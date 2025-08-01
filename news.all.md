@@ -3,16 +3,16 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | AUD | Low | Judo Bank Manufacturing PMI (Jul) | 51.3 |  | 51.6 |
-| 23 min | JPY | Low | Jobs/applications ratio (Jun) |  | 1.25 | 1.24 |
-| 23 min | JPY | Low | Unemployment Rate (Jun) |  | 2.5% | 2.5% |
-| 53 min | KRW | Low | Exports (YoY) (Jul) |  | 4.6% | 4.3% |
-| 53 min | KRW | Low | Imports (YoY) (Jul) |  | 2.0% | 3.3% |
-| 53 min | KRW | Low | Trade Balance (Jul) |  | 5.36B | 9.08B |
-| 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Jul) |  |  | 48.7 |
-| 01:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Jul) |  | 48.8 | 50.1 |
-| 01:30 | IDR | Low | S&P Global Manufacturing PMI (Jul) |  |  | 46.9 |
-| 02:30 | AUD | Moderate | PPI (QoQ) (Q2) |  | 0.9% | 0.9% |
-| 02:30 | AUD | Moderate | PPI (YoY) (Q2) |  |  | 3.7% |
+| 00:30 | JPY | Low | Jobs/applications ratio (Jun) | 1.22 | 1.25 | 1.24 |
+| 00:30 | JPY | Low | Unemployment Rate (Jun) | 2.5% | 2.5% | 2.5% |
+| 01:00 | KRW | Low | Exports (YoY) (Jul) | 5.9% | 4.6% | 4.3% |
+| 01:00 | KRW | Low | Imports (YoY) (Jul) | 0.7% | 2.0% | 3.3% |
+| 01:00 | KRW | Low | Trade Balance (Jul) | 6.61B | 5.36B | 9.08B |
+| 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Jul) | 48.0 |  | 48.7 |
+| 01:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Jul) | 48.9 | 48.8 | 50.1 |
+| 01:30 | IDR | Low | S&P Global Manufacturing PMI (Jul) | 49.2 |  | 46.9 |
+| 53 min | AUD | Moderate | PPI (QoQ) (Q2) |  | 0.9% | 0.9% |
+| 53 min | AUD | Moderate | PPI (YoY) (Q2) |  |  | 3.7% |
 | 02:45 | CNY | Moderate | Caixin Manufacturing PMI (MoM) (Jul) |  | 50.2 | 50.4 |
 | 03:00 | IDR | Low | Core Inflation (YoY) (Jul) |  | 2.37% | 2.37% |
 | 03:00 | IDR | Low | Export Growth (YoY) (Jun) |  | 12.20% | 9.68% |
@@ -21,8 +21,8 @@
 | 03:00 | IDR | Low | Inflation (YoY) (Jul) |  | 2.24% | 1.87% |
 | 03:00 | IDR | Low | Trade Balance (Jun) |  | 3.55B | 4.30B |
 | 06:00 | INR | Low | S&P Global Manufacturing PMI (Jul) |  | 59.2 | 58.4 |
-| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Jul) |  | 2.1% | 2.1% |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Jul) |  | 0.5% | -0.8% |
+| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Jul) |  | 2.1% | 2.1% |
 | 07:00 | NOK | Low | M3 Money Supply (Jun) |  |  | 3,388.0B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Jun) |  |  | 4.1% |
 | 07:00 | NOK | Low | Unemployment Rate n.s.a. (Jul) |  |  | 2.00% |
@@ -38,14 +38,14 @@
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Jul) |  | 48.2 | 47.7 |
 | 10:00 | EUR | Low | Core CPI (MoM) (Jul) |  |  | 0.4% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Jul) |  | 2.3% | 2.3% |
-| 10:00 | EUR | High | CPI (YoY) (Jul) |  | 1.9% | 2.0% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Jul) |  |  | 0.3% |
+| 10:00 | EUR | High | CPI (YoY) (Jul) |  | 1.9% | 2.0% |
 | 10:00 | EUR | Low | CPI, n.s.a (Jul) |  |  | 129.10 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jul) |  |  | 2.4% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jul) |  |  | 0.3% |
 | 10:00 | ZAR | Low | Manufacturing PMI (Jul) |  |  | 43.1 |
-| 11:00 | EUR | Low | Car Registration (YoY) (Jul) |  |  | 15.20% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Jul) |  |  | 5.60% |
+| 11:00 | EUR | Low | Car Registration (YoY) (Jul) |  |  | 15.20% |
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 9.8% |
 | 12:30 | INR | Low | Deposit Growth |  |  | 10.1% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 695.49B |

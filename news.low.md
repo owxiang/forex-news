@@ -3,14 +3,14 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | AUD | Judo Bank Manufacturing PMI (Jul) | 51.3 |  | 51.6 |
-| 23 min | JPY | Jobs/applications ratio (Jun) |  | 1.25 | 1.24 |
-| 23 min | JPY | Unemployment Rate (Jun) |  | 2.5% | 2.5% |
-| 53 min | KRW | Exports (YoY) (Jul) |  | 4.6% | 4.3% |
-| 53 min | KRW | Imports (YoY) (Jul) |  | 2.0% | 3.3% |
-| 53 min | KRW | Trade Balance (Jul) |  | 5.36B | 9.08B |
-| 01:30 | KRW | S&P Global South Korea Manufacturing PMI (Jul) |  |  | 48.7 |
-| 01:30 | JPY | au Jibun Bank Manufacturing PMI (Jul) |  | 48.8 | 50.1 |
-| 01:30 | IDR | S&P Global Manufacturing PMI (Jul) |  |  | 46.9 |
+| 00:30 | JPY | Jobs/applications ratio (Jun) | 1.22 | 1.25 | 1.24 |
+| 00:30 | JPY | Unemployment Rate (Jun) | 2.5% | 2.5% | 2.5% |
+| 01:00 | KRW | Exports (YoY) (Jul) | 5.9% | 4.6% | 4.3% |
+| 01:00 | KRW | Imports (YoY) (Jul) | 0.7% | 2.0% | 3.3% |
+| 01:00 | KRW | Trade Balance (Jul) | 6.61B | 5.36B | 9.08B |
+| 01:30 | KRW | S&P Global South Korea Manufacturing PMI (Jul) | 48.0 |  | 48.7 |
+| 01:30 | JPY | au Jibun Bank Manufacturing PMI (Jul) | 48.9 | 48.8 | 50.1 |
+| 01:30 | IDR | S&P Global Manufacturing PMI (Jul) | 49.2 |  | 46.9 |
 | 03:00 | IDR | Core Inflation (YoY) (Jul) |  | 2.37% | 2.37% |
 | 03:00 | IDR | Export Growth (YoY) (Jun) |  | 12.20% | 9.68% |
 | 03:00 | IDR | Import Growth (YoY) (Jun) |  | 6.50% | 4.14% |
@@ -30,8 +30,8 @@
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Jul) |  |  | 2.4% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Jul) |  |  | 0.3% |
 | 10:00 | ZAR | Manufacturing PMI (Jul) |  |  | 43.1 |
-| 11:00 | EUR | Car Registration (YoY) (Jul) |  |  | 15.20% |
 | 11:00 | EUR | Car Registration (MoM) (Jul) |  |  | 5.60% |
+| 11:00 | EUR | Car Registration (YoY) (Jul) |  |  | 15.20% |
 | 12:30 | INR | Bank Loan Growth |  |  | 9.8% |
 | 12:30 | INR | Deposit Growth |  |  | 10.1% |
 | 12:30 | INR | FX Reserves, USD |  |  | 695.49B |
