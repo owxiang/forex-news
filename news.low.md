@@ -47,14 +47,14 @@
 | 15:00 | USD | ISM Manufacturing New Orders Index (Jul) | 47.1 | 48.7 | 46.4 |
 | 15:00 | USD | Michigan Current Conditions (Jul) | 68.0 | 66.8 | 64.8 |
 | 16:00 | MXN | S&P Global Manufacturing PMI (Jul) | 49.10 |  | 46.30 |
-| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.5K |
-| 20:30 | USD | CFTC Copper speculative net positions |  |  | 39.8K |
-| 20:30 | USD | CFTC Corn speculative net positions |  |  | -133.9K |
-| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -77.6K |
-| 20:30 | USD | CFTC Silver speculative net positions |  |  | 60.6K |
-| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 36.0K |
-| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -53.9K |
-| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -70.3K |
-| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 56.1K |
-| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -26.1K |
-| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -3.2K |
+| 23 min | USD | CFTC Aluminium speculative net positions |  |  | 0.5K |
+| 23 min | USD | CFTC Copper speculative net positions |  |  | 39.8K |
+| 23 min | USD | CFTC Corn speculative net positions |  |  | -133.9K |
+| 23 min | USD | CFTC Natural Gas speculative net positions |  |  | -77.6K |
+| 23 min | USD | CFTC Silver speculative net positions |  |  | 60.6K |
+| 23 min | USD | CFTC Soybeans speculative net positions |  |  | 36.0K |
+| 23 min | USD | CFTC Wheat speculative net positions |  |  | -53.9K |
+| 23 min | CAD | CFTC CAD speculative net positions |  |  | -70.3K |
+| 23 min | MXN | CFTC MXN speculative net positions |  |  | 56.1K |
+| 23 min | CHF | CFTC CHF speculative net positions |  |  | -26.1K |
+| 23 min | NZD | CFTC NZD speculative net positions |  |  | -3.2K |
