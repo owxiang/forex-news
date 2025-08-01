@@ -11,18 +11,18 @@
 | 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Jul) | 48.0 |  | 48.7 |
 | 01:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Jul) | 48.9 | 48.8 | 50.1 |
 | 01:30 | IDR | Low | S&P Global Manufacturing PMI (Jul) | 49.2 |  | 46.9 |
-| 53 min | AUD | Moderate | PPI (QoQ) (Q2) |  | 0.9% | 0.9% |
-| 53 min | AUD | Moderate | PPI (YoY) (Q2) |  |  | 3.7% |
-| 02:45 | CNY | Moderate | Caixin Manufacturing PMI (MoM) (Jul) |  | 50.2 | 50.4 |
-| 03:00 | IDR | Low | Core Inflation (YoY) (Jul) |  | 2.37% | 2.37% |
-| 03:00 | IDR | Low | Export Growth (YoY) (Jun) |  | 12.20% | 9.68% |
-| 03:00 | IDR | Low | Import Growth (YoY) (Jun) |  | 6.50% | 4.14% |
-| 03:00 | IDR | Low | Inflation (MoM) (Jul) |  | 0.21% | 0.19% |
-| 03:00 | IDR | Low | Inflation (YoY) (Jul) |  | 2.24% | 1.87% |
-| 03:00 | IDR | Low | Trade Balance (Jun) |  | 3.55B | 4.30B |
+| 02:30 | AUD | Moderate | PPI (QoQ) (Q2) | 0.7% | 0.9% | 0.9% |
+| 02:30 | AUD | Moderate | PPI (YoY) (Q2) | 3.4% |  | 3.7% |
+| 8 min | CNY | Moderate | Caixin Manufacturing PMI (MoM) (Jul) |  | 50.2 | 50.4 |
+| 23 min | IDR | Low | Core Inflation (YoY) (Jul) |  | 2.37% | 2.37% |
+| 23 min | IDR | Low | Export Growth (YoY) (Jun) |  | 12.20% | 9.68% |
+| 23 min | IDR | Low | Import Growth (YoY) (Jun) |  | 6.50% | 4.14% |
+| 23 min | IDR | Low | Inflation (YoY) (Jul) |  | 2.24% | 1.87% |
+| 23 min | IDR | Low | Inflation (MoM) (Jul) |  | 0.21% | 0.19% |
+| 23 min | IDR | Low | Trade Balance (Jun) |  | 3.55B | 4.30B |
 | 06:00 | INR | Low | S&P Global Manufacturing PMI (Jul) |  | 59.2 | 58.4 |
-| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Jul) |  | 0.5% | -0.8% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Jul) |  | 2.1% | 2.1% |
+| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Jul) |  | 0.5% | -0.8% |
 | 07:00 | NOK | Low | M3 Money Supply (Jun) |  |  | 3,388.0B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Jun) |  |  | 4.1% |
 | 07:00 | NOK | Low | Unemployment Rate n.s.a. (Jul) |  |  | 2.00% |
@@ -31,8 +31,8 @@
 | 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Jul) |  | 48.7 | 48.4 |
 | 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (Jul) |  | 48.4 | 48.1 |
 | 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Jul) |  | 49.2 | 49.0 |
-| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Jun) |  |  | 1.3% |
 | 09:00 | EUR | Low | Italian Retail Sales (MoM) (Jun) |  | 0.3% | -0.4% |
+| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Jun) |  |  | 1.3% |
 | 09:00 | NOK | Low | Manufacturing PMI (Jul) |  |  | 49.3 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Jul) |  | 49.8 | 49.5 |
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Jul) |  | 48.2 | 47.7 |
@@ -44,15 +44,15 @@
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jul) |  |  | 2.4% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jul) |  |  | 0.3% |
 | 10:00 | ZAR | Low | Manufacturing PMI (Jul) |  |  | 43.1 |
-| 11:00 | EUR | Low | Car Registration (MoM) (Jul) |  |  | 5.60% |
 | 11:00 | EUR | Low | Car Registration (YoY) (Jul) |  |  | 15.20% |
+| 11:00 | EUR | Low | Car Registration (MoM) (Jul) |  |  | 5.60% |
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 9.8% |
 | 12:30 | INR | Low | Deposit Growth |  |  | 10.1% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 695.49B |
 | 13:00 | USD | Low | Dallas Fed PCE (Jun) |  |  | 2.00% |
 | 13:00 | EUR | Low | Spanish Consumer Confidence (Jun) |  |  | 82.5 |
-| 13:00 | BRL | Low | Industrial Production (MoM) (Jun) |  | 0.4% | -0.5% |
 | 13:00 | BRL | Moderate | Industrial Production (YoY) (Jun) |  | -0.6% | 3.3% |
+| 13:00 | BRL | Low | Industrial Production (MoM) (Jun) |  | 0.4% | -0.5% |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jul) |  | 3.8% | 3.7% |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Jul) |  | 0.3% | 0.2% |
 | 13:30 | USD | Low | Average Weekly Hours (Jul) |  | 34.2 | 34.2 |
