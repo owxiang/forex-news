@@ -16,16 +16,16 @@
 | 10:00 | EUR | Core CPI (YoY) (Jul) | 2.3% | 2.3% | 2.3% |
 | 10:00 | EUR | CPI (MoM) (Jul) | 0.0% |  | 0.3% |
 | 13:00 | BRL | Industrial Production (YoY) (Jun) | -1.3% | -0.6% | 3.3% |
-| 17 min | USD | Average Hourly Earnings (YoY) (YoY) (Jul) |  | 3.8% | 3.7% |
-| 17 min | USD | Participation Rate (Jul) |  |  | 62.3% |
-| 17 min | USD | Private Nonfarm Payrolls (Jul) |  | 100K | 74K |
-| 17 min | USD | U6 Unemployment Rate (Jul) |  |  | 7.7% |
-| 15:00 | USD | Construction Spending (MoM) (Jun) |  | 0.0% | -0.3% |
-| 15:00 | USD | ISM Manufacturing Employment (Jul) |  |  | 45.0 |
-| 15:00 | USD | Michigan 1-Year Inflation Expectations (Jul) |  | 4.4% | 5.0% |
-| 15:00 | USD | Michigan 5-Year Inflation Expectations (Jul) |  | 3.6% | 4.0% |
-| 15:00 | USD | Michigan Consumer Expectations (Jul) |  | 58.6 | 58.1 |
-| 15:00 | USD | Michigan Consumer Sentiment (Jul) |  | 61.8 | 60.7 |
+| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Jul) | 3.9% | 3.8% | 3.8% |
+| 13:30 | USD | Participation Rate (Jul) | 62.2% |  | 62.3% |
+| 13:30 | USD | Private Nonfarm Payrolls (Jul) | 83K | 100K | 3K |
+| 13:30 | USD | U6 Unemployment Rate (Jul) | 7.9% |  | 7.7% |
+| 42 min | USD | Construction Spending (MoM) (Jun) |  | 0.0% | -0.3% |
+| 42 min | USD | ISM Manufacturing Employment (Jul) |  |  | 45.0 |
+| 42 min | USD | Michigan 1-Year Inflation Expectations (Jul) |  | 4.4% | 5.0% |
+| 42 min | USD | Michigan 5-Year Inflation Expectations (Jul) |  | 3.6% | 4.0% |
+| 42 min | USD | Michigan Consumer Expectations (Jul) |  | 58.6 | 58.1 |
+| 42 min | USD | Michigan Consumer Sentiment (Jul) |  | 61.8 | 60.7 |
 | 18:00 | USD | Atlanta Fed GDPNow (Q3) |  | 2.3% | 2.3% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 415 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 542 |
