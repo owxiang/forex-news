@@ -21,10 +21,10 @@
 | 07:00 | NOK | M3 Money Supply (Jun) | 3,422.2B |  | 3,388.0B |
 | 07:00 | NOK | Credit Indicator (YoY) (Jun) | 4.1% |  | 4.1% |
 | 07:00 | NOK | Unemployment Rate n.s.a. (Jul) | 2.20% |  | 2.00% |
-| 18 min | AUD | Commodity Prices (YoY) (Jul) |  |  | -8.7% |
-| 09:00 | EUR | Italian Retail Sales (MoM) (Jun) |  | 0.3% | -0.4% |
-| 09:00 | EUR | Italian Retail Sales (YoY) (Jun) |  |  | 1.3% |
-| 09:00 | NOK | Manufacturing PMI (Jul) |  |  | 49.3 |
+| 07:30 | AUD | Commodity Prices (YoY) (Jul) | -9.0% |  | -8.7% |
+| 49 min | EUR | Italian Retail Sales (MoM) (Jun) |  | 0.3% | -0.4% |
+| 49 min | EUR | Italian Retail Sales (YoY) (Jun) |  |  | 1.3% |
+| 49 min | NOK | Manufacturing PMI (Jul) |  |  | 49.3 |
 | 10:00 | EUR | Core CPI (MoM) (Jul) |  |  | 0.4% |
 | 10:00 | EUR | CPI, n.s.a (Jul) |  |  | 129.10 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Jul) |  |  | 2.4% |

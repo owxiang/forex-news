@@ -21,20 +21,20 @@
 | 03:00 | IDR | Low | Inflation (MoM) (Jul) | 0.30% | 0.21% | 0.19% |
 | 03:00 | IDR | Low | Trade Balance (Jun) | 4.11B | 3.55B | 4.30B |
 | 06:00 | INR | Low | S&P Global Manufacturing PMI (Jul) | 59.1 | 59.2 | 58.4 |
-| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Jul) | 2.4% | 2.1% | 2.1% |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Jul) | 0.6% | 0.5% | -0.9% |
+| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Jul) | 2.4% | 2.1% | 2.1% |
 | 07:00 | NOK | Low | M3 Money Supply (Jun) | 3,422.2B |  | 3,388.0B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Jun) | 4.1% |  | 4.1% |
 | 07:00 | NOK | Low | Unemployment Rate n.s.a. (Jul) | 2.20% |  | 2.00% |
-| 18 min | AUD | Low | Commodity Prices (YoY) (Jul) |  |  | -8.7% |
-| 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Jul) |  | 51.7 | 51.4 |
-| 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Jul) |  | 48.7 | 48.4 |
-| 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (Jul) |  | 48.4 | 48.1 |
-| 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Jul) |  | 49.2 | 49.2 |
-| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Jun) |  | 0.3% | -0.4% |
-| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Jun) |  |  | 1.3% |
-| 09:00 | NOK | Low | Manufacturing PMI (Jul) |  |  | 49.3 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Jul) |  | 49.8 | 49.5 |
+| 07:30 | AUD | Low | Commodity Prices (YoY) (Jul) | -9.0% |  | -8.7% |
+| 4 min | EUR | Moderate | HCOB Spain Manufacturing PMI (Jul) |  | 51.7 | 51.4 |
+| 34 min | EUR | Moderate | HCOB Italy Manufacturing PMI (Jul) |  | 48.7 | 48.4 |
+| 39 min | EUR | Moderate | HCOB France Manufacturing PMI (Jul) |  | 48.4 | 48.1 |
+| 44 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Jul) |  | 49.2 | 49.2 |
+| 49 min | EUR | Low | Italian Retail Sales (MoM) (Jun) |  | 0.3% | -0.4% |
+| 49 min | EUR | Low | Italian Retail Sales (YoY) (Jun) |  |  | 1.3% |
+| 49 min | NOK | Low | Manufacturing PMI (Jul) |  |  | 49.3 |
+| 49 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Jul) |  | 49.8 | 49.5 |
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Jul) |  | 48.2 | 47.7 |
 | 10:00 | EUR | Low | Core CPI (MoM) (Jul) |  |  | 0.4% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Jul) |  | 2.3% | 2.3% |
@@ -53,8 +53,8 @@
 | 13:00 | EUR | Low | Spanish Consumer Confidence (Jun) |  |  | 82.5 |
 | 13:00 | BRL | Low | Industrial Production (MoM) (Jun) |  | 0.4% | -0.5% |
 | 13:00 | BRL | Moderate | Industrial Production (YoY) (Jun) |  | -0.6% | 3.3% |
-| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jul) |  | 3.8% | 3.7% |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Jul) |  | 0.3% | 0.2% |
+| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jul) |  | 3.8% | 3.7% |
 | 13:30 | USD | Low | Average Weekly Hours (Jul) |  | 34.2 | 34.2 |
 | 13:30 | USD | Low | Government Payrolls (Jul) |  |  | 73.0K |
 | 13:30 | USD | Low | Manufacturing Payrolls (Jul) |  | -3K | -7K |
