@@ -53,8 +53,8 @@
 | 02:30 | AUD | CPI Index Number (Q2) | 141.70 |  | 140.70 |
 | 02:30 | AUD | Trimmed Mean CPI (YoY) (Q2) | 2.7% | 2.7% | 2.9% |
 | 02:30 | AUD | Monthly CPI Indicator (YoY) (Jun) | 1.90% | 2.10% | 2.10% |
-| 02:30 | AUD | Weighted mean CPI (YoY) (Q2) | 2.7% | 2.7% | 2.9% |
 | 02:30 | AUD | Weighted mean CPI (QoQ) (Q2) | 0.6% | 0.6% | 0.7% |
+| 02:30 | AUD | Weighted mean CPI (YoY) (Q2) | 2.7% | 2.7% | 2.9% |
 | 03:30 | SGD | Unemployment Rate (Q2) | 2.1% |  | 2.0% |
 | 07:00 | EUR | German Retail Sales (YoY) (Jun) | 4.9% |  | 4.6% |
 | 08:00 | EUR | Core CPI (YoY) (Jul) | 2.3% |  | 2.2% |
@@ -125,8 +125,8 @@
 | 07:30 | CHF | Retail Sales (YoY) (Jun) | 3.8% | 0.2% | 0.3% |
 | 07:45 | EUR | French CPI (YoY) (Jul) | 1.0% | 1.0% | 1.0% |
 | 07:45 | EUR | French HICP (YoY) (Jul) | 0.9% | 0.8% | 0.9% |
-| 07:45 | EUR | PPI (YoY) (Jun) | 0.20% |  | 0.00% |
 | 07:45 | EUR | French PPI (MoM) (Jun) | -0.2% |  | -0.9% |
+| 07:45 | EUR | PPI (YoY) (Jun) | 0.20% |  | 0.00% |
 | 08:00 | CHF | Official Reserves Assets (Jun) | 812.7B |  | 806.1B |
 | 08:55 | EUR | German Unemployment (Jul) | 2.970M |  | 2.972M |
 | 08:55 | EUR | German Unemployment n.s.a. (Jul) | 2.979M |  | 2.914M |
@@ -137,8 +137,8 @@
 | 09:00 | EUR | Bavaria CPI (MoM) (Jul) | 0.3% |  | -0.1% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Jul) | 0.3% |  | 0.2% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Jul) | 2.2% |  | 2.2% |
-| 09:00 | EUR | Hesse CPI (MoM) (Jul) | 0.3% |  | 0.1% |
 | 09:00 | EUR | Hesse CPI (YoY) (Jul) | 2.4% |  | 2.3% |
+| 09:00 | EUR | Hesse CPI (MoM) (Jul) | 0.3% |  | 0.1% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Jul) | 1.8% |  | 1.8% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Jul) | 0.2% |  | -0.1% |
 | 09:00 | EUR | Saxony CPI (YoY) (Jul) | 2.1% |  | 2.4% |
@@ -151,8 +151,8 @@
 | 09:30 | HKD | Retail Sales (YoY) (Jun) | 0.7% |  | 2.4% |
 | 10:00 | EUR | Italian CPI (YoY) (Jul) | 1.7% | 1.5% | 1.7% |
 | 10:00 | EUR | Italian CPI (MoM) (Jul) | 0.4% | 0.1% | 0.2% |
-| 10:00 | EUR | Italian HICP (YoY) (Jul) | 1.7% | 1.6% | 1.8% |
 | 10:00 | EUR | Italian HICP (MoM) (Jul) | -1.0% | -1.0% | 0.2% |
+| 10:00 | EUR | Italian HICP (YoY) (Jul) | 1.7% | 1.6% | 1.8% |
 | 10:30 | ZAR | PPI (YoY) (Jun) | 0.6% |  | 0.1% |
 | 10:30 | ZAR | PPI (MoM) (Jun) | 0.2% |  | -0.3% |
 | 11:00 | EUR | Italian PPI (YoY) (Jun) | 2.5% |  | 1.7% |
