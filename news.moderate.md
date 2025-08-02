@@ -14,19 +14,19 @@
 | 16:30 | USD | Atlanta Fed GDPNow (Q2) | 2.9% | 2.4% | 2.4% |
 | 18:00 | USD | 7-Year Note Auction | 4.092% |  | 4.022% |
 | 21:30 | USD | API Weekly Crude Oil Stock | 1.539M | -2.500M | -0.577M |
-| 02:30 | AUD | CPI (YoY) (Q2) | 2.1% | 2.1% | 2.4% |
 | 02:30 | AUD | CPI (QoQ) (Q2) | 0.7% | 0.8% | 0.9% |
+| 02:30 | AUD | CPI (YoY) (Q2) | 2.1% | 2.1% | 2.4% |
 | 02:30 | AUD | Trimmed Mean CPI (QoQ) (Q2) | 0.6% | 0.7% | 0.7% |
 | 06:30 | EUR | French Consumer Spending (MoM) (Jun) | 0.6% | -0.3% | 0.1% |
-| 06:30 | EUR | French GDP (QoQ) (Q2) | 0.3% | 0.1% | 0.1% |
 | 06:30 | EUR | French GDP (YoY) (Q2) | 0.7% |  | 0.6% |
+| 06:30 | EUR | French GDP (QoQ) (Q2) | 0.3% | 0.1% | 0.1% |
 | 07:00 | EUR | German Retail Sales (MoM) (Jun) | 1.0% | 0.5% | -0.6% |
 | 08:00 | CHF | KOF Leading Indicators (Jul) | 101.1 | 97.9 | 96.3 |
 | 08:00 | EUR | Spanish CPI (YoY) (Jul) | 2.7% | 2.3% | 2.3% |
 | 08:00 | EUR | Spanish HICP (YoY) (Jul) | 2.7% | 2.7% | 2.3% |
 | 09:00 | EUR | German GDP (YoY) (Q2) | 0.4% | 0.2% | 0.0% |
-| 10:00 | EUR | GDP (QoQ) (Q2) | 0.1% | 0.0% | 0.6% |
 | 10:00 | EUR | GDP (YoY) (Q2) | 1.4% | 1.2% | 1.5% |
+| 10:00 | EUR | GDP (QoQ) (Q2) | 0.1% | 0.0% | 0.6% |
 | 10:10 | EUR | Italian 10-Year BTP Auction | 3.52% |  | 3.48% |
 | 13:00 | MXN | GDP (QoQ) (Q2) | 0.7% | 0.4% | 0.2% |
 | 13:00 | MXN | GDP (YoY) (Q2) | 0.1% | -0.1% | 0.8% |
