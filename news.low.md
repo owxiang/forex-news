@@ -135,8 +135,8 @@
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jul) | 2.3% |  | 2.3% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Jul) | 1.9% |  | 1.8% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Jul) | 0.3% |  | -0.1% |
-| 09:00 | EUR | Brandenburg CPI (MoM) (Jul) | 0.3% |  | 0.2% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Jul) | 2.2% |  | 2.2% |
+| 09:00 | EUR | Brandenburg CPI (MoM) (Jul) | 0.3% |  | 0.2% |
 | 09:00 | EUR | Hesse CPI (MoM) (Jul) | 0.3% |  | 0.1% |
 | 09:00 | EUR | Hesse CPI (YoY) (Jul) | 2.4% |  | 2.3% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Jul) | 0.2% |  | -0.1% |
@@ -155,8 +155,8 @@
 | 10:00 | EUR | Italian HICP (MoM) (Jul) | -1.0% | -1.0% | 0.2% |
 | 10:30 | ZAR | PPI (YoY) (Jun) | 0.6% |  | 0.1% |
 | 10:30 | ZAR | PPI (MoM) (Jun) | 0.2% |  | -0.3% |
-| 11:00 | EUR | Italian PPI (YoY) (Jun) | 2.5% |  | 1.7% |
 | 11:00 | EUR | Italian PPI (MoM) (Jun) | 1.5% |  | -0.7% |
+| 11:00 | EUR | Italian PPI (YoY) (Jun) | 2.5% |  | 1.7% |
 | 11:00 | INR | Federal Fiscal Deficit (Jun) | 2,807.32B |  | 131.63B |
 | 12:30 | USD | Challenger Job Cuts (Jul) | 62.075K |  | 47.999K |
 | 12:30 | USD | Challenger Job Cuts (YoY) | 139.8% |  | -1.6% |
