@@ -14,8 +14,8 @@
 | 16:30 | USD | Atlanta Fed GDPNow (Q2) | 2.9% | 2.4% | 2.4% |
 | 18:00 | USD | 7-Year Note Auction | 4.092% |  | 4.022% |
 | 21:30 | USD | API Weekly Crude Oil Stock | 1.539M | -2.500M | -0.577M |
-| 02:30 | AUD | CPI (QoQ) (Q2) | 0.7% | 0.8% | 0.9% |
 | 02:30 | AUD | CPI (YoY) (Q2) | 2.1% | 2.1% | 2.4% |
+| 02:30 | AUD | CPI (QoQ) (Q2) | 0.7% | 0.8% | 0.9% |
 | 02:30 | AUD | Trimmed Mean CPI (QoQ) (Q2) | 0.6% | 0.7% | 0.7% |
 | 06:30 | EUR | French Consumer Spending (MoM) (Jun) | 0.6% | -0.3% | 0.1% |
 | 06:30 | EUR | French GDP (QoQ) (Q2) | 0.3% | 0.1% | 0.1% |
@@ -25,11 +25,11 @@
 | 08:00 | EUR | Spanish CPI (YoY) (Jul) | 2.7% | 2.3% | 2.3% |
 | 08:00 | EUR | Spanish HICP (YoY) (Jul) | 2.7% | 2.7% | 2.3% |
 | 09:00 | EUR | German GDP (YoY) (Q2) | 0.4% | 0.2% | 0.0% |
-| 10:00 | EUR | GDP (YoY) (Q2) | 1.4% | 1.2% | 1.5% |
 | 10:00 | EUR | GDP (QoQ) (Q2) | 0.1% | 0.0% | 0.6% |
+| 10:00 | EUR | GDP (YoY) (Q2) | 1.4% | 1.2% | 1.5% |
 | 10:10 | EUR | Italian 10-Year BTP Auction | 3.52% |  | 3.48% |
-| 13:00 | MXN | GDP (YoY) (Q2) | 0.1% | -0.1% | 0.8% |
 | 13:00 | MXN | GDP (QoQ) (Q2) | 0.7% | 0.4% | 0.2% |
+| 13:00 | MXN | GDP (YoY) (Q2) | 0.1% | -0.1% | 0.8% |
 | 13:30 | USD | Core PCE Prices (Q2) | 2.50% | 2.40% | 3.50% |
 | 13:30 | USD | GDP Price Index (QoQ) (Q2) | 2.0% | 2.2% | 3.8% |
 | 14:45 | CAD | BoC Monetary Policy Report |  |  |  |
@@ -56,8 +56,8 @@
 | 13:00 | BRL | Unemployment Rate (Jun) | 5.8% | 6.0% | 6.2% |
 | 13:30 | USD | Continuing Jobless Claims | 1,946K | 1,960K | 1,946K |
 | 13:30 | USD | Employment Cost Index (QoQ) (Q2) | 0.9% | 0.8% | 0.9% |
-| 13:30 | USD | PCE price index (MoM) (Jun) | 0.3% | 0.3% | 0.2% |
 | 13:30 | USD | PCE Price index (YoY) (Jun) | 2.6% | 2.5% | 2.4% |
+| 13:30 | USD | PCE price index (MoM) (Jun) | 0.3% | 0.3% | 0.2% |
 | 13:30 | USD | Personal Spending (MoM) (Jun) | 0.3% | 0.4% | 0.0% |
 | 13:30 | CAD | GDP (MoM) (May) | -0.1% | -0.1% | -0.1% |
 | 13:31 | CAD | GDP (MoM) (Jun) | 0.1% |  | -0.1% |
@@ -67,8 +67,8 @@
 | 02:30 | AUD | PPI (QoQ) (Q2) | 0.7% | 0.9% | 0.9% |
 | 02:30 | AUD | PPI (YoY) (Q2) | 3.4% |  | 3.7% |
 | 02:45 | CNY | Caixin Manufacturing PMI (MoM) (Jul) | 49.5 | 50.2 | 50.4 |
-| 07:00 | GBP | Nationwide HPI (YoY) (Jul) | 2.4% | 2.1% | 2.1% |
 | 07:00 | GBP | Nationwide HPI (MoM) (Jul) | 0.6% | 0.5% | -0.9% |
+| 07:00 | GBP | Nationwide HPI (YoY) (Jul) | 2.4% | 2.1% | 2.1% |
 | 08:15 | EUR | HCOB Spain Manufacturing PMI (Jul) | 51.9 | 51.7 | 51.4 |
 | 08:45 | EUR | HCOB Italy Manufacturing PMI (Jul) | 49.8 | 48.7 | 48.4 |
 | 08:50 | EUR | HCOB France Manufacturing PMI (Jul) | 48.2 | 48.4 | 48.1 |
