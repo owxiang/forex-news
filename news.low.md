@@ -42,8 +42,8 @@
 | 11:00 | EUR | Italian 6-Month BOT Auction | 2.003% |  | 1.950% |
 | 13:30 | USD | Wholesale Inventories (MoM) (Jun) | 0.2% | -0.1% | -0.3% |
 | 13:55 | USD | Redbook (YoY) | 4.9% |  | 5.1% |
-| 14:00 | USD | House Price Index (MoM) (May) | -0.2% | -0.1% | -0.3% |
 | 14:00 | USD | House Price Index (YoY) (May) | 2.8% |  | 3.2% |
+| 14:00 | USD | House Price Index (MoM) (May) | -0.2% | -0.1% | -0.3% |
 | 14:00 | USD | House Price Index (May) | 434.4 |  | 435.1 |
 | 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (May) | -0.3% |  | -0.3% |
 | 15:30 | USD | Dallas Fed Services Revenues (Jul) | 6.3 |  | -4.1 |
@@ -60,11 +60,11 @@
 | 08:00 | EUR | Core CPI (YoY) (Jul) | 2.3% |  | 2.2% |
 | 08:00 | EUR | Spanish CPI (MoM) (Jul) | -0.1% |  | 0.7% |
 | 08:00 | EUR | Spanish HICP (MoM) (Jul) | -0.4% |  | 0.7% |
-| 09:00 | EUR | Italian GDP (YoY) (Q2) | 0.4% | 0.6% | 0.7% |
 | 09:00 | EUR | Italian GDP (QoQ) (Q2) | -0.1% | 0.1% | 0.3% |
+| 09:00 | EUR | Italian GDP (YoY) (Q2) | 0.4% | 0.6% | 0.7% |
 | 09:00 | CHF | ZEW Expectations (Jul) | 2.4 |  | -2.1 |
-| 10:00 | EUR | Italian Industrial Sales (YoY) (May) | -1.80% |  | 0.90% |
 | 10:00 | EUR | Italian Industrial Sales (MoM) (May) | -2.20% |  | 1.40% |
+| 10:00 | EUR | Italian Industrial Sales (YoY) (May) | -1.80% |  | 0.90% |
 | 10:00 | EUR | Business and Consumer Survey (Jul) | 95.8 | 94.5 | 94.2 |
 | 10:00 | EUR | Business Climate (Jul) | -0.72 |  | -0.78 |
 | 10:00 | EUR | Consumer Confidence (Jul) | -14.7 | -14.7 | -15.3 |
@@ -95,8 +95,8 @@
 | 15:30 | USD | Gasoline Inventories | -2.724M | -1.100M | -1.738M |
 | 18:30 | BRL | Foreign Exchange Flows | -0.886B |  | 0.216B |
 | 22:00 | MXN | Fiscal Balance (Jun) | -194.28B |  | -117.90B |
-| 00:00 | KRW | Industrial Production (YoY) (Jun) | 1.6% |  | -0.3% |
 | 00:00 | KRW | Industrial Production (MoM) (Jun) | 1.6% |  | -3.3% |
+| 00:00 | KRW | Industrial Production (YoY) (Jun) | 1.6% |  | -0.3% |
 | 00:00 | KRW | Retail Sales (MoM) (Jun) | 0.5% |  | -0.1% |
 | 00:00 | KRW | Service Sector Output (MoM) (Jun) | 0.5% |  | -0.1% |
 | 00:20 | GBP | BoE Hauser Speaks |  |  |  |
@@ -131,16 +131,16 @@
 | 08:55 | EUR | German Unemployment (Jul) | 2.970M |  | 2.972M |
 | 08:55 | EUR | German Unemployment n.s.a. (Jul) | 2.979M |  | 2.914M |
 | 09:00 | EUR | Italian Monthly Unemployment Rate (Jun) | 6.3% | 6.4% | 6.5% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Jul) | 0.4% |  | 0.2% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jul) | 2.3% |  | 2.3% |
-| 09:00 | EUR | Bavaria CPI (MoM) (Jul) | 0.3% |  | -0.1% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Jul) | 0.4% |  | 0.2% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Jul) | 1.9% |  | 1.8% |
-| 09:00 | EUR | Brandenburg CPI (YoY) (Jul) | 2.2% |  | 2.2% |
+| 09:00 | EUR | Bavaria CPI (MoM) (Jul) | 0.3% |  | -0.1% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Jul) | 0.3% |  | 0.2% |
-| 09:00 | EUR | Hesse CPI (YoY) (Jul) | 2.4% |  | 2.3% |
+| 09:00 | EUR | Brandenburg CPI (YoY) (Jul) | 2.2% |  | 2.2% |
 | 09:00 | EUR | Hesse CPI (MoM) (Jul) | 0.3% |  | 0.1% |
-| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Jul) | 0.2% |  | -0.1% |
+| 09:00 | EUR | Hesse CPI (YoY) (Jul) | 2.4% |  | 2.3% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Jul) | 1.8% |  | 1.8% |
+| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Jul) | 0.2% |  | -0.1% |
 | 09:00 | EUR | Saxony CPI (YoY) (Jul) | 2.1% |  | 2.4% |
 | 09:00 | EUR | Saxony CPI (MoM) (Jul) | 0.2% |  | 0.2% |
 | 09:00 | EUR | Spanish Current account (May) | 6.44B |  | 1.36B |
@@ -149,23 +149,23 @@
 | 09:30 | HKD | GDP (QoQ) (Q2) | 0.4% | -0.2% | 1.9% |
 | 09:30 | HKD | M3 Money Supply (Jun) | 8.4% |  | 9.5% |
 | 09:30 | HKD | Retail Sales (YoY) (Jun) | 0.7% |  | 2.4% |
-| 10:00 | EUR | Italian CPI (MoM) (Jul) | 0.4% | 0.1% | 0.2% |
 | 10:00 | EUR | Italian CPI (YoY) (Jul) | 1.7% | 1.5% | 1.7% |
-| 10:00 | EUR | Italian HICP (MoM) (Jul) | -1.0% | -1.0% | 0.2% |
+| 10:00 | EUR | Italian CPI (MoM) (Jul) | 0.4% | 0.1% | 0.2% |
 | 10:00 | EUR | Italian HICP (YoY) (Jul) | 1.7% | 1.6% | 1.8% |
-| 10:30 | ZAR | PPI (MoM) (Jun) | 0.2% |  | -0.3% |
+| 10:00 | EUR | Italian HICP (MoM) (Jul) | -1.0% | -1.0% | 0.2% |
 | 10:30 | ZAR | PPI (YoY) (Jun) | 0.6% |  | 0.1% |
-| 11:00 | EUR | Italian PPI (MoM) (Jun) | 1.5% |  | -0.7% |
+| 10:30 | ZAR | PPI (MoM) (Jun) | 0.2% |  | -0.3% |
 | 11:00 | EUR | Italian PPI (YoY) (Jun) | 2.5% |  | 1.7% |
+| 11:00 | EUR | Italian PPI (MoM) (Jun) | 1.5% |  | -0.7% |
 | 11:00 | INR | Federal Fiscal Deficit (Jun) | 2,807.32B |  | 131.63B |
-| 12:30 | USD | Challenger Job Cuts (Jul) | 62.075K |  | 47.999K |
 | 12:30 | USD | Challenger Job Cuts (YoY) | 139.8% |  | -1.6% |
+| 12:30 | USD | Challenger Job Cuts (Jul) | 62.075K |  | 47.999K |
 | 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
 | 12:30 | BRL | Net Debt-to-GDP ratio (Jun) | 62.9% |  | 62.0% |
 | 12:30 | BRL | Budget Balance (Jun) | -108.107B |  | -125.885B |
 | 12:30 | BRL | Budget Surplus (Jun) | -47.091B |  | -33.740B |
-| 13:00 | EUR | German HICP (MoM) (Jul) | 0.4% | 0.4% | 0.1% |
 | 13:00 | EUR | German HICP (YoY) (Jul) | 1.8% | 1.8% | 2.0% |
+| 13:00 | EUR | German HICP (MoM) (Jul) | 0.4% | 0.4% | 0.1% |
 | 13:00 | ZAR | Trade Balance (Jun) | 22.04B |  | 20.03B |
 | 13:30 | USD | Employment Benefits (QoQ) (Q2) | 0.70% |  | 1.20% |
 | 13:30 | USD | Employment Wages (QoQ) (Q2) | 1.00% |  | 0.80% |
@@ -192,8 +192,8 @@
 | 03:00 | IDR | Core Inflation (YoY) (Jul) | 2.32% | 2.37% | 2.37% |
 | 03:00 | IDR | Export Growth (YoY) (Jun) | 11.29% | 12.20% | 9.68% |
 | 03:00 | IDR | Import Growth (YoY) (Jun) | 4.28% | 6.50% | 4.14% |
-| 03:00 | IDR | Inflation (MoM) (Jul) | 0.30% | 0.21% | 0.19% |
 | 03:00 | IDR | Inflation (YoY) (Jul) | 2.37% | 2.24% | 1.87% |
+| 03:00 | IDR | Inflation (MoM) (Jul) | 0.30% | 0.21% | 0.19% |
 | 03:00 | IDR | Trade Balance (Jun) | 4.11B | 3.55B | 4.30B |
 | 06:00 | INR | S&P Global Manufacturing PMI (Jul) | 59.1 | 59.2 | 58.4 |
 | 07:00 | NOK | M3 Money Supply (Jun) | 3,422.2B |  | 3,388.0B |
@@ -208,10 +208,10 @@
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Jul) | 2.4% |  | 2.4% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Jul) | -0.1% |  | 0.3% |
 | 10:00 | ZAR | Manufacturing PMI (Jul) | 50.8 |  | 48.5 |
-| 11:00 | EUR | Car Registration (MoM) (Jul) | -17.50% |  | 5.60% |
 | 11:00 | EUR | Car Registration (YoY) (Jul) | 17.10% |  | 15.20% |
-| 12:05 | ZAR | Total Vehicle Sales (YoY) (Jul) | 15.60% |  | 18.70% |
+| 11:00 | EUR | Car Registration (MoM) (Jul) | -17.50% |  | 5.60% |
 | 12:05 | ZAR | Total Vehicle Sales (Jul) | 51.38K |  | 47.21K |
+| 12:05 | ZAR | Total Vehicle Sales (YoY) (Jul) | 15.60% |  | 18.70% |
 | 12:30 | INR | Bank Loan Growth | 9.8% |  | 9.5% |
 | 12:30 | INR | Deposit Growth | 10.1% |  | 10.1% |
 | 12:30 | INR | FX Reserves, USD | 698.19B |  | 695.49B |
