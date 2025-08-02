@@ -67,8 +67,8 @@
 | 02:30 | AUD | Moderate | CPI (YoY) (Q2) | 2.1% | 2.1% | 2.4% |
 | 02:30 | AUD | Moderate | CPI (QoQ) (Q2) | 0.7% | 0.8% | 0.9% |
 | 02:30 | AUD | Low | CPI Index Number (Q2) | 141.70 |  | 140.70 |
-| 02:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q2) | 0.6% | 0.7% | 0.7% |
 | 02:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q2) | 2.7% | 2.7% | 2.9% |
+| 02:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q2) | 0.6% | 0.7% | 0.7% |
 | 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (Jun) | 1.90% | 2.10% | 2.10% |
 | 02:30 | AUD | Low | Weighted mean CPI (YoY) (Q2) | 2.7% | 2.7% | 2.9% |
 | 02:30 | AUD | Low | Weighted mean CPI (QoQ) (Q2) | 0.6% | 0.6% | 0.7% |
@@ -84,8 +84,8 @@
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jul) | 2.7% | 2.3% | 2.3% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Jul) | -0.4% |  | 0.7% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jul) | 2.7% | 2.7% | 2.3% |
-| 09:00 | EUR | Low | Italian GDP (YoY) (Q2) | 0.4% | 0.6% | 0.7% |
 | 09:00 | EUR | Low | Italian GDP (QoQ) (Q2) | -0.1% | 0.1% | 0.3% |
+| 09:00 | EUR | Low | Italian GDP (YoY) (Q2) | 0.4% | 0.6% | 0.7% |
 | 09:00 | CHF | Low | ZEW Expectations (Jul) | 2.4 |  | -2.1 |
 | 09:00 | EUR | High | German GDP (QoQ) (Q2) | -0.1% | -0.1% | 0.4% |
 | 09:00 | EUR | Moderate | German GDP (YoY) (Q2) | 0.4% | 0.2% | 0.0% |
@@ -181,8 +181,8 @@
 | 07:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Jul) | 0.2% | 0.3% | 0.4% |
 | 07:45 | EUR | Low | French CPI (YoY) (Jul) | 1.0% | 1.0% | 1.0% |
-| 07:45 | EUR | Low | French HICP (YoY) (Jul) | 0.9% | 0.8% | 0.9% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Jul) | 0.3% | 0.2% | 0.4% |
+| 07:45 | EUR | Low | French HICP (YoY) (Jul) | 0.9% | 0.8% | 0.9% |
 | 07:45 | EUR | Low | PPI (YoY) (Jun) | 0.20% |  | 0.00% |
 | 07:45 | EUR | Low | French PPI (MoM) (Jun) | -0.2% |  | -0.9% |
 | 08:00 | CHF | Low | Official Reserves Assets (Jun) | 812.7B |  | 806.1B |
@@ -193,8 +193,8 @@
 | 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Jun) | 6.3% | 6.4% | 6.5% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Jul) | 0.4% |  | 0.2% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Jul) | 2.3% |  | 2.3% |
-| 09:00 | EUR | Low | Bavaria CPI (MoM) (Jul) | 0.3% |  | -0.1% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Jul) | 1.9% |  | 1.8% |
+| 09:00 | EUR | Low | Bavaria CPI (MoM) (Jul) | 0.3% |  | -0.1% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Jul) | 2.2% |  | 2.2% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Jul) | 0.3% |  | 0.2% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Jul) | 0.3% |  | 0.1% |
@@ -211,8 +211,8 @@
 | 09:30 | HKD | Low | Retail Sales (YoY) (Jun) | 0.7% |  | 2.4% |
 | 10:00 | EUR | Low | Italian CPI (YoY) (Jul) | 1.7% | 1.5% | 1.7% |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Jul) | 0.4% | 0.1% | 0.2% |
-| 10:00 | EUR | Low | Italian HICP (MoM) (Jul) | -1.0% | -1.0% | 0.2% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Jul) | 1.7% | 1.6% | 1.8% |
+| 10:00 | EUR | Low | Italian HICP (MoM) (Jul) | -1.0% | -1.0% | 0.2% |
 | 10:00 | EUR | Moderate | Unemployment Rate (Jun) | 6.2% | 6.3% | 6.2% |
 | 10:30 | ZAR | Low | PPI (MoM) (Jun) | 0.2% |  | -0.3% |
 | 10:30 | ZAR | Low | PPI (YoY) (Jun) | 0.6% |  | 0.1% |
@@ -226,8 +226,8 @@
 | 12:30 | BRL | Low | Budget Balance (Jun) | -108.107B |  | -125.885B |
 | 12:30 | BRL | Low | Budget Surplus (Jun) | -47.091B |  | -33.740B |
 | 12:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Jun) | 76.6% |  | 76.1% |
-| 13:00 | EUR | High | German CPI (MoM) (Jul) | 0.3% | 0.2% | 0.0% |
 | 13:00 | EUR | Moderate | German CPI (YoY) (Jul) | 2.0% | 1.9% | 2.0% |
+| 13:00 | EUR | High | German CPI (MoM) (Jul) | 0.3% | 0.2% | 0.0% |
 | 13:00 | EUR | Low | German HICP (MoM) (Jul) | 0.4% | 0.4% | 0.1% |
 | 13:00 | EUR | Low | German HICP (YoY) (Jul) | 1.8% | 1.8% | 2.0% |
 | 13:00 | BRL | Moderate | Unemployment Rate (Jun) | 5.8% | 6.0% | 6.2% |
@@ -295,8 +295,8 @@
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Jul) | 48.0 | 48.2 | 47.7 |
 | 10:00 | EUR | Low | Core CPI (MoM) (Jul) | -0.2% |  | 0.4% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Jul) | 2.3% | 2.3% | 2.3% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Jul) | 0.0% |  | 0.3% |
 | 10:00 | EUR | High | CPI (YoY) (Jul) | 2.0% | 1.9% | 2.0% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Jul) | 0.0% |  | 0.3% |
 | 10:00 | EUR | Low | CPI, n.s.a (Jul) | 129.10 |  | 129.10 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jul) | 2.4% |  | 2.4% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jul) | -0.1% |  | 0.3% |
@@ -308,8 +308,8 @@
 | 12:30 | INR | Low | Bank Loan Growth | 9.8% |  | 9.5% |
 | 12:30 | INR | Low | Deposit Growth | 10.1% |  | 10.1% |
 | 12:30 | INR | Low | FX Reserves, USD | 698.19B |  | 695.49B |
-| 13:00 | BRL | Moderate | Industrial Production (YoY) (Jun) | -1.3% | -0.6% | 3.3% |
 | 13:00 | BRL | Low | Industrial Production (MoM) (Jun) | 0.1% | 0.4% | -0.6% |
+| 13:00 | BRL | Moderate | Industrial Production (YoY) (Jun) | -1.3% | -0.6% | 3.3% |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jul) | 3.9% | 3.8% | 3.8% |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Jul) | 0.3% | 0.3% | 0.2% |
 | 13:30 | USD | Low | Average Weekly Hours (Jul) | 34.3 | 34.2 | 34.2 |
