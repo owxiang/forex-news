@@ -63,8 +63,8 @@
 | 09:00 | EUR | Italian GDP (YoY) (Q2) | 0.4% | 0.6% | 0.7% |
 | 09:00 | EUR | Italian GDP (QoQ) (Q2) | -0.1% | 0.1% | 0.3% |
 | 09:00 | CHF | ZEW Expectations (Jul) | 2.4 |  | -2.1 |
-| 10:00 | EUR | Italian Industrial Sales (YoY) (May) | -1.80% |  | 0.90% |
 | 10:00 | EUR | Italian Industrial Sales (MoM) (May) | -2.20% |  | 1.40% |
+| 10:00 | EUR | Italian Industrial Sales (YoY) (May) | -1.80% |  | 0.90% |
 | 10:00 | EUR | Business and Consumer Survey (Jul) | 95.8 | 94.5 | 94.2 |
 | 10:00 | EUR | Business Climate (Jul) | -0.72 |  | -0.78 |
 | 10:00 | EUR | Consumer Confidence (Jul) | -14.7 | -14.7 | -15.3 |
@@ -141,8 +141,8 @@
 | 09:00 | EUR | Hesse CPI (YoY) (Jul) | 2.4% |  | 2.3% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Jul) | 0.2% |  | -0.1% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Jul) | 1.8% |  | 1.8% |
-| 09:00 | EUR | Saxony CPI (YoY) (Jul) | 2.1% |  | 2.4% |
 | 09:00 | EUR | Saxony CPI (MoM) (Jul) | 0.2% |  | 0.2% |
+| 09:00 | EUR | Saxony CPI (YoY) (Jul) | 2.1% |  | 2.4% |
 | 09:00 | EUR | Spanish Current account (May) | 6.44B |  | 1.36B |
 | 09:00 | NOK | Central Bank Currency Purchase (Aug) | -150.0M |  | -150.0M |
 | 09:30 | HKD | GDP (YoY) (Q2) | 3.1% | 2.8% | 3.1% |
@@ -219,12 +219,14 @@
 | 13:30 | USD | Average Weekly Hours (Jul) | 34.3 | 34.2 | 34.2 |
 | 13:30 | USD | Government Payrolls (Jul) | -10.0K |  | 11.0K |
 | 13:30 | USD | Manufacturing Payrolls (Jul) | -11K | -3K | -15K |
+| 14:00 | EUR | Spanish Consumer Confidence (Jun) | 76.1 |  | 82.5 |
 | 14:00 | BRL | S&P Global Manufacturing PMI (Jul) | 48.2 |  | 48.3 |
 | 14:00 | SGD | S&P Global Manufacturing PMI (Jul) | 49.9 |  | 50.0 |
 | 14:30 | CAD | S&P Global Manufacturing PMI (Jul) | 46.1 |  | 45.6 |
 | 15:00 | USD | ISM Manufacturing New Orders Index (Jul) | 47.1 | 48.7 | 46.4 |
 | 15:00 | USD | Michigan Current Conditions (Jul) | 68.0 | 66.8 | 64.8 |
 | 16:00 | MXN | S&P Global Manufacturing PMI (Jul) | 49.10 |  | 46.30 |
+| 17:30 | EUR | Italian Car Registration (YoY) (Jul) | -5.1% |  | -17.4% |
 | 20:30 | USD | CFTC Aluminium speculative net positions | 0.5K |  | 0.5K |
 | 20:30 | USD | CFTC Copper speculative net positions | 37.3K |  | 39.8K |
 | 20:30 | USD | CFTC Corn speculative net positions | -133.5K |  | -133.9K |
