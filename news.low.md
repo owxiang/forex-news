@@ -60,11 +60,11 @@
 | 08:00 | EUR | Core CPI (YoY) (Jul) | 2.3% |  | 2.2% |
 | 08:00 | EUR | Spanish CPI (MoM) (Jul) | -0.1% |  | 0.7% |
 | 08:00 | EUR | Spanish HICP (MoM) (Jul) | -0.4% |  | 0.7% |
-| 09:00 | EUR | Italian GDP (QoQ) (Q2) | -0.1% | 0.1% | 0.3% |
 | 09:00 | EUR | Italian GDP (YoY) (Q2) | 0.4% | 0.6% | 0.7% |
+| 09:00 | EUR | Italian GDP (QoQ) (Q2) | -0.1% | 0.1% | 0.3% |
 | 09:00 | CHF | ZEW Expectations (Jul) | 2.4 |  | -2.1 |
-| 10:00 | EUR | Italian Industrial Sales (MoM) (May) | -2.20% |  | 1.40% |
 | 10:00 | EUR | Italian Industrial Sales (YoY) (May) | -1.80% |  | 0.90% |
+| 10:00 | EUR | Italian Industrial Sales (MoM) (May) | -2.20% |  | 1.40% |
 | 10:00 | EUR | Business and Consumer Survey (Jul) | 95.8 | 94.5 | 94.2 |
 | 10:00 | EUR | Business Climate (Jul) | -0.72 |  | -0.78 |
 | 10:00 | EUR | Consumer Confidence (Jul) | -14.7 | -14.7 | -15.3 |
@@ -133,16 +133,16 @@
 | 09:00 | EUR | Italian Monthly Unemployment Rate (Jun) | 6.3% | 6.4% | 6.5% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Jul) | 0.4% |  | 0.2% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jul) | 2.3% |  | 2.3% |
-| 09:00 | EUR | Bavaria CPI (YoY) (Jul) | 1.9% |  | 1.8% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Jul) | 0.3% |  | -0.1% |
+| 09:00 | EUR | Bavaria CPI (YoY) (Jul) | 1.9% |  | 1.8% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Jul) | 2.2% |  | 2.2% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Jul) | 0.3% |  | 0.2% |
 | 09:00 | EUR | Hesse CPI (MoM) (Jul) | 0.3% |  | 0.1% |
 | 09:00 | EUR | Hesse CPI (YoY) (Jul) | 2.4% |  | 2.3% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Jul) | 0.2% |  | -0.1% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Jul) | 1.8% |  | 1.8% |
-| 09:00 | EUR | Saxony CPI (MoM) (Jul) | 0.2% |  | 0.2% |
 | 09:00 | EUR | Saxony CPI (YoY) (Jul) | 2.1% |  | 2.4% |
+| 09:00 | EUR | Saxony CPI (MoM) (Jul) | 0.2% |  | 0.2% |
 | 09:00 | EUR | Spanish Current account (May) | 6.44B |  | 1.36B |
 | 09:00 | NOK | Central Bank Currency Purchase (Aug) | -150.0M |  | -150.0M |
 | 09:30 | HKD | GDP (YoY) (Q2) | 3.1% | 2.8% | 3.1% |
@@ -151,8 +151,8 @@
 | 09:30 | HKD | Retail Sales (YoY) (Jun) | 0.7% |  | 2.4% |
 | 10:00 | EUR | Italian CPI (YoY) (Jul) | 1.7% | 1.5% | 1.7% |
 | 10:00 | EUR | Italian CPI (MoM) (Jul) | 0.4% | 0.1% | 0.2% |
-| 10:00 | EUR | Italian HICP (YoY) (Jul) | 1.7% | 1.6% | 1.8% |
 | 10:00 | EUR | Italian HICP (MoM) (Jul) | -1.0% | -1.0% | 0.2% |
+| 10:00 | EUR | Italian HICP (YoY) (Jul) | 1.7% | 1.6% | 1.8% |
 | 10:30 | ZAR | PPI (MoM) (Jun) | 0.2% |  | -0.3% |
 | 10:30 | ZAR | PPI (YoY) (Jun) | 0.6% |  | 0.1% |
 | 11:00 | EUR | Italian PPI (MoM) (Jun) | 1.5% |  | -0.7% |

@@ -64,8 +64,8 @@
 | 14:00 | ZAR | Interest Rate Decision (Aug) | 7.00% | 7.00% | 7.25% |
 | 16:30 | USD | Atlanta Fed GDPNow (Q3) | 2.3% |  |  |
 | 21:30 | USD | Fed's Balance Sheet | 6,643B |  | 6,658B |
-| 02:30 | AUD | PPI (QoQ) (Q2) | 0.7% | 0.9% | 0.9% |
 | 02:30 | AUD | PPI (YoY) (Q2) | 3.4% |  | 3.7% |
+| 02:30 | AUD | PPI (QoQ) (Q2) | 0.7% | 0.9% | 0.9% |
 | 02:45 | CNY | Caixin Manufacturing PMI (MoM) (Jul) | 49.5 | 50.2 | 50.4 |
 | 07:00 | GBP | Nationwide HPI (MoM) (Jul) | 0.6% | 0.5% | -0.9% |
 | 07:00 | GBP | Nationwide HPI (YoY) (Jul) | 2.4% | 2.1% | 2.1% |
