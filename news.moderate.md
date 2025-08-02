@@ -9,8 +9,8 @@
 | 11:00 | EUR | France Jobseekers Total (Jun) | 2,980.6K |  | 3,002.0K |
 | 13:30 | USD | Goods Trade Balance (Jun) | -85.99B | -98.30B | -96.59B |
 | 13:30 | USD | Retail Inventories Ex Auto (Jun) | 0.0% |  | 0.1% |
-| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (May) | 0.4% |  | 0.8% |
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (May) | 2.8% | 2.9% | 3.4% |
+| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (May) | 0.4% |  | 0.8% |
 | 16:30 | USD | Atlanta Fed GDPNow (Q2) | 2.9% | 2.4% | 2.4% |
 | 18:00 | USD | 7-Year Note Auction | 4.092% |  | 4.022% |
 | 21:30 | USD | API Weekly Crude Oil Stock | 1.539M | -2.500M | -0.577M |
@@ -56,8 +56,8 @@
 | 13:00 | BRL | Unemployment Rate (Jun) | 5.8% | 6.0% | 6.2% |
 | 13:30 | USD | Continuing Jobless Claims | 1,946K | 1,960K | 1,946K |
 | 13:30 | USD | Employment Cost Index (QoQ) (Q2) | 0.9% | 0.8% | 0.9% |
-| 13:30 | USD | PCE price index (MoM) (Jun) | 0.3% | 0.3% | 0.2% |
 | 13:30 | USD | PCE Price index (YoY) (Jun) | 2.6% | 2.5% | 2.4% |
+| 13:30 | USD | PCE price index (MoM) (Jun) | 0.3% | 0.3% | 0.2% |
 | 13:30 | USD | Personal Spending (MoM) (Jun) | 0.3% | 0.4% | 0.0% |
 | 13:30 | CAD | GDP (MoM) (May) | -0.1% | -0.1% | -0.1% |
 | 13:31 | CAD | GDP (MoM) (Jun) | 0.1% |  | -0.1% |
