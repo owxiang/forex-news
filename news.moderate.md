@@ -9,8 +9,8 @@
 | 11:00 | EUR | France Jobseekers Total (Jun) | 2,980.6K |  | 3,002.0K |
 | 13:30 | USD | Goods Trade Balance (Jun) | -85.99B | -98.30B | -96.59B |
 | 13:30 | USD | Retail Inventories Ex Auto (Jun) | 0.0% |  | 0.1% |
-| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (May) | 2.8% | 2.9% | 3.4% |
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (May) | 0.4% |  | 0.8% |
+| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (May) | 2.8% | 2.9% | 3.4% |
 | 16:30 | USD | Atlanta Fed GDPNow (Q2) | 2.9% | 2.4% | 2.4% |
 | 18:00 | USD | 7-Year Note Auction | 4.092% |  | 4.022% |
 | 21:30 | USD | API Weekly Crude Oil Stock | 1.539M | -2.500M | -0.577M |
@@ -18,8 +18,8 @@
 | 02:30 | AUD | CPI (YoY) (Q2) | 2.1% | 2.1% | 2.4% |
 | 02:30 | AUD | Trimmed Mean CPI (QoQ) (Q2) | 0.6% | 0.7% | 0.7% |
 | 06:30 | EUR | French Consumer Spending (MoM) (Jun) | 0.6% | -0.3% | 0.1% |
-| 06:30 | EUR | French GDP (QoQ) (Q2) | 0.3% | 0.1% | 0.1% |
 | 06:30 | EUR | French GDP (YoY) (Q2) | 0.7% |  | 0.6% |
+| 06:30 | EUR | French GDP (QoQ) (Q2) | 0.3% | 0.1% | 0.1% |
 | 07:00 | EUR | German Retail Sales (MoM) (Jun) | 1.0% | 0.5% | -0.6% |
 | 08:00 | CHF | KOF Leading Indicators (Jul) | 101.1 | 97.9 | 96.3 |
 | 08:00 | EUR | Spanish CPI (YoY) (Jul) | 2.7% | 2.3% | 2.3% |
@@ -64,11 +64,11 @@
 | 14:00 | ZAR | Interest Rate Decision (Aug) | 7.00% | 7.00% | 7.25% |
 | 16:30 | USD | Atlanta Fed GDPNow (Q3) | 2.3% |  |  |
 | 21:30 | USD | Fed's Balance Sheet | 6,643B |  | 6,658B |
-| 02:30 | AUD | PPI (QoQ) (Q2) | 0.7% | 0.9% | 0.9% |
 | 02:30 | AUD | PPI (YoY) (Q2) | 3.4% |  | 3.7% |
+| 02:30 | AUD | PPI (QoQ) (Q2) | 0.7% | 0.9% | 0.9% |
 | 02:45 | CNY | Caixin Manufacturing PMI (MoM) (Jul) | 49.5 | 50.2 | 50.4 |
-| 07:00 | GBP | Nationwide HPI (YoY) (Jul) | 2.4% | 2.1% | 2.1% |
 | 07:00 | GBP | Nationwide HPI (MoM) (Jul) | 0.6% | 0.5% | -0.9% |
+| 07:00 | GBP | Nationwide HPI (YoY) (Jul) | 2.4% | 2.1% | 2.1% |
 | 08:15 | EUR | HCOB Spain Manufacturing PMI (Jul) | 51.9 | 51.7 | 51.4 |
 | 08:45 | EUR | HCOB Italy Manufacturing PMI (Jul) | 49.8 | 48.7 | 48.4 |
 | 08:50 | EUR | HCOB France Manufacturing PMI (Jul) | 48.2 | 48.4 | 48.1 |
