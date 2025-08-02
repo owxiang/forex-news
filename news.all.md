@@ -49,8 +49,8 @@
 | 13:30 | USD | Moderate | Retail Inventories Ex Auto (Jun) | 0.0% |  | 0.1% |
 | 13:30 | USD | Low | Wholesale Inventories (MoM) (Jun) | 0.2% | -0.1% | -0.3% |
 | 13:55 | USD | Low | Redbook (YoY) | 4.9% |  | 5.1% |
-| 14:00 | USD | Low | House Price Index (YoY) (May) | 2.8% |  | 3.2% |
 | 14:00 | USD | Low | House Price Index (MoM) (May) | -0.2% | -0.1% | -0.3% |
+| 14:00 | USD | Low | House Price Index (YoY) (May) | 2.8% |  | 3.2% |
 | 14:00 | USD | Low | House Price Index (May) | 434.4 |  | 435.1 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (May) | -0.3% |  | -0.3% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (May) | 0.4% |  | 0.8% |
@@ -64,8 +64,8 @@
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock | 1.539M | -2.500M | -0.577M |
 | 02:00 | NZD | Low | ANZ Business Confidence (Jul) | 47.8 |  | 46.3 |
 | 02:00 | NZD | Low | NBNZ Own Activity (Jul) | 40.6% |  | 40.9% |
-| 02:30 | AUD | Moderate | CPI (YoY) (Q2) | 2.1% | 2.1% | 2.4% |
 | 02:30 | AUD | Moderate | CPI (QoQ) (Q2) | 0.7% | 0.8% | 0.9% |
+| 02:30 | AUD | Moderate | CPI (YoY) (Q2) | 2.1% | 2.1% | 2.4% |
 | 02:30 | AUD | Low | CPI Index Number (Q2) | 141.70 |  | 140.70 |
 | 02:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q2) | 0.6% | 0.7% | 0.7% |
 | 02:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q2) | 2.7% | 2.7% | 2.9% |
@@ -179,8 +179,8 @@
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Jun) | -1.4% | -1.6% | -1.1% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Jun) | 3.8% | 0.2% | 0.3% |
 | 07:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Jul) | 0.2% | 0.3% | 0.4% |
 | 07:45 | EUR | Low | French CPI (YoY) (Jul) | 1.0% | 1.0% | 1.0% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Jul) | 0.2% | 0.3% | 0.4% |
 | 07:45 | EUR | Low | French HICP (YoY) (Jul) | 0.9% | 0.8% | 0.9% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Jul) | 0.3% | 0.2% | 0.4% |
 | 07:45 | EUR | Low | PPI (YoY) (Jun) | 0.20% |  | 0.00% |
@@ -197,8 +197,8 @@
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Jul) | 1.9% |  | 1.8% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Jul) | 2.2% |  | 2.2% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Jul) | 0.3% |  | 0.2% |
-| 09:00 | EUR | Low | Hesse CPI (MoM) (Jul) | 0.3% |  | 0.1% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Jul) | 2.4% |  | 2.3% |
+| 09:00 | EUR | Low | Hesse CPI (MoM) (Jul) | 0.3% |  | 0.1% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Jul) | 0.2% |  | -0.1% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Jul) | 1.8% |  | 1.8% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Jul) | 2.1% |  | 2.4% |
@@ -209,8 +209,8 @@
 | 09:30 | HKD | Low | GDP (QoQ) (Q2) | 0.4% | -0.2% | 1.9% |
 | 09:30 | HKD | Low | M3 Money Supply (Jun) | 8.4% |  | 9.5% |
 | 09:30 | HKD | Low | Retail Sales (YoY) (Jun) | 0.7% |  | 2.4% |
-| 10:00 | EUR | Low | Italian CPI (YoY) (Jul) | 1.7% | 1.5% | 1.7% |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Jul) | 0.4% | 0.1% | 0.2% |
+| 10:00 | EUR | Low | Italian CPI (YoY) (Jul) | 1.7% | 1.5% | 1.7% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Jul) | -1.0% | -1.0% | 0.2% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Jul) | 1.7% | 1.6% | 1.8% |
 | 10:00 | EUR | Moderate | Unemployment Rate (Jun) | 6.2% | 6.3% | 6.2% |
@@ -288,8 +288,8 @@
 | 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Jul) | 49.8 | 48.7 | 48.4 |
 | 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (Jul) | 48.2 | 48.4 | 48.1 |
 | 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Jul) | 49.1 | 49.2 | 49.2 |
-| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Jun) | 1.0% |  | 1.4% |
 | 09:00 | EUR | Low | Italian Retail Sales (MoM) (Jun) | 0.6% | 0.3% | -0.4% |
+| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Jun) | 1.0% |  | 1.4% |
 | 09:00 | NOK | Low | Manufacturing PMI (Jul) | 50.9 |  | 49.3 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Jul) | 49.8 | 49.8 | 49.5 |
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Jul) | 48.0 | 48.2 | 47.7 |

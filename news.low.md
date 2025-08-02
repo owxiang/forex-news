@@ -42,8 +42,8 @@
 | 11:00 | EUR | Italian 6-Month BOT Auction | 2.003% |  | 1.950% |
 | 13:30 | USD | Wholesale Inventories (MoM) (Jun) | 0.2% | -0.1% | -0.3% |
 | 13:55 | USD | Redbook (YoY) | 4.9% |  | 5.1% |
-| 14:00 | USD | House Price Index (YoY) (May) | 2.8% |  | 3.2% |
 | 14:00 | USD | House Price Index (MoM) (May) | -0.2% | -0.1% | -0.3% |
+| 14:00 | USD | House Price Index (YoY) (May) | 2.8% |  | 3.2% |
 | 14:00 | USD | House Price Index (May) | 434.4 |  | 435.1 |
 | 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (May) | -0.3% |  | -0.3% |
 | 15:30 | USD | Dallas Fed Services Revenues (Jul) | 6.3 |  | -4.1 |
@@ -137,8 +137,8 @@
 | 09:00 | EUR | Bavaria CPI (YoY) (Jul) | 1.9% |  | 1.8% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Jul) | 2.2% |  | 2.2% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Jul) | 0.3% |  | 0.2% |
-| 09:00 | EUR | Hesse CPI (MoM) (Jul) | 0.3% |  | 0.1% |
 | 09:00 | EUR | Hesse CPI (YoY) (Jul) | 2.4% |  | 2.3% |
+| 09:00 | EUR | Hesse CPI (MoM) (Jul) | 0.3% |  | 0.1% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Jul) | 0.2% |  | -0.1% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Jul) | 1.8% |  | 1.8% |
 | 09:00 | EUR | Saxony CPI (YoY) (Jul) | 2.1% |  | 2.4% |
@@ -149,8 +149,8 @@
 | 09:30 | HKD | GDP (QoQ) (Q2) | 0.4% | -0.2% | 1.9% |
 | 09:30 | HKD | M3 Money Supply (Jun) | 8.4% |  | 9.5% |
 | 09:30 | HKD | Retail Sales (YoY) (Jun) | 0.7% |  | 2.4% |
-| 10:00 | EUR | Italian CPI (YoY) (Jul) | 1.7% | 1.5% | 1.7% |
 | 10:00 | EUR | Italian CPI (MoM) (Jul) | 0.4% | 0.1% | 0.2% |
+| 10:00 | EUR | Italian CPI (YoY) (Jul) | 1.7% | 1.5% | 1.7% |
 | 10:00 | EUR | Italian HICP (MoM) (Jul) | -1.0% | -1.0% | 0.2% |
 | 10:00 | EUR | Italian HICP (YoY) (Jul) | 1.7% | 1.6% | 1.8% |
 | 10:30 | ZAR | PPI (MoM) (Jun) | 0.2% |  | -0.3% |
@@ -200,8 +200,8 @@
 | 07:00 | NOK | Credit Indicator (YoY) (Jun) | 4.1% |  | 4.1% |
 | 07:00 | NOK | Unemployment Rate n.s.a. (Jul) | 2.20% |  | 2.00% |
 | 07:30 | AUD | Commodity Prices (YoY) (Jul) | -9.0% |  | -8.7% |
-| 09:00 | EUR | Italian Retail Sales (YoY) (Jun) | 1.0% |  | 1.4% |
 | 09:00 | EUR | Italian Retail Sales (MoM) (Jun) | 0.6% | 0.3% | -0.4% |
+| 09:00 | EUR | Italian Retail Sales (YoY) (Jun) | 1.0% |  | 1.4% |
 | 09:00 | NOK | Manufacturing PMI (Jul) | 50.9 |  | 49.3 |
 | 10:00 | EUR | Core CPI (MoM) (Jul) | -0.2% |  | 0.4% |
 | 10:00 | EUR | CPI, n.s.a (Jul) | 129.10 |  | 129.10 |

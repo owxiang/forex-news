@@ -14,8 +14,8 @@
 | 16:30 | USD | Atlanta Fed GDPNow (Q2) | 2.9% | 2.4% | 2.4% |
 | 18:00 | USD | 7-Year Note Auction | 4.092% |  | 4.022% |
 | 21:30 | USD | API Weekly Crude Oil Stock | 1.539M | -2.500M | -0.577M |
-| 02:30 | AUD | CPI (YoY) (Q2) | 2.1% | 2.1% | 2.4% |
 | 02:30 | AUD | CPI (QoQ) (Q2) | 0.7% | 0.8% | 0.9% |
+| 02:30 | AUD | CPI (YoY) (Q2) | 2.1% | 2.1% | 2.4% |
 | 02:30 | AUD | Trimmed Mean CPI (QoQ) (Q2) | 0.6% | 0.7% | 0.7% |
 | 06:30 | EUR | French Consumer Spending (MoM) (Jun) | 0.6% | -0.3% | 0.1% |
 | 06:30 | EUR | French GDP (QoQ) (Q2) | 0.3% | 0.1% | 0.1% |
