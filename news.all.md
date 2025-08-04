@@ -11,9 +11,9 @@
 | 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (Jul) | 48.8 | 49.8 | 49.6 |
 | 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Jul) | 0.28% |  | -0.08% |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Aug) | -3.7 | 6.2 | 4.5 |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | MXN | Low | Consumer Confidence (Jul) |  |  | 45.4 |
-| 13:00 | MXN | Low | Consumer Confidence n.s.a. (Jul) |  |  | 45.7 |
+| 18 min | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 53 min | MXN | Low | Consumer Confidence (Jul) |  |  | 45.4 |
+| 53 min | MXN | Low | Consumer Confidence n.s.a. (Jul) |  |  | 45.7 |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 1.968% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 1.977% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 1.973% |
