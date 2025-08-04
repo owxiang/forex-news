@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 43 min | JPY | Monetary Base (YoY) (Jul) |  |  | -3.3% |
+| 00:50 | JPY | Monetary Base (YoY) (Jul) | -3.7% |  | -3.3% |
 | 02:00 | AUD | MI Inflation Gauge (MoM) (Jul) |  |  | 0.1% |
 | 07:30 | CHF | CPI (YoY) (Jul) |  | 0.1% | 0.1% |
 | 08:00 | EUR | French Car Registration (YoY) (Jul) |  |  | -6.7% |
