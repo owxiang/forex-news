@@ -29,4 +29,4 @@
 | 16:30 | USD | Low | 6-Month Bill Auction | 3.980% |  | 4.120% |
 | 18:30 | BRL | Low | CAGED Net Payroll Jobs (Jun) | 166.62K |  | 148.99K |
 | 19:00 | USD | Low | Loan Officer Survey |  |  |  |
-| 52 min | KRW | Low | FX Reserves - USD (Jul) |  |  | 410.20B |
+| 22:00 | KRW | Low | FX Reserves - USD (Jul) | 411.33B |  | 410.20B |
