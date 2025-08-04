@@ -13,11 +13,11 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 1.952% |  | 1.968% |
 | 14:00 | EUR | French 3-Month BTF Auction | 1.957% |  | 1.977% |
 | 14:00 | EUR | French 6-Month BTF Auction | 1.961% |  | 1.973% |
-| 39 min | USD | CB Employment Trends Index (Jul) |  |  | 107.83 |
-| 39 min | USD | Durables Excluding Defense (MoM) (Jun) |  | -9.4% | 15.5% |
-| 39 min | USD | Durables Excluding Transport (MoM) (Jun) |  |  | 0.2% |
-| 39 min | USD | Factory orders ex transportation (MoM) (Jun) |  |  | 0.2% |
-| 39 min | USD | Total Vehicle Sales (Jul) |  | 16.00M | 15.30M |
+| 15:00 | USD | CB Employment Trends Index (Jul) | 107.55 |  | 108.19 |
+| 15:00 | USD | Durables Excluding Defense (MoM) (Jun) | -9.4% | -9.4% | 15.5% |
+| 15:00 | USD | Durables Excluding Transport (MoM) (Jun) | 0.2% |  | 0.2% |
+| 15:00 | USD | Factory orders ex transportation (MoM) (Jun) | 0.4% |  | 0.3% |
+| 15:00 | USD | Total Vehicle Sales (Jul) | 16.40M | 16.00M | 15.30M |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.235% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.120% |
 | 18:30 | BRL | CAGED Net Payroll Jobs (Jun) |  |  | 148.99K |

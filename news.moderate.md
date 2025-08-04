@@ -6,4 +6,4 @@
 | 08:00 | EUR | Spanish Unemployment Change (Jul) | -1.4K | -21.3K | -48.9K |
 | 08:30 | CHF | procure.ch Manufacturing PMI (Jul) | 48.8 | 49.8 | 49.6 |
 | 09:00 | BRL | IPC-Fipe Inflation Index (MoM) (Jul) | 0.28% |  | -0.08% |
-| 39 min | USD | Factory Orders (MoM) (Jun) |  | -4.9% | 8.2% |
+| 15:00 | USD | Factory Orders (MoM) (Jun) | -4.8% | -4.9% | 8.3% |
