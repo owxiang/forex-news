@@ -6,7 +6,7 @@
 | 02:00 | AUD | MI Inflation Gauge (MoM) (Jul) | 0.9% |  | 0.1% |
 | 07:30 | CHF | CPI (YoY) (Jul) | 0.2% | 0.1% | 0.1% |
 | 08:00 | EUR | French Car Registration (YoY) (Jul) | -7.7% |  | -6.7% |
-| 09:30 | EUR | Sentix Investor Confidence (Aug) |  | 6.2 | 4.5 |
+| 19 min | EUR | Sentix Investor Confidence (Aug) |  | 6.2 | 4.5 |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:00 | MXN | Consumer Confidence (Jul) |  |  | 45.4 |
 | 13:00 | MXN | Consumer Confidence n.s.a. (Jul) |  |  | 45.7 |
