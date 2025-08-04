@@ -20,8 +20,8 @@
 | 15:00 | USD | Durables Excluding Transport (MoM) (Jun) | 0.2% |  | 0.2% |
 | 15:00 | USD | Factory orders ex transportation (MoM) (Jun) | 0.4% |  | 0.3% |
 | 15:00 | USD | Total Vehicle Sales (Jul) | 16.40M | 16.00M | 15.30M |
-| 22 min | USD | 3-Month Bill Auction |  |  | 4.235% |
-| 22 min | USD | 6-Month Bill Auction |  |  | 4.120% |
+| 16:30 | USD | 3-Month Bill Auction | 4.165% |  | 4.235% |
+| 16:30 | USD | 6-Month Bill Auction | 3.980% |  | 4.120% |
 | 18:30 | BRL | CAGED Net Payroll Jobs (Jun) |  |  | 148.99K |
 | 19:00 | USD | Loan Officer Survey |  |  |  |
 | 22:00 | KRW | FX Reserves - USD (Jul) |  |  | 410.20B |
