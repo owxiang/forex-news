@@ -1,32 +1,73 @@
-## 04 August 2025 - All Forex News
+## 05 August 2025 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:50 | JPY | Low | Monetary Base (YoY) (Jul) | -3.7% |  | -3.3% |
-| 02:00 | AUD | Low | MI Inflation Gauge (MoM) (Jul) | 0.9% |  | 0.1% |
-| 07:30 | CHF | Low | CPI (YoY) (Jul) | 0.2% | 0.1% | 0.1% |
-| 07:30 | CHF | Moderate | CPI (MoM) (Jul) | 0.0% | -0.2% | 0.2% |
-| 08:00 | EUR | Low | French Car Registration (YoY) (Jul) | -7.7% |  | -6.7% |
-| 08:00 | EUR | Moderate | Spanish Unemployment Change (Jul) | -1.4K | -21.3K | -48.9K |
-| 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (Jul) | 48.8 | 49.8 | 49.6 |
-| 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Jul) | 0.28% |  | -0.08% |
-| 09:30 | EUR | Low | Sentix Investor Confidence (Aug) | -3.7 | 6.2 | 4.5 |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | MXN | Low | Consumer Confidence (Jul) | 45.9 |  | 45.5 |
-| 13:00 | MXN | Low | Consumer Confidence n.s.a. (Jul) | 45.8 |  | 45.7 |
-| 14:00 | EUR | Low | French 12-Month BTF Auction | 1.952% |  | 1.968% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction | 1.957% |  | 1.977% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction | 1.961% |  | 1.973% |
-| 15:00 | USD | Low | All Car Sales (Jul) | 2.61M |  | 2.54M |
-| 15:00 | USD | Low | All Truck Sales (Jul) | 13.80M |  | 12.80M |
-| 15:00 | USD | Low | CB Employment Trends Index (Jul) | 107.55 |  | 108.19 |
-| 15:00 | USD | Low | Durables Excluding Defense (MoM) (Jun) | -9.4% | -9.4% | 15.5% |
-| 15:00 | USD | Low | Durables Excluding Transport (MoM) (Jun) | 0.2% |  | 0.2% |
-| 15:00 | USD | Moderate | Factory Orders (MoM) (Jun) | -4.8% | -4.9% | 8.3% |
-| 15:00 | USD | Low | Factory orders ex transportation (MoM) (Jun) | 0.4% |  | 0.3% |
-| 15:00 | USD | Low | Total Vehicle Sales (Jul) | 16.40M | 16.00M | 15.30M |
-| 16:30 | USD | Low | 3-Month Bill Auction | 4.165% |  | 4.235% |
-| 16:30 | USD | Low | 6-Month Bill Auction | 3.980% |  | 4.120% |
-| 18:30 | BRL | Low | CAGED Net Payroll Jobs (Jun) | 166.62K |  | 148.99K |
-| 19:00 | USD | Low | Loan Officer Survey |  |  |  |
-| 22:00 | KRW | Low | FX Reserves - USD (Jul) | 411.33B |  | 410.20B |
+| 00:00 | KRW | Low | CPI (YoY) (Jul) | 2.1% | 2.1% | 2.2% |
+| 00:00 | KRW | Low | CPI (MoM) (Jul) | 0.2% | 0.2% | 0.0% |
+| 00:00 | AUD | Low | Judo Bank Services PMI (Jul) | 54.1 | 53.8 | 53.8 |
+| 43 min | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
+| 01:30 | JPY | Moderate | au Jibun Bank Services PMI (Jul) |  | 53.5 | 53.5 |
+| 01:30 | HKD | Low | S&P Global Manufacturing PMI (Jul) |  |  | 47.8 |
+| 02:00 | NZD | Low | ANZ Commodity Price Index (MoM) |  |  | -2.3% |
+| 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (Jul) |  |  | 1.8% |
+| 02:45 | CNY | Moderate | Caixin Services PMI (Jul) |  | 50.4 | 50.6 |
+| 04:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 1.442% |
+| 05:00 | IDR | Low | GDP (YoY) (Q2) |  | 4.80% | 4.87% |
+| 05:00 | IDR | Low | GDP (QoQ) (Q2) |  | 3.70% | -0.98% |
+| 06:00 | INR | Low | S&P Global Services PMI (Jul) |  | 59.8 | 60.4 |
+| 06:00 | SGD | Low | Retail Sales (MoM) (Jun) |  |  | 1.0% |
+| 06:00 | SGD | Low | Retail Sales (YoY) (Jun) |  |  | 1.4% |
+| 07:45 | EUR | Low | French Government Budget Balance (Jun) |  |  | -94.0B |
+| 07:45 | EUR | Low | French Industrial Production (MoM) (Jun) |  | 0.8% | -0.5% |
+| 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Jun) |  |  | 1.7% |
+| 08:15 | EUR | Moderate | HCOB Spain Services PMI (Jul) |  | 52.6 | 51.9 |
+| 08:15 | ZAR | Low | S&P Global Manufacturing PMI (Jul) |  |  | 50.1 |
+| 08:45 | EUR | Low | HCOB Italy Composite PMI (Jul) |  |  | 51.1 |
+| 08:45 | EUR | Moderate | HCOB Italy Services PMI (Jul) |  | 52.5 | 52.1 |
+| 08:50 | EUR | Low | HCOB France Composite PMI (Jul) |  | 49.6 | 49.2 |
+| 08:50 | EUR | Moderate | HCOB France Services PMI (Jul) |  | 49.7 | 49.6 |
+| 08:55 | EUR | Low | HCOB Germany Composite PMI (Jul) |  | 50.3 | 50.4 |
+| 08:55 | EUR | Moderate | HCOB Germany Services PMI (Jul) |  | 50.1 | 49.7 |
+| 09:00 | GBP | Low | Car Registration (YoY) |  |  | 6.7% |
+| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Jul) |  | 51.0 | 52.0 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Jul) |  | 51.2 | 50.5 |
+| 09:30 | GBP | Moderate | S&P Global Composite PMI (Jul) |  | 51.0 | 51.0 |
+| 09:30 | GBP | Moderate | S&P Global Services PMI (Jul) |  | 51.2 | 51.2 |
+| 09:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 1.900% |
+| 09:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 1.872% |
+| 10:00 | NOK | Low | House Price Index (YoY) (Jul) |  |  | 5.10% |
+| 10:00 | EUR | Low | PPI (YoY) (Jun) |  | 0.5% | 0.3% |
+| 10:00 | EUR | Low | PPI (MoM) (Jun) |  | 0.9% | -0.6% |
+| 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 1.870% |
+| 11:00 | EUR | Low | German Car Registration (YoY) (Jul) |  |  | -13.8% |
+| 12:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
+| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (May) |  |  | -1.70% |
+| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (May) |  |  | -12.50% |
+| 13:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 1.1% |
+| 13:00 | USD | Low | Milk Auctions |  |  | 4,380.0 |
+| 13:30 | USD | Moderate | Exports (Jun) |  |  | 279.00B |
+| 13:30 | USD | Moderate | Imports (Jun) |  |  | 350.50B |
+| 13:30 | USD | Moderate | Trade Balance (Jun) |  | -62.60B | -71.50B |
+| 13:30 | CAD | Low | Exports (Jun) |  |  | 60.81B |
+| 13:30 | CAD | Low | Imports (Jun) |  |  | 66.66B |
+| 13:30 | CAD | Moderate | Trade Balance (Jun) |  | -5.80B | -5.90B |
+| 13:55 | USD | Low | Redbook (YoY) |  |  | 4.9% |
+| 14:00 | BRL | Low | S&P Global Composite PMI (Jul) |  |  | 48.7 |
+| 14:00 | BRL | Low | S&P Global Services PMI (Jul) |  |  | 49.3 |
+| 14:45 | USD | Moderate | S&P Global Composite PMI (Jul) |  | 54.6 | 52.9 |
+| 14:45 | USD | High | S&P Global Services PMI (Jul) |  | 55.2 | 52.9 |
+| 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Jul) |  |  | 54.2 |
+| 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Jul) |  |  | 47.2 |
+| 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Jul) |  |  | 51.3 |
+| 15:00 | USD | High | ISM Non-Manufacturing PMI (Jul) |  | 51.5 | 50.8 |
+| 15:00 | USD | High | ISM Non-Manufacturing Prices (Jul) |  |  | 67.5 |
+| 15:10 | USD | Low | IBD/TIPP Economic Optimism (Aug) |  | 49.2 | 48.6 |
+| 16:30 | USD | Low | 52-Week Bill Auction |  |  | 3.925% |
+| 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 3.891% |
+| 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  |  |  |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 1.539M |
+| 23:45 | NZD | Low | Employment Change (QoQ) (Q2) |  | -0.1% | 0.1% |
+| 23:45 | NZD | Low | Labor Cost Index (YoY) (Q2) |  | 2.3% | 2.5% |
+| 23:45 | NZD | Low | Labor Cost Index (QoQ) (Q2) |  | 0.5% | 0.4% |
+| 23:45 | NZD | Low | Participation Rate (Q2) |  | 70.70% | 70.80% |
+| 23:45 | NZD | Low | Unemployment Rate (Q2) |  | 5.3% | 5.1% |
