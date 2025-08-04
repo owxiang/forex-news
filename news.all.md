@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:50 | JPY | Low | Monetary Base (YoY) (Jul) | -3.7% |  | -3.3% |
 | 02:00 | AUD | Low | MI Inflation Gauge (MoM) (Jul) | 0.9% |  | 0.1% |
-| 07:30 | CHF | Low | CPI (YoY) (Jul) |  | 0.1% | 0.1% |
 | 07:30 | CHF | Moderate | CPI (MoM) (Jul) |  | -0.2% | 0.2% |
+| 07:30 | CHF | Low | CPI (YoY) (Jul) |  | 0.1% | 0.1% |
 | 08:00 | EUR | Low | French Car Registration (YoY) (Jul) |  |  | -6.7% |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change (Jul) |  | -21.3K | -48.9K |
 | 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (Jul) |  | 49.8 | 49.6 |
