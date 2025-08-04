@@ -27,6 +27,6 @@
 | 15:00 | USD | Low | Total Vehicle Sales (Jul) | 16.40M | 16.00M | 15.30M |
 | 16:30 | USD | Low | 3-Month Bill Auction | 4.165% |  | 4.235% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 3.980% |  | 4.120% |
-| 18:30 | BRL | Low | CAGED Net Payroll Jobs (Jun) |  |  | 148.99K |
-| 19:00 | USD | Low | Loan Officer Survey |  |  |  |
+| 20 min | BRL | Low | CAGED Net Payroll Jobs (Jun) |  |  | 148.99K |
+| 50 min | USD | Low | Loan Officer Survey |  |  |  |
 | 22:00 | KRW | Low | FX Reserves - USD (Jul) |  |  | 410.20B |
