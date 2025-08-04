@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:50 | JPY | Low | Monetary Base (YoY) (Jul) | -3.7% |  | -3.3% |
 | 02:00 | AUD | Low | MI Inflation Gauge (MoM) (Jul) | 0.9% |  | 0.1% |
-| 07:30 | CHF | Low | CPI (YoY) (Jul) | 0.2% | 0.1% | 0.1% |
 | 07:30 | CHF | Moderate | CPI (MoM) (Jul) | 0.0% | -0.2% | 0.2% |
+| 07:30 | CHF | Low | CPI (YoY) (Jul) | 0.2% | 0.1% | 0.1% |
 | 08:00 | EUR | Low | French Car Registration (YoY) (Jul) | -7.7% |  | -6.7% |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change (Jul) | -1.4K | -21.3K | -48.9K |
 | 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (Jul) | 48.8 | 49.8 | 49.6 |
@@ -29,4 +29,4 @@
 | 16:30 | USD | Low | 6-Month Bill Auction | 3.980% |  | 4.120% |
 | 18:30 | BRL | Low | CAGED Net Payroll Jobs (Jun) | 166.62K |  | 148.99K |
 | 19:00 | USD | Low | Loan Officer Survey |  |  |  |
-| 22:00 | KRW | Low | FX Reserves - USD (Jul) |  |  | 410.20B |
+| 52 min | KRW | Low | FX Reserves - USD (Jul) |  |  | 410.20B |
