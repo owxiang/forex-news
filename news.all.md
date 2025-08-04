@@ -4,12 +4,12 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:50 | JPY | Low | Monetary Base (YoY) (Jul) | -3.7% |  | -3.3% |
 | 02:00 | AUD | Low | MI Inflation Gauge (MoM) (Jul) | 0.9% |  | 0.1% |
-| 16 min | CHF | Moderate | CPI (MoM) (Jul) |  | -0.2% | 0.2% |
-| 16 min | CHF | Low | CPI (YoY) (Jul) |  | 0.1% | 0.1% |
-| 46 min | EUR | Low | French Car Registration (YoY) (Jul) |  |  | -6.7% |
-| 46 min | EUR | Moderate | Spanish Unemployment Change (Jul) |  | -21.3K | -48.9K |
-| 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (Jul) |  | 49.8 | 49.6 |
-| 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Jul) |  |  | -0.08% |
+| 07:30 | CHF | Moderate | CPI (MoM) (Jul) | 0.0% | -0.2% | 0.2% |
+| 07:30 | CHF | Low | CPI (YoY) (Jul) | 0.2% | 0.1% | 0.1% |
+| 08:00 | EUR | Low | French Car Registration (YoY) (Jul) | -7.7% |  | -6.7% |
+| 08:00 | EUR | Moderate | Spanish Unemployment Change (Jul) | -1.4K | -21.3K | -48.9K |
+| 16 min | CHF | Moderate | procure.ch Manufacturing PMI (Jul) |  | 49.8 | 49.6 |
+| 46 min | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Jul) |  |  | -0.08% |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Aug) |  | 6.2 | 4.5 |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | MXN | Low | Consumer Confidence (Jul) |  |  | 45.4 |
