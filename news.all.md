@@ -4,10 +4,10 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:50 | JPY | Low | Monetary Base (YoY) (Jul) | -3.7% |  | -3.3% |
 | 02:00 | AUD | Low | MI Inflation Gauge (MoM) (Jul) | 0.9% |  | 0.1% |
-| 07:30 | CHF | Moderate | CPI (MoM) (Jul) |  | -0.2% | 0.2% |
-| 07:30 | CHF | Low | CPI (YoY) (Jul) |  | 0.1% | 0.1% |
-| 08:00 | EUR | Low | French Car Registration (YoY) (Jul) |  |  | -6.7% |
-| 08:00 | EUR | Moderate | Spanish Unemployment Change (Jul) |  | -21.3K | -48.9K |
+| 16 min | CHF | Moderate | CPI (MoM) (Jul) |  | -0.2% | 0.2% |
+| 16 min | CHF | Low | CPI (YoY) (Jul) |  | 0.1% | 0.1% |
+| 46 min | EUR | Low | French Car Registration (YoY) (Jul) |  |  | -6.7% |
+| 46 min | EUR | Moderate | Spanish Unemployment Change (Jul) |  | -21.3K | -48.9K |
 | 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (Jul) |  | 49.8 | 49.6 |
 | 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Jul) |  |  | -0.08% |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Aug) |  | 6.2 | 4.5 |
@@ -20,7 +20,7 @@
 | 14:00 | BRL | Low | Auto Production (MoM) (Jul) |  |  | -6.5% |
 | 14:00 | BRL | Low | Auto Sales (MoM) (Jul) |  |  | -5.7% |
 | 15:00 | USD | Low | CB Employment Trends Index (Jul) |  |  | 107.83 |
-| 15:00 | USD | Low | Durables Excluding Defense (MoM) (Jun) |  | -9.4% | -9.4% |
+| 15:00 | USD | Low | Durables Excluding Defense (MoM) (Jun) |  | -9.4% | 15.5% |
 | 15:00 | USD | Low | Durables Excluding Transport (MoM) (Jun) |  |  | 0.2% |
 | 15:00 | USD | Moderate | Factory Orders (MoM) (Jun) |  | -4.9% | 8.2% |
 | 15:00 | USD | Low | Factory orders ex transportation (MoM) (Jun) |  |  | 0.2% |
