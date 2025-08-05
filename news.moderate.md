@@ -18,8 +18,8 @@
 | 13:30 | USD | Imports (Jun) | 337.50B |  | 350.30B |
 | 13:30 | USD | Trade Balance (Jun) | -60.20B | -62.60B | -71.70B |
 | 13:30 | CAD | Trade Balance (Jun) | -5.86B | -5.80B | -5.49B |
-| 25 min | USD | S&P Global Composite PMI (Jul) |  | 54.6 | 52.9 |
-| 40 min | USD | ISM Non-Manufacturing Employment (Jul) |  |  | 47.2 |
+| 14:45 | USD | S&P Global Composite PMI (Jul) | 55.1 | 54.6 | 52.9 |
+| 15:00 | USD | ISM Non-Manufacturing Employment (Jul) | 46.4 |  | 47.2 |
 | 18:00 | USD | 3-Year Note Auction |  |  | 3.891% |
 | 18:00 | USD | Atlanta Fed GDPNow (Q3) |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | -1.800M | 1.539M |

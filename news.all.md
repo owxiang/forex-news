@@ -12,11 +12,11 @@
 | 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (Jul) | -1.0% |  | 1.6% |
 | 02:45 | CNY | Moderate | Caixin Services PMI (Jul) | 52.6 | 50.4 | 50.6 |
 | 04:35 | JPY | Moderate | 10-Year JGB Auction | 1.462% |  | 1.442% |
-| 05:00 | IDR | Low | GDP (QoQ) (Q2) | 4.04% | 3.70% | -0.98% |
 | 05:00 | IDR | Low | GDP (YoY) (Q2) | 5.12% | 4.80% | 4.87% |
+| 05:00 | IDR | Low | GDP (QoQ) (Q2) | 4.04% | 3.70% | -0.98% |
 | 06:00 | INR | Low | S&P Global Services PMI (Jul) | 60.5 | 59.8 | 60.4 |
-| 06:00 | SGD | Low | Retail Sales (MoM) (Jun) | -1.2% |  | 1.0% |
 | 06:00 | SGD | Low | Retail Sales (YoY) (Jun) | 2.3% |  | 1.3% |
+| 06:00 | SGD | Low | Retail Sales (MoM) (Jun) | -1.2% |  | 1.0% |
 | 07:45 | EUR | Low | French Government Budget Balance (Jun) | -100.4B |  | -94.0B |
 | 07:45 | EUR | Low | French Industrial Production (MoM) (Jun) | 3.8% | 0.8% | -0.7% |
 | 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Jun) | 2.3% |  | 1.7% |
@@ -54,16 +54,16 @@
 | 13:55 | USD | Low | Redbook (YoY) | 6.5% |  | 4.9% |
 | 14:00 | BRL | Low | S&P Global Composite PMI (Jul) | 46.6 |  | 48.7 |
 | 14:00 | BRL | Low | S&P Global Services PMI (Jul) | 46.3 |  | 49.3 |
-| 25 min | USD | Moderate | S&P Global Composite PMI (Jul) |  | 54.6 | 52.9 |
-| 25 min | USD | High | S&P Global Services PMI (Jul) |  | 55.2 | 52.9 |
-| 40 min | USD | Low | ISM Non-Manufacturing Business Activity (Jul) |  |  | 54.2 |
-| 40 min | USD | Moderate | ISM Non-Manufacturing Employment (Jul) |  |  | 47.2 |
-| 40 min | USD | Low | ISM Non-Manufacturing New Orders (Jul) |  |  | 51.3 |
-| 40 min | USD | High | ISM Non-Manufacturing PMI (Jul) |  | 51.5 | 50.8 |
-| 40 min | USD | High | ISM Non-Manufacturing Prices (Jul) |  |  | 67.5 |
-| 50 min | USD | Low | IBD/TIPP Economic Optimism (Aug) |  | 49.2 | 48.6 |
-| 16:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 1.1% |
-| 16:00 | USD | Low | Milk Auctions |  |  | 4,380.0 |
+| 14:45 | USD | Moderate | S&P Global Composite PMI (Jul) | 55.1 | 54.6 | 52.9 |
+| 14:45 | USD | High | S&P Global Services PMI (Jul) | 55.7 | 55.2 | 52.9 |
+| 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Jul) | 52.6 |  | 54.2 |
+| 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Jul) | 46.4 |  | 47.2 |
+| 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Jul) | 50.3 |  | 51.3 |
+| 15:00 | USD | High | ISM Non-Manufacturing PMI (Jul) | 50.1 | 51.5 | 50.8 |
+| 15:00 | USD | High | ISM Non-Manufacturing Prices (Jul) | 69.9 | 66.5 | 67.5 |
+| 15:10 | USD | Low | IBD/TIPP Economic Optimism (Aug) |  | 49.2 | 48.6 |
+| 50 min | NZD | Low | GlobalDairyTrade Price Index |  |  | 1.1% |
+| 50 min | USD | Low | Milk Auctions |  |  | 4,380.0 |
 | 16:30 | USD | Low | 52-Week Bill Auction |  |  | 3.925% |
 | 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 3.891% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  |  |  |

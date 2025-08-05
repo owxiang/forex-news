@@ -8,11 +8,11 @@
 | 01:30 | HKD | S&P Global Manufacturing PMI (Jul) | 49.2 |  | 47.8 |
 | 02:00 | NZD | ANZ Commodity Price Index (MoM) | -1.8% |  | -2.4% |
 | 02:30 | AUD | ANZ Job Advertisements (MoM) (Jul) | -1.0% |  | 1.6% |
-| 05:00 | IDR | GDP (QoQ) (Q2) | 4.04% | 3.70% | -0.98% |
 | 05:00 | IDR | GDP (YoY) (Q2) | 5.12% | 4.80% | 4.87% |
+| 05:00 | IDR | GDP (QoQ) (Q2) | 4.04% | 3.70% | -0.98% |
 | 06:00 | INR | S&P Global Services PMI (Jul) | 60.5 | 59.8 | 60.4 |
-| 06:00 | SGD | Retail Sales (MoM) (Jun) | -1.2% |  | 1.0% |
 | 06:00 | SGD | Retail Sales (YoY) (Jun) | 2.3% |  | 1.3% |
+| 06:00 | SGD | Retail Sales (MoM) (Jun) | -1.2% |  | 1.0% |
 | 07:45 | EUR | French Government Budget Balance (Jun) | -100.4B |  | -94.0B |
 | 07:45 | EUR | French Industrial Production (MoM) (Jun) | 3.8% | 0.8% | -0.7% |
 | 08:00 | EUR | Spanish Industrial Production (YoY) (Jun) | 2.3% |  | 1.7% |
@@ -37,11 +37,11 @@
 | 13:55 | USD | Redbook (YoY) | 6.5% |  | 4.9% |
 | 14:00 | BRL | S&P Global Composite PMI (Jul) | 46.6 |  | 48.7 |
 | 14:00 | BRL | S&P Global Services PMI (Jul) | 46.3 |  | 49.3 |
-| 40 min | USD | ISM Non-Manufacturing Business Activity (Jul) |  |  | 54.2 |
-| 40 min | USD | ISM Non-Manufacturing New Orders (Jul) |  |  | 51.3 |
-| 50 min | USD | IBD/TIPP Economic Optimism (Aug) |  | 49.2 | 48.6 |
-| 16:00 | NZD | GlobalDairyTrade Price Index |  |  | 1.1% |
-| 16:00 | USD | Milk Auctions |  |  | 4,380.0 |
+| 15:00 | USD | ISM Non-Manufacturing Business Activity (Jul) | 52.6 |  | 54.2 |
+| 15:00 | USD | ISM Non-Manufacturing New Orders (Jul) | 50.3 |  | 51.3 |
+| 15:10 | USD | IBD/TIPP Economic Optimism (Aug) |  | 49.2 | 48.6 |
+| 50 min | NZD | GlobalDairyTrade Price Index |  |  | 1.1% |
+| 50 min | USD | Milk Auctions |  |  | 4,380.0 |
 | 16:30 | USD | 52-Week Bill Auction |  |  | 3.925% |
 | 23:45 | NZD | Employment Change (QoQ) (Q2) |  | -0.1% | 0.1% |
 | 23:45 | NZD | Labor Cost Index (YoY) (Q2) |  | 2.3% | 2.5% |
