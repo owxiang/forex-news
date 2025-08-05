@@ -2,14 +2,14 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | CPI (MoM) (Jul) | 0.2% | 0.2% | 0.0% |
 | 00:00 | KRW | CPI (YoY) (Jul) | 2.1% | 2.1% | 2.2% |
+| 00:00 | KRW | CPI (MoM) (Jul) | 0.2% | 0.2% | 0.0% |
 | 00:00 | AUD | Judo Bank Services PMI (Jul) | 54.1 | 53.8 | 53.8 |
 | 01:30 | HKD | S&P Global Manufacturing PMI (Jul) | 49.2 |  | 47.8 |
 | 02:00 | NZD | ANZ Commodity Price Index (MoM) | -1.8% |  | -2.4% |
 | 02:30 | AUD | ANZ Job Advertisements (MoM) (Jul) | -1.0% |  | 1.6% |
-| 05:00 | IDR | GDP (YoY) (Q2) |  | 4.80% | 4.87% |
-| 05:00 | IDR | GDP (QoQ) (Q2) |  | 3.70% | -0.98% |
+| 22 min | IDR | GDP (YoY) (Q2) |  | 4.80% | 4.87% |
+| 22 min | IDR | GDP (QoQ) (Q2) |  | 3.70% | -0.98% |
 | 06:00 | INR | S&P Global Services PMI (Jul) |  | 59.8 | 60.4 |
 | 06:00 | SGD | Retail Sales (MoM) (Jun) |  |  | 1.0% |
 | 06:00 | SGD | Retail Sales (YoY) (Jun) |  |  | 1.4% |
@@ -29,8 +29,8 @@
 | 10:30 | EUR | German 2-Year Schatz Auction |  |  | 1.870% |
 | 11:00 | EUR | German Car Registration (YoY) (Jul) |  |  | -13.8% |
 | 12:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
-| 13:00 | MXN | Gross Fixed Investments (YoY) (May) |  |  | -12.50% |
 | 13:00 | MXN | Gross Fixed Investments (MoM) (May) |  |  | -1.70% |
+| 13:00 | MXN | Gross Fixed Investments (YoY) (May) |  |  | -12.50% |
 | 13:00 | NZD | GlobalDairyTrade Price Index |  |  | 1.1% |
 | 13:00 | USD | Milk Auctions |  |  | 4,380.0 |
 | 13:30 | CAD | Exports (Jun) |  |  | 60.81B |
