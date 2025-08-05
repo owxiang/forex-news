@@ -20,6 +20,6 @@
 | 13:30 | CAD | Trade Balance (Jun) | -5.86B | -5.80B | -5.49B |
 | 14:45 | USD | S&P Global Composite PMI (Jul) | 55.1 | 54.6 | 52.9 |
 | 15:00 | USD | ISM Non-Manufacturing Employment (Jul) | 46.4 |  | 47.2 |
-| 18:00 | USD | 3-Year Note Auction |  |  | 3.891% |
-| 18:00 | USD | Atlanta Fed GDPNow (Q3) |  |  |  |
+| 17:00 | USD | Atlanta Fed GDPNow (Q3) | 2.5% |  |  |
+| 52 min | USD | 3-Year Note Auction |  |  | 3.891% |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | -1.800M | 1.539M |
