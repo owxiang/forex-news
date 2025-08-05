@@ -22,4 +22,4 @@
 | 15:00 | USD | ISM Non-Manufacturing Employment (Jul) | 46.4 |  | 47.2 |
 | 17:00 | USD | Atlanta Fed GDPNow (Q3) | 2.5% | 2.1% | 2.1% |
 | 18:00 | USD | 3-Year Note Auction | 3.669% |  | 3.891% |
-| 22 min | USD | API Weekly Crude Oil Stock |  | -1.800M | 1.539M |
+| 21:30 | USD | API Weekly Crude Oil Stock | -4.200M | -1.800M | 1.539M |
