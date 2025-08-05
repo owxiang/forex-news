@@ -5,9 +5,9 @@
 | 00:00 | KRW | CPI (YoY) (Jul) | 2.1% | 2.1% | 2.2% |
 | 00:00 | KRW | CPI (MoM) (Jul) | 0.2% | 0.2% | 0.0% |
 | 00:00 | AUD | Judo Bank Services PMI (Jul) | 54.1 | 53.8 | 53.8 |
-| 01:30 | HKD | S&P Global Manufacturing PMI (Jul) |  |  | 47.8 |
-| 02:00 | NZD | ANZ Commodity Price Index (MoM) |  |  | -2.3% |
-| 02:30 | AUD | ANZ Job Advertisements (MoM) (Jul) |  |  | 1.8% |
+| 01:30 | HKD | S&P Global Manufacturing PMI (Jul) | 49.2 |  | 47.8 |
+| 26 min | NZD | ANZ Commodity Price Index (MoM) |  |  | -2.3% |
+| 56 min | AUD | ANZ Job Advertisements (MoM) (Jul) |  |  | 1.8% |
 | 05:00 | IDR | GDP (YoY) (Q2) |  | 4.80% | 4.87% |
 | 05:00 | IDR | GDP (QoQ) (Q2) |  | 3.70% | -0.98% |
 | 06:00 | INR | S&P Global Services PMI (Jul) |  | 59.8 | 60.4 |
@@ -24,8 +24,8 @@
 | 09:40 | EUR | Spanish 12-Month Letras Auction |  |  | 1.900% |
 | 09:40 | EUR | Spanish 6-Month Letras Auction |  |  | 1.872% |
 | 10:00 | NOK | House Price Index (YoY) (Jul) |  |  | 5.10% |
-| 10:00 | EUR | PPI (YoY) (Jun) |  | 0.5% | 0.3% |
 | 10:00 | EUR | PPI (MoM) (Jun) |  | 0.9% | -0.6% |
+| 10:00 | EUR | PPI (YoY) (Jun) |  | 0.5% | 0.3% |
 | 10:30 | EUR | German 2-Year Schatz Auction |  |  | 1.870% |
 | 11:00 | EUR | German Car Registration (YoY) (Jul) |  |  | -13.8% |
 | 12:00 | BRL | BCB Copom Meeting Minutes |  |  |  |

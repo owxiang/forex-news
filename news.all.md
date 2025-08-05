@@ -5,11 +5,11 @@
 | 00:00 | KRW | Low | CPI (YoY) (Jul) | 2.1% | 2.1% | 2.2% |
 | 00:00 | KRW | Low | CPI (MoM) (Jul) | 0.2% | 0.2% | 0.0% |
 | 00:00 | AUD | Low | Judo Bank Services PMI (Jul) | 54.1 | 53.8 | 53.8 |
-| 43 min | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
-| 01:30 | JPY | Moderate | au Jibun Bank Services PMI (Jul) |  | 53.5 | 53.5 |
-| 01:30 | HKD | Low | S&P Global Manufacturing PMI (Jul) |  |  | 47.8 |
-| 02:00 | NZD | Low | ANZ Commodity Price Index (MoM) |  |  | -2.3% |
-| 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (Jul) |  |  | 1.8% |
+| 00:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
+| 01:30 | JPY | Moderate | au Jibun Bank Services PMI (Jul) | 53.6 | 53.5 | 53.5 |
+| 01:30 | HKD | Low | S&P Global Manufacturing PMI (Jul) | 49.2 |  | 47.8 |
+| 26 min | NZD | Low | ANZ Commodity Price Index (MoM) |  |  | -2.3% |
+| 56 min | AUD | Low | ANZ Job Advertisements (MoM) (Jul) |  |  | 1.8% |
 | 02:45 | CNY | Moderate | Caixin Services PMI (Jul) |  | 50.4 | 50.6 |
 | 04:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 1.442% |
 | 05:00 | IDR | Low | GDP (YoY) (Q2) |  | 4.80% | 4.87% |
@@ -36,8 +36,8 @@
 | 09:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 1.900% |
 | 09:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 1.872% |
 | 10:00 | NOK | Low | House Price Index (YoY) (Jul) |  |  | 5.10% |
-| 10:00 | EUR | Low | PPI (YoY) (Jun) |  | 0.5% | 0.3% |
 | 10:00 | EUR | Low | PPI (MoM) (Jun) |  | 0.9% | -0.6% |
+| 10:00 | EUR | Low | PPI (YoY) (Jun) |  | 0.5% | 0.3% |
 | 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 1.870% |
 | 11:00 | EUR | Low | German Car Registration (YoY) (Jul) |  |  | -13.8% |
 | 12:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
