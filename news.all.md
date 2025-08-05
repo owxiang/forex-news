@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | CPI (YoY) (Jul) | 2.1% | 2.1% | 2.2% |
 | 00:00 | KRW | Low | CPI (MoM) (Jul) | 0.2% | 0.2% | 0.0% |
+| 00:00 | KRW | Low | CPI (YoY) (Jul) | 2.1% | 2.1% | 2.2% |
 | 00:00 | AUD | Low | Judo Bank Services PMI (Jul) | 54.1 | 53.8 | 53.8 |
 | 00:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 01:30 | JPY | Moderate | au Jibun Bank Services PMI (Jul) | 53.6 | 53.5 | 51.7 |
@@ -12,8 +12,8 @@
 | 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (Jul) | -1.0% |  | 1.6% |
 | 02:45 | CNY | Moderate | Caixin Services PMI (Jul) | 52.6 | 50.4 | 50.6 |
 | 04:35 | JPY | Moderate | 10-Year JGB Auction | 1.462% |  | 1.442% |
-| 05:00 | IDR | Low | GDP (QoQ) (Q2) | 4.04% | 3.70% | -0.98% |
 | 05:00 | IDR | Low | GDP (YoY) (Q2) | 5.12% | 4.80% | 4.87% |
+| 05:00 | IDR | Low | GDP (QoQ) (Q2) | 4.04% | 3.70% | -0.98% |
 | 06:00 | INR | Low | S&P Global Services PMI (Jul) | 60.5 | 59.8 | 60.4 |
 | 06:00 | SGD | Low | Retail Sales (MoM) (Jun) | -1.2% |  | 1.0% |
 | 06:00 | SGD | Low | Retail Sales (YoY) (Jun) | 2.3% |  | 1.3% |
@@ -35,16 +35,16 @@
 | 09:30 | GBP | Moderate | S&P Global Services PMI (Jul) | 51.8 | 51.2 | 52.8 |
 | 10:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Jul) | 140,154.0 |  | 191,316.0 |
 | 10:00 | NOK | Low | House Price Index (YoY) (Jul) | 5.40% |  | 5.10% |
-| 10:00 | EUR | Low | PPI (YoY) (Jun) | 0.6% | 0.5% | 0.3% |
 | 10:00 | EUR | Low | PPI (MoM) (Jun) | 0.8% | 0.9% | -0.6% |
+| 10:00 | EUR | Low | PPI (YoY) (Jun) | 0.6% | 0.5% | 0.3% |
 | 10:20 | EUR | Low | Spanish 12-Month Letras Auction | 1.945% |  | 1.900% |
 | 10:20 | EUR | Low | Spanish 6-Month Letras Auction | 1.932% |  | 1.872% |
 | 10:30 | EUR | Low | German 2-Year Schatz Auction | 1.900% |  | 1.870% |
 | 11:00 | EUR | Low | German Car Registration (YoY) (Jul) | 11.0% |  | -13.8% |
 | 12:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
 | 13:00 | USD | High | U.S. President Trump Speaks |  |  |  |
-| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (May) | -7.10% |  | -12.50% |
 | 13:00 | MXN | Low | Gross Fixed Investments (MoM) (May) | 0.90% |  | -1.60% |
+| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (May) | -7.10% |  | -12.50% |
 | 13:30 | USD | Moderate | Exports (Jun) | 277.30B |  | 278.60B |
 | 13:30 | USD | Moderate | Imports (Jun) | 337.50B |  | 350.30B |
 | 13:30 | USD | Moderate | Trade Balance (Jun) | -60.20B | -62.60B | -71.70B |
@@ -64,7 +64,7 @@
 | 15:10 | USD | Low | IBD/TIPP Economic Optimism (Aug) | 50.9 | 49.2 | 48.6 |
 | 16:00 | USD | Low | 52-Week Bill Auction | 3.760% |  | 3.925% |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 2.5% |  |  |
-| 52 min | USD | Moderate | 3-Year Note Auction |  |  | 3.891% |
+| 18:00 | USD | Moderate | 3-Year Note Auction | 3.669% |  | 3.891% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.800M | 1.539M |
 | 23:45 | NZD | Low | Employment Change (QoQ) (Q2) |  | -0.1% | 0.1% |
 | 23:45 | NZD | Low | Labor Cost Index (YoY) (Q2) |  | 2.3% | 2.5% |
