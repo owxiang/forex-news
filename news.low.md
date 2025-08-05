@@ -1,48 +1,42 @@
-## 05 August 2025 - Low Impact Forex News
+## 06 August 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | CPI (MoM) (Jul) | 0.2% | 0.2% | 0.0% |
-| 00:00 | KRW | CPI (YoY) (Jul) | 2.1% | 2.1% | 2.2% |
-| 00:00 | AUD | Judo Bank Services PMI (Jul) | 54.1 | 53.8 | 53.8 |
-| 01:30 | HKD | S&P Global Manufacturing PMI (Jul) | 49.2 |  | 47.8 |
-| 02:00 | NZD | ANZ Commodity Price Index (MoM) | -1.8% |  | -2.4% |
-| 02:30 | AUD | ANZ Job Advertisements (MoM) (Jul) | -1.0% |  | 1.6% |
-| 05:00 | IDR | GDP (YoY) (Q2) | 5.12% | 4.80% | 4.87% |
-| 05:00 | IDR | GDP (QoQ) (Q2) | 4.04% | 3.70% | -0.98% |
-| 06:00 | INR | S&P Global Services PMI (Jul) | 60.5 | 59.8 | 60.4 |
-| 06:00 | SGD | Retail Sales (MoM) (Jun) | -1.2% |  | 1.0% |
-| 06:00 | SGD | Retail Sales (YoY) (Jun) | 2.3% |  | 1.3% |
-| 07:45 | EUR | French Government Budget Balance (Jun) | -100.4B |  | -94.0B |
-| 07:45 | EUR | French Industrial Production (MoM) (Jun) | 3.8% | 0.8% | -0.7% |
-| 08:00 | EUR | Spanish Industrial Production (YoY) (Jun) | 2.3% |  | 1.7% |
-| 08:15 | ZAR | S&P Global Manufacturing PMI (Jul) | 50.3 |  | 50.1 |
-| 08:45 | EUR | HCOB Italy Composite PMI (Jul) | 51.5 |  | 51.1 |
-| 08:50 | EUR | HCOB France Composite PMI (Jul) | 48.6 | 49.6 | 49.2 |
-| 08:55 | EUR | HCOB Germany Composite PMI (Jul) | 50.6 | 50.3 | 50.4 |
-| 09:00 | GBP | Car Registration (YoY) | -5.0% |  | 6.7% |
-| 10:00 | GBP | United Kingdom New Passenger Cars Registration (Jul) | 140,154.0 |  | 191,316.0 |
-| 10:00 | NOK | House Price Index (YoY) (Jul) | 5.40% |  | 5.10% |
-| 10:00 | EUR | PPI (MoM) (Jun) | 0.8% | 0.9% | -0.6% |
-| 10:00 | EUR | PPI (YoY) (Jun) | 0.6% | 0.5% | 0.3% |
-| 10:20 | EUR | Spanish 12-Month Letras Auction | 1.945% |  | 1.900% |
-| 10:20 | EUR | Spanish 6-Month Letras Auction | 1.932% |  | 1.872% |
-| 10:30 | EUR | German 2-Year Schatz Auction | 1.900% |  | 1.870% |
-| 11:00 | EUR | German Car Registration (YoY) (Jul) | 11.0% |  | -13.8% |
-| 12:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
-| 13:00 | MXN | Gross Fixed Investments (MoM) (May) | 0.90% |  | -1.60% |
-| 13:00 | MXN | Gross Fixed Investments (YoY) (May) | -7.10% |  | -12.50% |
-| 13:30 | CAD | Exports (Jun) | 61.74B |  | 61.20B |
-| 13:30 | CAD | Imports (Jun) | 67.60B |  | 66.69B |
-| 13:55 | USD | Redbook (YoY) | 6.5% |  | 4.9% |
-| 14:00 | BRL | S&P Global Composite PMI (Jul) | 46.6 |  | 48.7 |
-| 14:00 | BRL | S&P Global Services PMI (Jul) | 46.3 |  | 49.3 |
-| 15:00 | USD | ISM Non-Manufacturing Business Activity (Jul) | 52.6 |  | 54.2 |
-| 15:00 | USD | ISM Non-Manufacturing New Orders (Jul) | 50.3 |  | 51.3 |
-| 15:10 | USD | IBD/TIPP Economic Optimism (Aug) | 50.9 | 49.2 | 48.6 |
-| 16:00 | USD | 52-Week Bill Auction | 3.760% |  | 3.925% |
-| 38 min | NZD | Employment Change (QoQ) (Q2) |  | -0.1% | 0.1% |
-| 38 min | NZD | Labor Cost Index (YoY) (Q2) |  | 2.3% | 2.5% |
-| 38 min | NZD | Labor Cost Index (QoQ) (Q2) |  | 0.5% | 0.4% |
-| 38 min | NZD | Participation Rate (Q2) |  | 70.70% | 70.80% |
-| 38 min | NZD | Unemployment Rate (Q2) |  | 5.3% | 5.1% |
+| 00:00 | AUD | AIG Construction Index (Jul) | -1.3 |  | -14.9 |
+| 00:00 | AUD | AIG Manufacturing Index (Jul) | -23.9 |  | -29.3 |
+| 23 min | JPY | Average Cash Earnings (YoY) |  | 3.2% | 3.1% |
+| 23 min | JPY | Overall wage income of employees (Jun) |  |  | 1.0% |
+| 23 min | JPY | Overtime Pay (YoY) (Jun) |  |  | 1.00% |
+| 05:30 | INR | Cash Reserve Ratio |  | 4.00% | 4.00% |
+| 05:30 | INR | Reverse REPO Rate |  |  | 3.35% |
+| 07:45 | EUR | French Non-Farm Payrolls (QoQ) (Q2) |  |  | -0.1% |
+| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Jul) |  |  | 50.2 |
+| 08:30 | EUR | HCOB Germany Construction PMI (Jul) |  |  | 44.8 |
+| 08:30 | EUR | HCOB France Construction PMI (MoM) (Jul) |  |  | 41.6 |
+| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Jul) |  |  | 45.2 |
+| 09:00 | EUR | Italian Industrial Production (YoY) (Jun) |  |  | -0.9% |
+| 09:00 | EUR | Italian Industrial Production (MoM) (Jun) |  | -0.1% | -0.7% |
+| 10:00 | EUR | Retail Sales (YoY) (Jun) |  | 2.6% | 1.8% |
+| 10:00 | EUR | Retail Sales (MoM) (Jun) |  | 0.4% | -0.7% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.83% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -3.8% |
+| 12:00 | USD | MBA Purchase Index |  |  | 155.6 |
+| 12:00 | USD | Mortgage Market Index |  |  | 245.7 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 739.3 |
+| 12:00 | NZD | GlobalDairyTrade Price Index |  |  | 1.1% |
+| 12:00 | USD | Milk Auctions |  |  | 4,380.0 |
+| 12:30 | INR | M3 Money Supply |  |  | 9.5% |
+| 13:15 | CAD | Reserve Assets Total (Jul) |  |  | 127.9B |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.025M |
+| 15:30 | USD | Crude Oil Imports |  |  | 1.317M |
+| 15:30 | USD | Distillate Fuel Production |  |  | 0.130M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | 3.635M |
+| 15:30 | USD | Gasoline Production |  |  | 0.676M |
+| 15:30 | USD | Heating Oil Stockpiles |  |  | 0.739M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.1% |
+| 15:30 | USD | Gasoline Inventories |  |  | -2.724M |
+| 18:30 | BRL | Foreign Exchange Flows |  |  | -0.886B |
+| 19:00 | USD | Fed Collins Speaks |  |  |  |
+| 19:00 | USD | Fed Governor Cook Speaks |  |  |  |
+| 19:00 | BRL | Trade Balance (Jul) |  |  | 5.89B |
+| 22:00 | KRW | FX Reserves - USD (Jul) |  |  | 410.20B |
