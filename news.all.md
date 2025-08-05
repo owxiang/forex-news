@@ -12,8 +12,8 @@
 | 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (Jul) | -1.0% |  | 1.6% |
 | 02:45 | CNY | Moderate | Caixin Services PMI (Jul) | 52.6 | 50.4 | 50.6 |
 | 04:35 | JPY | Moderate | 10-Year JGB Auction | 1.462% |  | 1.442% |
-| 05:00 | IDR | Low | GDP (YoY) (Q2) | 5.12% | 4.80% | 4.87% |
 | 05:00 | IDR | Low | GDP (QoQ) (Q2) | 4.04% | 3.70% | -0.98% |
+| 05:00 | IDR | Low | GDP (YoY) (Q2) | 5.12% | 4.80% | 4.87% |
 | 06:00 | INR | Low | S&P Global Services PMI (Jul) | 60.5 | 59.8 | 60.4 |
 | 06:00 | SGD | Low | Retail Sales (MoM) (Jun) | -1.2% |  | 1.0% |
 | 06:00 | SGD | Low | Retail Sales (YoY) (Jun) | 2.3% |  | 1.3% |
@@ -42,25 +42,26 @@
 | 10:30 | EUR | Low | German 2-Year Schatz Auction | 1.900% |  | 1.870% |
 | 11:00 | EUR | Low | German Car Registration (YoY) (Jul) | 11.0% |  | -13.8% |
 | 12:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
-| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (May) | 0.90% |  | -1.70% |
+| 13:00 | USD | High | U.S. President Trump Speaks |  |  |  |
+| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (May) | 0.90% |  | -1.60% |
 | 13:00 | MXN | Low | Gross Fixed Investments (YoY) (May) | -7.10% |  | -12.50% |
-| 17 min | USD | Moderate | Exports (Jun) |  |  | 279.00B |
-| 17 min | USD | Moderate | Imports (Jun) |  |  | 350.50B |
-| 17 min | USD | Moderate | Trade Balance (Jun) |  | -62.60B | -71.50B |
-| 17 min | CAD | Low | Exports (Jun) |  |  | 60.81B |
-| 17 min | CAD | Low | Imports (Jun) |  |  | 66.66B |
-| 17 min | CAD | Moderate | Trade Balance (Jun) |  | -5.80B | -5.90B |
-| 42 min | USD | Low | Redbook (YoY) |  |  | 4.9% |
-| 47 min | BRL | Low | S&P Global Composite PMI (Jul) |  |  | 48.7 |
-| 47 min | BRL | Low | S&P Global Services PMI (Jul) |  |  | 49.3 |
-| 14:45 | USD | Moderate | S&P Global Composite PMI (Jul) |  | 54.6 | 52.9 |
-| 14:45 | USD | High | S&P Global Services PMI (Jul) |  | 55.2 | 52.9 |
-| 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Jul) |  |  | 54.2 |
-| 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Jul) |  |  | 47.2 |
-| 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Jul) |  |  | 51.3 |
-| 15:00 | USD | High | ISM Non-Manufacturing PMI (Jul) |  | 51.5 | 50.8 |
-| 15:00 | USD | High | ISM Non-Manufacturing Prices (Jul) |  |  | 67.5 |
-| 15:10 | USD | Low | IBD/TIPP Economic Optimism (Aug) |  | 49.2 | 48.6 |
+| 13:30 | USD | Moderate | Exports (Jun) | 277.30B |  | 278.60B |
+| 13:30 | USD | Moderate | Imports (Jun) | 337.50B |  | 350.30B |
+| 13:30 | USD | Moderate | Trade Balance (Jun) | -60.20B | -62.60B | -71.70B |
+| 13:30 | CAD | Low | Exports (Jun) | 61.74B |  | 61.20B |
+| 13:30 | CAD | Low | Imports (Jun) | 67.60B |  | 66.69B |
+| 13:30 | CAD | Moderate | Trade Balance (Jun) | -5.86B | -5.80B | -5.49B |
+| 13:55 | USD | Low | Redbook (YoY) | 6.5% |  | 4.9% |
+| 14:00 | BRL | Low | S&P Global Composite PMI (Jul) | 46.6 |  | 48.7 |
+| 14:00 | BRL | Low | S&P Global Services PMI (Jul) | 46.3 |  | 49.3 |
+| 25 min | USD | Moderate | S&P Global Composite PMI (Jul) |  | 54.6 | 52.9 |
+| 25 min | USD | High | S&P Global Services PMI (Jul) |  | 55.2 | 52.9 |
+| 40 min | USD | Low | ISM Non-Manufacturing Business Activity (Jul) |  |  | 54.2 |
+| 40 min | USD | Moderate | ISM Non-Manufacturing Employment (Jul) |  |  | 47.2 |
+| 40 min | USD | Low | ISM Non-Manufacturing New Orders (Jul) |  |  | 51.3 |
+| 40 min | USD | High | ISM Non-Manufacturing PMI (Jul) |  | 51.5 | 50.8 |
+| 40 min | USD | High | ISM Non-Manufacturing Prices (Jul) |  |  | 67.5 |
+| 50 min | USD | Low | IBD/TIPP Economic Optimism (Aug) |  | 49.2 | 48.6 |
 | 16:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 1.1% |
 | 16:00 | USD | Low | Milk Auctions |  |  | 4,380.0 |
 | 16:30 | USD | Low | 52-Week Bill Auction |  |  | 3.925% |
