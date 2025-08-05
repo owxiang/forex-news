@@ -2,14 +2,14 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | CPI (YoY) (Jul) | 2.1% | 2.1% | 2.2% |
 | 00:00 | KRW | CPI (MoM) (Jul) | 0.2% | 0.2% | 0.0% |
+| 00:00 | KRW | CPI (YoY) (Jul) | 2.1% | 2.1% | 2.2% |
 | 00:00 | AUD | Judo Bank Services PMI (Jul) | 54.1 | 53.8 | 53.8 |
 | 01:30 | HKD | S&P Global Manufacturing PMI (Jul) | 49.2 |  | 47.8 |
 | 02:00 | NZD | ANZ Commodity Price Index (MoM) | -1.8% |  | -2.4% |
 | 02:30 | AUD | ANZ Job Advertisements (MoM) (Jul) | -1.0% |  | 1.6% |
-| 05:00 | IDR | GDP (QoQ) (Q2) | 4.04% | 3.70% | -0.98% |
 | 05:00 | IDR | GDP (YoY) (Q2) | 5.12% | 4.80% | 4.87% |
+| 05:00 | IDR | GDP (QoQ) (Q2) | 4.04% | 3.70% | -0.98% |
 | 06:00 | INR | S&P Global Services PMI (Jul) | 60.5 | 59.8 | 60.4 |
 | 06:00 | SGD | Retail Sales (MoM) (Jun) | -1.2% |  | 1.0% |
 | 06:00 | SGD | Retail Sales (YoY) (Jun) | 2.3% |  | 1.3% |
