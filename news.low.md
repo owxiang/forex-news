@@ -2,17 +2,17 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | CPI (MoM) (Jul) | 0.2% | 0.2% | 0.0% |
 | 00:00 | KRW | CPI (YoY) (Jul) | 2.1% | 2.1% | 2.2% |
+| 00:00 | KRW | CPI (MoM) (Jul) | 0.2% | 0.2% | 0.0% |
 | 00:00 | AUD | Judo Bank Services PMI (Jul) | 54.1 | 53.8 | 53.8 |
 | 01:30 | HKD | S&P Global Manufacturing PMI (Jul) | 49.2 |  | 47.8 |
 | 02:00 | NZD | ANZ Commodity Price Index (MoM) | -1.8% |  | -2.4% |
 | 02:30 | AUD | ANZ Job Advertisements (MoM) (Jul) | -1.0% |  | 1.6% |
-| 05:00 | IDR | GDP (YoY) (Q2) | 5.12% | 4.80% | 4.87% |
 | 05:00 | IDR | GDP (QoQ) (Q2) | 4.04% | 3.70% | -0.98% |
-| 35 min | INR | S&P Global Services PMI (Jul) |  | 59.8 | 60.4 |
-| 35 min | SGD | Retail Sales (YoY) (Jun) |  |  | 1.4% |
-| 35 min | SGD | Retail Sales (MoM) (Jun) |  |  | 1.0% |
+| 05:00 | IDR | GDP (YoY) (Q2) | 5.12% | 4.80% | 4.87% |
+| 06:00 | INR | S&P Global Services PMI (Jul) | 60.5 | 59.8 | 60.4 |
+| 06:00 | SGD | Retail Sales (MoM) (Jun) | -1.2% |  | 1.0% |
+| 06:00 | SGD | Retail Sales (YoY) (Jun) | 2.3% |  | 1.3% |
 | 07:45 | EUR | French Government Budget Balance (Jun) |  |  | -94.0B |
 | 07:45 | EUR | French Industrial Production (MoM) (Jun) |  | 0.8% | -0.5% |
 | 08:00 | EUR | Spanish Industrial Production (YoY) (Jun) |  |  | 1.7% |
@@ -24,13 +24,13 @@
 | 09:40 | EUR | Spanish 12-Month Letras Auction |  |  | 1.900% |
 | 09:40 | EUR | Spanish 6-Month Letras Auction |  |  | 1.872% |
 | 10:00 | NOK | House Price Index (YoY) (Jul) |  |  | 5.10% |
-| 10:00 | EUR | PPI (MoM) (Jun) |  | 0.9% | -0.6% |
 | 10:00 | EUR | PPI (YoY) (Jun) |  | 0.5% | 0.3% |
+| 10:00 | EUR | PPI (MoM) (Jun) |  | 0.9% | -0.6% |
 | 10:30 | EUR | German 2-Year Schatz Auction |  |  | 1.870% |
 | 11:00 | EUR | German Car Registration (YoY) (Jul) |  |  | -13.8% |
 | 12:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
-| 13:00 | MXN | Gross Fixed Investments (YoY) (May) |  |  | -12.50% |
 | 13:00 | MXN | Gross Fixed Investments (MoM) (May) |  |  | -1.70% |
+| 13:00 | MXN | Gross Fixed Investments (YoY) (May) |  |  | -12.50% |
 | 13:00 | NZD | GlobalDairyTrade Price Index |  |  | 1.1% |
 | 13:00 | USD | Milk Auctions |  |  | 4,380.0 |
 | 13:30 | CAD | Exports (Jun) |  |  | 60.81B |
