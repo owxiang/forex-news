@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | CPI (MoM) (Jul) | 0.2% | 0.2% | 0.0% |
 | 00:00 | KRW | Low | CPI (YoY) (Jul) | 2.1% | 2.1% | 2.2% |
+| 00:00 | KRW | Low | CPI (MoM) (Jul) | 0.2% | 0.2% | 0.0% |
 | 00:00 | AUD | Low | Judo Bank Services PMI (Jul) | 54.1 | 53.8 | 53.8 |
 | 00:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 01:30 | JPY | Moderate | au Jibun Bank Services PMI (Jul) | 53.6 | 53.5 | 51.7 |
@@ -12,11 +12,11 @@
 | 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (Jul) | -1.0% |  | 1.6% |
 | 02:45 | CNY | Moderate | Caixin Services PMI (Jul) | 52.6 | 50.4 | 50.6 |
 | 04:35 | JPY | Moderate | 10-Year JGB Auction | 1.462% |  | 1.442% |
-| 05:00 | IDR | Low | GDP (YoY) (Q2) | 5.12% | 4.80% | 4.87% |
 | 05:00 | IDR | Low | GDP (QoQ) (Q2) | 4.04% | 3.70% | -0.98% |
+| 05:00 | IDR | Low | GDP (YoY) (Q2) | 5.12% | 4.80% | 4.87% |
 | 06:00 | INR | Low | S&P Global Services PMI (Jul) | 60.5 | 59.8 | 60.4 |
-| 06:00 | SGD | Low | Retail Sales (YoY) (Jun) | 2.3% |  | 1.3% |
 | 06:00 | SGD | Low | Retail Sales (MoM) (Jun) | -1.2% |  | 1.0% |
+| 06:00 | SGD | Low | Retail Sales (YoY) (Jun) | 2.3% |  | 1.3% |
 | 07:45 | EUR | Low | French Government Budget Balance (Jun) | -100.4B |  | -94.0B |
 | 07:45 | EUR | Low | French Industrial Production (MoM) (Jun) | 3.8% | 0.8% | -0.7% |
 | 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Jun) | 2.3% |  | 1.7% |
@@ -28,18 +28,19 @@
 | 08:50 | EUR | Moderate | HCOB France Services PMI (Jul) | 48.5 | 49.7 | 49.6 |
 | 08:55 | EUR | Low | HCOB Germany Composite PMI (Jul) | 50.6 | 50.3 | 50.4 |
 | 08:55 | EUR | Moderate | HCOB Germany Services PMI (Jul) | 50.6 | 50.1 | 49.7 |
+| 09:00 | GBP | Low | Car Registration (YoY) | -5.0% |  | 6.7% |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Jul) | 50.9 | 51.0 | 52.0 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Jul) | 51.0 | 51.2 | 50.5 |
-| 20 min | GBP | Low | Car Registration (YoY) |  |  | 6.7% |
-| 20 min | GBP | Moderate | S&P Global Composite PMI (Jul) |  | 51.0 | 52.0 |
-| 20 min | GBP | Moderate | S&P Global Services PMI (Jul) |  | 51.2 | 52.8 |
-| 30 min | EUR | Low | Spanish 12-Month Letras Auction |  |  | 1.900% |
-| 30 min | EUR | Low | Spanish 6-Month Letras Auction |  |  | 1.872% |
-| 50 min | NOK | Low | House Price Index (YoY) (Jul) |  |  | 5.10% |
-| 50 min | EUR | Low | PPI (MoM) (Jun) |  | 0.9% | -0.6% |
-| 50 min | EUR | Low | PPI (YoY) (Jun) |  | 0.5% | 0.3% |
-| 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 1.870% |
-| 11:00 | EUR | Low | German Car Registration (YoY) (Jul) |  |  | -13.8% |
+| 09:10 | GBP | Low | United Kingdom New Passenger Cars Registration (Jul) | 140,154.0 |  | 191,316.0 |
+| 09:30 | GBP | Moderate | S&P Global Composite PMI (Jul) | 51.5 | 51.0 | 52.0 |
+| 09:30 | GBP | Moderate | S&P Global Services PMI (Jul) | 51.8 | 51.2 | 52.8 |
+| 10:00 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 1.900% |
+| 10:00 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 1.872% |
+| 10:00 | NOK | Low | House Price Index (YoY) (Jul) | 5.40% |  | 5.10% |
+| 10:00 | EUR | Low | PPI (MoM) (Jun) | 0.8% | 0.9% | -0.6% |
+| 10:00 | EUR | Low | PPI (YoY) (Jun) | 0.6% | 0.5% | 0.3% |
+| 20 min | EUR | Low | German 2-Year Schatz Auction |  |  | 1.870% |
+| 50 min | EUR | Low | German Car Registration (YoY) (Jul) |  |  | -13.8% |
 | 12:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
 | 13:00 | MXN | Low | Gross Fixed Investments (YoY) (May) |  |  | -12.50% |
 | 13:00 | MXN | Low | Gross Fixed Investments (MoM) (May) |  |  | -1.70% |
