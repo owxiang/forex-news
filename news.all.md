@@ -17,9 +17,9 @@
 | 06:00 | INR | Low | S&P Global Services PMI (Jul) | 60.5 | 59.8 | 60.4 |
 | 06:00 | SGD | Low | Retail Sales (MoM) (Jun) | -1.2% |  | 1.0% |
 | 06:00 | SGD | Low | Retail Sales (YoY) (Jun) | 2.3% |  | 1.3% |
-| 07:45 | EUR | Low | French Government Budget Balance (Jun) |  |  | -94.0B |
-| 07:45 | EUR | Low | French Industrial Production (MoM) (Jun) |  | 0.8% | -0.5% |
-| 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Jun) |  |  | 1.7% |
+| 34 min | EUR | Low | French Government Budget Balance (Jun) |  |  | -94.0B |
+| 34 min | EUR | Low | French Industrial Production (MoM) (Jun) |  | 0.8% | -0.5% |
+| 49 min | EUR | Low | Spanish Industrial Production (YoY) (Jun) |  |  | 1.7% |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Jul) |  | 52.6 | 51.9 |
 | 08:15 | ZAR | Low | S&P Global Manufacturing PMI (Jul) |  |  | 50.1 |
 | 08:45 | EUR | Low | HCOB Italy Composite PMI (Jul) |  |  | 51.1 |
@@ -43,8 +43,6 @@
 | 12:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
 | 13:00 | MXN | Low | Gross Fixed Investments (MoM) (May) |  |  | -1.70% |
 | 13:00 | MXN | Low | Gross Fixed Investments (YoY) (May) |  |  | -12.50% |
-| 13:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 1.1% |
-| 13:00 | USD | Low | Milk Auctions |  |  | 4,380.0 |
 | 13:30 | USD | Moderate | Exports (Jun) |  |  | 279.00B |
 | 13:30 | USD | Moderate | Imports (Jun) |  |  | 350.50B |
 | 13:30 | USD | Moderate | Trade Balance (Jun) |  | -62.60B | -71.50B |
@@ -62,6 +60,8 @@
 | 15:00 | USD | High | ISM Non-Manufacturing PMI (Jul) |  | 51.5 | 50.8 |
 | 15:00 | USD | High | ISM Non-Manufacturing Prices (Jul) |  |  | 67.5 |
 | 15:10 | USD | Low | IBD/TIPP Economic Optimism (Aug) |  | 49.2 | 48.6 |
+| 16:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 1.1% |
+| 16:00 | USD | Low | Milk Auctions |  |  | 4,380.0 |
 | 16:30 | USD | Low | 52-Week Bill Auction |  |  | 3.925% |
 | 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 3.891% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  |  |  |

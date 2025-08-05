@@ -13,9 +13,9 @@
 | 06:00 | INR | S&P Global Services PMI (Jul) | 60.5 | 59.8 | 60.4 |
 | 06:00 | SGD | Retail Sales (MoM) (Jun) | -1.2% |  | 1.0% |
 | 06:00 | SGD | Retail Sales (YoY) (Jun) | 2.3% |  | 1.3% |
-| 07:45 | EUR | French Government Budget Balance (Jun) |  |  | -94.0B |
-| 07:45 | EUR | French Industrial Production (MoM) (Jun) |  | 0.8% | -0.5% |
-| 08:00 | EUR | Spanish Industrial Production (YoY) (Jun) |  |  | 1.7% |
+| 34 min | EUR | French Government Budget Balance (Jun) |  |  | -94.0B |
+| 34 min | EUR | French Industrial Production (MoM) (Jun) |  | 0.8% | -0.5% |
+| 49 min | EUR | Spanish Industrial Production (YoY) (Jun) |  |  | 1.7% |
 | 08:15 | ZAR | S&P Global Manufacturing PMI (Jul) |  |  | 50.1 |
 | 08:45 | EUR | HCOB Italy Composite PMI (Jul) |  |  | 51.1 |
 | 08:50 | EUR | HCOB France Composite PMI (Jul) |  | 49.6 | 49.2 |
@@ -31,8 +31,6 @@
 | 12:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
 | 13:00 | MXN | Gross Fixed Investments (MoM) (May) |  |  | -1.70% |
 | 13:00 | MXN | Gross Fixed Investments (YoY) (May) |  |  | -12.50% |
-| 13:00 | NZD | GlobalDairyTrade Price Index |  |  | 1.1% |
-| 13:00 | USD | Milk Auctions |  |  | 4,380.0 |
 | 13:30 | CAD | Exports (Jun) |  |  | 60.81B |
 | 13:30 | CAD | Imports (Jun) |  |  | 66.66B |
 | 13:55 | USD | Redbook (YoY) |  |  | 4.9% |
@@ -41,6 +39,8 @@
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Jul) |  |  | 54.2 |
 | 15:00 | USD | ISM Non-Manufacturing New Orders (Jul) |  |  | 51.3 |
 | 15:10 | USD | IBD/TIPP Economic Optimism (Aug) |  | 49.2 | 48.6 |
+| 16:00 | NZD | GlobalDairyTrade Price Index |  |  | 1.1% |
+| 16:00 | USD | Milk Auctions |  |  | 4,380.0 |
 | 16:30 | USD | 52-Week Bill Auction |  |  | 3.925% |
 | 23:45 | NZD | Employment Change (QoQ) (Q2) |  | -0.1% | 0.1% |
 | 23:45 | NZD | Labor Cost Index (YoY) (Q2) |  | 2.3% | 2.5% |
