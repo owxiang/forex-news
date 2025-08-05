@@ -10,8 +10,8 @@
 | 01:30 | HKD | Low | S&P Global Manufacturing PMI (Jul) | 49.2 |  | 47.8 |
 | 02:00 | NZD | Low | ANZ Commodity Price Index (MoM) | -1.8% |  | -2.4% |
 | 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (Jul) | -1.0% |  | 1.6% |
-| 8 min | CNY | Moderate | Caixin Services PMI (Jul) |  | 50.4 | 50.6 |
-| 04:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 1.442% |
+| 02:45 | CNY | Moderate | Caixin Services PMI (Jul) | 52.6 | 50.4 | 50.6 |
+| 45 min | JPY | Moderate | 10-Year JGB Auction |  |  | 1.442% |
 | 05:00 | IDR | Low | GDP (YoY) (Q2) |  | 4.80% | 4.87% |
 | 05:00 | IDR | Low | GDP (QoQ) (Q2) |  | 3.70% | -0.98% |
 | 06:00 | INR | Low | S&P Global Services PMI (Jul) |  | 59.8 | 60.4 |
@@ -41,8 +41,8 @@
 | 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 1.870% |
 | 11:00 | EUR | Low | German Car Registration (YoY) (Jul) |  |  | -13.8% |
 | 12:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
-| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (May) |  |  | -1.70% |
 | 13:00 | MXN | Low | Gross Fixed Investments (YoY) (May) |  |  | -12.50% |
+| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (May) |  |  | -1.70% |
 | 13:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 1.1% |
 | 13:00 | USD | Low | Milk Auctions |  |  | 4,380.0 |
 | 13:30 | USD | Moderate | Exports (Jun) |  |  | 279.00B |

@@ -29,8 +29,8 @@
 | 10:30 | EUR | German 2-Year Schatz Auction |  |  | 1.870% |
 | 11:00 | EUR | German Car Registration (YoY) (Jul) |  |  | -13.8% |
 | 12:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
-| 13:00 | MXN | Gross Fixed Investments (MoM) (May) |  |  | -1.70% |
 | 13:00 | MXN | Gross Fixed Investments (YoY) (May) |  |  | -12.50% |
+| 13:00 | MXN | Gross Fixed Investments (MoM) (May) |  |  | -1.70% |
 | 13:00 | NZD | GlobalDairyTrade Price Index |  |  | 1.1% |
 | 13:00 | USD | Milk Auctions |  |  | 4,380.0 |
 | 13:30 | CAD | Exports (Jun) |  |  | 60.81B |

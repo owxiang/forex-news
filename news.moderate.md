@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Monetary Policy Meeting Minutes |  |  |  |
 | 01:30 | JPY | au Jibun Bank Services PMI (Jul) | 53.6 | 53.5 | 53.5 |
-| 8 min | CNY | Caixin Services PMI (Jul) |  | 50.4 | 50.6 |
-| 04:35 | JPY | 10-Year JGB Auction |  |  | 1.442% |
+| 02:45 | CNY | Caixin Services PMI (Jul) | 52.6 | 50.4 | 50.6 |
+| 45 min | JPY | 10-Year JGB Auction |  |  | 1.442% |
 | 08:15 | EUR | HCOB Spain Services PMI (Jul) |  | 52.6 | 51.9 |
 | 08:45 | EUR | HCOB Italy Services PMI (Jul) |  | 52.5 | 52.1 |
 | 08:50 | EUR | HCOB France Services PMI (Jul) |  | 49.7 | 49.6 |
