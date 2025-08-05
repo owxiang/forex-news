@@ -6,14 +6,14 @@
 | 01:30 | JPY | au Jibun Bank Services PMI (Jul) | 53.6 | 53.5 | 51.7 |
 | 02:45 | CNY | Caixin Services PMI (Jul) | 52.6 | 50.4 | 50.6 |
 | 04:35 | JPY | 10-Year JGB Auction | 1.462% |  | 1.442% |
-| 4 min | EUR | HCOB Spain Services PMI (Jul) |  | 52.6 | 51.9 |
-| 34 min | EUR | HCOB Italy Services PMI (Jul) |  | 52.5 | 52.1 |
-| 39 min | EUR | HCOB France Services PMI (Jul) |  | 49.7 | 49.6 |
-| 44 min | EUR | HCOB Germany Services PMI (Jul) |  | 50.1 | 49.7 |
-| 49 min | EUR | HCOB Eurozone Composite PMI (Jul) |  | 51.0 | 52.0 |
-| 49 min | EUR | HCOB Eurozone Services PMI (Jul) |  | 51.2 | 50.5 |
-| 09:30 | GBP | S&P Global Composite PMI (Jul) |  | 51.0 | 52.0 |
-| 09:30 | GBP | S&P Global Services PMI (Jul) |  | 51.2 | 52.8 |
+| 08:15 | EUR | HCOB Spain Services PMI (Jul) | 55.1 | 52.6 | 51.9 |
+| 08:45 | EUR | HCOB Italy Services PMI (Jul) | 52.3 | 52.5 | 52.1 |
+| 08:50 | EUR | HCOB France Services PMI (Jul) | 48.5 | 49.7 | 49.6 |
+| 08:55 | EUR | HCOB Germany Services PMI (Jul) | 50.6 | 50.1 | 49.7 |
+| 09:00 | EUR | HCOB Eurozone Composite PMI (Jul) | 50.9 | 51.0 | 52.0 |
+| 09:00 | EUR | HCOB Eurozone Services PMI (Jul) | 51.0 | 51.2 | 50.5 |
+| 20 min | GBP | S&P Global Composite PMI (Jul) |  | 51.0 | 52.0 |
+| 20 min | GBP | S&P Global Services PMI (Jul) |  | 51.2 | 52.8 |
 | 13:30 | USD | Exports (Jun) |  |  | 279.00B |
 | 13:30 | USD | Imports (Jun) |  |  | 350.50B |
 | 13:30 | USD | Trade Balance (Jun) |  | -62.60B | -71.50B |

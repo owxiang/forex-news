@@ -11,21 +11,21 @@
 | 05:00 | IDR | GDP (YoY) (Q2) | 5.12% | 4.80% | 4.87% |
 | 05:00 | IDR | GDP (QoQ) (Q2) | 4.04% | 3.70% | -0.98% |
 | 06:00 | INR | S&P Global Services PMI (Jul) | 60.5 | 59.8 | 60.4 |
-| 06:00 | SGD | Retail Sales (MoM) (Jun) | -1.2% |  | 1.0% |
 | 06:00 | SGD | Retail Sales (YoY) (Jun) | 2.3% |  | 1.3% |
+| 06:00 | SGD | Retail Sales (MoM) (Jun) | -1.2% |  | 1.0% |
 | 07:45 | EUR | French Government Budget Balance (Jun) | -100.4B |  | -94.0B |
 | 07:45 | EUR | French Industrial Production (MoM) (Jun) | 3.8% | 0.8% | -0.7% |
 | 08:00 | EUR | Spanish Industrial Production (YoY) (Jun) | 2.3% |  | 1.7% |
-| 4 min | ZAR | S&P Global Manufacturing PMI (Jul) |  |  | 50.1 |
-| 34 min | EUR | HCOB Italy Composite PMI (Jul) |  |  | 51.1 |
-| 39 min | EUR | HCOB France Composite PMI (Jul) |  | 49.6 | 49.2 |
-| 44 min | EUR | HCOB Germany Composite PMI (Jul) |  | 50.3 | 50.4 |
-| 49 min | GBP | Car Registration (YoY) |  |  | 6.7% |
-| 09:40 | EUR | Spanish 12-Month Letras Auction |  |  | 1.900% |
-| 09:40 | EUR | Spanish 6-Month Letras Auction |  |  | 1.872% |
-| 10:00 | NOK | House Price Index (YoY) (Jul) |  |  | 5.10% |
-| 10:00 | EUR | PPI (MoM) (Jun) |  | 0.9% | -0.6% |
-| 10:00 | EUR | PPI (YoY) (Jun) |  | 0.5% | 0.3% |
+| 08:15 | ZAR | S&P Global Manufacturing PMI (Jul) | 50.3 |  | 50.1 |
+| 08:45 | EUR | HCOB Italy Composite PMI (Jul) | 51.5 |  | 51.1 |
+| 08:50 | EUR | HCOB France Composite PMI (Jul) | 48.6 | 49.6 | 49.2 |
+| 08:55 | EUR | HCOB Germany Composite PMI (Jul) | 50.6 | 50.3 | 50.4 |
+| 20 min | GBP | Car Registration (YoY) |  |  | 6.7% |
+| 30 min | EUR | Spanish 12-Month Letras Auction |  |  | 1.900% |
+| 30 min | EUR | Spanish 6-Month Letras Auction |  |  | 1.872% |
+| 50 min | NOK | House Price Index (YoY) (Jul) |  |  | 5.10% |
+| 50 min | EUR | PPI (MoM) (Jun) |  | 0.9% | -0.6% |
+| 50 min | EUR | PPI (YoY) (Jun) |  | 0.5% | 0.3% |
 | 10:30 | EUR | German 2-Year Schatz Auction |  |  | 1.870% |
 | 11:00 | EUR | German Car Registration (YoY) (Jul) |  |  | -13.8% |
 | 12:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
