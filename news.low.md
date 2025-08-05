@@ -2,14 +2,14 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | CPI (YoY) (Jul) | 2.1% | 2.1% | 2.2% |
 | 00:00 | KRW | CPI (MoM) (Jul) | 0.2% | 0.2% | 0.0% |
+| 00:00 | KRW | CPI (YoY) (Jul) | 2.1% | 2.1% | 2.2% |
 | 00:00 | AUD | Judo Bank Services PMI (Jul) | 54.1 | 53.8 | 53.8 |
 | 01:30 | HKD | S&P Global Manufacturing PMI (Jul) | 49.2 |  | 47.8 |
 | 02:00 | NZD | ANZ Commodity Price Index (MoM) | -1.8% |  | -2.4% |
 | 02:30 | AUD | ANZ Job Advertisements (MoM) (Jul) | -1.0% |  | 1.6% |
-| 05:00 | IDR | GDP (QoQ) (Q2) | 4.04% | 3.70% | -0.98% |
 | 05:00 | IDR | GDP (YoY) (Q2) | 5.12% | 4.80% | 4.87% |
+| 05:00 | IDR | GDP (QoQ) (Q2) | 4.04% | 3.70% | -0.98% |
 | 06:00 | INR | S&P Global Services PMI (Jul) | 60.5 | 59.8 | 60.4 |
 | 06:00 | SGD | Retail Sales (MoM) (Jun) | -1.2% |  | 1.0% |
 | 06:00 | SGD | Retail Sales (YoY) (Jun) | 2.3% |  | 1.3% |
@@ -23,25 +23,25 @@
 | 09:00 | GBP | Car Registration (YoY) | -5.0% |  | 6.7% |
 | 10:00 | GBP | United Kingdom New Passenger Cars Registration (Jul) | 140,154.0 |  | 191,316.0 |
 | 10:00 | NOK | House Price Index (YoY) (Jul) | 5.40% |  | 5.10% |
-| 10:00 | EUR | PPI (YoY) (Jun) | 0.6% | 0.5% | 0.3% |
 | 10:00 | EUR | PPI (MoM) (Jun) | 0.8% | 0.9% | -0.6% |
+| 10:00 | EUR | PPI (YoY) (Jun) | 0.6% | 0.5% | 0.3% |
 | 10:20 | EUR | Spanish 12-Month Letras Auction | 1.945% |  | 1.900% |
 | 10:20 | EUR | Spanish 6-Month Letras Auction | 1.932% |  | 1.872% |
 | 10:30 | EUR | German 2-Year Schatz Auction | 1.900% |  | 1.870% |
 | 11:00 | EUR | German Car Registration (YoY) (Jul) | 11.0% |  | -13.8% |
 | 12:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
-| 53 min | MXN | Gross Fixed Investments (YoY) (May) |  |  | -12.50% |
-| 53 min | MXN | Gross Fixed Investments (MoM) (May) |  |  | -1.70% |
-| 53 min | NZD | GlobalDairyTrade Price Index |  |  | 1.1% |
-| 53 min | USD | Milk Auctions |  |  | 4,380.0 |
-| 13:30 | CAD | Exports (Jun) |  |  | 60.81B |
-| 13:30 | CAD | Imports (Jun) |  |  | 66.66B |
-| 13:55 | USD | Redbook (YoY) |  |  | 4.9% |
-| 14:00 | BRL | S&P Global Composite PMI (Jul) |  |  | 48.7 |
-| 14:00 | BRL | S&P Global Services PMI (Jul) |  |  | 49.3 |
+| 13:00 | MXN | Gross Fixed Investments (MoM) (May) | 0.90% |  | -1.70% |
+| 13:00 | MXN | Gross Fixed Investments (YoY) (May) | -7.10% |  | -12.50% |
+| 17 min | CAD | Exports (Jun) |  |  | 60.81B |
+| 17 min | CAD | Imports (Jun) |  |  | 66.66B |
+| 42 min | USD | Redbook (YoY) |  |  | 4.9% |
+| 47 min | BRL | S&P Global Composite PMI (Jul) |  |  | 48.7 |
+| 47 min | BRL | S&P Global Services PMI (Jul) |  |  | 49.3 |
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Jul) |  |  | 54.2 |
 | 15:00 | USD | ISM Non-Manufacturing New Orders (Jul) |  |  | 51.3 |
 | 15:10 | USD | IBD/TIPP Economic Optimism (Aug) |  | 49.2 | 48.6 |
+| 16:00 | NZD | GlobalDairyTrade Price Index |  |  | 1.1% |
+| 16:00 | USD | Milk Auctions |  |  | 4,380.0 |
 | 16:30 | USD | 52-Week Bill Auction |  |  | 3.925% |
 | 23:45 | NZD | Employment Change (QoQ) (Q2) |  | -0.1% | 0.1% |
 | 23:45 | NZD | Labor Cost Index (YoY) (Q2) |  | 2.3% | 2.5% |

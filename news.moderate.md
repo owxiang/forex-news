@@ -14,12 +14,12 @@
 | 09:00 | EUR | HCOB Eurozone Services PMI (Jul) | 51.0 | 51.2 | 50.5 |
 | 09:30 | GBP | S&P Global Composite PMI (Jul) | 51.5 | 51.0 | 52.0 |
 | 09:30 | GBP | S&P Global Services PMI (Jul) | 51.8 | 51.2 | 52.8 |
-| 13:30 | USD | Exports (Jun) |  |  | 279.00B |
-| 13:30 | USD | Imports (Jun) |  |  | 350.50B |
-| 13:30 | USD | Trade Balance (Jun) |  | -62.60B | -71.50B |
-| 13:30 | CAD | Trade Balance (Jun) |  | -5.80B | -5.90B |
+| 17 min | USD | Exports (Jun) |  |  | 279.00B |
+| 17 min | USD | Imports (Jun) |  |  | 350.50B |
+| 17 min | USD | Trade Balance (Jun) |  | -62.60B | -71.50B |
+| 17 min | CAD | Trade Balance (Jun) |  | -5.80B | -5.90B |
 | 14:45 | USD | S&P Global Composite PMI (Jul) |  | 54.6 | 52.9 |
 | 15:00 | USD | ISM Non-Manufacturing Employment (Jul) |  |  | 47.2 |
 | 18:00 | USD | 3-Year Note Auction |  |  | 3.891% |
 | 18:00 | USD | Atlanta Fed GDPNow (Q3) |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock |  |  | 1.539M |
+| 21:30 | USD | API Weekly Crude Oil Stock |  | -1.800M | 1.539M |
