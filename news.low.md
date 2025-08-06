@@ -38,4 +38,4 @@
 | 19:00 | USD | Fed Collins Speaks |  |  |  |
 | 19:00 | USD | Fed Governor Cook Speaks |  |  |  |
 | 19:00 | BRL | Trade Balance (Jul) | 7.08B | 5.60B | 5.71B |
-| 52 min | KRW | FX Reserves - USD (Jul) |  |  | 410.20B |
+| 22:00 | KRW | FX Reserves - USD (Jul) |  |  | 410.20B |

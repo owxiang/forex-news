@@ -44,5 +44,5 @@
 | 19:00 | USD | Low | Fed Collins Speaks |  |  |  |
 | 19:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 19:00 | BRL | Low | Trade Balance (Jul) | 7.08B | 5.60B | 5.71B |
-| 2 min | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
-| 52 min | KRW | Low | FX Reserves - USD (Jul) |  |  | 410.20B |
+| 21:10 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
+| 22:00 | KRW | Low | FX Reserves - USD (Jul) |  |  | 410.20B |
