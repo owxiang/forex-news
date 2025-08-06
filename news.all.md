@@ -27,7 +27,7 @@
 | 12:00 | USD | Low | Mortgage Market Index | 253.4 |  | 245.7 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 777.4 |  | 739.3 |
 | 12:30 | INR | Low | M3 Money Supply | 9.6% |  | 9.9% |
-| 2 min | CAD | Low | Reserve Assets Total (Jul) |  |  | 127.9B |
+| 13:15 | CAD | Low | Reserve Assets Total (Jul) | 126.6B |  | 127.9B |
 | 15:30 | USD | High | Crude Oil Inventories |  | 0.200M | 7.698M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.025M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 1.317M |
