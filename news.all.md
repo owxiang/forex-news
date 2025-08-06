@@ -39,7 +39,7 @@
 | 15:30 | USD | Low | Heating Oil Stockpiles | -0.456M |  | 0.739M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 1.5% |  | -0.1% |
 | 15:30 | USD | Low | Gasoline Inventories | -1.323M | -1.000M | -2.724M |
-| 51 min | USD | High | 10-Year Note Auction |  |  | 4.362% |
+| 18:00 | USD | High | 10-Year Note Auction | 4.255% |  | 4.362% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.886B |
 | 19:00 | USD | Low | Fed Collins Speaks |  |  |  |
 | 19:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |
