@@ -1,40 +1,52 @@
-## 06 August 2025 - Low Impact Forex News
+## 07 August 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | AUD | AIG Construction Index (Jul) | -1.3 |  | -14.9 |
-| 00:00 | AUD | AIG Manufacturing Index (Jul) | -23.9 |  | -29.3 |
-| 00:30 | JPY | Average Cash Earnings (YoY) | 2.5% | 3.2% | 1.4% |
-| 00:30 | JPY | Overall wage income of employees (Jun) | 2.5% |  | 1.4% |
-| 00:30 | JPY | Overtime Pay (YoY) (Jun) | 0.90% |  | 1.40% |
-| 05:30 | INR | Cash Reserve Ratio | 4.00% | 4.00% | 4.00% |
-| 05:30 | INR | Reverse REPO Rate | 3.35% |  | 3.35% |
-| 07:45 | EUR | French Non-Farm Payrolls (QoQ) (Q2) | 0.0% | 0.1% | -0.1% |
-| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Jul) | 48.3 |  | 50.2 |
-| 08:30 | EUR | HCOB Germany Construction PMI (Jul) | 46.3 |  | 44.8 |
-| 08:30 | EUR | HCOB France Construction PMI (MoM) (Jul) | 39.7 |  | 41.6 |
-| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Jul) | 44.7 |  | 45.2 |
-| 09:00 | EUR | Italian Industrial Production (MoM) (Jun) | 0.2% | -0.1% | -0.8% |
-| 09:00 | EUR | Italian Industrial Production (YoY) (Jun) | -0.9% |  | -1.0% |
-| 10:00 | EUR | Retail Sales (MoM) (Jun) | 0.3% | 0.4% | -0.3% |
-| 10:00 | EUR | Retail Sales (YoY) (Jun) | 3.1% | 2.6% | 1.9% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.77% |  | 6.83% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) | 3.1% |  | -3.8% |
-| 12:00 | USD | MBA Purchase Index | 158.0 |  | 155.6 |
-| 12:00 | USD | Mortgage Market Index | 253.4 |  | 245.7 |
-| 12:00 | USD | Mortgage Refinance Index | 777.4 |  | 739.3 |
-| 12:30 | INR | M3 Money Supply | 9.6% |  | 9.9% |
-| 13:15 | CAD | Reserve Assets Total (Jul) | 126.6B |  | 127.9B |
-| 14:35 | CAD | Services PMI (MoM) (Jul) | 49.30% |  | 44.30% |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) | 0.213M |  | -0.025M |
-| 15:30 | USD | Crude Oil Imports | -0.794M |  | 1.317M |
-| 15:30 | USD | Distillate Fuel Production | -0.104M |  | 0.130M |
-| 15:30 | USD | EIA Weekly Distillates Stocks | -0.565M | 1.000M | 3.635M |
-| 15:30 | USD | Gasoline Production | -0.239M |  | 0.676M |
-| 15:30 | USD | Heating Oil Stockpiles | -0.456M |  | 0.739M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 1.5% |  | -0.1% |
-| 15:30 | USD | Gasoline Inventories | -1.323M | -1.000M | -2.724M |
-| 18:30 | BRL | Foreign Exchange Flows | 2.010B |  | -0.886B |
-| 19:00 | USD | Fed Collins Speaks |  |  |  |
-| 19:00 | USD | Fed Governor Cook Speaks |  |  |  |
-| 19:00 | BRL | Trade Balance (Jul) | 7.08B | 5.60B | 5.71B |
+| 00:00 | KRW | Current Account (Jun) | 14.27B |  | 10.14B |
+| 43 min | JPY | Foreign Bonds Buying |  |  | -331.6B |
+| 43 min | JPY | Foreign Investments in Japanese Stocks |  |  | 743.3B |
+| 43 min | JPY | Foreign Reserves (USD) (Jul) |  |  | 1,313.8B |
+| 02:30 | AUD | Exports (MoM) (Jun) |  |  | -2.7% |
+| 02:30 | AUD | Imports (MoM) (Jun) |  |  | 3.8% |
+| 02:30 | AUD | Private House Approvals (Jun) |  | -0.2% | 0.5% |
+| 04:00 | IDR | FX Reserves (USD) (Jul) |  |  | 152.60B |
+| 04:00 | CNY | Exports (Jul) |  |  | 7.20M |
+| 04:00 | CNY | Imports (Jul) |  |  | 2.30M |
+| 04:00 | CNY | Trade Balance (Jul) |  | 756.00B | 825.97B |
+| 04:35 | JPY | 30-Year JGB Auction |  |  | 2.808% |
+| 06:00 | JPY | Coincident Indicator (MoM) (Jun) |  |  | 0.0% |
+| 06:00 | JPY | Leading Index (MoM) (Jun) |  |  | 0.6% |
+| 06:00 | JPY | Leading Index (Jun) |  | 106.2 | 104.8 |
+| 07:00 | EUR | German Exports (MoM) (Jun) |  | 0.5% | -1.4% |
+| 07:00 | EUR | German Imports (MoM) (Jun) |  | 1.0% | -3.8% |
+| 07:00 | EUR | German Industrial Production (YoY) (Jun) |  | -0.60% | 1.20% |
+| 07:00 | NOK | Manufacturing Production (MoM) (Jun) |  |  | -1.7% |
+| 07:00 | ZAR | Foreign Reserves (USD) (Jul) |  |  | 68.42B |
+| 07:00 | ZAR | Net FX Reserves (USD) (Jul) |  |  | 65.216B |
+| 07:45 | EUR | French Current Account (Jun) |  |  | -3.10B |
+| 07:45 | EUR | French Exports (Jun) |  |  | 48.9B |
+| 07:45 | EUR | French Imports (Jun) |  |  | 56.7B |
+| 07:45 | EUR | French Reserve Assets Total (Jul) |  |  | 294,723.0M |
+| 07:45 | EUR | French Trade Balance (Jun) |  | -7.5B | -7.8B |
+| 08:00 | CHF | Foreign Reserves (USD) (Jul) |  |  | 712,996.0B |
+| 08:00 | CHF | Unemployment Rate n.s.a. (Jul) |  | 2.9% | 2.7% |
+| 08:00 | CHF | Unemployment Rate s.a. (Jul) |  |  | 2.9% |
+| 09:00 | CNY | FX Reserves (USD) (Jul) |  |  | 3.317T |
+| 09:30 | HKD | Foreign Reserves (USD) (Jul) |  |  | 431.90B |
+| 10:00 | SGD | Foreign Reserves USD (MoM) (Jul) |  |  | 405.0B |
+| 12:00 | BRL | IGP-DI Inflation Index (MoM) (Jul) |  |  | -1.80% |
+| 13:00 | MXN | Core CPI (MoM) (Jul) |  | 0.30% | 0.39% |
+| 13:00 | MXN | Month Core Inflation (MoM) (Jul) |  | 4.23% | 4.24% |
+| 13:00 | MXN | PPI (MoM) (Jul) |  |  | -0.10% |
+| 13:00 | MXN | PPI (YoY) (Jul) |  |  | 4.90% |
+| 13:00 | BRL | Brazilian PPI (MoM) (Jun) |  |  | -1.29% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 221.00K |
+| 15:00 | USD | Wholesale Inventories (MoM) (Jun) |  | 0.2% | -0.3% |
+| 15:00 | USD | Wholesale Trade Sales (MoM) (Jun) |  |  | -0.3% |
+| 15:00 | CAD | Ivey PMI n.s.a (Jul) |  |  | 54.6 |
+| 15:00 | BRL | Auto Production (MoM) (Jul) |  |  | -6.5% |
+| 15:00 | BRL | Auto Sales (MoM) (Jul) |  |  | -5.7% |
+| 15:30 | USD | Natural Gas Storage |  | 10B | 48B |
+| 16:30 | USD | 4-Week Bill Auction |  |  | 4.290% |
+| 16:30 | USD | 8-Week Bill Auction |  |  | 4.290% |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.300T |
