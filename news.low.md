@@ -4,9 +4,9 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | AUD | AIG Construction Index (Jul) | -1.3 |  | -14.9 |
 | 00:00 | AUD | AIG Manufacturing Index (Jul) | -23.9 |  | -29.3 |
-| 23 min | JPY | Average Cash Earnings (YoY) |  | 3.2% | 3.1% |
-| 23 min | JPY | Overall wage income of employees (Jun) |  |  | 1.0% |
-| 23 min | JPY | Overtime Pay (YoY) (Jun) |  |  | 1.00% |
+| 00:30 | JPY | Average Cash Earnings (YoY) | 2.5% | 3.2% | 1.4% |
+| 00:30 | JPY | Overall wage income of employees (Jun) | 2.5% |  | 1.4% |
+| 00:30 | JPY | Overtime Pay (YoY) (Jun) | 0.90% |  | 1.40% |
 | 05:30 | INR | Cash Reserve Ratio |  | 4.00% | 4.00% |
 | 05:30 | INR | Reverse REPO Rate |  |  | 3.35% |
 | 07:45 | EUR | French Non-Farm Payrolls (QoQ) (Q2) |  |  | -0.1% |
@@ -14,8 +14,8 @@
 | 08:30 | EUR | HCOB Germany Construction PMI (Jul) |  |  | 44.8 |
 | 08:30 | EUR | HCOB France Construction PMI (MoM) (Jul) |  |  | 41.6 |
 | 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Jul) |  |  | 45.2 |
-| 09:00 | EUR | Italian Industrial Production (YoY) (Jun) |  |  | -0.9% |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Jun) |  | -0.1% | -0.7% |
+| 09:00 | EUR | Italian Industrial Production (YoY) (Jun) |  |  | -0.9% |
 | 10:00 | EUR | Retail Sales (YoY) (Jun) |  | 2.6% | 1.8% |
 | 10:00 | EUR | Retail Sales (MoM) (Jun) |  | 0.4% | -0.7% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.83% |
