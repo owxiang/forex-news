@@ -28,7 +28,7 @@
 | 12:00 | USD | Low | Mortgage Refinance Index | 777.4 |  | 739.3 |
 | 12:30 | INR | Low | M3 Money Supply | 9.6% |  | 9.9% |
 | 13:15 | CAD | Low | Reserve Assets Total (Jul) | 126.6B |  | 127.9B |
-| 14:30 | CAD | Low | Services PMI (MoM) (Jul) |  |  | 44.30% |
+| 14:35 | CAD | Low | Services PMI (MoM) (Jul) | 49.30% |  | 44.30% |
 | 15:30 | USD | High | Crude Oil Inventories | -3.029M | 0.200M | 7.698M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.213M |  | -0.025M |
 | 15:30 | USD | Low | Crude Oil Imports | -0.794M |  | 1.317M |
@@ -44,5 +44,5 @@
 | 19:00 | USD | Low | Fed Collins Speaks |  |  |  |
 | 19:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 19:00 | BRL | Low | Trade Balance (Jul) | 7.08B | 5.60B | 5.71B |
-| 21:10 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
-| 22:00 | KRW | Low | FX Reserves - USD (Jul) |  |  | 410.20B |
+| 2 min | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
+| 52 min | KRW | Low | FX Reserves - USD (Jul) |  |  | 410.20B |

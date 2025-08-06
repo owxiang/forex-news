@@ -25,7 +25,7 @@
 | 12:00 | USD | Mortgage Refinance Index | 777.4 |  | 739.3 |
 | 12:30 | INR | M3 Money Supply | 9.6% |  | 9.9% |
 | 13:15 | CAD | Reserve Assets Total (Jul) | 126.6B |  | 127.9B |
-| 14:30 | CAD | Services PMI (MoM) (Jul) |  |  | 44.30% |
+| 14:35 | CAD | Services PMI (MoM) (Jul) | 49.30% |  | 44.30% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) | 0.213M |  | -0.025M |
 | 15:30 | USD | Crude Oil Imports | -0.794M |  | 1.317M |
 | 15:30 | USD | Distillate Fuel Production | -0.104M |  | 0.130M |
@@ -38,4 +38,4 @@
 | 19:00 | USD | Fed Collins Speaks |  |  |  |
 | 19:00 | USD | Fed Governor Cook Speaks |  |  |  |
 | 19:00 | BRL | Trade Balance (Jul) | 7.08B | 5.60B | 5.71B |
-| 22:00 | KRW | FX Reserves - USD (Jul) |  |  | 410.20B |
+| 52 min | KRW | FX Reserves - USD (Jul) |  |  | 410.20B |
