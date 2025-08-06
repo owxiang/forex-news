@@ -18,12 +18,12 @@
 | 09:00 | EUR | Italian Industrial Production (MoM) (Jun) | 0.2% | -0.1% | -0.8% |
 | 10:00 | EUR | Retail Sales (MoM) (Jun) | 0.3% | 0.4% | -0.3% |
 | 10:00 | EUR | Retail Sales (YoY) (Jun) | 3.1% | 2.6% | 1.9% |
-| 52 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.83% |
-| 52 min | USD | MBA Mortgage Applications (WoW) |  |  | -3.8% |
-| 52 min | USD | MBA Purchase Index |  |  | 155.6 |
-| 52 min | USD | Mortgage Market Index |  |  | 245.7 |
-| 52 min | USD | Mortgage Refinance Index |  |  | 739.3 |
-| 12:30 | INR | M3 Money Supply |  |  | 9.5% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.77% |  | 6.83% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | 3.1% |  | -3.8% |
+| 12:00 | USD | MBA Purchase Index | 158.0 |  | 155.6 |
+| 12:00 | USD | Mortgage Market Index | 253.4 |  | 245.7 |
+| 12:00 | USD | Mortgage Refinance Index | 777.4 |  | 739.3 |
+| 23 min | INR | M3 Money Supply |  |  | 9.5% |
 | 13:15 | CAD | Reserve Assets Total (Jul) |  |  | 127.9B |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.025M |
 | 15:30 | USD | Crude Oil Imports |  |  | 1.317M |
