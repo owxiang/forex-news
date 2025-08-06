@@ -23,8 +23,8 @@
 | 12:00 | USD | MBA Purchase Index | 158.0 |  | 155.6 |
 | 12:00 | USD | Mortgage Market Index | 253.4 |  | 245.7 |
 | 12:00 | USD | Mortgage Refinance Index | 777.4 |  | 739.3 |
-| 23 min | INR | M3 Money Supply |  |  | 9.5% |
-| 13:15 | CAD | Reserve Assets Total (Jul) |  |  | 127.9B |
+| 12:30 | INR | M3 Money Supply | 9.6% |  | 9.9% |
+| 2 min | CAD | Reserve Assets Total (Jul) |  |  | 127.9B |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.025M |
 | 15:30 | USD | Crude Oil Imports |  |  | 1.317M |
 | 15:30 | USD | Distillate Fuel Production |  |  | 0.130M |
