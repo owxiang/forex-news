@@ -40,9 +40,9 @@
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 1.5% |  | -0.1% |
 | 15:30 | USD | Low | Gasoline Inventories | -1.323M | -1.000M | -2.724M |
 | 18:00 | USD | High | 10-Year Note Auction | 4.255% |  | 4.362% |
-| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.886B |
+| 18:30 | BRL | Low | Foreign Exchange Flows | 2.010B |  | -0.886B |
 | 19:00 | USD | Low | Fed Collins Speaks |  |  |  |
 | 19:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 19:00 | BRL | Low | Trade Balance (Jul) |  | 5.60B | 5.89B |
+| 19:00 | BRL | Low | Trade Balance (Jul) | 7.08B | 5.60B | 5.71B |
 | 21:10 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 22:00 | KRW | Low | FX Reserves - USD (Jul) |  |  | 410.20B |

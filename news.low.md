@@ -34,8 +34,8 @@
 | 15:30 | USD | Heating Oil Stockpiles | -0.456M |  | 0.739M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 1.5% |  | -0.1% |
 | 15:30 | USD | Gasoline Inventories | -1.323M | -1.000M | -2.724M |
-| 18:30 | BRL | Foreign Exchange Flows |  |  | -0.886B |
+| 18:30 | BRL | Foreign Exchange Flows | 2.010B |  | -0.886B |
 | 19:00 | USD | Fed Collins Speaks |  |  |  |
 | 19:00 | USD | Fed Governor Cook Speaks |  |  |  |
-| 19:00 | BRL | Trade Balance (Jul) |  | 5.60B | 5.89B |
+| 19:00 | BRL | Trade Balance (Jul) | 7.08B | 5.60B | 5.71B |
 | 22:00 | KRW | FX Reserves - USD (Jul) |  |  | 410.20B |
