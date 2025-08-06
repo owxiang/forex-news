@@ -16,8 +16,8 @@
 | 08:30 | EUR | Low | HCOB Germany Construction PMI (Jul) | 46.3 |  | 44.8 |
 | 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Jul) | 39.7 |  | 41.6 |
 | 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Jul) | 44.7 |  | 45.2 |
-| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Jun) | 0.2% | -0.1% | -0.8% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Jun) | -0.9% |  | -1.0% |
+| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Jun) | 0.2% | -0.1% | -0.8% |
 | 09:30 | GBP | Moderate | S&P Global Construction PMI (Jul) | 44.3 | 48.9 | 48.8 |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Jun) | 0.3% | 0.4% | -0.3% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (Jun) | 3.1% | 2.6% | 1.9% |
@@ -29,16 +29,16 @@
 | 12:30 | INR | Low | M3 Money Supply | 9.6% |  | 9.9% |
 | 13:15 | CAD | Low | Reserve Assets Total (Jul) | 126.6B |  | 127.9B |
 | 14:30 | CAD | Low | Services PMI (MoM) (Jul) |  |  | 44.30% |
-| 20 min | USD | High | Crude Oil Inventories |  | 0.200M | 7.698M |
-| 20 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.025M |
-| 20 min | USD | Low | Crude Oil Imports |  |  | 1.317M |
-| 20 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.690M |
-| 20 min | USD | Low | Distillate Fuel Production |  |  | 0.130M |
-| 20 min | USD | Low | EIA Weekly Distillates Stocks |  | 1.000M | 3.635M |
-| 20 min | USD | Low | Gasoline Production |  |  | 0.676M |
-| 20 min | USD | Low | Heating Oil Stockpiles |  |  | 0.739M |
-| 20 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.1% |
-| 20 min | USD | Low | Gasoline Inventories |  | -1.000M | -2.724M |
+| 15:30 | USD | High | Crude Oil Inventories | -3.029M | 0.200M | 7.698M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.213M |  | -0.025M |
+| 15:30 | USD | Low | Crude Oil Imports | -0.794M |  | 1.317M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | 0.453M |  | 0.690M |
+| 15:30 | USD | Low | Distillate Fuel Production | -0.104M |  | 0.130M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks | -0.565M | 1.000M | 3.635M |
+| 15:30 | USD | Low | Gasoline Production | -0.239M |  | 0.676M |
+| 15:30 | USD | Low | Heating Oil Stockpiles | -0.456M |  | 0.739M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 1.5% |  | -0.1% |
+| 15:30 | USD | Low | Gasoline Inventories | -1.323M | -1.000M | -2.724M |
 | 18:00 | USD | High | 10-Year Note Auction |  |  | 4.362% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.886B |
 | 19:00 | USD | Low | Fed Collins Speaks |  |  |  |

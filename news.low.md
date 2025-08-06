@@ -14,8 +14,8 @@
 | 08:30 | EUR | HCOB Germany Construction PMI (Jul) | 46.3 |  | 44.8 |
 | 08:30 | EUR | HCOB France Construction PMI (MoM) (Jul) | 39.7 |  | 41.6 |
 | 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Jul) | 44.7 |  | 45.2 |
-| 09:00 | EUR | Italian Industrial Production (MoM) (Jun) | 0.2% | -0.1% | -0.8% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Jun) | -0.9% |  | -1.0% |
+| 09:00 | EUR | Italian Industrial Production (MoM) (Jun) | 0.2% | -0.1% | -0.8% |
 | 10:00 | EUR | Retail Sales (MoM) (Jun) | 0.3% | 0.4% | -0.3% |
 | 10:00 | EUR | Retail Sales (YoY) (Jun) | 3.1% | 2.6% | 1.9% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate | 6.77% |  | 6.83% |
@@ -26,14 +26,14 @@
 | 12:30 | INR | M3 Money Supply | 9.6% |  | 9.9% |
 | 13:15 | CAD | Reserve Assets Total (Jul) | 126.6B |  | 127.9B |
 | 14:30 | CAD | Services PMI (MoM) (Jul) |  |  | 44.30% |
-| 20 min | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.025M |
-| 20 min | USD | Crude Oil Imports |  |  | 1.317M |
-| 20 min | USD | Distillate Fuel Production |  |  | 0.130M |
-| 20 min | USD | EIA Weekly Distillates Stocks |  | 1.000M | 3.635M |
-| 20 min | USD | Gasoline Production |  |  | 0.676M |
-| 20 min | USD | Heating Oil Stockpiles |  |  | 0.739M |
-| 20 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.1% |
-| 20 min | USD | Gasoline Inventories |  | -1.000M | -2.724M |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) | 0.213M |  | -0.025M |
+| 15:30 | USD | Crude Oil Imports | -0.794M |  | 1.317M |
+| 15:30 | USD | Distillate Fuel Production | -0.104M |  | 0.130M |
+| 15:30 | USD | EIA Weekly Distillates Stocks | -0.565M | 1.000M | 3.635M |
+| 15:30 | USD | Gasoline Production | -0.239M |  | 0.676M |
+| 15:30 | USD | Heating Oil Stockpiles | -0.456M |  | 0.739M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 1.5% |  | -0.1% |
+| 15:30 | USD | Gasoline Inventories | -1.323M | -1.000M | -2.724M |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | -0.886B |
 | 19:00 | USD | Fed Collins Speaks |  |  |  |
 | 19:00 | USD | Fed Governor Cook Speaks |  |  |  |
