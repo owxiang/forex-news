@@ -14,27 +14,27 @@
 | 08:30 | EUR | HCOB Germany Construction PMI (Jul) | 46.3 |  | 44.8 |
 | 08:30 | EUR | HCOB France Construction PMI (MoM) (Jul) | 39.7 |  | 41.6 |
 | 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Jul) | 44.7 |  | 45.2 |
-| 09:00 | EUR | Italian Industrial Production (MoM) (Jun) | 0.2% | -0.1% | -0.8% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Jun) | -0.9% |  | -1.0% |
-| 10:00 | EUR | Retail Sales (YoY) (Jun) | 3.1% | 2.6% | 1.9% |
+| 09:00 | EUR | Italian Industrial Production (MoM) (Jun) | 0.2% | -0.1% | -0.8% |
 | 10:00 | EUR | Retail Sales (MoM) (Jun) | 0.3% | 0.4% | -0.3% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.83% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -3.8% |
-| 12:00 | USD | MBA Purchase Index |  |  | 155.6 |
-| 12:00 | USD | Mortgage Market Index |  |  | 245.7 |
-| 12:00 | USD | Mortgage Refinance Index |  |  | 739.3 |
+| 10:00 | EUR | Retail Sales (YoY) (Jun) | 3.1% | 2.6% | 1.9% |
+| 52 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.83% |
+| 52 min | USD | MBA Mortgage Applications (WoW) |  |  | -3.8% |
+| 52 min | USD | MBA Purchase Index |  |  | 155.6 |
+| 52 min | USD | Mortgage Market Index |  |  | 245.7 |
+| 52 min | USD | Mortgage Refinance Index |  |  | 739.3 |
 | 12:30 | INR | M3 Money Supply |  |  | 9.5% |
 | 13:15 | CAD | Reserve Assets Total (Jul) |  |  | 127.9B |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.025M |
 | 15:30 | USD | Crude Oil Imports |  |  | 1.317M |
 | 15:30 | USD | Distillate Fuel Production |  |  | 0.130M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | 3.635M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  | 1.000M | 3.635M |
 | 15:30 | USD | Gasoline Production |  |  | 0.676M |
 | 15:30 | USD | Heating Oil Stockpiles |  |  | 0.739M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.1% |
-| 15:30 | USD | Gasoline Inventories |  |  | -2.724M |
+| 15:30 | USD | Gasoline Inventories |  | -1.000M | -2.724M |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | -0.886B |
 | 19:00 | USD | Fed Collins Speaks |  |  |  |
 | 19:00 | USD | Fed Governor Cook Speaks |  |  |  |
-| 19:00 | BRL | Trade Balance (Jul) |  |  | 5.89B |
+| 19:00 | BRL | Trade Balance (Jul) |  | 5.60B | 5.89B |
 | 22:00 | KRW | FX Reserves - USD (Jul) |  |  | 410.20B |
