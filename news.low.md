@@ -7,9 +7,9 @@
 | 00:30 | JPY | Average Cash Earnings (YoY) | 2.5% | 3.2% | 1.4% |
 | 00:30 | JPY | Overall wage income of employees (Jun) | 2.5% |  | 1.4% |
 | 00:30 | JPY | Overtime Pay (YoY) (Jun) | 0.90% |  | 1.40% |
-| 6 min | INR | Cash Reserve Ratio |  | 4.00% | 4.00% |
-| 6 min | INR | Reverse REPO Rate |  |  | 3.35% |
-| 07:45 | EUR | French Non-Farm Payrolls (QoQ) (Q2) |  |  | -0.1% |
+| 05:30 | INR | Reverse REPO Rate | 3.35% |  | 3.35% |
+| 16 min | INR | Cash Reserve Ratio |  | 4.00% | 4.00% |
+| 07:45 | EUR | French Non-Farm Payrolls (QoQ) (Q2) |  | 0.1% | -0.1% |
 | 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Jul) |  |  | 50.2 |
 | 08:30 | EUR | HCOB Germany Construction PMI (Jul) |  |  | 44.8 |
 | 08:30 | EUR | HCOB France Construction PMI (MoM) (Jul) |  |  | 41.6 |
@@ -23,8 +23,6 @@
 | 12:00 | USD | MBA Purchase Index |  |  | 155.6 |
 | 12:00 | USD | Mortgage Market Index |  |  | 245.7 |
 | 12:00 | USD | Mortgage Refinance Index |  |  | 739.3 |
-| 12:00 | NZD | GlobalDairyTrade Price Index |  |  | 1.1% |
-| 12:00 | USD | Milk Auctions |  |  | 4,380.0 |
 | 12:30 | INR | M3 Money Supply |  |  | 9.5% |
 | 13:15 | CAD | Reserve Assets Total (Jul) |  |  | 127.9B |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.025M |
