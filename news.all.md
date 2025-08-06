@@ -12,15 +12,15 @@
 | 05:30 | INR | Low | Reverse REPO Rate | 3.35% |  | 3.35% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Jun) | -1.0% | 1.2% | -0.8% |
 | 07:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q2) | 0.0% | 0.1% | -0.1% |
-| 19 min | EUR | Low | HCOB Italy Construction PMI (MoM) (Jul) |  |  | 50.2 |
-| 19 min | EUR | Low | HCOB Germany Construction PMI (Jul) |  |  | 44.8 |
-| 19 min | EUR | Low | HCOB France Construction PMI (MoM) (Jul) |  |  | 41.6 |
-| 19 min | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Jul) |  |  | 45.2 |
-| 49 min | EUR | Low | Italian Industrial Production (MoM) (Jun) |  | -0.1% | -0.7% |
-| 49 min | EUR | Low | Italian Industrial Production (YoY) (Jun) |  |  | -0.9% |
-| 09:30 | GBP | Moderate | S&P Global Construction PMI (Jul) |  | 48.9 | 48.8 |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Jun) |  | 2.6% | 1.8% |
-| 10:00 | EUR | Low | Retail Sales (MoM) (Jun) |  | 0.4% | -0.7% |
+| 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Jul) | 48.3 |  | 50.2 |
+| 08:30 | EUR | Low | HCOB Germany Construction PMI (Jul) | 46.3 |  | 44.8 |
+| 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Jul) | 39.7 |  | 41.6 |
+| 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Jul) | 44.7 |  | 45.2 |
+| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Jun) | 0.2% | -0.1% | -0.8% |
+| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Jun) | -0.9% |  | -1.0% |
+| 20 min | GBP | Moderate | S&P Global Construction PMI (Jul) |  | 48.9 | 48.8 |
+| 50 min | EUR | Low | Retail Sales (MoM) (Jun) |  | 0.4% | -0.7% |
+| 50 min | EUR | Low | Retail Sales (YoY) (Jun) |  | 2.6% | 1.8% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.83% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -3.8% |
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 155.6 |
