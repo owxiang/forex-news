@@ -18,9 +18,9 @@
 | 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Jul) | 44.7 |  | 45.2 |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Jun) | 0.2% | -0.1% | -0.8% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Jun) | -0.9% |  | -1.0% |
-| 20 min | GBP | Moderate | S&P Global Construction PMI (Jul) |  | 48.9 | 48.8 |
-| 50 min | EUR | Low | Retail Sales (MoM) (Jun) |  | 0.4% | -0.7% |
-| 50 min | EUR | Low | Retail Sales (YoY) (Jun) |  | 2.6% | 1.8% |
+| 09:30 | GBP | Moderate | S&P Global Construction PMI (Jul) | 44.3 | 48.9 | 48.8 |
+| 10:00 | EUR | Low | Retail Sales (YoY) (Jun) | 3.1% | 2.6% | 1.9% |
+| 10:00 | EUR | Low | Retail Sales (MoM) (Jun) | 0.3% | 0.4% | -0.3% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.83% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -3.8% |
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 155.6 |

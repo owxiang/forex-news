@@ -16,8 +16,8 @@
 | 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Jul) | 44.7 |  | 45.2 |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Jun) | 0.2% | -0.1% | -0.8% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Jun) | -0.9% |  | -1.0% |
-| 50 min | EUR | Retail Sales (MoM) (Jun) |  | 0.4% | -0.7% |
-| 50 min | EUR | Retail Sales (YoY) (Jun) |  | 2.6% | 1.8% |
+| 10:00 | EUR | Retail Sales (YoY) (Jun) | 3.1% | 2.6% | 1.9% |
+| 10:00 | EUR | Retail Sales (MoM) (Jun) | 0.3% | 0.4% | -0.3% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.83% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -3.8% |
 | 12:00 | USD | MBA Purchase Index |  |  | 155.6 |
