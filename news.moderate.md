@@ -1,34 +1,23 @@
-## 07 August 2025 - Moderate Impact Forex News
+## 08 August 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Building Approvals (MoM) (Jun) | 11.9% | 11.9% | 3.2% |
-| 02:30 | AUD | Trade Balance (Jun) | 5.365B | 3.180B | 1.604B |
-| 04:00 | NZD | Inflation Expectations (QoQ) (Q3) | 2.3% |  | 2.3% |
-| 04:06 | CNY | Exports (YoY) (Jul) | 7.2% | 5.4% | 5.8% |
-| 04:06 | CNY | Imports (YoY) (Jul) | 4.1% | -1.0% | 1.1% |
-| 04:06 | CNY | Trade Balance (USD) (Jul) | 98.24B | 105.20B | 114.77B |
-| 07:00 | GBP | Halifax House Price Index (YoY) (Jul) | 2.4% |  | 2.7% |
-| 07:00 | GBP | Halifax House Price Index (MoM) (Jul) | 0.4% | 0.1% | 0.1% |
-| 07:00 | EUR | German Industrial Production (MoM) (Jun) | -1.9% | -0.4% | -0.1% |
-| 07:00 | EUR | German Trade Balance (Jun) | 14.9B | 17.8B | 18.6B |
-| 09:00 | EUR | ECB Economic Bulletin |  |  |  |
-| 09:30 | GBP | Mortgage Rate (GBP) (Jul) | 6.99% |  | 6.98% |
-| 12:00 | GBP | BoE MPC vote cut (Aug) | 5 | 8 | 3 |
-| 12:00 | GBP | BoE MPC vote hike (Aug) | 0 | 0 | 0 |
-| 12:00 | GBP | BoE MPC vote unchanged (Aug) | 4 | 1 | 6 |
-| 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
-| 12:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 12:30 | GBP | BOE Inflation Letter |  |  |  |
-| 13:00 | MXN | CPI (YoY) (Jul) | 3.51% | 3.53% | 4.32% |
-| 13:00 | MXN | CPI (MoM) (Jul) | 0.27% | 0.28% | 0.28% |
-| 13:30 | USD | Continuing Jobless Claims | 1,974K | 1,950K | 1,936K |
-| 13:30 | USD | Nonfarm Productivity (QoQ) (Q2) | 2.4% | 1.9% | -1.8% |
-| 13:30 | USD | Unit Labor Costs (QoQ) (Q2) | 1.6% | 1.6% | 6.9% |
-| 15:00 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 15:00 | CAD | Ivey PMI (Jul) | 55.8 | 55.2 | 53.3 |
-| 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Jul) | 3.1% |  | 3.0% |
-| 17:00 | USD | Atlanta Fed GDPNow (Q3) | 2.5% | 2.5% | 2.5% |
-| 20:00 | USD | Consumer Credit (Jun) | 7.37B | 7.40B | 5.13B |
-| 20:00 | MXN | Interest Rate Decision (Aug) | 7.75% | 7.75% | 8.00% |
-| 21:30 | USD | Fed's Balance Sheet | 6,641B |  | 6,643B |
+| 23 min | JPY | Household Spending (MoM) (Jun) |  | -3.0% | 4.6% |
+| 23 min | JPY | Household Spending (YoY) (Jun) |  | 2.8% | 4.7% |
+| 43 min | JPY | Adjusted Current Account (Jun) |  | 2.76T | 2.82T |
+| 43 min | JPY | Current Account n.s.a. (Jun) |  | 1.480T | 3.436T |
+| 08:00 | CHF | SECO Consumer Climate (Q3) |  | -30 | -39 |
+| 12:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 13:30 | CAD | Employment Change (Jul) |  | 15.3K | 83.1K |
+| 13:30 | CAD | Unemployment Rate (Jul) |  | 7.0% | 6.9% |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  | 410 | 410 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 540 |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | -12.0K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 156.0K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 223.6K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 35.0K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -163.2K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -78.1K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 23.9K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | 89.2K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 123.4K |
