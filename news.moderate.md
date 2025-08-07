@@ -8,8 +8,8 @@
 | 04:06 | CNY | Exports (YoY) (Jul) | 7.2% | 5.4% | 5.8% |
 | 04:06 | CNY | Imports (YoY) (Jul) | 4.1% | -1.0% | 1.1% |
 | 04:06 | CNY | Trade Balance (USD) (Jul) | 98.24B | 105.20B | 114.77B |
-| 07:00 | GBP | Halifax House Price Index (YoY) (Jul) | 2.4% |  | 2.7% |
 | 07:00 | GBP | Halifax House Price Index (MoM) (Jul) | 0.4% | 0.1% | 0.1% |
+| 07:00 | GBP | Halifax House Price Index (YoY) (Jul) | 2.4% |  | 2.7% |
 | 07:00 | EUR | German Industrial Production (MoM) (Jun) | -1.9% | -0.4% | -0.1% |
 | 07:00 | EUR | German Trade Balance (Jun) | 14.9B | 17.8B | 18.6B |
 | 09:00 | EUR | ECB Economic Bulletin |  |  |  |
@@ -29,6 +29,6 @@
 | 15:00 | CAD | Ivey PMI (Jul) | 55.8 | 55.2 | 53.3 |
 | 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Jul) | 3.1% |  | 3.0% |
 | 17:00 | USD | Atlanta Fed GDPNow (Q3) | 2.5% | 2.5% | 2.5% |
-| 50 min | USD | Consumer Credit (Jun) |  | 7.40B | 5.10B |
-| 50 min | MXN | Interest Rate Decision (Aug) |  | 7.75% | 8.00% |
+| 20:00 | USD | Consumer Credit (Jun) | 7.37B | 7.40B | 5.13B |
+| 20:00 | MXN | Interest Rate Decision (Aug) | 7.75% | 7.75% | 8.00% |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,643B |

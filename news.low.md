@@ -39,8 +39,8 @@
 | 12:00 | BRL | IGP-DI Inflation Index (MoM) (Jul) | -0.07% |  | -1.80% |
 | 13:00 | MXN | Core CPI (MoM) (Jul) | 0.31% | 0.30% | 0.39% |
 | 13:00 | MXN | Month Core Inflation (MoM) (Jul) | 4.23% | 4.23% | 4.24% |
-| 13:00 | MXN | PPI (MoM) (Jul) | -0.50% |  | -0.10% |
 | 13:00 | MXN | PPI (YoY) (Jul) | 3.80% |  | 4.90% |
+| 13:00 | MXN | PPI (MoM) (Jul) | -0.50% |  | -0.10% |
 | 13:00 | BRL | Brazilian PPI (MoM) (Jun) | -1.25% |  | -1.21% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 220.75K |  | 221.25K |
 | 15:00 | USD | Wholesale Inventories (MoM) (Jun) | 0.1% | 0.2% | -0.3% |
