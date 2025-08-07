@@ -23,26 +23,26 @@
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Jun) | 0.8% |  | 0.0% |
 | 06:00 | JPY | Low | Leading Index (MoM) (Jun) | 1.3% |  | 0.6% |
 | 06:00 | JPY | Low | Leading Index (Jun) | 106.1 | 106.0 | 104.8 |
-| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Jul) | 0.4% | 0.1% | 0.1% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Jul) | 2.4% |  | 2.7% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Jul) | 0.4% | 0.1% | 0.1% |
 | 07:00 | EUR | Low | German Exports (MoM) (Jun) | 0.8% | 0.5% | -1.4% |
 | 07:00 | EUR | Low | German Imports (MoM) (Jun) | 4.2% | 1.0% | -3.9% |
 | 07:00 | EUR | Moderate | German Industrial Production (MoM) (Jun) | -1.9% | -0.4% | -0.1% |
 | 07:00 | EUR | Moderate | German Trade Balance (Jun) | 14.9B | 17.8B | 18.6B |
-| 07:00 | EUR | Low | German Industrial Production (YoY) (Jun) |  | -0.60% | 1.20% |
-| 07:00 | NOK | Low | Manufacturing Production (MoM) (Jun) | -0.1% |  | -1.7% |
+| 07:00 | EUR | Low | German Industrial Production (YoY) (Jun) | -3.53% | -0.60% | 0.00% |
+| 07:00 | NOK | Low | Manufacturing Production (MoM) (Jun) | -0.1% |  | -1.6% |
 | 07:00 | ZAR | Low | Foreign Reserves (USD) (Jul) | 69.16B |  | 68.42B |
 | 07:00 | ZAR | Low | Net FX Reserves (USD) (Jul) | 65.143B |  | 65.216B |
-| 33 min | EUR | Low | French Current Account (Jun) |  |  | -3.10B |
-| 33 min | EUR | Low | French Exports (Jun) |  |  | 48.9B |
-| 33 min | EUR | Low | French Imports (Jun) |  |  | 56.7B |
-| 33 min | EUR | Low | French Reserve Assets Total (Jul) |  |  | 294,723.0M |
-| 33 min | EUR | Low | French Trade Balance (Jun) |  | -7.5B | -7.8B |
-| 48 min | CHF | Low | Foreign Reserves (USD) (Jul) |  |  | 713.0B |
-| 48 min | CHF | Low | Unemployment Rate n.s.a. (Jul) |  | 2.9% | 2.7% |
-| 48 min | CHF | Low | Unemployment Rate s.a. (Jul) |  |  | 2.9% |
-| 09:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
-| 09:00 | CNY | Low | FX Reserves (USD) (Jul) |  |  | 3.317T |
+| 07:45 | EUR | Low | French Current Account (Jun) | -3.40B |  | -2.60B |
+| 07:45 | EUR | Low | French Exports (Jun) | 50.6B |  | 49.0B |
+| 07:45 | EUR | Low | French Imports (Jun) | 58.3B |  | 56.6B |
+| 07:45 | EUR | Low | French Reserve Assets Total (Jul) | 303,040.0M |  | 294,723.0M |
+| 07:45 | EUR | Low | French Trade Balance (Jun) | -7.6B | -7.5B | -7.6B |
+| 08:00 | CHF | Low | Foreign Reserves (USD) (Jul) | 716.4B |  | 713.1B |
+| 08:00 | CHF | Low | Unemployment Rate n.s.a. (Jul) | 2.7% | 2.9% | 2.7% |
+| 08:00 | CHF | Low | Unemployment Rate s.a. (Jul) | 2.9% |  | 2.9% |
+| 49 min | EUR | Moderate | ECB Economic Bulletin |  |  |  |
+| 49 min | CNY | Low | FX Reserves (USD) (Jul) |  |  | 3.317T |
 | 09:30 | HKD | Low | Foreign Reserves (USD) (Jul) |  |  | 431.90B |
 | 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.303% |
 | 09:40 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.159% |
@@ -57,11 +57,11 @@
 | 12:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 12:30 | GBP | Moderate | BOE Inflation Letter |  |  |  |
 | 13:00 | MXN | Low | Core CPI (MoM) (Jul) |  | 0.30% | 0.39% |
-| 13:00 | MXN | Moderate | CPI (MoM) (Jul) |  | 0.28% | 0.28% |
 | 13:00 | MXN | Moderate | CPI (YoY) (Jul) |  | 3.53% | 4.32% |
+| 13:00 | MXN | Moderate | CPI (MoM) (Jul) |  | 0.28% | 0.28% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Jul) |  | 4.23% | 4.24% |
-| 13:00 | MXN | Low | PPI (YoY) (Jul) |  |  | 4.90% |
 | 13:00 | MXN | Low | PPI (MoM) (Jul) |  |  | -0.10% |
+| 13:00 | MXN | Low | PPI (YoY) (Jul) |  |  | 4.90% |
 | 13:00 | BRL | Low | Brazilian PPI (MoM) (Jun) |  |  | -1.29% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,950K | 1,946K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 221K | 218K |

@@ -19,19 +19,19 @@
 | 06:00 | JPY | Leading Index (Jun) | 106.1 | 106.0 | 104.8 |
 | 07:00 | EUR | German Exports (MoM) (Jun) | 0.8% | 0.5% | -1.4% |
 | 07:00 | EUR | German Imports (MoM) (Jun) | 4.2% | 1.0% | -3.9% |
-| 07:00 | EUR | German Industrial Production (YoY) (Jun) |  | -0.60% | 1.20% |
-| 07:00 | NOK | Manufacturing Production (MoM) (Jun) | -0.1% |  | -1.7% |
+| 07:00 | EUR | German Industrial Production (YoY) (Jun) | -3.53% | -0.60% | 0.00% |
+| 07:00 | NOK | Manufacturing Production (MoM) (Jun) | -0.1% |  | -1.6% |
 | 07:00 | ZAR | Foreign Reserves (USD) (Jul) | 69.16B |  | 68.42B |
 | 07:00 | ZAR | Net FX Reserves (USD) (Jul) | 65.143B |  | 65.216B |
-| 33 min | EUR | French Current Account (Jun) |  |  | -3.10B |
-| 33 min | EUR | French Exports (Jun) |  |  | 48.9B |
-| 33 min | EUR | French Imports (Jun) |  |  | 56.7B |
-| 33 min | EUR | French Reserve Assets Total (Jul) |  |  | 294,723.0M |
-| 33 min | EUR | French Trade Balance (Jun) |  | -7.5B | -7.8B |
-| 48 min | CHF | Foreign Reserves (USD) (Jul) |  |  | 713.0B |
-| 48 min | CHF | Unemployment Rate n.s.a. (Jul) |  | 2.9% | 2.7% |
-| 48 min | CHF | Unemployment Rate s.a. (Jul) |  |  | 2.9% |
-| 09:00 | CNY | FX Reserves (USD) (Jul) |  |  | 3.317T |
+| 07:45 | EUR | French Current Account (Jun) | -3.40B |  | -2.60B |
+| 07:45 | EUR | French Exports (Jun) | 50.6B |  | 49.0B |
+| 07:45 | EUR | French Imports (Jun) | 58.3B |  | 56.6B |
+| 07:45 | EUR | French Reserve Assets Total (Jul) | 303,040.0M |  | 294,723.0M |
+| 07:45 | EUR | French Trade Balance (Jun) | -7.6B | -7.5B | -7.6B |
+| 08:00 | CHF | Foreign Reserves (USD) (Jul) | 716.4B |  | 713.1B |
+| 08:00 | CHF | Unemployment Rate n.s.a. (Jul) | 2.7% | 2.9% | 2.7% |
+| 08:00 | CHF | Unemployment Rate s.a. (Jul) | 2.9% |  | 2.9% |
+| 49 min | CNY | FX Reserves (USD) (Jul) |  |  | 3.317T |
 | 09:30 | HKD | Foreign Reserves (USD) (Jul) |  |  | 431.90B |
 | 09:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.303% |
 | 09:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 2.159% |
@@ -39,8 +39,8 @@
 | 12:00 | BRL | IGP-DI Inflation Index (MoM) (Jul) |  |  | -1.80% |
 | 13:00 | MXN | Core CPI (MoM) (Jul) |  | 0.30% | 0.39% |
 | 13:00 | MXN | Month Core Inflation (MoM) (Jul) |  | 4.23% | 4.24% |
-| 13:00 | MXN | PPI (YoY) (Jul) |  |  | 4.90% |
 | 13:00 | MXN | PPI (MoM) (Jul) |  |  | -0.10% |
+| 13:00 | MXN | PPI (YoY) (Jul) |  |  | 4.90% |
 | 13:00 | BRL | Brazilian PPI (MoM) (Jun) |  |  | -1.29% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 221.00K |
 | 15:00 | USD | Wholesale Inventories (MoM) (Jun) |  | 0.2% | -0.3% |
