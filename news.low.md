@@ -42,12 +42,12 @@
 | 13:00 | MXN | PPI (YoY) (Jul) | 3.80% |  | 4.90% |
 | 13:00 | MXN | PPI (MoM) (Jul) | -0.50% |  | -0.10% |
 | 13:00 | BRL | Brazilian PPI (MoM) (Jun) | -1.25% |  | -1.21% |
-| 17 min | USD | Jobless Claims 4-Week Avg. |  |  | 221.00K |
-| 15:00 | USD | Wholesale Inventories (MoM) (Jun) |  | 0.2% | -0.3% |
-| 15:00 | USD | Wholesale Trade Sales (MoM) (Jun) |  |  | -0.3% |
-| 15:00 | CAD | Ivey PMI n.s.a (Jul) |  |  | 54.6 |
-| 15:00 | BRL | Auto Production (MoM) (Jul) |  |  | -6.5% |
-| 15:00 | BRL | Auto Sales (MoM) (Jul) |  |  | -5.7% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 220.75K |  | 221.25K |
+| 40 min | USD | Wholesale Inventories (MoM) (Jun) |  | 0.2% | -0.3% |
+| 40 min | USD | Wholesale Trade Sales (MoM) (Jun) |  |  | -0.3% |
+| 40 min | CAD | Ivey PMI n.s.a (Jul) |  |  | 54.6 |
+| 40 min | BRL | Auto Production (MoM) (Jul) |  |  | -6.5% |
+| 40 min | BRL | Auto Sales (MoM) (Jul) |  |  | -5.7% |
 | 15:30 | USD | Natural Gas Storage |  | 10B | 48B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.290% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 4.290% |

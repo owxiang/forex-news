@@ -63,18 +63,18 @@
 | 13:00 | MXN | Low | PPI (YoY) (Jul) | 3.80% |  | 4.90% |
 | 13:00 | MXN | Low | PPI (MoM) (Jul) | -0.50% |  | -0.10% |
 | 13:00 | BRL | Low | Brazilian PPI (MoM) (Jun) | -1.25% |  | -1.21% |
-| 17 min | USD | Moderate | Continuing Jobless Claims |  | 1,950K | 1,946K |
-| 17 min | USD | High | Initial Jobless Claims |  | 221K | 218K |
-| 17 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 221.00K |
-| 17 min | USD | Moderate | Nonfarm Productivity (QoQ) (Q2) |  | 1.9% | -1.5% |
-| 17 min | USD | Moderate | Unit Labor Costs (QoQ) (Q2) |  | 1.6% | 6.6% |
-| 15:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 15:00 | USD | Low | Wholesale Inventories (MoM) (Jun) |  | 0.2% | -0.3% |
-| 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Jun) |  |  | -0.3% |
-| 15:00 | CAD | Low | Ivey PMI n.s.a (Jul) |  |  | 54.6 |
-| 15:00 | CAD | Moderate | Ivey PMI (Jul) |  | 55.2 | 53.3 |
-| 15:00 | BRL | Low | Auto Production (MoM) (Jul) |  |  | -6.5% |
-| 15:00 | BRL | Low | Auto Sales (MoM) (Jul) |  |  | -5.7% |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,974K | 1,950K | 1,936K |
+| 13:30 | USD | High | Initial Jobless Claims | 226K | 221K | 219K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 220.75K |  | 221.25K |
+| 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q2) | 2.4% | 1.9% | -1.8% |
+| 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q2) | 1.6% | 1.6% | 6.9% |
+| 40 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 40 min | USD | Low | Wholesale Inventories (MoM) (Jun) |  | 0.2% | -0.3% |
+| 40 min | USD | Low | Wholesale Trade Sales (MoM) (Jun) |  |  | -0.3% |
+| 40 min | CAD | Low | Ivey PMI n.s.a (Jul) |  |  | 54.6 |
+| 40 min | CAD | Moderate | Ivey PMI (Jul) |  | 55.2 | 53.3 |
+| 40 min | BRL | Low | Auto Production (MoM) (Jul) |  |  | -6.5% |
+| 40 min | BRL | Low | Auto Sales (MoM) (Jul) |  |  | -5.7% |
 | 15:30 | USD | Low | Natural Gas Storage |  | 10B | 48B |
 | 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Jul) |  |  | 3.0% |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.290% |
