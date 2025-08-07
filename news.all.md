@@ -60,8 +60,8 @@
 | 13:00 | MXN | Moderate | CPI (YoY) (Jul) | 3.51% | 3.53% | 4.32% |
 | 13:00 | MXN | Moderate | CPI (MoM) (Jul) | 0.27% | 0.28% | 0.28% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Jul) | 4.23% | 4.23% | 4.24% |
-| 13:00 | MXN | Low | PPI (MoM) (Jul) | -0.50% |  | -0.10% |
 | 13:00 | MXN | Low | PPI (YoY) (Jul) | 3.80% |  | 4.90% |
+| 13:00 | MXN | Low | PPI (MoM) (Jul) | -0.50% |  | -0.10% |
 | 13:00 | BRL | Low | Brazilian PPI (MoM) (Jun) | -1.25% |  | -1.21% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,974K | 1,950K | 1,936K |
 | 13:30 | USD | High | Initial Jobless Claims | 226K | 221K | 219K |
