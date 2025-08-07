@@ -3,12 +3,12 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | KRW | Current Account (Jun) | 14.27B |  | 10.14B |
-| 43 min | JPY | Foreign Bonds Buying |  |  | -331.6B |
-| 43 min | JPY | Foreign Investments in Japanese Stocks |  |  | 743.3B |
-| 43 min | JPY | Foreign Reserves (USD) (Jul) |  |  | 1,313.8B |
-| 02:30 | AUD | Exports (MoM) (Jun) |  |  | -2.7% |
-| 02:30 | AUD | Imports (MoM) (Jun) |  |  | 3.8% |
-| 02:30 | AUD | Private House Approvals (Jun) |  | -0.2% | 0.5% |
+| 00:50 | JPY | Foreign Bonds Buying | -526.3B |  | -326.3B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks | 193.0B |  | 743.3B |
+| 00:50 | JPY | Foreign Reserves (USD) (Jul) | 1,304.4B |  | 1,313.8B |
+| 57 min | AUD | Exports (MoM) (Jun) |  |  | -2.7% |
+| 57 min | AUD | Imports (MoM) (Jun) |  |  | 3.8% |
+| 57 min | AUD | Private House Approvals (Jun) |  | -0.2% | 0.5% |
 | 04:00 | IDR | FX Reserves (USD) (Jul) |  |  | 152.60B |
 | 04:00 | CNY | Exports (Jul) |  |  | 7.20M |
 | 04:00 | CNY | Imports (Jul) |  |  | 2.30M |

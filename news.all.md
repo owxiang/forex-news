@@ -3,14 +3,14 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | KRW | Low | Current Account (Jun) | 14.27B |  | 10.14B |
-| 43 min | JPY | Low | Foreign Bonds Buying |  |  | -331.6B |
-| 43 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 743.3B |
-| 43 min | JPY | Low | Foreign Reserves (USD) (Jul) |  |  | 1,313.8B |
-| 02:30 | AUD | Moderate | Building Approvals (MoM) (Jun) |  | 11.9% | 3.2% |
-| 02:30 | AUD | Low | Exports (MoM) (Jun) |  |  | -2.7% |
-| 02:30 | AUD | Low | Imports (MoM) (Jun) |  |  | 3.8% |
-| 02:30 | AUD | Low | Private House Approvals (Jun) |  | -0.2% | 0.5% |
-| 02:30 | AUD | Moderate | Trade Balance (Jun) |  | 3.180B | 2.238B |
+| 00:50 | JPY | Low | Foreign Bonds Buying | -526.3B |  | -326.3B |
+| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 193.0B |  | 743.3B |
+| 00:50 | JPY | Low | Foreign Reserves (USD) (Jul) | 1,304.4B |  | 1,313.8B |
+| 57 min | AUD | Moderate | Building Approvals (MoM) (Jun) |  | 11.9% | 3.2% |
+| 57 min | AUD | Low | Exports (MoM) (Jun) |  |  | -2.7% |
+| 57 min | AUD | Low | Imports (MoM) (Jun) |  |  | 3.8% |
+| 57 min | AUD | Low | Private House Approvals (Jun) |  | -0.2% | 0.5% |
+| 57 min | AUD | Moderate | Trade Balance (Jun) |  | 3.180B | 2.238B |
 | 04:00 | NZD | Moderate | Inflation Expectations (QoQ) (Q3) |  |  | 2.3% |
 | 04:00 | IDR | Low | FX Reserves (USD) (Jul) |  |  | 152.60B |
 | 04:00 | CNY | Low | Exports (Jul) |  |  | 7.20M |
@@ -54,8 +54,8 @@
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Jul) |  |  | -1.80% |
 | 12:30 | GBP | Moderate | BOE Inflation Letter |  |  |  |
 | 13:00 | MXN | Low | Core CPI (MoM) (Jul) |  | 0.30% | 0.39% |
-| 13:00 | MXN | Moderate | CPI (YoY) (Jul) |  | 3.53% | 4.32% |
 | 13:00 | MXN | Moderate | CPI (MoM) (Jul) |  | 0.28% | 0.28% |
+| 13:00 | MXN | Moderate | CPI (YoY) (Jul) |  | 3.53% | 4.32% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Jul) |  | 4.23% | 4.24% |
 | 13:00 | MXN | Low | PPI (MoM) (Jul) |  |  | -0.10% |
 | 13:00 | MXN | Low | PPI (YoY) (Jul) |  |  | 4.90% |

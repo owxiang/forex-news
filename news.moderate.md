@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Building Approvals (MoM) (Jun) |  | 11.9% | 3.2% |
-| 02:30 | AUD | Trade Balance (Jun) |  | 3.180B | 2.238B |
+| 57 min | AUD | Building Approvals (MoM) (Jun) |  | 11.9% | 3.2% |
+| 57 min | AUD | Trade Balance (Jun) |  | 3.180B | 2.238B |
 | 04:00 | NZD | Inflation Expectations (QoQ) (Q3) |  |  | 2.3% |
 | 04:00 | CNY | Imports (YoY) (Jul) |  | -1.0% | 1.1% |
 | 04:00 | CNY | Trade Balance (USD) (Jul) |  | 105.20B | 114.77B |
@@ -19,8 +19,8 @@
 | 12:00 | GBP | BoE MPC vote unchanged (Aug) |  | 1 | 6 |
 | 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
 | 12:30 | GBP | BOE Inflation Letter |  |  |  |
-| 13:00 | MXN | CPI (YoY) (Jul) |  | 3.53% | 4.32% |
 | 13:00 | MXN | CPI (MoM) (Jul) |  | 0.28% | 0.28% |
+| 13:00 | MXN | CPI (YoY) (Jul) |  | 3.53% | 4.32% |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,950K | 1,946K |
 | 13:30 | USD | Nonfarm Productivity (QoQ) (Q2) |  | 1.9% | -1.5% |
 | 13:30 | USD | Unit Labor Costs (QoQ) (Q2) |  | 1.6% | 6.6% |
