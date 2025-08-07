@@ -48,7 +48,7 @@
 | 15:00 | CAD | Ivey PMI n.s.a (Jul) | 54.6 |  | 54.6 |
 | 15:00 | BRL | Auto Production (MoM) (Jul) | 15.7% |  | -6.5% |
 | 15:00 | BRL | Auto Sales (MoM) (Jul) | 14.2% |  | -5.7% |
-| 21 min | USD | Natural Gas Storage |  | 10B | 48B |
-| 16:30 | USD | 4-Week Bill Auction |  |  | 4.290% |
-| 16:30 | USD | 8-Week Bill Auction |  |  | 4.290% |
+| 15:30 | USD | Natural Gas Storage | 7B | 10B | 48B |
+| 22 min | USD | 4-Week Bill Auction |  |  | 4.290% |
+| 22 min | USD | 8-Week Bill Auction |  |  | 4.290% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.300T |

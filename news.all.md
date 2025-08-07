@@ -75,10 +75,10 @@
 | 15:00 | CAD | Moderate | Ivey PMI (Jul) | 55.8 | 55.2 | 53.3 |
 | 15:00 | BRL | Low | Auto Production (MoM) (Jul) | 15.7% |  | -6.5% |
 | 15:00 | BRL | Low | Auto Sales (MoM) (Jul) | 14.2% |  | -5.7% |
-| 21 min | USD | Low | Natural Gas Storage |  | 10B | 48B |
-| 51 min | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Jul) |  |  | 3.0% |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.290% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.290% |
+| 15:30 | USD | Low | Natural Gas Storage | 7B | 10B | 48B |
+| 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Jul) | 3.1% |  | 3.0% |
+| 22 min | USD | Low | 4-Week Bill Auction |  |  | 4.290% |
+| 22 min | USD | Low | 8-Week Bill Auction |  |  | 4.290% |
 | 18:00 | USD | High | 30-Year Bond Auction |  |  | 4.889% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 2.5% | 2.5% |
 | 20:00 | USD | Moderate | Consumer Credit (Jun) |  | 7.40B | 5.10B |
