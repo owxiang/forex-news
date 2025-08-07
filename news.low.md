@@ -9,11 +9,11 @@
 | 02:30 | AUD | Exports (MoM) (Jun) | 6.0% |  | -3.0% |
 | 02:30 | AUD | Imports (MoM) (Jun) | -3.1% |  | 3.3% |
 | 02:30 | AUD | Private House Approvals (Jun) | -2.0% | -0.2% | 0.5% |
-| 11 min | IDR | FX Reserves (USD) (Jul) |  |  | 152.60B |
-| 11 min | CNY | Exports (Jul) |  |  | 7.20M |
-| 11 min | CNY | Imports (Jul) |  |  | 2.30M |
-| 11 min | CNY | Trade Balance (Jul) |  | 756.00B | 825.97B |
-| 46 min | JPY | 30-Year JGB Auction |  |  | 2.808% |
+| 04:00 | IDR | FX Reserves (USD) (Jul) | 152.00B |  | 152.60B |
+| 04:06 | CNY | Exports (Jul) | 8.00M |  | 7.20M |
+| 04:06 | CNY | Imports (Jul) | 4.80M |  | 2.40M |
+| 04:06 | CNY | Trade Balance (Jul) | 705.10B | 756.00B | 825.97B |
+| 04:35 | JPY | 30-Year JGB Auction | 3.089% |  | 2.808% |
 | 06:00 | JPY | Coincident Indicator (MoM) (Jun) |  |  | 0.0% |
 | 06:00 | JPY | Leading Index (MoM) (Jun) |  |  | 0.6% |
 | 06:00 | JPY | Leading Index (Jun) |  | 106.2 | 104.8 |
@@ -37,8 +37,8 @@
 | 12:00 | BRL | IGP-DI Inflation Index (MoM) (Jul) |  |  | -1.80% |
 | 13:00 | MXN | Core CPI (MoM) (Jul) |  | 0.30% | 0.39% |
 | 13:00 | MXN | Month Core Inflation (MoM) (Jul) |  | 4.23% | 4.24% |
-| 13:00 | MXN | PPI (MoM) (Jul) |  |  | -0.10% |
 | 13:00 | MXN | PPI (YoY) (Jul) |  |  | 4.90% |
+| 13:00 | MXN | PPI (MoM) (Jul) |  |  | -0.10% |
 | 13:00 | BRL | Brazilian PPI (MoM) (Jun) |  |  | -1.29% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 221.00K |
 | 15:00 | USD | Wholesale Inventories (MoM) (Jun) |  | 0.2% | -0.3% |

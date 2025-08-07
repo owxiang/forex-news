@@ -11,15 +11,15 @@
 | 02:30 | AUD | Low | Imports (MoM) (Jun) | -3.1% |  | 3.3% |
 | 02:30 | AUD | Low | Private House Approvals (Jun) | -2.0% | -0.2% | 0.5% |
 | 02:30 | AUD | Moderate | Trade Balance (Jun) | 5.365B | 3.180B | 1.604B |
-| 11 min | NZD | Moderate | Inflation Expectations (QoQ) (Q3) |  |  | 2.3% |
-| 11 min | IDR | Low | FX Reserves (USD) (Jul) |  |  | 152.60B |
-| 11 min | CNY | Low | Exports (Jul) |  |  | 7.20M |
-| 11 min | CNY | Low | Imports (Jul) |  |  | 2.30M |
-| 11 min | CNY | Low | Trade Balance (Jul) |  | 756.00B | 825.97B |
-| 11 min | CNY | Moderate | Imports (YoY) (Jul) |  | -1.0% | 1.1% |
-| 11 min | CNY | Moderate | Trade Balance (USD) (Jul) |  | 105.20B | 114.77B |
-| 11 min | CNY | Moderate | Exports (YoY) (Jul) |  | 5.4% | 5.8% |
-| 46 min | JPY | Low | 30-Year JGB Auction |  |  | 2.808% |
+| 04:00 | NZD | Moderate | Inflation Expectations (QoQ) (Q3) | 2.3% |  | 2.3% |
+| 04:00 | IDR | Low | FX Reserves (USD) (Jul) | 152.00B |  | 152.60B |
+| 04:06 | CNY | Low | Exports (Jul) | 8.00M |  | 7.20M |
+| 04:06 | CNY | Low | Imports (Jul) | 4.80M |  | 2.40M |
+| 04:06 | CNY | Low | Trade Balance (Jul) | 705.10B | 756.00B | 825.97B |
+| 04:06 | CNY | Moderate | Exports (YoY) (Jul) | 7.2% | 5.4% | 5.8% |
+| 04:06 | CNY | Moderate | Imports (YoY) (Jul) | 4.1% | -1.0% | 1.1% |
+| 04:06 | CNY | Moderate | Trade Balance (USD) (Jul) | 98.24B | 105.20B | 114.77B |
+| 04:35 | JPY | Low | 30-Year JGB Auction | 3.089% |  | 2.808% |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Jun) |  |  | 0.0% |
 | 06:00 | JPY | Low | Leading Index (MoM) (Jun) |  |  | 0.6% |
 | 06:00 | JPY | Low | Leading Index (Jun) |  | 106.2 | 104.8 |
@@ -54,11 +54,11 @@
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Jul) |  |  | -1.80% |
 | 12:30 | GBP | Moderate | BOE Inflation Letter |  |  |  |
 | 13:00 | MXN | Low | Core CPI (MoM) (Jul) |  | 0.30% | 0.39% |
-| 13:00 | MXN | Moderate | CPI (YoY) (Jul) |  | 3.53% | 4.32% |
 | 13:00 | MXN | Moderate | CPI (MoM) (Jul) |  | 0.28% | 0.28% |
+| 13:00 | MXN | Moderate | CPI (YoY) (Jul) |  | 3.53% | 4.32% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Jul) |  | 4.23% | 4.24% |
-| 13:00 | MXN | Low | PPI (MoM) (Jul) |  |  | -0.10% |
 | 13:00 | MXN | Low | PPI (YoY) (Jul) |  |  | 4.90% |
+| 13:00 | MXN | Low | PPI (MoM) (Jul) |  |  | -0.10% |
 | 13:00 | BRL | Low | Brazilian PPI (MoM) (Jun) |  |  | -1.29% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,950K | 1,946K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 221K | 218K |
