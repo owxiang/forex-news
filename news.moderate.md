@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 57 min | AUD | Building Approvals (MoM) (Jun) |  | 11.9% | 3.2% |
-| 57 min | AUD | Trade Balance (Jun) |  | 3.180B | 2.238B |
+| 02:30 | AUD | Building Approvals (MoM) (Jun) |  | 11.9% | 3.2% |
+| 02:30 | AUD | Trade Balance (Jun) | 5.365B | 3.180B | 1.604B |
 | 04:00 | NZD | Inflation Expectations (QoQ) (Q3) |  |  | 2.3% |
 | 04:00 | CNY | Imports (YoY) (Jul) |  | -1.0% | 1.1% |
 | 04:00 | CNY | Trade Balance (USD) (Jul) |  | 105.20B | 114.77B |

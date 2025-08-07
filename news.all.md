@@ -6,11 +6,11 @@
 | 00:50 | JPY | Low | Foreign Bonds Buying | -526.3B |  | -326.3B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 193.0B |  | 743.3B |
 | 00:50 | JPY | Low | Foreign Reserves (USD) (Jul) | 1,304.4B |  | 1,313.8B |
-| 57 min | AUD | Moderate | Building Approvals (MoM) (Jun) |  | 11.9% | 3.2% |
-| 57 min | AUD | Low | Exports (MoM) (Jun) |  |  | -2.7% |
-| 57 min | AUD | Low | Imports (MoM) (Jun) |  |  | 3.8% |
-| 57 min | AUD | Low | Private House Approvals (Jun) |  | -0.2% | 0.5% |
-| 57 min | AUD | Moderate | Trade Balance (Jun) |  | 3.180B | 2.238B |
+| 02:30 | AUD | Moderate | Building Approvals (MoM) (Jun) |  | 11.9% | 3.2% |
+| 02:30 | AUD | Low | Exports (MoM) (Jun) | 6.0% |  | -3.0% |
+| 02:30 | AUD | Low | Imports (MoM) (Jun) | -3.1% |  | 3.3% |
+| 02:30 | AUD | Low | Private House Approvals (Jun) | -2.0% | -0.2% | 0.5% |
+| 02:30 | AUD | Moderate | Trade Balance (Jun) | 5.365B | 3.180B | 1.604B |
 | 04:00 | NZD | Moderate | Inflation Expectations (QoQ) (Q3) |  |  | 2.3% |
 | 04:00 | IDR | Low | FX Reserves (USD) (Jul) |  |  | 152.60B |
 | 04:00 | CNY | Low | Exports (Jul) |  |  | 7.20M |
