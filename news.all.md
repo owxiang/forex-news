@@ -57,8 +57,8 @@
 | 12:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 12:30 | GBP | Moderate | BOE Inflation Letter |  |  |  |
 | 13:00 | MXN | Low | Core CPI (MoM) (Jul) | 0.31% | 0.30% | 0.39% |
-| 13:00 | MXN | Moderate | CPI (YoY) (Jul) | 3.51% | 3.53% | 4.32% |
 | 13:00 | MXN | Moderate | CPI (MoM) (Jul) | 0.27% | 0.28% | 0.28% |
+| 13:00 | MXN | Moderate | CPI (YoY) (Jul) | 3.51% | 3.53% | 4.32% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Jul) | 4.23% | 4.23% | 4.24% |
 | 13:00 | MXN | Low | PPI (MoM) (Jul) | -0.50% |  | -0.10% |
 | 13:00 | MXN | Low | PPI (YoY) (Jul) | 3.80% |  | 4.90% |
@@ -81,8 +81,8 @@
 | 16:30 | USD | Low | 8-Week Bill Auction | 4.235% |  | 4.290% |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 2.5% | 2.5% | 2.5% |
 | 18:00 | USD | High | 30-Year Bond Auction | 4.813% |  | 4.889% |
-| 20:00 | USD | Moderate | Consumer Credit (Jun) |  | 7.40B | 5.10B |
-| 20:00 | MXN | Moderate | Interest Rate Decision (Aug) |  | 7.75% | 8.00% |
+| 50 min | USD | Moderate | Consumer Credit (Jun) |  | 7.40B | 5.10B |
+| 50 min | MXN | Moderate | Interest Rate Decision (Aug) |  | 7.75% | 8.00% |
 | 21:00 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,643B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.300T |

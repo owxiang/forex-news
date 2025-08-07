@@ -20,8 +20,8 @@
 | 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
 | 12:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 12:30 | GBP | BOE Inflation Letter |  |  |  |
-| 13:00 | MXN | CPI (YoY) (Jul) | 3.51% | 3.53% | 4.32% |
 | 13:00 | MXN | CPI (MoM) (Jul) | 0.27% | 0.28% | 0.28% |
+| 13:00 | MXN | CPI (YoY) (Jul) | 3.51% | 3.53% | 4.32% |
 | 13:30 | USD | Continuing Jobless Claims | 1,974K | 1,950K | 1,936K |
 | 13:30 | USD | Nonfarm Productivity (QoQ) (Q2) | 2.4% | 1.9% | -1.8% |
 | 13:30 | USD | Unit Labor Costs (QoQ) (Q2) | 1.6% | 1.6% | 6.9% |
@@ -29,6 +29,6 @@
 | 15:00 | CAD | Ivey PMI (Jul) | 55.8 | 55.2 | 53.3 |
 | 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Jul) | 3.1% |  | 3.0% |
 | 17:00 | USD | Atlanta Fed GDPNow (Q3) | 2.5% | 2.5% | 2.5% |
-| 20:00 | USD | Consumer Credit (Jun) |  | 7.40B | 5.10B |
-| 20:00 | MXN | Interest Rate Decision (Aug) |  | 7.75% | 8.00% |
+| 50 min | USD | Consumer Credit (Jun) |  | 7.40B | 5.10B |
+| 50 min | MXN | Interest Rate Decision (Aug) |  | 7.75% | 8.00% |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,643B |
