@@ -21,8 +21,8 @@
 | 04:06 | CNY | Moderate | Trade Balance (USD) (Jul) | 98.24B | 105.20B | 114.77B |
 | 04:35 | JPY | Low | 30-Year JGB Auction | 3.089% |  | 2.808% |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Jun) | 0.8% |  | 0.0% |
-| 06:00 | JPY | Low | Leading Index (Jun) | 106.1 | 106.0 | 104.8 |
 | 06:00 | JPY | Low | Leading Index (MoM) (Jun) | 1.3% |  | 0.6% |
+| 06:00 | JPY | Low | Leading Index (Jun) | 106.1 | 106.0 | 104.8 |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Jul) | 2.4% |  | 2.7% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Jul) | 0.4% | 0.1% | 0.1% |
 | 07:00 | EUR | Low | German Exports (MoM) (Jun) | 0.8% | 0.5% | -1.4% |
@@ -48,21 +48,21 @@
 | 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction | 3.200% |  | 3.303% |
 | 10:00 | EUR | Low | Spanish 3-Year Bonos Auction | 2.166% |  | 2.159% |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Jul) | 397.3B |  | 405.0B |
-| 52 min | GBP | Moderate | BoE MPC vote cut (Aug) |  | 8 | 3 |
-| 52 min | GBP | Moderate | BoE MPC vote hike (Aug) |  | 0 | 0 |
-| 52 min | GBP | Moderate | BoE MPC vote unchanged (Aug) |  | 1 | 6 |
-| 52 min | GBP | High | BoE Interest Rate Decision (Aug) |  | 4.00% | 4.25% |
-| 52 min | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
-| 52 min | BRL | Low | IGP-DI Inflation Index (MoM) (Jul) |  |  | -1.80% |
-| 12:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 12:30 | GBP | Moderate | BOE Inflation Letter |  |  |  |
-| 13:00 | MXN | Low | Core CPI (MoM) (Jul) |  | 0.30% | 0.39% |
-| 13:00 | MXN | Moderate | CPI (MoM) (Jul) |  | 0.28% | 0.28% |
-| 13:00 | MXN | Moderate | CPI (YoY) (Jul) |  | 3.53% | 4.32% |
-| 13:00 | MXN | Low | Month Core Inflation (MoM) (Jul) |  | 4.23% | 4.24% |
-| 13:00 | MXN | Low | PPI (MoM) (Jul) |  |  | -0.10% |
-| 13:00 | MXN | Low | PPI (YoY) (Jul) |  |  | 4.90% |
-| 13:00 | BRL | Low | Brazilian PPI (MoM) (Jun) |  |  | -1.29% |
+| 12:00 | GBP | Moderate | BoE MPC vote cut (Aug) | 5 | 8 | 3 |
+| 12:00 | GBP | Moderate | BoE MPC vote hike (Aug) | 0 | 0 | 0 |
+| 12:00 | GBP | Moderate | BoE MPC vote unchanged (Aug) | 4 | 1 | 6 |
+| 12:00 | GBP | High | BoE Interest Rate Decision (Aug) | 4.00% | 4.00% | 4.25% |
+| 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
+| 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Jul) | -0.07% |  | -1.80% |
+| 23 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 23 min | GBP | Moderate | BOE Inflation Letter |  |  |  |
+| 53 min | MXN | Low | Core CPI (MoM) (Jul) |  | 0.30% | 0.39% |
+| 53 min | MXN | Moderate | CPI (YoY) (Jul) |  | 3.53% | 4.32% |
+| 53 min | MXN | Moderate | CPI (MoM) (Jul) |  | 0.28% | 0.28% |
+| 53 min | MXN | Low | Month Core Inflation (MoM) (Jul) |  | 4.23% | 4.24% |
+| 53 min | MXN | Low | PPI (MoM) (Jul) |  |  | -0.10% |
+| 53 min | MXN | Low | PPI (YoY) (Jul) |  |  | 4.90% |
+| 53 min | BRL | Low | Brazilian PPI (MoM) (Jun) |  |  | -1.29% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,950K | 1,946K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 221K | 218K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 221.00K |

@@ -14,14 +14,14 @@
 | 07:00 | EUR | German Trade Balance (Jun) | 14.9B | 17.8B | 18.6B |
 | 09:00 | EUR | ECB Economic Bulletin |  |  |  |
 | 09:30 | GBP | Mortgage Rate (GBP) (Jul) | 6.99% |  | 6.98% |
-| 52 min | GBP | BoE MPC vote cut (Aug) |  | 8 | 3 |
-| 52 min | GBP | BoE MPC vote hike (Aug) |  | 0 | 0 |
-| 52 min | GBP | BoE MPC vote unchanged (Aug) |  | 1 | 6 |
-| 52 min | GBP | BoE MPC Meeting Minutes |  |  |  |
-| 12:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 12:30 | GBP | BOE Inflation Letter |  |  |  |
-| 13:00 | MXN | CPI (MoM) (Jul) |  | 0.28% | 0.28% |
-| 13:00 | MXN | CPI (YoY) (Jul) |  | 3.53% | 4.32% |
+| 12:00 | GBP | BoE MPC vote cut (Aug) | 5 | 8 | 3 |
+| 12:00 | GBP | BoE MPC vote hike (Aug) | 0 | 0 | 0 |
+| 12:00 | GBP | BoE MPC vote unchanged (Aug) | 4 | 1 | 6 |
+| 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
+| 23 min | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 23 min | GBP | BOE Inflation Letter |  |  |  |
+| 53 min | MXN | CPI (YoY) (Jul) |  | 3.53% | 4.32% |
+| 53 min | MXN | CPI (MoM) (Jul) |  | 0.28% | 0.28% |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,950K | 1,946K |
 | 13:30 | USD | Nonfarm Productivity (QoQ) (Q2) |  | 1.9% | -1.5% |
 | 13:30 | USD | Unit Labor Costs (QoQ) (Q2) |  | 1.6% | 6.6% |
