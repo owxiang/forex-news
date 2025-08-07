@@ -68,15 +68,15 @@
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 220.75K |  | 221.25K |
 | 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q2) | 2.4% | 1.9% | -1.8% |
 | 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q2) | 1.6% | 1.6% | 6.9% |
-| 40 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 40 min | USD | Low | Wholesale Inventories (MoM) (Jun) |  | 0.2% | -0.3% |
-| 40 min | USD | Low | Wholesale Trade Sales (MoM) (Jun) |  |  | -0.3% |
-| 40 min | CAD | Low | Ivey PMI n.s.a (Jul) |  |  | 54.6 |
-| 40 min | CAD | Moderate | Ivey PMI (Jul) |  | 55.2 | 53.3 |
-| 40 min | BRL | Low | Auto Production (MoM) (Jul) |  |  | -6.5% |
-| 40 min | BRL | Low | Auto Sales (MoM) (Jul) |  |  | -5.7% |
-| 15:30 | USD | Low | Natural Gas Storage |  | 10B | 48B |
-| 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Jul) |  |  | 3.0% |
+| 15:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 15:00 | USD | Low | Wholesale Inventories (MoM) (Jun) | 0.1% | 0.2% | -0.3% |
+| 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Jun) | 0.3% |  | -0.4% |
+| 15:00 | CAD | Low | Ivey PMI n.s.a (Jul) | 54.6 |  | 54.6 |
+| 15:00 | CAD | Moderate | Ivey PMI (Jul) | 55.8 | 55.2 | 53.3 |
+| 15:00 | BRL | Low | Auto Production (MoM) (Jul) | 15.7% |  | -6.5% |
+| 15:00 | BRL | Low | Auto Sales (MoM) (Jul) | 14.2% |  | -5.7% |
+| 21 min | USD | Low | Natural Gas Storage |  | 10B | 48B |
+| 51 min | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Jul) |  |  | 3.0% |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.290% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.290% |
 | 18:00 | USD | High | 30-Year Bond Auction |  |  | 4.889% |

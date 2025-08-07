@@ -25,9 +25,9 @@
 | 13:30 | USD | Continuing Jobless Claims | 1,974K | 1,950K | 1,936K |
 | 13:30 | USD | Nonfarm Productivity (QoQ) (Q2) | 2.4% | 1.9% | -1.8% |
 | 13:30 | USD | Unit Labor Costs (QoQ) (Q2) | 1.6% | 1.6% | 6.9% |
-| 40 min | USD | FOMC Member Bostic Speaks |  |  |  |
-| 40 min | CAD | Ivey PMI (Jul) |  | 55.2 | 53.3 |
-| 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Jul) |  |  | 3.0% |
+| 15:00 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 15:00 | CAD | Ivey PMI (Jul) | 55.8 | 55.2 | 53.3 |
+| 51 min | USD | NY Fed 1-Year Consumer Inflation Expectations (Jul) |  |  | 3.0% |
 | 18:00 | USD | Atlanta Fed GDPNow (Q3) |  | 2.5% | 2.5% |
 | 20:00 | USD | Consumer Credit (Jun) |  | 7.40B | 5.10B |
 | 20:00 | MXN | Interest Rate Decision (Aug) |  | 7.75% | 8.00% |
