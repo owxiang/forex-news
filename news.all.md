@@ -23,8 +23,8 @@
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Jun) | 0.8% |  | 0.0% |
 | 06:00 | JPY | Low | Leading Index (MoM) (Jun) | 1.3% |  | 0.6% |
 | 06:00 | JPY | Low | Leading Index (Jun) | 106.1 | 106.0 | 104.8 |
-| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Jul) | 0.4% | 0.1% | 0.1% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Jul) | 2.4% |  | 2.7% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Jul) | 0.4% | 0.1% | 0.1% |
 | 07:00 | EUR | Low | German Exports (MoM) (Jun) | 0.8% | 0.5% | -1.4% |
 | 07:00 | EUR | Low | German Imports (MoM) (Jun) | 4.2% | 1.0% | -3.9% |
 | 07:00 | EUR | Moderate | German Industrial Production (MoM) (Jun) | -1.9% | -0.4% | -0.1% |
@@ -57,11 +57,11 @@
 | 12:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 12:30 | GBP | Moderate | BOE Inflation Letter |  |  |  |
 | 13:00 | MXN | Low | Core CPI (MoM) (Jul) | 0.31% | 0.30% | 0.39% |
-| 13:00 | MXN | Moderate | CPI (MoM) (Jul) | 0.27% | 0.28% | 0.28% |
 | 13:00 | MXN | Moderate | CPI (YoY) (Jul) | 3.51% | 3.53% | 4.32% |
+| 13:00 | MXN | Moderate | CPI (MoM) (Jul) | 0.27% | 0.28% | 0.28% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Jul) | 4.23% | 4.23% | 4.24% |
-| 13:00 | MXN | Low | PPI (YoY) (Jul) | 3.80% |  | 4.90% |
 | 13:00 | MXN | Low | PPI (MoM) (Jul) | -0.50% |  | -0.10% |
+| 13:00 | MXN | Low | PPI (YoY) (Jul) | 3.80% |  | 4.90% |
 | 13:00 | BRL | Low | Brazilian PPI (MoM) (Jun) | -1.25% |  | -1.21% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,974K | 1,950K | 1,936K |
 | 13:30 | USD | High | Initial Jobless Claims | 226K | 221K | 219K |
@@ -84,5 +84,5 @@
 | 20:00 | USD | Moderate | Consumer Credit (Jun) | 7.37B | 7.40B | 5.13B |
 | 20:00 | MXN | Moderate | Interest Rate Decision (Aug) | 7.75% | 7.75% | 8.00% |
 | 21:00 | USD | High | U.S. President Trump Speaks |  |  |  |
-| 22 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,643B |
-| 22 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.300T |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,641B |  | 6,643B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.330T |  | 3.300T |

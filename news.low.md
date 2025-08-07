@@ -39,8 +39,8 @@
 | 12:00 | BRL | IGP-DI Inflation Index (MoM) (Jul) | -0.07% |  | -1.80% |
 | 13:00 | MXN | Core CPI (MoM) (Jul) | 0.31% | 0.30% | 0.39% |
 | 13:00 | MXN | Month Core Inflation (MoM) (Jul) | 4.23% | 4.23% | 4.24% |
-| 13:00 | MXN | PPI (YoY) (Jul) | 3.80% |  | 4.90% |
 | 13:00 | MXN | PPI (MoM) (Jul) | -0.50% |  | -0.10% |
+| 13:00 | MXN | PPI (YoY) (Jul) | 3.80% |  | 4.90% |
 | 13:00 | BRL | Brazilian PPI (MoM) (Jun) | -1.25% |  | -1.21% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 220.75K |  | 221.25K |
 | 15:00 | USD | Wholesale Inventories (MoM) (Jun) | 0.1% | 0.2% | -0.3% |
@@ -51,4 +51,4 @@
 | 15:30 | USD | Natural Gas Storage | 7B | 10B | 48B |
 | 16:30 | USD | 4-Week Bill Auction | 4.300% |  | 4.290% |
 | 16:30 | USD | 8-Week Bill Auction | 4.235% |  | 4.290% |
-| 22 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.300T |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.330T |  | 3.300T |
