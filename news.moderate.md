@@ -12,16 +12,16 @@
 | 07:00 | GBP | Halifax House Price Index (MoM) (Jul) | 0.4% | 0.1% | 0.1% |
 | 07:00 | EUR | German Industrial Production (MoM) (Jun) | -1.9% | -0.4% | -0.1% |
 | 07:00 | EUR | German Trade Balance (Jun) | 14.9B | 17.8B | 18.6B |
-| 49 min | EUR | ECB Economic Bulletin |  |  |  |
-| 10:00 | GBP | Mortgage Rate (GBP) (Jul) |  |  | 6.98% |
+| 09:00 | EUR | ECB Economic Bulletin |  |  |  |
+| 50 min | GBP | Mortgage Rate (GBP) (Jul) |  |  | 6.98% |
 | 12:00 | GBP | BoE MPC vote cut (Aug) |  | 8 | 3 |
 | 12:00 | GBP | BoE MPC vote hike (Aug) |  | 0 | 0 |
 | 12:00 | GBP | BoE MPC vote unchanged (Aug) |  | 1 | 6 |
 | 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
 | 12:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 12:30 | GBP | BOE Inflation Letter |  |  |  |
-| 13:00 | MXN | CPI (YoY) (Jul) |  | 3.53% | 4.32% |
 | 13:00 | MXN | CPI (MoM) (Jul) |  | 0.28% | 0.28% |
+| 13:00 | MXN | CPI (YoY) (Jul) |  | 3.53% | 4.32% |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,950K | 1,946K |
 | 13:30 | USD | Nonfarm Productivity (QoQ) (Q2) |  | 1.9% | -1.5% |
 | 13:30 | USD | Unit Labor Costs (QoQ) (Q2) |  | 1.6% | 6.6% |

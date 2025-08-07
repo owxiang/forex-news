@@ -21,8 +21,8 @@
 | 04:06 | CNY | Moderate | Trade Balance (USD) (Jul) | 98.24B | 105.20B | 114.77B |
 | 04:35 | JPY | Low | 30-Year JGB Auction | 3.089% |  | 2.808% |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Jun) | 0.8% |  | 0.0% |
-| 06:00 | JPY | Low | Leading Index (MoM) (Jun) | 1.3% |  | 0.6% |
 | 06:00 | JPY | Low | Leading Index (Jun) | 106.1 | 106.0 | 104.8 |
+| 06:00 | JPY | Low | Leading Index (MoM) (Jun) | 1.3% |  | 0.6% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Jul) | 2.4% |  | 2.7% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Jul) | 0.4% | 0.1% | 0.1% |
 | 07:00 | EUR | Low | German Exports (MoM) (Jun) | 0.8% | 0.5% | -1.4% |
@@ -41,13 +41,13 @@
 | 08:00 | CHF | Low | Foreign Reserves (USD) (Jul) | 716.4B |  | 713.1B |
 | 08:00 | CHF | Low | Unemployment Rate n.s.a. (Jul) | 2.7% | 2.9% | 2.7% |
 | 08:00 | CHF | Low | Unemployment Rate s.a. (Jul) | 2.9% |  | 2.9% |
-| 49 min | EUR | Moderate | ECB Economic Bulletin |  |  |  |
-| 49 min | CNY | Low | FX Reserves (USD) (Jul) |  |  | 3.317T |
-| 09:30 | HKD | Low | Foreign Reserves (USD) (Jul) |  |  | 431.90B |
-| 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.303% |
-| 09:40 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.159% |
-| 10:00 | GBP | Moderate | Mortgage Rate (GBP) (Jul) |  |  | 6.98% |
-| 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Jul) |  |  | 405.0B |
+| 09:00 | CNY | Low | FX Reserves (USD) (Jul) | 3.292T |  | 3.317T |
+| 09:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
+| 20 min | HKD | Low | Foreign Reserves (USD) (Jul) |  |  | 431.90B |
+| 30 min | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.303% |
+| 30 min | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.159% |
+| 50 min | GBP | Moderate | Mortgage Rate (GBP) (Jul) |  |  | 6.98% |
+| 50 min | SGD | Low | Foreign Reserves USD (MoM) (Jul) |  |  | 405.0B |
 | 12:00 | GBP | Moderate | BoE MPC vote cut (Aug) |  | 8 | 3 |
 | 12:00 | GBP | Moderate | BoE MPC vote hike (Aug) |  | 0 | 0 |
 | 12:00 | GBP | Moderate | BoE MPC vote unchanged (Aug) |  | 1 | 6 |
@@ -57,11 +57,11 @@
 | 12:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 12:30 | GBP | Moderate | BOE Inflation Letter |  |  |  |
 | 13:00 | MXN | Low | Core CPI (MoM) (Jul) |  | 0.30% | 0.39% |
-| 13:00 | MXN | Moderate | CPI (YoY) (Jul) |  | 3.53% | 4.32% |
 | 13:00 | MXN | Moderate | CPI (MoM) (Jul) |  | 0.28% | 0.28% |
+| 13:00 | MXN | Moderate | CPI (YoY) (Jul) |  | 3.53% | 4.32% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Jul) |  | 4.23% | 4.24% |
-| 13:00 | MXN | Low | PPI (MoM) (Jul) |  |  | -0.10% |
 | 13:00 | MXN | Low | PPI (YoY) (Jul) |  |  | 4.90% |
+| 13:00 | MXN | Low | PPI (MoM) (Jul) |  |  | -0.10% |
 | 13:00 | BRL | Low | Brazilian PPI (MoM) (Jun) |  |  | -1.29% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,950K | 1,946K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 221K | 218K |
