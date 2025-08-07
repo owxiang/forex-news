@@ -83,6 +83,6 @@
 | 18:00 | USD | High | 30-Year Bond Auction | 4.813% |  | 4.889% |
 | 20:00 | USD | Moderate | Consumer Credit (Jun) | 7.37B | 7.40B | 5.13B |
 | 20:00 | MXN | Moderate | Interest Rate Decision (Aug) | 7.75% | 7.75% | 8.00% |
-| 52 min | USD | High | U.S. President Trump Speaks |  |  |  |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,643B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.300T |
+| 21:00 | USD | High | U.S. President Trump Speaks |  |  |  |
+| 22 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,643B |
+| 22 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.300T |

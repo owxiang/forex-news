@@ -31,4 +31,4 @@
 | 17:00 | USD | Atlanta Fed GDPNow (Q3) | 2.5% | 2.5% | 2.5% |
 | 20:00 | USD | Consumer Credit (Jun) | 7.37B | 7.40B | 5.13B |
 | 20:00 | MXN | Interest Rate Decision (Aug) | 7.75% | 7.75% | 8.00% |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 6,643B |
+| 22 min | USD | Fed's Balance Sheet |  |  | 6,643B |
