@@ -14,9 +14,9 @@
 | 04:06 | CNY | Imports (Jul) | 4.80M |  | 2.40M |
 | 04:06 | CNY | Trade Balance (Jul) | 705.10B | 756.00B | 825.97B |
 | 04:35 | JPY | 30-Year JGB Auction | 3.089% |  | 2.808% |
-| 06:00 | JPY | Coincident Indicator (MoM) (Jun) |  |  | 0.0% |
-| 06:00 | JPY | Leading Index (MoM) (Jun) |  |  | 0.6% |
-| 06:00 | JPY | Leading Index (Jun) |  | 106.2 | 104.8 |
+| 36 min | JPY | Coincident Indicator (MoM) (Jun) |  |  | 0.0% |
+| 36 min | JPY | Leading Index (MoM) (Jun) |  |  | 0.6% |
+| 36 min | JPY | Leading Index (Jun) |  | 106.2 | 104.8 |
 | 07:00 | EUR | German Exports (MoM) (Jun) |  | 0.5% | -1.4% |
 | 07:00 | EUR | German Imports (MoM) (Jun) |  | 1.0% | -3.8% |
 | 07:00 | EUR | German Industrial Production (YoY) (Jun) |  | -0.60% | 1.20% |

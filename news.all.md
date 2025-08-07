@@ -20,9 +20,9 @@
 | 04:06 | CNY | Moderate | Imports (YoY) (Jul) | 4.1% | -1.0% | 1.1% |
 | 04:06 | CNY | Moderate | Trade Balance (USD) (Jul) | 98.24B | 105.20B | 114.77B |
 | 04:35 | JPY | Low | 30-Year JGB Auction | 3.089% |  | 2.808% |
-| 06:00 | JPY | Low | Coincident Indicator (MoM) (Jun) |  |  | 0.0% |
-| 06:00 | JPY | Low | Leading Index (MoM) (Jun) |  |  | 0.6% |
-| 06:00 | JPY | Low | Leading Index (Jun) |  | 106.2 | 104.8 |
+| 36 min | JPY | Low | Coincident Indicator (MoM) (Jun) |  |  | 0.0% |
+| 36 min | JPY | Low | Leading Index (MoM) (Jun) |  |  | 0.6% |
+| 36 min | JPY | Low | Leading Index (Jun) |  | 106.2 | 104.8 |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Jul) |  |  | 2.5% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Jul) |  | 0.1% | 0.0% |
 | 07:00 | EUR | Low | German Exports (MoM) (Jun) |  | 0.5% | -1.4% |
