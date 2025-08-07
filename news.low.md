@@ -9,11 +9,11 @@
 | 02:30 | AUD | Exports (MoM) (Jun) | 6.0% |  | -3.0% |
 | 02:30 | AUD | Imports (MoM) (Jun) | -3.1% |  | 3.3% |
 | 02:30 | AUD | Private House Approvals (Jun) | -2.0% | -0.2% | 0.5% |
-| 04:00 | IDR | FX Reserves (USD) (Jul) |  |  | 152.60B |
-| 04:00 | CNY | Exports (Jul) |  |  | 7.20M |
-| 04:00 | CNY | Imports (Jul) |  |  | 2.30M |
-| 04:00 | CNY | Trade Balance (Jul) |  | 756.00B | 825.97B |
-| 04:35 | JPY | 30-Year JGB Auction |  |  | 2.808% |
+| 11 min | IDR | FX Reserves (USD) (Jul) |  |  | 152.60B |
+| 11 min | CNY | Exports (Jul) |  |  | 7.20M |
+| 11 min | CNY | Imports (Jul) |  |  | 2.30M |
+| 11 min | CNY | Trade Balance (Jul) |  | 756.00B | 825.97B |
+| 46 min | JPY | 30-Year JGB Auction |  |  | 2.808% |
 | 06:00 | JPY | Coincident Indicator (MoM) (Jun) |  |  | 0.0% |
 | 06:00 | JPY | Leading Index (MoM) (Jun) |  |  | 0.6% |
 | 06:00 | JPY | Leading Index (Jun) |  | 106.2 | 104.8 |
