@@ -8,16 +8,16 @@
 | 04:06 | CNY | Exports (YoY) (Jul) | 7.2% | 5.4% | 5.8% |
 | 04:06 | CNY | Imports (YoY) (Jul) | 4.1% | -1.0% | 1.1% |
 | 04:06 | CNY | Trade Balance (USD) (Jul) | 98.24B | 105.20B | 114.77B |
-| 07:00 | GBP | Halifax House Price Index (MoM) (Jul) | 0.4% | 0.1% | 0.1% |
 | 07:00 | GBP | Halifax House Price Index (YoY) (Jul) | 2.4% |  | 2.7% |
+| 07:00 | GBP | Halifax House Price Index (MoM) (Jul) | 0.4% | 0.1% | 0.1% |
 | 07:00 | EUR | German Industrial Production (MoM) (Jun) | -1.9% | -0.4% | -0.1% |
 | 07:00 | EUR | German Trade Balance (Jun) | 14.9B | 17.8B | 18.6B |
 | 09:00 | EUR | ECB Economic Bulletin |  |  |  |
 | 09:30 | GBP | Mortgage Rate (GBP) (Jul) | 6.99% |  | 6.98% |
-| 12:00 | GBP | BoE MPC vote cut (Aug) |  | 8 | 3 |
-| 12:00 | GBP | BoE MPC vote hike (Aug) |  | 0 | 0 |
-| 12:00 | GBP | BoE MPC vote unchanged (Aug) |  | 1 | 6 |
-| 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
+| 52 min | GBP | BoE MPC vote cut (Aug) |  | 8 | 3 |
+| 52 min | GBP | BoE MPC vote hike (Aug) |  | 0 | 0 |
+| 52 min | GBP | BoE MPC vote unchanged (Aug) |  | 1 | 6 |
+| 52 min | GBP | BoE MPC Meeting Minutes |  |  |  |
 | 12:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 12:30 | GBP | BOE Inflation Letter |  |  |  |
 | 13:00 | MXN | CPI (MoM) (Jul) |  | 0.28% | 0.28% |
