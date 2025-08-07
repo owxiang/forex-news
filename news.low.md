@@ -15,8 +15,8 @@
 | 04:06 | CNY | Trade Balance (Jul) | 705.10B | 756.00B | 825.97B |
 | 04:35 | JPY | 30-Year JGB Auction | 3.089% |  | 2.808% |
 | 06:00 | JPY | Coincident Indicator (MoM) (Jun) | 0.8% |  | 0.0% |
-| 06:00 | JPY | Leading Index (Jun) | 106.1 | 106.0 | 104.8 |
 | 06:00 | JPY | Leading Index (MoM) (Jun) | 1.3% |  | 0.6% |
+| 06:00 | JPY | Leading Index (Jun) | 106.1 | 106.0 | 104.8 |
 | 07:00 | EUR | German Exports (MoM) (Jun) | 0.8% | 0.5% | -1.4% |
 | 07:00 | EUR | German Imports (MoM) (Jun) | 4.2% | 1.0% | -3.9% |
 | 07:00 | EUR | German Industrial Production (YoY) (Jun) | -3.53% | -0.60% | 0.00% |
@@ -32,10 +32,10 @@
 | 08:00 | CHF | Unemployment Rate n.s.a. (Jul) | 2.7% | 2.9% | 2.7% |
 | 08:00 | CHF | Unemployment Rate s.a. (Jul) | 2.9% |  | 2.9% |
 | 09:00 | CNY | FX Reserves (USD) (Jul) | 3.292T |  | 3.317T |
-| 20 min | HKD | Foreign Reserves (USD) (Jul) |  |  | 431.90B |
-| 30 min | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.303% |
-| 30 min | EUR | Spanish 3-Year Bonos Auction |  |  | 2.159% |
-| 50 min | SGD | Foreign Reserves USD (MoM) (Jul) |  |  | 405.0B |
+| 09:30 | HKD | Foreign Reserves (USD) (Jul) | 425.40B |  | 432.00B |
+| 09:40 | EUR | Spanish 10-Year Obligacion Auction | 3.200% |  | 3.303% |
+| 10:00 | EUR | Spanish 3-Year Bonos Auction |  |  | 2.159% |
+| 10:00 | SGD | Foreign Reserves USD (MoM) (Jul) | 397.3B |  | 405.0B |
 | 12:00 | BRL | IGP-DI Inflation Index (MoM) (Jul) |  |  | -1.80% |
 | 13:00 | MXN | Core CPI (MoM) (Jul) |  | 0.30% | 0.39% |
 | 13:00 | MXN | Month Core Inflation (MoM) (Jul) |  | 4.23% | 4.24% |
