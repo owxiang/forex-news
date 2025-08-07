@@ -37,12 +37,12 @@
 | 10:00 | EUR | Spanish 3-Year Bonos Auction | 2.166% |  | 2.159% |
 | 10:00 | SGD | Foreign Reserves USD (MoM) (Jul) | 397.3B |  | 405.0B |
 | 12:00 | BRL | IGP-DI Inflation Index (MoM) (Jul) | -0.07% |  | -1.80% |
-| 53 min | MXN | Core CPI (MoM) (Jul) |  | 0.30% | 0.39% |
-| 53 min | MXN | Month Core Inflation (MoM) (Jul) |  | 4.23% | 4.24% |
-| 53 min | MXN | PPI (MoM) (Jul) |  |  | -0.10% |
-| 53 min | MXN | PPI (YoY) (Jul) |  |  | 4.90% |
-| 53 min | BRL | Brazilian PPI (MoM) (Jun) |  |  | -1.29% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 221.00K |
+| 13:00 | MXN | Core CPI (MoM) (Jul) | 0.31% | 0.30% | 0.39% |
+| 13:00 | MXN | Month Core Inflation (MoM) (Jul) | 4.23% | 4.23% | 4.24% |
+| 13:00 | MXN | PPI (YoY) (Jul) | 3.80% |  | 4.90% |
+| 13:00 | MXN | PPI (MoM) (Jul) | -0.50% |  | -0.10% |
+| 13:00 | BRL | Brazilian PPI (MoM) (Jun) | -1.25% |  | -1.21% |
+| 17 min | USD | Jobless Claims 4-Week Avg. |  |  | 221.00K |
 | 15:00 | USD | Wholesale Inventories (MoM) (Jun) |  | 0.2% | -0.3% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Jun) |  |  | -0.3% |
 | 15:00 | CAD | Ivey PMI n.s.a (Jul) |  |  | 54.6 |

@@ -54,20 +54,20 @@
 | 12:00 | GBP | High | BoE Interest Rate Decision (Aug) | 4.00% | 4.00% | 4.25% |
 | 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Jul) | -0.07% |  | -1.80% |
-| 23 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 23 min | GBP | Moderate | BOE Inflation Letter |  |  |  |
-| 53 min | MXN | Low | Core CPI (MoM) (Jul) |  | 0.30% | 0.39% |
-| 53 min | MXN | Moderate | CPI (YoY) (Jul) |  | 3.53% | 4.32% |
-| 53 min | MXN | Moderate | CPI (MoM) (Jul) |  | 0.28% | 0.28% |
-| 53 min | MXN | Low | Month Core Inflation (MoM) (Jul) |  | 4.23% | 4.24% |
-| 53 min | MXN | Low | PPI (MoM) (Jul) |  |  | -0.10% |
-| 53 min | MXN | Low | PPI (YoY) (Jul) |  |  | 4.90% |
-| 53 min | BRL | Low | Brazilian PPI (MoM) (Jun) |  |  | -1.29% |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,950K | 1,946K |
-| 13:30 | USD | High | Initial Jobless Claims |  | 221K | 218K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 221.00K |
-| 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q2) |  | 1.9% | -1.5% |
-| 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q2) |  | 1.6% | 6.6% |
+| 12:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 12:30 | GBP | Moderate | BOE Inflation Letter |  |  |  |
+| 13:00 | MXN | Low | Core CPI (MoM) (Jul) | 0.31% | 0.30% | 0.39% |
+| 13:00 | MXN | Moderate | CPI (YoY) (Jul) | 3.51% | 3.53% | 4.32% |
+| 13:00 | MXN | Moderate | CPI (MoM) (Jul) | 0.27% | 0.28% | 0.28% |
+| 13:00 | MXN | Low | Month Core Inflation (MoM) (Jul) | 4.23% | 4.23% | 4.24% |
+| 13:00 | MXN | Low | PPI (YoY) (Jul) | 3.80% |  | 4.90% |
+| 13:00 | MXN | Low | PPI (MoM) (Jul) | -0.50% |  | -0.10% |
+| 13:00 | BRL | Low | Brazilian PPI (MoM) (Jun) | -1.25% |  | -1.21% |
+| 17 min | USD | Moderate | Continuing Jobless Claims |  | 1,950K | 1,946K |
+| 17 min | USD | High | Initial Jobless Claims |  | 221K | 218K |
+| 17 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 221.00K |
+| 17 min | USD | Moderate | Nonfarm Productivity (QoQ) (Q2) |  | 1.9% | -1.5% |
+| 17 min | USD | Moderate | Unit Labor Costs (QoQ) (Q2) |  | 1.6% | 6.6% |
 | 15:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (Jun) |  | 0.2% | -0.3% |
 | 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Jun) |  |  | -0.3% |

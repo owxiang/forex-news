@@ -18,13 +18,13 @@
 | 12:00 | GBP | BoE MPC vote hike (Aug) | 0 | 0 | 0 |
 | 12:00 | GBP | BoE MPC vote unchanged (Aug) | 4 | 1 | 6 |
 | 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
-| 23 min | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 23 min | GBP | BOE Inflation Letter |  |  |  |
-| 53 min | MXN | CPI (YoY) (Jul) |  | 3.53% | 4.32% |
-| 53 min | MXN | CPI (MoM) (Jul) |  | 0.28% | 0.28% |
-| 13:30 | USD | Continuing Jobless Claims |  | 1,950K | 1,946K |
-| 13:30 | USD | Nonfarm Productivity (QoQ) (Q2) |  | 1.9% | -1.5% |
-| 13:30 | USD | Unit Labor Costs (QoQ) (Q2) |  | 1.6% | 6.6% |
+| 12:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 12:30 | GBP | BOE Inflation Letter |  |  |  |
+| 13:00 | MXN | CPI (YoY) (Jul) | 3.51% | 3.53% | 4.32% |
+| 13:00 | MXN | CPI (MoM) (Jul) | 0.27% | 0.28% | 0.28% |
+| 17 min | USD | Continuing Jobless Claims |  | 1,950K | 1,946K |
+| 17 min | USD | Nonfarm Productivity (QoQ) (Q2) |  | 1.9% | -1.5% |
+| 17 min | USD | Unit Labor Costs (QoQ) (Q2) |  | 1.6% | 6.6% |
 | 15:00 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 15:00 | CAD | Ivey PMI (Jul) |  | 55.2 | 53.3 |
 | 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Jul) |  |  | 3.0% |
