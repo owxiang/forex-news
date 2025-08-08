@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | JPY | Moderate | Household Spending (YoY) (Jun) | 1.3% | 2.8% | 4.7% |
 | 00:30 | JPY | Moderate | Household Spending (MoM) (Jun) | -5.2% | -3.0% | 4.6% |
+| 00:30 | JPY | Moderate | Household Spending (YoY) (Jun) | 1.3% | 2.8% | 4.7% |
 | 00:50 | JPY | Moderate | Adjusted Current Account (Jun) | 2.40T | 2.76T | 2.82T |
 | 00:50 | JPY | Low | Bank Lending (YoY) (Jul) | 3.2% | 2.7% | 2.7% |
 | 00:50 | JPY | Low | BoJ Summary of Opinions |  |  |  |
@@ -13,7 +13,6 @@
 | 06:00 | JPY | Low | Economy Watchers Current Index (Jul) | 45.2 | 45.5 | 45.0 |
 | 06:30 | EUR | Low | French Unemployment Rate (Q2) | 7.5% | 7.5% | 7.5% |
 | 08:00 | CHF | Moderate | SECO Consumer Climate (Q3) | -28 | -30 | -39 |
-| 49 min | IDR | Low | Car Sales (YoY) (Jul) |  |  | -22.60% |
 | 12:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 698.19B |
 | 13:30 | CAD | Low | Avg hourly wages Permanent employee (Jul) |  |  | 3.2% |
