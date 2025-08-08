@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | JPY | Moderate | Household Spending (YoY) (Jun) | 1.3% | 2.8% | 4.7% |
 | 00:30 | JPY | Moderate | Household Spending (MoM) (Jun) | -5.2% | -3.0% | 4.6% |
+| 00:30 | JPY | Moderate | Household Spending (YoY) (Jun) | 1.3% | 2.8% | 4.7% |
 | 00:50 | JPY | Moderate | Adjusted Current Account (Jun) | 2.40T | 2.76T | 2.82T |
 | 00:50 | JPY | Low | Bank Lending (YoY) (Jul) | 3.2% | 2.7% | 2.7% |
 | 00:50 | JPY | Low | BoJ Summary of Opinions |  |  |  |
