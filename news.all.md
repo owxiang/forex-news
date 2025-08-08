@@ -1,59 +1,8 @@
-## 08 August 2025 - All Forex News
+## 09 August 2025 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | JPY | Moderate | Household Spending (YoY) (Jun) | 1.3% | 2.8% | 4.7% |
-| 00:30 | JPY | Moderate | Household Spending (MoM) (Jun) | -5.2% | -3.0% | 4.6% |
-| 00:50 | JPY | Moderate | Adjusted Current Account (Jun) | 2.40T | 2.76T | 2.82T |
-| 00:50 | JPY | Low | Bank Lending (YoY) (Jul) | 3.2% | 2.7% | 2.7% |
-| 00:50 | JPY | Low | BoJ Summary of Opinions |  |  |  |
-| 00:50 | JPY | Moderate | Current Account n.s.a. (Jun) | 1.348T | 1.480T | 3.436T |
-| 02:00 | IDR | Low | Motorbike Sales (YoY) (Jul) | -2.00% |  | -0.30% |
-| 04:00 | IDR | Low | Consumer Confidence (Jul) | 118.1 |  | 117.8 |
-| 06:00 | JPY | Low | Economy Watchers Current Index (Jul) | 45.2 | 45.5 | 45.0 |
-| 06:30 | EUR | Low | French Unemployment Rate (Q2) | 7.5% | 7.5% | 7.5% |
-| 08:00 | CHF | Moderate | SECO Consumer Climate (Q3) | -28 | -30 | -39 |
-| 12:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 12:30 | INR | Low | Bank Loan Growth | 10.0% |  | 9.8% |
-| 12:30 | INR | Low | Deposit Growth | 10.2% |  | 10.1% |
-| 12:30 | INR | Low | FX Reserves, USD | 688.87B |  | 698.19B |
-| 13:30 | CAD | Low | Avg hourly wages Permanent employee (Jul) | 3.5% |  | 3.2% |
-| 13:30 | CAD | Moderate | Employment Change (Jul) | -40.8K | 15.3K | 83.1K |
-| 13:30 | CAD | Low | Full Employment Change (Jul) | -51.0K |  | 13.5K |
-| 13:30 | CAD | Low | Part Time Employment Change (Jul) | 10.3K |  | 69.5K |
-| 13:30 | CAD | Low | Participation Rate (Jul) | 65.2% |  | 65.4% |
-| 13:30 | CAD | Moderate | Unemployment Rate (Jul) | 6.9% | 7.0% | 6.9% |
-| 14:45 | USD | Low | OPEC Crude Oil Production Algeria (Barrel) | 0.94M |  | 0.94M |
-| 14:45 | USD | Low | OPEC Crude Oil Production Congo (Barrel) | 0.26M |  | 0.26M |
-| 14:45 | USD | Low | OPEC Crude Oil Production Gabon (Barrel) | 0.23M |  | 0.22M |
-| 14:45 | USD | Low | OPEC Crude Oil Production Guinea (Barrel) | 0.05M |  | 0.05M |
-| 14:45 | USD | Low | OPEC Crude oil Production Iran (Barrel) | 3.30M |  | 3.28M |
-| 14:45 | USD | Low | OPEC Crude oil Production Iraq (Barrel) | 3.80M |  | 3.85M |
-| 14:45 | USD | Low | OPEC Crude Oil Production Kuwait (Barrel) | 2.44M |  | 2.45M |
-| 14:45 | USD | Low | OPEC Crude Oil Production Libya (Barrel) | 1.27M |  | 1.25M |
-| 14:45 | USD | Low | OPEC Crude Oil Production Nigeria (Barrel) | 1.67M |  | 1.62M |
-| 14:45 | USD | Low | OPEC Crude oil Production Saudi Arabia (Barrel) | 9.45M |  | 9.30M |
-| 14:45 | USD | Low | OPEC Crude oil Production UAE (Barrel) | 3.14M |  | 3.04M |
-| 14:45 | USD | Low | OPEC Crude oil Production Venezuela (Barrel) | 0.82M |  | 0.76M |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 411 | 410 | 410 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 539 |  | 540 |
-| 20:30 | GBP | Moderate | CFTC GBP speculative net positions | -33.3K |  | -12.0K |
-| 20:30 | USD | Low | CFTC Aluminium speculative net positions | 0.3K |  | 0.5K |
-| 20:30 | USD | Low | CFTC Copper speculative net positions | 20.7K |  | 37.3K |
-| 20:30 | USD | Low | CFTC Corn speculative net positions | -108.0K |  | -133.5K |
-| 20:30 | USD | Moderate | CFTC Crude Oil speculative net positions | 141.8K |  | 156.0K |
-| 20:30 | USD | Moderate | CFTC Gold speculative net positions | 237.1K |  | 223.6K |
-| 20:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions | 33.8K |  | 35.0K |
-| 20:30 | USD | Low | CFTC Natural Gas speculative net positions | -93.8K |  | -85.8K |
-| 20:30 | USD | Moderate | CFTC S&P 500 speculative net positions | -139.6K |  | -163.2K |
-| 20:30 | USD | Low | CFTC Silver speculative net positions | 50.7K |  | 59.4K |
-| 20:30 | USD | Low | CFTC Soybeans speculative net positions | -39.2K |  | -10.8K |
-| 20:30 | USD | Low | CFTC Wheat speculative net positions | -78.6K |  | -69.7K |
-| 20:30 | CAD | Low | CFTC CAD speculative net positions | -79.4K |  | -76.4K |
-| 20:30 | MXN | Low | CFTC MXN speculative net positions | 68.1K |  | 56.7K |
-| 20:30 | CHF | Low | CFTC CHF speculative net positions | -27.4K |  | -24.0K |
-| 20:30 | AUD | Moderate | CFTC AUD speculative net positions | -83.6K |  | -78.1K |
-| 20:30 | BRL | Moderate | CFTC BRL speculative net positions | 24.6K |  | 23.9K |
-| 20:30 | JPY | Moderate | CFTC JPY speculative net positions | 82.0K |  | 89.2K |
-| 20:30 | NZD | Low | CFTC NZD speculative net positions | -4.8K |  | -2.1K |
-| 20:30 | EUR | Moderate | CFTC EUR speculative net positions | 116.0K |  | 123.4K |
+| 02:30 | CNY | Moderate | CPI (MoM) (Jul) |  | 0.3% | -0.1% |
+| 02:30 | CNY | Moderate | CPI (YoY) (Jul) |  | -0.1% | 0.1% |
+| 02:30 | CNY | Moderate | PPI (YoY) (Jul) |  | -3.4% | -3.6% |
+| 17:15 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
