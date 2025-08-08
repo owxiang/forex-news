@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 43 min | JPY | Bank Lending (YoY) (Jul) |  | 2.7% | 2.8% |
-| 43 min | JPY | BoJ Summary of Opinions |  |  |  |
+| 00:50 | JPY | Bank Lending (YoY) (Jul) | 3.2% | 2.7% | 2.7% |
+| 00:50 | JPY | BoJ Summary of Opinions |  |  |  |
 | 04:00 | IDR | Consumer Confidence (Jul) |  |  | 117.8 |
 | 04:00 | IDR | Retail Sales (YoY) (Jul) |  |  | 1.9% |
 | 06:00 | JPY | Economy Watchers Current Index (Jul) |  | 45.5 | 45.0 |

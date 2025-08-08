@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 23 min | JPY | Household Spending (MoM) (Jun) |  | -3.0% | 4.6% |
-| 23 min | JPY | Household Spending (YoY) (Jun) |  | 2.8% | 4.7% |
-| 43 min | JPY | Adjusted Current Account (Jun) |  | 2.76T | 2.82T |
-| 43 min | JPY | Current Account n.s.a. (Jun) |  | 1.480T | 3.436T |
+| 00:30 | JPY | Household Spending (YoY) (Jun) | 1.3% | 2.8% | 4.7% |
+| 00:30 | JPY | Household Spending (MoM) (Jun) | -5.2% | -3.0% | 4.6% |
+| 00:50 | JPY | Adjusted Current Account (Jun) | 2.40T | 2.76T | 2.82T |
+| 00:50 | JPY | Current Account n.s.a. (Jun) | 1.348T | 1.480T | 3.436T |
 | 08:00 | CHF | SECO Consumer Climate (Q3) |  | -30 | -39 |
 | 12:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 13:30 | CAD | Employment Change (Jul) |  | 15.3K | 83.1K |
