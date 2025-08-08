@@ -4,12 +4,11 @@
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Bank Lending (YoY) (Jul) | 3.2% | 2.7% | 2.7% |
 | 00:50 | JPY | BoJ Summary of Opinions |  |  |  |
+| 02:00 | IDR | Motorbike Sales (YoY) (Jul) | -2.00% |  | -0.30% |
 | 04:00 | IDR | Consumer Confidence (Jul) | 118.1 |  | 117.8 |
 | 06:00 | JPY | Economy Watchers Current Index (Jul) | 45.2 | 45.5 | 45.0 |
-| 16 min | EUR | French Unemployment Rate (Q2) |  | 7.5% | 7.4% |
-| 46 min | IDR | Car Sales (YoY) (Jul) |  |  | -22.60% |
-| 12:30 | INR | Bank Loan Growth |  |  | 9.8% |
-| 12:30 | INR | Deposit Growth |  |  | 10.1% |
+| 06:30 | EUR | French Unemployment Rate (Q2) | 7.5% | 7.5% | 7.5% |
+| 07:00 | IDR | Car Sales (YoY) (Jul) |  |  | -22.60% |
 | 12:30 | INR | FX Reserves, USD |  |  | 698.19B |
 | 13:30 | CAD | Avg hourly wages Permanent employee (Jul) |  |  | 3.2% |
 | 13:30 | CAD | Full Employment Change (Jul) |  |  | 13.5K |
