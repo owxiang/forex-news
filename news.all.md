@@ -35,8 +35,8 @@
 | 14:45 | USD | Low | OPEC Crude oil Production Saudi Arabia (Barrel) | 9.45M |  | 9.30M |
 | 14:45 | USD | Low | OPEC Crude oil Production UAE (Barrel) | 3.14M |  | 3.04M |
 | 14:45 | USD | Low | OPEC Crude oil Production Venezuela (Barrel) | 0.82M |  | 0.76M |
-| 53 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  | 410 | 410 |
-| 53 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 540 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 411 | 410 | 410 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 539 |  | 540 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -12.0K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 0.5K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 37.3K |
