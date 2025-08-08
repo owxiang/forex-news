@@ -8,8 +8,8 @@
 | 00:50 | JPY | Low | Bank Lending (YoY) (Jul) | 3.2% | 2.7% | 2.7% |
 | 00:50 | JPY | Low | BoJ Summary of Opinions |  |  |  |
 | 00:50 | JPY | Moderate | Current Account n.s.a. (Jun) | 1.348T | 1.480T | 3.436T |
-| 04:00 | IDR | Low | Consumer Confidence (Jul) |  |  | 117.8 |
-| 04:00 | IDR | Low | Retail Sales (YoY) (Jul) |  |  | 1.9% |
+| 12 min | IDR | Low | Consumer Confidence (Jul) |  |  | 117.8 |
+| 12 min | IDR | Low | Retail Sales (YoY) (Jul) |  |  | 1.9% |
 | 06:00 | JPY | Low | Economy Watchers Current Index (Jul) |  | 45.5 | 45.0 |
 | 06:30 | EUR | Low | French Unemployment Rate (Q2) |  | 7.5% | 7.4% |
 | 07:00 | IDR | Low | Car Sales (YoY) (Jul) |  |  | -22.60% |
