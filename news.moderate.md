@@ -10,8 +10,8 @@
 | 12:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 13:30 | CAD | Employment Change (Jul) | -40.8K | 15.3K | 83.1K |
 | 13:30 | CAD | Unemployment Rate (Jul) | 6.9% | 7.0% | 6.9% |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  | 410 | 410 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 540 |
+| 53 min | USD | U.S. Baker Hughes Oil Rig Count |  | 410 | 410 |
+| 53 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 540 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -12.0K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 156.0K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 223.6K |
