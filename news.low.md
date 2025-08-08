@@ -15,6 +15,18 @@
 | 13:30 | CAD | Full Employment Change (Jul) | -51.0K |  | 13.5K |
 | 13:30 | CAD | Part Time Employment Change (Jul) | 10.3K |  | 69.5K |
 | 13:30 | CAD | Participation Rate (Jul) | 65.2% |  | 65.4% |
+| 14:45 | USD | OPEC Crude Oil Production Algeria (Barrel) | 0.94M |  | 0.94M |
+| 14:45 | USD | OPEC Crude Oil Production Congo (Barrel) | 0.26M |  | 0.26M |
+| 14:45 | USD | OPEC Crude Oil Production Gabon (Barrel) | 0.23M |  | 0.22M |
+| 14:45 | USD | OPEC Crude Oil Production Guinea (Barrel) | 0.05M |  | 0.05M |
+| 14:45 | USD | OPEC Crude oil Production Iran (Barrel) | 3.30M |  | 3.28M |
+| 14:45 | USD | OPEC Crude oil Production Iraq (Barrel) | 3.80M |  | 3.85M |
+| 14:45 | USD | OPEC Crude Oil Production Kuwait (Barrel) | 2.44M |  | 2.45M |
+| 14:45 | USD | OPEC Crude Oil Production Libya (Barrel) | 1.27M |  | 1.25M |
+| 14:45 | USD | OPEC Crude Oil Production Nigeria (Barrel) | 1.67M |  | 1.62M |
+| 14:45 | USD | OPEC Crude oil Production Saudi Arabia (Barrel) | 9.45M |  | 9.30M |
+| 14:45 | USD | OPEC Crude oil Production UAE (Barrel) | 3.14M |  | 3.04M |
+| 14:45 | USD | OPEC Crude oil Production Venezuela (Barrel) | 0.82M |  | 0.76M |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.5K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 37.3K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -133.5K |

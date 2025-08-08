@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | JPY | Moderate | Household Spending (MoM) (Jun) | -5.2% | -3.0% | 4.6% |
 | 00:30 | JPY | Moderate | Household Spending (YoY) (Jun) | 1.3% | 2.8% | 4.7% |
+| 00:30 | JPY | Moderate | Household Spending (MoM) (Jun) | -5.2% | -3.0% | 4.6% |
 | 00:50 | JPY | Moderate | Adjusted Current Account (Jun) | 2.40T | 2.76T | 2.82T |
 | 00:50 | JPY | Low | Bank Lending (YoY) (Jul) | 3.2% | 2.7% | 2.7% |
 | 00:50 | JPY | Low | BoJ Summary of Opinions |  |  |  |
@@ -23,6 +23,18 @@
 | 13:30 | CAD | Low | Part Time Employment Change (Jul) | 10.3K |  | 69.5K |
 | 13:30 | CAD | Low | Participation Rate (Jul) | 65.2% |  | 65.4% |
 | 13:30 | CAD | Moderate | Unemployment Rate (Jul) | 6.9% | 7.0% | 6.9% |
+| 14:45 | USD | Low | OPEC Crude Oil Production Algeria (Barrel) | 0.94M |  | 0.94M |
+| 14:45 | USD | Low | OPEC Crude Oil Production Congo (Barrel) | 0.26M |  | 0.26M |
+| 14:45 | USD | Low | OPEC Crude Oil Production Gabon (Barrel) | 0.23M |  | 0.22M |
+| 14:45 | USD | Low | OPEC Crude Oil Production Guinea (Barrel) | 0.05M |  | 0.05M |
+| 14:45 | USD | Low | OPEC Crude oil Production Iran (Barrel) | 3.30M |  | 3.28M |
+| 14:45 | USD | Low | OPEC Crude oil Production Iraq (Barrel) | 3.80M |  | 3.85M |
+| 14:45 | USD | Low | OPEC Crude Oil Production Kuwait (Barrel) | 2.44M |  | 2.45M |
+| 14:45 | USD | Low | OPEC Crude Oil Production Libya (Barrel) | 1.27M |  | 1.25M |
+| 14:45 | USD | Low | OPEC Crude Oil Production Nigeria (Barrel) | 1.67M |  | 1.62M |
+| 14:45 | USD | Low | OPEC Crude oil Production Saudi Arabia (Barrel) | 9.45M |  | 9.30M |
+| 14:45 | USD | Low | OPEC Crude oil Production UAE (Barrel) | 3.14M |  | 3.04M |
+| 14:45 | USD | Low | OPEC Crude oil Production Venezuela (Barrel) | 0.82M |  | 0.76M |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  | 410 | 410 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 540 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -12.0K |
