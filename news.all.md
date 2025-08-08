@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | JPY | Moderate | Household Spending (MoM) (Jun) | -5.2% | -3.0% | 4.6% |
 | 00:30 | JPY | Moderate | Household Spending (YoY) (Jun) | 1.3% | 2.8% | 4.7% |
+| 00:30 | JPY | Moderate | Household Spending (MoM) (Jun) | -5.2% | -3.0% | 4.6% |
 | 00:50 | JPY | Moderate | Adjusted Current Account (Jun) | 2.40T | 2.76T | 2.82T |
 | 00:50 | JPY | Low | Bank Lending (YoY) (Jul) | 3.2% | 2.7% | 2.7% |
 | 00:50 | JPY | Low | BoJ Summary of Opinions |  |  |  |
@@ -13,14 +13,16 @@
 | 06:00 | JPY | Low | Economy Watchers Current Index (Jul) | 45.2 | 45.5 | 45.0 |
 | 06:30 | EUR | Low | French Unemployment Rate (Q2) | 7.5% | 7.5% | 7.5% |
 | 08:00 | CHF | Moderate | SECO Consumer Climate (Q3) | -28 | -30 | -39 |
-| 8 min | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 23 min | INR | Low | FX Reserves, USD |  |  | 698.19B |
-| 13:30 | CAD | Low | Avg hourly wages Permanent employee (Jul) |  |  | 3.2% |
-| 13:30 | CAD | Moderate | Employment Change (Jul) |  | 15.3K | 83.1K |
-| 13:30 | CAD | Low | Full Employment Change (Jul) |  |  | 13.5K |
-| 13:30 | CAD | Low | Part Time Employment Change (Jul) |  |  | 69.5K |
-| 13:30 | CAD | Low | Participation Rate (Jul) |  |  | 65.4% |
-| 13:30 | CAD | Moderate | Unemployment Rate (Jul) |  | 7.0% | 6.9% |
+| 12:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 12:30 | INR | Low | Bank Loan Growth | 10.0% |  | 9.8% |
+| 12:30 | INR | Low | Deposit Growth | 10.2% |  | 10.1% |
+| 12:30 | INR | Low | FX Reserves, USD | 688.87B |  | 698.19B |
+| 17 min | CAD | Low | Avg hourly wages Permanent employee (Jul) |  |  | 3.2% |
+| 17 min | CAD | Moderate | Employment Change (Jul) |  | 15.3K | 83.1K |
+| 17 min | CAD | Low | Full Employment Change (Jul) |  |  | 13.5K |
+| 17 min | CAD | Low | Part Time Employment Change (Jul) |  |  | 69.5K |
+| 17 min | CAD | Low | Participation Rate (Jul) |  |  | 65.4% |
+| 17 min | CAD | Moderate | Unemployment Rate (Jul) |  | 7.0% | 6.9% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  | 410 | 410 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 540 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -12.0K |
