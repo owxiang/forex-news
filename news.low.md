@@ -27,14 +27,14 @@
 | 14:45 | USD | OPEC Crude oil Production Saudi Arabia (Barrel) | 9.45M |  | 9.30M |
 | 14:45 | USD | OPEC Crude oil Production UAE (Barrel) | 3.14M |  | 3.04M |
 | 14:45 | USD | OPEC Crude oil Production Venezuela (Barrel) | 0.82M |  | 0.76M |
-| 24 min | USD | CFTC Aluminium speculative net positions |  |  | 0.5K |
-| 24 min | USD | CFTC Copper speculative net positions |  |  | 37.3K |
-| 24 min | USD | CFTC Corn speculative net positions |  |  | -133.5K |
-| 24 min | USD | CFTC Natural Gas speculative net positions |  |  | -85.8K |
-| 24 min | USD | CFTC Silver speculative net positions |  |  | 59.4K |
-| 24 min | USD | CFTC Soybeans speculative net positions |  |  | -10.8K |
-| 24 min | USD | CFTC Wheat speculative net positions |  |  | -69.7K |
-| 24 min | CAD | CFTC CAD speculative net positions |  |  | -76.4K |
-| 24 min | MXN | CFTC MXN speculative net positions |  |  | 56.7K |
-| 24 min | CHF | CFTC CHF speculative net positions |  |  | -24.0K |
-| 24 min | NZD | CFTC NZD speculative net positions |  |  | -2.1K |
+| 20:30 | USD | CFTC Aluminium speculative net positions | 0.3K |  | 0.5K |
+| 20:30 | USD | CFTC Copper speculative net positions | 20.7K |  | 37.3K |
+| 20:30 | USD | CFTC Corn speculative net positions | -108.0K |  | -133.5K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions | -93.8K |  | -85.8K |
+| 20:30 | USD | CFTC Silver speculative net positions | 50.7K |  | 59.4K |
+| 20:30 | USD | CFTC Soybeans speculative net positions | -39.2K |  | -10.8K |
+| 20:30 | USD | CFTC Wheat speculative net positions | -78.6K |  | -69.7K |
+| 20:30 | CAD | CFTC CAD speculative net positions | -79.4K |  | -76.4K |
+| 20:30 | MXN | CFTC MXN speculative net positions | 68.1K |  | 56.7K |
+| 20:30 | CHF | CFTC CHF speculative net positions | -27.4K |  | -24.0K |
+| 20:30 | NZD | CFTC NZD speculative net positions | -4.8K |  | -2.1K |
