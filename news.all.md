@@ -12,8 +12,8 @@
 | 04:00 | IDR | Low | Consumer Confidence (Jul) | 118.1 |  | 117.8 |
 | 06:00 | JPY | Low | Economy Watchers Current Index (Jul) | 45.2 | 45.5 | 45.0 |
 | 06:30 | EUR | Low | French Unemployment Rate (Q2) | 7.5% | 7.5% | 7.5% |
-| 07:00 | IDR | Low | Car Sales (YoY) (Jul) |  |  | -22.60% |
-| 49 min | CHF | Moderate | SECO Consumer Climate (Q3) |  | -30 | -39 |
+| 08:00 | CHF | Moderate | SECO Consumer Climate (Q3) | -28 | -30 | -39 |
+| 49 min | IDR | Low | Car Sales (YoY) (Jul) |  |  | -22.60% |
 | 12:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 698.19B |
 | 13:30 | CAD | Low | Avg hourly wages Permanent employee (Jul) |  |  | 3.2% |

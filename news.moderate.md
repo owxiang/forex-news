@@ -6,7 +6,7 @@
 | 00:30 | JPY | Household Spending (YoY) (Jun) | 1.3% | 2.8% | 4.7% |
 | 00:50 | JPY | Adjusted Current Account (Jun) | 2.40T | 2.76T | 2.82T |
 | 00:50 | JPY | Current Account n.s.a. (Jun) | 1.348T | 1.480T | 3.436T |
-| 49 min | CHF | SECO Consumer Climate (Q3) |  | -30 | -39 |
+| 08:00 | CHF | SECO Consumer Climate (Q3) | -28 | -30 | -39 |
 | 12:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 13:30 | CAD | Employment Change (Jul) |  | 15.3K | 83.1K |
 | 13:30 | CAD | Unemployment Rate (Jul) |  | 7.0% | 6.9% |
