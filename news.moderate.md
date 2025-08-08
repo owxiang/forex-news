@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | JPY | Household Spending (MoM) (Jun) | -5.2% | -3.0% | 4.6% |
 | 00:30 | JPY | Household Spending (YoY) (Jun) | 1.3% | 2.8% | 4.7% |
+| 00:30 | JPY | Household Spending (MoM) (Jun) | -5.2% | -3.0% | 4.6% |
 | 00:50 | JPY | Adjusted Current Account (Jun) | 2.40T | 2.76T | 2.82T |
 | 00:50 | JPY | Current Account n.s.a. (Jun) | 1.348T | 1.480T | 3.436T |
 | 08:00 | CHF | SECO Consumer Climate (Q3) | -28 | -30 | -39 |
