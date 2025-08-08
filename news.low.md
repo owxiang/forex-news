@@ -4,8 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Bank Lending (YoY) (Jul) | 3.2% | 2.7% | 2.7% |
 | 00:50 | JPY | BoJ Summary of Opinions |  |  |  |
-| 12 min | IDR | Consumer Confidence (Jul) |  |  | 117.8 |
-| 12 min | IDR | Retail Sales (YoY) (Jul) |  |  | 1.9% |
+| 04:00 | IDR | Consumer Confidence (Jul) | 118.1 |  | 117.8 |
 | 06:00 | JPY | Economy Watchers Current Index (Jul) |  | 45.5 | 45.0 |
 | 06:30 | EUR | French Unemployment Rate (Q2) |  | 7.5% | 7.4% |
 | 07:00 | IDR | Car Sales (YoY) (Jul) |  |  | -22.60% |
