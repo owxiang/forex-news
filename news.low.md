@@ -8,8 +8,8 @@
 | 07:00 | NOK | CPI (YoY) (Jul) |  |  | 3.0% |
 | 07:00 | NOK | CPI (MoM) (Jul) |  |  | 0.2% |
 | 07:00 | NOK | PPI (YoY) (Jul) |  |  | -1.0% |
-| 09:00 | EUR | Italian CPI (MoM) (Jul) |  | 0.4% | 0.4% |
 | 09:00 | EUR | Italian CPI (YoY) (Jul) |  | 1.7% | 1.7% |
+| 09:00 | EUR | Italian CPI (MoM) (Jul) |  | 0.4% | 0.4% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Jul) |  |  | 1.5% |
 | 09:00 | EUR | Italian HICP (MoM) (Jul) |  | -1.0% | -1.0% |
 | 09:00 | EUR | Italian HICP (YoY) (Jul) |  | 1.7% | 1.7% |
