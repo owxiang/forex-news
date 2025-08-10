@@ -19,8 +19,8 @@
 | 12:00 | ZAR | Manufacturing Production (YoY) (Jun) |  |  | 0.5% |
 | 12:00 | ZAR | Manufacturing Production (MoM) (Jun) |  |  | 2.0% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | MXN | Industrial Production (YoY) (Jun) |  |  | -0.8% |
 | 13:00 | MXN | Industrial Production (MoM) (Jun) |  |  | 0.6% |
+| 13:00 | MXN | Industrial Production (YoY) (Jun) |  |  | -0.8% |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 1.952% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 1.957% |
 | 14:00 | EUR | French 6-Month BTF Auction |  |  | 1.961% |
