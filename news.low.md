@@ -5,8 +5,8 @@
 | 04:00 | IDR | Retail Sales (YoY) (Jul) |  |  | 1.9% |
 | 07:00 | NOK | Core CPI YTD (Jul) |  |  | 3.1% |
 | 07:00 | NOK | Core Inflation (MoM) (Jul) |  |  | 0.5% |
-| 07:00 | NOK | CPI (MoM) (Jul) |  |  | 0.2% |
 | 07:00 | NOK | CPI (YoY) (Jul) |  |  | 3.0% |
+| 07:00 | NOK | CPI (MoM) (Jul) |  |  | 0.2% |
 | 07:00 | NOK | PPI (YoY) (Jul) |  |  | -1.0% |
 | 09:00 | EUR | Italian CPI (YoY) (Jul) |  | 1.7% | 1.7% |
 | 09:00 | EUR | Italian CPI (MoM) (Jul) |  | 0.4% | 0.4% |
