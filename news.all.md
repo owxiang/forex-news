@@ -1,27 +1,55 @@
-## 11 August 2025 - All Forex News
+## 12 August 2025 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 04:00 | IDR | Low | Retail Sales (YoY) (Jun) | 1.3% |  | 1.9% |
-| 07:00 | NOK | Low | Core CPI YTD (Jul) | 3.1% |  | 3.1% |
-| 07:00 | NOK | Low | Core Inflation (MoM) (Jul) | 0.8% |  | 0.5% |
-| 07:00 | NOK | Low | CPI (YoY) (Jul) | 3.3% |  | 3.0% |
-| 07:00 | NOK | Low | CPI (MoM) (Jul) | 0.8% |  | 0.2% |
-| 07:00 | NOK | Low | PPI (YoY) (Jul) | -0.3% |  | -1.0% |
-| 09:00 | EUR | Low | Italian CPI (YoY) (Jul) | 1.7% | 1.7% | 1.7% |
-| 09:00 | EUR | Low | Italian CPI (MoM) (Jul) | 0.4% | 0.4% | 0.2% |
-| 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Jul) | 1.5% |  | 1.5% |
-| 09:00 | EUR | Low | Italian HICP (YoY) (Jul) | 1.7% | 1.7% | 1.8% |
-| 09:00 | EUR | Low | Italian HICP (MoM) (Jul) | -1.0% | -1.0% | 0.2% |
-| 10:00 | EUR | Low | Italian Trade Balance (Jun) | 5.409B | 7.120B | 6.103B |
-| 10:00 | EUR | Low | Italian Trade Balance EU (Jun) | -0.07B |  | 0.72B |
-| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Jun) | 0.0% |  | 2.2% |
-| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Jun) | 1.9% | 1.0% | 0.7% |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | MXN | Low | Industrial Production (YoY) (Jun) | -0.4% |  | -0.7% |
-| 13:00 | MXN | Low | Industrial Production (MoM) (Jun) | -0.1% |  | 0.7% |
-| 14:00 | EUR | Low | French 12-Month BTF Auction | 1.973% |  | 1.952% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction | 1.952% |  | 1.957% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction | 1.971% |  | 1.961% |
-| 16:30 | USD | Low | 3-Month Bill Auction | 4.150% |  | 4.165% |
-| 16:30 | USD | Low | 6-Month Bill Auction | 3.970% |  | 3.980% |
+| 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Jul) | 1.8% | 2.1% | 2.7% |
+| 43 min | JPY | Low | M2 Money Stock (YoY) |  | 0.8% | 0.9% |
+| 43 min | JPY | Low | M3 Money Supply (Jul) |  |  | 2,204.8B |
+| 53 min | SGD | Low | GDP (YoY) (Q2) |  |  | 4.3% |
+| 02:30 | AUD | Moderate | NAB Business Confidence (Jul) |  |  | 5 |
+| 02:30 | AUD | Low | NAB Business Survey (Jul) |  |  | 9 |
+| 05:30 | AUD | High | RBA Interest Rate Decision (Aug) |  | 3.60% | 3.85% |
+| 05:30 | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
+| 05:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
+| 07:00 | GBP | Low | Average Earnings ex Bonus (Jun) |  | 4.7% | 5.0% |
+| 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Jun) |  |  | 5.0% |
+| 07:00 | GBP | Moderate | Claimant Count Change (Jul) |  | 20.8K | 25.9K |
+| 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Jun) |  |  | 134K |
+| 07:00 | GBP | Moderate | Unemployment Rate (Jun) |  | 4.7% | 4.7% |
+| 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 1.905% |
+| 10:00 | EUR | Moderate | German ZEW Current Conditions (Aug) |  | -65.0 | -59.5 |
+| 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Aug) |  | 39.7 | 52.7 |
+| 10:00 | IDR | Low | Car Sales (YoY) (Jul) |  |  | -22.60% |
+| 10:00 | EUR | Moderate | ZEW Economic Sentiment (Aug) |  | 28.1 | 36.1 |
+| 10:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 1.961% |
+| Tentative | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.078% |
+| 10:30 | ZAR | Low | Gold Production (YoY) (Jun) |  |  | 1.5% |
+| 10:30 | ZAR | Low | Mining Production (Jun) |  |  | 0.2% |
+| 10:30 | ZAR | Low | Unemployment Rate (Q2) |  |  | 32.90% |
+| 10:30 | ZAR | Low | Unemployment (Q2) |  |  | 8.228M |
+| 11:00 | USD | Low | NFIB Small Business Optimism (Jul) |  | 98.6 | 98.6 |
+| 11:30 | INR | Moderate | CPI (YoY) (Jul) |  | 1.76% | 2.10% |
+| 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
+| 13:00 | EUR | Low | German Current Account Balance n.s.a (Jun) |  |  | 9.6B |
+| 13:00 | BRL | Moderate | CPI (YoY) (Jul) |  | 5.34% | 5.35% |
+| 13:00 | BRL | Low | CPI (MoM) (Jul) |  | 0.37% | 0.24% |
+| 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Jul) |  |  | 0.31% |
+| 13:30 | USD | High | Core CPI (MoM) (Jul) |  | 0.3% | 0.2% |
+| 13:30 | USD | Moderate | Core CPI (YoY) (Jul) |  | 3.0% | 2.9% |
+| 13:30 | USD | Low | Core CPI Index (Jul) |  |  | 327.60 |
+| 13:30 | USD | High | CPI (YoY) (Jul) |  | 2.8% | 2.7% |
+| 13:30 | USD | High | CPI (MoM) (Jul) |  | 0.2% | 0.3% |
+| 13:30 | USD | Low | CPI Index, n.s.a. (Jul) |  | 323.17 | 322.56 |
+| 13:30 | USD | Low | CPI Index, s.a (Jul) |  |  | 321.50 |
+| 13:30 | USD | Low | CPI, n.s.a (MoM) (Jul) |  |  | 0.34% |
+| 13:30 | USD | Low | Real Earnings (MoM) (Jul) |  |  | -0.4% |
+| 13:30 | CAD | Moderate | Building Permits (MoM) (Jun) |  | -3.9% | 12.0% |
+| 13:55 | USD | Low | Redbook (YoY) |  |  | 6.5% |
+| 15:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 16:00 | USD | Low | Cleveland CPI (MoM) (Jul) |  |  | 0.3% |
+| 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
+| 17:00 | USD | Moderate | WASDE Report |  |  |  |
+| 19:00 | USD | Moderate | Federal Budget Balance (Jul) |  | -138.8B | 27.0B |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -4.200M |
+| 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Jul) |  |  | 0.5% |
+| 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Jul) |  |  | -0.4% |

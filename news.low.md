@@ -1,27 +1,30 @@
-## 11 August 2025 - Low Impact Forex News
+## 12 August 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 04:00 | IDR | Retail Sales (YoY) (Jun) | 1.3% |  | 1.9% |
-| 07:00 | NOK | Core CPI YTD (Jul) | 3.1% |  | 3.1% |
-| 07:00 | NOK | Core Inflation (MoM) (Jul) | 0.8% |  | 0.5% |
-| 07:00 | NOK | CPI (YoY) (Jul) | 3.3% |  | 3.0% |
-| 07:00 | NOK | CPI (MoM) (Jul) | 0.8% |  | 0.2% |
-| 07:00 | NOK | PPI (YoY) (Jul) | -0.3% |  | -1.0% |
-| 09:00 | EUR | Italian CPI (YoY) (Jul) | 1.7% | 1.7% | 1.7% |
-| 09:00 | EUR | Italian CPI (MoM) (Jul) | 0.4% | 0.4% | 0.2% |
-| 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Jul) | 1.5% |  | 1.5% |
-| 09:00 | EUR | Italian HICP (YoY) (Jul) | 1.7% | 1.7% | 1.8% |
-| 09:00 | EUR | Italian HICP (MoM) (Jul) | -1.0% | -1.0% | 0.2% |
-| 10:00 | EUR | Italian Trade Balance (Jun) | 5.409B | 7.120B | 6.103B |
-| 10:00 | EUR | Italian Trade Balance EU (Jun) | -0.07B |  | 0.72B |
-| 12:00 | ZAR | Manufacturing Production (MoM) (Jun) | 0.0% |  | 2.2% |
-| 12:00 | ZAR | Manufacturing Production (YoY) (Jun) | 1.9% | 1.0% | 0.7% |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | MXN | Industrial Production (YoY) (Jun) | -0.4% |  | -0.7% |
-| 13:00 | MXN | Industrial Production (MoM) (Jun) | -0.1% |  | 0.7% |
-| 14:00 | EUR | French 12-Month BTF Auction | 1.973% |  | 1.952% |
-| 14:00 | EUR | French 3-Month BTF Auction | 1.952% |  | 1.957% |
-| 14:00 | EUR | French 6-Month BTF Auction | 1.971% |  | 1.961% |
-| 16:30 | USD | 3-Month Bill Auction | 4.150% |  | 4.165% |
-| 16:30 | USD | 6-Month Bill Auction | 3.970% |  | 3.980% |
+| 43 min | JPY | M2 Money Stock (YoY) |  | 0.8% | 0.9% |
+| 43 min | JPY | M3 Money Supply (Jul) |  |  | 2,204.8B |
+| 53 min | SGD | GDP (YoY) (Q2) |  |  | 4.3% |
+| 02:30 | AUD | NAB Business Survey (Jul) |  |  | 9 |
+| 07:00 | GBP | Average Earnings ex Bonus (Jun) |  | 4.7% | 5.0% |
+| 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 1.905% |
+| 10:00 | IDR | Car Sales (YoY) (Jul) |  |  | -22.60% |
+| 10:10 | EUR | Italian 12-Month BOT Auction |  |  | 1.961% |
+| Tentative | GBP | 5-Year Treasury Gilt Auction |  |  | 4.078% |
+| 10:30 | ZAR | Gold Production (YoY) (Jun) |  |  | 1.5% |
+| 10:30 | ZAR | Mining Production (Jun) |  |  | 0.2% |
+| 10:30 | ZAR | Unemployment Rate (Q2) |  |  | 32.90% |
+| 10:30 | ZAR | Unemployment (Q2) |  |  | 8.228M |
+| 11:00 | USD | NFIB Small Business Optimism (Jul) |  | 98.6 | 98.6 |
+| 13:00 | EUR | German Current Account Balance n.s.a (Jun) |  |  | 9.6B |
+| 13:00 | BRL | CPI (MoM) (Jul) |  | 0.37% | 0.24% |
+| 13:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Jul) |  |  | 0.31% |
+| 13:30 | USD | Core CPI Index (Jul) |  |  | 327.60 |
+| 13:30 | USD | CPI Index, n.s.a. (Jul) |  | 323.17 | 322.56 |
+| 13:30 | USD | CPI Index, s.a (Jul) |  |  | 321.50 |
+| 13:30 | USD | CPI, n.s.a (MoM) (Jul) |  |  | 0.34% |
+| 13:30 | USD | Real Earnings (MoM) (Jul) |  |  | -0.4% |
+| 13:55 | USD | Redbook (YoY) |  |  | 6.5% |
+| 15:00 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 16:00 | USD | Cleveland CPI (MoM) (Jul) |  |  | 0.3% |
+| 23:45 | NZD | Electronic Card Retail Sales (YoY) (Jul) |  |  | -0.4% |
