@@ -11,8 +11,8 @@
 | 09:00 | EUR | Low | Italian CPI (YoY) (Jul) | 1.7% | 1.7% | 1.7% |
 | 09:00 | EUR | Low | Italian CPI (MoM) (Jul) | 0.4% | 0.4% | 0.2% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Jul) | 1.5% |  | 1.5% |
-| 09:00 | EUR | Low | Italian HICP (YoY) (Jul) | 1.7% | 1.7% | 1.8% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Jul) | -1.0% | -1.0% | 0.2% |
+| 09:00 | EUR | Low | Italian HICP (YoY) (Jul) | 1.7% | 1.7% | 1.8% |
 | 10:00 | EUR | Low | Italian Trade Balance (Jun) | 5.409B | 7.120B | 6.103B |
 | 10:00 | EUR | Low | Italian Trade Balance EU (Jun) | -0.07B |  | 0.72B |
 | 12:00 | ZAR | Low | Manufacturing Production (YoY) (Jun) | 1.9% | 1.0% | 0.7% |
