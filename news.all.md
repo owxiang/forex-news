@@ -15,8 +15,8 @@
 | 09:00 | EUR | Low | Italian HICP (YoY) (Jul) | 1.7% | 1.7% | 1.8% |
 | 10:00 | EUR | Low | Italian Trade Balance (Jun) | 5.409B | 7.120B | 6.103B |
 | 10:00 | EUR | Low | Italian Trade Balance EU (Jun) | -0.07B |  | 0.72B |
-| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Jun) | 1.9% | 1.0% | 0.7% |
 | 12:00 | ZAR | Low | Manufacturing Production (MoM) (Jun) | 0.0% |  | 2.2% |
+| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Jun) | 1.9% | 1.0% | 0.7% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | MXN | Low | Industrial Production (MoM) (Jun) | -0.1% |  | 0.7% |
 | 13:00 | MXN | Low | Industrial Production (YoY) (Jun) | -0.4% |  | -0.7% |
