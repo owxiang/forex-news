@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 04:00 | IDR | Retail Sales (YoY) (Jul) |  |  | 1.9% |
+| 12 min | IDR | Retail Sales (YoY) (Jul) |  |  | 1.9% |
 | 07:00 | NOK | Core CPI YTD (Jul) |  |  | 3.1% |
 | 07:00 | NOK | Core Inflation (MoM) (Jul) |  |  | 0.5% |
 | 07:00 | NOK | CPI (YoY) (Jul) |  |  | 3.0% |
@@ -16,8 +16,8 @@
 | 10:00 | EUR | Italian Trade Balance (Jun) |  | 7.120B | 6.163B |
 | 10:00 | EUR | Italian Trade Balance EU (Jun) |  |  | 0.78B |
 | 11:00 | IDR | Car Sales (YoY) (Jul) |  |  | -22.60% |
-| 12:00 | ZAR | Manufacturing Production (MoM) (Jun) |  |  | 2.0% |
 | 12:00 | ZAR | Manufacturing Production (YoY) (Jun) |  |  | 0.5% |
+| 12:00 | ZAR | Manufacturing Production (MoM) (Jun) |  |  | 2.0% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:00 | MXN | Industrial Production (YoY) (Jun) |  |  | -0.8% |
 | 13:00 | MXN | Industrial Production (MoM) (Jun) |  |  | 0.6% |
