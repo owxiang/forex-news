@@ -5,7 +5,7 @@
 | 00:50 | JPY | M2 Money Stock (YoY) | 1.0% | 0.8% | 0.9% |
 | 00:50 | JPY | M3 Money Supply (Jul) | 2,211.9B |  | 2,204.3B |
 | 01:00 | SGD | GDP (YoY) (Q2) | 4.4% | 4.3% | 4.3% |
-| 59 min | AUD | NAB Business Survey (Jul) |  |  | 9 |
+| 02:30 | AUD | NAB Business Survey (Jul) | 5 |  | 9 |
 | 07:00 | GBP | Average Earnings ex Bonus (Jun) |  | 4.7% | 5.0% |
 | 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 1.905% |
 | 10:00 | IDR | Car Sales (YoY) (Jul) |  |  | -22.60% |
