@@ -21,5 +21,5 @@
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 17:00 | USD | WASDE Report |  |  |  |
 | 19:00 | USD | Federal Budget Balance (Jul) | -291.0B | -206.7B | 27.0B |
-| 22 min | USD | API Weekly Crude Oil Stock |  | -0.800M | -4.200M |
+| 21:30 | USD | API Weekly Crude Oil Stock | 1.500M | -0.800M | -4.200M |
 | 23:45 | NZD | Electronic Card Retail Sales (MoM) (Jul) |  |  | 0.5% |

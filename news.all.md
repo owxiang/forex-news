@@ -50,6 +50,6 @@
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |
 | 19:00 | USD | Moderate | Federal Budget Balance (Jul) | -291.0B | -206.7B | 27.0B |
-| 22 min | USD | Moderate | API Weekly Crude Oil Stock |  | -0.800M | -4.200M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | 1.500M | -0.800M | -4.200M |
 | 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Jul) |  |  | -0.4% |
 | 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Jul) |  |  | 0.5% |
