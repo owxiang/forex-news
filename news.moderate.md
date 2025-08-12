@@ -10,9 +10,9 @@
 | 07:00 | GBP | Claimant Count Change (Jul) | -6.2K | 19.7K | -15.5K |
 | 07:00 | GBP | Employment Change 3M/3M (MoM) (Jun) | 238K |  | 134K |
 | 07:00 | GBP | Unemployment Rate (Jun) | 4.7% | 4.7% | 4.7% |
-| 10:00 | EUR | German ZEW Current Conditions (Aug) |  | -65.0 | -59.5 |
-| 10:00 | EUR | German ZEW Economic Sentiment (Aug) |  | 39.5 | 52.7 |
-| 10:00 | EUR | ZEW Economic Sentiment (Aug) |  | 28.1 | 36.1 |
+| 51 min | EUR | German ZEW Current Conditions (Aug) |  | -65.0 | -59.5 |
+| 51 min | EUR | German ZEW Economic Sentiment (Aug) |  | 39.5 | 52.7 |
+| 51 min | EUR | ZEW Economic Sentiment (Aug) |  | 28.1 | 36.1 |
 | 11:30 | INR | CPI (YoY) (Jul) |  | 1.76% | 2.10% |
 | 12:00 | USD | OPEC Monthly Report |  |  |  |
 | 13:00 | BRL | CPI (YoY) (Jul) |  | 5.34% | 5.35% |

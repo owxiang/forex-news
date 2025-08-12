@@ -8,7 +8,7 @@
 | 01:00 | SGD | GDP (YoY) (Q2) | 4.4% | 4.3% | 4.1% |
 | 02:30 | AUD | NAB Business Survey (Jul) | 5 |  | 7 |
 | 07:00 | GBP | Average Earnings ex Bonus (Jun) | 5.0% | 5.0% | 5.0% |
-| 09:50 | EUR | Spanish 3-Month Letras Auction |  |  | 1.905% |
+| 41 min | EUR | Spanish 3-Month Letras Auction |  |  | 1.905% |
 | 10:10 | EUR | Italian 12-Month BOT Auction |  |  | 1.961% |
 | 10:30 | GBP | 5-Year Treasury Gilt Auction |  |  | 4.078% |
 | 10:30 | ZAR | Gold Production (YoY) (Jun) |  |  | 1.5% |

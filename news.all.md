@@ -17,10 +17,10 @@
 | 07:00 | GBP | Moderate | Claimant Count Change (Jul) | -6.2K | 19.7K | -15.5K |
 | 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Jun) | 238K |  | 134K |
 | 07:00 | GBP | Moderate | Unemployment Rate (Jun) | 4.7% | 4.7% | 4.7% |
-| 09:50 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 1.905% |
-| 10:00 | EUR | Moderate | German ZEW Current Conditions (Aug) |  | -65.0 | -59.5 |
-| 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Aug) |  | 39.5 | 52.7 |
-| 10:00 | EUR | Moderate | ZEW Economic Sentiment (Aug) |  | 28.1 | 36.1 |
+| 41 min | EUR | Low | Spanish 3-Month Letras Auction |  |  | 1.905% |
+| 51 min | EUR | Moderate | German ZEW Current Conditions (Aug) |  | -65.0 | -59.5 |
+| 51 min | EUR | Moderate | German ZEW Economic Sentiment (Aug) |  | 39.5 | 52.7 |
+| 51 min | EUR | Moderate | ZEW Economic Sentiment (Aug) |  | 28.1 | 36.1 |
 | 10:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 1.961% |
 | 10:30 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.078% |
 | 10:30 | ZAR | Low | Gold Production (YoY) (Jun) |  |  | 1.5% |
@@ -30,8 +30,8 @@
 | 11:00 | USD | Low | NFIB Small Business Optimism (Jul) |  | 98.9 | 98.6 |
 | 11:30 | INR | Moderate | CPI (YoY) (Jul) |  | 1.76% | 2.10% |
 | 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
-| 13:00 | BRL | Moderate | CPI (YoY) (Jul) |  | 5.34% | 5.35% |
 | 13:00 | BRL | Low | CPI (MoM) (Jul) |  | 0.37% | 0.24% |
+| 13:00 | BRL | Moderate | CPI (YoY) (Jul) |  | 5.34% | 5.35% |
 | 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Jul) |  |  | 0.31% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Jul) |  | 3.0% | 2.9% |
 | 13:30 | USD | High | Core CPI (MoM) (Jul) |  | 0.3% | 0.2% |
