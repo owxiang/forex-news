@@ -46,10 +46,9 @@
 | 13:30 | EUR | Low | German Current Account Balance n.s.a (Jun) | 18.6B |  | 7.5B |
 | 13:55 | USD | Low | Redbook (YoY) | 5.7% |  | 6.5% |
 | 15:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 53 min | USD | Low | Cleveland CPI (MoM) (Jul) |  |  | 0.3% |
-| 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
-| 17:00 | USD | Moderate | WASDE Report |  |  |  |
+| 53 min | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
+| 53 min | USD | Moderate | WASDE Report |  |  |  |
 | 19:00 | USD | Moderate | Federal Budget Balance (Jul) |  | -206.7B | 27.0B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -0.800M | -4.200M |
-| 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Jul) |  |  | -0.4% |
 | 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Jul) |  |  | 0.5% |
+| 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Jul) |  |  | -0.4% |
