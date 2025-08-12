@@ -20,6 +20,6 @@
 | 13:30 | CAD | Building Permits (MoM) (Jun) | -9.0% | -3.9% | 12.8% |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 17:00 | USD | WASDE Report |  |  |  |
-| 52 min | USD | Federal Budget Balance (Jul) |  | -206.7B | 27.0B |
+| 19:00 | USD | Federal Budget Balance (Jul) | -291.0B | -206.7B | 27.0B |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | -0.800M | -4.200M |
 | 23:45 | NZD | Electronic Card Retail Sales (MoM) (Jul) |  |  | 0.5% |
