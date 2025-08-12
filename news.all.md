@@ -34,8 +34,8 @@
 | 13:00 | BRL | Low | CPI (MoM) (Jul) |  | 0.37% | 0.24% |
 | 13:00 | BRL | Moderate | CPI (YoY) (Jul) |  | 5.34% | 5.35% |
 | 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Jul) |  |  | 0.31% |
-| 13:30 | USD | High | Core CPI (MoM) (Jul) |  | 0.3% | 0.2% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Jul) |  | 3.0% | 2.9% |
+| 13:30 | USD | High | Core CPI (MoM) (Jul) |  | 0.3% | 0.2% |
 | 13:30 | USD | Low | Core CPI Index (Jul) |  |  | 327.60 |
 | 13:30 | USD | High | CPI (MoM) (Jul) |  | 0.2% | 0.3% |
 | 13:30 | USD | High | CPI (YoY) (Jul) |  | 2.8% | 2.7% |
@@ -51,5 +51,5 @@
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |
 | 19:00 | USD | Moderate | Federal Budget Balance (Jul) |  | -138.8B | 27.0B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -4.200M |
-| 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Jul) |  |  | 0.5% |
 | 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Jul) |  |  | -0.4% |
+| 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Jul) |  |  | 0.5% |
