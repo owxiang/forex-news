@@ -18,8 +18,8 @@
 | 13:00 | BRL | CPI (YoY) (Jul) | 5.23% | 5.34% | 5.35% |
 | 13:30 | USD | Core CPI (YoY) (Jul) | 3.1% | 3.0% | 2.9% |
 | 13:30 | CAD | Building Permits (MoM) (Jun) | -9.0% | -3.9% | 12.8% |
-| 53 min | USD | EIA Short-Term Energy Outlook |  |  |  |
-| 53 min | USD | WASDE Report |  |  |  |
+| 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
+| 17:00 | USD | WASDE Report |  |  |  |
 | 19:00 | USD | Federal Budget Balance (Jul) |  | -206.7B | 27.0B |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | -0.800M | -4.200M |
 | 23:45 | NZD | Electronic Card Retail Sales (MoM) (Jul) |  |  | 0.5% |
