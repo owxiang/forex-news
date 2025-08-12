@@ -8,9 +8,9 @@
 | 01:00 | SGD | Low | GDP (YoY) (Q2) | 4.4% | 4.3% | 4.3% |
 | 02:30 | AUD | Moderate | NAB Business Confidence (Jul) | 7 |  | 5 |
 | 02:30 | AUD | Low | NAB Business Survey (Jul) | 5 |  | 7 |
-| 05:30 | AUD | High | RBA Interest Rate Decision (Aug) |  | 3.60% | 3.85% |
-| 05:30 | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
-| 05:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
+| 18 min | AUD | High | RBA Interest Rate Decision (Aug) |  | 3.60% | 3.85% |
+| 18 min | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
+| 18 min | AUD | Moderate | RBA Rate Statement |  |  |  |
 | 07:00 | GBP | Low | Average Earnings ex Bonus (Jun) |  | 4.7% | 5.0% |
 | 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Jun) |  |  | 5.0% |
 | 07:00 | GBP | Moderate | Claimant Count Change (Jul) |  | 20.8K | 25.9K |
@@ -31,8 +31,8 @@
 | 11:30 | INR | Moderate | CPI (YoY) (Jul) |  | 1.76% | 2.10% |
 | 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 13:00 | EUR | Low | German Current Account Balance n.s.a (Jun) |  |  | 9.6B |
-| 13:00 | BRL | Moderate | CPI (YoY) (Jul) |  | 5.34% | 5.35% |
 | 13:00 | BRL | Low | CPI (MoM) (Jul) |  | 0.37% | 0.24% |
+| 13:00 | BRL | Moderate | CPI (YoY) (Jul) |  | 5.34% | 5.35% |
 | 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Jul) |  |  | 0.31% |
 | 13:30 | USD | High | Core CPI (MoM) (Jul) |  | 0.3% | 0.2% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Jul) |  | 3.0% | 2.9% |
@@ -51,5 +51,5 @@
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |
 | 19:00 | USD | Moderate | Federal Budget Balance (Jul) |  | -138.8B | 27.0B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -4.200M |
-| 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Jul) |  |  | -0.4% |
 | 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Jul) |  |  | 0.5% |
+| 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Jul) |  |  | -0.4% |
