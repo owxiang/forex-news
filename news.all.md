@@ -30,26 +30,26 @@
 | 11:00 | USD | Low | NFIB Small Business Optimism (Jul) | 100.3 | 98.9 | 98.6 |
 | 11:30 | INR | Moderate | CPI (YoY) (Jul) | 1.55% | 1.76% | 2.10% |
 | 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
-| 53 min | BRL | Moderate | CPI (YoY) (Jul) |  | 5.34% | 5.35% |
-| 53 min | BRL | Low | CPI (MoM) (Jul) |  | 0.37% | 0.24% |
-| 53 min | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Jul) |  |  | 0.31% |
-| 13:30 | USD | Moderate | Core CPI (YoY) (Jul) |  | 3.0% | 2.9% |
-| 13:30 | USD | High | Core CPI (MoM) (Jul) |  | 0.3% | 0.2% |
-| 13:30 | USD | Low | Core CPI Index (Jul) |  |  | 327.60 |
-| 13:30 | USD | High | CPI (MoM) (Jul) |  | 0.2% | 0.3% |
-| 13:30 | USD | High | CPI (YoY) (Jul) |  | 2.8% | 2.7% |
-| 13:30 | USD | Low | CPI Index, n.s.a. (Jul) |  | 323.17 | 322.56 |
-| 13:30 | USD | Low | CPI Index, s.a (Jul) |  |  | 321.50 |
-| 13:30 | USD | Low | CPI, n.s.a (MoM) (Jul) |  |  | 0.34% |
-| 13:30 | USD | Low | Real Earnings (MoM) (Jul) |  |  | -0.4% |
-| 13:30 | CAD | Moderate | Building Permits (MoM) (Jun) |  | -3.9% | 12.0% |
-| 13:45 | EUR | Low | German Current Account Balance n.s.a (Jun) |  |  | 9.6B |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 6.5% |
+| 13:00 | BRL | Moderate | CPI (YoY) (Jul) | 5.23% | 5.34% | 5.35% |
+| 13:00 | BRL | Low | CPI (MoM) (Jul) | 0.26% | 0.37% | 0.24% |
+| 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Jul) | 0.35% |  | 0.31% |
+| 18 min | USD | High | Core CPI (MoM) (Jul) |  | 0.3% | 0.2% |
+| 18 min | USD | Moderate | Core CPI (YoY) (Jul) |  | 3.0% | 2.9% |
+| 18 min | USD | Low | Core CPI Index (Jul) |  |  | 327.60 |
+| 18 min | USD | High | CPI (YoY) (Jul) |  | 2.8% | 2.7% |
+| 18 min | USD | High | CPI (MoM) (Jul) |  | 0.2% | 0.3% |
+| 18 min | USD | Low | CPI Index, n.s.a. (Jul) |  | 323.17 | 322.56 |
+| 18 min | USD | Low | CPI Index, s.a (Jul) |  |  | 321.50 |
+| 18 min | USD | Low | CPI, n.s.a (MoM) (Jul) |  |  | 0.34% |
+| 18 min | USD | Low | Real Earnings (MoM) (Jul) |  |  | -0.4% |
+| 18 min | CAD | Moderate | Building Permits (MoM) (Jun) |  | -3.9% | 12.0% |
+| 33 min | EUR | Low | German Current Account Balance n.s.a (Jun) |  |  | 9.6B |
+| 43 min | USD | Low | Redbook (YoY) |  |  | 6.5% |
 | 15:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 16:00 | USD | Low | Cleveland CPI (MoM) (Jul) |  |  | 0.3% |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |
 | 19:00 | USD | Moderate | Federal Budget Balance (Jul) |  | -206.7B | 27.0B |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -4.200M |
-| 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Jul) |  |  | 0.5% |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -0.800M | -4.200M |
 | 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Jul) |  |  | -0.4% |
+| 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Jul) |  |  | 0.5% |

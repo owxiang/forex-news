@@ -15,11 +15,11 @@
 | 10:00 | EUR | ZEW Economic Sentiment (Aug) | 25.1 | 28.1 | 36.1 |
 | 11:30 | INR | CPI (YoY) (Jul) | 1.55% | 1.76% | 2.10% |
 | 12:00 | USD | OPEC Monthly Report |  |  |  |
-| 53 min | BRL | CPI (YoY) (Jul) |  | 5.34% | 5.35% |
-| 13:30 | USD | Core CPI (YoY) (Jul) |  | 3.0% | 2.9% |
-| 13:30 | CAD | Building Permits (MoM) (Jun) |  | -3.9% | 12.0% |
+| 13:00 | BRL | CPI (YoY) (Jul) | 5.23% | 5.34% | 5.35% |
+| 18 min | USD | Core CPI (YoY) (Jul) |  | 3.0% | 2.9% |
+| 18 min | CAD | Building Permits (MoM) (Jun) |  | -3.9% | 12.0% |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 17:00 | USD | WASDE Report |  |  |  |
 | 19:00 | USD | Federal Budget Balance (Jul) |  | -206.7B | 27.0B |
-| 21:30 | USD | API Weekly Crude Oil Stock |  |  | -4.200M |
+| 21:30 | USD | API Weekly Crude Oil Stock |  | -0.800M | -4.200M |
 | 23:45 | NZD | Electronic Card Retail Sales (MoM) (Jul) |  |  | 0.5% |

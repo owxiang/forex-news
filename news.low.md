@@ -16,15 +16,15 @@
 | 10:30 | ZAR | Unemployment Rate (Q2) | 33.20% |  | 32.90% |
 | 10:30 | ZAR | Unemployment (Q2) | 8.367M |  | 8.228M |
 | 11:00 | USD | NFIB Small Business Optimism (Jul) | 100.3 | 98.9 | 98.6 |
-| 53 min | BRL | CPI (MoM) (Jul) |  | 0.37% | 0.24% |
-| 53 min | BRL | Brazilian IPCA Inflation Index SA (MoM) (Jul) |  |  | 0.31% |
-| 13:30 | USD | Core CPI Index (Jul) |  |  | 327.60 |
-| 13:30 | USD | CPI Index, n.s.a. (Jul) |  | 323.17 | 322.56 |
-| 13:30 | USD | CPI Index, s.a (Jul) |  |  | 321.50 |
-| 13:30 | USD | CPI, n.s.a (MoM) (Jul) |  |  | 0.34% |
-| 13:30 | USD | Real Earnings (MoM) (Jul) |  |  | -0.4% |
-| 13:45 | EUR | German Current Account Balance n.s.a (Jun) |  |  | 9.6B |
-| 13:55 | USD | Redbook (YoY) |  |  | 6.5% |
+| 13:00 | BRL | CPI (MoM) (Jul) | 0.26% | 0.37% | 0.24% |
+| 13:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Jul) | 0.35% |  | 0.31% |
+| 18 min | USD | Core CPI Index (Jul) |  |  | 327.60 |
+| 18 min | USD | CPI Index, n.s.a. (Jul) |  | 323.17 | 322.56 |
+| 18 min | USD | CPI Index, s.a (Jul) |  |  | 321.50 |
+| 18 min | USD | CPI, n.s.a (MoM) (Jul) |  |  | 0.34% |
+| 18 min | USD | Real Earnings (MoM) (Jul) |  |  | -0.4% |
+| 33 min | EUR | German Current Account Balance n.s.a (Jun) |  |  | 9.6B |
+| 43 min | USD | Redbook (YoY) |  |  | 6.5% |
 | 15:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 16:00 | USD | Cleveland CPI (MoM) (Jul) |  |  | 0.3% |
 | 23:45 | NZD | Electronic Card Retail Sales (YoY) (Jul) |  |  | -0.4% |
