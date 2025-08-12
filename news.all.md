@@ -3,11 +3,11 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Jul) | 1.8% | 2.1% | 2.7% |
-| 43 min | JPY | Low | M2 Money Stock (YoY) |  | 0.8% | 0.9% |
-| 43 min | JPY | Low | M3 Money Supply (Jul) |  |  | 2,204.8B |
-| 53 min | SGD | Low | GDP (YoY) (Q2) |  |  | 4.3% |
-| 02:30 | AUD | Moderate | NAB Business Confidence (Jul) |  |  | 5 |
-| 02:30 | AUD | Low | NAB Business Survey (Jul) |  |  | 9 |
+| 00:50 | JPY | Low | M2 Money Stock (YoY) | 1.0% | 0.8% | 0.9% |
+| 00:50 | JPY | Low | M3 Money Supply (Jul) | 2,211.9B |  | 2,204.3B |
+| 01:00 | SGD | Low | GDP (YoY) (Q2) | 4.4% | 4.3% | 4.3% |
+| 59 min | AUD | Moderate | NAB Business Confidence (Jul) |  |  | 5 |
+| 59 min | AUD | Low | NAB Business Survey (Jul) |  |  | 9 |
 | 05:30 | AUD | High | RBA Interest Rate Decision (Aug) |  | 3.60% | 3.85% |
 | 05:30 | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
 | 05:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
