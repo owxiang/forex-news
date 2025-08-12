@@ -25,6 +25,6 @@
 | 13:30 | USD | Real Earnings (MoM) (Jul) | 0.4% |  | -0.3% |
 | 13:30 | EUR | German Current Account Balance n.s.a (Jun) | 18.6B |  | 7.5B |
 | 13:55 | USD | Redbook (YoY) | 5.7% |  | 6.5% |
-| 43 min | USD | FOMC Member Barkin Speaks |  |  |  |
-| 16:00 | USD | Cleveland CPI (MoM) (Jul) |  |  | 0.3% |
+| 15:00 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 53 min | USD | Cleveland CPI (MoM) (Jul) |  |  | 0.3% |
 | 23:45 | NZD | Electronic Card Retail Sales (YoY) (Jul) |  |  | -0.4% |
