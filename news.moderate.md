@@ -13,9 +13,9 @@
 | 10:00 | EUR | German ZEW Current Conditions (Aug) | -68.6 | -65.0 | -59.5 |
 | 10:00 | EUR | German ZEW Economic Sentiment (Aug) | 34.7 | 39.5 | 52.7 |
 | 10:00 | EUR | ZEW Economic Sentiment (Aug) | 25.1 | 28.1 | 36.1 |
-| 23 min | INR | CPI (YoY) (Jul) |  | 1.76% | 2.10% |
-| 53 min | USD | OPEC Monthly Report |  |  |  |
-| 13:00 | BRL | CPI (YoY) (Jul) |  | 5.34% | 5.35% |
+| 11:30 | INR | CPI (YoY) (Jul) | 1.55% | 1.76% | 2.10% |
+| 12:00 | USD | OPEC Monthly Report |  |  |  |
+| 53 min | BRL | CPI (YoY) (Jul) |  | 5.34% | 5.35% |
 | 13:30 | USD | Core CPI (YoY) (Jul) |  | 3.0% | 2.9% |
 | 13:30 | CAD | Building Permits (MoM) (Jun) |  | -3.9% | 12.0% |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |

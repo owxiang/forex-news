@@ -16,8 +16,8 @@
 | 10:30 | ZAR | Unemployment Rate (Q2) | 33.20% |  | 32.90% |
 | 10:30 | ZAR | Unemployment (Q2) | 8.367M |  | 8.228M |
 | 11:00 | USD | NFIB Small Business Optimism (Jul) | 100.3 | 98.9 | 98.6 |
-| 13:00 | BRL | CPI (MoM) (Jul) |  | 0.37% | 0.24% |
-| 13:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Jul) |  |  | 0.31% |
+| 53 min | BRL | CPI (MoM) (Jul) |  | 0.37% | 0.24% |
+| 53 min | BRL | Brazilian IPCA Inflation Index SA (MoM) (Jul) |  |  | 0.31% |
 | 13:30 | USD | Core CPI Index (Jul) |  |  | 327.60 |
 | 13:30 | USD | CPI Index, n.s.a. (Jul) |  | 323.17 | 322.56 |
 | 13:30 | USD | CPI Index, s.a (Jul) |  |  | 321.50 |

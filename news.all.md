@@ -28,11 +28,11 @@
 | 10:30 | ZAR | Low | Unemployment Rate (Q2) | 33.20% |  | 32.90% |
 | 10:30 | ZAR | Low | Unemployment (Q2) | 8.367M |  | 8.228M |
 | 11:00 | USD | Low | NFIB Small Business Optimism (Jul) | 100.3 | 98.9 | 98.6 |
-| 23 min | INR | Moderate | CPI (YoY) (Jul) |  | 1.76% | 2.10% |
-| 53 min | USD | Moderate | OPEC Monthly Report |  |  |  |
-| 13:00 | BRL | Moderate | CPI (YoY) (Jul) |  | 5.34% | 5.35% |
-| 13:00 | BRL | Low | CPI (MoM) (Jul) |  | 0.37% | 0.24% |
-| 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Jul) |  |  | 0.31% |
+| 11:30 | INR | Moderate | CPI (YoY) (Jul) | 1.55% | 1.76% | 2.10% |
+| 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
+| 53 min | BRL | Moderate | CPI (YoY) (Jul) |  | 5.34% | 5.35% |
+| 53 min | BRL | Low | CPI (MoM) (Jul) |  | 0.37% | 0.24% |
+| 53 min | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Jul) |  |  | 0.31% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Jul) |  | 3.0% | 2.9% |
 | 13:30 | USD | High | Core CPI (MoM) (Jul) |  | 0.3% | 0.2% |
 | 13:30 | USD | Low | Core CPI Index (Jul) |  |  | 327.60 |
