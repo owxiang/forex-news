@@ -7,7 +7,7 @@
 | 00:50 | JPY | Low | M3 Money Supply (Jul) | 2,211.9B |  | 2,204.3B |
 | 01:00 | SGD | Low | GDP (YoY) (Q2) | 4.4% | 4.3% | 4.3% |
 | 02:30 | AUD | Moderate | NAB Business Confidence (Jul) | 7 |  | 5 |
-| 02:30 | AUD | Low | NAB Business Survey (Jul) | 5 |  | 9 |
+| 02:30 | AUD | Low | NAB Business Survey (Jul) | 5 |  | 7 |
 | 05:30 | AUD | High | RBA Interest Rate Decision (Aug) |  | 3.60% | 3.85% |
 | 05:30 | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
 | 05:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
@@ -31,11 +31,11 @@
 | 11:30 | INR | Moderate | CPI (YoY) (Jul) |  | 1.76% | 2.10% |
 | 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 13:00 | EUR | Low | German Current Account Balance n.s.a (Jun) |  |  | 9.6B |
-| 13:00 | BRL | Low | CPI (MoM) (Jul) |  | 0.37% | 0.24% |
 | 13:00 | BRL | Moderate | CPI (YoY) (Jul) |  | 5.34% | 5.35% |
+| 13:00 | BRL | Low | CPI (MoM) (Jul) |  | 0.37% | 0.24% |
 | 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Jul) |  |  | 0.31% |
-| 13:30 | USD | Moderate | Core CPI (YoY) (Jul) |  | 3.0% | 2.9% |
 | 13:30 | USD | High | Core CPI (MoM) (Jul) |  | 0.3% | 0.2% |
+| 13:30 | USD | Moderate | Core CPI (YoY) (Jul) |  | 3.0% | 2.9% |
 | 13:30 | USD | Low | Core CPI Index (Jul) |  |  | 327.60 |
 | 13:30 | USD | High | CPI (MoM) (Jul) |  | 0.2% | 0.3% |
 | 13:30 | USD | High | CPI (YoY) (Jul) |  | 2.8% | 2.7% |
