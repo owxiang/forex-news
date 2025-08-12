@@ -36,8 +36,8 @@
 | 13:30 | USD | High | Core CPI (MoM) (Jul) | 0.3% | 0.3% | 0.2% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Jul) | 3.1% | 3.0% | 2.9% |
 | 13:30 | USD | Low | Core CPI Index (Jul) | 328.66 |  | 327.60 |
-| 13:30 | USD | High | CPI (MoM) (Jul) | 0.2% | 0.2% | 0.3% |
 | 13:30 | USD | High | CPI (YoY) (Jul) | 2.7% | 2.8% | 2.7% |
+| 13:30 | USD | High | CPI (MoM) (Jul) | 0.2% | 0.2% | 0.3% |
 | 13:30 | USD | Low | CPI Index, n.s.a. (Jul) | 323.05 | 323.17 | 322.56 |
 | 13:30 | USD | Low | CPI Index, s.a (Jul) | 322.13 |  | 321.50 |
 | 13:30 | USD | Low | CPI, n.s.a (MoM) (Jul) | 0.15% |  | 0.34% |
@@ -48,7 +48,7 @@
 | 15:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |
-| 19:00 | USD | Moderate | Federal Budget Balance (Jul) |  | -206.7B | 27.0B |
+| 52 min | USD | Moderate | Federal Budget Balance (Jul) |  | -206.7B | 27.0B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -0.800M | -4.200M |
-| 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Jul) |  |  | -0.4% |
 | 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Jul) |  |  | 0.5% |
+| 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Jul) |  |  | -0.4% |
