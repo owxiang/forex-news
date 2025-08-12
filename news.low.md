@@ -8,14 +8,14 @@
 | 01:00 | SGD | GDP (YoY) (Q2) | 4.4% | 4.3% | 4.1% |
 | 02:30 | AUD | NAB Business Survey (Jul) | 5 |  | 7 |
 | 07:00 | GBP | Average Earnings ex Bonus (Jun) | 5.0% | 5.0% | 5.0% |
-| 41 min | EUR | Spanish 3-Month Letras Auction |  |  | 1.905% |
-| 10:10 | EUR | Italian 12-Month BOT Auction |  |  | 1.961% |
-| 10:30 | GBP | 5-Year Treasury Gilt Auction |  |  | 4.078% |
-| 10:30 | ZAR | Gold Production (YoY) (Jun) |  |  | 1.5% |
-| 10:30 | ZAR | Mining Production (Jun) |  |  | 0.2% |
-| 10:30 | ZAR | Unemployment Rate (Q2) |  |  | 32.90% |
-| 10:30 | ZAR | Unemployment (Q2) |  |  | 8.228M |
-| 11:00 | USD | NFIB Small Business Optimism (Jul) |  | 98.9 | 98.6 |
+| 09:50 | EUR | Spanish 3-Month Letras Auction | 1.929% |  | 1.905% |
+| 2 min | EUR | Italian 12-Month BOT Auction |  |  | 1.961% |
+| 22 min | GBP | 5-Year Treasury Gilt Auction |  |  | 4.078% |
+| 22 min | ZAR | Gold Production (YoY) (Jun) |  |  | 1.5% |
+| 22 min | ZAR | Mining Production (Jun) |  |  | 0.2% |
+| 22 min | ZAR | Unemployment Rate (Q2) |  |  | 32.90% |
+| 22 min | ZAR | Unemployment (Q2) |  |  | 8.228M |
+| 52 min | USD | NFIB Small Business Optimism (Jul) |  | 98.9 | 98.6 |
 | 13:00 | BRL | CPI (MoM) (Jul) |  | 0.37% | 0.24% |
 | 13:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Jul) |  |  | 0.31% |
 | 13:30 | USD | Core CPI Index (Jul) |  |  | 327.60 |
