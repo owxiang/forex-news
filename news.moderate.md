@@ -16,8 +16,8 @@
 | 11:30 | INR | CPI (YoY) (Jul) | 1.55% | 1.76% | 2.10% |
 | 12:00 | USD | OPEC Monthly Report |  |  |  |
 | 13:00 | BRL | CPI (YoY) (Jul) | 5.23% | 5.34% | 5.35% |
-| 18 min | USD | Core CPI (YoY) (Jul) |  | 3.0% | 2.9% |
-| 18 min | CAD | Building Permits (MoM) (Jun) |  | -3.9% | 12.0% |
+| 13:30 | USD | Core CPI (YoY) (Jul) | 3.1% | 3.0% | 2.9% |
+| 13:30 | CAD | Building Permits (MoM) (Jun) | -9.0% | -3.9% | 12.8% |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 17:00 | USD | WASDE Report |  |  |  |
 | 19:00 | USD | Federal Budget Balance (Jul) |  | -206.7B | 27.0B |

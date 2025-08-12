@@ -18,13 +18,13 @@
 | 11:00 | USD | NFIB Small Business Optimism (Jul) | 100.3 | 98.9 | 98.6 |
 | 13:00 | BRL | CPI (MoM) (Jul) | 0.26% | 0.37% | 0.24% |
 | 13:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Jul) | 0.35% |  | 0.31% |
-| 18 min | USD | Core CPI Index (Jul) |  |  | 327.60 |
-| 18 min | USD | CPI Index, n.s.a. (Jul) |  | 323.17 | 322.56 |
-| 18 min | USD | CPI Index, s.a (Jul) |  |  | 321.50 |
-| 18 min | USD | CPI, n.s.a (MoM) (Jul) |  |  | 0.34% |
-| 18 min | USD | Real Earnings (MoM) (Jul) |  |  | -0.4% |
-| 33 min | EUR | German Current Account Balance n.s.a (Jun) |  |  | 9.6B |
-| 43 min | USD | Redbook (YoY) |  |  | 6.5% |
-| 15:00 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 13:30 | USD | Core CPI Index (Jul) | 328.66 |  | 327.60 |
+| 13:30 | USD | CPI Index, n.s.a. (Jul) | 323.05 | 323.17 | 322.56 |
+| 13:30 | USD | CPI Index, s.a (Jul) | 322.13 |  | 321.50 |
+| 13:30 | USD | CPI, n.s.a (MoM) (Jul) | 0.15% |  | 0.34% |
+| 13:30 | USD | Real Earnings (MoM) (Jul) | 0.4% |  | -0.3% |
+| 13:30 | EUR | German Current Account Balance n.s.a (Jun) | 18.6B |  | 7.5B |
+| 13:55 | USD | Redbook (YoY) | 5.7% |  | 6.5% |
+| 43 min | USD | FOMC Member Barkin Speaks |  |  |  |
 | 16:00 | USD | Cleveland CPI (MoM) (Jul) |  |  | 0.3% |
 | 23:45 | NZD | Electronic Card Retail Sales (YoY) (Jul) |  |  | -0.4% |
