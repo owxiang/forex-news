@@ -21,15 +21,15 @@
 | 10:00 | EUR | Moderate | German ZEW Current Conditions (Aug) | -68.6 | -65.0 | -59.5 |
 | 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Aug) | 34.7 | 39.5 | 52.7 |
 | 10:00 | EUR | Moderate | ZEW Economic Sentiment (Aug) | 25.1 | 28.1 | 36.1 |
-| 2 min | EUR | Low | Italian 12-Month BOT Auction |  |  | 1.961% |
-| 22 min | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.078% |
-| 22 min | ZAR | Low | Gold Production (YoY) (Jun) |  |  | 1.5% |
-| 22 min | ZAR | Low | Mining Production (Jun) |  |  | 0.2% |
-| 22 min | ZAR | Low | Unemployment Rate (Q2) |  |  | 32.90% |
-| 22 min | ZAR | Low | Unemployment (Q2) |  |  | 8.228M |
-| 52 min | USD | Low | NFIB Small Business Optimism (Jul) |  | 98.9 | 98.6 |
-| 11:30 | INR | Moderate | CPI (YoY) (Jul) |  | 1.76% | 2.10% |
-| 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
+| 10:30 | GBP | Low | 5-Year Treasury Gilt Auction | 4.022% |  | 4.078% |
+| 10:30 | EUR | Low | Italian 12-Month BOT Auction | 2.012% |  | 1.961% |
+| 10:30 | ZAR | Low | Gold Production (YoY) (Jun) | 3.1% |  | 1.5% |
+| 10:30 | ZAR | Low | Mining Production (Jun) | 2.4% |  | 0.3% |
+| 10:30 | ZAR | Low | Unemployment Rate (Q2) | 33.20% |  | 32.90% |
+| 10:30 | ZAR | Low | Unemployment (Q2) | 8.367M |  | 8.228M |
+| 11:00 | USD | Low | NFIB Small Business Optimism (Jul) | 100.3 | 98.9 | 98.6 |
+| 23 min | INR | Moderate | CPI (YoY) (Jul) |  | 1.76% | 2.10% |
+| 53 min | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 13:00 | BRL | Moderate | CPI (YoY) (Jul) |  | 5.34% | 5.35% |
 | 13:00 | BRL | Low | CPI (MoM) (Jul) |  | 0.37% | 0.24% |
 | 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Jul) |  |  | 0.31% |
