@@ -12,15 +12,15 @@
 | 04:00 | KRW | M3 Money Supply (Jun) | 5,851.1B |  | 5,815.4B |
 | 04:00 | KRW | M2 Money supply (Jun) | 5.40% | 5.50% | 6.00% |
 | 04:35 | JPY | 5-Year JGB Auction | 1.056% |  | 0.989% |
-| 07:00 | EUR | German HICP (MoM) (Jul) | 0.4% | 0.4% | 0.1% |
 | 07:00 | EUR | German HICP (YoY) (Jul) | 1.8% | 1.8% | 2.0% |
-| 07:00 | EUR | German WPI (MoM) (Jul) | -0.1% | 0.2% | 0.2% |
+| 07:00 | EUR | German HICP (MoM) (Jul) | 0.4% | 0.4% | 0.1% |
 | 07:00 | EUR | German WPI (YoY) (Jul) | 0.5% |  | 0.9% |
+| 07:00 | EUR | German WPI (MoM) (Jul) | -0.1% | 0.2% | 0.2% |
 | 07:00 | JPY | Machine Tool Orders (YoY) (Jul) | 3.6% |  | -0.5% |
-| 07:30 | NOK | Consumer Confidence (Q3) |  |  | -16.40 |
-| 08:00 | EUR | Core CPI (YoY) (Jul) |  | 2.3% | 2.2% |
-| 08:00 | EUR | Spanish CPI (MoM) (Jul) |  | -0.1% | 0.7% |
-| 08:00 | EUR | Spanish HICP (MoM) (Jul) |  | -0.4% | 0.7% |
+| 07:30 | NOK | Consumer Confidence (Q3) | -3.60 |  | -9.10 |
+| 08:00 | EUR | Core CPI (YoY) (Jul) | 2.3% | 2.3% | 2.2% |
+| 08:00 | EUR | Spanish CPI (MoM) (Jul) | -0.1% | -0.1% | 0.7% |
+| 08:00 | EUR | Spanish HICP (MoM) (Jul) | -0.3% | -0.4% | 0.7% |
 | 10:30 | ZAR | Business Confidence (Jul) |  |  | 115.8 |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.77% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 3.1% |

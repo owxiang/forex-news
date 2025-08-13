@@ -5,8 +5,8 @@
 | 02:30 | AUD | Home Loans (MoM) | 2.4% |  | -1.8% |
 | 02:30 | AUD | Wage Price Index (QoQ) (Q2) | 0.8% | 0.8% | 0.9% |
 | 07:00 | EUR | German CPI (YoY) (Jul) | 2.0% | 2.0% | 2.0% |
-| 08:00 | EUR | Spanish CPI (YoY) (Jul) |  | 2.7% | 2.3% |
-| 08:00 | EUR | Spanish HICP (YoY) (Jul) |  | 2.7% | 2.3% |
+| 08:00 | EUR | Spanish CPI (YoY) (Jul) | 2.7% | 2.7% | 2.3% |
+| 08:00 | EUR | Spanish HICP (YoY) (Jul) | 2.7% | 2.7% | 2.3% |
 | 09:00 | USD | IEA Monthly Report |  |  |  |
 | 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.620% |
 | 13:00 | BRL | Retail Sales (YoY) (Jun) |  | 2.4% | 2.1% |
