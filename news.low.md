@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | KRW | Unemployment Rate (Jul) | 2.5% |  | 2.6% |
 | 00:00 | JPY | Reuters Tankan Index (Aug) | 9 |  | 7 |
-| 00:50 | JPY | PPI (MoM) (Jul) | 0.2% | 0.2% | -0.1% |
 | 00:50 | JPY | PPI (YoY) (Jul) | 2.6% | 2.5% | 2.9% |
+| 00:50 | JPY | PPI (MoM) (Jul) | 0.2% | 0.2% | -0.1% |
 | 02:30 | AUD | Invest Housing Finance (MoM) | 1.4% |  | 0.0% |
 | 02:30 | AUD | RBA Chart Pack Release |  |  |  |
 | 02:30 | AUD | Wage Price Index (YoY) (Q2) | 3.4% | 3.3% | 3.4% |
@@ -21,16 +21,16 @@
 | 08:00 | EUR | Core CPI (YoY) (Jul) | 2.3% | 2.3% | 2.2% |
 | 08:00 | EUR | Spanish CPI (MoM) (Jul) | -0.1% | -0.1% | 0.7% |
 | 08:00 | EUR | Spanish HICP (MoM) (Jul) | -0.3% | -0.4% | 0.7% |
-| 10:01 | CNY | M2 Money Stock (YoY) (Jul) | 8.8% |  | 8.3% |
-| 10:01 | CNY | Outstanding Loan Growth (YoY) (Jul) | 6.9% |  | 7.1% |
-| 10:04 | CNY | Chinese Total Social Financing (Jul) | 1,160.0B |  | 4,200.0B |
-| 21 min | ZAR | Business Confidence (Jul) |  |  | 115.8 |
-| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.77% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 3.1% |
-| 12:00 | USD | MBA Purchase Index |  |  | 158.0 |
-| 12:00 | USD | Mortgage Market Index |  |  | 253.4 |
-| 12:00 | USD | Mortgage Refinance Index |  |  | 777.4 |
-| 12:00 | ZAR | Retail Sales (YoY) (Jun) |  |  | 4.2% |
+| 10:00 | CNY | M2 Money Stock (YoY) (Jul) | 8.8% | 8.3% | 8.3% |
+| 10:00 | CNY | Outstanding Loan Growth (YoY) (Jul) | 6.9% | 7.0% | 7.1% |
+| 10:00 | CNY | Chinese Total Social Financing (Jul) | 1,160.0B | 1,500.0B | 4,200.0B |
+| 10:30 | ZAR | Business Confidence (Jul) | 116.7 |  | 115.8 |
+| 53 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.77% |
+| 53 min | USD | MBA Mortgage Applications (WoW) |  |  | 3.1% |
+| 53 min | USD | MBA Purchase Index |  |  | 158.0 |
+| 53 min | USD | Mortgage Market Index |  |  | 253.4 |
+| 53 min | USD | Mortgage Refinance Index |  |  | 777.4 |
+| 53 min | ZAR | Retail Sales (YoY) (Jun) |  |  | 4.2% |
 | 13:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.213M |
 | 15:30 | USD | Crude Oil Imports |  |  | -0.794M |
