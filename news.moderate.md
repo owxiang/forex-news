@@ -12,5 +12,5 @@
 | 10:30 | EUR | German 10-Year Bund Auction | 2.690% |  | 2.620% |
 | 13:00 | BRL | Retail Sales (YoY) (Jun) | 0.3% | 2.4% | 1.7% |
 | 13:00 | BRL | Retail Sales (MoM) (Jun) | -0.1% | 0.7% | -0.4% |
-| 15:30 | USD | Cushing Crude Oil Inventories |  |  | 0.453M |
+| 15:30 | USD | Cushing Crude Oil Inventories | 0.045M |  | 0.453M |
 | 18:30 | USD | FOMC Member Bostic Speaks |  |  |  |

@@ -16,8 +16,8 @@
 | 04:35 | JPY | Low | 5-Year JGB Auction | 1.056% |  | 0.989% |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Jul) | 2.0% | 2.0% | 2.0% |
 | 07:00 | EUR | High | German CPI (MoM) (Jul) | 0.3% | 0.3% | 0.0% |
-| 07:00 | EUR | Low | German HICP (YoY) (Jul) | 1.8% | 1.8% | 2.0% |
 | 07:00 | EUR | Low | German HICP (MoM) (Jul) | 0.4% | 0.4% | 0.1% |
+| 07:00 | EUR | Low | German HICP (YoY) (Jul) | 1.8% | 1.8% | 2.0% |
 | 07:00 | EUR | Low | German WPI (MoM) (Jul) | -0.1% | 0.2% | 0.2% |
 | 07:00 | EUR | Low | German WPI (YoY) (Jul) | 0.5% |  | 0.9% |
 | 07:00 | JPY | Low | Machine Tool Orders (YoY) (Jul) | 3.6% |  | -0.5% |
@@ -43,21 +43,21 @@
 | 13:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 13:00 | BRL | Moderate | Retail Sales (YoY) (Jun) | 0.3% | 2.4% | 1.7% |
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (Jun) | -0.1% | 0.7% | -0.4% |
-| 15:30 | USD | High | Crude Oil Inventories |  | -0.900M | -3.029M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.213M |
-| 15:30 | USD | Low | Crude Oil Imports |  |  | -0.794M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.453M |
-| 15:30 | USD | Low | Distillate Fuel Production |  |  | -0.104M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | 0.350M | -0.565M |
-| 15:30 | USD | Low | Gasoline Production |  |  | -0.239M |
-| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | -0.456M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.5% |
-| 15:30 | USD | Low | Gasoline Inventories |  | -1.000M | -1.323M |
+| 15:30 | USD | High | Crude Oil Inventories | 3.036M | -0.900M | -3.029M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.056M |  | 0.213M |
+| 15:30 | USD | Low | Crude Oil Imports | 0.699M |  | -0.794M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | 0.045M |  | 0.453M |
+| 15:30 | USD | Low | Distillate Fuel Production | 0.032M |  | -0.104M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks | 0.714M | 0.350M | -0.565M |
+| 15:30 | USD | Low | Gasoline Production | 0.010M |  | -0.239M |
+| 15:30 | USD | Low | Heating Oil Stockpiles | 0.827M |  | -0.456M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -0.5% |  | 1.5% |
+| 15:30 | USD | Low | Gasoline Inventories | -0.792M | -1.000M | -1.323M |
 | 16:00 | USD | Low | Cleveland CPI (MoM) (Jul) |  |  | 0.3% |
-| 16:00 | USD | Low | Thomson Reuters IPSOS PCSI (Aug) |  |  | 53.80 |
-| 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 48.07 |
-| 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 54.97 |
-| 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Aug) |  |  | 51.15 |
+| 16:00 | USD | Low | Thomson Reuters IPSOS PCSI (Aug) | 53.43 |  | 53.80 |
+| 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Aug) | 47.70 |  | 48.07 |
+| 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Aug) | 53.15 |  | 54.97 |
+| 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Aug) | 51.04 |  | 51.15 |
 | 16:15 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 18:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 18:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
