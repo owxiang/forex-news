@@ -23,8 +23,8 @@
 | 07:00 | JPY | Low | Machine Tool Orders (YoY) (Jul) |  |  | -0.5% |
 | 07:30 | NOK | Low | Consumer Confidence (Q3) |  |  | -16.40 |
 | 08:00 | EUR | Low | Core CPI (YoY) (Jul) |  | 2.3% | 2.2% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jul) |  | 2.7% | 2.3% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Jul) |  | -0.1% | 0.7% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jul) |  | 2.7% | 2.3% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jul) |  | 2.7% | 2.3% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Jul) |  | -0.4% | 0.7% |
 | 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
