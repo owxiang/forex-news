@@ -16,8 +16,8 @@
 | 04:35 | JPY | Low | 5-Year JGB Auction | 1.056% |  | 0.989% |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Jul) | 2.0% | 2.0% | 2.0% |
 | 07:00 | EUR | High | German CPI (MoM) (Jul) | 0.3% | 0.3% | 0.0% |
-| 07:00 | EUR | Low | German HICP (YoY) (Jul) | 1.8% | 1.8% | 2.0% |
 | 07:00 | EUR | Low | German HICP (MoM) (Jul) | 0.4% | 0.4% | 0.1% |
+| 07:00 | EUR | Low | German HICP (YoY) (Jul) | 1.8% | 1.8% | 2.0% |
 | 07:00 | EUR | Low | German WPI (MoM) (Jul) | -0.1% | 0.2% | 0.2% |
 | 07:00 | EUR | Low | German WPI (YoY) (Jul) | 0.5% |  | 0.9% |
 | 07:00 | JPY | Low | Machine Tool Orders (YoY) (Jul) | 3.6% |  | -0.5% |
