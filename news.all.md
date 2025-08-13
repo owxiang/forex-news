@@ -16,8 +16,8 @@
 | 04:35 | JPY | Low | 5-Year JGB Auction | 1.056% |  | 0.989% |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Jul) | 2.0% | 2.0% | 2.0% |
 | 07:00 | EUR | High | German CPI (MoM) (Jul) | 0.3% | 0.3% | 0.0% |
-| 07:00 | EUR | Low | German HICP (MoM) (Jul) | 0.4% | 0.4% | 0.1% |
 | 07:00 | EUR | Low | German HICP (YoY) (Jul) | 1.8% | 1.8% | 2.0% |
+| 07:00 | EUR | Low | German HICP (MoM) (Jul) | 0.4% | 0.4% | 0.1% |
 | 07:00 | EUR | Low | German WPI (MoM) (Jul) | -0.1% | 0.2% | 0.2% |
 | 07:00 | EUR | Low | German WPI (YoY) (Jul) | 0.5% |  | 0.9% |
 | 07:00 | JPY | Low | Machine Tool Orders (YoY) (Jul) | 3.6% |  | -0.5% |
@@ -34,15 +34,15 @@
 | 10:00 | CNY | Low | Chinese Total Social Financing (Jul) | 1,160.0B | 1,500.0B | 4,200.0B |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction | 2.690% |  | 2.620% |
 | 10:30 | ZAR | Low | Business Confidence (Jul) | 116.7 |  | 115.8 |
-| 53 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.77% |
-| 53 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | 3.1% |
-| 53 min | USD | Low | MBA Purchase Index |  |  | 158.0 |
-| 53 min | USD | Low | Mortgage Market Index |  |  | 253.4 |
-| 53 min | USD | Low | Mortgage Refinance Index |  |  | 777.4 |
-| 53 min | ZAR | Low | Retail Sales (YoY) (Jun) |  |  | 4.2% |
-| 13:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 13:00 | BRL | Moderate | Retail Sales (YoY) (Jun) |  | 2.4% | 2.1% |
-| 13:00 | BRL | Moderate | Retail Sales (MoM) (Jun) |  | 0.7% | -0.2% |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.67% |  | 6.77% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | 10.9% |  | 3.1% |
+| 12:00 | USD | Low | MBA Purchase Index | 160.2 |  | 158.0 |
+| 12:00 | USD | Low | Mortgage Market Index | 281.1 |  | 253.4 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 956.2 |  | 777.4 |
+| 12:00 | ZAR | Low | Retail Sales (YoY) (Jun) | 1.6% |  | 4.3% |
+| 54 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 54 min | BRL | Moderate | Retail Sales (YoY) (Jun) |  | 2.4% | 2.1% |
+| 54 min | BRL | Moderate | Retail Sales (MoM) (Jun) |  | 0.7% | -0.2% |
 | 15:30 | USD | High | Crude Oil Inventories |  | -0.900M | -3.029M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.213M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | -0.794M |

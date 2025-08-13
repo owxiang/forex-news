@@ -12,8 +12,8 @@
 | 04:00 | KRW | M3 Money Supply (Jun) | 5,851.1B |  | 5,815.4B |
 | 04:00 | KRW | M2 Money supply (Jun) | 5.40% | 5.50% | 6.00% |
 | 04:35 | JPY | 5-Year JGB Auction | 1.056% |  | 0.989% |
-| 07:00 | EUR | German HICP (MoM) (Jul) | 0.4% | 0.4% | 0.1% |
 | 07:00 | EUR | German HICP (YoY) (Jul) | 1.8% | 1.8% | 2.0% |
+| 07:00 | EUR | German HICP (MoM) (Jul) | 0.4% | 0.4% | 0.1% |
 | 07:00 | EUR | German WPI (MoM) (Jul) | -0.1% | 0.2% | 0.2% |
 | 07:00 | EUR | German WPI (YoY) (Jul) | 0.5% |  | 0.9% |
 | 07:00 | JPY | Machine Tool Orders (YoY) (Jul) | 3.6% |  | -0.5% |
@@ -25,13 +25,13 @@
 | 10:00 | CNY | Outstanding Loan Growth (YoY) (Jul) | 6.9% | 7.0% | 7.1% |
 | 10:00 | CNY | Chinese Total Social Financing (Jul) | 1,160.0B | 1,500.0B | 4,200.0B |
 | 10:30 | ZAR | Business Confidence (Jul) | 116.7 |  | 115.8 |
-| 53 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.77% |
-| 53 min | USD | MBA Mortgage Applications (WoW) |  |  | 3.1% |
-| 53 min | USD | MBA Purchase Index |  |  | 158.0 |
-| 53 min | USD | Mortgage Market Index |  |  | 253.4 |
-| 53 min | USD | Mortgage Refinance Index |  |  | 777.4 |
-| 53 min | ZAR | Retail Sales (YoY) (Jun) |  |  | 4.2% |
-| 13:00 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.67% |  | 6.77% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | 10.9% |  | 3.1% |
+| 12:00 | USD | MBA Purchase Index | 160.2 |  | 158.0 |
+| 12:00 | USD | Mortgage Market Index | 281.1 |  | 253.4 |
+| 12:00 | USD | Mortgage Refinance Index | 956.2 |  | 777.4 |
+| 12:00 | ZAR | Retail Sales (YoY) (Jun) | 1.6% |  | 4.3% |
+| 54 min | USD | FOMC Member Barkin Speaks |  |  |  |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.213M |
 | 15:30 | USD | Crude Oil Imports |  |  | -0.794M |
 | 15:30 | USD | Distillate Fuel Production |  |  | -0.104M |

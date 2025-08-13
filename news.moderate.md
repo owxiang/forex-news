@@ -10,7 +10,7 @@
 | 09:00 | USD | IEA Monthly Report |  |  |  |
 | 10:00 | CNY | New Loans (Jul) | -50.0B | 305.0B | 2,240.0B |
 | 10:30 | EUR | German 10-Year Bund Auction | 2.690% |  | 2.620% |
-| 13:00 | BRL | Retail Sales (YoY) (Jun) |  | 2.4% | 2.1% |
-| 13:00 | BRL | Retail Sales (MoM) (Jun) |  | 0.7% | -0.2% |
+| 54 min | BRL | Retail Sales (YoY) (Jun) |  | 2.4% | 2.1% |
+| 54 min | BRL | Retail Sales (MoM) (Jun) |  | 0.7% | -0.2% |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | 0.453M |
 | 18:30 | USD | FOMC Member Bostic Speaks |  |  |  |
