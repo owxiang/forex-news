@@ -4,18 +4,18 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | KRW | Unemployment Rate (Jul) | 2.5% |  | 2.6% |
 | 00:00 | JPY | Reuters Tankan Index (Aug) | 9 |  | 7 |
-| 00:50 | JPY | PPI (MoM) (Jul) | 0.2% | 0.2% | -0.1% |
 | 00:50 | JPY | PPI (YoY) (Jul) | 2.6% | 2.5% | 2.9% |
+| 00:50 | JPY | PPI (MoM) (Jul) | 0.2% | 0.2% | -0.1% |
 | 02:30 | AUD | Invest Housing Finance (MoM) | 1.4% |  | -0.3% |
 | 02:30 | AUD | RBA Chart Pack Release |  |  |  |
 | 02:30 | AUD | Wage Price Index (YoY) (Q2) | 3.4% | 3.3% | 3.4% |
 | 04:00 | KRW | M3 Money Supply (Jun) | 5,851.1B |  | 5,815.4B |
 | 04:00 | KRW | M2 Money supply (Jun) | 5.40% | 5.50% | 6.00% |
-| 04:35 | JPY | 5-Year JGB Auction |  |  | 0.989% |
-| 07:00 | EUR | German HICP (MoM) (Jul) |  | 0.4% | 0.1% |
+| 04:35 | JPY | 5-Year JGB Auction | 1.056% |  | 0.989% |
 | 07:00 | EUR | German HICP (YoY) (Jul) |  | 1.8% | 2.0% |
-| 07:00 | EUR | German WPI (MoM) (Jul) |  | 0.2% | 0.2% |
+| 07:00 | EUR | German HICP (MoM) (Jul) |  | 0.4% | 0.1% |
 | 07:00 | EUR | German WPI (YoY) (Jul) |  |  | 0.9% |
+| 07:00 | EUR | German WPI (MoM) (Jul) |  | 0.2% | 0.2% |
 | 07:00 | JPY | Machine Tool Orders (YoY) (Jul) |  |  | -0.5% |
 | 07:30 | NOK | Consumer Confidence (Q3) |  |  | -16.40 |
 | 08:00 | EUR | Core CPI (YoY) (Jul) |  | 2.3% | 2.2% |
