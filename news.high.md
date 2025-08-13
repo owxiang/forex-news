@@ -4,3 +4,4 @@
 |------|----------|-------|--------|----------|----------|
 | 07:00 | EUR | German CPI (MoM) (Jul) | 0.3% | 0.3% | 0.0% |
 | 15:30 | USD | Crude Oil Inventories |  | -0.900M | -3.029M |
+| 16:15 | USD | U.S. President Trump Speaks |  |  |  |

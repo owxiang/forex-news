@@ -31,15 +31,15 @@
 | 12:00 | USD | Mortgage Market Index | 281.1 |  | 253.4 |
 | 12:00 | USD | Mortgage Refinance Index | 956.2 |  | 777.4 |
 | 12:00 | ZAR | Retail Sales (YoY) (Jun) | 1.6% |  | 4.3% |
-| 54 min | USD | FOMC Member Barkin Speaks |  |  |  |
+| 13:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.213M |
 | 15:30 | USD | Crude Oil Imports |  |  | -0.794M |
 | 15:30 | USD | Distillate Fuel Production |  |  | -0.104M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | -0.565M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  | 0.350M | -0.565M |
 | 15:30 | USD | Gasoline Production |  |  | -0.239M |
 | 15:30 | USD | Heating Oil Stockpiles |  |  | -0.456M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.5% |
-| 15:30 | USD | Gasoline Inventories |  |  | -1.323M |
+| 15:30 | USD | Gasoline Inventories |  | -1.000M | -1.323M |
 | 16:00 | USD | Cleveland CPI (MoM) (Jul) |  |  | 0.3% |
 | 16:00 | USD | Thomson Reuters IPSOS PCSI (Aug) |  |  | 53.80 |
 | 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 48.07 |
