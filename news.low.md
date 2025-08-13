@@ -4,11 +4,11 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | KRW | Unemployment Rate (Jul) | 2.5% |  | 2.6% |
 | 00:00 | JPY | Reuters Tankan Index (Aug) | 9 |  | 7 |
-| 00:50 | JPY | PPI (MoM) (Jul) |  | 0.2% | -0.2% |
-| 00:50 | JPY | PPI (YoY) (Jul) |  | 2.5% | 2.9% |
-| 02:30 | AUD | Invest Housing Finance (MoM) |  |  | -0.3% |
-| 02:30 | AUD | RBA Chart Pack Release |  |  |  |
-| 02:30 | AUD | Wage Price Index (YoY) (Q2) |  | 3.3% | 3.4% |
+| 00:50 | JPY | PPI (YoY) (Jul) | 2.6% | 2.5% | 2.9% |
+| 00:50 | JPY | PPI (MoM) (Jul) | 0.2% | 0.2% | -0.1% |
+| 58 min | AUD | Invest Housing Finance (MoM) |  |  | -0.3% |
+| 58 min | AUD | RBA Chart Pack Release |  |  |  |
+| 58 min | AUD | Wage Price Index (YoY) (Q2) |  | 3.3% | 3.4% |
 | 04:00 | KRW | M3 Money Supply (Jun) |  |  | 5,815.4B |
 | 04:00 | KRW | M2 Money supply (Jun) |  |  | 6.00% |
 | 04:35 | JPY | 5-Year JGB Auction |  |  | 0.989% |
