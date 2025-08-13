@@ -14,8 +14,8 @@
 | 04:35 | JPY | 5-Year JGB Auction | 1.056% |  | 0.989% |
 | 07:00 | EUR | German HICP (YoY) (Jul) | 1.8% | 1.8% | 2.0% |
 | 07:00 | EUR | German HICP (MoM) (Jul) | 0.4% | 0.4% | 0.1% |
-| 07:00 | EUR | German WPI (YoY) (Jul) | 0.5% |  | 0.9% |
 | 07:00 | EUR | German WPI (MoM) (Jul) | -0.1% | 0.2% | 0.2% |
+| 07:00 | EUR | German WPI (YoY) (Jul) | 0.5% |  | 0.9% |
 | 07:00 | JPY | Machine Tool Orders (YoY) (Jul) | 3.6% |  | -0.5% |
 | 07:30 | NOK | Consumer Confidence (Q3) | -3.60 |  | -9.10 |
 | 08:00 | EUR | Core CPI (YoY) (Jul) | 2.3% | 2.3% | 2.2% |
