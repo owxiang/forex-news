@@ -4,27 +4,27 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | KRW | Low | Unemployment Rate (Jul) | 2.5% |  | 2.6% |
 | 00:00 | JPY | Low | Reuters Tankan Index (Aug) | 9 |  | 7 |
-| 00:50 | JPY | Low | PPI (YoY) (Jul) | 2.6% | 2.5% | 2.9% |
 | 00:50 | JPY | Low | PPI (MoM) (Jul) | 0.2% | 0.2% | -0.1% |
+| 00:50 | JPY | Low | PPI (YoY) (Jul) | 2.6% | 2.5% | 2.9% |
 | 02:30 | AUD | Moderate | Home Loans (MoM) | 2.4% |  | -2.5% |
 | 02:30 | AUD | Low | Invest Housing Finance (MoM) | 1.4% |  | -0.3% |
 | 02:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
-| 02:30 | AUD | Low | Wage Price Index (YoY) (Q2) | 3.4% | 3.3% | 3.4% |
 | 02:30 | AUD | Moderate | Wage Price Index (QoQ) (Q2) | 0.8% | 0.8% | 0.9% |
-| 04:00 | KRW | Low | M3 Money Supply (Jun) |  |  | 5,815.4B |
-| 04:00 | KRW | Low | M2 Money supply (Jun) |  |  | 6.00% |
+| 02:30 | AUD | Low | Wage Price Index (YoY) (Q2) | 3.4% | 3.3% | 3.4% |
+| 04:00 | KRW | Low | M3 Money Supply (Jun) | 5,851.1B |  | 5,815.4B |
+| 04:00 | KRW | Low | M2 Money supply (Jun) | 5.40% | 5.50% | 6.00% |
 | 04:35 | JPY | Low | 5-Year JGB Auction |  |  | 0.989% |
-| 07:00 | EUR | Moderate | German CPI (YoY) (Jul) |  | 2.0% | 2.0% |
 | 07:00 | EUR | High | German CPI (MoM) (Jul) |  | 0.3% | 0.0% |
-| 07:00 | EUR | Low | German HICP (YoY) (Jul) |  | 1.8% | 2.0% |
+| 07:00 | EUR | Moderate | German CPI (YoY) (Jul) |  | 2.0% | 2.0% |
 | 07:00 | EUR | Low | German HICP (MoM) (Jul) |  | 0.4% | 0.1% |
+| 07:00 | EUR | Low | German HICP (YoY) (Jul) |  | 1.8% | 2.0% |
 | 07:00 | EUR | Low | German WPI (MoM) (Jul) |  | 0.2% | 0.2% |
 | 07:00 | EUR | Low | German WPI (YoY) (Jul) |  |  | 0.9% |
 | 07:00 | JPY | Low | Machine Tool Orders (YoY) (Jul) |  |  | -0.5% |
 | 07:30 | NOK | Low | Consumer Confidence (Q3) |  |  | -16.40 |
 | 08:00 | EUR | Low | Core CPI (YoY) (Jul) |  | 2.3% | 2.2% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Jul) |  | -0.1% | 0.7% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jul) |  | 2.7% | 2.3% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Jul) |  | -0.1% | 0.7% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Jul) |  | -0.4% | 0.7% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jul) |  | 2.7% | 2.3% |
 | 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
@@ -37,8 +37,8 @@
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 777.4 |
 | 12:00 | ZAR | Low | Retail Sales (YoY) (Jun) |  |  | 4.2% |
 | 13:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 13:00 | BRL | Moderate | Retail Sales (YoY) (Jun) |  | 2.4% | 2.1% |
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (Jun) |  | 0.7% | -0.2% |
+| 13:00 | BRL | Moderate | Retail Sales (YoY) (Jun) |  | 2.4% | 2.1% |
 | 15:30 | USD | High | Crude Oil Inventories |  |  | -3.029M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.213M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | -0.794M |
