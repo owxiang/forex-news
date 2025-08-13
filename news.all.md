@@ -9,8 +9,8 @@
 | 02:30 | AUD | Moderate | Home Loans (MoM) | 2.4% |  | -1.8% |
 | 02:30 | AUD | Low | Invest Housing Finance (MoM) | 1.4% |  | 0.0% |
 | 02:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
-| 02:30 | AUD | Moderate | Wage Price Index (QoQ) (Q2) | 0.8% | 0.8% | 0.9% |
 | 02:30 | AUD | Low | Wage Price Index (YoY) (Q2) | 3.4% | 3.3% | 3.4% |
+| 02:30 | AUD | Moderate | Wage Price Index (QoQ) (Q2) | 0.8% | 0.8% | 0.9% |
 | 04:00 | KRW | Low | M3 Money Supply (Jun) | 5,851.1B |  | 5,815.4B |
 | 04:00 | KRW | Low | M2 Money supply (Jun) | 5.40% | 5.50% | 6.00% |
 | 04:35 | JPY | Low | 5-Year JGB Auction | 1.056% |  | 0.989% |
@@ -25,8 +25,8 @@
 | 08:00 | EUR | Low | Core CPI (YoY) (Jul) | 2.3% | 2.3% | 2.2% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Jul) | -0.1% | -0.1% | 0.7% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jul) | 2.7% | 2.7% | 2.3% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jul) | 2.7% | 2.7% | 2.3% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Jul) | -0.3% | -0.4% | 0.7% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jul) | 2.7% | 2.7% | 2.3% |
 | 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
 | 10:00 | CNY | Low | M2 Money Stock (YoY) (Jul) | 8.8% | 8.3% | 8.3% |
 | 10:00 | CNY | Moderate | New Loans (Jul) | -50.0B | 305.0B | 2,240.0B |
@@ -41,8 +41,8 @@
 | 12:00 | USD | Low | Mortgage Refinance Index | 956.2 |  | 777.4 |
 | 12:00 | ZAR | Low | Retail Sales (YoY) (Jun) | 1.6% |  | 4.3% |
 | 13:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 13:00 | BRL | Moderate | Retail Sales (MoM) (Jun) | -0.1% | 0.7% | -0.4% |
 | 13:00 | BRL | Moderate | Retail Sales (YoY) (Jun) | 0.3% | 2.4% | 1.7% |
+| 13:00 | BRL | Moderate | Retail Sales (MoM) (Jun) | -0.1% | 0.7% | -0.4% |
 | 15:30 | USD | High | Crude Oil Inventories | 3.036M | -0.900M | -3.029M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.056M |  | 0.213M |
 | 15:30 | USD | Low | Crude Oil Imports | 0.699M |  | -0.794M |
@@ -62,6 +62,6 @@
 | 18:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 18:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
-| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 2.010B |
+| 18:30 | BRL | Low | Foreign Exchange Flows | -0.305B |  | 2.010B |
 | 22:00 | KRW | Low | Export Price Index (YoY) (Jul) |  |  | -4.5% |
 | 22:00 | KRW | Low | Import Price Index (YoY) (Jul) |  |  | -6.2% |

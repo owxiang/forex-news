@@ -47,6 +47,6 @@
 | 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Aug) | 51.04 |  | 51.15 |
 | 18:00 | USD | Fed Goolsbee Speaks |  |  |  |
 | 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
-| 18:30 | BRL | Foreign Exchange Flows |  |  | 2.010B |
+| 18:30 | BRL | Foreign Exchange Flows | -0.305B |  | 2.010B |
 | 22:00 | KRW | Export Price Index (YoY) (Jul) |  |  | -4.5% |
 | 22:00 | KRW | Import Price Index (YoY) (Jul) |  |  | -6.2% |
