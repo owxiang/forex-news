@@ -12,8 +12,8 @@
 | 04:00 | KRW | M3 Money Supply (Jun) | 5,851.1B |  | 5,815.4B |
 | 04:00 | KRW | M2 Money supply (Jun) | 5.40% | 5.50% | 6.00% |
 | 04:35 | JPY | 5-Year JGB Auction | 1.056% |  | 0.989% |
-| 07:00 | EUR | German HICP (MoM) (Jul) | 0.4% | 0.4% | 0.1% |
 | 07:00 | EUR | German HICP (YoY) (Jul) | 1.8% | 1.8% | 2.0% |
+| 07:00 | EUR | German HICP (MoM) (Jul) | 0.4% | 0.4% | 0.1% |
 | 07:00 | EUR | German WPI (MoM) (Jul) | -0.1% | 0.2% | 0.2% |
 | 07:00 | EUR | German WPI (YoY) (Jul) | 0.5% |  | 0.9% |
 | 07:00 | JPY | Machine Tool Orders (YoY) (Jul) | 3.6% |  | -0.5% |
@@ -48,5 +48,5 @@
 | 18:00 | USD | Fed Goolsbee Speaks |  |  |  |
 | 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
 | 18:30 | BRL | Foreign Exchange Flows | -0.305B |  | 2.010B |
-| 22:00 | KRW | Export Price Index (YoY) (Jul) |  |  | -4.5% |
-| 22:00 | KRW | Import Price Index (YoY) (Jul) |  |  | -6.2% |
+| 22:00 | KRW | Export Price Index (YoY) (Jul) | -4.3% |  | -4.5% |
+| 22:00 | KRW | Import Price Index (YoY) (Jul) | -5.9% |  | -6.2% |
