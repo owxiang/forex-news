@@ -19,23 +19,23 @@
 | 07:45 | EUR | French CPI (YoY) (Jul) | 1.0% | 1.0% | 1.0% |
 | 07:45 | EUR | French HICP (YoY) (Jul) | 0.9% | 0.9% | 0.9% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Jul) | 0.90% |  | 0.90% |
-| 10:00 | EUR | Employment Change (QoQ) (Q2) |  | 0.2% | 0.2% |
-| 10:00 | EUR | Employment Change (YoY) (Q2) |  | 0.6% | 0.7% |
-| 10:00 | EUR | Employment Overall (Q2) |  |  | 169,794.4K |
-| 10:00 | EUR | Industrial Production (YoY) (Jun) |  | 1.7% | 3.7% |
-| 11:00 | GBP | Thomson Reuters IPSOS PCSI (Aug) |  |  | 52.1 |
-| 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Aug) |  |  | 43.80 |
-| 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Aug) |  |  | 49.38 |
-| 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Aug) |  |  | 41.85 |
-| 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 47.76 |
-| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 44.98 |
-| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Jun) |  |  | 3.6% |
+| 10:00 | EUR | Employment Change (QoQ) (Q2) | 0.1% | 0.2% | 0.2% |
+| 10:00 | EUR | Employment Change (YoY) (Q2) | 0.7% | 0.6% | 0.7% |
+| 10:00 | EUR | Employment Overall (Q2) | 171,695.0K |  | 169,794.4K |
+| 10:00 | EUR | Industrial Production (YoY) (Jun) | 0.2% | 1.7% | 3.1% |
+| 51 min | GBP | Thomson Reuters IPSOS PCSI (Aug) |  |  | 52.1 |
+| 51 min | EUR | Italy Thomson Reuters IPSOS PCSI (Aug) |  |  | 43.80 |
+| 51 min | EUR | Germany Thomson Reuters IPSOS PCSI (Aug) |  |  | 49.38 |
+| 51 min | EUR | France Thomson Reuters IPSOS PCSI (Aug) |  |  | 41.85 |
+| 51 min | EUR | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 47.76 |
+| 51 min | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 44.98 |
 | 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Jun) |  |  | 0.1% |
+| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Jun) |  |  | 3.6% |
 | 13:30 | USD | Core PPI (YoY) (Jul) |  | 2.9% | 2.6% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 220.75K |
 | 13:30 | USD | PPI (YoY) (Jul) |  | 2.5% | 2.3% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Jul) |  |  | 0.0% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Jul) |  |  | 2.5% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Jul) |  |  | 0.0% |
 | 15:30 | USD | Natural Gas Storage |  | 53B | 7B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.300% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 4.235% |

@@ -15,8 +15,8 @@
 | 07:00 | GBP | High | GDP (MoM) (Jun) | 0.4% | 0.2% | -0.1% |
 | 07:00 | GBP | Low | GDP (YoY) (Jun) | 1.4% | 1.1% | 0.9% |
 | 07:00 | GBP | Low | Index of Services | 0.4% | 0.2% | 0.4% |
-| 07:00 | GBP | Moderate | Industrial Production (MoM) (Jun) | 0.7% | 0.3% | -1.3% |
 | 07:00 | GBP | Low | Industrial Production (YoY) (Jun) | 0.2% | -0.3% | -0.2% |
+| 07:00 | GBP | Moderate | Industrial Production (MoM) (Jun) | 0.7% | 0.3% | -1.3% |
 | 07:00 | GBP | Low | Manufacturing Production (YoY) (Jun) | 0.0% | -0.9% | 1.0% |
 | 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Jun) | 0.5% | 0.4% | -1.0% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Jun) | 0.3% | 0.1% | 0.6% |
@@ -32,37 +32,37 @@
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Jul) | 0.20% |  | 0.20% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Jul) | 0.2% | 0.2% | 0.4% |
 | 07:45 | EUR | Low | French CPI (YoY) (Jul) | 1.0% | 1.0% | 1.0% |
-| 07:45 | EUR | Low | French HICP (YoY) (Jul) | 0.9% | 0.9% | 0.9% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Jul) | 0.3% | 0.3% | 0.4% |
+| 07:45 | EUR | Low | French HICP (YoY) (Jul) | 0.9% | 0.9% | 0.9% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Jul) | 0.90% |  | 0.90% |
 | 09:00 | NOK | Moderate | Interest Rate Decision | 4.25% | 4.25% | 4.25% |
-| 09:30 | GBP | Moderate | Labour Productivity (Q1) |  | -0.5% | 0.2% |
-| 10:00 | EUR | Low | Employment Change (QoQ) (Q2) |  | 0.2% | 0.2% |
-| 10:00 | EUR | Low | Employment Change (YoY) (Q2) |  | 0.6% | 0.7% |
-| 10:00 | EUR | Low | Employment Overall (Q2) |  |  | 169,794.4K |
-| 10:00 | EUR | Moderate | GDP (YoY) (Q2) |  | 1.4% | 1.5% |
-| 10:00 | EUR | Moderate | GDP (QoQ) (Q2) |  | 0.1% | 0.6% |
-| 10:00 | EUR | Moderate | Industrial Production (MoM) (Jun) |  | -0.9% | 1.7% |
-| 10:00 | EUR | Low | Industrial Production (YoY) (Jun) |  | 1.7% | 3.7% |
-| 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Aug) |  |  | 52.1 |
-| 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Aug) |  |  | 43.80 |
-| 11:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Aug) |  |  | 49.38 |
-| 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Aug) |  |  | 41.85 |
-| 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 47.76 |
-| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 44.98 |
+| 09:30 | GBP | Moderate | Labour Productivity (Q1) | -0.2% | -0.5% | 0.3% |
+| 10:00 | EUR | Low | Employment Change (QoQ) (Q2) | 0.1% | 0.2% | 0.2% |
+| 10:00 | EUR | Low | Employment Change (YoY) (Q2) | 0.7% | 0.6% | 0.7% |
+| 10:00 | EUR | Low | Employment Overall (Q2) | 171,695.0K |  | 169,794.4K |
+| 10:00 | EUR | Moderate | GDP (YoY) (Q2) | 1.4% | 1.4% | 1.5% |
+| 10:00 | EUR | Moderate | GDP (QoQ) (Q2) | 0.1% | 0.1% | 0.6% |
+| 10:00 | EUR | Moderate | Industrial Production (MoM) (Jun) | -1.3% | -0.9% | 1.1% |
+| 10:00 | EUR | Low | Industrial Production (YoY) (Jun) | 0.2% | 1.7% | 3.1% |
+| 51 min | GBP | Low | Thomson Reuters IPSOS PCSI (Aug) |  |  | 52.1 |
+| 51 min | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Aug) |  |  | 43.80 |
+| 51 min | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Aug) |  |  | 49.38 |
+| 51 min | EUR | Low | France Thomson Reuters IPSOS PCSI (Aug) |  |  | 41.85 |
+| 51 min | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 47.76 |
+| 51 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 51 min | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 44.98 |
 | 13:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Jul) |  |  | 0.2% |
-| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Jun) |  |  | 3.6% |
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Jun) |  |  | 0.1% |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Jun) |  |  | 3.6% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,960K | 1,974K |
-| 13:30 | USD | Moderate | Core PPI (MoM) (Jul) |  | 0.2% | 0.0% |
 | 13:30 | USD | Low | Core PPI (YoY) (Jul) |  | 2.9% | 2.6% |
+| 13:30 | USD | Moderate | Core PPI (MoM) (Jul) |  | 0.2% | 0.0% |
 | 13:30 | USD | High | Initial Jobless Claims |  | 225K | 226K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 220.75K |
 | 13:30 | USD | High | PPI (MoM) (Jul) |  | 0.2% | 0.0% |
 | 13:30 | USD | Low | PPI (YoY) (Jul) |  | 2.5% | 2.3% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Jul) |  |  | 0.0% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Jul) |  |  | 2.5% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Jul) |  |  | 0.0% |
 | 15:30 | USD | Low | Natural Gas Storage |  | 53B | 7B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.300% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.235% |
