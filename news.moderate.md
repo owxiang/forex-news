@@ -3,9 +3,9 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | RICS House Price Balance (Jul) | -13% |  | -7% |
-| 02:30 | AUD | Employment Change (Jul) |  | 25.3K | 2.0K |
-| 02:30 | AUD | Full Employment Change (Jul) |  |  | -38.2K |
-| 02:30 | AUD | Unemployment Rate (Jul) |  | 4.2% | 4.3% |
+| 02:30 | AUD | Employment Change (Jul) | 24.5K | 25.3K | 2.0K |
+| 02:30 | AUD | Full Employment Change (Jul) | 60.5K |  | -38.2K |
+| 02:30 | AUD | Unemployment Rate (Jul) | 4.2% | 4.2% | 4.3% |
 | 07:00 | GBP | Business Investment (QoQ) (Q2) |  |  | 3.9% |
 | 07:00 | GBP | Industrial Production (MoM) (Jun) |  | 0.4% | -0.9% |
 | 07:00 | GBP | Manufacturing Production (MoM) (Jun) |  | 0.4% | -1.0% |

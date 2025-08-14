@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Participation Rate (Jul) |  | 67.1% | 67.1% |
+| 02:30 | AUD | Participation Rate (Jul) | 67.0% | 67.1% | 67.0% |
 | 07:00 | GBP | Business Investment (YoY) (Q2) |  |  | 6.1% |
 | 07:00 | GBP | U.K. Construction Output (YoY) (Jun) |  | 1.3% | 1.2% |
 | 07:00 | GBP | Construction Output (MoM) (Jun) |  | 0.4% | -0.6% |

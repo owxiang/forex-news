@@ -3,10 +3,10 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Moderate | RICS House Price Balance (Jul) | -13% |  | -7% |
-| 02:30 | AUD | Moderate | Employment Change (Jul) |  | 25.3K | 2.0K |
-| 02:30 | AUD | Moderate | Full Employment Change (Jul) |  |  | -38.2K |
-| 02:30 | AUD | Low | Participation Rate (Jul) |  | 67.1% | 67.1% |
-| 02:30 | AUD | Moderate | Unemployment Rate (Jul) |  | 4.2% | 4.3% |
+| 02:30 | AUD | Moderate | Employment Change (Jul) | 24.5K | 25.3K | 2.0K |
+| 02:30 | AUD | Moderate | Full Employment Change (Jul) | 60.5K |  | -38.2K |
+| 02:30 | AUD | Low | Participation Rate (Jul) | 67.0% | 67.1% | 67.0% |
+| 02:30 | AUD | Moderate | Unemployment Rate (Jul) | 4.2% | 4.2% | 4.3% |
 | 07:00 | GBP | Low | Business Investment (YoY) (Q2) |  |  | 6.1% |
 | 07:00 | GBP | Moderate | Business Investment (QoQ) (Q2) |  |  | 3.9% |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (Jun) |  | 1.3% | 1.2% |
