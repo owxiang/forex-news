@@ -1,28 +1,39 @@
-## 14 August 2025 - Moderate Impact Forex News
+## 15 August 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Employment Change (Jul) | 24.5K | 25.3K | 1.0K |
-| 02:30 | AUD | Full Employment Change (Jul) | 60.5K |  | -36.7K |
-| 02:30 | AUD | Unemployment Rate (Jul) | 4.2% | 4.2% | 4.3% |
-| 07:00 | GBP | Business Investment (QoQ) (Q2) | -4.0% | 0.1% | 3.9% |
-| 07:00 | GBP | Industrial Production (MoM) (Jun) | 0.7% | 0.3% | -1.3% |
-| 07:00 | GBP | Manufacturing Production (MoM) (Jun) | 0.5% | 0.4% | -1.0% |
-| 07:00 | GBP | Monthly GDP 3M/3M Change (Jun) | 0.3% | 0.1% | 0.6% |
-| 07:00 | GBP | Trade Balance (Jun) | -22.16B | -21.70B | -22.05B |
-| 07:00 | GBP | Trade Balance Non-EU (Jun) | -10.78B |  | -9.75B |
-| 07:30 | CHF | PPI (MoM) (Jul) | -0.2% | 0.0% | -0.1% |
-| 07:30 | INR | WPI Inflation (YoY) (Jul) | -0.58% | -0.30% | -0.13% |
-| 07:45 | EUR | French CPI (MoM) (Jul) | 0.2% | 0.2% | 0.4% |
-| 07:45 | EUR | French HICP (MoM) (Jul) | 0.3% | 0.3% | 0.4% |
-| 09:00 | NOK | Interest Rate Decision | 4.25% | 4.25% | 4.25% |
-| 09:30 | GBP | Labour Productivity (Q1) | -0.6% | -0.5% | 0.3% |
-| 10:00 | EUR | GDP (YoY) (Q2) | 1.4% | 1.4% | 1.5% |
-| 10:00 | EUR | GDP (QoQ) (Q2) | 0.1% | 0.1% | 0.6% |
-| 10:00 | EUR | Industrial Production (MoM) (Jun) | -1.3% | -0.9% | 1.1% |
-| 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims | 1,953K | 1,960K | 1,968K |
-| 13:30 | USD | Core PPI (MoM) (Jul) | 0.9% | 0.2% | 0.0% |
-| 14:30 | GBP | NIESR Monthly GDP Tracker (Jul) | 0.2% |  | 0.2% |
-| 21:30 | USD | Fed's Balance Sheet | 6,644B |  | 6,641B |
-| 24 min | NZD | Business NZ PMI (Jul) |  |  | 48.8 |
+| 43 min | JPY | GDP (YoY) (Q2) |  | 0.4% | -0.2% |
+| 43 min | JPY | GDP Price Index (YoY) (Q2) |  | 3.1% | 3.3% |
+| 03:00 | CNY | Fixed Asset Investment (YoY) (Jul) |  | 2.7% | 2.8% |
+| 03:00 | CNY | Industrial Production (YoY) (Jul) |  | 6.0% | 6.8% |
+| 03:00 | CNY | Chinese Industrial Production YTD (YoY) (Jul) |  |  | 6.4% |
+| 03:00 | CNY | Chinese Unemployment Rate (Jul) |  | 5.1% | 5.0% |
+| 03:00 | CNY | NBS Press Conference |  |  |  |
+| 05:30 | JPY | Industrial Production (MoM) (Jun) |  | 1.7% | -0.1% |
+| 08:00 | CHF | GDP (QoQ) (Q2) |  |  | 0.5% |
+| 13:30 | USD | Export Price Index (MoM) (Jul) |  | 0.1% | 0.5% |
+| 13:30 | USD | Import Price Index (MoM) (Jul) |  | 0.0% | 0.1% |
+| 13:30 | USD | NY Empire State Manufacturing Index (Aug) |  | -1.20 | 5.50 |
+| 13:30 | USD | Retail Control (MoM) (Jul) |  | 0.4% | 0.5% |
+| 13:30 | CAD | Wholesale Sales (MoM) (Jun) |  | 0.7% | 0.1% |
+| 14:15 | USD | Industrial Production (YoY) (Jul) |  |  | 0.73% |
+| 14:15 | USD | Industrial Production (MoM) (Jul) |  | 0.0% | 0.3% |
+| 15:00 | USD | Business Inventories (MoM) (Jun) |  | 0.2% | 0.0% |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (Aug) |  |  | 4.5% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (Aug) |  |  | 3.4% |
+| 15:00 | USD | Michigan Consumer Expectations (Aug) |  | 56.5 | 57.7 |
+| 15:00 | USD | Michigan Consumer Sentiment (Aug) |  | 61.9 | 61.7 |
+| 15:00 | USD | Retail Inventories Ex Auto (Jun) |  | 0.0% | 0.1% |
+| 18:00 | USD | Atlanta Fed GDPNow (Q3) |  | 2.5% | 2.5% |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 411 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 539 |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | -33.3K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 141.8K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 237.1K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 33.8K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -139.6K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -83.6K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 24.6K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | 82.0K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 116.0K |
+| 21:00 | USD | TIC Net Long-Term Transactions (Jun) |  |  | 259.4B |
