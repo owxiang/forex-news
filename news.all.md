@@ -11,9 +11,9 @@
 | 07:00 | GBP | Low | Business Investment (YoY) (Q2) |  |  | 6.1% |
 | 07:00 | GBP | Low | Construction Output (MoM) (Jun) |  | 0.4% | -0.6% |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (Jun) |  | 1.3% | 1.2% |
+| 07:00 | GBP | High | GDP (MoM) (Jun) |  | 0.2% | -0.1% |
 | 07:00 | GBP | High | GDP (QoQ) (Q2) |  | 0.1% | 0.7% |
 | 07:00 | GBP | High | GDP (YoY) (Q2) |  | 1.0% | 1.3% |
-| 07:00 | GBP | High | GDP (MoM) (Jun) |  | 0.2% | -0.1% |
 | 07:00 | GBP | Low | GDP (YoY) (Jun) |  | 1.1% | 0.7% |
 | 07:00 | GBP | Low | Index of Services |  | 0.2% | 0.4% |
 | 07:00 | GBP | Low | Industrial Production (YoY) (Jun) |  | -0.3% | -0.3% |
