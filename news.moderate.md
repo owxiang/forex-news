@@ -18,8 +18,8 @@
 | 07:45 | EUR | French HICP (MoM) (Jul) |  | 0.3% | 0.4% |
 | 09:00 | NOK | Interest Rate Decision |  | 4.25% | 4.25% |
 | 09:30 | GBP | Labour Productivity (Q1) |  | -0.5% | 0.2% |
-| 10:00 | EUR | GDP (QoQ) (Q2) |  | 0.1% | 0.6% |
 | 10:00 | EUR | GDP (YoY) (Q2) |  | 1.4% | 1.5% |
+| 10:00 | EUR | GDP (QoQ) (Q2) |  | 0.1% | 0.6% |
 | 10:00 | EUR | Industrial Production (MoM) (Jun) |  | -0.9% | 1.7% |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,960K | 1,974K |
