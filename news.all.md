@@ -71,8 +71,8 @@
 | 16:30 | USD | Low | 8-Week Bill Auction | 4.185% |  | 4.235% |
 | 18:00 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 19:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 22 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,641B |
-| 22 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.330T |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,644B |  | 6,641B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.328T |  | 3.330T |
 | 23:30 | NZD | Moderate | Business NZ PMI (Jul) |  |  | 48.8 |
 | 23:45 | NZD | Low | External Migration & Visitors (Jun) |  |  | 6.10% |
 | 23:45 | NZD | Low | FPI (MoM) (Jul) |  |  | 1.2% |

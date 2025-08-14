@@ -43,7 +43,7 @@
 | 16:30 | USD | 4-Week Bill Auction | 4.280% |  | 4.300% |
 | 16:30 | USD | 8-Week Bill Auction | 4.185% |  | 4.235% |
 | 19:00 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 22 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.330T |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.328T |  | 3.330T |
 | 23:45 | NZD | External Migration & Visitors (Jun) |  |  | 6.10% |
 | 23:45 | NZD | FPI (MoM) (Jul) |  |  | 1.2% |
 | 23:45 | NZD | Permanent/Long-Term Migration (Jun) |  |  | 1,530 |
