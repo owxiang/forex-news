@@ -25,4 +25,4 @@
 | 13:30 | USD | Core PPI (MoM) (Jul) | 0.9% | 0.2% | 0.0% |
 | 14:30 | GBP | NIESR Monthly GDP Tracker (Jul) | 0.2% |  | 0.2% |
 | 21:30 | USD | Fed's Balance Sheet | 6,644B |  | 6,641B |
-| 23:30 | NZD | Business NZ PMI (Jul) |  |  | 48.8 |
+| 24 min | NZD | Business NZ PMI (Jul) |  |  | 48.8 |
