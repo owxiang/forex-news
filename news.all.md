@@ -15,8 +15,8 @@
 | 07:00 | GBP | High | GDP (MoM) (Jun) | 0.4% | 0.2% | -0.1% |
 | 07:00 | GBP | Low | GDP (YoY) (Jun) | 1.4% | 1.1% | 0.9% |
 | 07:00 | GBP | Low | Index of Services | 0.4% | 0.2% | 0.4% |
-| 07:00 | GBP | Low | Industrial Production (YoY) (Jun) | 0.2% | -0.3% | -0.2% |
 | 07:00 | GBP | Moderate | Industrial Production (MoM) (Jun) | 0.7% | 0.3% | -1.3% |
+| 07:00 | GBP | Low | Industrial Production (YoY) (Jun) | 0.2% | -0.3% | -0.2% |
 | 07:00 | GBP | Low | Manufacturing Production (YoY) (Jun) | 0.0% | -0.9% | 1.0% |
 | 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Jun) | 0.5% | 0.4% | -1.0% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Jun) | 0.3% | 0.1% | 0.6% |
@@ -40,8 +40,8 @@
 | 10:00 | INR | Low | Exports (USD) (Jul) | 37.24B |  | 35.14B |
 | 10:00 | INR | Low | Imports (USD) (Jul) | 64.59B |  | 53.92B |
 | 10:00 | INR | Low | Trade Balance (Jul) | -27.35B |  | -18.78B |
-| 10:00 | EUR | Low | Employment Change (QoQ) (Q2) | 0.1% | 0.2% | 0.2% |
 | 10:00 | EUR | Low | Employment Change (YoY) (Q2) | 0.7% | 0.6% | 0.7% |
+| 10:00 | EUR | Low | Employment Change (QoQ) (Q2) | 0.1% | 0.2% | 0.2% |
 | 10:00 | EUR | Low | Employment Overall (Q2) | 169,860.6K |  | 169,703.6K |
 | 10:00 | EUR | Moderate | GDP (YoY) (Q2) | 1.4% | 1.4% | 1.5% |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q2) | 0.1% | 0.1% | 0.6% |
@@ -61,16 +61,16 @@
 | 13:30 | USD | Low | Core PPI (YoY) (Jul) | 3.7% | 2.9% | 2.6% |
 | 13:30 | USD | High | Initial Jobless Claims | 224K | 225K | 227K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 221.75K |  | 221.00K |
-| 13:30 | USD | Low | PPI (YoY) (Jul) | 3.3% | 2.5% | 2.4% |
 | 13:30 | USD | High | PPI (MoM) (Jul) | 0.9% | 0.2% | 0.0% |
+| 13:30 | USD | Low | PPI (YoY) (Jul) | 3.3% | 2.5% | 2.4% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Jul) | 0.6% |  | 0.0% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Jul) | 2.8% |  | 2.5% |
 | 14:30 | GBP | Moderate | NIESR Monthly GDP Tracker (Jul) | 0.2% |  | 0.2% |
 | 15:30 | USD | Low | Natural Gas Storage | 56B | 53B | 7B |
 | 16:30 | USD | Low | 4-Week Bill Auction | 4.280% |  | 4.300% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 4.185% |  | 4.235% |
-| 51 min | USD | High | U.S. President Trump Speaks |  |  |  |
-| 19:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 18:00 | USD | High | U.S. President Trump Speaks |  |  |  |
+| 54 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,641B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.330T |
 | 23:30 | NZD | Moderate | Business NZ PMI (Jul) |  |  | 48.8 |

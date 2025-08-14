@@ -22,8 +22,8 @@
 | 10:00 | INR | Exports (USD) (Jul) | 37.24B |  | 35.14B |
 | 10:00 | INR | Imports (USD) (Jul) | 64.59B |  | 53.92B |
 | 10:00 | INR | Trade Balance (Jul) | -27.35B |  | -18.78B |
-| 10:00 | EUR | Employment Change (QoQ) (Q2) | 0.1% | 0.2% | 0.2% |
 | 10:00 | EUR | Employment Change (YoY) (Q2) | 0.7% | 0.6% | 0.7% |
+| 10:00 | EUR | Employment Change (QoQ) (Q2) | 0.1% | 0.2% | 0.2% |
 | 10:00 | EUR | Employment Overall (Q2) | 169,860.6K |  | 169,703.6K |
 | 10:00 | EUR | Industrial Production (YoY) (Jun) | 0.2% | 1.7% | 3.1% |
 | 11:00 | GBP | Thomson Reuters IPSOS PCSI (Aug) | 50.6 |  | 52.1 |
@@ -42,7 +42,7 @@
 | 15:30 | USD | Natural Gas Storage | 56B | 53B | 7B |
 | 16:30 | USD | 4-Week Bill Auction | 4.280% |  | 4.300% |
 | 16:30 | USD | 8-Week Bill Auction | 4.185% |  | 4.235% |
-| 19:00 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 54 min | USD | FOMC Member Barkin Speaks |  |  |  |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.330T |
 | 23:45 | NZD | External Migration & Visitors (Jun) |  |  | 6.10% |
 | 23:45 | NZD | FPI (MoM) (Jul) |  |  | 1.2% |

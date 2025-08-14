@@ -7,4 +7,4 @@
 | 07:00 | GBP | GDP (MoM) (Jun) | 0.4% | 0.2% | -0.1% |
 | 13:30 | USD | Initial Jobless Claims | 224K | 225K | 227K |
 | 13:30 | USD | PPI (MoM) (Jul) | 0.9% | 0.2% | 0.0% |
-| 51 min | USD | U.S. President Trump Speaks |  |  |  |
+| 18:00 | USD | U.S. President Trump Speaks |  |  |  |
