@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 02:30 | AUD | Participation Rate (Jul) | 67.0% | 67.1% | 67.0% |
 | 07:00 | GBP | Business Investment (YoY) (Q2) | 0.1% |  | 6.1% |
-| 07:00 | GBP | U.K. Construction Output (YoY) (Jun) | 1.5% | 1.3% | 1.4% |
 | 07:00 | GBP | Construction Output (MoM) (Jun) | 0.3% | 0.3% | -0.5% |
+| 07:00 | GBP | U.K. Construction Output (YoY) (Jun) | 1.5% | 1.3% | 1.4% |
 | 07:00 | GBP | GDP (YoY) (Jun) | 1.4% | 1.1% | 0.9% |
 | 07:00 | GBP | Index of Services | 0.4% | 0.2% | 0.4% |
 | 07:00 | GBP | Industrial Production (YoY) (Jun) | 0.2% | -0.3% | -0.2% |
@@ -14,8 +14,8 @@
 | 07:30 | INR | WPI Food (YoY) (Jul) | -6.29% |  | -3.75% |
 | 07:30 | INR | WPI Fuel (YoY) (Jul) | -2.43% |  | -2.65% |
 | 07:30 | INR | WPI Manufacturing Inflation (YoY) (Jul) | 2.05% |  | 1.97% |
-| 07:45 | EUR | French CPI NSA (YoY) (Jul) | 1.00% |  | 1.00% |
 | 07:45 | EUR | French CPI NSA (MoM) (Jul) | 0.20% |  | 0.20% |
+| 07:45 | EUR | French CPI NSA (YoY) (Jul) | 1.00% |  | 1.00% |
 | 07:45 | EUR | French CPI (YoY) (Jul) | 1.0% | 1.0% | 1.0% |
 | 07:45 | EUR | French HICP (YoY) (Jul) | 0.9% | 0.9% | 0.9% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Jul) | 0.90% |  | 0.90% |

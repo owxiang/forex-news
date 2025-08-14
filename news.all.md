@@ -8,8 +8,8 @@
 | 02:30 | AUD | Moderate | Unemployment Rate (Jul) | 4.2% | 4.2% | 4.3% |
 | 07:00 | GBP | Moderate | Business Investment (QoQ) (Q2) | -4.0% | 0.1% | 3.9% |
 | 07:00 | GBP | Low | Business Investment (YoY) (Q2) | 0.1% |  | 6.1% |
-| 07:00 | GBP | Low | U.K. Construction Output (YoY) (Jun) | 1.5% | 1.3% | 1.4% |
 | 07:00 | GBP | Low | Construction Output (MoM) (Jun) | 0.3% | 0.3% | -0.5% |
+| 07:00 | GBP | Low | U.K. Construction Output (YoY) (Jun) | 1.5% | 1.3% | 1.4% |
 | 07:00 | GBP | High | GDP (QoQ) (Q2) | 0.3% | 0.1% | 0.7% |
 | 07:00 | GBP | High | GDP (YoY) (Q2) | 1.2% | 1.0% | 1.3% |
 | 07:00 | GBP | High | GDP (MoM) (Jun) | 0.4% | 0.2% | -0.1% |
@@ -28,8 +28,8 @@
 | 07:30 | INR | Low | WPI Fuel (YoY) (Jul) | -2.43% |  | -2.65% |
 | 07:30 | INR | Moderate | WPI Inflation (YoY) (Jul) | -0.58% | -0.30% | -0.13% |
 | 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Jul) | 2.05% |  | 1.97% |
-| 07:45 | EUR | Low | French CPI NSA (YoY) (Jul) | 1.00% |  | 1.00% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Jul) | 0.20% |  | 0.20% |
+| 07:45 | EUR | Low | French CPI NSA (YoY) (Jul) | 1.00% |  | 1.00% |
 | 07:45 | EUR | Low | French CPI (YoY) (Jul) | 1.0% | 1.0% | 1.0% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Jul) | 0.2% | 0.2% | 0.4% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Jul) | 0.3% | 0.3% | 0.4% |
