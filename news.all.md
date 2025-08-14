@@ -54,18 +54,18 @@
 | 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Aug) | 50.88 |  | 47.76 |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Aug) | 43.45 |  | 44.98 |
-| 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Jun) | 0.3% |  | 0.1% |
-| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Jun) | 2.8% |  | 3.6% |
-| 13:30 | GBP | Moderate | NIESR Monthly GDP Tracker (Jul) |  |  | 0.2% |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,960K | 1,974K |
-| 13:30 | USD | Moderate | Core PPI (MoM) (Jul) |  | 0.2% | 0.0% |
-| 13:30 | USD | Low | Core PPI (YoY) (Jul) |  | 2.9% | 2.6% |
-| 13:30 | USD | High | Initial Jobless Claims |  | 225K | 226K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 220.75K |
-| 13:30 | USD | Low | PPI (YoY) (Jul) |  | 2.5% | 2.3% |
-| 13:30 | USD | High | PPI (MoM) (Jul) |  | 0.2% | 0.0% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Jul) |  |  | 0.0% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Jul) |  |  | 2.5% |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Jun) | 0.3% |  | 0.2% |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Jun) | 2.8% |  | 3.8% |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,953K | 1,960K | 1,968K |
+| 13:30 | USD | Moderate | Core PPI (MoM) (Jul) | 0.9% | 0.2% | 0.0% |
+| 13:30 | USD | Low | Core PPI (YoY) (Jul) | 3.7% | 2.9% | 2.6% |
+| 13:30 | USD | High | Initial Jobless Claims | 224K | 225K | 227K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 221.75K |  | 221.00K |
+| 13:30 | USD | Low | PPI (YoY) (Jul) | 3.3% | 2.5% | 2.4% |
+| 13:30 | USD | High | PPI (MoM) (Jul) | 0.9% | 0.2% | 0.0% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Jul) | 2.8% |  | 2.5% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Jul) | 0.6% |  | 0.0% |
+| 14:30 | GBP | Moderate | NIESR Monthly GDP Tracker (Jul) |  |  | 0.2% |
 | 15:30 | USD | Low | Natural Gas Storage |  | 53B | 7B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.300% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.235% |

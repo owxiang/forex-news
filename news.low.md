@@ -32,13 +32,13 @@
 | 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Aug) | 39.70 |  | 41.85 |
 | 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Aug) | 50.88 |  | 47.76 |
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Aug) | 43.45 |  | 44.98 |
-| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Jun) | 0.3% |  | 0.1% |
-| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Jun) | 2.8% |  | 3.6% |
-| 13:30 | USD | Core PPI (YoY) (Jul) |  | 2.9% | 2.6% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 220.75K |
-| 13:30 | USD | PPI (YoY) (Jul) |  | 2.5% | 2.3% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Jul) |  |  | 0.0% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Jul) |  |  | 2.5% |
+| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Jun) | 0.3% |  | 0.2% |
+| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Jun) | 2.8% |  | 3.8% |
+| 13:30 | USD | Core PPI (YoY) (Jul) | 3.7% | 2.9% | 2.6% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 221.75K |  | 221.00K |
+| 13:30 | USD | PPI (YoY) (Jul) | 3.3% | 2.5% | 2.4% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Jul) | 2.8% |  | 2.5% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Jul) | 0.6% |  | 0.0% |
 | 15:30 | USD | Natural Gas Storage |  | 53B | 7B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.300% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 4.235% |

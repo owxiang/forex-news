@@ -21,8 +21,8 @@
 | 10:00 | EUR | GDP (QoQ) (Q2) | 0.1% | 0.1% | 0.6% |
 | 10:00 | EUR | Industrial Production (MoM) (Jun) | -1.3% | -0.9% | 1.1% |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 13:30 | GBP | NIESR Monthly GDP Tracker (Jul) |  |  | 0.2% |
-| 13:30 | USD | Continuing Jobless Claims |  | 1,960K | 1,974K |
-| 13:30 | USD | Core PPI (MoM) (Jul) |  | 0.2% | 0.0% |
+| 13:30 | USD | Continuing Jobless Claims | 1,953K | 1,960K | 1,968K |
+| 13:30 | USD | Core PPI (MoM) (Jul) | 0.9% | 0.2% | 0.0% |
+| 14:30 | GBP | NIESR Monthly GDP Tracker (Jul) |  |  | 0.2% |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,641B |
 | 23:30 | NZD | Business NZ PMI (Jul) |  |  | 48.8 |
