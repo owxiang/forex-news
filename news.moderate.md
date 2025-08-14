@@ -16,11 +16,11 @@
 | 07:45 | EUR | French CPI (MoM) (Jul) | 0.2% | 0.2% | 0.4% |
 | 07:45 | EUR | French HICP (MoM) (Jul) | 0.3% | 0.3% | 0.4% |
 | 09:00 | NOK | Interest Rate Decision | 4.25% | 4.25% | 4.25% |
-| 09:30 | GBP | Labour Productivity (Q1) | -0.2% | -0.5% | 0.3% |
+| 09:30 | GBP | Labour Productivity (Q1) | -0.6% | -0.5% | 0.3% |
 | 10:00 | EUR | GDP (YoY) (Q2) | 1.4% | 1.4% | 1.5% |
 | 10:00 | EUR | GDP (QoQ) (Q2) | 0.1% | 0.1% | 0.6% |
 | 10:00 | EUR | Industrial Production (MoM) (Jun) | -1.3% | -0.9% | 1.1% |
-| 51 min | EUR | Eurogroup Meetings |  |  |  |
+| 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 13:00 | GBP | NIESR Monthly GDP Tracker (Jul) |  |  | 0.2% |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,960K | 1,974K |
 | 13:30 | USD | Core PPI (MoM) (Jul) |  | 0.2% | 0.0% |
