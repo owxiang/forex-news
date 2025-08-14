@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 02:30 | AUD | Participation Rate (Jul) | 67.0% | 67.1% | 67.0% |
 | 07:00 | GBP | Business Investment (YoY) (Q2) | 0.1% |  | 6.1% |
-| 07:00 | GBP | Construction Output (MoM) (Jun) | 0.3% | 0.3% | -0.5% |
 | 07:00 | GBP | U.K. Construction Output (YoY) (Jun) | 1.5% | 1.3% | 1.4% |
+| 07:00 | GBP | Construction Output (MoM) (Jun) | 0.3% | 0.3% | -0.5% |
 | 07:00 | GBP | GDP (YoY) (Jun) | 1.4% | 1.1% | 0.9% |
 | 07:00 | GBP | Index of Services | 0.4% | 0.2% | 0.4% |
 | 07:00 | GBP | Industrial Production (YoY) (Jun) | 0.2% | -0.3% | -0.2% |
@@ -14,13 +14,16 @@
 | 07:30 | INR | WPI Food (YoY) (Jul) | -6.29% |  | -3.75% |
 | 07:30 | INR | WPI Fuel (YoY) (Jul) | -2.43% |  | -2.65% |
 | 07:30 | INR | WPI Manufacturing Inflation (YoY) (Jul) | 2.05% |  | 1.97% |
-| 07:45 | EUR | French CPI NSA (MoM) (Jul) | 0.20% |  | 0.20% |
 | 07:45 | EUR | French CPI NSA (YoY) (Jul) | 1.00% |  | 1.00% |
+| 07:45 | EUR | French CPI NSA (MoM) (Jul) | 0.20% |  | 0.20% |
 | 07:45 | EUR | French CPI (YoY) (Jul) | 1.0% | 1.0% | 1.0% |
 | 07:45 | EUR | French HICP (YoY) (Jul) | 0.9% | 0.9% | 0.9% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Jul) | 0.90% |  | 0.90% |
-| 10:00 | EUR | Employment Change (QoQ) (Q2) | 0.1% | 0.2% | 0.2% |
+| 10:00 | INR | Exports (USD) (Jul) | 37.24B |  | 35.14B |
+| 10:00 | INR | Imports (USD) (Jul) | 64.59B |  | 53.92B |
+| 10:00 | INR | Trade Balance (Jul) | -27.35B |  | -18.78B |
 | 10:00 | EUR | Employment Change (YoY) (Q2) | 0.7% | 0.6% | 0.7% |
+| 10:00 | EUR | Employment Change (QoQ) (Q2) | 0.1% | 0.2% | 0.2% |
 | 10:00 | EUR | Employment Overall (Q2) | 169,860.6K |  | 169,703.6K |
 | 10:00 | EUR | Industrial Production (YoY) (Jun) | 0.2% | 1.7% | 3.1% |
 | 11:00 | GBP | Thomson Reuters IPSOS PCSI (Aug) | 50.6 |  | 52.1 |
@@ -29,9 +32,6 @@
 | 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Aug) | 39.70 |  | 41.85 |
 | 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Aug) | 50.88 |  | 47.76 |
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Aug) | 43.45 |  | 44.98 |
-| 12:30 | INR | Exports (USD) (Jul) | 37.24B |  | 35.14B |
-| 12:30 | INR | Imports (USD) (Jul) | 64.59B |  | 53.92B |
-| 12:30 | INR | Trade Balance (Jul) | -27.35B |  | -18.78B |
 | 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Jun) |  |  | 0.1% |
 | 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Jun) |  |  | 3.6% |
 | 13:30 | USD | Core PPI (YoY) (Jul) |  | 2.9% | 2.6% |
