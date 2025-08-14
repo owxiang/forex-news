@@ -11,10 +11,10 @@
 | 07:00 | GBP | Monthly GDP 3M/3M Change (Jun) | 0.3% | 0.1% | 0.6% |
 | 07:00 | GBP | Trade Balance (Jun) | -22.16B | -21.70B | -22.05B |
 | 07:00 | GBP | Trade Balance Non-EU (Jun) | -10.78B |  | -9.75B |
-| 07:30 | CHF | PPI (MoM) (Jul) |  | 0.0% | -0.1% |
-| 07:30 | INR | WPI Inflation (YoY) (Jul) |  | -0.30% | -0.13% |
-| 07:45 | EUR | French CPI (MoM) (Jul) |  | 0.2% | 0.4% |
-| 07:45 | EUR | French HICP (MoM) (Jul) |  | 0.3% | 0.4% |
+| 07:30 | CHF | PPI (MoM) (Jul) | -0.2% | 0.0% | -0.1% |
+| 07:30 | INR | WPI Inflation (YoY) (Jul) | -0.58% | -0.30% | -0.13% |
+| 07:45 | EUR | French CPI (MoM) (Jul) | 0.2% | 0.2% | 0.4% |
+| 07:45 | EUR | French HICP (MoM) (Jul) | 0.3% | 0.3% | 0.4% |
 | 09:00 | NOK | Interest Rate Decision |  | 4.25% | 4.25% |
 | 09:30 | GBP | Labour Productivity (Q1) |  | -0.5% | 0.2% |
 | 10:00 | EUR | GDP (QoQ) (Q2) |  | 0.1% | 0.6% |

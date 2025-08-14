@@ -10,17 +10,15 @@
 | 07:00 | GBP | Index of Services | 0.4% | 0.2% | 0.4% |
 | 07:00 | GBP | Industrial Production (YoY) (Jun) | 0.2% | -0.3% | -0.2% |
 | 07:00 | GBP | Manufacturing Production (YoY) (Jun) | 0.0% | -0.9% | 1.0% |
-| 07:30 | CHF | PPI (YoY) (Jul) |  |  | -0.7% |
-| 07:30 | INR | WPI Food (YoY) (Jul) |  |  | -3.75% |
-| 07:30 | INR | WPI Fuel (YoY) (Jul) |  |  | -2.65% |
-| 07:30 | INR | WPI Manufacturing Inflation (YoY) (Jul) |  |  | 1.97% |
-| 07:45 | EUR | French CPI NSA (YoY) (Jul) |  |  | 1.00% |
-| 07:45 | EUR | French CPI NSA (MoM) (Jul) |  |  | 0.20% |
-| 07:45 | EUR | French CPI (YoY) (Jul) |  | 1.0% | 1.0% |
-| 07:45 | EUR | French HICP (YoY) (Jul) |  | 0.9% | 0.9% |
-| 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Jul) |  |  | 0.90% |
-| 10:00 | EUR | Employment Change (QoQ) (Q2) |  | 0.2% | 0.2% |
+| 07:30 | CHF | PPI (YoY) (Jul) | -0.9% |  | -0.7% |
+| 07:30 | INR | WPI Food (YoY) (Jul) | -6.29% |  | -3.75% |
+| 07:30 | INR | WPI Fuel (YoY) (Jul) | -2.43% |  | -2.65% |
+| 07:30 | INR | WPI Manufacturing Inflation (YoY) (Jul) | 2.05% |  | 1.97% |
+| 07:45 | EUR | French CPI (YoY) (Jul) | 1.0% | 1.0% | 1.0% |
+| 07:45 | EUR | French HICP (YoY) (Jul) | 0.9% | 0.9% | 0.9% |
+| 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Jul) | 0.90% |  | 0.90% |
 | 10:00 | EUR | Employment Change (YoY) (Q2) |  | 0.6% | 0.7% |
+| 10:00 | EUR | Employment Change (QoQ) (Q2) |  | 0.2% | 0.2% |
 | 10:00 | EUR | Employment Overall (Q2) |  |  | 169,794.4K |
 | 10:00 | EUR | Industrial Production (YoY) (Jun) |  | 1.7% | 3.7% |
 | 11:00 | GBP | Thomson Reuters IPSOS PCSI (Aug) |  |  | 52.1 |
