@@ -10,9 +10,9 @@
 | 07:00 | GBP | Low | Business Investment (YoY) (Q2) | 0.1% |  | 6.1% |
 | 07:00 | GBP | Low | Construction Output (MoM) (Jun) | 0.3% | 0.3% | -0.5% |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (Jun) | 1.5% | 1.3% | 1.4% |
+| 07:00 | GBP | High | GDP (QoQ) (Q2) | 0.3% | 0.1% | 0.7% |
 | 07:00 | GBP | High | GDP (YoY) (Q2) | 1.2% | 1.0% | 1.3% |
 | 07:00 | GBP | High | GDP (MoM) (Jun) | 0.4% | 0.2% | -0.1% |
-| 07:00 | GBP | High | GDP (QoQ) (Q2) | 0.3% | 0.1% | 0.7% |
 | 07:00 | GBP | Low | GDP (YoY) (Jun) | 1.4% | 1.1% | 0.9% |
 | 07:00 | GBP | Low | Index of Services | 0.4% | 0.2% | 0.4% |
 | 07:00 | GBP | Low | Industrial Production (YoY) (Jun) | 0.2% | -0.3% | -0.2% |
@@ -30,8 +30,8 @@
 | 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Jul) | 2.05% |  | 1.97% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Jul) | 0.20% |  | 0.20% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Jul) | 1.00% |  | 1.00% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Jul) | 0.2% | 0.2% | 0.4% |
 | 07:45 | EUR | Low | French CPI (YoY) (Jul) | 1.0% | 1.0% | 1.0% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Jul) | 0.2% | 0.2% | 0.4% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Jul) | 0.3% | 0.3% | 0.4% |
 | 07:45 | EUR | Low | French HICP (YoY) (Jul) | 0.9% | 0.9% | 0.9% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Jul) | 0.90% |  | 0.90% |
@@ -61,12 +61,12 @@
 | 13:30 | USD | Low | Core PPI (YoY) (Jul) | 3.7% | 2.9% | 2.6% |
 | 13:30 | USD | High | Initial Jobless Claims | 224K | 225K | 227K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 221.75K |  | 221.00K |
-| 13:30 | USD | Low | PPI (YoY) (Jul) | 3.3% | 2.5% | 2.4% |
 | 13:30 | USD | High | PPI (MoM) (Jul) | 0.9% | 0.2% | 0.0% |
+| 13:30 | USD | Low | PPI (YoY) (Jul) | 3.3% | 2.5% | 2.4% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Jul) | 2.8% |  | 2.5% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Jul) | 0.6% |  | 0.0% |
-| 14:30 | GBP | Moderate | NIESR Monthly GDP Tracker (Jul) |  |  | 0.2% |
-| 15:30 | USD | Low | Natural Gas Storage |  | 53B | 7B |
+| 14:30 | GBP | Moderate | NIESR Monthly GDP Tracker (Jul) | 0.2% |  | 0.2% |
+| 23 min | USD | Low | Natural Gas Storage |  | 53B | 7B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.300% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.235% |
 | 18:00 | USD | High | U.S. President Trump Speaks |  |  |  |

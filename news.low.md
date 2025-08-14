@@ -39,7 +39,7 @@
 | 13:30 | USD | PPI (YoY) (Jul) | 3.3% | 2.5% | 2.4% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Jul) | 2.8% |  | 2.5% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Jul) | 0.6% |  | 0.0% |
-| 15:30 | USD | Natural Gas Storage |  | 53B | 7B |
+| 23 min | USD | Natural Gas Storage |  | 53B | 7B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.300% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 4.235% |
 | 19:00 | USD | FOMC Member Barkin Speaks |  |  |  |
