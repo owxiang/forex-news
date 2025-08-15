@@ -9,7 +9,7 @@
 | 03:00 | CNY | Chinese Industrial Production YTD (YoY) (Jul) | 6.3% |  | 6.4% |
 | 03:00 | CNY | Chinese Unemployment Rate (Jul) | 5.2% | 5.1% | 5.0% |
 | 03:00 | CNY | NBS Press Conference |  |  |  |
-| 05:30 | JPY | Industrial Production (MoM) (Jun) |  | 1.7% | -0.1% |
+| 58 min | JPY | Industrial Production (MoM) (Jun) |  | 1.7% | -0.1% |
 | 08:00 | CHF | GDP (QoQ) (Q2) |  |  | 0.5% |
 | 13:30 | USD | Export Price Index (MoM) (Jul) |  | 0.1% | 0.5% |
 | 13:30 | USD | Import Price Index (MoM) (Jul) |  | 0.0% | 0.1% |
