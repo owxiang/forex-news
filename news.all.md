@@ -10,20 +10,20 @@
 | 00:50 | JPY | Low | GDP External Demand (QoQ) (Q2) | 0.3% | 0.2% | -0.8% |
 | 00:50 | JPY | Moderate | GDP Price Index (YoY) (Q2) | 3.0% | 3.1% | 3.3% |
 | 00:50 | JPY | Low | GDP Private Consumption (QoQ) (Q2) | 0.2% | 0.1% | 0.2% |
-| 28 min | AUD | Low | MI Inflation Expectations (Aug) |  |  | 4.7% |
-| 58 min | CNY | Low | House Prices (YoY) (Jul) |  |  | -3.2% |
-| 03:00 | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 46.29 |
-| 03:00 | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 60.89 |
-| 03:00 | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 49.67 |
-| 03:00 | JPY | Low | Thomson Reuters IPSOS PCSI (Aug) |  |  | 35.93 |
-| 03:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Aug) |  |  | 71.33 |
-| 03:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Jul) |  | 2.7% | 2.8% |
-| 03:00 | CNY | Moderate | Industrial Production (YoY) (Jul) |  | 6.0% | 6.8% |
-| 03:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Jul) |  |  | 6.4% |
-| 03:00 | CNY | Low | Retail Sales (YoY) (Jul) |  | 4.6% | 4.8% |
-| 03:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Jul) |  |  | 4.02% |
-| 03:00 | CNY | Moderate | Chinese Unemployment Rate (Jul) |  | 5.1% | 5.0% |
-| 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
+| 02:30 | AUD | Low | MI Inflation Expectations (Aug) |  |  | 4.7% |
+| 02:30 | CNY | Low | House Prices (YoY) (Jul) | -2.8% |  | -3.2% |
+| 25 min | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 46.29 |
+| 25 min | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 60.89 |
+| 25 min | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 49.67 |
+| 25 min | JPY | Low | Thomson Reuters IPSOS PCSI (Aug) |  |  | 35.93 |
+| 25 min | CNY | Low | China Thomson Reuters IPSOS PCSI (Aug) |  |  | 71.33 |
+| 25 min | CNY | Moderate | Fixed Asset Investment (YoY) (Jul) |  | 2.7% | 2.8% |
+| 25 min | CNY | Moderate | Industrial Production (YoY) (Jul) |  | 6.0% | 6.8% |
+| 25 min | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Jul) |  |  | 6.4% |
+| 25 min | CNY | Low | Retail Sales (YoY) (Jul) |  | 4.6% | 4.8% |
+| 25 min | CNY | Low | Chinese Retail Sales YTD (YoY) (Jul) |  |  | 4.02% |
+| 25 min | CNY | Moderate | Chinese Unemployment Rate (Jul) |  | 5.1% | 5.0% |
+| 25 min | CNY | Moderate | NBS Press Conference |  |  |  |
 | 05:00 | KRW | Low | Exports (YoY) (Jul) |  | 5.9% | 4.3% |
 | 05:00 | KRW | Low | Imports (YoY) (Jul) |  | 0.7% | 3.3% |
 | 05:00 | KRW | Low | Trade Balance (Jul) |  | 6.61B | 9.08B |
@@ -34,8 +34,8 @@
 | 07:00 | NOK | Low | Trade Balance (Jul) |  |  | 47.4B |
 | 08:00 | CHF | Moderate | GDP (QoQ) (Q2) |  |  | 0.5% |
 | 08:00 | CNY | Low | FDI (Jul) |  |  | -15.20% |
-| 09:30 | HKD | Low | GDP (QoQ) (Q2) |  | 0.4% | 1.9% |
 | 09:30 | HKD | Low | GDP (YoY) (Q2) |  | 3.1% | 3.0% |
+| 09:30 | HKD | Low | GDP (QoQ) (Q2) |  | 0.4% | 1.9% |
 | 10:00 | INR | Low | Exports (USD) (Jul) |  |  | 35.14B |
 | 10:00 | INR | Low | Imports (USD) (Jul) |  |  | 53.92B |
 | 10:00 | INR | Low | Trade Balance (Jul) |  | -20.70B | -18.78B |
@@ -45,8 +45,8 @@
 | 12:30 | INR | Low | Deposit Growth |  |  | 10.1% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 688.87B |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Jul) |  | 0.3% | 0.5% |
-| 13:30 | USD | Low | Export Price Index (YoY) (Jul) |  |  | 2.8% |
 | 13:30 | USD | Moderate | Export Price Index (MoM) (Jul) |  | 0.1% | 0.5% |
+| 13:30 | USD | Low | Export Price Index (YoY) (Jul) |  |  | 2.8% |
 | 13:30 | USD | Low | Import Price Index (YoY) (Jul) |  |  | -0.2% |
 | 13:30 | USD | Moderate | Import Price Index (MoM) (Jul) |  | 0.0% | 0.1% |
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Aug) |  | -1.20 | 5.50 |

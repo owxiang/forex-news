@@ -4,11 +4,11 @@
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | GDP (YoY) (Q2) | 1.0% | 0.4% | 0.6% |
 | 00:50 | JPY | GDP Price Index (YoY) (Q2) | 3.0% | 3.1% | 3.3% |
-| 03:00 | CNY | Fixed Asset Investment (YoY) (Jul) |  | 2.7% | 2.8% |
-| 03:00 | CNY | Industrial Production (YoY) (Jul) |  | 6.0% | 6.8% |
-| 03:00 | CNY | Chinese Industrial Production YTD (YoY) (Jul) |  |  | 6.4% |
-| 03:00 | CNY | Chinese Unemployment Rate (Jul) |  | 5.1% | 5.0% |
-| 03:00 | CNY | NBS Press Conference |  |  |  |
+| 25 min | CNY | Fixed Asset Investment (YoY) (Jul) |  | 2.7% | 2.8% |
+| 25 min | CNY | Industrial Production (YoY) (Jul) |  | 6.0% | 6.8% |
+| 25 min | CNY | Chinese Industrial Production YTD (YoY) (Jul) |  |  | 6.4% |
+| 25 min | CNY | Chinese Unemployment Rate (Jul) |  | 5.1% | 5.0% |
+| 25 min | CNY | NBS Press Conference |  |  |  |
 | 05:30 | JPY | Industrial Production (MoM) (Jun) |  | 1.7% | -0.1% |
 | 08:00 | CHF | GDP (QoQ) (Q2) |  |  | 0.5% |
 | 13:30 | USD | Export Price Index (MoM) (Jul) |  | 0.1% | 0.5% |
