@@ -21,15 +21,15 @@
 | 09:30 | HKD | GDP (QoQ) (Q2) | 0.4% | 0.4% | 1.9% |
 | 11:00 | EUR | ECOFIN Meetings |  |  |  |
 | 11:00 | EUR | Reserve Assets Total (Jul) | 1,498.95B |  | 1,462.08B |
-| 24 min | INR | Bank Loan Growth |  |  | 9.8% |
-| 24 min | INR | Deposit Growth |  |  | 10.1% |
-| 24 min | INR | FX Reserves, USD |  |  | 688.87B |
-| 13:30 | USD | Export Price Index (YoY) (Jul) |  |  | 2.8% |
-| 13:30 | USD | Import Price Index (YoY) (Jul) |  |  | -0.2% |
-| 13:30 | USD | Retail Sales (YoY) (Jul) |  |  | 3.92% |
-| 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Jul) |  |  | 0.6% |
-| 13:30 | CAD | Manufacturing Sales (MoM) (Jun) |  | 0.4% | -0.9% |
-| 13:30 | CAD | New Motor Vehicle Sales (MoM) (Jun) |  |  | 194.5K |
+| 12:30 | INR | Bank Loan Growth | 10.0% |  | 9.8% |
+| 12:30 | INR | Deposit Growth | 10.2% |  | 10.1% |
+| 12:30 | INR | FX Reserves, USD | 693.62B |  | 688.87B |
+| 19 min | USD | Export Price Index (YoY) (Jul) |  |  | 2.8% |
+| 19 min | USD | Import Price Index (YoY) (Jul) |  |  | -0.2% |
+| 19 min | USD | Retail Sales (YoY) (Jul) |  |  | 3.92% |
+| 19 min | USD | Retail Sales Ex Gas/Autos (MoM) (Jul) |  |  | 0.6% |
+| 19 min | CAD | Manufacturing Sales (MoM) (Jun) |  | 0.4% | -0.9% |
+| 19 min | CAD | New Motor Vehicle Sales (MoM) (Jun) |  |  | 194.5K |
 | 14:15 | USD | Capacity Utilization Rate (Jul) |  | 77.6% | 77.6% |
 | 14:15 | USD | Manufacturing Production (MoM) (Jul) |  | -0.1% | 0.1% |
 | 15:00 | USD | Michigan Current Conditions (Aug) |  | 67.9 | 68.0 |

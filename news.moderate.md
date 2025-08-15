@@ -11,13 +11,13 @@
 | 03:00 | CNY | NBS Press Conference |  |  |  |
 | 05:30 | JPY | Industrial Production (MoM) (Jun) | 2.1% | 1.7% | -0.1% |
 | 08:00 | CHF | GDP (QoQ) (Q2) | 0.1% |  | 0.5% |
-| 13:30 | USD | Export Price Index (MoM) (Jul) |  | 0.1% | 0.5% |
-| 13:30 | USD | Import Price Index (MoM) (Jul) |  | 0.1% | 0.1% |
-| 13:30 | USD | NY Empire State Manufacturing Index (Aug) |  | -1.20 | 5.50 |
-| 13:30 | USD | Retail Control (MoM) (Jul) |  | 0.4% | 0.5% |
-| 13:30 | CAD | Wholesale Sales (MoM) (Jun) |  | 0.7% | 0.1% |
-| 14:15 | USD | Industrial Production (YoY) (Jul) |  |  | 0.73% |
+| 19 min | USD | Export Price Index (MoM) (Jul) |  | 0.1% | 0.5% |
+| 19 min | USD | Import Price Index (MoM) (Jul) |  | 0.1% | 0.1% |
+| 19 min | USD | NY Empire State Manufacturing Index (Aug) |  | -1.20 | 5.50 |
+| 19 min | USD | Retail Control (MoM) (Jul) |  | 0.4% | 0.5% |
+| 19 min | CAD | Wholesale Sales (MoM) (Jun) |  | 0.7% | 0.1% |
 | 14:15 | USD | Industrial Production (MoM) (Jul) |  | 0.0% | 0.3% |
+| 14:15 | USD | Industrial Production (YoY) (Jul) |  |  | 0.73% |
 | 15:00 | USD | Business Inventories (MoM) (Jun) |  | 0.2% | 0.0% |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Aug) |  |  | 4.5% |
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Aug) |  |  | 3.4% |
