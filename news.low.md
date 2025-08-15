@@ -33,17 +33,17 @@
 | 14:15 | USD | Capacity Utilization Rate (Jul) | 77.5% | 77.6% | 77.7% |
 | 14:15 | USD | Manufacturing Production (MoM) (Jul) | 0.0% | -0.1% | 0.3% |
 | 15:00 | USD | Michigan Current Conditions (Aug) | 60.9 | 67.9 | 68.0 |
-| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.3K |
-| 20:30 | USD | CFTC Copper speculative net positions |  |  | 20.7K |
-| 20:30 | USD | CFTC Corn speculative net positions |  |  | -108.0K |
-| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -93.8K |
-| 20:30 | USD | CFTC Silver speculative net positions |  |  | 50.7K |
-| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | -39.2K |
-| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -78.6K |
-| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -79.4K |
-| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 68.1K |
-| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -27.4K |
-| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -4.8K |
-| 21:00 | USD | US Foreign Buying, T-bonds (Jun) |  |  | 146.30B |
-| 21:00 | USD | Overall Net Capital Flow (Jun) |  |  | 311.10B |
-| 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Jun) |  |  | 259.40B |
+| 25 min | USD | CFTC Aluminium speculative net positions |  |  | 0.3K |
+| 25 min | USD | CFTC Copper speculative net positions |  |  | 20.7K |
+| 25 min | USD | CFTC Corn speculative net positions |  |  | -108.0K |
+| 25 min | USD | CFTC Natural Gas speculative net positions |  |  | -93.8K |
+| 25 min | USD | CFTC Silver speculative net positions |  |  | 50.7K |
+| 25 min | USD | CFTC Soybeans speculative net positions |  |  | -39.2K |
+| 25 min | USD | CFTC Wheat speculative net positions |  |  | -78.6K |
+| 25 min | CAD | CFTC CAD speculative net positions |  |  | -79.4K |
+| 25 min | MXN | CFTC MXN speculative net positions |  |  | 68.1K |
+| 25 min | CHF | CFTC CHF speculative net positions |  |  | -27.4K |
+| 25 min | NZD | CFTC NZD speculative net positions |  |  | -4.8K |
+| 55 min | USD | US Foreign Buying, T-bonds (Jun) |  |  | 146.30B |
+| 55 min | USD | Overall Net Capital Flow (Jun) |  |  | 311.10B |
+| 55 min | USD | TIC Net Long-Term Transactions including Swaps (Jun) |  |  | 259.40B |
