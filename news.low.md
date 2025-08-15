@@ -17,22 +17,22 @@
 | 03:00 | CNY | Chinese Retail Sales YTD (YoY) (Jul) | 3.84% |  | 4.02% |
 | 05:30 | JPY | Capacity Utilization (MoM) (Jun) | -1.8% |  | 2.0% |
 | 07:00 | NOK | Trade Balance (Jul) | 54.0B |  | 46.2B |
-| 09:30 | HKD | GDP (YoY) (Q2) | 3.1% | 3.1% | 3.0% |
 | 09:30 | HKD | GDP (QoQ) (Q2) | 0.4% | 0.4% | 1.9% |
+| 09:30 | HKD | GDP (YoY) (Q2) | 3.1% | 3.1% | 3.0% |
 | 11:00 | EUR | ECOFIN Meetings |  |  |  |
 | 11:00 | EUR | Reserve Assets Total (Jul) | 1,498.95B |  | 1,462.08B |
 | 12:30 | INR | Bank Loan Growth | 10.0% |  | 9.8% |
 | 12:30 | INR | Deposit Growth | 10.2% |  | 10.1% |
 | 12:30 | INR | FX Reserves, USD | 693.62B |  | 688.87B |
-| 19 min | USD | Export Price Index (YoY) (Jul) |  |  | 2.8% |
-| 19 min | USD | Import Price Index (YoY) (Jul) |  |  | -0.2% |
-| 19 min | USD | Retail Sales (YoY) (Jul) |  |  | 3.92% |
-| 19 min | USD | Retail Sales Ex Gas/Autos (MoM) (Jul) |  |  | 0.6% |
-| 19 min | CAD | Manufacturing Sales (MoM) (Jun) |  | 0.4% | -0.9% |
-| 19 min | CAD | New Motor Vehicle Sales (MoM) (Jun) |  |  | 194.5K |
+| 13:30 | USD | Export Price Index (YoY) (Jul) | 2.2% |  | 2.8% |
+| 13:30 | USD | Import Price Index (YoY) (Jul) | -0.2% |  | -0.2% |
+| 13:30 | USD | Retail Sales (YoY) (Jul) | 3.92% |  | 4.35% |
+| 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Jul) | 0.2% |  | 0.8% |
+| 13:30 | CAD | Manufacturing Sales (MoM) (Jun) | 0.3% | 0.4% | -1.5% |
+| 13:30 | CAD | New Motor Vehicle Sales (MoM) (Jun) | 177.3K |  | 194.5K |
 | 14:15 | USD | Capacity Utilization Rate (Jul) |  | 77.6% | 77.6% |
 | 14:15 | USD | Manufacturing Production (MoM) (Jul) |  | -0.1% | 0.1% |
-| 15:00 | USD | Michigan Current Conditions (Aug) |  | 67.9 | 68.0 |
+| 45 min | USD | Michigan Current Conditions (Aug) |  | 67.9 | 68.0 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.3K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 20.7K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -108.0K |
