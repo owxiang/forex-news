@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:50 | JPY | Low | Foreign Bonds Buying | 254.9B |  | -527.0B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 489.3B |  | 193.9B |
-| 00:50 | JPY | High | GDP (QoQ) (Q2) | 0.3% | 0.1% | 0.1% |
 | 00:50 | JPY | Moderate | GDP (YoY) (Q2) | 1.0% | 0.4% | 0.6% |
+| 00:50 | JPY | High | GDP (QoQ) (Q2) | 0.3% | 0.1% | 0.1% |
 | 00:50 | JPY | Low | GDP Capital Expenditure (QoQ) (Q2) | 1.3% | 0.5% | 1.0% |
 | 00:50 | JPY | Low | GDP External Demand (QoQ) (Q2) | 0.3% | 0.2% | -0.8% |
 | 00:50 | JPY | Moderate | GDP Price Index (YoY) (Q2) | 3.0% | 3.1% | 3.3% |
@@ -41,15 +41,15 @@
 | 13:30 | USD | Moderate | Import Price Index (MoM) (Jul) | 0.4% | 0.1% | -0.1% |
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Aug) | 11.90 | -1.20 | 5.50 |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Jul) | 0.5% | 0.4% | 0.8% |
-| 13:30 | USD | High | Retail Sales (MoM) (Jul) | 0.5% | 0.6% | 0.9% |
 | 13:30 | USD | Low | Retail Sales (YoY) (Jul) | 3.92% |  | 4.35% |
+| 13:30 | USD | High | Retail Sales (MoM) (Jul) | 0.5% | 0.6% | 0.9% |
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Jul) | 0.2% |  | 0.8% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Jun) | 0.3% | 0.4% | -1.5% |
 | 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Jun) | 177.3K |  | 194.5K |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Jun) | 0.7% | 0.7% | 0.0% |
 | 14:15 | USD | Low | Capacity Utilization Rate (Jul) | 77.5% | 77.6% | 77.7% |
-| 14:15 | USD | Moderate | Industrial Production (YoY) (Jul) | 1.43% |  | 0.83% |
 | 14:15 | USD | Moderate | Industrial Production (MoM) (Jul) | -0.1% | 0.0% | 0.4% |
+| 14:15 | USD | Moderate | Industrial Production (YoY) (Jul) | 1.43% |  | 0.83% |
 | 14:15 | USD | Low | Manufacturing Production (MoM) (Jul) | 0.0% | -0.1% | 0.3% |
 | 15:00 | USD | Moderate | Business Inventories (MoM) (Jun) | 0.2% | 0.2% | 0.0% |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Aug) | 4.9% | 4.4% | 4.5% |

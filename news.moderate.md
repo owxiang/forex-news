@@ -16,8 +16,8 @@
 | 13:30 | USD | NY Empire State Manufacturing Index (Aug) | 11.90 | -1.20 | 5.50 |
 | 13:30 | USD | Retail Control (MoM) (Jul) | 0.5% | 0.4% | 0.8% |
 | 13:30 | CAD | Wholesale Sales (MoM) (Jun) | 0.7% | 0.7% | 0.0% |
-| 14:15 | USD | Industrial Production (YoY) (Jul) | 1.43% |  | 0.83% |
 | 14:15 | USD | Industrial Production (MoM) (Jul) | -0.1% | 0.0% | 0.4% |
+| 14:15 | USD | Industrial Production (YoY) (Jul) | 1.43% |  | 0.83% |
 | 15:00 | USD | Business Inventories (MoM) (Jun) | 0.2% | 0.2% | 0.0% |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Aug) | 4.9% | 4.4% | 4.5% |
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Aug) | 3.9% | 3.4% | 3.4% |
