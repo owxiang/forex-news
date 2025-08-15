@@ -2,16 +2,13 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 43 min | JPY | Foreign Bonds Buying |  |  | -526.3B |
-| 43 min | JPY | Foreign Investments in Japanese Stocks |  |  | 193.0B |
-| 43 min | JPY | GDP Capital Expenditure (QoQ) (Q2) |  | 0.5% | 1.1% |
-| 43 min | JPY | GDP External Demand (QoQ) (Q2) |  | 0.2% | -0.8% |
-| 43 min | JPY | GDP Private Consumption (QoQ) (Q2) |  | 0.1% | 0.1% |
-| 48 min | KRW | Exports (YoY) (Jul) |  | 5.9% | 4.3% |
-| 48 min | KRW | Imports (YoY) (Jul) |  | 0.7% | 3.3% |
-| 48 min | KRW | Trade Balance (Jul) |  | 6.61B | 9.08B |
-| 02:00 | AUD | MI Inflation Expectations (Aug) |  |  | 4.7% |
-| 02:30 | CNY | House Prices (YoY) (Jul) |  |  | -3.2% |
+| 00:50 | JPY | Foreign Bonds Buying | 254.9B |  | -527.0B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks | 489.3B |  | 193.9B |
+| 00:50 | JPY | GDP Capital Expenditure (QoQ) (Q2) | 1.3% | 0.5% | 1.0% |
+| 00:50 | JPY | GDP External Demand (QoQ) (Q2) | 0.3% | 0.2% | -0.8% |
+| 00:50 | JPY | GDP Private Consumption (QoQ) (Q2) | 0.2% | 0.1% | 0.2% |
+| 28 min | AUD | MI Inflation Expectations (Aug) |  |  | 4.7% |
+| 58 min | CNY | House Prices (YoY) (Jul) |  |  | -3.2% |
 | 03:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 46.29 |
 | 03:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 60.89 |
 | 03:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 49.67 |
@@ -19,6 +16,9 @@
 | 03:00 | CNY | China Thomson Reuters IPSOS PCSI (Aug) |  |  | 71.33 |
 | 03:00 | CNY | Retail Sales (YoY) (Jul) |  | 4.6% | 4.8% |
 | 03:00 | CNY | Chinese Retail Sales YTD (YoY) (Jul) |  |  | 4.02% |
+| 05:00 | KRW | Exports (YoY) (Jul) |  | 5.9% | 4.3% |
+| 05:00 | KRW | Imports (YoY) (Jul) |  | 0.7% | 3.3% |
+| 05:00 | KRW | Trade Balance (Jul) |  | 6.61B | 9.08B |
 | 05:00 | IDR | Export Growth (YoY) (Jul) |  |  | 11.29% |
 | 05:00 | IDR | Import Growth (YoY) (Jul) |  |  | 4.28% |
 | 05:30 | JPY | Capacity Utilization (MoM) (Jun) |  |  | 2.0% |

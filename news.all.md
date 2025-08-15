@@ -2,19 +2,16 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 43 min | JPY | Low | Foreign Bonds Buying |  |  | -526.3B |
-| 43 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 193.0B |
-| 43 min | JPY | High | GDP (QoQ) (Q2) |  | 0.1% | 0.0% |
-| 43 min | JPY | Moderate | GDP (YoY) (Q2) |  | 0.4% | -0.2% |
-| 43 min | JPY | Low | GDP Capital Expenditure (QoQ) (Q2) |  | 0.5% | 1.1% |
-| 43 min | JPY | Low | GDP External Demand (QoQ) (Q2) |  | 0.2% | -0.8% |
-| 43 min | JPY | Moderate | GDP Price Index (YoY) (Q2) |  | 3.1% | 3.3% |
-| 43 min | JPY | Low | GDP Private Consumption (QoQ) (Q2) |  | 0.1% | 0.1% |
-| 48 min | KRW | Low | Exports (YoY) (Jul) |  | 5.9% | 4.3% |
-| 48 min | KRW | Low | Imports (YoY) (Jul) |  | 0.7% | 3.3% |
-| 48 min | KRW | Low | Trade Balance (Jul) |  | 6.61B | 9.08B |
-| 02:00 | AUD | Low | MI Inflation Expectations (Aug) |  |  | 4.7% |
-| 02:30 | CNY | Low | House Prices (YoY) (Jul) |  |  | -3.2% |
+| 00:50 | JPY | Low | Foreign Bonds Buying | 254.9B |  | -527.0B |
+| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 489.3B |  | 193.9B |
+| 00:50 | JPY | High | GDP (QoQ) (Q2) | 0.3% | 0.1% | 0.1% |
+| 00:50 | JPY | Moderate | GDP (YoY) (Q2) | 1.0% | 0.4% | 0.6% |
+| 00:50 | JPY | Low | GDP Capital Expenditure (QoQ) (Q2) | 1.3% | 0.5% | 1.0% |
+| 00:50 | JPY | Low | GDP External Demand (QoQ) (Q2) | 0.3% | 0.2% | -0.8% |
+| 00:50 | JPY | Moderate | GDP Price Index (YoY) (Q2) | 3.0% | 3.1% | 3.3% |
+| 00:50 | JPY | Low | GDP Private Consumption (QoQ) (Q2) | 0.2% | 0.1% | 0.2% |
+| 28 min | AUD | Low | MI Inflation Expectations (Aug) |  |  | 4.7% |
+| 58 min | CNY | Low | House Prices (YoY) (Jul) |  |  | -3.2% |
 | 03:00 | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 46.29 |
 | 03:00 | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 60.89 |
 | 03:00 | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 49.67 |
@@ -27,6 +24,9 @@
 | 03:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Jul) |  |  | 4.02% |
 | 03:00 | CNY | Moderate | Chinese Unemployment Rate (Jul) |  | 5.1% | 5.0% |
 | 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
+| 05:00 | KRW | Low | Exports (YoY) (Jul) |  | 5.9% | 4.3% |
+| 05:00 | KRW | Low | Imports (YoY) (Jul) |  | 0.7% | 3.3% |
+| 05:00 | KRW | Low | Trade Balance (Jul) |  | 6.61B | 9.08B |
 | 05:00 | IDR | Low | Export Growth (YoY) (Jul) |  |  | 11.29% |
 | 05:00 | IDR | Low | Import Growth (YoY) (Jul) |  |  | 4.28% |
 | 05:30 | JPY | Low | Capacity Utilization (MoM) (Jun) |  |  | 2.0% |
@@ -47,19 +47,19 @@
 | 13:30 | USD | High | Core Retail Sales (MoM) (Jul) |  | 0.3% | 0.5% |
 | 13:30 | USD | Low | Export Price Index (YoY) (Jul) |  |  | 2.8% |
 | 13:30 | USD | Moderate | Export Price Index (MoM) (Jul) |  | 0.1% | 0.5% |
-| 13:30 | USD | Moderate | Import Price Index (MoM) (Jul) |  | 0.0% | 0.1% |
 | 13:30 | USD | Low | Import Price Index (YoY) (Jul) |  |  | -0.2% |
+| 13:30 | USD | Moderate | Import Price Index (MoM) (Jul) |  | 0.0% | 0.1% |
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Aug) |  | -1.20 | 5.50 |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Jul) |  | 0.4% | 0.5% |
-| 13:30 | USD | High | Retail Sales (MoM) (Jul) |  | 0.6% | 0.6% |
 | 13:30 | USD | Low | Retail Sales (YoY) (Jul) |  |  | 3.92% |
+| 13:30 | USD | High | Retail Sales (MoM) (Jul) |  | 0.6% | 0.6% |
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Jul) |  |  | 0.6% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Jun) |  | 0.4% | -0.9% |
 | 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Jun) |  |  | 194.5K |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Jun) |  | 0.7% | 0.1% |
 | 14:15 | USD | Low | Capacity Utilization Rate (Jul) |  | 77.6% | 77.6% |
-| 14:15 | USD | Moderate | Industrial Production (YoY) (Jul) |  |  | 0.73% |
 | 14:15 | USD | Moderate | Industrial Production (MoM) (Jul) |  | 0.0% | 0.3% |
+| 14:15 | USD | Moderate | Industrial Production (YoY) (Jul) |  |  | 0.73% |
 | 14:15 | USD | Low | Manufacturing Production (MoM) (Jul) |  | -0.1% | 0.1% |
 | 15:00 | USD | Moderate | Business Inventories (MoM) (Jun) |  | 0.2% | 0.0% |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Aug) |  |  | 4.5% |
