@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:50 | JPY | Low | Foreign Bonds Buying | 254.9B |  | -527.0B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 489.3B |  | 193.9B |
-| 00:50 | JPY | High | GDP (QoQ) (Q2) | 0.3% | 0.1% | 0.1% |
 | 00:50 | JPY | Moderate | GDP (YoY) (Q2) | 1.0% | 0.4% | 0.6% |
+| 00:50 | JPY | High | GDP (QoQ) (Q2) | 0.3% | 0.1% | 0.1% |
 | 00:50 | JPY | Low | GDP Capital Expenditure (QoQ) (Q2) | 1.3% | 0.5% | 1.0% |
 | 00:50 | JPY | Low | GDP External Demand (QoQ) (Q2) | 0.3% | 0.2% | -0.8% |
 | 00:50 | JPY | Moderate | GDP Price Index (YoY) (Q2) | 3.0% | 3.1% | 3.3% |
@@ -27,8 +27,8 @@
 | 05:30 | JPY | Moderate | Industrial Production (MoM) (Jun) | 2.1% | 1.7% | -0.1% |
 | 07:00 | NOK | Low | Trade Balance (Jul) | 54.0B |  | 46.2B |
 | 08:00 | CHF | Moderate | GDP (QoQ) (Q2) | 0.1% |  | 0.5% |
-| 09:30 | HKD | Low | GDP (QoQ) (Q2) | 0.4% | 0.4% | 1.9% |
 | 09:30 | HKD | Low | GDP (YoY) (Q2) | 3.1% | 3.1% | 3.0% |
+| 09:30 | HKD | Low | GDP (QoQ) (Q2) | 0.4% | 0.4% | 1.9% |
 | 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 11:00 | EUR | Low | Reserve Assets Total (Jul) | 1,498.95B |  | 1,462.08B |
 | 12:30 | INR | Low | Bank Loan Growth | 10.0% |  | 9.8% |
@@ -41,8 +41,8 @@
 | 13:30 | USD | Moderate | Import Price Index (MoM) (Jul) | 0.4% | 0.1% | -0.1% |
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Aug) | 11.90 | -1.20 | 5.50 |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Jul) | 0.5% | 0.4% | 0.8% |
-| 13:30 | USD | Low | Retail Sales (YoY) (Jul) | 3.92% |  | 4.35% |
 | 13:30 | USD | High | Retail Sales (MoM) (Jul) | 0.5% | 0.6% | 0.9% |
+| 13:30 | USD | Low | Retail Sales (YoY) (Jul) | 3.92% |  | 4.35% |
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Jul) | 0.2% |  | 0.8% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Jun) | 0.3% | 0.4% | -1.5% |
 | 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Jun) | 177.3K |  | 194.5K |
@@ -58,9 +58,9 @@
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Aug) | 58.6 | 61.9 | 61.7 |
 | 15:00 | USD | Low | Michigan Current Conditions (Aug) | 60.9 | 67.9 | 68.0 |
 | 15:00 | USD | Moderate | Retail Inventories Ex Auto (Jun) | -0.1% | 0.0% | 0.1% |
-| 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 2.5% | 2.5% |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 411 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 539 |
+| 52 min | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 2.5% | 2.5% |
+| 52 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 411 |
+| 52 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 539 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -33.3K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 0.3K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 20.7K |

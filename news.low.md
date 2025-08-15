@@ -17,8 +17,8 @@
 | 03:00 | CNY | Chinese Retail Sales YTD (YoY) (Jul) | 3.84% |  | 4.02% |
 | 05:30 | JPY | Capacity Utilization (MoM) (Jun) | -1.8% |  | 2.0% |
 | 07:00 | NOK | Trade Balance (Jul) | 54.0B |  | 46.2B |
-| 09:30 | HKD | GDP (QoQ) (Q2) | 0.4% | 0.4% | 1.9% |
 | 09:30 | HKD | GDP (YoY) (Q2) | 3.1% | 3.1% | 3.0% |
+| 09:30 | HKD | GDP (QoQ) (Q2) | 0.4% | 0.4% | 1.9% |
 | 11:00 | EUR | ECOFIN Meetings |  |  |  |
 | 11:00 | EUR | Reserve Assets Total (Jul) | 1,498.95B |  | 1,462.08B |
 | 12:30 | INR | Bank Loan Growth | 10.0% |  | 9.8% |
