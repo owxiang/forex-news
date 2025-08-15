@@ -15,16 +15,16 @@
 | 03:00 | CNY | China Thomson Reuters IPSOS PCSI (Aug) | 72.42 |  | 71.33 |
 | 03:00 | CNY | Retail Sales (YoY) (Jul) | 3.7% | 4.6% | 4.8% |
 | 03:00 | CNY | Chinese Retail Sales YTD (YoY) (Jul) | 3.84% |  | 4.02% |
-| 28 min | KRW | Exports (YoY) (Jul) |  | 5.9% | 4.3% |
-| 28 min | KRW | Imports (YoY) (Jul) |  | 0.7% | 3.3% |
-| 28 min | KRW | Trade Balance (Jul) |  | 6.61B | 9.08B |
-| 28 min | IDR | Export Growth (YoY) (Jul) |  |  | 11.29% |
-| 28 min | IDR | Import Growth (YoY) (Jul) |  |  | 4.28% |
-| 58 min | JPY | Capacity Utilization (MoM) (Jun) |  |  | 2.0% |
+| 05:00 | KRW | Exports (YoY) (Jul) |  | 5.9% | 4.3% |
+| 05:00 | KRW | Imports (YoY) (Jul) |  | 0.7% | 3.3% |
+| 05:00 | KRW | Trade Balance (Jul) |  | 6.61B | 9.08B |
+| 05:00 | IDR | Export Growth (YoY) (Jul) |  |  | 11.29% |
+| 05:00 | IDR | Import Growth (YoY) (Jul) |  |  | 4.28% |
+| 16 min | JPY | Capacity Utilization (MoM) (Jun) |  |  | 2.0% |
 | 07:00 | NOK | Trade Balance (Jul) |  |  | 47.4B |
 | 08:00 | CNY | FDI (Jul) |  |  | -15.20% |
-| 09:30 | HKD | GDP (YoY) (Q2) |  | 3.1% | 3.0% |
 | 09:30 | HKD | GDP (QoQ) (Q2) |  | 0.4% | 1.9% |
+| 09:30 | HKD | GDP (YoY) (Q2) |  | 3.1% | 3.0% |
 | 10:00 | INR | Exports (USD) (Jul) |  |  | 35.14B |
 | 10:00 | INR | Imports (USD) (Jul) |  |  | 53.92B |
 | 10:00 | INR | Trade Balance (Jul) |  | -20.70B | -18.78B |
