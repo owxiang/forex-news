@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:50 | JPY | Low | Foreign Bonds Buying | 254.9B |  | -527.0B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 489.3B |  | 193.9B |
-| 00:50 | JPY | High | GDP (QoQ) (Q2) | 0.3% | 0.1% | 0.1% |
 | 00:50 | JPY | Moderate | GDP (YoY) (Q2) | 1.0% | 0.4% | 0.6% |
+| 00:50 | JPY | High | GDP (QoQ) (Q2) | 0.3% | 0.1% | 0.1% |
 | 00:50 | JPY | Low | GDP Capital Expenditure (QoQ) (Q2) | 1.3% | 0.5% | 1.0% |
 | 00:50 | JPY | Low | GDP External Demand (QoQ) (Q2) | 0.3% | 0.2% | -0.8% |
 | 00:50 | JPY | Moderate | GDP Price Index (YoY) (Q2) | 3.0% | 3.1% | 3.3% |
@@ -27,8 +27,8 @@
 | 05:30 | JPY | Moderate | Industrial Production (MoM) (Jun) | 2.1% | 1.7% | -0.1% |
 | 07:00 | NOK | Low | Trade Balance (Jul) | 54.0B |  | 47.4B |
 | 08:00 | CHF | Moderate | GDP (QoQ) (Q2) | 0.1% |  | 0.5% |
-| 09:30 | HKD | Low | GDP (QoQ) (Q2) |  | 0.4% | 1.9% |
-| 09:30 | HKD | Low | GDP (YoY) (Q2) |  | 3.1% | 3.0% |
+| 20 min | HKD | Low | GDP (YoY) (Q2) |  | 3.1% | 3.0% |
+| 20 min | HKD | Low | GDP (QoQ) (Q2) |  | 0.4% | 1.9% |
 | 11:00 | CNY | Low | FDI (Jul) |  |  | -15.20% |
 | 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 11:00 | EUR | Low | Reserve Assets Total (Jul) |  |  | 1,462.10B |
