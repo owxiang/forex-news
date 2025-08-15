@@ -7,15 +7,14 @@
 | 00:50 | JPY | GDP Capital Expenditure (QoQ) (Q2) | 1.3% | 0.5% | 1.0% |
 | 00:50 | JPY | GDP External Demand (QoQ) (Q2) | 0.3% | 0.2% | -0.8% |
 | 00:50 | JPY | GDP Private Consumption (QoQ) (Q2) | 0.2% | 0.1% | 0.2% |
-| 02:30 | AUD | MI Inflation Expectations (Aug) |  |  | 4.7% |
 | 02:30 | CNY | House Prices (YoY) (Jul) | -2.8% |  | -3.2% |
-| 25 min | KRW | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 46.29 |
-| 25 min | INR | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 60.89 |
-| 25 min | AUD | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 49.67 |
-| 25 min | JPY | Thomson Reuters IPSOS PCSI (Aug) |  |  | 35.93 |
-| 25 min | CNY | China Thomson Reuters IPSOS PCSI (Aug) |  |  | 71.33 |
-| 25 min | CNY | Retail Sales (YoY) (Jul) |  | 4.6% | 4.8% |
-| 25 min | CNY | Chinese Retail Sales YTD (YoY) (Jul) |  |  | 4.02% |
+| 03:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Aug) | 47.87 |  | 46.29 |
+| 03:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Aug) | 57.62 |  | 60.89 |
+| 03:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Aug) | 52.09 |  | 49.67 |
+| 03:00 | JPY | Thomson Reuters IPSOS PCSI (Aug) | 37.21 |  | 35.93 |
+| 03:00 | CNY | China Thomson Reuters IPSOS PCSI (Aug) | 72.42 |  | 71.33 |
+| 03:00 | CNY | Retail Sales (YoY) (Jul) | 3.7% | 4.6% | 4.8% |
+| 03:00 | CNY | Chinese Retail Sales YTD (YoY) (Jul) | 3.84% |  | 4.02% |
 | 05:00 | KRW | Exports (YoY) (Jul) |  | 5.9% | 4.3% |
 | 05:00 | KRW | Imports (YoY) (Jul) |  | 0.7% | 3.3% |
 | 05:00 | KRW | Trade Balance (Jul) |  | 6.61B | 9.08B |
@@ -24,8 +23,8 @@
 | 05:30 | JPY | Capacity Utilization (MoM) (Jun) |  |  | 2.0% |
 | 07:00 | NOK | Trade Balance (Jul) |  |  | 47.4B |
 | 08:00 | CNY | FDI (Jul) |  |  | -15.20% |
-| 09:30 | HKD | GDP (YoY) (Q2) |  | 3.1% | 3.0% |
 | 09:30 | HKD | GDP (QoQ) (Q2) |  | 0.4% | 1.9% |
+| 09:30 | HKD | GDP (YoY) (Q2) |  | 3.1% | 3.0% |
 | 10:00 | INR | Exports (USD) (Jul) |  |  | 35.14B |
 | 10:00 | INR | Imports (USD) (Jul) |  |  | 53.92B |
 | 10:00 | INR | Trade Balance (Jul) |  | -20.70B | -18.78B |

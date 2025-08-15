@@ -4,11 +4,11 @@
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | GDP (YoY) (Q2) | 1.0% | 0.4% | 0.6% |
 | 00:50 | JPY | GDP Price Index (YoY) (Q2) | 3.0% | 3.1% | 3.3% |
-| 25 min | CNY | Fixed Asset Investment (YoY) (Jul) |  | 2.7% | 2.8% |
-| 25 min | CNY | Industrial Production (YoY) (Jul) |  | 6.0% | 6.8% |
-| 25 min | CNY | Chinese Industrial Production YTD (YoY) (Jul) |  |  | 6.4% |
-| 25 min | CNY | Chinese Unemployment Rate (Jul) |  | 5.1% | 5.0% |
-| 25 min | CNY | NBS Press Conference |  |  |  |
+| 03:00 | CNY | Fixed Asset Investment (YoY) (Jul) | 1.6% | 2.7% | 2.8% |
+| 03:00 | CNY | Industrial Production (YoY) (Jul) | 5.7% | 6.0% | 6.8% |
+| 03:00 | CNY | Chinese Industrial Production YTD (YoY) (Jul) | 6.3% |  | 6.4% |
+| 03:00 | CNY | Chinese Unemployment Rate (Jul) | 5.2% | 5.1% | 5.0% |
+| 03:00 | CNY | NBS Press Conference |  |  |  |
 | 05:30 | JPY | Industrial Production (MoM) (Jun) |  | 1.7% | -0.1% |
 | 08:00 | CHF | GDP (QoQ) (Q2) |  |  | 0.5% |
 | 13:30 | USD | Export Price Index (MoM) (Jul) |  | 0.1% | 0.5% |
@@ -16,8 +16,8 @@
 | 13:30 | USD | NY Empire State Manufacturing Index (Aug) |  | -1.20 | 5.50 |
 | 13:30 | USD | Retail Control (MoM) (Jul) |  | 0.4% | 0.5% |
 | 13:30 | CAD | Wholesale Sales (MoM) (Jun) |  | 0.7% | 0.1% |
-| 14:15 | USD | Industrial Production (MoM) (Jul) |  | 0.0% | 0.3% |
 | 14:15 | USD | Industrial Production (YoY) (Jul) |  |  | 0.73% |
+| 14:15 | USD | Industrial Production (MoM) (Jul) |  | 0.0% | 0.3% |
 | 15:00 | USD | Business Inventories (MoM) (Jun) |  | 0.2% | 0.0% |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Aug) |  |  | 4.5% |
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Aug) |  |  | 3.4% |
