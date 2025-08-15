@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:50 | JPY | Low | Foreign Bonds Buying | 254.9B |  | -527.0B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 489.3B |  | 193.9B |
-| 00:50 | JPY | Moderate | GDP (YoY) (Q2) | 1.0% | 0.4% | 0.6% |
 | 00:50 | JPY | High | GDP (QoQ) (Q2) | 0.3% | 0.1% | 0.1% |
+| 00:50 | JPY | Moderate | GDP (YoY) (Q2) | 1.0% | 0.4% | 0.6% |
 | 00:50 | JPY | Low | GDP Capital Expenditure (QoQ) (Q2) | 1.3% | 0.5% | 1.0% |
 | 00:50 | JPY | Low | GDP External Demand (QoQ) (Q2) | 0.3% | 0.2% | -0.8% |
 | 00:50 | JPY | Moderate | GDP Price Index (YoY) (Q2) | 3.0% | 3.1% | 3.3% |
@@ -23,35 +23,27 @@
 | 03:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Jul) | 3.84% |  | 4.02% |
 | 03:00 | CNY | Moderate | Chinese Unemployment Rate (Jul) | 5.2% | 5.1% | 5.0% |
 | 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
-| 05:00 | KRW | Low | Exports (YoY) (Jul) |  | 5.9% | 4.3% |
-| 05:00 | KRW | Low | Imports (YoY) (Jul) |  | 0.7% | 3.3% |
-| 05:00 | KRW | Low | Trade Balance (Jul) |  | 6.61B | 9.08B |
-| 05:00 | IDR | Low | Export Growth (YoY) (Jul) |  |  | 11.29% |
-| 05:00 | IDR | Low | Import Growth (YoY) (Jul) |  |  | 4.28% |
-| 16 min | JPY | Low | Capacity Utilization (MoM) (Jun) |  |  | 2.0% |
-| 16 min | JPY | Moderate | Industrial Production (MoM) (Jun) |  | 1.7% | -0.1% |
-| 07:00 | NOK | Low | Trade Balance (Jul) |  |  | 47.4B |
+| 05:30 | JPY | Low | Capacity Utilization (MoM) (Jun) | -1.8% |  | 2.0% |
+| 05:30 | JPY | Moderate | Industrial Production (MoM) (Jun) | 2.1% | 1.7% | -0.1% |
+| 52 min | NOK | Low | Trade Balance (Jul) |  |  | 47.4B |
 | 08:00 | CHF | Moderate | GDP (QoQ) (Q2) |  |  | 0.5% |
 | 08:00 | CNY | Low | FDI (Jul) |  |  | -15.20% |
 | 09:30 | HKD | Low | GDP (QoQ) (Q2) |  | 0.4% | 1.9% |
 | 09:30 | HKD | Low | GDP (YoY) (Q2) |  | 3.1% | 3.0% |
-| 10:00 | INR | Low | Exports (USD) (Jul) |  |  | 35.14B |
-| 10:00 | INR | Low | Imports (USD) (Jul) |  |  | 53.92B |
-| 10:00 | INR | Low | Trade Balance (Jul) |  | -20.70B | -18.78B |
 | 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 11:00 | EUR | Low | Reserve Assets Total (Jul) |  |  | 1,462.10B |
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 9.8% |
 | 12:30 | INR | Low | Deposit Growth |  |  | 10.1% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 688.87B |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Jul) |  | 0.3% | 0.5% |
-| 13:30 | USD | Low | Export Price Index (YoY) (Jul) |  |  | 2.8% |
 | 13:30 | USD | Moderate | Export Price Index (MoM) (Jul) |  | 0.1% | 0.5% |
+| 13:30 | USD | Low | Export Price Index (YoY) (Jul) |  |  | 2.8% |
 | 13:30 | USD | Low | Import Price Index (YoY) (Jul) |  |  | -0.2% |
-| 13:30 | USD | Moderate | Import Price Index (MoM) (Jul) |  | 0.0% | 0.1% |
+| 13:30 | USD | Moderate | Import Price Index (MoM) (Jul) |  | 0.1% | 0.1% |
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Aug) |  | -1.20 | 5.50 |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Jul) |  | 0.4% | 0.5% |
-| 13:30 | USD | High | Retail Sales (MoM) (Jul) |  | 0.6% | 0.6% |
 | 13:30 | USD | Low | Retail Sales (YoY) (Jul) |  |  | 3.92% |
+| 13:30 | USD | High | Retail Sales (MoM) (Jul) |  | 0.6% | 0.6% |
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Jul) |  |  | 0.6% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Jun) |  | 0.4% | -0.9% |
 | 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Jun) |  |  | 194.5K |
