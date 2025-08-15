@@ -19,12 +19,11 @@
 | 07:00 | NOK | Trade Balance (Jul) | 54.0B |  | 46.2B |
 | 09:30 | HKD | GDP (YoY) (Q2) | 3.1% | 3.1% | 3.0% |
 | 09:30 | HKD | GDP (QoQ) (Q2) | 0.4% | 0.4% | 1.9% |
-| 11:00 | CNY | FDI (Jul) |  |  | -15.20% |
 | 11:00 | EUR | ECOFIN Meetings |  |  |  |
-| 11:00 | EUR | Reserve Assets Total (Jul) |  |  | 1,462.10B |
-| 12:30 | INR | Bank Loan Growth |  |  | 9.8% |
-| 12:30 | INR | Deposit Growth |  |  | 10.1% |
-| 12:30 | INR | FX Reserves, USD |  |  | 688.87B |
+| 11:00 | EUR | Reserve Assets Total (Jul) | 1,498.95B |  | 1,462.08B |
+| 24 min | INR | Bank Loan Growth |  |  | 9.8% |
+| 24 min | INR | Deposit Growth |  |  | 10.1% |
+| 24 min | INR | FX Reserves, USD |  |  | 688.87B |
 | 13:30 | USD | Export Price Index (YoY) (Jul) |  |  | 2.8% |
 | 13:30 | USD | Import Price Index (YoY) (Jul) |  |  | -0.2% |
 | 13:30 | USD | Retail Sales (YoY) (Jul) |  |  | 3.92% |

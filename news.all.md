@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:50 | JPY | Low | Foreign Bonds Buying | 254.9B |  | -527.0B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 489.3B |  | 193.9B |
-| 00:50 | JPY | Moderate | GDP (YoY) (Q2) | 1.0% | 0.4% | 0.6% |
 | 00:50 | JPY | High | GDP (QoQ) (Q2) | 0.3% | 0.1% | 0.1% |
+| 00:50 | JPY | Moderate | GDP (YoY) (Q2) | 1.0% | 0.4% | 0.6% |
 | 00:50 | JPY | Low | GDP Capital Expenditure (QoQ) (Q2) | 1.3% | 0.5% | 1.0% |
 | 00:50 | JPY | Low | GDP External Demand (QoQ) (Q2) | 0.3% | 0.2% | -0.8% |
 | 00:50 | JPY | Moderate | GDP Price Index (YoY) (Q2) | 3.0% | 3.1% | 3.3% |
@@ -29,12 +29,11 @@
 | 08:00 | CHF | Moderate | GDP (QoQ) (Q2) | 0.1% |  | 0.5% |
 | 09:30 | HKD | Low | GDP (YoY) (Q2) | 3.1% | 3.1% | 3.0% |
 | 09:30 | HKD | Low | GDP (QoQ) (Q2) | 0.4% | 0.4% | 1.9% |
-| 11:00 | CNY | Low | FDI (Jul) |  |  | -15.20% |
 | 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
-| 11:00 | EUR | Low | Reserve Assets Total (Jul) |  |  | 1,462.10B |
-| 12:30 | INR | Low | Bank Loan Growth |  |  | 9.8% |
-| 12:30 | INR | Low | Deposit Growth |  |  | 10.1% |
-| 12:30 | INR | Low | FX Reserves, USD |  |  | 688.87B |
+| 11:00 | EUR | Low | Reserve Assets Total (Jul) | 1,498.95B |  | 1,462.08B |
+| 24 min | INR | Low | Bank Loan Growth |  |  | 9.8% |
+| 24 min | INR | Low | Deposit Growth |  |  | 10.1% |
+| 24 min | INR | Low | FX Reserves, USD |  |  | 688.87B |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Jul) |  | 0.3% | 0.5% |
 | 13:30 | USD | Moderate | Export Price Index (MoM) (Jul) |  | 0.1% | 0.5% |
 | 13:30 | USD | Low | Export Price Index (YoY) (Jul) |  |  | 2.8% |
