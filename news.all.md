@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | Rightmove House Price Index (MoM) (Aug) | -1.3% |  | -1.2% |
 | 00:01 | GBP | Low | Rightmove House Price Index (YoY) (Aug) | 0.3% |  | 0.1% |
-| 01:30 | SGD | Low | Non-Oil Exports (MoM) (Jul) | -6.00% |  | 14.20% |
 | 01:30 | SGD | Low | Non-Oil Exports (YoY) (Jul) | -4.60% |  | 12.90% |
+| 01:30 | SGD | Low | Non-Oil Exports (MoM) (Jul) | -6.00% |  | 14.20% |
 | 04:00 | NZD | Low | RBNZ Offshore Holdings (Jul) | 60.80% |  | 60.70% |
 | 05:30 | JPY | Low | Tertiary Industry Activity Index (Jun) | 4.50 |  | -1.40 |
 | 07:30 | CHF | Low | Industrial Production (YoY) (Q2) | -0.10% |  | 8.90% |
