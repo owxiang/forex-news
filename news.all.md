@@ -7,7 +7,7 @@
 | 01:30 | SGD | Low | Non-Oil Exports (MoM) (Jul) | -6.00% |  | 14.20% |
 | 04:00 | NZD | Low | RBNZ Offshore Holdings (Jul) | 60.80% |  | 60.70% |
 | 05:30 | JPY | Low | Tertiary Industry Activity Index (Jun) | 4.50 |  | -1.40 |
-| 07:30 | CHF | Low | Industrial Production (YoY) (Q2) |  |  | 8.50% |
+| 19 min | CHF | Low | Industrial Production (YoY) (Q2) |  |  | 8.50% |
 | 09:00 | KRW | Low | Exports (YoY) (Jul) |  |  | 4.3% |
 | 09:00 | KRW | Low | Imports (YoY) (Jul) |  |  | 3.3% |
 | 09:00 | KRW | Low | Trade Balance (Jul) |  |  | 9.08B |
