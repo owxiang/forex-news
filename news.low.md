@@ -19,6 +19,6 @@
 | 14:00 | EUR | French 3-Month BTF Auction | 1.963% |  | 1.952% |
 | 14:00 | EUR | French 6-Month BTF Auction | 1.973% |  | 1.971% |
 | 15:00 | USD | NAHB Housing Market Index (Aug) | 32 | 34 | 33 |
-| 23 min | USD | 3-Month Bill Auction |  |  | 4.150% |
-| 23 min | USD | 6-Month Bill Auction |  |  | 3.970% |
+| 16:30 | USD | 3-Month Bill Auction | 4.130% |  | 4.150% |
+| 16:30 | USD | 6-Month Bill Auction | 3.945% |  | 3.970% |
 | 23:45 | NZD | PPI Output (QoQ) (Q2) |  | 1.0% | 2.1% |
