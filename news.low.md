@@ -12,12 +12,12 @@
 | 09:00 | EUR | Spanish Trade Balance (Jun) | -3.59B |  | -2.54B |
 | 10:50 | EUR | German 12-Month Bubill Auction | 1.895% |  | 1.798% |
 | 12:00 | BRL | IGP-10 Inflation Index (MoM) (Aug) | 0.2% |  | -1.7% |
-| 19 min | BRL | BCB Focus Market Readout |  |  |  |
-| 54 min | BRL | IBC-Br Economic Activity (Jun) |  | 0.10% | -0.70% |
-| 13:30 | CAD | Foreign Securities Purchases by Canadians (Jun) |  |  | 13.370B |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 1.973% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 1.952% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 1.971% |
+| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 13:00 | BRL | IBC-Br Economic Activity (Jun) | -0.10% | 0.10% | -0.70% |
+| 18 min | CAD | Foreign Securities Purchases by Canadians (Jun) |  |  | 13.370B |
+| 48 min | EUR | French 12-Month BTF Auction |  |  | 1.973% |
+| 48 min | EUR | French 3-Month BTF Auction |  |  | 1.952% |
+| 48 min | EUR | French 6-Month BTF Auction |  |  | 1.971% |
 | 15:00 | USD | NAHB Housing Market Index (Aug) |  | 34 | 33 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.150% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 3.970% |

@@ -13,14 +13,14 @@
 | 10:00 | EUR | Moderate | Trade Balance (Jun) | 7.0B | 18.1B | 16.5B |
 | 10:50 | EUR | Low | German 12-Month Bubill Auction | 1.895% |  | 1.798% |
 | 12:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Aug) | 0.2% |  | -1.7% |
-| 19 min | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 54 min | BRL | Low | IBC-Br Economic Activity (Jun) |  | 0.10% | -0.70% |
-| 13:15 | CAD | Moderate | Housing Starts (Jul) |  | 264.0K | 283.7K |
-| 13:30 | CAD | Moderate | Foreign Securities Purchases (Jun) |  | -4.75B | -2.79B |
-| 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Jun) |  |  | 13.370B |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 1.973% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 1.952% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 1.971% |
+| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 13:00 | BRL | Low | IBC-Br Economic Activity (Jun) | -0.10% | 0.10% | -0.70% |
+| 3 min | CAD | Moderate | Housing Starts (Jul) |  | 264.0K | 283.7K |
+| 18 min | CAD | Moderate | Foreign Securities Purchases (Jun) |  | -4.75B | -2.79B |
+| 18 min | CAD | Low | Foreign Securities Purchases by Canadians (Jun) |  |  | 13.370B |
+| 48 min | EUR | Low | French 12-Month BTF Auction |  |  | 1.973% |
+| 48 min | EUR | Low | French 3-Month BTF Auction |  |  | 1.952% |
+| 48 min | EUR | Low | French 6-Month BTF Auction |  |  | 1.971% |
 | 15:00 | USD | Low | NAHB Housing Market Index (Aug) |  | 34 | 33 |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.150% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.970% |
