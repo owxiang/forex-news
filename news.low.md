@@ -6,8 +6,8 @@
 | 01:30 | SGD | Non-Oil Exports (MoM) (Jul) | -6.00% |  | 14.20% |
 | 01:30 | SGD | Non-Oil Exports (YoY) (Jul) | -4.60% |  | 12.90% |
 | 04:00 | NZD | RBNZ Offshore Holdings (Jul) | 60.80% |  | 60.70% |
-| 54 min | AUD | MI Inflation Expectations (Aug) |  |  | 4.7% |
-| 54 min | JPY | Tertiary Industry Activity Index (Jun) |  |  | -1.10 |
+| 9 min | AUD | MI Inflation Expectations (Aug) |  |  | 4.7% |
+| 9 min | JPY | Tertiary Industry Activity Index (Jun) |  |  | -1.10 |
 | 07:30 | CHF | Industrial Production (YoY) (Q2) |  |  | 8.50% |
 | 09:00 | KRW | Exports (YoY) (Jul) |  |  | 4.3% |
 | 09:00 | KRW | Imports (YoY) (Jul) |  |  | 3.3% |
