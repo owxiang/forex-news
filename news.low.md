@@ -9,10 +9,7 @@
 | 04:00 | NZD | RBNZ Offshore Holdings (Jul) | 60.80% |  | 60.70% |
 | 05:30 | JPY | Tertiary Industry Activity Index (Jun) | 4.50 |  | -1.40 |
 | 07:30 | CHF | Industrial Production (YoY) (Q2) | -0.10% |  | 8.90% |
-| 51 min | KRW | Exports (YoY) (Jul) |  |  | 4.3% |
-| 51 min | KRW | Imports (YoY) (Jul) |  |  | 3.3% |
-| 51 min | KRW | Trade Balance (Jul) |  |  | 9.08B |
-| 51 min | EUR | Spanish Trade Balance (Jun) |  |  | -2.54B |
+| 09:00 | EUR | Spanish Trade Balance (Jun) | -3.59B |  | -2.54B |
 | 10:30 | EUR | German 12-Month Bubill Auction |  |  | 1.798% |
 | 11:00 | CNY | FDI (Jul) |  |  | -15.20% |
 | 12:00 | BRL | IGP-10 Inflation Index (MoM) (Aug) |  |  | -1.7% |
