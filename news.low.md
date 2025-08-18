@@ -2,16 +2,17 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | Rightmove House Price Index (YoY) (Aug) | -1.3% |  | 0.1% |
-| 01:30 | SGD | Non-Oil Exports (YoY) (Jul) | -4.60% |  | 12.90% |
+| 00:01 | GBP | Rightmove House Price Index (MoM) (Aug) | -1.3% |  | -1.2% |
+| 00:01 | GBP | Rightmove House Price Index (YoY) (Aug) | 0.3% |  | 0.1% |
 | 01:30 | SGD | Non-Oil Exports (MoM) (Jul) | -6.00% |  | 14.20% |
+| 01:30 | SGD | Non-Oil Exports (YoY) (Jul) | -4.60% |  | 12.90% |
 | 04:00 | NZD | RBNZ Offshore Holdings (Jul) | 60.80% |  | 60.70% |
 | 05:30 | JPY | Tertiary Industry Activity Index (Jun) | 4.50 |  | -1.40 |
-| 19 min | CHF | Industrial Production (YoY) (Q2) |  |  | 8.50% |
-| 09:00 | KRW | Exports (YoY) (Jul) |  |  | 4.3% |
-| 09:00 | KRW | Imports (YoY) (Jul) |  |  | 3.3% |
-| 09:00 | KRW | Trade Balance (Jul) |  |  | 9.08B |
-| 09:00 | EUR | Spanish Trade Balance (Jun) |  |  | -2.54B |
+| 07:30 | CHF | Industrial Production (YoY) (Q2) | -0.10% |  | 8.90% |
+| 51 min | KRW | Exports (YoY) (Jul) |  |  | 4.3% |
+| 51 min | KRW | Imports (YoY) (Jul) |  |  | 3.3% |
+| 51 min | KRW | Trade Balance (Jul) |  |  | 9.08B |
+| 51 min | EUR | Spanish Trade Balance (Jun) |  |  | -2.54B |
 | 10:30 | EUR | German 12-Month Bubill Auction |  |  | 1.798% |
 | 11:00 | CNY | FDI (Jul) |  |  | -15.20% |
 | 12:00 | BRL | IGP-10 Inflation Index (MoM) (Aug) |  |  | -1.7% |
