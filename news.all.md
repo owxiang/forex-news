@@ -3,9 +3,9 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | Rightmove House Price Index (YoY) (Aug) | -1.3% |  | 0.1% |
-| 01:30 | SGD | Low | Non-Oil Exports (MoM) (Jul) | -6.00% |  | 14.20% |
 | 01:30 | SGD | Low | Non-Oil Exports (YoY) (Jul) | -4.60% |  | 12.90% |
-| 56 min | AUD | Low | MI Inflation Expectations (Aug) |  |  | 4.7% |
+| 01:30 | SGD | Low | Non-Oil Exports (MoM) (Jul) | -6.00% |  | 14.20% |
+| 02:30 | AUD | Low | MI Inflation Expectations (Aug) |  |  | 4.7% |
 | 04:00 | NZD | Low | RBNZ Offshore Holdings (Jul) |  |  | 60.70% |
 | 04:00 | IDR | Low | Consumer Confidence (Jul) |  |  | 117.8 |
 | 05:30 | JPY | Low | Tertiary Industry Activity Index (Jun) |  |  | -1.10 |
