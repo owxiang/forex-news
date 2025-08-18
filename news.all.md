@@ -4,17 +4,17 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | Rightmove House Price Index (MoM) (Aug) | -1.3% |  | -1.2% |
 | 00:01 | GBP | Low | Rightmove House Price Index (YoY) (Aug) | 0.3% |  | 0.1% |
-| 01:30 | SGD | Low | Non-Oil Exports (MoM) (Jul) | -6.00% |  | 14.20% |
 | 01:30 | SGD | Low | Non-Oil Exports (YoY) (Jul) | -4.60% |  | 12.90% |
+| 01:30 | SGD | Low | Non-Oil Exports (MoM) (Jul) | -6.00% |  | 14.20% |
 | 04:00 | NZD | Low | RBNZ Offshore Holdings (Jul) | 60.80% |  | 60.70% |
 | 05:30 | JPY | Low | Tertiary Industry Activity Index (Jun) | 4.50 |  | -1.40 |
 | 07:30 | CHF | Low | Industrial Production (YoY) (Q2) | -0.10% |  | 8.90% |
 | 09:00 | EUR | Low | Spanish Trade Balance (Jun) | -3.59B |  | -2.54B |
 | 10:00 | EUR | Moderate | Trade Balance (Jun) | 7.0B | 18.1B | 16.5B |
 | 10:50 | EUR | Low | German 12-Month Bubill Auction | 1.895% |  | 1.798% |
-| 51 min | BRL | Low | IGP-10 Inflation Index (MoM) (Aug) |  |  | -1.7% |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | BRL | Low | IBC-Br Economic Activity (Jun) |  | 0.10% | -0.70% |
+| 12:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Aug) | 0.2% |  | -1.7% |
+| 19 min | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 54 min | BRL | Low | IBC-Br Economic Activity (Jun) |  | 0.10% | -0.70% |
 | 13:15 | CAD | Moderate | Housing Starts (Jul) |  | 264.0K | 283.7K |
 | 13:30 | CAD | Moderate | Foreign Securities Purchases (Jun) |  | -4.75B | -2.79B |
 | 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Jun) |  |  | 13.370B |
