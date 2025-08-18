@@ -24,5 +24,5 @@
 | 15:00 | USD | Low | NAHB Housing Market Index (Aug) | 32 | 34 | 33 |
 | 16:30 | USD | Low | 3-Month Bill Auction | 4.130% |  | 4.150% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 3.945% |  | 3.970% |
-| 23:45 | NZD | Moderate | PPI Input (QoQ) (Q2) |  | 1.4% | 2.9% |
-| 23:45 | NZD | Low | PPI Output (QoQ) (Q2) |  | 1.0% | 2.1% |
+| 39 min | NZD | Moderate | PPI Input (QoQ) (Q2) |  | 1.4% | 2.9% |
+| 39 min | NZD | Low | PPI Output (QoQ) (Q2) |  | 1.0% | 2.1% |
