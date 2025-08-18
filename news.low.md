@@ -3,11 +3,10 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | Rightmove House Price Index (YoY) (Aug) | -1.3% |  | 0.1% |
-| 01:30 | SGD | Non-Oil Exports (MoM) (Jul) | -6.00% |  | 14.20% |
 | 01:30 | SGD | Non-Oil Exports (YoY) (Jul) | -4.60% |  | 12.90% |
+| 01:30 | SGD | Non-Oil Exports (MoM) (Jul) | -6.00% |  | 14.20% |
 | 04:00 | NZD | RBNZ Offshore Holdings (Jul) | 60.80% |  | 60.70% |
-| 9 min | AUD | MI Inflation Expectations (Aug) |  |  | 4.7% |
-| 9 min | JPY | Tertiary Industry Activity Index (Jun) |  |  | -1.10 |
+| 05:30 | JPY | Tertiary Industry Activity Index (Jun) | 4.50 |  | -1.40 |
 | 07:30 | CHF | Industrial Production (YoY) (Q2) |  |  | 8.50% |
 | 09:00 | KRW | Exports (YoY) (Jul) |  |  | 4.3% |
 | 09:00 | KRW | Imports (YoY) (Jul) |  |  | 3.3% |
