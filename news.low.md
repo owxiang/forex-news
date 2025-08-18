@@ -14,11 +14,11 @@
 | 12:00 | BRL | IGP-10 Inflation Index (MoM) (Aug) | 0.2% |  | -1.7% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:00 | BRL | IBC-Br Economic Activity (Jun) | -0.10% | 0.10% | -0.70% |
-| 18 min | CAD | Foreign Securities Purchases by Canadians (Jun) |  |  | 13.370B |
-| 48 min | EUR | French 12-Month BTF Auction |  |  | 1.973% |
-| 48 min | EUR | French 3-Month BTF Auction |  |  | 1.952% |
-| 48 min | EUR | French 6-Month BTF Auction |  |  | 1.971% |
-| 15:00 | USD | NAHB Housing Market Index (Aug) |  | 34 | 33 |
+| 13:30 | CAD | Foreign Securities Purchases by Canadians (Jun) | 9.040B |  | 13.460B |
+| 14:00 | EUR | French 12-Month BTF Auction | 1.980% |  | 1.973% |
+| 14:00 | EUR | French 3-Month BTF Auction | 1.963% |  | 1.952% |
+| 14:00 | EUR | French 6-Month BTF Auction | 1.973% |  | 1.971% |
+| 42 min | USD | NAHB Housing Market Index (Aug) |  | 34 | 33 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.150% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 3.970% |
 | 23:45 | NZD | PPI Output (QoQ) (Q2) |  | 1.0% | 2.1% |

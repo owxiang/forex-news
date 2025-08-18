@@ -15,13 +15,13 @@
 | 12:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Aug) | 0.2% |  | -1.7% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | BRL | Low | IBC-Br Economic Activity (Jun) | -0.10% | 0.10% | -0.70% |
-| 3 min | CAD | Moderate | Housing Starts (Jul) |  | 264.0K | 283.7K |
-| 18 min | CAD | Moderate | Foreign Securities Purchases (Jun) |  | -4.75B | -2.79B |
-| 18 min | CAD | Low | Foreign Securities Purchases by Canadians (Jun) |  |  | 13.370B |
-| 48 min | EUR | Low | French 12-Month BTF Auction |  |  | 1.973% |
-| 48 min | EUR | Low | French 3-Month BTF Auction |  |  | 1.952% |
-| 48 min | EUR | Low | French 6-Month BTF Auction |  |  | 1.971% |
-| 15:00 | USD | Low | NAHB Housing Market Index (Aug) |  | 34 | 33 |
+| 13:15 | CAD | Moderate | Housing Starts (Jul) | 294.1K | 264.0K | 283.5K |
+| 13:30 | CAD | Moderate | Foreign Securities Purchases (Jun) | 0.71B | -4.75B | -6.29B |
+| 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Jun) | 9.040B |  | 13.460B |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 1.980% |  | 1.973% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 1.963% |  | 1.952% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 1.973% |  | 1.971% |
+| 42 min | USD | Low | NAHB Housing Market Index (Aug) |  | 34 | 33 |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.150% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.970% |
 | 23:45 | NZD | Moderate | PPI Input (QoQ) (Q2) |  | 1.4% | 2.9% |
