@@ -6,7 +6,7 @@
 | 09:00 | EUR | Current Account (Jun) | 35.8B | 33.4B | 32.3B |
 | 09:00 | EUR | Current Account n.s.a. (Jun) | 38.9B |  | 1.0B |
 | 09:30 | HKD | Unemployment Rate (Jul) | 3.7% |  | 3.5% |
-| 23 min | EUR | German 5-Year Bobl Auction |  |  | 2.280% |
+| 10:30 | EUR | German 5-Year Bobl Auction | 2.320% |  | 2.280% |
 | 13:30 | USD | Building Permits (MoM) (Jul) |  |  | -0.1% |
 | 13:30 | CAD | Common CPI (YoY) (Jul) |  | 2.7% | 2.6% |
 | 13:30 | CAD | CPI (YoY) (Jul) |  | 1.7% | 1.9% |
