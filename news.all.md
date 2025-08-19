@@ -12,8 +12,8 @@
 | 13:30 | USD | Moderate | Housing Starts (Jul) | 1.428M | 1.290M | 1.358M |
 | 13:30 | USD | Moderate | Housing Starts (MoM) (Jul) | 5.2% |  | 5.9% |
 | 13:30 | CAD | Low | Common CPI (YoY) (Jul) | 2.6% | 2.7% | 2.6% |
-| 13:30 | CAD | Moderate | Core CPI (MoM) (Jul) | 0.1% | 0.4% | 0.1% |
 | 13:30 | CAD | Moderate | Core CPI (YoY) (Jul) | 2.6% |  | 2.7% |
+| 13:30 | CAD | Moderate | Core CPI (MoM) (Jul) | 0.1% | 0.4% | 0.1% |
 | 13:30 | CAD | Low | CPI (YoY) (Jul) | 1.7% | 1.7% | 1.9% |
 | 13:30 | CAD | Moderate | CPI (MoM) (Jul) | 0.3% | 0.3% | 0.1% |
 | 13:30 | CAD | Low | Median CPI (YoY) (Jul) | 3.1% | 3.1% | 3.0% |
