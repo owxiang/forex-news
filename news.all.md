@@ -9,8 +9,8 @@
 | 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.280% |
 | 13:30 | USD | Moderate | Building Permits (Jul) |  | 1.390M | 1.393M |
 | 13:30 | USD | Low | Building Permits (MoM) (Jul) |  |  | -0.1% |
-| 13:30 | USD | Moderate | Housing Starts (Jul) |  | 1.290M | 1.321M |
 | 13:30 | USD | Moderate | Housing Starts (MoM) (Jul) |  |  | 4.6% |
+| 13:30 | USD | Moderate | Housing Starts (Jul) |  | 1.290M | 1.321M |
 | 13:30 | CAD | Low | Common CPI (YoY) (Jul) |  | 2.7% | 2.6% |
 | 13:30 | CAD | Moderate | Core CPI (YoY) (Jul) |  |  | 2.7% |
 | 13:30 | CAD | Moderate | Core CPI (MoM) (Jul) |  | 0.4% | 0.1% |
