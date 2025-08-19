@@ -13,5 +13,3 @@
 | 13:30 | CAD | Median CPI (YoY) (Jul) | 3.1% | 3.1% | 3.0% |
 | 13:30 | CAD | Trimmed CPI (YoY) (Jul) | 3.0% | 3.0% | 3.0% |
 | 13:55 | USD | Redbook (YoY) | 5.9% |  | 5.7% |
-| 53 min | NZD | GlobalDairyTrade Price Index |  |  | 0.7% |
-| 53 min | USD | Milk Auctions |  |  | 4,249.0 |
