@@ -1,24 +1,76 @@
-## 19 August 2025 - All Forex News
+## 20 August 2025 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:50 | AUD | Low | Westpac Consumer Sentiment (Aug) | 5.7% |  | 0.6% |
-| 09:00 | EUR | Low | Current Account (Jun) | 35.8B | 33.4B | 31.8B |
-| 09:00 | EUR | Low | Current Account n.s.a. (Jun) | 38.9B |  | 0.4B |
-| 09:30 | HKD | Low | Unemployment Rate (Jul) | 3.7% |  | 3.5% |
-| 10:30 | EUR | Low | German 5-Year Bobl Auction | 2.320% |  | 2.280% |
-| 13:30 | USD | Moderate | Building Permits (Jul) | 1.354M | 1.390M | 1.393M |
-| 13:30 | USD | Low | Building Permits (MoM) (Jul) | -2.8% |  | -0.1% |
-| 13:30 | USD | Moderate | Housing Starts (MoM) (Jul) | 5.2% |  | 5.9% |
-| 13:30 | USD | Moderate | Housing Starts (Jul) | 1.428M | 1.290M | 1.358M |
-| 13:30 | CAD | Low | Common CPI (YoY) (Jul) | 2.6% | 2.7% | 2.6% |
-| 13:30 | CAD | Moderate | Core CPI (YoY) (Jul) | 2.6% |  | 2.7% |
-| 13:30 | CAD | Moderate | Core CPI (MoM) (Jul) | 0.1% | 0.4% | 0.1% |
-| 13:30 | CAD | Low | CPI (YoY) (Jul) | 1.7% | 1.7% | 1.9% |
-| 13:30 | CAD | Moderate | CPI (MoM) (Jul) | 0.3% | 0.3% | 0.1% |
-| 13:30 | CAD | Low | Median CPI (YoY) (Jul) | 3.1% | 3.1% | 3.0% |
-| 13:30 | CAD | Low | Trimmed CPI (YoY) (Jul) | 3.0% | 3.0% | 3.0% |
-| 13:55 | USD | Low | Redbook (YoY) | 5.9% |  | 5.7% |
-| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 2.3% | 2.5% | 2.5% |
-| 19:10 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | -2.400M | -1.200M | 1.500M |
+| 44 min | JPY | Moderate | Adjusted Trade Balance |  | -0.07T | -0.24T |
+| 44 min | JPY | Low | Core Machinery Orders (YoY) (Jun) |  | 5.0% | 4.4% |
+| 44 min | JPY | Low | Core Machinery Orders (MoM) (Jun) |  | -0.4% | -0.6% |
+| 44 min | JPY | Moderate | Exports (YoY) (Jul) |  | -2.1% | -0.5% |
+| 44 min | JPY | Low | Imports (YoY) (Jul) |  | -10.4% | 0.2% |
+| 44 min | JPY | Moderate | Trade Balance (Jul) |  | 196.2B | 153.1B |
+| 02:00 | CNY | Moderate | China Loan Prime Rate 5Y (Aug) |  | 3.50% | 3.50% |
+| 02:15 | CNY | Moderate | PBoC Loan Prime Rate |  | 3.00% | 3.00% |
+| 03:00 | NZD | High | RBNZ Interest Rate Decision |  | 3.00% | 3.25% |
+| 03:00 | NZD | Moderate | RBNZ Monetary Policy Statement |  |  |  |
+| 03:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
+| 04:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
+| 07:00 | GBP | Low | Core CPI (YoY) (Jul) |  | 3.7% | 3.7% |
+| 07:00 | GBP | Low | Core CPI (MoM) (Jul) |  | 0.1% | 0.4% |
+| 07:00 | GBP | Low | Core RPI (MoM) (Jul) |  |  | 0.4% |
+| 07:00 | GBP | Low | Core RPI (YoY) (Jul) |  |  | 4.3% |
+| 07:00 | GBP | Moderate | CPI (MoM) (Jul) |  | -0.1% | 0.3% |
+| 07:00 | GBP | High | CPI (YoY) (Jul) |  | 3.7% | 3.6% |
+| 07:00 | GBP | Low | CPI, n.s.a (Jul) |  |  | 138.90 |
+| 07:00 | GBP | Low | RPI (YoY) (Jul) |  | 4.5% | 4.4% |
+| 07:00 | GBP | Low | RPI (MoM) (Jul) |  | 0.1% | 0.4% |
+| 08:00 | EUR | Moderate | German PPI (MoM) (Jul) |  | 0.1% | 0.1% |
+| 08:00 | EUR | Low | German PPI (YoY) (Jul) |  | -1.3% | -1.3% |
+| 08:10 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 08:30 | IDR | Moderate | Interest Rate Decision |  |  | 5.25% |
+| 08:30 | IDR | Low | Deposit Facility Rate (Aug) |  |  | 4.50% |
+| 08:30 | IDR | Low | Lending Facility Rate (Aug) |  |  | 6.00% |
+| 08:30 | IDR | Low | Loans (YoY) (Jul) |  |  | 7.77% |
+| 09:00 | ZAR | Low | Core CPI (MoM) (Jul) |  |  | 0.3% |
+| 09:00 | ZAR | Low | Core CPI (YoY) (Jul) |  |  | 2.9% |
+| 09:00 | ZAR | Low | CPI (MoM) (Jul) |  |  | 0.3% |
+| 09:00 | ZAR | Low | CPI (YoY) (Jul) |  | 3.6% | 3.0% |
+| 09:30 | GBP | Low | House Price Index (YoY) |  | 4.0% | 3.9% |
+| 10:00 | EUR | Low | Core CPI (MoM) (Jul) |  | -0.2% | 0.4% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Jul) |  | 2.3% | 2.3% |
+| 10:00 | EUR | High | CPI (YoY) (Jul) |  | 2.0% | 2.0% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Jul) |  | 0.0% | 0.3% |
+| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Jul) |  |  | 0.3% |
+| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Jul) |  |  | 1.9% |
+| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jul) |  | 2.4% | 2.4% |
+| 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jul) |  | -0.1% | 0.3% |
+| 10:30 | EUR | Low | German 30-Year Bund Auction |  |  | 3.220% |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.67% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 10.9% |
+| 12:00 | USD | Low | MBA Purchase Index |  |  | 160.2 |
+| 12:00 | USD | Low | Mortgage Market Index |  |  | 281.1 |
+| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 956.2 |
+| 12:30 | INR | Low | M3 Money Supply |  |  | 9.6% |
+| 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Jul) |  | 0.1% | -0.2% |
+| 15:30 | USD | High | Crude Oil Inventories |  |  | 3.036M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.056M |
+| 15:30 | USD | Low | Crude Oil Imports |  |  | 0.699M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.045M |
+| 15:30 | USD | Low | Distillate Fuel Production |  |  | 0.032M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  |  | 0.714M |
+| 15:30 | USD | Low | Gasoline Production |  |  | 0.010M |
+| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.827M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.5% |
+| 15:30 | USD | Low | Gasoline Inventories |  |  | -0.792M |
+| 16:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 16:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 0.7% |
+| 16:00 | USD | Low | Milk Auctions |  |  | 4,249.0 |
+| 18:00 | USD | Moderate | 20-Year Bond Auction |  |  | 4.935% |
+| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.305B |
+| 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
+| 20:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 22:00 | KRW | Low | PPI (YoY) (Jul) |  |  | 0.5% |
+| 22:00 | KRW | Low | PPI (MoM) (Jul) |  |  | 0.1% |
+| 23:45 | NZD | Low | Exports (Jul) |  |  | 6.63B |
+| 23:45 | NZD | Low | Imports (Jul) |  |  | 6.49B |
+| 23:45 | NZD | Low | Trade Balance (YoY) (Jul) |  |  | -4,370M |
+| 23:45 | NZD | Low | Trade Balance (MoM) (Jul) |  | 70M | 142M |
