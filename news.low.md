@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | AUD | Westpac Consumer Sentiment (Aug) |  |  | 0.6% |
+| 00:48 | AUD | Westpac Consumer Sentiment (Aug) | 5.7% |  | 0.6% |
 | 02:30 | AUD | MI Inflation Expectations (Aug) |  |  | 4.7% |
 | 09:00 | EUR | Current Account (Jun) |  | 33.4B | 32.3B |
 | 09:00 | EUR | Current Account n.s.a. (Jun) |  |  | 1.0B |
