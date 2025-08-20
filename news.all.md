@@ -14,10 +14,10 @@
 | 03:00 | NZD | Moderate | RBNZ Monetary Policy Statement |  |  |  |
 | 03:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
 | 04:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
-| 07:00 | GBP | Low | Core CPI (MoM) (Jul) | 0.2% | 0.1% | 0.4% |
 | 07:00 | GBP | Low | Core CPI (YoY) (Jul) | 3.8% | 3.7% | 3.7% |
-| 07:00 | GBP | Low | Core RPI (YoY) (Jul) | 4.7% |  | 4.3% |
+| 07:00 | GBP | Low | Core CPI (MoM) (Jul) | 0.2% | 0.1% | 0.4% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Jul) | 0.4% |  | 0.4% |
+| 07:00 | GBP | Low | Core RPI (YoY) (Jul) | 4.7% |  | 4.3% |
 | 07:00 | GBP | High | CPI (YoY) (Jul) | 3.8% | 3.7% | 3.6% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Jul) | 0.1% | -0.1% | 0.3% |
 | 07:00 | GBP | Low | CPI, n.s.a (Jul) | 139.00 |  | 138.90 |
@@ -36,10 +36,10 @@
 | 09:00 | ZAR | Low | CPI (MoM) (Jul) | 0.9% |  | 0.3% |
 | 09:00 | ZAR | Low | CPI (YoY) (Jul) | 3.5% | 3.6% | 3.0% |
 | 09:30 | GBP | Low | House Price Index (YoY) | 3.7% | 4.0% | 3.9% |
-| 10:00 | EUR | Low | Core CPI (MoM) (Jul) | -0.2% | -0.2% | 0.4% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Jul) | 2.3% | 2.3% | 2.3% |
-| 10:00 | EUR | High | CPI (YoY) (Jul) | 2.0% | 2.0% | 2.0% |
+| 10:00 | EUR | Low | Core CPI (MoM) (Jul) | -0.2% | -0.2% | 0.4% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Jul) | 0.0% | 0.0% | 0.3% |
+| 10:00 | EUR | High | CPI (YoY) (Jul) | 2.0% | 2.0% | 2.0% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Jul) | 0.0% |  | 0.3% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Jul) | 2.0% |  | 1.9% |
 | 10:00 | EUR | Low | CPI, n.s.a (Jul) | 129.12 | 129.10 | 129.10 |
@@ -54,24 +54,24 @@
 | 12:30 | INR | Low | Infrastructure Output (YoY) (Jul) | 2.0% |  | 1.7% |
 | 12:30 | INR | Low | M3 Money Supply | 9.6% |  | 10.0% |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Jul) | -0.1% | 0.1% | -0.2% |
-| 15:30 | USD | High | Crude Oil Inventories |  | -0.800M | 3.036M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.056M |
-| 15:30 | USD | Low | Crude Oil Imports |  |  | 0.699M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.045M |
-| 15:30 | USD | Low | Distillate Fuel Production |  |  | 0.032M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | 0.450M | 0.714M |
-| 15:30 | USD | Low | Gasoline Production |  |  | 0.010M |
-| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.827M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.5% |
-| 15:30 | USD | Low | Gasoline Inventories |  | -0.800M | -0.792M |
-| 16:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 23 min | USD | High | Crude Oil Inventories |  | -0.800M | 3.036M |
+| 23 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.056M |
+| 23 min | USD | Low | Crude Oil Imports |  |  | 0.699M |
+| 23 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.045M |
+| 23 min | USD | Low | Distillate Fuel Production |  |  | 0.032M |
+| 23 min | USD | Low | EIA Weekly Distillates Stocks |  | 0.450M | 0.714M |
+| 23 min | USD | Low | Gasoline Production |  |  | 0.010M |
+| 23 min | USD | Low | Heating Oil Stockpiles |  |  | 0.827M |
+| 23 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.5% |
+| 23 min | USD | Low | Gasoline Inventories |  | -0.800M | -0.792M |
+| 53 min | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 18:00 | USD | Moderate | 20-Year Bond Auction |  |  | 4.935% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.305B |
 | 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
 | 20:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 22:00 | KRW | Low | PPI (YoY) (Jul) |  |  | 0.5% |
 | 22:00 | KRW | Low | PPI (MoM) (Jul) |  |  | 0.1% |
+| 22:00 | KRW | Low | PPI (YoY) (Jul) |  |  | 0.5% |
 | 23:45 | NZD | Low | Exports (Jul) |  |  | 6.63B |
 | 23:45 | NZD | Low | Imports (Jul) |  |  | 6.49B |
-| 23:45 | NZD | Low | Trade Balance (YoY) (Jul) |  |  | -4,370M |
 | 23:45 | NZD | Low | Trade Balance (MoM) (Jul) |  | 70M | 142M |
+| 23:45 | NZD | Low | Trade Balance (YoY) (Jul) |  |  | -4,370M |
