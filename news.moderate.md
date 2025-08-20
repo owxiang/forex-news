@@ -18,7 +18,7 @@
 | 10:00 | EUR | Core CPI (YoY) (Jul) | 2.3% | 2.3% | 2.3% |
 | 10:00 | EUR | CPI (MoM) (Jul) | 0.0% | 0.0% | 0.3% |
 | 13:30 | CAD | New Housing Price Index (MoM) (Jul) | -0.1% | 0.1% | -0.2% |
-| 23 min | USD | Cushing Crude Oil Inventories |  |  | 0.045M |
-| 53 min | USD | Fed Waller Speaks |  |  |  |
+| 15:30 | USD | Cushing Crude Oil Inventories | 0.419M |  | 0.045M |
+| 16:00 | USD | Fed Waller Speaks |  |  |  |
 | 18:00 | USD | 20-Year Bond Auction |  |  | 4.935% |
 | 20:00 | USD | FOMC Member Bostic Speaks |  |  |  |

@@ -35,14 +35,14 @@
 | 12:00 | USD | Mortgage Refinance Index | 926.1 |  | 956.2 |
 | 12:30 | INR | Infrastructure Output (YoY) (Jul) | 2.0% |  | 1.7% |
 | 12:30 | INR | M3 Money Supply | 9.6% |  | 10.0% |
-| 23 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.056M |
-| 23 min | USD | Crude Oil Imports |  |  | 0.699M |
-| 23 min | USD | Distillate Fuel Production |  |  | 0.032M |
-| 23 min | USD | EIA Weekly Distillates Stocks |  | 0.450M | 0.714M |
-| 23 min | USD | Gasoline Production |  |  | 0.010M |
-| 23 min | USD | Heating Oil Stockpiles |  |  | 0.827M |
-| 23 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.5% |
-| 23 min | USD | Gasoline Inventories |  | -0.800M | -0.792M |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) | 0.028M |  | 0.056M |
+| 15:30 | USD | Crude Oil Imports | -1.218M |  | 0.699M |
+| 15:30 | USD | Distillate Fuel Production | 0.193M |  | 0.032M |
+| 15:30 | USD | EIA Weekly Distillates Stocks | 2.343M | 0.450M | 0.714M |
+| 15:30 | USD | Gasoline Production | -0.259M |  | 0.010M |
+| 15:30 | USD | Heating Oil Stockpiles | -0.503M |  | 0.827M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.2% |  | -0.5% |
+| 15:30 | USD | Gasoline Inventories | -2.720M | -0.800M | -0.792M |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | -0.305B |
 | 22:00 | KRW | PPI (MoM) (Jul) |  |  | 0.1% |
 | 22:00 | KRW | PPI (YoY) (Jul) |  |  | 0.5% |
