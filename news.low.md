@@ -5,8 +5,8 @@
 | 00:50 | JPY | Core Machinery Orders (YoY) (Jun) | 7.6% | 5.0% | 4.4% |
 | 00:50 | JPY | Core Machinery Orders (MoM) (Jun) | 3.0% | -0.4% | -0.6% |
 | 00:50 | JPY | Imports (YoY) (Jul) | -7.5% | -10.4% | 0.3% |
-| 07:00 | GBP | Core CPI (MoM) (Jul) | 0.2% | 0.1% | 0.4% |
 | 07:00 | GBP | Core CPI (YoY) (Jul) | 3.8% | 3.7% | 3.7% |
+| 07:00 | GBP | Core CPI (MoM) (Jul) | 0.2% | 0.1% | 0.4% |
 | 07:00 | GBP | Core RPI (MoM) (Jul) | 0.4% |  | 0.4% |
 | 07:00 | GBP | Core RPI (YoY) (Jul) | 4.7% |  | 4.3% |
 | 07:00 | GBP | CPI, n.s.a (Jul) | 139.00 |  | 138.90 |
@@ -22,8 +22,8 @@
 | 09:00 | ZAR | CPI (MoM) (Jul) | 0.9% |  | 0.3% |
 | 09:30 | GBP | House Price Index (YoY) | 3.7% | 4.0% | 3.9% |
 | 10:00 | EUR | Core CPI (MoM) (Jul) | -0.2% | -0.2% | 0.4% |
-| 10:00 | EUR | CPI ex Tobacco (YoY) (Jul) | 2.0% |  | 1.9% |
 | 10:00 | EUR | CPI ex Tobacco (MoM) (Jul) | 0.0% |  | 0.3% |
+| 10:00 | EUR | CPI ex Tobacco (YoY) (Jul) | 2.0% |  | 1.9% |
 | 10:00 | EUR | CPI, n.s.a (Jul) | 129.12 | 129.10 | 129.10 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Jul) | 2.4% | 2.4% | 2.4% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Jul) | -0.1% | -0.1% | 0.3% |

@@ -14,8 +14,8 @@
 | 03:00 | NZD | Moderate | RBNZ Monetary Policy Statement |  |  |  |
 | 03:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
 | 04:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
-| 07:00 | GBP | Low | Core CPI (MoM) (Jul) | 0.2% | 0.1% | 0.4% |
 | 07:00 | GBP | Low | Core CPI (YoY) (Jul) | 3.8% | 3.7% | 3.7% |
+| 07:00 | GBP | Low | Core CPI (MoM) (Jul) | 0.2% | 0.1% | 0.4% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Jul) | 0.4% |  | 0.4% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Jul) | 4.7% |  | 4.3% |
 | 07:00 | GBP | High | CPI (YoY) (Jul) | 3.8% | 3.7% | 3.6% |
@@ -40,8 +40,8 @@
 | 10:00 | EUR | Low | Core CPI (MoM) (Jul) | -0.2% | -0.2% | 0.4% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Jul) | 0.0% | 0.0% | 0.3% |
 | 10:00 | EUR | High | CPI (YoY) (Jul) | 2.0% | 2.0% | 2.0% |
-| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Jul) | 2.0% |  | 1.9% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Jul) | 0.0% |  | 0.3% |
+| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Jul) | 2.0% |  | 1.9% |
 | 10:00 | EUR | Low | CPI, n.s.a (Jul) | 129.12 | 129.10 | 129.10 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jul) | 2.4% | 2.4% | 2.4% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jul) | -0.1% | -0.1% | 0.3% |
@@ -68,7 +68,7 @@
 | 18:00 | USD | Moderate | 20-Year Bond Auction | 4.876% |  | 4.935% |
 | 18:30 | BRL | Low | Foreign Exchange Flows | 0.031B |  | -0.305B |
 | 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
-| 51 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 20:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 22:00 | KRW | Low | PPI (MoM) (Jul) |  |  | 0.1% |
 | 22:00 | KRW | Low | PPI (YoY) (Jul) |  |  | 0.5% |
 | 23:45 | NZD | Low | Exports (Jul) |  |  | 6.63B |
