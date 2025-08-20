@@ -53,7 +53,7 @@
 | 12:00 | USD | Low | Mortgage Refinance Index | 926.1 |  | 956.2 |
 | 12:30 | INR | Low | Infrastructure Output (YoY) (Jul) | 2.0% |  | 1.7% |
 | 12:30 | INR | Low | M3 Money Supply | 9.6% |  | 10.0% |
-| 19 min | CAD | Moderate | New Housing Price Index (MoM) (Jul) |  | 0.1% | -0.2% |
+| 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Jul) | -0.1% | 0.1% | -0.2% |
 | 15:30 | USD | High | Crude Oil Inventories |  | -0.800M | 3.036M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.056M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 0.699M |
