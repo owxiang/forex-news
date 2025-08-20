@@ -13,9 +13,8 @@
 | 07:00 | GBP | CPI (MoM) (Jul) | 0.1% | -0.1% | 0.3% |
 | 07:00 | GBP | CPIH (YoY) | 4.2% |  | 4.1% |
 | 07:00 | EUR | German PPI (MoM) (Jul) | -0.1% | 0.1% | 0.1% |
-| 50 min | GBP | PPI Input (MoM) (Jul) |  |  | 0.8% |
-| 08:10 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 08:30 | IDR | Interest Rate Decision |  | 5.25% | 5.25% |
+| 3 min | EUR | ECB President Lagarde Speaks |  |  |  |
+| 23 min | IDR | Interest Rate Decision |  | 5.25% | 5.25% |
 | 10:00 | EUR | Core CPI (YoY) (Jul) |  | 2.3% | 2.3% |
 | 10:00 | EUR | CPI (MoM) (Jul) |  | 0.0% | 0.3% |
 | 13:30 | CAD | New Housing Price Index (MoM) (Jul) |  | 0.1% | -0.2% |

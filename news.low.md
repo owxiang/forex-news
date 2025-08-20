@@ -10,25 +10,20 @@
 | 07:00 | GBP | Core RPI (YoY) (Jul) | 4.7% |  | 4.3% |
 | 07:00 | GBP | Core RPI (MoM) (Jul) | 0.4% |  | 0.4% |
 | 07:00 | GBP | CPI, n.s.a (Jul) | 139.00 |  | 138.90 |
-| 07:00 | GBP | RPI (YoY) (Jul) | 4.8% | 4.5% | 4.4% |
 | 07:00 | GBP | RPI (MoM) (Jul) | 0.4% | 0.1% | 0.4% |
+| 07:00 | GBP | RPI (YoY) (Jul) | 4.8% | 4.5% | 4.4% |
 | 07:00 | EUR | German PPI (YoY) (Jul) | -1.5% | -1.3% | -1.3% |
-| 50 min | GBP | Core PPI Output (YoY) (Jul) |  |  | 1.5% |
-| 50 min | GBP | Core PPI Output (MoM) (Jul) |  |  | 0.3% |
-| 50 min | GBP | PPI Input (YoY) (Jul) |  |  | -0.1% |
-| 50 min | GBP | PPI Output (YoY) (Jul) |  |  | 0.3% |
-| 50 min | GBP | PPI Output (MoM) (Jul) |  |  | 0.5% |
-| 08:30 | IDR | Deposit Facility Rate (Aug) |  | 4.50% | 4.50% |
-| 08:30 | IDR | Lending Facility Rate (Aug) |  | 6.00% | 6.00% |
-| 08:30 | IDR | Loans (YoY) (Jul) |  |  | 7.77% |
-| 09:00 | ZAR | Core CPI (YoY) (Jul) |  |  | 2.9% |
-| 09:00 | ZAR | Core CPI (MoM) (Jul) |  |  | 0.3% |
-| 09:00 | ZAR | CPI (YoY) (Jul) |  | 3.6% | 3.0% |
-| 09:00 | ZAR | CPI (MoM) (Jul) |  |  | 0.3% |
+| 23 min | IDR | Deposit Facility Rate (Aug) |  | 4.50% | 4.50% |
+| 23 min | IDR | Lending Facility Rate (Aug) |  | 6.00% | 6.00% |
+| 23 min | IDR | Loans (YoY) (Jul) |  |  | 7.77% |
+| 53 min | ZAR | Core CPI (YoY) (Jul) |  |  | 2.9% |
+| 53 min | ZAR | Core CPI (MoM) (Jul) |  |  | 0.3% |
+| 53 min | ZAR | CPI (MoM) (Jul) |  |  | 0.3% |
+| 53 min | ZAR | CPI (YoY) (Jul) |  | 3.6% | 3.0% |
 | 09:30 | GBP | House Price Index (YoY) |  | 4.0% | 3.9% |
 | 10:00 | EUR | Core CPI (MoM) (Jul) |  | -0.2% | 0.4% |
-| 10:00 | EUR | CPI ex Tobacco (YoY) (Jul) |  |  | 1.9% |
 | 10:00 | EUR | CPI ex Tobacco (MoM) (Jul) |  |  | 0.3% |
+| 10:00 | EUR | CPI ex Tobacco (YoY) (Jul) |  |  | 1.9% |
 | 10:00 | EUR | CPI, n.s.a (Jul) |  | 129.10 | 129.10 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Jul) |  | 2.4% | 2.4% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Jul) |  | -0.1% | 0.3% |
