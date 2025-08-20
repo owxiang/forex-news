@@ -9,7 +9,7 @@
 | 02:00 | CNY | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
 | 03:00 | NZD | RBNZ Monetary Policy Statement |  |  |  |
 | 03:00 | NZD | RBNZ Rate Statement |  |  |  |
-| 25 min | NZD | RBNZ Press Conference |  |  |  |
+| 04:00 | NZD | RBNZ Press Conference |  |  |  |
 | 07:00 | GBP | CPI (MoM) (Jul) |  | -0.1% | 0.3% |
 | 08:00 | EUR | German PPI (MoM) (Jul) |  | 0.1% | 0.1% |
 | 08:10 | EUR | ECB President Lagarde Speaks |  |  |  |
