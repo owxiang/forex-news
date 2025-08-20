@@ -16,8 +16,8 @@
 | 04:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
 | 07:00 | GBP | Low | Core CPI (MoM) (Jul) |  | 0.1% | 0.4% |
 | 07:00 | GBP | Low | Core CPI (YoY) (Jul) |  | 3.7% | 3.7% |
-| 07:00 | GBP | Low | Core RPI (YoY) (Jul) |  |  | 4.3% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Jul) |  |  | 0.4% |
+| 07:00 | GBP | Low | Core RPI (YoY) (Jul) |  |  | 4.3% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Jul) |  | -0.1% | 0.3% |
 | 07:00 | GBP | High | CPI (YoY) (Jul) |  | 3.7% | 3.6% |
 | 07:00 | GBP | Low | CPI, n.s.a (Jul) |  |  | 138.90 |
@@ -37,8 +37,8 @@
 | 09:30 | GBP | Low | House Price Index (YoY) |  | 4.0% | 3.9% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Jul) |  | 2.3% | 2.3% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Jul) |  | -0.2% | 0.4% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Jul) |  | 0.0% | 0.3% |
 | 10:00 | EUR | High | CPI (YoY) (Jul) |  | 2.0% | 2.0% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Jul) |  | 0.0% | 0.3% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Jul) |  |  | 1.9% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Jul) |  |  | 0.3% |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jul) |  | 2.4% | 2.4% |

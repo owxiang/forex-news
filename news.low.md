@@ -7,8 +7,8 @@
 | 00:50 | JPY | Imports (YoY) (Jul) | -7.5% | -10.4% | 0.3% |
 | 07:00 | GBP | Core CPI (MoM) (Jul) |  | 0.1% | 0.4% |
 | 07:00 | GBP | Core CPI (YoY) (Jul) |  | 3.7% | 3.7% |
-| 07:00 | GBP | Core RPI (YoY) (Jul) |  |  | 4.3% |
 | 07:00 | GBP | Core RPI (MoM) (Jul) |  |  | 0.4% |
+| 07:00 | GBP | Core RPI (YoY) (Jul) |  |  | 4.3% |
 | 07:00 | GBP | CPI, n.s.a (Jul) |  |  | 138.90 |
 | 07:00 | GBP | RPI (MoM) (Jul) |  | 0.1% | 0.4% |
 | 07:00 | GBP | RPI (YoY) (Jul) |  | 4.5% | 4.4% |
