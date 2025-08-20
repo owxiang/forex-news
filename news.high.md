@@ -1,9 +1,9 @@
-## 20 August 2025 - High Impact Forex News
+## 21 August 2025 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:00 | NZD | RBNZ Interest Rate Decision | 3.00% | 3.00% | 3.25% |
-| 07:00 | GBP | CPI (YoY) (Jul) | 3.8% | 3.7% | 3.6% |
-| 10:00 | EUR | CPI (YoY) (Jul) | 2.0% | 2.0% | 2.0% |
-| 15:30 | USD | Crude Oil Inventories | -6.014M | -0.800M | 3.036M |
-| 19:00 | USD | FOMC Meeting Minutes |  |  |  |
+| 13:30 | USD | Initial Jobless Claims |  | 226K | 224K |
+| 13:30 | USD | Philadelphia Fed Manufacturing Index (Aug) |  | 6.8 | 15.9 |
+| 14:45 | USD | S&P Global Manufacturing PMI (Aug) |  | 49.7 | 49.8 |
+| 14:45 | USD | S&P Global Services PMI (Aug) |  | 54.2 | 55.7 |
+| 15:00 | USD | Existing Home Sales (Jul) |  | 3.92M | 3.93M |

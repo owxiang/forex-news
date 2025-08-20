@@ -1,24 +1,27 @@
-## 20 August 2025 - Moderate Impact Forex News
+## 21 August 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Adjusted Trade Balance | -0.30T | -0.07T | -0.25T |
-| 00:50 | JPY | Exports (YoY) (Jul) | -2.6% | -2.1% | -0.5% |
-| 00:50 | JPY | Trade Balance (Jul) | -117.5B | 196.2B | 152.1B |
-| 02:00 | CNY | China Loan Prime Rate 5Y (Aug) | 3.50% | 3.50% | 3.50% |
-| 02:00 | CNY | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
-| 03:00 | NZD | RBNZ Monetary Policy Statement |  |  |  |
-| 03:00 | NZD | RBNZ Rate Statement |  |  |  |
-| 04:00 | NZD | RBNZ Press Conference |  |  |  |
-| 07:00 | GBP | CPI (MoM) (Jul) | 0.1% | -0.1% | 0.3% |
-| 07:00 | GBP | CPIH (YoY) | 4.2% |  | 4.1% |
-| 07:00 | EUR | German PPI (MoM) (Jul) | -0.1% | 0.1% | 0.1% |
-| 08:10 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 08:30 | IDR | Interest Rate Decision | 5.00% | 5.25% | 5.25% |
-| 10:00 | EUR | Core CPI (YoY) (Jul) | 2.3% | 2.3% | 2.3% |
-| 10:00 | EUR | CPI (MoM) (Jul) | 0.0% | 0.0% | 0.3% |
-| 13:30 | CAD | New Housing Price Index (MoM) (Jul) | -0.1% | 0.1% | -0.2% |
-| 15:30 | USD | Cushing Crude Oil Inventories | 0.419M |  | 0.045M |
-| 16:00 | USD | Fed Waller Speaks |  |  |  |
-| 18:00 | USD | 20-Year Bond Auction | 4.876% |  | 4.935% |
-| 20:00 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 53 min | USD | Jackson Hole Symposium |  |  |  |
+| 01:30 | JPY | au Jibun Bank Services PMI (Aug) |  |  | 53.6 |
+| 08:15 | EUR | HCOB France Manufacturing PMI (Aug) |  | 48.2 | 48.2 |
+| 08:15 | EUR | HCOB France Services PMI (Aug) |  | 48.5 | 48.5 |
+| 08:30 | EUR | HCOB Germany Manufacturing PMI (Aug) |  | 48.8 | 49.1 |
+| 08:30 | EUR | HCOB Germany Services PMI (Aug) |  | 50.4 | 50.6 |
+| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Aug) |  | 49.5 | 49.8 |
+| 09:00 | EUR | HCOB Eurozone Composite PMI (Aug) |  | 50.7 | 50.9 |
+| 09:00 | EUR | HCOB Eurozone Services PMI (Aug) |  | 50.8 | 51.0 |
+| 09:30 | GBP | S&P Global Composite PMI (Aug) |  | 51.6 | 51.5 |
+| 09:30 | GBP | S&P Global Manufacturing PMI (Aug) |  | 48.2 | 48.0 |
+| 09:30 | GBP | S&P Global Services PMI (Aug) |  | 51.9 | 51.8 |
+| 12:30 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 12:30 | INR | RBI MPC Meeting Minutes |  |  |  |
+| 13:30 | USD | Continuing Jobless Claims |  | 1,960K | 1,953K |
+| 13:30 | USD | Philly Fed Employment (Aug) |  |  | 10.3 |
+| 13:30 | CAD | RMPI (MoM) (Jul) |  | -0.4% | 2.7% |
+| 14:45 | USD | S&P Global Composite PMI (Aug) |  |  | 55.1 |
+| 15:00 | USD | Existing Home Sales (MoM) (Jul) |  |  | -2.7% |
+| 15:00 | USD | US Leading Index (MoM) (Jul) |  | -0.1% | -0.3% |
+| 16:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
+| 18:00 | USD | 30-Year TIPS Auction |  |  | 2.403% |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 6,644B |
