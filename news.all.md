@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:50 | JPY | Moderate | Adjusted Trade Balance | -0.30T | -0.07T | -0.25T |
-| 00:50 | JPY | Low | Core Machinery Orders (YoY) (Jun) | 7.6% | 5.0% | 4.4% |
 | 00:50 | JPY | Low | Core Machinery Orders (MoM) (Jun) | 3.0% | -0.4% | -0.6% |
+| 00:50 | JPY | Low | Core Machinery Orders (YoY) (Jun) | 7.6% | 5.0% | 4.4% |
 | 00:50 | JPY | Moderate | Exports (YoY) (Jul) | -2.6% | -2.1% | -0.5% |
 | 00:50 | JPY | Low | Imports (YoY) (Jul) | -7.5% | -10.4% | 0.3% |
 | 00:50 | JPY | Moderate | Trade Balance (Jul) | -117.5B | 196.2B | 152.1B |
@@ -16,10 +16,10 @@
 | 04:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
 | 07:00 | GBP | Low | Core CPI (MoM) (Jul) | 0.2% | 0.1% | 0.4% |
 | 07:00 | GBP | Low | Core CPI (YoY) (Jul) | 3.8% | 3.7% | 3.7% |
-| 07:00 | GBP | Low | Core RPI (YoY) (Jul) | 4.7% |  | 4.3% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Jul) | 0.4% |  | 0.4% |
-| 07:00 | GBP | High | CPI (YoY) (Jul) | 3.8% | 3.7% | 3.6% |
+| 07:00 | GBP | Low | Core RPI (YoY) (Jul) | 4.7% |  | 4.3% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Jul) | 0.1% | -0.1% | 0.3% |
+| 07:00 | GBP | High | CPI (YoY) (Jul) | 3.8% | 3.7% | 3.6% |
 | 07:00 | GBP | Low | CPI, n.s.a (Jul) | 139.00 |  | 138.90 |
 | 07:00 | GBP | Moderate | CPIH (YoY) | 4.2% |  | 4.1% |
 | 07:00 | GBP | Low | RPI (MoM) (Jul) | 0.4% | 0.1% | 0.4% |
@@ -33,15 +33,15 @@
 | 08:30 | IDR | Low | Loans (YoY) (Jul) | 7.03% |  | 7.77% |
 | 09:00 | ZAR | Low | Core CPI (YoY) (Jul) | 3.0% |  | 2.9% |
 | 09:00 | ZAR | Low | Core CPI (MoM) (Jul) | 0.4% |  | 0.3% |
-| 09:00 | ZAR | Low | CPI (MoM) (Jul) | 0.9% |  | 0.3% |
 | 09:00 | ZAR | Low | CPI (YoY) (Jul) | 3.5% | 3.6% | 3.0% |
+| 09:00 | ZAR | Low | CPI (MoM) (Jul) | 0.9% |  | 0.3% |
 | 09:30 | GBP | Low | House Price Index (YoY) | 3.7% | 4.0% | 3.9% |
-| 10:00 | EUR | Low | Core CPI (MoM) (Jul) | -0.2% | -0.2% | 0.4% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Jul) | 2.3% | 2.3% | 2.3% |
+| 10:00 | EUR | Low | Core CPI (MoM) (Jul) | -0.2% | -0.2% | 0.4% |
 | 10:00 | EUR | High | CPI (YoY) (Jul) | 2.0% | 2.0% | 2.0% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Jul) | 0.0% | 0.0% | 0.3% |
-| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Jul) | 0.0% |  | 0.3% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Jul) | 2.0% |  | 1.9% |
+| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Jul) | 0.0% |  | 0.3% |
 | 10:00 | EUR | Low | CPI, n.s.a (Jul) | 129.12 | 129.10 | 129.10 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jul) | 2.4% | 2.4% | 2.4% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jul) | -0.1% | -0.1% | 0.3% |
@@ -69,9 +69,9 @@
 | 18:30 | BRL | Low | Foreign Exchange Flows | 0.031B |  | -0.305B |
 | 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
 | 20:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 53 min | KRW | Low | PPI (YoY) (Jul) |  |  | 0.5% |
-| 53 min | KRW | Low | PPI (MoM) (Jul) |  |  | 0.1% |
+| 22:00 | KRW | Low | PPI (MoM) (Jul) | 0.4% |  | 0.1% |
+| 22:00 | KRW | Low | PPI (YoY) (Jul) | 0.5% |  | 0.5% |
 | 23:45 | NZD | Low | Exports (Jul) |  |  | 6.63B |
 | 23:45 | NZD | Low | Imports (Jul) |  |  | 6.49B |
-| 23:45 | NZD | Low | Trade Balance (YoY) (Jul) |  |  | -4,370M |
 | 23:45 | NZD | Low | Trade Balance (MoM) (Jul) |  | 70M | 142M |
+| 23:45 | NZD | Low | Trade Balance (YoY) (Jul) |  |  | -4,370M |
