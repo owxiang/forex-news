@@ -21,4 +21,4 @@
 | 15:30 | USD | Cushing Crude Oil Inventories | 0.419M |  | 0.045M |
 | 16:00 | USD | Fed Waller Speaks |  |  |  |
 | 18:00 | USD | 20-Year Bond Auction | 4.876% |  | 4.935% |
-| 20:00 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 51 min | USD | FOMC Member Bostic Speaks |  |  |  |
