@@ -10,8 +10,8 @@
 | 07:00 | GBP | Core RPI (MoM) (Jul) | 0.4% |  | 0.4% |
 | 07:00 | GBP | Core RPI (YoY) (Jul) | 4.7% |  | 4.3% |
 | 07:00 | GBP | CPI, n.s.a (Jul) | 139.00 |  | 138.90 |
-| 07:00 | GBP | RPI (MoM) (Jul) | 0.4% | 0.1% | 0.4% |
 | 07:00 | GBP | RPI (YoY) (Jul) | 4.8% | 4.5% | 4.4% |
+| 07:00 | GBP | RPI (MoM) (Jul) | 0.4% | 0.1% | 0.4% |
 | 07:00 | EUR | German PPI (YoY) (Jul) | -1.5% | -1.3% | -1.3% |
 | 08:30 | IDR | Deposit Facility Rate (Aug) | 4.25% | 4.50% | 4.50% |
 | 08:30 | IDR | Lending Facility Rate (Aug) | 5.75% | 6.00% | 6.00% |
@@ -46,7 +46,7 @@
 | 18:30 | BRL | Foreign Exchange Flows | 0.031B |  | -0.305B |
 | 22:00 | KRW | PPI (MoM) (Jul) | 0.4% |  | 0.1% |
 | 22:00 | KRW | PPI (YoY) (Jul) | 0.5% |  | 0.5% |
-| 23:45 | NZD | Exports (Jul) |  |  | 6.63B |
-| 23:45 | NZD | Imports (Jul) |  |  | 6.49B |
-| 23:45 | NZD | Trade Balance (MoM) (Jul) |  | 70M | 142M |
-| 23:45 | NZD | Trade Balance (YoY) (Jul) |  |  | -4,370M |
+| 39 min | NZD | Exports (Jul) |  |  | 6.63B |
+| 39 min | NZD | Imports (Jul) |  |  | 6.49B |
+| 39 min | NZD | Trade Balance (MoM) (Jul) |  | 70M | 142M |
+| 39 min | NZD | Trade Balance (YoY) (Jul) |  |  | -4,370M |

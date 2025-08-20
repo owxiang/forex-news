@@ -22,8 +22,8 @@
 | 07:00 | GBP | High | CPI (YoY) (Jul) | 3.8% | 3.7% | 3.6% |
 | 07:00 | GBP | Low | CPI, n.s.a (Jul) | 139.00 |  | 138.90 |
 | 07:00 | GBP | Moderate | CPIH (YoY) | 4.2% |  | 4.1% |
-| 07:00 | GBP | Low | RPI (MoM) (Jul) | 0.4% | 0.1% | 0.4% |
 | 07:00 | GBP | Low | RPI (YoY) (Jul) | 4.8% | 4.5% | 4.4% |
+| 07:00 | GBP | Low | RPI (MoM) (Jul) | 0.4% | 0.1% | 0.4% |
 | 07:00 | EUR | Moderate | German PPI (MoM) (Jul) | -0.1% | 0.1% | 0.1% |
 | 07:00 | EUR | Low | German PPI (YoY) (Jul) | -1.5% | -1.3% | -1.3% |
 | 08:10 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
@@ -38,8 +38,8 @@
 | 09:30 | GBP | Low | House Price Index (YoY) | 3.7% | 4.0% | 3.9% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Jul) | 2.3% | 2.3% | 2.3% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Jul) | -0.2% | -0.2% | 0.4% |
-| 10:00 | EUR | High | CPI (YoY) (Jul) | 2.0% | 2.0% | 2.0% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Jul) | 0.0% | 0.0% | 0.3% |
+| 10:00 | EUR | High | CPI (YoY) (Jul) | 2.0% | 2.0% | 2.0% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Jul) | 2.0% |  | 1.9% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Jul) | 0.0% |  | 0.3% |
 | 10:00 | EUR | Low | CPI, n.s.a (Jul) | 129.12 | 129.10 | 129.10 |
@@ -71,7 +71,7 @@
 | 20:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 22:00 | KRW | Low | PPI (MoM) (Jul) | 0.4% |  | 0.1% |
 | 22:00 | KRW | Low | PPI (YoY) (Jul) | 0.5% |  | 0.5% |
-| 23:45 | NZD | Low | Exports (Jul) |  |  | 6.63B |
-| 23:45 | NZD | Low | Imports (Jul) |  |  | 6.49B |
-| 23:45 | NZD | Low | Trade Balance (MoM) (Jul) |  | 70M | 142M |
-| 23:45 | NZD | Low | Trade Balance (YoY) (Jul) |  |  | -4,370M |
+| 39 min | NZD | Low | Exports (Jul) |  |  | 6.63B |
+| 39 min | NZD | Low | Imports (Jul) |  |  | 6.49B |
+| 39 min | NZD | Low | Trade Balance (MoM) (Jul) |  | 70M | 142M |
+| 39 min | NZD | Low | Trade Balance (YoY) (Jul) |  |  | -4,370M |
