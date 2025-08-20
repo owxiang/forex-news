@@ -5,10 +5,10 @@
 | 00:50 | JPY | Adjusted Trade Balance | -0.30T | -0.07T | -0.25T |
 | 00:50 | JPY | Exports (YoY) (Jul) | -2.6% | -2.1% | -0.5% |
 | 00:50 | JPY | Trade Balance (Jul) | -117.5B | 196.2B | 152.1B |
-| 32 min | CNY | China Loan Prime Rate 5Y (Aug) |  | 3.50% | 3.50% |
-| 47 min | CNY | PBoC Loan Prime Rate |  | 3.00% | 3.00% |
-| 03:00 | NZD | RBNZ Monetary Policy Statement |  |  |  |
-| 03:00 | NZD | RBNZ Rate Statement |  |  |  |
+| 02:00 | CNY | China Loan Prime Rate 5Y (Aug) | 3.50% | 3.50% | 3.50% |
+| 02:00 | CNY | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
+| 25 min | NZD | RBNZ Monetary Policy Statement |  |  |  |
+| 25 min | NZD | RBNZ Rate Statement |  |  |  |
 | 04:00 | NZD | RBNZ Press Conference |  |  |  |
 | 07:00 | GBP | CPI (MoM) (Jul) |  | -0.1% | 0.3% |
 | 08:00 | EUR | German PPI (MoM) (Jul) |  | 0.1% | 0.1% |

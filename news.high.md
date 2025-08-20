@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:00 | NZD | RBNZ Interest Rate Decision |  | 3.00% | 3.25% |
+| 25 min | NZD | RBNZ Interest Rate Decision |  | 3.00% | 3.25% |
 | 07:00 | GBP | CPI (YoY) (Jul) |  | 3.7% | 3.6% |
 | 10:00 | EUR | CPI (YoY) (Jul) |  | 2.0% | 2.0% |
 | 15:30 | USD | Crude Oil Inventories |  |  | 3.036M |
