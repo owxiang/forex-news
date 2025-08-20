@@ -10,8 +10,10 @@
 | 03:00 | NZD | RBNZ Monetary Policy Statement |  |  |  |
 | 03:00 | NZD | RBNZ Rate Statement |  |  |  |
 | 04:00 | NZD | RBNZ Press Conference |  |  |  |
-| 53 min | GBP | CPI (MoM) (Jul) |  | -0.1% | 0.3% |
-| 08:00 | EUR | German PPI (MoM) (Jul) |  | 0.1% | 0.1% |
+| 07:00 | GBP | CPI (MoM) (Jul) | 0.1% | -0.1% | 0.3% |
+| 07:00 | GBP | CPIH (YoY) | 4.2% |  | 4.1% |
+| 07:00 | EUR | German PPI (MoM) (Jul) | -0.1% | 0.1% | 0.1% |
+| 50 min | GBP | PPI Input (MoM) (Jul) |  |  | 0.8% |
 | 08:10 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 08:30 | IDR | Interest Rate Decision |  | 5.25% | 5.25% |
 | 10:00 | EUR | Core CPI (YoY) (Jul) |  | 2.3% | 2.3% |
