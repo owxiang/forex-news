@@ -5,8 +5,8 @@
 | 00:00 | AUD | Manufacturing & Services PMI (MoM) (Aug) | 54.90% |  | 53.80% |
 | 00:00 | AUD | Judo Bank Manufacturing PMI (Aug) | 52.9 |  | 51.3 |
 | 00:00 | AUD | Judo Bank Services PMI (Aug) | 55.1 |  | 54.1 |
-| 43 min | JPY | Foreign Bonds Buying |  |  | 254.9B |
-| 43 min | JPY | Foreign Investments in Japanese Stocks |  |  | 489.3B |
+| 00:50 | JPY | Foreign Bonds Buying | -313.6B |  | 254.7B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks | 1,161.7B |  | 495.5B |
 | 01:30 | JPY | Manufacturing & Services PMI (MoM) (Aug) |  |  | 51.60% |
 | 01:30 | JPY | au Jibun Bank Manufacturing PMI (Aug) |  | 49.2 | 48.9 |
 | 02:00 | AUD | MI Inflation Expectations |  |  | 4.7% |

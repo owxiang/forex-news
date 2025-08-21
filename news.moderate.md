@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 53 min | USD | Jackson Hole Symposium |  |  |  |
+| 01:00 | USD | Jackson Hole Symposium |  |  |  |
 | 01:30 | JPY | au Jibun Bank Services PMI (Aug) |  |  | 53.6 |
 | 08:15 | EUR | HCOB France Manufacturing PMI (Aug) |  | 48.2 | 48.2 |
 | 08:15 | EUR | HCOB France Services PMI (Aug) |  | 48.5 | 48.5 |
