@@ -14,15 +14,15 @@
 | 04:00 | NZD | Credit Card Spending (YoY) (Jul) | 1.4% |  | 0.9% |
 | 04:00 | IDR | Balance of Payments (EUR) (Q2) | -6.7B |  | -0.8B |
 | 04:00 | IDR | Current Account % of GDP (Q2) | -0.80% |  | -0.10% |
-| 52 min | INR | S&P Global Manufacturing PMI (Aug) |  |  | 59.1 |
-| 52 min | INR | S&P Global Services PMI (Aug) |  |  | 60.5 |
-| 52 min | INR | Manufacturing & Services PMI (MoM) (Aug) |  |  | 61.10% |
-| 07:00 | GBP | Public Sector Net Borrowing (Jul) |  | 2.10B | 20.68B |
-| 07:00 | GBP | Public Sector Net Cash Requirement (Jul) |  |  | -16.108B |
-| 07:00 | CHF | Trade Balance (Jul) |  | 5.150B | 5.790B |
-| 07:00 | NOK | GDP (QoQ) (Q2) |  |  | -0.1% |
-| 07:00 | NOK | GDP Mainland (QoQ) (Q2) |  |  | 1.0% |
-| 08:00 | CHF | M3 Money Supply (Jul) |  |  | 1,184,592.0B |
+| 06:00 | INR | S&P Global Manufacturing PMI (Aug) | 59.8 | 59.1 | 59.1 |
+| 06:00 | INR | S&P Global Services PMI (Aug) | 65.6 | 60.3 | 60.5 |
+| 06:00 | INR | Manufacturing & Services PMI (MoM) (Aug) | 65.20% | 60.50% | 61.10% |
+| 53 min | GBP | Public Sector Net Borrowing (Jul) |  | 2.10B | 20.68B |
+| 53 min | GBP | Public Sector Net Cash Requirement (Jul) |  |  | -16.108B |
+| 53 min | CHF | Trade Balance (Jul) |  | 5.150B | 5.790B |
+| 53 min | NOK | GDP (QoQ) (Q2) |  |  | -0.1% |
+| 53 min | NOK | GDP Mainland (QoQ) (Q2) |  | 0.3% | 1.0% |
+| 08:00 | CHF | M3 Money Supply (Jul) |  |  | 1,184.6B |
 | 08:15 | EUR | HCOB France Composite PMI (Aug) |  | 48.5 | 48.6 |
 | 08:30 | EUR | HCOB Germany Composite PMI (Aug) |  | 50.2 | 50.6 |
 | 09:30 | HKD | CPI (MoM) (Jul) |  |  | 0.00% |
@@ -30,8 +30,8 @@
 | 10:00 | EUR | Construction Output (MoM) (Jun) |  |  | -1.68% |
 | 11:00 | GBP | CBI Industrial Trends Orders (Aug) |  | -28 | -30 |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 13:00 | MXN | Retail Sales (MoM) (Jun) |  | 0.0% | 1.8% |
 | 13:00 | MXN | Retail Sales (YoY) (Jun) |  | 2.9% | 2.7% |
+| 13:00 | MXN | Retail Sales (MoM) (Jun) |  | 0.0% | 1.8% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 221.75K |
 | 13:30 | USD | Philly Fed Business Conditions (Aug) |  |  | 21.5 |
 | 13:30 | USD | Philly Fed CAPEX Index (Aug) |  |  | 17.10 |

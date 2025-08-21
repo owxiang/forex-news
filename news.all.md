@@ -16,15 +16,15 @@
 | 04:00 | NZD | Low | Credit Card Spending (YoY) (Jul) | 1.4% |  | 0.9% |
 | 04:00 | IDR | Low | Balance of Payments (EUR) (Q2) | -6.7B |  | -0.8B |
 | 04:00 | IDR | Low | Current Account % of GDP (Q2) | -0.80% |  | -0.10% |
-| 52 min | INR | Low | S&P Global Manufacturing PMI (Aug) |  |  | 59.1 |
-| 52 min | INR | Low | S&P Global Services PMI (Aug) |  |  | 60.5 |
-| 52 min | INR | Low | Manufacturing & Services PMI (MoM) (Aug) |  |  | 61.10% |
-| 07:00 | GBP | Low | Public Sector Net Borrowing (Jul) |  | 2.10B | 20.68B |
-| 07:00 | GBP | Low | Public Sector Net Cash Requirement (Jul) |  |  | -16.108B |
-| 07:00 | CHF | Low | Trade Balance (Jul) |  | 5.150B | 5.790B |
-| 07:00 | NOK | Low | GDP (QoQ) (Q2) |  |  | -0.1% |
-| 07:00 | NOK | Low | GDP Mainland (QoQ) (Q2) |  |  | 1.0% |
-| 08:00 | CHF | Low | M3 Money Supply (Jul) |  |  | 1,184,592.0B |
+| 06:00 | INR | Low | S&P Global Manufacturing PMI (Aug) | 59.8 | 59.1 | 59.1 |
+| 06:00 | INR | Low | S&P Global Services PMI (Aug) | 65.6 | 60.3 | 60.5 |
+| 06:00 | INR | Low | Manufacturing & Services PMI (MoM) (Aug) | 65.20% | 60.50% | 61.10% |
+| 53 min | GBP | Low | Public Sector Net Borrowing (Jul) |  | 2.10B | 20.68B |
+| 53 min | GBP | Low | Public Sector Net Cash Requirement (Jul) |  |  | -16.108B |
+| 53 min | CHF | Low | Trade Balance (Jul) |  | 5.150B | 5.790B |
+| 53 min | NOK | Low | GDP (QoQ) (Q2) |  |  | -0.1% |
+| 53 min | NOK | Low | GDP Mainland (QoQ) (Q2) |  | 0.3% | 1.0% |
+| 08:00 | CHF | Low | M3 Money Supply (Jul) |  |  | 1,184.6B |
 | 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Aug) |  | 48.2 | 48.2 |
 | 08:15 | EUR | Low | HCOB France Composite PMI (Aug) |  | 48.5 | 48.6 |
 | 08:15 | EUR | Moderate | HCOB France Services PMI (Aug) |  | 48.5 | 48.5 |
@@ -36,7 +36,7 @@
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Aug) |  | 50.8 | 51.0 |
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (Aug) |  | 51.6 | 51.5 |
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Aug) |  | 48.2 | 48.0 |
-| 09:30 | GBP | Moderate | S&P Global Services PMI (Aug) |  | 51.9 | 51.8 |
+| 09:30 | GBP | Moderate | S&P Global Services PMI (Aug) |  | 51.8 | 51.8 |
 | 09:30 | HKD | Low | CPI (MoM) (Jul) |  |  | 0.00% |
 | 09:30 | HKD | Low | CPI (YoY) (Jul) |  | 0.80% | 1.40% |
 | 10:00 | EUR | Low | Construction Output (MoM) (Jun) |  |  | -1.68% |
@@ -44,8 +44,8 @@
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 12:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 12:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
-| 13:00 | MXN | Low | Retail Sales (MoM) (Jun) |  | 0.0% | 1.8% |
 | 13:00 | MXN | Low | Retail Sales (YoY) (Jun) |  | 2.9% | 2.7% |
+| 13:00 | MXN | Low | Retail Sales (MoM) (Jun) |  | 0.0% | 1.8% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,960K | 1,953K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 226K | 224K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 221.75K |
@@ -57,13 +57,13 @@
 | 13:30 | USD | Low | Philly Fed Prices Paid (Aug) |  |  | 58.80 |
 | 13:30 | CAD | Low | IPPI (MoM) (Jul) |  | 0.3% | 0.4% |
 | 13:30 | CAD | Low | IPPI (YoY) (Jul) |  |  | 1.7% |
+| 13:30 | CAD | Moderate | RMPI (MoM) (Jul) |  | -0.5% | 2.7% |
 | 13:30 | CAD | Low | RMPI (YoY) (Jul) |  |  | 1.1% |
-| 13:30 | CAD | Moderate | RMPI (MoM) (Jul) |  | -0.4% | 2.7% |
 | 14:45 | USD | High | S&P Global Manufacturing PMI (Aug) |  | 49.7 | 49.8 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Aug) |  |  | 55.1 |
 | 14:45 | USD | High | S&P Global Services PMI (Aug) |  | 54.2 | 55.7 |
-| 15:00 | USD | High | Existing Home Sales (Jul) |  | 3.92M | 3.93M |
 | 15:00 | USD | Moderate | Existing Home Sales (MoM) (Jul) |  |  | -2.7% |
+| 15:00 | USD | High | Existing Home Sales (Jul) |  | 3.92M | 3.93M |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (Jul) |  | -0.1% | -0.3% |
 | 15:00 | EUR | Low | Consumer Confidence (Aug) |  | -15.0 | -14.7 |
 | 15:30 | USD | Low | Natural Gas Storage |  |  | 56B |
