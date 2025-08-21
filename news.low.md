@@ -11,9 +11,9 @@
 | 01:30 | JPY | au Jibun Bank Manufacturing PMI (Aug) | 49.9 | 49.2 | 48.9 |
 | 02:00 | AUD | MI Inflation Expectations | 3.9% |  | 4.7% |
 | 02:30 | AUD | Reserve Assets Total (Jul) | 104.3B |  | 102.5B |
-| 24 min | NZD | Credit Card Spending (YoY) (Jul) |  |  | 0.9% |
-| 24 min | IDR | Balance of Payments (EUR) (Q2) |  |  | -0.8B |
-| 24 min | IDR | Current Account % of GDP (Q2) |  |  | -0.10% |
+| 04:00 | NZD | Credit Card Spending (YoY) (Jul) | 1.4% |  | 0.9% |
+| 04:00 | IDR | Balance of Payments (EUR) (Q2) | -6.7B |  | -0.8B |
+| 04:00 | IDR | Current Account % of GDP (Q2) | -0.80% |  | -0.10% |
 | 06:00 | INR | S&P Global Manufacturing PMI (Aug) |  |  | 59.1 |
 | 06:00 | INR | S&P Global Services PMI (Aug) |  |  | 60.5 |
 | 06:00 | INR | Manufacturing & Services PMI (MoM) (Aug) |  |  | 61.10% |
@@ -30,15 +30,15 @@
 | 10:00 | EUR | Construction Output (MoM) (Jun) |  |  | -1.68% |
 | 11:00 | GBP | CBI Industrial Trends Orders (Aug) |  | -28 | -30 |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 13:00 | MXN | Retail Sales (MoM) (Jun) |  | 0.0% | 1.8% |
 | 13:00 | MXN | Retail Sales (YoY) (Jun) |  | 2.9% | 2.7% |
+| 13:00 | MXN | Retail Sales (MoM) (Jun) |  | 0.0% | 1.8% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 221.75K |
 | 13:30 | USD | Philly Fed Business Conditions (Aug) |  |  | 21.5 |
 | 13:30 | USD | Philly Fed CAPEX Index (Aug) |  |  | 17.10 |
 | 13:30 | USD | Philly Fed New Orders (Aug) |  |  | 18.4 |
 | 13:30 | USD | Philly Fed Prices Paid (Aug) |  |  | 58.80 |
-| 13:30 | CAD | IPPI (MoM) (Jul) |  | 0.3% | 0.4% |
 | 13:30 | CAD | IPPI (YoY) (Jul) |  |  | 1.7% |
+| 13:30 | CAD | IPPI (MoM) (Jul) |  | 0.3% | 0.4% |
 | 13:30 | CAD | RMPI (YoY) (Jul) |  |  | 1.1% |
 | 15:00 | EUR | Consumer Confidence (Aug) |  | -15.0 | -14.7 |
 | 15:30 | USD | Natural Gas Storage |  |  | 56B |
