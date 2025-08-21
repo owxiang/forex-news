@@ -44,8 +44,8 @@
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 12:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 12:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
-| 13:00 | MXN | Low | Retail Sales (YoY) (Jun) | 2.5% | 2.9% | 2.7% |
 | 13:00 | MXN | Low | Retail Sales (MoM) (Jun) | -0.4% | 0.0% | 1.8% |
+| 13:00 | MXN | Low | Retail Sales (YoY) (Jun) | 2.5% | 2.9% | 2.7% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,972K | 1,960K | 1,942K |
 | 13:30 | USD | High | Initial Jobless Claims | 235K | 226K | 224K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 226.25K |  | 221.75K |
@@ -55,8 +55,8 @@
 | 13:30 | USD | Moderate | Philly Fed Employment (Aug) | 5.9 |  | 10.3 |
 | 13:30 | USD | Low | Philly Fed New Orders (Aug) | -1.9 |  | 18.4 |
 | 13:30 | USD | Low | Philly Fed Prices Paid (Aug) | 66.80 |  | 58.80 |
-| 13:30 | CAD | Low | IPPI (YoY) (Jul) | 2.6% |  | 1.9% |
 | 13:30 | CAD | Low | IPPI (MoM) (Jul) | 0.7% | 0.3% | 0.5% |
+| 13:30 | CAD | Low | IPPI (YoY) (Jul) | 2.6% |  | 1.9% |
 | 13:30 | CAD | Low | RMPI (YoY) (Jul) | 0.8% |  | 1.1% |
 | 13:30 | CAD | Moderate | RMPI (MoM) (Jul) | 0.3% | -0.5% | 2.8% |
 | 14:45 | USD | High | S&P Global Manufacturing PMI (Aug) | 53.3 | 49.7 | 49.8 |
