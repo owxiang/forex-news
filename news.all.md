@@ -23,17 +23,17 @@
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Jul) | 3.002B |  | -16.367B |
 | 07:00 | CHF | Low | Trade Balance (Jul) | 4.591B | 5.150B | 5.726B |
 | 07:00 | NOK | Low | GDP (QoQ) (Q2) | 0.8% |  | 0.1% |
-| 07:00 | NOK | Low | GDP Mainland (QoQ) (Q2) | 0.6% | 0.3% | 1.0% |
-| 08:00 | CHF | Low | M3 Money Supply (Jul) |  |  | 1,184.6B |
-| 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Aug) |  | 48.2 | 48.2 |
-| 08:15 | EUR | Low | HCOB France Composite PMI (Aug) |  | 48.5 | 48.6 |
-| 08:15 | EUR | Moderate | HCOB France Services PMI (Aug) |  | 48.5 | 48.5 |
-| 08:30 | EUR | Low | HCOB Germany Composite PMI (Aug) |  | 50.2 | 50.6 |
-| 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Aug) |  | 48.8 | 49.1 |
-| 08:30 | EUR | Moderate | HCOB Germany Services PMI (Aug) |  | 50.4 | 50.6 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Aug) |  | 49.5 | 49.8 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Aug) |  | 50.7 | 50.9 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Aug) |  | 50.8 | 51.0 |
+| 07:00 | NOK | Low | GDP Mainland (QoQ) (Q2) | 0.6% | 0.3% | 1.2% |
+| 08:00 | CHF | Low | M3 Money Supply (Jul) | 1,193,413.0B |  | 1,184,341.0B |
+| 6 min | EUR | Moderate | HCOB France Manufacturing PMI (Aug) |  | 48.2 | 48.2 |
+| 6 min | EUR | Low | HCOB France Composite PMI (Aug) |  | 48.5 | 48.6 |
+| 6 min | EUR | Moderate | HCOB France Services PMI (Aug) |  | 48.5 | 48.5 |
+| 21 min | EUR | Low | HCOB Germany Composite PMI (Aug) |  | 50.2 | 50.6 |
+| 21 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Aug) |  | 48.8 | 49.1 |
+| 21 min | EUR | Moderate | HCOB Germany Services PMI (Aug) |  | 50.4 | 50.6 |
+| 51 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Aug) |  | 49.5 | 49.8 |
+| 51 min | EUR | Moderate | HCOB Eurozone Composite PMI (Aug) |  | 50.7 | 50.9 |
+| 51 min | EUR | Moderate | HCOB Eurozone Services PMI (Aug) |  | 50.8 | 51.0 |
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (Aug) |  | 51.6 | 51.5 |
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Aug) |  | 48.2 | 48.0 |
 | 09:30 | GBP | Moderate | S&P Global Services PMI (Aug) |  | 51.8 | 51.8 |

@@ -21,10 +21,10 @@
 | 07:00 | GBP | Public Sector Net Cash Requirement (Jul) | 3.002B |  | -16.367B |
 | 07:00 | CHF | Trade Balance (Jul) | 4.591B | 5.150B | 5.726B |
 | 07:00 | NOK | GDP (QoQ) (Q2) | 0.8% |  | 0.1% |
-| 07:00 | NOK | GDP Mainland (QoQ) (Q2) | 0.6% | 0.3% | 1.0% |
-| 08:00 | CHF | M3 Money Supply (Jul) |  |  | 1,184.6B |
-| 08:15 | EUR | HCOB France Composite PMI (Aug) |  | 48.5 | 48.6 |
-| 08:30 | EUR | HCOB Germany Composite PMI (Aug) |  | 50.2 | 50.6 |
+| 07:00 | NOK | GDP Mainland (QoQ) (Q2) | 0.6% | 0.3% | 1.2% |
+| 08:00 | CHF | M3 Money Supply (Jul) | 1,193,413.0B |  | 1,184,341.0B |
+| 6 min | EUR | HCOB France Composite PMI (Aug) |  | 48.5 | 48.6 |
+| 21 min | EUR | HCOB Germany Composite PMI (Aug) |  | 50.2 | 50.6 |
 | 09:30 | HKD | CPI (MoM) (Jul) |  |  | 0.00% |
 | 09:30 | HKD | CPI (YoY) (Jul) |  | 0.80% | 1.40% |
 | 10:00 | EUR | Construction Output (MoM) (Jun) |  |  | -1.68% |
