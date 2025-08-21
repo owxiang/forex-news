@@ -30,8 +30,8 @@
 | 10:00 | EUR | Construction Output (MoM) (Jun) | -0.76% |  | -2.14% |
 | 11:00 | GBP | CBI Industrial Trends Orders (Aug) | -33 | -28 | -30 |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 13:00 | MXN | Retail Sales (MoM) (Jun) |  | 0.0% | 1.8% |
-| 13:00 | MXN | Retail Sales (YoY) (Jun) |  | 2.9% | 2.7% |
+| 54 min | MXN | Retail Sales (YoY) (Jun) |  | 2.9% | 2.7% |
+| 54 min | MXN | Retail Sales (MoM) (Jun) |  | 0.0% | 1.8% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 221.75K |
 | 13:30 | USD | Philly Fed Business Conditions (Aug) |  |  | 21.5 |
 | 13:30 | USD | Philly Fed CAPEX Index (Aug) |  |  | 17.10 |

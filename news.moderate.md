@@ -14,8 +14,8 @@
 | 09:30 | GBP | S&P Global Composite PMI (Aug) | 53.0 | 51.6 | 51.5 |
 | 09:30 | GBP | S&P Global Manufacturing PMI (Aug) | 47.3 | 48.2 | 48.0 |
 | 09:30 | GBP | S&P Global Services PMI (Aug) | 53.6 | 51.8 | 51.8 |
-| 12:30 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 12:30 | INR | RBI MPC Meeting Minutes |  |  |  |
+| 24 min | USD | FOMC Member Bostic Speaks |  |  |  |
+| 24 min | INR | RBI MPC Meeting Minutes |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,960K | 1,953K |
 | 13:30 | USD | Philly Fed Employment (Aug) |  |  | 10.3 |
 | 13:30 | CAD | RMPI (MoM) (Jul) |  | -0.5% | 2.7% |
