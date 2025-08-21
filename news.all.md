@@ -57,13 +57,13 @@
 | 13:30 | USD | Low | Philly Fed Prices Paid (Aug) | 66.80 |  | 58.80 |
 | 13:30 | CAD | Low | IPPI (MoM) (Jul) | 0.7% | 0.3% | 0.5% |
 | 13:30 | CAD | Low | IPPI (YoY) (Jul) | 2.6% |  | 1.9% |
-| 13:30 | CAD | Low | RMPI (YoY) (Jul) | 0.8% |  | 1.1% |
 | 13:30 | CAD | Moderate | RMPI (MoM) (Jul) | 0.3% | -0.5% | 2.8% |
+| 13:30 | CAD | Low | RMPI (YoY) (Jul) | 0.8% |  | 1.1% |
 | 14:45 | USD | High | S&P Global Manufacturing PMI (Aug) | 53.3 | 49.7 | 49.8 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Aug) | 55.4 | 53.5 | 55.1 |
 | 14:45 | USD | High | S&P Global Services PMI (Aug) | 55.4 | 54.2 | 55.7 |
-| 15:00 | USD | High | Existing Home Sales (Jul) | 4.01M | 3.92M | 3.93M |
 | 15:00 | USD | Moderate | Existing Home Sales (MoM) (Jul) | 2.0% |  | -2.7% |
+| 15:00 | USD | High | Existing Home Sales (Jul) | 4.01M | 3.92M | 3.93M |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (Jul) | -0.1% | -0.1% | -0.3% |
 | 15:00 | EUR | Low | Consumer Confidence (Aug) | -15.5 | -15.0 | -14.7 |
 | 15:30 | USD | Low | Natural Gas Storage | 13B |  | 56B |
