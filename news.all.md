@@ -66,10 +66,10 @@
 | 15:00 | USD | Moderate | Existing Home Sales (MoM) (Jul) | 2.0% |  | -2.7% |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (Jul) | -0.1% | -0.1% | -0.3% |
 | 15:00 | EUR | Low | Consumer Confidence (Aug) | -15.5 | -15.0 | -14.7 |
-| 23 min | USD | Low | Natural Gas Storage |  |  | 56B |
-| 53 min | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.280% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.185% |
+| 15:30 | USD | Low | Natural Gas Storage | 13B |  | 56B |
+| 16:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
+| 23 min | USD | Low | 4-Week Bill Auction |  |  | 4.280% |
+| 23 min | USD | Low | 8-Week Bill Auction |  |  | 4.185% |
 | 18:00 | USD | Moderate | 30-Year TIPS Auction |  |  | 2.403% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,644B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.328T |
