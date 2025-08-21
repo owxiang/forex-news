@@ -23,5 +23,5 @@
 | 15:00 | USD | Existing Home Sales (MoM) (Jul) | 2.0% |  | -2.7% |
 | 15:00 | USD | US Leading Index (MoM) (Jul) | -0.1% | -0.1% | -0.3% |
 | 16:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
-| 52 min | USD | 30-Year TIPS Auction |  |  | 2.403% |
+| 18:00 | USD | 30-Year TIPS Auction | 2.650% |  | 2.403% |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,644B |
