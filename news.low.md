@@ -30,18 +30,18 @@
 | 10:00 | EUR | Construction Output (MoM) (Jun) | -0.76% |  | -2.14% |
 | 11:00 | GBP | CBI Industrial Trends Orders (Aug) | -33 | -28 | -30 |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 13:00 | MXN | Retail Sales (YoY) (Jun) | 2.5% | 2.9% | 2.7% |
 | 13:00 | MXN | Retail Sales (MoM) (Jun) | -0.4% | 0.0% | 1.8% |
+| 13:00 | MXN | Retail Sales (YoY) (Jun) | 2.5% | 2.9% | 2.7% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 226.25K |  | 221.75K |
 | 13:30 | USD | Philly Fed Business Conditions (Aug) | 25.0 |  | 21.5 |
 | 13:30 | USD | Philly Fed CAPEX Index (Aug) | 38.40 |  | 17.10 |
 | 13:30 | USD | Philly Fed New Orders (Aug) | -1.9 |  | 18.4 |
 | 13:30 | USD | Philly Fed Prices Paid (Aug) | 66.80 |  | 58.80 |
-| 13:30 | CAD | IPPI (YoY) (Jul) | 2.6% |  | 1.9% |
 | 13:30 | CAD | IPPI (MoM) (Jul) | 0.7% | 0.3% | 0.5% |
+| 13:30 | CAD | IPPI (YoY) (Jul) | 2.6% |  | 1.9% |
 | 13:30 | CAD | RMPI (YoY) (Jul) | 0.8% |  | 1.1% |
 | 15:00 | EUR | Consumer Confidence (Aug) | -15.5 | -15.0 | -14.7 |
 | 15:30 | USD | Natural Gas Storage | 13B |  | 56B |
-| 23 min | USD | 4-Week Bill Auction |  |  | 4.280% |
-| 23 min | USD | 8-Week Bill Auction |  |  | 4.185% |
+| 16:30 | USD | 4-Week Bill Auction | 4.300% |  | 4.280% |
+| 16:30 | USD | 8-Week Bill Auction | 4.220% |  | 4.185% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.328T |
