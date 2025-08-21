@@ -24,16 +24,16 @@
 | 07:00 | CHF | Low | Trade Balance (Jul) | 4.591B | 5.150B | 5.726B |
 | 07:00 | NOK | Low | GDP (QoQ) (Q2) | 0.8% |  | 0.1% |
 | 07:00 | NOK | Low | GDP Mainland (QoQ) (Q2) | 0.6% | 0.3% | 1.2% |
-| 08:00 | CHF | Low | M3 Money Supply (Jul) | 1,193,413.0B |  | 1,184,341.0B |
-| 6 min | EUR | Moderate | HCOB France Manufacturing PMI (Aug) |  | 48.2 | 48.2 |
-| 6 min | EUR | Low | HCOB France Composite PMI (Aug) |  | 48.5 | 48.6 |
-| 6 min | EUR | Moderate | HCOB France Services PMI (Aug) |  | 48.5 | 48.5 |
-| 21 min | EUR | Low | HCOB Germany Composite PMI (Aug) |  | 50.2 | 50.6 |
-| 21 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Aug) |  | 48.8 | 49.1 |
-| 21 min | EUR | Moderate | HCOB Germany Services PMI (Aug) |  | 50.4 | 50.6 |
-| 51 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Aug) |  | 49.5 | 49.8 |
-| 51 min | EUR | Moderate | HCOB Eurozone Composite PMI (Aug) |  | 50.7 | 50.9 |
-| 51 min | EUR | Moderate | HCOB Eurozone Services PMI (Aug) |  | 50.8 | 51.0 |
+| 08:00 | CHF | Low | M3 Money Supply (Jul) | 1,193.4B |  | 1,184.3B |
+| 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Aug) | 49.9 | 48.2 | 48.2 |
+| 08:15 | EUR | Low | HCOB France Composite PMI (Aug) | 49.8 | 48.5 | 48.6 |
+| 08:15 | EUR | Moderate | HCOB France Services PMI (Aug) | 49.7 | 48.5 | 48.5 |
+| 08:30 | EUR | Low | HCOB Germany Composite PMI (Aug) | 50.9 | 50.2 | 50.6 |
+| 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Aug) | 49.9 | 48.8 | 49.1 |
+| 08:30 | EUR | Moderate | HCOB Germany Services PMI (Aug) | 50.1 | 50.4 | 50.6 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Aug) | 50.5 | 49.5 | 49.8 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Aug) | 51.1 | 50.7 | 50.9 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Aug) | 50.7 | 50.8 | 51.0 |
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (Aug) |  | 51.6 | 51.5 |
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Aug) |  | 48.2 | 48.0 |
 | 09:30 | GBP | Moderate | S&P Global Services PMI (Aug) |  | 51.8 | 51.8 |
@@ -55,15 +55,15 @@
 | 13:30 | USD | Moderate | Philly Fed Employment (Aug) |  |  | 10.3 |
 | 13:30 | USD | Low | Philly Fed New Orders (Aug) |  |  | 18.4 |
 | 13:30 | USD | Low | Philly Fed Prices Paid (Aug) |  |  | 58.80 |
-| 13:30 | CAD | Low | IPPI (MoM) (Jul) |  | 0.3% | 0.4% |
 | 13:30 | CAD | Low | IPPI (YoY) (Jul) |  |  | 1.7% |
-| 13:30 | CAD | Moderate | RMPI (MoM) (Jul) |  | -0.5% | 2.7% |
+| 13:30 | CAD | Low | IPPI (MoM) (Jul) |  | 0.3% | 0.4% |
 | 13:30 | CAD | Low | RMPI (YoY) (Jul) |  |  | 1.1% |
+| 13:30 | CAD | Moderate | RMPI (MoM) (Jul) |  | -0.5% | 2.7% |
 | 14:45 | USD | High | S&P Global Manufacturing PMI (Aug) |  | 49.7 | 49.8 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Aug) |  |  | 55.1 |
 | 14:45 | USD | High | S&P Global Services PMI (Aug) |  | 54.2 | 55.7 |
-| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Jul) |  |  | -2.7% |
 | 15:00 | USD | High | Existing Home Sales (Jul) |  | 3.92M | 3.93M |
+| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Jul) |  |  | -2.7% |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (Jul) |  | -0.1% | -0.3% |
 | 15:00 | EUR | Low | Consumer Confidence (Aug) |  | -15.0 | -14.7 |
 | 15:30 | USD | Low | Natural Gas Storage |  |  | 56B |

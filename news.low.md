@@ -22,9 +22,9 @@
 | 07:00 | CHF | Trade Balance (Jul) | 4.591B | 5.150B | 5.726B |
 | 07:00 | NOK | GDP (QoQ) (Q2) | 0.8% |  | 0.1% |
 | 07:00 | NOK | GDP Mainland (QoQ) (Q2) | 0.6% | 0.3% | 1.2% |
-| 08:00 | CHF | M3 Money Supply (Jul) | 1,193,413.0B |  | 1,184,341.0B |
-| 6 min | EUR | HCOB France Composite PMI (Aug) |  | 48.5 | 48.6 |
-| 21 min | EUR | HCOB Germany Composite PMI (Aug) |  | 50.2 | 50.6 |
+| 08:00 | CHF | M3 Money Supply (Jul) | 1,193.4B |  | 1,184.3B |
+| 08:15 | EUR | HCOB France Composite PMI (Aug) | 49.8 | 48.5 | 48.6 |
+| 08:30 | EUR | HCOB Germany Composite PMI (Aug) | 50.9 | 50.2 | 50.6 |
 | 09:30 | HKD | CPI (MoM) (Jul) |  |  | 0.00% |
 | 09:30 | HKD | CPI (YoY) (Jul) |  | 0.80% | 1.40% |
 | 10:00 | EUR | Construction Output (MoM) (Jun) |  |  | -1.68% |
@@ -37,8 +37,8 @@
 | 13:30 | USD | Philly Fed CAPEX Index (Aug) |  |  | 17.10 |
 | 13:30 | USD | Philly Fed New Orders (Aug) |  |  | 18.4 |
 | 13:30 | USD | Philly Fed Prices Paid (Aug) |  |  | 58.80 |
-| 13:30 | CAD | IPPI (MoM) (Jul) |  | 0.3% | 0.4% |
 | 13:30 | CAD | IPPI (YoY) (Jul) |  |  | 1.7% |
+| 13:30 | CAD | IPPI (MoM) (Jul) |  | 0.3% | 0.4% |
 | 13:30 | CAD | RMPI (YoY) (Jul) |  |  | 1.1% |
 | 15:00 | EUR | Consumer Confidence (Aug) |  | -15.0 | -14.7 |
 | 15:30 | USD | Natural Gas Storage |  |  | 56B |

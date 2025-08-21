@@ -4,13 +4,13 @@
 |------|----------|-------|--------|----------|----------|
 | 01:00 | USD | Jackson Hole Symposium |  |  |  |
 | 01:30 | JPY | au Jibun Bank Services PMI (Aug) | 52.7 |  | 53.6 |
-| 6 min | EUR | HCOB France Manufacturing PMI (Aug) |  | 48.2 | 48.2 |
-| 6 min | EUR | HCOB France Services PMI (Aug) |  | 48.5 | 48.5 |
-| 21 min | EUR | HCOB Germany Manufacturing PMI (Aug) |  | 48.8 | 49.1 |
-| 21 min | EUR | HCOB Germany Services PMI (Aug) |  | 50.4 | 50.6 |
-| 51 min | EUR | HCOB Eurozone Manufacturing PMI (Aug) |  | 49.5 | 49.8 |
-| 51 min | EUR | HCOB Eurozone Composite PMI (Aug) |  | 50.7 | 50.9 |
-| 51 min | EUR | HCOB Eurozone Services PMI (Aug) |  | 50.8 | 51.0 |
+| 08:15 | EUR | HCOB France Manufacturing PMI (Aug) | 49.9 | 48.2 | 48.2 |
+| 08:15 | EUR | HCOB France Services PMI (Aug) | 49.7 | 48.5 | 48.5 |
+| 08:30 | EUR | HCOB Germany Manufacturing PMI (Aug) | 49.9 | 48.8 | 49.1 |
+| 08:30 | EUR | HCOB Germany Services PMI (Aug) | 50.1 | 50.4 | 50.6 |
+| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Aug) | 50.5 | 49.5 | 49.8 |
+| 09:00 | EUR | HCOB Eurozone Composite PMI (Aug) | 51.1 | 50.7 | 50.9 |
+| 09:00 | EUR | HCOB Eurozone Services PMI (Aug) | 50.7 | 50.8 | 51.0 |
 | 09:30 | GBP | S&P Global Composite PMI (Aug) |  | 51.6 | 51.5 |
 | 09:30 | GBP | S&P Global Manufacturing PMI (Aug) |  | 48.2 | 48.0 |
 | 09:30 | GBP | S&P Global Services PMI (Aug) |  | 51.8 | 51.8 |
