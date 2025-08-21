@@ -19,11 +19,11 @@
 | 06:00 | INR | Low | S&P Global Manufacturing PMI (Aug) | 59.8 | 59.1 | 59.1 |
 | 06:00 | INR | Low | S&P Global Services PMI (Aug) | 65.6 | 60.3 | 60.5 |
 | 06:00 | INR | Low | Manufacturing & Services PMI (MoM) (Aug) | 65.20% | 60.50% | 61.10% |
-| 53 min | GBP | Low | Public Sector Net Borrowing (Jul) |  | 2.10B | 20.68B |
-| 53 min | GBP | Low | Public Sector Net Cash Requirement (Jul) |  |  | -16.108B |
-| 53 min | CHF | Low | Trade Balance (Jul) |  | 5.150B | 5.790B |
-| 53 min | NOK | Low | GDP (QoQ) (Q2) |  |  | -0.1% |
-| 53 min | NOK | Low | GDP Mainland (QoQ) (Q2) |  | 0.3% | 1.0% |
+| 07:00 | GBP | Low | Public Sector Net Borrowing (Jun) | 1.05B | 2.10B | 22.56B |
+| 07:00 | GBP | Low | Public Sector Net Cash Requirement (Jul) | 3.002B |  | -16.367B |
+| 07:00 | CHF | Low | Trade Balance (Jul) | 4.591B | 5.150B | 5.726B |
+| 07:00 | NOK | Low | GDP (QoQ) (Q2) | 0.8% |  | 0.1% |
+| 07:00 | NOK | Low | GDP Mainland (QoQ) (Q2) | 0.6% | 0.3% | 1.0% |
 | 08:00 | CHF | Low | M3 Money Supply (Jul) |  |  | 1,184.6B |
 | 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Aug) |  | 48.2 | 48.2 |
 | 08:15 | EUR | Low | HCOB France Composite PMI (Aug) |  | 48.5 | 48.6 |
