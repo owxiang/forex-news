@@ -30,16 +30,16 @@
 | 10:00 | EUR | Construction Output (MoM) (Jun) | -0.76% |  | -2.14% |
 | 11:00 | GBP | CBI Industrial Trends Orders (Aug) | -33 | -28 | -30 |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 54 min | MXN | Retail Sales (YoY) (Jun) |  | 2.9% | 2.7% |
-| 54 min | MXN | Retail Sales (MoM) (Jun) |  | 0.0% | 1.8% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 221.75K |
-| 13:30 | USD | Philly Fed Business Conditions (Aug) |  |  | 21.5 |
-| 13:30 | USD | Philly Fed CAPEX Index (Aug) |  |  | 17.10 |
-| 13:30 | USD | Philly Fed New Orders (Aug) |  |  | 18.4 |
-| 13:30 | USD | Philly Fed Prices Paid (Aug) |  |  | 58.80 |
-| 13:30 | CAD | IPPI (MoM) (Jul) |  | 0.3% | 0.4% |
-| 13:30 | CAD | IPPI (YoY) (Jul) |  |  | 1.7% |
-| 13:30 | CAD | RMPI (YoY) (Jul) |  |  | 1.1% |
+| 13:00 | MXN | Retail Sales (MoM) (Jun) | -0.4% | 0.0% | 1.8% |
+| 13:00 | MXN | Retail Sales (YoY) (Jun) | 2.5% | 2.9% | 2.7% |
+| 18 min | USD | Jobless Claims 4-Week Avg. |  |  | 221.75K |
+| 18 min | USD | Philly Fed Business Conditions (Aug) |  |  | 21.5 |
+| 18 min | USD | Philly Fed CAPEX Index (Aug) |  |  | 17.10 |
+| 18 min | USD | Philly Fed New Orders (Aug) |  |  | 18.4 |
+| 18 min | USD | Philly Fed Prices Paid (Aug) |  |  | 58.80 |
+| 18 min | CAD | IPPI (MoM) (Jul) |  | 0.3% | 0.4% |
+| 18 min | CAD | IPPI (YoY) (Jul) |  |  | 1.7% |
+| 18 min | CAD | RMPI (YoY) (Jul) |  |  | 1.1% |
 | 15:00 | EUR | Consumer Confidence (Aug) |  | -15.0 | -14.7 |
 | 15:30 | USD | Natural Gas Storage |  |  | 56B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.280% |

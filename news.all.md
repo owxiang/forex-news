@@ -42,23 +42,23 @@
 | 10:00 | EUR | Low | Construction Output (MoM) (Jun) | -0.76% |  | -2.14% |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Aug) | -33 | -28 | -30 |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 24 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 24 min | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
-| 54 min | MXN | Low | Retail Sales (YoY) (Jun) |  | 2.9% | 2.7% |
-| 54 min | MXN | Low | Retail Sales (MoM) (Jun) |  | 0.0% | 1.8% |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,960K | 1,953K |
-| 13:30 | USD | High | Initial Jobless Claims |  | 226K | 224K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 221.75K |
-| 13:30 | USD | High | Philadelphia Fed Manufacturing Index (Aug) |  | 6.8 | 15.9 |
-| 13:30 | USD | Low | Philly Fed Business Conditions (Aug) |  |  | 21.5 |
-| 13:30 | USD | Low | Philly Fed CAPEX Index (Aug) |  |  | 17.10 |
-| 13:30 | USD | Moderate | Philly Fed Employment (Aug) |  |  | 10.3 |
-| 13:30 | USD | Low | Philly Fed New Orders (Aug) |  |  | 18.4 |
-| 13:30 | USD | Low | Philly Fed Prices Paid (Aug) |  |  | 58.80 |
-| 13:30 | CAD | Low | IPPI (MoM) (Jul) |  | 0.3% | 0.4% |
-| 13:30 | CAD | Low | IPPI (YoY) (Jul) |  |  | 1.7% |
-| 13:30 | CAD | Moderate | RMPI (MoM) (Jul) |  | -0.5% | 2.7% |
-| 13:30 | CAD | Low | RMPI (YoY) (Jul) |  |  | 1.1% |
+| 12:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 12:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
+| 13:00 | MXN | Low | Retail Sales (MoM) (Jun) | -0.4% | 0.0% | 1.8% |
+| 13:00 | MXN | Low | Retail Sales (YoY) (Jun) | 2.5% | 2.9% | 2.7% |
+| 18 min | USD | Moderate | Continuing Jobless Claims |  | 1,960K | 1,953K |
+| 18 min | USD | High | Initial Jobless Claims |  | 226K | 224K |
+| 18 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 221.75K |
+| 18 min | USD | High | Philadelphia Fed Manufacturing Index (Aug) |  | 6.8 | 15.9 |
+| 18 min | USD | Low | Philly Fed Business Conditions (Aug) |  |  | 21.5 |
+| 18 min | USD | Low | Philly Fed CAPEX Index (Aug) |  |  | 17.10 |
+| 18 min | USD | Moderate | Philly Fed Employment (Aug) |  |  | 10.3 |
+| 18 min | USD | Low | Philly Fed New Orders (Aug) |  |  | 18.4 |
+| 18 min | USD | Low | Philly Fed Prices Paid (Aug) |  |  | 58.80 |
+| 18 min | CAD | Low | IPPI (MoM) (Jul) |  | 0.3% | 0.4% |
+| 18 min | CAD | Low | IPPI (YoY) (Jul) |  |  | 1.7% |
+| 18 min | CAD | Moderate | RMPI (MoM) (Jul) |  | -0.5% | 2.7% |
+| 18 min | CAD | Low | RMPI (YoY) (Jul) |  |  | 1.1% |
 | 14:45 | USD | High | S&P Global Manufacturing PMI (Aug) |  | 49.7 | 49.8 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Aug) |  |  | 55.1 |
 | 14:45 | USD | High | S&P Global Services PMI (Aug) |  | 54.2 | 55.7 |
