@@ -7,10 +7,10 @@
 | 00:00 | AUD | Judo Bank Services PMI (Aug) | 55.1 |  | 54.1 |
 | 00:50 | JPY | Foreign Bonds Buying | -313.6B |  | 254.7B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 1,161.7B |  | 495.5B |
-| 01:30 | JPY | Manufacturing & Services PMI (MoM) (Aug) |  |  | 51.60% |
-| 01:30 | JPY | au Jibun Bank Manufacturing PMI (Aug) |  | 49.2 | 48.9 |
-| 02:00 | AUD | MI Inflation Expectations |  |  | 4.7% |
-| 02:30 | AUD | Reserve Assets Total (Jul) |  |  | 102.5B |
+| 01:30 | JPY | Manufacturing & Services PMI (MoM) (Aug) | 51.90% |  | 51.60% |
+| 01:30 | JPY | au Jibun Bank Manufacturing PMI (Aug) | 49.9 | 49.2 | 48.9 |
+| 02:00 | AUD | MI Inflation Expectations | 3.9% |  | 4.7% |
+| 02:30 | AUD | Reserve Assets Total (Jul) | 104.3B |  | 102.5B |
 | 04:00 | NZD | Credit Card Spending (YoY) (Jul) |  |  | 0.9% |
 | 04:00 | IDR | Balance of Payments (EUR) (Q2) |  |  | -0.8B |
 | 04:00 | IDR | Current Account % of GDP (Q2) |  |  | -0.10% |
@@ -30,8 +30,8 @@
 | 10:00 | EUR | Construction Output (MoM) (Jun) |  |  | -1.68% |
 | 11:00 | GBP | CBI Industrial Trends Orders (Aug) |  | -28 | -30 |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 13:00 | MXN | Retail Sales (YoY) (Jun) |  | 2.9% | 2.7% |
 | 13:00 | MXN | Retail Sales (MoM) (Jun) |  | 0.0% | 1.8% |
+| 13:00 | MXN | Retail Sales (YoY) (Jun) |  | 2.9% | 2.7% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 221.75K |
 | 13:30 | USD | Philly Fed Business Conditions (Aug) |  |  | 21.5 |
 | 13:30 | USD | Philly Fed CAPEX Index (Aug) |  |  | 17.10 |
