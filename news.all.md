@@ -13,9 +13,9 @@
 | 01:30 | JPY | Moderate | au Jibun Bank Services PMI (Aug) | 52.7 |  | 53.6 |
 | 02:00 | AUD | Low | MI Inflation Expectations | 3.9% |  | 4.7% |
 | 02:30 | AUD | Low | Reserve Assets Total (Jul) | 104.3B |  | 102.5B |
-| 04:00 | NZD | Low | Credit Card Spending (YoY) (Jul) |  |  | 0.9% |
-| 04:00 | IDR | Low | Balance of Payments (EUR) (Q2) |  |  | -0.8B |
-| 04:00 | IDR | Low | Current Account % of GDP (Q2) |  |  | -0.10% |
+| 24 min | NZD | Low | Credit Card Spending (YoY) (Jul) |  |  | 0.9% |
+| 24 min | IDR | Low | Balance of Payments (EUR) (Q2) |  |  | -0.8B |
+| 24 min | IDR | Low | Current Account % of GDP (Q2) |  |  | -0.10% |
 | 06:00 | INR | Low | S&P Global Manufacturing PMI (Aug) |  |  | 59.1 |
 | 06:00 | INR | Low | S&P Global Services PMI (Aug) |  |  | 60.5 |
 | 06:00 | INR | Low | Manufacturing & Services PMI (MoM) (Aug) |  |  | 61.10% |
