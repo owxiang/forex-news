@@ -37,11 +37,11 @@
 | 13:30 | USD | Philly Fed CAPEX Index (Aug) | 38.40 |  | 17.10 |
 | 13:30 | USD | Philly Fed New Orders (Aug) | -1.9 |  | 18.4 |
 | 13:30 | USD | Philly Fed Prices Paid (Aug) | 66.80 |  | 58.80 |
-| 13:30 | CAD | IPPI (MoM) (Jul) | 0.7% | 0.3% | 0.5% |
 | 13:30 | CAD | IPPI (YoY) (Jul) | 2.6% |  | 1.9% |
+| 13:30 | CAD | IPPI (MoM) (Jul) | 0.7% | 0.3% | 0.5% |
 | 13:30 | CAD | RMPI (YoY) (Jul) | 0.8% |  | 1.1% |
-| 15:00 | EUR | Consumer Confidence (Aug) |  | -15.0 | -14.7 |
-| 15:30 | USD | Natural Gas Storage |  |  | 56B |
+| 15:00 | EUR | Consumer Confidence (Aug) | -15.5 | -15.0 | -14.7 |
+| 23 min | USD | Natural Gas Storage |  |  | 56B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.280% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 4.185% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.328T |
