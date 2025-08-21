@@ -34,14 +34,14 @@
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Aug) | 50.5 | 49.5 | 49.8 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Aug) | 51.1 | 50.7 | 50.9 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Aug) | 50.7 | 50.8 | 51.0 |
-| 09:30 | GBP | Moderate | S&P Global Composite PMI (Aug) |  | 51.6 | 51.5 |
-| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Aug) |  | 48.2 | 48.0 |
-| 09:30 | GBP | Moderate | S&P Global Services PMI (Aug) |  | 51.8 | 51.8 |
-| 09:30 | HKD | Low | CPI (MoM) (Jul) |  |  | 0.00% |
-| 09:30 | HKD | Low | CPI (YoY) (Jul) |  | 0.80% | 1.40% |
-| 10:00 | EUR | Low | Construction Output (MoM) (Jun) |  |  | -1.68% |
-| 11:00 | GBP | Low | CBI Industrial Trends Orders (Aug) |  | -28 | -30 |
-| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 09:30 | GBP | Moderate | S&P Global Composite PMI (Aug) | 53.0 | 51.6 | 51.5 |
+| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Aug) | 47.3 | 48.2 | 48.0 |
+| 09:30 | GBP | Moderate | S&P Global Services PMI (Aug) | 53.6 | 51.8 | 51.8 |
+| 09:30 | HKD | Low | CPI (MoM) (Jul) | 0.60% |  | 0.00% |
+| 09:30 | HKD | Low | CPI (YoY) (Jul) | 1.00% | 0.80% | 1.40% |
+| 10:00 | EUR | Low | Construction Output (MoM) (Jun) | -0.76% |  | -2.14% |
+| 52 min | GBP | Low | CBI Industrial Trends Orders (Aug) |  | -28 | -30 |
+| 52 min | EUR | Low | German Buba Monthly Report |  |  |  |
 | 12:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 12:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
 | 13:00 | MXN | Low | Retail Sales (YoY) (Jun) |  | 2.9% | 2.7% |
@@ -55,15 +55,15 @@
 | 13:30 | USD | Moderate | Philly Fed Employment (Aug) |  |  | 10.3 |
 | 13:30 | USD | Low | Philly Fed New Orders (Aug) |  |  | 18.4 |
 | 13:30 | USD | Low | Philly Fed Prices Paid (Aug) |  |  | 58.80 |
-| 13:30 | CAD | Low | IPPI (YoY) (Jul) |  |  | 1.7% |
 | 13:30 | CAD | Low | IPPI (MoM) (Jul) |  | 0.3% | 0.4% |
-| 13:30 | CAD | Low | RMPI (YoY) (Jul) |  |  | 1.1% |
+| 13:30 | CAD | Low | IPPI (YoY) (Jul) |  |  | 1.7% |
 | 13:30 | CAD | Moderate | RMPI (MoM) (Jul) |  | -0.5% | 2.7% |
+| 13:30 | CAD | Low | RMPI (YoY) (Jul) |  |  | 1.1% |
 | 14:45 | USD | High | S&P Global Manufacturing PMI (Aug) |  | 49.7 | 49.8 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Aug) |  |  | 55.1 |
 | 14:45 | USD | High | S&P Global Services PMI (Aug) |  | 54.2 | 55.7 |
-| 15:00 | USD | High | Existing Home Sales (Jul) |  | 3.92M | 3.93M |
 | 15:00 | USD | Moderate | Existing Home Sales (MoM) (Jul) |  |  | -2.7% |
+| 15:00 | USD | High | Existing Home Sales (Jul) |  | 3.92M | 3.93M |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (Jul) |  | -0.1% | -0.3% |
 | 15:00 | EUR | Low | Consumer Confidence (Aug) |  | -15.0 | -14.7 |
 | 15:30 | USD | Low | Natural Gas Storage |  |  | 56B |

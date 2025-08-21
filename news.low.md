@@ -25,11 +25,11 @@
 | 08:00 | CHF | M3 Money Supply (Jul) | 1,193.4B |  | 1,184.3B |
 | 08:15 | EUR | HCOB France Composite PMI (Aug) | 49.8 | 48.5 | 48.6 |
 | 08:30 | EUR | HCOB Germany Composite PMI (Aug) | 50.9 | 50.2 | 50.6 |
-| 09:30 | HKD | CPI (MoM) (Jul) |  |  | 0.00% |
-| 09:30 | HKD | CPI (YoY) (Jul) |  | 0.80% | 1.40% |
-| 10:00 | EUR | Construction Output (MoM) (Jun) |  |  | -1.68% |
-| 11:00 | GBP | CBI Industrial Trends Orders (Aug) |  | -28 | -30 |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 09:30 | HKD | CPI (MoM) (Jul) | 0.60% |  | 0.00% |
+| 09:30 | HKD | CPI (YoY) (Jul) | 1.00% | 0.80% | 1.40% |
+| 10:00 | EUR | Construction Output (MoM) (Jun) | -0.76% |  | -2.14% |
+| 52 min | GBP | CBI Industrial Trends Orders (Aug) |  | -28 | -30 |
+| 52 min | EUR | German Buba Monthly Report |  |  |  |
 | 13:00 | MXN | Retail Sales (YoY) (Jun) |  | 2.9% | 2.7% |
 | 13:00 | MXN | Retail Sales (MoM) (Jun) |  | 0.0% | 1.8% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 221.75K |
@@ -37,8 +37,8 @@
 | 13:30 | USD | Philly Fed CAPEX Index (Aug) |  |  | 17.10 |
 | 13:30 | USD | Philly Fed New Orders (Aug) |  |  | 18.4 |
 | 13:30 | USD | Philly Fed Prices Paid (Aug) |  |  | 58.80 |
-| 13:30 | CAD | IPPI (YoY) (Jul) |  |  | 1.7% |
 | 13:30 | CAD | IPPI (MoM) (Jul) |  | 0.3% | 0.4% |
+| 13:30 | CAD | IPPI (YoY) (Jul) |  |  | 1.7% |
 | 13:30 | CAD | RMPI (YoY) (Jul) |  |  | 1.1% |
 | 15:00 | EUR | Consumer Confidence (Aug) |  | -15.0 | -14.7 |
 | 15:30 | USD | Natural Gas Storage |  |  | 56B |

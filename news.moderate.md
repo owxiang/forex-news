@@ -11,9 +11,9 @@
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Aug) | 50.5 | 49.5 | 49.8 |
 | 09:00 | EUR | HCOB Eurozone Composite PMI (Aug) | 51.1 | 50.7 | 50.9 |
 | 09:00 | EUR | HCOB Eurozone Services PMI (Aug) | 50.7 | 50.8 | 51.0 |
-| 09:30 | GBP | S&P Global Composite PMI (Aug) |  | 51.6 | 51.5 |
-| 09:30 | GBP | S&P Global Manufacturing PMI (Aug) |  | 48.2 | 48.0 |
-| 09:30 | GBP | S&P Global Services PMI (Aug) |  | 51.8 | 51.8 |
+| 09:30 | GBP | S&P Global Composite PMI (Aug) | 53.0 | 51.6 | 51.5 |
+| 09:30 | GBP | S&P Global Manufacturing PMI (Aug) | 47.3 | 48.2 | 48.0 |
+| 09:30 | GBP | S&P Global Services PMI (Aug) | 53.6 | 51.8 | 51.8 |
 | 12:30 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 12:30 | INR | RBI MPC Meeting Minutes |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,960K | 1,953K |
