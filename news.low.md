@@ -13,8 +13,8 @@
 | 12:30 | INR | FX Reserves, USD | 695.11B |  | 693.62B |
 | 13:00 | MXN | 1st Half-Month Core CPI (Aug) | 0.09% | 0.14% | 0.15% |
 | 13:00 | MXN | 1st Half-Month CPI (Aug) | -0.02% | 0.12% | 0.15% |
-| 13:00 | MXN | Economic Activity (YoY) (Jun) | 1.30% | 1.50% | 0.00% |
 | 13:00 | MXN | Economic Activity (MoM) (Jun) | 0.20% | 0.30% | 0.10% |
+| 13:00 | MXN | Economic Activity (YoY) (Jun) | 1.30% | 1.50% | 0.00% |
 | 14:00 | USD | Fed Collins Speaks |  |  |  |
 | 15:30 | CAD | BoC Senior Loan Officer Survey (Q2) | 0.7 |  | 1.5 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.1K |
