@@ -5,8 +5,8 @@
 | 00:01 | GBP | Low | GfK Consumer Confidence (Aug) | -17 | -19 | -19 |
 | 00:30 | JPY | Low | CPI, n.s.a (MoM) (Jul) | 0.2% |  | -0.1% |
 | 00:30 | JPY | Moderate | National Core CPI (YoY) (Jul) | 3.1% | 3.0% | 3.3% |
-| 00:30 | JPY | Moderate | National CPI (MoM) (Jul) | 0.1% |  | 0.1% |
 | 00:30 | JPY | Low | National CPI (YoY) (Jul) | 3.1% |  | 3.3% |
+| 00:30 | JPY | Moderate | National CPI (MoM) (Jul) | 0.1% |  | 0.1% |
 | 01:00 | USD | Moderate | Jackson Hole Symposium |  |  |  |
 | 05:00 | IDR | Low | M2 Money Supply (YoY) (Jul) | 6.50% |  | 6.40% |
 | 07:00 | EUR | Moderate | German GDP (YoY) (Q2) | 0.2% | 0.4% | 0.3% |
