@@ -5,8 +5,8 @@
 | 00:01 | GBP | Low | GfK Consumer Confidence (Aug) | -17 | -19 | -19 |
 | 00:30 | JPY | Low | CPI, n.s.a (MoM) (Jul) | 0.2% |  | -0.1% |
 | 00:30 | JPY | Moderate | National Core CPI (YoY) (Jul) | 3.1% | 3.0% | 3.3% |
-| 00:30 | JPY | Low | National CPI (YoY) (Jul) | 3.1% |  | 3.3% |
 | 00:30 | JPY | Moderate | National CPI (MoM) (Jul) | 0.1% |  | 0.1% |
+| 00:30 | JPY | Low | National CPI (YoY) (Jul) | 3.1% |  | 3.3% |
 | 01:00 | USD | Moderate | Jackson Hole Symposium |  |  |  |
 | 05:00 | IDR | Low | M2 Money Supply (YoY) (Jul) | 6.50% |  | 6.40% |
 | 07:00 | EUR | High | German GDP (QoQ) (Q2) | -0.3% | -0.1% | 0.3% |
@@ -26,8 +26,8 @@
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Jun) | 1.5% | 1.6% | -1.2% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Jun) | 1.5% |  | -1.2% |
 | 14:00 | USD | Low | Fed Collins Speaks |  |  |  |
-| 46 min | USD | High | Fed Chair Powell Speaks |  |  |  |
-| 15:30 | CAD | Low | BoC Senior Loan Officer Survey (Q2) |  |  | 1.5 |
+| 15:00 | USD | High | Fed Chair Powell Speaks |  |  |  |
+| 24 min | CAD | Low | BoC Senior Loan Officer Survey (Q2) |  |  | 1.5 |
 | 17:00 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 412 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 539 |

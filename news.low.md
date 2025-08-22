@@ -16,7 +16,7 @@
 | 13:00 | MXN | Economic Activity (MoM) (Jun) | 0.20% | 0.30% | 0.10% |
 | 13:00 | MXN | Economic Activity (YoY) (Jun) | 1.30% | 1.50% | 0.00% |
 | 14:00 | USD | Fed Collins Speaks |  |  |  |
-| 15:30 | CAD | BoC Senior Loan Officer Survey (Q2) |  |  | 1.5 |
+| 24 min | CAD | BoC Senior Loan Officer Survey (Q2) |  |  | 1.5 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.1K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 28.2K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -133.2K |
