@@ -5,13 +5,7 @@
 | 00:30 | JPY | National Core CPI (YoY) (Jul) | 3.1% | 3.0% | 3.3% |
 | 00:30 | JPY | National CPI (MoM) (Jul) | 0.1% |  | 0.1% |
 | 01:00 | USD | Jackson Hole Symposium |  |  |  |
-| 06:00 | SGD | Core CPI (YoY) (Jul) |  |  | 0.60% |
-| 06:00 | SGD | CPI (YoY) (Jul) |  |  | 0.8% |
-| 53 min | GBP | Core Retail Sales (YoY) (Jul) |  |  | 1.8% |
-| 53 min | GBP | Core Retail Sales (MoM) (Jul) |  |  | 0.6% |
-| 53 min | GBP | Retail Sales (MoM) (Jul) |  | 0.4% | 0.9% |
-| 53 min | GBP | Retail Sales (YoY) (Jul) |  |  | 1.7% |
-| 53 min | EUR | German GDP (YoY) (Q2) |  | 0.4% | 0.3% |
+| 07:00 | EUR | German GDP (YoY) (Q2) | 0.2% | 0.4% | 0.3% |
 | 13:00 | MXN | GDP (QoQ) (Q2) |  | 0.7% | 0.2% |
 | 13:00 | MXN | GDP (YoY) (Q2) |  | 0.1% | 0.8% |
 | 13:30 | CAD | Core Retail Sales (MoM) (Jun) |  | 0.9% | -0.2% |

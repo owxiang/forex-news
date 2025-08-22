@@ -6,10 +6,7 @@
 | 00:30 | JPY | CPI, n.s.a (MoM) (Jul) | 0.2% |  | -0.1% |
 | 00:30 | JPY | National CPI (YoY) (Jul) | 3.1% |  | 3.3% |
 | 05:00 | IDR | M2 Money Supply (YoY) (Jul) | 6.50% |  | 6.50% |
-| 06:00 | SGD | CPI (MoM) (Jul) |  |  | -0.10% |
-| 53 min | NOK | GDP (QoQ) (Q2) |  |  | -0.1% |
-| 53 min | NOK | GDP Mainland (QoQ) (Q2) |  |  | 1.0% |
-| 07:45 | EUR | French Business Survey (Aug) |  | 96 | 96 |
+| 35 min | EUR | French Business Survey (Aug) |  | 96 | 96 |
 | 11:00 | CNY | FDI (Jul) |  |  | -15.20% |
 | 12:30 | INR | FX Reserves, USD |  |  | 693.62B |
 | 13:00 | MXN | 1st Half-Month Core CPI (Aug) |  | 0.14% | 0.15% |
