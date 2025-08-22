@@ -5,16 +5,18 @@
 | 00:01 | GBP | GfK Consumer Confidence (Aug) | -17 | -19 | -19 |
 | 00:30 | JPY | CPI, n.s.a (MoM) (Jul) | 0.2% |  | -0.1% |
 | 00:30 | JPY | National CPI (YoY) (Jul) | 3.1% |  | 3.3% |
-| 05:00 | IDR | M2 Money Supply (YoY) (Jul) | 6.50% |  | 6.50% |
+| 05:00 | IDR | M2 Money Supply (YoY) (Jul) | 6.50% |  | 6.40% |
 | 07:45 | EUR | French Business Survey (Aug) | 96 | 96 | 96 |
 | 10:00 | CNY | FDI (Jul) | -13.40% |  | -15.20% |
-| 25 min | INR | FX Reserves, USD |  |  | 693.62B |
-| 55 min | MXN | 1st Half-Month Core CPI (Aug) |  | 0.14% | 0.15% |
-| 55 min | MXN | 1st Half-Month CPI (Aug) |  | 0.12% | 0.15% |
-| 55 min | MXN | Economic Activity (YoY) (Jun) |  | 1.50% | -0.20% |
-| 55 min | MXN | Economic Activity (MoM) (Jun) |  | 0.30% | 0.00% |
-| 13:30 | CAD | Manufacturing Sales (MoM) (Jul) |  |  | 0.3% |
-| 14:00 | USD | Fed Collins Speaks |  |  |  |
+| 12:30 | INR | Bank Loan Growth | 10.2% |  | 10.0% |
+| 12:30 | INR | Deposit Growth | 10.1% |  | 10.2% |
+| 12:30 | INR | FX Reserves, USD | 695.11B |  | 693.62B |
+| 13:00 | MXN | 1st Half-Month Core CPI (Aug) | 0.09% | 0.14% | 0.15% |
+| 13:00 | MXN | 1st Half-Month CPI (Aug) | -0.02% | 0.12% | 0.15% |
+| 13:00 | MXN | Economic Activity (MoM) (Jun) | 0.20% | 0.30% | 0.10% |
+| 13:00 | MXN | Economic Activity (YoY) (Jun) | 1.30% | 1.50% | 0.00% |
+| 19 min | CAD | Manufacturing Sales (MoM) (Jul) |  |  | 0.3% |
+| 49 min | USD | Fed Collins Speaks |  |  |  |
 | 15:30 | CAD | BoC Senior Loan Officer Survey (Q2) |  |  | 1.5 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.1K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 28.2K |

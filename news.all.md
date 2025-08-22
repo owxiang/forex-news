@@ -5,26 +5,28 @@
 | 00:01 | GBP | Low | GfK Consumer Confidence (Aug) | -17 | -19 | -19 |
 | 00:30 | JPY | Low | CPI, n.s.a (MoM) (Jul) | 0.2% |  | -0.1% |
 | 00:30 | JPY | Moderate | National Core CPI (YoY) (Jul) | 3.1% | 3.0% | 3.3% |
-| 00:30 | JPY | Low | National CPI (YoY) (Jul) | 3.1% |  | 3.3% |
 | 00:30 | JPY | Moderate | National CPI (MoM) (Jul) | 0.1% |  | 0.1% |
+| 00:30 | JPY | Low | National CPI (YoY) (Jul) | 3.1% |  | 3.3% |
 | 01:00 | USD | Moderate | Jackson Hole Symposium |  |  |  |
-| 05:00 | IDR | Low | M2 Money Supply (YoY) (Jul) | 6.50% |  | 6.50% |
-| 07:00 | EUR | High | German GDP (QoQ) (Q2) | -0.3% | -0.1% | 0.3% |
+| 05:00 | IDR | Low | M2 Money Supply (YoY) (Jul) | 6.50% |  | 6.40% |
 | 07:00 | EUR | Moderate | German GDP (YoY) (Q2) | 0.2% | 0.4% | 0.3% |
+| 07:00 | EUR | High | German GDP (QoQ) (Q2) | -0.3% | -0.1% | 0.3% |
 | 07:45 | EUR | Low | French Business Survey (Aug) | 96 | 96 | 96 |
 | 10:00 | CNY | Low | FDI (Jul) | -13.40% |  | -15.20% |
-| 25 min | INR | Low | FX Reserves, USD |  |  | 693.62B |
-| 55 min | MXN | Low | 1st Half-Month Core CPI (Aug) |  | 0.14% | 0.15% |
-| 55 min | MXN | Low | 1st Half-Month CPI (Aug) |  | 0.12% | 0.15% |
-| 55 min | MXN | Low | Economic Activity (YoY) (Jun) |  | 1.50% | -0.20% |
-| 55 min | MXN | Low | Economic Activity (MoM) (Jun) |  | 0.30% | 0.00% |
-| 55 min | MXN | Moderate | GDP (QoQ) (Q2) |  | 0.7% | 0.2% |
-| 55 min | MXN | Moderate | GDP (YoY) (Q2) |  | 0.1% | 0.8% |
-| 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Jun) |  | 0.9% | -0.2% |
-| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Jul) |  |  | 0.3% |
-| 13:30 | CAD | Moderate | Retail Sales (MoM) (Jun) |  | 1.6% | -1.1% |
-| 13:31 | CAD | Moderate | Retail Sales (MoM) (Jul) |  |  |  |
-| 14:00 | USD | Low | Fed Collins Speaks |  |  |  |
+| 12:30 | INR | Low | Bank Loan Growth | 10.2% |  | 10.0% |
+| 12:30 | INR | Low | Deposit Growth | 10.1% |  | 10.2% |
+| 12:30 | INR | Low | FX Reserves, USD | 695.11B |  | 693.62B |
+| 13:00 | MXN | Low | 1st Half-Month Core CPI (Aug) | 0.09% | 0.14% | 0.15% |
+| 13:00 | MXN | Low | 1st Half-Month CPI (Aug) | -0.02% | 0.12% | 0.15% |
+| 13:00 | MXN | Low | Economic Activity (MoM) (Jun) | 0.20% | 0.30% | 0.10% |
+| 13:00 | MXN | Low | Economic Activity (YoY) (Jun) | 1.30% | 1.50% | 0.00% |
+| 13:00 | MXN | Moderate | GDP (YoY) (Q2) | 0.0% | 0.1% | 0.8% |
+| 13:00 | MXN | Moderate | GDP (QoQ) (Q2) | 0.6% | 0.7% | 0.2% |
+| 19 min | CAD | Moderate | Core Retail Sales (MoM) (Jun) |  | 0.9% | -0.2% |
+| 19 min | CAD | Low | Manufacturing Sales (MoM) (Jul) |  |  | 0.3% |
+| 19 min | CAD | Moderate | Retail Sales (MoM) (Jun) |  | 1.6% | -1.1% |
+| 20 min | CAD | Moderate | Retail Sales (MoM) (Jul) |  |  |  |
+| 49 min | USD | Low | Fed Collins Speaks |  |  |  |
 | 15:00 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 15:30 | CAD | Low | BoC Senior Loan Officer Survey (Q2) |  |  | 1.5 |
 | 17:00 | USD | High | U.S. President Trump Speaks |  |  |  |
