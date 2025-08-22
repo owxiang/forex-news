@@ -15,8 +15,7 @@
 | 13:00 | MXN | 1st Half-Month CPI (Aug) | -0.02% | 0.12% | 0.15% |
 | 13:00 | MXN | Economic Activity (MoM) (Jun) | 0.20% | 0.30% | 0.10% |
 | 13:00 | MXN | Economic Activity (YoY) (Jun) | 1.30% | 1.50% | 0.00% |
-| 19 min | CAD | Manufacturing Sales (MoM) (Jul) |  |  | 0.3% |
-| 49 min | USD | Fed Collins Speaks |  |  |  |
+| 14:00 | USD | Fed Collins Speaks |  |  |  |
 | 15:30 | CAD | BoC Senior Loan Officer Survey (Q2) |  |  | 1.5 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.1K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 28.2K |
