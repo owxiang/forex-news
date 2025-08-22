@@ -6,10 +6,9 @@
 | 00:30 | JPY | CPI, n.s.a (MoM) (Jul) | 0.2% |  | -0.1% |
 | 00:30 | JPY | National CPI (YoY) (Jul) | 3.1% |  | 3.3% |
 | 05:00 | IDR | M2 Money Supply (YoY) (Jul) | 6.50% |  | 6.50% |
-| 05:00 | IDR | Current Account % of GDP |  |  | -0.10% |
-| 23 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.328T |
-| 07:00 | NOK | GDP (QoQ) (Q2) |  |  | -0.1% |
-| 07:00 | NOK | GDP Mainland (QoQ) (Q2) |  |  | 1.0% |
+| 06:00 | SGD | CPI (MoM) (Jul) |  |  | -0.10% |
+| 53 min | NOK | GDP (QoQ) (Q2) |  |  | -0.1% |
+| 53 min | NOK | GDP Mainland (QoQ) (Q2) |  |  | 1.0% |
 | 07:45 | EUR | French Business Survey (Aug) |  | 96 | 96 |
 | 11:00 | CNY | FDI (Jul) |  |  | -15.20% |
 | 12:30 | INR | FX Reserves, USD |  |  | 693.62B |
@@ -18,6 +17,7 @@
 | 13:00 | MXN | Economic Activity (MoM) (Jun) |  | 0.30% | 0.00% |
 | 13:00 | MXN | Economic Activity (YoY) (Jun) |  | 1.50% | -0.20% |
 | 13:30 | CAD | Manufacturing Sales (MoM) (Jul) |  |  | 0.3% |
+| 14:00 | USD | Fed Collins Speaks |  |  |  |
 | 15:30 | CAD | BoC Senior Loan Officer Survey (Q2) |  |  | 1.5 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.1K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 28.2K |

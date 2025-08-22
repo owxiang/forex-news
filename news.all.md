@@ -5,20 +5,21 @@
 | 00:01 | GBP | Low | GfK Consumer Confidence (Aug) | -17 | -19 | -19 |
 | 00:30 | JPY | Low | CPI, n.s.a (MoM) (Jul) | 0.2% |  | -0.1% |
 | 00:30 | JPY | Moderate | National Core CPI (YoY) (Jul) | 3.1% | 3.0% | 3.3% |
-| 00:30 | JPY | Moderate | National CPI (MoM) (Jul) | 0.1% |  | 0.1% |
 | 00:30 | JPY | Low | National CPI (YoY) (Jul) | 3.1% |  | 3.3% |
+| 00:30 | JPY | Moderate | National CPI (MoM) (Jul) | 0.1% |  | 0.1% |
 | 01:00 | USD | Moderate | Jackson Hole Symposium |  |  |  |
 | 05:00 | IDR | Low | M2 Money Supply (YoY) (Jul) | 6.50% |  | 6.50% |
-| 05:00 | IDR | Low | Current Account % of GDP |  |  | -0.10% |
-| 23 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.328T |
-| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Jul) |  |  | 0.6% |
-| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Jul) |  |  | 1.8% |
-| 07:00 | GBP | Moderate | Retail Sales (YoY) (Jul) |  |  | 1.7% |
-| 07:00 | GBP | Moderate | Retail Sales (MoM) (Jul) |  | 0.4% | 0.9% |
-| 07:00 | EUR | Moderate | German GDP (YoY) (Q2) |  | 0.4% | 0.3% |
-| 07:00 | EUR | High | German GDP (QoQ) (Q2) |  | -0.1% | 0.3% |
-| 07:00 | NOK | Low | GDP (QoQ) (Q2) |  |  | -0.1% |
-| 07:00 | NOK | Low | GDP Mainland (QoQ) (Q2) |  |  | 1.0% |
+| 06:00 | SGD | Moderate | Core CPI (YoY) (Jul) |  |  | 0.60% |
+| 06:00 | SGD | Low | CPI (MoM) (Jul) |  |  | -0.10% |
+| 06:00 | SGD | Moderate | CPI (YoY) (Jul) |  |  | 0.8% |
+| 53 min | GBP | Moderate | Core Retail Sales (YoY) (Jul) |  |  | 1.8% |
+| 53 min | GBP | Moderate | Core Retail Sales (MoM) (Jul) |  |  | 0.6% |
+| 53 min | GBP | Moderate | Retail Sales (MoM) (Jul) |  | 0.4% | 0.9% |
+| 53 min | GBP | Moderate | Retail Sales (YoY) (Jul) |  |  | 1.7% |
+| 53 min | EUR | Moderate | German GDP (YoY) (Q2) |  | 0.4% | 0.3% |
+| 53 min | EUR | High | German GDP (QoQ) (Q2) |  | -0.1% | 0.3% |
+| 53 min | NOK | Low | GDP (QoQ) (Q2) |  |  | -0.1% |
+| 53 min | NOK | Low | GDP Mainland (QoQ) (Q2) |  |  | 1.0% |
 | 07:45 | EUR | Low | French Business Survey (Aug) |  | 96 | 96 |
 | 11:00 | CNY | Low | FDI (Jul) |  |  | -15.20% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 693.62B |
@@ -30,10 +31,12 @@
 | 13:00 | MXN | Moderate | GDP (YoY) (Q2) |  | 0.1% | 0.8% |
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Jun) |  | 0.9% | -0.2% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Jul) |  |  | 0.3% |
-| 13:30 | CAD | Moderate | Retail Sales (MoM) (Jun) |  | 1.3% | -1.1% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Jun) |  |  | -1.1% |
+| 13:30 | CAD | Moderate | Retail Sales (MoM) (Jun) |  | 1.3% | -1.1% |
+| 14:00 | USD | Low | Fed Collins Speaks |  |  |  |
 | 15:00 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 15:30 | CAD | Low | BoC Senior Loan Officer Survey (Q2) |  |  | 1.5 |
+| 17:00 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 412 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 539 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -33.3K |
