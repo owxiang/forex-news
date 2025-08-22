@@ -9,8 +9,8 @@
 | 00:30 | JPY | Moderate | National CPI (MoM) (Jul) | 0.1% |  | 0.1% |
 | 01:00 | USD | Moderate | Jackson Hole Symposium |  |  |  |
 | 05:00 | IDR | Low | M2 Money Supply (YoY) (Jul) | 6.50% |  | 6.40% |
-| 07:00 | EUR | High | German GDP (QoQ) (Q2) | -0.3% | -0.1% | 0.3% |
 | 07:00 | EUR | Moderate | German GDP (YoY) (Q2) | 0.2% | 0.4% | 0.3% |
+| 07:00 | EUR | High | German GDP (QoQ) (Q2) | -0.3% | -0.1% | 0.3% |
 | 07:45 | EUR | Low | French Business Survey (Aug) | 96 | 96 | 96 |
 | 10:00 | CNY | Low | FDI (Jul) | -13.40% |  | -15.20% |
 | 12:30 | INR | Low | Bank Loan Growth | 10.2% |  | 10.0% |
@@ -23,8 +23,8 @@
 | 13:00 | MXN | Moderate | GDP (QoQ) (Q2) | 0.6% | 0.7% | 0.2% |
 | 13:00 | MXN | Moderate | GDP (YoY) (Q2) | 0.0% | 0.1% | 0.8% |
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Jun) | 1.9% | 0.9% | -0.3% |
-| 13:30 | CAD | Moderate | Retail Sales (MoM) (Jun) | 1.5% | 1.6% | -1.2% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Jun) | 1.5% |  | -1.2% |
+| 13:30 | CAD | Moderate | Retail Sales (MoM) (Jun) | 1.5% | 1.6% | -1.2% |
 | 14:00 | USD | Low | Fed Collins Speaks |  |  |  |
 | 15:00 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 15:30 | CAD | Low | BoC Senior Loan Officer Survey (Q2) | 0.7 |  | 1.5 |

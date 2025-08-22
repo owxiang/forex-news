@@ -9,8 +9,8 @@
 | 13:00 | MXN | GDP (QoQ) (Q2) | 0.6% | 0.7% | 0.2% |
 | 13:00 | MXN | GDP (YoY) (Q2) | 0.0% | 0.1% | 0.8% |
 | 13:30 | CAD | Core Retail Sales (MoM) (Jun) | 1.9% | 0.9% | -0.3% |
-| 13:30 | CAD | Retail Sales (MoM) (Jun) | 1.5% | 1.6% | -1.2% |
 | 13:30 | CAD | Retail Sales (MoM) (Jun) | 1.5% |  | -1.2% |
+| 13:30 | CAD | Retail Sales (MoM) (Jun) | 1.5% | 1.6% | -1.2% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 411 |  | 412 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count | 538 |  | 539 |
 | 20:30 | GBP | CFTC GBP speculative net positions | -25.2K |  | -33.3K |
