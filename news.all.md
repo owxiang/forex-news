@@ -23,14 +23,14 @@
 | 13:00 | MXN | Moderate | GDP (QoQ) (Q2) | 0.6% | 0.7% | 0.2% |
 | 13:00 | MXN | Moderate | GDP (YoY) (Q2) | 0.0% | 0.1% | 0.8% |
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Jun) | 1.9% | 0.9% | -0.3% |
-| 13:30 | CAD | Moderate | Retail Sales (MoM) (Jun) | 1.5% | 1.6% | -1.2% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Jun) | 1.5% |  | -1.2% |
+| 13:30 | CAD | Moderate | Retail Sales (MoM) (Jun) | 1.5% | 1.6% | -1.2% |
 | 14:00 | USD | Low | Fed Collins Speaks |  |  |  |
 | 15:00 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 15:30 | CAD | Low | BoC Senior Loan Officer Survey (Q2) | 0.7 |  | 1.5 |
 | 17:00 | USD | High | U.S. President Trump Speaks |  |  |  |
-| 52 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 412 |
-| 52 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 539 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 411 |  | 412 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 538 |  | 539 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -33.3K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 1.1K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 28.2K |
