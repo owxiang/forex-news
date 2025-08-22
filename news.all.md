@@ -5,18 +5,18 @@
 | 00:01 | GBP | Low | GfK Consumer Confidence (Aug) | -17 | -19 | -19 |
 | 00:30 | JPY | Low | CPI, n.s.a (MoM) (Jul) | 0.2% |  | -0.1% |
 | 00:30 | JPY | Moderate | National Core CPI (YoY) (Jul) | 3.1% | 3.0% | 3.3% |
-| 00:30 | JPY | Low | National CPI (YoY) (Jul) | 3.1% |  | 3.3% |
 | 00:30 | JPY | Moderate | National CPI (MoM) (Jul) | 0.1% |  | 0.1% |
+| 00:30 | JPY | Low | National CPI (YoY) (Jul) | 3.1% |  | 3.3% |
 | 01:00 | USD | Moderate | Jackson Hole Symposium |  |  |  |
-| 37 min | IDR | Low | M2 Money Supply (YoY) (Jul) | 6.50% |  | 6.50% |
-| 37 min | IDR | Low | Current Account % of GDP |  |  | -0.10% |
-| 05:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.328T |
+| 05:00 | IDR | Low | M2 Money Supply (YoY) (Jul) | 6.50% |  | 6.50% |
+| 05:00 | IDR | Low | Current Account % of GDP |  |  | -0.10% |
+| 23 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.328T |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Jul) |  |  | 0.6% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Jul) |  |  | 1.8% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Jul) |  |  | 1.7% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Jul) |  | 0.4% | 0.9% |
-| 07:00 | EUR | High | German GDP (QoQ) (Q2) |  | -0.1% | 0.3% |
 | 07:00 | EUR | Moderate | German GDP (YoY) (Q2) |  | 0.4% | 0.3% |
+| 07:00 | EUR | High | German GDP (QoQ) (Q2) |  | -0.1% | 0.3% |
 | 07:00 | NOK | Low | GDP (QoQ) (Q2) |  |  | -0.1% |
 | 07:00 | NOK | Low | GDP Mainland (QoQ) (Q2) |  |  | 1.0% |
 | 07:45 | EUR | Low | French Business Survey (Aug) |  | 96 | 96 |
