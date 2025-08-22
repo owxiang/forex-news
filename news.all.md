@@ -13,13 +13,13 @@
 | 07:00 | EUR | Moderate | German GDP (YoY) (Q2) | 0.2% | 0.4% | 0.3% |
 | 07:45 | EUR | Low | French Business Survey (Aug) | 96 | 96 | 96 |
 | 10:00 | CNY | Low | FDI (Jul) | -13.40% |  | -15.20% |
-| 12:30 | INR | Low | FX Reserves, USD |  |  | 693.62B |
-| 13:00 | MXN | Low | 1st Half-Month Core CPI (Aug) |  | 0.14% | 0.15% |
-| 13:00 | MXN | Low | 1st Half-Month CPI (Aug) |  | 0.12% | 0.15% |
-| 13:00 | MXN | Low | Economic Activity (MoM) (Jun) |  | 0.30% | 0.00% |
-| 13:00 | MXN | Low | Economic Activity (YoY) (Jun) |  | 1.50% | -0.20% |
-| 13:00 | MXN | Moderate | GDP (QoQ) (Q2) |  | 0.7% | 0.2% |
-| 13:00 | MXN | Moderate | GDP (YoY) (Q2) |  | 0.1% | 0.8% |
+| 25 min | INR | Low | FX Reserves, USD |  |  | 693.62B |
+| 55 min | MXN | Low | 1st Half-Month Core CPI (Aug) |  | 0.14% | 0.15% |
+| 55 min | MXN | Low | 1st Half-Month CPI (Aug) |  | 0.12% | 0.15% |
+| 55 min | MXN | Low | Economic Activity (YoY) (Jun) |  | 1.50% | -0.20% |
+| 55 min | MXN | Low | Economic Activity (MoM) (Jun) |  | 0.30% | 0.00% |
+| 55 min | MXN | Moderate | GDP (QoQ) (Q2) |  | 0.7% | 0.2% |
+| 55 min | MXN | Moderate | GDP (YoY) (Q2) |  | 0.1% | 0.8% |
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Jun) |  | 0.9% | -0.2% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Jul) |  |  | 0.3% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Jun) |  | 1.6% | -1.1% |

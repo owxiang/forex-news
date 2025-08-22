@@ -6,8 +6,8 @@
 | 00:30 | JPY | National CPI (MoM) (Jul) | 0.1% |  | 0.1% |
 | 01:00 | USD | Jackson Hole Symposium |  |  |  |
 | 07:00 | EUR | German GDP (YoY) (Q2) | 0.2% | 0.4% | 0.3% |
-| 13:00 | MXN | GDP (QoQ) (Q2) |  | 0.7% | 0.2% |
-| 13:00 | MXN | GDP (YoY) (Q2) |  | 0.1% | 0.8% |
+| 55 min | MXN | GDP (QoQ) (Q2) |  | 0.7% | 0.2% |
+| 55 min | MXN | GDP (YoY) (Q2) |  | 0.1% | 0.8% |
 | 13:30 | CAD | Core Retail Sales (MoM) (Jun) |  | 0.9% | -0.2% |
 | 13:30 | CAD | Retail Sales (MoM) (Jun) |  | 1.6% | -1.1% |
 | 13:31 | CAD | Retail Sales (MoM) (Jul) |  |  |  |

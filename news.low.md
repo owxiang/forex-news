@@ -8,11 +8,11 @@
 | 05:00 | IDR | M2 Money Supply (YoY) (Jul) | 6.50% |  | 6.50% |
 | 07:45 | EUR | French Business Survey (Aug) | 96 | 96 | 96 |
 | 10:00 | CNY | FDI (Jul) | -13.40% |  | -15.20% |
-| 12:30 | INR | FX Reserves, USD |  |  | 693.62B |
-| 13:00 | MXN | 1st Half-Month Core CPI (Aug) |  | 0.14% | 0.15% |
-| 13:00 | MXN | 1st Half-Month CPI (Aug) |  | 0.12% | 0.15% |
-| 13:00 | MXN | Economic Activity (MoM) (Jun) |  | 0.30% | 0.00% |
-| 13:00 | MXN | Economic Activity (YoY) (Jun) |  | 1.50% | -0.20% |
+| 25 min | INR | FX Reserves, USD |  |  | 693.62B |
+| 55 min | MXN | 1st Half-Month Core CPI (Aug) |  | 0.14% | 0.15% |
+| 55 min | MXN | 1st Half-Month CPI (Aug) |  | 0.12% | 0.15% |
+| 55 min | MXN | Economic Activity (YoY) (Jun) |  | 1.50% | -0.20% |
+| 55 min | MXN | Economic Activity (MoM) (Jun) |  | 0.30% | 0.00% |
 | 13:30 | CAD | Manufacturing Sales (MoM) (Jul) |  |  | 0.3% |
 | 14:00 | USD | Fed Collins Speaks |  |  |  |
 | 15:30 | CAD | BoC Senior Loan Officer Survey (Q2) |  |  | 1.5 |
