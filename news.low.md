@@ -7,7 +7,7 @@
 | 00:30 | JPY | National CPI (YoY) (Jul) | 3.1% |  | 3.3% |
 | 05:00 | IDR | M2 Money Supply (YoY) (Jul) | 6.50% |  | 6.50% |
 | 07:45 | EUR | French Business Survey (Aug) | 96 | 96 | 96 |
-| 11:00 | CNY | FDI (Jul) |  |  | -15.20% |
+| 10:00 | CNY | FDI (Jul) | -13.40% |  | -15.20% |
 | 12:30 | INR | FX Reserves, USD |  |  | 693.62B |
 | 13:00 | MXN | 1st Half-Month Core CPI (Aug) |  | 0.14% | 0.15% |
 | 13:00 | MXN | 1st Half-Month CPI (Aug) |  | 0.12% | 0.15% |
