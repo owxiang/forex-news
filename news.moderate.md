@@ -2,19 +2,19 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 24 min | JPY | National Core CPI (YoY) (Jul) |  | 3.0% | 3.3% |
-| 24 min | JPY | National CPI (MoM) (Jul) |  |  | 0.1% |
-| 54 min | USD | Jackson Hole Symposium |  |  |  |
-| 07:00 | GBP | Core Retail Sales (YoY) (Jul) |  |  | 1.8% |
+| 00:30 | JPY | National Core CPI (YoY) (Jul) | 3.1% | 3.0% | 3.3% |
+| 00:30 | JPY | National CPI (MoM) (Jul) | 0.1% |  | 0.1% |
+| 01:00 | USD | Jackson Hole Symposium |  |  |  |
 | 07:00 | GBP | Core Retail Sales (MoM) (Jul) |  |  | 0.6% |
+| 07:00 | GBP | Core Retail Sales (YoY) (Jul) |  |  | 1.8% |
 | 07:00 | GBP | Retail Sales (YoY) (Jul) |  |  | 1.7% |
 | 07:00 | GBP | Retail Sales (MoM) (Jul) |  | 0.4% | 0.9% |
 | 07:00 | EUR | German GDP (YoY) (Q2) |  | 0.4% | 0.3% |
-| 13:00 | MXN | GDP (QoQ) (Q2) |  | 0.7% | 0.2% |
 | 13:00 | MXN | GDP (YoY) (Q2) |  | 0.1% | 0.8% |
+| 13:00 | MXN | GDP (QoQ) (Q2) |  | 0.7% | 0.2% |
 | 13:30 | CAD | Core Retail Sales (MoM) (Jun) |  | 0.9% | -0.2% |
-| 13:30 | CAD | Retail Sales (MoM) (Jun) |  | 1.3% | -1.1% |
 | 13:30 | CAD | Retail Sales (MoM) (Jun) |  |  | -1.1% |
+| 13:30 | CAD | Retail Sales (MoM) (Jun) |  | 1.3% | -1.1% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 412 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 539 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -33.3K |

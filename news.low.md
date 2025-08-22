@@ -3,10 +3,11 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | GfK Consumer Confidence (Aug) | -17 | -19 | -19 |
-| 24 min | JPY | CPI, n.s.a (MoM) (Jul) |  |  | -0.1% |
-| 24 min | JPY | National CPI (YoY) (Jul) |  |  | 3.3% |
+| 00:30 | JPY | CPI, n.s.a (MoM) (Jul) | 0.2% |  | -0.1% |
+| 00:30 | JPY | National CPI (YoY) (Jul) | 3.1% |  | 3.3% |
 | 04:00 | IDR | Current Account % of GDP |  |  | -0.10% |
 | 05:00 | IDR | M2 Money Supply (YoY) (Jul) |  |  | 6.50% |
+| 05:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.328T |
 | 07:00 | NOK | GDP (QoQ) (Q2) |  |  | -0.1% |
 | 07:00 | NOK | GDP Mainland (QoQ) (Q2) |  |  | 1.0% |
 | 07:45 | EUR | French Business Survey (Aug) |  | 96 | 96 |
