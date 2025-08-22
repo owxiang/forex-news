@@ -8,11 +8,11 @@
 | 00:30 | JPY | Moderate | National CPI (MoM) (Jul) | 0.1% |  | 0.1% |
 | 00:30 | JPY | Low | National CPI (YoY) (Jul) | 3.1% |  | 3.3% |
 | 01:00 | USD | Moderate | Jackson Hole Symposium |  |  |  |
-| 04:00 | IDR | Low | Current Account % of GDP |  |  | -0.10% |
+| 24 min | IDR | Low | Current Account % of GDP |  |  | -0.10% |
 | 05:00 | IDR | Low | M2 Money Supply (YoY) (Jul) |  |  | 6.50% |
 | 05:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.328T |
-| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Jul) |  |  | 1.8% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Jul) |  |  | 0.6% |
+| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Jul) |  |  | 1.8% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Jul) |  |  | 1.7% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Jul) |  | 0.4% | 0.9% |
 | 07:00 | EUR | Moderate | German GDP (YoY) (Q2) |  | 0.4% | 0.3% |
@@ -24,8 +24,8 @@
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 693.62B |
 | 13:00 | MXN | Low | 1st Half-Month Core CPI (Aug) |  | 0.14% | 0.15% |
 | 13:00 | MXN | Low | 1st Half-Month CPI (Aug) |  | 0.12% | 0.15% |
-| 13:00 | MXN | Low | Economic Activity (MoM) (Jun) |  | 0.30% | 0.00% |
 | 13:00 | MXN | Low | Economic Activity (YoY) (Jun) |  | 1.50% | -0.20% |
+| 13:00 | MXN | Low | Economic Activity (MoM) (Jun) |  | 0.30% | 0.00% |
 | 13:00 | MXN | Moderate | GDP (QoQ) (Q2) |  | 0.7% | 0.2% |
 | 13:00 | MXN | Moderate | GDP (YoY) (Q2) |  | 0.1% | 0.8% |
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Jun) |  | 0.9% | -0.2% |

@@ -5,7 +5,7 @@
 | 00:01 | GBP | GfK Consumer Confidence (Aug) | -17 | -19 | -19 |
 | 00:30 | JPY | CPI, n.s.a (MoM) (Jul) | 0.2% |  | -0.1% |
 | 00:30 | JPY | National CPI (YoY) (Jul) | 3.1% |  | 3.3% |
-| 04:00 | IDR | Current Account % of GDP |  |  | -0.10% |
+| 24 min | IDR | Current Account % of GDP |  |  | -0.10% |
 | 05:00 | IDR | M2 Money Supply (YoY) (Jul) |  |  | 6.50% |
 | 05:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.328T |
 | 07:00 | NOK | GDP (QoQ) (Q2) |  |  | -0.1% |
@@ -15,8 +15,8 @@
 | 12:30 | INR | FX Reserves, USD |  |  | 693.62B |
 | 13:00 | MXN | 1st Half-Month Core CPI (Aug) |  | 0.14% | 0.15% |
 | 13:00 | MXN | 1st Half-Month CPI (Aug) |  | 0.12% | 0.15% |
-| 13:00 | MXN | Economic Activity (MoM) (Jun) |  | 0.30% | 0.00% |
 | 13:00 | MXN | Economic Activity (YoY) (Jun) |  | 1.50% | -0.20% |
+| 13:00 | MXN | Economic Activity (MoM) (Jun) |  | 0.30% | 0.00% |
 | 13:30 | CAD | Manufacturing Sales (MoM) (Jul) |  |  | 0.3% |
 | 15:30 | CAD | BoC Senior Loan Officer Survey (Q2) |  |  | 1.5 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.1K |
