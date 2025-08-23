@@ -1,8 +1,7 @@
-## 23 August 2025 - All Forex News
+## 24 August 2025 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 01:00 | USD | Moderate | Jackson Hole Symposium |  |  |  |
-| 17:25 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 17:25 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
-| 17:25 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 23:45 | NZD | Moderate | Core Retail Sales (QoQ) |  | -0.3% | 0.4% |
+| 23:45 | NZD | Moderate | Retail Sales (QoQ) (Q2) |  | 0.1% | 0.8% |
+| 23:45 | NZD | Low | Retail Sales Quarterly Vs. Year Ago (Q2) |  |  | 0.7% |
