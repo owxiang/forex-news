@@ -1,3 +1,5 @@
 ## 23 August 2025 - Low Impact Forex News
 
-There is no low impact news today.
+| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 17:25 | JPY | BOJ Gov Ueda Speaks |  |  |  |
