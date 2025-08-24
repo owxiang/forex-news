@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 23:45 | NZD | Retail Sales Quarterly Vs. Year Ago (Q2) |  |  | 0.7% |
+| 39 min | NZD | Retail Sales Quarterly Vs. Year Ago (Q2) |  |  | 0.7% |
