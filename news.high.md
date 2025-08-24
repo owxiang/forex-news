@@ -1,3 +1,5 @@
-## 24 August 2025 - High Impact Forex News
+## 25 August 2025 - High Impact Forex News
 
-There is no high impact news today.
+| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 15:00 | USD | New Home Sales (Jul) |  | 635K | 627K |
