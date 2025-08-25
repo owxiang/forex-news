@@ -9,5 +9,5 @@
 | 09:00 | EUR | German Current Assessment (Aug) | 86.4 | 86.7 | 86.5 |
 | 09:00 | EUR | German Ifo Business Climate Index (Aug) | 89.0 | 88.7 | 88.6 |
 | 13:00 | USD | Building Permits (Jul) | 1.362M | 1.354M | 1.393M |
-| 15 min | EUR | German Buba Balz Speaks |  |  |  |
-| 45 min | USD | New Home Sales (MoM) (Jul) |  |  | 0.6% |
+| 14:30 | EUR | German Buba Balz Speaks |  |  |  |
+| 15:00 | USD | New Home Sales (MoM) (Jul) | -0.6% |  | 4.1% |
