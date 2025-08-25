@@ -3,12 +3,12 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 06:00 | JPY | Coincident Indicator (MoM) (Jun) | 0.7% | 0.8% | 0.0% |
-| 06:00 | JPY | Leading Index (MoM) (Jun) | 0.8% | 1.3% | 0.6% |
 | 06:00 | JPY | Leading Index (Jun) | 105.6 | 106.1 | 104.8 |
+| 06:00 | JPY | Leading Index (MoM) (Jun) | 0.8% | 1.3% | 0.6% |
 | 06:00 | SGD | CPI (MoM) (Jul) | -0.40% |  | -0.10% |
 | 07:00 | NOK | Credit Indicator (YoY) (Jul) | 4.1% |  | 4.1% |
-| 19 min | NOK | M3 Money Supply (Jul) |  |  | 3,422.2B |
-| 49 min | EUR | Spanish PPI (YoY) (Jul) |  |  | 0.8% |
+| 08:00 | EUR | Spanish PPI (YoY) (Jul) | 0.3% |  | 0.8% |
+| 53 min | NOK | M3 Money Supply (Jul) |  |  | 3,422.2B |
 | 11:00 | EUR | Spanish Consumer Confidence (Jul) |  |  | 76.1 |
 | 12:00 | BRL | FGV Consumer confidence (Aug) |  |  | 86.7 |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
