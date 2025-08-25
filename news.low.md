@@ -22,4 +22,4 @@
 | 16:30 | USD | 3-Month Bill Auction | 4.100% |  | 4.130% |
 | 16:30 | USD | 6-Month Bill Auction | 3.915% |  | 3.945% |
 | 20:15 | USD | Fed Logan Speaks |  |  |  |
-| 52 min | KRW | Consumer Confidence (Aug) |  |  | 110.8 |
+| 22:00 | KRW | Consumer Confidence (Aug) | 111.4 |  | 110.8 |

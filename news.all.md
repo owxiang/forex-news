@@ -24,12 +24,12 @@
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 1.974% |  | 1.963% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 1.963% |  | 1.973% |
 | 14:30 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 15:00 | USD | Moderate | New Home Sales (MoM) (Jul) | -0.6% |  | 4.1% |
 | 15:00 | USD | High | New Home Sales (Jul) | 652K | 635K | 656K |
+| 15:00 | USD | Moderate | New Home Sales (MoM) (Jul) | -0.6% |  | 4.1% |
 | 15:30 | USD | Low | Dallas Fed Mfg Business Index (Aug) | -1.8 |  | 0.9 |
 | 16:00 | MXN | Low | Current Account (USD) (Q2) | 206M | 3,762M | -11,171M |
 | 16:00 | MXN | Low | Current Account % of GDP (Q2) | 0.00% |  | -1.80% |
 | 16:30 | USD | Low | 3-Month Bill Auction | 4.100% |  | 4.130% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 3.915% |  | 3.945% |
 | 20:15 | USD | Low | Fed Logan Speaks |  |  |  |
-| 52 min | KRW | Low | Consumer Confidence (Aug) |  |  | 110.8 |
+| 22:00 | KRW | Low | Consumer Confidence (Aug) | 111.4 |  | 110.8 |
