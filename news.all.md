@@ -14,19 +14,18 @@
 | 09:00 | EUR | Moderate | German Business Expectations (Aug) | 91.6 | 90.2 | 90.8 |
 | 09:00 | EUR | Moderate | German Current Assessment (Aug) | 86.4 | 86.7 | 86.5 |
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (Aug) | 89.0 | 88.7 | 88.6 |
-| 11:00 | EUR | Low | Spanish Consumer Confidence (Jul) |  |  | 76.1 |
-| 52 min | BRL | Low | FGV Consumer confidence (Aug) |  |  | 86.7 |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | USD | Low | Building Permits (MoM) (Jul) |  | -2.8% | -0.1% |
-| 13:00 | USD | Moderate | Building Permits (Jul) |  | 1.354M | 1.393M |
+| 12:00 | BRL | Low | FGV Consumer confidence (Aug) | 86.2 |  | 86.7 |
+| 19 min | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 54 min | USD | Moderate | Building Permits (Jul) |  | 1.354M | 1.393M |
+| 54 min | USD | Low | Building Permits (MoM) (Jul) |  | -2.8% | -0.1% |
 | 13:30 | USD | Low | Chicago Fed National Activity (Jul) |  |  | -0.10 |
 | 13:30 | CAD | Low | Corporate Profits (QoQ) |  |  | 2.7% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 1.980% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 1.963% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 1.973% |
 | 14:30 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 15:00 | USD | High | New Home Sales (Jul) |  | 635K | 627K |
 | 15:00 | USD | Moderate | New Home Sales (MoM) (Jul) |  |  | 0.6% |
+| 15:00 | USD | High | New Home Sales (Jul) |  | 635K | 627K |
 | 15:30 | USD | Low | Dallas Fed Mfg Business Index (Aug) |  |  | 0.9 |
 | 16:00 | MXN | Low | Current Account (USD) (Q2) |  | 3,762M | -7,613M |
 | 16:00 | MXN | Low | Current Account % of GDP (Q2) |  |  | -1.80% |
