@@ -8,7 +8,6 @@
 | 06:00 | SGD | CPI (MoM) (Jul) | -0.40% |  | -0.10% |
 | 07:00 | NOK | Credit Indicator (YoY) (Jul) | 4.1% |  | 4.1% |
 | 08:00 | EUR | Spanish PPI (YoY) (Jul) | 0.3% |  | 0.8% |
-| 53 min | NOK | M3 Money Supply (Jul) |  |  | 3,422.2B |
 | 11:00 | EUR | Spanish Consumer Confidence (Jul) |  |  | 76.1 |
 | 12:00 | BRL | FGV Consumer confidence (Aug) |  |  | 86.7 |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
