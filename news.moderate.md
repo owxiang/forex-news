@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 06:00 | SGD | Core CPI (YoY) (Jul) |  |  | 0.60% |
-| 06:00 | SGD | CPI (YoY) (Jul) |  |  | 0.8% |
+| 49 min | SGD | Core CPI (YoY) (Jul) |  |  | 0.60% |
+| 49 min | SGD | CPI (YoY) (Jul) |  |  | 0.8% |
 | 07:30 | CHF | Employment Level (Q2) |  |  | 5.512M |
 | 09:00 | EUR | German Business Expectations (Aug) |  |  | 90.7 |
 | 09:00 | EUR | German Current Assessment (Aug) |  |  | 86.5 |

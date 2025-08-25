@@ -2,12 +2,12 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 06:00 | JPY | Low | Coincident Indicator (MoM) (Jun) |  | 0.8% | 0.0% |
-| 06:00 | JPY | Low | Leading Index (Jun) |  | 106.1 | 104.8 |
-| 06:00 | JPY | Low | Leading Index (MoM) (Jun) |  | 1.3% | 0.6% |
-| 06:00 | SGD | Moderate | Core CPI (YoY) (Jul) |  |  | 0.60% |
-| 06:00 | SGD | Low | CPI (MoM) (Jul) |  |  | -0.10% |
-| 06:00 | SGD | Moderate | CPI (YoY) (Jul) |  |  | 0.8% |
+| 49 min | JPY | Low | Coincident Indicator (MoM) (Jun) |  | 0.8% | 0.0% |
+| 49 min | JPY | Low | Leading Index (Jun) |  | 106.1 | 104.8 |
+| 49 min | JPY | Low | Leading Index (MoM) (Jun) |  | 1.3% | 0.6% |
+| 49 min | SGD | Moderate | Core CPI (YoY) (Jul) |  |  | 0.60% |
+| 49 min | SGD | Low | CPI (MoM) (Jul) |  |  | -0.10% |
+| 49 min | SGD | Moderate | CPI (YoY) (Jul) |  |  | 0.8% |
 | 07:00 | NOK | Low | M3 Money Supply (Jul) |  |  | 3,422.2B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Jul) |  |  | 4.1% |
 | 07:30 | CHF | Moderate | Employment Level (Q2) |  |  | 5.512M |
