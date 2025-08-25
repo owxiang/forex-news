@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 06:00 | JPY | Coincident Indicator (MoM) (Jun) | 0.7% | 0.8% | 0.0% |
-| 06:00 | JPY | Leading Index (Jun) | 105.6 | 106.1 | 104.8 |
 | 06:00 | JPY | Leading Index (MoM) (Jun) | 0.8% | 1.3% | 0.6% |
+| 06:00 | JPY | Leading Index (Jun) | 105.6 | 106.1 | 104.8 |
 | 06:00 | SGD | CPI (MoM) (Jul) | -0.40% |  | -0.10% |
 | 07:00 | NOK | Credit Indicator (YoY) (Jul) | 4.1% |  | 4.1% |
 | 08:00 | EUR | Spanish PPI (YoY) (Jul) | 0.3% |  | 0.8% |
@@ -21,5 +21,5 @@
 | 16:00 | MXN | Current Account % of GDP (Q2) | 0.00% |  | -1.80% |
 | 16:30 | USD | 3-Month Bill Auction | 4.100% |  | 4.130% |
 | 16:30 | USD | 6-Month Bill Auction | 3.915% |  | 3.945% |
-| 10 min | USD | Fed Logan Speaks |  |  |  |
-| 22:00 | KRW | Consumer Confidence (Aug) |  |  | 110.8 |
+| 20:15 | USD | Fed Logan Speaks |  |  |  |
+| 52 min | KRW | Consumer Confidence (Aug) |  |  | 110.8 |
