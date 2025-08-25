@@ -14,8 +14,8 @@
 | 09:00 | EUR | Moderate | German Business Expectations (Aug) | 91.6 | 90.2 | 90.8 |
 | 09:00 | EUR | Moderate | German Current Assessment (Aug) | 86.4 | 86.7 | 86.5 |
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (Aug) | 89.0 | 88.7 | 88.6 |
-| 51 min | EUR | Low | Spanish Consumer Confidence (Jul) |  |  | 76.1 |
-| 12:00 | BRL | Low | FGV Consumer confidence (Aug) |  |  | 86.7 |
+| 11:00 | EUR | Low | Spanish Consumer Confidence (Jul) |  |  | 76.1 |
+| 52 min | BRL | Low | FGV Consumer confidence (Aug) |  |  | 86.7 |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | USD | Low | Building Permits (MoM) (Jul) |  | -2.8% | -0.1% |
 | 13:00 | USD | Moderate | Building Permits (Jul) |  | 1.354M | 1.393M |
