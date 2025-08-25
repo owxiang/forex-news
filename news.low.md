@@ -1,25 +1,34 @@
-## 25 August 2025 - Low Impact Forex News
+## 26 August 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 06:00 | JPY | Coincident Indicator (MoM) (Jun) | 0.7% | 0.8% | 0.0% |
-| 06:00 | JPY | Leading Index (MoM) (Jun) | 0.8% | 1.3% | 0.6% |
-| 06:00 | JPY | Leading Index (Jun) | 105.6 | 106.1 | 104.8 |
-| 06:00 | SGD | CPI (MoM) (Jul) | -0.40% |  | -0.10% |
-| 07:00 | NOK | Credit Indicator (YoY) (Jul) | 4.1% |  | 4.1% |
-| 08:00 | EUR | Spanish PPI (YoY) (Jul) | 0.3% |  | 0.8% |
-| 12:00 | BRL | FGV Consumer confidence (Aug) | 86.2 |  | 86.7 |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | USD | Building Permits (MoM) (Jul) | -2.2% | -2.8% | -0.1% |
-| 13:30 | USD | Chicago Fed National Activity (Jul) | -0.19 |  | -0.18 |
-| 13:30 | CAD | Corporate Profits (QoQ) | -1.7% |  | 2.7% |
-| 14:00 | EUR | French 12-Month BTF Auction | 1.994% |  | 1.980% |
-| 14:00 | EUR | French 3-Month BTF Auction | 1.974% |  | 1.963% |
-| 14:00 | EUR | French 6-Month BTF Auction | 1.963% |  | 1.973% |
-| 15:30 | USD | Dallas Fed Mfg Business Index (Aug) | -1.8 |  | 0.9 |
-| 16:00 | MXN | Current Account (USD) (Q2) | 206M | 3,762M | -11,171M |
-| 16:00 | MXN | Current Account % of GDP (Q2) | 0.00% |  | -1.80% |
-| 16:30 | USD | 3-Month Bill Auction | 4.100% |  | 4.130% |
-| 16:30 | USD | 6-Month Bill Auction | 3.915% |  | 3.945% |
-| 20:15 | USD | Fed Logan Speaks |  |  |  |
-| 22:00 | KRW | Consumer Confidence (Aug) | 111.4 |  | 110.8 |
+| 00:01 | GBP | BRC Shop Price Index (YoY) | 0.9% | 0.9% | 0.7% |
+| 44 min | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 3.2% | 3.2% |
+| 06:00 | SGD | Industrial Production (MoM) (Jul) |  | 1.1% | 0.0% |
+| 06:00 | SGD | Industrial Production (YoY) (Jul) |  |  | 8.0% |
+| 07:45 | EUR | French Consumer Confidence (Aug) |  | 90 | 89 |
+| 08:00 | ZAR | Leading Indicators (Jun) |  |  | 111.30% |
+| 09:30 | HKD | Exports (MoM) (Jul) |  |  | 11.9% |
+| 09:30 | HKD | Imports (MoM) (Jul) |  |  | 11.1% |
+| 09:30 | HKD | Trade Balance (Jul) |  |  | -58.9B |
+| 12:00 | EUR | Spanish Consumer Confidence (Jul) |  |  | 76.1 |
+| 12:30 | BRL | Current Account (USD) (Jul) |  | -5.50B | -5.13B |
+| 12:30 | BRL | Foreign direct investment (USD) (Jul) |  | 5.00B | 2.81B |
+| 13:00 | BRL | Mid-Month CPI (MoM) (Aug) |  | -0.23% | 0.33% |
+| 13:00 | BRL | Mid-Month CPI (YoY) (Aug) |  | 4.88% | 5.30% |
+| 13:30 | USD | Durables Excluding Defense (MoM) (Jul) |  | -3.8% | -9.4% |
+| 13:30 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Jul) |  | 0.2% | -0.8% |
+| 13:55 | USD | Redbook (YoY) |  |  | 5.9% |
+| 14:00 | USD | House Price Index (YoY) (Jun) |  |  | 2.8% |
+| 14:00 | USD | House Price Index (MoM) (Jun) |  | 0.0% | -0.2% |
+| 14:00 | USD | House Price Index (Jun) |  |  | 434.4 |
+| 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Jun) |  |  | -0.3% |
+| 14:00 | CAD | Manufacturing Sales (MoM) (Jul) |  |  | 0.3% |
+| 15:00 | USD | Richmond Manufacturing Index (Aug) |  | -17 | -20 |
+| 15:00 | USD | Richmond Manufacturing Shipments (Aug) |  |  | -18 |
+| 15:00 | USD | Richmond Services Index (Aug) |  |  | 2 |
+| 15:30 | USD | Dallas Fed Services Revenues (Aug) |  |  | 6.3 |
+| 15:30 | USD | Texas Services Sector Outlook (Aug) |  |  | 2.0 |
+| 21:30 | USD | M2 Money Supply (MoM) (Jul) |  |  | 22.02T |
+| 22:00 | KRW | Manufacturing BSI Index |  |  | 68 |

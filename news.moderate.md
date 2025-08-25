@@ -1,13 +1,15 @@
-## 25 August 2025 - Moderate Impact Forex News
+## 26 August 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 06:00 | SGD | Core CPI (YoY) (Jul) | 0.50% |  | 0.60% |
-| 06:00 | SGD | CPI (YoY) (Jul) | 0.6% | 0.7% | 0.8% |
-| 07:30 | CHF | Employment Level (Q2) | 5.532M |  | 5.512M |
-| 09:00 | EUR | German Business Expectations (Aug) | 91.6 | 90.2 | 90.8 |
-| 09:00 | EUR | German Current Assessment (Aug) | 86.4 | 86.7 | 86.5 |
-| 09:00 | EUR | German Ifo Business Climate Index (Aug) | 89.0 | 88.7 | 88.6 |
-| 13:00 | USD | Building Permits (Jul) | 1.362M | 1.354M | 1.393M |
-| 14:30 | EUR | German Buba Balz Speaks |  |  |  |
-| 15:00 | USD | New Home Sales (MoM) (Jul) | -0.6% |  | 4.1% |
+| 9 min | USD | FOMC Member Williams Speaks |  |  |  |
+| 02:30 | AUD | RBA Meeting Minutes |  |  |  |
+| 06:00 | JPY | BoJ Core CPI (YoY) |  | 2.4% | 2.3% |
+| 13:30 | USD | Core Durable Goods Orders (MoM) (Jul) |  | 0.3% | 0.2% |
+| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jun) |  |  | 0.4% |
+| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jun) |  | 2.9% | 2.8% |
+| 16:30 | USD | Atlanta Fed GDPNow (Q3) |  | 2.3% | 2.3% |
+| 17:00 | GBP | BoE MPC Member Mann Speaks |  |  |  |
+| 18:00 | USD | 2-Year Note Auction |  |  | 3.920% |
+| 19:30 | CAD | BoC Gov Macklem Speaks |  |  |  |
+| 21:30 | USD | API Weekly Crude Oil Stock |  |  | -2.400M |
