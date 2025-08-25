@@ -17,9 +17,9 @@
 | 14:00 | EUR | French 3-Month BTF Auction | 1.974% |  | 1.963% |
 | 14:00 | EUR | French 6-Month BTF Auction | 1.963% |  | 1.973% |
 | 15:30 | USD | Dallas Fed Mfg Business Index (Aug) | -1.8 |  | 0.9 |
-| 16:00 | MXN | Current Account (USD) (Q2) | 206M | 3,762M | -7,613M |
+| 16:00 | MXN | Current Account (USD) (Q2) | 206M | 3,762M | -11,171M |
 | 16:00 | MXN | Current Account % of GDP (Q2) | 0.00% |  | -1.80% |
-| 23 min | USD | 3-Month Bill Auction |  |  | 4.130% |
-| 23 min | USD | 6-Month Bill Auction |  |  | 3.945% |
+| 16:30 | USD | 3-Month Bill Auction | 4.100% |  | 4.130% |
+| 16:30 | USD | 6-Month Bill Auction | 3.915% |  | 3.945% |
 | 20:15 | USD | Fed Logan Speaks |  |  |  |
 | 22:00 | KRW | Consumer Confidence (Aug) |  |  | 110.8 |
