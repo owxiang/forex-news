@@ -2,18 +2,18 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 49 min | JPY | Low | Coincident Indicator (MoM) (Jun) |  | 0.8% | 0.0% |
-| 49 min | JPY | Low | Leading Index (Jun) |  | 106.1 | 104.8 |
-| 49 min | JPY | Low | Leading Index (MoM) (Jun) |  | 1.3% | 0.6% |
-| 49 min | SGD | Moderate | Core CPI (YoY) (Jul) |  |  | 0.60% |
-| 49 min | SGD | Low | CPI (MoM) (Jul) |  |  | -0.10% |
-| 49 min | SGD | Moderate | CPI (YoY) (Jul) |  |  | 0.8% |
-| 07:00 | NOK | Low | M3 Money Supply (Jul) |  |  | 3,422.2B |
-| 07:00 | NOK | Low | Credit Indicator (YoY) (Jul) |  |  | 4.1% |
+| 06:00 | JPY | Low | Coincident Indicator (MoM) (Jun) | 0.7% | 0.8% | 0.0% |
+| 06:00 | JPY | Low | Leading Index (Jun) | 105.6 | 106.1 | 104.8 |
+| 06:00 | JPY | Low | Leading Index (MoM) (Jun) | 0.8% | 1.3% | 0.6% |
+| 06:00 | SGD | Moderate | Core CPI (YoY) (Jul) | 0.50% |  | 0.60% |
+| 06:00 | SGD | Low | CPI (MoM) (Jul) | -0.50% |  | -0.10% |
+| 06:00 | SGD | Moderate | CPI (YoY) (Jul) | 0.6% | 0.7% | 0.8% |
+| 52 min | NOK | Low | M3 Money Supply (Jul) |  |  | 3,422.2B |
+| 52 min | NOK | Low | Credit Indicator (YoY) (Jul) |  |  | 4.1% |
 | 07:30 | CHF | Moderate | Employment Level (Q2) |  |  | 5.512M |
 | 08:00 | EUR | Low | Spanish PPI (YoY) (Jul) |  |  | 0.8% |
-| 09:00 | EUR | Moderate | German Business Expectations (Aug) |  |  | 90.7 |
-| 09:00 | EUR | Moderate | German Current Assessment (Aug) |  |  | 86.5 |
+| 09:00 | EUR | Moderate | German Business Expectations (Aug) |  | 90.2 | 90.7 |
+| 09:00 | EUR | Moderate | German Current Assessment (Aug) |  | 86.7 | 86.5 |
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (Aug) |  | 88.7 | 88.6 |
 | 11:00 | EUR | Low | Spanish Consumer Confidence (Jul) |  |  | 76.1 |
 | 12:00 | BRL | Low | FGV Consumer confidence (Aug) |  |  | 86.7 |
@@ -29,7 +29,7 @@
 | 15:00 | USD | Moderate | New Home Sales (MoM) (Jul) |  |  | 0.6% |
 | 15:00 | USD | High | New Home Sales (Jul) |  | 635K | 627K |
 | 15:30 | USD | Low | Dallas Fed Mfg Business Index (Aug) |  |  | 0.9 |
-| 16:00 | MXN | Low | Current Account (USD) (Q2) |  |  | -7,613M |
+| 16:00 | MXN | Low | Current Account (USD) (Q2) |  | 3,762M | -7,613M |
 | 16:00 | MXN | Low | Current Account % of GDP (Q2) |  |  | -1.80% |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.130% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.945% |
