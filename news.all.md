@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Jun) | 0.7% | 0.8% | 0.0% |
-| 06:00 | JPY | Low | Leading Index (MoM) (Jun) | 0.8% | 1.3% | 0.6% |
 | 06:00 | JPY | Low | Leading Index (Jun) | 105.6 | 106.1 | 104.8 |
+| 06:00 | JPY | Low | Leading Index (MoM) (Jun) | 0.8% | 1.3% | 0.6% |
 | 06:00 | SGD | Moderate | Core CPI (YoY) (Jul) | 0.50% |  | 0.60% |
 | 06:00 | SGD | Low | CPI (MoM) (Jul) | -0.40% |  | -0.10% |
 | 06:00 | SGD | Moderate | CPI (YoY) (Jul) | 0.6% | 0.7% | 0.8% |
@@ -16,16 +16,16 @@
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (Aug) | 89.0 | 88.7 | 88.6 |
 | 12:00 | BRL | Low | FGV Consumer confidence (Aug) | 86.2 |  | 86.7 |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | USD | Moderate | Building Permits (Jul) | 1.362M | 1.354M | 1.393M |
 | 13:00 | USD | Low | Building Permits (MoM) (Jul) | -2.2% | -2.8% | -0.1% |
-| 18 min | USD | Low | Chicago Fed National Activity (Jul) |  |  | -0.10 |
-| 18 min | CAD | Low | Corporate Profits (QoQ) |  |  | 2.7% |
-| 48 min | EUR | Low | French 12-Month BTF Auction |  |  | 1.980% |
-| 48 min | EUR | Low | French 3-Month BTF Auction |  |  | 1.963% |
-| 48 min | EUR | Low | French 6-Month BTF Auction |  |  | 1.973% |
-| 14:30 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 15:00 | USD | Moderate | New Home Sales (MoM) (Jul) |  |  | 0.6% |
-| 15:00 | USD | High | New Home Sales (Jul) |  | 635K | 627K |
+| 13:00 | USD | Moderate | Building Permits (Jul) | 1.362M | 1.354M | 1.393M |
+| 13:30 | USD | Low | Chicago Fed National Activity (Jul) | -0.19 |  | -0.18 |
+| 13:30 | CAD | Low | Corporate Profits (QoQ) | -1.7% |  | 2.7% |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 1.994% |  | 1.980% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 1.974% |  | 1.963% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 1.963% |  | 1.973% |
+| 15 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 45 min | USD | High | New Home Sales (Jul) |  | 635K | 627K |
+| 45 min | USD | Moderate | New Home Sales (MoM) (Jul) |  |  | 0.6% |
 | 15:30 | USD | Low | Dallas Fed Mfg Business Index (Aug) |  |  | 0.9 |
 | 16:00 | MXN | Low | Current Account (USD) (Q2) |  | 3,762M | -7,613M |
 | 16:00 | MXN | Low | Current Account % of GDP (Q2) |  |  | -1.80% |

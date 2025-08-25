@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 15:00 | USD | New Home Sales (Jul) |  | 635K | 627K |
+| 45 min | USD | New Home Sales (Jul) |  | 635K | 627K |
