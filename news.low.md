@@ -21,5 +21,5 @@
 | 16:00 | MXN | Current Account % of GDP (Q2) | 0.00% |  | -1.80% |
 | 16:30 | USD | 3-Month Bill Auction | 4.100% |  | 4.130% |
 | 16:30 | USD | 6-Month Bill Auction | 3.915% |  | 3.945% |
-| 20:15 | USD | Fed Logan Speaks |  |  |  |
+| 10 min | USD | Fed Logan Speaks |  |  |  |
 | 22:00 | KRW | Consumer Confidence (Aug) |  |  | 110.8 |
