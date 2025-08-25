@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Jun) | 0.7% | 0.8% | 0.0% |
-| 06:00 | JPY | Low | Leading Index (MoM) (Jun) | 0.8% | 1.3% | 0.6% |
 | 06:00 | JPY | Low | Leading Index (Jun) | 105.6 | 106.1 | 104.8 |
+| 06:00 | JPY | Low | Leading Index (MoM) (Jun) | 0.8% | 1.3% | 0.6% |
 | 06:00 | SGD | Moderate | Core CPI (YoY) (Jul) | 0.50% |  | 0.60% |
 | 06:00 | SGD | Low | CPI (MoM) (Jul) | -0.40% |  | -0.10% |
 | 06:00 | SGD | Moderate | CPI (YoY) (Jul) | 0.6% | 0.7% | 0.8% |
@@ -26,10 +26,10 @@
 | 14:30 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 15:00 | USD | High | New Home Sales (Jul) | 652K | 635K | 656K |
 | 15:00 | USD | Moderate | New Home Sales (MoM) (Jul) | -0.6% |  | 4.1% |
-| 23 min | USD | Low | Dallas Fed Mfg Business Index (Aug) |  |  | 0.9 |
-| 53 min | MXN | Low | Current Account (USD) (Q2) |  | 3,762M | -7,613M |
-| 53 min | MXN | Low | Current Account % of GDP (Q2) |  |  | -1.80% |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.130% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.945% |
+| 15:30 | USD | Low | Dallas Fed Mfg Business Index (Aug) | -1.8 |  | 0.9 |
+| 16:00 | MXN | Low | Current Account (USD) (Q2) | 206M | 3,762M | -7,613M |
+| 16:00 | MXN | Low | Current Account % of GDP (Q2) | 0.00% |  | -1.80% |
+| 23 min | USD | Low | 3-Month Bill Auction |  |  | 4.130% |
+| 23 min | USD | Low | 6-Month Bill Auction |  |  | 3.945% |
 | 20:15 | USD | Low | Fed Logan Speaks |  |  |  |
 | 22:00 | KRW | Low | Consumer Confidence (Aug) |  |  | 110.8 |
