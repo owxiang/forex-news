@@ -26,8 +26,8 @@
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 1.963% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 1.973% |
 | 14:30 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 15:00 | USD | High | New Home Sales (Jul) |  | 635K | 627K |
 | 15:00 | USD | Moderate | New Home Sales (MoM) (Jul) |  |  | 0.6% |
+| 15:00 | USD | High | New Home Sales (Jul) |  | 635K | 627K |
 | 15:30 | USD | Low | Dallas Fed Mfg Business Index (Aug) |  |  | 0.9 |
 | 16:00 | MXN | Low | Current Account (USD) (Q2) |  |  | -7,613M |
 | 16:00 | MXN | Low | Current Account % of GDP (Q2) |  |  | -1.80% |
