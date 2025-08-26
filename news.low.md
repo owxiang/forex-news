@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | BRC Shop Price Index (YoY) | 0.9% | 0.9% | 0.7% |
 | 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) | 2.9% | 3.2% | 3.2% |
-| 06:00 | SGD | Industrial Production (YoY) (Jul) |  |  | 8.0% |
-| 06:00 | SGD | Industrial Production (MoM) (Jul) |  | 1.1% | 0.0% |
+| 52 min | SGD | Industrial Production (MoM) (Jul) |  | 1.1% | 0.0% |
+| 52 min | SGD | Industrial Production (YoY) (Jul) |  |  | 8.0% |
 | 07:45 | EUR | French Consumer Confidence (Aug) |  | 90 | 89 |
 | 08:00 | ZAR | Leading Indicators (Jun) |  |  | 111.30% |
 | 09:30 | HKD | Exports (MoM) (Jul) |  |  | 11.9% |

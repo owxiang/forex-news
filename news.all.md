@@ -6,9 +6,9 @@
 | 00:15 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 2.9% | 3.2% | 3.2% |
 | 02:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
-| 06:00 | JPY | Moderate | BoJ Core CPI (YoY) |  | 2.4% | 2.3% |
-| 06:00 | SGD | Low | Industrial Production (YoY) (Jul) |  |  | 8.0% |
-| 06:00 | SGD | Low | Industrial Production (MoM) (Jul) |  | 1.1% | 0.0% |
+| 52 min | JPY | Moderate | BoJ Core CPI (YoY) |  | 2.4% | 2.3% |
+| 52 min | SGD | Low | Industrial Production (MoM) (Jul) |  | 1.1% | 0.0% |
+| 52 min | SGD | Low | Industrial Production (YoY) (Jul) |  |  | 8.0% |
 | 07:45 | EUR | Low | French Consumer Confidence (Aug) |  | 90 | 89 |
 | 08:00 | ZAR | Low | Leading Indicators (Jun) |  |  | 111.30% |
 | 09:30 | HKD | Low | Exports (MoM) (Jul) |  |  | 11.9% |

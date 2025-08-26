@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:15 | USD | FOMC Member Williams Speaks |  |  |  |
 | 02:30 | AUD | RBA Meeting Minutes |  |  |  |
-| 06:00 | JPY | BoJ Core CPI (YoY) |  | 2.4% | 2.3% |
+| 52 min | JPY | BoJ Core CPI (YoY) |  | 2.4% | 2.3% |
 | 13:30 | USD | Core Durable Goods Orders (MoM) (Jul) |  | 0.3% | 0.2% |
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jun) |  |  | 0.4% |
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jun) |  | 2.9% | 2.8% |
