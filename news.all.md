@@ -40,8 +40,8 @@
 | 15:30 | USD | Low | Dallas Fed Services Revenues (Aug) | 8.6 |  | 6.3 |
 | 15:30 | USD | Low | Texas Services Sector Outlook (Aug) | 6.8 |  | 2.0 |
 | 17:00 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
-| 52 min | USD | Moderate | 2-Year Note Auction |  |  | 3.920% |
-| 52 min | USD | Low | M2 Money Supply (MoM) (Jul) |  |  | 22.02T |
+| 18:00 | USD | Moderate | 2-Year Note Auction | 3.641% |  | 3.920% |
+| 18:00 | USD | Low | M2 Money Supply (MoM) (Jul) | 22.12T |  | 22.02T |
 | 19:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.700M | -2.400M |
 | 22:00 | KRW | Low | Manufacturing BSI Index |  |  | 68 |
