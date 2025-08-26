@@ -7,18 +7,18 @@
 | 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 2.9% | 3.2% | 3.2% |
 | 02:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
 | 06:00 | JPY | Moderate | BoJ Core CPI (YoY) | 2.0% | 2.4% | 2.3% |
-| 06:00 | SGD | Low | Industrial Production (MoM) (Jul) | 8.2% | 1.1% | -0.8% |
 | 06:00 | SGD | Low | Industrial Production (YoY) (Jul) | 7.1% |  | 7.1% |
-| 35 min | EUR | Low | French Consumer Confidence (Aug) |  | 90 | 89 |
-| 50 min | ZAR | Low | Leading Indicators (Jun) |  |  | 111.30% |
+| 06:00 | SGD | Low | Industrial Production (MoM) (Jul) | 8.2% | 1.1% | -0.8% |
+| 07:45 | EUR | Low | French Consumer Confidence (Aug) | 87 | 90 | 88 |
+| 08:00 | ZAR | Low | Leading Indicators (Jun) | 111.70% |  | 111.29% |
 | 09:30 | HKD | Low | Exports (MoM) (Jul) |  |  | 11.9% |
 | 09:30 | HKD | Low | Imports (MoM) (Jul) |  |  | 11.1% |
 | 09:30 | HKD | Low | Trade Balance (Jul) |  |  | -58.9B |
 | 12:00 | EUR | Low | Spanish Consumer Confidence (Jul) |  |  | 76.1 |
 | 12:30 | BRL | Low | Current Account (USD) (Jul) |  | -5.50B | -5.13B |
 | 12:30 | BRL | Low | Foreign direct investment (USD) (Jul) |  | 5.00B | 2.81B |
-| 13:00 | BRL | Low | Mid-Month CPI (MoM) (Aug) |  | -0.23% | 0.33% |
 | 13:00 | BRL | Low | Mid-Month CPI (YoY) (Aug) |  | 4.88% | 5.30% |
+| 13:00 | BRL | Low | Mid-Month CPI (MoM) (Aug) |  | -0.23% | 0.33% |
 | 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Jul) |  | 0.2% | 0.2% |
 | 13:30 | USD | High | Durable Goods Orders (MoM) (Jul) |  | -9.4% | -9.4% |
 | 13:30 | USD | Low | Durables Excluding Defense (MoM) (Jul) |  | -3.8% | -9.3% |
