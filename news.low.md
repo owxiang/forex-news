@@ -14,8 +14,8 @@
 | 10:10 | EUR | Italian 2-Year CTZ Auction | 2.200% |  | 2.120% |
 | 12:30 | BRL | Current Account (USD) (Jul) | -7.07B | -5.50B | -5.13B |
 | 12:30 | BRL | Foreign direct investment (USD) (Jul) | 8.32B | 5.00B | 2.81B |
-| 13:00 | BRL | Mid-Month CPI (MoM) (Aug) | -0.14% | -0.23% | 0.33% |
 | 13:00 | BRL | Mid-Month CPI (YoY) (Aug) | 4.95% | 4.88% | 5.30% |
+| 13:00 | BRL | Mid-Month CPI (MoM) (Aug) | -0.14% | -0.23% | 0.33% |
 | 13:30 | USD | Durables Excluding Defense (MoM) (Jul) | -2.5% | -3.6% | -9.5% |
 | 13:30 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Jul) | 1.1% | 0.3% | -0.6% |
