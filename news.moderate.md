@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 9 min | USD | FOMC Member Williams Speaks |  |  |  |
+| 00:15 | USD | FOMC Member Williams Speaks |  |  |  |
 | 02:30 | AUD | RBA Meeting Minutes |  |  |  |
 | 06:00 | JPY | BoJ Core CPI (YoY) |  | 2.4% | 2.3% |
 | 13:30 | USD | Core Durable Goods Orders (MoM) (Jul) |  | 0.3% | 0.2% |

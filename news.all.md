@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | BRC Shop Price Index (YoY) | 0.9% | 0.9% | 0.7% |
-| 9 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 44 min | JPY | Low | Corporate Services Price Index (CSPI) (YoY) |  | 3.2% | 3.2% |
+| 00:15 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 2.9% | 3.2% | 3.2% |
 | 02:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
 | 06:00 | JPY | Moderate | BoJ Core CPI (YoY) |  | 2.4% | 2.3% |
 | 06:00 | SGD | Low | Industrial Production (MoM) (Jul) |  | 1.1% | 0.0% |
@@ -17,8 +17,8 @@
 | 12:00 | EUR | Low | Spanish Consumer Confidence (Jul) |  |  | 76.1 |
 | 12:30 | BRL | Low | Current Account (USD) (Jul) |  | -5.50B | -5.13B |
 | 12:30 | BRL | Low | Foreign direct investment (USD) (Jul) |  | 5.00B | 2.81B |
-| 13:00 | BRL | Low | Mid-Month CPI (MoM) (Aug) |  | -0.23% | 0.33% |
 | 13:00 | BRL | Low | Mid-Month CPI (YoY) (Aug) |  | 4.88% | 5.30% |
+| 13:00 | BRL | Low | Mid-Month CPI (MoM) (Aug) |  | -0.23% | 0.33% |
 | 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Jul) |  | 0.3% | 0.2% |
 | 13:30 | USD | High | Durable Goods Orders (MoM) (Jul) |  | -4.0% | -9.4% |
 | 13:30 | USD | Low | Durables Excluding Defense (MoM) (Jul) |  | -3.8% | -9.4% |
