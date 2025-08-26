@@ -7,8 +7,8 @@
 | 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 2.9% | 3.2% | 3.2% |
 | 02:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
 | 06:00 | JPY | Moderate | BoJ Core CPI (YoY) | 2.0% | 2.4% | 2.3% |
-| 06:00 | SGD | Low | Industrial Production (MoM) (Jul) | 8.2% | 1.1% | -0.8% |
 | 06:00 | SGD | Low | Industrial Production (YoY) (Jul) | 7.1% |  | 7.1% |
+| 06:00 | SGD | Low | Industrial Production (MoM) (Jul) | 8.2% | 1.1% | -0.8% |
 | 07:45 | EUR | Low | French Consumer Confidence (Aug) | 87 | 90 | 88 |
 | 08:00 | ZAR | Low | Leading Indicators (Jun) | 111.70% |  | 111.29% |
 | 09:30 | HKD | Low | Exports (MoM) (Jul) | 14.3% |  | 11.9% |
@@ -17,8 +17,8 @@
 | 10:10 | EUR | Low | Italian 2-Year CTZ Auction | 2.200% |  | 2.120% |
 | 12:30 | BRL | Low | Current Account (USD) (Jul) | -7.07B | -5.50B | -5.13B |
 | 12:30 | BRL | Low | Foreign direct investment (USD) (Jul) | 8.32B | 5.00B | 2.81B |
-| 13:00 | BRL | Low | Mid-Month CPI (YoY) (Aug) | 4.95% | 4.88% | 5.30% |
 | 13:00 | BRL | Low | Mid-Month CPI (MoM) (Aug) | -0.14% | -0.23% | 0.33% |
+| 13:00 | BRL | Low | Mid-Month CPI (YoY) (Aug) | 4.95% | 4.88% | 5.30% |
 | 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Jul) | 1.1% | 0.2% | 0.3% |
 | 13:30 | USD | High | Durable Goods Orders (MoM) (Jul) | -2.8% | -3.8% | -9.3% |
 | 13:30 | USD | Low | Durables Excluding Defense (MoM) (Jul) | -2.5% | -3.6% | -9.5% |
@@ -42,6 +42,6 @@
 | 17:00 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 18:00 | USD | Moderate | 2-Year Note Auction | 3.641% |  | 3.920% |
 | 18:00 | USD | Low | M2 Money Supply (MoM) (Jul) | 22.12T |  | 22.02T |
-| 21 min | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
+| 19:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.700M | -2.400M |
 | 22:00 | KRW | Low | Manufacturing BSI Index |  |  | 68 |
