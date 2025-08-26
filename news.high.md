@@ -2,5 +2,5 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 18 min | USD | Durable Goods Orders (MoM) (Jul) |  | -9.4% | -9.4% |
-| 15:00 | USD | CB Consumer Confidence (Aug) |  | 96.4 | 97.2 |
+| 13:30 | USD | Durable Goods Orders (MoM) (Jul) | -2.8% | -3.8% | -9.3% |
+| 44 min | USD | CB Consumer Confidence (Aug) |  | 96.4 | 97.2 |

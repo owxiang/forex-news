@@ -14,20 +14,20 @@
 | 10:10 | EUR | Italian 2-Year CTZ Auction | 2.200% |  | 2.120% |
 | 12:30 | BRL | Current Account (USD) (Jul) | -7.07B | -5.50B | -5.13B |
 | 12:30 | BRL | Foreign direct investment (USD) (Jul) | 8.32B | 5.00B | 2.81B |
-| 13:00 | BRL | Mid-Month CPI (MoM) (Aug) | -0.14% | -0.23% | 0.33% |
 | 13:00 | BRL | Mid-Month CPI (YoY) (Aug) | 4.95% | 4.88% | 5.30% |
-| 18 min | USD | Durables Excluding Defense (MoM) (Jul) |  | -3.8% | -9.3% |
-| 18 min | USD | FOMC Member Barkin Speaks |  |  |  |
-| 18 min | USD | Goods Orders Non Defense Ex Air (MoM) (Jul) |  | 0.3% | -0.7% |
-| 43 min | USD | Redbook (YoY) |  |  | 5.9% |
-| 48 min | USD | House Price Index (YoY) (Jun) |  |  | 2.8% |
-| 48 min | USD | House Price Index (MoM) (Jun) |  | -0.1% | -0.2% |
-| 48 min | USD | House Price Index (Jun) |  |  | 434.4 |
-| 48 min | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Jun) |  |  | -0.3% |
-| 48 min | CAD | Manufacturing Sales (MoM) (Jul) |  |  | 0.3% |
-| 15:00 | USD | Richmond Manufacturing Index (Aug) |  | -11 | -20 |
-| 15:00 | USD | Richmond Manufacturing Shipments (Aug) |  |  | -18 |
-| 15:00 | USD | Richmond Services Index (Aug) |  |  | 2 |
+| 13:00 | BRL | Mid-Month CPI (MoM) (Aug) | -0.14% | -0.23% | 0.33% |
+| 13:30 | USD | Durables Excluding Defense (MoM) (Jul) | -2.5% | -3.6% | -9.5% |
+| 13:30 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Jul) | 1.1% | 0.3% | -0.6% |
+| 13:30 | CAD | Manufacturing Sales (MoM) (Jul) | 1.8% |  | 0.3% |
+| 13:55 | USD | Redbook (YoY) | 6.5% |  | 5.9% |
+| 14:00 | USD | House Price Index (YoY) (Jun) | 2.6% |  | 2.9% |
+| 14:00 | USD | House Price Index (MoM) (Jun) | -0.2% | -0.1% | -0.1% |
+| 14:00 | USD | House Price Index (Jun) | 433.8 |  | 434.6 |
+| 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Jun) | -0.3% |  | -0.3% |
+| 44 min | USD | Richmond Manufacturing Index (Aug) |  | -11 | -20 |
+| 44 min | USD | Richmond Manufacturing Shipments (Aug) |  |  | -18 |
+| 44 min | USD | Richmond Services Index (Aug) |  |  | 2 |
 | 15:30 | USD | Dallas Fed Services Revenues (Aug) |  |  | 6.3 |
 | 15:30 | USD | Texas Services Sector Outlook (Aug) |  |  | 2.0 |
 | 18:00 | USD | M2 Money Supply (MoM) (Jul) |  |  | 22.02T |
