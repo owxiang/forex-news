@@ -11,14 +11,13 @@
 | 06:00 | SGD | Low | Industrial Production (MoM) (Jul) | 8.2% | 1.1% | -0.8% |
 | 07:45 | EUR | Low | French Consumer Confidence (Aug) | 87 | 90 | 88 |
 | 08:00 | ZAR | Low | Leading Indicators (Jun) | 111.70% |  | 111.29% |
-| 20 min | HKD | Low | Exports (MoM) (Jul) |  |  | 11.9% |
-| 20 min | HKD | Low | Imports (MoM) (Jul) |  |  | 11.1% |
-| 20 min | HKD | Low | Trade Balance (Jul) |  |  | -58.9B |
-| 12:00 | EUR | Low | Spanish Consumer Confidence (Jul) |  |  | 76.1 |
+| 09:30 | HKD | Low | Exports (MoM) (Jul) | 14.3% |  | 11.9% |
+| 09:30 | HKD | Low | Imports (MoM) (Jul) | 16.5% |  | 11.1% |
+| 09:30 | HKD | Low | Trade Balance (Jul) | -34.1B |  | -58.9B |
 | 12:30 | BRL | Low | Current Account (USD) (Jul) |  | -5.50B | -5.13B |
 | 12:30 | BRL | Low | Foreign direct investment (USD) (Jul) |  | 5.00B | 2.81B |
-| 13:00 | BRL | Low | Mid-Month CPI (MoM) (Aug) |  | -0.23% | 0.33% |
 | 13:00 | BRL | Low | Mid-Month CPI (YoY) (Aug) |  | 4.88% | 5.30% |
+| 13:00 | BRL | Low | Mid-Month CPI (MoM) (Aug) |  | -0.23% | 0.33% |
 | 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Jul) |  | 0.2% | 0.2% |
 | 13:30 | USD | High | Durable Goods Orders (MoM) (Jul) |  | -9.4% | -9.4% |
 | 13:30 | USD | Low | Durables Excluding Defense (MoM) (Jul) |  | -3.8% | -9.3% |
@@ -41,7 +40,7 @@
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 2.3% | 2.3% |
 | 17:00 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 18:00 | USD | Moderate | 2-Year Note Auction |  |  | 3.920% |
+| 18:00 | USD | Low | M2 Money Supply (MoM) (Jul) |  |  | 22.02T |
 | 19:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -2.400M |
-| 21:30 | USD | Low | M2 Money Supply (MoM) (Jul) |  |  | 22.02T |
 | 22:00 | KRW | Low | Manufacturing BSI Index |  |  | 68 |
