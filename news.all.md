@@ -17,8 +17,8 @@
 | 10:10 | EUR | Low | Italian 2-Year CTZ Auction | 2.200% |  | 2.120% |
 | 12:30 | BRL | Low | Current Account (USD) (Jul) | -7.07B | -5.50B | -5.13B |
 | 12:30 | BRL | Low | Foreign direct investment (USD) (Jul) | 8.32B | 5.00B | 2.81B |
-| 13:00 | BRL | Low | Mid-Month CPI (MoM) (Aug) | -0.14% | -0.23% | 0.33% |
 | 13:00 | BRL | Low | Mid-Month CPI (YoY) (Aug) | 4.95% | 4.88% | 5.30% |
+| 13:00 | BRL | Low | Mid-Month CPI (MoM) (Aug) | -0.14% | -0.23% | 0.33% |
 | 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Jul) | 1.1% | 0.2% | 0.3% |
 | 13:30 | USD | High | Durable Goods Orders (MoM) (Jul) | -2.8% | -3.8% | -9.3% |
 | 13:30 | USD | Low | Durables Excluding Defense (MoM) (Jul) | -2.5% | -3.6% | -9.5% |
@@ -43,5 +43,5 @@
 | 18:00 | USD | Moderate | 2-Year Note Auction | 3.641% |  | 3.920% |
 | 18:00 | USD | Low | M2 Money Supply (MoM) (Jul) | 22.12T |  | 22.02T |
 | 19:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.700M | -2.400M |
-| 22:00 | KRW | Low | Manufacturing BSI Index |  |  | 68 |
+| 23 min | USD | Moderate | API Weekly Crude Oil Stock |  | -1.700M | -2.400M |
+| 53 min | KRW | Low | Manufacturing BSI Index |  |  | 68 |

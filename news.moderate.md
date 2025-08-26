@@ -12,4 +12,4 @@
 | 17:00 | GBP | BoE MPC Member Mann Speaks |  |  |  |
 | 18:00 | USD | 2-Year Note Auction | 3.641% |  | 3.920% |
 | 19:30 | CAD | BoC Gov Macklem Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock |  | -1.700M | -2.400M |
+| 23 min | USD | API Weekly Crude Oil Stock |  | -1.700M | -2.400M |
