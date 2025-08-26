@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | BRC Shop Price Index (YoY) | 0.9% | 0.9% | 0.7% |
 | 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) | 2.9% | 3.2% | 3.2% |
-| 06:00 | SGD | Industrial Production (YoY) (Jul) | 7.1% |  | 7.1% |
 | 06:00 | SGD | Industrial Production (MoM) (Jul) | 8.2% | 1.1% | -0.8% |
+| 06:00 | SGD | Industrial Production (YoY) (Jul) | 7.1% |  | 7.1% |
 | 07:45 | EUR | French Consumer Confidence (Aug) | 87 | 90 | 88 |
 | 08:00 | ZAR | Leading Indicators (Jun) | 111.70% |  | 111.29% |
 | 09:30 | HKD | Exports (MoM) (Jul) | 14.3% |  | 11.9% |
@@ -31,4 +31,4 @@
 | 15:30 | USD | Dallas Fed Services Revenues (Aug) | 8.6 |  | 6.3 |
 | 15:30 | USD | Texas Services Sector Outlook (Aug) | 6.8 |  | 2.0 |
 | 18:00 | USD | M2 Money Supply (MoM) (Jul) | 22.12T |  | 22.02T |
-| 22:00 | KRW | Manufacturing BSI Index |  |  | 68 |
+| 22:00 | KRW | Manufacturing BSI Index | 70 |  | 68 |
