@@ -7,8 +7,8 @@
 | 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 2.9% | 3.2% | 3.2% |
 | 02:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
 | 06:00 | JPY | Moderate | BoJ Core CPI (YoY) | 2.0% | 2.4% | 2.3% |
-| 06:00 | SGD | Low | Industrial Production (YoY) (Jul) | 7.1% |  | 7.1% |
 | 06:00 | SGD | Low | Industrial Production (MoM) (Jul) | 8.2% | 1.1% | -0.8% |
+| 06:00 | SGD | Low | Industrial Production (YoY) (Jul) | 7.1% |  | 7.1% |
 | 07:45 | EUR | Low | French Consumer Confidence (Aug) | 87 | 90 | 88 |
 | 08:00 | ZAR | Low | Leading Indicators (Jun) | 111.70% |  | 111.29% |
 | 09:30 | HKD | Low | Exports (MoM) (Jul) | 14.3% |  | 11.9% |
@@ -39,9 +39,9 @@
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 2.2% | 2.3% | 2.3% |
 | 15:30 | USD | Low | Dallas Fed Services Revenues (Aug) | 8.6 |  | 6.3 |
 | 15:30 | USD | Low | Texas Services Sector Outlook (Aug) | 6.8 |  | 2.0 |
-| 53 min | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
-| 18:00 | USD | Moderate | 2-Year Note Auction |  |  | 3.920% |
-| 18:00 | USD | Low | M2 Money Supply (MoM) (Jul) |  |  | 22.02T |
+| 17:00 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
+| 52 min | USD | Moderate | 2-Year Note Auction |  |  | 3.920% |
+| 52 min | USD | Low | M2 Money Supply (MoM) (Jul) |  |  | 22.02T |
 | 19:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.700M | -2.400M |
 | 22:00 | KRW | Low | Manufacturing BSI Index |  |  | 68 |
