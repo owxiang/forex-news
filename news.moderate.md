@@ -5,9 +5,9 @@
 | 00:15 | USD | FOMC Member Williams Speaks |  |  |  |
 | 02:30 | AUD | RBA Meeting Minutes |  |  |  |
 | 06:00 | JPY | BoJ Core CPI (YoY) | 2.0% | 2.4% | 2.3% |
-| 13:30 | USD | Core Durable Goods Orders (MoM) (Jul) |  | 0.2% | 0.2% |
-| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jun) |  |  | 0.4% |
-| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jun) |  | 2.1% | 2.8% |
+| 18 min | USD | Core Durable Goods Orders (MoM) (Jul) |  | 0.2% | 0.2% |
+| 48 min | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jun) |  |  | 0.4% |
+| 48 min | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jun) |  | 2.1% | 2.8% |
 | 16:30 | USD | Atlanta Fed GDPNow (Q3) |  | 2.3% | 2.3% |
 | 17:00 | GBP | BoE MPC Member Mann Speaks |  |  |  |
 | 18:00 | USD | 2-Year Note Auction |  |  | 3.920% |

@@ -14,23 +14,24 @@
 | 09:30 | HKD | Low | Exports (MoM) (Jul) | 14.3% |  | 11.9% |
 | 09:30 | HKD | Low | Imports (MoM) (Jul) | 16.5% |  | 11.1% |
 | 09:30 | HKD | Low | Trade Balance (Jul) | -34.1B |  | -58.9B |
-| 24 min | BRL | Low | Current Account (USD) (Jul) |  | -5.50B | -5.13B |
-| 24 min | BRL | Low | Foreign direct investment (USD) (Jul) |  | 5.00B | 2.81B |
-| 54 min | BRL | Low | Mid-Month CPI (MoM) (Aug) |  | -0.23% | 0.33% |
-| 54 min | BRL | Low | Mid-Month CPI (YoY) (Aug) |  | 4.88% | 5.30% |
-| 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Jul) |  | 0.2% | 0.2% |
-| 13:30 | USD | High | Durable Goods Orders (MoM) (Jul) |  | -9.4% | -9.4% |
-| 13:30 | USD | Low | Durables Excluding Defense (MoM) (Jul) |  | -3.8% | -9.3% |
-| 13:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Jul) |  | 0.3% | -0.7% |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 5.9% |
-| 14:00 | USD | Low | House Price Index (MoM) (Jun) |  | -0.1% | -0.2% |
-| 14:00 | USD | Low | House Price Index (YoY) (Jun) |  |  | 2.8% |
-| 14:00 | USD | Low | House Price Index (Jun) |  |  | 434.4 |
-| 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Jun) |  |  | -0.3% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jun) |  |  | 0.4% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jun) |  | 2.1% | 2.8% |
-| 14:00 | CAD | Low | Manufacturing Sales (MoM) (Jul) |  |  | 0.3% |
+| 10:10 | EUR | Low | Italian 2-Year CTZ Auction | 2.200% |  | 2.120% |
+| 12:30 | BRL | Low | Current Account (USD) (Jul) | -7.07B | -5.50B | -5.13B |
+| 12:30 | BRL | Low | Foreign direct investment (USD) (Jul) | 8.32B | 5.00B | 2.81B |
+| 13:00 | BRL | Low | Mid-Month CPI (MoM) (Aug) | -0.14% | -0.23% | 0.33% |
+| 13:00 | BRL | Low | Mid-Month CPI (YoY) (Aug) | 4.95% | 4.88% | 5.30% |
+| 18 min | USD | Moderate | Core Durable Goods Orders (MoM) (Jul) |  | 0.2% | 0.2% |
+| 18 min | USD | High | Durable Goods Orders (MoM) (Jul) |  | -9.4% | -9.4% |
+| 18 min | USD | Low | Durables Excluding Defense (MoM) (Jul) |  | -3.8% | -9.3% |
+| 18 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 18 min | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Jul) |  | 0.3% | -0.7% |
+| 43 min | USD | Low | Redbook (YoY) |  |  | 5.9% |
+| 48 min | USD | Low | House Price Index (YoY) (Jun) |  |  | 2.8% |
+| 48 min | USD | Low | House Price Index (MoM) (Jun) |  | -0.1% | -0.2% |
+| 48 min | USD | Low | House Price Index (Jun) |  |  | 434.4 |
+| 48 min | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Jun) |  |  | -0.3% |
+| 48 min | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jun) |  |  | 0.4% |
+| 48 min | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jun) |  | 2.1% | 2.8% |
+| 48 min | CAD | Low | Manufacturing Sales (MoM) (Jul) |  |  | 0.3% |
 | 15:00 | USD | High | CB Consumer Confidence (Aug) |  | 96.4 | 97.2 |
 | 15:00 | USD | Low | Richmond Manufacturing Index (Aug) |  | -11 | -20 |
 | 15:00 | USD | Low | Richmond Manufacturing Shipments (Aug) |  |  | -18 |

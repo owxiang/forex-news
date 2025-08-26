@@ -11,19 +11,20 @@
 | 09:30 | HKD | Exports (MoM) (Jul) | 14.3% |  | 11.9% |
 | 09:30 | HKD | Imports (MoM) (Jul) | 16.5% |  | 11.1% |
 | 09:30 | HKD | Trade Balance (Jul) | -34.1B |  | -58.9B |
-| 24 min | BRL | Current Account (USD) (Jul) |  | -5.50B | -5.13B |
-| 24 min | BRL | Foreign direct investment (USD) (Jul) |  | 5.00B | 2.81B |
-| 54 min | BRL | Mid-Month CPI (MoM) (Aug) |  | -0.23% | 0.33% |
-| 54 min | BRL | Mid-Month CPI (YoY) (Aug) |  | 4.88% | 5.30% |
-| 13:30 | USD | Durables Excluding Defense (MoM) (Jul) |  | -3.8% | -9.3% |
-| 13:30 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Jul) |  | 0.3% | -0.7% |
-| 13:55 | USD | Redbook (YoY) |  |  | 5.9% |
-| 14:00 | USD | House Price Index (MoM) (Jun) |  | -0.1% | -0.2% |
-| 14:00 | USD | House Price Index (YoY) (Jun) |  |  | 2.8% |
-| 14:00 | USD | House Price Index (Jun) |  |  | 434.4 |
-| 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Jun) |  |  | -0.3% |
-| 14:00 | CAD | Manufacturing Sales (MoM) (Jul) |  |  | 0.3% |
+| 10:10 | EUR | Italian 2-Year CTZ Auction | 2.200% |  | 2.120% |
+| 12:30 | BRL | Current Account (USD) (Jul) | -7.07B | -5.50B | -5.13B |
+| 12:30 | BRL | Foreign direct investment (USD) (Jul) | 8.32B | 5.00B | 2.81B |
+| 13:00 | BRL | Mid-Month CPI (MoM) (Aug) | -0.14% | -0.23% | 0.33% |
+| 13:00 | BRL | Mid-Month CPI (YoY) (Aug) | 4.95% | 4.88% | 5.30% |
+| 18 min | USD | Durables Excluding Defense (MoM) (Jul) |  | -3.8% | -9.3% |
+| 18 min | USD | FOMC Member Barkin Speaks |  |  |  |
+| 18 min | USD | Goods Orders Non Defense Ex Air (MoM) (Jul) |  | 0.3% | -0.7% |
+| 43 min | USD | Redbook (YoY) |  |  | 5.9% |
+| 48 min | USD | House Price Index (YoY) (Jun) |  |  | 2.8% |
+| 48 min | USD | House Price Index (MoM) (Jun) |  | -0.1% | -0.2% |
+| 48 min | USD | House Price Index (Jun) |  |  | 434.4 |
+| 48 min | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Jun) |  |  | -0.3% |
+| 48 min | CAD | Manufacturing Sales (MoM) (Jul) |  |  | 0.3% |
 | 15:00 | USD | Richmond Manufacturing Index (Aug) |  | -11 | -20 |
 | 15:00 | USD | Richmond Manufacturing Shipments (Aug) |  |  | -18 |
 | 15:00 | USD | Richmond Services Index (Aug) |  |  | 2 |
