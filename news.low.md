@@ -14,8 +14,8 @@
 | 10:10 | EUR | Italian 2-Year CTZ Auction | 2.200% |  | 2.120% |
 | 12:30 | BRL | Current Account (USD) (Jul) | -7.07B | -5.50B | -5.13B |
 | 12:30 | BRL | Foreign direct investment (USD) (Jul) | 8.32B | 5.00B | 2.81B |
-| 13:00 | BRL | Mid-Month CPI (YoY) (Aug) | 4.95% | 4.88% | 5.30% |
 | 13:00 | BRL | Mid-Month CPI (MoM) (Aug) | -0.14% | -0.23% | 0.33% |
+| 13:00 | BRL | Mid-Month CPI (YoY) (Aug) | 4.95% | 4.88% | 5.30% |
 | 13:30 | USD | Durables Excluding Defense (MoM) (Jul) | -2.5% | -3.6% | -9.5% |
 | 13:30 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Jul) | 1.1% | 0.3% | -0.6% |
@@ -31,4 +31,4 @@
 | 15:30 | USD | Dallas Fed Services Revenues (Aug) | 8.6 |  | 6.3 |
 | 15:30 | USD | Texas Services Sector Outlook (Aug) | 6.8 |  | 2.0 |
 | 18:00 | USD | M2 Money Supply (MoM) (Jul) | 22.12T |  | 22.02T |
-| 53 min | KRW | Manufacturing BSI Index |  |  | 68 |
+| 22:00 | KRW | Manufacturing BSI Index |  |  | 68 |
