@@ -36,10 +36,10 @@
 | 15:00 | USD | Low | Richmond Manufacturing Index (Aug) | -7 | -11 | -20 |
 | 15:00 | USD | Low | Richmond Manufacturing Shipments (Aug) | -5 |  | -18 |
 | 15:00 | USD | Low | Richmond Services Index (Aug) | 4 |  | 2 |
-| 24 min | USD | Low | Dallas Fed Services Revenues (Aug) |  |  | 6.3 |
-| 24 min | USD | Low | Texas Services Sector Outlook (Aug) |  |  | 2.0 |
-| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 2.3% | 2.3% |
-| 17:00 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
+| 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 2.2% | 2.3% | 2.3% |
+| 15:30 | USD | Low | Dallas Fed Services Revenues (Aug) | 8.6 |  | 6.3 |
+| 15:30 | USD | Low | Texas Services Sector Outlook (Aug) | 6.8 |  | 2.0 |
+| 53 min | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 18:00 | USD | Moderate | 2-Year Note Auction |  |  | 3.920% |
 | 18:00 | USD | Low | M2 Money Supply (MoM) (Jul) |  |  | 22.02T |
 | 19:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
