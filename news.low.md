@@ -8,14 +8,14 @@
 | 06:00 | SGD | Industrial Production (MoM) (Jul) | 8.2% | 1.1% | -0.8% |
 | 07:45 | EUR | French Consumer Confidence (Aug) | 87 | 90 | 88 |
 | 08:00 | ZAR | Leading Indicators (Jun) | 111.70% |  | 111.29% |
-| 09:30 | HKD | Exports (MoM) (Jul) |  |  | 11.9% |
-| 09:30 | HKD | Imports (MoM) (Jul) |  |  | 11.1% |
-| 09:30 | HKD | Trade Balance (Jul) |  |  | -58.9B |
+| 20 min | HKD | Exports (MoM) (Jul) |  |  | 11.9% |
+| 20 min | HKD | Imports (MoM) (Jul) |  |  | 11.1% |
+| 20 min | HKD | Trade Balance (Jul) |  |  | -58.9B |
 | 12:00 | EUR | Spanish Consumer Confidence (Jul) |  |  | 76.1 |
 | 12:30 | BRL | Current Account (USD) (Jul) |  | -5.50B | -5.13B |
 | 12:30 | BRL | Foreign direct investment (USD) (Jul) |  | 5.00B | 2.81B |
-| 13:00 | BRL | Mid-Month CPI (YoY) (Aug) |  | 4.88% | 5.30% |
 | 13:00 | BRL | Mid-Month CPI (MoM) (Aug) |  | -0.23% | 0.33% |
+| 13:00 | BRL | Mid-Month CPI (YoY) (Aug) |  | 4.88% | 5.30% |
 | 13:30 | USD | Durables Excluding Defense (MoM) (Jul) |  | -3.8% | -9.3% |
 | 13:30 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Jul) |  | 0.3% | -0.7% |
