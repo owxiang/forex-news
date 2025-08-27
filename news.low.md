@@ -25,6 +25,6 @@
 | 15:30 | USD | Heating Oil Stockpiles | 0.102M |  | -0.503M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -2.0% |  | 0.2% |
 | 15:30 | USD | Gasoline Inventories | -1.236M | -2.500M | -2.720M |
-| 38 min | USD | FOMC Member Barkin Speaks |  |  |  |
+| 16:45 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 18:30 | BRL | CAGED Net Payroll Jobs (Jul) |  |  | 166.62K |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | 0.031B |
