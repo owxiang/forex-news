@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 31 min | AUD | MI Leading Index (MoM) (Jul) |  |  | -0.0% |
-| 02:30 | AUD | Monthly CPI Indicator (YoY) (Jul) |  | 2.30% | 1.90% |
-| 02:30 | CNY | Chinese Industrial profit YTD (Jul) |  |  | -1.8% |
+| 02:00 | AUD | MI Leading Index (MoM) (Jul) | 0.1% |  | -0.0% |
+| 02:30 | AUD | Monthly CPI Indicator (YoY) (Jul) | 2.80% | 2.30% | 1.90% |
+| 02:30 | CNY | Chinese Industrial profit YTD (Jul) | -1.7% |  | -1.8% |
 | 07:00 | NOK | Unemployment Rate (Jul) |  |  | 5.4% |
 | 09:00 | CHF | ZEW Expectations (Aug) |  |  | 2.4 |
 | 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 2.003% |
