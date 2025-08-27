@@ -20,16 +20,16 @@
 | 12:30 | BRL | Low | Bank lending (MoM) (Jul) | 0.4% |  | 0.5% |
 | 13:00 | MXN | Low | Trade Balance (Jul) | -0.017B | 0.300B | 0.514B |
 | 13:00 | MXN | Low | Trade Balance (USD) (Jul) | 0.296B |  | 0.690B |
-| 15:30 | USD | High | Crude Oil Inventories |  | -2.000M | -6.014M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.028M |
-| 15:30 | USD | Low | Crude Oil Imports |  |  | -1.218M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.419M |
-| 15:30 | USD | Low | Distillate Fuel Production |  |  | 0.193M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | 1.100M | 2.343M |
-| 15:30 | USD | Low | Gasoline Production |  |  | -0.259M |
-| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | -0.503M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.2% |
-| 15:30 | USD | Low | Gasoline Inventories |  | -2.500M | -2.720M |
+| 23 min | USD | High | Crude Oil Inventories |  | -1.700M | -6.014M |
+| 23 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.028M |
+| 23 min | USD | Low | Crude Oil Imports |  |  | -1.218M |
+| 23 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.419M |
+| 23 min | USD | Low | Distillate Fuel Production |  |  | 0.193M |
+| 23 min | USD | Low | EIA Weekly Distillates Stocks |  | 1.100M | 2.343M |
+| 23 min | USD | Low | Gasoline Production |  |  | -0.259M |
+| 23 min | USD | Low | Heating Oil Stockpiles |  |  | -0.503M |
+| 23 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.2% |
+| 23 min | USD | Low | Gasoline Inventories |  | -2.500M | -2.720M |
 | 16:45 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 18:00 | USD | Moderate | 5-Year Note Auction |  |  | 3.983% |
 | 18:30 | BRL | Low | CAGED Net Payroll Jobs (Jul) |  |  | 166.62K |

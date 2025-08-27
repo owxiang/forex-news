@@ -17,14 +17,14 @@
 | 12:30 | BRL | Bank lending (MoM) (Jul) | 0.4% |  | 0.5% |
 | 13:00 | MXN | Trade Balance (Jul) | -0.017B | 0.300B | 0.514B |
 | 13:00 | MXN | Trade Balance (USD) (Jul) | 0.296B |  | 0.690B |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.028M |
-| 15:30 | USD | Crude Oil Imports |  |  | -1.218M |
-| 15:30 | USD | Distillate Fuel Production |  |  | 0.193M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  | 1.100M | 2.343M |
-| 15:30 | USD | Gasoline Production |  |  | -0.259M |
-| 15:30 | USD | Heating Oil Stockpiles |  |  | -0.503M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.2% |
-| 15:30 | USD | Gasoline Inventories |  | -2.500M | -2.720M |
+| 23 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.028M |
+| 23 min | USD | Crude Oil Imports |  |  | -1.218M |
+| 23 min | USD | Distillate Fuel Production |  |  | 0.193M |
+| 23 min | USD | EIA Weekly Distillates Stocks |  | 1.100M | 2.343M |
+| 23 min | USD | Gasoline Production |  |  | -0.259M |
+| 23 min | USD | Heating Oil Stockpiles |  |  | -0.503M |
+| 23 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.2% |
+| 23 min | USD | Gasoline Inventories |  | -2.500M | -2.720M |
 | 16:45 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 18:30 | BRL | CAGED Net Payroll Jobs (Jul) |  |  | 166.62K |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | 0.031B |
