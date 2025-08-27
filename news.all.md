@@ -17,10 +17,10 @@
 | 12:00 | USD | Low | MBA Purchase Index | 163.8 |  | 160.3 |
 | 12:00 | USD | Low | Mortgage Market Index | 275.8 |  | 277.1 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 894.1 |  | 926.1 |
-| 24 min | BRL | Low | Bank lending (MoM) (Jul) |  |  | 0.5% |
-| 54 min | MXN | Low | Trade Balance (Jul) |  | 0.300B | 0.514B |
-| 54 min | MXN | Low | Trade Balance (USD) (Jul) |  |  | 0.595B |
-| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Jul) |  |  | 0.7% |
+| 12:30 | BRL | Low | Bank lending (MoM) (Jul) | 0.4% |  | 0.5% |
+| 13:00 | MXN | Low | Trade Balance (Jul) | -0.017B | 0.300B | 0.514B |
+| 13:00 | MXN | Low | Trade Balance (USD) (Jul) | 0.296B |  | 0.595B |
+| 19 min | CAD | Moderate | Wholesale Sales (MoM) (Jul) |  |  | 0.7% |
 | 15:30 | USD | High | Crude Oil Inventories |  | -2.000M | -6.014M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.028M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | -1.218M |
@@ -33,4 +33,5 @@
 | 15:30 | USD | Low | Gasoline Inventories |  | -2.500M | -2.720M |
 | 16:45 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 18:00 | USD | Moderate | 5-Year Note Auction |  |  | 3.983% |
+| 18:30 | BRL | Low | CAGED Net Payroll Jobs (Jul) |  |  | 166.62K |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 0.031B |
