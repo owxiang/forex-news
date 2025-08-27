@@ -12,14 +12,14 @@
 | 10:10 | EUR | Low | Italian 6-Month BOT Auction | 2.012% |  | 2.003% |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Aug) | -32 | -26 | -34 |
 | 11:00 | EUR | Moderate | France Jobseekers Total (Jul) | 3,033.5K |  | 2,980.6K |
-| 53 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.68% |
-| 53 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -1.4% |
-| 53 min | USD | Low | MBA Purchase Index |  |  | 160.3 |
-| 53 min | USD | Low | Mortgage Market Index |  |  | 277.1 |
-| 53 min | USD | Low | Mortgage Refinance Index |  |  | 926.1 |
-| 12:30 | BRL | Low | Bank lending (MoM) (Jul) |  |  | 0.5% |
-| 13:00 | MXN | Low | Trade Balance (Jul) |  | 0.300B | 0.514B |
-| 13:00 | MXN | Low | Trade Balance (USD) (Jul) |  |  | 0.595B |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.69% |  | 6.68% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | -0.5% |  | -1.4% |
+| 12:00 | USD | Low | MBA Purchase Index | 163.8 |  | 160.3 |
+| 12:00 | USD | Low | Mortgage Market Index | 275.8 |  | 277.1 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 894.1 |  | 926.1 |
+| 24 min | BRL | Low | Bank lending (MoM) (Jul) |  |  | 0.5% |
+| 54 min | MXN | Low | Trade Balance (Jul) |  | 0.300B | 0.514B |
+| 54 min | MXN | Low | Trade Balance (USD) (Jul) |  |  | 0.595B |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Jul) |  |  | 0.7% |
 | 15:30 | USD | High | Crude Oil Inventories |  | -2.000M | -6.014M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.028M |

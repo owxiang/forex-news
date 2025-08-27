@@ -9,14 +9,14 @@
 | 09:00 | CHF | ZEW Expectations (Aug) | -53.8 |  | 2.4 |
 | 10:10 | EUR | Italian 6-Month BOT Auction | 2.012% |  | 2.003% |
 | 11:00 | GBP | CBI Distributive Trades Survey (Aug) | -32 | -26 | -34 |
-| 53 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.68% |
-| 53 min | USD | MBA Mortgage Applications (WoW) |  |  | -1.4% |
-| 53 min | USD | MBA Purchase Index |  |  | 160.3 |
-| 53 min | USD | Mortgage Market Index |  |  | 277.1 |
-| 53 min | USD | Mortgage Refinance Index |  |  | 926.1 |
-| 12:30 | BRL | Bank lending (MoM) (Jul) |  |  | 0.5% |
-| 13:00 | MXN | Trade Balance (Jul) |  | 0.300B | 0.514B |
-| 13:00 | MXN | Trade Balance (USD) (Jul) |  |  | 0.595B |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.69% |  | 6.68% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | -0.5% |  | -1.4% |
+| 12:00 | USD | MBA Purchase Index | 163.8 |  | 160.3 |
+| 12:00 | USD | Mortgage Market Index | 275.8 |  | 277.1 |
+| 12:00 | USD | Mortgage Refinance Index | 894.1 |  | 926.1 |
+| 24 min | BRL | Bank lending (MoM) (Jul) |  |  | 0.5% |
+| 54 min | MXN | Trade Balance (Jul) |  | 0.300B | 0.514B |
+| 54 min | MXN | Trade Balance (USD) (Jul) |  |  | 0.595B |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.028M |
 | 15:30 | USD | Crude Oil Imports |  |  | -1.218M |
 | 15:30 | USD | Distillate Fuel Production |  |  | 0.193M |
