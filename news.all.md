@@ -1,36 +1,74 @@
-## 27 August 2025 - All Forex News
+## 28 August 2025 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 02:00 | AUD | Low | MI Leading Index (MoM) (Jul) | 0.1% |  | -0.0% |
-| 02:30 | AUD | Moderate | Construction Work Done (QoQ) (Q2) | 3.0% | 1.0% | -0.3% |
-| 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (Jul) | 2.80% | 2.30% | 1.90% |
-| 02:30 | CNY | Low | Chinese Industrial profit YTD (Jul) | -1.7% |  | -1.8% |
-| 07:00 | EUR | Moderate | GfK German Consumer Climate (Sep) | -23.6 | -21.5 | -21.7 |
-| 07:00 | NOK | Low | Unemployment Rate (Jul) | 4.5% |  | 5.5% |
-| 09:00 | CHF | Low | ZEW Expectations (Aug) | -53.8 |  | 2.4 |
-| 10:10 | EUR | Low | Italian 6-Month BOT Auction | 2.012% |  | 2.003% |
-| 11:00 | GBP | Low | CBI Distributive Trades Survey (Aug) | -32 | -26 | -34 |
-| 11:00 | EUR | Moderate | France Jobseekers Total (Jul) | 3,033.5K |  | 2,980.6K |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.69% |  | 6.68% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | -0.5% |  | -1.4% |
-| 12:00 | USD | Low | MBA Purchase Index | 163.8 |  | 160.3 |
-| 12:00 | USD | Low | Mortgage Market Index | 275.8 |  | 277.1 |
-| 12:00 | USD | Low | Mortgage Refinance Index | 894.1 |  | 926.1 |
-| 12:30 | BRL | Low | Bank lending (MoM) (Jul) | 0.4% |  | 0.5% |
-| 13:00 | MXN | Low | Trade Balance (Jul) | -0.017B | 0.300B | 0.514B |
-| 13:00 | MXN | Low | Trade Balance (USD) (Jul) | 0.296B |  | 0.690B |
-| 15:30 | USD | High | Crude Oil Inventories | -2.392M | -1.700M | -6.014M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | -0.328M |  | 0.028M |
-| 15:30 | USD | Low | Crude Oil Imports | 0.299M |  | -1.218M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | -0.838M |  | 0.419M |
-| 15:30 | USD | Low | Distillate Fuel Production | -0.113M |  | 0.193M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks | -1.786M | 1.100M | 2.343M |
-| 15:30 | USD | Low | Gasoline Production | 0.427M |  | -0.259M |
-| 15:30 | USD | Low | Heating Oil Stockpiles | 0.102M |  | -0.503M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -2.0% |  | 0.2% |
-| 15:30 | USD | Low | Gasoline Inventories | -1.236M | -2.500M | -2.720M |
-| 16:45 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 18:00 | USD | Moderate | 5-Year Note Auction | 3.724% |  | 3.983% |
-| 18:30 | BRL | Low | CAGED Net Payroll Jobs (Jul) | 129.78K |  | 166.62K |
-| 18:30 | BRL | Low | Foreign Exchange Flows | -1.982B |  | 0.031B |
+| 44 min | JPY | Low | Foreign Bonds Buying |  |  | -313.6B |
+| 44 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 1,161.7B |
+| 02:00 | KRW | Low | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
+| 02:00 | KRW | Low | Interest Rate Decision (Aug) |  |  | 2.50% |
+| 02:00 | NZD | Low | ANZ Business Confidence (Aug) |  |  | 47.8 |
+| 02:00 | NZD | Low | NBNZ Own Activity (Aug) |  |  | 40.6% |
+| 02:30 | AUD | Low | Building Capital Expenditure (MoM) (Q2) |  |  | 0.9% |
+| 02:30 | AUD | Low | Plant/Machinery Capital Expenditure (QoQ) (Q2) |  |  | -1.3% |
+| 02:30 | AUD | Moderate | Private New Capital Expenditure (QoQ) (Q2) |  | 0.8% | -0.1% |
+| 02:30 | JPY | Moderate | BoJ Board Member Nakagawa Speaks |  |  |  |
+| 04:35 | JPY | Low | 2-Year JGB Auction |  |  | 0.841% |
+| 05:00 | GBP | Low | Car Registration (YoY) (Jul) |  |  | 6.7% |
+| 05:00 | GBP | Low | Car Registration (MoM) (Jul) |  |  | 27.5% |
+| 05:00 | EUR | Low | Italian Car Registration (MoM) (Jul) |  |  | -5.1% |
+| 05:00 | EUR | Low | Italian Car Registration (YoY) (Jul) |  |  | -17.4% |
+| 05:00 | EUR | Low | German Car Registration (MoM) (Jul) |  |  | 7.1% |
+| 05:00 | EUR | Low | German Car Registration (YoY) (Jul) |  |  | -13.8% |
+| 05:00 | EUR | Low | French Car Registration (MoM) (Jul) |  |  | 36.8% |
+| 05:00 | EUR | Low | French Car Registration (YoY) (Jul) |  |  | -6.7% |
+| 08:00 | CHF | Moderate | GDP (YoY) (Q2) |  |  | 2.0% |
+| 08:00 | CHF | Moderate | GDP (QoQ) (Q2) |  | 0.1% | 0.5% |
+| 09:00 | EUR | Low | Italian Business Confidence (Aug) |  |  | 87.8 |
+| 09:00 | EUR | Low | Italian Consumer Confidence (Aug) |  |  | 97.2 |
+| 09:00 | EUR | Low | M3 Money Supply (YoY) (Jul) |  | 3.5% | 3.3% |
+| 09:00 | EUR | Low | Loans to Non Financial Corporations (Jul) |  |  | 2.7% |
+| 09:00 | EUR | Low | Private Sector Loans (YoY) (Jul) |  | 2.4% | 2.2% |
+| 10:00 | EUR | Low | Italian Industrial Sales (YoY) (Jun) |  |  | -1.80% |
+| 10:00 | EUR | Low | Italian Industrial Sales (MoM) (Jun) |  |  | -2.20% |
+| 10:00 | EUR | Low | Business and Consumer Survey (Aug) |  | 95.9 | 95.8 |
+| 10:00 | EUR | Low | Business Climate (Aug) |  |  | -0.72 |
+| 10:00 | EUR | Low | Consumer Confidence (Aug) |  | -15.5 | -15.5 |
+| 10:00 | EUR | Low | Consumer Inflation Expectation (Aug) |  |  | 25.1 |
+| 10:00 | EUR | Low | Selling Price Expectations (Aug) |  |  | 9.2 |
+| 10:00 | EUR | Low | Services Sentiment (Aug) |  | 4.2 | 4.1 |
+| 10:00 | EUR | Low | Industrial Sentiment (Aug) |  | -11.0 | -10.4 |
+| 10:30 | ZAR | Low | PPI (YoY) (Jul) |  |  | 0.6% |
+| 10:30 | ZAR | Low | PPI (MoM) (Jul) |  |  | 0.2% |
+| 11:30 | INR | Low | Cumulative Industrial Production (Jul) |  |  | 2.00% |
+| 11:30 | INR | Low | Industrial Production (YoY) (Jul) |  |  | 1.5% |
+| 11:30 | INR | Low | Manufacturing Output (MoM) (Jul) |  |  | 3.9% |
+| 12:00 | EUR | Low | Spanish Business Confidence |  |  | -4.9 |
+| 12:00 | BRL | Low | IGP-M Inflation Index (MoM) (Aug) |  |  | -0.77% |
+| 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 13:00 | MXN | Low | Unemployment Rate (Jul) |  |  | 2.60% |
+| 13:00 | MXN | Low | Unemployment Rate n.s.a. (Jul) |  |  | 2.70% |
+| 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
+| 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,972K |
+| 13:30 | USD | Moderate | Core PCE Prices (Q2) |  | 2.50% | 3.50% |
+| 13:30 | USD | Low | Corporate Profits (QoQ) (Q2) |  |  | -3.3% |
+| 13:30 | USD | High | GDP (QoQ) (Q2) |  | 3.0% | -0.5% |
+| 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q2) |  | 2.0% | 3.8% |
+| 13:30 | USD | Low | GDP Sales (Q2) |  | 6.3% | -3.1% |
+| 13:30 | USD | High | Initial Jobless Claims |  | 231K | 235K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 226.25K |
+| 13:30 | USD | Low | PCE Prices (Q2) |  | 2.1% | 2.1% |
+| 13:30 | USD | Low | Real Consumer Spending (Q2) |  | 1.4% | 0.5% |
+| 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Jun) |  |  | 3.31% |
+| 13:30 | CAD | Moderate | Current Account (Q2) |  | -18.6B | -2.1B |
+| 15:00 | USD | Moderate | Pending Home Sales (MoM) (Jul) |  | -0.3% | -0.8% |
+| 15:00 | USD | Low | Pending Home Sales Index (Jul) |  |  | 72.0 |
+| 15:30 | USD | Low | Natural Gas Storage |  |  | 13B |
+| 16:00 | USD | Low | KC Fed Composite Index (Aug) |  |  | 1 |
+| 16:00 | USD | Low | KC Fed Manufacturing Index (Aug) |  |  | -3 |
+| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.300% |
+| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.220% |
+| 18:00 | USD | Moderate | 7-Year Note Auction |  |  | 4.092% |
+| 18:30 | BRL | Low | CAGED Net Payroll Jobs (Jul) |  |  | 166.62K |
+| 21:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,620B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.298T |
