@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 02:00 | AUD | Low | MI Leading Index (MoM) (Jul) |  |  | -0.0% |
+| 31 min | AUD | Low | MI Leading Index (MoM) (Jul) |  |  | -0.0% |
 | 02:30 | AUD | Moderate | Construction Work Done (QoQ) (Q2) |  | 1.0% | 0.0% |
 | 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (Jul) |  | 2.30% | 1.90% |
 | 02:30 | CNY | Low | Chinese Industrial profit YTD (Jul) |  |  | -1.8% |

@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | AUD | MI Leading Index (MoM) (Jul) |  |  | -0.0% |
+| 31 min | AUD | MI Leading Index (MoM) (Jul) |  |  | -0.0% |
 | 02:30 | AUD | Monthly CPI Indicator (YoY) (Jul) |  | 2.30% | 1.90% |
 | 02:30 | CNY | Chinese Industrial profit YTD (Jul) |  |  | -1.8% |
 | 07:00 | NOK | Unemployment Rate (Jul) |  |  | 5.4% |
