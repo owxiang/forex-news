@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 02:00 | AUD | Low | MI Leading Index (MoM) (Jul) | 0.1% |  | -0.0% |
-| 02:30 | AUD | Moderate | Construction Work Done (QoQ) (Q2) | 3.0% | 1.0% | 0.0% |
+| 02:30 | AUD | Moderate | Construction Work Done (QoQ) (Q2) | 3.0% | 1.0% | -0.3% |
 | 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (Jul) | 2.80% | 2.30% | 1.90% |
 | 02:30 | CNY | Low | Chinese Industrial profit YTD (Jul) | -1.7% |  | -1.8% |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Sep) |  | -21.5 | -21.5 |
