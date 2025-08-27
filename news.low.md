@@ -16,7 +16,7 @@
 | 12:00 | USD | Mortgage Refinance Index | 894.1 |  | 926.1 |
 | 12:30 | BRL | Bank lending (MoM) (Jul) | 0.4% |  | 0.5% |
 | 13:00 | MXN | Trade Balance (Jul) | -0.017B | 0.300B | 0.514B |
-| 13:00 | MXN | Trade Balance (USD) (Jul) | 0.296B |  | 0.595B |
+| 13:00 | MXN | Trade Balance (USD) (Jul) | 0.296B |  | 0.690B |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.028M |
 | 15:30 | USD | Crude Oil Imports |  |  | -1.218M |
 | 15:30 | USD | Distillate Fuel Production |  |  | 0.193M |

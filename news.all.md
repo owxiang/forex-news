@@ -19,8 +19,7 @@
 | 12:00 | USD | Low | Mortgage Refinance Index | 894.1 |  | 926.1 |
 | 12:30 | BRL | Low | Bank lending (MoM) (Jul) | 0.4% |  | 0.5% |
 | 13:00 | MXN | Low | Trade Balance (Jul) | -0.017B | 0.300B | 0.514B |
-| 13:00 | MXN | Low | Trade Balance (USD) (Jul) | 0.296B |  | 0.595B |
-| 19 min | CAD | Moderate | Wholesale Sales (MoM) (Jul) |  |  | 0.7% |
+| 13:00 | MXN | Low | Trade Balance (USD) (Jul) | 0.296B |  | 0.690B |
 | 15:30 | USD | High | Crude Oil Inventories |  | -2.000M | -6.014M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.028M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | -1.218M |
