@@ -9,9 +9,9 @@
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Sep) | -23.6 | -21.5 | -21.7 |
 | 07:00 | NOK | Low | Unemployment Rate (Jul) | 4.5% |  | 5.5% |
 | 09:00 | CHF | Low | ZEW Expectations (Aug) | -53.8 |  | 2.4 |
-| 10:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 2.003% |
-| 11:00 | GBP | Low | CBI Distributive Trades Survey (Aug) |  | -26 | -34 |
-| 11:00 | EUR | Moderate | France Jobseekers Total (Jul) |  |  | 2,980.6K |
+| 3 min | EUR | Low | Italian 6-Month BOT Auction |  |  | 2.003% |
+| 53 min | GBP | Low | CBI Distributive Trades Survey (Aug) |  | -26 | -34 |
+| 53 min | EUR | Moderate | France Jobseekers Total (Jul) |  |  | 2,980.6K |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.68% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -1.4% |
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 160.3 |

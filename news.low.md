@@ -7,8 +7,8 @@
 | 02:30 | CNY | Chinese Industrial profit YTD (Jul) | -1.7% |  | -1.8% |
 | 07:00 | NOK | Unemployment Rate (Jul) | 4.5% |  | 5.5% |
 | 09:00 | CHF | ZEW Expectations (Aug) | -53.8 |  | 2.4 |
-| 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 2.003% |
-| 11:00 | GBP | CBI Distributive Trades Survey (Aug) |  | -26 | -34 |
+| 3 min | EUR | Italian 6-Month BOT Auction |  |  | 2.003% |
+| 53 min | GBP | CBI Distributive Trades Survey (Aug) |  | -26 | -34 |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.68% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -1.4% |
 | 12:00 | USD | MBA Purchase Index |  |  | 160.3 |
