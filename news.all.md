@@ -9,14 +9,14 @@
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Sep) | -23.6 | -21.5 | -21.7 |
 | 07:00 | NOK | Low | Unemployment Rate (Jul) | 4.5% |  | 5.5% |
 | 09:00 | CHF | Low | ZEW Expectations (Aug) | -53.8 |  | 2.4 |
-| 3 min | EUR | Low | Italian 6-Month BOT Auction |  |  | 2.003% |
-| 53 min | GBP | Low | CBI Distributive Trades Survey (Aug) |  | -26 | -34 |
-| 53 min | EUR | Moderate | France Jobseekers Total (Jul) |  |  | 2,980.6K |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.68% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -1.4% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 160.3 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 277.1 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 926.1 |
+| 10:10 | EUR | Low | Italian 6-Month BOT Auction | 2.012% |  | 2.003% |
+| 11:00 | GBP | Low | CBI Distributive Trades Survey (Aug) | -32 | -26 | -34 |
+| 11:00 | EUR | Moderate | France Jobseekers Total (Jul) | 3,033.5K |  | 2,980.6K |
+| 53 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.68% |
+| 53 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -1.4% |
+| 53 min | USD | Low | MBA Purchase Index |  |  | 160.3 |
+| 53 min | USD | Low | Mortgage Market Index |  |  | 277.1 |
+| 53 min | USD | Low | Mortgage Refinance Index |  |  | 926.1 |
 | 12:30 | BRL | Low | Bank lending (MoM) (Jul) |  |  | 0.5% |
 | 13:00 | MXN | Low | Trade Balance (Jul) |  | 0.300B | 0.514B |
 | 13:00 | MXN | Low | Trade Balance (USD) (Jul) |  |  | 0.595B |
