@@ -32,5 +32,5 @@
 | 15:30 | USD | Low | Gasoline Inventories | -1.236M | -2.500M | -2.720M |
 | 16:45 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 18:00 | USD | Moderate | 5-Year Note Auction | 3.724% |  | 3.983% |
-| 23 min | BRL | Low | CAGED Net Payroll Jobs (Jul) |  |  | 166.62K |
-| 23 min | BRL | Low | Foreign Exchange Flows |  |  | 0.031B |
+| 18:30 | BRL | Low | CAGED Net Payroll Jobs (Jul) | 129.78K |  | 166.62K |
+| 18:30 | BRL | Low | Foreign Exchange Flows | -1.982B |  | 0.031B |

@@ -26,5 +26,5 @@
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -2.0% |  | 0.2% |
 | 15:30 | USD | Gasoline Inventories | -1.236M | -2.500M | -2.720M |
 | 16:45 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 23 min | BRL | CAGED Net Payroll Jobs (Jul) |  |  | 166.62K |
-| 23 min | BRL | Foreign Exchange Flows |  |  | 0.031B |
+| 18:30 | BRL | CAGED Net Payroll Jobs (Jul) | 129.78K |  | 166.62K |
+| 18:30 | BRL | Foreign Exchange Flows | -1.982B |  | 0.031B |
