@@ -6,4 +6,4 @@
 | 07:00 | EUR | GfK German Consumer Climate (Sep) | -23.6 | -21.5 | -21.7 |
 | 11:00 | EUR | France Jobseekers Total (Jul) | 3,033.5K |  | 2,980.6K |
 | 15:30 | USD | Cushing Crude Oil Inventories | -0.838M |  | 0.419M |
-| 52 min | USD | 5-Year Note Auction |  |  | 3.983% |
+| 18:00 | USD | 5-Year Note Auction | 3.724% |  | 3.983% |
