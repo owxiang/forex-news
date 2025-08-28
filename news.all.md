@@ -19,15 +19,15 @@
 | 05:00 | EUR | Low | Italian Car Registration (YoY) (Jul) | -5.1% |  | -17.4% |
 | 05:00 | EUR | Low | German Car Registration (MoM) (Jul) | 3.4% |  | 7.1% |
 | 05:00 | EUR | Low | German Car Registration (YoY) (Jul) | 11.1% |  | -13.8% |
-| 05:00 | EUR | Low | French Car Registration (YoY) (Jul) | -7.7% |  | -6.7% |
 | 05:00 | EUR | Low | French Car Registration (MoM) (Jul) | -31.3% |  | 36.8% |
-| 50 min | CHF | Moderate | GDP (YoY) (Q2) |  | 1.4% | 2.0% |
-| 50 min | CHF | Moderate | GDP (QoQ) (Q2) |  | 0.1% | 0.5% |
-| 09:00 | EUR | Low | Italian Business Confidence (Aug) |  | 87.2 | 87.8 |
-| 09:00 | EUR | Low | Italian Consumer Confidence (Aug) |  | 96.6 | 97.2 |
-| 09:00 | EUR | Low | M3 Money Supply (YoY) (Jul) |  | 3.5% | 3.3% |
-| 09:00 | EUR | Low | Loans to Non Financial Corporations (Jul) |  |  | 2.7% |
-| 09:00 | EUR | Low | Private Sector Loans (YoY) (Jul) |  | 2.4% | 2.2% |
+| 05:00 | EUR | Low | French Car Registration (YoY) (Jul) | -7.7% |  | -6.7% |
+| 08:00 | CHF | Moderate | GDP (YoY) (Q2) | 1.2% | 1.4% | 1.8% |
+| 08:00 | CHF | Moderate | GDP (QoQ) (Q2) | 0.1% | 0.1% | 0.4% |
+| 53 min | EUR | Low | Italian Business Confidence (Aug) |  | 87.2 | 87.8 |
+| 53 min | EUR | Low | Italian Consumer Confidence (Aug) |  | 96.6 | 97.2 |
+| 53 min | EUR | Low | M3 Money Supply (YoY) (Jul) |  | 3.5% | 3.3% |
+| 53 min | EUR | Low | Loans to Non Financial Corporations (Jul) |  |  | 2.7% |
+| 53 min | EUR | Low | Private Sector Loans (YoY) (Jul) |  | 2.4% | 2.2% |
 | 10:00 | EUR | Low | Italian Industrial Sales (YoY) (Jun) |  |  | -1.80% |
 | 10:00 | EUR | Low | Italian Industrial Sales (MoM) (Jun) |  |  | -2.20% |
 | 10:00 | EUR | Low | Business and Consumer Survey (Aug) |  | 96.0 | 95.8 |

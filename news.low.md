@@ -17,13 +17,13 @@
 | 05:00 | EUR | Italian Car Registration (YoY) (Jul) | -5.1% |  | -17.4% |
 | 05:00 | EUR | German Car Registration (MoM) (Jul) | 3.4% |  | 7.1% |
 | 05:00 | EUR | German Car Registration (YoY) (Jul) | 11.1% |  | -13.8% |
-| 05:00 | EUR | French Car Registration (YoY) (Jul) | -7.7% |  | -6.7% |
 | 05:00 | EUR | French Car Registration (MoM) (Jul) | -31.3% |  | 36.8% |
-| 09:00 | EUR | Italian Business Confidence (Aug) |  | 87.2 | 87.8 |
-| 09:00 | EUR | Italian Consumer Confidence (Aug) |  | 96.6 | 97.2 |
-| 09:00 | EUR | M3 Money Supply (YoY) (Jul) |  | 3.5% | 3.3% |
-| 09:00 | EUR | Loans to Non Financial Corporations (Jul) |  |  | 2.7% |
-| 09:00 | EUR | Private Sector Loans (YoY) (Jul) |  | 2.4% | 2.2% |
+| 05:00 | EUR | French Car Registration (YoY) (Jul) | -7.7% |  | -6.7% |
+| 53 min | EUR | Italian Business Confidence (Aug) |  | 87.2 | 87.8 |
+| 53 min | EUR | Italian Consumer Confidence (Aug) |  | 96.6 | 97.2 |
+| 53 min | EUR | M3 Money Supply (YoY) (Jul) |  | 3.5% | 3.3% |
+| 53 min | EUR | Loans to Non Financial Corporations (Jul) |  |  | 2.7% |
+| 53 min | EUR | Private Sector Loans (YoY) (Jul) |  | 2.4% | 2.2% |
 | 10:00 | EUR | Italian Industrial Sales (YoY) (Jun) |  |  | -1.80% |
 | 10:00 | EUR | Italian Industrial Sales (MoM) (Jun) |  |  | -2.20% |
 | 10:00 | EUR | Business and Consumer Survey (Aug) |  | 96.0 | 95.8 |
