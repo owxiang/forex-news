@@ -13,12 +13,12 @@
 | 04:35 | JPY | 2-Year JGB Auction | 0.863% |  | 0.841% |
 | 05:00 | GBP | Car Registration (YoY) (Jul) | -5.0% |  | 6.7% |
 | 05:00 | GBP | Car Registration (MoM) (Jul) | -26.7% |  | 27.5% |
-| 05:00 | EUR | Italian Car Registration (MoM) (Jul) | -10.4% |  | -5.1% |
 | 05:00 | EUR | Italian Car Registration (YoY) (Jul) | -5.1% |  | -17.4% |
-| 05:00 | EUR | German Car Registration (MoM) (Jul) | 3.4% |  | 7.1% |
+| 05:00 | EUR | Italian Car Registration (MoM) (Jul) | -10.4% |  | -5.1% |
 | 05:00 | EUR | German Car Registration (YoY) (Jul) | 11.1% |  | -13.8% |
-| 05:00 | EUR | French Car Registration (MoM) (Jul) | -31.3% |  | 36.8% |
+| 05:00 | EUR | German Car Registration (MoM) (Jul) | 3.4% |  | 7.1% |
 | 05:00 | EUR | French Car Registration (YoY) (Jul) | -7.7% |  | -6.7% |
+| 05:00 | EUR | French Car Registration (MoM) (Jul) | -31.3% |  | 36.8% |
 | 09:00 | EUR | Italian Business Confidence (Aug) | 87.4 | 87.2 | 87.8 |
 | 09:00 | EUR | Italian Consumer Confidence (Aug) | 96.2 | 96.6 | 97.2 |
 | 09:00 | EUR | M3 Money Supply (YoY) (Jul) | 3.4% | 3.5% | 3.3% |
@@ -36,14 +36,14 @@
 | 10:30 | EUR | Italian 5-Year BTP Auction | 2.80% |  | 2.80% |
 | 10:30 | ZAR | PPI (YoY) (Jul) | 1.5% |  | 0.6% |
 | 10:30 | ZAR | PPI (MoM) (Jul) | 0.7% |  | 0.2% |
-| 23 min | INR | Cumulative Industrial Production (Jul) |  |  | 2.00% |
-| 23 min | INR | Industrial Production (YoY) (Jul) |  | 2.1% | 1.5% |
-| 23 min | INR | Manufacturing Output (MoM) (Jul) |  |  | 3.9% |
-| 53 min | EUR | Spanish Business Confidence |  |  | -4.9 |
-| 53 min | BRL | IGP-M Inflation Index (MoM) (Aug) |  | 0.21% | -0.77% |
-| 13:00 | MXN | Unemployment Rate (Jul) |  |  | 2.60% |
-| 13:00 | MXN | Unemployment Rate n.s.a. (Jul) |  | 2.90% | 2.70% |
-| 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
+| 11:30 | INR | Cumulative Industrial Production (Jul) | 2.30% |  | 2.00% |
+| 11:30 | INR | Industrial Production (YoY) (Jul) | 3.5% | 2.1% | 1.5% |
+| 11:30 | INR | Manufacturing Output (MoM) (Jul) | 5.4% |  | 3.9% |
+| 12:00 | EUR | Spanish Business Confidence | -6.7 |  | -4.9 |
+| 12:00 | BRL | IGP-M Inflation Index (MoM) (Aug) | 0.36% | 0.21% | -0.77% |
+| 54 min | MXN | Unemployment Rate (Jul) |  |  | 2.60% |
+| 54 min | MXN | Unemployment Rate n.s.a. (Jul) |  | 2.90% | 2.70% |
+| 54 min | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 13:30 | USD | Corporate Profits (QoQ) (Q2) |  |  | -3.3% |
 | 13:30 | USD | GDP Sales (Q2) |  | 6.3% | -3.1% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 226.25K |
