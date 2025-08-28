@@ -1,18 +1,48 @@
-## 28 August 2025 - Moderate Impact Forex News
+## 29 August 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Private New Capital Expenditure (QoQ) (Q2) | 0.2% | 0.8% | -0.2% |
-| 02:30 | JPY | BoJ Board Member Nakagawa Speaks |  |  |  |
-| 08:00 | CHF | GDP (QoQ) (Q2) | 0.1% | 0.1% | 0.4% |
-| 08:00 | CHF | GDP (YoY) (Q2) | 1.2% | 1.4% | 1.8% |
-| 10:30 | EUR | Italian 10-Year BTP Auction | 3.58% |  | 3.52% |
-| 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims | 1,954K | 1,970K | 1,961K |
-| 13:30 | USD | Core PCE Prices (Q2) | 2.50% | 2.50% | 3.50% |
-| 13:30 | USD | GDP Price Index (QoQ) (Q2) | 2.0% | 2.0% | 3.8% |
-| 13:30 | CAD | Current Account (Q2) | -21.2B | -18.8B | -1.3B |
-| 15:00 | USD | Pending Home Sales (MoM) (Jul) | -0.4% | -0.4% | -0.8% |
-| 18:00 | USD | 7-Year Note Auction | 3.925% |  | 4.092% |
-| 21:00 | USD | Fed Waller Speaks |  |  |  |
-| 21:30 | USD | Fed's Balance Sheet | 6,603B |  | 6,620B |
+| 24 min | JPY | Tokyo Core CPI (YoY) (Aug) |  | 2.5% | 2.9% |
+| 44 min | JPY | Industrial Production (MoM) (Jul) |  | -1.1% | 2.1% |
+| 07:00 | EUR | German Retail Sales (MoM) (Jul) |  | 0.0% | 1.0% |
+| 07:45 | EUR | French Consumer Spending (MoM) (Jul) |  | -0.3% | 0.6% |
+| 07:45 | EUR | French CPI (MoM) (Aug) |  | 0.5% | 0.2% |
+| 07:45 | EUR | French GDP (QoQ) (Q2) |  | 0.3% | 0.1% |
+| 07:45 | EUR | French GDP (YoY) (Q2) |  | 0.7% | 0.6% |
+| 07:45 | EUR | French HICP (MoM) (Aug) |  | 0.5% | 0.3% |
+| 08:00 | CHF | KOF Leading Indicators (Sep) |  | 97.9 | 101.1 |
+| 08:00 | EUR | Spanish CPI (YoY) (Aug) |  | 2.8% | 2.7% |
+| 08:00 | EUR | Spanish HICP (YoY) (Aug) |  | 2.7% | 2.7% |
+| 08:55 | EUR | German Unemployment Change (Aug) |  | 10K | 2K |
+| 08:55 | EUR | German Unemployment Rate (Aug) |  | 6.3% | 6.3% |
+| 10:00 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 11:30 | INR | GDP Quarterly (YoY) (Q1) |  | 6.6% | 7.4% |
+| 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Jul) |  | 77.0% | 76.6% |
+| 13:00 | EUR | German CPI (YoY) (Aug) |  | 2.1% | 2.0% |
+| 13:00 | BRL | Unemployment Rate (Jul) |  |  | 5.8% |
+| 13:30 | USD | Goods Trade Balance (Jul) |  | -90.20B | -84.85B |
+| 13:30 | USD | PCE Price index (YoY) (Jul) |  | 2.6% | 2.6% |
+| 13:30 | USD | PCE price index (MoM) (Jul) |  | 0.2% | 0.3% |
+| 13:30 | USD | Personal Spending (MoM) (Jul) |  | 0.5% | 0.3% |
+| 13:30 | USD | Retail Inventories Ex Auto (Jul) |  |  | -0.1% |
+| 13:30 | CAD | GDP (MoM) (Jun) |  | 0.1% | -0.1% |
+| 13:30 | CAD | GDP (YoY) (Q2) |  |  | 2.31% |
+| 13:30 | CAD | GDP (QoQ) (Q2) |  |  | 0.5% |
+| 13:30 | CAD | GDP Annualized (QoQ) (Q2) |  | -0.6% | 2.2% |
+| 13:31 | CAD | GDP (MoM) |  |  |  |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (Aug) |  | 4.9% | 4.9% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (Aug) |  | 3.9% | 3.4% |
+| 15:00 | USD | Michigan Consumer Expectations (Aug) |  | 57.2 | 57.7 |
+| 15:00 | USD | Michigan Consumer Sentiment (Aug) |  | 58.6 | 61.7 |
+| 16:30 | USD | Atlanta Fed GDPNow (Q3) |  | 2.2% | 2.2% |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 411 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 538 |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | -25.2K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 120.2K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 212.6K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 33.8K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -171.5K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -94.9K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 30.4K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | 77.6K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 118.7K |
