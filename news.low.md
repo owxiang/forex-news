@@ -10,15 +10,15 @@
 | 02:00 | NZD | NBNZ Own Activity (Aug) | 38.7% |  | 40.6% |
 | 02:30 | AUD | Building Capital Expenditure (MoM) (Q2) | 0.2% |  | 1.0% |
 | 02:30 | AUD | Plant/Machinery Capital Expenditure (QoQ) (Q2) | 0.3% |  | -1.3% |
-| 13 min | JPY | 2-Year JGB Auction |  |  | 0.841% |
-| 38 min | GBP | Car Registration (MoM) (Jul) |  |  | 27.5% |
-| 38 min | GBP | Car Registration (YoY) (Jul) |  |  | 6.7% |
-| 38 min | EUR | Italian Car Registration (MoM) (Jul) |  |  | -5.1% |
-| 38 min | EUR | Italian Car Registration (YoY) (Jul) |  |  | -17.4% |
-| 38 min | EUR | German Car Registration (YoY) (Jul) |  |  | -13.8% |
-| 38 min | EUR | German Car Registration (MoM) (Jul) |  |  | 7.1% |
-| 38 min | EUR | French Car Registration (MoM) (Jul) |  |  | 36.8% |
-| 38 min | EUR | French Car Registration (YoY) (Jul) |  |  | -6.7% |
+| 04:35 | JPY | 2-Year JGB Auction | 0.863% |  | 0.841% |
+| 05:00 | GBP | Car Registration (MoM) (Jul) | -26.7% |  | 27.5% |
+| 05:00 | GBP | Car Registration (YoY) (Jul) | -5.0% |  | 6.7% |
+| 05:00 | EUR | Italian Car Registration (YoY) (Jul) | -5.1% |  | -17.4% |
+| 05:00 | EUR | Italian Car Registration (MoM) (Jul) | -10.4% |  | -5.1% |
+| 05:00 | EUR | German Car Registration (YoY) (Jul) | 11.1% |  | -13.8% |
+| 05:00 | EUR | German Car Registration (MoM) (Jul) | 3.4% |  | 7.1% |
+| 05:00 | EUR | French Car Registration (MoM) (Jul) | -31.3% |  | 36.8% |
+| 05:00 | EUR | French Car Registration (YoY) (Jul) | -7.7% |  | -6.7% |
 | 09:00 | EUR | Italian Business Confidence (Aug) |  |  | 87.8 |
 | 09:00 | EUR | Italian Consumer Confidence (Aug) |  |  | 97.2 |
 | 09:00 | EUR | M3 Money Supply (YoY) (Jul) |  | 3.5% | 3.3% |

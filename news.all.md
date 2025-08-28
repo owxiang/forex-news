@@ -12,15 +12,15 @@
 | 02:30 | AUD | Low | Plant/Machinery Capital Expenditure (QoQ) (Q2) | 0.3% |  | -1.3% |
 | 02:30 | AUD | Moderate | Private New Capital Expenditure (QoQ) (Q2) | 0.2% | 0.8% | -0.2% |
 | 02:30 | JPY | Moderate | BoJ Board Member Nakagawa Speaks |  |  |  |
-| 13 min | JPY | Low | 2-Year JGB Auction |  |  | 0.841% |
-| 38 min | GBP | Low | Car Registration (MoM) (Jul) |  |  | 27.5% |
-| 38 min | GBP | Low | Car Registration (YoY) (Jul) |  |  | 6.7% |
-| 38 min | EUR | Low | Italian Car Registration (MoM) (Jul) |  |  | -5.1% |
-| 38 min | EUR | Low | Italian Car Registration (YoY) (Jul) |  |  | -17.4% |
-| 38 min | EUR | Low | German Car Registration (YoY) (Jul) |  |  | -13.8% |
-| 38 min | EUR | Low | German Car Registration (MoM) (Jul) |  |  | 7.1% |
-| 38 min | EUR | Low | French Car Registration (MoM) (Jul) |  |  | 36.8% |
-| 38 min | EUR | Low | French Car Registration (YoY) (Jul) |  |  | -6.7% |
+| 04:35 | JPY | Low | 2-Year JGB Auction | 0.863% |  | 0.841% |
+| 05:00 | GBP | Low | Car Registration (MoM) (Jul) | -26.7% |  | 27.5% |
+| 05:00 | GBP | Low | Car Registration (YoY) (Jul) | -5.0% |  | 6.7% |
+| 05:00 | EUR | Low | Italian Car Registration (YoY) (Jul) | -5.1% |  | -17.4% |
+| 05:00 | EUR | Low | Italian Car Registration (MoM) (Jul) | -10.4% |  | -5.1% |
+| 05:00 | EUR | Low | German Car Registration (YoY) (Jul) | 11.1% |  | -13.8% |
+| 05:00 | EUR | Low | German Car Registration (MoM) (Jul) | 3.4% |  | 7.1% |
+| 05:00 | EUR | Low | French Car Registration (MoM) (Jul) | -31.3% |  | 36.8% |
+| 05:00 | EUR | Low | French Car Registration (YoY) (Jul) | -7.7% |  | -6.7% |
 | 08:00 | CHF | Moderate | GDP (QoQ) (Q2) |  | 0.1% | 0.5% |
 | 08:00 | CHF | Moderate | GDP (YoY) (Q2) |  |  | 2.0% |
 | 09:00 | EUR | Low | Italian Business Confidence (Aug) |  |  | 87.8 |
