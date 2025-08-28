@@ -15,8 +15,8 @@
 | 05:00 | GBP | Car Registration (MoM) (Jul) | -26.7% |  | 27.5% |
 | 05:00 | EUR | Italian Car Registration (YoY) (Jul) | -5.1% |  | -17.4% |
 | 05:00 | EUR | Italian Car Registration (MoM) (Jul) | -10.4% |  | -5.1% |
-| 05:00 | EUR | German Car Registration (YoY) (Jul) | 11.1% |  | -13.8% |
 | 05:00 | EUR | German Car Registration (MoM) (Jul) | 3.4% |  | 7.1% |
+| 05:00 | EUR | German Car Registration (YoY) (Jul) | 11.1% |  | -13.8% |
 | 05:00 | EUR | French Car Registration (YoY) (Jul) | -7.7% |  | -6.7% |
 | 05:00 | EUR | French Car Registration (MoM) (Jul) | -31.3% |  | 36.8% |
 | 09:00 | EUR | Italian Business Confidence (Aug) | 87.4 | 87.2 | 87.8 |
@@ -34,8 +34,8 @@
 | 10:00 | EUR | Services Sentiment (Aug) | 3.6 | 3.9 | 4.1 |
 | 10:00 | EUR | Industrial Sentiment (Aug) | -10.3 | -10.0 | -10.5 |
 | 10:30 | EUR | Italian 5-Year BTP Auction | 2.80% |  | 2.80% |
-| 10:30 | ZAR | PPI (YoY) (Jul) | 1.5% |  | 0.6% |
 | 10:30 | ZAR | PPI (MoM) (Jul) | 0.7% |  | 0.2% |
+| 10:30 | ZAR | PPI (YoY) (Jul) | 1.5% |  | 0.6% |
 | 11:30 | INR | Cumulative Industrial Production (Jul) | 2.30% |  | 2.00% |
 | 11:30 | INR | Industrial Production (YoY) (Jul) | 3.5% | 2.1% | 1.5% |
 | 11:30 | INR | Manufacturing Output (MoM) (Jul) | 5.4% |  | 3.7% |
