@@ -2,12 +2,12 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 44 min | JPY | Low | Foreign Bonds Buying |  |  | -313.6B |
-| 44 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 1,161.7B |
-| 02:00 | KRW | Low | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
-| 02:00 | KRW | Low | Interest Rate Decision (Aug) |  |  | 2.50% |
-| 02:00 | NZD | Low | ANZ Business Confidence (Aug) |  |  | 47.8 |
-| 02:00 | NZD | Low | NBNZ Own Activity (Aug) |  |  | 40.6% |
+| 00:50 | JPY | Low | Foreign Bonds Buying | -167.2B |  | -310.9B |
+| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -496.8B |  | 1,167.0B |
+| 31 min | KRW | Low | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
+| 31 min | KRW | Low | Interest Rate Decision (Aug) |  | 2.50% | 2.50% |
+| 31 min | NZD | Low | ANZ Business Confidence (Aug) |  |  | 47.8 |
+| 31 min | NZD | Low | NBNZ Own Activity (Aug) |  |  | 40.6% |
 | 02:30 | AUD | Low | Building Capital Expenditure (MoM) (Q2) |  |  | 0.9% |
 | 02:30 | AUD | Low | Plant/Machinery Capital Expenditure (QoQ) (Q2) |  |  | -1.3% |
 | 02:30 | AUD | Moderate | Private New Capital Expenditure (QoQ) (Q2) |  | 0.8% | -0.1% |
@@ -15,12 +15,12 @@
 | 04:35 | JPY | Low | 2-Year JGB Auction |  |  | 0.841% |
 | 05:00 | GBP | Low | Car Registration (YoY) (Jul) |  |  | 6.7% |
 | 05:00 | GBP | Low | Car Registration (MoM) (Jul) |  |  | 27.5% |
-| 05:00 | EUR | Low | Italian Car Registration (MoM) (Jul) |  |  | -5.1% |
 | 05:00 | EUR | Low | Italian Car Registration (YoY) (Jul) |  |  | -17.4% |
+| 05:00 | EUR | Low | Italian Car Registration (MoM) (Jul) |  |  | -5.1% |
 | 05:00 | EUR | Low | German Car Registration (MoM) (Jul) |  |  | 7.1% |
 | 05:00 | EUR | Low | German Car Registration (YoY) (Jul) |  |  | -13.8% |
-| 05:00 | EUR | Low | French Car Registration (MoM) (Jul) |  |  | 36.8% |
 | 05:00 | EUR | Low | French Car Registration (YoY) (Jul) |  |  | -6.7% |
+| 05:00 | EUR | Low | French Car Registration (MoM) (Jul) |  |  | 36.8% |
 | 08:00 | CHF | Moderate | GDP (YoY) (Q2) |  |  | 2.0% |
 | 08:00 | CHF | Moderate | GDP (QoQ) (Q2) |  | 0.1% | 0.5% |
 | 09:00 | EUR | Low | Italian Business Confidence (Aug) |  |  | 87.8 |
