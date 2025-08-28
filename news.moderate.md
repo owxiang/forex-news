@@ -13,6 +13,6 @@
 | 13:30 | USD | GDP Price Index (QoQ) (Q2) | 2.0% | 2.0% | 3.8% |
 | 13:30 | CAD | Current Account (Q2) | -21.2B | -18.8B | -1.3B |
 | 15:00 | USD | Pending Home Sales (MoM) (Jul) | -0.4% | -0.4% | -0.8% |
-| 18:00 | USD | 7-Year Note Auction |  |  | 4.092% |
+| 52 min | USD | 7-Year Note Auction |  |  | 4.092% |
 | 21:00 | USD | Fed Waller Speaks |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,620B |

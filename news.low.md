@@ -15,8 +15,8 @@
 | 05:00 | GBP | Car Registration (MoM) (Jul) | -26.7% |  | 27.5% |
 | 05:00 | EUR | Italian Car Registration (YoY) (Jul) | -5.1% |  | -17.4% |
 | 05:00 | EUR | Italian Car Registration (MoM) (Jul) | -10.4% |  | -5.1% |
-| 05:00 | EUR | German Car Registration (MoM) (Jul) | 3.4% |  | 7.1% |
 | 05:00 | EUR | German Car Registration (YoY) (Jul) | 11.1% |  | -13.8% |
+| 05:00 | EUR | German Car Registration (MoM) (Jul) | 3.4% |  | 7.1% |
 | 05:00 | EUR | French Car Registration (YoY) (Jul) | -7.7% |  | -6.7% |
 | 05:00 | EUR | French Car Registration (MoM) (Jul) | -31.3% |  | 36.8% |
 | 09:00 | EUR | Italian Business Confidence (Aug) | 87.4 | 87.2 | 87.8 |
@@ -54,6 +54,6 @@
 | 15:30 | USD | Natural Gas Storage | 18B | 27B | 13B |
 | 16:00 | USD | KC Fed Composite Index (Aug) | 1 |  | 1 |
 | 16:00 | USD | KC Fed Manufacturing Index (Aug) | 0 |  | -3 |
-| 23 min | USD | 4-Week Bill Auction |  |  | 4.300% |
-| 23 min | USD | 8-Week Bill Auction |  |  | 4.220% |
+| 16:30 | USD | 4-Week Bill Auction | 4.245% |  | 4.300% |
+| 16:30 | USD | 8-Week Bill Auction | 4.145% |  | 4.220% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.298T |
