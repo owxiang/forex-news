@@ -39,8 +39,8 @@
 | 10:00 | EUR | Low | Industrial Sentiment (Aug) | -10.3 | -10.0 | -10.5 |
 | 10:30 | EUR | Moderate | Italian 10-Year BTP Auction | 3.58% |  | 3.52% |
 | 10:30 | EUR | Low | Italian 5-Year BTP Auction | 2.80% |  | 2.80% |
-| 10:30 | ZAR | Low | PPI (YoY) (Jul) | 1.5% |  | 0.6% |
 | 10:30 | ZAR | Low | PPI (MoM) (Jul) | 0.7% |  | 0.2% |
+| 10:30 | ZAR | Low | PPI (YoY) (Jul) | 1.5% |  | 0.6% |
 | 11:30 | INR | Low | Cumulative Industrial Production (Jul) | 2.30% |  | 2.00% |
 | 11:30 | INR | Low | Industrial Production (YoY) (Jul) | 3.5% | 2.1% | 1.5% |
 | 11:30 | INR | Low | Manufacturing Output (MoM) (Jul) | 5.4% |  | 3.7% |
@@ -70,6 +70,6 @@
 | 16:30 | USD | Low | 4-Week Bill Auction | 4.245% |  | 4.300% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 4.145% |  | 4.220% |
 | 18:00 | USD | Moderate | 7-Year Note Auction | 3.925% |  | 4.092% |
-| 54 min | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,620B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.298T |
+| 21:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 22 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,620B |
+| 22 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.298T |

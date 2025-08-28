@@ -14,5 +14,5 @@
 | 13:30 | CAD | Current Account (Q2) | -21.2B | -18.8B | -1.3B |
 | 15:00 | USD | Pending Home Sales (MoM) (Jul) | -0.4% | -0.4% | -0.8% |
 | 18:00 | USD | 7-Year Note Auction | 3.925% |  | 4.092% |
-| 54 min | USD | Fed Waller Speaks |  |  |  |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 6,620B |
+| 21:00 | USD | Fed Waller Speaks |  |  |  |
+| 22 min | USD | Fed's Balance Sheet |  |  | 6,620B |
