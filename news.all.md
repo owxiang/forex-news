@@ -13,14 +13,14 @@
 | 02:30 | AUD | Moderate | Private New Capital Expenditure (QoQ) (Q2) | 0.2% | 0.8% | -0.2% |
 | 02:30 | JPY | Moderate | BoJ Board Member Nakagawa Speaks |  |  |  |
 | 04:35 | JPY | Low | 2-Year JGB Auction | 0.863% |  | 0.841% |
-| 05:00 | GBP | Low | Car Registration (YoY) (Jul) | -5.0% |  | 6.7% |
 | 05:00 | GBP | Low | Car Registration (MoM) (Jul) | -26.7% |  | 27.5% |
+| 05:00 | GBP | Low | Car Registration (YoY) (Jul) | -5.0% |  | 6.7% |
 | 05:00 | EUR | Low | Italian Car Registration (YoY) (Jul) | -5.1% |  | -17.4% |
 | 05:00 | EUR | Low | Italian Car Registration (MoM) (Jul) | -10.4% |  | -5.1% |
 | 05:00 | EUR | Low | German Car Registration (YoY) (Jul) | 11.1% |  | -13.8% |
 | 05:00 | EUR | Low | German Car Registration (MoM) (Jul) | 3.4% |  | 7.1% |
-| 05:00 | EUR | Low | French Car Registration (YoY) (Jul) | -7.7% |  | -6.7% |
 | 05:00 | EUR | Low | French Car Registration (MoM) (Jul) | -31.3% |  | 36.8% |
+| 05:00 | EUR | Low | French Car Registration (YoY) (Jul) | -7.7% |  | -6.7% |
 | 08:00 | CHF | Moderate | GDP (QoQ) (Q2) | 0.1% | 0.1% | 0.4% |
 | 08:00 | CHF | Moderate | GDP (YoY) (Q2) | 1.2% | 1.4% | 1.8% |
 | 09:00 | EUR | Low | Italian Business Confidence (Aug) | 87.4 | 87.2 | 87.8 |
@@ -28,8 +28,8 @@
 | 09:00 | EUR | Low | M3 Money Supply (YoY) (Jul) | 3.4% | 3.5% | 3.3% |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Jul) | 2.8% |  | 2.7% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) (Jul) | 2.4% | 2.4% | 2.2% |
-| 10:00 | EUR | Low | Italian Industrial Sales (YoY) (Jun) | 0.30% |  | -1.80% |
 | 10:00 | EUR | Low | Italian Industrial Sales (MoM) (Jun) | 1.20% |  | -2.10% |
+| 10:00 | EUR | Low | Italian Industrial Sales (YoY) (Jun) | 0.30% |  | -1.80% |
 | 10:00 | EUR | Low | Business and Consumer Survey (Aug) | 95.2 | 96.0 | 95.7 |
 | 10:00 | EUR | Low | Business Climate (Aug) | -0.72 |  | -0.71 |
 | 10:00 | EUR | Low | Consumer Confidence (Aug) | -15.5 | -15.5 | -14.7 |
@@ -43,25 +43,25 @@
 | 10:30 | ZAR | Low | PPI (MoM) (Jul) | 0.7% |  | 0.2% |
 | 11:30 | INR | Low | Cumulative Industrial Production (Jul) | 2.30% |  | 2.00% |
 | 11:30 | INR | Low | Industrial Production (YoY) (Jul) | 3.5% | 2.1% | 1.5% |
-| 11:30 | INR | Low | Manufacturing Output (MoM) (Jul) | 5.4% |  | 3.9% |
+| 11:30 | INR | Low | Manufacturing Output (MoM) (Jul) | 5.4% |  | 3.7% |
 | 12:00 | EUR | Low | Spanish Business Confidence | -6.7 |  | -4.9 |
 | 12:00 | BRL | Low | IGP-M Inflation Index (MoM) (Aug) | 0.36% | 0.21% | -0.77% |
-| 24 min | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 54 min | MXN | Low | Unemployment Rate (Jul) |  |  | 2.60% |
-| 54 min | MXN | Low | Unemployment Rate n.s.a. (Jul) |  | 2.90% | 2.70% |
-| 54 min | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,970K | 1,972K |
-| 13:30 | USD | Moderate | Core PCE Prices (Q2) |  | 2.50% | 3.50% |
-| 13:30 | USD | Low | Corporate Profits (QoQ) (Q2) |  |  | -3.3% |
-| 13:30 | USD | High | GDP (QoQ) (Q2) |  | 3.0% | -0.5% |
-| 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q2) |  | 2.0% | 3.8% |
-| 13:30 | USD | Low | GDP Sales (Q2) |  | 6.3% | -3.1% |
-| 13:30 | USD | High | Initial Jobless Claims |  | 231K | 235K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 226.25K |
-| 13:30 | USD | Low | PCE Prices (Q2) |  | 2.1% | 3.7% |
-| 13:30 | USD | Low | Real Consumer Spending (Q2) |  | 1.4% | 0.5% |
-| 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Jun) |  |  | 3.31% |
-| 13:30 | CAD | Moderate | Current Account (Q2) |  | -18.8B | -2.1B |
+| 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 13:00 | MXN | Low | Unemployment Rate (Jul) | 2.60% |  | 2.60% |
+| 13:00 | MXN | Low | Unemployment Rate n.s.a. (Jul) | 2.80% | 2.90% | 2.70% |
+| 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
+| 19 min | USD | Moderate | Continuing Jobless Claims |  | 1,970K | 1,972K |
+| 19 min | USD | Moderate | Core PCE Prices (Q2) |  | 2.50% | 3.50% |
+| 19 min | USD | Low | Corporate Profits (QoQ) (Q2) |  |  | -3.3% |
+| 19 min | USD | High | GDP (QoQ) (Q2) |  | 3.0% | -0.5% |
+| 19 min | USD | Moderate | GDP Price Index (QoQ) (Q2) |  | 2.0% | 3.8% |
+| 19 min | USD | Low | GDP Sales (Q2) |  | 6.3% | -3.1% |
+| 19 min | USD | High | Initial Jobless Claims |  | 231K | 235K |
+| 19 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 226.25K |
+| 19 min | USD | Low | PCE Prices (Q2) |  | 2.1% | 3.7% |
+| 19 min | USD | Low | Real Consumer Spending (Q2) |  | 1.4% | 0.5% |
+| 19 min | CAD | Low | Average Weekly Earnings (YoY) (Jun) |  |  | 3.31% |
+| 19 min | CAD | Moderate | Current Account (Q2) |  | -18.8B | -2.1B |
 | 15:00 | USD | Moderate | Pending Home Sales (MoM) (Jul) |  | -0.4% | -0.8% |
 | 15:00 | USD | Low | Pending Home Sales Index (Jul) |  |  | 72.0 |
 | 15:30 | USD | Low | Natural Gas Storage |  | 27B | 13B |
