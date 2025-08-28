@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Private New Capital Expenditure (QoQ) (Q2) |  | 0.8% | -0.1% |
+| 02:30 | AUD | Private New Capital Expenditure (QoQ) (Q2) | 0.2% | 0.8% | -0.2% |
 | 02:30 | JPY | BoJ Board Member Nakagawa Speaks |  |  |  |
-| 08:00 | CHF | GDP (YoY) (Q2) |  |  | 2.0% |
 | 08:00 | CHF | GDP (QoQ) (Q2) |  | 0.1% | 0.5% |
+| 08:00 | CHF | GDP (YoY) (Q2) |  |  | 2.0% |
 | 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims |  |  | 1,972K |
 | 13:30 | USD | Core PCE Prices (Q2) |  | 2.50% | 3.50% |
