@@ -12,24 +12,24 @@
 | 02:30 | AUD | Low | Plant/Machinery Capital Expenditure (QoQ) (Q2) | 0.3% |  | -1.3% |
 | 02:30 | AUD | Moderate | Private New Capital Expenditure (QoQ) (Q2) | 0.2% | 0.8% | -0.2% |
 | 02:30 | JPY | Moderate | BoJ Board Member Nakagawa Speaks |  |  |  |
-| 04:35 | JPY | Low | 2-Year JGB Auction |  |  | 0.841% |
-| 05:00 | GBP | Low | Car Registration (YoY) (Jul) |  |  | 6.7% |
-| 05:00 | GBP | Low | Car Registration (MoM) (Jul) |  |  | 27.5% |
-| 05:00 | EUR | Low | Italian Car Registration (MoM) (Jul) |  |  | -5.1% |
-| 05:00 | EUR | Low | Italian Car Registration (YoY) (Jul) |  |  | -17.4% |
-| 05:00 | EUR | Low | German Car Registration (MoM) (Jul) |  |  | 7.1% |
-| 05:00 | EUR | Low | German Car Registration (YoY) (Jul) |  |  | -13.8% |
-| 05:00 | EUR | Low | French Car Registration (MoM) (Jul) |  |  | 36.8% |
-| 05:00 | EUR | Low | French Car Registration (YoY) (Jul) |  |  | -6.7% |
-| 08:00 | CHF | Moderate | GDP (YoY) (Q2) |  |  | 2.0% |
+| 13 min | JPY | Low | 2-Year JGB Auction |  |  | 0.841% |
+| 38 min | GBP | Low | Car Registration (MoM) (Jul) |  |  | 27.5% |
+| 38 min | GBP | Low | Car Registration (YoY) (Jul) |  |  | 6.7% |
+| 38 min | EUR | Low | Italian Car Registration (MoM) (Jul) |  |  | -5.1% |
+| 38 min | EUR | Low | Italian Car Registration (YoY) (Jul) |  |  | -17.4% |
+| 38 min | EUR | Low | German Car Registration (YoY) (Jul) |  |  | -13.8% |
+| 38 min | EUR | Low | German Car Registration (MoM) (Jul) |  |  | 7.1% |
+| 38 min | EUR | Low | French Car Registration (MoM) (Jul) |  |  | 36.8% |
+| 38 min | EUR | Low | French Car Registration (YoY) (Jul) |  |  | -6.7% |
 | 08:00 | CHF | Moderate | GDP (QoQ) (Q2) |  | 0.1% | 0.5% |
+| 08:00 | CHF | Moderate | GDP (YoY) (Q2) |  |  | 2.0% |
 | 09:00 | EUR | Low | Italian Business Confidence (Aug) |  |  | 87.8 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Aug) |  |  | 97.2 |
 | 09:00 | EUR | Low | M3 Money Supply (YoY) (Jul) |  | 3.5% | 3.3% |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Jul) |  |  | 2.7% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) (Jul) |  | 2.4% | 2.2% |
-| 10:00 | EUR | Low | Italian Industrial Sales (YoY) (Jun) |  |  | -1.80% |
 | 10:00 | EUR | Low | Italian Industrial Sales (MoM) (Jun) |  |  | -2.20% |
+| 10:00 | EUR | Low | Italian Industrial Sales (YoY) (Jun) |  |  | -1.80% |
 | 10:00 | EUR | Low | Business and Consumer Survey (Aug) |  | 95.9 | 95.8 |
 | 10:00 | EUR | Low | Business Climate (Aug) |  |  | -0.72 |
 | 10:00 | EUR | Low | Consumer Confidence (Aug) |  | -15.5 | -15.5 |
@@ -37,8 +37,8 @@
 | 10:00 | EUR | Low | Selling Price Expectations (Aug) |  |  | 9.2 |
 | 10:00 | EUR | Low | Services Sentiment (Aug) |  | 4.2 | 4.1 |
 | 10:00 | EUR | Low | Industrial Sentiment (Aug) |  | -11.0 | -10.4 |
-| 10:30 | ZAR | Low | PPI (YoY) (Jul) |  |  | 0.6% |
 | 10:30 | ZAR | Low | PPI (MoM) (Jul) |  |  | 0.2% |
+| 10:30 | ZAR | Low | PPI (YoY) (Jul) |  |  | 0.6% |
 | 11:30 | INR | Low | Cumulative Industrial Production (Jul) |  |  | 2.00% |
 | 11:30 | INR | Low | Industrial Production (YoY) (Jul) |  |  | 1.5% |
 | 11:30 | INR | Low | Manufacturing Output (MoM) (Jul) |  |  | 3.9% |

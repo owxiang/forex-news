@@ -10,22 +10,22 @@
 | 02:00 | NZD | NBNZ Own Activity (Aug) | 38.7% |  | 40.6% |
 | 02:30 | AUD | Building Capital Expenditure (MoM) (Q2) | 0.2% |  | 1.0% |
 | 02:30 | AUD | Plant/Machinery Capital Expenditure (QoQ) (Q2) | 0.3% |  | -1.3% |
-| 04:35 | JPY | 2-Year JGB Auction |  |  | 0.841% |
-| 05:00 | GBP | Car Registration (YoY) (Jul) |  |  | 6.7% |
-| 05:00 | GBP | Car Registration (MoM) (Jul) |  |  | 27.5% |
-| 05:00 | EUR | Italian Car Registration (MoM) (Jul) |  |  | -5.1% |
-| 05:00 | EUR | Italian Car Registration (YoY) (Jul) |  |  | -17.4% |
-| 05:00 | EUR | German Car Registration (MoM) (Jul) |  |  | 7.1% |
-| 05:00 | EUR | German Car Registration (YoY) (Jul) |  |  | -13.8% |
-| 05:00 | EUR | French Car Registration (MoM) (Jul) |  |  | 36.8% |
-| 05:00 | EUR | French Car Registration (YoY) (Jul) |  |  | -6.7% |
+| 13 min | JPY | 2-Year JGB Auction |  |  | 0.841% |
+| 38 min | GBP | Car Registration (MoM) (Jul) |  |  | 27.5% |
+| 38 min | GBP | Car Registration (YoY) (Jul) |  |  | 6.7% |
+| 38 min | EUR | Italian Car Registration (MoM) (Jul) |  |  | -5.1% |
+| 38 min | EUR | Italian Car Registration (YoY) (Jul) |  |  | -17.4% |
+| 38 min | EUR | German Car Registration (YoY) (Jul) |  |  | -13.8% |
+| 38 min | EUR | German Car Registration (MoM) (Jul) |  |  | 7.1% |
+| 38 min | EUR | French Car Registration (MoM) (Jul) |  |  | 36.8% |
+| 38 min | EUR | French Car Registration (YoY) (Jul) |  |  | -6.7% |
 | 09:00 | EUR | Italian Business Confidence (Aug) |  |  | 87.8 |
 | 09:00 | EUR | Italian Consumer Confidence (Aug) |  |  | 97.2 |
 | 09:00 | EUR | M3 Money Supply (YoY) (Jul) |  | 3.5% | 3.3% |
 | 09:00 | EUR | Loans to Non Financial Corporations (Jul) |  |  | 2.7% |
 | 09:00 | EUR | Private Sector Loans (YoY) (Jul) |  | 2.4% | 2.2% |
-| 10:00 | EUR | Italian Industrial Sales (YoY) (Jun) |  |  | -1.80% |
 | 10:00 | EUR | Italian Industrial Sales (MoM) (Jun) |  |  | -2.20% |
+| 10:00 | EUR | Italian Industrial Sales (YoY) (Jun) |  |  | -1.80% |
 | 10:00 | EUR | Business and Consumer Survey (Aug) |  | 95.9 | 95.8 |
 | 10:00 | EUR | Business Climate (Aug) |  |  | -0.72 |
 | 10:00 | EUR | Consumer Confidence (Aug) |  | -15.5 | -15.5 |
@@ -33,8 +33,8 @@
 | 10:00 | EUR | Selling Price Expectations (Aug) |  |  | 9.2 |
 | 10:00 | EUR | Services Sentiment (Aug) |  | 4.2 | 4.1 |
 | 10:00 | EUR | Industrial Sentiment (Aug) |  | -11.0 | -10.4 |
-| 10:30 | ZAR | PPI (YoY) (Jul) |  |  | 0.6% |
 | 10:30 | ZAR | PPI (MoM) (Jul) |  |  | 0.2% |
+| 10:30 | ZAR | PPI (YoY) (Jul) |  |  | 0.6% |
 | 11:30 | INR | Cumulative Industrial Production (Jul) |  |  | 2.00% |
 | 11:30 | INR | Industrial Production (YoY) (Jul) |  |  | 1.5% |
 | 11:30 | INR | Manufacturing Output (MoM) (Jul) |  |  | 3.9% |
