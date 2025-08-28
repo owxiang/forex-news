@@ -6,7 +6,7 @@
 | 02:30 | JPY | BoJ Board Member Nakagawa Speaks |  |  |  |
 | 08:00 | CHF | GDP (YoY) (Q2) | 1.2% | 1.4% | 1.8% |
 | 08:00 | CHF | GDP (QoQ) (Q2) | 0.1% | 0.1% | 0.4% |
-| 3 min | EUR | Italian 10-Year BTP Auction |  |  | 3.52% |
+| 10:30 | EUR | Italian 10-Year BTP Auction | 3.58% |  | 3.52% |
 | 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,970K | 1,972K |
 | 13:30 | USD | Core PCE Prices (Q2) |  | 2.50% | 3.50% |
