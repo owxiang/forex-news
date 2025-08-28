@@ -13,8 +13,8 @@
 | 04:35 | JPY | 2-Year JGB Auction | 0.863% |  | 0.841% |
 | 05:00 | GBP | Car Registration (YoY) (Jul) | -5.0% |  | 6.7% |
 | 05:00 | GBP | Car Registration (MoM) (Jul) | -26.7% |  | 27.5% |
-| 05:00 | EUR | Italian Car Registration (YoY) (Jul) | -5.1% |  | -17.4% |
 | 05:00 | EUR | Italian Car Registration (MoM) (Jul) | -10.4% |  | -5.1% |
+| 05:00 | EUR | Italian Car Registration (YoY) (Jul) | -5.1% |  | -17.4% |
 | 05:00 | EUR | German Car Registration (MoM) (Jul) | 3.4% |  | 7.1% |
 | 05:00 | EUR | German Car Registration (YoY) (Jul) | 11.1% |  | -13.8% |
 | 05:00 | EUR | French Car Registration (YoY) (Jul) | -7.7% |  | -6.7% |

@@ -15,14 +15,14 @@
 | 04:35 | JPY | Low | 2-Year JGB Auction | 0.863% |  | 0.841% |
 | 05:00 | GBP | Low | Car Registration (YoY) (Jul) | -5.0% |  | 6.7% |
 | 05:00 | GBP | Low | Car Registration (MoM) (Jul) | -26.7% |  | 27.5% |
-| 05:00 | EUR | Low | Italian Car Registration (YoY) (Jul) | -5.1% |  | -17.4% |
 | 05:00 | EUR | Low | Italian Car Registration (MoM) (Jul) | -10.4% |  | -5.1% |
+| 05:00 | EUR | Low | Italian Car Registration (YoY) (Jul) | -5.1% |  | -17.4% |
 | 05:00 | EUR | Low | German Car Registration (MoM) (Jul) | 3.4% |  | 7.1% |
 | 05:00 | EUR | Low | German Car Registration (YoY) (Jul) | 11.1% |  | -13.8% |
 | 05:00 | EUR | Low | French Car Registration (YoY) (Jul) | -7.7% |  | -6.7% |
 | 05:00 | EUR | Low | French Car Registration (MoM) (Jul) | -31.3% |  | 36.8% |
-| 08:00 | CHF | Moderate | GDP (QoQ) (Q2) | 0.1% | 0.1% | 0.4% |
 | 08:00 | CHF | Moderate | GDP (YoY) (Q2) | 1.2% | 1.4% | 1.8% |
+| 08:00 | CHF | Moderate | GDP (QoQ) (Q2) | 0.1% | 0.1% | 0.4% |
 | 09:00 | EUR | Low | Italian Business Confidence (Aug) | 87.4 | 87.2 | 87.8 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Aug) | 96.2 | 96.6 | 97.2 |
 | 09:00 | EUR | Low | M3 Money Supply (YoY) (Jul) | 3.4% | 3.5% | 3.3% |
@@ -70,6 +70,6 @@
 | 16:30 | USD | Low | 4-Week Bill Auction | 4.245% |  | 4.300% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 4.145% |  | 4.220% |
 | 18:00 | USD | Moderate | 7-Year Note Auction | 3.925% |  | 4.092% |
-| 21:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 54 min | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,620B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.298T |
