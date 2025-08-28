@@ -21,8 +21,8 @@
 | 05:00 | EUR | Low | German Car Registration (YoY) (Jul) | 11.1% |  | -13.8% |
 | 05:00 | EUR | Low | French Car Registration (YoY) (Jul) | -7.7% |  | -6.7% |
 | 05:00 | EUR | Low | French Car Registration (MoM) (Jul) | -31.3% |  | 36.8% |
-| 08:00 | CHF | Moderate | GDP (YoY) (Q2) | 1.2% | 1.4% | 1.8% |
 | 08:00 | CHF | Moderate | GDP (QoQ) (Q2) | 0.1% | 0.1% | 0.4% |
+| 08:00 | CHF | Moderate | GDP (YoY) (Q2) | 1.2% | 1.4% | 1.8% |
 | 09:00 | EUR | Low | Italian Business Confidence (Aug) | 87.4 | 87.2 | 87.8 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Aug) | 96.2 | 96.6 | 97.2 |
 | 09:00 | EUR | Low | M3 Money Supply (YoY) (Jul) | 3.4% | 3.5% | 3.3% |
@@ -39,8 +39,8 @@
 | 10:00 | EUR | Low | Industrial Sentiment (Aug) | -10.3 | -10.0 | -10.5 |
 | 10:30 | EUR | Moderate | Italian 10-Year BTP Auction | 3.58% |  | 3.52% |
 | 10:30 | EUR | Low | Italian 5-Year BTP Auction | 2.80% |  | 2.80% |
-| 10:30 | ZAR | Low | PPI (MoM) (Jul) | 0.7% |  | 0.2% |
 | 10:30 | ZAR | Low | PPI (YoY) (Jul) | 1.5% |  | 0.6% |
+| 10:30 | ZAR | Low | PPI (MoM) (Jul) | 0.7% |  | 0.2% |
 | 11:30 | INR | Low | Cumulative Industrial Production (Jul) | 2.30% |  | 2.00% |
 | 11:30 | INR | Low | Industrial Production (YoY) (Jul) | 3.5% | 2.1% | 1.5% |
 | 11:30 | INR | Low | Manufacturing Output (MoM) (Jul) | 5.4% |  | 3.7% |
@@ -69,7 +69,7 @@
 | 16:00 | USD | Low | KC Fed Manufacturing Index (Aug) | 0 |  | -3 |
 | 16:30 | USD | Low | 4-Week Bill Auction | 4.245% |  | 4.300% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 4.145% |  | 4.220% |
-| 18:00 | USD | Moderate | 7-Year Note Auction |  |  | 4.092% |
+| 18:00 | USD | Moderate | 7-Year Note Auction | 3.925% |  | 4.092% |
 | 21:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,620B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.298T |

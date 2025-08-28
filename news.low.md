@@ -34,8 +34,8 @@
 | 10:00 | EUR | Services Sentiment (Aug) | 3.6 | 3.9 | 4.1 |
 | 10:00 | EUR | Industrial Sentiment (Aug) | -10.3 | -10.0 | -10.5 |
 | 10:30 | EUR | Italian 5-Year BTP Auction | 2.80% |  | 2.80% |
-| 10:30 | ZAR | PPI (MoM) (Jul) | 0.7% |  | 0.2% |
 | 10:30 | ZAR | PPI (YoY) (Jul) | 1.5% |  | 0.6% |
+| 10:30 | ZAR | PPI (MoM) (Jul) | 0.7% |  | 0.2% |
 | 11:30 | INR | Cumulative Industrial Production (Jul) | 2.30% |  | 2.00% |
 | 11:30 | INR | Industrial Production (YoY) (Jul) | 3.5% | 2.1% | 1.5% |
 | 11:30 | INR | Manufacturing Output (MoM) (Jul) | 5.4% |  | 3.7% |
