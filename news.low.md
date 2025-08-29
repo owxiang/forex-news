@@ -61,29 +61,28 @@
 | 09:30 | HKD | M3 Money Supply (Jul) | 6.2% |  | 8.4% |
 | 10:00 | EUR | Italian CPI (MoM) (Aug) | 0.1% | 0.2% | 0.4% |
 | 10:00 | EUR | Italian CPI (YoY) (Aug) | 1.6% | 1.7% | 1.7% |
-| 10:00 | EUR | Italian HICP (MoM) (Aug) | -0.2% | -0.1% | -1.0% |
 | 10:00 | EUR | Italian HICP (YoY) (Aug) | 1.7% | 1.8% | 1.7% |
+| 10:00 | EUR | Italian HICP (MoM) (Aug) | -0.2% | -0.1% | -1.0% |
 | 10:00 | ZAR | Budget Balance (MoM) (Jul) | -150.85B |  | 48.75B |
 | 11:00 | INR | Federal Fiscal Deficit (Jul) | 4,684.16B |  | 2,807.32B |
-| 12:00 | EUR | Spanish Consumer Confidence (Jul) |  |  | 76.1 |
-| 24 min | INR | Bank Loan Growth |  |  | 10.0% |
-| 24 min | INR | Deposit Growth |  |  | 10.2% |
-| 24 min | INR | FX Reserves, USD |  |  | 695.11B |
-| 24 min | INR | RBI Monetary and Credit Information Review |  |  |  |
-| 24 min | BRL | Net Debt-to-GDP ratio (Jul) |  |  | 62.9% |
-| 24 min | BRL | Budget Balance (Jul) |  | -113.700B | -108.107B |
-| 24 min | BRL | Budget Surplus (Jul) |  |  | -47.091B |
-| 54 min | EUR | German HICP (MoM) (Aug) |  | 0.0% | 0.4% |
-| 54 min | EUR | German HICP (YoY) (Aug) |  | 2.0% | 1.8% |
-| 54 min | ZAR | Trade Balance (Jul) |  |  | 22.04B |
-| 13:30 | USD | Personal Income (MoM) (Jul) |  | 0.4% | 0.3% |
-| 13:30 | USD | Real Personal Consumption (MoM) (Jul) |  |  | 0.1% |
-| 13:30 | USD | Wholesale Inventories (MoM) (Jul) |  | 0.1% | 0.1% |
-| 13:30 | CAD | GDP Implicit Price (QoQ) (Q2) |  |  | 0.60% |
-| 14:00 | USD | Dallas Fed PCE (Jul) |  |  | 3.40% |
+| 12:30 | INR | Bank Loan Growth | 10.2% |  | 10.0% |
+| 12:30 | INR | Deposit Growth | 10.1% |  | 10.2% |
+| 12:30 | INR | FX Reserves, USD | 690.72B |  | 695.11B |
+| 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
+| 12:30 | BRL | Net Debt-to-GDP ratio (Jul) | 63.7% |  | 62.9% |
+| 12:30 | BRL | Budget Balance (Jul) | -175.576B | -113.700B | -108.107B |
+| 12:30 | BRL | Budget Surplus (Jul) | -66.566B |  | -47.091B |
+| 13:00 | EUR | German HICP (YoY) (Aug) | 2.1% | 2.0% | 1.8% |
+| 13:00 | EUR | German HICP (MoM) (Aug) | 0.1% | 0.0% | 0.4% |
+| 13:00 | ZAR | Trade Balance (Jul) | 20.29B |  | 20.96B |
+| 19 min | USD | Personal Income (MoM) (Jul) |  | 0.4% | 0.3% |
+| 19 min | USD | Real Personal Consumption (MoM) (Jul) |  |  | 0.1% |
+| 19 min | USD | Wholesale Inventories (MoM) (Jul) |  | 0.1% | 0.1% |
+| 19 min | CAD | GDP Implicit Price (QoQ) (Q2) |  |  | 0.60% |
+| 49 min | USD | Dallas Fed PCE (Jul) |  |  | 3.40% |
 | 15:00 | USD | Michigan Current Conditions (Aug) |  | 60.9 | 68.0 |
-| 16:00 | CAD | Budget Balance (Jun) |  |  | -0.23B |
 | 16:00 | CAD | Budget Balance (YoY) (Jun) |  |  | -6.50B |
+| 16:00 | CAD | Budget Balance (Jun) |  |  | -0.23B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.1K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 26.0K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -133.2K |
