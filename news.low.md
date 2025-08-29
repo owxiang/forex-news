@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Industrial Production (YoY) (Jul) | 5.0% | 3.5% | 1.6% |
 | 00:00 | KRW | Industrial Production (MoM) (Jul) | 0.3% | 0.4% | 1.7% |
+| 00:00 | KRW | Industrial Production (YoY) (Jul) | 5.0% | 3.5% | 1.6% |
 | 00:00 | KRW | Retail Sales (MoM) (Jul) | 2.5% |  | 0.7% |
 | 00:00 | KRW | Service Sector Output (MoM) (Jul) | 0.2% |  | 0.5% |
 | 00:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Aug) | 1.5% |  | 3.1% |
@@ -44,16 +44,16 @@
 | 08:55 | EUR | German Unemployment n.s.a. (Aug) | 3.025M |  | 2.979M |
 | 09:00 | EUR | Italian GDP (YoY) (Q2) | 0.4% | 0.4% | 0.7% |
 | 09:00 | EUR | Italian GDP (QoQ) (Q2) | -0.1% | -0.1% | 0.3% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Aug) | 2.5% |  | 2.3% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Aug) | -0.1% |  | 0.4% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Aug) | 2.5% |  | 2.3% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Aug) | 2.1% |  | 1.9% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Aug) | 0.1% |  | 0.3% |
-| 09:00 | EUR | Brandenburg CPI (MoM) (Aug) | 0.0% |  | 0.3% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Aug) | 2.5% |  | 2.2% |
-| 09:00 | EUR | Hesse CPI (YoY) (Aug) | 2.4% |  | 2.4% |
+| 09:00 | EUR | Brandenburg CPI (MoM) (Aug) | 0.0% |  | 0.3% |
 | 09:00 | EUR | Hesse CPI (MoM) (Aug) | 0.0% |  | 0.3% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Aug) | 2.0% |  | 1.8% |
+| 09:00 | EUR | Hesse CPI (YoY) (Aug) | 2.4% |  | 2.4% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Aug) | 0.1% |  | 0.2% |
+| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Aug) | 2.0% |  | 1.8% |
 | 09:00 | EUR | Saxony CPI (YoY) (Aug) | 2.2% |  | 2.1% |
 | 09:00 | EUR | Saxony CPI (MoM) (Aug) | 0.0% |  | 0.2% |
 | 09:00 | EUR | Spanish Current account (Jun) | 5.03B |  | 6.44B |
@@ -64,18 +64,18 @@
 | 10:00 | EUR | Italian HICP (MoM) (Aug) | -0.2% | -0.1% | -1.0% |
 | 10:00 | EUR | Italian HICP (YoY) (Aug) | 1.7% | 1.8% | 1.7% |
 | 10:00 | ZAR | Budget Balance (MoM) (Jul) | -150.85B |  | 48.75B |
-| 11:00 | INR | Federal Fiscal Deficit (Jul) |  |  | 2,807.32B |
-| 53 min | EUR | Spanish Consumer Confidence (Jul) |  |  | 76.1 |
-| 12:30 | INR | Bank Loan Growth |  |  | 10.0% |
-| 12:30 | INR | Deposit Growth |  |  | 10.2% |
-| 12:30 | INR | FX Reserves, USD |  |  | 695.11B |
-| 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
-| 12:30 | BRL | Net Debt-to-GDP ratio (Jul) |  |  | 62.9% |
-| 12:30 | BRL | Budget Balance (Jul) |  | -113.700B | -108.107B |
-| 12:30 | BRL | Budget Surplus (Jul) |  |  | -47.091B |
-| 13:00 | EUR | German HICP (YoY) (Aug) |  | 2.0% | 1.8% |
-| 13:00 | EUR | German HICP (MoM) (Aug) |  | 0.0% | 0.4% |
-| 13:00 | ZAR | Trade Balance (Jul) |  |  | 22.04B |
+| 11:00 | INR | Federal Fiscal Deficit (Jul) | 4,684.16B |  | 2,807.32B |
+| 12:00 | EUR | Spanish Consumer Confidence (Jul) |  |  | 76.1 |
+| 24 min | INR | Bank Loan Growth |  |  | 10.0% |
+| 24 min | INR | Deposit Growth |  |  | 10.2% |
+| 24 min | INR | FX Reserves, USD |  |  | 695.11B |
+| 24 min | INR | RBI Monetary and Credit Information Review |  |  |  |
+| 24 min | BRL | Net Debt-to-GDP ratio (Jul) |  |  | 62.9% |
+| 24 min | BRL | Budget Balance (Jul) |  | -113.700B | -108.107B |
+| 24 min | BRL | Budget Surplus (Jul) |  |  | -47.091B |
+| 54 min | EUR | German HICP (MoM) (Aug) |  | 0.0% | 0.4% |
+| 54 min | EUR | German HICP (YoY) (Aug) |  | 2.0% | 1.8% |
+| 54 min | ZAR | Trade Balance (Jul) |  |  | 22.04B |
 | 13:30 | USD | Personal Income (MoM) (Jul) |  | 0.4% | 0.3% |
 | 13:30 | USD | Real Personal Consumption (MoM) (Jul) |  |  | 0.1% |
 | 13:30 | USD | Wholesale Inventories (MoM) (Jul) |  | 0.1% | 0.1% |
