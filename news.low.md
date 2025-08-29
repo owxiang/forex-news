@@ -42,8 +42,8 @@
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Jul) | 4.7% |  | 6.2% |
 | 08:55 | EUR | German Unemployment (Aug) | 2.957M |  | 2.970M |
 | 08:55 | EUR | German Unemployment n.s.a. (Aug) | 3.025M |  | 2.979M |
-| 09:00 | EUR | Italian GDP (YoY) (Q2) | 0.4% | 0.4% | 0.7% |
 | 09:00 | EUR | Italian GDP (QoQ) (Q2) | -0.1% | -0.1% | 0.3% |
+| 09:00 | EUR | Italian GDP (YoY) (Q2) | 0.4% | 0.4% | 0.7% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Aug) | -0.1% |  | 0.4% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Aug) | 2.5% |  | 2.3% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Aug) | 2.1% |  | 1.9% |
@@ -54,13 +54,13 @@
 | 09:00 | EUR | Hesse CPI (YoY) (Aug) | 2.4% |  | 2.4% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Aug) | 0.1% |  | 0.2% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Aug) | 2.0% |  | 1.8% |
-| 09:00 | EUR | Saxony CPI (YoY) (Aug) | 2.2% |  | 2.1% |
 | 09:00 | EUR | Saxony CPI (MoM) (Aug) | 0.0% |  | 0.2% |
+| 09:00 | EUR | Saxony CPI (YoY) (Aug) | 2.2% |  | 2.1% |
 | 09:00 | EUR | Spanish Current account (Jun) | 5.03B |  | 6.44B |
 | 09:00 | NOK | Central Bank Currency Purchase (Sep) | -150.0M |  | -150.0M |
 | 09:30 | HKD | M3 Money Supply (Jul) | 6.2% |  | 8.4% |
-| 10:00 | EUR | Italian CPI (MoM) (Aug) | 0.1% | 0.2% | 0.4% |
 | 10:00 | EUR | Italian CPI (YoY) (Aug) | 1.6% | 1.7% | 1.7% |
+| 10:00 | EUR | Italian CPI (MoM) (Aug) | 0.1% | 0.2% | 0.4% |
 | 10:00 | EUR | Italian HICP (YoY) (Aug) | 1.7% | 1.8% | 1.7% |
 | 10:00 | EUR | Italian HICP (MoM) (Aug) | -0.2% | -0.1% | -1.0% |
 | 10:00 | ZAR | Budget Balance (MoM) (Jul) | -150.85B |  | 48.75B |

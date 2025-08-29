@@ -32,7 +32,7 @@
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Aug) | 3.5% | 3.9% | 3.4% |
 | 15:00 | USD | Michigan Consumer Expectations (Aug) | 55.9 | 57.2 | 57.7 |
 | 15:00 | USD | Michigan Consumer Sentiment (Aug) | 58.2 | 58.6 | 61.7 |
-| 24 min | USD | Atlanta Fed GDPNow (Q3) |  | 2.2% | 2.2% |
+| 16:00 | USD | Atlanta Fed GDPNow (Q3) | 3.5% | 2.2% | 2.2% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  | 408 | 411 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 538 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -25.2K |
