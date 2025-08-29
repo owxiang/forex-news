@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | Industrial Production (YoY) (Jul) | 5.0% | 3.5% | 1.6% |
 | 00:00 | KRW | Low | Industrial Production (MoM) (Jul) | 0.3% | 0.4% | 1.7% |
+| 00:00 | KRW | Low | Industrial Production (YoY) (Jul) | 5.0% | 3.5% | 1.6% |
 | 00:00 | KRW | Low | Retail Sales (MoM) (Jul) | 2.5% |  | 0.7% |
 | 00:00 | KRW | Low | Service Sector Output (MoM) (Jul) | 0.2% |  | 0.5% |
 | 00:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Aug) | 1.5% |  | 3.1% |
@@ -60,8 +60,8 @@
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Aug) | 2.5% |  | 2.3% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Aug) | 2.1% |  | 1.9% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Aug) | 0.1% |  | 0.3% |
-| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Aug) | 0.0% |  | 0.3% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Aug) | 2.5% |  | 2.2% |
+| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Aug) | 0.0% |  | 0.3% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Aug) | 0.0% |  | 0.3% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Aug) | 2.4% |  | 2.4% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Aug) | 0.1% |  | 0.2% |
@@ -73,8 +73,8 @@
 | 09:30 | HKD | Low | M3 Money Supply (Jul) | 6.2% |  | 8.4% |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Aug) | 0.1% | 0.2% | 0.4% |
 | 10:00 | EUR | Low | Italian CPI (YoY) (Aug) | 1.6% | 1.7% | 1.7% |
-| 10:00 | EUR | Low | Italian HICP (MoM) (Aug) | -0.2% | -0.1% | -1.0% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Aug) | 1.7% | 1.8% | 1.7% |
+| 10:00 | EUR | Low | Italian HICP (MoM) (Aug) | -0.2% | -0.1% | -1.0% |
 | 10:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 10:00 | ZAR | Low | Budget Balance (MoM) (Jul) | -150.85B |  | 48.75B |
 | 11:00 | INR | Low | Federal Fiscal Deficit (Jul) | 4,684.16B |  | 2,807.32B |
@@ -87,25 +87,25 @@
 | 12:30 | BRL | Low | Budget Balance (Jul) | -175.576B | -113.700B | -108.107B |
 | 12:30 | BRL | Low | Budget Surplus (Jul) | -66.566B |  | -47.091B |
 | 12:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Jul) | 77.6% | 77.0% | 76.6% |
-| 13:00 | EUR | Moderate | German CPI (YoY) (Aug) | 2.2% | 2.1% | 2.0% |
 | 13:00 | EUR | High | German CPI (MoM) (Aug) | 0.1% | 0.0% | 0.3% |
+| 13:00 | EUR | Moderate | German CPI (YoY) (Aug) | 2.2% | 2.1% | 2.0% |
 | 13:00 | EUR | Low | German HICP (MoM) (Aug) | 0.1% | 0.0% | 0.4% |
 | 13:00 | EUR | Low | German HICP (YoY) (Aug) | 2.1% | 2.0% | 1.8% |
 | 13:00 | ZAR | Low | Trade Balance (Jul) | 20.29B |  | 20.96B |
 | 13:30 | USD | High | Core PCE Price Index (MoM) (Jul) | 0.3% | 0.3% | 0.3% |
 | 13:30 | USD | High | Core PCE Price Index (YoY) (Jul) | 2.9% | 2.9% | 2.8% |
 | 13:30 | USD | Moderate | Goods Trade Balance (Jul) | -103.60B | -90.20B | -84.85B |
-| 13:30 | USD | Moderate | PCE price index (MoM) (Jul) | 0.2% | 0.2% | 0.3% |
 | 13:30 | USD | Moderate | PCE Price index (YoY) (Jul) | 2.6% | 2.6% | 2.6% |
+| 13:30 | USD | Moderate | PCE price index (MoM) (Jul) | 0.2% | 0.2% | 0.3% |
 | 13:30 | USD | Low | Personal Income (MoM) (Jul) | 0.4% | 0.4% | 0.3% |
 | 13:30 | USD | Moderate | Personal Spending (MoM) (Jul) | 0.5% | 0.5% | 0.4% |
 | 13:30 | USD | Low | Real Personal Consumption (MoM) (Jul) | 0.3% |  | 0.1% |
 | 13:30 | USD | Moderate | Retail Inventories Ex Auto (Jul) | 0.1% |  | -0.1% |
 | 13:30 | USD | Low | Wholesale Inventories (MoM) (Jul) | 0.2% | 0.1% | 0.1% |
 | 13:30 | CAD | Low | GDP Implicit Price (QoQ) (Q2) | 0.00% |  | 0.70% |
-| 13:30 | CAD | Moderate | GDP (YoY) (Q2) | 1.21% |  | 2.26% |
 | 13:30 | CAD | Moderate | GDP (QoQ) (Q2) | -0.4% |  | 0.5% |
 | 13:30 | CAD | Moderate | GDP (MoM) (Jun) | -0.1% | 0.1% | -0.1% |
+| 13:30 | CAD | Moderate | GDP (YoY) (Q2) | 1.21% |  | 2.26% |
 | 13:30 | CAD | Moderate | GDP Annualized (QoQ) (Q2) | -1.6% | -0.6% | 2.0% |
 | 13:31 | CAD | Moderate | GDP (MoM) (Jul) | 0.1% |  | -0.1% |
 | 14:45 | USD | High | Chicago PMI (Aug) | 41.5 | 46.6 | 47.1 |
@@ -115,9 +115,9 @@
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Aug) | 55.9 | 57.2 | 57.7 |
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Aug) | 58.2 | 58.6 | 61.7 |
 | 15:00 | USD | Low | Michigan Current Conditions (Aug) | 61.7 | 60.9 | 68.0 |
-| 53 min | CAD | Low | Budget Balance (Jun) |  |  | -0.23B |
-| 53 min | CAD | Low | Budget Balance (YoY) (Jun) |  |  | -6.50B |
-| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 2.2% | 2.2% |
+| 16:00 | CAD | Low | Budget Balance (Jun) | 3.63B |  | -0.23B |
+| 16:00 | CAD | Low | Budget Balance (YoY) (Jun) | -3.34B |  | -6.50B |
+| 24 min | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 2.2% | 2.2% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  | 408 | 411 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 538 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -25.2K |
