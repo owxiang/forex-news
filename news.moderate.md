@@ -7,8 +7,8 @@
 | 07:00 | EUR | German Retail Sales (MoM) (Jul) | -1.5% | 0.0% | 1.0% |
 | 07:45 | EUR | French Consumer Spending (MoM) (Jul) | -0.3% | -0.3% | 0.4% |
 | 07:45 | EUR | French CPI (MoM) (Aug) | 0.4% | 0.5% | 0.2% |
-| 07:45 | EUR | French GDP (QoQ) (Q2) | 0.3% | 0.3% | 0.1% |
 | 07:45 | EUR | French GDP (YoY) (Q2) | 0.8% | 0.7% | 0.6% |
+| 07:45 | EUR | French GDP (QoQ) (Q2) | 0.3% | 0.3% | 0.1% |
 | 07:45 | EUR | French HICP (MoM) (Aug) | 0.5% | 0.5% | 0.3% |
 | 08:00 | EUR | Spanish CPI (YoY) (Aug) | 2.7% | 2.8% | 2.7% |
 | 08:00 | EUR | Spanish HICP (YoY) (Aug) | 2.7% | 2.7% | 2.7% |
@@ -23,9 +23,9 @@
 | 13:30 | USD | PCE price index (MoM) (Jul) | 0.2% | 0.2% | 0.3% |
 | 13:30 | USD | Personal Spending (MoM) (Jul) | 0.5% | 0.5% | 0.4% |
 | 13:30 | USD | Retail Inventories Ex Auto (Jul) | 0.1% |  | -0.1% |
+| 13:30 | CAD | GDP (MoM) (Jun) | -0.1% | 0.1% | -0.1% |
 | 13:30 | CAD | GDP (YoY) (Q2) | 1.21% |  | 2.26% |
 | 13:30 | CAD | GDP (QoQ) (Q2) | -0.4% |  | 0.5% |
-| 13:30 | CAD | GDP (MoM) (Jun) | -0.1% | 0.1% | -0.1% |
 | 13:30 | CAD | GDP Annualized (QoQ) (Q2) | -1.6% | -0.6% | 2.0% |
 | 13:31 | CAD | GDP (MoM) (Jul) | 0.1% |  | -0.1% |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Aug) | 4.8% | 4.9% | 4.9% |
