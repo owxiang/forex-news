@@ -42,12 +42,12 @@
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Jul) | 4.7% |  | 6.2% |
 | 08:55 | EUR | German Unemployment (Aug) | 2.957M |  | 2.970M |
 | 08:55 | EUR | German Unemployment n.s.a. (Aug) | 3.025M |  | 2.979M |
-| 09:00 | EUR | Italian GDP (QoQ) (Q2) | -0.1% | -0.1% | 0.3% |
 | 09:00 | EUR | Italian GDP (YoY) (Q2) | 0.4% | 0.4% | 0.7% |
+| 09:00 | EUR | Italian GDP (QoQ) (Q2) | -0.1% | -0.1% | 0.3% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Aug) | 2.5% |  | 2.3% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Aug) | -0.1% |  | 0.4% |
-| 09:00 | EUR | Bavaria CPI (MoM) (Aug) | 0.1% |  | 0.3% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Aug) | 2.1% |  | 1.9% |
+| 09:00 | EUR | Bavaria CPI (MoM) (Aug) | 0.1% |  | 0.3% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Aug) | 0.0% |  | 0.3% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Aug) | 2.5% |  | 2.2% |
 | 09:00 | EUR | Hesse CPI (YoY) (Aug) | 2.4% |  | 2.4% |
@@ -63,9 +63,9 @@
 | 10:00 | EUR | Italian CPI (YoY) (Aug) | 1.6% | 1.7% | 1.7% |
 | 10:00 | EUR | Italian HICP (MoM) (Aug) | -0.2% | -0.1% | -1.0% |
 | 10:00 | EUR | Italian HICP (YoY) (Aug) | 1.7% | 1.8% | 1.7% |
-| 10:07 | ZAR | Budget Balance (MoM) (Jul) | -150.85B |  | 48.75B |
-| 53 min | INR | Federal Fiscal Deficit (Jul) |  |  | 2,807.32B |
-| 12:00 | EUR | Spanish Consumer Confidence (Jul) |  |  | 76.1 |
+| 10:00 | ZAR | Budget Balance (MoM) (Jul) | -150.85B |  | 48.75B |
+| 11:00 | INR | Federal Fiscal Deficit (Jul) |  |  | 2,807.32B |
+| 53 min | EUR | Spanish Consumer Confidence (Jul) |  |  | 76.1 |
 | 12:30 | INR | Bank Loan Growth |  |  | 10.0% |
 | 12:30 | INR | Deposit Growth |  |  | 10.2% |
 | 12:30 | INR | FX Reserves, USD |  |  | 695.11B |
@@ -82,8 +82,8 @@
 | 13:30 | CAD | GDP Implicit Price (QoQ) (Q2) |  |  | 0.60% |
 | 14:00 | USD | Dallas Fed PCE (Jul) |  |  | 3.40% |
 | 15:00 | USD | Michigan Current Conditions (Aug) |  | 60.9 | 68.0 |
-| 16:00 | CAD | Budget Balance (YoY) (Jun) |  |  | -6.50B |
 | 16:00 | CAD | Budget Balance (Jun) |  |  | -0.23B |
+| 16:00 | CAD | Budget Balance (YoY) (Jun) |  |  | -6.50B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.1K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 26.0K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -133.2K |
