@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Industrial Production (MoM) (Jul) | 0.3% | 0.4% | 1.7% |
 | 00:00 | KRW | Industrial Production (YoY) (Jul) | 5.0% | 3.5% | 1.6% |
+| 00:00 | KRW | Industrial Production (MoM) (Jul) | 0.3% | 0.4% | 1.7% |
 | 00:00 | KRW | Retail Sales (MoM) (Jul) | 2.5% |  | 0.7% |
 | 00:00 | KRW | Service Sector Output (MoM) (Jul) | 0.2% |  | 0.5% |
 | 00:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Aug) | 1.5% |  | 3.1% |
@@ -42,27 +42,27 @@
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Jul) | 4.7% |  | 6.2% |
 | 08:55 | EUR | German Unemployment (Aug) | 2.957M |  | 2.970M |
 | 08:55 | EUR | German Unemployment n.s.a. (Aug) | 3.025M |  | 2.979M |
-| 09:00 | EUR | Italian GDP (QoQ) (Q2) | -0.1% | -0.1% | 0.3% |
 | 09:00 | EUR | Italian GDP (YoY) (Q2) | 0.4% | 0.4% | 0.7% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Aug) | -0.1% |  | 0.4% |
+| 09:00 | EUR | Italian GDP (QoQ) (Q2) | -0.1% | -0.1% | 0.3% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Aug) | 2.5% |  | 2.3% |
-| 09:00 | EUR | Bavaria CPI (MoM) (Aug) | 0.1% |  | 0.3% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Aug) | -0.1% |  | 0.4% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Aug) | 2.1% |  | 1.9% |
-| 09:00 | EUR | Brandenburg CPI (YoY) (Aug) | 2.5% |  | 2.2% |
+| 09:00 | EUR | Bavaria CPI (MoM) (Aug) | 0.1% |  | 0.3% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Aug) | 0.0% |  | 0.3% |
+| 09:00 | EUR | Brandenburg CPI (YoY) (Aug) | 2.5% |  | 2.2% |
 | 09:00 | EUR | Hesse CPI (MoM) (Aug) | 0.0% |  | 0.3% |
 | 09:00 | EUR | Hesse CPI (YoY) (Aug) | 2.4% |  | 2.4% |
-| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Aug) | 0.1% |  | 0.2% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Aug) | 2.0% |  | 1.8% |
-| 09:00 | EUR | Saxony CPI (MoM) (Aug) | 0.0% |  | 0.2% |
+| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Aug) | 0.1% |  | 0.2% |
 | 09:00 | EUR | Saxony CPI (YoY) (Aug) | 2.2% |  | 2.1% |
+| 09:00 | EUR | Saxony CPI (MoM) (Aug) | 0.0% |  | 0.2% |
 | 09:00 | EUR | Spanish Current account (Jun) | 5.03B |  | 6.44B |
 | 09:00 | NOK | Central Bank Currency Purchase (Sep) | -150.0M |  | -150.0M |
 | 09:30 | HKD | M3 Money Supply (Jul) | 6.2% |  | 8.4% |
-| 10:00 | EUR | Italian CPI (YoY) (Aug) | 1.6% | 1.7% | 1.7% |
 | 10:00 | EUR | Italian CPI (MoM) (Aug) | 0.1% | 0.2% | 0.4% |
-| 10:00 | EUR | Italian HICP (YoY) (Aug) | 1.7% | 1.8% | 1.7% |
+| 10:00 | EUR | Italian CPI (YoY) (Aug) | 1.6% | 1.7% | 1.7% |
 | 10:00 | EUR | Italian HICP (MoM) (Aug) | -0.2% | -0.1% | -1.0% |
+| 10:00 | EUR | Italian HICP (YoY) (Aug) | 1.7% | 1.8% | 1.7% |
 | 10:00 | ZAR | Budget Balance (MoM) (Jul) | -150.85B |  | 48.75B |
 | 11:00 | INR | Federal Fiscal Deficit (Jul) | 4,684.16B |  | 2,807.32B |
 | 12:30 | INR | Bank Loan Growth | 10.2% |  | 10.0% |
@@ -72,8 +72,8 @@
 | 12:30 | BRL | Net Debt-to-GDP ratio (Jul) | 63.7% |  | 62.9% |
 | 12:30 | BRL | Budget Balance (Jul) | -175.576B | -113.700B | -108.107B |
 | 12:30 | BRL | Budget Surplus (Jul) | -66.566B |  | -47.091B |
-| 13:00 | EUR | German HICP (MoM) (Aug) | 0.1% | 0.0% | 0.4% |
 | 13:00 | EUR | German HICP (YoY) (Aug) | 2.1% | 2.0% | 1.8% |
+| 13:00 | EUR | German HICP (MoM) (Aug) | 0.1% | 0.0% | 0.4% |
 | 13:00 | ZAR | Trade Balance (Jul) | 20.29B |  | 20.96B |
 | 13:30 | USD | Personal Income (MoM) (Jul) | 0.4% | 0.4% | 0.3% |
 | 13:30 | USD | Real Personal Consumption (MoM) (Jul) | 0.3% |  | 0.1% |
@@ -81,16 +81,16 @@
 | 13:30 | CAD | GDP Implicit Price (QoQ) (Q2) | 0.00% |  | 0.70% |
 | 15:00 | USD | All Truck Sales (Aug) | 13.80M |  | 13.80M |
 | 15:00 | USD | Michigan Current Conditions (Aug) | 61.7 | 60.9 | 68.0 |
-| 16:00 | CAD | Budget Balance (Jun) | 3.63B |  | -0.23B |
 | 16:00 | CAD | Budget Balance (YoY) (Jun) | -3.34B |  | -6.50B |
-| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.1K |
-| 20:30 | USD | CFTC Copper speculative net positions |  |  | 26.0K |
-| 20:30 | USD | CFTC Corn speculative net positions |  |  | -133.2K |
-| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -105.1K |
-| 20:30 | USD | CFTC Silver speculative net positions |  |  | 46.5K |
-| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | -15.6K |
-| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -89.0K |
-| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -93.1K |
-| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 64.5K |
-| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -27.3K |
-| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -4.1K |
+| 16:00 | CAD | Budget Balance (Jun) | 3.63B |  | -0.23B |
+| 24 min | USD | CFTC Aluminium speculative net positions |  |  | 1.1K |
+| 24 min | USD | CFTC Copper speculative net positions |  |  | 26.0K |
+| 24 min | USD | CFTC Corn speculative net positions |  |  | -133.2K |
+| 24 min | USD | CFTC Natural Gas speculative net positions |  |  | -105.1K |
+| 24 min | USD | CFTC Silver speculative net positions |  |  | 46.5K |
+| 24 min | USD | CFTC Soybeans speculative net positions |  |  | -15.6K |
+| 24 min | USD | CFTC Wheat speculative net positions |  |  | -89.0K |
+| 24 min | CAD | CFTC CAD speculative net positions |  |  | -93.1K |
+| 24 min | MXN | CFTC MXN speculative net positions |  |  | 64.5K |
+| 24 min | CHF | CFTC CHF speculative net positions |  |  | -27.3K |
+| 24 min | NZD | CFTC NZD speculative net positions |  |  | -4.1K |

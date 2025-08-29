@@ -23,9 +23,9 @@
 | 13:30 | USD | PCE price index (MoM) (Jul) | 0.2% | 0.2% | 0.3% |
 | 13:30 | USD | Personal Spending (MoM) (Jul) | 0.5% | 0.5% | 0.4% |
 | 13:30 | USD | Retail Inventories Ex Auto (Jul) | 0.1% |  | -0.1% |
+| 13:30 | CAD | GDP (YoY) (Q2) | 1.21% |  | 2.26% |
 | 13:30 | CAD | GDP (QoQ) (Q2) | -0.4% |  | 0.5% |
 | 13:30 | CAD | GDP (MoM) (Jun) | -0.1% | 0.1% | -0.1% |
-| 13:30 | CAD | GDP (YoY) (Q2) | 1.21% |  | 2.26% |
 | 13:30 | CAD | GDP Annualized (QoQ) (Q2) | -1.6% | -0.6% | 2.0% |
 | 13:31 | CAD | GDP (MoM) (Jul) | 0.1% |  | -0.1% |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Aug) | 4.8% | 4.9% | 4.9% |
@@ -35,12 +35,12 @@
 | 16:00 | USD | Atlanta Fed GDPNow (Q3) | 3.5% | 2.2% | 2.2% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 412 | 408 | 411 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count | 536 |  | 538 |
-| 20:30 | GBP | CFTC GBP speculative net positions |  |  | -25.2K |
-| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 120.2K |
-| 20:30 | USD | CFTC Gold speculative net positions |  |  | 212.6K |
-| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 33.8K |
-| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -171.5K |
-| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -94.9K |
-| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 30.4K |
-| 20:30 | JPY | CFTC JPY speculative net positions |  |  | 77.6K |
-| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 118.7K |
+| 25 min | GBP | CFTC GBP speculative net positions |  |  | -25.2K |
+| 24 min | USD | CFTC Crude Oil speculative net positions |  |  | 120.2K |
+| 24 min | USD | CFTC Gold speculative net positions |  |  | 212.6K |
+| 24 min | USD | CFTC Nasdaq 100 speculative net positions |  |  | 33.8K |
+| 24 min | USD | CFTC S&P 500 speculative net positions |  |  | -171.5K |
+| 24 min | AUD | CFTC AUD speculative net positions |  |  | -94.9K |
+| 24 min | BRL | CFTC BRL speculative net positions |  |  | 30.4K |
+| 24 min | JPY | CFTC JPY speculative net positions |  |  | 77.6K |
+| 24 min | EUR | CFTC EUR speculative net positions |  |  | 118.7K |
