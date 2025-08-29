@@ -25,9 +25,9 @@
 | 13:30 | USD | PCE price index (MoM) (Jul) |  | 0.2% | 0.3% |
 | 13:30 | USD | Personal Spending (MoM) (Jul) |  | 0.5% | 0.3% |
 | 13:30 | USD | Retail Inventories Ex Auto (Jul) |  |  | -0.1% |
+| 13:30 | CAD | GDP (QoQ) (Q2) |  |  | 0.5% |
 | 13:30 | CAD | GDP (MoM) (Jun) |  | 0.1% | -0.1% |
 | 13:30 | CAD | GDP (YoY) (Q2) |  |  | 2.31% |
-| 13:30 | CAD | GDP (QoQ) (Q2) |  |  | 0.5% |
 | 13:30 | CAD | GDP Annualized (QoQ) (Q2) |  | -0.6% | 2.2% |
 | 13:31 | CAD | GDP (MoM) |  |  |  |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Aug) |  | 4.9% | 4.9% |

@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Industrial Production (YoY) (Jul) | 5.0% | 3.5% | 1.6% |
 | 00:00 | KRW | Industrial Production (MoM) (Jul) | 0.3% | 0.4% | 1.7% |
+| 00:00 | KRW | Industrial Production (YoY) (Jul) | 5.0% | 3.5% | 1.6% |
 | 00:00 | KRW | Retail Sales (MoM) (Jul) | 2.5% |  | 0.7% |
 | 00:00 | KRW | Service Sector Output (MoM) (Jul) | 0.2% |  | 0.5% |
 | 00:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Aug) | 1.5% |  | 3.1% |
@@ -18,8 +18,8 @@
 | 00:50 | JPY | Retail Sales (YoY) (Jul) | 0.3% | 1.5% | 1.9% |
 | 02:30 | AUD | Housing Credit (Jul) | 0.5% |  | 0.5% |
 | 02:30 | AUD | Private Sector Credit (MoM) (Jul) | 0.7% | 0.6% | 0.6% |
-| 26 min | SGD | Bank Lending (Jul) |  |  | 853.3B |
-| 04:00 | NZD | M3 Money Supply (Jul) |  |  | 433.5B |
+| 03:00 | SGD | Bank Lending (Jul) |  |  | 853.3B |
+| 26 min | NZD | M3 Money Supply (Jul) |  |  | 433.5B |
 | 06:00 | JPY | Construction Orders (YoY) (Jul) |  |  | 22.5% |
 | 06:00 | JPY | Household Confidence (Aug) |  | 34.2 | 33.7 |
 | 06:00 | JPY | Housing Starts (YoY) (Jul) |  | -9.9% | -15.6% |
@@ -33,8 +33,8 @@
 | 07:45 | EUR | French CPI (YoY) (Aug) |  | 1.0% | 1.0% |
 | 07:45 | EUR | French HICP (YoY) (Aug) |  | 0.9% | 0.9% |
 | 07:45 | EUR | French Non-Farm Payrolls (QoQ) (Q2) |  | 0.0% | -0.1% |
-| 07:45 | EUR | PPI (YoY) (Jul) |  |  | 0.20% |
 | 07:45 | EUR | French PPI (MoM) (Jul) |  |  | -0.2% |
+| 07:45 | EUR | PPI (YoY) (Jul) |  |  | 0.20% |
 | 08:00 | CHF | Official Reserves Assets (Jul) |  |  | 812.7B |
 | 08:00 | EUR | Core CPI (YoY) (Aug) |  |  | 2.3% |
 | 08:00 | EUR | Spanish CPI (MoM) (Aug) |  | 0.1% | -0.1% |
@@ -42,16 +42,16 @@
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Jul) |  |  | 6.2% |
 | 08:55 | EUR | German Unemployment (Aug) |  |  | 2.970M |
 | 08:55 | EUR | German Unemployment n.s.a. (Aug) |  |  | 2.979M |
-| 09:00 | EUR | Italian GDP (YoY) (Q2) |  | 0.4% | 0.7% |
 | 09:00 | EUR | Italian GDP (QoQ) (Q2) |  | -0.1% | -0.1% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Aug) |  |  | 0.4% |
+| 09:00 | EUR | Italian GDP (YoY) (Q2) |  | 0.4% | 0.7% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Aug) |  |  | 2.3% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Aug) |  |  | 0.4% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Aug) |  |  | 1.9% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Aug) |  |  | 0.3% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Aug) |  |  | 0.3% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Aug) |  |  | 2.2% |
-| 09:00 | EUR | Hesse CPI (MoM) (Aug) |  |  | 0.3% |
 | 09:00 | EUR | Hesse CPI (YoY) (Aug) |  |  | 2.4% |
+| 09:00 | EUR | Hesse CPI (MoM) (Aug) |  |  | 0.3% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Aug) |  |  | 1.8% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Aug) |  |  | 0.2% |
 | 09:00 | EUR | Saxony CPI (YoY) (Aug) |  |  | 2.1% |
@@ -81,8 +81,8 @@
 | 13:30 | CAD | GDP Implicit Price (QoQ) (Q2) |  |  | 0.60% |
 | 14:00 | USD | Dallas Fed PCE (Jul) |  |  | 3.40% |
 | 15:00 | USD | Michigan Current Conditions (Aug) |  | 60.9 | 68.0 |
-| 16:00 | CAD | Budget Balance (YoY) (Jun) |  |  | -6.50B |
 | 16:00 | CAD | Budget Balance (Jun) |  |  | -0.23B |
+| 16:00 | CAD | Budget Balance (YoY) (Jun) |  |  | -6.50B |
 | 20:26 | ZAR | Budget Balance (MoM) (Jul) |  |  | 48.75B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.1K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 26.0K |
