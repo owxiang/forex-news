@@ -18,23 +18,22 @@
 | 11:30 | INR | GDP Quarterly (YoY) (Q1) | 7.8% | 6.6% | 7.4% |
 | 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Jul) | 77.6% | 77.0% | 76.6% |
 | 13:00 | EUR | German CPI (YoY) (Aug) | 2.2% | 2.1% | 2.0% |
-| 13:00 | BRL | Unemployment Rate (Jul) |  |  | 5.8% |
-| 19 min | USD | Goods Trade Balance (Jul) |  | -90.20B | -84.85B |
-| 19 min | USD | PCE Price index (YoY) (Jul) |  | 2.6% | 2.6% |
-| 19 min | USD | PCE price index (MoM) (Jul) |  | 0.2% | 0.3% |
-| 19 min | USD | Personal Spending (MoM) (Jul) |  | 0.5% | 0.3% |
-| 19 min | USD | Retail Inventories Ex Auto (Jul) |  |  | -0.1% |
-| 19 min | CAD | GDP (MoM) (Jun) |  | 0.1% | -0.1% |
-| 19 min | CAD | GDP (YoY) (Q2) |  |  | 2.31% |
-| 19 min | CAD | GDP (QoQ) (Q2) |  |  | 0.5% |
-| 19 min | CAD | GDP Annualized (QoQ) (Q2) |  | -0.6% | 2.2% |
-| 20 min | CAD | GDP (MoM) |  |  |  |
+| 13:30 | USD | Goods Trade Balance (Jul) | -103.60B | -90.20B | -84.85B |
+| 13:30 | USD | PCE Price index (YoY) (Jul) | 2.6% | 2.6% | 2.6% |
+| 13:30 | USD | PCE price index (MoM) (Jul) | 0.2% | 0.2% | 0.3% |
+| 13:30 | USD | Personal Spending (MoM) (Jul) | 0.5% | 0.5% | 0.4% |
+| 13:30 | USD | Retail Inventories Ex Auto (Jul) | 0.1% |  | -0.1% |
+| 13:30 | CAD | GDP (MoM) (Jun) | -0.1% | 0.1% | -0.1% |
+| 13:30 | CAD | GDP (YoY) (Q2) | 1.21% |  | 2.26% |
+| 13:30 | CAD | GDP (QoQ) (Q2) | -0.4% |  | 0.5% |
+| 13:30 | CAD | GDP Annualized (QoQ) (Q2) | -1.6% | -0.6% | -2.0% |
+| 13:31 | CAD | GDP (MoM) (Jul) | 0.1% |  | -0.1% |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Aug) |  | 4.9% | 4.9% |
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Aug) |  | 3.9% | 3.4% |
 | 15:00 | USD | Michigan Consumer Expectations (Aug) |  | 57.2 | 57.7 |
 | 15:00 | USD | Michigan Consumer Sentiment (Aug) |  | 58.6 | 61.7 |
 | 16:30 | USD | Atlanta Fed GDPNow (Q3) |  | 2.2% | 2.2% |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 411 |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  | 408 | 411 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 538 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -25.2K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 120.2K |
