@@ -1,8 +1,5 @@
-## 29 August 2025 - High Impact Forex News
+## 31 August 2025 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:00 | EUR | German CPI (MoM) (Aug) | 0.1% | 0.0% | 0.3% |
-| 13:30 | USD | Core PCE Price Index (MoM) (Jul) | 0.3% | 0.3% | 0.3% |
-| 13:30 | USD | Core PCE Price Index (YoY) (Jul) | 2.9% | 2.9% | 2.8% |
-| 14:45 | USD | Chicago PMI (Aug) | 41.5 | 46.6 | 47.1 |
+| 02:30 | CNY | Manufacturing PMI (Aug) |  | 49.5 | 49.3 |
