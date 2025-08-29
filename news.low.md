@@ -20,9 +20,9 @@
 | 02:30 | AUD | Private Sector Credit (MoM) (Jul) | 0.7% | 0.6% | 0.6% |
 | 03:00 | SGD | Bank Lending (Jul) | 854.0B |  | 853.3B |
 | 04:00 | NZD | M3 Money Supply (Jul) | 439,451.0B |  | 433,507.0B |
-| 06:00 | JPY | Construction Orders (YoY) (Jul) |  |  | 22.5% |
-| 06:00 | JPY | Household Confidence (Aug) |  | 34.2 | 33.7 |
-| 06:00 | JPY | Housing Starts (YoY) (Jul) |  | -9.9% | -15.6% |
+| 52 min | JPY | Construction Orders (YoY) (Jul) |  |  | 22.5% |
+| 52 min | JPY | Household Confidence (Aug) |  | 34.2 | 33.7 |
+| 52 min | JPY | Housing Starts (YoY) (Jul) |  | -9.9% | -15.6% |
 | 07:00 | EUR | German Import Price Index (MoM) (Jul) |  | -0.3% | 0.0% |
 | 07:00 | EUR | German Import Price Index (YoY) (Jul) |  | -1.2% | -1.4% |
 | 07:00 | EUR | German Retail Sales (YoY) (Jul) |  | 2.6% | 4.9% |
@@ -42,12 +42,12 @@
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Jul) |  |  | 6.2% |
 | 08:55 | EUR | German Unemployment (Aug) |  |  | 2.970M |
 | 08:55 | EUR | German Unemployment n.s.a. (Aug) |  |  | 2.979M |
-| 09:00 | EUR | Italian GDP (QoQ) (Q2) |  | -0.1% | -0.1% |
 | 09:00 | EUR | Italian GDP (YoY) (Q2) |  | 0.4% | 0.7% |
+| 09:00 | EUR | Italian GDP (QoQ) (Q2) |  | -0.1% | -0.1% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Aug) |  |  | 0.4% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Aug) |  |  | 2.3% |
-| 09:00 | EUR | Bavaria CPI (MoM) (Aug) |  |  | 0.3% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Aug) |  |  | 1.9% |
+| 09:00 | EUR | Bavaria CPI (MoM) (Aug) |  |  | 0.3% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Aug) |  |  | 2.2% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Aug) |  |  | 0.3% |
 | 09:00 | EUR | Hesse CPI (MoM) (Aug) |  |  | 0.3% |
@@ -59,8 +59,8 @@
 | 09:00 | EUR | Spanish Current account (Jun) |  |  | 6.44B |
 | 09:00 | NOK | Central Bank Currency Purchase (Sep) |  |  | -150.0M |
 | 09:30 | HKD | M3 Money Supply (Jul) |  |  | 8.4% |
-| 10:00 | EUR | Italian CPI (YoY) (Aug) |  | 1.7% | 1.7% |
 | 10:00 | EUR | Italian CPI (MoM) (Aug) |  | 0.2% | 0.4% |
+| 10:00 | EUR | Italian CPI (YoY) (Aug) |  | 1.7% | 1.7% |
 | 10:00 | EUR | Italian HICP (YoY) (Aug) |  | 1.8% | 1.7% |
 | 10:00 | EUR | Italian HICP (MoM) (Aug) |  | -0.1% | -1.0% |
 | 11:00 | INR | Federal Fiscal Deficit (Jul) |  |  | 2,807.32B |
