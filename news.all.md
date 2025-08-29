@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | Industrial Production (YoY) (Jul) | 5.0% | 3.5% | 1.6% |
 | 00:00 | KRW | Low | Industrial Production (MoM) (Jul) | 0.3% | 0.4% | 1.7% |
+| 00:00 | KRW | Low | Industrial Production (YoY) (Jul) | 5.0% | 3.5% | 1.6% |
 | 00:00 | KRW | Low | Retail Sales (MoM) (Jul) | 2.5% |  | 0.7% |
 | 00:00 | KRW | Low | Service Sector Output (MoM) (Jul) | 0.2% |  | 0.5% |
 | 00:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Aug) | 1.5% |  | 3.1% |
@@ -34,8 +34,8 @@
 | 07:00 | ZAR | Low | M3 Money Supply (YoY) (Jul) | 6.75% |  | 7.27% |
 | 07:00 | ZAR | Low | Private Sector Credit (Jul) | 5.84% |  | 4.98% |
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Jul) | -0.3% | -0.3% | 0.4% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Aug) | 0.4% | 0.5% | 0.2% |
 | 07:45 | EUR | Low | French CPI (YoY) (Aug) | 0.9% | 1.0% | 1.0% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Aug) | 0.4% | 0.5% | 0.2% |
 | 07:45 | EUR | Moderate | French GDP (QoQ) (Q2) | 0.3% | 0.3% | 0.1% |
 | 07:45 | EUR | Moderate | French GDP (YoY) (Q2) | 0.8% | 0.7% | 0.6% |
 | 07:45 | EUR | Low | French HICP (YoY) (Aug) | 0.8% | 0.9% | 0.9% |
@@ -45,8 +45,8 @@
 | 07:45 | EUR | Low | PPI (YoY) (Jul) | 0.40% |  | 0.30% |
 | 08:00 | CHF | Low | Official Reserves Assets (Jul) | 818.4B |  | 812.7B |
 | 08:00 | EUR | Low | Core CPI (YoY) (Aug) | 2.4% |  | 2.3% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Aug) | 0.0% | 0.1% | -0.1% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Aug) | 2.7% | 2.8% | 2.7% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Aug) | 0.0% | 0.1% | -0.1% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Aug) | 0.0% | 0.1% | -0.3% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Aug) | 2.7% | 2.7% | 2.7% |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Jul) | 4.7% |  | 6.2% |
@@ -56,16 +56,16 @@
 | 08:55 | EUR | Low | German Unemployment n.s.a. (Aug) | 3.025M |  | 2.979M |
 | 09:00 | EUR | Low | Italian GDP (YoY) (Q2) | 0.4% | 0.4% | 0.7% |
 | 09:00 | EUR | Low | Italian GDP (QoQ) (Q2) | -0.1% | -0.1% | 0.3% |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Aug) | 2.5% |  | 2.3% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Aug) | -0.1% |  | 0.4% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Aug) | 2.5% |  | 2.3% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Aug) | 2.1% |  | 1.9% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Aug) | 0.1% |  | 0.3% |
-| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Aug) | 0.0% |  | 0.3% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Aug) | 2.5% |  | 2.2% |
+| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Aug) | 0.0% |  | 0.3% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Aug) | 0.0% |  | 0.3% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Aug) | 2.4% |  | 2.4% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Aug) | 2.0% |  | 1.8% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Aug) | 0.1% |  | 0.2% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Aug) | 2.0% |  | 1.8% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Aug) | 2.2% |  | 2.1% |
 | 09:00 | EUR | Low | Saxony CPI (MoM) (Aug) | 0.0% |  | 0.2% |
 | 09:00 | EUR | Low | Spanish Current account (Jun) | 5.03B |  | 6.44B |
@@ -89,8 +89,8 @@
 | 12:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Jul) | 77.6% | 77.0% | 76.6% |
 | 13:00 | EUR | Moderate | German CPI (YoY) (Aug) | 2.2% | 2.1% | 2.0% |
 | 13:00 | EUR | High | German CPI (MoM) (Aug) | 0.1% | 0.0% | 0.3% |
-| 13:00 | EUR | Low | German HICP (YoY) (Aug) | 2.1% | 2.0% | 1.8% |
 | 13:00 | EUR | Low | German HICP (MoM) (Aug) | 0.1% | 0.0% | 0.4% |
+| 13:00 | EUR | Low | German HICP (YoY) (Aug) | 2.1% | 2.0% | 1.8% |
 | 13:00 | ZAR | Low | Trade Balance (Jul) | 20.29B |  | 20.96B |
 | 13:30 | USD | High | Core PCE Price Index (MoM) (Jul) | 0.3% | 0.3% | 0.3% |
 | 13:30 | USD | High | Core PCE Price Index (YoY) (Jul) | 2.9% | 2.9% | 2.8% |
@@ -116,8 +116,8 @@
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Aug) | 58.2 | 58.6 | 61.7 |
 | 15:00 | USD | Low | Michigan Current Conditions (Aug) | 61.7 | 60.9 | 68.0 |
 | 16:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 3.5% | 2.2% | 2.2% |
-| 16:00 | CAD | Low | Budget Balance (YoY) (Jun) | -3.34B |  | -6.50B |
 | 16:00 | CAD | Low | Budget Balance (Jun) | 3.63B |  | -0.23B |
+| 16:00 | CAD | Low | Budget Balance (YoY) (Jun) | -3.34B |  | -6.50B |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 412 | 408 | 411 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 536 |  | 538 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions | -31.4K |  | -25.2K |
@@ -140,3 +140,4 @@
 | 20:30 | JPY | Moderate | CFTC JPY speculative net positions | 84.5K |  | 77.6K |
 | 20:30 | NZD | Low | CFTC NZD speculative net positions | -6.1K |  | -4.1K |
 | 20:30 | EUR | Moderate | CFTC EUR speculative net positions | 123.0K |  | 118.7K |
+| 22:00 | MXN | Low | Fiscal Balance (Jun) | -101.43B |  | -116.71B |
