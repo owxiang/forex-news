@@ -7,26 +7,26 @@
 | 07:00 | EUR | German Retail Sales (MoM) (Jul) | -1.5% | 0.0% | 1.0% |
 | 07:45 | EUR | French Consumer Spending (MoM) (Jul) | -0.3% | -0.3% | 0.4% |
 | 07:45 | EUR | French CPI (MoM) (Aug) | 0.4% | 0.5% | 0.2% |
-| 07:45 | EUR | French GDP (YoY) (Q2) | 0.8% | 0.7% | 0.6% |
 | 07:45 | EUR | French GDP (QoQ) (Q2) | 0.3% | 0.3% | 0.1% |
+| 07:45 | EUR | French GDP (YoY) (Q2) | 0.8% | 0.7% | 0.6% |
 | 07:45 | EUR | French HICP (MoM) (Aug) | 0.5% | 0.5% | 0.3% |
 | 08:00 | EUR | Spanish CPI (YoY) (Aug) | 2.7% | 2.8% | 2.7% |
 | 08:00 | EUR | Spanish HICP (YoY) (Aug) | 2.7% | 2.7% | 2.7% |
-| 48 min | EUR | German Unemployment Change (Aug) |  | 10K | 2K |
-| 48 min | EUR | German Unemployment Rate (Aug) |  | 6.3% | 6.3% |
-| 10:00 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 08:55 | EUR | German Unemployment Change (Aug) | -9K | 10K | 2K |
+| 08:55 | EUR | German Unemployment Rate (Aug) | 6.3% | 6.3% | 6.3% |
+| 51 min | EUR | ECB's De Guindos Speaks |  |  |  |
 | 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Jul) |  | 77.0% | 76.6% |
 | 13:00 | INR | GDP Quarterly (YoY) (Q1) |  | 6.6% | 7.4% |
 | 13:00 | EUR | German CPI (YoY) (Aug) |  | 2.1% | 2.0% |
 | 13:00 | BRL | Unemployment Rate (Jul) |  |  | 5.8% |
 | 13:30 | USD | Goods Trade Balance (Jul) |  | -90.20B | -84.85B |
-| 13:30 | USD | PCE Price index (YoY) (Jul) |  | 2.6% | 2.6% |
 | 13:30 | USD | PCE price index (MoM) (Jul) |  | 0.2% | 0.3% |
+| 13:30 | USD | PCE Price index (YoY) (Jul) |  | 2.6% | 2.6% |
 | 13:30 | USD | Personal Spending (MoM) (Jul) |  | 0.5% | 0.3% |
 | 13:30 | USD | Retail Inventories Ex Auto (Jul) |  |  | -0.1% |
+| 13:30 | CAD | GDP (YoY) (Q2) |  |  | 2.31% |
 | 13:30 | CAD | GDP (QoQ) (Q2) |  |  | 0.5% |
 | 13:30 | CAD | GDP (MoM) (Jun) |  | 0.1% | -0.1% |
-| 13:30 | CAD | GDP (YoY) (Q2) |  |  | 2.31% |
 | 13:30 | CAD | GDP Annualized (QoQ) (Q2) |  | -0.6% | 2.2% |
 | 13:31 | CAD | GDP (MoM) |  |  |  |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Aug) |  | 4.9% | 4.9% |
