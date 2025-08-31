@@ -1,5 +1,3 @@
-## 31 August 2025 - High Impact Forex News
+## 01 September 2025 - High Impact Forex News
 
-| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
-|------|----------|-------|--------|----------|----------|
-| 02:30 | CNY | Manufacturing PMI (Aug) | 49.4 | 49.5 | 49.3 |
+There is no high impact news today.
