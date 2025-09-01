@@ -21,8 +21,8 @@
 | 03:00 | IDR | Low | Core Inflation (YoY) (Aug) | 2.17% |  | 2.32% |
 | 03:00 | IDR | Low | Export Growth (YoY) (Jul) | 9.86% |  | 11.29% |
 | 03:00 | IDR | Low | Import Growth (YoY) (Jul) | -5.86% |  | 4.28% |
-| 03:00 | IDR | Low | Inflation (MoM) (Aug) | -0.08% |  | 0.30% |
 | 03:00 | IDR | Low | Inflation (YoY) (Aug) | 2.31% |  | 2.37% |
+| 03:00 | IDR | Low | Inflation (MoM) (Aug) | -0.08% |  | 0.30% |
 | 03:00 | IDR | Low | Trade Balance (Jul) | 4.18B |  | 4.11B |
 | 06:00 | INR | Low | S&P Global Manufacturing PMI (Aug) | 59.3 | 59.8 | 59.1 |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Aug) | -0.1% | 0.1% | 0.5% |
@@ -55,8 +55,8 @@
 | 13:00 | INR | Low | Current Account (USD) (Q2) | -2.40B |  | 13.50B |
 | 13:00 | INR | Low | Trade Balance (USD) (Q2) | -68.500B |  | -59.500B |
 | 13:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 13:00 | ZAR | Low | Total Vehicle Sales (Aug) | 51.88K |  | 51.49K |
 | 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (Aug) | 18.70% |  | 15.60% |
+| 13:00 | ZAR | Low | Total Vehicle Sales (Aug) | 51.88K |  | 51.49K |
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.020% |  | 1.994% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 1.984% |  | 1.974% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.009% |  | 1.963% |
