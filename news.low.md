@@ -33,8 +33,8 @@
 | 09:30 | GBP | Net Lending to Individuals (Jul) | 6.144B | 4.900B | 6.861B |
 | 09:30 | HKD | Retail Sales (YoY) (Jul) | 1.8% |  | 0.7% |
 | 10:00 | ZAR | Manufacturing PMI (Aug) | 49.5 |  | 50.8 |
-| 11:00 | EUR | Car Registration (MoM) (Aug) | -37.60% |  | -17.50% |
 | 11:00 | EUR | Car Registration (YoY) (Aug) | 17.20% |  | 17.10% |
+| 11:00 | EUR | Car Registration (MoM) (Aug) | -37.60% |  | -17.50% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:00 | INR | Balance of Payments (USD) (Q2) | 4.500B |  | 8.800B |
 | 13:00 | INR | Current Account % of GDP (QoQ) (Q2) | -0.20% |  | 1.30% |
