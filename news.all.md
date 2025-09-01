@@ -25,8 +25,8 @@
 | 03:00 | IDR | Low | Inflation (MoM) (Aug) | -0.08% |  | 0.30% |
 | 03:00 | IDR | Low | Trade Balance (Jul) | 4.18B |  | 4.11B |
 | 06:00 | INR | Low | S&P Global Manufacturing PMI (Aug) | 59.3 | 59.8 | 59.1 |
-| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Aug) | 2.1% |  | 2.4% |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Aug) | -0.1% | 0.1% | 0.5% |
+| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Aug) | 2.1% |  | 2.4% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Jul) | 0.7% | 3.6% | 3.9% |
 | 07:30 | AUD | Low | Commodity Prices (YoY) (Aug) | -4.3% |  | -9.0% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Aug) | 54.3 | 52.1 | 51.9 |
@@ -47,8 +47,8 @@
 | 09:30 | HKD | Low | Retail Sales (YoY) (Jul) | 1.8% |  | 0.7% |
 | 10:00 | EUR | Moderate | Unemployment Rate (Jul) | 6.2% | 6.2% | 6.3% |
 | 10:00 | ZAR | Low | Manufacturing PMI (Aug) | 49.5 |  | 50.8 |
-| 11:00 | EUR | Low | Car Registration (MoM) (Aug) | -37.60% |  | -17.50% |
 | 11:00 | EUR | Low | Car Registration (YoY) (Aug) | 17.20% |  | 17.10% |
+| 11:00 | EUR | Low | Car Registration (MoM) (Aug) | -37.60% |  | -17.50% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | INR | Low | Balance of Payments (USD) (Q2) | 4.500B |  | 8.800B |
 | 13:00 | INR | Low | Current Account % of GDP (QoQ) (Q2) | -0.20% |  | 1.30% |
@@ -62,7 +62,7 @@
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.009% |  | 1.963% |
 | 14:00 | BRL | Low | S&P Global Manufacturing PMI (Aug) | 47.7 |  | 48.2 |
 | 16:00 | MXN | Low | S&P Global Manufacturing PMI (Aug) | 50.20 |  | 49.10 |
-| 18:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 24 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 23:45 | NZD | Low | Terms of Trade - Exports Prices (Q2) |  |  | 7.1% |
 | 23:45 | NZD | Low | Terms of Trade - Exports Volume (QoQ) (Q2) |  |  | 4.6% |
 | 23:45 | NZD | Low | Terms of Trade - Imports Prices (Q2) |  |  | 5.1% |
