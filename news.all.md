@@ -63,7 +63,7 @@
 | 14:00 | BRL | Low | S&P Global Manufacturing PMI (Aug) | 47.7 |  | 48.2 |
 | 16:00 | MXN | Low | S&P Global Manufacturing PMI (Aug) | 50.20 |  | 49.10 |
 | 18:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 23:45 | NZD | Low | Terms of Trade - Exports Prices (Q2) |  |  | 7.1% |
-| 23:45 | NZD | Low | Terms of Trade - Exports Volume (QoQ) (Q2) |  |  | 4.6% |
-| 23:45 | NZD | Low | Terms of Trade - Imports Prices (Q2) |  |  | 5.1% |
-| 23:45 | NZD | Low | Terms of Trade Index (QoQ) (Q2) |  | 2.1% | 1.9% |
+| 39 min | NZD | Low | Terms of Trade - Exports Prices (Q2) |  |  | 7.1% |
+| 39 min | NZD | Low | Terms of Trade - Exports Volume (QoQ) (Q2) |  |  | 4.6% |
+| 39 min | NZD | Low | Terms of Trade - Imports Prices (Q2) |  |  | 5.1% |
+| 39 min | NZD | Low | Terms of Trade Index (QoQ) (Q2) |  | 2.1% | 1.9% |
