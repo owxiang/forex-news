@@ -10,20 +10,20 @@
 | 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Aug) | 48.3 |  | 48.0 |
 | 01:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Aug) | 49.7 | 49.9 | 49.9 |
 | 01:30 | IDR | Low | S&P Global Manufacturing PMI (Aug) | 51.5 |  | 49.2 |
-| 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (Aug) |  |  | -1.0% |
-| 02:30 | AUD | Low | Building Approvals (YoY) (Jul) | 8.30% |  | 5.40% |
-| 02:30 | AUD | Moderate | Building Approvals (MoM) (Jul) | -8.2% | -4.8% | 11.9% |
+| 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (Aug) | 0.1% |  | -0.6% |
+| 02:30 | AUD | Low | Building Approvals (YoY) (Jul) | 8.30% |  | 6.10% |
+| 02:30 | AUD | Moderate | Building Approvals (MoM) (Jul) | -8.2% | -4.8% | 12.2% |
 | 02:30 | AUD | Low | Business inventories (MoM) (Q2) | 0.1% |  | 1.2% |
 | 02:30 | AUD | Moderate | Company Gross Operating Profits (QoQ) (Q2) | -2.4% | 1.0% | -1.0% |
 | 02:30 | AUD | Low | Company Profits Pre-Tax (QoQ) (Q2) | 2.1% |  | 0.7% |
 | 02:30 | AUD | Low | Private House Approvals (Jul) | 1.1% |  | -2.0% |
-| 9 min | CNY | Moderate | Caixin Manufacturing PMI (MoM) (Aug) |  | 49.7 | 49.5 |
-| 24 min | IDR | Low | Core Inflation (YoY) (Aug) |  |  | 2.32% |
-| 24 min | IDR | Low | Export Growth (YoY) (Jul) |  |  | 11.29% |
-| 24 min | IDR | Low | Import Growth (YoY) (Jul) |  |  | 4.28% |
-| 24 min | IDR | Low | Inflation (YoY) (Aug) |  |  | 2.37% |
-| 24 min | IDR | Low | Inflation (MoM) (Aug) |  |  | 0.30% |
-| 24 min | IDR | Low | Trade Balance (Jul) |  |  | 4.11B |
+| 02:45 | CNY | Moderate | Caixin Manufacturing PMI (MoM) (Aug) | 50.5 | 49.7 | 49.5 |
+| 05:00 | IDR | Low | Core Inflation (YoY) (Aug) |  |  | 2.32% |
+| 05:00 | IDR | Low | Export Growth (YoY) (Jul) |  |  | 11.29% |
+| 05:00 | IDR | Low | Import Growth (YoY) (Jul) |  |  | 4.28% |
+| 05:00 | IDR | Low | Inflation (MoM) (Aug) |  |  | 0.30% |
+| 05:00 | IDR | Low | Inflation (YoY) (Aug) |  |  | 2.37% |
+| 05:00 | IDR | Low | Trade Balance (Jul) |  |  | 4.11B |
 | 06:00 | INR | Low | S&P Global Manufacturing PMI (Aug) |  | 59.8 | 59.8 |
 | 06:30 | CHF | Low | Retail Sales (YoY) (Jul) |  | 3.6% | 3.8% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Aug) |  |  | 2.4% |
@@ -47,12 +47,12 @@
 | 09:30 | HKD | Low | Retail Sales (YoY) (Jul) |  |  | 0.7% |
 | 10:00 | EUR | Moderate | Unemployment Rate (Jul) |  | 6.2% | 6.2% |
 | 10:00 | ZAR | Low | Manufacturing PMI (Aug) |  |  | 50.8 |
-| 11:00 | EUR | Low | Car Registration (YoY) (Aug) |  |  | 17.10% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Aug) |  |  | -17.50% |
+| 11:00 | EUR | Low | Car Registration (YoY) (Aug) |  |  | 17.10% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 13:30 | ZAR | Low | Total Vehicle Sales (YoY) (Aug) |  |  | 15.60% |
 | 13:30 | ZAR | Low | Total Vehicle Sales (Aug) |  |  | 51.38K |
+| 13:30 | ZAR | Low | Total Vehicle Sales (YoY) (Aug) |  |  | 15.60% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 1.994% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 1.974% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 1.963% |

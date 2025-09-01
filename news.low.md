@@ -9,17 +9,17 @@
 | 01:30 | KRW | S&P Global South Korea Manufacturing PMI (Aug) | 48.3 |  | 48.0 |
 | 01:30 | JPY | au Jibun Bank Manufacturing PMI (Aug) | 49.7 | 49.9 | 49.9 |
 | 01:30 | IDR | S&P Global Manufacturing PMI (Aug) | 51.5 |  | 49.2 |
-| 02:30 | AUD | ANZ Job Advertisements (MoM) (Aug) |  |  | -1.0% |
-| 02:30 | AUD | Building Approvals (YoY) (Jul) | 8.30% |  | 5.40% |
+| 02:30 | AUD | ANZ Job Advertisements (MoM) (Aug) | 0.1% |  | -0.6% |
+| 02:30 | AUD | Building Approvals (YoY) (Jul) | 8.30% |  | 6.10% |
 | 02:30 | AUD | Business inventories (MoM) (Q2) | 0.1% |  | 1.2% |
 | 02:30 | AUD | Company Profits Pre-Tax (QoQ) (Q2) | 2.1% |  | 0.7% |
 | 02:30 | AUD | Private House Approvals (Jul) | 1.1% |  | -2.0% |
-| 24 min | IDR | Core Inflation (YoY) (Aug) |  |  | 2.32% |
-| 24 min | IDR | Export Growth (YoY) (Jul) |  |  | 11.29% |
-| 24 min | IDR | Import Growth (YoY) (Jul) |  |  | 4.28% |
-| 24 min | IDR | Inflation (YoY) (Aug) |  |  | 2.37% |
-| 24 min | IDR | Inflation (MoM) (Aug) |  |  | 0.30% |
-| 24 min | IDR | Trade Balance (Jul) |  |  | 4.11B |
+| 05:00 | IDR | Core Inflation (YoY) (Aug) |  |  | 2.32% |
+| 05:00 | IDR | Export Growth (YoY) (Jul) |  |  | 11.29% |
+| 05:00 | IDR | Import Growth (YoY) (Jul) |  |  | 4.28% |
+| 05:00 | IDR | Inflation (MoM) (Aug) |  |  | 0.30% |
+| 05:00 | IDR | Inflation (YoY) (Aug) |  |  | 2.37% |
+| 05:00 | IDR | Trade Balance (Jul) |  |  | 4.11B |
 | 06:00 | INR | S&P Global Manufacturing PMI (Aug) |  | 59.8 | 59.8 |
 | 06:30 | CHF | Retail Sales (YoY) (Jul) |  | 3.6% | 3.8% |
 | 07:30 | AUD | Commodity Prices (YoY) (Aug) |  |  | -9.0% |
@@ -33,11 +33,11 @@
 | 09:30 | GBP | Net Lending to Individuals (Jul) |  | 4.900B | 6.757B |
 | 09:30 | HKD | Retail Sales (YoY) (Jul) |  |  | 0.7% |
 | 10:00 | ZAR | Manufacturing PMI (Aug) |  |  | 50.8 |
-| 11:00 | EUR | Car Registration (YoY) (Aug) |  |  | 17.10% |
 | 11:00 | EUR | Car Registration (MoM) (Aug) |  |  | -17.50% |
+| 11:00 | EUR | Car Registration (YoY) (Aug) |  |  | 17.10% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:30 | ZAR | Total Vehicle Sales (YoY) (Aug) |  |  | 15.60% |
 | 13:30 | ZAR | Total Vehicle Sales (Aug) |  |  | 51.38K |
+| 13:30 | ZAR | Total Vehicle Sales (YoY) (Aug) |  |  | 15.60% |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 1.994% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 1.974% |
 | 14:00 | EUR | French 6-Month BTF Auction |  |  | 1.963% |
