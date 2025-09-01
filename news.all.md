@@ -21,14 +21,14 @@
 | 03:00 | IDR | Low | Core Inflation (YoY) (Aug) | 2.17% |  | 2.32% |
 | 03:00 | IDR | Low | Export Growth (YoY) (Jul) | 9.86% |  | 11.29% |
 | 03:00 | IDR | Low | Import Growth (YoY) (Jul) | -5.86% |  | 4.28% |
-| 03:00 | IDR | Low | Inflation (YoY) (Aug) | 2.31% |  | 2.37% |
 | 03:00 | IDR | Low | Inflation (MoM) (Aug) | -0.08% |  | 0.30% |
+| 03:00 | IDR | Low | Inflation (YoY) (Aug) | 2.31% |  | 2.37% |
 | 03:00 | IDR | Low | Trade Balance (Jul) | 4.18B |  | 4.11B |
 | 06:00 | INR | Low | S&P Global Manufacturing PMI (Aug) | 59.3 | 59.8 | 59.1 |
-| 23 min | CHF | Low | Retail Sales (YoY) (Jul) |  | 3.6% | 3.8% |
-| 53 min | GBP | Moderate | Nationwide HPI (MoM) (Aug) |  | 0.1% | 0.6% |
-| 53 min | GBP | Moderate | Nationwide HPI (YoY) (Aug) |  |  | 2.4% |
-| 07:30 | AUD | Low | Commodity Prices (YoY) (Aug) |  |  | -9.0% |
+| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Aug) | -0.1% | 0.1% | 0.5% |
+| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Aug) | 2.1% |  | 2.4% |
+| 19 min | CHF | Low | Retail Sales (YoY) (Jul) |  | 3.6% | 3.8% |
+| 19 min | AUD | Low | Commodity Prices (YoY) (Aug) |  |  | -9.0% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Aug) |  | 52.1 | 51.9 |
 | 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (Aug) |  | 46.9 | 48.8 |
 | 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Aug) |  | 49.8 | 49.8 |
@@ -47,12 +47,12 @@
 | 09:30 | HKD | Low | Retail Sales (YoY) (Jul) |  |  | 0.7% |
 | 10:00 | EUR | Moderate | Unemployment Rate (Jul) |  | 6.2% | 6.2% |
 | 10:00 | ZAR | Low | Manufacturing PMI (Aug) |  |  | 50.8 |
-| 11:00 | EUR | Low | Car Registration (MoM) (Aug) |  |  | -17.50% |
 | 11:00 | EUR | Low | Car Registration (YoY) (Aug) |  |  | 17.10% |
+| 11:00 | EUR | Low | Car Registration (MoM) (Aug) |  |  | -17.50% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 13:30 | ZAR | Low | Total Vehicle Sales (YoY) (Aug) |  |  | 15.60% |
 | 13:30 | ZAR | Low | Total Vehicle Sales (Aug) |  |  | 51.38K |
+| 13:30 | ZAR | Low | Total Vehicle Sales (YoY) (Aug) |  |  | 15.60% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 1.994% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 1.974% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 1.963% |
