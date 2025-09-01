@@ -61,7 +61,7 @@
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 1.984% |  | 1.974% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.009% |  | 1.963% |
 | 14:00 | BRL | Low | S&P Global Manufacturing PMI (Aug) | 47.7 |  | 48.2 |
-| 53 min | MXN | Low | S&P Global Manufacturing PMI (Aug) |  |  | 49.10 |
+| 16:00 | MXN | Low | S&P Global Manufacturing PMI (Aug) | 50.20 |  | 49.10 |
 | 18:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 23:45 | NZD | Low | Terms of Trade - Exports Prices (Q2) |  |  | 7.1% |
 | 23:45 | NZD | Low | Terms of Trade - Exports Volume (QoQ) (Q2) |  |  | 4.6% |
