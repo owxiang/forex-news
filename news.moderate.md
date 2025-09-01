@@ -2,12 +2,12 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 44 min | JPY | Capital Spending (YoY) (Q2) |  | 6.3% | 6.4% |
-| 02:30 | AUD | Building Approvals (MoM) (Jul) |  | -4.8% | 11.9% |
-| 02:30 | AUD | Company Gross Operating Profits (QoQ) (Q2) |  | 1.0% | -0.5% |
+| 00:50 | JPY | Capital Spending (YoY) (Q2) | 7.6% | 6.3% | 6.4% |
+| 54 min | AUD | Building Approvals (MoM) (Jul) |  | -4.8% | 11.9% |
+| 54 min | AUD | Company Gross Operating Profits (QoQ) (Q2) |  | 1.0% | -0.5% |
 | 02:45 | CNY | Caixin Manufacturing PMI (MoM) (Aug) |  | 49.7 | 49.5 |
-| 07:00 | GBP | Nationwide HPI (YoY) (Aug) |  |  | 2.4% |
 | 07:00 | GBP | Nationwide HPI (MoM) (Aug) |  | 0.1% | 0.6% |
+| 07:00 | GBP | Nationwide HPI (YoY) (Aug) |  |  | 2.4% |
 | 08:15 | EUR | HCOB Spain Manufacturing PMI (Aug) |  | 52.1 | 51.9 |
 | 08:30 | CHF | procure.ch Manufacturing PMI (Aug) |  | 46.9 | 48.8 |
 | 08:45 | EUR | HCOB Italy Manufacturing PMI (Aug) |  | 49.8 | 49.8 |

@@ -3,20 +3,20 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | AUD | Low | Judo Bank Manufacturing PMI (Aug) | 53.0 | 52.9 | 52.9 |
-| 44 min | JPY | Moderate | Capital Spending (YoY) (Q2) |  | 6.3% | 6.4% |
-| 54 min | KRW | Low | Exports (YoY) (Aug) |  | 5.9% | 5.8% |
-| 54 min | KRW | Low | Imports (YoY) (Aug) |  | 0.7% | 0.7% |
-| 54 min | KRW | Low | Trade Balance (Aug) |  | 6.61B | 6.61B |
-| 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Aug) |  |  | 48.0 |
-| 01:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Aug) |  | 49.9 | 49.9 |
-| 01:30 | IDR | Low | S&P Global Manufacturing PMI (Aug) |  |  | 49.2 |
-| 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (Aug) |  |  | -1.0% |
-| 02:30 | AUD | Low | Building Approvals (YoY) (Jul) |  |  | 5.40% |
-| 02:30 | AUD | Moderate | Building Approvals (MoM) (Jul) |  | -4.8% | 11.9% |
-| 02:30 | AUD | Low | Business inventories (MoM) (Q2) |  |  | 0.8% |
-| 02:30 | AUD | Moderate | Company Gross Operating Profits (QoQ) (Q2) |  | 1.0% | -0.5% |
-| 02:30 | AUD | Low | Company Profits Pre-Tax (QoQ) (Q2) |  |  | 0.7% |
-| 02:30 | AUD | Low | Private House Approvals (Jul) |  |  | -2.0% |
+| 00:50 | JPY | Moderate | Capital Spending (YoY) (Q2) | 7.6% | 6.3% | 6.4% |
+| 01:00 | KRW | Low | Exports (YoY) (Aug) | 1.3% | 5.9% | 5.8% |
+| 01:00 | KRW | Low | Imports (YoY) (Aug) | -4.0% | 0.7% | 0.7% |
+| 01:00 | KRW | Low | Trade Balance (Aug) | 6.51B | 6.61B | 6.61B |
+| 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Aug) | 48.3 |  | 48.0 |
+| 01:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Aug) | 49.7 | 49.9 | 49.9 |
+| 01:30 | IDR | Low | S&P Global Manufacturing PMI (Aug) | 51.5 |  | 49.2 |
+| 54 min | AUD | Low | ANZ Job Advertisements (MoM) (Aug) |  |  | -1.0% |
+| 54 min | AUD | Low | Building Approvals (YoY) (Jul) |  |  | 5.40% |
+| 54 min | AUD | Moderate | Building Approvals (MoM) (Jul) |  | -4.8% | 11.9% |
+| 54 min | AUD | Low | Business inventories (MoM) (Q2) |  |  | 0.8% |
+| 54 min | AUD | Moderate | Company Gross Operating Profits (QoQ) (Q2) |  | 1.0% | -0.5% |
+| 54 min | AUD | Low | Company Profits Pre-Tax (QoQ) (Q2) |  |  | 0.7% |
+| 54 min | AUD | Low | Private House Approvals (Jul) |  |  | -2.0% |
 | 02:45 | CNY | Moderate | Caixin Manufacturing PMI (MoM) (Aug) |  | 49.7 | 49.5 |
 | 03:00 | IDR | Low | Core Inflation (YoY) (Aug) |  |  | 2.32% |
 | 03:00 | IDR | Low | Export Growth (YoY) (Jul) |  |  | 11.29% |
@@ -26,8 +26,8 @@
 | 03:00 | IDR | Low | Trade Balance (Jul) |  |  | 4.11B |
 | 06:00 | INR | Low | S&P Global Manufacturing PMI (Aug) |  | 59.8 | 59.8 |
 | 06:30 | CHF | Low | Retail Sales (YoY) (Jul) |  | 3.6% | 3.8% |
-| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Aug) |  |  | 2.4% |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Aug) |  | 0.1% | 0.6% |
+| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Aug) |  |  | 2.4% |
 | 07:30 | AUD | Low | Commodity Prices (YoY) (Aug) |  |  | -9.0% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Aug) |  | 52.1 | 51.9 |
 | 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (Aug) |  | 46.9 | 48.8 |
@@ -47,8 +47,8 @@
 | 09:30 | HKD | Low | Retail Sales (YoY) (Jul) |  |  | 0.7% |
 | 10:00 | EUR | Moderate | Unemployment Rate (Jul) |  | 6.2% | 6.2% |
 | 10:00 | ZAR | Low | Manufacturing PMI (Aug) |  |  | 50.8 |
-| 11:00 | EUR | Low | Car Registration (YoY) (Aug) |  |  | 17.10% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Aug) |  |  | -17.50% |
+| 11:00 | EUR | Low | Car Registration (YoY) (Aug) |  |  | 17.10% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 13:30 | ZAR | Low | Total Vehicle Sales (YoY) (Aug) |  |  | 15.60% |
