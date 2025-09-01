@@ -14,13 +14,13 @@
 | 02:30 | AUD | Business inventories (MoM) (Q2) | 0.1% |  | 1.2% |
 | 02:30 | AUD | Company Profits Pre-Tax (QoQ) (Q2) | 2.1% |  | 0.7% |
 | 02:30 | AUD | Private House Approvals (Jul) | 1.1% |  | -2.0% |
-| 27 min | IDR | Core Inflation (YoY) (Aug) |  |  | 2.32% |
-| 27 min | IDR | Export Growth (YoY) (Jul) |  |  | 11.29% |
-| 27 min | IDR | Import Growth (YoY) (Jul) |  |  | 4.28% |
-| 27 min | IDR | Inflation (YoY) (Aug) |  |  | 2.37% |
-| 27 min | IDR | Inflation (MoM) (Aug) |  |  | 0.30% |
-| 27 min | IDR | Trade Balance (Jul) |  |  | 4.11B |
-| 06:00 | INR | S&P Global Manufacturing PMI (Aug) |  | 59.8 | 59.8 |
+| 05:00 | IDR | Core Inflation (YoY) (Aug) |  |  | 2.32% |
+| 05:00 | IDR | Export Growth (YoY) (Jul) |  |  | 11.29% |
+| 05:00 | IDR | Import Growth (YoY) (Jul) |  |  | 4.28% |
+| 05:00 | IDR | Inflation (MoM) (Aug) |  |  | 0.30% |
+| 05:00 | IDR | Inflation (YoY) (Aug) |  |  | 2.37% |
+| 05:00 | IDR | Trade Balance (Jul) |  |  | 4.11B |
+| 47 min | INR | S&P Global Manufacturing PMI (Aug) |  | 59.8 | 59.8 |
 | 06:30 | CHF | Retail Sales (YoY) (Jul) |  | 3.6% | 3.8% |
 | 07:30 | AUD | Commodity Prices (YoY) (Aug) |  |  | -9.0% |
 | 09:00 | EUR | Italian Monthly Unemployment Rate (Jul) |  | 6.2% | 6.3% |
@@ -36,8 +36,8 @@
 | 11:00 | EUR | Car Registration (YoY) (Aug) |  |  | 17.10% |
 | 11:00 | EUR | Car Registration (MoM) (Aug) |  |  | -17.50% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:30 | ZAR | Total Vehicle Sales (YoY) (Aug) |  |  | 15.60% |
 | 13:30 | ZAR | Total Vehicle Sales (Aug) |  |  | 51.38K |
+| 13:30 | ZAR | Total Vehicle Sales (YoY) (Aug) |  |  | 15.60% |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 1.994% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 1.974% |
 | 14:00 | EUR | French 6-Month BTF Auction |  |  | 1.963% |
