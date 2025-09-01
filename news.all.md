@@ -1,69 +1,49 @@
-## 01 September 2025 - All Forex News
+## 02 September 2025 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | AUD | Low | Judo Bank Manufacturing PMI (Aug) | 53.0 | 52.9 | 52.9 |
-| 00:50 | JPY | Moderate | Capital Spending (YoY) (Q2) | 7.6% | 6.3% | 6.4% |
-| 01:00 | KRW | Low | Exports (YoY) (Aug) | 1.3% | 5.9% | 5.9% |
-| 01:00 | KRW | Low | Imports (YoY) (Aug) | -4.0% | 0.7% | 3.3% |
-| 01:00 | KRW | Low | Trade Balance (Aug) | 6.51B | 6.61B | 9.08B |
-| 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Aug) | 48.3 |  | 48.0 |
-| 01:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Aug) | 49.7 | 49.9 | 49.9 |
-| 01:30 | IDR | Low | S&P Global Manufacturing PMI (Aug) | 51.5 |  | 49.2 |
-| 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (Aug) | 0.1% |  | -0.6% |
-| 02:30 | AUD | Low | Building Approvals (YoY) (Jul) | 8.30% |  | 6.10% |
-| 02:30 | AUD | Moderate | Building Approvals (MoM) (Jul) | -8.2% | -4.8% | 12.2% |
-| 02:30 | AUD | Low | Business inventories (MoM) (Q2) | 0.1% |  | 1.2% |
-| 02:30 | AUD | Moderate | Company Gross Operating Profits (QoQ) (Q2) | -2.4% | 1.0% | -1.0% |
-| 02:30 | AUD | Low | Company Profits Pre-Tax (QoQ) (Q2) | 2.1% |  | 0.7% |
-| 02:30 | AUD | Low | Private House Approvals (Jul) | 1.1% |  | -1.9% |
-| 02:45 | CNY | Moderate | Caixin Manufacturing PMI (MoM) (Aug) | 50.5 | 49.7 | 49.5 |
-| 03:00 | IDR | Low | Core Inflation (YoY) (Aug) | 2.17% |  | 2.32% |
-| 03:00 | IDR | Low | Export Growth (YoY) (Jul) | 9.86% |  | 11.29% |
-| 03:00 | IDR | Low | Import Growth (YoY) (Jul) | -5.86% |  | 4.28% |
-| 03:00 | IDR | Low | Inflation (YoY) (Aug) | 2.31% |  | 2.37% |
-| 03:00 | IDR | Low | Inflation (MoM) (Aug) | -0.08% |  | 0.30% |
-| 03:00 | IDR | Low | Trade Balance (Jul) | 4.18B |  | 4.11B |
-| 06:00 | INR | Low | S&P Global Manufacturing PMI (Aug) | 59.3 | 59.8 | 59.1 |
-| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Aug) | -0.1% | 0.1% | 0.5% |
-| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Aug) | 2.1% |  | 2.4% |
-| 07:30 | CHF | Low | Retail Sales (YoY) (Jul) | 0.7% | 3.6% | 3.9% |
-| 07:30 | AUD | Low | Commodity Prices (YoY) (Aug) | -4.3% |  | -9.0% |
-| 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Aug) | 54.3 | 52.1 | 51.9 |
-| 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (Aug) | 49.0 | 46.9 | 48.8 |
-| 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Aug) | 50.4 | 49.8 | 49.8 |
-| 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (Aug) | 50.4 | 49.9 | 48.2 |
-| 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Aug) | 49.8 | 49.9 | 49.1 |
-| 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Jul) | 6.0% | 6.2% | 6.2% |
-| 09:00 | NOK | Low | Manufacturing PMI (Aug) | 49.6 |  | 51.1 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Aug) | 50.7 | 50.5 | 49.8 |
-| 09:30 | GBP | Low | BoE Consumer Credit (Jul) | 1.622B | 1.350B | 1.471B |
-| 09:30 | GBP | Low | M3 Money Supply (Jul) | 3,146.6B |  | 3,143.4B |
-| 09:30 | GBP | Low | M4 Money Supply (MoM) (Jul) | 0.1% | 0.2% | 0.3% |
-| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Aug) | 47.0 | 47.3 | 48.0 |
-| 09:30 | GBP | Low | Mortgage Approvals (Jul) | 65.35K | 64.00K | 64.57K |
-| 09:30 | GBP | Low | Mortgage Lending (Jul) | 4.52B | 3.40B | 5.39B |
-| 09:30 | GBP | Low | Net Lending to Individuals (Jul) | 6.144B | 4.900B | 6.861B |
-| 09:30 | HKD | Low | Retail Sales (YoY) (Jul) | 1.8% |  | 0.7% |
-| 10:00 | EUR | Moderate | Unemployment Rate (Jul) | 6.2% | 6.2% | 6.3% |
-| 10:00 | ZAR | Low | Manufacturing PMI (Aug) | 49.5 |  | 50.8 |
-| 11:00 | EUR | Low | Car Registration (YoY) (Aug) | 17.20% |  | 17.10% |
-| 11:00 | EUR | Low | Car Registration (MoM) (Aug) | -37.60% |  | -17.50% |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | INR | Low | Balance of Payments (USD) (Q2) | 4.500B |  | 8.800B |
-| 13:00 | INR | Low | Current Account % of GDP (QoQ) (Q2) | -0.20% |  | 1.30% |
-| 13:00 | INR | Low | Current Account (USD) (Q2) | -2.40B |  | 13.50B |
-| 13:00 | INR | Low | Trade Balance (USD) (Q2) | -68.500B |  | -59.500B |
-| 13:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (Aug) | 18.70% |  | 15.60% |
-| 13:00 | ZAR | Low | Total Vehicle Sales (Aug) | 51.88K |  | 51.49K |
-| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.020% |  | 1.994% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction | 1.984% |  | 1.974% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.009% |  | 1.963% |
-| 14:00 | BRL | Low | S&P Global Manufacturing PMI (Aug) | 47.7 |  | 48.2 |
-| 16:00 | MXN | Low | S&P Global Manufacturing PMI (Aug) | 50.20 |  | 49.10 |
-| 18:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 39 min | NZD | Low | Terms of Trade - Exports Prices (Q2) |  |  | 7.1% |
-| 39 min | NZD | Low | Terms of Trade - Exports Volume (QoQ) (Q2) |  |  | 4.6% |
-| 39 min | NZD | Low | Terms of Trade - Imports Prices (Q2) |  |  | 5.1% |
-| 39 min | NZD | Low | Terms of Trade Index (QoQ) (Q2) |  | 2.1% | 1.9% |
+| 00:00 | KRW | Low | CPI (MoM) (Aug) | -0.1% | 0.2% | 0.2% |
+| 00:00 | KRW | Low | CPI (YoY) (Aug) | 1.7% | 2.0% | 2.1% |
+| 44 min | JPY | Low | Monetary Base (YoY) (Aug) |  | -3.5% | -3.7% |
+| 02:00 | AUD | Low | MI Inflation Gauge (MoM) (Aug) |  |  | 0.9% |
+| 02:30 | AUD | Moderate | Current Account (Q2) |  | -15.9B | -14.7B |
+| 02:30 | AUD | Low | Net Exports Contribution (Q2) |  | 0.3% | -0.1% |
+| 04:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 1.462% |
+| 07:45 | EUR | Low | French Government Budget Balance (Jul) |  | -107.2B | -100.4B |
+| 08:00 | EUR | Moderate | Spanish Unemployment Change (Aug) |  |  | -1.4K |
+| 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Aug) |  |  | 0.28% |
+| 09:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 1.945% |
+| 09:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 1.932% |
+| 10:00 | EUR | Low | Italian PPI (YoY) (Jul) |  |  | 2.5% |
+| 10:00 | EUR | Low | Italian PPI (MoM) (Jul) |  |  | 1.5% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Aug) |  | 2.2% | 2.3% |
+| 10:00 | EUR | Low | Core CPI (MoM) (Aug) |  |  | -0.2% |
+| 10:00 | EUR | High | CPI (YoY) (Aug) |  | 2.0% | 2.0% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Aug) |  |  | 0.0% |
+| 10:00 | EUR | Low | CPI, n.s.a (Aug) |  |  | 129.12 |
+| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Aug) |  |  | 2.4% |
+| 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Aug) |  |  | -0.1% |
+| 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 1.900% |
+| 11:00 | EUR | Low | Car Registration (MoM) (Aug) |  |  | -17.50% |
+| 11:00 | EUR | Low | Car Registration (YoY) (Aug) |  |  | 17.10% |
+| 12:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 13:00 | BRL | Moderate | GDP (QoQ) (Q2) |  | 0.3% | 1.4% |
+| 13:00 | BRL | Moderate | GDP (YoY) (Q2) |  | 2.1% | 2.9% |
+| 14:00 | SGD | Low | S&P Global Manufacturing PMI (Aug) |  |  | 49.9 |
+| 14:30 | CAD | Low | S&P Global Manufacturing PMI (Aug) |  |  | 46.1 |
+| 14:45 | USD | High | S&P Global Manufacturing PMI (Aug) |  | 53.3 | 49.8 |
+| 15:00 | USD | Moderate | Construction Spending (MoM) (Jul) |  | -0.1% | -0.4% |
+| 15:00 | USD | Moderate | ISM Manufacturing Employment (Aug) |  |  | 43.4 |
+| 15:00 | USD | Low | ISM Manufacturing New Orders Index (Aug) |  |  | 47.1 |
+| 15:00 | USD | High | ISM Manufacturing PMI (Aug) |  | 48.9 | 48.0 |
+| 15:00 | USD | High | ISM Manufacturing Prices (Aug) |  | 65.1 | 64.8 |
+| 15:00 | USD | Low | Total Vehicle Sales (Aug) |  |  | 16.40M |
+| 15:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 15:10 | USD | Low | IBD/TIPP Economic Optimism (Sep) |  | 51.8 | 50.9 |
+| 16:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -0.3% |
+| 16:00 | USD | Low | Milk Auctions |  |  | 4,291.0 |
+| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.100% |
+| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.915% |
+| 17:30 | EUR | Low | Italian Car Registration (YoY) (Aug) |  |  | -5.1% |
+| 18:00 | USD | Low | 52-Week Bill Auction |  |  | 3.760% |
+| 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 3.5% | 3.5% |
