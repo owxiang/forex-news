@@ -50,17 +50,17 @@
 | 11:00 | EUR | Low | Car Registration (MoM) (Aug) | -37.60% |  | -17.50% |
 | 11:00 | EUR | Low | Car Registration (YoY) (Aug) | 17.20% |  | 17.10% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 12:30 | INR | Low | Balance of Payments (USD) (Q1) | 4.500B |  | -37.700B |
-| 12:30 | INR | Low | Current Account % of GDP (QoQ) (Q1) | -0.20% |  | -1.10% |
-| 12:30 | INR | Low | Current Account (USD) (Q1) | -2.40B |  | -11.50B |
-| 12:30 | INR | Low | Trade Balance (USD) (Q1) | -68.500B |  | -79.200B |
+| 13:00 | INR | Low | Balance of Payments (USD) (Q2) | 4.500B |  | 8.800B |
+| 13:00 | INR | Low | Current Account % of GDP (QoQ) (Q2) | -0.20% |  | 1.30% |
+| 13:00 | INR | Low | Current Account (USD) (Q2) | -2.40B |  | 13.50B |
+| 13:00 | INR | Low | Trade Balance (USD) (Q2) | -68.500B |  | -59.500B |
 | 13:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 19 min | ZAR | Low | Total Vehicle Sales (Aug) |  |  | 51.38K |
-| 19 min | ZAR | Low | Total Vehicle Sales (YoY) (Aug) |  |  | 15.60% |
-| 49 min | EUR | Low | French 12-Month BTF Auction |  |  | 1.994% |
-| 49 min | EUR | Low | French 3-Month BTF Auction |  |  | 1.974% |
-| 49 min | EUR | Low | French 6-Month BTF Auction |  |  | 1.963% |
-| 49 min | BRL | Low | S&P Global Manufacturing PMI (Aug) |  |  | 48.2 |
+| 13:00 | ZAR | Low | Total Vehicle Sales (Aug) | 51.88K |  | 51.49K |
+| 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (Aug) | 18.70% |  | 15.60% |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.020% |  | 1.994% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 1.984% |  | 1.974% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.009% |  | 1.963% |
+| 14:00 | BRL | Low | S&P Global Manufacturing PMI (Aug) | 47.7 |  | 48.2 |
 | 15:00 | USD | Low | Dallas Fed PCE (Jul) |  |  | 3.40% |
 | 16:00 | MXN | Low | S&P Global Manufacturing PMI (Aug) |  |  | 49.10 |
 | 18:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
