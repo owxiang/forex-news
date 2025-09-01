@@ -17,8 +17,8 @@
 | 03:00 | IDR | Core Inflation (YoY) (Aug) | 2.17% |  | 2.32% |
 | 03:00 | IDR | Export Growth (YoY) (Jul) | 9.86% |  | 11.29% |
 | 03:00 | IDR | Import Growth (YoY) (Jul) | -5.86% |  | 4.28% |
-| 03:00 | IDR | Inflation (YoY) (Aug) | 2.31% |  | 2.37% |
 | 03:00 | IDR | Inflation (MoM) (Aug) | -0.08% |  | 0.30% |
+| 03:00 | IDR | Inflation (YoY) (Aug) | 2.31% |  | 2.37% |
 | 03:00 | IDR | Trade Balance (Jul) | 4.18B |  | 4.11B |
 | 06:00 | INR | S&P Global Manufacturing PMI (Aug) | 59.3 | 59.8 | 59.1 |
 | 07:30 | CHF | Retail Sales (YoY) (Jul) | 0.7% | 3.6% | 3.9% |
@@ -33,13 +33,19 @@
 | 09:30 | GBP | Net Lending to Individuals (Jul) | 6.144B | 4.900B | 6.861B |
 | 09:30 | HKD | Retail Sales (YoY) (Jul) | 1.8% |  | 0.7% |
 | 10:00 | ZAR | Manufacturing PMI (Aug) | 49.5 |  | 50.8 |
-| 19 min | BRL | BCB Focus Market Readout |  |  |  |
-| 13:30 | ZAR | Total Vehicle Sales (YoY) (Aug) |  |  | 15.60% |
-| 13:30 | ZAR | Total Vehicle Sales (Aug) |  |  | 51.38K |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 1.994% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 1.974% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 1.963% |
-| 14:00 | BRL | S&P Global Manufacturing PMI (Aug) |  |  | 48.2 |
+| 11:00 | EUR | Car Registration (MoM) (Aug) | -37.60% |  | -17.50% |
+| 11:00 | EUR | Car Registration (YoY) (Aug) | 17.20% |  | 17.10% |
+| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 12:30 | INR | Balance of Payments (USD) (Q1) | 4.500B |  | -37.700B |
+| 12:30 | INR | Current Account % of GDP (QoQ) (Q1) | -0.20% |  | -1.10% |
+| 12:30 | INR | Current Account (USD) (Q1) | -2.40B |  | -11.50B |
+| 12:30 | INR | Trade Balance (USD) (Q1) | -68.500B |  | -79.200B |
+| 19 min | ZAR | Total Vehicle Sales (Aug) |  |  | 51.38K |
+| 19 min | ZAR | Total Vehicle Sales (YoY) (Aug) |  |  | 15.60% |
+| 49 min | EUR | French 12-Month BTF Auction |  |  | 1.994% |
+| 49 min | EUR | French 3-Month BTF Auction |  |  | 1.974% |
+| 49 min | EUR | French 6-Month BTF Auction |  |  | 1.963% |
+| 49 min | BRL | S&P Global Manufacturing PMI (Aug) |  |  | 48.2 |
 | 15:00 | USD | Dallas Fed PCE (Jul) |  |  | 3.40% |
 | 16:00 | MXN | S&P Global Manufacturing PMI (Aug) |  |  | 49.10 |
 | 23:45 | NZD | Terms of Trade - Exports Prices (Q2) |  |  | 7.1% |
