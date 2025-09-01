@@ -47,8 +47,8 @@
 | 09:30 | HKD | Low | Retail Sales (YoY) (Jul) | 1.8% |  | 0.7% |
 | 10:00 | EUR | Moderate | Unemployment Rate (Jul) | 6.2% | 6.2% | 6.3% |
 | 10:00 | ZAR | Low | Manufacturing PMI (Aug) | 49.5 |  | 50.8 |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 19 min | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 54 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 13:30 | ZAR | Low | Total Vehicle Sales (YoY) (Aug) |  |  | 15.60% |
 | 13:30 | ZAR | Low | Total Vehicle Sales (Aug) |  |  | 51.38K |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 1.994% |

@@ -16,5 +16,5 @@
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Aug) | 50.7 | 50.5 | 49.8 |
 | 09:30 | GBP | S&P Global Manufacturing PMI (Aug) | 47.0 | 47.3 | 48.0 |
 | 10:00 | EUR | Unemployment Rate (Jul) | 6.2% | 6.2% | 6.3% |
-| 13:00 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 54 min | EUR | ECB's Schnabel Speaks |  |  |  |
 | 18:30 | EUR | ECB President Lagarde Speaks |  |  |  |

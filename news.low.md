@@ -33,7 +33,7 @@
 | 09:30 | GBP | Net Lending to Individuals (Jul) | 6.144B | 4.900B | 6.861B |
 | 09:30 | HKD | Retail Sales (YoY) (Jul) | 1.8% |  | 0.7% |
 | 10:00 | ZAR | Manufacturing PMI (Aug) | 49.5 |  | 50.8 |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 19 min | BRL | BCB Focus Market Readout |  |  |  |
 | 13:30 | ZAR | Total Vehicle Sales (YoY) (Aug) |  |  | 15.60% |
 | 13:30 | ZAR | Total Vehicle Sales (Aug) |  |  | 51.38K |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 1.994% |
