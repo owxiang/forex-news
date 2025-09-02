@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 02:30 | AUD | Current Account (Q2) | -13.7B | -15.9B | -14.1B |
 | 04:35 | JPY | 10-Year JGB Auction | 1.612% |  | 1.462% |
-| 08:00 | EUR | Spanish Unemployment Change (Aug) |  | 14.2K | -1.4K |
+| 50 min | EUR | Spanish Unemployment Change (Aug) |  | 14.2K | -1.4K |
 | 09:00 | BRL | IPC-Fipe Inflation Index (MoM) (Aug) |  |  | 0.28% |
 | 10:00 | EUR | Core CPI (YoY) (Aug) |  | 2.2% | 2.3% |
 | 10:00 | EUR | CPI (MoM) (Aug) |  |  | 0.0% |

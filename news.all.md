@@ -8,8 +8,8 @@
 | 02:30 | AUD | Moderate | Current Account (Q2) | -13.7B | -15.9B | -14.1B |
 | 02:30 | AUD | Low | Net Exports Contribution (Q2) | 0.1% | 0.3% | -0.1% |
 | 04:35 | JPY | Moderate | 10-Year JGB Auction | 1.612% |  | 1.462% |
-| 07:45 | EUR | Low | French Government Budget Balance (Jul) |  | -107.2B | -100.4B |
-| 08:00 | EUR | Moderate | Spanish Unemployment Change (Aug) |  | 14.2K | -1.4K |
+| 35 min | EUR | Low | French Government Budget Balance (Jul) |  | -107.2B | -100.4B |
+| 50 min | EUR | Moderate | Spanish Unemployment Change (Aug) |  | 14.2K | -1.4K |
 | 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Aug) |  |  | 0.28% |
 | 09:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 1.945% |
 | 09:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 1.932% |

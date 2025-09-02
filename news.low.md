@@ -6,7 +6,7 @@
 | 00:00 | KRW | CPI (YoY) (Aug) | 1.7% | 2.0% | 2.1% |
 | 00:50 | JPY | Monetary Base (YoY) (Aug) | -4.1% | -3.5% | -3.9% |
 | 02:30 | AUD | Net Exports Contribution (Q2) | 0.1% | 0.3% | -0.1% |
-| 07:45 | EUR | French Government Budget Balance (Jul) |  | -107.2B | -100.4B |
+| 35 min | EUR | French Government Budget Balance (Jul) |  | -107.2B | -100.4B |
 | 09:40 | EUR | Spanish 12-Month Letras Auction |  |  | 1.945% |
 | 09:40 | EUR | Spanish 6-Month Letras Auction |  |  | 1.932% |
 | 10:00 | EUR | Italian PPI (MoM) (Jul) |  |  | 1.5% |
