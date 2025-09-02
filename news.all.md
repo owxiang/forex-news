@@ -27,8 +27,8 @@
 | 11:00 | EUR | Low | Car Registration (MoM) (Aug) |  |  | -17.50% |
 | 11:00 | EUR | Low | Car Registration (YoY) (Aug) |  |  | 17.10% |
 | 12:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 13:00 | BRL | Moderate | GDP (YoY) (Q2) |  | 2.1% | 2.9% |
 | 13:00 | BRL | Moderate | GDP (QoQ) (Q2) |  | 0.3% | 1.4% |
+| 13:00 | BRL | Moderate | GDP (YoY) (Q2) |  | 2.1% | 2.9% |
 | 14:00 | SGD | Low | S&P Global Manufacturing PMI (Aug) |  |  | 49.9 |
 | 14:30 | CAD | Low | S&P Global Manufacturing PMI (Aug) |  |  | 46.1 |
 | 14:45 | USD | High | S&P Global Manufacturing PMI (Aug) |  | 53.3 | 49.8 |
