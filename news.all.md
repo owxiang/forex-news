@@ -13,10 +13,10 @@
 | 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Aug) | 0.04% |  | 0.28% |
 | 09:40 | EUR | Low | Spanish 12-Month Letras Auction | 1.986% |  | 1.945% |
 | 09:40 | EUR | Low | Spanish 6-Month Letras Auction | 1.958% |  | 1.932% |
-| 10:00 | EUR | Low | Italian PPI (YoY) (Jul) | 1.6% |  | 2.4% |
 | 10:00 | EUR | Low | Italian PPI (MoM) (Jul) | 0.5% |  | 1.4% |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Aug) | 2.3% | 2.2% | 2.3% |
+| 10:00 | EUR | Low | Italian PPI (YoY) (Jul) | 1.6% |  | 2.4% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Aug) | 0.3% |  | -0.2% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Aug) | 2.3% | 2.2% | 2.3% |
 | 10:00 | EUR | High | CPI (YoY) (Aug) | 2.1% | 2.1% | 2.0% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Aug) | 0.2% |  | 0.0% |
 | 10:00 | EUR | Low | CPI, n.s.a (Aug) | 129.32 |  | 129.12 |
@@ -24,8 +24,8 @@
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Aug) | 0.3% |  | -0.1% |
 | 10:30 | EUR | Low | German 2-Year Schatz Auction | 1.960% |  | 1.900% |
 | 12:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 13:00 | BRL | Moderate | GDP (QoQ) (Q2) | 0.4% | 0.3% | 1.3% |
 | 13:00 | BRL | Moderate | GDP (YoY) (Q2) | 2.2% | 2.2% | 2.9% |
+| 13:00 | BRL | Moderate | GDP (QoQ) (Q2) | 0.4% | 0.3% | 1.3% |
 | 13:00 | USD | Low | Milk Auctions |  |  | 4,291.0 |
 | 14:00 | SGD | Low | S&P Global Manufacturing PMI (Aug) | 50.0 |  | 49.9 |
 | 14:30 | CAD | Low | S&P Global Manufacturing PMI (Aug) | 48.3 |  | 46.1 |
@@ -36,11 +36,10 @@
 | 15:00 | USD | High | ISM Manufacturing PMI (Aug) | 48.7 | 49.0 | 48.0 |
 | 15:00 | USD | High | ISM Manufacturing Prices (Aug) | 63.7 | 65.1 | 64.8 |
 | 15:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 3 min | USD | Low | IBD/TIPP Economic Optimism (Sep) |  | 51.8 | 50.9 |
-| 53 min | NZD | Low | GlobalDairyTrade Price Index |  |  | -0.3% |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.100% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.915% |
-| 17:00 | USD | Low | Total Vehicle Sales (Aug) |  |  | 16.40M |
+| 15:10 | USD | Low | IBD/TIPP Economic Optimism (Sep) | 48.7 | 51.8 | 50.9 |
+| 23 min | USD | Low | 3-Month Bill Auction |  |  | 4.100% |
+| 23 min | USD | Low | 6-Month Bill Auction |  |  | 3.915% |
+| 53 min | USD | Low | Total Vehicle Sales (Aug) |  |  | 16.40M |
 | 18:00 | USD | Low | 52-Week Bill Auction |  |  | 3.760% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 3.5% | 3.5% |
 | 19:00 | USD | High | U.S. President Trump Speaks |  |  |  |
