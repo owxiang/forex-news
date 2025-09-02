@@ -2,13 +2,13 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | CPI (MoM) (Aug) | -0.1% | 0.2% | 0.2% |
 | 00:00 | KRW | Low | CPI (YoY) (Aug) | 1.7% | 2.0% | 2.1% |
+| 00:00 | KRW | Low | CPI (MoM) (Aug) | -0.1% | 0.2% | 0.2% |
 | 00:50 | JPY | Low | Monetary Base (YoY) (Aug) | -4.1% | -3.5% | -3.9% |
 | 02:30 | AUD | Moderate | Current Account (Q2) | -13.7B | -15.9B | -14.7B |
 | 02:30 | AUD | Low | Net Exports Contribution (Q2) | 0.1% | 0.3% | -0.1% |
-| 12 min | JPY | Moderate | 10-Year JGB Auction |  |  | 1.462% |
-| 37 min | AUD | Low | MI Inflation Gauge (MoM) (Aug) |  |  | 0.9% |
+| 04:35 | JPY | Moderate | 10-Year JGB Auction | 1.612% |  | 1.462% |
+| 05:00 | AUD | Low | MI Inflation Gauge (MoM) (Aug) |  |  | 0.9% |
 | 07:45 | EUR | Low | French Government Budget Balance (Jul) |  | -107.2B | -100.4B |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change (Aug) |  |  | -1.4K |
 | 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Aug) |  |  | 0.28% |
@@ -24,11 +24,11 @@
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Aug) |  |  | 2.4% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Aug) |  |  | -0.1% |
 | 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 1.900% |
-| 11:00 | EUR | Low | Car Registration (YoY) (Aug) |  |  | 17.10% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Aug) |  |  | -17.50% |
+| 11:00 | EUR | Low | Car Registration (YoY) (Aug) |  |  | 17.10% |
 | 12:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 13:00 | BRL | Moderate | GDP (QoQ) (Q2) |  | 0.3% | 1.4% |
 | 13:00 | BRL | Moderate | GDP (YoY) (Q2) |  | 2.1% | 2.9% |
+| 13:00 | BRL | Moderate | GDP (QoQ) (Q2) |  | 0.3% | 1.4% |
 | 14:00 | SGD | Low | S&P Global Manufacturing PMI (Aug) |  |  | 49.9 |
 | 14:30 | CAD | Low | S&P Global Manufacturing PMI (Aug) |  |  | 46.1 |
 | 14:45 | USD | High | S&P Global Manufacturing PMI (Aug) |  | 53.3 | 49.8 |
