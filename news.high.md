@@ -6,4 +6,4 @@
 | 14:45 | USD | S&P Global Manufacturing PMI (Aug) | 53.0 | 53.3 | 49.8 |
 | 15:00 | USD | ISM Manufacturing PMI (Aug) | 48.7 | 49.0 | 48.0 |
 | 15:00 | USD | ISM Manufacturing Prices (Aug) | 63.7 | 65.1 | 64.8 |
-| 19:00 | USD | U.S. President Trump Speaks |  |  |  |
+| 54 min | USD | U.S. President Trump Speaks |  |  |  |
