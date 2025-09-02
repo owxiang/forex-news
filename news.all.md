@@ -13,10 +13,10 @@
 | 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Aug) | 0.04% |  | 0.28% |
 | 09:40 | EUR | Low | Spanish 12-Month Letras Auction | 1.986% |  | 1.945% |
 | 09:40 | EUR | Low | Spanish 6-Month Letras Auction | 1.958% |  | 1.932% |
-| 10:00 | EUR | Low | Italian PPI (YoY) (Jul) | 1.6% |  | 2.4% |
 | 10:00 | EUR | Low | Italian PPI (MoM) (Jul) | 0.5% |  | 1.4% |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Aug) | 2.3% | 2.2% | 2.3% |
+| 10:00 | EUR | Low | Italian PPI (YoY) (Jul) | 1.6% |  | 2.4% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Aug) | 0.3% |  | -0.2% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Aug) | 2.3% | 2.2% | 2.3% |
 | 10:00 | EUR | High | CPI (YoY) (Aug) | 2.1% | 2.1% | 2.0% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Aug) | 0.2% |  | 0.0% |
 | 10:00 | EUR | Low | CPI, n.s.a (Aug) | 129.32 |  | 129.12 |
