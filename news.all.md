@@ -13,8 +13,8 @@
 | 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Aug) | 0.04% |  | 0.28% |
 | 09:40 | EUR | Low | Spanish 12-Month Letras Auction | 1.986% |  | 1.945% |
 | 09:40 | EUR | Low | Spanish 6-Month Letras Auction | 1.958% |  | 1.932% |
-| 10:00 | EUR | Low | Italian PPI (MoM) (Jul) | 0.5% |  | 1.4% |
 | 10:00 | EUR | Low | Italian PPI (YoY) (Jul) | 1.6% |  | 2.4% |
+| 10:00 | EUR | Low | Italian PPI (MoM) (Jul) | 0.5% |  | 1.4% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Aug) | 2.3% | 2.2% | 2.3% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Aug) | 0.3% |  | -0.2% |
 | 10:00 | EUR | High | CPI (YoY) (Aug) | 2.1% | 2.1% | 2.0% |
@@ -41,4 +41,4 @@
 | 16:30 | USD | Low | 6-Month Bill Auction | 3.880% |  | 3.915% |
 | 18:00 | USD | Low | 52-Week Bill Auction | 3.660% |  | 3.760% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 3.0% | 3.5% | 3.5% |
-| 54 min | USD | High | U.S. President Trump Speaks |  |  |  |
+| 19:00 | USD | High | U.S. President Trump Speaks |  |  |  |

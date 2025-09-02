@@ -9,8 +9,8 @@
 | 07:45 | EUR | French Government Budget Balance (Jul) | -142.0B | -107.2B | -100.4B |
 | 09:40 | EUR | Spanish 12-Month Letras Auction | 1.986% |  | 1.945% |
 | 09:40 | EUR | Spanish 6-Month Letras Auction | 1.958% |  | 1.932% |
-| 10:00 | EUR | Italian PPI (MoM) (Jul) | 0.5% |  | 1.4% |
 | 10:00 | EUR | Italian PPI (YoY) (Jul) | 1.6% |  | 2.4% |
+| 10:00 | EUR | Italian PPI (MoM) (Jul) | 0.5% |  | 1.4% |
 | 10:00 | EUR | Core CPI (MoM) (Aug) | 0.3% |  | -0.2% |
 | 10:00 | EUR | CPI, n.s.a (Aug) | 129.32 |  | 129.12 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Aug) | 2.3% |  | 2.4% |
