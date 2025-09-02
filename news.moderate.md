@@ -9,9 +9,9 @@
 | 10:00 | EUR | Core CPI (YoY) (Aug) | 2.3% | 2.2% | 2.3% |
 | 10:00 | EUR | CPI (MoM) (Aug) | 0.2% |  | 0.0% |
 | 12:30 | EUR | ECB's Elderson Speaks |  |  |  |
-| 13:00 | BRL | GDP (YoY) (Q2) | 2.2% | 2.2% | 2.9% |
 | 13:00 | BRL | GDP (QoQ) (Q2) | 0.4% | 0.3% | 1.3% |
+| 13:00 | BRL | GDP (YoY) (Q2) | 2.2% | 2.2% | 2.9% |
 | 15:00 | USD | Construction Spending (MoM) (Jul) | -0.1% | -0.1% | -0.4% |
 | 15:00 | USD | ISM Manufacturing Employment (Aug) | 43.8 | 45.0 | 43.4 |
 | 15:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 18:00 | USD | Atlanta Fed GDPNow (Q3) |  | 3.5% | 3.5% |
+| 52 min | USD | Atlanta Fed GDPNow (Q3) |  | 3.5% | 3.5% |
