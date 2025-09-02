@@ -16,7 +16,7 @@
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Aug) | 2.3% |  | 2.4% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Aug) | 0.3% |  | -0.1% |
 | 10:30 | EUR | German 2-Year Schatz Auction | 1.960% |  | 1.900% |
-| 14:00 | SGD | S&P Global Manufacturing PMI (Aug) |  |  | 49.9 |
+| 48 min | SGD | S&P Global Manufacturing PMI (Aug) |  |  | 49.9 |
 | 14:30 | CAD | S&P Global Manufacturing PMI (Aug) |  |  | 46.1 |
 | 15:00 | USD | ISM Manufacturing New Orders Index (Aug) |  |  | 47.1 |
 | 15:00 | USD | Total Vehicle Sales (Aug) |  |  | 16.40M |

@@ -23,10 +23,10 @@
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Aug) | 2.3% |  | 2.4% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Aug) | 0.3% |  | -0.1% |
 | 10:30 | EUR | Low | German 2-Year Schatz Auction | 1.960% |  | 1.900% |
-| 24 min | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 54 min | BRL | Moderate | GDP (QoQ) (Q2) |  | 0.3% | 1.4% |
-| 54 min | BRL | Moderate | GDP (YoY) (Q2) |  | 2.1% | 2.9% |
-| 14:00 | SGD | Low | S&P Global Manufacturing PMI (Aug) |  |  | 49.9 |
+| 12:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 13:00 | BRL | Moderate | GDP (QoQ) (Q2) | 0.4% | 0.3% | 1.3% |
+| 13:00 | BRL | Moderate | GDP (YoY) (Q2) | 2.2% | 2.2% | 2.9% |
+| 48 min | SGD | Low | S&P Global Manufacturing PMI (Aug) |  |  | 49.9 |
 | 14:30 | CAD | Low | S&P Global Manufacturing PMI (Aug) |  |  | 46.1 |
 | 14:45 | USD | High | S&P Global Manufacturing PMI (Aug) |  | 53.3 | 49.8 |
 | 15:00 | USD | Moderate | Construction Spending (MoM) (Jul) |  | -0.1% | -0.4% |
