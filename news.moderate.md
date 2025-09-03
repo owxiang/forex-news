@@ -14,10 +14,10 @@
 | 08:55 | EUR | HCOB Germany Services PMI (Aug) | 49.3 | 50.1 | 50.6 |
 | 09:00 | EUR | HCOB Eurozone Composite PMI (Aug) | 51.0 | 51.1 | 50.9 |
 | 09:00 | EUR | HCOB Eurozone Services PMI (Aug) | 50.5 | 50.7 | 51.0 |
-| 21 min | GBP | S&P Global Composite PMI (Aug) |  | 53.0 | 51.5 |
-| 21 min | GBP | S&P Global Services PMI (Aug) |  | 53.6 | 51.8 |
-| 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.690% |
-| 10:30 | ZAR | GDP Annualized (QoQ) (Q2) |  |  | 0.1% |
+| 09:30 | GBP | S&P Global Composite PMI (Aug) | 53.5 | 53.0 | 51.5 |
+| 09:30 | GBP | S&P Global Services PMI (Aug) | 54.2 | 53.6 | 51.8 |
+| 23 min | EUR | German 10-Year Bund Auction |  |  | 2.690% |
+| 23 min | ZAR | GDP Annualized (QoQ) (Q2) |  |  | 0.1% |
 | 13:00 | BRL | Industrial Production (YoY) (Jul) |  | 0.3% | -1.3% |
 | 13:30 | CAD | Labor Productivity (QoQ) (Q2) |  | -0.2% | 0.2% |
 | 14:15 | GBP | BoE MPC Treasury Committee Hearings |  |  |  |

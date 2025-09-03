@@ -33,15 +33,15 @@
 | 09:00 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Aug) | 51.0 | 51.1 | 50.9 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Aug) | 50.5 | 50.7 | 51.0 |
-| 6 min | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 21 min | GBP | Moderate | S&P Global Composite PMI (Aug) |  | 53.0 | 51.5 |
-| 21 min | GBP | Moderate | S&P Global Services PMI (Aug) |  | 53.6 | 51.8 |
-| 51 min | NOK | Low | House Price Index (YoY) (Aug) |  |  | 5.40% |
-| 51 min | EUR | Low | PPI (YoY) (Jul) |  | 0.1% | 0.6% |
-| 51 min | EUR | Low | PPI (MoM) (Jul) |  | 0.2% | 0.8% |
-| 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.690% |
-| 10:30 | ZAR | Moderate | GDP Annualized (QoQ) (Q2) |  |  | 0.1% |
-| 10:30 | ZAR | Low | GDP (YoY) (Q2) |  |  | 0.8% |
+| 09:15 | GBP | Low | BoE Breeden Speaks |  |  |  |
+| 09:30 | GBP | Moderate | S&P Global Composite PMI (Aug) | 53.5 | 53.0 | 51.5 |
+| 09:30 | GBP | Moderate | S&P Global Services PMI (Aug) | 54.2 | 53.6 | 51.8 |
+| 10:00 | NOK | Low | House Price Index (YoY) (Aug) | 5.50% |  | 5.40% |
+| 10:00 | EUR | Low | PPI (YoY) (Jul) | 0.2% | 0.1% | 0.6% |
+| 10:00 | EUR | Low | PPI (MoM) (Jul) | 0.4% | 0.2% | 0.8% |
+| 23 min | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.690% |
+| 23 min | ZAR | Moderate | GDP Annualized (QoQ) (Q2) |  |  | 0.1% |
+| 23 min | ZAR | Low | GDP (YoY) (Q2) |  |  | 0.8% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.69% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -0.5% |
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 163.8 |
@@ -50,8 +50,8 @@
 | 12:30 | INR | Low | M3 Money Supply |  |  | 9.6% |
 | 13:00 | MXN | Low | Consumer Confidence (Aug) |  |  | 45.9 |
 | 13:00 | MXN | Low | Consumer Confidence n.s.a. |  |  | 45.8 |
-| 13:00 | BRL | Low | Industrial Production (MoM) (Jul) |  | -0.2% | 0.1% |
 | 13:00 | BRL | Moderate | Industrial Production (YoY) (Jul) |  | 0.3% | -1.3% |
+| 13:00 | BRL | Low | Industrial Production (MoM) (Jul) |  | -0.2% | 0.1% |
 | 13:30 | CAD | Moderate | Labor Productivity (QoQ) (Q2) |  | -0.2% | 0.2% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 6.5% |
 | 14:00 | BRL | Low | S&P Global Composite PMI (Aug) |  |  | 46.6 |

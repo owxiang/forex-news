@@ -21,11 +21,11 @@
 | 08:50 | EUR | HCOB France Composite PMI (Aug) | 49.8 | 49.8 | 48.6 |
 | 08:55 | EUR | HCOB Germany Composite PMI (Aug) | 50.5 | 50.9 | 50.6 |
 | 09:00 | AUD | RBA Gov Bullock Speaks |  |  |  |
-| 6 min | GBP | BoE Breeden Speaks |  |  |  |
-| 51 min | NOK | House Price Index (YoY) (Aug) |  |  | 5.40% |
-| 51 min | EUR | PPI (YoY) (Jul) |  | 0.1% | 0.6% |
-| 51 min | EUR | PPI (MoM) (Jul) |  | 0.2% | 0.8% |
-| 10:30 | ZAR | GDP (YoY) (Q2) |  |  | 0.8% |
+| 09:15 | GBP | BoE Breeden Speaks |  |  |  |
+| 10:00 | NOK | House Price Index (YoY) (Aug) | 5.50% |  | 5.40% |
+| 10:00 | EUR | PPI (YoY) (Jul) | 0.2% | 0.1% | 0.6% |
+| 10:00 | EUR | PPI (MoM) (Jul) | 0.4% | 0.2% | 0.8% |
+| 23 min | ZAR | GDP (YoY) (Q2) |  |  | 0.8% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.69% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -0.5% |
 | 12:00 | USD | MBA Purchase Index |  |  | 163.8 |
