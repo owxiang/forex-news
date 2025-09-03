@@ -25,12 +25,11 @@
 | 10:00 | NOK | House Price Index (YoY) (Aug) | 5.50% |  | 5.40% |
 | 10:00 | EUR | PPI (YoY) (Jul) | 0.2% | 0.1% | 0.6% |
 | 10:00 | EUR | PPI (MoM) (Jul) | 0.4% | 0.2% | 0.8% |
-| 23 min | ZAR | GDP (YoY) (Q2) |  |  | 0.8% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.69% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -0.5% |
-| 12:00 | USD | MBA Purchase Index |  |  | 163.8 |
-| 12:00 | USD | Mortgage Market Index |  |  | 275.8 |
-| 12:00 | USD | Mortgage Refinance Index |  |  | 894.1 |
+| 53 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.69% |
+| 53 min | USD | MBA Mortgage Applications (WoW) |  |  | -0.5% |
+| 53 min | USD | MBA Purchase Index |  |  | 163.8 |
+| 53 min | USD | Mortgage Market Index |  |  | 275.8 |
+| 53 min | USD | Mortgage Refinance Index |  |  | 894.1 |
 | 12:30 | INR | M3 Money Supply |  |  | 9.6% |
 | 13:00 | MXN | Consumer Confidence (Aug) |  |  | 45.9 |
 | 13:00 | MXN | Consumer Confidence n.s.a. |  |  | 45.8 |
@@ -41,7 +40,6 @@
 | 15:00 | USD | Durables Excluding Defense (MoM) (Jul) |  | -2.5% | -2.5% |
 | 15:00 | USD | Durables Excluding Transport (MoM) (Jul) |  |  | 1.1% |
 | 15:00 | USD | Factory orders ex transportation (MoM) (Jul) |  |  | 0.4% |
-| 16:00 | USD | Milk Auctions |  |  | 4,291.0 |
-| 17:00 | USD | Total Vehicle Sales (Aug) |  |  | 16.40M |
+| 17:00 | USD | Total Vehicle Sales (Aug) |  | 16.10M | 16.40M |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | -1.982B |
 | 22:00 | KRW | FX Reserves - USD (Aug) |  |  | 411.33B |

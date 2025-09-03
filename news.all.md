@@ -39,33 +39,31 @@
 | 10:00 | NOK | Low | House Price Index (YoY) (Aug) | 5.50% |  | 5.40% |
 | 10:00 | EUR | Low | PPI (YoY) (Jul) | 0.2% | 0.1% | 0.6% |
 | 10:00 | EUR | Low | PPI (MoM) (Jul) | 0.4% | 0.2% | 0.8% |
-| 23 min | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.690% |
-| 23 min | ZAR | Moderate | GDP Annualized (QoQ) (Q2) |  |  | 0.1% |
-| 23 min | ZAR | Low | GDP (YoY) (Q2) |  |  | 0.8% |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.69% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -0.5% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 163.8 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 275.8 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 894.1 |
+| 10:30 | EUR | Moderate | German 10-Year Bund Auction | 2.770% |  | 2.690% |
+| 53 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.69% |
+| 53 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -0.5% |
+| 53 min | USD | Low | MBA Purchase Index |  |  | 163.8 |
+| 53 min | USD | Low | Mortgage Market Index |  |  | 275.8 |
+| 53 min | USD | Low | Mortgage Refinance Index |  |  | 894.1 |
 | 12:30 | INR | Low | M3 Money Supply |  |  | 9.6% |
 | 13:00 | MXN | Low | Consumer Confidence (Aug) |  |  | 45.9 |
 | 13:00 | MXN | Low | Consumer Confidence n.s.a. |  |  | 45.8 |
-| 13:00 | BRL | Moderate | Industrial Production (YoY) (Jul) |  | 0.3% | -1.3% |
 | 13:00 | BRL | Low | Industrial Production (MoM) (Jul) |  | -0.2% | 0.1% |
+| 13:00 | BRL | Moderate | Industrial Production (YoY) (Jul) |  | 0.3% | -1.3% |
 | 13:30 | CAD | Moderate | Labor Productivity (QoQ) (Q2) |  | -0.2% | 0.2% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 6.5% |
 | 14:00 | BRL | Low | S&P Global Composite PMI (Aug) |  |  | 46.6 |
 | 14:00 | BRL | Low | S&P Global Services PMI (Aug) |  |  | 46.3 |
+| 14:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 14:15 | GBP | Moderate | BoE MPC Treasury Committee Hearings |  |  |  |
 | 15:00 | USD | Low | Durables Excluding Defense (MoM) (Jul) |  | -2.5% | -2.5% |
 | 15:00 | USD | Low | Durables Excluding Transport (MoM) (Jul) |  |  | 1.1% |
 | 15:00 | USD | Moderate | Factory Orders (MoM) (Jul) |  | -1.3% | -4.8% |
 | 15:00 | USD | Low | Factory orders ex transportation (MoM) (Jul) |  |  | 0.4% |
 | 15:00 | USD | High | JOLTS Job Openings (Jul) |  | 7.380M | 7.437M |
-| 16:00 | USD | Low | Milk Auctions |  |  | 4,291.0 |
-| 17:00 | USD | Low | Total Vehicle Sales (Aug) |  |  | 16.40M |
+| 17:00 | USD | Low | Total Vehicle Sales (Aug) |  | 16.10M | 16.40M |
 | 18:30 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -1.982B |
 | 19:00 | USD | Moderate | Beige Book |  |  |  |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -0.974M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -3.400M | -0.974M |
 | 22:00 | KRW | Low | FX Reserves - USD (Aug) |  |  | 411.33B |
