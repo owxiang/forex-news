@@ -14,8 +14,8 @@
 | 02:30 | AUD | GDP Capital Expenditure (Q2) | -0.8% |  | -0.1% |
 | 02:30 | AUD | GDP Chain Price Index (Q2) | -0.5% |  | 0.6% |
 | 02:30 | AUD | GDP Final Consumption (Q2) | 0.9% |  | 0.4% |
-| 06:00 | INR | S&P Global Services PMI (Aug) |  | 65.6 | 60.5 |
-| 06:00 | INR | Manufacturing & Services PMI (MoM) (Aug) |  | 65.20% | 61.10% |
+| 52 min | INR | S&P Global Services PMI (Aug) |  | 65.6 | 60.5 |
+| 52 min | INR | Manufacturing & Services PMI (MoM) (Aug) |  | 65.20% | 61.10% |
 | 07:00 | NOK | Current Account (Q2) |  |  | 286.5B |
 | 07:00 | NOK | GDP (QoQ) (Q2) |  |  | 0.8% |
 | 08:15 | ZAR | S&P Global Manufacturing PMI (Aug) |  |  | 50.3 |
