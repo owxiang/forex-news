@@ -1,27 +1,20 @@
-## 03 September 2025 - Moderate Impact Forex News
+## 04 September 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | JPY | au Jibun Bank Services PMI (Aug) | 53.1 | 52.7 | 52.7 |
-| 02:30 | AUD | GDP (QoQ) (Q2) | 0.6% | 0.5% | 0.3% |
-| 02:30 | AUD | GDP (YoY) (Q2) | 1.8% | 1.6% | 1.4% |
-| 02:45 | CNY | Caixin Services PMI (Aug) | 53.0 | 52.4 | 52.6 |
-| 08:15 | EUR | HCOB Spain Services PMI (Aug) | 53.2 | 54.4 | 55.1 |
-| 08:30 | GBP | BoE MPC Member Mann Speaks |  |  |  |
-| 08:30 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 08:45 | EUR | HCOB Italy Services PMI (Aug) | 51.5 | 52.1 | 52.3 |
-| 08:50 | EUR | HCOB France Services PMI (Aug) | 49.8 | 49.7 | 48.5 |
-| 08:55 | EUR | HCOB Germany Services PMI (Aug) | 49.3 | 50.1 | 50.6 |
-| 09:00 | EUR | HCOB Eurozone Composite PMI (Aug) | 51.0 | 51.1 | 50.9 |
-| 09:00 | EUR | HCOB Eurozone Services PMI (Aug) | 50.5 | 50.7 | 51.0 |
-| 09:30 | GBP | S&P Global Composite PMI (Aug) | 53.5 | 53.0 | 51.5 |
-| 09:30 | GBP | S&P Global Services PMI (Aug) | 54.2 | 53.6 | 51.8 |
-| 10:30 | EUR | German 10-Year Bund Auction | 2.770% |  | 2.690% |
-| 13:00 | BRL | Industrial Production (YoY) (Jul) | 0.2% | 0.3% | -1.3% |
-| 13:30 | CAD | Labor Productivity (QoQ) (Q2) | -1.0% | -0.2% | -0.1% |
-| 14:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 14:15 | GBP | BoE MPC Treasury Committee Hearings |  |  |  |
-| 15:00 | USD | Factory Orders (MoM) (Jul) | -1.3% | -1.3% | -4.8% |
-| 18:30 | USD | FOMC Member Kashkari Speaks |  |  |  |
-| 19:00 | USD | Beige Book |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock | 0.622M | -3.400M | -0.974M |
+| 02:30 | AUD | Trade Balance |  | 4.880B | 5.365B |
+| 07:30 | CHF | CPI (MoM) (Aug) |  | 0.0% | 0.0% |
+| 09:30 | GBP | S&P Global Construction PMI (Aug) |  | 45.2 | 44.3 |
+| 13:30 | USD | Continuing Jobless Claims |  | 1,960K | 1,954K |
+| 13:30 | USD | Exports (Jul) |  |  | 277.30B |
+| 13:30 | USD | Imports (Jul) |  |  | 337.50B |
+| 13:30 | USD | Nonfarm Productivity (QoQ) (Q2) |  | 2.8% | 2.4% |
+| 13:30 | USD | Trade Balance (Jul) |  | -77.70B | -60.20B |
+| 13:30 | USD | Unit Labor Costs (QoQ) (Q2) |  | 1.2% | 1.6% |
+| 13:30 | CAD | Trade Balance (Jul) |  | -5.20B | -5.86B |
+| 14:45 | USD | S&P Global Composite PMI (Aug) |  | 55.4 | 55.1 |
+| 15:00 | USD | ISM Non-Manufacturing Employment (Aug) |  |  | 46.4 |
+| 17:00 | USD | Cushing Crude Oil Inventories |  |  | -0.838M |
+| 17:05 | USD | FOMC Member Williams Speaks |  |  |  |
+| 18:00 | USD | Atlanta Fed GDPNow (Q3) |  | 3.0% | 3.0% |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 6,603B |
