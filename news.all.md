@@ -18,12 +18,13 @@
 | 02:30 | AUD | Low | GDP Chain Price Index (Q2) | -0.5% |  | 0.6% |
 | 02:30 | AUD | Low | GDP Final Consumption (Q2) | 0.9% |  | 0.4% |
 | 02:45 | CNY | Moderate | Caixin Services PMI (Aug) | 53.0 | 52.4 | 52.6 |
-| 52 min | INR | Low | S&P Global Services PMI (Aug) |  | 65.6 | 60.5 |
-| 52 min | INR | Low | Manufacturing & Services PMI (MoM) (Aug) |  | 65.20% | 61.10% |
-| 07:00 | NOK | Low | Current Account (Q2) |  |  | 286.5B |
-| 07:00 | NOK | Low | GDP (QoQ) (Q2) |  |  | 0.8% |
+| 06:00 | INR | Low | S&P Global Services PMI (Aug) | 62.9 | 65.6 | 60.5 |
+| 06:00 | INR | Low | Manufacturing & Services PMI (MoM) (Aug) | 63.20% | 65.20% | 61.10% |
+| 53 min | NOK | Low | Current Account (Q2) |  |  | 286.5B |
+| 53 min | NOK | Low | GDP (QoQ) (Q2) |  |  | 0.8% |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Aug) |  | 54.4 | 55.1 |
 | 08:15 | ZAR | Low | S&P Global Manufacturing PMI (Aug) |  |  | 50.3 |
+| 08:30 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 08:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 08:45 | EUR | Low | HCOB Italy Composite PMI (Aug) |  |  | 51.5 |
 | 08:45 | EUR | Moderate | HCOB Italy Services PMI (Aug) |  | 52.1 | 52.3 |
@@ -38,8 +39,8 @@
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (Aug) |  | 53.0 | 51.5 |
 | 09:30 | GBP | Moderate | S&P Global Services PMI (Aug) |  | 53.6 | 51.8 |
 | 10:00 | NOK | Low | House Price Index (YoY) (Aug) |  |  | 5.40% |
-| 10:00 | EUR | Low | PPI (YoY) (Jul) |  | 0.1% | 0.6% |
 | 10:00 | EUR | Low | PPI (MoM) (Jul) |  | 0.2% | 0.8% |
+| 10:00 | EUR | Low | PPI (YoY) (Jul) |  | 0.1% | 0.6% |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.690% |
 | 10:30 | ZAR | Moderate | GDP Annualized (QoQ) (Q2) |  |  | 0.1% |
 | 10:30 | ZAR | Low | GDP (YoY) (Q2) |  |  | 0.8% |
@@ -51,8 +52,8 @@
 | 12:30 | INR | Low | M3 Money Supply |  |  | 9.6% |
 | 13:00 | MXN | Low | Consumer Confidence (Aug) |  |  | 45.9 |
 | 13:00 | MXN | Low | Consumer Confidence n.s.a. |  |  | 45.8 |
-| 13:00 | BRL | Low | Industrial Production (MoM) (Jul) |  | -0.3% | 0.1% |
-| 13:00 | BRL | Moderate | Industrial Production (YoY) (Jul) |  | 0.2% | -1.3% |
+| 13:00 | BRL | Low | Industrial Production (MoM) (Jul) |  | -0.2% | 0.1% |
+| 13:00 | BRL | Moderate | Industrial Production (YoY) (Jul) |  | 0.3% | -1.3% |
 | 13:30 | CAD | Moderate | Labor Productivity (QoQ) (Q2) |  | -0.2% | 0.2% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 6.5% |
 | 14:00 | BRL | Low | S&P Global Composite PMI (Aug) |  |  | 46.6 |
@@ -62,7 +63,8 @@
 | 15:00 | USD | Low | Durables Excluding Transport (MoM) (Jul) |  |  | 1.1% |
 | 15:00 | USD | Moderate | Factory Orders (MoM) (Jul) |  | -1.3% | -4.8% |
 | 15:00 | USD | Low | Factory orders ex transportation (MoM) (Jul) |  |  | 0.4% |
-| 15:00 | USD | High | JOLTS Job Openings (Jul) |  | 7.390M | 7.437M |
+| 15:00 | USD | High | JOLTS Job Openings (Jul) |  | 7.380M | 7.437M |
+| 16:00 | USD | Low | Milk Auctions |  |  | 4,291.0 |
 | 17:00 | USD | Low | Total Vehicle Sales (Aug) |  |  | 16.40M |
 | 18:30 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -1.982B |

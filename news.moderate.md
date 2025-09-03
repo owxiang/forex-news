@@ -7,6 +7,7 @@
 | 02:30 | AUD | GDP (QoQ) (Q2) | 0.6% | 0.5% | 0.3% |
 | 02:45 | CNY | Caixin Services PMI (Aug) | 53.0 | 52.4 | 52.6 |
 | 08:15 | EUR | HCOB Spain Services PMI (Aug) |  | 54.4 | 55.1 |
+| 08:30 | GBP | BoE MPC Member Mann Speaks |  |  |  |
 | 08:30 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 08:45 | EUR | HCOB Italy Services PMI (Aug) |  | 52.1 | 52.3 |
 | 08:50 | EUR | HCOB France Services PMI (Aug) |  | 49.7 | 48.5 |
@@ -17,7 +18,7 @@
 | 09:30 | GBP | S&P Global Services PMI (Aug) |  | 53.6 | 51.8 |
 | 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.690% |
 | 10:30 | ZAR | GDP Annualized (QoQ) (Q2) |  |  | 0.1% |
-| 13:00 | BRL | Industrial Production (YoY) (Jul) |  | 0.2% | -1.3% |
+| 13:00 | BRL | Industrial Production (YoY) (Jul) |  | 0.3% | -1.3% |
 | 13:30 | CAD | Labor Productivity (QoQ) (Q2) |  | -0.2% | 0.2% |
 | 14:15 | GBP | BoE MPC Treasury Committee Hearings |  |  |  |
 | 15:00 | USD | Factory Orders (MoM) (Jul) |  | -1.3% | -4.8% |
