@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | JPY | au Jibun Bank Services PMI (Aug) |  | 52.7 | 52.7 |
-| 02:30 | AUD | GDP (QoQ) (Q2) |  | 0.5% | 0.2% |
+| 3 min | JPY | au Jibun Bank Services PMI (Aug) |  | 52.7 | 52.7 |
 | 02:30 | AUD | GDP (YoY) (Q2) |  | 1.6% | 1.3% |
+| 02:30 | AUD | GDP (QoQ) (Q2) |  | 0.5% | 0.2% |
 | 02:45 | CNY | Caixin Services PMI (Aug) |  | 52.4 | 52.6 |
 | 08:15 | EUR | HCOB Spain Services PMI (Aug) |  | 54.4 | 55.1 |
 | 08:30 | EUR | ECB President Lagarde Speaks |  |  |  |

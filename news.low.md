@@ -8,9 +8,9 @@
 | 00:00 | AUD | AIG Manufacturing Index (Aug) | -20.9 |  | -23.9 |
 | 00:00 | AUD | Manufacturing & Services PMI (MoM) (Aug) | 55.50% | 54.90% | 53.80% |
 | 00:00 | AUD | Judo Bank Services PMI (Aug) | 55.8 | 55.1 | 54.1 |
-| 01:30 | JPY | Manufacturing & Services PMI (MoM) (Aug) |  | 51.90% | 51.90% |
-| 01:30 | HKD | S&P Global Manufacturing PMI (Aug) |  |  | 49.2 |
-| 02:00 | NZD | ANZ Commodity Price Index (MoM) |  |  | -1.8% |
+| 3 min | JPY | Manufacturing & Services PMI (MoM) (Aug) |  | 51.90% | 51.90% |
+| 3 min | HKD | S&P Global Manufacturing PMI (Aug) |  |  | 49.2 |
+| 33 min | NZD | ANZ Commodity Price Index (MoM) |  |  | -1.8% |
 | 02:30 | AUD | GDP Capital Expenditure (Q2) |  |  | 0.1% |
 | 02:30 | AUD | GDP Chain Price Index (Q2) |  |  | 0.5% |
 | 02:30 | AUD | GDP Final Consumption (Q2) |  |  | 0.2% |
@@ -25,8 +25,8 @@
 | 09:00 | AUD | RBA Gov Bullock Speaks |  |  |  |
 | 09:15 | GBP | BoE Breeden Speaks |  |  |  |
 | 10:00 | NOK | House Price Index (YoY) (Aug) |  |  | 5.40% |
-| 10:00 | EUR | PPI (MoM) (Jul) |  | 0.2% | 0.8% |
 | 10:00 | EUR | PPI (YoY) (Jul) |  | 0.1% | 0.6% |
+| 10:00 | EUR | PPI (MoM) (Jul) |  | 0.2% | 0.8% |
 | 10:30 | ZAR | GDP (YoY) (Q2) |  |  | 0.8% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.69% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -0.5% |
