@@ -24,4 +24,4 @@
 | 15:00 | USD | Factory Orders (MoM) (Jul) | -1.3% | -1.3% | -4.8% |
 | 18:30 | USD | FOMC Member Kashkari Speaks |  |  |  |
 | 19:00 | USD | Beige Book |  |  |  |
-| 23 min | USD | API Weekly Crude Oil Stock |  | -3.400M | -0.974M |
+| 21:30 | USD | API Weekly Crude Oil Stock | 0.622M | -3.400M | -0.974M |
