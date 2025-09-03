@@ -20,25 +20,25 @@
 | 02:45 | CNY | Moderate | Caixin Services PMI (Aug) | 53.0 | 52.4 | 52.6 |
 | 06:00 | INR | Low | S&P Global Services PMI (Aug) | 62.9 | 65.6 | 60.5 |
 | 06:00 | INR | Low | Manufacturing & Services PMI (MoM) (Aug) | 63.20% | 65.20% | 61.10% |
-| 8 min | EUR | Moderate | HCOB Spain Services PMI (Aug) |  | 54.4 | 55.1 |
-| 8 min | ZAR | Low | S&P Global Manufacturing PMI (Aug) |  |  | 50.3 |
-| 23 min | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
-| 23 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 38 min | EUR | Low | HCOB Italy Composite PMI (Aug) |  |  | 51.5 |
-| 38 min | EUR | Moderate | HCOB Italy Services PMI (Aug) |  | 52.1 | 52.3 |
-| 43 min | EUR | Low | HCOB France Composite PMI (Aug) |  | 49.8 | 48.6 |
-| 43 min | EUR | Moderate | HCOB France Services PMI (Aug) |  | 49.7 | 48.5 |
-| 48 min | EUR | Low | HCOB Germany Composite PMI (Aug) |  | 50.9 | 50.6 |
-| 48 min | EUR | Moderate | HCOB Germany Services PMI (Aug) |  | 50.1 | 50.6 |
-| 53 min | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
-| 53 min | EUR | Moderate | HCOB Eurozone Composite PMI (Aug) |  | 51.1 | 50.9 |
-| 53 min | EUR | Moderate | HCOB Eurozone Services PMI (Aug) |  | 50.7 | 51.0 |
-| 09:15 | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 09:30 | GBP | Moderate | S&P Global Composite PMI (Aug) |  | 53.0 | 51.5 |
-| 09:30 | GBP | Moderate | S&P Global Services PMI (Aug) |  | 53.6 | 51.8 |
-| 10:00 | NOK | Low | House Price Index (YoY) (Aug) |  |  | 5.40% |
-| 10:00 | EUR | Low | PPI (YoY) (Jul) |  | 0.1% | 0.6% |
-| 10:00 | EUR | Low | PPI (MoM) (Jul) |  | 0.2% | 0.8% |
+| 08:15 | EUR | Moderate | HCOB Spain Services PMI (Aug) | 53.2 | 54.4 | 55.1 |
+| 08:15 | ZAR | Low | S&P Global Manufacturing PMI (Aug) | 50.1 |  | 50.3 |
+| 08:30 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
+| 08:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 08:45 | EUR | Low | HCOB Italy Composite PMI (Aug) | 51.7 |  | 51.5 |
+| 08:45 | EUR | Moderate | HCOB Italy Services PMI (Aug) | 51.5 | 52.1 | 52.3 |
+| 08:50 | EUR | Low | HCOB France Composite PMI (Aug) | 49.8 | 49.8 | 48.6 |
+| 08:50 | EUR | Moderate | HCOB France Services PMI (Aug) | 49.8 | 49.7 | 48.5 |
+| 08:55 | EUR | Low | HCOB Germany Composite PMI (Aug) | 50.5 | 50.9 | 50.6 |
+| 08:55 | EUR | Moderate | HCOB Germany Services PMI (Aug) | 49.3 | 50.1 | 50.6 |
+| 09:00 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
+| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Aug) | 51.0 | 51.1 | 50.9 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Aug) | 50.5 | 50.7 | 51.0 |
+| 6 min | GBP | Low | BoE Breeden Speaks |  |  |  |
+| 21 min | GBP | Moderate | S&P Global Composite PMI (Aug) |  | 53.0 | 51.5 |
+| 21 min | GBP | Moderate | S&P Global Services PMI (Aug) |  | 53.6 | 51.8 |
+| 51 min | NOK | Low | House Price Index (YoY) (Aug) |  |  | 5.40% |
+| 51 min | EUR | Low | PPI (YoY) (Jul) |  | 0.1% | 0.6% |
+| 51 min | EUR | Low | PPI (MoM) (Jul) |  | 0.2% | 0.8% |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.690% |
 | 10:30 | ZAR | Moderate | GDP Annualized (QoQ) (Q2) |  |  | 0.1% |
 | 10:30 | ZAR | Low | GDP (YoY) (Q2) |  |  | 0.8% |

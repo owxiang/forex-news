@@ -16,15 +16,15 @@
 | 02:30 | AUD | GDP Final Consumption (Q2) | 0.9% |  | 0.4% |
 | 06:00 | INR | S&P Global Services PMI (Aug) | 62.9 | 65.6 | 60.5 |
 | 06:00 | INR | Manufacturing & Services PMI (MoM) (Aug) | 63.20% | 65.20% | 61.10% |
-| 8 min | ZAR | S&P Global Manufacturing PMI (Aug) |  |  | 50.3 |
-| 38 min | EUR | HCOB Italy Composite PMI (Aug) |  |  | 51.5 |
-| 43 min | EUR | HCOB France Composite PMI (Aug) |  | 49.8 | 48.6 |
-| 48 min | EUR | HCOB Germany Composite PMI (Aug) |  | 50.9 | 50.6 |
-| 53 min | AUD | RBA Gov Bullock Speaks |  |  |  |
-| 09:15 | GBP | BoE Breeden Speaks |  |  |  |
-| 10:00 | NOK | House Price Index (YoY) (Aug) |  |  | 5.40% |
-| 10:00 | EUR | PPI (YoY) (Jul) |  | 0.1% | 0.6% |
-| 10:00 | EUR | PPI (MoM) (Jul) |  | 0.2% | 0.8% |
+| 08:15 | ZAR | S&P Global Manufacturing PMI (Aug) | 50.1 |  | 50.3 |
+| 08:45 | EUR | HCOB Italy Composite PMI (Aug) | 51.7 |  | 51.5 |
+| 08:50 | EUR | HCOB France Composite PMI (Aug) | 49.8 | 49.8 | 48.6 |
+| 08:55 | EUR | HCOB Germany Composite PMI (Aug) | 50.5 | 50.9 | 50.6 |
+| 09:00 | AUD | RBA Gov Bullock Speaks |  |  |  |
+| 6 min | GBP | BoE Breeden Speaks |  |  |  |
+| 51 min | NOK | House Price Index (YoY) (Aug) |  |  | 5.40% |
+| 51 min | EUR | PPI (YoY) (Jul) |  | 0.1% | 0.6% |
+| 51 min | EUR | PPI (MoM) (Jul) |  | 0.2% | 0.8% |
 | 10:30 | ZAR | GDP (YoY) (Q2) |  |  | 0.8% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.69% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -0.5% |

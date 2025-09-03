@@ -6,16 +6,16 @@
 | 02:30 | AUD | GDP (QoQ) (Q2) | 0.6% | 0.5% | 0.3% |
 | 02:30 | AUD | GDP (YoY) (Q2) | 1.8% | 1.6% | 1.4% |
 | 02:45 | CNY | Caixin Services PMI (Aug) | 53.0 | 52.4 | 52.6 |
-| 8 min | EUR | HCOB Spain Services PMI (Aug) |  | 54.4 | 55.1 |
-| 23 min | GBP | BoE MPC Member Mann Speaks |  |  |  |
-| 23 min | EUR | ECB President Lagarde Speaks |  |  |  |
-| 38 min | EUR | HCOB Italy Services PMI (Aug) |  | 52.1 | 52.3 |
-| 43 min | EUR | HCOB France Services PMI (Aug) |  | 49.7 | 48.5 |
-| 48 min | EUR | HCOB Germany Services PMI (Aug) |  | 50.1 | 50.6 |
-| 53 min | EUR | HCOB Eurozone Composite PMI (Aug) |  | 51.1 | 50.9 |
-| 53 min | EUR | HCOB Eurozone Services PMI (Aug) |  | 50.7 | 51.0 |
-| 09:30 | GBP | S&P Global Composite PMI (Aug) |  | 53.0 | 51.5 |
-| 09:30 | GBP | S&P Global Services PMI (Aug) |  | 53.6 | 51.8 |
+| 08:15 | EUR | HCOB Spain Services PMI (Aug) | 53.2 | 54.4 | 55.1 |
+| 08:30 | GBP | BoE MPC Member Mann Speaks |  |  |  |
+| 08:30 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 08:45 | EUR | HCOB Italy Services PMI (Aug) | 51.5 | 52.1 | 52.3 |
+| 08:50 | EUR | HCOB France Services PMI (Aug) | 49.8 | 49.7 | 48.5 |
+| 08:55 | EUR | HCOB Germany Services PMI (Aug) | 49.3 | 50.1 | 50.6 |
+| 09:00 | EUR | HCOB Eurozone Composite PMI (Aug) | 51.0 | 51.1 | 50.9 |
+| 09:00 | EUR | HCOB Eurozone Services PMI (Aug) | 50.5 | 50.7 | 51.0 |
+| 21 min | GBP | S&P Global Composite PMI (Aug) |  | 53.0 | 51.5 |
+| 21 min | GBP | S&P Global Services PMI (Aug) |  | 53.6 | 51.8 |
 | 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.690% |
 | 10:30 | ZAR | GDP Annualized (QoQ) (Q2) |  |  | 0.1% |
 | 13:00 | BRL | Industrial Production (YoY) (Jul) |  | 0.3% | -1.3% |
