@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | GDP (YoY) (Q2) | 0.6% | 0.5% | 0.5% |
 | 00:00 | KRW | GDP (QoQ) (Q2) | 0.7% | 0.6% | 0.6% |
+| 00:00 | KRW | GDP (YoY) (Q2) | 0.6% | 0.5% | 0.5% |
 | 00:00 | AUD | AIG Construction Index (Aug) | 1.0 |  | -1.3 |
 | 00:00 | AUD | AIG Manufacturing Index (Aug) | -20.9 |  | -23.9 |
 | 00:00 | AUD | Manufacturing & Services PMI (MoM) (Aug) | 55.50% | 54.90% | 53.80% |
@@ -11,9 +11,9 @@
 | 01:30 | JPY | Manufacturing & Services PMI (MoM) (Aug) | 52.00% | 51.90% | 51.90% |
 | 01:30 | HKD | S&P Global Manufacturing PMI (Aug) | 50.7 |  | 49.2 |
 | 02:00 | NZD | ANZ Commodity Price Index (MoM) | 0.7% |  | -1.8% |
-| 02:30 | AUD | GDP Capital Expenditure (Q2) | -0.8% |  | 0.1% |
-| 02:30 | AUD | GDP Chain Price Index (Q2) | -0.5% |  | 0.5% |
-| 02:30 | AUD | GDP Final Consumption (Q2) | 0.9% |  | 0.2% |
+| 02:30 | AUD | GDP Capital Expenditure (Q2) | -0.8% |  | -0.1% |
+| 02:30 | AUD | GDP Chain Price Index (Q2) | -0.5% |  | 0.6% |
+| 02:30 | AUD | GDP Final Consumption (Q2) | 0.9% |  | 0.4% |
 | 06:00 | INR | S&P Global Services PMI (Aug) |  | 65.6 | 60.5 |
 | 06:00 | INR | Manufacturing & Services PMI (MoM) (Aug) |  | 65.20% | 61.10% |
 | 07:00 | NOK | Current Account (Q2) |  |  | 286.5B |
@@ -25,8 +25,8 @@
 | 09:00 | AUD | RBA Gov Bullock Speaks |  |  |  |
 | 09:15 | GBP | BoE Breeden Speaks |  |  |  |
 | 10:00 | NOK | House Price Index (YoY) (Aug) |  |  | 5.40% |
-| 10:00 | EUR | PPI (MoM) (Jul) |  | 0.2% | 0.8% |
 | 10:00 | EUR | PPI (YoY) (Jul) |  | 0.1% | 0.6% |
+| 10:00 | EUR | PPI (MoM) (Jul) |  | 0.2% | 0.8% |
 | 10:30 | ZAR | GDP (YoY) (Q2) |  |  | 0.8% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.69% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -0.5% |
