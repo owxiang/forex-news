@@ -65,5 +65,5 @@
 | 18:30 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 18:30 | BRL | Low | Foreign Exchange Flows | -0.231B |  | -1.982B |
 | 19:00 | USD | Moderate | Beige Book |  |  |  |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -3.400M | -0.974M |
-| 22:00 | KRW | Low | FX Reserves - USD (Aug) |  |  | 411.33B |
+| 23 min | USD | Moderate | API Weekly Crude Oil Stock |  | -3.400M | -0.974M |
+| 53 min | KRW | Low | FX Reserves - USD (Aug) |  |  | 411.33B |

@@ -42,4 +42,4 @@
 | 15:00 | USD | Durables Excluding Transport (MoM) (Jul) | 1.0% |  | 1.1% |
 | 15:00 | USD | Factory orders ex transportation (MoM) (Jul) | 0.6% |  | 0.4% |
 | 18:30 | BRL | Foreign Exchange Flows | -0.231B |  | -1.982B |
-| 22:00 | KRW | FX Reserves - USD (Aug) |  |  | 411.33B |
+| 53 min | KRW | FX Reserves - USD (Aug) |  |  | 411.33B |
