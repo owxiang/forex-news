@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | GDP (YoY) (Q2) | 0.6% | 0.5% | 0.5% |
 | 00:00 | KRW | Low | GDP (QoQ) (Q2) | 0.7% | 0.6% | 0.6% |
+| 00:00 | KRW | Low | GDP (YoY) (Q2) | 0.6% | 0.5% | 0.5% |
 | 00:00 | AUD | Low | AIG Construction Index (Aug) | 1.0 |  | -1.3 |
 | 00:00 | AUD | Low | AIG Manufacturing Index (Aug) | -20.9 |  | -23.9 |
 | 00:00 | AUD | Low | Manufacturing & Services PMI (MoM) (Aug) | 55.50% | 54.90% | 53.80% |
@@ -12,8 +12,8 @@
 | 01:30 | JPY | Moderate | au Jibun Bank Services PMI (Aug) | 53.1 | 52.7 | 52.7 |
 | 01:30 | HKD | Low | S&P Global Manufacturing PMI (Aug) | 50.7 |  | 49.2 |
 | 02:00 | NZD | Low | ANZ Commodity Price Index (MoM) | 0.7% |  | -1.8% |
-| 02:30 | AUD | Moderate | GDP (QoQ) (Q2) | 0.6% | 0.5% | 0.3% |
 | 02:30 | AUD | Moderate | GDP (YoY) (Q2) | 1.8% | 1.6% | 1.4% |
+| 02:30 | AUD | Moderate | GDP (QoQ) (Q2) | 0.6% | 0.5% | 0.3% |
 | 02:30 | AUD | Low | GDP Capital Expenditure (Q2) | -0.8% |  | -0.1% |
 | 02:30 | AUD | Low | GDP Chain Price Index (Q2) | -0.5% |  | 0.6% |
 | 02:30 | AUD | Low | GDP Final Consumption (Q2) | 0.9% |  | 0.4% |
@@ -37,8 +37,8 @@
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (Aug) | 53.5 | 53.0 | 51.5 |
 | 09:30 | GBP | Moderate | S&P Global Services PMI (Aug) | 54.2 | 53.6 | 51.8 |
 | 10:00 | NOK | Low | House Price Index (YoY) (Aug) | 5.50% |  | 5.40% |
-| 10:00 | EUR | Low | PPI (YoY) (Jul) | 0.2% | 0.1% | 0.6% |
 | 10:00 | EUR | Low | PPI (MoM) (Jul) | 0.4% | 0.2% | 0.8% |
+| 10:00 | EUR | Low | PPI (YoY) (Jul) | 0.2% | 0.1% | 0.6% |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction | 2.770% |  | 2.690% |
 | 10:30 | EUR | Low | German Car Registration (YoY) (Aug) | 5.0% |  | 11.1% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.64% |  | 6.69% |
@@ -51,17 +51,17 @@
 | 13:00 | MXN | Low | Consumer Confidence n.s.a. | 46.5 |  | 45.8 |
 | 13:00 | BRL | Low | Industrial Production (MoM) (Jul) | -0.2% | -0.2% | 0.0% |
 | 13:00 | BRL | Moderate | Industrial Production (YoY) (Jul) | 0.2% | 0.3% | -1.3% |
-| 18 min | CAD | Moderate | Labor Productivity (QoQ) (Q2) |  | -0.2% | 0.2% |
-| 43 min | USD | Low | Redbook (YoY) |  |  | 6.5% |
-| 48 min | BRL | Low | S&P Global Composite PMI (Aug) |  |  | 46.6 |
-| 48 min | BRL | Low | S&P Global Services PMI (Aug) |  |  | 46.3 |
-| 14:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 14:15 | GBP | Moderate | BoE MPC Treasury Committee Hearings |  |  |  |
-| 15:00 | USD | Low | Durables Excluding Defense (MoM) (Jul) |  | -2.5% | -2.5% |
-| 15:00 | USD | Low | Durables Excluding Transport (MoM) (Jul) |  |  | 1.1% |
-| 15:00 | USD | Moderate | Factory Orders (MoM) (Jul) |  | -1.3% | -4.8% |
-| 15:00 | USD | Low | Factory orders ex transportation (MoM) (Jul) |  |  | 0.4% |
-| 15:00 | USD | High | JOLTS Job Openings (Jul) |  | 7.380M | 7.437M |
+| 13:30 | CAD | Moderate | Labor Productivity (QoQ) (Q2) | -1.0% | -0.2% | -0.1% |
+| 13:55 | USD | Low | Redbook (YoY) | 6.5% |  | 6.5% |
+| 14:00 | BRL | Low | S&P Global Composite PMI (Aug) | 48.8 |  | 46.6 |
+| 14:00 | BRL | Low | S&P Global Services PMI (Aug) | 49.3 |  | 46.3 |
+| 2 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 2 min | GBP | Moderate | BoE MPC Treasury Committee Hearings |  |  |  |
+| 47 min | USD | Low | Durables Excluding Defense (MoM) (Jul) |  | -2.5% | -2.5% |
+| 47 min | USD | Low | Durables Excluding Transport (MoM) (Jul) |  |  | 1.1% |
+| 47 min | USD | Moderate | Factory Orders (MoM) (Jul) |  | -1.3% | -4.8% |
+| 47 min | USD | Low | Factory orders ex transportation (MoM) (Jul) |  |  | 0.4% |
+| 47 min | USD | High | JOLTS Job Openings (Jul) |  | 7.380M | 7.437M |
 | 17:00 | USD | Low | Total Vehicle Sales (Aug) |  | 16.10M | 16.40M |
 | 18:30 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -1.982B |
