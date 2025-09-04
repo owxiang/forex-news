@@ -17,17 +17,17 @@
 | 08:30 | EUR | HCOB France Construction PMI (MoM) (Aug) | 46.7 |  | 39.7 |
 | 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Aug) | 46.7 |  | 44.7 |
 | 09:00 | GBP | Car Registration (YoY) (Aug) | -2.0% |  | -5.0% |
-| 09:00 | GBP | United Kingdom New Passenger Cars Registration (Aug) |  |  | 140,154.0 |
-| 31 min | EUR | Spanish 3-Year Bonos Auction |  |  | 2.166% |
-| 31 min | EUR | Spanish 7-Year Obligacion Auction |  |  | 2.720% |
-| 51 min | EUR | Retail Sales (MoM) (Jul) |  | -0.3% | 0.3% |
-| 51 min | EUR | Retail Sales (YoY) (Jul) |  | 2.4% | 3.1% |
+| 09:00 | GBP | United Kingdom New Passenger Cars Registration (Aug) | 82,908.0 |  | 140,154.0 |
+| 10:00 | EUR | Spanish 3-Year Bonos Auction |  |  | 2.166% |
+| 10:00 | EUR | Spanish 7-Year Obligacion Auction |  |  | 2.720% |
+| 10:00 | EUR | Retail Sales (YoY) (Jul) | 2.2% | 2.4% | 3.5% |
+| 10:00 | EUR | Retail Sales (MoM) (Jul) | -0.5% | -0.3% | 0.6% |
 | 11:00 | CAD | Leading Index (MoM) (Aug) |  |  | 0.15% |
 | 12:00 | EUR | Spanish Consumer Confidence (Jul) |  |  | 76.1 |
 | 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 139.8% |
 | 12:30 | USD | Challenger Job Cuts (Aug) |  |  | 62.075K |
-| 13:00 | MXN | Gross Fixed Investments (YoY) (Jun) |  | -4.60% | -7.10% |
 | 13:00 | MXN | Gross Fixed Investments (MoM) (Jun) |  | 0.00% | 0.90% |
+| 13:00 | MXN | Gross Fixed Investments (YoY) (Jun) |  | -4.60% | -7.10% |
 | 13:15 | CAD | Reserve Assets Total (Aug) |  |  | 126.6B |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 228.50K |
 | 13:30 | CAD | Exports (Jul) |  |  | 61.74B |
