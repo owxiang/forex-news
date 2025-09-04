@@ -27,8 +27,8 @@
 | 10:00 | EUR | Low | Retail Sales (MoM) (Jul) | -0.5% | -0.3% | 0.6% |
 | 12:30 | USD | Low | Challenger Job Cuts (Aug) | 85.979K |  | 62.075K |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) | 13.3% |  | 139.8% |
-| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jun) | -6.40% | -4.60% | -7.10% |
 | 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Jun) | -1.40% | 0.00% | 0.90% |
+| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jun) | -6.40% | -4.60% | -7.10% |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Aug) | 54K | 73K | 106K |
 | 13:15 | CAD | Low | Reserve Assets Total (Aug) | 127.9B |  | 126.6B |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,940K | 1,960K | 1,944K |
@@ -41,6 +41,7 @@
 | 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q2) | 1.0% | 1.2% | 1.6% |
 | 13:30 | CAD | Low | Exports (Jul) | 61.86B |  | 61.30B |
 | 13:30 | CAD | Low | Imports (Jul) | 66.80B |  | 67.29B |
+| 13:30 | CAD | Low | Services PMI (MoM) (Aug) | 48.60% |  | 49.30% |
 | 13:30 | CAD | Moderate | Trade Balance (Jul) | -4.94B | -5.20B | -5.98B |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Aug) | 54.6 | 55.4 | 55.1 |
 | 14:45 | USD | High | S&P Global Services PMI (Aug) | 54.5 | 55.4 | 55.7 |
@@ -52,22 +53,20 @@
 | 15:00 | USD | High | ISM Non-Manufacturing PMI (Aug) | 52.0 | 50.9 | 50.1 |
 | 15:00 | USD | High | ISM Non-Manufacturing Prices (Aug) | 69.2 | 69.5 | 69.9 |
 | 15:30 | USD | Low | Natural Gas Storage | 55B | 54B | 18B |
-| 23 min | USD | Low | 4-Week Bill Auction |  |  | 4.245% |
-| 23 min | USD | Low | 8-Week Bill Auction |  |  | 4.145% |
-| 23 min | CAD | Low | Leading Index (MoM) (Aug) |  |  | 0.15% |
-| 23 min | CAD | Low | Services PMI (MoM) (Aug) |  |  | 49.30% |
-| 53 min | USD | High | Crude Oil Inventories |  | -2.000M | -2.392M |
-| 53 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.328M |
-| 53 min | USD | Low | Crude Oil Imports |  |  | 0.299M |
-| 53 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.838M |
-| 53 min | USD | Low | Distillate Fuel Production |  |  | -0.113M |
-| 53 min | USD | Low | EIA Weekly Distillates Stocks |  | -0.300M | -1.786M |
-| 53 min | USD | Low | Gasoline Production |  |  | 0.427M |
-| 53 min | USD | Low | Heating Oil Stockpiles |  |  | 0.102M |
-| 53 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -2.0% |
-| 53 min | USD | Low | Gasoline Inventories |  | -1.000M | -1.236M |
-| 58 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 3.0% | 3.0% |
+| 16:30 | USD | Low | 4-Week Bill Auction | 4.175% |  | 4.245% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 4.100% |  | 4.145% |
+| 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 3.0% | 3.0% | 3.0% |
+| 17:00 | USD | High | Crude Oil Inventories | 2.415M | -2.000M | -2.392M |
+| 17:00 | USD | Low | EIA Refinery Crude Runs (WoW) | -0.011M |  | -0.328M |
+| 17:00 | USD | Low | Crude Oil Imports | 0.434M |  | 0.299M |
+| 17:00 | USD | Moderate | Cushing Crude Oil Inventories | 1.590M |  | -0.838M |
+| 17:00 | USD | Low | Distillate Fuel Production | 0.036M |  | -0.113M |
+| 17:00 | USD | Low | EIA Weekly Distillates Stocks | 1.681M | -0.300M | -1.786M |
+| 17:00 | USD | Low | Gasoline Production | -0.109M |  | 0.427M |
+| 17:00 | USD | Low | Heating Oil Stockpiles | 0.557M |  | 0.102M |
+| 17:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -0.3% |  | -2.0% |
+| 17:00 | USD | Low | Gasoline Inventories | -3.795M | -1.000M | -1.236M |
+| 17:05 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 19:00 | BRL | Low | Trade Balance (Aug) |  |  | 7.08B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,603B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.217T |
