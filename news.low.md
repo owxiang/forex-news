@@ -20,8 +20,8 @@
 | 09:00 | GBP | United Kingdom New Passenger Cars Registration (Aug) |  |  | 140,154.0 |
 | 09:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 2.166% |
 | 09:40 | EUR | Spanish 7-Year Obligacion Auction |  |  | 2.720% |
-| 10:00 | EUR | Retail Sales (YoY) (Jul) |  | 2.4% | 3.1% |
 | 10:00 | EUR | Retail Sales (MoM) (Jul) |  | -0.3% | 0.3% |
+| 10:00 | EUR | Retail Sales (YoY) (Jul) |  | 2.4% | 3.1% |
 | 10:00 | ZAR | Current Account (Q2) |  |  | -35.6B |
 | 11:00 | CAD | Leading Index (MoM) (Aug) |  |  | 0.15% |
 | 12:00 | EUR | Spanish Consumer Confidence (Jul) |  |  | 76.1 |

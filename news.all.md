@@ -10,8 +10,8 @@
 | 02:30 | AUD | Moderate | Trade Balance | 7.310B | 4.880B | 5.366B |
 | 04:35 | JPY | Low | 30-Year JGB Auction |  |  | 3.089% |
 | 07:00 | NOK | Low | Current Account (Q2) |  |  | 286.5B |
-| 07:30 | CHF | Moderate | CPI (MoM) (Aug) |  | 0.0% | 0.0% |
 | 07:30 | CHF | Low | CPI (YoY) (Aug) |  | 0.2% | 0.2% |
+| 07:30 | CHF | Moderate | CPI (MoM) (Aug) |  | 0.0% | 0.0% |
 | 08:00 | CHF | Low | Unemployment Rate n.s.a. (Aug) |  |  | 2.7% |
 | 08:00 | CHF | Low | Unemployment Rate s.a. (Aug) |  | 2.9% | 2.9% |
 | 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Aug) |  |  | 48.3 |
@@ -23,8 +23,8 @@
 | 09:30 | GBP | Moderate | S&P Global Construction PMI (Aug) |  | 45.2 | 44.3 |
 | 09:40 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.166% |
 | 09:40 | EUR | Low | Spanish 7-Year Obligacion Auction |  |  | 2.720% |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Jul) |  | 2.4% | 3.1% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Jul) |  | -0.3% | 0.3% |
+| 10:00 | EUR | Low | Retail Sales (YoY) (Jul) |  | 2.4% | 3.1% |
 | 10:00 | ZAR | Low | Current Account (Q2) |  |  | -35.6B |
 | 11:00 | CAD | Low | Leading Index (MoM) (Aug) |  |  | 0.15% |
 | 12:00 | EUR | Low | Spanish Consumer Confidence (Jul) |  |  | 76.1 |
