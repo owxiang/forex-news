@@ -6,8 +6,8 @@
 | 00:50 | JPY | Foreign Bonds Buying | 1,419.8B |  | -167.2B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | -785.7B |  | -496.2B |
 | 02:30 | AUD | Exports (MoM) | 3.3% |  | 6.3% |
-| 02:30 | AUD | Imports (MoM) | -1.3% |  | -3.1% |
-| 04:35 | JPY | 30-Year JGB Auction |  |  | 3.089% |
+| 02:30 | AUD | Imports (MoM) | -1.3% |  | -1.5% |
+| 20 min | JPY | 30-Year JGB Auction |  |  | 3.089% |
 | 07:00 | NOK | Current Account (Q2) |  |  | 286.5B |
 | 07:30 | CHF | CPI (YoY) (Aug) |  | 0.2% | 0.2% |
 | 08:00 | CHF | Unemployment Rate n.s.a. (Aug) |  |  | 2.7% |
@@ -27,8 +27,8 @@
 | 12:00 | EUR | Spanish Consumer Confidence (Jul) |  |  | 76.1 |
 | 12:30 | USD | Challenger Job Cuts (Aug) |  |  | 62.075K |
 | 13:00 | USD | Total Vehicle Sales (Aug) |  | 16.10M | 16.40M |
-| 13:00 | MXN | Gross Fixed Investments (YoY) (Jun) |  | -4.60% | -7.10% |
 | 13:00 | MXN | Gross Fixed Investments (MoM) (Jun) |  | 0.00% | 0.90% |
+| 13:00 | MXN | Gross Fixed Investments (YoY) (Jun) |  | -4.60% | -7.10% |
 | 13:15 | CAD | Reserve Assets Total (Aug) |  |  | 126.6B |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 228.50K |
 | 13:30 | CAD | Exports (Jul) |  |  | 61.74B |

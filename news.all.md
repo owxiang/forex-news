@@ -6,9 +6,9 @@
 | 00:50 | JPY | Low | Foreign Bonds Buying | 1,419.8B |  | -167.2B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -785.7B |  | -496.2B |
 | 02:30 | AUD | Low | Exports (MoM) | 3.3% |  | 6.3% |
-| 02:30 | AUD | Low | Imports (MoM) | -1.3% |  | -3.1% |
+| 02:30 | AUD | Low | Imports (MoM) | -1.3% |  | -1.5% |
 | 02:30 | AUD | Moderate | Trade Balance | 7.310B | 4.880B | 5.366B |
-| 04:35 | JPY | Low | 30-Year JGB Auction |  |  | 3.089% |
+| 20 min | JPY | Low | 30-Year JGB Auction |  |  | 3.089% |
 | 07:00 | NOK | Low | Current Account (Q2) |  |  | 286.5B |
 | 07:30 | CHF | Low | CPI (YoY) (Aug) |  | 0.2% | 0.2% |
 | 07:30 | CHF | Moderate | CPI (MoM) (Aug) |  | 0.0% | 0.0% |
@@ -30,8 +30,8 @@
 | 12:00 | EUR | Low | Spanish Consumer Confidence (Jul) |  |  | 76.1 |
 | 12:30 | USD | Low | Challenger Job Cuts (Aug) |  |  | 62.075K |
 | 13:00 | USD | Low | Total Vehicle Sales (Aug) |  | 16.10M | 16.40M |
-| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jun) |  | -4.60% | -7.10% |
 | 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Jun) |  | 0.00% | 0.90% |
+| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jun) |  | -4.60% | -7.10% |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Aug) |  | 73K | 104K |
 | 13:15 | CAD | Low | Reserve Assets Total (Aug) |  |  | 126.6B |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,960K | 1,954K |
