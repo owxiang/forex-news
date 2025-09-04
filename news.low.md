@@ -30,13 +30,15 @@
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 231.00K |  | 228.50K |
 | 13:30 | CAD | Exports (Jul) | 61.86B |  | 61.30B |
 | 13:30 | CAD | Imports (Jul) | 66.80B |  | 67.29B |
-| 18 min | CAD | Leading Index (MoM) (Aug) |  |  | 0.15% |
-| 18 min | CAD | Services PMI (MoM) (Aug) |  |  | 49.30% |
-| 48 min | USD | ISM Non-Manufacturing Business Activity (Aug) |  |  | 52.6 |
-| 48 min | USD | ISM Non-Manufacturing New Orders (Aug) |  |  | 50.3 |
-| 15:30 | USD | Natural Gas Storage |  | 54B | 18B |
+| 15:00 | USD | All Car Sales (Jul) | 2.61M |  | 2.54M |
+| 15:00 | USD | All Truck Sales (Aug) | 13.40M |  | 13.93M |
+| 15:00 | USD | ISM Non-Manufacturing Business Activity (Aug) | 55.0 |  | 52.6 |
+| 15:00 | USD | ISM Non-Manufacturing New Orders (Aug) | 56.0 |  | 50.3 |
+| 23 min | USD | Natural Gas Storage |  | 54B | 18B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.245% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 4.145% |
+| 16:30 | CAD | Leading Index (MoM) (Aug) |  |  | 0.15% |
+| 16:30 | CAD | Services PMI (MoM) (Aug) |  |  | 49.30% |
 | 17:00 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.328M |
 | 17:00 | USD | Crude Oil Imports |  |  | 0.299M |
 | 17:00 | USD | Distillate Fuel Production |  |  | -0.113M |

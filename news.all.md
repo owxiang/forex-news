@@ -42,18 +42,20 @@
 | 13:30 | CAD | Low | Exports (Jul) | 61.86B |  | 61.30B |
 | 13:30 | CAD | Low | Imports (Jul) | 66.80B |  | 67.29B |
 | 13:30 | CAD | Moderate | Trade Balance (Jul) | -4.94B | -5.20B | -5.98B |
-| 18 min | CAD | Low | Leading Index (MoM) (Aug) |  |  | 0.15% |
-| 18 min | CAD | Low | Services PMI (MoM) (Aug) |  |  | 49.30% |
-| 33 min | USD | Moderate | S&P Global Composite PMI (Aug) |  | 55.4 | 55.1 |
-| 33 min | USD | High | S&P Global Services PMI (Aug) |  | 55.4 | 55.7 |
-| 48 min | USD | Low | ISM Non-Manufacturing Business Activity (Aug) |  |  | 52.6 |
-| 48 min | USD | Moderate | ISM Non-Manufacturing Employment (Aug) |  |  | 46.4 |
-| 48 min | USD | Low | ISM Non-Manufacturing New Orders (Aug) |  |  | 50.3 |
-| 48 min | USD | High | ISM Non-Manufacturing PMI (Aug) |  | 50.9 | 50.1 |
-| 48 min | USD | High | ISM Non-Manufacturing Prices (Aug) |  |  | 69.9 |
-| 15:30 | USD | Low | Natural Gas Storage |  | 54B | 18B |
+| 14:45 | USD | Moderate | S&P Global Composite PMI (Aug) | 54.6 | 55.4 | 55.1 |
+| 14:45 | USD | High | S&P Global Services PMI (Aug) | 54.5 | 55.4 | 55.7 |
+| 15:00 | USD | Low | All Car Sales (Jul) | 2.61M |  | 2.54M |
+| 15:00 | USD | Low | All Truck Sales (Aug) | 13.40M |  | 13.93M |
+| 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Aug) | 55.0 |  | 52.6 |
+| 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Aug) | 46.5 | 46.7 | 46.4 |
+| 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Aug) | 56.0 |  | 50.3 |
+| 15:00 | USD | High | ISM Non-Manufacturing PMI (Aug) | 52.0 | 50.9 | 50.1 |
+| 15:00 | USD | High | ISM Non-Manufacturing Prices (Aug) | 69.2 | 69.5 | 69.9 |
+| 23 min | USD | Low | Natural Gas Storage |  | 54B | 18B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.245% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.145% |
+| 16:30 | CAD | Low | Leading Index (MoM) (Aug) |  |  | 0.15% |
+| 16:30 | CAD | Low | Services PMI (MoM) (Aug) |  |  | 49.30% |
 | 17:00 | USD | High | Crude Oil Inventories |  | -2.000M | -2.392M |
 | 17:00 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.328M |
 | 17:00 | USD | Low | Crude Oil Imports |  |  | 0.299M |

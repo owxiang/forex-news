@@ -12,8 +12,8 @@
 | 13:30 | USD | Trade Balance (Jul) | -78.30B | -77.70B | -59.10B |
 | 13:30 | USD | Unit Labor Costs (QoQ) (Q2) | 1.0% | 1.2% | 1.6% |
 | 13:30 | CAD | Trade Balance (Jul) | -4.94B | -5.20B | -5.98B |
-| 33 min | USD | S&P Global Composite PMI (Aug) |  | 55.4 | 55.1 |
-| 48 min | USD | ISM Non-Manufacturing Employment (Aug) |  |  | 46.4 |
+| 14:45 | USD | S&P Global Composite PMI (Aug) | 54.6 | 55.4 | 55.1 |
+| 15:00 | USD | ISM Non-Manufacturing Employment (Aug) | 46.5 | 46.7 | 46.4 |
 | 17:00 | USD | Cushing Crude Oil Inventories |  |  | -0.838M |
 | 17:05 | USD | FOMC Member Williams Speaks |  |  |  |
 | 18:00 | USD | Atlanta Fed GDPNow (Q3) |  | 3.0% | 3.0% |
