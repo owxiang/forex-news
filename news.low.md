@@ -12,20 +12,20 @@
 | 07:30 | CHF | CPI (YoY) (Aug) | 0.2% | 0.2% | 0.2% |
 | 08:00 | CHF | Unemployment Rate n.s.a. (Aug) | 2.8% |  | 2.7% |
 | 08:00 | CHF | Unemployment Rate s.a. (Aug) | 2.9% | 2.9% | 2.9% |
-| 24 min | EUR | HCOB Italy Construction PMI (MoM) (Aug) |  |  | 48.3 |
-| 24 min | EUR | HCOB Germany Construction PMI (Aug) |  |  | 46.3 |
-| 24 min | EUR | HCOB France Construction PMI (MoM) (Aug) |  |  | 39.7 |
-| 24 min | EUR | HCOB Eurozone Construction PMI (MoM) (Aug) |  |  | 44.7 |
-| 54 min | GBP | Car Registration (YoY) (Aug) |  |  | -5.0% |
-| 54 min | GBP | United Kingdom New Passenger Cars Registration (Aug) |  |  | 140,154.0 |
-| 09:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 2.166% |
-| 09:40 | EUR | Spanish 7-Year Obligacion Auction |  |  | 2.720% |
-| 10:00 | EUR | Retail Sales (MoM) (Jul) |  | -0.3% | 0.3% |
-| 10:00 | EUR | Retail Sales (YoY) (Jul) |  | 2.4% | 3.1% |
+| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Aug) | 47.7 |  | 48.3 |
+| 08:30 | EUR | HCOB Germany Construction PMI (Aug) | 46.0 |  | 46.3 |
+| 08:30 | EUR | HCOB France Construction PMI (MoM) (Aug) | 46.7 |  | 39.7 |
+| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Aug) | 46.7 |  | 44.7 |
+| 09:00 | GBP | Car Registration (YoY) (Aug) | -2.0% |  | -5.0% |
+| 09:00 | GBP | United Kingdom New Passenger Cars Registration (Aug) |  |  | 140,154.0 |
+| 31 min | EUR | Spanish 3-Year Bonos Auction |  |  | 2.166% |
+| 31 min | EUR | Spanish 7-Year Obligacion Auction |  |  | 2.720% |
+| 51 min | EUR | Retail Sales (MoM) (Jul) |  | -0.3% | 0.3% |
+| 51 min | EUR | Retail Sales (YoY) (Jul) |  | 2.4% | 3.1% |
 | 11:00 | CAD | Leading Index (MoM) (Aug) |  |  | 0.15% |
 | 12:00 | EUR | Spanish Consumer Confidence (Jul) |  |  | 76.1 |
-| 12:30 | USD | Challenger Job Cuts (Aug) |  |  | 62.075K |
 | 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 139.8% |
+| 12:30 | USD | Challenger Job Cuts (Aug) |  |  | 62.075K |
 | 13:00 | MXN | Gross Fixed Investments (YoY) (Jun) |  | -4.60% | -7.10% |
 | 13:00 | MXN | Gross Fixed Investments (MoM) (Jun) |  | 0.00% | 0.90% |
 | 13:15 | CAD | Reserve Assets Total (Aug) |  |  | 126.6B |

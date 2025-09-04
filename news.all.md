@@ -10,25 +10,25 @@
 | 02:30 | AUD | Moderate | Trade Balance | 7.310B | 4.880B | 5.366B |
 | 04:35 | JPY | Low | 30-Year JGB Auction | 3.264% |  | 3.089% |
 | 07:00 | NOK | Low | Current Account (Q2) | 217.9B |  | 285.3B |
-| 07:30 | CHF | Moderate | CPI (MoM) (Aug) | -0.1% | 0.0% | 0.0% |
 | 07:30 | CHF | Low | CPI (YoY) (Aug) | 0.2% | 0.2% | 0.2% |
+| 07:30 | CHF | Moderate | CPI (MoM) (Aug) | -0.1% | 0.0% | 0.0% |
 | 08:00 | CHF | Low | Unemployment Rate n.s.a. (Aug) | 2.8% |  | 2.7% |
 | 08:00 | CHF | Low | Unemployment Rate s.a. (Aug) | 2.9% | 2.9% | 2.9% |
-| 24 min | EUR | Low | HCOB Italy Construction PMI (MoM) (Aug) |  |  | 48.3 |
-| 24 min | EUR | Low | HCOB Germany Construction PMI (Aug) |  |  | 46.3 |
-| 24 min | EUR | Low | HCOB France Construction PMI (MoM) (Aug) |  |  | 39.7 |
-| 24 min | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Aug) |  |  | 44.7 |
-| 54 min | GBP | Low | Car Registration (YoY) (Aug) |  |  | -5.0% |
-| 54 min | GBP | Low | United Kingdom New Passenger Cars Registration (Aug) |  |  | 140,154.0 |
-| 09:30 | GBP | Moderate | S&P Global Construction PMI (Aug) |  | 45.2 | 44.3 |
-| 09:40 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.166% |
-| 09:40 | EUR | Low | Spanish 7-Year Obligacion Auction |  |  | 2.720% |
-| 10:00 | EUR | Low | Retail Sales (MoM) (Jul) |  | -0.3% | 0.3% |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Jul) |  | 2.4% | 3.1% |
+| 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Aug) | 47.7 |  | 48.3 |
+| 08:30 | EUR | Low | HCOB Germany Construction PMI (Aug) | 46.0 |  | 46.3 |
+| 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Aug) | 46.7 |  | 39.7 |
+| 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Aug) | 46.7 |  | 44.7 |
+| 09:00 | GBP | Low | Car Registration (YoY) (Aug) | -2.0% |  | -5.0% |
+| 09:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Aug) |  |  | 140,154.0 |
+| 21 min | GBP | Moderate | S&P Global Construction PMI (Aug) |  | 45.2 | 44.3 |
+| 31 min | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.166% |
+| 31 min | EUR | Low | Spanish 7-Year Obligacion Auction |  |  | 2.720% |
+| 51 min | EUR | Low | Retail Sales (MoM) (Jul) |  | -0.3% | 0.3% |
+| 51 min | EUR | Low | Retail Sales (YoY) (Jul) |  | 2.4% | 3.1% |
 | 11:00 | CAD | Low | Leading Index (MoM) (Aug) |  |  | 0.15% |
 | 12:00 | EUR | Low | Spanish Consumer Confidence (Jul) |  |  | 76.1 |
-| 12:30 | USD | Low | Challenger Job Cuts (Aug) |  |  | 62.075K |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 139.8% |
+| 12:30 | USD | Low | Challenger Job Cuts (Aug) |  |  | 62.075K |
 | 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jun) |  | -4.60% | -7.10% |
 | 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Jun) |  | 0.00% | 0.90% |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Aug) |  | 73K | 104K |
