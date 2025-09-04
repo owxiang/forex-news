@@ -10,8 +10,8 @@
 | 02:30 | AUD | Moderate | Trade Balance | 7.310B | 4.880B | 5.366B |
 | 04:35 | JPY | Low | 30-Year JGB Auction | 3.264% |  | 3.089% |
 | 07:00 | NOK | Low | Current Account (Q2) | 217.9B |  | 285.3B |
-| 07:30 | CHF | Low | CPI (YoY) (Aug) | 0.2% | 0.2% | 0.2% |
 | 07:30 | CHF | Moderate | CPI (MoM) (Aug) | -0.1% | 0.0% | 0.0% |
+| 07:30 | CHF | Low | CPI (YoY) (Aug) | 0.2% | 0.2% | 0.2% |
 | 08:00 | CHF | Low | Unemployment Rate n.s.a. (Aug) | 2.8% |  | 2.7% |
 | 08:00 | CHF | Low | Unemployment Rate s.a. (Aug) | 2.9% | 2.9% | 2.9% |
 | 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Aug) | 47.7 |  | 48.3 |
@@ -25,8 +25,8 @@
 | 10:00 | EUR | Low | Spanish 7-Year Obligacion Auction | 2.734% |  | 2.720% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (Jul) | 2.2% | 2.4% | 3.5% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Jul) | -0.5% | -0.3% | 0.6% |
-| 12:30 | USD | Low | Challenger Job Cuts (YoY) | 13.3% |  | 139.8% |
 | 12:30 | USD | Low | Challenger Job Cuts (Aug) | 85.979K |  | 62.075K |
+| 12:30 | USD | Low | Challenger Job Cuts (YoY) | 13.3% |  | 139.8% |
 | 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Jun) | -1.40% | 0.00% | 0.90% |
 | 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jun) | -6.40% | -4.60% | -7.10% |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Aug) | 54K | 73K | 106K |
@@ -80,5 +80,5 @@
 | 17:15 | USD | Low | OPEC Crude oil Production UAE (Barrel) | 3.25M |  | 3.14M |
 | 17:15 | USD | Low | OPEC Crude oil Production Venezuela (Barrel) | 0.85M |  | 0.82M |
 | 19:00 | BRL | Low | Trade Balance (Jul) | 6.13B |  | 5.68B |
-| 23 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,603B |
-| 23 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.217T |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,602B |  | 6,603B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.168T |  | 3.217T |

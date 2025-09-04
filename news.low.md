@@ -22,8 +22,8 @@
 | 10:00 | EUR | Spanish 7-Year Obligacion Auction | 2.734% |  | 2.720% |
 | 10:00 | EUR | Retail Sales (YoY) (Jul) | 2.2% | 2.4% | 3.5% |
 | 10:00 | EUR | Retail Sales (MoM) (Jul) | -0.5% | -0.3% | 0.6% |
-| 12:30 | USD | Challenger Job Cuts (YoY) | 13.3% |  | 139.8% |
 | 12:30 | USD | Challenger Job Cuts (Aug) | 85.979K |  | 62.075K |
+| 12:30 | USD | Challenger Job Cuts (YoY) | 13.3% |  | 139.8% |
 | 13:00 | MXN | Gross Fixed Investments (MoM) (Jun) | -1.40% | 0.00% | 0.90% |
 | 13:00 | MXN | Gross Fixed Investments (YoY) (Jun) | -6.40% | -4.60% | -7.10% |
 | 13:15 | CAD | Reserve Assets Total (Aug) | 127.9B |  | 126.6B |
@@ -59,4 +59,4 @@
 | 17:15 | USD | OPEC Crude oil Production UAE (Barrel) | 3.25M |  | 3.14M |
 | 17:15 | USD | OPEC Crude oil Production Venezuela (Barrel) | 0.85M |  | 0.82M |
 | 19:00 | BRL | Trade Balance (Jul) | 6.13B |  | 5.68B |
-| 23 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.217T |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.168T |  | 3.217T |
