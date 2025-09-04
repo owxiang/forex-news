@@ -9,9 +9,9 @@
 | 02:30 | AUD | Low | Imports (MoM) | -1.3% |  | -1.5% |
 | 02:30 | AUD | Moderate | Trade Balance | 7.310B | 4.880B | 5.366B |
 | 04:35 | JPY | Low | 30-Year JGB Auction | 3.264% |  | 3.089% |
-| 07:00 | NOK | Low | Current Account (Q2) |  |  | 286.5B |
-| 07:30 | CHF | Moderate | CPI (MoM) (Aug) |  | 0.0% | 0.0% |
+| 54 min | NOK | Low | Current Account (Q2) |  |  | 286.5B |
 | 07:30 | CHF | Low | CPI (YoY) (Aug) |  | 0.2% | 0.2% |
+| 07:30 | CHF | Moderate | CPI (MoM) (Aug) |  | 0.0% | 0.0% |
 | 08:00 | CHF | Low | Unemployment Rate n.s.a. (Aug) |  |  | 2.7% |
 | 08:00 | CHF | Low | Unemployment Rate s.a. (Aug) |  | 2.9% | 2.9% |
 | 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Aug) |  |  | 48.3 |
@@ -53,19 +53,19 @@
 | 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Aug) |  |  | 50.3 |
 | 15:00 | USD | High | ISM Non-Manufacturing PMI (Aug) |  | 50.9 | 50.1 |
 | 15:00 | USD | High | ISM Non-Manufacturing Prices (Aug) |  |  | 69.9 |
-| 15:30 | USD | Low | Natural Gas Storage |  |  | 18B |
+| 15:30 | USD | Low | Natural Gas Storage |  | 54B | 18B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.245% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.145% |
-| 17:00 | USD | High | Crude Oil Inventories |  |  | -2.392M |
+| 17:00 | USD | High | Crude Oil Inventories |  | -2.000M | -2.392M |
 | 17:00 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.328M |
 | 17:00 | USD | Low | Crude Oil Imports |  |  | 0.299M |
 | 17:00 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.838M |
 | 17:00 | USD | Low | Distillate Fuel Production |  |  | -0.113M |
-| 17:00 | USD | Low | EIA Weekly Distillates Stocks |  |  | -1.786M |
+| 17:00 | USD | Low | EIA Weekly Distillates Stocks |  | -0.300M | -1.786M |
 | 17:00 | USD | Low | Gasoline Production |  |  | 0.427M |
 | 17:00 | USD | Low | Heating Oil Stockpiles |  |  | 0.102M |
 | 17:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -2.0% |
-| 17:00 | USD | Low | Gasoline Inventories |  |  | -1.236M |
+| 17:00 | USD | Low | Gasoline Inventories |  | -1.000M | -1.236M |
 | 17:05 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 3.0% | 3.0% |
 | 19:00 | BRL | Low | Trade Balance (Aug) |  |  | 7.08B |
