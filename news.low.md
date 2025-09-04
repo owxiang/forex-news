@@ -7,7 +7,7 @@
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | -785.7B |  | -496.2B |
 | 02:30 | AUD | Exports (MoM) | 3.3% |  | 6.3% |
 | 02:30 | AUD | Imports (MoM) | -1.3% |  | -1.5% |
-| 20 min | JPY | 30-Year JGB Auction |  |  | 3.089% |
+| 04:35 | JPY | 30-Year JGB Auction | 3.264% |  | 3.089% |
 | 07:00 | NOK | Current Account (Q2) |  |  | 286.5B |
 | 07:30 | CHF | CPI (YoY) (Aug) |  | 0.2% | 0.2% |
 | 08:00 | CHF | Unemployment Rate n.s.a. (Aug) |  |  | 2.7% |

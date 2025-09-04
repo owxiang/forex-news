@@ -8,10 +8,10 @@
 | 02:30 | AUD | Low | Exports (MoM) | 3.3% |  | 6.3% |
 | 02:30 | AUD | Low | Imports (MoM) | -1.3% |  | -1.5% |
 | 02:30 | AUD | Moderate | Trade Balance | 7.310B | 4.880B | 5.366B |
-| 20 min | JPY | Low | 30-Year JGB Auction |  |  | 3.089% |
+| 04:35 | JPY | Low | 30-Year JGB Auction | 3.264% |  | 3.089% |
 | 07:00 | NOK | Low | Current Account (Q2) |  |  | 286.5B |
-| 07:30 | CHF | Low | CPI (YoY) (Aug) |  | 0.2% | 0.2% |
 | 07:30 | CHF | Moderate | CPI (MoM) (Aug) |  | 0.0% | 0.0% |
+| 07:30 | CHF | Low | CPI (YoY) (Aug) |  | 0.2% | 0.2% |
 | 08:00 | CHF | Low | Unemployment Rate n.s.a. (Aug) |  |  | 2.7% |
 | 08:00 | CHF | Low | Unemployment Rate s.a. (Aug) |  | 2.9% | 2.9% |
 | 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Aug) |  |  | 48.3 |
