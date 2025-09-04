@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | KRW | Current Account (Jul) | 10.78B |  | 14.27B |
-| 44 min | JPY | Foreign Bonds Buying |  |  | -167.2B |
-| 44 min | JPY | Foreign Investments in Japanese Stocks |  |  | -496.8B |
+| 00:50 | JPY | Foreign Bonds Buying | 1,419.8B |  | -167.2B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks | -785.7B |  | -496.2B |
 | 02:30 | AUD | Exports (MoM) |  |  | 6.0% |
 | 02:30 | AUD | Imports (MoM) |  |  | -3.1% |
 | 04:35 | JPY | 30-Year JGB Auction |  |  | 3.089% |
@@ -20,15 +20,15 @@
 | 09:00 | GBP | United Kingdom New Passenger Cars Registration (Aug) |  |  | 140,154.0 |
 | 09:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 2.166% |
 | 09:40 | EUR | Spanish 7-Year Obligacion Auction |  |  | 2.720% |
-| 10:00 | EUR | Retail Sales (MoM) (Jul) |  | -0.3% | 0.3% |
 | 10:00 | EUR | Retail Sales (YoY) (Jul) |  | 2.4% | 3.1% |
+| 10:00 | EUR | Retail Sales (MoM) (Jul) |  | -0.3% | 0.3% |
 | 10:00 | ZAR | Current Account (Q2) |  |  | -35.6B |
 | 11:00 | CAD | Leading Index (MoM) (Aug) |  |  | 0.15% |
 | 12:00 | EUR | Spanish Consumer Confidence (Jul) |  |  | 76.1 |
 | 12:30 | USD | Challenger Job Cuts (Aug) |  |  | 62.075K |
 | 13:00 | USD | Total Vehicle Sales (Aug) |  | 16.10M | 16.40M |
-| 13:00 | MXN | Gross Fixed Investments (MoM) (Jun) |  | 0.00% | 0.90% |
 | 13:00 | MXN | Gross Fixed Investments (YoY) (Jun) |  | -4.60% | -7.10% |
+| 13:00 | MXN | Gross Fixed Investments (MoM) (Jun) |  | 0.00% | 0.90% |
 | 13:15 | CAD | Reserve Assets Total (Aug) |  |  | 126.6B |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 228.50K |
 | 13:30 | CAD | Exports (Jul) |  |  | 61.74B |
