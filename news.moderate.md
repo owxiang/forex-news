@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:30 | AUD | Trade Balance | 7.310B | 4.880B | 5.366B |
-| 07:30 | CHF | CPI (MoM) (Aug) |  | 0.0% | 0.0% |
+| 21 min | CHF | CPI (MoM) (Aug) |  | 0.0% | 0.0% |
 | 09:30 | GBP | S&P Global Construction PMI (Aug) |  | 45.2 | 44.3 |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,960K | 1,954K |
 | 13:30 | USD | Exports (Jul) |  |  | 277.30B |
