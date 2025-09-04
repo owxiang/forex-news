@@ -23,8 +23,8 @@
 | 09:30 | GBP | Moderate | S&P Global Construction PMI (Aug) | 45.5 | 45.2 | 44.3 |
 | 10:00 | EUR | Low | Spanish 3-Year Bonos Auction | 2.204% |  | 2.166% |
 | 10:00 | EUR | Low | Spanish 7-Year Obligacion Auction | 2.734% |  | 2.720% |
-| 10:00 | EUR | Low | Retail Sales (MoM) (Jul) | -0.5% | -0.3% | 0.6% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (Jul) | 2.2% | 2.4% | 3.5% |
+| 10:00 | EUR | Low | Retail Sales (MoM) (Jul) | -0.5% | -0.3% | 0.6% |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) | 13.3% |  | 139.8% |
 | 12:30 | USD | Low | Challenger Job Cuts (Aug) | 85.979K |  | 62.075K |
 | 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Jun) | -1.40% | 0.00% | 0.90% |
@@ -79,6 +79,6 @@
 | 17:15 | USD | Low | OPEC Crude oil Production Saudi Arabia (Barrel) | 9.60M |  | 9.45M |
 | 17:15 | USD | Low | OPEC Crude oil Production UAE (Barrel) | 3.25M |  | 3.14M |
 | 17:15 | USD | Low | OPEC Crude oil Production Venezuela (Barrel) | 0.85M |  | 0.82M |
-| 19:00 | BRL | Low | Trade Balance (Jul) | 6.13B |  | 5.71B |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,603B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.217T |
+| 19:00 | BRL | Low | Trade Balance (Jul) | 6.13B |  | 5.68B |
+| 23 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,603B |
+| 23 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.217T |

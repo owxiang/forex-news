@@ -17,4 +17,4 @@
 | 17:00 | USD | Atlanta Fed GDPNow (Q3) | 3.0% | 3.0% | 3.0% |
 | 17:00 | USD | Cushing Crude Oil Inventories | 1.590M |  | -0.838M |
 | 17:05 | USD | FOMC Member Williams Speaks |  |  |  |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 6,603B |
+| 23 min | USD | Fed's Balance Sheet |  |  | 6,603B |
