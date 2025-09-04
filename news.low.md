@@ -20,17 +20,17 @@
 | 09:00 | GBP | United Kingdom New Passenger Cars Registration (Aug) | 82,908.0 |  | 140,154.0 |
 | 10:00 | EUR | Spanish 3-Year Bonos Auction | 2.204% |  | 2.166% |
 | 10:00 | EUR | Spanish 7-Year Obligacion Auction | 2.734% |  | 2.720% |
-| 10:00 | EUR | Retail Sales (YoY) (Jul) | 2.2% | 2.4% | 3.5% |
 | 10:00 | EUR | Retail Sales (MoM) (Jul) | -0.5% | -0.3% | 0.6% |
-| 24 min | USD | Challenger Job Cuts (Aug) |  |  | 62.075K |
-| 24 min | USD | Challenger Job Cuts (YoY) |  |  | 139.8% |
-| 54 min | CAD | Leading Index (MoM) (Aug) |  |  | 0.15% |
-| 54 min | MXN | Gross Fixed Investments (YoY) (Jun) |  | -4.60% | -7.10% |
-| 54 min | MXN | Gross Fixed Investments (MoM) (Jun) |  | 0.00% | 0.90% |
-| 13:15 | CAD | Reserve Assets Total (Aug) |  |  | 126.6B |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 228.50K |
-| 13:30 | CAD | Exports (Jul) |  |  | 61.74B |
-| 13:30 | CAD | Imports (Jul) |  |  | 67.60B |
+| 10:00 | EUR | Retail Sales (YoY) (Jul) | 2.2% | 2.4% | 3.5% |
+| 12:30 | USD | Challenger Job Cuts (YoY) | 13.3% |  | 139.8% |
+| 12:30 | USD | Challenger Job Cuts (Aug) | 85.979K |  | 62.075K |
+| 13:00 | MXN | Gross Fixed Investments (MoM) (Jun) | -1.40% | 0.00% | 0.90% |
+| 13:00 | MXN | Gross Fixed Investments (YoY) (Jun) | -6.40% | -4.60% | -7.10% |
+| 4 min | CAD | Reserve Assets Total (Aug) |  |  | 126.6B |
+| 19 min | USD | Jobless Claims 4-Week Avg. |  |  | 228.50K |
+| 19 min | CAD | Exports (Jul) |  |  | 61.74B |
+| 19 min | CAD | Imports (Jul) |  |  | 67.60B |
+| 49 min | CAD | Leading Index (MoM) (Aug) |  |  | 0.15% |
 | 14:30 | CAD | Services PMI (MoM) (Aug) |  |  | 49.30% |
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Aug) |  |  | 52.6 |
 | 15:00 | USD | ISM Non-Manufacturing New Orders (Aug) |  |  | 50.3 |

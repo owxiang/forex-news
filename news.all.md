@@ -10,8 +10,8 @@
 | 02:30 | AUD | Moderate | Trade Balance | 7.310B | 4.880B | 5.366B |
 | 04:35 | JPY | Low | 30-Year JGB Auction | 3.264% |  | 3.089% |
 | 07:00 | NOK | Low | Current Account (Q2) | 217.9B |  | 285.3B |
-| 07:30 | CHF | Moderate | CPI (MoM) (Aug) | -0.1% | 0.0% | 0.0% |
 | 07:30 | CHF | Low | CPI (YoY) (Aug) | 0.2% | 0.2% | 0.2% |
+| 07:30 | CHF | Moderate | CPI (MoM) (Aug) | -0.1% | 0.0% | 0.0% |
 | 08:00 | CHF | Low | Unemployment Rate n.s.a. (Aug) | 2.8% |  | 2.7% |
 | 08:00 | CHF | Low | Unemployment Rate s.a. (Aug) | 2.9% | 2.9% | 2.9% |
 | 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Aug) | 47.7 |  | 48.3 |
@@ -23,26 +23,26 @@
 | 09:30 | GBP | Moderate | S&P Global Construction PMI (Aug) | 45.5 | 45.2 | 44.3 |
 | 10:00 | EUR | Low | Spanish 3-Year Bonos Auction | 2.204% |  | 2.166% |
 | 10:00 | EUR | Low | Spanish 7-Year Obligacion Auction | 2.734% |  | 2.720% |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Jul) | 2.2% | 2.4% | 3.5% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Jul) | -0.5% | -0.3% | 0.6% |
-| 24 min | USD | Low | Challenger Job Cuts (Aug) |  |  | 62.075K |
-| 24 min | USD | Low | Challenger Job Cuts (YoY) |  |  | 139.8% |
-| 54 min | CAD | Low | Leading Index (MoM) (Aug) |  |  | 0.15% |
-| 54 min | MXN | Low | Gross Fixed Investments (YoY) (Jun) |  | -4.60% | -7.10% |
-| 54 min | MXN | Low | Gross Fixed Investments (MoM) (Jun) |  | 0.00% | 0.90% |
-| 13:15 | USD | High | ADP Nonfarm Employment Change (Aug) |  | 73K | 104K |
-| 13:15 | CAD | Low | Reserve Assets Total (Aug) |  |  | 126.6B |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,960K | 1,954K |
-| 13:30 | USD | Moderate | Exports (Jul) |  |  | 277.30B |
-| 13:30 | USD | Moderate | Imports (Jul) |  |  | 337.50B |
-| 13:30 | USD | High | Initial Jobless Claims |  | 230K | 229K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 228.50K |
-| 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q2) |  | 2.8% | 2.4% |
-| 13:30 | USD | Moderate | Trade Balance (Jul) |  | -77.70B | -60.20B |
-| 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q2) |  | 1.2% | 1.6% |
-| 13:30 | CAD | Low | Exports (Jul) |  |  | 61.74B |
-| 13:30 | CAD | Low | Imports (Jul) |  |  | 67.60B |
-| 13:30 | CAD | Moderate | Trade Balance (Jul) |  | -5.20B | -5.86B |
+| 10:00 | EUR | Low | Retail Sales (YoY) (Jul) | 2.2% | 2.4% | 3.5% |
+| 12:30 | USD | Low | Challenger Job Cuts (YoY) | 13.3% |  | 139.8% |
+| 12:30 | USD | Low | Challenger Job Cuts (Aug) | 85.979K |  | 62.075K |
+| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Jun) | -1.40% | 0.00% | 0.90% |
+| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jun) | -6.40% | -4.60% | -7.10% |
+| 4 min | USD | High | ADP Nonfarm Employment Change (Aug) |  | 73K | 104K |
+| 4 min | CAD | Low | Reserve Assets Total (Aug) |  |  | 126.6B |
+| 19 min | USD | Moderate | Continuing Jobless Claims |  | 1,960K | 1,954K |
+| 19 min | USD | Moderate | Exports (Jul) |  |  | 277.30B |
+| 19 min | USD | Moderate | Imports (Jul) |  |  | 337.50B |
+| 19 min | USD | High | Initial Jobless Claims |  | 230K | 229K |
+| 19 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 228.50K |
+| 19 min | USD | Moderate | Nonfarm Productivity (QoQ) (Q2) |  | 2.8% | 2.4% |
+| 19 min | USD | Moderate | Trade Balance (Jul) |  | -77.70B | -60.20B |
+| 19 min | USD | Moderate | Unit Labor Costs (QoQ) (Q2) |  | 1.2% | 1.6% |
+| 19 min | CAD | Low | Exports (Jul) |  |  | 61.74B |
+| 19 min | CAD | Low | Imports (Jul) |  |  | 67.60B |
+| 19 min | CAD | Moderate | Trade Balance (Jul) |  | -5.20B | -5.86B |
+| 49 min | CAD | Low | Leading Index (MoM) (Aug) |  |  | 0.15% |
 | 14:30 | CAD | Low | Services PMI (MoM) (Aug) |  |  | 49.30% |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Aug) |  | 55.4 | 55.1 |
 | 14:45 | USD | High | S&P Global Services PMI (Aug) |  | 55.4 | 55.7 |
