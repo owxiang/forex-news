@@ -22,18 +22,18 @@
 | 10:00 | EUR | Spanish 7-Year Obligacion Auction | 2.734% |  | 2.720% |
 | 10:00 | EUR | Retail Sales (MoM) (Jul) | -0.5% | -0.3% | 0.6% |
 | 10:00 | EUR | Retail Sales (YoY) (Jul) | 2.2% | 2.4% | 3.5% |
-| 12:30 | USD | Challenger Job Cuts (YoY) | 13.3% |  | 139.8% |
 | 12:30 | USD | Challenger Job Cuts (Aug) | 85.979K |  | 62.075K |
-| 13:00 | MXN | Gross Fixed Investments (MoM) (Jun) | -1.40% | 0.00% | 0.90% |
+| 12:30 | USD | Challenger Job Cuts (YoY) | 13.3% |  | 139.8% |
 | 13:00 | MXN | Gross Fixed Investments (YoY) (Jun) | -6.40% | -4.60% | -7.10% |
-| 4 min | CAD | Reserve Assets Total (Aug) |  |  | 126.6B |
-| 19 min | USD | Jobless Claims 4-Week Avg. |  |  | 228.50K |
-| 19 min | CAD | Exports (Jul) |  |  | 61.74B |
-| 19 min | CAD | Imports (Jul) |  |  | 67.60B |
-| 49 min | CAD | Leading Index (MoM) (Aug) |  |  | 0.15% |
-| 14:30 | CAD | Services PMI (MoM) (Aug) |  |  | 49.30% |
-| 15:00 | USD | ISM Non-Manufacturing Business Activity (Aug) |  |  | 52.6 |
-| 15:00 | USD | ISM Non-Manufacturing New Orders (Aug) |  |  | 50.3 |
+| 13:00 | MXN | Gross Fixed Investments (MoM) (Jun) | -1.40% | 0.00% | 0.90% |
+| 13:15 | CAD | Reserve Assets Total (Aug) | 127.9B |  | 126.6B |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 231.00K |  | 228.50K |
+| 13:30 | CAD | Exports (Jul) | 61.86B |  | 61.30B |
+| 13:30 | CAD | Imports (Jul) | 66.80B |  | 67.29B |
+| 18 min | CAD | Leading Index (MoM) (Aug) |  |  | 0.15% |
+| 18 min | CAD | Services PMI (MoM) (Aug) |  |  | 49.30% |
+| 48 min | USD | ISM Non-Manufacturing Business Activity (Aug) |  |  | 52.6 |
+| 48 min | USD | ISM Non-Manufacturing New Orders (Aug) |  |  | 50.3 |
 | 15:30 | USD | Natural Gas Storage |  | 54B | 18B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.245% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 4.145% |
