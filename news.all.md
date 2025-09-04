@@ -1,84 +1,86 @@
-## 04 September 2025 - All Forex News
+## 05 September 2025 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | Current Account (Jul) | 10.78B |  | 14.27B |
-| 00:50 | JPY | Low | Foreign Bonds Buying | 1,419.8B |  | -167.2B |
-| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -785.7B |  | -496.2B |
-| 02:30 | AUD | Low | Exports (MoM) | 3.3% |  | 6.3% |
-| 02:30 | AUD | Low | Imports (MoM) | -1.3% |  | -1.5% |
-| 02:30 | AUD | Moderate | Trade Balance | 7.310B | 4.880B | 5.366B |
-| 04:35 | JPY | Low | 30-Year JGB Auction | 3.264% |  | 3.089% |
-| 07:00 | NOK | Low | Current Account (Q2) | 217.9B |  | 285.3B |
-| 07:30 | CHF | Low | CPI (YoY) (Aug) | 0.2% | 0.2% | 0.2% |
-| 07:30 | CHF | Moderate | CPI (MoM) (Aug) | -0.1% | 0.0% | 0.0% |
-| 08:00 | CHF | Low | Unemployment Rate n.s.a. (Aug) | 2.8% |  | 2.7% |
-| 08:00 | CHF | Low | Unemployment Rate s.a. (Aug) | 2.9% | 2.9% | 2.9% |
-| 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Aug) | 47.7 |  | 48.3 |
-| 08:30 | EUR | Low | HCOB Germany Construction PMI (Aug) | 46.0 |  | 46.3 |
-| 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Aug) | 46.7 |  | 39.7 |
-| 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Aug) | 46.7 |  | 44.7 |
-| 09:00 | GBP | Low | Car Registration (YoY) (Aug) | -2.0% |  | -5.0% |
-| 09:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Aug) | 82,908.0 |  | 140,154.0 |
-| 09:30 | GBP | Moderate | S&P Global Construction PMI (Aug) | 45.5 | 45.2 | 44.3 |
-| 10:00 | EUR | Low | Spanish 3-Year Bonos Auction | 2.204% |  | 2.166% |
-| 10:00 | EUR | Low | Spanish 7-Year Obligacion Auction | 2.734% |  | 2.720% |
-| 10:00 | EUR | Low | Retail Sales (MoM) (Jul) | -0.5% | -0.3% | 0.6% |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Jul) | 2.2% | 2.4% | 3.5% |
-| 12:30 | USD | Low | Challenger Job Cuts (YoY) | 13.3% |  | 139.8% |
-| 12:30 | USD | Low | Challenger Job Cuts (Aug) | 85.979K |  | 62.075K |
-| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Jun) | -1.40% | 0.00% | 0.90% |
-| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jun) | -6.40% | -4.60% | -7.10% |
-| 13:15 | USD | High | ADP Nonfarm Employment Change (Aug) | 54K | 73K | 106K |
-| 13:15 | CAD | Low | Reserve Assets Total (Aug) | 127.9B |  | 126.6B |
-| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,940K | 1,960K | 1,944K |
-| 13:30 | USD | Moderate | Exports (Jul) | 280.50B |  | 277.30B |
-| 13:30 | USD | Moderate | Imports (Jul) | 358.80B |  | 337.50B |
-| 13:30 | USD | High | Initial Jobless Claims | 237K | 230K | 229K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 231.00K |  | 228.50K |
-| 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q2) | 3.3% | 2.8% | 2.4% |
-| 13:30 | USD | Moderate | Trade Balance (Jul) | -78.30B | -77.70B | -59.10B |
-| 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q2) | 1.0% | 1.2% | 1.6% |
-| 13:30 | CAD | Low | Exports (Jul) | 61.86B |  | 61.30B |
-| 13:30 | CAD | Low | Imports (Jul) | 66.80B |  | 67.29B |
-| 13:30 | CAD | Low | Services PMI (MoM) (Aug) | 48.60% |  | 49.30% |
-| 13:30 | CAD | Moderate | Trade Balance (Jul) | -4.94B | -5.20B | -5.98B |
-| 14:45 | USD | Moderate | S&P Global Composite PMI (Aug) | 54.6 | 55.4 | 55.1 |
-| 14:45 | USD | High | S&P Global Services PMI (Aug) | 54.5 | 55.4 | 55.7 |
-| 15:00 | USD | Low | All Car Sales (Jul) | 2.61M |  | 2.54M |
-| 15:00 | USD | Low | All Truck Sales (Aug) | 13.40M |  | 13.93M |
-| 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Aug) | 55.0 |  | 52.6 |
-| 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Aug) | 46.5 | 46.7 | 46.4 |
-| 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Aug) | 56.0 |  | 50.3 |
-| 15:00 | USD | High | ISM Non-Manufacturing PMI (Aug) | 52.0 | 50.9 | 50.1 |
-| 15:00 | USD | High | ISM Non-Manufacturing Prices (Aug) | 69.2 | 69.5 | 69.9 |
-| 15:30 | USD | Low | Natural Gas Storage | 55B | 54B | 18B |
-| 16:30 | USD | Low | 4-Week Bill Auction | 4.175% |  | 4.245% |
-| 16:30 | USD | Low | 8-Week Bill Auction | 4.100% |  | 4.145% |
-| 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 3.0% | 3.0% | 3.0% |
-| 17:00 | USD | High | Crude Oil Inventories | 2.415M | -2.000M | -2.392M |
-| 17:00 | USD | Low | EIA Refinery Crude Runs (WoW) | -0.011M |  | -0.328M |
-| 17:00 | USD | Low | Crude Oil Imports | 0.434M |  | 0.299M |
-| 17:00 | USD | Moderate | Cushing Crude Oil Inventories | 1.590M |  | -0.838M |
-| 17:00 | USD | Low | Distillate Fuel Production | 0.036M |  | -0.113M |
-| 17:00 | USD | Low | EIA Weekly Distillates Stocks | 1.681M | -0.300M | -1.786M |
-| 17:00 | USD | Low | Gasoline Production | -0.109M |  | 0.427M |
-| 17:00 | USD | Low | Heating Oil Stockpiles | 0.557M |  | 0.102M |
-| 17:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -0.3% |  | -2.0% |
-| 17:00 | USD | Low | Gasoline Inventories | -3.795M | -1.000M | -1.236M |
-| 17:05 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 17:15 | USD | Low | OPEC Crude Oil Production Algeria (Barrel) | 0.95M |  | 0.94M |
-| 17:15 | USD | Low | OPEC Crude Oil Production Congo (Barrel) | 0.26M |  | 0.26M |
-| 17:15 | USD | Low | OPEC Crude Oil Production Gabon (Barrel) | 0.23M |  | 0.23M |
-| 17:15 | USD | Low | OPEC Crude Oil Production Guinea (Barrel) | 0.05M |  | 0.05M |
-| 17:15 | USD | Low | OPEC Crude oil Production Iran (Barrel) | 3.35M |  | 3.30M |
-| 17:15 | USD | Low | OPEC Crude oil Production Iraq (Barrel) | 3.90M |  | 3.80M |
-| 17:15 | USD | Low | OPEC Crude Oil Production Kuwait (Barrel) | 2.49M |  | 2.44M |
-| 17:15 | USD | Low | OPEC Crude Oil Production Libya (Barrel) | 1.26M |  | 1.27M |
-| 17:15 | USD | Low | OPEC Crude Oil Production Nigeria (Barrel) | 1.65M |  | 1.67M |
-| 17:15 | USD | Low | OPEC Crude oil Production Saudi Arabia (Barrel) | 9.60M |  | 9.45M |
-| 17:15 | USD | Low | OPEC Crude oil Production UAE (Barrel) | 3.25M |  | 3.14M |
-| 17:15 | USD | Low | OPEC Crude oil Production Venezuela (Barrel) | 0.85M |  | 0.82M |
-| 19:00 | BRL | Low | Trade Balance (Jul) | 6.13B |  | 5.68B |
-| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,602B |  | 6,603B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.168T |  | 3.217T |
+| 00:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 23 min | JPY | Moderate | Household Spending (MoM) (Jul) |  | 1.3% | -5.2% |
+| 23 min | JPY | Moderate | Household Spending (YoY) (Jul) |  | 2.2% | 1.3% |
+| 23 min | JPY | Low | Overall wage income of employees (Jul) |  | 3.0% | 2.5% |
+| 23 min | JPY | Low | Overtime Pay (YoY) (Jul) |  |  | 0.90% |
+| 43 min | JPY | Low | Foreign Reserves (USD) (Aug) |  |  | 1,304.4B |
+| 06:00 | JPY | Low | Coincident Indicator (MoM) (Jul) |  |  | 0.7% |
+| 06:00 | JPY | Low | Leading Index (Jul) |  | 105.8 | 105.6 |
+| 06:00 | JPY | Low | Leading Index (MoM) (Jul) |  |  | 0.8% |
+| 06:00 | SGD | Low | Retail Sales (YoY) (Jul) |  |  | 2.3% |
+| 06:00 | SGD | Low | Retail Sales (MoM) (Jul) |  |  | -1.2% |
+| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Jul) |  | 1.2% | 1.8% |
+| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Jul) |  | 0.4% | 0.6% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Aug) |  | 2.0% | 2.4% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Aug) |  | 0.2% | 0.4% |
+| 07:00 | GBP | Moderate | Retail Sales (MoM) (Jul) |  | 0.3% | 0.9% |
+| 07:00 | GBP | Moderate | Retail Sales (YoY) (Jul) |  | 1.3% | 1.7% |
+| 07:00 | EUR | Moderate | German Factory Orders (MoM) (Jul) |  | 0.5% | -1.0% |
+| 07:00 | NOK | Low | Manufacturing Production (MoM) (Jul) |  |  | -0.1% |
+| 07:00 | ZAR | Low | Foreign Reserves (USD) (Aug) |  |  | 69.16B |
+| 07:00 | ZAR | Low | Net FX Reserves (USD) (Aug) |  |  | 65.143B |
+| 07:45 | EUR | Low | French Current Account (Jul) |  |  | -3.40B |
+| 07:45 | EUR | Low | French Exports (Jul) |  |  | 50.6B |
+| 07:45 | EUR | Low | French Imports (Jul) |  |  | 58.3B |
+| 07:45 | EUR | Low | French Reserve Assets Total (Aug) |  |  | 303,040.0M |
+| 07:45 | EUR | Low | French Trade Balance (Jul) |  | -7.3B | -7.6B |
+| 08:00 | CHF | Low | Foreign Reserves (USD) (Aug) |  |  | 716,440.0B |
+| 08:00 | CHF | Moderate | SECO Consumer Climate (Aug) |  | -37 | -33 |
+| 08:00 | EUR | Low | French Car Registration (YoY) (Aug) |  |  | -7.7% |
+| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Jul) |  | 0.2% | 0.6% |
+| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Jul) |  |  | 1.0% |
+| 09:30 | HKD | Low | Foreign Reserves (USD) (Aug) |  |  | 425.40B |
+| 10:00 | GBP | Moderate | Mortgage Rate (GBP) (Aug) |  |  | 6.99% |
+| 10:00 | EUR | Low | Employment Change (YoY) (Q2) |  | 0.7% | 0.7% |
+| 10:00 | EUR | Low | Employment Change (QoQ) (Q2) |  | 0.1% | 0.2% |
+| 10:00 | EUR | Low | Employment Overall (Q2) |  | 169,860.6K | 169,794.4K |
+| 10:00 | EUR | Moderate | GDP (QoQ) (Q2) |  | 0.1% | 0.6% |
+| 12:30 | CAD | Low | Leading Index (MoM) (Aug) |  |  | 0.15% |
+| 12:30 | INR | Low | FX Reserves, USD |  |  | 690.72B |
+| 13:00 | BRL | Low | Brazilian PPI (MoM) (Jul) |  |  | -1.25% |
+| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Aug) |  | 3.7% | 3.9% |
+| 13:30 | USD | High | Average Hourly Earnings (MoM) (Aug) |  | 0.3% | 0.3% |
+| 13:30 | USD | Low | Average Weekly Hours (Aug) |  | 34.3 | 34.3 |
+| 13:30 | USD | Low | Government Payrolls (Aug) |  |  | -10.0K |
+| 13:30 | USD | Low | Manufacturing Payrolls (Aug) |  | -5K | -11K |
+| 13:30 | USD | High | Nonfarm Payrolls (Aug) |  | 75K | 73K |
+| 13:30 | USD | Moderate | Participation Rate (Aug) |  |  | 62.2% |
+| 13:30 | USD | Moderate | Private Nonfarm Payrolls (Aug) |  | 75K | 83K |
+| 13:30 | USD | Moderate | U6 Unemployment Rate (Aug) |  |  | 7.9% |
+| 13:30 | USD | High | Unemployment Rate (Aug) |  | 4.3% | 4.2% |
+| 13:30 | CAD | Low | Avg hourly wages Permanent employee (Aug) |  |  | 3.5% |
+| 13:30 | CAD | Moderate | Employment Change (Aug) |  | 9.3K | -40.8K |
+| 13:30 | CAD | Low | Full Employment Change (Aug) |  |  | -51.0K |
+| 13:30 | CAD | Low | Part Time Employment Change (Aug) |  |  | 10.3K |
+| 13:30 | CAD | Low | Participation Rate (Aug) |  |  | 65.2% |
+| 13:30 | CAD | Moderate | Unemployment Rate (Aug) |  | 7.0% | 6.9% |
+| 15:00 | CAD | Low | Ivey PMI n.s.a (Aug) |  |  | 54.6 |
+| 15:00 | CAD | Moderate | Ivey PMI (Aug) |  | 53.1 | 55.8 |
+| 15:00 | BRL | Low | Auto Production (MoM) (Aug) |  |  | 15.7% |
+| 15:00 | BRL | Low | Auto Sales (MoM) (Aug) |  |  | 14.2% |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 412 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 536 |
+| 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -31.4K |
+| 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 1.1K |
+| 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 26.2K |
+| 20:30 | USD | Low | CFTC Corn speculative net positions |  |  | -70.9K |
+| 20:30 | USD | Moderate | CFTC Crude Oil speculative net positions |  |  | 109.5K |
+| 20:30 | USD | Moderate | CFTC Gold speculative net positions |  |  | 214.3K |
+| 20:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions |  |  | 36.1K |
+| 20:30 | USD | Low | CFTC Natural Gas speculative net positions |  |  | -103.9K |
+| 20:30 | USD | Moderate | CFTC S&P 500 speculative net positions |  |  | -187.8K |
+| 20:30 | USD | Low | CFTC Silver speculative net positions |  |  | 46.5K |
+| 20:30 | USD | Low | CFTC Soybeans speculative net positions |  |  | 18.2K |
+| 20:30 | USD | Low | CFTC Wheat speculative net positions |  |  | -78.8K |
+| 20:30 | CAD | Low | CFTC CAD speculative net positions |  |  | -105.0K |
+| 20:30 | MXN | Low | CFTC MXN speculative net positions |  |  | 69.0K |
+| 20:30 | CHF | Low | CFTC CHF speculative net positions |  |  | -27.0K |
+| 20:30 | AUD | Moderate | CFTC AUD speculative net positions |  |  | -100.6K |
+| 20:30 | BRL | Moderate | CFTC BRL speculative net positions |  |  | 28.9K |
+| 20:30 | JPY | Moderate | CFTC JPY speculative net positions |  |  | 84.5K |
+| 20:30 | NZD | Low | CFTC NZD speculative net positions |  |  | -6.1K |
+| 20:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | 123.0K |
