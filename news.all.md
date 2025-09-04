@@ -5,9 +5,9 @@
 | 00:00 | KRW | Low | Current Account (Jul) | 10.78B |  | 14.27B |
 | 00:50 | JPY | Low | Foreign Bonds Buying | 1,419.8B |  | -167.2B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -785.7B |  | -496.2B |
-| 02:30 | AUD | Low | Exports (MoM) |  |  | 6.0% |
-| 02:30 | AUD | Low | Imports (MoM) |  |  | -3.1% |
-| 02:30 | AUD | Moderate | Trade Balance |  | 4.880B | 5.365B |
+| 02:30 | AUD | Low | Exports (MoM) | 3.3% |  | 6.3% |
+| 02:30 | AUD | Low | Imports (MoM) | -1.3% |  | -3.1% |
+| 02:30 | AUD | Moderate | Trade Balance | 7.310B | 4.880B | 5.366B |
 | 04:35 | JPY | Low | 30-Year JGB Auction |  |  | 3.089% |
 | 07:00 | NOK | Low | Current Account (Q2) |  |  | 286.5B |
 | 07:30 | CHF | Moderate | CPI (MoM) (Aug) |  | 0.0% | 0.0% |

@@ -5,8 +5,8 @@
 | 00:00 | KRW | Current Account (Jul) | 10.78B |  | 14.27B |
 | 00:50 | JPY | Foreign Bonds Buying | 1,419.8B |  | -167.2B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | -785.7B |  | -496.2B |
-| 02:30 | AUD | Exports (MoM) |  |  | 6.0% |
-| 02:30 | AUD | Imports (MoM) |  |  | -3.1% |
+| 02:30 | AUD | Exports (MoM) | 3.3% |  | 6.3% |
+| 02:30 | AUD | Imports (MoM) | -1.3% |  | -3.1% |
 | 04:35 | JPY | 30-Year JGB Auction |  |  | 3.089% |
 | 07:00 | NOK | Current Account (Q2) |  |  | 286.5B |
 | 07:30 | CHF | CPI (YoY) (Aug) |  | 0.2% | 0.2% |
