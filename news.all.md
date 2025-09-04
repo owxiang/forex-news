@@ -23,14 +23,13 @@
 | 09:30 | GBP | Moderate | S&P Global Construction PMI (Aug) | 45.5 | 45.2 | 44.3 |
 | 10:00 | EUR | Low | Spanish 3-Year Bonos Auction | 2.204% |  | 2.166% |
 | 10:00 | EUR | Low | Spanish 7-Year Obligacion Auction | 2.734% |  | 2.720% |
-| 10:00 | EUR | Low | Retail Sales (MoM) (Jul) | -0.5% | -0.3% | 0.6% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (Jul) | 2.2% | 2.4% | 3.5% |
-| 53 min | EUR | Low | Spanish Consumer Confidence (Jul) |  |  | 76.1 |
-| 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 139.8% |
-| 12:30 | USD | Low | Challenger Job Cuts (Aug) |  |  | 62.075K |
-| 13:00 | CAD | Low | Leading Index (MoM) (Aug) |  |  | 0.15% |
-| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Jun) |  | 0.00% | 0.90% |
-| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jun) |  | -4.60% | -7.10% |
+| 10:00 | EUR | Low | Retail Sales (MoM) (Jul) | -0.5% | -0.3% | 0.6% |
+| 24 min | USD | Low | Challenger Job Cuts (Aug) |  |  | 62.075K |
+| 24 min | USD | Low | Challenger Job Cuts (YoY) |  |  | 139.8% |
+| 54 min | CAD | Low | Leading Index (MoM) (Aug) |  |  | 0.15% |
+| 54 min | MXN | Low | Gross Fixed Investments (YoY) (Jun) |  | -4.60% | -7.10% |
+| 54 min | MXN | Low | Gross Fixed Investments (MoM) (Jun) |  | 0.00% | 0.90% |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Aug) |  | 73K | 104K |
 | 13:15 | CAD | Low | Reserve Assets Total (Aug) |  |  | 126.6B |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,960K | 1,954K |
