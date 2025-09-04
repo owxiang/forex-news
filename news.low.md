@@ -20,10 +20,10 @@
 | 09:00 | GBP | United Kingdom New Passenger Cars Registration (Aug) | 82,908.0 |  | 140,154.0 |
 | 10:00 | EUR | Spanish 3-Year Bonos Auction | 2.204% |  | 2.166% |
 | 10:00 | EUR | Spanish 7-Year Obligacion Auction | 2.734% |  | 2.720% |
-| 10:00 | EUR | Retail Sales (YoY) (Jul) | 2.2% | 2.4% | 3.5% |
 | 10:00 | EUR | Retail Sales (MoM) (Jul) | -0.5% | -0.3% | 0.6% |
-| 12:30 | USD | Challenger Job Cuts (Aug) | 85.979K |  | 62.075K |
+| 10:00 | EUR | Retail Sales (YoY) (Jul) | 2.2% | 2.4% | 3.5% |
 | 12:30 | USD | Challenger Job Cuts (YoY) | 13.3% |  | 139.8% |
+| 12:30 | USD | Challenger Job Cuts (Aug) | 85.979K |  | 62.075K |
 | 13:00 | MXN | Gross Fixed Investments (MoM) (Jun) | -1.40% | 0.00% | 0.90% |
 | 13:00 | MXN | Gross Fixed Investments (YoY) (Jun) | -6.40% | -4.60% | -7.10% |
 | 13:15 | CAD | Reserve Assets Total (Aug) | 127.9B |  | 126.6B |
