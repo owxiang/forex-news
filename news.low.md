@@ -20,8 +20,8 @@
 | 09:00 | GBP | United Kingdom New Passenger Cars Registration (Aug) | 82,908.0 |  | 140,154.0 |
 | 10:00 | EUR | Spanish 3-Year Bonos Auction | 2.204% |  | 2.166% |
 | 10:00 | EUR | Spanish 7-Year Obligacion Auction | 2.734% |  | 2.720% |
-| 10:00 | EUR | Retail Sales (YoY) (Jul) | 2.2% | 2.4% | 3.5% |
 | 10:00 | EUR | Retail Sales (MoM) (Jul) | -0.5% | -0.3% | 0.6% |
+| 10:00 | EUR | Retail Sales (YoY) (Jul) | 2.2% | 2.4% | 3.5% |
 | 12:30 | USD | Challenger Job Cuts (YoY) | 13.3% |  | 139.8% |
 | 12:30 | USD | Challenger Job Cuts (Aug) | 85.979K |  | 62.075K |
 | 13:00 | MXN | Gross Fixed Investments (MoM) (Jun) | -1.40% | 0.00% | 0.90% |
@@ -58,5 +58,5 @@
 | 17:15 | USD | OPEC Crude oil Production Saudi Arabia (Barrel) | 9.60M |  | 9.45M |
 | 17:15 | USD | OPEC Crude oil Production UAE (Barrel) | 3.25M |  | 3.14M |
 | 17:15 | USD | OPEC Crude oil Production Venezuela (Barrel) | 0.85M |  | 0.82M |
-| 54 min | BRL | Trade Balance (Aug) |  |  | 7.08B |
+| 19:00 | BRL | Trade Balance (Jul) | 6.13B |  | 5.71B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.217T |
