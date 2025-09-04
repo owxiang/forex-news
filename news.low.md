@@ -20,8 +20,8 @@
 | 09:00 | GBP | United Kingdom New Passenger Cars Registration (Aug) | 82,908.0 |  | 140,154.0 |
 | 10:00 | EUR | Spanish 3-Year Bonos Auction | 2.204% |  | 2.166% |
 | 10:00 | EUR | Spanish 7-Year Obligacion Auction | 2.734% |  | 2.720% |
-| 10:00 | EUR | Retail Sales (MoM) (Jul) | -0.5% | -0.3% | 0.6% |
 | 10:00 | EUR | Retail Sales (YoY) (Jul) | 2.2% | 2.4% | 3.5% |
+| 10:00 | EUR | Retail Sales (MoM) (Jul) | -0.5% | -0.3% | 0.6% |
 | 12:30 | USD | Challenger Job Cuts (Aug) | 85.979K |  | 62.075K |
 | 12:30 | USD | Challenger Job Cuts (YoY) | 13.3% |  | 139.8% |
 | 13:00 | MXN | Gross Fixed Investments (YoY) (Jun) | -6.40% | -4.60% | -7.10% |
@@ -34,18 +34,18 @@
 | 15:00 | USD | All Truck Sales (Aug) | 13.40M |  | 13.93M |
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Aug) | 55.0 |  | 52.6 |
 | 15:00 | USD | ISM Non-Manufacturing New Orders (Aug) | 56.0 |  | 50.3 |
-| 23 min | USD | Natural Gas Storage |  | 54B | 18B |
-| 16:30 | USD | 4-Week Bill Auction |  |  | 4.245% |
-| 16:30 | USD | 8-Week Bill Auction |  |  | 4.145% |
-| 16:30 | CAD | Leading Index (MoM) (Aug) |  |  | 0.15% |
-| 16:30 | CAD | Services PMI (MoM) (Aug) |  |  | 49.30% |
-| 17:00 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.328M |
-| 17:00 | USD | Crude Oil Imports |  |  | 0.299M |
-| 17:00 | USD | Distillate Fuel Production |  |  | -0.113M |
-| 17:00 | USD | EIA Weekly Distillates Stocks |  | -0.300M | -1.786M |
-| 17:00 | USD | Gasoline Production |  |  | 0.427M |
-| 17:00 | USD | Heating Oil Stockpiles |  |  | 0.102M |
-| 17:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -2.0% |
-| 17:00 | USD | Gasoline Inventories |  | -1.000M | -1.236M |
+| 15:30 | USD | Natural Gas Storage | 55B | 54B | 18B |
+| 23 min | USD | 4-Week Bill Auction |  |  | 4.245% |
+| 23 min | USD | 8-Week Bill Auction |  |  | 4.145% |
+| 23 min | CAD | Leading Index (MoM) (Aug) |  |  | 0.15% |
+| 23 min | CAD | Services PMI (MoM) (Aug) |  |  | 49.30% |
+| 53 min | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.328M |
+| 53 min | USD | Crude Oil Imports |  |  | 0.299M |
+| 53 min | USD | Distillate Fuel Production |  |  | -0.113M |
+| 53 min | USD | EIA Weekly Distillates Stocks |  | -0.300M | -1.786M |
+| 53 min | USD | Gasoline Production |  |  | 0.427M |
+| 53 min | USD | Heating Oil Stockpiles |  |  | 0.102M |
+| 53 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -2.0% |
+| 53 min | USD | Gasoline Inventories |  | -1.000M | -1.236M |
 | 19:00 | BRL | Trade Balance (Aug) |  |  | 7.08B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.217T |

@@ -14,7 +14,7 @@
 | 13:30 | CAD | Trade Balance (Jul) | -4.94B | -5.20B | -5.98B |
 | 14:45 | USD | S&P Global Composite PMI (Aug) | 54.6 | 55.4 | 55.1 |
 | 15:00 | USD | ISM Non-Manufacturing Employment (Aug) | 46.5 | 46.7 | 46.4 |
-| 17:00 | USD | Cushing Crude Oil Inventories |  |  | -0.838M |
-| 17:05 | USD | FOMC Member Williams Speaks |  |  |  |
+| 53 min | USD | Cushing Crude Oil Inventories |  |  | -0.838M |
+| 58 min | USD | FOMC Member Williams Speaks |  |  |  |
 | 18:00 | USD | Atlanta Fed GDPNow (Q3) |  | 3.0% | 3.0% |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,603B |
