@@ -7,22 +7,21 @@
 | 00:30 | JPY | Overtime Pay (YoY) (Jul) | 3.30% |  | 0.50% |
 | 00:50 | JPY | Foreign Reserves (USD) (Aug) | 1,324.2B |  | 1,304.4B |
 | 06:00 | JPY | Coincident Indicator (MoM) (Jul) | -2.6% |  | 0.3% |
-| 06:00 | JPY | Leading Index (Jul) | 105.9 | 105.8 | 105.6 |
 | 06:00 | JPY | Leading Index (MoM) (Jul) | 0.8% |  | 0.8% |
-| 06:00 | SGD | Retail Sales (MoM) (Jul) | 4.1% |  | -1.1% |
+| 06:00 | JPY | Leading Index (Jul) | 105.9 | 105.8 | 105.6 |
 | 06:00 | SGD | Retail Sales (YoY) (Jul) | 4.8% |  | 2.4% |
+| 06:00 | SGD | Retail Sales (MoM) (Jul) | 4.1% |  | -1.1% |
 | 07:00 | NOK | Manufacturing Production (MoM) (Jul) | 0.0% |  | -0.1% |
 | 07:00 | ZAR | Foreign Reserves (USD) (Aug) | 70.42B |  | 69.16B |
 | 07:00 | ZAR | Net FX Reserves (USD) (Aug) | 65.899B |  | 65.143B |
-| 35 min | EUR | French Current Account (Jul) |  |  | -3.40B |
-| 35 min | EUR | French Exports (Jul) |  |  | 50.6B |
-| 35 min | EUR | French Imports (Jul) |  |  | 58.3B |
-| 35 min | EUR | French Reserve Assets Total (Aug) |  |  | 303,040.0M |
-| 35 min | EUR | French Trade Balance (Jul) |  | -7.3B | -7.6B |
-| 50 min | CHF | Foreign Reserves (USD) (Aug) |  |  | 716.4B |
-| 50 min | EUR | French Car Registration (YoY) (Aug) |  |  | -7.7% |
-| 09:00 | EUR | Italian Retail Sales (MoM) (Jul) |  | 0.2% | 0.6% |
-| 09:00 | EUR | Italian Retail Sales (YoY) (Jul) |  |  | 1.0% |
+| 07:45 | EUR | French Current Account (Jul) | -2.50B |  | -2.30B |
+| 07:45 | EUR | French Exports (Jul) | 52.1B |  | 50.8B |
+| 07:45 | EUR | French Imports (Jul) | 57.7B |  | 58.0B |
+| 07:45 | EUR | French Reserve Assets Total (Aug) | 304,802.0M |  | 303,040.0M |
+| 07:45 | EUR | French Trade Balance (Jul) | -5.6B | -7.3B | -7.2B |
+| 08:00 | CHF | Foreign Reserves (USD) (Aug) | 715.1B |  | 716.5B |
+| 53 min | EUR | Italian Retail Sales (YoY) (Jul) |  |  | 1.0% |
+| 53 min | EUR | Italian Retail Sales (MoM) (Jul) |  | 0.2% | 0.6% |
 | 09:30 | HKD | Foreign Reserves (USD) (Aug) |  |  | 425.40B |
 | 10:00 | EUR | Employment Change (YoY) (Q2) |  | 0.7% | 0.7% |
 | 10:00 | EUR | Employment Change (QoQ) (Q2) |  | 0.1% | 0.2% |
