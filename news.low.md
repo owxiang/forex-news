@@ -26,16 +26,17 @@
 | 10:00 | EUR | Employment Change (YoY) (Q2) | 0.6% | 0.7% | 0.7% |
 | 10:00 | EUR | Employment Change (QoQ) (Q2) | 0.1% | 0.1% | 0.2% |
 | 10:00 | EUR | Employment Overall (Q2) | 169,778.7K | 169,860.6K | 169,794.4K |
-| 24 min | CAD | Leading Index (MoM) (Aug) |  |  | 0.15% |
-| 24 min | INR | FX Reserves, USD |  |  | 690.72B |
-| 54 min | BRL | Brazilian PPI (MoM) (Jul) |  |  | -1.25% |
-| 13:30 | USD | Average Weekly Hours (Aug) |  | 34.3 | 34.3 |
-| 13:30 | USD | Government Payrolls (Aug) |  |  | -10.0K |
-| 13:30 | USD | Manufacturing Payrolls (Aug) |  | -5K | -11K |
-| 13:30 | CAD | Avg hourly wages Permanent employee (Aug) |  |  | 3.5% |
-| 13:30 | CAD | Full Employment Change (Aug) |  |  | -51.0K |
-| 13:30 | CAD | Part Time Employment Change (Aug) |  |  | 10.3K |
-| 13:30 | CAD | Participation Rate (Aug) |  |  | 65.2% |
+| 12:30 | INR | Bank Loan Growth | 10.0% |  | 10.2% |
+| 12:30 | INR | Deposit Growth | 10.2% |  | 10.1% |
+| 12:30 | INR | FX Reserves, USD | 694.23B |  | 690.72B |
+| 13:00 | BRL | Brazilian PPI (MoM) (Jul) | -0.30% |  | -1.27% |
+| 19 min | USD | Average Weekly Hours (Aug) |  | 34.3 | 34.3 |
+| 19 min | USD | Government Payrolls (Aug) |  |  | -10.0K |
+| 19 min | USD | Manufacturing Payrolls (Aug) |  | -5K | -11K |
+| 19 min | CAD | Avg hourly wages Permanent employee (Aug) |  |  | 3.5% |
+| 19 min | CAD | Full Employment Change (Aug) |  |  | -51.0K |
+| 19 min | CAD | Part Time Employment Change (Aug) |  |  | 10.3K |
+| 19 min | CAD | Participation Rate (Aug) |  |  | 65.2% |
 | 15:00 | CAD | Ivey PMI n.s.a (Aug) |  |  | 54.6 |
 | 15:00 | BRL | Auto Production (MoM) (Aug) |  |  | 15.7% |
 | 15:00 | BRL | Auto Sales (MoM) (Aug) |  |  | 14.2% |

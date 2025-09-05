@@ -39,25 +39,26 @@
 | 10:00 | EUR | Low | Employment Overall (Q2) | 169,778.7K | 169,860.6K | 169,794.4K |
 | 10:00 | EUR | Moderate | GDP (YoY) (Q2) | 1.5% | 1.4% | 1.5% |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q2) | 0.1% | 0.1% | 0.6% |
-| 24 min | CAD | Low | Leading Index (MoM) (Aug) |  |  | 0.15% |
-| 24 min | INR | Low | FX Reserves, USD |  |  | 690.72B |
-| 54 min | BRL | Low | Brazilian PPI (MoM) (Jul) |  |  | -1.25% |
-| 13:30 | USD | High | Average Hourly Earnings (MoM) (Aug) |  | 0.3% | 0.3% |
-| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Aug) |  | 3.7% | 3.9% |
-| 13:30 | USD | Low | Average Weekly Hours (Aug) |  | 34.3 | 34.3 |
-| 13:30 | USD | Low | Government Payrolls (Aug) |  |  | -10.0K |
-| 13:30 | USD | Low | Manufacturing Payrolls (Aug) |  | -5K | -11K |
-| 13:30 | USD | High | Nonfarm Payrolls (Aug) |  | 75K | 73K |
-| 13:30 | USD | Moderate | Participation Rate (Aug) |  |  | 62.2% |
-| 13:30 | USD | Moderate | Private Nonfarm Payrolls (Aug) |  | 75K | 83K |
-| 13:30 | USD | Moderate | U6 Unemployment Rate (Aug) |  |  | 7.9% |
-| 13:30 | USD | High | Unemployment Rate (Aug) |  | 4.3% | 4.2% |
-| 13:30 | CAD | Low | Avg hourly wages Permanent employee (Aug) |  |  | 3.5% |
-| 13:30 | CAD | Moderate | Employment Change (Aug) |  | 4.9K | -40.8K |
-| 13:30 | CAD | Low | Full Employment Change (Aug) |  |  | -51.0K |
-| 13:30 | CAD | Low | Part Time Employment Change (Aug) |  |  | 10.3K |
-| 13:30 | CAD | Low | Participation Rate (Aug) |  |  | 65.2% |
-| 13:30 | CAD | Moderate | Unemployment Rate (Aug) |  | 7.0% | 6.9% |
+| 12:30 | INR | Low | Bank Loan Growth | 10.0% |  | 10.2% |
+| 12:30 | INR | Low | Deposit Growth | 10.2% |  | 10.1% |
+| 12:30 | INR | Low | FX Reserves, USD | 694.23B |  | 690.72B |
+| 13:00 | BRL | Low | Brazilian PPI (MoM) (Jul) | -0.30% |  | -1.27% |
+| 19 min | USD | High | Average Hourly Earnings (MoM) (Aug) |  | 0.3% | 0.3% |
+| 19 min | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Aug) |  | 3.7% | 3.9% |
+| 19 min | USD | Low | Average Weekly Hours (Aug) |  | 34.3 | 34.3 |
+| 19 min | USD | Low | Government Payrolls (Aug) |  |  | -10.0K |
+| 19 min | USD | Low | Manufacturing Payrolls (Aug) |  | -5K | -11K |
+| 19 min | USD | High | Nonfarm Payrolls (Aug) |  | 75K | 73K |
+| 19 min | USD | Moderate | Participation Rate (Aug) |  |  | 62.2% |
+| 19 min | USD | Moderate | Private Nonfarm Payrolls (Aug) |  | 75K | 83K |
+| 19 min | USD | Moderate | U6 Unemployment Rate (Aug) |  |  | 7.9% |
+| 19 min | USD | High | Unemployment Rate (Aug) |  | 4.3% | 4.2% |
+| 19 min | CAD | Low | Avg hourly wages Permanent employee (Aug) |  |  | 3.5% |
+| 19 min | CAD | Moderate | Employment Change (Aug) |  | 4.9K | -40.8K |
+| 19 min | CAD | Low | Full Employment Change (Aug) |  |  | -51.0K |
+| 19 min | CAD | Low | Part Time Employment Change (Aug) |  |  | 10.3K |
+| 19 min | CAD | Low | Participation Rate (Aug) |  |  | 65.2% |
+| 19 min | CAD | Moderate | Unemployment Rate (Aug) |  | 7.0% | 6.9% |
 | 15:00 | CAD | Low | Ivey PMI n.s.a (Aug) |  |  | 54.6 |
 | 15:00 | CAD | Moderate | Ivey PMI (Aug) |  | 53.1 | 55.8 |
 | 15:00 | BRL | Low | Auto Production (MoM) (Aug) |  |  | 15.7% |

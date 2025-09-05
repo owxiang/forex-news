@@ -15,12 +15,12 @@
 | 09:30 | GBP | Mortgage Rate (GBP) (Aug) | 6.86% |  | 6.95% |
 | 10:00 | EUR | GDP (YoY) (Q2) | 1.5% | 1.4% | 1.5% |
 | 10:00 | EUR | GDP (QoQ) (Q2) | 0.1% | 0.1% | 0.6% |
-| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Aug) |  | 3.7% | 3.9% |
-| 13:30 | USD | Participation Rate (Aug) |  |  | 62.2% |
-| 13:30 | USD | Private Nonfarm Payrolls (Aug) |  | 75K | 83K |
-| 13:30 | USD | U6 Unemployment Rate (Aug) |  |  | 7.9% |
-| 13:30 | CAD | Employment Change (Aug) |  | 4.9K | -40.8K |
-| 13:30 | CAD | Unemployment Rate (Aug) |  | 7.0% | 6.9% |
+| 19 min | USD | Average Hourly Earnings (YoY) (YoY) (Aug) |  | 3.7% | 3.9% |
+| 19 min | USD | Participation Rate (Aug) |  |  | 62.2% |
+| 19 min | USD | Private Nonfarm Payrolls (Aug) |  | 75K | 83K |
+| 19 min | USD | U6 Unemployment Rate (Aug) |  |  | 7.9% |
+| 19 min | CAD | Employment Change (Aug) |  | 4.9K | -40.8K |
+| 19 min | CAD | Unemployment Rate (Aug) |  | 7.0% | 6.9% |
 | 15:00 | CAD | Ivey PMI (Aug) |  | 53.1 | 55.8 |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  | 411 | 412 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 536 |
