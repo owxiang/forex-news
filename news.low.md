@@ -20,8 +20,8 @@
 | 07:45 | EUR | French Reserve Assets Total (Aug) | 304,802.0M |  | 303,040.0M |
 | 07:45 | EUR | French Trade Balance (Jul) | -5.6B | -7.3B | -7.2B |
 | 08:00 | CHF | Foreign Reserves (USD) (Aug) | 715.1B |  | 716.5B |
-| 09:00 | EUR | Italian Retail Sales (MoM) (Jul) | 0.0% | 0.2% | 0.7% |
 | 09:00 | EUR | Italian Retail Sales (YoY) (Jul) | 1.8% |  | 1.1% |
+| 09:00 | EUR | Italian Retail Sales (MoM) (Jul) | 0.0% | 0.2% | 0.7% |
 | 09:30 | HKD | Foreign Reserves (USD) (Aug) | 421.60B |  | 425.40B |
 | 10:00 | EUR | Employment Change (YoY) (Q2) | 0.6% | 0.7% | 0.7% |
 | 10:00 | EUR | Employment Change (QoQ) (Q2) | 0.1% | 0.1% | 0.2% |
