@@ -12,9 +12,9 @@
 | 07:00 | GBP | Retail Sales (MoM) (Jul) | 0.6% | 0.3% | 0.3% |
 | 07:00 | EUR | German Factory Orders (MoM) (Jul) | -2.9% | 0.5% | -0.2% |
 | 08:00 | CHF | SECO Consumer Climate (Aug) | -40 | -37 | -33 |
-| 51 min | GBP | Mortgage Rate (GBP) (Aug) |  |  | 6.99% |
-| 51 min | EUR | GDP (YoY) (Q2) |  | 1.4% | 1.5% |
-| 51 min | EUR | GDP (QoQ) (Q2) |  | 0.1% | 0.1% |
+| 09:30 | GBP | Mortgage Rate (GBP) (Aug) | 6.86% |  | 6.95% |
+| 10:00 | EUR | GDP (YoY) (Q2) | 1.5% | 1.4% | 1.5% |
+| 10:00 | EUR | GDP (QoQ) (Q2) | 0.1% | 0.1% | 0.6% |
 | 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Aug) |  | 3.7% | 3.9% |
 | 13:30 | USD | Participation Rate (Aug) |  |  | 62.2% |
 | 13:30 | USD | Private Nonfarm Payrolls (Aug) |  | 75K | 83K |

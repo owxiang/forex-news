@@ -22,10 +22,10 @@
 | 08:00 | CHF | Foreign Reserves (USD) (Aug) | 715.1B |  | 716.5B |
 | 09:00 | EUR | Italian Retail Sales (MoM) (Jul) | 0.0% | 0.2% | 0.7% |
 | 09:00 | EUR | Italian Retail Sales (YoY) (Jul) | 1.8% |  | 1.1% |
-| 21 min | HKD | Foreign Reserves (USD) (Aug) |  |  | 425.40B |
-| 51 min | EUR | Employment Change (YoY) (Q2) |  | 0.7% | 0.7% |
-| 51 min | EUR | Employment Change (QoQ) (Q2) |  | 0.1% | 0.1% |
-| 51 min | EUR | Employment Overall (Q2) |  | 169,860.6K | 169,794.4K |
+| 09:30 | HKD | Foreign Reserves (USD) (Aug) | 421.60B |  | 425.40B |
+| 10:00 | EUR | Employment Change (YoY) (Q2) | 0.6% | 0.7% | 0.7% |
+| 10:00 | EUR | Employment Change (QoQ) (Q2) | 0.1% | 0.1% | 0.2% |
+| 10:00 | EUR | Employment Overall (Q2) |  | 169,860.6K | 169,794.4K |
 | 12:30 | CAD | Leading Index (MoM) (Aug) |  |  | 0.15% |
 | 12:30 | INR | FX Reserves, USD |  |  | 690.72B |
 | 13:00 | BRL | Brazilian PPI (MoM) (Jul) |  |  | -1.25% |

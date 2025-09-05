@@ -32,13 +32,13 @@
 | 08:00 | CHF | Moderate | SECO Consumer Climate (Aug) | -40 | -37 | -33 |
 | 09:00 | EUR | Low | Italian Retail Sales (MoM) (Jul) | 0.0% | 0.2% | 0.7% |
 | 09:00 | EUR | Low | Italian Retail Sales (YoY) (Jul) | 1.8% |  | 1.1% |
-| 21 min | HKD | Low | Foreign Reserves (USD) (Aug) |  |  | 425.40B |
-| 51 min | GBP | Moderate | Mortgage Rate (GBP) (Aug) |  |  | 6.99% |
-| 51 min | EUR | Low | Employment Change (YoY) (Q2) |  | 0.7% | 0.7% |
-| 51 min | EUR | Low | Employment Change (QoQ) (Q2) |  | 0.1% | 0.1% |
-| 51 min | EUR | Low | Employment Overall (Q2) |  | 169,860.6K | 169,794.4K |
-| 51 min | EUR | Moderate | GDP (YoY) (Q2) |  | 1.4% | 1.5% |
-| 51 min | EUR | Moderate | GDP (QoQ) (Q2) |  | 0.1% | 0.1% |
+| 09:30 | GBP | Moderate | Mortgage Rate (GBP) (Aug) | 6.86% |  | 6.95% |
+| 09:30 | HKD | Low | Foreign Reserves (USD) (Aug) | 421.60B |  | 425.40B |
+| 10:00 | EUR | Low | Employment Change (YoY) (Q2) | 0.6% | 0.7% | 0.7% |
+| 10:00 | EUR | Low | Employment Change (QoQ) (Q2) | 0.1% | 0.1% | 0.2% |
+| 10:00 | EUR | Low | Employment Overall (Q2) |  | 169,860.6K | 169,794.4K |
+| 10:00 | EUR | Moderate | GDP (YoY) (Q2) | 1.5% | 1.4% | 1.5% |
+| 10:00 | EUR | Moderate | GDP (QoQ) (Q2) | 0.1% | 0.1% | 0.6% |
 | 12:30 | CAD | Low | Leading Index (MoM) (Aug) |  |  | 0.15% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 690.72B |
 | 13:00 | BRL | Low | Brazilian PPI (MoM) (Jul) |  |  | -1.25% |
