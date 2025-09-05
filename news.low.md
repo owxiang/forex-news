@@ -38,14 +38,14 @@
 | 13:30 | CAD | Part Time Employment Change (Aug) | -59.7K |  | 10.3K |
 | 13:30 | CAD | Participation Rate (Aug) | 65.1% |  | 65.2% |
 | 15:00 | CAD | Ivey PMI n.s.a (Aug) | 50.0 |  | 54.6 |
-| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.1K |
-| 20:30 | USD | CFTC Copper speculative net positions |  |  | 26.2K |
-| 20:30 | USD | CFTC Corn speculative net positions |  |  | -70.9K |
-| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -103.9K |
-| 20:30 | USD | CFTC Silver speculative net positions |  |  | 46.5K |
-| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 18.2K |
-| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -78.8K |
-| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -105.0K |
-| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 69.0K |
-| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -27.0K |
-| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -6.1K |
+| 24 min | USD | CFTC Aluminium speculative net positions |  |  | 1.1K |
+| 24 min | USD | CFTC Copper speculative net positions |  |  | 26.2K |
+| 24 min | USD | CFTC Corn speculative net positions |  |  | -70.9K |
+| 24 min | USD | CFTC Natural Gas speculative net positions |  |  | -103.9K |
+| 24 min | USD | CFTC Silver speculative net positions |  |  | 46.5K |
+| 24 min | USD | CFTC Soybeans speculative net positions |  |  | 18.2K |
+| 24 min | USD | CFTC Wheat speculative net positions |  |  | -78.8K |
+| 24 min | CAD | CFTC CAD speculative net positions |  |  | -105.0K |
+| 24 min | MXN | CFTC MXN speculative net positions |  |  | 69.0K |
+| 24 min | CHF | CFTC CHF speculative net positions |  |  | -27.0K |
+| 24 min | NZD | CFTC NZD speculative net positions |  |  | -6.1K |

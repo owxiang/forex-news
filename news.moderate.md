@@ -24,12 +24,12 @@
 | 15:00 | CAD | Ivey PMI (Aug) | 50.1 | 53.1 | 55.8 |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 414 | 411 | 412 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count | 537 |  | 536 |
-| 20:30 | GBP | CFTC GBP speculative net positions |  |  | -31.4K |
-| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 109.5K |
-| 20:30 | USD | CFTC Gold speculative net positions |  |  | 214.3K |
-| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 36.1K |
-| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -187.8K |
-| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -100.6K |
-| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 28.9K |
-| 20:30 | JPY | CFTC JPY speculative net positions |  |  | 84.5K |
-| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 123.0K |
+| 24 min | GBP | CFTC GBP speculative net positions |  |  | -31.4K |
+| 24 min | USD | CFTC Crude Oil speculative net positions |  |  | 109.5K |
+| 24 min | USD | CFTC Gold speculative net positions |  |  | 214.3K |
+| 24 min | USD | CFTC Nasdaq 100 speculative net positions |  |  | 36.1K |
+| 24 min | USD | CFTC S&P 500 speculative net positions |  |  | -187.8K |
+| 24 min | AUD | CFTC AUD speculative net positions |  |  | -100.6K |
+| 24 min | BRL | CFTC BRL speculative net positions |  |  | 28.9K |
+| 24 min | JPY | CFTC JPY speculative net positions |  |  | 84.5K |
+| 24 min | EUR | CFTC EUR speculative net positions |  |  | 123.0K |
