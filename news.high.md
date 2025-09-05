@@ -2,6 +2,6 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 19 min | USD | Average Hourly Earnings (MoM) (Aug) |  | 0.3% | 0.3% |
-| 19 min | USD | Nonfarm Payrolls (Aug) |  | 75K | 73K |
-| 19 min | USD | Unemployment Rate (Aug) |  | 4.3% | 4.2% |
+| 13:30 | USD | Average Hourly Earnings (MoM) (Aug) | 0.3% | 0.3% | 0.3% |
+| 13:30 | USD | Nonfarm Payrolls (Aug) | 22K | 75K | 79K |
+| 13:30 | USD | Unemployment Rate (Aug) | 4.3% | 4.3% | 4.2% |

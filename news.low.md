@@ -9,8 +9,8 @@
 | 06:00 | JPY | Coincident Indicator (MoM) (Jul) | -2.6% |  | 0.3% |
 | 06:00 | JPY | Leading Index (MoM) (Jul) | 0.8% |  | 0.8% |
 | 06:00 | JPY | Leading Index (Jul) | 105.9 | 105.8 | 105.6 |
-| 06:00 | SGD | Retail Sales (YoY) (Jul) | 4.8% |  | 2.4% |
 | 06:00 | SGD | Retail Sales (MoM) (Jul) | 4.1% |  | -1.1% |
+| 06:00 | SGD | Retail Sales (YoY) (Jul) | 4.8% |  | 2.4% |
 | 07:00 | NOK | Manufacturing Production (MoM) (Jul) | 0.0% |  | -0.1% |
 | 07:00 | ZAR | Foreign Reserves (USD) (Aug) | 70.42B |  | 69.16B |
 | 07:00 | ZAR | Net FX Reserves (USD) (Aug) | 65.899B |  | 65.143B |
@@ -30,16 +30,16 @@
 | 12:30 | INR | Deposit Growth | 10.2% |  | 10.1% |
 | 12:30 | INR | FX Reserves, USD | 694.23B |  | 690.72B |
 | 13:00 | BRL | Brazilian PPI (MoM) (Jul) | -0.30% |  | -1.27% |
-| 19 min | USD | Average Weekly Hours (Aug) |  | 34.3 | 34.3 |
-| 19 min | USD | Government Payrolls (Aug) |  |  | -10.0K |
-| 19 min | USD | Manufacturing Payrolls (Aug) |  | -5K | -11K |
-| 19 min | CAD | Avg hourly wages Permanent employee (Aug) |  |  | 3.5% |
-| 19 min | CAD | Full Employment Change (Aug) |  |  | -51.0K |
-| 19 min | CAD | Part Time Employment Change (Aug) |  |  | 10.3K |
-| 19 min | CAD | Participation Rate (Aug) |  |  | 65.2% |
-| 15:00 | CAD | Ivey PMI n.s.a (Aug) |  |  | 54.6 |
-| 15:00 | BRL | Auto Production (MoM) (Aug) |  |  | 15.7% |
-| 15:00 | BRL | Auto Sales (MoM) (Aug) |  |  | 14.2% |
+| 13:30 | USD | Average Weekly Hours (Aug) | 34.2 | 34.3 | 34.2 |
+| 13:30 | USD | Government Payrolls (Aug) | -16.0K |  | 2.0K |
+| 13:30 | USD | Manufacturing Payrolls (Aug) | -12K | -5K | -2K |
+| 13:30 | CAD | Avg hourly wages Permanent employee (Aug) | 3.6% |  | 3.5% |
+| 13:30 | CAD | Full Employment Change (Aug) | -6.0K |  | -51.0K |
+| 13:30 | CAD | Part Time Employment Change (Aug) | -59.7K |  | 10.3K |
+| 13:30 | CAD | Participation Rate (Aug) | 65.1% |  | 65.2% |
+| 47 min | CAD | Ivey PMI n.s.a (Aug) |  |  | 54.6 |
+| 47 min | BRL | Auto Production (MoM) (Aug) |  |  | 15.7% |
+| 47 min | BRL | Auto Sales (MoM) (Aug) |  |  | 14.2% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.1K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 26.2K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -70.9K |
