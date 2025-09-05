@@ -9,8 +9,8 @@
 | 06:00 | JPY | Coincident Indicator (MoM) (Jul) | -2.6% |  | 0.3% |
 | 06:00 | JPY | Leading Index (MoM) (Jul) | 0.8% |  | 0.8% |
 | 06:00 | JPY | Leading Index (Jul) | 105.9 | 105.8 | 105.6 |
-| 06:00 | SGD | Retail Sales (YoY) (Jul) | 4.8% |  | 2.4% |
 | 06:00 | SGD | Retail Sales (MoM) (Jul) | 4.1% |  | -1.1% |
+| 06:00 | SGD | Retail Sales (YoY) (Jul) | 4.8% |  | 2.4% |
 | 07:00 | NOK | Manufacturing Production (MoM) (Jul) | 0.0% |  | -0.1% |
 | 07:00 | ZAR | Foreign Reserves (USD) (Aug) | 70.42B |  | 69.16B |
 | 07:00 | ZAR | Net FX Reserves (USD) (Aug) | 65.899B |  | 65.143B |
@@ -20,12 +20,12 @@
 | 07:45 | EUR | French Reserve Assets Total (Aug) | 304,802.0M |  | 303,040.0M |
 | 07:45 | EUR | French Trade Balance (Jul) | -5.6B | -7.3B | -7.2B |
 | 08:00 | CHF | Foreign Reserves (USD) (Aug) | 715.1B |  | 716.5B |
-| 09:00 | EUR | Italian Retail Sales (MoM) (Jul) | 0.0% | 0.2% | 0.7% |
 | 09:00 | EUR | Italian Retail Sales (YoY) (Jul) | 1.8% |  | 1.1% |
+| 09:00 | EUR | Italian Retail Sales (MoM) (Jul) | 0.0% | 0.2% | 0.7% |
 | 09:30 | HKD | Foreign Reserves (USD) (Aug) | 421.60B |  | 425.40B |
 | 10:00 | EUR | Employment Change (YoY) (Q2) | 0.6% | 0.7% | 0.7% |
 | 10:00 | EUR | Employment Change (QoQ) (Q2) | 0.1% | 0.1% | 0.2% |
-| 10:00 | EUR | Employment Overall (Q2) |  | 169,860.6K | 169,794.4K |
+| 10:00 | EUR | Employment Overall (Q2) | 169,778.7K | 169,860.6K | 169,794.4K |
 | 12:30 | CAD | Leading Index (MoM) (Aug) |  |  | 0.15% |
 | 12:30 | INR | FX Reserves, USD |  |  | 690.72B |
 | 13:00 | BRL | Brazilian PPI (MoM) (Jul) |  |  | -1.25% |
