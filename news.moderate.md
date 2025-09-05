@@ -2,12 +2,12 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | JPY | Household Spending (YoY) (Jul) | 1.4% | 2.2% | 1.3% |
 | 00:30 | JPY | Household Spending (MoM) (Jul) | 1.7% | 1.3% | -5.2% |
-| 07:00 | GBP | Core Retail Sales (MoM) (Jul) | 0.5% | 0.4% | 0.6% |
+| 00:30 | JPY | Household Spending (YoY) (Jul) | 1.4% | 2.2% | 1.3% |
 | 07:00 | GBP | Core Retail Sales (YoY) (Jul) | 1.3% | 1.2% | 1.3% |
-| 07:00 | GBP | Halifax House Price Index (MoM) (Aug) | 0.3% | 0.2% | 0.4% |
+| 07:00 | GBP | Core Retail Sales (MoM) (Jul) | 0.5% | 0.4% | 0.6% |
 | 07:00 | GBP | Halifax House Price Index (YoY) (Aug) | 2.2% | 2.0% | 2.5% |
+| 07:00 | GBP | Halifax House Price Index (MoM) (Aug) | 0.3% | 0.2% | 0.4% |
 | 07:00 | GBP | Retail Sales (YoY) (Jul) | 1.1% | 1.3% | 0.9% |
 | 07:00 | GBP | Retail Sales (MoM) (Jul) | 0.6% | 0.3% | 0.3% |
 | 07:00 | EUR | German Factory Orders (MoM) (Jul) | -2.9% | 0.5% | -0.2% |
@@ -22,8 +22,8 @@
 | 13:30 | CAD | Employment Change (Aug) | -65.5K | 4.9K | -40.8K |
 | 13:30 | CAD | Unemployment Rate (Aug) | 7.1% | 7.0% | 6.9% |
 | 15:00 | CAD | Ivey PMI (Aug) | 50.1 | 53.1 | 55.8 |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  | 411 | 412 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 536 |
+| 53 min | USD | U.S. Baker Hughes Oil Rig Count |  | 411 | 412 |
+| 53 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 536 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -31.4K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 109.5K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 214.3K |

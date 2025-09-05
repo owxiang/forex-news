@@ -3,20 +3,20 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 00:30 | JPY | Moderate | Household Spending (YoY) (Jul) | 1.4% | 2.2% | 1.3% |
 | 00:30 | JPY | Moderate | Household Spending (MoM) (Jul) | 1.7% | 1.3% | -5.2% |
+| 00:30 | JPY | Moderate | Household Spending (YoY) (Jul) | 1.4% | 2.2% | 1.3% |
 | 00:30 | JPY | Low | Overall wage income of employees (Jul) | 4.1% | 3.0% | 3.1% |
 | 00:30 | JPY | Low | Overtime Pay (YoY) (Jul) | 3.30% |  | 0.50% |
 | 00:50 | JPY | Low | Foreign Reserves (USD) (Aug) | 1,324.2B |  | 1,304.4B |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Jul) | -2.6% |  | 0.3% |
 | 06:00 | JPY | Low | Leading Index (MoM) (Jul) | 0.8% |  | 0.8% |
 | 06:00 | JPY | Low | Leading Index (Jul) | 105.9 | 105.8 | 105.6 |
-| 06:00 | SGD | Low | Retail Sales (MoM) (Jul) | 4.1% |  | -1.1% |
 | 06:00 | SGD | Low | Retail Sales (YoY) (Jul) | 4.8% |  | 2.4% |
-| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Jul) | 0.5% | 0.4% | 0.6% |
+| 06:00 | SGD | Low | Retail Sales (MoM) (Jul) | 4.1% |  | -1.1% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Jul) | 1.3% | 1.2% | 1.3% |
-| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Aug) | 0.3% | 0.2% | 0.4% |
+| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Jul) | 0.5% | 0.4% | 0.6% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Aug) | 2.2% | 2.0% | 2.5% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Aug) | 0.3% | 0.2% | 0.4% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Jul) | 1.1% | 1.3% | 0.9% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Jul) | 0.6% | 0.3% | 0.3% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Jul) | -2.9% | 0.5% | -0.2% |
@@ -61,8 +61,8 @@
 | 13:30 | CAD | Moderate | Unemployment Rate (Aug) | 7.1% | 7.0% | 6.9% |
 | 15:00 | CAD | Low | Ivey PMI n.s.a (Aug) | 50.0 |  | 54.6 |
 | 15:00 | CAD | Moderate | Ivey PMI (Aug) | 50.1 | 53.1 | 55.8 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  | 411 | 412 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 536 |
+| 53 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  | 411 | 412 |
+| 53 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 536 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -31.4K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 1.1K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 26.2K |

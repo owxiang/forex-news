@@ -9,8 +9,8 @@
 | 06:00 | JPY | Coincident Indicator (MoM) (Jul) | -2.6% |  | 0.3% |
 | 06:00 | JPY | Leading Index (MoM) (Jul) | 0.8% |  | 0.8% |
 | 06:00 | JPY | Leading Index (Jul) | 105.9 | 105.8 | 105.6 |
-| 06:00 | SGD | Retail Sales (MoM) (Jul) | 4.1% |  | -1.1% |
 | 06:00 | SGD | Retail Sales (YoY) (Jul) | 4.8% |  | 2.4% |
+| 06:00 | SGD | Retail Sales (MoM) (Jul) | 4.1% |  | -1.1% |
 | 07:00 | NOK | Manufacturing Production (MoM) (Jul) | 0.0% |  | -0.1% |
 | 07:00 | ZAR | Foreign Reserves (USD) (Aug) | 70.42B |  | 69.16B |
 | 07:00 | ZAR | Net FX Reserves (USD) (Aug) | 65.899B |  | 65.143B |
