@@ -3,12 +3,12 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | USD | Fed Goolsbee Speaks |  |  |  |
-| 23 min | JPY | Overall wage income of employees (Jul) |  | 3.0% | 2.5% |
-| 23 min | JPY | Overtime Pay (YoY) (Jul) |  |  | 0.90% |
-| 43 min | JPY | Foreign Reserves (USD) (Aug) |  |  | 1,304.4B |
+| 00:30 | JPY | Overall wage income of employees (Jul) | 4.1% | 3.0% | 3.1% |
+| 00:30 | JPY | Overtime Pay (YoY) (Jul) | 3.30% |  | 0.50% |
+| 00:50 | JPY | Foreign Reserves (USD) (Aug) | 1,324.2B |  | 1,304.4B |
 | 06:00 | JPY | Coincident Indicator (MoM) (Jul) |  |  | 0.7% |
-| 06:00 | JPY | Leading Index (Jul) |  | 105.8 | 105.6 |
 | 06:00 | JPY | Leading Index (MoM) (Jul) |  |  | 0.8% |
+| 06:00 | JPY | Leading Index (Jul) |  | 105.8 | 105.6 |
 | 06:00 | SGD | Retail Sales (YoY) (Jul) |  |  | 2.3% |
 | 06:00 | SGD | Retail Sales (MoM) (Jul) |  |  | -1.2% |
 | 07:00 | NOK | Manufacturing Production (MoM) (Jul) |  |  | -0.1% |
@@ -21,8 +21,8 @@
 | 07:45 | EUR | French Trade Balance (Jul) |  | -7.3B | -7.6B |
 | 08:00 | CHF | Foreign Reserves (USD) (Aug) |  |  | 716,440.0B |
 | 08:00 | EUR | French Car Registration (YoY) (Aug) |  |  | -7.7% |
-| 09:00 | EUR | Italian Retail Sales (MoM) (Jul) |  | 0.2% | 0.6% |
 | 09:00 | EUR | Italian Retail Sales (YoY) (Jul) |  |  | 1.0% |
+| 09:00 | EUR | Italian Retail Sales (MoM) (Jul) |  | 0.2% | 0.6% |
 | 09:30 | HKD | Foreign Reserves (USD) (Aug) |  |  | 425.40B |
 | 10:00 | EUR | Employment Change (YoY) (Q2) |  | 0.7% | 0.7% |
 | 10:00 | EUR | Employment Change (QoQ) (Q2) |  | 0.1% | 0.2% |
