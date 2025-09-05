@@ -6,20 +6,20 @@
 | 00:30 | JPY | Overall wage income of employees (Jul) | 4.1% | 3.0% | 3.1% |
 | 00:30 | JPY | Overtime Pay (YoY) (Jul) | 3.30% |  | 0.50% |
 | 00:50 | JPY | Foreign Reserves (USD) (Aug) | 1,324.2B |  | 1,304.4B |
-| 52 min | JPY | Coincident Indicator (MoM) (Jul) |  |  | 0.7% |
-| 52 min | JPY | Leading Index (MoM) (Jul) |  |  | 0.8% |
-| 52 min | JPY | Leading Index (Jul) |  | 105.8 | 105.6 |
-| 52 min | SGD | Retail Sales (YoY) (Jul) |  |  | 2.3% |
-| 52 min | SGD | Retail Sales (MoM) (Jul) |  |  | -1.2% |
-| 07:00 | NOK | Manufacturing Production (MoM) (Jul) |  |  | -0.1% |
-| 07:00 | ZAR | Foreign Reserves (USD) (Aug) |  |  | 69.16B |
-| 07:00 | ZAR | Net FX Reserves (USD) (Aug) |  |  | 65.143B |
+| 06:00 | JPY | Coincident Indicator (MoM) (Jul) | -2.6% |  | 0.3% |
+| 06:00 | JPY | Leading Index (MoM) (Jul) | 0.8% |  | 0.8% |
+| 06:00 | JPY | Leading Index (Jul) | 105.9 | 105.8 | 105.6 |
+| 06:00 | SGD | Retail Sales (YoY) (Jul) | 4.8% |  | 2.4% |
+| 06:00 | SGD | Retail Sales (MoM) (Jul) | 4.1% |  | -1.1% |
+| 53 min | NOK | Manufacturing Production (MoM) (Jul) |  |  | -0.1% |
+| 53 min | ZAR | Foreign Reserves (USD) (Aug) |  |  | 69.16B |
+| 53 min | ZAR | Net FX Reserves (USD) (Aug) |  |  | 65.143B |
 | 07:45 | EUR | French Current Account (Jul) |  |  | -3.40B |
 | 07:45 | EUR | French Exports (Jul) |  |  | 50.6B |
 | 07:45 | EUR | French Imports (Jul) |  |  | 58.3B |
 | 07:45 | EUR | French Reserve Assets Total (Aug) |  |  | 303,040.0M |
 | 07:45 | EUR | French Trade Balance (Jul) |  | -7.3B | -7.6B |
-| 08:00 | CHF | Foreign Reserves (USD) (Aug) |  |  | 716,440.0B |
+| 08:00 | CHF | Foreign Reserves (USD) (Aug) |  |  | 716.4B |
 | 08:00 | EUR | French Car Registration (YoY) (Aug) |  |  | -7.7% |
 | 09:00 | EUR | Italian Retail Sales (YoY) (Jul) |  |  | 1.0% |
 | 09:00 | EUR | Italian Retail Sales (MoM) (Jul) |  | 0.2% | 0.6% |
@@ -28,7 +28,6 @@
 | 10:00 | EUR | Employment Change (QoQ) (Q2) |  | 0.1% | 0.2% |
 | 10:00 | EUR | Employment Overall (Q2) |  | 169,860.6K | 169,794.4K |
 | 12:30 | CAD | Leading Index (MoM) (Aug) |  |  | 0.15% |
-| 12:30 | INR | Deposit Growth |  |  | 10.1% |
 | 12:30 | INR | FX Reserves, USD |  |  | 690.72B |
 | 13:00 | BRL | Brazilian PPI (MoM) (Jul) |  |  | -1.25% |
 | 13:30 | USD | Average Weekly Hours (Aug) |  | 34.3 | 34.3 |

@@ -4,21 +4,22 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | Household Spending (MoM) (Jul) | 1.7% | 1.3% | -5.2% |
 | 00:30 | JPY | Household Spending (YoY) (Jul) | 1.4% | 2.2% | 1.3% |
-| 07:00 | GBP | Core Retail Sales (YoY) (Jul) |  | 1.2% | 1.8% |
-| 07:00 | GBP | Core Retail Sales (MoM) (Jul) |  | 0.4% | 0.6% |
-| 07:00 | GBP | Halifax House Price Index (YoY) (Aug) |  | 2.0% | 2.4% |
-| 07:00 | GBP | Halifax House Price Index (MoM) (Aug) |  | 0.2% | 0.4% |
-| 07:00 | GBP | Retail Sales (YoY) (Jul) |  | 1.3% | 1.7% |
-| 07:00 | GBP | Retail Sales (MoM) (Jul) |  | 0.3% | 0.9% |
-| 07:00 | EUR | German Factory Orders (MoM) (Jul) |  | 0.5% | -1.0% |
+| 53 min | GBP | Core Retail Sales (YoY) (Jul) |  | 1.2% | 1.8% |
+| 53 min | GBP | Core Retail Sales (MoM) (Jul) |  | 0.4% | 0.6% |
+| 53 min | GBP | Halifax House Price Index (YoY) (Aug) |  | 2.0% | 2.4% |
+| 53 min | GBP | Halifax House Price Index (MoM) (Aug) |  | 0.2% | 0.4% |
+| 53 min | GBP | Retail Sales (YoY) (Jul) |  | 1.3% | 1.7% |
+| 53 min | GBP | Retail Sales (MoM) (Jul) |  | 0.3% | 0.9% |
+| 53 min | EUR | German Factory Orders (MoM) (Jul) |  | 0.5% | -1.0% |
 | 08:00 | CHF | SECO Consumer Climate (Aug) |  | -37 | -33 |
 | 10:00 | GBP | Mortgage Rate (GBP) (Aug) |  |  | 6.99% |
+| 10:00 | EUR | GDP (YoY) (Q2) |  | 1.4% | 1.5% |
 | 10:00 | EUR | GDP (QoQ) (Q2) |  | 0.1% | 0.6% |
 | 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Aug) |  | 3.7% | 3.9% |
 | 13:30 | USD | Participation Rate (Aug) |  |  | 62.2% |
 | 13:30 | USD | Private Nonfarm Payrolls (Aug) |  | 75K | 83K |
 | 13:30 | USD | U6 Unemployment Rate (Aug) |  |  | 7.9% |
-| 13:30 | CAD | Employment Change (Aug) |  | 9.3K | -40.8K |
+| 13:30 | CAD | Employment Change (Aug) |  | 4.9K | -40.8K |
 | 13:30 | CAD | Unemployment Rate (Aug) |  | 7.0% | 6.9% |
 | 15:00 | CAD | Ivey PMI (Aug) |  | 53.1 | 55.8 |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 412 |
