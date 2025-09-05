@@ -8,8 +8,8 @@
 | 07:00 | GBP | Core Retail Sales (MoM) (Jul) |  | 0.4% | 0.6% |
 | 07:00 | GBP | Halifax House Price Index (YoY) (Aug) |  | 2.0% | 2.4% |
 | 07:00 | GBP | Halifax House Price Index (MoM) (Aug) |  | 0.2% | 0.4% |
-| 07:00 | GBP | Retail Sales (YoY) (Jul) |  | 1.3% | 1.7% |
 | 07:00 | GBP | Retail Sales (MoM) (Jul) |  | 0.3% | 0.9% |
+| 07:00 | GBP | Retail Sales (YoY) (Jul) |  | 1.3% | 1.7% |
 | 07:00 | EUR | German Factory Orders (MoM) (Jul) |  | 0.5% | -1.0% |
 | 08:00 | CHF | SECO Consumer Climate (Aug) |  | -37 | -33 |
 | 10:00 | GBP | Mortgage Rate (GBP) (Aug) |  |  | 6.99% |
