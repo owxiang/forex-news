@@ -8,13 +8,13 @@
 | 07:00 | GBP | Core Retail Sales (MoM) (Jul) | 0.5% | 0.4% | 0.6% |
 | 07:00 | GBP | Halifax House Price Index (YoY) (Aug) | 2.2% | 2.0% | 2.5% |
 | 07:00 | GBP | Halifax House Price Index (MoM) (Aug) | 0.3% | 0.2% | 0.4% |
-| 07:00 | GBP | Retail Sales (MoM) (Jul) | 0.6% | 0.3% | 0.3% |
 | 07:00 | GBP | Retail Sales (YoY) (Jul) | 1.1% | 1.3% | 0.9% |
+| 07:00 | GBP | Retail Sales (MoM) (Jul) | 0.6% | 0.3% | 0.3% |
 | 07:00 | EUR | German Factory Orders (MoM) (Jul) | -2.9% | 0.5% | -0.2% |
 | 08:00 | CHF | SECO Consumer Climate (Aug) | -40 | -37 | -33 |
-| 10:00 | GBP | Mortgage Rate (GBP) (Aug) |  |  | 6.99% |
-| 10:00 | EUR | GDP (YoY) (Q2) |  | 1.4% | 1.5% |
-| 10:00 | EUR | GDP (QoQ) (Q2) |  | 0.1% | 0.6% |
+| 51 min | GBP | Mortgage Rate (GBP) (Aug) |  |  | 6.99% |
+| 51 min | EUR | GDP (YoY) (Q2) |  | 1.4% | 1.5% |
+| 51 min | EUR | GDP (QoQ) (Q2) |  | 0.1% | 0.1% |
 | 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Aug) |  | 3.7% | 3.9% |
 | 13:30 | USD | Participation Rate (Aug) |  |  | 62.2% |
 | 13:30 | USD | Private Nonfarm Payrolls (Aug) |  | 75K | 83K |
