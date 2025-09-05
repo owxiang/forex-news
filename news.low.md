@@ -7,8 +7,8 @@
 | 00:30 | JPY | Overtime Pay (YoY) (Jul) | 3.30% |  | 0.50% |
 | 00:50 | JPY | Foreign Reserves (USD) (Aug) | 1,324.2B |  | 1,304.4B |
 | 06:00 | JPY | Coincident Indicator (MoM) (Jul) | -2.6% |  | 0.3% |
-| 06:00 | JPY | Leading Index (MoM) (Jul) | 0.8% |  | 0.8% |
 | 06:00 | JPY | Leading Index (Jul) | 105.9 | 105.8 | 105.6 |
+| 06:00 | JPY | Leading Index (MoM) (Jul) | 0.8% |  | 0.8% |
 | 06:00 | SGD | Retail Sales (MoM) (Jul) | 4.1% |  | -1.1% |
 | 06:00 | SGD | Retail Sales (YoY) (Jul) | 4.8% |  | 2.4% |
 | 07:00 | NOK | Manufacturing Production (MoM) (Jul) | 0.0% |  | -0.1% |
@@ -20,8 +20,8 @@
 | 07:45 | EUR | French Reserve Assets Total (Aug) | 304,802.0M |  | 303,040.0M |
 | 07:45 | EUR | French Trade Balance (Jul) | -5.6B | -7.3B | -7.2B |
 | 08:00 | CHF | Foreign Reserves (USD) (Aug) | 715.1B |  | 716.5B |
-| 09:00 | EUR | Italian Retail Sales (MoM) (Jul) | 0.0% | 0.2% | 0.7% |
 | 09:00 | EUR | Italian Retail Sales (YoY) (Jul) | 1.8% |  | 1.1% |
+| 09:00 | EUR | Italian Retail Sales (MoM) (Jul) | 0.0% | 0.2% | 0.7% |
 | 09:30 | HKD | Foreign Reserves (USD) (Aug) | 421.60B |  | 425.40B |
 | 10:00 | EUR | Employment Change (YoY) (Q2) | 0.6% | 0.7% | 0.7% |
 | 10:00 | EUR | Employment Change (QoQ) (Q2) | 0.1% | 0.1% | 0.2% |
@@ -37,9 +37,7 @@
 | 13:30 | CAD | Full Employment Change (Aug) | -6.0K |  | -51.0K |
 | 13:30 | CAD | Part Time Employment Change (Aug) | -59.7K |  | 10.3K |
 | 13:30 | CAD | Participation Rate (Aug) | 65.1% |  | 65.2% |
-| 47 min | CAD | Ivey PMI n.s.a (Aug) |  |  | 54.6 |
-| 47 min | BRL | Auto Production (MoM) (Aug) |  |  | 15.7% |
-| 47 min | BRL | Auto Sales (MoM) (Aug) |  |  | 14.2% |
+| 15:00 | CAD | Ivey PMI n.s.a (Aug) | 50.0 |  | 54.6 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.1K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 26.2K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -70.9K |
