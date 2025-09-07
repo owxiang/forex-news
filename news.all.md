@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 15:53 | CNY | Low | FX Reserves (USD) (Aug) |  |  | 3.292T |
+| 03:04 | CNY | Low | FX Reserves (USD) (Aug) | 3.322T |  | 3.292T |
