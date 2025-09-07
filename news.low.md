@@ -1,5 +1,29 @@
-## 07 September 2025 - Low Impact Forex News
+## 08 September 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:04 | CNY | FX Reserves (USD) (Aug) | 3.322T |  | 3.292T |
+| 45 min | JPY | Bank Lending (YoY) (Aug) |  | 3.2% | 3.2% |
+| 44 min | JPY | GDP Capital Expenditure (QoQ) (Q2) |  | 1.3% | 1.3% |
+| 44 min | JPY | GDP External Demand (QoQ) (Q2) |  | 0.3% | 0.3% |
+| 44 min | JPY | GDP Private Consumption (QoQ) (Q2) |  | 0.2% | 0.2% |
+| 02:30 | AUD | Private House Approvals (Jul) |  | 1.1% | -2.0% |
+| 04:00 | IDR | FX Reserves (USD) (Aug) |  |  | 152.00B |
+| 06:00 | JPY | Economy Watchers Current Index (Aug) |  | 45.6 | 45.2 |
+| 07:00 | EUR | German Exports (MoM) (Jul) |  |  | 0.8% |
+| 07:00 | EUR | German Imports (MoM) (Jul) |  |  | 4.2% |
+| 07:00 | EUR | German Industrial Production (YoY) (Jul) |  |  | -3.53% |
+| 09:30 | EUR | Sentix Investor Confidence (Sep) |  | -2.2 | -3.7 |
+| 10:00 | SGD | Foreign Reserves USD (MoM) (Aug) |  |  | 397.3B |
+| 12:00 | EUR | Spanish Consumer Confidence (Jul) |  |  | 76.1 |
+| 12:00 | BRL | IGP-DI Inflation Index (MoM) (Aug) |  |  | -0.07% |
+| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.020% |
+| 14:00 | EUR | French 3-Month BTF Auction |  |  | 1.984% |
+| 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.009% |
+| 15:00 | USD | CB Employment Trends Index (Aug) |  |  | 107.55 |
+| 15:53 | CNY | Imports (Aug) |  |  | 4.80M |
+| 15:53 | CNY | Exports (Aug) |  |  | 8.00M |
+| 15:53 | CNY | Trade Balance (Aug) |  | 750.00B | 705.10B |
+| 16:30 | USD | 3-Month Bill Auction |  |  | 4.045% |
+| 16:30 | USD | 6-Month Bill Auction |  |  | 3.880% |
+| 23:45 | NZD | Manufacturing Sales Volume (QoQ) (Q2) |  |  | 2.4% |
