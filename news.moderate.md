@@ -12,4 +12,4 @@
 | 04:45 | CNY | Imports (YoY) (Aug) | 1.3% | 3.0% | 4.1% |
 | 07:00 | EUR | German Industrial Production (MoM) (Jul) | 1.3% | 1.1% | -0.1% |
 | 07:00 | EUR | German Trade Balance (Jul) | 14.7B | 15.7B | 15.4B |
-| 51 min | USD | Consumer Credit (Jul) |  | 10.40B | 7.37B |
+| 20:00 | USD | Consumer Credit (Jul) | 16.01B | 10.40B | 9.61B |
