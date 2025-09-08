@@ -21,10 +21,10 @@
 | 11:00 | EUR | Spanish Consumer Confidence (Jul) | 82.9 |  | 76.1 |
 | 12:00 | BRL | IGP-DI Inflation Index (MoM) (Aug) | 0.20% |  | -0.07% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 48 min | EUR | French 12-Month BTF Auction |  |  | 2.020% |
-| 48 min | EUR | French 3-Month BTF Auction |  |  | 1.984% |
-| 48 min | EUR | French 6-Month BTF Auction |  |  | 2.009% |
-| 15:00 | USD | CB Employment Trends Index (Aug) |  |  | 107.55 |
+| 14:00 | EUR | French 12-Month BTF Auction | 1.997% |  | 2.020% |
+| 14:00 | EUR | French 3-Month BTF Auction | 1.989% |  | 1.984% |
+| 14:00 | EUR | French 6-Month BTF Auction | 2.006% |  | 2.009% |
+| 46 min | USD | CB Employment Trends Index (Aug) |  |  | 107.55 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.045% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 3.880% |
 | 23:45 | NZD | Manufacturing Sales Volume (QoQ) (Q2) |  |  | 2.4% |

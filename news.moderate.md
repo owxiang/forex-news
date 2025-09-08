@@ -9,7 +9,7 @@
 | 02:30 | AUD | Building Approvals (MoM) (Jul) | -8.2% | -8.2% | 12.2% |
 | 04:45 | CNY | Exports (YoY) (Aug) | 4.4% | 5.0% | 7.2% |
 | 04:45 | CNY | Imports (YoY) (Aug) | 1.3% | 3.0% | 4.1% |
-| 04:45 | CNY | Trade Balance (USD) (Aug) | 102.33B | 99.40B | 98.24B |
 | 07:00 | EUR | German Industrial Production (MoM) (Jul) | 1.3% | 1.1% | -0.1% |
 | 07:00 | EUR | German Trade Balance (Jul) | 14.7B | 15.7B | 15.4B |
+| 14:08 | CNY | Trade Balance (USD) (Aug) | 102.33B | 99.40B | 98.24B |
 | 20:00 | USD | Consumer Credit (Jul) |  | 10.40B | 7.37B |

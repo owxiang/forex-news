@@ -19,7 +19,6 @@
 | 04:45 | CNY | Low | Trade Balance (Aug) | 732.70B | 750.00B | 705.10B |
 | 04:45 | CNY | Moderate | Exports (YoY) (Aug) | 4.4% | 5.0% | 7.2% |
 | 04:45 | CNY | Moderate | Imports (YoY) (Aug) | 1.3% | 3.0% | 4.1% |
-| 04:45 | CNY | Moderate | Trade Balance (USD) (Aug) | 102.33B | 99.40B | 98.24B |
 | 06:00 | JPY | Low | Economy Watchers Current Index (Jul) | 46.7 | 45.6 | 45.2 |
 | 07:00 | EUR | Low | German Exports (MoM) (Jul) | -0.6% |  | 1.1% |
 | 07:00 | EUR | Low | German Imports (MoM) (Jul) | -0.1% |  | 4.1% |
@@ -32,10 +31,11 @@
 | 11:00 | EUR | Low | Spanish Consumer Confidence (Jul) | 82.9 |  | 76.1 |
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Aug) | 0.20% |  | -0.07% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 48 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.020% |
-| 48 min | EUR | Low | French 3-Month BTF Auction |  |  | 1.984% |
-| 48 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.009% |
-| 15:00 | USD | Low | CB Employment Trends Index (Aug) |  |  | 107.55 |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 1.997% |  | 2.020% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 1.989% |  | 1.984% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.006% |  | 2.009% |
+| 14:08 | CNY | Moderate | Trade Balance (USD) (Aug) | 102.33B | 99.40B | 98.24B |
+| 46 min | USD | Low | CB Employment Trends Index (Aug) |  |  | 107.55 |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.045% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.880% |
 | 20:00 | USD | Moderate | Consumer Credit (Jul) |  | 10.40B | 7.37B |
