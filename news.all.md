@@ -35,7 +35,7 @@
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 1.989% |  | 1.984% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.006% |  | 2.009% |
 | 14:08 | CNY | Moderate | Trade Balance (USD) (Aug) | 102.33B | 99.40B | 98.24B |
-| 46 min | USD | Low | CB Employment Trends Index (Aug) |  |  | 107.55 |
+| 15:00 | USD | Low | CB Employment Trends Index (Aug) | 106.41 |  | 107.13 |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.045% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.880% |
 | 20:00 | USD | Moderate | Consumer Credit (Jul) |  | 10.40B | 7.37B |
