@@ -2,30 +2,30 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:50 | JPY | Moderate | Adjusted Current Account (Jul) | 188.28T | 2.60T | 239.79T |
+| 00:50 | JPY | Moderate | Adjusted Current Account (Jul) | 1.88T | 2.60T | 2.40T |
 | 00:50 | JPY | Low | Bank Lending (YoY) (Aug) | 3.6% | 3.2% | 3.2% |
 | 00:50 | JPY | Moderate | Current Account n.s.a. (Jul) | 2.684T | 3.366T | 1.348T |
-| 00:50 | JPY | High | GDP (QoQ) (Q2) | 0.5% | 0.3% | 0.3% |
-| 00:50 | JPY | Moderate | GDP Annualized (QoQ) (Q2) | 2.2% | 1.0% | 1.0% |
+| 00:50 | JPY | High | GDP (QoQ) (Q2) | 0.5% | 0.3% | 0.0% |
+| 00:50 | JPY | Moderate | GDP Annualized (QoQ) (Q2) | 2.2% | 1.0% | -0.2% |
 | 00:50 | JPY | Low | GDP Capital Expenditure (QoQ) (Q2) | 0.6% | 1.3% | 0.7% |
-| 00:50 | JPY | Low | GDP External Demand (QoQ) (Q2) | 0.3% | 0.3% | 0.3% |
-| 00:50 | JPY | Moderate | GDP Price Index (YoY) (Q2) | 3.0% | 3.0% | 3.0% |
+| 00:50 | JPY | Low | GDP External Demand (QoQ) (Q2) | 0.3% | 0.3% | -0.8% |
+| 00:50 | JPY | Moderate | GDP Price Index (YoY) (Q2) | 3.0% | 3.0% | 3.3% |
 | 00:50 | JPY | Low | GDP Private Consumption (QoQ) (Q2) | 0.4% | 0.2% | 0.0% |
 | 02:30 | AUD | Moderate | Building Approvals (MoM) (Jul) | -8.2% | -8.2% | 12.2% |
 | 02:30 | AUD | Low | Private House Approvals (Jul) | 1.1% | 1.1% | -2.0% |
 | 04:00 | IDR | Low | FX Reserves (USD) (Aug) | 150.70B |  | 152.00B |
-| 04:42 | CNY | Moderate | Exports (YoY) (Aug) | 4.4% | 5.0% | 7.2% |
-| 04:42 | CNY | Moderate | Imports (YoY) (Aug) | 1.3% | 3.0% | 4.1% |
-| 04:42 | CNY | Moderate | Trade Balance (USD) (Aug) | 102.33B | 99.40B | 98.24B |
-| 04:46 | CNY | Low | Exports (Aug) | 4.80M |  | 8.00M |
-| 04:46 | CNY | Low | Imports (Aug) | 1.70M |  | 4.80M |
-| 04:47 | CNY | Low | Trade Balance (Aug) | 732.70B | 750.00B | 705.10B |
-| 52 min | JPY | Low | Economy Watchers Current Index (Aug) |  | 45.6 | 45.2 |
-| 07:00 | EUR | Low | German Exports (MoM) (Jul) |  |  | 0.8% |
-| 07:00 | EUR | Low | German Imports (MoM) (Jul) |  |  | 4.2% |
-| 07:00 | EUR | Moderate | German Industrial Production (MoM) (Jul) |  | 1.1% | -1.9% |
-| 07:00 | EUR | Moderate | German Trade Balance (Jul) |  | 15.7B | 14.9B |
-| 07:00 | EUR | Low | German Industrial Production (YoY) (Jul) |  |  | -3.53% |
+| 04:45 | CNY | Low | Exports (Aug) | 4.80M |  | 8.00M |
+| 04:45 | CNY | Low | Imports (Aug) | 1.70M |  | 4.80M |
+| 04:45 | CNY | Low | Trade Balance (Aug) | 732.70B | 750.00B | 705.10B |
+| 04:45 | CNY | Moderate | Exports (YoY) (Aug) | 4.4% | 5.0% | 7.2% |
+| 04:45 | CNY | Moderate | Imports (YoY) (Aug) | 1.3% | 3.0% | 4.1% |
+| 04:45 | CNY | Moderate | Trade Balance (USD) (Aug) | 102.33B | 99.40B | 98.24B |
+| 06:00 | JPY | Low | Economy Watchers Current Index (Jul) | 45.2 | 45.6 | 45.2 |
+| 53 min | EUR | Low | German Exports (MoM) (Jul) |  |  | 0.8% |
+| 53 min | EUR | Low | German Imports (MoM) (Jul) |  |  | 4.2% |
+| 53 min | EUR | Moderate | German Industrial Production (MoM) (Jul) |  | 1.1% | -1.9% |
+| 53 min | EUR | Moderate | German Trade Balance (Jul) |  | 15.7B | 14.9B |
+| 53 min | EUR | Low | German Industrial Production (YoY) (Jul) |  |  | -3.53% |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Sep) |  | -2.2 | -3.7 |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Aug) |  |  | 397.3B |
 | 12:00 | EUR | Low | Spanish Consumer Confidence (Jul) |  |  | 76.1 |
