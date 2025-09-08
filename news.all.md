@@ -13,7 +13,7 @@
 | 00:50 | JPY | Low | GDP Private Consumption (QoQ) (Q2) | 0.4% | 0.2% | 0.0% |
 | 02:30 | AUD | Moderate | Building Approvals (MoM) (Jul) | -8.2% | -8.2% | 12.2% |
 | 02:30 | AUD | Low | Private House Approvals (Jul) | 1.1% | 1.1% | -2.0% |
-| 04:00 | IDR | Low | FX Reserves (USD) (Aug) |  |  | 152.00B |
+| 24 min | IDR | Low | FX Reserves (USD) (Aug) |  |  | 152.00B |
 | 06:00 | JPY | Low | Economy Watchers Current Index (Aug) |  | 45.6 | 45.2 |
 | 07:00 | EUR | Low | German Exports (MoM) (Jul) |  |  | 0.8% |
 | 07:00 | EUR | Low | German Imports (MoM) (Jul) |  |  | 4.2% |
