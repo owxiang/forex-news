@@ -31,10 +31,10 @@
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Aug) | 391.3B |  | 397.3B |
 | 11:00 | EUR | Low | Spanish Consumer Confidence (Jul) | 82.9 |  | 76.1 |
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Aug) | 0.20% |  | -0.07% |
-| 19 min | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.020% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 1.984% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.009% |
+| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 48 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.020% |
+| 48 min | EUR | Low | French 3-Month BTF Auction |  |  | 1.984% |
+| 48 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.009% |
 | 15:00 | USD | Low | CB Employment Trends Index (Aug) |  |  | 107.55 |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.045% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.880% |
