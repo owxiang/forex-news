@@ -1,30 +1,28 @@
-## 08 September 2025 - Low Impact Forex News
+## 09 September 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Bank Lending (YoY) (Aug) | 3.6% | 3.2% | 3.2% |
-| 00:50 | JPY | GDP Capital Expenditure (QoQ) (Q2) | 0.6% | 1.3% | 0.7% |
-| 00:50 | JPY | GDP External Demand (QoQ) (Q2) | 0.3% | 0.3% | -0.8% |
-| 00:50 | JPY | GDP Private Consumption (QoQ) (Q2) | 0.4% | 0.2% | 0.0% |
-| 02:30 | AUD | Private House Approvals (Jul) | 1.1% | 1.1% | -2.0% |
-| 04:00 | IDR | FX Reserves (USD) (Aug) | 150.70B |  | 152.00B |
-| 04:45 | CNY | Exports (Aug) | 4.80M |  | 8.00M |
-| 04:45 | CNY | Imports (Aug) | 1.70M |  | 4.80M |
-| 04:45 | CNY | Trade Balance (Aug) | 732.70B | 750.00B | 705.10B |
-| 06:00 | JPY | Economy Watchers Current Index (Jul) | 46.7 | 45.6 | 45.2 |
-| 07:00 | EUR | German Exports (MoM) (Jul) | -0.6% |  | 1.1% |
-| 07:00 | EUR | German Imports (MoM) (Jul) | -0.1% |  | 4.1% |
-| 07:00 | EUR | German Industrial Production (YoY) (Jul) | 1.53% |  | -1.82% |
-| 09:00 | IDR | Motorbike Sales (YoY) (Aug) | 0.70% |  | -2.00% |
-| 09:30 | EUR | Sentix Investor Confidence (Sep) | -9.2 | -2.2 | -3.7 |
-| 10:00 | SGD | Foreign Reserves USD (MoM) (Aug) | 391.3B |  | 397.3B |
-| 11:00 | EUR | Spanish Consumer Confidence (Jul) | 82.9 |  | 76.1 |
-| 12:00 | BRL | IGP-DI Inflation Index (MoM) (Aug) | 0.20% |  | -0.07% |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 14:00 | EUR | French 12-Month BTF Auction | 1.997% |  | 2.020% |
-| 14:00 | EUR | French 3-Month BTF Auction | 1.989% |  | 1.984% |
-| 14:00 | EUR | French 6-Month BTF Auction | 2.006% |  | 2.009% |
-| 15:00 | USD | CB Employment Trends Index (Aug) | 106.41 |  | 107.13 |
-| 16:30 | USD | 3-Month Bill Auction | 3.940% |  | 4.045% |
-| 16:30 | USD | 6-Month Bill Auction | 3.730% |  | 3.880% |
-| 38 min | NZD | Manufacturing Sales Volume (QoQ) (Q2) |  |  | 2.4% |
+| 23 min | AUD | Westpac Consumer Sentiment (Sep) |  |  | 5.7% |
+| 43 min | JPY | M2 Money Stock (YoY) |  | 1.1% | 1.0% |
+| 43 min | JPY | M3 Money Supply (Aug) |  |  | 2,211.9B |
+| 01:30 | AUD | Westpac Consumer Sentiment |  |  | 5.7% |
+| 02:30 | AUD | NAB Business Survey (Aug) |  |  | 5 |
+| 07:00 | JPY | Machine Tool Orders (YoY) (Aug) |  | 3.6% | -0.5% |
+| 07:00 | IDR | Car Sales (YoY) (Aug) |  |  | -18.40% |
+| 07:00 | NOK | PPI (YoY) (Aug) |  |  | -0.3% |
+| 07:45 | EUR | French Industrial Production (MoM) (Jul) |  | -1.4% | 3.8% |
+| 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 1.929% |
+| 10:30 | ZAR | GDP (YoY) (Q2) |  |  | 0.8% |
+| 11:00 | USD | NFIB Small Business Optimism (Aug) |  | 100.4 | 100.3 |
+| 12:50 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
+| 13:00 | MXN | Core CPI (MoM) (Aug) |  | 0.20% | 0.31% |
+| 13:00 | MXN | Month Core Inflation (MoM) (Aug) |  | 4.21% | 4.23% |
+| 13:00 | MXN | PPI (YoY) (Aug) |  |  | 3.80% |
+| 13:00 | MXN | PPI (MoM) (Aug) |  |  | -0.50% |
+| 13:55 | USD | Redbook (YoY) |  |  | 6.5% |
+| 14:00 | BRL | Auto Production (MoM) (Aug) |  |  | 15.7% |
+| 14:00 | BRL | Auto Sales (MoM) (Aug) |  |  | 14.2% |
+| 16:15 | GBP | BoE Breeden Speaks |  |  |  |
+| 23:45 | NZD | External Migration & Visitors (Jul) |  |  | 0.80% |
+| 23:45 | NZD | Permanent/Long-Term Migration (Jul) |  |  | 1,670 |
+| 23:45 | NZD | Visitor Arrivals (MoM) |  |  | -2.5% |

@@ -1,42 +1,39 @@
-## 08 September 2025 - All Forex News
+## 09 September 2025 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:50 | JPY | Moderate | Adjusted Current Account (Jul) | 1.88T | 2.60T | 2.40T |
-| 00:50 | JPY | Low | Bank Lending (YoY) (Aug) | 3.6% | 3.2% | 3.2% |
-| 00:50 | JPY | Moderate | Current Account n.s.a. (Jul) | 2.684T | 3.366T | 1.348T |
-| 00:50 | JPY | High | GDP (QoQ) (Q2) | 0.5% | 0.3% | 0.1% |
-| 00:50 | JPY | Moderate | GDP Annualized (QoQ) (Q2) | 2.2% | 1.0% | -0.2% |
-| 00:50 | JPY | Low | GDP Capital Expenditure (QoQ) (Q2) | 0.6% | 1.3% | 0.7% |
-| 00:50 | JPY | Low | GDP External Demand (QoQ) (Q2) | 0.3% | 0.3% | -0.8% |
-| 00:50 | JPY | Moderate | GDP Price Index (YoY) (Q2) | 3.0% | 3.0% | 3.3% |
-| 00:50 | JPY | Low | GDP Private Consumption (QoQ) (Q2) | 0.4% | 0.2% | 0.0% |
-| 02:30 | AUD | Moderate | Building Approvals (MoM) (Jul) | -8.2% | -8.2% | 12.2% |
-| 02:30 | AUD | Low | Private House Approvals (Jul) | 1.1% | 1.1% | -2.0% |
-| 04:00 | IDR | Low | FX Reserves (USD) (Aug) | 150.70B |  | 152.00B |
-| 04:25 | CNY | Moderate | Trade Balance (USD) (Aug) | 102.33B | 99.40B | 98.24B |
-| 04:45 | CNY | Low | Exports (Aug) | 4.80M |  | 8.00M |
-| 04:45 | CNY | Low | Imports (Aug) | 1.70M |  | 4.80M |
-| 04:45 | CNY | Low | Trade Balance (Aug) | 732.70B | 750.00B | 705.10B |
-| 04:45 | CNY | Moderate | Exports (YoY) (Aug) | 4.4% | 5.0% | 7.2% |
-| 04:45 | CNY | Moderate | Imports (YoY) (Aug) | 1.3% | 3.0% | 4.1% |
-| 06:00 | JPY | Low | Economy Watchers Current Index (Jul) | 46.7 | 45.6 | 45.2 |
-| 07:00 | EUR | Low | German Exports (MoM) (Jul) | -0.6% |  | 1.1% |
-| 07:00 | EUR | Low | German Imports (MoM) (Jul) | -0.1% |  | 4.1% |
-| 07:00 | EUR | Moderate | German Industrial Production (MoM) (Jul) | 1.3% | 1.1% | -0.1% |
-| 07:00 | EUR | Moderate | German Trade Balance (Jul) | 14.7B | 15.7B | 15.4B |
-| 07:00 | EUR | Low | German Industrial Production (YoY) (Jul) | 1.53% |  | -1.82% |
-| 09:00 | IDR | Low | Motorbike Sales (YoY) (Aug) | 0.70% |  | -2.00% |
-| 09:30 | EUR | Low | Sentix Investor Confidence (Sep) | -9.2 | -2.2 | -3.7 |
-| 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Aug) | 391.3B |  | 397.3B |
-| 11:00 | EUR | Low | Spanish Consumer Confidence (Jul) | 82.9 |  | 76.1 |
-| 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Aug) | 0.20% |  | -0.07% |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 14:00 | EUR | Low | French 12-Month BTF Auction | 1.997% |  | 2.020% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction | 1.989% |  | 1.984% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.006% |  | 2.009% |
-| 15:00 | USD | Low | CB Employment Trends Index (Aug) | 106.41 |  | 107.13 |
-| 16:30 | USD | Low | 3-Month Bill Auction | 3.940% |  | 4.045% |
-| 16:30 | USD | Low | 6-Month Bill Auction | 3.730% |  | 3.880% |
-| 20:00 | USD | Moderate | Consumer Credit (Jul) | 16.01B | 10.40B | 9.61B |
-| 38 min | NZD | Low | Manufacturing Sales Volume (QoQ) (Q2) |  |  | 2.4% |
+| 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Aug) | 2.9% | 2.0% | 1.8% |
+| 23 min | AUD | Low | Westpac Consumer Sentiment (Sep) |  |  | 5.7% |
+| 43 min | JPY | Low | M2 Money Stock (YoY) |  | 1.1% | 1.0% |
+| 43 min | JPY | Low | M3 Money Supply (Aug) |  |  | 2,211.9B |
+| 01:30 | AUD | Low | Westpac Consumer Sentiment |  |  | 5.7% |
+| 02:30 | AUD | Moderate | NAB Business Confidence (Aug) |  |  | 7 |
+| 02:30 | AUD | Low | NAB Business Survey (Aug) |  |  | 5 |
+| 07:00 | JPY | Low | Machine Tool Orders (YoY) (Aug) |  | 3.6% | -0.5% |
+| 07:00 | IDR | Low | Car Sales (YoY) (Aug) |  |  | -18.40% |
+| 07:00 | NOK | Low | PPI (YoY) (Aug) |  |  | -0.3% |
+| 07:45 | EUR | Low | French Industrial Production (MoM) (Jul) |  | -1.4% | 3.8% |
+| 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 1.929% |
+| 10:30 | ZAR | Moderate | GDP Annualized (QoQ) (Q2) |  |  | 0.1% |
+| 10:30 | ZAR | Low | GDP (YoY) (Q2) |  |  | 0.8% |
+| 11:00 | USD | Low | NFIB Small Business Optimism (Aug) |  | 100.4 | 100.3 |
+| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 12:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 12:50 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
+| 13:00 | MXN | Low | Core CPI (MoM) (Aug) |  | 0.20% | 0.31% |
+| 13:00 | MXN | Moderate | CPI (MoM) (Aug) |  | 0.06% | 0.27% |
+| 13:00 | MXN | Moderate | CPI (YoY) (Aug) |  | 3.58% | 3.51% |
+| 13:00 | MXN | Low | Month Core Inflation (MoM) (Aug) |  | 4.21% | 4.23% |
+| 13:00 | MXN | Low | PPI (YoY) (Aug) |  |  | 3.80% |
+| 13:00 | MXN | Low | PPI (MoM) (Aug) |  |  | -0.50% |
+| 13:55 | USD | Low | Redbook (YoY) |  |  | 6.5% |
+| 14:00 | BRL | Low | Auto Production (MoM) (Aug) |  |  | 15.7% |
+| 14:00 | BRL | Low | Auto Sales (MoM) (Aug) |  |  | 14.2% |
+| 15:00 | USD | Moderate | Payrolls Benchmark, n.s.a. |  |  | -598.00K |
+| 16:15 | GBP | Low | BoE Breeden Speaks |  |  |  |
+| 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
+| 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 3.669% |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 0.622M |
+| 23:45 | NZD | Low | External Migration & Visitors (Jul) |  |  | 0.80% |
+| 23:45 | NZD | Low | Permanent/Long-Term Migration (Jul) |  |  | 1,670 |
+| 23:45 | NZD | Low | Visitor Arrivals (MoM) |  |  | -2.5% |
