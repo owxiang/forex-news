@@ -13,7 +13,10 @@
 | 00:50 | JPY | Low | GDP Private Consumption (QoQ) (Q2) | 0.4% | 0.2% | 0.0% |
 | 02:30 | AUD | Moderate | Building Approvals (MoM) (Jul) | -8.2% | -8.2% | 12.2% |
 | 02:30 | AUD | Low | Private House Approvals (Jul) | 1.1% | 1.1% | -2.0% |
-| 24 min | IDR | Low | FX Reserves (USD) (Aug) |  |  | 152.00B |
+| 04:00 | IDR | Low | FX Reserves (USD) (Aug) | 150.70B |  | 152.00B |
+| 04:02 | CNY | Moderate | Exports (YoY) (Aug) | 4.4% | 5.0% | 7.2% |
+| 04:02 | CNY | Moderate | Imports (YoY) (Aug) | 1.3% | 3.0% | 4.1% |
+| 04:02 | CNY | Moderate | Trade Balance (USD) (Aug) | 102.30B | 99.40B | 98.24B |
 | 06:00 | JPY | Low | Economy Watchers Current Index (Aug) |  | 45.6 | 45.2 |
 | 07:00 | EUR | Low | German Exports (MoM) (Jul) |  |  | 0.8% |
 | 07:00 | EUR | Low | German Imports (MoM) (Jul) |  |  | 4.2% |
@@ -29,12 +32,9 @@
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 1.984% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.009% |
 | 15:00 | USD | Low | CB Employment Trends Index (Aug) |  |  | 107.55 |
-| 15:53 | CNY | Moderate | Exports (YoY) (Aug) |  | 5.0% | 7.2% |
-| 15:53 | CNY | Moderate | Imports (YoY) (Aug) |  | 3.0% | 4.1% |
 | 15:53 | CNY | Low | Imports (Aug) |  |  | 4.80M |
 | 15:53 | CNY | Low | Exports (Aug) |  |  | 8.00M |
 | 15:53 | CNY | Low | Trade Balance (Aug) |  | 750.00B | 705.10B |
-| 15:53 | CNY | Moderate | Trade Balance (USD) (Aug) |  | 99.40B | 98.24B |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.045% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.880% |
 | 20:00 | USD | Moderate | Consumer Credit (Jul) |  | 10.40B | 7.37B |
