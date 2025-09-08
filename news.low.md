@@ -15,8 +15,8 @@
 | 07:00 | EUR | German Exports (MoM) (Jul) | -0.6% |  | 1.1% |
 | 07:00 | EUR | German Imports (MoM) (Jul) | -0.1% |  | 4.1% |
 | 07:00 | EUR | German Industrial Production (YoY) (Jul) | 1.53% |  | -1.82% |
-| 09:30 | EUR | Sentix Investor Confidence (Sep) |  | -2.2 | -3.7 |
-| 10:00 | SGD | Foreign Reserves USD (MoM) (Aug) |  |  | 397.3B |
+| 20 min | EUR | Sentix Investor Confidence (Sep) |  | -2.2 | -3.7 |
+| 50 min | SGD | Foreign Reserves USD (MoM) (Aug) |  |  | 397.3B |
 | 12:00 | EUR | Spanish Consumer Confidence (Jul) |  |  | 76.1 |
 | 12:00 | BRL | IGP-DI Inflation Index (MoM) (Aug) |  |  | -0.07% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
