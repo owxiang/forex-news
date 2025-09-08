@@ -28,8 +28,8 @@
 | 07:00 | EUR | Low | German Industrial Production (YoY) (Jul) | 1.53% |  | -1.82% |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Sep) | -9.2 | -2.2 | -3.7 |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Aug) | 391.3B |  | 397.3B |
-| 12:00 | EUR | Low | Spanish Consumer Confidence (Jul) |  |  | 76.1 |
-| 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Aug) |  |  | -0.07% |
+| 53 min | EUR | Low | Spanish Consumer Confidence (Jul) |  |  | 76.1 |
+| 53 min | BRL | Low | IGP-DI Inflation Index (MoM) (Aug) |  |  | -0.07% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.020% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 1.984% |
