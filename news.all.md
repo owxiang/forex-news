@@ -5,7 +5,7 @@
 | 00:50 | JPY | Moderate | Adjusted Current Account (Jul) | 1.88T | 2.60T | 2.40T |
 | 00:50 | JPY | Low | Bank Lending (YoY) (Aug) | 3.6% | 3.2% | 3.2% |
 | 00:50 | JPY | Moderate | Current Account n.s.a. (Jul) | 2.684T | 3.366T | 1.348T |
-| 00:50 | JPY | High | GDP (QoQ) (Q2) | 0.5% | 0.3% | 0.0% |
+| 00:50 | JPY | High | GDP (QoQ) (Q2) | 0.5% | 0.3% | 0.1% |
 | 00:50 | JPY | Moderate | GDP Annualized (QoQ) (Q2) | 2.2% | 1.0% | -0.2% |
 | 00:50 | JPY | Low | GDP Capital Expenditure (QoQ) (Q2) | 0.6% | 1.3% | 0.7% |
 | 00:50 | JPY | Low | GDP External Demand (QoQ) (Q2) | 0.3% | 0.3% | -0.8% |
@@ -25,7 +25,7 @@
 | 07:00 | EUR | Low | German Imports (MoM) (Jul) | -0.1% |  | 4.1% |
 | 07:00 | EUR | Moderate | German Industrial Production (MoM) (Jul) | 1.3% | 1.1% | -0.1% |
 | 07:00 | EUR | Moderate | German Trade Balance (Jul) | 14.7B | 15.7B | 15.4B |
-| 07:00 | EUR | Low | German Industrial Production (YoY) (Jul) |  |  | -3.53% |
+| 07:00 | EUR | Low | German Industrial Production (YoY) (Jul) | 1.53% |  | -1.82% |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Sep) |  | -2.2 | -3.7 |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Aug) |  |  | 397.3B |
 | 12:00 | EUR | Low | Spanish Consumer Confidence (Jul) |  |  | 76.1 |

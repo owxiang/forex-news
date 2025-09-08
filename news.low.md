@@ -14,7 +14,7 @@
 | 06:00 | JPY | Economy Watchers Current Index (Jul) | 46.7 | 45.6 | 45.2 |
 | 07:00 | EUR | German Exports (MoM) (Jul) | -0.6% |  | 1.1% |
 | 07:00 | EUR | German Imports (MoM) (Jul) | -0.1% |  | 4.1% |
-| 07:00 | EUR | German Industrial Production (YoY) (Jul) |  |  | -3.53% |
+| 07:00 | EUR | German Industrial Production (YoY) (Jul) | 1.53% |  | -1.82% |
 | 09:30 | EUR | Sentix Investor Confidence (Sep) |  | -2.2 | -3.7 |
 | 10:00 | SGD | Foreign Reserves USD (MoM) (Aug) |  |  | 397.3B |
 | 12:00 | EUR | Spanish Consumer Confidence (Jul) |  |  | 76.1 |
