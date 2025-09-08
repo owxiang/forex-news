@@ -14,6 +14,7 @@
 | 02:30 | AUD | Moderate | Building Approvals (MoM) (Jul) | -8.2% | -8.2% | 12.2% |
 | 02:30 | AUD | Low | Private House Approvals (Jul) | 1.1% | 1.1% | -2.0% |
 | 04:00 | IDR | Low | FX Reserves (USD) (Aug) | 150.70B |  | 152.00B |
+| 04:25 | CNY | Moderate | Trade Balance (USD) (Aug) | 102.33B | 99.40B | 98.24B |
 | 04:45 | CNY | Low | Exports (Aug) | 4.80M |  | 8.00M |
 | 04:45 | CNY | Low | Imports (Aug) | 1.70M |  | 4.80M |
 | 04:45 | CNY | Low | Trade Balance (Aug) | 732.70B | 750.00B | 705.10B |
@@ -34,9 +35,8 @@
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 1.997% |  | 2.020% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 1.989% |  | 1.984% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.006% |  | 2.009% |
-| 14:08 | CNY | Moderate | Trade Balance (USD) (Aug) | 102.33B | 99.40B | 98.24B |
 | 15:00 | USD | Low | CB Employment Trends Index (Aug) | 106.41 |  | 107.13 |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.045% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.880% |
+| 24 min | USD | Low | 3-Month Bill Auction |  |  | 4.045% |
+| 24 min | USD | Low | 6-Month Bill Auction |  |  | 3.880% |
 | 20:00 | USD | Moderate | Consumer Credit (Jul) |  | 10.40B | 7.37B |
 | 23:45 | NZD | Low | Manufacturing Sales Volume (QoQ) (Q2) |  |  | 2.4% |
