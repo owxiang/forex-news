@@ -36,7 +36,7 @@
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 1.989% |  | 1.984% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.006% |  | 2.009% |
 | 15:00 | USD | Low | CB Employment Trends Index (Aug) | 106.41 |  | 107.13 |
-| 24 min | USD | Low | 3-Month Bill Auction |  |  | 4.045% |
-| 24 min | USD | Low | 6-Month Bill Auction |  |  | 3.880% |
+| 16:30 | USD | Low | 3-Month Bill Auction | 3.940% |  | 4.045% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 3.730% |  | 3.880% |
 | 20:00 | USD | Moderate | Consumer Credit (Jul) |  | 10.40B | 7.37B |
 | 23:45 | NZD | Low | Manufacturing Sales Volume (QoQ) (Q2) |  |  | 2.4% |
