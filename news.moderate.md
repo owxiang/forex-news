@@ -6,7 +6,7 @@
 | 00:50 | JPY | Current Account n.s.a. (Jul) | 2.684T | 3.366T | 1.348T |
 | 00:50 | JPY | GDP Annualized (QoQ) (Q2) | 2.2% | 1.0% | 1.0% |
 | 00:50 | JPY | GDP Price Index (YoY) (Q2) | 3.0% | 3.0% | 3.0% |
-| 02:30 | AUD | Building Approvals (MoM) (Jul) |  | -8.2% | 12.2% |
+| 02:30 | AUD | Building Approvals (MoM) (Jul) | -8.2% | -8.2% | 12.2% |
 | 07:00 | EUR | German Industrial Production (MoM) (Jul) |  | 1.1% | -1.9% |
 | 07:00 | EUR | German Trade Balance (Jul) |  | 15.7B | 14.9B |
 | 15:53 | CNY | Exports (YoY) (Aug) |  | 5.0% | 7.2% |
