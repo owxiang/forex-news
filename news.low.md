@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 45 min | JPY | Bank Lending (YoY) (Aug) |  | 3.2% | 3.2% |
-| 44 min | JPY | GDP Capital Expenditure (QoQ) (Q2) |  | 1.3% | 1.3% |
-| 44 min | JPY | GDP External Demand (QoQ) (Q2) |  | 0.3% | 0.3% |
-| 44 min | JPY | GDP Private Consumption (QoQ) (Q2) |  | 0.2% | 0.2% |
+| 00:50 | JPY | Bank Lending (YoY) (Aug) | 3.6% | 3.2% | 3.2% |
+| 00:50 | JPY | GDP Capital Expenditure (QoQ) (Q2) | 0.6% | 1.3% | 0.7% |
+| 00:50 | JPY | GDP External Demand (QoQ) (Q2) | 0.3% | 0.3% | 0.3% |
+| 00:50 | JPY | GDP Private Consumption (QoQ) (Q2) | 0.4% | 0.2% | 0.0% |
 | 02:30 | AUD | Private House Approvals (Jul) |  | 1.1% | -2.0% |
 | 04:00 | IDR | FX Reserves (USD) (Aug) |  |  | 152.00B |
 | 06:00 | JPY | Economy Watchers Current Index (Aug) |  | 45.6 | 45.2 |

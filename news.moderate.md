@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 45 min | JPY | Adjusted Current Account (Jul) |  | 2.60T | 239.79T |
-| 45 min | JPY | Current Account n.s.a. (Jul) |  | 3.366T | 1.348T |
-| 44 min | JPY | GDP Annualized (QoQ) (Q2) |  | 1.0% | 1.0% |
-| 44 min | JPY | GDP Price Index (YoY) (Q2) |  | 3.0% | 3.0% |
+| 00:50 | JPY | Adjusted Current Account (Jul) | 188.28T | 2.60T | 239.79T |
+| 00:50 | JPY | Current Account n.s.a. (Jul) | 2.684T | 3.366T | 1.348T |
+| 00:50 | JPY | GDP Annualized (QoQ) (Q2) | 2.2% | 1.0% | 1.0% |
+| 00:50 | JPY | GDP Price Index (YoY) (Q2) | 3.0% | 3.0% | 3.0% |
 | 02:30 | AUD | Building Approvals (MoM) (Jul) |  | -8.2% | 12.2% |
 | 07:00 | EUR | German Industrial Production (MoM) (Jul) |  | 1.1% | -1.9% |
 | 07:00 | EUR | German Trade Balance (Jul) |  | 15.7B | 14.9B |

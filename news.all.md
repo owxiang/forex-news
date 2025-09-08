@@ -2,15 +2,15 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 45 min | JPY | Moderate | Adjusted Current Account (Jul) |  | 2.60T | 239.79T |
-| 45 min | JPY | Low | Bank Lending (YoY) (Aug) |  | 3.2% | 3.2% |
-| 45 min | JPY | Moderate | Current Account n.s.a. (Jul) |  | 3.366T | 1.348T |
-| 44 min | JPY | High | GDP (QoQ) (Q2) |  | 0.3% | 0.3% |
-| 44 min | JPY | Moderate | GDP Annualized (QoQ) (Q2) |  | 1.0% | 1.0% |
-| 44 min | JPY | Low | GDP Capital Expenditure (QoQ) (Q2) |  | 1.3% | 1.3% |
-| 44 min | JPY | Low | GDP External Demand (QoQ) (Q2) |  | 0.3% | 0.3% |
-| 44 min | JPY | Moderate | GDP Price Index (YoY) (Q2) |  | 3.0% | 3.0% |
-| 44 min | JPY | Low | GDP Private Consumption (QoQ) (Q2) |  | 0.2% | 0.2% |
+| 00:50 | JPY | Moderate | Adjusted Current Account (Jul) | 188.28T | 2.60T | 239.79T |
+| 00:50 | JPY | Low | Bank Lending (YoY) (Aug) | 3.6% | 3.2% | 3.2% |
+| 00:50 | JPY | Moderate | Current Account n.s.a. (Jul) | 2.684T | 3.366T | 1.348T |
+| 00:50 | JPY | High | GDP (QoQ) (Q2) | 0.5% | 0.3% | 0.3% |
+| 00:50 | JPY | Moderate | GDP Annualized (QoQ) (Q2) | 2.2% | 1.0% | 1.0% |
+| 00:50 | JPY | Low | GDP Capital Expenditure (QoQ) (Q2) | 0.6% | 1.3% | 0.7% |
+| 00:50 | JPY | Low | GDP External Demand (QoQ) (Q2) | 0.3% | 0.3% | 0.3% |
+| 00:50 | JPY | Moderate | GDP Price Index (YoY) (Q2) | 3.0% | 3.0% | 3.0% |
+| 00:50 | JPY | Low | GDP Private Consumption (QoQ) (Q2) | 0.4% | 0.2% | 0.0% |
 | 02:30 | AUD | Moderate | Building Approvals (MoM) (Jul) |  | -8.2% | 12.2% |
 | 02:30 | AUD | Low | Private House Approvals (Jul) |  | 1.1% | -2.0% |
 | 04:00 | IDR | Low | FX Reserves (USD) (Aug) |  |  | 152.00B |

@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 44 min | JPY | GDP (QoQ) (Q2) |  | 0.3% | 0.3% |
+| 00:50 | JPY | GDP (QoQ) (Q2) | 0.5% | 0.3% | 0.3% |
