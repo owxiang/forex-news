@@ -39,4 +39,4 @@
 | 16:30 | USD | Low | 3-Month Bill Auction | 3.940% |  | 4.045% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 3.730% |  | 3.880% |
 | 20:00 | USD | Moderate | Consumer Credit (Jul) | 16.01B | 10.40B | 9.61B |
-| 23:45 | NZD | Low | Manufacturing Sales Volume (QoQ) (Q2) |  |  | 2.4% |
+| 38 min | NZD | Low | Manufacturing Sales Volume (QoQ) (Q2) |  |  | 2.4% |

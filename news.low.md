@@ -27,4 +27,4 @@
 | 15:00 | USD | CB Employment Trends Index (Aug) | 106.41 |  | 107.13 |
 | 16:30 | USD | 3-Month Bill Auction | 3.940% |  | 4.045% |
 | 16:30 | USD | 6-Month Bill Auction | 3.730% |  | 3.880% |
-| 23:45 | NZD | Manufacturing Sales Volume (QoQ) (Q2) |  |  | 2.4% |
+| 38 min | NZD | Manufacturing Sales Volume (QoQ) (Q2) |  |  | 2.4% |
