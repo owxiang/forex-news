@@ -20,12 +20,12 @@
 | 04:45 | CNY | Moderate | Exports (YoY) (Aug) | 4.4% | 5.0% | 7.2% |
 | 04:45 | CNY | Moderate | Imports (YoY) (Aug) | 1.3% | 3.0% | 4.1% |
 | 04:45 | CNY | Moderate | Trade Balance (USD) (Aug) | 102.33B | 99.40B | 98.24B |
-| 06:00 | JPY | Low | Economy Watchers Current Index (Jul) | 45.2 | 45.6 | 45.2 |
-| 53 min | EUR | Low | German Exports (MoM) (Jul) |  |  | 0.8% |
-| 53 min | EUR | Low | German Imports (MoM) (Jul) |  |  | 4.2% |
-| 53 min | EUR | Moderate | German Industrial Production (MoM) (Jul) |  | 1.1% | -1.9% |
-| 53 min | EUR | Moderate | German Trade Balance (Jul) |  | 15.7B | 14.9B |
-| 53 min | EUR | Low | German Industrial Production (YoY) (Jul) |  |  | -3.53% |
+| 06:00 | JPY | Low | Economy Watchers Current Index (Jul) | 46.7 | 45.6 | 45.2 |
+| 07:00 | EUR | Low | German Exports (MoM) (Jul) | -0.6% |  | 1.1% |
+| 07:00 | EUR | Low | German Imports (MoM) (Jul) | -0.1% |  | 4.1% |
+| 07:00 | EUR | Moderate | German Industrial Production (MoM) (Jul) | 1.3% | 1.1% | -0.1% |
+| 07:00 | EUR | Moderate | German Trade Balance (Jul) | 14.7B | 15.7B | 15.4B |
+| 07:00 | EUR | Low | German Industrial Production (YoY) (Jul) |  |  | -3.53% |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Sep) |  | -2.2 | -3.7 |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Aug) |  |  | 397.3B |
 | 12:00 | EUR | Low | Spanish Consumer Confidence (Jul) |  |  | 76.1 |
