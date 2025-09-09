@@ -23,8 +23,6 @@
 | 13:00 | MXN | Moderate | CPI (YoY) (Aug) | 3.57% | 3.58% | 3.51% |
 | 13:00 | MXN | Moderate | CPI (MoM) (Aug) | 0.06% | 0.06% | 0.27% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Aug) | 4.23% | 4.21% | 4.23% |
-| 13:00 | MXN | Low | PPI (YoY) (Aug) |  |  | 3.80% |
-| 13:00 | MXN | Low | PPI (MoM) (Aug) |  |  | -0.50% |
 | 13:55 | USD | Low | Redbook (YoY) | 6.6% |  | 6.5% |
 | 14:00 | BRL | Low | Auto Production (MoM) (Aug) | 3.0% |  | 15.7% |
 | 14:00 | BRL | Low | Auto Sales (MoM) (Aug) | -7.3% |  | 14.2% |
