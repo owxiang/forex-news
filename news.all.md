@@ -30,7 +30,7 @@
 | 15:00 | USD | Moderate | Payrolls Benchmark, n.s.a. | -911.00K |  | -598.00K |
 | 16:15 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
-| 53 min | USD | Moderate | 3-Year Note Auction |  |  | 3.669% |
+| 18:00 | USD | Moderate | 3-Year Note Auction | 3.485% |  | 3.669% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 0.622M |
 | 23:45 | NZD | Low | External Migration & Visitors (Jul) |  |  | 0.80% |
 | 23:45 | NZD | Low | Permanent/Long-Term Migration (Jul) |  |  | 1,670 |

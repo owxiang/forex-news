@@ -12,5 +12,5 @@
 | 13:00 | MXN | CPI (MoM) (Aug) | 0.06% | 0.06% | 0.27% |
 | 15:00 | USD | Payrolls Benchmark, n.s.a. | -911.00K |  | -598.00K |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
-| 53 min | USD | 3-Year Note Auction |  |  | 3.669% |
+| 18:00 | USD | 3-Year Note Auction | 3.485% |  | 3.669% |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | 0.622M |
