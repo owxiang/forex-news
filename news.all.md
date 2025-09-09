@@ -10,8 +10,8 @@
 | 02:30 | AUD | Low | NAB Business Survey (Aug) | 7 |  | 5 |
 | 07:00 | JPY | Low | Machine Tool Orders (YoY) (Aug) | 8.1% | 3.6% | -0.5% |
 | 07:00 | NOK | Low | PPI (YoY) (Aug) | -3.0% |  | -0.3% |
-| 35 min | EUR | Low | French Industrial Production (MoM) (Jul) |  | -1.4% | 3.8% |
-| 09:00 | IDR | Low | Car Sales (YoY) (Aug) |  |  | -18.40% |
+| 07:30 | IDR | Low | Car Sales (YoY) (Aug) | -19.00% |  | -18.00% |
+| 07:45 | EUR | Low | French Industrial Production (MoM) (Jul) | -1.1% | -1.4% | 3.7% |
 | 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 1.929% |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.770% |
 | 10:30 | ZAR | Low | GDP (YoY) (Q2) |  |  | 0.8% |
@@ -24,8 +24,8 @@
 | 13:00 | MXN | Moderate | CPI (YoY) (Aug) |  | 3.58% | 3.51% |
 | 13:00 | MXN | Moderate | CPI (MoM) (Aug) |  | 0.06% | 0.27% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Aug) |  | 4.21% | 4.23% |
-| 13:00 | MXN | Low | PPI (MoM) (Aug) |  |  | -0.50% |
 | 13:00 | MXN | Low | PPI (YoY) (Aug) |  |  | 3.80% |
+| 13:00 | MXN | Low | PPI (MoM) (Aug) |  |  | -0.50% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 6.5% |
 | 14:00 | BRL | Low | Auto Production (MoM) (Aug) |  |  | 15.7% |
 | 14:00 | BRL | Low | Auto Sales (MoM) (Aug) |  |  | 14.2% |
