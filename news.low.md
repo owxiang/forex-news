@@ -20,6 +20,6 @@
 | 14:00 | BRL | Auto Production (MoM) (Aug) | 3.0% |  | 15.7% |
 | 14:00 | BRL | Auto Sales (MoM) (Aug) | -7.3% |  | 14.2% |
 | 16:15 | GBP | BoE Breeden Speaks |  |  |  |
-| 23:45 | NZD | External Migration & Visitors (Jul) |  |  | 0.80% |
-| 23:45 | NZD | Permanent/Long-Term Migration (Jul) |  |  | 1,670 |
-| 23:45 | NZD | Visitor Arrivals (MoM) |  |  | -2.5% |
+| 39 min | NZD | External Migration & Visitors (Jul) |  |  | 0.80% |
+| 39 min | NZD | Permanent/Long-Term Migration (Jul) |  |  | 1,670 |
+| 39 min | NZD | Visitor Arrivals (MoM) |  |  | -2.5% |
