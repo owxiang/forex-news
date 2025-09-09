@@ -8,21 +8,21 @@
 | 01:30 | AUD | Low | Westpac Consumer Sentiment (Sep) | -3.1% |  | 5.7% |
 | 02:30 | AUD | Moderate | NAB Business Confidence (Aug) | 4 |  | 8 |
 | 02:30 | AUD | Low | NAB Business Survey (Aug) | 7 |  | 5 |
-| 53 min | JPY | Low | Machine Tool Orders (YoY) (Aug) |  | 3.6% | -0.5% |
-| 53 min | IDR | Low | Car Sales (YoY) (Aug) |  |  | -18.40% |
-| 53 min | NOK | Low | PPI (YoY) (Aug) |  |  | -0.3% |
-| 07:45 | EUR | Low | French Industrial Production (MoM) (Jul) |  | -1.4% | 3.8% |
+| 07:00 | JPY | Low | Machine Tool Orders (YoY) (Aug) | 8.1% | 3.6% | -0.5% |
+| 07:00 | NOK | Low | PPI (YoY) (Aug) | -3.0% |  | -0.3% |
+| 35 min | EUR | Low | French Industrial Production (MoM) (Jul) |  | -1.4% | 3.8% |
+| 09:00 | IDR | Low | Car Sales (YoY) (Aug) |  |  | -18.40% |
 | 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 1.929% |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.770% |
-| 10:30 | ZAR | Moderate | GDP Annualized (QoQ) (Q2) |  |  | 0.1% |
 | 10:30 | ZAR | Low | GDP (YoY) (Q2) |  |  | 0.8% |
+| 10:30 | ZAR | Moderate | GDP Annualized (QoQ) (Q2) |  |  | 0.1% |
 | 11:00 | USD | Low | NFIB Small Business Optimism (Aug) |  | 100.5 | 100.3 |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 12:50 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 13:00 | MXN | Low | Core CPI (MoM) (Aug) |  | 0.20% | 0.31% |
-| 13:00 | MXN | Moderate | CPI (MoM) (Aug) |  | 0.06% | 0.27% |
 | 13:00 | MXN | Moderate | CPI (YoY) (Aug) |  | 3.58% | 3.51% |
+| 13:00 | MXN | Moderate | CPI (MoM) (Aug) |  | 0.06% | 0.27% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Aug) |  | 4.21% | 4.23% |
 | 13:00 | MXN | Low | PPI (MoM) (Aug) |  |  | -0.50% |
 | 13:00 | MXN | Low | PPI (YoY) (Aug) |  |  | 3.80% |

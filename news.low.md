@@ -6,10 +6,10 @@
 | 00:50 | JPY | M3 Money Supply (Aug) | 2,219.7B |  | 2,211.4B |
 | 01:30 | AUD | Westpac Consumer Sentiment (Sep) | -3.1% |  | 5.7% |
 | 02:30 | AUD | NAB Business Survey (Aug) | 7 |  | 5 |
-| 53 min | JPY | Machine Tool Orders (YoY) (Aug) |  | 3.6% | -0.5% |
-| 53 min | IDR | Car Sales (YoY) (Aug) |  |  | -18.40% |
-| 53 min | NOK | PPI (YoY) (Aug) |  |  | -0.3% |
-| 07:45 | EUR | French Industrial Production (MoM) (Jul) |  | -1.4% | 3.8% |
+| 07:00 | JPY | Machine Tool Orders (YoY) (Aug) | 8.1% | 3.6% | -0.5% |
+| 07:00 | NOK | PPI (YoY) (Aug) | -3.0% |  | -0.3% |
+| 35 min | EUR | French Industrial Production (MoM) (Jul) |  | -1.4% | 3.8% |
+| 09:00 | IDR | Car Sales (YoY) (Aug) |  |  | -18.40% |
 | 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 1.929% |
 | 10:30 | ZAR | GDP (YoY) (Q2) |  |  | 0.8% |
 | 11:00 | USD | NFIB Small Business Optimism (Aug) |  | 100.5 | 100.3 |
