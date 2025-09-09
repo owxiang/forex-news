@@ -1,3 +1,7 @@
-## 09 September 2025 - High Impact Forex News
+## 10 September 2025 - High Impact Forex News
 
-There is no high impact news today.
+| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 13:30 | USD | PPI (MoM) (Aug) |  | 0.3% | 0.9% |
+| 15:30 | USD | Crude Oil Inventories |  |  | 2.415M |
+| 18:00 | USD | 10-Year Note Auction |  |  | 4.255% |

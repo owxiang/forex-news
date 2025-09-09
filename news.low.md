@@ -1,25 +1,48 @@
-## 09 September 2025 - Low Impact Forex News
+## 10 September 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | M2 Money Stock (YoY) | 1.3% | 1.1% | 1.0% |
-| 00:50 | JPY | M3 Money Supply (Aug) | 2,219.7B |  | 2,211.4B |
-| 01:30 | AUD | Westpac Consumer Sentiment (Sep) | -3.1% |  | 5.7% |
-| 02:30 | AUD | NAB Business Survey (Aug) | 7 |  | 5 |
-| 07:00 | JPY | Machine Tool Orders (YoY) (Aug) | 8.1% | 3.6% | -0.5% |
-| 07:00 | NOK | PPI (YoY) (Aug) | -3.0% |  | -0.3% |
-| 07:30 | IDR | Car Sales (YoY) (Aug) | -19.00% |  | -18.00% |
-| 07:45 | EUR | French Industrial Production (MoM) (Jul) | -1.1% | -1.4% | 3.7% |
-| 09:40 | EUR | Spanish 3-Month Letras Auction | 1.909% |  | 1.929% |
-| 10:30 | ZAR | GDP (YoY) (Q2) | 0.6% |  | 0.8% |
-| 11:00 | USD | NFIB Small Business Optimism (Aug) | 100.8 | 100.5 | 100.3 |
-| 12:50 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
-| 13:00 | MXN | Core CPI (MoM) (Aug) | 0.22% | 0.20% | 0.31% |
-| 13:00 | MXN | Month Core Inflation (MoM) (Aug) | 4.23% | 4.21% | 4.23% |
-| 13:55 | USD | Redbook (YoY) | 6.6% |  | 6.5% |
-| 14:00 | BRL | Auto Production (MoM) (Aug) | 3.0% |  | 15.7% |
-| 14:00 | BRL | Auto Sales (MoM) (Aug) | -7.3% |  | 14.2% |
-| 16:15 | GBP | BoE Breeden Speaks |  |  |  |
-| 39 min | NZD | External Migration & Visitors (Jul) |  |  | 0.80% |
-| 39 min | NZD | Permanent/Long-Term Migration (Jul) |  |  | 1,670 |
-| 39 min | NZD | Visitor Arrivals (MoM) |  |  | -2.5% |
+| 00:00 | KRW | Unemployment Rate (Aug) | 2.6% |  | 2.5% |
+| 00:00 | JPY | Reuters Tankan Index (Sep) | 13 |  | 9 |
+| 04:00 | IDR | Consumer Confidence (Aug) |  |  | 118.1 |
+| 04:00 | IDR | Retail Sales (YoY) (Jul) |  |  | 1.3% |
+| 04:35 | JPY | 5-Year JGB Auction |  |  | 1.056% |
+| 07:00 | NOK | Core CPI YTD (Aug) |  | 3.1% | 3.1% |
+| 07:00 | NOK | Core Inflation (MoM) (Aug) |  | -0.7% | 0.8% |
+| 07:00 | NOK | CPI (MoM) (Aug) |  | -0.6% | 0.8% |
+| 07:00 | NOK | CPI (YoY) (Aug) |  | 3.5% | 3.3% |
+| 08:00 | EUR | Spanish Industrial Production (YoY) (Jul) |  |  | 2.3% |
+| 09:00 | EUR | Italian Industrial Production (MoM) (Jul) |  | 0.1% | 0.2% |
+| 09:00 | EUR | Italian Industrial Production (YoY) (Jul) |  |  | -0.9% |
+| 10:10 | EUR | Italian 12-Month BOT Auction |  |  | 2.012% |
+| 10:10 | EUR | Italian 12-Month BOT Auction |  |  | 2.012% |
+| 11:00 | EUR | ECOFIN Meetings |  |  |  |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.64% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -1.2% |
+| 12:00 | USD | MBA Purchase Index |  |  | 158.7 |
+| 12:00 | USD | Mortgage Market Index |  |  | 272.5 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 902.5 |
+| 12:45 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
+| 13:00 | MXN | PPI (YoY) (Aug) |  |  | 3.80% |
+| 13:00 | MXN | PPI (MoM) (Aug) |  |  | -0.50% |
+| 13:00 | BRL | CPI (MoM) (Aug) |  | -0.15% | 0.26% |
+| 13:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Aug) |  |  | 0.35% |
+| 13:30 | USD | Core PPI (YoY) (Aug) |  | 3.5% | 3.7% |
+| 13:30 | USD | PPI (YoY) (Aug) |  | 3.3% | 3.3% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Aug) |  |  | 2.8% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Aug) |  |  | 0.6% |
+| 15:00 | USD | Wholesale Inventories (MoM) (Jul) |  | 0.2% | 0.1% |
+| 15:00 | USD | Wholesale Trade Sales (MoM) (Jul) |  |  | 0.3% |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.011M |
+| 15:30 | USD | Crude Oil Imports |  |  | 0.434M |
+| 15:30 | USD | Distillate Fuel Production |  |  | 0.036M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | 1.681M |
+| 15:30 | USD | Gasoline Production |  |  | -0.109M |
+| 15:30 | USD | Heating Oil Stockpiles |  |  | 0.557M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.3% |
+| 15:30 | USD | Gasoline Inventories |  |  | -3.795M |
+| 16:00 | USD | Thomson Reuters IPSOS PCSI (Sep) |  |  | 53.43 |
+| 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 47.70 |
+| 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 53.15 |
+| 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Sep) |  |  | 51.04 |
+| 18:30 | BRL | Foreign Exchange Flows |  |  | -0.231B |

@@ -1,37 +1,59 @@
-## 09 September 2025 - All Forex News
+## 10 September 2025 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Aug) | 2.9% | 2.0% | 1.8% |
-| 00:50 | JPY | Low | M2 Money Stock (YoY) | 1.3% | 1.1% | 1.0% |
-| 00:50 | JPY | Low | M3 Money Supply (Aug) | 2,219.7B |  | 2,211.4B |
-| 01:30 | AUD | Low | Westpac Consumer Sentiment (Sep) | -3.1% |  | 5.7% |
-| 02:30 | AUD | Moderate | NAB Business Confidence (Aug) | 4 |  | 8 |
-| 02:30 | AUD | Low | NAB Business Survey (Aug) | 7 |  | 5 |
-| 07:00 | JPY | Low | Machine Tool Orders (YoY) (Aug) | 8.1% | 3.6% | -0.5% |
-| 07:00 | NOK | Low | PPI (YoY) (Aug) | -3.0% |  | -0.3% |
-| 07:30 | IDR | Low | Car Sales (YoY) (Aug) | -19.00% |  | -18.00% |
-| 07:45 | EUR | Low | French Industrial Production (MoM) (Jul) | -1.1% | -1.4% | 3.7% |
-| 09:40 | EUR | Low | Spanish 3-Month Letras Auction | 1.909% |  | 1.929% |
-| 10:30 | ZAR | Low | GDP (YoY) (Q2) | 0.6% |  | 0.8% |
-| 10:30 | ZAR | Moderate | GDP Annualized (QoQ) (Q2) | 0.8% | 0.5% | 0.1% |
-| 10:45 | EUR | Moderate | German 10-Year Bund Auction | 2.250% |  | 2.770% |
-| 11:00 | USD | Low | NFIB Small Business Optimism (Aug) | 100.8 | 100.5 | 100.3 |
-| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 12:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 12:50 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
-| 13:00 | MXN | Low | Core CPI (MoM) (Aug) | 0.22% | 0.20% | 0.31% |
-| 13:00 | MXN | Moderate | CPI (MoM) (Aug) | 0.06% | 0.06% | 0.27% |
-| 13:00 | MXN | Moderate | CPI (YoY) (Aug) | 3.57% | 3.58% | 3.51% |
-| 13:00 | MXN | Low | Month Core Inflation (MoM) (Aug) | 4.23% | 4.21% | 4.23% |
-| 13:55 | USD | Low | Redbook (YoY) | 6.6% |  | 6.5% |
-| 14:00 | BRL | Low | Auto Production (MoM) (Aug) | 3.0% |  | 15.7% |
-| 14:00 | BRL | Low | Auto Sales (MoM) (Aug) | -7.3% |  | 14.2% |
-| 15:00 | USD | Moderate | Payrolls Benchmark, n.s.a. | -911.00K |  | -598.00K |
-| 16:15 | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
-| 18:00 | USD | Moderate | 3-Year Note Auction | 3.485% |  | 3.669% |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | 1.250M |  | 0.622M |
-| 39 min | NZD | Low | External Migration & Visitors (Jul) |  |  | 0.80% |
-| 39 min | NZD | Low | Permanent/Long-Term Migration (Jul) |  |  | 1,670 |
-| 39 min | NZD | Low | Visitor Arrivals (MoM) |  |  | -2.5% |
+| 00:00 | KRW | Low | Unemployment Rate (Aug) | 2.6% |  | 2.5% |
+| 00:00 | JPY | Low | Reuters Tankan Index (Sep) | 13 |  | 9 |
+| 02:30 | CNY | Moderate | CPI (MoM) (Aug) |  | 0.1% | 0.4% |
+| 02:30 | CNY | Moderate | CPI (YoY) (Aug) |  | -0.2% | 0.0% |
+| 02:30 | CNY | Moderate | PPI (YoY) (Aug) |  | -2.9% | -3.6% |
+| 04:00 | IDR | Low | Consumer Confidence (Aug) |  |  | 118.1 |
+| 04:00 | IDR | Low | Retail Sales (YoY) (Jul) |  |  | 1.3% |
+| 04:35 | JPY | Low | 5-Year JGB Auction |  |  | 1.056% |
+| 07:00 | NOK | Low | Core CPI YTD (Aug) |  | 3.1% | 3.1% |
+| 07:00 | NOK | Low | Core Inflation (MoM) (Aug) |  | -0.7% | 0.8% |
+| 07:00 | NOK | Low | CPI (MoM) (Aug) |  | -0.6% | 0.8% |
+| 07:00 | NOK | Low | CPI (YoY) (Aug) |  | 3.5% | 3.3% |
+| 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Jul) |  |  | 2.3% |
+| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Jul) |  | 0.1% | 0.2% |
+| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Jul) |  |  | -0.9% |
+| 10:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.012% |
+| 10:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.012% |
+| 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.64% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -1.2% |
+| 12:00 | USD | Low | MBA Purchase Index |  |  | 158.7 |
+| 12:00 | USD | Low | Mortgage Market Index |  |  | 272.5 |
+| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 902.5 |
+| 12:45 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
+| 13:00 | MXN | Low | PPI (YoY) (Aug) |  |  | 3.80% |
+| 13:00 | MXN | Low | PPI (MoM) (Aug) |  |  | -0.50% |
+| 13:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
+| 13:00 | BRL | Low | CPI (MoM) (Aug) |  | -0.15% | 0.26% |
+| 13:00 | BRL | Moderate | CPI (YoY) (Aug) |  | 5.10% | 5.23% |
+| 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Aug) |  |  | 0.35% |
+| 13:30 | USD | Moderate | Core PPI (MoM) (Aug) |  | 0.3% | 0.9% |
+| 13:30 | USD | Low | Core PPI (YoY) (Aug) |  | 3.5% | 3.7% |
+| 13:30 | USD | High | PPI (MoM) (Aug) |  | 0.3% | 0.9% |
+| 13:30 | USD | Low | PPI (YoY) (Aug) |  | 3.3% | 3.3% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Aug) |  |  | 2.8% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Aug) |  |  | 0.6% |
+| 15:00 | USD | Low | Wholesale Inventories (MoM) (Jul) |  | 0.2% | 0.1% |
+| 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Jul) |  |  | 0.3% |
+| 15:30 | USD | High | Crude Oil Inventories |  |  | 2.415M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.011M |
+| 15:30 | USD | Low | Crude Oil Imports |  |  | 0.434M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 1.590M |
+| 15:30 | USD | Low | Distillate Fuel Production |  |  | 0.036M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  |  | 1.681M |
+| 15:30 | USD | Low | Gasoline Production |  |  | -0.109M |
+| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.557M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.3% |
+| 15:30 | USD | Low | Gasoline Inventories |  |  | -3.795M |
+| 16:00 | USD | Low | Thomson Reuters IPSOS PCSI (Sep) |  |  | 53.43 |
+| 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 47.70 |
+| 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 53.15 |
+| 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Sep) |  |  | 51.04 |
+| 18:00 | USD | High | 10-Year Note Auction |  |  | 4.255% |
+| 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 3.0% | 3.0% |
+| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.231B |
