@@ -2,10 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 23 min | AUD | Westpac Consumer Sentiment (Sep) |  |  | 5.7% |
-| 43 min | JPY | M2 Money Stock (YoY) |  | 1.1% | 1.0% |
-| 43 min | JPY | M3 Money Supply (Aug) |  |  | 2,211.9B |
-| 01:30 | AUD | Westpac Consumer Sentiment |  |  | 5.7% |
+| 00:50 | JPY | M2 Money Stock (YoY) | 1.3% | 1.1% | 1.0% |
+| 00:50 | JPY | M3 Money Supply (Aug) | 2,219.7B |  | 2,211.4B |
+| 2 min | AUD | Westpac Consumer Sentiment (Sep) |  |  | 5.7% |
 | 02:30 | AUD | NAB Business Survey (Aug) |  |  | 5 |
 | 07:00 | JPY | Machine Tool Orders (YoY) (Aug) |  | 3.6% | -0.5% |
 | 07:00 | IDR | Car Sales (YoY) (Aug) |  |  | -18.40% |
@@ -17,8 +16,8 @@
 | 12:50 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 13:00 | MXN | Core CPI (MoM) (Aug) |  | 0.20% | 0.31% |
 | 13:00 | MXN | Month Core Inflation (MoM) (Aug) |  | 4.21% | 4.23% |
-| 13:00 | MXN | PPI (YoY) (Aug) |  |  | 3.80% |
 | 13:00 | MXN | PPI (MoM) (Aug) |  |  | -0.50% |
+| 13:00 | MXN | PPI (YoY) (Aug) |  |  | 3.80% |
 | 13:55 | USD | Redbook (YoY) |  |  | 6.5% |
 | 14:00 | BRL | Auto Production (MoM) (Aug) |  |  | 15.7% |
 | 14:00 | BRL | Auto Sales (MoM) (Aug) |  |  | 14.2% |
