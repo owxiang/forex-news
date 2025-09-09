@@ -17,17 +17,17 @@
 | 10:45 | EUR | Moderate | German 10-Year Bund Auction | 2.250% |  | 2.770% |
 | 11:00 | USD | Low | NFIB Small Business Optimism (Aug) | 100.8 | 100.5 | 100.3 |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 24 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 44 min | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
-| 54 min | MXN | Low | Core CPI (MoM) (Aug) |  | 0.20% | 0.31% |
-| 54 min | MXN | Moderate | CPI (YoY) (Aug) |  | 3.58% | 3.51% |
-| 54 min | MXN | Moderate | CPI (MoM) (Aug) |  | 0.06% | 0.27% |
-| 54 min | MXN | Low | Month Core Inflation (MoM) (Aug) |  | 4.21% | 4.23% |
-| 54 min | MXN | Low | PPI (MoM) (Aug) |  |  | -0.50% |
-| 54 min | MXN | Low | PPI (YoY) (Aug) |  |  | 3.80% |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 6.5% |
-| 14:00 | BRL | Low | Auto Production (MoM) (Aug) |  |  | 15.7% |
-| 14:00 | BRL | Low | Auto Sales (MoM) (Aug) |  |  | 14.2% |
+| 12:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 12:50 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
+| 13:00 | MXN | Low | Core CPI (MoM) (Aug) | 0.22% | 0.20% | 0.31% |
+| 13:00 | MXN | Moderate | CPI (YoY) (Aug) | 3.57% | 3.58% | 3.51% |
+| 13:00 | MXN | Moderate | CPI (MoM) (Aug) | 0.06% | 0.06% | 0.27% |
+| 13:00 | MXN | Low | Month Core Inflation (MoM) (Aug) | 4.23% | 4.21% | 4.23% |
+| 13:00 | MXN | Low | PPI (YoY) (Aug) |  |  | 3.80% |
+| 13:00 | MXN | Low | PPI (MoM) (Aug) |  |  | -0.50% |
+| 43 min | USD | Low | Redbook (YoY) |  |  | 6.5% |
+| 48 min | BRL | Low | Auto Production (MoM) (Aug) |  |  | 15.7% |
+| 48 min | BRL | Low | Auto Sales (MoM) (Aug) |  |  | 14.2% |
 | 15:00 | USD | Moderate | Payrolls Benchmark, n.s.a. |  |  | -598.00K |
 | 16:15 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
