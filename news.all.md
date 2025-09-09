@@ -12,16 +12,16 @@
 | 07:30 | IDR | Low | Car Sales (YoY) (Aug) | -19.00% |  | -18.00% |
 | 07:45 | EUR | Low | French Industrial Production (MoM) (Jul) | -1.1% | -1.4% | 3.7% |
 | 09:40 | EUR | Low | Spanish 3-Month Letras Auction | 1.909% |  | 1.929% |
-| 23 min | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.770% |
-| 23 min | ZAR | Moderate | GDP Annualized (QoQ) (Q2) |  |  | 0.1% |
-| 23 min | ZAR | Low | GDP (YoY) (Q2) |  |  | 0.8% |
-| 53 min | USD | Low | NFIB Small Business Optimism (Aug) |  | 100.5 | 100.3 |
-| 53 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 10:30 | ZAR | Low | GDP (YoY) (Q2) | 0.6% |  | 0.8% |
+| 10:30 | ZAR | Moderate | GDP Annualized (QoQ) (Q2) | 0.8% | 0.5% | 0.1% |
+| 10:45 | EUR | Moderate | German 10-Year Bund Auction | 2.250% |  | 2.770% |
+| 11:00 | USD | Low | NFIB Small Business Optimism (Aug) | 100.8 | 100.5 | 100.3 |
+| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 12:50 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 13:00 | MXN | Low | Core CPI (MoM) (Aug) |  | 0.20% | 0.31% |
-| 13:00 | MXN | Moderate | CPI (YoY) (Aug) |  | 3.58% | 3.51% |
 | 13:00 | MXN | Moderate | CPI (MoM) (Aug) |  | 0.06% | 0.27% |
+| 13:00 | MXN | Moderate | CPI (YoY) (Aug) |  | 3.58% | 3.51% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Aug) |  | 4.21% | 4.23% |
 | 13:00 | MXN | Low | PPI (YoY) (Aug) |  |  | 3.80% |
 | 13:00 | MXN | Low | PPI (MoM) (Aug) |  |  | -0.50% |

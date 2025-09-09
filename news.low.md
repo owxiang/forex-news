@@ -10,8 +10,8 @@
 | 07:30 | IDR | Car Sales (YoY) (Aug) | -19.00% |  | -18.00% |
 | 07:45 | EUR | French Industrial Production (MoM) (Jul) | -1.1% | -1.4% | 3.7% |
 | 09:40 | EUR | Spanish 3-Month Letras Auction | 1.909% |  | 1.929% |
-| 23 min | ZAR | GDP (YoY) (Q2) |  |  | 0.8% |
-| 53 min | USD | NFIB Small Business Optimism (Aug) |  | 100.5 | 100.3 |
+| 10:30 | ZAR | GDP (YoY) (Q2) | 0.6% |  | 0.8% |
+| 11:00 | USD | NFIB Small Business Optimism (Aug) | 100.8 | 100.5 | 100.3 |
 | 12:50 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 13:00 | MXN | Core CPI (MoM) (Aug) |  | 0.20% | 0.31% |
 | 13:00 | MXN | Month Core Inflation (MoM) (Aug) |  | 4.21% | 4.23% |
