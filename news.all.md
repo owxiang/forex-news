@@ -5,6 +5,7 @@
 | 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Aug) | 2.9% | 2.0% | 1.8% |
 | 00:50 | JPY | Low | M2 Money Stock (YoY) | 1.3% | 1.1% | 1.0% |
 | 00:50 | JPY | Low | M3 Money Supply (Aug) | 2,219.7B |  | 2,211.4B |
+| 01:30 | AUD | Low | Westpac Consumer Sentiment (Sep) | -3.1% |  | 5.7% |
 | 02:30 | AUD | Moderate | NAB Business Confidence (Aug) | 4 |  | 8 |
 | 02:30 | AUD | Low | NAB Business Survey (Aug) | 7 |  | 5 |
 | 07:00 | JPY | Low | Machine Tool Orders (YoY) (Aug) | 8.1% | 3.6% | -0.5% |
@@ -29,7 +30,7 @@
 | 15:00 | USD | Moderate | Payrolls Benchmark, n.s.a. | -911.00K |  | -598.00K |
 | 16:15 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
-| 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 3.669% |
+| 53 min | USD | Moderate | 3-Year Note Auction |  |  | 3.669% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 0.622M |
 | 23:45 | NZD | Low | External Migration & Visitors (Jul) |  |  | 0.80% |
 | 23:45 | NZD | Low | Permanent/Long-Term Migration (Jul) |  |  | 1,670 |

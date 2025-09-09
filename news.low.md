@@ -4,6 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | M2 Money Stock (YoY) | 1.3% | 1.1% | 1.0% |
 | 00:50 | JPY | M3 Money Supply (Aug) | 2,219.7B |  | 2,211.4B |
+| 01:30 | AUD | Westpac Consumer Sentiment (Sep) | -3.1% |  | 5.7% |
 | 02:30 | AUD | NAB Business Survey (Aug) | 7 |  | 5 |
 | 07:00 | JPY | Machine Tool Orders (YoY) (Aug) | 8.1% | 3.6% | -0.5% |
 | 07:00 | NOK | PPI (YoY) (Aug) | -3.0% |  | -0.3% |
