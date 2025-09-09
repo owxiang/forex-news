@@ -15,11 +15,9 @@
 | 12:50 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 13:00 | MXN | Core CPI (MoM) (Aug) | 0.22% | 0.20% | 0.31% |
 | 13:00 | MXN | Month Core Inflation (MoM) (Aug) | 4.23% | 4.21% | 4.23% |
-| 13:00 | MXN | PPI (YoY) (Aug) |  |  | 3.80% |
-| 13:00 | MXN | PPI (MoM) (Aug) |  |  | -0.50% |
-| 43 min | USD | Redbook (YoY) |  |  | 6.5% |
-| 48 min | BRL | Auto Production (MoM) (Aug) |  |  | 15.7% |
-| 48 min | BRL | Auto Sales (MoM) (Aug) |  |  | 14.2% |
+| 13:55 | USD | Redbook (YoY) | 6.6% |  | 6.5% |
+| 14:00 | BRL | Auto Production (MoM) (Aug) | 3.0% |  | 15.7% |
+| 14:00 | BRL | Auto Sales (MoM) (Aug) | -7.3% |  | 14.2% |
 | 16:15 | GBP | BoE Breeden Speaks |  |  |  |
 | 23:45 | NZD | External Migration & Visitors (Jul) |  |  | 0.80% |
 | 23:45 | NZD | Permanent/Long-Term Migration (Jul) |  |  | 1,670 |
