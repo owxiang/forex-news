@@ -11,8 +11,8 @@
 | 04:35 | JPY | Low | 5-Year JGB Auction | 1.119% |  | 1.056% |
 | 07:00 | NOK | Low | Core CPI YTD (Aug) | 3.1% | 3.1% | 3.1% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Aug) | -0.7% | -0.7% | 0.8% |
-| 07:00 | NOK | Low | CPI (MoM) (Aug) | -0.6% | -0.6% | 0.8% |
 | 07:00 | NOK | Low | CPI (YoY) (Aug) | 3.5% | 3.5% | 3.3% |
+| 07:00 | NOK | Low | CPI (MoM) (Aug) | -0.6% | -0.6% | 0.8% |
 | 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Jul) | 2.5% |  | 1.9% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Jul) | 0.9% |  | -0.7% |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Jul) | 0.4% | 0.1% | 0.2% |
