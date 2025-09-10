@@ -1,7 +1,12 @@
-## 10 September 2025 - High Impact Forex News
+## 11 September 2025 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:30 | USD | PPI (MoM) (Aug) | -0.1% | 0.3% | 0.7% |
-| 15:30 | USD | Crude Oil Inventories | 3.939M | -1.900M | 2.415M |
-| 18:00 | USD | 10-Year Note Auction | 4.033% |  | 4.255% |
+| 13:15 | EUR | Deposit Facility Rate (Sep) |  | 2.00% | 2.00% |
+| 13:15 | EUR | ECB Interest Rate Decision (Sep) |  | 2.15% | 2.15% |
+| 13:30 | USD | Core CPI (MoM) (Aug) |  | 0.3% | 0.3% |
+| 13:30 | USD | CPI (YoY) (Aug) |  | 2.9% | 2.7% |
+| 13:30 | USD | CPI (MoM) (Aug) |  | 0.3% | 0.2% |
+| 13:30 | USD | Initial Jobless Claims |  | 235K | 237K |
+| 13:45 | EUR | ECB Press Conference |  |  |  |
+| 18:00 | USD | 30-Year Bond Auction |  |  | 4.813% |

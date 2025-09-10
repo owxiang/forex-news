@@ -1,12 +1,18 @@
-## 10 September 2025 - Moderate Impact Forex News
+## 11 September 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | CNY | CPI (MoM) (Aug) | 0.0% | 0.1% | 0.4% |
-| 02:30 | CNY | CPI (YoY) (Aug) | -0.4% | -0.2% | 0.0% |
-| 02:30 | CNY | PPI (YoY) (Aug) | -2.9% | -2.9% | -3.6% |
-| 13:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 13:00 | BRL | CPI (YoY) (Aug) | 5.13% | 5.10% | 5.23% |
-| 13:30 | USD | Core PPI (MoM) (Aug) | -0.1% | 0.3% | 0.7% |
-| 15:30 | USD | Cushing Crude Oil Inventories | -0.365M |  | 1.590M |
-| 17:30 | USD | Atlanta Fed GDPNow (Q3) | 3.1% | 3.0% | 3.0% |
+| 44 min | JPY | BSI Large Manufacturing Conditions (Q3) |  | -3.3 | -4.8 |
+| 09:00 | USD | IEA Monthly Report |  |  |  |
+| 12:00 | USD | OPEC Monthly Report |  |  |  |
+| 13:00 | BRL | Retail Sales (YoY) (Jul) |  | 0.8% | 0.3% |
+| 13:00 | BRL | Retail Sales (MoM) (Jul) |  | -0.3% | -0.1% |
+| 13:15 | EUR | ECB Marginal Lending Facility |  |  | 2.40% |
+| 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
+| 13:30 | USD | Continuing Jobless Claims |  | 1,950K | 1,940K |
+| 13:30 | USD | Core CPI (YoY) (Aug) |  | 3.1% | 3.1% |
+| 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 19:00 | USD | Federal Budget Balance (Aug) |  | -305.7B | -291.0B |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 6,602B |
+| 23:30 | NZD | Business NZ PMI (Aug) |  |  | 52.8 |
+| 23:45 | NZD | Electronic Card Retail Sales (MoM) (Aug) |  |  | 0.2% |
