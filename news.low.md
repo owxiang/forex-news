@@ -5,7 +5,7 @@
 | 00:00 | KRW | Unemployment Rate (Aug) | 2.6% |  | 2.5% |
 | 00:00 | JPY | Reuters Tankan Index (Sep) | 13 |  | 9 |
 | 04:00 | IDR | Consumer Confidence (Aug) | 117.2 |  | 118.1 |
-| 20 min | JPY | 5-Year JGB Auction |  |  | 1.056% |
+| 04:35 | JPY | 5-Year JGB Auction |  |  | 1.056% |
 | 07:00 | NOK | Core CPI YTD (Aug) |  | 3.1% | 3.1% |
 | 07:00 | NOK | Core Inflation (MoM) (Aug) |  | -0.7% | 0.8% |
 | 07:00 | NOK | CPI (YoY) (Aug) |  | 3.5% | 3.3% |

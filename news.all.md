@@ -8,7 +8,7 @@
 | 02:30 | CNY | Moderate | CPI (YoY) (Aug) | -0.4% | -0.2% | 0.0% |
 | 02:30 | CNY | Moderate | PPI (YoY) (Aug) | -2.9% | -2.9% | -3.6% |
 | 04:00 | IDR | Low | Consumer Confidence (Aug) | 117.2 |  | 118.1 |
-| 20 min | JPY | Low | 5-Year JGB Auction |  |  | 1.056% |
+| 04:35 | JPY | Low | 5-Year JGB Auction |  |  | 1.056% |
 | 07:00 | NOK | Low | Core CPI YTD (Aug) |  | 3.1% | 3.1% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Aug) |  | -0.7% | 0.8% |
 | 07:00 | NOK | Low | CPI (YoY) (Aug) |  | 3.5% | 3.3% |
