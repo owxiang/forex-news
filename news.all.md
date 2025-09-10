@@ -30,26 +30,26 @@
 | 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Aug) | -0.04% |  | 0.35% |
 | 13:30 | USD | Moderate | Core PPI (MoM) (Aug) | -0.1% | 0.3% | 0.7% |
 | 13:30 | USD | Low | Core PPI (YoY) (Aug) | 2.8% | 3.5% | 3.4% |
-| 13:30 | USD | Low | PPI (YoY) (Aug) | 2.6% | 3.3% | 3.1% |
 | 13:30 | USD | High | PPI (MoM) (Aug) | -0.1% | 0.3% | 0.7% |
+| 13:30 | USD | Low | PPI (YoY) (Aug) | 2.6% | 3.3% | 3.1% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Aug) | 2.8% |  | 2.7% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Aug) | 0.3% |  | 0.6% |
-| 48 min | USD | Low | Wholesale Inventories (MoM) (Jul) |  | 0.2% | 0.1% |
-| 48 min | USD | Low | Wholesale Trade Sales (MoM) (Jul) |  |  | 0.3% |
-| 15:30 | USD | High | Crude Oil Inventories |  | -1.900M | 2.415M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.011M |
-| 15:30 | USD | Low | Crude Oil Imports |  |  | 0.434M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 1.590M |
-| 15:30 | USD | Low | Distillate Fuel Production |  |  | 0.036M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | 0.200M | 1.681M |
-| 15:30 | USD | Low | Gasoline Production |  |  | -0.109M |
-| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.557M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.3% |
-| 15:30 | USD | Low | Gasoline Inventories |  | -0.100M | -3.795M |
-| 16:00 | USD | Low | Thomson Reuters IPSOS PCSI (Sep) |  |  | 53.43 |
-| 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 47.70 |
-| 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 53.15 |
-| 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Sep) |  |  | 51.04 |
+| 15:00 | USD | Low | Wholesale Inventories (MoM) (Jul) | 0.1% | 0.2% | 0.1% |
+| 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Jul) | 1.4% |  | 0.7% |
+| 24 min | USD | High | Crude Oil Inventories |  | -1.900M | 2.415M |
+| 24 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.011M |
+| 24 min | USD | Low | Crude Oil Imports |  |  | 0.434M |
+| 24 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 1.590M |
+| 24 min | USD | Low | Distillate Fuel Production |  |  | 0.036M |
+| 24 min | USD | Low | EIA Weekly Distillates Stocks |  | 0.200M | 1.681M |
+| 24 min | USD | Low | Gasoline Production |  |  | -0.109M |
+| 24 min | USD | Low | Heating Oil Stockpiles |  |  | 0.557M |
+| 24 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.3% |
+| 24 min | USD | Low | Gasoline Inventories |  | -0.100M | -3.795M |
+| 54 min | USD | Low | Thomson Reuters IPSOS PCSI (Sep) |  |  | 53.43 |
+| 54 min | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 47.70 |
+| 54 min | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 53.15 |
+| 54 min | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Sep) |  |  | 51.04 |
 | 18:00 | USD | High | 10-Year Note Auction |  |  | 4.255% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 3.0% | 3.0% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.231B |

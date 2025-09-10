@@ -3,5 +3,5 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 13:30 | USD | PPI (MoM) (Aug) | -0.1% | 0.3% | 0.7% |
-| 15:30 | USD | Crude Oil Inventories |  | -1.900M | 2.415M |
+| 24 min | USD | Crude Oil Inventories |  | -1.900M | 2.415M |
 | 18:00 | USD | 10-Year Note Auction |  |  | 4.255% |
