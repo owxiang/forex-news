@@ -13,9 +13,9 @@
 | 07:00 | NOK | Low | Core Inflation (MoM) (Aug) | -0.7% | -0.7% | 0.8% |
 | 07:00 | NOK | Low | CPI (YoY) (Aug) | 3.5% | 3.5% | 3.3% |
 | 07:00 | NOK | Low | CPI (MoM) (Aug) | -0.6% | -0.6% | 0.8% |
-| 50 min | EUR | Low | Spanish Industrial Production (YoY) (Jul) |  |  | 2.3% |
-| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Jul) |  | 0.1% | 0.2% |
-| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Jul) |  |  | -0.9% |
+| 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Jul) | 2.5% |  | 1.9% |
+| 53 min | EUR | Low | Italian Industrial Production (MoM) (Jul) |  | 0.1% | 0.2% |
+| 53 min | EUR | Low | Italian Industrial Production (YoY) (Jul) |  |  | -0.9% |
 | 10:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.012% |
 | 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.64% |
@@ -24,8 +24,8 @@
 | 12:00 | USD | Low | Mortgage Market Index |  |  | 272.5 |
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 902.5 |
 | 12:45 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
-| 13:00 | MXN | Low | PPI (MoM) (Aug) |  |  | -0.50% |
 | 13:00 | MXN | Low | PPI (YoY) (Aug) |  |  | 3.80% |
+| 13:00 | MXN | Low | PPI (MoM) (Aug) |  |  | -0.50% |
 | 13:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 13:00 | BRL | Low | CPI (MoM) (Aug) |  | -0.15% | 0.26% |
 | 13:00 | BRL | Moderate | CPI (YoY) (Aug) |  | 5.10% | 5.23% |
