@@ -25,8 +25,8 @@
 | 13:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Aug) | -0.04% |  | 0.35% |
 | 13:30 | USD | Core PPI (YoY) (Aug) | 2.8% | 3.5% | 3.4% |
 | 13:30 | USD | PPI (YoY) (Aug) | 2.6% | 3.3% | 3.1% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Aug) | 0.3% |  | 0.6% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Aug) | 2.8% |  | 2.7% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Aug) | 0.3% |  | 0.6% |
 | 15:00 | USD | Wholesale Inventories (MoM) (Jul) | 0.1% | 0.2% | 0.1% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Jul) | 1.4% |  | 0.7% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) | -0.051M |  | -0.011M |
