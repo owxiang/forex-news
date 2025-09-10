@@ -13,8 +13,8 @@
 | 08:00 | EUR | Spanish Industrial Production (YoY) (Jul) | 2.5% |  | 1.9% |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Jul) | 0.4% | 0.1% | 0.2% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Jul) | 0.9% |  | -0.7% |
-| 10:10 | EUR | Italian 12-Month BOT Auction |  |  | 2.012% |
-| 11:00 | EUR | ECOFIN Meetings |  |  |  |
+| 3 min | EUR | Italian 12-Month BOT Auction |  |  | 2.012% |
+| 53 min | EUR | ECOFIN Meetings |  |  |  |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.64% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -1.2% |
 | 12:00 | USD | MBA Purchase Index |  |  | 158.7 |

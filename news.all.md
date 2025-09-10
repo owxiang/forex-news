@@ -16,8 +16,8 @@
 | 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Jul) | 2.5% |  | 1.9% |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Jul) | 0.4% | 0.1% | 0.2% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Jul) | 0.9% |  | -0.7% |
-| 10:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.012% |
-| 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
+| 3 min | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.012% |
+| 53 min | EUR | Low | ECOFIN Meetings |  |  |  |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.64% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -1.2% |
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 158.7 |
@@ -32,8 +32,8 @@
 | 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Aug) |  |  | 0.35% |
 | 13:30 | USD | Moderate | Core PPI (MoM) (Aug) |  | 0.3% | 0.9% |
 | 13:30 | USD | Low | Core PPI (YoY) (Aug) |  | 3.5% | 3.7% |
-| 13:30 | USD | Low | PPI (YoY) (Aug) |  | 3.3% | 3.3% |
 | 13:30 | USD | High | PPI (MoM) (Aug) |  | 0.3% | 0.9% |
+| 13:30 | USD | Low | PPI (YoY) (Aug) |  | 3.3% | 3.3% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Aug) |  |  | 0.6% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Aug) |  |  | 2.8% |
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (Jul) |  | 0.2% | 0.1% |
