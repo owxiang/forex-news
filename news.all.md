@@ -11,11 +11,11 @@
 | 04:35 | JPY | Low | 5-Year JGB Auction | 1.119% |  | 1.056% |
 | 07:00 | NOK | Low | Core CPI YTD (Aug) | 3.1% | 3.1% | 3.1% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Aug) | -0.7% | -0.7% | 0.8% |
-| 07:00 | NOK | Low | CPI (MoM) (Aug) | -0.6% | -0.6% | 0.8% |
 | 07:00 | NOK | Low | CPI (YoY) (Aug) | 3.5% | 3.5% | 3.3% |
+| 07:00 | NOK | Low | CPI (MoM) (Aug) | -0.6% | -0.6% | 0.8% |
 | 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Jul) | 2.5% |  | 1.9% |
-| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Jul) | 0.9% |  | -0.7% |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Jul) | 0.4% | 0.1% | 0.2% |
+| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Jul) | 0.9% |  | -0.7% |
 | 10:10 | EUR | Low | Italian 12-Month BOT Auction | 2.030% |  | 2.012% |
 | 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.49% |  | 6.64% |
@@ -25,17 +25,17 @@
 | 12:00 | USD | Low | Mortgage Refinance Index | 1,012.4 |  | 902.5 |
 | 12:45 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 13:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 13:00 | BRL | Moderate | CPI (YoY) (Aug) | 5.13% | 5.10% | 5.23% |
 | 13:00 | BRL | Low | CPI (MoM) (Aug) | -0.11% | -0.15% | 0.26% |
+| 13:00 | BRL | Moderate | CPI (YoY) (Aug) | 5.13% | 5.10% | 5.23% |
 | 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Aug) | -0.04% |  | 0.35% |
-| 19 min | USD | Moderate | Core PPI (MoM) (Aug) |  | 0.3% | 0.9% |
-| 19 min | USD | Low | Core PPI (YoY) (Aug) |  | 3.5% | 3.7% |
-| 19 min | USD | High | PPI (MoM) (Aug) |  | 0.3% | 0.9% |
-| 19 min | USD | Low | PPI (YoY) (Aug) |  | 3.3% | 3.3% |
-| 19 min | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Aug) |  |  | 0.6% |
-| 19 min | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Aug) |  |  | 2.8% |
-| 15:00 | USD | Low | Wholesale Inventories (MoM) (Jul) |  | 0.2% | 0.1% |
-| 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Jul) |  |  | 0.3% |
+| 13:30 | USD | Moderate | Core PPI (MoM) (Aug) | -0.1% | 0.3% | 0.7% |
+| 13:30 | USD | Low | Core PPI (YoY) (Aug) | 2.8% | 3.5% | 3.4% |
+| 13:30 | USD | Low | PPI (YoY) (Aug) | 2.6% | 3.3% | 3.1% |
+| 13:30 | USD | High | PPI (MoM) (Aug) | -0.1% | 0.3% | 0.7% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Aug) | 2.8% |  | 2.7% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Aug) | 0.3% |  | 0.6% |
+| 48 min | USD | Low | Wholesale Inventories (MoM) (Jul) |  | 0.2% | 0.1% |
+| 48 min | USD | Low | Wholesale Trade Sales (MoM) (Jul) |  |  | 0.3% |
 | 15:30 | USD | High | Crude Oil Inventories |  | -1.900M | 2.415M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.011M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 0.434M |

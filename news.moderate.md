@@ -7,6 +7,6 @@
 | 02:30 | CNY | PPI (YoY) (Aug) | -2.9% | -2.9% | -3.6% |
 | 13:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 13:00 | BRL | CPI (YoY) (Aug) | 5.13% | 5.10% | 5.23% |
-| 19 min | USD | Core PPI (MoM) (Aug) |  | 0.3% | 0.9% |
+| 13:30 | USD | Core PPI (MoM) (Aug) | -0.1% | 0.3% | 0.7% |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | 1.590M |
 | 18:00 | USD | Atlanta Fed GDPNow (Q3) |  | 3.0% | 3.0% |
