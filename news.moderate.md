@@ -9,4 +9,4 @@
 | 13:00 | BRL | CPI (YoY) (Aug) | 5.13% | 5.10% | 5.23% |
 | 13:30 | USD | Core PPI (MoM) (Aug) | -0.1% | 0.3% | 0.7% |
 | 15:30 | USD | Cushing Crude Oil Inventories | -0.365M |  | 1.590M |
-| 52 min | USD | Atlanta Fed GDPNow (Q3) |  | 3.0% | 3.0% |
+| 17:30 | USD | Atlanta Fed GDPNow (Q3) | 3.1% | 3.0% | 3.0% |

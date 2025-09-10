@@ -41,4 +41,4 @@
 | 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Sep) | 47.79 |  | 47.70 |
 | 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Sep) | 52.74 |  | 53.15 |
 | 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Sep) | 51.66 |  | 51.04 |
-| 18:30 | BRL | Foreign Exchange Flows |  |  | -0.231B |
+| 24 min | BRL | Foreign Exchange Flows |  |  | -0.231B |
