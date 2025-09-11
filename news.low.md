@@ -20,8 +20,8 @@
 | 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Sep) | 39.89 |  | 39.70 |
 | 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Sep) | 48.97 |  | 50.88 |
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Sep) | 47.10 |  | 43.45 |
-| 12:00 | ZAR | Manufacturing Production (MoM) (Jul) | -0.5% |  | 0.4% |
 | 12:00 | ZAR | Manufacturing Production (YoY) (Jul) | -0.7% |  | 1.9% |
+| 12:00 | ZAR | Manufacturing Production (MoM) (Jul) | -0.5% |  | 0.4% |
 | 13:00 | MXN | Industrial Production (MoM) (Jul) | -1.2% | -0.2% | -0.3% |
 | 13:00 | MXN | Industrial Production (YoY) (Jul) | -2.7% | -0.9% | -0.4% |
 | 13:00 | EUR | German Current Account Balance n.s.a (Jul) | 14.8B |  | 17.1B |
