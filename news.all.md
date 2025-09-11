@@ -5,10 +5,10 @@
 | 00:50 | JPY | Moderate | BSI Large Manufacturing Conditions (Q3) | 3.8 | -3.3 | -4.8 |
 | 00:50 | JPY | Low | Foreign Bonds Buying | 245.1B |  | 1,419.9B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 108.6B |  | -785.7B |
-| 00:50 | JPY | Low | PPI (MoM) (Aug) | -0.2% | -0.1% | 0.3% |
 | 00:50 | JPY | Low | PPI (YoY) (Aug) | 2.7% | 2.7% | 2.5% |
+| 00:50 | JPY | Low | PPI (MoM) (Aug) | -0.2% | -0.1% | 0.3% |
 | 02:00 | AUD | Low | MI Inflation Expectations (Sep) | 4.7% |  | 3.9% |
-| 26 min | IDR | Low | Retail Sales (YoY) (Jul) |  |  | 1.3% |
+| 27 min | IDR | Low | Retail Sales (YoY) (Jul) |  |  | 1.3% |
 | 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
 | 10:00 | ZAR | Low | Current Account (Q2) |  |  | -35.6B |
 | 10:00 | ZAR | Low | Current Account % of GDP (Q2) |  |  | -0.50% |
@@ -25,8 +25,8 @@
 | 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 12:00 | ZAR | Low | Manufacturing Production (YoY) (Jul) |  |  | 1.9% |
 | 12:00 | ZAR | Low | Manufacturing Production (MoM) (Jul) |  |  | 0.0% |
-| 13:00 | MXN | Low | Industrial Production (MoM) (Jul) |  | -0.2% | -0.1% |
 | 13:00 | MXN | Low | Industrial Production (YoY) (Jul) |  | -0.9% | -0.4% |
+| 13:00 | MXN | Low | Industrial Production (MoM) (Jul) |  | -0.2% | -0.1% |
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (Jul) |  | -0.3% | -0.1% |
 | 13:00 | BRL | Moderate | Retail Sales (YoY) (Jul) |  | 0.8% | 0.3% |
 | 13:15 | EUR | High | Deposit Facility Rate (Sep) |  | 2.00% | 2.00% |
@@ -37,8 +37,8 @@
 | 13:30 | USD | High | Core CPI (MoM) (Aug) |  | 0.3% | 0.3% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Aug) |  | 3.1% | 3.1% |
 | 13:30 | USD | Low | Core CPI Index (Aug) |  |  | 328.66 |
-| 13:30 | USD | High | CPI (YoY) (Aug) |  | 2.9% | 2.7% |
 | 13:30 | USD | High | CPI (MoM) (Aug) |  | 0.3% | 0.2% |
+| 13:30 | USD | High | CPI (YoY) (Aug) |  | 2.9% | 2.7% |
 | 13:30 | USD | Low | CPI Index, n.s.a. (Aug) |  | 323.89 | 323.05 |
 | 13:30 | USD | Low | CPI Index, s.a (Aug) |  |  | 322.13 |
 | 13:30 | USD | Low | CPI, n.s.a (MoM) (Aug) |  |  | 0.15% |

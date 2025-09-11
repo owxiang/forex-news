@@ -4,10 +4,10 @@
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Foreign Bonds Buying | 245.1B |  | 1,419.9B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 108.6B |  | -785.7B |
-| 00:50 | JPY | PPI (MoM) (Aug) | -0.2% | -0.1% | 0.3% |
 | 00:50 | JPY | PPI (YoY) (Aug) | 2.7% | 2.7% | 2.5% |
+| 00:50 | JPY | PPI (MoM) (Aug) | -0.2% | -0.1% | 0.3% |
 | 02:00 | AUD | MI Inflation Expectations (Sep) | 4.7% |  | 3.9% |
-| 26 min | IDR | Retail Sales (YoY) (Jul) |  |  | 1.3% |
+| 27 min | IDR | Retail Sales (YoY) (Jul) |  |  | 1.3% |
 | 10:00 | ZAR | Current Account (Q2) |  |  | -35.6B |
 | 10:00 | ZAR | Current Account % of GDP (Q2) |  |  | -0.50% |
 | 10:10 | EUR | Italian 3-Year BTP Auction |  |  | 2.47% |
@@ -22,8 +22,8 @@
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 43.45 |
 | 12:00 | ZAR | Manufacturing Production (YoY) (Jul) |  |  | 1.9% |
 | 12:00 | ZAR | Manufacturing Production (MoM) (Jul) |  |  | 0.0% |
-| 13:00 | MXN | Industrial Production (MoM) (Jul) |  | -0.2% | -0.1% |
 | 13:00 | MXN | Industrial Production (YoY) (Jul) |  | -0.9% | -0.4% |
+| 13:00 | MXN | Industrial Production (MoM) (Jul) |  | -0.2% | -0.1% |
 | 13:30 | USD | Core CPI Index (Aug) |  |  | 328.66 |
 | 13:30 | USD | CPI Index, n.s.a. (Aug) |  | 323.89 | 323.05 |
 | 13:30 | USD | CPI Index, s.a (Aug) |  |  | 322.13 |
