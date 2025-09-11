@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | BSI Large Manufacturing Conditions (Q3) | 3.8 | -3.3 | -4.8 |
-| 09:00 | USD | IEA Monthly Report |  |  |  |
+| 53 min | USD | IEA Monthly Report |  |  |  |
 | 12:00 | USD | OPEC Monthly Report |  |  |  |
 | 13:00 | BRL | Retail Sales (MoM) (Jul) |  | -0.3% | -0.1% |
 | 13:00 | BRL | Retail Sales (YoY) (Jul) |  | 0.8% | 0.3% |

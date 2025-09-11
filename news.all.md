@@ -9,7 +9,7 @@
 | 00:50 | JPY | Low | PPI (YoY) (Aug) | 2.7% | 2.7% | 2.5% |
 | 02:00 | AUD | Low | MI Inflation Expectations (Sep) | 4.7% |  | 3.9% |
 | 04:00 | IDR | Low | Retail Sales (YoY) (Jul) | 4.7% |  | 1.3% |
-| 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
+| 53 min | USD | Moderate | IEA Monthly Report |  |  |  |
 | 10:00 | ZAR | Low | Current Account (Q2) |  |  | -35.6B |
 | 10:00 | ZAR | Low | Current Account % of GDP (Q2) |  |  | -0.50% |
 | 10:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 2.47% |
