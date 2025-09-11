@@ -11,7 +11,7 @@
 | 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims | 1,939K | 1,950K | 1,939K |
 | 13:30 | USD | Core CPI (YoY) (Aug) | 3.1% | 3.1% | 3.1% |
-| 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 8 min | EUR | ECB President Lagarde Speaks |  |  |  |
 | 19:00 | USD | Federal Budget Balance (Aug) |  | -305.7B | -291.0B |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,602B |
 | 23:30 | NZD | Business NZ PMI (Aug) |  |  | 52.8 |
