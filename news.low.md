@@ -10,20 +10,20 @@
 | 04:00 | IDR | Retail Sales (YoY) (Jul) | 4.7% |  | 1.3% |
 | 10:00 | ZAR | Current Account (Q2) | -82.8B |  | -47.8B |
 | 10:00 | ZAR | Current Account % of GDP (Q2) | -1.10% |  | -0.60% |
-| 4 min | EUR | Italian 3-Year BTP Auction |  |  | 2.47% |
-| 4 min | EUR | Italian 7-Year BTP Auction |  |  | 3.17% |
-| 24 min | ZAR | Gold Production (YoY) (Jul) |  |  | 3.1% |
-| 24 min | ZAR | Mining Production (Jul) |  |  | 2.4% |
-| 54 min | GBP | Thomson Reuters IPSOS PCSI (Sep) |  |  | 50.6 |
-| 54 min | EUR | Italy Thomson Reuters IPSOS PCSI (Sep) |  |  | 45.42 |
-| 54 min | EUR | Germany Thomson Reuters IPSOS PCSI (Sep) |  |  | 46.87 |
-| 54 min | EUR | France Thomson Reuters IPSOS PCSI (Sep) |  |  | 39.70 |
-| 54 min | EUR | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 50.88 |
-| 54 min | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 43.45 |
-| 12:00 | ZAR | Manufacturing Production (YoY) (Jul) |  |  | 1.9% |
-| 12:00 | ZAR | Manufacturing Production (MoM) (Jul) |  |  | 0.0% |
-| 13:00 | MXN | Industrial Production (YoY) (Jul) |  | -0.9% | -0.4% |
+| 10:10 | EUR | Italian 3-Year BTP Auction | 2.44% |  | 2.47% |
+| 10:10 | EUR | Italian 7-Year BTP Auction | 2.76% |  | 3.17% |
+| 10:30 | ZAR | Gold Production (YoY) (Jul) | -0.4% |  | 2.9% |
+| 10:30 | ZAR | Mining Production (Jul) | 4.4% |  | 2.5% |
+| 11:00 | GBP | Thomson Reuters IPSOS PCSI (Sep) | 49.9 |  | 50.6 |
+| 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Sep) | 47.13 |  | 45.42 |
+| 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Sep) | 47.00 |  | 46.87 |
+| 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Sep) | 39.89 |  | 39.70 |
+| 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Sep) | 48.97 |  | 50.88 |
+| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Sep) | 47.10 |  | 43.45 |
+| 53 min | ZAR | Manufacturing Production (YoY) (Jul) |  |  | 1.9% |
+| 53 min | ZAR | Manufacturing Production (MoM) (Jul) |  |  | 0.0% |
 | 13:00 | MXN | Industrial Production (MoM) (Jul) |  | -0.2% | -0.1% |
+| 13:00 | MXN | Industrial Production (YoY) (Jul) |  | -0.9% | -0.4% |
 | 13:30 | USD | Core CPI Index (Aug) |  |  | 328.66 |
 | 13:30 | USD | CPI Index, n.s.a. (Aug) |  | 323.89 | 323.05 |
 | 13:30 | USD | CPI Index, s.a (Aug) |  |  | 322.13 |
