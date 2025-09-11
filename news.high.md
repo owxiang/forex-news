@@ -9,4 +9,4 @@
 | 13:30 | USD | CPI (MoM) (Aug) | 0.4% | 0.3% | 0.2% |
 | 13:30 | USD | Initial Jobless Claims | 263K | 235K | 236K |
 | 13:45 | EUR | ECB Press Conference |  |  |  |
-| 18:00 | USD | 30-Year Bond Auction |  |  | 4.813% |
+| 52 min | USD | 30-Year Bond Auction |  |  | 4.813% |

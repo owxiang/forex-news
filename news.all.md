@@ -23,8 +23,8 @@
 | 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) | 48.97 |  | 50.88 |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) | 47.10 |  | 43.45 |
 | 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
-| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Jul) | -0.7% |  | 1.9% |
 | 12:00 | ZAR | Low | Manufacturing Production (MoM) (Jul) | -0.5% |  | 0.4% |
+| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Jul) | -0.7% |  | 1.9% |
 | 13:00 | MXN | Low | Industrial Production (MoM) (Jul) | -1.2% | -0.2% | -0.3% |
 | 13:00 | MXN | Low | Industrial Production (YoY) (Jul) | -2.7% | -0.9% | -0.4% |
 | 13:00 | EUR | Low | German Current Account Balance n.s.a (Jul) | 14.8B |  | 17.1B |
@@ -50,9 +50,9 @@
 | 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage | 71B | 69B | 55B |
 | 16:00 | USD | Low | Cleveland CPI (MoM) (Aug) | 0.3% |  | 0.3% |
-| 24 min | USD | Low | 4-Week Bill Auction |  |  | 4.175% |
-| 24 min | USD | Low | 8-Week Bill Auction |  |  | 4.100% |
-| 18:00 | USD | High | 30-Year Bond Auction |  |  | 4.813% |
+| 16:30 | USD | Low | 4-Week Bill Auction | 4.060% |  | 4.175% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 4.000% |  | 4.100% |
+| 52 min | USD | High | 30-Year Bond Auction |  |  | 4.813% |
 | 19:00 | USD | Moderate | Federal Budget Balance (Aug) |  | -305.7B | -291.0B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,602B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.168T |
