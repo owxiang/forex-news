@@ -24,13 +24,13 @@
 | 12:00 | ZAR | Manufacturing Production (MoM) (Jul) | -0.5% |  | 0.4% |
 | 13:00 | MXN | Industrial Production (MoM) (Jul) | -1.2% | -0.2% | -0.3% |
 | 13:00 | MXN | Industrial Production (YoY) (Jul) | -2.7% | -0.9% | -0.4% |
-| 19 min | USD | Core CPI Index (Aug) |  |  | 328.66 |
-| 19 min | USD | CPI Index, n.s.a. (Aug) |  | 323.89 | 323.05 |
-| 19 min | USD | CPI Index, s.a (Aug) |  |  | 322.13 |
-| 19 min | USD | CPI, n.s.a (MoM) (Aug) |  |  | 0.15% |
-| 19 min | USD | Jobless Claims 4-Week Avg. |  |  | 231.00K |
-| 19 min | USD | Real Earnings (MoM) (Aug) |  |  | 0.4% |
-| 34 min | EUR | German Current Account Balance n.s.a (Jul) |  |  | 18.6B |
+| 13:30 | USD | Core CPI Index (Aug) | 329.79 |  | 328.66 |
+| 13:30 | USD | CPI Index, n.s.a. (Aug) | 323.98 | 323.89 | 323.05 |
+| 13:30 | USD | CPI Index, s.a (Aug) | 323.98 |  | 322.13 |
+| 13:30 | USD | CPI, n.s.a (MoM) (Aug) | 0.29% |  | 0.15% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 240.50K |  | 230.75K |
+| 13:30 | USD | Real Earnings (MoM) (Aug) | -0.1% |  | 0.1% |
+| 13:30 | EUR | German Current Account Balance n.s.a (Jul) | 14.8B |  | 18.6B |
 | 15:30 | USD | Natural Gas Storage |  | 69B | 55B |
 | 16:00 | USD | Cleveland CPI (MoM) (Aug) |  |  | 0.3% |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.175% |

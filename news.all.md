@@ -27,26 +27,26 @@
 | 12:00 | ZAR | Low | Manufacturing Production (MoM) (Jul) | -0.5% |  | 0.4% |
 | 13:00 | MXN | Low | Industrial Production (MoM) (Jul) | -1.2% | -0.2% | -0.3% |
 | 13:00 | MXN | Low | Industrial Production (YoY) (Jul) | -2.7% | -0.9% | -0.4% |
-| 13:00 | BRL | Moderate | Retail Sales (YoY) (Jul) | 1.0% | 0.8% | 0.3% |
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (Jul) | -0.3% | -0.3% | -0.1% |
-| 4 min | EUR | High | Deposit Facility Rate (Sep) |  | 2.00% | 2.00% |
-| 4 min | EUR | Moderate | ECB Marginal Lending Facility |  |  | 2.40% |
-| 4 min | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
-| 4 min | EUR | High | ECB Interest Rate Decision (Sep) |  | 2.15% | 2.15% |
-| 19 min | USD | Moderate | Continuing Jobless Claims |  | 1,950K | 1,940K |
-| 19 min | USD | High | Core CPI (MoM) (Aug) |  | 0.3% | 0.3% |
-| 19 min | USD | Moderate | Core CPI (YoY) (Aug) |  | 3.1% | 3.1% |
-| 19 min | USD | Low | Core CPI Index (Aug) |  |  | 328.66 |
-| 19 min | USD | High | CPI (MoM) (Aug) |  | 0.3% | 0.2% |
-| 19 min | USD | High | CPI (YoY) (Aug) |  | 2.9% | 2.7% |
-| 19 min | USD | Low | CPI Index, n.s.a. (Aug) |  | 323.89 | 323.05 |
-| 19 min | USD | Low | CPI Index, s.a (Aug) |  |  | 322.13 |
-| 19 min | USD | Low | CPI, n.s.a (MoM) (Aug) |  |  | 0.15% |
-| 19 min | USD | High | Initial Jobless Claims |  | 235K | 237K |
-| 19 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 231.00K |
-| 19 min | USD | Low | Real Earnings (MoM) (Aug) |  |  | 0.4% |
-| 34 min | EUR | Low | German Current Account Balance n.s.a (Jul) |  |  | 18.6B |
-| 34 min | EUR | High | ECB Press Conference |  |  |  |
+| 13:00 | BRL | Moderate | Retail Sales (YoY) (Jul) | 1.0% | 0.8% | 0.4% |
+| 13:15 | EUR | High | Deposit Facility Rate (Sep) | 2.00% | 2.00% | 2.00% |
+| 13:15 | EUR | Moderate | ECB Marginal Lending Facility | 2.40% |  | 2.40% |
+| 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
+| 13:15 | EUR | High | ECB Interest Rate Decision (Sep) | 2.15% | 2.15% | 2.15% |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,939K | 1,950K | 1,939K |
+| 13:30 | USD | High | Core CPI (MoM) (Aug) | 0.3% | 0.3% | 0.3% |
+| 13:30 | USD | Moderate | Core CPI (YoY) (Aug) | 3.1% | 3.1% | 3.1% |
+| 13:30 | USD | Low | Core CPI Index (Aug) | 329.79 |  | 328.66 |
+| 13:30 | USD | High | CPI (MoM) (Aug) | 0.4% | 0.3% | 0.2% |
+| 13:30 | USD | High | CPI (YoY) (Aug) | 2.9% | 2.9% | 2.7% |
+| 13:30 | USD | Low | CPI Index, n.s.a. (Aug) | 323.98 | 323.89 | 323.05 |
+| 13:30 | USD | Low | CPI Index, s.a (Aug) | 323.98 |  | 322.13 |
+| 13:30 | USD | Low | CPI, n.s.a (MoM) (Aug) | 0.29% |  | 0.15% |
+| 13:30 | USD | High | Initial Jobless Claims | 263K | 235K | 236K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 240.50K |  | 230.75K |
+| 13:30 | USD | Low | Real Earnings (MoM) (Aug) | -0.1% |  | 0.1% |
+| 13:30 | EUR | Low | German Current Account Balance n.s.a (Jul) | 14.8B |  | 18.6B |
+| 13:45 | EUR | High | ECB Press Conference |  |  |  |
 | 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage |  | 69B | 55B |
 | 16:00 | USD | Low | Cleveland CPI (MoM) (Aug) |  |  | 0.3% |
