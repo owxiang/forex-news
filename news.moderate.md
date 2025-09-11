@@ -5,8 +5,8 @@
 | 00:50 | JPY | BSI Large Manufacturing Conditions (Q3) | 3.8 | -3.3 | -4.8 |
 | 09:00 | USD | IEA Monthly Report |  |  |  |
 | 12:00 | USD | OPEC Monthly Report |  |  |  |
-| 13:00 | BRL | Retail Sales (MoM) (Jul) | -0.3% | -0.3% | -0.1% |
 | 13:00 | BRL | Retail Sales (YoY) (Jul) | 1.0% | 0.8% | 0.4% |
+| 13:00 | BRL | Retail Sales (MoM) (Jul) | -0.3% | -0.3% | -0.1% |
 | 13:15 | EUR | ECB Marginal Lending Facility | 2.40% |  | 2.40% |
 | 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims | 1,939K | 1,950K | 1,939K |
