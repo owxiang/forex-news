@@ -22,13 +22,13 @@
 | 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Sep) | 39.89 |  | 39.70 |
 | 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) | 48.97 |  | 50.88 |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) | 47.10 |  | 43.45 |
-| 53 min | USD | Moderate | OPEC Monthly Report |  |  |  |
-| 53 min | ZAR | Low | Manufacturing Production (YoY) (Jul) |  |  | 1.9% |
-| 53 min | ZAR | Low | Manufacturing Production (MoM) (Jul) |  |  | 0.0% |
-| 13:00 | MXN | Low | Industrial Production (MoM) (Jul) |  | -0.2% | -0.1% |
-| 13:00 | MXN | Low | Industrial Production (YoY) (Jul) |  | -0.9% | -0.4% |
-| 13:00 | BRL | Moderate | Retail Sales (YoY) (Jul) |  | 0.8% | 0.3% |
-| 13:00 | BRL | Moderate | Retail Sales (MoM) (Jul) |  | -0.3% | -0.1% |
+| 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
+| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Jul) | -0.7% |  | 1.9% |
+| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Jul) | -0.5% |  | 0.4% |
+| 54 min | MXN | Low | Industrial Production (YoY) (Jul) |  | -0.9% | -0.4% |
+| 54 min | MXN | Low | Industrial Production (MoM) (Jul) |  | -0.2% | -0.1% |
+| 54 min | BRL | Moderate | Retail Sales (MoM) (Jul) |  | -0.3% | -0.1% |
+| 54 min | BRL | Moderate | Retail Sales (YoY) (Jul) |  | 0.8% | 0.3% |
 | 13:15 | EUR | High | Deposit Facility Rate (Sep) |  | 2.00% | 2.00% |
 | 13:15 | EUR | Moderate | ECB Marginal Lending Facility |  |  | 2.40% |
 | 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
@@ -37,8 +37,8 @@
 | 13:30 | USD | High | Core CPI (MoM) (Aug) |  | 0.3% | 0.3% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Aug) |  | 3.1% | 3.1% |
 | 13:30 | USD | Low | Core CPI Index (Aug) |  |  | 328.66 |
-| 13:30 | USD | High | CPI (YoY) (Aug) |  | 2.9% | 2.7% |
 | 13:30 | USD | High | CPI (MoM) (Aug) |  | 0.3% | 0.2% |
+| 13:30 | USD | High | CPI (YoY) (Aug) |  | 2.9% | 2.7% |
 | 13:30 | USD | Low | CPI Index, n.s.a. (Aug) |  | 323.89 | 323.05 |
 | 13:30 | USD | Low | CPI Index, s.a (Aug) |  |  | 322.13 |
 | 13:30 | USD | Low | CPI, n.s.a (MoM) (Aug) |  |  | 0.15% |
@@ -57,5 +57,5 @@
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,602B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.168T |
 | 23:30 | NZD | Moderate | Business NZ PMI (Aug) |  |  | 52.8 |
-| 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Aug) |  |  | 0.2% |
 | 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Aug) |  |  | 1.7% |
+| 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Aug) |  |  | 0.2% |

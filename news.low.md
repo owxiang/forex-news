@@ -20,10 +20,10 @@
 | 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Sep) | 39.89 |  | 39.70 |
 | 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Sep) | 48.97 |  | 50.88 |
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Sep) | 47.10 |  | 43.45 |
-| 53 min | ZAR | Manufacturing Production (YoY) (Jul) |  |  | 1.9% |
-| 53 min | ZAR | Manufacturing Production (MoM) (Jul) |  |  | 0.0% |
-| 13:00 | MXN | Industrial Production (MoM) (Jul) |  | -0.2% | -0.1% |
-| 13:00 | MXN | Industrial Production (YoY) (Jul) |  | -0.9% | -0.4% |
+| 12:00 | ZAR | Manufacturing Production (YoY) (Jul) | -0.7% |  | 1.9% |
+| 12:00 | ZAR | Manufacturing Production (MoM) (Jul) | -0.5% |  | 0.4% |
+| 54 min | MXN | Industrial Production (YoY) (Jul) |  | -0.9% | -0.4% |
+| 54 min | MXN | Industrial Production (MoM) (Jul) |  | -0.2% | -0.1% |
 | 13:30 | USD | Core CPI Index (Aug) |  |  | 328.66 |
 | 13:30 | USD | CPI Index, n.s.a. (Aug) |  | 323.89 | 323.05 |
 | 13:30 | USD | CPI Index, s.a (Aug) |  |  | 322.13 |
