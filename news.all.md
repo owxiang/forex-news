@@ -38,8 +38,8 @@
 | 13:30 | USD | High | Core CPI (MoM) (Aug) | 0.3% | 0.3% | 0.3% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Aug) | 3.1% | 3.1% | 3.1% |
 | 13:30 | USD | Low | Core CPI Index (Aug) | 329.79 |  | 328.66 |
-| 13:30 | USD | High | CPI (MoM) (Aug) | 0.4% | 0.3% | 0.2% |
 | 13:30 | USD | High | CPI (YoY) (Aug) | 2.9% | 2.9% | 2.7% |
+| 13:30 | USD | High | CPI (MoM) (Aug) | 0.4% | 0.3% | 0.2% |
 | 13:30 | USD | Low | CPI Index, n.s.a. (Aug) | 323.98 | 323.89 | 323.05 |
 | 13:30 | USD | Low | CPI Index, s.a (Aug) | 323.98 |  | 322.13 |
 | 13:30 | USD | Low | CPI, n.s.a (MoM) (Aug) | 0.29% |  | 0.15% |
@@ -47,11 +47,11 @@
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 240.50K |  | 230.75K |
 | 13:30 | USD | Low | Real Earnings (MoM) (Aug) | -0.1% |  | 0.1% |
 | 13:45 | EUR | High | ECB Press Conference |  |  |  |
-| 8 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 23 min | USD | Low | Natural Gas Storage |  | 69B | 55B |
-| 53 min | USD | Low | Cleveland CPI (MoM) (Aug) |  |  | 0.3% |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.175% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.100% |
+| 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 15:30 | USD | Low | Natural Gas Storage | 71B | 69B | 55B |
+| 16:00 | USD | Low | Cleveland CPI (MoM) (Aug) | 0.3% |  | 0.3% |
+| 24 min | USD | Low | 4-Week Bill Auction |  |  | 4.175% |
+| 24 min | USD | Low | 8-Week Bill Auction |  |  | 4.100% |
 | 18:00 | USD | High | 30-Year Bond Auction |  |  | 4.813% |
 | 19:00 | USD | Moderate | Federal Budget Balance (Aug) |  | -305.7B | -291.0B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,602B |

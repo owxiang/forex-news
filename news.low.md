@@ -31,9 +31,9 @@
 | 13:30 | USD | CPI, n.s.a (MoM) (Aug) | 0.29% |  | 0.15% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 240.50K |  | 230.75K |
 | 13:30 | USD | Real Earnings (MoM) (Aug) | -0.1% |  | 0.1% |
-| 23 min | USD | Natural Gas Storage |  | 69B | 55B |
-| 53 min | USD | Cleveland CPI (MoM) (Aug) |  |  | 0.3% |
-| 16:30 | USD | 4-Week Bill Auction |  |  | 4.175% |
-| 16:30 | USD | 8-Week Bill Auction |  |  | 4.100% |
+| 15:30 | USD | Natural Gas Storage | 71B | 69B | 55B |
+| 16:00 | USD | Cleveland CPI (MoM) (Aug) | 0.3% |  | 0.3% |
+| 24 min | USD | 4-Week Bill Auction |  |  | 4.175% |
+| 24 min | USD | 8-Week Bill Auction |  |  | 4.100% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.168T |
 | 23:45 | NZD | Electronic Card Retail Sales (YoY) (Aug) |  |  | 1.7% |
