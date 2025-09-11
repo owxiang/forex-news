@@ -14,5 +14,5 @@
 | 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 19:00 | USD | Federal Budget Balance (Aug) | -345.0B | -305.7B | -291.0B |
 | 21:30 | USD | Fed's Balance Sheet | 6,606B |  | 6,602B |
-| 23:30 | NZD | Business NZ PMI (Aug) |  |  | 52.8 |
-| 23:45 | NZD | Electronic Card Retail Sales (MoM) (Aug) |  |  | 0.2% |
+| 24 min | NZD | Business NZ PMI (Aug) |  |  | 52.8 |
+| 39 min | NZD | Electronic Card Retail Sales (MoM) (Aug) |  |  | 0.2% |
