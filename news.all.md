@@ -5,8 +5,8 @@
 | 00:50 | JPY | Moderate | BSI Large Manufacturing Conditions (Q3) | 3.8 | -3.3 | -4.8 |
 | 00:50 | JPY | Low | Foreign Bonds Buying | 245.1B |  | 1,419.9B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 108.6B |  | -785.7B |
-| 00:50 | JPY | Low | PPI (MoM) (Aug) | -0.2% | -0.1% | 0.3% |
 | 00:50 | JPY | Low | PPI (YoY) (Aug) | 2.7% | 2.7% | 2.5% |
+| 00:50 | JPY | Low | PPI (MoM) (Aug) | -0.2% | -0.1% | 0.3% |
 | 02:00 | AUD | Low | MI Inflation Expectations (Sep) | 4.7% |  | 3.9% |
 | 04:00 | IDR | Low | Retail Sales (YoY) (Jul) | 4.7% |  | 1.3% |
 | 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
@@ -23,8 +23,8 @@
 | 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 50.88 |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 43.45 |
 | 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
-| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Jul) |  |  | 0.0% |
 | 12:00 | ZAR | Low | Manufacturing Production (YoY) (Jul) |  |  | 1.9% |
+| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Jul) |  |  | 0.0% |
 | 13:00 | MXN | Low | Industrial Production (MoM) (Jul) |  | -0.2% | -0.1% |
 | 13:00 | MXN | Low | Industrial Production (YoY) (Jul) |  | -0.9% | -0.4% |
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (Jul) |  | -0.3% | -0.1% |
@@ -34,8 +34,8 @@
 | 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
 | 13:15 | EUR | High | ECB Interest Rate Decision (Sep) |  | 2.15% | 2.15% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,950K | 1,940K |
-| 13:30 | USD | Moderate | Core CPI (YoY) (Aug) |  | 3.1% | 3.1% |
 | 13:30 | USD | High | Core CPI (MoM) (Aug) |  | 0.3% | 0.3% |
+| 13:30 | USD | Moderate | Core CPI (YoY) (Aug) |  | 3.1% | 3.1% |
 | 13:30 | USD | Low | Core CPI Index (Aug) |  |  | 328.66 |
 | 13:30 | USD | High | CPI (MoM) (Aug) |  | 0.3% | 0.2% |
 | 13:30 | USD | High | CPI (YoY) (Aug) |  | 2.9% | 2.7% |
@@ -57,5 +57,5 @@
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,602B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.168T |
 | 23:30 | NZD | Moderate | Business NZ PMI (Aug) |  |  | 52.8 |
-| 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Aug) |  |  | 0.2% |
 | 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Aug) |  |  | 1.7% |
+| 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Aug) |  |  | 0.2% |
