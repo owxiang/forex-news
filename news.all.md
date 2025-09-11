@@ -10,23 +10,23 @@
 | 02:00 | AUD | Low | MI Inflation Expectations (Sep) | 4.7% |  | 3.9% |
 | 04:00 | IDR | Low | Retail Sales (YoY) (Jul) | 4.7% |  | 1.3% |
 | 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
-| 51 min | ZAR | Low | Current Account (Q2) |  |  | -35.6B |
-| 51 min | ZAR | Low | Current Account % of GDP (Q2) |  |  | -0.50% |
-| 10:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 2.47% |
-| 10:10 | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.17% |
-| 10:30 | ZAR | Low | Gold Production (YoY) (Jul) |  |  | 3.1% |
-| 10:30 | ZAR | Low | Mining Production (Jul) |  |  | 2.4% |
-| 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Sep) |  |  | 50.6 |
-| 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Sep) |  |  | 45.42 |
-| 11:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Sep) |  |  | 46.87 |
-| 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Sep) |  |  | 39.70 |
-| 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 50.88 |
-| 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 43.45 |
+| 10:00 | ZAR | Low | Current Account (Q2) | -82.8B |  | -47.8B |
+| 10:00 | ZAR | Low | Current Account % of GDP (Q2) | -1.10% |  | -0.60% |
+| 4 min | EUR | Low | Italian 3-Year BTP Auction |  |  | 2.47% |
+| 4 min | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.17% |
+| 24 min | ZAR | Low | Gold Production (YoY) (Jul) |  |  | 3.1% |
+| 24 min | ZAR | Low | Mining Production (Jul) |  |  | 2.4% |
+| 54 min | GBP | Low | Thomson Reuters IPSOS PCSI (Sep) |  |  | 50.6 |
+| 54 min | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Sep) |  |  | 45.42 |
+| 54 min | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Sep) |  |  | 46.87 |
+| 54 min | EUR | Low | France Thomson Reuters IPSOS PCSI (Sep) |  |  | 39.70 |
+| 54 min | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 50.88 |
+| 54 min | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 43.45 |
 | 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 12:00 | ZAR | Low | Manufacturing Production (YoY) (Jul) |  |  | 1.9% |
 | 12:00 | ZAR | Low | Manufacturing Production (MoM) (Jul) |  |  | 0.0% |
-| 13:00 | MXN | Low | Industrial Production (MoM) (Jul) |  | -0.2% | -0.1% |
 | 13:00 | MXN | Low | Industrial Production (YoY) (Jul) |  | -0.9% | -0.4% |
+| 13:00 | MXN | Low | Industrial Production (MoM) (Jul) |  | -0.2% | -0.1% |
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (Jul) |  | -0.3% | -0.1% |
 | 13:00 | BRL | Moderate | Retail Sales (YoY) (Jul) |  | 0.8% | 0.3% |
 | 13:15 | EUR | High | Deposit Facility Rate (Sep) |  | 2.00% | 2.00% |
@@ -37,8 +37,8 @@
 | 13:30 | USD | High | Core CPI (MoM) (Aug) |  | 0.3% | 0.3% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Aug) |  | 3.1% | 3.1% |
 | 13:30 | USD | Low | Core CPI Index (Aug) |  |  | 328.66 |
-| 13:30 | USD | High | CPI (YoY) (Aug) |  | 2.9% | 2.7% |
 | 13:30 | USD | High | CPI (MoM) (Aug) |  | 0.3% | 0.2% |
+| 13:30 | USD | High | CPI (YoY) (Aug) |  | 2.9% | 2.7% |
 | 13:30 | USD | Low | CPI Index, n.s.a. (Aug) |  | 323.89 | 323.05 |
 | 13:30 | USD | Low | CPI Index, s.a (Aug) |  |  | 322.13 |
 | 13:30 | USD | Low | CPI, n.s.a (MoM) (Aug) |  |  | 0.15% |
