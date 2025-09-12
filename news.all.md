@@ -10,15 +10,15 @@
 | 03:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Sep) | 72.82 |  | 72.42 |
 | 05:30 | JPY | Low | Capacity Utilization (MoM) (Jul) |  |  | -1.8% |
 | 05:30 | JPY | Moderate | Industrial Production (MoM) (Jul) |  | -1.6% | 2.1% |
-| 07:00 | GBP | Low | U.K. Construction Output (YoY) (Jul) |  | 1.9% | 1.5% |
 | 07:00 | GBP | Low | Construction Output (MoM) (Jul) |  | -0.2% | 0.3% |
+| 07:00 | GBP | Low | U.K. Construction Output (YoY) (Jul) |  | 1.9% | 1.5% |
 | 07:00 | GBP | High | GDP (MoM) (Jul) |  | 0.0% | 0.4% |
 | 07:00 | GBP | Low | GDP (YoY) (Jul) |  | 1.5% | 1.4% |
 | 07:00 | GBP | Low | Index of Services |  | 0.3% | 0.4% |
-| 07:00 | GBP | Low | Industrial Production (YoY) (Jul) |  | 1.1% | 0.2% |
 | 07:00 | GBP | Moderate | Industrial Production (MoM) (Jul) |  | 0.0% | 0.7% |
-| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Jul) |  | 0.1% | 0.5% |
+| 07:00 | GBP | Low | Industrial Production (YoY) (Jul) |  | 1.1% | 0.2% |
 | 07:00 | GBP | Low | Manufacturing Production (YoY) (Jul) |  | 1.6% | 0.0% |
+| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Jul) |  | 0.1% | 0.5% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Jul) |  | 0.2% | 0.3% |
 | 07:00 | GBP | Moderate | Trade Balance (Jul) |  | -21.60B | -22.16B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Jul) |  |  | -10.78B |
@@ -26,10 +26,10 @@
 | 07:00 | EUR | High | German CPI (MoM) (Aug) |  | 0.1% | 0.3% |
 | 07:00 | EUR | Low | German HICP (YoY) (Aug) |  | 2.1% | 1.8% |
 | 07:00 | EUR | Low | German HICP (MoM) (Aug) |  | 0.1% | 0.4% |
-| 07:45 | EUR | Low | French CPI NSA (MoM) (Aug) |  |  | 0.40% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Aug) |  |  | 0.90% |
-| 07:45 | EUR | Low | French CPI (YoY) (Aug) |  | 0.9% | 1.0% |
+| 07:45 | EUR | Low | French CPI NSA (MoM) (Aug) |  |  | 0.40% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Aug) |  | 0.4% | 0.2% |
+| 07:45 | EUR | Low | French CPI (YoY) (Aug) |  | 0.9% | 1.0% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Aug) |  | 0.5% | 0.3% |
 | 07:45 | EUR | Low | French HICP (YoY) (Aug) |  | 0.8% | 0.9% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Aug) |  |  | 0.90% |
