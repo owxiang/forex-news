@@ -34,7 +34,7 @@
 | 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Jul) | 0.3% |  | 0.4% |
 | 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Jul) | 2.8% |  | 2.8% |
 | 13:30 | CAD | Capacity Utilization Rate (Q2) | 79.3% | 78.8% | 79.9% |
-| 48 min | USD | Michigan Current Conditions (Sep) |  | 61.3 | 61.7 |
+| 15:00 | USD | Michigan Current Conditions (Sep) | 61.2 | 61.3 | 61.7 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.1K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 25.7K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -52.5K |

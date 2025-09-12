@@ -18,10 +18,10 @@
 | 11:30 | INR | CPI (YoY) (Aug) | 2.07% | 2.10% | 1.61% |
 | 13:00 | GBP | NIESR Monthly GDP Tracker (Aug) | 0.3% |  | 0.2% |
 | 13:30 | CAD | Building Permits (MoM) (Jul) | -0.1% | 3.7% | -9.0% |
-| 48 min | USD | Michigan 1-Year Inflation Expectations (Sep) |  |  | 4.8% |
-| 48 min | USD | Michigan 5-Year Inflation Expectations (Sep) |  |  | 3.5% |
-| 48 min | USD | Michigan Consumer Expectations (Sep) |  | 54.9 | 55.9 |
-| 48 min | USD | Michigan Consumer Sentiment (Sep) |  | 58.2 | 58.2 |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (Sep) | 4.8% | 4.8% | 4.8% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (Sep) | 3.9% | 3.4% | 3.5% |
+| 15:00 | USD | Michigan Consumer Expectations (Sep) | 51.8 | 54.9 | 55.9 |
+| 15:00 | USD | Michigan Consumer Sentiment (Sep) | 55.4 | 58.2 | 58.2 |
 | 17:00 | USD | WASDE Report |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 414 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 537 |

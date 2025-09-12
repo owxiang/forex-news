@@ -30,12 +30,12 @@
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Aug) | 0.40% |  | 0.40% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Aug) | 0.4% | 0.4% | 0.2% |
 | 07:45 | EUR | Low | French CPI (YoY) (Aug) | 0.9% | 0.9% | 1.0% |
-| 07:45 | EUR | Low | French HICP (YoY) (Aug) | 0.8% | 0.8% | 0.9% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Aug) | 0.5% | 0.5% | 0.3% |
+| 07:45 | EUR | Low | French HICP (YoY) (Aug) | 0.8% | 0.8% | 0.9% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Aug) | 0.80% |  | 0.90% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Aug) | 2.4% | 2.4% | 2.3% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Aug) | 0.0% | 0.0% | -0.1% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Aug) | 2.7% | 2.7% | 2.7% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Aug) | 0.0% | 0.0% | -0.1% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Aug) | 0.0% | 0.0% | -0.3% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Aug) | 2.7% | 2.7% | 2.7% |
 | 09:00 | EUR | Low | Italian Quarterly Unemployment Rate | 6.3% | 6.1% | 6.1% |
@@ -52,11 +52,11 @@
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Jul) | 2.8% |  | 2.8% |
 | 13:30 | CAD | Moderate | Building Permits (MoM) (Jul) | -0.1% | 3.7% | -9.0% |
 | 13:30 | CAD | Low | Capacity Utilization Rate (Q2) | 79.3% | 78.8% | 79.9% |
-| 48 min | USD | Moderate | Michigan 1-Year Inflation Expectations (Sep) |  |  | 4.8% |
-| 48 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Sep) |  |  | 3.5% |
-| 48 min | USD | Moderate | Michigan Consumer Expectations (Sep) |  | 54.9 | 55.9 |
-| 48 min | USD | Moderate | Michigan Consumer Sentiment (Sep) |  | 58.2 | 58.2 |
-| 48 min | USD | Low | Michigan Current Conditions (Sep) |  | 61.3 | 61.7 |
+| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Sep) | 4.8% | 4.8% | 4.8% |
+| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Sep) | 3.9% | 3.4% | 3.5% |
+| 15:00 | USD | Moderate | Michigan Consumer Expectations (Sep) | 51.8 | 54.9 | 55.9 |
+| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Sep) | 55.4 | 58.2 | 58.2 |
+| 15:00 | USD | Low | Michigan Current Conditions (Sep) | 61.2 | 61.3 | 61.7 |
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 414 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 537 |
