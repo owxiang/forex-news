@@ -26,11 +26,11 @@
 | 08:00 | EUR | Spanish CPI (MoM) (Aug) | 0.0% | 0.0% | -0.1% |
 | 08:00 | EUR | Spanish HICP (MoM) (Aug) | 0.0% | 0.0% | -0.3% |
 | 09:00 | EUR | Italian Quarterly Unemployment Rate | 6.3% | 6.1% | 6.1% |
-| 22 min | GBP | Inflation Expectations |  |  | 3.2% |
+| 10:01 | CNY | Chinese Total Social Financing (Aug) | 2,570.0B | 2,460.0B | 1,132.0B |
+| 10:02 | CNY | M2 Money Stock (YoY) (Aug) | 8.8% | 8.7% | 8.8% |
+| 10:02 | CNY | Outstanding Loan Growth (YoY) (Aug) | 6.8% | 6.9% | 6.9% |
+| 53 min | GBP | Inflation Expectations |  |  | 3.2% |
 | 12:30 | INR | FX Reserves, USD |  |  | 694.23B |
-| 12:30 | CNY | M2 Money Stock (YoY) (Aug) |  | 8.7% | 8.8% |
-| 12:30 | CNY | Outstanding Loan Growth (YoY) (Aug) |  | 6.9% | 6.9% |
-| 12:30 | CNY | Chinese Total Social Financing (Aug) |  | 2,460.0B | 1,160.0B |
 | 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Jul) |  |  | 0.3% |
 | 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Jul) |  |  | 2.8% |
 | 13:30 | CAD | Capacity Utilization Rate (Q2) |  | 78.8% | 80.1% |
