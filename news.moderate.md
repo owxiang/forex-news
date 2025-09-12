@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:30 | JPY | Industrial Production (MoM) (Jul) |  | -1.6% | 2.1% |
+| 23 min | JPY | Industrial Production (MoM) (Jul) |  | -1.6% | 2.1% |
 | 07:00 | GBP | Industrial Production (MoM) (Jul) |  | 0.0% | 0.7% |
 | 07:00 | GBP | Manufacturing Production (MoM) (Jul) |  | 0.1% | 0.5% |
 | 07:00 | GBP | Monthly GDP 3M/3M Change (Jul) |  | 0.2% | 0.3% |
