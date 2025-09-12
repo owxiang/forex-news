@@ -10,8 +10,8 @@
 | 03:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Sep) | 72.82 |  | 72.42 |
 | 05:30 | JPY | Low | Capacity Utilization (MoM) (Jul) | -1.1% |  | -1.8% |
 | 05:30 | JPY | Moderate | Industrial Production (MoM) (Jul) | -1.2% | -1.6% | 2.1% |
-| 07:00 | GBP | Low | Construction Output (MoM) (Jul) | 0.2% | -0.2% | 0.3% |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (Jul) | 2.4% | 1.9% | 1.5% |
+| 07:00 | GBP | Low | Construction Output (MoM) (Jul) | 0.2% | -0.2% | 0.3% |
 | 07:00 | GBP | High | GDP (MoM) (Jul) | 0.0% | 0.0% | 0.4% |
 | 07:00 | GBP | Low | GDP (YoY) (Jul) | 1.4% | 1.5% | 1.4% |
 | 07:00 | GBP | Low | Index of Services | 0.4% | 0.3% | 0.4% |
@@ -46,12 +46,12 @@
 | 10:00 | CNY | Low | Outstanding Loan Growth (YoY) (Aug) | 6.8% | 6.9% | 6.9% |
 | 10:00 | CNY | Low | Chinese Total Social Financing (Aug) | 2,570.0B | 2,460.0B | 1,132.0B |
 | 11:30 | INR | Moderate | CPI (YoY) (Aug) | 2.07% | 2.10% | 1.61% |
-| 12:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Aug) |  |  | 0.2% |
-| 24 min | INR | Low | FX Reserves, USD |  |  | 694.23B |
-| 54 min | BRL | Low | Brazilian Service Sector Growth (MoM) (Jul) |  |  | 0.3% |
-| 54 min | BRL | Low | Brazilian Service Sector Growth (YoY) (Jul) |  |  | 2.8% |
-| 13:30 | CAD | Moderate | Building Permits (MoM) (Jul) |  | 3.7% | -9.0% |
-| 13:30 | CAD | Low | Capacity Utilization Rate (Q2) |  | 78.8% | 80.1% |
+| 12:30 | INR | Low | FX Reserves, USD | 698.27B |  | 694.23B |
+| 13:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Aug) | 0.3% |  | 0.2% |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Jul) | 0.3% |  | 0.3% |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Jul) | 2.8% |  | 2.8% |
+| 19 min | CAD | Moderate | Building Permits (MoM) (Jul) |  | 3.7% | -9.0% |
+| 19 min | CAD | Low | Capacity Utilization Rate (Q2) |  | 78.8% | 80.1% |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Sep) |  |  | 4.8% |
 | 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Sep) |  |  | 3.5% |
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Sep) |  | 54.9 | 55.9 |

@@ -9,8 +9,8 @@
 | 03:00 | JPY | Thomson Reuters IPSOS PCSI (Sep) | 37.26 |  | 37.21 |
 | 03:00 | CNY | China Thomson Reuters IPSOS PCSI (Sep) | 72.82 |  | 72.42 |
 | 05:30 | JPY | Capacity Utilization (MoM) (Jul) | -1.1% |  | -1.8% |
-| 07:00 | GBP | Construction Output (MoM) (Jul) | 0.2% | -0.2% | 0.3% |
 | 07:00 | GBP | U.K. Construction Output (YoY) (Jul) | 2.4% | 1.9% | 1.5% |
+| 07:00 | GBP | Construction Output (MoM) (Jul) | 0.2% | -0.2% | 0.3% |
 | 07:00 | GBP | GDP (YoY) (Jul) | 1.4% | 1.5% | 1.4% |
 | 07:00 | GBP | Index of Services | 0.4% | 0.3% | 0.4% |
 | 07:00 | GBP | Industrial Production (YoY) (Jul) | 0.1% | 1.1% | 0.2% |
@@ -30,10 +30,10 @@
 | 10:00 | CNY | M2 Money Stock (YoY) (Aug) | 8.8% | 8.7% | 8.8% |
 | 10:00 | CNY | Outstanding Loan Growth (YoY) (Aug) | 6.8% | 6.9% | 6.9% |
 | 10:00 | CNY | Chinese Total Social Financing (Aug) | 2,570.0B | 2,460.0B | 1,132.0B |
-| 24 min | INR | FX Reserves, USD |  |  | 694.23B |
-| 54 min | BRL | Brazilian Service Sector Growth (MoM) (Jul) |  |  | 0.3% |
-| 54 min | BRL | Brazilian Service Sector Growth (YoY) (Jul) |  |  | 2.8% |
-| 13:30 | CAD | Capacity Utilization Rate (Q2) |  | 78.8% | 80.1% |
+| 12:30 | INR | FX Reserves, USD | 698.27B |  | 694.23B |
+| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Jul) | 0.3% |  | 0.3% |
+| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Jul) | 2.8% |  | 2.8% |
+| 19 min | CAD | Capacity Utilization Rate (Q2) |  | 78.8% | 80.1% |
 | 15:00 | USD | Michigan Current Conditions (Sep) |  | 61.3 | 61.7 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.1K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 25.7K |
