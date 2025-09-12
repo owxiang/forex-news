@@ -9,10 +9,10 @@
 | 07:00 | GBP | Trade Balance (Jul) | -22.24B | -21.60B | -22.16B |
 | 07:00 | GBP | Trade Balance Non-EU (Jul) | -10.16B |  | -10.78B |
 | 07:00 | EUR | German CPI (YoY) (Aug) | 2.2% | 2.2% | 2.0% |
-| 36 min | EUR | French CPI (MoM) (Aug) |  | 0.4% | 0.2% |
-| 36 min | EUR | French HICP (MoM) (Aug) |  | 0.5% | 0.3% |
-| 51 min | EUR | Spanish CPI (YoY) (Aug) |  | 2.7% | 2.7% |
-| 51 min | EUR | Spanish HICP (YoY) (Aug) |  | 2.7% | 2.7% |
+| 07:45 | EUR | French CPI (MoM) (Aug) | 0.4% | 0.4% | 0.2% |
+| 07:45 | EUR | French HICP (MoM) (Aug) | 0.5% | 0.5% | 0.3% |
+| 08:00 | EUR | Spanish CPI (YoY) (Aug) | 2.7% | 2.7% | 2.7% |
+| 08:00 | EUR | Spanish HICP (YoY) (Aug) | 2.7% | 2.7% | 2.7% |
 | 09:15 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 11:30 | INR | CPI (YoY) (Aug) |  | 2.10% | 1.55% |
 | 12:15 | GBP | NIESR Monthly GDP Tracker (Aug) |  |  | 0.2% |
