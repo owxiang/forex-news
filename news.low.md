@@ -15,8 +15,8 @@
 | 07:00 | GBP | Index of Services | 0.4% | 0.3% | 0.4% |
 | 07:00 | GBP | Industrial Production (YoY) (Jul) | 0.1% | 1.1% | 0.2% |
 | 07:00 | GBP | Manufacturing Production (YoY) (Jul) | 0.2% | 1.6% | 0.0% |
-| 07:00 | EUR | German HICP (MoM) (Aug) | 0.1% | 0.1% | 0.4% |
 | 07:00 | EUR | German HICP (YoY) (Aug) | 2.1% | 2.1% | 1.8% |
+| 07:00 | EUR | German HICP (MoM) (Aug) | 0.1% | 0.1% | 0.4% |
 | 07:45 | EUR | French CPI NSA (MoM) (Aug) | 0.40% |  | 0.40% |
 | 07:45 | EUR | French CPI NSA (YoY) (Aug) | 0.90% |  | 0.90% |
 | 07:45 | EUR | French CPI (YoY) (Aug) | 0.9% | 0.9% | 1.0% |
@@ -35,14 +35,14 @@
 | 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Jul) | 0.3% |  | 0.4% |
 | 13:30 | CAD | Capacity Utilization Rate (Q2) | 79.3% | 78.8% | 79.9% |
 | 15:00 | USD | Michigan Current Conditions (Sep) | 61.2 | 61.3 | 61.7 |
-| 24 min | USD | CFTC Aluminium speculative net positions |  |  | 1.1K |
-| 24 min | USD | CFTC Copper speculative net positions |  |  | 25.7K |
-| 24 min | USD | CFTC Corn speculative net positions |  |  | -52.5K |
-| 24 min | USD | CFTC Natural Gas speculative net positions |  |  | -102.8K |
-| 24 min | USD | CFTC Silver speculative net positions |  |  | 55.9K |
-| 24 min | USD | CFTC Soybeans speculative net positions |  |  | 21.4K |
-| 24 min | USD | CFTC Wheat speculative net positions |  |  | -71.6K |
-| 24 min | CAD | CFTC CAD speculative net positions |  |  | -109.0K |
-| 24 min | MXN | CFTC MXN speculative net positions |  |  | 73.0K |
-| 24 min | CHF | CFTC CHF speculative net positions |  |  | -25.9K |
-| 24 min | NZD | CFTC NZD speculative net positions |  |  | -6.5K |
+| 20:30 | USD | CFTC Aluminium speculative net positions | 1.2K |  | 1.1K |
+| 20:30 | USD | CFTC Copper speculative net positions | 27.2K |  | 25.7K |
+| 20:30 | USD | CFTC Corn speculative net positions | -54.2K |  | -52.5K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions | -94.5K |  | -102.8K |
+| 20:30 | USD | CFTC Silver speculative net positions | 53.9K |  | 55.9K |
+| 20:30 | USD | CFTC Soybeans speculative net positions | 8.3K |  | 21.4K |
+| 20:30 | USD | CFTC Wheat speculative net positions | -82.1K |  | -71.6K |
+| 20:30 | CAD | CFTC CAD speculative net positions | -108.9K |  | -109.0K |
+| 20:30 | MXN | CFTC MXN speculative net positions | 73.7K |  | 73.0K |
+| 20:30 | CHF | CFTC CHF speculative net positions | -28.8K |  | -25.9K |
+| 20:30 | NZD | CFTC NZD speculative net positions | -8.7K |  | -6.5K |
