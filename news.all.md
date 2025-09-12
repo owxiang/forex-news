@@ -17,39 +17,39 @@
 | 07:00 | GBP | Low | Index of Services | 0.4% | 0.3% | 0.4% |
 | 07:00 | GBP | Moderate | Industrial Production (MoM) (Jul) | -0.9% | 0.0% | 0.7% |
 | 07:00 | GBP | Low | Industrial Production (YoY) (Jul) | 0.1% | 1.1% | 0.2% |
-| 07:00 | GBP | Low | Manufacturing Production (YoY) (Jul) | 0.2% | 1.6% | 0.0% |
 | 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Jul) | -1.3% | 0.1% | 0.5% |
+| 07:00 | GBP | Low | Manufacturing Production (YoY) (Jul) | 0.2% | 1.6% | 0.0% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Jul) | 0.2% | 0.2% | 0.3% |
 | 07:00 | GBP | Moderate | Trade Balance (Jul) | -22.24B | -21.60B | -22.16B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Jul) | -10.16B |  | -10.78B |
-| 07:00 | EUR | High | German CPI (MoM) (Aug) | 0.1% | 0.1% | 0.3% |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Aug) | 2.2% | 2.2% | 2.0% |
-| 07:00 | EUR | Low | German HICP (MoM) (Aug) | 0.1% | 0.1% | 0.4% |
+| 07:00 | EUR | High | German CPI (MoM) (Aug) | 0.1% | 0.1% | 0.3% |
 | 07:00 | EUR | Low | German HICP (YoY) (Aug) | 2.1% | 2.1% | 1.8% |
-| 07:45 | EUR | Low | French CPI NSA (MoM) (Aug) | 0.40% |  | 0.40% |
+| 07:00 | EUR | Low | German HICP (MoM) (Aug) | 0.1% | 0.1% | 0.4% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Aug) | 0.90% |  | 0.90% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Aug) | 0.4% | 0.4% | 0.2% |
+| 07:45 | EUR | Low | French CPI NSA (MoM) (Aug) | 0.40% |  | 0.40% |
 | 07:45 | EUR | Low | French CPI (YoY) (Aug) | 0.9% | 0.9% | 1.0% |
-| 07:45 | EUR | Low | French HICP (YoY) (Aug) | 0.8% | 0.8% | 0.9% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Aug) | 0.4% | 0.4% | 0.2% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Aug) | 0.5% | 0.5% | 0.3% |
+| 07:45 | EUR | Low | French HICP (YoY) (Aug) | 0.8% | 0.8% | 0.9% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Aug) | 0.80% |  | 0.90% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Aug) | 2.4% | 2.4% | 2.3% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Aug) | 0.0% | 0.0% | -0.1% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Aug) | 2.7% | 2.7% | 2.7% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Aug) | 0.0% | 0.0% | -0.3% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Aug) | 0.0% | 0.0% | -0.1% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Aug) | 2.7% | 2.7% | 2.7% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Aug) | 0.0% | 0.0% | -0.3% |
 | 09:00 | EUR | Low | Italian Quarterly Unemployment Rate | 6.3% | 6.1% | 6.1% |
 | 09:15 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 09:30 | GBP | Low | Inflation Expectations | 3.6% |  | 3.2% |
 | 10:00 | CNY | Low | M2 Money Stock (YoY) (Aug) | 8.8% | 8.7% | 8.8% |
 | 10:00 | CNY | Moderate | New Loans (Aug) | 590.0B | 700.0B | -50.0B |
 | 10:00 | CNY | Low | Outstanding Loan Growth (YoY) (Aug) | 6.8% | 6.9% | 6.9% |
 | 10:00 | CNY | Low | Chinese Total Social Financing (Aug) | 2,570.0B | 2,460.0B | 1,132.0B |
-| 11:00 | GBP | Low | Inflation Expectations |  |  | 3.2% |
-| 23 min | INR | Moderate | CPI (YoY) (Aug) |  | 2.10% | 1.55% |
-| 53 min | GBP | Moderate | NIESR Monthly GDP Tracker (Aug) |  |  | 0.2% |
-| 12:30 | INR | Low | FX Reserves, USD |  |  | 694.23B |
-| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Jul) |  |  | 2.8% |
-| 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Jul) |  |  | 0.3% |
+| 11:30 | INR | Moderate | CPI (YoY) (Aug) | 2.07% | 2.10% | 1.61% |
+| 12:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Aug) |  |  | 0.2% |
+| 24 min | INR | Low | FX Reserves, USD |  |  | 694.23B |
+| 54 min | BRL | Low | Brazilian Service Sector Growth (MoM) (Jul) |  |  | 0.3% |
+| 54 min | BRL | Low | Brazilian Service Sector Growth (YoY) (Jul) |  |  | 2.8% |
 | 13:30 | CAD | Moderate | Building Permits (MoM) (Jul) |  | 3.7% | -9.0% |
 | 13:30 | CAD | Low | Capacity Utilization Rate (Q2) |  | 78.8% | 80.1% |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Sep) |  |  | 4.8% |
