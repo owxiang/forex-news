@@ -26,21 +26,23 @@
 | 07:00 | EUR | High | German CPI (MoM) (Aug) | 0.1% | 0.1% | 0.3% |
 | 07:00 | EUR | Low | German HICP (MoM) (Aug) | 0.1% | 0.1% | 0.4% |
 | 07:00 | EUR | Low | German HICP (YoY) (Aug) | 2.1% | 2.1% | 1.8% |
+| 07:45 | EUR | Low | French CPI NSA (YoY) (Aug) | 0.90% |  | 0.90% |
+| 07:45 | EUR | Low | French CPI NSA (MoM) (Aug) | 0.40% |  | 0.40% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Aug) | 0.4% | 0.4% | 0.2% |
 | 07:45 | EUR | Low | French CPI (YoY) (Aug) | 0.9% | 0.9% | 1.0% |
 | 07:45 | EUR | Low | French HICP (YoY) (Aug) | 0.8% | 0.8% | 0.9% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Aug) | 0.5% | 0.5% | 0.3% |
+| 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Aug) | 0.80% |  | 0.90% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Aug) | 2.4% | 2.4% | 2.3% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Aug) | 0.0% | 0.0% | -0.1% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Aug) | 2.7% | 2.7% | 2.7% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Aug) | 0.0% | 0.0% | -0.3% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Aug) | 2.7% | 2.7% | 2.7% |
-| 38 min | EUR | Low | France Inflation Ex-Tobacco (YoY) (Aug) |  |  | 0.90% |
-| 53 min | EUR | Low | Italian Quarterly Unemployment Rate |  | 6.1% | 6.1% |
-| 09:15 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 09:30 | GBP | Low | Inflation Expectations |  |  | 3.2% |
+| 09:00 | EUR | Low | Italian Quarterly Unemployment Rate | 6.3% | 6.1% | 6.1% |
+| 7 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 22 min | GBP | Low | Inflation Expectations |  |  | 3.2% |
 | 11:30 | INR | Moderate | CPI (YoY) (Aug) |  | 2.10% | 1.55% |
-| 12:15 | GBP | Moderate | NIESR Monthly GDP Tracker (Aug) |  |  | 0.2% |
+| 12:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Aug) |  |  | 0.2% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 694.23B |
 | 12:30 | CNY | Low | M2 Money Stock (YoY) (Aug) |  | 8.7% | 8.8% |
 | 12:30 | CNY | Moderate | New Loans (Aug) |  | 700.0B | -50.0B |

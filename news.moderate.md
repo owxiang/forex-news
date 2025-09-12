@@ -13,9 +13,9 @@
 | 07:45 | EUR | French HICP (MoM) (Aug) | 0.5% | 0.5% | 0.3% |
 | 08:00 | EUR | Spanish CPI (YoY) (Aug) | 2.7% | 2.7% | 2.7% |
 | 08:00 | EUR | Spanish HICP (YoY) (Aug) | 2.7% | 2.7% | 2.7% |
-| 09:15 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 7 min | EUR | German Buba President Nagel Speaks |  |  |  |
 | 11:30 | INR | CPI (YoY) (Aug) |  | 2.10% | 1.55% |
-| 12:15 | GBP | NIESR Monthly GDP Tracker (Aug) |  |  | 0.2% |
+| 12:00 | GBP | NIESR Monthly GDP Tracker (Aug) |  |  | 0.2% |
 | 12:30 | CNY | New Loans (Aug) |  | 700.0B | -50.0B |
 | 13:30 | CAD | Building Permits (MoM) (Jul) |  | 3.7% | -9.0% |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Sep) |  |  | 4.8% |
