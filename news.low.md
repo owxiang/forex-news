@@ -9,16 +9,16 @@
 | 03:00 | JPY | Thomson Reuters IPSOS PCSI (Sep) |  |  | 37.21 |
 | 03:00 | CNY | China Thomson Reuters IPSOS PCSI (Sep) |  |  | 72.42 |
 | 05:30 | JPY | Capacity Utilization (MoM) (Jul) |  |  | -1.8% |
-| 07:00 | GBP | U.K. Construction Output (YoY) (Jul) |  | 1.9% | 1.5% |
 | 07:00 | GBP | Construction Output (MoM) (Jul) |  | -0.2% | 0.3% |
+| 07:00 | GBP | U.K. Construction Output (YoY) (Jul) |  | 1.9% | 1.5% |
 | 07:00 | GBP | GDP (YoY) (Jul) |  | 1.5% | 1.4% |
 | 07:00 | GBP | Index of Services |  | 0.3% | 0.4% |
 | 07:00 | GBP | Industrial Production (YoY) (Jul) |  | 1.1% | 0.2% |
 | 07:00 | GBP | Manufacturing Production (YoY) (Jul) |  | 1.6% | 0.0% |
 | 07:00 | EUR | German HICP (YoY) (Aug) |  | 2.1% | 1.8% |
 | 07:00 | EUR | German HICP (MoM) (Aug) |  | 0.1% | 0.4% |
-| 07:45 | EUR | French CPI NSA (MoM) (Aug) |  |  | 0.40% |
 | 07:45 | EUR | French CPI NSA (YoY) (Aug) |  |  | 0.90% |
+| 07:45 | EUR | French CPI NSA (MoM) (Aug) |  |  | 0.40% |
 | 07:45 | EUR | French CPI (YoY) (Aug) |  | 0.9% | 1.0% |
 | 07:45 | EUR | French HICP (YoY) (Aug) |  | 0.8% | 0.9% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Aug) |  |  | 0.90% |
@@ -31,8 +31,8 @@
 | 12:30 | CNY | M2 Money Stock (YoY) (Aug) |  | 8.7% | 8.8% |
 | 12:30 | CNY | Outstanding Loan Growth (YoY) (Aug) |  | 6.9% | 6.9% |
 | 12:30 | CNY | Chinese Total Social Financing (Aug) |  | 2,460.0B | 1,160.0B |
-| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Jul) |  |  | 2.8% |
 | 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Jul) |  |  | 0.3% |
+| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Jul) |  |  | 2.8% |
 | 13:30 | CAD | Capacity Utilization Rate (Q2) |  | 78.8% | 80.1% |
 | 15:00 | USD | Michigan Current Conditions (Sep) |  | 61.3 | 61.7 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.1K |
