@@ -23,8 +23,8 @@
 | 15:00 | USD | Michigan Consumer Expectations (Sep) | 51.8 | 54.9 | 55.9 |
 | 15:00 | USD | Michigan Consumer Sentiment (Sep) | 55.4 | 58.2 | 58.2 |
 | 17:00 | USD | WASDE Report |  |  |  |
-| 53 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 414 |
-| 53 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 537 |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 416 |  | 414 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count | 539 |  | 537 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -33.1K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 102.4K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 249.5K |
