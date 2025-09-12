@@ -3,16 +3,16 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 05:30 | JPY | Industrial Production (MoM) (Jul) | -1.2% | -1.6% | 2.1% |
-| 53 min | GBP | Industrial Production (MoM) (Jul) |  | 0.0% | 0.7% |
-| 53 min | GBP | Manufacturing Production (MoM) (Jul) |  | 0.1% | 0.5% |
-| 53 min | GBP | Monthly GDP 3M/3M Change (Jul) |  | 0.2% | 0.3% |
-| 53 min | GBP | Trade Balance (Jul) |  | -21.60B | -22.16B |
-| 53 min | GBP | Trade Balance Non-EU (Jul) |  |  | -10.78B |
-| 53 min | EUR | German CPI (YoY) (Aug) |  | 2.2% | 2.0% |
-| 07:45 | EUR | French CPI (MoM) (Aug) |  | 0.4% | 0.2% |
-| 07:45 | EUR | French HICP (MoM) (Aug) |  | 0.5% | 0.3% |
-| 08:00 | EUR | Spanish CPI (YoY) (Aug) |  | 2.7% | 2.7% |
-| 08:00 | EUR | Spanish HICP (YoY) (Aug) |  | 2.7% | 2.7% |
+| 07:00 | GBP | Industrial Production (MoM) (Jul) | -0.9% | 0.0% | 0.7% |
+| 07:00 | GBP | Manufacturing Production (MoM) (Jul) | -1.3% | 0.1% | 0.5% |
+| 07:00 | GBP | Monthly GDP 3M/3M Change (Jul) | 0.2% | 0.2% | 0.3% |
+| 07:00 | GBP | Trade Balance (Jul) | -22.24B | -21.60B | -22.16B |
+| 07:00 | GBP | Trade Balance Non-EU (Jul) | -10.16B |  | -10.78B |
+| 07:00 | EUR | German CPI (YoY) (Aug) | 2.2% | 2.2% | 2.0% |
+| 36 min | EUR | French CPI (MoM) (Aug) |  | 0.4% | 0.2% |
+| 36 min | EUR | French HICP (MoM) (Aug) |  | 0.5% | 0.3% |
+| 51 min | EUR | Spanish CPI (YoY) (Aug) |  | 2.7% | 2.7% |
+| 51 min | EUR | Spanish HICP (YoY) (Aug) |  | 2.7% | 2.7% |
 | 09:15 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 11:30 | INR | CPI (YoY) (Aug) |  | 2.10% | 1.55% |
 | 12:15 | GBP | NIESR Monthly GDP Tracker (Aug) |  |  | 0.2% |
