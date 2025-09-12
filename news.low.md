@@ -17,8 +17,8 @@
 | 07:00 | GBP | Manufacturing Production (YoY) (Jul) | 0.2% | 1.6% | 0.0% |
 | 07:00 | EUR | German HICP (MoM) (Aug) | 0.1% | 0.1% | 0.4% |
 | 07:00 | EUR | German HICP (YoY) (Aug) | 2.1% | 2.1% | 1.8% |
-| 07:45 | EUR | French CPI NSA (YoY) (Aug) | 0.90% |  | 0.90% |
 | 07:45 | EUR | French CPI NSA (MoM) (Aug) | 0.40% |  | 0.40% |
+| 07:45 | EUR | French CPI NSA (YoY) (Aug) | 0.90% |  | 0.90% |
 | 07:45 | EUR | French CPI (YoY) (Aug) | 0.9% | 0.9% | 1.0% |
 | 07:45 | EUR | French HICP (YoY) (Aug) | 0.8% | 0.8% | 0.9% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Aug) | 0.80% |  | 0.90% |
@@ -26,13 +26,13 @@
 | 08:00 | EUR | Spanish CPI (MoM) (Aug) | 0.0% | 0.0% | -0.1% |
 | 08:00 | EUR | Spanish HICP (MoM) (Aug) | 0.0% | 0.0% | -0.3% |
 | 09:00 | EUR | Italian Quarterly Unemployment Rate | 6.3% | 6.1% | 6.1% |
-| 10:01 | CNY | Chinese Total Social Financing (Aug) | 2,570.0B | 2,460.0B | 1,132.0B |
-| 10:02 | CNY | M2 Money Stock (YoY) (Aug) | 8.8% | 8.7% | 8.8% |
-| 10:02 | CNY | Outstanding Loan Growth (YoY) (Aug) | 6.8% | 6.9% | 6.9% |
-| 53 min | GBP | Inflation Expectations |  |  | 3.2% |
+| 10:00 | CNY | M2 Money Stock (YoY) (Aug) | 8.8% | 8.7% | 8.8% |
+| 10:00 | CNY | Outstanding Loan Growth (YoY) (Aug) | 6.8% | 6.9% | 6.9% |
+| 10:00 | CNY | Chinese Total Social Financing (Aug) | 2,570.0B | 2,460.0B | 1,132.0B |
+| 11:00 | GBP | Inflation Expectations |  |  | 3.2% |
 | 12:30 | INR | FX Reserves, USD |  |  | 694.23B |
-| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Jul) |  |  | 0.3% |
 | 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Jul) |  |  | 2.8% |
+| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Jul) |  |  | 0.3% |
 | 13:30 | CAD | Capacity Utilization Rate (Q2) |  | 78.8% | 80.1% |
 | 15:00 | USD | Michigan Current Conditions (Sep) |  | 61.3 | 61.7 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.1K |
