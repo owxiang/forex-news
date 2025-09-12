@@ -22,7 +22,7 @@
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Sep) | 3.9% | 3.4% | 3.5% |
 | 15:00 | USD | Michigan Consumer Expectations (Sep) | 51.8 | 54.9 | 55.9 |
 | 15:00 | USD | Michigan Consumer Sentiment (Sep) | 55.4 | 58.2 | 58.2 |
-| 17:00 | USD | WASDE Report |  |  |  |
+| 54 min | USD | WASDE Report |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 414 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 537 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -33.1K |
