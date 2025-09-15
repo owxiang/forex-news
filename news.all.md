@@ -48,6 +48,6 @@
 | 16:30 | USD | Low | 3-Month Bill Auction | 3.905% |  | 3.940% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 3.715% |  | 3.730% |
 | 19:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 53 min | KRW | Low | Export Price Index (YoY) (Aug) |  |  | -4.3% |
-| 53 min | KRW | Low | Import Price Index (YoY) (Aug) |  |  | -5.9% |
+| 22:00 | KRW | Low | Export Price Index (YoY) (Aug) | -1.0% |  | -4.5% |
+| 22:00 | KRW | Low | Import Price Index (YoY) (Aug) | -2.2% |  | -5.9% |
 | 23:45 | NZD | Low | FPI (MoM) (Aug) |  |  | 0.7% |
