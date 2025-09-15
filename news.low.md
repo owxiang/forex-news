@@ -27,10 +27,9 @@
 | 10:30 | INR | Trade Balance (Aug) | -26.49B |  | -27.35B |
 | 10:50 | EUR | German 12-Month Bubill Auction | 1.938% |  | 1.895% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 11:00 | CNY | FDI (Aug) |  |  | -13.40% |
-| 11:00 | EUR | Reserve Assets Total (Aug) | 1,507.85B |  | 1,498.95B |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | BRL | IBC-Br Economic Activity (Jul) |  | -0.20% | -0.10% |
+| 11:00 | EUR | Reserve Assets Total (Aug) | 1,507.85B |  | 1,499.04B |
+| 19 min | BRL | BCB Focus Market Readout |  |  |  |
+| 54 min | BRL | IBC-Br Economic Activity (Jul) |  | -0.20% | -0.10% |
 | 13:30 | CAD | Manufacturing Sales (MoM) (Jul) |  | 1.7% | 0.3% |
 | 13:30 | CAD | New Motor Vehicle Sales (MoM) (Jul) |  |  | 177.3K |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 1.997% |
