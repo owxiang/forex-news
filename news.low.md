@@ -4,12 +4,11 @@
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | Rightmove House Price Index (MoM) (Sep) | 0.4% |  | -1.3% |
 | 00:01 | GBP | Rightmove House Price Index (YoY) (Sep) | -0.1% |  | 0.3% |
-| 02:30 | CNY | House Prices (YoY) (Aug) |  |  | -2.8% |
-| 03:00 | CNY | Retail Sales (YoY) (Aug) |  | 3.8% | 3.7% |
-| 03:00 | CNY | Chinese Retail Sales YTD (YoY) (Aug) |  |  | 3.84% |
-| 03:30 | SGD | Unemployment Rate (Q2) |  | 2.1% | 2.0% |
-| 07:00 | EUR | German WPI (MoM) (Aug) |  | 0.2% | -0.1% |
+| 02:30 | CNY | House Prices (YoY) (Aug) | -2.5% |  | -2.8% |
+| 24 min | CNY | Retail Sales (YoY) (Aug) |  | 3.8% | 3.7% |
+| 24 min | CNY | Chinese Retail Sales YTD (YoY) (Aug) |  |  | 3.84% |
 | 07:00 | EUR | German WPI (YoY) (Aug) |  |  | 0.5% |
+| 07:00 | EUR | German WPI (MoM) (Aug) |  | 0.2% | -0.1% |
 | 07:00 | NOK | Trade Balance (Aug) |  |  | 54.0B |
 | 07:30 | CHF | PPI (YoY) (Aug) |  |  | -0.9% |
 | 07:30 | INR | WPI Food (YoY) (Aug) |  |  | -6.29% |

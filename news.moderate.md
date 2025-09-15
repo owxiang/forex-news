@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:00 | CNY | Fixed Asset Investment (YoY) (Aug) |  | 1.5% | 1.6% |
-| 03:00 | CNY | Industrial Production (YoY) (Aug) |  | 5.7% | 5.7% |
-| 03:00 | CNY | Chinese Industrial Production YTD (YoY) (Aug) |  |  | 6.3% |
-| 03:00 | CNY | Chinese Unemployment Rate (Aug) |  | 5.2% | 5.2% |
-| 03:00 | CNY | NBS Press Conference |  |  |  |
+| 24 min | CNY | Fixed Asset Investment (YoY) (Aug) |  | 1.5% | 1.6% |
+| 24 min | CNY | Industrial Production (YoY) (Aug) |  | 5.7% | 5.7% |
+| 24 min | CNY | Chinese Industrial Production YTD (YoY) (Aug) |  |  | 6.3% |
+| 24 min | CNY | Chinese Unemployment Rate (Aug) |  | 5.2% | 5.2% |
+| 24 min | CNY | NBS Press Conference |  |  |  |
 | 07:30 | CHF | PPI (MoM) (Aug) |  | 0.1% | -0.2% |
 | 07:30 | INR | WPI Inflation (YoY) (Aug) |  | 0.30% | -0.58% |
 | 10:00 | EUR | Trade Balance (Jul) |  | 11.7B | 7.0B |
