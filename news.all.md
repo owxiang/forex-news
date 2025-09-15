@@ -36,16 +36,16 @@
 | 10:50 | EUR | Low | German 12-Month Bubill Auction | 1.938% |  | 1.895% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | EUR | Low | Reserve Assets Total (Aug) | 1,507.85B |  | 1,499.04B |
-| 19 min | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 24 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 54 min | BRL | Low | IBC-Br Economic Activity (Jul) |  | -0.20% | -0.10% |
-| 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Sep) |  | 4.30 | 11.90 |
-| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Jul) |  | 1.7% | 0.3% |
-| 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Jul) |  |  | 177.3K |
-| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Jul) |  | 1.4% | 0.7% |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 1.997% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 1.989% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.006% |
+| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 12:30 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 13:00 | BRL | Low | IBC-Br Economic Activity (Jul) | -0.50% | -0.20% | -0.10% |
+| 19 min | USD | Moderate | NY Empire State Manufacturing Index (Sep) |  | 4.30 | 11.90 |
+| 19 min | CAD | Low | Manufacturing Sales (MoM) (Jul) |  | 1.7% | 0.3% |
+| 19 min | CAD | Low | New Motor Vehicle Sales (MoM) (Jul) |  |  | 177.3K |
+| 19 min | CAD | Moderate | Wholesale Sales (MoM) (Jul) |  | 1.4% | 0.7% |
+| 49 min | EUR | Low | French 12-Month BTF Auction |  |  | 1.997% |
+| 49 min | EUR | Low | French 3-Month BTF Auction |  |  | 1.989% |
+| 49 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.006% |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.940% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.730% |
 | 19:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
