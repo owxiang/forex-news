@@ -5,6 +5,7 @@
 | 00:01 | GBP | Low | Rightmove House Price Index (MoM) (Sep) | 0.4% |  | -1.3% |
 | 00:01 | GBP | Low | Rightmove House Price Index (YoY) (Sep) | -0.1% |  | 0.3% |
 | 02:30 | CNY | Low | House Prices (YoY) (Aug) | -2.5% |  | -2.8% |
+| 03:00 | KRW | Low | Imports (YoY) (Aug) | -4.1% | -4.0% | 3.3% |
 | 03:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Aug) | 0.5% | 1.5% | 1.6% |
 | 03:00 | CNY | Moderate | Industrial Production (YoY) (Aug) | 5.2% | 5.7% | 5.7% |
 | 03:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Aug) | 6.2% |  | 6.3% |
@@ -12,11 +13,11 @@
 | 03:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Aug) | 3.67% |  | 3.84% |
 | 03:00 | CNY | Moderate | Chinese Unemployment Rate (Aug) | 5.3% | 5.2% | 5.2% |
 | 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
-| 07:00 | EUR | Low | German WPI (YoY) (Aug) |  |  | 0.5% |
-| 07:00 | EUR | Low | German WPI (MoM) (Aug) |  | 0.2% | -0.1% |
-| 07:00 | NOK | Low | Trade Balance (Aug) |  |  | 54.0B |
-| 07:30 | CHF | Moderate | PPI (MoM) (Aug) |  | 0.1% | -0.2% |
+| 53 min | EUR | Low | German WPI (YoY) (Aug) |  |  | 0.5% |
+| 53 min | EUR | Low | German WPI (MoM) (Aug) |  | 0.2% | -0.1% |
+| 53 min | NOK | Low | Trade Balance (Aug) |  |  | 54.0B |
 | 07:30 | CHF | Low | PPI (YoY) (Aug) |  |  | -0.9% |
+| 07:30 | CHF | Moderate | PPI (MoM) (Aug) |  | 0.1% | -0.2% |
 | 07:30 | INR | Low | WPI Food (YoY) (Aug) |  |  | -6.29% |
 | 07:30 | INR | Low | WPI Fuel (YoY) (Aug) |  |  | -2.43% |
 | 07:30 | INR | Moderate | WPI Inflation (YoY) (Aug) |  | 0.30% | -0.58% |
