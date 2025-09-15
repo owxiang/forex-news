@@ -15,8 +15,8 @@
 | 07:00 | EUR | Low | German WPI (YoY) (Aug) |  |  | 0.5% |
 | 07:00 | EUR | Low | German WPI (MoM) (Aug) |  | 0.2% | -0.1% |
 | 07:00 | NOK | Low | Trade Balance (Aug) |  |  | 54.0B |
-| 07:30 | CHF | Low | PPI (YoY) (Aug) |  |  | -0.9% |
 | 07:30 | CHF | Moderate | PPI (MoM) (Aug) |  | 0.1% | -0.2% |
+| 07:30 | CHF | Low | PPI (YoY) (Aug) |  |  | -0.9% |
 | 07:30 | INR | Low | WPI Food (YoY) (Aug) |  |  | -6.29% |
 | 07:30 | INR | Low | WPI Fuel (YoY) (Aug) |  |  | -2.43% |
 | 07:30 | INR | Moderate | WPI Inflation (YoY) (Aug) |  | 0.30% | -0.58% |
