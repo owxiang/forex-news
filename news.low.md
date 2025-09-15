@@ -13,21 +13,21 @@
 | 07:00 | EUR | German WPI (YoY) (Aug) | 0.7% |  | 0.5% |
 | 07:00 | EUR | German WPI (MoM) (Aug) | -0.6% | 0.2% | -0.1% |
 | 07:00 | NOK | Trade Balance (Aug) | 60.1B |  | 54.6B |
-| 19 min | CHF | PPI (YoY) (Aug) |  |  | -0.9% |
-| 19 min | INR | WPI Food (YoY) (Aug) |  |  | -6.29% |
-| 19 min | INR | WPI Fuel (YoY) (Aug) |  |  | -2.43% |
-| 19 min | INR | WPI Manufacturing Inflation (YoY) (Aug) |  |  | 2.05% |
-| 49 min | CNY | FDI (Aug) |  |  | -13.40% |
-| 09:00 | EUR | Italian Trade Balance (Jul) |  | 5.500B | 5.409B |
-| 09:00 | EUR | Italian Trade Balance EU (Jul) |  |  | -0.07B |
-| 09:00 | EUR | Italian Trade Balance Non-EU (Jul) |  |  | 5.39B |
-| 09:30 | HKD | Industrial Production (YoY) (Q2) |  |  | 0.70% |
-| 09:30 | HKD | PPI (YoY) (Q2) |  |  | 4.80% |
+| 07:30 | CHF | PPI (YoY) (Aug) | -1.8% |  | -0.9% |
+| 07:30 | INR | WPI Food (YoY) (Aug) | -3.06% |  | -6.29% |
+| 07:30 | INR | WPI Fuel (YoY) (Aug) | -3.17% |  | -2.43% |
+| 07:30 | INR | WPI Manufacturing Inflation (YoY) (Aug) | 2.55% |  | 2.05% |
+| 09:00 | EUR | Italian Trade Balance (Jul) | 7.908B | 5.500B | 5.384B |
+| 09:00 | EUR | Italian Trade Balance EU (Jul) | 1.92B |  | -0.09B |
+| 09:00 | EUR | Italian Trade Balance Non-EU (Jul) | 5.99B |  | 5.39B |
+| 20 min | HKD | Industrial Production (YoY) (Q2) |  |  | 0.70% |
+| 20 min | HKD | PPI (YoY) (Q2) |  |  | 4.80% |
 | 10:30 | EUR | German 12-Month Bubill Auction |  |  | 1.895% |
 | 11:00 | INR | Exports (USD) (Aug) |  |  | 37.24B |
 | 11:00 | INR | Imports (USD) (Aug) |  |  | 64.59B |
 | 11:00 | INR | Trade Balance (Aug) |  |  | -27.35B |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 11:00 | CNY | FDI (Aug) |  |  | -13.40% |
 | 11:00 | EUR | Reserve Assets Total (Aug) |  |  | 1,498.95B |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:00 | BRL | IBC-Br Economic Activity (Jul) |  |  | -0.10% |
