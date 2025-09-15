@@ -1,16 +1,32 @@
-## 15 September 2025 - Moderate Impact Forex News
+## 16 September 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:00 | CNY | Fixed Asset Investment (YoY) (Aug) | 0.5% | 1.5% | 1.6% |
-| 03:00 | CNY | Industrial Production (YoY) (Aug) | 5.2% | 5.7% | 5.7% |
-| 03:00 | CNY | Chinese Industrial Production YTD (YoY) (Aug) | 6.2% |  | 6.3% |
-| 03:00 | CNY | Chinese Unemployment Rate (Aug) | 5.3% | 5.2% | 5.2% |
-| 03:00 | CNY | NBS Press Conference |  |  |  |
-| 07:30 | CHF | PPI (MoM) (Aug) | -0.6% | 0.1% | -0.2% |
-| 07:30 | INR | WPI Inflation (YoY) (Aug) | 0.52% | 0.30% | -0.58% |
-| 10:00 | EUR | Trade Balance (Jul) | 12.4B | 11.7B | 8.0B |
-| 12:30 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 13:30 | USD | NY Empire State Manufacturing Index (Sep) | -8.70 | 4.30 | 11.90 |
-| 13:30 | CAD | Wholesale Sales (MoM) (Jul) | 1.2% | 1.4% | 1.0% |
-| 19:30 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 07:00 | GBP | Average Earnings Index +Bonus (Jul) |  | 4.7% | 4.6% |
+| 07:00 | GBP | Claimant Count Change (Aug) |  | 20.3K | -6.2K |
+| 07:00 | GBP | Employment Change 3M/3M (MoM) (Jul) |  | 220K | 238K |
+| 07:00 | GBP | Unemployment Rate (Jul) |  | 4.7% | 4.7% |
+| 10:00 | EUR | German ZEW Current Conditions (Sep) |  | -75.0 | -68.6 |
+| 10:00 | EUR | German ZEW Economic Sentiment (Sep) |  | 26.4 | 34.7 |
+| 10:00 | EUR | Wages in euro zone (YoY) (Q2) |  | 3.70% | 3.40% |
+| 10:00 | EUR | Industrial Production (MoM) (Jul) |  | 0.3% | -1.3% |
+| 10:00 | EUR | ZEW Economic Sentiment (Sep) |  | 20.3 | 25.1 |
+| 13:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 13:00 | BRL | Unemployment Rate (Jul) |  | 5.7% | 5.8% |
+| 13:15 | CAD | Housing Starts (Aug) |  | 278.0K | 294.1K |
+| 13:30 | USD | Export Price Index (MoM) (Aug) |  |  | 0.1% |
+| 13:30 | USD | Import Price Index (MoM) (Aug) |  | -0.2% | 0.4% |
+| 13:30 | USD | Retail Control (MoM) (Aug) |  | 0.4% | 0.5% |
+| 13:30 | CAD | Core CPI (MoM) (Aug) |  |  | 0.1% |
+| 13:30 | CAD | Core CPI (YoY) (Aug) |  |  | 2.6% |
+| 13:30 | CAD | CPI (MoM) (Aug) |  | 0.1% | 0.3% |
+| 14:15 | USD | Industrial Production (YoY) (Aug) |  |  | 1.43% |
+| 14:15 | USD | Industrial Production (MoM) (Aug) |  | 0.0% | -0.1% |
+| 15:00 | USD | Business Inventories (MoM) (Jul) |  | 0.2% | 0.2% |
+| 15:00 | USD | Retail Inventories Ex Auto (Jul) |  | -0.1% | -0.1% |
+| 17:30 | USD | Atlanta Fed GDPNow (Q3) |  | 3.1% | 3.1% |
+| 18:00 | USD | 20-Year Bond Auction |  |  | 4.876% |
+| 21:30 | USD | API Weekly Crude Oil Stock |  |  | 1.250M |
+| 22:00 | NZD | Westpac Consumer Sentiment (Q3) |  |  | 91.2 |
+| 23:45 | NZD | Current Account (YoY) (Q2) |  |  | -24.66B |
+| 23:45 | NZD | Current Account (QoQ) (Q2) |  | -2.67B | -2.32B |
