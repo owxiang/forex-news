@@ -27,16 +27,16 @@
 | 09:00 | EUR | Low | Italian Trade Balance (Jul) | 7.908B | 5.500B | 5.384B |
 | 09:00 | EUR | Low | Italian Trade Balance EU (Jul) | 1.92B |  | -0.09B |
 | 09:00 | EUR | Low | Italian Trade Balance Non-EU (Jul) | 5.99B |  | 5.39B |
-| 20 min | HKD | Low | Industrial Production (YoY) (Q2) |  |  | 0.70% |
-| 20 min | HKD | Low | PPI (YoY) (Q2) |  |  | 4.80% |
-| 50 min | EUR | Moderate | Trade Balance (Jul) |  | 11.7B | 7.0B |
-| 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 1.895% |
-| 11:00 | INR | Low | Exports (USD) (Aug) |  |  | 37.24B |
-| 11:00 | INR | Low | Imports (USD) (Aug) |  |  | 64.59B |
-| 11:00 | INR | Low | Trade Balance (Aug) |  |  | -27.35B |
-| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 11:00 | CNY | Low | FDI (Aug) |  |  | -13.40% |
-| 11:00 | EUR | Low | Reserve Assets Total (Aug) |  |  | 1,498.95B |
+| 09:30 | HKD | Low | Industrial Production (YoY) (Q2) | 0.80% |  | 0.70% |
+| 09:30 | HKD | Low | PPI (YoY) (Q2) | 4.00% |  | 4.80% |
+| 10:00 | EUR | Moderate | Trade Balance (Jul) | 12.4B | 11.7B | 7.0B |
+| 22 min | EUR | Low | German 12-Month Bubill Auction |  |  | 1.895% |
+| 52 min | INR | Low | Exports (USD) (Aug) |  |  | 37.24B |
+| 52 min | INR | Low | Imports (USD) (Aug) |  |  | 64.59B |
+| 52 min | INR | Low | Trade Balance (Aug) |  |  | -27.35B |
+| 52 min | EUR | Low | German Buba Monthly Report |  |  |  |
+| 52 min | CNY | Low | FDI (Aug) |  |  | -13.40% |
+| 52 min | EUR | Low | Reserve Assets Total (Aug) |  |  | 1,498.95B |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:30 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 13:00 | BRL | Low | IBC-Br Economic Activity (Jul) |  |  | -0.10% |
