@@ -45,8 +45,8 @@
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.046% |  | 1.997% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.007% |  | 1.989% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.027% |  | 2.006% |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.940% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.730% |
+| 23 min | USD | Low | 3-Month Bill Auction |  |  | 3.940% |
+| 23 min | USD | Low | 6-Month Bill Auction |  |  | 3.730% |
 | 19:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 22:00 | KRW | Low | Export Price Index (YoY) (Aug) |  |  | -4.3% |
 | 22:00 | KRW | Low | Import Price Index (YoY) (Aug) |  |  | -5.9% |
