@@ -5,17 +5,19 @@
 | 00:01 | GBP | Rightmove House Price Index (MoM) (Sep) | 0.4% |  | -1.3% |
 | 00:01 | GBP | Rightmove House Price Index (YoY) (Sep) | -0.1% |  | 0.3% |
 | 02:30 | CNY | House Prices (YoY) (Aug) | -2.5% |  | -2.8% |
+| 03:00 | KRW | Exports (YoY) (Aug) | 1.2% | 1.3% | 4.3% |
 | 03:00 | KRW | Imports (YoY) (Aug) | -4.1% | -4.0% | 3.3% |
+| 03:00 | KRW | Trade Balance (Aug) | 6.51B | 6.51B | 9.08B |
 | 03:00 | CNY | Retail Sales (YoY) (Aug) | 3.4% | 3.8% | 3.7% |
 | 03:00 | CNY | Chinese Retail Sales YTD (YoY) (Aug) | 3.67% |  | 3.84% |
-| 53 min | EUR | German WPI (YoY) (Aug) |  |  | 0.5% |
-| 53 min | EUR | German WPI (MoM) (Aug) |  | 0.2% | -0.1% |
-| 53 min | NOK | Trade Balance (Aug) |  |  | 54.0B |
-| 07:30 | CHF | PPI (YoY) (Aug) |  |  | -0.9% |
-| 07:30 | INR | WPI Food (YoY) (Aug) |  |  | -6.29% |
-| 07:30 | INR | WPI Fuel (YoY) (Aug) |  |  | -2.43% |
-| 07:30 | INR | WPI Manufacturing Inflation (YoY) (Aug) |  |  | 2.05% |
-| 08:00 | CNY | FDI (Aug) |  |  | -13.40% |
+| 07:00 | EUR | German WPI (YoY) (Aug) | 0.7% |  | 0.5% |
+| 07:00 | EUR | German WPI (MoM) (Aug) | -0.6% | 0.2% | -0.1% |
+| 07:00 | NOK | Trade Balance (Aug) | 60.1B |  | 54.6B |
+| 19 min | CHF | PPI (YoY) (Aug) |  |  | -0.9% |
+| 19 min | INR | WPI Food (YoY) (Aug) |  |  | -6.29% |
+| 19 min | INR | WPI Fuel (YoY) (Aug) |  |  | -2.43% |
+| 19 min | INR | WPI Manufacturing Inflation (YoY) (Aug) |  |  | 2.05% |
+| 49 min | CNY | FDI (Aug) |  |  | -13.40% |
 | 09:00 | EUR | Italian Trade Balance (Jul) |  | 5.500B | 5.409B |
 | 09:00 | EUR | Italian Trade Balance EU (Jul) |  |  | -0.07B |
 | 09:00 | EUR | Italian Trade Balance Non-EU (Jul) |  |  | 5.39B |
