@@ -22,15 +22,15 @@
 | 09:00 | EUR | Italian Trade Balance Non-EU (Jul) | 5.99B |  | 5.39B |
 | 09:30 | HKD | Industrial Production (YoY) (Q2) | 0.80% |  | 0.70% |
 | 09:30 | HKD | PPI (YoY) (Q2) | 4.00% |  | 4.80% |
-| 22 min | EUR | German 12-Month Bubill Auction |  |  | 1.895% |
-| 52 min | INR | Exports (USD) (Aug) |  |  | 37.24B |
-| 52 min | INR | Imports (USD) (Aug) |  |  | 64.59B |
-| 52 min | INR | Trade Balance (Aug) |  |  | -27.35B |
-| 52 min | EUR | German Buba Monthly Report |  |  |  |
-| 52 min | CNY | FDI (Aug) |  |  | -13.40% |
-| 52 min | EUR | Reserve Assets Total (Aug) |  |  | 1,498.95B |
+| 10:30 | INR | Exports (USD) (Aug) | 35.10B |  | 37.24B |
+| 10:30 | INR | Imports (USD) (Aug) | 61.59B |  | 64.59B |
+| 10:30 | INR | Trade Balance (Aug) | -26.49B |  | -27.35B |
+| 10:50 | EUR | German 12-Month Bubill Auction | 1.938% |  | 1.895% |
+| 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 11:00 | CNY | FDI (Aug) |  |  | -13.40% |
+| 11:00 | EUR | Reserve Assets Total (Aug) | 1,507.85B |  | 1,498.95B |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | BRL | IBC-Br Economic Activity (Jul) |  |  | -0.10% |
+| 13:00 | BRL | IBC-Br Economic Activity (Jul) |  | -0.20% | -0.10% |
 | 13:30 | CAD | Manufacturing Sales (MoM) (Jul) |  | 1.7% | 0.3% |
 | 13:30 | CAD | New Motor Vehicle Sales (MoM) (Jul) |  |  | 177.3K |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 1.997% |
