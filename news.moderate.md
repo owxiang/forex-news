@@ -11,14 +11,14 @@
 | 10:00 | EUR | Wages in euro zone (YoY) (Q2) | 3.70% | 3.70% | 3.50% |
 | 10:00 | EUR | Industrial Production (MoM) (Jul) | 0.3% | 0.4% | -0.6% |
 | 10:00 | EUR | ZEW Economic Sentiment (Sep) | 26.1 | 20.3 | 25.1 |
-| 13:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 13:00 | BRL | Unemployment Rate (Jul) |  | 5.7% | 5.8% |
+| 54 min | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 54 min | BRL | Unemployment Rate (Jul) |  | 5.7% | 5.8% |
 | 13:15 | CAD | Housing Starts (Aug) |  | 278.0K | 294.1K |
 | 13:30 | USD | Export Price Index (MoM) (Aug) |  | -0.1% | 0.1% |
 | 13:30 | USD | Import Price Index (MoM) (Aug) |  | -0.2% | 0.4% |
 | 13:30 | USD | Retail Control (MoM) (Aug) |  | 0.4% | 0.5% |
-| 13:30 | CAD | Core CPI (YoY) (Aug) |  |  | 2.6% |
 | 13:30 | CAD | Core CPI (MoM) (Aug) |  |  | 0.1% |
+| 13:30 | CAD | Core CPI (YoY) (Aug) |  |  | 2.6% |
 | 13:30 | CAD | CPI (MoM) (Aug) |  | 0.0% | 0.3% |
 | 14:15 | USD | Industrial Production (YoY) (Aug) |  |  | 1.43% |
 | 14:15 | USD | Industrial Production (MoM) (Aug) |  | 0.0% | -0.1% |
