@@ -10,22 +10,21 @@
 | 09:00 | EUR | Italian CPI (MoM) (Aug) | 0.1% | 0.1% | 0.4% |
 | 09:00 | EUR | Italian CPI (YoY) (Aug) | 1.6% | 1.6% | 1.6% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Aug) | 1.4% |  | 1.5% |
-| 09:00 | EUR | Italian HICP (MoM) (Aug) | -0.2% | -0.2% | -1.0% |
 | 09:00 | EUR | Italian HICP (YoY) (Aug) | 1.6% | 1.7% | 1.7% |
+| 09:00 | EUR | Italian HICP (MoM) (Aug) | -0.2% | -0.2% | -1.0% |
 | 09:30 | HKD | Unemployment Rate (Aug) | 3.7% |  | 3.7% |
 | 10:00 | EUR | Industrial Production (YoY) (Jul) | 1.8% | 1.7% | 0.7% |
 | 10:00 | EUR | Labor Cost Index (YoY) (Q2) | 3.60% | 3.70% | 3.40% |
 | 10:30 | EUR | German 5-Year Bobl Auction | 2.290% |  | 2.320% |
-| 54 min | CNY | FDI (Aug) |  |  | -13.40% |
-| 13:30 | USD | Export Price Index (YoY) (Aug) |  |  | 2.2% |
-| 13:30 | USD | Import Price Index (YoY) (Aug) |  |  | -0.2% |
-| 13:30 | USD | Retail Sales (YoY) (Aug) |  |  | 3.92% |
-| 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Aug) |  |  | 0.2% |
-| 13:30 | CAD | Common CPI (YoY) (Aug) |  | 2.5% | 2.6% |
-| 13:30 | CAD | CPI (YoY) (Aug) |  | 2.0% | 1.7% |
-| 13:30 | CAD | Median CPI (YoY) (Aug) |  | 3.1% | 3.1% |
-| 13:30 | CAD | Trimmed CPI (YoY) (Aug) |  | 3.0% | 3.0% |
-| 13:55 | USD | Redbook (YoY) |  |  | 6.6% |
+| 19 min | USD | Export Price Index (YoY) (Aug) |  |  | 2.2% |
+| 19 min | USD | Import Price Index (YoY) (Aug) |  |  | -0.2% |
+| 19 min | USD | Retail Sales (YoY) (Aug) |  |  | 3.92% |
+| 19 min | USD | Retail Sales Ex Gas/Autos (MoM) (Aug) |  |  | 0.2% |
+| 19 min | CAD | Common CPI (YoY) (Aug) |  | 2.5% | 2.6% |
+| 19 min | CAD | CPI (YoY) (Aug) |  | 2.0% | 1.7% |
+| 19 min | CAD | Median CPI (YoY) (Aug) |  | 3.1% | 3.1% |
+| 19 min | CAD | Trimmed CPI (YoY) (Aug) |  | 3.0% | 3.0% |
+| 44 min | USD | Redbook (YoY) |  |  | 6.6% |
 | 14:15 | USD | Capacity Utilization Rate (Aug) |  | 77.4% | 77.5% |
 | 14:15 | USD | Manufacturing Production (MoM) (Aug) |  | 0.0% | 0.0% |
 | 15:00 | USD | NAHB Housing Market Index (Sep) |  | 33 | 32 |

@@ -14,8 +14,8 @@
 | 09:00 | EUR | Low | Italian CPI (MoM) (Aug) | 0.1% | 0.1% | 0.4% |
 | 09:00 | EUR | Low | Italian CPI (YoY) (Aug) | 1.6% | 1.6% | 1.6% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Aug) | 1.4% |  | 1.5% |
-| 09:00 | EUR | Low | Italian HICP (MoM) (Aug) | -0.2% | -0.2% | -1.0% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (Aug) | 1.6% | 1.7% | 1.7% |
+| 09:00 | EUR | Low | Italian HICP (MoM) (Aug) | -0.2% | -0.2% | -1.0% |
 | 09:30 | HKD | Low | Unemployment Rate (Aug) | 3.7% |  | 3.7% |
 | 10:00 | EUR | Moderate | German ZEW Current Conditions (Sep) | -76.4 | -75.0 | -68.6 |
 | 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Sep) | 37.3 | 25.3 | 34.7 |
@@ -25,27 +25,26 @@
 | 10:00 | EUR | Low | Labor Cost Index (YoY) (Q2) | 3.60% | 3.70% | 3.40% |
 | 10:00 | EUR | Moderate | ZEW Economic Sentiment (Sep) | 26.1 | 20.3 | 25.1 |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction | 2.290% |  | 2.320% |
-| 54 min | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 54 min | BRL | Moderate | Unemployment Rate (Jul) |  | 5.7% | 5.8% |
-| 54 min | CNY | Low | FDI (Aug) |  |  | -13.40% |
-| 13:15 | CAD | Moderate | Housing Starts (Aug) |  | 278.0K | 294.1K |
-| 13:30 | USD | High | Core Retail Sales (MoM) (Aug) |  | 0.4% | 0.3% |
-| 13:30 | USD | Low | Export Price Index (YoY) (Aug) |  |  | 2.2% |
-| 13:30 | USD | Moderate | Export Price Index (MoM) (Aug) |  | -0.1% | 0.1% |
-| 13:30 | USD | Moderate | Import Price Index (MoM) (Aug) |  | -0.2% | 0.4% |
-| 13:30 | USD | Low | Import Price Index (YoY) (Aug) |  |  | -0.2% |
-| 13:30 | USD | Moderate | Retail Control (MoM) (Aug) |  | 0.4% | 0.5% |
-| 13:30 | USD | Low | Retail Sales (YoY) (Aug) |  |  | 3.92% |
-| 13:30 | USD | High | Retail Sales (MoM) (Aug) |  | 0.2% | 0.5% |
-| 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Aug) |  |  | 0.2% |
-| 13:30 | CAD | Low | Common CPI (YoY) (Aug) |  | 2.5% | 2.6% |
-| 13:30 | CAD | Moderate | Core CPI (MoM) (Aug) |  |  | 0.1% |
-| 13:30 | CAD | Moderate | Core CPI (YoY) (Aug) |  |  | 2.6% |
-| 13:30 | CAD | Low | CPI (YoY) (Aug) |  | 2.0% | 1.7% |
-| 13:30 | CAD | Moderate | CPI (MoM) (Aug) |  | 0.0% | 0.3% |
-| 13:30 | CAD | Low | Median CPI (YoY) (Aug) |  | 3.1% | 3.1% |
-| 13:30 | CAD | Low | Trimmed CPI (YoY) (Aug) |  | 3.0% | 3.0% |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 6.6% |
+| 13:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
+| 13:00 | BRL | Moderate | Unemployment Rate (Jul) | 5.6% | 5.7% | 5.8% |
+| 4 min | CAD | Moderate | Housing Starts (Aug) |  | 278.0K | 294.1K |
+| 19 min | USD | High | Core Retail Sales (MoM) (Aug) |  | 0.4% | 0.3% |
+| 19 min | USD | Moderate | Export Price Index (MoM) (Aug) |  | -0.1% | 0.1% |
+| 19 min | USD | Low | Export Price Index (YoY) (Aug) |  |  | 2.2% |
+| 19 min | USD | Low | Import Price Index (YoY) (Aug) |  |  | -0.2% |
+| 19 min | USD | Moderate | Import Price Index (MoM) (Aug) |  | -0.2% | 0.4% |
+| 19 min | USD | Moderate | Retail Control (MoM) (Aug) |  | 0.4% | 0.5% |
+| 19 min | USD | Low | Retail Sales (YoY) (Aug) |  |  | 3.92% |
+| 19 min | USD | High | Retail Sales (MoM) (Aug) |  | 0.2% | 0.5% |
+| 19 min | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Aug) |  |  | 0.2% |
+| 19 min | CAD | Low | Common CPI (YoY) (Aug) |  | 2.5% | 2.6% |
+| 19 min | CAD | Moderate | Core CPI (MoM) (Aug) |  |  | 0.1% |
+| 19 min | CAD | Moderate | Core CPI (YoY) (Aug) |  |  | 2.6% |
+| 19 min | CAD | Moderate | CPI (MoM) (Aug) |  | 0.0% | 0.3% |
+| 19 min | CAD | Low | CPI (YoY) (Aug) |  | 2.0% | 1.7% |
+| 19 min | CAD | Low | Median CPI (YoY) (Aug) |  | 3.1% | 3.1% |
+| 19 min | CAD | Low | Trimmed CPI (YoY) (Aug) |  | 3.0% | 3.0% |
+| 44 min | USD | Low | Redbook (YoY) |  |  | 6.6% |
 | 14:15 | USD | Low | Capacity Utilization Rate (Aug) |  | 77.4% | 77.5% |
 | 14:15 | USD | Moderate | Industrial Production (YoY) (Aug) |  |  | 1.43% |
 | 14:15 | USD | Moderate | Industrial Production (MoM) (Aug) |  | 0.0% | -0.1% |
@@ -57,8 +56,8 @@
 | 16:00 | USD | Low | Milk Auctions |  |  | 4,043.0 |
 | 17:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 3.1% | 3.1% |
 | 18:00 | USD | Moderate | 20-Year Bond Auction |  |  | 4.876% |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 1.250M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.600M | 1.250M |
 | 22:00 | NZD | Moderate | Westpac Consumer Sentiment (Q3) |  |  | 91.2 |
-| 23:45 | NZD | Moderate | Current Account (QoQ) (Q2) |  | -2.67B | -2.32B |
 | 23:45 | NZD | Moderate | Current Account (YoY) (Q2) |  |  | -24.66B |
+| 23:45 | NZD | Moderate | Current Account (QoQ) (Q2) |  | -2.67B | -2.32B |
 | 23:45 | NZD | Low | Current Account % of GDP (Q2) |  |  | -5.70% |
