@@ -7,8 +7,8 @@
 | 04:00 | NZD | RBNZ Offshore Holdings (Aug) | 59.60% |  | 60.80% |
 | 05:30 | JPY | Tertiary Industry Activity Index (Jul) | 1.40 |  | 3.90 |
 | 07:00 | GBP | Average Earnings ex Bonus (Jul) | 4.8% | 4.8% | 5.0% |
-| 09:00 | EUR | Italian CPI (YoY) (Aug) | 1.6% | 1.6% | 1.6% |
 | 09:00 | EUR | Italian CPI (MoM) (Aug) | 0.1% | 0.1% | 0.4% |
+| 09:00 | EUR | Italian CPI (YoY) (Aug) | 1.6% | 1.6% | 1.6% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Aug) | 1.4% |  | 1.5% |
 | 09:00 | EUR | Italian HICP (YoY) (Aug) | 1.6% | 1.7% | 1.7% |
 | 09:00 | EUR | Italian HICP (MoM) (Aug) | -0.2% | -0.2% | -1.0% |
@@ -28,4 +28,6 @@
 | 14:15 | USD | Capacity Utilization Rate (Aug) | 77.4% | 77.4% | 77.4% |
 | 14:15 | USD | Manufacturing Production (MoM) (Aug) | 0.2% | -0.2% | -0.1% |
 | 15:00 | USD | NAHB Housing Market Index (Sep) | 32 | 33 | 32 |
+| 16:00 | NZD | GlobalDairyTrade Price Index | -0.8% |  | -4.3% |
+| 16:00 | USD | Milk Auctions | 4,041.0 |  | 4,043.0 |
 | 23:45 | NZD | Current Account % of GDP (Q2) |  |  | -5.70% |
