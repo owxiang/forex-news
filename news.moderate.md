@@ -20,8 +20,8 @@
 | 13:30 | CAD | Core CPI (MoM) (Aug) |  |  | 0.1% |
 | 13:30 | CAD | Core CPI (YoY) (Aug) |  |  | 2.6% |
 | 13:30 | CAD | CPI (MoM) (Aug) |  | 0.1% | 0.3% |
-| 14:15 | USD | Industrial Production (MoM) (Aug) |  | 0.0% | -0.1% |
 | 14:15 | USD | Industrial Production (YoY) (Aug) |  |  | 1.43% |
+| 14:15 | USD | Industrial Production (MoM) (Aug) |  | 0.0% | -0.1% |
 | 15:00 | USD | Business Inventories (MoM) (Jul) |  | 0.2% | 0.2% |
 | 15:00 | USD | Retail Inventories Ex Auto (Jul) |  | -0.1% | -0.1% |
 | 17:30 | USD | Atlanta Fed GDPNow (Q3) |  | 3.1% | 3.1% |

@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 29 min | KRW | Low | M3 Money Supply (Jul) |  |  | 5,851.1B |
-| 29 min | KRW | Low | M2 Money supply (Jul) |  |  | 5.40% |
-| 29 min | NZD | Low | RBNZ Offshore Holdings (Aug) |  |  | 60.80% |
+| 04:00 | KRW | Low | M2 Money supply (Jul) | 6.40% |  | 5.40% |
+| 04:00 | NZD | Low | RBNZ Offshore Holdings (Aug) | 59.60% |  | 60.80% |
+| 05:30 | KRW | Low | M3 Money Supply (Jul) |  |  | 5,851.1B |
 | 05:30 | JPY | Low | Tertiary Industry Activity Index (Jul) |  |  | 4.50 |
 | 07:00 | GBP | Low | Average Earnings ex Bonus (Jul) |  | 4.8% | 5.0% |
 | 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Jul) |  | 4.7% | 4.6% |
@@ -37,8 +37,8 @@
 | 13:30 | USD | Moderate | Import Price Index (MoM) (Aug) |  | -0.2% | 0.4% |
 | 13:30 | USD | Low | Import Price Index (YoY) (Aug) |  |  | -0.2% |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Aug) |  | 0.4% | 0.5% |
-| 13:30 | USD | Low | Retail Sales (YoY) (Aug) |  |  | 3.92% |
 | 13:30 | USD | High | Retail Sales (MoM) (Aug) |  | 0.2% | 0.5% |
+| 13:30 | USD | Low | Retail Sales (YoY) (Aug) |  |  | 3.92% |
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Aug) |  |  | 0.2% |
 | 13:30 | CAD | Low | Common CPI (YoY) (Aug) |  | 2.6% | 2.6% |
 | 13:30 | CAD | Moderate | Core CPI (MoM) (Aug) |  |  | 0.1% |
@@ -49,8 +49,8 @@
 | 13:30 | CAD | Low | Trimmed CPI (YoY) (Aug) |  | 3.0% | 3.0% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 6.6% |
 | 14:15 | USD | Low | Capacity Utilization Rate (Aug) |  | 77.4% | 77.5% |
-| 14:15 | USD | Moderate | Industrial Production (MoM) (Aug) |  | 0.0% | -0.1% |
 | 14:15 | USD | Moderate | Industrial Production (YoY) (Aug) |  |  | 1.43% |
+| 14:15 | USD | Moderate | Industrial Production (MoM) (Aug) |  | 0.0% | -0.1% |
 | 14:15 | USD | Low | Manufacturing Production (MoM) (Aug) |  |  | 0.0% |
 | 15:00 | USD | Moderate | Business Inventories (MoM) (Jul) |  | 0.2% | 0.2% |
 | 15:00 | USD | Low | NAHB Housing Market Index (Sep) |  | 33 | 32 |

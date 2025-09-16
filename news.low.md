@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 29 min | KRW | M3 Money Supply (Jul) |  |  | 5,851.1B |
-| 29 min | KRW | M2 Money supply (Jul) |  |  | 5.40% |
-| 29 min | NZD | RBNZ Offshore Holdings (Aug) |  |  | 60.80% |
+| 04:00 | KRW | M2 Money supply (Jul) | 6.40% |  | 5.40% |
+| 04:00 | NZD | RBNZ Offshore Holdings (Aug) | 59.60% |  | 60.80% |
+| 05:30 | KRW | M3 Money Supply (Jul) |  |  | 5,851.1B |
 | 05:30 | JPY | Tertiary Industry Activity Index (Jul) |  |  | 4.50 |
 | 07:00 | GBP | Average Earnings ex Bonus (Jul) |  | 4.8% | 5.0% |
 | 09:00 | EUR | Italian CPI (MoM) (Aug) |  | 0.1% | 0.1% |
