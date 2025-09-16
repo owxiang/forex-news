@@ -11,17 +11,17 @@
 | 07:00 | GBP | Moderate | Claimant Count Change (Aug) | 17.4K | 15.3K | -33.3K |
 | 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Jul) | 232K | 220K | 238K |
 | 07:00 | GBP | Moderate | Unemployment Rate (Jul) | 4.7% | 4.7% | 4.7% |
-| 09:00 | EUR | Low | Italian CPI (MoM) (Aug) |  | 0.1% | 0.4% |
-| 09:00 | EUR | Low | Italian CPI (YoY) (Aug) |  | 1.6% | 1.6% |
-| 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Aug) |  |  | 1.5% |
-| 09:00 | EUR | Low | Italian HICP (MoM) (Aug) |  | -0.2% | -1.0% |
-| 09:00 | EUR | Low | Italian HICP (YoY) (Aug) |  | 1.7% | 1.7% |
+| 52 min | EUR | Low | Italian CPI (YoY) (Aug) |  | 1.6% | 1.6% |
+| 52 min | EUR | Low | Italian CPI (MoM) (Aug) |  | 0.1% | 0.4% |
+| 52 min | EUR | Low | Italian CPI Ex Tobacco (YoY) (Aug) |  |  | 1.5% |
+| 52 min | EUR | Low | Italian HICP (YoY) (Aug) |  | 1.7% | 1.7% |
+| 52 min | EUR | Low | Italian HICP (MoM) (Aug) |  | -0.2% | -1.0% |
 | 09:30 | HKD | Low | Unemployment Rate (Aug) |  |  | 3.7% |
 | 10:00 | EUR | Moderate | German ZEW Current Conditions (Sep) |  | -75.0 | -68.6 |
 | 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Sep) |  | 25.3 | 34.7 |
 | 10:00 | EUR | Moderate | Wages in euro zone (YoY) (Q2) |  | 3.70% | 3.40% |
-| 10:00 | EUR | Moderate | Industrial Production (MoM) (Jul) |  | 0.4% | -1.3% |
 | 10:00 | EUR | Low | Industrial Production (YoY) (Jul) |  | 1.7% | 0.2% |
+| 10:00 | EUR | Moderate | Industrial Production (MoM) (Jul) |  | 0.4% | -1.3% |
 | 10:00 | EUR | Low | Labor Cost Index (YoY) (Q2) |  | 3.70% | 3.40% |
 | 10:00 | EUR | Moderate | ZEW Economic Sentiment (Sep) |  | 20.3 | 25.1 |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.320% |
@@ -32,11 +32,11 @@
 | 13:30 | USD | High | Core Retail Sales (MoM) (Aug) |  | 0.4% | 0.3% |
 | 13:30 | USD | Moderate | Export Price Index (MoM) (Aug) |  | -0.1% | 0.1% |
 | 13:30 | USD | Low | Export Price Index (YoY) (Aug) |  |  | 2.2% |
-| 13:30 | USD | Low | Import Price Index (YoY) (Aug) |  |  | -0.2% |
 | 13:30 | USD | Moderate | Import Price Index (MoM) (Aug) |  | -0.2% | 0.4% |
+| 13:30 | USD | Low | Import Price Index (YoY) (Aug) |  |  | -0.2% |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Aug) |  | 0.4% | 0.5% |
-| 13:30 | USD | High | Retail Sales (MoM) (Aug) |  | 0.2% | 0.5% |
 | 13:30 | USD | Low | Retail Sales (YoY) (Aug) |  |  | 3.92% |
+| 13:30 | USD | High | Retail Sales (MoM) (Aug) |  | 0.2% | 0.5% |
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Aug) |  |  | 0.2% |
 | 13:30 | CAD | Low | Common CPI (YoY) (Aug) |  | 2.5% | 2.6% |
 | 13:30 | CAD | Moderate | Core CPI (MoM) (Aug) |  |  | 0.1% |
@@ -59,6 +59,6 @@
 | 18:00 | USD | Moderate | 20-Year Bond Auction |  |  | 4.876% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 1.250M |
 | 22:00 | NZD | Moderate | Westpac Consumer Sentiment (Q3) |  |  | 91.2 |
-| 23:45 | NZD | Moderate | Current Account (QoQ) (Q2) |  | -2.67B | -2.32B |
 | 23:45 | NZD | Moderate | Current Account (YoY) (Q2) |  |  | -24.66B |
+| 23:45 | NZD | Moderate | Current Account (QoQ) (Q2) |  | -2.67B | -2.32B |
 | 23:45 | NZD | Low | Current Account % of GDP (Q2) |  |  | -5.70% |
