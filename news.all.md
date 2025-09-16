@@ -14,26 +14,26 @@
 | 09:00 | EUR | Low | Italian CPI (YoY) (Aug) | 1.6% | 1.6% | 1.6% |
 | 09:00 | EUR | Low | Italian CPI (MoM) (Aug) | 0.1% | 0.1% | 0.4% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Aug) | 1.4% |  | 1.5% |
-| 09:00 | EUR | Low | Italian HICP (YoY) (Aug) | 1.6% | 1.7% | 1.7% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Aug) | -0.2% | -0.2% | -1.0% |
-| 21 min | HKD | Low | Unemployment Rate (Aug) |  |  | 3.7% |
-| 51 min | EUR | Moderate | German ZEW Current Conditions (Sep) |  | -75.0 | -68.6 |
-| 51 min | EUR | Moderate | German ZEW Economic Sentiment (Sep) |  | 25.3 | 34.7 |
-| 51 min | EUR | Moderate | Wages in euro zone (YoY) (Q2) |  | 3.70% | 3.40% |
-| 51 min | EUR | Low | Industrial Production (YoY) (Jul) |  | 1.7% | 0.2% |
-| 51 min | EUR | Moderate | Industrial Production (MoM) (Jul) |  | 0.4% | -1.3% |
-| 51 min | EUR | Low | Labor Cost Index (YoY) (Q2) |  | 3.70% | 3.40% |
-| 51 min | EUR | Moderate | ZEW Economic Sentiment (Sep) |  | 20.3 | 25.1 |
-| 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.320% |
-| 11:00 | CNY | Low | FDI (Aug) |  |  | -13.40% |
+| 09:00 | EUR | Low | Italian HICP (YoY) (Aug) | 1.6% | 1.7% | 1.7% |
+| 09:30 | HKD | Low | Unemployment Rate (Aug) | 3.7% |  | 3.7% |
+| 10:00 | EUR | Moderate | German ZEW Current Conditions (Sep) | -76.4 | -75.0 | -68.6 |
+| 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Sep) | 37.3 | 25.3 | 34.7 |
+| 10:00 | EUR | Moderate | Wages in euro zone (YoY) (Q2) | 3.70% | 3.70% | 3.40% |
+| 10:00 | EUR | Low | Industrial Production (YoY) (Jul) | 1.8% | 1.7% | 0.7% |
+| 10:00 | EUR | Moderate | Industrial Production (MoM) (Jul) | 0.3% | 0.4% | -0.6% |
+| 10:00 | EUR | Low | Labor Cost Index (YoY) (Q2) | 3.60% | 3.70% | 3.40% |
+| 10:00 | EUR | Moderate | ZEW Economic Sentiment (Sep) | 26.1 | 20.3 | 25.1 |
+| 22 min | EUR | Low | German 5-Year Bobl Auction |  |  | 2.320% |
+| 52 min | CNY | Low | FDI (Aug) |  |  | -13.40% |
 | 13:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 13:00 | BRL | Moderate | Unemployment Rate (Jul) |  | 5.7% | 5.8% |
 | 13:15 | CAD | Moderate | Housing Starts (Aug) |  | 278.0K | 294.1K |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Aug) |  | 0.4% | 0.3% |
 | 13:30 | USD | Moderate | Export Price Index (MoM) (Aug) |  | -0.1% | 0.1% |
 | 13:30 | USD | Low | Export Price Index (YoY) (Aug) |  |  | 2.2% |
-| 13:30 | USD | Moderate | Import Price Index (MoM) (Aug) |  | -0.2% | 0.4% |
 | 13:30 | USD | Low | Import Price Index (YoY) (Aug) |  |  | -0.2% |
+| 13:30 | USD | Moderate | Import Price Index (MoM) (Aug) |  | -0.2% | 0.4% |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Aug) |  | 0.4% | 0.5% |
 | 13:30 | USD | Low | Retail Sales (YoY) (Aug) |  |  | 3.92% |
 | 13:30 | USD | High | Retail Sales (MoM) (Aug) |  | 0.2% | 0.5% |

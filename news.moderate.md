@@ -6,11 +6,11 @@
 | 07:00 | GBP | Claimant Count Change (Aug) | 17.4K | 15.3K | -33.3K |
 | 07:00 | GBP | Employment Change 3M/3M (MoM) (Jul) | 232K | 220K | 238K |
 | 07:00 | GBP | Unemployment Rate (Jul) | 4.7% | 4.7% | 4.7% |
-| 51 min | EUR | German ZEW Current Conditions (Sep) |  | -75.0 | -68.6 |
-| 51 min | EUR | German ZEW Economic Sentiment (Sep) |  | 25.3 | 34.7 |
-| 51 min | EUR | Wages in euro zone (YoY) (Q2) |  | 3.70% | 3.40% |
-| 51 min | EUR | Industrial Production (MoM) (Jul) |  | 0.4% | -1.3% |
-| 51 min | EUR | ZEW Economic Sentiment (Sep) |  | 20.3 | 25.1 |
+| 10:00 | EUR | German ZEW Current Conditions (Sep) | -76.4 | -75.0 | -68.6 |
+| 10:00 | EUR | German ZEW Economic Sentiment (Sep) | 37.3 | 25.3 | 34.7 |
+| 10:00 | EUR | Wages in euro zone (YoY) (Q2) | 3.70% | 3.70% | 3.40% |
+| 10:00 | EUR | Industrial Production (MoM) (Jul) | 0.3% | 0.4% | -0.6% |
+| 10:00 | EUR | ZEW Economic Sentiment (Sep) | 26.1 | 20.3 | 25.1 |
 | 13:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 13:00 | BRL | Unemployment Rate (Jul) |  | 5.7% | 5.8% |
 | 13:15 | CAD | Housing Starts (Aug) |  | 278.0K | 294.1K |
