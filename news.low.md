@@ -10,8 +10,8 @@
 | 09:00 | EUR | Italian CPI (YoY) (Aug) | 1.6% | 1.6% | 1.6% |
 | 09:00 | EUR | Italian CPI (MoM) (Aug) | 0.1% | 0.1% | 0.4% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Aug) | 1.4% |  | 1.5% |
-| 09:00 | EUR | Italian HICP (YoY) (Aug) | 1.6% | 1.7% | 1.7% |
 | 09:00 | EUR | Italian HICP (MoM) (Aug) | -0.2% | -0.2% | -1.0% |
+| 09:00 | EUR | Italian HICP (YoY) (Aug) | 1.6% | 1.7% | 1.7% |
 | 09:30 | HKD | Unemployment Rate (Aug) | 3.7% |  | 3.7% |
 | 10:00 | EUR | Industrial Production (YoY) (Jul) | 1.8% | 1.7% | 0.7% |
 | 10:00 | EUR | Labor Cost Index (YoY) (Q2) | 3.60% | 3.70% | 3.40% |
