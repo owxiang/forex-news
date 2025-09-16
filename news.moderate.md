@@ -25,8 +25,8 @@
 | 15:00 | USD | Business Inventories (MoM) (Jul) | 0.2% | 0.2% | 0.2% |
 | 15:00 | USD | Retail Inventories Ex Auto (Jul) | 0.1% | -0.1% | 0.1% |
 | 16:30 | USD | Atlanta Fed GDPNow (Q3) | 3.4% | 3.1% | 3.1% |
-| 52 min | USD | 20-Year Bond Auction |  |  | 4.876% |
+| 18:00 | USD | 20-Year Bond Auction | 4.613% |  | 4.876% |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | -1.600M | 1.250M |
 | 22:00 | NZD | Westpac Consumer Sentiment (Q3) |  |  | 91.2 |
-| 23:45 | NZD | Current Account (QoQ) (Q2) |  | -2.67B | -2.32B |
 | 23:45 | NZD | Current Account (YoY) (Q2) |  |  | -24.66B |
+| 23:45 | NZD | Current Account (QoQ) (Q2) |  | -2.67B | -2.32B |
