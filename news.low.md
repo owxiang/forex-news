@@ -7,14 +7,14 @@
 | 04:00 | NZD | RBNZ Offshore Holdings (Aug) | 59.60% |  | 60.80% |
 | 05:30 | JPY | Tertiary Industry Activity Index (Jul) | 1.40 |  | 3.90 |
 | 07:00 | GBP | Average Earnings ex Bonus (Jul) | 4.8% | 4.8% | 5.0% |
-| 52 min | EUR | Italian CPI (YoY) (Aug) |  | 1.6% | 1.6% |
-| 52 min | EUR | Italian CPI (MoM) (Aug) |  | 0.1% | 0.4% |
-| 52 min | EUR | Italian CPI Ex Tobacco (YoY) (Aug) |  |  | 1.5% |
-| 52 min | EUR | Italian HICP (YoY) (Aug) |  | 1.7% | 1.7% |
-| 52 min | EUR | Italian HICP (MoM) (Aug) |  | -0.2% | -1.0% |
-| 09:30 | HKD | Unemployment Rate (Aug) |  |  | 3.7% |
-| 10:00 | EUR | Industrial Production (YoY) (Jul) |  | 1.7% | 0.2% |
-| 10:00 | EUR | Labor Cost Index (YoY) (Q2) |  | 3.70% | 3.40% |
+| 09:00 | EUR | Italian CPI (YoY) (Aug) | 1.6% | 1.6% | 1.6% |
+| 09:00 | EUR | Italian CPI (MoM) (Aug) | 0.1% | 0.1% | 0.4% |
+| 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Aug) | 1.4% |  | 1.5% |
+| 09:00 | EUR | Italian HICP (YoY) (Aug) | 1.6% | 1.7% | 1.7% |
+| 09:00 | EUR | Italian HICP (MoM) (Aug) | -0.2% | -0.2% | -1.0% |
+| 21 min | HKD | Unemployment Rate (Aug) |  |  | 3.7% |
+| 51 min | EUR | Industrial Production (YoY) (Jul) |  | 1.7% | 0.2% |
+| 51 min | EUR | Labor Cost Index (YoY) (Q2) |  | 3.70% | 3.40% |
 | 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.320% |
 | 11:00 | CNY | FDI (Aug) |  |  | -13.40% |
 | 13:30 | USD | Export Price Index (YoY) (Aug) |  |  | 2.2% |
