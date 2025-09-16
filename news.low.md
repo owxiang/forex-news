@@ -5,13 +5,13 @@
 | 04:00 | KRW | M3 Money Supply (Jul) | 5,906.8B |  | 5,851.1B |
 | 04:00 | KRW | M2 Money supply (Jul) | 6.40% |  | 5.40% |
 | 04:00 | NZD | RBNZ Offshore Holdings (Aug) | 59.60% |  | 60.80% |
-| 22 min | JPY | Tertiary Industry Activity Index (Jul) |  |  | 4.50 |
-| 07:00 | GBP | Average Earnings ex Bonus (Jul) |  | 4.8% | 5.0% |
+| 05:30 | JPY | Tertiary Industry Activity Index (Jul) | 1.40 |  | 3.90 |
+| 53 min | GBP | Average Earnings ex Bonus (Jul) |  | 4.8% | 5.0% |
+| 09:00 | EUR | Italian CPI (MoM) (Aug) |  | 0.1% | 0.4% |
 | 09:00 | EUR | Italian CPI (YoY) (Aug) |  | 1.6% | 1.7% |
-| 09:00 | EUR | Italian CPI (MoM) (Aug) |  | 0.1% | 0.1% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Aug) |  |  | 1.5% |
+| 09:00 | EUR | Italian HICP (MoM) (Aug) |  | -0.2% | -1.0% |
 | 09:00 | EUR | Italian HICP (YoY) (Aug) |  | 1.7% | 1.7% |
-| 09:00 | EUR | Italian HICP (MoM) (Aug) |  | -0.2% | -0.2% |
 | 09:30 | HKD | Unemployment Rate (Aug) |  |  | 3.7% |
 | 10:00 | EUR | Industrial Production (YoY) (Jul) |  | 1.7% | 0.2% |
 | 10:00 | EUR | Labor Cost Index (YoY) (Q2) |  | 3.70% | 3.40% |
