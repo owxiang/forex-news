@@ -1,32 +1,29 @@
-## 16 September 2025 - Moderate Impact Forex News
+## 17 September 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | GBP | Average Earnings Index +Bonus (Jul) | 4.7% | 4.7% | 4.6% |
-| 07:00 | GBP | Claimant Count Change (Aug) | 17.4K | 15.3K | -33.3K |
-| 07:00 | GBP | Employment Change 3M/3M (MoM) (Jul) | 232K | 220K | 238K |
-| 07:00 | GBP | Unemployment Rate (Jul) | 4.7% | 4.7% | 4.7% |
-| 10:00 | EUR | German ZEW Current Conditions (Sep) | -76.4 | -75.0 | -68.6 |
-| 10:00 | EUR | German ZEW Economic Sentiment (Sep) | 37.3 | 25.3 | 34.7 |
-| 10:00 | EUR | Wages in euro zone (YoY) (Q2) | 3.70% | 3.70% | 3.50% |
-| 10:00 | EUR | Industrial Production (MoM) (Jul) | 0.3% | 0.4% | -0.6% |
-| 10:00 | EUR | ZEW Economic Sentiment (Sep) | 26.1 | 20.3 | 25.1 |
-| 13:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 13:00 | BRL | Unemployment Rate (Jul) | 5.6% | 5.7% | 5.8% |
-| 13:15 | CAD | Housing Starts (Aug) | 245.8K | 278.0K | 293.5K |
-| 13:30 | USD | Export Price Index (MoM) (Aug) | 0.3% | -0.1% | 0.3% |
-| 13:30 | USD | Import Price Index (MoM) (Aug) | 0.3% | -0.2% | 0.2% |
-| 13:30 | USD | Retail Control (MoM) (Aug) | 0.7% | 0.4% | 0.5% |
-| 13:30 | CAD | Core CPI (MoM) (Aug) | 0.0% |  | 0.1% |
-| 13:30 | CAD | Core CPI (YoY) (Aug) | 2.6% |  | 2.6% |
-| 13:30 | CAD | CPI (MoM) (Aug) | -0.1% | 0.0% | 0.3% |
-| 14:15 | USD | Industrial Production (YoY) (Aug) | 0.87% |  | 1.27% |
-| 14:15 | USD | Industrial Production (MoM) (Aug) | 0.1% | -0.1% | -0.4% |
-| 15:00 | USD | Business Inventories (MoM) (Jul) | 0.2% | 0.2% | 0.2% |
-| 15:00 | USD | Retail Inventories Ex Auto (Jul) | 0.1% | -0.1% | 0.1% |
-| 16:30 | USD | Atlanta Fed GDPNow (Q3) | 3.4% | 3.1% | 3.1% |
-| 18:00 | USD | 20-Year Bond Auction | 4.613% |  | 4.876% |
-| 21:30 | USD | API Weekly Crude Oil Stock | -3.420M | -1.600M | 1.250M |
-| 22:00 | NZD | Westpac Consumer Sentiment (Q3) | 90.9 |  | 91.2 |
-| 38 min | NZD | Current Account (YoY) (Q2) |  |  | -24.66B |
-| 38 min | NZD | Current Account (QoQ) (Q2) |  | -2.67B | -2.32B |
+| 44 min | JPY | Adjusted Trade Balance |  | -0.36T | -0.30T |
+| 44 min | JPY | Exports (YoY) (Aug) |  | -1.9% | -2.6% |
+| 44 min | JPY | Trade Balance (Aug) |  | -513.6B | -117.5B |
+| 07:00 | GBP | CPI (MoM) (Aug) |  | 0.3% | 0.1% |
+| 07:00 | GBP | CPIH (YoY) |  |  | 4.2% |
+| 08:30 | IDR | Interest Rate Decision |  | 5.00% | 5.00% |
+| 08:30 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 10:00 | EUR | Core CPI (YoY) (Aug) |  | 2.3% | 2.3% |
+| 10:00 | EUR | CPI (MoM) (Aug) |  | 0.2% | 0.0% |
+| 13:30 | USD | Building Permits (Aug) |  | 1.370M | 1.362M |
+| 13:30 | USD | Housing Starts (MoM) (Aug) |  |  | 5.2% |
+| 13:30 | USD | Housing Starts (Aug) |  | 1.370M | 1.428M |
+| 13:30 | CAD | Foreign Securities Purchases (Jul) |  | -1.32B | 0.71B |
+| 14:45 | CAD | BoC Rate Statement |  |  |  |
+| 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.365M |
+| 15:30 | CAD | BOC Press Conference |  |  |  |
+| 16:30 | USD | Atlanta Fed GDPNow (Q3) |  | 3.4% | 3.4% |
+| 18:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 19:00 | USD | Interest Rate Projection - 1st Yr (Q3) |  |  | 3.6% |
+| 19:00 | USD | Interest Rate Projection - 2nd Yr (Q3) |  |  | 3.4% |
+| 19:00 | USD | Interest Rate Projection - 3rd Yr (Q3) |  |  | 3.1% |
+| 19:00 | USD | Interest Rate Projection - Current (Q3) |  |  | 3.9% |
+| 19:00 | USD | Interest Rate Projection - Longer (Q3) |  |  | 3.0% |
+| 22:30 | BRL | Interest Rate Decision |  | 15.00% | 15.00% |
+| 23:45 | NZD | GDP (QoQ) (Q2) |  | -0.3% | 0.8% |
