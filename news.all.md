@@ -14,8 +14,8 @@
 | 09:00 | EUR | Low | Italian CPI (MoM) (Aug) |  | 0.1% | 0.1% |
 | 09:00 | EUR | Low | Italian CPI (YoY) (Aug) |  | 1.6% | 1.7% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Aug) |  |  | 1.5% |
-| 09:00 | EUR | Low | Italian HICP (MoM) (Aug) |  | -0.2% | -0.2% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (Aug) |  | 1.7% | 1.7% |
+| 09:00 | EUR | Low | Italian HICP (MoM) (Aug) |  | -0.2% | -0.2% |
 | 09:30 | HKD | Low | Unemployment Rate (Aug) |  |  | 3.7% |
 | 10:00 | EUR | Moderate | German ZEW Current Conditions (Sep) |  | -75.0 | -68.6 |
 | 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Sep) |  | 26.4 | 34.7 |
@@ -32,8 +32,8 @@
 | 13:00 | USD | Low | Milk Auctions |  |  | 4,043.0 |
 | 13:15 | CAD | Moderate | Housing Starts (Aug) |  | 278.0K | 294.1K |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Aug) |  | 0.4% | 0.3% |
-| 13:30 | USD | Low | Export Price Index (YoY) (Aug) |  |  | 2.2% |
 | 13:30 | USD | Moderate | Export Price Index (MoM) (Aug) |  |  | 0.1% |
+| 13:30 | USD | Low | Export Price Index (YoY) (Aug) |  |  | 2.2% |
 | 13:30 | USD | Moderate | Import Price Index (MoM) (Aug) |  | -0.2% | 0.4% |
 | 13:30 | USD | Low | Import Price Index (YoY) (Aug) |  |  | -0.2% |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Aug) |  | 0.4% | 0.5% |
