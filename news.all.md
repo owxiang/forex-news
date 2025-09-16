@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 04:00 | KRW | Low | M3 Money Supply (Jul) |  |  | 5,851.1B |
-| 04:00 | KRW | Low | M2 Money supply (Jul) |  |  | 5.40% |
-| 04:00 | NZD | Low | RBNZ Offshore Holdings (Aug) |  |  | 60.80% |
+| 29 min | KRW | Low | M3 Money Supply (Jul) |  |  | 5,851.1B |
+| 29 min | KRW | Low | M2 Money supply (Jul) |  |  | 5.40% |
+| 29 min | NZD | Low | RBNZ Offshore Holdings (Aug) |  |  | 60.80% |
 | 05:30 | JPY | Low | Tertiary Industry Activity Index (Jul) |  |  | 4.50 |
 | 07:00 | GBP | Low | Average Earnings ex Bonus (Jul) |  | 4.8% | 5.0% |
 | 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Jul) |  | 4.7% | 4.6% |
@@ -14,8 +14,8 @@
 | 09:00 | EUR | Low | Italian CPI (MoM) (Aug) |  | 0.1% | 0.1% |
 | 09:00 | EUR | Low | Italian CPI (YoY) (Aug) |  | 1.6% | 1.7% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Aug) |  |  | 1.5% |
-| 09:00 | EUR | Low | Italian HICP (YoY) (Aug) |  | 1.7% | 1.7% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Aug) |  | -0.2% | -0.2% |
+| 09:00 | EUR | Low | Italian HICP (YoY) (Aug) |  | 1.7% | 1.7% |
 | 09:30 | HKD | Low | Unemployment Rate (Aug) |  |  | 3.7% |
 | 10:00 | EUR | Moderate | German ZEW Current Conditions (Sep) |  | -75.0 | -68.6 |
 | 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Sep) |  | 26.4 | 34.7 |
@@ -32,8 +32,8 @@
 | 13:00 | USD | Low | Milk Auctions |  |  | 4,043.0 |
 | 13:15 | CAD | Moderate | Housing Starts (Aug) |  | 278.0K | 294.1K |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Aug) |  | 0.4% | 0.3% |
-| 13:30 | USD | Moderate | Export Price Index (MoM) (Aug) |  |  | 0.1% |
 | 13:30 | USD | Low | Export Price Index (YoY) (Aug) |  |  | 2.2% |
+| 13:30 | USD | Moderate | Export Price Index (MoM) (Aug) |  |  | 0.1% |
 | 13:30 | USD | Moderate | Import Price Index (MoM) (Aug) |  | -0.2% | 0.4% |
 | 13:30 | USD | Low | Import Price Index (YoY) (Aug) |  |  | -0.2% |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Aug) |  | 0.4% | 0.5% |
@@ -43,14 +43,14 @@
 | 13:30 | CAD | Low | Common CPI (YoY) (Aug) |  | 2.6% | 2.6% |
 | 13:30 | CAD | Moderate | Core CPI (MoM) (Aug) |  |  | 0.1% |
 | 13:30 | CAD | Moderate | Core CPI (YoY) (Aug) |  |  | 2.6% |
-| 13:30 | CAD | Low | CPI (YoY) (Aug) |  | 2.0% | 1.7% |
 | 13:30 | CAD | Moderate | CPI (MoM) (Aug) |  | 0.1% | 0.3% |
+| 13:30 | CAD | Low | CPI (YoY) (Aug) |  | 2.0% | 1.7% |
 | 13:30 | CAD | Low | Median CPI (YoY) (Aug) |  | 3.1% | 3.1% |
 | 13:30 | CAD | Low | Trimmed CPI (YoY) (Aug) |  | 3.0% | 3.0% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 6.6% |
 | 14:15 | USD | Low | Capacity Utilization Rate (Aug) |  | 77.4% | 77.5% |
-| 14:15 | USD | Moderate | Industrial Production (YoY) (Aug) |  |  | 1.43% |
 | 14:15 | USD | Moderate | Industrial Production (MoM) (Aug) |  | 0.0% | -0.1% |
+| 14:15 | USD | Moderate | Industrial Production (YoY) (Aug) |  |  | 1.43% |
 | 14:15 | USD | Low | Manufacturing Production (MoM) (Aug) |  |  | 0.0% |
 | 15:00 | USD | Moderate | Business Inventories (MoM) (Jul) |  | 0.2% | 0.2% |
 | 15:00 | USD | Low | NAHB Housing Market Index (Sep) |  | 33 | 32 |
