@@ -31,8 +31,8 @@
 | 13:30 | USD | High | Core Retail Sales (MoM) (Aug) | 0.7% | 0.4% | 0.4% |
 | 13:30 | USD | Moderate | Export Price Index (MoM) (Aug) | 0.3% | -0.1% | 0.3% |
 | 13:30 | USD | Low | Export Price Index (YoY) (Aug) | 3.4% |  | 2.4% |
-| 13:30 | USD | Low | Import Price Index (YoY) (Aug) | 0.0% |  | -0.2% |
 | 13:30 | USD | Moderate | Import Price Index (MoM) (Aug) | 0.3% | -0.2% | 0.2% |
+| 13:30 | USD | Low | Import Price Index (YoY) (Aug) | 0.0% |  | -0.2% |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Aug) | 0.7% | 0.4% | 0.5% |
 | 13:30 | USD | Low | Retail Sales (YoY) (Aug) | 5.00% |  | 4.09% |
 | 13:30 | USD | High | Retail Sales (MoM) (Aug) | 0.6% | 0.2% | 0.6% |
@@ -52,12 +52,10 @@
 | 15:00 | USD | Moderate | Business Inventories (MoM) (Jul) | 0.2% | 0.2% | 0.2% |
 | 15:00 | USD | Low | NAHB Housing Market Index (Sep) | 32 | 33 | 32 |
 | 15:00 | USD | Moderate | Retail Inventories Ex Auto (Jul) | 0.1% | -0.1% | 0.1% |
-| 54 min | NZD | Low | GlobalDairyTrade Price Index |  |  | -4.3% |
-| 54 min | USD | Low | Milk Auctions |  |  | 4,043.0 |
 | 17:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 3.1% | 3.1% |
 | 18:00 | USD | Moderate | 20-Year Bond Auction |  |  | 4.876% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.600M | 1.250M |
 | 22:00 | NZD | Moderate | Westpac Consumer Sentiment (Q3) |  |  | 91.2 |
-| 23:45 | NZD | Moderate | Current Account (YoY) (Q2) |  |  | -24.66B |
 | 23:45 | NZD | Moderate | Current Account (QoQ) (Q2) |  | -2.67B | -2.32B |
+| 23:45 | NZD | Moderate | Current Account (YoY) (Q2) |  |  | -24.66B |
 | 23:45 | NZD | Low | Current Account % of GDP (Q2) |  |  | -5.70% |

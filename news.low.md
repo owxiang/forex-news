@@ -28,6 +28,4 @@
 | 14:15 | USD | Capacity Utilization Rate (Aug) | 77.4% | 77.4% | 77.4% |
 | 14:15 | USD | Manufacturing Production (MoM) (Aug) | 0.2% | -0.2% | -0.1% |
 | 15:00 | USD | NAHB Housing Market Index (Sep) | 32 | 33 | 32 |
-| 54 min | NZD | GlobalDairyTrade Price Index |  |  | -4.3% |
-| 54 min | USD | Milk Auctions |  |  | 4,043.0 |
 | 23:45 | NZD | Current Account % of GDP (Q2) |  |  | -5.70% |
