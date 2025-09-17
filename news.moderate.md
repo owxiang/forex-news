@@ -24,5 +24,5 @@
 | 19:00 | USD | Interest Rate Projection - 3rd Yr (Q3) | 3.1% |  | 3.1% |
 | 19:00 | USD | Interest Rate Projection - Current (Q3) | 3.6% |  | 3.9% |
 | 19:00 | USD | Interest Rate Projection - Longer (Q3) | 3.0% |  | 3.0% |
-| 24 min | BRL | Interest Rate Decision |  | 15.00% | 15.00% |
-| 23:45 | NZD | GDP (QoQ) (Q2) |  | -0.3% | 0.8% |
+| 22:30 | BRL | Interest Rate Decision | 15.00% | 15.00% | 15.00% |
+| 39 min | NZD | GDP (QoQ) (Q2) |  | -0.3% | 0.8% |
