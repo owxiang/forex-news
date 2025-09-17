@@ -10,9 +10,9 @@
 | 01:30 | SGD | Low | Non-Oil Exports (MoM) (Aug) | -8.90% |  | -6.00% |
 | 01:30 | SGD | Low | Non-Oil Exports (YoY) (Aug) | -11.30% | 1.00% | -4.70% |
 | 02:30 | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
-| 03:30 | SGD | Low | Unemployment Rate (Q2) |  | 2.1% | 2.1% |
-| 07:00 | GBP | Low | Core CPI (MoM) (Aug) |  |  | 0.2% |
+| 03:30 | SGD | Low | Unemployment Rate (Q2) | 2.0% | 2.1% | 2.1% |
 | 07:00 | GBP | Low | Core CPI (YoY) (Aug) |  | 3.7% | 3.8% |
+| 07:00 | GBP | Low | Core CPI (MoM) (Aug) |  |  | 0.2% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Aug) |  |  | 0.4% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Aug) |  |  | 4.7% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Aug) |  | 0.3% | 0.1% |
@@ -29,11 +29,11 @@
 | 08:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 09:00 | ZAR | Low | Core CPI (YoY) (Aug) |  |  | 3.0% |
 | 09:00 | ZAR | Low | Core CPI (MoM) (Aug) |  |  | 0.4% |
-| 09:00 | ZAR | Low | CPI (YoY) (Aug) |  |  | 3.5% |
 | 09:00 | ZAR | Low | CPI (MoM) (Aug) |  |  | 0.9% |
+| 09:00 | ZAR | Low | CPI (YoY) (Aug) |  |  | 3.5% |
 | 09:30 | GBP | Low | House Price Index (YoY) |  | 3.6% | 3.7% |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Aug) |  | 2.3% | 2.3% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Aug) |  | 0.3% | -0.2% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Aug) |  | 2.3% | 2.3% |
 | 10:00 | EUR | High | CPI (YoY) (Aug) |  | 2.1% | 2.0% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Aug) |  | 0.2% | 0.0% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Aug) |  |  | 2.0% |
