@@ -8,8 +8,8 @@
 | 07:00 | GBP | CPI (MoM) (Aug) | 0.3% | 0.3% | 0.1% |
 | 08:30 | IDR | Interest Rate Decision | 4.75% | 5.00% | 5.00% |
 | 08:30 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 51 min | EUR | Core CPI (YoY) (Aug) |  | 2.3% | 2.3% |
-| 51 min | EUR | CPI (MoM) (Aug) |  | 0.2% | 0.0% |
+| 10:00 | EUR | Core CPI (YoY) (Aug) | 2.3% | 2.3% | 2.3% |
+| 10:00 | EUR | CPI (MoM) (Aug) | 0.1% | 0.2% | 0.0% |
 | 13:30 | USD | Building Permits (Aug) |  | 1.370M | 1.362M |
 | 13:30 | USD | Housing Starts (MoM) (Aug) |  |  | 5.2% |
 | 13:30 | USD | Housing Starts (Aug) |  | 1.370M | 1.428M |
