@@ -12,8 +12,8 @@
 | 02:00 | SGD | Low | Trade Balance (Aug) | 5.078B |  | 6.351B |
 | 02:30 | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
 | 03:30 | SGD | Low | Unemployment Rate (Q2) | 2.0% | 2.1% | 2.0% |
-| 07:00 | GBP | Low | Core CPI (YoY) (Aug) | 3.6% | 3.7% | 3.8% |
 | 07:00 | GBP | Low | Core CPI (MoM) (Aug) | 0.3% |  | 0.2% |
+| 07:00 | GBP | Low | Core CPI (YoY) (Aug) | 3.6% | 3.7% | 3.8% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Aug) | 0.4% |  | 0.4% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Aug) | 4.4% |  | 4.7% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Aug) | 0.3% | 0.3% | 0.1% |
@@ -29,15 +29,15 @@
 | 08:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 09:00 | ZAR | Low | Core CPI (MoM) (Aug) | 0.1% |  | 0.4% |
 | 09:00 | ZAR | Low | Core CPI (YoY) (Aug) | 3.1% |  | 3.0% |
-| 09:00 | ZAR | Low | CPI (YoY) (Aug) | 3.3% |  | 3.5% |
 | 09:00 | ZAR | Low | CPI (MoM) (Aug) | -0.1% |  | 0.9% |
+| 09:00 | ZAR | Low | CPI (YoY) (Aug) | 3.3% |  | 3.5% |
 | 09:30 | GBP | Low | House Price Index (YoY) | 2.8% | 3.6% | 3.7% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Aug) | 2.3% | 2.3% | 2.3% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Aug) | 0.3% | 0.3% | -0.2% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Aug) | 0.1% | 0.2% | 0.0% |
 | 10:00 | EUR | High | CPI (YoY) (Aug) | 2.0% | 2.1% | 2.0% |
-| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Aug) | 2.0% |  | 2.0% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Aug) | 0.1% | 0.2% | 0.0% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Aug) | 0.1% |  | 0.0% |
+| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Aug) | 2.0% |  | 2.0% |
 | 10:00 | EUR | Low | CPI, n.s.a (Aug) | 129.31 | 129.32 | 129.12 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Aug) | 2.3% | 2.3% | 2.4% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Aug) | 0.3% | 0.3% | -0.1% |
@@ -51,10 +51,10 @@
 | 12:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Sep) | 0.2% |  | 0.2% |
 | 12:00 | ZAR | Low | Retail Sales (YoY) (Jul) | 5.6% |  | 1.7% |
 | 12:30 | INR | Low | M3 Money Supply | 9.5% |  | 10.1% |
-| 13:30 | USD | Moderate | Building Permits (Aug) | 1.312M | 1.370M | 1.362M |
 | 13:30 | USD | Low | Building Permits (MoM) (Aug) | -3.7% |  | -2.2% |
-| 13:30 | USD | Moderate | Housing Starts (Aug) | 1.307M | 1.370M | 1.429M |
+| 13:30 | USD | Moderate | Building Permits (Aug) | 1.312M | 1.370M | 1.362M |
 | 13:30 | USD | Moderate | Housing Starts (MoM) (Aug) | -8.5% |  | 3.4% |
+| 13:30 | USD | Moderate | Housing Starts (Aug) | 1.307M | 1.370M | 1.429M |
 | 13:30 | CAD | Moderate | Foreign Securities Purchases (Jul) | 26.69B | -1.32B | 1.01B |
 | 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Jul) | 17.410B |  | 9.040B |
 | 14:45 | CAD | Moderate | BoC Rate Statement |  |  |  |
@@ -82,7 +82,7 @@
 | 19:00 | USD | High | FOMC Statement |  |  |  |
 | 19:00 | USD | High | Fed Interest Rate Decision | 4.25% | 4.25% | 4.50% |
 | 19:30 | USD | High | FOMC Press Conference |  |  |  |
-| 22:30 | BRL | Moderate | Interest Rate Decision |  | 15.00% | 15.00% |
+| 24 min | BRL | Moderate | Interest Rate Decision |  | 15.00% | 15.00% |
 | 23:45 | NZD | Moderate | GDP (QoQ) (Q2) |  | -0.3% | 0.8% |
 | 23:45 | NZD | Low | GDP (YoY) (Q2) |  | 0.0% | -0.7% |
 | 23:45 | NZD | Low | GDP Annual Average (Q2) |  |  | -1.1% |

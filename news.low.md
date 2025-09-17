@@ -9,8 +9,8 @@
 | 02:00 | SGD | Trade Balance (Aug) | 5.078B |  | 6.351B |
 | 02:30 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
 | 03:30 | SGD | Unemployment Rate (Q2) | 2.0% | 2.1% | 2.0% |
-| 07:00 | GBP | Core CPI (YoY) (Aug) | 3.6% | 3.7% | 3.8% |
 | 07:00 | GBP | Core CPI (MoM) (Aug) | 0.3% |  | 0.2% |
+| 07:00 | GBP | Core CPI (YoY) (Aug) | 3.6% | 3.7% | 3.8% |
 | 07:00 | GBP | Core RPI (MoM) (Aug) | 0.4% |  | 0.4% |
 | 07:00 | GBP | Core RPI (YoY) (Aug) | 4.4% |  | 4.7% |
 | 07:00 | GBP | CPI, n.s.a (Aug) | 139.30 |  | 139.00 |
@@ -22,12 +22,12 @@
 | 08:30 | IDR | Lending Facility Rate (Sep) | 5.50% | 5.75% | 5.75% |
 | 09:00 | ZAR | Core CPI (MoM) (Aug) | 0.1% |  | 0.4% |
 | 09:00 | ZAR | Core CPI (YoY) (Aug) | 3.1% |  | 3.0% |
-| 09:00 | ZAR | CPI (YoY) (Aug) | 3.3% |  | 3.5% |
 | 09:00 | ZAR | CPI (MoM) (Aug) | -0.1% |  | 0.9% |
+| 09:00 | ZAR | CPI (YoY) (Aug) | 3.3% |  | 3.5% |
 | 09:30 | GBP | House Price Index (YoY) | 2.8% | 3.6% | 3.7% |
 | 10:00 | EUR | Core CPI (MoM) (Aug) | 0.3% | 0.3% | -0.2% |
-| 10:00 | EUR | CPI ex Tobacco (YoY) (Aug) | 2.0% |  | 2.0% |
 | 10:00 | EUR | CPI ex Tobacco (MoM) (Aug) | 0.1% |  | 0.0% |
+| 10:00 | EUR | CPI ex Tobacco (YoY) (Aug) | 2.0% |  | 2.0% |
 | 10:00 | EUR | CPI, n.s.a (Aug) | 129.31 | 129.32 | 129.12 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Aug) | 2.3% | 2.3% | 2.4% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Aug) | 0.3% | 0.3% | -0.1% |
