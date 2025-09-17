@@ -2,16 +2,16 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 44 min | JPY | Imports (YoY) (Aug) |  | -4.2% | -7.5% |
-| 54 min | AUD | MI Leading Index (MoM) (Aug) |  |  | 0.1% |
-| 01:30 | SGD | Non-Oil Exports (YoY) (Aug) |  | 1.00% | -4.60% |
-| 01:30 | SGD | Non-Oil Exports (MoM) (Aug) |  |  | -6.00% |
+| 00:50 | JPY | Imports (YoY) (Aug) | -5.2% | -4.2% | -7.4% |
+| 2 min | AUD | MI Leading Index (MoM) (Aug) |  |  | 0.1% |
+| 2 min | SGD | Non-Oil Exports (MoM) (Aug) |  |  | -6.00% |
+| 2 min | SGD | Non-Oil Exports (YoY) (Aug) |  | 1.00% | -4.60% |
 | 02:30 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
 | 03:30 | SGD | Unemployment Rate (Q2) |  | 2.1% | 2.1% |
 | 07:00 | GBP | Core CPI (MoM) (Aug) |  |  | 0.2% |
 | 07:00 | GBP | Core CPI (YoY) (Aug) |  | 3.7% | 3.8% |
-| 07:00 | GBP | Core RPI (YoY) (Aug) |  |  | 4.7% |
 | 07:00 | GBP | Core RPI (MoM) (Aug) |  |  | 0.4% |
+| 07:00 | GBP | Core RPI (YoY) (Aug) |  |  | 4.7% |
 | 07:00 | GBP | CPI, n.s.a (Aug) |  |  | 139.00 |
 | 07:00 | GBP | RPI (MoM) (Aug) |  | 0.5% | 0.4% |
 | 07:00 | GBP | RPI (YoY) (Aug) |  | 4.7% | 4.8% |
@@ -19,8 +19,8 @@
 | 08:30 | IDR | Deposit Facility Rate (Sep) |  | 4.25% | 4.25% |
 | 08:30 | IDR | Lending Facility Rate (Sep) |  | 5.75% | 5.75% |
 | 08:30 | IDR | Loans (YoY) (Aug) |  |  | 7.03% |
-| 09:00 | ZAR | Core CPI (MoM) (Aug) |  |  | 0.4% |
 | 09:00 | ZAR | Core CPI (YoY) (Aug) |  |  | 3.0% |
+| 09:00 | ZAR | Core CPI (MoM) (Aug) |  |  | 0.4% |
 | 09:00 | ZAR | CPI (MoM) (Aug) |  |  | 0.9% |
 | 09:00 | ZAR | CPI (YoY) (Aug) |  |  | 3.5% |
 | 09:30 | GBP | House Price Index (YoY) |  | 3.6% | 3.7% |

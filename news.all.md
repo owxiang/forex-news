@@ -2,19 +2,19 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 44 min | JPY | Moderate | Adjusted Trade Balance |  | -0.36T | -0.30T |
-| 44 min | JPY | Moderate | Exports (YoY) (Aug) |  | -1.9% | -2.6% |
-| 44 min | JPY | Low | Imports (YoY) (Aug) |  | -4.2% | -7.5% |
-| 44 min | JPY | Moderate | Trade Balance (Aug) |  | -513.6B | -117.5B |
-| 54 min | AUD | Low | MI Leading Index (MoM) (Aug) |  |  | 0.1% |
-| 01:30 | SGD | Low | Non-Oil Exports (YoY) (Aug) |  | 1.00% | -4.60% |
-| 01:30 | SGD | Low | Non-Oil Exports (MoM) (Aug) |  |  | -6.00% |
+| 00:50 | JPY | Moderate | Adjusted Trade Balance | -0.15T | -0.37T | -0.29T |
+| 00:50 | JPY | Moderate | Exports (YoY) (Aug) | -0.1% | -1.9% | -2.6% |
+| 00:50 | JPY | Low | Imports (YoY) (Aug) | -5.2% | -4.2% | -7.4% |
+| 00:50 | JPY | Moderate | Trade Balance (Aug) | -242.5B | -513.6B | -118.4B |
+| 2 min | AUD | Low | MI Leading Index (MoM) (Aug) |  |  | 0.1% |
+| 2 min | SGD | Low | Non-Oil Exports (MoM) (Aug) |  |  | -6.00% |
+| 2 min | SGD | Low | Non-Oil Exports (YoY) (Aug) |  | 1.00% | -4.60% |
 | 02:30 | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
 | 03:30 | SGD | Low | Unemployment Rate (Q2) |  | 2.1% | 2.1% |
 | 07:00 | GBP | Low | Core CPI (MoM) (Aug) |  |  | 0.2% |
 | 07:00 | GBP | Low | Core CPI (YoY) (Aug) |  | 3.7% | 3.8% |
-| 07:00 | GBP | Low | Core RPI (YoY) (Aug) |  |  | 4.7% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Aug) |  |  | 0.4% |
+| 07:00 | GBP | Low | Core RPI (YoY) (Aug) |  |  | 4.7% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Aug) |  | 0.3% | 0.1% |
 | 07:00 | GBP | High | CPI (YoY) (Aug) |  | 3.8% | 3.8% |
 | 07:00 | GBP | Low | CPI, n.s.a (Aug) |  |  | 139.00 |
@@ -27,13 +27,13 @@
 | 08:30 | IDR | Low | Lending Facility Rate (Sep) |  | 5.75% | 5.75% |
 | 08:30 | IDR | Low | Loans (YoY) (Aug) |  |  | 7.03% |
 | 08:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 09:00 | ZAR | Low | Core CPI (MoM) (Aug) |  |  | 0.4% |
 | 09:00 | ZAR | Low | Core CPI (YoY) (Aug) |  |  | 3.0% |
+| 09:00 | ZAR | Low | Core CPI (MoM) (Aug) |  |  | 0.4% |
 | 09:00 | ZAR | Low | CPI (MoM) (Aug) |  |  | 0.9% |
 | 09:00 | ZAR | Low | CPI (YoY) (Aug) |  |  | 3.5% |
 | 09:30 | GBP | Low | House Price Index (YoY) |  | 3.6% | 3.7% |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Aug) |  | 2.3% | 2.3% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Aug) |  | 0.3% | -0.2% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Aug) |  | 2.3% | 2.3% |
 | 10:00 | EUR | High | CPI (YoY) (Aug) |  | 2.1% | 2.0% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Aug) |  | 0.2% | 0.0% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Aug) |  |  | 0.0% |
