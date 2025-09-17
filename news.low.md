@@ -9,21 +9,21 @@
 | 02:00 | SGD | Trade Balance (Aug) | 5.078B |  | 6.351B |
 | 02:30 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
 | 03:30 | SGD | Unemployment Rate (Q2) | 2.0% | 2.1% | 2.1% |
-| 07:00 | GBP | Core CPI (MoM) (Aug) |  |  | 0.2% |
-| 07:00 | GBP | Core CPI (YoY) (Aug) |  | 3.7% | 3.8% |
-| 07:00 | GBP | Core RPI (YoY) (Aug) |  |  | 4.7% |
-| 07:00 | GBP | Core RPI (MoM) (Aug) |  |  | 0.4% |
-| 07:00 | GBP | CPI, n.s.a (Aug) |  |  | 139.00 |
-| 07:00 | GBP | RPI (MoM) (Aug) |  | 0.5% | 0.4% |
-| 07:00 | GBP | RPI (YoY) (Aug) |  | 4.7% | 4.8% |
+| 52 min | GBP | Core CPI (MoM) (Aug) |  |  | 0.2% |
+| 52 min | GBP | Core CPI (YoY) (Aug) |  | 3.7% | 3.8% |
+| 52 min | GBP | Core RPI (YoY) (Aug) |  |  | 4.7% |
+| 52 min | GBP | Core RPI (MoM) (Aug) |  |  | 0.4% |
+| 52 min | GBP | CPI, n.s.a (Aug) |  |  | 139.00 |
+| 52 min | GBP | RPI (MoM) (Aug) |  | 0.5% | 0.4% |
+| 52 min | GBP | RPI (YoY) (Aug) |  | 4.7% | 4.8% |
 | 08:00 | CHF | SECO Economic Forecasts |  |  |  |
 | 08:30 | IDR | Deposit Facility Rate (Sep) |  | 4.25% | 4.25% |
 | 08:30 | IDR | Lending Facility Rate (Sep) |  | 5.75% | 5.75% |
 | 08:30 | IDR | Loans (YoY) (Aug) |  |  | 7.03% |
 | 09:00 | ZAR | Core CPI (MoM) (Aug) |  |  | 0.4% |
 | 09:00 | ZAR | Core CPI (YoY) (Aug) |  |  | 3.0% |
-| 09:00 | ZAR | CPI (YoY) (Aug) |  |  | 3.5% |
 | 09:00 | ZAR | CPI (MoM) (Aug) |  |  | 0.9% |
+| 09:00 | ZAR | CPI (YoY) (Aug) |  |  | 3.5% |
 | 09:30 | GBP | House Price Index (YoY) |  | 3.6% | 3.7% |
 | 10:00 | EUR | Core CPI (MoM) (Aug) |  | 0.3% | -0.2% |
 | 10:00 | EUR | CPI ex Tobacco (MoM) (Aug) |  |  | 0.0% |

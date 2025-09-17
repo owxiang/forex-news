@@ -12,16 +12,16 @@
 | 02:00 | SGD | Low | Trade Balance (Aug) | 5.078B |  | 6.351B |
 | 02:30 | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
 | 03:30 | SGD | Low | Unemployment Rate (Q2) | 2.0% | 2.1% | 2.1% |
-| 07:00 | GBP | Low | Core CPI (MoM) (Aug) |  |  | 0.2% |
-| 07:00 | GBP | Low | Core CPI (YoY) (Aug) |  | 3.7% | 3.8% |
-| 07:00 | GBP | Low | Core RPI (YoY) (Aug) |  |  | 4.7% |
-| 07:00 | GBP | Low | Core RPI (MoM) (Aug) |  |  | 0.4% |
-| 07:00 | GBP | High | CPI (YoY) (Aug) |  | 3.8% | 3.8% |
-| 07:00 | GBP | Moderate | CPI (MoM) (Aug) |  | 0.3% | 0.1% |
-| 07:00 | GBP | Low | CPI, n.s.a (Aug) |  |  | 139.00 |
-| 07:00 | GBP | Moderate | CPIH (YoY) |  |  | 4.2% |
-| 07:00 | GBP | Low | RPI (MoM) (Aug) |  | 0.5% | 0.4% |
-| 07:00 | GBP | Low | RPI (YoY) (Aug) |  | 4.7% | 4.8% |
+| 52 min | GBP | Low | Core CPI (MoM) (Aug) |  |  | 0.2% |
+| 52 min | GBP | Low | Core CPI (YoY) (Aug) |  | 3.7% | 3.8% |
+| 52 min | GBP | Low | Core RPI (YoY) (Aug) |  |  | 4.7% |
+| 52 min | GBP | Low | Core RPI (MoM) (Aug) |  |  | 0.4% |
+| 52 min | GBP | Moderate | CPI (MoM) (Aug) |  | 0.3% | 0.1% |
+| 52 min | GBP | High | CPI (YoY) (Aug) |  | 3.8% | 3.8% |
+| 52 min | GBP | Low | CPI, n.s.a (Aug) |  |  | 139.00 |
+| 52 min | GBP | Moderate | CPIH (YoY) |  |  | 4.2% |
+| 52 min | GBP | Low | RPI (MoM) (Aug) |  | 0.5% | 0.4% |
+| 52 min | GBP | Low | RPI (YoY) (Aug) |  | 4.7% | 4.8% |
 | 08:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
 | 08:30 | IDR | Moderate | Interest Rate Decision |  | 5.00% | 5.00% |
 | 08:30 | IDR | Low | Deposit Facility Rate (Sep) |  | 4.25% | 4.25% |
@@ -30,8 +30,8 @@
 | 08:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 09:00 | ZAR | Low | Core CPI (MoM) (Aug) |  |  | 0.4% |
 | 09:00 | ZAR | Low | Core CPI (YoY) (Aug) |  |  | 3.0% |
-| 09:00 | ZAR | Low | CPI (YoY) (Aug) |  |  | 3.5% |
 | 09:00 | ZAR | Low | CPI (MoM) (Aug) |  |  | 0.9% |
+| 09:00 | ZAR | Low | CPI (YoY) (Aug) |  |  | 3.5% |
 | 09:30 | GBP | Low | House Price Index (YoY) |  | 3.6% | 3.7% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Aug) |  | 2.3% | 2.3% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Aug) |  | 0.3% | -0.2% |
