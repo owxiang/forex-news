@@ -6,13 +6,13 @@
 | 00:50 | JPY | Exports (YoY) (Aug) | -0.1% | -1.9% | -2.6% |
 | 00:50 | JPY | Trade Balance (Aug) | -242.5B | -513.6B | -118.4B |
 | 07:00 | GBP | CPI (MoM) (Aug) | 0.3% | 0.3% | 0.1% |
-| 08:30 | IDR | Interest Rate Decision |  | 5.00% | 5.00% |
-| 08:30 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 23 min | IDR | Interest Rate Decision |  | 5.00% | 5.00% |
+| 23 min | EUR | ECB President Lagarde Speaks |  |  |  |
 | 10:00 | EUR | Core CPI (YoY) (Aug) |  | 2.3% | 2.3% |
 | 10:00 | EUR | CPI (MoM) (Aug) |  | 0.2% | 0.0% |
 | 13:30 | USD | Building Permits (Aug) |  | 1.370M | 1.362M |
-| 13:30 | USD | Housing Starts (MoM) (Aug) |  |  | 5.2% |
 | 13:30 | USD | Housing Starts (Aug) |  | 1.370M | 1.428M |
+| 13:30 | USD | Housing Starts (MoM) (Aug) |  |  | 5.2% |
 | 13:30 | CAD | Foreign Securities Purchases (Jul) |  | -1.32B | 0.71B |
 | 14:45 | CAD | BoC Rate Statement |  |  |  |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.365M |

@@ -4,30 +4,30 @@
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Imports (YoY) (Aug) | -5.2% | -4.2% | -7.4% |
 | 01:00 | AUD | MI Leading Index (MoM) (Aug) | -0.1% |  | 0.1% |
-| 01:30 | SGD | Non-Oil Exports (YoY) (Aug) | -11.30% | 1.00% | -4.70% |
 | 01:30 | SGD | Non-Oil Exports (MoM) (Aug) | -8.90% |  | -6.00% |
+| 01:30 | SGD | Non-Oil Exports (YoY) (Aug) | -11.30% | 1.00% | -4.70% |
 | 02:00 | SGD | Trade Balance (Aug) | 5.078B |  | 6.351B |
 | 02:30 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
 | 03:30 | SGD | Unemployment Rate (Q2) | 2.0% | 2.1% | 2.1% |
-| 07:00 | GBP | Core CPI (YoY) (Aug) | 3.6% | 3.7% | 3.8% |
 | 07:00 | GBP | Core CPI (MoM) (Aug) | 0.3% |  | 0.2% |
-| 07:00 | GBP | Core RPI (MoM) (Aug) | 0.4% |  | 0.4% |
+| 07:00 | GBP | Core CPI (YoY) (Aug) | 3.6% | 3.7% | 3.8% |
 | 07:00 | GBP | Core RPI (YoY) (Aug) | 4.4% |  | 4.7% |
+| 07:00 | GBP | Core RPI (MoM) (Aug) | 0.4% |  | 0.4% |
 | 07:00 | GBP | CPI, n.s.a (Aug) | 139.30 |  | 139.00 |
 | 07:00 | GBP | RPI (MoM) (Aug) | 0.4% | 0.5% | 0.4% |
 | 07:00 | GBP | RPI (YoY) (Aug) | 4.6% | 4.7% | 4.8% |
-| 50 min | CHF | SECO Economic Forecasts |  |  |  |
-| 08:30 | IDR | Deposit Facility Rate (Sep) |  | 4.25% | 4.25% |
-| 08:30 | IDR | Lending Facility Rate (Sep) |  | 5.75% | 5.75% |
-| 08:30 | IDR | Loans (YoY) (Aug) |  |  | 7.03% |
-| 09:00 | ZAR | Core CPI (MoM) (Aug) |  |  | 0.4% |
-| 09:00 | ZAR | Core CPI (YoY) (Aug) |  |  | 3.0% |
-| 09:00 | ZAR | CPI (YoY) (Aug) |  |  | 3.5% |
-| 09:00 | ZAR | CPI (MoM) (Aug) |  |  | 0.9% |
+| 08:00 | CHF | SECO Economic Forecasts |  |  |  |
+| 23 min | IDR | Deposit Facility Rate (Sep) |  | 4.25% | 4.25% |
+| 23 min | IDR | Lending Facility Rate (Sep) |  | 5.75% | 5.75% |
+| 23 min | IDR | Loans (YoY) (Aug) |  |  | 7.03% |
+| 53 min | ZAR | Core CPI (MoM) (Aug) |  |  | 0.4% |
+| 53 min | ZAR | Core CPI (YoY) (Aug) |  |  | 3.0% |
+| 53 min | ZAR | CPI (MoM) (Aug) |  |  | 0.9% |
+| 53 min | ZAR | CPI (YoY) (Aug) |  |  | 3.5% |
 | 09:30 | GBP | House Price Index (YoY) |  | 3.6% | 3.7% |
 | 10:00 | EUR | Core CPI (MoM) (Aug) |  | 0.3% | -0.2% |
-| 10:00 | EUR | CPI ex Tobacco (YoY) (Aug) |  |  | 2.0% |
 | 10:00 | EUR | CPI ex Tobacco (MoM) (Aug) |  |  | 0.0% |
+| 10:00 | EUR | CPI ex Tobacco (YoY) (Aug) |  |  | 2.0% |
 | 10:00 | EUR | CPI, n.s.a (Aug) |  | 129.32 | 129.12 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Aug) |  | 2.3% | 2.4% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Aug) |  | 0.3% | -0.1% |
