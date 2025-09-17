@@ -7,8 +7,8 @@
 | 00:50 | JPY | Low | Imports (YoY) (Aug) | -5.2% | -4.2% | -7.4% |
 | 00:50 | JPY | Moderate | Trade Balance (Aug) | -242.5B | -513.6B | -118.4B |
 | 01:00 | AUD | Low | MI Leading Index (MoM) (Aug) | -0.1% |  | 0.1% |
-| 01:30 | SGD | Low | Non-Oil Exports (YoY) (Aug) | -11.30% | 1.00% | -4.70% |
 | 01:30 | SGD | Low | Non-Oil Exports (MoM) (Aug) | -8.90% |  | -6.00% |
+| 01:30 | SGD | Low | Non-Oil Exports (YoY) (Aug) | -11.30% | 1.00% | -4.70% |
 | 02:00 | SGD | Low | Trade Balance (Aug) | 5.078B |  | 6.351B |
 | 02:30 | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
 | 03:30 | SGD | Low | Unemployment Rate (Q2) | 2.0% | 2.1% | 2.1% |
@@ -22,36 +22,35 @@
 | 07:00 | GBP | Low | RPI (MoM) (Aug) | 0.4% | 0.5% | 0.4% |
 | 07:00 | GBP | Low | RPI (YoY) (Aug) | 4.6% | 4.7% | 4.8% |
 | 08:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
+| 08:20 | IDR | Low | Loans (YoY) (Aug) | 7.56% |  | 7.03% |
 | 08:30 | IDR | Moderate | Interest Rate Decision | 4.75% | 5.00% | 5.00% |
 | 08:30 | IDR | Low | Deposit Facility Rate (Sep) | 3.75% | 4.25% | 4.25% |
 | 08:30 | IDR | Low | Lending Facility Rate (Sep) | 5.50% | 5.75% | 5.75% |
-| 08:30 | IDR | Low | Loans (YoY) (Aug) | 7.56% |  | 7.03% |
 | 08:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 09:00 | ZAR | Low | Core CPI (MoM) (Aug) | 0.1% |  | 0.4% |
 | 09:00 | ZAR | Low | Core CPI (YoY) (Aug) | 3.1% |  | 3.0% |
+| 09:00 | ZAR | Low | Core CPI (MoM) (Aug) | 0.1% |  | 0.4% |
 | 09:00 | ZAR | Low | CPI (YoY) (Aug) | 3.3% |  | 3.5% |
 | 09:00 | ZAR | Low | CPI (MoM) (Aug) | -0.1% |  | 0.9% |
 | 09:30 | GBP | Low | House Price Index (YoY) | 2.8% | 3.6% | 3.7% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Aug) | 2.3% | 2.3% | 2.3% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Aug) | 0.3% | 0.3% | -0.2% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Aug) | 0.1% | 0.2% | 0.0% |
 | 10:00 | EUR | High | CPI (YoY) (Aug) | 2.0% | 2.1% | 2.0% |
-| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Aug) | 0.1% |  | 0.0% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Aug) | 0.1% | 0.2% | 0.0% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Aug) | 2.0% |  | 2.0% |
+| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Aug) | 0.1% |  | 0.0% |
 | 10:00 | EUR | Low | CPI, n.s.a (Aug) | 129.31 | 129.32 | 129.12 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Aug) | 2.3% | 2.3% | 2.4% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Aug) | 0.3% | 0.3% | -0.1% |
-| 23 min | EUR | Low | German 30-Year Bund Auction |  |  | 3.280% |
-| 53 min | EUR | Low | German Buba Monthly Report |  |  |  |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.49% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 9.2% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 169.1 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 297.7 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 1,012.4 |
-| 12:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Sep) |  |  | 0.2% |
-| 12:00 | ZAR | Low | Retail Sales (YoY) (Jul) |  |  | 1.6% |
+| 10:30 | EUR | Low | German 30-Year Bund Auction | 3.250% |  | 3.280% |
+| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 53 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.49% |
+| 53 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | 9.2% |
+| 53 min | USD | Low | MBA Purchase Index |  |  | 169.1 |
+| 53 min | USD | Low | Mortgage Market Index |  |  | 297.7 |
+| 53 min | USD | Low | Mortgage Refinance Index |  |  | 1,012.4 |
+| 53 min | BRL | Low | IGP-10 Inflation Index (MoM) (Sep) |  |  | 0.2% |
+| 53 min | ZAR | Low | Retail Sales (YoY) (Jul) |  |  | 1.6% |
 | 12:30 | INR | Low | M3 Money Supply |  |  | 9.8% |
-| 13:00 | CNY | Low | FDI (Aug) |  |  | -13.40% |
 | 13:30 | USD | Moderate | Building Permits (Aug) |  | 1.370M | 1.362M |
 | 13:30 | USD | Low | Building Permits (MoM) (Aug) |  |  | -2.2% |
 | 13:30 | USD | Moderate | Housing Starts (MoM) (Aug) |  |  | 5.2% |
@@ -65,11 +64,11 @@
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 0.668M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.365M |
 | 15:30 | USD | Low | Distillate Fuel Production |  |  | -0.024M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  |  | 4.715M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | 1.100M | 4.715M |
 | 15:30 | USD | Low | Gasoline Production |  |  | -0.285M |
 | 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.266M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.6% |
-| 15:30 | USD | Low | Gasoline Inventories |  |  | 1.458M |
+| 15:30 | USD | Low | Gasoline Inventories |  | -0.700M | 1.458M |
 | 15:30 | CAD | Moderate | BOC Press Conference |  |  |  |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 3.4% | 3.4% |
 | 18:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
