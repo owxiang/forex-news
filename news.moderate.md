@@ -14,9 +14,9 @@
 | 13:30 | USD | Housing Starts (MoM) (Aug) | -8.5% |  | 3.4% |
 | 13:30 | USD | Housing Starts (Aug) | 1.307M | 1.370M | 1.429M |
 | 13:30 | CAD | Foreign Securities Purchases (Jul) | 26.69B | -1.32B | 1.01B |
-| 32 min | CAD | BoC Rate Statement |  |  |  |
-| 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.365M |
-| 15:30 | CAD | BOC Press Conference |  |  |  |
+| 14:45 | CAD | BoC Rate Statement |  |  |  |
+| 23 min | USD | Cushing Crude Oil Inventories |  |  | -0.365M |
+| 23 min | CAD | BOC Press Conference |  |  |  |
 | 16:30 | USD | Atlanta Fed GDPNow (Q3) |  | 3.4% | 3.4% |
 | 18:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 19:00 | USD | Interest Rate Projection - 1st Yr (Q3) |  |  | 3.6% |
