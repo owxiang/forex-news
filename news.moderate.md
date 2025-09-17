@@ -10,11 +10,11 @@
 | 08:30 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 10:00 | EUR | Core CPI (YoY) (Aug) | 2.3% | 2.3% | 2.3% |
 | 10:00 | EUR | CPI (MoM) (Aug) | 0.1% | 0.2% | 0.0% |
-| 19 min | USD | Building Permits (Aug) |  | 1.370M | 1.362M |
-| 19 min | USD | Housing Starts (MoM) (Aug) |  |  | 5.2% |
-| 19 min | USD | Housing Starts (Aug) |  | 1.370M | 1.428M |
-| 19 min | CAD | Foreign Securities Purchases (Jul) |  | -1.32B | 0.71B |
-| 14:45 | CAD | BoC Rate Statement |  |  |  |
+| 13:30 | USD | Building Permits (Aug) | 1.312M | 1.370M | 1.362M |
+| 13:30 | USD | Housing Starts (MoM) (Aug) | -8.5% |  | 3.4% |
+| 13:30 | USD | Housing Starts (Aug) | 1.307M | 1.370M | 1.429M |
+| 13:30 | CAD | Foreign Securities Purchases (Jul) | 26.69B | -1.32B | 1.01B |
+| 32 min | CAD | BoC Rate Statement |  |  |  |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.365M |
 | 15:30 | CAD | BOC Press Conference |  |  |  |
 | 16:30 | USD | Atlanta Fed GDPNow (Q3) |  | 3.4% | 3.4% |
