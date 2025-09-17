@@ -5,8 +5,7 @@
 | 00:50 | JPY | Adjusted Trade Balance | -0.15T | -0.37T | -0.29T |
 | 00:50 | JPY | Exports (YoY) (Aug) | -0.1% | -1.9% | -2.6% |
 | 00:50 | JPY | Trade Balance (Aug) | -242.5B | -513.6B | -118.4B |
-| 52 min | GBP | CPI (MoM) (Aug) |  | 0.3% | 0.1% |
-| 52 min | GBP | CPIH (YoY) |  |  | 4.2% |
+| 07:00 | GBP | CPI (MoM) (Aug) | 0.3% | 0.3% | 0.1% |
 | 08:30 | IDR | Interest Rate Decision |  | 5.00% | 5.00% |
 | 08:30 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 10:00 | EUR | Core CPI (YoY) (Aug) |  | 2.3% | 2.3% |
