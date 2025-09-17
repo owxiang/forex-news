@@ -18,7 +18,7 @@
 | 15:30 | USD | Cushing Crude Oil Inventories | -0.296M |  | -0.365M |
 | 15:30 | CAD | BOC Press Conference |  |  |  |
 | 16:00 | USD | Atlanta Fed GDPNow (Q3) | 3.3% | 3.4% | 3.4% |
-| 18:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 52 min | EUR | German Buba President Nagel Speaks |  |  |  |
 | 19:00 | USD | Interest Rate Projection - 1st Yr (Q3) |  |  | 3.6% |
 | 19:00 | USD | Interest Rate Projection - 2nd Yr (Q3) |  |  | 3.4% |
 | 19:00 | USD | Interest Rate Projection - 3rd Yr (Q3) |  |  | 3.1% |
