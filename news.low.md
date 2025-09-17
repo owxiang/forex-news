@@ -9,8 +9,8 @@
 | 02:00 | SGD | Trade Balance (Aug) | 5.078B |  | 6.351B |
 | 02:30 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
 | 03:30 | SGD | Unemployment Rate (Q2) | 2.0% | 2.1% | 2.0% |
-| 07:00 | GBP | Core CPI (YoY) (Aug) | 3.6% | 3.7% | 3.8% |
 | 07:00 | GBP | Core CPI (MoM) (Aug) | 0.3% |  | 0.2% |
+| 07:00 | GBP | Core CPI (YoY) (Aug) | 3.6% | 3.7% | 3.8% |
 | 07:00 | GBP | Core RPI (MoM) (Aug) | 0.4% |  | 0.4% |
 | 07:00 | GBP | Core RPI (YoY) (Aug) | 4.4% |  | 4.7% |
 | 07:00 | GBP | CPI, n.s.a (Aug) | 139.30 |  | 139.00 |
@@ -22,8 +22,8 @@
 | 08:30 | IDR | Lending Facility Rate (Sep) | 5.50% | 5.75% | 5.75% |
 | 09:00 | ZAR | Core CPI (MoM) (Aug) | 0.1% |  | 0.4% |
 | 09:00 | ZAR | Core CPI (YoY) (Aug) | 3.1% |  | 3.0% |
-| 09:00 | ZAR | CPI (YoY) (Aug) | 3.3% |  | 3.5% |
 | 09:00 | ZAR | CPI (MoM) (Aug) | -0.1% |  | 0.9% |
+| 09:00 | ZAR | CPI (YoY) (Aug) | 3.3% |  | 3.5% |
 | 09:30 | GBP | House Price Index (YoY) | 2.8% | 3.6% | 3.7% |
 | 10:00 | EUR | Core CPI (MoM) (Aug) | 0.3% | 0.3% | -0.2% |
 | 10:00 | EUR | CPI ex Tobacco (MoM) (Aug) | 0.1% |  | 0.0% |
@@ -43,14 +43,14 @@
 | 12:30 | INR | M3 Money Supply | 9.5% |  | 10.1% |
 | 13:30 | USD | Building Permits (MoM) (Aug) | -3.7% |  | -2.2% |
 | 13:30 | CAD | Foreign Securities Purchases by Canadians (Jul) | 17.410B |  | 9.040B |
-| 23 min | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.051M |
-| 23 min | USD | Crude Oil Imports |  |  | 0.668M |
-| 23 min | USD | Distillate Fuel Production |  |  | -0.024M |
-| 23 min | USD | EIA Weekly Distillates Stocks |  | 1.100M | 4.715M |
-| 23 min | USD | Gasoline Production |  |  | -0.285M |
-| 23 min | USD | Heating Oil Stockpiles |  |  | 0.266M |
-| 23 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.6% |
-| 23 min | USD | Gasoline Inventories |  | -0.700M | 1.458M |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) | -0.394M |  | -0.051M |
+| 15:30 | USD | Crude Oil Imports | -3.111M |  | 0.668M |
+| 15:30 | USD | Distillate Fuel Production | -0.274M |  | -0.024M |
+| 15:30 | USD | EIA Weekly Distillates Stocks | 4.046M | 1.100M | 4.715M |
+| 15:30 | USD | Gasoline Production | -0.180M |  | -0.285M |
+| 15:30 | USD | Heating Oil Stockpiles | 0.670M |  | 0.266M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -1.6% |  | 0.6% |
+| 15:30 | USD | Gasoline Inventories | -2.347M | -0.700M | 1.458M |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | 0.276B |
 | 23:45 | NZD | GDP (YoY) (Q2) |  | 0.0% | -0.7% |
 | 23:45 | NZD | GDP Annual Average (Q2) |  |  | -1.1% |
