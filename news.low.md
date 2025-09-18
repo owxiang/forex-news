@@ -7,12 +7,12 @@
 | 01:30 | AUD | Reserve Assets Total (Aug) | 105.9B |  | 104.3B |
 | 02:30 | AUD | Participation Rate (Aug) | 66.8% | 67.0% | 67.0% |
 | 07:00 | CHF | Trade Balance (Aug) | 4.009B | 5.220B | 4.619B |
-| 53 min | EUR | Current Account (Jul) |  | 34.6B | 35.8B |
-| 53 min | EUR | Current Account n.s.a. (Jul) |  |  | 38.9B |
-| 09:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.200% |
-| 09:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 2.204% |
-| 09:40 | EUR | Spanish 30-Year Obligacion Auction |  |  | 3.974% |
-| 10:00 | EUR | Construction Output (MoM) (Jul) |  |  | -0.76% |
+| 09:00 | EUR | Current Account (Jul) | 27.7B | 34.6B | 35.8B |
+| 09:00 | EUR | Current Account n.s.a. (Jul) | 35.0B |  | 38.9B |
+| 31 min | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.200% |
+| 31 min | EUR | Spanish 3-Year Bonos Auction |  |  | 2.204% |
+| 31 min | EUR | Spanish 30-Year Obligacion Auction |  |  | 3.974% |
+| 51 min | EUR | Construction Output (MoM) (Jul) |  |  | -0.76% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 13:00 | CNY | FDI (Aug) |  |  | -13.40% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 240.50K |

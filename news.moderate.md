@@ -5,11 +5,11 @@
 | 02:30 | AUD | Employment Change (Aug) | -5.4K | 21.2K | 26.5K |
 | 02:30 | AUD | Full Employment Change (Aug) | -40.9K |  | 63.6K |
 | 02:30 | AUD | Unemployment Rate (Aug) | 4.2% | 4.2% | 4.2% |
-| 3 min | EUR | ECB President Lagarde Speaks |  |  |  |
-| 53 min | EUR | German Buba Mauderer Speaks |  |  |  |
-| 53 min | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 53 min | NOK | Interest Rate Decision |  | 4.00% | 4.25% |
-| 53 min | EUR | ECB's De Guindos Speaks |  |  |  |
+| 08:10 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 09:00 | EUR | German Buba Mauderer Speaks |  |  |  |
+| 09:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 09:00 | NOK | Interest Rate Decision | 4.00% | 4.00% | 4.25% |
+| 09:00 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 10:45 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 12:00 | GBP | BoE MPC vote cut (Sep) |  | 1 | 5 |
 | 12:00 | GBP | BoE MPC vote hike (Sep) |  | 0 | 0 |

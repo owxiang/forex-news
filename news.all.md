@@ -10,17 +10,17 @@
 | 02:30 | AUD | Low | Participation Rate (Aug) | 66.8% | 67.0% | 67.0% |
 | 02:30 | AUD | Moderate | Unemployment Rate (Aug) | 4.2% | 4.2% | 4.2% |
 | 07:00 | CHF | Low | Trade Balance (Aug) | 4.009B | 5.220B | 4.619B |
-| 3 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 53 min | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 53 min | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 53 min | NOK | Moderate | Interest Rate Decision |  | 4.00% | 4.25% |
-| 53 min | EUR | Low | Current Account (Jul) |  | 34.6B | 35.8B |
-| 53 min | EUR | Low | Current Account n.s.a. (Jul) |  |  | 38.9B |
-| 53 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.200% |
-| 09:40 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.204% |
-| 09:40 | EUR | Low | Spanish 30-Year Obligacion Auction |  |  | 3.974% |
-| 10:00 | EUR | Low | Construction Output (MoM) (Jul) |  |  | -0.76% |
+| 08:10 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 09:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 09:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
+| 09:00 | NOK | Moderate | Interest Rate Decision | 4.00% | 4.00% | 4.25% |
+| 09:00 | EUR | Low | Current Account (Jul) | 27.7B | 34.6B | 35.8B |
+| 09:00 | EUR | Low | Current Account n.s.a. (Jul) | 35.0B |  | 38.9B |
+| 09:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 31 min | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.200% |
+| 31 min | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.204% |
+| 31 min | EUR | Low | Spanish 30-Year Obligacion Auction |  |  | 3.974% |
+| 51 min | EUR | Low | Construction Output (MoM) (Jul) |  |  | -0.76% |
 | 10:45 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 12:00 | GBP | Moderate | BoE MPC vote cut (Sep) |  | 1 | 5 |
