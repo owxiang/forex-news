@@ -9,7 +9,7 @@
 | 02:30 | AUD | Moderate | Full Employment Change (Aug) | -40.9K |  | 63.6K |
 | 02:30 | AUD | Low | Participation Rate (Aug) | 66.8% | 67.0% | 67.0% |
 | 02:30 | AUD | Moderate | Unemployment Rate (Aug) | 4.2% | 4.2% | 4.2% |
-| 07:00 | CHF | Low | Trade Balance (Aug) |  | 5.220B | 4.591B |
+| 53 min | CHF | Low | Trade Balance (Aug) |  | 5.220B | 4.591B |
 | 08:10 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 09:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 09:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
@@ -22,6 +22,7 @@
 | 09:40 | EUR | Low | Spanish 30-Year Obligacion Auction |  |  | 3.974% |
 | 10:00 | EUR | Low | Construction Output (MoM) (Jul) |  |  | -0.76% |
 | 10:45 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 12:00 | GBP | Moderate | BoE MPC vote cut (Sep) |  | 1 | 5 |
 | 12:00 | GBP | Moderate | BoE MPC vote hike (Sep) |  | 0 | 0 |
 | 12:00 | GBP | Moderate | BoE MPC vote unchanged (Sep) |  | 8 | 4 |
