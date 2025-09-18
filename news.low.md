@@ -21,8 +21,8 @@
 | 13:30 | USD | Philly Fed Prices Paid (Sep) | 46.80 |  | 66.80 |
 | 14:00 | ZAR | Prime Rate (Sep) | 10.50% |  | 10.50% |
 | 15:30 | USD | Natural Gas Storage | 90B | 80B | 71B |
-| 23 min | USD | 4-Week Bill Auction |  |  | 4.060% |
-| 23 min | USD | 8-Week Bill Auction |  |  | 4.000% |
+| 16:30 | USD | 4-Week Bill Auction | 4.040% |  | 4.060% |
+| 16:30 | USD | 8-Week Bill Auction | 3.965% |  | 4.000% |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | 0.276B |
 | 21:00 | USD | US Foreign Buying, T-bonds (Jul) |  |  | -5.00B |
 | 21:00 | USD | Overall Net Capital Flow (Jul) |  |  | 77.80B |
@@ -30,5 +30,5 @@
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.151T |
 | 23:45 | NZD | Exports (Aug) |  |  | 6.71B |
 | 23:45 | NZD | Imports (Aug) |  |  | 7.28B |
-| 23:45 | NZD | Trade Balance (MoM) (Aug) |  | -746M | -578M |
 | 23:45 | NZD | Trade Balance (YoY) (Aug) |  |  | -3,940M |
+| 23:45 | NZD | Trade Balance (MoM) (Aug) |  | -746M | -578M |
