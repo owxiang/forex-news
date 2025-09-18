@@ -2,21 +2,21 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:50 | JPY | Low | Core Machinery Orders (YoY) (Jul) | 4.9% | 5.4% | 7.6% |
 | 00:50 | JPY | Low | Core Machinery Orders (MoM) (Jul) | -4.6% | -1.8% | 3.0% |
+| 00:50 | JPY | Low | Core Machinery Orders (YoY) (Jul) | 4.9% | 5.4% | 7.6% |
 | 01:30 | AUD | Low | Reserve Assets Total (Aug) | 105.9B |  | 104.3B |
 | 02:30 | AUD | Moderate | Employment Change (Aug) | -5.4K | 21.2K | 26.5K |
 | 02:30 | AUD | Moderate | Full Employment Change (Aug) | -40.9K |  | 63.6K |
 | 02:30 | AUD | Low | Participation Rate (Aug) | 66.8% | 67.0% | 67.0% |
 | 02:30 | AUD | Moderate | Unemployment Rate (Aug) | 4.2% | 4.2% | 4.2% |
 | 07:00 | CHF | Low | Trade Balance (Aug) | 4.009B | 5.220B | 4.619B |
-| 08:10 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 09:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 09:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 09:00 | NOK | Moderate | Interest Rate Decision |  | 4.00% | 4.25% |
-| 09:00 | EUR | Low | Current Account (Jul) |  | 34.6B | 35.8B |
-| 09:00 | EUR | Low | Current Account n.s.a. (Jul) |  |  | 38.9B |
-| 09:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 3 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 53 min | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 53 min | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
+| 53 min | NOK | Moderate | Interest Rate Decision |  | 4.00% | 4.25% |
+| 53 min | EUR | Low | Current Account (Jul) |  | 34.6B | 35.8B |
+| 53 min | EUR | Low | Current Account n.s.a. (Jul) |  |  | 38.9B |
+| 53 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.200% |
 | 09:40 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.204% |
 | 09:40 | EUR | Low | Spanish 30-Year Obligacion Auction |  |  | 3.974% |
