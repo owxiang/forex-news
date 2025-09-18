@@ -10,7 +10,7 @@
 | 09:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 09:00 | NOK | Interest Rate Decision | 4.00% | 4.00% | 4.25% |
 | 09:00 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 10:45 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 38 min | EUR | ECB's Schnabel Speaks |  |  |  |
 | 12:00 | GBP | BoE MPC vote cut (Sep) |  | 1 | 5 |
 | 12:00 | GBP | BoE MPC vote hike (Sep) |  | 0 | 0 |
 | 12:00 | GBP | BoE MPC vote unchanged (Sep) |  | 8 | 4 |
