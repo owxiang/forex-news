@@ -1,33 +1,32 @@
-## 18 September 2025 - Low Impact Forex News
+## 19 September 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Core Machinery Orders (YoY) (Jul) | 4.9% | 5.4% | 7.6% |
-| 00:50 | JPY | Core Machinery Orders (MoM) (Jul) | -4.6% | -1.8% | 3.0% |
-| 01:30 | AUD | Reserve Assets Total (Aug) | 105.9B |  | 104.3B |
-| 02:30 | AUD | Participation Rate (Aug) | 66.8% | 67.0% | 67.0% |
-| 07:00 | CHF | Trade Balance (Aug) | 4.009B | 5.220B | 4.619B |
-| 09:00 | EUR | Current Account (Jul) | 27.7B | 34.6B | 35.8B |
-| 09:00 | EUR | Current Account n.s.a. (Jul) | 35.0B |  | 38.9B |
-| 09:40 | EUR | Spanish 10-Year Obligacion Auction | 3.230% |  | 3.200% |
-| 09:40 | EUR | Spanish 3-Year Bonos Auction | 2.212% |  | 2.204% |
-| 09:40 | EUR | Spanish 30-Year Obligacion Auction | 4.074% |  | 3.974% |
-| 10:00 | EUR | Construction Output (MoM) (Jul) | 0.48% |  | -0.66% |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 13:30 | USD | Jobless Claims 4-Week Avg. | 240.00K |  | 240.75K |
-| 13:30 | USD | Philly Fed Business Conditions (Sep) | 31.5 |  | 25.0 |
-| 13:30 | USD | Philly Fed CAPEX Index (Sep) | 12.50 |  | 38.40 |
-| 13:30 | USD | Philly Fed New Orders (Sep) | 12.4 |  | -1.9 |
-| 13:30 | USD | Philly Fed Prices Paid (Sep) | 46.80 |  | 66.80 |
-| 14:00 | ZAR | Prime Rate (Sep) | 10.50% |  | 10.50% |
-| 15:30 | USD | Natural Gas Storage | 90B | 80B | 71B |
-| 16:30 | USD | 4-Week Bill Auction | 4.040% |  | 4.060% |
-| 16:30 | USD | 8-Week Bill Auction | 3.965% |  | 4.000% |
-| 21:00 | USD | US Foreign Buying, T-bonds (Jul) | 58.20B |  | -5.10B |
-| 21:00 | USD | Overall Net Capital Flow (Jul) | 2.10B |  | 92.10B |
-| 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Jul) | 49.20B | 97.20B | 151.00B |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.020T |  | 3.151T |
-| 39 min | NZD | Exports (Aug) |  |  | 6.71B |
-| 39 min | NZD | Imports (Aug) |  |  | 7.28B |
-| 39 min | NZD | Trade Balance (MoM) (Aug) |  | -746M | -578M |
-| 39 min | NZD | Trade Balance (YoY) (Aug) |  |  | -3,940M |
+| 00:01 | GBP | GfK Consumer Confidence (Sep) | -19 | -18 | -17 |
+| 24 min | JPY | CPI, n.s.a (MoM) (Aug) |  |  | 0.2% |
+| 24 min | JPY | National CPI (YoY) (Aug) |  |  | 3.1% |
+| 44 min | JPY | Foreign Bonds Buying |  |  | 245.1B |
+| 44 min | JPY | Foreign Investments in Japanese Stocks |  |  | 108.6B |
+| 04:00 | NZD | Credit Card Spending (YoY) (Aug) |  |  | 1.4% |
+| 07:00 | GBP | Public Sector Net Borrowing |  | 12.80B | 1.05B |
+| 07:00 | GBP | Public Sector Net Cash Requirement (Aug) |  |  | 3.002B |
+| 07:45 | EUR | French Business Survey (Sep) |  | 96 | 96 |
+| 08:00 | EUR | German PPI (YoY) (Aug) |  | -1.8% | -1.5% |
+| 11:00 | EUR | ECOFIN Meetings |  |  |  |
+| 12:30 | INR | FX Reserves, USD |  |  | 698.27B |
+| 13:00 | MXN | Aggregate Demand (YoY) (Q2) |  |  | -0.20% |
+| 13:00 | MXN | Aggregate Demand (QoQ) (Q2) |  |  | -1.10% |
+| 13:00 | MXN | Private Spending (YoY) (Q2) |  |  | -0.60% |
+| 13:00 | MXN | Private Spending (QoQ) (Q2) |  |  | -0.40% |
+| 13:00 | CNY | FDI (Aug) |  |  | -13.40% |
+| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.2K |
+| 20:30 | USD | CFTC Copper speculative net positions |  |  | 27.2K |
+| 20:30 | USD | CFTC Corn speculative net positions |  |  | -54.2K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -94.5K |
+| 20:30 | USD | CFTC Silver speculative net positions |  |  | 53.9K |
+| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 8.3K |
+| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -82.1K |
+| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -108.9K |
+| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 73.7K |
+| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -28.8K |
+| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -8.7K |

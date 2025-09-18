@@ -1,26 +1,31 @@
-## 18 September 2025 - Moderate Impact Forex News
+## 19 September 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Employment Change (Aug) | -5.4K | 21.2K | 26.5K |
-| 02:30 | AUD | Full Employment Change (Aug) | -40.9K |  | 63.6K |
-| 02:30 | AUD | Unemployment Rate (Aug) | 4.2% | 4.2% | 4.2% |
-| 08:10 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 09:00 | EUR | German Buba Mauderer Speaks |  |  |  |
-| 09:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 09:00 | NOK | Interest Rate Decision | 4.00% | 4.00% | 4.25% |
-| 09:00 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 10:45 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 12:00 | GBP | BoE MPC vote cut (Sep) | 2 | 1 | 5 |
-| 12:00 | GBP | BoE MPC vote hike (Sep) | 0 | 0 | 0 |
-| 12:00 | GBP | BoE MPC vote unchanged (Sep) | 7 | 8 | 4 |
-| 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims | 1,920K | 1,950K | 1,927K |
-| 13:30 | USD | Philly Fed Employment (Sep) | 5.6 |  | 5.9 |
-| 14:00 | ZAR | Interest Rate Decision (Sep) | 7.00% | 7.00% | 7.00% |
-| 15:00 | USD | US Leading Index (MoM) (Aug) | -0.5% | -0.2% | 0.1% |
-| 15:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 17:30 | EUR | German Buba Mauderer Speaks |  |  |  |
-| 18:00 | USD | 10-Year TIPS Auction | 1.734% |  | 1.985% |
-| 21:00 | USD | TIC Net Long-Term Transactions (Jul) | 49.2B |  | 151.0B |
-| 21:30 | USD | Fed's Balance Sheet | 6,609B |  | 6,606B |
+| 24 min | JPY | National Core CPI (YoY) (Aug) |  | 2.7% | 3.1% |
+| 24 min | JPY | National CPI (MoM) (Aug) |  |  | 0.1% |
+| 03:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
+| 07:00 | GBP | Core Retail Sales (MoM) (Aug) |  | 0.3% | 0.5% |
+| 07:00 | GBP | Core Retail Sales (YoY) (Aug) |  | 0.8% | 1.3% |
+| 07:00 | GBP | Retail Sales (MoM) (Aug) |  | 0.4% | 0.6% |
+| 07:00 | GBP | Retail Sales (YoY) (Aug) |  | 0.6% | 1.1% |
+| 07:30 | JPY | BoJ Press Conference |  |  |  |
+| 08:00 | EUR | German PPI (MoM) (Aug) |  | -0.1% | -0.1% |
+| 10:00 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 10:30 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
+| 11:00 | EUR | Eurogroup Meetings |  |  |  |
+| 13:30 | CAD | Core Retail Sales (MoM) (Jul) |  | -0.4% | 1.9% |
+| 13:30 | CAD | Retail Sales (MoM) (Jul) |  | -0.6% | 1.5% |
+| 13:30 | CAD | Retail Sales (MoM) (Jul) |  |  | 1.5% |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 416 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 539 |
+| 19:30 | USD | FOMC Member Daly Speaks |  |  |  |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | -33.6K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 81.8K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 261.7K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 25.5K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -173.7K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -79.2K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 56.1K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | 91.6K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 125.7K |
