@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:50 | JPY | Low | Core Machinery Orders (YoY) (Jul) | 4.9% | 5.4% | 7.6% |
 | 00:50 | JPY | Low | Core Machinery Orders (MoM) (Jul) | -4.6% | -1.8% | 3.0% |
+| 00:50 | JPY | Low | Core Machinery Orders (YoY) (Jul) | 4.9% | 5.4% | 7.6% |
 | 01:30 | AUD | Low | Reserve Assets Total (Aug) | 105.9B |  | 104.3B |
 | 02:30 | AUD | Moderate | Employment Change (Aug) | -5.4K | 21.2K | 26.5K |
 | 02:30 | AUD | Moderate | Full Employment Change (Aug) | -40.9K |  | 63.6K |
@@ -44,9 +44,9 @@
 | 15:30 | USD | Low | Natural Gas Storage | 90B | 80B | 71B |
 | 16:30 | USD | Low | 4-Week Bill Auction | 4.040% |  | 4.060% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 3.965% |  | 4.000% |
-| 22 min | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 52 min | USD | Moderate | 10-Year TIPS Auction |  |  | 1.985% |
-| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 0.276B |
+| 17:30 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 18:00 | USD | Moderate | 10-Year TIPS Auction | 1.734% |  | 1.985% |
+| 24 min | BRL | Low | Foreign Exchange Flows |  |  | 0.276B |
 | 21:00 | USD | Low | US Foreign Buying, T-bonds (Jul) |  |  | -5.00B |
 | 21:00 | USD | Low | Overall Net Capital Flow (Jul) |  |  | 77.80B |
 | 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Jul) |  |  | 150.8B |
