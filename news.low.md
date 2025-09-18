@@ -6,7 +6,7 @@
 | 00:50 | JPY | Core Machinery Orders (MoM) (Jul) | -4.6% | -1.8% | 3.0% |
 | 01:30 | AUD | Reserve Assets Total (Aug) | 105.9B |  | 104.3B |
 | 02:30 | AUD | Participation Rate (Aug) | 66.8% | 67.0% | 67.0% |
-| 53 min | CHF | Trade Balance (Aug) |  | 5.220B | 4.591B |
+| 07:00 | CHF | Trade Balance (Aug) | 4.009B | 5.220B | 4.619B |
 | 09:00 | EUR | Current Account (Jul) |  | 34.6B | 35.8B |
 | 09:00 | EUR | Current Account n.s.a. (Jul) |  |  | 38.9B |
 | 09:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.200% |

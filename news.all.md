@@ -9,7 +9,7 @@
 | 02:30 | AUD | Moderate | Full Employment Change (Aug) | -40.9K |  | 63.6K |
 | 02:30 | AUD | Low | Participation Rate (Aug) | 66.8% | 67.0% | 67.0% |
 | 02:30 | AUD | Moderate | Unemployment Rate (Aug) | 4.2% | 4.2% | 4.2% |
-| 53 min | CHF | Low | Trade Balance (Aug) |  | 5.220B | 4.591B |
+| 07:00 | CHF | Low | Trade Balance (Aug) | 4.009B | 5.220B | 4.619B |
 | 08:10 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 09:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 09:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
