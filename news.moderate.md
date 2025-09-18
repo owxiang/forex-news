@@ -23,5 +23,5 @@
 | 17:30 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 18:00 | USD | 10-Year TIPS Auction | 1.734% |  | 1.985% |
 | 21:00 | USD | TIC Net Long-Term Transactions (Jul) | 49.2B |  | 151.0B |
-| 23 min | USD | Fed's Balance Sheet |  |  | 6,606B |
-| 53 min | NZD | Westpac Consumer Sentiment |  |  | 91.2 |
+| 21:30 | USD | Fed's Balance Sheet | 6,609B |  | 6,606B |
+| 22:00 | NZD | Westpac Consumer Sentiment |  |  | 91.2 |
