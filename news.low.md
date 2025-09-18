@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Core Machinery Orders (MoM) (Jul) | -4.6% | -1.8% | 3.0% |
 | 00:50 | JPY | Core Machinery Orders (YoY) (Jul) | 4.9% | 5.4% | 7.6% |
+| 00:50 | JPY | Core Machinery Orders (MoM) (Jul) | -4.6% | -1.8% | 3.0% |
 | 01:30 | AUD | Reserve Assets Total (Aug) | 105.9B |  | 104.3B |
 | 02:30 | AUD | Participation Rate (Aug) | 66.8% | 67.0% | 67.0% |
 | 07:00 | CHF | Trade Balance (Aug) | 4.009B | 5.220B | 4.619B |
@@ -23,12 +23,11 @@
 | 15:30 | USD | Natural Gas Storage | 90B | 80B | 71B |
 | 16:30 | USD | 4-Week Bill Auction | 4.040% |  | 4.060% |
 | 16:30 | USD | 8-Week Bill Auction | 3.965% |  | 4.000% |
-| 24 min | BRL | Foreign Exchange Flows |  |  | 0.276B |
 | 21:00 | USD | US Foreign Buying, T-bonds (Jul) |  |  | -5.00B |
 | 21:00 | USD | Overall Net Capital Flow (Jul) |  |  | 77.80B |
 | 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Jul) |  | 97.20B | 150.80B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.151T |
 | 23:45 | NZD | Exports (Aug) |  |  | 6.71B |
 | 23:45 | NZD | Imports (Aug) |  |  | 7.28B |
-| 23:45 | NZD | Trade Balance (YoY) (Aug) |  |  | -3,940M |
 | 23:45 | NZD | Trade Balance (MoM) (Aug) |  | -746M | -578M |
+| 23:45 | NZD | Trade Balance (YoY) (Aug) |  |  | -3,940M |
