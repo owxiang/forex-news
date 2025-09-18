@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:50 | JPY | Low | Core Machinery Orders (MoM) (Jul) | -4.6% | -1.8% | 3.0% |
 | 00:50 | JPY | Low | Core Machinery Orders (YoY) (Jul) | 4.9% | 5.4% | 7.6% |
+| 00:50 | JPY | Low | Core Machinery Orders (MoM) (Jul) | -4.6% | -1.8% | 3.0% |
 | 01:30 | AUD | Low | Reserve Assets Total (Aug) | 105.9B |  | 104.3B |
 | 02:30 | AUD | Moderate | Employment Change (Aug) | -5.4K | 21.2K | 26.5K |
 | 02:30 | AUD | Moderate | Full Employment Change (Aug) | -40.9K |  | 63.6K |
@@ -39,9 +39,9 @@
 | 13:30 | USD | Low | Philly Fed Prices Paid (Sep) | 46.80 |  | 66.80 |
 | 14:00 | ZAR | Moderate | Interest Rate Decision (Sep) | 7.00% | 7.00% | 7.00% |
 | 14:00 | ZAR | Low | Prime Rate (Sep) | 10.50% |  | 10.50% |
-| 47 min | USD | Moderate | US Leading Index (MoM) (Aug) |  | -0.2% | -0.1% |
-| 47 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 15:30 | USD | Low | Natural Gas Storage |  | 80B | 71B |
+| 15:00 | USD | Moderate | US Leading Index (MoM) (Aug) | -0.5% | -0.2% | 0.1% |
+| 15:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 23 min | USD | Low | Natural Gas Storage |  | 80B | 71B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.060% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.000% |
 | 17:00 | USD | Moderate | 10-Year TIPS Auction |  |  | 1.985% |
@@ -56,5 +56,5 @@
 | 22:00 | NZD | Moderate | Westpac Consumer Sentiment |  |  | 91.2 |
 | 23:45 | NZD | Low | Exports (Aug) |  |  | 6.71B |
 | 23:45 | NZD | Low | Imports (Aug) |  |  | 7.28B |
-| 23:45 | NZD | Low | Trade Balance (MoM) (Aug) |  | -746M | -578M |
 | 23:45 | NZD | Low | Trade Balance (YoY) (Aug) |  |  | -3,940M |
+| 23:45 | NZD | Low | Trade Balance (MoM) (Aug) |  | -746M | -578M |
