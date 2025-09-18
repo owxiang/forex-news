@@ -23,12 +23,11 @@
 | 10:00 | EUR | Low | Construction Output (MoM) (Jul) | 0.48% |  | -0.66% |
 | 10:45 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 53 min | GBP | Moderate | BoE MPC vote cut (Sep) |  | 1 | 5 |
-| 53 min | GBP | Moderate | BoE MPC vote hike (Sep) |  | 0 | 0 |
-| 53 min | GBP | Moderate | BoE MPC vote unchanged (Sep) |  | 8 | 4 |
-| 53 min | GBP | High | BoE Interest Rate Decision (Sep) |  | 4.00% | 4.00% |
-| 53 min | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
-| 13:00 | CNY | Low | FDI (Aug) |  |  | -13.40% |
+| 12:00 | GBP | Moderate | BoE MPC vote cut (Sep) | 2 | 1 | 5 |
+| 12:00 | GBP | Moderate | BoE MPC vote hike (Sep) | 0 | 0 | 0 |
+| 12:00 | GBP | Moderate | BoE MPC vote unchanged (Sep) | 7 | 8 | 4 |
+| 12:00 | GBP | High | BoE Interest Rate Decision (Sep) | 4.00% | 4.00% | 4.00% |
+| 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,950K | 1,939K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 241K | 263K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 240.50K |

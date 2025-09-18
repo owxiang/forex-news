@@ -14,7 +14,6 @@
 | 09:40 | EUR | Spanish 30-Year Obligacion Auction | 4.074% |  | 3.974% |
 | 10:00 | EUR | Construction Output (MoM) (Jul) | 0.48% |  | -0.66% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 13:00 | CNY | FDI (Aug) |  |  | -13.40% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 240.50K |
 | 13:30 | USD | Philly Fed Business Conditions (Sep) |  |  | 25.0 |
 | 13:30 | USD | Philly Fed CAPEX Index (Sep) |  |  | 38.40 |

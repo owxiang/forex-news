@@ -11,10 +11,10 @@
 | 09:00 | NOK | Interest Rate Decision | 4.00% | 4.00% | 4.25% |
 | 09:00 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 10:45 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 53 min | GBP | BoE MPC vote cut (Sep) |  | 1 | 5 |
-| 53 min | GBP | BoE MPC vote hike (Sep) |  | 0 | 0 |
-| 53 min | GBP | BoE MPC vote unchanged (Sep) |  | 8 | 4 |
-| 53 min | GBP | BoE MPC Meeting Minutes |  |  |  |
+| 12:00 | GBP | BoE MPC vote cut (Sep) | 2 | 1 | 5 |
+| 12:00 | GBP | BoE MPC vote hike (Sep) | 0 | 0 | 0 |
+| 12:00 | GBP | BoE MPC vote unchanged (Sep) | 7 | 8 | 4 |
+| 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,950K | 1,939K |
 | 13:30 | USD | Philly Fed Employment (Sep) |  |  | 5.9 |
 | 14:00 | ZAR | Interest Rate Decision (Sep) |  | 7.00% | 7.00% |
