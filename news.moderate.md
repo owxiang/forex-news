@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Employment Change (Aug) | -5.4K | 21.2K | 24.5K |
-| 02:30 | AUD | Full Employment Change (Aug) | -40.9K |  | 60.5K |
+| 02:30 | AUD | Employment Change (Aug) | -5.4K | 21.2K | 26.5K |
+| 02:30 | AUD | Full Employment Change (Aug) | -40.9K |  | 63.6K |
 | 02:30 | AUD | Unemployment Rate (Aug) | 4.2% | 4.2% | 4.2% |
 | 08:10 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 09:00 | EUR | German Buba Mauderer Speaks |  |  |  |

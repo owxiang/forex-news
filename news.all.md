@@ -4,12 +4,12 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:50 | JPY | Low | Core Machinery Orders (MoM) (Jul) | -4.6% | -1.8% | 3.0% |
 | 00:50 | JPY | Low | Core Machinery Orders (YoY) (Jul) | 4.9% | 5.4% | 7.6% |
-| 01:30 | AUD | Low | Reserve Assets Total (Aug) | 105,942.0B |  | 104.3B |
-| 02:30 | AUD | Moderate | Employment Change (Aug) | -5.4K | 21.2K | 24.5K |
-| 02:30 | AUD | Moderate | Full Employment Change (Aug) | -40.9K |  | 60.5K |
+| 01:30 | AUD | Low | Reserve Assets Total (Aug) | 105.9B |  | 104.3B |
+| 02:30 | AUD | Moderate | Employment Change (Aug) | -5.4K | 21.2K | 26.5K |
+| 02:30 | AUD | Moderate | Full Employment Change (Aug) | -40.9K |  | 63.6K |
 | 02:30 | AUD | Low | Participation Rate (Aug) | 66.8% | 67.0% | 67.0% |
 | 02:30 | AUD | Moderate | Unemployment Rate (Aug) | 4.2% | 4.2% | 4.2% |
-| 04:00 | IDR | Low | Retail Sales (YoY) (Jul) |  |  | 1.3% |
+| 29 min | IDR | Low | Retail Sales (YoY) (Jul) |  |  | 1.3% |
 | 07:00 | CHF | Low | Trade Balance (Aug) |  | 5.220B | 4.591B |
 | 08:10 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 09:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
