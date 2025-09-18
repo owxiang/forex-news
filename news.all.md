@@ -46,14 +46,14 @@
 | 16:30 | USD | Low | 8-Week Bill Auction | 3.965% |  | 4.000% |
 | 17:30 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 18:00 | USD | Moderate | 10-Year TIPS Auction | 1.734% |  | 1.985% |
-| 21:00 | USD | Low | US Foreign Buying, T-bonds (Jul) |  |  | -5.00B |
-| 21:00 | USD | Low | Overall Net Capital Flow (Jul) |  |  | 77.80B |
-| 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Jul) |  |  | 150.8B |
-| 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Jul) |  | 97.20B | 150.80B |
+| 54 min | USD | Low | US Foreign Buying, T-bonds (Jul) |  |  | -5.00B |
+| 54 min | USD | Low | Overall Net Capital Flow (Jul) |  |  | 77.80B |
+| 54 min | USD | Moderate | TIC Net Long-Term Transactions (Jul) |  |  | 150.8B |
+| 54 min | USD | Low | TIC Net Long-Term Transactions including Swaps (Jul) |  | 97.20B | 150.80B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,606B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.151T |
 | 22:00 | NZD | Moderate | Westpac Consumer Sentiment |  |  | 91.2 |
 | 23:45 | NZD | Low | Exports (Aug) |  |  | 6.71B |
 | 23:45 | NZD | Low | Imports (Aug) |  |  | 7.28B |
-| 23:45 | NZD | Low | Trade Balance (MoM) (Aug) |  | -746M | -578M |
 | 23:45 | NZD | Low | Trade Balance (YoY) (Aug) |  |  | -3,940M |
+| 23:45 | NZD | Low | Trade Balance (MoM) (Aug) |  | -746M | -578M |
