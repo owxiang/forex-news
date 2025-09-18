@@ -20,7 +20,7 @@
 | 14:00 | ZAR | Interest Rate Decision (Sep) | 7.00% | 7.00% | 7.00% |
 | 15:00 | USD | US Leading Index (MoM) (Aug) | -0.5% | -0.2% | 0.1% |
 | 15:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 17:00 | USD | 10-Year TIPS Auction |  |  | 1.985% |
+| 53 min | USD | 10-Year TIPS Auction |  |  | 1.985% |
 | 17:30 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 21:00 | USD | TIC Net Long-Term Transactions (Jul) |  |  | 150.8B |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,606B |

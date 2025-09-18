@@ -41,10 +41,10 @@
 | 14:00 | ZAR | Low | Prime Rate (Sep) | 10.50% |  | 10.50% |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (Aug) | -0.5% | -0.2% | 0.1% |
 | 15:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 23 min | USD | Low | Natural Gas Storage |  | 80B | 71B |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.060% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.000% |
-| 17:00 | USD | Moderate | 10-Year TIPS Auction |  |  | 1.985% |
+| 15:30 | USD | Low | Natural Gas Storage | 90B | 80B | 71B |
+| 23 min | USD | Low | 4-Week Bill Auction |  |  | 4.060% |
+| 23 min | USD | Low | 8-Week Bill Auction |  |  | 4.000% |
+| 53 min | USD | Moderate | 10-Year TIPS Auction |  |  | 1.985% |
 | 17:30 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 0.276B |
 | 21:00 | USD | Low | US Foreign Buying, T-bonds (Jul) |  |  | -5.00B |
@@ -56,5 +56,5 @@
 | 22:00 | NZD | Moderate | Westpac Consumer Sentiment |  |  | 91.2 |
 | 23:45 | NZD | Low | Exports (Aug) |  |  | 6.71B |
 | 23:45 | NZD | Low | Imports (Aug) |  |  | 7.28B |
-| 23:45 | NZD | Low | Trade Balance (YoY) (Aug) |  |  | -3,940M |
 | 23:45 | NZD | Low | Trade Balance (MoM) (Aug) |  | -746M | -578M |
+| 23:45 | NZD | Low | Trade Balance (YoY) (Aug) |  |  | -3,940M |
