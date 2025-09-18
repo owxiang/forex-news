@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:50 | JPY | Low | Core Machinery Orders (YoY) (Jul) | 4.9% | 5.4% | 7.6% |
 | 00:50 | JPY | Low | Core Machinery Orders (MoM) (Jul) | -4.6% | -1.8% | 3.0% |
+| 00:50 | JPY | Low | Core Machinery Orders (YoY) (Jul) | 4.9% | 5.4% | 7.6% |
 | 01:30 | AUD | Low | Reserve Assets Total (Aug) | 105.9B |  | 104.3B |
 | 02:30 | AUD | Moderate | Employment Change (Aug) | -5.4K | 21.2K | 26.5K |
 | 02:30 | AUD | Moderate | Full Employment Change (Aug) | -40.9K |  | 63.6K |
@@ -20,14 +20,14 @@
 | 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction | 3.230% |  | 3.200% |
 | 09:40 | EUR | Low | Spanish 3-Year Bonos Auction | 2.212% |  | 2.204% |
 | 09:40 | EUR | Low | Spanish 30-Year Obligacion Auction | 4.074% |  | 3.974% |
-| 10:00 | EUR | Low | Construction Output (MoM) (Jul) | 0.50% |  | -0.70% |
-| 38 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 53 min | EUR | Low | German Buba Monthly Report |  |  |  |
-| 12:00 | GBP | Moderate | BoE MPC vote cut (Sep) |  | 1 | 5 |
-| 12:00 | GBP | Moderate | BoE MPC vote hike (Sep) |  | 0 | 0 |
-| 12:00 | GBP | Moderate | BoE MPC vote unchanged (Sep) |  | 8 | 4 |
-| 12:00 | GBP | High | BoE Interest Rate Decision (Sep) |  | 4.00% | 4.00% |
-| 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
+| 10:00 | EUR | Low | Construction Output (MoM) (Jul) | 0.48% |  | -0.66% |
+| 10:45 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 53 min | GBP | Moderate | BoE MPC vote cut (Sep) |  | 1 | 5 |
+| 53 min | GBP | Moderate | BoE MPC vote hike (Sep) |  | 0 | 0 |
+| 53 min | GBP | Moderate | BoE MPC vote unchanged (Sep) |  | 8 | 4 |
+| 53 min | GBP | High | BoE Interest Rate Decision (Sep) |  | 4.00% | 4.00% |
+| 53 min | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
 | 13:00 | CNY | Low | FDI (Aug) |  |  | -13.40% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,950K | 1,939K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 241K | 263K |
@@ -57,5 +57,5 @@
 | 22:00 | NZD | Moderate | Westpac Consumer Sentiment |  |  | 91.2 |
 | 23:45 | NZD | Low | Exports (Aug) |  |  | 6.71B |
 | 23:45 | NZD | Low | Imports (Aug) |  |  | 7.28B |
-| 23:45 | NZD | Low | Trade Balance (YoY) (Aug) |  |  | -3,940M |
 | 23:45 | NZD | Low | Trade Balance (MoM) (Aug) |  | -746M | -578M |
+| 23:45 | NZD | Low | Trade Balance (YoY) (Aug) |  |  | -3,940M |

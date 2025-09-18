@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Core Machinery Orders (YoY) (Jul) | 4.9% | 5.4% | 7.6% |
 | 00:50 | JPY | Core Machinery Orders (MoM) (Jul) | -4.6% | -1.8% | 3.0% |
+| 00:50 | JPY | Core Machinery Orders (YoY) (Jul) | 4.9% | 5.4% | 7.6% |
 | 01:30 | AUD | Reserve Assets Total (Aug) | 105.9B |  | 104.3B |
 | 02:30 | AUD | Participation Rate (Aug) | 66.8% | 67.0% | 67.0% |
 | 07:00 | CHF | Trade Balance (Aug) | 4.009B | 5.220B | 4.619B |
@@ -12,8 +12,8 @@
 | 09:40 | EUR | Spanish 10-Year Obligacion Auction | 3.230% |  | 3.200% |
 | 09:40 | EUR | Spanish 3-Year Bonos Auction | 2.212% |  | 2.204% |
 | 09:40 | EUR | Spanish 30-Year Obligacion Auction | 4.074% |  | 3.974% |
-| 10:00 | EUR | Construction Output (MoM) (Jul) | 0.50% |  | -0.70% |
-| 53 min | EUR | German Buba Monthly Report |  |  |  |
+| 10:00 | EUR | Construction Output (MoM) (Jul) | 0.48% |  | -0.66% |
+| 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 13:00 | CNY | FDI (Aug) |  |  | -13.40% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 240.50K |
 | 13:30 | USD | Philly Fed Business Conditions (Sep) |  |  | 25.0 |
@@ -31,5 +31,5 @@
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.151T |
 | 23:45 | NZD | Exports (Aug) |  |  | 6.71B |
 | 23:45 | NZD | Imports (Aug) |  |  | 7.28B |
-| 23:45 | NZD | Trade Balance (YoY) (Aug) |  |  | -3,940M |
 | 23:45 | NZD | Trade Balance (MoM) (Aug) |  | -746M | -578M |
+| 23:45 | NZD | Trade Balance (YoY) (Aug) |  |  | -3,940M |
