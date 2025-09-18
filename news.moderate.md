@@ -15,11 +15,11 @@
 | 12:00 | GBP | BoE MPC vote hike (Sep) | 0 | 0 | 0 |
 | 12:00 | GBP | BoE MPC vote unchanged (Sep) | 7 | 8 | 4 |
 | 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
-| 19 min | USD | Continuing Jobless Claims |  | 1,950K | 1,939K |
-| 19 min | USD | Philly Fed Employment (Sep) |  |  | 5.9 |
-| 49 min | ZAR | Interest Rate Decision (Sep) |  | 7.00% | 7.00% |
-| 15:00 | USD | US Leading Index (MoM) (Aug) |  | -0.2% | -0.1% |
-| 15:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 13:30 | USD | Continuing Jobless Claims | 1,920K | 1,950K | 1,927K |
+| 13:30 | USD | Philly Fed Employment (Sep) | 5.6 |  | 5.9 |
+| 14:00 | ZAR | Interest Rate Decision (Sep) | 7.00% | 7.00% | 7.00% |
+| 47 min | USD | US Leading Index (MoM) (Aug) |  | -0.2% | -0.1% |
+| 47 min | EUR | German Buba President Nagel Speaks |  |  |  |
 | 17:00 | USD | 10-Year TIPS Auction |  |  | 1.985% |
 | 17:30 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 21:00 | USD | TIC Net Long-Term Transactions (Jul) |  |  | 150.8B |
