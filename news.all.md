@@ -20,8 +20,8 @@
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Aug) | 0.5% | 0.4% | 0.5% |
 | 07:00 | EUR | Low | German PPI (YoY) (Aug) | -2.2% | -1.8% | -1.5% |
 | 07:00 | EUR | Moderate | German PPI (MoM) (Aug) | -0.5% | -0.1% | -0.1% |
-| 20 min | JPY | Moderate | BoJ Press Conference |  |  |  |
-| 35 min | EUR | Low | French Business Survey (Sep) |  | 96 | 96 |
+| 07:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
+| 07:45 | EUR | Low | French Business Survey (Sep) | 96 | 96 | 97 |
 | 10:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 10:30 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
@@ -33,8 +33,8 @@
 | 13:00 | MXN | Low | Private Spending (QoQ) (Q2) |  |  | -0.40% |
 | 13:00 | CNY | Low | FDI (Aug) |  |  | -13.40% |
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Jul) |  | -0.4% | 1.9% |
-| 13:30 | CAD | Moderate | Retail Sales (MoM) (Jul) |  | -0.6% | 1.5% |
-| 13:30 | CAD | Moderate | Retail Sales (MoM) (Jul) |  |  | 1.5% |
+| 13:30 | CAD | Moderate | Retail Sales (MoM) (Jul) |  | -0.8% | 1.5% |
+| 13:31 | CAD | Moderate | Retail Sales (MoM) (Aug) |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 416 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 539 |
 | 19:30 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |

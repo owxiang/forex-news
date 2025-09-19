@@ -11,7 +11,7 @@
 | 07:00 | GBP | Public Sector Net Borrowing | 18.00B | 12.80B | 1.05B |
 | 07:00 | GBP | Public Sector Net Cash Requirement (Aug) | 10.158B |  | 2.644B |
 | 07:00 | EUR | German PPI (YoY) (Aug) | -2.2% | -1.8% | -1.5% |
-| 35 min | EUR | French Business Survey (Sep) |  | 96 | 96 |
+| 07:45 | EUR | French Business Survey (Sep) | 96 | 96 | 97 |
 | 11:00 | EUR | ECOFIN Meetings |  |  |  |
 | 12:30 | INR | FX Reserves, USD |  |  | 698.27B |
 | 13:00 | MXN | Aggregate Demand (YoY) (Q2) |  |  | -0.20% |
