@@ -3,10 +3,10 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | GfK Consumer Confidence (Sep) | -19 | -18 | -17 |
-| 24 min | JPY | CPI, n.s.a (MoM) (Aug) |  |  | 0.2% |
-| 24 min | JPY | National CPI (YoY) (Aug) |  |  | 3.1% |
-| 44 min | JPY | Foreign Bonds Buying |  |  | 245.1B |
-| 44 min | JPY | Foreign Investments in Japanese Stocks |  |  | 108.6B |
+| 00:30 | JPY | CPI, n.s.a (MoM) (Aug) | 0.2% |  | 0.2% |
+| 00:30 | JPY | National CPI (YoY) (Aug) | 2.7% |  | 3.1% |
+| 00:50 | JPY | Foreign Bonds Buying | 1,478.5B |  | 208.0B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks | -2,034.0B |  | 108.6B |
 | 04:00 | NZD | Credit Card Spending (YoY) (Aug) |  |  | 1.4% |
 | 07:00 | GBP | Public Sector Net Borrowing |  | 12.80B | 1.05B |
 | 07:00 | GBP | Public Sector Net Cash Requirement (Aug) |  |  | 3.002B |

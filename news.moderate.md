@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 24 min | JPY | National Core CPI (YoY) (Aug) |  | 2.7% | 3.1% |
-| 24 min | JPY | National CPI (MoM) (Aug) |  |  | 0.1% |
+| 00:30 | JPY | National Core CPI (YoY) (Aug) | 2.7% | 2.7% | 3.1% |
+| 00:30 | JPY | National CPI (MoM) (Aug) | 0.1% |  | 0.1% |
 | 03:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
 | 07:00 | GBP | Core Retail Sales (MoM) (Aug) |  | 0.3% | 0.5% |
 | 07:00 | GBP | Core Retail Sales (YoY) (Aug) |  | 0.8% | 1.3% |

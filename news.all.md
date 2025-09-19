@@ -3,12 +3,12 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | GfK Consumer Confidence (Sep) | -19 | -18 | -17 |
-| 24 min | JPY | Low | CPI, n.s.a (MoM) (Aug) |  |  | 0.2% |
-| 24 min | JPY | Moderate | National Core CPI (YoY) (Aug) |  | 2.7% | 3.1% |
-| 24 min | JPY | Low | National CPI (YoY) (Aug) |  |  | 3.1% |
-| 24 min | JPY | Moderate | National CPI (MoM) (Aug) |  |  | 0.1% |
-| 44 min | JPY | Low | Foreign Bonds Buying |  |  | 245.1B |
-| 44 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 108.6B |
+| 00:30 | JPY | Low | CPI, n.s.a (MoM) (Aug) | 0.2% |  | 0.2% |
+| 00:30 | JPY | Moderate | National Core CPI (YoY) (Aug) | 2.7% | 2.7% | 3.1% |
+| 00:30 | JPY | Low | National CPI (YoY) (Aug) | 2.7% |  | 3.1% |
+| 00:30 | JPY | Moderate | National CPI (MoM) (Aug) | 0.1% |  | 0.1% |
+| 00:50 | JPY | Low | Foreign Bonds Buying | 1,478.5B |  | 208.0B |
+| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -2,034.0B |  | 108.6B |
 | 03:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
 | 04:00 | JPY | High | BoJ Interest Rate Decision |  | 0.50% | 0.50% |
 | 04:00 | NZD | Low | Credit Card Spending (YoY) (Aug) |  |  | 1.4% |
