@@ -17,18 +17,18 @@
 | 12:30 | INR | Deposit Growth | 9.8% |  | 10.2% |
 | 12:30 | INR | FX Reserves, USD | 702.97B |  | 698.27B |
 | 12:30 | CNY | FDI (Aug) | -12.70% |  | -13.40% |
-| 13:00 | MXN | Aggregate Demand (QoQ) (Q2) | 1.40% |  | -1.10% |
 | 13:00 | MXN | Aggregate Demand (YoY) (Q2) | 0.30% |  | -0.20% |
-| 13:00 | MXN | Private Spending (QoQ) (Q2) | 1.20% |  | -0.40% |
+| 13:00 | MXN | Aggregate Demand (QoQ) (Q2) | 1.40% |  | -1.10% |
 | 13:00 | MXN | Private Spending (YoY) (Q2) | -0.40% |  | -0.60% |
-| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.2K |
-| 20:30 | USD | CFTC Copper speculative net positions |  |  | 27.2K |
-| 20:30 | USD | CFTC Corn speculative net positions |  |  | -54.2K |
-| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -94.5K |
-| 20:30 | USD | CFTC Silver speculative net positions |  |  | 53.9K |
-| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 8.3K |
-| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -82.1K |
-| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -108.9K |
-| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 73.7K |
-| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -28.8K |
-| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -8.7K |
+| 13:00 | MXN | Private Spending (QoQ) (Q2) | 1.20% |  | -0.40% |
+| 24 min | USD | CFTC Aluminium speculative net positions |  |  | 1.2K |
+| 24 min | USD | CFTC Copper speculative net positions |  |  | 27.2K |
+| 24 min | USD | CFTC Corn speculative net positions |  |  | -54.2K |
+| 24 min | USD | CFTC Natural Gas speculative net positions |  |  | -94.5K |
+| 24 min | USD | CFTC Silver speculative net positions |  |  | 53.9K |
+| 24 min | USD | CFTC Soybeans speculative net positions |  |  | 8.3K |
+| 24 min | USD | CFTC Wheat speculative net positions |  |  | -82.1K |
+| 24 min | CAD | CFTC CAD speculative net positions |  |  | -108.9K |
+| 24 min | MXN | CFTC MXN speculative net positions |  |  | 73.7K |
+| 24 min | CHF | CFTC CHF speculative net positions |  |  | -28.8K |
+| 24 min | NZD | CFTC NZD speculative net positions |  |  | -8.7K |
