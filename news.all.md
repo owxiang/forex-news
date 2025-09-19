@@ -18,8 +18,8 @@
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Aug) | 10.158B |  | 2.644B |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Aug) | 0.5% | 0.4% | 0.5% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Aug) | 0.7% | 0.6% | 0.8% |
-| 07:00 | EUR | Low | German PPI (YoY) (Aug) | -2.2% | -1.8% | -1.5% |
 | 07:00 | EUR | Moderate | German PPI (MoM) (Aug) | -0.5% | -0.1% | -0.1% |
+| 07:00 | EUR | Low | German PPI (YoY) (Aug) | -2.2% | -1.8% | -1.5% |
 | 07:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 07:45 | EUR | Low | French Business Survey (Sep) | 96 | 96 | 97 |
 | 10:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
@@ -30,8 +30,8 @@
 | 12:30 | INR | Low | Deposit Growth | 9.8% |  | 10.2% |
 | 12:30 | INR | Low | FX Reserves, USD | 702.97B |  | 698.27B |
 | 12:30 | CNY | Low | FDI (Aug) | -12.70% |  | -13.40% |
-| 13:00 | MXN | Low | Aggregate Demand (QoQ) (Q2) | 1.40% |  | -1.10% |
 | 13:00 | MXN | Low | Aggregate Demand (YoY) (Q2) | 0.30% |  | -0.20% |
+| 13:00 | MXN | Low | Aggregate Demand (QoQ) (Q2) | 1.40% |  | -1.10% |
 | 13:00 | MXN | Low | Private Spending (QoQ) (Q2) | 1.20% |  | -0.40% |
 | 13:00 | MXN | Low | Private Spending (YoY) (Q2) | -0.40% |  | -0.60% |
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Jul) | -1.2% | -0.4% | 2.2% |
