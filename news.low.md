@@ -12,12 +12,12 @@
 | 07:00 | GBP | Public Sector Net Cash Requirement (Aug) | 10.158B |  | 2.644B |
 | 07:00 | EUR | German PPI (YoY) (Aug) | -2.2% | -1.8% | -1.5% |
 | 07:45 | EUR | French Business Survey (Sep) | 96 | 96 | 97 |
-| 11:00 | EUR | ECOFIN Meetings |  |  |  |
+| 52 min | EUR | ECOFIN Meetings |  |  |  |
 | 12:30 | INR | FX Reserves, USD |  |  | 698.27B |
-| 13:00 | MXN | Aggregate Demand (QoQ) (Q2) |  |  | -1.10% |
 | 13:00 | MXN | Aggregate Demand (YoY) (Q2) |  |  | -0.20% |
-| 13:00 | MXN | Private Spending (QoQ) (Q2) |  |  | -0.40% |
+| 13:00 | MXN | Aggregate Demand (QoQ) (Q2) |  |  | -1.10% |
 | 13:00 | MXN | Private Spending (YoY) (Q2) |  |  | -0.60% |
+| 13:00 | MXN | Private Spending (QoQ) (Q2) |  |  | -0.40% |
 | 13:00 | CNY | FDI (Aug) |  |  | -13.40% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.2K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 27.2K |
