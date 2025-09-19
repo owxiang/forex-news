@@ -5,18 +5,18 @@
 | 00:30 | JPY | National Core CPI (YoY) (Aug) | 2.7% | 2.7% | 3.1% |
 | 00:30 | JPY | National CPI (MoM) (Aug) | 0.1% |  | 0.1% |
 | 03:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
-| 07:00 | GBP | Core Retail Sales (MoM) (Aug) | 0.8% | 0.3% | 0.4% |
 | 07:00 | GBP | Core Retail Sales (YoY) (Aug) | 1.2% | 0.8% | 1.0% |
-| 07:00 | GBP | Retail Sales (YoY) (Aug) | 0.7% | 0.6% | 0.8% |
+| 07:00 | GBP | Core Retail Sales (MoM) (Aug) | 0.8% | 0.3% | 0.4% |
 | 07:00 | GBP | Retail Sales (MoM) (Aug) | 0.5% | 0.4% | 0.5% |
+| 07:00 | GBP | Retail Sales (YoY) (Aug) | 0.7% | 0.6% | 0.8% |
 | 07:00 | EUR | German PPI (MoM) (Aug) | -0.5% | -0.1% | -0.1% |
 | 07:30 | JPY | BoJ Press Conference |  |  |  |
 | 10:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 10:30 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 19 min | CAD | Core Retail Sales (MoM) (Jul) |  | -0.4% | 1.9% |
-| 19 min | CAD | Retail Sales (MoM) (Jul) |  | -0.8% | 1.5% |
-| 20 min | CAD | Retail Sales (MoM) (Aug) |  |  |  |
+| 13:30 | CAD | Core Retail Sales (MoM) (Jul) | -1.2% | -0.4% | 2.2% |
+| 13:30 | CAD | Retail Sales (MoM) (Jul) | -0.8% | -0.8% | 1.6% |
+| 13:31 | CAD | Retail Sales (MoM) (Aug) | 1.0% |  | -0.8% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 416 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 539 |
 | 19:30 | USD | FOMC Member Daly Speaks |  |  |  |

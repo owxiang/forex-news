@@ -13,14 +13,14 @@
 | 07:00 | EUR | German PPI (YoY) (Aug) | -2.2% | -1.8% | -1.5% |
 | 07:45 | EUR | French Business Survey (Sep) | 96 | 96 | 97 |
 | 11:00 | EUR | ECOFIN Meetings |  |  |  |
-| 12:28 | CNY | FDI (Aug) | -12.70% |  | -13.40% |
 | 12:30 | INR | Bank Loan Growth | 10.3% |  | 10.0% |
 | 12:30 | INR | Deposit Growth | 9.8% |  | 10.2% |
 | 12:30 | INR | FX Reserves, USD | 702.97B |  | 698.27B |
-| 13:00 | MXN | Aggregate Demand (YoY) (Q2) | 0.30% |  | -0.20% |
+| 12:30 | CNY | FDI (Aug) | -12.70% |  | -13.40% |
 | 13:00 | MXN | Aggregate Demand (QoQ) (Q2) | 1.40% |  | -1.10% |
-| 13:00 | MXN | Private Spending (YoY) (Q2) | -0.40% |  | -0.60% |
+| 13:00 | MXN | Aggregate Demand (YoY) (Q2) | 0.30% |  | -0.20% |
 | 13:00 | MXN | Private Spending (QoQ) (Q2) | 1.20% |  | -0.40% |
+| 13:00 | MXN | Private Spending (YoY) (Q2) | -0.40% |  | -0.60% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.2K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 27.2K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -54.2K |
