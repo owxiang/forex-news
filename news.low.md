@@ -8,16 +8,16 @@
 | 00:50 | JPY | Foreign Bonds Buying | 1,478.5B |  | 208.0B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | -2,034.0B |  | 108.6B |
 | 04:00 | NZD | Credit Card Spending (YoY) (Aug) | 3.5% |  | 1.6% |
-| 53 min | GBP | Public Sector Net Borrowing |  | 12.80B | 1.05B |
-| 53 min | GBP | Public Sector Net Cash Requirement (Aug) |  |  | 3.002B |
-| 07:45 | EUR | French Business Survey (Sep) |  | 96 | 96 |
-| 08:00 | EUR | German PPI (YoY) (Aug) |  | -1.8% | -1.5% |
+| 07:00 | GBP | Public Sector Net Borrowing | 18.00B | 12.80B | 1.05B |
+| 07:00 | GBP | Public Sector Net Cash Requirement (Aug) | 10.158B |  | 2.644B |
+| 07:00 | EUR | German PPI (YoY) (Aug) | -2.2% | -1.8% | -1.5% |
+| 35 min | EUR | French Business Survey (Sep) |  | 96 | 96 |
 | 11:00 | EUR | ECOFIN Meetings |  |  |  |
 | 12:30 | INR | FX Reserves, USD |  |  | 698.27B |
 | 13:00 | MXN | Aggregate Demand (YoY) (Q2) |  |  | -0.20% |
 | 13:00 | MXN | Aggregate Demand (QoQ) (Q2) |  |  | -1.10% |
-| 13:00 | MXN | Private Spending (QoQ) (Q2) |  |  | -0.40% |
 | 13:00 | MXN | Private Spending (YoY) (Q2) |  |  | -0.60% |
+| 13:00 | MXN | Private Spending (QoQ) (Q2) |  |  | -0.40% |
 | 13:00 | CNY | FDI (Aug) |  |  | -13.40% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.2K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 27.2K |
