@@ -9,15 +9,15 @@
 | 00:30 | JPY | Moderate | National CPI (MoM) (Aug) | 0.1% |  | 0.1% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | 1,478.5B |  | 208.0B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -2,034.0B |  | 108.6B |
-| 56 min | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
-| 04:00 | JPY | High | BoJ Interest Rate Decision |  | 0.50% | 0.50% |
-| 04:00 | NZD | Low | Credit Card Spending (YoY) (Aug) |  |  | 1.4% |
-| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Aug) |  | 0.8% | 1.3% |
+| 03:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
+| 26 min | JPY | High | BoJ Interest Rate Decision |  | 0.50% | 0.50% |
+| 26 min | NZD | Low | Credit Card Spending (YoY) (Aug) |  |  | 1.4% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Aug) |  | 0.3% | 0.5% |
+| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Aug) |  | 0.8% | 1.3% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing |  | 12.80B | 1.05B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Aug) |  |  | 3.002B |
-| 07:00 | GBP | Moderate | Retail Sales (YoY) (Aug) |  | 0.6% | 1.1% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Aug) |  | 0.4% | 0.6% |
+| 07:00 | GBP | Moderate | Retail Sales (YoY) (Aug) |  | 0.6% | 1.1% |
 | 07:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 07:45 | EUR | Low | French Business Survey (Sep) |  | 96 | 96 |
 | 08:00 | EUR | Moderate | German PPI (MoM) (Aug) |  | -0.1% | -0.1% |
@@ -27,14 +27,14 @@
 | 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 698.27B |
-| 13:00 | MXN | Low | Aggregate Demand (QoQ) (Q2) |  |  | -1.10% |
 | 13:00 | MXN | Low | Aggregate Demand (YoY) (Q2) |  |  | -0.20% |
+| 13:00 | MXN | Low | Aggregate Demand (QoQ) (Q2) |  |  | -1.10% |
 | 13:00 | MXN | Low | Private Spending (QoQ) (Q2) |  |  | -0.40% |
 | 13:00 | MXN | Low | Private Spending (YoY) (Q2) |  |  | -0.60% |
 | 13:00 | CNY | Low | FDI (Aug) |  |  | -13.40% |
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Jul) |  | -0.4% | 1.9% |
-| 13:30 | CAD | Moderate | Retail Sales (MoM) (Jul) |  |  | 1.5% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Jul) |  | -0.6% | 1.5% |
+| 13:30 | CAD | Moderate | Retail Sales (MoM) (Jul) |  |  | 1.5% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 416 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 539 |
 | 19:30 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
