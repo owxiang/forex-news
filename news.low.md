@@ -17,8 +17,8 @@
 | 12:30 | INR | Deposit Growth | 9.8% |  | 10.2% |
 | 12:30 | INR | FX Reserves, USD | 702.97B |  | 698.27B |
 | 12:30 | CNY | FDI (Aug) | -12.70% |  | -13.40% |
-| 13:00 | MXN | Aggregate Demand (YoY) (Q2) | 0.30% |  | -0.20% |
 | 13:00 | MXN | Aggregate Demand (QoQ) (Q2) | 1.40% |  | -1.10% |
+| 13:00 | MXN | Aggregate Demand (YoY) (Q2) | 0.30% |  | -0.20% |
 | 13:00 | MXN | Private Spending (QoQ) (Q2) | 1.20% |  | -0.40% |
 | 13:00 | MXN | Private Spending (YoY) (Q2) | -0.40% |  | -0.60% |
 | 20:30 | USD | CFTC Aluminium speculative net positions | 1.2K |  | 1.2K |
