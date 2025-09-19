@@ -12,12 +12,12 @@
 | 03:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
 | 04:00 | JPY | High | BoJ Interest Rate Decision | 0.50% | 0.50% | 0.50% |
 | 04:00 | NZD | Low | Credit Card Spending (YoY) (Aug) | 3.5% |  | 1.6% |
-| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Aug) | 1.2% | 0.8% | 1.0% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Aug) | 0.8% | 0.3% | 0.4% |
+| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Aug) | 1.2% | 0.8% | 1.0% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing | 18.00B | 12.80B | 1.05B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Aug) | 10.158B |  | 2.644B |
-| 07:00 | GBP | Moderate | Retail Sales (MoM) (Aug) | 0.5% | 0.4% | 0.5% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Aug) | 0.7% | 0.6% | 0.8% |
+| 07:00 | GBP | Moderate | Retail Sales (MoM) (Aug) | 0.5% | 0.4% | 0.5% |
 | 07:00 | EUR | Low | German PPI (YoY) (Aug) | -2.2% | -1.8% | -1.5% |
 | 07:00 | EUR | Moderate | German PPI (MoM) (Aug) | -0.5% | -0.1% | -0.1% |
 | 07:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
@@ -30,15 +30,15 @@
 | 12:30 | INR | Low | Deposit Growth | 9.8% |  | 10.2% |
 | 12:30 | INR | Low | FX Reserves, USD | 702.97B |  | 698.27B |
 | 12:30 | CNY | Low | FDI (Aug) | -12.70% |  | -13.40% |
-| 13:00 | MXN | Low | Aggregate Demand (QoQ) (Q2) | 1.40% |  | -1.10% |
 | 13:00 | MXN | Low | Aggregate Demand (YoY) (Q2) | 0.30% |  | -0.20% |
-| 13:00 | MXN | Low | Private Spending (QoQ) (Q2) | 1.20% |  | -0.40% |
+| 13:00 | MXN | Low | Aggregate Demand (QoQ) (Q2) | 1.40% |  | -1.10% |
 | 13:00 | MXN | Low | Private Spending (YoY) (Q2) | -0.40% |  | -0.60% |
+| 13:00 | MXN | Low | Private Spending (QoQ) (Q2) | 1.20% |  | -0.40% |
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Jul) | -1.2% | -0.4% | 2.2% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Jul) | -0.8% | -0.8% | 1.6% |
 | 13:31 | CAD | Moderate | Retail Sales (MoM) (Aug) | 1.0% |  | -0.8% |
-| 53 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 416 |
-| 53 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 539 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 418 |  | 416 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 542 |  | 539 |
 | 19:30 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -33.6K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 1.2K |
