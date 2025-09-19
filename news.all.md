@@ -26,12 +26,12 @@
 | 10:30 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 12:30 | INR | Low | FX Reserves, USD |  |  | 698.27B |
-| 13:00 | MXN | Low | Aggregate Demand (QoQ) (Q2) |  |  | -1.10% |
-| 13:00 | MXN | Low | Aggregate Demand (YoY) (Q2) |  |  | -0.20% |
-| 13:00 | MXN | Low | Private Spending (QoQ) (Q2) |  |  | -0.40% |
-| 13:00 | MXN | Low | Private Spending (YoY) (Q2) |  |  | -0.60% |
-| 13:00 | CNY | Low | FDI (Aug) |  |  | -13.40% |
+| 24 min | INR | Low | FX Reserves, USD |  |  | 698.27B |
+| 54 min | MXN | Low | Aggregate Demand (QoQ) (Q2) |  |  | -1.10% |
+| 54 min | MXN | Low | Aggregate Demand (YoY) (Q2) |  |  | -0.20% |
+| 54 min | MXN | Low | Private Spending (QoQ) (Q2) |  |  | -0.40% |
+| 54 min | MXN | Low | Private Spending (YoY) (Q2) |  |  | -0.60% |
+| 54 min | CNY | Low | FDI (Aug) |  |  | -13.40% |
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Jul) |  | -0.4% | 1.9% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Jul) |  | -0.8% | 1.5% |
 | 13:31 | CAD | Moderate | Retail Sales (MoM) (Aug) |  |  |  |
