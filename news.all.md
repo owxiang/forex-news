@@ -5,8 +5,8 @@
 | 00:01 | GBP | Low | GfK Consumer Confidence (Sep) | -19 | -18 | -17 |
 | 00:30 | JPY | Low | CPI, n.s.a (MoM) (Aug) | 0.2% |  | 0.2% |
 | 00:30 | JPY | Moderate | National Core CPI (YoY) (Aug) | 2.7% | 2.7% | 3.1% |
-| 00:30 | JPY | Moderate | National CPI (MoM) (Aug) | 0.1% |  | 0.1% |
 | 00:30 | JPY | Low | National CPI (YoY) (Aug) | 2.7% |  | 3.1% |
+| 00:30 | JPY | Moderate | National CPI (MoM) (Aug) | 0.1% |  | 0.1% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | 1,478.5B |  | 208.0B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -2,034.0B |  | 108.6B |
 | 03:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
@@ -37,8 +37,8 @@
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Jul) | -1.2% | -0.4% | 2.2% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Jul) | -0.8% | -0.8% | 1.6% |
 | 13:31 | CAD | Moderate | Retail Sales (MoM) (Aug) | 1.0% |  | -0.8% |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 416 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 539 |
+| 53 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 416 |
+| 53 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 539 |
 | 19:30 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -33.6K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 1.2K |

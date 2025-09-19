@@ -17,8 +17,8 @@
 | 13:30 | CAD | Core Retail Sales (MoM) (Jul) | -1.2% | -0.4% | 2.2% |
 | 13:30 | CAD | Retail Sales (MoM) (Jul) | -0.8% | -0.8% | 1.6% |
 | 13:31 | CAD | Retail Sales (MoM) (Aug) | 1.0% |  | -0.8% |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 416 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 539 |
+| 53 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 416 |
+| 53 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 539 |
 | 19:30 | USD | FOMC Member Daly Speaks |  |  |  |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -33.6K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 81.8K |
