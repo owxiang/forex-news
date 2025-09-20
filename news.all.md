@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 54 min | EUR | Low | ECOFIN Meetings |  |  |  |
+| 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
