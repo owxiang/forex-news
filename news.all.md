@@ -30,5 +30,5 @@
 | 18:30 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 19:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 20:45 | CAD | Moderate | BoC Deputy Gov Kozicki Speaks |  |  |  |
-| 22:00 | KRW | Low | PPI (MoM) (Aug) |  |  | 0.4% |
 | 22:00 | KRW | Low | PPI (YoY) (Aug) |  |  | 0.5% |
+| 22:00 | KRW | Low | PPI (MoM) (Aug) |  |  | 0.4% |
