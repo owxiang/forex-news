@@ -10,10 +10,10 @@
 | 09:30 | HKD | Low | CPI (YoY) (Aug) |  |  | 1.00% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:30 | USD | Low | Chicago Fed National Activity (Aug) |  |  | -0.19 |
-| 13:30 | CAD | Low | IPPI (YoY) (Aug) |  |  | 2.6% |
 | 13:30 | CAD | Low | IPPI (MoM) (Aug) |  | 0.9% | 0.7% |
-| 13:30 | CAD | Moderate | RMPI (MoM) (Aug) |  | 1.2% | 0.3% |
+| 13:30 | CAD | Low | IPPI (YoY) (Aug) |  |  | 2.6% |
 | 13:30 | CAD | Low | RMPI (YoY) (Aug) |  |  | 0.8% |
+| 13:30 | CAD | Moderate | RMPI (MoM) (Aug) |  | 1.2% | 0.3% |
 | 13:45 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.046% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.007% |
