@@ -9,7 +9,7 @@
 | 14:45 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 14:45 | USD | FOMC Member Williams Speaks |  |  |  |
 | 14:45 | EUR | ECB's Lane Speaks |  |  |  |
-| 53 min | EUR | German Buba President Nagel Speaks |  |  |  |
+| 17:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 18:15 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 18:30 | EUR | German Buba Balz Speaks |  |  |  |
 | 19:00 | GBP | BoE Gov Bailey Speaks |  |  |  |

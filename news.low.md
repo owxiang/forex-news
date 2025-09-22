@@ -16,8 +16,8 @@
 | 14:00 | EUR | French 3-Month BTF Auction | 2.007% |  | 2.007% |
 | 14:00 | EUR | French 6-Month BTF Auction | 2.027% |  | 2.027% |
 | 15:00 | EUR | Consumer Confidence (Sep) | -14.9 | -15.0 | -15.5 |
-| 23 min | USD | 3-Month Bill Auction |  |  | 3.905% |
-| 23 min | USD | 6-Month Bill Auction |  |  | 3.715% |
-| 53 min | USD | FOMC Member Barkin Speaks |  |  |  |
+| 16:30 | USD | 3-Month Bill Auction | 3.860% |  | 3.905% |
+| 16:30 | USD | 6-Month Bill Auction | 3.705% |  | 3.715% |
+| 17:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 22:00 | KRW | PPI (MoM) (Aug) |  |  | 0.4% |
 | 22:00 | KRW | PPI (YoY) (Aug) |  |  | 0.5% |

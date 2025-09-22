@@ -23,10 +23,10 @@
 | 14:45 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 14:45 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 15:00 | EUR | Low | Consumer Confidence (Sep) | -14.9 | -15.0 | -15.5 |
-| 23 min | USD | Low | 3-Month Bill Auction |  |  | 3.905% |
-| 23 min | USD | Low | 6-Month Bill Auction |  |  | 3.715% |
-| 53 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 53 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 16:30 | USD | Low | 3-Month Bill Auction | 3.860% |  | 3.905% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 3.705% |  | 3.715% |
+| 17:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 17:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 18:15 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 18:30 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 19:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
