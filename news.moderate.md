@@ -10,7 +10,7 @@
 | 14:45 | USD | FOMC Member Williams Speaks |  |  |  |
 | 14:45 | EUR | ECB's Lane Speaks |  |  |  |
 | 17:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 18:15 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
-| 18:30 | EUR | German Buba Balz Speaks |  |  |  |
-| 19:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 9 min | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
+| 24 min | EUR | German Buba Balz Speaks |  |  |  |
+| 54 min | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 20:45 | CAD | BoC Deputy Gov Kozicki Speaks |  |  |  |

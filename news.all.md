@@ -13,8 +13,8 @@
 | 13:30 | USD | Low | Chicago Fed National Activity (Aug) | -0.12 |  | -0.28 |
 | 13:30 | CAD | Low | IPPI (MoM) (Aug) | 0.5% | 0.2% | 0.7% |
 | 13:30 | CAD | Low | IPPI (YoY) (Aug) | 4.0% |  | 2.6% |
-| 13:30 | CAD | Moderate | RMPI (MoM) (Aug) | -0.6% | 1.2% | 0.3% |
 | 13:30 | CAD | Low | RMPI (YoY) (Aug) | 3.2% |  | 0.7% |
+| 13:30 | CAD | Moderate | RMPI (MoM) (Aug) | -0.6% | 1.2% | 0.3% |
 | 13:45 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.048% |  | 2.046% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.007% |  | 2.007% |
@@ -27,9 +27,9 @@
 | 16:30 | USD | Low | 6-Month Bill Auction | 3.705% |  | 3.715% |
 | 17:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 17:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 18:15 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
-| 18:30 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 19:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 9 min | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
+| 24 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 54 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 20:45 | CAD | Moderate | BoC Deputy Gov Kozicki Speaks |  |  |  |
-| 22:00 | KRW | Low | PPI (MoM) (Aug) |  |  | 0.4% |
 | 22:00 | KRW | Low | PPI (YoY) (Aug) |  |  | 0.5% |
+| 22:00 | KRW | Low | PPI (MoM) (Aug) |  |  | 0.4% |
