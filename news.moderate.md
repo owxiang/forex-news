@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 29 min | CNY | China Loan Prime Rate 5Y (Sep) |  | 3.50% | 3.50% |
-| 44 min | CNY | PBoC Loan Prime Rate |  | 3.00% | 3.00% |
+| 02:00 | CNY | China Loan Prime Rate 5Y (Sep) | 3.50% | 3.50% | 3.50% |
+| 02:15 | CNY | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
 | 13:30 | CAD | RMPI (MoM) (Aug) |  | 1.2% | 0.3% |
 | 13:45 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 14:45 | GBP | BoE MPC Member Pill Speaks |  |  |  |
