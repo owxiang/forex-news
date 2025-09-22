@@ -5,7 +5,7 @@
 | 02:00 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
 | 02:00 | CNY | Moderate | China Loan Prime Rate 5Y (Sep) | 3.50% | 3.50% | 3.50% |
 | 02:15 | CNY | Moderate | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
-| 08:00 | CHF | Low | M3 Money Supply (Aug) |  |  | 1,193,413.0B |
+| 49 min | CHF | Low | M3 Money Supply (Aug) |  |  | 1,193.4B |
 | 09:30 | HKD | Low | CPI (MoM) (Aug) |  |  | 0.60% |
 | 09:30 | HKD | Low | CPI (YoY) (Aug) |  |  | 1.00% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
@@ -30,5 +30,5 @@
 | 18:30 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 19:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 20:45 | CAD | Moderate | BoC Deputy Gov Kozicki Speaks |  |  |  |
-| 22:00 | KRW | Low | PPI (MoM) (Aug) |  |  | 0.4% |
 | 22:00 | KRW | Low | PPI (YoY) (Aug) |  |  | 0.5% |
+| 22:00 | KRW | Low | PPI (MoM) (Aug) |  |  | 0.4% |
