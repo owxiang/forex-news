@@ -9,13 +9,13 @@
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:30 | INR | Infrastructure Output (YoY) (Aug) | 6.3% |  | 3.7% |
 | 13:30 | USD | Chicago Fed National Activity (Aug) | -0.12 |  | -0.28 |
-| 13:30 | CAD | IPPI (MoM) (Aug) | 0.5% | 0.2% | 0.7% |
 | 13:30 | CAD | IPPI (YoY) (Aug) | 4.0% |  | 2.6% |
+| 13:30 | CAD | IPPI (MoM) (Aug) | 0.5% | 0.2% | 0.7% |
 | 13:30 | CAD | RMPI (YoY) (Aug) | 3.2% |  | 0.7% |
 | 14:00 | EUR | French 12-Month BTF Auction | 2.048% |  | 2.046% |
 | 14:00 | EUR | French 3-Month BTF Auction | 2.007% |  | 2.007% |
 | 14:00 | EUR | French 6-Month BTF Auction | 2.027% |  | 2.027% |
-| 46 min | EUR | Consumer Confidence (Sep) |  | -15.0 | -15.5 |
+| 15:00 | EUR | Consumer Confidence (Sep) | -14.9 | -15.0 | -15.5 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 3.905% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 3.715% |
 | 17:00 | USD | FOMC Member Barkin Speaks |  |  |  |
