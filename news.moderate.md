@@ -13,4 +13,4 @@
 | 18:15 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 18:30 | EUR | German Buba Balz Speaks |  |  |  |
 | 19:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 39 min | CAD | BoC Deputy Gov Kozicki Speaks |  |  |  |
+| 20:45 | CAD | BoC Deputy Gov Kozicki Speaks |  |  |  |
