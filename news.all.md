@@ -1,35 +1,54 @@
-## 22 September 2025 - All Forex News
+## 23 September 2025 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 02:00 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
-| 02:00 | CNY | Moderate | China Loan Prime Rate 5Y (Sep) | 3.50% | 3.50% | 3.50% |
-| 02:15 | CNY | Moderate | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
-| 08:00 | CHF | Low | M3 Money Supply (Aug) | 1,196.9B |  | 1,192.4B |
-| 09:30 | HKD | Low | CPI (MoM) (Aug) | 0.10% |  | 0.60% |
-| 09:30 | HKD | Low | CPI (YoY) (Aug) | 1.10% | 1.10% | 1.00% |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 12:30 | INR | Low | Infrastructure Output (YoY) (Aug) | 6.3% |  | 3.7% |
-| 13:30 | USD | Low | Chicago Fed National Activity (Aug) | -0.12 |  | -0.28 |
-| 13:30 | CAD | Low | IPPI (YoY) (Aug) | 4.0% |  | 2.6% |
-| 13:30 | CAD | Low | IPPI (MoM) (Aug) | 0.5% | 0.2% | 0.7% |
-| 13:30 | CAD | Moderate | RMPI (MoM) (Aug) | -0.6% | 1.2% | 0.3% |
-| 13:30 | CAD | Low | RMPI (YoY) (Aug) | 3.2% |  | 0.7% |
-| 13:45 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.048% |  | 2.046% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.007% |  | 2.007% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.027% |  | 2.027% |
-| 14:45 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 14:45 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 14:45 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 15:00 | EUR | Low | Consumer Confidence (Sep) | -14.9 | -15.0 | -15.5 |
-| 16:30 | USD | Low | 3-Month Bill Auction | 3.860% |  | 3.905% |
-| 16:30 | USD | Low | 6-Month Bill Auction | 3.705% |  | 3.715% |
-| 17:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 17:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 18:15 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
-| 18:30 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 19:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 20:45 | CAD | Moderate | BoC Deputy Gov Kozicki Speaks |  |  |  |
-| 22:00 | KRW | Low | PPI (MoM) (Aug) | -0.1% |  | 0.4% |
-| 22:00 | KRW | Low | PPI (YoY) (Aug) | 0.6% |  | 0.5% |
+| 00:00 | AUD | Low | Manufacturing & Services PMI (MoM) (Sep) | 52.10% |  | 55.50% |
+| 00:00 | AUD | Low | Judo Bank Manufacturing PMI (Sep) | 51.6 |  | 53.0 |
+| 00:00 | AUD | Low | Judo Bank Services PMI (Sep) | 52.0 |  | 55.8 |
+| 05:00 | IDR | Low | M2 Money Supply (YoY) (Aug) |  |  | 6.50% |
+| 06:00 | INR | Low | S&P Global Manufacturing PMI (Sep) |  |  | 59.3 |
+| 06:00 | INR | Low | S&P Global Services PMI (Sep) |  |  | 62.9 |
+| 06:00 | INR | Low | Manufacturing & Services PMI (MoM) (Sep) |  |  | 63.20% |
+| 06:00 | SGD | Moderate | Core CPI (YoY) (Aug) |  | 0.40% | 0.50% |
+| 06:00 | SGD | Low | CPI (MoM) (Aug) |  |  | -0.50% |
+| 06:00 | SGD | Moderate | CPI (YoY) (Aug) |  | 0.6% | 0.6% |
+| 08:00 | ZAR | Low | Leading Indicators (Jul) |  |  | 111.70% |
+| 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Sep) |  | 50.2 | 50.4 |
+| 08:15 | EUR | Low | HCOB France Composite PMI (Sep) |  | 49.9 | 49.8 |
+| 08:15 | EUR | Moderate | HCOB France Services PMI (Sep) |  | 49.7 | 49.8 |
+| 08:30 | EUR | Low | HCOB Germany Composite PMI (Sep) |  | 50.5 | 50.5 |
+| 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Sep) |  | 50.0 | 49.8 |
+| 08:30 | EUR | Moderate | HCOB Germany Services PMI (Sep) |  | 49.5 | 49.3 |
+| 09:00 | EUR | Low | Spanish Trade Balance (Jul) |  |  | -3.59B |
+| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Sep) |  | 50.7 | 50.7 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Sep) |  | 51.1 | 51.0 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Sep) |  | 50.6 | 50.5 |
+| 09:30 | GBP | Moderate | S&P Global Composite PMI (Sep) |  | 52.7 | 53.5 |
+| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Sep) |  | 47.2 | 47.0 |
+| 09:30 | GBP | Moderate | S&P Global Services PMI (Sep) |  | 53.6 | 54.2 |
+| 10:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 1.960% |
+| 11:00 | GBP | Low | CBI Industrial Trends Orders (Sep) |  | -30 | -33 |
+| 12:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
+| 13:00 | MXN | Low | Economic Activity (MoM) (Jul) |  | -0.70% | 0.20% |
+| 13:00 | MXN | Low | Economic Activity (YoY) (Jul) |  | -0.70% | 1.30% |
+| 13:00 | MXN | Low | Retail Sales (YoY) (Jul) |  | 1.6% | 2.5% |
+| 13:00 | MXN | Low | Retail Sales (MoM) (Jul) |  | -0.1% | -0.4% |
+| 13:30 | USD | Moderate | Current Account (Q2) |  | -273.0B | -450.2B |
+| 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Aug) |  | 0.0% | -0.1% |
+| 13:55 | USD | Low | Redbook (YoY) |  |  | 6.3% |
+| 14:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 14:45 | USD | High | S&P Global Manufacturing PMI (Sep) |  | 51.8 | 53.0 |
+| 14:45 | USD | Moderate | S&P Global Composite PMI (Sep) |  | 54.6 | 54.6 |
+| 14:45 | USD | High | S&P Global Services PMI (Sep) |  | 53.8 | 54.5 |
+| 15:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 15:00 | USD | Low | Richmond Manufacturing Index (Sep) |  | -9 | -7 |
+| 15:00 | USD | Low | Richmond Manufacturing Shipments (Sep) |  |  | -5 |
+| 15:00 | USD | Low | Richmond Services Index (Sep) |  |  | 4 |
+| 17:35 | USD | High | Fed Chair Powell Speaks |  |  |  |
+| 18:00 | USD | Moderate | 2-Year Note Auction |  |  | 3.641% |
+| 18:00 | USD | Low | M2 Money Supply (MoM) (Aug) |  |  | 22.12T |
+| 19:15 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -3.420M |
+| 22:00 | KRW | Low | Consumer Confidence (Sep) |  |  | 111.4 |
+| 23:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |

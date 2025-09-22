@@ -1,16 +1,26 @@
-## 22 September 2025 - Moderate Impact Forex News
+## 23 September 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | CNY | China Loan Prime Rate 5Y (Sep) | 3.50% | 3.50% | 3.50% |
-| 02:15 | CNY | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
-| 13:30 | CAD | RMPI (MoM) (Aug) | -0.6% | 1.2% | 0.3% |
-| 13:45 | EUR | German Buba Mauderer Speaks |  |  |  |
-| 14:45 | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 14:45 | USD | FOMC Member Williams Speaks |  |  |  |
-| 14:45 | EUR | ECB's Lane Speaks |  |  |  |
-| 17:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 18:15 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
-| 18:30 | EUR | German Buba Balz Speaks |  |  |  |
-| 19:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 20:45 | CAD | BoC Deputy Gov Kozicki Speaks |  |  |  |
+| 06:00 | SGD | Core CPI (YoY) (Aug) |  | 0.40% | 0.50% |
+| 06:00 | SGD | CPI (YoY) (Aug) |  | 0.6% | 0.6% |
+| 08:15 | EUR | HCOB France Manufacturing PMI (Sep) |  | 50.2 | 50.4 |
+| 08:15 | EUR | HCOB France Services PMI (Sep) |  | 49.7 | 49.8 |
+| 08:30 | EUR | HCOB Germany Manufacturing PMI (Sep) |  | 50.0 | 49.8 |
+| 08:30 | EUR | HCOB Germany Services PMI (Sep) |  | 49.5 | 49.3 |
+| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Sep) |  | 50.7 | 50.7 |
+| 09:00 | EUR | HCOB Eurozone Composite PMI (Sep) |  | 51.1 | 51.0 |
+| 09:00 | EUR | HCOB Eurozone Services PMI (Sep) |  | 50.6 | 50.5 |
+| 09:30 | GBP | S&P Global Composite PMI (Sep) |  | 52.7 | 53.5 |
+| 09:30 | GBP | S&P Global Manufacturing PMI (Sep) |  | 47.2 | 47.0 |
+| 09:30 | GBP | S&P Global Services PMI (Sep) |  | 53.6 | 54.2 |
+| 10:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 13:30 | USD | Current Account (Q2) |  | -273.0B | -450.2B |
+| 13:30 | CAD | New Housing Price Index (MoM) (Aug) |  | 0.0% | -0.1% |
+| 14:00 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 14:45 | USD | S&P Global Composite PMI (Sep) |  | 54.6 | 54.6 |
+| 15:00 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 18:00 | USD | 2-Year Note Auction |  |  | 3.641% |
+| 19:15 | CAD | BoC Gov Macklem Speaks |  |  |  |
+| 21:30 | USD | API Weekly Crude Oil Stock |  |  | -3.420M |
+| 23:00 | EUR | German Buba Mauderer Speaks |  |  |  |
