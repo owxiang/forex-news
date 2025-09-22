@@ -8,16 +8,17 @@
 | 08:00 | CHF | Low | M3 Money Supply (Aug) | 1,196.9B |  | 1,192.4B |
 | 09:30 | HKD | Low | CPI (MoM) (Aug) | 0.10% |  | 0.60% |
 | 09:30 | HKD | Low | CPI (YoY) (Aug) | 1.10% | 1.10% | 1.00% |
-| 19 min | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:30 | USD | Low | Chicago Fed National Activity (Aug) |  |  | -0.19 |
-| 13:30 | CAD | Low | IPPI (YoY) (Aug) |  |  | 2.6% |
-| 13:30 | CAD | Low | IPPI (MoM) (Aug) |  | 0.2% | 0.7% |
-| 13:30 | CAD | Moderate | RMPI (MoM) (Aug) |  | 1.2% | 0.3% |
-| 13:30 | CAD | Low | RMPI (YoY) (Aug) |  |  | 0.8% |
-| 13:45 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.046% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.007% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.027% |
+| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 12:30 | INR | Low | Infrastructure Output (YoY) (Aug) | 6.3% |  | 2.0% |
+| 18 min | USD | Low | Chicago Fed National Activity (Aug) |  |  | -0.19 |
+| 18 min | CAD | Low | IPPI (MoM) (Aug) |  | 0.2% | 0.7% |
+| 18 min | CAD | Low | IPPI (YoY) (Aug) |  |  | 2.6% |
+| 18 min | CAD | Low | RMPI (YoY) (Aug) |  |  | 0.8% |
+| 18 min | CAD | Moderate | RMPI (MoM) (Aug) |  | 1.2% | 0.3% |
+| 33 min | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 48 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.046% |
+| 48 min | EUR | Low | French 3-Month BTF Auction |  |  | 2.007% |
+| 48 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.027% |
 | 14:45 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 14:45 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 14:45 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
@@ -30,5 +31,5 @@
 | 18:30 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 19:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 20:45 | CAD | Moderate | BoC Deputy Gov Kozicki Speaks |  |  |  |
-| 22:00 | KRW | Low | PPI (YoY) (Aug) |  |  | 0.5% |
 | 22:00 | KRW | Low | PPI (MoM) (Aug) |  |  | 0.4% |
+| 22:00 | KRW | Low | PPI (YoY) (Aug) |  |  | 0.5% |
