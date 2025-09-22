@@ -11,10 +11,10 @@
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:30 | INR | Low | Infrastructure Output (YoY) (Aug) | 6.3% |  | 3.7% |
 | 13:30 | USD | Low | Chicago Fed National Activity (Aug) | -0.12 |  | -0.28 |
-| 13:30 | CAD | Low | IPPI (MoM) (Aug) | 0.5% | 0.2% | 0.7% |
 | 13:30 | CAD | Low | IPPI (YoY) (Aug) | 4.0% |  | 2.6% |
-| 13:30 | CAD | Low | RMPI (YoY) (Aug) | 3.2% |  | 0.7% |
+| 13:30 | CAD | Low | IPPI (MoM) (Aug) | 0.5% | 0.2% | 0.7% |
 | 13:30 | CAD | Moderate | RMPI (MoM) (Aug) | -0.6% | 1.2% | 0.3% |
+| 13:30 | CAD | Low | RMPI (YoY) (Aug) | 3.2% |  | 0.7% |
 | 13:45 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.048% |  | 2.046% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.007% |  | 2.007% |
