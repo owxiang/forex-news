@@ -18,5 +18,5 @@
 | 16:30 | USD | 3-Month Bill Auction |  |  | 3.905% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 3.715% |
 | 17:00 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 22:00 | KRW | PPI (YoY) (Aug) |  |  | 0.5% |
 | 22:00 | KRW | PPI (MoM) (Aug) |  |  | 0.4% |
+| 22:00 | KRW | PPI (YoY) (Aug) |  |  | 0.5% |
