@@ -20,8 +20,8 @@
 | 12:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
 | 13:00 | MXN | Economic Activity (MoM) (Jul) | -0.90% | -0.70% | 0.10% |
 | 13:00 | MXN | Economic Activity (YoY) (Jul) | -1.10% | -0.70% | 1.30% |
-| 13:00 | MXN | Retail Sales (MoM) (Jul) | 0.1% | -0.1% | -0.4% |
 | 13:00 | MXN | Retail Sales (YoY) (Jul) | 2.4% | 1.6% | 3.2% |
+| 13:00 | MXN | Retail Sales (MoM) (Jul) | 0.1% | -0.1% | -0.4% |
 | 13:30 | USD | Fed Goolsbee Speaks |  |  |  |
 | 13:55 | USD | Redbook (YoY) | 5.7% |  | 6.3% |
 | 15:00 | USD | Richmond Manufacturing Index (Sep) | -17 | -5 | -7 |

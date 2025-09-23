@@ -33,8 +33,8 @@
 | 12:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
 | 13:00 | MXN | Low | Economic Activity (MoM) (Jul) | -0.90% | -0.70% | 0.10% |
 | 13:00 | MXN | Low | Economic Activity (YoY) (Jul) | -1.10% | -0.70% | 1.30% |
-| 13:00 | MXN | Low | Retail Sales (MoM) (Jul) | 0.1% | -0.1% | -0.4% |
 | 13:00 | MXN | Low | Retail Sales (YoY) (Jul) | 2.4% | 1.6% | 3.2% |
+| 13:00 | MXN | Low | Retail Sales (MoM) (Jul) | 0.1% | -0.1% | -0.4% |
 | 13:30 | USD | Moderate | Current Account (Q2) | -251.3B | -259.0B | -439.8B |
 | 13:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Aug) | -0.3% | 0.0% | -0.1% |
@@ -49,9 +49,9 @@
 | 15:00 | USD | Low | Richmond Manufacturing Shipments (Sep) | -20 |  | -5 |
 | 15:00 | USD | Low | Richmond Services Index (Sep) | 1 |  | 4 |
 | 17:35 | USD | High | Fed Chair Powell Speaks |  |  |  |
-| 18:00 | USD | Moderate | 2-Year Note Auction |  |  | 3.641% |
+| 18:00 | USD | Moderate | 2-Year Note Auction | 3.561% |  | 3.641% |
 | 18:00 | USD | Low | M2 Money Supply (MoM) (Aug) | 22.20T |  | 22.12T |
-| 19:15 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
+| 5 min | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 20:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -3.420M |
 | 22:00 | KRW | Low | Consumer Confidence (Sep) |  |  | 111.4 |
