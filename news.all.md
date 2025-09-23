@@ -48,9 +48,9 @@
 | 15:00 | USD | Low | Richmond Manufacturing Index (Sep) | -17 | -5 | -7 |
 | 15:00 | USD | Low | Richmond Manufacturing Shipments (Sep) | -20 |  | -5 |
 | 15:00 | USD | Low | Richmond Services Index (Sep) | 1 |  | 4 |
-| 17:35 | USD | High | Fed Chair Powell Speaks |  |  |  |
-| 18:00 | USD | Moderate | 2-Year Note Auction |  |  | 3.641% |
-| 18:00 | USD | Low | M2 Money Supply (MoM) (Aug) |  |  | 22.12T |
+| 26 min | USD | High | Fed Chair Powell Speaks |  |  |  |
+| 51 min | USD | Moderate | 2-Year Note Auction |  |  | 3.641% |
+| 51 min | USD | Low | M2 Money Supply (MoM) (Aug) |  |  | 22.12T |
 | 19:15 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 20:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -3.420M |

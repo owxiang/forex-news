@@ -27,6 +27,6 @@
 | 15:00 | USD | Richmond Manufacturing Index (Sep) | -17 | -5 | -7 |
 | 15:00 | USD | Richmond Manufacturing Shipments (Sep) | -20 |  | -5 |
 | 15:00 | USD | Richmond Services Index (Sep) | 1 |  | 4 |
-| 18:00 | USD | M2 Money Supply (MoM) (Aug) |  |  | 22.12T |
+| 51 min | USD | M2 Money Supply (MoM) (Aug) |  |  | 22.12T |
 | 20:30 | USD | Fed Goolsbee Speaks |  |  |  |
 | 22:00 | KRW | Consumer Confidence (Sep) |  |  | 111.4 |
