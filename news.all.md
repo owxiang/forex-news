@@ -29,11 +29,11 @@
 | 10:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 10:30 | EUR | Low | German 2-Year Schatz Auction | 2.010% |  | 1.960% |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Sep) | -27 | -30 | -33 |
-| 53 min | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
-| 13:00 | MXN | Low | Economic Activity (MoM) (Jul) |  | -0.70% | 0.20% |
-| 13:00 | MXN | Low | Economic Activity (YoY) (Jul) |  | -0.70% | 1.30% |
-| 13:00 | MXN | Low | Retail Sales (MoM) (Jul) |  | -0.1% | -0.4% |
-| 13:00 | MXN | Low | Retail Sales (YoY) (Jul) |  | 1.6% | 2.5% |
+| 12:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
+| 54 min | MXN | Low | Economic Activity (MoM) (Jul) |  | -0.70% | 0.20% |
+| 54 min | MXN | Low | Economic Activity (YoY) (Jul) |  | -0.70% | 1.30% |
+| 54 min | MXN | Low | Retail Sales (MoM) (Jul) |  | -0.1% | -0.4% |
+| 54 min | MXN | Low | Retail Sales (YoY) (Jul) |  | 1.6% | 2.5% |
 | 13:30 | USD | Moderate | Current Account (Q2) |  | -259.0B | -450.2B |
 | 13:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Aug) |  | 0.0% | -0.1% |

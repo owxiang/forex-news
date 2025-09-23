@@ -16,11 +16,11 @@
 | 09:00 | EUR | Spanish Trade Balance (Jul) | -4.01B |  | -3.59B |
 | 10:30 | EUR | German 2-Year Schatz Auction | 2.010% |  | 1.960% |
 | 11:00 | GBP | CBI Industrial Trends Orders (Sep) | -27 | -30 | -33 |
-| 53 min | BRL | BCB Copom Meeting Minutes |  |  |  |
-| 13:00 | MXN | Economic Activity (MoM) (Jul) |  | -0.70% | 0.20% |
-| 13:00 | MXN | Economic Activity (YoY) (Jul) |  | -0.70% | 1.30% |
-| 13:00 | MXN | Retail Sales (MoM) (Jul) |  | -0.1% | -0.4% |
-| 13:00 | MXN | Retail Sales (YoY) (Jul) |  | 1.6% | 2.5% |
+| 12:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
+| 54 min | MXN | Economic Activity (MoM) (Jul) |  | -0.70% | 0.20% |
+| 54 min | MXN | Economic Activity (YoY) (Jul) |  | -0.70% | 1.30% |
+| 54 min | MXN | Retail Sales (MoM) (Jul) |  | -0.1% | -0.4% |
+| 54 min | MXN | Retail Sales (YoY) (Jul) |  | 1.6% | 2.5% |
 | 13:30 | USD | Fed Goolsbee Speaks |  |  |  |
 | 13:55 | USD | Redbook (YoY) |  |  | 6.3% |
 | 15:00 | USD | Richmond Manufacturing Index (Sep) |  | -5 | -7 |
