@@ -5,13 +5,13 @@
 | 00:00 | AUD | Low | Manufacturing & Services PMI (MoM) (Sep) | 52.10% |  | 55.50% |
 | 00:00 | AUD | Low | Judo Bank Manufacturing PMI (Sep) | 51.6 |  | 53.0 |
 | 00:00 | AUD | Low | Judo Bank Services PMI (Sep) | 52.0 |  | 55.8 |
-| 43 min | IDR | Low | M2 Money Supply (YoY) (Aug) | 7.60% |  | 6.50% |
-| 06:00 | INR | Low | S&P Global Manufacturing PMI (Sep) |  |  | 59.3 |
-| 06:00 | INR | Low | S&P Global Services PMI (Sep) |  |  | 62.9 |
-| 06:00 | INR | Low | Manufacturing & Services PMI (MoM) (Sep) |  |  | 63.20% |
-| 06:00 | SGD | Moderate | Core CPI (YoY) (Aug) |  | 0.40% | 0.50% |
-| 06:00 | SGD | Low | CPI (MoM) (Aug) |  |  | -0.50% |
-| 06:00 | SGD | Moderate | CPI (YoY) (Aug) |  | 0.6% | 0.6% |
+| 04:00 | IDR | Low | M2 Money Supply (YoY) (Aug) | 7.60% |  | 6.50% |
+| 52 min | INR | Low | S&P Global Manufacturing PMI (Sep) |  |  | 59.3 |
+| 52 min | INR | Low | S&P Global Services PMI (Sep) |  |  | 62.9 |
+| 52 min | INR | Low | Manufacturing & Services PMI (MoM) (Sep) |  |  | 63.20% |
+| 52 min | SGD | Moderate | Core CPI (YoY) (Aug) |  | 0.40% | 0.50% |
+| 52 min | SGD | Low | CPI (MoM) (Aug) |  |  | -0.50% |
+| 52 min | SGD | Moderate | CPI (YoY) (Aug) |  | 0.6% | 0.6% |
 | 08:00 | ZAR | Low | Leading Indicators (Jul) |  |  | 111.70% |
 | 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Sep) |  | 50.2 | 50.4 |
 | 08:15 | EUR | Low | HCOB France Composite PMI (Sep) |  | 49.9 | 49.8 |
@@ -24,8 +24,8 @@
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Sep) |  | 51.1 | 51.0 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Sep) |  | 50.6 | 50.5 |
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (Sep) |  | 52.7 | 53.5 |
-| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Sep) |  | 47.2 | 47.0 |
-| 09:30 | GBP | Moderate | S&P Global Services PMI (Sep) |  | 53.6 | 54.2 |
+| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Sep) |  | 47.1 | 47.0 |
+| 09:30 | GBP | Moderate | S&P Global Services PMI (Sep) |  | 53.4 | 54.2 |
 | 10:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 1.960% |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Sep) |  | -30 | -33 |
@@ -34,7 +34,7 @@
 | 13:00 | MXN | Low | Economic Activity (YoY) (Jul) |  | -0.70% | 1.30% |
 | 13:00 | MXN | Low | Retail Sales (MoM) (Jul) |  | -0.1% | -0.4% |
 | 13:00 | MXN | Low | Retail Sales (YoY) (Jul) |  | 1.6% | 2.5% |
-| 13:30 | USD | Moderate | Current Account (Q2) |  | -273.0B | -450.2B |
+| 13:30 | USD | Moderate | Current Account (Q2) |  | -259.0B | -450.2B |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Aug) |  | 0.0% | -0.1% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 6.3% |
 | 14:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
@@ -42,7 +42,7 @@
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Sep) |  | 54.6 | 54.6 |
 | 14:45 | USD | High | S&P Global Services PMI (Sep) |  | 53.8 | 54.5 |
 | 15:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 15:00 | USD | Low | Richmond Manufacturing Index (Sep) |  | -9 | -7 |
+| 15:00 | USD | Low | Richmond Manufacturing Index (Sep) |  | -5 | -7 |
 | 15:00 | USD | Low | Richmond Manufacturing Shipments (Sep) |  |  | -5 |
 | 15:00 | USD | Low | Richmond Services Index (Sep) |  |  | 4 |
 | 17:35 | USD | High | Fed Chair Powell Speaks |  |  |  |

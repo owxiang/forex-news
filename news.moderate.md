@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 06:00 | SGD | Core CPI (YoY) (Aug) |  | 0.40% | 0.50% |
-| 06:00 | SGD | CPI (YoY) (Aug) |  | 0.6% | 0.6% |
+| 52 min | SGD | Core CPI (YoY) (Aug) |  | 0.40% | 0.50% |
+| 52 min | SGD | CPI (YoY) (Aug) |  | 0.6% | 0.6% |
 | 08:15 | EUR | HCOB France Manufacturing PMI (Sep) |  | 50.2 | 50.4 |
 | 08:15 | EUR | HCOB France Services PMI (Sep) |  | 49.7 | 49.8 |
 | 08:30 | EUR | HCOB Germany Manufacturing PMI (Sep) |  | 50.0 | 49.8 |
@@ -12,10 +12,10 @@
 | 09:00 | EUR | HCOB Eurozone Composite PMI (Sep) |  | 51.1 | 51.0 |
 | 09:00 | EUR | HCOB Eurozone Services PMI (Sep) |  | 50.6 | 50.5 |
 | 09:30 | GBP | S&P Global Composite PMI (Sep) |  | 52.7 | 53.5 |
-| 09:30 | GBP | S&P Global Manufacturing PMI (Sep) |  | 47.2 | 47.0 |
-| 09:30 | GBP | S&P Global Services PMI (Sep) |  | 53.6 | 54.2 |
+| 09:30 | GBP | S&P Global Manufacturing PMI (Sep) |  | 47.1 | 47.0 |
+| 09:30 | GBP | S&P Global Services PMI (Sep) |  | 53.4 | 54.2 |
 | 10:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 13:30 | USD | Current Account (Q2) |  | -273.0B | -450.2B |
+| 13:30 | USD | Current Account (Q2) |  | -259.0B | -450.2B |
 | 13:30 | CAD | New Housing Price Index (MoM) (Aug) |  | 0.0% | -0.1% |
 | 14:00 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 14:45 | USD | S&P Global Composite PMI (Sep) |  | 54.6 | 54.6 |
