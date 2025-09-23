@@ -5,14 +5,14 @@
 | 00:00 | AUD | Low | Manufacturing & Services PMI (MoM) (Sep) | 52.10% |  | 55.50% |
 | 00:00 | AUD | Low | Judo Bank Manufacturing PMI (Sep) | 51.6 |  | 53.0 |
 | 00:00 | AUD | Low | Judo Bank Services PMI (Sep) | 52.0 |  | 55.8 |
-| 04:00 | IDR | Low | M2 Money Supply (YoY) (Aug) | 7.60% |  | 6.60% |
+| 05:00 | IDR | Low | M2 Money Supply (YoY) (Aug) | 7.60% |  | 6.60% |
 | 06:00 | INR | Low | S&P Global Manufacturing PMI (Sep) | 58.5 |  | 59.3 |
 | 06:00 | INR | Low | S&P Global Services PMI (Sep) | 61.6 |  | 62.9 |
 | 06:00 | INR | Low | Manufacturing & Services PMI (MoM) (Sep) | 61.90% |  | 63.20% |
 | 06:00 | SGD | Moderate | Core CPI (YoY) (Aug) | 0.30% | 0.40% | 0.50% |
 | 06:00 | SGD | Low | CPI (MoM) (Aug) | 0.50% |  | -0.40% |
 | 06:00 | SGD | Moderate | CPI (YoY) (Aug) | 0.5% | 0.6% | 0.6% |
-| 08:00 | ZAR | Low | Leading Indicators (Jul) |  |  | 111.70% |
+| 50 min | ZAR | Low | Leading Indicators (Jul) |  |  | 111.70% |
 | 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Sep) |  | 50.2 | 50.4 |
 | 08:15 | EUR | Low | HCOB France Composite PMI (Sep) |  | 49.9 | 49.8 |
 | 08:15 | EUR | Moderate | HCOB France Services PMI (Sep) |  | 49.7 | 49.8 |
