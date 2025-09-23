@@ -11,10 +11,10 @@
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Sep) | 49.5 | 50.7 | 50.7 |
 | 09:00 | EUR | HCOB Eurozone Composite PMI (Sep) | 51.2 | 51.1 | 51.0 |
 | 09:00 | EUR | HCOB Eurozone Services PMI (Sep) | 51.4 | 50.6 | 50.5 |
-| 21 min | GBP | S&P Global Composite PMI (Sep) |  | 52.7 | 53.5 |
-| 21 min | GBP | S&P Global Manufacturing PMI (Sep) |  | 47.1 | 47.0 |
-| 21 min | GBP | S&P Global Services PMI (Sep) |  | 53.4 | 54.2 |
-| 51 min | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 09:30 | GBP | S&P Global Composite PMI (Sep) | 51.0 | 52.7 | 53.5 |
+| 09:30 | GBP | S&P Global Manufacturing PMI (Sep) | 46.2 | 47.1 | 47.0 |
+| 09:30 | GBP | S&P Global Services PMI (Sep) | 51.9 | 53.4 | 54.2 |
+| 10:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 13:30 | USD | Current Account (Q2) |  | -259.0B | -450.2B |
 | 13:30 | CAD | New Housing Price Index (MoM) (Aug) |  | 0.0% | -0.1% |
 | 14:00 | USD | FOMC Member Bowman Speaks |  |  |  |

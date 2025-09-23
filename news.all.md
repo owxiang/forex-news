@@ -23,17 +23,17 @@
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Sep) | 49.5 | 50.7 | 50.7 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Sep) | 51.2 | 51.1 | 51.0 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Sep) | 51.4 | 50.6 | 50.5 |
-| 21 min | GBP | Moderate | S&P Global Composite PMI (Sep) |  | 52.7 | 53.5 |
-| 21 min | GBP | Moderate | S&P Global Manufacturing PMI (Sep) |  | 47.1 | 47.0 |
-| 21 min | GBP | Moderate | S&P Global Services PMI (Sep) |  | 53.4 | 54.2 |
-| 51 min | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 1.960% |
-| 11:00 | GBP | Low | CBI Industrial Trends Orders (Sep) |  | -30 | -33 |
+| 09:30 | GBP | Moderate | S&P Global Composite PMI (Sep) | 51.0 | 52.7 | 53.5 |
+| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Sep) | 46.2 | 47.1 | 47.0 |
+| 09:30 | GBP | Moderate | S&P Global Services PMI (Sep) | 51.9 | 53.4 | 54.2 |
+| 10:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 22 min | EUR | Low | German 2-Year Schatz Auction |  |  | 1.960% |
+| 52 min | GBP | Low | CBI Industrial Trends Orders (Sep) |  | -30 | -33 |
 | 12:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
 | 13:00 | MXN | Low | Economic Activity (MoM) (Jul) |  | -0.70% | 0.20% |
 | 13:00 | MXN | Low | Economic Activity (YoY) (Jul) |  | -0.70% | 1.30% |
-| 13:00 | MXN | Low | Retail Sales (MoM) (Jul) |  | -0.1% | -0.4% |
 | 13:00 | MXN | Low | Retail Sales (YoY) (Jul) |  | 1.6% | 2.5% |
+| 13:00 | MXN | Low | Retail Sales (MoM) (Jul) |  | -0.1% | -0.4% |
 | 13:30 | USD | Moderate | Current Account (Q2) |  | -259.0B | -450.2B |
 | 13:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Aug) |  | 0.0% | -0.1% |
