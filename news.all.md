@@ -13,20 +13,20 @@
 | 06:00 | SGD | Low | CPI (MoM) (Aug) | 0.50% |  | -0.40% |
 | 06:00 | SGD | Moderate | CPI (YoY) (Aug) | 0.5% | 0.6% | 0.6% |
 | 08:00 | ZAR | Low | Leading Indicators (Jul) | 113.70% |  | 112.68% |
-| 7 min | EUR | Moderate | HCOB France Manufacturing PMI (Sep) |  | 50.2 | 50.4 |
-| 7 min | EUR | Low | HCOB France Composite PMI (Sep) |  | 49.9 | 49.8 |
-| 7 min | EUR | Moderate | HCOB France Services PMI (Sep) |  | 49.7 | 49.8 |
-| 22 min | EUR | Low | HCOB Germany Composite PMI (Sep) |  | 50.5 | 50.5 |
-| 22 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Sep) |  | 50.0 | 49.8 |
-| 22 min | EUR | Moderate | HCOB Germany Services PMI (Sep) |  | 49.5 | 49.3 |
-| 52 min | EUR | Low | Spanish Trade Balance (Jul) |  |  | -3.59B |
-| 52 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Sep) |  | 50.7 | 50.7 |
-| 52 min | EUR | Moderate | HCOB Eurozone Composite PMI (Sep) |  | 51.1 | 51.0 |
-| 52 min | EUR | Moderate | HCOB Eurozone Services PMI (Sep) |  | 50.6 | 50.5 |
-| 09:30 | GBP | Moderate | S&P Global Composite PMI (Sep) |  | 52.7 | 53.5 |
-| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Sep) |  | 47.1 | 47.0 |
-| 09:30 | GBP | Moderate | S&P Global Services PMI (Sep) |  | 53.4 | 54.2 |
-| 10:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Sep) | 48.1 | 50.2 | 50.4 |
+| 08:15 | EUR | Low | HCOB France Composite PMI (Sep) | 48.4 | 49.9 | 49.8 |
+| 08:15 | EUR | Moderate | HCOB France Services PMI (Sep) | 48.9 | 49.7 | 49.8 |
+| 08:30 | EUR | Low | HCOB Germany Composite PMI (Sep) | 52.4 | 50.5 | 50.5 |
+| 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Sep) | 48.5 | 50.0 | 49.8 |
+| 08:30 | EUR | Moderate | HCOB Germany Services PMI (Sep) | 52.5 | 49.5 | 49.3 |
+| 09:00 | EUR | Low | Spanish Trade Balance (Jul) | -4.01B |  | -3.59B |
+| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Sep) | 49.5 | 50.7 | 50.7 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Sep) | 51.2 | 51.1 | 51.0 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Sep) | 51.4 | 50.6 | 50.5 |
+| 21 min | GBP | Moderate | S&P Global Composite PMI (Sep) |  | 52.7 | 53.5 |
+| 21 min | GBP | Moderate | S&P Global Manufacturing PMI (Sep) |  | 47.1 | 47.0 |
+| 21 min | GBP | Moderate | S&P Global Services PMI (Sep) |  | 53.4 | 54.2 |
+| 51 min | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 1.960% |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Sep) |  | -30 | -33 |
 | 12:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |

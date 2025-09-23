@@ -11,9 +11,9 @@
 | 06:00 | INR | Manufacturing & Services PMI (MoM) (Sep) | 61.90% |  | 63.20% |
 | 06:00 | SGD | CPI (MoM) (Aug) | 0.50% |  | -0.40% |
 | 08:00 | ZAR | Leading Indicators (Jul) | 113.70% |  | 112.68% |
-| 7 min | EUR | HCOB France Composite PMI (Sep) |  | 49.9 | 49.8 |
-| 22 min | EUR | HCOB Germany Composite PMI (Sep) |  | 50.5 | 50.5 |
-| 52 min | EUR | Spanish Trade Balance (Jul) |  |  | -3.59B |
+| 08:15 | EUR | HCOB France Composite PMI (Sep) | 48.4 | 49.9 | 49.8 |
+| 08:30 | EUR | HCOB Germany Composite PMI (Sep) | 52.4 | 50.5 | 50.5 |
+| 09:00 | EUR | Spanish Trade Balance (Jul) | -4.01B |  | -3.59B |
 | 10:30 | EUR | German 2-Year Schatz Auction |  |  | 1.960% |
 | 11:00 | GBP | CBI Industrial Trends Orders (Sep) |  | -30 | -33 |
 | 12:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
