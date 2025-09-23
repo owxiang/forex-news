@@ -14,15 +14,16 @@
 | 08:15 | EUR | HCOB France Composite PMI (Sep) | 48.4 | 49.9 | 49.8 |
 | 08:30 | EUR | HCOB Germany Composite PMI (Sep) | 52.4 | 50.5 | 50.5 |
 | 09:00 | EUR | Spanish Trade Balance (Jul) | -4.01B |  | -3.59B |
+| 10:00 | GBP | 30-Year Treasury Gilt Auction | 5.480% |  | 5.170% |
 | 10:30 | EUR | German 2-Year Schatz Auction | 2.010% |  | 1.960% |
 | 11:00 | GBP | CBI Industrial Trends Orders (Sep) | -27 | -30 | -33 |
 | 12:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
-| 54 min | MXN | Economic Activity (MoM) (Jul) |  | -0.70% | 0.20% |
-| 54 min | MXN | Economic Activity (YoY) (Jul) |  | -0.70% | 1.30% |
-| 54 min | MXN | Retail Sales (MoM) (Jul) |  | -0.1% | -0.4% |
-| 54 min | MXN | Retail Sales (YoY) (Jul) |  | 1.6% | 2.5% |
-| 13:30 | USD | Fed Goolsbee Speaks |  |  |  |
-| 13:55 | USD | Redbook (YoY) |  |  | 6.3% |
+| 13:00 | MXN | Economic Activity (MoM) (Jul) | -0.90% | -0.70% | 0.10% |
+| 13:00 | MXN | Economic Activity (YoY) (Jul) | -1.10% | -0.70% | 1.30% |
+| 13:00 | MXN | Retail Sales (YoY) (Jul) | 2.4% | 1.6% | 3.2% |
+| 13:00 | MXN | Retail Sales (MoM) (Jul) | 0.1% | -0.1% | -0.4% |
+| 18 min | USD | Fed Goolsbee Speaks |  |  |  |
+| 43 min | USD | Redbook (YoY) |  |  | 6.3% |
 | 15:00 | USD | Richmond Manufacturing Index (Sep) |  | -5 | -7 |
 | 15:00 | USD | Richmond Manufacturing Shipments (Sep) |  |  | -5 |
 | 15:00 | USD | Richmond Services Index (Sep) |  |  | 4 |
