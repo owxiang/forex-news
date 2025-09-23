@@ -40,14 +40,14 @@
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Aug) | -0.3% | 0.0% | -0.1% |
 | 13:55 | USD | Low | Redbook (YoY) | 5.7% |  | 6.3% |
 | 14:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 32 min | USD | High | S&P Global Manufacturing PMI (Sep) |  | 52.2 | 53.0 |
-| 32 min | USD | Moderate | S&P Global Composite PMI (Sep) |  | 54.6 | 54.6 |
-| 32 min | USD | High | S&P Global Services PMI (Sep) |  | 54.0 | 54.5 |
-| 37 min | USD | High | U.S. President Trump Speaks |  |  |  |
-| 47 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 47 min | USD | Low | Richmond Manufacturing Index (Sep) |  | -5 | -7 |
-| 47 min | USD | Low | Richmond Manufacturing Shipments (Sep) |  |  | -5 |
-| 47 min | USD | Low | Richmond Services Index (Sep) |  |  | 4 |
+| 14:45 | USD | High | S&P Global Manufacturing PMI (Sep) | 52.0 | 52.2 | 53.0 |
+| 14:45 | USD | Moderate | S&P Global Composite PMI (Sep) | 53.6 | 54.6 | 54.6 |
+| 14:45 | USD | High | S&P Global Services PMI (Sep) | 53.9 | 54.0 | 54.5 |
+| 14:50 | USD | High | U.S. President Trump Speaks |  |  |  |
+| 15:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 15:00 | USD | Low | Richmond Manufacturing Index (Sep) | -17 | -5 | -7 |
+| 15:00 | USD | Low | Richmond Manufacturing Shipments (Sep) | -20 |  | -5 |
+| 15:00 | USD | Low | Richmond Services Index (Sep) | 1 |  | 4 |
 | 17:35 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 18:00 | USD | Moderate | 2-Year Note Auction |  |  | 3.641% |
 | 18:00 | USD | Low | M2 Money Supply (MoM) (Aug) |  |  | 22.12T |
