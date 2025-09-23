@@ -20,7 +20,7 @@
 | 14:00 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 14:45 | USD | S&P Global Composite PMI (Sep) | 53.6 | 54.6 | 54.6 |
 | 15:00 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 51 min | USD | 2-Year Note Auction |  |  | 3.641% |
+| 18:00 | USD | 2-Year Note Auction |  |  | 3.641% |
 | 19:15 | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | -3.420M |
 | 23:00 | EUR | German Buba Mauderer Speaks |  |  |  |
