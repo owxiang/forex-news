@@ -53,6 +53,6 @@
 | 18:00 | USD | Low | M2 Money Supply (MoM) (Aug) | 22.20T |  | 22.12T |
 | 19:15 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 20:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 23 min | USD | Moderate | API Weekly Crude Oil Stock |  |  | -3.420M |
-| 53 min | KRW | Low | Consumer Confidence (Sep) |  |  | 111.4 |
-| 23:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | -3.821M |  | -3.420M |
+| 22:00 | KRW | Low | Consumer Confidence (Sep) | 110.1 |  | 111.4 |
+| 54 min | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
