@@ -20,13 +20,13 @@
 | 12:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
 | 13:00 | MXN | Economic Activity (MoM) (Jul) | -0.90% | -0.70% | 0.10% |
 | 13:00 | MXN | Economic Activity (YoY) (Jul) | -1.10% | -0.70% | 1.30% |
-| 13:00 | MXN | Retail Sales (YoY) (Jul) | 2.4% | 1.6% | 3.2% |
 | 13:00 | MXN | Retail Sales (MoM) (Jul) | 0.1% | -0.1% | -0.4% |
-| 18 min | USD | Fed Goolsbee Speaks |  |  |  |
-| 43 min | USD | Redbook (YoY) |  |  | 6.3% |
-| 15:00 | USD | Richmond Manufacturing Index (Sep) |  | -5 | -7 |
-| 15:00 | USD | Richmond Manufacturing Shipments (Sep) |  |  | -5 |
-| 15:00 | USD | Richmond Services Index (Sep) |  |  | 4 |
+| 13:00 | MXN | Retail Sales (YoY) (Jul) | 2.4% | 1.6% | 3.2% |
+| 13:30 | USD | Fed Goolsbee Speaks |  |  |  |
+| 13:55 | USD | Redbook (YoY) | 5.7% |  | 6.3% |
+| 47 min | USD | Richmond Manufacturing Index (Sep) |  | -5 | -7 |
+| 47 min | USD | Richmond Manufacturing Shipments (Sep) |  |  | -5 |
+| 47 min | USD | Richmond Services Index (Sep) |  |  | 4 |
 | 18:00 | USD | M2 Money Supply (MoM) (Aug) |  |  | 22.12T |
 | 20:30 | USD | Fed Goolsbee Speaks |  |  |  |
 | 22:00 | KRW | Consumer Confidence (Sep) |  |  | 111.4 |
