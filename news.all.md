@@ -31,8 +31,8 @@
 | 10:30 | EUR | Low | German 2-Year Schatz Auction | 2.010% |  | 1.960% |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Sep) | -27 | -30 | -33 |
 | 12:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
-| 13:00 | MXN | Low | Economic Activity (YoY) (Jul) | -1.10% | -0.70% | 1.30% |
 | 13:00 | MXN | Low | Economic Activity (MoM) (Jul) | -0.90% | -0.70% | 0.10% |
+| 13:00 | MXN | Low | Economic Activity (YoY) (Jul) | -1.10% | -0.70% | 1.30% |
 | 13:00 | MXN | Low | Retail Sales (MoM) (Jul) | 0.1% | -0.1% | -0.4% |
 | 13:00 | MXN | Low | Retail Sales (YoY) (Jul) | 2.4% | 1.6% | 3.2% |
 | 13:30 | USD | Moderate | Current Account (Q2) | -251.3B | -259.0B | -439.8B |
@@ -52,7 +52,7 @@
 | 18:00 | USD | Moderate | 2-Year Note Auction | 3.561% |  | 3.641% |
 | 18:00 | USD | Low | M2 Money Supply (MoM) (Aug) | 22.20T |  | 22.12T |
 | 19:15 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
-| 24 min | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -3.420M |
-| 22:00 | KRW | Low | Consumer Confidence (Sep) |  |  | 111.4 |
+| 20:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 23 min | USD | Moderate | API Weekly Crude Oil Stock |  |  | -3.420M |
+| 53 min | KRW | Low | Consumer Confidence (Sep) |  |  | 111.4 |
 | 23:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |

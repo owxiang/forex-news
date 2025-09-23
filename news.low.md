@@ -18,8 +18,8 @@
 | 10:30 | EUR | German 2-Year Schatz Auction | 2.010% |  | 1.960% |
 | 11:00 | GBP | CBI Industrial Trends Orders (Sep) | -27 | -30 | -33 |
 | 12:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
-| 13:00 | MXN | Economic Activity (YoY) (Jul) | -1.10% | -0.70% | 1.30% |
 | 13:00 | MXN | Economic Activity (MoM) (Jul) | -0.90% | -0.70% | 0.10% |
+| 13:00 | MXN | Economic Activity (YoY) (Jul) | -1.10% | -0.70% | 1.30% |
 | 13:00 | MXN | Retail Sales (MoM) (Jul) | 0.1% | -0.1% | -0.4% |
 | 13:00 | MXN | Retail Sales (YoY) (Jul) | 2.4% | 1.6% | 3.2% |
 | 13:30 | USD | Fed Goolsbee Speaks |  |  |  |
@@ -28,5 +28,5 @@
 | 15:00 | USD | Richmond Manufacturing Shipments (Sep) | -20 |  | -5 |
 | 15:00 | USD | Richmond Services Index (Sep) | 1 |  | 4 |
 | 18:00 | USD | M2 Money Supply (MoM) (Aug) | 22.20T |  | 22.12T |
-| 24 min | USD | Fed Goolsbee Speaks |  |  |  |
-| 22:00 | KRW | Consumer Confidence (Sep) |  |  | 111.4 |
+| 20:30 | USD | Fed Goolsbee Speaks |  |  |  |
+| 53 min | KRW | Consumer Confidence (Sep) |  |  | 111.4 |

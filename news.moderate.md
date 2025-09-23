@@ -22,5 +22,5 @@
 | 15:00 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 18:00 | USD | 2-Year Note Auction | 3.561% |  | 3.641% |
 | 19:15 | CAD | BoC Gov Macklem Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock |  |  | -3.420M |
+| 23 min | USD | API Weekly Crude Oil Stock |  |  | -3.420M |
 | 23:00 | EUR | German Buba Mauderer Speaks |  |  |  |
