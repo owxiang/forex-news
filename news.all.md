@@ -55,4 +55,4 @@
 | 20:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock | -3.821M |  | -3.420M |
 | 22:00 | KRW | Low | Consumer Confidence (Sep) | 110.1 |  | 111.4 |
-| 54 min | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 23:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
