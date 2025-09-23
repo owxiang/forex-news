@@ -5,15 +5,15 @@
 | 00:00 | AUD | Manufacturing & Services PMI (MoM) (Sep) | 52.10% |  | 55.50% |
 | 00:00 | AUD | Judo Bank Manufacturing PMI (Sep) | 51.6 |  | 53.0 |
 | 00:00 | AUD | Judo Bank Services PMI (Sep) | 52.0 |  | 55.8 |
-| 05:00 | IDR | M2 Money Supply (YoY) (Aug) | 7.60% |  | 6.60% |
+| 04:00 | IDR | M2 Money Supply (YoY) (Aug) | 7.60% |  | 6.60% |
 | 06:00 | INR | S&P Global Manufacturing PMI (Sep) | 58.5 |  | 59.3 |
 | 06:00 | INR | S&P Global Services PMI (Sep) | 61.6 |  | 62.9 |
 | 06:00 | INR | Manufacturing & Services PMI (MoM) (Sep) | 61.90% |  | 63.20% |
 | 06:00 | SGD | CPI (MoM) (Aug) | 0.50% |  | -0.40% |
-| 50 min | ZAR | Leading Indicators (Jul) |  |  | 111.70% |
-| 08:15 | EUR | HCOB France Composite PMI (Sep) |  | 49.9 | 49.8 |
-| 08:30 | EUR | HCOB Germany Composite PMI (Sep) |  | 50.5 | 50.5 |
-| 09:00 | EUR | Spanish Trade Balance (Jul) |  |  | -3.59B |
+| 08:00 | ZAR | Leading Indicators (Jul) | 113.70% |  | 112.68% |
+| 7 min | EUR | HCOB France Composite PMI (Sep) |  | 49.9 | 49.8 |
+| 22 min | EUR | HCOB Germany Composite PMI (Sep) |  | 50.5 | 50.5 |
+| 52 min | EUR | Spanish Trade Balance (Jul) |  |  | -3.59B |
 | 10:30 | EUR | German 2-Year Schatz Auction |  |  | 1.960% |
 | 11:00 | GBP | CBI Industrial Trends Orders (Sep) |  | -30 | -33 |
 | 12:00 | BRL | BCB Copom Meeting Minutes |  |  |  |

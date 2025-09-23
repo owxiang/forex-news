@@ -4,13 +4,13 @@
 |------|----------|-------|--------|----------|----------|
 | 06:00 | SGD | Core CPI (YoY) (Aug) | 0.30% | 0.40% | 0.50% |
 | 06:00 | SGD | CPI (YoY) (Aug) | 0.5% | 0.6% | 0.6% |
-| 08:15 | EUR | HCOB France Manufacturing PMI (Sep) |  | 50.2 | 50.4 |
-| 08:15 | EUR | HCOB France Services PMI (Sep) |  | 49.7 | 49.8 |
-| 08:30 | EUR | HCOB Germany Manufacturing PMI (Sep) |  | 50.0 | 49.8 |
-| 08:30 | EUR | HCOB Germany Services PMI (Sep) |  | 49.5 | 49.3 |
-| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Sep) |  | 50.7 | 50.7 |
-| 09:00 | EUR | HCOB Eurozone Composite PMI (Sep) |  | 51.1 | 51.0 |
-| 09:00 | EUR | HCOB Eurozone Services PMI (Sep) |  | 50.6 | 50.5 |
+| 7 min | EUR | HCOB France Manufacturing PMI (Sep) |  | 50.2 | 50.4 |
+| 7 min | EUR | HCOB France Services PMI (Sep) |  | 49.7 | 49.8 |
+| 22 min | EUR | HCOB Germany Manufacturing PMI (Sep) |  | 50.0 | 49.8 |
+| 22 min | EUR | HCOB Germany Services PMI (Sep) |  | 49.5 | 49.3 |
+| 52 min | EUR | HCOB Eurozone Manufacturing PMI (Sep) |  | 50.7 | 50.7 |
+| 52 min | EUR | HCOB Eurozone Composite PMI (Sep) |  | 51.1 | 51.0 |
+| 52 min | EUR | HCOB Eurozone Services PMI (Sep) |  | 50.6 | 50.5 |
 | 09:30 | GBP | S&P Global Composite PMI (Sep) |  | 52.7 | 53.5 |
 | 09:30 | GBP | S&P Global Manufacturing PMI (Sep) |  | 47.1 | 47.0 |
 | 09:30 | GBP | S&P Global Services PMI (Sep) |  | 53.4 | 54.2 |
