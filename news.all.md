@@ -5,7 +5,7 @@
 | 00:00 | AUD | Low | Manufacturing & Services PMI (MoM) (Sep) | 52.10% |  | 55.50% |
 | 00:00 | AUD | Low | Judo Bank Manufacturing PMI (Sep) | 51.6 |  | 53.0 |
 | 00:00 | AUD | Low | Judo Bank Services PMI (Sep) | 52.0 |  | 55.8 |
-| 05:00 | IDR | Low | M2 Money Supply (YoY) (Aug) |  |  | 6.50% |
+| 43 min | IDR | Low | M2 Money Supply (YoY) (Aug) | 7.60% |  | 6.50% |
 | 06:00 | INR | Low | S&P Global Manufacturing PMI (Sep) |  |  | 59.3 |
 | 06:00 | INR | Low | S&P Global Services PMI (Sep) |  |  | 62.9 |
 | 06:00 | INR | Low | Manufacturing & Services PMI (MoM) (Sep) |  |  | 63.20% |
@@ -32,8 +32,8 @@
 | 12:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
 | 13:00 | MXN | Low | Economic Activity (MoM) (Jul) |  | -0.70% | 0.20% |
 | 13:00 | MXN | Low | Economic Activity (YoY) (Jul) |  | -0.70% | 1.30% |
-| 13:00 | MXN | Low | Retail Sales (YoY) (Jul) |  | 1.6% | 2.5% |
 | 13:00 | MXN | Low | Retail Sales (MoM) (Jul) |  | -0.1% | -0.4% |
+| 13:00 | MXN | Low | Retail Sales (YoY) (Jul) |  | 1.6% | 2.5% |
 | 13:30 | USD | Moderate | Current Account (Q2) |  | -273.0B | -450.2B |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Aug) |  | 0.0% | -0.1% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 6.3% |
