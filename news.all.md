@@ -5,13 +5,13 @@
 | 00:00 | AUD | Low | Manufacturing & Services PMI (MoM) (Sep) | 52.10% |  | 55.50% |
 | 00:00 | AUD | Low | Judo Bank Manufacturing PMI (Sep) | 51.6 |  | 53.0 |
 | 00:00 | AUD | Low | Judo Bank Services PMI (Sep) | 52.0 |  | 55.8 |
-| 04:00 | IDR | Low | M2 Money Supply (YoY) (Aug) | 7.60% |  | 6.50% |
-| 52 min | INR | Low | S&P Global Manufacturing PMI (Sep) |  |  | 59.3 |
-| 52 min | INR | Low | S&P Global Services PMI (Sep) |  |  | 62.9 |
-| 52 min | INR | Low | Manufacturing & Services PMI (MoM) (Sep) |  |  | 63.20% |
-| 52 min | SGD | Moderate | Core CPI (YoY) (Aug) |  | 0.40% | 0.50% |
-| 52 min | SGD | Low | CPI (MoM) (Aug) |  |  | -0.50% |
-| 52 min | SGD | Moderate | CPI (YoY) (Aug) |  | 0.6% | 0.6% |
+| 04:00 | IDR | Low | M2 Money Supply (YoY) (Aug) | 7.60% |  | 6.60% |
+| 06:00 | INR | Low | S&P Global Manufacturing PMI (Sep) | 58.5 |  | 59.3 |
+| 06:00 | INR | Low | S&P Global Services PMI (Sep) | 61.6 |  | 62.9 |
+| 06:00 | INR | Low | Manufacturing & Services PMI (MoM) (Sep) | 61.90% |  | 63.20% |
+| 06:00 | SGD | Moderate | Core CPI (YoY) (Aug) | 0.30% | 0.40% | 0.50% |
+| 06:00 | SGD | Low | CPI (MoM) (Aug) | 0.50% |  | -0.40% |
+| 06:00 | SGD | Moderate | CPI (YoY) (Aug) | 0.5% | 0.6% | 0.6% |
 | 08:00 | ZAR | Low | Leading Indicators (Jul) |  |  | 111.70% |
 | 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Sep) |  | 50.2 | 50.4 |
 | 08:15 | EUR | Low | HCOB France Composite PMI (Sep) |  | 49.9 | 49.8 |
@@ -35,12 +35,14 @@
 | 13:00 | MXN | Low | Retail Sales (MoM) (Jul) |  | -0.1% | -0.4% |
 | 13:00 | MXN | Low | Retail Sales (YoY) (Jul) |  | 1.6% | 2.5% |
 | 13:30 | USD | Moderate | Current Account (Q2) |  | -259.0B | -450.2B |
+| 13:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Aug) |  | 0.0% | -0.1% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 6.3% |
 | 14:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 14:45 | USD | High | S&P Global Manufacturing PMI (Sep) |  | 51.8 | 53.0 |
+| 14:45 | USD | High | S&P Global Manufacturing PMI (Sep) |  | 52.2 | 53.0 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Sep) |  | 54.6 | 54.6 |
-| 14:45 | USD | High | S&P Global Services PMI (Sep) |  | 53.8 | 54.5 |
+| 14:45 | USD | High | S&P Global Services PMI (Sep) |  | 54.0 | 54.5 |
+| 14:50 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 15:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 15:00 | USD | Low | Richmond Manufacturing Index (Sep) |  | -5 | -7 |
 | 15:00 | USD | Low | Richmond Manufacturing Shipments (Sep) |  |  | -5 |
@@ -49,6 +51,7 @@
 | 18:00 | USD | Moderate | 2-Year Note Auction |  |  | 3.641% |
 | 18:00 | USD | Low | M2 Money Supply (MoM) (Aug) |  |  | 22.12T |
 | 19:15 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
+| 20:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -3.420M |
 | 22:00 | KRW | Low | Consumer Confidence (Sep) |  |  | 111.4 |
 | 23:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
