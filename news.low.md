@@ -15,16 +15,15 @@
 | 12:00 | USD | Mortgage Market Index | 388.3 |  | 386.1 |
 | 12:00 | USD | Mortgage Refinance Index | 1,609.8 |  | 1,596.7 |
 | 12:00 | BRL | FGV Consumer confidence (Sep) | 87.5 |  | 86.2 |
+| 12:50 | USD | Building Permits (MoM) (Aug) | -2.3% | -3.7% | -2.2% |
 | 13:00 | MXN | 1st Half-Month Core CPI (Sep) | 0.22% | 0.20% | 0.09% |
 | 13:00 | MXN | 1st Half-Month CPI (Sep) | 0.18% | 0.19% | -0.02% |
-| 18 min | USD | Building Permits (MoM) (Aug) |  | -3.7% | -2.2% |
-| 18 min | CAD | Manufacturing Sales (MoM) (Aug) |  |  | 2.5% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.394M |
 | 15:30 | USD | Crude Oil Imports |  |  | -3.111M |
 | 15:30 | USD | Distillate Fuel Production |  |  | -0.274M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | 4.046M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  | -1.500M | 4.046M |
 | 15:30 | USD | Gasoline Production |  |  | -0.180M |
 | 15:30 | USD | Heating Oil Stockpiles |  |  | 0.670M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.6% |
-| 15:30 | USD | Gasoline Inventories |  |  | -2.347M |
+| 15:30 | USD | Gasoline Inventories |  | 0.400M | -2.347M |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | -0.163B |
