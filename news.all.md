@@ -11,10 +11,10 @@
 | 08:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 08:00 | EUR | Low | Spanish PPI (YoY) (Aug) | -1.5% |  | 0.4% |
 | 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
-| 53 min | CHF | Low | ZEW Expectations (Sep) |  |  | -53.8 |
-| 53 min | EUR | Moderate | German Business Expectations (Sep) |  | 92.0 | 91.6 |
-| 53 min | EUR | Moderate | German Current Assessment (Sep) |  | 86.5 | 86.4 |
-| 53 min | EUR | Moderate | German Ifo Business Climate Index (Sep) |  | 89.3 | 89.0 |
+| 09:00 | CHF | Low | ZEW Expectations (Sep) | -46.4 |  | -53.8 |
+| 09:00 | EUR | Moderate | German Business Expectations (Sep) | 89.7 | 92.0 | 91.4 |
+| 09:00 | EUR | Moderate | German Current Assessment (Sep) | 85.7 | 86.5 | 86.4 |
+| 09:00 | EUR | Moderate | German Ifo Business Climate Index (Sep) | 87.7 | 89.3 | 88.9 |
 | 10:30 | EUR | Low | Italian 2-Year CTZ Auction |  |  | 2.200% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.39% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 29.7% |
