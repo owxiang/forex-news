@@ -23,8 +23,8 @@
 | 12:00 | USD | Low | Mortgage Market Index | 388.3 |  | 386.1 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 1,609.8 |  | 1,596.7 |
 | 12:00 | BRL | Low | FGV Consumer confidence (Sep) | 87.5 |  | 86.2 |
-| 12:50 | USD | Moderate | Building Permits (Aug) | 1.330M | 1.312M | 1.362M |
 | 12:50 | USD | Low | Building Permits (MoM) (Aug) | -2.3% | -3.7% | -2.2% |
+| 12:50 | USD | Moderate | Building Permits (Aug) | 1.330M | 1.312M | 1.362M |
 | 13:00 | MXN | Low | 1st Half-Month Core CPI (Sep) | 0.22% | 0.20% | 0.09% |
 | 13:00 | MXN | Low | 1st Half-Month CPI (Sep) | 0.18% | 0.19% | -0.02% |
 | 15:00 | USD | Moderate | New Home Sales (MoM) (Aug) | 20.5% |  | -1.8% |
@@ -39,6 +39,6 @@
 | 15:30 | USD | Low | Heating Oil Stockpiles | -0.189M |  | 0.670M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -0.3% |  | -1.6% |
 | 15:30 | USD | Low | Gasoline Inventories | -1.081M | 0.400M | -2.347M |
-| 18:00 | USD | Moderate | 5-Year Note Auction |  |  | 3.724% |
+| 52 min | USD | Moderate | 5-Year Note Auction |  |  | 3.724% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.163B |
 | 21:10 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
