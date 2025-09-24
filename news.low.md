@@ -18,12 +18,12 @@
 | 12:50 | USD | Building Permits (MoM) (Aug) | -2.3% | -3.7% | -2.2% |
 | 13:00 | MXN | 1st Half-Month Core CPI (Sep) | 0.22% | 0.20% | 0.09% |
 | 13:00 | MXN | 1st Half-Month CPI (Sep) | 0.18% | 0.19% | -0.02% |
-| 23 min | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.394M |
-| 23 min | USD | Crude Oil Imports |  |  | -3.111M |
-| 23 min | USD | Distillate Fuel Production |  |  | -0.274M |
-| 23 min | USD | EIA Weekly Distillates Stocks |  | -1.500M | 4.046M |
-| 23 min | USD | Gasoline Production |  |  | -0.180M |
-| 23 min | USD | Heating Oil Stockpiles |  |  | 0.670M |
-| 23 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.6% |
-| 23 min | USD | Gasoline Inventories |  | 0.400M | -2.347M |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) | 0.052M |  | -0.394M |
+| 15:30 | USD | Crude Oil Imports | 1.596M |  | -3.111M |
+| 15:30 | USD | Distillate Fuel Production | 0.029M |  | -0.274M |
+| 15:30 | USD | EIA Weekly Distillates Stocks | -1.685M | -1.500M | 4.046M |
+| 15:30 | USD | Gasoline Production | 0.300M |  | -0.180M |
+| 15:30 | USD | Heating Oil Stockpiles | -0.189M |  | 0.670M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.3% |  | -1.6% |
+| 15:30 | USD | Gasoline Inventories | -1.081M | 0.400M | -2.347M |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | -0.163B |

@@ -29,16 +29,16 @@
 | 13:00 | MXN | Low | 1st Half-Month CPI (Sep) | 0.18% | 0.19% | -0.02% |
 | 15:00 | USD | Moderate | New Home Sales (MoM) (Aug) | 20.5% |  | -1.8% |
 | 15:00 | USD | High | New Home Sales (Aug) | 800K | 650K | 664K |
-| 23 min | USD | High | Crude Oil Inventories |  | 0.800M | -9.285M |
-| 23 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.394M |
-| 23 min | USD | Low | Crude Oil Imports |  |  | -3.111M |
-| 23 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.296M |
-| 23 min | USD | Low | Distillate Fuel Production |  |  | -0.274M |
-| 23 min | USD | Low | EIA Weekly Distillates Stocks |  | -1.500M | 4.046M |
-| 23 min | USD | Low | Gasoline Production |  |  | -0.180M |
-| 23 min | USD | Low | Heating Oil Stockpiles |  |  | 0.670M |
-| 23 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.6% |
-| 23 min | USD | Low | Gasoline Inventories |  | 0.400M | -2.347M |
+| 15:30 | USD | High | Crude Oil Inventories | -0.607M | 0.800M | -9.285M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.052M |  | -0.394M |
+| 15:30 | USD | Low | Crude Oil Imports | 1.596M |  | -3.111M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | 0.177M |  | -0.296M |
+| 15:30 | USD | Low | Distillate Fuel Production | 0.029M |  | -0.274M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks | -1.685M | -1.500M | 4.046M |
+| 15:30 | USD | Low | Gasoline Production | 0.300M |  | -0.180M |
+| 15:30 | USD | Low | Heating Oil Stockpiles | -0.189M |  | 0.670M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -0.3% |  | -1.6% |
+| 15:30 | USD | Low | Gasoline Inventories | -1.081M | 0.400M | -2.347M |
 | 18:00 | USD | Moderate | 5-Year Note Auction |  |  | 3.724% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.163B |
 | 21:10 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
