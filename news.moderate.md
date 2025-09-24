@@ -12,5 +12,5 @@
 | 12:50 | USD | Building Permits (Aug) | 1.330M | 1.312M | 1.362M |
 | 15:00 | USD | New Home Sales (MoM) (Aug) | 20.5% |  | -1.8% |
 | 15:30 | USD | Cushing Crude Oil Inventories | 0.177M |  | -0.296M |
-| 52 min | USD | 5-Year Note Auction |  |  | 3.724% |
+| 18:00 | USD | 5-Year Note Auction |  |  | 3.724% |
 | 21:10 | USD | FOMC Member Daly Speaks |  |  |  |
