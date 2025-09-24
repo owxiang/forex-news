@@ -13,4 +13,4 @@
 | 15:00 | USD | New Home Sales (MoM) (Aug) | 20.5% |  | -1.8% |
 | 15:30 | USD | Cushing Crude Oil Inventories | 0.177M |  | -0.296M |
 | 18:00 | USD | 5-Year Note Auction | 3.710% |  | 3.724% |
-| 21:10 | USD | FOMC Member Daly Speaks |  |  |  |
+| 2 min | USD | FOMC Member Daly Speaks |  |  |  |
