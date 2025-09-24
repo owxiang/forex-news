@@ -23,22 +23,22 @@
 | 12:00 | USD | Low | Mortgage Market Index | 388.3 |  | 386.1 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 1,609.8 |  | 1,596.7 |
 | 12:00 | BRL | Low | FGV Consumer confidence (Sep) | 87.5 |  | 86.2 |
-| 12:50 | USD | Low | Building Permits (MoM) (Aug) | -2.3% | -3.7% | -2.2% |
 | 12:50 | USD | Moderate | Building Permits (Aug) | 1.330M | 1.312M | 1.362M |
+| 12:50 | USD | Low | Building Permits (MoM) (Aug) | -2.3% | -3.7% | -2.2% |
 | 13:00 | MXN | Low | 1st Half-Month Core CPI (Sep) | 0.22% | 0.20% | 0.09% |
 | 13:00 | MXN | Low | 1st Half-Month CPI (Sep) | 0.18% | 0.19% | -0.02% |
-| 46 min | USD | Moderate | New Home Sales (MoM) (Aug) |  |  | -0.6% |
-| 46 min | USD | High | New Home Sales (Aug) |  | 650K | 652K |
-| 15:30 | USD | High | Crude Oil Inventories |  | 0.800M | -9.285M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.394M |
-| 15:30 | USD | Low | Crude Oil Imports |  |  | -3.111M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.296M |
-| 15:30 | USD | Low | Distillate Fuel Production |  |  | -0.274M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | -1.500M | 4.046M |
-| 15:30 | USD | Low | Gasoline Production |  |  | -0.180M |
-| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.670M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.6% |
-| 15:30 | USD | Low | Gasoline Inventories |  | 0.400M | -2.347M |
+| 15:00 | USD | Moderate | New Home Sales (MoM) (Aug) | 20.5% |  | -1.8% |
+| 15:00 | USD | High | New Home Sales (Aug) | 800K | 650K | 664K |
+| 23 min | USD | High | Crude Oil Inventories |  | 0.800M | -9.285M |
+| 23 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.394M |
+| 23 min | USD | Low | Crude Oil Imports |  |  | -3.111M |
+| 23 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.296M |
+| 23 min | USD | Low | Distillate Fuel Production |  |  | -0.274M |
+| 23 min | USD | Low | EIA Weekly Distillates Stocks |  | -1.500M | 4.046M |
+| 23 min | USD | Low | Gasoline Production |  |  | -0.180M |
+| 23 min | USD | Low | Heating Oil Stockpiles |  |  | 0.670M |
+| 23 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.6% |
+| 23 min | USD | Low | Gasoline Inventories |  | 0.400M | -2.347M |
 | 18:00 | USD | Moderate | 5-Year Note Auction |  |  | 3.724% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.163B |
 | 21:10 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |

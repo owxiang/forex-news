@@ -10,7 +10,7 @@
 | 09:00 | EUR | German Current Assessment (Sep) | 85.7 | 86.5 | 86.4 |
 | 09:00 | EUR | German Ifo Business Climate Index (Sep) | 87.7 | 89.3 | 88.9 |
 | 12:50 | USD | Building Permits (Aug) | 1.330M | 1.312M | 1.362M |
-| 46 min | USD | New Home Sales (MoM) (Aug) |  |  | -0.6% |
-| 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.296M |
+| 15:00 | USD | New Home Sales (MoM) (Aug) | 20.5% |  | -1.8% |
+| 23 min | USD | Cushing Crude Oil Inventories |  |  | -0.296M |
 | 18:00 | USD | 5-Year Note Auction |  |  | 3.724% |
 | 21:10 | USD | FOMC Member Daly Speaks |  |  |  |
