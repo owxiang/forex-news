@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 01:30 | JPY | au Jibun Bank Services PMI (Sep) | 53.0 |  | 53.1 |
 | 06:00 | JPY | BoJ Core CPI (YoY) | 2.0% | 1.9% | 2.0% |
-| 08:00 | EUR | German Buba Balz Speaks |  |  |  |
-| 08:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
+| 49 min | EUR | German Buba Balz Speaks |  |  |  |
+| 49 min | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 09:00 | EUR | German Business Expectations (Sep) |  | 92.0 | 91.6 |
 | 09:00 | EUR | German Current Assessment (Sep) |  | 86.5 | 86.4 |
 | 09:00 | EUR | German Ifo Business Climate Index (Sep) |  | 89.3 | 89.0 |

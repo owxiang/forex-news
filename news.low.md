@@ -5,7 +5,7 @@
 | 01:30 | JPY | Manufacturing & Services PMI (MoM) (Sep) | 51.10% |  | 52.00% |
 | 01:30 | JPY | au Jibun Bank Manufacturing PMI (Sep) | 48.4 | 49.5 | 49.7 |
 | 02:30 | AUD | Monthly CPI Indicator (YoY) (Aug) | 3.00% | 2.90% | 2.80% |
-| 08:00 | EUR | Spanish PPI (YoY) (Aug) |  |  | 0.3% |
+| 49 min | EUR | Spanish PPI (YoY) (Aug) |  |  | 0.3% |
 | 09:00 | CHF | ZEW Expectations (Sep) |  |  | -53.8 |
 | 10:30 | EUR | Italian 2-Year CTZ Auction |  |  | 2.200% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.39% |
