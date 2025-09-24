@@ -1,16 +1,23 @@
-## 24 September 2025 - Moderate Impact Forex News
+## 25 September 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | JPY | au Jibun Bank Services PMI (Sep) | 53.0 |  | 53.1 |
-| 06:00 | JPY | BoJ Core CPI (YoY) | 2.0% | 1.9% | 2.0% |
-| 08:00 | EUR | German Buba Balz Speaks |  |  |  |
-| 08:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
-| 09:00 | EUR | German Business Expectations (Sep) | 89.7 | 92.0 | 91.4 |
-| 09:00 | EUR | German Current Assessment (Sep) | 85.7 | 86.5 | 86.4 |
-| 09:00 | EUR | German Ifo Business Climate Index (Sep) | 87.7 | 89.3 | 88.9 |
-| 12:50 | USD | Building Permits (Aug) | 1.330M | 1.312M | 1.362M |
-| 15:00 | USD | New Home Sales (MoM) (Aug) | 20.5% |  | -1.8% |
-| 15:30 | USD | Cushing Crude Oil Inventories | 0.177M |  | -0.296M |
-| 18:00 | USD | 5-Year Note Auction | 3.710% |  | 3.724% |
-| 21:10 | USD | FOMC Member Daly Speaks |  |  |  |
+| 44 min | JPY | Monetary Policy Meeting Minutes |  |  |  |
+| 07:00 | EUR | GfK German Consumer Climate (Oct) |  | -23.3 | -23.6 |
+| 08:30 | CHF | SNB Monetary Policy Assessment |  |  |  |
+| 09:00 | CHF | SNB Press Conference |  |  |  |
+| 09:00 | EUR | ECB Economic Bulletin |  |  |  |
+| 13:30 | USD | Continuing Jobless Claims |  | 1,930K | 1,920K |
+| 13:30 | USD | Core Durable Goods Orders (MoM) (Aug) |  | -0.1% | 1.1% |
+| 13:30 | USD | Core PCE Prices (Q2) |  | 2.50% | 3.50% |
+| 13:30 | USD | GDP Price Index (QoQ) (Q2) |  | 2.0% | 3.8% |
+| 13:30 | USD | Goods Trade Balance (Aug) |  | -95.70B | -103.60B |
+| 13:30 | USD | Retail Inventories Ex Auto (Aug) |  |  | 0.1% |
+| 14:00 | USD | FOMC Member Williams Speaks |  |  |  |
+| 15:00 | USD | Existing Home Sales (MoM) (Aug) |  |  | 2.0% |
+| 15:00 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 18:00 | USD | 7-Year Note Auction |  |  | 3.925% |
+| 18:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 20:00 | MXN | Interest Rate Decision (Sep) |  | 7.50% | 7.75% |
+| 20:30 | USD | FOMC Member Daly Speaks |  |  |  |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 6,609B |
