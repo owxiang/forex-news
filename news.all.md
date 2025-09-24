@@ -3,10 +3,10 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:20 | USD | High | U.S. President Trump Speaks |  |  |  |
-| 1 min | JPY | Low | Manufacturing & Services PMI (MoM) (Sep) |  |  | 52.00% |
-| 1 min | JPY | Low | au Jibun Bank Manufacturing PMI (Sep) |  | 49.5 | 49.7 |
-| 1 min | JPY | Moderate | au Jibun Bank Services PMI (Sep) |  |  | 53.1 |
-| 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (Aug) |  | 2.90% | 2.80% |
+| 01:30 | JPY | Low | Manufacturing & Services PMI (MoM) (Sep) | 51.10% |  | 52.00% |
+| 01:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Sep) | 48.4 | 49.5 | 49.7 |
+| 01:30 | JPY | Moderate | au Jibun Bank Services PMI (Sep) | 53.0 |  | 53.1 |
+| 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (Aug) | 3.00% | 2.90% | 2.80% |
 | 06:00 | JPY | Moderate | BoJ Core CPI (YoY) |  | 1.9% | 2.0% |
 | 08:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 08:00 | EUR | Low | Spanish PPI (YoY) (Aug) |  |  | 0.3% |
@@ -26,8 +26,8 @@
 | 13:30 | USD | Low | Building Permits (MoM) (Aug) |  | -3.7% | -2.2% |
 | 13:30 | USD | Moderate | Building Permits (Aug) |  | 1.312M | 1.362M |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Aug) |  |  | 2.5% |
-| 15:00 | USD | Moderate | New Home Sales (MoM) (Aug) |  |  | -0.6% |
 | 15:00 | USD | High | New Home Sales (Aug) |  | 650K | 652K |
+| 15:00 | USD | Moderate | New Home Sales (MoM) (Aug) |  |  | -0.6% |
 | 15:30 | USD | High | Crude Oil Inventories |  |  | -9.285M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.394M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | -3.111M |
