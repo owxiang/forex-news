@@ -8,13 +8,13 @@
 | 01:30 | JPY | Moderate | au Jibun Bank Services PMI (Sep) | 53.0 |  | 53.1 |
 | 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (Aug) | 3.00% | 2.90% | 2.80% |
 | 06:00 | JPY | Moderate | BoJ Core CPI (YoY) | 2.0% | 1.9% | 2.0% |
-| 49 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 49 min | EUR | Low | Spanish PPI (YoY) (Aug) |  |  | 0.3% |
-| 49 min | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
-| 09:00 | CHF | Low | ZEW Expectations (Sep) |  |  | -53.8 |
-| 09:00 | EUR | Moderate | German Business Expectations (Sep) |  | 92.0 | 91.6 |
-| 09:00 | EUR | Moderate | German Current Assessment (Sep) |  | 86.5 | 86.4 |
-| 09:00 | EUR | Moderate | German Ifo Business Climate Index (Sep) |  | 89.3 | 89.0 |
+| 08:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 08:00 | EUR | Low | Spanish PPI (YoY) (Aug) | -1.5% |  | 0.4% |
+| 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
+| 53 min | CHF | Low | ZEW Expectations (Sep) |  |  | -53.8 |
+| 53 min | EUR | Moderate | German Business Expectations (Sep) |  | 92.0 | 91.6 |
+| 53 min | EUR | Moderate | German Current Assessment (Sep) |  | 86.5 | 86.4 |
+| 53 min | EUR | Moderate | German Ifo Business Climate Index (Sep) |  | 89.3 | 89.0 |
 | 10:30 | EUR | Low | Italian 2-Year CTZ Auction |  |  | 2.200% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.39% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 29.7% |
