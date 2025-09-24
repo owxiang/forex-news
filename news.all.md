@@ -23,11 +23,11 @@
 | 12:00 | USD | Low | Mortgage Market Index | 388.3 |  | 386.1 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 1,609.8 |  | 1,596.7 |
 | 12:00 | BRL | Low | FGV Consumer confidence (Sep) | 87.5 |  | 86.2 |
-| 54 min | MXN | Low | 1st Half-Month Core CPI (Sep) |  | 0.20% | 0.09% |
-| 54 min | MXN | Low | 1st Half-Month CPI (Sep) |  | 0.19% | -0.02% |
-| 13:30 | USD | Low | Building Permits (MoM) (Aug) |  | -3.7% | -2.2% |
-| 13:30 | USD | Moderate | Building Permits (Aug) |  | 1.312M | 1.362M |
-| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Aug) |  |  | 2.5% |
+| 13:00 | MXN | Low | 1st Half-Month Core CPI (Sep) | 0.22% | 0.20% | 0.09% |
+| 13:00 | MXN | Low | 1st Half-Month CPI (Sep) | 0.18% | 0.19% | -0.02% |
+| 18 min | USD | Low | Building Permits (MoM) (Aug) |  | -3.7% | -2.2% |
+| 18 min | USD | Moderate | Building Permits (Aug) |  | 1.312M | 1.362M |
+| 18 min | CAD | Low | Manufacturing Sales (MoM) (Aug) |  |  | 2.5% |
 | 15:00 | USD | Moderate | New Home Sales (MoM) (Aug) |  |  | -0.6% |
 | 15:00 | USD | High | New Home Sales (Aug) |  | 650K | 652K |
 | 15:30 | USD | High | Crude Oil Inventories |  |  | -9.285M |
