@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | JPY | Manufacturing & Services PMI (MoM) (Sep) |  |  | 52.00% |
-| 01:30 | JPY | au Jibun Bank Manufacturing PMI (Sep) |  | 49.5 | 49.7 |
+| 1 min | JPY | Manufacturing & Services PMI (MoM) (Sep) |  |  | 52.00% |
+| 1 min | JPY | au Jibun Bank Manufacturing PMI (Sep) |  | 49.5 | 49.7 |
 | 02:30 | AUD | Monthly CPI Indicator (YoY) (Aug) |  | 2.90% | 2.80% |
 | 08:00 | EUR | Spanish PPI (YoY) (Aug) |  |  | 0.3% |
 | 09:00 | CHF | ZEW Expectations (Sep) |  |  | -53.8 |

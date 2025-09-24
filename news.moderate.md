@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | JPY | au Jibun Bank Services PMI (Sep) |  |  | 53.1 |
+| 1 min | JPY | au Jibun Bank Services PMI (Sep) |  |  | 53.1 |
 | 06:00 | JPY | BoJ Core CPI (YoY) |  | 1.9% | 2.0% |
 | 08:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 08:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
