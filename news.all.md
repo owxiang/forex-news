@@ -27,8 +27,8 @@
 | 12:50 | USD | Moderate | Building Permits (Aug) | 1.330M | 1.312M | 1.362M |
 | 13:00 | MXN | Low | 1st Half-Month Core CPI (Sep) | 0.22% | 0.20% | 0.09% |
 | 13:00 | MXN | Low | 1st Half-Month CPI (Sep) | 0.18% | 0.19% | -0.02% |
-| 15:00 | USD | High | New Home Sales (Aug) | 800K | 650K | 664K |
 | 15:00 | USD | Moderate | New Home Sales (MoM) (Aug) | 20.5% |  | -1.8% |
+| 15:00 | USD | High | New Home Sales (Aug) | 800K | 650K | 664K |
 | 15:30 | USD | High | Crude Oil Inventories | -0.607M | 0.800M | -9.285M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.052M |  | -0.394M |
 | 15:30 | USD | Low | Crude Oil Imports | 1.596M |  | -3.111M |
@@ -41,4 +41,4 @@
 | 15:30 | USD | Low | Gasoline Inventories | -1.081M | 0.400M | -2.347M |
 | 18:00 | USD | Moderate | 5-Year Note Auction | 3.710% |  | 3.724% |
 | 18:30 | BRL | Low | Foreign Exchange Flows | -0.660B |  | -0.163B |
-| 2 min | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
+| 21:10 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
