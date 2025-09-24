@@ -15,13 +15,14 @@
 | 09:00 | EUR | Moderate | German Business Expectations (Sep) | 89.7 | 92.0 | 91.4 |
 | 09:00 | EUR | Moderate | German Current Assessment (Sep) | 85.7 | 86.5 | 86.4 |
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (Sep) | 87.7 | 89.3 | 88.9 |
-| 22 min | EUR | Low | Italian 2-Year CTZ Auction |  |  | 2.200% |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.39% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 29.7% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 174.0 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 386.1 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 1,596.7 |
-| 12:00 | BRL | Low | FGV Consumer confidence (Sep) |  |  | 86.2 |
+| 10:00 | GBP | Low | 5-Year Treasury Gilt Auction | 4.095% |  | 4.022% |
+| 10:30 | EUR | Low | Italian 2-Year CTZ Auction | 2.230% |  | 2.200% |
+| 52 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.39% |
+| 52 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | 29.7% |
+| 52 min | USD | Low | MBA Purchase Index |  |  | 174.0 |
+| 52 min | USD | Low | Mortgage Market Index |  |  | 386.1 |
+| 52 min | USD | Low | Mortgage Refinance Index |  |  | 1,596.7 |
+| 52 min | BRL | Low | FGV Consumer confidence (Sep) |  |  | 86.2 |
 | 13:00 | MXN | Low | 1st Half-Month Core CPI (Sep) |  | 0.20% | 0.09% |
 | 13:00 | MXN | Low | 1st Half-Month CPI (Sep) |  | 0.19% | -0.02% |
 | 13:30 | USD | Low | Building Permits (MoM) (Aug) |  | -3.7% | -2.2% |
