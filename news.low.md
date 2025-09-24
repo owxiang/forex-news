@@ -7,13 +7,14 @@
 | 02:30 | AUD | Monthly CPI Indicator (YoY) (Aug) | 3.00% | 2.90% | 2.80% |
 | 08:00 | EUR | Spanish PPI (YoY) (Aug) |  |  | 0.3% |
 | 09:00 | CHF | ZEW Expectations (Sep) |  |  | -53.8 |
+| 10:30 | EUR | Italian 2-Year CTZ Auction |  |  | 2.200% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.39% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 29.7% |
 | 12:00 | USD | MBA Purchase Index |  |  | 174.0 |
 | 12:00 | USD | Mortgage Market Index |  |  | 386.1 |
 | 12:00 | USD | Mortgage Refinance Index |  |  | 1,596.7 |
 | 12:00 | BRL | FGV Consumer confidence (Sep) |  |  | 86.2 |
-| 13:00 | MXN | 1st Half-Month Core CPI (Sep) |  | 0.21% | 0.09% |
+| 13:00 | MXN | 1st Half-Month Core CPI (Sep) |  | 0.20% | 0.09% |
 | 13:00 | MXN | 1st Half-Month CPI (Sep) |  | 0.19% | -0.02% |
 | 13:30 | USD | Building Permits (MoM) (Aug) |  | -3.7% | -2.2% |
 | 13:30 | CAD | Manufacturing Sales (MoM) (Aug) |  |  | 2.5% |

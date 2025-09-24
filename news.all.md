@@ -7,7 +7,7 @@
 | 01:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Sep) | 48.4 | 49.5 | 49.7 |
 | 01:30 | JPY | Moderate | au Jibun Bank Services PMI (Sep) | 53.0 |  | 53.1 |
 | 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (Aug) | 3.00% | 2.90% | 2.80% |
-| 53 min | JPY | Moderate | BoJ Core CPI (YoY) |  | 1.9% | 2.0% |
+| 06:00 | JPY | Moderate | BoJ Core CPI (YoY) | 2.0% | 1.9% | 2.0% |
 | 08:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 08:00 | EUR | Low | Spanish PPI (YoY) (Aug) |  |  | 0.3% |
 | 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
@@ -15,13 +15,14 @@
 | 09:00 | EUR | Moderate | German Business Expectations (Sep) |  | 92.0 | 91.6 |
 | 09:00 | EUR | Moderate | German Current Assessment (Sep) |  | 86.5 | 86.4 |
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (Sep) |  | 89.3 | 89.0 |
+| 10:30 | EUR | Low | Italian 2-Year CTZ Auction |  |  | 2.200% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.39% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 29.7% |
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 174.0 |
 | 12:00 | USD | Low | Mortgage Market Index |  |  | 386.1 |
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 1,596.7 |
 | 12:00 | BRL | Low | FGV Consumer confidence (Sep) |  |  | 86.2 |
-| 13:00 | MXN | Low | 1st Half-Month Core CPI (Sep) |  | 0.21% | 0.09% |
+| 13:00 | MXN | Low | 1st Half-Month Core CPI (Sep) |  | 0.20% | 0.09% |
 | 13:00 | MXN | Low | 1st Half-Month CPI (Sep) |  | 0.19% | -0.02% |
 | 13:30 | USD | Low | Building Permits (MoM) (Aug) |  | -3.7% | -2.2% |
 | 13:30 | USD | Moderate | Building Permits (Aug) |  | 1.312M | 1.362M |
