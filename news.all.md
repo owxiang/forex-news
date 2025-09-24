@@ -15,7 +15,7 @@
 | 09:00 | EUR | Moderate | German Business Expectations (Sep) | 89.7 | 92.0 | 91.4 |
 | 09:00 | EUR | Moderate | German Current Assessment (Sep) | 85.7 | 86.5 | 86.4 |
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (Sep) | 87.7 | 89.3 | 88.9 |
-| 10:30 | EUR | Low | Italian 2-Year CTZ Auction |  |  | 2.200% |
+| 22 min | EUR | Low | Italian 2-Year CTZ Auction |  |  | 2.200% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.39% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 29.7% |
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 174.0 |
@@ -27,8 +27,8 @@
 | 13:30 | USD | Low | Building Permits (MoM) (Aug) |  | -3.7% | -2.2% |
 | 13:30 | USD | Moderate | Building Permits (Aug) |  | 1.312M | 1.362M |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Aug) |  |  | 2.5% |
-| 15:00 | USD | Moderate | New Home Sales (MoM) (Aug) |  |  | -0.6% |
 | 15:00 | USD | High | New Home Sales (Aug) |  | 650K | 652K |
+| 15:00 | USD | Moderate | New Home Sales (MoM) (Aug) |  |  | -0.6% |
 | 15:30 | USD | High | Crude Oil Inventories |  |  | -9.285M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.394M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | -3.111M |
