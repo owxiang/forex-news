@@ -4,9 +4,9 @@
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Monetary Policy Meeting Minutes |  |  |  |
 | 07:00 | EUR | GfK German Consumer Climate (Oct) | -22.3 | -23.3 | -23.5 |
-| 22 min | CHF | SNB Monetary Policy Assessment |  |  |  |
-| 52 min | CHF | SNB Press Conference |  |  |  |
-| 52 min | EUR | ECB Economic Bulletin |  |  |  |
+| 08:30 | CHF | SNB Monetary Policy Assessment |  |  |  |
+| 09:00 | CHF | SNB Press Conference |  |  |  |
+| 09:00 | EUR | ECB Economic Bulletin |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,930K | 1,920K |
 | 13:30 | USD | Core Durable Goods Orders (MoM) (Aug) |  | -0.1% | 1.1% |
 | 13:30 | USD | Core PCE Prices (Q2) |  | 2.50% | 3.50% |
