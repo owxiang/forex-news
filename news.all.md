@@ -6,10 +6,10 @@
 | 00:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 05:00 | GBP | Low | Car Registration (YoY) (Aug) | -2.0% |  | -5.0% |
 | 05:00 | GBP | Low | Car Registration (MoM) (Aug) | -40.8% |  | -26.7% |
-| 05:00 | EUR | Low | Italian Car Registration (YoY) (Aug) | -2.7% |  | -5.1% |
 | 05:00 | EUR | Low | Italian Car Registration (MoM) (Aug) | -43.2% |  | -10.4% |
-| 05:00 | EUR | Low | German Car Registration (YoY) (Aug) | 5.0% |  | 11.1% |
+| 05:00 | EUR | Low | Italian Car Registration (YoY) (Aug) | -2.7% |  | -5.1% |
 | 05:00 | EUR | Low | German Car Registration (MoM) (Aug) | -21.7% |  | 3.4% |
+| 05:00 | EUR | Low | German Car Registration (YoY) (Aug) | 5.0% |  | 11.1% |
 | 05:00 | EUR | Low | French Car Registration (YoY) (Aug) | 2.2% |  | -7.7% |
 | 05:00 | EUR | Low | French Car Registration (MoM) (Aug) | -24.5% |  | -31.3% |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Oct) | -22.3 | -23.3 | -23.5 |
@@ -30,8 +30,8 @@
 | 10:30 | ZAR | Low | PPI (MoM) (Aug) | 0.3% |  | 0.7% |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Sep) | -29 | -31 | -32 |
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 13:00 | BRL | Low | Mid-Month CPI (YoY) (Sep) | 5.32% | 5.36% | 4.95% |
 | 13:00 | BRL | Low | Mid-Month CPI (MoM) (Sep) | 0.48% | 0.51% | -0.14% |
+| 13:00 | BRL | Low | Mid-Month CPI (YoY) (Sep) | 5.32% | 5.36% | 4.95% |
 | 13:20 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,926K | 1,930K | 1,928K |
 | 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Aug) | 0.4% | -0.1% | 1.1% |
@@ -52,8 +52,8 @@
 | 13:30 | USD | Low | Wholesale Inventories (MoM) (Aug) | -0.2% | 0.2% | 0.1% |
 | 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Jul) | 3.31% |  | 3.59% |
 | 14:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Aug) | -0.2% |  | 2.0% |
 | 15:00 | USD | High | Existing Home Sales (Aug) | 4.00M | 3.96M | 4.01M |
+| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Aug) | -0.2% |  | 2.0% |
 | 15:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage | 75B | 76B | 90B |
 | 16:00 | USD | Low | KC Fed Composite Index (Sep) | 4 |  | 1 |
@@ -63,8 +63,8 @@
 | 18:00 | USD | Moderate | 7-Year Note Auction | 3.953% |  | 3.925% |
 | 18:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 18:40 | USD | Low | Fed Logan Speaks |  |  |  |
-| 50 min | MXN | Moderate | Interest Rate Decision (Sep) |  | 7.50% | 7.75% |
-| 20:30 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
+| 20:00 | MXN | Moderate | Interest Rate Decision (Sep) | 7.50% | 7.50% | 7.75% |
+| 24 min | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,609B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.020T |
 | 22:00 | KRW | Low | Manufacturing BSI Index (Sep) |  |  | 70 |
