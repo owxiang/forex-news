@@ -10,8 +10,8 @@
 | 05:00 | EUR | Low | Italian Car Registration (YoY) (Aug) | -2.7% |  | -5.1% |
 | 05:00 | EUR | Low | German Car Registration (MoM) (Aug) | -21.7% |  | 3.4% |
 | 05:00 | EUR | Low | German Car Registration (YoY) (Aug) | 5.0% |  | 11.1% |
-| 05:00 | EUR | Low | French Car Registration (YoY) (Aug) | 2.2% |  | -7.7% |
 | 05:00 | EUR | Low | French Car Registration (MoM) (Aug) | -24.5% |  | -31.3% |
+| 05:00 | EUR | Low | French Car Registration (YoY) (Aug) | 2.2% |  | -7.7% |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Oct) | -22.3 | -23.3 | -23.5 |
 | 07:00 | NOK | Low | Unemployment Rate (Aug) | 4.9% |  | 4.5% |
 | 07:45 | EUR | Low | French Consumer Confidence (Sep) | 87 | 87 | 87 |
@@ -64,7 +64,7 @@
 | 18:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 18:40 | USD | Low | Fed Logan Speaks |  |  |  |
 | 20:00 | MXN | Moderate | Interest Rate Decision (Sep) | 7.50% | 7.50% | 7.75% |
-| 24 min | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,609B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.020T |
-| 22:00 | KRW | Low | Manufacturing BSI Index (Sep) |  |  | 70 |
+| 20:30 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
+| 23 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,609B |
+| 23 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.020T |
+| 53 min | KRW | Low | Manufacturing BSI Index (Sep) |  |  | 70 |

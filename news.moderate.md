@@ -19,5 +19,5 @@
 | 18:00 | USD | 7-Year Note Auction | 3.953% |  | 3.925% |
 | 18:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 20:00 | MXN | Interest Rate Decision (Sep) | 7.50% | 7.50% | 7.75% |
-| 24 min | USD | FOMC Member Daly Speaks |  |  |  |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 6,609B |
+| 20:30 | USD | FOMC Member Daly Speaks |  |  |  |
+| 23 min | USD | Fed's Balance Sheet |  |  | 6,609B |

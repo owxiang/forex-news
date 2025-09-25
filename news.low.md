@@ -9,8 +9,8 @@
 | 05:00 | EUR | Italian Car Registration (YoY) (Aug) | -2.7% |  | -5.1% |
 | 05:00 | EUR | German Car Registration (MoM) (Aug) | -21.7% |  | 3.4% |
 | 05:00 | EUR | German Car Registration (YoY) (Aug) | 5.0% |  | 11.1% |
-| 05:00 | EUR | French Car Registration (YoY) (Aug) | 2.2% |  | -7.7% |
 | 05:00 | EUR | French Car Registration (MoM) (Aug) | -24.5% |  | -31.3% |
+| 05:00 | EUR | French Car Registration (YoY) (Aug) | 2.2% |  | -7.7% |
 | 07:00 | NOK | Unemployment Rate (Aug) | 4.9% |  | 4.5% |
 | 07:45 | EUR | French Consumer Confidence (Sep) | 87 | 87 | 87 |
 | 09:00 | EUR | M3 Money Supply (YoY) (Aug) | 2.9% | 3.3% | 3.4% |
@@ -42,5 +42,5 @@
 | 16:30 | USD | 4-Week Bill Auction | 4.080% |  | 4.040% |
 | 16:30 | USD | 8-Week Bill Auction | 4.000% |  | 3.965% |
 | 18:40 | USD | Fed Logan Speaks |  |  |  |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.020T |
-| 22:00 | KRW | Manufacturing BSI Index (Sep) |  |  | 70 |
+| 23 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.020T |
+| 53 min | KRW | Manufacturing BSI Index (Sep) |  |  | 70 |
