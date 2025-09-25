@@ -6,22 +6,22 @@
 | 00:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 05:00 | GBP | Low | Car Registration (MoM) (Aug) | -40.8% |  | -26.7% |
 | 05:00 | GBP | Low | Car Registration (YoY) (Aug) | -2.0% |  | -5.0% |
-| 05:00 | EUR | Low | Italian Car Registration (YoY) (Aug) | -2.7% |  | -5.1% |
 | 05:00 | EUR | Low | Italian Car Registration (MoM) (Aug) | -43.2% |  | -10.4% |
+| 05:00 | EUR | Low | Italian Car Registration (YoY) (Aug) | -2.7% |  | -5.1% |
 | 05:00 | EUR | Low | German Car Registration (YoY) (Aug) | 5.0% |  | 11.1% |
 | 05:00 | EUR | Low | German Car Registration (MoM) (Aug) | -21.7% |  | 3.4% |
-| 05:00 | EUR | Low | French Car Registration (YoY) (Aug) | 2.2% |  | -7.7% |
 | 05:00 | EUR | Low | French Car Registration (MoM) (Aug) | -24.5% |  | -31.3% |
+| 05:00 | EUR | Low | French Car Registration (YoY) (Aug) | 2.2% |  | -7.7% |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Oct) | -22.3 | -23.3 | -23.5 |
 | 07:00 | NOK | Low | Unemployment Rate (Aug) | 4.9% |  | 4.5% |
-| 34 min | EUR | Low | French Consumer Confidence (Sep) |  | 87 | 87 |
-| 08:30 | CHF | High | SNB Interest Rate Decision (Q3) |  | 0.00% | 0.00% |
-| 08:30 | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
-| 09:00 | CHF | Moderate | SNB Press Conference |  |  |  |
-| 09:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
-| 09:00 | EUR | Low | M3 Money Supply (YoY) (Aug) |  | 3.3% | 3.4% |
-| 09:00 | EUR | Low | Loans to Non Financial Corporations (Aug) |  |  | 2.8% |
-| 09:00 | EUR | Low | Private Sector Loans (YoY) (Aug) |  | 2.3% | 2.4% |
+| 07:45 | EUR | Low | French Consumer Confidence (Sep) | 87 | 87 | 87 |
+| 22 min | CHF | High | SNB Interest Rate Decision (Q3) |  | 0.00% | 0.00% |
+| 22 min | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
+| 52 min | CHF | Moderate | SNB Press Conference |  |  |  |
+| 52 min | EUR | Moderate | ECB Economic Bulletin |  |  |  |
+| 52 min | EUR | Low | M3 Money Supply (YoY) (Aug) |  | 3.3% | 3.4% |
+| 52 min | EUR | Low | Loans to Non Financial Corporations (Aug) |  |  | 2.8% |
+| 52 min | EUR | Low | Private Sector Loans (YoY) (Aug) |  | 2.3% | 2.4% |
 | 09:30 | HKD | Low | Exports (MoM) (Aug) |  |  | 14.3% |
 | 09:30 | HKD | Low | Imports (MoM) (Aug) |  |  | 16.5% |
 | 09:30 | HKD | Low | Trade Balance (Aug) |  |  | -34.1B |
@@ -30,8 +30,8 @@
 | 10:30 | ZAR | Low | PPI (YoY) (Aug) |  |  | 1.5% |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Sep) |  | -31 | -32 |
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 13:00 | BRL | Low | Mid-Month CPI (YoY) (Sep) |  | 5.36% | 4.95% |
 | 13:00 | BRL | Low | Mid-Month CPI (MoM) (Sep) |  | 0.51% | -0.14% |
+| 13:00 | BRL | Low | Mid-Month CPI (YoY) (Sep) |  | 5.36% | 4.95% |
 | 13:20 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,930K | 1,920K |
 | 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Aug) |  | -0.1% | 1.1% |
