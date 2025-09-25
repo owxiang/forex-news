@@ -36,11 +36,11 @@
 | 13:30 | USD | Real Consumer Spending (Q2) | 2.5% | 1.6% | 0.5% |
 | 13:30 | USD | Wholesale Inventories (MoM) (Aug) | -0.2% | 0.2% | 0.1% |
 | 13:30 | CAD | Average Weekly Earnings (YoY) (Jul) | 3.31% |  | 3.59% |
-| 23 min | USD | Natural Gas Storage |  | 76B | 90B |
-| 53 min | USD | KC Fed Composite Index (Sep) |  |  | 1 |
-| 53 min | USD | KC Fed Manufacturing Index (Sep) |  |  | 0 |
-| 16:30 | USD | 4-Week Bill Auction |  |  | 4.040% |
-| 16:30 | USD | 8-Week Bill Auction |  |  | 3.965% |
+| 15:30 | USD | Natural Gas Storage | 75B | 76B | 90B |
+| 16:00 | USD | KC Fed Composite Index (Sep) | 4 |  | 1 |
+| 16:00 | USD | KC Fed Manufacturing Index (Sep) | 4 |  | 0 |
+| 23 min | USD | 4-Week Bill Auction |  |  | 4.040% |
+| 23 min | USD | 8-Week Bill Auction |  |  | 3.965% |
 | 18:40 | USD | Fed Logan Speaks |  |  |  |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.020T |
 | 22:00 | KRW | Manufacturing BSI Index (Sep) |  |  | 70 |

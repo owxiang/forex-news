@@ -55,11 +55,11 @@
 | 15:00 | USD | Moderate | Existing Home Sales (MoM) (Aug) | -0.2% |  | 2.0% |
 | 15:00 | USD | High | Existing Home Sales (Aug) | 4.00M | 3.96M | 4.01M |
 | 15:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 23 min | USD | Low | Natural Gas Storage |  | 76B | 90B |
-| 53 min | USD | Low | KC Fed Composite Index (Sep) |  |  | 1 |
-| 53 min | USD | Low | KC Fed Manufacturing Index (Sep) |  |  | 0 |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.040% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.965% |
+| 15:30 | USD | Low | Natural Gas Storage | 75B | 76B | 90B |
+| 16:00 | USD | Low | KC Fed Composite Index (Sep) | 4 |  | 1 |
+| 16:00 | USD | Low | KC Fed Manufacturing Index (Sep) | 4 |  | 0 |
+| 23 min | USD | Low | 4-Week Bill Auction |  |  | 4.040% |
+| 23 min | USD | Low | 8-Week Bill Auction |  |  | 3.965% |
 | 18:00 | USD | Moderate | 7-Year Note Auction |  |  | 3.925% |
 | 18:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 18:40 | USD | Low | Fed Logan Speaks |  |  |  |
