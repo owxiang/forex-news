@@ -4,14 +4,14 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 2.7% | 2.9% | 2.6% |
 | 00:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
-| 05:00 | GBP | Low | Car Registration (MoM) (Aug) |  |  | -26.7% |
 | 05:00 | GBP | Low | Car Registration (YoY) (Aug) |  |  | -5.0% |
+| 05:00 | GBP | Low | Car Registration (MoM) (Aug) |  |  | -26.7% |
 | 05:00 | EUR | Low | Italian Car Registration (MoM) (Aug) |  |  | -10.4% |
 | 05:00 | EUR | Low | Italian Car Registration (YoY) (Aug) |  |  | -5.1% |
-| 05:00 | EUR | Low | German Car Registration (YoY) (Aug) |  |  | 11.1% |
 | 05:00 | EUR | Low | German Car Registration (MoM) (Aug) |  |  | 3.4% |
-| 05:00 | EUR | Low | French Car Registration (MoM) (Aug) |  |  | -31.3% |
+| 05:00 | EUR | Low | German Car Registration (YoY) (Aug) |  |  | 11.1% |
 | 05:00 | EUR | Low | French Car Registration (YoY) (Aug) |  |  | -7.7% |
+| 05:00 | EUR | Low | French Car Registration (MoM) (Aug) |  |  | -31.3% |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Oct) |  | -23.3 | -23.6 |
 | 07:00 | NOK | Low | Unemployment Rate (Aug) |  |  | 4.5% |
 | 07:45 | EUR | Low | French Consumer Confidence (Sep) |  | 87 | 87 |
@@ -26,8 +26,8 @@
 | 09:30 | HKD | Low | Imports (MoM) (Aug) |  |  | 16.5% |
 | 09:30 | HKD | Low | Trade Balance (Aug) |  |  | -34.1B |
 | 10:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 2.012% |
-| 10:30 | ZAR | Low | PPI (MoM) (Aug) |  |  | 0.7% |
 | 10:30 | ZAR | Low | PPI (YoY) (Aug) |  |  | 1.5% |
+| 10:30 | ZAR | Low | PPI (MoM) (Aug) |  |  | 0.7% |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Sep) |  | -31 | -32 |
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
 | 13:00 | BRL | Low | Mid-Month CPI (MoM) (Sep) |  | 0.51% | -0.14% |
@@ -52,8 +52,8 @@
 | 13:30 | USD | Low | Wholesale Inventories (MoM) (Aug) |  | 0.2% | 0.1% |
 | 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Jul) |  |  | 3.74% |
 | 14:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Aug) |  |  | 2.0% |
 | 15:00 | USD | High | Existing Home Sales (Aug) |  | 3.96M | 4.01M |
+| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Aug) |  |  | 2.0% |
 | 15:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage |  | 76B | 90B |
 | 16:00 | USD | Low | KC Fed Composite Index (Sep) |  |  | 1 |

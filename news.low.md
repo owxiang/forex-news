@@ -3,14 +3,14 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) | 2.7% | 2.9% | 2.6% |
-| 05:00 | GBP | Car Registration (MoM) (Aug) |  |  | -26.7% |
 | 05:00 | GBP | Car Registration (YoY) (Aug) |  |  | -5.0% |
+| 05:00 | GBP | Car Registration (MoM) (Aug) |  |  | -26.7% |
 | 05:00 | EUR | Italian Car Registration (MoM) (Aug) |  |  | -10.4% |
 | 05:00 | EUR | Italian Car Registration (YoY) (Aug) |  |  | -5.1% |
-| 05:00 | EUR | German Car Registration (YoY) (Aug) |  |  | 11.1% |
 | 05:00 | EUR | German Car Registration (MoM) (Aug) |  |  | 3.4% |
-| 05:00 | EUR | French Car Registration (MoM) (Aug) |  |  | -31.3% |
+| 05:00 | EUR | German Car Registration (YoY) (Aug) |  |  | 11.1% |
 | 05:00 | EUR | French Car Registration (YoY) (Aug) |  |  | -7.7% |
+| 05:00 | EUR | French Car Registration (MoM) (Aug) |  |  | -31.3% |
 | 07:00 | NOK | Unemployment Rate (Aug) |  |  | 4.5% |
 | 07:45 | EUR | French Consumer Confidence (Sep) |  | 87 | 87 |
 | 09:00 | EUR | M3 Money Supply (YoY) (Aug) |  | 3.3% | 3.4% |
@@ -20,8 +20,8 @@
 | 09:30 | HKD | Imports (MoM) (Aug) |  |  | 16.5% |
 | 09:30 | HKD | Trade Balance (Aug) |  |  | -34.1B |
 | 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 2.012% |
-| 10:30 | ZAR | PPI (MoM) (Aug) |  |  | 0.7% |
 | 10:30 | ZAR | PPI (YoY) (Aug) |  |  | 1.5% |
+| 10:30 | ZAR | PPI (MoM) (Aug) |  |  | 0.7% |
 | 11:00 | GBP | CBI Distributive Trades Survey (Sep) |  | -31 | -32 |
 | 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 13:00 | BRL | Mid-Month CPI (MoM) (Sep) |  | 0.51% | -0.14% |
