@@ -27,11 +27,11 @@
 | 09:30 | HKD | Low | Trade Balance (Aug) | -25.4B |  | -34.1B |
 | 10:10 | EUR | Low | Italian 6-Month BOT Auction | 2.044% |  | 2.012% |
 | 10:30 | ZAR | Low | PPI (MoM) (Aug) | 0.3% |  | 0.7% |
-| 10:30 | ZAR | Low | PPI (YoY) (Aug) | 2.1% |  | 1.5% |
+| 10:30 | ZAR | Low | PPI (YoY) (Aug) | 2.1% | 1.8% | 1.5% |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Sep) | -29 | -31 | -32 |
-| 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 13:00 | BRL | Low | Mid-Month CPI (YoY) (Sep) |  | 5.36% | 4.95% |
-| 13:00 | BRL | Low | Mid-Month CPI (MoM) (Sep) |  | 0.51% | -0.14% |
+| 53 min | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
+| 53 min | BRL | Low | Mid-Month CPI (YoY) (Sep) |  | 5.36% | 4.95% |
+| 53 min | BRL | Low | Mid-Month CPI (MoM) (Sep) |  | 0.51% | -0.14% |
 | 13:20 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,930K | 1,920K |
 | 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Aug) |  | -0.1% | 1.1% |

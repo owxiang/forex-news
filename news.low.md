@@ -21,11 +21,11 @@
 | 09:30 | HKD | Trade Balance (Aug) | -25.4B |  | -34.1B |
 | 10:10 | EUR | Italian 6-Month BOT Auction | 2.044% |  | 2.012% |
 | 10:30 | ZAR | PPI (MoM) (Aug) | 0.3% |  | 0.7% |
-| 10:30 | ZAR | PPI (YoY) (Aug) | 2.1% |  | 1.5% |
+| 10:30 | ZAR | PPI (YoY) (Aug) | 2.1% | 1.8% | 1.5% |
 | 11:00 | GBP | CBI Distributive Trades Survey (Sep) | -29 | -31 | -32 |
-| 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
-| 13:00 | BRL | Mid-Month CPI (YoY) (Sep) |  | 5.36% | 4.95% |
-| 13:00 | BRL | Mid-Month CPI (MoM) (Sep) |  | 0.51% | -0.14% |
+| 53 min | BRL | BCB National Monetary Council Meeting |  |  |  |
+| 53 min | BRL | Mid-Month CPI (YoY) (Sep) |  | 5.36% | 4.95% |
+| 53 min | BRL | Mid-Month CPI (MoM) (Sep) |  | 0.51% | -0.14% |
 | 13:20 | USD | Fed Goolsbee Speaks |  |  |  |
 | 13:30 | USD | Corporate Profits (QoQ) (Q2) |  | 2.0% | -3.3% |
 | 13:30 | USD | Durables Excluding Defense (MoM) (Aug) |  |  | -2.5% |
