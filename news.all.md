@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 44 min | JPY | Low | Corporate Services Price Index (CSPI) (YoY) |  | 2.9% | 2.9% |
-| 44 min | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
+| 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 2.7% | 2.9% | 2.6% |
+| 00:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 05:00 | GBP | Low | Car Registration (MoM) (Aug) |  |  | -26.7% |
 | 05:00 | GBP | Low | Car Registration (YoY) (Aug) |  |  | -5.0% |
 | 05:00 | EUR | Low | Italian Car Registration (MoM) (Aug) |  |  | -10.4% |

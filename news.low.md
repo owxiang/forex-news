@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 44 min | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 2.9% | 2.9% |
+| 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) | 2.7% | 2.9% | 2.6% |
 | 05:00 | GBP | Car Registration (MoM) (Aug) |  |  | -26.7% |
 | 05:00 | GBP | Car Registration (YoY) (Aug) |  |  | -5.0% |
 | 05:00 | EUR | Italian Car Registration (MoM) (Aug) |  |  | -10.4% |
