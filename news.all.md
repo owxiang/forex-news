@@ -1,70 +1,72 @@
-## 25 September 2025 - All Forex News
+## 26 September 2025 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 2.7% | 2.9% | 2.6% |
-| 00:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
-| 05:00 | GBP | Low | Car Registration (YoY) (Aug) | -2.0% |  | -5.0% |
-| 05:00 | GBP | Low | Car Registration (MoM) (Aug) | -40.8% |  | -26.7% |
-| 05:00 | EUR | Low | Italian Car Registration (MoM) (Aug) | -43.2% |  | -10.4% |
-| 05:00 | EUR | Low | Italian Car Registration (YoY) (Aug) | -2.7% |  | -5.1% |
-| 05:00 | EUR | Low | German Car Registration (MoM) (Aug) | -21.7% |  | 3.4% |
-| 05:00 | EUR | Low | German Car Registration (YoY) (Aug) | 5.0% |  | 11.1% |
-| 05:00 | EUR | Low | French Car Registration (MoM) (Aug) | -24.5% |  | -31.3% |
-| 05:00 | EUR | Low | French Car Registration (YoY) (Aug) | 2.2% |  | -7.7% |
-| 07:00 | EUR | Moderate | GfK German Consumer Climate (Oct) | -22.3 | -23.3 | -23.5 |
-| 07:00 | NOK | Low | Unemployment Rate (Aug) | 4.9% |  | 4.5% |
-| 07:45 | EUR | Low | French Consumer Confidence (Sep) | 87 | 87 | 87 |
-| 08:30 | CHF | High | SNB Interest Rate Decision (Q3) | 0.00% | 0.00% | 0.00% |
-| 08:30 | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
-| 09:00 | CHF | Moderate | SNB Press Conference |  |  |  |
-| 09:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
-| 09:00 | EUR | Low | M3 Money Supply (YoY) (Aug) | 2.9% | 3.3% | 3.4% |
-| 09:00 | EUR | Low | Loans to Non Financial Corporations (Aug) | 3.0% |  | 2.8% |
-| 09:00 | EUR | Low | Private Sector Loans (YoY) (Aug) | 2.5% | 2.3% | 2.4% |
-| 09:30 | HKD | Low | Exports (MoM) (Aug) | 14.5% |  | 14.3% |
-| 09:30 | HKD | Low | Imports (MoM) (Aug) | 11.5% |  | 16.5% |
-| 09:30 | HKD | Low | Trade Balance (Aug) | -25.4B |  | -34.1B |
-| 10:10 | EUR | Low | Italian 6-Month BOT Auction | 2.044% |  | 2.012% |
-| 10:30 | ZAR | Low | PPI (YoY) (Aug) | 2.1% | 1.8% | 1.5% |
-| 10:30 | ZAR | Low | PPI (MoM) (Aug) | 0.3% |  | 0.7% |
-| 11:00 | GBP | Low | CBI Distributive Trades Survey (Sep) | -29 | -31 | -32 |
-| 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 13:00 | BRL | Low | Mid-Month CPI (MoM) (Sep) | 0.48% | 0.51% | -0.14% |
-| 13:00 | BRL | Low | Mid-Month CPI (YoY) (Sep) | 5.32% | 5.36% | 4.95% |
-| 13:20 | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,926K | 1,930K | 1,928K |
-| 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Aug) | 0.4% | -0.1% | 1.1% |
-| 13:30 | USD | Moderate | Core PCE Prices (Q2) | 2.60% | 2.50% | 3.50% |
-| 13:30 | USD | Low | Corporate Profits (QoQ) (Q2) | 0.2% | 2.0% | -3.3% |
-| 13:30 | USD | High | Durable Goods Orders (MoM) (Aug) | 2.9% | -0.3% | -2.7% |
-| 13:30 | USD | Low | Durables Excluding Defense (MoM) (Aug) | 1.9% |  | -2.3% |
-| 13:30 | USD | High | GDP (QoQ) (Q2) | 3.8% | 3.3% | -0.5% |
-| 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q2) | 2.1% | 2.0% | 3.8% |
-| 13:30 | USD | Low | GDP Sales (Q2) | 7.5% | 6.8% | -3.1% |
-| 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Aug) | 0.6% | -0.1% | 0.8% |
-| 13:30 | USD | Moderate | Goods Trade Balance (Aug) | -85.50B | -95.70B | -103.60B |
-| 13:30 | USD | High | Initial Jobless Claims | 218K | 233K | 232K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 237.50K |  | 240.25K |
-| 13:30 | USD | Low | PCE Prices (Q2) | 2.1% | 2.0% | 3.7% |
-| 13:30 | USD | Low | Real Consumer Spending (Q2) | 2.5% | 1.6% | 0.5% |
-| 13:30 | USD | Moderate | Retail Inventories Ex Auto (Aug) | 0.3% |  | 0.2% |
-| 13:30 | USD | Low | Wholesale Inventories (MoM) (Aug) | -0.2% | 0.2% | 0.1% |
-| 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Jul) | 3.31% |  | 3.59% |
-| 14:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 15:00 | USD | High | Existing Home Sales (Aug) | 4.00M | 3.96M | 4.01M |
-| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Aug) | -0.2% |  | 2.0% |
-| 15:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 15:30 | USD | Low | Natural Gas Storage | 75B | 76B | 90B |
-| 16:00 | USD | Low | KC Fed Composite Index (Sep) | 4 |  | 1 |
-| 16:00 | USD | Low | KC Fed Manufacturing Index (Sep) | 4 |  | 0 |
-| 16:30 | USD | Low | 4-Week Bill Auction | 4.080% |  | 4.040% |
-| 16:30 | USD | Low | 8-Week Bill Auction | 4.000% |  | 3.965% |
-| 18:00 | USD | Moderate | 7-Year Note Auction | 3.953% |  | 3.925% |
-| 18:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 18:40 | USD | Low | Fed Logan Speaks |  |  |  |
-| 20:00 | MXN | Moderate | Interest Rate Decision (Sep) | 7.50% | 7.50% | 7.75% |
-| 20:30 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
-| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,608B |  | 6,609B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.000T |  | 3.020T |
-| 22:00 | KRW | Low | Manufacturing BSI Index (Sep) | 70 |  | 70 |
+| 24 min | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Sep) |  |  | 1.5% |
+| 24 min | JPY | Moderate | Tokyo Core CPI (YoY) (Sep) |  | 2.8% | 2.5% |
+| 24 min | JPY | Low | Tokyo CPI (YoY) (Sep) |  |  | 2.6% |
+| 24 min | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Sep) |  |  | 0.4% |
+| 44 min | JPY | Low | Foreign Bonds Buying |  |  | 1,478.5B |
+| 44 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -2,034.0B |
+| 06:00 | SGD | Low | Industrial Production (YoY) (Aug) |  | -2.5% | 7.1% |
+| 06:00 | SGD | Low | Industrial Production (MoM) (Aug) |  |  | 8.2% |
+| 06:30 | JPY | Moderate | BoJ Board Member Noguchi Speaks |  |  |  |
+| 08:00 | EUR | Low | Spanish GDP (YoY) (Q2) |  | 2.8% | 2.8% |
+| 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q2) |  | 0.7% | 0.7% |
+| 09:00 | EUR | Low | Italian Business Confidence (Sep) |  | 87.5 | 87.4 |
+| 09:00 | EUR | Low | Italian Consumer Confidence (Sep) |  |  | 96.2 |
+| 10:30 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 3.58% |
+| 10:30 | EUR | Low | Italian 5-Year BTP Auction |  |  | 2.80% |
+| 10:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 11:00 | EUR | Moderate | France Jobseekers Total (Aug) |  |  | 3,033.5K |
+| 12:30 | INR | Low | Bank Loan Growth |  |  | 10.0% |
+| 12:30 | INR | Low | Deposit Growth |  |  | 10.2% |
+| 12:30 | INR | Low | FX Reserves, USD |  |  | 702.97B |
+| 12:30 | BRL | Low | Current Account (USD) (Aug) |  | -5.40B | -7.07B |
+| 12:30 | BRL | Low | Foreign direct investment (USD) (Aug) |  | 6.20B | 8.32B |
+| 13:00 | MXN | Low | Trade Balance (Aug) |  | -1.200B | -0.017B |
+| 13:00 | MXN | Low | Trade Balance (USD) (Aug) |  |  | 0.296B |
+| 13:30 | USD | High | Core PCE Price Index (MoM) (Aug) |  | 0.2% | 0.3% |
+| 13:30 | USD | High | Core PCE Price Index (YoY) (Aug) |  | 2.9% | 2.9% |
+| 13:30 | USD | Moderate | PCE Price index (YoY) (Aug) |  | 2.7% | 2.6% |
+| 13:30 | USD | Moderate | PCE price index (MoM) (Aug) |  | 0.3% | 0.2% |
+| 13:30 | USD | Low | Personal Income (MoM) (Aug) |  | 0.3% | 0.4% |
+| 13:30 | USD | Moderate | Personal Spending (MoM) (Aug) |  | 0.5% | 0.5% |
+| 13:30 | USD | Low | Real Personal Consumption (MoM) (Aug) |  |  | 0.3% |
+| 13:30 | CAD | Moderate | GDP (MoM) (Jul) |  |  | -0.1% |
+| 13:30 | CAD | Moderate | GDP (MoM) (Jul) |  | 0.1% | -0.1% |
+| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Aug) |  |  | 1.2% |
+| 14:00 | USD | Low | Dallas Fed PCE (Aug) |  |  | 1.90% |
+| 14:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Sep) |  | 4.8% | 4.8% |
+| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Sep) |  | 3.9% | 3.5% |
+| 15:00 | USD | Moderate | Michigan Consumer Expectations (Sep) |  | 51.8 | 55.9 |
+| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Sep) |  | 55.4 | 58.2 |
+| 15:00 | USD | Low | Michigan Current Conditions (Sep) |  | 61.2 | 61.7 |
+| 16:00 | CAD | Low | Budget Balance (YoY) (Jul) |  |  | -3.34B |
+| 16:00 | CAD | Low | Budget Balance (Jul) |  |  | 3.63B |
+| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 3.3% | 3.3% |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 418 |
+| 18:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 542 |
+| 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -6.6K |
+| 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 1.2K |
+| 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 30.3K |
+| 20:30 | USD | Low | CFTC Corn speculative net positions |  |  | -36.2K |
+| 20:30 | USD | Moderate | CFTC Crude Oil speculative net positions |  |  | 98.7K |
+| 20:30 | USD | Moderate | CFTC Gold speculative net positions |  |  | 266.4K |
+| 20:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions |  |  | 17.8K |
+| 20:30 | USD | Low | CFTC Natural Gas speculative net positions |  |  | -110.9K |
+| 20:30 | USD | Moderate | CFTC S&P 500 speculative net positions |  |  | -225.1K |
+| 20:30 | USD | Low | CFTC Silver speculative net positions |  |  | 51.5K |
+| 20:30 | USD | Low | CFTC Soybeans speculative net positions |  |  | 21.2K |
+| 20:30 | USD | Low | CFTC Wheat speculative net positions |  |  | -72.2K |
+| 20:30 | CAD | Low | CFTC CAD speculative net positions |  |  | -107.2K |
+| 20:30 | MXN | Low | CFTC MXN speculative net positions |  |  | 78.0K |
+| 20:30 | CHF | Low | CFTC CHF speculative net positions |  |  | -26.0K |
+| 20:30 | AUD | Moderate | CFTC AUD speculative net positions |  |  | -51.2K |
+| 20:30 | BRL | Moderate | CFTC BRL speculative net positions |  |  | 62.2K |
+| 20:30 | JPY | Moderate | CFTC JPY speculative net positions |  |  | 61.4K |
+| 20:30 | NZD | Low | CFTC NZD speculative net positions |  |  | -18.0K |
+| 20:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | 117.8K |
+| 23:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |

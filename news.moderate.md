@@ -1,23 +1,34 @@
-## 25 September 2025 - Moderate Impact Forex News
+## 26 September 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Monetary Policy Meeting Minutes |  |  |  |
-| 07:00 | EUR | GfK German Consumer Climate (Oct) | -22.3 | -23.3 | -23.5 |
-| 08:30 | CHF | SNB Monetary Policy Assessment |  |  |  |
-| 09:00 | CHF | SNB Press Conference |  |  |  |
-| 09:00 | EUR | ECB Economic Bulletin |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims | 1,926K | 1,930K | 1,928K |
-| 13:30 | USD | Core Durable Goods Orders (MoM) (Aug) | 0.4% | -0.1% | 1.1% |
-| 13:30 | USD | Core PCE Prices (Q2) | 2.60% | 2.50% | 3.50% |
-| 13:30 | USD | GDP Price Index (QoQ) (Q2) | 2.1% | 2.0% | 3.8% |
-| 13:30 | USD | Goods Trade Balance (Aug) | -85.50B | -95.70B | -103.60B |
-| 13:30 | USD | Retail Inventories Ex Auto (Aug) | 0.3% |  | 0.2% |
-| 14:00 | USD | FOMC Member Williams Speaks |  |  |  |
-| 15:00 | USD | Existing Home Sales (MoM) (Aug) | -0.2% |  | 2.0% |
-| 15:00 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 18:00 | USD | 7-Year Note Auction | 3.953% |  | 3.925% |
-| 18:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 20:00 | MXN | Interest Rate Decision (Sep) | 7.50% | 7.50% | 7.75% |
-| 20:30 | USD | FOMC Member Daly Speaks |  |  |  |
-| 21:30 | USD | Fed's Balance Sheet | 6,608B |  | 6,609B |
+| 24 min | JPY | Tokyo Core CPI (YoY) (Sep) |  | 2.8% | 2.5% |
+| 06:30 | JPY | BoJ Board Member Noguchi Speaks |  |  |  |
+| 08:00 | EUR | Spanish GDP (QoQ) (Q2) |  | 0.7% | 0.7% |
+| 10:30 | EUR | Italian 10-Year BTP Auction |  |  | 3.58% |
+| 10:30 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 11:00 | EUR | France Jobseekers Total (Aug) |  |  | 3,033.5K |
+| 13:30 | USD | PCE Price index (YoY) (Aug) |  | 2.7% | 2.6% |
+| 13:30 | USD | PCE price index (MoM) (Aug) |  | 0.3% | 0.2% |
+| 13:30 | USD | Personal Spending (MoM) (Aug) |  | 0.5% | 0.5% |
+| 13:30 | CAD | GDP (MoM) (Jul) |  |  | -0.1% |
+| 13:30 | CAD | GDP (MoM) (Jul) |  | 0.1% | -0.1% |
+| 13:30 | CAD | Wholesale Sales (MoM) (Aug) |  |  | 1.2% |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (Sep) |  | 4.8% | 4.8% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (Sep) |  | 3.9% | 3.5% |
+| 15:00 | USD | Michigan Consumer Expectations (Sep) |  | 51.8 | 55.9 |
+| 15:00 | USD | Michigan Consumer Sentiment (Sep) |  | 55.4 | 58.2 |
+| 16:30 | USD | Atlanta Fed GDPNow (Q3) |  | 3.3% | 3.3% |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 418 |
+| 18:00 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 542 |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | -6.6K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 98.7K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 266.4K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 17.8K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -225.1K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -51.2K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 62.2K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | 61.4K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 117.8K |
+| 23:00 | USD | FOMC Member Bostic Speaks |  |  |  |
