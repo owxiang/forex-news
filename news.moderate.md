@@ -14,8 +14,8 @@
 | 13:30 | USD | Goods Trade Balance (Aug) | -85.50B | -95.70B | -103.60B |
 | 13:30 | USD | Retail Inventories Ex Auto (Aug) | 0.3% |  | 0.2% |
 | 14:00 | USD | FOMC Member Williams Speaks |  |  |  |
-| 46 min | USD | Existing Home Sales (MoM) (Aug) |  |  | 2.0% |
-| 46 min | USD | FOMC Member Bowman Speaks |  |  |  |
+| 15:00 | USD | Existing Home Sales (MoM) (Aug) | -0.2% |  | 2.0% |
+| 15:00 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 18:00 | USD | 7-Year Note Auction |  |  | 3.925% |
 | 18:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 20:00 | MXN | Interest Rate Decision (Sep) |  | 7.50% | 7.75% |
