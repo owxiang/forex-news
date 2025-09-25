@@ -20,4 +20,4 @@
 | 18:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 20:00 | MXN | Interest Rate Decision (Sep) | 7.50% | 7.50% | 7.75% |
 | 20:30 | USD | FOMC Member Daly Speaks |  |  |  |
-| 23 min | USD | Fed's Balance Sheet |  |  | 6,609B |
+| 21:30 | USD | Fed's Balance Sheet | 6,608B |  | 6,609B |
