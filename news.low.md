@@ -3,14 +3,14 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) | 2.7% | 2.9% | 2.6% |
-| 05:00 | GBP | Car Registration (MoM) (Aug) |  |  | -26.7% |
-| 05:00 | GBP | Car Registration (YoY) (Aug) |  |  | -5.0% |
-| 05:00 | EUR | Italian Car Registration (YoY) (Aug) |  |  | -5.1% |
-| 05:00 | EUR | Italian Car Registration (MoM) (Aug) |  |  | -10.4% |
-| 05:00 | EUR | German Car Registration (YoY) (Aug) |  |  | 11.1% |
-| 05:00 | EUR | German Car Registration (MoM) (Aug) |  |  | 3.4% |
-| 05:00 | EUR | French Car Registration (YoY) (Aug) |  |  | -7.7% |
-| 05:00 | EUR | French Car Registration (MoM) (Aug) |  |  | -31.3% |
+| 39 min | GBP | Car Registration (YoY) (Aug) |  |  | -5.0% |
+| 39 min | GBP | Car Registration (MoM) (Aug) |  |  | -26.7% |
+| 39 min | EUR | Italian Car Registration (YoY) (Aug) |  |  | -5.1% |
+| 39 min | EUR | Italian Car Registration (MoM) (Aug) |  |  | -10.4% |
+| 39 min | EUR | German Car Registration (MoM) (Aug) |  |  | 3.4% |
+| 39 min | EUR | German Car Registration (YoY) (Aug) |  |  | 11.1% |
+| 39 min | EUR | French Car Registration (YoY) (Aug) |  |  | -7.7% |
+| 39 min | EUR | French Car Registration (MoM) (Aug) |  |  | -31.3% |
 | 07:00 | NOK | Unemployment Rate (Aug) |  |  | 4.5% |
 | 07:45 | EUR | French Consumer Confidence (Sep) |  | 87 | 87 |
 | 09:00 | EUR | M3 Money Supply (YoY) (Aug) |  | 3.3% | 3.4% |
@@ -20,12 +20,12 @@
 | 09:30 | HKD | Imports (MoM) (Aug) |  |  | 16.5% |
 | 09:30 | HKD | Trade Balance (Aug) |  |  | -34.1B |
 | 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 2.012% |
-| 10:30 | ZAR | PPI (MoM) (Aug) |  |  | 0.7% |
 | 10:30 | ZAR | PPI (YoY) (Aug) |  |  | 1.5% |
+| 10:30 | ZAR | PPI (MoM) (Aug) |  |  | 0.7% |
 | 11:00 | GBP | CBI Distributive Trades Survey (Sep) |  | -31 | -32 |
 | 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
-| 13:00 | BRL | Mid-Month CPI (YoY) (Sep) |  | 5.36% | 4.95% |
 | 13:00 | BRL | Mid-Month CPI (MoM) (Sep) |  | 0.51% | -0.14% |
+| 13:00 | BRL | Mid-Month CPI (YoY) (Sep) |  | 5.36% | 4.95% |
 | 13:20 | USD | Fed Goolsbee Speaks |  |  |  |
 | 13:30 | USD | Corporate Profits (QoQ) (Q2) |  | 2.0% | -3.3% |
 | 13:30 | USD | Durables Excluding Defense (MoM) (Aug) |  |  | -2.5% |
