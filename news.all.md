@@ -6,8 +6,8 @@
 | 00:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 05:00 | GBP | Low | Car Registration (MoM) (Aug) | -40.8% |  | -26.7% |
 | 05:00 | GBP | Low | Car Registration (YoY) (Aug) | -2.0% |  | -5.0% |
-| 05:00 | EUR | Low | Italian Car Registration (MoM) (Aug) | -43.2% |  | -10.4% |
 | 05:00 | EUR | Low | Italian Car Registration (YoY) (Aug) | -2.7% |  | -5.1% |
+| 05:00 | EUR | Low | Italian Car Registration (MoM) (Aug) | -43.2% |  | -10.4% |
 | 05:00 | EUR | Low | German Car Registration (YoY) (Aug) | 5.0% |  | 11.1% |
 | 05:00 | EUR | Low | German Car Registration (MoM) (Aug) | -21.7% |  | 3.4% |
 | 05:00 | EUR | Low | French Car Registration (MoM) (Aug) | -24.5% |  | -31.3% |
@@ -25,13 +25,13 @@
 | 09:30 | HKD | Low | Exports (MoM) (Aug) | 14.5% |  | 14.3% |
 | 09:30 | HKD | Low | Imports (MoM) (Aug) | 11.5% |  | 16.5% |
 | 09:30 | HKD | Low | Trade Balance (Aug) | -25.4B |  | -34.1B |
-| 2 min | EUR | Low | Italian 6-Month BOT Auction |  |  | 2.012% |
-| 22 min | ZAR | Low | PPI (MoM) (Aug) |  |  | 0.7% |
-| 22 min | ZAR | Low | PPI (YoY) (Aug) |  |  | 1.5% |
-| 52 min | GBP | Low | CBI Distributive Trades Survey (Sep) |  | -31 | -32 |
+| 10:10 | EUR | Low | Italian 6-Month BOT Auction | 2.044% |  | 2.012% |
+| 10:30 | ZAR | Low | PPI (MoM) (Aug) | 0.3% |  | 0.7% |
+| 10:30 | ZAR | Low | PPI (YoY) (Aug) | 2.1% |  | 1.5% |
+| 11:00 | GBP | Low | CBI Distributive Trades Survey (Sep) | -29 | -31 | -32 |
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 13:00 | BRL | Low | Mid-Month CPI (MoM) (Sep) |  | 0.51% | -0.14% |
 | 13:00 | BRL | Low | Mid-Month CPI (YoY) (Sep) |  | 5.36% | 4.95% |
+| 13:00 | BRL | Low | Mid-Month CPI (MoM) (Sep) |  | 0.51% | -0.14% |
 | 13:20 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,930K | 1,920K |
 | 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Aug) |  | -0.1% | 1.1% |
