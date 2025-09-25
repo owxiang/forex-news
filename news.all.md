@@ -32,29 +32,29 @@
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
 | 13:00 | BRL | Low | Mid-Month CPI (MoM) (Sep) | 0.48% | 0.51% | -0.14% |
 | 13:00 | BRL | Low | Mid-Month CPI (YoY) (Sep) | 5.32% | 5.36% | 4.95% |
-| 8 min | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 18 min | USD | Moderate | Continuing Jobless Claims |  | 1,930K | 1,920K |
-| 18 min | USD | Moderate | Core Durable Goods Orders (MoM) (Aug) |  | -0.1% | 1.1% |
-| 18 min | USD | Moderate | Core PCE Prices (Q2) |  | 2.50% | 3.50% |
-| 18 min | USD | Low | Corporate Profits (QoQ) (Q2) |  | 2.0% | -3.3% |
-| 18 min | USD | High | Durable Goods Orders (MoM) (Aug) |  | -0.3% | -2.8% |
-| 18 min | USD | Low | Durables Excluding Defense (MoM) (Aug) |  |  | -2.5% |
-| 18 min | USD | High | GDP (QoQ) (Q2) |  | 3.3% | -0.5% |
-| 18 min | USD | Moderate | GDP Price Index (QoQ) (Q2) |  | 2.0% | 3.8% |
-| 18 min | USD | Low | GDP Sales (Q2) |  | 6.8% | -3.1% |
-| 18 min | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Aug) |  | -0.1% | 1.1% |
-| 18 min | USD | Moderate | Goods Trade Balance (Aug) |  | -95.70B | -103.60B |
-| 18 min | USD | High | Initial Jobless Claims |  | 233K | 231K |
-| 18 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 240.00K |
-| 18 min | USD | Low | PCE Prices (Q2) |  | 2.0% | 3.7% |
-| 18 min | USD | Low | Real Consumer Spending (Q2) |  | 1.6% | 0.5% |
-| 18 min | USD | Moderate | Retail Inventories Ex Auto (Aug) |  |  | 0.1% |
-| 18 min | USD | Low | Wholesale Inventories (MoM) (Aug) |  | 0.2% | 0.1% |
-| 18 min | CAD | Low | Average Weekly Earnings (YoY) (Jul) |  |  | 3.74% |
-| 48 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 15:00 | USD | High | Existing Home Sales (Aug) |  | 3.96M | 4.01M |
-| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Aug) |  |  | 2.0% |
-| 15:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 13:20 | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,926K | 1,930K | 1,928K |
+| 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Aug) | 0.4% | -0.1% | 1.1% |
+| 13:30 | USD | Moderate | Core PCE Prices (Q2) | 2.60% | 2.50% | 3.50% |
+| 13:30 | USD | Low | Corporate Profits (QoQ) (Q2) | 0.2% | 2.0% | -3.3% |
+| 13:30 | USD | High | Durable Goods Orders (MoM) (Aug) | 2.9% | -0.3% | -2.7% |
+| 13:30 | USD | Low | Durables Excluding Defense (MoM) (Aug) | 1.9% |  | -2.3% |
+| 13:30 | USD | High | GDP (QoQ) (Q2) | 3.8% | 3.3% | -0.5% |
+| 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q2) | 2.1% | 2.0% | 3.8% |
+| 13:30 | USD | Low | GDP Sales (Q2) | 7.5% | 6.8% | -3.1% |
+| 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Aug) | 0.6% | -0.1% | 0.8% |
+| 13:30 | USD | Moderate | Goods Trade Balance (Aug) | -85.50B | -95.70B | -103.60B |
+| 13:30 | USD | High | Initial Jobless Claims | 218K | 233K | 232K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 237.50K |  | 240.25K |
+| 13:30 | USD | Low | PCE Prices (Q2) | 2.1% | 2.0% | 3.7% |
+| 13:30 | USD | Low | Real Consumer Spending (Q2) | 2.5% | 1.6% | 0.5% |
+| 13:30 | USD | Moderate | Retail Inventories Ex Auto (Aug) | 0.3% |  | 0.2% |
+| 13:30 | USD | Low | Wholesale Inventories (MoM) (Aug) | -0.2% | 0.2% | 0.1% |
+| 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Jul) | 3.31% |  | 3.59% |
+| 14:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 46 min | USD | High | Existing Home Sales (Aug) |  | 3.96M | 4.01M |
+| 46 min | USD | Moderate | Existing Home Sales (MoM) (Aug) |  |  | 2.0% |
+| 46 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage |  | 76B | 90B |
 | 16:00 | USD | Low | KC Fed Composite Index (Sep) |  |  | 1 |
 | 16:00 | USD | Low | KC Fed Manufacturing Index (Sep) |  |  | 0 |

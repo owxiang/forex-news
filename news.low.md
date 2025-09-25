@@ -26,16 +26,16 @@
 | 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 13:00 | BRL | Mid-Month CPI (MoM) (Sep) | 0.48% | 0.51% | -0.14% |
 | 13:00 | BRL | Mid-Month CPI (YoY) (Sep) | 5.32% | 5.36% | 4.95% |
-| 8 min | USD | Fed Goolsbee Speaks |  |  |  |
-| 18 min | USD | Corporate Profits (QoQ) (Q2) |  | 2.0% | -3.3% |
-| 18 min | USD | Durables Excluding Defense (MoM) (Aug) |  |  | -2.5% |
-| 18 min | USD | GDP Sales (Q2) |  | 6.8% | -3.1% |
-| 18 min | USD | Goods Orders Non Defense Ex Air (MoM) (Aug) |  | -0.1% | 1.1% |
-| 18 min | USD | Jobless Claims 4-Week Avg. |  |  | 240.00K |
-| 18 min | USD | PCE Prices (Q2) |  | 2.0% | 3.7% |
-| 18 min | USD | Real Consumer Spending (Q2) |  | 1.6% | 0.5% |
-| 18 min | USD | Wholesale Inventories (MoM) (Aug) |  | 0.2% | 0.1% |
-| 18 min | CAD | Average Weekly Earnings (YoY) (Jul) |  |  | 3.74% |
+| 13:20 | USD | Fed Goolsbee Speaks |  |  |  |
+| 13:30 | USD | Corporate Profits (QoQ) (Q2) | 0.2% | 2.0% | -3.3% |
+| 13:30 | USD | Durables Excluding Defense (MoM) (Aug) | 1.9% |  | -2.3% |
+| 13:30 | USD | GDP Sales (Q2) | 7.5% | 6.8% | -3.1% |
+| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Aug) | 0.6% | -0.1% | 0.8% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 237.50K |  | 240.25K |
+| 13:30 | USD | PCE Prices (Q2) | 2.1% | 2.0% | 3.7% |
+| 13:30 | USD | Real Consumer Spending (Q2) | 2.5% | 1.6% | 0.5% |
+| 13:30 | USD | Wholesale Inventories (MoM) (Aug) | -0.2% | 0.2% | 0.1% |
+| 13:30 | CAD | Average Weekly Earnings (YoY) (Jul) | 3.31% |  | 3.59% |
 | 15:30 | USD | Natural Gas Storage |  | 76B | 90B |
 | 16:00 | USD | KC Fed Composite Index (Sep) |  |  | 1 |
 | 16:00 | USD | KC Fed Manufacturing Index (Sep) |  |  | 0 |
