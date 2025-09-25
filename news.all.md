@@ -4,14 +4,14 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 2.7% | 2.9% | 2.6% |
 | 00:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
-| 39 min | GBP | Low | Car Registration (YoY) (Aug) |  |  | -5.0% |
-| 39 min | GBP | Low | Car Registration (MoM) (Aug) |  |  | -26.7% |
-| 39 min | EUR | Low | Italian Car Registration (YoY) (Aug) |  |  | -5.1% |
-| 39 min | EUR | Low | Italian Car Registration (MoM) (Aug) |  |  | -10.4% |
-| 39 min | EUR | Low | German Car Registration (MoM) (Aug) |  |  | 3.4% |
-| 39 min | EUR | Low | German Car Registration (YoY) (Aug) |  |  | 11.1% |
-| 39 min | EUR | Low | French Car Registration (YoY) (Aug) |  |  | -7.7% |
-| 39 min | EUR | Low | French Car Registration (MoM) (Aug) |  |  | -31.3% |
+| 05:00 | GBP | Low | Car Registration (YoY) (Aug) | -2.0% |  | -5.0% |
+| 05:00 | GBP | Low | Car Registration (MoM) (Aug) | -40.8% |  | -26.7% |
+| 05:00 | EUR | Low | Italian Car Registration (YoY) (Aug) | -2.7% |  | -5.1% |
+| 05:00 | EUR | Low | Italian Car Registration (MoM) (Aug) | -43.2% |  | -10.4% |
+| 05:00 | EUR | Low | German Car Registration (MoM) (Aug) | -21.7% |  | 3.4% |
+| 05:00 | EUR | Low | German Car Registration (YoY) (Aug) | 5.0% |  | 11.1% |
+| 05:00 | EUR | Low | French Car Registration (YoY) (Aug) | 2.2% |  | -7.7% |
+| 05:00 | EUR | Low | French Car Registration (MoM) (Aug) | -24.5% |  | -31.3% |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Oct) |  | -23.3 | -23.6 |
 | 07:00 | NOK | Low | Unemployment Rate (Aug) |  |  | 4.5% |
 | 07:45 | EUR | Low | French Consumer Confidence (Sep) |  | 87 | 87 |
