@@ -4,16 +4,16 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 2.7% | 2.9% | 2.6% |
 | 00:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
-| 05:00 | GBP | Low | Car Registration (YoY) (Aug) | -2.0% |  | -5.0% |
 | 05:00 | GBP | Low | Car Registration (MoM) (Aug) | -40.8% |  | -26.7% |
-| 05:00 | EUR | Low | Italian Car Registration (YoY) (Aug) | -2.7% |  | -5.1% |
+| 05:00 | GBP | Low | Car Registration (YoY) (Aug) | -2.0% |  | -5.0% |
 | 05:00 | EUR | Low | Italian Car Registration (MoM) (Aug) | -43.2% |  | -10.4% |
+| 05:00 | EUR | Low | Italian Car Registration (YoY) (Aug) | -2.7% |  | -5.1% |
 | 05:00 | EUR | Low | German Car Registration (MoM) (Aug) | -21.7% |  | 3.4% |
 | 05:00 | EUR | Low | German Car Registration (YoY) (Aug) | 5.0% |  | 11.1% |
-| 05:00 | EUR | Low | French Car Registration (YoY) (Aug) | 2.2% |  | -7.7% |
 | 05:00 | EUR | Low | French Car Registration (MoM) (Aug) | -24.5% |  | -31.3% |
-| 07:00 | EUR | Moderate | GfK German Consumer Climate (Oct) |  | -23.3 | -23.6 |
-| 07:00 | NOK | Low | Unemployment Rate (Aug) |  |  | 4.5% |
+| 05:00 | EUR | Low | French Car Registration (YoY) (Aug) | 2.2% |  | -7.7% |
+| 53 min | EUR | Moderate | GfK German Consumer Climate (Oct) |  | -23.3 | -23.6 |
+| 53 min | NOK | Low | Unemployment Rate (Aug) |  |  | 4.5% |
 | 07:45 | EUR | Low | French Consumer Confidence (Sep) |  | 87 | 87 |
 | 08:30 | CHF | High | SNB Interest Rate Decision (Q3) |  | 0.00% | 0.00% |
 | 08:30 | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
@@ -26,8 +26,8 @@
 | 09:30 | HKD | Low | Imports (MoM) (Aug) |  |  | 16.5% |
 | 09:30 | HKD | Low | Trade Balance (Aug) |  |  | -34.1B |
 | 10:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 2.012% |
-| 10:30 | ZAR | Low | PPI (YoY) (Aug) |  |  | 1.5% |
 | 10:30 | ZAR | Low | PPI (MoM) (Aug) |  |  | 0.7% |
+| 10:30 | ZAR | Low | PPI (YoY) (Aug) |  |  | 1.5% |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Sep) |  | -31 | -32 |
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
 | 13:00 | BRL | Low | Mid-Month CPI (MoM) (Sep) |  | 0.51% | -0.14% |
@@ -67,3 +67,4 @@
 | 20:30 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,609B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.020T |
+| 22:00 | KRW | Low | Manufacturing BSI Index (Sep) |  |  | 70 |

@@ -3,15 +3,15 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) | 2.7% | 2.9% | 2.6% |
-| 05:00 | GBP | Car Registration (YoY) (Aug) | -2.0% |  | -5.0% |
 | 05:00 | GBP | Car Registration (MoM) (Aug) | -40.8% |  | -26.7% |
-| 05:00 | EUR | Italian Car Registration (YoY) (Aug) | -2.7% |  | -5.1% |
+| 05:00 | GBP | Car Registration (YoY) (Aug) | -2.0% |  | -5.0% |
 | 05:00 | EUR | Italian Car Registration (MoM) (Aug) | -43.2% |  | -10.4% |
+| 05:00 | EUR | Italian Car Registration (YoY) (Aug) | -2.7% |  | -5.1% |
 | 05:00 | EUR | German Car Registration (MoM) (Aug) | -21.7% |  | 3.4% |
 | 05:00 | EUR | German Car Registration (YoY) (Aug) | 5.0% |  | 11.1% |
-| 05:00 | EUR | French Car Registration (YoY) (Aug) | 2.2% |  | -7.7% |
 | 05:00 | EUR | French Car Registration (MoM) (Aug) | -24.5% |  | -31.3% |
-| 07:00 | NOK | Unemployment Rate (Aug) |  |  | 4.5% |
+| 05:00 | EUR | French Car Registration (YoY) (Aug) | 2.2% |  | -7.7% |
+| 53 min | NOK | Unemployment Rate (Aug) |  |  | 4.5% |
 | 07:45 | EUR | French Consumer Confidence (Sep) |  | 87 | 87 |
 | 09:00 | EUR | M3 Money Supply (YoY) (Aug) |  | 3.3% | 3.4% |
 | 09:00 | EUR | Loans to Non Financial Corporations (Aug) |  |  | 2.8% |
@@ -20,8 +20,8 @@
 | 09:30 | HKD | Imports (MoM) (Aug) |  |  | 16.5% |
 | 09:30 | HKD | Trade Balance (Aug) |  |  | -34.1B |
 | 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 2.012% |
-| 10:30 | ZAR | PPI (YoY) (Aug) |  |  | 1.5% |
 | 10:30 | ZAR | PPI (MoM) (Aug) |  |  | 0.7% |
+| 10:30 | ZAR | PPI (YoY) (Aug) |  |  | 1.5% |
 | 11:00 | GBP | CBI Distributive Trades Survey (Sep) |  | -31 | -32 |
 | 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 13:00 | BRL | Mid-Month CPI (MoM) (Sep) |  | 0.51% | -0.14% |
@@ -43,3 +43,4 @@
 | 16:30 | USD | 8-Week Bill Auction |  |  | 3.965% |
 | 18:40 | USD | Fed Logan Speaks |  |  |  |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.020T |
+| 22:00 | KRW | Manufacturing BSI Index (Sep) |  |  | 70 |

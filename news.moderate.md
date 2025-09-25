@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Monetary Policy Meeting Minutes |  |  |  |
-| 07:00 | EUR | GfK German Consumer Climate (Oct) |  | -23.3 | -23.6 |
+| 53 min | EUR | GfK German Consumer Climate (Oct) |  | -23.3 | -23.6 |
 | 08:30 | CHF | SNB Monetary Policy Assessment |  |  |  |
 | 09:00 | CHF | SNB Press Conference |  |  |  |
 | 09:00 | EUR | ECB Economic Bulletin |  |  |  |
