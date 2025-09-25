@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) | 2.7% | 2.9% | 2.6% |
-| 05:00 | GBP | Car Registration (MoM) (Aug) | -40.8% |  | -26.7% |
 | 05:00 | GBP | Car Registration (YoY) (Aug) | -2.0% |  | -5.0% |
+| 05:00 | GBP | Car Registration (MoM) (Aug) | -40.8% |  | -26.7% |
 | 05:00 | EUR | Italian Car Registration (MoM) (Aug) | -43.2% |  | -10.4% |
 | 05:00 | EUR | Italian Car Registration (YoY) (Aug) | -2.7% |  | -5.1% |
 | 05:00 | EUR | German Car Registration (MoM) (Aug) | -21.7% |  | 3.4% |
@@ -20,8 +20,8 @@
 | 09:30 | HKD | Imports (MoM) (Aug) | 11.5% |  | 16.5% |
 | 09:30 | HKD | Trade Balance (Aug) | -25.4B |  | -34.1B |
 | 10:10 | EUR | Italian 6-Month BOT Auction | 2.044% |  | 2.012% |
-| 10:30 | ZAR | PPI (MoM) (Aug) | 0.3% |  | 0.7% |
 | 10:30 | ZAR | PPI (YoY) (Aug) | 2.1% | 1.8% | 1.5% |
+| 10:30 | ZAR | PPI (MoM) (Aug) | 0.3% |  | 0.7% |
 | 11:00 | GBP | CBI Distributive Trades Survey (Sep) | -29 | -31 | -32 |
 | 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 13:00 | BRL | Mid-Month CPI (MoM) (Sep) | 0.48% | 0.51% | -0.14% |
