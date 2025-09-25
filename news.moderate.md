@@ -16,8 +16,8 @@
 | 14:00 | USD | FOMC Member Williams Speaks |  |  |  |
 | 15:00 | USD | Existing Home Sales (MoM) (Aug) | -0.2% |  | 2.0% |
 | 15:00 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 52 min | USD | 7-Year Note Auction |  |  | 3.925% |
-| 52 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 18:00 | USD | 7-Year Note Auction |  |  | 3.925% |
+| 18:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 20:00 | MXN | Interest Rate Decision (Sep) |  | 7.50% | 7.75% |
 | 20:30 | USD | FOMC Member Daly Speaks |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,609B |
