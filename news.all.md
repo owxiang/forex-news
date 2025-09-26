@@ -8,8 +8,8 @@
 | 00:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Sep) | -0.7% |  | 0.4% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | 817.2B |  | 1,479.7B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -1,747.5B |  | -2,032.8B |
-| 06:00 | SGD | Low | Industrial Production (MoM) (Aug) | -9.7% | -4.6% | 8.8% |
 | 06:00 | SGD | Low | Industrial Production (YoY) (Aug) | -7.8% | -2.5% | 7.7% |
+| 06:00 | SGD | Low | Industrial Production (MoM) (Aug) | -9.7% | -4.6% | 8.8% |
 | 06:30 | JPY | Moderate | BoJ Board Member Noguchi Speaks |  |  |  |
 | 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q2) | 0.8% | 0.7% | 0.6% |
 | 08:00 | EUR | Low | Spanish GDP (YoY) (Q2) | 3.1% | 2.8% | 3.2% |
@@ -19,15 +19,15 @@
 | 10:10 | EUR | Low | Italian 5-Year BTP Auction | 2.94% |  | 2.80% |
 | 10:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 11:00 | EUR | Moderate | France Jobseekers Total (Aug) | 3,021.8K |  | 3,033.5K |
-| 12:30 | INR | Low | Bank Loan Growth |  |  | 10.0% |
-| 12:30 | INR | Low | Deposit Growth |  |  | 10.2% |
-| 12:30 | INR | Low | FX Reserves, USD |  |  | 702.97B |
-| 12:30 | BRL | Low | Current Account (USD) (Aug) |  | -5.50B | -7.07B |
-| 12:30 | BRL | Low | Foreign direct investment (USD) (Aug) |  | 6.20B | 8.32B |
-| 13:00 | MXN | Low | Trade Balance (Aug) |  | -1.200B | -0.017B |
-| 13:00 | MXN | Low | Trade Balance (USD) (Aug) |  |  | 0.296B |
-| 13:30 | USD | High | Core PCE Price Index (MoM) (Aug) |  | 0.2% | 0.3% |
+| 24 min | INR | Low | Bank Loan Growth |  |  | 10.0% |
+| 24 min | INR | Low | Deposit Growth |  |  | 10.2% |
+| 24 min | INR | Low | FX Reserves, USD |  |  | 702.97B |
+| 24 min | BRL | Low | Current Account (USD) (Aug) |  | -5.50B | -7.07B |
+| 24 min | BRL | Low | Foreign direct investment (USD) (Aug) |  | 6.20B | 8.32B |
+| 54 min | MXN | Low | Trade Balance (Aug) |  | -1.200B | -0.017B |
+| 54 min | MXN | Low | Trade Balance (USD) (Aug) |  |  | 0.296B |
 | 13:30 | USD | High | Core PCE Price Index (YoY) (Aug) |  | 2.9% | 2.9% |
+| 13:30 | USD | High | Core PCE Price Index (MoM) (Aug) |  | 0.2% | 0.3% |
 | 13:30 | USD | Moderate | PCE Price index (YoY) (Aug) |  | 2.7% | 2.6% |
 | 13:30 | USD | Moderate | PCE price index (MoM) (Aug) |  | 0.3% | 0.2% |
 | 13:30 | USD | Low | Personal Income (MoM) (Aug) |  | 0.3% | 0.4% |
