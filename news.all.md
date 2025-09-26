@@ -26,8 +26,8 @@
 | 12:30 | BRL | Low | Foreign direct investment (USD) (Aug) |  | 6.20B | 8.32B |
 | 13:00 | MXN | Low | Trade Balance (Aug) |  | -1.200B | -0.017B |
 | 13:00 | MXN | Low | Trade Balance (USD) (Aug) |  |  | 0.296B |
-| 13:30 | USD | High | Core PCE Price Index (MoM) (Aug) |  | 0.2% | 0.3% |
 | 13:30 | USD | High | Core PCE Price Index (YoY) (Aug) |  | 2.9% | 2.9% |
+| 13:30 | USD | High | Core PCE Price Index (MoM) (Aug) |  | 0.2% | 0.3% |
 | 13:30 | USD | Moderate | PCE Price index (YoY) (Aug) |  | 2.7% | 2.6% |
 | 13:30 | USD | Moderate | PCE price index (MoM) (Aug) |  | 0.3% | 0.2% |
 | 13:30 | USD | Low | Personal Income (MoM) (Aug) |  | 0.3% | 0.4% |
