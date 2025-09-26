@@ -8,16 +8,16 @@
 | 10:10 | EUR | Italian 10-Year BTP Auction | 3.62% |  | 3.58% |
 | 10:30 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 11:00 | EUR | France Jobseekers Total (Aug) | 3,021.8K |  | 3,033.5K |
-| 19 min | USD | PCE Price index (YoY) (Aug) |  | 2.7% | 2.6% |
-| 19 min | USD | PCE price index (MoM) (Aug) |  | 0.3% | 0.2% |
-| 19 min | USD | Personal Spending (MoM) (Aug) |  | 0.5% | 0.5% |
-| 19 min | CAD | GDP (MoM) (Jul) |  | 0.1% | -0.1% |
-| 19 min | CAD | Wholesale Sales (MoM) (Aug) |  |  | 1.2% |
-| 20 min | CAD | GDP (MoM) (Aug) |  |  |  |
-| 15:00 | USD | Michigan 1-Year Inflation Expectations (Sep) |  | 4.8% | 4.8% |
-| 15:00 | USD | Michigan 5-Year Inflation Expectations (Sep) |  | 3.9% | 3.5% |
-| 15:00 | USD | Michigan Consumer Expectations (Sep) |  | 51.8 | 55.9 |
-| 15:00 | USD | Michigan Consumer Sentiment (Sep) |  | 55.4 | 58.2 |
+| 13:30 | USD | PCE Price index (YoY) (Aug) | 2.7% | 2.7% | 2.6% |
+| 13:30 | USD | PCE price index (MoM) (Aug) | 0.3% | 0.3% | 0.2% |
+| 13:30 | USD | Personal Spending (MoM) (Aug) | 0.6% | 0.5% | 0.5% |
+| 13:30 | CAD | GDP (MoM) (Jul) | 0.2% | 0.1% | -0.1% |
+| 13:30 | CAD | Wholesale Sales (MoM) (Aug) | -1.3% |  | 1.2% |
+| 13:31 | CAD | GDP (MoM) (Aug) | 0.0% |  | 0.2% |
+| 47 min | USD | Michigan 1-Year Inflation Expectations (Sep) |  | 4.8% | 4.8% |
+| 47 min | USD | Michigan 5-Year Inflation Expectations (Sep) |  | 3.9% | 3.5% |
+| 47 min | USD | Michigan Consumer Expectations (Sep) |  | 51.8 | 55.9 |
+| 47 min | USD | Michigan Consumer Sentiment (Sep) |  | 55.4 | 58.2 |
 | 16:30 | USD | Atlanta Fed GDPNow (Q3) |  | 3.3% | 3.3% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 418 |
 | 18:00 | USD | FOMC Member Bowman Speaks |  |  |  |
