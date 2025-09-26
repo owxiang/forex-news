@@ -2,17 +2,17 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 24 min | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Sep) |  |  | 1.5% |
-| 24 min | JPY | Moderate | Tokyo Core CPI (YoY) (Sep) |  | 2.8% | 2.5% |
-| 24 min | JPY | Low | Tokyo CPI (YoY) (Sep) |  |  | 2.6% |
-| 24 min | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Sep) |  |  | 0.4% |
-| 44 min | JPY | Low | Foreign Bonds Buying |  |  | 1,478.5B |
-| 44 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -2,034.0B |
-| 06:00 | SGD | Low | Industrial Production (YoY) (Aug) |  | -2.5% | 7.1% |
+| 00:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Sep) | 1.0% |  | 3.0% |
+| 00:30 | JPY | Moderate | Tokyo Core CPI (YoY) (Sep) | 2.5% | 2.8% | 2.5% |
+| 00:30 | JPY | Low | Tokyo CPI (YoY) (Sep) | 2.5% |  | 2.5% |
+| 00:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Sep) | -0.7% |  | 0.4% |
+| 00:50 | JPY | Low | Foreign Bonds Buying | 817.2B |  | 1,479.7B |
+| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -1,747.5B |  | -2,032.8B |
 | 06:00 | SGD | Low | Industrial Production (MoM) (Aug) |  |  | 8.2% |
+| 06:00 | SGD | Low | Industrial Production (YoY) (Aug) |  | -2.5% | 7.1% |
 | 06:30 | JPY | Moderate | BoJ Board Member Noguchi Speaks |  |  |  |
-| 08:00 | EUR | Low | Spanish GDP (YoY) (Q2) |  | 2.8% | 2.8% |
 | 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q2) |  | 0.7% | 0.7% |
+| 08:00 | EUR | Low | Spanish GDP (YoY) (Q2) |  | 2.8% | 2.8% |
 | 09:00 | EUR | Low | Italian Business Confidence (Sep) |  | 87.5 | 87.4 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Sep) |  |  | 96.2 |
 | 10:30 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 3.58% |
@@ -26,15 +26,15 @@
 | 12:30 | BRL | Low | Foreign direct investment (USD) (Aug) |  | 6.20B | 8.32B |
 | 13:00 | MXN | Low | Trade Balance (Aug) |  | -1.200B | -0.017B |
 | 13:00 | MXN | Low | Trade Balance (USD) (Aug) |  |  | 0.296B |
-| 13:30 | USD | High | Core PCE Price Index (MoM) (Aug) |  | 0.2% | 0.3% |
 | 13:30 | USD | High | Core PCE Price Index (YoY) (Aug) |  | 2.9% | 2.9% |
+| 13:30 | USD | High | Core PCE Price Index (MoM) (Aug) |  | 0.2% | 0.3% |
 | 13:30 | USD | Moderate | PCE Price index (YoY) (Aug) |  | 2.7% | 2.6% |
 | 13:30 | USD | Moderate | PCE price index (MoM) (Aug) |  | 0.3% | 0.2% |
 | 13:30 | USD | Low | Personal Income (MoM) (Aug) |  | 0.3% | 0.4% |
 | 13:30 | USD | Moderate | Personal Spending (MoM) (Aug) |  | 0.5% | 0.5% |
 | 13:30 | USD | Low | Real Personal Consumption (MoM) (Aug) |  |  | 0.3% |
-| 13:30 | CAD | Moderate | GDP (MoM) (Jul) |  |  | -0.1% |
 | 13:30 | CAD | Moderate | GDP (MoM) (Jul) |  | 0.1% | -0.1% |
+| 13:30 | CAD | Moderate | GDP (MoM) (Jul) |  |  | -0.1% |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Aug) |  |  | 1.2% |
 | 14:00 | USD | Low | Dallas Fed PCE (Aug) |  |  | 1.90% |
 | 14:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
@@ -43,8 +43,8 @@
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Sep) |  | 51.8 | 55.9 |
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Sep) |  | 55.4 | 58.2 |
 | 15:00 | USD | Low | Michigan Current Conditions (Sep) |  | 61.2 | 61.7 |
-| 16:00 | CAD | Low | Budget Balance (YoY) (Jul) |  |  | -3.34B |
 | 16:00 | CAD | Low | Budget Balance (Jul) |  |  | 3.63B |
+| 16:00 | CAD | Low | Budget Balance (YoY) (Jul) |  |  | -3.34B |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 3.3% | 3.3% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 418 |
 | 18:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
