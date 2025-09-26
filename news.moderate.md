@@ -5,9 +5,9 @@
 | 00:30 | JPY | Tokyo Core CPI (YoY) (Sep) | 2.5% | 2.8% | 2.5% |
 | 06:30 | JPY | BoJ Board Member Noguchi Speaks |  |  |  |
 | 08:00 | EUR | Spanish GDP (QoQ) (Q2) | 0.8% | 0.7% | 0.6% |
-| 22 min | EUR | Italian 10-Year BTP Auction |  |  | 3.58% |
-| 22 min | EUR | ECB President Lagarde Speaks |  |  |  |
-| 52 min | EUR | France Jobseekers Total (Aug) |  |  | 3,033.5K |
+| 10:10 | EUR | Italian 10-Year BTP Auction | 3.62% |  | 3.58% |
+| 10:30 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 11:00 | EUR | France Jobseekers Total (Aug) | 3,021.8K |  | 3,033.5K |
 | 13:30 | USD | PCE Price index (YoY) (Aug) |  | 2.7% | 2.6% |
 | 13:30 | USD | PCE price index (MoM) (Aug) |  | 0.3% | 0.2% |
 | 13:30 | USD | Personal Spending (MoM) (Aug) |  | 0.5% | 0.5% |

@@ -15,10 +15,10 @@
 | 08:00 | EUR | Low | Spanish GDP (YoY) (Q2) | 3.1% | 2.8% | 3.2% |
 | 09:00 | EUR | Low | Italian Business Confidence (Sep) | 87.3 | 87.5 | 87.3 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Sep) | 96.8 | 96.5 | 96.2 |
-| 22 min | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 3.58% |
-| 22 min | EUR | Low | Italian 5-Year BTP Auction |  |  | 2.80% |
-| 22 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 52 min | EUR | Moderate | France Jobseekers Total (Aug) |  |  | 3,033.5K |
+| 10:10 | EUR | Moderate | Italian 10-Year BTP Auction | 3.62% |  | 3.58% |
+| 10:10 | EUR | Low | Italian 5-Year BTP Auction | 2.94% |  | 2.80% |
+| 10:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 11:00 | EUR | Moderate | France Jobseekers Total (Aug) | 3,021.8K |  | 3,033.5K |
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 10.0% |
 | 12:30 | INR | Low | Deposit Growth |  |  | 10.2% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 702.97B |
