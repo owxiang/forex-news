@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | Tokyo Core CPI (YoY) (Sep) | 2.5% | 2.8% | 2.5% |
-| 23 min | JPY | BoJ Board Member Noguchi Speaks |  |  |  |
-| 08:00 | EUR | Spanish GDP (QoQ) (Q2) |  | 0.7% | 0.7% |
+| 06:30 | JPY | BoJ Board Member Noguchi Speaks |  |  |  |
+| 51 min | EUR | Spanish GDP (QoQ) (Q2) |  | 0.7% | 0.6% |
 | 10:30 | EUR | Italian 10-Year BTP Auction |  |  | 3.58% |
 | 10:30 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 11:00 | EUR | France Jobseekers Total (Aug) |  |  | 3,033.5K |
@@ -12,8 +12,8 @@
 | 13:30 | USD | PCE price index (MoM) (Aug) |  | 0.3% | 0.2% |
 | 13:30 | USD | Personal Spending (MoM) (Aug) |  | 0.5% | 0.5% |
 | 13:30 | CAD | GDP (MoM) (Jul) |  | 0.1% | -0.1% |
-| 13:30 | CAD | GDP (MoM) (Jul) |  |  | -0.1% |
 | 13:30 | CAD | Wholesale Sales (MoM) (Aug) |  |  | 1.2% |
+| 13:31 | CAD | GDP (MoM) (Aug) |  |  |  |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Sep) |  | 4.8% | 4.8% |
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Sep) |  | 3.9% | 3.5% |
 | 15:00 | USD | Michigan Consumer Expectations (Sep) |  | 51.8 | 55.9 |
