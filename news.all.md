@@ -8,8 +8,8 @@
 | 00:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Sep) | -0.7% |  | 0.4% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | 817.2B |  | 1,479.7B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -1,747.5B |  | -2,032.8B |
-| 06:00 | SGD | Low | Industrial Production (YoY) (Aug) | -7.8% | -2.5% | 7.7% |
 | 06:00 | SGD | Low | Industrial Production (MoM) (Aug) | -9.7% | -4.6% | 8.8% |
+| 06:00 | SGD | Low | Industrial Production (YoY) (Aug) | -7.8% | -2.5% | 7.7% |
 | 06:30 | JPY | Moderate | BoJ Board Member Noguchi Speaks |  |  |  |
 | 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q2) | 0.8% | 0.7% | 0.6% |
 | 08:00 | EUR | Low | Spanish GDP (YoY) (Q2) | 3.1% | 2.8% | 3.2% |
@@ -26,8 +26,8 @@
 | 12:30 | BRL | Low | Foreign direct investment (USD) (Aug) | 7.99B | 6.20B | 8.32B |
 | 13:00 | MXN | Low | Trade Balance (Aug) | -1.944B | -1.200B | -0.017B |
 | 13:00 | MXN | Low | Trade Balance (USD) (Aug) | 0.609B |  | 0.219B |
-| 13:30 | USD | High | Core PCE Price Index (YoY) (Aug) | 2.9% | 2.9% | 2.9% |
 | 13:30 | USD | High | Core PCE Price Index (MoM) (Aug) | 0.2% | 0.2% | 0.2% |
+| 13:30 | USD | High | Core PCE Price Index (YoY) (Aug) | 2.9% | 2.9% | 2.9% |
 | 13:30 | USD | Moderate | PCE Price index (YoY) (Aug) | 2.7% | 2.7% | 2.6% |
 | 13:30 | USD | Moderate | PCE price index (MoM) (Aug) | 0.3% | 0.3% | 0.2% |
 | 13:30 | USD | Low | Personal Income (MoM) (Aug) | 0.4% | 0.3% | 0.4% |
@@ -37,13 +37,13 @@
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Aug) | -1.3% |  | 1.2% |
 | 13:31 | CAD | Moderate | GDP (MoM) (Aug) | 0.0% |  | 0.2% |
 | 14:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 47 min | USD | Moderate | Michigan 1-Year Inflation Expectations (Sep) |  | 4.8% | 4.8% |
-| 47 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Sep) |  | 3.9% | 3.5% |
-| 47 min | USD | Moderate | Michigan Consumer Expectations (Sep) |  | 51.8 | 55.9 |
-| 47 min | USD | Moderate | Michigan Consumer Sentiment (Sep) |  | 55.4 | 58.2 |
-| 47 min | USD | Low | Michigan Current Conditions (Sep) |  | 61.2 | 61.7 |
-| 16:00 | CAD | Low | Budget Balance (YoY) (Jul) |  |  | -3.34B |
-| 16:00 | CAD | Low | Budget Balance (Jul) |  |  | 3.63B |
+| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Sep) | 4.7% | 4.8% | 4.8% |
+| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Sep) | 3.7% | 3.9% | 3.5% |
+| 15:00 | USD | Moderate | Michigan Consumer Expectations (Sep) | 51.7 | 51.8 | 55.9 |
+| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Sep) | 55.1 | 55.4 | 58.2 |
+| 15:00 | USD | Low | Michigan Current Conditions (Sep) | 60.4 | 61.2 | 61.7 |
+| 54 min | CAD | Low | Budget Balance (YoY) (Jul) |  |  | -3.34B |
+| 54 min | CAD | Low | Budget Balance (Jul) |  |  | 3.63B |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 3.3% | 3.3% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 418 |
 | 18:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |

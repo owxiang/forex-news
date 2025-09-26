@@ -14,10 +14,10 @@
 | 13:30 | CAD | GDP (MoM) (Jul) | 0.2% | 0.1% | -0.1% |
 | 13:30 | CAD | Wholesale Sales (MoM) (Aug) | -1.3% |  | 1.2% |
 | 13:31 | CAD | GDP (MoM) (Aug) | 0.0% |  | 0.2% |
-| 47 min | USD | Michigan 1-Year Inflation Expectations (Sep) |  | 4.8% | 4.8% |
-| 47 min | USD | Michigan 5-Year Inflation Expectations (Sep) |  | 3.9% | 3.5% |
-| 47 min | USD | Michigan Consumer Expectations (Sep) |  | 51.8 | 55.9 |
-| 47 min | USD | Michigan Consumer Sentiment (Sep) |  | 55.4 | 58.2 |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (Sep) | 4.7% | 4.8% | 4.8% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (Sep) | 3.7% | 3.9% | 3.5% |
+| 15:00 | USD | Michigan Consumer Expectations (Sep) | 51.7 | 51.8 | 55.9 |
+| 15:00 | USD | Michigan Consumer Sentiment (Sep) | 55.1 | 55.4 | 58.2 |
 | 16:30 | USD | Atlanta Fed GDPNow (Q3) |  | 3.3% | 3.3% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 418 |
 | 18:00 | USD | FOMC Member Bowman Speaks |  |  |  |
