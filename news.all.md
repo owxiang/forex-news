@@ -28,8 +28,8 @@
 | 13:00 | MXN | Low | Trade Balance (USD) (Aug) |  |  | 0.296B |
 | 13:30 | USD | High | Core PCE Price Index (MoM) (Aug) |  | 0.2% | 0.3% |
 | 13:30 | USD | High | Core PCE Price Index (YoY) (Aug) |  | 2.9% | 2.9% |
-| 13:30 | USD | Moderate | PCE price index (MoM) (Aug) |  | 0.3% | 0.2% |
 | 13:30 | USD | Moderate | PCE Price index (YoY) (Aug) |  | 2.7% | 2.6% |
+| 13:30 | USD | Moderate | PCE price index (MoM) (Aug) |  | 0.3% | 0.2% |
 | 13:30 | USD | Low | Personal Income (MoM) (Aug) |  | 0.3% | 0.4% |
 | 13:30 | USD | Moderate | Personal Spending (MoM) (Aug) |  | 0.5% | 0.5% |
 | 13:30 | USD | Low | Real Personal Consumption (MoM) (Aug) |  |  | 0.3% |

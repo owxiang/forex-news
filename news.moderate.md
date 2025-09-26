@@ -8,8 +8,8 @@
 | 10:30 | EUR | Italian 10-Year BTP Auction |  |  | 3.58% |
 | 10:30 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 11:00 | EUR | France Jobseekers Total (Aug) |  |  | 3,033.5K |
-| 13:30 | USD | PCE price index (MoM) (Aug) |  | 0.3% | 0.2% |
 | 13:30 | USD | PCE Price index (YoY) (Aug) |  | 2.7% | 2.6% |
+| 13:30 | USD | PCE price index (MoM) (Aug) |  | 0.3% | 0.2% |
 | 13:30 | USD | Personal Spending (MoM) (Aug) |  | 0.5% | 0.5% |
 | 13:30 | CAD | GDP (MoM) (Jul) |  | 0.1% | -0.1% |
 | 13:30 | CAD | GDP (MoM) (Jul) |  |  | -0.1% |
