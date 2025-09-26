@@ -8,9 +8,9 @@
 | 00:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Sep) | -0.7% |  | 0.4% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | 817.2B |  | 1,479.7B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -1,747.5B |  | -2,032.8B |
-| 52 min | SGD | Low | Industrial Production (MoM) (Aug) |  |  | 8.2% |
-| 52 min | SGD | Low | Industrial Production (YoY) (Aug) |  | -2.5% | 7.1% |
-| 06:30 | JPY | Moderate | BoJ Board Member Noguchi Speaks |  |  |  |
+| 06:00 | SGD | Low | Industrial Production (MoM) (Aug) | -9.7% |  | 8.2% |
+| 06:00 | SGD | Low | Industrial Production (YoY) (Aug) | -7.8% | -2.5% | 7.1% |
+| 23 min | JPY | Moderate | BoJ Board Member Noguchi Speaks |  |  |  |
 | 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q2) |  | 0.7% | 0.7% |
 | 08:00 | EUR | Low | Spanish GDP (YoY) (Q2) |  | 2.8% | 2.8% |
 | 09:00 | EUR | Low | Italian Business Confidence (Sep) |  | 87.5 | 87.4 |

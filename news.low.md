@@ -7,8 +7,8 @@
 | 00:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Sep) | -0.7% |  | 0.4% |
 | 00:50 | JPY | Foreign Bonds Buying | 817.2B |  | 1,479.7B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | -1,747.5B |  | -2,032.8B |
-| 52 min | SGD | Industrial Production (MoM) (Aug) |  |  | 8.2% |
-| 52 min | SGD | Industrial Production (YoY) (Aug) |  | -2.5% | 7.1% |
+| 06:00 | SGD | Industrial Production (MoM) (Aug) | -9.7% |  | 8.2% |
+| 06:00 | SGD | Industrial Production (YoY) (Aug) | -7.8% | -2.5% | 7.1% |
 | 08:00 | EUR | Spanish GDP (YoY) (Q2) |  | 2.8% | 2.8% |
 | 09:00 | EUR | Italian Business Confidence (Sep) |  | 87.5 | 87.4 |
 | 09:00 | EUR | Italian Consumer Confidence (Sep) |  |  | 96.2 |

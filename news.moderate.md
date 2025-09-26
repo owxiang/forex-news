@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | Tokyo Core CPI (YoY) (Sep) | 2.5% | 2.8% | 2.5% |
-| 06:30 | JPY | BoJ Board Member Noguchi Speaks |  |  |  |
+| 23 min | JPY | BoJ Board Member Noguchi Speaks |  |  |  |
 | 08:00 | EUR | Spanish GDP (QoQ) (Q2) |  | 0.7% | 0.7% |
 | 10:30 | EUR | Italian 10-Year BTP Auction |  |  | 3.58% |
 | 10:30 | EUR | ECB President Lagarde Speaks |  |  |  |
