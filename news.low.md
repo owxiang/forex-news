@@ -12,7 +12,7 @@
 | 08:00 | EUR | Spanish GDP (YoY) (Q2) | 3.1% | 2.8% | 3.2% |
 | 09:00 | EUR | Italian Business Confidence (Sep) | 87.3 | 87.5 | 87.3 |
 | 09:00 | EUR | Italian Consumer Confidence (Sep) | 96.8 | 96.5 | 96.2 |
-| 10:30 | EUR | Italian 5-Year BTP Auction |  |  | 2.80% |
+| 22 min | EUR | Italian 5-Year BTP Auction |  |  | 2.80% |
 | 12:30 | INR | Bank Loan Growth |  |  | 10.0% |
 | 12:30 | INR | Deposit Growth |  |  | 10.2% |
 | 12:30 | INR | FX Reserves, USD |  |  | 702.97B |
@@ -24,8 +24,8 @@
 | 13:30 | USD | Real Personal Consumption (MoM) (Aug) |  |  | 0.3% |
 | 14:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 15:00 | USD | Michigan Current Conditions (Sep) |  | 61.2 | 61.7 |
-| 16:00 | CAD | Budget Balance (Jul) |  |  | 3.63B |
 | 16:00 | CAD | Budget Balance (YoY) (Jul) |  |  | -3.34B |
+| 16:00 | CAD | Budget Balance (Jul) |  |  | 3.63B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.2K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 30.3K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -36.2K |
