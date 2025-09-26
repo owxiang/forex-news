@@ -1,6 +1,3 @@
-## 26 September 2025 - High Impact Forex News
+## 27 September 2025 - High Impact Forex News
 
-| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
-|------|----------|-------|--------|----------|----------|
-| 13:30 | USD | Core PCE Price Index (MoM) (Aug) | 0.2% | 0.2% | 0.2% |
-| 13:30 | USD | Core PCE Price Index (YoY) (Aug) | 2.9% | 2.9% | 2.9% |
+There is no high impact news today.
