@@ -2,14 +2,14 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Sep) | 1.0% |  | 3.0% |
+| 00:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Sep) | 1.0% |  | 1.5% |
 | 00:30 | JPY | Moderate | Tokyo Core CPI (YoY) (Sep) | 2.5% | 2.8% | 2.5% |
 | 00:30 | JPY | Low | Tokyo CPI (YoY) (Sep) | 2.5% |  | 2.5% |
 | 00:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Sep) | -0.7% |  | 0.4% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | 817.2B |  | 1,479.7B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -1,747.5B |  | -2,032.8B |
-| 06:00 | SGD | Low | Industrial Production (MoM) (Aug) |  |  | 8.2% |
 | 06:00 | SGD | Low | Industrial Production (YoY) (Aug) |  | -2.5% | 7.1% |
+| 06:00 | SGD | Low | Industrial Production (MoM) (Aug) |  |  | 8.2% |
 | 06:30 | JPY | Moderate | BoJ Board Member Noguchi Speaks |  |  |  |
 | 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q2) |  | 0.7% | 0.7% |
 | 08:00 | EUR | Low | Spanish GDP (YoY) (Q2) |  | 2.8% | 2.8% |
@@ -26,10 +26,10 @@
 | 12:30 | BRL | Low | Foreign direct investment (USD) (Aug) |  | 6.20B | 8.32B |
 | 13:00 | MXN | Low | Trade Balance (Aug) |  | -1.200B | -0.017B |
 | 13:00 | MXN | Low | Trade Balance (USD) (Aug) |  |  | 0.296B |
-| 13:30 | USD | High | Core PCE Price Index (YoY) (Aug) |  | 2.9% | 2.9% |
 | 13:30 | USD | High | Core PCE Price Index (MoM) (Aug) |  | 0.2% | 0.3% |
-| 13:30 | USD | Moderate | PCE Price index (YoY) (Aug) |  | 2.7% | 2.6% |
+| 13:30 | USD | High | Core PCE Price Index (YoY) (Aug) |  | 2.9% | 2.9% |
 | 13:30 | USD | Moderate | PCE price index (MoM) (Aug) |  | 0.3% | 0.2% |
+| 13:30 | USD | Moderate | PCE Price index (YoY) (Aug) |  | 2.7% | 2.6% |
 | 13:30 | USD | Low | Personal Income (MoM) (Aug) |  | 0.3% | 0.4% |
 | 13:30 | USD | Moderate | Personal Spending (MoM) (Aug) |  | 0.5% | 0.5% |
 | 13:30 | USD | Low | Real Personal Consumption (MoM) (Aug) |  |  | 0.3% |
