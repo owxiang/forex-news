@@ -11,10 +11,10 @@
 | 06:00 | SGD | Low | Industrial Production (MoM) (Aug) | -9.7% | -4.6% | 8.8% |
 | 06:00 | SGD | Low | Industrial Production (YoY) (Aug) | -7.8% | -2.5% | 7.7% |
 | 06:30 | JPY | Moderate | BoJ Board Member Noguchi Speaks |  |  |  |
+| 08:00 | EUR | Low | Spanish GDP (YoY) (Q2) | 3.1% | 2.8% | 3.2% |
 | 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q2) | 0.8% | 0.7% | 0.6% |
-| 08:00 | EUR | Low | Spanish GDP (YoY) (Q2) | 3.1% | 2.8% | 2.8% |
-| 53 min | EUR | Low | Italian Business Confidence (Sep) |  | 87.5 | 87.4 |
-| 53 min | EUR | Low | Italian Consumer Confidence (Sep) |  | 96.5 | 96.2 |
+| 09:00 | EUR | Low | Italian Business Confidence (Sep) | 87.3 | 87.5 | 87.3 |
+| 09:00 | EUR | Low | Italian Consumer Confidence (Sep) | 96.8 | 96.5 | 96.2 |
 | 10:30 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 3.58% |
 | 10:30 | EUR | Low | Italian 5-Year BTP Auction |  |  | 2.80% |
 | 10:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
@@ -42,8 +42,8 @@
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Sep) |  | 51.8 | 55.9 |
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Sep) |  | 55.4 | 58.2 |
 | 15:00 | USD | Low | Michigan Current Conditions (Sep) |  | 61.2 | 61.7 |
-| 16:00 | CAD | Low | Budget Balance (YoY) (Jul) |  |  | -3.34B |
 | 16:00 | CAD | Low | Budget Balance (Jul) |  |  | 3.63B |
+| 16:00 | CAD | Low | Budget Balance (YoY) (Jul) |  |  | -3.34B |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 3.3% | 3.3% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 418 |
 | 18:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
