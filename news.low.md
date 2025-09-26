@@ -24,16 +24,16 @@
 | 13:30 | USD | Real Personal Consumption (MoM) (Aug) | 0.4% |  | 0.4% |
 | 14:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 15:00 | USD | Michigan Current Conditions (Sep) | 60.4 | 61.2 | 61.7 |
-| 16:00 | CAD | Budget Balance (Jul) | -1.51B |  | 3.63B |
 | 16:00 | CAD | Budget Balance (YoY) (Jul) | -7.79B |  | -3.34B |
-| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.2K |
-| 20:30 | USD | CFTC Copper speculative net positions |  |  | 30.3K |
-| 20:30 | USD | CFTC Corn speculative net positions |  |  | -36.2K |
-| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -110.9K |
-| 20:30 | USD | CFTC Silver speculative net positions |  |  | 51.5K |
-| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 21.2K |
-| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -72.2K |
-| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -107.2K |
-| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 78.0K |
-| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -26.0K |
-| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -18.0K |
+| 16:00 | CAD | Budget Balance (Jul) | -1.51B |  | 3.63B |
+| 24 min | USD | CFTC Aluminium speculative net positions |  |  | 1.2K |
+| 24 min | USD | CFTC Copper speculative net positions |  |  | 30.3K |
+| 24 min | USD | CFTC Corn speculative net positions |  |  | -36.2K |
+| 24 min | USD | CFTC Natural Gas speculative net positions |  |  | -110.9K |
+| 24 min | USD | CFTC Silver speculative net positions |  |  | 51.5K |
+| 24 min | USD | CFTC Soybeans speculative net positions |  |  | 21.2K |
+| 24 min | USD | CFTC Wheat speculative net positions |  |  | -72.2K |
+| 24 min | CAD | CFTC CAD speculative net positions |  |  | -107.2K |
+| 24 min | MXN | CFTC MXN speculative net positions |  |  | 78.0K |
+| 24 min | CHF | CFTC CHF speculative net positions |  |  | -26.0K |
+| 24 min | NZD | CFTC NZD speculative net positions |  |  | -18.0K |

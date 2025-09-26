@@ -8,8 +8,8 @@
 | 10:10 | EUR | Italian 10-Year BTP Auction | 3.62% |  | 3.58% |
 | 10:30 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 11:00 | EUR | France Jobseekers Total (Aug) | 3,021.8K |  | 3,033.5K |
-| 13:30 | USD | PCE price index (MoM) (Aug) | 0.3% | 0.3% | 0.2% |
 | 13:30 | USD | PCE Price index (YoY) (Aug) | 2.7% | 2.7% | 2.6% |
+| 13:30 | USD | PCE price index (MoM) (Aug) | 0.3% | 0.3% | 0.2% |
 | 13:30 | USD | Personal Spending (MoM) (Aug) | 0.6% | 0.5% | 0.5% |
 | 13:30 | CAD | GDP (MoM) (Jul) | 0.2% | 0.1% | -0.1% |
 | 13:30 | CAD | Wholesale Sales (MoM) (Aug) | -1.3% |  | 1.2% |
@@ -22,13 +22,13 @@
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 424 |  | 418 |
 | 18:00 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count | 549 |  | 542 |
-| 20:30 | GBP | CFTC GBP speculative net positions |  |  | -6.6K |
-| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 98.7K |
-| 20:30 | USD | CFTC Gold speculative net positions |  |  | 266.4K |
-| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 17.8K |
-| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -225.1K |
-| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -51.2K |
-| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 62.2K |
-| 20:30 | JPY | CFTC JPY speculative net positions |  |  | 61.4K |
-| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 117.8K |
+| 24 min | GBP | CFTC GBP speculative net positions |  |  | -6.6K |
+| 24 min | USD | CFTC Crude Oil speculative net positions |  |  | 98.7K |
+| 24 min | USD | CFTC Gold speculative net positions |  |  | 266.4K |
+| 24 min | USD | CFTC Nasdaq 100 speculative net positions |  |  | 17.8K |
+| 24 min | USD | CFTC S&P 500 speculative net positions |  |  | -225.1K |
+| 24 min | AUD | CFTC AUD speculative net positions |  |  | -51.2K |
+| 24 min | BRL | CFTC BRL speculative net positions |  |  | 62.2K |
+| 24 min | JPY | CFTC JPY speculative net positions |  |  | 61.4K |
+| 24 min | EUR | CFTC EUR speculative net positions |  |  | 117.8K |
 | 23:00 | USD | FOMC Member Bostic Speaks |  |  |  |
