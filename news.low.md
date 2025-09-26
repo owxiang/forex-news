@@ -7,8 +7,8 @@
 | 00:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Sep) | -0.7% |  | 0.4% |
 | 00:50 | JPY | Foreign Bonds Buying | 817.2B |  | 1,479.7B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | -1,747.5B |  | -2,032.8B |
-| 06:00 | SGD | Industrial Production (MoM) (Aug) | -9.7% | -4.6% | 8.8% |
 | 06:00 | SGD | Industrial Production (YoY) (Aug) | -7.8% | -2.5% | 7.7% |
+| 06:00 | SGD | Industrial Production (MoM) (Aug) | -9.7% | -4.6% | 8.8% |
 | 08:00 | EUR | Spanish GDP (YoY) (Q2) | 3.1% | 2.8% | 3.2% |
 | 09:00 | EUR | Italian Business Confidence (Sep) | 87.3 | 87.5 | 87.3 |
 | 09:00 | EUR | Italian Consumer Confidence (Sep) | 96.8 | 96.5 | 96.2 |
@@ -24,8 +24,8 @@
 | 13:30 | USD | Real Personal Consumption (MoM) (Aug) | 0.4% |  | 0.4% |
 | 14:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 15:00 | USD | Michigan Current Conditions (Sep) | 60.4 | 61.2 | 61.7 |
-| 54 min | CAD | Budget Balance (YoY) (Jul) |  |  | -3.34B |
-| 54 min | CAD | Budget Balance (Jul) |  |  | 3.63B |
+| 16:00 | CAD | Budget Balance (Jul) | -1.51B |  | 3.63B |
+| 16:00 | CAD | Budget Balance (YoY) (Jul) | -7.79B |  | -3.34B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.2K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 30.3K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -36.2K |
