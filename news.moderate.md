@@ -18,10 +18,10 @@
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Sep) | 3.7% | 3.9% | 3.5% |
 | 15:00 | USD | Michigan Consumer Expectations (Sep) | 51.7 | 51.8 | 55.9 |
 | 15:00 | USD | Michigan Consumer Sentiment (Sep) | 55.1 | 55.4 | 58.2 |
-| 23 min | USD | Atlanta Fed GDPNow (Q3) |  | 3.3% | 3.3% |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 418 |
-| 18:00 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 542 |
+| 16:30 | USD | Atlanta Fed GDPNow (Q3) | 3.9% | 3.3% | 3.3% |
+| 52 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 418 |
+| 52 min | USD | FOMC Member Bowman Speaks |  |  |  |
+| 52 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 542 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -6.6K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 98.7K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 266.4K |
