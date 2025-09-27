@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | CNY | Chinese Industrial profit YTD (Aug) |  |  | -1.7% |
+| 02:30 | CNY | Chinese Industrial profit YTD (Aug) | 0.9% |  | -1.7% |
