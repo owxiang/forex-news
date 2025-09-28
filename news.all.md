@@ -10,8 +10,8 @@
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Aug) |  |  | 4.1% |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Aug) |  |  | 0.6% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Sep) |  |  | 2.4% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Sep) |  |  | 0.0% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Sep) |  | 3.1% | 2.7% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Sep) |  |  | 0.0% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Sep) |  |  | 0.0% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Sep) |  |  | 2.7% |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Aug) |  |  | 4.7% |
