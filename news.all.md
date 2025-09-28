@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Jul) |  | -2.6% | 0.7% |
-| 06:00 | JPY | Low | Leading Index (Jul) |  | 105.9 | 105.6 |
 | 06:00 | JPY | Low | Leading Index (MoM) (Jul) |  | 0.8% | 0.8% |
+| 06:00 | JPY | Low | Leading Index (Jul) |  | 105.9 | 105.6 |
 | 06:30 | JPY | Moderate | BoJ Board Member Noguchi Speaks |  |  |  |
 | 07:00 | NOK | Low | M3 Money Supply (Aug) |  |  | 3,455.3B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Aug) |  |  | 4.1% |
