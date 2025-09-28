@@ -12,8 +12,8 @@
 | 08:00 | EUR | Low | Core CPI (YoY) (Sep) |  |  | 2.4% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Sep) |  | 3.1% | 2.7% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Sep) |  |  | 0.0% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Sep) |  |  | 2.7% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Sep) |  |  | 0.0% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Sep) |  |  | 2.7% |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Aug) |  |  | 4.7% |
 | 09:00 | EUR | Low | Italian Trade Balance Non-EU (Aug) |  |  | 5.99B |
 | 09:30 | GBP | Low | BoE Consumer Credit (Aug) |  |  | 1.622B |
