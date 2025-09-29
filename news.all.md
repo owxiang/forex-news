@@ -31,18 +31,18 @@
 | 10:00 | EUR | Low | Selling Price Expectations (Sep) | 6.9 |  | 6.8 |
 | 10:00 | EUR | Low | Services Sentiment (Sep) | 3.6 | 3.7 | 3.8 |
 | 10:00 | EUR | Low | Industrial Sentiment (Sep) | -10.3 | -10.9 | -10.2 |
-| 22 min | INR | Low | Cumulative Industrial Production (Aug) |  |  | 2.30% |
-| 22 min | INR | Low | Industrial Production (YoY) (Aug) |  | 5.0% | 3.5% |
-| 22 min | INR | Low | Manufacturing Output (MoM) (Aug) |  |  | 5.4% |
-| 52 min | EUR | Low | Spanish Business Confidence (Sep) |  |  | -6.7 |
-| 52 min | BRL | Low | IGP-M Inflation Index (MoM) (Sep) |  | 0.35% | 0.36% |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 12:30 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 12:30 | BRL | Low | Bank lending (MoM) (Aug) |  |  | 0.4% |
-| 13:00 | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
-| 13:00 | MXN | Low | Unemployment Rate (Aug) |  |  | 2.60% |
-| 13:00 | MXN | Low | Unemployment Rate n.s.a. (Aug) |  | 2.80% | 2.80% |
-| 13:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 11:30 | INR | Low | Cumulative Industrial Production (Aug) | 2.80% |  | 2.30% |
+| 11:30 | INR | Low | Industrial Production (YoY) (Aug) | 4.0% | 5.0% | 4.3% |
+| 11:30 | INR | Low | Manufacturing Output (MoM) (Aug) | 3.8% |  | 6.0% |
+| 12:00 | EUR | Low | Spanish Business Confidence (Sep) | -5.7 |  | -6.7 |
+| 12:00 | BRL | Low | IGP-M Inflation Index (MoM) (Sep) | 0.42% | 0.35% | 0.36% |
+| 19 min | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 24 min | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 24 min | BRL | Low | Bank lending (MoM) (Aug) |  |  | 0.4% |
+| 54 min | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
+| 54 min | MXN | Low | Unemployment Rate (Aug) |  |  | 2.60% |
+| 54 min | MXN | Low | Unemployment Rate n.s.a. (Aug) |  | 2.80% | 2.80% |
+| 54 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Aug) |  |  | 2.5% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.048% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.007% |

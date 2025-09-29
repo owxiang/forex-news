@@ -26,15 +26,15 @@
 | 10:00 | EUR | Selling Price Expectations (Sep) | 6.9 |  | 6.8 |
 | 10:00 | EUR | Services Sentiment (Sep) | 3.6 | 3.7 | 3.8 |
 | 10:00 | EUR | Industrial Sentiment (Sep) | -10.3 | -10.9 | -10.2 |
-| 22 min | INR | Cumulative Industrial Production (Aug) |  |  | 2.30% |
-| 22 min | INR | Industrial Production (YoY) (Aug) |  | 5.0% | 3.5% |
-| 22 min | INR | Manufacturing Output (MoM) (Aug) |  |  | 5.4% |
-| 52 min | EUR | Spanish Business Confidence (Sep) |  |  | -6.7 |
-| 52 min | BRL | IGP-M Inflation Index (MoM) (Sep) |  | 0.35% | 0.36% |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:30 | BRL | Bank lending (MoM) (Aug) |  |  | 0.4% |
-| 13:00 | MXN | Unemployment Rate (Aug) |  |  | 2.60% |
-| 13:00 | MXN | Unemployment Rate n.s.a. (Aug) |  | 2.80% | 2.80% |
+| 11:30 | INR | Cumulative Industrial Production (Aug) | 2.80% |  | 2.30% |
+| 11:30 | INR | Industrial Production (YoY) (Aug) | 4.0% | 5.0% | 4.3% |
+| 11:30 | INR | Manufacturing Output (MoM) (Aug) | 3.8% |  | 6.0% |
+| 12:00 | EUR | Spanish Business Confidence (Sep) | -5.7 |  | -6.7 |
+| 12:00 | BRL | IGP-M Inflation Index (MoM) (Sep) | 0.42% | 0.35% | 0.36% |
+| 19 min | BRL | BCB Focus Market Readout |  |  |  |
+| 24 min | BRL | Bank lending (MoM) (Aug) |  |  | 0.4% |
+| 54 min | MXN | Unemployment Rate (Aug) |  |  | 2.60% |
+| 54 min | MXN | Unemployment Rate n.s.a. (Aug) |  | 2.80% | 2.80% |
 | 13:30 | CAD | Manufacturing Sales (MoM) (Aug) |  |  | 2.5% |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.048% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.007% |
