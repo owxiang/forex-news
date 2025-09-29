@@ -8,14 +8,14 @@
 | 06:30 | JPY | Moderate | BoJ Board Member Noguchi Speaks |  |  |  |
 | 07:00 | NOK | Low | M3 Money Supply (Aug) | 3,444.5B |  | 3,422.2B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Aug) | 4.0% |  | 4.1% |
-| 07:00 | NOK | Low | Core Retail Sales (MoM) (Aug) | 0.2% |  | 0.6% |
-| 49 min | EUR | Low | Core CPI (YoY) (Sep) |  |  | 2.4% |
-| 49 min | EUR | Moderate | Spanish CPI (YoY) (Sep) |  | 3.1% | 2.7% |
-| 49 min | EUR | Low | Spanish CPI (MoM) (Sep) |  | -0.2% | 0.0% |
-| 49 min | EUR | Low | Spanish HICP (MoM) (Sep) |  | 0.3% | 0.0% |
-| 49 min | EUR | Moderate | Spanish HICP (YoY) (Sep) |  | 3.0% | 2.7% |
-| 49 min | EUR | Low | Spanish Retail Sales (YoY) (Aug) |  |  | 4.7% |
-| 09:00 | EUR | Low | Italian Trade Balance Non-EU (Aug) |  |  | 5.99B |
+| 07:00 | NOK | Low | Core Retail Sales (MoM) (Aug) | 0.2% |  | 0.7% |
+| 08:00 | EUR | Low | Core CPI (YoY) (Sep) | 2.3% |  | 2.4% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Sep) | 2.9% | 3.1% | 2.7% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Sep) | -0.4% | -0.2% | 0.0% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Sep) | 0.1% | 0.3% | 0.0% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Sep) | 3.0% | 3.0% | 2.7% |
+| 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Aug) | 4.5% |  | 4.7% |
+| 52 min | EUR | Low | Italian Trade Balance Non-EU (Aug) |  |  | 5.99B |
 | 09:30 | GBP | Low | BoE Consumer Credit (Aug) |  | 1.600B | 1.622B |
 | 09:30 | GBP | Low | M3 Money Supply (Aug) |  |  | 3,146.6B |
 | 09:30 | GBP | Low | M4 Money Supply (MoM) (Aug) |  | 0.2% | 0.1% |
