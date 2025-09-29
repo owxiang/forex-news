@@ -10,8 +10,8 @@
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Aug) | 4.0% |  | 4.1% |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Aug) | 0.2% |  | 0.7% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Sep) | 2.3% |  | 2.4% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Sep) | -0.4% | -0.2% | 0.0% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Sep) | 2.9% | 3.1% | 2.7% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Sep) | -0.4% | -0.2% | 0.0% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Sep) | 0.1% | 0.3% | 0.0% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Sep) | 3.0% | 3.0% | 2.7% |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Aug) | 4.5% |  | 4.7% |
@@ -31,11 +31,11 @@
 | 10:00 | EUR | Low | Selling Price Expectations (Sep) | 6.9 |  | 6.8 |
 | 10:00 | EUR | Low | Services Sentiment (Sep) | 3.6 | 3.7 | 3.8 |
 | 10:00 | EUR | Low | Industrial Sentiment (Sep) | -10.3 | -10.9 | -10.2 |
-| 11:30 | INR | Low | Cumulative Industrial Production (Aug) |  |  | 2.30% |
-| 11:30 | INR | Low | Industrial Production (YoY) (Aug) |  | 5.0% | 3.5% |
-| 11:30 | INR | Low | Manufacturing Output (MoM) (Aug) |  |  | 5.4% |
-| 12:00 | EUR | Low | Spanish Business Confidence (Sep) |  |  | -6.7 |
-| 12:00 | BRL | Low | IGP-M Inflation Index (MoM) (Sep) |  | 0.35% | 0.36% |
+| 22 min | INR | Low | Cumulative Industrial Production (Aug) |  |  | 2.30% |
+| 22 min | INR | Low | Industrial Production (YoY) (Aug) |  | 5.0% | 3.5% |
+| 22 min | INR | Low | Manufacturing Output (MoM) (Aug) |  |  | 5.4% |
+| 52 min | EUR | Low | Spanish Business Confidence (Sep) |  |  | -6.7 |
+| 52 min | BRL | Low | IGP-M Inflation Index (MoM) (Sep) |  | 0.35% | 0.36% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:30 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 12:30 | BRL | Low | Bank lending (MoM) (Aug) |  |  | 0.4% |
