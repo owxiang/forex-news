@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Jul) | -1.8% | -2.6% | 0.7% |
-| 06:00 | JPY | Low | Leading Index (Jul) | 106.1 | 105.9 | 105.0 |
 | 06:00 | JPY | Low | Leading Index (MoM) (Jul) | 1.1% | 0.8% | 0.8% |
+| 06:00 | JPY | Low | Leading Index (Jul) | 106.1 | 105.9 | 105.0 |
 | 06:30 | JPY | Moderate | BoJ Board Member Noguchi Speaks |  |  |  |
 | 07:00 | NOK | Low | M3 Money Supply (Aug) | 3,444.5B |  | 3,422.2B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Aug) | 4.0% |  | 4.1% |
@@ -51,7 +51,7 @@
 | 15:30 | USD | Low | Dallas Fed Mfg Business Index (Sep) | -8.7 |  | -1.8 |
 | 16:30 | USD | Low | 3-Month Bill Auction | 3.860% |  | 3.860% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 3.715% |  | 3.705% |
-| 18:15 | USD | High | U.S. President Trump Speaks |  |  |  |
-| 18:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 18:30 | BRL | Low | CAGED Net Payroll Jobs (Aug) |  | 160.00K | 129.78K |
+| 8 min | USD | High | U.S. President Trump Speaks |  |  |  |
+| 23 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 23 min | BRL | Low | CAGED Net Payroll Jobs (Aug) |  | 160.00K | 129.78K |
 | 23:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
