@@ -10,6 +10,6 @@
 | 12:30 | USD | Fed Waller Speaks |  |  |  |
 | 13:00 | GBP | MPC Member Ramsden Speaks |  |  |  |
 | 13:00 | EUR | ECB's Lane Speaks |  |  |  |
-| 15:00 | USD | Pending Home Sales (MoM) (Aug) |  | 0.2% | -0.4% |
+| 45 min | USD | Pending Home Sales (MoM) (Aug) |  | 0.2% | -0.4% |
 | 18:30 | USD | FOMC Member Williams Speaks |  |  |  |
 | 23:00 | USD | FOMC Member Bostic Speaks |  |  |  |

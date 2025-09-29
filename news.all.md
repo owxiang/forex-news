@@ -12,8 +12,8 @@
 | 08:00 | EUR | Low | Core CPI (YoY) (Sep) | 2.3% |  | 2.4% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Sep) | 2.9% | 3.1% | 2.7% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Sep) | -0.4% | -0.2% | 0.0% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Sep) | 0.1% | 0.3% | 0.0% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Sep) | 3.0% | 3.0% | 2.7% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Sep) | 0.1% | 0.3% | 0.0% |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Aug) | 4.5% |  | 4.7% |
 | 09:00 | EUR | Low | Italian Trade Balance Non-EU (Aug) | 1.78B |  | 5.99B |
 | 09:30 | GBP | Low | BoE Consumer Credit (Aug) | 1.692B | 1.600B | 1.669B |
@@ -43,12 +43,11 @@
 | 13:00 | MXN | Low | Unemployment Rate (Aug) | 2.60% |  | 2.60% |
 | 13:00 | MXN | Low | Unemployment Rate n.s.a. (Aug) | 2.90% | 2.80% | 2.80% |
 | 13:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 18 min | CAD | Low | Manufacturing Sales (MoM) (Aug) |  |  | 2.5% |
-| 48 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.048% |
-| 48 min | EUR | Low | French 3-Month BTF Auction |  |  | 2.007% |
-| 48 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.027% |
-| 15:00 | USD | Moderate | Pending Home Sales (MoM) (Aug) |  | 0.2% | -0.4% |
-| 15:00 | USD | Low | Pending Home Sales Index (Aug) |  |  | 71.7 |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.058% |  | 2.048% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 1.979% |  | 2.007% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.042% |  | 2.027% |
+| 45 min | USD | Moderate | Pending Home Sales (MoM) (Aug) |  | 0.2% | -0.4% |
+| 45 min | USD | Low | Pending Home Sales Index (Aug) |  |  | 71.7 |
 | 15:30 | USD | Low | Dallas Fed Mfg Business Index (Sep) |  |  | -1.8 |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.860% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.705% |

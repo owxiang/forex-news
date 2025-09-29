@@ -35,11 +35,10 @@
 | 12:30 | BRL | Bank lending (MoM) (Aug) | 0.5% |  | 0.4% |
 | 13:00 | MXN | Unemployment Rate (Aug) | 2.60% |  | 2.60% |
 | 13:00 | MXN | Unemployment Rate n.s.a. (Aug) | 2.90% | 2.80% | 2.80% |
-| 18 min | CAD | Manufacturing Sales (MoM) (Aug) |  |  | 2.5% |
-| 48 min | EUR | French 12-Month BTF Auction |  |  | 2.048% |
-| 48 min | EUR | French 3-Month BTF Auction |  |  | 2.007% |
-| 48 min | EUR | French 6-Month BTF Auction |  |  | 2.027% |
-| 15:00 | USD | Pending Home Sales Index (Aug) |  |  | 71.7 |
+| 14:00 | EUR | French 12-Month BTF Auction | 2.058% |  | 2.048% |
+| 14:00 | EUR | French 3-Month BTF Auction | 1.979% |  | 2.007% |
+| 14:00 | EUR | French 6-Month BTF Auction | 2.042% |  | 2.027% |
+| 45 min | USD | Pending Home Sales Index (Aug) |  |  | 71.7 |
 | 15:30 | USD | Dallas Fed Mfg Business Index (Sep) |  |  | -1.8 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 3.860% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 3.705% |
