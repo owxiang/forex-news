@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 22 min | JPY | BoJ Board Member Noguchi Speaks |  |  |  |
-| 08:00 | EUR | Spanish CPI (YoY) (Sep) |  | 3.1% | 2.7% |
-| 08:00 | EUR | Spanish HICP (YoY) (Sep) |  | 3.0% | 2.7% |
+| 06:30 | JPY | BoJ Board Member Noguchi Speaks |  |  |  |
+| 49 min | EUR | Spanish CPI (YoY) (Sep) |  | 3.1% | 2.7% |
+| 49 min | EUR | Spanish HICP (YoY) (Sep) |  | 3.0% | 2.7% |
 | 10:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 10:00 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 12:30 | USD | Fed Waller Speaks |  |  |  |
