@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 06:00 | JPY | Coincident Indicator (MoM) (Jul) | -1.8% | -2.6% | 0.7% |
-| 06:00 | JPY | Leading Index (Jul) | 106.1 | 105.9 | 105.0 |
 | 06:00 | JPY | Leading Index (MoM) (Jul) | 1.1% | 0.8% | 0.8% |
+| 06:00 | JPY | Leading Index (Jul) | 106.1 | 105.9 | 105.0 |
 | 07:00 | NOK | M3 Money Supply (Aug) | 3,444.5B |  | 3,422.2B |
 | 07:00 | NOK | Credit Indicator (YoY) (Aug) | 4.0% |  | 4.1% |
 | 07:00 | NOK | Core Retail Sales (MoM) (Aug) | 0.2% |  | 0.7% |
