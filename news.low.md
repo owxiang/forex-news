@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 06:00 | JPY | Coincident Indicator (MoM) (Jul) | -1.8% | -2.6% | 0.7% |
-| 06:00 | JPY | Leading Index (MoM) (Jul) | 1.1% | 0.8% | 0.8% |
 | 06:00 | JPY | Leading Index (Jul) | 106.1 | 105.9 | 105.0 |
+| 06:00 | JPY | Leading Index (MoM) (Jul) | 1.1% | 0.8% | 0.8% |
 | 07:00 | NOK | M3 Money Supply (Aug) | 3,444.5B |  | 3,422.2B |
 | 07:00 | NOK | Credit Indicator (YoY) (Aug) | 4.0% |  | 4.1% |
 | 07:00 | NOK | Core Retail Sales (MoM) (Aug) | 0.2% |  | 0.7% |
@@ -40,6 +40,6 @@
 | 14:00 | EUR | French 6-Month BTF Auction | 2.042% |  | 2.027% |
 | 15:00 | USD | Pending Home Sales Index (Aug) | 74.7 |  | 71.8 |
 | 15:30 | USD | Dallas Fed Mfg Business Index (Sep) | -8.7 |  | -1.8 |
-| 23 min | USD | 3-Month Bill Auction |  |  | 3.860% |
-| 23 min | USD | 6-Month Bill Auction |  |  | 3.705% |
+| 16:30 | USD | 3-Month Bill Auction | 3.860% |  | 3.860% |
+| 16:30 | USD | 6-Month Bill Auction | 3.715% |  | 3.705% |
 | 18:30 | BRL | CAGED Net Payroll Jobs (Aug) |  | 160.00K | 129.78K |
