@@ -12,4 +12,4 @@
 | 13:00 | EUR | ECB's Lane Speaks |  |  |  |
 | 15:00 | USD | Pending Home Sales (MoM) (Aug) | 4.0% | 0.2% | -0.3% |
 | 18:30 | USD | FOMC Member Williams Speaks |  |  |  |
-| 23:00 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 54 min | USD | FOMC Member Bostic Speaks |  |  |  |
