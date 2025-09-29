@@ -36,17 +36,17 @@
 | 11:30 | INR | Low | Manufacturing Output (MoM) (Aug) | 3.8% |  | 6.0% |
 | 12:00 | EUR | Low | Spanish Business Confidence (Sep) | -5.7 |  | -6.7 |
 | 12:00 | BRL | Low | IGP-M Inflation Index (MoM) (Sep) | 0.42% | 0.35% | 0.36% |
-| 19 min | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 24 min | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 24 min | BRL | Low | Bank lending (MoM) (Aug) |  |  | 0.4% |
-| 54 min | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
-| 54 min | MXN | Low | Unemployment Rate (Aug) |  |  | 2.60% |
-| 54 min | MXN | Low | Unemployment Rate n.s.a. (Aug) |  | 2.80% | 2.80% |
-| 54 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Aug) |  |  | 2.5% |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.048% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.007% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.027% |
+| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 12:30 | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 12:30 | BRL | Low | Bank lending (MoM) (Aug) | 0.5% |  | 0.4% |
+| 13:00 | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
+| 13:00 | MXN | Low | Unemployment Rate (Aug) | 2.60% |  | 2.60% |
+| 13:00 | MXN | Low | Unemployment Rate n.s.a. (Aug) | 2.90% | 2.80% | 2.80% |
+| 13:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 18 min | CAD | Low | Manufacturing Sales (MoM) (Aug) |  |  | 2.5% |
+| 48 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.048% |
+| 48 min | EUR | Low | French 3-Month BTF Auction |  |  | 2.007% |
+| 48 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.027% |
 | 15:00 | USD | Moderate | Pending Home Sales (MoM) (Aug) |  | 0.2% | -0.4% |
 | 15:00 | USD | Low | Pending Home Sales Index (Aug) |  |  | 71.7 |
 | 15:30 | USD | Low | Dallas Fed Mfg Business Index (Sep) |  |  | -1.8 |

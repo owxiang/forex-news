@@ -7,9 +7,9 @@
 | 08:00 | EUR | Spanish HICP (YoY) (Sep) | 3.0% | 3.0% | 2.7% |
 | 10:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 10:00 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 24 min | USD | Fed Waller Speaks |  |  |  |
-| 54 min | GBP | MPC Member Ramsden Speaks |  |  |  |
-| 54 min | EUR | ECB's Lane Speaks |  |  |  |
+| 12:30 | USD | Fed Waller Speaks |  |  |  |
+| 13:00 | GBP | MPC Member Ramsden Speaks |  |  |  |
+| 13:00 | EUR | ECB's Lane Speaks |  |  |  |
 | 15:00 | USD | Pending Home Sales (MoM) (Aug) |  | 0.2% | -0.4% |
 | 18:30 | USD | FOMC Member Williams Speaks |  |  |  |
 | 23:00 | USD | FOMC Member Bostic Speaks |  |  |  |
