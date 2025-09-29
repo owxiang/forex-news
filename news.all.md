@@ -12,8 +12,8 @@
 | 08:00 | EUR | Low | Core CPI (YoY) (Sep) | 2.3% |  | 2.4% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Sep) | 2.9% | 3.1% | 2.7% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Sep) | -0.4% | -0.2% | 0.0% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Sep) | 0.1% | 0.3% | 0.0% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Sep) | 3.0% | 3.0% | 2.7% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Sep) | 0.1% | 0.3% | 0.0% |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Aug) | 4.5% |  | 4.7% |
 | 09:00 | EUR | Low | Italian Trade Balance Non-EU (Aug) | 1.78B |  | 5.99B |
 | 09:30 | GBP | Low | BoE Consumer Credit (Aug) | 1.692B | 1.600B | 1.669B |
@@ -54,4 +54,4 @@
 | 18:15 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 18:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 18:30 | BRL | Low | CAGED Net Payroll Jobs (Aug) | 147.36K | 160.00K | 129.78K |
-| 54 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 23:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
