@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Jul) | -1.8% | -2.6% | 0.7% |
-| 06:00 | JPY | Low | Leading Index (Jul) | 106.1 | 105.9 | 105.0 |
 | 06:00 | JPY | Low | Leading Index (MoM) (Jul) | 1.1% | 0.8% | 0.8% |
+| 06:00 | JPY | Low | Leading Index (Jul) | 106.1 | 105.9 | 105.0 |
 | 06:30 | JPY | Moderate | BoJ Board Member Noguchi Speaks |  |  |  |
 | 07:00 | NOK | Low | M3 Money Supply (Aug) | 3,444.5B |  | 3,422.2B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Aug) | 4.0% |  | 4.1% |
@@ -12,8 +12,8 @@
 | 08:00 | EUR | Low | Core CPI (YoY) (Sep) | 2.3% |  | 2.4% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Sep) | 2.9% | 3.1% | 2.7% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Sep) | -0.4% | -0.2% | 0.0% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Sep) | 0.1% | 0.3% | 0.0% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Sep) | 3.0% | 3.0% | 2.7% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Sep) | 0.1% | 0.3% | 0.0% |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Aug) | 4.5% |  | 4.7% |
 | 09:00 | EUR | Low | Italian Trade Balance Non-EU (Aug) | 1.78B |  | 5.99B |
 | 09:30 | GBP | Low | BoE Consumer Credit (Aug) | 1.692B | 1.600B | 1.669B |
@@ -48,9 +48,9 @@
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.042% |  | 2.027% |
 | 15:00 | USD | Moderate | Pending Home Sales (MoM) (Aug) | 4.0% | 0.2% | -0.3% |
 | 15:00 | USD | Low | Pending Home Sales Index (Aug) | 74.7 |  | 71.8 |
-| 23 min | USD | Low | Dallas Fed Mfg Business Index (Sep) |  |  | -1.8 |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.860% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.705% |
+| 15:30 | USD | Low | Dallas Fed Mfg Business Index (Sep) | -8.7 |  | -1.8 |
+| 23 min | USD | Low | 3-Month Bill Auction |  |  | 3.860% |
+| 23 min | USD | Low | 6-Month Bill Auction |  |  | 3.705% |
 | 18:15 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 18:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 18:30 | BRL | Low | CAGED Net Payroll Jobs (Aug) |  | 160.00K | 129.78K |
