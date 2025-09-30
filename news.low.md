@@ -21,9 +21,9 @@
 | 02:30 | AUD | Private Sector Credit (MoM) (Aug) | 0.6% | 0.6% | 0.7% |
 | 03:00 | SGD | Bank Lending (Aug) | 851.7B |  | 854.0B |
 | 03:00 | NZD | M3 Money Supply (Aug) | 436.6B |  | 439.5B |
-| 18 min | JPY | 2-Year JGB Auction |  |  | 0.863% |
-| 06:00 | JPY | Construction Orders (YoY) (Aug) |  |  | -19.0% |
-| 06:00 | JPY | Housing Starts (YoY) (Aug) |  | -4.9% | -9.7% |
+| 04:35 | JPY | 2-Year JGB Auction | 0.949% |  | 0.863% |
+| 52 min | JPY | Construction Orders (YoY) (Aug) |  |  | -19.0% |
+| 52 min | JPY | Housing Starts (YoY) (Aug) |  | -4.9% | -9.7% |
 | 07:00 | GBP | Business Investment (YoY) (Q2) |  | 0.1% | 0.1% |
 | 07:00 | EUR | German Import Price Index (MoM) (Aug) |  | -0.2% | -0.4% |
 | 07:00 | EUR | German Import Price Index (YoY) (Aug) |  |  | -1.4% |
@@ -49,8 +49,8 @@
 | 09:00 | EUR | Hesse CPI (YoY) (Sep) |  |  | 2.4% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Sep) |  |  | 0.1% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Sep) |  |  | 2.0% |
-| 09:00 | EUR | Saxony CPI (MoM) (Sep) |  |  | 0.0% |
 | 09:00 | EUR | Saxony CPI (YoY) (Sep) |  |  | 2.2% |
+| 09:00 | EUR | Saxony CPI (MoM) (Sep) |  |  | 0.0% |
 | 09:00 | EUR | Spanish Current account (Jul) |  |  | 5.03B |
 | 09:00 | NOK | Central Bank Currency Purchase (Oct) |  |  | -150.0M |
 | 09:00 | ZAR | SARB Quarterly Bulletin |  |  |  |
@@ -72,8 +72,8 @@
 | 13:00 | ZAR | Trade Balance (Aug) |  |  | 20.29B |
 | 13:55 | USD | Redbook (YoY) |  |  | 5.7% |
 | 14:00 | USD | Fed Collins Speaks |  |  |  |
-| 14:00 | USD | House Price Index (MoM) (Jul) |  | 0.0% | -0.2% |
 | 14:00 | USD | House Price Index (YoY) (Jul) |  |  | 2.6% |
+| 14:00 | USD | House Price Index (MoM) (Jul) |  | 0.0% | -0.2% |
 | 14:00 | USD | House Price Index (Jul) |  |  | 433.8 |
 | 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Jul) |  |  | -0.3% |
 | 15:30 | USD | Dallas Fed Services Revenues (Sep) |  |  | 8.6 |

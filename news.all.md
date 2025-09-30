@@ -28,11 +28,11 @@
 | 02:45 | CNY | Moderate | Caixin Services PMI (Sep) | 52.9 | 52.3 | 53.0 |
 | 03:00 | SGD | Low | Bank Lending (Aug) | 851.7B |  | 854.0B |
 | 03:00 | NZD | Low | M3 Money Supply (Aug) | 436.6B |  | 439.5B |
-| 18 min | JPY | Low | 2-Year JGB Auction |  |  | 0.863% |
-| 05:30 | AUD | High | RBA Interest Rate Decision (Sep) |  | 3.60% | 3.60% |
-| 05:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
-| 06:00 | JPY | Low | Construction Orders (YoY) (Aug) |  |  | -19.0% |
-| 06:00 | JPY | Low | Housing Starts (YoY) (Aug) |  | -4.9% | -9.7% |
+| 04:35 | JPY | Low | 2-Year JGB Auction | 0.949% |  | 0.863% |
+| 22 min | AUD | High | RBA Interest Rate Decision (Sep) |  | 3.60% | 3.60% |
+| 22 min | AUD | Moderate | RBA Rate Statement |  |  |  |
+| 52 min | JPY | Low | Construction Orders (YoY) (Aug) |  |  | -19.0% |
+| 52 min | JPY | Low | Housing Starts (YoY) (Aug) |  | -4.9% | -9.7% |
 | 07:00 | GBP | Low | Business Investment (YoY) (Q2) |  | 0.1% | 0.1% |
 | 07:00 | GBP | Moderate | Business Investment (QoQ) (Q2) |  | -4.0% | 3.9% |
 | 07:00 | GBP | Moderate | Current Account (Q2) |  | -24.8B | -23.5B |
@@ -69,8 +69,8 @@
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Sep) |  |  | 2.4% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Sep) |  |  | 0.1% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Sep) |  |  | 2.0% |
-| 09:00 | EUR | Low | Saxony CPI (MoM) (Sep) |  |  | 0.0% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Sep) |  |  | 2.2% |
+| 09:00 | EUR | Low | Saxony CPI (MoM) (Sep) |  |  | 0.0% |
 | 09:00 | EUR | Low | Spanish Current account (Jul) |  |  | 5.03B |
 | 09:00 | NOK | Low | Central Bank Currency Purchase (Oct) |  |  | -150.0M |
 | 09:00 | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
@@ -99,8 +99,8 @@
 | 13:50 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.7% |
 | 14:00 | USD | Low | Fed Collins Speaks |  |  |  |
-| 14:00 | USD | Low | House Price Index (MoM) (Jul) |  | 0.0% | -0.2% |
 | 14:00 | USD | Low | House Price Index (YoY) (Jul) |  |  | 2.6% |
+| 14:00 | USD | Low | House Price Index (MoM) (Jul) |  | 0.0% | -0.2% |
 | 14:00 | USD | Low | House Price Index (Jul) |  |  | 433.8 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Jul) |  |  | -0.3% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jul) |  |  | 0.0% |

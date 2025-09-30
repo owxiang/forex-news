@@ -8,7 +8,7 @@
 | 02:30 | CNY | Non-Manufacturing PMI (Sep) | 50.0 | 50.3 | 50.3 |
 | 02:45 | CNY | Caixin Manufacturing PMI (MoM) (Sep) | 51.2 | 50.2 | 50.5 |
 | 02:45 | CNY | Caixin Services PMI (Sep) | 52.9 | 52.3 | 53.0 |
-| 05:30 | AUD | RBA Rate Statement |  |  |  |
+| 22 min | AUD | RBA Rate Statement |  |  |  |
 | 07:00 | GBP | Business Investment (QoQ) (Q2) |  | -4.0% | 3.9% |
 | 07:00 | GBP | Current Account (Q2) |  | -24.8B | -23.5B |
 | 07:00 | EUR | German Retail Sales (MoM) (Aug) |  | 0.5% | -1.5% |
