@@ -10,4 +10,4 @@
 | 14:45 | USD | Chicago PMI (Sep) | 40.6 | 43.4 | 41.5 |
 | 15:00 | USD | CB Consumer Confidence (Sep) | 94.2 | 96.0 | 97.8 |
 | 15:00 | USD | JOLTS Job Openings (Aug) | 7.227M | 7.190M | 7.208M |
-| 53 min | USD | U.S. President Trump Speaks |  |  |  |
+| 16:00 | USD | U.S. President Trump Speaks |  |  |  |
