@@ -16,8 +16,8 @@
 | 07:45 | EUR | French CPI (MoM) (Sep) | -1.0% | -0.9% | 0.4% |
 | 07:45 | EUR | French HICP (MoM) (Sep) | -1.1% | -0.9% | 0.5% |
 | 08:00 | CHF | KOF Leading Indicators (Sep) | 98.0 | 97.1 | 96.2 |
-| 47 min | EUR | German Unemployment Change (Sep) |  | 8K | -9K |
-| 47 min | EUR | German Unemployment Rate (Sep) |  | 6.3% | 6.3% |
+| 08:55 | EUR | German Unemployment Change (Sep) | 14K | 8K | -9K |
+| 08:55 | EUR | German Unemployment Rate (Sep) | 6.3% | 6.3% | 6.3% |
 | 10:30 | EUR | German Buba Balz Speaks |  |  |  |
 | 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Aug) |  |  | 77.6% |
 | 13:00 | GBP | MPC Member Ramsden Speaks |  |  |  |
