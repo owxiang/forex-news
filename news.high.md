@@ -7,7 +7,7 @@
 | 07:00 | GBP | GDP (QoQ) (Q2) | 0.3% | 0.3% | 0.7% |
 | 07:00 | GBP | GDP (YoY) (Q2) | 1.4% | 1.2% | 1.7% |
 | 13:00 | EUR | German CPI (MoM) (Sep) | 0.2% | 0.2% | 0.1% |
-| 14:45 | USD | Chicago PMI (Sep) |  | 43.4 | 41.5 |
-| 15:00 | USD | CB Consumer Confidence (Sep) |  | 96.0 | 97.4 |
-| 15:00 | USD | JOLTS Job Openings (Aug) |  | 7.190M | 7.181M |
+| 31 min | USD | Chicago PMI (Sep) |  | 43.4 | 41.5 |
+| 46 min | USD | CB Consumer Confidence (Sep) |  | 96.0 | 97.4 |
+| 46 min | USD | JOLTS Job Openings (Aug) |  | 7.190M | 7.181M |
 | 16:00 | USD | U.S. President Trump Speaks |  |  |  |

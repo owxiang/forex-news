@@ -23,10 +23,10 @@
 | 13:00 | GBP | MPC Member Ramsden Speaks |  |  |  |
 | 13:00 | EUR | German CPI (YoY) (Sep) | 2.4% | 2.3% | 2.2% |
 | 13:00 | BRL | Unemployment Rate (Aug) | 5.6% | 5.6% | 5.6% |
-| 38 min | EUR | ECB President Lagarde Speaks |  |  |  |
-| 48 min | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jul) |  |  | 0.0% |
-| 48 min | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jul) |  | 1.7% | 2.1% |
-| 48 min | EUR | ECB's Elderson Speaks |  |  |  |
-| 14:25 | GBP | BoE MPC Member Mann Speaks |  |  |  |
+| 13:50 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jul) | -0.3% |  | 0.0% |
+| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jul) | 1.8% | 1.7% | 2.2% |
+| 14:00 | EUR | ECB's Elderson Speaks |  |  |  |
+| 11 min | GBP | BoE MPC Member Mann Speaks |  |  |  |
 | 18:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | -3.821M |

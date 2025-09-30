@@ -98,20 +98,20 @@
 | 13:00 | EUR | Low | German HICP (MoM) (Sep) | 0.2% | 0.1% | 0.1% |
 | 13:00 | BRL | Moderate | Unemployment Rate (Aug) | 5.6% | 5.6% | 5.6% |
 | 13:00 | ZAR | Low | Trade Balance (Aug) | 3.97B |  | 19.56B |
-| 38 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 43 min | USD | Low | Redbook (YoY) |  |  | 5.7% |
-| 48 min | USD | Low | Fed Collins Speaks |  |  |  |
-| 48 min | USD | Low | House Price Index (MoM) (Jul) |  | -0.2% | -0.2% |
-| 48 min | USD | Low | House Price Index (YoY) (Jul) |  |  | 2.6% |
-| 48 min | USD | Low | House Price Index (Jul) |  |  | 433.8 |
-| 48 min | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Jul) |  |  | -0.3% |
-| 48 min | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jul) |  |  | 0.0% |
-| 48 min | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jul) |  | 1.7% | 2.1% |
-| 48 min | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 14:25 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
-| 14:45 | USD | High | Chicago PMI (Sep) |  | 43.4 | 41.5 |
-| 15:00 | USD | High | CB Consumer Confidence (Sep) |  | 96.0 | 97.4 |
-| 15:00 | USD | High | JOLTS Job Openings (Aug) |  | 7.190M | 7.181M |
+| 13:50 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 13:55 | USD | Low | Redbook (YoY) | 5.9% |  | 5.7% |
+| 14:00 | USD | Low | Fed Collins Speaks |  |  |  |
+| 14:00 | USD | Low | House Price Index (MoM) (Jul) | -0.1% | -0.2% | -0.2% |
+| 14:00 | USD | Low | House Price Index (YoY) (Jul) | 2.3% |  | 2.7% |
+| 14:00 | USD | Low | House Price Index (Jul) | 433.4 |  | 433.9 |
+| 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Jul) | -0.1% |  | -0.2% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jul) | -0.3% |  | 0.0% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jul) | 1.8% | 1.7% | 2.2% |
+| 14:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 11 min | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
+| 31 min | USD | High | Chicago PMI (Sep) |  | 43.4 | 41.5 |
+| 46 min | USD | High | CB Consumer Confidence (Sep) |  | 96.0 | 97.4 |
+| 46 min | USD | High | JOLTS Job Openings (Aug) |  | 7.190M | 7.181M |
 | 15:30 | USD | Low | Dallas Fed Services Revenues (Sep) |  |  | 8.6 |
 | 15:30 | USD | Low | Texas Services Sector Outlook (Sep) |  |  | 6.8 |
 | 16:00 | USD | High | U.S. President Trump Speaks |  |  |  |

@@ -72,12 +72,12 @@
 | 13:00 | EUR | German HICP (YoY) (Sep) | 2.4% | 2.2% | 2.1% |
 | 13:00 | EUR | German HICP (MoM) (Sep) | 0.2% | 0.1% | 0.1% |
 | 13:00 | ZAR | Trade Balance (Aug) | 3.97B |  | 19.56B |
-| 43 min | USD | Redbook (YoY) |  |  | 5.7% |
-| 48 min | USD | Fed Collins Speaks |  |  |  |
-| 48 min | USD | House Price Index (MoM) (Jul) |  | -0.2% | -0.2% |
-| 48 min | USD | House Price Index (YoY) (Jul) |  |  | 2.6% |
-| 48 min | USD | House Price Index (Jul) |  |  | 433.8 |
-| 48 min | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Jul) |  |  | -0.3% |
+| 13:55 | USD | Redbook (YoY) | 5.9% |  | 5.7% |
+| 14:00 | USD | Fed Collins Speaks |  |  |  |
+| 14:00 | USD | House Price Index (MoM) (Jul) | -0.1% | -0.2% | -0.2% |
+| 14:00 | USD | House Price Index (YoY) (Jul) | 2.3% |  | 2.7% |
+| 14:00 | USD | House Price Index (Jul) | 433.4 |  | 433.9 |
+| 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Jul) | -0.1% |  | -0.2% |
 | 15:30 | USD | Dallas Fed Services Revenues (Sep) |  |  | 8.6 |
 | 15:30 | USD | Texas Services Sector Outlook (Sep) |  |  | 6.8 |
 | 16:30 | GBP | BoE Breeden Speaks |  |  |  |
