@@ -15,12 +15,12 @@
 | 00:50 | JPY | Retail Sales (YoY) (Aug) | -1.1% | 1.0% | 0.4% |
 | 01:00 | NZD | ANZ Business Confidence (Sep) | 49.6 |  | 49.7 |
 | 01:00 | NZD | NBNZ Own Activity (Sep) | 43.4% |  | 38.7% |
-| 02:30 | AUD | Building Approvals (YoY) (Aug) | -1.20% | 8.30% | 5.40% |
+| 02:30 | AUD | Building Approvals (YoY) (Aug) | -1.20% | 8.30% | 9.20% |
 | 02:30 | AUD | Housing Credit (Aug) | 0.6% |  | 0.5% |
-| 02:30 | AUD | Private House Approvals (Aug) | -2.6% |  | 1.1% |
+| 02:30 | AUD | Private House Approvals (Aug) | -2.6% |  | 1.3% |
 | 02:30 | AUD | Private Sector Credit (MoM) (Aug) | 0.6% | 0.6% | 0.7% |
-| 26 min | SGD | Bank Lending (Aug) |  |  | 854.0B |
-| 26 min | NZD | M3 Money Supply (Aug) |  |  | 439,451.0B |
+| 03:00 | SGD | Bank Lending (Aug) | 851.7B |  | 854.0B |
+| 03:00 | NZD | M3 Money Supply (Aug) | 436.6B |  | 439.5B |
 | 04:35 | JPY | 2-Year JGB Auction |  |  | 0.863% |
 | 06:00 | JPY | Construction Orders (YoY) (Aug) |  |  | -19.0% |
 | 06:00 | JPY | Housing Starts (YoY) (Aug) |  | -4.9% | -9.7% |
@@ -37,8 +37,8 @@
 | 08:00 | CHF | Official Reserves Assets (Aug) |  |  | 818.4B |
 | 08:55 | EUR | German Unemployment (Sep) |  |  | 2.957M |
 | 08:55 | EUR | German Unemployment n.s.a. (Sep) |  |  | 3.025M |
-| 09:00 | EUR | Italian PPI (YoY) (Aug) |  |  | 1.6% |
 | 09:00 | EUR | Italian PPI (MoM) (Aug) |  |  | 0.5% |
+| 09:00 | EUR | Italian PPI (YoY) (Aug) |  |  | 1.6% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Sep) |  |  | 2.5% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Sep) |  |  | -0.1% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Sep) |  |  | 2.1% |

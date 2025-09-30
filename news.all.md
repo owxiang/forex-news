@@ -16,25 +16,25 @@
 | 00:50 | JPY | Low | Retail Sales (YoY) (Aug) | -1.1% | 1.0% | 0.4% |
 | 01:00 | NZD | Low | ANZ Business Confidence (Sep) | 49.6 |  | 49.7 |
 | 01:00 | NZD | Low | NBNZ Own Activity (Sep) | 43.4% |  | 38.7% |
-| 02:30 | AUD | Low | Building Approvals (YoY) (Aug) | -1.20% | 8.30% | 5.40% |
-| 02:30 | AUD | Moderate | Building Approvals (MoM) (Aug) | -6.0% | 2.5% | -8.2% |
+| 02:30 | AUD | Low | Building Approvals (YoY) (Aug) | -1.20% | 8.30% | 9.20% |
+| 02:30 | AUD | Moderate | Building Approvals (MoM) (Aug) | -6.0% | 2.5% | -10.0% |
 | 02:30 | AUD | Low | Housing Credit (Aug) | 0.6% |  | 0.5% |
-| 02:30 | AUD | Low | Private House Approvals (Aug) | -2.6% |  | 1.1% |
+| 02:30 | AUD | Low | Private House Approvals (Aug) | -2.6% |  | 1.3% |
 | 02:30 | AUD | Low | Private Sector Credit (MoM) (Aug) | 0.6% | 0.6% | 0.7% |
 | 02:30 | CNY | Moderate | Chinese Composite PMI (Sep) | 50.6 |  | 50.5 |
 | 02:30 | CNY | High | Manufacturing PMI (Sep) | 49.8 | 49.6 | 49.4 |
 | 02:30 | CNY | Moderate | Non-Manufacturing PMI (Sep) | 50.0 | 50.3 | 50.3 |
-| 11 min | CNY | Moderate | Caixin Manufacturing PMI (MoM) (Sep) |  | 50.2 | 50.5 |
-| 11 min | CNY | Moderate | Caixin Services PMI (Sep) |  | 52.3 | 53.0 |
-| 26 min | SGD | Low | Bank Lending (Aug) |  |  | 854.0B |
-| 26 min | NZD | Low | M3 Money Supply (Aug) |  |  | 439,451.0B |
+| 02:45 | CNY | Moderate | Caixin Manufacturing PMI (MoM) (Sep) | 51.2 | 50.2 | 50.5 |
+| 02:45 | CNY | Moderate | Caixin Services PMI (Sep) | 52.9 | 52.3 | 53.0 |
+| 03:00 | SGD | Low | Bank Lending (Aug) | 851.7B |  | 854.0B |
+| 03:00 | NZD | Low | M3 Money Supply (Aug) | 436.6B |  | 439.5B |
 | 04:35 | JPY | Low | 2-Year JGB Auction |  |  | 0.863% |
 | 05:30 | AUD | High | RBA Interest Rate Decision (Sep) |  | 3.60% | 3.60% |
 | 05:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
 | 06:00 | JPY | Low | Construction Orders (YoY) (Aug) |  |  | -19.0% |
 | 06:00 | JPY | Low | Housing Starts (YoY) (Aug) |  | -4.9% | -9.7% |
-| 07:00 | GBP | Low | Business Investment (YoY) (Q2) |  | 0.1% | 0.1% |
 | 07:00 | GBP | Moderate | Business Investment (QoQ) (Q2) |  | -4.0% | 3.9% |
+| 07:00 | GBP | Low | Business Investment (YoY) (Q2) |  | 0.1% | 0.1% |
 | 07:00 | GBP | Moderate | Current Account (Q2) |  | -24.8B | -23.5B |
 | 07:00 | GBP | High | GDP (YoY) (Q2) |  | 1.2% | 1.3% |
 | 07:00 | GBP | High | GDP (QoQ) (Q2) |  | 0.3% | 0.7% |
@@ -57,8 +57,8 @@
 | 08:55 | EUR | Moderate | German Unemployment Rate (Sep) |  | 6.3% | 6.3% |
 | 08:55 | EUR | Low | German Unemployment (Sep) |  |  | 2.957M |
 | 08:55 | EUR | Low | German Unemployment n.s.a. (Sep) |  |  | 3.025M |
-| 09:00 | EUR | Low | Italian PPI (YoY) (Aug) |  |  | 1.6% |
 | 09:00 | EUR | Low | Italian PPI (MoM) (Aug) |  |  | 0.5% |
+| 09:00 | EUR | Low | Italian PPI (YoY) (Aug) |  |  | 1.6% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Sep) |  |  | 2.5% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Sep) |  |  | -0.1% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Sep) |  |  | 2.1% |
