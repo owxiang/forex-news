@@ -41,8 +41,8 @@
 | 09:00 | EUR | Italian PPI (MoM) (Aug) | -0.6% |  | 0.5% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Sep) | 2.7% |  | 2.5% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Sep) | 0.2% |  | -0.1% |
-| 09:00 | EUR | Bavaria CPI (MoM) (Sep) | 0.4% |  | 0.1% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Sep) | 2.4% |  | 2.1% |
+| 09:00 | EUR | Bavaria CPI (MoM) (Sep) | 0.4% |  | 0.1% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Sep) | 0.1% |  | 0.0% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Sep) | 2.6% |  | 2.5% |
 | 09:00 | EUR | Hesse CPI (YoY) (Sep) | 2.6% |  | 2.4% |
@@ -59,16 +59,17 @@
 | 10:00 | EUR | Italian CPI (YoY) (Sep) | 1.6% | 1.7% | 1.6% |
 | 10:00 | EUR | Italian HICP (MoM) (Sep) | 1.3% |  | -0.2% |
 | 10:00 | EUR | Italian HICP (YoY) (Sep) | 1.8% | 1.7% | 1.6% |
-| 52 min | USD | Fed Governor Jefferson Speaks |  |  |  |
-| 52 min | EUR | Italian Industrial Sales (YoY) (Jul) |  |  | 0.30% |
-| 52 min | EUR | Italian Industrial Sales (MoM) (Jul) |  |  | 1.20% |
-| 52 min | INR | Federal Fiscal Deficit (Aug) |  |  | 4,684.16B |
+| 10:32 | ZAR | Budget Balance (MoM) (Aug) | -38.35B |  | -150.85B |
+| 11:00 | USD | Fed Governor Jefferson Speaks |  |  |  |
+| 11:00 | EUR | Italian Industrial Sales (MoM) (Jul) | 0.40% |  | 1.20% |
+| 11:00 | EUR | Italian Industrial Sales (YoY) (Jul) | 1.20% |  | 0.30% |
+| 11:00 | INR | Federal Fiscal Deficit (Aug) |  |  | 4,684.16B |
 | 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
 | 12:30 | BRL | Net Debt-to-GDP ratio (Aug) |  |  | 63.7% |
 | 12:30 | BRL | Budget Balance (Aug) |  | -96.100B | -175.576B |
 | 12:30 | BRL | Budget Surplus (Aug) |  |  | -66.566B |
-| 13:00 | EUR | German HICP (MoM) (Sep) |  | 0.1% | 0.1% |
 | 13:00 | EUR | German HICP (YoY) (Sep) |  | 2.2% | 2.1% |
+| 13:00 | EUR | German HICP (MoM) (Sep) |  | 0.1% | 0.1% |
 | 13:00 | ZAR | Trade Balance (Aug) |  |  | 20.29B |
 | 13:55 | USD | Redbook (YoY) |  |  | 5.7% |
 | 14:00 | USD | Fed Collins Speaks |  |  |  |
@@ -84,4 +85,3 @@
 | 20:00 | MXN | Fiscal Balance (Aug) |  |  | -101.43B |
 | 22:45 | NZD | Building Consents (MoM) (Aug) |  |  | 5.4% |
 | 23:30 | INR | Foreign Debt (USD) (Q2) |  |  | 736.3B |
-| 23:31 | ZAR | Budget Balance (MoM) (Aug) |  |  | -150.85B |

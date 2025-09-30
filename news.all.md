@@ -36,8 +36,8 @@
 | 07:00 | GBP | Low | Business Investment (YoY) (Q2) | 3.0% | 0.1% | 5.8% |
 | 07:00 | GBP | Moderate | Business Investment (QoQ) (Q2) | -1.1% | -4.0% | 4.1% |
 | 07:00 | GBP | Moderate | Current Account (Q2) | -28.9B | -24.8B | -21.2B |
-| 07:00 | GBP | High | GDP (QoQ) (Q2) | 0.3% | 0.3% | 0.7% |
 | 07:00 | GBP | High | GDP (YoY) (Q2) | 1.4% | 1.2% | 1.3% |
+| 07:00 | GBP | High | GDP (QoQ) (Q2) | 0.3% | 0.3% | 0.7% |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Aug) | -0.5% | -0.2% | -0.4% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Aug) | -1.5% |  | -1.4% |
 | 07:00 | EUR | Low | German Retail Sales (YoY) (Aug) | 1.8% |  | 3.3% |
@@ -61,8 +61,8 @@
 | 09:00 | EUR | Low | Italian PPI (MoM) (Aug) | -0.6% |  | 0.5% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Sep) | 2.7% |  | 2.5% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Sep) | 0.2% |  | -0.1% |
-| 09:00 | EUR | Low | Bavaria CPI (MoM) (Sep) | 0.4% |  | 0.1% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Sep) | 2.4% |  | 2.1% |
+| 09:00 | EUR | Low | Bavaria CPI (MoM) (Sep) | 0.4% |  | 0.1% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Sep) | 0.1% |  | 0.0% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Sep) | 2.6% |  | 2.5% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Sep) | 2.6% |  | 2.4% |
@@ -79,11 +79,12 @@
 | 10:00 | EUR | Low | Italian CPI (YoY) (Sep) | 1.6% | 1.7% | 1.6% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Sep) | 1.3% |  | -0.2% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Sep) | 1.8% | 1.7% | 1.6% |
-| 22 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 52 min | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
-| 52 min | EUR | Low | Italian Industrial Sales (YoY) (Jul) |  |  | 0.30% |
-| 52 min | EUR | Low | Italian Industrial Sales (MoM) (Jul) |  |  | 1.20% |
-| 52 min | INR | Low | Federal Fiscal Deficit (Aug) |  |  | 4,684.16B |
+| 10:30 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 10:32 | ZAR | Low | Budget Balance (MoM) (Aug) | -38.35B |  | -150.85B |
+| 11:00 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
+| 11:00 | EUR | Low | Italian Industrial Sales (MoM) (Jul) | 0.40% |  | 1.20% |
+| 11:00 | EUR | Low | Italian Industrial Sales (YoY) (Jul) | 1.20% |  | 0.30% |
+| 11:00 | INR | Low | Federal Fiscal Deficit (Aug) |  |  | 4,684.16B |
 | 12:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
 | 12:30 | BRL | Low | Net Debt-to-GDP ratio (Aug) |  |  | 63.7% |
 | 12:30 | BRL | Low | Budget Balance (Aug) |  | -96.100B | -175.576B |
@@ -92,8 +93,8 @@
 | 13:00 | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
 | 13:00 | EUR | High | German CPI (MoM) (Sep) |  | 0.2% | 0.1% |
 | 13:00 | EUR | Moderate | German CPI (YoY) (Sep) |  | 2.3% | 2.2% |
-| 13:00 | EUR | Low | German HICP (MoM) (Sep) |  | 0.1% | 0.1% |
 | 13:00 | EUR | Low | German HICP (YoY) (Sep) |  | 2.2% | 2.1% |
+| 13:00 | EUR | Low | German HICP (MoM) (Sep) |  | 0.1% | 0.1% |
 | 13:00 | BRL | Moderate | Unemployment Rate (Aug) |  | 5.6% | 5.6% |
 | 13:00 | ZAR | Low | Trade Balance (Aug) |  |  | 20.29B |
 | 13:50 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
@@ -103,8 +104,8 @@
 | 14:00 | USD | Low | House Price Index (MoM) (Jul) |  | -0.2% | -0.2% |
 | 14:00 | USD | Low | House Price Index (Jul) |  |  | 433.8 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Jul) |  |  | -0.3% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jul) |  | 1.7% | 2.1% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jul) |  |  | 0.0% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jul) |  | 1.7% | 2.1% |
 | 14:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 14:25 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 14:45 | USD | High | Chicago PMI (Sep) |  | 43.4 | 41.5 |
@@ -121,4 +122,3 @@
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -3.821M |
 | 22:45 | NZD | Low | Building Consents (MoM) (Aug) |  |  | 5.4% |
 | 23:30 | INR | Low | Foreign Debt (USD) (Q2) |  |  | 736.3B |
-| 23:31 | ZAR | Low | Budget Balance (MoM) (Aug) |  |  | -150.85B |
