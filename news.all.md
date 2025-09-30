@@ -28,16 +28,16 @@
 | 02:45 | CNY | Moderate | Caixin Services PMI (Sep) | 52.9 | 52.3 | 53.0 |
 | 03:00 | SGD | Low | Bank Lending (Aug) | 851.7B |  | 854.0B |
 | 03:00 | NZD | Low | M3 Money Supply (Aug) | 436.6B |  | 439.5B |
-| 04:35 | JPY | Low | 2-Year JGB Auction |  |  | 0.863% |
+| 18 min | JPY | Low | 2-Year JGB Auction |  |  | 0.863% |
 | 05:30 | AUD | High | RBA Interest Rate Decision (Sep) |  | 3.60% | 3.60% |
 | 05:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
 | 06:00 | JPY | Low | Construction Orders (YoY) (Aug) |  |  | -19.0% |
 | 06:00 | JPY | Low | Housing Starts (YoY) (Aug) |  | -4.9% | -9.7% |
-| 07:00 | GBP | Moderate | Business Investment (QoQ) (Q2) |  | -4.0% | 3.9% |
 | 07:00 | GBP | Low | Business Investment (YoY) (Q2) |  | 0.1% | 0.1% |
+| 07:00 | GBP | Moderate | Business Investment (QoQ) (Q2) |  | -4.0% | 3.9% |
 | 07:00 | GBP | Moderate | Current Account (Q2) |  | -24.8B | -23.5B |
-| 07:00 | GBP | High | GDP (YoY) (Q2) |  | 1.2% | 1.3% |
 | 07:00 | GBP | High | GDP (QoQ) (Q2) |  | 0.3% | 0.7% |
+| 07:00 | GBP | High | GDP (YoY) (Q2) |  | 1.2% | 1.3% |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Aug) |  | -0.2% | -0.4% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Aug) |  |  | -1.4% |
 | 07:00 | EUR | Low | German Retail Sales (YoY) (Aug) |  |  | 1.9% |
@@ -47,8 +47,8 @@
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Aug) |  | 0.3% | -0.3% |
 | 07:45 | EUR | Low | French CPI (YoY) (Sep) |  | 1.3% | 0.9% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Sep) |  | -0.9% | 0.4% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Sep) |  | -0.9% | 0.5% |
 | 07:45 | EUR | Low | French HICP (YoY) (Sep) |  | 1.3% | 0.8% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Sep) |  | -0.9% | 0.5% |
 | 07:45 | EUR | Low | PPI (YoY) (Aug) |  |  | 0.40% |
 | 07:45 | EUR | Low | French PPI (MoM) (Aug) |  |  | 0.4% |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Sep) |  | 97.1 | 97.4 |
@@ -59,30 +59,30 @@
 | 08:55 | EUR | Low | German Unemployment n.s.a. (Sep) |  |  | 3.025M |
 | 09:00 | EUR | Low | Italian PPI (MoM) (Aug) |  |  | 0.5% |
 | 09:00 | EUR | Low | Italian PPI (YoY) (Aug) |  |  | 1.6% |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Sep) |  |  | 2.5% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Sep) |  |  | -0.1% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Sep) |  |  | 2.5% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Sep) |  |  | 2.1% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Sep) |  |  | 0.1% |
-| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Sep) |  |  | 0.0% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Sep) |  |  | 2.5% |
-| 09:00 | EUR | Low | Hesse CPI (YoY) (Sep) |  |  | 2.4% |
+| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Sep) |  |  | 0.0% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Sep) |  |  | 0.0% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Sep) |  |  | 2.0% |
+| 09:00 | EUR | Low | Hesse CPI (YoY) (Sep) |  |  | 2.4% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Sep) |  |  | 0.1% |
-| 09:00 | EUR | Low | Saxony CPI (YoY) (Sep) |  |  | 2.2% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Sep) |  |  | 2.0% |
 | 09:00 | EUR | Low | Saxony CPI (MoM) (Sep) |  |  | 0.0% |
+| 09:00 | EUR | Low | Saxony CPI (YoY) (Sep) |  |  | 2.2% |
 | 09:00 | EUR | Low | Spanish Current account (Jul) |  |  | 5.03B |
 | 09:00 | NOK | Low | Central Bank Currency Purchase (Oct) |  |  | -150.0M |
 | 09:00 | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
 | 09:30 | HKD | Low | M3 Money Supply (Aug) |  |  | 6.2% |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Sep) |  | 0.2% | 0.1% |
 | 10:00 | EUR | Low | Italian CPI (YoY) (Sep) |  | 1.7% | 1.6% |
-| 10:00 | EUR | Low | Italian HICP (MoM) (Sep) |  |  | -0.2% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Sep) |  | 1.7% | 1.6% |
+| 10:00 | EUR | Low | Italian HICP (MoM) (Sep) |  |  | -0.2% |
 | 10:30 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 11:00 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
-| 11:00 | EUR | Low | Italian Industrial Sales (YoY) (Jul) |  |  | 0.30% |
 | 11:00 | EUR | Low | Italian Industrial Sales (MoM) (Jul) |  |  | 1.20% |
+| 11:00 | EUR | Low | Italian Industrial Sales (YoY) (Jul) |  |  | 0.30% |
 | 11:00 | INR | Low | Federal Fiscal Deficit (Aug) |  |  | 4,684.16B |
 | 12:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
 | 12:30 | BRL | Low | Net Debt-to-GDP ratio (Aug) |  |  | 63.7% |
@@ -92,15 +92,15 @@
 | 13:00 | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
 | 13:00 | EUR | High | German CPI (MoM) (Sep) |  | 0.1% | 0.1% |
 | 13:00 | EUR | Moderate | German CPI (YoY) (Sep) |  | 2.3% | 2.2% |
-| 13:00 | EUR | Low | German HICP (MoM) (Sep) |  | 0.1% | 0.1% |
 | 13:00 | EUR | Low | German HICP (YoY) (Sep) |  | 2.2% | 2.1% |
+| 13:00 | EUR | Low | German HICP (MoM) (Sep) |  | 0.1% | 0.1% |
 | 13:00 | BRL | Moderate | Unemployment Rate (Aug) |  | 5.6% | 5.6% |
 | 13:00 | ZAR | Low | Trade Balance (Aug) |  |  | 20.29B |
 | 13:50 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.7% |
 | 14:00 | USD | Low | Fed Collins Speaks |  |  |  |
-| 14:00 | USD | Low | House Price Index (YoY) (Jul) |  |  | 2.6% |
 | 14:00 | USD | Low | House Price Index (MoM) (Jul) |  | 0.0% | -0.2% |
+| 14:00 | USD | Low | House Price Index (YoY) (Jul) |  |  | 2.6% |
 | 14:00 | USD | Low | House Price Index (Jul) |  |  | 433.8 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Jul) |  |  | -0.3% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jul) |  |  | 0.0% |
