@@ -19,10 +19,10 @@
 | 08:55 | EUR | German Unemployment Change (Sep) | 14K | 8K | -9K |
 | 08:55 | EUR | German Unemployment Rate (Sep) | 6.3% | 6.3% | 6.3% |
 | 10:30 | EUR | German Buba Balz Speaks |  |  |  |
-| 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Aug) |  |  | 77.6% |
-| 13:00 | GBP | MPC Member Ramsden Speaks |  |  |  |
-| 13:00 | EUR | German CPI (YoY) (Sep) |  | 2.3% | 2.2% |
-| 13:00 | BRL | Unemployment Rate (Aug) |  | 5.6% | 5.6% |
+| 24 min | BRL | Gross Debt-to-GDP ratio (MoM) (Aug) |  |  | 77.6% |
+| 54 min | GBP | MPC Member Ramsden Speaks |  |  |  |
+| 54 min | EUR | German CPI (YoY) (Sep) |  | 2.3% | 2.2% |
+| 54 min | BRL | Unemployment Rate (Aug) |  | 5.6% | 5.6% |
 | 13:50 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jul) |  |  | 0.0% |
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jul) |  | 1.7% | 2.1% |

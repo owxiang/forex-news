@@ -45,8 +45,8 @@
 | 07:00 | ZAR | Low | M3 Money Supply (YoY) (Aug) | 6.18% |  | 6.75% |
 | 07:00 | ZAR | Low | Private Sector Credit (Aug) | 5.86% |  | 5.84% |
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Aug) | 0.1% | 0.3% | -0.6% |
-| 07:45 | EUR | Low | French CPI (YoY) (Sep) | 1.2% | 1.3% | 0.9% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Sep) | -1.0% | -0.9% | 0.4% |
+| 07:45 | EUR | Low | French CPI (YoY) (Sep) | 1.2% | 1.3% | 0.9% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Sep) | -1.1% | -0.9% | 0.5% |
 | 07:45 | EUR | Low | French HICP (YoY) (Sep) | 1.1% | 1.3% | 0.8% |
 | 07:45 | EUR | Low | PPI (YoY) (Aug) | 0.10% |  | 0.50% |
@@ -57,16 +57,16 @@
 | 08:55 | EUR | Moderate | German Unemployment Rate (Sep) | 6.3% | 6.3% | 6.3% |
 | 08:55 | EUR | Low | German Unemployment (Sep) | 2.976M |  | 2.957M |
 | 08:55 | EUR | Low | German Unemployment n.s.a. (Sep) | 2.955M |  | 3.025M |
-| 09:00 | EUR | Low | Italian PPI (YoY) (Aug) | 0.2% |  | 1.6% |
 | 09:00 | EUR | Low | Italian PPI (MoM) (Aug) | -0.6% |  | 0.5% |
+| 09:00 | EUR | Low | Italian PPI (YoY) (Aug) | 0.2% |  | 1.6% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Sep) | 2.7% |  | 2.5% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Sep) | 0.2% |  | -0.1% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Sep) | 2.4% |  | 2.1% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Sep) | 0.4% |  | 0.1% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Sep) | 0.1% |  | 0.0% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Sep) | 2.6% |  | 2.5% |
-| 09:00 | EUR | Low | Hesse CPI (YoY) (Sep) | 2.6% |  | 2.4% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Sep) | 0.2% |  | 0.0% |
+| 09:00 | EUR | Low | Hesse CPI (YoY) (Sep) | 2.6% |  | 2.4% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Sep) | 2.3% |  | 2.0% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Sep) | 0.2% |  | 0.1% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Sep) | 2.2% |  | 2.2% |
@@ -82,21 +82,21 @@
 | 10:30 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 10:32 | ZAR | Low | Budget Balance (MoM) (Aug) | -38.35B |  | -150.85B |
 | 11:00 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
-| 11:00 | EUR | Low | Italian Industrial Sales (MoM) (Jul) | 0.40% |  | 1.20% |
 | 11:00 | EUR | Low | Italian Industrial Sales (YoY) (Jul) | 1.20% |  | 0.30% |
-| 11:00 | INR | Low | Federal Fiscal Deficit (Aug) |  |  | 4,684.16B |
-| 12:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
-| 12:30 | BRL | Low | Net Debt-to-GDP ratio (Aug) |  |  | 63.7% |
-| 12:30 | BRL | Low | Budget Balance (Aug) |  | -96.100B | -175.576B |
-| 12:30 | BRL | Low | Budget Surplus (Aug) |  |  | -66.566B |
-| 12:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Aug) |  |  | 77.6% |
-| 13:00 | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
-| 13:00 | EUR | High | German CPI (MoM) (Sep) |  | 0.2% | 0.1% |
-| 13:00 | EUR | Moderate | German CPI (YoY) (Sep) |  | 2.3% | 2.2% |
-| 13:00 | EUR | Low | German HICP (YoY) (Sep) |  | 2.2% | 2.1% |
-| 13:00 | EUR | Low | German HICP (MoM) (Sep) |  | 0.1% | 0.1% |
-| 13:00 | BRL | Moderate | Unemployment Rate (Aug) |  | 5.6% | 5.6% |
-| 13:00 | ZAR | Low | Trade Balance (Aug) |  |  | 20.29B |
+| 11:00 | EUR | Low | Italian Industrial Sales (MoM) (Jul) | 0.40% |  | 1.20% |
+| 11:00 | INR | Low | Federal Fiscal Deficit (Aug) | 5,981.53B |  | 4,684.16B |
+| 24 min | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
+| 24 min | BRL | Low | Net Debt-to-GDP ratio (Aug) |  |  | 63.7% |
+| 24 min | BRL | Low | Budget Balance (Aug) |  | -96.100B | -175.576B |
+| 24 min | BRL | Low | Budget Surplus (Aug) |  |  | -66.566B |
+| 24 min | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Aug) |  |  | 77.6% |
+| 54 min | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
+| 54 min | EUR | Moderate | German CPI (YoY) (Sep) |  | 2.3% | 2.2% |
+| 54 min | EUR | High | German CPI (MoM) (Sep) |  | 0.2% | 0.1% |
+| 54 min | EUR | Low | German HICP (YoY) (Sep) |  | 2.2% | 2.1% |
+| 54 min | EUR | Low | German HICP (MoM) (Sep) |  | 0.1% | 0.1% |
+| 54 min | BRL | Moderate | Unemployment Rate (Aug) |  | 5.6% | 5.6% |
+| 54 min | ZAR | Low | Trade Balance (Aug) |  |  | 20.29B |
 | 13:50 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.7% |
 | 14:00 | USD | Low | Fed Collins Speaks |  |  |  |

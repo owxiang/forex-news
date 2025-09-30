@@ -37,16 +37,16 @@
 | 08:00 | CHF | Official Reserves Assets (Aug) | 818.8B |  | 818.4B |
 | 08:55 | EUR | German Unemployment (Sep) | 2.976M |  | 2.957M |
 | 08:55 | EUR | German Unemployment n.s.a. (Sep) | 2.955M |  | 3.025M |
-| 09:00 | EUR | Italian PPI (YoY) (Aug) | 0.2% |  | 1.6% |
 | 09:00 | EUR | Italian PPI (MoM) (Aug) | -0.6% |  | 0.5% |
+| 09:00 | EUR | Italian PPI (YoY) (Aug) | 0.2% |  | 1.6% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Sep) | 2.7% |  | 2.5% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Sep) | 0.2% |  | -0.1% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Sep) | 2.4% |  | 2.1% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Sep) | 0.4% |  | 0.1% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Sep) | 0.1% |  | 0.0% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Sep) | 2.6% |  | 2.5% |
-| 09:00 | EUR | Hesse CPI (YoY) (Sep) | 2.6% |  | 2.4% |
 | 09:00 | EUR | Hesse CPI (MoM) (Sep) | 0.2% |  | 0.0% |
+| 09:00 | EUR | Hesse CPI (YoY) (Sep) | 2.6% |  | 2.4% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Sep) | 2.3% |  | 2.0% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Sep) | 0.2% |  | 0.1% |
 | 09:00 | EUR | Saxony CPI (YoY) (Sep) | 2.2% |  | 2.2% |
@@ -61,16 +61,16 @@
 | 10:00 | EUR | Italian HICP (YoY) (Sep) | 1.8% | 1.7% | 1.6% |
 | 10:32 | ZAR | Budget Balance (MoM) (Aug) | -38.35B |  | -150.85B |
 | 11:00 | USD | Fed Governor Jefferson Speaks |  |  |  |
-| 11:00 | EUR | Italian Industrial Sales (MoM) (Jul) | 0.40% |  | 1.20% |
 | 11:00 | EUR | Italian Industrial Sales (YoY) (Jul) | 1.20% |  | 0.30% |
-| 11:00 | INR | Federal Fiscal Deficit (Aug) |  |  | 4,684.16B |
-| 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
-| 12:30 | BRL | Net Debt-to-GDP ratio (Aug) |  |  | 63.7% |
-| 12:30 | BRL | Budget Balance (Aug) |  | -96.100B | -175.576B |
-| 12:30 | BRL | Budget Surplus (Aug) |  |  | -66.566B |
-| 13:00 | EUR | German HICP (YoY) (Sep) |  | 2.2% | 2.1% |
-| 13:00 | EUR | German HICP (MoM) (Sep) |  | 0.1% | 0.1% |
-| 13:00 | ZAR | Trade Balance (Aug) |  |  | 20.29B |
+| 11:00 | EUR | Italian Industrial Sales (MoM) (Jul) | 0.40% |  | 1.20% |
+| 11:00 | INR | Federal Fiscal Deficit (Aug) | 5,981.53B |  | 4,684.16B |
+| 24 min | INR | RBI Monetary and Credit Information Review |  |  |  |
+| 24 min | BRL | Net Debt-to-GDP ratio (Aug) |  |  | 63.7% |
+| 24 min | BRL | Budget Balance (Aug) |  | -96.100B | -175.576B |
+| 24 min | BRL | Budget Surplus (Aug) |  |  | -66.566B |
+| 54 min | EUR | German HICP (YoY) (Sep) |  | 2.2% | 2.1% |
+| 54 min | EUR | German HICP (MoM) (Sep) |  | 0.1% | 0.1% |
+| 54 min | ZAR | Trade Balance (Aug) |  |  | 20.29B |
 | 13:55 | USD | Redbook (YoY) |  |  | 5.7% |
 | 14:00 | USD | Fed Collins Speaks |  |  |  |
 | 14:00 | USD | House Price Index (YoY) (Jul) |  |  | 2.6% |
