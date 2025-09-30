@@ -3,11 +3,11 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Industrial Production (MoM) (Aug) | -1.2% | -0.7% | -1.2% |
-| 02:30 | AUD | Building Approvals (MoM) (Aug) |  | 2.5% | -8.2% |
-| 02:30 | CNY | Chinese Composite PMI (Sep) |  |  | 50.5 |
-| 02:30 | CNY | Non-Manufacturing PMI (Sep) |  | 50.3 | 50.3 |
-| 02:45 | CNY | Caixin Manufacturing PMI (MoM) (Sep) |  | 50.2 | 50.5 |
-| 02:45 | CNY | Caixin Services PMI (Sep) |  | 52.3 | 53.0 |
+| 02:30 | AUD | Building Approvals (MoM) (Aug) | -6.0% | 2.5% | -8.2% |
+| 02:30 | CNY | Chinese Composite PMI (Sep) | 50.6 |  | 50.5 |
+| 02:30 | CNY | Non-Manufacturing PMI (Sep) | 50.0 | 50.3 | 50.3 |
+| 11 min | CNY | Caixin Manufacturing PMI (MoM) (Sep) |  | 50.2 | 50.5 |
+| 11 min | CNY | Caixin Services PMI (Sep) |  | 52.3 | 53.0 |
 | 05:30 | AUD | RBA Rate Statement |  |  |  |
 | 07:00 | GBP | Business Investment (QoQ) (Q2) |  | -4.0% | 3.9% |
 | 07:00 | GBP | Current Account (Q2) |  | -24.8B | -23.5B |
