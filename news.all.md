@@ -36,8 +36,8 @@
 | 07:00 | GBP | Low | Business Investment (YoY) (Q2) | 3.0% | 0.1% | 5.8% |
 | 07:00 | GBP | Moderate | Business Investment (QoQ) (Q2) | -1.1% | -4.0% | 4.1% |
 | 07:00 | GBP | Moderate | Current Account (Q2) | -28.9B | -24.8B | -21.2B |
-| 07:00 | GBP | High | GDP (QoQ) (Q2) | 0.3% | 0.3% | 0.7% |
 | 07:00 | GBP | High | GDP (YoY) (Q2) | 1.4% | 1.2% | 1.7% |
+| 07:00 | GBP | High | GDP (QoQ) (Q2) | 0.3% | 0.3% | 0.7% |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Aug) | -0.5% | -0.2% | -0.4% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Aug) | -1.5% |  | -1.4% |
 | 07:00 | EUR | Low | German Retail Sales (YoY) (Aug) | 1.8% |  | 3.3% |
@@ -45,10 +45,10 @@
 | 07:00 | ZAR | Low | M3 Money Supply (YoY) (Aug) | 6.18% |  | 6.75% |
 | 07:00 | ZAR | Low | Private Sector Credit (Aug) | 5.86% |  | 5.84% |
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Aug) | 0.1% | 0.3% | -0.6% |
-| 07:45 | EUR | Low | French CPI (YoY) (Sep) | 1.2% | 1.3% | 0.9% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Sep) | -1.0% | -0.9% | 0.4% |
-| 07:45 | EUR | Low | French HICP (YoY) (Sep) | 1.1% | 1.3% | 0.8% |
+| 07:45 | EUR | Low | French CPI (YoY) (Sep) | 1.2% | 1.3% | 0.9% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Sep) | -1.1% | -0.9% | 0.5% |
+| 07:45 | EUR | Low | French HICP (YoY) (Sep) | 1.1% | 1.3% | 0.8% |
 | 07:45 | EUR | Low | PPI (YoY) (Aug) | 0.10% |  | 0.50% |
 | 07:45 | EUR | Low | French PPI (MoM) (Aug) | -0.2% |  | 0.5% |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Sep) | 98.0 | 97.1 | 96.2 |
@@ -59,26 +59,26 @@
 | 08:55 | EUR | Low | German Unemployment n.s.a. (Sep) | 2.955M |  | 3.025M |
 | 09:00 | EUR | Low | Italian PPI (MoM) (Aug) | -0.6% |  | 0.5% |
 | 09:00 | EUR | Low | Italian PPI (YoY) (Aug) | 0.2% |  | 1.6% |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Sep) | 0.2% |  | -0.1% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Sep) | 2.7% |  | 2.5% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Sep) | 0.2% |  | -0.1% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Sep) | 2.4% |  | 2.1% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Sep) | 0.4% |  | 0.1% |
-| 09:00 | EUR | Low | Brandenburg CPI (YoY) (Sep) | 2.6% |  | 2.5% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Sep) | 0.1% |  | 0.0% |
+| 09:00 | EUR | Low | Brandenburg CPI (YoY) (Sep) | 2.6% |  | 2.5% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Sep) | 0.2% |  | 0.0% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Sep) | 2.6% |  | 2.4% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Sep) | 0.2% |  | 0.1% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Sep) | 2.3% |  | 2.0% |
-| 09:00 | EUR | Low | Saxony CPI (MoM) (Sep) | 0.2% |  | 0.0% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Sep) | 0.2% |  | 0.1% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Sep) | 2.2% |  | 2.2% |
+| 09:00 | EUR | Low | Saxony CPI (MoM) (Sep) | 0.2% |  | 0.0% |
 | 09:00 | EUR | Low | Spanish Current account (Jul) | 6.27B |  | 5.36B |
 | 09:00 | NOK | Low | Central Bank Currency Purchase (Oct) | -150.0M |  | -150.0M |
 | 09:00 | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
 | 09:30 | HKD | Low | M3 Money Supply (Aug) | 4.0% |  | 6.2% |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Sep) | -0.2% | -0.1% | 0.1% |
 | 10:00 | EUR | Low | Italian CPI (YoY) (Sep) | 1.6% | 1.7% | 1.6% |
-| 10:00 | EUR | Low | Italian HICP (YoY) (Sep) | 1.8% | 1.7% | 1.6% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Sep) | 1.3% |  | -0.2% |
+| 10:00 | EUR | Low | Italian HICP (YoY) (Sep) | 1.8% | 1.7% | 1.6% |
 | 10:30 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 10:32 | ZAR | Low | Budget Balance (MoM) (Aug) | -38.35B |  | -150.85B |
 | 11:00 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
@@ -92,10 +92,10 @@
 | 12:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Aug) | 77.5% | 78.0% | 77.6% |
 | 13:00 | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
 | 13:00 | INR | Low | Foreign Debt (USD) (Q2) | 747.2B |  | 736.3B |
-| 13:00 | EUR | High | German CPI (MoM) (Sep) | 0.2% | 0.2% | 0.1% |
 | 13:00 | EUR | Moderate | German CPI (YoY) (Sep) | 2.4% | 2.3% | 2.2% |
-| 13:00 | EUR | Low | German HICP (YoY) (Sep) | 2.4% | 2.2% | 2.1% |
+| 13:00 | EUR | High | German CPI (MoM) (Sep) | 0.2% | 0.2% | 0.1% |
 | 13:00 | EUR | Low | German HICP (MoM) (Sep) | 0.2% | 0.1% | 0.1% |
+| 13:00 | EUR | Low | German HICP (YoY) (Sep) | 2.4% | 2.2% | 2.1% |
 | 13:00 | BRL | Moderate | Unemployment Rate (Aug) | 5.6% | 5.6% | 5.6% |
 | 13:00 | ZAR | Low | Trade Balance (Aug) | 3.97B |  | 19.56B |
 | 13:50 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
@@ -117,8 +117,8 @@
 | 16:00 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 16:30 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 16:30 | USD | Low | 52-Week Bill Auction | 3.540% |  | 3.660% |
-| 51 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 18:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 18:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 23 min | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 20:00 | MXN | Low | Fiscal Balance (Aug) |  |  | -101.43B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -3.821M |
 | 22:45 | NZD | Low | Building Consents (MoM) (Aug) |  |  | 5.4% |

@@ -28,5 +28,5 @@
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jul) | 1.8% | 1.7% | 2.2% |
 | 14:00 | EUR | ECB's Elderson Speaks |  |  |  |
 | 14:25 | GBP | BoE MPC Member Mann Speaks |  |  |  |
-| 51 min | EUR | German Buba President Nagel Speaks |  |  |  |
+| 18:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | -3.821M |
