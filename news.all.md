@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | Industrial Production (MoM) (Aug) | 2.4% |  | 0.3% |
 | 00:00 | KRW | Low | Industrial Production (YoY) (Aug) | 0.9% | 1.3% | 5.0% |
+| 00:00 | KRW | Low | Industrial Production (MoM) (Aug) | 2.4% |  | 0.3% |
 | 00:00 | KRW | Low | Retail Sales (MoM) (Aug) | -2.4% |  | 2.7% |
 | 00:00 | KRW | Low | Service Sector Output (MoM) (Aug) | -0.7% |  | 0.2% |
 | 00:01 | GBP | Low | BRC Shop Price Index (YoY) | 1.4% | 1.2% | 0.9% |
@@ -40,8 +40,8 @@
 | 07:00 | GBP | High | GDP (YoY) (Q2) | 1.4% | 1.2% | 1.7% |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Aug) | -0.5% | -0.2% | -0.4% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Aug) | -1.5% |  | -1.4% |
-| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Aug) | -0.2% | 0.6% | -0.5% |
 | 07:00 | EUR | Low | German Retail Sales (YoY) (Aug) | 1.8% |  | 3.3% |
+| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Aug) | -0.2% | 0.6% | -0.5% |
 | 07:00 | ZAR | Low | M3 Money Supply (YoY) (Aug) | 6.18% |  | 6.75% |
 | 07:00 | ZAR | Low | Private Sector Credit (Aug) | 5.86% |  | 5.84% |
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Aug) | 0.1% | 0.3% | -0.6% |
@@ -63,8 +63,8 @@
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Sep) | 0.2% |  | -0.1% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Sep) | 0.4% |  | 0.1% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Sep) | 2.4% |  | 2.1% |
-| 09:00 | EUR | Low | Brandenburg CPI (YoY) (Sep) | 2.6% |  | 2.5% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Sep) | 0.1% |  | 0.0% |
+| 09:00 | EUR | Low | Brandenburg CPI (YoY) (Sep) | 2.6% |  | 2.5% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Sep) | 2.6% |  | 2.4% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Sep) | 0.2% |  | 0.0% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Sep) | 2.3% |  | 2.0% |
@@ -105,8 +105,8 @@
 | 14:00 | USD | Low | House Price Index (MoM) (Jul) | -0.1% | -0.2% | -0.2% |
 | 14:00 | USD | Low | House Price Index (Jul) | 433.4 |  | 433.9 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Jul) | -0.1% |  | -0.2% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jul) | 1.8% | 1.7% | 2.2% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jul) | -0.3% |  | 0.0% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jul) | 1.8% | 1.7% | 2.2% |
 | 14:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 14:25 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 14:45 | USD | High | Chicago PMI (Sep) | 40.6 | 43.4 | 41.5 |
@@ -119,5 +119,6 @@
 | 16:30 | USD | Low | 52-Week Bill Auction | 3.540% |  | 3.660% |
 | 18:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 18:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 22 min | USD | Moderate | API Weekly Crude Oil Stock |  |  | -3.821M |
-| 22:45 | NZD | Low | Building Consents (MoM) (Aug) |  |  | 5.4% |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | -3.674M |  | -3.821M |
+| 22:00 | MXN | Low | Fiscal Balance (Jun) | -21.03B |  | -117.90B |
+| 39 min | NZD | Low | Building Consents (MoM) (Aug) |  |  | 5.4% |

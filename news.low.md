@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Industrial Production (MoM) (Aug) | 2.4% |  | 0.3% |
 | 00:00 | KRW | Industrial Production (YoY) (Aug) | 0.9% | 1.3% | 5.0% |
+| 00:00 | KRW | Industrial Production (MoM) (Aug) | 2.4% |  | 0.3% |
 | 00:00 | KRW | Retail Sales (MoM) (Aug) | -2.4% |  | 2.7% |
 | 00:00 | KRW | Service Sector Output (MoM) (Aug) | -0.7% |  | 0.2% |
 | 00:01 | GBP | BRC Shop Price Index (YoY) | 1.4% | 1.2% | 0.9% |
@@ -43,8 +43,8 @@
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Sep) | 0.2% |  | -0.1% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Sep) | 0.4% |  | 0.1% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Sep) | 2.4% |  | 2.1% |
-| 09:00 | EUR | Brandenburg CPI (YoY) (Sep) | 2.6% |  | 2.5% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Sep) | 0.1% |  | 0.0% |
+| 09:00 | EUR | Brandenburg CPI (YoY) (Sep) | 2.6% |  | 2.5% |
 | 09:00 | EUR | Hesse CPI (YoY) (Sep) | 2.6% |  | 2.4% |
 | 09:00 | EUR | Hesse CPI (MoM) (Sep) | 0.2% |  | 0.0% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Sep) | 2.3% |  | 2.0% |
@@ -83,4 +83,5 @@
 | 16:30 | GBP | BoE Breeden Speaks |  |  |  |
 | 16:30 | USD | 52-Week Bill Auction | 3.540% |  | 3.660% |
 | 18:30 | USD | Fed Goolsbee Speaks |  |  |  |
-| 22:45 | NZD | Building Consents (MoM) (Aug) |  |  | 5.4% |
+| 22:00 | MXN | Fiscal Balance (Jun) | -21.03B |  | -117.90B |
+| 39 min | NZD | Building Consents (MoM) (Aug) |  |  | 5.4% |
