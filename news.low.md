@@ -37,45 +37,45 @@
 | 08:00 | CHF | Official Reserves Assets (Aug) | 818.8B |  | 818.4B |
 | 08:55 | EUR | German Unemployment (Sep) | 2.976M |  | 2.957M |
 | 08:55 | EUR | German Unemployment n.s.a. (Sep) | 2.955M |  | 3.025M |
-| 09:00 | EUR | Italian PPI (YoY) (Aug) | 0.2% |  | 1.6% |
 | 09:00 | EUR | Italian PPI (MoM) (Aug) | -0.6% |  | 0.5% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Sep) | 2.7% |  | 2.5% |
+| 09:00 | EUR | Italian PPI (YoY) (Aug) | 0.2% |  | 1.6% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Sep) | 0.2% |  | -0.1% |
-| 09:00 | EUR | Bavaria CPI (MoM) (Sep) | 0.4% |  | 0.1% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Sep) | 2.7% |  | 2.5% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Sep) | 2.4% |  | 2.1% |
-| 09:00 | EUR | Brandenburg CPI (MoM) (Sep) | 0.1% |  | 0.0% |
+| 09:00 | EUR | Bavaria CPI (MoM) (Sep) | 0.4% |  | 0.1% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Sep) | 2.6% |  | 2.5% |
-| 09:00 | EUR | Hesse CPI (YoY) (Sep) | 2.6% |  | 2.4% |
+| 09:00 | EUR | Brandenburg CPI (MoM) (Sep) | 0.1% |  | 0.0% |
 | 09:00 | EUR | Hesse CPI (MoM) (Sep) | 0.2% |  | 0.0% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Sep) | 2.3% |  | 2.0% |
+| 09:00 | EUR | Hesse CPI (YoY) (Sep) | 2.6% |  | 2.4% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Sep) | 0.2% |  | 0.1% |
+| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Sep) | 2.3% |  | 2.0% |
 | 09:00 | EUR | Saxony CPI (YoY) (Sep) | 2.2% |  | 2.2% |
 | 09:00 | EUR | Saxony CPI (MoM) (Sep) | 0.2% |  | 0.0% |
 | 09:00 | EUR | Spanish Current account (Jul) | 6.27B |  | 5.36B |
 | 09:00 | NOK | Central Bank Currency Purchase (Oct) | -150.0M |  | -150.0M |
 | 09:00 | ZAR | SARB Quarterly Bulletin |  |  |  |
 | 09:30 | HKD | M3 Money Supply (Aug) | 4.0% |  | 6.2% |
-| 10:00 | EUR | Italian CPI (YoY) (Sep) | 1.6% | 1.7% | 1.6% |
 | 10:00 | EUR | Italian CPI (MoM) (Sep) | -0.2% | -0.1% | 0.1% |
-| 10:00 | EUR | Italian HICP (MoM) (Sep) | 1.3% |  | -0.2% |
+| 10:00 | EUR | Italian CPI (YoY) (Sep) | 1.6% | 1.7% | 1.6% |
 | 10:00 | EUR | Italian HICP (YoY) (Sep) | 1.8% | 1.7% | 1.6% |
+| 10:00 | EUR | Italian HICP (MoM) (Sep) | 1.3% |  | -0.2% |
 | 10:32 | ZAR | Budget Balance (MoM) (Aug) | -38.35B |  | -150.85B |
 | 11:00 | USD | Fed Governor Jefferson Speaks |  |  |  |
-| 11:00 | EUR | Italian Industrial Sales (MoM) (Jul) | 0.40% |  | 1.20% |
 | 11:00 | EUR | Italian Industrial Sales (YoY) (Jul) | 1.20% |  | 0.30% |
+| 11:00 | EUR | Italian Industrial Sales (MoM) (Jul) | 0.40% |  | 1.20% |
 | 11:00 | INR | Federal Fiscal Deficit (Aug) | 5,981.53B |  | 4,684.16B |
 | 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
 | 12:30 | BRL | Net Debt-to-GDP ratio (Aug) | 64.2% |  | 63.7% |
 | 12:30 | BRL | Budget Balance (Aug) | -91.516B | -96.100B | -175.576B |
 | 12:30 | BRL | Budget Surplus (Aug) | -17.255B |  | -66.566B |
 | 13:00 | INR | Foreign Debt (USD) (Q2) | 747.2B |  | 736.3B |
-| 13:00 | EUR | German HICP (MoM) (Sep) | 0.2% | 0.1% | 0.1% |
 | 13:00 | EUR | German HICP (YoY) (Sep) | 2.4% | 2.2% | 2.1% |
+| 13:00 | EUR | German HICP (MoM) (Sep) | 0.2% | 0.1% | 0.1% |
 | 13:00 | ZAR | Trade Balance (Aug) | 3.97B |  | 19.56B |
 | 13:55 | USD | Redbook (YoY) | 5.9% |  | 5.7% |
 | 14:00 | USD | Fed Collins Speaks |  |  |  |
-| 14:00 | USD | House Price Index (YoY) (Jul) | 2.3% |  | 2.7% |
 | 14:00 | USD | House Price Index (MoM) (Jul) | -0.1% | -0.2% | -0.2% |
+| 14:00 | USD | House Price Index (YoY) (Jul) | 2.3% |  | 2.7% |
 | 14:00 | USD | House Price Index (Jul) | 433.4 |  | 433.9 |
 | 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Jul) | -0.1% |  | -0.2% |
 | 15:30 | USD | Dallas Fed Services Revenues (Sep) | -2.4 |  | 8.6 |
@@ -83,5 +83,5 @@
 | 16:30 | GBP | BoE Breeden Speaks |  |  |  |
 | 16:30 | USD | 52-Week Bill Auction | 3.540% |  | 3.660% |
 | 18:30 | USD | Fed Goolsbee Speaks |  |  |  |
-| 22:00 | MXN | Fiscal Balance (Jun) | -21.03B |  | -117.90B |
-| 39 min | NZD | Building Consents (MoM) (Aug) |  |  | 5.4% |
+| 22:00 | MXN | Fiscal Balance (Jun) | -21.03B |  | -116.71B |
+| 22:45 | NZD | Building Consents (MoM) (Aug) | 5.8% |  | 5.3% |
