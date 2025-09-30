@@ -82,6 +82,6 @@
 | 15:30 | USD | Texas Services Sector Outlook (Sep) | -5.6 |  | 6.8 |
 | 16:30 | GBP | BoE Breeden Speaks |  |  |  |
 | 16:30 | USD | 52-Week Bill Auction | 3.540% |  | 3.660% |
-| 23 min | USD | Fed Goolsbee Speaks |  |  |  |
-| 20:00 | MXN | Fiscal Balance (Aug) |  |  | -101.43B |
+| 18:30 | USD | Fed Goolsbee Speaks |  |  |  |
+| 50 min | MXN | Fiscal Balance (Aug) |  |  | -101.43B |
 | 22:45 | NZD | Building Consents (MoM) (Aug) |  |  | 5.4% |

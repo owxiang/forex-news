@@ -118,7 +118,7 @@
 | 16:30 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 16:30 | USD | Low | 52-Week Bill Auction | 3.540% |  | 3.660% |
 | 18:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 23 min | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 20:00 | MXN | Low | Fiscal Balance (Aug) |  |  | -101.43B |
+| 18:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 50 min | MXN | Low | Fiscal Balance (Aug) |  |  | -101.43B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -3.821M |
 | 22:45 | NZD | Low | Building Consents (MoM) (Aug) |  |  | 5.4% |
