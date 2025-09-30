@@ -80,8 +80,8 @@
 | 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Jul) | -0.1% |  | -0.2% |
 | 15:30 | USD | Dallas Fed Services Revenues (Sep) | -2.4 |  | 8.6 |
 | 15:30 | USD | Texas Services Sector Outlook (Sep) | -5.6 |  | 6.8 |
-| 23 min | GBP | BoE Breeden Speaks |  |  |  |
-| 23 min | USD | 52-Week Bill Auction |  |  | 3.660% |
+| 16:30 | GBP | BoE Breeden Speaks |  |  |  |
+| 16:30 | USD | 52-Week Bill Auction | 3.540% |  | 3.660% |
 | 18:30 | USD | Fed Goolsbee Speaks |  |  |  |
 | 20:00 | MXN | Fiscal Balance (Aug) |  |  | -101.43B |
 | 22:45 | NZD | Building Consents (MoM) (Aug) |  |  | 5.4% |

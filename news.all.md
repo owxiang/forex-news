@@ -115,9 +115,9 @@
 | 15:30 | USD | Low | Dallas Fed Services Revenues (Sep) | -2.4 |  | 8.6 |
 | 15:30 | USD | Low | Texas Services Sector Outlook (Sep) | -5.6 |  | 6.8 |
 | 16:00 | USD | High | U.S. President Trump Speaks |  |  |  |
-| 23 min | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 23 min | USD | Low | 52-Week Bill Auction |  |  | 3.660% |
-| 18:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 16:30 | GBP | Low | BoE Breeden Speaks |  |  |  |
+| 16:30 | USD | Low | 52-Week Bill Auction | 3.540% |  | 3.660% |
+| 51 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 18:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 20:00 | MXN | Low | Fiscal Balance (Aug) |  |  | -101.43B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -3.821M |
