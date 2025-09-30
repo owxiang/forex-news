@@ -9,13 +9,13 @@
 | 02:45 | CNY | Caixin Manufacturing PMI (MoM) (Sep) | 51.2 | 50.3 | 50.5 |
 | 02:45 | CNY | Caixin Services PMI (Sep) | 52.9 | 52.4 | 53.0 |
 | 05:30 | AUD | RBA Rate Statement |  |  |  |
-| 53 min | GBP | Business Investment (QoQ) (Q2) |  | -4.0% | 3.9% |
-| 53 min | GBP | Current Account (Q2) |  | -24.8B | -23.5B |
-| 53 min | EUR | German Retail Sales (MoM) (Aug) |  | 0.6% | -1.5% |
-| 07:45 | EUR | French Consumer Spending (MoM) (Aug) |  | 0.3% | -0.3% |
-| 07:45 | EUR | French CPI (MoM) (Sep) |  | -0.9% | 0.4% |
-| 07:45 | EUR | French HICP (MoM) (Sep) |  | -0.9% | 0.5% |
-| 08:00 | CHF | KOF Leading Indicators (Sep) |  | 97.1 | 97.4 |
+| 07:00 | GBP | Business Investment (QoQ) (Q2) | -1.1% | -4.0% | 4.1% |
+| 07:00 | GBP | Current Account (Q2) | -28.9B | -24.8B | -21.2B |
+| 07:00 | EUR | German Retail Sales (MoM) (Aug) | -0.2% | 0.6% | -0.5% |
+| 34 min | EUR | French Consumer Spending (MoM) (Aug) |  | 0.3% | -0.3% |
+| 34 min | EUR | French CPI (MoM) (Sep) |  | -0.9% | 0.4% |
+| 34 min | EUR | French HICP (MoM) (Sep) |  | -0.9% | 0.5% |
+| 49 min | CHF | KOF Leading Indicators (Sep) |  | 97.1 | 97.4 |
 | 08:55 | EUR | German Unemployment Change (Sep) |  | 8K | -9K |
 | 08:55 | EUR | German Unemployment Rate (Sep) |  | 6.3% | 6.3% |
 | 10:30 | EUR | German Buba Balz Speaks |  |  |  |
@@ -24,8 +24,8 @@
 | 13:00 | EUR | German CPI (YoY) (Sep) |  | 2.3% | 2.2% |
 | 13:00 | BRL | Unemployment Rate (Aug) |  | 5.6% | 5.6% |
 | 13:50 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jul) |  |  | 0.0% |
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jul) |  | 1.7% | 2.1% |
+| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jul) |  |  | 0.0% |
 | 14:00 | EUR | ECB's Elderson Speaks |  |  |  |
 | 14:25 | GBP | BoE MPC Member Mann Speaks |  |  |  |
 | 18:00 | EUR | German Buba President Nagel Speaks |  |  |  |

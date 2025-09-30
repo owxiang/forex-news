@@ -24,25 +24,25 @@
 | 04:35 | JPY | 2-Year JGB Auction | 0.949% |  | 0.863% |
 | 06:00 | JPY | Construction Orders (YoY) (Aug) | 38.9% |  | -19.0% |
 | 06:00 | JPY | Housing Starts (YoY) (Aug) | -9.8% | -5.2% | -9.7% |
-| 53 min | GBP | Business Investment (YoY) (Q2) |  | 0.1% | 6.1% |
-| 53 min | EUR | German Import Price Index (MoM) (Aug) |  | -0.2% | -0.4% |
-| 53 min | EUR | German Import Price Index (YoY) (Aug) |  |  | -1.4% |
-| 53 min | EUR | German Retail Sales (YoY) (Aug) |  |  | 1.9% |
-| 53 min | ZAR | M3 Money Supply (YoY) (Aug) |  |  | 6.75% |
-| 53 min | ZAR | Private Sector Credit (Aug) |  |  | 5.84% |
-| 07:45 | EUR | French CPI (YoY) (Sep) |  | 1.3% | 0.9% |
-| 07:45 | EUR | French HICP (YoY) (Sep) |  | 1.3% | 0.8% |
-| 07:45 | EUR | PPI (YoY) (Aug) |  |  | 0.40% |
-| 07:45 | EUR | French PPI (MoM) (Aug) |  |  | 0.4% |
-| 08:00 | CHF | Official Reserves Assets (Aug) |  |  | 818.4B |
+| 07:00 | GBP | Business Investment (YoY) (Q2) | 3.0% | 0.1% | 5.8% |
+| 07:00 | EUR | German Import Price Index (MoM) (Aug) | -0.5% | -0.2% | -0.4% |
+| 07:00 | EUR | German Import Price Index (YoY) (Aug) | -1.5% |  | -1.4% |
+| 07:00 | EUR | German Retail Sales (YoY) (Aug) | 1.8% |  | 2.9% |
+| 07:00 | ZAR | M3 Money Supply (YoY) (Aug) | 6.18% |  | 6.75% |
+| 07:00 | ZAR | Private Sector Credit (Aug) | 5.86% |  | 5.84% |
+| 34 min | EUR | French CPI (YoY) (Sep) |  | 1.3% | 0.9% |
+| 34 min | EUR | French HICP (YoY) (Sep) |  | 1.3% | 0.8% |
+| 34 min | EUR | PPI (YoY) (Aug) |  |  | 0.40% |
+| 34 min | EUR | French PPI (MoM) (Aug) |  |  | 0.4% |
+| 49 min | CHF | Official Reserves Assets (Aug) |  |  | 818.4B |
 | 08:55 | EUR | German Unemployment (Sep) |  |  | 2.957M |
 | 08:55 | EUR | German Unemployment n.s.a. (Sep) |  |  | 3.025M |
-| 09:00 | EUR | Italian PPI (MoM) (Aug) |  |  | 0.5% |
 | 09:00 | EUR | Italian PPI (YoY) (Aug) |  |  | 1.6% |
+| 09:00 | EUR | Italian PPI (MoM) (Aug) |  |  | 0.5% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Sep) |  |  | 2.5% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Sep) |  |  | -0.1% |
-| 09:00 | EUR | Bavaria CPI (YoY) (Sep) |  |  | 2.1% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Sep) |  |  | 0.1% |
+| 09:00 | EUR | Bavaria CPI (YoY) (Sep) |  |  | 2.1% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Sep) |  |  | 0.0% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Sep) |  |  | 2.5% |
 | 09:00 | EUR | Hesse CPI (YoY) (Sep) |  |  | 2.4% |
@@ -55,8 +55,8 @@
 | 09:00 | NOK | Central Bank Currency Purchase (Oct) |  |  | -150.0M |
 | 09:00 | ZAR | SARB Quarterly Bulletin |  |  |  |
 | 09:30 | HKD | M3 Money Supply (Aug) |  |  | 6.2% |
-| 10:00 | EUR | Italian CPI (MoM) (Sep) |  | -0.1% | 0.1% |
 | 10:00 | EUR | Italian CPI (YoY) (Sep) |  | 1.7% | 1.6% |
+| 10:00 | EUR | Italian CPI (MoM) (Sep) |  | -0.1% | 0.1% |
 | 10:00 | EUR | Italian HICP (MoM) (Sep) |  |  | -0.2% |
 | 10:00 | EUR | Italian HICP (YoY) (Sep) |  | 1.7% | 1.6% |
 | 11:00 | USD | Fed Governor Jefferson Speaks |  |  |  |
