@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 44 min | JPY | Industrial Production (MoM) (Aug) |  | -0.7% | -1.2% |
+| 00:50 | JPY | Industrial Production (MoM) (Aug) | -1.2% | -0.7% | -1.2% |
 | 02:30 | AUD | Building Approvals (MoM) (Aug) |  | 2.5% | -8.2% |
 | 02:30 | CNY | Chinese Composite PMI (Sep) |  |  | 50.5 |
 | 02:30 | CNY | Non-Manufacturing PMI (Sep) |  | 50.3 | 50.3 |
