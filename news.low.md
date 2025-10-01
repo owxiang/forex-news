@@ -17,19 +17,19 @@
 | 01:00 | KRW | Trade Balance (Sep) | 9.56B | 7.81B | 6.51B |
 | 01:30 | USD | Fed Governor Jefferson Speaks |  |  |  |
 | 01:30 | KRW | S&P Global South Korea Manufacturing PMI (Sep) | 50.7 |  | 48.3 |
-| 01:30 | JPY | au Jibun Bank Manufacturing PMI (Sep) | 48.5 | 48.4 | 48.4 |
+| 01:30 | JPY | au Jibun Bank Manufacturing PMI (Sep) | 48.5 | 48.4 | 49.7 |
 | 01:30 | SGD | URA Property Index (QoQ) (Q3) | 1.20% |  | 1.00% |
 | 01:30 | IDR | S&P Global Manufacturing PMI (Sep) | 50.4 |  | 51.5 |
 | 02:30 | AUD | RBA Chart Pack Release |  |  |  |
-| 03:00 | IDR | Export Growth (YoY) (Aug) | 5.78% | 5.00% | 9.86% |
-| 05:00 | IDR | Core Inflation (YoY) (Sep) |  | 2.20% | 2.17% |
-| 05:00 | IDR | Import Growth (YoY) (Aug) |  | -2.00% | -5.86% |
-| 05:00 | IDR | Inflation (MoM) (Sep) |  | 0.13% | -0.08% |
-| 05:00 | IDR | Inflation (YoY) (Sep) |  | 2.50% | 2.31% |
-| 05:00 | IDR | Trade Balance (Aug) |  | 3.99B | 4.18B |
-| 22 min | INR | Cash Reserve Ratio |  | 3.75% | 4.00% |
-| 22 min | INR | Reverse REPO Rate |  |  | 3.35% |
-| 52 min | INR | S&P Global Manufacturing PMI (Sep) |  | 58.5 | 59.3 |
+| 05:00 | IDR | Core Inflation (YoY) (Sep) | 2.19% | 2.20% | 2.17% |
+| 05:00 | IDR | Export Growth (YoY) (Aug) | 5.78% | 5.00% | 9.86% |
+| 05:00 | IDR | Import Growth (YoY) (Aug) | -6.56% | -2.00% | -5.86% |
+| 05:00 | IDR | Inflation (YoY) (Sep) | 2.65% | 2.50% | 2.31% |
+| 05:00 | IDR | Inflation (MoM) (Sep) | 0.21% | 0.13% | -0.08% |
+| 05:00 | IDR | Trade Balance (Aug) | 5.49B | 3.99B | 4.18B |
+| 05:30 | INR | Cash Reserve Ratio | 4.00% | 3.75% | 4.00% |
+| 05:30 | INR | Reverse REPO Rate | 3.35% |  | 3.35% |
+| 06:00 | INR | S&P Global Manufacturing PMI (Sep) | 57.7 | 58.5 | 59.3 |
 | 07:30 | CHF | Retail Sales (YoY) (Aug) |  | 0.5% | 0.7% |
 | 07:30 | AUD | Commodity Prices (YoY) (Sep) |  |  | -4.3% |
 | 09:00 | NOK | Manufacturing PMI (Sep) |  |  | 49.6 |
@@ -46,8 +46,8 @@
 | 12:00 | USD | Mortgage Market Index |  |  | 388.3 |
 | 12:00 | USD | Mortgage Refinance Index |  |  | 1,609.8 |
 | 12:30 | INR | M3 Money Supply |  |  | 9.5% |
-| 13:30 | ZAR | Total Vehicle Sales (Sep) |  |  | 51.88K |
 | 13:30 | ZAR | Total Vehicle Sales (YoY) (Sep) |  |  | 18.70% |
+| 13:30 | ZAR | Total Vehicle Sales (Sep) |  |  | 51.88K |
 | 14:00 | CHF | SNB Quarterly Bulletin |  |  |  |
 | 14:00 | BRL | S&P Global Manufacturing PMI (Sep) |  |  | 47.7 |
 | 14:30 | CAD | S&P Global Manufacturing PMI (Sep) |  |  | 48.3 |
@@ -66,3 +66,4 @@
 | 18:30 | EUR | Italian Car Registration (YoY) (Sep) |  |  | -2.7% |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | -0.660B |
 | 20:00 | MXN | Fiscal Balance (Aug) |  |  | -101.43B |
+| 22:00 | USD | Fed Goolsbee Speaks |  |  |  |

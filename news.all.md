@@ -21,23 +21,23 @@
 | 01:00 | KRW | Low | Trade Balance (Sep) | 9.56B | 7.81B | 6.51B |
 | 01:30 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
 | 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Sep) | 50.7 |  | 48.3 |
-| 01:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Sep) | 48.5 | 48.4 | 48.4 |
+| 01:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Sep) | 48.5 | 48.4 | 49.7 |
 | 01:30 | SGD | Low | URA Property Index (QoQ) (Q3) | 1.20% |  | 1.00% |
 | 01:30 | IDR | Low | S&P Global Manufacturing PMI (Sep) | 50.4 |  | 51.5 |
 | 02:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
-| 03:00 | IDR | Low | Export Growth (YoY) (Aug) | 5.78% | 5.00% | 9.86% |
-| 05:00 | IDR | Low | Core Inflation (YoY) (Sep) |  | 2.20% | 2.17% |
-| 05:00 | IDR | Low | Import Growth (YoY) (Aug) |  | -2.00% | -5.86% |
-| 05:00 | IDR | Low | Inflation (MoM) (Sep) |  | 0.13% | -0.08% |
-| 05:00 | IDR | Low | Inflation (YoY) (Sep) |  | 2.50% | 2.31% |
-| 05:00 | IDR | Low | Trade Balance (Aug) |  | 3.99B | 4.18B |
-| 22 min | INR | Low | Cash Reserve Ratio |  | 3.75% | 4.00% |
-| 22 min | INR | Moderate | Interest Rate Decision |  | 5.50% | 5.50% |
-| 22 min | INR | Low | Reverse REPO Rate |  |  | 3.35% |
-| 22 min | INR | Moderate | RBI Financial Stability Report |  |  |  |
-| 52 min | INR | Low | S&P Global Manufacturing PMI (Sep) |  | 58.5 | 59.3 |
-| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Sep) |  | 1.8% | 2.1% |
-| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Sep) |  | 0.2% | -0.1% |
+| 05:00 | IDR | Low | Core Inflation (YoY) (Sep) | 2.19% | 2.20% | 2.17% |
+| 05:00 | IDR | Low | Export Growth (YoY) (Aug) | 5.78% | 5.00% | 9.86% |
+| 05:00 | IDR | Low | Import Growth (YoY) (Aug) | -6.56% | -2.00% | -5.86% |
+| 05:00 | IDR | Low | Inflation (YoY) (Sep) | 2.65% | 2.50% | 2.31% |
+| 05:00 | IDR | Low | Inflation (MoM) (Sep) | 0.21% | 0.13% | -0.08% |
+| 05:00 | IDR | Low | Trade Balance (Aug) | 5.49B | 3.99B | 4.18B |
+| 05:30 | INR | Low | Cash Reserve Ratio | 4.00% | 3.75% | 4.00% |
+| 05:30 | INR | Moderate | Interest Rate Decision | 5.50% | 5.50% | 5.50% |
+| 05:30 | INR | Low | Reverse REPO Rate | 3.35% |  | 3.35% |
+| 05:30 | INR | Moderate | RBI Financial Stability Report |  |  |  |
+| 06:00 | INR | Low | S&P Global Manufacturing PMI (Sep) | 57.7 | 58.5 | 59.3 |
+| 53 min | GBP | Moderate | Nationwide HPI (YoY) (Sep) |  | 1.8% | 2.1% |
+| 53 min | GBP | Moderate | Nationwide HPI (MoM) (Sep) |  | 0.2% | -0.1% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Aug) |  | 0.5% | 0.7% |
 | 07:30 | AUD | Low | Commodity Prices (YoY) (Sep) |  |  | -4.3% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Sep) |  | 53.8 | 54.3 |
@@ -72,8 +72,8 @@
 | 12:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 12:30 | INR | Low | M3 Money Supply |  |  | 9.5% |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Sep) |  | 52K | 54K |
-| 13:30 | ZAR | Low | Total Vehicle Sales (Sep) |  |  | 51.88K |
 | 13:30 | ZAR | Low | Total Vehicle Sales (YoY) (Sep) |  |  | 18.70% |
+| 13:30 | ZAR | Low | Total Vehicle Sales (Sep) |  |  | 51.88K |
 | 14:00 | CHF | Low | SNB Quarterly Bulletin |  |  |  |
 | 14:00 | BRL | Low | S&P Global Manufacturing PMI (Sep) |  |  | 47.7 |
 | 14:30 | CAD | Low | S&P Global Manufacturing PMI (Sep) |  |  | 48.3 |
@@ -82,8 +82,8 @@
 | 15:00 | USD | Moderate | ISM Manufacturing Employment (Sep) |  |  | 43.8 |
 | 15:00 | USD | Low | ISM Manufacturing New Orders Index (Sep) |  |  | 51.4 |
 | 15:00 | USD | High | ISM Manufacturing PMI (Sep) |  | 49.0 | 48.7 |
-| 15:00 | USD | High | ISM Manufacturing Prices (Sep) |  | 62.6 | 63.7 |
-| 15:30 | USD | High | Crude Oil Inventories |  |  | -0.607M |
+| 15:00 | USD | High | ISM Manufacturing Prices (Sep) |  | 62.7 | 63.7 |
+| 15:30 | USD | High | Crude Oil Inventories |  | 1.500M | -0.607M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.052M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 1.596M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.177M |
@@ -101,3 +101,4 @@
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.660B |
 | 19:05 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 20:00 | MXN | Low | Fiscal Balance (Aug) |  |  | -101.43B |
+| 22:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |

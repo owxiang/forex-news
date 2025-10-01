@@ -6,5 +6,5 @@
 | 13:15 | USD | ADP Nonfarm Employment Change (Sep) |  | 52K | 54K |
 | 14:45 | USD | S&P Global Manufacturing PMI (Sep) |  | 52.0 | 53.0 |
 | 15:00 | USD | ISM Manufacturing PMI (Sep) |  | 49.0 | 48.7 |
-| 15:00 | USD | ISM Manufacturing Prices (Sep) |  | 62.6 | 63.7 |
-| 15:30 | USD | Crude Oil Inventories |  |  | -0.607M |
+| 15:00 | USD | ISM Manufacturing Prices (Sep) |  | 62.7 | 63.7 |
+| 15:30 | USD | Crude Oil Inventories |  | 1.500M | -0.607M |
