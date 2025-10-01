@@ -36,8 +36,8 @@
 | 05:30 | INR | Low | Reverse REPO Rate | 3.35% |  | 3.35% |
 | 05:30 | INR | Moderate | RBI Financial Stability Report |  |  |  |
 | 06:00 | INR | Low | S&P Global Manufacturing PMI (Sep) | 57.7 | 58.5 | 59.3 |
-| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Sep) | 2.2% | 1.8% | 2.1% |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Sep) | 0.5% | 0.2% | -0.1% |
+| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Sep) | 2.2% | 1.8% | 2.1% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Aug) | -0.2% | 0.5% | 0.9% |
 | 07:30 | AUD | Low | Commodity Prices (YoY) (Sep) | -0.1% |  | -5.0% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Sep) | 51.5 | 53.8 | 54.3 |
@@ -62,15 +62,15 @@
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction | 2.720% |  | 2.250% |
 | 10:55 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 11:00 | USD | Moderate | OPEC Meeting |  |  |  |
-| 52 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.34% |
-| 52 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | 0.6% |
-| 52 min | USD | Low | MBA Purchase Index |  |  | 174.5 |
-| 52 min | USD | Low | Mortgage Market Index |  |  | 388.3 |
-| 52 min | USD | Low | Mortgage Refinance Index |  |  | 1,609.8 |
-| 52 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 12:30 | INR | Low | M3 Money Supply |  |  | 9.5% |
-| 13:00 | EUR | Low | Car Registration (MoM) (Sep) |  |  | -37.60% |
-| 13:00 | EUR | Low | Car Registration (YoY) (Sep) |  |  | 17.20% |
+| 11:00 | EUR | Low | Car Registration (MoM) (Sep) | 38.90% |  | -37.60% |
+| 11:00 | EUR | Low | Car Registration (YoY) (Sep) | 16.40% |  | 17.20% |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.46% |  | 6.34% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | -12.7% |  | 0.6% |
+| 12:00 | USD | Low | MBA Purchase Index | 172.7 |  | 174.5 |
+| 12:00 | USD | Low | Mortgage Market Index | 339.1 |  | 388.3 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 1,278.6 |  | 1,609.8 |
+| 12:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 24 min | INR | Low | M3 Money Supply |  |  | 9.5% |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Sep) |  | 52K | 54K |
 | 13:30 | ZAR | Low | Total Vehicle Sales (Sep) |  |  | 51.88K |
 | 13:30 | ZAR | Low | Total Vehicle Sales (YoY) (Sep) |  |  | 18.70% |

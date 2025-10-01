@@ -38,14 +38,14 @@
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Sep) | 2.4% |  | 2.3% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Sep) | 0.1% |  | 0.3% |
 | 10:00 | ZAR | Manufacturing PMI (Sep) | 52.2 |  | 49.5 |
-| 52 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.34% |
-| 52 min | USD | MBA Mortgage Applications (WoW) |  |  | 0.6% |
-| 52 min | USD | MBA Purchase Index |  |  | 174.5 |
-| 52 min | USD | Mortgage Market Index |  |  | 388.3 |
-| 52 min | USD | Mortgage Refinance Index |  |  | 1,609.8 |
-| 12:30 | INR | M3 Money Supply |  |  | 9.5% |
-| 13:00 | EUR | Car Registration (MoM) (Sep) |  |  | -37.60% |
-| 13:00 | EUR | Car Registration (YoY) (Sep) |  |  | 17.20% |
+| 11:00 | EUR | Car Registration (MoM) (Sep) | 38.90% |  | -37.60% |
+| 11:00 | EUR | Car Registration (YoY) (Sep) | 16.40% |  | 17.20% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.46% |  | 6.34% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | -12.7% |  | 0.6% |
+| 12:00 | USD | MBA Purchase Index | 172.7 |  | 174.5 |
+| 12:00 | USD | Mortgage Market Index | 339.1 |  | 388.3 |
+| 12:00 | USD | Mortgage Refinance Index | 1,278.6 |  | 1,609.8 |
+| 24 min | INR | M3 Money Supply |  |  | 9.5% |
 | 13:30 | ZAR | Total Vehicle Sales (Sep) |  |  | 51.88K |
 | 13:30 | ZAR | Total Vehicle Sales (YoY) (Sep) |  |  | 18.70% |
 | 14:00 | CHF | SNB Quarterly Bulletin |  |  |  |
