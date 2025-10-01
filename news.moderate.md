@@ -28,5 +28,5 @@
 | 12:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 15:00 | USD | ISM Manufacturing Employment (Sep) | 45.3 | 44.3 | 43.8 |
 | 15:30 | USD | Cushing Crude Oil Inventories | -0.271M |  | 0.177M |
-| 18:00 | USD | Atlanta Fed GDPNow (Q3) |  | 3.9% | 3.9% |
+| 51 min | USD | Atlanta Fed GDPNow (Q3) |  | 3.9% | 3.9% |
 | 19:05 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |

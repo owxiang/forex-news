@@ -38,8 +38,8 @@
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Sep) | 2.4% |  | 2.3% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Sep) | 0.1% |  | 0.3% |
 | 10:00 | ZAR | Manufacturing PMI (Sep) | 52.2 |  | 49.5 |
-| 11:00 | EUR | Car Registration (YoY) (Sep) | 16.40% |  | 17.20% |
 | 11:00 | EUR | Car Registration (MoM) (Sep) | 38.90% |  | -37.60% |
+| 11:00 | EUR | Car Registration (YoY) (Sep) | 16.40% |  | 17.20% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate | 6.46% |  | 6.34% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) | -12.7% |  | 0.6% |
 | 12:00 | USD | MBA Purchase Index | 172.7 |  | 174.5 |
@@ -59,7 +59,7 @@
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -1.6% |  | -0.3% |
 | 15:30 | USD | Gasoline Inventories | 4.125M |  | -1.081M |
 | 16:00 | MXN | S&P Global Manufacturing PMI (Sep) | 49.60 |  | 50.20 |
-| 17:15 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 6 min | USD | FOMC Member Barkin Speaks |  |  |  |
 | 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
 | 18:30 | EUR | Italian Car Registration (YoY) (Sep) |  |  | -2.7% |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | -0.660B |

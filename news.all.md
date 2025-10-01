@@ -53,8 +53,8 @@
 | 10:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 10:00 | EUR | Low | Core CPI (MoM) (Sep) | 0.1% |  | 0.3% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Sep) | 2.3% | 2.3% | 2.3% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Sep) | 0.1% |  | 0.1% |
 | 10:00 | EUR | High | CPI (YoY) (Sep) | 2.2% | 2.2% | 2.0% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Sep) | 0.1% |  | 0.1% |
 | 10:00 | EUR | Low | CPI, n.s.a (Sep) | 129.42 |  | 129.31 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Sep) | 2.4% |  | 2.3% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Sep) | 0.1% |  | 0.3% |
@@ -62,8 +62,8 @@
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction | 2.720% |  | 2.250% |
 | 10:55 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 11:00 | USD | Moderate | OPEC Meeting |  |  |  |
-| 11:00 | EUR | Low | Car Registration (YoY) (Sep) | 16.40% |  | 17.20% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Sep) | 38.90% |  | -37.60% |
+| 11:00 | EUR | Low | Car Registration (YoY) (Sep) | 16.40% |  | 17.20% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.46% |  | 6.34% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) | -12.7% |  | 0.6% |
 | 12:00 | USD | Low | MBA Purchase Index | 172.7 |  | 174.5 |
@@ -91,8 +91,8 @@
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -1.6% |  | -0.3% |
 | 15:30 | USD | Low | Gasoline Inventories | 4.125M |  | -1.081M |
 | 16:00 | MXN | Low | S&P Global Manufacturing PMI (Sep) | 49.60 |  | 50.20 |
-| 17:15 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 3.9% | 3.9% |
+| 6 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 51 min | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 3.9% | 3.9% |
 | 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
 | 18:30 | EUR | Low | Italian Car Registration (YoY) (Sep) |  |  | -2.7% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.660B |
