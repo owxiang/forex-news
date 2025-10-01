@@ -22,14 +22,15 @@
 | 01:30 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
 | 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Sep) | 50.7 |  | 48.3 |
 | 01:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Sep) | 48.5 | 48.4 | 48.4 |
+| 01:30 | SGD | Low | URA Property Index (QoQ) (Q3) | 1.20% |  | 1.00% |
 | 01:30 | IDR | Low | S&P Global Manufacturing PMI (Sep) | 50.4 |  | 51.5 |
-| 57 min | AUD | Low | RBA Chart Pack Release |  |  |  |
-| 03:00 | IDR | Low | Core Inflation (YoY) (Sep) |  | 2.20% | 2.17% |
-| 03:00 | IDR | Low | Export Growth (YoY) (Aug) |  | 5.00% | 9.86% |
-| 03:00 | IDR | Low | Import Growth (YoY) (Aug) |  | -2.00% | -5.86% |
-| 03:00 | IDR | Low | Inflation (MoM) (Sep) |  | 0.13% | -0.08% |
-| 03:00 | IDR | Low | Inflation (YoY) (Sep) |  | 2.50% | 2.31% |
-| 03:00 | IDR | Low | Trade Balance (Aug) |  | 3.99B | 4.18B |
+| 02:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
+| 25 min | IDR | Low | Core Inflation (YoY) (Sep) |  | 2.20% | 2.17% |
+| 25 min | IDR | Low | Export Growth (YoY) (Aug) |  | 5.00% | 9.86% |
+| 25 min | IDR | Low | Import Growth (YoY) (Aug) |  | -2.00% | -5.86% |
+| 25 min | IDR | Low | Inflation (MoM) (Sep) |  | 0.13% | -0.08% |
+| 25 min | IDR | Low | Inflation (YoY) (Sep) |  | 2.50% | 2.31% |
+| 25 min | IDR | Low | Trade Balance (Aug) |  | 3.99B | 4.18B |
 | 05:30 | INR | Low | Cash Reserve Ratio |  | 3.75% | 4.00% |
 | 05:30 | INR | Moderate | Interest Rate Decision |  | 5.50% | 5.50% |
 | 05:30 | INR | Low | Reverse REPO Rate |  |  | 3.35% |
