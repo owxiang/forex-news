@@ -28,16 +28,16 @@
 | 05:00 | IDR | Low | Core Inflation (YoY) (Sep) | 2.19% | 2.20% | 2.17% |
 | 05:00 | IDR | Low | Export Growth (YoY) (Aug) | 5.78% | 5.00% | 9.86% |
 | 05:00 | IDR | Low | Import Growth (YoY) (Aug) | -6.56% | -2.00% | -5.86% |
-| 05:00 | IDR | Low | Inflation (YoY) (Sep) | 2.65% | 2.50% | 2.31% |
 | 05:00 | IDR | Low | Inflation (MoM) (Sep) | 0.21% | 0.13% | -0.08% |
+| 05:00 | IDR | Low | Inflation (YoY) (Sep) | 2.65% | 2.50% | 2.31% |
 | 05:00 | IDR | Low | Trade Balance (Aug) | 5.49B | 3.99B | 4.18B |
 | 05:30 | INR | Low | Cash Reserve Ratio | 4.00% | 3.75% | 4.00% |
 | 05:30 | INR | Moderate | Interest Rate Decision | 5.50% | 5.50% | 5.50% |
 | 05:30 | INR | Low | Reverse REPO Rate | 3.35% |  | 3.35% |
 | 05:30 | INR | Moderate | RBI Financial Stability Report |  |  |  |
 | 06:00 | INR | Low | S&P Global Manufacturing PMI (Sep) | 57.7 | 58.5 | 59.3 |
-| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Sep) | 0.5% | 0.2% | -0.1% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Sep) | 2.2% | 1.8% | 2.1% |
+| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Sep) | 0.5% | 0.2% | -0.1% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Aug) | -0.2% | 0.5% | 0.9% |
 | 07:30 | AUD | Low | Commodity Prices (YoY) (Sep) | -0.1% |  | -5.0% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Sep) | 51.5 | 53.8 | 54.3 |
@@ -51,29 +51,29 @@
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Sep) | 49.8 | 49.5 | 50.7 |
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Sep) | 46.2 | 46.2 | 46.2 |
 | 10:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Sep) | 2.3% | 2.3% | 2.3% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Sep) | 0.1% |  | 0.3% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Sep) | 0.1% |  | 0.1% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Sep) | 2.3% | 2.3% | 2.3% |
 | 10:00 | EUR | High | CPI (YoY) (Sep) | 2.2% | 2.2% | 2.0% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Sep) | 0.1% |  | 0.1% |
 | 10:00 | EUR | Low | CPI, n.s.a (Sep) | 129.42 |  | 129.31 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Sep) | 2.4% |  | 2.3% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Sep) | 0.1% |  | 0.3% |
 | 10:00 | ZAR | Low | Manufacturing PMI (Sep) | 52.2 |  | 49.5 |
-| 22 min | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.250% |
-| 47 min | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
-| 52 min | USD | Moderate | OPEC Meeting |  |  |  |
-| 52 min | EUR | Low | Car Registration (YoY) (Sep) |  |  | 17.20% |
-| 52 min | EUR | Low | Car Registration (MoM) (Sep) |  |  | -37.60% |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.34% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 0.6% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 174.5 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 388.3 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 1,609.8 |
-| 12:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 10:30 | EUR | Moderate | German 10-Year Bund Auction | 2.720% |  | 2.250% |
+| 10:55 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
+| 11:00 | USD | Moderate | OPEC Meeting |  |  |  |
+| 52 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.34% |
+| 52 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | 0.6% |
+| 52 min | USD | Low | MBA Purchase Index |  |  | 174.5 |
+| 52 min | USD | Low | Mortgage Market Index |  |  | 388.3 |
+| 52 min | USD | Low | Mortgage Refinance Index |  |  | 1,609.8 |
+| 52 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 12:30 | INR | Low | M3 Money Supply |  |  | 9.5% |
+| 13:00 | EUR | Low | Car Registration (MoM) (Sep) |  |  | -37.60% |
+| 13:00 | EUR | Low | Car Registration (YoY) (Sep) |  |  | 17.20% |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Sep) |  | 52K | 54K |
-| 13:30 | ZAR | Low | Total Vehicle Sales (YoY) (Sep) |  |  | 18.70% |
 | 13:30 | ZAR | Low | Total Vehicle Sales (Sep) |  |  | 51.88K |
+| 13:30 | ZAR | Low | Total Vehicle Sales (YoY) (Sep) |  |  | 18.70% |
 | 14:00 | CHF | Low | SNB Quarterly Bulletin |  |  |  |
 | 14:00 | BRL | Low | S&P Global Manufacturing PMI (Sep) |  |  | 47.7 |
 | 14:30 | CAD | Low | S&P Global Manufacturing PMI (Sep) |  |  | 48.3 |
