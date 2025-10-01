@@ -28,8 +28,8 @@
 | 05:00 | IDR | Low | Core Inflation (YoY) (Sep) | 2.19% | 2.20% | 2.17% |
 | 05:00 | IDR | Low | Export Growth (YoY) (Aug) | 5.78% | 5.00% | 9.86% |
 | 05:00 | IDR | Low | Import Growth (YoY) (Aug) | -6.56% | -2.00% | -5.86% |
-| 05:00 | IDR | Low | Inflation (MoM) (Sep) | 0.21% | 0.13% | -0.08% |
 | 05:00 | IDR | Low | Inflation (YoY) (Sep) | 2.65% | 2.50% | 2.31% |
+| 05:00 | IDR | Low | Inflation (MoM) (Sep) | 0.21% | 0.13% | -0.08% |
 | 05:00 | IDR | Low | Trade Balance (Aug) | 5.49B | 3.99B | 4.18B |
 | 05:30 | INR | Low | Cash Reserve Ratio | 4.00% | 3.75% | 4.00% |
 | 05:30 | INR | Moderate | Interest Rate Decision | 5.50% | 5.50% | 5.50% |
@@ -53,8 +53,8 @@
 | 10:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 10:00 | EUR | Low | Core CPI (MoM) (Sep) | 0.1% |  | 0.3% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Sep) | 2.3% | 2.3% | 2.3% |
-| 10:00 | EUR | High | CPI (YoY) (Sep) | 2.2% | 2.2% | 2.0% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Sep) | 0.1% |  | 0.1% |
+| 10:00 | EUR | High | CPI (YoY) (Sep) | 2.2% | 2.2% | 2.0% |
 | 10:00 | EUR | Low | CPI, n.s.a (Sep) | 129.42 |  | 129.31 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Sep) | 2.4% |  | 2.3% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Sep) | 0.1% |  | 0.3% |
@@ -93,9 +93,9 @@
 | 16:00 | MXN | Low | S&P Global Manufacturing PMI (Sep) | 49.60 |  | 50.20 |
 | 17:15 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 3.8% | 3.9% | 3.9% |
-| 23 min | CAD | Low | BOC Summary of Deliberations |  |  |  |
-| 23 min | EUR | Low | Italian Car Registration (YoY) (Sep) |  |  | -2.7% |
-| 23 min | BRL | Low | Foreign Exchange Flows |  |  | -0.660B |
-| 58 min | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
-| 20:00 | MXN | Low | Fiscal Balance (Aug) |  |  | -101.43B |
+| 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
+| 18:30 | EUR | Low | Italian Car Registration (YoY) (Sep) | 4.1% |  | -2.7% |
+| 18:30 | BRL | Low | Foreign Exchange Flows | 1.141B |  | -0.660B |
+| 19:05 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
+| 51 min | MXN | Low | Fiscal Balance (Aug) |  |  | -101.43B |
 | 22:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |

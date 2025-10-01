@@ -29,4 +29,4 @@
 | 15:00 | USD | ISM Manufacturing Employment (Sep) | 45.3 | 44.3 | 43.8 |
 | 15:30 | USD | Cushing Crude Oil Inventories | -0.271M |  | 0.177M |
 | 18:00 | USD | Atlanta Fed GDPNow (Q3) | 3.8% | 3.9% | 3.9% |
-| 58 min | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
+| 19:05 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |

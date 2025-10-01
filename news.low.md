@@ -24,8 +24,8 @@
 | 05:00 | IDR | Core Inflation (YoY) (Sep) | 2.19% | 2.20% | 2.17% |
 | 05:00 | IDR | Export Growth (YoY) (Aug) | 5.78% | 5.00% | 9.86% |
 | 05:00 | IDR | Import Growth (YoY) (Aug) | -6.56% | -2.00% | -5.86% |
-| 05:00 | IDR | Inflation (MoM) (Sep) | 0.21% | 0.13% | -0.08% |
 | 05:00 | IDR | Inflation (YoY) (Sep) | 2.65% | 2.50% | 2.31% |
+| 05:00 | IDR | Inflation (MoM) (Sep) | 0.21% | 0.13% | -0.08% |
 | 05:00 | IDR | Trade Balance (Aug) | 5.49B | 3.99B | 4.18B |
 | 05:30 | INR | Cash Reserve Ratio | 4.00% | 3.75% | 4.00% |
 | 05:30 | INR | Reverse REPO Rate | 3.35% |  | 3.35% |
@@ -60,8 +60,8 @@
 | 15:30 | USD | Gasoline Inventories | 4.125M |  | -1.081M |
 | 16:00 | MXN | S&P Global Manufacturing PMI (Sep) | 49.60 |  | 50.20 |
 | 17:15 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 23 min | CAD | BOC Summary of Deliberations |  |  |  |
-| 23 min | EUR | Italian Car Registration (YoY) (Sep) |  |  | -2.7% |
-| 23 min | BRL | Foreign Exchange Flows |  |  | -0.660B |
-| 20:00 | MXN | Fiscal Balance (Aug) |  |  | -101.43B |
+| 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
+| 18:30 | EUR | Italian Car Registration (YoY) (Sep) | 4.1% |  | -2.7% |
+| 18:30 | BRL | Foreign Exchange Flows | 1.141B |  | -0.660B |
+| 51 min | MXN | Fiscal Balance (Aug) |  |  | -101.43B |
 | 22:00 | USD | Fed Goolsbee Speaks |  |  |  |
