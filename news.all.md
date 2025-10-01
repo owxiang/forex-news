@@ -36,8 +36,8 @@
 | 05:30 | INR | Low | Reverse REPO Rate | 3.35% |  | 3.35% |
 | 05:30 | INR | Moderate | RBI Financial Stability Report |  |  |  |
 | 06:00 | INR | Low | S&P Global Manufacturing PMI (Sep) | 57.7 | 58.5 | 59.3 |
-| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Sep) | 0.5% | 0.2% | -0.1% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Sep) | 2.2% | 1.8% | 2.1% |
+| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Sep) | 0.5% | 0.2% | -0.1% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Aug) | -0.2% | 0.5% | 0.9% |
 | 07:30 | AUD | Low | Commodity Prices (YoY) (Sep) | -0.1% |  | -5.0% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Sep) | 51.5 | 53.8 | 54.3 |
@@ -91,11 +91,11 @@
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -1.6% |  | -0.3% |
 | 15:30 | USD | Low | Gasoline Inventories | 4.125M |  | -1.081M |
 | 16:00 | MXN | Low | S&P Global Manufacturing PMI (Sep) | 49.60 |  | 50.20 |
-| 6 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 51 min | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 3.9% | 3.9% |
-| 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
-| 18:30 | EUR | Low | Italian Car Registration (YoY) (Sep) |  |  | -2.7% |
-| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.660B |
-| 19:05 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
+| 17:15 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 3.8% | 3.9% | 3.9% |
+| 23 min | CAD | Low | BOC Summary of Deliberations |  |  |  |
+| 23 min | EUR | Low | Italian Car Registration (YoY) (Sep) |  |  | -2.7% |
+| 23 min | BRL | Low | Foreign Exchange Flows |  |  | -0.660B |
+| 58 min | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 20:00 | MXN | Low | Fiscal Balance (Aug) |  |  | -101.43B |
 | 22:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |

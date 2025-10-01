@@ -59,9 +59,9 @@
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -1.6% |  | -0.3% |
 | 15:30 | USD | Gasoline Inventories | 4.125M |  | -1.081M |
 | 16:00 | MXN | S&P Global Manufacturing PMI (Sep) | 49.60 |  | 50.20 |
-| 6 min | USD | FOMC Member Barkin Speaks |  |  |  |
-| 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
-| 18:30 | EUR | Italian Car Registration (YoY) (Sep) |  |  | -2.7% |
-| 18:30 | BRL | Foreign Exchange Flows |  |  | -0.660B |
+| 17:15 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 23 min | CAD | BOC Summary of Deliberations |  |  |  |
+| 23 min | EUR | Italian Car Registration (YoY) (Sep) |  |  | -2.7% |
+| 23 min | BRL | Foreign Exchange Flows |  |  | -0.660B |
 | 20:00 | MXN | Fiscal Balance (Aug) |  |  | -101.43B |
 | 22:00 | USD | Fed Goolsbee Speaks |  |  |  |
