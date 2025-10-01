@@ -25,12 +25,12 @@
 | 01:30 | SGD | Low | URA Property Index (QoQ) (Q3) | 1.20% |  | 1.00% |
 | 01:30 | IDR | Low | S&P Global Manufacturing PMI (Sep) | 50.4 |  | 51.5 |
 | 02:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
-| 25 min | IDR | Low | Core Inflation (YoY) (Sep) |  | 2.20% | 2.17% |
-| 25 min | IDR | Low | Export Growth (YoY) (Aug) |  | 5.00% | 9.86% |
-| 25 min | IDR | Low | Import Growth (YoY) (Aug) |  | -2.00% | -5.86% |
-| 25 min | IDR | Low | Inflation (MoM) (Sep) |  | 0.13% | -0.08% |
-| 25 min | IDR | Low | Inflation (YoY) (Sep) |  | 2.50% | 2.31% |
-| 25 min | IDR | Low | Trade Balance (Aug) |  | 3.99B | 4.18B |
+| 05:00 | IDR | Low | Core Inflation (YoY) (Sep) |  | 2.20% | 2.17% |
+| 05:00 | IDR | Low | Export Growth (YoY) (Aug) |  | 5.00% | 9.86% |
+| 05:00 | IDR | Low | Import Growth (YoY) (Aug) |  | -2.00% | -5.86% |
+| 05:00 | IDR | Low | Inflation (MoM) (Sep) |  | 0.13% | -0.08% |
+| 05:00 | IDR | Low | Inflation (YoY) (Sep) |  | 2.50% | 2.31% |
+| 05:00 | IDR | Low | Trade Balance (Aug) |  | 3.99B | 4.18B |
 | 05:30 | INR | Low | Cash Reserve Ratio |  | 3.75% | 4.00% |
 | 05:30 | INR | Moderate | Interest Rate Decision |  | 5.50% | 5.50% |
 | 05:30 | INR | Low | Reverse REPO Rate |  |  | 3.35% |
@@ -53,8 +53,8 @@
 | 10:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 10:00 | EUR | Low | Core CPI (MoM) (Sep) |  |  | 0.3% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Sep) |  | 2.3% | 2.3% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Sep) |  |  | 0.1% |
 | 10:00 | EUR | High | CPI (YoY) (Sep) |  | 2.2% | 2.0% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Sep) |  |  | 0.1% |
 | 10:00 | EUR | Low | CPI, n.s.a (Sep) |  |  | 129.31 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Sep) |  |  | 2.3% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Sep) |  |  | 0.3% |
@@ -62,8 +62,8 @@
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.250% |
 | 10:55 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 11:00 | USD | Moderate | OPEC Meeting |  |  |  |
-| 11:00 | EUR | Low | Car Registration (YoY) (Sep) |  |  | 17.20% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Sep) |  |  | -37.60% |
+| 11:00 | EUR | Low | Car Registration (YoY) (Sep) |  |  | 17.20% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.34% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 0.6% |
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 174.5 |
@@ -72,8 +72,8 @@
 | 12:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 12:30 | INR | Low | M3 Money Supply |  |  | 9.5% |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Sep) |  | 52K | 54K |
-| 13:30 | ZAR | Low | Total Vehicle Sales (YoY) (Sep) |  |  | 18.70% |
 | 13:30 | ZAR | Low | Total Vehicle Sales (Sep) |  |  | 51.88K |
+| 13:30 | ZAR | Low | Total Vehicle Sales (YoY) (Sep) |  |  | 18.70% |
 | 14:00 | CHF | Low | SNB Quarterly Bulletin |  |  |  |
 | 14:00 | BRL | Low | S&P Global Manufacturing PMI (Sep) |  |  | 47.7 |
 | 14:30 | CAD | Low | S&P Global Manufacturing PMI (Sep) |  |  | 48.3 |
