@@ -24,20 +24,20 @@
 | 05:00 | IDR | Core Inflation (YoY) (Sep) | 2.19% | 2.20% | 2.17% |
 | 05:00 | IDR | Export Growth (YoY) (Aug) | 5.78% | 5.00% | 9.86% |
 | 05:00 | IDR | Import Growth (YoY) (Aug) | -6.56% | -2.00% | -5.86% |
-| 05:00 | IDR | Inflation (MoM) (Sep) | 0.21% | 0.13% | -0.08% |
 | 05:00 | IDR | Inflation (YoY) (Sep) | 2.65% | 2.50% | 2.31% |
+| 05:00 | IDR | Inflation (MoM) (Sep) | 0.21% | 0.13% | -0.08% |
 | 05:00 | IDR | Trade Balance (Aug) | 5.49B | 3.99B | 4.18B |
 | 05:30 | INR | Cash Reserve Ratio | 4.00% | 3.75% | 4.00% |
 | 05:30 | INR | Reverse REPO Rate | 3.35% |  | 3.35% |
 | 06:00 | INR | S&P Global Manufacturing PMI (Sep) | 57.7 | 58.5 | 59.3 |
 | 07:30 | CHF | Retail Sales (YoY) (Aug) | -0.2% | 0.5% | 0.9% |
 | 07:30 | AUD | Commodity Prices (YoY) (Sep) | -0.1% |  | -5.0% |
-| 52 min | NOK | Manufacturing PMI (Sep) |  |  | 49.6 |
-| 10:00 | EUR | Core CPI (MoM) (Sep) |  |  | 0.3% |
-| 10:00 | EUR | CPI, n.s.a (Sep) |  |  | 129.31 |
-| 10:00 | EUR | HICP ex Energy & Food (YoY) (Sep) |  |  | 2.3% |
-| 10:00 | EUR | HICP ex Energy and Food (MoM) (Sep) |  |  | 0.3% |
-| 10:00 | ZAR | Manufacturing PMI (Sep) |  |  | 49.5 |
+| 09:00 | NOK | Manufacturing PMI (Sep) | 49.9 |  | 49.6 |
+| 51 min | EUR | Core CPI (MoM) (Sep) |  |  | 0.3% |
+| 51 min | EUR | CPI, n.s.a (Sep) |  |  | 129.31 |
+| 51 min | EUR | HICP ex Energy & Food (YoY) (Sep) |  |  | 2.3% |
+| 51 min | EUR | HICP ex Energy and Food (MoM) (Sep) |  |  | 0.3% |
+| 51 min | ZAR | Manufacturing PMI (Sep) |  |  | 49.5 |
 | 11:00 | EUR | Car Registration (YoY) (Sep) |  |  | 17.20% |
 | 11:00 | EUR | Car Registration (MoM) (Sep) |  |  | -37.60% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.34% |

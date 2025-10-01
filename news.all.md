@@ -28,8 +28,8 @@
 | 05:00 | IDR | Low | Core Inflation (YoY) (Sep) | 2.19% | 2.20% | 2.17% |
 | 05:00 | IDR | Low | Export Growth (YoY) (Aug) | 5.78% | 5.00% | 9.86% |
 | 05:00 | IDR | Low | Import Growth (YoY) (Aug) | -6.56% | -2.00% | -5.86% |
-| 05:00 | IDR | Low | Inflation (MoM) (Sep) | 0.21% | 0.13% | -0.08% |
 | 05:00 | IDR | Low | Inflation (YoY) (Sep) | 2.65% | 2.50% | 2.31% |
+| 05:00 | IDR | Low | Inflation (MoM) (Sep) | 0.21% | 0.13% | -0.08% |
 | 05:00 | IDR | Low | Trade Balance (Aug) | 5.49B | 3.99B | 4.18B |
 | 05:30 | INR | Low | Cash Reserve Ratio | 4.00% | 3.75% | 4.00% |
 | 05:30 | INR | Moderate | Interest Rate Decision | 5.50% | 5.50% | 5.50% |
@@ -40,25 +40,25 @@
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Sep) | 2.2% | 1.8% | 2.1% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Aug) | -0.2% | 0.5% | 0.9% |
 | 07:30 | AUD | Low | Commodity Prices (YoY) (Sep) | -0.1% |  | -5.0% |
-| 7 min | EUR | Moderate | HCOB Spain Manufacturing PMI (Sep) |  | 53.8 | 54.3 |
-| 22 min | CHF | Moderate | procure.ch Manufacturing PMI (Sep) |  | 47.9 | 49.0 |
-| 22 min | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 37 min | EUR | Moderate | HCOB Italy Manufacturing PMI (Sep) |  | 49.9 | 50.4 |
-| 42 min | EUR | Moderate | HCOB France Manufacturing PMI (Sep) |  | 48.1 | 50.4 |
-| 47 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Sep) |  | 48.5 | 49.8 |
-| 47 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 52 min | NOK | Low | Manufacturing PMI (Sep) |  |  | 49.6 |
-| 52 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Sep) |  | 49.5 | 50.7 |
-| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Sep) |  | 46.2 | 46.2 |
-| 10:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 10:00 | EUR | Low | Core CPI (MoM) (Sep) |  |  | 0.3% |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Sep) |  | 2.3% | 2.3% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Sep) |  |  | 0.1% |
-| 10:00 | EUR | High | CPI (YoY) (Sep) |  | 2.2% | 2.0% |
-| 10:00 | EUR | Low | CPI, n.s.a (Sep) |  |  | 129.31 |
-| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Sep) |  |  | 2.3% |
-| 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Sep) |  |  | 0.3% |
-| 10:00 | ZAR | Low | Manufacturing PMI (Sep) |  |  | 49.5 |
+| 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Sep) | 51.5 | 53.8 | 54.3 |
+| 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (Sep) | 46.3 | 47.9 | 49.0 |
+| 08:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Sep) | 49.0 | 49.9 | 50.4 |
+| 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (Sep) | 48.2 | 48.1 | 50.4 |
+| 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Sep) | 49.5 | 48.5 | 49.8 |
+| 08:55 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 09:00 | NOK | Low | Manufacturing PMI (Sep) | 49.9 |  | 49.6 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Sep) | 49.8 | 49.5 | 50.7 |
+| 21 min | GBP | Moderate | S&P Global Manufacturing PMI (Sep) |  | 46.2 | 46.2 |
+| 51 min | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 51 min | EUR | Moderate | Core CPI (YoY) (Sep) |  | 2.3% | 2.3% |
+| 51 min | EUR | Low | Core CPI (MoM) (Sep) |  |  | 0.3% |
+| 51 min | EUR | Moderate | CPI (MoM) (Sep) |  |  | 0.1% |
+| 51 min | EUR | High | CPI (YoY) (Sep) |  | 2.2% | 2.0% |
+| 51 min | EUR | Low | CPI, n.s.a (Sep) |  |  | 129.31 |
+| 51 min | EUR | Low | HICP ex Energy & Food (YoY) (Sep) |  |  | 2.3% |
+| 51 min | EUR | Low | HICP ex Energy and Food (MoM) (Sep) |  |  | 0.3% |
+| 51 min | ZAR | Low | Manufacturing PMI (Sep) |  |  | 49.5 |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.250% |
 | 10:55 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 11:00 | USD | Moderate | OPEC Meeting |  |  |  |
