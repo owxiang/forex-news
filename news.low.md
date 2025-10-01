@@ -48,19 +48,17 @@
 | 12:30 | INR | M3 Money Supply | 9.2% |  | 9.5% |
 | 14:00 | CHF | SNB Quarterly Bulletin |  |  |  |
 | 14:00 | BRL | S&P Global Manufacturing PMI (Sep) | 46.5 |  | 47.7 |
-| 15 min | CAD | S&P Global Manufacturing PMI (Sep) |  |  | 48.3 |
-| 45 min | USD | ISM Manufacturing New Orders Index (Sep) |  |  | 51.4 |
-| 45 min | ZAR | Total Vehicle Sales (YoY) (Sep) |  |  | 18.70% |
-| 45 min | ZAR | Total Vehicle Sales (Sep) |  |  | 51.88K |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.052M |
-| 15:30 | USD | Crude Oil Imports |  |  | 1.596M |
-| 15:30 | USD | Distillate Fuel Production |  |  | 0.029M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | -1.685M |
-| 15:30 | USD | Gasoline Production |  |  | 0.300M |
-| 15:30 | USD | Heating Oil Stockpiles |  |  | -0.189M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.3% |
-| 15:30 | USD | Gasoline Inventories |  |  | -1.081M |
-| 16:00 | MXN | S&P Global Manufacturing PMI (Sep) |  |  | 50.20 |
+| 14:30 | CAD | S&P Global Manufacturing PMI (Sep) | 47.7 |  | 48.3 |
+| 15:00 | USD | ISM Manufacturing New Orders Index (Sep) | 48.9 | 50.0 | 51.4 |
+| 23 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.052M |
+| 23 min | USD | Crude Oil Imports |  |  | 1.596M |
+| 23 min | USD | Distillate Fuel Production |  |  | 0.029M |
+| 23 min | USD | EIA Weekly Distillates Stocks |  |  | -1.685M |
+| 23 min | USD | Gasoline Production |  |  | 0.300M |
+| 23 min | USD | Heating Oil Stockpiles |  |  | -0.189M |
+| 23 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.3% |
+| 23 min | USD | Gasoline Inventories |  |  | -1.081M |
+| 53 min | MXN | S&P Global Manufacturing PMI (Sep) |  |  | 50.20 |
 | 17:15 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
 | 18:30 | EUR | Italian Car Registration (YoY) (Sep) |  |  | -2.7% |

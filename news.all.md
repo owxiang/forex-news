@@ -74,26 +74,23 @@
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Sep) | -32K | 52K | -3K |
 | 14:00 | CHF | Low | SNB Quarterly Bulletin |  |  |  |
 | 14:00 | BRL | Low | S&P Global Manufacturing PMI (Sep) | 46.5 |  | 47.7 |
-| 15 min | CAD | Low | S&P Global Manufacturing PMI (Sep) |  |  | 48.3 |
-| 30 min | USD | High | S&P Global Manufacturing PMI (Sep) |  | 52.0 | 53.0 |
-| 45 min | USD | Moderate | Construction Spending (MoM) (Aug) |  | -0.1% | -0.1% |
-| 45 min | USD | Moderate | ISM Manufacturing Employment (Sep) |  |  | 43.8 |
-| 45 min | USD | Low | ISM Manufacturing New Orders Index (Sep) |  |  | 51.4 |
-| 45 min | USD | High | ISM Manufacturing PMI (Sep) |  | 49.0 | 48.7 |
-| 45 min | USD | High | ISM Manufacturing Prices (Sep) |  | 62.7 | 63.7 |
-| 45 min | ZAR | Low | Total Vehicle Sales (YoY) (Sep) |  |  | 18.70% |
-| 45 min | ZAR | Low | Total Vehicle Sales (Sep) |  |  | 51.88K |
-| 15:30 | USD | High | Crude Oil Inventories |  | 1.500M | -0.607M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.052M |
-| 15:30 | USD | Low | Crude Oil Imports |  |  | 1.596M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.177M |
-| 15:30 | USD | Low | Distillate Fuel Production |  |  | 0.029M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  |  | -1.685M |
-| 15:30 | USD | Low | Gasoline Production |  |  | 0.300M |
-| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | -0.189M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.3% |
-| 15:30 | USD | Low | Gasoline Inventories |  |  | -1.081M |
-| 16:00 | MXN | Low | S&P Global Manufacturing PMI (Sep) |  |  | 50.20 |
+| 14:30 | CAD | Low | S&P Global Manufacturing PMI (Sep) | 47.7 |  | 48.3 |
+| 14:45 | USD | High | S&P Global Manufacturing PMI (Sep) | 52.0 | 52.0 | 53.0 |
+| 15:00 | USD | Moderate | ISM Manufacturing Employment (Sep) | 45.3 | 44.3 | 43.8 |
+| 15:00 | USD | Low | ISM Manufacturing New Orders Index (Sep) | 48.9 | 50.0 | 51.4 |
+| 15:00 | USD | High | ISM Manufacturing PMI (Sep) | 49.1 | 49.0 | 48.7 |
+| 15:00 | USD | High | ISM Manufacturing Prices (Sep) | 61.9 | 62.7 | 63.7 |
+| 23 min | USD | High | Crude Oil Inventories |  | 1.500M | -0.607M |
+| 23 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.052M |
+| 23 min | USD | Low | Crude Oil Imports |  |  | 1.596M |
+| 23 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.177M |
+| 23 min | USD | Low | Distillate Fuel Production |  |  | 0.029M |
+| 23 min | USD | Low | EIA Weekly Distillates Stocks |  |  | -1.685M |
+| 23 min | USD | Low | Gasoline Production |  |  | 0.300M |
+| 23 min | USD | Low | Heating Oil Stockpiles |  |  | -0.189M |
+| 23 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.3% |
+| 23 min | USD | Low | Gasoline Inventories |  |  | -1.081M |
+| 53 min | MXN | Low | S&P Global Manufacturing PMI (Sep) |  |  | 50.20 |
 | 17:15 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 3.9% | 3.9% |
 | 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
