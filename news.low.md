@@ -24,8 +24,8 @@
 | 05:00 | IDR | Core Inflation (YoY) (Sep) | 2.19% | 2.20% | 2.17% |
 | 05:00 | IDR | Export Growth (YoY) (Aug) | 5.78% | 5.00% | 9.86% |
 | 05:00 | IDR | Import Growth (YoY) (Aug) | -6.56% | -2.00% | -5.86% |
-| 05:00 | IDR | Inflation (YoY) (Sep) | 2.65% | 2.50% | 2.31% |
 | 05:00 | IDR | Inflation (MoM) (Sep) | 0.21% | 0.13% | -0.08% |
+| 05:00 | IDR | Inflation (YoY) (Sep) | 2.65% | 2.50% | 2.31% |
 | 05:00 | IDR | Trade Balance (Aug) | 5.49B | 3.99B | 4.18B |
 | 05:30 | INR | Cash Reserve Ratio | 4.00% | 3.75% | 4.00% |
 | 05:30 | INR | Reverse REPO Rate | 3.35% |  | 3.35% |

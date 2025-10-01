@@ -8,8 +8,8 @@
 | 00:50 | JPY | Tankan Large Non-Manufacturers Index (Q3) | 34 | 33 | 34 |
 | 05:30 | INR | Interest Rate Decision | 5.50% | 5.50% | 5.50% |
 | 05:30 | INR | RBI Financial Stability Report |  |  |  |
-| 07:00 | GBP | Nationwide HPI (YoY) (Sep) | 2.2% | 1.8% | 2.1% |
 | 07:00 | GBP | Nationwide HPI (MoM) (Sep) | 0.5% | 0.2% | -0.1% |
+| 07:00 | GBP | Nationwide HPI (YoY) (Sep) | 2.2% | 1.8% | 2.1% |
 | 08:15 | EUR | HCOB Spain Manufacturing PMI (Sep) | 51.5 | 53.8 | 54.3 |
 | 08:30 | CHF | procure.ch Manufacturing PMI (Sep) | 46.3 | 47.9 | 49.0 |
 | 08:30 | EUR | ECB's Elderson Speaks |  |  |  |
