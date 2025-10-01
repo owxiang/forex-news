@@ -63,5 +63,4 @@
 | 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
 | 18:30 | EUR | Italian Car Registration (YoY) (Sep) | 4.1% |  | -2.7% |
 | 18:30 | BRL | Foreign Exchange Flows | 1.141B |  | -0.660B |
-| 51 min | MXN | Fiscal Balance (Aug) |  |  | -101.43B |
 | 22:00 | USD | Fed Goolsbee Speaks |  |  |  |

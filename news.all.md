@@ -97,5 +97,4 @@
 | 18:30 | EUR | Low | Italian Car Registration (YoY) (Sep) | 4.1% |  | -2.7% |
 | 18:30 | BRL | Low | Foreign Exchange Flows | 1.141B |  | -0.660B |
 | 19:05 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
-| 51 min | MXN | Low | Fiscal Balance (Aug) |  |  | -101.43B |
 | 22:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
