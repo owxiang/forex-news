@@ -5,26 +5,26 @@
 | 00:00 | AUD | AIG Construction Index (Sep) | 12.3 |  | 1.0 |
 | 00:00 | AUD | AIG Manufacturing Index (Sep) | -13.2 |  | -20.9 |
 | 00:00 | AUD | Judo Bank Manufacturing PMI (Sep) | 51.4 | 51.6 | 51.6 |
-| 4 min | USD | Fed Logan Speaks |  |  |  |
-| 44 min | JPY | Tankan All Small Industry CAPEX (Q3) |  |  | -5.6% |
-| 44 min | JPY | Tankan Large Non-Manufacturers Diffusion Index (Q3) |  | 29 | 27 |
-| 44 min | JPY | Tankan Small Manufacturers Diffusion Index (Q3) |  |  | -2 |
-| 44 min | JPY | Tankan Small Manufacturing Index (Q3) |  | 2 | 1 |
-| 44 min | JPY | Tankan Small Non-Manufacturers Diffusion Index (Q3) |  |  | 9 |
-| 44 min | JPY | Tankan Small Non-Manufacturing Index (Q3) |  |  | 15 |
-| 54 min | KRW | Exports (YoY) (Sep) |  | 7.2% | 1.2% |
-| 54 min | KRW | Imports (YoY) (Sep) |  | 5.6% | -4.1% |
-| 54 min | KRW | Trade Balance (Sep) |  | 7.81B | 6.51B |
+| 00:10 | USD | Fed Logan Speaks |  |  |  |
+| 00:50 | JPY | Tankan All Small Industry CAPEX (Q3) | -2.3% |  | -5.6% |
+| 00:50 | JPY | Tankan Large Non-Manufacturers Diffusion Index (Q3) | 28 | 29 | 27 |
+| 00:50 | JPY | Tankan Small Manufacturers Diffusion Index (Q3) | -1 |  | -2 |
+| 00:50 | JPY | Tankan Small Manufacturing Index (Q3) | 1 | 2 | 1 |
+| 00:50 | JPY | Tankan Small Non-Manufacturers Diffusion Index (Q3) | 10 |  | 9 |
+| 00:50 | JPY | Tankan Small Non-Manufacturing Index (Q3) | 14 |  | 15 |
+| 01:00 | KRW | Exports (YoY) (Sep) | 12.7% | 7.2% | 1.2% |
+| 01:00 | KRW | Imports (YoY) (Sep) | 8.2% | 5.6% | -4.1% |
+| 01:00 | KRW | Trade Balance (Sep) | 9.56B | 7.81B | 6.51B |
 | 01:30 | USD | Fed Governor Jefferson Speaks |  |  |  |
-| 01:30 | KRW | S&P Global South Korea Manufacturing PMI (Sep) |  |  | 48.3 |
-| 01:30 | JPY | au Jibun Bank Manufacturing PMI (Sep) |  | 48.4 | 48.4 |
-| 01:30 | IDR | S&P Global Manufacturing PMI (Sep) |  |  | 51.5 |
-| 02:30 | AUD | RBA Chart Pack Release |  |  |  |
+| 01:30 | KRW | S&P Global South Korea Manufacturing PMI (Sep) | 50.7 |  | 48.3 |
+| 01:30 | JPY | au Jibun Bank Manufacturing PMI (Sep) | 48.5 | 48.4 | 48.4 |
+| 01:30 | IDR | S&P Global Manufacturing PMI (Sep) | 50.4 |  | 51.5 |
+| 57 min | AUD | RBA Chart Pack Release |  |  |  |
 | 03:00 | IDR | Core Inflation (YoY) (Sep) |  | 2.20% | 2.17% |
 | 03:00 | IDR | Export Growth (YoY) (Aug) |  | 5.00% | 9.86% |
 | 03:00 | IDR | Import Growth (YoY) (Aug) |  | -2.00% | -5.86% |
-| 03:00 | IDR | Inflation (YoY) (Sep) |  | 2.50% | 2.31% |
 | 03:00 | IDR | Inflation (MoM) (Sep) |  | 0.13% | -0.08% |
+| 03:00 | IDR | Inflation (YoY) (Sep) |  | 2.50% | 2.31% |
 | 03:00 | IDR | Trade Balance (Aug) |  | 3.99B | 4.18B |
 | 05:30 | INR | Cash Reserve Ratio |  | 3.75% | 4.00% |
 | 05:30 | INR | Reverse REPO Rate |  |  | 3.35% |
