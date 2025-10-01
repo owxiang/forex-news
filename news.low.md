@@ -24,14 +24,14 @@
 | 05:00 | IDR | Core Inflation (YoY) (Sep) | 2.19% | 2.20% | 2.17% |
 | 05:00 | IDR | Export Growth (YoY) (Aug) | 5.78% | 5.00% | 9.86% |
 | 05:00 | IDR | Import Growth (YoY) (Aug) | -6.56% | -2.00% | -5.86% |
-| 05:00 | IDR | Inflation (YoY) (Sep) | 2.65% | 2.50% | 2.31% |
 | 05:00 | IDR | Inflation (MoM) (Sep) | 0.21% | 0.13% | -0.08% |
+| 05:00 | IDR | Inflation (YoY) (Sep) | 2.65% | 2.50% | 2.31% |
 | 05:00 | IDR | Trade Balance (Aug) | 5.49B | 3.99B | 4.18B |
 | 05:30 | INR | Cash Reserve Ratio | 4.00% | 3.75% | 4.00% |
 | 05:30 | INR | Reverse REPO Rate | 3.35% |  | 3.35% |
 | 06:00 | INR | S&P Global Manufacturing PMI (Sep) | 57.7 | 58.5 | 59.3 |
-| 07:30 | CHF | Retail Sales (YoY) (Aug) |  | 0.5% | 0.7% |
-| 07:30 | AUD | Commodity Prices (YoY) (Sep) |  |  | -4.3% |
+| 20 min | CHF | Retail Sales (YoY) (Aug) |  | 0.5% | 0.7% |
+| 20 min | AUD | Commodity Prices (YoY) (Sep) |  |  | -4.3% |
 | 09:00 | NOK | Manufacturing PMI (Sep) |  |  | 49.6 |
 | 10:00 | EUR | Core CPI (MoM) (Sep) |  |  | 0.3% |
 | 10:00 | EUR | CPI, n.s.a (Sep) |  |  | 129.31 |
@@ -46,8 +46,8 @@
 | 12:00 | USD | Mortgage Market Index |  |  | 388.3 |
 | 12:00 | USD | Mortgage Refinance Index |  |  | 1,609.8 |
 | 12:30 | INR | M3 Money Supply |  |  | 9.5% |
-| 13:30 | ZAR | Total Vehicle Sales (YoY) (Sep) |  |  | 18.70% |
 | 13:30 | ZAR | Total Vehicle Sales (Sep) |  |  | 51.88K |
+| 13:30 | ZAR | Total Vehicle Sales (YoY) (Sep) |  |  | 18.70% |
 | 14:00 | CHF | SNB Quarterly Bulletin |  |  |  |
 | 14:00 | BRL | S&P Global Manufacturing PMI (Sep) |  |  | 47.7 |
 | 14:30 | CAD | S&P Global Manufacturing PMI (Sep) |  |  | 48.3 |
