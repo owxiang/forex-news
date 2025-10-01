@@ -21,12 +21,12 @@
 | 01:30 | SGD | URA Property Index (QoQ) (Q3) | 1.20% |  | 1.00% |
 | 01:30 | IDR | S&P Global Manufacturing PMI (Sep) | 50.4 |  | 51.5 |
 | 02:30 | AUD | RBA Chart Pack Release |  |  |  |
-| 05:00 | IDR | Core Inflation (YoY) (Sep) |  | 2.20% | 2.17% |
-| 05:00 | IDR | Export Growth (YoY) (Aug) |  | 5.00% | 9.86% |
-| 05:00 | IDR | Import Growth (YoY) (Aug) |  | -2.00% | -5.86% |
-| 05:00 | IDR | Inflation (MoM) (Sep) |  | 0.13% | -0.08% |
-| 05:00 | IDR | Inflation (YoY) (Sep) |  | 2.50% | 2.31% |
-| 05:00 | IDR | Trade Balance (Aug) |  | 3.99B | 4.18B |
+| 34 min | IDR | Core Inflation (YoY) (Sep) |  | 2.20% | 2.17% |
+| 34 min | IDR | Export Growth (YoY) (Aug) |  | 5.00% | 9.86% |
+| 34 min | IDR | Import Growth (YoY) (Aug) |  | -2.00% | -5.86% |
+| 34 min | IDR | Inflation (MoM) (Sep) |  | 0.13% | -0.08% |
+| 34 min | IDR | Inflation (YoY) (Sep) |  | 2.50% | 2.31% |
+| 34 min | IDR | Trade Balance (Aug) |  | 3.99B | 4.18B |
 | 05:30 | INR | Cash Reserve Ratio |  | 3.75% | 4.00% |
 | 05:30 | INR | Reverse REPO Rate |  |  | 3.35% |
 | 06:00 | INR | S&P Global Manufacturing PMI (Sep) |  | 58.5 | 59.3 |
@@ -38,8 +38,8 @@
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Sep) |  |  | 2.3% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Sep) |  |  | 0.3% |
 | 10:00 | ZAR | Manufacturing PMI (Sep) |  |  | 49.5 |
-| 11:00 | EUR | Car Registration (MoM) (Sep) |  |  | -37.60% |
 | 11:00 | EUR | Car Registration (YoY) (Sep) |  |  | 17.20% |
+| 11:00 | EUR | Car Registration (MoM) (Sep) |  |  | -37.60% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.34% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 0.6% |
 | 12:00 | USD | MBA Purchase Index |  |  | 174.5 |
