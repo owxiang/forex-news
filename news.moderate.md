@@ -18,13 +18,13 @@
 | 08:55 | EUR | HCOB Germany Manufacturing PMI (Sep) | 49.5 | 48.5 | 49.8 |
 | 08:55 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Sep) | 49.8 | 49.5 | 50.7 |
-| 21 min | GBP | S&P Global Manufacturing PMI (Sep) |  | 46.2 | 46.2 |
-| 51 min | EUR | German Buba Mauderer Speaks |  |  |  |
-| 51 min | EUR | Core CPI (YoY) (Sep) |  | 2.3% | 2.3% |
-| 51 min | EUR | CPI (MoM) (Sep) |  |  | 0.1% |
-| 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.250% |
-| 10:55 | GBP | BoE MPC Member Mann Speaks |  |  |  |
-| 11:00 | USD | OPEC Meeting |  |  |  |
+| 09:30 | GBP | S&P Global Manufacturing PMI (Sep) | 46.2 | 46.2 | 46.2 |
+| 10:00 | EUR | German Buba Mauderer Speaks |  |  |  |
+| 10:00 | EUR | Core CPI (YoY) (Sep) | 2.3% | 2.3% | 2.3% |
+| 10:00 | EUR | CPI (MoM) (Sep) | 0.1% |  | 0.1% |
+| 22 min | EUR | German 10-Year Bund Auction |  |  | 2.250% |
+| 47 min | GBP | BoE MPC Member Mann Speaks |  |  |  |
+| 52 min | USD | OPEC Meeting |  |  |  |
 | 12:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 15:00 | USD | Construction Spending (MoM) (Aug) |  | -0.1% | -0.1% |
 | 15:00 | USD | ISM Manufacturing Employment (Sep) |  |  | 43.8 |

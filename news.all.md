@@ -49,21 +49,21 @@
 | 08:55 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 09:00 | NOK | Low | Manufacturing PMI (Sep) | 49.9 |  | 49.6 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Sep) | 49.8 | 49.5 | 50.7 |
-| 21 min | GBP | Moderate | S&P Global Manufacturing PMI (Sep) |  | 46.2 | 46.2 |
-| 51 min | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 51 min | EUR | Moderate | Core CPI (YoY) (Sep) |  | 2.3% | 2.3% |
-| 51 min | EUR | Low | Core CPI (MoM) (Sep) |  |  | 0.3% |
-| 51 min | EUR | Moderate | CPI (MoM) (Sep) |  |  | 0.1% |
-| 51 min | EUR | High | CPI (YoY) (Sep) |  | 2.2% | 2.0% |
-| 51 min | EUR | Low | CPI, n.s.a (Sep) |  |  | 129.31 |
-| 51 min | EUR | Low | HICP ex Energy & Food (YoY) (Sep) |  |  | 2.3% |
-| 51 min | EUR | Low | HICP ex Energy and Food (MoM) (Sep) |  |  | 0.3% |
-| 51 min | ZAR | Low | Manufacturing PMI (Sep) |  |  | 49.5 |
-| 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.250% |
-| 10:55 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
-| 11:00 | USD | Moderate | OPEC Meeting |  |  |  |
-| 11:00 | EUR | Low | Car Registration (YoY) (Sep) |  |  | 17.20% |
-| 11:00 | EUR | Low | Car Registration (MoM) (Sep) |  |  | -37.60% |
+| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Sep) | 46.2 | 46.2 | 46.2 |
+| 10:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Sep) | 2.3% | 2.3% | 2.3% |
+| 10:00 | EUR | Low | Core CPI (MoM) (Sep) | 0.1% |  | 0.3% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Sep) | 0.1% |  | 0.1% |
+| 10:00 | EUR | High | CPI (YoY) (Sep) | 2.2% | 2.2% | 2.0% |
+| 10:00 | EUR | Low | CPI, n.s.a (Sep) | 129.42 |  | 129.31 |
+| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Sep) | 2.4% |  | 2.3% |
+| 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Sep) | 0.1% |  | 0.3% |
+| 10:00 | ZAR | Low | Manufacturing PMI (Sep) | 52.2 |  | 49.5 |
+| 22 min | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.250% |
+| 47 min | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
+| 52 min | USD | Moderate | OPEC Meeting |  |  |  |
+| 52 min | EUR | Low | Car Registration (YoY) (Sep) |  |  | 17.20% |
+| 52 min | EUR | Low | Car Registration (MoM) (Sep) |  |  | -37.60% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.34% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 0.6% |
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 174.5 |

@@ -33,13 +33,13 @@
 | 07:30 | CHF | Retail Sales (YoY) (Aug) | -0.2% | 0.5% | 0.9% |
 | 07:30 | AUD | Commodity Prices (YoY) (Sep) | -0.1% |  | -5.0% |
 | 09:00 | NOK | Manufacturing PMI (Sep) | 49.9 |  | 49.6 |
-| 51 min | EUR | Core CPI (MoM) (Sep) |  |  | 0.3% |
-| 51 min | EUR | CPI, n.s.a (Sep) |  |  | 129.31 |
-| 51 min | EUR | HICP ex Energy & Food (YoY) (Sep) |  |  | 2.3% |
-| 51 min | EUR | HICP ex Energy and Food (MoM) (Sep) |  |  | 0.3% |
-| 51 min | ZAR | Manufacturing PMI (Sep) |  |  | 49.5 |
-| 11:00 | EUR | Car Registration (YoY) (Sep) |  |  | 17.20% |
-| 11:00 | EUR | Car Registration (MoM) (Sep) |  |  | -37.60% |
+| 10:00 | EUR | Core CPI (MoM) (Sep) | 0.1% |  | 0.3% |
+| 10:00 | EUR | CPI, n.s.a (Sep) | 129.42 |  | 129.31 |
+| 10:00 | EUR | HICP ex Energy & Food (YoY) (Sep) | 2.4% |  | 2.3% |
+| 10:00 | EUR | HICP ex Energy and Food (MoM) (Sep) | 0.1% |  | 0.3% |
+| 10:00 | ZAR | Manufacturing PMI (Sep) | 52.2 |  | 49.5 |
+| 52 min | EUR | Car Registration (YoY) (Sep) |  |  | 17.20% |
+| 52 min | EUR | Car Registration (MoM) (Sep) |  |  | -37.60% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.34% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 0.6% |
 | 12:00 | USD | MBA Purchase Index |  |  | 174.5 |
