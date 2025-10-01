@@ -28,16 +28,16 @@
 | 05:00 | IDR | Low | Core Inflation (YoY) (Sep) | 2.19% | 2.20% | 2.17% |
 | 05:00 | IDR | Low | Export Growth (YoY) (Aug) | 5.78% | 5.00% | 9.86% |
 | 05:00 | IDR | Low | Import Growth (YoY) (Aug) | -6.56% | -2.00% | -5.86% |
-| 05:00 | IDR | Low | Inflation (YoY) (Sep) | 2.65% | 2.50% | 2.31% |
 | 05:00 | IDR | Low | Inflation (MoM) (Sep) | 0.21% | 0.13% | -0.08% |
+| 05:00 | IDR | Low | Inflation (YoY) (Sep) | 2.65% | 2.50% | 2.31% |
 | 05:00 | IDR | Low | Trade Balance (Aug) | 5.49B | 3.99B | 4.18B |
 | 05:30 | INR | Low | Cash Reserve Ratio | 4.00% | 3.75% | 4.00% |
 | 05:30 | INR | Moderate | Interest Rate Decision | 5.50% | 5.50% | 5.50% |
 | 05:30 | INR | Low | Reverse REPO Rate | 3.35% |  | 3.35% |
 | 05:30 | INR | Moderate | RBI Financial Stability Report |  |  |  |
 | 06:00 | INR | Low | S&P Global Manufacturing PMI (Sep) | 57.7 | 58.5 | 59.3 |
-| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Sep) | 2.2% | 1.8% | 2.1% |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Sep) | 0.5% | 0.2% | -0.1% |
+| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Sep) | 2.2% | 1.8% | 2.1% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Aug) | -0.2% | 0.5% | 0.9% |
 | 07:30 | AUD | Low | Commodity Prices (YoY) (Sep) | -0.1% |  | -5.0% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Sep) | 51.5 | 53.8 | 54.3 |
@@ -62,8 +62,8 @@
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction | 2.720% |  | 2.250% |
 | 10:55 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 11:00 | USD | Moderate | OPEC Meeting |  |  |  |
-| 11:00 | EUR | Low | Car Registration (MoM) (Sep) | 38.90% |  | -37.60% |
 | 11:00 | EUR | Low | Car Registration (YoY) (Sep) | 16.40% |  | 17.20% |
+| 11:00 | EUR | Low | Car Registration (MoM) (Sep) | 38.90% |  | -37.60% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.46% |  | 6.34% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) | -12.7% |  | 0.6% |
 | 12:00 | USD | Low | MBA Purchase Index | 172.7 |  | 174.5 |
@@ -71,18 +71,18 @@
 | 12:00 | USD | Low | Mortgage Refinance Index | 1,278.6 |  | 1,609.8 |
 | 12:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 12:30 | INR | Low | M3 Money Supply | 9.2% |  | 9.5% |
-| 3 min | USD | High | ADP Nonfarm Employment Change (Sep) |  | 52K | 54K |
-| 18 min | ZAR | Low | Total Vehicle Sales (YoY) (Sep) |  |  | 18.70% |
-| 18 min | ZAR | Low | Total Vehicle Sales (Sep) |  |  | 51.88K |
-| 48 min | CHF | Low | SNB Quarterly Bulletin |  |  |  |
-| 48 min | BRL | Low | S&P Global Manufacturing PMI (Sep) |  |  | 47.7 |
-| 14:30 | CAD | Low | S&P Global Manufacturing PMI (Sep) |  |  | 48.3 |
-| 14:45 | USD | High | S&P Global Manufacturing PMI (Sep) |  | 52.0 | 53.0 |
-| 15:00 | USD | Moderate | Construction Spending (MoM) (Aug) |  | -0.1% | -0.1% |
-| 15:00 | USD | Moderate | ISM Manufacturing Employment (Sep) |  |  | 43.8 |
-| 15:00 | USD | Low | ISM Manufacturing New Orders Index (Sep) |  |  | 51.4 |
-| 15:00 | USD | High | ISM Manufacturing PMI (Sep) |  | 49.0 | 48.7 |
-| 15:00 | USD | High | ISM Manufacturing Prices (Sep) |  | 62.7 | 63.7 |
+| 13:15 | USD | High | ADP Nonfarm Employment Change (Sep) | -32K | 52K | -3K |
+| 14:00 | CHF | Low | SNB Quarterly Bulletin |  |  |  |
+| 14:00 | BRL | Low | S&P Global Manufacturing PMI (Sep) | 46.5 |  | 47.7 |
+| 15 min | CAD | Low | S&P Global Manufacturing PMI (Sep) |  |  | 48.3 |
+| 30 min | USD | High | S&P Global Manufacturing PMI (Sep) |  | 52.0 | 53.0 |
+| 45 min | USD | Moderate | Construction Spending (MoM) (Aug) |  | -0.1% | -0.1% |
+| 45 min | USD | Moderate | ISM Manufacturing Employment (Sep) |  |  | 43.8 |
+| 45 min | USD | Low | ISM Manufacturing New Orders Index (Sep) |  |  | 51.4 |
+| 45 min | USD | High | ISM Manufacturing PMI (Sep) |  | 49.0 | 48.7 |
+| 45 min | USD | High | ISM Manufacturing Prices (Sep) |  | 62.7 | 63.7 |
+| 45 min | ZAR | Low | Total Vehicle Sales (YoY) (Sep) |  |  | 18.70% |
+| 45 min | ZAR | Low | Total Vehicle Sales (Sep) |  |  | 51.88K |
 | 15:30 | USD | High | Crude Oil Inventories |  | 1.500M | -0.607M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.052M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 1.596M |

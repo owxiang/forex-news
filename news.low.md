@@ -24,8 +24,8 @@
 | 05:00 | IDR | Core Inflation (YoY) (Sep) | 2.19% | 2.20% | 2.17% |
 | 05:00 | IDR | Export Growth (YoY) (Aug) | 5.78% | 5.00% | 9.86% |
 | 05:00 | IDR | Import Growth (YoY) (Aug) | -6.56% | -2.00% | -5.86% |
-| 05:00 | IDR | Inflation (YoY) (Sep) | 2.65% | 2.50% | 2.31% |
 | 05:00 | IDR | Inflation (MoM) (Sep) | 0.21% | 0.13% | -0.08% |
+| 05:00 | IDR | Inflation (YoY) (Sep) | 2.65% | 2.50% | 2.31% |
 | 05:00 | IDR | Trade Balance (Aug) | 5.49B | 3.99B | 4.18B |
 | 05:30 | INR | Cash Reserve Ratio | 4.00% | 3.75% | 4.00% |
 | 05:30 | INR | Reverse REPO Rate | 3.35% |  | 3.35% |
@@ -38,20 +38,20 @@
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Sep) | 2.4% |  | 2.3% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Sep) | 0.1% |  | 0.3% |
 | 10:00 | ZAR | Manufacturing PMI (Sep) | 52.2 |  | 49.5 |
-| 11:00 | EUR | Car Registration (MoM) (Sep) | 38.90% |  | -37.60% |
 | 11:00 | EUR | Car Registration (YoY) (Sep) | 16.40% |  | 17.20% |
+| 11:00 | EUR | Car Registration (MoM) (Sep) | 38.90% |  | -37.60% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate | 6.46% |  | 6.34% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) | -12.7% |  | 0.6% |
 | 12:00 | USD | MBA Purchase Index | 172.7 |  | 174.5 |
 | 12:00 | USD | Mortgage Market Index | 339.1 |  | 388.3 |
 | 12:00 | USD | Mortgage Refinance Index | 1,278.6 |  | 1,609.8 |
 | 12:30 | INR | M3 Money Supply | 9.2% |  | 9.5% |
-| 18 min | ZAR | Total Vehicle Sales (YoY) (Sep) |  |  | 18.70% |
-| 18 min | ZAR | Total Vehicle Sales (Sep) |  |  | 51.88K |
-| 48 min | CHF | SNB Quarterly Bulletin |  |  |  |
-| 48 min | BRL | S&P Global Manufacturing PMI (Sep) |  |  | 47.7 |
-| 14:30 | CAD | S&P Global Manufacturing PMI (Sep) |  |  | 48.3 |
-| 15:00 | USD | ISM Manufacturing New Orders Index (Sep) |  |  | 51.4 |
+| 14:00 | CHF | SNB Quarterly Bulletin |  |  |  |
+| 14:00 | BRL | S&P Global Manufacturing PMI (Sep) | 46.5 |  | 47.7 |
+| 15 min | CAD | S&P Global Manufacturing PMI (Sep) |  |  | 48.3 |
+| 45 min | USD | ISM Manufacturing New Orders Index (Sep) |  |  | 51.4 |
+| 45 min | ZAR | Total Vehicle Sales (YoY) (Sep) |  |  | 18.70% |
+| 45 min | ZAR | Total Vehicle Sales (Sep) |  |  | 51.88K |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.052M |
 | 15:30 | USD | Crude Oil Imports |  |  | 1.596M |
 | 15:30 | USD | Distillate Fuel Production |  |  | 0.029M |
