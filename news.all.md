@@ -25,19 +25,19 @@
 | 01:30 | SGD | Low | URA Property Index (QoQ) (Q3) | 1.20% |  | 1.00% |
 | 01:30 | IDR | Low | S&P Global Manufacturing PMI (Sep) | 50.4 |  | 51.5 |
 | 02:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
-| 34 min | IDR | Low | Core Inflation (YoY) (Sep) |  | 2.20% | 2.17% |
-| 34 min | IDR | Low | Export Growth (YoY) (Aug) |  | 5.00% | 9.86% |
-| 34 min | IDR | Low | Import Growth (YoY) (Aug) |  | -2.00% | -5.86% |
-| 34 min | IDR | Low | Inflation (MoM) (Sep) |  | 0.13% | -0.08% |
-| 34 min | IDR | Low | Inflation (YoY) (Sep) |  | 2.50% | 2.31% |
-| 34 min | IDR | Low | Trade Balance (Aug) |  | 3.99B | 4.18B |
-| 05:30 | INR | Low | Cash Reserve Ratio |  | 3.75% | 4.00% |
-| 05:30 | INR | Moderate | Interest Rate Decision |  | 5.50% | 5.50% |
-| 05:30 | INR | Low | Reverse REPO Rate |  |  | 3.35% |
-| 05:30 | INR | Moderate | RBI Financial Stability Report |  |  |  |
-| 06:00 | INR | Low | S&P Global Manufacturing PMI (Sep) |  | 58.5 | 59.3 |
-| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Sep) |  | 0.2% | -0.1% |
+| 03:00 | IDR | Low | Export Growth (YoY) (Aug) | 5.78% | 5.00% | 9.86% |
+| 05:00 | IDR | Low | Core Inflation (YoY) (Sep) |  | 2.20% | 2.17% |
+| 05:00 | IDR | Low | Import Growth (YoY) (Aug) |  | -2.00% | -5.86% |
+| 05:00 | IDR | Low | Inflation (MoM) (Sep) |  | 0.13% | -0.08% |
+| 05:00 | IDR | Low | Inflation (YoY) (Sep) |  | 2.50% | 2.31% |
+| 05:00 | IDR | Low | Trade Balance (Aug) |  | 3.99B | 4.18B |
+| 22 min | INR | Low | Cash Reserve Ratio |  | 3.75% | 4.00% |
+| 22 min | INR | Moderate | Interest Rate Decision |  | 5.50% | 5.50% |
+| 22 min | INR | Low | Reverse REPO Rate |  |  | 3.35% |
+| 22 min | INR | Moderate | RBI Financial Stability Report |  |  |  |
+| 52 min | INR | Low | S&P Global Manufacturing PMI (Sep) |  | 58.5 | 59.3 |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Sep) |  | 1.8% | 2.1% |
+| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Sep) |  | 0.2% | -0.1% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Aug) |  | 0.5% | 0.7% |
 | 07:30 | AUD | Low | Commodity Prices (YoY) (Sep) |  |  | -4.3% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Sep) |  | 53.8 | 54.3 |
@@ -62,8 +62,8 @@
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.250% |
 | 10:55 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 11:00 | USD | Moderate | OPEC Meeting |  |  |  |
-| 11:00 | EUR | Low | Car Registration (YoY) (Sep) |  |  | 17.20% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Sep) |  |  | -37.60% |
+| 11:00 | EUR | Low | Car Registration (YoY) (Sep) |  |  | 17.20% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.34% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 0.6% |
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 174.5 |
