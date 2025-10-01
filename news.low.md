@@ -30,24 +30,24 @@
 | 05:30 | INR | Cash Reserve Ratio | 4.00% | 3.75% | 4.00% |
 | 05:30 | INR | Reverse REPO Rate | 3.35% |  | 3.35% |
 | 06:00 | INR | S&P Global Manufacturing PMI (Sep) | 57.7 | 58.5 | 59.3 |
-| 20 min | CHF | Retail Sales (YoY) (Aug) |  | 0.5% | 0.7% |
-| 20 min | AUD | Commodity Prices (YoY) (Sep) |  |  | -4.3% |
-| 09:00 | NOK | Manufacturing PMI (Sep) |  |  | 49.6 |
+| 07:30 | CHF | Retail Sales (YoY) (Aug) | -0.2% | 0.5% | 0.9% |
+| 07:30 | AUD | Commodity Prices (YoY) (Sep) | -0.1% |  | -5.0% |
+| 52 min | NOK | Manufacturing PMI (Sep) |  |  | 49.6 |
 | 10:00 | EUR | Core CPI (MoM) (Sep) |  |  | 0.3% |
 | 10:00 | EUR | CPI, n.s.a (Sep) |  |  | 129.31 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Sep) |  |  | 2.3% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Sep) |  |  | 0.3% |
 | 10:00 | ZAR | Manufacturing PMI (Sep) |  |  | 49.5 |
-| 11:00 | EUR | Car Registration (MoM) (Sep) |  |  | -37.60% |
 | 11:00 | EUR | Car Registration (YoY) (Sep) |  |  | 17.20% |
+| 11:00 | EUR | Car Registration (MoM) (Sep) |  |  | -37.60% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.34% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 0.6% |
 | 12:00 | USD | MBA Purchase Index |  |  | 174.5 |
 | 12:00 | USD | Mortgage Market Index |  |  | 388.3 |
 | 12:00 | USD | Mortgage Refinance Index |  |  | 1,609.8 |
 | 12:30 | INR | M3 Money Supply |  |  | 9.5% |
-| 13:30 | ZAR | Total Vehicle Sales (Sep) |  |  | 51.88K |
 | 13:30 | ZAR | Total Vehicle Sales (YoY) (Sep) |  |  | 18.70% |
+| 13:30 | ZAR | Total Vehicle Sales (Sep) |  |  | 51.88K |
 | 14:00 | CHF | SNB Quarterly Bulletin |  |  |  |
 | 14:00 | BRL | S&P Global Manufacturing PMI (Sep) |  |  | 47.7 |
 | 14:30 | CAD | S&P Global Manufacturing PMI (Sep) |  |  | 48.3 |
