@@ -1,54 +1,85 @@
-## 02 October 2025 - All Forex News
+## 03 October 2025 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | CPI (YoY) (Sep) | 2.1% | 2.0% | 1.7% |
-| 00:00 | KRW | Low | CPI (MoM) (Sep) | 0.5% | 0.4% | -0.1% |
-| 00:00 | KRW | Low | Current Account (Aug) | 9.15B |  | 10.78B |
-| 00:50 | USD | Low | Total Vehicle Sales (Sep) | 16.40M | 16.20M | 16.10M |
-| 00:50 | JPY | Low | Foreign Bonds Buying | -162.0B |  | 816.7B |
-| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -963.3B |  | -1,747.1B |
-| 00:50 | JPY | Low | Monetary Base (YoY) (Sep) | -6.1% | -3.8% | -4.1% |
-| 02:30 | AUD | Low | Exports (MoM) (Aug) | -7.8% |  | 2.5% |
-| 02:30 | AUD | Low | Imports (MoM) (Aug) | 3.2% |  | -2.4% |
-| 02:30 | AUD | Moderate | RBA Financial Stability Review (Aug) |  |  |  |
-| 02:30 | AUD | Moderate | Trade Balance (Aug) | 1.825B | 6.130B | 6.612B |
-| 04:35 | JPY | Moderate | 10-Year JGB Auction | 1.635% |  | 1.612% |
-| 06:00 | JPY | Low | Household Confidence (Sep) | 35.3 | 35.1 | 34.9 |
-| 07:30 | CHF | Moderate | CPI (MoM) (Sep) | -0.2% | -0.2% | -0.1% |
-| 07:30 | CHF | Low | CPI (YoY) (Sep) | 0.2% | 0.3% | 0.2% |
-| 07:45 | EUR | Low | French Government Budget Balance (Aug) | -157.5B |  | -142.0B |
-| 08:00 | EUR | Moderate | Spanish Unemployment Change (Sep) | -4.8K | 15.4K | 21.9K |
-| 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Aug) | 6.0% | 6.0% | 5.9% |
-| 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Sep) | 0.65% |  | 0.04% |
-| 09:30 | HKD | Low | Retail Sales (YoY) (Aug) | 3.8% |  | 1.8% |
-| 09:40 | EUR | Low | Spanish 5-Year Bonos Auction | 2.483% |  | 2.479% |
-| 09:40 | EUR | Low | Spanish 7-Year Obligacion Auction | 2.922% |  | 2.734% |
-| 10:00 | EUR | Moderate | Unemployment Rate (Aug) | 6.3% | 6.2% | 6.2% |
-| 10:05 | EUR | Low | French 10-Year OAT Auction | 3.51% |  | 3.17% |
-| 10:30 | GBP | Low | 10-Year Treasury Gilt Auction | 4.769% |  | 4.522% |
-| 12:30 | USD | Low | Challenger Job Cuts (YoY) | -25.8% |  | 13.3% |
-| 12:30 | USD | Low | Challenger Job Cuts (Sep) | 54.064K |  | 85.979K |
-| 12:30 | ZAR | Low | Total Vehicle Sales (YoY) (Sep) | 24.30% |  | 18.70% |
-| 12:30 | ZAR | Low | Total Vehicle Sales (Sep) | 54.70K |  | 51.88K |
-| 14:00 | SGD | Low | S&P Global Manufacturing PMI (Sep) | 50.1 |  | 50.0 |
-| 15:30 | USD | Low | Fed Logan Speaks |  |  |  |
-| 15:30 | USD | Low | Natural Gas Storage | 53B | 66B | 75B |
-| 16:30 | USD | Low | 4-Week Bill Auction | 4.060% |  | 4.080% |
-| 16:30 | USD | Low | 8-Week Bill Auction | 3.960% |  | 4.000% |
-| 17:15 | USD | Low | OPEC Crude Oil Production Algeria (Barrel) | 0.96M |  | 0.95M |
-| 17:15 | USD | Low | OPEC Crude Oil Production Congo (Barrel) | 0.26M |  | 0.26M |
-| 17:15 | USD | Low | OPEC Crude Oil Production Gabon (Barrel) | 0.23M |  | 0.23M |
-| 17:15 | USD | Low | OPEC Crude Oil Production Guinea (Barrel) | 0.05M |  | 0.05M |
-| 17:15 | USD | Low | OPEC Crude oil Production Iran (Barrel) | 3.38M |  | 3.35M |
-| 17:15 | USD | Low | OPEC Crude oil Production Iraq (Barrel) | 4.01M |  | 3.90M |
-| 17:15 | USD | Low | OPEC Crude Oil Production Kuwait (Barrel) | 2.52M |  | 2.49M |
-| 17:15 | USD | Low | OPEC Crude Oil Production Libya (Barrel) | 1.29M |  | 1.26M |
-| 17:15 | USD | Low | OPEC Crude Oil Production Nigeria (Barrel) | 1.55M |  | 1.65M |
-| 17:15 | USD | Low | OPEC Crude oil Production Saudi Arabia (Barrel) | 9.85M |  | 9.60M |
-| 17:15 | USD | Low | OPEC Crude oil Production UAE (Barrel) | 3.35M |  | 3.25M |
-| 17:15 | USD | Low | OPEC Crude oil Production Venezuela (Barrel) | 0.95M |  | 0.85M |
-| 18:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 19:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,587B |  | 6,608B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 2.980T |  | 3.000T |
+| 00:00 | AUD | Low | Manufacturing & Services PMI (Sep) | 52.40 | 52.10 | 55.50 |
+| 00:00 | AUD | Low | Judo Bank Services PMI (Sep) | 52.4 | 52.0 | 55.8 |
+| 24 min | JPY | Low | Jobs/applications ratio (Aug) |  | 1.22 | 1.22 |
+| 24 min | JPY | Low | Unemployment Rate (Aug) |  | 2.4% | 2.3% |
+| 01:30 | JPY | Low | Manufacturing & Services PMI (MoM) (Sep) |  | 51.10% | 52.00% |
+| 01:30 | JPY | Moderate | au Jibun Bank Services PMI (Sep) |  | 53.0 | 53.1 |
+| 02:05 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
+| 06:00 | SGD | Low | Retail Sales (MoM) (Aug) |  |  | 4.1% |
+| 06:00 | SGD | Low | Retail Sales (YoY) (Aug) |  |  | 4.8% |
+| 07:00 | NOK | Low | Unemployment Change (Sep) |  |  | 64.20K |
+| 07:00 | NOK | Low | Unemployment Rate n.s.a. (Sep) |  | 2.10% | 2.20% |
+| 07:45 | EUR | Low | French Industrial Production (MoM) |  | 0.3% | -1.1% |
+| 08:15 | EUR | Moderate | HCOB Spain Services PMI (Sep) |  | 53.3 | 53.2 |
+| 08:15 | ZAR | Low | S&P Global Manufacturing PMI (Sep) |  |  | 50.1 |
+| 08:45 | EUR | Low | HCOB Italy Composite PMI (Sep) |  |  | 51.7 |
+| 08:45 | EUR | Moderate | HCOB Italy Services PMI (Sep) |  | 51.5 | 51.5 |
+| 08:45 | EUR | Low | French Industrial Production (MoM) (Aug) |  |  | -1.1% |
+| 08:50 | EUR | Low | HCOB France Composite PMI (Sep) |  | 48.4 | 49.8 |
+| 08:50 | EUR | Moderate | HCOB France Services PMI (Sep) |  | 48.9 | 49.8 |
+| 08:55 | EUR | Low | HCOB Germany Composite PMI (Sep) |  | 52.4 | 50.5 |
+| 08:55 | EUR | Moderate | HCOB Germany Services PMI (Sep) |  | 52.5 | 49.3 |
+| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Aug) |  | 0.0% | 0.0% |
+| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Aug) |  |  | 1.8% |
+| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Sep) |  | 51.2 | 51.0 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Sep) |  | 51.4 | 50.5 |
+| 09:30 | GBP | Moderate | S&P Global Composite PMI (Sep) |  | 51.0 | 53.5 |
+| 09:30 | GBP | Moderate | S&P Global Services PMI (Sep) |  | 51.9 | 54.2 |
+| 10:00 | EUR | Low | Italian Public Deficit (Q2) |  |  | 8.5% |
+| 10:00 | NOK | Low | House Price Index (YoY) (Sep) |  |  | 5.50% |
+| 10:40 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 11:00 | EUR | Low | German Car Registration (YoY) (Sep) |  |  | 5.0% |
+| 11:00 | EUR | Low | PPI (MoM) (Aug) |  | -0.1% | 0.4% |
+| 11:00 | EUR | Low | PPI (YoY) (Aug) |  | -0.4% | 0.2% |
+| 11:05 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 12:30 | INR | Low | Bank Loan Growth |  |  | 10.3% |
+| 12:30 | INR | Low | Deposit Growth |  |  | 9.8% |
+| 12:30 | INR | Low | FX Reserves, USD |  |  | 702.57B |
+| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jul) |  | -7.40% | -6.40% |
+| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Jul) |  | 1.00% | -1.40% |
+| 13:00 | BRL | Moderate | Industrial Production (YoY) (Aug) |  | -0.8% | 0.2% |
+| 13:00 | BRL | Low | Industrial Production (MoM) (Aug) |  | 0.3% | -0.2% |
+| 13:15 | CAD | Low | Reserve Assets Total (Sep) |  |  | 127.9B |
+| 14:00 | BRL | Low | S&P Global Composite PMI (Sep) |  |  | 48.8 |
+| 14:00 | BRL | Low | S&P Global Services PMI (Sep) |  |  | 49.3 |
+| 14:20 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 14:30 | CAD | Low | Services PMI (MoM) (Sep) |  |  | 48.60% |
+| 14:45 | USD | Moderate | S&P Global Composite PMI (Sep) |  | 53.6 | 54.6 |
+| 14:45 | USD | High | S&P Global Services PMI (Sep) |  | 53.9 | 54.5 |
+| 14:50 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Sep) |  | 51.8 | 55.0 |
+| 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Sep) |  |  | 46.5 |
+| 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Sep) |  |  | 56.0 |
+| 15:00 | USD | High | ISM Non-Manufacturing PMI (Sep) |  | 51.8 | 52.0 |
+| 15:00 | USD | High | ISM Non-Manufacturing Prices (Sep) |  |  | 69.2 |
+| 16:00 | USD | Low | Durables Excluding Defense (MoM) (Aug) |  |  | 1.9% |
+| 16:00 | USD | Low | Durables Excluding Transport (MoM) (Aug) |  |  | 0.4% |
+| 16:00 | USD | Moderate | Factory Orders (MoM) (Aug) |  | 1.4% | -1.3% |
+| 16:00 | USD | Low | Factory orders ex transportation (MoM) (Aug) |  |  | 0.6% |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 424 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 549 |
+| 18:40 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
+| 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -2.0K |
+| 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 0.7K |
+| 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 30.2K |
+| 20:30 | USD | Low | CFTC Corn speculative net positions |  |  | -51.2K |
+| 20:30 | USD | Moderate | CFTC Crude Oil speculative net positions |  |  | 103.0K |
+| 20:30 | USD | Moderate | CFTC Gold speculative net positions |  |  | 266.7K |
+| 20:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions |  |  | 23.4K |
+| 20:30 | USD | Low | CFTC Natural Gas speculative net positions |  |  | -128.1K |
+| 20:30 | USD | Moderate | CFTC S&P 500 speculative net positions |  |  | -172.5K |
+| 20:30 | USD | Low | CFTC Silver speculative net positions |  |  | 52.3K |
+| 20:30 | USD | Low | CFTC Soybeans speculative net positions |  |  | 5.7K |
+| 20:30 | USD | Low | CFTC Wheat speculative net positions |  |  | -81.7K |
+| 20:30 | CAD | Low | CFTC CAD speculative net positions |  |  | -114.8K |
+| 20:30 | MXN | Low | CFTC MXN speculative net positions |  |  | 83.4K |
+| 20:30 | CHF | Low | CFTC CHF speculative net positions |  |  | -23.0K |
+| 20:30 | AUD | Moderate | CFTC AUD speculative net positions |  |  | -59.6K |
+| 20:30 | BRL | Moderate | CFTC BRL speculative net positions |  |  | 65.5K |
+| 20:30 | JPY | Moderate | CFTC JPY speculative net positions |  |  | 79.5K |
+| 20:30 | NZD | Low | CFTC NZD speculative net positions |  |  | -21.1K |
+| 20:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | 114.3K |
