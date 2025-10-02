@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | CPI (YoY) (Sep) | 2.1% | 2.0% | 1.7% |
 | 00:00 | KRW | CPI (MoM) (Sep) | 0.5% | 0.4% | -0.1% |
+| 00:00 | KRW | CPI (YoY) (Sep) | 2.1% | 2.0% | 1.7% |
 | 00:00 | KRW | Current Account (Aug) | 9.15B |  | 10.78B |
 | 00:50 | USD | Total Vehicle Sales (Sep) | 16.40M | 16.20M | 16.10M |
 | 00:50 | JPY | Foreign Bonds Buying | -162.0B |  | 816.7B |
@@ -20,8 +20,8 @@
 | 09:40 | EUR | Spanish 7-Year Obligacion Auction | 2.922% |  | 2.734% |
 | 10:05 | EUR | French 10-Year OAT Auction | 3.51% |  | 3.17% |
 | 10:30 | GBP | 10-Year Treasury Gilt Auction | 4.769% |  | 4.522% |
-| 12:30 | USD | Challenger Job Cuts (YoY) | -25.8% |  | 13.3% |
 | 12:30 | USD | Challenger Job Cuts (Sep) | 54.064K |  | 85.979K |
+| 12:30 | USD | Challenger Job Cuts (YoY) | -25.8% |  | 13.3% |
 | 12:30 | ZAR | Total Vehicle Sales (YoY) (Sep) | 24.30% |  | 18.70% |
 | 12:30 | ZAR | Total Vehicle Sales (Sep) | 54.70K |  | 51.88K |
 | 14:00 | SGD | S&P Global Manufacturing PMI (Sep) | 50.1 |  | 50.0 |
@@ -41,5 +41,5 @@
 | 17:15 | USD | OPEC Crude oil Production Saudi Arabia (Barrel) | 9.85M |  | 9.60M |
 | 17:15 | USD | OPEC Crude oil Production UAE (Barrel) | 3.35M |  | 3.25M |
 | 17:15 | USD | OPEC Crude oil Production Venezuela (Barrel) | 0.95M |  | 0.85M |
-| 21 min | USD | Fed Goolsbee Speaks |  |  |  |
+| 19:30 | USD | Fed Goolsbee Speaks |  |  |  |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.000T |

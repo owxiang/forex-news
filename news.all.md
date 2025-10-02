@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | CPI (YoY) (Sep) | 2.1% | 2.0% | 1.7% |
 | 00:00 | KRW | Low | CPI (MoM) (Sep) | 0.5% | 0.4% | -0.1% |
+| 00:00 | KRW | Low | CPI (YoY) (Sep) | 2.1% | 2.0% | 1.7% |
 | 00:00 | KRW | Low | Current Account (Aug) | 9.15B |  | 10.78B |
 | 00:50 | USD | Low | Total Vehicle Sales (Sep) | 16.40M | 16.20M | 16.10M |
 | 00:50 | JPY | Low | Foreign Bonds Buying | -162.0B |  | 816.7B |
@@ -27,8 +27,8 @@
 | 10:00 | EUR | Moderate | Unemployment Rate (Aug) | 6.3% | 6.2% | 6.2% |
 | 10:05 | EUR | Low | French 10-Year OAT Auction | 3.51% |  | 3.17% |
 | 10:30 | GBP | Low | 10-Year Treasury Gilt Auction | 4.769% |  | 4.522% |
-| 12:30 | USD | Low | Challenger Job Cuts (YoY) | -25.8% |  | 13.3% |
 | 12:30 | USD | Low | Challenger Job Cuts (Sep) | 54.064K |  | 85.979K |
+| 12:30 | USD | Low | Challenger Job Cuts (YoY) | -25.8% |  | 13.3% |
 | 12:30 | ZAR | Low | Total Vehicle Sales (YoY) (Sep) | 24.30% |  | 18.70% |
 | 12:30 | ZAR | Low | Total Vehicle Sales (Sep) | 54.70K |  | 51.88K |
 | 14:00 | SGD | Low | S&P Global Manufacturing PMI (Sep) | 50.1 |  | 50.0 |
@@ -49,6 +49,6 @@
 | 17:15 | USD | Low | OPEC Crude oil Production UAE (Barrel) | 3.35M |  | 3.25M |
 | 17:15 | USD | Low | OPEC Crude oil Production Venezuela (Barrel) | 0.95M |  | 0.85M |
 | 18:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 21 min | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 19:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,608B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.000T |
