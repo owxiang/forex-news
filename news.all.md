@@ -15,8 +15,8 @@
 | 02:30 | AUD | Moderate | Trade Balance (Aug) | 1.825B | 6.130B | 6.612B |
 | 04:35 | JPY | Moderate | 10-Year JGB Auction | 1.635% |  | 1.612% |
 | 06:00 | JPY | Low | Household Confidence (Sep) | 35.3 | 35.1 | 34.9 |
-| 07:30 | CHF | Low | CPI (YoY) (Sep) | 0.2% | 0.3% | 0.2% |
 | 07:30 | CHF | Moderate | CPI (MoM) (Sep) | -0.2% | -0.2% | -0.1% |
+| 07:30 | CHF | Low | CPI (YoY) (Sep) | 0.2% | 0.3% | 0.2% |
 | 07:45 | EUR | Low | French Government Budget Balance (Aug) | -157.5B |  | -142.0B |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change (Sep) | -4.8K | 15.4K | 21.9K |
 | 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Aug) | 6.0% | 6.0% | 5.9% |
@@ -29,8 +29,8 @@
 | 10:30 | GBP | Low | 10-Year Treasury Gilt Auction | 4.769% |  | 4.522% |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) | -25.8% |  | 13.3% |
 | 12:30 | USD | Low | Challenger Job Cuts (Sep) | 54.064K |  | 85.979K |
-| 12:30 | ZAR | Low | Total Vehicle Sales (Sep) | 54.70K |  | 51.88K |
 | 12:30 | ZAR | Low | Total Vehicle Sales (YoY) (Sep) | 24.30% |  | 18.70% |
+| 12:30 | ZAR | Low | Total Vehicle Sales (Sep) | 54.70K |  | 51.88K |
 | 14:00 | SGD | Low | S&P Global Manufacturing PMI (Sep) | 50.1 |  | 50.0 |
 | 15:30 | USD | Low | Fed Logan Speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage | 53B | 66B | 75B |

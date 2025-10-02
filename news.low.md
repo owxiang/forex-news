@@ -22,8 +22,8 @@
 | 10:30 | GBP | 10-Year Treasury Gilt Auction | 4.769% |  | 4.522% |
 | 12:30 | USD | Challenger Job Cuts (YoY) | -25.8% |  | 13.3% |
 | 12:30 | USD | Challenger Job Cuts (Sep) | 54.064K |  | 85.979K |
-| 12:30 | ZAR | Total Vehicle Sales (Sep) | 54.70K |  | 51.88K |
 | 12:30 | ZAR | Total Vehicle Sales (YoY) (Sep) | 24.30% |  | 18.70% |
+| 12:30 | ZAR | Total Vehicle Sales (Sep) | 54.70K |  | 51.88K |
 | 14:00 | SGD | S&P Global Manufacturing PMI (Sep) | 50.1 |  | 50.0 |
 | 15:30 | USD | Fed Logan Speaks |  |  |  |
 | 15:30 | USD | Natural Gas Storage | 53B | 66B | 75B |
