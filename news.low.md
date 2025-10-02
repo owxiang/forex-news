@@ -20,14 +20,14 @@
 | 09:40 | EUR | Spanish 7-Year Obligacion Auction | 2.922% |  | 2.734% |
 | 10:05 | EUR | French 10-Year OAT Auction | 3.51% |  | 3.17% |
 | 10:30 | GBP | 10-Year Treasury Gilt Auction | 4.769% |  | 4.522% |
-| 24 min | USD | Challenger Job Cuts (Sep) |  |  | 85.979K |
-| 24 min | USD | Challenger Job Cuts (YoY) |  |  | 13.3% |
-| 14:00 | SGD | S&P Global Manufacturing PMI (Sep) |  |  | 50.0 |
+| 12:30 | USD | Challenger Job Cuts (YoY) | -25.8% |  | 13.3% |
+| 12:30 | USD | Challenger Job Cuts (Sep) | 54.064K |  | 85.979K |
+| 12:30 | ZAR | Total Vehicle Sales (YoY) (Sep) | 24.30% |  | 18.70% |
+| 12:30 | ZAR | Total Vehicle Sales (Sep) | 54.70K |  | 51.88K |
+| 49 min | SGD | S&P Global Manufacturing PMI (Sep) |  |  | 50.0 |
 | 15:00 | USD | Durables Excluding Defense (MoM) (Aug) |  |  | 1.9% |
 | 15:00 | USD | Durables Excluding Transport (MoM) (Aug) |  |  | 0.4% |
 | 15:00 | USD | Factory orders ex transportation (MoM) (Aug) |  |  | 0.6% |
-| 15:00 | ZAR | Total Vehicle Sales (YoY) (Sep) |  |  | 18.70% |
-| 15:00 | ZAR | Total Vehicle Sales (Sep) |  |  | 51.88K |
 | 15:30 | USD | Fed Logan Speaks |  |  |  |
 | 15:30 | USD | Natural Gas Storage |  | 66B | 75B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.080% |
