@@ -2,13 +2,13 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | CPI (YoY) (Sep) | 2.1% | 2.0% | 1.7% |
 | 00:00 | KRW | CPI (MoM) (Sep) | 0.5% | 0.4% | -0.1% |
+| 00:00 | KRW | CPI (YoY) (Sep) | 2.1% | 2.0% | 1.7% |
 | 00:00 | KRW | Current Account (Aug) | 9.15B |  | 10.78B |
 | 00:50 | JPY | Foreign Bonds Buying | -162.0B |  | 816.7B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | -963.3B |  | -1,747.1B |
 | 00:50 | JPY | Monetary Base (YoY) (Sep) | -6.1% | -3.8% | -4.1% |
-| 02:30 | AUD | Exports (MoM) (Aug) | -7.8% |  | 3.3% |
+| 02:30 | AUD | Exports (MoM) (Aug) | -7.8% |  | 2.5% |
 | 02:30 | AUD | Imports (MoM) (Aug) | 3.2% |  | -2.4% |
 | 06:00 | JPY | Household Confidence (Sep) |  | 35.1 | 34.9 |
 | 07:30 | CHF | CPI (YoY) (Sep) |  | 0.3% | 0.2% |

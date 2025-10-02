@@ -2,17 +2,17 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | CPI (YoY) (Sep) | 2.1% | 2.0% | 1.7% |
 | 00:00 | KRW | Low | CPI (MoM) (Sep) | 0.5% | 0.4% | -0.1% |
+| 00:00 | KRW | Low | CPI (YoY) (Sep) | 2.1% | 2.0% | 1.7% |
 | 00:00 | KRW | Low | Current Account (Aug) | 9.15B |  | 10.78B |
 | 00:50 | JPY | Low | Foreign Bonds Buying | -162.0B |  | 816.7B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -963.3B |  | -1,747.1B |
 | 00:50 | JPY | Low | Monetary Base (YoY) (Sep) | -6.1% | -3.8% | -4.1% |
-| 02:30 | AUD | Low | Exports (MoM) (Aug) | -7.8% |  | 3.3% |
+| 02:30 | AUD | Low | Exports (MoM) (Aug) | -7.8% |  | 2.5% |
 | 02:30 | AUD | Low | Imports (MoM) (Aug) | 3.2% |  | -2.4% |
 | 02:30 | AUD | Moderate | RBA Financial Stability Review (Aug) |  |  |  |
 | 02:30 | AUD | Moderate | Trade Balance (Aug) | 1.825B | 6.130B | 6.612B |
-| 04:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 1.612% |
+| 19 min | JPY | Moderate | 10-Year JGB Auction |  |  | 1.612% |
 | 06:00 | JPY | Low | Household Confidence (Sep) |  | 35.1 | 34.9 |
 | 07:30 | CHF | Moderate | CPI (MoM) (Sep) |  | -0.2% | -0.1% |
 | 07:30 | CHF | Low | CPI (YoY) (Sep) |  | 0.3% | 0.2% |
