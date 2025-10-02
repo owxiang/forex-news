@@ -32,14 +32,10 @@
 | 12:30 | ZAR | Low | Total Vehicle Sales (Sep) | 54.70K |  | 51.88K |
 | 12:30 | ZAR | Low | Total Vehicle Sales (YoY) (Sep) | 24.30% |  | 18.70% |
 | 14:00 | SGD | Low | S&P Global Manufacturing PMI (Sep) | 50.1 |  | 50.0 |
-| 24 min | USD | Low | Fed Logan Speaks |  |  |  |
-| 24 min | USD | Low | Natural Gas Storage |  | 66B | 75B |
-| 54 min | USD | Low | Durables Excluding Defense (MoM) (Aug) |  |  | 1.9% |
-| 54 min | USD | Low | Durables Excluding Transport (MoM) (Aug) |  |  | 0.4% |
-| 54 min | USD | Moderate | Factory Orders (MoM) (Aug) |  | 1.4% | -1.3% |
-| 54 min | USD | Low | Factory orders ex transportation (MoM) (Aug) |  |  | 0.6% |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.080% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.000% |
+| 15:30 | USD | Low | Fed Logan Speaks |  |  |  |
+| 15:30 | USD | Low | Natural Gas Storage | 53B | 66B | 75B |
+| 24 min | USD | Low | 4-Week Bill Auction |  |  | 4.080% |
+| 24 min | USD | Low | 8-Week Bill Auction |  |  | 4.000% |
 | 18:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 19:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,608B |

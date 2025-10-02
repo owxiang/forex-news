@@ -25,12 +25,9 @@
 | 12:30 | ZAR | Total Vehicle Sales (Sep) | 54.70K |  | 51.88K |
 | 12:30 | ZAR | Total Vehicle Sales (YoY) (Sep) | 24.30% |  | 18.70% |
 | 14:00 | SGD | S&P Global Manufacturing PMI (Sep) | 50.1 |  | 50.0 |
-| 24 min | USD | Fed Logan Speaks |  |  |  |
-| 24 min | USD | Natural Gas Storage |  | 66B | 75B |
-| 54 min | USD | Durables Excluding Defense (MoM) (Aug) |  |  | 1.9% |
-| 54 min | USD | Durables Excluding Transport (MoM) (Aug) |  |  | 0.4% |
-| 54 min | USD | Factory orders ex transportation (MoM) (Aug) |  |  | 0.6% |
-| 16:30 | USD | 4-Week Bill Auction |  |  | 4.080% |
-| 16:30 | USD | 8-Week Bill Auction |  |  | 4.000% |
+| 15:30 | USD | Fed Logan Speaks |  |  |  |
+| 15:30 | USD | Natural Gas Storage | 53B | 66B | 75B |
+| 24 min | USD | 4-Week Bill Auction |  |  | 4.080% |
+| 24 min | USD | 8-Week Bill Auction |  |  | 4.000% |
 | 19:30 | USD | Fed Goolsbee Speaks |  |  |  |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.000T |
