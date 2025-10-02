@@ -15,8 +15,8 @@
 | 02:30 | AUD | Moderate | Trade Balance (Aug) | 1.825B | 6.130B | 6.612B |
 | 04:35 | JPY | Moderate | 10-Year JGB Auction | 1.635% |  | 1.612% |
 | 06:00 | JPY | Low | Household Confidence (Sep) | 35.3 | 35.1 | 34.9 |
-| 07:30 | CHF | Low | CPI (YoY) (Sep) | 0.2% | 0.3% | 0.2% |
 | 07:30 | CHF | Moderate | CPI (MoM) (Sep) | -0.2% | -0.2% | -0.1% |
+| 07:30 | CHF | Low | CPI (YoY) (Sep) | 0.2% | 0.3% | 0.2% |
 | 07:45 | EUR | Low | French Government Budget Balance (Aug) | -157.5B |  | -142.0B |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change (Sep) | -4.8K | 15.4K | 21.9K |
 | 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Aug) | 6.0% | 6.0% | 5.9% |
@@ -49,6 +49,6 @@
 | 17:15 | USD | Low | OPEC Crude oil Production UAE (Barrel) | 3.35M |  | 3.25M |
 | 17:15 | USD | Low | OPEC Crude oil Production Venezuela (Barrel) | 0.95M |  | 0.85M |
 | 18:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 19:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 21 min | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,608B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.000T |

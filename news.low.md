@@ -41,5 +41,5 @@
 | 17:15 | USD | OPEC Crude oil Production Saudi Arabia (Barrel) | 9.85M |  | 9.60M |
 | 17:15 | USD | OPEC Crude oil Production UAE (Barrel) | 3.35M |  | 3.25M |
 | 17:15 | USD | OPEC Crude oil Production Venezuela (Barrel) | 0.95M |  | 0.85M |
-| 19:30 | USD | Fed Goolsbee Speaks |  |  |  |
+| 21 min | USD | Fed Goolsbee Speaks |  |  |  |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.000T |
