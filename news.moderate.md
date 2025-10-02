@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:30 | AUD | RBA Financial Stability Review (Aug) |  |  |  |
-| 02:30 | AUD | Trade Balance (Aug) |  | 6.130B | 7.310B |
+| 02:30 | AUD | Trade Balance (Aug) | 1.825B | 6.130B | 6.612B |
 | 04:35 | JPY | 10-Year JGB Auction |  |  | 1.612% |
 | 07:30 | CHF | CPI (MoM) (Sep) |  | -0.2% | -0.1% |
 | 08:00 | EUR | Spanish Unemployment Change (Sep) |  | 15.4K | 21.9K |
