@@ -2,9 +2,10 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | CPI (YoY) (Sep) | 2.1% | 2.0% | 1.7% |
 | 00:00 | KRW | Low | CPI (MoM) (Sep) | 0.5% | 0.4% | -0.1% |
+| 00:00 | KRW | Low | CPI (YoY) (Sep) | 2.1% | 2.0% | 1.7% |
 | 00:00 | KRW | Low | Current Account (Aug) | 9.15B |  | 10.78B |
+| 00:50 | USD | Low | Total Vehicle Sales (Sep) | 16.40M | 16.20M | 16.10M |
 | 00:50 | JPY | Low | Foreign Bonds Buying | -162.0B |  | 816.7B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -963.3B |  | -1,747.1B |
 | 00:50 | JPY | Low | Monetary Base (YoY) (Sep) | -6.1% | -3.8% | -4.1% |
@@ -14,10 +15,10 @@
 | 02:30 | AUD | Moderate | Trade Balance (Aug) | 1.825B | 6.130B | 6.612B |
 | 04:35 | JPY | Moderate | 10-Year JGB Auction | 1.635% |  | 1.612% |
 | 06:00 | JPY | Low | Household Confidence (Sep) | 35.3 | 35.1 | 34.9 |
-| 07:30 | CHF | Moderate | CPI (MoM) (Sep) |  | -0.2% | -0.1% |
-| 07:30 | CHF | Low | CPI (YoY) (Sep) |  | 0.3% | 0.2% |
-| 07:45 | EUR | Low | French Government Budget Balance (Aug) |  |  | -142.0B |
-| 08:00 | EUR | Moderate | Spanish Unemployment Change (Sep) |  | 15.4K | 21.9K |
+| 20 min | CHF | Low | CPI (YoY) (Sep) |  | 0.3% | 0.2% |
+| 20 min | CHF | Moderate | CPI (MoM) (Sep) |  | -0.2% | -0.1% |
+| 35 min | EUR | Low | French Government Budget Balance (Aug) |  |  | -142.0B |
+| 50 min | EUR | Moderate | Spanish Unemployment Change (Sep) |  | 15.4K | 21.9K |
 | 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Aug) |  | 6.0% | 6.0% |
 | 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Sep) |  |  | 0.04% |
 | 09:30 | HKD | Low | Retail Sales (YoY) (Aug) |  |  | 1.8% |
@@ -33,7 +34,6 @@
 | 15:00 | USD | Low | Durables Excluding Transport (MoM) (Aug) |  |  | 0.4% |
 | 15:00 | USD | Moderate | Factory Orders (MoM) (Aug) |  | 1.4% | -1.3% |
 | 15:00 | USD | Low | Factory orders ex transportation (MoM) (Aug) |  |  | 0.6% |
-| 15:00 | USD | Low | Total Vehicle Sales (Sep) |  | 16.20M | 16.10M |
 | 15:00 | ZAR | Low | Total Vehicle Sales (YoY) (Sep) |  |  | 18.70% |
 | 15:00 | ZAR | Low | Total Vehicle Sales (Sep) |  |  | 51.88K |
 | 15:30 | USD | Low | Fed Logan Speaks |  |  |  |

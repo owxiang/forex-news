@@ -2,17 +2,18 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | CPI (YoY) (Sep) | 2.1% | 2.0% | 1.7% |
 | 00:00 | KRW | CPI (MoM) (Sep) | 0.5% | 0.4% | -0.1% |
+| 00:00 | KRW | CPI (YoY) (Sep) | 2.1% | 2.0% | 1.7% |
 | 00:00 | KRW | Current Account (Aug) | 9.15B |  | 10.78B |
+| 00:50 | USD | Total Vehicle Sales (Sep) | 16.40M | 16.20M | 16.10M |
 | 00:50 | JPY | Foreign Bonds Buying | -162.0B |  | 816.7B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | -963.3B |  | -1,747.1B |
 | 00:50 | JPY | Monetary Base (YoY) (Sep) | -6.1% | -3.8% | -4.1% |
 | 02:30 | AUD | Exports (MoM) (Aug) | -7.8% |  | 2.5% |
 | 02:30 | AUD | Imports (MoM) (Aug) | 3.2% |  | -2.4% |
 | 06:00 | JPY | Household Confidence (Sep) | 35.3 | 35.1 | 34.9 |
-| 07:30 | CHF | CPI (YoY) (Sep) |  | 0.3% | 0.2% |
-| 07:45 | EUR | French Government Budget Balance (Aug) |  |  | -142.0B |
+| 20 min | CHF | CPI (YoY) (Sep) |  | 0.3% | 0.2% |
+| 35 min | EUR | French Government Budget Balance (Aug) |  |  | -142.0B |
 | 09:00 | EUR | Italian Monthly Unemployment Rate (Aug) |  | 6.0% | 6.0% |
 | 09:30 | HKD | Retail Sales (YoY) (Aug) |  |  | 1.8% |
 | 09:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.479% |
@@ -25,7 +26,6 @@
 | 15:00 | USD | Durables Excluding Defense (MoM) (Aug) |  |  | 1.9% |
 | 15:00 | USD | Durables Excluding Transport (MoM) (Aug) |  |  | 0.4% |
 | 15:00 | USD | Factory orders ex transportation (MoM) (Aug) |  |  | 0.6% |
-| 15:00 | USD | Total Vehicle Sales (Sep) |  | 16.20M | 16.10M |
 | 15:00 | ZAR | Total Vehicle Sales (YoY) (Sep) |  |  | 18.70% |
 | 15:00 | ZAR | Total Vehicle Sales (Sep) |  |  | 51.88K |
 | 15:30 | USD | Fed Logan Speaks |  |  |  |
