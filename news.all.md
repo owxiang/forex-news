@@ -15,17 +15,17 @@
 | 02:30 | AUD | Moderate | Trade Balance (Aug) | 1.825B | 6.130B | 6.612B |
 | 04:35 | JPY | Moderate | 10-Year JGB Auction | 1.635% |  | 1.612% |
 | 06:00 | JPY | Low | Household Confidence (Sep) | 35.3 | 35.1 | 34.9 |
-| 07:30 | CHF | Low | CPI (YoY) (Sep) | 0.2% | 0.3% | 0.2% |
 | 07:30 | CHF | Moderate | CPI (MoM) (Sep) | -0.2% | -0.2% | -0.1% |
+| 07:30 | CHF | Low | CPI (YoY) (Sep) | 0.2% | 0.3% | 0.2% |
 | 07:45 | EUR | Low | French Government Budget Balance (Aug) | -157.5B |  | -142.0B |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change (Sep) | -4.8K | 15.4K | 21.9K |
-| 53 min | EUR | Low | Italian Monthly Unemployment Rate (Aug) |  | 6.0% | 6.0% |
-| 53 min | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Sep) |  |  | 0.04% |
-| 09:30 | HKD | Low | Retail Sales (YoY) (Aug) |  |  | 1.8% |
-| 09:40 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.479% |
-| 09:40 | EUR | Low | Spanish 7-Year Obligacion Auction |  |  | 2.734% |
-| 10:00 | EUR | Low | French 10-Year OAT Auction |  |  | 3.17% |
-| 10:00 | EUR | Moderate | Unemployment Rate (Aug) |  | 6.2% | 6.2% |
+| 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Aug) | 6.0% | 6.0% | 5.9% |
+| 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Sep) | 0.65% |  | 0.04% |
+| 21 min | HKD | Low | Retail Sales (YoY) (Aug) |  |  | 1.8% |
+| 31 min | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.479% |
+| 31 min | EUR | Low | Spanish 7-Year Obligacion Auction |  |  | 2.734% |
+| 51 min | EUR | Low | French 10-Year OAT Auction |  |  | 3.17% |
+| 51 min | EUR | Moderate | Unemployment Rate (Aug) |  | 6.2% | 6.2% |
 | 10:30 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.522% |
 | 12:30 | USD | Low | Challenger Job Cuts (Sep) |  |  | 85.979K |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 13.3% |
@@ -34,8 +34,8 @@
 | 15:00 | USD | Low | Durables Excluding Transport (MoM) (Aug) |  |  | 0.4% |
 | 15:00 | USD | Moderate | Factory Orders (MoM) (Aug) |  | 1.4% | -1.3% |
 | 15:00 | USD | Low | Factory orders ex transportation (MoM) (Aug) |  |  | 0.6% |
-| 15:00 | ZAR | Low | Total Vehicle Sales (YoY) (Sep) |  |  | 18.70% |
 | 15:00 | ZAR | Low | Total Vehicle Sales (Sep) |  |  | 51.88K |
+| 15:00 | ZAR | Low | Total Vehicle Sales (YoY) (Sep) |  |  | 18.70% |
 | 15:30 | USD | Low | Fed Logan Speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage |  | 66B | 75B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.080% |

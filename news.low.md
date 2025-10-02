@@ -14,11 +14,11 @@
 | 06:00 | JPY | Household Confidence (Sep) | 35.3 | 35.1 | 34.9 |
 | 07:30 | CHF | CPI (YoY) (Sep) | 0.2% | 0.3% | 0.2% |
 | 07:45 | EUR | French Government Budget Balance (Aug) | -157.5B |  | -142.0B |
-| 53 min | EUR | Italian Monthly Unemployment Rate (Aug) |  | 6.0% | 6.0% |
-| 09:30 | HKD | Retail Sales (YoY) (Aug) |  |  | 1.8% |
-| 09:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.479% |
-| 09:40 | EUR | Spanish 7-Year Obligacion Auction |  |  | 2.734% |
-| 10:00 | EUR | French 10-Year OAT Auction |  |  | 3.17% |
+| 09:00 | EUR | Italian Monthly Unemployment Rate (Aug) | 6.0% | 6.0% | 5.9% |
+| 21 min | HKD | Retail Sales (YoY) (Aug) |  |  | 1.8% |
+| 31 min | EUR | Spanish 5-Year Bonos Auction |  |  | 2.479% |
+| 31 min | EUR | Spanish 7-Year Obligacion Auction |  |  | 2.734% |
+| 51 min | EUR | French 10-Year OAT Auction |  |  | 3.17% |
 | 10:30 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.522% |
 | 12:30 | USD | Challenger Job Cuts (Sep) |  |  | 85.979K |
 | 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 13.3% |
@@ -26,8 +26,8 @@
 | 15:00 | USD | Durables Excluding Defense (MoM) (Aug) |  |  | 1.9% |
 | 15:00 | USD | Durables Excluding Transport (MoM) (Aug) |  |  | 0.4% |
 | 15:00 | USD | Factory orders ex transportation (MoM) (Aug) |  |  | 0.6% |
-| 15:00 | ZAR | Total Vehicle Sales (YoY) (Sep) |  |  | 18.70% |
 | 15:00 | ZAR | Total Vehicle Sales (Sep) |  |  | 51.88K |
+| 15:00 | ZAR | Total Vehicle Sales (YoY) (Sep) |  |  | 18.70% |
 | 15:30 | USD | Fed Logan Speaks |  |  |  |
 | 15:30 | USD | Natural Gas Storage |  | 66B | 75B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.080% |
