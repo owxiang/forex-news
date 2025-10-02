@@ -15,12 +15,12 @@
 | 02:30 | AUD | Moderate | Trade Balance (Aug) | 1.825B | 6.130B | 6.612B |
 | 04:35 | JPY | Moderate | 10-Year JGB Auction | 1.635% |  | 1.612% |
 | 06:00 | JPY | Low | Household Confidence (Sep) | 35.3 | 35.1 | 34.9 |
-| 20 min | CHF | Low | CPI (YoY) (Sep) |  | 0.3% | 0.2% |
-| 20 min | CHF | Moderate | CPI (MoM) (Sep) |  | -0.2% | -0.1% |
-| 35 min | EUR | Low | French Government Budget Balance (Aug) |  |  | -142.0B |
-| 50 min | EUR | Moderate | Spanish Unemployment Change (Sep) |  | 15.4K | 21.9K |
-| 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Aug) |  | 6.0% | 6.0% |
-| 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Sep) |  |  | 0.04% |
+| 07:30 | CHF | Low | CPI (YoY) (Sep) | 0.2% | 0.3% | 0.2% |
+| 07:30 | CHF | Moderate | CPI (MoM) (Sep) | -0.2% | -0.2% | -0.1% |
+| 07:45 | EUR | Low | French Government Budget Balance (Aug) | -157.5B |  | -142.0B |
+| 08:00 | EUR | Moderate | Spanish Unemployment Change (Sep) | -4.8K | 15.4K | 21.9K |
+| 53 min | EUR | Low | Italian Monthly Unemployment Rate (Aug) |  | 6.0% | 6.0% |
+| 53 min | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Sep) |  |  | 0.04% |
 | 09:30 | HKD | Low | Retail Sales (YoY) (Aug) |  |  | 1.8% |
 | 09:40 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.479% |
 | 09:40 | EUR | Low | Spanish 7-Year Obligacion Auction |  |  | 2.734% |

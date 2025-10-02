@@ -12,9 +12,9 @@
 | 02:30 | AUD | Exports (MoM) (Aug) | -7.8% |  | 2.5% |
 | 02:30 | AUD | Imports (MoM) (Aug) | 3.2% |  | -2.4% |
 | 06:00 | JPY | Household Confidence (Sep) | 35.3 | 35.1 | 34.9 |
-| 20 min | CHF | CPI (YoY) (Sep) |  | 0.3% | 0.2% |
-| 35 min | EUR | French Government Budget Balance (Aug) |  |  | -142.0B |
-| 09:00 | EUR | Italian Monthly Unemployment Rate (Aug) |  | 6.0% | 6.0% |
+| 07:30 | CHF | CPI (YoY) (Sep) | 0.2% | 0.3% | 0.2% |
+| 07:45 | EUR | French Government Budget Balance (Aug) | -157.5B |  | -142.0B |
+| 53 min | EUR | Italian Monthly Unemployment Rate (Aug) |  | 6.0% | 6.0% |
 | 09:30 | HKD | Retail Sales (YoY) (Aug) |  |  | 1.8% |
 | 09:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.479% |
 | 09:40 | EUR | Spanish 7-Year Obligacion Auction |  |  | 2.734% |
