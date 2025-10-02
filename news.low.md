@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | CPI (MoM) (Sep) | 0.5% | 0.4% | -0.1% |
 | 00:00 | KRW | CPI (YoY) (Sep) | 2.1% | 2.0% | 1.7% |
+| 00:00 | KRW | CPI (MoM) (Sep) | 0.5% | 0.4% | -0.1% |
 | 00:00 | KRW | Current Account (Aug) | 9.15B |  | 10.78B |
 | 00:50 | USD | Total Vehicle Sales (Sep) | 16.40M | 16.20M | 16.10M |
 | 00:50 | JPY | Foreign Bonds Buying | -162.0B |  | 816.7B |
@@ -20,14 +20,14 @@
 | 09:40 | EUR | Spanish 7-Year Obligacion Auction | 2.922% |  | 2.734% |
 | 10:05 | EUR | French 10-Year OAT Auction | 3.51% |  | 3.17% |
 | 10:30 | GBP | 10-Year Treasury Gilt Auction | 4.769% |  | 4.522% |
-| 12:30 | USD | Challenger Job Cuts (Sep) | 54.064K |  | 85.979K |
 | 12:30 | USD | Challenger Job Cuts (YoY) | -25.8% |  | 13.3% |
+| 12:30 | USD | Challenger Job Cuts (Sep) | 54.064K |  | 85.979K |
 | 12:30 | ZAR | Total Vehicle Sales (Sep) | 54.70K |  | 51.88K |
 | 12:30 | ZAR | Total Vehicle Sales (YoY) (Sep) | 24.30% |  | 18.70% |
 | 14:00 | SGD | S&P Global Manufacturing PMI (Sep) | 50.1 |  | 50.0 |
 | 15:30 | USD | Fed Logan Speaks |  |  |  |
 | 15:30 | USD | Natural Gas Storage | 53B | 66B | 75B |
-| 24 min | USD | 4-Week Bill Auction |  |  | 4.080% |
-| 24 min | USD | 8-Week Bill Auction |  |  | 4.000% |
+| 16:30 | USD | 4-Week Bill Auction | 4.060% |  | 4.080% |
+| 16:30 | USD | 8-Week Bill Auction | 3.960% |  | 4.000% |
 | 19:30 | USD | Fed Goolsbee Speaks |  |  |  |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.000T |
