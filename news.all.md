@@ -27,8 +27,8 @@
 | 10:00 | EUR | Moderate | Unemployment Rate (Aug) | 6.3% | 6.2% | 6.2% |
 | 10:05 | EUR | Low | French 10-Year OAT Auction | 3.51% |  | 3.17% |
 | 10:30 | GBP | Low | 10-Year Treasury Gilt Auction | 4.769% |  | 4.522% |
-| 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 13.3% |
-| 12:30 | USD | Low | Challenger Job Cuts (Sep) |  |  | 85.979K |
+| 24 min | USD | Low | Challenger Job Cuts (Sep) |  |  | 85.979K |
+| 24 min | USD | Low | Challenger Job Cuts (YoY) |  |  | 13.3% |
 | 14:00 | SGD | Low | S&P Global Manufacturing PMI (Sep) |  |  | 50.0 |
 | 15:00 | USD | Low | Durables Excluding Defense (MoM) (Aug) |  |  | 1.9% |
 | 15:00 | USD | Low | Durables Excluding Transport (MoM) (Aug) |  |  | 0.4% |
