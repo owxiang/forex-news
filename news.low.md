@@ -22,12 +22,24 @@
 | 10:30 | GBP | 10-Year Treasury Gilt Auction | 4.769% |  | 4.522% |
 | 12:30 | USD | Challenger Job Cuts (YoY) | -25.8% |  | 13.3% |
 | 12:30 | USD | Challenger Job Cuts (Sep) | 54.064K |  | 85.979K |
-| 12:30 | ZAR | Total Vehicle Sales (Sep) | 54.70K |  | 51.88K |
 | 12:30 | ZAR | Total Vehicle Sales (YoY) (Sep) | 24.30% |  | 18.70% |
+| 12:30 | ZAR | Total Vehicle Sales (Sep) | 54.70K |  | 51.88K |
 | 14:00 | SGD | S&P Global Manufacturing PMI (Sep) | 50.1 |  | 50.0 |
 | 15:30 | USD | Fed Logan Speaks |  |  |  |
 | 15:30 | USD | Natural Gas Storage | 53B | 66B | 75B |
 | 16:30 | USD | 4-Week Bill Auction | 4.060% |  | 4.080% |
 | 16:30 | USD | 8-Week Bill Auction | 3.960% |  | 4.000% |
+| 17:15 | USD | OPEC Crude Oil Production Algeria (Barrel) | 0.96M |  | 0.95M |
+| 17:15 | USD | OPEC Crude Oil Production Congo (Barrel) | 0.26M |  | 0.26M |
+| 17:15 | USD | OPEC Crude Oil Production Gabon (Barrel) | 0.23M |  | 0.23M |
+| 17:15 | USD | OPEC Crude Oil Production Guinea (Barrel) | 0.05M |  | 0.05M |
+| 17:15 | USD | OPEC Crude oil Production Iran (Barrel) | 3.38M |  | 3.35M |
+| 17:15 | USD | OPEC Crude oil Production Iraq (Barrel) | 4.01M |  | 3.90M |
+| 17:15 | USD | OPEC Crude Oil Production Kuwait (Barrel) | 2.52M |  | 2.49M |
+| 17:15 | USD | OPEC Crude Oil Production Libya (Barrel) | 1.29M |  | 1.26M |
+| 17:15 | USD | OPEC Crude Oil Production Nigeria (Barrel) | 1.55M |  | 1.65M |
+| 17:15 | USD | OPEC Crude oil Production Saudi Arabia (Barrel) | 9.85M |  | 9.60M |
+| 17:15 | USD | OPEC Crude oil Production UAE (Barrel) | 3.35M |  | 3.25M |
+| 17:15 | USD | OPEC Crude oil Production Venezuela (Barrel) | 0.95M |  | 0.85M |
 | 19:30 | USD | Fed Goolsbee Speaks |  |  |  |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.000T |
