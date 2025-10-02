@@ -8,7 +8,7 @@
 | 07:30 | CHF | CPI (MoM) (Sep) | -0.2% | -0.2% | -0.1% |
 | 08:00 | EUR | Spanish Unemployment Change (Sep) | -4.8K | 15.4K | 21.9K |
 | 09:00 | BRL | IPC-Fipe Inflation Index (MoM) (Sep) | 0.65% |  | 0.04% |
-| 51 min | EUR | Unemployment Rate (Aug) |  | 6.2% | 6.2% |
+| 10:00 | EUR | Unemployment Rate (Aug) | 6.3% | 6.2% | 6.2% |
 | 15:00 | USD | Factory Orders (MoM) (Aug) |  | 1.4% | -1.3% |
 | 18:00 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,608B |
