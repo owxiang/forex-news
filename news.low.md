@@ -6,21 +6,21 @@
 | 00:00 | AUD | Judo Bank Services PMI (Sep) | 52.4 | 52.0 | 55.8 |
 | 00:30 | JPY | Jobs/applications ratio (Aug) | 1.20 | 1.22 | 1.22 |
 | 00:30 | JPY | Unemployment Rate (Aug) | 2.6% | 2.4% | 2.3% |
-| 01:30 | JPY | Manufacturing & Services PMI (MoM) (Sep) | 51.30% | 51.10% | 52.00% |
+| 01:30 | JPY | Manufacturing & Services PMI (Sep) | 51.30 | 51.10 | 52.00 |
 | 02:05 | JPY | BOJ Gov Ueda Speaks |  |  |  |
 | 06:00 | SGD | Retail Sales (YoY) (Aug) | 5.2% |  | 4.6% |
 | 06:00 | SGD | Retail Sales (MoM) (Aug) | 0.5% |  | 3.9% |
 | 07:00 | NOK | Unemployment Change (Sep) | 64.40K |  | 64.20K |
 | 07:00 | NOK | Unemployment Rate n.s.a. (Sep) | 2.10% | 2.10% | 2.20% |
 | 07:45 | EUR | French Industrial Production (MoM) (Aug) | -0.7% | 0.3% | -0.1% |
-| 8 min | ZAR | S&P Global Manufacturing PMI (Sep) |  |  | 50.1 |
-| 38 min | EUR | HCOB Italy Composite PMI (Sep) |  |  | 51.7 |
-| 43 min | EUR | HCOB France Composite PMI (Sep) |  | 48.4 | 49.8 |
-| 48 min | EUR | HCOB Germany Composite PMI (Sep) |  | 52.4 | 50.5 |
-| 53 min | EUR | Italian Retail Sales (YoY) (Aug) |  |  | 1.8% |
-| 53 min | EUR | Italian Retail Sales (MoM) (Aug) |  | 0.0% | 0.0% |
-| 10:00 | EUR | Italian Public Deficit (Q2) |  |  | 8.5% |
-| 10:00 | NOK | House Price Index (YoY) (Sep) |  |  | 5.50% |
+| 08:15 | ZAR | S&P Global Manufacturing PMI (Sep) | 50.2 |  | 50.1 |
+| 08:45 | EUR | HCOB Italy Composite PMI (Sep) | 51.7 |  | 51.7 |
+| 08:50 | EUR | HCOB France Composite PMI (Sep) | 48.1 | 48.4 | 49.8 |
+| 08:55 | EUR | HCOB Germany Composite PMI (Sep) | 52.0 | 52.4 | 50.5 |
+| 09:00 | EUR | Italian Retail Sales (YoY) (Aug) | 0.5% |  | 1.8% |
+| 09:00 | EUR | Italian Retail Sales (MoM) (Aug) | -0.1% | 0.0% | 0.0% |
+| 51 min | EUR | Italian Public Deficit (Q2) |  |  | 8.5% |
+| 51 min | NOK | House Price Index (YoY) (Sep) |  |  | 5.50% |
 | 11:00 | EUR | German Car Registration (YoY) (Sep) |  |  | 5.0% |
 | 11:00 | EUR | PPI (YoY) (Aug) |  | -0.4% | 0.2% |
 | 11:00 | EUR | PPI (MoM) (Aug) |  | -0.1% | 0.4% |
@@ -34,7 +34,7 @@
 | 13:30 | USD | Fed Goolsbee Speaks |  |  |  |
 | 14:00 | BRL | S&P Global Composite PMI (Sep) |  |  | 48.8 |
 | 14:00 | BRL | S&P Global Services PMI (Sep) |  |  | 49.3 |
-| 14:30 | CAD | Services PMI (MoM) (Sep) |  |  | 48.60% |
+| 14:30 | CAD | Services PMI (Sep) |  |  | 48.60% |
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Sep) |  | 51.8 | 55.0 |
 | 15:00 | USD | ISM Non-Manufacturing New Orders (Sep) |  |  | 56.0 |
 | 16:00 | USD | Durables Excluding Defense (MoM) (Aug) |  |  | 1.9% |

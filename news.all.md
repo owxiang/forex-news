@@ -6,7 +6,7 @@
 | 00:00 | AUD | Low | Judo Bank Services PMI (Sep) | 52.4 | 52.0 | 55.8 |
 | 00:30 | JPY | Low | Jobs/applications ratio (Aug) | 1.20 | 1.22 | 1.22 |
 | 00:30 | JPY | Low | Unemployment Rate (Aug) | 2.6% | 2.4% | 2.3% |
-| 01:30 | JPY | Low | Manufacturing & Services PMI (MoM) (Sep) | 51.30% | 51.10% | 52.00% |
+| 01:30 | JPY | Low | Manufacturing & Services PMI (Sep) | 51.30 | 51.10 | 52.00 |
 | 01:30 | JPY | Moderate | au Jibun Bank Services PMI (Sep) | 53.3 | 53.0 | 53.1 |
 | 02:05 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
 | 06:00 | SGD | Low | Retail Sales (YoY) (Aug) | 5.2% |  | 4.6% |
@@ -14,22 +14,22 @@
 | 07:00 | NOK | Low | Unemployment Change (Sep) | 64.40K |  | 64.20K |
 | 07:00 | NOK | Low | Unemployment Rate n.s.a. (Sep) | 2.10% | 2.10% | 2.20% |
 | 07:45 | EUR | Low | French Industrial Production (MoM) (Aug) | -0.7% | 0.3% | -0.1% |
-| 8 min | EUR | Moderate | HCOB Spain Services PMI (Sep) |  | 53.3 | 53.2 |
-| 8 min | ZAR | Low | S&P Global Manufacturing PMI (Sep) |  |  | 50.1 |
-| 38 min | EUR | Low | HCOB Italy Composite PMI (Sep) |  |  | 51.7 |
-| 38 min | EUR | Moderate | HCOB Italy Services PMI (Sep) |  | 51.5 | 51.5 |
-| 43 min | EUR | Low | HCOB France Composite PMI (Sep) |  | 48.4 | 49.8 |
-| 43 min | EUR | Moderate | HCOB France Services PMI (Sep) |  | 48.9 | 49.8 |
-| 48 min | EUR | Low | HCOB Germany Composite PMI (Sep) |  | 52.4 | 50.5 |
-| 48 min | EUR | Moderate | HCOB Germany Services PMI (Sep) |  | 52.5 | 49.3 |
-| 53 min | EUR | Low | Italian Retail Sales (YoY) (Aug) |  |  | 1.8% |
-| 53 min | EUR | Low | Italian Retail Sales (MoM) (Aug) |  | 0.0% | 0.0% |
-| 53 min | EUR | Moderate | HCOB Eurozone Composite PMI (Sep) |  | 51.2 | 51.0 |
-| 53 min | EUR | Moderate | HCOB Eurozone Services PMI (Sep) |  | 51.4 | 50.5 |
-| 09:30 | GBP | Moderate | S&P Global Composite PMI (Sep) |  | 51.0 | 53.5 |
-| 09:30 | GBP | Moderate | S&P Global Services PMI (Sep) |  | 51.9 | 54.2 |
-| 10:00 | EUR | Low | Italian Public Deficit (Q2) |  |  | 8.5% |
-| 10:00 | NOK | Low | House Price Index (YoY) (Sep) |  |  | 5.50% |
+| 08:15 | EUR | Moderate | HCOB Spain Services PMI (Sep) | 54.3 | 53.3 | 53.2 |
+| 08:15 | ZAR | Low | S&P Global Manufacturing PMI (Sep) | 50.2 |  | 50.1 |
+| 08:45 | EUR | Low | HCOB Italy Composite PMI (Sep) | 51.7 |  | 51.7 |
+| 08:45 | EUR | Moderate | HCOB Italy Services PMI (Sep) | 52.5 | 51.5 | 51.5 |
+| 08:50 | EUR | Low | HCOB France Composite PMI (Sep) | 48.1 | 48.4 | 49.8 |
+| 08:50 | EUR | Moderate | HCOB France Services PMI (Sep) | 48.5 | 48.9 | 49.8 |
+| 08:55 | EUR | Low | HCOB Germany Composite PMI (Sep) | 52.0 | 52.4 | 50.5 |
+| 08:55 | EUR | Moderate | HCOB Germany Services PMI (Sep) | 51.5 | 52.5 | 49.3 |
+| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Aug) | 0.5% |  | 1.8% |
+| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Aug) | -0.1% | 0.0% | 0.0% |
+| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Sep) | 51.2 | 51.2 | 51.0 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Sep) | 51.3 | 51.4 | 50.5 |
+| 21 min | GBP | Moderate | S&P Global Composite PMI (Sep) |  | 51.0 | 53.5 |
+| 21 min | GBP | Moderate | S&P Global Services PMI (Sep) |  | 51.9 | 54.2 |
+| 51 min | EUR | Low | Italian Public Deficit (Q2) |  |  | 8.5% |
+| 51 min | NOK | Low | House Price Index (YoY) (Sep) |  |  | 5.50% |
 | 10:40 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 11:00 | EUR | Low | German Car Registration (YoY) (Sep) |  |  | 5.0% |
 | 11:00 | EUR | Low | PPI (YoY) (Aug) |  | -0.4% | 0.2% |
@@ -47,7 +47,7 @@
 | 14:00 | BRL | Low | S&P Global Composite PMI (Sep) |  |  | 48.8 |
 | 14:00 | BRL | Low | S&P Global Services PMI (Sep) |  |  | 49.3 |
 | 14:20 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 14:30 | CAD | Low | Services PMI (MoM) (Sep) |  |  | 48.60% |
+| 14:30 | CAD | Low | Services PMI (Sep) |  |  | 48.60% |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Sep) |  | 53.6 | 54.6 |
 | 14:45 | USD | High | S&P Global Services PMI (Sep) |  | 53.9 | 54.5 |
 | 14:50 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
