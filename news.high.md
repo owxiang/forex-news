@@ -2,6 +2,6 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 33 min | USD | S&P Global Services PMI (Sep) |  | 53.9 | 54.5 |
-| 48 min | USD | ISM Non-Manufacturing PMI (Sep) |  | 51.8 | 52.0 |
-| 48 min | USD | ISM Non-Manufacturing Prices (Sep) |  |  | 69.2 |
+| 14:45 | USD | S&P Global Services PMI (Sep) | 54.2 | 53.9 | 54.5 |
+| 15:00 | USD | ISM Non-Manufacturing PMI (Sep) | 50.0 | 51.8 | 52.0 |
+| 15:00 | USD | ISM Non-Manufacturing Prices (Sep) | 69.4 |  | 69.2 |
