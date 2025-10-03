@@ -39,14 +39,14 @@
 | 15:00 | USD | ISM Non-Manufacturing New Orders (Sep) | 50.4 | 54.0 | 56.0 |
 | 18:30 | USD | Fed Logan Speaks |  |  |  |
 | 18:40 | USD | Fed Governor Jefferson Speaks |  |  |  |
-| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.7K |
-| 20:30 | USD | CFTC Copper speculative net positions |  |  | 30.2K |
-| 20:30 | USD | CFTC Corn speculative net positions |  |  | -51.2K |
-| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -128.1K |
-| 20:30 | USD | CFTC Silver speculative net positions |  |  | 52.3K |
-| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 5.7K |
-| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -81.7K |
-| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -114.8K |
-| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 83.4K |
-| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -23.0K |
-| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -21.1K |
+| 25 min | USD | CFTC Aluminium speculative net positions |  |  | 0.7K |
+| 25 min | USD | CFTC Copper speculative net positions |  |  | 30.2K |
+| 25 min | USD | CFTC Corn speculative net positions |  |  | -51.2K |
+| 25 min | USD | CFTC Natural Gas speculative net positions |  |  | -128.1K |
+| 25 min | USD | CFTC Silver speculative net positions |  |  | 52.3K |
+| 25 min | USD | CFTC Soybeans speculative net positions |  |  | 5.7K |
+| 25 min | USD | CFTC Wheat speculative net positions |  |  | -81.7K |
+| 25 min | CAD | CFTC CAD speculative net positions |  |  | -114.8K |
+| 25 min | MXN | CFTC MXN speculative net positions |  |  | 83.4K |
+| 25 min | CHF | CFTC CHF speculative net positions |  |  | -23.0K |
+| 25 min | NZD | CFTC NZD speculative net positions |  |  | -21.1K |
