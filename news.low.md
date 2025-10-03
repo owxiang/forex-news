@@ -17,12 +17,12 @@
 | 08:45 | EUR | HCOB Italy Composite PMI (Sep) | 51.7 |  | 51.7 |
 | 08:50 | EUR | HCOB France Composite PMI (Sep) | 48.1 | 48.4 | 49.8 |
 | 08:55 | EUR | HCOB Germany Composite PMI (Sep) | 52.0 | 52.4 | 50.5 |
-| 09:00 | EUR | Italian Retail Sales (MoM) (Aug) | -0.1% | 0.0% | 0.0% |
 | 09:00 | EUR | Italian Retail Sales (YoY) (Aug) | 0.5% |  | 1.8% |
+| 09:00 | EUR | Italian Retail Sales (MoM) (Aug) | -0.1% | 0.0% | 0.0% |
 | 10:00 | EUR | Italian Public Deficit (Q2) | 2.0% |  | 8.1% |
 | 10:00 | NOK | House Price Index (YoY) (Sep) | 5.50% |  | 5.50% |
-| 10:00 | EUR | PPI (YoY) (Aug) | -0.6% | -0.4% | 0.2% |
 | 10:00 | EUR | PPI (MoM) (Aug) | -0.3% | -0.1% | 0.3% |
+| 10:00 | EUR | PPI (YoY) (Aug) | -0.6% | -0.4% | 0.2% |
 | 11:25 | EUR | French Car Registration (YoY) (Sep) | 1.0% |  | 2.2% |
 | 12:30 | INR | Bank Loan Growth | 10.4% |  | 10.3% |
 | 12:30 | INR | Deposit Growth | 9.5% |  | 9.8% |

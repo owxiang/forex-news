@@ -22,16 +22,16 @@
 | 08:50 | EUR | Moderate | HCOB France Services PMI (Sep) | 48.5 | 48.9 | 49.8 |
 | 08:55 | EUR | Low | HCOB Germany Composite PMI (Sep) | 52.0 | 52.4 | 50.5 |
 | 08:55 | EUR | Moderate | HCOB Germany Services PMI (Sep) | 51.5 | 52.5 | 49.3 |
-| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Aug) | -0.1% | 0.0% | 0.0% |
 | 09:00 | EUR | Low | Italian Retail Sales (YoY) (Aug) | 0.5% |  | 1.8% |
+| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Aug) | -0.1% | 0.0% | 0.0% |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Sep) | 51.2 | 51.2 | 51.0 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Sep) | 51.3 | 51.4 | 50.5 |
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (Sep) | 50.1 | 51.0 | 53.5 |
 | 09:30 | GBP | Moderate | S&P Global Services PMI (Sep) | 50.8 | 51.9 | 54.2 |
 | 10:00 | EUR | Low | Italian Public Deficit (Q2) | 2.0% |  | 8.1% |
 | 10:00 | NOK | Low | House Price Index (YoY) (Sep) | 5.50% |  | 5.50% |
-| 10:00 | EUR | Low | PPI (YoY) (Aug) | -0.6% | -0.4% | 0.2% |
 | 10:00 | EUR | Low | PPI (MoM) (Aug) | -0.3% | -0.1% | 0.3% |
+| 10:00 | EUR | Low | PPI (YoY) (Aug) | -0.6% | -0.4% | 0.2% |
 | 10:40 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 11:05 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 11:25 | EUR | Low | French Car Registration (YoY) (Sep) | 1.0% |  | 2.2% |
@@ -40,8 +40,8 @@
 | 12:30 | INR | Low | FX Reserves, USD | 700.24B |  | 702.57B |
 | 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jul) | -6.60% | -7.40% | -6.40% |
 | 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Jul) | 1.60% | 1.00% | -1.40% |
-| 13:00 | BRL | Moderate | Industrial Production (YoY) (Aug) | -0.7% | -0.8% | 0.2% |
 | 13:00 | BRL | Low | Industrial Production (MoM) (Aug) | 0.8% | 0.3% | -0.1% |
+| 13:00 | BRL | Moderate | Industrial Production (YoY) (Aug) | -0.7% | -0.8% | 0.2% |
 | 13:15 | CAD | Low | Reserve Assets Total (Sep) | 126.6B |  | 127.9B |
 | 13:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 14:00 | BRL | Low | S&P Global Composite PMI (Sep) | 46.0 |  | 48.8 |
