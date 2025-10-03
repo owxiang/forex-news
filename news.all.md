@@ -9,8 +9,8 @@
 | 01:30 | JPY | Low | Manufacturing & Services PMI (MoM) (Sep) | 51.30% | 51.10% | 52.00% |
 | 01:30 | JPY | Moderate | au Jibun Bank Services PMI (Sep) | 53.3 | 53.0 | 53.1 |
 | 02:05 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
-| 06:00 | SGD | Low | Retail Sales (MoM) (Aug) |  |  | 4.1% |
-| 06:00 | SGD | Low | Retail Sales (YoY) (Aug) |  |  | 4.8% |
+| 52 min | SGD | Low | Retail Sales (MoM) (Aug) |  |  | 4.1% |
+| 52 min | SGD | Low | Retail Sales (YoY) (Aug) |  |  | 4.8% |
 | 07:00 | NOK | Low | Unemployment Change (Sep) |  |  | 64.20K |
 | 07:00 | NOK | Low | Unemployment Rate n.s.a. (Sep) |  | 2.10% | 2.20% |
 | 07:45 | EUR | Low | French Industrial Production (MoM) |  | 0.3% | -1.1% |
