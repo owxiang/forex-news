@@ -9,10 +9,10 @@
 | 01:30 | JPY | Low | Manufacturing & Services PMI (MoM) (Sep) | 51.30% | 51.10% | 52.00% |
 | 01:30 | JPY | Moderate | au Jibun Bank Services PMI (Sep) | 53.3 | 53.0 | 53.1 |
 | 02:05 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
-| 52 min | SGD | Low | Retail Sales (MoM) (Aug) |  |  | 4.1% |
-| 52 min | SGD | Low | Retail Sales (YoY) (Aug) |  |  | 4.8% |
-| 07:00 | NOK | Low | Unemployment Change (Sep) |  |  | 64.20K |
-| 07:00 | NOK | Low | Unemployment Rate n.s.a. (Sep) |  | 2.10% | 2.20% |
+| 06:00 | SGD | Low | Retail Sales (YoY) (Aug) | 5.2% |  | 4.6% |
+| 06:00 | SGD | Low | Retail Sales (MoM) (Aug) | 0.5% |  | 3.9% |
+| 53 min | NOK | Low | Unemployment Change (Sep) |  |  | 64.20K |
+| 53 min | NOK | Low | Unemployment Rate n.s.a. (Sep) |  | 2.10% | 2.20% |
 | 07:45 | EUR | Low | French Industrial Production (MoM) |  | 0.3% | -1.1% |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Sep) |  | 53.3 | 53.2 |
 | 08:15 | ZAR | Low | S&P Global Manufacturing PMI (Sep) |  |  | 50.1 |
@@ -33,17 +33,18 @@
 | 10:00 | NOK | Low | House Price Index (YoY) (Sep) |  |  | 5.50% |
 | 10:40 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 11:00 | EUR | Low | German Car Registration (YoY) (Sep) |  |  | 5.0% |
-| 11:00 | EUR | Low | PPI (YoY) (Aug) |  | -0.4% | 0.2% |
 | 11:00 | EUR | Low | PPI (MoM) (Aug) |  | -0.1% | 0.4% |
+| 11:00 | EUR | Low | PPI (YoY) (Aug) |  | -0.4% | 0.2% |
 | 11:05 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 10.3% |
 | 12:30 | INR | Low | Deposit Growth |  |  | 9.8% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 702.57B |
-| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jul) |  | -7.40% | -6.40% |
 | 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Jul) |  | 1.00% | -1.40% |
-| 13:00 | BRL | Low | Industrial Production (MoM) (Aug) |  | 0.3% | -0.2% |
+| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jul) |  | -7.40% | -6.40% |
 | 13:00 | BRL | Moderate | Industrial Production (YoY) (Aug) |  | -0.8% | 0.2% |
+| 13:00 | BRL | Low | Industrial Production (MoM) (Aug) |  | 0.3% | -0.2% |
 | 13:15 | CAD | Low | Reserve Assets Total (Sep) |  |  | 127.9B |
+| 13:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 14:00 | BRL | Low | S&P Global Composite PMI (Sep) |  |  | 48.8 |
 | 14:00 | BRL | Low | S&P Global Services PMI (Sep) |  |  | 49.3 |
 | 14:20 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
@@ -62,6 +63,7 @@
 | 16:00 | USD | Low | Factory orders ex transportation (MoM) (Aug) |  |  | 0.6% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 424 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 549 |
+| 18:30 | USD | Low | Fed Logan Speaks |  |  |  |
 | 18:40 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -2.0K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 0.7K |
