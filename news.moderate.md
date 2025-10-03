@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 3 min | JPY | au Jibun Bank Services PMI (Sep) |  | 53.0 | 53.1 |
+| 01:30 | JPY | au Jibun Bank Services PMI (Sep) | 53.3 | 53.0 | 53.1 |
 | 08:15 | EUR | HCOB Spain Services PMI (Sep) |  | 53.3 | 53.2 |
 | 08:45 | EUR | HCOB Italy Services PMI (Sep) |  | 51.5 | 51.5 |
 | 08:50 | EUR | HCOB France Services PMI (Sep) |  | 48.9 | 49.8 |
