@@ -1,22 +1,3 @@
-## 03 October 2025 - Moderate Impact Forex News
+## None - Moderate Impact Forex News
 
-| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
-|------|----------|-------|--------|----------|----------|
-| 01:30 | JPY | au Jibun Bank Services PMI (Sep) | 53.3 | 53.0 | 53.1 |
-| 08:15 | EUR | HCOB Spain Services PMI (Sep) | 54.3 | 53.3 | 53.2 |
-| 08:45 | EUR | HCOB Italy Services PMI (Sep) | 52.5 | 51.5 | 51.5 |
-| 08:50 | EUR | HCOB France Services PMI (Sep) | 48.5 | 48.9 | 49.8 |
-| 08:55 | EUR | HCOB Germany Services PMI (Sep) | 51.5 | 52.5 | 49.3 |
-| 09:00 | EUR | HCOB Eurozone Composite PMI (Sep) | 51.2 | 51.2 | 51.0 |
-| 09:00 | EUR | HCOB Eurozone Services PMI (Sep) | 51.3 | 51.4 | 50.5 |
-| 09:30 | GBP | S&P Global Composite PMI (Sep) | 50.1 | 51.0 | 53.5 |
-| 09:30 | GBP | S&P Global Services PMI (Sep) | 50.8 | 51.9 | 54.2 |
-| 10:40 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 11:05 | USD | FOMC Member Williams Speaks |  |  |  |
-| 13:00 | BRL | Industrial Production (YoY) (Aug) | -0.7% | -0.8% | 0.2% |
-| 14:20 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 14:45 | USD | S&P Global Composite PMI (Sep) | 53.9 | 53.6 | 54.6 |
-| 14:50 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 15:00 | USD | ISM Non-Manufacturing Employment (Sep) | 47.2 | 46.6 | 46.5 |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 422 |  | 424 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count | 549 |  | 549 |
+There is no moderate impact news today.
