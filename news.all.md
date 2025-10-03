@@ -34,14 +34,14 @@
 | 10:00 | EUR | Low | PPI (YoY) (Aug) | -0.6% | -0.4% | 0.2% |
 | 10:40 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 11:05 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 12:30 | INR | Low | Bank Loan Growth |  |  | 10.3% |
-| 12:30 | INR | Low | Deposit Growth |  |  | 9.8% |
-| 12:30 | INR | Low | FX Reserves, USD |  |  | 702.57B |
-| 12:30 | EUR | Low | German Car Registration (YoY) (Sep) |  |  | 5.0% |
-| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Jul) |  | 1.00% | -1.40% |
-| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jul) |  | -7.40% | -6.40% |
-| 13:00 | BRL | Low | Industrial Production (MoM) (Aug) |  | 0.3% | -0.2% |
-| 13:00 | BRL | Moderate | Industrial Production (YoY) (Aug) |  | -0.8% | 0.2% |
+| 24 min | INR | Low | Bank Loan Growth |  |  | 10.3% |
+| 24 min | INR | Low | Deposit Growth |  |  | 9.8% |
+| 24 min | INR | Low | FX Reserves, USD |  |  | 702.57B |
+| 24 min | EUR | Low | German Car Registration (YoY) (Sep) |  |  | 5.0% |
+| 54 min | MXN | Low | Gross Fixed Investments (MoM) (Jul) |  | 1.00% | -1.40% |
+| 54 min | MXN | Low | Gross Fixed Investments (YoY) (Jul) |  | -7.40% | -6.40% |
+| 54 min | BRL | Low | Industrial Production (MoM) (Aug) |  | 0.3% | -0.2% |
+| 54 min | BRL | Moderate | Industrial Production (YoY) (Aug) |  | -0.8% | 0.2% |
 | 13:15 | CAD | Low | Reserve Assets Total (Sep) |  |  | 127.9B |
 | 13:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 14:00 | BRL | Low | S&P Global Composite PMI (Sep) |  |  | 48.8 |

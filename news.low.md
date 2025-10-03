@@ -23,13 +23,13 @@
 | 10:00 | NOK | House Price Index (YoY) (Sep) | 5.50% |  | 5.50% |
 | 10:00 | EUR | PPI (MoM) (Aug) | -0.3% | -0.1% | 0.3% |
 | 10:00 | EUR | PPI (YoY) (Aug) | -0.6% | -0.4% | 0.2% |
-| 12:30 | INR | Bank Loan Growth |  |  | 10.3% |
-| 12:30 | INR | Deposit Growth |  |  | 9.8% |
-| 12:30 | INR | FX Reserves, USD |  |  | 702.57B |
-| 12:30 | EUR | German Car Registration (YoY) (Sep) |  |  | 5.0% |
-| 13:00 | MXN | Gross Fixed Investments (MoM) (Jul) |  | 1.00% | -1.40% |
-| 13:00 | MXN | Gross Fixed Investments (YoY) (Jul) |  | -7.40% | -6.40% |
-| 13:00 | BRL | Industrial Production (MoM) (Aug) |  | 0.3% | -0.2% |
+| 24 min | INR | Bank Loan Growth |  |  | 10.3% |
+| 24 min | INR | Deposit Growth |  |  | 9.8% |
+| 24 min | INR | FX Reserves, USD |  |  | 702.57B |
+| 24 min | EUR | German Car Registration (YoY) (Sep) |  |  | 5.0% |
+| 54 min | MXN | Gross Fixed Investments (MoM) (Jul) |  | 1.00% | -1.40% |
+| 54 min | MXN | Gross Fixed Investments (YoY) (Jul) |  | -7.40% | -6.40% |
+| 54 min | BRL | Industrial Production (MoM) (Aug) |  | 0.3% | -0.2% |
 | 13:15 | CAD | Reserve Assets Total (Sep) |  |  | 127.9B |
 | 13:30 | USD | Fed Goolsbee Speaks |  |  |  |
 | 14:00 | BRL | S&P Global Composite PMI (Sep) |  |  | 48.8 |
