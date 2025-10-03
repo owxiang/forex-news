@@ -8,8 +8,8 @@
 | 00:30 | JPY | Unemployment Rate (Aug) | 2.6% | 2.4% | 2.3% |
 | 01:30 | JPY | Manufacturing & Services PMI (Sep) | 51.30 | 51.10 | 52.00 |
 | 02:05 | JPY | BOJ Gov Ueda Speaks |  |  |  |
-| 06:00 | SGD | Retail Sales (YoY) (Aug) | 5.2% |  | 4.6% |
 | 06:00 | SGD | Retail Sales (MoM) (Aug) | 0.5% |  | 3.9% |
+| 06:00 | SGD | Retail Sales (YoY) (Aug) | 5.2% |  | 4.6% |
 | 07:00 | NOK | Unemployment Change (Sep) | 64.40K |  | 64.20K |
 | 07:00 | NOK | Unemployment Rate n.s.a. (Sep) | 2.10% | 2.10% | 2.20% |
 | 07:45 | EUR | French Industrial Production (MoM) (Aug) | -0.7% | 0.3% | -0.1% |
@@ -27,17 +27,17 @@
 | 12:30 | INR | Bank Loan Growth | 10.4% |  | 10.3% |
 | 12:30 | INR | Deposit Growth | 9.5% |  | 9.8% |
 | 12:30 | INR | FX Reserves, USD | 700.24B |  | 702.57B |
-| 13:00 | MXN | Gross Fixed Investments (YoY) (Jul) | -6.60% | -7.40% | -6.40% |
 | 13:00 | MXN | Gross Fixed Investments (MoM) (Jul) | 1.60% | 1.00% | -1.40% |
+| 13:00 | MXN | Gross Fixed Investments (YoY) (Jul) | -6.60% | -7.40% | -6.40% |
 | 13:00 | BRL | Industrial Production (MoM) (Aug) | 0.8% | 0.3% | -0.1% |
-| 4 min | CAD | Reserve Assets Total (Sep) |  |  | 127.9B |
-| 19 min | USD | Fed Goolsbee Speaks |  |  |  |
-| 49 min | BRL | S&P Global Composite PMI (Sep) |  |  | 48.8 |
-| 49 min | BRL | S&P Global Services PMI (Sep) |  |  | 49.3 |
-| 14:30 | CAD | Services PMI (Sep) |  |  | 48.60% |
-| 14:30 | EUR | German Car Registration (YoY) (Sep) |  |  | 5.0% |
-| 15:00 | USD | ISM Non-Manufacturing Business Activity (Sep) |  | 51.8 | 55.0 |
-| 15:00 | USD | ISM Non-Manufacturing New Orders (Sep) |  |  | 56.0 |
+| 13:15 | CAD | Reserve Assets Total (Sep) | 126.6B |  | 127.9B |
+| 13:30 | USD | Fed Goolsbee Speaks |  |  |  |
+| 14:00 | BRL | S&P Global Composite PMI (Sep) | 46.0 |  | 48.8 |
+| 14:00 | BRL | S&P Global Services PMI (Sep) | 46.3 |  | 49.3 |
+| 18 min | CAD | Services PMI (Sep) |  |  | 48.60% |
+| 18 min | EUR | German Car Registration (YoY) (Sep) |  |  | 5.0% |
+| 48 min | USD | ISM Non-Manufacturing Business Activity (Sep) |  | 51.8 | 55.0 |
+| 48 min | USD | ISM Non-Manufacturing New Orders (Sep) |  |  | 56.0 |
 | 16:00 | USD | Durables Excluding Defense (MoM) (Aug) |  |  | 1.9% |
 | 16:00 | USD | Durables Excluding Transport (MoM) (Aug) |  |  | 0.4% |
 | 16:00 | USD | Factory orders ex transportation (MoM) (Aug) |  |  | 0.6% |
