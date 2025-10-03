@@ -18,8 +18,8 @@
 | 14:45 | USD | S&P Global Composite PMI (Sep) | 53.9 | 53.6 | 54.6 |
 | 14:50 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 15:00 | USD | ISM Non-Manufacturing Employment (Sep) | 47.2 | 46.6 | 46.5 |
-| 53 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 424 |
-| 53 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 549 |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 422 |  | 424 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count | 549 |  | 549 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -2.0K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 103.0K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 266.7K |

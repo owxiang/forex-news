@@ -40,8 +40,8 @@
 | 12:30 | INR | Low | FX Reserves, USD | 700.24B |  | 702.57B |
 | 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Jul) | 1.60% | 1.00% | -1.40% |
 | 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jul) | -6.60% | -7.40% | -6.40% |
-| 13:00 | BRL | Low | Industrial Production (MoM) (Aug) | 0.8% | 0.3% | -0.1% |
 | 13:00 | BRL | Moderate | Industrial Production (YoY) (Aug) | -0.7% | -0.8% | 0.2% |
+| 13:00 | BRL | Low | Industrial Production (MoM) (Aug) | 0.8% | 0.3% | -0.1% |
 | 13:15 | CAD | Low | Reserve Assets Total (Sep) | 126.6B |  | 127.9B |
 | 13:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 14:00 | BRL | Low | S&P Global Composite PMI (Sep) | 46.0 |  | 48.8 |
@@ -56,10 +56,10 @@
 | 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Sep) | 50.4 | 54.0 | 56.0 |
 | 15:00 | USD | High | ISM Non-Manufacturing PMI (Sep) | 50.0 | 51.8 | 52.0 |
 | 15:00 | USD | High | ISM Non-Manufacturing Prices (Sep) | 69.4 | 68.0 | 69.2 |
-| 53 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 424 |
-| 53 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 549 |
-| 18:30 | USD | Low | Fed Logan Speaks |  |  |  |
-| 18:40 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 422 |  | 424 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 549 |  | 549 |
+| 24 min | USD | Low | Fed Logan Speaks |  |  |  |
+| 34 min | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -2.0K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 0.7K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 30.2K |

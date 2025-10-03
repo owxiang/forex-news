@@ -37,8 +37,8 @@
 | 14:30 | CAD | Services PMI (Sep) | 46.30 |  | 48.60 |
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Sep) | 49.9 | 51.8 | 55.0 |
 | 15:00 | USD | ISM Non-Manufacturing New Orders (Sep) | 50.4 | 54.0 | 56.0 |
-| 18:30 | USD | Fed Logan Speaks |  |  |  |
-| 18:40 | USD | Fed Governor Jefferson Speaks |  |  |  |
+| 24 min | USD | Fed Logan Speaks |  |  |  |
+| 34 min | USD | Fed Governor Jefferson Speaks |  |  |  |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.7K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 30.2K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -51.2K |
