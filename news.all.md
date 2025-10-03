@@ -13,34 +13,33 @@
 | 06:00 | SGD | Low | Retail Sales (MoM) (Aug) | 0.5% |  | 3.9% |
 | 07:00 | NOK | Low | Unemployment Change (Sep) | 64.40K |  | 64.20K |
 | 07:00 | NOK | Low | Unemployment Rate n.s.a. (Sep) | 2.10% | 2.10% | 2.20% |
-| 35 min | EUR | Low | French Industrial Production (MoM) |  | 0.3% | -1.1% |
-| 08:15 | EUR | Moderate | HCOB Spain Services PMI (Sep) |  | 53.3 | 53.2 |
-| 08:15 | ZAR | Low | S&P Global Manufacturing PMI (Sep) |  |  | 50.1 |
-| 08:45 | EUR | Low | HCOB Italy Composite PMI (Sep) |  |  | 51.7 |
-| 08:45 | EUR | Moderate | HCOB Italy Services PMI (Sep) |  | 51.5 | 51.5 |
-| 08:45 | EUR | Low | French Industrial Production (MoM) (Aug) |  |  | -1.1% |
-| 08:50 | EUR | Low | HCOB France Composite PMI (Sep) |  | 48.4 | 49.8 |
-| 08:50 | EUR | Moderate | HCOB France Services PMI (Sep) |  | 48.9 | 49.8 |
-| 08:55 | EUR | Low | HCOB Germany Composite PMI (Sep) |  | 52.4 | 50.5 |
-| 08:55 | EUR | Moderate | HCOB Germany Services PMI (Sep) |  | 52.5 | 49.3 |
-| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Aug) |  |  | 1.8% |
-| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Aug) |  | 0.0% | 0.0% |
-| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Sep) |  | 51.2 | 51.0 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Sep) |  | 51.4 | 50.5 |
+| 07:45 | EUR | Low | French Industrial Production (MoM) (Aug) | -0.7% | 0.3% | -0.1% |
+| 8 min | EUR | Moderate | HCOB Spain Services PMI (Sep) |  | 53.3 | 53.2 |
+| 8 min | ZAR | Low | S&P Global Manufacturing PMI (Sep) |  |  | 50.1 |
+| 38 min | EUR | Low | HCOB Italy Composite PMI (Sep) |  |  | 51.7 |
+| 38 min | EUR | Moderate | HCOB Italy Services PMI (Sep) |  | 51.5 | 51.5 |
+| 43 min | EUR | Low | HCOB France Composite PMI (Sep) |  | 48.4 | 49.8 |
+| 43 min | EUR | Moderate | HCOB France Services PMI (Sep) |  | 48.9 | 49.8 |
+| 48 min | EUR | Low | HCOB Germany Composite PMI (Sep) |  | 52.4 | 50.5 |
+| 48 min | EUR | Moderate | HCOB Germany Services PMI (Sep) |  | 52.5 | 49.3 |
+| 53 min | EUR | Low | Italian Retail Sales (YoY) (Aug) |  |  | 1.8% |
+| 53 min | EUR | Low | Italian Retail Sales (MoM) (Aug) |  | 0.0% | 0.0% |
+| 53 min | EUR | Moderate | HCOB Eurozone Composite PMI (Sep) |  | 51.2 | 51.0 |
+| 53 min | EUR | Moderate | HCOB Eurozone Services PMI (Sep) |  | 51.4 | 50.5 |
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (Sep) |  | 51.0 | 53.5 |
 | 09:30 | GBP | Moderate | S&P Global Services PMI (Sep) |  | 51.9 | 54.2 |
 | 10:00 | EUR | Low | Italian Public Deficit (Q2) |  |  | 8.5% |
 | 10:00 | NOK | Low | House Price Index (YoY) (Sep) |  |  | 5.50% |
 | 10:40 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 11:00 | EUR | Low | German Car Registration (YoY) (Sep) |  |  | 5.0% |
-| 11:00 | EUR | Low | PPI (MoM) (Aug) |  | -0.1% | 0.4% |
 | 11:00 | EUR | Low | PPI (YoY) (Aug) |  | -0.4% | 0.2% |
+| 11:00 | EUR | Low | PPI (MoM) (Aug) |  | -0.1% | 0.4% |
 | 11:05 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 10.3% |
 | 12:30 | INR | Low | Deposit Growth |  |  | 9.8% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 702.57B |
-| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Jul) |  | 1.00% | -1.40% |
 | 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jul) |  | -7.40% | -6.40% |
+| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Jul) |  | 1.00% | -1.40% |
 | 13:00 | BRL | Low | Industrial Production (MoM) (Aug) |  | 0.3% | -0.2% |
 | 13:00 | BRL | Moderate | Industrial Production (YoY) (Aug) |  | -0.8% | 0.2% |
 | 13:15 | CAD | Low | Reserve Assets Total (Sep) |  |  | 127.9B |

@@ -3,12 +3,12 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:30 | JPY | au Jibun Bank Services PMI (Sep) | 53.3 | 53.0 | 53.1 |
-| 08:15 | EUR | HCOB Spain Services PMI (Sep) |  | 53.3 | 53.2 |
-| 08:45 | EUR | HCOB Italy Services PMI (Sep) |  | 51.5 | 51.5 |
-| 08:50 | EUR | HCOB France Services PMI (Sep) |  | 48.9 | 49.8 |
-| 08:55 | EUR | HCOB Germany Services PMI (Sep) |  | 52.5 | 49.3 |
-| 09:00 | EUR | HCOB Eurozone Composite PMI (Sep) |  | 51.2 | 51.0 |
-| 09:00 | EUR | HCOB Eurozone Services PMI (Sep) |  | 51.4 | 50.5 |
+| 8 min | EUR | HCOB Spain Services PMI (Sep) |  | 53.3 | 53.2 |
+| 38 min | EUR | HCOB Italy Services PMI (Sep) |  | 51.5 | 51.5 |
+| 43 min | EUR | HCOB France Services PMI (Sep) |  | 48.9 | 49.8 |
+| 48 min | EUR | HCOB Germany Services PMI (Sep) |  | 52.5 | 49.3 |
+| 53 min | EUR | HCOB Eurozone Composite PMI (Sep) |  | 51.2 | 51.0 |
+| 53 min | EUR | HCOB Eurozone Services PMI (Sep) |  | 51.4 | 50.5 |
 | 09:30 | GBP | S&P Global Composite PMI (Sep) |  | 51.0 | 53.5 |
 | 09:30 | GBP | S&P Global Services PMI (Sep) |  | 51.9 | 54.2 |
 | 10:40 | EUR | ECB President Lagarde Speaks |  |  |  |

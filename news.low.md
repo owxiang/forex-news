@@ -12,24 +12,23 @@
 | 06:00 | SGD | Retail Sales (MoM) (Aug) | 0.5% |  | 3.9% |
 | 07:00 | NOK | Unemployment Change (Sep) | 64.40K |  | 64.20K |
 | 07:00 | NOK | Unemployment Rate n.s.a. (Sep) | 2.10% | 2.10% | 2.20% |
-| 35 min | EUR | French Industrial Production (MoM) |  | 0.3% | -1.1% |
-| 08:15 | ZAR | S&P Global Manufacturing PMI (Sep) |  |  | 50.1 |
-| 08:45 | EUR | HCOB Italy Composite PMI (Sep) |  |  | 51.7 |
-| 08:45 | EUR | French Industrial Production (MoM) (Aug) |  |  | -1.1% |
-| 08:50 | EUR | HCOB France Composite PMI (Sep) |  | 48.4 | 49.8 |
-| 08:55 | EUR | HCOB Germany Composite PMI (Sep) |  | 52.4 | 50.5 |
-| 09:00 | EUR | Italian Retail Sales (YoY) (Aug) |  |  | 1.8% |
-| 09:00 | EUR | Italian Retail Sales (MoM) (Aug) |  | 0.0% | 0.0% |
+| 07:45 | EUR | French Industrial Production (MoM) (Aug) | -0.7% | 0.3% | -0.1% |
+| 8 min | ZAR | S&P Global Manufacturing PMI (Sep) |  |  | 50.1 |
+| 38 min | EUR | HCOB Italy Composite PMI (Sep) |  |  | 51.7 |
+| 43 min | EUR | HCOB France Composite PMI (Sep) |  | 48.4 | 49.8 |
+| 48 min | EUR | HCOB Germany Composite PMI (Sep) |  | 52.4 | 50.5 |
+| 53 min | EUR | Italian Retail Sales (YoY) (Aug) |  |  | 1.8% |
+| 53 min | EUR | Italian Retail Sales (MoM) (Aug) |  | 0.0% | 0.0% |
 | 10:00 | EUR | Italian Public Deficit (Q2) |  |  | 8.5% |
 | 10:00 | NOK | House Price Index (YoY) (Sep) |  |  | 5.50% |
 | 11:00 | EUR | German Car Registration (YoY) (Sep) |  |  | 5.0% |
-| 11:00 | EUR | PPI (MoM) (Aug) |  | -0.1% | 0.4% |
 | 11:00 | EUR | PPI (YoY) (Aug) |  | -0.4% | 0.2% |
+| 11:00 | EUR | PPI (MoM) (Aug) |  | -0.1% | 0.4% |
 | 12:30 | INR | Bank Loan Growth |  |  | 10.3% |
 | 12:30 | INR | Deposit Growth |  |  | 9.8% |
 | 12:30 | INR | FX Reserves, USD |  |  | 702.57B |
-| 13:00 | MXN | Gross Fixed Investments (MoM) (Jul) |  | 1.00% | -1.40% |
 | 13:00 | MXN | Gross Fixed Investments (YoY) (Jul) |  | -7.40% | -6.40% |
+| 13:00 | MXN | Gross Fixed Investments (MoM) (Jul) |  | 1.00% | -1.40% |
 | 13:00 | BRL | Industrial Production (MoM) (Aug) |  | 0.3% | -0.2% |
 | 13:15 | CAD | Reserve Assets Total (Sep) |  |  | 127.9B |
 | 13:30 | USD | Fed Goolsbee Speaks |  |  |  |
