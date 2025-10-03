@@ -19,16 +19,16 @@
 | 08:55 | EUR | HCOB Germany Composite PMI (Sep) | 52.0 | 52.4 | 50.5 |
 | 09:00 | EUR | Italian Retail Sales (YoY) (Aug) | 0.5% |  | 1.8% |
 | 09:00 | EUR | Italian Retail Sales (MoM) (Aug) | -0.1% | 0.0% | 0.0% |
-| 51 min | EUR | Italian Public Deficit (Q2) |  |  | 8.5% |
-| 51 min | NOK | House Price Index (YoY) (Sep) |  |  | 5.50% |
-| 11:00 | EUR | German Car Registration (YoY) (Sep) |  |  | 5.0% |
-| 11:00 | EUR | PPI (YoY) (Aug) |  | -0.4% | 0.2% |
-| 11:00 | EUR | PPI (MoM) (Aug) |  | -0.1% | 0.4% |
+| 10:00 | EUR | Italian Public Deficit (Q2) | 2.0% |  | 8.1% |
+| 10:00 | NOK | House Price Index (YoY) (Sep) | 5.50% |  | 5.50% |
+| 10:00 | EUR | PPI (YoY) (Aug) | -0.6% | -0.4% | 0.2% |
+| 10:00 | EUR | PPI (MoM) (Aug) | -0.3% | -0.1% | 0.3% |
+| 53 min | EUR | German Car Registration (YoY) (Sep) |  |  | 5.0% |
 | 12:30 | INR | Bank Loan Growth |  |  | 10.3% |
 | 12:30 | INR | Deposit Growth |  |  | 9.8% |
 | 12:30 | INR | FX Reserves, USD |  |  | 702.57B |
-| 13:00 | MXN | Gross Fixed Investments (YoY) (Jul) |  | -7.40% | -6.40% |
 | 13:00 | MXN | Gross Fixed Investments (MoM) (Jul) |  | 1.00% | -1.40% |
+| 13:00 | MXN | Gross Fixed Investments (YoY) (Jul) |  | -7.40% | -6.40% |
 | 13:00 | BRL | Industrial Production (MoM) (Aug) |  | 0.3% | -0.2% |
 | 13:15 | CAD | Reserve Assets Total (Sep) |  |  | 127.9B |
 | 13:30 | USD | Fed Goolsbee Speaks |  |  |  |

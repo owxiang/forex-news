@@ -9,10 +9,10 @@
 | 08:55 | EUR | HCOB Germany Services PMI (Sep) | 51.5 | 52.5 | 49.3 |
 | 09:00 | EUR | HCOB Eurozone Composite PMI (Sep) | 51.2 | 51.2 | 51.0 |
 | 09:00 | EUR | HCOB Eurozone Services PMI (Sep) | 51.3 | 51.4 | 50.5 |
-| 21 min | GBP | S&P Global Composite PMI (Sep) |  | 51.0 | 53.5 |
-| 21 min | GBP | S&P Global Services PMI (Sep) |  | 51.9 | 54.2 |
-| 10:40 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 11:05 | USD | FOMC Member Williams Speaks |  |  |  |
+| 09:30 | GBP | S&P Global Composite PMI (Sep) | 50.1 | 51.0 | 53.5 |
+| 09:30 | GBP | S&P Global Services PMI (Sep) | 50.8 | 51.9 | 54.2 |
+| 33 min | EUR | ECB President Lagarde Speaks |  |  |  |
+| 58 min | USD | FOMC Member Williams Speaks |  |  |  |
 | 13:00 | BRL | Industrial Production (YoY) (Aug) |  | -0.8% | 0.2% |
 | 14:20 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 14:45 | USD | S&P Global Composite PMI (Sep) |  | 53.6 | 54.6 |
