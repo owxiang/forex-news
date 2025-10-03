@@ -13,7 +13,7 @@
 | 09:30 | GBP | S&P Global Services PMI (Sep) | 50.8 | 51.9 | 54.2 |
 | 10:40 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 11:05 | USD | FOMC Member Williams Speaks |  |  |  |
-| 54 min | BRL | Industrial Production (YoY) (Aug) |  | -0.8% | 0.2% |
+| 13:00 | BRL | Industrial Production (YoY) (Aug) | -0.7% | -0.8% | 0.2% |
 | 14:20 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 14:45 | USD | S&P Global Composite PMI (Sep) |  | 53.6 | 54.6 |
 | 14:50 | EUR | ECB's Schnabel Speaks |  |  |  |
