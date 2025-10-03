@@ -20,12 +20,3 @@
 | 15:00 | USD | ISM Non-Manufacturing Employment (Sep) | 47.2 | 46.6 | 46.5 |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 422 |  | 424 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count | 549 |  | 549 |
-| 20:30 | GBP | CFTC GBP speculative net positions |  |  | -2.0K |
-| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 103.0K |
-| 20:30 | USD | CFTC Gold speculative net positions |  |  | 266.7K |
-| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 23.4K |
-| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -172.5K |
-| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -59.6K |
-| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 65.5K |
-| 20:30 | JPY | CFTC JPY speculative net positions |  |  | 79.5K |
-| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 114.3K |

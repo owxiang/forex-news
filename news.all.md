@@ -22,16 +22,16 @@
 | 08:50 | EUR | Moderate | HCOB France Services PMI (Sep) | 48.5 | 48.9 | 49.8 |
 | 08:55 | EUR | Low | HCOB Germany Composite PMI (Sep) | 52.0 | 52.4 | 50.5 |
 | 08:55 | EUR | Moderate | HCOB Germany Services PMI (Sep) | 51.5 | 52.5 | 49.3 |
-| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Aug) | 0.5% |  | 1.8% |
 | 09:00 | EUR | Low | Italian Retail Sales (MoM) (Aug) | -0.1% | 0.0% | 0.0% |
+| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Aug) | 0.5% |  | 1.8% |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Sep) | 51.2 | 51.2 | 51.0 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Sep) | 51.3 | 51.4 | 50.5 |
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (Sep) | 50.1 | 51.0 | 53.5 |
 | 09:30 | GBP | Moderate | S&P Global Services PMI (Sep) | 50.8 | 51.9 | 54.2 |
 | 10:00 | EUR | Low | Italian Public Deficit (Q2) | 2.0% |  | 8.1% |
 | 10:00 | NOK | Low | House Price Index (YoY) (Sep) | 5.50% |  | 5.50% |
-| 10:00 | EUR | Low | PPI (MoM) (Aug) | -0.3% | -0.1% | 0.3% |
 | 10:00 | EUR | Low | PPI (YoY) (Aug) | -0.6% | -0.4% | 0.2% |
+| 10:00 | EUR | Low | PPI (MoM) (Aug) | -0.3% | -0.1% | 0.3% |
 | 10:40 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 11:05 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 11:25 | EUR | Low | French Car Registration (YoY) (Sep) | 1.0% |  | 2.2% |
@@ -40,8 +40,8 @@
 | 12:30 | INR | Low | FX Reserves, USD | 700.24B |  | 702.57B |
 | 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jul) | -6.60% | -7.40% | -6.40% |
 | 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Jul) | 1.60% | 1.00% | -1.40% |
-| 13:00 | BRL | Low | Industrial Production (MoM) (Aug) | 0.8% | 0.3% | -0.1% |
 | 13:00 | BRL | Moderate | Industrial Production (YoY) (Aug) | -0.7% | -0.8% | 0.2% |
+| 13:00 | BRL | Low | Industrial Production (MoM) (Aug) | 0.8% | 0.3% | -0.1% |
 | 13:15 | CAD | Low | Reserve Assets Total (Sep) | 126.6B |  | 127.9B |
 | 13:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 14:00 | BRL | Low | S&P Global Composite PMI (Sep) | 46.0 |  | 48.8 |
@@ -60,23 +60,3 @@
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 549 |  | 549 |
 | 18:30 | USD | Low | Fed Logan Speaks |  |  |  |
 | 18:40 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
-| 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -2.0K |
-| 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 0.7K |
-| 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 30.2K |
-| 20:30 | USD | Low | CFTC Corn speculative net positions |  |  | -51.2K |
-| 20:30 | USD | Moderate | CFTC Crude Oil speculative net positions |  |  | 103.0K |
-| 20:30 | USD | Moderate | CFTC Gold speculative net positions |  |  | 266.7K |
-| 20:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions |  |  | 23.4K |
-| 20:30 | USD | Low | CFTC Natural Gas speculative net positions |  |  | -128.1K |
-| 20:30 | USD | Moderate | CFTC S&P 500 speculative net positions |  |  | -172.5K |
-| 20:30 | USD | Low | CFTC Silver speculative net positions |  |  | 52.3K |
-| 20:30 | USD | Low | CFTC Soybeans speculative net positions |  |  | 5.7K |
-| 20:30 | USD | Low | CFTC Wheat speculative net positions |  |  | -81.7K |
-| 20:30 | CAD | Low | CFTC CAD speculative net positions |  |  | -114.8K |
-| 20:30 | MXN | Low | CFTC MXN speculative net positions |  |  | 83.4K |
-| 20:30 | CHF | Low | CFTC CHF speculative net positions |  |  | -23.0K |
-| 20:30 | AUD | Moderate | CFTC AUD speculative net positions |  |  | -59.6K |
-| 20:30 | BRL | Moderate | CFTC BRL speculative net positions |  |  | 65.5K |
-| 20:30 | JPY | Moderate | CFTC JPY speculative net positions |  |  | 79.5K |
-| 20:30 | NZD | Low | CFTC NZD speculative net positions |  |  | -21.1K |
-| 20:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | 114.3K |
