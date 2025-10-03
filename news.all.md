@@ -9,8 +9,8 @@
 | 01:30 | JPY | Low | Manufacturing & Services PMI (Sep) | 51.30 | 51.10 | 52.00 |
 | 01:30 | JPY | Moderate | au Jibun Bank Services PMI (Sep) | 53.3 | 53.0 | 53.1 |
 | 02:05 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
-| 06:00 | SGD | Low | Retail Sales (YoY) (Aug) | 5.2% |  | 4.6% |
 | 06:00 | SGD | Low | Retail Sales (MoM) (Aug) | 0.5% |  | 3.9% |
+| 06:00 | SGD | Low | Retail Sales (YoY) (Aug) | 5.2% |  | 4.6% |
 | 07:00 | NOK | Low | Unemployment Change (Sep) | 64.40K |  | 64.20K |
 | 07:00 | NOK | Low | Unemployment Rate n.s.a. (Sep) | 2.10% | 2.10% | 2.20% |
 | 07:45 | EUR | Low | French Industrial Production (MoM) (Aug) | -0.7% | 0.3% | -0.1% |
@@ -30,18 +30,18 @@
 | 09:30 | GBP | Moderate | S&P Global Services PMI (Sep) | 50.8 | 51.9 | 54.2 |
 | 10:00 | EUR | Low | Italian Public Deficit (Q2) | 2.0% |  | 8.1% |
 | 10:00 | NOK | Low | House Price Index (YoY) (Sep) | 5.50% |  | 5.50% |
-| 10:00 | EUR | Low | PPI (YoY) (Aug) | -0.6% | -0.4% | 0.2% |
 | 10:00 | EUR | Low | PPI (MoM) (Aug) | -0.3% | -0.1% | 0.3% |
-| 33 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 53 min | EUR | Low | German Car Registration (YoY) (Sep) |  |  | 5.0% |
-| 58 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 10:00 | EUR | Low | PPI (YoY) (Aug) | -0.6% | -0.4% | 0.2% |
+| 10:40 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 11:05 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 10.3% |
 | 12:30 | INR | Low | Deposit Growth |  |  | 9.8% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 702.57B |
+| 12:30 | EUR | Low | German Car Registration (YoY) (Sep) |  |  | 5.0% |
 | 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Jul) |  | 1.00% | -1.40% |
 | 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jul) |  | -7.40% | -6.40% |
-| 13:00 | BRL | Moderate | Industrial Production (YoY) (Aug) |  | -0.8% | 0.2% |
 | 13:00 | BRL | Low | Industrial Production (MoM) (Aug) |  | 0.3% | -0.2% |
+| 13:00 | BRL | Moderate | Industrial Production (YoY) (Aug) |  | -0.8% | 0.2% |
 | 13:15 | CAD | Low | Reserve Assets Total (Sep) |  |  | 127.9B |
 | 13:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 14:00 | BRL | Low | S&P Global Composite PMI (Sep) |  |  | 48.8 |

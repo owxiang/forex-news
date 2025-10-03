@@ -8,8 +8,8 @@
 | 00:30 | JPY | Unemployment Rate (Aug) | 2.6% | 2.4% | 2.3% |
 | 01:30 | JPY | Manufacturing & Services PMI (Sep) | 51.30 | 51.10 | 52.00 |
 | 02:05 | JPY | BOJ Gov Ueda Speaks |  |  |  |
-| 06:00 | SGD | Retail Sales (YoY) (Aug) | 5.2% |  | 4.6% |
 | 06:00 | SGD | Retail Sales (MoM) (Aug) | 0.5% |  | 3.9% |
+| 06:00 | SGD | Retail Sales (YoY) (Aug) | 5.2% |  | 4.6% |
 | 07:00 | NOK | Unemployment Change (Sep) | 64.40K |  | 64.20K |
 | 07:00 | NOK | Unemployment Rate n.s.a. (Sep) | 2.10% | 2.10% | 2.20% |
 | 07:45 | EUR | French Industrial Production (MoM) (Aug) | -0.7% | 0.3% | -0.1% |
@@ -21,12 +21,12 @@
 | 09:00 | EUR | Italian Retail Sales (MoM) (Aug) | -0.1% | 0.0% | 0.0% |
 | 10:00 | EUR | Italian Public Deficit (Q2) | 2.0% |  | 8.1% |
 | 10:00 | NOK | House Price Index (YoY) (Sep) | 5.50% |  | 5.50% |
-| 10:00 | EUR | PPI (YoY) (Aug) | -0.6% | -0.4% | 0.2% |
 | 10:00 | EUR | PPI (MoM) (Aug) | -0.3% | -0.1% | 0.3% |
-| 53 min | EUR | German Car Registration (YoY) (Sep) |  |  | 5.0% |
+| 10:00 | EUR | PPI (YoY) (Aug) | -0.6% | -0.4% | 0.2% |
 | 12:30 | INR | Bank Loan Growth |  |  | 10.3% |
 | 12:30 | INR | Deposit Growth |  |  | 9.8% |
 | 12:30 | INR | FX Reserves, USD |  |  | 702.57B |
+| 12:30 | EUR | German Car Registration (YoY) (Sep) |  |  | 5.0% |
 | 13:00 | MXN | Gross Fixed Investments (MoM) (Jul) |  | 1.00% | -1.40% |
 | 13:00 | MXN | Gross Fixed Investments (YoY) (Jul) |  | -7.40% | -6.40% |
 | 13:00 | BRL | Industrial Production (MoM) (Aug) |  | 0.3% | -0.2% |
