@@ -10,9 +10,9 @@
 | 02:05 | JPY | BOJ Gov Ueda Speaks |  |  |  |
 | 06:00 | SGD | Retail Sales (YoY) (Aug) | 5.2% |  | 4.6% |
 | 06:00 | SGD | Retail Sales (MoM) (Aug) | 0.5% |  | 3.9% |
-| 53 min | NOK | Unemployment Change (Sep) |  |  | 64.20K |
-| 53 min | NOK | Unemployment Rate n.s.a. (Sep) |  | 2.10% | 2.20% |
-| 07:45 | EUR | French Industrial Production (MoM) |  | 0.3% | -1.1% |
+| 07:00 | NOK | Unemployment Change (Sep) | 64.40K |  | 64.20K |
+| 07:00 | NOK | Unemployment Rate n.s.a. (Sep) | 2.10% | 2.10% | 2.20% |
+| 35 min | EUR | French Industrial Production (MoM) |  | 0.3% | -1.1% |
 | 08:15 | ZAR | S&P Global Manufacturing PMI (Sep) |  |  | 50.1 |
 | 08:45 | EUR | HCOB Italy Composite PMI (Sep) |  |  | 51.7 |
 | 08:45 | EUR | French Industrial Production (MoM) (Aug) |  |  | -1.1% |

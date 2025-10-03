@@ -11,9 +11,9 @@
 | 02:05 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
 | 06:00 | SGD | Low | Retail Sales (YoY) (Aug) | 5.2% |  | 4.6% |
 | 06:00 | SGD | Low | Retail Sales (MoM) (Aug) | 0.5% |  | 3.9% |
-| 53 min | NOK | Low | Unemployment Change (Sep) |  |  | 64.20K |
-| 53 min | NOK | Low | Unemployment Rate n.s.a. (Sep) |  | 2.10% | 2.20% |
-| 07:45 | EUR | Low | French Industrial Production (MoM) |  | 0.3% | -1.1% |
+| 07:00 | NOK | Low | Unemployment Change (Sep) | 64.40K |  | 64.20K |
+| 07:00 | NOK | Low | Unemployment Rate n.s.a. (Sep) | 2.10% | 2.10% | 2.20% |
+| 35 min | EUR | Low | French Industrial Production (MoM) |  | 0.3% | -1.1% |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Sep) |  | 53.3 | 53.2 |
 | 08:15 | ZAR | Low | S&P Global Manufacturing PMI (Sep) |  |  | 50.1 |
 | 08:45 | EUR | Low | HCOB Italy Composite PMI (Sep) |  |  | 51.7 |
@@ -41,8 +41,8 @@
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 702.57B |
 | 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Jul) |  | 1.00% | -1.40% |
 | 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jul) |  | -7.40% | -6.40% |
-| 13:00 | BRL | Moderate | Industrial Production (YoY) (Aug) |  | -0.8% | 0.2% |
 | 13:00 | BRL | Low | Industrial Production (MoM) (Aug) |  | 0.3% | -0.2% |
+| 13:00 | BRL | Moderate | Industrial Production (YoY) (Aug) |  | -0.8% | 0.2% |
 | 13:15 | CAD | Low | Reserve Assets Total (Sep) |  |  | 127.9B |
 | 13:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 14:00 | BRL | Low | S&P Global Composite PMI (Sep) |  |  | 48.8 |
