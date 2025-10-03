@@ -4,10 +4,9 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | AUD | Manufacturing & Services PMI (Sep) | 52.40 | 52.10 | 55.50 |
 | 00:00 | AUD | Judo Bank Services PMI (Sep) | 52.4 | 52.0 | 55.8 |
-| 24 min | JPY | Jobs/applications ratio (Aug) |  | 1.22 | 1.22 |
-| 24 min | JPY | Unemployment Rate (Aug) |  | 2.4% | 2.3% |
-| 01:30 | JPY | Manufacturing & Services PMI (MoM) (Sep) |  | 51.10% | 52.00% |
-| 02:05 | JPY | BOJ Gov Ueda Speaks |  |  |  |
+| 00:30 | JPY | Jobs/applications ratio (Aug) | 1.20 | 1.22 | 1.22 |
+| 00:30 | JPY | Unemployment Rate (Aug) | 2.6% | 2.4% | 2.3% |
+| 38 min | JPY | BOJ Gov Ueda Speaks |  |  |  |
 | 06:00 | SGD | Retail Sales (MoM) (Aug) |  |  | 4.1% |
 | 06:00 | SGD | Retail Sales (YoY) (Aug) |  |  | 4.8% |
 | 07:00 | NOK | Unemployment Change (Sep) |  |  | 64.20K |
@@ -18,13 +17,13 @@
 | 08:45 | EUR | French Industrial Production (MoM) (Aug) |  |  | -1.1% |
 | 08:50 | EUR | HCOB France Composite PMI (Sep) |  | 48.4 | 49.8 |
 | 08:55 | EUR | HCOB Germany Composite PMI (Sep) |  | 52.4 | 50.5 |
-| 09:00 | EUR | Italian Retail Sales (MoM) (Aug) |  | 0.0% | 0.0% |
 | 09:00 | EUR | Italian Retail Sales (YoY) (Aug) |  |  | 1.8% |
+| 09:00 | EUR | Italian Retail Sales (MoM) (Aug) |  | 0.0% | 0.0% |
 | 10:00 | EUR | Italian Public Deficit (Q2) |  |  | 8.5% |
 | 10:00 | NOK | House Price Index (YoY) (Sep) |  |  | 5.50% |
 | 11:00 | EUR | German Car Registration (YoY) (Sep) |  |  | 5.0% |
-| 11:00 | EUR | PPI (MoM) (Aug) |  | -0.1% | 0.4% |
 | 11:00 | EUR | PPI (YoY) (Aug) |  | -0.4% | 0.2% |
+| 11:00 | EUR | PPI (MoM) (Aug) |  | -0.1% | 0.4% |
 | 12:30 | INR | Bank Loan Growth |  |  | 10.3% |
 | 12:30 | INR | Deposit Growth |  |  | 9.8% |
 | 12:30 | INR | FX Reserves, USD |  |  | 702.57B |

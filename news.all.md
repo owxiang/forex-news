@@ -4,11 +4,10 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | AUD | Low | Manufacturing & Services PMI (Sep) | 52.40 | 52.10 | 55.50 |
 | 00:00 | AUD | Low | Judo Bank Services PMI (Sep) | 52.4 | 52.0 | 55.8 |
-| 24 min | JPY | Low | Jobs/applications ratio (Aug) |  | 1.22 | 1.22 |
-| 24 min | JPY | Low | Unemployment Rate (Aug) |  | 2.4% | 2.3% |
-| 01:30 | JPY | Low | Manufacturing & Services PMI (MoM) (Sep) |  | 51.10% | 52.00% |
-| 01:30 | JPY | Moderate | au Jibun Bank Services PMI (Sep) |  | 53.0 | 53.1 |
-| 02:05 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
+| 00:30 | JPY | Low | Jobs/applications ratio (Aug) | 1.20 | 1.22 | 1.22 |
+| 00:30 | JPY | Low | Unemployment Rate (Aug) | 2.6% | 2.4% | 2.3% |
+| 3 min | JPY | Moderate | au Jibun Bank Services PMI (Sep) |  | 53.0 | 53.1 |
+| 38 min | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
 | 06:00 | SGD | Low | Retail Sales (MoM) (Aug) |  |  | 4.1% |
 | 06:00 | SGD | Low | Retail Sales (YoY) (Aug) |  |  | 4.8% |
 | 07:00 | NOK | Low | Unemployment Change (Sep) |  |  | 64.20K |
@@ -23,8 +22,8 @@
 | 08:50 | EUR | Moderate | HCOB France Services PMI (Sep) |  | 48.9 | 49.8 |
 | 08:55 | EUR | Low | HCOB Germany Composite PMI (Sep) |  | 52.4 | 50.5 |
 | 08:55 | EUR | Moderate | HCOB Germany Services PMI (Sep) |  | 52.5 | 49.3 |
-| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Aug) |  | 0.0% | 0.0% |
 | 09:00 | EUR | Low | Italian Retail Sales (YoY) (Aug) |  |  | 1.8% |
+| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Aug) |  | 0.0% | 0.0% |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Sep) |  | 51.2 | 51.0 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Sep) |  | 51.4 | 50.5 |
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (Sep) |  | 51.0 | 53.5 |
@@ -33,16 +32,16 @@
 | 10:00 | NOK | Low | House Price Index (YoY) (Sep) |  |  | 5.50% |
 | 10:40 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 11:00 | EUR | Low | German Car Registration (YoY) (Sep) |  |  | 5.0% |
-| 11:00 | EUR | Low | PPI (MoM) (Aug) |  | -0.1% | 0.4% |
 | 11:00 | EUR | Low | PPI (YoY) (Aug) |  | -0.4% | 0.2% |
+| 11:00 | EUR | Low | PPI (MoM) (Aug) |  | -0.1% | 0.4% |
 | 11:05 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 10.3% |
 | 12:30 | INR | Low | Deposit Growth |  |  | 9.8% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 702.57B |
 | 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jul) |  | -7.40% | -6.40% |
 | 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Jul) |  | 1.00% | -1.40% |
-| 13:00 | BRL | Moderate | Industrial Production (YoY) (Aug) |  | -0.8% | 0.2% |
 | 13:00 | BRL | Low | Industrial Production (MoM) (Aug) |  | 0.3% | -0.2% |
+| 13:00 | BRL | Moderate | Industrial Production (YoY) (Aug) |  | -0.8% | 0.2% |
 | 13:15 | CAD | Low | Reserve Assets Total (Sep) |  |  | 127.9B |
 | 14:00 | BRL | Low | S&P Global Composite PMI (Sep) |  |  | 48.8 |
 | 14:00 | BRL | Low | S&P Global Services PMI (Sep) |  |  | 49.3 |
