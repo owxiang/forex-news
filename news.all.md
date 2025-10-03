@@ -9,8 +9,8 @@
 | 01:30 | JPY | Low | Manufacturing & Services PMI (Sep) | 51.30 | 51.10 | 52.00 |
 | 01:30 | JPY | Moderate | au Jibun Bank Services PMI (Sep) | 53.3 | 53.0 | 53.1 |
 | 02:05 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
-| 06:00 | SGD | Low | Retail Sales (YoY) (Aug) | 5.2% |  | 4.6% |
 | 06:00 | SGD | Low | Retail Sales (MoM) (Aug) | 0.5% |  | 3.9% |
+| 06:00 | SGD | Low | Retail Sales (YoY) (Aug) | 5.2% |  | 4.6% |
 | 07:00 | NOK | Low | Unemployment Change (Sep) | 64.40K |  | 64.20K |
 | 07:00 | NOK | Low | Unemployment Rate n.s.a. (Sep) | 2.10% | 2.10% | 2.20% |
 | 07:45 | EUR | Low | French Industrial Production (MoM) (Aug) | -0.7% | 0.3% | -0.1% |
@@ -30,8 +30,8 @@
 | 09:30 | GBP | Moderate | S&P Global Services PMI (Sep) | 50.8 | 51.9 | 54.2 |
 | 10:00 | EUR | Low | Italian Public Deficit (Q2) | 2.0% |  | 8.1% |
 | 10:00 | NOK | Low | House Price Index (YoY) (Sep) | 5.50% |  | 5.50% |
-| 10:00 | EUR | Low | PPI (YoY) (Aug) | -0.6% | -0.4% | 0.2% |
 | 10:00 | EUR | Low | PPI (MoM) (Aug) | -0.3% | -0.1% | 0.3% |
+| 10:00 | EUR | Low | PPI (YoY) (Aug) | -0.6% | -0.4% | 0.2% |
 | 10:40 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 11:05 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 11:25 | EUR | Low | French Car Registration (YoY) (Sep) | 1.0% |  | 2.2% |
@@ -56,11 +56,6 @@
 | 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Sep) | 50.4 |  | 56.0 |
 | 15:00 | USD | High | ISM Non-Manufacturing PMI (Sep) | 50.0 | 51.8 | 52.0 |
 | 15:00 | USD | High | ISM Non-Manufacturing Prices (Sep) | 69.4 |  | 69.2 |
-| 24 min | EUR | Low | German Car Registration (YoY) (Sep) |  |  | 5.0% |
-| 54 min | USD | Low | Durables Excluding Defense (MoM) (Aug) |  |  | 1.9% |
-| 54 min | USD | Low | Durables Excluding Transport (MoM) (Aug) |  |  | 0.4% |
-| 54 min | USD | Moderate | Factory Orders (MoM) (Aug) |  | 1.4% | -1.3% |
-| 54 min | USD | Low | Factory orders ex transportation (MoM) (Aug) |  |  | 0.6% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 424 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 549 |
 | 18:30 | USD | Low | Fed Logan Speaks |  |  |  |
