@@ -28,11 +28,11 @@
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.051% |  | 2.058% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 1.999% |  | 1.979% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.034% |  | 2.042% |
-| 46 min | USD | Low | CB Employment Trends Index (Sep) |  |  | 106.41 |
+| 15:00 | USD | Low | CB Employment Trends Index (Sep) |  |  | 106.41 |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.860% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.715% |
 | 18:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 18:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 19:00 | BRL | Low | Trade Balance (Sep) |  | 2.65B | 6.12B |
+| 19:00 | BRL | Low | Trade Balance (Sep) |  | 2.65B | 6.13B |
 | 22:00 | NZD | Moderate | NZIER Business Confidence (Q3) |  |  | 22% |
 | 22:00 | NZD | Low | NZIER QSBO Capacity Utilization (Q3) |  |  | 89.4% |

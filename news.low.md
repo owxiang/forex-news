@@ -25,8 +25,8 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 2.051% |  | 2.058% |
 | 14:00 | EUR | French 3-Month BTF Auction | 1.999% |  | 1.979% |
 | 14:00 | EUR | French 6-Month BTF Auction | 2.034% |  | 2.042% |
-| 46 min | USD | CB Employment Trends Index (Sep) |  |  | 106.41 |
+| 15:00 | USD | CB Employment Trends Index (Sep) |  |  | 106.41 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 3.860% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 3.715% |
-| 19:00 | BRL | Trade Balance (Sep) |  | 2.65B | 6.12B |
+| 19:00 | BRL | Trade Balance (Sep) |  | 2.65B | 6.13B |
 | 22:00 | NZD | NZIER QSBO Capacity Utilization (Q3) |  |  | 89.4% |
