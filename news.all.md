@@ -33,5 +33,5 @@
 | 18:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 18:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 19:00 | BRL | Low | Trade Balance (Sep) | 2.99B | 2.65B | 5.86B |
-| 22:00 | NZD | Moderate | NZIER Business Confidence (Q3) |  |  | 22% |
-| 22:00 | NZD | Low | NZIER QSBO Capacity Utilization (Q3) |  |  | 89.4% |
+| 53 min | NZD | Moderate | NZIER Business Confidence (Q3) |  |  | 22% |
+| 53 min | NZD | Low | NZIER QSBO Capacity Utilization (Q3) |  |  | 89.4% |
