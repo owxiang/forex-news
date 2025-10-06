@@ -7,9 +7,9 @@
 | 01:30 | HKD | S&P Global Manufacturing PMI (Sep) | 50.4 |  | 50.7 |
 | 06:00 | INR | S&P Global Services PMI (Sep) | 60.9 | 61.6 | 63.2 |
 | 06:00 | INR | Manufacturing & Services PMI (MoM) (Sep) | 61.00% | 61.90% | 62.90% |
-| 08:00 | CHF | Unemployment Rate n.s.a. (Sep) |  |  | 2.8% |
-| 08:00 | CHF | Unemployment Rate s.a. (Sep) |  | 2.9% | 2.9% |
-| 08:00 | EUR | Spanish Industrial Production (YoY) (Aug) |  |  | 2.5% |
+| 50 min | CHF | Unemployment Rate n.s.a. (Sep) |  |  | 2.8% |
+| 50 min | CHF | Unemployment Rate s.a. (Sep) |  | 2.9% | 2.9% |
+| 50 min | EUR | Spanish Industrial Production (YoY) (Aug) |  |  | 2.5% |
 | 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Sep) |  |  | 47.7 |
 | 08:30 | EUR | HCOB Germany Construction PMI (Sep) |  |  | 46.0 |
 | 08:30 | EUR | HCOB France Construction PMI (MoM) (Sep) |  |  | 46.7 |

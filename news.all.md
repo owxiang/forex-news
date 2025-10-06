@@ -7,9 +7,9 @@
 | 01:30 | HKD | Low | S&P Global Manufacturing PMI (Sep) | 50.4 |  | 50.7 |
 | 06:00 | INR | Low | S&P Global Services PMI (Sep) | 60.9 | 61.6 | 63.2 |
 | 06:00 | INR | Low | Manufacturing & Services PMI (MoM) (Sep) | 61.00% | 61.90% | 62.90% |
-| 08:00 | CHF | Low | Unemployment Rate n.s.a. (Sep) |  |  | 2.8% |
-| 08:00 | CHF | Low | Unemployment Rate s.a. (Sep) |  | 2.9% | 2.9% |
-| 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Aug) |  |  | 2.5% |
+| 50 min | CHF | Low | Unemployment Rate n.s.a. (Sep) |  |  | 2.8% |
+| 50 min | CHF | Low | Unemployment Rate s.a. (Sep) |  | 2.9% | 2.9% |
+| 50 min | EUR | Low | Spanish Industrial Production (YoY) (Aug) |  |  | 2.5% |
 | 08:15 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Sep) |  |  | 47.7 |
 | 08:30 | EUR | Low | HCOB Germany Construction PMI (Sep) |  |  | 46.0 |
