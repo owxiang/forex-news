@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 54 min | AUD | Low | MI Inflation Gauge (MoM) (Sep) |  |  | -0.3% |
-| 54 min | NZD | Low | ANZ Commodity Price Index (MoM) |  |  | 0.7% |
+| 01:00 | AUD | Low | MI Inflation Gauge (MoM) (Sep) | 0.4% |  | -0.3% |
+| 01:00 | NZD | Low | ANZ Commodity Price Index (MoM) | -1.1% |  | 0.7% |
 | 01:30 | HKD | Low | S&P Global Manufacturing PMI (Sep) |  |  | 50.7 |
 | 06:00 | INR | Low | S&P Global Services PMI (Sep) |  | 61.6 | 61.6 |
 | 06:00 | INR | Low | Manufacturing & Services PMI (MoM) (Sep) |  | 61.90% | 61.90% |
@@ -19,8 +19,8 @@
 | 09:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 09:30 | GBP | Moderate | S&P Global Construction PMI (Sep) |  | 46.1 | 45.5 |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Oct) |  | -7.5 | -9.2 |
-| 10:00 | EUR | Low | Retail Sales (MoM) (Aug) |  | 0.1% | -0.5% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (Aug) |  |  | 2.2% |
+| 10:00 | EUR | Low | Retail Sales (MoM) (Aug) |  | 0.1% | -0.5% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:30 | EUR | Low | German Car Registration (YoY) (Sep) |  |  | 5.0% |
 | 13:00 | MXN | Low | Consumer Confidence (Sep) |  |  | 46.7 |

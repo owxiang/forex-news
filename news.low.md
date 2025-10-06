@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 54 min | AUD | MI Inflation Gauge (MoM) (Sep) |  |  | -0.3% |
-| 54 min | NZD | ANZ Commodity Price Index (MoM) |  |  | 0.7% |
+| 01:00 | AUD | MI Inflation Gauge (MoM) (Sep) | 0.4% |  | -0.3% |
+| 01:00 | NZD | ANZ Commodity Price Index (MoM) | -1.1% |  | 0.7% |
 | 01:30 | HKD | S&P Global Manufacturing PMI (Sep) |  |  | 50.7 |
 | 06:00 | INR | S&P Global Services PMI (Sep) |  | 61.6 | 61.6 |
 | 06:00 | INR | Manufacturing & Services PMI (MoM) (Sep) |  | 61.90% | 61.90% |
@@ -16,8 +16,8 @@
 | 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Sep) |  |  | 46.7 |
 | 09:00 | GBP | United Kingdom New Passenger Cars Registration (Sep) |  |  | 82,908.0 |
 | 09:30 | EUR | Sentix Investor Confidence (Oct) |  | -7.5 | -9.2 |
-| 10:00 | EUR | Retail Sales (MoM) (Aug) |  | 0.1% | -0.5% |
 | 10:00 | EUR | Retail Sales (YoY) (Aug) |  |  | 2.2% |
+| 10:00 | EUR | Retail Sales (MoM) (Aug) |  | 0.1% | -0.5% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:30 | EUR | German Car Registration (YoY) (Sep) |  |  | 5.0% |
 | 13:00 | MXN | Consumer Confidence (Sep) |  |  | 46.7 |
