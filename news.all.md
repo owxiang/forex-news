@@ -31,7 +31,7 @@
 | 16:30 | USD | Low | 3-Month Bill Auction | 3.850% |  | 3.860% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 3.695% |  | 3.715% |
 | 18:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 24 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 54 min | BRL | Low | Trade Balance (Sep) |  | 2.65B | 6.13B |
+| 18:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 19:00 | BRL | Low | Trade Balance (Sep) | 2.99B | 2.65B | 6.13B |
 | 22:00 | NZD | Moderate | NZIER Business Confidence (Q3) |  |  | 22% |
 | 22:00 | NZD | Low | NZIER QSBO Capacity Utilization (Q3) |  |  | 89.4% |

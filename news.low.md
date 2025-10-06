@@ -27,5 +27,5 @@
 | 14:00 | EUR | French 6-Month BTF Auction | 2.034% |  | 2.042% |
 | 16:30 | USD | 3-Month Bill Auction | 3.850% |  | 3.860% |
 | 16:30 | USD | 6-Month Bill Auction | 3.695% |  | 3.715% |
-| 54 min | BRL | Trade Balance (Sep) |  | 2.65B | 6.13B |
+| 19:00 | BRL | Trade Balance (Sep) | 2.99B | 2.65B | 6.13B |
 | 22:00 | NZD | NZIER QSBO Capacity Utilization (Q3) |  |  | 89.4% |
