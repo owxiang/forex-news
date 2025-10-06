@@ -1,10 +1,26 @@
-## 06 October 2025 - Moderate Impact Forex News
+## 07 October 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 08:15 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 09:00 | EUR | ECB's Lane Speaks |  |  |  |
-| 09:30 | GBP | S&P Global Construction PMI (Sep) | 46.2 | 46.1 | 45.5 |
-| 18:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 18:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 22:00 | NZD | NZIER Business Confidence (Q3) | 18% |  | 22% |
+| 24 min | JPY | Household Spending (MoM) (Aug) |  | 0.1% | 1.7% |
+| 24 min | JPY | Household Spending (YoY) (Aug) |  | 1.4% | 1.4% |
+| 07:00 | GBP | Halifax House Price Index (YoY) (Sep) |  |  | 2.2% |
+| 07:00 | GBP | Halifax House Price Index (MoM) (Sep) |  | 0.4% | 0.3% |
+| 07:00 | EUR | German Factory Orders (MoM) (Aug) |  | 1.3% | -2.9% |
+| 10:00 | GBP | Mortgage Rate (GBP) (Sep) |  |  | 6.86% |
+| 13:30 | USD | Exports (Aug) |  |  | 280.50B |
+| 13:30 | USD | Imports (Aug) |  |  | 358.80B |
+| 13:30 | USD | Trade Balance (Aug) |  | -61.20B | -78.30B |
+| 13:30 | CAD | Trade Balance (Aug) |  | -5.70B | -4.94B |
+| 15:00 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 15:00 | CAD | Ivey PMI (Sep) |  | 51.2 | 50.1 |
+| 15:05 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Sep) |  |  | 3.2% |
+| 16:30 | USD | FOMC Member Kashkari Speaks |  |  |  |
+| 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
+| 17:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 17:10 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 18:00 | USD | 3-Year Note Auction |  |  | 3.485% |
+| 18:00 | USD | Atlanta Fed GDPNow (Q3) |  | 3.8% | 3.8% |
+| 20:00 | USD | Consumer Credit (Aug) |  | 14.90B | 16.01B |
+| 21:30 | USD | API Weekly Crude Oil Stock |  |  | -3.674M |

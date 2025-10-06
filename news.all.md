@@ -1,37 +1,61 @@
-## 06 October 2025 - All Forex News
+## 07 October 2025 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 01:00 | AUD | Low | MI Inflation Gauge (MoM) (Sep) | 0.4% |  | -0.3% |
-| 01:00 | NZD | Low | ANZ Commodity Price Index (MoM) | -1.1% |  | 0.7% |
-| 01:30 | HKD | Low | S&P Global Manufacturing PMI (Sep) | 50.4 |  | 50.7 |
-| 06:00 | INR | Low | S&P Global Services PMI (Sep) | 60.9 | 61.6 | 63.2 |
-| 06:00 | INR | Low | Manufacturing & Services PMI (Sep) | 61.00 | 61.90 | 62.90 |
-| 08:00 | CHF | Low | Unemployment Rate n.s.a. (Sep) | 2.8% |  | 2.8% |
-| 08:00 | CHF | Low | Unemployment Rate s.a. (Sep) | 3.0% | 2.9% | 2.9% |
-| 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Aug) | 3.4% |  | 2.7% |
-| 08:15 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Sep) | 49.8 |  | 47.7 |
-| 08:30 | EUR | Low | HCOB Germany Construction PMI (Sep) | 46.2 |  | 46.0 |
-| 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Sep) | 42.9 |  | 46.7 |
-| 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Sep) | 46.0 |  | 46.7 |
-| 09:00 | GBP | Low | Car Registration (YoY) (Sep) | 13.7% |  | -2.0% |
-| 09:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Sep) | 312,891.0 |  | 82,908.0 |
-| 09:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 09:30 | GBP | Moderate | S&P Global Construction PMI (Sep) | 46.2 | 46.1 | 45.5 |
-| 09:30 | EUR | Low | Sentix Investor Confidence (Oct) | -5.4 | -7.5 | -9.2 |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Aug) | 1.0% |  | 2.1% |
-| 10:00 | EUR | Low | Retail Sales (MoM) (Aug) | 0.1% | 0.1% | -0.4% |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | MXN | Low | Consumer Confidence (Sep) | 46.5 |  | 46.7 |
-| 13:00 | MXN | Low | Consumer Confidence n.s.a. (Sep) | 46.1 |  | 46.5 |
-| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.051% |  | 2.058% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction | 1.999% |  | 1.979% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.034% |  | 2.042% |
-| 16:30 | USD | Low | 3-Month Bill Auction | 3.850% |  | 3.860% |
-| 16:30 | USD | Low | 6-Month Bill Auction | 3.695% |  | 3.715% |
-| 18:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 18:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 19:00 | BRL | Low | Trade Balance (Sep) | 2.99B | 2.65B | 5.86B |
-| 22:00 | NZD | Moderate | NZIER Business Confidence (Q3) | 18% |  | 22% |
-| 22:00 | NZD | Low | NZIER QSBO Capacity Utilization (Q3) | 89.1% |  | 89.4% |
+| 24 min | AUD | Low | Westpac Consumer Sentiment (Oct) |  |  | -3.1% |
+| 24 min | JPY | Moderate | Household Spending (MoM) (Aug) |  | 0.1% | 1.7% |
+| 24 min | JPY | Moderate | Household Spending (YoY) (Aug) |  | 1.4% | 1.4% |
+| 44 min | JPY | Low | Foreign Reserves (USD) (Sep) |  |  | 1,324.2B |
+| 01:30 | AUD | Low | ANZ Job Advertisements (MoM) (Sep) |  |  | 0.1% |
+| 01:30 | AUD | Low | Westpac Consumer Sentiment (Oct) |  |  | -3.1% |
+| 04:00 | IDR | Low | FX Reserves (USD) (Sep) |  |  | 150.70B |
+| 04:35 | JPY | Low | 30-Year JGB Auction |  |  | 3.264% |
+| 06:00 | JPY | Low | Coincident Indicator (MoM) (Aug) |  |  | -1.8% |
+| 06:00 | JPY | Low | Leading Index (Aug) |  | 107.1 | 106.1 |
+| 06:00 | JPY | Low | Leading Index (MoM) (Aug) |  |  | 1.1% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Sep) |  |  | 2.2% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Sep) |  | 0.4% | 0.3% |
+| 07:00 | EUR | Moderate | German Factory Orders (MoM) (Aug) |  | 1.3% | -2.9% |
+| 07:00 | NOK | Low | Manufacturing Production (MoM) (Aug) |  |  | 0.0% |
+| 07:00 | ZAR | Low | Foreign Reserves (USD) (Sep) |  |  | 70.42B |
+| 07:00 | ZAR | Low | Net FX Reserves (USD) (Sep) |  |  | 65.899B |
+| 07:45 | EUR | Low | French Exports (Aug) |  |  | 52.1B |
+| 07:45 | EUR | Low | French Imports (Aug) |  |  | 57.7B |
+| 07:45 | EUR | Low | French Reserve Assets Total (Sep) |  |  | 304,802.0M |
+| 07:45 | EUR | Low | French Trade Balance (Aug) |  | -5.2B | -5.6B |
+| 08:00 | CHF | Low | Foreign Reserves (USD) (Sep) |  |  | 715,124.0B |
+| 08:45 | EUR | Low | French Current Account (Aug) |  |  | -2.50B |
+| 09:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 1.986% |
+| 09:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 1.958% |
+| 10:00 | GBP | Moderate | Mortgage Rate (GBP) (Sep) |  |  | 6.86% |
+| 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Sep) |  |  | 391.3B |
+| 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.290% |
+| 11:00 | CAD | Low | Leading Index (MoM) (Sep) |  |  | 0.14% |
+| 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Sep) |  |  | 0.20% |
+| 13:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -0.8% |
+| 13:00 | USD | Low | Milk Auctions |  |  | 4,041.0 |
+| 13:30 | USD | Moderate | Exports (Aug) |  |  | 280.50B |
+| 13:30 | USD | Moderate | Imports (Aug) |  |  | 358.80B |
+| 13:30 | USD | Moderate | Trade Balance (Aug) |  | -61.20B | -78.30B |
+| 13:30 | CAD | Low | Exports (Aug) |  |  | 61.86B |
+| 13:30 | CAD | Low | Imports (Aug) |  |  | 66.80B |
+| 13:30 | CAD | Moderate | Trade Balance (Aug) |  | -5.70B | -4.94B |
+| 13:55 | USD | Low | Redbook (YoY) |  |  | 5.9% |
+| 14:00 | BRL | Low | Auto Production (MoM) (Sep) |  |  | 3.0% |
+| 14:00 | BRL | Low | Auto Sales (MoM) (Sep) |  |  | -7.3% |
+| 15:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 15:00 | CAD | Low | Ivey PMI n.s.a (Sep) |  |  | 50.0 |
+| 15:00 | CAD | Moderate | Ivey PMI (Sep) |  | 51.2 | 50.1 |
+| 15:05 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 15:10 | USD | Low | IBD/TIPP Economic Optimism (Oct) |  | 49.3 | 48.7 |
+| 16:00 | USD | Low | CB Employment Trends Index (Sep) |  |  | 106.41 |
+| 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Sep) |  |  | 3.2% |
+| 16:30 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
+| 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
+| 17:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 17:01 | CNY | Low | FX Reserves (USD) (Sep) |  |  | 3.322T |
+| 17:10 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 3.485% |
+| 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 3.8% | 3.8% |
+| 20:00 | USD | Moderate | Consumer Credit (Aug) |  | 14.90B | 16.01B |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -3.674M |
