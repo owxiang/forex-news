@@ -16,8 +16,8 @@
 | 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Sep) |  |  | 46.7 |
 | 09:00 | GBP | United Kingdom New Passenger Cars Registration (Sep) |  |  | 82,908.0 |
 | 09:30 | EUR | Sentix Investor Confidence (Oct) |  | -7.5 | -9.2 |
-| 10:00 | EUR | Retail Sales (YoY) (Aug) |  |  | 2.2% |
 | 10:00 | EUR | Retail Sales (MoM) (Aug) |  | 0.1% | -0.5% |
+| 10:00 | EUR | Retail Sales (YoY) (Aug) |  |  | 2.2% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:30 | EUR | German Car Registration (YoY) (Sep) |  |  | 5.0% |
 | 13:00 | MXN | Consumer Confidence (Sep) |  |  | 46.7 |

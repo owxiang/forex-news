@@ -19,8 +19,8 @@
 | 09:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 09:30 | GBP | Moderate | S&P Global Construction PMI (Sep) |  | 46.1 | 45.5 |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Oct) |  | -7.5 | -9.2 |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Aug) |  |  | 2.2% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Aug) |  | 0.1% | -0.5% |
+| 10:00 | EUR | Low | Retail Sales (YoY) (Aug) |  |  | 2.2% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:30 | EUR | Low | German Car Registration (YoY) (Sep) |  |  | 5.0% |
 | 13:00 | MXN | Low | Consumer Confidence (Sep) |  |  | 46.7 |
