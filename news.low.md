@@ -28,4 +28,4 @@
 | 16:30 | USD | 3-Month Bill Auction | 3.850% |  | 3.860% |
 | 16:30 | USD | 6-Month Bill Auction | 3.695% |  | 3.715% |
 | 19:00 | BRL | Trade Balance (Sep) | 2.99B | 2.65B | 5.86B |
-| 53 min | NZD | NZIER QSBO Capacity Utilization (Q3) |  |  | 89.4% |
+| 22:00 | NZD | NZIER QSBO Capacity Utilization (Q3) | 89.1% |  | 89.4% |
