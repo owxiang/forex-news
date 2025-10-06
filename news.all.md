@@ -5,8 +5,8 @@
 | 01:00 | AUD | Low | MI Inflation Gauge (MoM) (Sep) | 0.4% |  | -0.3% |
 | 01:00 | NZD | Low | ANZ Commodity Price Index (MoM) | -1.1% |  | 0.7% |
 | 01:30 | HKD | Low | S&P Global Manufacturing PMI (Sep) | 50.4 |  | 50.7 |
-| 52 min | INR | Low | S&P Global Services PMI (Sep) |  | 61.6 | 61.6 |
-| 52 min | INR | Low | Manufacturing & Services PMI (MoM) (Sep) |  | 61.90% | 61.90% |
+| 06:00 | INR | Low | S&P Global Services PMI (Sep) | 60.9 | 61.6 | 63.2 |
+| 06:00 | INR | Low | Manufacturing & Services PMI (MoM) (Sep) | 61.00% | 61.90% | 62.90% |
 | 08:00 | CHF | Low | Unemployment Rate n.s.a. (Sep) |  |  | 2.8% |
 | 08:00 | CHF | Low | Unemployment Rate s.a. (Sep) |  | 2.9% | 2.9% |
 | 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Aug) |  |  | 2.5% |
