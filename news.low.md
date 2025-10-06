@@ -10,14 +10,15 @@
 | 08:00 | CHF | Unemployment Rate n.s.a. (Sep) | 2.8% |  | 2.8% |
 | 08:00 | CHF | Unemployment Rate s.a. (Sep) | 3.0% | 2.9% | 2.9% |
 | 08:00 | EUR | Spanish Industrial Production (YoY) (Aug) | 3.4% |  | 2.7% |
-| 22 min | EUR | HCOB Italy Construction PMI (MoM) (Sep) |  |  | 47.7 |
-| 22 min | EUR | HCOB Germany Construction PMI (Sep) |  |  | 46.0 |
-| 22 min | EUR | HCOB France Construction PMI (MoM) (Sep) |  |  | 46.7 |
-| 22 min | EUR | HCOB Eurozone Construction PMI (MoM) (Sep) |  |  | 46.7 |
-| 52 min | GBP | United Kingdom New Passenger Cars Registration (Sep) |  |  | 82,908.0 |
-| 09:30 | EUR | Sentix Investor Confidence (Oct) |  | -7.5 | -9.2 |
-| 10:00 | EUR | Retail Sales (MoM) (Aug) |  | 0.1% | -0.5% |
-| 10:00 | EUR | Retail Sales (YoY) (Aug) |  |  | 2.2% |
+| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Sep) | 49.8 |  | 47.7 |
+| 08:30 | EUR | HCOB Germany Construction PMI (Sep) | 46.2 |  | 46.0 |
+| 08:30 | EUR | HCOB France Construction PMI (MoM) (Sep) | 42.9 |  | 46.7 |
+| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Sep) | 46.0 |  | 46.7 |
+| 09:00 | GBP | Car Registration (YoY) (Sep) |  |  | -2.0% |
+| 09:00 | GBP | United Kingdom New Passenger Cars Registration (Sep) | 312,891.0 |  | 82,908.0 |
+| 21 min | EUR | Sentix Investor Confidence (Oct) |  | -7.5 | -9.2 |
+| 51 min | EUR | Retail Sales (YoY) (Aug) |  |  | 2.2% |
+| 51 min | EUR | Retail Sales (MoM) (Aug) |  | 0.1% | -0.5% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:00 | MXN | Consumer Confidence (Sep) |  |  | 46.7 |
 | 13:00 | MXN | Consumer Confidence n.s.a. (Sep) |  |  | 46.5 |

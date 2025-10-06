@@ -10,17 +10,18 @@
 | 08:00 | CHF | Low | Unemployment Rate n.s.a. (Sep) | 2.8% |  | 2.8% |
 | 08:00 | CHF | Low | Unemployment Rate s.a. (Sep) | 3.0% | 2.9% | 2.9% |
 | 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Aug) | 3.4% |  | 2.7% |
-| 7 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 22 min | EUR | Low | HCOB Italy Construction PMI (MoM) (Sep) |  |  | 47.7 |
-| 22 min | EUR | Low | HCOB Germany Construction PMI (Sep) |  |  | 46.0 |
-| 22 min | EUR | Low | HCOB France Construction PMI (MoM) (Sep) |  |  | 46.7 |
-| 22 min | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Sep) |  |  | 46.7 |
-| 52 min | GBP | Low | United Kingdom New Passenger Cars Registration (Sep) |  |  | 82,908.0 |
-| 52 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 09:30 | GBP | Moderate | S&P Global Construction PMI (Sep) |  | 46.1 | 45.5 |
-| 09:30 | EUR | Low | Sentix Investor Confidence (Oct) |  | -7.5 | -9.2 |
-| 10:00 | EUR | Low | Retail Sales (MoM) (Aug) |  | 0.1% | -0.5% |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Aug) |  |  | 2.2% |
+| 08:15 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Sep) | 49.8 |  | 47.7 |
+| 08:30 | EUR | Low | HCOB Germany Construction PMI (Sep) | 46.2 |  | 46.0 |
+| 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Sep) | 42.9 |  | 46.7 |
+| 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Sep) | 46.0 |  | 46.7 |
+| 09:00 | GBP | Low | Car Registration (YoY) (Sep) |  |  | -2.0% |
+| 09:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Sep) | 312,891.0 |  | 82,908.0 |
+| 09:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 21 min | GBP | Moderate | S&P Global Construction PMI (Sep) |  | 46.1 | 45.5 |
+| 21 min | EUR | Low | Sentix Investor Confidence (Oct) |  | -7.5 | -9.2 |
+| 51 min | EUR | Low | Retail Sales (YoY) (Aug) |  |  | 2.2% |
+| 51 min | EUR | Low | Retail Sales (MoM) (Aug) |  | 0.1% | -0.5% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | MXN | Low | Consumer Confidence (Sep) |  |  | 46.7 |
 | 13:00 | MXN | Low | Consumer Confidence n.s.a. (Sep) |  |  | 46.5 |
