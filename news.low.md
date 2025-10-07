@@ -5,7 +5,8 @@
 | 00:30 | AUD | Westpac Consumer Sentiment (Oct) | -3.5% |  | -3.1% |
 | 00:50 | JPY | Foreign Reserves (USD) (Sep) | 1,341.3B |  | 1,324.2B |
 | 01:30 | AUD | ANZ Job Advertisements (MoM) (Sep) | -3.3% |  | -0.3% |
-| 04:00 | IDR | FX Reserves (USD) (Sep) |  |  | 150.70B |
+| 03:20 | CNY | FX Reserves (USD) (Sep) | 3.339T |  | 3.322T |
+| 28 min | IDR | FX Reserves (USD) (Sep) |  |  | 150.70B |
 | 04:35 | JPY | 30-Year JGB Auction |  |  | 3.264% |
 | 06:00 | JPY | Coincident Indicator (MoM) (Aug) |  |  | -1.8% |
 | 06:00 | JPY | Leading Index (MoM) (Aug) |  |  | 1.1% |
@@ -35,4 +36,3 @@
 | 15:00 | CAD | Ivey PMI n.s.a (Sep) |  |  | 50.0 |
 | 15:10 | USD | IBD/TIPP Economic Optimism (Oct) |  | 49.3 | 48.7 |
 | 16:00 | USD | CB Employment Trends Index (Sep) |  |  | 106.41 |
-| 17:01 | CNY | FX Reserves (USD) (Sep) |  |  | 3.322T |

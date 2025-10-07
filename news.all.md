@@ -7,7 +7,8 @@
 | 00:30 | JPY | Moderate | Household Spending (YoY) (Aug) | 2.3% | 1.4% | 1.4% |
 | 00:50 | JPY | Low | Foreign Reserves (USD) (Sep) | 1,341.3B |  | 1,324.2B |
 | 01:30 | AUD | Low | ANZ Job Advertisements (MoM) (Sep) | -3.3% |  | -0.3% |
-| 04:00 | IDR | Low | FX Reserves (USD) (Sep) |  |  | 150.70B |
+| 03:20 | CNY | Low | FX Reserves (USD) (Sep) | 3.339T |  | 3.322T |
+| 28 min | IDR | Low | FX Reserves (USD) (Sep) |  |  | 150.70B |
 | 04:35 | JPY | Low | 30-Year JGB Auction |  |  | 3.264% |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Aug) |  |  | -1.8% |
 | 06:00 | JPY | Low | Leading Index (MoM) (Aug) |  |  | 1.1% |
@@ -52,7 +53,6 @@
 | 16:30 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 17:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 17:01 | CNY | Low | FX Reserves (USD) (Sep) |  |  | 3.322T |
 | 17:10 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 3.485% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 3.8% | 3.8% |
