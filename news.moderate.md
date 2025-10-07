@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 24 min | JPY | Household Spending (MoM) (Aug) |  | 0.1% | 1.7% |
-| 24 min | JPY | Household Spending (YoY) (Aug) |  | 1.4% | 1.4% |
+| 00:30 | JPY | Household Spending (MoM) (Aug) | 0.6% | 0.1% | 1.7% |
+| 00:30 | JPY | Household Spending (YoY) (Aug) | 2.3% | 1.4% | 1.4% |
 | 07:00 | GBP | Halifax House Price Index (YoY) (Sep) |  |  | 2.2% |
 | 07:00 | GBP | Halifax House Price Index (MoM) (Sep) |  | 0.4% | 0.3% |
 | 07:00 | EUR | German Factory Orders (MoM) (Aug) |  | 1.3% | -2.9% |

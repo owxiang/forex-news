@@ -2,17 +2,17 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 24 min | AUD | Low | Westpac Consumer Sentiment (Oct) |  |  | -3.1% |
-| 24 min | JPY | Moderate | Household Spending (MoM) (Aug) |  | 0.1% | 1.7% |
-| 24 min | JPY | Moderate | Household Spending (YoY) (Aug) |  | 1.4% | 1.4% |
-| 44 min | JPY | Low | Foreign Reserves (USD) (Sep) |  |  | 1,324.2B |
-| 01:30 | AUD | Low | ANZ Job Advertisements (MoM) (Sep) |  |  | 0.1% |
-| 01:30 | AUD | Low | Westpac Consumer Sentiment (Oct) |  |  | -3.1% |
+| 00:30 | AUD | Low | Westpac Consumer Sentiment (Oct) | -3.5% |  | -3.1% |
+| 00:30 | JPY | Moderate | Household Spending (MoM) (Aug) | 0.6% | 0.1% | 1.7% |
+| 00:30 | JPY | Moderate | Household Spending (YoY) (Aug) | 2.3% | 1.4% | 1.4% |
+| 00:50 | JPY | Low | Foreign Reserves (USD) (Sep) | 1,341.3B |  | 1,324.2B |
+| 2 min | AUD | Low | ANZ Job Advertisements (MoM) (Sep) |  |  | 0.1% |
+| 2 min | AUD | Low | Westpac Consumer Sentiment (Oct) |  |  | -3.1% |
 | 04:00 | IDR | Low | FX Reserves (USD) (Sep) |  |  | 150.70B |
 | 04:35 | JPY | Low | 30-Year JGB Auction |  |  | 3.264% |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Aug) |  |  | -1.8% |
-| 06:00 | JPY | Low | Leading Index (Aug) |  | 107.1 | 106.1 |
 | 06:00 | JPY | Low | Leading Index (MoM) (Aug) |  |  | 1.1% |
+| 06:00 | JPY | Low | Leading Index (Aug) |  | 107.1 | 106.1 |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Sep) |  |  | 2.2% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Sep) |  | 0.4% | 0.3% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Aug) |  | 1.3% | -2.9% |

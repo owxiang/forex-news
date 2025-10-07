@@ -2,15 +2,15 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 24 min | AUD | Westpac Consumer Sentiment (Oct) |  |  | -3.1% |
-| 44 min | JPY | Foreign Reserves (USD) (Sep) |  |  | 1,324.2B |
-| 01:30 | AUD | ANZ Job Advertisements (MoM) (Sep) |  |  | 0.1% |
-| 01:30 | AUD | Westpac Consumer Sentiment (Oct) |  |  | -3.1% |
+| 00:30 | AUD | Westpac Consumer Sentiment (Oct) | -3.5% |  | -3.1% |
+| 00:50 | JPY | Foreign Reserves (USD) (Sep) | 1,341.3B |  | 1,324.2B |
+| 2 min | AUD | ANZ Job Advertisements (MoM) (Sep) |  |  | 0.1% |
+| 2 min | AUD | Westpac Consumer Sentiment (Oct) |  |  | -3.1% |
 | 04:00 | IDR | FX Reserves (USD) (Sep) |  |  | 150.70B |
 | 04:35 | JPY | 30-Year JGB Auction |  |  | 3.264% |
 | 06:00 | JPY | Coincident Indicator (MoM) (Aug) |  |  | -1.8% |
-| 06:00 | JPY | Leading Index (Aug) |  | 107.1 | 106.1 |
 | 06:00 | JPY | Leading Index (MoM) (Aug) |  |  | 1.1% |
+| 06:00 | JPY | Leading Index (Aug) |  | 107.1 | 106.1 |
 | 07:00 | NOK | Manufacturing Production (MoM) (Aug) |  |  | 0.0% |
 | 07:00 | ZAR | Foreign Reserves (USD) (Sep) |  |  | 70.42B |
 | 07:00 | ZAR | Net FX Reserves (USD) (Sep) |  |  | 65.899B |
