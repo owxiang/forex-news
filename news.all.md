@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | AUD | Low | Westpac Consumer Sentiment (Oct) | -3.5% |  | -3.1% |
-| 00:30 | JPY | Moderate | Household Spending (MoM) (Aug) | 0.6% | 0.1% | 1.7% |
 | 00:30 | JPY | Moderate | Household Spending (YoY) (Aug) | 2.3% | 1.4% | 1.4% |
+| 00:30 | JPY | Moderate | Household Spending (MoM) (Aug) | 0.6% | 0.1% | 1.7% |
 | 00:50 | JPY | Low | Foreign Reserves (USD) (Sep) | 1,341.3B |  | 1,324.2B |
 | 01:30 | AUD | Low | ANZ Job Advertisements (MoM) (Sep) | -3.3% |  | -0.3% |
 | 03:00 | CNY | Low | FX Reserves (USD) (Sep) | 3.339T |  | 3.322T |
@@ -51,4 +51,4 @@
 | 17:10 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | Moderate | 3-Year Note Auction | 3.576% |  | 3.485% |
 | 20:00 | USD | Moderate | Consumer Credit (Aug) | 0.36B | 12.90B | 18.05B |
-| 23 min | USD | Moderate | API Weekly Crude Oil Stock |  |  | -3.674M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | 2.780M | 2.250M | -3.674M |
