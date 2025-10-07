@@ -1,35 +1,41 @@
-## 07 October 2025 - Low Impact Forex News
+## 08 October 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Westpac Consumer Sentiment (Oct) | -3.5% |  | -3.1% |
-| 00:50 | JPY | Foreign Reserves (USD) (Sep) | 1,341.3B |  | 1,324.2B |
-| 01:30 | AUD | ANZ Job Advertisements (MoM) (Sep) | -3.3% |  | -0.3% |
-| 03:00 | CNY | FX Reserves (USD) (Sep) | 3.339T |  | 3.322T |
-| 04:00 | IDR | FX Reserves (USD) (Sep) | 148.70B |  | 150.70B |
-| 04:35 | JPY | 30-Year JGB Auction | 3.248% |  | 3.264% |
-| 06:00 | JPY | Coincident Indicator (MoM) (Aug) | -0.7% |  | 0.3% |
-| 06:00 | JPY | Leading Index (MoM) (Aug) | 1.3% |  | 0.5% |
-| 06:00 | JPY | Leading Index (Aug) | 107.4 | 107.1 | 106.1 |
-| 07:00 | NOK | Manufacturing Production (MoM) (Aug) | 0.7% |  | 0.4% |
-| 07:00 | ZAR | Foreign Reserves (USD) (Sep) | 69.74B |  | 70.42B |
-| 07:00 | ZAR | Net FX Reserves (USD) (Sep) | 67.865B |  | 65.899B |
-| 07:45 | EUR | French Current Account (Aug) | 1.50B |  | -1.90B |
-| 07:45 | EUR | French Exports (Aug) | 51.8B |  | 51.8B |
-| 07:45 | EUR | French Imports (Aug) | 57.3B |  | 57.6B |
-| 07:45 | EUR | French Reserve Assets Total (Sep) | 330,268.0M |  | 304,802.0M |
-| 07:45 | EUR | French Trade Balance (Aug) | -5.5B | -5.2B | -5.7B |
-| 08:00 | CHF | Foreign Reserves (USD) (Sep) | 726.7B |  | 715.2B |
-| 09:40 | EUR | Spanish 12-Month Letras Auction | 2.006% |  | 1.986% |
-| 09:40 | EUR | Spanish 6-Month Letras Auction | 1.937% |  | 1.958% |
-| 10:00 | SGD | Foreign Reserves USD (MoM) (Sep) | 393.1B |  | 391.3B |
-| 10:30 | EUR | German 5-Year Bobl Auction | 2.310% |  | 2.290% |
-| 11:00 | CAD | Leading Index (MoM) (Sep) | 0.23% |  | 0.24% |
-| 12:00 | BRL | IGP-DI Inflation Index (MoM) (Sep) | 0.36% |  | 0.20% |
-| 13:30 | CAD | Exports (Aug) | 60.58B |  | 62.46B |
-| 13:30 | CAD | Imports (Aug) | 66.91B |  | 66.28B |
-| 13:55 | USD | Redbook (YoY) | 5.8% |  | 5.9% |
-| 15:00 | CAD | Ivey PMI n.s.a (Sep) | 61.6 |  | 50.0 |
-| 15:10 | USD | IBD/TIPP Economic Optimism (Oct) | 48.3 | 49.3 | 48.7 |
-| 16:00 | NZD | GlobalDairyTrade Price Index | -1.6% |  | -0.8% |
-| 16:00 | USD | Milk Auctions | 3,921.0 |  | 4,041.0 |
+| 00:00 | JPY | Reuters Tankan Index (Oct) | 8 |  | 13 |
+| 24 min | JPY | Overall wage income of employees (Aug) |  | 2.6% | 3.4% |
+| 24 min | JPY | Overtime Pay (YoY) (Aug) |  |  | 3.30% |
+| 44 min | JPY | Bank Lending (YoY) (Sep) |  | 3.7% | 3.6% |
+| 01:30 | AUD | Private House Approvals (Aug) |  | -2.6% | 1.1% |
+| 03:00 | IDR | Motorbike Sales (YoY) (Sep) |  |  | 0.70% |
+| 04:00 | IDR | Consumer Confidence (Sep) |  |  | 117.2 |
+| 06:00 | JPY | Economy Watchers Current Index (Sep) |  | 47.0 | 46.7 |
+| 07:00 | EUR | German Industrial Production (YoY) (Aug) |  |  | 1.53% |
+| 09:30 | HKD | Foreign Reserves (USD) (Sep) |  |  | 421.60B |
+| 10:30 | GBP | 5-Year Treasury Gilt Auction |  |  | 4.095% |
+| 10:30 | GBP | BoE FPC Meeting Minutes |  |  |  |
+| 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 12:00 | USD | CB Employment Trends Index (Sep) |  |  | 106.41 |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.46% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -12.7% |
+| 12:00 | USD | MBA Purchase Index |  |  | 172.7 |
+| 12:00 | USD | Mortgage Market Index |  |  | 339.1 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 1,278.6 |
+| 13:00 | EUR | German Car Registration (YoY) (Sep) |  |  | 5.0% |
+| 14:00 | BRL | Auto Production (MoM) (Sep) |  |  | 3.0% |
+| 14:00 | BRL | Auto Sales (MoM) (Sep) |  |  | -7.3% |
+| 15:00 | USD | Fed Goolsbee Speaks |  |  |  |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.308M |
+| 15:30 | USD | Crude Oil Imports |  |  | 0.071M |
+| 15:30 | USD | Distillate Fuel Production |  |  | -0.025M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | 0.578M |
+| 15:30 | USD | Gasoline Production |  |  | -0.363M |
+| 15:30 | USD | Heating Oil Stockpiles |  |  | 0.187M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.6% |
+| 15:30 | USD | Gasoline Inventories |  |  | 4.125M |
+| 16:00 | USD | Thomson Reuters IPSOS PCSI (Oct) |  |  | 52.37 |
+| 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 47.79 |
+| 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 52.74 |
+| 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Oct) |  |  | 51.66 |
+| 18:15 | USD | Fed Logan Speaks |  |  |  |
+| 18:30 | BRL | Foreign Exchange Flows |  |  | 1.141B |

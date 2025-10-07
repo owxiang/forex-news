@@ -1,54 +1,61 @@
-## 07 October 2025 - All Forex News
+## 08 October 2025 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | AUD | Low | Westpac Consumer Sentiment (Oct) | -3.5% |  | -3.1% |
-| 00:30 | JPY | Moderate | Household Spending (MoM) (Aug) | 0.6% | 0.1% | 1.7% |
-| 00:30 | JPY | Moderate | Household Spending (YoY) (Aug) | 2.3% | 1.4% | 1.4% |
-| 00:50 | JPY | Low | Foreign Reserves (USD) (Sep) | 1,341.3B |  | 1,324.2B |
-| 01:30 | AUD | Low | ANZ Job Advertisements (MoM) (Sep) | -3.3% |  | -0.3% |
-| 03:00 | CNY | Low | FX Reserves (USD) (Sep) | 3.339T |  | 3.322T |
-| 04:00 | IDR | Low | FX Reserves (USD) (Sep) | 148.70B |  | 150.70B |
-| 04:35 | JPY | Low | 30-Year JGB Auction | 3.248% |  | 3.264% |
-| 06:00 | JPY | Low | Coincident Indicator (MoM) (Aug) | -0.7% |  | 0.3% |
-| 06:00 | JPY | Low | Leading Index (MoM) (Aug) | 1.3% |  | 0.5% |
-| 06:00 | JPY | Low | Leading Index (Aug) | 107.4 | 107.1 | 106.1 |
-| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Sep) | 1.3% | 2.2% | 2.0% |
-| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Sep) | -0.3% | 0.2% | 0.2% |
-| 07:00 | EUR | Moderate | German Factory Orders (MoM) (Aug) | -0.8% | 1.2% | -2.7% |
-| 07:00 | NOK | Low | Manufacturing Production (MoM) (Aug) | 0.7% |  | 0.4% |
-| 07:00 | ZAR | Low | Foreign Reserves (USD) (Sep) | 69.74B |  | 70.42B |
-| 07:00 | ZAR | Low | Net FX Reserves (USD) (Sep) | 67.865B |  | 65.899B |
-| 07:45 | EUR | Low | French Current Account (Aug) | 1.50B |  | -1.90B |
-| 07:45 | EUR | Low | French Exports (Aug) | 51.8B |  | 51.8B |
-| 07:45 | EUR | Low | French Imports (Aug) | 57.3B |  | 57.6B |
-| 07:45 | EUR | Low | French Reserve Assets Total (Sep) | 330,268.0M |  | 304,802.0M |
-| 07:45 | EUR | Low | French Trade Balance (Aug) | -5.5B | -5.2B | -5.7B |
-| 08:00 | CHF | Low | Foreign Reserves (USD) (Sep) | 726.7B |  | 715.2B |
-| 09:30 | GBP | Moderate | Mortgage Rate (GBP) (Sep) | 6.78% |  | 6.86% |
-| 09:40 | EUR | Low | Spanish 12-Month Letras Auction | 2.006% |  | 1.986% |
-| 09:40 | EUR | Low | Spanish 6-Month Letras Auction | 1.937% |  | 1.958% |
-| 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Sep) | 393.1B |  | 391.3B |
-| 10:30 | EUR | Low | German 5-Year Bobl Auction | 2.310% |  | 2.290% |
-| 11:00 | CAD | Low | Leading Index (MoM) (Sep) | 0.23% |  | 0.24% |
-| 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Sep) | 0.36% |  | 0.20% |
-| 13:30 | CAD | Low | Exports (Aug) | 60.58B |  | 62.46B |
-| 13:30 | CAD | Low | Imports (Aug) | 66.91B |  | 66.28B |
-| 13:30 | CAD | Moderate | Trade Balance (Aug) | -6.32B | -5.70B | -3.82B |
-| 13:55 | USD | Low | Redbook (YoY) | 5.8% |  | 5.9% |
-| 15:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 15:00 | CAD | Low | Ivey PMI n.s.a (Sep) | 61.6 |  | 50.0 |
-| 15:00 | CAD | Moderate | Ivey PMI (Sep) | 59.8 | 51.2 | 50.1 |
-| 15:05 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 15:10 | USD | Low | IBD/TIPP Economic Optimism (Oct) | 48.3 | 49.3 | 48.7 |
-| 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Sep) | 3.4% |  | 3.2% |
-| 16:00 | NZD | Low | GlobalDairyTrade Price Index | -1.6% |  | -0.8% |
-| 16:00 | USD | Low | Milk Auctions | 3,921.0 |  | 4,041.0 |
-| 16:30 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
-| 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 3.8% | 3.8% | 3.8% |
-| 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
-| 17:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 17:10 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 18:00 | USD | Moderate | 3-Year Note Auction | 3.576% |  | 3.485% |
-| 20:00 | USD | Moderate | Consumer Credit (Aug) | 0.36B | 12.90B | 18.05B |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | 2.780M | 2.250M | -3.674M |
+| 00:00 | JPY | Low | Reuters Tankan Index (Oct) | 8 |  | 13 |
+| 24 min | JPY | Low | Overall wage income of employees (Aug) |  | 2.6% | 3.4% |
+| 24 min | JPY | Low | Overtime Pay (YoY) (Aug) |  |  | 3.30% |
+| 44 min | JPY | Moderate | Adjusted Current Account (Aug) |  | 2.45T | 1.88T |
+| 44 min | JPY | Low | Bank Lending (YoY) (Sep) |  | 3.7% | 3.6% |
+| 44 min | JPY | Moderate | Current Account n.s.a. (Aug) |  | 3.540T | 2.684T |
+| 01:30 | AUD | Moderate | Building Approvals (MoM) (Aug) |  | -6.0% | -8.2% |
+| 01:30 | AUD | Moderate | NAB Business Confidence (Sep) |  |  | 4 |
+| 01:30 | AUD | Low | Private House Approvals (Aug) |  | -2.6% | 1.1% |
+| 02:00 | NZD | High | RBNZ Interest Rate Decision |  | 2.75% | 3.00% |
+| 02:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
+| 03:00 | IDR | Low | Motorbike Sales (YoY) (Sep) |  |  | 0.70% |
+| 04:00 | IDR | Low | Consumer Confidence (Sep) |  |  | 117.2 |
+| 06:00 | JPY | Low | Economy Watchers Current Index (Sep) |  | 47.0 | 46.7 |
+| 07:00 | EUR | Moderate | German Industrial Production (MoM) (Aug) |  | -1.0% | 1.3% |
+| 07:00 | EUR | Low | German Industrial Production (YoY) (Aug) |  |  | 1.53% |
+| 09:30 | HKD | Low | Foreign Reserves (USD) (Sep) |  |  | 421.60B |
+| 10:15 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
+| 10:30 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.095% |
+| 10:30 | GBP | Low | BoE FPC Meeting Minutes |  |  |  |
+| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 11:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 12:00 | USD | Low | CB Employment Trends Index (Sep) |  |  | 106.41 |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.46% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -12.7% |
+| 12:00 | USD | Low | MBA Purchase Index |  |  | 172.7 |
+| 12:00 | USD | Low | Mortgage Market Index |  |  | 339.1 |
+| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 1,278.6 |
+| 13:00 | EUR | Low | German Car Registration (YoY) (Sep) |  |  | 5.0% |
+| 14:00 | BRL | Low | Auto Production (MoM) (Sep) |  |  | 3.0% |
+| 14:00 | BRL | Low | Auto Sales (MoM) (Sep) |  |  | -7.3% |
+| 14:00 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
+| 14:30 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 15:00 | USD | Moderate | Construction Spending (MoM) (Aug) |  | -0.1% | -0.1% |
+| 15:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 15:30 | USD | High | Crude Oil Inventories |  |  | 1.792M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.308M |
+| 15:30 | USD | Low | Crude Oil Imports |  |  | 0.071M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.271M |
+| 15:30 | USD | Low | Distillate Fuel Production |  |  | -0.025M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  |  | 0.578M |
+| 15:30 | USD | Low | Gasoline Production |  |  | -0.363M |
+| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.187M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.6% |
+| 15:30 | USD | Low | Gasoline Inventories |  |  | 4.125M |
+| 16:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 16:00 | USD | Low | Thomson Reuters IPSOS PCSI (Oct) |  |  | 52.37 |
+| 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 47.79 |
+| 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 52.74 |
+| 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Oct) |  |  | 51.66 |
+| 17:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 18:00 | USD | High | 10-Year Note Auction |  |  | 4.033% |
+| 18:15 | USD | Low | Fed Logan Speaks |  |  |  |
+| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 1.141B |
+| 20:00 | USD | High | FOMC Meeting Minutes |  |  |  |
+| 20:15 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
+| 22:45 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |

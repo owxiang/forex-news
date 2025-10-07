@@ -1,3 +1,8 @@
-## 07 October 2025 - High Impact Forex News
+## 08 October 2025 - High Impact Forex News
 
-There is no high impact news today.
+| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 02:00 | NZD | RBNZ Interest Rate Decision |  | 2.75% | 3.00% |
+| 15:30 | USD | Crude Oil Inventories |  |  | 1.792M |
+| 18:00 | USD | 10-Year Note Auction |  |  | 4.033% |
+| 20:00 | USD | FOMC Meeting Minutes |  |  |  |
