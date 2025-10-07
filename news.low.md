@@ -9,16 +9,16 @@
 | 04:00 | IDR | FX Reserves (USD) (Sep) | 148.70B |  | 150.70B |
 | 04:35 | JPY | 30-Year JGB Auction | 3.248% |  | 3.264% |
 | 06:00 | JPY | Coincident Indicator (MoM) (Jul) | -0.7% |  | 0.3% |
-| 06:00 | JPY | Leading Index (MoM) (Jul) | 1.3% |  | 1.1% |
+| 06:00 | JPY | Leading Index (MoM) (Jul) | 1.3% |  | 0.5% |
 | 06:00 | JPY | Leading Index (Aug) | 107.4 | 107.1 | 106.1 |
-| 53 min | NOK | Manufacturing Production (MoM) (Aug) |  |  | 0.0% |
-| 53 min | ZAR | Foreign Reserves (USD) (Sep) |  |  | 70.42B |
-| 53 min | ZAR | Net FX Reserves (USD) (Sep) |  |  | 65.899B |
-| 07:45 | EUR | French Exports (Aug) |  |  | 52.1B |
-| 07:45 | EUR | French Imports (Aug) |  |  | 57.7B |
-| 07:45 | EUR | French Reserve Assets Total (Sep) |  |  | 304,802.0M |
-| 07:45 | EUR | French Trade Balance (Aug) |  | -5.2B | -5.6B |
-| 08:00 | CHF | Foreign Reserves (USD) (Sep) |  |  | 715,124.0B |
+| 07:00 | NOK | Manufacturing Production (MoM) (Aug) | 0.7% |  | 0.0% |
+| 07:00 | ZAR | Foreign Reserves (USD) (Sep) | 69.74B |  | 70.42B |
+| 07:00 | ZAR | Net FX Reserves (USD) (Sep) | 67.865B |  | 65.899B |
+| 35 min | EUR | French Exports (Aug) |  |  | 52.1B |
+| 35 min | EUR | French Imports (Aug) |  |  | 57.7B |
+| 35 min | EUR | French Reserve Assets Total (Sep) |  |  | 304,802.0M |
+| 35 min | EUR | French Trade Balance (Aug) |  | -5.2B | -5.6B |
+| 50 min | CHF | Foreign Reserves (USD) (Sep) |  |  | 715.1B |
 | 08:45 | EUR | French Current Account (Aug) |  |  | -2.50B |
 | 09:40 | EUR | Spanish 12-Month Letras Auction |  |  | 1.986% |
 | 09:40 | EUR | Spanish 6-Month Letras Auction |  |  | 1.958% |

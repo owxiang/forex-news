@@ -11,19 +11,19 @@
 | 04:00 | IDR | Low | FX Reserves (USD) (Sep) | 148.70B |  | 150.70B |
 | 04:35 | JPY | Low | 30-Year JGB Auction | 3.248% |  | 3.264% |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Jul) | -0.7% |  | 0.3% |
-| 06:00 | JPY | Low | Leading Index (MoM) (Jul) | 1.3% |  | 1.1% |
+| 06:00 | JPY | Low | Leading Index (MoM) (Jul) | 1.3% |  | 0.5% |
 | 06:00 | JPY | Low | Leading Index (Aug) | 107.4 | 107.1 | 106.1 |
-| 53 min | GBP | Moderate | Halifax House Price Index (YoY) (Sep) |  | 2.2% | 2.2% |
-| 53 min | GBP | Moderate | Halifax House Price Index (MoM) (Sep) |  | 0.2% | 0.3% |
-| 53 min | EUR | Moderate | German Factory Orders (MoM) (Aug) |  | 1.2% | -2.9% |
-| 53 min | NOK | Low | Manufacturing Production (MoM) (Aug) |  |  | 0.0% |
-| 53 min | ZAR | Low | Foreign Reserves (USD) (Sep) |  |  | 70.42B |
-| 53 min | ZAR | Low | Net FX Reserves (USD) (Sep) |  |  | 65.899B |
-| 07:45 | EUR | Low | French Exports (Aug) |  |  | 52.1B |
-| 07:45 | EUR | Low | French Imports (Aug) |  |  | 57.7B |
-| 07:45 | EUR | Low | French Reserve Assets Total (Sep) |  |  | 304,802.0M |
-| 07:45 | EUR | Low | French Trade Balance (Aug) |  | -5.2B | -5.6B |
-| 08:00 | CHF | Low | Foreign Reserves (USD) (Sep) |  |  | 715,124.0B |
+| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Sep) | 1.3% | 2.2% | 2.0% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Sep) | -0.3% | 0.2% | 0.2% |
+| 07:00 | EUR | Moderate | German Factory Orders (MoM) (Aug) | -0.8% | 1.2% | -2.7% |
+| 07:00 | NOK | Low | Manufacturing Production (MoM) (Aug) | 0.7% |  | 0.0% |
+| 07:00 | ZAR | Low | Foreign Reserves (USD) (Sep) | 69.74B |  | 70.42B |
+| 07:00 | ZAR | Low | Net FX Reserves (USD) (Sep) | 67.865B |  | 65.899B |
+| 35 min | EUR | Low | French Exports (Aug) |  |  | 52.1B |
+| 35 min | EUR | Low | French Imports (Aug) |  |  | 57.7B |
+| 35 min | EUR | Low | French Reserve Assets Total (Sep) |  |  | 304,802.0M |
+| 35 min | EUR | Low | French Trade Balance (Aug) |  | -5.2B | -5.6B |
+| 50 min | CHF | Low | Foreign Reserves (USD) (Sep) |  |  | 715.1B |
 | 08:45 | EUR | Low | French Current Account (Aug) |  |  | -2.50B |
 | 09:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 1.986% |
 | 09:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 1.958% |
