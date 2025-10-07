@@ -7,9 +7,9 @@
 | 00:30 | JPY | Moderate | Household Spending (YoY) (Aug) | 2.3% | 1.4% | 1.4% |
 | 00:50 | JPY | Low | Foreign Reserves (USD) (Sep) | 1,341.3B |  | 1,324.2B |
 | 01:30 | AUD | Low | ANZ Job Advertisements (MoM) (Sep) | -3.3% |  | -0.3% |
-| 03:20 | CNY | Low | FX Reserves (USD) (Sep) | 3.339T |  | 3.322T |
-| 28 min | IDR | Low | FX Reserves (USD) (Sep) |  |  | 150.70B |
-| 04:35 | JPY | Low | 30-Year JGB Auction |  |  | 3.264% |
+| 03:00 | CNY | Low | FX Reserves (USD) (Sep) | 3.339T |  | 3.322T |
+| 04:00 | IDR | Low | FX Reserves (USD) (Sep) | 148.70B |  | 150.70B |
+| 18 min | JPY | Low | 30-Year JGB Auction |  |  | 3.264% |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Aug) |  |  | -1.8% |
 | 06:00 | JPY | Low | Leading Index (MoM) (Aug) |  |  | 1.1% |
 | 06:00 | JPY | Low | Leading Index (Aug) |  | 107.1 | 106.1 |
