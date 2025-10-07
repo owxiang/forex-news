@@ -13,8 +13,8 @@
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Aug) | -0.7% |  | 0.3% |
 | 06:00 | JPY | Low | Leading Index (MoM) (Aug) | 1.3% |  | 0.5% |
 | 06:00 | JPY | Low | Leading Index (Aug) | 107.4 | 107.1 | 106.1 |
-| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Sep) | -0.3% | 0.2% | 0.2% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Sep) | 1.3% | 2.2% | 2.0% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Sep) | -0.3% | 0.2% | 0.2% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Aug) | -0.8% | 1.2% | -2.7% |
 | 07:00 | NOK | Low | Manufacturing Production (MoM) (Aug) | 0.7% |  | 0.4% |
 | 07:00 | ZAR | Low | Foreign Reserves (USD) (Sep) | 69.74B |  | 70.42B |
@@ -25,12 +25,12 @@
 | 07:45 | EUR | Low | French Reserve Assets Total (Sep) | 330,268.0M |  | 304,802.0M |
 | 07:45 | EUR | Low | French Trade Balance (Aug) | -5.5B | -5.2B | -5.7B |
 | 08:00 | CHF | Low | Foreign Reserves (USD) (Sep) | 726.7B |  | 715.2B |
-| 31 min | EUR | Low | Spanish 12-Month Letras Auction |  |  | 1.986% |
-| 31 min | EUR | Low | Spanish 6-Month Letras Auction |  |  | 1.958% |
-| 51 min | GBP | Moderate | Mortgage Rate (GBP) (Sep) |  |  | 6.86% |
-| 51 min | SGD | Low | Foreign Reserves USD (MoM) (Sep) |  |  | 391.3B |
-| 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.290% |
-| 11:00 | CAD | Low | Leading Index (MoM) (Sep) |  |  | 0.14% |
+| 09:30 | GBP | Moderate | Mortgage Rate (GBP) (Sep) | 6.78% |  | 6.86% |
+| 09:40 | EUR | Low | Spanish 12-Month Letras Auction | 2.006% |  | 1.986% |
+| 09:40 | EUR | Low | Spanish 6-Month Letras Auction | 1.937% |  | 1.958% |
+| 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Sep) | 393.1B |  | 391.3B |
+| 22 min | EUR | Low | German 5-Year Bobl Auction |  |  | 2.290% |
+| 52 min | CAD | Low | Leading Index (MoM) (Sep) |  |  | 0.14% |
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Sep) |  |  | 0.20% |
 | 13:30 | USD | Moderate | Exports (Aug) |  |  | 280.50B |
 | 13:30 | USD | Moderate | Imports (Aug) |  |  | 358.80B |

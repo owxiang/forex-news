@@ -20,11 +20,11 @@
 | 07:45 | EUR | French Reserve Assets Total (Sep) | 330,268.0M |  | 304,802.0M |
 | 07:45 | EUR | French Trade Balance (Aug) | -5.5B | -5.2B | -5.7B |
 | 08:00 | CHF | Foreign Reserves (USD) (Sep) | 726.7B |  | 715.2B |
-| 31 min | EUR | Spanish 12-Month Letras Auction |  |  | 1.986% |
-| 31 min | EUR | Spanish 6-Month Letras Auction |  |  | 1.958% |
-| 51 min | SGD | Foreign Reserves USD (MoM) (Sep) |  |  | 391.3B |
-| 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.290% |
-| 11:00 | CAD | Leading Index (MoM) (Sep) |  |  | 0.14% |
+| 09:40 | EUR | Spanish 12-Month Letras Auction | 2.006% |  | 1.986% |
+| 09:40 | EUR | Spanish 6-Month Letras Auction | 1.937% |  | 1.958% |
+| 10:00 | SGD | Foreign Reserves USD (MoM) (Sep) | 393.1B |  | 391.3B |
+| 22 min | EUR | German 5-Year Bobl Auction |  |  | 2.290% |
+| 52 min | CAD | Leading Index (MoM) (Sep) |  |  | 0.14% |
 | 12:00 | BRL | IGP-DI Inflation Index (MoM) (Sep) |  |  | 0.20% |
 | 13:30 | CAD | Exports (Aug) |  |  | 61.86B |
 | 13:30 | CAD | Imports (Aug) |  |  | 66.80B |
