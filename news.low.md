@@ -24,12 +24,13 @@
 | 09:40 | EUR | Spanish 6-Month Letras Auction | 1.937% |  | 1.958% |
 | 10:00 | SGD | Foreign Reserves USD (MoM) (Sep) | 393.1B |  | 391.3B |
 | 10:30 | EUR | German 5-Year Bobl Auction | 2.310% |  | 2.290% |
+| 11:00 | CAD | Leading Index (MoM) (Sep) | 0.23% |  | 0.24% |
 | 12:00 | BRL | IGP-DI Inflation Index (MoM) (Sep) | 0.36% |  | 0.20% |
-| 13:30 | CAD | Exports (Aug) |  |  | 61.86B |
-| 13:30 | CAD | Imports (Aug) |  |  | 66.80B |
-| 13:55 | USD | Redbook (YoY) |  |  | 5.9% |
-| 14:00 | BRL | Auto Production (MoM) (Sep) |  |  | 3.0% |
-| 14:00 | BRL | Auto Sales (MoM) (Sep) |  |  | -7.3% |
+| 18 min | CAD | Exports (Aug) |  |  | 61.86B |
+| 18 min | CAD | Imports (Aug) |  |  | 66.80B |
+| 43 min | USD | Redbook (YoY) |  |  | 5.9% |
+| 48 min | BRL | Auto Production (MoM) (Sep) |  |  | 3.0% |
+| 48 min | BRL | Auto Sales (MoM) (Sep) |  |  | -7.3% |
 | 15:00 | CAD | Ivey PMI n.s.a (Sep) |  |  | 50.0 |
 | 15:10 | USD | IBD/TIPP Economic Optimism (Oct) |  | 49.3 | 48.7 |
 | 16:00 | USD | CB Employment Trends Index (Sep) |  |  | 106.41 |

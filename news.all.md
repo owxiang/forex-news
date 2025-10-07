@@ -30,13 +30,14 @@
 | 09:40 | EUR | Low | Spanish 6-Month Letras Auction | 1.937% |  | 1.958% |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Sep) | 393.1B |  | 391.3B |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction | 2.310% |  | 2.290% |
+| 11:00 | CAD | Low | Leading Index (MoM) (Sep) | 0.23% |  | 0.24% |
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Sep) | 0.36% |  | 0.20% |
-| 13:30 | CAD | Low | Exports (Aug) |  |  | 61.86B |
-| 13:30 | CAD | Low | Imports (Aug) |  |  | 66.80B |
-| 13:30 | CAD | Moderate | Trade Balance (Aug) |  | -5.70B | -4.94B |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 5.9% |
-| 14:00 | BRL | Low | Auto Production (MoM) (Sep) |  |  | 3.0% |
-| 14:00 | BRL | Low | Auto Sales (MoM) (Sep) |  |  | -7.3% |
+| 18 min | CAD | Low | Exports (Aug) |  |  | 61.86B |
+| 18 min | CAD | Low | Imports (Aug) |  |  | 66.80B |
+| 18 min | CAD | Moderate | Trade Balance (Aug) |  | -5.70B | -4.94B |
+| 43 min | USD | Low | Redbook (YoY) |  |  | 5.9% |
+| 48 min | BRL | Low | Auto Production (MoM) (Sep) |  |  | 3.0% |
+| 48 min | BRL | Low | Auto Sales (MoM) (Sep) |  |  | -7.3% |
 | 15:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 15:00 | CAD | Low | Ivey PMI n.s.a (Sep) |  |  | 50.0 |
 | 15:00 | CAD | Moderate | Ivey PMI (Sep) |  | 51.2 | 50.1 |
