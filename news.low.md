@@ -8,8 +8,8 @@
 | 03:00 | CNY | FX Reserves (USD) (Sep) | 3.339T |  | 3.322T |
 | 04:00 | IDR | FX Reserves (USD) (Sep) | 148.70B |  | 150.70B |
 | 04:35 | JPY | 30-Year JGB Auction | 3.248% |  | 3.264% |
-| 06:00 | JPY | Coincident Indicator (MoM) (Jul) | -0.7% |  | 0.3% |
-| 06:00 | JPY | Leading Index (MoM) (Jul) | 1.3% |  | 0.5% |
+| 06:00 | JPY | Coincident Indicator (MoM) (Aug) | -0.7% |  | 0.3% |
+| 06:00 | JPY | Leading Index (MoM) (Aug) | 1.3% |  | 0.5% |
 | 06:00 | JPY | Leading Index (Aug) | 107.4 | 107.1 | 106.1 |
 | 07:00 | NOK | Manufacturing Production (MoM) (Aug) | 0.7% |  | 0.4% |
 | 07:00 | ZAR | Foreign Reserves (USD) (Sep) | 69.74B |  | 70.42B |
@@ -19,10 +19,10 @@
 | 07:45 | EUR | French Imports (Aug) | 57.3B |  | 57.6B |
 | 07:45 | EUR | French Reserve Assets Total (Sep) | 330,268.0M |  | 304,802.0M |
 | 07:45 | EUR | French Trade Balance (Aug) | -5.5B | -5.2B | -5.7B |
-| 08:00 | CHF | Foreign Reserves (USD) (Sep) | 726,739.0B |  | 715,156.0B |
-| 09:40 | EUR | Spanish 12-Month Letras Auction |  |  | 1.986% |
-| 09:40 | EUR | Spanish 6-Month Letras Auction |  |  | 1.958% |
-| 10:00 | SGD | Foreign Reserves USD (MoM) (Sep) |  |  | 391.3B |
+| 08:00 | CHF | Foreign Reserves (USD) (Sep) | 726.7B |  | 715.2B |
+| 31 min | EUR | Spanish 12-Month Letras Auction |  |  | 1.986% |
+| 31 min | EUR | Spanish 6-Month Letras Auction |  |  | 1.958% |
+| 51 min | SGD | Foreign Reserves USD (MoM) (Sep) |  |  | 391.3B |
 | 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.290% |
 | 11:00 | CAD | Leading Index (MoM) (Sep) |  |  | 0.14% |
 | 12:00 | BRL | IGP-DI Inflation Index (MoM) (Sep) |  |  | 0.20% |

@@ -10,11 +10,11 @@
 | 03:00 | CNY | Low | FX Reserves (USD) (Sep) | 3.339T |  | 3.322T |
 | 04:00 | IDR | Low | FX Reserves (USD) (Sep) | 148.70B |  | 150.70B |
 | 04:35 | JPY | Low | 30-Year JGB Auction | 3.248% |  | 3.264% |
-| 06:00 | JPY | Low | Coincident Indicator (MoM) (Jul) | -0.7% |  | 0.3% |
-| 06:00 | JPY | Low | Leading Index (MoM) (Jul) | 1.3% |  | 0.5% |
+| 06:00 | JPY | Low | Coincident Indicator (MoM) (Aug) | -0.7% |  | 0.3% |
+| 06:00 | JPY | Low | Leading Index (MoM) (Aug) | 1.3% |  | 0.5% |
 | 06:00 | JPY | Low | Leading Index (Aug) | 107.4 | 107.1 | 106.1 |
-| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Sep) | 1.3% | 2.2% | 2.0% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Sep) | -0.3% | 0.2% | 0.2% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Sep) | 1.3% | 2.2% | 2.0% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Aug) | -0.8% | 1.2% | -2.7% |
 | 07:00 | NOK | Low | Manufacturing Production (MoM) (Aug) | 0.7% |  | 0.4% |
 | 07:00 | ZAR | Low | Foreign Reserves (USD) (Sep) | 69.74B |  | 70.42B |
@@ -24,11 +24,11 @@
 | 07:45 | EUR | Low | French Imports (Aug) | 57.3B |  | 57.6B |
 | 07:45 | EUR | Low | French Reserve Assets Total (Sep) | 330,268.0M |  | 304,802.0M |
 | 07:45 | EUR | Low | French Trade Balance (Aug) | -5.5B | -5.2B | -5.7B |
-| 08:00 | CHF | Low | Foreign Reserves (USD) (Sep) | 726,739.0B |  | 715,156.0B |
-| 09:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 1.986% |
-| 09:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 1.958% |
-| 10:00 | GBP | Moderate | Mortgage Rate (GBP) (Sep) |  |  | 6.86% |
-| 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Sep) |  |  | 391.3B |
+| 08:00 | CHF | Low | Foreign Reserves (USD) (Sep) | 726.7B |  | 715.2B |
+| 31 min | EUR | Low | Spanish 12-Month Letras Auction |  |  | 1.986% |
+| 31 min | EUR | Low | Spanish 6-Month Letras Auction |  |  | 1.958% |
+| 51 min | GBP | Moderate | Mortgage Rate (GBP) (Sep) |  |  | 6.86% |
+| 51 min | SGD | Low | Foreign Reserves USD (MoM) (Sep) |  |  | 391.3B |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.290% |
 | 11:00 | CAD | Low | Leading Index (MoM) (Sep) |  |  | 0.14% |
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Sep) |  |  | 0.20% |
