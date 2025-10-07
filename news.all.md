@@ -42,11 +42,11 @@
 | 15:05 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 15:10 | USD | Low | IBD/TIPP Economic Optimism (Oct) | 48.3 | 49.3 | 48.7 |
 | 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Sep) | 3.4% |  | 3.2% |
-| 23 min | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
-| 53 min | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
-| 53 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 17:10 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 3.485% |
-| 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 3.8% | 3.8% |
+| 16:30 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
+| 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 3.8% | 3.8% | 3.8% |
+| 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
+| 17:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 2 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 52 min | USD | Moderate | 3-Year Note Auction |  |  | 3.485% |
 | 20:00 | USD | Moderate | Consumer Credit (Aug) |  | 12.90B | 16.01B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -3.674M |
