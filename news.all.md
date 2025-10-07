@@ -9,10 +9,10 @@
 | 01:30 | AUD | Low | ANZ Job Advertisements (MoM) (Sep) | -3.3% |  | -0.3% |
 | 03:00 | CNY | Low | FX Reserves (USD) (Sep) | 3.339T |  | 3.322T |
 | 04:00 | IDR | Low | FX Reserves (USD) (Sep) | 148.70B |  | 150.70B |
-| 18 min | JPY | Low | 30-Year JGB Auction |  |  | 3.264% |
-| 06:00 | JPY | Low | Coincident Indicator (MoM) (Aug) |  |  | -1.8% |
-| 06:00 | JPY | Low | Leading Index (MoM) (Aug) |  |  | 1.1% |
-| 06:00 | JPY | Low | Leading Index (Aug) |  | 107.1 | 106.1 |
+| 04:35 | JPY | Low | 30-Year JGB Auction | 3.248% |  | 3.264% |
+| 52 min | JPY | Low | Coincident Indicator (MoM) (Aug) |  |  | -1.8% |
+| 52 min | JPY | Low | Leading Index (MoM) (Aug) |  |  | 1.1% |
+| 52 min | JPY | Low | Leading Index (Aug) |  | 107.1 | 106.1 |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Sep) |  |  | 2.2% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Sep) |  | 0.4% | 0.3% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Aug) |  | 1.3% | -2.9% |
