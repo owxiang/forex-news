@@ -4,13 +4,13 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | Household Spending (MoM) (Aug) | 0.6% | 0.1% | 1.7% |
 | 00:30 | JPY | Household Spending (YoY) (Aug) | 2.3% | 1.4% | 1.4% |
-| 07:00 | GBP | Halifax House Price Index (YoY) (Sep) |  |  | 2.2% |
-| 07:00 | GBP | Halifax House Price Index (MoM) (Sep) |  | 0.4% | 0.3% |
-| 07:00 | EUR | German Factory Orders (MoM) (Aug) |  | 1.3% | -2.9% |
+| 53 min | GBP | Halifax House Price Index (YoY) (Sep) |  | 2.2% | 2.2% |
+| 53 min | GBP | Halifax House Price Index (MoM) (Sep) |  | 0.2% | 0.3% |
+| 53 min | EUR | German Factory Orders (MoM) (Aug) |  | 1.2% | -2.9% |
 | 10:00 | GBP | Mortgage Rate (GBP) (Sep) |  |  | 6.86% |
 | 13:30 | USD | Exports (Aug) |  |  | 280.50B |
 | 13:30 | USD | Imports (Aug) |  |  | 358.80B |
-| 13:30 | USD | Trade Balance (Aug) |  | -61.20B | -78.30B |
+| 13:30 | USD | Trade Balance (Aug) |  | -61.40B | -78.30B |
 | 13:30 | CAD | Trade Balance (Aug) |  | -5.70B | -4.94B |
 | 15:00 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 15:00 | CAD | Ivey PMI (Sep) |  | 51.2 | 50.1 |
@@ -22,5 +22,5 @@
 | 17:10 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | 3-Year Note Auction |  |  | 3.485% |
 | 18:00 | USD | Atlanta Fed GDPNow (Q3) |  | 3.8% | 3.8% |
-| 20:00 | USD | Consumer Credit (Aug) |  | 14.90B | 16.01B |
+| 20:00 | USD | Consumer Credit (Aug) |  | 12.90B | 16.01B |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | -3.674M |

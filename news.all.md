@@ -10,15 +10,15 @@
 | 03:00 | CNY | Low | FX Reserves (USD) (Sep) | 3.339T |  | 3.322T |
 | 04:00 | IDR | Low | FX Reserves (USD) (Sep) | 148.70B |  | 150.70B |
 | 04:35 | JPY | Low | 30-Year JGB Auction | 3.248% |  | 3.264% |
-| 52 min | JPY | Low | Coincident Indicator (MoM) (Aug) |  |  | -1.8% |
-| 52 min | JPY | Low | Leading Index (MoM) (Aug) |  |  | 1.1% |
-| 52 min | JPY | Low | Leading Index (Aug) |  | 107.1 | 106.1 |
-| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Sep) |  |  | 2.2% |
-| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Sep) |  | 0.4% | 0.3% |
-| 07:00 | EUR | Moderate | German Factory Orders (MoM) (Aug) |  | 1.3% | -2.9% |
-| 07:00 | NOK | Low | Manufacturing Production (MoM) (Aug) |  |  | 0.0% |
-| 07:00 | ZAR | Low | Foreign Reserves (USD) (Sep) |  |  | 70.42B |
-| 07:00 | ZAR | Low | Net FX Reserves (USD) (Sep) |  |  | 65.899B |
+| 06:00 | JPY | Low | Coincident Indicator (MoM) (Jul) | -0.7% |  | 0.3% |
+| 06:00 | JPY | Low | Leading Index (MoM) (Jul) | 1.3% |  | 1.1% |
+| 06:00 | JPY | Low | Leading Index (Aug) | 107.4 | 107.1 | 106.1 |
+| 53 min | GBP | Moderate | Halifax House Price Index (YoY) (Sep) |  | 2.2% | 2.2% |
+| 53 min | GBP | Moderate | Halifax House Price Index (MoM) (Sep) |  | 0.2% | 0.3% |
+| 53 min | EUR | Moderate | German Factory Orders (MoM) (Aug) |  | 1.2% | -2.9% |
+| 53 min | NOK | Low | Manufacturing Production (MoM) (Aug) |  |  | 0.0% |
+| 53 min | ZAR | Low | Foreign Reserves (USD) (Sep) |  |  | 70.42B |
+| 53 min | ZAR | Low | Net FX Reserves (USD) (Sep) |  |  | 65.899B |
 | 07:45 | EUR | Low | French Exports (Aug) |  |  | 52.1B |
 | 07:45 | EUR | Low | French Imports (Aug) |  |  | 57.7B |
 | 07:45 | EUR | Low | French Reserve Assets Total (Sep) |  |  | 304,802.0M |
@@ -32,11 +32,9 @@
 | 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.290% |
 | 11:00 | CAD | Low | Leading Index (MoM) (Sep) |  |  | 0.14% |
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Sep) |  |  | 0.20% |
-| 13:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -0.8% |
-| 13:00 | USD | Low | Milk Auctions |  |  | 4,041.0 |
 | 13:30 | USD | Moderate | Exports (Aug) |  |  | 280.50B |
 | 13:30 | USD | Moderate | Imports (Aug) |  |  | 358.80B |
-| 13:30 | USD | Moderate | Trade Balance (Aug) |  | -61.20B | -78.30B |
+| 13:30 | USD | Moderate | Trade Balance (Aug) |  | -61.40B | -78.30B |
 | 13:30 | CAD | Low | Exports (Aug) |  |  | 61.86B |
 | 13:30 | CAD | Low | Imports (Aug) |  |  | 66.80B |
 | 13:30 | CAD | Moderate | Trade Balance (Aug) |  | -5.70B | -4.94B |
@@ -50,11 +48,13 @@
 | 15:10 | USD | Low | IBD/TIPP Economic Optimism (Oct) |  | 49.3 | 48.7 |
 | 16:00 | USD | Low | CB Employment Trends Index (Sep) |  |  | 106.41 |
 | 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Sep) |  |  | 3.2% |
+| 16:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -0.8% |
+| 16:00 | USD | Low | Milk Auctions |  |  | 4,041.0 |
 | 16:30 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 17:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 17:10 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 3.485% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 3.8% | 3.8% |
-| 20:00 | USD | Moderate | Consumer Credit (Aug) |  | 14.90B | 16.01B |
+| 20:00 | USD | Moderate | Consumer Credit (Aug) |  | 12.90B | 16.01B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -3.674M |
