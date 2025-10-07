@@ -8,9 +8,6 @@
 | 07:00 | GBP | Halifax House Price Index (MoM) (Sep) | -0.3% | 0.2% | 0.2% |
 | 07:00 | EUR | German Factory Orders (MoM) (Aug) | -0.8% | 1.2% | -2.7% |
 | 09:30 | GBP | Mortgage Rate (GBP) (Sep) | 6.78% |  | 6.86% |
-| 13:30 | USD | Exports (Aug) |  |  | 280.50B |
-| 13:30 | USD | Imports (Aug) |  |  | 358.80B |
-| 13:30 | USD | Trade Balance (Aug) |  | -61.40B | -78.30B |
 | 13:30 | CAD | Trade Balance (Aug) |  | -5.70B | -4.94B |
 | 15:00 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 15:00 | CAD | Ivey PMI (Sep) |  | 51.2 | 50.1 |
