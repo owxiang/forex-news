@@ -30,7 +30,4 @@
 | 13:30 | CAD | Imports (Aug) | 66.91B |  | 66.28B |
 | 13:55 | USD | Redbook (YoY) | 5.8% |  | 5.9% |
 | 15:00 | CAD | Ivey PMI n.s.a (Sep) | 61.6 |  | 50.0 |
-| 2 min | USD | IBD/TIPP Economic Optimism (Oct) |  | 49.3 | 48.7 |
-| 52 min | USD | CB Employment Trends Index (Sep) |  |  | 106.41 |
-| 52 min | NZD | GlobalDairyTrade Price Index |  |  | -0.8% |
-| 52 min | USD | Milk Auctions |  |  | 4,041.0 |
+| 15:10 | USD | IBD/TIPP Economic Optimism (Oct) | 48.3 | 49.3 | 48.7 |

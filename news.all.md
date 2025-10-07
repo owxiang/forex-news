@@ -40,14 +40,11 @@
 | 15:00 | CAD | Low | Ivey PMI n.s.a (Sep) | 61.6 |  | 50.0 |
 | 15:00 | CAD | Moderate | Ivey PMI (Sep) | 59.8 | 51.2 | 50.1 |
 | 15:05 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 2 min | USD | Low | IBD/TIPP Economic Optimism (Oct) |  | 49.3 | 48.7 |
-| 52 min | USD | Low | CB Employment Trends Index (Sep) |  |  | 106.41 |
-| 52 min | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Sep) |  |  | 3.2% |
-| 52 min | NZD | Low | GlobalDairyTrade Price Index |  |  | -0.8% |
-| 52 min | USD | Low | Milk Auctions |  |  | 4,041.0 |
-| 16:30 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
-| 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
-| 17:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 15:10 | USD | Low | IBD/TIPP Economic Optimism (Oct) | 48.3 | 49.3 | 48.7 |
+| 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Sep) | 3.4% |  | 3.2% |
+| 23 min | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
+| 53 min | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
+| 53 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 17:10 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 3.485% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 3.8% | 3.8% |

@@ -12,10 +12,10 @@
 | 15:00 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 15:00 | CAD | Ivey PMI (Sep) | 59.8 | 51.2 | 50.1 |
 | 15:05 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 52 min | USD | NY Fed 1-Year Consumer Inflation Expectations (Sep) |  |  | 3.2% |
-| 16:30 | USD | FOMC Member Kashkari Speaks |  |  |  |
-| 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
-| 17:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Sep) | 3.4% |  | 3.2% |
+| 23 min | USD | FOMC Member Kashkari Speaks |  |  |  |
+| 53 min | USD | EIA Short-Term Energy Outlook |  |  |  |
+| 53 min | EUR | German Buba President Nagel Speaks |  |  |  |
 | 17:10 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | 3-Year Note Auction |  |  | 3.485% |
 | 18:00 | USD | Atlanta Fed GDPNow (Q3) |  | 3.8% | 3.8% |
