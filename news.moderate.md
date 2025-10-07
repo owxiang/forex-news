@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | JPY | Household Spending (MoM) (Aug) | 0.6% | 0.1% | 1.7% |
 | 00:30 | JPY | Household Spending (YoY) (Aug) | 2.3% | 1.4% | 1.4% |
+| 00:30 | JPY | Household Spending (MoM) (Aug) | 0.6% | 0.1% | 1.7% |
 | 07:00 | GBP | Halifax House Price Index (YoY) (Sep) | 1.3% | 2.2% | 2.0% |
 | 07:00 | GBP | Halifax House Price Index (MoM) (Sep) | -0.3% | 0.2% | 0.2% |
 | 07:00 | EUR | German Factory Orders (MoM) (Aug) | -0.8% | 1.2% | -2.7% |
@@ -19,5 +19,5 @@
 | 17:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 17:10 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | 3-Year Note Auction | 3.576% |  | 3.485% |
-| 20:00 | USD | Consumer Credit (Aug) |  | 12.90B | 16.01B |
+| 51 min | USD | Consumer Credit (Aug) |  | 12.90B | 16.01B |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | -3.674M |
