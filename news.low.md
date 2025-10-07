@@ -28,9 +28,9 @@
 | 12:00 | BRL | IGP-DI Inflation Index (MoM) (Sep) | 0.36% |  | 0.20% |
 | 13:30 | CAD | Exports (Aug) | 60.58B |  | 62.46B |
 | 13:30 | CAD | Imports (Aug) | 66.91B |  | 66.28B |
-| 41 min | USD | Redbook (YoY) |  |  | 5.9% |
-| 46 min | CAD | Ivey PMI n.s.a (Sep) |  |  | 50.0 |
-| 56 min | USD | IBD/TIPP Economic Optimism (Oct) |  | 49.3 | 48.7 |
-| 16:00 | USD | CB Employment Trends Index (Sep) |  |  | 106.41 |
-| 16:00 | NZD | GlobalDairyTrade Price Index |  |  | -0.8% |
-| 16:00 | USD | Milk Auctions |  |  | 4,041.0 |
+| 13:55 | USD | Redbook (YoY) | 5.8% |  | 5.9% |
+| 15:00 | CAD | Ivey PMI n.s.a (Sep) | 61.6 |  | 50.0 |
+| 2 min | USD | IBD/TIPP Economic Optimism (Oct) |  | 49.3 | 48.7 |
+| 52 min | USD | CB Employment Trends Index (Sep) |  |  | 106.41 |
+| 52 min | NZD | GlobalDairyTrade Price Index |  |  | -0.8% |
+| 52 min | USD | Milk Auctions |  |  | 4,041.0 |

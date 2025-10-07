@@ -9,10 +9,10 @@
 | 07:00 | EUR | German Factory Orders (MoM) (Aug) | -0.8% | 1.2% | -2.7% |
 | 09:30 | GBP | Mortgage Rate (GBP) (Sep) | 6.78% |  | 6.86% |
 | 13:30 | CAD | Trade Balance (Aug) | -6.32B | -5.70B | -3.82B |
-| 46 min | USD | FOMC Member Bostic Speaks |  |  |  |
-| 46 min | CAD | Ivey PMI (Sep) |  | 51.2 | 50.1 |
-| 51 min | USD | FOMC Member Bowman Speaks |  |  |  |
-| 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Sep) |  |  | 3.2% |
+| 15:00 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 15:00 | CAD | Ivey PMI (Sep) | 59.8 | 51.2 | 50.1 |
+| 15:05 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 52 min | USD | NY Fed 1-Year Consumer Inflation Expectations (Sep) |  |  | 3.2% |
 | 16:30 | USD | FOMC Member Kashkari Speaks |  |  |  |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 17:00 | EUR | German Buba President Nagel Speaks |  |  |  |
