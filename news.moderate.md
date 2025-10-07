@@ -17,7 +17,7 @@
 | 17:00 | USD | Atlanta Fed GDPNow (Q3) | 3.8% | 3.8% | 3.8% |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 17:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 2 min | EUR | ECB President Lagarde Speaks |  |  |  |
-| 52 min | USD | 3-Year Note Auction |  |  | 3.485% |
+| 17:10 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 18:00 | USD | 3-Year Note Auction | 3.576% |  | 3.485% |
 | 20:00 | USD | Consumer Credit (Aug) |  | 12.90B | 16.01B |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | -3.674M |

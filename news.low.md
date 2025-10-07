@@ -31,3 +31,5 @@
 | 13:55 | USD | Redbook (YoY) | 5.8% |  | 5.9% |
 | 15:00 | CAD | Ivey PMI n.s.a (Sep) | 61.6 |  | 50.0 |
 | 15:10 | USD | IBD/TIPP Economic Optimism (Oct) | 48.3 | 49.3 | 48.7 |
+| 16:00 | NZD | GlobalDairyTrade Price Index | -1.6% |  | -0.8% |
+| 16:00 | USD | Milk Auctions | 3,921.0 |  | 4,041.0 |
