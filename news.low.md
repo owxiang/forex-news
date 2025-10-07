@@ -26,13 +26,11 @@
 | 10:30 | EUR | German 5-Year Bobl Auction | 2.310% |  | 2.290% |
 | 11:00 | CAD | Leading Index (MoM) (Sep) | 0.23% |  | 0.24% |
 | 12:00 | BRL | IGP-DI Inflation Index (MoM) (Sep) | 0.36% |  | 0.20% |
-| 18 min | CAD | Exports (Aug) |  |  | 61.86B |
-| 18 min | CAD | Imports (Aug) |  |  | 66.80B |
-| 43 min | USD | Redbook (YoY) |  |  | 5.9% |
-| 48 min | BRL | Auto Production (MoM) (Sep) |  |  | 3.0% |
-| 48 min | BRL | Auto Sales (MoM) (Sep) |  |  | -7.3% |
-| 15:00 | CAD | Ivey PMI n.s.a (Sep) |  |  | 50.0 |
-| 15:10 | USD | IBD/TIPP Economic Optimism (Oct) |  | 49.3 | 48.7 |
+| 13:30 | CAD | Exports (Aug) | 60.58B |  | 62.46B |
+| 13:30 | CAD | Imports (Aug) | 66.91B |  | 66.28B |
+| 41 min | USD | Redbook (YoY) |  |  | 5.9% |
+| 46 min | CAD | Ivey PMI n.s.a (Sep) |  |  | 50.0 |
+| 56 min | USD | IBD/TIPP Economic Optimism (Oct) |  | 49.3 | 48.7 |
 | 16:00 | USD | CB Employment Trends Index (Sep) |  |  | 106.41 |
 | 16:00 | NZD | GlobalDairyTrade Price Index |  |  | -0.8% |
 | 16:00 | USD | Milk Auctions |  |  | 4,041.0 |

@@ -32,17 +32,15 @@
 | 10:30 | EUR | Low | German 5-Year Bobl Auction | 2.310% |  | 2.290% |
 | 11:00 | CAD | Low | Leading Index (MoM) (Sep) | 0.23% |  | 0.24% |
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Sep) | 0.36% |  | 0.20% |
-| 18 min | CAD | Low | Exports (Aug) |  |  | 61.86B |
-| 18 min | CAD | Low | Imports (Aug) |  |  | 66.80B |
-| 18 min | CAD | Moderate | Trade Balance (Aug) |  | -5.70B | -4.94B |
-| 43 min | USD | Low | Redbook (YoY) |  |  | 5.9% |
-| 48 min | BRL | Low | Auto Production (MoM) (Sep) |  |  | 3.0% |
-| 48 min | BRL | Low | Auto Sales (MoM) (Sep) |  |  | -7.3% |
-| 15:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 15:00 | CAD | Low | Ivey PMI n.s.a (Sep) |  |  | 50.0 |
-| 15:00 | CAD | Moderate | Ivey PMI (Sep) |  | 51.2 | 50.1 |
-| 15:05 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 15:10 | USD | Low | IBD/TIPP Economic Optimism (Oct) |  | 49.3 | 48.7 |
+| 13:30 | CAD | Low | Exports (Aug) | 60.58B |  | 62.46B |
+| 13:30 | CAD | Low | Imports (Aug) | 66.91B |  | 66.28B |
+| 13:30 | CAD | Moderate | Trade Balance (Aug) | -6.32B | -5.70B | -3.82B |
+| 41 min | USD | Low | Redbook (YoY) |  |  | 5.9% |
+| 46 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 46 min | CAD | Low | Ivey PMI n.s.a (Sep) |  |  | 50.0 |
+| 46 min | CAD | Moderate | Ivey PMI (Sep) |  | 51.2 | 50.1 |
+| 51 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 56 min | USD | Low | IBD/TIPP Economic Optimism (Oct) |  | 49.3 | 48.7 |
 | 16:00 | USD | Low | CB Employment Trends Index (Sep) |  |  | 106.41 |
 | 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Sep) |  |  | 3.2% |
 | 16:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -0.8% |
