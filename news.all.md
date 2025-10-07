@@ -29,9 +29,9 @@
 | 09:40 | EUR | Low | Spanish 12-Month Letras Auction | 2.006% |  | 1.986% |
 | 09:40 | EUR | Low | Spanish 6-Month Letras Auction | 1.937% |  | 1.958% |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Sep) | 393.1B |  | 391.3B |
-| 22 min | EUR | Low | German 5-Year Bobl Auction |  |  | 2.290% |
-| 52 min | CAD | Low | Leading Index (MoM) (Sep) |  |  | 0.14% |
-| 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Sep) |  |  | 0.20% |
+| 10:30 | EUR | Low | German 5-Year Bobl Auction | 2.310% |  | 2.290% |
+| 11:00 | CAD | Low | Leading Index (MoM) (Sep) |  |  | 0.14% |
+| 53 min | BRL | Low | IGP-DI Inflation Index (MoM) (Sep) |  |  | 0.20% |
 | 13:30 | USD | Moderate | Exports (Aug) |  |  | 280.50B |
 | 13:30 | USD | Moderate | Imports (Aug) |  |  | 358.80B |
 | 13:30 | USD | Moderate | Trade Balance (Aug) |  | -61.40B | -78.30B |
