@@ -51,4 +51,4 @@
 | 17:10 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | Moderate | 3-Year Note Auction | 3.576% |  | 3.485% |
 | 20:00 | USD | Moderate | Consumer Credit (Aug) | 0.36B | 12.90B | 18.05B |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -3.674M |
+| 23 min | USD | Moderate | API Weekly Crude Oil Stock |  |  | -3.674M |

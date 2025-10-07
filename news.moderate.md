@@ -20,4 +20,4 @@
 | 17:10 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | 3-Year Note Auction | 3.576% |  | 3.485% |
 | 20:00 | USD | Consumer Credit (Aug) | 0.36B | 12.90B | 18.05B |
-| 21:30 | USD | API Weekly Crude Oil Stock |  |  | -3.674M |
+| 23 min | USD | API Weekly Crude Oil Stock |  |  | -3.674M |
