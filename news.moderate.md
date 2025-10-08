@@ -1,18 +1,26 @@
-## 08 October 2025 - Moderate Impact Forex News
+## 09 October 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Adjusted Current Account (Aug) | 2.46T | 2.45T | 1.88T |
-| 00:50 | JPY | Current Account n.s.a. (Aug) | 3.776T | 3.540T | 2.684T |
-| 01:30 | AUD | Building Approvals (MoM) (Aug) | -6.0% | -6.0% | -8.2% |
-| 02:00 | NZD | RBNZ Rate Statement |  |  |  |
-| 07:00 | EUR | German Industrial Production (MoM) (Aug) | -4.3% | -1.0% | 1.3% |
-| 10:15 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 11:30 | EUR | ECB's Elderson Speaks |  |  |  |
-| 14:00 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 14:30 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 15:30 | USD | Cushing Crude Oil Inventories | -0.763M |  | -0.271M |
-| 16:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 17:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 20:15 | USD | FOMC Member Kashkari Speaks |  |  |  |
-| 22:45 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 00:01 | GBP | RICS House Price Balance (Sep) | -15% | -18% | -18% |
+| 07:00 | EUR | German Trade Balance (Aug) |  | 15.1B | 14.7B |
+| 08:00 | EUR | German Buba Balz Speaks |  |  |  |
+| 09:30 | GBP | BoE MPC Member Mann Speaks |  |  |  |
+| 11:00 | EUR | Eurogroup Meetings |  |  |  |
+| 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 13:00 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
+| 13:00 | MXN | CPI (MoM) (Sep) |  | 0.27% | 0.06% |
+| 13:00 | MXN | CPI (YoY) (Sep) |  | 3.79% | 3.57% |
+| 13:00 | BRL | CPI (YoY) (Sep) |  | 5.22% | 5.13% |
+| 13:30 | USD | Continuing Jobless Claims |  | 1,930K | 1,926K |
+| 13:35 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 16:00 | USD | Construction Spending (MoM) (Aug) |  | -0.1% | -0.1% |
+| 16:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
+| 16:00 | EUR | ECB's Lane Speaks |  |  |  |
+| 17:00 | USD | WASDE Report |  |  |  |
+| 17:45 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 18:00 | USD | Atlanta Fed GDPNow (Q3) |  |  |  |
+| 20:45 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 6,587B |
+| 22:30 | NZD | Business NZ PMI (Sep) |  |  | 49.9 |
+| 23:00 | AUD | RBA Assist Gov Kent Speaks |  |  |  |
