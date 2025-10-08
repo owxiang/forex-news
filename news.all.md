@@ -14,8 +14,8 @@
 | 02:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
 | 04:00 | IDR | Low | Consumer Confidence (Sep) | 115.0 |  | 117.2 |
 | 06:00 | JPY | Low | Economy Watchers Current Index (Sep) | 47.1 | 47.0 | 46.7 |
-| 52 min | EUR | Moderate | German Industrial Production (MoM) (Aug) |  | -1.0% | 1.3% |
-| 52 min | EUR | Low | German Industrial Production (YoY) (Aug) |  |  | 1.53% |
+| 07:00 | EUR | Moderate | German Industrial Production (MoM) (Aug) | -4.3% | -1.0% | 1.3% |
+| 07:00 | EUR | Low | German Industrial Production (YoY) (Aug) | -3.90% |  | 1.53% |
 | 09:30 | HKD | Low | Foreign Reserves (USD) (Sep) |  |  | 421.60B |
 | 10:15 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 10:30 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.095% |
@@ -35,7 +35,7 @@
 | 14:30 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 15:00 | USD | Moderate | Construction Spending (MoM) (Aug) |  | -0.1% | -0.1% |
 | 15:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 15:30 | USD | High | Crude Oil Inventories |  | 2.250M | 1.792M |
+| 15:30 | USD | High | Crude Oil Inventories |  | 0.400M | 1.792M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.308M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 0.071M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.271M |
