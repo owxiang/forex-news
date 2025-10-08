@@ -8,12 +8,11 @@
 | 00:30 | JPY | Low | Overtime Pay (YoY) (Aug) | 1.30% |  | 3.00% |
 | 00:50 | JPY | Moderate | Adjusted Current Account (Aug) | 2.46T | 2.45T | 1.88T |
 | 00:50 | JPY | Moderate | Current Account n.s.a. (Aug) | 3.776T | 3.540T | 2.684T |
-| 2 min | AUD | Moderate | Building Approvals (MoM) (Aug) |  | -6.0% | -8.2% |
-| 2 min | AUD | Moderate | NAB Business Confidence (Sep) |  |  | 4 |
-| 2 min | AUD | Low | Private House Approvals (Aug) |  | -2.6% | 1.1% |
-| 32 min | NZD | High | RBNZ Interest Rate Decision |  | 2.75% | 3.00% |
-| 32 min | NZD | Moderate | RBNZ Rate Statement |  |  |  |
-| 03:00 | IDR | Low | Motorbike Sales (YoY) (Sep) |  |  | 0.70% |
+| 01:30 | AUD | Moderate | Building Approvals (MoM) (Aug) | -6.0% | -6.0% | -8.2% |
+| 01:30 | AUD | Low | Private House Approvals (Aug) | -2.6% | -2.6% | 1.1% |
+| 02:00 | NZD | High | RBNZ Interest Rate Decision | 2.50% | 2.75% | 3.00% |
+| 02:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
+| 26 min | IDR | Low | Motorbike Sales (YoY) (Sep) |  |  | 0.70% |
 | 04:00 | IDR | Low | Consumer Confidence (Sep) |  |  | 117.2 |
 | 06:00 | JPY | Low | Economy Watchers Current Index (Sep) |  | 47.0 | 46.7 |
 | 07:00 | EUR | Moderate | German Industrial Production (MoM) (Aug) |  | -1.0% | 1.3% |
