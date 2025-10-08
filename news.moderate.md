@@ -9,9 +9,9 @@
 | 07:00 | EUR | German Industrial Production (MoM) (Aug) | -4.3% | -1.0% | 1.3% |
 | 10:15 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 11:30 | EUR | ECB's Elderson Speaks |  |  |  |
-| 48 min | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 14:30 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 15:00 | USD | Construction Spending (MoM) (Aug) |  | -0.1% | -0.1% |
+| 14:00 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
+| 16 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 46 min | USD | Construction Spending (MoM) (Aug) |  | -0.1% | -0.1% |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.271M |
 | 16:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 17:00 | EUR | ECB President Lagarde Speaks |  |  |  |
