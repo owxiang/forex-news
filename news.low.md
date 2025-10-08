@@ -8,8 +8,8 @@
 | 00:30 | JPY | Overtime Pay (YoY) (Aug) | 1.30% |  | 3.00% |
 | 01:30 | AUD | Private House Approvals (Aug) | -2.6% | -2.6% | 1.1% |
 | 04:00 | IDR | Consumer Confidence (Sep) | 115.0 |  | 117.2 |
-| 52 min | JPY | Economy Watchers Current Index (Sep) |  | 47.0 | 46.7 |
-| 07:00 | EUR | German Industrial Production (YoY) (Aug) |  |  | 1.53% |
+| 06:00 | JPY | Economy Watchers Current Index (Sep) | 47.1 | 47.0 | 46.7 |
+| 52 min | EUR | German Industrial Production (YoY) (Aug) |  |  | 1.53% |
 | 09:30 | HKD | Foreign Reserves (USD) (Sep) |  |  | 421.60B |
 | 10:30 | GBP | 5-Year Treasury Gilt Auction |  |  | 4.095% |
 | 10:30 | GBP | BoE FPC Meeting Minutes |  |  |  |
@@ -27,11 +27,11 @@
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.308M |
 | 15:30 | USD | Crude Oil Imports |  |  | 0.071M |
 | 15:30 | USD | Distillate Fuel Production |  |  | -0.025M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | 0.578M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  | -0.730M | 0.578M |
 | 15:30 | USD | Gasoline Production |  |  | -0.363M |
 | 15:30 | USD | Heating Oil Stockpiles |  |  | 0.187M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.6% |
-| 15:30 | USD | Gasoline Inventories |  |  | 4.125M |
+| 15:30 | USD | Gasoline Inventories |  | -1.380M | 4.125M |
 | 16:00 | USD | Thomson Reuters IPSOS PCSI (Oct) |  |  | 52.37 |
 | 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 47.79 |
 | 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 52.74 |

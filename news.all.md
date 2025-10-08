@@ -13,9 +13,9 @@
 | 02:00 | NZD | High | RBNZ Interest Rate Decision | 2.50% | 2.75% | 3.00% |
 | 02:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
 | 04:00 | IDR | Low | Consumer Confidence (Sep) | 115.0 |  | 117.2 |
-| 52 min | JPY | Low | Economy Watchers Current Index (Sep) |  | 47.0 | 46.7 |
-| 07:00 | EUR | Moderate | German Industrial Production (MoM) (Aug) |  | -1.0% | 1.3% |
-| 07:00 | EUR | Low | German Industrial Production (YoY) (Aug) |  |  | 1.53% |
+| 06:00 | JPY | Low | Economy Watchers Current Index (Sep) | 47.1 | 47.0 | 46.7 |
+| 52 min | EUR | Moderate | German Industrial Production (MoM) (Aug) |  | -1.0% | 1.3% |
+| 52 min | EUR | Low | German Industrial Production (YoY) (Aug) |  |  | 1.53% |
 | 09:30 | HKD | Low | Foreign Reserves (USD) (Sep) |  |  | 421.60B |
 | 10:15 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 10:30 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.095% |
@@ -35,16 +35,16 @@
 | 14:30 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 15:00 | USD | Moderate | Construction Spending (MoM) (Aug) |  | -0.1% | -0.1% |
 | 15:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 15:30 | USD | High | Crude Oil Inventories |  |  | 1.792M |
+| 15:30 | USD | High | Crude Oil Inventories |  | 2.250M | 1.792M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.308M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 0.071M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.271M |
 | 15:30 | USD | Low | Distillate Fuel Production |  |  | -0.025M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  |  | 0.578M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | -0.730M | 0.578M |
 | 15:30 | USD | Low | Gasoline Production |  |  | -0.363M |
 | 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.187M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.6% |
-| 15:30 | USD | Low | Gasoline Inventories |  |  | 4.125M |
+| 15:30 | USD | Low | Gasoline Inventories |  | -1.380M | 4.125M |
 | 16:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 16:00 | USD | Low | Thomson Reuters IPSOS PCSI (Oct) |  |  | 52.37 |
 | 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 47.79 |
