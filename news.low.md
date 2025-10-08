@@ -10,10 +10,10 @@
 | 04:00 | IDR | Consumer Confidence (Sep) | 115.0 |  | 117.2 |
 | 06:00 | JPY | Economy Watchers Current Index (Sep) | 47.1 | 47.0 | 46.7 |
 | 07:00 | EUR | German Industrial Production (YoY) (Aug) | -4.20% |  | 1.53% |
-| 20 min | HKD | Foreign Reserves (USD) (Sep) |  |  | 421.60B |
-| 10:30 | GBP | 5-Year Treasury Gilt Auction |  |  | 4.095% |
-| 10:30 | GBP | BoE FPC Meeting Minutes |  |  |  |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 09:30 | HKD | Foreign Reserves (USD) (Sep) | 419.20B |  | 421.60B |
+| 22 min | GBP | 5-Year Treasury Gilt Auction |  |  | 4.095% |
+| 22 min | GBP | BoE FPC Meeting Minutes |  |  |  |
+| 52 min | EUR | German Buba Monthly Report |  |  |  |
 | 12:00 | USD | CB Employment Trends Index (Sep) |  |  | 106.41 |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.46% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -12.7% |
