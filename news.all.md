@@ -16,19 +16,19 @@
 | 06:00 | JPY | Low | Economy Watchers Current Index (Sep) | 47.1 | 47.0 | 46.7 |
 | 07:00 | EUR | Moderate | German Industrial Production (MoM) (Aug) | -4.3% | -1.0% | 1.3% |
 | 07:00 | EUR | Low | German Industrial Production (YoY) (Aug) | -4.20% |  | 1.53% |
+| 09:15 | EUR | Low | German Car Registration (YoY) (Sep) | 12.8% |  | 5.0% |
 | 09:30 | HKD | Low | Foreign Reserves (USD) (Sep) | 419.20B |  | 421.60B |
-| 7 min | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 22 min | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.095% |
-| 22 min | GBP | Low | BoE FPC Meeting Minutes |  |  |  |
-| 52 min | EUR | Low | German Buba Monthly Report |  |  |  |
-| 11:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 12:00 | USD | Low | CB Employment Trends Index (Sep) |  |  | 106.41 |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.46% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -12.7% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 172.7 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 339.1 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 1,278.6 |
-| 13:00 | EUR | Low | German Car Registration (YoY) (Sep) |  |  | 5.0% |
+| 10:15 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
+| 10:30 | GBP | Low | 5-Year Treasury Gilt Auction | 4.095% |  | 4.095% |
+| 10:30 | GBP | Low | BoE FPC Meeting Minutes |  |  |  |
+| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 23 min | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 53 min | USD | Low | CB Employment Trends Index (Sep) |  |  | 106.41 |
+| 53 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.46% |
+| 53 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -12.7% |
+| 53 min | USD | Low | MBA Purchase Index |  |  | 172.7 |
+| 53 min | USD | Low | Mortgage Market Index |  |  | 339.1 |
+| 53 min | USD | Low | Mortgage Refinance Index |  |  | 1,278.6 |
 | 14:00 | BRL | Low | Auto Production (MoM) (Sep) |  |  | 3.0% |
 | 14:00 | BRL | Low | Auto Sales (MoM) (Sep) |  |  | -7.3% |
 | 14:00 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |

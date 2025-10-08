@@ -10,17 +10,17 @@
 | 04:00 | IDR | Consumer Confidence (Sep) | 115.0 |  | 117.2 |
 | 06:00 | JPY | Economy Watchers Current Index (Sep) | 47.1 | 47.0 | 46.7 |
 | 07:00 | EUR | German Industrial Production (YoY) (Aug) | -4.20% |  | 1.53% |
+| 09:15 | EUR | German Car Registration (YoY) (Sep) | 12.8% |  | 5.0% |
 | 09:30 | HKD | Foreign Reserves (USD) (Sep) | 419.20B |  | 421.60B |
-| 22 min | GBP | 5-Year Treasury Gilt Auction |  |  | 4.095% |
-| 22 min | GBP | BoE FPC Meeting Minutes |  |  |  |
-| 52 min | EUR | German Buba Monthly Report |  |  |  |
-| 12:00 | USD | CB Employment Trends Index (Sep) |  |  | 106.41 |
-| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.46% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -12.7% |
-| 12:00 | USD | MBA Purchase Index |  |  | 172.7 |
-| 12:00 | USD | Mortgage Market Index |  |  | 339.1 |
-| 12:00 | USD | Mortgage Refinance Index |  |  | 1,278.6 |
-| 13:00 | EUR | German Car Registration (YoY) (Sep) |  |  | 5.0% |
+| 10:30 | GBP | 5-Year Treasury Gilt Auction | 4.095% |  | 4.095% |
+| 10:30 | GBP | BoE FPC Meeting Minutes |  |  |  |
+| 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 53 min | USD | CB Employment Trends Index (Sep) |  |  | 106.41 |
+| 53 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.46% |
+| 53 min | USD | MBA Mortgage Applications (WoW) |  |  | -12.7% |
+| 53 min | USD | MBA Purchase Index |  |  | 172.7 |
+| 53 min | USD | Mortgage Market Index |  |  | 339.1 |
+| 53 min | USD | Mortgage Refinance Index |  |  | 1,278.6 |
 | 14:00 | BRL | Auto Production (MoM) (Sep) |  |  | 3.0% |
 | 14:00 | BRL | Auto Sales (MoM) (Sep) |  |  | -7.3% |
 | 15:00 | USD | Fed Goolsbee Speaks |  |  |  |

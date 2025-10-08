@@ -7,8 +7,8 @@
 | 01:30 | AUD | Building Approvals (MoM) (Aug) | -6.0% | -6.0% | -8.2% |
 | 02:00 | NZD | RBNZ Rate Statement |  |  |  |
 | 07:00 | EUR | German Industrial Production (MoM) (Aug) | -4.3% | -1.0% | 1.3% |
-| 7 min | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 11:30 | EUR | ECB's Elderson Speaks |  |  |  |
+| 10:15 | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 23 min | EUR | ECB's Elderson Speaks |  |  |  |
 | 14:00 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 14:30 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 15:00 | USD | Construction Spending (MoM) (Aug) |  | -0.1% | -0.1% |
