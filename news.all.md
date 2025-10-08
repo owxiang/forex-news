@@ -12,8 +12,8 @@
 | 01:30 | AUD | Low | Private House Approvals (Aug) | -2.6% | -2.6% | 1.1% |
 | 02:00 | NZD | High | RBNZ Interest Rate Decision | 2.50% | 2.75% | 3.00% |
 | 02:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
-| 26 min | IDR | Low | Motorbike Sales (YoY) (Sep) |  |  | 0.70% |
-| 04:00 | IDR | Low | Consumer Confidence (Sep) |  |  | 117.2 |
+| 28 min | IDR | Low | Consumer Confidence (Sep) |  |  | 117.2 |
+| 28 min | IDR | Low | Motorbike Sales (YoY) (Sep) |  |  | 0.70% |
 | 06:00 | JPY | Low | Economy Watchers Current Index (Sep) |  | 47.0 | 46.7 |
 | 07:00 | EUR | Moderate | German Industrial Production (MoM) (Aug) |  | -1.0% | 1.3% |
 | 07:00 | EUR | Low | German Industrial Production (YoY) (Aug) |  |  | 1.53% |
