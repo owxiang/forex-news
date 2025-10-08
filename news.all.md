@@ -53,6 +53,6 @@
 | 18:00 | USD | High | 10-Year Note Auction | 4.117% |  | 4.033% |
 | 18:15 | USD | Low | Fed Logan Speaks |  |  |  |
 | 18:30 | BRL | Low | Foreign Exchange Flows | -1.056B |  | 1.141B |
-| 51 min | USD | High | FOMC Meeting Minutes |  |  |  |
-| 20:15 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
+| 20:00 | USD | High | FOMC Meeting Minutes |  |  |  |
+| 9 min | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 22:45 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
