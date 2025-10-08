@@ -22,13 +22,14 @@
 | 10:30 | GBP | Low | 5-Year Treasury Gilt Auction | 4.095% |  | 4.095% |
 | 10:30 | GBP | Low | BoE FPC Meeting Minutes |  |  |  |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 23 min | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 53 min | USD | Low | CB Employment Trends Index (Sep) |  |  | 106.41 |
-| 53 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.46% |
-| 53 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -12.7% |
-| 53 min | USD | Low | MBA Purchase Index |  |  | 172.7 |
-| 53 min | USD | Low | Mortgage Market Index |  |  | 339.1 |
-| 53 min | USD | Low | Mortgage Refinance Index |  |  | 1,278.6 |
+| 11:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 11:40 | IDR | Low | Car Sales (YoY) (Sep) | -15.10% |  | -19.00% |
+| 12:00 | USD | Low | CB Employment Trends Index (Sep) |  |  | 106.41 |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.43% |  | 6.46% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | -4.7% |  | -12.7% |
+| 12:00 | USD | Low | MBA Purchase Index | 170.6 |  | 172.7 |
+| 12:00 | USD | Low | Mortgage Market Index | 323.1 |  | 339.1 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 1,180.2 |  | 1,278.6 |
 | 14:00 | BRL | Low | Auto Production (MoM) (Sep) |  |  | 3.0% |
 | 14:00 | BRL | Low | Auto Sales (MoM) (Sep) |  |  | -7.3% |
 | 14:00 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
