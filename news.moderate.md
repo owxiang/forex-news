@@ -13,6 +13,6 @@
 | 14:30 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 15:30 | USD | Cushing Crude Oil Inventories | -0.763M |  | -0.271M |
 | 16:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 53 min | EUR | ECB President Lagarde Speaks |  |  |  |
+| 17:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 20:15 | USD | FOMC Member Kashkari Speaks |  |  |  |
 | 22:45 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |

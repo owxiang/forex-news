@@ -49,8 +49,8 @@
 | 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 48.04 |  | 47.79 |
 | 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 53.45 |  | 52.74 |
 | 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Oct) | 53.89 |  | 51.66 |
-| 53 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 18:00 | USD | High | 10-Year Note Auction |  |  | 4.033% |
+| 17:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 52 min | USD | High | 10-Year Note Auction |  |  | 4.033% |
 | 18:15 | USD | Low | Fed Logan Speaks |  |  |  |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 1.141B |
 | 20:00 | USD | High | FOMC Meeting Minutes |  |  |  |
