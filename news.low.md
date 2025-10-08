@@ -7,8 +7,7 @@
 | 00:30 | JPY | Overall wage income of employees (Aug) | 1.5% | 2.6% | 3.4% |
 | 00:30 | JPY | Overtime Pay (YoY) (Aug) | 1.30% |  | 3.00% |
 | 01:30 | AUD | Private House Approvals (Aug) | -2.6% | -2.6% | 1.1% |
-| 28 min | IDR | Consumer Confidence (Sep) |  |  | 117.2 |
-| 28 min | IDR | Motorbike Sales (YoY) (Sep) |  |  | 0.70% |
+| 04:00 | IDR | Consumer Confidence (Sep) | 115.0 |  | 117.2 |
 | 06:00 | JPY | Economy Watchers Current Index (Sep) |  | 47.0 | 46.7 |
 | 07:00 | EUR | German Industrial Production (YoY) (Aug) |  |  | 1.53% |
 | 09:30 | HKD | Foreign Reserves (USD) (Sep) |  |  | 421.60B |
