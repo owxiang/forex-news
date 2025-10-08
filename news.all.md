@@ -33,25 +33,23 @@
 | 14:00 | BRL | Low | Auto Sales (MoM) (Sep) | 7.9% |  | -7.3% |
 | 14:00 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 14:30 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 15:00 | USD | Low | CB Employment Trends Index (Sep) |  |  | 106.41 |
-| 15:00 | USD | Moderate | Construction Spending (MoM) (Aug) |  | -0.1% | -0.1% |
 | 15:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 23 min | USD | High | Crude Oil Inventories |  | 0.400M | 1.792M |
-| 23 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.308M |
-| 23 min | USD | Low | Crude Oil Imports |  |  | 0.071M |
-| 23 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.271M |
-| 23 min | USD | Low | Distillate Fuel Production |  |  | -0.025M |
-| 23 min | USD | Low | EIA Weekly Distillates Stocks |  | -0.730M | 0.578M |
-| 23 min | USD | Low | Gasoline Production |  |  | -0.363M |
-| 23 min | USD | Low | Heating Oil Stockpiles |  |  | 0.187M |
-| 23 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.6% |
-| 23 min | USD | Low | Gasoline Inventories |  | -1.380M | 4.125M |
-| 53 min | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 53 min | USD | Low | Thomson Reuters IPSOS PCSI (Oct) |  |  | 52.37 |
-| 53 min | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 47.79 |
-| 53 min | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 52.74 |
-| 53 min | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Oct) |  |  | 51.66 |
-| 17:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 15:30 | USD | High | Crude Oil Inventories | 3.715M | 2.250M | 1.792M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.129M |  | -0.308M |
+| 15:30 | USD | Low | Crude Oil Imports | 0.731M |  | 0.071M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | -0.763M |  | -0.271M |
+| 15:30 | USD | Low | Distillate Fuel Production | 0.210M |  | -0.025M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks | -2.018M | -1.230M | 0.578M |
+| 15:30 | USD | Low | Gasoline Production | 0.409M |  | -0.363M |
+| 15:30 | USD | Low | Heating Oil Stockpiles | -0.060M |  | 0.187M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 1.0% |  | -1.6% |
+| 15:30 | USD | Low | Gasoline Inventories | -1.601M | -1.050M | 4.125M |
+| 16:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 16:00 | USD | Low | Thomson Reuters IPSOS PCSI (Oct) | 52.86 |  | 52.37 |
+| 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 48.04 |  | 47.79 |
+| 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 53.45 |  | 52.74 |
+| 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Oct) | 53.89 |  | 51.66 |
+| 53 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | High | 10-Year Note Auction |  |  | 4.033% |
 | 18:15 | USD | Low | Fed Logan Speaks |  |  |  |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 1.141B |

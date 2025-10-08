@@ -23,19 +23,18 @@
 | 12:00 | USD | Mortgage Refinance Index | 1,180.2 |  | 1,278.6 |
 | 14:00 | BRL | Auto Production (MoM) (Sep) | -1.5% |  | 3.0% |
 | 14:00 | BRL | Auto Sales (MoM) (Sep) | 7.9% |  | -7.3% |
-| 15:00 | USD | CB Employment Trends Index (Sep) |  |  | 106.41 |
 | 15:00 | USD | Fed Goolsbee Speaks |  |  |  |
-| 23 min | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.308M |
-| 23 min | USD | Crude Oil Imports |  |  | 0.071M |
-| 23 min | USD | Distillate Fuel Production |  |  | -0.025M |
-| 23 min | USD | EIA Weekly Distillates Stocks |  | -0.730M | 0.578M |
-| 23 min | USD | Gasoline Production |  |  | -0.363M |
-| 23 min | USD | Heating Oil Stockpiles |  |  | 0.187M |
-| 23 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.6% |
-| 23 min | USD | Gasoline Inventories |  | -1.380M | 4.125M |
-| 53 min | USD | Thomson Reuters IPSOS PCSI (Oct) |  |  | 52.37 |
-| 53 min | CAD | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 47.79 |
-| 53 min | MXN | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 52.74 |
-| 53 min | BRL | Brazil Thomson Reuters IPSOS PCSI (Oct) |  |  | 51.66 |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) | 0.129M |  | -0.308M |
+| 15:30 | USD | Crude Oil Imports | 0.731M |  | 0.071M |
+| 15:30 | USD | Distillate Fuel Production | 0.210M |  | -0.025M |
+| 15:30 | USD | EIA Weekly Distillates Stocks | -2.018M | -1.230M | 0.578M |
+| 15:30 | USD | Gasoline Production | 0.409M |  | -0.363M |
+| 15:30 | USD | Heating Oil Stockpiles | -0.060M |  | 0.187M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 1.0% |  | -1.6% |
+| 15:30 | USD | Gasoline Inventories | -1.601M | -1.050M | 4.125M |
+| 16:00 | USD | Thomson Reuters IPSOS PCSI (Oct) | 52.86 |  | 52.37 |
+| 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 48.04 |  | 47.79 |
+| 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 53.45 |  | 52.74 |
+| 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Oct) | 53.89 |  | 51.66 |
 | 18:15 | USD | Fed Logan Speaks |  |  |  |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | 1.141B |
