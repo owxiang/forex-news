@@ -36,5 +36,5 @@
 | 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 48.04 |  | 47.79 |
 | 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 53.45 |  | 52.74 |
 | 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Oct) | 53.89 |  | 51.66 |
-| 18:15 | USD | Fed Logan Speaks |  |  |  |
-| 18:30 | BRL | Foreign Exchange Flows |  |  | 1.141B |
+| 9 min | USD | Fed Logan Speaks |  |  |  |
+| 24 min | BRL | Foreign Exchange Flows |  |  | 1.141B |
