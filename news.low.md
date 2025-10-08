@@ -9,7 +9,7 @@
 | 01:30 | AUD | Private House Approvals (Aug) | -2.6% | -2.6% | 1.1% |
 | 04:00 | IDR | Consumer Confidence (Sep) | 115.0 |  | 117.2 |
 | 06:00 | JPY | Economy Watchers Current Index (Sep) | 47.1 | 47.0 | 46.7 |
-| 07:00 | EUR | German Industrial Production (YoY) (Aug) | -3.90% |  | 1.53% |
+| 07:00 | EUR | German Industrial Production (YoY) (Aug) | -4.20% |  | 1.53% |
 | 09:30 | HKD | Foreign Reserves (USD) (Sep) |  |  | 421.60B |
 | 10:30 | GBP | 5-Year Treasury Gilt Auction |  |  | 4.095% |
 | 10:30 | GBP | BoE FPC Meeting Minutes |  |  |  |
