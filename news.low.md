@@ -3,10 +3,10 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | JPY | Reuters Tankan Index (Oct) | 8 |  | 13 |
-| 24 min | JPY | Overall wage income of employees (Aug) |  | 2.6% | 3.4% |
-| 24 min | JPY | Overtime Pay (YoY) (Aug) |  |  | 3.30% |
-| 44 min | JPY | Bank Lending (YoY) (Sep) |  | 3.7% | 3.6% |
-| 01:30 | AUD | Private House Approvals (Aug) |  | -2.6% | 1.1% |
+| 00:30 | JPY | Average Cash Earnings (YoY) (Aug) | 1.5% | 2.6% | 3.4% |
+| 00:30 | JPY | Overall wage income of employees (Aug) | 1.5% | 2.6% | 3.4% |
+| 00:30 | JPY | Overtime Pay (YoY) (Aug) | 1.30% |  | 3.00% |
+| 2 min | AUD | Private House Approvals (Aug) |  | -2.6% | 1.1% |
 | 03:00 | IDR | Motorbike Sales (YoY) (Sep) |  |  | 0.70% |
 | 04:00 | IDR | Consumer Confidence (Sep) |  |  | 117.2 |
 | 06:00 | JPY | Economy Watchers Current Index (Sep) |  | 47.0 | 46.7 |
