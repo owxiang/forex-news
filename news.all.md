@@ -51,8 +51,8 @@
 | 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Oct) | 53.89 |  | 51.66 |
 | 17:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | High | 10-Year Note Auction | 4.117% |  | 4.033% |
-| 9 min | USD | Low | Fed Logan Speaks |  |  |  |
-| 24 min | BRL | Low | Foreign Exchange Flows |  |  | 1.141B |
-| 20:00 | USD | High | FOMC Meeting Minutes |  |  |  |
+| 18:15 | USD | Low | Fed Logan Speaks |  |  |  |
+| 18:30 | BRL | Low | Foreign Exchange Flows | -1.056B |  | 1.141B |
+| 51 min | USD | High | FOMC Meeting Minutes |  |  |  |
 | 20:15 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 22:45 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
