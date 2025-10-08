@@ -24,16 +24,16 @@
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 11:40 | IDR | Low | Car Sales (YoY) (Sep) | -15.10% |  | -19.00% |
-| 12:00 | USD | Low | CB Employment Trends Index (Sep) |  |  | 106.41 |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.43% |  | 6.46% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) | -4.7% |  | -12.7% |
 | 12:00 | USD | Low | MBA Purchase Index | 170.6 |  | 172.7 |
 | 12:00 | USD | Low | Mortgage Market Index | 323.1 |  | 339.1 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 1,180.2 |  | 1,278.6 |
-| 14:00 | BRL | Low | Auto Production (MoM) (Sep) |  |  | 3.0% |
-| 14:00 | BRL | Low | Auto Sales (MoM) (Sep) |  |  | -7.3% |
-| 14:00 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
+| 48 min | BRL | Low | Auto Production (MoM) (Sep) |  |  | 3.0% |
+| 48 min | BRL | Low | Auto Sales (MoM) (Sep) |  |  | -7.3% |
+| 48 min | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 14:30 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 15:00 | USD | Low | CB Employment Trends Index (Sep) |  |  | 106.41 |
 | 15:00 | USD | Moderate | Construction Spending (MoM) (Aug) |  | -0.1% | -0.1% |
 | 15:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 15:30 | USD | High | Crude Oil Inventories |  | 0.400M | 1.792M |

@@ -16,14 +16,14 @@
 | 10:30 | GBP | BoE FPC Meeting Minutes |  |  |  |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 11:40 | IDR | Car Sales (YoY) (Sep) | -15.10% |  | -19.00% |
-| 12:00 | USD | CB Employment Trends Index (Sep) |  |  | 106.41 |
 | 12:00 | USD | MBA 30-Year Mortgage Rate | 6.43% |  | 6.46% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) | -4.7% |  | -12.7% |
 | 12:00 | USD | MBA Purchase Index | 170.6 |  | 172.7 |
 | 12:00 | USD | Mortgage Market Index | 323.1 |  | 339.1 |
 | 12:00 | USD | Mortgage Refinance Index | 1,180.2 |  | 1,278.6 |
-| 14:00 | BRL | Auto Production (MoM) (Sep) |  |  | 3.0% |
-| 14:00 | BRL | Auto Sales (MoM) (Sep) |  |  | -7.3% |
+| 48 min | BRL | Auto Production (MoM) (Sep) |  |  | 3.0% |
+| 48 min | BRL | Auto Sales (MoM) (Sep) |  |  | -7.3% |
+| 15:00 | USD | CB Employment Trends Index (Sep) |  |  | 106.41 |
 | 15:00 | USD | Fed Goolsbee Speaks |  |  |  |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.308M |
 | 15:30 | USD | Crude Oil Imports |  |  | 0.071M |
