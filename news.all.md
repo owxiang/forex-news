@@ -55,4 +55,4 @@
 | 18:30 | BRL | Low | Foreign Exchange Flows | -1.056B |  | 1.141B |
 | 20:00 | USD | High | FOMC Meeting Minutes |  |  |  |
 | 20:15 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
-| 39 min | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 22:45 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |

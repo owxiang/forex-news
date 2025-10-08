@@ -15,4 +15,4 @@
 | 16:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 17:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 20:15 | USD | FOMC Member Kashkari Speaks |  |  |  |
-| 39 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 22:45 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
