@@ -9,8 +9,8 @@
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:00 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
-| 13:00 | MXN | CPI (YoY) (Sep) |  | 3.79% | 3.57% |
 | 13:00 | MXN | CPI (MoM) (Sep) |  | 0.27% | 0.06% |
+| 13:00 | MXN | CPI (YoY) (Sep) |  | 3.79% | 3.57% |
 | 13:00 | BRL | CPI (YoY) (Sep) |  | 5.22% | 5.13% |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,930K | 1,926K |
 | 13:35 | USD | FOMC Member Bowman Speaks |  |  |  |

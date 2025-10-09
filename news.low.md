@@ -18,8 +18,8 @@
 | 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Oct) |  |  | 39.89 |
 | 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 48.97 |
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 47.10 |
-| 12:00 | ZAR | Manufacturing Production (MoM) (Aug) |  |  | -0.5% |
 | 12:00 | ZAR | Manufacturing Production (YoY) (Aug) |  |  | -0.7% |
+| 12:00 | ZAR | Manufacturing Production (MoM) (Aug) |  |  | -0.5% |
 | 13:00 | MXN | Core CPI (MoM) (Sep) |  | 0.32% | 0.22% |
 | 13:00 | MXN | Month Core Inflation (MoM) (Sep) |  | 4.28% | 4.23% |
 | 13:00 | MXN | PPI (MoM) (Sep) |  |  | -0.40% |
