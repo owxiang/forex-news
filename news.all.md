@@ -30,8 +30,8 @@
 | 13:00 | MXN | Moderate | CPI (MoM) (Sep) | 0.23% | 0.27% | 0.06% |
 | 13:00 | MXN | Moderate | CPI (YoY) (Sep) | 3.76% | 3.79% | 3.57% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Sep) | 4.28% | 4.28% | 4.23% |
-| 13:00 | MXN | Low | PPI (MoM) (Sep) | 0.20% |  | -0.40% |
 | 13:00 | MXN | Low | PPI (YoY) (Sep) | 3.10% |  | 3.30% |
+| 13:00 | MXN | Low | PPI (MoM) (Sep) | 0.20% |  | -0.40% |
 | 13:00 | BRL | Low | CPI (MoM) (Sep) | 0.48% | 0.52% | -0.11% |
 | 13:00 | BRL | Moderate | CPI (YoY) (Sep) | 5.17% | 5.22% | 5.13% |
 | 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Sep) | 0.52% |  | -0.04% |
@@ -45,10 +45,10 @@
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |
 | 17:45 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 18:00 | USD | High | 30-Year Bond Auction | 4.734% |  | 4.651% |
-| 39 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,587B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.980T |
-| 22:00 | KRW | Low | FX Reserves - USD (Sep) |  |  | 416.29B |
+| 20:45 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 23 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,587B |
+| 23 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.980T |
+| 53 min | KRW | Low | FX Reserves - USD (Sep) |  |  | 416.29B |
 | 22:30 | NZD | Moderate | Business NZ PMI (Sep) |  |  | 49.9 |
 | 23:00 | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
 | 23:00 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
