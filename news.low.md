@@ -18,14 +18,14 @@
 | 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Oct) | 40.61 |  | 39.89 |
 | 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 49.53 |  | 48.97 |
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 45.41 |  | 47.10 |
-| 12:00 | ZAR | Manufacturing Production (YoY) (Aug) | -1.5% |  | -1.3% |
 | 12:00 | ZAR | Manufacturing Production (MoM) (Aug) | 0.4% |  | -0.8% |
-| 54 min | MXN | Core CPI (MoM) (Sep) |  | 0.32% | 0.22% |
-| 54 min | MXN | Month Core Inflation (MoM) (Sep) |  | 4.28% | 4.23% |
-| 54 min | MXN | PPI (YoY) (Sep) |  |  | 3.30% |
-| 54 min | MXN | PPI (MoM) (Sep) |  |  | -0.40% |
-| 54 min | BRL | CPI (MoM) (Sep) |  | 0.52% | -0.11% |
-| 54 min | BRL | Brazilian IPCA Inflation Index SA (MoM) (Sep) |  |  | -0.04% |
+| 12:00 | ZAR | Manufacturing Production (YoY) (Aug) | -1.5% |  | -1.3% |
+| 13:00 | MXN | Core CPI (MoM) (Sep) | 0.33% | 0.32% | 0.22% |
+| 13:00 | MXN | Month Core Inflation (MoM) (Sep) | 4.28% | 4.28% | 4.23% |
+| 13:00 | MXN | PPI (MoM) (Sep) | 0.20% |  | -0.40% |
+| 13:00 | MXN | PPI (YoY) (Sep) | 3.10% |  | 3.30% |
+| 13:00 | BRL | CPI (MoM) (Sep) | 0.48% | 0.52% | -0.11% |
+| 13:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Sep) | 0.52% |  | -0.04% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.4% |
 | 15:30 | USD | Natural Gas Storage |  | 76B | 53B |
 | 16:00 | USD | CB Employment Trends Index (Sep) |  |  | 106.41 |

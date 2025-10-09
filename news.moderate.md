@@ -6,12 +6,12 @@
 | 08:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 09:30 | GBP | BoE MPC Member Mann Speaks |  |  |  |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 24 min | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 54 min | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
-| 54 min | MXN | CPI (MoM) (Sep) |  | 0.27% | 0.06% |
-| 54 min | MXN | CPI (YoY) (Sep) |  | 3.79% | 3.57% |
-| 54 min | BRL | CPI (YoY) (Sep) |  | 5.22% | 5.13% |
-| 13:35 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 13:00 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
+| 13:00 | MXN | CPI (MoM) (Sep) | 0.23% | 0.27% | 0.06% |
+| 13:00 | MXN | CPI (YoY) (Sep) | 3.76% | 3.79% | 3.57% |
+| 13:00 | BRL | CPI (YoY) (Sep) | 5.17% | 5.22% | 5.13% |
+| 24 min | USD | FOMC Member Bowman Speaks |  |  |  |
 | 16:00 | USD | Construction Spending (MoM) (Aug) |  | -0.1% | -0.1% |
 | 16:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
 | 16:00 | EUR | ECB's Lane Speaks |  |  |  |
