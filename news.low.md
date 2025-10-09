@@ -11,7 +11,7 @@
 | 07:00 | EUR | German Imports (MoM) (Aug) | -1.3% | -0.5% | -0.1% |
 | 07:00 | JPY | Machine Tool Orders (YoY) (Sep) | 9.9% |  | 8.5% |
 | 07:00 | NOK | PPI (YoY) (Sep) | -2.8% |  | -3.0% |
-| 09:00 | CNY | FX Reserves (USD) (Sep) |  |  | 3.322T |
+| 52 min | CNY | FX Reserves (USD) (Sep) |  |  | 3.322T |
 | 11:00 | GBP | Thomson Reuters IPSOS PCSI (Oct) |  |  | 49.9 |
 | 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Oct) |  |  | 47.13 |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |

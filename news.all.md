@@ -12,8 +12,8 @@
 | 07:00 | EUR | Moderate | German Trade Balance (Aug) | 17.2B | 15.1B | 14.7B |
 | 07:00 | JPY | Low | Machine Tool Orders (YoY) (Sep) | 9.9% |  | 8.5% |
 | 07:00 | NOK | Low | PPI (YoY) (Sep) | -2.8% |  | -3.0% |
-| 50 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 09:00 | CNY | Low | FX Reserves (USD) (Sep) |  |  | 3.322T |
+| 08:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 52 min | CNY | Low | FX Reserves (USD) (Sep) |  |  | 3.322T |
 | 09:30 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Oct) |  |  | 49.9 |
 | 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Oct) |  |  | 47.13 |
@@ -33,8 +33,8 @@
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Sep) |  | 4.28% | 4.23% |
 | 13:00 | MXN | Low | PPI (YoY) (Sep) |  |  | 3.30% |
 | 13:00 | MXN | Low | PPI (MoM) (Sep) |  |  | -0.40% |
-| 13:00 | BRL | Low | CPI (MoM) (Sep) |  | 0.52% | -0.11% |
 | 13:00 | BRL | Moderate | CPI (YoY) (Sep) |  | 5.22% | 5.13% |
+| 13:00 | BRL | Low | CPI (MoM) (Sep) |  | 0.52% | -0.11% |
 | 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Sep) |  |  | -0.04% |
 | 13:30 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 13:35 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
