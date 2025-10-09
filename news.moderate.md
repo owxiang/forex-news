@@ -1,22 +1,19 @@
-## 09 October 2025 - Moderate Impact Forex News
+## 10 October 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | EUR | German Trade Balance (Aug) | 17.2B | 15.1B | 14.7B |
-| 08:00 | EUR | German Buba Balz Speaks |  |  |  |
-| 09:30 | GBP | BoE MPC Member Mann Speaks |  |  |  |
-| 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:00 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
-| 13:00 | MXN | CPI (MoM) (Sep) | 0.23% | 0.27% | 0.06% |
-| 13:00 | MXN | CPI (YoY) (Sep) | 3.76% | 3.79% | 3.57% |
-| 13:00 | BRL | CPI (YoY) (Sep) | 5.17% | 5.22% | 5.13% |
-| 13:35 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 16:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
-| 16:00 | EUR | ECB's Lane Speaks |  |  |  |
-| 17:00 | USD | WASDE Report |  |  |  |
-| 17:45 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 20:45 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 21:30 | USD | Fed's Balance Sheet | 6,591B |  | 6,587B |
-| 22:30 | NZD | Business NZ PMI (Sep) | 49.9 |  | 49.9 |
-| 23:00 | AUD | RBA Assist Gov Kent Speaks |  |  |  |
+| 02:40 | USD | FOMC Member Daly Speaks |  |  |  |
+| 08:00 | CHF | SECO Consumer Climate |  | -38 | -40 |
+| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Sep) |  |  | 3.7% |
+| 13:30 | USD | Participation Rate (Sep) |  |  | 62.3% |
+| 13:30 | USD | Private Nonfarm Payrolls (Sep) |  | 35K | 38K |
+| 13:30 | USD | U6 Unemployment Rate (Sep) |  |  | 8.1% |
+| 13:30 | CAD | Employment Change (Sep) |  | 2.8K | -65.5K |
+| 13:30 | CAD | Unemployment Rate (Sep) |  | 7.2% | 7.1% |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (Oct) |  |  | 4.7% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (Oct) |  |  | 3.7% |
+| 15:00 | USD | Michigan Consumer Expectations (Oct) |  | 51.7 | 51.7 |
+| 15:00 | USD | Michigan Consumer Sentiment (Oct) |  | 54.1 | 55.1 |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 422 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 549 |
+| 19:00 | USD | Federal Budget Balance (Sep) |  | 50.0B | -345.0B |

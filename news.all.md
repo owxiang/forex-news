@@ -1,54 +1,52 @@
-## 09 October 2025 - All Forex News
+## 10 October 2025 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:50 | JPY | Low | Foreign Bonds Buying | -926.6B |  | -158.7B |
-| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 2,479.9B |  | -961.8B |
-| 01:00 | AUD | Low | MI Inflation Expectations (Oct) | 4.8% |  | 4.7% |
-| 04:00 | IDR | Low | Retail Sales (YoY) (Aug) | 3.5% |  | 4.7% |
-| 04:35 | JPY | Low | 5-Year JGB Auction | 1.233% |  | 1.119% |
-| 07:00 | EUR | Low | German Exports (MoM) (Aug) | -0.5% | 0.3% | -0.6% |
-| 07:00 | EUR | Low | German Imports (MoM) (Aug) | -1.3% | -0.5% | -0.1% |
-| 07:00 | EUR | Moderate | German Trade Balance (Aug) | 17.2B | 15.1B | 14.7B |
-| 07:00 | JPY | Low | Machine Tool Orders (YoY) (Sep) | 9.9% |  | 8.5% |
-| 07:00 | NOK | Low | PPI (YoY) (Sep) | -2.8% |  | -3.0% |
-| 08:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 09:30 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
-| 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Oct) | 48.3 |  | 49.9 |
-| 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Oct) | 45.12 |  | 47.13 |
-| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 11:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Oct) | 45.75 |  | 47.00 |
-| 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Oct) | 40.61 |  | 39.89 |
-| 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 49.53 |  | 48.97 |
-| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 45.41 |  | 47.10 |
-| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Aug) | 0.4% |  | -0.8% |
-| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Aug) | -1.5% |  | -1.3% |
-| 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:00 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
-| 13:00 | MXN | Low | Core CPI (MoM) (Sep) | 0.33% | 0.32% | 0.22% |
-| 13:00 | MXN | Moderate | CPI (MoM) (Sep) | 0.23% | 0.27% | 0.06% |
-| 13:00 | MXN | Moderate | CPI (YoY) (Sep) | 3.76% | 3.79% | 3.57% |
-| 13:00 | MXN | Low | Month Core Inflation (MoM) (Sep) | 4.28% | 4.28% | 4.23% |
-| 13:00 | MXN | Low | PPI (MoM) (Sep) | 0.20% |  | -0.40% |
-| 13:00 | MXN | Low | PPI (YoY) (Sep) | 3.10% |  | 3.30% |
-| 13:00 | BRL | Low | CPI (MoM) (Sep) | 0.48% | 0.52% | -0.11% |
-| 13:00 | BRL | Moderate | CPI (YoY) (Sep) | 5.17% | 5.22% | 5.13% |
-| 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Sep) | 0.52% |  | -0.04% |
-| 13:30 | USD | High | Fed Chair Powell Speaks |  |  |  |
-| 13:35 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 15:30 | USD | Low | Natural Gas Storage | 80B | 76B | 53B |
-| 16:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
-| 16:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 16:30 | USD | Low | 4-Week Bill Auction | 4.030% |  | 4.060% |
-| 16:30 | USD | Low | 8-Week Bill Auction | 3.955% |  | 3.960% |
-| 17:00 | USD | Moderate | WASDE Report |  |  |  |
-| 17:45 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 18:00 | USD | High | 30-Year Bond Auction | 4.734% |  | 4.651% |
-| 20:45 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,591B |  | 6,587B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.034T |  | 2.980T |
-| 22:00 | KRW | Low | FX Reserves - USD (Sep) | 422.02B |  | 416.29B |
-| 22:30 | NZD | Moderate | Business NZ PMI (Sep) | 49.9 |  | 49.9 |
-| 23:00 | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
-| 23:00 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
+| 43 min | JPY | Low | Bank Lending (YoY) (Sep) |  | 3.7% | 3.6% |
+| 43 min | JPY | Low | PPI (MoM) (Sep) |  | 0.1% | -0.2% |
+| 43 min | JPY | Low | PPI (YoY) (Sep) |  | 2.5% | 2.7% |
+| 02:00 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
+| 02:40 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
+| 03:00 | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 46.39 |
+| 03:00 | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 56.99 |
+| 03:00 | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 53.86 |
+| 03:00 | JPY | Low | Thomson Reuters IPSOS PCSI (Oct) |  |  | 37.26 |
+| 03:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Oct) |  |  | 72.82 |
+| 07:00 | NOK | Low | Core CPI YTD (Sep) |  | 3.1% | 3.1% |
+| 07:00 | NOK | Low | Core Inflation (MoM) (Sep) |  | 0.4% | -0.7% |
+| 07:00 | NOK | Low | CPI (YoY) (Sep) |  | 3.5% | 3.5% |
+| 07:00 | NOK | Low | CPI (MoM) (Sep) |  | 0.3% | -0.6% |
+| 08:00 | CHF | Moderate | SECO Consumer Climate |  | -38 | -40 |
+| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Aug) |  | -0.3% | 0.4% |
+| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Aug) |  | 0.5% | 0.9% |
+| 10:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.030% |
+| 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
+| 12:30 | INR | Low | FX Reserves, USD |  |  | 700.24B |
+| 13:00 | MXN | Low | Industrial Production (MoM) (Aug) |  | 0.4% | -1.2% |
+| 13:00 | MXN | Low | Industrial Production (YoY) (Aug) |  | -2.2% | -2.7% |
+| 13:00 | BRL | Low | Brazilian PPI (MoM) (Aug) |  |  | -0.30% |
+| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Sep) |  |  | 3.7% |
+| 13:30 | USD | High | Average Hourly Earnings (MoM) (Sep) |  | 0.3% | 0.3% |
+| 13:30 | USD | Low | Average Weekly Hours (Sep) |  | 34.2 | 34.2 |
+| 13:30 | USD | Low | Government Payrolls (Sep) |  |  | -16.0K |
+| 13:30 | USD | Low | Manufacturing Payrolls (Sep) |  |  | -12K |
+| 13:30 | USD | High | Nonfarm Payrolls (Sep) |  | 52K | 22K |
+| 13:30 | USD | Moderate | Participation Rate (Sep) |  |  | 62.3% |
+| 13:30 | USD | Moderate | Private Nonfarm Payrolls (Sep) |  | 35K | 38K |
+| 13:30 | USD | Moderate | U6 Unemployment Rate (Sep) |  |  | 8.1% |
+| 13:30 | USD | High | Unemployment Rate (Sep) |  | 4.3% | 4.3% |
+| 13:30 | CAD | Low | Avg hourly wages Permanent employee (Sep) |  |  | 3.6% |
+| 13:30 | CAD | Moderate | Employment Change (Sep) |  | 2.8K | -65.5K |
+| 13:30 | CAD | Low | Full Employment Change (Sep) |  |  | -6.0K |
+| 13:30 | CAD | Low | Part Time Employment Change (Sep) |  |  | -59.7K |
+| 13:30 | CAD | Low | Participation Rate (Sep) |  |  | 65.1% |
+| 13:30 | CAD | Moderate | Unemployment Rate (Sep) |  | 7.2% | 7.1% |
+| 14:45 | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Oct) |  |  | 4.7% |
+| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Oct) |  |  | 3.7% |
+| 15:00 | USD | Moderate | Michigan Consumer Expectations (Oct) |  | 51.7 | 51.7 |
+| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Oct) |  | 54.1 | 55.1 |
+| 15:00 | USD | Low | Michigan Current Conditions (Oct) |  | 60.0 | 60.4 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 422 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 549 |
+| 19:00 | USD | Moderate | Federal Budget Balance (Sep) |  | 50.0B | -345.0B |

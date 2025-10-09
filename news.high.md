@@ -1,6 +1,7 @@
-## 09 October 2025 - High Impact Forex News
+## 10 October 2025 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:30 | USD | Fed Chair Powell Speaks |  |  |  |
-| 18:00 | USD | 30-Year Bond Auction | 4.734% |  | 4.651% |
+| 13:30 | USD | Average Hourly Earnings (MoM) (Sep) |  | 0.3% | 0.3% |
+| 13:30 | USD | Nonfarm Payrolls (Sep) |  | 52K | 22K |
+| 13:30 | USD | Unemployment Rate (Sep) |  | 4.3% | 4.3% |
