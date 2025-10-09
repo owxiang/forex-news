@@ -7,7 +7,7 @@
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 2,479.9B |  | -961.8B |
 | 01:00 | AUD | Low | MI Inflation Expectations (Oct) | 4.8% |  | 4.7% |
 | 04:00 | IDR | Low | Retail Sales (YoY) (Aug) | 3.5% |  | 4.7% |
-| 16 min | JPY | Low | 5-Year JGB Auction |  |  | 1.119% |
+| 04:35 | JPY | Low | 5-Year JGB Auction | 1.233% |  | 1.119% |
 | 07:00 | EUR | Low | German Exports (MoM) (Aug) |  | 0.3% | -0.6% |
 | 07:00 | EUR | Low | German Imports (MoM) (Aug) |  | -0.5% | -0.1% |
 | 07:00 | EUR | Moderate | German Trade Balance (Aug) |  | 15.1B | 14.7B |
@@ -23,8 +23,8 @@
 | 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 48.97 |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 47.10 |
-| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Aug) |  |  | -0.7% |
 | 12:00 | ZAR | Low | Manufacturing Production (MoM) (Aug) |  |  | -0.5% |
+| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Aug) |  |  | -0.7% |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:00 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 13:00 | MXN | Low | Core CPI (MoM) (Sep) |  | 0.32% | 0.22% |
