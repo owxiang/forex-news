@@ -12,10 +12,9 @@
 | 13:00 | MXN | CPI (YoY) (Sep) | 3.76% | 3.79% | 3.57% |
 | 13:00 | BRL | CPI (YoY) (Sep) | 5.17% | 5.22% | 5.13% |
 | 13:35 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 53 min | USD | Construction Spending (MoM) (Aug) |  | -0.1% | -0.1% |
-| 53 min | MXN | Monetary Policy Meeting Minutes |  |  |  |
-| 53 min | EUR | ECB's Lane Speaks |  |  |  |
-| 17:00 | USD | WASDE Report |  |  |  |
+| 16:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
+| 16:00 | EUR | ECB's Lane Speaks |  |  |  |
+| 35 min | USD | WASDE Report |  |  |  |
 | 17:45 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 18:00 | USD | Atlanta Fed GDPNow (Q3) |  | 3.8% | 3.8% |
 | 20:45 | USD | FOMC Member Bowman Speaks |  |  |  |
