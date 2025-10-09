@@ -22,13 +22,13 @@
 | 12:00 | ZAR | Manufacturing Production (MoM) (Aug) | 0.4% |  | -0.8% |
 | 13:00 | MXN | Core CPI (MoM) (Sep) | 0.33% | 0.32% | 0.22% |
 | 13:00 | MXN | Month Core Inflation (MoM) (Sep) | 4.28% | 4.28% | 4.23% |
-| 13:00 | MXN | PPI (MoM) (Sep) | 0.20% |  | -0.40% |
 | 13:00 | MXN | PPI (YoY) (Sep) | 3.10% |  | 3.30% |
+| 13:00 | MXN | PPI (MoM) (Sep) | 0.20% |  | -0.40% |
 | 13:00 | BRL | CPI (MoM) (Sep) | 0.48% | 0.52% | -0.11% |
 | 13:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Sep) | 0.52% |  | -0.04% |
 | 15:30 | USD | Natural Gas Storage | 80B | 76B | 53B |
-| 5 min | USD | 4-Week Bill Auction |  |  | 4.060% |
-| 5 min | USD | 8-Week Bill Auction |  |  | 3.960% |
+| 16:30 | USD | 4-Week Bill Auction | 4.030% |  | 4.060% |
+| 16:30 | USD | 8-Week Bill Auction | 3.955% |  | 3.960% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.980T |
 | 22:00 | KRW | FX Reserves - USD (Sep) |  |  | 416.29B |
 | 23:00 | AUD | RBA Gov Bullock Speaks |  |  |  |

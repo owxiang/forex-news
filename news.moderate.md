@@ -14,9 +14,9 @@
 | 13:35 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 16:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
 | 16:00 | EUR | ECB's Lane Speaks |  |  |  |
-| 35 min | USD | WASDE Report |  |  |  |
-| 17:45 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 18:00 | USD | Atlanta Fed GDPNow (Q3) |  | 3.8% | 3.8% |
+| 17:00 | USD | WASDE Report |  |  |  |
+| 37 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 52 min | USD | Atlanta Fed GDPNow (Q3) |  | 3.8% | 3.8% |
 | 20:45 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,587B |
 | 22:30 | NZD | Business NZ PMI (Sep) |  |  | 49.9 |

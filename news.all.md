@@ -30,22 +30,22 @@
 | 13:00 | MXN | Moderate | CPI (MoM) (Sep) | 0.23% | 0.27% | 0.06% |
 | 13:00 | MXN | Moderate | CPI (YoY) (Sep) | 3.76% | 3.79% | 3.57% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Sep) | 4.28% | 4.28% | 4.23% |
-| 13:00 | MXN | Low | PPI (MoM) (Sep) | 0.20% |  | -0.40% |
 | 13:00 | MXN | Low | PPI (YoY) (Sep) | 3.10% |  | 3.30% |
-| 13:00 | BRL | Moderate | CPI (YoY) (Sep) | 5.17% | 5.22% | 5.13% |
+| 13:00 | MXN | Low | PPI (MoM) (Sep) | 0.20% |  | -0.40% |
 | 13:00 | BRL | Low | CPI (MoM) (Sep) | 0.48% | 0.52% | -0.11% |
+| 13:00 | BRL | Moderate | CPI (YoY) (Sep) | 5.17% | 5.22% | 5.13% |
 | 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Sep) | 0.52% |  | -0.04% |
 | 13:30 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 13:35 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage | 80B | 76B | 53B |
 | 16:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 16:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 5 min | USD | Low | 4-Week Bill Auction |  |  | 4.060% |
-| 5 min | USD | Low | 8-Week Bill Auction |  |  | 3.960% |
-| 35 min | USD | Moderate | WASDE Report |  |  |  |
-| 17:45 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 18:00 | USD | High | 30-Year Bond Auction |  |  | 4.651% |
-| 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 3.8% | 3.8% |
+| 16:30 | USD | Low | 4-Week Bill Auction | 4.030% |  | 4.060% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 3.955% |  | 3.960% |
+| 17:00 | USD | Moderate | WASDE Report |  |  |  |
+| 37 min | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 52 min | USD | High | 30-Year Bond Auction |  |  | 4.651% |
+| 52 min | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 3.8% | 3.8% |
 | 20:45 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,587B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.980T |
