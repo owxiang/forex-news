@@ -11,15 +11,15 @@
 | 07:00 | EUR | German Imports (MoM) (Aug) | -1.3% | -0.5% | -0.1% |
 | 07:00 | JPY | Machine Tool Orders (YoY) (Sep) | 9.9% |  | 8.5% |
 | 07:00 | NOK | PPI (YoY) (Sep) | -2.8% |  | -3.0% |
-| 52 min | GBP | Thomson Reuters IPSOS PCSI (Oct) |  |  | 49.9 |
-| 52 min | EUR | Italy Thomson Reuters IPSOS PCSI (Oct) |  |  | 47.13 |
-| 52 min | EUR | German Buba Monthly Report |  |  |  |
-| 52 min | EUR | Germany Thomson Reuters IPSOS PCSI (Oct) |  |  | 47.00 |
-| 52 min | EUR | France Thomson Reuters IPSOS PCSI (Oct) |  |  | 39.89 |
-| 52 min | EUR | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 48.97 |
-| 52 min | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 47.10 |
-| 12:00 | ZAR | Manufacturing Production (YoY) (Aug) |  |  | -0.7% |
-| 12:00 | ZAR | Manufacturing Production (MoM) (Aug) |  |  | -0.5% |
+| 11:00 | GBP | Thomson Reuters IPSOS PCSI (Oct) | 48.3 |  | 49.9 |
+| 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Oct) | 45.12 |  | 47.13 |
+| 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Oct) | 45.75 |  | 47.00 |
+| 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Oct) | 40.61 |  | 39.89 |
+| 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 49.53 |  | 48.97 |
+| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 45.41 |  | 47.10 |
+| 52 min | ZAR | Manufacturing Production (MoM) (Aug) |  |  | -0.5% |
+| 52 min | ZAR | Manufacturing Production (YoY) (Aug) |  |  | -0.7% |
 | 13:00 | MXN | Core CPI (MoM) (Sep) |  | 0.32% | 0.22% |
 | 13:00 | MXN | Month Core Inflation (MoM) (Sep) |  | 4.28% | 4.23% |
 | 13:00 | MXN | PPI (YoY) (Sep) |  |  | 3.30% |

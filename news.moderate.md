@@ -5,7 +5,7 @@
 | 07:00 | EUR | German Trade Balance (Aug) | 17.2B | 15.1B | 14.7B |
 | 08:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 09:30 | GBP | BoE MPC Member Mann Speaks |  |  |  |
-| 52 min | EUR | Eurogroup Meetings |  |  |  |
+| 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:00 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 13:00 | MXN | CPI (MoM) (Sep) |  | 0.27% | 0.06% |

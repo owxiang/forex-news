@@ -14,16 +14,16 @@
 | 07:00 | NOK | Low | PPI (YoY) (Sep) | -2.8% |  | -3.0% |
 | 08:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 09:30 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
-| 52 min | GBP | Low | Thomson Reuters IPSOS PCSI (Oct) |  |  | 49.9 |
-| 52 min | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Oct) |  |  | 47.13 |
-| 52 min | EUR | Low | German Buba Monthly Report |  |  |  |
-| 52 min | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Oct) |  |  | 47.00 |
-| 52 min | EUR | Low | France Thomson Reuters IPSOS PCSI (Oct) |  |  | 39.89 |
-| 52 min | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 48.97 |
-| 52 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 52 min | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 47.10 |
-| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Aug) |  |  | -0.7% |
-| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Aug) |  |  | -0.5% |
+| 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Oct) | 48.3 |  | 49.9 |
+| 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Oct) | 45.12 |  | 47.13 |
+| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 11:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Oct) | 45.75 |  | 47.00 |
+| 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Oct) | 40.61 |  | 39.89 |
+| 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 49.53 |  | 48.97 |
+| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 45.41 |  | 47.10 |
+| 52 min | ZAR | Low | Manufacturing Production (MoM) (Aug) |  |  | -0.5% |
+| 52 min | ZAR | Low | Manufacturing Production (YoY) (Aug) |  |  | -0.7% |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:00 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 13:00 | MXN | Low | Core CPI (MoM) (Sep) |  | 0.32% | 0.22% |
