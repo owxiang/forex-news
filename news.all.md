@@ -45,7 +45,7 @@
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |
 | 17:45 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 18:00 | USD | High | 30-Year Bond Auction | 4.734% |  | 4.651% |
-| 20:45 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 39 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,587B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.980T |
 | 22:00 | KRW | Low | FX Reserves - USD (Sep) |  |  | 416.29B |

@@ -16,7 +16,7 @@
 | 16:00 | EUR | ECB's Lane Speaks |  |  |  |
 | 17:00 | USD | WASDE Report |  |  |  |
 | 17:45 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 20:45 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 39 min | USD | FOMC Member Bowman Speaks |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,587B |
 | 22:30 | NZD | Business NZ PMI (Sep) |  |  | 49.9 |
 | 23:00 | AUD | RBA Assist Gov Kent Speaks |  |  |  |
