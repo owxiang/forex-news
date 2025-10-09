@@ -22,19 +22,19 @@
 | 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 49.53 |  | 48.97 |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 45.41 |  | 47.10 |
-| 52 min | ZAR | Low | Manufacturing Production (MoM) (Aug) |  |  | -0.5% |
-| 52 min | ZAR | Low | Manufacturing Production (YoY) (Aug) |  |  | -0.7% |
-| 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:00 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
-| 13:00 | MXN | Low | Core CPI (MoM) (Sep) |  | 0.32% | 0.22% |
-| 13:00 | MXN | Moderate | CPI (MoM) (Sep) |  | 0.27% | 0.06% |
-| 13:00 | MXN | Moderate | CPI (YoY) (Sep) |  | 3.79% | 3.57% |
-| 13:00 | MXN | Low | Month Core Inflation (MoM) (Sep) |  | 4.28% | 4.23% |
-| 13:00 | MXN | Low | PPI (YoY) (Sep) |  |  | 3.30% |
-| 13:00 | MXN | Low | PPI (MoM) (Sep) |  |  | -0.40% |
-| 13:00 | BRL | Low | CPI (MoM) (Sep) |  | 0.52% | -0.11% |
-| 13:00 | BRL | Moderate | CPI (YoY) (Sep) |  | 5.22% | 5.13% |
-| 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Sep) |  |  | -0.04% |
+| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Aug) | -1.5% |  | -1.3% |
+| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Aug) | 0.4% |  | -0.8% |
+| 24 min | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 54 min | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
+| 54 min | MXN | Low | Core CPI (MoM) (Sep) |  | 0.32% | 0.22% |
+| 54 min | MXN | Moderate | CPI (MoM) (Sep) |  | 0.27% | 0.06% |
+| 54 min | MXN | Moderate | CPI (YoY) (Sep) |  | 3.79% | 3.57% |
+| 54 min | MXN | Low | Month Core Inflation (MoM) (Sep) |  | 4.28% | 4.23% |
+| 54 min | MXN | Low | PPI (YoY) (Sep) |  |  | 3.30% |
+| 54 min | MXN | Low | PPI (MoM) (Sep) |  |  | -0.40% |
+| 54 min | BRL | Low | CPI (MoM) (Sep) |  | 0.52% | -0.11% |
+| 54 min | BRL | Moderate | CPI (YoY) (Sep) |  | 5.22% | 5.13% |
+| 54 min | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Sep) |  |  | -0.04% |
 | 13:30 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 13:35 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.4% |
