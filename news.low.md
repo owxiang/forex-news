@@ -18,8 +18,8 @@
 | 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Oct) | 40.61 |  | 39.89 |
 | 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 49.53 |  | 48.97 |
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 45.41 |  | 47.10 |
-| 12:00 | ZAR | Manufacturing Production (MoM) (Aug) | 0.4% |  | -0.8% |
 | 12:00 | ZAR | Manufacturing Production (YoY) (Aug) | -1.5% |  | -1.3% |
+| 12:00 | ZAR | Manufacturing Production (MoM) (Aug) | 0.4% |  | -0.8% |
 | 13:00 | MXN | Core CPI (MoM) (Sep) | 0.33% | 0.32% | 0.22% |
 | 13:00 | MXN | Month Core Inflation (MoM) (Sep) | 4.28% | 4.28% | 4.23% |
 | 13:00 | MXN | PPI (YoY) (Sep) | 3.10% |  | 3.30% |
@@ -29,6 +29,6 @@
 | 15:30 | USD | Natural Gas Storage | 80B | 76B | 53B |
 | 16:30 | USD | 4-Week Bill Auction | 4.030% |  | 4.060% |
 | 16:30 | USD | 8-Week Bill Auction | 3.955% |  | 3.960% |
-| 23 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.980T |
-| 53 min | KRW | FX Reserves - USD (Sep) |  |  | 416.29B |
-| 23:00 | AUD | RBA Gov Bullock Speaks |  |  |  |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.034T |  | 2.980T |
+| 22:00 | KRW | FX Reserves - USD (Sep) | 422.02B |  | 416.29B |
+| 54 min | AUD | RBA Gov Bullock Speaks |  |  |  |
