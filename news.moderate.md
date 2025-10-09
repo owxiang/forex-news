@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 53 min | EUR | German Trade Balance (Aug) |  | 15.1B | 14.7B |
-| 08:00 | EUR | German Buba Balz Speaks |  |  |  |
+| 07:00 | EUR | German Trade Balance (Aug) | 17.2B | 15.1B | 14.7B |
+| 50 min | EUR | German Buba Balz Speaks |  |  |  |
 | 09:30 | GBP | BoE MPC Member Mann Speaks |  |  |  |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |

@@ -7,10 +7,10 @@
 | 01:00 | AUD | MI Inflation Expectations (Oct) | 4.8% |  | 4.7% |
 | 04:00 | IDR | Retail Sales (YoY) (Aug) | 3.5% |  | 4.7% |
 | 04:35 | JPY | 5-Year JGB Auction | 1.233% |  | 1.119% |
-| 53 min | EUR | German Exports (MoM) (Aug) |  | 0.3% | -0.6% |
-| 53 min | EUR | German Imports (MoM) (Aug) |  | -0.5% | -0.1% |
-| 53 min | JPY | Machine Tool Orders (YoY) (Sep) |  |  | 8.1% |
-| 53 min | NOK | PPI (YoY) (Sep) |  |  | -3.0% |
+| 07:00 | EUR | German Exports (MoM) (Aug) | -0.5% | 0.3% | -0.6% |
+| 07:00 | EUR | German Imports (MoM) (Aug) | -1.3% | -0.5% | -0.1% |
+| 07:00 | JPY | Machine Tool Orders (YoY) (Sep) | 9.9% |  | 8.5% |
+| 07:00 | NOK | PPI (YoY) (Sep) | -2.8% |  | -3.0% |
 | 09:00 | CNY | FX Reserves (USD) (Sep) |  |  | 3.322T |
 | 11:00 | GBP | Thomson Reuters IPSOS PCSI (Oct) |  |  | 49.9 |
 | 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Oct) |  |  | 47.13 |
@@ -19,12 +19,12 @@
 | 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Oct) |  |  | 39.89 |
 | 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 48.97 |
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 47.10 |
-| 12:00 | ZAR | Manufacturing Production (MoM) (Aug) |  |  | -0.5% |
 | 12:00 | ZAR | Manufacturing Production (YoY) (Aug) |  |  | -0.7% |
+| 12:00 | ZAR | Manufacturing Production (MoM) (Aug) |  |  | -0.5% |
 | 13:00 | MXN | Core CPI (MoM) (Sep) |  | 0.32% | 0.22% |
 | 13:00 | MXN | Month Core Inflation (MoM) (Sep) |  | 4.28% | 4.23% |
-| 13:00 | MXN | PPI (MoM) (Sep) |  |  | -0.40% |
 | 13:00 | MXN | PPI (YoY) (Sep) |  |  | 3.30% |
+| 13:00 | MXN | PPI (MoM) (Sep) |  |  | -0.40% |
 | 13:00 | BRL | CPI (MoM) (Sep) |  | 0.52% | -0.11% |
 | 13:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Sep) |  |  | -0.04% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.4% |
