@@ -11,7 +11,7 @@
 | 13:00 | MXN | CPI (MoM) (Sep) | 0.23% | 0.27% | 0.06% |
 | 13:00 | MXN | CPI (YoY) (Sep) | 3.76% | 3.79% | 3.57% |
 | 13:00 | BRL | CPI (YoY) (Sep) | 5.17% | 5.22% | 5.13% |
-| 24 min | USD | FOMC Member Bowman Speaks |  |  |  |
+| 13:35 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 16:00 | USD | Construction Spending (MoM) (Aug) |  | -0.1% | -0.1% |
 | 16:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
 | 16:00 | EUR | ECB's Lane Speaks |  |  |  |

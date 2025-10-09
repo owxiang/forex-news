@@ -2,5 +2,5 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 19 min | USD | Fed Chair Powell Speaks |  |  |  |
+| 13:30 | USD | Fed Chair Powell Speaks |  |  |  |
 | 18:00 | USD | 30-Year Bond Auction |  |  | 4.651% |
