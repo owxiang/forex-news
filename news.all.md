@@ -3,11 +3,9 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Moderate | RICS House Price Balance (Sep) | -15% | -18% | -18% |
-| 44 min | JPY | Low | Foreign Bonds Buying |  |  | -162.0B |
-| 44 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -963.3B |
-| 54 min | AUD | Low | MI Inflation Expectations (Oct) |  |  | 4.7% |
-| 54 min | JPY | Low | Reuters Tankan Index (Oct) |  |  | 13 |
-| 03:00 | IDR | Low | Motorbike Sales (YoY) (Sep) |  |  | 0.70% |
+| 00:50 | JPY | Low | Foreign Bonds Buying | -926.6B |  | -158.7B |
+| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 2,479.9B |  | -961.8B |
+| 01:00 | AUD | Low | MI Inflation Expectations (Oct) | 4.8% |  | 4.7% |
 | 04:00 | IDR | Low | Retail Sales (YoY) (Aug) |  |  | 4.7% |
 | 04:35 | JPY | Low | 5-Year JGB Auction |  |  | 1.119% |
 | 07:00 | EUR | Low | German Exports (MoM) (Aug) |  | 0.3% | -0.6% |
@@ -25,18 +23,18 @@
 | 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 48.97 |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 47.10 |
-| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Aug) |  |  | -0.7% |
 | 12:00 | ZAR | Low | Manufacturing Production (MoM) (Aug) |  |  | -0.5% |
+| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Aug) |  |  | -0.7% |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:00 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 13:00 | MXN | Low | Core CPI (MoM) (Sep) |  | 0.32% | 0.22% |
-| 13:00 | MXN | Moderate | CPI (MoM) (Sep) |  | 0.27% | 0.06% |
 | 13:00 | MXN | Moderate | CPI (YoY) (Sep) |  | 3.79% | 3.57% |
+| 13:00 | MXN | Moderate | CPI (MoM) (Sep) |  | 0.27% | 0.06% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Sep) |  | 4.28% | 4.23% |
 | 13:00 | MXN | Low | PPI (MoM) (Sep) |  |  | -0.40% |
 | 13:00 | MXN | Low | PPI (YoY) (Sep) |  |  | 3.30% |
-| 13:00 | BRL | Moderate | CPI (YoY) (Sep) |  | 5.22% | 5.13% |
 | 13:00 | BRL | Low | CPI (MoM) (Sep) |  | 0.52% | -0.11% |
+| 13:00 | BRL | Moderate | CPI (YoY) (Sep) |  | 5.22% | 5.13% |
 | 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Sep) |  |  | -0.04% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,930K | 1,926K |
 | 13:30 | USD | High | Fed Chair Powell Speaks |  |  |  |

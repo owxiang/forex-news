@@ -2,11 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 44 min | JPY | Foreign Bonds Buying |  |  | -162.0B |
-| 44 min | JPY | Foreign Investments in Japanese Stocks |  |  | -963.3B |
-| 54 min | AUD | MI Inflation Expectations (Oct) |  |  | 4.7% |
-| 54 min | JPY | Reuters Tankan Index (Oct) |  |  | 13 |
-| 03:00 | IDR | Motorbike Sales (YoY) (Sep) |  |  | 0.70% |
+| 00:50 | JPY | Foreign Bonds Buying | -926.6B |  | -158.7B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks | 2,479.9B |  | -961.8B |
+| 01:00 | AUD | MI Inflation Expectations (Oct) | 4.8% |  | 4.7% |
 | 04:00 | IDR | Retail Sales (YoY) (Aug) |  |  | 4.7% |
 | 04:35 | JPY | 5-Year JGB Auction |  |  | 1.119% |
 | 07:00 | EUR | German Exports (MoM) (Aug) |  | 0.3% | -0.6% |
@@ -20,8 +18,8 @@
 | 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Oct) |  |  | 39.89 |
 | 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 48.97 |
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 47.10 |
-| 12:00 | ZAR | Manufacturing Production (YoY) (Aug) |  |  | -0.7% |
 | 12:00 | ZAR | Manufacturing Production (MoM) (Aug) |  |  | -0.5% |
+| 12:00 | ZAR | Manufacturing Production (YoY) (Aug) |  |  | -0.7% |
 | 13:00 | MXN | Core CPI (MoM) (Sep) |  | 0.32% | 0.22% |
 | 13:00 | MXN | Month Core Inflation (MoM) (Sep) |  | 4.28% | 4.23% |
 | 13:00 | MXN | PPI (MoM) (Sep) |  |  | -0.40% |
