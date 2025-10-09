@@ -22,18 +22,18 @@
 | 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 49.53 |  | 48.97 |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 45.41 |  | 47.10 |
-| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Aug) | -1.5% |  | -1.3% |
 | 12:00 | ZAR | Low | Manufacturing Production (MoM) (Aug) | 0.4% |  | -0.8% |
+| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Aug) | -1.5% |  | -1.3% |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:00 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 13:00 | MXN | Low | Core CPI (MoM) (Sep) | 0.33% | 0.32% | 0.22% |
 | 13:00 | MXN | Moderate | CPI (MoM) (Sep) | 0.23% | 0.27% | 0.06% |
 | 13:00 | MXN | Moderate | CPI (YoY) (Sep) | 3.76% | 3.79% | 3.57% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Sep) | 4.28% | 4.28% | 4.23% |
-| 13:00 | MXN | Low | PPI (YoY) (Sep) | 3.10% |  | 3.30% |
 | 13:00 | MXN | Low | PPI (MoM) (Sep) | 0.20% |  | -0.40% |
-| 13:00 | BRL | Moderate | CPI (YoY) (Sep) | 5.17% | 5.22% | 5.13% |
+| 13:00 | MXN | Low | PPI (YoY) (Sep) | 3.10% |  | 3.30% |
 | 13:00 | BRL | Low | CPI (MoM) (Sep) | 0.48% | 0.52% | -0.11% |
+| 13:00 | BRL | Moderate | CPI (YoY) (Sep) | 5.17% | 5.22% | 5.13% |
 | 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Sep) | 0.52% |  | -0.04% |
 | 13:30 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 13:35 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
@@ -49,6 +49,6 @@
 | 21:30 | USD | Moderate | Fed's Balance Sheet | 6,591B |  | 6,587B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.034T |  | 2.980T |
 | 22:00 | KRW | Low | FX Reserves - USD (Sep) | 422.02B |  | 416.29B |
-| 24 min | NZD | Moderate | Business NZ PMI (Sep) |  |  | 49.9 |
-| 54 min | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
-| 54 min | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
+| 22:30 | NZD | Moderate | Business NZ PMI (Sep) | 49.9 |  | 49.9 |
+| 23:00 | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
+| 23:00 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |

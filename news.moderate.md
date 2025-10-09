@@ -18,5 +18,5 @@
 | 17:45 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 20:45 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet | 6,591B |  | 6,587B |
-| 24 min | NZD | Business NZ PMI (Sep) |  |  | 49.9 |
-| 54 min | AUD | RBA Assist Gov Kent Speaks |  |  |  |
+| 22:30 | NZD | Business NZ PMI (Sep) | 49.9 |  | 49.9 |
+| 23:00 | AUD | RBA Assist Gov Kent Speaks |  |  |  |
