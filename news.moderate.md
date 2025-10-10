@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:40 | USD | FOMC Member Daly Speaks |  |  |  |
-| 08:00 | CHF | SECO Consumer Climate |  | -38 | -40 |
+| 50 min | CHF | SECO Consumer Climate |  | -38 | -40 |
 | 13:30 | CAD | Employment Change (Sep) |  | 2.8K | -65.5K |
 | 13:30 | CAD | Unemployment Rate (Sep) |  | 7.2% | 7.1% |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Oct) |  |  | 4.7% |
