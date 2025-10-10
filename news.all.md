@@ -17,8 +17,8 @@
 | 07:00 | NOK | Low | CPI (MoM) (Sep) | 0.4% | 0.3% | -0.6% |
 | 07:00 | NOK | Low | CPI (YoY) (Sep) | 3.6% | 3.5% | 3.5% |
 | 08:00 | CHF | Moderate | SECO Consumer Climate | -37 | -38 | -40 |
-| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Aug) | -2.7% | 0.5% | 0.9% |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Aug) | -2.4% | -0.3% | 0.4% |
+| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Aug) | -2.7% | 0.5% | 0.9% |
 | 10:10 | EUR | Low | Italian 12-Month BOT Auction | 2.050% |  | 2.030% |
 | 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 12:30 | INR | Low | FX Reserves, USD | 699.96B |  | 700.24B |
@@ -37,6 +37,6 @@
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Oct) | 51.2 | 51.7 | 51.7 |
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Oct) | 55.0 | 54.1 | 55.1 |
 | 15:00 | USD | Low | Michigan Current Conditions (Oct) | 61.0 | 60.0 | 60.4 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  | 421 | 422 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 549 |
+| 52 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  | 421 | 422 |
+| 52 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 549 |
 | 19:00 | USD | Moderate | Federal Budget Balance (Sep) |  | 50.0B | -345.0B |
