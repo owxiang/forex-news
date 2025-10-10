@@ -1,3 +1,3 @@
-## 10 October 2025 - High Impact Forex News
+## 12 October 2025 - High Impact Forex News
 
 There is no high impact news today.
