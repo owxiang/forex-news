@@ -5,18 +5,18 @@
 | 00:50 | JPY | Bank Lending (YoY) (Sep) | 3.8% | 3.7% | 3.6% |
 | 00:50 | JPY | PPI (MoM) (Sep) | 0.3% | 0.1% | -0.2% |
 | 00:50 | JPY | PPI (YoY) (Sep) | 2.7% | 2.5% | 2.7% |
-| 32 min | AUD | RBA Gov Bullock Speaks |  |  |  |
-| 03:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 46.39 |
-| 03:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 56.99 |
-| 03:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 53.86 |
-| 03:00 | JPY | Thomson Reuters IPSOS PCSI (Oct) |  |  | 37.26 |
-| 03:00 | CNY | China Thomson Reuters IPSOS PCSI (Oct) |  |  | 72.82 |
+| 02:00 | AUD | RBA Gov Bullock Speaks |  |  |  |
+| 26 min | KRW | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 46.39 |
+| 26 min | INR | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 56.99 |
+| 26 min | AUD | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 53.86 |
+| 26 min | JPY | Thomson Reuters IPSOS PCSI (Oct) |  |  | 37.26 |
+| 26 min | CNY | China Thomson Reuters IPSOS PCSI (Oct) |  |  | 72.82 |
 | 07:00 | NOK | Core CPI YTD (Sep) |  | 3.1% | 3.1% |
 | 07:00 | NOK | Core Inflation (MoM) (Sep) |  | 0.4% | -0.7% |
 | 07:00 | NOK | CPI (MoM) (Sep) |  | 0.3% | -0.6% |
 | 07:00 | NOK | CPI (YoY) (Sep) |  | 3.5% | 3.5% |
-| 09:00 | EUR | Italian Industrial Production (YoY) (Aug) |  | 0.5% | 0.9% |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Aug) |  | -0.3% | 0.4% |
+| 09:00 | EUR | Italian Industrial Production (YoY) (Aug) |  | 0.5% | 0.9% |
 | 10:10 | EUR | Italian 12-Month BOT Auction |  |  | 2.030% |
 | 11:00 | EUR | ECOFIN Meetings |  |  |  |
 | 12:30 | INR | FX Reserves, USD |  |  | 700.24B |
