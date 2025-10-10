@@ -31,12 +31,12 @@
 | 13:30 | CAD | Low | Part Time Employment Change (Sep) | -45.6K |  | -59.7K |
 | 13:30 | CAD | Low | Participation Rate (Sep) | 65.2% |  | 65.1% |
 | 13:30 | CAD | Moderate | Unemployment Rate (Sep) | 7.1% | 7.2% | 7.1% |
-| 32 min | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 47 min | USD | Moderate | Michigan 1-Year Inflation Expectations (Oct) |  |  | 4.7% |
-| 47 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Oct) |  |  | 3.7% |
-| 47 min | USD | Moderate | Michigan Consumer Expectations (Oct) |  | 51.7 | 51.7 |
-| 47 min | USD | Moderate | Michigan Consumer Sentiment (Oct) |  | 54.1 | 55.1 |
-| 47 min | USD | Low | Michigan Current Conditions (Oct) |  | 60.0 | 60.4 |
+| 14:45 | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Oct) | 4.6% |  | 4.7% |
+| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Oct) | 3.7% |  | 3.7% |
+| 15:00 | USD | Moderate | Michigan Consumer Expectations (Oct) | 51.2 | 51.7 | 51.7 |
+| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Oct) | 55.0 | 54.1 | 55.1 |
+| 15:00 | USD | Low | Michigan Current Conditions (Oct) | 61.0 | 60.0 | 60.4 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  | 421 | 422 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 549 |
 | 19:00 | USD | Moderate | Federal Budget Balance (Sep) |  | 50.0B | -345.0B |

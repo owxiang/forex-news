@@ -27,5 +27,5 @@
 | 13:30 | CAD | Full Employment Change (Sep) | 106.1K |  | -6.0K |
 | 13:30 | CAD | Part Time Employment Change (Sep) | -45.6K |  | -59.7K |
 | 13:30 | CAD | Participation Rate (Sep) | 65.2% |  | 65.1% |
-| 32 min | USD | Fed Goolsbee Speaks |  |  |  |
-| 47 min | USD | Michigan Current Conditions (Oct) |  | 60.0 | 60.4 |
+| 14:45 | USD | Fed Goolsbee Speaks |  |  |  |
+| 15:00 | USD | Michigan Current Conditions (Oct) | 61.0 | 60.0 | 60.4 |
