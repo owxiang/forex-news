@@ -10,6 +10,6 @@
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Oct) | 3.7% |  | 3.7% |
 | 15:00 | USD | Michigan Consumer Expectations (Oct) | 51.2 | 51.7 | 51.7 |
 | 15:00 | USD | Michigan Consumer Sentiment (Oct) | 55.0 | 54.1 | 55.1 |
-| 52 min | USD | U.S. Baker Hughes Oil Rig Count |  | 421 | 422 |
-| 52 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 549 |
-| 19:00 | USD | Federal Budget Balance (Sep) |  | 50.0B | -345.0B |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 418 | 421 | 422 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count | 547 |  | 549 |
+| 53 min | USD | Federal Budget Balance (Sep) |  | 50.0B | -345.0B |

@@ -37,6 +37,6 @@
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Oct) | 51.2 | 51.7 | 51.7 |
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Oct) | 55.0 | 54.1 | 55.1 |
 | 15:00 | USD | Low | Michigan Current Conditions (Oct) | 61.0 | 60.0 | 60.4 |
-| 52 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  | 421 | 422 |
-| 52 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 549 |
-| 19:00 | USD | Moderate | Federal Budget Balance (Sep) |  | 50.0B | -345.0B |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 418 | 421 | 422 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 547 |  | 549 |
+| 53 min | USD | Moderate | Federal Budget Balance (Sep) |  | 50.0B | -345.0B |
