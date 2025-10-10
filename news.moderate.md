@@ -12,4 +12,4 @@
 | 15:00 | USD | Michigan Consumer Sentiment (Oct) | 55.0 | 54.1 | 55.1 |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 418 | 421 | 422 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count | 547 |  | 549 |
-| 53 min | USD | Federal Budget Balance (Sep) |  | 50.0B | -345.0B |
+| 20 min | USD | Federal Budget Balance (Sep) |  | 50.0B | -345.0B |
