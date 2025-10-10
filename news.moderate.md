@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 6 min | USD | FOMC Member Daly Speaks |  |  |  |
+| 02:40 | USD | FOMC Member Daly Speaks |  |  |  |
 | 08:00 | CHF | SECO Consumer Climate |  | -38 | -40 |
 | 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Sep) |  |  | 3.7% |
 | 13:30 | USD | Participation Rate (Sep) |  |  | 62.3% |
