@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:50 | JPY | Low | Bank Lending (YoY) (Sep) | 3.8% | 3.7% | 3.5% |
-| 00:50 | JPY | Low | PPI (YoY) (Sep) | 2.7% | 2.5% | 2.7% |
 | 00:50 | JPY | Low | PPI (MoM) (Sep) | 0.3% | 0.1% | -0.2% |
+| 00:50 | JPY | Low | PPI (YoY) (Sep) | 2.7% | 2.5% | 2.7% |
 | 02:00 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
 | 02:40 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 03:00 | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 48.96 |  | 46.39 |
@@ -17,10 +17,10 @@
 | 07:00 | NOK | Low | CPI (YoY) (Sep) | 3.6% | 3.5% | 3.5% |
 | 07:00 | NOK | Low | CPI (MoM) (Sep) | 0.4% | 0.3% | -0.6% |
 | 08:00 | CHF | Moderate | SECO Consumer Climate | -37 | -38 | -40 |
-| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Aug) | -2.7% | 0.5% | 0.9% |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Aug) | -2.4% | -0.3% | 0.4% |
-| 2 min | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.030% |
-| 52 min | EUR | Low | ECOFIN Meetings |  |  |  |
+| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Aug) | -2.7% | 0.5% | 0.9% |
+| 10:10 | EUR | Low | Italian 12-Month BOT Auction | 2.050% |  | 2.030% |
+| 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 700.24B |
 | 13:00 | MXN | Low | Industrial Production (MoM) (Aug) |  | 0.4% | -1.2% |
 | 13:00 | MXN | Low | Industrial Production (YoY) (Aug) |  | -2.2% | -2.7% |
