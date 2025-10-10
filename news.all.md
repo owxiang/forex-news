@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:50 | JPY | Low | Bank Lending (YoY) (Sep) | 3.8% | 3.7% | 3.6% |
+| 00:50 | JPY | Low | Bank Lending (YoY) (Sep) | 3.8% | 3.7% | 3.5% |
 | 00:50 | JPY | Low | PPI (MoM) (Sep) | 0.3% | 0.1% | -0.2% |
 | 00:50 | JPY | Low | PPI (YoY) (Sep) | 2.7% | 2.5% | 2.7% |
 | 02:00 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
@@ -12,10 +12,10 @@
 | 03:00 | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 51.80 |  | 53.86 |
 | 03:00 | JPY | Low | Thomson Reuters IPSOS PCSI (Oct) | 35.21 |  | 37.26 |
 | 03:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Oct) | 74.19 |  | 72.82 |
-| 07:00 | NOK | Low | Core CPI YTD (Sep) |  | 3.1% | 3.1% |
-| 07:00 | NOK | Low | Core Inflation (MoM) (Sep) |  | 0.4% | -0.7% |
-| 07:00 | NOK | Low | CPI (MoM) (Sep) |  | 0.3% | -0.6% |
-| 07:00 | NOK | Low | CPI (YoY) (Sep) |  | 3.5% | 3.5% |
+| 53 min | NOK | Low | Core CPI YTD (Sep) |  | 3.1% | 3.1% |
+| 53 min | NOK | Low | Core Inflation (MoM) (Sep) |  | 0.4% | -0.7% |
+| 53 min | NOK | Low | CPI (MoM) (Sep) |  | 0.3% | -0.6% |
+| 53 min | NOK | Low | CPI (YoY) (Sep) |  | 3.5% | 3.5% |
 | 08:00 | CHF | Moderate | SECO Consumer Climate |  | -38 | -40 |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Aug) |  | 0.5% | 0.9% |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Aug) |  | -0.3% | 0.4% |
