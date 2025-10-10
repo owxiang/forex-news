@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 43 min | JPY | Low | Bank Lending (YoY) (Sep) |  | 3.7% | 3.6% |
-| 43 min | JPY | Low | PPI (MoM) (Sep) |  | 0.1% | -0.2% |
-| 43 min | JPY | Low | PPI (YoY) (Sep) |  | 2.5% | 2.7% |
-| 02:00 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
+| 00:50 | JPY | Low | Bank Lending (YoY) (Sep) | 3.8% | 3.7% | 3.6% |
+| 00:50 | JPY | Low | PPI (MoM) (Sep) | 0.3% | 0.1% | -0.2% |
+| 00:50 | JPY | Low | PPI (YoY) (Sep) | 2.7% | 2.5% | 2.7% |
+| 32 min | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
 | 02:40 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 03:00 | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 46.39 |
 | 03:00 | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 56.99 |
@@ -14,19 +14,19 @@
 | 03:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Oct) |  |  | 72.82 |
 | 07:00 | NOK | Low | Core CPI YTD (Sep) |  | 3.1% | 3.1% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Sep) |  | 0.4% | -0.7% |
-| 07:00 | NOK | Low | CPI (YoY) (Sep) |  | 3.5% | 3.5% |
 | 07:00 | NOK | Low | CPI (MoM) (Sep) |  | 0.3% | -0.6% |
+| 07:00 | NOK | Low | CPI (YoY) (Sep) |  | 3.5% | 3.5% |
 | 08:00 | CHF | Moderate | SECO Consumer Climate |  | -38 | -40 |
-| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Aug) |  | -0.3% | 0.4% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Aug) |  | 0.5% | 0.9% |
+| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Aug) |  | -0.3% | 0.4% |
 | 10:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.030% |
 | 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 700.24B |
-| 13:00 | MXN | Low | Industrial Production (MoM) (Aug) |  | 0.4% | -1.2% |
 | 13:00 | MXN | Low | Industrial Production (YoY) (Aug) |  | -2.2% | -2.7% |
+| 13:00 | MXN | Low | Industrial Production (MoM) (Aug) |  | 0.4% | -1.2% |
 | 13:00 | BRL | Low | Brazilian PPI (MoM) (Aug) |  |  | -0.30% |
-| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Sep) |  |  | 3.7% |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Sep) |  | 0.3% | 0.3% |
+| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Sep) |  |  | 3.7% |
 | 13:30 | USD | Low | Average Weekly Hours (Sep) |  | 34.2 | 34.2 |
 | 13:30 | USD | Low | Government Payrolls (Sep) |  |  | -16.0K |
 | 13:30 | USD | Low | Manufacturing Payrolls (Sep) |  |  | -12K |
