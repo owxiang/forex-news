@@ -17,13 +17,13 @@
 | 07:00 | NOK | Low | CPI (YoY) (Sep) | 3.6% | 3.5% | 3.5% |
 | 07:00 | NOK | Low | CPI (MoM) (Sep) | 0.4% | 0.3% | -0.6% |
 | 08:00 | CHF | Moderate | SECO Consumer Climate | -37 | -38 | -40 |
-| 53 min | EUR | Low | Italian Industrial Production (MoM) (Aug) |  | -0.3% | 0.4% |
-| 53 min | EUR | Low | Italian Industrial Production (YoY) (Aug) |  | 0.5% | 0.9% |
+| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Aug) | -2.4% | -0.3% | 0.4% |
+| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Aug) | -2.7% | 0.5% | 0.9% |
 | 10:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.030% |
 | 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 700.24B |
-| 13:00 | MXN | Low | Industrial Production (YoY) (Aug) |  | -2.2% | -2.7% |
 | 13:00 | MXN | Low | Industrial Production (MoM) (Aug) |  | 0.4% | -1.2% |
+| 13:00 | MXN | Low | Industrial Production (YoY) (Aug) |  | -2.2% | -2.7% |
 | 13:00 | BRL | Low | Brazilian PPI (MoM) (Aug) |  |  | -0.30% |
 | 13:30 | CAD | Low | Avg hourly wages Permanent employee (Sep) |  |  | 3.6% |
 | 13:30 | CAD | Moderate | Employment Change (Sep) |  | 2.8K | -65.5K |
