@@ -4,10 +4,6 @@
 |------|----------|-------|--------|----------|----------|
 | 02:40 | USD | FOMC Member Daly Speaks |  |  |  |
 | 08:00 | CHF | SECO Consumer Climate |  | -38 | -40 |
-| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Sep) |  |  | 3.7% |
-| 13:30 | USD | Participation Rate (Sep) |  |  | 62.3% |
-| 13:30 | USD | Private Nonfarm Payrolls (Sep) |  | 35K | 38K |
-| 13:30 | USD | U6 Unemployment Rate (Sep) |  |  | 8.1% |
 | 13:30 | CAD | Employment Change (Sep) |  | 2.8K | -65.5K |
 | 13:30 | CAD | Unemployment Rate (Sep) |  | 7.2% | 7.1% |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Oct) |  |  | 4.7% |
