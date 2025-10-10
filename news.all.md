@@ -14,16 +14,16 @@
 | 03:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Oct) | 74.19 |  | 72.82 |
 | 07:00 | NOK | Low | Core CPI YTD (Sep) | 3.0% | 3.1% | 3.1% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Sep) | 0.2% | 0.4% | -0.7% |
-| 07:00 | NOK | Low | CPI (MoM) (Sep) | 0.4% | 0.3% | -0.6% |
 | 07:00 | NOK | Low | CPI (YoY) (Sep) | 3.6% | 3.5% | 3.5% |
+| 07:00 | NOK | Low | CPI (MoM) (Sep) | 0.4% | 0.3% | -0.6% |
 | 08:00 | CHF | Moderate | SECO Consumer Climate | -37 | -38 | -40 |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Aug) | -2.4% | -0.3% | 0.4% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Aug) | -2.7% | 0.5% | 0.9% |
 | 10:10 | EUR | Low | Italian 12-Month BOT Auction | 2.050% |  | 2.030% |
 | 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 12:30 | INR | Low | FX Reserves, USD | 699.96B |  | 700.24B |
-| 13:00 | MXN | Low | Industrial Production (YoY) (Aug) | -3.6% | -2.2% | -2.7% |
 | 13:00 | MXN | Low | Industrial Production (MoM) (Aug) | -0.3% | 0.4% | -1.2% |
+| 13:00 | MXN | Low | Industrial Production (YoY) (Aug) | -3.6% | -2.2% | -2.7% |
 | 13:00 | BRL | Low | Brazilian PPI (MoM) (Aug) | -0.20% |  | -0.31% |
 | 13:30 | CAD | Low | Avg hourly wages Permanent employee (Sep) | 3.6% |  | 3.6% |
 | 13:30 | CAD | Moderate | Employment Change (Sep) | 60.4K | 2.8K | -65.5K |
