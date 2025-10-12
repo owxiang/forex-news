@@ -2,6 +2,6 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 25 min | NZD | Low | Performance of Services Index (Sep) |  |  | 47.5 |
-| 40 min | NZD | Low | External Migration & Visitors (Aug) |  |  | 6.60% |
-| 40 min | NZD | Low | Permanent/Long-Term Migration (Aug) |  |  | 2,060 |
+| 22:30 | NZD | Low | Performance of Services Index (Sep) | 48.3 |  | 47.6 |
+| 22:45 | NZD | Low | External Migration & Visitors (Aug) | 7.50% |  | 6.60% |
+| 22:45 | NZD | Low | Permanent/Long-Term Migration (Aug) | 460 |  | 1,770 |
