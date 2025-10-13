@@ -10,4 +10,4 @@
 | 14:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 18:30 | EUR | German Buba Balz Speaks |  |  |  |
 | 20:10 | GBP | BoE MPC Member Mann Speaks |  |  |  |
-| 39 min | NZD | Electronic Card Retail Sales (MoM) (Sep) |  |  | 0.7% |
+| 22:45 | NZD | Electronic Card Retail Sales (MoM) (Sep) | -0.5% |  | 0.6% |
