@@ -7,7 +7,7 @@
 | 04:30 | CNY | Trade Balance (USD) (Sep) | 90.45B | 98.50B | 102.33B |
 | 11:30 | INR | CPI (YoY) (Sep) | 1.54% | 1.70% | 2.07% |
 | 12:00 | USD | OPEC Monthly Report |  |  |  |
-| 14:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 48 min | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 15:00 | USD | Construction Spending (MoM) (Aug) |  | -0.1% | -0.1% |
 | 18:30 | EUR | German Buba Balz Speaks |  |  |  |
 | 20:10 | GBP | BoE MPC Member Mann Speaks |  |  |  |
