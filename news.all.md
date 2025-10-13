@@ -6,8 +6,8 @@
 | 07:00 | EUR | Low | German WPI (MoM) (Sep) |  | 0.2% | -0.6% |
 | 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 1.938% |
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
-| 11:30 | INR | Moderate | CPI (YoY) (Sep) |  | 1.70% | 2.07% |
 | 11:30 | INR | Moderate | CPI (YoY) (Sep) |  |  | 2.07% |
+| 11:30 | INR | Moderate | CPI (YoY) (Sep) |  | 1.70% | 2.07% |
 | 12:00 | USD | Low | CB Employment Trends Index (Sep) |  |  | 106.41 |
 | 12:00 | USD | Moderate | Construction Spending (MoM) (Aug) |  | -0.1% | -0.1% |
 | 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
