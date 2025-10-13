@@ -9,7 +9,7 @@
 | 14:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 18:30 | EUR | German Buba Balz Speaks |  |  |  |
 | 20:10 | GBP | BoE MPC Member Mann Speaks |  |  |  |
-| 21:41 | CNY | Exports (YoY) (Oct) |  | 6.0% | 4.4% |
-| 21:41 | CNY | Imports (YoY) (Oct) |  | 1.5% | 1.3% |
-| 21:41 | CNY | Trade Balance (USD) (Oct) |  | 98.96B | 102.33B |
+| 21:41 | CNY | Exports (YoY) (Sep) |  | 6.0% | 4.4% |
+| 21:41 | CNY | Imports (YoY) (Sep) |  | 1.5% | 1.3% |
+| 21:41 | CNY | Trade Balance (USD) (Sep) |  | 98.96B | 102.33B |
 | 22:45 | NZD | Electronic Card Retail Sales (MoM) (Sep) |  |  | 0.7% |
