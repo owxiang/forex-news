@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | EUR | German WPI (MoM) (Sep) |  | 0.2% | -0.6% |
 | 07:00 | EUR | German WPI (YoY) (Sep) |  |  | 0.7% |
+| 07:00 | EUR | German WPI (MoM) (Sep) |  | 0.2% | -0.6% |
 | 10:30 | EUR | German 12-Month Bubill Auction |  |  | 1.938% |
 | 11:00 | USD | IMF Meetings |  |  |  |
 | 12:00 | USD | CB Employment Trends Index (Sep) |  |  | 106.41 |
