@@ -7,8 +7,8 @@
 | 04:30 | CNY | Trade Balance (Sep) | 645.47B | 710.00B | 732.70B |
 | 07:00 | EUR | German WPI (MoM) (Sep) | 0.2% | 0.2% | -0.6% |
 | 07:00 | EUR | German WPI (YoY) (Sep) | 1.2% |  | 0.7% |
-| 10:30 | EUR | German 12-Month Bubill Auction |  |  | 1.938% |
-| 11:00 | USD | IMF Meetings |  |  |  |
+| 21 min | EUR | German 12-Month Bubill Auction |  |  | 1.938% |
+| 51 min | USD | IMF Meetings |  |  |  |
 | 12:00 | USD | CB Employment Trends Index (Sep) |  |  | 106.41 |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:00 | EUR | German Current Account Balance n.s.a (Aug) |  |  | 14.8B |
