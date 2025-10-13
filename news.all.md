@@ -2,14 +2,14 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 03:58 | CNY | Low | Exports (Sep) | 8.40M |  | 4.80M |
-| 03:58 | CNY | Low | Imports (Sep) | 7.50M |  | 1.70M |
-| 03:58 | CNY | Low | Trade Balance (Sep) | 645.47B | 710.00B | 732.70B |
-| 04:00 | CNY | Moderate | Exports (YoY) (Sep) | 8.3% | 6.0% | 4.4% |
-| 04:00 | CNY | Moderate | Imports (YoY) (Sep) | 7.4% | 1.5% | 1.3% |
-| 04:00 | CNY | Moderate | Trade Balance (USD) (Sep) | 90.45B | 98.96B | 102.33B |
-| 07:00 | EUR | Low | German WPI (YoY) (Sep) |  |  | 0.7% |
+| 04:39 | CNY | Low | Exports (Sep) | 8.40M |  | 4.80M |
+| 04:39 | CNY | Low | Imports (Sep) | 7.50M |  | 1.70M |
+| 04:39 | CNY | Low | Trade Balance (Sep) | 645.47B | 710.00B | 732.70B |
+| 04:48 | CNY | Moderate | Exports (YoY) (Sep) | 8.3% | 6.0% | 4.4% |
+| 04:48 | CNY | Moderate | Imports (YoY) (Sep) | 7.4% | 1.5% | 1.3% |
+| 04:48 | CNY | Moderate | Trade Balance (USD) (Sep) | 90.45B | 98.96B | 102.33B |
 | 07:00 | EUR | Low | German WPI (MoM) (Sep) |  | 0.2% | -0.6% |
+| 07:00 | EUR | Low | German WPI (YoY) (Sep) |  |  | 0.7% |
 | 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 1.938% |
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
 | 11:30 | INR | Moderate | CPI (YoY) (Sep) |  | 1.70% | 2.07% |

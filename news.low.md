@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:58 | CNY | Exports (Sep) | 8.40M |  | 4.80M |
-| 03:58 | CNY | Imports (Sep) | 7.50M |  | 1.70M |
-| 03:58 | CNY | Trade Balance (Sep) | 645.47B | 710.00B | 732.70B |
-| 07:00 | EUR | German WPI (YoY) (Sep) |  |  | 0.7% |
+| 04:39 | CNY | Exports (Sep) | 8.40M |  | 4.80M |
+| 04:39 | CNY | Imports (Sep) | 7.50M |  | 1.70M |
+| 04:39 | CNY | Trade Balance (Sep) | 645.47B | 710.00B | 732.70B |
 | 07:00 | EUR | German WPI (MoM) (Sep) |  | 0.2% | -0.6% |
+| 07:00 | EUR | German WPI (YoY) (Sep) |  |  | 0.7% |
 | 10:30 | EUR | German 12-Month Bubill Auction |  |  | 1.938% |
 | 11:00 | USD | IMF Meetings |  |  |  |
 | 12:00 | USD | CB Employment Trends Index (Sep) |  |  | 106.41 |
