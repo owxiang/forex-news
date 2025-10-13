@@ -14,5 +14,5 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 2.019% |  | 2.051% |
 | 14:00 | EUR | French 3-Month BTF Auction | 1.958% |  | 1.999% |
 | 14:00 | EUR | French 6-Month BTF Auction | 2.009% |  | 2.034% |
-| 17:55 | USD | Treasury Secretary Paulson Speaks |  |  |  |
+| 47 min | USD | Treasury Secretary Paulson Speaks |  |  |  |
 | 22:45 | NZD | Electronic Card Retail Sales (YoY) (Sep) |  |  | 0.9% |

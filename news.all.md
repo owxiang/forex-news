@@ -20,7 +20,7 @@
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.019% |  | 2.051% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 1.958% |  | 1.999% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.009% |  | 2.034% |
-| 17:55 | USD | Low | Treasury Secretary Paulson Speaks |  |  |  |
+| 47 min | USD | Low | Treasury Secretary Paulson Speaks |  |  |  |
 | 18:30 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 20:10 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 22:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Sep) |  |  | 0.9% |
