@@ -8,7 +8,6 @@
 | 11:30 | INR | CPI (YoY) (Sep) | 1.54% | 1.70% | 2.07% |
 | 12:00 | USD | OPEC Monthly Report |  |  |  |
 | 14:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 45 min | USD | Construction Spending (MoM) (Aug) |  | -0.1% | -0.1% |
 | 18:30 | EUR | German Buba Balz Speaks |  |  |  |
 | 20:10 | GBP | BoE MPC Member Mann Speaks |  |  |  |
 | 22:45 | NZD | Electronic Card Retail Sales (MoM) (Sep) |  |  | 0.7% |
