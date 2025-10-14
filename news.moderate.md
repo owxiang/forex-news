@@ -5,13 +5,13 @@
 | 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Sep) | 2.0% | 2.5% | 2.9% |
 | 01:30 | AUD | RBA Meeting Minutes |  |  |  |
 | 01:30 | AUD | NAB Business Confidence (Sep) | 7 |  | 4 |
-| 53 min | GBP | Average Earnings Index +Bonus (Aug) |  | 4.7% | 4.7% |
-| 53 min | GBP | Claimant Count Change (Sep) |  | 10.3K | 17.4K |
-| 53 min | GBP | Employment Change 3M/3M (MoM) (Aug) |  |  | 232K |
-| 53 min | GBP | Unemployment Rate (Aug) |  | 4.7% | 4.7% |
-| 53 min | EUR | German CPI (YoY) (Sep) |  | 2.4% | 2.2% |
-| 07:30 | CHF | PPI (MoM) (Sep) |  | -0.2% | -0.6% |
-| 07:30 | INR | WPI Inflation (YoY) (Sep) |  | 0.50% | 0.52% |
+| 07:00 | GBP | Average Earnings Index +Bonus (Aug) | 5.0% | 4.7% | 4.8% |
+| 07:00 | GBP | Claimant Count Change (Sep) | 25.8K | 10.3K | -2.0K |
+| 07:00 | GBP | Employment Change 3M/3M (MoM) (Aug) | 91K |  | 232K |
+| 07:00 | GBP | Unemployment Rate (Aug) | 4.8% | 4.7% | 4.7% |
+| 07:00 | EUR | German CPI (YoY) (Sep) | 2.4% | 2.4% | 2.2% |
+| 19 min | CHF | PPI (MoM) (Sep) |  | -0.2% | -0.6% |
+| 19 min | INR | WPI Inflation (YoY) (Sep) |  | 0.50% | 0.52% |
 | 09:00 | USD | IEA Monthly Report |  |  |  |
 | 10:00 | EUR | German ZEW Current Conditions (Oct) |  | -75.0 | -76.4 |
 | 10:00 | EUR | German ZEW Economic Sentiment (Oct) |  | 41.2 | 37.3 |

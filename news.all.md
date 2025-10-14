@@ -5,26 +5,26 @@
 | 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Sep) | 2.0% | 2.5% | 2.9% |
 | 00:50 | JPY | Low | M2 Money Stock (YoY) | 1.6% |  | 1.3% |
 | 00:50 | JPY | Low | M3 Money Supply (Sep) | 2,228.9B |  | 2,221.9B |
-| 01:00 | SGD | Low | GDP (QoQ) (Q3) | 1.3% | 0.3% | 1.5% |
 | 01:00 | SGD | Low | GDP (YoY) (Q3) | 2.9% | 2.0% | 4.5% |
+| 01:00 | SGD | Low | GDP (QoQ) (Q3) | 1.3% | 0.3% | 1.5% |
 | 01:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
 | 01:30 | AUD | Moderate | NAB Business Confidence (Sep) | 7 |  | 4 |
 | 01:30 | AUD | Low | NAB Business Survey (Sep) | 8 |  | 8 |
-| 53 min | GBP | Low | Average Earnings ex Bonus (Aug) |  | 4.7% | 4.8% |
-| 53 min | GBP | Moderate | Average Earnings Index +Bonus (Aug) |  | 4.7% | 4.7% |
-| 53 min | GBP | Moderate | Claimant Count Change (Sep) |  | 10.3K | 17.4K |
-| 53 min | GBP | Moderate | Employment Change 3M/3M (MoM) (Aug) |  |  | 232K |
-| 53 min | GBP | Moderate | Unemployment Rate (Aug) |  | 4.7% | 4.7% |
-| 53 min | EUR | Moderate | German CPI (YoY) (Sep) |  | 2.4% | 2.2% |
-| 53 min | EUR | High | German CPI (MoM) (Sep) |  | 0.2% | 0.1% |
-| 53 min | EUR | Low | German HICP (YoY) (Sep) |  | 2.4% | 2.1% |
-| 53 min | EUR | Low | German HICP (MoM) (Sep) |  | 0.2% | 0.1% |
-| 07:30 | CHF | Low | PPI (YoY) (Sep) |  |  | -1.8% |
-| 07:30 | CHF | Moderate | PPI (MoM) (Sep) |  | -0.2% | -0.6% |
-| 07:30 | INR | Low | WPI Food (YoY) (Sep) |  |  | -3.06% |
-| 07:30 | INR | Low | WPI Fuel (YoY) (Sep) |  |  | -3.17% |
-| 07:30 | INR | Moderate | WPI Inflation (YoY) (Sep) |  | 0.50% | 0.52% |
-| 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Sep) |  |  | 2.55% |
+| 07:00 | GBP | Low | Average Earnings ex Bonus (Aug) | 4.7% | 4.7% | 4.8% |
+| 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Aug) | 5.0% | 4.7% | 4.8% |
+| 07:00 | GBP | Moderate | Claimant Count Change (Sep) | 25.8K | 10.3K | -2.0K |
+| 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Aug) | 91K |  | 232K |
+| 07:00 | GBP | Moderate | Unemployment Rate (Aug) | 4.8% | 4.7% | 4.7% |
+| 07:00 | EUR | High | German CPI (MoM) (Sep) | 0.2% | 0.2% | 0.1% |
+| 07:00 | EUR | Moderate | German CPI (YoY) (Sep) | 2.4% | 2.4% | 2.2% |
+| 07:00 | EUR | Low | German HICP (YoY) (Sep) | 2.4% | 2.4% | 2.1% |
+| 07:00 | EUR | Low | German HICP (MoM) (Sep) | 0.2% | 0.2% | 0.1% |
+| 19 min | CHF | Low | PPI (YoY) (Sep) |  |  | -1.8% |
+| 19 min | CHF | Moderate | PPI (MoM) (Sep) |  | -0.2% | -0.6% |
+| 19 min | INR | Low | WPI Food (YoY) (Sep) |  |  | -3.06% |
+| 19 min | INR | Low | WPI Fuel (YoY) (Sep) |  |  | -3.17% |
+| 19 min | INR | Moderate | WPI Inflation (YoY) (Sep) |  | 0.50% | 0.52% |
+| 19 min | INR | Low | WPI Manufacturing Inflation (YoY) (Sep) |  |  | 2.55% |
 | 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
 | 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 1.909% |
 | 10:00 | EUR | Moderate | German ZEW Current Conditions (Oct) |  | -75.0 | -76.4 |

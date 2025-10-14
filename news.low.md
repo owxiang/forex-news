@@ -4,16 +4,16 @@
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | M2 Money Stock (YoY) | 1.6% |  | 1.3% |
 | 00:50 | JPY | M3 Money Supply (Sep) | 2,228.9B |  | 2,221.9B |
-| 01:00 | SGD | GDP (QoQ) (Q3) | 1.3% | 0.3% | 1.5% |
 | 01:00 | SGD | GDP (YoY) (Q3) | 2.9% | 2.0% | 4.5% |
+| 01:00 | SGD | GDP (QoQ) (Q3) | 1.3% | 0.3% | 1.5% |
 | 01:30 | AUD | NAB Business Survey (Sep) | 8 |  | 8 |
-| 53 min | GBP | Average Earnings ex Bonus (Aug) |  | 4.7% | 4.8% |
-| 53 min | EUR | German HICP (YoY) (Sep) |  | 2.4% | 2.1% |
-| 53 min | EUR | German HICP (MoM) (Sep) |  | 0.2% | 0.1% |
-| 07:30 | CHF | PPI (YoY) (Sep) |  |  | -1.8% |
-| 07:30 | INR | WPI Food (YoY) (Sep) |  |  | -3.06% |
-| 07:30 | INR | WPI Fuel (YoY) (Sep) |  |  | -3.17% |
-| 07:30 | INR | WPI Manufacturing Inflation (YoY) (Sep) |  |  | 2.55% |
+| 07:00 | GBP | Average Earnings ex Bonus (Aug) | 4.7% | 4.7% | 4.8% |
+| 07:00 | EUR | German HICP (YoY) (Sep) | 2.4% | 2.4% | 2.1% |
+| 07:00 | EUR | German HICP (MoM) (Sep) | 0.2% | 0.2% | 0.1% |
+| 19 min | CHF | PPI (YoY) (Sep) |  |  | -1.8% |
+| 19 min | INR | WPI Food (YoY) (Sep) |  |  | -3.06% |
+| 19 min | INR | WPI Fuel (YoY) (Sep) |  |  | -3.17% |
+| 19 min | INR | WPI Manufacturing Inflation (YoY) (Sep) |  |  | 2.55% |
 | 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 1.909% |
 | 10:00 | CNY | M2 Money Stock (YoY) (Sep) |  | 8.5% | 8.8% |
 | 10:00 | CNY | Outstanding Loan Growth (YoY) (Sep) |  | 6.7% | 6.8% |
