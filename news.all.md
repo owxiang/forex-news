@@ -5,8 +5,8 @@
 | 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Sep) | 2.0% | 2.5% | 2.9% |
 | 00:50 | JPY | Low | M2 Money Stock (YoY) | 1.6% |  | 1.3% |
 | 00:50 | JPY | Low | M3 Money Supply (Sep) | 2,228.9B |  | 2,221.9B |
-| 01:00 | SGD | Low | GDP (QoQ) (Q3) | 5.4% | 2.0% | 1.5% |
 | 01:00 | SGD | Low | GDP (YoY) (Q3) | 2.9% | 2.0% | 4.5% |
+| 01:00 | SGD | Low | GDP (QoQ) (Q3) | 5.4% | 2.0% | 1.5% |
 | 01:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
 | 01:30 | AUD | Moderate | NAB Business Confidence (Sep) | 7 |  | 4 |
 | 01:30 | AUD | Low | NAB Business Survey (Sep) | 8 |  | 8 |
@@ -47,8 +47,8 @@
 | 12:00 | USD | Low | CB Employment Trends Index (Sep) |  |  | 106.41 |
 | 12:00 | USD | Moderate | Construction Spending (MoM) (Aug) |  | -0.1% | -0.1% |
 | 12:00 | USD | Low | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.4% |
-| 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Aug) |  |  | 0.3% |
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Aug) |  |  | 2.8% |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Aug) |  |  | 0.3% |
 | 13:30 | CAD | Moderate | Building Permits (MoM) (Aug) |  | 0.2% | -0.1% |
 | 13:45 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.8% |
