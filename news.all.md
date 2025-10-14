@@ -5,8 +5,8 @@
 | 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Sep) | 2.0% | 2.5% | 2.9% |
 | 00:50 | JPY | Low | M2 Money Stock (YoY) | 1.6% |  | 1.3% |
 | 00:50 | JPY | Low | M3 Money Supply (Sep) | 2,228.9B |  | 2,221.9B |
-| 01:00 | SGD | Low | GDP (QoQ) (Q3) | 1.3% | 0.3% | 1.5% |
 | 01:00 | SGD | Low | GDP (YoY) (Q3) | 2.9% | 2.0% | 4.5% |
+| 01:00 | SGD | Low | GDP (QoQ) (Q3) | 1.3% | 0.3% | 1.5% |
 | 01:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
 | 01:30 | AUD | Moderate | NAB Business Confidence (Sep) | 7 |  | 4 |
 | 01:30 | AUD | Low | NAB Business Survey (Sep) | 8 |  | 8 |
@@ -35,16 +35,17 @@
 | 10:10 | EUR | Low | Italian 3-Year BTP Auction | 2.36% |  | 2.44% |
 | 10:10 | EUR | Low | Italian 7-Year BTP Auction | 3.05% |  | 2.76% |
 | 10:30 | EUR | Low | German 2-Year Schatz Auction | 1.910% |  | 2.010% |
-| 10:30 | ZAR | Low | Business Confidence (Sep) | 121.1 |  | 116.7 |
+| 10:30 | ZAR | Low | Business Confidence (Aug) | 120.0 |  | 116.7 |
 | 10:30 | ZAR | Low | Gold Production (YoY) (Aug) | -3.6% |  | -0.4% |
 | 10:30 | ZAR | Low | Mining Production (Aug) | -0.2% | 1.0% | 5.1% |
+| 10:31 | ZAR | Low | Business Confidence (Sep) | 121.1 |  | 120.0 |
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
 | 11:00 | USD | Low | NFIB Small Business Optimism (Sep) | 98.8 | 100.6 | 100.8 |
-| 54 min | BRL | Low | Brazilian Service Sector Growth (YoY) (Aug) |  |  | 2.8% |
-| 54 min | BRL | Low | Brazilian Service Sector Growth (MoM) (Aug) |  |  | 0.3% |
-| 13:30 | CAD | Moderate | Building Permits (MoM) (Aug) |  | -0.7% | -0.1% |
-| 13:45 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 5.8% |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Aug) | 0.1% |  | 0.3% |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Aug) | 2.5% |  | 2.8% |
+| 18 min | CAD | Moderate | Building Permits (MoM) (Aug) |  | -0.7% | -0.1% |
+| 33 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 43 min | USD | Low | Redbook (YoY) |  |  | 5.8% |
 | 16:15 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.850% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.695% |
