@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | M2 Money Stock (YoY) | 1.6% |  | 1.3% |
 | 00:50 | JPY | M3 Money Supply (Sep) | 2,228.9B |  | 2,221.9B |
-| 01:00 | SGD | GDP (YoY) (Q3) | 2.9% | 2.0% | 4.5% |
 | 01:00 | SGD | GDP (QoQ) (Q3) | 1.3% | 0.3% | 1.5% |
+| 01:00 | SGD | GDP (YoY) (Q3) | 2.9% | 2.0% | 4.5% |
 | 01:30 | AUD | NAB Business Survey (Sep) | 8 |  | 8 |
 | 07:00 | GBP | Average Earnings ex Bonus (Aug) | 4.7% | 4.7% | 4.8% |
 | 07:00 | EUR | German HICP (MoM) (Sep) | 0.2% | 0.2% | 0.1% |
@@ -25,9 +25,9 @@
 | 10:31 | ZAR | Business Confidence (Sep) | 121.1 |  | 120.0 |
 | 11:00 | USD | IMF Meetings |  |  |  |
 | 11:00 | USD | NFIB Small Business Optimism (Sep) | 98.8 | 100.6 | 100.8 |
-| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Aug) | 0.1% |  | 0.3% |
-| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Aug) | 2.5% |  | 2.8% |
-| 43 min | USD | Redbook (YoY) |  |  | 5.8% |
+| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Aug) | 0.1% |  | 0.2% |
+| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Aug) | 2.5% |  | 2.9% |
+| 13:55 | USD | Redbook (YoY) | 5.9% |  | 5.8% |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 3.850% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 3.695% |
 | 20:30 | USD | Fed Collins Speaks |  |  |  |
