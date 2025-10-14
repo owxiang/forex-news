@@ -46,9 +46,9 @@
 | 13:30 | CAD | Moderate | Building Permits (MoM) (Aug) | -1.2% | -0.7% | -1.1% |
 | 13:45 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 13:55 | USD | Low | Redbook (YoY) | 5.9% |  | 5.8% |
-| 16:15 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.850% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.695% |
+| 8 min | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
+| 23 min | USD | Low | 3-Month Bill Auction |  |  | 3.850% |
+| 23 min | USD | Low | 6-Month Bill Auction |  |  | 3.695% |
 | 17:20 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 18:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 20:25 | USD | Moderate | Fed Waller Speaks |  |  |  |

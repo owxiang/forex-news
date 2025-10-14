@@ -28,6 +28,6 @@
 | 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Aug) | 0.1% |  | 0.2% |
 | 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Aug) | 2.5% |  | 2.9% |
 | 13:55 | USD | Redbook (YoY) | 5.9% |  | 5.8% |
-| 16:30 | USD | 3-Month Bill Auction |  |  | 3.850% |
-| 16:30 | USD | 6-Month Bill Auction |  |  | 3.695% |
+| 23 min | USD | 3-Month Bill Auction |  |  | 3.850% |
+| 23 min | USD | 6-Month Bill Auction |  |  | 3.695% |
 | 20:30 | USD | Fed Collins Speaks |  |  |  |
