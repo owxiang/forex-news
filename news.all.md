@@ -5,8 +5,8 @@
 | 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Sep) | 2.0% | 2.5% | 2.9% |
 | 00:50 | JPY | Low | M2 Money Stock (YoY) | 1.6% |  | 1.3% |
 | 00:50 | JPY | Low | M3 Money Supply (Sep) | 2,228.9B |  | 2,221.9B |
-| 01:00 | SGD | Low | GDP (QoQ) (Q3) | 1.3% | 0.3% | 1.5% |
 | 01:00 | SGD | Low | GDP (YoY) (Q3) | 2.9% | 2.0% | 4.5% |
+| 01:00 | SGD | Low | GDP (QoQ) (Q3) | 1.3% | 0.3% | 1.5% |
 | 01:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
 | 01:30 | AUD | Moderate | NAB Business Confidence (Sep) | 7 |  | 4 |
 | 01:30 | AUD | Low | NAB Business Survey (Sep) | 8 |  | 8 |
