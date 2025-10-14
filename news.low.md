@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 44 min | JPY | M2 Money Stock (YoY) |  |  | 1.3% |
-| 44 min | JPY | M3 Money Supply (Sep) |  |  | 2,219.7B |
-| 54 min | SGD | GDP (QoQ) (Q3) |  | 2.0% | 5.8% |
-| 54 min | SGD | GDP (YoY) (Q3) |  | 2.0% | 4.4% |
-| 01:30 | AUD | NAB Business Survey (Sep) |  |  | 7 |
+| 00:50 | JPY | M2 Money Stock (YoY) | 1.6% |  | 1.3% |
+| 00:50 | JPY | M3 Money Supply (Sep) | 2,228.9B |  | 2,221.9B |
+| 01:00 | SGD | GDP (YoY) (Q3) | 2.9% | 2.0% | 4.5% |
+| 01:00 | SGD | GDP (QoQ) (Q3) | 5.4% | 2.0% | 1.5% |
+| 2 min | AUD | NAB Business Survey (Sep) |  |  | 7 |
 | 07:00 | GBP | Average Earnings ex Bonus (Aug) |  | 4.7% | 4.8% |
 | 07:00 | EUR | German HICP (YoY) (Sep) |  | 2.4% | 2.1% |
 | 07:00 | EUR | German HICP (MoM) (Sep) |  | 0.2% | 0.1% |
