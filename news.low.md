@@ -30,4 +30,4 @@
 | 13:55 | USD | Redbook (YoY) | 5.9% |  | 5.8% |
 | 16:30 | USD | 3-Month Bill Auction | 3.845% |  | 3.850% |
 | 16:30 | USD | 6-Month Bill Auction | 3.685% |  | 3.695% |
-| 24 min | USD | Fed Collins Speaks |  |  |  |
+| 20:30 | USD | Fed Collins Speaks |  |  |  |

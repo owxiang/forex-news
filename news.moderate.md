@@ -21,4 +21,4 @@
 | 13:45 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 16:15 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 18:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 19 min | USD | Fed Waller Speaks |  |  |  |
+| 20:25 | USD | Fed Waller Speaks |  |  |  |
