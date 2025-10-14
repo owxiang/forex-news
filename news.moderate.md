@@ -1,24 +1,28 @@
-## 14 October 2025 - Moderate Impact Forex News
+## 15 October 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Sep) | 2.0% | 2.5% | 2.9% |
-| 01:30 | AUD | RBA Meeting Minutes |  |  |  |
-| 01:30 | AUD | NAB Business Confidence (Sep) | 7 |  | 4 |
-| 07:00 | GBP | Average Earnings Index +Bonus (Aug) | 5.0% | 4.7% | 4.8% |
-| 07:00 | GBP | Claimant Count Change (Sep) | 25.8K | 10.3K | -2.0K |
-| 07:00 | GBP | Employment Change 3M/3M (MoM) (Aug) | 91K |  | 232K |
-| 07:00 | GBP | Unemployment Rate (Aug) | 4.8% | 4.7% | 4.7% |
-| 07:00 | EUR | German CPI (YoY) (Sep) | 2.4% | 2.4% | 2.2% |
-| 07:30 | CHF | PPI (MoM) (Sep) | -0.2% | -0.2% | -0.6% |
-| 07:30 | INR | WPI Inflation (YoY) (Sep) | 0.13% | 0.50% | 0.52% |
-| 09:00 | USD | IEA Monthly Report |  |  |  |
-| 10:00 | EUR | German ZEW Current Conditions (Oct) | -80.0 | -75.0 | -76.4 |
-| 10:00 | EUR | German ZEW Economic Sentiment (Oct) | 39.3 | 41.2 | 37.3 |
-| 10:00 | EUR | ZEW Economic Sentiment (Oct) | 22.7 | 30.2 | 26.1 |
-| 10:10 | EUR | Italian 10-Year BTP Auction | 2.23% |  | 3.62% |
-| 13:30 | CAD | Building Permits (MoM) (Aug) | -1.2% | -0.7% | -1.1% |
-| 13:45 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 16:15 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
-| 18:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 20:25 | USD | Fed Waller Speaks |  |  |  |
+| 02:30 | CNY | CPI (MoM) (Sep) |  | 0.2% | 0.0% |
+| 02:30 | CNY | CPI (YoY) (Sep) |  | -0.2% | -0.4% |
+| 02:30 | CNY | PPI (YoY) (Sep) |  | -2.3% | -2.9% |
+| 05:30 | JPY | Industrial Production (MoM) (Aug) |  | -1.2% | -1.2% |
+| 07:45 | EUR | French CPI (MoM) (Sep) |  | -1.0% | 0.4% |
+| 07:45 | EUR | French HICP (MoM) (Sep) |  | -1.1% | -1.1% |
+| 08:00 | EUR | Spanish CPI (YoY) (Sep) |  | 2.9% | 2.7% |
+| 08:00 | EUR | Spanish HICP (YoY) (Sep) |  | 3.0% | 2.7% |
+| 08:40 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 09:00 | GBP | MPC Member Ramsden Speaks |  |  |  |
+| 09:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 10:00 | EUR | Industrial Production (MoM) (Aug) |  | -1.7% | 0.3% |
+| 12:00 | CNY | New Loans (Sep) |  | 1,460.0B | 590.0B |
+| 12:30 | INR | RBI MPC Meeting Minutes |  |  |  |
+| 13:00 | BRL | Retail Sales (MoM) (Aug) |  |  | -0.3% |
+| 13:00 | BRL | Retail Sales (YoY) (Aug) |  |  | 1.0% |
+| 13:30 | USD | NY Empire State Manufacturing Index (Oct) |  | -1.90 | -8.70 |
+| 13:30 | CAD | Wholesale Sales (MoM) (Aug) |  | -1.3% | 1.2% |
+| 17:10 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 18:00 | USD | Fed Waller Speaks |  |  |  |
+| 19:00 | USD | Beige Book |  |  |  |
+| 19:00 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 21:30 | USD | API Weekly Crude Oil Stock |  |  | 2.780M |
+| 22:50 | AUD | RBA Assist Gov Kent Speaks |  |  |  |

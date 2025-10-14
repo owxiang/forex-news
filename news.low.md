@@ -1,33 +1,48 @@
-## 14 October 2025 - Low Impact Forex News
+## 15 October 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | M2 Money Stock (YoY) | 1.6% |  | 1.3% |
-| 00:50 | JPY | M3 Money Supply (Sep) | 2,228.9B |  | 2,221.9B |
-| 01:00 | SGD | GDP (YoY) (Q3) | 2.9% | 2.0% | 4.5% |
-| 01:00 | SGD | GDP (QoQ) (Q3) | 1.3% | 0.3% | 1.5% |
-| 01:30 | AUD | NAB Business Survey (Sep) | 8 |  | 8 |
-| 07:00 | GBP | Average Earnings ex Bonus (Aug) | 4.7% | 4.7% | 4.8% |
-| 07:00 | EUR | German HICP (MoM) (Sep) | 0.2% | 0.2% | 0.1% |
-| 07:00 | EUR | German HICP (YoY) (Sep) | 2.4% | 2.4% | 2.1% |
-| 07:30 | CHF | PPI (YoY) (Sep) | -1.8% |  | -1.8% |
-| 07:30 | INR | WPI Food (YoY) (Sep) | -5.22% |  | -3.06% |
-| 07:30 | INR | WPI Fuel (YoY) (Sep) | -2.58% |  | -3.17% |
-| 07:30 | INR | WPI Manufacturing Inflation (YoY) (Sep) | 2.33% |  | 2.55% |
-| 09:40 | EUR | Spanish 3-Month Letras Auction | 1.918% |  | 1.909% |
-| 10:10 | EUR | Italian 15-Year BTP Auction | 3.87% |  | 4.03% |
-| 10:10 | EUR | Italian 3-Year BTP Auction | 2.36% |  | 2.44% |
-| 10:10 | EUR | Italian 7-Year BTP Auction | 3.05% |  | 2.76% |
-| 10:30 | EUR | German 2-Year Schatz Auction | 1.910% |  | 2.010% |
-| 10:30 | ZAR | Business Confidence (Aug) | 120.0 |  | 116.7 |
-| 10:30 | ZAR | Gold Production (YoY) (Aug) | -3.6% |  | -0.4% |
-| 10:30 | ZAR | Mining Production (Aug) | -0.2% | 1.0% | 5.1% |
-| 10:31 | ZAR | Business Confidence (Sep) | 121.1 |  | 120.0 |
+| 49 min | KRW | Exports (YoY) (Sep) |  | 12.7% | 1.2% |
+| 49 min | KRW | Imports (YoY) (Sep) |  | 8.2% | -4.1% |
+| 49 min | KRW | Trade Balance (Sep) |  | 9.56B | 6.51B |
+| 54 min | AUD | MI Leading Index (MoM) (Sep) |  |  | -0.1% |
+| 04:00 | KRW | M3 Money Supply (Aug) |  |  | 5,906.8B |
+| 04:00 | KRW | M2 Money supply (Aug) |  |  | 6.40% |
+| 04:00 | IDR | Consumer Confidence (Sep) |  |  | 117.2 |
+| 05:30 | JPY | Capacity Utilization (MoM) (Aug) |  |  | -1.1% |
+| 07:00 | EUR | German WPI (YoY) (Sep) |  |  | 0.7% |
+| 07:00 | EUR | German WPI (MoM) (Sep) |  |  | -0.6% |
+| 07:00 | NOK | Trade Balance (Sep) |  |  | 60.1B |
+| 07:45 | EUR | French CPI NSA (YoY) (Sep) |  |  | 1.20% |
+| 07:45 | EUR | French CPI NSA (MoM) (Sep) |  |  | -1.00% |
+| 07:45 | EUR | French CPI (YoY) (Sep) |  | 1.2% | 0.9% |
+| 07:45 | EUR | French HICP (YoY) (Sep) |  | 1.1% | 0.8% |
+| 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Sep) |  |  | 0.80% |
+| 08:00 | EUR | Core CPI (YoY) (Sep) |  | 2.3% | 2.4% |
+| 08:00 | EUR | Spanish CPI (MoM) (Sep) |  | -0.4% | 0.0% |
+| 08:00 | EUR | Spanish HICP (MoM) (Sep) |  | 0.1% | 0.0% |
+| 08:15 | IDR | Foreign Direct Investment (YoY) (Q3) |  |  | -7.00% |
+| 09:30 | INR | Exports (USD) (Sep) |  |  | 35.10B |
+| 09:30 | INR | Imports (USD) (Sep) |  |  | 61.59B |
+| 09:30 | INR | Trade Balance (Sep) |  |  | -26.49B |
+| 10:00 | EUR | Industrial Production (YoY) (Aug) |  |  | 1.8% |
+| 10:30 | EUR | German 30-Year Bund Auction |  |  | 3.250% |
 | 11:00 | USD | IMF Meetings |  |  |  |
-| 11:00 | USD | NFIB Small Business Optimism (Sep) | 98.8 | 100.6 | 100.8 |
-| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Aug) | 0.1% |  | 0.2% |
-| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Aug) | 2.5% |  | 2.9% |
-| 13:55 | USD | Redbook (YoY) | 5.9% |  | 5.8% |
-| 16:30 | USD | 3-Month Bill Auction | 3.845% |  | 3.850% |
-| 16:30 | USD | 6-Month Bill Auction | 3.685% |  | 3.695% |
-| 20:30 | USD | Fed Collins Speaks |  |  |  |
+| 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 11:00 | EUR | Reserve Assets Total (Sep) |  |  | 1,507.85B |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.43% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -4.7% |
+| 12:00 | USD | MBA Purchase Index |  |  | 170.6 |
+| 12:00 | USD | Mortgage Market Index |  |  | 323.1 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 1,180.2 |
+| 12:00 | CNY | M2 Money Stock (YoY) (Sep) |  | 8.5% | 8.8% |
+| 12:00 | CNY | Outstanding Loan Growth (YoY) (Sep) |  | 6.7% | 6.8% |
+| 12:00 | CNY | Chinese Total Social Financing (Sep) |  | 3,320.0B | 2,570.0B |
+| 12:00 | ZAR | Retail Sales (YoY) (Aug) |  |  | 5.6% |
+| 12:30 | INR | M3 Money Supply |  |  | 9.2% |
+| 13:30 | USD | Real Earnings (MoM) (Sep) |  |  | -0.1% |
+| 13:30 | CAD | Manufacturing Sales (MoM) (Aug) |  | -1.5% | 2.5% |
+| 16:00 | GBP | BoE Breeden Speaks |  |  |  |
+| 18:30 | BRL | Foreign Exchange Flows |  |  | -1.056B |
+| 20:45 | AUD | RBA Gov Bullock Speaks |  |  |  |
+| 22:45 | NZD | FPI (MoM) (Sep) |  |  | 0.3% |
