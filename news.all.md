@@ -15,10 +15,10 @@
 | 07:00 | GBP | Moderate | Claimant Count Change (Sep) | 25.8K | 10.3K | -2.0K |
 | 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Aug) | 91K |  | 232K |
 | 07:00 | GBP | Moderate | Unemployment Rate (Aug) | 4.8% | 4.7% | 4.7% |
-| 07:00 | EUR | High | German CPI (MoM) (Sep) | 0.2% | 0.2% | 0.1% |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Sep) | 2.4% | 2.4% | 2.2% |
-| 07:00 | EUR | Low | German HICP (YoY) (Sep) | 2.4% | 2.4% | 2.1% |
+| 07:00 | EUR | High | German CPI (MoM) (Sep) | 0.2% | 0.2% | 0.1% |
 | 07:00 | EUR | Low | German HICP (MoM) (Sep) | 0.2% | 0.2% | 0.1% |
+| 07:00 | EUR | Low | German HICP (YoY) (Sep) | 2.4% | 2.4% | 2.1% |
 | 07:30 | CHF | Low | PPI (YoY) (Sep) | -1.8% |  | -1.8% |
 | 07:30 | CHF | Moderate | PPI (MoM) (Sep) | -0.2% | -0.2% | -0.6% |
 | 07:30 | INR | Low | WPI Food (YoY) (Sep) | -5.22% |  | -3.06% |
@@ -41,8 +41,8 @@
 | 10:31 | ZAR | Low | Business Confidence (Sep) | 121.1 |  | 120.0 |
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
 | 11:00 | USD | Low | NFIB Small Business Optimism (Sep) | 98.8 | 100.6 | 100.8 |
-| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Aug) | 2.5% |  | 2.9% |
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Aug) | 0.1% |  | 0.2% |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Aug) | 2.5% |  | 2.9% |
 | 13:30 | CAD | Moderate | Building Permits (MoM) (Aug) | -1.2% | -0.7% | -1.1% |
 | 13:45 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 13:55 | USD | Low | Redbook (YoY) | 5.9% |  | 5.8% |
