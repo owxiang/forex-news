@@ -17,8 +17,8 @@
 | 07:00 | GBP | Moderate | Unemployment Rate (Aug) | 4.8% | 4.7% | 4.7% |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Sep) | 2.4% | 2.4% | 2.2% |
 | 07:00 | EUR | High | German CPI (MoM) (Sep) | 0.2% | 0.2% | 0.1% |
-| 07:00 | EUR | Low | German HICP (YoY) (Sep) | 2.4% | 2.4% | 2.1% |
 | 07:00 | EUR | Low | German HICP (MoM) (Sep) | 0.2% | 0.2% | 0.1% |
+| 07:00 | EUR | Low | German HICP (YoY) (Sep) | 2.4% | 2.4% | 2.1% |
 | 07:30 | CHF | Low | PPI (YoY) (Sep) | -1.8% |  | -1.8% |
 | 07:30 | CHF | Moderate | PPI (MoM) (Sep) | -0.2% | -0.2% | -0.6% |
 | 07:30 | INR | Low | WPI Food (YoY) (Sep) | -5.22% |  | -3.06% |

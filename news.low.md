@@ -8,8 +8,8 @@
 | 01:00 | SGD | GDP (QoQ) (Q3) | 1.3% | 0.3% | 1.5% |
 | 01:30 | AUD | NAB Business Survey (Sep) | 8 |  | 8 |
 | 07:00 | GBP | Average Earnings ex Bonus (Aug) | 4.7% | 4.7% | 4.8% |
-| 07:00 | EUR | German HICP (YoY) (Sep) | 2.4% | 2.4% | 2.1% |
 | 07:00 | EUR | German HICP (MoM) (Sep) | 0.2% | 0.2% | 0.1% |
+| 07:00 | EUR | German HICP (YoY) (Sep) | 2.4% | 2.4% | 2.1% |
 | 07:30 | CHF | PPI (YoY) (Sep) | -1.8% |  | -1.8% |
 | 07:30 | INR | WPI Food (YoY) (Sep) | -5.22% |  | -3.06% |
 | 07:30 | INR | WPI Fuel (YoY) (Sep) | -2.58% |  | -3.17% |
