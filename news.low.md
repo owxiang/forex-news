@@ -8,8 +8,8 @@
 | 01:00 | SGD | GDP (YoY) (Q3) | 2.9% | 2.0% | 4.5% |
 | 01:30 | AUD | NAB Business Survey (Sep) | 8 |  | 8 |
 | 07:00 | GBP | Average Earnings ex Bonus (Aug) | 4.7% | 4.7% | 4.8% |
-| 07:00 | EUR | German HICP (YoY) (Sep) | 2.4% | 2.4% | 2.1% |
 | 07:00 | EUR | German HICP (MoM) (Sep) | 0.2% | 0.2% | 0.1% |
+| 07:00 | EUR | German HICP (YoY) (Sep) | 2.4% | 2.4% | 2.1% |
 | 07:30 | CHF | PPI (YoY) (Sep) | -1.8% |  | -1.8% |
 | 07:30 | INR | WPI Food (YoY) (Sep) | -5.22% |  | -3.06% |
 | 07:30 | INR | WPI Fuel (YoY) (Sep) | -2.58% |  | -3.17% |
@@ -24,11 +24,8 @@
 | 10:30 | ZAR | Mining Production (Aug) | -0.2% | 1.0% | 5.1% |
 | 11:00 | USD | IMF Meetings |  |  |  |
 | 11:00 | USD | NFIB Small Business Optimism (Sep) | 98.8 | 100.6 | 100.8 |
-| 52 min | CNY | M2 Money Stock (YoY) (Sep) |  | 8.5% | 8.8% |
-| 52 min | CNY | Outstanding Loan Growth (YoY) (Sep) |  | 6.7% | 6.8% |
-| 52 min | CNY | Chinese Total Social Financing (Sep) |  | 3,320.0B | 2,570.0B |
-| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Aug) |  |  | 2.8% |
-| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Aug) |  |  | 0.3% |
+| 54 min | BRL | Brazilian Service Sector Growth (YoY) (Aug) |  |  | 2.8% |
+| 54 min | BRL | Brazilian Service Sector Growth (MoM) (Aug) |  |  | 0.3% |
 | 13:55 | USD | Redbook (YoY) |  |  | 5.8% |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 3.850% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 3.695% |

@@ -17,7 +17,6 @@
 | 10:00 | EUR | German ZEW Economic Sentiment (Oct) | 39.3 | 41.2 | 37.3 |
 | 10:00 | EUR | ZEW Economic Sentiment (Oct) | 22.7 | 30.2 | 26.1 |
 | 10:10 | EUR | Italian 10-Year BTP Auction | 2.23% |  | 3.62% |
-| 52 min | CNY | New Loans (Sep) |  | 1,460.0B | 590.0B |
 | 13:30 | CAD | Building Permits (MoM) (Aug) |  | -0.7% | -0.1% |
 | 13:45 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 16:15 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
