@@ -17,8 +17,8 @@
 | 07:00 | GBP | Moderate | Unemployment Rate (Aug) | 4.8% | 4.7% | 4.7% |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Sep) | 2.4% | 2.4% | 2.2% |
 | 07:00 | EUR | High | German CPI (MoM) (Sep) | 0.2% | 0.2% | 0.1% |
-| 07:00 | EUR | Low | German HICP (MoM) (Sep) | 0.2% | 0.2% | 0.1% |
 | 07:00 | EUR | Low | German HICP (YoY) (Sep) | 2.4% | 2.4% | 2.1% |
+| 07:00 | EUR | Low | German HICP (MoM) (Sep) | 0.2% | 0.2% | 0.1% |
 | 07:30 | CHF | Low | PPI (YoY) (Sep) | -1.8% |  | -1.8% |
 | 07:30 | CHF | Moderate | PPI (MoM) (Sep) | -0.2% | -0.2% | -0.6% |
 | 07:30 | INR | Low | WPI Food (YoY) (Sep) | -5.22% |  | -3.06% |
@@ -30,25 +30,22 @@
 | 10:00 | EUR | Moderate | German ZEW Current Conditions (Oct) | -80.0 | -75.0 | -76.4 |
 | 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Oct) | 39.3 | 41.2 | 37.3 |
 | 10:00 | EUR | Moderate | ZEW Economic Sentiment (Oct) | 22.7 | 30.2 | 26.1 |
-| 2 min | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 3.62% |
-| 2 min | EUR | Low | Italian 15-Year BTP Auction |  |  | 3.72% |
-| 2 min | EUR | Low | Italian 3-Year BTP Auction |  |  | 2.44% |
-| 2 min | EUR | Low | Italian 7-Year BTP Auction |  |  | 2.76% |
-| 22 min | EUR | Low | German 2-Year Schatz Auction |  |  | 2.010% |
-| 22 min | ZAR | Low | Business Confidence (Sep) |  |  | 116.7 |
-| 22 min | ZAR | Low | Gold Production (YoY) (Aug) |  |  | -0.4% |
-| 22 min | ZAR | Low | Mining Production (Aug) |  |  | 4.4% |
-| 52 min | USD | Low | IMF Meetings |  |  |  |
-| 52 min | USD | Low | NFIB Small Business Optimism (Sep) |  | 100.6 | 100.8 |
-| 12:00 | USD | Low | CB Employment Trends Index (Sep) |  |  | 106.41 |
-| 12:00 | USD | Moderate | Construction Spending (MoM) (Aug) |  | -0.1% | -0.1% |
-| 12:00 | USD | Low | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.4% |
-| 12:00 | CNY | Low | M2 Money Stock (YoY) (Sep) |  | 8.5% | 8.8% |
-| 12:00 | CNY | Moderate | New Loans (Sep) |  | 1,460.0B | 590.0B |
-| 12:00 | CNY | Low | Outstanding Loan Growth (YoY) (Sep) |  | 6.7% | 6.8% |
-| 12:00 | CNY | Low | Chinese Total Social Financing (Sep) |  | 3,320.0B | 2,570.0B |
-| 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Aug) |  |  | 0.3% |
+| 10:10 | EUR | Moderate | Italian 10-Year BTP Auction | 2.23% |  | 3.62% |
+| 10:10 | EUR | Low | Italian 15-Year BTP Auction | 3.87% |  | 4.03% |
+| 10:10 | EUR | Low | Italian 3-Year BTP Auction | 2.36% |  | 2.44% |
+| 10:10 | EUR | Low | Italian 7-Year BTP Auction | 3.05% |  | 2.76% |
+| 10:30 | EUR | Low | German 2-Year Schatz Auction | 1.910% |  | 2.010% |
+| 10:30 | ZAR | Low | Business Confidence (Sep) | 121.1 |  | 116.7 |
+| 10:30 | ZAR | Low | Gold Production (YoY) (Aug) | -3.6% |  | -0.4% |
+| 10:30 | ZAR | Low | Mining Production (Aug) | -0.2% | 1.0% | 5.1% |
+| 11:00 | USD | Low | IMF Meetings |  |  |  |
+| 11:00 | USD | Low | NFIB Small Business Optimism (Sep) | 98.8 | 100.6 | 100.8 |
+| 52 min | CNY | Low | M2 Money Stock (YoY) (Sep) |  | 8.5% | 8.8% |
+| 52 min | CNY | Moderate | New Loans (Sep) |  | 1,460.0B | 590.0B |
+| 52 min | CNY | Low | Outstanding Loan Growth (YoY) (Sep) |  | 6.7% | 6.8% |
+| 52 min | CNY | Low | Chinese Total Social Financing (Sep) |  | 3,320.0B | 2,570.0B |
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Aug) |  |  | 2.8% |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Aug) |  |  | 0.3% |
 | 13:30 | CAD | Moderate | Building Permits (MoM) (Aug) |  | -0.7% | -0.1% |
 | 13:45 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.8% |
