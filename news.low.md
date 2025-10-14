@@ -4,12 +4,12 @@
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | M2 Money Stock (YoY) | 1.6% |  | 1.3% |
 | 00:50 | JPY | M3 Money Supply (Sep) | 2,228.9B |  | 2,221.9B |
-| 01:00 | SGD | GDP (QoQ) (Q3) | 5.4% | 2.0% | 1.5% |
+| 01:00 | SGD | GDP (QoQ) (Q3) | 1.3% | 0.3% | 1.5% |
 | 01:00 | SGD | GDP (YoY) (Q3) | 2.9% | 2.0% | 4.5% |
 | 01:30 | AUD | NAB Business Survey (Sep) | 8 |  | 8 |
-| 07:00 | GBP | Average Earnings ex Bonus (Aug) |  | 4.7% | 4.8% |
-| 07:00 | EUR | German HICP (YoY) (Sep) |  | 2.4% | 2.1% |
-| 07:00 | EUR | German HICP (MoM) (Sep) |  | 0.2% | 0.1% |
+| 53 min | GBP | Average Earnings ex Bonus (Aug) |  | 4.7% | 4.8% |
+| 53 min | EUR | German HICP (YoY) (Sep) |  | 2.4% | 2.1% |
+| 53 min | EUR | German HICP (MoM) (Sep) |  | 0.2% | 0.1% |
 | 07:30 | CHF | PPI (YoY) (Sep) |  |  | -1.8% |
 | 07:30 | INR | WPI Food (YoY) (Sep) |  |  | -3.06% |
 | 07:30 | INR | WPI Fuel (YoY) (Sep) |  |  | -3.17% |
@@ -26,7 +26,7 @@
 | 10:30 | ZAR | Gold Production (YoY) (Aug) |  |  | -0.4% |
 | 10:30 | ZAR | Mining Production (Aug) |  |  | 4.4% |
 | 11:00 | USD | IMF Meetings |  |  |  |
-| 11:00 | USD | NFIB Small Business Optimism (Sep) |  | 100.5 | 100.8 |
+| 11:00 | USD | NFIB Small Business Optimism (Sep) |  | 100.6 | 100.8 |
 | 12:00 | USD | CB Employment Trends Index (Sep) |  |  | 106.41 |
 | 12:00 | USD | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.4% |
 | 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Aug) |  |  | 0.3% |
