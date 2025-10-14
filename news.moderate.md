@@ -13,12 +13,12 @@
 | 07:30 | CHF | PPI (MoM) (Sep) | -0.2% | -0.2% | -0.6% |
 | 07:30 | INR | WPI Inflation (YoY) (Sep) | 0.13% | 0.50% | 0.52% |
 | 09:00 | USD | IEA Monthly Report |  |  |  |
-| 51 min | EUR | German ZEW Current Conditions (Oct) |  | -75.0 | -76.4 |
-| 51 min | EUR | German ZEW Economic Sentiment (Oct) |  | 41.2 | 37.3 |
-| 51 min | CNY | New Loans (Sep) |  | 1,460.0B | 590.0B |
-| 51 min | EUR | ZEW Economic Sentiment (Oct) |  | 30.2 | 26.1 |
-| 10:10 | EUR | Italian 10-Year BTP Auction |  |  | 3.62% |
+| 10:00 | EUR | German ZEW Current Conditions (Oct) | -80.0 | -75.0 | -76.4 |
+| 10:00 | EUR | German ZEW Economic Sentiment (Oct) | 39.3 | 41.2 | 37.3 |
+| 10:00 | EUR | ZEW Economic Sentiment (Oct) | 22.7 | 30.2 | 26.1 |
+| 2 min | EUR | Italian 10-Year BTP Auction |  |  | 3.62% |
 | 12:00 | USD | Construction Spending (MoM) (Aug) |  | -0.1% | -0.1% |
+| 12:00 | CNY | New Loans (Sep) |  | 1,460.0B | 590.0B |
 | 13:30 | CAD | Building Permits (MoM) (Aug) |  | -0.7% | -0.1% |
 | 13:45 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 16:15 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
