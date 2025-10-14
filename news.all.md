@@ -17,23 +17,23 @@
 | 07:00 | GBP | Moderate | Unemployment Rate (Aug) | 4.8% | 4.7% | 4.7% |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Sep) | 2.4% | 2.4% | 2.2% |
 | 07:00 | EUR | High | German CPI (MoM) (Sep) | 0.2% | 0.2% | 0.1% |
-| 07:00 | EUR | Low | German HICP (MoM) (Sep) | 0.2% | 0.2% | 0.1% |
 | 07:00 | EUR | Low | German HICP (YoY) (Sep) | 2.4% | 2.4% | 2.1% |
+| 07:00 | EUR | Low | German HICP (MoM) (Sep) | 0.2% | 0.2% | 0.1% |
 | 07:30 | CHF | Low | PPI (YoY) (Sep) | -1.8% |  | -1.8% |
 | 07:30 | CHF | Moderate | PPI (MoM) (Sep) | -0.2% | -0.2% | -0.6% |
 | 07:30 | INR | Low | WPI Food (YoY) (Sep) | -5.22% |  | -3.06% |
 | 07:30 | INR | Low | WPI Fuel (YoY) (Sep) | -2.58% |  | -3.17% |
 | 07:30 | INR | Moderate | WPI Inflation (YoY) (Sep) | 0.13% | 0.50% | 0.52% |
 | 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Sep) | 2.33% |  | 2.55% |
-| 51 min | USD | Moderate | IEA Monthly Report |  |  |  |
-| 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 1.909% |
-| 10:00 | EUR | Moderate | German ZEW Current Conditions (Oct) |  | -75.0 | -76.4 |
-| 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Oct) |  | 41.2 | 37.3 |
-| 10:00 | CNY | Low | M2 Money Stock (YoY) (Sep) |  | 8.5% | 8.8% |
-| 10:00 | CNY | Moderate | New Loans (Sep) |  | 1,460.0B | 590.0B |
-| 10:00 | CNY | Low | Outstanding Loan Growth (YoY) (Sep) |  | 6.7% | 6.8% |
-| 10:00 | CNY | Low | Chinese Total Social Financing (Sep) |  | 3,320.0B | 2,570.0B |
-| 10:00 | EUR | Moderate | ZEW Economic Sentiment (Oct) |  | 30.2 | 26.1 |
+| 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
+| 31 min | EUR | Low | Spanish 3-Month Letras Auction |  |  | 1.909% |
+| 51 min | EUR | Moderate | German ZEW Current Conditions (Oct) |  | -75.0 | -76.4 |
+| 51 min | EUR | Moderate | German ZEW Economic Sentiment (Oct) |  | 41.2 | 37.3 |
+| 51 min | CNY | Low | M2 Money Stock (YoY) (Sep) |  | 8.5% | 8.8% |
+| 51 min | CNY | Moderate | New Loans (Sep) |  | 1,460.0B | 590.0B |
+| 51 min | CNY | Low | Outstanding Loan Growth (YoY) (Sep) |  | 6.7% | 6.8% |
+| 51 min | CNY | Low | Chinese Total Social Financing (Sep) |  | 3,320.0B | 2,570.0B |
+| 51 min | EUR | Moderate | ZEW Economic Sentiment (Oct) |  | 30.2 | 26.1 |
 | 10:10 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 3.62% |
 | 10:10 | EUR | Low | Italian 15-Year BTP Auction |  |  | 3.72% |
 | 10:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 2.44% |
@@ -47,8 +47,8 @@
 | 12:00 | USD | Low | CB Employment Trends Index (Sep) |  |  | 106.41 |
 | 12:00 | USD | Moderate | Construction Spending (MoM) (Aug) |  | -0.1% | -0.1% |
 | 12:00 | USD | Low | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.4% |
-| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Aug) |  |  | 2.8% |
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Aug) |  |  | 0.3% |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Aug) |  |  | 2.8% |
 | 13:30 | CAD | Moderate | Building Permits (MoM) (Aug) |  | -0.7% | -0.1% |
 | 13:45 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.8% |
