@@ -15,10 +15,10 @@
 | 07:00 | GBP | Moderate | Claimant Count Change (Sep) | 25.8K | 10.3K | -2.0K |
 | 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Aug) | 91K |  | 232K |
 | 07:00 | GBP | Moderate | Unemployment Rate (Aug) | 4.8% | 4.7% | 4.7% |
-| 07:00 | EUR | Moderate | German CPI (YoY) (Sep) | 2.4% | 2.4% | 2.2% |
 | 07:00 | EUR | High | German CPI (MoM) (Sep) | 0.2% | 0.2% | 0.1% |
-| 07:00 | EUR | Low | German HICP (MoM) (Sep) | 0.2% | 0.2% | 0.1% |
+| 07:00 | EUR | Moderate | German CPI (YoY) (Sep) | 2.4% | 2.4% | 2.2% |
 | 07:00 | EUR | Low | German HICP (YoY) (Sep) | 2.4% | 2.4% | 2.1% |
+| 07:00 | EUR | Low | German HICP (MoM) (Sep) | 0.2% | 0.2% | 0.1% |
 | 07:30 | CHF | Low | PPI (YoY) (Sep) | -1.8% |  | -1.8% |
 | 07:30 | CHF | Moderate | PPI (MoM) (Sep) | -0.2% | -0.2% | -0.6% |
 | 07:30 | INR | Low | WPI Food (YoY) (Sep) | -5.22% |  | -3.06% |
@@ -51,5 +51,5 @@
 | 16:30 | USD | Low | 6-Month Bill Auction | 3.685% |  | 3.695% |
 | 17:20 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 18:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 20:25 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 20:30 | USD | Low | Fed Collins Speaks |  |  |  |
+| 19 min | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 24 min | USD | Low | Fed Collins Speaks |  |  |  |
