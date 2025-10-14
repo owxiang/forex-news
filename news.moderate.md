@@ -10,9 +10,9 @@
 | 07:00 | GBP | Employment Change 3M/3M (MoM) (Aug) | 91K |  | 232K |
 | 07:00 | GBP | Unemployment Rate (Aug) | 4.8% | 4.7% | 4.7% |
 | 07:00 | EUR | German CPI (YoY) (Sep) | 2.4% | 2.4% | 2.2% |
-| 19 min | CHF | PPI (MoM) (Sep) |  | -0.2% | -0.6% |
-| 19 min | INR | WPI Inflation (YoY) (Sep) |  | 0.50% | 0.52% |
-| 09:00 | USD | IEA Monthly Report |  |  |  |
+| 07:30 | CHF | PPI (MoM) (Sep) | -0.2% | -0.2% | -0.6% |
+| 07:30 | INR | WPI Inflation (YoY) (Sep) | 0.13% | 0.50% | 0.52% |
+| 51 min | USD | IEA Monthly Report |  |  |  |
 | 10:00 | EUR | German ZEW Current Conditions (Oct) |  | -75.0 | -76.4 |
 | 10:00 | EUR | German ZEW Economic Sentiment (Oct) |  | 41.2 | 37.3 |
 | 10:00 | CNY | New Loans (Sep) |  | 1,460.0B | 590.0B |
