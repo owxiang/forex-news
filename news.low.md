@@ -6,7 +6,7 @@
 | 00:50 | JPY | M3 Money Supply (Sep) | 2,228.9B |  | 2,221.9B |
 | 01:00 | SGD | GDP (YoY) (Q3) | 2.9% | 2.0% | 4.5% |
 | 01:00 | SGD | GDP (QoQ) (Q3) | 5.4% | 2.0% | 1.5% |
-| 2 min | AUD | NAB Business Survey (Sep) |  |  | 7 |
+| 01:30 | AUD | NAB Business Survey (Sep) | 8 |  | 8 |
 | 07:00 | GBP | Average Earnings ex Bonus (Aug) |  | 4.7% | 4.8% |
 | 07:00 | EUR | German HICP (YoY) (Sep) |  | 2.4% | 2.1% |
 | 07:00 | EUR | German HICP (MoM) (Sep) |  | 0.2% | 0.1% |

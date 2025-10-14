@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Sep) | 2.0% | 2.5% | 2.9% |
-| 2 min | AUD | RBA Meeting Minutes |  |  |  |
-| 2 min | AUD | NAB Business Confidence (Sep) |  |  | 4 |
+| 01:30 | AUD | RBA Meeting Minutes |  |  |  |
+| 01:30 | AUD | NAB Business Confidence (Sep) | 7 |  | 4 |
 | 07:00 | GBP | Average Earnings Index +Bonus (Aug) |  | 4.7% | 4.7% |
 | 07:00 | GBP | Claimant Count Change (Sep) |  |  | 17.4K |
 | 07:00 | GBP | Employment Change 3M/3M (MoM) (Aug) |  |  | 232K |
