@@ -19,6 +19,6 @@
 | 10:10 | EUR | Italian 10-Year BTP Auction | 2.23% |  | 3.62% |
 | 13:30 | CAD | Building Permits (MoM) (Aug) | -1.2% | -0.7% | -1.1% |
 | 13:45 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 8 min | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
-| 18:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 16:15 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
+| 52 min | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 20:25 | USD | Fed Waller Speaks |  |  |  |

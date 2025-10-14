@@ -5,8 +5,8 @@
 | 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Sep) | 2.0% | 2.5% | 2.9% |
 | 00:50 | JPY | Low | M2 Money Stock (YoY) | 1.6% |  | 1.3% |
 | 00:50 | JPY | Low | M3 Money Supply (Sep) | 2,228.9B |  | 2,221.9B |
-| 01:00 | SGD | Low | GDP (YoY) (Q3) | 2.9% | 2.0% | 4.5% |
 | 01:00 | SGD | Low | GDP (QoQ) (Q3) | 1.3% | 0.3% | 1.5% |
+| 01:00 | SGD | Low | GDP (YoY) (Q3) | 2.9% | 2.0% | 4.5% |
 | 01:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
 | 01:30 | AUD | Moderate | NAB Business Confidence (Sep) | 7 |  | 4 |
 | 01:30 | AUD | Low | NAB Business Survey (Sep) | 8 |  | 8 |
@@ -46,10 +46,10 @@
 | 13:30 | CAD | Moderate | Building Permits (MoM) (Aug) | -1.2% | -0.7% | -1.1% |
 | 13:45 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 13:55 | USD | Low | Redbook (YoY) | 5.9% |  | 5.8% |
-| 8 min | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
-| 23 min | USD | Low | 3-Month Bill Auction |  |  | 3.850% |
-| 23 min | USD | Low | 6-Month Bill Auction |  |  | 3.695% |
-| 17:20 | USD | High | Fed Chair Powell Speaks |  |  |  |
-| 18:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 16:15 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
+| 16:30 | USD | Low | 3-Month Bill Auction | 3.845% |  | 3.850% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 3.685% |  | 3.695% |
+| 12 min | USD | High | Fed Chair Powell Speaks |  |  |  |
+| 52 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 20:25 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 20:30 | USD | Low | Fed Collins Speaks |  |  |  |
