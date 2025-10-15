@@ -36,8 +36,7 @@
 | 12:00 | USD | Mortgage Refinance Index | 1,168.0 |  | 1,180.2 |
 | 12:00 | ZAR | Retail Sales (YoY) (Aug) | 2.3% |  | 5.7% |
 | 13:30 | CAD | Manufacturing Sales (MoM) (Aug) | -1.0% | -1.5% | 2.2% |
-| 14 min | INR | M3 Money Supply |  |  | 9.2% |
-| 16:00 | GBP | BoE Breeden Speaks |  |  |  |
+| 53 min | GBP | BoE Breeden Speaks |  |  |  |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | -1.056B |
 | 20:45 | AUD | RBA Gov Bullock Speaks |  |  |  |
 | 22:45 | NZD | FPI (MoM) (Sep) |  |  | 0.3% |

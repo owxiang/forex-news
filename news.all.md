@@ -54,8 +54,7 @@
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Oct) | 10.70 | -1.80 | -8.70 |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Aug) | -1.0% | -1.5% | 2.2% |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Aug) | -1.2% | -1.3% | 1.7% |
-| 14 min | INR | Low | M3 Money Supply |  |  | 9.2% |
-| 16:00 | GBP | Low | BoE Breeden Speaks |  |  |  |
+| 53 min | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 17:10 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 18:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -1.056B |
