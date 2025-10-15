@@ -38,5 +38,5 @@
 | 13:30 | CAD | Manufacturing Sales (MoM) (Aug) | -1.0% | -1.5% | 2.2% |
 | 16:00 | GBP | BoE Breeden Speaks |  |  |  |
 | 18:30 | BRL | Foreign Exchange Flows | 0.738B |  | -1.056B |
-| 39 min | AUD | RBA Gov Bullock Speaks |  |  |  |
+| 20:45 | AUD | RBA Gov Bullock Speaks |  |  |  |
 | 22:45 | NZD | FPI (MoM) (Sep) |  |  | 0.3% |
