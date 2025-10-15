@@ -9,24 +9,24 @@
 | 02:30 | CNY | Moderate | CPI (MoM) (Sep) | 0.1% | 0.2% | 0.0% |
 | 02:30 | CNY | Moderate | CPI (YoY) (Sep) | -0.3% | -0.2% | -0.4% |
 | 02:30 | CNY | Moderate | PPI (YoY) (Sep) | -2.3% | -2.3% | -2.9% |
-| 04:00 | KRW | Low | M3 Money Supply (Aug) |  |  | 5,906.8B |
-| 04:00 | KRW | Low | M2 Money supply (Aug) |  |  | 6.40% |
-| 04:00 | IDR | Low | Consumer Confidence (Sep) |  |  | 117.2 |
+| 25 min | KRW | Low | M3 Money Supply (Aug) |  |  | 5,906.8B |
+| 25 min | KRW | Low | M2 Money supply (Aug) |  |  | 6.40% |
+| 25 min | IDR | Low | Consumer Confidence (Sep) |  |  | 117.2 |
 | 05:30 | JPY | Low | Capacity Utilization (MoM) (Aug) |  |  | -1.1% |
 | 05:30 | JPY | Moderate | Industrial Production (MoM) (Aug) |  | -1.2% | -1.2% |
-| 07:00 | EUR | Low | German WPI (YoY) (Sep) |  |  | 0.7% |
 | 07:00 | EUR | Low | German WPI (MoM) (Sep) |  |  | -0.6% |
+| 07:00 | EUR | Low | German WPI (YoY) (Sep) |  |  | 0.7% |
 | 07:00 | NOK | Low | Trade Balance (Sep) |  |  | 60.1B |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Sep) |  |  | 1.20% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Sep) |  |  | -1.00% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Sep) |  | -1.0% | 0.4% |
 | 07:45 | EUR | Low | French CPI (YoY) (Sep) |  | 1.2% | 0.9% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Sep) |  | -1.1% | -1.1% |
 | 07:45 | EUR | Low | French HICP (YoY) (Sep) |  | 1.1% | 0.8% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Sep) |  | -1.1% | -1.1% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Sep) |  |  | 0.80% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Sep) |  | 2.3% | 2.4% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Sep) |  | 2.9% | 2.7% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Sep) |  | -0.4% | 0.0% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Sep) |  | 2.9% | 2.7% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Sep) |  | 0.1% | 0.0% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Sep) |  | 3.0% | 2.7% |
 | 08:15 | IDR | Low | Foreign Direct Investment (YoY) (Q3) |  |  | -7.00% |
