@@ -1,28 +1,32 @@
-## 15 October 2025 - Moderate Impact Forex News
+## 16 October 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | CNY | CPI (MoM) (Sep) | 0.1% | 0.2% | 0.0% |
-| 02:30 | CNY | CPI (YoY) (Sep) | -0.3% | -0.2% | -0.4% |
-| 02:30 | CNY | PPI (YoY) (Sep) | -2.3% | -2.3% | -2.9% |
-| 05:30 | JPY | Industrial Production (MoM) (Aug) | -1.5% | -1.2% | -1.2% |
-| 07:45 | EUR | French CPI (MoM) (Sep) | -1.0% | -1.0% | 0.4% |
-| 07:45 | EUR | French HICP (MoM) (Sep) | -1.1% | -1.1% | -1.1% |
-| 08:00 | EUR | Spanish CPI (YoY) (Sep) | 3.0% | 2.9% | 2.7% |
-| 08:00 | EUR | Spanish HICP (YoY) (Sep) | 3.0% | 3.0% | 2.7% |
-| 08:40 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 09:00 | GBP | MPC Member Ramsden Speaks |  |  |  |
-| 09:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 10:00 | CNY | New Loans (Sep) | 1,290.0B | 1,460.0B | 590.0B |
-| 10:00 | EUR | Industrial Production (MoM) (Aug) | -1.2% | -1.6% | 0.5% |
-| 12:30 | INR | RBI MPC Meeting Minutes |  |  |  |
-| 13:00 | BRL | Retail Sales (YoY) (Aug) | 0.4% |  | 1.2% |
-| 13:00 | BRL | Retail Sales (MoM) (Aug) | 0.2% | 0.2% | -0.2% |
-| 13:30 | USD | NY Empire State Manufacturing Index (Oct) | 10.70 | -1.80 | -8.70 |
-| 13:30 | CAD | Wholesale Sales (MoM) (Aug) | -1.2% | -1.3% | 1.7% |
-| 17:10 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 18:00 | USD | Fed Waller Speaks |  |  |  |
-| 19:00 | USD | Beige Book |  |  |  |
-| 19:00 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock |  | 0.120M | 2.780M |
-| 22:50 | AUD | RBA Assist Gov Kent Speaks |  |  |  |
+| 01:30 | AUD | Employment Change (Sep) |  | 20.5K | -5.4K |
+| 01:30 | AUD | Full Employment Change (Sep) |  |  | -40.9K |
+| 01:30 | AUD | Unemployment Rate (Sep) |  | 4.3% | 4.2% |
+| 07:00 | GBP | Industrial Production (MoM) (Aug) |  | 0.2% | -0.9% |
+| 07:00 | GBP | Manufacturing Production (MoM) (Aug) |  | 0.2% | -1.3% |
+| 07:00 | GBP | Monthly GDP 3M/3M Change (Aug) |  | 0.3% | 0.2% |
+| 07:00 | GBP | Trade Balance (Aug) |  | -21.80B | -22.24B |
+| 07:00 | GBP | Trade Balance Non-EU (Aug) |  |  | -10.16B |
+| 09:30 | GBP | BOE Credit Conditions Survey |  |  |  |
+| 10:00 | EUR | Trade Balance (Aug) |  |  | 12.4B |
+| 12:00 | GBP | NIESR Monthly GDP Tracker |  |  | 0.3% |
+| 13:15 | CAD | Housing Starts (Sep) |  | 258.0K | 245.8K |
+| 13:30 | USD | Philly Fed Employment (Oct) |  |  | 5.6 |
+| 14:00 | GBP | BoE MPC Member Mann Speaks |  |  |  |
+| 14:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 14:00 | USD | Fed Waller Speaks |  |  |  |
+| 15:00 | USD | Business Inventories (MoM) (Aug) |  | 0.1% | 0.2% |
+| 15:00 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 15:00 | USD | Retail Inventories Ex Auto (Aug) |  | 0.3% | 0.3% |
+| 15:45 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
+| 15:45 | GBP | BoE MPC Member Mann Speaks |  |  |  |
+| 16:45 | EUR | ECB's Lane Speaks |  |  |  |
+| 17:00 | USD | Cushing Crude Oil Inventories |  |  | -0.763M |
+| 17:00 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 18:00 | USD | Atlanta Fed GDPNow (Q3) |  |  |  |
+| 18:30 | CAD | BoC Gov Macklem Speaks |  |  |  |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 6,591B |
+| 23:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
