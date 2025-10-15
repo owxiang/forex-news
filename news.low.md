@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
+| 01:00 | KRW | Exports (YoY) (Sep) | 12.6% | 12.7% | 1.2% |
+| 01:00 | KRW | Imports (YoY) (Sep) | 8.2% | 8.2% | -4.1% |
+| 01:00 | KRW | Trade Balance (Sep) | 9.53B | 9.56B | 6.51B |
 | 01:00 | AUD | MI Leading Index (MoM) (Sep) | -0.0% |  | -0.1% |
-| 01:11 | KRW | Exports (YoY) (Sep) | 12.6% | 12.7% | 1.2% |
-| 01:11 | KRW | Imports (YoY) (Sep) | 8.2% | 8.2% | -4.1% |
-| 01:11 | KRW | Trade Balance (Sep) | 9.53B | 9.56B | 6.51B |
 | 04:00 | KRW | M3 Money Supply (Aug) |  |  | 5,906.8B |
 | 04:00 | KRW | M2 Money supply (Aug) |  |  | 6.40% |
 | 04:00 | IDR | Consumer Confidence (Sep) |  |  | 117.2 |
@@ -13,8 +13,8 @@
 | 07:00 | EUR | German WPI (YoY) (Sep) |  |  | 0.7% |
 | 07:00 | EUR | German WPI (MoM) (Sep) |  |  | -0.6% |
 | 07:00 | NOK | Trade Balance (Sep) |  |  | 60.1B |
-| 07:45 | EUR | French CPI NSA (MoM) (Sep) |  |  | -1.00% |
 | 07:45 | EUR | French CPI NSA (YoY) (Sep) |  |  | 1.20% |
+| 07:45 | EUR | French CPI NSA (MoM) (Sep) |  |  | -1.00% |
 | 07:45 | EUR | French CPI (YoY) (Sep) |  | 1.2% | 0.9% |
 | 07:45 | EUR | French HICP (YoY) (Sep) |  | 1.1% | 0.8% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Sep) |  |  | 0.80% |
