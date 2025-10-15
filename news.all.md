@@ -13,21 +13,19 @@
 | 04:00 | KRW | Low | M2 Money supply (Aug) | 6.80% |  | 6.40% |
 | 05:30 | JPY | Low | Capacity Utilization (MoM) (Aug) | -2.3% |  | -1.1% |
 | 05:30 | JPY | Moderate | Industrial Production (MoM) (Aug) | -1.5% | -1.2% | -1.2% |
-| 53 min | EUR | Low | German WPI (MoM) (Sep) |  |  | -0.6% |
-| 53 min | EUR | Low | German WPI (YoY) (Sep) |  |  | 0.7% |
-| 53 min | NOK | Low | Trade Balance (Sep) |  |  | 60.1B |
-| 07:45 | EUR | Low | French CPI NSA (MoM) (Sep) |  |  | -1.00% |
-| 07:45 | EUR | Low | French CPI NSA (YoY) (Sep) |  |  | 1.20% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Sep) |  | -1.0% | 0.4% |
-| 07:45 | EUR | Low | French CPI (YoY) (Sep) |  | 1.2% | 0.9% |
-| 07:45 | EUR | Low | French HICP (YoY) (Sep) |  | 1.1% | 0.8% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Sep) |  | -1.1% | -1.1% |
-| 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Sep) |  |  | 0.80% |
-| 08:00 | EUR | Low | Core CPI (YoY) (Sep) |  | 2.3% | 2.4% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Sep) |  | -0.4% | 0.0% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Sep) |  | 2.9% | 2.7% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Sep) |  | 0.1% | 0.0% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Sep) |  | 3.0% | 2.7% |
+| 07:00 | NOK | Low | Trade Balance (Sep) | 36.9B |  | 59.9B |
+| 34 min | EUR | Low | French CPI NSA (MoM) (Sep) |  |  | -1.00% |
+| 34 min | EUR | Low | French CPI NSA (YoY) (Sep) |  |  | 1.20% |
+| 34 min | EUR | Low | French CPI (YoY) (Sep) |  | 1.2% | 0.9% |
+| 34 min | EUR | Moderate | French CPI (MoM) (Sep) |  | -1.0% | 0.4% |
+| 34 min | EUR | Moderate | French HICP (MoM) (Sep) |  | -1.1% | -1.1% |
+| 34 min | EUR | Low | French HICP (YoY) (Sep) |  | 1.1% | 0.8% |
+| 34 min | EUR | Low | France Inflation Ex-Tobacco (YoY) (Sep) |  |  | 0.80% |
+| 49 min | EUR | Low | Core CPI (YoY) (Sep) |  | 2.3% | 2.4% |
+| 49 min | EUR | Low | Spanish CPI (MoM) (Sep) |  | -0.4% | 0.0% |
+| 49 min | EUR | Moderate | Spanish CPI (YoY) (Sep) |  | 2.9% | 2.7% |
+| 49 min | EUR | Moderate | Spanish HICP (YoY) (Sep) |  | 3.0% | 2.7% |
+| 49 min | EUR | Low | Spanish HICP (MoM) (Sep) |  | 0.1% | 0.0% |
 | 08:15 | IDR | Low | Foreign Direct Investment (YoY) (Q3) |  |  | -7.00% |
 | 08:40 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 09:00 | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
@@ -35,8 +33,8 @@
 | 09:30 | INR | Low | Exports (USD) (Sep) |  |  | 35.10B |
 | 09:30 | INR | Low | Imports (USD) (Sep) |  |  | 61.59B |
 | 09:30 | INR | Low | Trade Balance (Sep) |  |  | -26.49B |
-| 10:00 | EUR | Low | Industrial Production (YoY) (Aug) |  |  | 1.8% |
 | 10:00 | EUR | Moderate | Industrial Production (MoM) (Aug) |  | -1.6% | 0.3% |
+| 10:00 | EUR | Low | Industrial Production (YoY) (Aug) |  |  | 1.8% |
 | 10:30 | EUR | Low | German 30-Year Bund Auction |  |  | 3.250% |
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
@@ -56,7 +54,6 @@
 | 13:00 | BRL | Moderate | Retail Sales (YoY) (Aug) |  |  | 1.0% |
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (Aug) |  | 0.2% | -0.3% |
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Oct) |  | -1.80 | -8.70 |
-| 13:30 | USD | Low | Real Earnings (MoM) (Sep) |  |  | -0.1% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Aug) |  | -1.5% | 2.5% |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Aug) |  | -1.3% | 1.2% |
 | 16:00 | GBP | Low | BoE Breeden Speaks |  |  |  |

@@ -6,10 +6,10 @@
 | 02:30 | CNY | CPI (YoY) (Sep) | -0.3% | -0.2% | -0.4% |
 | 02:30 | CNY | PPI (YoY) (Sep) | -2.3% | -2.3% | -2.9% |
 | 05:30 | JPY | Industrial Production (MoM) (Aug) | -1.5% | -1.2% | -1.2% |
-| 07:45 | EUR | French CPI (MoM) (Sep) |  | -1.0% | 0.4% |
-| 07:45 | EUR | French HICP (MoM) (Sep) |  | -1.1% | -1.1% |
-| 08:00 | EUR | Spanish CPI (YoY) (Sep) |  | 2.9% | 2.7% |
-| 08:00 | EUR | Spanish HICP (YoY) (Sep) |  | 3.0% | 2.7% |
+| 34 min | EUR | French CPI (MoM) (Sep) |  | -1.0% | 0.4% |
+| 34 min | EUR | French HICP (MoM) (Sep) |  | -1.1% | -1.1% |
+| 49 min | EUR | Spanish CPI (YoY) (Sep) |  | 2.9% | 2.7% |
+| 49 min | EUR | Spanish HICP (YoY) (Sep) |  | 3.0% | 2.7% |
 | 08:40 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 09:00 | GBP | MPC Member Ramsden Speaks |  |  |  |
 | 09:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |

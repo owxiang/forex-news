@@ -9,17 +9,15 @@
 | 04:00 | KRW | M3 Money Supply (Aug) | 5,947.4B |  | 5,906.8B |
 | 04:00 | KRW | M2 Money supply (Aug) | 6.80% |  | 6.40% |
 | 05:30 | JPY | Capacity Utilization (MoM) (Aug) | -2.3% |  | -1.1% |
-| 53 min | EUR | German WPI (MoM) (Sep) |  |  | -0.6% |
-| 53 min | EUR | German WPI (YoY) (Sep) |  |  | 0.7% |
-| 53 min | NOK | Trade Balance (Sep) |  |  | 60.1B |
-| 07:45 | EUR | French CPI NSA (MoM) (Sep) |  |  | -1.00% |
-| 07:45 | EUR | French CPI NSA (YoY) (Sep) |  |  | 1.20% |
-| 07:45 | EUR | French CPI (YoY) (Sep) |  | 1.2% | 0.9% |
-| 07:45 | EUR | French HICP (YoY) (Sep) |  | 1.1% | 0.8% |
-| 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Sep) |  |  | 0.80% |
-| 08:00 | EUR | Core CPI (YoY) (Sep) |  | 2.3% | 2.4% |
-| 08:00 | EUR | Spanish CPI (MoM) (Sep) |  | -0.4% | 0.0% |
-| 08:00 | EUR | Spanish HICP (MoM) (Sep) |  | 0.1% | 0.0% |
+| 07:00 | NOK | Trade Balance (Sep) | 36.9B |  | 59.9B |
+| 34 min | EUR | French CPI NSA (MoM) (Sep) |  |  | -1.00% |
+| 34 min | EUR | French CPI NSA (YoY) (Sep) |  |  | 1.20% |
+| 34 min | EUR | French CPI (YoY) (Sep) |  | 1.2% | 0.9% |
+| 34 min | EUR | French HICP (YoY) (Sep) |  | 1.1% | 0.8% |
+| 34 min | EUR | France Inflation Ex-Tobacco (YoY) (Sep) |  |  | 0.80% |
+| 49 min | EUR | Core CPI (YoY) (Sep) |  | 2.3% | 2.4% |
+| 49 min | EUR | Spanish CPI (MoM) (Sep) |  | -0.4% | 0.0% |
+| 49 min | EUR | Spanish HICP (MoM) (Sep) |  | 0.1% | 0.0% |
 | 08:15 | IDR | Foreign Direct Investment (YoY) (Q3) |  |  | -7.00% |
 | 09:30 | INR | Exports (USD) (Sep) |  |  | 35.10B |
 | 09:30 | INR | Imports (USD) (Sep) |  |  | 61.59B |
@@ -39,7 +37,6 @@
 | 12:00 | CNY | Chinese Total Social Financing (Sep) |  | 3,320.0B | 2,570.0B |
 | 12:00 | ZAR | Retail Sales (YoY) (Aug) |  |  | 5.6% |
 | 12:30 | INR | M3 Money Supply |  |  | 9.2% |
-| 13:30 | USD | Real Earnings (MoM) (Sep) |  |  | -0.1% |
 | 13:30 | CAD | Manufacturing Sales (MoM) (Aug) |  | -1.5% | 2.5% |
 | 16:00 | GBP | BoE Breeden Speaks |  |  |  |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | -1.056B |
