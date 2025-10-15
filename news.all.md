@@ -49,8 +49,8 @@
 | 12:00 | USD | Low | Mortgage Refinance Index | 1,168.0 |  | 1,180.2 |
 | 12:00 | ZAR | Low | Retail Sales (YoY) (Aug) | 2.3% |  | 5.7% |
 | 12:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
-| 13:00 | BRL | Moderate | Retail Sales (MoM) (Aug) | 0.2% | 0.2% | -0.2% |
 | 13:00 | BRL | Moderate | Retail Sales (YoY) (Aug) | 0.4% |  | 1.2% |
+| 13:00 | BRL | Moderate | Retail Sales (MoM) (Aug) | 0.2% | 0.2% | -0.2% |
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Oct) | 10.70 | -1.80 | -8.70 |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Aug) | -1.0% | -1.5% | 2.2% |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Aug) | -1.2% | -1.3% | 1.7% |
@@ -61,6 +61,6 @@
 | 19:00 | USD | Moderate | Beige Book |  |  |  |
 | 19:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 20:45 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
-| 22 min | USD | Moderate | API Weekly Crude Oil Stock |  | 0.120M | 2.780M |
-| 22:45 | NZD | Low | FPI (MoM) (Sep) |  |  | 0.3% |
-| 22:50 | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 0.120M | 2.780M |
+| 39 min | NZD | Low | FPI (MoM) (Sep) |  |  | 0.3% |
+| 44 min | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
