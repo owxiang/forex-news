@@ -13,11 +13,11 @@
 | 08:40 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 09:00 | GBP | MPC Member Ramsden Speaks |  |  |  |
 | 09:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 50 min | EUR | Industrial Production (MoM) (Aug) |  | -1.6% | 0.3% |
-| 12:00 | CNY | New Loans (Sep) |  | 1,460.0B | 590.0B |
+| 10:00 | EUR | Industrial Production (MoM) (Aug) | -1.2% | -1.6% | 0.5% |
+| 10:01 | CNY | New Loans (Sep) | 1,290.0B | 1,460.0B | 590.0B |
 | 12:30 | INR | RBI MPC Meeting Minutes |  |  |  |
-| 13:00 | BRL | Retail Sales (MoM) (Aug) |  | 0.2% | -0.3% |
 | 13:00 | BRL | Retail Sales (YoY) (Aug) |  |  | 1.0% |
+| 13:00 | BRL | Retail Sales (MoM) (Aug) |  | 0.2% | -0.3% |
 | 13:30 | USD | NY Empire State Manufacturing Index (Oct) |  | -1.80 | -8.70 |
 | 13:30 | CAD | Wholesale Sales (MoM) (Aug) |  | -1.3% | 1.2% |
 | 17:10 | USD | FOMC Member Bostic Speaks |  |  |  |

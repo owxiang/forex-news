@@ -14,45 +14,44 @@
 | 05:30 | JPY | Low | Capacity Utilization (MoM) (Aug) | -2.3% |  | -1.1% |
 | 05:30 | JPY | Moderate | Industrial Production (MoM) (Aug) | -1.5% | -1.2% | -1.2% |
 | 07:00 | NOK | Low | Trade Balance (Sep) | 36.9B |  | 59.9B |
-| 07:45 | EUR | Low | French CPI NSA (YoY) (Sep) | 1.20% |  | 1.20% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Sep) | -1.00% |  | -1.00% |
+| 07:45 | EUR | Low | French CPI NSA (YoY) (Sep) | 1.20% |  | 1.20% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Sep) | -1.0% | -1.0% | 0.4% |
 | 07:45 | EUR | Low | French CPI (YoY) (Sep) | 1.2% | 1.2% | 0.9% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Sep) | -1.1% | -1.1% | -1.1% |
 | 07:45 | EUR | Low | French HICP (YoY) (Sep) | 1.1% | 1.1% | 0.8% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Sep) | -1.1% | -1.1% | -1.1% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Sep) | 1.10% |  | 0.80% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Sep) | 2.4% | 2.3% | 2.4% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Sep) | 3.0% | 2.9% | 2.7% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Sep) | -0.3% | -0.4% | 0.0% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Sep) | 3.0% | 3.0% | 2.7% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Sep) | 3.0% | 2.9% | 2.7% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Sep) | 0.2% | 0.1% | 0.0% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Sep) | 3.0% | 3.0% | 2.7% |
 | 08:40 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 09:00 | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
 | 09:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 20 min | INR | Low | Exports (USD) (Sep) |  |  | 35.10B |
-| 20 min | INR | Low | Imports (USD) (Sep) |  |  | 61.59B |
-| 20 min | INR | Low | Trade Balance (Sep) |  |  | -26.49B |
-| 50 min | IDR | Low | Foreign Direct Investment (YoY) (Q3) |  |  | -7.00% |
-| 50 min | EUR | Moderate | Industrial Production (MoM) (Aug) |  | -1.6% | 0.3% |
-| 50 min | EUR | Low | Industrial Production (YoY) (Aug) |  |  | 1.8% |
-| 10:30 | EUR | Low | German 30-Year Bund Auction |  |  | 3.250% |
-| 11:00 | USD | Low | IMF Meetings |  |  |  |
-| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 11:00 | EUR | Low | Reserve Assets Total (Sep) |  |  | 1,507.85B |
+| 10:00 | EUR | Low | Industrial Production (YoY) (Aug) | 1.1% |  | 2.0% |
+| 10:00 | EUR | Moderate | Industrial Production (MoM) (Aug) | -1.2% | -1.6% | 0.5% |
+| 10:01 | CNY | Low | M2 Money Stock (YoY) (Sep) | 8.4% | 8.5% | 8.8% |
+| 10:01 | CNY | Moderate | New Loans (Sep) | 1,290.0B | 1,460.0B | 590.0B |
+| 10:01 | CNY | Low | Outstanding Loan Growth (YoY) (Sep) | 6.6% | 6.7% | 6.8% |
+| 10:04 | CNY | Low | Chinese Total Social Financing (Sep) | 3,530.0B | 3,320.0B | 2,570.0B |
+| 22 min | EUR | Low | German 30-Year Bund Auction |  |  | 3.250% |
+| 52 min | USD | Low | IMF Meetings |  |  |  |
+| 52 min | INR | Low | Exports (USD) (Sep) |  |  | 35.10B |
+| 52 min | INR | Low | Imports (USD) (Sep) |  |  | 61.59B |
+| 52 min | INR | Low | Trade Balance (Sep) |  |  | -26.49B |
+| 52 min | EUR | Low | German Buba Monthly Report |  |  |  |
+| 52 min | EUR | Low | Reserve Assets Total (Sep) |  |  | 1,507.85B |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.43% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -4.7% |
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 170.6 |
 | 12:00 | USD | Low | Mortgage Market Index |  |  | 323.1 |
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 1,180.2 |
-| 12:00 | CNY | Low | M2 Money Stock (YoY) (Sep) |  | 8.5% | 8.8% |
-| 12:00 | CNY | Moderate | New Loans (Sep) |  | 1,460.0B | 590.0B |
-| 12:00 | CNY | Low | Outstanding Loan Growth (YoY) (Sep) |  | 6.7% | 6.8% |
-| 12:00 | CNY | Low | Chinese Total Social Financing (Sep) |  | 3,320.0B | 2,570.0B |
 | 12:00 | ZAR | Low | Retail Sales (YoY) (Aug) |  |  | 5.6% |
 | 12:30 | INR | Low | M3 Money Supply |  |  | 9.2% |
 | 12:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
-| 13:00 | BRL | Moderate | Retail Sales (MoM) (Aug) |  | 0.2% | -0.3% |
 | 13:00 | BRL | Moderate | Retail Sales (YoY) (Aug) |  |  | 1.0% |
+| 13:00 | BRL | Moderate | Retail Sales (MoM) (Aug) |  | 0.2% | -0.3% |
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Oct) |  | -1.80 | -8.70 |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Aug) |  | -1.5% | 2.5% |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Aug) |  | -1.3% | 1.2% |
