@@ -14,8 +14,8 @@
 | 05:30 | JPY | Low | Capacity Utilization (MoM) (Aug) | -2.3% |  | -1.1% |
 | 05:30 | JPY | Moderate | Industrial Production (MoM) (Aug) | -1.5% | -1.2% | -1.2% |
 | 07:00 | NOK | Low | Trade Balance (Sep) | 36.9B |  | 59.9B |
-| 07:45 | EUR | Low | French CPI NSA (MoM) (Sep) | -1.00% |  | -1.00% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Sep) | 1.20% |  | 1.20% |
+| 07:45 | EUR | Low | French CPI NSA (MoM) (Sep) | -1.00% |  | -1.00% |
 | 07:45 | EUR | Low | French CPI (YoY) (Sep) | 1.2% | 1.2% | 0.9% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Sep) | -1.0% | -1.0% | 0.4% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Sep) | -1.1% | -1.1% | -1.1% |
@@ -42,16 +42,16 @@
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | EUR | Low | Reserve Assets Total (Sep) | 1,622.22B |  | 1,507.85B |
-| 52 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.43% |
-| 52 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -4.7% |
-| 52 min | USD | Low | MBA Purchase Index |  |  | 170.6 |
-| 52 min | USD | Low | Mortgage Market Index |  |  | 323.1 |
-| 52 min | USD | Low | Mortgage Refinance Index |  |  | 1,180.2 |
-| 52 min | ZAR | Low | Retail Sales (YoY) (Aug) |  |  | 5.6% |
-| 12:30 | INR | Low | M3 Money Supply |  |  | 9.2% |
-| 12:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
-| 13:00 | BRL | Moderate | Retail Sales (MoM) (Aug) |  | 0.2% | -0.3% |
-| 13:00 | BRL | Moderate | Retail Sales (YoY) (Aug) |  |  | 1.0% |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.42% |  | 6.43% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | -1.8% |  | -4.7% |
+| 12:00 | USD | Low | MBA Purchase Index | 166.0 |  | 170.6 |
+| 12:00 | USD | Low | Mortgage Market Index | 317.2 |  | 323.1 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 1,168.0 |  | 1,180.2 |
+| 12:00 | ZAR | Low | Retail Sales (YoY) (Aug) | 2.3% |  | 5.7% |
+| 24 min | INR | Low | M3 Money Supply |  |  | 9.2% |
+| 24 min | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
+| 54 min | BRL | Moderate | Retail Sales (YoY) (Aug) |  |  | 1.0% |
+| 54 min | BRL | Moderate | Retail Sales (MoM) (Aug) |  | 0.2% | -0.3% |
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Oct) |  | -1.80 | -8.70 |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Aug) |  | -1.5% | 2.5% |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Aug) |  | -1.3% | 1.2% |
@@ -62,6 +62,6 @@
 | 19:00 | USD | Moderate | Beige Book |  |  |  |
 | 19:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 20:45 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 2.780M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 0.120M | 2.780M |
 | 22:45 | NZD | Low | FPI (MoM) (Sep) |  |  | 0.3% |
 | 22:50 | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |

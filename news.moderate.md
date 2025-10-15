@@ -15,14 +15,14 @@
 | 09:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 10:00 | CNY | New Loans (Sep) | 1,290.0B | 1,460.0B | 590.0B |
 | 10:00 | EUR | Industrial Production (MoM) (Aug) | -1.2% | -1.6% | 0.5% |
-| 12:30 | INR | RBI MPC Meeting Minutes |  |  |  |
-| 13:00 | BRL | Retail Sales (MoM) (Aug) |  | 0.2% | -0.3% |
-| 13:00 | BRL | Retail Sales (YoY) (Aug) |  |  | 1.0% |
+| 24 min | INR | RBI MPC Meeting Minutes |  |  |  |
+| 54 min | BRL | Retail Sales (YoY) (Aug) |  |  | 1.0% |
+| 54 min | BRL | Retail Sales (MoM) (Aug) |  | 0.2% | -0.3% |
 | 13:30 | USD | NY Empire State Manufacturing Index (Oct) |  | -1.80 | -8.70 |
 | 13:30 | CAD | Wholesale Sales (MoM) (Aug) |  | -1.3% | 1.2% |
 | 17:10 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 18:00 | USD | Fed Waller Speaks |  |  |  |
 | 19:00 | USD | Beige Book |  |  |  |
 | 19:00 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock |  |  | 2.780M |
+| 21:30 | USD | API Weekly Crude Oil Stock |  | 0.120M | 2.780M |
 | 22:50 | AUD | RBA Assist Gov Kent Speaks |  |  |  |
