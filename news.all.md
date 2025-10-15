@@ -14,8 +14,8 @@
 | 05:30 | JPY | Low | Capacity Utilization (MoM) (Aug) | -2.3% |  | -1.1% |
 | 05:30 | JPY | Moderate | Industrial Production (MoM) (Aug) | -1.5% | -1.2% | -1.2% |
 | 07:00 | NOK | Low | Trade Balance (Sep) | 36.9B |  | 59.9B |
-| 07:45 | EUR | Low | French CPI NSA (YoY) (Sep) | 1.20% |  | 1.20% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Sep) | -1.00% |  | -1.00% |
+| 07:45 | EUR | Low | French CPI NSA (YoY) (Sep) | 1.20% |  | 1.20% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Sep) | -1.0% | -1.0% | 0.4% |
 | 07:45 | EUR | Low | French CPI (YoY) (Sep) | 1.2% | 1.2% | 0.9% |
 | 07:45 | EUR | Low | French HICP (YoY) (Sep) | 1.1% | 1.1% | 0.8% |
@@ -33,8 +33,8 @@
 | 10:00 | CNY | Moderate | New Loans (Sep) | 1,290.0B | 1,460.0B | 590.0B |
 | 10:00 | CNY | Low | Outstanding Loan Growth (YoY) (Sep) | 6.6% | 6.7% | 6.8% |
 | 10:00 | CNY | Low | Chinese Total Social Financing (Sep) | 3,530.0B | 3,320.0B | 2,570.0B |
-| 10:00 | EUR | Moderate | Industrial Production (MoM) (Aug) | -1.2% | -1.6% | 0.5% |
 | 10:00 | EUR | Low | Industrial Production (YoY) (Aug) | 1.1% |  | 2.0% |
+| 10:00 | EUR | Moderate | Industrial Production (MoM) (Aug) | -1.2% | -1.6% | 0.5% |
 | 10:30 | INR | Low | Exports (USD) (Sep) | 36.38B |  | 35.10B |
 | 10:30 | INR | Low | Imports (USD) (Sep) | 68.53B |  | 61.59B |
 | 10:30 | INR | Low | Trade Balance (Sep) | -32.15B |  | -26.49B |
@@ -49,17 +49,17 @@
 | 12:00 | USD | Low | Mortgage Refinance Index | 1,168.0 |  | 1,180.2 |
 | 12:00 | ZAR | Low | Retail Sales (YoY) (Aug) | 2.3% |  | 5.7% |
 | 12:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
-| 13:00 | BRL | Moderate | Retail Sales (MoM) (Aug) | 0.2% | 0.2% | -0.2% |
 | 13:00 | BRL | Moderate | Retail Sales (YoY) (Aug) | 0.4% |  | 1.2% |
+| 13:00 | BRL | Moderate | Retail Sales (MoM) (Aug) | 0.2% | 0.2% | -0.2% |
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Oct) | 10.70 | -1.80 | -8.70 |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Aug) | -1.0% | -1.5% | 2.2% |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Aug) | -1.2% | -1.3% | 1.7% |
 | 16:00 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 17:10 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 18:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 23 min | BRL | Low | Foreign Exchange Flows |  |  | -1.056B |
-| 53 min | USD | Moderate | Beige Book |  |  |  |
-| 53 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 18:30 | BRL | Low | Foreign Exchange Flows | 0.738B |  | -1.056B |
+| 19:00 | USD | Moderate | Beige Book |  |  |  |
+| 19:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 20:45 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 0.120M | 2.780M |
 | 22:45 | NZD | Low | FPI (MoM) (Sep) |  |  | 0.3% |
