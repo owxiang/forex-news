@@ -10,15 +10,13 @@
 | 04:00 | KRW | M2 Money supply (Aug) | 6.80% |  | 6.40% |
 | 05:30 | JPY | Capacity Utilization (MoM) (Aug) | -2.3% |  | -1.1% |
 | 07:00 | NOK | Trade Balance (Sep) | 36.9B |  | 59.9B |
-| 34 min | EUR | French CPI NSA (MoM) (Sep) |  |  | -1.00% |
-| 34 min | EUR | French CPI NSA (YoY) (Sep) |  |  | 1.20% |
-| 34 min | EUR | French CPI (YoY) (Sep) |  | 1.2% | 0.9% |
-| 34 min | EUR | French HICP (YoY) (Sep) |  | 1.1% | 0.8% |
-| 34 min | EUR | France Inflation Ex-Tobacco (YoY) (Sep) |  |  | 0.80% |
-| 49 min | EUR | Core CPI (YoY) (Sep) |  | 2.3% | 2.4% |
-| 49 min | EUR | Spanish CPI (MoM) (Sep) |  | -0.4% | 0.0% |
-| 49 min | EUR | Spanish HICP (MoM) (Sep) |  | 0.1% | 0.0% |
-| 08:15 | IDR | Foreign Direct Investment (YoY) (Q3) |  |  | -7.00% |
+| 07:45 | EUR | French CPI (YoY) (Sep) | 1.2% | 1.2% | 0.9% |
+| 07:45 | EUR | French HICP (YoY) (Sep) | 1.1% | 1.1% | 0.8% |
+| 08:00 | EUR | Core CPI (YoY) (Sep) | 2.4% | 2.3% | 2.4% |
+| 08:00 | EUR | Spanish CPI (MoM) (Sep) | -0.3% | -0.4% | 0.0% |
+| 08:00 | EUR | Spanish HICP (MoM) (Sep) | 0.2% | 0.1% | 0.0% |
+| 7 min | IDR | Foreign Direct Investment (YoY) (Q3) |  |  | -7.00% |
+| 37 min | EUR | France Inflation Ex-Tobacco (YoY) (Sep) |  |  | 0.80% |
 | 09:30 | INR | Exports (USD) (Sep) |  |  | 35.10B |
 | 09:30 | INR | Imports (USD) (Sep) |  |  | 61.59B |
 | 09:30 | INR | Trade Balance (Sep) |  |  | -26.49B |
