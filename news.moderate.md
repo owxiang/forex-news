@@ -10,10 +10,10 @@
 | 07:45 | EUR | French HICP (MoM) (Sep) | -1.1% | -1.1% | -1.1% |
 | 08:00 | EUR | Spanish CPI (YoY) (Sep) | 3.0% | 2.9% | 2.7% |
 | 08:00 | EUR | Spanish HICP (YoY) (Sep) | 3.0% | 3.0% | 2.7% |
-| 32 min | EUR | ECB's De Guindos Speaks |  |  |  |
-| 52 min | GBP | MPC Member Ramsden Speaks |  |  |  |
-| 52 min | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 10:00 | EUR | Industrial Production (MoM) (Aug) |  | -1.6% | 0.3% |
+| 08:40 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 09:00 | GBP | MPC Member Ramsden Speaks |  |  |  |
+| 09:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 50 min | EUR | Industrial Production (MoM) (Aug) |  | -1.6% | 0.3% |
 | 12:00 | CNY | New Loans (Sep) |  | 1,460.0B | 590.0B |
 | 12:30 | INR | RBI MPC Meeting Minutes |  |  |  |
 | 13:00 | BRL | Retail Sales (MoM) (Aug) |  | 0.2% | -0.3% |
