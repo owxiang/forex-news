@@ -55,8 +55,8 @@
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Aug) | -1.0% | -1.5% | 2.2% |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Aug) | -1.2% | -1.3% | 1.7% |
 | 16:00 | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 17:10 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 18:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 2 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 52 min | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -1.056B |
 | 19:00 | USD | Moderate | Beige Book |  |  |  |
 | 19:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |

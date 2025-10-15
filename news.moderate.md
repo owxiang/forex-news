@@ -20,8 +20,8 @@
 | 13:00 | BRL | Retail Sales (MoM) (Aug) | 0.2% | 0.2% | -0.2% |
 | 13:30 | USD | NY Empire State Manufacturing Index (Oct) | 10.70 | -1.80 | -8.70 |
 | 13:30 | CAD | Wholesale Sales (MoM) (Aug) | -1.2% | -1.3% | 1.7% |
-| 17:10 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 18:00 | USD | Fed Waller Speaks |  |  |  |
+| 2 min | USD | FOMC Member Bostic Speaks |  |  |  |
+| 52 min | USD | Fed Waller Speaks |  |  |  |
 | 19:00 | USD | Beige Book |  |  |  |
 | 19:00 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | 0.120M | 2.780M |
