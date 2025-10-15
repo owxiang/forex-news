@@ -6,12 +6,11 @@
 | 01:00 | KRW | Imports (YoY) (Sep) | 8.2% | 8.2% | -4.1% |
 | 01:00 | KRW | Trade Balance (Sep) | 9.53B | 9.56B | 6.51B |
 | 01:00 | AUD | MI Leading Index (MoM) (Sep) | -0.0% |  | -0.1% |
-| 25 min | KRW | M3 Money Supply (Aug) |  |  | 5,906.8B |
-| 25 min | KRW | M2 Money supply (Aug) |  |  | 6.40% |
-| 25 min | IDR | Consumer Confidence (Sep) |  |  | 117.2 |
+| 04:00 | KRW | M3 Money Supply (Aug) | 5,947.4B |  | 5,906.8B |
+| 04:00 | KRW | M2 Money supply (Aug) | 6.80% |  | 6.40% |
 | 05:30 | JPY | Capacity Utilization (MoM) (Aug) |  |  | -1.1% |
-| 07:00 | EUR | German WPI (MoM) (Sep) |  |  | -0.6% |
 | 07:00 | EUR | German WPI (YoY) (Sep) |  |  | 0.7% |
+| 07:00 | EUR | German WPI (MoM) (Sep) |  |  | -0.6% |
 | 07:00 | NOK | Trade Balance (Sep) |  |  | 60.1B |
 | 07:45 | EUR | French CPI NSA (YoY) (Sep) |  |  | 1.20% |
 | 07:45 | EUR | French CPI NSA (MoM) (Sep) |  |  | -1.00% |
