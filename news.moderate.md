@@ -25,4 +25,4 @@
 | 19:00 | USD | Beige Book |  |  |  |
 | 19:00 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | 0.120M | 2.780M |
-| 44 min | AUD | RBA Assist Gov Kent Speaks |  |  |  |
+| 22:50 | AUD | RBA Assist Gov Kent Speaks |  |  |  |

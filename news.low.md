@@ -39,4 +39,4 @@
 | 16:00 | GBP | BoE Breeden Speaks |  |  |  |
 | 18:30 | BRL | Foreign Exchange Flows | 0.738B |  | -1.056B |
 | 20:45 | AUD | RBA Gov Bullock Speaks |  |  |  |
-| 39 min | NZD | FPI (MoM) (Sep) |  |  | 0.3% |
+| 22:45 | NZD | FPI (MoM) (Sep) | 0.3% |  | 0.3% |

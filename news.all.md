@@ -16,16 +16,16 @@
 | 07:00 | NOK | Low | Trade Balance (Sep) | 36.9B |  | 59.9B |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Sep) | -1.00% |  | -1.00% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Sep) | 1.20% |  | 1.20% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Sep) | -1.0% | -1.0% | 0.4% |
 | 07:45 | EUR | Low | French CPI (YoY) (Sep) | 1.2% | 1.2% | 0.9% |
-| 07:45 | EUR | Low | French HICP (YoY) (Sep) | 1.1% | 1.1% | 0.8% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Sep) | -1.0% | -1.0% | 0.4% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Sep) | -1.1% | -1.1% | -1.1% |
+| 07:45 | EUR | Low | French HICP (YoY) (Sep) | 1.1% | 1.1% | 0.8% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Sep) | 1.10% |  | 0.80% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Sep) | 2.4% | 2.3% | 2.4% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Sep) | -0.3% | -0.4% | 0.0% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Sep) | 3.0% | 2.9% | 2.7% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Sep) | 0.2% | 0.1% | 0.0% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Sep) | -0.3% | -0.4% | 0.0% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Sep) | 3.0% | 3.0% | 2.7% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Sep) | 0.2% | 0.1% | 0.0% |
 | 08:40 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 09:00 | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
 | 09:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
@@ -62,5 +62,5 @@
 | 19:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 20:45 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 0.120M | 2.780M |
-| 39 min | NZD | Low | FPI (MoM) (Sep) |  |  | 0.3% |
-| 44 min | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
+| 22:45 | NZD | Low | FPI (MoM) (Sep) | 0.3% |  | 0.3% |
+| 22:50 | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
