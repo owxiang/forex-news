@@ -60,7 +60,7 @@
 | 18:30 | BRL | Low | Foreign Exchange Flows | 0.738B |  | -1.056B |
 | 19:00 | USD | Moderate | Beige Book |  |  |  |
 | 19:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 20:45 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
+| 39 min | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 0.120M | 2.780M |
 | 22:45 | NZD | Low | FPI (MoM) (Sep) |  |  | 0.3% |
 | 22:50 | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
