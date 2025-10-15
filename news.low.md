@@ -8,12 +8,12 @@
 | 01:00 | AUD | MI Leading Index (MoM) (Sep) | -0.0% |  | -0.1% |
 | 04:00 | KRW | M3 Money Supply (Aug) | 5,947.4B |  | 5,906.8B |
 | 04:00 | KRW | M2 Money supply (Aug) | 6.80% |  | 6.40% |
-| 05:30 | JPY | Capacity Utilization (MoM) (Aug) |  |  | -1.1% |
+| 22 min | JPY | Capacity Utilization (MoM) (Aug) |  |  | -1.1% |
 | 07:00 | EUR | German WPI (YoY) (Sep) |  |  | 0.7% |
 | 07:00 | EUR | German WPI (MoM) (Sep) |  |  | -0.6% |
 | 07:00 | NOK | Trade Balance (Sep) |  |  | 60.1B |
-| 07:45 | EUR | French CPI NSA (YoY) (Sep) |  |  | 1.20% |
 | 07:45 | EUR | French CPI NSA (MoM) (Sep) |  |  | -1.00% |
+| 07:45 | EUR | French CPI NSA (YoY) (Sep) |  |  | 1.20% |
 | 07:45 | EUR | French CPI (YoY) (Sep) |  | 1.2% | 0.9% |
 | 07:45 | EUR | French HICP (YoY) (Sep) |  | 1.1% | 0.8% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Sep) |  |  | 0.80% |
