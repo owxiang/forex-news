@@ -16,8 +16,8 @@
 | 10:00 | EUR | Industrial Production (MoM) (Aug) |  | -1.7% | 0.3% |
 | 12:00 | CNY | New Loans (Sep) |  | 1,460.0B | 590.0B |
 | 12:30 | INR | RBI MPC Meeting Minutes |  |  |  |
-| 13:00 | BRL | Retail Sales (MoM) (Aug) |  |  | -0.3% |
 | 13:00 | BRL | Retail Sales (YoY) (Aug) |  |  | 1.0% |
+| 13:00 | BRL | Retail Sales (MoM) (Aug) |  |  | -0.3% |
 | 13:30 | USD | NY Empire State Manufacturing Index (Oct) |  | -1.90 | -8.70 |
 | 13:30 | CAD | Wholesale Sales (MoM) (Aug) |  | -1.3% | 1.2% |
 | 17:10 | USD | FOMC Member Bostic Speaks |  |  |  |

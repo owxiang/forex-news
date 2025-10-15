@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 49 min | KRW | Low | Exports (YoY) (Sep) |  | 12.7% | 1.2% |
-| 49 min | KRW | Low | Imports (YoY) (Sep) |  | 8.2% | -4.1% |
-| 49 min | KRW | Low | Trade Balance (Sep) |  | 9.56B | 6.51B |
-| 54 min | AUD | Low | MI Leading Index (MoM) (Sep) |  |  | -0.1% |
+| 01:00 | AUD | Low | MI Leading Index (MoM) (Sep) | -0.0% |  | -0.1% |
+| 01:11 | KRW | Low | Exports (YoY) (Sep) | 12.6% | 12.7% | 1.2% |
+| 01:11 | KRW | Low | Imports (YoY) (Sep) | 8.2% | 8.2% | -4.1% |
+| 01:11 | KRW | Low | Trade Balance (Sep) | 9.53B | 9.56B | 6.51B |
 | 02:30 | CNY | Moderate | CPI (MoM) (Sep) |  | 0.2% | 0.0% |
 | 02:30 | CNY | Moderate | CPI (YoY) (Sep) |  | -0.2% | -0.4% |
 | 02:30 | CNY | Moderate | PPI (YoY) (Sep) |  | -2.3% | -2.9% |
@@ -17,16 +17,16 @@
 | 07:00 | EUR | Low | German WPI (YoY) (Sep) |  |  | 0.7% |
 | 07:00 | EUR | Low | German WPI (MoM) (Sep) |  |  | -0.6% |
 | 07:00 | NOK | Low | Trade Balance (Sep) |  |  | 60.1B |
-| 07:45 | EUR | Low | French CPI NSA (YoY) (Sep) |  |  | 1.20% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Sep) |  |  | -1.00% |
+| 07:45 | EUR | Low | French CPI NSA (YoY) (Sep) |  |  | 1.20% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Sep) |  | -1.0% | 0.4% |
 | 07:45 | EUR | Low | French CPI (YoY) (Sep) |  | 1.2% | 0.9% |
 | 07:45 | EUR | Low | French HICP (YoY) (Sep) |  | 1.1% | 0.8% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Sep) |  | -1.1% | -1.1% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Sep) |  |  | 0.80% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Sep) |  | 2.3% | 2.4% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Sep) |  | 2.9% | 2.7% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Sep) |  | -0.4% | 0.0% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Sep) |  | 2.9% | 2.7% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Sep) |  | 0.1% | 0.0% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Sep) |  | 3.0% | 2.7% |
 | 08:15 | IDR | Low | Foreign Direct Investment (YoY) (Q3) |  |  | -7.00% |
@@ -54,8 +54,8 @@
 | 12:00 | ZAR | Low | Retail Sales (YoY) (Aug) |  |  | 5.6% |
 | 12:30 | INR | Low | M3 Money Supply |  |  | 9.2% |
 | 12:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
-| 13:00 | BRL | Moderate | Retail Sales (MoM) (Aug) |  |  | -0.3% |
 | 13:00 | BRL | Moderate | Retail Sales (YoY) (Aug) |  |  | 1.0% |
+| 13:00 | BRL | Moderate | Retail Sales (MoM) (Aug) |  |  | -0.3% |
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Oct) |  | -1.90 | -8.70 |
 | 13:30 | USD | Low | Real Earnings (MoM) (Sep) |  |  | -0.1% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Aug) |  | -1.5% | 2.5% |
