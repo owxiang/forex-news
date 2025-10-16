@@ -28,5 +28,6 @@
 | 17:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | Atlanta Fed GDPNow (Q3) |  |  |  |
 | 18:30 | CAD | BoC Gov Macklem Speaks |  |  |  |
+| 21:30 | USD | API Weekly Crude Oil Stock |  | 0.120M | 2.780M |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,591B |
 | 23:00 | USD | FOMC Member Kashkari Speaks |  |  |  |

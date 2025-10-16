@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 44 min | JPY | Core Machinery Orders (MoM) (Aug) |  | 0.4% | -4.6% |
-| 44 min | JPY | Core Machinery Orders (YoY) (Aug) |  | 4.8% | 4.9% |
+| 00:50 | JPY | Core Machinery Orders (MoM) (Aug) | -0.9% | 0.4% | -4.6% |
+| 00:50 | JPY | Core Machinery Orders (YoY) (Aug) | 1.6% | 4.8% | 4.9% |
 | 01:30 | AUD | Participation Rate (Sep) |  | 66.8% | 66.8% |
 | 01:30 | AUD | Reserve Assets Total (Sep) |  |  | 105.9B |
 | 02:30 | JPY | BoJ Tamura Speaks |  |  |  |
