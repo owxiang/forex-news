@@ -29,8 +29,8 @@
 | 09:00 | EUR | Low | Italian CPI (MoM) (Sep) | -0.2% | -0.2% | 0.1% |
 | 09:00 | EUR | Low | Italian CPI (YoY) (Sep) | 1.6% | 1.6% | 1.6% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Sep) | 1.4% |  | 1.4% |
-| 09:00 | EUR | Low | Italian HICP (MoM) (Sep) | 1.3% | 1.3% | -0.2% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (Sep) | 1.8% | 1.8% | 1.6% |
+| 09:00 | EUR | Low | Italian HICP (MoM) (Sep) | 1.3% | 1.3% | -0.2% |
 | 09:30 | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
 | 10:00 | EUR | Low | Italian Trade Balance (Aug) | 2.050B | 8.940B | 7.829B |
 | 10:00 | EUR | Low | Italian Trade Balance EU (Aug) | 0.17B |  | 1.83B |
@@ -73,7 +73,8 @@
 | 17:00 | USD | Low | Gasoline Inventories | -0.267M |  | -1.601M |
 | 17:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 17:45 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 23 min | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
+| 18:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
+| 19:00 | USD | Moderate | Federal Budget Balance (Sep) | 198.0B |  | -345.0B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 0.120M | 2.780M |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,591B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.034T |
