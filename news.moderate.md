@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | AUD | Employment Change (Sep) |  | 20.5K | -5.4K |
-| 01:30 | AUD | Full Employment Change (Sep) |  |  | -40.9K |
-| 01:30 | AUD | Unemployment Rate (Sep) |  | 4.3% | 4.2% |
+| 01:30 | AUD | Employment Change (Sep) | 14.9K | 20.5K | -11.8K |
+| 01:30 | AUD | Full Employment Change (Sep) | 8.7K |  | -48.6K |
+| 01:30 | AUD | Unemployment Rate (Sep) | 4.5% | 4.3% | 4.3% |
 | 07:00 | GBP | Industrial Production (MoM) (Aug) |  | 0.2% | -0.9% |
 | 07:00 | GBP | Manufacturing Production (MoM) (Aug) |  | 0.2% | -1.3% |
 | 07:00 | GBP | Monthly GDP 3M/3M Change (Aug) |  | 0.3% | 0.2% |

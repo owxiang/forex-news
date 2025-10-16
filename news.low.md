@@ -2,12 +2,12 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Core Machinery Orders (MoM) (Aug) | -0.9% | 0.4% | -4.6% |
 | 00:50 | JPY | Core Machinery Orders (YoY) (Aug) | 1.6% | 4.8% | 4.9% |
-| 01:30 | AUD | Participation Rate (Sep) |  | 66.8% | 66.8% |
-| 01:30 | AUD | Reserve Assets Total (Sep) |  |  | 105.9B |
+| 00:50 | JPY | Core Machinery Orders (MoM) (Aug) | -0.9% | 0.4% | -4.6% |
+| 01:30 | AUD | Participation Rate (Sep) | 67.0% | 66.8% | 66.9% |
+| 01:30 | AUD | Reserve Assets Total (Sep) | 108.0B |  | 105.9B |
 | 02:30 | JPY | BoJ Tamura Speaks |  |  |  |
-| 03:00 | NZD | RBNZ Offshore Holdings (Sep) |  |  | 59.60% |
+| 25 min | NZD | RBNZ Offshore Holdings (Sep) |  |  | 59.60% |
 | 05:30 | JPY | Tertiary Industry Activity Index (Aug) |  |  | 1.40 |
 | 07:00 | GBP | Construction Output (MoM) (Aug) |  | -0.1% | 0.2% |
 | 07:00 | GBP | U.K. Construction Output (YoY) (Aug) |  |  | 2.4% |
@@ -17,11 +17,11 @@
 | 07:00 | GBP | Manufacturing Production (YoY) (Aug) |  | -1.0% | 0.2% |
 | 07:00 | NOK | Industrial Confidence (Q3) |  |  | 0.9 |
 | 08:00 | CHF | SECO Economic Forecasts |  |  |  |
-| 09:00 | EUR | Italian CPI (YoY) (Sep) |  | 1.6% | 1.6% |
 | 09:00 | EUR | Italian CPI (MoM) (Sep) |  | -0.2% | 0.1% |
+| 09:00 | EUR | Italian CPI (YoY) (Sep) |  | 1.6% | 1.6% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Sep) |  |  | 1.4% |
-| 09:00 | EUR | Italian HICP (YoY) (Sep) |  | 1.8% | 1.6% |
 | 09:00 | EUR | Italian HICP (MoM) (Sep) |  | 1.3% | -0.2% |
+| 09:00 | EUR | Italian HICP (YoY) (Sep) |  | 1.8% | 1.6% |
 | 10:00 | EUR | Italian Trade Balance (Aug) |  | 8.940B | 7.908B |
 | 10:00 | EUR | Italian Trade Balance EU (Aug) |  |  | 1.92B |
 | 10:00 | IDR | Foreign Direct Investment (YoY) (Q3) |  |  | -7.00% |
