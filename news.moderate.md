@@ -10,8 +10,8 @@
 | 07:00 | GBP | Monthly GDP 3M/3M Change (Aug) | 0.3% | 0.3% | 0.2% |
 | 07:00 | GBP | Trade Balance (Aug) | -21.18B | -21.80B | -20.65B |
 | 07:00 | GBP | Trade Balance Non-EU (Aug) | -8.29B |  | -8.80B |
-| 09:30 | GBP | BOE Credit Conditions Survey |  |  |  |
-| 10:00 | EUR | Trade Balance (Aug) |  | 6.9B | 12.4B |
+| 20 min | GBP | BOE Credit Conditions Survey |  |  |  |
+| 50 min | EUR | Trade Balance (Aug) |  | 6.9B | 12.4B |
 | 12:00 | GBP | NIESR Monthly GDP Tracker |  |  | 0.3% |
 | 13:15 | CAD | Housing Starts (Sep) |  | 258.0K | 245.8K |
 | 13:30 | USD | Philly Fed Employment (Oct) |  |  | 5.6 |
