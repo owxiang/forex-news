@@ -41,20 +41,20 @@
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:10 | GBP | Moderate | NIESR Monthly GDP Tracker | 0.3% |  | 0.3% |
-| 24 min | INR | Low | M3 Money Supply |  |  | 9.2% |
-| 54 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 54 min | BRL | Low | IBC-Br Economic Activity (Aug) |  |  | -0.50% |
-| 13:15 | CAD | Moderate | Housing Starts (Sep) |  | 258.0K | 245.8K |
-| 13:30 | USD | High | Philadelphia Fed Manufacturing Index (Oct) |  | 8.6 | 23.2 |
-| 13:30 | USD | Low | Philly Fed Business Conditions (Oct) |  |  | 31.5 |
-| 13:30 | USD | Low | Philly Fed CAPEX Index (Oct) |  |  | 12.50 |
-| 13:30 | USD | Moderate | Philly Fed Employment (Oct) |  |  | 5.6 |
-| 13:30 | USD | Low | Philly Fed New Orders (Oct) |  |  | 12.4 |
-| 13:30 | USD | Low | Philly Fed Prices Paid (Oct) |  |  | 46.80 |
-| 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Aug) |  |  | 179.8K |
-| 14:00 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
-| 14:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 14:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 13:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 13:00 | BRL | Low | IBC-Br Economic Activity (Aug) | 0.40% |  | -0.50% |
+| 3 min | CAD | Moderate | Housing Starts (Sep) |  | 258.0K | 245.8K |
+| 18 min | USD | High | Philadelphia Fed Manufacturing Index (Oct) |  | 8.6 | 23.2 |
+| 18 min | USD | Low | Philly Fed Business Conditions (Oct) |  |  | 31.5 |
+| 18 min | USD | Low | Philly Fed CAPEX Index (Oct) |  |  | 12.50 |
+| 18 min | USD | Moderate | Philly Fed Employment (Oct) |  |  | 5.6 |
+| 18 min | USD | Low | Philly Fed New Orders (Oct) |  |  | 12.4 |
+| 18 min | USD | Low | Philly Fed Prices Paid (Oct) |  |  | 46.80 |
+| 18 min | CAD | Low | New Motor Vehicle Sales (MoM) (Aug) |  |  | 179.8K |
+| 48 min | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
+| 48 min | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 48 min | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 14:30 | INR | Low | M3 Money Supply |  |  | 9.2% |
 | 15:00 | USD | Moderate | Business Inventories (MoM) (Aug) |  | 0.1% | 0.2% |
 | 15:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 15:00 | USD | Low | NAHB Housing Market Index (Oct) |  | 33 | 32 |

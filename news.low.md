@@ -29,14 +29,14 @@
 | 10:00 | EUR | Spanish 7-Year Obligacion Auction | 2.716% |  | 2.922% |
 | 11:00 | USD | IMF Meetings |  |  |  |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 24 min | INR | M3 Money Supply |  |  | 9.2% |
-| 54 min | USD | FOMC Member Barkin Speaks |  |  |  |
-| 54 min | BRL | IBC-Br Economic Activity (Aug) |  |  | -0.50% |
-| 13:30 | USD | Philly Fed Business Conditions (Oct) |  |  | 31.5 |
-| 13:30 | USD | Philly Fed CAPEX Index (Oct) |  |  | 12.50 |
-| 13:30 | USD | Philly Fed New Orders (Oct) |  |  | 12.4 |
-| 13:30 | USD | Philly Fed Prices Paid (Oct) |  |  | 46.80 |
-| 13:30 | CAD | New Motor Vehicle Sales (MoM) (Aug) |  |  | 179.8K |
+| 13:00 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 13:00 | BRL | IBC-Br Economic Activity (Aug) | 0.40% |  | -0.50% |
+| 18 min | USD | Philly Fed Business Conditions (Oct) |  |  | 31.5 |
+| 18 min | USD | Philly Fed CAPEX Index (Oct) |  |  | 12.50 |
+| 18 min | USD | Philly Fed New Orders (Oct) |  |  | 12.4 |
+| 18 min | USD | Philly Fed Prices Paid (Oct) |  |  | 46.80 |
+| 18 min | CAD | New Motor Vehicle Sales (MoM) (Aug) |  |  | 179.8K |
+| 14:30 | INR | M3 Money Supply |  |  | 9.2% |
 | 15:00 | USD | NAHB Housing Market Index (Oct) |  | 33 | 32 |
 | 15:30 | USD | Natural Gas Storage |  | 76B | 80B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.030% |
