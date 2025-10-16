@@ -21,10 +21,10 @@
 | 15:00 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 15:45 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
 | 15:45 | GBP | BoE MPC Member Mann Speaks |  |  |  |
-| 38 min | EUR | ECB's Lane Speaks |  |  |  |
-| 53 min | USD | Cushing Crude Oil Inventories |  |  | -0.763M |
-| 53 min | EUR | ECB President Lagarde Speaks |  |  |  |
-| 18:00 | USD | Atlanta Fed GDPNow (Q3) |  |  |  |
+| 16:45 | EUR | ECB's Lane Speaks |  |  |  |
+| 17:00 | USD | Cushing Crude Oil Inventories | -0.703M |  | -0.763M |
+| 17:00 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 52 min | USD | Atlanta Fed GDPNow (Q3) |  |  |  |
 | 18:30 | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | 0.120M | 2.780M |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,591B |
