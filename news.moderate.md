@@ -24,8 +24,8 @@
 | 16:45 | EUR | ECB's Lane Speaks |  |  |  |
 | 17:00 | USD | Cushing Crude Oil Inventories | -0.703M |  | -0.763M |
 | 17:00 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 18:00 | USD | API Weekly Crude Oil Stock | 3.524M | 0.120M | 2.780M |
 | 18:30 | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 19:00 | USD | Federal Budget Balance (Sep) | 198.0B |  | -345.0B |
-| 21:30 | USD | API Weekly Crude Oil Stock |  | 0.120M | 2.780M |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,591B |
 | 23:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
