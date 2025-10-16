@@ -29,9 +29,9 @@
 | 10:00 | EUR | Spanish 7-Year Obligacion Auction | 2.716% |  | 2.922% |
 | 11:00 | USD | IMF Meetings |  |  |  |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 12:30 | INR | M3 Money Supply |  |  | 9.2% |
-| 13:00 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 13:00 | BRL | IBC-Br Economic Activity (Aug) |  |  | -0.50% |
+| 24 min | INR | M3 Money Supply |  |  | 9.2% |
+| 54 min | USD | FOMC Member Barkin Speaks |  |  |  |
+| 54 min | BRL | IBC-Br Economic Activity (Aug) |  |  | -0.50% |
 | 13:30 | USD | Philly Fed Business Conditions (Oct) |  |  | 31.5 |
 | 13:30 | USD | Philly Fed CAPEX Index (Oct) |  |  | 12.50 |
 | 13:30 | USD | Philly Fed New Orders (Oct) |  |  | 12.4 |

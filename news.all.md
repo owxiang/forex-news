@@ -19,8 +19,8 @@
 | 07:00 | GBP | Low | Index of Services | 0.4% | 0.4% | 0.4% |
 | 07:00 | GBP | Moderate | Industrial Production (MoM) (Aug) | 0.4% | 0.2% | -0.4% |
 | 07:00 | GBP | Low | Industrial Production (YoY) (Aug) | -0.7% | -0.6% | -0.1% |
-| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Aug) | 0.7% | 0.2% | -1.1% |
 | 07:00 | GBP | Low | Manufacturing Production (YoY) (Aug) | -0.8% | -1.0% | -0.1% |
+| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Aug) | 0.7% | 0.2% | -1.1% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Aug) | 0.3% | 0.3% | 0.2% |
 | 07:00 | GBP | Moderate | Trade Balance (Aug) | -21.18B | -21.80B | -20.65B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Aug) | -8.29B |  | -8.80B |
@@ -40,10 +40,10 @@
 | 10:00 | EUR | Moderate | Trade Balance (Aug) | 1.0B | 6.9B | 12.7B |
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 52 min | GBP | Moderate | NIESR Monthly GDP Tracker |  |  | 0.3% |
-| 12:30 | INR | Low | M3 Money Supply |  |  | 9.2% |
-| 13:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 13:00 | BRL | Low | IBC-Br Economic Activity (Aug) |  |  | -0.50% |
+| 11:10 | GBP | Moderate | NIESR Monthly GDP Tracker | 0.3% |  | 0.3% |
+| 24 min | INR | Low | M3 Money Supply |  |  | 9.2% |
+| 54 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 54 min | BRL | Low | IBC-Br Economic Activity (Aug) |  |  | -0.50% |
 | 13:15 | CAD | Moderate | Housing Starts (Sep) |  | 258.0K | 245.8K |
 | 13:30 | USD | High | Philadelphia Fed Manufacturing Index (Oct) |  | 8.6 | 23.2 |
 | 13:30 | USD | Low | Philly Fed Business Conditions (Oct) |  |  | 31.5 |
