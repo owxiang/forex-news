@@ -18,11 +18,9 @@
 | 14:00 | GBP | BoE MPC Member Mann Speaks |  |  |  |
 | 14:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 14:00 | USD | Fed Waller Speaks |  |  |  |
-| 45 min | USD | Business Inventories (MoM) (Aug) |  | 0.1% | 0.2% |
-| 45 min | USD | FOMC Member Bowman Speaks |  |  |  |
-| 45 min | USD | Retail Inventories Ex Auto (Aug) |  | 0.3% | 0.3% |
-| 15:45 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
-| 15:45 | GBP | BoE MPC Member Mann Speaks |  |  |  |
+| 15:00 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 37 min | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
+| 37 min | GBP | BoE MPC Member Mann Speaks |  |  |  |
 | 16:45 | EUR | ECB's Lane Speaks |  |  |  |
 | 17:00 | USD | Cushing Crude Oil Inventories |  |  | -0.763M |
 | 17:00 | EUR | ECB President Lagarde Speaks |  |  |  |
