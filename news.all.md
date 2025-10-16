@@ -12,15 +12,15 @@
 | 02:30 | JPY | Low | BoJ Tamura Speaks |  |  |  |
 | 03:00 | NZD | Low | RBNZ Offshore Holdings (Sep) | 57.80% |  | 59.60% |
 | 05:30 | JPY | Low | Tertiary Industry Activity Index (Aug) | -4.30 |  | 1.20 |
-| 07:00 | GBP | Low | U.K. Construction Output (YoY) (Aug) | 1.0% |  | 1.8% |
 | 07:00 | GBP | Low | Construction Output (MoM) (Aug) | -0.3% | -0.1% | 0.0% |
+| 07:00 | GBP | Low | U.K. Construction Output (YoY) (Aug) | 1.0% |  | 1.8% |
 | 07:00 | GBP | High | GDP (MoM) (Aug) | 0.1% | 0.1% | -0.1% |
 | 07:00 | GBP | Low | GDP (YoY) (Aug) | 1.3% | 1.3% | 1.5% |
 | 07:00 | GBP | Low | Index of Services | 0.4% | 0.4% | 0.4% |
-| 07:00 | GBP | Low | Industrial Production (YoY) (Aug) | -0.7% | -0.6% | -0.1% |
 | 07:00 | GBP | Moderate | Industrial Production (MoM) (Aug) | 0.4% | 0.2% | -0.4% |
-| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Aug) | 0.7% | 0.2% | -1.1% |
+| 07:00 | GBP | Low | Industrial Production (YoY) (Aug) | -0.7% | -0.6% | -0.1% |
 | 07:00 | GBP | Low | Manufacturing Production (YoY) (Aug) | -0.8% | -1.0% | -0.1% |
+| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Aug) | 0.7% | 0.2% | -1.1% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Aug) | 0.3% | 0.3% | 0.2% |
 | 07:00 | GBP | Moderate | Trade Balance (Aug) | -21.18B | -21.80B | -20.65B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Aug) | -8.29B |  | -8.80B |
@@ -72,9 +72,8 @@
 | 17:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -6.7% |  | 1.0% |
 | 17:00 | USD | Low | Gasoline Inventories | -0.267M |  | -1.601M |
 | 17:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 37 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 52 min | USD | Moderate | Atlanta Fed GDPNow (Q3) |  |  |  |
-| 18:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
+| 17:45 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 23 min | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 0.120M | 2.780M |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,591B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.034T |

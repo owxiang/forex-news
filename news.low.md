@@ -9,8 +9,8 @@
 | 02:30 | JPY | BoJ Tamura Speaks |  |  |  |
 | 03:00 | NZD | RBNZ Offshore Holdings (Sep) | 57.80% |  | 59.60% |
 | 05:30 | JPY | Tertiary Industry Activity Index (Aug) | -4.30 |  | 1.20 |
-| 07:00 | GBP | U.K. Construction Output (YoY) (Aug) | 1.0% |  | 1.8% |
 | 07:00 | GBP | Construction Output (MoM) (Aug) | -0.3% | -0.1% | 0.0% |
+| 07:00 | GBP | U.K. Construction Output (YoY) (Aug) | 1.0% |  | 1.8% |
 | 07:00 | GBP | GDP (YoY) (Aug) | 1.3% | 1.3% | 1.5% |
 | 07:00 | GBP | Index of Services | 0.4% | 0.4% | 0.4% |
 | 07:00 | GBP | Industrial Production (YoY) (Aug) | -0.7% | -0.6% | -0.1% |
@@ -47,7 +47,7 @@
 | 17:00 | USD | Heating Oil Stockpiles | -0.519M |  | -0.060M |
 | 17:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -6.7% |  | 1.0% |
 | 17:00 | USD | Gasoline Inventories | -0.267M |  | -1.601M |
-| 37 min | USD | FOMC Member Barkin Speaks |  |  |  |
+| 17:45 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.034T |
 | 22:00 | KRW | Export Price Index (YoY) (Sep) |  |  | -1.0% |
 | 22:00 | KRW | Import Price Index (YoY) (Sep) |  |  | -2.2% |
