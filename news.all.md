@@ -19,8 +19,8 @@
 | 07:00 | GBP | Low | Index of Services | 0.4% | 0.4% | 0.4% |
 | 07:00 | GBP | Moderate | Industrial Production (MoM) (Aug) | 0.4% | 0.2% | -0.4% |
 | 07:00 | GBP | Low | Industrial Production (YoY) (Aug) | -0.7% | -0.6% | -0.1% |
-| 07:00 | GBP | Low | Manufacturing Production (YoY) (Aug) | -0.8% | -1.0% | -0.1% |
 | 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Aug) | 0.7% | 0.2% | -1.1% |
+| 07:00 | GBP | Low | Manufacturing Production (YoY) (Aug) | -0.8% | -1.0% | -0.1% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Aug) | 0.3% | 0.3% | 0.2% |
 | 07:00 | GBP | Moderate | Trade Balance (Aug) | -21.18B | -21.80B | -20.65B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Aug) | -8.29B |  | -8.80B |
@@ -76,8 +76,8 @@
 | 18:00 | USD | Moderate | API Weekly Crude Oil Stock | 3.524M | 0.120M | 2.780M |
 | 18:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 19:00 | USD | Moderate | Federal Budget Balance (Sep) | 198.0B |  | -345.0B |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,591B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.034T |
-| 22:00 | KRW | Low | Export Price Index (YoY) (Sep) |  |  | -1.0% |
-| 22:00 | KRW | Low | Import Price Index (YoY) (Sep) |  |  | -2.2% |
+| 22 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,591B |
+| 22 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.034T |
+| 52 min | KRW | Low | Export Price Index (YoY) (Sep) |  |  | -1.0% |
+| 52 min | KRW | Low | Import Price Index (YoY) (Sep) |  |  | -2.2% |
 | 23:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |

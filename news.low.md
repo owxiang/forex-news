@@ -48,6 +48,6 @@
 | 17:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -6.7% |  | 1.0% |
 | 17:00 | USD | Gasoline Inventories | -0.267M |  | -1.601M |
 | 17:45 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.034T |
-| 22:00 | KRW | Export Price Index (YoY) (Sep) |  |  | -1.0% |
-| 22:00 | KRW | Import Price Index (YoY) (Sep) |  |  | -2.2% |
+| 22 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.034T |
+| 52 min | KRW | Export Price Index (YoY) (Sep) |  |  | -1.0% |
+| 52 min | KRW | Import Price Index (YoY) (Sep) |  |  | -2.2% |
