@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:50 | JPY | Low | Core Machinery Orders (YoY) (Aug) | 1.6% | 4.8% | 4.9% |
 | 00:50 | JPY | Low | Core Machinery Orders (MoM) (Aug) | -0.9% | 0.4% | -4.6% |
+| 00:50 | JPY | Low | Core Machinery Orders (YoY) (Aug) | 1.6% | 4.8% | 4.9% |
 | 01:30 | AUD | Moderate | Employment Change (Sep) | 14.9K | 20.5K | -11.8K |
 | 01:30 | AUD | Moderate | Full Employment Change (Sep) | 8.7K |  | -48.6K |
 | 01:30 | AUD | Low | Participation Rate (Sep) | 67.0% | 66.8% | 66.9% |
@@ -11,7 +11,7 @@
 | 01:30 | AUD | Moderate | Unemployment Rate (Sep) | 4.5% | 4.3% | 4.3% |
 | 02:30 | JPY | Low | BoJ Tamura Speaks |  |  |  |
 | 03:00 | NZD | Low | RBNZ Offshore Holdings (Sep) | 57.80% |  | 59.60% |
-| 05:30 | JPY | Low | Tertiary Industry Activity Index (Aug) |  |  | 1.40 |
+| 22 min | JPY | Low | Tertiary Industry Activity Index (Aug) |  |  | 1.40 |
 | 07:00 | GBP | Low | Construction Output (MoM) (Aug) |  | -0.1% | 0.2% |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (Aug) |  |  | 2.4% |
 | 07:00 | GBP | High | GDP (MoM) (Aug) |  | 0.1% | 0.0% |
@@ -19,15 +19,15 @@
 | 07:00 | GBP | Low | Index of Services |  | 0.4% | 0.4% |
 | 07:00 | GBP | Moderate | Industrial Production (MoM) (Aug) |  | 0.2% | -0.9% |
 | 07:00 | GBP | Low | Industrial Production (YoY) (Aug) |  | -0.6% | 0.1% |
-| 07:00 | GBP | Low | Manufacturing Production (YoY) (Aug) |  | -1.0% | 0.2% |
 | 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Aug) |  | 0.2% | -1.3% |
+| 07:00 | GBP | Low | Manufacturing Production (YoY) (Aug) |  | -1.0% | 0.2% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Aug) |  | 0.3% | 0.2% |
 | 07:00 | GBP | Moderate | Trade Balance (Aug) |  | -21.80B | -22.24B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Aug) |  |  | -10.16B |
 | 07:00 | NOK | Low | Industrial Confidence (Q3) |  |  | 0.9 |
 | 08:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
-| 09:00 | EUR | Low | Italian CPI (MoM) (Sep) |  | -0.2% | 0.1% |
 | 09:00 | EUR | Low | Italian CPI (YoY) (Sep) |  | 1.6% | 1.6% |
+| 09:00 | EUR | Low | Italian CPI (MoM) (Sep) |  | -0.2% | 0.1% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Sep) |  |  | 1.4% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (Sep) |  | 1.8% | 1.6% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Sep) |  | 1.3% | -0.2% |
