@@ -19,15 +19,15 @@
 | 07:00 | GBP | Low | Index of Services | 0.4% | 0.4% | 0.4% |
 | 07:00 | GBP | Moderate | Industrial Production (MoM) (Aug) | 0.4% | 0.2% | -0.4% |
 | 07:00 | GBP | Low | Industrial Production (YoY) (Aug) | -0.7% | -0.6% | -0.1% |
-| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Aug) | 0.7% | 0.2% | -1.1% |
 | 07:00 | GBP | Low | Manufacturing Production (YoY) (Aug) | -0.8% | -1.0% | -0.1% |
+| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Aug) | 0.7% | 0.2% | -1.1% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Aug) | 0.3% | 0.3% | 0.2% |
 | 07:00 | GBP | Moderate | Trade Balance (Aug) | -21.18B | -21.80B | -20.65B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Aug) | -8.29B |  | -8.80B |
 | 07:00 | NOK | Low | Industrial Confidence (Q3) | -0.3 |  | 0.4 |
 | 08:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
-| 09:00 | EUR | Low | Italian CPI (YoY) (Sep) | 1.6% | 1.6% | 1.6% |
 | 09:00 | EUR | Low | Italian CPI (MoM) (Sep) | -0.2% | -0.2% | 0.1% |
+| 09:00 | EUR | Low | Italian CPI (YoY) (Sep) | 1.6% | 1.6% | 1.6% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Sep) | 1.4% |  | 1.4% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (Sep) | 1.8% | 1.8% | 1.6% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Sep) | 1.3% | 1.3% | -0.2% |
@@ -80,4 +80,4 @@
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 2.988T |  | 3.034T |
 | 22:00 | KRW | Low | Export Price Index (YoY) (Sep) | 2.2% |  | -1.1% |
 | 22:00 | KRW | Low | Import Price Index (YoY) (Sep) | 0.6% |  | -2.2% |
-| 54 min | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
+| 23:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
