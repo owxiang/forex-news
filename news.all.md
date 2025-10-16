@@ -17,10 +17,10 @@
 | 07:00 | GBP | High | GDP (MoM) (Aug) | 0.1% | 0.1% | -0.1% |
 | 07:00 | GBP | Low | GDP (YoY) (Aug) | 1.3% | 1.3% | 1.5% |
 | 07:00 | GBP | Low | Index of Services | 0.4% | 0.4% | 0.4% |
-| 07:00 | GBP | Moderate | Industrial Production (MoM) (Aug) | 0.4% | 0.2% | -0.4% |
 | 07:00 | GBP | Low | Industrial Production (YoY) (Aug) | -0.7% | -0.6% | -0.1% |
-| 07:00 | GBP | Low | Manufacturing Production (YoY) (Aug) | -0.8% | -1.0% | -0.1% |
+| 07:00 | GBP | Moderate | Industrial Production (MoM) (Aug) | 0.4% | 0.2% | -0.4% |
 | 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Aug) | 0.7% | 0.2% | -1.1% |
+| 07:00 | GBP | Low | Manufacturing Production (YoY) (Aug) | -0.8% | -1.0% | -0.1% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Aug) | 0.3% | 0.3% | 0.2% |
 | 07:00 | GBP | Moderate | Trade Balance (Aug) | -21.18B | -21.80B | -20.65B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Aug) | -8.29B |  | -8.80B |
@@ -31,16 +31,15 @@
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Sep) | 1.4% |  | 1.4% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Sep) | 1.3% | 1.3% | -0.2% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (Sep) | 1.8% | 1.8% | 1.6% |
-| 20 min | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
-| 30 min | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.230% |
-| 30 min | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.483% |
-| 30 min | EUR | Low | Spanish 7-Year Obligacion Auction |  |  | 2.922% |
-| 50 min | EUR | Low | Italian Trade Balance (Aug) |  | 8.940B | 7.908B |
-| 50 min | EUR | Low | Italian Trade Balance EU (Aug) |  |  | 1.92B |
-| 50 min | IDR | Low | Foreign Direct Investment (YoY) (Q3) |  |  | -7.00% |
-| 50 min | EUR | Moderate | Trade Balance (Aug) |  | 6.9B | 12.4B |
-| 11:00 | USD | Low | IMF Meetings |  |  |  |
-| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 09:30 | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
+| 10:00 | EUR | Low | Italian Trade Balance (Aug) | 2.050B | 8.940B | 7.829B |
+| 10:00 | EUR | Low | Italian Trade Balance EU (Aug) | 0.17B |  | 1.83B |
+| 10:00 | EUR | Low | Spanish 10-Year Obligacion Auction | 3.085% |  | 3.230% |
+| 10:00 | EUR | Low | Spanish 5-Year Bonos Auction | 2.443% |  | 2.483% |
+| 10:00 | EUR | Low | Spanish 7-Year Obligacion Auction | 2.716% |  | 2.922% |
+| 10:00 | EUR | Moderate | Trade Balance (Aug) | 1.0B | 6.9B | 12.7B |
+| 52 min | USD | Low | IMF Meetings |  |  |  |
+| 52 min | EUR | Low | German Buba Monthly Report |  |  |  |
 | 12:00 | GBP | Moderate | NIESR Monthly GDP Tracker |  |  | 0.3% |
 | 12:30 | INR | Low | M3 Money Supply |  |  | 9.2% |
 | 13:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |

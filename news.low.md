@@ -22,14 +22,13 @@
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Sep) | 1.4% |  | 1.4% |
 | 09:00 | EUR | Italian HICP (MoM) (Sep) | 1.3% | 1.3% | -0.2% |
 | 09:00 | EUR | Italian HICP (YoY) (Sep) | 1.8% | 1.8% | 1.6% |
-| 30 min | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.230% |
-| 30 min | EUR | Spanish 5-Year Bonos Auction |  |  | 2.483% |
-| 30 min | EUR | Spanish 7-Year Obligacion Auction |  |  | 2.922% |
-| 50 min | EUR | Italian Trade Balance (Aug) |  | 8.940B | 7.908B |
-| 50 min | EUR | Italian Trade Balance EU (Aug) |  |  | 1.92B |
-| 50 min | IDR | Foreign Direct Investment (YoY) (Q3) |  |  | -7.00% |
-| 11:00 | USD | IMF Meetings |  |  |  |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 10:00 | EUR | Italian Trade Balance (Aug) | 2.050B | 8.940B | 7.829B |
+| 10:00 | EUR | Italian Trade Balance EU (Aug) | 0.17B |  | 1.83B |
+| 10:00 | EUR | Spanish 10-Year Obligacion Auction | 3.085% |  | 3.230% |
+| 10:00 | EUR | Spanish 5-Year Bonos Auction | 2.443% |  | 2.483% |
+| 10:00 | EUR | Spanish 7-Year Obligacion Auction | 2.716% |  | 2.922% |
+| 52 min | USD | IMF Meetings |  |  |  |
+| 52 min | EUR | German Buba Monthly Report |  |  |  |
 | 12:30 | INR | M3 Money Supply |  |  | 9.2% |
 | 13:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 13:00 | BRL | IBC-Br Economic Activity (Aug) |  |  | -0.50% |
