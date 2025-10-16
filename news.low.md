@@ -16,12 +16,12 @@
 | 07:00 | GBP | Industrial Production (YoY) (Aug) | -0.7% | -0.6% | -0.1% |
 | 07:00 | GBP | Manufacturing Production (YoY) (Aug) | -0.8% | -1.0% | -0.1% |
 | 07:00 | NOK | Industrial Confidence (Q3) | -0.3 |  | 0.4 |
-| 49 min | CHF | SECO Economic Forecasts |  |  |  |
-| 09:00 | EUR | Italian CPI (YoY) (Sep) |  | 1.6% | 1.6% |
-| 09:00 | EUR | Italian CPI (MoM) (Sep) |  | -0.2% | 0.1% |
-| 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Sep) |  |  | 1.4% |
-| 09:00 | EUR | Italian HICP (MoM) (Sep) |  | 1.3% | -0.2% |
-| 09:00 | EUR | Italian HICP (YoY) (Sep) |  | 1.8% | 1.6% |
+| 08:00 | CHF | SECO Economic Forecasts |  |  |  |
+| 53 min | EUR | Italian CPI (YoY) (Sep) |  | 1.6% | 1.6% |
+| 53 min | EUR | Italian CPI (MoM) (Sep) |  | -0.2% | 0.1% |
+| 53 min | EUR | Italian CPI Ex Tobacco (YoY) (Sep) |  |  | 1.4% |
+| 53 min | EUR | Italian HICP (YoY) (Sep) |  | 1.8% | 1.6% |
+| 53 min | EUR | Italian HICP (MoM) (Sep) |  | 1.3% | -0.2% |
 | 09:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.230% |
 | 09:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.483% |
 | 09:40 | EUR | Spanish 7-Year Obligacion Auction |  |  | 2.922% |
