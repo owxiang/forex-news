@@ -19,8 +19,8 @@
 | 07:00 | GBP | Low | Index of Services | 0.4% | 0.4% | 0.4% |
 | 07:00 | GBP | Moderate | Industrial Production (MoM) (Aug) | 0.4% | 0.2% | -0.4% |
 | 07:00 | GBP | Low | Industrial Production (YoY) (Aug) | -0.7% | -0.6% | -0.1% |
-| 07:00 | GBP | Low | Manufacturing Production (YoY) (Aug) | -0.8% | -1.0% | -0.1% |
 | 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Aug) | 0.7% | 0.2% | -1.1% |
+| 07:00 | GBP | Low | Manufacturing Production (YoY) (Aug) | -0.8% | -1.0% | -0.1% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Aug) | 0.3% | 0.3% | 0.2% |
 | 07:00 | GBP | Moderate | Trade Balance (Aug) | -21.18B | -21.80B | -20.65B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Aug) | -8.29B |  | -8.80B |
@@ -55,23 +55,23 @@
 | 14:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 15:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 15:00 | USD | Low | NAHB Housing Market Index (Oct) | 37 | 33 | 32 |
-| 22 min | USD | Low | Natural Gas Storage |  | 76B | 80B |
-| 37 min | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
-| 37 min | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.030% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.955% |
-| 16:45 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 17:00 | USD | High | Crude Oil Inventories |  | 0.300M | 3.715M |
-| 17:00 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.129M |
-| 17:00 | USD | Low | Crude Oil Imports |  |  | 0.731M |
-| 17:00 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.763M |
-| 17:00 | USD | Low | Distillate Fuel Production |  |  | 0.210M |
-| 17:00 | USD | Low | EIA Weekly Distillates Stocks |  |  | -2.018M |
-| 17:00 | USD | Low | Gasoline Production |  |  | 0.409M |
-| 17:00 | USD | Low | Heating Oil Stockpiles |  |  | -0.060M |
-| 17:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.0% |
-| 17:00 | USD | Low | Gasoline Inventories |  |  | -1.601M |
-| 17:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 15:30 | USD | Low | Natural Gas Storage | 80B | 76B | 80B |
+| 15:45 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
+| 15:45 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
+| 23 min | USD | Low | 4-Week Bill Auction |  |  | 4.030% |
+| 23 min | USD | Low | 8-Week Bill Auction |  |  | 3.955% |
+| 38 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 53 min | USD | High | Crude Oil Inventories |  | 0.300M | 3.715M |
+| 53 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.129M |
+| 53 min | USD | Low | Crude Oil Imports |  |  | 0.731M |
+| 53 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.763M |
+| 53 min | USD | Low | Distillate Fuel Production |  |  | 0.210M |
+| 53 min | USD | Low | EIA Weekly Distillates Stocks |  |  | -2.018M |
+| 53 min | USD | Low | Gasoline Production |  |  | 0.409M |
+| 53 min | USD | Low | Heating Oil Stockpiles |  |  | -0.060M |
+| 53 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.0% |
+| 53 min | USD | Low | Gasoline Inventories |  |  | -1.601M |
+| 53 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 17:45 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  |  |  |
 | 18:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
