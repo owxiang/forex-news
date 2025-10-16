@@ -1,31 +1,20 @@
-## 16 October 2025 - Moderate Impact Forex News
+## 17 October 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | AUD | Employment Change (Sep) | 14.9K | 20.5K | -11.8K |
-| 01:30 | AUD | Full Employment Change (Sep) | 8.7K |  | -48.6K |
-| 01:30 | AUD | Unemployment Rate (Sep) | 4.5% | 4.3% | 4.3% |
-| 07:00 | GBP | Industrial Production (MoM) (Aug) | 0.4% | 0.2% | -0.4% |
-| 07:00 | GBP | Manufacturing Production (MoM) (Aug) | 0.7% | 0.2% | -1.1% |
-| 07:00 | GBP | Monthly GDP 3M/3M Change (Aug) | 0.3% | 0.3% | 0.2% |
-| 07:00 | GBP | Trade Balance (Aug) | -21.18B | -21.80B | -20.65B |
-| 07:00 | GBP | Trade Balance Non-EU (Aug) | -8.29B |  | -8.80B |
-| 09:30 | GBP | BOE Credit Conditions Survey |  |  |  |
-| 10:00 | EUR | Trade Balance (Aug) | 1.0B | 6.9B | 12.7B |
-| 11:10 | GBP | NIESR Monthly GDP Tracker | 0.3% |  | 0.3% |
-| 13:15 | CAD | Housing Starts (Sep) | 279.2K | 258.0K | 244.5K |
-| 13:30 | USD | Philly Fed Employment (Oct) | 4.6 |  | 5.6 |
-| 14:00 | GBP | BoE MPC Member Mann Speaks |  |  |  |
-| 14:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 14:00 | USD | Fed Waller Speaks |  |  |  |
-| 15:00 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 15:45 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
-| 15:45 | GBP | BoE MPC Member Mann Speaks |  |  |  |
-| 16:45 | EUR | ECB's Lane Speaks |  |  |  |
-| 17:00 | USD | Cushing Crude Oil Inventories | -0.703M |  | -0.763M |
-| 17:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 18:00 | USD | API Weekly Crude Oil Stock | 3.524M | 0.120M | 2.780M |
-| 18:30 | CAD | BoC Gov Macklem Speaks |  |  |  |
-| 19:00 | USD | Federal Budget Balance (Sep) | 198.0B |  | -345.0B |
-| 21:30 | USD | Fed's Balance Sheet | 6,596B |  | 6,591B |
-| 23:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
+| 07:45 | EUR | German Buba Balz Speaks |  |  |  |
+| 07:45 | EUR | German Buba Mauderer Speaks |  |  |  |
+| 07:45 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 10:00 | EUR | Core CPI (YoY) (Sep) |  | 2.3% | 2.3% |
+| 10:00 | EUR | CPI (MoM) (Sep) |  | 0.1% | 0.1% |
+| 10:35 | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 13:30 | CAD | Foreign Securities Purchases (Aug) |  | 11.61B | 26.69B |
+| 13:45 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 14:15 | USD | Industrial Production (YoY) (Sep) |  |  | 0.87% |
+| 14:15 | USD | Industrial Production (MoM) (Sep) |  | 0.1% | 0.1% |
+| 15:00 | USD | Business Inventories (MoM) (Aug) |  | 0.1% | 0.2% |
+| 15:00 | USD | Retail Inventories Ex Auto (Aug) |  | 0.3% | 0.3% |
+| 18:00 | USD | Atlanta Fed GDPNow (Q3) |  |  |  |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 418 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 547 |
+| 21:00 | USD | TIC Net Long-Term Transactions (Aug) |  |  | 49.2B |
