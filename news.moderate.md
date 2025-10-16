@@ -12,7 +12,7 @@
 | 07:00 | GBP | Trade Balance Non-EU (Aug) | -8.29B |  | -8.80B |
 | 09:30 | GBP | BOE Credit Conditions Survey |  |  |  |
 | 10:00 | EUR | Trade Balance (Aug) | 1.0B | 6.9B | 12.7B |
-| 12:00 | GBP | NIESR Monthly GDP Tracker |  |  | 0.3% |
+| 52 min | GBP | NIESR Monthly GDP Tracker |  |  | 0.3% |
 | 13:15 | CAD | Housing Starts (Sep) |  | 258.0K | 245.8K |
 | 13:30 | USD | Philly Fed Employment (Oct) |  |  | 5.6 |
 | 14:00 | GBP | BoE MPC Member Mann Speaks |  |  |  |
