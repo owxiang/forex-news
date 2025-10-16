@@ -2,23 +2,23 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Core Machinery Orders (YoY) (Aug) | 1.6% | 4.8% | 4.9% |
 | 00:50 | JPY | Core Machinery Orders (MoM) (Aug) | -0.9% | 0.4% | -4.6% |
+| 00:50 | JPY | Core Machinery Orders (YoY) (Aug) | 1.6% | 4.8% | 4.9% |
 | 01:30 | AUD | Participation Rate (Sep) | 67.0% | 66.8% | 66.9% |
 | 01:30 | AUD | Reserve Assets Total (Sep) | 108.0B |  | 105.9B |
 | 02:30 | JPY | BoJ Tamura Speaks |  |  |  |
 | 03:00 | NZD | RBNZ Offshore Holdings (Sep) | 57.80% |  | 59.60% |
 | 05:30 | JPY | Tertiary Industry Activity Index (Aug) | -4.30 |  | 1.20 |
-| 53 min | GBP | Construction Output (MoM) (Aug) |  | -0.1% | 0.2% |
-| 53 min | GBP | U.K. Construction Output (YoY) (Aug) |  |  | 2.4% |
-| 53 min | GBP | GDP (YoY) (Aug) |  | 1.3% | 1.4% |
-| 53 min | GBP | Index of Services |  | 0.4% | 0.4% |
-| 53 min | GBP | Industrial Production (YoY) (Aug) |  | -0.6% | 0.1% |
-| 53 min | GBP | Manufacturing Production (YoY) (Aug) |  | -1.0% | 0.2% |
-| 53 min | NOK | Industrial Confidence (Q3) |  |  | 0.9 |
-| 08:00 | CHF | SECO Economic Forecasts |  |  |  |
-| 09:00 | EUR | Italian CPI (MoM) (Sep) |  | -0.2% | 0.1% |
+| 07:00 | GBP | Construction Output (MoM) (Aug) | -0.3% | -0.1% | 0.0% |
+| 07:00 | GBP | U.K. Construction Output (YoY) (Aug) | 1.0% |  | 1.8% |
+| 07:00 | GBP | GDP (YoY) (Aug) | 1.3% | 1.3% | 1.5% |
+| 07:00 | GBP | Index of Services | 0.4% | 0.4% | 0.4% |
+| 07:00 | GBP | Industrial Production (YoY) (Aug) | -0.7% | -0.6% | -0.1% |
+| 07:00 | GBP | Manufacturing Production (YoY) (Aug) | -0.8% | -1.0% | -0.1% |
+| 07:00 | NOK | Industrial Confidence (Q3) | -0.3 |  | 0.4 |
+| 49 min | CHF | SECO Economic Forecasts |  |  |  |
 | 09:00 | EUR | Italian CPI (YoY) (Sep) |  | 1.6% | 1.6% |
+| 09:00 | EUR | Italian CPI (MoM) (Sep) |  | -0.2% | 0.1% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Sep) |  |  | 1.4% |
 | 09:00 | EUR | Italian HICP (MoM) (Sep) |  | 1.3% | -0.2% |
 | 09:00 | EUR | Italian HICP (YoY) (Sep) |  | 1.8% | 1.6% |
