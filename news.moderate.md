@@ -13,14 +13,14 @@
 | 09:30 | GBP | BOE Credit Conditions Survey |  |  |  |
 | 10:00 | EUR | Trade Balance (Aug) | 1.0B | 6.9B | 12.7B |
 | 11:10 | GBP | NIESR Monthly GDP Tracker | 0.3% |  | 0.3% |
-| 3 min | CAD | Housing Starts (Sep) |  | 258.0K | 245.8K |
-| 18 min | USD | Philly Fed Employment (Oct) |  |  | 5.6 |
-| 48 min | GBP | BoE MPC Member Mann Speaks |  |  |  |
-| 48 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 48 min | USD | Fed Waller Speaks |  |  |  |
-| 15:00 | USD | Business Inventories (MoM) (Aug) |  | 0.1% | 0.2% |
-| 15:00 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 15:00 | USD | Retail Inventories Ex Auto (Aug) |  | 0.3% | 0.3% |
+| 13:15 | CAD | Housing Starts (Sep) | 279.2K | 258.0K | 244.5K |
+| 13:30 | USD | Philly Fed Employment (Oct) | 4.6 |  | 5.6 |
+| 14:00 | GBP | BoE MPC Member Mann Speaks |  |  |  |
+| 14:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 14:00 | USD | Fed Waller Speaks |  |  |  |
+| 45 min | USD | Business Inventories (MoM) (Aug) |  | 0.1% | 0.2% |
+| 45 min | USD | FOMC Member Bowman Speaks |  |  |  |
+| 45 min | USD | Retail Inventories Ex Auto (Aug) |  | 0.3% | 0.3% |
 | 15:45 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
 | 15:45 | GBP | BoE MPC Member Mann Speaks |  |  |  |
 | 16:45 | EUR | ECB's Lane Speaks |  |  |  |
