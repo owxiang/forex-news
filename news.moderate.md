@@ -5,13 +5,13 @@
 | 01:30 | AUD | Employment Change (Sep) | 14.9K | 20.5K | -11.8K |
 | 01:30 | AUD | Full Employment Change (Sep) | 8.7K |  | -48.6K |
 | 01:30 | AUD | Unemployment Rate (Sep) | 4.5% | 4.3% | 4.3% |
-| 07:00 | GBP | Industrial Production (MoM) (Aug) |  | 0.2% | -0.9% |
-| 07:00 | GBP | Manufacturing Production (MoM) (Aug) |  | 0.2% | -1.3% |
-| 07:00 | GBP | Monthly GDP 3M/3M Change (Aug) |  | 0.3% | 0.2% |
-| 07:00 | GBP | Trade Balance (Aug) |  | -21.80B | -22.24B |
-| 07:00 | GBP | Trade Balance Non-EU (Aug) |  |  | -10.16B |
+| 53 min | GBP | Industrial Production (MoM) (Aug) |  | 0.2% | -0.9% |
+| 53 min | GBP | Manufacturing Production (MoM) (Aug) |  | 0.2% | -1.3% |
+| 53 min | GBP | Monthly GDP 3M/3M Change (Aug) |  | 0.3% | 0.2% |
+| 53 min | GBP | Trade Balance (Aug) |  | -21.80B | -22.24B |
+| 53 min | GBP | Trade Balance Non-EU (Aug) |  |  | -10.16B |
 | 09:30 | GBP | BOE Credit Conditions Survey |  |  |  |
-| 10:00 | EUR | Trade Balance (Aug) |  |  | 12.4B |
+| 10:00 | EUR | Trade Balance (Aug) |  | 6.9B | 12.4B |
 | 12:00 | GBP | NIESR Monthly GDP Tracker |  |  | 0.3% |
 | 13:15 | CAD | Housing Starts (Sep) |  | 258.0K | 245.8K |
 | 13:30 | USD | Philly Fed Employment (Oct) |  |  | 5.6 |
