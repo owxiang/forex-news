@@ -1,5 +1,3 @@
-## 17 October 2025 - High Impact Forex News
+## 18 October 2025 - High Impact Forex News
 
-| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
-|------|----------|-------|--------|----------|----------|
-| 10:00 | EUR | CPI (YoY) (Sep) | 2.2% | 2.2% | 2.0% |
+There is no high impact news today.

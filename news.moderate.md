@@ -1,14 +1,7 @@
-## 17 October 2025 - Moderate Impact Forex News
+## 18 October 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:45 | EUR | German Buba Balz Speaks |  |  |  |
-| 07:45 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 10:00 | EUR | Core CPI (YoY) (Sep) | 2.4% | 2.3% | 2.3% |
-| 10:00 | EUR | CPI (MoM) (Sep) | 0.1% | 0.1% | 0.1% |
-| 10:35 | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 13:30 | CAD | Foreign Securities Purchases (Aug) | 25.92B | 11.61B | 26.66B |
-| 13:45 | EUR | German Buba Mauderer Speaks |  |  |  |
-| 13:45 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 418 | 417 | 418 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count | 548 |  | 547 |
+| 13:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 14:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 14:00 | EUR | ECB President Lagarde Speaks |  |  |  |
