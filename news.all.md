@@ -3,10 +3,10 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | KRW | Low | Unemployment Rate (Sep) | 2.5% |  | 2.6% |
-| 44 min | JPY | Low | Foreign Bonds Buying |  |  | -926.6B |
-| 44 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 2,479.9B |
-| 01:30 | SGD | Low | Non-Oil Exports (YoY) (Sep) |  |  | -11.30% |
-| 01:30 | SGD | Low | Non-Oil Exports (MoM) (Sep) |  |  | -8.90% |
+| 00:50 | JPY | Low | Foreign Bonds Buying | 596.4B |  | -923.0B |
+| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 1,885.0B |  | 2,476.1B |
+| 1 min | SGD | Low | Non-Oil Exports (YoY) (Sep) |  |  | -11.30% |
+| 1 min | SGD | Low | Non-Oil Exports (MoM) (Sep) |  |  | -8.90% |
 | 02:30 | SGD | Low | Trade Balance (Sep) |  |  | 5.078B |
 | 07:45 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 07:45 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |

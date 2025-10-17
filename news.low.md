@@ -3,10 +3,10 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | KRW | Unemployment Rate (Sep) | 2.5% |  | 2.6% |
-| 44 min | JPY | Foreign Bonds Buying |  |  | -926.6B |
-| 44 min | JPY | Foreign Investments in Japanese Stocks |  |  | 2,479.9B |
-| 01:30 | SGD | Non-Oil Exports (YoY) (Sep) |  |  | -11.30% |
-| 01:30 | SGD | Non-Oil Exports (MoM) (Sep) |  |  | -8.90% |
+| 00:50 | JPY | Foreign Bonds Buying | 596.4B |  | -923.0B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks | 1,885.0B |  | 2,476.1B |
+| 1 min | SGD | Non-Oil Exports (YoY) (Sep) |  |  | -11.30% |
+| 1 min | SGD | Non-Oil Exports (MoM) (Sep) |  |  | -8.90% |
 | 02:30 | SGD | Trade Balance (Sep) |  |  | 5.078B |
 | 10:00 | IDR | Foreign Direct Investment (YoY) (Q3) |  |  | -7.00% |
 | 10:00 | EUR | Core CPI (MoM) (Sep) |  | 0.1% | 0.3% |
