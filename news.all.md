@@ -27,16 +27,16 @@
 | 12:30 | INR | Low | Deposit Growth | 9.9% |  | 9.5% |
 | 12:30 | INR | Low | FX Reserves, USD | 697.78B |  | 699.96B |
 | 12:30 | INR | Low | M3 Money Supply | 9.6% |  | 9.5% |
-| 19 min | CAD | Moderate | Foreign Securities Purchases (Aug) |  | 11.61B | 26.69B |
-| 19 min | CAD | Low | Foreign Securities Purchases by Canadians (Aug) |  |  | 17.410B |
-| 34 min | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 34 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 14:15 | USD | Low | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
-| 14:15 | USD | Moderate | Industrial Production (YoY) (Sep) |  |  | 0.87% |
-| 14:15 | USD | Moderate | Industrial Production (MoM) (Sep) |  | 0.1% | 0.1% |
-| 14:15 | USD | Low | Manufacturing Production (MoM) (Sep) |  |  | 0.2% |
-| 15:00 | USD | Moderate | Business Inventories (MoM) (Aug) |  | 0.1% | 0.2% |
-| 15:00 | USD | Moderate | Retail Inventories Ex Auto (Aug) |  | 0.3% | 0.3% |
+| 13:30 | CAD | Moderate | Foreign Securities Purchases (Aug) | 25.92B | 11.61B | 26.66B |
+| 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Aug) | 19.510B |  | 17.360B |
+| 13:45 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 13:45 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 2 min | USD | Low | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
+| 2 min | USD | Moderate | Industrial Production (YoY) (Sep) |  |  | 0.87% |
+| 2 min | USD | Moderate | Industrial Production (MoM) (Sep) |  | 0.1% | 0.1% |
+| 2 min | USD | Low | Manufacturing Production (MoM) (Sep) |  |  | 0.2% |
+| 47 min | USD | Moderate | Business Inventories (MoM) (Aug) |  | 0.1% | 0.2% |
+| 47 min | USD | Moderate | Retail Inventories Ex Auto (Aug) |  | 0.3% | 0.3% |
 | 17:30 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  | 417 | 418 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 547 |

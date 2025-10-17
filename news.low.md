@@ -21,9 +21,9 @@
 | 12:30 | INR | Deposit Growth | 9.9% |  | 9.5% |
 | 12:30 | INR | FX Reserves, USD | 697.78B |  | 699.96B |
 | 12:30 | INR | M3 Money Supply | 9.6% |  | 9.5% |
-| 19 min | CAD | Foreign Securities Purchases by Canadians (Aug) |  |  | 17.410B |
-| 14:15 | USD | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
-| 14:15 | USD | Manufacturing Production (MoM) (Sep) |  |  | 0.2% |
+| 13:30 | CAD | Foreign Securities Purchases by Canadians (Aug) | 19.510B |  | 17.360B |
+| 2 min | USD | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
+| 2 min | USD | Manufacturing Production (MoM) (Sep) |  |  | 0.2% |
 | 17:30 | GBP | BoE Breeden Speaks |  |  |  |
 | 21:00 | USD | US Foreign Buying, T-bonds (Aug) |  |  | 58.20B |
 | 21:00 | USD | Overall Net Capital Flow (Aug) |  |  | 2.10B |
