@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 50 min | EUR | CPI (YoY) (Sep) |  | 2.2% | 2.0% |
+| 10:00 | EUR | CPI (YoY) (Sep) | 2.2% | 2.2% | 2.0% |
