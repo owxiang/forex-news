@@ -11,8 +11,8 @@
 | 02:00 | IDR | Low | Foreign Direct Investment (YoY) (Q3) | -8.90% |  | -7.00% |
 | 07:45 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 07:45 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Sep) | 2.4% | 2.3% | 2.3% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Sep) | 0.1% | 0.1% | 0.3% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Sep) | 2.4% | 2.3% | 2.3% |
 | 10:00 | EUR | High | CPI (YoY) (Sep) | 2.2% | 2.2% | 2.0% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Sep) | 0.1% | 0.1% | 0.1% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Sep) | 0.1% |  | 0.1% |
@@ -34,7 +34,7 @@
 | 17:30 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 418 | 417 | 418 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 548 |  | 547 |
-| 21:00 | USD | Low | US Foreign Buying, T-bonds (Aug) |  |  | 58.20B |
-| 21:00 | USD | Low | Overall Net Capital Flow (Aug) |  |  | 2.10B |
-| 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Aug) |  |  | 49.2B |
-| 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Aug) |  |  | 49.20B |
+| 54 min | USD | Low | US Foreign Buying, T-bonds (Aug) |  |  | 58.20B |
+| 54 min | USD | Low | Overall Net Capital Flow (Aug) |  |  | 2.10B |
+| 54 min | USD | Moderate | TIC Net Long-Term Transactions (Aug) |  |  | 49.2B |
+| 54 min | USD | Low | TIC Net Long-Term Transactions including Swaps (Aug) |  |  | 49.20B |
