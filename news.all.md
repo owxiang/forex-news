@@ -22,11 +22,11 @@
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Sep) | 0.1% | 0.1% | 0.3% |
 | 10:35 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
-| 52 min | BRL | Low | IGP-10 Inflation Index (MoM) (Oct) |  |  | 0.2% |
-| 12:30 | INR | Low | Bank Loan Growth |  |  | 10.4% |
-| 12:30 | INR | Low | Deposit Growth |  |  | 9.5% |
-| 12:30 | INR | Low | FX Reserves, USD |  |  | 699.96B |
-| 12:30 | INR | Low | M3 Money Supply | 9.6% |  | 9.2% |
+| 11:30 | INR | Low | M3 Money Supply | 9.6% |  | 9.2% |
+| 12:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Oct) | 0.1% |  | 0.2% |
+| 24 min | INR | Low | Bank Loan Growth |  |  | 10.4% |
+| 24 min | INR | Low | Deposit Growth |  |  | 9.5% |
+| 24 min | INR | Low | FX Reserves, USD |  |  | 699.96B |
 | 13:30 | CAD | Moderate | Foreign Securities Purchases (Aug) |  | 11.61B | 26.69B |
 | 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Aug) |  |  | 17.410B |
 | 13:45 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |

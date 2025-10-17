@@ -16,11 +16,11 @@
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Sep) | 2.4% | 2.4% | 2.3% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Sep) | 0.1% | 0.1% | 0.3% |
 | 11:00 | USD | IMF Meetings |  |  |  |
-| 52 min | BRL | IGP-10 Inflation Index (MoM) (Oct) |  |  | 0.2% |
-| 12:30 | INR | Bank Loan Growth |  |  | 10.4% |
-| 12:30 | INR | Deposit Growth |  |  | 9.5% |
-| 12:30 | INR | FX Reserves, USD |  |  | 699.96B |
-| 12:30 | INR | M3 Money Supply | 9.6% |  | 9.2% |
+| 11:30 | INR | M3 Money Supply | 9.6% |  | 9.2% |
+| 12:00 | BRL | IGP-10 Inflation Index (MoM) (Oct) | 0.1% |  | 0.2% |
+| 24 min | INR | Bank Loan Growth |  |  | 10.4% |
+| 24 min | INR | Deposit Growth |  |  | 9.5% |
+| 24 min | INR | FX Reserves, USD |  |  | 699.96B |
 | 13:30 | CAD | Foreign Securities Purchases by Canadians (Aug) |  |  | 17.410B |
 | 14:15 | USD | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
 | 14:15 | USD | Manufacturing Production (MoM) (Sep) |  |  | 0.2% |
