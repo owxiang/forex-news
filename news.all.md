@@ -8,14 +8,14 @@
 | 01:30 | SGD | Low | Non-Oil Exports (YoY) (Sep) | 6.90% |  | -11.50% |
 | 01:30 | SGD | Low | Non-Oil Exports (MoM) (Sep) | 13.00% |  | -9.10% |
 | 01:30 | SGD | Low | Trade Balance (Sep) | 5.948B |  | 4.990B |
+| 02:00 | IDR | Low | Foreign Direct Investment (YoY) (Q3) | -8.90% |  | -7.00% |
 | 07:45 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 07:45 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 07:45 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 10:00 | IDR | Low | Foreign Direct Investment (YoY) (Q3) |  |  | -7.00% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Sep) |  | 2.3% | 2.3% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Sep) |  | 0.1% | 0.3% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Sep) |  | 0.1% | 0.1% |
 | 10:00 | EUR | High | CPI (YoY) (Sep) |  | 2.2% | 2.0% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Sep) |  | 0.1% | 0.1% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Sep) |  |  | 0.1% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Sep) |  |  | 2.0% |
 | 10:00 | EUR | Low | CPI, n.s.a (Sep) |  | 129.42 | 129.31 |

@@ -8,7 +8,7 @@
 | 01:30 | SGD | Non-Oil Exports (YoY) (Sep) | 6.90% |  | -11.50% |
 | 01:30 | SGD | Non-Oil Exports (MoM) (Sep) | 13.00% |  | -9.10% |
 | 01:30 | SGD | Trade Balance (Sep) | 5.948B |  | 4.990B |
-| 10:00 | IDR | Foreign Direct Investment (YoY) (Q3) |  |  | -7.00% |
+| 02:00 | IDR | Foreign Direct Investment (YoY) (Q3) | -8.90% |  | -7.00% |
 | 10:00 | EUR | Core CPI (MoM) (Sep) |  | 0.1% | 0.3% |
 | 10:00 | EUR | CPI ex Tobacco (MoM) (Sep) |  |  | 0.1% |
 | 10:00 | EUR | CPI ex Tobacco (YoY) (Sep) |  |  | 2.0% |
