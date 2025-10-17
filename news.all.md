@@ -9,14 +9,14 @@
 | 01:30 | SGD | Low | Non-Oil Exports (MoM) (Sep) | 13.00% |  | -9.10% |
 | 01:30 | SGD | Low | Trade Balance (Sep) | 5.948B |  | 4.990B |
 | 02:00 | IDR | Low | Foreign Direct Investment (YoY) (Q3) | -8.90% |  | -7.00% |
-| 35 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 35 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 07:45 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 07:45 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Sep) |  | 2.3% | 2.3% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Sep) |  | 0.1% | 0.3% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Sep) |  | 0.1% | 0.1% |
 | 10:00 | EUR | High | CPI (YoY) (Sep) |  | 2.2% | 2.0% |
-| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Sep) |  |  | 0.1% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Sep) |  | 0.1% | 0.1% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Sep) |  |  | 2.0% |
+| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Sep) |  |  | 0.1% |
 | 10:00 | EUR | Low | CPI, n.s.a (Sep) |  | 129.42 | 129.31 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Sep) |  | 2.4% | 2.3% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Sep) |  | 0.1% | 0.3% |
@@ -38,7 +38,6 @@
 | 15:00 | USD | Moderate | Business Inventories (MoM) (Aug) |  | 0.1% | 0.2% |
 | 15:00 | USD | Moderate | Retail Inventories Ex Auto (Aug) |  | 0.3% | 0.3% |
 | 17:30 | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 418 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 547 |
 | 21:00 | USD | Low | US Foreign Buying, T-bonds (Aug) |  |  | 58.20B |
