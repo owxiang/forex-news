@@ -9,12 +9,12 @@
 | 01:30 | SGD | Non-Oil Exports (MoM) (Sep) | 13.00% |  | -9.10% |
 | 01:30 | SGD | Trade Balance (Sep) | 5.948B |  | 4.990B |
 | 02:00 | IDR | Foreign Direct Investment (YoY) (Q3) | -8.90% |  | -7.00% |
-| 10:00 | EUR | Core CPI (MoM) (Sep) |  | 0.1% | 0.3% |
-| 10:00 | EUR | CPI ex Tobacco (YoY) (Sep) |  |  | 2.0% |
-| 10:00 | EUR | CPI ex Tobacco (MoM) (Sep) |  |  | 0.1% |
-| 10:00 | EUR | CPI, n.s.a (Sep) |  | 129.42 | 129.31 |
-| 10:00 | EUR | HICP ex Energy & Food (YoY) (Sep) |  | 2.4% | 2.3% |
-| 10:00 | EUR | HICP ex Energy and Food (MoM) (Sep) |  | 0.1% | 0.3% |
+| 50 min | EUR | Core CPI (MoM) (Sep) |  | 0.1% | 0.3% |
+| 50 min | EUR | CPI ex Tobacco (YoY) (Sep) |  |  | 2.0% |
+| 50 min | EUR | CPI ex Tobacco (MoM) (Sep) |  |  | 0.1% |
+| 50 min | EUR | CPI, n.s.a (Sep) |  | 129.42 | 129.31 |
+| 50 min | EUR | HICP ex Energy & Food (YoY) (Sep) |  | 2.4% | 2.3% |
+| 50 min | EUR | HICP ex Energy and Food (MoM) (Sep) |  | 0.1% | 0.3% |
 | 11:00 | USD | IMF Meetings |  |  |  |
 | 12:00 | BRL | IGP-10 Inflation Index (MoM) (Oct) |  |  | 0.2% |
 | 12:30 | INR | Bank Loan Growth |  |  | 10.4% |

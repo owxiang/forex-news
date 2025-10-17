@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 07:45 | EUR | German Buba Balz Speaks |  |  |  |
 | 07:45 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 10:00 | EUR | Core CPI (YoY) (Sep) |  | 2.3% | 2.3% |
-| 10:00 | EUR | CPI (MoM) (Sep) |  | 0.1% | 0.1% |
+| 50 min | EUR | Core CPI (YoY) (Sep) |  | 2.3% | 2.3% |
+| 50 min | EUR | CPI (MoM) (Sep) |  | 0.1% | 0.1% |
 | 10:35 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 13:30 | CAD | Foreign Securities Purchases (Aug) |  | 11.61B | 26.69B |
 | 13:45 | EUR | German Buba Mauderer Speaks |  |  |  |
