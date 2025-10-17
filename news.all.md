@@ -32,8 +32,8 @@
 | 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Aug) |  |  | 17.410B |
 | 13:45 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 14:15 | USD | Low | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
-| 14:15 | USD | Moderate | Industrial Production (MoM) (Sep) |  | 0.1% | 0.1% |
 | 14:15 | USD | Moderate | Industrial Production (YoY) (Sep) |  |  | 0.87% |
+| 14:15 | USD | Moderate | Industrial Production (MoM) (Sep) |  | 0.1% | 0.1% |
 | 14:15 | USD | Low | Manufacturing Production (MoM) (Sep) |  |  | 0.2% |
 | 15:00 | USD | Moderate | Business Inventories (MoM) (Aug) |  | 0.1% | 0.2% |
 | 15:00 | USD | Moderate | Retail Inventories Ex Auto (Aug) |  | 0.3% | 0.3% |
