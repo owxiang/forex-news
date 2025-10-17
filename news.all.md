@@ -5,19 +5,19 @@
 | 00:00 | KRW | Low | Unemployment Rate (Sep) | 2.5% |  | 2.6% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | 596.4B |  | -923.0B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 1,885.0B |  | 2,476.1B |
-| 01:30 | SGD | Low | Non-Oil Exports (MoM) (Sep) | 13.00% |  | -9.10% |
 | 01:30 | SGD | Low | Non-Oil Exports (YoY) (Sep) | 6.90% |  | -11.50% |
+| 01:30 | SGD | Low | Non-Oil Exports (MoM) (Sep) | 13.00% |  | -9.10% |
 | 01:30 | SGD | Low | Trade Balance (Sep) | 5.948B |  | 4.990B |
 | 02:00 | IDR | Low | Foreign Direct Investment (YoY) (Q3) | -8.90% |  | -7.00% |
 | 07:45 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 07:45 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 07:45 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Sep) |  | 2.3% | 2.3% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Sep) |  | 0.1% | 0.3% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Sep) |  | 2.3% | 2.3% |
 | 10:00 | EUR | High | CPI (YoY) (Sep) |  | 2.2% | 2.0% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Sep) |  | 0.1% | 0.1% |
-| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Sep) |  |  | 2.0% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Sep) |  |  | 0.1% |
+| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Sep) |  |  | 2.0% |
 | 10:00 | EUR | Low | CPI, n.s.a (Sep) |  | 129.42 | 129.31 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Sep) |  | 2.4% | 2.3% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Sep) |  | 0.1% | 0.3% |
@@ -32,8 +32,8 @@
 | 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Aug) |  |  | 17.410B |
 | 13:45 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 14:15 | USD | Low | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
-| 14:15 | USD | Moderate | Industrial Production (YoY) (Sep) |  |  | 0.87% |
 | 14:15 | USD | Moderate | Industrial Production (MoM) (Sep) |  | 0.1% | 0.1% |
+| 14:15 | USD | Moderate | Industrial Production (YoY) (Sep) |  |  | 0.87% |
 | 14:15 | USD | Low | Manufacturing Production (MoM) (Sep) |  |  | 0.2% |
 | 15:00 | USD | Moderate | Business Inventories (MoM) (Aug) |  | 0.1% | 0.2% |
 | 15:00 | USD | Moderate | Retail Inventories Ex Auto (Aug) |  | 0.3% | 0.3% |
