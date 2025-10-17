@@ -10,6 +10,6 @@
 | 13:30 | CAD | Foreign Securities Purchases (Aug) | 25.92B | 11.61B | 26.66B |
 | 13:45 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 13:45 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 52 min | USD | U.S. Baker Hughes Oil Rig Count |  | 417 | 418 |
-| 52 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 547 |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 418 | 417 | 418 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count | 548 |  | 547 |
 | 21:00 | USD | TIC Net Long-Term Transactions (Aug) |  |  | 49.2B |
