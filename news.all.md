@@ -3,6 +3,6 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
-| 54 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 14:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 14:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 13:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 49 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 49 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
