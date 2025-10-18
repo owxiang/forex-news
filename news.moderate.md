@@ -1,7 +1,6 @@
-## 18 October 2025 - Moderate Impact Forex News
+## 19 October 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 14:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 14:00 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 22:45 | NZD | CPI (QoQ) (Q3) |  | 0.8% | 0.5% |
+| 22:45 | NZD | CPI (YoY) (Q3) |  | 3.0% | 2.7% |

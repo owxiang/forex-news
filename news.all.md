@@ -1,8 +1,6 @@
-## 18 October 2025 - All Forex News
+## 19 October 2025 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 11:00 | USD | Low | IMF Meetings |  |  |  |
-| 13:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 14:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 14:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 22:45 | NZD | Moderate | CPI (QoQ) (Q3) |  | 0.8% | 0.5% |
+| 22:45 | NZD | Moderate | CPI (YoY) (Q3) |  | 3.0% | 2.7% |

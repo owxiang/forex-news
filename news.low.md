@@ -1,5 +1,3 @@
-## 18 October 2025 - Low Impact Forex News
+## 19 October 2025 - Low Impact Forex News
 
-| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
-|------|----------|-------|--------|----------|----------|
-| 11:00 | USD | IMF Meetings |  |  |  |
+There is no low impact news today.
