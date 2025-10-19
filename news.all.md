@@ -1,6 +1,56 @@
-## 19 October 2025 - All Forex News
+## 20 October 2025 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 22:45 | NZD | Moderate | CPI (QoQ) (Q3) | 1.0% | 0.8% | 0.5% |
-| 22:45 | NZD | Moderate | CPI (YoY) (Q3) | 3.0% | 3.0% | 2.7% |
+| 00:01 | GBP | Low | Rightmove House Price Index (MoM) (Oct) | 0.3% |  | 0.4% |
+| 00:01 | GBP | Low | Rightmove House Price Index (YoY) (Oct) |  |  | -0.1% |
+| 02:00 | CNY | Moderate | China Loan Prime Rate 5Y (Oct) |  | 3.50% | 3.50% |
+| 02:15 | CNY | Moderate | PBoC Loan Prime Rate |  | 3.00% | 3.00% |
+| 02:30 | CNY | Low | House Prices (YoY) (Sep) |  |  | -2.5% |
+| 03:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Sep) |  | 0.1% | 0.5% |
+| 03:00 | CNY | High | GDP (YoY) (Q3) |  | 4.7% | 5.2% |
+| 03:00 | CNY | Moderate | GDP (QoQ) (Q3) |  | 0.8% | 1.1% |
+| 03:00 | CNY | Moderate | Chinese GDP YTD (YoY) (Q3) |  |  | 5.3% |
+| 03:00 | CNY | Moderate | Industrial Production (YoY) (Sep) |  | 5.0% | 5.2% |
+| 03:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Sep) |  |  | 6.2% |
+| 03:00 | CNY | Low | Retail Sales (YoY) (Sep) |  | 2.9% | 3.4% |
+| 03:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Sep) |  |  | 3.67% |
+| 03:00 | CNY | Moderate | Chinese Unemployment Rate (Sep) |  | 5.3% | 5.3% |
+| 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
+| 08:00 | EUR | Moderate | German PPI (MoM) (Sep) |  | 0.1% | -0.5% |
+| 08:00 | EUR | Low | German PPI (YoY) (Sep) |  |  | -2.2% |
+| 09:00 | EUR | Low | Current Account (Aug) |  | 22.5B | 27.7B |
+| 09:00 | EUR | Low | Current Account n.s.a. (Aug) |  |  | 35.0B |
+| 09:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 09:30 | HKD | Low | Unemployment Rate (Sep) |  |  | 3.7% |
+| 10:00 | EUR | Low | Construction Output (MoM) (Aug) |  |  | 0.48% |
+| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 13:30 | CAD | Low | IPPI (YoY) (Sep) |  |  | 4.0% |
+| 13:30 | CAD | Low | IPPI (MoM) (Sep) |  |  | 0.5% |
+| 13:30 | CAD | Low | RMPI (YoY) (Sep) |  |  | 3.2% |
+| 13:30 | CAD | Moderate | RMPI (MoM) (Sep) |  |  | -0.6% |
+| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.019% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 1.958% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.009% |
+| 15:00 | USD | Moderate | Business Inventories (MoM) (Aug) |  | 0.1% | 0.2% |
+| 15:00 | USD | Low | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
+| 15:00 | USD | Moderate | Industrial Production (YoY) (Sep) |  |  | 0.87% |
+| 15:00 | USD | Moderate | Industrial Production (MoM) (Sep) |  | 0.1% | 0.1% |
+| 15:00 | USD | Low | Manufacturing Production (MoM) (Sep) |  |  | 0.2% |
+| 15:00 | USD | Moderate | Retail Inventories Ex Auto (Aug) |  | 0.3% | 0.3% |
+| 15:00 | USD | Moderate | US Leading Index (MoM) (Sep) |  | 0.1% | -0.5% |
+| 15:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 15:30 | CAD | Moderate | BoC Business Outlook Survey |  |  |  |
+| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.845% |
+| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.685% |
+| 18:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 20:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 22:00 | USD | Low | US Foreign Buying, T-bonds (Aug) |  |  | 58.20B |
+| 22:00 | USD | Low | Overall Net Capital Flow (Aug) |  |  | 2.10B |
+| 22:00 | USD | Moderate | TIC Net Long-Term Transactions (Aug) |  |  | 49.2B |
+| 22:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Aug) |  |  | 49.20B |
+| 22:45 | NZD | Low | Exports (Sep) |  |  | 5.94B |
+| 22:45 | NZD | Low | Imports (Sep) |  |  | 7.12B |
+| 22:45 | NZD | Low | Trade Balance (YoY) (Sep) |  |  | -2,990M |
+| 22:45 | NZD | Low | Trade Balance (MoM) (Sep) |  |  | -1,185M |

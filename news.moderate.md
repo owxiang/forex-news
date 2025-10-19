@@ -1,6 +1,26 @@
-## 19 October 2025 - Moderate Impact Forex News
+## 20 October 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 22:45 | NZD | CPI (QoQ) (Q3) | 1.0% | 0.8% | 0.5% |
-| 22:45 | NZD | CPI (YoY) (Q3) | 3.0% | 3.0% | 2.7% |
+| 02:00 | CNY | China Loan Prime Rate 5Y (Oct) |  | 3.50% | 3.50% |
+| 02:15 | CNY | PBoC Loan Prime Rate |  | 3.00% | 3.00% |
+| 03:00 | CNY | Fixed Asset Investment (YoY) (Sep) |  | 0.1% | 0.5% |
+| 03:00 | CNY | GDP (QoQ) (Q3) |  | 0.8% | 1.1% |
+| 03:00 | CNY | Chinese GDP YTD (YoY) (Q3) |  |  | 5.3% |
+| 03:00 | CNY | Industrial Production (YoY) (Sep) |  | 5.0% | 5.2% |
+| 03:00 | CNY | Chinese Industrial Production YTD (YoY) (Sep) |  |  | 6.2% |
+| 03:00 | CNY | Chinese Unemployment Rate (Sep) |  | 5.3% | 5.3% |
+| 03:00 | CNY | NBS Press Conference |  |  |  |
+| 08:00 | EUR | German PPI (MoM) (Sep) |  | 0.1% | -0.5% |
+| 09:00 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 13:30 | CAD | RMPI (MoM) (Sep) |  |  | -0.6% |
+| 15:00 | USD | Business Inventories (MoM) (Aug) |  | 0.1% | 0.2% |
+| 15:00 | USD | Industrial Production (YoY) (Sep) |  |  | 0.87% |
+| 15:00 | USD | Industrial Production (MoM) (Sep) |  | 0.1% | 0.1% |
+| 15:00 | USD | Retail Inventories Ex Auto (Aug) |  | 0.3% | 0.3% |
+| 15:00 | USD | US Leading Index (MoM) (Sep) |  | 0.1% | -0.5% |
+| 15:00 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 15:30 | CAD | BoC Business Outlook Survey |  |  |  |
+| 18:00 | EUR | German Buba Balz Speaks |  |  |  |
+| 20:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 22:00 | USD | TIC Net Long-Term Transactions (Aug) |  |  | 49.2B |

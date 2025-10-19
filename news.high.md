@@ -1,3 +1,5 @@
-## 19 October 2025 - High Impact Forex News
+## 20 October 2025 - High Impact Forex News
 
-There is no high impact news today.
+| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 03:00 | CNY | GDP (YoY) (Q3) |  | 4.7% | 5.2% |
