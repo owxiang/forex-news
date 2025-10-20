@@ -7,12 +7,12 @@
 | 02:30 | CNY | House Prices (YoY) (Sep) | -2.2% |  | -2.5% |
 | 03:00 | CNY | Retail Sales (YoY) (Sep) | 3.0% | 2.9% | 3.4% |
 | 03:00 | CNY | Chinese Retail Sales YTD (YoY) (Sep) | 3.48% |  | 3.67% |
-| 07:00 | EUR | German PPI (YoY) (Sep) | -1.7% |  | -2.3% |
+| 08:00 | EUR | German PPI (YoY) (Sep) | -1.7% |  | -2.2% |
 | 09:00 | EUR | Current Account (Aug) | 11.9B | 22.5B | 27.7B |
 | 09:00 | EUR | Current Account n.s.a. (Aug) | 13.0B |  | 35.0B |
 | 09:30 | HKD | Unemployment Rate (Sep) | 3.9% |  | 3.7% |
-| 10:00 | EUR | Construction Output (MoM) (Aug) | -0.10% |  | 0.48% |
-| 52 min | EUR | German Buba Monthly Report |  |  |  |
+| 10:00 | EUR | Construction Output (MoM) (Aug) | -0.10% |  | 0.49% |
+| 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:30 | CAD | IPPI (YoY) (Sep) |  |  | 4.0% |
 | 13:30 | CAD | IPPI (MoM) (Sep) |  |  | 0.5% |
@@ -27,5 +27,5 @@
 | 22:00 | USD | TIC Net Long-Term Transactions including Swaps (Aug) |  |  | 49.20B |
 | 22:45 | NZD | Exports (Sep) |  |  | 5.94B |
 | 22:45 | NZD | Imports (Sep) |  |  | 7.12B |
-| 22:45 | NZD | Trade Balance (YoY) (Sep) |  |  | -2,990M |
 | 22:45 | NZD | Trade Balance (MoM) (Sep) |  |  | -1,185M |
+| 22:45 | NZD | Trade Balance (YoY) (Sep) |  |  | -2,990M |
