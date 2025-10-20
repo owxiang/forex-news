@@ -19,24 +19,24 @@
 | 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
 | 08:00 | EUR | Moderate | German PPI (MoM) (Sep) | -0.1% | 0.1% | -0.5% |
 | 08:00 | EUR | Low | German PPI (YoY) (Sep) | -1.7% |  | -2.2% |
-| 09:00 | EUR | Low | Current Account (Aug) | 11.9B | 22.5B | 27.7B |
-| 09:00 | EUR | Low | Current Account n.s.a. (Aug) | 13.0B |  | 35.0B |
+| 09:00 | EUR | Low | Current Account (Aug) | 11.9B | 22.5B | 29.8B |
+| 09:00 | EUR | Low | Current Account n.s.a. (Aug) | 13.0B |  | 36.9B |
 | 09:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 09:30 | HKD | Low | Unemployment Rate (Sep) | 3.9% |  | 3.7% |
 | 10:00 | EUR | Low | Construction Output (MoM) (Aug) | -0.10% |  | 0.49% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 18 min | CAD | Low | IPPI (YoY) (Sep) |  |  | 4.0% |
-| 18 min | CAD | Low | IPPI (MoM) (Sep) |  |  | 0.5% |
-| 18 min | CAD | Low | RMPI (YoY) (Sep) |  |  | 3.2% |
-| 18 min | CAD | Moderate | RMPI (MoM) (Sep) |  |  | -0.6% |
-| 48 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.019% |
-| 48 min | EUR | Low | French 3-Month BTF Auction |  |  | 1.958% |
-| 48 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.009% |
-| 15:00 | USD | Moderate | Business Inventories (MoM) (Aug) |  | 0.1% | 0.2% |
-| 15:00 | USD | Moderate | Retail Inventories Ex Auto (Aug) |  | 0.3% | 0.3% |
-| 15:00 | USD | Moderate | US Leading Index (MoM) (Sep) |  | 0.1% | -0.5% |
-| 15:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 13:30 | CAD | Low | IPPI (YoY) (Sep) | 5.5% |  | 3.7% |
+| 13:30 | CAD | Low | IPPI (MoM) (Sep) | 0.8% |  | 0.2% |
+| 13:30 | CAD | Low | RMPI (YoY) (Sep) | 8.4% |  | 3.0% |
+| 13:30 | CAD | Moderate | RMPI (MoM) (Sep) | 1.7% |  | -0.8% |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.020% |  | 2.019% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 1.987% |  | 1.958% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.015% |  | 2.009% |
+| 46 min | USD | Moderate | Business Inventories (MoM) (Aug) |  | 0.1% | 0.2% |
+| 46 min | USD | Moderate | Retail Inventories Ex Auto (Aug) |  | 0.3% | 0.3% |
+| 46 min | USD | Moderate | US Leading Index (MoM) (Sep) |  | 0.1% | -0.5% |
+| 46 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 15:30 | CAD | Moderate | BoC Business Outlook Survey |  |  |  |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.845% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.685% |
@@ -48,5 +48,5 @@
 | 22:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Aug) |  |  | 49.20B |
 | 22:45 | NZD | Low | Exports (Sep) |  |  | 5.94B |
 | 22:45 | NZD | Low | Imports (Sep) |  |  | 7.12B |
-| 22:45 | NZD | Low | Trade Balance (MoM) (Sep) |  |  | -1,185M |
 | 22:45 | NZD | Low | Trade Balance (YoY) (Sep) |  |  | -2,990M |
+| 22:45 | NZD | Low | Trade Balance (MoM) (Sep) |  |  | -1,185M |

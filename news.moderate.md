@@ -13,11 +13,11 @@
 | 03:00 | CNY | NBS Press Conference |  |  |  |
 | 08:00 | EUR | German PPI (MoM) (Sep) | -0.1% | 0.1% | -0.5% |
 | 09:00 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 18 min | CAD | RMPI (MoM) (Sep) |  |  | -0.6% |
-| 15:00 | USD | Business Inventories (MoM) (Aug) |  | 0.1% | 0.2% |
-| 15:00 | USD | Retail Inventories Ex Auto (Aug) |  | 0.3% | 0.3% |
-| 15:00 | USD | US Leading Index (MoM) (Sep) |  | 0.1% | -0.5% |
-| 15:00 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 13:30 | CAD | RMPI (MoM) (Sep) | 1.7% |  | -0.8% |
+| 46 min | USD | Business Inventories (MoM) (Aug) |  | 0.1% | 0.2% |
+| 46 min | USD | Retail Inventories Ex Auto (Aug) |  | 0.3% | 0.3% |
+| 46 min | USD | US Leading Index (MoM) (Sep) |  | 0.1% | -0.5% |
+| 46 min | EUR | ECB's Schnabel Speaks |  |  |  |
 | 15:30 | CAD | BoC Business Outlook Survey |  |  |  |
 | 18:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 20:00 | EUR | German Buba President Nagel Speaks |  |  |  |
