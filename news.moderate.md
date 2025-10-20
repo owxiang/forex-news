@@ -15,8 +15,8 @@
 | 09:00 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 13:30 | CAD | RMPI (MoM) (Sep) |  |  | -0.6% |
 | 15:00 | USD | Business Inventories (MoM) (Aug) |  | 0.1% | 0.2% |
-| 15:00 | USD | Industrial Production (YoY) (Sep) |  |  | 0.87% |
 | 15:00 | USD | Industrial Production (MoM) (Sep) |  | 0.1% | 0.1% |
+| 15:00 | USD | Industrial Production (YoY) (Sep) |  |  | 0.87% |
 | 15:00 | USD | Retail Inventories Ex Auto (Aug) |  | 0.3% | 0.3% |
 | 15:00 | USD | US Leading Index (MoM) (Sep) |  | 0.1% | -0.5% |
 | 15:00 | EUR | ECB's Schnabel Speaks |  |  |  |

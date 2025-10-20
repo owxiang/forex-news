@@ -35,8 +35,8 @@
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.009% |
 | 15:00 | USD | Moderate | Business Inventories (MoM) (Aug) |  | 0.1% | 0.2% |
 | 15:00 | USD | Low | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
-| 15:00 | USD | Moderate | Industrial Production (YoY) (Sep) |  |  | 0.87% |
 | 15:00 | USD | Moderate | Industrial Production (MoM) (Sep) |  | 0.1% | 0.1% |
+| 15:00 | USD | Moderate | Industrial Production (YoY) (Sep) |  |  | 0.87% |
 | 15:00 | USD | Low | Manufacturing Production (MoM) (Sep) |  |  | 0.2% |
 | 15:00 | USD | Moderate | Retail Inventories Ex Auto (Aug) |  | 0.3% | 0.3% |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (Sep) |  | 0.1% | -0.5% |
