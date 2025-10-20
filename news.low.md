@@ -29,5 +29,5 @@
 | 22:00 | USD | TIC Net Long-Term Transactions including Swaps (Aug) |  |  | 49.20B |
 | 22:45 | NZD | Exports (Sep) |  |  | 5.94B |
 | 22:45 | NZD | Imports (Sep) |  |  | 7.12B |
-| 22:45 | NZD | Trade Balance (MoM) (Sep) |  |  | -1,185M |
 | 22:45 | NZD | Trade Balance (YoY) (Sep) |  |  | -2,990M |
+| 22:45 | NZD | Trade Balance (MoM) (Sep) |  |  | -1,185M |
