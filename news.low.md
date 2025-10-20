@@ -20,8 +20,8 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 2.020% |  | 2.019% |
 | 14:00 | EUR | French 3-Month BTF Auction | 1.987% |  | 1.958% |
 | 14:00 | EUR | French 6-Month BTF Auction | 2.015% |  | 2.009% |
-| 16:30 | USD | 3-Month Bill Auction |  |  | 3.845% |
-| 16:30 | USD | 6-Month Bill Auction |  |  | 3.685% |
+| 22 min | USD | 3-Month Bill Auction |  |  | 3.845% |
+| 22 min | USD | 6-Month Bill Auction |  |  | 3.685% |
 | 22:00 | USD | US Foreign Buying, T-bonds (Aug) |  |  | 58.20B |
 | 22:00 | USD | Overall Net Capital Flow (Aug) |  |  | 2.10B |
 | 22:00 | USD | TIC Net Long-Term Transactions including Swaps (Aug) |  |  | 49.20B |

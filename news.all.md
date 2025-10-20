@@ -17,8 +17,8 @@
 | 03:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Sep) | 3.48% |  | 3.67% |
 | 03:00 | CNY | Moderate | Chinese Unemployment Rate (Sep) | 5.2% | 5.3% | 5.3% |
 | 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
-| 08:00 | EUR | Low | German PPI (YoY) (Sep) | -1.7% |  | -2.2% |
 | 08:00 | EUR | Moderate | German PPI (MoM) (Sep) | -0.1% | 0.1% | -0.5% |
+| 08:00 | EUR | Low | German PPI (YoY) (Sep) | -1.7% |  | -2.2% |
 | 09:00 | EUR | Low | Current Account (Aug) | 11.9B | 22.5B | 29.8B |
 | 09:00 | EUR | Low | Current Account n.s.a. (Aug) | 13.0B |  | 36.9B |
 | 09:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
@@ -34,12 +34,12 @@
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 1.987% |  | 1.958% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.015% |  | 2.009% |
 | 15:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 24 min | CAD | Moderate | BoC Business Outlook Survey |  |  |  |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.845% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.685% |
-| 16:30 | USD | Moderate | Business Inventories (MoM) (Aug) |  | 0.1% | 0.2% |
-| 16:30 | USD | Moderate | Retail Inventories Ex Auto (Aug) |  | 0.3% | 0.3% |
-| 16:30 | USD | Moderate | US Leading Index (MoM) (Sep) |  | 0.1% | -0.5% |
+| 15:30 | CAD | Moderate | BoC Business Outlook Survey |  |  |  |
+| 22 min | USD | Low | 3-Month Bill Auction |  |  | 3.845% |
+| 22 min | USD | Low | 6-Month Bill Auction |  |  | 3.685% |
+| 22 min | USD | Moderate | Business Inventories (MoM) (Aug) |  | 0.1% | 0.2% |
+| 22 min | USD | Moderate | Retail Inventories Ex Auto (Aug) |  | 0.3% | 0.3% |
+| 22 min | USD | Moderate | US Leading Index (MoM) (Sep) |  | 0.1% | -0.5% |
 | 18:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 20:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 22:00 | USD | Low | US Foreign Buying, T-bonds (Aug) |  |  | 58.20B |
