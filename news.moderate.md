@@ -18,4 +18,3 @@
 | 15:30 | CAD | BoC Business Outlook Survey |  |  |  |
 | 18:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 20:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 52 min | USD | TIC Net Long-Term Transactions (Aug) |  |  | 49.2B |

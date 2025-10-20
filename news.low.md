@@ -22,10 +22,7 @@
 | 14:00 | EUR | French 6-Month BTF Auction | 2.015% |  | 2.009% |
 | 16:30 | USD | 3-Month Bill Auction | 3.810% |  | 3.845% |
 | 16:30 | USD | 6-Month Bill Auction | 3.660% |  | 3.685% |
-| 52 min | USD | US Foreign Buying, T-bonds (Aug) |  |  | 58.20B |
-| 52 min | USD | Overall Net Capital Flow (Aug) |  |  | 2.10B |
-| 52 min | USD | TIC Net Long-Term Transactions including Swaps (Aug) |  |  | 49.20B |
-| 22:45 | NZD | Exports (Sep) |  |  | 5.94B |
-| 22:45 | NZD | Imports (Sep) |  |  | 7.12B |
-| 22:45 | NZD | Trade Balance (YoY) (Sep) |  |  | -2,990M |
-| 22:45 | NZD | Trade Balance (MoM) (Sep) |  |  | -1,185M |
+| 39 min | NZD | Exports (Sep) |  |  | 5.94B |
+| 39 min | NZD | Imports (Sep) |  |  | 7.12B |
+| 39 min | NZD | Trade Balance (YoY) (Sep) |  |  | -2,990M |
+| 39 min | NZD | Trade Balance (MoM) (Sep) |  |  | -1,185M |

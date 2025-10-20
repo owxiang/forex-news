@@ -39,11 +39,7 @@
 | 16:30 | USD | Low | 6-Month Bill Auction | 3.660% |  | 3.685% |
 | 18:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 20:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 52 min | USD | Low | US Foreign Buying, T-bonds (Aug) |  |  | 58.20B |
-| 52 min | USD | Low | Overall Net Capital Flow (Aug) |  |  | 2.10B |
-| 52 min | USD | Moderate | TIC Net Long-Term Transactions (Aug) |  |  | 49.2B |
-| 52 min | USD | Low | TIC Net Long-Term Transactions including Swaps (Aug) |  |  | 49.20B |
-| 22:45 | NZD | Low | Exports (Sep) |  |  | 5.94B |
-| 22:45 | NZD | Low | Imports (Sep) |  |  | 7.12B |
-| 22:45 | NZD | Low | Trade Balance (YoY) (Sep) |  |  | -2,990M |
-| 22:45 | NZD | Low | Trade Balance (MoM) (Sep) |  |  | -1,185M |
+| 39 min | NZD | Low | Exports (Sep) |  |  | 5.94B |
+| 39 min | NZD | Low | Imports (Sep) |  |  | 7.12B |
+| 39 min | NZD | Low | Trade Balance (YoY) (Sep) |  |  | -2,990M |
+| 39 min | NZD | Low | Trade Balance (MoM) (Sep) |  |  | -1,185M |
