@@ -16,6 +16,6 @@
 | 13:30 | CAD | RMPI (MoM) (Sep) | 1.7% |  | -0.8% |
 | 15:00 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 15:30 | CAD | BoC Business Outlook Survey |  |  |  |
-| 52 min | EUR | German Buba Balz Speaks |  |  |  |
+| 18:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 20:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 22:00 | USD | TIC Net Long-Term Transactions (Aug) |  |  | 49.2B |
