@@ -14,8 +14,8 @@
 | 10:00 | EUR | Construction Output (MoM) (Aug) |  |  | 0.48% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:30 | CAD | IPPI (YoY) (Sep) |  |  | 4.0% |
 | 13:30 | CAD | IPPI (MoM) (Sep) |  |  | 0.5% |
+| 13:30 | CAD | IPPI (YoY) (Sep) |  |  | 4.0% |
 | 13:30 | CAD | RMPI (YoY) (Sep) |  |  | 3.2% |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.019% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 1.958% |
