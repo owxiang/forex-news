@@ -7,18 +7,18 @@
 | 02:00 | CNY | Moderate | China Loan Prime Rate 5Y (Oct) | 3.50% | 3.50% | 3.50% |
 | 02:00 | CNY | Moderate | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
 | 02:30 | CNY | Low | House Prices (YoY) (Sep) | -2.2% |  | -2.5% |
-| 25 min | CNY | Moderate | Fixed Asset Investment (YoY) (Sep) |  | 0.1% | 0.5% |
-| 25 min | CNY | High | GDP (YoY) (Q3) |  | 4.7% | 5.2% |
-| 25 min | CNY | Moderate | GDP (QoQ) (Q3) |  | 0.8% | 1.1% |
-| 25 min | CNY | Moderate | Chinese GDP YTD (YoY) (Q3) |  |  | 5.3% |
-| 25 min | CNY | Moderate | Industrial Production (YoY) (Sep) |  | 5.0% | 5.2% |
-| 25 min | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Sep) |  |  | 6.2% |
-| 25 min | CNY | Low | Retail Sales (YoY) (Sep) |  | 2.9% | 3.4% |
-| 25 min | CNY | Low | Chinese Retail Sales YTD (YoY) (Sep) |  |  | 3.67% |
-| 25 min | CNY | Moderate | Chinese Unemployment Rate (Sep) |  | 5.3% | 5.3% |
-| 25 min | CNY | Moderate | NBS Press Conference |  |  |  |
-| 08:00 | EUR | Moderate | German PPI (MoM) (Sep) |  | 0.1% | -0.5% |
+| 03:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Sep) | -0.5% | 0.1% | 0.5% |
+| 03:00 | CNY | Moderate | GDP (QoQ) (Q3) | 1.1% | 0.8% | 1.0% |
+| 03:00 | CNY | High | GDP (YoY) (Q3) | 4.8% | 4.7% | 5.2% |
+| 03:00 | CNY | Moderate | Chinese GDP YTD (YoY) (Q3) | 5.2% |  | 5.3% |
+| 03:00 | CNY | Moderate | Industrial Production (YoY) (Sep) | 6.5% | 5.0% | 5.2% |
+| 03:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Sep) | 6.2% |  | 6.2% |
+| 03:00 | CNY | Low | Retail Sales (YoY) (Sep) | 3.0% | 2.9% | 3.4% |
+| 03:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Sep) | 3.48% |  | 3.67% |
+| 03:00 | CNY | Moderate | Chinese Unemployment Rate (Sep) | 5.2% | 5.3% | 5.3% |
+| 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
 | 08:00 | EUR | Low | German PPI (YoY) (Sep) |  |  | -2.2% |
+| 08:00 | EUR | Moderate | German PPI (MoM) (Sep) |  | 0.1% | -0.5% |
 | 09:00 | EUR | Low | Current Account (Aug) |  | 22.5B | 27.7B |
 | 09:00 | EUR | Low | Current Account n.s.a. (Aug) |  |  | 35.0B |
 | 09:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
@@ -52,5 +52,5 @@
 | 22:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Aug) |  |  | 49.20B |
 | 22:45 | NZD | Low | Exports (Sep) |  |  | 5.94B |
 | 22:45 | NZD | Low | Imports (Sep) |  |  | 7.12B |
-| 22:45 | NZD | Low | Trade Balance (YoY) (Sep) |  |  | -2,990M |
 | 22:45 | NZD | Low | Trade Balance (MoM) (Sep) |  |  | -1,185M |
+| 22:45 | NZD | Low | Trade Balance (YoY) (Sep) |  |  | -2,990M |

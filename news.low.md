@@ -5,8 +5,8 @@
 | 00:01 | GBP | Rightmove House Price Index (MoM) (Oct) | 0.3% |  | 0.4% |
 | 00:01 | GBP | Rightmove House Price Index (YoY) (Oct) | 0.1% |  | -0.1% |
 | 02:30 | CNY | House Prices (YoY) (Sep) | -2.2% |  | -2.5% |
-| 25 min | CNY | Retail Sales (YoY) (Sep) |  | 2.9% | 3.4% |
-| 25 min | CNY | Chinese Retail Sales YTD (YoY) (Sep) |  |  | 3.67% |
+| 03:00 | CNY | Retail Sales (YoY) (Sep) | 3.0% | 2.9% | 3.4% |
+| 03:00 | CNY | Chinese Retail Sales YTD (YoY) (Sep) | 3.48% |  | 3.67% |
 | 08:00 | EUR | German PPI (YoY) (Sep) |  |  | -2.2% |
 | 09:00 | EUR | Current Account (Aug) |  | 22.5B | 27.7B |
 | 09:00 | EUR | Current Account n.s.a. (Aug) |  |  | 35.0B |
@@ -29,5 +29,5 @@
 | 22:00 | USD | TIC Net Long-Term Transactions including Swaps (Aug) |  |  | 49.20B |
 | 22:45 | NZD | Exports (Sep) |  |  | 5.94B |
 | 22:45 | NZD | Imports (Sep) |  |  | 7.12B |
-| 22:45 | NZD | Trade Balance (YoY) (Sep) |  |  | -2,990M |
 | 22:45 | NZD | Trade Balance (MoM) (Sep) |  |  | -1,185M |
+| 22:45 | NZD | Trade Balance (YoY) (Sep) |  |  | -2,990M |
