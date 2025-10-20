@@ -8,8 +8,8 @@
 | 02:00 | CNY | Moderate | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
 | 02:30 | CNY | Low | House Prices (YoY) (Sep) | -2.2% |  | -2.5% |
 | 03:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Sep) | -0.5% | 0.1% | 0.5% |
-| 03:00 | CNY | Moderate | GDP (QoQ) (Q3) | 1.1% | 0.8% | 1.0% |
 | 03:00 | CNY | High | GDP (YoY) (Q3) | 4.8% | 4.7% | 5.2% |
+| 03:00 | CNY | Moderate | GDP (QoQ) (Q3) | 1.1% | 0.8% | 1.0% |
 | 03:00 | CNY | Moderate | Chinese GDP YTD (YoY) (Q3) | 5.2% |  | 5.3% |
 | 03:00 | CNY | Moderate | Industrial Production (YoY) (Sep) | 6.5% | 5.0% | 5.2% |
 | 03:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Sep) | 6.2% |  | 6.2% |
@@ -17,22 +17,22 @@
 | 03:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Sep) | 3.48% |  | 3.67% |
 | 03:00 | CNY | Moderate | Chinese Unemployment Rate (Sep) | 5.2% | 5.3% | 5.3% |
 | 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
-| 08:00 | EUR | Low | German PPI (YoY) (Sep) | -1.7% |  | -2.2% |
 | 08:00 | EUR | Moderate | German PPI (MoM) (Sep) | -0.1% | 0.1% | -0.5% |
+| 08:00 | EUR | Low | German PPI (YoY) (Sep) | -1.7% |  | -2.2% |
 | 09:00 | EUR | Low | Current Account (Aug) | 11.9B | 22.5B | 27.7B |
 | 09:00 | EUR | Low | Current Account n.s.a. (Aug) | 13.0B |  | 35.0B |
 | 09:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 09:30 | HKD | Low | Unemployment Rate (Sep) | 3.9% |  | 3.7% |
 | 10:00 | EUR | Low | Construction Output (MoM) (Aug) | -0.10% |  | 0.49% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 19 min | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:30 | CAD | Low | IPPI (YoY) (Sep) |  |  | 4.0% |
-| 13:30 | CAD | Low | IPPI (MoM) (Sep) |  |  | 0.5% |
-| 13:30 | CAD | Low | RMPI (YoY) (Sep) |  |  | 3.2% |
-| 13:30 | CAD | Moderate | RMPI (MoM) (Sep) |  |  | -0.6% |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.019% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 1.958% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.009% |
+| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 18 min | CAD | Low | IPPI (YoY) (Sep) |  |  | 4.0% |
+| 18 min | CAD | Low | IPPI (MoM) (Sep) |  |  | 0.5% |
+| 18 min | CAD | Low | RMPI (YoY) (Sep) |  |  | 3.2% |
+| 18 min | CAD | Moderate | RMPI (MoM) (Sep) |  |  | -0.6% |
+| 48 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.019% |
+| 48 min | EUR | Low | French 3-Month BTF Auction |  |  | 1.958% |
+| 48 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.009% |
 | 15:00 | USD | Moderate | Business Inventories (MoM) (Aug) |  | 0.1% | 0.2% |
 | 15:00 | USD | Moderate | Retail Inventories Ex Auto (Aug) |  | 0.3% | 0.3% |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (Sep) |  | 0.1% | -0.5% |

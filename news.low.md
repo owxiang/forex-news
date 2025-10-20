@@ -13,13 +13,13 @@
 | 09:30 | HKD | Unemployment Rate (Sep) | 3.9% |  | 3.7% |
 | 10:00 | EUR | Construction Output (MoM) (Aug) | -0.10% |  | 0.49% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 19 min | BRL | BCB Focus Market Readout |  |  |  |
-| 13:30 | CAD | IPPI (YoY) (Sep) |  |  | 4.0% |
-| 13:30 | CAD | IPPI (MoM) (Sep) |  |  | 0.5% |
-| 13:30 | CAD | RMPI (YoY) (Sep) |  |  | 3.2% |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.019% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 1.958% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.009% |
+| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 18 min | CAD | IPPI (YoY) (Sep) |  |  | 4.0% |
+| 18 min | CAD | IPPI (MoM) (Sep) |  |  | 0.5% |
+| 18 min | CAD | RMPI (YoY) (Sep) |  |  | 3.2% |
+| 48 min | EUR | French 12-Month BTF Auction |  |  | 2.019% |
+| 48 min | EUR | French 3-Month BTF Auction |  |  | 1.958% |
+| 48 min | EUR | French 6-Month BTF Auction |  |  | 2.009% |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 3.845% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 3.685% |
 | 22:00 | USD | US Foreign Buying, T-bonds (Aug) |  |  | 58.20B |
