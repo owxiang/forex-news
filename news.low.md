@@ -22,7 +22,7 @@
 | 14:00 | EUR | French 6-Month BTF Auction | 2.015% |  | 2.009% |
 | 16:30 | USD | 3-Month Bill Auction | 3.810% |  | 3.845% |
 | 16:30 | USD | 6-Month Bill Auction | 3.660% |  | 3.685% |
-| 39 min | NZD | Exports (Sep) |  |  | 5.94B |
-| 39 min | NZD | Imports (Sep) |  |  | 7.12B |
-| 39 min | NZD | Trade Balance (YoY) (Sep) |  |  | -2,990M |
-| 39 min | NZD | Trade Balance (MoM) (Sep) |  |  | -1,185M |
+| 22:45 | NZD | Exports (Sep) | 5.82B |  | 5.85B |
+| 22:45 | NZD | Imports (Sep) | 7.18B |  | 7.08B |
+| 22:45 | NZD | Trade Balance (MoM) (Sep) | -1,355M |  | -1,235M |
+| 22:45 | NZD | Trade Balance (YoY) (Sep) | -2,250M |  | -3,060M |

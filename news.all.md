@@ -8,8 +8,8 @@
 | 02:00 | CNY | Moderate | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
 | 02:30 | CNY | Low | House Prices (YoY) (Sep) | -2.2% |  | -2.5% |
 | 03:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Sep) | -0.5% | 0.1% | 0.5% |
-| 03:00 | CNY | High | GDP (YoY) (Q3) | 4.8% | 4.7% | 5.2% |
 | 03:00 | CNY | Moderate | GDP (QoQ) (Q3) | 1.1% | 0.8% | 1.0% |
+| 03:00 | CNY | High | GDP (YoY) (Q3) | 4.8% | 4.7% | 5.2% |
 | 03:00 | CNY | Moderate | Chinese GDP YTD (YoY) (Q3) | 5.2% |  | 5.3% |
 | 03:00 | CNY | Moderate | Industrial Production (YoY) (Sep) | 6.5% | 5.0% | 5.2% |
 | 03:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Sep) | 6.2% |  | 6.2% |
@@ -17,8 +17,8 @@
 | 03:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Sep) | 3.48% |  | 3.67% |
 | 03:00 | CNY | Moderate | Chinese Unemployment Rate (Sep) | 5.2% | 5.3% | 5.3% |
 | 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
-| 08:00 | EUR | Moderate | German PPI (MoM) (Sep) | -0.1% | 0.1% | -0.5% |
 | 08:00 | EUR | Low | German PPI (YoY) (Sep) | -1.7% |  | -2.2% |
+| 08:00 | EUR | Moderate | German PPI (MoM) (Sep) | -0.1% | 0.1% | -0.5% |
 | 09:00 | EUR | Low | Current Account (Aug) | 11.9B | 22.5B | 29.8B |
 | 09:00 | EUR | Low | Current Account n.s.a. (Aug) | 13.0B |  | 36.9B |
 | 09:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
@@ -39,7 +39,7 @@
 | 16:30 | USD | Low | 6-Month Bill Auction | 3.660% |  | 3.685% |
 | 18:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 20:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 39 min | NZD | Low | Exports (Sep) |  |  | 5.94B |
-| 39 min | NZD | Low | Imports (Sep) |  |  | 7.12B |
-| 39 min | NZD | Low | Trade Balance (YoY) (Sep) |  |  | -2,990M |
-| 39 min | NZD | Low | Trade Balance (MoM) (Sep) |  |  | -1,185M |
+| 22:45 | NZD | Low | Exports (Sep) | 5.82B |  | 5.85B |
+| 22:45 | NZD | Low | Imports (Sep) | 7.18B |  | 7.08B |
+| 22:45 | NZD | Low | Trade Balance (MoM) (Sep) | -1,355M |  | -1,235M |
+| 22:45 | NZD | Low | Trade Balance (YoY) (Sep) | -2,250M |  | -3,060M |
