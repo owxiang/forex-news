@@ -17,14 +17,14 @@
 | 03:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Sep) | 3.48% |  | 3.67% |
 | 03:00 | CNY | Moderate | Chinese Unemployment Rate (Sep) | 5.2% | 5.3% | 5.3% |
 | 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
-| 07:00 | EUR | Moderate | German PPI (MoM) (Sep) | -0.1% | 0.1% | -0.5% |
-| 07:00 | EUR | Low | German PPI (YoY) (Sep) | -1.7% |  | -2.2% |
+| 07:00 | EUR | Moderate | German PPI (MoM) (Sep) | -0.1% | 0.1% | -0.8% |
+| 07:00 | EUR | Low | German PPI (YoY) (Sep) | -1.7% |  | -2.3% |
 | 09:00 | EUR | Low | Current Account (Aug) | 11.9B | 22.5B | 27.7B |
 | 09:00 | EUR | Low | Current Account n.s.a. (Aug) | 13.0B |  | 35.0B |
 | 09:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 20 min | HKD | Low | Unemployment Rate (Sep) |  |  | 3.7% |
-| 50 min | EUR | Low | Construction Output (MoM) (Aug) |  |  | 0.48% |
-| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 09:30 | HKD | Low | Unemployment Rate (Sep) | 3.9% |  | 3.7% |
+| 10:00 | EUR | Low | Construction Output (MoM) (Aug) | -0.10% |  | 0.48% |
+| 52 min | EUR | Low | German Buba Monthly Report |  |  |  |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:30 | CAD | Low | IPPI (YoY) (Sep) |  |  | 4.0% |
 | 13:30 | CAD | Low | IPPI (MoM) (Sep) |  |  | 0.5% |

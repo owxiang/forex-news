@@ -7,12 +7,12 @@
 | 02:30 | CNY | House Prices (YoY) (Sep) | -2.2% |  | -2.5% |
 | 03:00 | CNY | Retail Sales (YoY) (Sep) | 3.0% | 2.9% | 3.4% |
 | 03:00 | CNY | Chinese Retail Sales YTD (YoY) (Sep) | 3.48% |  | 3.67% |
-| 07:00 | EUR | German PPI (YoY) (Sep) | -1.7% |  | -2.2% |
+| 07:00 | EUR | German PPI (YoY) (Sep) | -1.7% |  | -2.3% |
 | 09:00 | EUR | Current Account (Aug) | 11.9B | 22.5B | 27.7B |
 | 09:00 | EUR | Current Account n.s.a. (Aug) | 13.0B |  | 35.0B |
-| 20 min | HKD | Unemployment Rate (Sep) |  |  | 3.7% |
-| 50 min | EUR | Construction Output (MoM) (Aug) |  |  | 0.48% |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 09:30 | HKD | Unemployment Rate (Sep) | 3.9% |  | 3.7% |
+| 10:00 | EUR | Construction Output (MoM) (Aug) | -0.10% |  | 0.48% |
+| 52 min | EUR | German Buba Monthly Report |  |  |  |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:30 | CAD | IPPI (YoY) (Sep) |  |  | 4.0% |
 | 13:30 | CAD | IPPI (MoM) (Sep) |  |  | 0.5% |

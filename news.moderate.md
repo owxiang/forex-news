@@ -11,7 +11,7 @@
 | 03:00 | CNY | Chinese Industrial Production YTD (YoY) (Sep) | 6.2% |  | 6.2% |
 | 03:00 | CNY | Chinese Unemployment Rate (Sep) | 5.2% | 5.3% | 5.3% |
 | 03:00 | CNY | NBS Press Conference |  |  |  |
-| 07:00 | EUR | German PPI (MoM) (Sep) | -0.1% | 0.1% | -0.5% |
+| 07:00 | EUR | German PPI (MoM) (Sep) | -0.1% | 0.1% | -0.8% |
 | 09:00 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 13:30 | CAD | RMPI (MoM) (Sep) |  |  | -0.6% |
 | 15:00 | USD | Business Inventories (MoM) (Aug) |  | 0.1% | 0.2% |
