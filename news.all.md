@@ -38,7 +38,7 @@
 | 16:30 | USD | Low | 3-Month Bill Auction | 3.810% |  | 3.845% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 3.660% |  | 3.685% |
 | 18:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 50 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 20:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 22:00 | USD | Low | US Foreign Buying, T-bonds (Aug) |  |  | 58.20B |
 | 22:00 | USD | Low | Overall Net Capital Flow (Aug) |  |  | 2.10B |
 | 22:00 | USD | Moderate | TIC Net Long-Term Transactions (Aug) |  |  | 49.2B |

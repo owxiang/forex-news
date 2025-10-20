@@ -17,5 +17,5 @@
 | 15:00 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 15:30 | CAD | BoC Business Outlook Survey |  |  |  |
 | 18:00 | EUR | German Buba Balz Speaks |  |  |  |
-| 50 min | EUR | German Buba President Nagel Speaks |  |  |  |
+| 20:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 22:00 | USD | TIC Net Long-Term Transactions (Aug) |  |  | 49.2B |
