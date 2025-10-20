@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:00 | CNY | GDP (YoY) (Q3) |  | 4.7% | 5.2% |
+| 25 min | CNY | GDP (YoY) (Q3) |  | 4.7% | 5.2% |

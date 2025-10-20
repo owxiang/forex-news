@@ -4,19 +4,19 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | Rightmove House Price Index (MoM) (Oct) | 0.3% |  | 0.4% |
 | 00:01 | GBP | Low | Rightmove House Price Index (YoY) (Oct) | 0.1% |  | -0.1% |
-| 28 min | CNY | Moderate | China Loan Prime Rate 5Y (Oct) |  | 3.50% | 3.50% |
-| 43 min | CNY | Moderate | PBoC Loan Prime Rate |  | 3.00% | 3.00% |
-| 58 min | CNY | Low | House Prices (YoY) (Sep) |  |  | -2.5% |
-| 03:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Sep) |  | 0.1% | 0.5% |
-| 03:00 | CNY | High | GDP (YoY) (Q3) |  | 4.7% | 5.2% |
-| 03:00 | CNY | Moderate | GDP (QoQ) (Q3) |  | 0.8% | 1.1% |
-| 03:00 | CNY | Moderate | Chinese GDP YTD (YoY) (Q3) |  |  | 5.3% |
-| 03:00 | CNY | Moderate | Industrial Production (YoY) (Sep) |  | 5.0% | 5.2% |
-| 03:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Sep) |  |  | 6.2% |
-| 03:00 | CNY | Low | Retail Sales (YoY) (Sep) |  | 2.9% | 3.4% |
-| 03:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Sep) |  |  | 3.67% |
-| 03:00 | CNY | Moderate | Chinese Unemployment Rate (Sep) |  | 5.3% | 5.3% |
-| 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
+| 02:00 | CNY | Moderate | China Loan Prime Rate 5Y (Oct) | 3.50% | 3.50% | 3.50% |
+| 02:00 | CNY | Moderate | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
+| 02:30 | CNY | Low | House Prices (YoY) (Sep) | -2.2% |  | -2.5% |
+| 25 min | CNY | Moderate | Fixed Asset Investment (YoY) (Sep) |  | 0.1% | 0.5% |
+| 25 min | CNY | High | GDP (YoY) (Q3) |  | 4.7% | 5.2% |
+| 25 min | CNY | Moderate | GDP (QoQ) (Q3) |  | 0.8% | 1.1% |
+| 25 min | CNY | Moderate | Chinese GDP YTD (YoY) (Q3) |  |  | 5.3% |
+| 25 min | CNY | Moderate | Industrial Production (YoY) (Sep) |  | 5.0% | 5.2% |
+| 25 min | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Sep) |  |  | 6.2% |
+| 25 min | CNY | Low | Retail Sales (YoY) (Sep) |  | 2.9% | 3.4% |
+| 25 min | CNY | Low | Chinese Retail Sales YTD (YoY) (Sep) |  |  | 3.67% |
+| 25 min | CNY | Moderate | Chinese Unemployment Rate (Sep) |  | 5.3% | 5.3% |
+| 25 min | CNY | Moderate | NBS Press Conference |  |  |  |
 | 08:00 | EUR | Moderate | German PPI (MoM) (Sep) |  | 0.1% | -0.5% |
 | 08:00 | EUR | Low | German PPI (YoY) (Sep) |  |  | -2.2% |
 | 09:00 | EUR | Low | Current Account (Aug) |  | 22.5B | 27.7B |
@@ -35,8 +35,8 @@
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.009% |
 | 15:00 | USD | Moderate | Business Inventories (MoM) (Aug) |  | 0.1% | 0.2% |
 | 15:00 | USD | Low | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
-| 15:00 | USD | Moderate | Industrial Production (MoM) (Sep) |  | 0.1% | 0.1% |
 | 15:00 | USD | Moderate | Industrial Production (YoY) (Sep) |  |  | 0.87% |
+| 15:00 | USD | Moderate | Industrial Production (MoM) (Sep) |  | 0.1% | 0.1% |
 | 15:00 | USD | Low | Manufacturing Production (MoM) (Sep) |  |  | 0.2% |
 | 15:00 | USD | Moderate | Retail Inventories Ex Auto (Aug) |  | 0.3% | 0.3% |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (Sep) |  | 0.1% | -0.5% |
