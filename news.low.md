@@ -13,7 +13,7 @@
 | 09:30 | HKD | Unemployment Rate (Sep) | 3.9% |  | 3.7% |
 | 10:00 | EUR | Construction Output (MoM) (Aug) | -0.10% |  | 0.49% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 19 min | BRL | BCB Focus Market Readout |  |  |  |
 | 13:30 | CAD | IPPI (YoY) (Sep) |  |  | 4.0% |
 | 13:30 | CAD | IPPI (MoM) (Sep) |  |  | 0.5% |
 | 13:30 | CAD | RMPI (YoY) (Sep) |  |  | 3.2% |

@@ -25,11 +25,11 @@
 | 09:30 | HKD | Low | Unemployment Rate (Sep) | 3.9% |  | 3.7% |
 | 10:00 | EUR | Low | Construction Output (MoM) (Aug) | -0.10% |  | 0.49% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 19 min | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:30 | CAD | Low | IPPI (YoY) (Sep) |  |  | 4.0% |
 | 13:30 | CAD | Low | IPPI (MoM) (Sep) |  |  | 0.5% |
-| 13:30 | CAD | Moderate | RMPI (MoM) (Sep) |  |  | -0.6% |
 | 13:30 | CAD | Low | RMPI (YoY) (Sep) |  |  | 3.2% |
+| 13:30 | CAD | Moderate | RMPI (MoM) (Sep) |  |  | -0.6% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.019% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 1.958% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.009% |
