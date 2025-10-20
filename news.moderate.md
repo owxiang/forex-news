@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | CNY | China Loan Prime Rate 5Y (Oct) |  | 3.50% | 3.50% |
-| 02:15 | CNY | PBoC Loan Prime Rate |  | 3.00% | 3.00% |
+| 28 min | CNY | China Loan Prime Rate 5Y (Oct) |  | 3.50% | 3.50% |
+| 43 min | CNY | PBoC Loan Prime Rate |  | 3.00% | 3.00% |
 | 03:00 | CNY | Fixed Asset Investment (YoY) (Sep) |  | 0.1% | 0.5% |
 | 03:00 | CNY | GDP (QoQ) (Q3) |  | 0.8% | 1.1% |
 | 03:00 | CNY | Chinese GDP YTD (YoY) (Q3) |  |  | 5.3% |
@@ -15,8 +15,8 @@
 | 09:00 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 13:30 | CAD | RMPI (MoM) (Sep) |  |  | -0.6% |
 | 15:00 | USD | Business Inventories (MoM) (Aug) |  | 0.1% | 0.2% |
-| 15:00 | USD | Industrial Production (YoY) (Sep) |  |  | 0.87% |
 | 15:00 | USD | Industrial Production (MoM) (Sep) |  | 0.1% | 0.1% |
+| 15:00 | USD | Industrial Production (YoY) (Sep) |  |  | 0.87% |
 | 15:00 | USD | Retail Inventories Ex Auto (Aug) |  | 0.3% | 0.3% |
 | 15:00 | USD | US Leading Index (MoM) (Sep) |  | 0.1% | -0.5% |
 | 15:00 | EUR | ECB's Schnabel Speaks |  |  |  |

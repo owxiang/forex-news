@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | Rightmove House Price Index (MoM) (Oct) | 0.3% |  | 0.4% |
-| 00:01 | GBP | Rightmove House Price Index (YoY) (Oct) |  |  | -0.1% |
-| 02:30 | CNY | House Prices (YoY) (Sep) |  |  | -2.5% |
+| 00:01 | GBP | Rightmove House Price Index (YoY) (Oct) | 0.1% |  | -0.1% |
+| 58 min | CNY | House Prices (YoY) (Sep) |  |  | -2.5% |
 | 03:00 | CNY | Retail Sales (YoY) (Sep) |  | 2.9% | 3.4% |
 | 03:00 | CNY | Chinese Retail Sales YTD (YoY) (Sep) |  |  | 3.67% |
 | 08:00 | EUR | German PPI (YoY) (Sep) |  |  | -2.2% |
