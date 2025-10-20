@@ -1,28 +1,23 @@
-## 20 October 2025 - Low Impact Forex News
+## 21 October 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | Rightmove House Price Index (MoM) (Oct) | 0.3% |  | 0.4% |
-| 00:01 | GBP | Rightmove House Price Index (YoY) (Oct) | 0.1% |  | -0.1% |
-| 02:30 | CNY | House Prices (YoY) (Sep) | -2.2% |  | -2.5% |
-| 03:00 | CNY | Retail Sales (YoY) (Sep) | 3.0% | 2.9% | 3.4% |
-| 03:00 | CNY | Chinese Retail Sales YTD (YoY) (Sep) | 3.48% |  | 3.67% |
-| 08:00 | EUR | German PPI (YoY) (Sep) | -1.7% |  | -2.2% |
-| 09:00 | EUR | Current Account (Aug) | 11.9B | 22.5B | 29.8B |
-| 09:00 | EUR | Current Account n.s.a. (Aug) | 13.0B |  | 36.9B |
-| 09:30 | HKD | Unemployment Rate (Sep) | 3.9% |  | 3.7% |
-| 10:00 | EUR | Construction Output (MoM) (Aug) | -0.10% |  | 0.49% |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:30 | CAD | IPPI (YoY) (Sep) | 5.5% |  | 3.7% |
-| 13:30 | CAD | IPPI (MoM) (Sep) | 0.8% |  | 0.2% |
-| 13:30 | CAD | RMPI (YoY) (Sep) | 8.4% |  | 3.0% |
-| 14:00 | EUR | French 12-Month BTF Auction | 2.020% |  | 2.019% |
-| 14:00 | EUR | French 3-Month BTF Auction | 1.987% |  | 1.958% |
-| 14:00 | EUR | French 6-Month BTF Auction | 2.015% |  | 2.009% |
-| 16:30 | USD | 3-Month Bill Auction | 3.810% |  | 3.845% |
-| 16:30 | USD | 6-Month Bill Auction | 3.660% |  | 3.685% |
-| 22:45 | NZD | Exports (Sep) | 5.82B |  | 5.85B |
-| 22:45 | NZD | Imports (Sep) | 7.18B |  | 7.08B |
-| 22:45 | NZD | Trade Balance (MoM) (Sep) | -1,355M |  | -1,235M |
-| 22:45 | NZD | Trade Balance (YoY) (Sep) | -2,250M |  | -3,060M |
+| 39 min | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
+| 03:00 | NZD | Credit Card Spending (YoY) (Sep) |  |  | 3.5% |
+| 07:00 | GBP | Public Sector Net Borrowing |  | 20.50B | 18.00B |
+| 07:00 | GBP | Public Sector Net Cash Requirement (Sep) |  |  | 10.158B |
+| 07:00 | CHF | Trade Balance (Sep) |  | 5.220B | 4.009B |
+| 08:00 | CHF | M3 Money Supply (Sep) |  |  | 1,196.9B |
+| 08:00 | ZAR | Leading Indicators (Aug) |  |  | 113.70% |
+| 13:30 | CAD | Common CPI (YoY) (Sep) |  | 2.6% | 2.5% |
+| 13:30 | CAD | CPI (YoY) (Sep) |  | 2.3% | 1.9% |
+| 13:30 | CAD | Median CPI (YoY) (Sep) |  | 3.0% | 3.1% |
+| 13:30 | CAD | Trimmed CPI (YoY) (Sep) |  | 3.0% | 3.0% |
+| 13:55 | USD | Redbook (YoY) |  |  | 5.9% |
+| 16:00 | NZD | GlobalDairyTrade Price Index |  |  | -1.6% |
+| 16:00 | USD | Milk Auctions |  |  | 3,921.0 |
+| 22:00 | USD | US Foreign Buying, T-bonds (Aug) |  |  | 58.20B |
+| 22:00 | USD | Overall Net Capital Flow (Aug) |  |  | 2.10B |
+| 22:00 | USD | TIC Net Long-Term Transactions including Swaps (Aug) |  |  | 49.20B |
+| 22:00 | KRW | PPI (YoY) (Sep) |  |  | 0.6% |
+| 22:00 | KRW | PPI (MoM) (Sep) |  |  | -0.1% |

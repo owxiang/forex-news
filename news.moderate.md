@@ -1,20 +1,21 @@
-## 20 October 2025 - Moderate Impact Forex News
+## 21 October 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | CNY | China Loan Prime Rate 5Y (Oct) | 3.50% | 3.50% | 3.50% |
-| 02:00 | CNY | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
-| 03:00 | CNY | Fixed Asset Investment (YoY) (Sep) | -0.5% | 0.1% | 0.5% |
-| 03:00 | CNY | GDP (QoQ) (Q3) | 1.1% | 0.8% | 1.0% |
-| 03:00 | CNY | Chinese GDP YTD (YoY) (Q3) | 5.2% |  | 5.3% |
-| 03:00 | CNY | Industrial Production (YoY) (Sep) | 6.5% | 5.0% | 5.2% |
-| 03:00 | CNY | Chinese Industrial Production YTD (YoY) (Sep) | 6.2% |  | 6.2% |
-| 03:00 | CNY | Chinese Unemployment Rate (Sep) | 5.2% | 5.3% | 5.3% |
-| 03:00 | CNY | NBS Press Conference |  |  |  |
-| 08:00 | EUR | German PPI (MoM) (Sep) | -0.1% | 0.1% | -0.5% |
-| 09:00 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 13:30 | CAD | RMPI (MoM) (Sep) | 1.7% |  | -0.8% |
-| 15:00 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 15:30 | CAD | BoC Business Outlook Survey |  |  |  |
+| 02:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 05:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 08:00 | EUR | ECB's Lane Speaks |  |  |  |
+| 11:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 12:00 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 12:30 | USD | Business Inventories (MoM) (Aug) |  | 0.1% | 0.2% |
+| 12:30 | USD | Retail Inventories Ex Auto (Aug) |  | 0.3% | 0.3% |
+| 12:30 | USD | US Leading Index (MoM) (Sep) |  | 0.1% | -0.5% |
+| 13:30 | CAD | Core CPI (MoM) (Sep) |  |  | 0.0% |
+| 13:30 | CAD | Core CPI (YoY) (Sep) |  |  | 2.6% |
+| 13:30 | CAD | CPI (MoM) (Sep) |  | -0.1% | -0.1% |
+| 14:00 | USD | Fed Waller Speaks |  |  |  |
 | 18:00 | EUR | German Buba Balz Speaks |  |  |  |
-| 20:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 20:30 | USD | Fed Waller Speaks |  |  |  |
+| 21:30 | USD | API Weekly Crude Oil Stock |  |  | 3.524M |
+| 22:00 | USD | TIC Net Long-Term Transactions (Aug) |  |  | 49.2B |
+| 23:00 | EUR | German Buba President Nagel Speaks |  |  |  |
