@@ -10,8 +10,8 @@
 | 12:30 | USD | Business Inventories (MoM) (Aug) |  | 0.1% | 0.2% |
 | 12:30 | USD | Retail Inventories Ex Auto (Aug) |  | 0.3% | 0.3% |
 | 12:30 | USD | US Leading Index (MoM) (Sep) |  | 0.1% | -0.5% |
-| 13:30 | CAD | Core CPI (MoM) (Sep) |  |  | 0.0% |
 | 13:30 | CAD | Core CPI (YoY) (Sep) |  |  | 2.6% |
+| 13:30 | CAD | Core CPI (MoM) (Sep) |  |  | 0.0% |
 | 13:30 | CAD | CPI (MoM) (Sep) |  | -0.1% | -0.1% |
 | 14:00 | USD | Fed Waller Speaks |  |  |  |
 | 18:00 | EUR | German Buba Balz Speaks |  |  |  |
