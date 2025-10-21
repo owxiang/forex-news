@@ -6,9 +6,9 @@
 | 02:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 03:00 | NZD | Low | Credit Card Spending (YoY) (Sep) | 0.2% |  | 3.3% |
 | 05:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 07:00 | GBP | Low | Public Sector Net Borrowing |  | 20.50B | 18.00B |
-| 07:00 | GBP | Low | Public Sector Net Cash Requirement (Sep) |  |  | 10.158B |
-| 07:00 | CHF | Low | Trade Balance (Sep) |  | 5.220B | 4.009B |
+| 53 min | GBP | Low | Public Sector Net Borrowing |  | 20.70B | 18.00B |
+| 53 min | GBP | Low | Public Sector Net Cash Requirement (Sep) |  |  | 10.158B |
+| 53 min | CHF | Low | Trade Balance (Sep) |  | 5.220B | 4.009B |
 | 08:00 | CHF | Low | M3 Money Supply (Sep) |  |  | 1,196.9B |
 | 08:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 08:00 | ZAR | Low | Leading Indicators (Aug) |  |  | 113.70% |
@@ -35,6 +35,6 @@
 | 22:00 | USD | Low | Overall Net Capital Flow (Aug) |  |  | 2.10B |
 | 22:00 | USD | Moderate | TIC Net Long-Term Transactions (Aug) |  |  | 49.2B |
 | 22:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Aug) |  |  | 49.20B |
-| 22:00 | KRW | Low | PPI (YoY) (Sep) |  |  | 0.6% |
 | 22:00 | KRW | Low | PPI (MoM) (Sep) |  |  | -0.1% |
+| 22:00 | KRW | Low | PPI (YoY) (Sep) |  |  | 0.6% |
 | 23:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
