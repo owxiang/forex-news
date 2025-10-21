@@ -1,17 +1,18 @@
-## 21 October 2025 - Moderate Impact Forex News
+## 22 October 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 05:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 08:00 | EUR | ECB's Lane Speaks |  |  |  |
-| 11:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 12:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 13:30 | CAD | Core CPI (MoM) (Sep) | 0.2% |  | 0.0% |
-| 13:30 | CAD | Core CPI (YoY) (Sep) | 2.8% |  | 2.6% |
-| 13:30 | CAD | CPI (MoM) (Sep) | 0.1% | -0.1% | -0.1% |
-| 14:00 | USD | Fed Waller Speaks |  |  |  |
-| 18:00 | EUR | German Buba Balz Speaks |  |  |  |
-| 20:30 | USD | Fed Waller Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock | -2.980M |  | 3.524M |
-| 23:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 44 min | JPY | Adjusted Trade Balance |  | -0.11T | -0.15T |
+| 44 min | JPY | Exports (YoY) (Sep) |  | 4.6% | -0.1% |
+| 44 min | JPY | Trade Balance (Sep) |  | 22.0B | -242.8B |
+| 07:00 | GBP | CPI (MoM) (Sep) |  |  | 0.3% |
+| 07:00 | GBP | CPIH (YoY) |  |  | 4.2% |
+| 07:00 | GBP | PPI Input (MoM) (Sep) |  | 0.3% | 0.8% |
+| 08:30 | IDR | Interest Rate Decision |  | 4.50% | 4.75% |
+| 12:00 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 13:25 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.703M |
+| 16:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 18:00 | USD | 20-Year Bond Auction |  |  | 4.613% |
+| 21:00 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
+| 21:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
