@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 05:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 37 min | EUR | German Buba President Nagel Speaks |  |  |  |
 | 08:00 | EUR | ECB's Lane Speaks |  |  |  |
 | 11:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 12:00 | EUR | ECB President Lagarde Speaks |  |  |  |

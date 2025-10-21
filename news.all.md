@@ -5,7 +5,7 @@
 | 00:45 | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
 | 02:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 03:00 | NZD | Low | Credit Card Spending (YoY) (Sep) | 0.2% |  | 3.3% |
-| 05:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 37 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 07:00 | GBP | Low | Public Sector Net Borrowing |  | 20.50B | 18.00B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Sep) |  |  | 10.158B |
 | 07:00 | CHF | Low | Trade Balance (Sep) |  | 5.220B | 4.009B |
