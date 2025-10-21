@@ -20,5 +20,5 @@
 | 22:00 | USD | US Foreign Buying, T-bonds (Aug) |  |  | 58.20B |
 | 22:00 | USD | Overall Net Capital Flow (Aug) |  |  | 2.10B |
 | 22:00 | USD | TIC Net Long-Term Transactions including Swaps (Aug) |  |  | 49.20B |
-| 22:00 | KRW | PPI (MoM) (Sep) |  |  | -0.1% |
 | 22:00 | KRW | PPI (YoY) (Sep) |  |  | 0.6% |
+| 22:00 | KRW | PPI (MoM) (Sep) |  |  | -0.1% |
