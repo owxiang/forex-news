@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:45 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
-| 26 min | NZD | Credit Card Spending (YoY) (Sep) |  |  | 3.5% |
+| 03:00 | NZD | Credit Card Spending (YoY) (Sep) | 0.2% |  | 3.3% |
 | 07:00 | GBP | Public Sector Net Borrowing |  | 20.50B | 18.00B |
 | 07:00 | GBP | Public Sector Net Cash Requirement (Sep) |  |  | 10.158B |
 | 07:00 | CHF | Trade Balance (Sep) |  | 5.220B | 4.009B |
@@ -19,5 +19,5 @@
 | 22:00 | USD | US Foreign Buying, T-bonds (Aug) |  |  | 58.20B |
 | 22:00 | USD | Overall Net Capital Flow (Aug) |  |  | 2.10B |
 | 22:00 | USD | TIC Net Long-Term Transactions including Swaps (Aug) |  |  | 49.20B |
-| 22:00 | KRW | PPI (MoM) (Sep) |  |  | -0.1% |
 | 22:00 | KRW | PPI (YoY) (Sep) |  |  | 0.6% |
+| 22:00 | KRW | PPI (MoM) (Sep) |  |  | -0.1% |
