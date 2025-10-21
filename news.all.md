@@ -12,14 +12,14 @@
 | 08:00 | CHF | Low | M3 Money Supply (Sep) | 1,192.9B |  | 1,196.8B |
 | 08:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 08:00 | ZAR | Low | Leading Indicators (Aug) | 115.50% |  | 113.62% |
-| 11:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 12:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 23 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 53 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 12:30 | USD | Moderate | Business Inventories (MoM) (Aug) |  | 0.1% | 0.2% |
 | 12:30 | USD | Moderate | Retail Inventories Ex Auto (Aug) |  | 0.3% | 0.3% |
 | 12:30 | USD | Moderate | US Leading Index (MoM) (Sep) |  | 0.1% | -0.5% |
 | 13:30 | CAD | Low | Common CPI (YoY) (Sep) |  | 2.6% | 2.5% |
-| 13:30 | CAD | Moderate | Core CPI (YoY) (Sep) |  |  | 2.6% |
 | 13:30 | CAD | Moderate | Core CPI (MoM) (Sep) |  |  | 0.0% |
+| 13:30 | CAD | Moderate | Core CPI (YoY) (Sep) |  |  | 2.6% |
 | 13:30 | CAD | Moderate | CPI (MoM) (Sep) |  | -0.1% | -0.1% |
 | 13:30 | CAD | Low | CPI (YoY) (Sep) |  | 2.3% | 1.9% |
 | 13:30 | CAD | Low | Median CPI (YoY) (Sep) |  | 3.0% | 3.1% |
