@@ -20,8 +20,8 @@
 | 13:30 | CAD | Low | Common CPI (YoY) (Sep) | 2.7% | 2.6% | 2.5% |
 | 13:30 | CAD | Moderate | Core CPI (MoM) (Sep) | 0.2% |  | 0.0% |
 | 13:30 | CAD | Moderate | Core CPI (YoY) (Sep) | 2.8% |  | 2.6% |
-| 13:30 | CAD | Low | CPI (YoY) (Sep) | 2.4% | 2.3% | 1.9% |
 | 13:30 | CAD | Moderate | CPI (MoM) (Sep) | 0.1% | -0.1% | -0.1% |
+| 13:30 | CAD | Low | CPI (YoY) (Sep) | 2.4% | 2.3% | 1.9% |
 | 13:30 | CAD | Low | Median CPI (YoY) (Sep) | 3.2% | 3.0% | 3.2% |
 | 13:30 | CAD | Low | Trimmed CPI (YoY) (Sep) | 3.1% | 3.0% | 3.0% |
 | 13:55 | USD | Low | Redbook (YoY) | 5.0% |  | 5.9% |
@@ -29,6 +29,6 @@
 | 18:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 20:30 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock | -2.980M |  | 3.524M |
-| 22:00 | KRW | Low | PPI (MoM) (Sep) | 0.4% |  | -0.1% |
 | 22:00 | KRW | Low | PPI (YoY) (Sep) | 1.2% |  | 0.6% |
-| 54 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 22:00 | KRW | Low | PPI (MoM) (Sep) | 0.4% |  | -0.1% |
+| 23:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |

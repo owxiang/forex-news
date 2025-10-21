@@ -17,5 +17,5 @@
 | 13:30 | CAD | Median CPI (YoY) (Sep) | 3.2% | 3.0% | 3.2% |
 | 13:30 | CAD | Trimmed CPI (YoY) (Sep) | 3.1% | 3.0% | 3.0% |
 | 13:55 | USD | Redbook (YoY) | 5.0% |  | 5.9% |
-| 22:00 | KRW | PPI (MoM) (Sep) | 0.4% |  | -0.1% |
 | 22:00 | KRW | PPI (YoY) (Sep) | 1.2% |  | 0.6% |
+| 22:00 | KRW | PPI (MoM) (Sep) | 0.4% |  | -0.1% |

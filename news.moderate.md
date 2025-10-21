@@ -14,4 +14,4 @@
 | 18:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 20:30 | USD | Fed Waller Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock | -2.980M |  | 3.524M |
-| 54 min | EUR | German Buba President Nagel Speaks |  |  |  |
+| 23:00 | EUR | German Buba President Nagel Speaks |  |  |  |
