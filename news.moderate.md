@@ -7,8 +7,8 @@
 | 08:00 | EUR | ECB's Lane Speaks |  |  |  |
 | 11:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 12:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 13:30 | CAD | Core CPI (MoM) (Sep) | 0.2% |  | 0.0% |
 | 13:30 | CAD | Core CPI (YoY) (Sep) | 2.8% |  | 2.6% |
+| 13:30 | CAD | Core CPI (MoM) (Sep) | 0.2% |  | 0.0% |
 | 13:30 | CAD | CPI (MoM) (Sep) | 0.1% | -0.1% | -0.1% |
 | 14:00 | USD | Fed Waller Speaks |  |  |  |
 | 18:00 | EUR | German Buba Balz Speaks |  |  |  |
