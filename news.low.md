@@ -7,8 +7,8 @@
 | 07:00 | GBP | Public Sector Net Borrowing | 20.20B | 20.70B | 18.00B |
 | 07:00 | GBP | Public Sector Net Cash Requirement (Sep) | -10.862B |  | 10.201B |
 | 07:00 | CHF | Trade Balance (Sep) | 4.073B | 5.220B | 3.876B |
-| 50 min | CHF | M3 Money Supply (Sep) |  |  | 1,196.9B |
-| 50 min | ZAR | Leading Indicators (Aug) |  |  | 113.70% |
+| 08:00 | CHF | M3 Money Supply (Sep) | 1,192.9B |  | 1,196.8B |
+| 08:00 | ZAR | Leading Indicators (Aug) | 115.50% |  | 113.62% |
 | 13:30 | CAD | Common CPI (YoY) (Sep) |  | 2.6% | 2.5% |
 | 13:30 | CAD | CPI (YoY) (Sep) |  | 2.3% | 1.9% |
 | 13:30 | CAD | Median CPI (YoY) (Sep) |  | 3.0% | 3.1% |
