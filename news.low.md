@@ -10,13 +10,13 @@
 | 08:00 | CHF | M3 Money Supply (Sep) | 1,192.9B |  | 1,196.8B |
 | 08:00 | ZAR | Leading Indicators (Aug) | 115.50% |  | 113.62% |
 | 12:30 | INR | Infrastructure Output (YoY) (Sep) | 3.0% |  | 6.5% |
+| 13:00 | NZD | GlobalDairyTrade Price Index | 21.9% |  | -1.6% |
+| 13:00 | USD | Milk Auctions | 3,881.0 |  | 3,921.0 |
 | 13:30 | CAD | Common CPI (YoY) (Sep) | 2.7% | 2.6% | 2.5% |
 | 13:30 | CAD | CPI (YoY) (Sep) | 2.4% | 2.3% | 1.9% |
 | 13:30 | CAD | Median CPI (YoY) (Sep) | 3.2% | 3.0% | 3.2% |
 | 13:30 | CAD | Trimmed CPI (YoY) (Sep) | 3.1% | 3.0% | 3.0% |
 | 13:55 | USD | Redbook (YoY) | 5.0% |  | 5.9% |
-| 53 min | NZD | GlobalDairyTrade Price Index |  |  | -1.6% |
-| 53 min | USD | Milk Auctions |  |  | 3,921.0 |
 | 22:00 | USD | US Foreign Buying, T-bonds (Aug) |  |  | 58.20B |
 | 22:00 | USD | Overall Net Capital Flow (Aug) |  |  | 2.10B |
 | 22:00 | USD | TIC Net Long-Term Transactions including Swaps (Aug) |  |  | 49.20B |

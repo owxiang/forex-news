@@ -15,6 +15,8 @@
 | 11:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 12:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 12:30 | INR | Low | Infrastructure Output (YoY) (Sep) | 3.0% |  | 6.5% |
+| 13:00 | NZD | Low | GlobalDairyTrade Price Index | 21.9% |  | -1.6% |
+| 13:00 | USD | Low | Milk Auctions | 3,881.0 |  | 3,921.0 |
 | 13:30 | CAD | Low | Common CPI (YoY) (Sep) | 2.7% | 2.6% | 2.5% |
 | 13:30 | CAD | Moderate | Core CPI (YoY) (Sep) | 2.8% |  | 2.6% |
 | 13:30 | CAD | Moderate | Core CPI (MoM) (Sep) | 0.2% |  | 0.0% |
@@ -24,8 +26,6 @@
 | 13:30 | CAD | Low | Trimmed CPI (YoY) (Sep) | 3.1% | 3.0% | 3.0% |
 | 13:55 | USD | Low | Redbook (YoY) | 5.0% |  | 5.9% |
 | 14:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 53 min | NZD | Low | GlobalDairyTrade Price Index |  |  | -1.6% |
-| 53 min | USD | Low | Milk Auctions |  |  | 3,921.0 |
 | 18:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 20:30 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 3.524M |
