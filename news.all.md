@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:45 | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
-| 30 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 03:00 | NZD | Low | Credit Card Spending (YoY) (Sep) |  |  | 3.5% |
+| 02:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 26 min | NZD | Low | Credit Card Spending (YoY) (Sep) |  |  | 3.5% |
 | 05:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 07:00 | GBP | Low | Public Sector Net Borrowing |  | 20.50B | 18.00B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Sep) |  |  | 10.158B |
@@ -18,8 +18,8 @@
 | 12:30 | USD | Moderate | Retail Inventories Ex Auto (Aug) |  | 0.3% | 0.3% |
 | 12:30 | USD | Moderate | US Leading Index (MoM) (Sep) |  | 0.1% | -0.5% |
 | 13:30 | CAD | Low | Common CPI (YoY) (Sep) |  | 2.6% | 2.5% |
-| 13:30 | CAD | Moderate | Core CPI (YoY) (Sep) |  |  | 2.6% |
 | 13:30 | CAD | Moderate | Core CPI (MoM) (Sep) |  |  | 0.0% |
+| 13:30 | CAD | Moderate | Core CPI (YoY) (Sep) |  |  | 2.6% |
 | 13:30 | CAD | Moderate | CPI (MoM) (Sep) |  | -0.1% | -0.1% |
 | 13:30 | CAD | Low | CPI (YoY) (Sep) |  | 2.3% | 1.9% |
 | 13:30 | CAD | Low | Median CPI (YoY) (Sep) |  | 3.0% | 3.1% |

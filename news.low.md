@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:45 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
-| 03:00 | NZD | Credit Card Spending (YoY) (Sep) |  |  | 3.5% |
+| 26 min | NZD | Credit Card Spending (YoY) (Sep) |  |  | 3.5% |
 | 07:00 | GBP | Public Sector Net Borrowing |  | 20.50B | 18.00B |
 | 07:00 | GBP | Public Sector Net Cash Requirement (Sep) |  |  | 10.158B |
 | 07:00 | CHF | Trade Balance (Sep) |  | 5.220B | 4.009B |
