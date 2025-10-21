@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 39 min | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
-| 02:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 00:45 | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
+| 30 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 03:00 | NZD | Low | Credit Card Spending (YoY) (Sep) |  |  | 3.5% |
 | 05:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 07:00 | GBP | Low | Public Sector Net Borrowing |  | 20.50B | 18.00B |
@@ -18,10 +18,10 @@
 | 12:30 | USD | Moderate | Retail Inventories Ex Auto (Aug) |  | 0.3% | 0.3% |
 | 12:30 | USD | Moderate | US Leading Index (MoM) (Sep) |  | 0.1% | -0.5% |
 | 13:30 | CAD | Low | Common CPI (YoY) (Sep) |  | 2.6% | 2.5% |
-| 13:30 | CAD | Moderate | Core CPI (MoM) (Sep) |  |  | 0.0% |
 | 13:30 | CAD | Moderate | Core CPI (YoY) (Sep) |  |  | 2.6% |
-| 13:30 | CAD | Low | CPI (YoY) (Sep) |  | 2.3% | 1.9% |
+| 13:30 | CAD | Moderate | Core CPI (MoM) (Sep) |  |  | 0.0% |
 | 13:30 | CAD | Moderate | CPI (MoM) (Sep) |  | -0.1% | -0.1% |
+| 13:30 | CAD | Low | CPI (YoY) (Sep) |  | 2.3% | 1.9% |
 | 13:30 | CAD | Low | Median CPI (YoY) (Sep) |  | 3.0% | 3.1% |
 | 13:30 | CAD | Low | Trimmed CPI (YoY) (Sep) |  | 3.0% | 3.0% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.9% |
@@ -35,6 +35,6 @@
 | 22:00 | USD | Low | Overall Net Capital Flow (Aug) |  |  | 2.10B |
 | 22:00 | USD | Moderate | TIC Net Long-Term Transactions (Aug) |  |  | 49.2B |
 | 22:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Aug) |  |  | 49.20B |
-| 22:00 | KRW | Low | PPI (YoY) (Sep) |  |  | 0.6% |
 | 22:00 | KRW | Low | PPI (MoM) (Sep) |  |  | -0.1% |
+| 22:00 | KRW | Low | PPI (YoY) (Sep) |  |  | 0.6% |
 | 23:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
