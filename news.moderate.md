@@ -13,6 +13,5 @@
 | 14:00 | USD | Fed Waller Speaks |  |  |  |
 | 18:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 20:30 | USD | Fed Waller Speaks |  |  |  |
-| 23 min | USD | API Weekly Crude Oil Stock |  |  | 3.524M |
-| 53 min | USD | TIC Net Long-Term Transactions (Aug) |  |  | 49.2B |
-| 23:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 21:30 | USD | API Weekly Crude Oil Stock | -2.980M |  | 3.524M |
+| 54 min | EUR | German Buba President Nagel Speaks |  |  |  |

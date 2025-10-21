@@ -28,11 +28,7 @@
 | 14:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 18:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 20:30 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 23 min | USD | Moderate | API Weekly Crude Oil Stock |  |  | 3.524M |
-| 53 min | USD | Low | US Foreign Buying, T-bonds (Aug) |  |  | 58.20B |
-| 53 min | USD | Low | Overall Net Capital Flow (Aug) |  |  | 2.10B |
-| 53 min | USD | Moderate | TIC Net Long-Term Transactions (Aug) |  |  | 49.2B |
-| 53 min | USD | Low | TIC Net Long-Term Transactions including Swaps (Aug) |  |  | 49.20B |
-| 53 min | KRW | Low | PPI (MoM) (Sep) |  |  | -0.1% |
-| 53 min | KRW | Low | PPI (YoY) (Sep) |  |  | 0.6% |
-| 23:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | -2.980M |  | 3.524M |
+| 22:00 | KRW | Low | PPI (MoM) (Sep) | 0.4% |  | -0.1% |
+| 22:00 | KRW | Low | PPI (YoY) (Sep) | 1.2% |  | 0.6% |
+| 54 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
