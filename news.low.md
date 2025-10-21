@@ -4,11 +4,11 @@
 |------|----------|-------|--------|----------|----------|
 | 00:45 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
 | 03:00 | NZD | Credit Card Spending (YoY) (Sep) | 0.2% |  | 3.3% |
-| 53 min | GBP | Public Sector Net Borrowing |  | 20.70B | 18.00B |
-| 53 min | GBP | Public Sector Net Cash Requirement (Sep) |  |  | 10.158B |
-| 53 min | CHF | Trade Balance (Sep) |  | 5.220B | 4.009B |
-| 08:00 | CHF | M3 Money Supply (Sep) |  |  | 1,196.9B |
-| 08:00 | ZAR | Leading Indicators (Aug) |  |  | 113.70% |
+| 07:00 | GBP | Public Sector Net Borrowing | 20.20B | 20.70B | 18.00B |
+| 07:00 | GBP | Public Sector Net Cash Requirement (Sep) | -10.862B |  | 10.201B |
+| 07:00 | CHF | Trade Balance (Sep) | 4.073B | 5.220B | 3.876B |
+| 50 min | CHF | M3 Money Supply (Sep) |  |  | 1,196.9B |
+| 50 min | ZAR | Leading Indicators (Aug) |  |  | 113.70% |
 | 13:30 | CAD | Common CPI (YoY) (Sep) |  | 2.6% | 2.5% |
 | 13:30 | CAD | CPI (YoY) (Sep) |  | 2.3% | 1.9% |
 | 13:30 | CAD | Median CPI (YoY) (Sep) |  | 3.0% | 3.1% |

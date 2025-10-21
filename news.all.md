@@ -6,12 +6,12 @@
 | 02:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 03:00 | NZD | Low | Credit Card Spending (YoY) (Sep) | 0.2% |  | 3.3% |
 | 05:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 53 min | GBP | Low | Public Sector Net Borrowing |  | 20.70B | 18.00B |
-| 53 min | GBP | Low | Public Sector Net Cash Requirement (Sep) |  |  | 10.158B |
-| 53 min | CHF | Low | Trade Balance (Sep) |  | 5.220B | 4.009B |
-| 08:00 | CHF | Low | M3 Money Supply (Sep) |  |  | 1,196.9B |
-| 08:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 08:00 | ZAR | Low | Leading Indicators (Aug) |  |  | 113.70% |
+| 07:00 | GBP | Low | Public Sector Net Borrowing | 20.20B | 20.70B | 18.00B |
+| 07:00 | GBP | Low | Public Sector Net Cash Requirement (Sep) | -10.862B |  | 10.201B |
+| 07:00 | CHF | Low | Trade Balance (Sep) | 4.073B | 5.220B | 3.876B |
+| 50 min | CHF | Low | M3 Money Supply (Sep) |  |  | 1,196.9B |
+| 50 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 50 min | ZAR | Low | Leading Indicators (Aug) |  |  | 113.70% |
 | 11:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 12:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 12:30 | USD | Moderate | Business Inventories (MoM) (Aug) |  | 0.1% | 0.2% |
@@ -20,8 +20,8 @@
 | 13:30 | CAD | Low | Common CPI (YoY) (Sep) |  | 2.6% | 2.5% |
 | 13:30 | CAD | Moderate | Core CPI (MoM) (Sep) |  |  | 0.0% |
 | 13:30 | CAD | Moderate | Core CPI (YoY) (Sep) |  |  | 2.6% |
-| 13:30 | CAD | Low | CPI (YoY) (Sep) |  | 2.3% | 1.9% |
 | 13:30 | CAD | Moderate | CPI (MoM) (Sep) |  | -0.1% | -0.1% |
+| 13:30 | CAD | Low | CPI (YoY) (Sep) |  | 2.3% | 1.9% |
 | 13:30 | CAD | Low | Median CPI (YoY) (Sep) |  | 3.0% | 3.1% |
 | 13:30 | CAD | Low | Trimmed CPI (YoY) (Sep) |  | 3.0% | 3.0% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.9% |

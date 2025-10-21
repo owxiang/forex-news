@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 02:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 05:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 08:00 | EUR | ECB's Lane Speaks |  |  |  |
+| 50 min | EUR | ECB's Lane Speaks |  |  |  |
 | 11:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 12:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 12:30 | USD | Business Inventories (MoM) (Aug) |  | 0.1% | 0.2% |
