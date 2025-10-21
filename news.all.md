@@ -26,7 +26,7 @@
 | 13:30 | CAD | Low | Trimmed CPI (YoY) (Sep) | 3.1% | 3.0% | 3.0% |
 | 13:55 | USD | Low | Redbook (YoY) | 5.0% |  | 5.9% |
 | 14:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 18:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 52 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 20:30 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 3.524M |
 | 22:00 | USD | Low | US Foreign Buying, T-bonds (Aug) |  |  | 58.20B |
