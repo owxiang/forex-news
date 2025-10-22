@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 44 min | JPY | Adjusted Trade Balance |  | -0.11T | -0.15T |
-| 44 min | JPY | Exports (YoY) (Sep) |  | 4.6% | -0.1% |
-| 44 min | JPY | Trade Balance (Sep) |  | 22.0B | -242.8B |
+| 00:50 | JPY | Adjusted Trade Balance | -0.31T | -0.11T | -0.15T |
+| 00:50 | JPY | Exports (YoY) (Sep) | 4.2% | 4.6% | -0.1% |
+| 00:50 | JPY | Trade Balance (Sep) | -234.6B | 22.0B | -242.8B |
 | 07:00 | GBP | CPI (MoM) (Sep) |  |  | 0.3% |
 | 07:00 | GBP | CPIH (YoY) |  |  | 4.2% |
 | 07:00 | GBP | PPI Input (MoM) (Sep) |  | 0.3% | 0.8% |
