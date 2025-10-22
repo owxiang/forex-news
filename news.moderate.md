@@ -10,7 +10,7 @@
 | 07:00 | GBP | PPI Input (MoM) (Sep) | -0.1% | 0.3% | 1.1% |
 | 08:30 | IDR | Interest Rate Decision | 4.75% | 4.50% | 4.75% |
 | 12:00 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 13 min | EUR | ECB President Lagarde Speaks |  |  |  |
+| 13:25 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.703M |
 | 16:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 18:00 | USD | 20-Year Bond Auction |  |  | 4.613% |

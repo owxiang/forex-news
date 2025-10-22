@@ -8,16 +8,16 @@
 | 00:50 | JPY | Moderate | Trade Balance (Sep) | -234.6B | 22.0B | -242.8B |
 | 07:00 | GBP | Low | Core CPI (YoY) (Sep) | 3.5% | 3.7% | 3.6% |
 | 07:00 | GBP | Low | Core CPI (MoM) (Sep) | 0.0% | 0.2% | 0.3% |
-| 07:00 | GBP | Low | Core PPI Output (MoM) (Sep) | 0.1% |  | 0.4% |
 | 07:00 | GBP | Low | Core PPI Output (YoY) (Sep) | 3.6% |  | 1.9% |
-| 07:00 | GBP | Low | Core RPI (YoY) (Sep) | 4.4% |  | 4.4% |
+| 07:00 | GBP | Low | Core PPI Output (MoM) (Sep) | 0.1% |  | 0.4% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Sep) | -0.4% |  | 0.4% |
+| 07:00 | GBP | Low | Core RPI (YoY) (Sep) | 4.4% |  | 4.4% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Sep) | 0.0% |  | 0.3% |
 | 07:00 | GBP | High | CPI (YoY) (Sep) | 3.8% | 4.0% | 3.8% |
 | 07:00 | GBP | Low | CPI, n.s.a (Sep) | 139.30 |  | 139.30 |
 | 07:00 | GBP | Moderate | CPIH (YoY) | 4.1% |  | 4.1% |
-| 07:00 | GBP | Low | PPI Input (YoY) (Sep) | 0.8% |  | 0.7% |
 | 07:00 | GBP | Moderate | PPI Input (MoM) (Sep) | -0.1% | 0.3% | 1.1% |
+| 07:00 | GBP | Low | PPI Input (YoY) (Sep) | 0.8% |  | 0.7% |
 | 07:00 | GBP | Low | PPI Output (YoY) (Sep) | 3.4% |  | 1.1% |
 | 07:00 | GBP | Low | PPI Output (MoM) (Sep) | 0.0% | 0.2% | 0.6% |
 | 07:00 | GBP | Low | RPI (MoM) (Sep) | -0.4% | -0.1% | 0.4% |
@@ -39,7 +39,7 @@
 | 12:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 13:00 | MXN | Low | Economic Activity (MoM) (Aug) | 0.60% | 0.10% | -0.90% |
 | 13:00 | MXN | Low | Economic Activity (YoY) (Aug) | -0.90% | -1.00% | -1.10% |
-| 13 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 13:25 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 15:30 | USD | High | Crude Oil Inventories |  | 2.200M | 3.524M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -1.167M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | -1.754M |
@@ -49,7 +49,7 @@
 | 15:30 | USD | Low | Gasoline Production |  |  | -0.394M |
 | 15:30 | USD | Low | Heating Oil Stockpiles |  |  | -0.519M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -6.7% |
-| 15:30 | USD | Low | Gasoline Inventories |  |  | -0.267M |
+| 15:30 | USD | Low | Gasoline Inventories |  | -0.950M | -0.267M |
 | 16:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 18:00 | USD | Moderate | 20-Year Bond Auction |  |  | 4.613% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 0.738B |

@@ -5,10 +5,10 @@
 | 00:50 | JPY | Imports (YoY) (Sep) | 3.3% | 0.6% | -5.2% |
 | 07:00 | GBP | Core CPI (YoY) (Sep) | 3.5% | 3.7% | 3.6% |
 | 07:00 | GBP | Core CPI (MoM) (Sep) | 0.0% | 0.2% | 0.3% |
-| 07:00 | GBP | Core PPI Output (MoM) (Sep) | 0.1% |  | 0.4% |
 | 07:00 | GBP | Core PPI Output (YoY) (Sep) | 3.6% |  | 1.9% |
-| 07:00 | GBP | Core RPI (YoY) (Sep) | 4.4% |  | 4.4% |
+| 07:00 | GBP | Core PPI Output (MoM) (Sep) | 0.1% |  | 0.4% |
 | 07:00 | GBP | Core RPI (MoM) (Sep) | -0.4% |  | 0.4% |
+| 07:00 | GBP | Core RPI (YoY) (Sep) | 4.4% |  | 4.4% |
 | 07:00 | GBP | CPI, n.s.a (Sep) | 139.30 |  | 139.30 |
 | 07:00 | GBP | PPI Input (YoY) (Sep) | 0.8% |  | 0.7% |
 | 07:00 | GBP | PPI Output (YoY) (Sep) | 3.4% |  | 1.1% |
@@ -37,5 +37,5 @@
 | 15:30 | USD | Gasoline Production |  |  | -0.394M |
 | 15:30 | USD | Heating Oil Stockpiles |  |  | -0.519M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -6.7% |
-| 15:30 | USD | Gasoline Inventories |  |  | -0.267M |
+| 15:30 | USD | Gasoline Inventories |  | -0.950M | -0.267M |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | 0.738B |
