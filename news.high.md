@@ -1,6 +1,6 @@
-## 22 October 2025 - High Impact Forex News
+## 23 October 2025 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | GBP | CPI (YoY) (Sep) | 3.8% | 4.0% | 3.8% |
-| 15:30 | USD | Crude Oil Inventories | -0.961M | 2.200M | 3.524M |
+| 13:30 | USD | Initial Jobless Claims |  | 223K | 218K |
+| 15:00 | USD | Existing Home Sales (Sep) |  | 4.06M | 4.00M |

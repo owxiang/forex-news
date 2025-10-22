@@ -1,18 +1,17 @@
-## 22 October 2025 - Moderate Impact Forex News
+## 23 October 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Adjusted Trade Balance | -0.31T | -0.11T | -0.15T |
-| 00:50 | JPY | Exports (YoY) (Sep) | 4.2% | 4.6% | -0.1% |
-| 00:50 | JPY | Trade Balance (Sep) | -234.6B | 22.0B | -242.8B |
-| 07:00 | GBP | CPI (MoM) (Sep) | 0.0% |  | 0.3% |
-| 07:00 | GBP | CPIH (YoY) | 4.1% |  | 4.1% |
-| 07:00 | GBP | PPI Input (MoM) (Sep) | -0.1% | 0.3% | 1.1% |
-| 08:30 | IDR | Interest Rate Decision | 4.75% | 4.50% | 4.75% |
-| 12:00 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 13:25 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 15:30 | USD | Cushing Crude Oil Inventories | -0.770M |  | -0.703M |
-| 16:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 18:00 | USD | 20-Year Bond Auction | 4.506% |  | 4.613% |
-| 21:00 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
-| 21:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 06:00 | SGD | Core CPI (YoY) (Sep) |  | 0.20% | 0.30% |
+| 06:00 | SGD | CPI (YoY) (Sep) |  | 0.6% | 0.5% |
+| 08:25 | CHF | SNB Monetary Policy Assessment |  |  |  |
+| 13:30 | USD | Continuing Jobless Claims |  | 1,930K | 1,926K |
+| 13:30 | CAD | Core Retail Sales (MoM) (Aug) |  | 1.3% | -1.2% |
+| 13:30 | CAD | Retail Sales (MoM) (Aug) |  |  | -0.8% |
+| 13:30 | CAD | Retail Sales (MoM) (Aug) |  | 1.0% | -0.8% |
+| 14:30 | EUR | ECB's Lane Speaks |  |  |  |
+| 15:00 | USD | Existing Home Sales (MoM) (Sep) |  |  | -0.2% |
+| 15:00 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 15:25 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 18:00 | USD | 5-Year TIPS Auction |  |  | 1.650% |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 6,596B |

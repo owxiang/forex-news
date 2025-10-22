@@ -1,41 +1,36 @@
-## 22 October 2025 - Low Impact Forex News
+## 23 October 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Imports (YoY) (Sep) | 3.3% | 0.6% | -5.2% |
-| 07:00 | GBP | Core CPI (MoM) (Sep) | 0.0% | 0.2% | 0.3% |
-| 07:00 | GBP | Core CPI (YoY) (Sep) | 3.5% | 3.7% | 3.6% |
-| 07:00 | GBP | Core PPI Output (MoM) (Sep) | 0.1% |  | 0.4% |
-| 07:00 | GBP | Core PPI Output (YoY) (Sep) | 3.6% |  | 1.9% |
-| 07:00 | GBP | Core RPI (YoY) (Sep) | 4.4% |  | 4.4% |
-| 07:00 | GBP | Core RPI (MoM) (Sep) | -0.4% |  | 0.4% |
-| 07:00 | GBP | CPI, n.s.a (Sep) | 139.30 |  | 139.30 |
-| 07:00 | GBP | PPI Input (YoY) (Sep) | 0.8% |  | 0.7% |
-| 07:00 | GBP | PPI Output (YoY) (Sep) | 3.4% |  | 1.1% |
-| 07:00 | GBP | PPI Output (MoM) (Sep) | 0.0% | 0.2% | 0.6% |
-| 07:00 | GBP | RPI (MoM) (Sep) | -0.4% | -0.1% | 0.4% |
-| 07:00 | GBP | RPI (YoY) (Sep) | 4.5% | 4.7% | 4.6% |
-| 08:30 | IDR | Deposit Facility Rate (Oct) | 3.75% | 3.50% | 3.75% |
-| 08:30 | IDR | Lending Facility Rate (Oct) | 5.50% | 5.25% | 5.50% |
-| 08:30 | IDR | Loans (YoY) (Sep) | 7.70% |  | 7.56% |
-| 09:00 | ZAR | Core CPI (YoY) (Sep) | 3.2% |  | 3.1% |
-| 09:00 | ZAR | Core CPI (MoM) (Sep) | 0.3% |  | 0.1% |
-| 09:00 | ZAR | CPI (YoY) (Sep) | 3.4% | 3.5% | 3.3% |
-| 09:00 | ZAR | CPI (MoM) (Sep) | 0.2% |  | -0.1% |
-| 09:30 | GBP | House Price Index (YoY) | 3.0% | 2.5% | 2.8% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.37% |  | 6.42% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) | -0.3% |  | -1.8% |
-| 12:00 | USD | MBA Purchase Index | 157.3 |  | 166.0 |
-| 12:00 | USD | Mortgage Market Index | 316.2 |  | 317.2 |
-| 12:00 | USD | Mortgage Refinance Index | 1,214.7 |  | 1,168.0 |
-| 13:00 | MXN | Economic Activity (YoY) (Aug) | -0.90% | -1.00% | -1.10% |
-| 13:00 | MXN | Economic Activity (MoM) (Aug) | 0.60% | 0.10% | -0.90% |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) | 0.600M |  | -1.167M |
-| 15:30 | USD | Crude Oil Imports | 0.656M |  | -1.754M |
-| 15:30 | USD | Distillate Fuel Production | 0.040M |  | -0.577M |
-| 15:30 | USD | EIA Weekly Distillates Stocks | -1.479M |  | -4.529M |
-| 15:30 | USD | Gasoline Production | 0.235M |  | -0.394M |
-| 15:30 | USD | Heating Oil Stockpiles | 0.088M |  | -0.519M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 2.9% |  | -6.7% |
-| 15:30 | USD | Gasoline Inventories | -2.147M | -0.950M | -0.267M |
-| 18:30 | BRL | Foreign Exchange Flows | -2.016B |  | 0.738B |
+| 44 min | JPY | Foreign Bonds Buying |  |  | 596.4B |
+| 44 min | JPY | Foreign Investments in Japanese Stocks |  |  | 1,885.0B |
+| 01:30 | AUD | NAB Quarterly Business Confidence |  |  | -1 |
+| 01:30 | AUD | RBA Bulletin |  |  |  |
+| 02:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
+| 02:00 | KRW | Interest Rate Decision (Oct) |  | 2.50% | 2.50% |
+| 04:00 | IDR | M2 Money Supply (YoY) (Sep) |  |  | 7.60% |
+| 06:00 | SGD | CPI (MoM) (Sep) |  |  | 0.50% |
+| 07:00 | NOK | Unemployment Rate (Sep) |  |  | 4.9% |
+| 07:45 | EUR | French Business Survey (Oct) |  | 96 | 96 |
+| 09:00 | EUR | Spanish Trade Balance (Aug) |  |  | -4.01B |
+| 09:30 | HKD | CPI (MoM) (Sep) |  |  | 0.10% |
+| 09:30 | HKD | CPI (YoY) (Sep) |  |  | 1.10% |
+| 11:00 | GBP | CBI Industrial Trends Orders (Oct) |  | -28 | -27 |
+| 13:00 | MXN | 1st Half-Month Core CPI (Oct) |  | 0.19% | 0.22% |
+| 13:00 | MXN | 1st Half-Month CPI (Oct) |  | 0.36% | 0.18% |
+| 13:00 | MXN | Retail Sales (YoY) (Aug) |  |  | 2.4% |
+| 13:00 | MXN | Retail Sales (MoM) (Aug) |  | 0.2% | 0.1% |
+| 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
+| 13:30 | USD | Chicago Fed National Activity (Sep) |  |  | -0.12 |
+| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 237.50K |
+| 15:00 | EUR | Consumer Confidence (Oct) |  | -15.0 | -14.9 |
+| 15:30 | USD | Natural Gas Storage |  | 78B | 80B |
+| 16:00 | USD | KC Fed Composite Index (Oct) |  |  | 4 |
+| 16:00 | USD | KC Fed Manufacturing Index (Oct) |  |  | 4 |
+| 16:30 | USD | 4-Week Bill Auction |  |  | 4.030% |
+| 16:30 | USD | 8-Week Bill Auction |  |  | 3.960% |
+| 17:00 | ZAR | SARB Monetary Policy Review |  |  |  |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.988T |
+| 23:00 | AUD | Manufacturing & Services PMI (Oct) |  |  | 52.40 |
+| 23:00 | AUD | Judo Bank Manufacturing PMI (Oct) |  |  | 51.4 |
+| 23:00 | AUD | Judo Bank Services PMI (Oct) |  |  | 52.4 |
