@@ -7,8 +7,8 @@
 | 07:00 | GBP | Core CPI (MoM) (Sep) | 0.0% | 0.2% | 0.3% |
 | 07:00 | GBP | Core PPI Output (YoY) (Sep) | 3.6% |  | 1.9% |
 | 07:00 | GBP | Core PPI Output (MoM) (Sep) | 0.1% |  | 0.4% |
-| 07:00 | GBP | Core RPI (YoY) (Sep) | 4.4% |  | 4.4% |
 | 07:00 | GBP | Core RPI (MoM) (Sep) | -0.4% |  | 0.4% |
+| 07:00 | GBP | Core RPI (YoY) (Sep) | 4.4% |  | 4.4% |
 | 07:00 | GBP | CPI, n.s.a (Sep) | 139.30 |  | 139.30 |
 | 07:00 | GBP | PPI Input (YoY) (Sep) | 0.8% |  | 0.7% |
 | 07:00 | GBP | PPI Output (YoY) (Sep) | 3.4% |  | 1.1% |

@@ -10,8 +10,8 @@
 | 07:00 | GBP | Low | Core CPI (MoM) (Sep) | 0.0% | 0.2% | 0.3% |
 | 07:00 | GBP | Low | Core PPI Output (YoY) (Sep) | 3.6% |  | 1.9% |
 | 07:00 | GBP | Low | Core PPI Output (MoM) (Sep) | 0.1% |  | 0.4% |
-| 07:00 | GBP | Low | Core RPI (YoY) (Sep) | 4.4% |  | 4.4% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Sep) | -0.4% |  | 0.4% |
+| 07:00 | GBP | Low | Core RPI (YoY) (Sep) | 4.4% |  | 4.4% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Sep) | 0.0% |  | 0.3% |
 | 07:00 | GBP | High | CPI (YoY) (Sep) | 3.8% | 4.0% | 3.8% |
 | 07:00 | GBP | Low | CPI, n.s.a (Sep) | 139.30 |  | 139.30 |
