@@ -7,8 +7,8 @@
 | 07:00 | GBP | Core CPI (MoM) (Sep) | 0.0% | 0.2% | 0.3% |
 | 07:00 | GBP | Core PPI Output (YoY) (Sep) | 3.6% |  | 1.9% |
 | 07:00 | GBP | Core PPI Output (MoM) (Sep) | 0.1% |  | 0.4% |
-| 07:00 | GBP | Core RPI (YoY) (Sep) | 4.4% |  | 4.4% |
 | 07:00 | GBP | Core RPI (MoM) (Sep) | -0.4% |  | 0.4% |
+| 07:00 | GBP | Core RPI (YoY) (Sep) | 4.4% |  | 4.4% |
 | 07:00 | GBP | CPI, n.s.a (Sep) | 139.30 |  | 139.30 |
 | 07:00 | GBP | PPI Input (YoY) (Sep) | 0.8% |  | 0.7% |
 | 07:00 | GBP | PPI Output (YoY) (Sep) | 3.4% |  | 1.1% |
@@ -23,13 +23,13 @@
 | 09:00 | ZAR | CPI (YoY) (Sep) | 3.4% | 3.5% | 3.3% |
 | 09:00 | ZAR | CPI (MoM) (Sep) | 0.2% |  | -0.1% |
 | 09:30 | GBP | House Price Index (YoY) | 3.0% | 2.5% | 2.8% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.42% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -1.8% |
-| 12:00 | USD | MBA Purchase Index |  |  | 166.0 |
-| 12:00 | USD | Mortgage Market Index |  |  | 317.2 |
-| 12:00 | USD | Mortgage Refinance Index |  |  | 1,168.0 |
-| 13:00 | MXN | Economic Activity (MoM) (Aug) |  | 0.10% | -0.90% |
-| 13:00 | MXN | Economic Activity (YoY) (Aug) |  | -1.00% | -1.10% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.37% |  | 6.42% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | -0.3% |  | -1.8% |
+| 12:00 | USD | MBA Purchase Index | 157.3 |  | 166.0 |
+| 12:00 | USD | Mortgage Market Index | 316.2 |  | 317.2 |
+| 12:00 | USD | Mortgage Refinance Index | 1,214.7 |  | 1,168.0 |
+| 53 min | MXN | Economic Activity (MoM) (Aug) |  | 0.10% | -0.90% |
+| 53 min | MXN | Economic Activity (YoY) (Aug) |  | -1.00% | -1.10% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -1.167M |
 | 15:30 | USD | Crude Oil Imports |  |  | -1.754M |
 | 15:30 | USD | Distillate Fuel Production |  |  | -0.577M |
