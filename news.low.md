@@ -3,18 +3,18 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Imports (YoY) (Sep) | 3.3% | 0.6% | -5.2% |
-| 52 min | GBP | Core CPI (MoM) (Sep) |  | 0.2% | 0.3% |
-| 52 min | GBP | Core CPI (YoY) (Sep) |  | 3.7% | 3.6% |
-| 52 min | GBP | Core PPI Output (MoM) (Sep) |  |  | 0.3% |
-| 52 min | GBP | Core PPI Output (YoY) (Sep) |  |  | 1.5% |
-| 52 min | GBP | Core RPI (MoM) (Sep) |  |  | 0.4% |
-| 52 min | GBP | Core RPI (YoY) (Sep) |  |  | 4.4% |
-| 52 min | GBP | CPI, n.s.a (Sep) |  |  | 139.30 |
-| 52 min | GBP | PPI Input (YoY) (Sep) |  |  | -0.1% |
-| 52 min | GBP | PPI Output (MoM) (Sep) |  | 0.2% | 0.5% |
-| 52 min | GBP | PPI Output (YoY) (Sep) |  |  | 0.3% |
-| 52 min | GBP | RPI (MoM) (Sep) |  | -0.1% | 0.4% |
-| 52 min | GBP | RPI (YoY) (Sep) |  | 4.7% | 4.6% |
+| 07:00 | GBP | Core CPI (MoM) (Sep) | 0.0% | 0.2% | 0.3% |
+| 07:00 | GBP | Core CPI (YoY) (Sep) | 3.5% | 3.7% | 3.6% |
+| 07:00 | GBP | Core PPI Output (MoM) (Sep) | 0.1% |  | 0.3% |
+| 07:00 | GBP | Core PPI Output (YoY) (Sep) | 3.6% |  | 1.5% |
+| 07:00 | GBP | Core RPI (MoM) (Sep) | -0.4% |  | 0.4% |
+| 07:00 | GBP | Core RPI (YoY) (Sep) | 4.4% |  | 4.4% |
+| 07:00 | GBP | CPI, n.s.a (Sep) | 139.30 |  | 139.30 |
+| 07:00 | GBP | PPI Input (YoY) (Sep) | 0.8% |  | -0.1% |
+| 07:00 | GBP | PPI Output (YoY) (Sep) | 3.4% |  | 0.3% |
+| 07:00 | GBP | PPI Output (MoM) (Sep) | 0.0% | 0.2% | 0.5% |
+| 07:00 | GBP | RPI (MoM) (Sep) | -0.4% | -0.1% | 0.4% |
+| 07:00 | GBP | RPI (YoY) (Sep) | 4.5% | 4.7% | 4.6% |
 | 08:30 | IDR | Deposit Facility Rate (Oct) |  | 3.50% | 3.75% |
 | 08:30 | IDR | Lending Facility Rate (Oct) |  | 5.25% | 5.50% |
 | 08:30 | IDR | Loans (YoY) (Sep) |  |  | 7.56% |
