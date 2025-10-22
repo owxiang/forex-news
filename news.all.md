@@ -52,6 +52,6 @@
 | 15:30 | USD | Low | Gasoline Inventories | -2.147M | -0.950M | -0.267M |
 | 16:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 18:00 | USD | Moderate | 20-Year Bond Auction | 4.506% |  | 4.613% |
-| 22 min | BRL | Low | Foreign Exchange Flows |  |  | 0.738B |
+| 18:30 | BRL | Low | Foreign Exchange Flows | -2.016B |  | 0.738B |
 | 21:00 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
 | 21:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
