@@ -11,8 +11,8 @@
 | 08:30 | IDR | Interest Rate Decision | 4.75% | 4.50% | 4.75% |
 | 12:00 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 13:25 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 22 min | USD | Cushing Crude Oil Inventories |  |  | -0.703M |
-| 52 min | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 15:30 | USD | Cushing Crude Oil Inventories | -0.770M |  | -0.703M |
+| 16:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 18:00 | USD | 20-Year Bond Auction |  |  | 4.613% |
 | 21:00 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
 | 21:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
