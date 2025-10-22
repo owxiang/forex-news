@@ -3,10 +3,10 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Imports (YoY) (Sep) | 3.3% | 0.6% | -5.2% |
-| 07:00 | GBP | Core CPI (YoY) (Sep) |  | 3.7% | 3.6% |
 | 07:00 | GBP | Core CPI (MoM) (Sep) |  | 0.2% | 0.3% |
-| 07:00 | GBP | Core PPI Output (YoY) (Sep) |  |  | 1.5% |
+| 07:00 | GBP | Core CPI (YoY) (Sep) |  | 3.7% | 3.6% |
 | 07:00 | GBP | Core PPI Output (MoM) (Sep) |  |  | 0.3% |
+| 07:00 | GBP | Core PPI Output (YoY) (Sep) |  |  | 1.5% |
 | 07:00 | GBP | Core RPI (YoY) (Sep) |  |  | 4.4% |
 | 07:00 | GBP | Core RPI (MoM) (Sep) |  |  | 0.4% |
 | 07:00 | GBP | CPI, n.s.a (Sep) |  |  | 139.30 |
@@ -28,8 +28,8 @@
 | 12:00 | USD | MBA Purchase Index |  |  | 166.0 |
 | 12:00 | USD | Mortgage Market Index |  |  | 317.2 |
 | 12:00 | USD | Mortgage Refinance Index |  |  | 1,168.0 |
-| 13:00 | MXN | Economic Activity (MoM) (Aug) |  | 0.10% | -0.90% |
 | 13:00 | MXN | Economic Activity (YoY) (Aug) |  | -1.00% | -1.10% |
+| 13:00 | MXN | Economic Activity (MoM) (Aug) |  | 0.10% | -0.90% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -1.167M |
 | 15:30 | USD | Crude Oil Imports |  |  | -1.754M |
 | 15:30 | USD | Distillate Fuel Production |  |  | -0.577M |
