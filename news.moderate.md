@@ -7,8 +7,8 @@
 | 00:50 | JPY | Trade Balance (Sep) | -234.6B | 22.0B | -242.8B |
 | 07:00 | GBP | CPI (MoM) (Sep) | 0.0% |  | 0.3% |
 | 07:00 | GBP | CPIH (YoY) | 4.1% |  | 4.1% |
-| 07:00 | GBP | PPI Input (MoM) (Sep) | -0.1% | 0.3% | 0.8% |
-| 08:30 | IDR | Interest Rate Decision |  | 4.50% | 4.75% |
+| 07:00 | GBP | PPI Input (MoM) (Sep) | -0.1% | 0.3% | 1.1% |
+| 22 min | IDR | Interest Rate Decision |  | 4.50% | 4.75% |
 | 12:00 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 13:25 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.703M |

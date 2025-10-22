@@ -8,28 +8,28 @@
 | 00:50 | JPY | Moderate | Trade Balance (Sep) | -234.6B | 22.0B | -242.8B |
 | 07:00 | GBP | Low | Core CPI (MoM) (Sep) | 0.0% | 0.2% | 0.3% |
 | 07:00 | GBP | Low | Core CPI (YoY) (Sep) | 3.5% | 3.7% | 3.6% |
-| 07:00 | GBP | Low | Core PPI Output (MoM) (Sep) | 0.1% |  | 0.3% |
-| 07:00 | GBP | Low | Core PPI Output (YoY) (Sep) | 3.6% |  | 1.5% |
+| 07:00 | GBP | Low | Core PPI Output (YoY) (Sep) | 3.6% |  | 1.9% |
+| 07:00 | GBP | Low | Core PPI Output (MoM) (Sep) | 0.1% |  | 0.4% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Sep) | -0.4% |  | 0.4% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Sep) | 4.4% |  | 4.4% |
-| 07:00 | GBP | High | CPI (YoY) (Sep) | 3.8% | 4.0% | 3.8% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Sep) | 0.0% |  | 0.3% |
+| 07:00 | GBP | High | CPI (YoY) (Sep) | 3.8% | 4.0% | 3.8% |
 | 07:00 | GBP | Low | CPI, n.s.a (Sep) | 139.30 |  | 139.30 |
 | 07:00 | GBP | Moderate | CPIH (YoY) | 4.1% |  | 4.1% |
-| 07:00 | GBP | Low | PPI Input (YoY) (Sep) | 0.8% |  | -0.1% |
-| 07:00 | GBP | Moderate | PPI Input (MoM) (Sep) | -0.1% | 0.3% | 0.8% |
-| 07:00 | GBP | Low | PPI Output (YoY) (Sep) | 3.4% |  | 0.3% |
-| 07:00 | GBP | Low | PPI Output (MoM) (Sep) | 0.0% | 0.2% | 0.5% |
-| 07:00 | GBP | Low | RPI (MoM) (Sep) | -0.4% | -0.1% | 0.4% |
+| 07:00 | GBP | Low | PPI Input (YoY) (Sep) | 0.8% |  | 0.7% |
+| 07:00 | GBP | Moderate | PPI Input (MoM) (Sep) | -0.1% | 0.3% | 1.1% |
+| 07:00 | GBP | Low | PPI Output (YoY) (Sep) | 3.4% |  | 1.1% |
+| 07:00 | GBP | Low | PPI Output (MoM) (Sep) | 0.0% | 0.2% | 0.6% |
 | 07:00 | GBP | Low | RPI (YoY) (Sep) | 4.5% | 4.7% | 4.6% |
-| 08:30 | IDR | Moderate | Interest Rate Decision |  | 4.50% | 4.75% |
-| 08:30 | IDR | Low | Deposit Facility Rate (Oct) |  | 3.50% | 3.75% |
-| 08:30 | IDR | Low | Lending Facility Rate (Oct) |  | 5.25% | 5.50% |
-| 08:30 | IDR | Low | Loans (YoY) (Sep) |  |  | 7.56% |
-| 09:00 | ZAR | Low | Core CPI (MoM) (Sep) |  |  | 0.1% |
-| 09:00 | ZAR | Low | Core CPI (YoY) (Sep) |  |  | 3.1% |
-| 09:00 | ZAR | Low | CPI (MoM) (Sep) |  |  | -0.1% |
-| 09:00 | ZAR | Low | CPI (YoY) (Sep) |  | 3.5% | 3.3% |
+| 07:00 | GBP | Low | RPI (MoM) (Sep) | -0.4% | -0.1% | 0.4% |
+| 22 min | IDR | Moderate | Interest Rate Decision |  | 4.50% | 4.75% |
+| 22 min | IDR | Low | Deposit Facility Rate (Oct) |  | 3.50% | 3.75% |
+| 22 min | IDR | Low | Lending Facility Rate (Oct) |  | 5.25% | 5.50% |
+| 22 min | IDR | Low | Loans (YoY) (Sep) |  |  | 7.56% |
+| 52 min | ZAR | Low | Core CPI (MoM) (Sep) |  |  | 0.1% |
+| 52 min | ZAR | Low | Core CPI (YoY) (Sep) |  |  | 3.1% |
+| 52 min | ZAR | Low | CPI (MoM) (Sep) |  |  | -0.1% |
+| 52 min | ZAR | Low | CPI (YoY) (Sep) |  | 3.5% | 3.3% |
 | 09:30 | GBP | Low | House Price Index (YoY) |  | 2.5% | 2.8% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.42% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -1.8% |
