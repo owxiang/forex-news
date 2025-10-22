@@ -6,30 +6,30 @@
 | 00:50 | JPY | Moderate | Exports (YoY) (Sep) | 4.2% | 4.6% | -0.1% |
 | 00:50 | JPY | Low | Imports (YoY) (Sep) | 3.3% | 0.6% | -5.2% |
 | 00:50 | JPY | Moderate | Trade Balance (Sep) | -234.6B | 22.0B | -242.8B |
-| 07:00 | GBP | Low | Core CPI (MoM) (Sep) |  | 0.2% | 0.3% |
 | 07:00 | GBP | Low | Core CPI (YoY) (Sep) |  | 3.7% | 3.6% |
-| 07:00 | GBP | Low | Core PPI Output (MoM) (Sep) |  |  | 0.3% |
+| 07:00 | GBP | Low | Core CPI (MoM) (Sep) |  | 0.2% | 0.3% |
 | 07:00 | GBP | Low | Core PPI Output (YoY) (Sep) |  |  | 1.5% |
-| 07:00 | GBP | Low | Core RPI (MoM) (Sep) |  |  | 0.4% |
+| 07:00 | GBP | Low | Core PPI Output (MoM) (Sep) |  |  | 0.3% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Sep) |  |  | 4.4% |
-| 07:00 | GBP | High | CPI (YoY) (Sep) |  | 4.0% | 3.8% |
+| 07:00 | GBP | Low | Core RPI (MoM) (Sep) |  |  | 0.4% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Sep) |  |  | 0.3% |
+| 07:00 | GBP | High | CPI (YoY) (Sep) |  | 4.0% | 3.8% |
 | 07:00 | GBP | Low | CPI, n.s.a (Sep) |  |  | 139.30 |
 | 07:00 | GBP | Moderate | CPIH (YoY) |  |  | 4.2% |
-| 07:00 | GBP | Low | PPI Input (YoY) (Sep) |  |  | -0.1% |
 | 07:00 | GBP | Moderate | PPI Input (MoM) (Sep) |  | 0.3% | 0.8% |
-| 07:00 | GBP | Low | PPI Output (MoM) (Sep) |  | 0.2% | 0.5% |
+| 07:00 | GBP | Low | PPI Input (YoY) (Sep) |  |  | -0.1% |
 | 07:00 | GBP | Low | PPI Output (YoY) (Sep) |  |  | 0.3% |
+| 07:00 | GBP | Low | PPI Output (MoM) (Sep) |  | 0.2% | 0.5% |
 | 07:00 | GBP | Low | RPI (MoM) (Sep) |  | -0.1% | 0.4% |
 | 07:00 | GBP | Low | RPI (YoY) (Sep) |  | 4.7% | 4.6% |
 | 08:30 | IDR | Moderate | Interest Rate Decision |  | 4.50% | 4.75% |
 | 08:30 | IDR | Low | Deposit Facility Rate (Oct) |  | 3.50% | 3.75% |
 | 08:30 | IDR | Low | Lending Facility Rate (Oct) |  | 5.25% | 5.50% |
 | 08:30 | IDR | Low | Loans (YoY) (Sep) |  |  | 7.56% |
-| 09:00 | ZAR | Low | Core CPI (MoM) (Sep) |  |  | 0.1% |
 | 09:00 | ZAR | Low | Core CPI (YoY) (Sep) |  |  | 3.1% |
-| 09:00 | ZAR | Low | CPI (MoM) (Sep) |  |  | -0.1% |
+| 09:00 | ZAR | Low | Core CPI (MoM) (Sep) |  |  | 0.1% |
 | 09:00 | ZAR | Low | CPI (YoY) (Sep) |  | 3.5% | 3.3% |
+| 09:00 | ZAR | Low | CPI (MoM) (Sep) |  |  | -0.1% |
 | 09:30 | GBP | Low | House Price Index (YoY) |  | 2.5% | 2.8% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.42% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -1.8% |
@@ -37,8 +37,8 @@
 | 12:00 | USD | Low | Mortgage Market Index |  |  | 317.2 |
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 1,168.0 |
 | 12:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 13:00 | MXN | Low | Economic Activity (YoY) (Aug) |  | -1.00% | -1.10% |
 | 13:00 | MXN | Low | Economic Activity (MoM) (Aug) |  | 0.10% | -0.90% |
+| 13:00 | MXN | Low | Economic Activity (YoY) (Aug) |  | -1.00% | -1.10% |
 | 13:25 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 15:30 | USD | High | Crude Oil Inventories |  |  | 3.524M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -1.167M |
