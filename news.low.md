@@ -7,21 +7,21 @@
 | 07:00 | GBP | Core CPI (MoM) (Sep) | 0.0% | 0.2% | 0.3% |
 | 07:00 | GBP | Core PPI Output (YoY) (Sep) | 3.6% |  | 1.9% |
 | 07:00 | GBP | Core PPI Output (MoM) (Sep) | 0.1% |  | 0.4% |
-| 07:00 | GBP | Core RPI (MoM) (Sep) | -0.4% |  | 0.4% |
 | 07:00 | GBP | Core RPI (YoY) (Sep) | 4.4% |  | 4.4% |
+| 07:00 | GBP | Core RPI (MoM) (Sep) | -0.4% |  | 0.4% |
 | 07:00 | GBP | CPI, n.s.a (Sep) | 139.30 |  | 139.30 |
 | 07:00 | GBP | PPI Input (YoY) (Sep) | 0.8% |  | 0.7% |
 | 07:00 | GBP | PPI Output (YoY) (Sep) | 3.4% |  | 1.1% |
 | 07:00 | GBP | PPI Output (MoM) (Sep) | 0.0% | 0.2% | 0.6% |
-| 07:00 | GBP | RPI (YoY) (Sep) | 4.5% | 4.7% | 4.6% |
 | 07:00 | GBP | RPI (MoM) (Sep) | -0.4% | -0.1% | 0.4% |
+| 07:00 | GBP | RPI (YoY) (Sep) | 4.5% | 4.7% | 4.6% |
 | 08:30 | IDR | Deposit Facility Rate (Oct) | 3.75% | 3.50% | 3.75% |
 | 08:30 | IDR | Lending Facility Rate (Oct) | 5.50% | 5.25% | 5.50% |
 | 08:30 | IDR | Loans (YoY) (Sep) | 7.70% |  | 7.56% |
 | 09:00 | ZAR | Core CPI (YoY) (Sep) | 3.2% |  | 3.1% |
 | 09:00 | ZAR | Core CPI (MoM) (Sep) | 0.3% |  | 0.1% |
-| 09:00 | ZAR | CPI (MoM) (Sep) | 0.2% |  | -0.1% |
 | 09:00 | ZAR | CPI (YoY) (Sep) | 3.4% | 3.5% | 3.3% |
+| 09:00 | ZAR | CPI (MoM) (Sep) | 0.2% |  | -0.1% |
 | 09:30 | GBP | House Price Index (YoY) | 3.0% | 2.5% | 2.8% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate | 6.37% |  | 6.42% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) | -0.3% |  | -1.8% |

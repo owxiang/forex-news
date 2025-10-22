@@ -10,8 +10,8 @@
 | 07:00 | GBP | Low | Core CPI (MoM) (Sep) | 0.0% | 0.2% | 0.3% |
 | 07:00 | GBP | Low | Core PPI Output (YoY) (Sep) | 3.6% |  | 1.9% |
 | 07:00 | GBP | Low | Core PPI Output (MoM) (Sep) | 0.1% |  | 0.4% |
-| 07:00 | GBP | Low | Core RPI (MoM) (Sep) | -0.4% |  | 0.4% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Sep) | 4.4% |  | 4.4% |
+| 07:00 | GBP | Low | Core RPI (MoM) (Sep) | -0.4% |  | 0.4% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Sep) | 0.0% |  | 0.3% |
 | 07:00 | GBP | High | CPI (YoY) (Sep) | 3.8% | 4.0% | 3.8% |
 | 07:00 | GBP | Low | CPI, n.s.a (Sep) | 139.30 |  | 139.30 |
@@ -20,16 +20,16 @@
 | 07:00 | GBP | Low | PPI Input (YoY) (Sep) | 0.8% |  | 0.7% |
 | 07:00 | GBP | Low | PPI Output (YoY) (Sep) | 3.4% |  | 1.1% |
 | 07:00 | GBP | Low | PPI Output (MoM) (Sep) | 0.0% | 0.2% | 0.6% |
-| 07:00 | GBP | Low | RPI (YoY) (Sep) | 4.5% | 4.7% | 4.6% |
 | 07:00 | GBP | Low | RPI (MoM) (Sep) | -0.4% | -0.1% | 0.4% |
+| 07:00 | GBP | Low | RPI (YoY) (Sep) | 4.5% | 4.7% | 4.6% |
 | 08:30 | IDR | Moderate | Interest Rate Decision | 4.75% | 4.50% | 4.75% |
 | 08:30 | IDR | Low | Deposit Facility Rate (Oct) | 3.75% | 3.50% | 3.75% |
 | 08:30 | IDR | Low | Lending Facility Rate (Oct) | 5.50% | 5.25% | 5.50% |
 | 08:30 | IDR | Low | Loans (YoY) (Sep) | 7.70% |  | 7.56% |
 | 09:00 | ZAR | Low | Core CPI (YoY) (Sep) | 3.2% |  | 3.1% |
 | 09:00 | ZAR | Low | Core CPI (MoM) (Sep) | 0.3% |  | 0.1% |
-| 09:00 | ZAR | Low | CPI (MoM) (Sep) | 0.2% |  | -0.1% |
 | 09:00 | ZAR | Low | CPI (YoY) (Sep) | 3.4% | 3.5% | 3.3% |
+| 09:00 | ZAR | Low | CPI (MoM) (Sep) | 0.2% |  | -0.1% |
 | 09:30 | GBP | Low | House Price Index (YoY) | 3.0% | 2.5% | 2.8% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.37% |  | 6.42% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) | -0.3% |  | -1.8% |
@@ -53,5 +53,5 @@
 | 16:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 18:00 | USD | Moderate | 20-Year Bond Auction | 4.506% |  | 4.613% |
 | 18:30 | BRL | Low | Foreign Exchange Flows | -2.016B |  | 0.738B |
-| 54 min | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
-| 54 min | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 21:00 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
+| 21:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |

@@ -14,5 +14,5 @@
 | 15:30 | USD | Cushing Crude Oil Inventories | -0.770M |  | -0.703M |
 | 16:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 18:00 | USD | 20-Year Bond Auction | 4.506% |  | 4.613% |
-| 54 min | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
-| 54 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 21:00 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
+| 21:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
