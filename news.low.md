@@ -9,7 +9,7 @@
 | 02:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 02:00 | KRW | Interest Rate Decision (Oct) | 2.50% | 2.50% | 2.50% |
 | 04:00 | IDR | M2 Money Supply (YoY) (Sep) | 8.00% |  | 7.60% |
-| 06:00 | SGD | CPI (MoM) (Sep) |  |  | 0.50% |
+| 52 min | SGD | CPI (MoM) (Sep) |  |  | 0.50% |
 | 07:00 | NOK | Unemployment Rate (Sep) |  |  | 4.9% |
 | 07:45 | EUR | French Business Survey (Oct) |  | 96 | 96 |
 | 09:00 | EUR | Spanish Trade Balance (Aug) |  |  | -4.01B |

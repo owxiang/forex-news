@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 06:00 | SGD | Core CPI (YoY) (Sep) |  | 0.20% | 0.30% |
-| 06:00 | SGD | CPI (YoY) (Sep) |  | 0.6% | 0.5% |
+| 52 min | SGD | Core CPI (YoY) (Sep) |  | 0.20% | 0.30% |
+| 52 min | SGD | CPI (YoY) (Sep) |  | 0.6% | 0.5% |
 | 08:25 | CHF | SNB Monetary Policy Assessment |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,930K | 1,926K |
 | 13:30 | CAD | Core Retail Sales (MoM) (Aug) |  | 1.3% | -1.2% |

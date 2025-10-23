@@ -9,9 +9,9 @@
 | 02:00 | KRW | Low | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 02:00 | KRW | Low | Interest Rate Decision (Oct) | 2.50% | 2.50% | 2.50% |
 | 04:00 | IDR | Low | M2 Money Supply (YoY) (Sep) | 8.00% |  | 7.60% |
-| 06:00 | SGD | Moderate | Core CPI (YoY) (Sep) |  | 0.20% | 0.30% |
-| 06:00 | SGD | Low | CPI (MoM) (Sep) |  |  | 0.50% |
-| 06:00 | SGD | Moderate | CPI (YoY) (Sep) |  | 0.6% | 0.5% |
+| 52 min | SGD | Moderate | Core CPI (YoY) (Sep) |  | 0.20% | 0.30% |
+| 52 min | SGD | Low | CPI (MoM) (Sep) |  |  | 0.50% |
+| 52 min | SGD | Moderate | CPI (YoY) (Sep) |  | 0.6% | 0.5% |
 | 07:00 | NOK | Low | Unemployment Rate (Sep) |  |  | 4.9% |
 | 07:45 | EUR | Low | French Business Survey (Oct) |  | 96 | 96 |
 | 08:25 | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
@@ -32,8 +32,8 @@
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Aug) |  | 1.0% | -0.8% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Aug) |  |  | -0.8% |
 | 14:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Sep) |  |  | -0.2% |
 | 15:00 | USD | High | Existing Home Sales (Sep) |  | 4.06M | 4.00M |
+| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Sep) |  |  | -0.2% |
 | 15:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 15:00 | EUR | Low | Consumer Confidence (Oct) |  | -15.0 | -14.9 |
 | 15:25 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
