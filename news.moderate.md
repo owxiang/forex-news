@@ -6,8 +6,8 @@
 | 06:00 | SGD | CPI (YoY) (Sep) | 0.7% | 0.6% | 0.5% |
 | 08:25 | CHF | SNB Monetary Policy Assessment |  |  |  |
 | 13:30 | CAD | Core Retail Sales (MoM) (Aug) |  | 1.3% | -1.2% |
-| 13:30 | CAD | Retail Sales (MoM) (Aug) |  | 1.0% | -0.8% |
 | 13:30 | CAD | Retail Sales (MoM) (Aug) |  |  | -0.8% |
+| 13:30 | CAD | Retail Sales (MoM) (Aug) |  | 1.0% | -0.8% |
 | 14:30 | EUR | ECB's Lane Speaks |  |  |  |
 | 15:00 | USD | Existing Home Sales (MoM) (Sep) |  |  | -0.2% |
 | 15:00 | USD | FOMC Member Bowman Speaks |  |  |  |
