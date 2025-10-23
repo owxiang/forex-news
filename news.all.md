@@ -19,12 +19,13 @@
 | 09:30 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
 | 09:30 | HKD | Low | CPI (MoM) (Sep) | 0.10% |  | 0.10% |
 | 09:30 | HKD | Low | CPI (YoY) (Sep) | 1.10% |  | 1.10% |
+| 10:30 | GBP | Low | 5-Year Treasury Gilt Auction | 4.004% |  | 4.095% |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Oct) | -38 | -28 | -27 |
-| 54 min | MXN | Low | 1st Half-Month Core CPI (Oct) |  | 0.19% | 0.22% |
-| 54 min | MXN | Low | 1st Half-Month CPI (Oct) |  | 0.36% | 0.18% |
-| 54 min | MXN | Low | Retail Sales (YoY) (Aug) |  |  | 2.4% |
-| 54 min | MXN | Low | Retail Sales (MoM) (Aug) |  | 0.2% | 0.1% |
-| 54 min | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
+| 13:00 | MXN | Low | 1st Half-Month Core CPI (Oct) | 0.18% | 0.19% | 0.22% |
+| 13:00 | MXN | Low | 1st Half-Month CPI (Oct) | 0.28% | 0.36% | 0.18% |
+| 13:00 | MXN | Low | Retail Sales (YoY) (Aug) | 2.4% |  | 2.4% |
+| 13:00 | MXN | Low | Retail Sales (MoM) (Aug) | 0.6% | 0.2% | 0.1% |
+| 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
 | 13:30 | USD | Low | Chicago Fed National Activity (Sep) |  |  | -0.12 |
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Aug) |  | 1.3% | -1.2% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Aug) |  |  | -0.8% |
