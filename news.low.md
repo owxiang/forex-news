@@ -2,12 +2,12 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 44 min | JPY | Foreign Bonds Buying |  |  | 596.4B |
-| 44 min | JPY | Foreign Investments in Japanese Stocks |  |  | 1,885.0B |
+| 00:50 | JPY | Foreign Bonds Buying | -669.7B |  | 601.3B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks | 752.6B |  | 1,886.6B |
 | 01:30 | AUD | NAB Quarterly Business Confidence |  |  | -1 |
 | 01:30 | AUD | RBA Bulletin |  |  |  |
-| 02:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
-| 02:00 | KRW | Interest Rate Decision (Oct) |  | 2.50% | 2.50% |
+| 31 min | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
+| 31 min | KRW | Interest Rate Decision (Oct) |  | 2.50% | 2.50% |
 | 04:00 | IDR | M2 Money Supply (YoY) (Sep) |  |  | 7.60% |
 | 06:00 | SGD | CPI (MoM) (Sep) |  |  | 0.50% |
 | 07:00 | NOK | Unemployment Rate (Sep) |  |  | 4.9% |
@@ -18,8 +18,8 @@
 | 11:00 | GBP | CBI Industrial Trends Orders (Oct) |  | -28 | -27 |
 | 13:00 | MXN | 1st Half-Month Core CPI (Oct) |  | 0.19% | 0.22% |
 | 13:00 | MXN | 1st Half-Month CPI (Oct) |  | 0.36% | 0.18% |
-| 13:00 | MXN | Retail Sales (YoY) (Aug) |  |  | 2.4% |
 | 13:00 | MXN | Retail Sales (MoM) (Aug) |  | 0.2% | 0.1% |
+| 13:00 | MXN | Retail Sales (YoY) (Aug) |  |  | 2.4% |
 | 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 13:30 | USD | Chicago Fed National Activity (Sep) |  |  | -0.12 |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 237.50K |
