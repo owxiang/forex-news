@@ -14,11 +14,11 @@
 | 06:00 | SGD | Moderate | CPI (YoY) (Sep) | 0.7% | 0.6% | 0.5% |
 | 07:00 | NOK | Low | Unemployment Rate (Sep) | 4.8% |  | 4.9% |
 | 07:45 | EUR | Low | French Business Survey (Oct) | 101 | 96 | 97 |
-| 17 min | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
-| 52 min | EUR | Low | Spanish Trade Balance (Aug) |  |  | -4.01B |
-| 09:30 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
-| 09:30 | HKD | Low | CPI (MoM) (Sep) |  |  | 0.10% |
-| 09:30 | HKD | Low | CPI (YoY) (Sep) |  |  | 1.10% |
+| 08:25 | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
+| 09:00 | EUR | Low | Spanish Trade Balance (Aug) | -6.00B |  | -4.01B |
+| 20 min | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
+| 20 min | HKD | Low | CPI (MoM) (Sep) |  |  | 0.10% |
+| 20 min | HKD | Low | CPI (YoY) (Sep) |  |  | 1.10% |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Oct) |  | -28 | -27 |
 | 13:00 | MXN | Low | 1st Half-Month Core CPI (Oct) |  | 0.19% | 0.22% |
 | 13:00 | MXN | Low | 1st Half-Month CPI (Oct) |  | 0.36% | 0.18% |
