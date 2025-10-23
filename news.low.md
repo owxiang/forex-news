@@ -25,12 +25,12 @@
 | 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 14:00 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
 | 15:00 | EUR | Consumer Confidence (Oct) | -14.2 | -15.0 | -14.9 |
-| 23 min | USD | Natural Gas Storage |  | 78B | 80B |
-| 53 min | USD | KC Fed Composite Index (Oct) |  |  | 4 |
-| 53 min | USD | KC Fed Manufacturing Index (Oct) |  |  | 4 |
-| 16:30 | USD | 4-Week Bill Auction |  |  | 4.030% |
-| 16:30 | USD | 8-Week Bill Auction |  |  | 3.960% |
-| 17:00 | ZAR | SARB Monetary Policy Review |  |  |  |
+| 15:30 | USD | Natural Gas Storage | 87B | 78B | 80B |
+| 16:00 | USD | KC Fed Composite Index (Oct) | 6 |  | 4 |
+| 16:00 | USD | KC Fed Manufacturing Index (Oct) | 15 |  | 4 |
+| 22 min | USD | 4-Week Bill Auction |  |  | 4.030% |
+| 22 min | USD | 8-Week Bill Auction |  |  | 3.960% |
+| 52 min | ZAR | SARB Monetary Policy Review |  |  |  |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.988T |
 | 23:00 | AUD | Manufacturing & Services PMI (Oct) |  |  | 52.40 |
 | 23:00 | AUD | Judo Bank Manufacturing PMI (Oct) |  |  | 51.4 |

@@ -35,13 +35,13 @@
 | 15:00 | USD | Moderate | Existing Home Sales (MoM) (Sep) | 1.5% |  | -0.2% |
 | 15:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 15:00 | EUR | Low | Consumer Confidence (Oct) | -14.2 | -15.0 | -14.9 |
-| 18 min | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 23 min | USD | Low | Natural Gas Storage |  | 78B | 80B |
-| 53 min | USD | Low | KC Fed Composite Index (Oct) |  |  | 4 |
-| 53 min | USD | Low | KC Fed Manufacturing Index (Oct) |  |  | 4 |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.030% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.960% |
-| 17:00 | ZAR | Low | SARB Monetary Policy Review |  |  |  |
+| 15:25 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 15:30 | USD | Low | Natural Gas Storage | 87B | 78B | 80B |
+| 16:00 | USD | Low | KC Fed Composite Index (Oct) | 6 |  | 4 |
+| 16:00 | USD | Low | KC Fed Manufacturing Index (Oct) | 15 |  | 4 |
+| 22 min | USD | Low | 4-Week Bill Auction |  |  | 4.030% |
+| 22 min | USD | Low | 8-Week Bill Auction |  |  | 3.960% |
+| 52 min | ZAR | Low | SARB Monetary Policy Review |  |  |  |
 | 18:00 | USD | Moderate | 5-Year TIPS Auction |  |  | 1.650% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,596B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.988T |
