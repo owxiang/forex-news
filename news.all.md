@@ -16,10 +16,10 @@
 | 07:45 | EUR | Low | French Business Survey (Oct) | 101 | 96 | 97 |
 | 08:25 | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
 | 09:00 | EUR | Low | Spanish Trade Balance (Aug) | -6.00B |  | -4.01B |
-| 20 min | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
-| 20 min | HKD | Low | CPI (MoM) (Sep) |  |  | 0.10% |
-| 20 min | HKD | Low | CPI (YoY) (Sep) |  |  | 1.10% |
-| 11:00 | GBP | Low | CBI Industrial Trends Orders (Oct) |  | -28 | -27 |
+| 09:30 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
+| 09:30 | HKD | Low | CPI (MoM) (Sep) | 0.10% |  | 0.10% |
+| 09:30 | HKD | Low | CPI (YoY) (Sep) | 1.10% |  | 1.10% |
+| 52 min | GBP | Low | CBI Industrial Trends Orders (Oct) |  | -28 | -27 |
 | 13:00 | MXN | Low | 1st Half-Month Core CPI (Oct) |  | 0.19% | 0.22% |
 | 13:00 | MXN | Low | 1st Half-Month CPI (Oct) |  | 0.36% | 0.18% |
 | 13:00 | MXN | Low | Retail Sales (MoM) (Aug) |  | 0.2% | 0.1% |
@@ -30,8 +30,8 @@
 | 13:30 | USD | High | Initial Jobless Claims |  | 223K | 218K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 237.50K |
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Aug) |  | 1.3% | -1.2% |
-| 13:30 | CAD | Moderate | Retail Sales (MoM) (Aug) |  |  | -0.8% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Aug) |  | 1.0% | -0.8% |
+| 13:30 | CAD | Moderate | Retail Sales (MoM) (Aug) |  |  | -0.8% |
 | 14:00 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
 | 14:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 15:00 | USD | High | Existing Home Sales (Sep) |  | 4.06M | 4.00M |

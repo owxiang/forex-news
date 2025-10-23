@@ -13,10 +13,10 @@
 | 07:00 | NOK | Unemployment Rate (Sep) | 4.8% |  | 4.9% |
 | 07:45 | EUR | French Business Survey (Oct) | 101 | 96 | 97 |
 | 09:00 | EUR | Spanish Trade Balance (Aug) | -6.00B |  | -4.01B |
-| 20 min | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
-| 20 min | HKD | CPI (MoM) (Sep) |  |  | 0.10% |
-| 20 min | HKD | CPI (YoY) (Sep) |  |  | 1.10% |
-| 11:00 | GBP | CBI Industrial Trends Orders (Oct) |  | -28 | -27 |
+| 09:30 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
+| 09:30 | HKD | CPI (MoM) (Sep) | 0.10% |  | 0.10% |
+| 09:30 | HKD | CPI (YoY) (Sep) | 1.10% |  | 1.10% |
+| 52 min | GBP | CBI Industrial Trends Orders (Oct) |  | -28 | -27 |
 | 13:00 | MXN | 1st Half-Month Core CPI (Oct) |  | 0.19% | 0.22% |
 | 13:00 | MXN | 1st Half-Month CPI (Oct) |  | 0.36% | 0.18% |
 | 13:00 | MXN | Retail Sales (MoM) (Aug) |  | 0.2% | 0.1% |
