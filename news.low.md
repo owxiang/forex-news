@@ -7,8 +7,8 @@
 | 01:30 | AUD | RBA Bulletin |  |  |  |
 | 02:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 02:00 | KRW | Interest Rate Decision (Oct) | 2.50% | 2.50% | 2.50% |
-| 02:30 | AUD | NAB Quarterly Business Confidence |  |  | -1 |
-| 04:00 | IDR | M2 Money Supply (YoY) (Sep) |  |  | 7.60% |
+| 25 min | AUD | NAB Quarterly Business Confidence |  |  | -1 |
+| 25 min | IDR | M2 Money Supply (YoY) (Sep) |  |  | 7.60% |
 | 06:00 | SGD | CPI (MoM) (Sep) |  |  | 0.50% |
 | 07:00 | NOK | Unemployment Rate (Sep) |  |  | 4.9% |
 | 07:45 | EUR | French Business Survey (Oct) |  | 96 | 96 |
