@@ -19,23 +19,20 @@
 | 09:30 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
 | 09:30 | HKD | Low | CPI (MoM) (Sep) | 0.10% |  | 0.10% |
 | 09:30 | HKD | Low | CPI (YoY) (Sep) | 1.10% |  | 1.10% |
-| 52 min | GBP | Low | CBI Industrial Trends Orders (Oct) |  | -28 | -27 |
+| 11:00 | GBP | Low | CBI Industrial Trends Orders (Oct) | -38 | -28 | -27 |
 | 13:00 | MXN | Low | 1st Half-Month Core CPI (Oct) |  | 0.19% | 0.22% |
 | 13:00 | MXN | Low | 1st Half-Month CPI (Oct) |  | 0.36% | 0.18% |
 | 13:00 | MXN | Low | Retail Sales (MoM) (Aug) |  | 0.2% | 0.1% |
 | 13:00 | MXN | Low | Retail Sales (YoY) (Aug) |  |  | 2.4% |
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
 | 13:30 | USD | Low | Chicago Fed National Activity (Sep) |  |  | -0.12 |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,930K | 1,926K |
-| 13:30 | USD | High | Initial Jobless Claims |  | 223K | 218K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 237.50K |
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Aug) |  | 1.3% | -1.2% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Aug) |  | 1.0% | -0.8% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Aug) |  |  | -0.8% |
 | 14:00 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
 | 14:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 15:00 | USD | High | Existing Home Sales (Sep) |  | 4.06M | 4.00M |
 | 15:00 | USD | Moderate | Existing Home Sales (MoM) (Sep) |  |  | -0.2% |
+| 15:00 | USD | High | Existing Home Sales (Sep) |  | 4.06M | 4.00M |
 | 15:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 15:00 | EUR | Low | Consumer Confidence (Oct) |  | -15.0 | -14.9 |
 | 15:25 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |

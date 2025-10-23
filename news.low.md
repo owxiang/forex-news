@@ -16,14 +16,13 @@
 | 09:30 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
 | 09:30 | HKD | CPI (MoM) (Sep) | 0.10% |  | 0.10% |
 | 09:30 | HKD | CPI (YoY) (Sep) | 1.10% |  | 1.10% |
-| 52 min | GBP | CBI Industrial Trends Orders (Oct) |  | -28 | -27 |
+| 11:00 | GBP | CBI Industrial Trends Orders (Oct) | -38 | -28 | -27 |
 | 13:00 | MXN | 1st Half-Month Core CPI (Oct) |  | 0.19% | 0.22% |
 | 13:00 | MXN | 1st Half-Month CPI (Oct) |  | 0.36% | 0.18% |
 | 13:00 | MXN | Retail Sales (MoM) (Aug) |  | 0.2% | 0.1% |
 | 13:00 | MXN | Retail Sales (YoY) (Aug) |  |  | 2.4% |
 | 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 13:30 | USD | Chicago Fed National Activity (Sep) |  |  | -0.12 |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 237.50K |
 | 14:00 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
 | 15:00 | EUR | Consumer Confidence (Oct) |  | -15.0 | -14.9 |
 | 15:30 | USD | Natural Gas Storage |  | 78B | 80B |
