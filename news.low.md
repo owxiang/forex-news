@@ -24,10 +24,10 @@
 | 13:00 | MXN | Retail Sales (MoM) (Aug) | 0.6% | 0.2% | 0.1% |
 | 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 14:00 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
-| 44 min | EUR | Consumer Confidence (Oct) |  | -15.0 | -14.9 |
-| 15:30 | USD | Natural Gas Storage |  | 78B | 80B |
-| 16:00 | USD | KC Fed Composite Index (Oct) |  |  | 4 |
-| 16:00 | USD | KC Fed Manufacturing Index (Oct) |  |  | 4 |
+| 15:00 | EUR | Consumer Confidence (Oct) | -14.2 | -15.0 | -14.9 |
+| 23 min | USD | Natural Gas Storage |  | 78B | 80B |
+| 53 min | USD | KC Fed Composite Index (Oct) |  |  | 4 |
+| 53 min | USD | KC Fed Manufacturing Index (Oct) |  |  | 4 |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.030% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 3.960% |
 | 17:00 | ZAR | SARB Monetary Policy Review |  |  |  |

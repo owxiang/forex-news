@@ -30,15 +30,15 @@
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Aug) | 1.0% | 1.0% | -0.7% |
 | 13:31 | CAD | Moderate | Retail Sales (MoM) (Sep) | -0.7% |  | 1.0% |
 | 14:00 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
-| 14 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 44 min | USD | High | Existing Home Sales (Sep) |  | 4.06M | 4.00M |
-| 44 min | USD | Moderate | Existing Home Sales (MoM) (Sep) |  |  | -0.2% |
-| 44 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 44 min | EUR | Low | Consumer Confidence (Oct) |  | -15.0 | -14.9 |
-| 15:25 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 15:30 | USD | Low | Natural Gas Storage |  | 78B | 80B |
-| 16:00 | USD | Low | KC Fed Composite Index (Oct) |  |  | 4 |
-| 16:00 | USD | Low | KC Fed Manufacturing Index (Oct) |  |  | 4 |
+| 14:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 15:00 | USD | High | Existing Home Sales (Sep) | 4.06M | 4.06M | 4.00M |
+| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Sep) | 1.5% |  | -0.2% |
+| 15:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 15:00 | EUR | Low | Consumer Confidence (Oct) | -14.2 | -15.0 | -14.9 |
+| 18 min | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 23 min | USD | Low | Natural Gas Storage |  | 78B | 80B |
+| 53 min | USD | Low | KC Fed Composite Index (Oct) |  |  | 4 |
+| 53 min | USD | Low | KC Fed Manufacturing Index (Oct) |  |  | 4 |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.030% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.960% |
 | 17:00 | ZAR | Low | SARB Monetary Policy Review |  |  |  |

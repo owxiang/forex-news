@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 44 min | USD | Existing Home Sales (Sep) |  | 4.06M | 4.00M |
+| 15:00 | USD | Existing Home Sales (Sep) | 4.06M | 4.06M | 4.00M |
