@@ -20,8 +20,8 @@
 | 11:00 | GBP | CBI Industrial Trends Orders (Oct) | -38 | -28 | -27 |
 | 13:00 | MXN | 1st Half-Month Core CPI (Oct) | 0.18% | 0.19% | 0.22% |
 | 13:00 | MXN | 1st Half-Month CPI (Oct) | 0.28% | 0.36% | 0.18% |
-| 13:00 | MXN | Retail Sales (YoY) (Aug) | 2.4% |  | 2.4% |
 | 13:00 | MXN | Retail Sales (MoM) (Aug) | 0.6% | 0.2% | 0.1% |
+| 13:00 | MXN | Retail Sales (YoY) (Aug) | 2.4% |  | 2.4% |
 | 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 14:00 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
 | 15:00 | EUR | Consumer Confidence (Oct) | -14.2 | -15.0 | -14.9 |
