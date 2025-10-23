@@ -23,8 +23,8 @@
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Oct) | -38 | -28 | -27 |
 | 13:00 | MXN | Low | 1st Half-Month Core CPI (Oct) | 0.18% | 0.19% | 0.22% |
 | 13:00 | MXN | Low | 1st Half-Month CPI (Oct) | 0.28% | 0.36% | 0.18% |
-| 13:00 | MXN | Low | Retail Sales (MoM) (Aug) | 0.6% | 0.2% | 0.1% |
 | 13:00 | MXN | Low | Retail Sales (YoY) (Aug) | 2.4% |  | 2.4% |
+| 13:00 | MXN | Low | Retail Sales (MoM) (Aug) | 0.6% | 0.2% | 0.1% |
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Aug) | 0.7% | 1.3% | -1.1% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Aug) | 1.0% | 1.0% | -0.7% |
@@ -43,8 +43,8 @@
 | 16:30 | USD | Low | 8-Week Bill Auction | 3.900% |  | 3.960% |
 | 17:00 | ZAR | Low | SARB Monetary Policy Review |  |  |  |
 | 18:00 | USD | Moderate | 5-Year TIPS Auction | 1.182% |  | 1.650% |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,596B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.988T |
+| 22 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,596B |
+| 22 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.988T |
 | 23:00 | AUD | Low | Manufacturing & Services PMI (Oct) |  |  | 52.40 |
 | 23:00 | AUD | Low | Judo Bank Manufacturing PMI (Oct) |  |  | 51.4 |
 | 23:00 | AUD | Low | Judo Bank Services PMI (Oct) |  |  | 52.4 |
