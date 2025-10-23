@@ -4,11 +4,11 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:50 | JPY | Low | Foreign Bonds Buying | -669.7B |  | 601.3B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 752.6B |  | 1,886.6B |
+| 01:30 | AUD | Low | NAB Quarterly Business Confidence | 2 |  | 0 |
 | 01:30 | AUD | Low | RBA Bulletin |  |  |  |
 | 02:00 | KRW | Low | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 02:00 | KRW | Low | Interest Rate Decision (Oct) | 2.50% | 2.50% | 2.50% |
-| 25 min | AUD | Low | NAB Quarterly Business Confidence |  |  | -1 |
-| 25 min | IDR | Low | M2 Money Supply (YoY) (Sep) |  |  | 7.60% |
+| 04:00 | IDR | Low | M2 Money Supply (YoY) (Sep) | 8.00% |  | 7.60% |
 | 06:00 | SGD | Moderate | Core CPI (YoY) (Sep) |  | 0.20% | 0.30% |
 | 06:00 | SGD | Low | CPI (MoM) (Sep) |  |  | 0.50% |
 | 06:00 | SGD | Moderate | CPI (YoY) (Sep) |  | 0.6% | 0.5% |
@@ -21,19 +21,19 @@
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Oct) |  | -28 | -27 |
 | 13:00 | MXN | Low | 1st Half-Month Core CPI (Oct) |  | 0.19% | 0.22% |
 | 13:00 | MXN | Low | 1st Half-Month CPI (Oct) |  | 0.36% | 0.18% |
-| 13:00 | MXN | Low | Retail Sales (YoY) (Aug) |  |  | 2.4% |
 | 13:00 | MXN | Low | Retail Sales (MoM) (Aug) |  | 0.2% | 0.1% |
+| 13:00 | MXN | Low | Retail Sales (YoY) (Aug) |  |  | 2.4% |
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
 | 13:30 | USD | Low | Chicago Fed National Activity (Sep) |  |  | -0.12 |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,930K | 1,926K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 223K | 218K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 237.50K |
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Aug) |  | 1.3% | -1.2% |
-| 13:30 | CAD | Moderate | Retail Sales (MoM) (Aug) |  |  | -0.8% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Aug) |  | 1.0% | -0.8% |
+| 13:30 | CAD | Moderate | Retail Sales (MoM) (Aug) |  |  | -0.8% |
 | 14:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 15:00 | USD | High | Existing Home Sales (Sep) |  | 4.06M | 4.00M |
 | 15:00 | USD | Moderate | Existing Home Sales (MoM) (Sep) |  |  | -0.2% |
+| 15:00 | USD | High | Existing Home Sales (Sep) |  | 4.06M | 4.00M |
 | 15:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 15:00 | EUR | Low | Consumer Confidence (Oct) |  | -15.0 | -14.9 |
 | 15:25 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
