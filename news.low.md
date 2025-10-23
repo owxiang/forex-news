@@ -20,8 +20,8 @@
 | 11:00 | GBP | CBI Industrial Trends Orders (Oct) | -38 | -28 | -27 |
 | 13:00 | MXN | 1st Half-Month Core CPI (Oct) | 0.18% | 0.19% | 0.22% |
 | 13:00 | MXN | 1st Half-Month CPI (Oct) | 0.28% | 0.36% | 0.18% |
-| 13:00 | MXN | Retail Sales (YoY) (Aug) | 2.4% |  | 2.4% |
 | 13:00 | MXN | Retail Sales (MoM) (Aug) | 0.6% | 0.2% | 0.1% |
+| 13:00 | MXN | Retail Sales (YoY) (Aug) | 2.4% |  | 2.4% |
 | 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 14:00 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
 | 15:00 | EUR | Consumer Confidence (Oct) | -14.2 | -15.0 | -14.9 |
@@ -32,6 +32,6 @@
 | 16:30 | USD | 8-Week Bill Auction | 3.900% |  | 3.960% |
 | 17:00 | ZAR | SARB Monetary Policy Review |  |  |  |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks | 2.930T |  | 2.988T |
-| 53 min | AUD | Manufacturing & Services PMI (Oct) |  |  | 52.40 |
-| 53 min | AUD | Judo Bank Manufacturing PMI (Oct) |  |  | 51.4 |
-| 53 min | AUD | Judo Bank Services PMI (Oct) |  |  | 52.4 |
+| 23:00 | AUD | Manufacturing & Services PMI (Oct) | 52.60 |  | 52.40 |
+| 23:00 | AUD | Judo Bank Manufacturing PMI (Oct) | 49.7 |  | 51.4 |
+| 23:00 | AUD | Judo Bank Services PMI (Oct) | 53.1 |  | 52.4 |
