@@ -12,5 +12,5 @@
 | 15:00 | USD | Existing Home Sales (MoM) (Sep) | 1.5% |  | -0.2% |
 | 15:00 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 15:25 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 52 min | USD | 5-Year TIPS Auction |  |  | 1.650% |
+| 18:00 | USD | 5-Year TIPS Auction | 1.182% |  | 1.650% |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,596B |
