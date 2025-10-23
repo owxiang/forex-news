@@ -10,8 +10,8 @@
 | 02:00 | KRW | Interest Rate Decision (Oct) | 2.50% | 2.50% | 2.50% |
 | 04:00 | IDR | M2 Money Supply (YoY) (Sep) | 8.00% |  | 7.60% |
 | 06:00 | SGD | CPI (MoM) (Sep) | 0.40% |  | 0.50% |
-| 53 min | NOK | Unemployment Rate (Sep) |  |  | 4.9% |
-| 07:45 | EUR | French Business Survey (Oct) |  | 96 | 96 |
+| 07:00 | NOK | Unemployment Rate (Sep) | 4.8% |  | 4.9% |
+| 34 min | EUR | French Business Survey (Oct) |  | 96 | 96 |
 | 09:00 | EUR | Spanish Trade Balance (Aug) |  |  | -4.01B |
 | 09:30 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
 | 09:30 | HKD | CPI (MoM) (Sep) |  |  | 0.10% |
