@@ -13,25 +13,25 @@
 | 06:00 | SGD | Low | CPI (MoM) (Sep) | 0.40% |  | 0.50% |
 | 06:00 | SGD | Moderate | CPI (YoY) (Sep) | 0.7% | 0.6% | 0.5% |
 | 07:00 | NOK | Low | Unemployment Rate (Sep) | 4.8% |  | 4.9% |
-| 34 min | EUR | Low | French Business Survey (Oct) |  | 96 | 96 |
-| 08:25 | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
-| 09:00 | EUR | Low | Spanish Trade Balance (Aug) |  |  | -4.01B |
+| 07:45 | EUR | Low | French Business Survey (Oct) | 101 | 96 | 97 |
+| 17 min | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
+| 52 min | EUR | Low | Spanish Trade Balance (Aug) |  |  | -4.01B |
 | 09:30 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
 | 09:30 | HKD | Low | CPI (MoM) (Sep) |  |  | 0.10% |
 | 09:30 | HKD | Low | CPI (YoY) (Sep) |  |  | 1.10% |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Oct) |  | -28 | -27 |
 | 13:00 | MXN | Low | 1st Half-Month Core CPI (Oct) |  | 0.19% | 0.22% |
 | 13:00 | MXN | Low | 1st Half-Month CPI (Oct) |  | 0.36% | 0.18% |
-| 13:00 | MXN | Low | Retail Sales (YoY) (Aug) |  |  | 2.4% |
 | 13:00 | MXN | Low | Retail Sales (MoM) (Aug) |  | 0.2% | 0.1% |
+| 13:00 | MXN | Low | Retail Sales (YoY) (Aug) |  |  | 2.4% |
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
 | 13:30 | USD | Low | Chicago Fed National Activity (Sep) |  |  | -0.12 |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,930K | 1,926K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 223K | 218K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 237.50K |
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Aug) |  | 1.3% | -1.2% |
-| 13:30 | CAD | Moderate | Retail Sales (MoM) (Aug) |  | 1.0% | -0.8% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Aug) |  |  | -0.8% |
+| 13:30 | CAD | Moderate | Retail Sales (MoM) (Aug) |  | 1.0% | -0.8% |
 | 14:00 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
 | 14:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 15:00 | USD | High | Existing Home Sales (Sep) |  | 4.06M | 4.00M |

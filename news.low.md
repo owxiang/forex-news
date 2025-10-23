@@ -11,16 +11,16 @@
 | 04:00 | IDR | M2 Money Supply (YoY) (Sep) | 8.00% |  | 7.60% |
 | 06:00 | SGD | CPI (MoM) (Sep) | 0.40% |  | 0.50% |
 | 07:00 | NOK | Unemployment Rate (Sep) | 4.8% |  | 4.9% |
-| 34 min | EUR | French Business Survey (Oct) |  | 96 | 96 |
-| 09:00 | EUR | Spanish Trade Balance (Aug) |  |  | -4.01B |
+| 07:45 | EUR | French Business Survey (Oct) | 101 | 96 | 97 |
+| 52 min | EUR | Spanish Trade Balance (Aug) |  |  | -4.01B |
 | 09:30 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
 | 09:30 | HKD | CPI (MoM) (Sep) |  |  | 0.10% |
 | 09:30 | HKD | CPI (YoY) (Sep) |  |  | 1.10% |
 | 11:00 | GBP | CBI Industrial Trends Orders (Oct) |  | -28 | -27 |
 | 13:00 | MXN | 1st Half-Month Core CPI (Oct) |  | 0.19% | 0.22% |
 | 13:00 | MXN | 1st Half-Month CPI (Oct) |  | 0.36% | 0.18% |
-| 13:00 | MXN | Retail Sales (YoY) (Aug) |  |  | 2.4% |
 | 13:00 | MXN | Retail Sales (MoM) (Aug) |  | 0.2% | 0.1% |
+| 13:00 | MXN | Retail Sales (YoY) (Aug) |  |  | 2.4% |
 | 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 13:30 | USD | Chicago Fed National Activity (Sep) |  |  | -0.12 |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 237.50K |
