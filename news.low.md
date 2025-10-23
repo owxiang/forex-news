@@ -23,9 +23,8 @@
 | 13:00 | MXN | Retail Sales (YoY) (Aug) | 2.4% |  | 2.4% |
 | 13:00 | MXN | Retail Sales (MoM) (Aug) | 0.6% | 0.2% | 0.1% |
 | 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
-| 13:30 | USD | Chicago Fed National Activity (Sep) |  |  | -0.12 |
 | 14:00 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
-| 15:00 | EUR | Consumer Confidence (Oct) |  | -15.0 | -14.9 |
+| 44 min | EUR | Consumer Confidence (Oct) |  | -15.0 | -14.9 |
 | 15:30 | USD | Natural Gas Storage |  | 78B | 80B |
 | 16:00 | USD | KC Fed Composite Index (Oct) |  |  | 4 |
 | 16:00 | USD | KC Fed Manufacturing Index (Oct) |  |  | 4 |

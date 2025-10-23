@@ -26,16 +26,15 @@
 | 13:00 | MXN | Low | Retail Sales (YoY) (Aug) | 2.4% |  | 2.4% |
 | 13:00 | MXN | Low | Retail Sales (MoM) (Aug) | 0.6% | 0.2% | 0.1% |
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 13:30 | USD | Low | Chicago Fed National Activity (Sep) |  |  | -0.12 |
-| 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Aug) |  | 1.3% | -1.2% |
-| 13:30 | CAD | Moderate | Retail Sales (MoM) (Aug) |  |  | -0.8% |
-| 13:30 | CAD | Moderate | Retail Sales (MoM) (Aug) |  | 1.0% | -0.8% |
+| 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Aug) | 0.7% | 1.3% | -1.1% |
+| 13:30 | CAD | Moderate | Retail Sales (MoM) (Aug) | 1.0% | 1.0% | -0.7% |
+| 13:31 | CAD | Moderate | Retail Sales (MoM) (Sep) | -0.7% |  | 1.0% |
 | 14:00 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
-| 14:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 15:00 | USD | High | Existing Home Sales (Sep) |  | 4.06M | 4.00M |
-| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Sep) |  |  | -0.2% |
-| 15:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 15:00 | EUR | Low | Consumer Confidence (Oct) |  | -15.0 | -14.9 |
+| 14 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 44 min | USD | High | Existing Home Sales (Sep) |  | 4.06M | 4.00M |
+| 44 min | USD | Moderate | Existing Home Sales (MoM) (Sep) |  |  | -0.2% |
+| 44 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 44 min | EUR | Low | Consumer Confidence (Oct) |  | -15.0 | -14.9 |
 | 15:25 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage |  | 78B | 80B |
 | 16:00 | USD | Low | KC Fed Composite Index (Oct) |  |  | 4 |
