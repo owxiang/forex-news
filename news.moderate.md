@@ -13,4 +13,4 @@
 | 15:00 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 15:25 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 18:00 | USD | 5-Year TIPS Auction | 1.182% |  | 1.650% |
-| 22 min | USD | Fed's Balance Sheet |  |  | 6,596B |
+| 21:30 | USD | Fed's Balance Sheet | 6,590B |  | 6,596B |

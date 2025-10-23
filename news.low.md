@@ -31,7 +31,7 @@
 | 16:30 | USD | 4-Week Bill Auction | 3.945% |  | 4.030% |
 | 16:30 | USD | 8-Week Bill Auction | 3.900% |  | 3.960% |
 | 17:00 | ZAR | SARB Monetary Policy Review |  |  |  |
-| 22 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.988T |
-| 23:00 | AUD | Manufacturing & Services PMI (Oct) |  |  | 52.40 |
-| 23:00 | AUD | Judo Bank Manufacturing PMI (Oct) |  |  | 51.4 |
-| 23:00 | AUD | Judo Bank Services PMI (Oct) |  |  | 52.4 |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 2.930T |  | 2.988T |
+| 53 min | AUD | Manufacturing & Services PMI (Oct) |  |  | 52.40 |
+| 53 min | AUD | Judo Bank Manufacturing PMI (Oct) |  |  | 51.4 |
+| 53 min | AUD | Judo Bank Services PMI (Oct) |  |  | 52.4 |

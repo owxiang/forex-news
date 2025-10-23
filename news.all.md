@@ -43,8 +43,8 @@
 | 16:30 | USD | Low | 8-Week Bill Auction | 3.900% |  | 3.960% |
 | 17:00 | ZAR | Low | SARB Monetary Policy Review |  |  |  |
 | 18:00 | USD | Moderate | 5-Year TIPS Auction | 1.182% |  | 1.650% |
-| 22 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,596B |
-| 22 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.988T |
-| 23:00 | AUD | Low | Manufacturing & Services PMI (Oct) |  |  | 52.40 |
-| 23:00 | AUD | Low | Judo Bank Manufacturing PMI (Oct) |  |  | 51.4 |
-| 23:00 | AUD | Low | Judo Bank Services PMI (Oct) |  |  | 52.4 |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,590B |  | 6,596B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 2.930T |  | 2.988T |
+| 53 min | AUD | Low | Manufacturing & Services PMI (Oct) |  |  | 52.40 |
+| 53 min | AUD | Low | Judo Bank Manufacturing PMI (Oct) |  |  | 51.4 |
+| 53 min | AUD | Low | Judo Bank Services PMI (Oct) |  |  | 52.4 |
