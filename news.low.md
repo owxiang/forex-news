@@ -28,9 +28,9 @@
 | 15:30 | USD | Natural Gas Storage | 87B | 78B | 80B |
 | 16:00 | USD | KC Fed Composite Index (Oct) | 6 |  | 4 |
 | 16:00 | USD | KC Fed Manufacturing Index (Oct) | 15 |  | 4 |
-| 22 min | USD | 4-Week Bill Auction |  |  | 4.030% |
-| 22 min | USD | 8-Week Bill Auction |  |  | 3.960% |
-| 52 min | ZAR | SARB Monetary Policy Review |  |  |  |
+| 16:30 | USD | 4-Week Bill Auction | 3.945% |  | 4.030% |
+| 16:30 | USD | 8-Week Bill Auction | 3.900% |  | 3.960% |
+| 17:00 | ZAR | SARB Monetary Policy Review |  |  |  |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.988T |
 | 23:00 | AUD | Manufacturing & Services PMI (Oct) |  |  | 52.40 |
 | 23:00 | AUD | Judo Bank Manufacturing PMI (Oct) |  |  | 51.4 |

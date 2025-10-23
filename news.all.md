@@ -39,10 +39,10 @@
 | 15:30 | USD | Low | Natural Gas Storage | 87B | 78B | 80B |
 | 16:00 | USD | Low | KC Fed Composite Index (Oct) | 6 |  | 4 |
 | 16:00 | USD | Low | KC Fed Manufacturing Index (Oct) | 15 |  | 4 |
-| 22 min | USD | Low | 4-Week Bill Auction |  |  | 4.030% |
-| 22 min | USD | Low | 8-Week Bill Auction |  |  | 3.960% |
-| 52 min | ZAR | Low | SARB Monetary Policy Review |  |  |  |
-| 18:00 | USD | Moderate | 5-Year TIPS Auction |  |  | 1.650% |
+| 16:30 | USD | Low | 4-Week Bill Auction | 3.945% |  | 4.030% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 3.900% |  | 3.960% |
+| 17:00 | ZAR | Low | SARB Monetary Policy Review |  |  |  |
+| 52 min | USD | Moderate | 5-Year TIPS Auction |  |  | 1.650% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,596B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.988T |
 | 23:00 | AUD | Low | Manufacturing & Services PMI (Oct) |  |  | 52.40 |
