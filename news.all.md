@@ -24,18 +24,18 @@
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Sep) | 2.3% | 0.7% | 1.3% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Sep) | 0.5% | -0.2% | 0.6% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Sep) | 1.5% | 0.6% | 0.7% |
-| 35 min | EUR | Low | French Consumer Confidence (Oct) |  | 87 | 87 |
-| 50 min | EUR | Low | Spanish PPI (YoY) (Sep) |  |  | -1.5% |
-| 50 min | EUR | Low | Spanish Unemployment Rate (Q3) |  | 10.20% | 10.29% |
-| 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Oct) |  | 48.2 | 48.2 |
-| 08:15 | EUR | Low | HCOB France Composite PMI (Oct) |  |  | 48.1 |
-| 08:15 | EUR | Moderate | HCOB France Services PMI (Oct) |  | 48.7 | 48.5 |
-| 08:30 | EUR | Low | HCOB Germany Composite PMI (Oct) |  | 51.6 | 52.0 |
-| 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Oct) |  | 49.5 | 49.5 |
-| 08:30 | EUR | Moderate | HCOB Germany Services PMI (Oct) |  | 51.1 | 51.5 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Oct) |  | 49.8 | 49.8 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Oct) |  | 51.0 | 51.2 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Oct) |  | 51.2 | 51.3 |
+| 07:45 | EUR | Low | French Consumer Confidence (Oct) | 90 | 87 | 88 |
+| 08:00 | EUR | Low | Spanish PPI (YoY) (Sep) | 0.3% |  | -1.5% |
+| 08:00 | EUR | Low | Spanish Unemployment Rate (Q3) | 10.45% | 10.20% | 10.29% |
+| 6 min | EUR | Moderate | HCOB France Manufacturing PMI (Oct) |  | 48.2 | 48.2 |
+| 6 min | EUR | Low | HCOB France Composite PMI (Oct) |  |  | 48.1 |
+| 6 min | EUR | Moderate | HCOB France Services PMI (Oct) |  | 48.7 | 48.5 |
+| 21 min | EUR | Low | HCOB Germany Composite PMI (Oct) |  | 51.6 | 52.0 |
+| 21 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Oct) |  | 49.5 | 49.5 |
+| 21 min | EUR | Moderate | HCOB Germany Services PMI (Oct) |  | 51.1 | 51.5 |
+| 51 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Oct) |  | 49.8 | 49.8 |
+| 51 min | EUR | Moderate | HCOB Eurozone Composite PMI (Oct) |  | 51.0 | 51.2 |
+| 51 min | EUR | Moderate | HCOB Eurozone Services PMI (Oct) |  | 51.2 | 51.3 |
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (Oct) |  | 50.6 | 50.1 |
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Oct) |  | 46.6 | 46.2 |
 | 09:30 | GBP | Moderate | S&P Global Services PMI (Oct) |  | 51.0 | 50.8 |
@@ -45,8 +45,8 @@
 | 12:30 | BRL | Low | Foreign direct investment (USD) (Sep) |  | 6.50B | 7.99B |
 | 13:00 | BRL | Low | Mid-Month CPI (MoM) (Oct) |  | 0.25% | 0.48% |
 | 13:00 | BRL | Low | Mid-Month CPI (YoY) (Oct) |  | 5.02% | 5.32% |
-| 13:30 | USD | Low | Building Permits (MoM) (Sep) |  |  | -2.3% |
 | 13:30 | USD | Moderate | Building Permits (Sep) |  |  | 1.330M |
+| 13:30 | USD | Low | Building Permits (MoM) (Sep) |  |  | -2.3% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Sep) |  | 3.1% | 3.1% |
 | 13:30 | USD | High | Core CPI (MoM) (Sep) |  | 0.3% | 0.3% |
 | 13:30 | USD | Low | Core CPI Index (Sep) |  |  | 329.79 |

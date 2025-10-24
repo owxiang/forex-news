@@ -17,11 +17,11 @@
 | 06:00 | JPY | Leading Index (Aug) | 107.0 | 107.4 | 106.1 |
 | 06:00 | SGD | Industrial Production (YoY) (Sep) | 16.1% | 0.5% | -9.0% |
 | 06:00 | SGD | Industrial Production (MoM) (Sep) | 26.3% | 8.6% | -11.0% |
-| 35 min | EUR | French Consumer Confidence (Oct) |  | 87 | 87 |
-| 50 min | EUR | Spanish PPI (YoY) (Sep) |  |  | -1.5% |
-| 50 min | EUR | Spanish Unemployment Rate (Q3) |  | 10.20% | 10.29% |
-| 08:15 | EUR | HCOB France Composite PMI (Oct) |  |  | 48.1 |
-| 08:30 | EUR | HCOB Germany Composite PMI (Oct) |  | 51.6 | 52.0 |
+| 07:45 | EUR | French Consumer Confidence (Oct) | 90 | 87 | 88 |
+| 08:00 | EUR | Spanish PPI (YoY) (Sep) | 0.3% |  | -1.5% |
+| 08:00 | EUR | Spanish Unemployment Rate (Q3) | 10.45% | 10.20% | 10.29% |
+| 6 min | EUR | HCOB France Composite PMI (Oct) |  |  | 48.1 |
+| 21 min | EUR | HCOB Germany Composite PMI (Oct) |  | 51.6 | 52.0 |
 | 12:30 | INR | FX Reserves, USD |  |  | 697.78B |
 | 12:30 | BRL | Current Account (USD) (Sep) |  | -7.50B | -4.67B |
 | 12:30 | BRL | Foreign direct investment (USD) (Sep) |  | 6.50B | 7.99B |
