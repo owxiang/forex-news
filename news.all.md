@@ -18,10 +18,10 @@
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Aug) | -1.3% | -0.7% | -1.8% |
 | 06:00 | JPY | Low | Leading Index (MoM) (Aug) | 0.9% | 1.3% | 1.1% |
 | 06:00 | JPY | Low | Leading Index (Aug) | 107.0 | 107.4 | 106.1 |
-| 06:00 | SGD | Low | Industrial Production (MoM) (Sep) | 26.3% | 8.6% | -11.0% |
 | 06:00 | SGD | Low | Industrial Production (YoY) (Sep) | 16.1% | 0.5% | -9.0% |
-| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Sep) | 2.3% | 0.7% | 1.3% |
+| 06:00 | SGD | Low | Industrial Production (MoM) (Sep) | 26.3% | 8.6% | -11.0% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Sep) | 0.6% |  | 1.0% |
+| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Sep) | 2.3% | 0.7% | 1.3% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Sep) | 0.5% | -0.2% | 0.6% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Sep) | 1.5% | 0.6% | 0.7% |
 | 07:45 | EUR | Low | French Consumer Confidence (Oct) | 90 | 87 | 88 |
@@ -45,8 +45,8 @@
 | 12:30 | BRL | Low | Foreign direct investment (USD) (Sep) | 10.67B | 6.50B | 7.99B |
 | 13:00 | BRL | Low | Mid-Month CPI (MoM) (Oct) | 0.18% | 0.25% | 0.48% |
 | 13:00 | BRL | Low | Mid-Month CPI (YoY) (Oct) | 4.94% | 5.02% | 5.32% |
-| 13:30 | USD | Moderate | Core CPI (YoY) (Sep) | 3.0% | 3.1% | 3.1% |
 | 13:30 | USD | High | Core CPI (MoM) (Sep) | 0.2% | 0.3% | 0.3% |
+| 13:30 | USD | Moderate | Core CPI (YoY) (Sep) | 3.0% | 3.1% | 3.1% |
 | 13:30 | USD | Low | Core CPI Index (Sep) | 330.54 |  | 329.79 |
 | 13:30 | USD | High | CPI (YoY) (Sep) | 3.0% | 3.1% | 2.9% |
 | 13:30 | USD | High | CPI (MoM) (Sep) | 0.3% | 0.4% | 0.4% |
