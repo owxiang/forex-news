@@ -5,8 +5,8 @@
 | 00:30 | JPY | National Core CPI (YoY) (Sep) | 2.9% | 2.9% | 2.7% |
 | 00:30 | JPY | National CPI (MoM) (Sep) | 0.1% |  | 0.1% |
 | 01:30 | JPY | au Jibun Bank Services PMI (Oct) | 52.4 |  | 53.3 |
-| 07:00 | GBP | Core Retail Sales (YoY) (Sep) | 2.3% | 0.7% | 1.3% |
 | 07:00 | GBP | Core Retail Sales (MoM) (Sep) | 0.6% |  | 1.0% |
+| 07:00 | GBP | Core Retail Sales (YoY) (Sep) | 2.3% | 0.7% | 1.3% |
 | 07:00 | GBP | Retail Sales (MoM) (Sep) | 0.5% | -0.2% | 0.6% |
 | 07:00 | GBP | Retail Sales (YoY) (Sep) | 1.5% | 0.6% | 0.7% |
 | 08:15 | EUR | HCOB France Manufacturing PMI (Oct) | 48.3 | 48.2 | 48.2 |

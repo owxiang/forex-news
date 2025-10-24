@@ -15,8 +15,8 @@
 | 06:00 | JPY | Coincident Indicator (MoM) (Aug) | -1.3% | -0.7% | -1.8% |
 | 06:00 | JPY | Leading Index (MoM) (Aug) | 0.9% | 1.3% | 1.1% |
 | 06:00 | JPY | Leading Index (Aug) | 107.0 | 107.4 | 106.1 |
-| 06:00 | SGD | Industrial Production (MoM) (Sep) | 26.3% | 8.6% | -11.0% |
 | 06:00 | SGD | Industrial Production (YoY) (Sep) | 16.1% | 0.5% | -9.0% |
+| 06:00 | SGD | Industrial Production (MoM) (Sep) | 26.3% | 8.6% | -11.0% |
 | 07:45 | EUR | French Consumer Confidence (Oct) | 90 | 87 | 88 |
 | 08:00 | EUR | Spanish PPI (YoY) (Sep) | 0.3% |  | -1.6% |
 | 08:00 | EUR | Spanish Unemployment Rate (Q3) | 10.45% | 10.20% | 10.29% |
@@ -32,4 +32,4 @@
 | 13:30 | USD | CPI Index, s.a (Sep) | 324.37 |  | 323.36 |
 | 13:30 | USD | CPI, n.s.a (MoM) (Sep) | 0.25% |  | 0.29% |
 | 15:00 | USD | Michigan Current Conditions (Oct) | 58.6 | 61.0 | 60.4 |
-| 53 min | USD | Cleveland CPI (MoM) (Sep) |  |  | 0.3% |
+| 16:00 | USD | Cleveland CPI (MoM) (Sep) | 0.2% |  | 0.3% |
