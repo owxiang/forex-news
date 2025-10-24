@@ -15,8 +15,8 @@
 | 06:00 | JPY | Coincident Indicator (MoM) (Aug) | -1.3% | -0.7% | -1.8% |
 | 06:00 | JPY | Leading Index (MoM) (Aug) | 0.9% | 1.3% | 1.1% |
 | 06:00 | JPY | Leading Index (Aug) | 107.0 | 107.4 | 106.1 |
-| 06:00 | SGD | Industrial Production (YoY) (Sep) | 16.1% | 0.5% | -9.0% |
 | 06:00 | SGD | Industrial Production (MoM) (Sep) | 26.3% | 8.6% | -11.0% |
+| 06:00 | SGD | Industrial Production (YoY) (Sep) | 16.1% | 0.5% | -9.0% |
 | 07:45 | EUR | French Consumer Confidence (Oct) | 90 | 87 | 88 |
 | 08:00 | EUR | Spanish PPI (YoY) (Sep) | 0.3% |  | -1.6% |
 | 08:00 | EUR | Spanish Unemployment Rate (Q3) | 10.45% | 10.20% | 10.29% |

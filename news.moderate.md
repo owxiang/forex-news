@@ -28,5 +28,5 @@
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Oct) | 3.9% | 3.7% | 3.7% |
 | 15:00 | USD | Michigan Consumer Expectations (Oct) | 50.3 | 51.2 | 51.7 |
 | 15:00 | USD | Michigan Consumer Sentiment (Oct) | 53.6 | 55.0 | 55.1 |
-| 51 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 418 |
-| 51 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 548 |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 420 |  | 418 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count | 550 |  | 548 |
