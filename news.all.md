@@ -3,15 +3,15 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | GfK Consumer Confidence (Oct) | -17 | -20 | -19 |
-| 23 min | JPY | Low | CPI, n.s.a (MoM) (Sep) |  |  | 0.2% |
-| 23 min | JPY | Moderate | National Core CPI (YoY) (Sep) |  | 2.9% | 2.7% |
-| 23 min | JPY | Moderate | National CPI (MoM) (Sep) |  |  | 0.1% |
-| 23 min | JPY | Low | National CPI (YoY) (Sep) |  |  | 2.7% |
-| 58 min | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
-| 01:30 | JPY | Low | Manufacturing & Services PMI (Oct) |  |  | 51.30 |
-| 01:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Oct) |  | 48.6 | 48.5 |
-| 01:30 | JPY | Moderate | au Jibun Bank Services PMI (Oct) |  |  | 53.3 |
-| 01:30 | SGD | Low | URA Property Index (QoQ) (Q3) |  | 1.20% | 1.00% |
+| 00:30 | JPY | Low | CPI, n.s.a (MoM) (Sep) | -0.1% |  | 0.2% |
+| 00:30 | JPY | Moderate | National Core CPI (YoY) (Sep) | 2.9% | 2.9% | 2.7% |
+| 00:30 | JPY | Moderate | National CPI (MoM) (Sep) | 0.1% |  | 0.1% |
+| 00:30 | JPY | Low | National CPI (YoY) (Sep) | 2.9% |  | 2.7% |
+| 01:05 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
+| 4 min | JPY | Low | Manufacturing & Services PMI (Oct) |  |  | 51.30 |
+| 4 min | JPY | Low | au Jibun Bank Manufacturing PMI (Oct) |  | 48.6 | 48.5 |
+| 4 min | JPY | Moderate | au Jibun Bank Services PMI (Oct) |  |  | 53.3 |
+| 4 min | SGD | Low | URA Property Index (QoQ) (Q3) |  | 1.20% | 1.00% |
 | 06:00 | INR | Low | S&P Global Manufacturing PMI (Oct) |  |  | 57.7 |
 | 06:00 | INR | Low | S&P Global Services PMI (Oct) |  |  | 60.9 |
 | 06:00 | INR | Low | Manufacturing & Services PMI (Oct) |  |  | 61.00 |
