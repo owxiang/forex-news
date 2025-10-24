@@ -5,8 +5,8 @@
 | 00:30 | JPY | National Core CPI (YoY) (Sep) | 2.9% | 2.9% | 2.7% |
 | 00:30 | JPY | National CPI (MoM) (Sep) | 0.1% |  | 0.1% |
 | 01:30 | JPY | au Jibun Bank Services PMI (Oct) | 52.4 |  | 53.3 |
-| 07:00 | GBP | Core Retail Sales (MoM) (Sep) | 0.6% |  | 1.0% |
 | 07:00 | GBP | Core Retail Sales (YoY) (Sep) | 2.3% | 0.7% | 1.3% |
+| 07:00 | GBP | Core Retail Sales (MoM) (Sep) | 0.6% |  | 1.0% |
 | 07:00 | GBP | Retail Sales (MoM) (Sep) | 0.5% | -0.2% | 0.6% |
 | 07:00 | GBP | Retail Sales (YoY) (Sep) | 1.5% | 0.6% | 0.7% |
 | 08:15 | EUR | HCOB France Manufacturing PMI (Oct) | 48.3 | 48.2 | 48.2 |
@@ -23,10 +23,10 @@
 | 13:30 | USD | Core CPI (YoY) (Sep) | 3.0% | 3.1% | 3.1% |
 | 13:30 | CAD | New Housing Price Index (MoM) (Sep) | -0.2% | 0.2% | -0.3% |
 | 13:45 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 14:45 | USD | S&P Global Composite PMI (Oct) | 54.8 |  | 53.9 |
+| 14:45 | USD | S&P Global Composite PMI (Oct) | 54.8 | 53.5 | 53.9 |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Oct) | 4.6% | 4.6% | 4.7% |
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Oct) | 3.9% | 3.7% | 3.7% |
 | 15:00 | USD | Michigan Consumer Expectations (Oct) | 50.3 | 51.2 | 51.7 |
 | 15:00 | USD | Michigan Consumer Sentiment (Oct) | 53.6 | 55.0 | 55.1 |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 418 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 548 |
+| 51 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 418 |
+| 51 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 548 |

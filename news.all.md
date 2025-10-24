@@ -20,8 +20,8 @@
 | 06:00 | JPY | Low | Leading Index (Aug) | 107.0 | 107.4 | 106.1 |
 | 06:00 | SGD | Low | Industrial Production (YoY) (Sep) | 16.1% | 0.5% | -9.0% |
 | 06:00 | SGD | Low | Industrial Production (MoM) (Sep) | 26.3% | 8.6% | -11.0% |
-| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Sep) | 0.6% |  | 1.0% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Sep) | 2.3% | 0.7% | 1.3% |
+| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Sep) | 0.6% |  | 1.0% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Sep) | 0.5% | -0.2% | 0.6% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Sep) | 1.5% | 0.6% | 0.7% |
 | 07:45 | EUR | Low | French Consumer Confidence (Oct) | 90 | 87 | 88 |
@@ -56,7 +56,7 @@
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Sep) | -0.2% | 0.2% | -0.3% |
 | 13:45 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 14:45 | USD | High | S&P Global Manufacturing PMI (Oct) | 52.2 | 51.9 | 52.0 |
-| 14:45 | USD | Moderate | S&P Global Composite PMI (Oct) | 54.8 |  | 53.9 |
+| 14:45 | USD | Moderate | S&P Global Composite PMI (Oct) | 54.8 | 53.5 | 53.9 |
 | 14:45 | USD | High | S&P Global Services PMI (Oct) | 55.2 | 53.5 | 54.2 |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Oct) | 4.6% | 4.6% | 4.7% |
 | 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Oct) | 3.9% | 3.7% | 3.7% |
@@ -64,5 +64,5 @@
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Oct) | 53.6 | 55.0 | 55.1 |
 | 15:00 | USD | Low | Michigan Current Conditions (Oct) | 58.6 | 61.0 | 60.4 |
 | 16:00 | USD | Low | Cleveland CPI (MoM) (Sep) | 0.2% |  | 0.3% |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 418 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 548 |
+| 51 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 418 |
+| 51 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 548 |
