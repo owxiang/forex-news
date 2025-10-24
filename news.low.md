@@ -7,16 +7,16 @@
 | 00:30 | JPY | National CPI (YoY) (Sep) | 2.9% |  | 2.7% |
 | 01:05 | AUD | RBA Gov Bullock Speaks |  |  |  |
 | 01:30 | JPY | Manufacturing & Services PMI (Oct) | 50.90 |  | 51.30 |
-| 01:30 | JPY | au Jibun Bank Manufacturing PMI (Oct) | 48.3 | 48.6 | 48.5 |
+| 01:30 | JPY | au Jibun Bank Manufacturing PMI (Oct) | 48.3 | 48.8 | 48.5 |
 | 01:30 | SGD | URA Property Index (QoQ) (Q3) | 0.90% | 1.20% | 1.00% |
-| 52 min | INR | S&P Global Manufacturing PMI (Oct) |  |  | 57.7 |
-| 52 min | INR | S&P Global Services PMI (Oct) |  |  | 60.9 |
-| 52 min | INR | Manufacturing & Services PMI (Oct) |  |  | 61.00 |
-| 52 min | JPY | Coincident Indicator (MoM) (Aug) |  | -0.7% | -1.8% |
-| 52 min | JPY | Leading Index (MoM) (Aug) |  | 1.3% | 1.1% |
-| 52 min | JPY | Leading Index (Aug) |  | 107.4 | 106.1 |
-| 52 min | SGD | Industrial Production (MoM) (Sep) |  | 8.6% | -9.7% |
-| 52 min | SGD | Industrial Production (YoY) (Sep) |  | 0.5% | -7.8% |
+| 06:00 | INR | S&P Global Manufacturing PMI (Oct) | 58.4 |  | 57.7 |
+| 06:00 | INR | S&P Global Services PMI (Oct) | 58.8 |  | 60.9 |
+| 06:00 | INR | Manufacturing & Services PMI (Oct) | 59.90 |  | 61.00 |
+| 06:00 | JPY | Coincident Indicator (MoM) (Aug) | -1.3% | -0.7% | -1.8% |
+| 06:00 | JPY | Leading Index (Aug) | 107.0 | 107.4 | 106.1 |
+| 06:00 | JPY | Leading Index (MoM) (Aug) | 0.9% | 1.3% | 1.1% |
+| 06:00 | SGD | Industrial Production (MoM) (Sep) | 26.3% | 8.6% | -11.0% |
+| 06:00 | SGD | Industrial Production (YoY) (Sep) | 16.1% | 0.5% | -9.0% |
 | 07:45 | EUR | French Consumer Confidence (Oct) |  | 87 | 87 |
 | 08:00 | EUR | Spanish PPI (YoY) (Sep) |  |  | -1.5% |
 | 08:00 | EUR | Spanish Unemployment Rate (Q3) |  | 10.20% | 10.29% |

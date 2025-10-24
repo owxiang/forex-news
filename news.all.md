@@ -9,21 +9,21 @@
 | 00:30 | JPY | Low | National CPI (YoY) (Sep) | 2.9% |  | 2.7% |
 | 01:05 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
 | 01:30 | JPY | Low | Manufacturing & Services PMI (Oct) | 50.90 |  | 51.30 |
-| 01:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Oct) | 48.3 | 48.6 | 48.5 |
+| 01:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Oct) | 48.3 | 48.8 | 48.5 |
 | 01:30 | JPY | Moderate | au Jibun Bank Services PMI (Oct) | 52.4 |  | 53.3 |
 | 01:30 | SGD | Low | URA Property Index (QoQ) (Q3) | 0.90% | 1.20% | 1.00% |
-| 52 min | INR | Low | S&P Global Manufacturing PMI (Oct) |  |  | 57.7 |
-| 52 min | INR | Low | S&P Global Services PMI (Oct) |  |  | 60.9 |
-| 52 min | INR | Low | Manufacturing & Services PMI (Oct) |  |  | 61.00 |
-| 52 min | JPY | Low | Coincident Indicator (MoM) (Aug) |  | -0.7% | -1.8% |
-| 52 min | JPY | Low | Leading Index (MoM) (Aug) |  | 1.3% | 1.1% |
-| 52 min | JPY | Low | Leading Index (Aug) |  | 107.4 | 106.1 |
-| 52 min | SGD | Low | Industrial Production (MoM) (Sep) |  | 8.6% | -9.7% |
-| 52 min | SGD | Low | Industrial Production (YoY) (Sep) |  | 0.5% | -7.8% |
-| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Sep) |  | 0.7% | 1.2% |
-| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Sep) |  |  | 0.8% |
-| 07:00 | GBP | Moderate | Retail Sales (YoY) (Sep) |  | 0.6% | 0.7% |
-| 07:00 | GBP | Moderate | Retail Sales (MoM) (Sep) |  | -0.2% | 0.5% |
+| 06:00 | INR | Low | S&P Global Manufacturing PMI (Oct) | 58.4 |  | 57.7 |
+| 06:00 | INR | Low | S&P Global Services PMI (Oct) | 58.8 |  | 60.9 |
+| 06:00 | INR | Low | Manufacturing & Services PMI (Oct) | 59.90 |  | 61.00 |
+| 06:00 | JPY | Low | Coincident Indicator (MoM) (Aug) | -1.3% | -0.7% | -1.8% |
+| 06:00 | JPY | Low | Leading Index (Aug) | 107.0 | 107.4 | 106.1 |
+| 06:00 | JPY | Low | Leading Index (MoM) (Aug) | 0.9% | 1.3% | 1.1% |
+| 06:00 | SGD | Low | Industrial Production (MoM) (Sep) | 26.3% | 8.6% | -11.0% |
+| 06:00 | SGD | Low | Industrial Production (YoY) (Sep) | 16.1% | 0.5% | -9.0% |
+| 53 min | GBP | Moderate | Core Retail Sales (YoY) (Sep) |  | 0.7% | 1.2% |
+| 53 min | GBP | Moderate | Core Retail Sales (MoM) (Sep) |  |  | 0.8% |
+| 53 min | GBP | Moderate | Retail Sales (YoY) (Sep) |  | 0.6% | 0.7% |
+| 53 min | GBP | Moderate | Retail Sales (MoM) (Sep) |  | -0.2% | 0.5% |
 | 07:45 | EUR | Low | French Consumer Confidence (Oct) |  | 87 | 87 |
 | 08:00 | EUR | Low | Spanish PPI (YoY) (Sep) |  |  | -1.5% |
 | 08:00 | EUR | Low | Spanish Unemployment Rate (Q3) |  | 10.20% | 10.29% |
@@ -47,8 +47,8 @@
 | 13:00 | BRL | Low | Mid-Month CPI (MoM) (Oct) |  | 0.25% | 0.48% |
 | 13:30 | USD | Low | Building Permits (MoM) (Sep) |  |  | -2.3% |
 | 13:30 | USD | Moderate | Building Permits (Sep) |  |  | 1.330M |
-| 13:30 | USD | Moderate | Core CPI (YoY) (Sep) |  | 3.1% | 3.1% |
 | 13:30 | USD | High | Core CPI (MoM) (Sep) |  | 0.3% | 0.3% |
+| 13:30 | USD | Moderate | Core CPI (YoY) (Sep) |  | 3.1% | 3.1% |
 | 13:30 | USD | Low | Core CPI Index (Sep) |  |  | 329.79 |
 | 13:30 | USD | High | CPI (YoY) (Sep) |  | 3.1% | 2.9% |
 | 13:30 | USD | High | CPI (MoM) (Sep) |  | 0.4% | 0.4% |
