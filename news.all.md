@@ -20,8 +20,8 @@
 | 06:00 | JPY | Low | Leading Index (Aug) |  | 107.4 | 106.1 |
 | 06:00 | SGD | Low | Industrial Production (YoY) (Sep) |  | 0.5% | -7.8% |
 | 06:00 | SGD | Low | Industrial Production (MoM) (Sep) |  | 8.6% | -9.7% |
-| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Sep) |  | 0.7% | 1.2% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Sep) |  |  | 0.8% |
+| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Sep) |  | 0.7% | 1.2% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Sep) |  | -0.2% | 0.5% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Sep) |  | 0.6% | 0.7% |
 | 07:45 | EUR | Low | French Consumer Confidence (Oct) |  | 87 | 87 |
