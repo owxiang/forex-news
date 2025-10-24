@@ -22,16 +22,15 @@
 | 08:00 | EUR | Spanish Unemployment Rate (Q3) | 10.45% | 10.20% | 10.29% |
 | 08:15 | EUR | HCOB France Composite PMI (Oct) | 46.8 |  | 48.1 |
 | 08:30 | EUR | HCOB Germany Composite PMI (Oct) | 53.8 | 51.6 | 52.0 |
-| 24 min | INR | FX Reserves, USD |  |  | 697.78B |
-| 24 min | BRL | Current Account (USD) (Sep) |  | -7.50B | -4.67B |
-| 24 min | BRL | Foreign direct investment (USD) (Sep) |  | 6.50B | 7.99B |
-| 54 min | BRL | Mid-Month CPI (MoM) (Oct) |  | 0.25% | 0.48% |
-| 54 min | BRL | Mid-Month CPI (YoY) (Oct) |  | 5.02% | 5.32% |
-| 13:30 | USD | Building Permits (MoM) (Sep) |  |  | -2.3% |
-| 13:30 | USD | Core CPI Index (Sep) |  |  | 329.79 |
-| 13:30 | USD | CPI Index, n.s.a. (Sep) |  | 325.01 | 323.98 |
-| 13:30 | USD | CPI Index, s.a (Sep) |  |  | 323.36 |
-| 13:30 | USD | CPI, n.s.a (MoM) (Sep) |  |  | 0.29% |
-| 13:30 | USD | Real Earnings (MoM) (Sep) |  |  | -0.1% |
+| 12:30 | INR | FX Reserves, USD | 702.28B |  | 697.78B |
+| 12:30 | BRL | Current Account (USD) (Sep) | -9.77B | -7.50B | -4.67B |
+| 12:30 | BRL | Foreign direct investment (USD) (Sep) | 10.67B | 6.50B | 7.99B |
+| 13:00 | BRL | Mid-Month CPI (MoM) (Oct) | 0.18% | 0.25% | 0.48% |
+| 13:00 | BRL | Mid-Month CPI (YoY) (Oct) | 4.94% | 5.02% | 5.32% |
+| 17 min | USD | Core CPI Index (Sep) |  |  | 329.79 |
+| 17 min | USD | CPI Index, n.s.a. (Sep) |  | 325.01 | 323.98 |
+| 17 min | USD | CPI Index, s.a (Sep) |  |  | 323.36 |
+| 17 min | USD | CPI, n.s.a (MoM) (Sep) |  |  | 0.29% |
+| 17 min | USD | Real Earnings (MoM) (Sep) |  |  | -0.1% |
 | 15:00 | USD | Michigan Current Conditions (Oct) |  | 61.0 | 60.4 |
 | 16:00 | USD | Cleveland CPI (MoM) (Sep) |  |  | 0.3% |

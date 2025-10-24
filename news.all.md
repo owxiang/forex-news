@@ -20,8 +20,8 @@
 | 06:00 | JPY | Low | Leading Index (Aug) | 107.0 | 107.4 | 106.1 |
 | 06:00 | SGD | Low | Industrial Production (YoY) (Sep) | 16.1% | 0.5% | -9.0% |
 | 06:00 | SGD | Low | Industrial Production (MoM) (Sep) | 26.3% | 8.6% | -11.0% |
-| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Sep) | 2.3% | 0.7% | 1.3% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Sep) | 0.6% |  | 1.0% |
+| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Sep) | 2.3% | 0.7% | 1.3% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Sep) | 0.5% | -0.2% | 0.6% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Sep) | 1.5% | 0.6% | 0.7% |
 | 07:45 | EUR | Low | French Consumer Confidence (Oct) | 90 | 87 | 88 |
@@ -40,24 +40,22 @@
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Oct) | 49.6 | 46.6 | 46.2 |
 | 09:30 | GBP | Moderate | S&P Global Services PMI (Oct) | 51.1 | 51.0 | 50.8 |
 | 10:15 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
-| 24 min | INR | Low | FX Reserves, USD |  |  | 697.78B |
-| 24 min | BRL | Low | Current Account (USD) (Sep) |  | -7.50B | -4.67B |
-| 24 min | BRL | Low | Foreign direct investment (USD) (Sep) |  | 6.50B | 7.99B |
-| 54 min | BRL | Low | Mid-Month CPI (MoM) (Oct) |  | 0.25% | 0.48% |
-| 54 min | BRL | Low | Mid-Month CPI (YoY) (Oct) |  | 5.02% | 5.32% |
-| 13:30 | USD | Moderate | Building Permits (Sep) |  |  | 1.330M |
-| 13:30 | USD | Low | Building Permits (MoM) (Sep) |  |  | -2.3% |
-| 13:30 | USD | Moderate | Core CPI (YoY) (Sep) |  | 3.1% | 3.1% |
-| 13:30 | USD | High | Core CPI (MoM) (Sep) |  | 0.3% | 0.3% |
-| 13:30 | USD | Low | Core CPI Index (Sep) |  |  | 329.79 |
-| 13:30 | USD | High | CPI (YoY) (Sep) |  | 3.1% | 2.9% |
-| 13:30 | USD | High | CPI (MoM) (Sep) |  | 0.4% | 0.4% |
-| 13:30 | USD | Low | CPI Index, n.s.a. (Sep) |  | 325.01 | 323.98 |
-| 13:30 | USD | Low | CPI Index, s.a (Sep) |  |  | 323.36 |
-| 13:30 | USD | Low | CPI, n.s.a (MoM) (Sep) |  |  | 0.29% |
-| 13:30 | USD | Low | Real Earnings (MoM) (Sep) |  |  | -0.1% |
-| 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Sep) |  | 0.2% | -0.3% |
-| 13:45 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 12:30 | INR | Low | FX Reserves, USD | 702.28B |  | 697.78B |
+| 12:30 | BRL | Low | Current Account (USD) (Sep) | -9.77B | -7.50B | -4.67B |
+| 12:30 | BRL | Low | Foreign direct investment (USD) (Sep) | 10.67B | 6.50B | 7.99B |
+| 13:00 | BRL | Low | Mid-Month CPI (MoM) (Oct) | 0.18% | 0.25% | 0.48% |
+| 13:00 | BRL | Low | Mid-Month CPI (YoY) (Oct) | 4.94% | 5.02% | 5.32% |
+| 17 min | USD | High | Core CPI (MoM) (Sep) |  | 0.3% | 0.3% |
+| 17 min | USD | Moderate | Core CPI (YoY) (Sep) |  | 3.1% | 3.1% |
+| 17 min | USD | Low | Core CPI Index (Sep) |  |  | 329.79 |
+| 17 min | USD | High | CPI (YoY) (Sep) |  | 3.1% | 2.9% |
+| 17 min | USD | High | CPI (MoM) (Sep) |  | 0.4% | 0.4% |
+| 17 min | USD | Low | CPI Index, n.s.a. (Sep) |  | 325.01 | 323.98 |
+| 17 min | USD | Low | CPI Index, s.a (Sep) |  |  | 323.36 |
+| 17 min | USD | Low | CPI, n.s.a (MoM) (Sep) |  |  | 0.29% |
+| 17 min | USD | Low | Real Earnings (MoM) (Sep) |  |  | -0.1% |
+| 17 min | CAD | Moderate | New Housing Price Index (MoM) (Sep) |  | 0.2% | -0.3% |
+| 32 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 14:45 | USD | High | S&P Global Manufacturing PMI (Oct) |  | 51.9 | 52.0 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Oct) |  |  | 53.9 |
 | 14:45 | USD | High | S&P Global Services PMI (Oct) |  | 53.5 | 54.2 |
