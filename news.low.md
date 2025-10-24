@@ -13,20 +13,20 @@
 | 06:00 | INR | S&P Global Services PMI (Oct) | 58.8 |  | 60.9 |
 | 06:00 | INR | Manufacturing & Services PMI (Oct) | 59.90 |  | 61.00 |
 | 06:00 | JPY | Coincident Indicator (MoM) (Aug) | -1.3% | -0.7% | -1.8% |
-| 06:00 | JPY | Leading Index (Aug) | 107.0 | 107.4 | 106.1 |
 | 06:00 | JPY | Leading Index (MoM) (Aug) | 0.9% | 1.3% | 1.1% |
-| 06:00 | SGD | Industrial Production (MoM) (Sep) | 26.3% | 8.6% | -11.0% |
+| 06:00 | JPY | Leading Index (Aug) | 107.0 | 107.4 | 106.1 |
 | 06:00 | SGD | Industrial Production (YoY) (Sep) | 16.1% | 0.5% | -9.0% |
+| 06:00 | SGD | Industrial Production (MoM) (Sep) | 26.3% | 8.6% | -11.0% |
 | 07:45 | EUR | French Consumer Confidence (Oct) | 90 | 87 | 88 |
 | 08:00 | EUR | Spanish PPI (YoY) (Sep) | 0.3% |  | -1.6% |
 | 08:00 | EUR | Spanish Unemployment Rate (Q3) | 10.45% | 10.20% | 10.29% |
 | 08:15 | EUR | HCOB France Composite PMI (Oct) | 46.8 |  | 48.1 |
 | 08:30 | EUR | HCOB Germany Composite PMI (Oct) | 53.8 | 51.6 | 52.0 |
-| 12:30 | INR | FX Reserves, USD |  |  | 697.78B |
-| 12:30 | BRL | Current Account (USD) (Sep) |  | -7.50B | -4.67B |
-| 12:30 | BRL | Foreign direct investment (USD) (Sep) |  | 6.50B | 7.99B |
-| 13:00 | BRL | Mid-Month CPI (YoY) (Oct) |  | 5.02% | 5.32% |
-| 13:00 | BRL | Mid-Month CPI (MoM) (Oct) |  | 0.25% | 0.48% |
+| 24 min | INR | FX Reserves, USD |  |  | 697.78B |
+| 24 min | BRL | Current Account (USD) (Sep) |  | -7.50B | -4.67B |
+| 24 min | BRL | Foreign direct investment (USD) (Sep) |  | 6.50B | 7.99B |
+| 54 min | BRL | Mid-Month CPI (MoM) (Oct) |  | 0.25% | 0.48% |
+| 54 min | BRL | Mid-Month CPI (YoY) (Oct) |  | 5.02% | 5.32% |
 | 13:30 | USD | Building Permits (MoM) (Sep) |  |  | -2.3% |
 | 13:30 | USD | Core CPI Index (Sep) |  |  | 329.79 |
 | 13:30 | USD | CPI Index, n.s.a. (Sep) |  | 325.01 | 323.98 |
