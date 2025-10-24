@@ -13,10 +13,10 @@
 | 06:00 | INR | S&P Global Services PMI (Oct) | 58.8 |  | 60.9 |
 | 06:00 | INR | Manufacturing & Services PMI (Oct) | 59.90 |  | 61.00 |
 | 06:00 | JPY | Coincident Indicator (MoM) (Aug) | -1.3% | -0.7% | -1.8% |
-| 06:00 | JPY | Leading Index (Aug) | 107.0 | 107.4 | 106.1 |
 | 06:00 | JPY | Leading Index (MoM) (Aug) | 0.9% | 1.3% | 1.1% |
-| 06:00 | SGD | Industrial Production (YoY) (Sep) | 16.1% | 0.5% | -9.0% |
+| 06:00 | JPY | Leading Index (Aug) | 107.0 | 107.4 | 106.1 |
 | 06:00 | SGD | Industrial Production (MoM) (Sep) | 26.3% | 8.6% | -11.0% |
+| 06:00 | SGD | Industrial Production (YoY) (Sep) | 16.1% | 0.5% | -9.0% |
 | 07:45 | EUR | French Consumer Confidence (Oct) | 90 | 87 | 88 |
 | 08:00 | EUR | Spanish PPI (YoY) (Sep) | 0.3% |  | -1.6% |
 | 08:00 | EUR | Spanish Unemployment Rate (Q3) | 10.45% | 10.20% | 10.29% |
@@ -25,11 +25,11 @@
 | 12:30 | INR | FX Reserves, USD | 702.28B |  | 697.78B |
 | 12:30 | BRL | Current Account (USD) (Sep) | -9.77B | -7.50B | -4.67B |
 | 12:30 | BRL | Foreign direct investment (USD) (Sep) | 10.67B | 6.50B | 7.99B |
-| 13:00 | BRL | Mid-Month CPI (YoY) (Oct) | 4.94% | 5.02% | 5.32% |
 | 13:00 | BRL | Mid-Month CPI (MoM) (Oct) | 0.18% | 0.25% | 0.48% |
+| 13:00 | BRL | Mid-Month CPI (YoY) (Oct) | 4.94% | 5.02% | 5.32% |
 | 13:30 | USD | Core CPI Index (Sep) | 330.54 |  | 329.79 |
 | 13:30 | USD | CPI Index, n.s.a. (Sep) | 324.80 | 325.01 | 323.98 |
 | 13:30 | USD | CPI Index, s.a (Sep) | 324.37 |  | 323.36 |
 | 13:30 | USD | CPI, n.s.a (MoM) (Sep) | 0.25% |  | 0.29% |
-| 44 min | USD | Michigan Current Conditions (Oct) |  | 61.0 | 60.4 |
-| 16:00 | USD | Cleveland CPI (MoM) (Sep) |  |  | 0.3% |
+| 15:00 | USD | Michigan Current Conditions (Oct) | 58.6 | 61.0 | 60.4 |
+| 53 min | USD | Cleveland CPI (MoM) (Sep) |  |  | 0.3% |
