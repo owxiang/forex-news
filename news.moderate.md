@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 22:45 | NZD | CPI (YoY) (Q3) | 3.0% | 3.0% | 2.7% |
 | 22:45 | NZD | CPI (QoQ) (Q3) | 1.0% | 0.8% | 0.5% |
+| 22:45 | NZD | CPI (YoY) (Q3) | 3.0% | 3.0% | 2.7% |
 | 02:00 | CNY | China Loan Prime Rate 5Y (Oct) | 3.50% | 3.50% | 3.50% |
 | 02:00 | CNY | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
 | 03:00 | CNY | Fixed Asset Investment (YoY) (Sep) | -0.5% | 0.1% | 0.5% |
@@ -25,8 +25,8 @@
 | 08:00 | EUR | ECB's Lane Speaks |  |  |  |
 | 11:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 12:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 13:30 | CAD | Core CPI (MoM) (Sep) | 0.2% |  | 0.0% |
 | 13:30 | CAD | Core CPI (YoY) (Sep) | 2.8% |  | 2.6% |
+| 13:30 | CAD | Core CPI (MoM) (Sep) | 0.2% |  | 0.0% |
 | 13:30 | CAD | CPI (MoM) (Sep) | 0.1% | -0.1% | -0.1% |
 | 14:00 | USD | Fed Waller Speaks |  |  |  |
 | 18:00 | EUR | German Buba Balz Speaks |  |  |  |
@@ -62,10 +62,10 @@
 | 00:30 | JPY | National Core CPI (YoY) (Sep) | 2.9% | 2.9% | 2.7% |
 | 00:30 | JPY | National CPI (MoM) (Sep) | 0.1% |  | 0.1% |
 | 01:30 | JPY | au Jibun Bank Services PMI (Oct) | 52.4 |  | 53.3 |
-| 07:00 | GBP | Core Retail Sales (YoY) (Sep) | 2.3% | 0.7% | 1.3% |
 | 07:00 | GBP | Core Retail Sales (MoM) (Sep) | 0.6% |  | 1.0% |
-| 07:00 | GBP | Retail Sales (YoY) (Sep) | 1.5% | 0.6% | 0.7% |
+| 07:00 | GBP | Core Retail Sales (YoY) (Sep) | 2.3% | 0.7% | 1.3% |
 | 07:00 | GBP | Retail Sales (MoM) (Sep) | 0.5% | -0.2% | 0.6% |
+| 07:00 | GBP | Retail Sales (YoY) (Sep) | 1.5% | 0.6% | 0.7% |
 | 08:15 | EUR | HCOB France Manufacturing PMI (Oct) | 48.3 | 48.2 | 48.2 |
 | 08:15 | EUR | HCOB France Services PMI (Oct) | 47.1 | 48.7 | 48.5 |
 | 08:30 | EUR | HCOB Germany Manufacturing PMI (Oct) | 49.6 | 49.5 | 49.5 |
