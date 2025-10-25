@@ -15,8 +15,8 @@
 | 10:00 | EUR | Construction Output (MoM) (Aug) | -0.10% |  | 0.49% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:30 | CAD | IPPI (MoM) (Sep) | 0.8% |  | 0.2% |
 | 13:30 | CAD | IPPI (YoY) (Sep) | 5.5% |  | 3.7% |
+| 13:30 | CAD | IPPI (MoM) (Sep) | 0.8% |  | 0.2% |
 | 13:30 | CAD | RMPI (YoY) (Sep) | 8.4% |  | 3.0% |
 | 14:00 | EUR | French 12-Month BTF Auction | 2.020% |  | 2.019% |
 | 14:00 | EUR | French 3-Month BTF Auction | 1.987% |  | 1.958% |
@@ -25,8 +25,8 @@
 | 16:30 | USD | 6-Month Bill Auction | 3.660% |  | 3.685% |
 | 22:45 | NZD | Exports (Sep) | 5.82B |  | 5.85B |
 | 22:45 | NZD | Imports (Sep) | 7.18B |  | 7.08B |
-| 22:45 | NZD | Trade Balance (YoY) (Sep) | -2,250M |  | -3,060M |
 | 22:45 | NZD | Trade Balance (MoM) (Sep) | -1,355M |  | -1,235M |
+| 22:45 | NZD | Trade Balance (YoY) (Sep) | -2,250M |  | -3,060M |
 | 00:45 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
 | 03:00 | NZD | Credit Card Spending (YoY) (Sep) | 0.2% |  | 3.3% |
 | 07:00 | GBP | Public Sector Net Borrowing | 20.20B | 20.70B | 18.00B |
@@ -49,21 +49,21 @@
 | 07:00 | GBP | Core CPI (MoM) (Sep) | 0.0% | 0.2% | 0.3% |
 | 07:00 | GBP | Core PPI Output (YoY) (Sep) | 3.6% |  | 1.9% |
 | 07:00 | GBP | Core PPI Output (MoM) (Sep) | 0.1% |  | 0.4% |
-| 07:00 | GBP | Core RPI (MoM) (Sep) | -0.4% |  | 0.4% |
 | 07:00 | GBP | Core RPI (YoY) (Sep) | 4.4% |  | 4.4% |
+| 07:00 | GBP | Core RPI (MoM) (Sep) | -0.4% |  | 0.4% |
 | 07:00 | GBP | CPI, n.s.a (Sep) | 139.30 |  | 139.30 |
 | 07:00 | GBP | PPI Input (YoY) (Sep) | 0.8% |  | 0.7% |
 | 07:00 | GBP | PPI Output (YoY) (Sep) | 3.4% |  | 1.1% |
 | 07:00 | GBP | PPI Output (MoM) (Sep) | 0.0% | 0.2% | 0.6% |
-| 07:00 | GBP | RPI (YoY) (Sep) | 4.5% | 4.7% | 4.6% |
 | 07:00 | GBP | RPI (MoM) (Sep) | -0.4% | -0.1% | 0.4% |
+| 07:00 | GBP | RPI (YoY) (Sep) | 4.5% | 4.7% | 4.6% |
 | 08:30 | IDR | Deposit Facility Rate (Oct) | 3.75% | 3.50% | 3.75% |
 | 08:30 | IDR | Lending Facility Rate (Oct) | 5.50% | 5.25% | 5.50% |
 | 08:30 | IDR | Loans (YoY) (Sep) | 7.70% |  | 7.56% |
 | 09:00 | ZAR | Core CPI (YoY) (Sep) | 3.2% |  | 3.1% |
 | 09:00 | ZAR | Core CPI (MoM) (Sep) | 0.3% |  | 0.1% |
-| 09:00 | ZAR | CPI (MoM) (Sep) | 0.2% |  | -0.1% |
 | 09:00 | ZAR | CPI (YoY) (Sep) | 3.4% | 3.5% | 3.3% |
+| 09:00 | ZAR | CPI (MoM) (Sep) | 0.2% |  | -0.1% |
 | 09:30 | GBP | House Price Index (YoY) | 3.0% | 2.5% | 2.8% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate | 6.37% |  | 6.42% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) | -0.3% |  | -1.8% |
@@ -99,8 +99,8 @@
 | 11:00 | GBP | CBI Industrial Trends Orders (Oct) | -38 | -28 | -27 |
 | 13:00 | MXN | 1st Half-Month Core CPI (Oct) | 0.18% | 0.19% | 0.22% |
 | 13:00 | MXN | 1st Half-Month CPI (Oct) | 0.28% | 0.36% | 0.18% |
-| 13:00 | MXN | Retail Sales (YoY) (Aug) | 2.4% |  | 2.4% |
 | 13:00 | MXN | Retail Sales (MoM) (Aug) | 0.6% | 0.2% | 0.1% |
+| 13:00 | MXN | Retail Sales (YoY) (Aug) | 2.4% |  | 2.4% |
 | 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 14:00 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
 | 15:00 | EUR | Consumer Confidence (Oct) | -14.2 | -15.0 | -14.9 |
@@ -127,8 +127,8 @@
 | 06:00 | JPY | Coincident Indicator (MoM) (Aug) | -1.3% | -0.7% | -1.8% |
 | 06:00 | JPY | Leading Index (Aug) | 107.0 | 107.4 | 106.1 |
 | 06:00 | JPY | Leading Index (MoM) (Aug) | 0.9% | 1.3% | 1.1% |
-| 06:00 | SGD | Industrial Production (MoM) (Sep) | 26.3% | 8.6% | -11.0% |
 | 06:00 | SGD | Industrial Production (YoY) (Sep) | 16.1% | 0.5% | -9.0% |
+| 06:00 | SGD | Industrial Production (MoM) (Sep) | 26.3% | 8.6% | -11.0% |
 | 07:45 | EUR | French Consumer Confidence (Oct) | 90 | 87 | 88 |
 | 08:00 | EUR | Spanish PPI (YoY) (Sep) | 0.3% |  | -1.6% |
 | 08:00 | EUR | Spanish Unemployment Rate (Q3) | 10.45% | 10.20% | 10.29% |
