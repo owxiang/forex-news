@@ -45,10 +45,10 @@
 | 22:00 | KRW | PPI (MoM) (Sep) | 0.4% |  | -0.1% |
 | 22:00 | KRW | PPI (YoY) (Sep) | 1.2% |  | 0.6% |
 | 00:50 | JPY | Imports (YoY) (Sep) | 3.3% | 0.6% | -5.2% |
-| 07:00 | GBP | Core CPI (MoM) (Sep) | 0.0% | 0.2% | 0.3% |
 | 07:00 | GBP | Core CPI (YoY) (Sep) | 3.5% | 3.7% | 3.6% |
-| 07:00 | GBP | Core PPI Output (MoM) (Sep) | 0.1% |  | 0.4% |
+| 07:00 | GBP | Core CPI (MoM) (Sep) | 0.0% | 0.2% | 0.3% |
 | 07:00 | GBP | Core PPI Output (YoY) (Sep) | 3.6% |  | 1.9% |
+| 07:00 | GBP | Core PPI Output (MoM) (Sep) | 0.1% |  | 0.4% |
 | 07:00 | GBP | Core RPI (MoM) (Sep) | -0.4% |  | 0.4% |
 | 07:00 | GBP | Core RPI (YoY) (Sep) | 4.4% |  | 4.4% |
 | 07:00 | GBP | CPI, n.s.a (Sep) | 139.30 |  | 139.30 |
@@ -60,8 +60,8 @@
 | 08:30 | IDR | Deposit Facility Rate (Oct) | 3.75% | 3.50% | 3.75% |
 | 08:30 | IDR | Lending Facility Rate (Oct) | 5.50% | 5.25% | 5.50% |
 | 08:30 | IDR | Loans (YoY) (Sep) | 7.70% |  | 7.56% |
-| 09:00 | ZAR | Core CPI (MoM) (Sep) | 0.3% |  | 0.1% |
 | 09:00 | ZAR | Core CPI (YoY) (Sep) | 3.2% |  | 3.1% |
+| 09:00 | ZAR | Core CPI (MoM) (Sep) | 0.3% |  | 0.1% |
 | 09:00 | ZAR | CPI (MoM) (Sep) | 0.2% |  | -0.1% |
 | 09:00 | ZAR | CPI (YoY) (Sep) | 3.4% | 3.5% | 3.3% |
 | 09:30 | GBP | House Price Index (YoY) | 3.0% | 2.5% | 2.8% |
@@ -70,8 +70,8 @@
 | 12:00 | USD | MBA Purchase Index | 157.3 |  | 166.0 |
 | 12:00 | USD | Mortgage Market Index | 316.2 |  | 317.2 |
 | 12:00 | USD | Mortgage Refinance Index | 1,214.7 |  | 1,168.0 |
-| 13:00 | MXN | Economic Activity (YoY) (Aug) | -0.90% | -1.00% | -1.10% |
 | 13:00 | MXN | Economic Activity (MoM) (Aug) | 0.60% | 0.10% | -0.90% |
+| 13:00 | MXN | Economic Activity (YoY) (Aug) | -0.90% | -1.00% | -1.10% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) | 0.600M |  | -1.167M |
 | 15:30 | USD | Crude Oil Imports | 0.656M |  | -1.754M |
 | 15:30 | USD | Distillate Fuel Production | 0.040M |  | -0.577M |
@@ -125,10 +125,10 @@
 | 06:00 | INR | S&P Global Services PMI (Oct) | 58.8 |  | 60.9 |
 | 06:00 | INR | Manufacturing & Services PMI (Oct) | 59.90 |  | 61.00 |
 | 06:00 | JPY | Coincident Indicator (MoM) (Aug) | -1.3% | -0.7% | -1.8% |
-| 06:00 | JPY | Leading Index (MoM) (Aug) | 0.9% | 1.3% | 1.1% |
 | 06:00 | JPY | Leading Index (Aug) | 107.0 | 107.4 | 106.1 |
-| 06:00 | SGD | Industrial Production (MoM) (Sep) | 26.3% | 8.6% | -11.0% |
+| 06:00 | JPY | Leading Index (MoM) (Aug) | 0.9% | 1.3% | 1.1% |
 | 06:00 | SGD | Industrial Production (YoY) (Sep) | 16.1% | 0.5% | -9.0% |
+| 06:00 | SGD | Industrial Production (MoM) (Sep) | 26.3% | 8.6% | -11.0% |
 | 07:45 | EUR | French Consumer Confidence (Oct) | 90 | 87 | 88 |
 | 08:00 | EUR | Spanish PPI (YoY) (Sep) | 0.3% |  | -1.6% |
 | 08:00 | EUR | Spanish Unemployment Rate (Q3) | 10.45% | 10.20% | 10.29% |
@@ -137,8 +137,8 @@
 | 12:30 | INR | FX Reserves, USD | 702.28B |  | 697.78B |
 | 12:30 | BRL | Current Account (USD) (Sep) | -9.77B | -7.50B | -4.67B |
 | 12:30 | BRL | Foreign direct investment (USD) (Sep) | 10.67B | 6.50B | 7.99B |
-| 13:00 | BRL | Mid-Month CPI (MoM) (Oct) | 0.18% | 0.25% | 0.48% |
 | 13:00 | BRL | Mid-Month CPI (YoY) (Oct) | 4.94% | 5.02% | 5.32% |
+| 13:00 | BRL | Mid-Month CPI (MoM) (Oct) | 0.18% | 0.25% | 0.48% |
 | 13:30 | USD | Core CPI Index (Sep) | 330.54 |  | 329.79 |
 | 13:30 | USD | CPI Index, n.s.a. (Sep) | 324.80 | 325.01 | 323.98 |
 | 13:30 | USD | CPI Index, s.a (Sep) | 324.37 |  | 323.36 |
