@@ -42,13 +42,13 @@
 | 13:55 | USD | Redbook (YoY) | 5.0% |  | 5.9% |
 | 16:00 | NZD | GlobalDairyTrade Price Index | -1.4% |  | -1.6% |
 | 16:00 | USD | Milk Auctions | 3,881.0 |  | 3,921.0 |
-| 22:00 | KRW | PPI (MoM) (Sep) | 0.4% |  | -0.1% |
 | 22:00 | KRW | PPI (YoY) (Sep) | 1.2% |  | 0.6% |
+| 22:00 | KRW | PPI (MoM) (Sep) | 0.4% |  | -0.1% |
 | 00:50 | JPY | Imports (YoY) (Sep) | 3.3% | 0.6% | -5.2% |
 | 07:00 | GBP | Core CPI (YoY) (Sep) | 3.5% | 3.7% | 3.6% |
 | 07:00 | GBP | Core CPI (MoM) (Sep) | 0.0% | 0.2% | 0.3% |
-| 07:00 | GBP | Core PPI Output (YoY) (Sep) | 3.6% |  | 1.9% |
 | 07:00 | GBP | Core PPI Output (MoM) (Sep) | 0.1% |  | 0.4% |
+| 07:00 | GBP | Core PPI Output (YoY) (Sep) | 3.6% |  | 1.9% |
 | 07:00 | GBP | Core RPI (YoY) (Sep) | 4.4% |  | 4.4% |
 | 07:00 | GBP | Core RPI (MoM) (Sep) | -0.4% |  | 0.4% |
 | 07:00 | GBP | CPI, n.s.a (Sep) | 139.30 |  | 139.30 |
@@ -125,8 +125,8 @@
 | 06:00 | INR | S&P Global Services PMI (Oct) | 58.8 |  | 60.9 |
 | 06:00 | INR | Manufacturing & Services PMI (Oct) | 59.90 |  | 61.00 |
 | 06:00 | JPY | Coincident Indicator (MoM) (Aug) | -1.3% | -0.7% | -1.8% |
-| 06:00 | JPY | Leading Index (Aug) | 107.0 | 107.4 | 106.1 |
 | 06:00 | JPY | Leading Index (MoM) (Aug) | 0.9% | 1.3% | 1.1% |
+| 06:00 | JPY | Leading Index (Aug) | 107.0 | 107.4 | 106.1 |
 | 06:00 | SGD | Industrial Production (YoY) (Sep) | 16.1% | 0.5% | -9.0% |
 | 06:00 | SGD | Industrial Production (MoM) (Sep) | 26.3% | 8.6% | -11.0% |
 | 07:45 | EUR | French Consumer Confidence (Oct) | 90 | 87 | 88 |
@@ -137,8 +137,8 @@
 | 12:30 | INR | FX Reserves, USD | 702.28B |  | 697.78B |
 | 12:30 | BRL | Current Account (USD) (Sep) | -9.77B | -7.50B | -4.67B |
 | 12:30 | BRL | Foreign direct investment (USD) (Sep) | 10.67B | 6.50B | 7.99B |
-| 13:00 | BRL | Mid-Month CPI (YoY) (Oct) | 4.94% | 5.02% | 5.32% |
 | 13:00 | BRL | Mid-Month CPI (MoM) (Oct) | 0.18% | 0.25% | 0.48% |
+| 13:00 | BRL | Mid-Month CPI (YoY) (Oct) | 4.94% | 5.02% | 5.32% |
 | 13:30 | USD | Core CPI Index (Sep) | 330.54 |  | 329.79 |
 | 13:30 | USD | CPI Index, n.s.a. (Sep) | 324.80 | 325.01 | 323.98 |
 | 13:30 | USD | CPI Index, s.a (Sep) | 324.37 |  | 323.36 |

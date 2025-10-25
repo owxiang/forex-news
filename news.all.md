@@ -73,8 +73,8 @@
 | 18:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 20:30 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock | -2.980M |  | 3.524M |
-| 22:00 | KRW | Low | PPI (MoM) (Sep) | 0.4% |  | -0.1% |
 | 22:00 | KRW | Low | PPI (YoY) (Sep) | 1.2% |  | 0.6% |
+| 22:00 | KRW | Low | PPI (MoM) (Sep) | 0.4% |  | -0.1% |
 | 23:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 00:50 | JPY | Moderate | Adjusted Trade Balance | -0.31T | -0.11T | -0.15T |
 | 00:50 | JPY | Moderate | Exports (YoY) (Sep) | 4.2% | 4.6% | -0.1% |
@@ -82,16 +82,16 @@
 | 00:50 | JPY | Moderate | Trade Balance (Sep) | -234.6B | 22.0B | -242.8B |
 | 07:00 | GBP | Low | Core CPI (YoY) (Sep) | 3.5% | 3.7% | 3.6% |
 | 07:00 | GBP | Low | Core CPI (MoM) (Sep) | 0.0% | 0.2% | 0.3% |
-| 07:00 | GBP | Low | Core PPI Output (YoY) (Sep) | 3.6% |  | 1.9% |
 | 07:00 | GBP | Low | Core PPI Output (MoM) (Sep) | 0.1% |  | 0.4% |
+| 07:00 | GBP | Low | Core PPI Output (YoY) (Sep) | 3.6% |  | 1.9% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Sep) | 4.4% |  | 4.4% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Sep) | -0.4% |  | 0.4% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Sep) | 0.0% |  | 0.3% |
 | 07:00 | GBP | High | CPI (YoY) (Sep) | 3.8% | 4.0% | 3.8% |
 | 07:00 | GBP | Low | CPI, n.s.a (Sep) | 139.30 |  | 139.30 |
 | 07:00 | GBP | Moderate | CPIH (YoY) | 4.1% |  | 4.1% |
-| 07:00 | GBP | Moderate | PPI Input (MoM) (Sep) | -0.1% | 0.3% | 1.1% |
 | 07:00 | GBP | Low | PPI Input (YoY) (Sep) | 0.8% |  | 0.7% |
+| 07:00 | GBP | Moderate | PPI Input (MoM) (Sep) | -0.1% | 0.3% | 1.1% |
 | 07:00 | GBP | Low | PPI Output (YoY) (Sep) | 3.4% |  | 1.1% |
 | 07:00 | GBP | Low | PPI Output (MoM) (Sep) | 0.0% | 0.2% | 0.6% |
 | 07:00 | GBP | Low | RPI (MoM) (Sep) | -0.4% | -0.1% | 0.4% |
@@ -178,8 +178,8 @@
 | 00:01 | GBP | Low | GfK Consumer Confidence (Oct) | -17 | -20 | -19 |
 | 00:30 | JPY | Low | CPI, n.s.a (MoM) (Sep) | -0.1% |  | 0.2% |
 | 00:30 | JPY | Moderate | National Core CPI (YoY) (Sep) | 2.9% | 2.9% | 2.7% |
-| 00:30 | JPY | Moderate | National CPI (MoM) (Sep) | 0.1% |  | 0.1% |
 | 00:30 | JPY | Low | National CPI (YoY) (Sep) | 2.9% |  | 2.7% |
+| 00:30 | JPY | Moderate | National CPI (MoM) (Sep) | 0.1% |  | 0.1% |
 | 01:05 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
 | 01:30 | JPY | Low | Manufacturing & Services PMI (Oct) | 50.90 |  | 51.30 |
 | 01:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Oct) | 48.3 | 48.8 | 48.5 |
@@ -189,14 +189,14 @@
 | 06:00 | INR | Low | S&P Global Services PMI (Oct) | 58.8 |  | 60.9 |
 | 06:00 | INR | Low | Manufacturing & Services PMI (Oct) | 59.90 |  | 61.00 |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Aug) | -1.3% | -0.7% | -1.8% |
-| 06:00 | JPY | Low | Leading Index (Aug) | 107.0 | 107.4 | 106.1 |
 | 06:00 | JPY | Low | Leading Index (MoM) (Aug) | 0.9% | 1.3% | 1.1% |
+| 06:00 | JPY | Low | Leading Index (Aug) | 107.0 | 107.4 | 106.1 |
 | 06:00 | SGD | Low | Industrial Production (YoY) (Sep) | 16.1% | 0.5% | -9.0% |
 | 06:00 | SGD | Low | Industrial Production (MoM) (Sep) | 26.3% | 8.6% | -11.0% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Sep) | 0.6% |  | 1.0% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Sep) | 2.3% | 0.7% | 1.3% |
-| 07:00 | GBP | Moderate | Retail Sales (YoY) (Sep) | 1.5% | 0.6% | 0.7% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Sep) | 0.5% | -0.2% | 0.6% |
+| 07:00 | GBP | Moderate | Retail Sales (YoY) (Sep) | 1.5% | 0.6% | 0.7% |
 | 07:45 | EUR | Low | French Consumer Confidence (Oct) | 90 | 87 | 88 |
 | 08:00 | EUR | Low | Spanish PPI (YoY) (Sep) | 0.3% |  | -1.6% |
 | 08:00 | EUR | Low | Spanish Unemployment Rate (Q3) | 10.45% | 10.20% | 10.29% |
@@ -216,8 +216,8 @@
 | 12:30 | INR | Low | FX Reserves, USD | 702.28B |  | 697.78B |
 | 12:30 | BRL | Low | Current Account (USD) (Sep) | -9.77B | -7.50B | -4.67B |
 | 12:30 | BRL | Low | Foreign direct investment (USD) (Sep) | 10.67B | 6.50B | 7.99B |
-| 13:00 | BRL | Low | Mid-Month CPI (YoY) (Oct) | 4.94% | 5.02% | 5.32% |
 | 13:00 | BRL | Low | Mid-Month CPI (MoM) (Oct) | 0.18% | 0.25% | 0.48% |
+| 13:00 | BRL | Low | Mid-Month CPI (YoY) (Oct) | 4.94% | 5.02% | 5.32% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Sep) | 3.0% | 3.1% | 3.1% |
 | 13:30 | USD | High | Core CPI (MoM) (Sep) | 0.2% | 0.3% | 0.3% |
 | 13:30 | USD | Low | Core CPI Index (Sep) | 330.54 |  | 329.79 |
