@@ -15,8 +15,8 @@
 | 10:00 | EUR | Moderate | German Business Expectations (Oct) |  |  | 89.7 |
 | 10:00 | EUR | Moderate | German Current Assessment (Oct) |  | 85.5 | 85.7 |
 | 10:00 | EUR | Moderate | German Ifo Business Climate Index (Oct) |  | 88.1 | 87.7 |
-| 10:00 | EUR | Low | M3 Money Supply (YoY) (Sep) |  | 2.7% | 2.9% |
 | 10:00 | EUR | Low | M3 Money Supply (Sep) |  |  | 16,912.3B |
+| 10:00 | EUR | Low | M3 Money Supply (YoY) (Sep) |  | 2.7% | 2.9% |
 | 10:00 | EUR | Low | Loans to Non Financial Corporations (Sep) |  |  | 3.0% |
 | 10:00 | EUR | Low | Private Sector Loans (YoY) |  | 2.6% | 2.5% |
 | 10:40 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |

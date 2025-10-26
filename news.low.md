@@ -11,8 +11,8 @@
 | 09:30 | HKD | Exports (MoM) (Sep) |  |  | 14.5% |
 | 09:30 | HKD | Imports (MoM) (Sep) |  |  | 11.5% |
 | 09:30 | HKD | Trade Balance (Sep) |  |  | -25.4B |
-| 10:00 | EUR | M3 Money Supply (YoY) (Sep) |  | 2.7% | 2.9% |
 | 10:00 | EUR | M3 Money Supply (Sep) |  |  | 16,912.3B |
+| 10:00 | EUR | M3 Money Supply (YoY) (Sep) |  | 2.7% | 2.9% |
 | 10:00 | EUR | Loans to Non Financial Corporations (Sep) |  |  | 3.0% |
 | 10:00 | EUR | Private Sector Loans (YoY) |  | 2.6% | 2.5% |
 | 12:00 | GBP | CBI Distributive Trades Survey (Oct) |  | -28 | -29 |
