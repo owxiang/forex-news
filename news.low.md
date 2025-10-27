@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:30 | CNY | Chinese Industrial profit YTD (Sep) | 3.2% |  | 0.9% |
-| 49 min | NOK | M3 Money Supply (Sep) |  |  | 3,444.5B |
-| 49 min | NOK | Credit Indicator (YoY) (Sep) |  |  | 4.0% |
+| 07:00 | NOK | M3 Money Supply (Sep) |  |  | 3,444.5B |
+| 07:00 | NOK | Credit Indicator (YoY) (Sep) | 3.8% |  | 4.0% |
 | 08:15 | AUD | RBA Gov Bullock Speaks |  |  |  |
 | 08:30 | HKD | Exports (MoM) (Sep) |  |  | 14.5% |
 | 08:30 | HKD | Imports (MoM) (Sep) |  |  | 11.5% |
