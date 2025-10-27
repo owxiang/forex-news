@@ -13,8 +13,8 @@
 | 09:00 | EUR | Moderate | German Business Expectations (Oct) | 91.6 |  | 89.8 |
 | 09:00 | EUR | Moderate | German Current Assessment (Oct) | 85.3 | 85.5 | 85.7 |
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (Oct) | 88.4 | 88.1 | 87.7 |
-| 09:00 | EUR | Low | M3 Money Supply (YoY) (Sep) | 2.8% | 2.7% | 2.9% |
 | 09:00 | EUR | Low | M3 Money Supply (Sep) | 16,990.4B |  | 16,912.3B |
+| 09:00 | EUR | Low | M3 Money Supply (YoY) (Sep) | 2.8% | 2.7% | 2.9% |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Sep) | 2.9% |  | 3.0% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) (Sep) | 2.6% | 2.6% | 2.5% |
 | 09:40 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
@@ -32,9 +32,9 @@
 | 15:30 | USD | Moderate | 2-Year Note Auction | 3.504% |  | 3.561% |
 | 15:30 | USD | Low | 6-Month Bill Auction | 3.640% |  | 3.660% |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 3.9% | 3.9% | 3.9% |
-| 51 min | USD | Low | 3-Month Bill Auction |  |  | 3.810% |
-| 51 min | USD | Moderate | 5-Year Note Auction |  |  | 3.710% |
-| 51 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 17:00 | USD | Low | 3-Month Bill Auction |  |  | 3.810% |
+| 17:00 | USD | Moderate | 5-Year Note Auction |  |  | 3.710% |
+| 17:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 21:00 | KRW | Low | Consumer Confidence (Oct) |  |  | 110.1 |
-| 23:00 | KRW | Low | GDP (QoQ) (Q3) |  |  | 0.7% |
 | 23:00 | KRW | Low | GDP (YoY) (Q3) |  | 0.9% | 0.6% |
+| 23:00 | KRW | Low | GDP (QoQ) (Q3) |  |  | 0.7% |
