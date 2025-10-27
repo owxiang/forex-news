@@ -18,12 +18,12 @@
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Sep) | 2.9% |  | 3.0% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) (Sep) | 2.6% | 2.6% | 2.5% |
 | 09:40 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 52 min | GBP | Low | CBI Distributive Trades Survey (Oct) |  | -28 | -29 |
-| 52 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 52 min | BRL | Low | FGV Consumer confidence (Oct) |  |  | 87.5 |
-| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 12:00 | MXN | Low | Trade Balance (Sep) |  |  | -1.944B |
-| 12:00 | MXN | Low | Trade Balance (USD) (Sep) |  |  | 0.609B |
+| 11:00 | GBP | Low | CBI Distributive Trades Survey (Oct) | -27 | -28 | -29 |
+| 11:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 11:00 | BRL | Low | FGV Consumer confidence (Oct) | 88.5 |  | 87.5 |
+| 18 min | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 53 min | MXN | Low | Trade Balance (Sep) |  | -1.270B | -1.944B |
+| 53 min | MXN | Low | Trade Balance (USD) (Sep) |  |  | 0.609B |
 | 12:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Sep) |  |  | 1.1% |
 | 12:30 | USD | High | Durable Goods Orders (MoM) (Sep) |  |  | -2.7% |
 | 12:30 | USD | Low | Durables Excluding Defense (MoM) (Sep) |  | 1.9% | -2.5% |
@@ -41,5 +41,5 @@
 | 17:00 | USD | Moderate | 5-Year Note Auction |  |  | 3.710% |
 | 17:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 21:00 | KRW | Low | Consumer Confidence (Oct) |  |  | 110.1 |
-| 23:00 | KRW | Low | GDP (YoY) (Q3) |  | 0.9% | 0.6% |
 | 23:00 | KRW | Low | GDP (QoQ) (Q3) |  |  | 0.7% |
+| 23:00 | KRW | Low | GDP (YoY) (Q3) |  | 0.9% | 0.6% |
