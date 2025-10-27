@@ -35,6 +35,6 @@
 | 17:00 | USD | Low | 3-Month Bill Auction | 3.730% |  | 3.810% |
 | 17:00 | USD | Moderate | 5-Year Note Auction | 3.625% |  | 3.710% |
 | 17:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 21:00 | KRW | Low | Consumer Confidence (Oct) |  |  | 110.1 |
+| 53 min | KRW | Low | Consumer Confidence (Oct) |  |  | 110.1 |
 | 23:00 | KRW | Low | GDP (QoQ) (Q3) |  |  | 0.7% |
 | 23:00 | KRW | Low | GDP (YoY) (Q3) |  | 0.9% | 0.6% |
