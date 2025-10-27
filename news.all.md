@@ -17,10 +17,10 @@
 | 09:00 | EUR | Low | M3 Money Supply (YoY) (Sep) | 2.8% | 2.7% | 2.9% |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Sep) | 2.9% |  | 3.0% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) (Sep) | 2.6% | 2.6% | 2.5% |
-| 31 min | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 11:00 | GBP | Low | CBI Distributive Trades Survey (Oct) |  | -28 | -29 |
-| 11:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 11:00 | BRL | Low | FGV Consumer confidence (Oct) |  |  | 87.5 |
+| 09:40 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
+| 52 min | GBP | Low | CBI Distributive Trades Survey (Oct) |  | -28 | -29 |
+| 52 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 52 min | BRL | Low | FGV Consumer confidence (Oct) |  |  | 87.5 |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:00 | MXN | Low | Trade Balance (Sep) |  |  | -1.944B |
 | 12:00 | MXN | Low | Trade Balance (USD) (Sep) |  |  | 0.609B |

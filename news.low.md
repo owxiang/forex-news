@@ -13,8 +13,8 @@
 | 09:00 | EUR | M3 Money Supply (YoY) (Sep) | 2.8% | 2.7% | 2.9% |
 | 09:00 | EUR | Loans to Non Financial Corporations (Sep) | 2.9% |  | 3.0% |
 | 09:00 | EUR | Private Sector Loans (YoY) (Sep) | 2.6% | 2.6% | 2.5% |
-| 11:00 | GBP | CBI Distributive Trades Survey (Oct) |  | -28 | -29 |
-| 11:00 | BRL | FGV Consumer confidence (Oct) |  |  | 87.5 |
+| 52 min | GBP | CBI Distributive Trades Survey (Oct) |  | -28 | -29 |
+| 52 min | BRL | FGV Consumer confidence (Oct) |  |  | 87.5 |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:00 | MXN | Trade Balance (Sep) |  |  | -1.944B |
 | 12:00 | MXN | Trade Balance (USD) (Sep) |  |  | 0.609B |
