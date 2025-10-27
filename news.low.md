@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 58 min | CNY | Chinese Industrial profit YTD (Sep) |  |  | 0.9% |
+| 01:30 | CNY | Chinese Industrial profit YTD (Sep) | 3.2% |  | 0.9% |
 | 07:00 | NOK | M3 Money Supply (Sep) |  |  | 3,444.5B |
 | 07:00 | NOK | Credit Indicator (YoY) (Sep) |  |  | 4.0% |
 | 08:00 | EUR | Private Sector Loans (YoY) (Sep) |  |  | 2.5% |
@@ -10,8 +10,8 @@
 | 08:30 | HKD | Exports (MoM) (Sep) |  |  | 14.5% |
 | 08:30 | HKD | Imports (MoM) (Sep) |  |  | 11.5% |
 | 08:30 | HKD | Trade Balance (Sep) |  |  | -25.4B |
-| 09:00 | EUR | M3 Money Supply (YoY) (Sep) |  | 2.7% | 2.9% |
 | 09:00 | EUR | M3 Money Supply (Sep) |  |  | 16,912.3B |
+| 09:00 | EUR | M3 Money Supply (YoY) (Sep) |  | 2.7% | 2.9% |
 | 09:00 | EUR | Loans to Non Financial Corporations (Sep) |  |  | 3.0% |
 | 09:00 | EUR | Private Sector Loans (YoY) |  | 2.6% | 2.5% |
 | 11:00 | GBP | CBI Distributive Trades Survey (Oct) |  | -28 | -29 |
@@ -28,5 +28,5 @@
 | 15:30 | USD | 3-Month Bill Auction |  |  | 3.810% |
 | 15:30 | USD | 6-Month Bill Auction |  |  | 3.660% |
 | 21:00 | KRW | Consumer Confidence (Oct) |  |  | 110.1 |
-| 23:00 | KRW | GDP (QoQ) (Q3) |  |  | 0.7% |
 | 23:00 | KRW | GDP (YoY) (Q3) |  | 0.9% | 0.6% |
+| 23:00 | KRW | GDP (QoQ) (Q3) |  |  | 0.7% |
