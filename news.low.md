@@ -25,5 +25,5 @@
 | 15:30 | USD | 6-Month Bill Auction | 3.640% |  | 3.660% |
 | 17:00 | USD | 3-Month Bill Auction | 3.730% |  | 3.810% |
 | 21:00 | KRW | Consumer Confidence (Oct) | 109.8 |  | 110.1 |
-| 53 min | KRW | GDP (QoQ) (Q3) |  |  | 0.7% |
-| 53 min | KRW | GDP (YoY) (Q3) |  | 0.9% | 0.6% |
+| 23:00 | KRW | GDP (QoQ) (Q3) | 1.2% |  | 0.7% |
+| 23:00 | KRW | GDP (YoY) (Q3) | 1.7% | 0.9% | 0.6% |
