@@ -32,8 +32,8 @@
 | 15:30 | USD | Moderate | 2-Year Note Auction | 3.504% |  | 3.561% |
 | 15:30 | USD | Low | 6-Month Bill Auction | 3.640% |  | 3.660% |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 3.9% | 3.9% | 3.9% |
-| 17:00 | USD | Low | 3-Month Bill Auction |  |  | 3.810% |
-| 17:00 | USD | Moderate | 5-Year Note Auction |  |  | 3.710% |
+| 17:00 | USD | Low | 3-Month Bill Auction | 3.730% |  | 3.810% |
+| 17:00 | USD | Moderate | 5-Year Note Auction | 3.625% |  | 3.710% |
 | 17:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 21:00 | KRW | Low | Consumer Confidence (Oct) |  |  | 110.1 |
 | 23:00 | KRW | Low | GDP (YoY) (Q3) |  | 0.9% | 0.6% |

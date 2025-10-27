@@ -11,5 +11,5 @@
 | 12:30 | CAD | Wholesale Sales (MoM) (Sep) | 0.0% |  | -1.2% |
 | 15:30 | USD | 2-Year Note Auction | 3.504% |  | 3.561% |
 | 15:30 | USD | Atlanta Fed GDPNow (Q3) | 3.9% | 3.9% | 3.9% |
-| 17:00 | USD | 5-Year Note Auction |  |  | 3.710% |
+| 17:00 | USD | 5-Year Note Auction | 3.625% |  | 3.710% |
 | 17:00 | EUR | German Buba Balz Speaks |  |  |  |
