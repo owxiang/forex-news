@@ -15,17 +15,17 @@
 | 09:00 | EUR | Private Sector Loans (YoY) (Sep) | 2.6% | 2.6% | 2.5% |
 | 11:00 | GBP | CBI Distributive Trades Survey (Oct) | -27 | -28 | -29 |
 | 11:00 | BRL | FGV Consumer confidence (Oct) | 88.5 |  | 87.5 |
-| 18 min | BRL | BCB Focus Market Readout |  |  |  |
-| 53 min | MXN | Trade Balance (Sep) |  | -1.270B | -1.944B |
-| 53 min | MXN | Trade Balance (USD) (Sep) |  |  | 0.609B |
-| 12:30 | USD | Durables Excluding Defense (MoM) (Sep) |  | 1.9% | -2.5% |
-| 12:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Sep) |  |  | 0.8% |
-| 13:00 | EUR | French 12-Month BTF Auction |  |  | 2.020% |
-| 13:00 | EUR | French 3-Month BTF Auction |  |  | 1.987% |
-| 13:00 | EUR | French 6-Month BTF Auction |  |  | 2.015% |
+| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 12:00 | MXN | Trade Balance (Sep) | -2.400B | -1.270B | -1.944B |
+| 12:00 | MXN | Trade Balance (USD) (Sep) | -0.831B |  | 0.609B |
+| 17 min | USD | Durables Excluding Defense (MoM) (Sep) |  | 1.9% | -2.5% |
+| 17 min | USD | Goods Orders Non Defense Ex Air (MoM) (Sep) |  |  | 0.8% |
+| 47 min | EUR | French 12-Month BTF Auction |  |  | 2.020% |
+| 47 min | EUR | French 3-Month BTF Auction |  |  | 1.987% |
+| 47 min | EUR | French 6-Month BTF Auction |  |  | 2.015% |
 | 14:30 | USD | Dallas Fed Mfg Business Index (Oct) |  |  | -8.7 |
 | 15:30 | USD | 3-Month Bill Auction |  |  | 3.810% |
 | 15:30 | USD | 6-Month Bill Auction |  |  | 3.660% |
 | 21:00 | KRW | Consumer Confidence (Oct) |  |  | 110.1 |
-| 23:00 | KRW | GDP (QoQ) (Q3) |  |  | 0.7% |
 | 23:00 | KRW | GDP (YoY) (Q3) |  | 0.9% | 0.6% |
+| 23:00 | KRW | GDP (QoQ) (Q3) |  |  | 0.7% |
