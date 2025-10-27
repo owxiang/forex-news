@@ -5,19 +5,19 @@
 | 01:30 | CNY | Low | Chinese Industrial profit YTD (Sep) | 3.2% |  | 0.9% |
 | 07:00 | NOK | Low | M3 Money Supply (Sep) | 3,401.8B |  | 3,444.5B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Sep) | 3.8% |  | 4.0% |
-| 4 min | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
-| 4 min | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 19 min | HKD | Low | Exports (MoM) (Sep) |  |  | 14.5% |
-| 19 min | HKD | Low | Imports (MoM) (Sep) |  |  | 11.5% |
-| 19 min | HKD | Low | Trade Balance (Sep) |  |  | -25.4B |
-| 49 min | EUR | Moderate | German Business Expectations (Oct) |  |  | 89.7 |
-| 49 min | EUR | Moderate | German Current Assessment (Oct) |  | 85.5 | 85.7 |
-| 49 min | EUR | Moderate | German Ifo Business Climate Index (Oct) |  | 88.1 | 87.7 |
-| 49 min | EUR | Low | M3 Money Supply (YoY) (Sep) |  | 2.7% | 2.9% |
-| 49 min | EUR | Low | M3 Money Supply (Sep) |  |  | 16,912.3B |
-| 49 min | EUR | Low | Loans to Non Financial Corporations (Sep) |  |  | 3.0% |
-| 49 min | EUR | Low | Private Sector Loans (YoY) (Sep) |  | 2.6% | 2.5% |
-| 09:40 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
+| 08:15 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
+| 08:15 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 08:30 | HKD | Low | Exports (MoM) (Sep) | 16.1% |  | 14.5% |
+| 08:30 | HKD | Low | Imports (MoM) (Sep) | 13.6% |  | 11.5% |
+| 08:30 | HKD | Low | Trade Balance (Sep) | -50.2B |  | -25.4B |
+| 09:00 | EUR | Moderate | German Business Expectations (Oct) | 91.6 |  | 89.8 |
+| 09:00 | EUR | Moderate | German Current Assessment (Oct) | 85.3 | 85.5 | 85.7 |
+| 09:00 | EUR | Moderate | German Ifo Business Climate Index (Oct) | 88.4 | 88.1 | 87.7 |
+| 09:00 | EUR | Low | M3 Money Supply (Sep) | 16,990.4B |  | 16,912.3B |
+| 09:00 | EUR | Low | M3 Money Supply (YoY) (Sep) | 2.8% | 2.7% | 2.9% |
+| 09:00 | EUR | Low | Loans to Non Financial Corporations (Sep) | 2.9% |  | 3.0% |
+| 09:00 | EUR | Low | Private Sector Loans (YoY) (Sep) | 2.6% | 2.6% | 2.5% |
+| 31 min | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Oct) |  | -28 | -29 |
 | 11:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 11:00 | BRL | Low | FGV Consumer confidence (Oct) |  |  | 87.5 |
@@ -31,8 +31,8 @@
 | 13:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.020% |
 | 13:00 | EUR | Low | French 3-Month BTF Auction |  |  | 1.987% |
 | 13:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.015% |
-| 14:00 | USD | High | New Home Sales (Sep) |  | 710K | 800K |
 | 14:00 | USD | Moderate | New Home Sales (MoM) (Sep) |  |  | 20.5% |
+| 14:00 | USD | High | New Home Sales (Sep) |  | 710K | 800K |
 | 14:30 | USD | Low | Dallas Fed Mfg Business Index (Oct) |  |  | -8.7 |
 | 15:30 | USD | Low | 3-Month Bill Auction |  |  | 3.810% |
 | 15:30 | USD | Low | 6-Month Bill Auction |  |  | 3.660% |
@@ -41,5 +41,5 @@
 | 17:00 | USD | Moderate | 5-Year Note Auction |  |  | 3.710% |
 | 17:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 21:00 | KRW | Low | Consumer Confidence (Oct) |  |  | 110.1 |
-| 23:00 | KRW | Low | GDP (QoQ) (Q3) |  |  | 0.7% |
 | 23:00 | KRW | Low | GDP (YoY) (Q3) |  | 0.9% | 0.6% |
+| 23:00 | KRW | Low | GDP (QoQ) (Q3) |  |  | 0.7% |
