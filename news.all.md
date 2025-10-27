@@ -29,12 +29,12 @@
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.011% |  | 1.987% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.015% |  | 2.015% |
 | 14:30 | USD | Low | Dallas Fed Mfg Business Index (Oct) | -5.0 |  | -8.7 |
-| 22 min | USD | Moderate | 2-Year Note Auction |  |  | 3.561% |
-| 22 min | USD | Low | 6-Month Bill Auction |  |  | 3.660% |
-| 22 min | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 3.9% | 3.9% |
-| 17:00 | USD | Low | 3-Month Bill Auction |  |  | 3.810% |
-| 17:00 | USD | Moderate | 5-Year Note Auction |  |  | 3.710% |
-| 17:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 15:30 | USD | Moderate | 2-Year Note Auction | 3.504% |  | 3.561% |
+| 15:30 | USD | Low | 6-Month Bill Auction | 3.640% |  | 3.660% |
+| 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 3.9% | 3.9% | 3.9% |
+| 51 min | USD | Low | 3-Month Bill Auction |  |  | 3.810% |
+| 51 min | USD | Moderate | 5-Year Note Auction |  |  | 3.710% |
+| 51 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 21:00 | KRW | Low | Consumer Confidence (Oct) |  |  | 110.1 |
 | 23:00 | KRW | Low | GDP (QoQ) (Q3) |  |  | 0.7% |
 | 23:00 | KRW | Low | GDP (YoY) (Q3) |  | 0.9% | 0.6% |

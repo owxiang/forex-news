@@ -22,8 +22,8 @@
 | 14:00 | EUR | French 3-Month BTF Auction | 2.011% |  | 1.987% |
 | 14:00 | EUR | French 6-Month BTF Auction | 2.015% |  | 2.015% |
 | 14:30 | USD | Dallas Fed Mfg Business Index (Oct) | -5.0 |  | -8.7 |
-| 22 min | USD | 6-Month Bill Auction |  |  | 3.660% |
-| 17:00 | USD | 3-Month Bill Auction |  |  | 3.810% |
+| 15:30 | USD | 6-Month Bill Auction | 3.640% |  | 3.660% |
+| 51 min | USD | 3-Month Bill Auction |  |  | 3.810% |
 | 21:00 | KRW | Consumer Confidence (Oct) |  |  | 110.1 |
 | 23:00 | KRW | GDP (QoQ) (Q3) |  |  | 0.7% |
 | 23:00 | KRW | GDP (YoY) (Q3) |  | 0.9% | 0.6% |

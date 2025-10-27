@@ -9,7 +9,7 @@
 | 09:40 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 11:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 12:30 | CAD | Wholesale Sales (MoM) (Sep) | 0.0% |  | -1.2% |
-| 22 min | USD | 2-Year Note Auction |  |  | 3.561% |
-| 22 min | USD | Atlanta Fed GDPNow (Q3) |  | 3.9% | 3.9% |
-| 17:00 | USD | 5-Year Note Auction |  |  | 3.710% |
-| 17:00 | EUR | German Buba Balz Speaks |  |  |  |
+| 15:30 | USD | 2-Year Note Auction | 3.504% |  | 3.561% |
+| 15:30 | USD | Atlanta Fed GDPNow (Q3) | 3.9% | 3.9% | 3.9% |
+| 51 min | USD | 5-Year Note Auction |  |  | 3.710% |
+| 51 min | EUR | German Buba Balz Speaks |  |  |  |
