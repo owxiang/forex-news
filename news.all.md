@@ -25,12 +25,10 @@
 | 12:00 | MXN | Low | Trade Balance (Sep) | -2.400B | -1.270B | -1.944B |
 | 12:00 | MXN | Low | Trade Balance (USD) (Sep) | -0.831B |  | 0.382B |
 | 12:30 | CAD | Moderate | Wholesale Sales (MoM) (Sep) | 0.0% |  | -1.2% |
-| 44 min | USD | Moderate | New Home Sales (MoM) (Sep) |  |  | 20.5% |
-| 44 min | USD | High | New Home Sales (Sep) |  | 710K | 800K |
-| 44 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.020% |
-| 44 min | EUR | Low | French 3-Month BTF Auction |  |  | 1.987% |
-| 44 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.015% |
-| 14:30 | USD | Low | Dallas Fed Mfg Business Index (Oct) |  |  | -8.7 |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.053% |  | 2.020% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.011% |  | 1.987% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.015% |  | 2.015% |
+| 23 min | USD | Low | Dallas Fed Mfg Business Index (Oct) |  |  | -8.7 |
 | 15:30 | USD | Moderate | 2-Year Note Auction |  |  | 3.561% |
 | 15:30 | USD | Low | 6-Month Bill Auction |  |  | 3.660% |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 3.9% | 3.9% |
@@ -38,5 +36,5 @@
 | 17:00 | USD | Moderate | 5-Year Note Auction |  |  | 3.710% |
 | 17:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 21:00 | KRW | Low | Consumer Confidence (Oct) |  |  | 110.1 |
-| 23:00 | KRW | Low | GDP (QoQ) (Q3) |  |  | 0.7% |
 | 23:00 | KRW | Low | GDP (YoY) (Q3) |  | 0.9% | 0.6% |
+| 23:00 | KRW | Low | GDP (QoQ) (Q3) |  |  | 0.7% |

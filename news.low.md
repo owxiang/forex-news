@@ -18,12 +18,12 @@
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:00 | MXN | Trade Balance (Sep) | -2.400B | -1.270B | -1.944B |
 | 12:00 | MXN | Trade Balance (USD) (Sep) | -0.831B |  | 0.382B |
-| 44 min | EUR | French 12-Month BTF Auction |  |  | 2.020% |
-| 44 min | EUR | French 3-Month BTF Auction |  |  | 1.987% |
-| 44 min | EUR | French 6-Month BTF Auction |  |  | 2.015% |
-| 14:30 | USD | Dallas Fed Mfg Business Index (Oct) |  |  | -8.7 |
+| 14:00 | EUR | French 12-Month BTF Auction | 2.053% |  | 2.020% |
+| 14:00 | EUR | French 3-Month BTF Auction | 2.011% |  | 1.987% |
+| 14:00 | EUR | French 6-Month BTF Auction | 2.015% |  | 2.015% |
+| 23 min | USD | Dallas Fed Mfg Business Index (Oct) |  |  | -8.7 |
 | 15:30 | USD | 6-Month Bill Auction |  |  | 3.660% |
 | 17:00 | USD | 3-Month Bill Auction |  |  | 3.810% |
 | 21:00 | KRW | Consumer Confidence (Oct) |  |  | 110.1 |
-| 23:00 | KRW | GDP (QoQ) (Q3) |  |  | 0.7% |
 | 23:00 | KRW | GDP (YoY) (Q3) |  | 0.9% | 0.6% |
+| 23:00 | KRW | GDP (QoQ) (Q3) |  |  | 0.7% |
