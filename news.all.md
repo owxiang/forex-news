@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 01:30 | CNY | Low | Chinese Industrial profit YTD (Sep) | 3.2% |  | 0.9% |
-| 07:00 | NOK | Low | M3 Money Supply (Sep) |  |  | 3,444.5B |
-| 07:00 | NOK | Low | Credit Indicator (YoY) (Sep) |  |  | 4.0% |
+| 49 min | NOK | Low | M3 Money Supply (Sep) |  |  | 3,444.5B |
+| 49 min | NOK | Low | Credit Indicator (YoY) (Sep) |  |  | 4.0% |
 | 08:15 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
 | 08:15 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 08:30 | HKD | Low | Exports (MoM) (Sep) |  |  | 14.5% |
