@@ -8,9 +8,9 @@
 | 09:00 | EUR | German Ifo Business Climate Index (Oct) | 88.4 | 88.1 | 87.7 |
 | 09:40 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 11:00 | EUR | German Buba Balz Speaks |  |  |  |
-| 17 min | USD | Core Durable Goods Orders (MoM) (Sep) |  |  | 1.1% |
-| 14:00 | USD | New Home Sales (MoM) (Sep) |  |  | 20.5% |
+| 12:30 | CAD | Wholesale Sales (MoM) (Sep) | 0.0% |  | -1.2% |
+| 44 min | USD | New Home Sales (MoM) (Sep) |  |  | 20.5% |
+| 15:30 | USD | 2-Year Note Auction |  |  | 3.561% |
 | 15:30 | USD | Atlanta Fed GDPNow (Q3) |  | 3.9% | 3.9% |
-| 17:00 | USD | 2-Year Note Auction |  |  | 3.561% |
 | 17:00 | USD | 5-Year Note Auction |  |  | 3.710% |
 | 17:00 | EUR | German Buba Balz Speaks |  |  |  |

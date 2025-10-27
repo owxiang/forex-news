@@ -2,5 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 17 min | USD | Durable Goods Orders (MoM) (Sep) |  |  | -2.7% |
-| 14:00 | USD | New Home Sales (Sep) |  | 710K | 800K |
+| 44 min | USD | New Home Sales (Sep) |  | 710K | 800K |
