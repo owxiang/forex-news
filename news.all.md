@@ -24,19 +24,19 @@
 | 11:00 | EUR | Moderate | France Jobseekers Total (Sep) | 3,082.0K |  | 3,021.8K |
 | 12:00 | MXN | Low | Unemployment Rate (Sep) | 2.70% |  | 2.60% |
 | 12:00 | MXN | Low | Unemployment Rate n.s.a. (Sep) | 3.00% |  | 2.90% |
-| 42 min | USD | Low | Redbook (YoY) |  |  | 5.0% |
-| 47 min | USD | Low | House Price Index (YoY) (Aug) |  |  | 2.3% |
-| 47 min | USD | Low | House Price Index (MoM) (Aug) |  | -0.1% | -0.1% |
-| 47 min | USD | Low | House Price Index (Aug) |  |  | 433.4 |
-| 47 min | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Aug) |  |  | -0.1% |
-| 47 min | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Aug) |  |  | -0.3% |
-| 47 min | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Aug) |  | 1.4% | 1.8% |
-| 14:00 | USD | High | CB Consumer Confidence (Oct) |  | 93.4 | 94.2 |
-| 14:00 | USD | Moderate | New Home Sales (MoM) (Sep) |  |  | 20.5% |
-| 14:00 | USD | High | New Home Sales (Sep) |  | 710K | 800K |
-| 14:00 | USD | Low | Richmond Manufacturing Index (Oct) |  | -11 | -17 |
-| 14:00 | USD | Low | Richmond Manufacturing Shipments (Oct) |  |  | -20 |
-| 14:00 | USD | Low | Richmond Services Index (Oct) |  |  | 1 |
+| 12:55 | USD | Low | Redbook (YoY) | 5.2% |  | 5.0% |
+| 13:00 | USD | Low | House Price Index (YoY) (Aug) | 2.3% |  | 2.4% |
+| 13:00 | USD | Low | House Price Index (MoM) (Aug) | 0.4% | -0.1% | 0.0% |
+| 13:00 | USD | Low | House Price Index (Aug) | 435.3 |  | 433.6 |
+| 13:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Aug) | 0.2% |  | -0.1% |
+| 13:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Aug) | -0.6% |  | -0.3% |
+| 13:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Aug) | 1.6% | 1.4% | 1.8% |
+| 45 min | USD | High | CB Consumer Confidence (Oct) |  | 93.4 | 94.2 |
+| 45 min | USD | Moderate | New Home Sales (MoM) (Sep) |  |  | 20.5% |
+| 45 min | USD | High | New Home Sales (Sep) |  | 710K | 800K |
+| 45 min | USD | Low | Richmond Manufacturing Index (Oct) |  | -11 | -17 |
+| 45 min | USD | Low | Richmond Manufacturing Shipments (Oct) |  |  | -20 |
+| 45 min | USD | Low | Richmond Services Index (Oct) |  |  | 1 |
 | 14:30 | USD | Low | Dallas Fed Services Revenues (Oct) |  |  | -2.4 |
 | 14:30 | USD | Low | Texas Services Sector Outlook (Oct) |  |  | -5.6 |
 | 15:30 | USD | Low | 52-Week Bill Auction |  |  | 3.540% |

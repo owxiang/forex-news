@@ -21,14 +21,14 @@
 | 10:30 | EUR | German 5-Year Bobl Auction | 2.210% |  | 2.310% |
 | 12:00 | MXN | Unemployment Rate (Sep) | 2.70% |  | 2.60% |
 | 12:00 | MXN | Unemployment Rate n.s.a. (Sep) | 3.00% |  | 2.90% |
-| 42 min | USD | Redbook (YoY) |  |  | 5.0% |
-| 47 min | USD | House Price Index (YoY) (Aug) |  |  | 2.3% |
-| 47 min | USD | House Price Index (MoM) (Aug) |  | -0.1% | -0.1% |
-| 47 min | USD | House Price Index (Aug) |  |  | 433.4 |
-| 47 min | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Aug) |  |  | -0.1% |
-| 14:00 | USD | Richmond Manufacturing Index (Oct) |  | -11 | -17 |
-| 14:00 | USD | Richmond Manufacturing Shipments (Oct) |  |  | -20 |
-| 14:00 | USD | Richmond Services Index (Oct) |  |  | 1 |
+| 12:55 | USD | Redbook (YoY) | 5.2% |  | 5.0% |
+| 13:00 | USD | House Price Index (YoY) (Aug) | 2.3% |  | 2.4% |
+| 13:00 | USD | House Price Index (MoM) (Aug) | 0.4% | -0.1% | 0.0% |
+| 13:00 | USD | House Price Index (Aug) | 435.3 |  | 433.6 |
+| 13:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Aug) | 0.2% |  | -0.1% |
+| 45 min | USD | Richmond Manufacturing Index (Oct) |  | -11 | -17 |
+| 45 min | USD | Richmond Manufacturing Shipments (Oct) |  |  | -20 |
+| 45 min | USD | Richmond Services Index (Oct) |  |  | 1 |
 | 14:30 | USD | Dallas Fed Services Revenues (Oct) |  |  | -2.4 |
 | 14:30 | USD | Texas Services Sector Outlook (Oct) |  |  | -5.6 |
 | 15:30 | USD | 52-Week Bill Auction |  |  | 3.540% |
