@@ -5,8 +5,8 @@
 | 00:01 | GBP | Low | BRC Shop Price Index (YoY) | 1.0% | 1.6% | 1.4% |
 | 04:00 | GBP | Low | Car Registration (MoM) (Sep) | 277.4% |  | -40.8% |
 | 04:00 | GBP | Low | Car Registration (YoY) (Sep) | 13.7% |  | -2.0% |
-| 04:00 | EUR | Low | Italian Car Registration (MoM) (Sep) | 88.4% |  | -43.2% |
 | 04:00 | EUR | Low | Italian Car Registration (YoY) (Sep) | 4.2% |  | -2.7% |
+| 04:00 | EUR | Low | Italian Car Registration (MoM) (Sep) | 88.4% |  | -43.2% |
 | 04:00 | EUR | Low | German Car Registration (YoY) (Sep) | 12.8% |  | 5.0% |
 | 04:00 | EUR | Low | German Car Registration (MoM) (Sep) | 13.7% |  | -21.7% |
 | 04:00 | EUR | Low | French Car Registration (MoM) (Sep) | 59.8% |  | -24.5% |
@@ -37,7 +37,7 @@
 | 14:00 | USD | Low | Richmond Services Index (Oct) | 4 |  | 1 |
 | 14:30 | USD | Low | Dallas Fed Services Revenues (Oct) | -6.4 |  | -2.4 |
 | 14:30 | USD | Low | Texas Services Sector Outlook (Oct) | -9.4 |  | -5.6 |
-| 23 min | USD | Low | 52-Week Bill Auction |  |  | 3.540% |
-| 17:00 | USD | Moderate | 7-Year Note Auction |  |  | 3.953% |
-| 17:00 | USD | Low | M2 Money Supply (MoM) (Sep) |  |  | 22.20T |
+| 15:30 | USD | Low | 52-Week Bill Auction | 3.445% |  | 3.540% |
+| 51 min | USD | Moderate | 7-Year Note Auction |  |  | 3.953% |
+| 51 min | USD | Low | M2 Money Supply (MoM) (Sep) |  |  | 22.20T |
 | 20:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -2.980M |

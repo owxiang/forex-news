@@ -5,8 +5,8 @@
 | 00:01 | GBP | BRC Shop Price Index (YoY) | 1.0% | 1.6% | 1.4% |
 | 04:00 | GBP | Car Registration (MoM) (Sep) | 277.4% |  | -40.8% |
 | 04:00 | GBP | Car Registration (YoY) (Sep) | 13.7% |  | -2.0% |
-| 04:00 | EUR | Italian Car Registration (MoM) (Sep) | 88.4% |  | -43.2% |
 | 04:00 | EUR | Italian Car Registration (YoY) (Sep) | 4.2% |  | -2.7% |
+| 04:00 | EUR | Italian Car Registration (MoM) (Sep) | 88.4% |  | -43.2% |
 | 04:00 | EUR | German Car Registration (YoY) (Sep) | 12.8% |  | 5.0% |
 | 04:00 | EUR | German Car Registration (MoM) (Sep) | 13.7% |  | -21.7% |
 | 04:00 | EUR | French Car Registration (MoM) (Sep) | 59.8% |  | -24.5% |
@@ -31,5 +31,5 @@
 | 14:00 | USD | Richmond Services Index (Oct) | 4 |  | 1 |
 | 14:30 | USD | Dallas Fed Services Revenues (Oct) | -6.4 |  | -2.4 |
 | 14:30 | USD | Texas Services Sector Outlook (Oct) | -9.4 |  | -5.6 |
-| 23 min | USD | 52-Week Bill Auction |  |  | 3.540% |
-| 17:00 | USD | M2 Money Supply (MoM) (Sep) |  |  | 22.20T |
+| 15:30 | USD | 52-Week Bill Auction | 3.445% |  | 3.540% |
+| 51 min | USD | M2 Money Supply (MoM) (Sep) |  |  | 22.20T |
