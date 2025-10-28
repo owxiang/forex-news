@@ -3,14 +3,14 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | BRC Shop Price Index (YoY) | 1.0% | 1.6% | 1.4% |
-| 04:00 | GBP | Car Registration (YoY) (Sep) |  |  | -2.0% |
-| 04:00 | GBP | Car Registration (MoM) (Sep) |  |  | -40.8% |
-| 04:00 | EUR | Italian Car Registration (YoY) (Sep) |  |  | -2.7% |
-| 04:00 | EUR | Italian Car Registration (MoM) (Sep) |  |  | -43.2% |
-| 04:00 | EUR | German Car Registration (MoM) (Sep) |  |  | -21.7% |
-| 04:00 | EUR | German Car Registration (YoY) (Sep) |  |  | 5.0% |
-| 04:00 | EUR | French Car Registration (YoY) (Sep) |  |  | 2.2% |
-| 04:00 | EUR | French Car Registration (MoM) (Sep) |  |  | -24.5% |
+| 36 min | GBP | Car Registration (YoY) (Sep) |  |  | -2.0% |
+| 36 min | GBP | Car Registration (MoM) (Sep) |  |  | -40.8% |
+| 36 min | EUR | Italian Car Registration (YoY) (Sep) |  |  | -2.7% |
+| 36 min | EUR | Italian Car Registration (MoM) (Sep) |  |  | -43.2% |
+| 36 min | EUR | German Car Registration (MoM) (Sep) |  |  | -21.7% |
+| 36 min | EUR | German Car Registration (YoY) (Sep) |  |  | 5.0% |
+| 36 min | EUR | French Car Registration (YoY) (Sep) |  |  | 2.2% |
+| 36 min | EUR | French Car Registration (MoM) (Sep) |  |  | -24.5% |
 | 09:00 | EUR | Italian Business Confidence (Oct) |  |  | 87.3 |
 | 09:00 | EUR | Italian Consumer Confidence (Oct) |  |  | 96.8 |
 | 09:00 | EUR | ECB Bank Lending Survey |  |  |  |
