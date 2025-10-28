@@ -9,8 +9,8 @@
 | 04:00 | EUR | Italian Car Registration (MoM) (Sep) | 88.4% |  | -43.2% |
 | 04:00 | EUR | German Car Registration (YoY) (Sep) | 12.8% |  | 5.0% |
 | 04:00 | EUR | German Car Registration (MoM) (Sep) | 13.7% |  | -21.7% |
-| 04:00 | EUR | French Car Registration (MoM) (Sep) | 59.8% |  | -24.5% |
 | 04:00 | EUR | French Car Registration (YoY) (Sep) | 1.0% |  | 2.2% |
+| 04:00 | EUR | French Car Registration (MoM) (Sep) | 59.8% |  | -24.5% |
 | 09:00 | EUR | Italian Business Confidence (Oct) | 88.3 | 87.5 | 87.4 |
 | 09:00 | EUR | Italian Consumer Confidence (Oct) | 97.6 |  | 96.8 |
 | 09:00 | EUR | ECB Bank Lending Survey |  |  |  |
@@ -32,4 +32,4 @@
 | 14:30 | USD | Dallas Fed Services Revenues (Oct) | -6.4 |  | -2.4 |
 | 14:30 | USD | Texas Services Sector Outlook (Oct) | -9.4 |  | -5.6 |
 | 15:30 | USD | 52-Week Bill Auction | 3.445% |  | 3.540% |
-| 51 min | USD | M2 Money Supply (MoM) (Sep) |  |  | 22.20T |
+| 17:00 | USD | M2 Money Supply (MoM) (Sep) |  |  | 22.20T |
