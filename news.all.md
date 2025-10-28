@@ -7,8 +7,8 @@
 | 04:00 | GBP | Low | Car Registration (YoY) (Sep) | 13.7% |  | -2.0% |
 | 04:00 | EUR | Low | Italian Car Registration (MoM) (Sep) | 88.4% |  | -43.2% |
 | 04:00 | EUR | Low | Italian Car Registration (YoY) (Sep) | 4.2% |  | -2.7% |
-| 04:00 | EUR | Low | German Car Registration (YoY) (Sep) | 12.8% |  | 5.0% |
 | 04:00 | EUR | Low | German Car Registration (MoM) (Sep) | 13.7% |  | -21.7% |
+| 04:00 | EUR | Low | German Car Registration (YoY) (Sep) | 12.8% |  | 5.0% |
 | 04:00 | EUR | Low | French Car Registration (MoM) (Sep) | 59.8% |  | -24.5% |
 | 04:00 | EUR | Low | French Car Registration (YoY) (Sep) | 1.0% |  | 2.2% |
 | 05:00 | JPY | Moderate | BoJ Core CPI (YoY) | 2.1% | 2.1% | 2.0% |
@@ -25,8 +25,8 @@
 | 12:00 | MXN | Low | Unemployment Rate (Sep) | 2.70% |  | 2.60% |
 | 12:00 | MXN | Low | Unemployment Rate n.s.a. (Sep) | 3.00% |  | 2.90% |
 | 12:55 | USD | Low | Redbook (YoY) | 5.2% |  | 5.0% |
-| 13:00 | USD | Low | House Price Index (YoY) (Aug) | 2.3% |  | 2.4% |
 | 13:00 | USD | Low | House Price Index (MoM) (Aug) | 0.4% | -0.1% | 0.0% |
+| 13:00 | USD | Low | House Price Index (YoY) (Aug) | 2.3% |  | 2.4% |
 | 13:00 | USD | Low | House Price Index (Aug) | 435.3 |  | 433.6 |
 | 13:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Aug) | 0.2% |  | -0.1% |
 | 13:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Aug) | -0.6% |  | -0.3% |
@@ -40,4 +40,4 @@
 | 15:30 | USD | Low | 52-Week Bill Auction | 3.445% |  | 3.540% |
 | 17:00 | USD | Moderate | 7-Year Note Auction | 3.790% |  | 3.953% |
 | 17:00 | USD | Low | M2 Money Supply (MoM) (Sep) | 22.21T |  | 22.20T |
-| 22 min | USD | Moderate | API Weekly Crude Oil Stock |  | -2.900M | -2.980M |
+| 20:30 | USD | Moderate | API Weekly Crude Oil Stock | -4.000M | -2.900M | -2.980M |
