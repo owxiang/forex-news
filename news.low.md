@@ -1,29 +1,35 @@
-## 27 October 2025 - Low Impact Forex News
+## 28 October 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | CNY | Chinese Industrial profit YTD (Sep) | 3.2% |  | 0.9% |
-| 07:00 | NOK | M3 Money Supply (Sep) | 3,401.8B |  | 3,444.5B |
-| 07:00 | NOK | Credit Indicator (YoY) (Sep) | 3.8% |  | 4.0% |
-| 08:15 | AUD | RBA Gov Bullock Speaks |  |  |  |
-| 08:30 | HKD | Exports (MoM) (Sep) | 16.1% |  | 14.5% |
-| 08:30 | HKD | Imports (MoM) (Sep) | 13.6% |  | 11.5% |
-| 08:30 | HKD | Trade Balance (Sep) | -50.2B |  | -25.4B |
-| 09:00 | EUR | M3 Money Supply (YoY) (Sep) | 2.8% | 2.7% | 2.9% |
-| 09:00 | EUR | M3 Money Supply (Sep) | 16,990.4B |  | 16,912.3B |
-| 09:00 | EUR | Loans to Non Financial Corporations (Sep) | 2.9% |  | 3.0% |
-| 09:00 | EUR | Private Sector Loans (YoY) (Sep) | 2.6% | 2.6% | 2.5% |
-| 11:00 | GBP | CBI Distributive Trades Survey (Oct) | -27 | -28 | -29 |
-| 11:00 | BRL | FGV Consumer confidence (Oct) | 88.5 |  | 87.5 |
-| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:00 | MXN | Trade Balance (Sep) | -2.400B | -1.270B | -1.944B |
-| 12:00 | MXN | Trade Balance (USD) (Sep) | -0.831B |  | 0.382B |
-| 14:00 | EUR | French 12-Month BTF Auction | 2.053% |  | 2.020% |
-| 14:00 | EUR | French 3-Month BTF Auction | 2.011% |  | 1.987% |
-| 14:00 | EUR | French 6-Month BTF Auction | 2.015% |  | 2.015% |
-| 14:30 | USD | Dallas Fed Mfg Business Index (Oct) | -5.0 |  | -8.7 |
-| 15:30 | USD | 6-Month Bill Auction | 3.640% |  | 3.660% |
-| 17:00 | USD | 3-Month Bill Auction | 3.730% |  | 3.810% |
-| 21:00 | KRW | Consumer Confidence (Oct) | 109.8 |  | 110.1 |
-| 23:00 | KRW | GDP (QoQ) (Q3) | 1.2% |  | 0.7% |
-| 23:00 | KRW | GDP (YoY) (Q3) | 1.7% | 0.9% | 0.6% |
+| 00:01 | GBP | BRC Shop Price Index (YoY) | 1.0% | 1.6% | 1.4% |
+| 04:00 | GBP | Car Registration (YoY) (Sep) |  |  | -2.0% |
+| 04:00 | GBP | Car Registration (MoM) (Sep) |  |  | -40.8% |
+| 04:00 | EUR | Italian Car Registration (YoY) (Sep) |  |  | -2.7% |
+| 04:00 | EUR | Italian Car Registration (MoM) (Sep) |  |  | -43.2% |
+| 04:00 | EUR | German Car Registration (MoM) (Sep) |  |  | -21.7% |
+| 04:00 | EUR | German Car Registration (YoY) (Sep) |  |  | 5.0% |
+| 04:00 | EUR | French Car Registration (YoY) (Sep) |  |  | 2.2% |
+| 04:00 | EUR | French Car Registration (MoM) (Sep) |  |  | -24.5% |
+| 09:00 | EUR | Italian Business Confidence (Oct) |  |  | 87.3 |
+| 09:00 | EUR | Italian Consumer Confidence (Oct) |  |  | 96.8 |
+| 09:00 | EUR | ECB Bank Lending Survey |  |  |  |
+| 10:30 | EUR | Italian 2-Year CTZ Auction |  |  | 2.230% |
+| 10:30 | INR | Cumulative Industrial Production (Sep) |  |  | 2.80% |
+| 10:30 | INR | Industrial Production (YoY) (Sep) |  |  | 4.0% |
+| 10:30 | INR | Manufacturing Output (MoM) (Sep) |  |  | 3.8% |
+| 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.310% |
+| 12:00 | MXN | Unemployment Rate (Sep) |  |  | 2.60% |
+| 12:00 | MXN | Unemployment Rate n.s.a. (Sep) |  |  | 2.90% |
+| 12:55 | USD | Redbook (YoY) |  |  | 5.0% |
+| 13:00 | USD | House Price Index (YoY) (Aug) |  |  | 2.3% |
+| 13:00 | USD | House Price Index (MoM) (Aug) |  | 0.1% | -0.1% |
+| 13:00 | USD | House Price Index (Aug) |  |  | 433.4 |
+| 13:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Aug) |  |  | -0.1% |
+| 14:00 | USD | Richmond Manufacturing Index (Oct) |  | -14 | -17 |
+| 14:00 | USD | Richmond Manufacturing Shipments (Oct) |  |  | -20 |
+| 14:00 | USD | Richmond Services Index (Oct) |  |  | 1 |
+| 14:30 | USD | Dallas Fed Services Revenues (Oct) |  |  | -2.4 |
+| 14:30 | USD | Texas Services Sector Outlook (Oct) |  |  | -5.6 |
+| 15:30 | USD | 52-Week Bill Auction |  |  | 3.540% |
+| 17:00 | USD | M2 Money Supply (MoM) (Sep) |  |  | 22.20T |

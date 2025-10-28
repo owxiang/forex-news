@@ -1,3 +1,6 @@
-## 27 October 2025 - High Impact Forex News
+## 28 October 2025 - High Impact Forex News
 
-There is no high impact news today.
+| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 14:00 | USD | CB Consumer Confidence (Oct) |  | 93.9 | 94.2 |
+| 14:00 | USD | New Home Sales (Sep) |  | 710K | 800K |
