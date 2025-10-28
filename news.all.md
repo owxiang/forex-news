@@ -12,7 +12,7 @@
 | 04:00 | EUR | Low | French Car Registration (YoY) (Sep) | 1.0% |  | 2.2% |
 | 04:00 | EUR | Low | French Car Registration (MoM) (Sep) | 59.8% |  | -24.5% |
 | 05:00 | JPY | Moderate | BoJ Core CPI (YoY) | 2.1% | 2.1% | 2.0% |
-| 07:00 | EUR | Moderate | GfK German Consumer Climate (Nov) |  | -22.0 | -22.3 |
+| 49 min | EUR | Moderate | GfK German Consumer Climate (Nov) |  | -22.0 | -22.3 |
 | 09:00 | EUR | Low | Italian Business Confidence (Oct) |  |  | 87.3 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Oct) |  |  | 96.8 |
 | 09:00 | EUR | Low | ECB Bank Lending Survey |  |  |  |
