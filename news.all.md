@@ -3,14 +3,14 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | BRC Shop Price Index (YoY) | 1.0% | 1.6% | 1.4% |
-| 04:00 | GBP | Low | Car Registration (YoY) (Sep) | 13.7% |  | -2.0% |
 | 04:00 | GBP | Low | Car Registration (MoM) (Sep) | 277.4% |  | -40.8% |
-| 04:00 | EUR | Low | Italian Car Registration (YoY) (Sep) | 4.2% |  | -2.7% |
+| 04:00 | GBP | Low | Car Registration (YoY) (Sep) | 13.7% |  | -2.0% |
 | 04:00 | EUR | Low | Italian Car Registration (MoM) (Sep) | 88.4% |  | -43.2% |
-| 04:00 | EUR | Low | German Car Registration (MoM) (Sep) | 13.7% |  | -21.7% |
+| 04:00 | EUR | Low | Italian Car Registration (YoY) (Sep) | 4.2% |  | -2.7% |
 | 04:00 | EUR | Low | German Car Registration (YoY) (Sep) | 12.8% |  | 5.0% |
-| 04:00 | EUR | Low | French Car Registration (YoY) (Sep) | 1.0% |  | 2.2% |
+| 04:00 | EUR | Low | German Car Registration (MoM) (Sep) | 13.7% |  | -21.7% |
 | 04:00 | EUR | Low | French Car Registration (MoM) (Sep) | 59.8% |  | -24.5% |
+| 04:00 | EUR | Low | French Car Registration (YoY) (Sep) | 1.0% |  | 2.2% |
 | 05:00 | JPY | Moderate | BoJ Core CPI (YoY) | 2.1% | 2.1% | 2.0% |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Nov) | -24.1 | -22.0 | -22.5 |
 | 09:00 | EUR | Low | Italian Business Confidence (Oct) | 88.3 | 87.5 | 87.4 |
