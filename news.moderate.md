@@ -7,6 +7,5 @@
 | 11:00 | EUR | France Jobseekers Total (Sep) | 3,082.0K |  | 3,021.8K |
 | 13:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Aug) | -0.6% |  | -0.3% |
 | 13:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Aug) | 1.6% | 1.4% | 1.8% |
-| 14:00 | USD | New Home Sales (MoM) (Sep) |  |  | 20.5% |
 | 17:00 | USD | 7-Year Note Auction |  |  | 3.953% |
 | 20:30 | USD | API Weekly Crude Oil Stock |  |  | -2.980M |

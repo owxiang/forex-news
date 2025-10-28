@@ -5,12 +5,12 @@
 | 00:01 | GBP | Low | BRC Shop Price Index (YoY) | 1.0% | 1.6% | 1.4% |
 | 04:00 | GBP | Low | Car Registration (MoM) (Sep) | 277.4% |  | -40.8% |
 | 04:00 | GBP | Low | Car Registration (YoY) (Sep) | 13.7% |  | -2.0% |
-| 04:00 | EUR | Low | Italian Car Registration (YoY) (Sep) | 4.2% |  | -2.7% |
 | 04:00 | EUR | Low | Italian Car Registration (MoM) (Sep) | 88.4% |  | -43.2% |
+| 04:00 | EUR | Low | Italian Car Registration (YoY) (Sep) | 4.2% |  | -2.7% |
 | 04:00 | EUR | Low | German Car Registration (YoY) (Sep) | 12.8% |  | 5.0% |
 | 04:00 | EUR | Low | German Car Registration (MoM) (Sep) | 13.7% |  | -21.7% |
-| 04:00 | EUR | Low | French Car Registration (YoY) (Sep) | 1.0% |  | 2.2% |
 | 04:00 | EUR | Low | French Car Registration (MoM) (Sep) | 59.8% |  | -24.5% |
+| 04:00 | EUR | Low | French Car Registration (YoY) (Sep) | 1.0% |  | 2.2% |
 | 05:00 | JPY | Moderate | BoJ Core CPI (YoY) | 2.1% | 2.1% | 2.0% |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Nov) | -24.1 | -22.0 | -22.5 |
 | 09:00 | EUR | Low | Italian Business Confidence (Oct) | 88.3 | 87.5 | 87.4 |
@@ -32,13 +32,12 @@
 | 13:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Aug) | -0.6% |  | -0.3% |
 | 13:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Aug) | 1.6% | 1.4% | 1.8% |
 | 14:00 | USD | High | CB Consumer Confidence (Oct) | 94.6 | 93.4 | 95.6 |
-| 14:00 | USD | Moderate | New Home Sales (MoM) (Sep) |  |  | 20.5% |
 | 14:00 | USD | Low | Richmond Manufacturing Index (Oct) | -4 | -11 | -17 |
 | 14:00 | USD | Low | Richmond Manufacturing Shipments (Oct) | 4 |  | -20 |
 | 14:00 | USD | Low | Richmond Services Index (Oct) | 4 |  | 1 |
-| 23 min | USD | Low | Dallas Fed Services Revenues (Oct) |  |  | -2.4 |
-| 23 min | USD | Low | Texas Services Sector Outlook (Oct) |  |  | -5.6 |
-| 15:30 | USD | Low | 52-Week Bill Auction |  |  | 3.540% |
+| 14:30 | USD | Low | Dallas Fed Services Revenues (Oct) | -6.4 |  | -2.4 |
+| 14:30 | USD | Low | Texas Services Sector Outlook (Oct) | -9.4 |  | -5.6 |
+| 23 min | USD | Low | 52-Week Bill Auction |  |  | 3.540% |
 | 17:00 | USD | Moderate | 7-Year Note Auction |  |  | 3.953% |
 | 17:00 | USD | Low | M2 Money Supply (MoM) (Sep) |  |  | 22.20T |
 | 20:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -2.980M |
