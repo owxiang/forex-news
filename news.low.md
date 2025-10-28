@@ -3,17 +3,17 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | BRC Shop Price Index (YoY) | 1.0% | 1.6% | 1.4% |
-| 04:00 | GBP | Car Registration (MoM) (Sep) | 277.4% |  | -40.8% |
 | 04:00 | GBP | Car Registration (YoY) (Sep) | 13.7% |  | -2.0% |
-| 04:00 | EUR | Italian Car Registration (MoM) (Sep) | 88.4% |  | -43.2% |
+| 04:00 | GBP | Car Registration (MoM) (Sep) | 277.4% |  | -40.8% |
 | 04:00 | EUR | Italian Car Registration (YoY) (Sep) | 4.2% |  | -2.7% |
-| 04:00 | EUR | German Car Registration (YoY) (Sep) | 12.8% |  | 5.0% |
+| 04:00 | EUR | Italian Car Registration (MoM) (Sep) | 88.4% |  | -43.2% |
 | 04:00 | EUR | German Car Registration (MoM) (Sep) | 13.7% |  | -21.7% |
-| 04:00 | EUR | French Car Registration (MoM) (Sep) | 59.8% |  | -24.5% |
+| 04:00 | EUR | German Car Registration (YoY) (Sep) | 12.8% |  | 5.0% |
 | 04:00 | EUR | French Car Registration (YoY) (Sep) | 1.0% |  | 2.2% |
-| 09:00 | EUR | Italian Business Confidence (Oct) |  |  | 87.3 |
-| 09:00 | EUR | Italian Consumer Confidence (Oct) |  |  | 96.8 |
-| 09:00 | EUR | ECB Bank Lending Survey |  |  |  |
+| 04:00 | EUR | French Car Registration (MoM) (Sep) | 59.8% |  | -24.5% |
+| 50 min | EUR | Italian Business Confidence (Oct) |  |  | 87.3 |
+| 50 min | EUR | Italian Consumer Confidence (Oct) |  |  | 96.8 |
+| 50 min | EUR | ECB Bank Lending Survey |  |  |  |
 | 10:30 | EUR | Italian 2-Year CTZ Auction |  |  | 2.230% |
 | 10:30 | INR | Cumulative Industrial Production (Sep) |  |  | 2.80% |
 | 10:30 | INR | Industrial Production (YoY) (Sep) |  |  | 4.0% |
