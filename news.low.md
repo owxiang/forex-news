@@ -7,8 +7,8 @@
 | 04:00 | GBP | Car Registration (YoY) (Sep) | 13.7% |  | -2.0% |
 | 04:00 | EUR | Italian Car Registration (MoM) (Sep) | 88.4% |  | -43.2% |
 | 04:00 | EUR | Italian Car Registration (YoY) (Sep) | 4.2% |  | -2.7% |
-| 04:00 | EUR | German Car Registration (MoM) (Sep) | 13.7% |  | -21.7% |
 | 04:00 | EUR | German Car Registration (YoY) (Sep) | 12.8% |  | 5.0% |
+| 04:00 | EUR | German Car Registration (MoM) (Sep) | 13.7% |  | -21.7% |
 | 04:00 | EUR | French Car Registration (MoM) (Sep) | 59.8% |  | -24.5% |
 | 04:00 | EUR | French Car Registration (YoY) (Sep) | 1.0% |  | 2.2% |
 | 09:00 | EUR | Italian Business Confidence (Oct) | 88.3 | 87.5 | 87.4 |
@@ -22,8 +22,8 @@
 | 12:00 | MXN | Unemployment Rate (Sep) | 2.70% |  | 2.60% |
 | 12:00 | MXN | Unemployment Rate n.s.a. (Sep) | 3.00% |  | 2.90% |
 | 12:55 | USD | Redbook (YoY) | 5.2% |  | 5.0% |
-| 13:00 | USD | House Price Index (MoM) (Aug) | 0.4% | -0.1% | 0.0% |
 | 13:00 | USD | House Price Index (YoY) (Aug) | 2.3% |  | 2.4% |
+| 13:00 | USD | House Price Index (MoM) (Aug) | 0.4% | -0.1% | 0.0% |
 | 13:00 | USD | House Price Index (Aug) | 435.3 |  | 433.6 |
 | 13:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Aug) | 0.2% |  | -0.1% |
 | 14:00 | USD | Richmond Manufacturing Index (Oct) | -4 | -11 | -17 |
