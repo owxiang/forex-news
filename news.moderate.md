@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 05:00 | JPY | BoJ Core CPI (YoY) | 2.1% | 2.1% | 2.0% |
-| 49 min | EUR | GfK German Consumer Climate (Nov) |  | -22.0 | -22.3 |
+| 07:00 | EUR | GfK German Consumer Climate (Nov) | -24.1 | -22.0 | -22.5 |
 | 11:00 | EUR | France Jobseekers Total (Sep) |  |  | 3,021.8K |
 | 13:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Aug) |  |  | -0.3% |
 | 13:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Aug) |  | 1.4% | 1.8% |
