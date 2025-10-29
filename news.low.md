@@ -5,16 +5,16 @@
 | 00:30 | AUD | CPI Index Number (Q3) | 143.60 |  | 141.70 |
 | 00:30 | AUD | Trimmed Mean CPI (YoY) (Q3) | 3.0% | 2.7% | 2.7% |
 | 00:30 | AUD | Monthly CPI Indicator (YoY) (Sep) | 3.50% | 3.10% | 3.00% |
-| 00:30 | AUD | Weighted mean CPI (YoY) (Q3) | 2.8% | 2.7% | 2.7% |
 | 00:30 | AUD | Weighted mean CPI (QoQ) (Q3) | 1.0% |  | 0.6% |
+| 00:30 | AUD | Weighted mean CPI (YoY) (Q3) | 2.8% | 2.7% | 2.7% |
 | 05:00 | JPY | Household Confidence (Oct) | 35.8 | 35.5 | 35.3 |
 | 06:00 | ZAR | M3 Money Supply (YoY) (Sep) | 6.07% |  | 6.18% |
 | 06:00 | ZAR | Private Sector Credit (Sep) | 6.03% |  | 5.86% |
 | 07:00 | NOK | Core Retail Sales (MoM) (Sep) | -0.5% |  | 0.1% |
-| 52 min | EUR | Spanish GDP (YoY) (Q3) |  | 3.0% | 3.1% |
-| 52 min | EUR | Spanish Retail Sales (YoY) (Sep) |  |  | 4.5% |
-| 09:00 | EUR | Italian Trade Balance Non-EU (Sep) |  |  | 1.78B |
-| 09:00 | CHF | ZEW Expectations (Oct) |  |  | -46.4 |
+| 08:00 | EUR | Spanish GDP (YoY) (Q3) | 2.8% | 3.0% | 3.1% |
+| 08:00 | EUR | Spanish Retail Sales (YoY) (Sep) | 4.2% |  | 4.7% |
+| 50 min | EUR | Italian Trade Balance Non-EU (Sep) |  |  | 1.78B |
+| 50 min | CHF | ZEW Expectations (Oct) |  |  | -46.4 |
 | 09:30 | GBP | BoE Consumer Credit (Sep) |  |  | 1.692B |
 | 09:30 | GBP | M3 Money Supply (Sep) |  |  | 3,159.5B |
 | 09:30 | GBP | M4 Money Supply (MoM) (Sep) |  | 0.1% | 0.4% |
@@ -27,8 +27,8 @@
 | 11:00 | USD | MBA Purchase Index |  |  | 157.3 |
 | 11:00 | USD | Mortgage Market Index |  |  | 316.2 |
 | 11:00 | USD | Mortgage Refinance Index |  |  | 1,214.7 |
-| 11:00 | EUR | Italian PPI (MoM) (Sep) |  |  | -0.6% |
 | 11:00 | EUR | Italian PPI (YoY) (Sep) |  |  | 0.2% |
+| 11:00 | EUR | Italian PPI (MoM) (Sep) |  |  | -0.6% |
 | 11:30 | INR | M3 Money Supply |  |  | 9.6% |
 | 11:30 | BRL | Bank lending (MoM) (Sep) |  |  | 0.5% |
 | 12:30 | USD | Wholesale Inventories (MoM) (Sep) |  | -0.2% | 0.1% |

@@ -8,17 +8,17 @@
 | 00:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q3) | 3.0% | 2.7% | 2.7% |
 | 00:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q3) | 1.0% | 0.8% | 0.6% |
 | 00:30 | AUD | Low | Monthly CPI Indicator (YoY) (Sep) | 3.50% | 3.10% | 3.00% |
-| 00:30 | AUD | Low | Weighted mean CPI (YoY) (Q3) | 2.8% | 2.7% | 2.7% |
 | 00:30 | AUD | Low | Weighted mean CPI (QoQ) (Q3) | 1.0% |  | 0.6% |
+| 00:30 | AUD | Low | Weighted mean CPI (YoY) (Q3) | 2.8% | 2.7% | 2.7% |
 | 05:00 | JPY | Low | Household Confidence (Oct) | 35.8 | 35.5 | 35.3 |
 | 06:00 | ZAR | Low | M3 Money Supply (YoY) (Sep) | 6.07% |  | 6.18% |
 | 06:00 | ZAR | Low | Private Sector Credit (Sep) | 6.03% |  | 5.86% |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Sep) | -0.5% |  | 0.1% |
-| 52 min | EUR | Low | Spanish GDP (YoY) (Q3) |  | 3.0% | 3.1% |
-| 52 min | EUR | Moderate | Spanish GDP (QoQ) (Q3) |  | 0.6% | 0.8% |
-| 52 min | EUR | Low | Spanish Retail Sales (YoY) (Sep) |  |  | 4.5% |
-| 09:00 | EUR | Low | Italian Trade Balance Non-EU (Sep) |  |  | 1.78B |
-| 09:00 | CHF | Low | ZEW Expectations (Oct) |  |  | -46.4 |
+| 08:00 | EUR | Low | Spanish GDP (YoY) (Q3) | 2.8% | 3.0% | 3.1% |
+| 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q3) | 0.6% | 0.6% | 0.8% |
+| 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Sep) | 4.2% |  | 4.7% |
+| 50 min | EUR | Low | Italian Trade Balance Non-EU (Sep) |  |  | 1.78B |
+| 50 min | CHF | Low | ZEW Expectations (Oct) |  |  | -46.4 |
 | 09:30 | GBP | Low | BoE Consumer Credit (Sep) |  |  | 1.692B |
 | 09:30 | GBP | Low | M3 Money Supply (Sep) |  |  | 3,159.5B |
 | 09:30 | GBP | Low | M4 Money Supply (MoM) (Sep) |  | 0.1% | 0.4% |
@@ -32,8 +32,8 @@
 | 11:00 | USD | Low | MBA Purchase Index |  |  | 157.3 |
 | 11:00 | USD | Low | Mortgage Market Index |  |  | 316.2 |
 | 11:00 | USD | Low | Mortgage Refinance Index |  |  | 1,214.7 |
-| 11:00 | EUR | Low | Italian PPI (MoM) (Sep) |  |  | -0.6% |
 | 11:00 | EUR | Low | Italian PPI (YoY) (Sep) |  |  | 0.2% |
+| 11:00 | EUR | Low | Italian PPI (MoM) (Sep) |  |  | -0.6% |
 | 11:30 | INR | Low | M3 Money Supply |  |  | 9.6% |
 | 11:30 | BRL | Low | Bank lending (MoM) (Sep) |  |  | 0.5% |
 | 12:30 | USD | Moderate | Goods Trade Balance (Sep) |  | -90.00B | -85.50B |
