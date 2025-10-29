@@ -13,14 +13,14 @@
 | 07:00 | NOK | Core Retail Sales (MoM) (Sep) | -0.5% |  | 0.1% |
 | 08:00 | EUR | Spanish GDP (YoY) (Q3) | 2.8% | 3.0% | 3.1% |
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Sep) | 4.2% |  | 4.7% |
-| 50 min | EUR | Italian Trade Balance Non-EU (Sep) |  |  | 1.78B |
-| 50 min | CHF | ZEW Expectations (Oct) |  |  | -46.4 |
-| 09:30 | GBP | BoE Consumer Credit (Sep) |  |  | 1.692B |
-| 09:30 | GBP | M3 Money Supply (Sep) |  |  | 3,159.5B |
-| 09:30 | GBP | M4 Money Supply (MoM) (Sep) |  | 0.1% | 0.4% |
-| 09:30 | GBP | Mortgage Approvals (Sep) |  | 64.00K | 64.68K |
-| 09:30 | GBP | Mortgage Lending (Sep) |  |  | 4.31B |
-| 09:30 | GBP | Net Lending to Individuals (Sep) |  | 5.600B | 6.000B |
+| 09:00 | EUR | Italian Trade Balance Non-EU (Sep) | 2.74B |  | 1.88B |
+| 09:00 | CHF | ZEW Expectations (Oct) | -7.7 |  | -46.4 |
+| 22 min | GBP | BoE Consumer Credit (Sep) |  |  | 1.692B |
+| 22 min | GBP | M3 Money Supply (Sep) |  |  | 3,159.5B |
+| 22 min | GBP | M4 Money Supply (MoM) (Sep) |  | 0.1% | 0.4% |
+| 22 min | GBP | Mortgage Approvals (Sep) |  | 64.00K | 64.68K |
+| 22 min | GBP | Mortgage Lending (Sep) |  |  | 4.31B |
+| 22 min | GBP | Net Lending to Individuals (Sep) |  | 5.600B | 6.000B |
 | 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 2.044% |
 | 11:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.37% |
 | 11:00 | USD | MBA Mortgage Applications (WoW) |  |  | -0.3% |

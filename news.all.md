@@ -17,14 +17,14 @@
 | 08:00 | EUR | Low | Spanish GDP (YoY) (Q3) | 2.8% | 3.0% | 3.1% |
 | 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q3) | 0.6% | 0.6% | 0.8% |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Sep) | 4.2% |  | 4.7% |
-| 50 min | EUR | Low | Italian Trade Balance Non-EU (Sep) |  |  | 1.78B |
-| 50 min | CHF | Low | ZEW Expectations (Oct) |  |  | -46.4 |
-| 09:30 | GBP | Low | BoE Consumer Credit (Sep) |  |  | 1.692B |
-| 09:30 | GBP | Low | M3 Money Supply (Sep) |  |  | 3,159.5B |
-| 09:30 | GBP | Low | M4 Money Supply (MoM) (Sep) |  | 0.1% | 0.4% |
-| 09:30 | GBP | Low | Mortgage Approvals (Sep) |  | 64.00K | 64.68K |
-| 09:30 | GBP | Low | Mortgage Lending (Sep) |  |  | 4.31B |
-| 09:30 | GBP | Low | Net Lending to Individuals (Sep) |  | 5.600B | 6.000B |
+| 09:00 | EUR | Low | Italian Trade Balance Non-EU (Sep) | 2.74B |  | 1.88B |
+| 09:00 | CHF | Low | ZEW Expectations (Oct) | -7.7 |  | -46.4 |
+| 22 min | GBP | Low | BoE Consumer Credit (Sep) |  |  | 1.692B |
+| 22 min | GBP | Low | M3 Money Supply (Sep) |  |  | 3,159.5B |
+| 22 min | GBP | Low | M4 Money Supply (MoM) (Sep) |  | 0.1% | 0.4% |
+| 22 min | GBP | Low | Mortgage Approvals (Sep) |  | 64.00K | 64.68K |
+| 22 min | GBP | Low | Mortgage Lending (Sep) |  |  | 4.31B |
+| 22 min | GBP | Low | Net Lending to Individuals (Sep) |  | 5.600B | 6.000B |
 | 10:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 2.044% |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.720% |
 | 11:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.37% |
