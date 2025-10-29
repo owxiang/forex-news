@@ -5,8 +5,8 @@
 | 00:30 | AUD | Moderate | CPI (QoQ) (Q3) | 1.3% | 1.1% | 0.7% |
 | 00:30 | AUD | Moderate | CPI (YoY) (Q3) | 3.2% | 3.0% | 2.1% |
 | 00:30 | AUD | Low | CPI Index Number (Q3) | 143.60 |  | 141.70 |
-| 00:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q3) | 3.0% | 2.7% | 2.7% |
 | 00:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q3) | 1.0% | 0.8% | 0.6% |
+| 00:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q3) | 3.0% | 2.7% | 2.7% |
 | 00:30 | AUD | Low | Monthly CPI Indicator (YoY) (Sep) | 3.50% | 3.10% | 3.00% |
 | 00:30 | AUD | Low | Weighted mean CPI (YoY) (Q3) | 2.8% | 2.7% | 2.7% |
 | 00:30 | AUD | Low | Weighted mean CPI (QoQ) (Q3) | 1.0% |  | 0.6% |
@@ -34,11 +34,11 @@
 | 11:00 | USD | Low | Mortgage Refinance Index | 1,327.8 |  | 1,214.7 |
 | 11:00 | EUR | Low | Italian PPI (YoY) (Sep) | 1.1% |  | 0.2% |
 | 11:00 | EUR | Low | Italian PPI (MoM) (Sep) | 0.2% |  | -0.6% |
-| 24 min | INR | Low | M3 Money Supply |  |  | 9.6% |
-| 24 min | BRL | Low | Bank lending (MoM) (Sep) |  |  | 0.5% |
-| 12:30 | USD | Moderate | Goods Trade Balance (Sep) |  | -90.00B | -85.50B |
-| 12:30 | USD | Moderate | Retail Inventories Ex Auto (Sep) |  | 0.3% | 0.1% |
-| 12:30 | USD | Low | Wholesale Inventories (MoM) (Sep) |  | -0.2% | 0.1% |
+| 11:30 | BRL | Low | Bank lending (MoM) (Sep) | 1.1% |  | 0.5% |
+| 18 min | USD | Moderate | Goods Trade Balance (Sep) |  | -90.00B | -85.50B |
+| 18 min | USD | Moderate | Retail Inventories Ex Auto (Sep) |  | 0.3% | 0.1% |
+| 18 min | USD | Low | Wholesale Inventories (MoM) (Sep) |  | -0.2% | 0.1% |
+| 13:30 | INR | Low | M3 Money Supply |  |  | 9.6% |
 | 13:45 | CAD | Moderate | BoC Monetary Policy Report |  |  |  |
 | 13:45 | CAD | Moderate | BoC Rate Statement |  |  |  |
 | 13:45 | CAD | High | BoC Interest Rate Decision |  | 2.25% | 2.50% |
