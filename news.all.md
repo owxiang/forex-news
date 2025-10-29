@@ -32,8 +32,8 @@
 | 11:00 | USD | Low | MBA Purchase Index | 164.3 |  | 157.3 |
 | 11:00 | USD | Low | Mortgage Market Index | 338.7 |  | 316.2 |
 | 11:00 | USD | Low | Mortgage Refinance Index | 1,327.8 |  | 1,214.7 |
-| 11:00 | EUR | Low | Italian PPI (YoY) (Sep) | 1.1% |  | 0.2% |
 | 11:00 | EUR | Low | Italian PPI (MoM) (Sep) | 0.2% |  | -0.6% |
+| 11:00 | EUR | Low | Italian PPI (YoY) (Sep) | 1.1% |  | 0.2% |
 | 11:30 | BRL | Low | Bank lending (MoM) (Sep) | 1.1% |  | 0.5% |
 | 13:45 | CAD | Moderate | BoC Monetary Policy Report |  |  |  |
 | 13:45 | CAD | Moderate | BoC Rate Statement |  |  |  |
@@ -56,5 +56,5 @@
 | 18:00 | USD | High | Fed Interest Rate Decision | 4.00% | 4.00% | 4.25% |
 | 18:30 | USD | High | FOMC Press Conference |  |  |  |
 | 19:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -669.7B |
-| 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 752.6B |
+| 44 min | JPY | Low | Foreign Bonds Buying |  |  | -669.7B |
+| 44 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 752.6B |
