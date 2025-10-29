@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | AUD | Moderate | CPI (YoY) (Q3) | 3.2% | 3.0% | 2.1% |
 | 00:30 | AUD | Moderate | CPI (QoQ) (Q3) | 1.3% | 1.1% | 0.7% |
+| 00:30 | AUD | Moderate | CPI (YoY) (Q3) | 3.2% | 3.0% | 2.1% |
 | 00:30 | AUD | Low | CPI Index Number (Q3) | 143.60 |  | 141.70 |
 | 00:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q3) | 1.0% | 0.8% | 0.6% |
 | 00:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q3) | 3.0% | 2.7% | 2.7% |
@@ -51,7 +51,6 @@
 | 14:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -2.0% |  | 2.9% |
 | 14:30 | USD | Low | Gasoline Inventories | -5.941M | -1.900M | -2.147M |
 | 14:30 | CAD | Moderate | BOC Press Conference |  |  |  |
-| 23 min | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 3.9% | 3.9% |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -2.016B |
 | 18:00 | USD | High | FOMC Statement |  |  |  |
 | 18:00 | USD | High | Fed Interest Rate Decision |  | 4.00% | 4.25% |
