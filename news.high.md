@@ -6,4 +6,4 @@
 | 14:30 | USD | Crude Oil Inventories | -6.858M | -0.900M | -0.961M |
 | 18:00 | USD | FOMC Statement |  |  |  |
 | 18:00 | USD | Fed Interest Rate Decision | 4.00% | 4.00% | 4.25% |
-| 20 min | USD | FOMC Press Conference |  |  |  |
+| 18:30 | USD | FOMC Press Conference |  |  |  |
