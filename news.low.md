@@ -30,7 +30,6 @@
 | 11:00 | EUR | Italian PPI (YoY) (Sep) | 1.1% |  | 0.2% |
 | 11:00 | EUR | Italian PPI (MoM) (Sep) | 0.2% |  | -0.6% |
 | 11:30 | BRL | Bank lending (MoM) (Sep) | 1.1% |  | 0.5% |
-| 18 min | USD | Wholesale Inventories (MoM) (Sep) |  | -0.2% | 0.1% |
 | 13:30 | INR | M3 Money Supply |  |  | 9.6% |
 | 14:00 | USD | Pending Home Sales Index (Sep) |  |  | 74.7 |
 | 14:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.600M |

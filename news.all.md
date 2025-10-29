@@ -35,15 +35,12 @@
 | 11:00 | EUR | Low | Italian PPI (YoY) (Sep) | 1.1% |  | 0.2% |
 | 11:00 | EUR | Low | Italian PPI (MoM) (Sep) | 0.2% |  | -0.6% |
 | 11:30 | BRL | Low | Bank lending (MoM) (Sep) | 1.1% |  | 0.5% |
-| 18 min | USD | Moderate | Goods Trade Balance (Sep) |  | -90.00B | -85.50B |
-| 18 min | USD | Moderate | Retail Inventories Ex Auto (Sep) |  | 0.3% | 0.1% |
-| 18 min | USD | Low | Wholesale Inventories (MoM) (Sep) |  | -0.2% | 0.1% |
 | 13:30 | INR | Low | M3 Money Supply |  |  | 9.6% |
 | 13:45 | CAD | Moderate | BoC Monetary Policy Report |  |  |  |
 | 13:45 | CAD | Moderate | BoC Rate Statement |  |  |  |
 | 13:45 | CAD | High | BoC Interest Rate Decision |  | 2.25% | 2.50% |
-| 14:00 | USD | High | New Home Sales (Sep) |  | 710K | 800K |
 | 14:00 | USD | Moderate | New Home Sales (MoM) (Sep) |  |  | 20.5% |
+| 14:00 | USD | High | New Home Sales (Sep) |  | 710K | 800K |
 | 14:00 | USD | Moderate | Pending Home Sales (MoM) (Sep) |  | 1.6% | 4.0% |
 | 14:00 | USD | Low | Pending Home Sales Index (Sep) |  |  | 74.7 |
 | 14:30 | USD | High | Crude Oil Inventories |  | -0.900M | -0.961M |

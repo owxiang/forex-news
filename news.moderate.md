@@ -7,8 +7,6 @@
 | 00:30 | AUD | Trimmed Mean CPI (QoQ) (Q3) | 1.0% | 0.8% | 0.6% |
 | 08:00 | EUR | Spanish GDP (QoQ) (Q3) | 0.6% | 0.6% | 0.8% |
 | 10:30 | EUR | German 10-Year Bund Auction | 2.620% |  | 2.720% |
-| 18 min | USD | Goods Trade Balance (Sep) |  | -90.00B | -85.50B |
-| 18 min | USD | Retail Inventories Ex Auto (Sep) |  | 0.3% | 0.1% |
 | 13:45 | CAD | BoC Monetary Policy Report |  |  |  |
 | 13:45 | CAD | BoC Rate Statement |  |  |  |
 | 14:00 | USD | New Home Sales (MoM) (Sep) |  |  | 20.5% |
