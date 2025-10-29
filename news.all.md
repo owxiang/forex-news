@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | AUD | Moderate | CPI (QoQ) (Q3) | 1.3% | 1.1% | 0.7% |
 | 00:30 | AUD | Moderate | CPI (YoY) (Q3) | 3.2% | 3.0% | 2.1% |
+| 00:30 | AUD | Moderate | CPI (QoQ) (Q3) | 1.3% | 1.1% | 0.7% |
 | 00:30 | AUD | Low | CPI Index Number (Q3) | 143.60 |  | 141.70 |
 | 00:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q3) | 1.0% | 0.8% | 0.6% |
 | 00:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q3) | 3.0% | 2.7% | 2.7% |
@@ -38,21 +38,20 @@
 | 13:45 | CAD | Moderate | BoC Monetary Policy Report |  |  |  |
 | 13:45 | CAD | Moderate | BoC Rate Statement |  |  |  |
 | 13:45 | CAD | High | BoC Interest Rate Decision | 2.25% | 2.25% | 2.50% |
-| 14:00 | USD | Moderate | New Home Sales (MoM) (Sep) |  |  | 20.5% |
 | 14:00 | USD | Moderate | Pending Home Sales (MoM) (Sep) | 0.0% | 1.6% | 4.2% |
 | 14:00 | USD | Low | Pending Home Sales Index (Sep) | 74.8 |  | 74.8 |
-| 23 min | USD | High | Crude Oil Inventories |  | -0.900M | -0.961M |
-| 23 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.600M |
-| 23 min | USD | Low | Crude Oil Imports |  |  | 0.656M |
-| 23 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.770M |
-| 23 min | USD | Low | Distillate Fuel Production |  |  | 0.040M |
-| 23 min | USD | Low | EIA Weekly Distillates Stocks |  | -1.800M | -1.479M |
-| 23 min | USD | Low | Gasoline Production |  |  | 0.235M |
-| 23 min | USD | Low | Heating Oil Stockpiles |  |  | 0.088M |
-| 23 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 2.9% |
-| 23 min | USD | Low | Gasoline Inventories |  | -1.900M | -2.147M |
-| 23 min | CAD | Moderate | BOC Press Conference |  |  |  |
-| 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 3.9% | 3.9% |
+| 14:30 | USD | High | Crude Oil Inventories | -6.858M | -0.900M | -0.961M |
+| 14:30 | USD | Low | EIA Refinery Crude Runs (WoW) | -0.511M |  | 0.600M |
+| 14:30 | USD | Low | Crude Oil Imports | -1.025M |  | 0.656M |
+| 14:30 | USD | Moderate | Cushing Crude Oil Inventories | 1.334M |  | -0.770M |
+| 14:30 | USD | Low | Distillate Fuel Production | -0.134M |  | 0.040M |
+| 14:30 | USD | Low | EIA Weekly Distillates Stocks | -3.362M | -1.800M | -1.479M |
+| 14:30 | USD | Low | Gasoline Production | -0.004M |  | 0.235M |
+| 14:30 | USD | Low | Heating Oil Stockpiles | 0.049M |  | 0.088M |
+| 14:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -2.0% |  | 2.9% |
+| 14:30 | USD | Low | Gasoline Inventories | -5.941M | -1.900M | -2.147M |
+| 14:30 | CAD | Moderate | BOC Press Conference |  |  |  |
+| 23 min | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 3.9% | 3.9% |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -2.016B |
 | 18:00 | USD | High | FOMC Statement |  |  |  |
 | 18:00 | USD | High | Fed Interest Rate Decision |  | 4.00% | 4.25% |
