@@ -32,28 +32,26 @@
 | 11:00 | USD | Low | MBA Purchase Index | 164.3 |  | 157.3 |
 | 11:00 | USD | Low | Mortgage Market Index | 338.7 |  | 316.2 |
 | 11:00 | USD | Low | Mortgage Refinance Index | 1,327.8 |  | 1,214.7 |
-| 11:00 | EUR | Low | Italian PPI (YoY) (Sep) | 1.1% |  | 0.2% |
 | 11:00 | EUR | Low | Italian PPI (MoM) (Sep) | 0.2% |  | -0.6% |
+| 11:00 | EUR | Low | Italian PPI (YoY) (Sep) | 1.1% |  | 0.2% |
 | 11:30 | BRL | Low | Bank lending (MoM) (Sep) | 1.1% |  | 0.5% |
-| 13:30 | INR | Low | M3 Money Supply |  |  | 9.6% |
 | 13:45 | CAD | Moderate | BoC Monetary Policy Report |  |  |  |
 | 13:45 | CAD | Moderate | BoC Rate Statement |  |  |  |
-| 13:45 | CAD | High | BoC Interest Rate Decision |  | 2.25% | 2.50% |
+| 13:45 | CAD | High | BoC Interest Rate Decision | 2.25% | 2.25% | 2.50% |
 | 14:00 | USD | Moderate | New Home Sales (MoM) (Sep) |  |  | 20.5% |
-| 14:00 | USD | High | New Home Sales (Sep) |  | 710K | 800K |
-| 14:00 | USD | Moderate | Pending Home Sales (MoM) (Sep) |  | 1.6% | 4.0% |
-| 14:00 | USD | Low | Pending Home Sales Index (Sep) |  |  | 74.7 |
-| 14:30 | USD | High | Crude Oil Inventories |  | -0.900M | -0.961M |
-| 14:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.600M |
-| 14:30 | USD | Low | Crude Oil Imports |  |  | 0.656M |
-| 14:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.770M |
-| 14:30 | USD | Low | Distillate Fuel Production |  |  | 0.040M |
-| 14:30 | USD | Low | EIA Weekly Distillates Stocks |  | -1.800M | -1.479M |
-| 14:30 | USD | Low | Gasoline Production |  |  | 0.235M |
-| 14:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.088M |
-| 14:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 2.9% |
-| 14:30 | USD | Low | Gasoline Inventories |  | -1.900M | -2.147M |
-| 14:30 | CAD | Moderate | BOC Press Conference |  |  |  |
+| 14:00 | USD | Moderate | Pending Home Sales (MoM) (Sep) | 0.0% | 1.6% | 4.2% |
+| 14:00 | USD | Low | Pending Home Sales Index (Sep) | 74.8 |  | 74.8 |
+| 23 min | USD | High | Crude Oil Inventories |  | -0.900M | -0.961M |
+| 23 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.600M |
+| 23 min | USD | Low | Crude Oil Imports |  |  | 0.656M |
+| 23 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.770M |
+| 23 min | USD | Low | Distillate Fuel Production |  |  | 0.040M |
+| 23 min | USD | Low | EIA Weekly Distillates Stocks |  | -1.800M | -1.479M |
+| 23 min | USD | Low | Gasoline Production |  |  | 0.235M |
+| 23 min | USD | Low | Heating Oil Stockpiles |  |  | 0.088M |
+| 23 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 2.9% |
+| 23 min | USD | Low | Gasoline Inventories |  | -1.900M | -2.147M |
+| 23 min | CAD | Moderate | BOC Press Conference |  |  |  |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 3.9% | 3.9% |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -2.016B |
 | 18:00 | USD | High | FOMC Statement |  |  |  |

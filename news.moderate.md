@@ -10,8 +10,8 @@
 | 13:45 | CAD | BoC Monetary Policy Report |  |  |  |
 | 13:45 | CAD | BoC Rate Statement |  |  |  |
 | 14:00 | USD | New Home Sales (MoM) (Sep) |  |  | 20.5% |
-| 14:00 | USD | Pending Home Sales (MoM) (Sep) |  | 1.6% | 4.0% |
-| 14:30 | USD | Cushing Crude Oil Inventories |  |  | -0.770M |
-| 14:30 | CAD | BOC Press Conference |  |  |  |
+| 14:00 | USD | Pending Home Sales (MoM) (Sep) | 0.0% | 1.6% | 4.2% |
+| 23 min | USD | Cushing Crude Oil Inventories |  |  | -0.770M |
+| 23 min | CAD | BOC Press Conference |  |  |  |
 | 15:30 | USD | Atlanta Fed GDPNow (Q3) |  | 3.9% | 3.9% |
 | 19:30 | EUR | ECB President Lagarde Speaks |  |  |  |

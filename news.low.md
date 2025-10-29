@@ -27,19 +27,18 @@
 | 11:00 | USD | MBA Purchase Index | 164.3 |  | 157.3 |
 | 11:00 | USD | Mortgage Market Index | 338.7 |  | 316.2 |
 | 11:00 | USD | Mortgage Refinance Index | 1,327.8 |  | 1,214.7 |
-| 11:00 | EUR | Italian PPI (YoY) (Sep) | 1.1% |  | 0.2% |
 | 11:00 | EUR | Italian PPI (MoM) (Sep) | 0.2% |  | -0.6% |
+| 11:00 | EUR | Italian PPI (YoY) (Sep) | 1.1% |  | 0.2% |
 | 11:30 | BRL | Bank lending (MoM) (Sep) | 1.1% |  | 0.5% |
-| 13:30 | INR | M3 Money Supply |  |  | 9.6% |
-| 14:00 | USD | Pending Home Sales Index (Sep) |  |  | 74.7 |
-| 14:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.600M |
-| 14:30 | USD | Crude Oil Imports |  |  | 0.656M |
-| 14:30 | USD | Distillate Fuel Production |  |  | 0.040M |
-| 14:30 | USD | EIA Weekly Distillates Stocks |  | -1.800M | -1.479M |
-| 14:30 | USD | Gasoline Production |  |  | 0.235M |
-| 14:30 | USD | Heating Oil Stockpiles |  |  | 0.088M |
-| 14:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 2.9% |
-| 14:30 | USD | Gasoline Inventories |  | -1.900M | -2.147M |
+| 14:00 | USD | Pending Home Sales Index (Sep) | 74.8 |  | 74.8 |
+| 23 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.600M |
+| 23 min | USD | Crude Oil Imports |  |  | 0.656M |
+| 23 min | USD | Distillate Fuel Production |  |  | 0.040M |
+| 23 min | USD | EIA Weekly Distillates Stocks |  | -1.800M | -1.479M |
+| 23 min | USD | Gasoline Production |  |  | 0.235M |
+| 23 min | USD | Heating Oil Stockpiles |  |  | 0.088M |
+| 23 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 2.9% |
+| 23 min | USD | Gasoline Inventories |  | -1.900M | -2.147M |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | -2.016B |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | -669.7B |
 | 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 752.6B |
