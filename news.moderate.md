@@ -1,11 +1,18 @@
-## 28 October 2025 - Moderate Impact Forex News
+## 29 October 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | JPY | BoJ Core CPI (YoY) | 2.1% | 2.1% | 2.0% |
-| 07:00 | EUR | GfK German Consumer Climate (Nov) | -24.1 | -22.0 | -22.5 |
-| 11:00 | EUR | France Jobseekers Total (Sep) | 3,082.0K |  | 3,021.8K |
-| 13:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Aug) | -0.6% |  | -0.3% |
-| 13:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Aug) | 1.6% | 1.4% | 1.8% |
-| 17:00 | USD | 7-Year Note Auction | 3.790% |  | 3.953% |
-| 20:30 | USD | API Weekly Crude Oil Stock | -4.000M | -2.900M | -2.980M |
+| 00:30 | AUD | CPI (QoQ) (Q3) | 1.3% | 1.1% | 0.7% |
+| 00:30 | AUD | CPI (YoY) (Q3) | 3.2% | 3.0% | 2.1% |
+| 00:30 | AUD | Trimmed Mean CPI (QoQ) (Q3) | 1.0% | 0.8% | 0.6% |
+| 08:00 | EUR | Spanish GDP (QoQ) (Q3) |  | 0.6% | 0.8% |
+| 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.720% |
+| 12:30 | USD | Goods Trade Balance (Sep) |  | -90.00B | -85.50B |
+| 12:30 | USD | Retail Inventories Ex Auto (Sep) |  | 0.3% | 0.1% |
+| 13:45 | CAD | BoC Monetary Policy Report |  |  |  |
+| 13:45 | CAD | BoC Rate Statement |  |  |  |
+| 14:00 | USD | New Home Sales (MoM) (Sep) |  |  | 20.5% |
+| 14:00 | USD | Pending Home Sales (MoM) (Sep) |  | 1.7% | 4.0% |
+| 14:30 | USD | Cushing Crude Oil Inventories |  |  | -0.770M |
+| 14:30 | CAD | BOC Press Conference |  |  |  |
+| 15:30 | USD | Atlanta Fed GDPNow (Q3) |  | 3.9% | 3.9% |
