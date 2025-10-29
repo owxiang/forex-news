@@ -10,9 +10,9 @@
 | 05:00 | JPY | Household Confidence (Oct) | 35.8 | 35.5 | 35.3 |
 | 06:00 | ZAR | M3 Money Supply (YoY) (Sep) | 6.07% |  | 6.18% |
 | 06:00 | ZAR | Private Sector Credit (Sep) | 6.03% |  | 5.86% |
-| 48 min | NOK | Core Retail Sales (MoM) (Sep) |  |  | 0.2% |
-| 08:00 | EUR | Spanish GDP (YoY) (Q3) |  | 3.0% | 3.1% |
-| 08:00 | EUR | Spanish Retail Sales (YoY) (Sep) |  |  | 4.5% |
+| 07:00 | NOK | Core Retail Sales (MoM) (Sep) | -0.5% |  | 0.1% |
+| 52 min | EUR | Spanish GDP (YoY) (Q3) |  | 3.0% | 3.1% |
+| 52 min | EUR | Spanish Retail Sales (YoY) (Sep) |  |  | 4.5% |
 | 09:00 | EUR | Italian Trade Balance Non-EU (Sep) |  |  | 1.78B |
 | 09:00 | CHF | ZEW Expectations (Oct) |  |  | -46.4 |
 | 09:30 | GBP | BoE Consumer Credit (Sep) |  |  | 1.692B |
