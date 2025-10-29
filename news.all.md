@@ -5,10 +5,10 @@
 | 00:30 | AUD | Moderate | CPI (QoQ) (Q3) | 1.3% | 1.1% | 0.7% |
 | 00:30 | AUD | Moderate | CPI (YoY) (Q3) | 3.2% | 3.0% | 2.1% |
 | 00:30 | AUD | Low | CPI Index Number (Q3) | 143.60 |  | 141.70 |
-| 00:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q3) | 1.0% | 0.8% | 0.6% |
 | 00:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q3) | 3.0% | 2.7% | 2.7% |
+| 00:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q3) | 1.0% | 0.8% | 0.6% |
 | 00:30 | AUD | Low | Monthly CPI Indicator (YoY) (Sep) | 3.50% | 3.10% | 3.00% |
-| 00:30 | AUD | Low | Weighted mean CPI (YoY) (Q3) | 2.8% |  | 2.7% |
+| 00:30 | AUD | Low | Weighted mean CPI (YoY) (Q3) | 2.8% | 2.7% | 2.7% |
 | 00:30 | AUD | Low | Weighted mean CPI (QoQ) (Q3) | 1.0% |  | 0.6% |
 | 05:00 | JPY | Low | Household Confidence (Oct) |  | 35.5 | 35.3 |
 | 06:00 | ZAR | Low | M3 Money Supply (YoY) (Sep) |  |  | 6.18% |
@@ -42,8 +42,8 @@
 | 13:45 | CAD | Moderate | BoC Monetary Policy Report |  |  |  |
 | 13:45 | CAD | Moderate | BoC Rate Statement |  |  |  |
 | 13:45 | CAD | High | BoC Interest Rate Decision |  | 2.25% | 2.50% |
-| 14:00 | USD | High | New Home Sales (Sep) |  | 710K | 800K |
 | 14:00 | USD | Moderate | New Home Sales (MoM) (Sep) |  |  | 20.5% |
+| 14:00 | USD | High | New Home Sales (Sep) |  | 710K | 800K |
 | 14:00 | USD | Moderate | Pending Home Sales (MoM) (Sep) |  | 1.7% | 4.0% |
 | 14:00 | USD | Low | Pending Home Sales Index (Sep) |  |  | 74.7 |
 | 14:30 | USD | High | Crude Oil Inventories |  | -0.400M | -0.961M |

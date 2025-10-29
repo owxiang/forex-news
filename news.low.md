@@ -5,7 +5,7 @@
 | 00:30 | AUD | CPI Index Number (Q3) | 143.60 |  | 141.70 |
 | 00:30 | AUD | Trimmed Mean CPI (YoY) (Q3) | 3.0% | 2.7% | 2.7% |
 | 00:30 | AUD | Monthly CPI Indicator (YoY) (Sep) | 3.50% | 3.10% | 3.00% |
-| 00:30 | AUD | Weighted mean CPI (YoY) (Q3) | 2.8% |  | 2.7% |
+| 00:30 | AUD | Weighted mean CPI (YoY) (Q3) | 2.8% | 2.7% | 2.7% |
 | 00:30 | AUD | Weighted mean CPI (QoQ) (Q3) | 1.0% |  | 0.6% |
 | 05:00 | JPY | Household Confidence (Oct) |  | 35.5 | 35.3 |
 | 06:00 | ZAR | M3 Money Supply (YoY) (Sep) |  |  | 6.18% |
