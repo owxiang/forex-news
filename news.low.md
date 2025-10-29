@@ -27,8 +27,8 @@
 | 11:00 | USD | MBA Purchase Index |  |  | 157.3 |
 | 11:00 | USD | Mortgage Market Index |  |  | 316.2 |
 | 11:00 | USD | Mortgage Refinance Index |  |  | 1,214.7 |
-| 11:00 | EUR | Italian PPI (YoY) (Sep) |  |  | 0.2% |
 | 11:00 | EUR | Italian PPI (MoM) (Sep) |  |  | -0.6% |
+| 11:00 | EUR | Italian PPI (YoY) (Sep) |  |  | 0.2% |
 | 11:30 | INR | M3 Money Supply |  |  | 9.6% |
 | 11:30 | BRL | Bank lending (MoM) (Sep) |  |  | 0.5% |
 | 12:30 | USD | Wholesale Inventories (MoM) (Sep) |  | -0.2% | 0.1% |

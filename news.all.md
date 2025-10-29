@@ -32,8 +32,8 @@
 | 11:00 | USD | Low | MBA Purchase Index |  |  | 157.3 |
 | 11:00 | USD | Low | Mortgage Market Index |  |  | 316.2 |
 | 11:00 | USD | Low | Mortgage Refinance Index |  |  | 1,214.7 |
-| 11:00 | EUR | Low | Italian PPI (YoY) (Sep) |  |  | 0.2% |
 | 11:00 | EUR | Low | Italian PPI (MoM) (Sep) |  |  | -0.6% |
+| 11:00 | EUR | Low | Italian PPI (YoY) (Sep) |  |  | 0.2% |
 | 11:30 | INR | Low | M3 Money Supply |  |  | 9.6% |
 | 11:30 | BRL | Low | Bank lending (MoM) (Sep) |  |  | 0.5% |
 | 12:30 | USD | Moderate | Goods Trade Balance (Sep) |  | -90.00B | -85.50B |
