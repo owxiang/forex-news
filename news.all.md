@@ -25,25 +25,25 @@
 | 09:30 | GBP | Low | Mortgage Approvals (Sep) | 65.94K | 64.00K | 64.96K |
 | 09:30 | GBP | Low | Mortgage Lending (Sep) | 5.49B |  | 4.28B |
 | 09:30 | GBP | Low | Net Lending to Individuals (Sep) | 7.000B | 5.600B | 6.000B |
-| 2 min | EUR | Low | Italian 6-Month BOT Auction |  |  | 2.044% |
-| 22 min | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.720% |
-| 52 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.37% |
-| 52 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -0.3% |
-| 52 min | USD | Low | MBA Purchase Index |  |  | 157.3 |
-| 52 min | USD | Low | Mortgage Market Index |  |  | 316.2 |
-| 52 min | USD | Low | Mortgage Refinance Index |  |  | 1,214.7 |
-| 52 min | EUR | Low | Italian PPI (YoY) (Sep) |  |  | 0.2% |
-| 52 min | EUR | Low | Italian PPI (MoM) (Sep) |  |  | -0.6% |
-| 11:30 | INR | Low | M3 Money Supply |  |  | 9.6% |
-| 11:30 | BRL | Low | Bank lending (MoM) (Sep) |  |  | 0.5% |
+| 10:10 | EUR | Low | Italian 6-Month BOT Auction | 1.974% |  | 2.044% |
+| 10:30 | EUR | Moderate | German 10-Year Bund Auction | 2.620% |  | 2.720% |
+| 11:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.30% |  | 6.37% |
+| 11:00 | USD | Low | MBA Mortgage Applications (WoW) | 7.1% |  | -0.3% |
+| 11:00 | USD | Low | MBA Purchase Index | 164.3 |  | 157.3 |
+| 11:00 | USD | Low | Mortgage Market Index | 338.7 |  | 316.2 |
+| 11:00 | USD | Low | Mortgage Refinance Index | 1,327.8 |  | 1,214.7 |
+| 11:00 | EUR | Low | Italian PPI (YoY) (Sep) | 1.1% |  | 0.2% |
+| 11:00 | EUR | Low | Italian PPI (MoM) (Sep) | 0.2% |  | -0.6% |
+| 24 min | INR | Low | M3 Money Supply |  |  | 9.6% |
+| 24 min | BRL | Low | Bank lending (MoM) (Sep) |  |  | 0.5% |
 | 12:30 | USD | Moderate | Goods Trade Balance (Sep) |  | -90.00B | -85.50B |
 | 12:30 | USD | Moderate | Retail Inventories Ex Auto (Sep) |  | 0.3% | 0.1% |
 | 12:30 | USD | Low | Wholesale Inventories (MoM) (Sep) |  | -0.2% | 0.1% |
 | 13:45 | CAD | Moderate | BoC Monetary Policy Report |  |  |  |
 | 13:45 | CAD | Moderate | BoC Rate Statement |  |  |  |
 | 13:45 | CAD | High | BoC Interest Rate Decision |  | 2.25% | 2.50% |
-| 14:00 | USD | Moderate | New Home Sales (MoM) (Sep) |  |  | 20.5% |
 | 14:00 | USD | High | New Home Sales (Sep) |  | 710K | 800K |
+| 14:00 | USD | Moderate | New Home Sales (MoM) (Sep) |  |  | 20.5% |
 | 14:00 | USD | Moderate | Pending Home Sales (MoM) (Sep) |  | 1.6% | 4.0% |
 | 14:00 | USD | Low | Pending Home Sales Index (Sep) |  |  | 74.7 |
 | 14:30 | USD | High | Crude Oil Inventories |  | -0.900M | -0.961M |

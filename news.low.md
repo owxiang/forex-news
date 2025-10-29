@@ -21,16 +21,16 @@
 | 09:30 | GBP | Mortgage Approvals (Sep) | 65.94K | 64.00K | 64.96K |
 | 09:30 | GBP | Mortgage Lending (Sep) | 5.49B |  | 4.28B |
 | 09:30 | GBP | Net Lending to Individuals (Sep) | 7.000B | 5.600B | 6.000B |
-| 2 min | EUR | Italian 6-Month BOT Auction |  |  | 2.044% |
-| 52 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.37% |
-| 52 min | USD | MBA Mortgage Applications (WoW) |  |  | -0.3% |
-| 52 min | USD | MBA Purchase Index |  |  | 157.3 |
-| 52 min | USD | Mortgage Market Index |  |  | 316.2 |
-| 52 min | USD | Mortgage Refinance Index |  |  | 1,214.7 |
-| 52 min | EUR | Italian PPI (YoY) (Sep) |  |  | 0.2% |
-| 52 min | EUR | Italian PPI (MoM) (Sep) |  |  | -0.6% |
-| 11:30 | INR | M3 Money Supply |  |  | 9.6% |
-| 11:30 | BRL | Bank lending (MoM) (Sep) |  |  | 0.5% |
+| 10:10 | EUR | Italian 6-Month BOT Auction | 1.974% |  | 2.044% |
+| 11:00 | USD | MBA 30-Year Mortgage Rate | 6.30% |  | 6.37% |
+| 11:00 | USD | MBA Mortgage Applications (WoW) | 7.1% |  | -0.3% |
+| 11:00 | USD | MBA Purchase Index | 164.3 |  | 157.3 |
+| 11:00 | USD | Mortgage Market Index | 338.7 |  | 316.2 |
+| 11:00 | USD | Mortgage Refinance Index | 1,327.8 |  | 1,214.7 |
+| 11:00 | EUR | Italian PPI (YoY) (Sep) | 1.1% |  | 0.2% |
+| 11:00 | EUR | Italian PPI (MoM) (Sep) | 0.2% |  | -0.6% |
+| 24 min | INR | M3 Money Supply |  |  | 9.6% |
+| 24 min | BRL | Bank lending (MoM) (Sep) |  |  | 0.5% |
 | 12:30 | USD | Wholesale Inventories (MoM) (Sep) |  | -0.2% | 0.1% |
 | 14:00 | USD | Pending Home Sales Index (Sep) |  |  | 74.7 |
 | 14:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.600M |
