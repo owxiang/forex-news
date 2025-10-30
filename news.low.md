@@ -25,8 +25,8 @@
 | 09:00 | EUR | Brandenburg CPI (YoY) (Oct) | 2.6% |  | 2.6% |
 | 09:00 | EUR | Hesse CPI (MoM) (Oct) | 0.3% |  | 0.2% |
 | 09:00 | EUR | Hesse CPI (YoY) (Oct) | 2.4% |  | 2.6% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Oct) | 2.3% |  | 2.0% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Oct) | 0.4% |  | 0.2% |
+| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Oct) | 2.3% |  | 2.0% |
 | 09:00 | EUR | Saxony CPI (YoY) (Oct) | 2.1% |  | 2.2% |
 | 09:00 | EUR | Saxony CPI (MoM) (Oct) | 0.3% |  | 0.2% |
 | 09:30 | ZAR | PPI (YoY) (Sep) | 2.3% | 2.6% | 2.1% |
@@ -52,7 +52,7 @@
 | 15:30 | USD | 8-Week Bill Auction | 3.890% |  | 3.900% |
 | 17:20 | USD | Fed Logan Speaks |  |  |  |
 | 17:30 | BRL | CAGED Net Payroll Jobs (Sep) | 213.00K | 182.50K | 147.36K |
-| 51 min | MXN | Fiscal Balance (Sep) | -198.11B |  | -21.03B |
+| 19:00 | MXN | Fiscal Balance (Sep) | -198.11B |  | -21.03B |
 | 20:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.930T |
 | 23:00 | KRW | Industrial Production (MoM) (Sep) |  | 0.1% | 2.4% |
 | 23:00 | KRW | Industrial Production (YoY) (Sep) |  | 5.9% | 0.9% |

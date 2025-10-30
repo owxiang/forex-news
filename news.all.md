@@ -39,8 +39,8 @@
 | 09:00 | EUR | High | German GDP (QoQ) (Q3) | 0.0% | 0.0% | -0.3% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Oct) | 0.3% |  | 0.2% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Oct) | 2.4% |  | 2.6% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Oct) | 2.3% |  | 2.0% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Oct) | 0.4% |  | 0.2% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Oct) | 2.3% |  | 2.0% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Oct) | 2.1% |  | 2.2% |
 | 09:00 | EUR | Low | Saxony CPI (MoM) (Oct) | 0.3% |  | 0.2% |
 | 09:30 | ZAR | Low | PPI (YoY) (Sep) | 2.3% | 2.6% | 2.1% |
@@ -81,7 +81,7 @@
 | 15:30 | USD | Low | 8-Week Bill Auction | 3.890% |  | 3.900% |
 | 17:20 | USD | Low | Fed Logan Speaks |  |  |  |
 | 17:30 | BRL | Low | CAGED Net Payroll Jobs (Sep) | 213.00K | 182.50K | 147.36K |
-| 51 min | MXN | Low | Fiscal Balance (Sep) | -198.11B |  | -21.03B |
+| 19:00 | MXN | Low | Fiscal Balance (Sep) | -198.11B |  | -21.03B |
 | 20:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,590B |
 | 20:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.930T |
 | 23:00 | KRW | Low | Industrial Production (MoM) (Sep) |  | 0.1% | 2.4% |
