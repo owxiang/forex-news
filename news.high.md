@@ -1,9 +1,12 @@
-## 29 October 2025 - High Impact Forex News
+## 30 October 2025 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:45 | CAD | BoC Interest Rate Decision | 2.25% | 2.25% | 2.50% |
-| 14:30 | USD | Crude Oil Inventories | -6.858M | -0.900M | -0.961M |
-| 18:00 | USD | FOMC Statement |  |  |  |
-| 18:00 | USD | Fed Interest Rate Decision | 4.00% | 4.00% | 4.25% |
-| 18:30 | USD | FOMC Press Conference |  |  |  |
+| 03:00 | JPY | BoJ Interest Rate Decision |  | 0.50% | 0.50% |
+| 09:00 | EUR | German GDP (QoQ) (Q3) |  | 0.0% | -0.3% |
+| 11:00 | USD | New Home Sales (Sep) |  | 710K | 800K |
+| 12:30 | USD | GDP (QoQ) (Q3) |  | 3.0% | 3.8% |
+| 13:00 | EUR | German CPI (MoM) (Oct) |  | 0.2% | 0.2% |
+| 13:15 | EUR | Deposit Facility Rate (Oct) |  | 2.00% | 2.00% |
+| 13:15 | EUR | ECB Interest Rate Decision (Oct) |  | 2.15% | 2.15% |
+| 13:45 | EUR | ECB Press Conference |  |  |  |
