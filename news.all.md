@@ -16,13 +16,13 @@
 | 06:30 | EUR | Moderate | French GDP (YoY) (Q3) | 0.9% | 0.6% | 0.7% |
 | 06:30 | EUR | Moderate | French GDP (QoQ) (Q3) | 0.5% | 0.2% | 0.3% |
 | 06:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
-| 07:55 | EUR | Moderate | German Unemployment Change (Sep) | -1K | 8K | 14K |
+| 07:55 | EUR | Moderate | German Unemployment Change (Sep) | -1K | 8K | 13K |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Oct) | 101.3 | 98.4 | 98.0 |
 | 08:00 | EUR | Low | Core CPI (YoY) (Oct) | 2.5% |  | 2.4% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Oct) | 0.7% |  | -0.3% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Oct) | 3.1% | 2.9% | 3.0% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Oct) | 0.5% | 0.3% | 0.2% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Oct) | 0.7% |  | -0.3% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Oct) | 3.2% | 3.0% | 3.0% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Oct) | 0.5% | 0.3% | 0.2% |
 | 08:55 | EUR | Moderate | German Unemployment Rate (Oct) | 6.3% | 6.3% | 6.3% |
 | 08:55 | EUR | Low | German Unemployment (Oct) | 2.973M |  | 2.976M |
 | 08:55 | EUR | Low | German Unemployment n.s.a. (Oct) | 2.910M |  | 2.955M |
@@ -31,23 +31,23 @@
 | 09:00 | EUR | Low | Italian GDP (QoQ) (Q3) | 0.0% | 0.1% | -0.1% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Oct) | 2.3% |  | 2.7% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Oct) | 0.3% |  | 0.2% |
-| 09:00 | EUR | Low | Bavaria CPI (MoM) (Oct) | 0.3% |  | 0.4% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Oct) | 2.2% |  | 2.4% |
+| 09:00 | EUR | Low | Bavaria CPI (MoM) (Oct) | 0.3% |  | 0.4% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Oct) | 0.4% |  | 0.1% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Oct) | 2.6% |  | 2.6% |
-| 09:00 | EUR | High | German GDP (QoQ) (Q3) | 0.0% | 0.0% | -0.3% |
 | 09:00 | EUR | Moderate | German GDP (YoY) (Q3) | 0.3% | 0.3% | 0.2% |
-| 09:00 | EUR | Low | Hesse CPI (YoY) (Oct) | 2.4% |  | 2.6% |
+| 09:00 | EUR | High | German GDP (QoQ) (Q3) | 0.0% | 0.0% | -0.3% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Oct) | 0.3% |  | 0.2% |
+| 09:00 | EUR | Low | Hesse CPI (YoY) (Oct) | 2.4% |  | 2.6% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Oct) | 2.3% |  | 2.0% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Oct) | 0.4% |  | 0.2% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Oct) | 2.1% |  | 2.2% |
 | 09:00 | EUR | Low | Saxony CPI (MoM) (Oct) | 0.3% |  | 0.2% |
-| 09:30 | ZAR | Low | PPI (MoM) (Sep) | -0.1% |  | 0.3% |
 | 09:30 | ZAR | Low | PPI (YoY) (Sep) | 2.3% |  | 2.1% |
+| 09:30 | ZAR | Low | PPI (MoM) (Sep) | -0.1% |  | 0.3% |
 | 10:00 | EUR | Low | Italian Monthly Unemployment Rate (Sep) | 6.1% | 6.0% | 6.0% |
 | 10:00 | EUR | Low | Business and Consumer Survey (Oct) | 96.8 | 95.7 | 95.6 |
-| 10:00 | EUR | Low | Business Climate (Oct) | -0.46 |  | -0.76 |
+| 10:00 | EUR | Low | Business Climate (Oct) | -0.46 |  | -0.73 |
 | 10:00 | EUR | Low | Consumer Confidence (Oct) | -14.2 | -14.2 | -14.9 |
 | 10:00 | EUR | Low | Consumer Inflation Expectation (Oct) | 21.9 |  | 24.0 |
 | 10:00 | EUR | Low | Selling Price Expectations (Oct) | 7.5 |  | 7.1 |
@@ -56,16 +56,14 @@
 | 10:00 | EUR | Moderate | GDP (YoY) (Q3) | 1.3% | 1.2% | 1.5% |
 | 10:00 | EUR | Low | Industrial Sentiment (Oct) | -8.2 | -10.0 | -10.1 |
 | 10:00 | EUR | Moderate | Unemployment Rate (Sep) | 6.3% | 6.3% | 6.3% |
-| 2 min | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 2.23% |
-| 2 min | EUR | Low | Italian 5-Year BTP Auction |  |  | 2.94% |
-| 52 min | USD | Moderate | New Home Sales (MoM) (Sep) |  |  | 20.5% |
-| 52 min | USD | High | New Home Sales (Sep) |  | 710K | 800K |
-| 52 min | EUR | Low | Italian Industrial Sales (MoM) (Aug) |  |  | 0.40% |
-| 52 min | EUR | Low | Italian Industrial Sales (YoY) (Aug) |  |  | 1.20% |
-| 52 min | BRL | Low | IGP-M Inflation Index (MoM) (Oct) |  | -0.23% | 0.42% |
-| 12:00 | MXN | Moderate | GDP (QoQ) (Q3) |  | -0.3% | 0.6% |
-| 12:00 | MXN | Moderate | GDP (YoY) (Q3) |  | -0.2% | 0.0% |
-| 12:00 | EUR | Low | Spanish Business Confidence (Oct) |  |  | -5.7 |
+| 10:10 | EUR | Moderate | Italian 10-Year BTP Auction | 3.46% |  | 2.23% |
+| 10:10 | EUR | Low | Italian 5-Year BTP Auction | 2.75% |  | 2.94% |
+| 11:00 | EUR | Low | Italian Industrial Sales (MoM) (Aug) | -0.70% |  | 0.40% |
+| 11:00 | EUR | Low | Italian Industrial Sales (YoY) (Aug) | -0.10% |  | 1.20% |
+| 11:00 | BRL | Low | IGP-M Inflation Index (MoM) (Oct) | -0.36% | -0.23% | 0.42% |
+| 54 min | MXN | Moderate | GDP (QoQ) (Q3) |  | -0.3% | 0.6% |
+| 54 min | MXN | Moderate | GDP (YoY) (Q3) |  | -0.2% | 0.0% |
+| 54 min | EUR | Low | Spanish Business Confidence (Oct) |  |  | -5.7 |
 | 12:30 | USD | Moderate | Core PCE Prices (Q3) |  |  | 2.60% |
 | 12:30 | USD | High | GDP (QoQ) (Q3) |  | 3.0% | 3.8% |
 | 12:30 | USD | Moderate | GDP Price Index (QoQ) (Q3) |  | 2.9% | 2.1% |

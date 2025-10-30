@@ -8,7 +8,7 @@
 | 06:30 | EUR | French GDP (YoY) (Q3) | 0.9% | 0.6% | 0.7% |
 | 06:30 | EUR | French GDP (QoQ) (Q3) | 0.5% | 0.2% | 0.3% |
 | 06:30 | JPY | BoJ Press Conference |  |  |  |
-| 07:55 | EUR | German Unemployment Change (Sep) | -1K | 8K | 14K |
+| 07:55 | EUR | German Unemployment Change (Sep) | -1K | 8K | 13K |
 | 08:00 | CHF | KOF Leading Indicators (Oct) | 101.3 | 98.4 | 98.0 |
 | 08:00 | EUR | Spanish CPI (YoY) (Oct) | 3.1% | 2.9% | 3.0% |
 | 08:00 | EUR | Spanish HICP (YoY) (Oct) | 3.2% | 3.0% | 3.0% |
@@ -17,10 +17,9 @@
 | 10:00 | EUR | GDP (QoQ) (Q3) | 0.2% | 0.1% | 0.1% |
 | 10:00 | EUR | GDP (YoY) (Q3) | 1.3% | 1.2% | 1.5% |
 | 10:00 | EUR | Unemployment Rate (Sep) | 6.3% | 6.3% | 6.3% |
-| 2 min | EUR | Italian 10-Year BTP Auction |  |  | 2.23% |
-| 52 min | USD | New Home Sales (MoM) (Sep) |  |  | 20.5% |
-| 12:00 | MXN | GDP (QoQ) (Q3) |  | -0.3% | 0.6% |
-| 12:00 | MXN | GDP (YoY) (Q3) |  | -0.2% | 0.0% |
+| 10:10 | EUR | Italian 10-Year BTP Auction | 3.46% |  | 2.23% |
+| 54 min | MXN | GDP (QoQ) (Q3) |  | -0.3% | 0.6% |
+| 54 min | MXN | GDP (YoY) (Q3) |  | -0.2% | 0.0% |
 | 12:30 | USD | Core PCE Prices (Q3) |  |  | 2.60% |
 | 12:30 | USD | GDP Price Index (QoQ) (Q3) |  | 2.9% | 2.1% |
 | 13:00 | EUR | German CPI (YoY) (Oct) |  | 2.3% | 2.4% |

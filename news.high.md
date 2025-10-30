@@ -4,7 +4,6 @@
 |------|----------|-------|--------|----------|----------|
 | 03:00 | JPY | BoJ Interest Rate Decision | 0.50% | 0.50% | 0.50% |
 | 09:00 | EUR | German GDP (QoQ) (Q3) | 0.0% | 0.0% | -0.3% |
-| 52 min | USD | New Home Sales (Sep) |  | 710K | 800K |
 | 12:30 | USD | GDP (QoQ) (Q3) |  | 3.0% | 3.8% |
 | 13:00 | EUR | German CPI (MoM) (Oct) |  | 0.2% | 0.2% |
 | 13:15 | EUR | Deposit Facility Rate (Oct) |  | 2.00% | 2.00% |
