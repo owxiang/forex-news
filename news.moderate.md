@@ -3,9 +3,9 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
-| 23 min | JPY | BoJ Outlook Report (YoY) |  |  |  |
-| 06:30 | EUR | French Consumer Spending (MoM) (Sep) |  | 0.0% | 0.1% |
+| 03:00 | JPY | BoJ Outlook Report (YoY) |  |  |  |
 | 06:30 | EUR | French Consumer Spending (MoM) |  | 0.0% | 0.1% |
+| 06:30 | EUR | French Consumer Spending (MoM) (Sep) |  | 0.0% | 0.1% |
 | 06:30 | EUR | French GDP (YoY) (Q3) |  | 0.6% | 0.8% |
 | 06:30 | EUR | French GDP (QoQ) (Q3) |  | 0.2% | 0.3% |
 | 06:30 | JPY | BoJ Press Conference |  |  |  |
