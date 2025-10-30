@@ -17,32 +17,32 @@
 | 08:58 | ZAR | Budget Balance (MoM) (Sep) | -15.36B |  | -38.35B |
 | 09:00 | EUR | Italian GDP (YoY) (Q3) | 0.4% | 0.6% | 0.4% |
 | 09:00 | EUR | Italian GDP (QoQ) (Q3) | 0.0% | 0.1% | -0.1% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Oct) |  |  | 2.7% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Oct) |  |  | 0.2% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Oct) | 2.3% |  | 2.7% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Oct) | 0.3% |  | 0.2% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Oct) | 0.3% |  | 0.4% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Oct) | 2.2% |  | 2.4% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Oct) | 0.4% |  | 0.1% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Oct) | 2.6% |  | 2.6% |
 | 09:00 | EUR | Hesse CPI (YoY) (Oct) | 2.4% |  | 2.6% |
 | 09:00 | EUR | Hesse CPI (MoM) (Oct) | 0.3% |  | 0.2% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Oct) | 2.3% |  | 2.3% |
-| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Oct) | 0.2% |  | 0.2% |
+| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Oct) | 2.3% |  | 2.0% |
+| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Oct) | 0.4% |  | 0.2% |
 | 09:00 | EUR | Saxony CPI (YoY) (Oct) | 2.1% |  | 2.2% |
 | 09:00 | EUR | Saxony CPI (MoM) (Oct) | 0.3% |  | 0.2% |
-| 22 min | ZAR | PPI (MoM) (Sep) |  |  | 0.3% |
-| 22 min | ZAR | PPI (YoY) (Sep) |  |  | 2.1% |
-| 52 min | EUR | Italian Monthly Unemployment Rate (Sep) |  | 6.0% | 6.0% |
-| 52 min | EUR | Business and Consumer Survey (Oct) |  | 95.7 | 95.5 |
-| 52 min | EUR | Business Climate (Oct) |  |  | -0.76 |
-| 52 min | EUR | Consumer Confidence (Oct) |  | -14.2 | -14.9 |
-| 52 min | EUR | Consumer Inflation Expectation (Oct) |  |  | 24.0 |
-| 52 min | EUR | Selling Price Expectations (Oct) |  |  | 6.9 |
-| 52 min | EUR | Services Sentiment (Oct) |  | 3.3 | 3.6 |
-| 52 min | EUR | Industrial Sentiment (Oct) |  | -10.0 | -10.3 |
-| 10:10 | EUR | Italian 5-Year BTP Auction |  |  | 2.94% |
-| 11:00 | EUR | Italian Industrial Sales (YoY) (Aug) |  |  | 1.20% |
-| 11:00 | EUR | Italian Industrial Sales (MoM) (Aug) |  |  | 0.40% |
-| 11:00 | BRL | IGP-M Inflation Index (MoM) (Oct) |  | -0.23% | 0.42% |
+| 09:30 | ZAR | PPI (MoM) (Sep) | -0.1% |  | 0.3% |
+| 09:30 | ZAR | PPI (YoY) (Sep) | 2.3% |  | 2.1% |
+| 10:00 | EUR | Italian Monthly Unemployment Rate (Sep) | 6.1% | 6.0% | 6.0% |
+| 10:00 | EUR | Business and Consumer Survey (Oct) | 96.8 | 95.7 | 95.6 |
+| 10:00 | EUR | Business Climate (Oct) | -0.46 |  | -0.76 |
+| 10:00 | EUR | Consumer Confidence (Oct) | -14.2 | -14.2 | -14.9 |
+| 10:00 | EUR | Consumer Inflation Expectation (Oct) | 21.9 |  | 24.0 |
+| 10:00 | EUR | Selling Price Expectations (Oct) | 7.5 |  | 7.1 |
+| 10:00 | EUR | Services Sentiment (Oct) | 4.0 | 3.3 | 3.7 |
+| 10:00 | EUR | Industrial Sentiment (Oct) | -8.2 | -10.0 | -10.1 |
+| 2 min | EUR | Italian 5-Year BTP Auction |  |  | 2.94% |
+| 52 min | EUR | Italian Industrial Sales (MoM) (Aug) |  |  | 0.40% |
+| 52 min | EUR | Italian Industrial Sales (YoY) (Aug) |  |  | 1.20% |
+| 52 min | BRL | IGP-M Inflation Index (MoM) (Oct) |  | -0.23% | 0.42% |
 | 12:00 | EUR | Spanish Business Confidence (Oct) |  |  | -5.7 |
 | 12:30 | USD | GDP Sales (Q3) |  |  | 7.5% |
 | 12:30 | USD | PCE Prices (Q3) |  |  | 2.1% |
