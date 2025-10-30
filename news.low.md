@@ -6,8 +6,8 @@
 | 00:00 | NZD | NBNZ Own Activity (Oct) | 44.6% |  | 43.4% |
 | 00:30 | AUD | Export Price Index (QoQ) (Q3) | -0.9% |  | -4.5% |
 | 00:30 | AUD | Import Price Index (QoQ) (Q3) | -0.4% | -0.3% | -0.8% |
-| 02:30 | JPY | BOJ Gov Ueda Speaks |  |  |  |
-| 02:30 | SGD | Unemployment Rate (Q3) |  |  | 2.0% |
+| 54 min | JPY | BOJ Gov Ueda Speaks |  |  |  |
+| 54 min | SGD | Unemployment Rate (Q3) |  |  | 2.0% |
 | 08:00 | EUR | Core CPI (YoY) (Oct) |  |  | 2.4% |
 | 08:00 | EUR | Spanish CPI (MoM) (Oct) |  |  | -0.3% |
 | 08:00 | EUR | Spanish HICP (MoM) (Oct) |  | 0.3% | 0.2% |
@@ -15,16 +15,16 @@
 | 08:55 | EUR | German Unemployment n.s.a. (Oct) |  |  | 2.955M |
 | 09:00 | EUR | Italian GDP (YoY) (Q3) |  | 0.6% | 0.4% |
 | 09:00 | EUR | Italian GDP (QoQ) (Q3) |  | 0.1% | -0.1% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Oct) |  |  | 0.2% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Oct) |  |  | 2.7% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Oct) |  |  | 0.2% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Oct) |  |  | 2.4% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Oct) |  |  | 0.4% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Oct) |  |  | 0.1% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Oct) |  |  | 2.6% |
 | 09:00 | EUR | Hesse CPI (MoM) (Oct) |  |  | 0.2% |
 | 09:00 | EUR | Hesse CPI (YoY) (Oct) |  |  | 2.6% |
-| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Oct) |  |  | 0.2% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Oct) |  |  | 2.3% |
+| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Oct) |  |  | 0.2% |
 | 09:00 | EUR | Saxony CPI (YoY) (Oct) |  |  | 2.2% |
 | 09:00 | EUR | Saxony CPI (MoM) (Oct) |  |  | 0.2% |
 | 09:30 | ZAR | PPI (YoY) (Sep) |  |  | 2.1% |

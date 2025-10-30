@@ -6,15 +6,15 @@
 | 00:00 | NZD | Low | NBNZ Own Activity (Oct) | 44.6% |  | 43.4% |
 | 00:30 | AUD | Low | Export Price Index (QoQ) (Q3) | -0.9% |  | -4.5% |
 | 00:30 | AUD | Low | Import Price Index (QoQ) (Q3) | -0.4% | -0.3% | -0.8% |
-| 02:30 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
-| 02:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
-| 02:30 | SGD | Low | Unemployment Rate (Q3) |  |  | 2.0% |
+| 54 min | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
+| 54 min | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
+| 54 min | SGD | Low | Unemployment Rate (Q3) |  |  | 2.0% |
 | 03:00 | JPY | Moderate | BoJ Outlook Report (YoY) |  |  |  |
 | 03:00 | JPY | High | BoJ Interest Rate Decision |  | 0.50% | 0.50% |
 | 06:30 | EUR | Moderate | French Consumer Spending (MoM) (Sep) |  | 0.0% | 0.1% |
 | 06:30 | EUR | Moderate | French Consumer Spending (MoM) |  | 0.0% | 0.1% |
-| 06:30 | EUR | Moderate | French GDP (QoQ) (Q3) |  | 0.2% | 0.3% |
 | 06:30 | EUR | Moderate | French GDP (YoY) (Q3) |  | 0.6% | 0.8% |
+| 06:30 | EUR | Moderate | French GDP (QoQ) (Q3) |  | 0.2% | 0.3% |
 | 06:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Oct) |  | 98.4 | 98.0 |
 | 08:00 | EUR | Low | Core CPI (YoY) (Oct) |  |  | 2.4% |
@@ -28,8 +28,8 @@
 | 08:55 | EUR | Low | German Unemployment n.s.a. (Oct) |  |  | 2.955M |
 | 09:00 | EUR | Low | Italian GDP (YoY) (Q3) |  | 0.6% | 0.4% |
 | 09:00 | EUR | Low | Italian GDP (QoQ) (Q3) |  | 0.1% | -0.1% |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Oct) |  |  | 0.2% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Oct) |  |  | 2.7% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Oct) |  |  | 0.2% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Oct) |  |  | 2.4% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Oct) |  |  | 0.4% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Oct) |  |  | 0.1% |
@@ -38,8 +38,8 @@
 | 09:00 | EUR | High | German GDP (QoQ) (Q3) |  | 0.0% | -0.3% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Oct) |  |  | 0.2% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Oct) |  |  | 2.6% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Oct) |  |  | 0.2% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Oct) |  |  | 2.3% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Oct) |  |  | 0.2% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Oct) |  |  | 2.2% |
 | 09:00 | EUR | Low | Saxony CPI (MoM) (Oct) |  |  | 0.2% |
 | 09:30 | ZAR | Low | PPI (YoY) (Sep) |  |  | 2.1% |
@@ -72,8 +72,8 @@
 | 12:30 | USD | Low | PCE Prices (Q3) |  |  | 2.1% |
 | 12:30 | USD | Low | Real Consumer Spending (Q3) |  |  | 2.5% |
 | 12:30 | CAD | Low | Average Weekly Earnings (YoY) (Aug) |  |  | 3.31% |
-| 13:00 | EUR | Moderate | German CPI (YoY) (Oct) |  | 2.3% | 2.4% |
 | 13:00 | EUR | High | German CPI (MoM) (Oct) |  | 0.2% | 0.2% |
+| 13:00 | EUR | Moderate | German CPI (YoY) (Oct) |  | 2.3% | 2.4% |
 | 13:00 | EUR | Low | German HICP (YoY) (Oct) |  | 2.2% | 2.4% |
 | 13:00 | EUR | Low | German HICP (MoM) (Oct) |  | 0.2% | 0.2% |
 | 13:15 | EUR | High | Deposit Facility Rate (Oct) |  | 2.00% | 2.00% |
