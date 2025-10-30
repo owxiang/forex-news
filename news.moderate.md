@@ -24,7 +24,7 @@
 | 13:15 | EUR | ECB Marginal Lending Facility | 2.40% |  | 2.40% |
 | 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
 | 13:55 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 8 min | EUR | ECB President Lagarde Speaks |  |  |  |
 | 20:30 | USD | Fed's Balance Sheet |  |  | 6,590B |
 | 23:30 | JPY | Tokyo Core CPI (YoY) (Oct) |  | 2.6% | 2.5% |
 | 23:50 | JPY | Industrial Production (MoM) (Sep) |  | 1.5% | -1.5% |
