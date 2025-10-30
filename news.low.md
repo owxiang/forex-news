@@ -17,8 +17,8 @@
 | 08:58 | ZAR | Budget Balance (MoM) (Sep) | -15.36B |  | -38.35B |
 | 09:00 | EUR | Italian GDP (YoY) (Q3) | 0.4% | 0.6% | 0.4% |
 | 09:00 | EUR | Italian GDP (QoQ) (Q3) | 0.0% | 0.1% | -0.1% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Oct) | 2.3% |  | 2.7% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Oct) | 0.3% |  | 0.2% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Oct) | 2.3% |  | 2.7% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Oct) | 2.2% |  | 2.4% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Oct) | 0.3% |  | 0.4% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Oct) | 0.4% |  | 0.1% |
@@ -50,13 +50,12 @@
 | 14:30 | USD | Natural Gas Storage | 74B | 71B | 87B |
 | 15:30 | USD | 4-Week Bill Auction | 3.910% |  | 3.945% |
 | 15:30 | USD | 8-Week Bill Auction | 3.890% |  | 3.900% |
-| 13 min | USD | Fed Logan Speaks |  |  |  |
-| 23 min | BRL | CAGED Net Payroll Jobs (Sep) |  | 182.50K | 147.36K |
-| 23 min | BRL | Foreign Exchange Flows |  |  | -2.016B |
-| 19:00 | MXN | Fiscal Balance (Sep) |  |  | -21.03B |
+| 17:20 | USD | Fed Logan Speaks |  |  |  |
+| 17:30 | BRL | CAGED Net Payroll Jobs (Sep) | 213.00K | 182.50K | 147.36K |
+| 51 min | MXN | Fiscal Balance (Sep) | -198.11B |  | -21.03B |
 | 20:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.930T |
-| 23:00 | KRW | Industrial Production (YoY) (Sep) |  | 5.9% | 0.9% |
 | 23:00 | KRW | Industrial Production (MoM) (Sep) |  | 0.1% | 2.4% |
+| 23:00 | KRW | Industrial Production (YoY) (Sep) |  | 5.9% | 0.9% |
 | 23:00 | KRW | Retail Sales (MoM) (Sep) |  |  | -2.4% |
 | 23:00 | KRW | Service Sector Output (MoM) (Sep) |  |  | -0.7% |
 | 23:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Oct) |  |  | 1.0% |
