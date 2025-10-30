@@ -15,18 +15,18 @@
 | 08:55 | EUR | German Unemployment n.s.a. (Oct) |  |  | 2.955M |
 | 09:00 | EUR | Italian GDP (YoY) (Q3) |  | 0.6% | 0.4% |
 | 09:00 | EUR | Italian GDP (QoQ) (Q3) |  | 0.1% | -0.1% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Oct) |  |  | 0.2% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Oct) |  |  | 2.7% |
-| 09:00 | EUR | Bavaria CPI (MoM) (Oct) |  |  | 0.4% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Oct) |  |  | 0.2% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Oct) |  |  | 2.4% |
-| 09:00 | EUR | Brandenburg CPI (YoY) (Oct) |  |  | 2.6% |
+| 09:00 | EUR | Bavaria CPI (MoM) (Oct) |  |  | 0.4% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Oct) |  |  | 0.1% |
-| 09:00 | EUR | Hesse CPI (MoM) (Oct) |  |  | 0.2% |
+| 09:00 | EUR | Brandenburg CPI (YoY) (Oct) |  |  | 2.6% |
 | 09:00 | EUR | Hesse CPI (YoY) (Oct) |  |  | 2.6% |
-| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Oct) |  |  | 0.2% |
+| 09:00 | EUR | Hesse CPI (MoM) (Oct) |  |  | 0.2% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Oct) |  |  | 2.3% |
-| 09:00 | EUR | Saxony CPI (MoM) (Oct) |  |  | 0.2% |
+| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Oct) |  |  | 0.2% |
 | 09:00 | EUR | Saxony CPI (YoY) (Oct) |  |  | 2.2% |
+| 09:00 | EUR | Saxony CPI (MoM) (Oct) |  |  | 0.2% |
 | 09:30 | ZAR | PPI (MoM) (Sep) |  |  | 0.3% |
 | 09:30 | ZAR | PPI (YoY) (Sep) |  |  | 2.1% |
 | 10:00 | EUR | Italian Monthly Unemployment Rate (Sep) |  | 6.0% | 6.0% |
@@ -38,8 +38,8 @@
 | 10:00 | EUR | Services Sentiment (Oct) |  | 3.3 | 3.6 |
 | 10:00 | EUR | Industrial Sentiment (Oct) |  | -10.0 | -10.3 |
 | 10:10 | EUR | Italian 5-Year BTP Auction |  |  | 2.94% |
-| 11:00 | EUR | Italian Industrial Sales (YoY) (Aug) |  |  | 1.20% |
 | 11:00 | EUR | Italian Industrial Sales (MoM) (Aug) |  |  | 0.40% |
+| 11:00 | EUR | Italian Industrial Sales (YoY) (Aug) |  |  | 1.20% |
 | 11:00 | BRL | IGP-M Inflation Index (MoM) (Oct) |  | -0.23% | 0.42% |
 | 12:00 | EUR | Spanish Business Confidence (Oct) |  |  | -5.7 |
 | 12:30 | USD | GDP Sales (Q3) |  |  | 7.5% |
@@ -58,8 +58,8 @@
 | 19:00 | MXN | Fiscal Balance (Sep) |  |  | -21.03B |
 | 20:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.930T |
 | 20:41 | ZAR | Budget Balance (MoM) (Sep) |  |  | -38.35B |
-| 23:00 | KRW | Industrial Production (YoY) (Sep) |  | 5.9% | 0.9% |
 | 23:00 | KRW | Industrial Production (MoM) (Sep) |  | 0.1% | 2.4% |
+| 23:00 | KRW | Industrial Production (YoY) (Sep) |  | 5.9% | 0.9% |
 | 23:00 | KRW | Retail Sales (MoM) (Sep) |  |  | -2.4% |
 | 23:00 | KRW | Service Sector Output (MoM) (Sep) |  |  | -0.7% |
 | 23:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Oct) |  |  | 1.0% |
