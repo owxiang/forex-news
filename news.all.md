@@ -19,8 +19,8 @@
 | 07:55 | EUR | Moderate | German Unemployment Change (Sep) | -1K | 8K | 13K |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Oct) | 101.3 | 98.4 | 98.0 |
 | 08:00 | EUR | Low | Core CPI (YoY) (Oct) | 2.5% |  | 2.4% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Oct) | 0.7% |  | -0.3% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Oct) | 3.1% | 2.9% | 3.0% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Oct) | 0.7% |  | -0.3% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Oct) | 3.2% | 3.0% | 3.0% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Oct) | 0.5% | 0.3% | 0.2% |
 | 08:55 | EUR | Moderate | German Unemployment Rate (Oct) | 6.3% | 6.3% | 6.3% |
@@ -37,8 +37,8 @@
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Oct) | 2.6% |  | 2.6% |
 | 09:00 | EUR | Moderate | German GDP (YoY) (Q3) | 0.3% | 0.3% | 0.2% |
 | 09:00 | EUR | High | German GDP (QoQ) (Q3) | 0.0% | 0.0% | -0.3% |
-| 09:00 | EUR | Low | Hesse CPI (YoY) (Oct) | 2.4% |  | 2.6% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Oct) | 0.3% |  | 0.2% |
+| 09:00 | EUR | Low | Hesse CPI (YoY) (Oct) | 2.4% |  | 2.6% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Oct) | 2.3% |  | 2.0% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Oct) | 0.4% |  | 0.2% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Oct) | 2.1% |  | 2.2% |
@@ -65,8 +65,8 @@
 | 12:00 | MXN | Moderate | GDP (YoY) (Q3) | -0.2% | -0.2% | 0.0% |
 | 12:00 | EUR | Low | Spanish Business Confidence (Oct) | -5.4 |  | -5.6 |
 | 12:30 | CAD | Low | Average Weekly Earnings (YoY) (Aug) | 3.01% |  | 3.22% |
-| 13:00 | EUR | Moderate | German CPI (YoY) (Oct) | 2.3% | 2.3% | 2.4% |
 | 13:00 | EUR | High | German CPI (MoM) (Oct) | 0.3% | 0.2% | 0.2% |
+| 13:00 | EUR | Moderate | German CPI (YoY) (Oct) | 2.3% | 2.3% | 2.4% |
 | 13:00 | EUR | Low | German HICP (MoM) (Oct) | 0.3% | 0.2% | 0.2% |
 | 13:00 | EUR | Low | German HICP (YoY) (Oct) | 2.3% | 2.2% | 2.4% |
 | 13:15 | EUR | High | Deposit Facility Rate (Oct) | 2.00% | 2.00% | 2.00% |
@@ -79,9 +79,9 @@
 | 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 15:30 | USD | Low | 4-Week Bill Auction | 3.910% |  | 3.945% |
 | 15:30 | USD | Low | 8-Week Bill Auction | 3.890% |  | 3.900% |
-| 17:20 | USD | Low | Fed Logan Speaks |  |  |  |
-| 17:30 | BRL | Low | CAGED Net Payroll Jobs (Sep) |  | 182.50K | 147.36K |
-| 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -2.016B |
+| 13 min | USD | Low | Fed Logan Speaks |  |  |  |
+| 23 min | BRL | Low | CAGED Net Payroll Jobs (Sep) |  | 182.50K | 147.36K |
+| 23 min | BRL | Low | Foreign Exchange Flows |  |  | -2.016B |
 | 19:00 | MXN | Low | Fiscal Balance (Sep) |  |  | -21.03B |
 | 20:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,590B |
 | 20:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.930T |
