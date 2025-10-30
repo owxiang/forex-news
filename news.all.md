@@ -12,16 +12,16 @@
 | 02:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
 | 03:00 | JPY | Moderate | BoJ Outlook Report (YoY) |  |  |  |
 | 03:00 | JPY | High | BoJ Interest Rate Decision | 0.50% | 0.50% | 0.50% |
-| 20 min | EUR | Moderate | French Consumer Spending (MoM) (Sep) |  | 0.0% | 0.1% |
-| 20 min | EUR | Moderate | French GDP (YoY) (Q3) |  | 0.6% | 0.8% |
-| 20 min | EUR | Moderate | French GDP (QoQ) (Q3) |  | 0.2% | 0.3% |
-| 20 min | JPY | Moderate | BoJ Press Conference |  |  |  |
-| 08:00 | CHF | Moderate | KOF Leading Indicators (Oct) |  | 98.4 | 98.0 |
-| 08:00 | EUR | Low | Core CPI (YoY) (Oct) |  |  | 2.4% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Oct) |  |  | -0.3% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Oct) |  | 2.9% | 3.0% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Oct) |  | 0.3% | 0.2% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Oct) |  | 3.0% | 3.0% |
+| 06:30 | EUR | Moderate | French Consumer Spending (MoM) (Sep) | 0.3% | 0.0% | 0.2% |
+| 06:30 | EUR | Moderate | French GDP (YoY) (Q3) | 0.9% | 0.6% | 0.7% |
+| 06:30 | EUR | Moderate | French GDP (QoQ) (Q3) | 0.5% | 0.2% | 0.3% |
+| 06:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
+| 52 min | CHF | Moderate | KOF Leading Indicators (Oct) |  | 98.4 | 98.0 |
+| 52 min | EUR | Low | Core CPI (YoY) (Oct) |  |  | 2.4% |
+| 52 min | EUR | Low | Spanish CPI (MoM) (Oct) |  |  | -0.3% |
+| 52 min | EUR | Moderate | Spanish CPI (YoY) (Oct) |  | 2.9% | 3.0% |
+| 52 min | EUR | Low | Spanish HICP (MoM) (Oct) |  | 0.3% | 0.2% |
+| 52 min | EUR | Moderate | Spanish HICP (YoY) (Oct) |  | 3.0% | 3.0% |
 | 08:55 | EUR | Moderate | German Unemployment Change (Oct) |  | 8K | 14K |
 | 08:55 | EUR | Moderate | German Unemployment Rate (Oct) |  | 6.3% | 6.3% |
 | 08:55 | EUR | Low | German Unemployment (Oct) |  |  | 2.976M |
@@ -36,12 +36,12 @@
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Oct) |  |  | 0.1% |
 | 09:00 | EUR | Moderate | German GDP (YoY) (Q3) |  | 0.3% | 0.2% |
 | 09:00 | EUR | High | German GDP (QoQ) (Q3) |  | 0.0% | -0.3% |
-| 09:00 | EUR | Low | Hesse CPI (YoY) (Oct) |  |  | 2.6% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Oct) |  |  | 0.2% |
+| 09:00 | EUR | Low | Hesse CPI (YoY) (Oct) |  |  | 2.6% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Oct) |  |  | 0.2% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Oct) |  |  | 2.3% |
-| 09:00 | EUR | Low | Saxony CPI (YoY) (Oct) |  |  | 2.2% |
 | 09:00 | EUR | Low | Saxony CPI (MoM) (Oct) |  |  | 0.2% |
+| 09:00 | EUR | Low | Saxony CPI (YoY) (Oct) |  |  | 2.2% |
 | 09:30 | ZAR | Low | PPI (MoM) (Sep) |  |  | 0.3% |
 | 09:30 | ZAR | Low | PPI (YoY) (Sep) |  |  | 2.1% |
 | 10:00 | EUR | Low | Italian Monthly Unemployment Rate (Sep) |  | 6.0% | 6.0% |
@@ -57,13 +57,13 @@
 | 10:00 | EUR | Moderate | Unemployment Rate (Sep) |  | 6.3% | 6.3% |
 | 10:10 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 2.23% |
 | 10:10 | EUR | Low | Italian 5-Year BTP Auction |  |  | 2.94% |
-| 11:00 | USD | Moderate | New Home Sales (MoM) (Sep) |  |  | 20.5% |
 | 11:00 | USD | High | New Home Sales (Sep) |  | 710K | 800K |
+| 11:00 | USD | Moderate | New Home Sales (MoM) (Sep) |  |  | 20.5% |
 | 11:00 | EUR | Low | Italian Industrial Sales (YoY) (Aug) |  |  | 1.20% |
 | 11:00 | EUR | Low | Italian Industrial Sales (MoM) (Aug) |  |  | 0.40% |
 | 11:00 | BRL | Low | IGP-M Inflation Index (MoM) (Oct) |  | -0.23% | 0.42% |
-| 12:00 | MXN | Moderate | GDP (YoY) (Q3) |  | -0.2% | 0.0% |
 | 12:00 | MXN | Moderate | GDP (QoQ) (Q3) |  | -0.3% | 0.6% |
+| 12:00 | MXN | Moderate | GDP (YoY) (Q3) |  | -0.2% | 0.0% |
 | 12:00 | EUR | Low | Spanish Business Confidence (Oct) |  |  | -5.7 |
 | 12:30 | USD | Moderate | Core PCE Prices (Q3) |  |  | 2.60% |
 | 12:30 | USD | High | GDP (QoQ) (Q3) |  | 3.0% | 3.8% |
@@ -72,8 +72,8 @@
 | 12:30 | USD | Low | PCE Prices (Q3) |  |  | 2.1% |
 | 12:30 | USD | Low | Real Consumer Spending (Q3) |  |  | 2.5% |
 | 12:30 | CAD | Low | Average Weekly Earnings (YoY) (Aug) |  |  | 3.31% |
-| 13:00 | EUR | High | German CPI (MoM) (Oct) |  | 0.2% | 0.2% |
 | 13:00 | EUR | Moderate | German CPI (YoY) (Oct) |  | 2.3% | 2.4% |
+| 13:00 | EUR | High | German CPI (MoM) (Oct) |  | 0.2% | 0.2% |
 | 13:00 | EUR | Low | German HICP (MoM) (Oct) |  | 0.2% | 0.2% |
 | 13:00 | EUR | Low | German HICP (YoY) (Oct) |  | 2.2% | 2.4% |
 | 13:15 | EUR | High | Deposit Facility Rate (Oct) |  | 2.00% | 2.00% |
