@@ -29,8 +29,8 @@
 | 08:58 | ZAR | Low | Budget Balance (MoM) (Sep) | -15.36B |  | -38.35B |
 | 09:00 | EUR | Low | Italian GDP (YoY) (Q3) | 0.4% | 0.6% | 0.4% |
 | 09:00 | EUR | Low | Italian GDP (QoQ) (Q3) | 0.0% | 0.1% | -0.1% |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Oct) | 2.3% |  | 2.7% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Oct) | 0.3% |  | 0.2% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Oct) | 2.3% |  | 2.7% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Oct) | 2.2% |  | 2.4% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Oct) | 0.3% |  | 0.4% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Oct) | 0.4% |  | 0.1% |
@@ -43,7 +43,7 @@
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Oct) | 0.4% |  | 0.2% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Oct) | 2.1% |  | 2.2% |
 | 09:00 | EUR | Low | Saxony CPI (MoM) (Oct) | 0.3% |  | 0.2% |
-| 09:30 | ZAR | Low | PPI (YoY) (Sep) | 2.3% |  | 2.1% |
+| 09:30 | ZAR | Low | PPI (YoY) (Sep) | 2.3% | 2.6% | 2.1% |
 | 09:30 | ZAR | Low | PPI (MoM) (Sep) | -0.1% |  | 0.3% |
 | 10:00 | EUR | Low | Italian Monthly Unemployment Rate (Sep) | 6.1% | 6.0% | 6.0% |
 | 10:00 | EUR | Low | Business and Consumer Survey (Oct) | 96.8 | 95.7 | 95.6 |
@@ -61,20 +61,20 @@
 | 11:00 | EUR | Low | Italian Industrial Sales (MoM) (Aug) | -0.70% |  | 0.40% |
 | 11:00 | EUR | Low | Italian Industrial Sales (YoY) (Aug) | -0.10% |  | 1.20% |
 | 11:00 | BRL | Low | IGP-M Inflation Index (MoM) (Oct) | -0.36% | -0.23% | 0.42% |
-| 54 min | MXN | Moderate | GDP (QoQ) (Q3) |  | -0.3% | 0.6% |
-| 54 min | MXN | Moderate | GDP (YoY) (Q3) |  | -0.2% | 0.0% |
-| 54 min | EUR | Low | Spanish Business Confidence (Oct) |  |  | -5.7 |
-| 12:30 | USD | Moderate | Core PCE Prices (Q3) |  |  | 2.60% |
-| 12:30 | USD | High | GDP (QoQ) (Q3) |  | 3.0% | 3.8% |
-| 12:30 | USD | Moderate | GDP Price Index (QoQ) (Q3) |  | 2.9% | 2.1% |
-| 12:30 | USD | Low | GDP Sales (Q3) |  |  | 7.5% |
-| 12:30 | USD | Low | PCE Prices (Q3) |  |  | 2.1% |
-| 12:30 | USD | Low | Real Consumer Spending (Q3) |  |  | 2.5% |
-| 12:30 | CAD | Low | Average Weekly Earnings (YoY) (Aug) |  |  | 3.31% |
-| 13:00 | EUR | High | German CPI (MoM) (Oct) |  | 0.2% | 0.2% |
-| 13:00 | EUR | Moderate | German CPI (YoY) (Oct) |  | 2.3% | 2.4% |
-| 13:00 | EUR | Low | German HICP (MoM) (Oct) |  | 0.2% | 0.2% |
-| 13:00 | EUR | Low | German HICP (YoY) (Oct) |  | 2.2% | 2.4% |
+| 12:00 | MXN | Moderate | GDP (QoQ) (Q3) | -0.3% | -0.3% | 0.6% |
+| 12:00 | MXN | Moderate | GDP (YoY) (Q3) | -0.2% | -0.2% | 0.0% |
+| 12:00 | EUR | Low | Spanish Business Confidence (Oct) | -5.4 |  | -5.7 |
+| 18 min | USD | Moderate | Core PCE Prices (Q3) |  |  | 2.60% |
+| 18 min | USD | High | GDP (QoQ) (Q3) |  | 3.0% | 3.8% |
+| 18 min | USD | Moderate | GDP Price Index (QoQ) (Q3) |  | 2.9% | 2.1% |
+| 18 min | USD | Low | GDP Sales (Q3) |  |  | 7.5% |
+| 18 min | USD | Low | PCE Prices (Q3) |  |  | 2.1% |
+| 18 min | USD | Low | Real Consumer Spending (Q3) |  |  | 2.5% |
+| 18 min | CAD | Low | Average Weekly Earnings (YoY) (Aug) |  |  | 3.31% |
+| 48 min | EUR | High | German CPI (MoM) (Oct) |  | 0.2% | 0.2% |
+| 48 min | EUR | Moderate | German CPI (YoY) (Oct) |  | 2.3% | 2.4% |
+| 48 min | EUR | Low | German HICP (YoY) (Oct) |  | 2.2% | 2.4% |
+| 48 min | EUR | Low | German HICP (MoM) (Oct) |  | 0.2% | 0.2% |
 | 13:15 | EUR | High | Deposit Facility Rate (Oct) |  | 2.00% | 2.00% |
 | 13:15 | EUR | Moderate | ECB Marginal Lending Facility |  |  | 2.40% |
 | 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |

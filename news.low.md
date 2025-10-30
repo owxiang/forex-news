@@ -17,8 +17,8 @@
 | 08:58 | ZAR | Budget Balance (MoM) (Sep) | -15.36B |  | -38.35B |
 | 09:00 | EUR | Italian GDP (YoY) (Q3) | 0.4% | 0.6% | 0.4% |
 | 09:00 | EUR | Italian GDP (QoQ) (Q3) | 0.0% | 0.1% | -0.1% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Oct) | 2.3% |  | 2.7% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Oct) | 0.3% |  | 0.2% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Oct) | 2.3% |  | 2.7% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Oct) | 2.2% |  | 2.4% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Oct) | 0.3% |  | 0.4% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Oct) | 0.4% |  | 0.1% |
@@ -29,7 +29,7 @@
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Oct) | 0.4% |  | 0.2% |
 | 09:00 | EUR | Saxony CPI (YoY) (Oct) | 2.1% |  | 2.2% |
 | 09:00 | EUR | Saxony CPI (MoM) (Oct) | 0.3% |  | 0.2% |
-| 09:30 | ZAR | PPI (YoY) (Sep) | 2.3% |  | 2.1% |
+| 09:30 | ZAR | PPI (YoY) (Sep) | 2.3% | 2.6% | 2.1% |
 | 09:30 | ZAR | PPI (MoM) (Sep) | -0.1% |  | 0.3% |
 | 10:00 | EUR | Italian Monthly Unemployment Rate (Sep) | 6.1% | 6.0% | 6.0% |
 | 10:00 | EUR | Business and Consumer Survey (Oct) | 96.8 | 95.7 | 95.6 |
@@ -43,13 +43,13 @@
 | 11:00 | EUR | Italian Industrial Sales (MoM) (Aug) | -0.70% |  | 0.40% |
 | 11:00 | EUR | Italian Industrial Sales (YoY) (Aug) | -0.10% |  | 1.20% |
 | 11:00 | BRL | IGP-M Inflation Index (MoM) (Oct) | -0.36% | -0.23% | 0.42% |
-| 54 min | EUR | Spanish Business Confidence (Oct) |  |  | -5.7 |
-| 12:30 | USD | GDP Sales (Q3) |  |  | 7.5% |
-| 12:30 | USD | PCE Prices (Q3) |  |  | 2.1% |
-| 12:30 | USD | Real Consumer Spending (Q3) |  |  | 2.5% |
-| 12:30 | CAD | Average Weekly Earnings (YoY) (Aug) |  |  | 3.31% |
-| 13:00 | EUR | German HICP (MoM) (Oct) |  | 0.2% | 0.2% |
-| 13:00 | EUR | German HICP (YoY) (Oct) |  | 2.2% | 2.4% |
+| 12:00 | EUR | Spanish Business Confidence (Oct) | -5.4 |  | -5.7 |
+| 18 min | USD | GDP Sales (Q3) |  |  | 7.5% |
+| 18 min | USD | PCE Prices (Q3) |  |  | 2.1% |
+| 18 min | USD | Real Consumer Spending (Q3) |  |  | 2.5% |
+| 18 min | CAD | Average Weekly Earnings (YoY) (Aug) |  |  | 3.31% |
+| 48 min | EUR | German HICP (YoY) (Oct) |  | 2.2% | 2.4% |
+| 48 min | EUR | German HICP (MoM) (Oct) |  | 0.2% | 0.2% |
 | 13:30 | INR | M3 Money Supply |  |  | 9.6% |
 | 14:30 | USD | Natural Gas Storage |  | 71B | 87B |
 | 15:30 | USD | 4-Week Bill Auction |  |  | 3.945% |

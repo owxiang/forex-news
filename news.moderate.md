@@ -18,11 +18,11 @@
 | 10:00 | EUR | GDP (YoY) (Q3) | 1.3% | 1.2% | 1.5% |
 | 10:00 | EUR | Unemployment Rate (Sep) | 6.3% | 6.3% | 6.3% |
 | 10:10 | EUR | Italian 10-Year BTP Auction | 3.46% |  | 2.23% |
-| 54 min | MXN | GDP (QoQ) (Q3) |  | -0.3% | 0.6% |
-| 54 min | MXN | GDP (YoY) (Q3) |  | -0.2% | 0.0% |
-| 12:30 | USD | Core PCE Prices (Q3) |  |  | 2.60% |
-| 12:30 | USD | GDP Price Index (QoQ) (Q3) |  | 2.9% | 2.1% |
-| 13:00 | EUR | German CPI (YoY) (Oct) |  | 2.3% | 2.4% |
+| 12:00 | MXN | GDP (QoQ) (Q3) | -0.3% | -0.3% | 0.6% |
+| 12:00 | MXN | GDP (YoY) (Q3) | -0.2% | -0.2% | 0.0% |
+| 18 min | USD | Core PCE Prices (Q3) |  |  | 2.60% |
+| 18 min | USD | GDP Price Index (QoQ) (Q3) |  | 2.9% | 2.1% |
+| 48 min | EUR | German CPI (YoY) (Oct) |  | 2.3% | 2.4% |
 | 13:15 | EUR | ECB Marginal Lending Facility |  |  | 2.40% |
 | 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
 | 13:55 | USD | FOMC Member Bowman Speaks |  |  |  |
