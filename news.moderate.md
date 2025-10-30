@@ -20,12 +20,10 @@
 | 10:10 | EUR | Italian 10-Year BTP Auction | 3.46% |  | 2.23% |
 | 12:00 | MXN | GDP (QoQ) (Q3) | -0.3% | -0.3% | 0.6% |
 | 12:00 | MXN | GDP (YoY) (Q3) | -0.2% | -0.2% | 0.0% |
-| 18 min | USD | Core PCE Prices (Q3) |  |  | 2.60% |
-| 18 min | USD | GDP Price Index (QoQ) (Q3) |  | 2.9% | 2.1% |
-| 48 min | EUR | German CPI (YoY) (Oct) |  | 2.3% | 2.4% |
-| 13:15 | EUR | ECB Marginal Lending Facility |  |  | 2.40% |
+| 13:00 | EUR | German CPI (YoY) (Oct) | 2.3% | 2.3% | 2.4% |
+| 13:15 | EUR | ECB Marginal Lending Facility | 2.40% |  | 2.40% |
 | 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
-| 13:55 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 40 min | USD | FOMC Member Bowman Speaks |  |  |  |
 | 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 20:30 | USD | Fed's Balance Sheet |  |  | 6,590B |
 | 23:30 | JPY | Tokyo Core CPI (YoY) (Oct) |  | 2.6% | 2.5% |
