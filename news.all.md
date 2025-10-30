@@ -2,6 +2,7 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
+| 00:00 | HKD | Low | Interest Rate Decision | 4.25% |  | 4.50% |
 | 00:00 | NZD | Low | ANZ Business Confidence (Oct) | 58.1 |  | 49.6 |
 | 00:00 | NZD | Low | NBNZ Own Activity (Oct) | 44.6% |  | 43.4% |
 | 00:30 | AUD | Low | Export Price Index (QoQ) (Q3) | -0.9% |  | -4.5% |
@@ -33,20 +34,20 @@
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Oct) |  |  | 0.4% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Oct) |  |  | 0.1% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Oct) |  |  | 2.6% |
-| 09:00 | EUR | High | German GDP (QoQ) (Q3) |  | 0.0% | -0.3% |
 | 09:00 | EUR | Moderate | German GDP (YoY) (Q3) |  | 0.3% | 0.2% |
+| 09:00 | EUR | High | German GDP (QoQ) (Q3) |  | 0.0% | -0.3% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Oct) |  |  | 2.6% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Oct) |  |  | 0.2% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Oct) |  |  | 2.3% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Oct) |  |  | 0.2% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Oct) |  |  | 2.2% |
 | 09:00 | EUR | Low | Saxony CPI (MoM) (Oct) |  |  | 0.2% |
-| 09:30 | ZAR | Low | PPI (MoM) (Sep) |  |  | 0.3% |
 | 09:30 | ZAR | Low | PPI (YoY) (Sep) |  |  | 2.1% |
+| 09:30 | ZAR | Low | PPI (MoM) (Sep) |  |  | 0.3% |
 | 10:00 | EUR | Low | Italian Monthly Unemployment Rate (Sep) |  | 6.0% | 6.0% |
 | 10:00 | EUR | Low | Business and Consumer Survey (Oct) |  | 95.7 | 95.5 |
 | 10:00 | EUR | Low | Business Climate (Oct) |  |  | -0.76 |
-| 10:00 | EUR | Low | Consumer Confidence (Oct) |  | -14.2 | -14.2 |
+| 10:00 | EUR | Low | Consumer Confidence (Oct) |  | -14.2 | -14.9 |
 | 10:00 | EUR | Low | Consumer Inflation Expectation (Oct) |  |  | 24.0 |
 | 10:00 | EUR | Low | Selling Price Expectations (Oct) |  |  | 6.9 |
 | 10:00 | EUR | Low | Services Sentiment (Oct) |  | 3.3 | 3.6 |
@@ -58,8 +59,8 @@
 | 10:10 | EUR | Low | Italian 5-Year BTP Auction |  |  | 2.94% |
 | 11:00 | USD | Moderate | New Home Sales (MoM) (Sep) |  |  | 20.5% |
 | 11:00 | USD | High | New Home Sales (Sep) |  | 710K | 800K |
-| 11:00 | EUR | Low | Italian Industrial Sales (MoM) (Aug) |  |  | 0.40% |
 | 11:00 | EUR | Low | Italian Industrial Sales (YoY) (Aug) |  |  | 1.20% |
+| 11:00 | EUR | Low | Italian Industrial Sales (MoM) (Aug) |  |  | 0.40% |
 | 11:00 | BRL | Low | IGP-M Inflation Index (MoM) (Oct) |  | -0.23% | 0.42% |
 | 12:00 | MXN | Moderate | GDP (QoQ) (Q3) |  | -0.3% | 0.6% |
 | 12:00 | MXN | Moderate | GDP (YoY) (Q3) |  | -0.2% | 0.0% |
@@ -73,8 +74,8 @@
 | 12:30 | CAD | Low | Average Weekly Earnings (YoY) (Aug) |  |  | 3.31% |
 | 13:00 | EUR | High | German CPI (MoM) (Oct) |  | 0.2% | 0.2% |
 | 13:00 | EUR | Moderate | German CPI (YoY) (Oct) |  | 2.3% | 2.4% |
-| 13:00 | EUR | Low | German HICP (MoM) (Oct) |  | 0.2% | 0.2% |
 | 13:00 | EUR | Low | German HICP (YoY) (Oct) |  | 2.2% | 2.4% |
+| 13:00 | EUR | Low | German HICP (MoM) (Oct) |  | 0.2% | 0.2% |
 | 13:15 | EUR | High | Deposit Facility Rate (Oct) |  | 2.00% | 2.00% |
 | 13:15 | EUR | Moderate | ECB Marginal Lending Facility |  |  | 2.40% |
 | 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
@@ -87,7 +88,7 @@
 | 15:30 | USD | Low | 4-Week Bill Auction |  |  | 3.945% |
 | 15:30 | USD | Low | 8-Week Bill Auction |  |  | 3.900% |
 | 17:20 | USD | Low | Fed Logan Speaks |  |  |  |
-| 17:30 | BRL | Low | CAGED Net Payroll Jobs (Sep) |  |  | 147.36K |
+| 17:30 | BRL | Low | CAGED Net Payroll Jobs (Sep) |  | 182.50K | 147.36K |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -2.016B |
 | 19:00 | MXN | Low | Fiscal Balance (Sep) |  |  | -21.03B |
 | 20:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,590B |
@@ -106,6 +107,6 @@
 | 23:50 | JPY | Moderate | Industrial Production (MoM) (Sep) |  | 1.5% | -1.5% |
 | 23:50 | JPY | Low | Industrial Production forecast 1m ahead (MoM) (Oct) |  |  | 4.1% |
 | 23:50 | JPY | Low | Industrial Production forecast 2m ahead (MoM) (Nov) |  |  | 1.2% |
-| 23:50 | JPY | Low | Large Retailers' Sales (MoM) (Sep) |  | 0.7% | -1.1% |
+| 23:50 | JPY | Low | Large Retailers' Sales (MoM) (Sep) |  | 0.8% | -1.1% |
 | 23:50 | JPY | Low | Large Scale Retail Sales YoY (YoY) (Sep) |  |  | 3.0% |
 | 23:50 | JPY | Low | Retail Sales (YoY) (Sep) |  | 0.8% | -0.9% |
