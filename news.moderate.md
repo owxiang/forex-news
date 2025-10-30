@@ -8,12 +8,12 @@
 | 06:30 | EUR | French GDP (YoY) (Q3) | 0.9% | 0.6% | 0.7% |
 | 06:30 | EUR | French GDP (QoQ) (Q3) | 0.5% | 0.2% | 0.3% |
 | 06:30 | JPY | BoJ Press Conference |  |  |  |
-| 52 min | CHF | KOF Leading Indicators (Oct) |  | 98.4 | 98.0 |
-| 52 min | EUR | Spanish CPI (YoY) (Oct) |  | 2.9% | 3.0% |
-| 52 min | EUR | Spanish HICP (YoY) (Oct) |  | 3.0% | 3.0% |
-| 08:55 | EUR | German Unemployment Change (Oct) |  | 8K | 14K |
-| 08:55 | EUR | German Unemployment Rate (Oct) |  | 6.3% | 6.3% |
-| 09:00 | EUR | German GDP (YoY) (Q3) |  | 0.3% | 0.2% |
+| 08:00 | CHF | KOF Leading Indicators (Oct) | 101.3 | 98.4 | 98.0 |
+| 08:00 | EUR | Spanish CPI (YoY) (Oct) | 3.1% | 2.9% | 3.0% |
+| 08:00 | EUR | Spanish HICP (YoY) (Oct) | 3.2% | 3.0% | 3.0% |
+| 46 min | EUR | German Unemployment Change (Oct) |  | 8K | 14K |
+| 46 min | EUR | German Unemployment Rate (Oct) |  | 6.3% | 6.3% |
+| 51 min | EUR | German GDP (YoY) (Q3) |  | 0.3% | 0.2% |
 | 10:00 | EUR | GDP (QoQ) (Q3) |  | 0.1% | 0.1% |
 | 10:00 | EUR | GDP (YoY) (Q3) |  | 1.2% | 1.5% |
 | 10:00 | EUR | Unemployment Rate (Sep) |  | 6.3% | 6.3% |
