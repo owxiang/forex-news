@@ -17,8 +17,8 @@
 | 07:30 | CHF | Retail Sales (YoY) (Sep) | 1.5% | 0.3% | -0.4% |
 | 07:45 | EUR | French CPI (YoY) (Oct) | 1.0% | 1.1% | 1.2% |
 | 07:45 | EUR | French HICP (YoY) (Oct) | 0.9% | 1.0% | 1.1% |
-| 07:45 | EUR | French PPI (MoM) (Sep) | -0.2% |  | -0.2% |
 | 07:45 | EUR | PPI (YoY) (Sep) | 0.10% |  | 0.10% |
+| 07:45 | EUR | French PPI (MoM) (Sep) | -0.2% |  | -0.2% |
 | 08:00 | CHF | Official Reserves Assets (Sep) | 840.6B |  | 818.8B |
 | 08:30 | HKD | GDP (YoY) (Q3) | 3.8% |  | 3.1% |
 | 08:30 | HKD | GDP (QoQ) (Q3) | 0.7% |  | 0.4% |
@@ -45,5 +45,5 @@
 | 11:30 | BRL | Budget Surplus (Sep) | -17.452B |  | -17.255B |
 | 12:00 | ZAR | Trade Balance (Sep) | 21.76B |  | 2.37B |
 | 13:30 | USD | Fed Logan Speaks |  |  |  |
-| 15:00 | CAD | Budget Balance (Aug) | -3.28B |  | -1.51B |
 | 15:00 | CAD | Budget Balance (YoY) (Aug) | -11.07B |  | -7.79B |
+| 15:00 | CAD | Budget Balance (Aug) | -3.28B |  | -1.51B |
