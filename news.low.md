@@ -17,8 +17,8 @@
 | 07:30 | CHF | Retail Sales (YoY) (Sep) | 1.5% | 0.3% | -0.4% |
 | 07:45 | EUR | French CPI (YoY) (Oct) | 1.0% | 1.1% | 1.2% |
 | 07:45 | EUR | French HICP (YoY) (Oct) | 0.9% | 1.0% | 1.1% |
-| 07:45 | EUR | PPI (YoY) (Sep) | 0.10% |  | 0.10% |
 | 07:45 | EUR | French PPI (MoM) (Sep) | -0.2% |  | -0.2% |
+| 07:45 | EUR | PPI (YoY) (Sep) | 0.10% |  | 0.10% |
 | 08:00 | CHF | Official Reserves Assets (Sep) | 840.6B |  | 818.8B |
 | 08:30 | HKD | GDP (YoY) (Q3) | 3.8% |  | 3.1% |
 | 08:30 | HKD | GDP (QoQ) (Q3) | 0.7% |  | 0.4% |
