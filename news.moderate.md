@@ -1,30 +1,23 @@
-## 30 October 2025 - Moderate Impact Forex News
+## 31 October 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
-| 03:00 | JPY | BoJ Outlook Report (YoY) |  |  |  |
-| 06:30 | EUR | French Consumer Spending (MoM) (Sep) | 0.3% | 0.0% | 0.2% |
-| 06:30 | EUR | French GDP (YoY) (Q3) | 0.9% | 0.6% | 0.7% |
-| 06:30 | EUR | French GDP (QoQ) (Q3) | 0.5% | 0.2% | 0.3% |
-| 06:30 | JPY | BoJ Press Conference |  |  |  |
-| 07:55 | EUR | German Unemployment Change (Sep) | -1K | 8K | 13K |
-| 08:00 | CHF | KOF Leading Indicators (Oct) | 101.3 | 98.4 | 98.0 |
-| 08:00 | EUR | Spanish CPI (YoY) (Oct) | 3.1% | 2.9% | 3.0% |
-| 08:00 | EUR | Spanish HICP (YoY) (Oct) | 3.2% | 3.0% | 3.0% |
-| 08:55 | EUR | German Unemployment Rate (Oct) | 6.3% | 6.3% | 6.3% |
-| 09:00 | EUR | German GDP (YoY) (Q3) | 0.3% | 0.3% | 0.2% |
-| 10:00 | EUR | GDP (QoQ) (Q3) | 0.2% | 0.1% | 0.1% |
-| 10:00 | EUR | GDP (YoY) (Q3) | 1.3% | 1.2% | 1.5% |
-| 10:00 | EUR | Unemployment Rate (Sep) | 6.3% | 6.3% | 6.3% |
-| 10:10 | EUR | Italian 10-Year BTP Auction | 3.46% |  | 2.23% |
-| 12:00 | MXN | GDP (QoQ) (Q3) | -0.3% | -0.3% | 0.6% |
-| 12:00 | MXN | GDP (YoY) (Q3) | -0.2% | -0.2% | 0.0% |
-| 13:00 | EUR | German CPI (YoY) (Oct) | 2.3% | 2.3% | 2.4% |
-| 13:15 | EUR | ECB Marginal Lending Facility | 2.40% |  | 2.40% |
-| 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
-| 13:55 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 20:30 | USD | Fed's Balance Sheet | 6,587B |  | 6,590B |
-| 23:30 | JPY | Tokyo Core CPI (YoY) (Oct) |  | 2.6% | 2.5% |
-| 23:50 | JPY | Industrial Production (MoM) (Sep) |  | 1.5% | -1.5% |
+| 00:30 | AUD | PPI (YoY) (Q3) | 3.5% |  | 3.4% |
+| 00:30 | AUD | PPI (QoQ) (Q3) | 1.0% | 0.8% | 0.7% |
+| 01:30 | CNY | Chinese Composite PMI (Oct) |  |  | 50.6 |
+| 01:30 | CNY | Non-Manufacturing PMI (Oct) |  | 50.1 | 50.0 |
+| 07:00 | GBP | Nationwide HPI (MoM) (Oct) |  | 0.0% | 0.5% |
+| 07:00 | GBP | Nationwide HPI (YoY) (Oct) |  | 2.3% | 2.2% |
+| 07:00 | EUR | German Retail Sales (MoM) (Sep) |  | 0.2% | -0.2% |
+| 07:45 | EUR | French CPI (MoM) (Oct) |  | 0.1% | -1.0% |
+| 07:45 | EUR | French HICP (MoM) (Oct) |  | 0.1% | -1.1% |
+| 10:00 | EUR | Core CPI (YoY) (Oct) |  | 2.3% | 2.4% |
+| 10:00 | EUR | CPI (MoM) (Oct) |  |  | 0.1% |
+| 11:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Sep) |  |  | 77.5% |
+| 12:00 | BRL | Unemployment Rate (Sep) |  | 5.6% | 5.6% |
+| 12:30 | CAD | GDP (MoM) (Aug) |  | 0.0% | 0.2% |
+| 12:31 | CAD | GDP (MoM) (Sep) |  |  |  |
+| 15:30 | USD | Atlanta Fed GDPNow (Q4) |  |  |  |
+| 16:00 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 17:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 420 |
+| 17:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 550 |
