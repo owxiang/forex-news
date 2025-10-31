@@ -15,20 +15,20 @@
 | 05:00 | JPY | Low | Construction Orders (YoY) (Sep) | 34.7% |  | 38.9% |
 | 05:00 | JPY | Low | Housing Starts (YoY) (Sep) | -7.3% | -7.8% | -9.8% |
 | 05:00 | SGD | Low | Business Expectations (Q3) | 8.00 |  | 5.00 |
-| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Oct) | 2.4% | 2.3% | 2.2% |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Oct) | 0.3% | 0.0% | 0.5% |
+| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Oct) | 2.4% | 2.3% | 2.2% |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Sep) | 0.2% | -0.2% | -0.5% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Sep) | -1.0% |  | -1.5% |
-| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Sep) | 0.2% | 0.2% | -0.5% |
 | 07:00 | EUR | Low | German Retail Sales (YoY) (Sep) | 0.2% |  | -1.6% |
+| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Sep) | 0.2% | 0.2% | -0.5% |
 | 07:00 | NOK | Low | Unemployment Rate n.s.a. (Oct) | 2.00% | 2.10% | 2.10% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Sep) | 1.5% | 0.3% | -0.4% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Oct) | 0.1% | 0.1% | -1.0% |
 | 07:45 | EUR | Low | French CPI (YoY) (Oct) | 1.0% | 1.1% | 1.2% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Oct) | 0.1% | 0.1% | -1.1% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Oct) | 0.1% | 0.1% | -1.0% |
 | 07:45 | EUR | Low | French HICP (YoY) (Oct) | 0.9% | 1.0% | 1.1% |
-| 07:45 | EUR | Low | PPI (YoY) (Sep) | 0.10% |  | 0.10% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Oct) | 0.1% | 0.1% | -1.1% |
 | 07:45 | EUR | Low | French PPI (MoM) (Sep) | -0.2% |  | -0.2% |
+| 07:45 | EUR | Low | PPI (YoY) (Sep) | 0.10% |  | 0.10% |
 | 08:00 | CHF | Low | Official Reserves Assets (Sep) | 840.6B |  | 818.8B |
 | 08:30 | HKD | Low | GDP (YoY) (Q3) | 3.8% |  | 3.1% |
 | 08:30 | HKD | Low | GDP (QoQ) (Q3) | 0.7% |  | 0.4% |
@@ -43,8 +43,8 @@
 | 10:00 | INR | Low | Federal Fiscal Deficit (Sep) | 5,731.23B |  | 5,981.53B |
 | 10:00 | EUR | Low | Core CPI (MoM) (Oct) | 0.3% |  | 0.1% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Oct) | 2.4% | 2.3% | 2.4% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Oct) | 0.2% |  | 0.1% |
 | 10:00 | EUR | High | CPI (YoY) (Oct) | 2.1% | 2.1% | 2.2% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Oct) | 0.2% |  | 0.1% |
 | 10:00 | EUR | Low | CPI, n.s.a (Oct) | 129.70 |  | 129.43 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Oct) | 2.4% |  | 2.4% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Oct) | 0.2% |  | 0.1% |
@@ -59,12 +59,10 @@
 | 11:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Sep) | 78.1% |  | 77.5% |
 | 12:00 | BRL | Moderate | Unemployment Rate (Sep) | 5.6% | 5.5% | 5.6% |
 | 12:00 | ZAR | Low | Trade Balance (Sep) | 21.76B |  | 2.37B |
-| 18 min | CAD | Low | Average Weekly Earnings (YoY) (Aug) |  |  | 3.31% |
-| 18 min | CAD | Moderate | GDP (MoM) (Aug) |  | 0.0% | 0.2% |
-| 19 min | CAD | Moderate | GDP (MoM) (Sep) |  |  |  |
-| 48 min | ZAR | Low | Budget Balance (MoM) (Sep) |  |  | -38.35B |
-| 13:30 | USD | Low | Fed Logan Speaks |  |  |  |
-| 13:45 | USD | High | Chicago PMI (Oct) |  | 42.3 | 40.6 |
+| 12:30 | CAD | Moderate | GDP (MoM) (Aug) | -0.3% | 0.0% | 0.2% |
+| 12:31 | CAD | Moderate | GDP (MoM) (Sep) | 0.1% |  | -0.3% |
+| 16 min | USD | Low | Fed Logan Speaks |  |  |  |
+| 31 min | USD | High | Chicago PMI (Oct) |  | 42.3 | 40.6 |
 | 15:00 | CAD | Low | Budget Balance (Aug) |  |  | -1.51B |
 | 15:00 | CAD | Low | Budget Balance (YoY) (Aug) |  |  | -7.79B |
 | 16:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
