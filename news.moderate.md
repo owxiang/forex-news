@@ -17,6 +17,6 @@
 | 12:00 | BRL | Unemployment Rate (Sep) | 5.6% | 5.5% | 5.6% |
 | 12:30 | CAD | GDP (MoM) (Aug) | -0.3% | 0.0% | 0.2% |
 | 12:31 | CAD | GDP (MoM) (Sep) | 0.1% |  | -0.3% |
-| 16:00 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 53 min | USD | FOMC Member Bostic Speaks |  |  |  |
 | 17:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 420 |
 | 17:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 550 |
