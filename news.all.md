@@ -15,21 +15,21 @@
 | 05:00 | JPY | Low | Construction Orders (YoY) (Sep) | 34.7% |  | 38.9% |
 | 05:00 | JPY | Low | Housing Starts (YoY) (Sep) | -7.3% | -7.8% | -9.8% |
 | 05:00 | SGD | Low | Business Expectations (Q3) | 8.00 |  | 5.00 |
-| 50 min | GBP | Moderate | Nationwide HPI (YoY) (Oct) |  | 2.3% | 2.2% |
-| 50 min | GBP | Moderate | Nationwide HPI (MoM) (Oct) |  | 0.0% | 0.5% |
-| 50 min | EUR | Low | German Import Price Index (MoM) (Sep) |  | -0.2% | -0.5% |
-| 50 min | EUR | Low | German Import Price Index (YoY) (Sep) |  |  | -1.5% |
-| 50 min | EUR | Low | German Retail Sales (YoY) (Sep) |  |  | 1.8% |
-| 50 min | EUR | Moderate | German Retail Sales (MoM) (Sep) |  | 0.2% | -0.2% |
-| 50 min | NOK | Low | Unemployment Rate n.s.a. (Oct) |  | 2.10% | 2.10% |
-| 07:30 | CHF | Low | Retail Sales (YoY) (Sep) |  | 0.3% | -0.2% |
-| 07:45 | EUR | Low | French CPI (YoY) (Oct) |  | 1.1% | 1.2% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Oct) |  | 0.1% | -1.0% |
-| 07:45 | EUR | Low | French HICP (YoY) (Oct) |  | 1.0% | 1.1% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Oct) |  | 0.1% | -1.1% |
-| 07:45 | EUR | Low | PPI (YoY) (Sep) |  |  | 0.10% |
-| 07:45 | EUR | Low | French PPI (MoM) (Sep) |  |  | -0.2% |
-| 08:00 | CHF | Low | Official Reserves Assets (Sep) |  |  | 818.8B |
+| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Oct) | 2.4% | 2.3% | 2.2% |
+| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Oct) | 0.3% | 0.0% | 0.5% |
+| 07:00 | EUR | Low | German Import Price Index (MoM) (Sep) | 0.2% | -0.2% | -0.5% |
+| 07:00 | EUR | Low | German Import Price Index (YoY) (Sep) | -1.0% |  | -1.5% |
+| 07:00 | EUR | Low | German Retail Sales (YoY) (Sep) | 0.2% |  | 1.4% |
+| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Sep) | 0.2% | 0.2% | -0.5% |
+| 07:00 | NOK | Low | Unemployment Rate n.s.a. (Oct) | 2.00% | 2.10% | 2.10% |
+| 23 min | CHF | Low | Retail Sales (YoY) (Sep) |  | 0.3% | -0.2% |
+| 38 min | EUR | Low | French CPI (YoY) (Oct) |  | 1.1% | 1.2% |
+| 38 min | EUR | Moderate | French CPI (MoM) (Oct) |  | 0.1% | -1.0% |
+| 38 min | EUR | Moderate | French HICP (MoM) (Oct) |  | 0.1% | -1.1% |
+| 38 min | EUR | Low | French HICP (YoY) (Oct) |  | 1.0% | 1.1% |
+| 38 min | EUR | Low | French PPI (MoM) (Sep) |  |  | -0.2% |
+| 38 min | EUR | Low | PPI (YoY) (Sep) |  |  | 0.10% |
+| 53 min | CHF | Low | Official Reserves Assets (Sep) |  |  | 818.8B |
 | 08:30 | HKD | Low | GDP (YoY) (Q3) |  |  | 3.1% |
 | 08:30 | HKD | Low | GDP (QoQ) (Q3) |  |  | 0.4% |
 | 08:30 | HKD | Low | M3 Money Supply (Sep) |  |  | 4.0% |
@@ -39,15 +39,15 @@
 | 09:00 | EUR | Low | Spanish Current account (Aug) |  |  | 6.27B |
 | 09:00 | NOK | Low | Central Bank Currency Purchase (Nov) |  |  | -150.0M |
 | 09:30 | ZAR | Low | Budget Balance (MoM) (Sep) |  |  | -38.35B |
-| 10:00 | EUR | Low | Italian CPI (YoY) (Oct) |  | 1.6% | 1.6% |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Oct) |  | 0.0% | -0.2% |
+| 10:00 | EUR | Low | Italian CPI (YoY) (Oct) |  | 1.6% | 1.6% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Oct) |  |  | 1.3% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Oct) |  | 1.7% | 1.8% |
 | 10:00 | INR | Low | Federal Fiscal Deficit (Sep) |  |  | 5,981.53B |
 | 10:00 | EUR | Low | Core CPI (MoM) (Oct) |  |  | 0.1% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Oct) |  | 2.3% | 2.4% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Oct) |  |  | 0.1% |
 | 10:00 | EUR | High | CPI (YoY) (Oct) |  | 2.1% | 2.2% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Oct) |  |  | 0.1% |
 | 10:00 | EUR | Low | CPI, n.s.a (Oct) |  |  | 129.43 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Oct) |  |  | 2.4% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Oct) |  |  | 0.1% |
