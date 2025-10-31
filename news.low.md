@@ -7,9 +7,9 @@
 | 02:00 | SGD | Bank Lending (Sep) | 863.8B |  | 851.7B |
 | 02:00 | NZD | M3 Money Supply (Sep) | 440.2B |  | 436.6B |
 | 03:35 | JPY | 2-Year JGB Auction | 0.932% |  | 0.949% |
-| 51 min | JPY | Construction Orders (YoY) (Sep) |  |  | 38.9% |
-| 51 min | JPY | Housing Starts (YoY) (Sep) |  | -7.8% | -9.8% |
-| 51 min | SGD | Business Expectations (Q3) |  |  | 5.00 |
+| 05:00 | JPY | Construction Orders (YoY) (Sep) | 34.7% |  | 38.9% |
+| 05:00 | JPY | Housing Starts (YoY) (Sep) | -7.3% | -7.8% | -9.8% |
+| 05:00 | SGD | Business Expectations (Q3) | 8.00 |  | 5.00 |
 | 07:00 | EUR | German Import Price Index (MoM) (Sep) |  | -0.2% | -0.5% |
 | 07:00 | EUR | German Import Price Index (YoY) (Sep) |  |  | -1.5% |
 | 07:00 | EUR | German Retail Sales (YoY) (Sep) |  |  | 1.8% |
@@ -24,8 +24,8 @@
 | 08:30 | HKD | GDP (QoQ) (Q3) |  |  | 0.4% |
 | 08:30 | HKD | M3 Money Supply (Sep) |  |  | 4.0% |
 | 08:30 | HKD | Retail Sales (YoY) (Sep) |  |  | 3.8% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Oct) |  |  | 0.2% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Oct) |  |  | 2.7% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Oct) |  |  | 0.2% |
 | 09:00 | EUR | Spanish Current account (Aug) |  |  | 6.27B |
 | 09:00 | NOK | Central Bank Currency Purchase (Nov) |  |  | -150.0M |
 | 09:30 | ZAR | Budget Balance (MoM) (Sep) |  |  | -38.35B |
@@ -50,6 +50,6 @@
 | 13:00 | USD | Dallas Fed PCE (Sep) |  |  | 2.80% |
 | 13:30 | USD | Fed Logan Speaks |  |  |  |
 | 13:30 | INR | M3 Money Supply |  |  | 9.6% |
-| 15:00 | CAD | Budget Balance (Aug) |  |  | -1.51B |
 | 15:00 | CAD | Budget Balance (YoY) (Aug) |  |  | -7.79B |
+| 15:00 | CAD | Budget Balance (Aug) |  |  | -1.51B |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | -2.016B |
