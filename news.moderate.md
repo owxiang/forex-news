@@ -13,8 +13,8 @@
 | 07:45 | EUR | French HICP (MoM) (Oct) | 0.1% | 0.1% | -1.1% |
 | 10:00 | EUR | Core CPI (YoY) (Oct) | 2.4% | 2.3% | 2.4% |
 | 10:00 | EUR | CPI (MoM) (Oct) | 0.2% |  | 0.1% |
-| 11:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Sep) |  |  | 77.5% |
-| 12:00 | BRL | Unemployment Rate (Sep) |  | 5.6% | 5.6% |
+| 24 min | BRL | Gross Debt-to-GDP ratio (MoM) (Sep) |  |  | 77.5% |
+| 54 min | BRL | Unemployment Rate (Sep) |  | 5.6% | 5.6% |
 | 12:30 | CAD | GDP (MoM) (Aug) |  | 0.0% | 0.2% |
 | 12:31 | CAD | GDP (MoM) (Sep) |  |  |  |
 | 16:00 | USD | FOMC Member Bostic Speaks |  |  |  |
