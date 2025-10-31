@@ -12,27 +12,27 @@
 | 05:00 | SGD | Business Expectations (Q3) | 8.00 |  | 5.00 |
 | 07:00 | EUR | German Import Price Index (MoM) (Sep) | 0.2% | -0.2% | -0.5% |
 | 07:00 | EUR | German Import Price Index (YoY) (Sep) | -1.0% |  | -1.5% |
-| 07:00 | EUR | German Retail Sales (YoY) (Sep) | 0.2% |  | 1.4% |
+| 07:00 | EUR | German Retail Sales (YoY) (Sep) | 0.2% |  | -1.6% |
 | 07:00 | NOK | Unemployment Rate n.s.a. (Oct) | 2.00% | 2.10% | 2.10% |
-| 23 min | CHF | Retail Sales (YoY) (Sep) |  | 0.3% | -0.2% |
-| 38 min | EUR | French CPI (YoY) (Oct) |  | 1.1% | 1.2% |
-| 38 min | EUR | French HICP (YoY) (Oct) |  | 1.0% | 1.1% |
-| 38 min | EUR | French PPI (MoM) (Sep) |  |  | -0.2% |
-| 38 min | EUR | PPI (YoY) (Sep) |  |  | 0.10% |
-| 53 min | CHF | Official Reserves Assets (Sep) |  |  | 818.8B |
-| 08:30 | HKD | GDP (YoY) (Q3) |  |  | 3.1% |
-| 08:30 | HKD | GDP (QoQ) (Q3) |  |  | 0.4% |
-| 08:30 | HKD | M3 Money Supply (Sep) |  |  | 4.0% |
-| 08:30 | HKD | Retail Sales (YoY) (Sep) |  |  | 3.8% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Oct) |  |  | 0.2% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Oct) |  |  | 2.7% |
-| 09:00 | EUR | Spanish Current account (Aug) |  |  | 6.27B |
-| 09:00 | NOK | Central Bank Currency Purchase (Nov) |  |  | -150.0M |
+| 07:30 | CHF | Retail Sales (YoY) (Sep) | 1.5% | 0.3% | -0.4% |
+| 07:45 | EUR | French CPI (YoY) (Oct) | 1.0% | 1.1% | 1.2% |
+| 07:45 | EUR | French HICP (YoY) (Oct) | 0.9% | 1.0% | 1.1% |
+| 07:45 | EUR | PPI (YoY) (Sep) | 0.50% |  | 0.10% |
+| 07:45 | EUR | French PPI (MoM) (Sep) | -0.2% |  | -0.2% |
+| 08:00 | CHF | Official Reserves Assets (Sep) | 840.6B |  | 818.8B |
+| 21 min | HKD | GDP (YoY) (Q3) |  |  | 3.1% |
+| 21 min | HKD | GDP (QoQ) (Q3) |  |  | 0.4% |
+| 21 min | HKD | M3 Money Supply (Sep) |  |  | 4.0% |
+| 21 min | HKD | Retail Sales (YoY) (Sep) |  |  | 3.8% |
+| 51 min | EUR | Baden Wuerttemberg CPI (YoY) (Oct) |  |  | 2.7% |
+| 51 min | EUR | Baden Wuerttemberg CPI (MoM) (Oct) |  |  | 0.2% |
+| 51 min | EUR | Spanish Current account (Aug) |  |  | 6.27B |
+| 51 min | NOK | Central Bank Currency Purchase (Nov) |  |  | -150.0M |
 | 09:30 | ZAR | Budget Balance (MoM) (Sep) |  |  | -38.35B |
-| 10:00 | EUR | Italian CPI (MoM) (Oct) |  | 0.0% | -0.2% |
 | 10:00 | EUR | Italian CPI (YoY) (Oct) |  | 1.6% | 1.6% |
-| 10:00 | EUR | Italian HICP (MoM) (Oct) |  |  | 1.3% |
+| 10:00 | EUR | Italian CPI (MoM) (Oct) |  | 0.0% | -0.2% |
 | 10:00 | EUR | Italian HICP (YoY) (Oct) |  | 1.7% | 1.8% |
+| 10:00 | EUR | Italian HICP (MoM) (Oct) |  |  | 1.3% |
 | 10:00 | INR | Federal Fiscal Deficit (Sep) |  |  | 5,981.53B |
 | 10:00 | EUR | Core CPI (MoM) (Oct) |  |  | 0.1% |
 | 10:00 | EUR | CPI, n.s.a (Oct) |  |  | 129.43 |
@@ -47,7 +47,6 @@
 | 11:30 | BRL | Budget Surplus (Sep) |  |  | -17.255B |
 | 12:00 | ZAR | Trade Balance (Sep) |  |  | 3.97B |
 | 12:30 | CAD | Average Weekly Earnings (YoY) (Aug) |  |  | 3.31% |
-| 13:00 | USD | Dallas Fed PCE (Sep) |  |  | 2.80% |
 | 13:30 | USD | Fed Logan Speaks |  |  |  |
 | 13:30 | INR | M3 Money Supply |  |  | 9.6% |
 | 15:00 | CAD | Budget Balance (Aug) |  |  | -1.51B |
