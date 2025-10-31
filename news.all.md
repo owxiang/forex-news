@@ -2,21 +2,21 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | AUD | Low | Housing Credit (Sep) |  | 0.6% | 0.6% |
+| 00:30 | AUD | Low | Housing Credit (Sep) | 0.6% | 0.6% | 0.6% |
 | 00:30 | AUD | Moderate | PPI (YoY) (Q3) | 3.5% |  | 3.4% |
 | 00:30 | AUD | Moderate | PPI (QoQ) (Q3) | 1.0% | 0.8% | 0.7% |
-| 00:30 | AUD | Low | Private Sector Credit (MoM) (Sep) |  | 0.5% | 0.6% |
-| 01:30 | CNY | Moderate | Chinese Composite PMI (Oct) |  |  | 50.6 |
-| 01:30 | CNY | High | Manufacturing PMI (Oct) |  | 49.6 | 49.8 |
-| 01:30 | CNY | Moderate | Non-Manufacturing PMI (Oct) |  | 50.1 | 50.0 |
-| 02:00 | SGD | Low | Bank Lending (Sep) |  |  | 851.7B |
-| 02:00 | NZD | Low | M3 Money Supply (Sep) |  |  | 436.6B |
+| 00:30 | AUD | Low | Private Sector Credit (MoM) (Sep) | 0.6% | 0.6% | 0.6% |
+| 01:30 | CNY | Moderate | Chinese Composite PMI (Oct) | 50.0 |  | 50.6 |
+| 01:30 | CNY | High | Manufacturing PMI (Oct) | 49.0 | 49.6 | 49.8 |
+| 01:30 | CNY | Moderate | Non-Manufacturing PMI (Oct) | 50.1 | 50.1 | 50.0 |
+| 25 min | SGD | Low | Bank Lending (Sep) |  |  | 851.7B |
+| 25 min | NZD | Low | M3 Money Supply (Sep) |  |  | 436.6B |
 | 03:35 | JPY | Low | 2-Year JGB Auction |  |  | 0.949% |
 | 05:00 | JPY | Low | Construction Orders (YoY) (Sep) |  |  | 38.9% |
 | 05:00 | JPY | Low | Housing Starts (YoY) (Sep) |  | -7.8% | -9.8% |
 | 05:00 | SGD | Low | Business Expectations (Q3) |  |  | 5.00 |
-| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Oct) |  | 0.0% | 0.5% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Oct) |  | 2.3% | 2.2% |
+| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Oct) |  | 0.0% | 0.5% |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Sep) |  | -0.2% | -0.5% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Sep) |  |  | -1.5% |
 | 07:00 | EUR | Low | German Retail Sales (YoY) (Sep) |  |  | 1.8% |
@@ -27,8 +27,8 @@
 | 07:45 | EUR | Moderate | French CPI (MoM) (Oct) |  | 0.1% | -1.0% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Oct) |  | 0.1% | -1.1% |
 | 07:45 | EUR | Low | French HICP (YoY) (Oct) |  | 1.0% | 1.1% |
-| 07:45 | EUR | Low | French PPI (MoM) (Sep) |  |  | -0.2% |
 | 07:45 | EUR | Low | PPI (YoY) (Sep) |  |  | 0.10% |
+| 07:45 | EUR | Low | French PPI (MoM) (Sep) |  |  | -0.2% |
 | 08:00 | CHF | Low | Official Reserves Assets (Sep) |  |  | 818.8B |
 | 08:30 | HKD | Low | GDP (YoY) (Q3) |  |  | 3.1% |
 | 08:30 | HKD | Low | GDP (QoQ) (Q3) |  |  | 0.4% |
@@ -39,10 +39,10 @@
 | 09:00 | EUR | Low | Spanish Current account (Aug) |  |  | 6.27B |
 | 09:00 | NOK | Low | Central Bank Currency Purchase (Nov) |  |  | -150.0M |
 | 09:30 | ZAR | Low | Budget Balance (MoM) (Sep) |  |  | -38.35B |
-| 10:00 | EUR | Low | Italian CPI (MoM) (Oct) |  | 0.0% | -0.2% |
 | 10:00 | EUR | Low | Italian CPI (YoY) (Oct) |  | 1.6% | 1.6% |
-| 10:00 | EUR | Low | Italian HICP (MoM) (Oct) |  |  | 1.3% |
+| 10:00 | EUR | Low | Italian CPI (MoM) (Oct) |  | 0.0% | -0.2% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Oct) |  | 1.7% | 1.8% |
+| 10:00 | EUR | Low | Italian HICP (MoM) (Oct) |  |  | 1.3% |
 | 10:00 | INR | Low | Federal Fiscal Deficit (Sep) |  |  | 5,981.53B |
 | 10:00 | EUR | Low | Core CPI (MoM) (Oct) |  |  | 0.1% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Oct) |  | 2.3% | 2.4% |
