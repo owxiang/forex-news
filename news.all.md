@@ -9,9 +9,9 @@
 | 01:30 | CNY | Moderate | Chinese Composite PMI (Oct) | 50.0 |  | 50.6 |
 | 01:30 | CNY | High | Manufacturing PMI (Oct) | 49.0 | 49.6 | 49.8 |
 | 01:30 | CNY | Moderate | Non-Manufacturing PMI (Oct) | 50.1 | 50.1 | 50.0 |
-| 25 min | SGD | Low | Bank Lending (Sep) |  |  | 851.7B |
-| 25 min | NZD | Low | M3 Money Supply (Sep) |  |  | 436.6B |
-| 03:35 | JPY | Low | 2-Year JGB Auction |  |  | 0.949% |
+| 02:00 | SGD | Low | Bank Lending (Sep) | 863.8B |  | 851.7B |
+| 02:00 | NZD | Low | M3 Money Supply (Sep) | 440.2B |  | 436.6B |
+| 58 min | JPY | Low | 2-Year JGB Auction |  |  | 0.949% |
 | 05:00 | JPY | Low | Construction Orders (YoY) (Sep) |  |  | 38.9% |
 | 05:00 | JPY | Low | Housing Starts (YoY) (Sep) |  | -7.8% | -9.8% |
 | 05:00 | SGD | Low | Business Expectations (Q3) |  |  | 5.00 |
@@ -41,8 +41,8 @@
 | 09:30 | ZAR | Low | Budget Balance (MoM) (Sep) |  |  | -38.35B |
 | 10:00 | EUR | Low | Italian CPI (YoY) (Oct) |  | 1.6% | 1.6% |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Oct) |  | 0.0% | -0.2% |
-| 10:00 | EUR | Low | Italian HICP (YoY) (Oct) |  | 1.7% | 1.8% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Oct) |  |  | 1.3% |
+| 10:00 | EUR | Low | Italian HICP (YoY) (Oct) |  | 1.7% | 1.8% |
 | 10:00 | INR | Low | Federal Fiscal Deficit (Sep) |  |  | 5,981.53B |
 | 10:00 | EUR | Low | Core CPI (MoM) (Oct) |  |  | 0.1% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Oct) |  | 2.3% | 2.4% |
