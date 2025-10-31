@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | PPI (QoQ) (Q3) | 1.0% | 0.8% | 0.7% |
 | 00:30 | AUD | PPI (YoY) (Q3) | 3.5% |  | 3.4% |
+| 00:30 | AUD | PPI (QoQ) (Q3) | 1.0% | 0.8% | 0.7% |
 | 01:30 | CNY | Chinese Composite PMI (Oct) | 50.0 |  | 50.6 |
 | 01:30 | CNY | Non-Manufacturing PMI (Oct) | 50.1 | 50.1 | 50.0 |
 | 07:00 | GBP | Nationwide HPI (YoY) (Oct) | 2.4% | 2.3% | 2.2% |
@@ -17,6 +17,6 @@
 | 12:00 | BRL | Unemployment Rate (Sep) | 5.6% | 5.5% | 5.6% |
 | 12:30 | CAD | GDP (MoM) (Aug) | -0.3% | 0.0% | 0.2% |
 | 12:31 | CAD | GDP (MoM) (Sep) | 0.1% |  | -0.3% |
-| 53 min | USD | FOMC Member Bostic Speaks |  |  |  |
-| 17:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 420 |
-| 17:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 550 |
+| 16:00 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 52 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 420 |
+| 52 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 550 |
