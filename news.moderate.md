@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | PPI (QoQ) (Q3) | 1.0% | 0.8% | 0.7% |
 | 00:30 | AUD | PPI (YoY) (Q3) | 3.5% |  | 3.4% |
+| 00:30 | AUD | PPI (QoQ) (Q3) | 1.0% | 0.8% | 0.7% |
 | 01:30 | CNY | Chinese Composite PMI (Oct) | 50.0 |  | 50.6 |
 | 01:30 | CNY | Non-Manufacturing PMI (Oct) | 50.1 | 50.1 | 50.0 |
 | 07:00 | GBP | Nationwide HPI (YoY) (Oct) | 2.4% | 2.3% | 2.2% |
@@ -11,8 +11,8 @@
 | 07:00 | EUR | German Retail Sales (MoM) (Sep) | 0.2% | 0.2% | -0.5% |
 | 07:45 | EUR | French CPI (MoM) (Oct) | 0.1% | 0.1% | -1.0% |
 | 07:45 | EUR | French HICP (MoM) (Oct) | 0.1% | 0.1% | -1.1% |
-| 10:00 | EUR | Core CPI (YoY) (Oct) |  | 2.3% | 2.4% |
-| 10:00 | EUR | CPI (MoM) (Oct) |  |  | 0.1% |
+| 52 min | EUR | Core CPI (YoY) (Oct) |  | 2.3% | 2.4% |
+| 52 min | EUR | CPI (MoM) (Oct) |  |  | 0.1% |
 | 11:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Sep) |  |  | 77.5% |
 | 12:00 | BRL | Unemployment Rate (Sep) |  | 5.6% | 5.6% |
 | 12:30 | CAD | GDP (MoM) (Aug) |  | 0.0% | 0.2% |
