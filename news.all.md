@@ -1,7 +1,7 @@
-## 01 November 2025 - All Forex News
+## 02 November 2025 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | Exports (YoY) (Oct) | 3.6% |  | 12.6% |
-| 00:00 | KRW | Low | Imports (YoY) (Oct) | -1.5% | -1.4% | 8.2% |
-| 00:00 | KRW | Low | Trade Balance (Oct) | 6.06B | 2.98B | 9.53B |
+| 09:00 | NOK | Low | Manufacturing PMI (Oct) |  |  | 49.9 |
+| 21:45 | NZD | Low | Building Consents (MoM) (Sep) |  |  | 5.8% |
+| 22:00 | AUD | Low | Judo Bank Manufacturing PMI (Oct) |  |  | 49.7 |
