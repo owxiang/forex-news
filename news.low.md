@@ -2,5 +2,5 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 21:45 | NZD | Building Consents (MoM) (Sep) |  |  | 5.8% |
-| 22:00 | AUD | Judo Bank Manufacturing PMI (Oct) |  |  | 49.7 |
+| 39 min | NZD | Building Consents (MoM) (Sep) |  |  | 5.8% |
+| 54 min | AUD | Judo Bank Manufacturing PMI (Oct) |  |  | 49.7 |
