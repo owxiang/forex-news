@@ -13,7 +13,7 @@
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Oct) | 50.0 | 50.0 | 50.0 |
 | 09:30 | GBP | S&P Global Manufacturing PMI (Oct) | 49.7 | 49.6 | 49.7 |
 | 12:00 | EUR | ECB's Lane Speaks |  |  |  |
-| 53 min | USD | ISM Manufacturing Employment (Oct) |  |  | 45.3 |
+| 15:00 | USD | ISM Manufacturing Employment (Oct) | 46.0 |  | 45.3 |
 | 17:00 | USD | FOMC Member Daly Speaks |  |  |  |
 | 17:20 | EUR | German Buba Balz Speaks |  |  |  |
 | 18:30 | CAD | BoC Gov Macklem Speaks |  |  |  |

@@ -29,10 +29,9 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 2.059% |  | 2.053% |
 | 14:00 | EUR | French 3-Month BTF Auction | 2.010% |  | 2.011% |
 | 14:00 | EUR | French 6-Month BTF Auction | 2.029% |  | 2.015% |
-| 23 min | CAD | S&P Global Manufacturing PMI (Oct) |  | 48.2 | 47.7 |
-| 53 min | USD | ISM Manufacturing New Orders Index (Oct) |  |  | 48.9 |
-| 53 min | USD | Total Vehicle Sales (Oct) |  | 15.60M | 16.40M |
-| 53 min | MXN | S&P Global Manufacturing PMI (Oct) |  |  | 49.60 |
+| 14:30 | CAD | S&P Global Manufacturing PMI (Oct) | 49.6 | 48.2 | 47.7 |
+| 15:00 | USD | ISM Manufacturing New Orders Index (Oct) | 49.4 |  | 48.9 |
+| 15:00 | MXN | S&P Global Manufacturing PMI (Oct) | 49.50 |  | 49.60 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 3.730% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 3.640% |
 | 19:00 | USD | Fed Governor Cook Speaks |  |  |  |
