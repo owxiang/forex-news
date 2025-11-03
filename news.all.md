@@ -54,5 +54,5 @@
 | 18:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 19:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 19:00 | USD | Low | Loan Officer Survey |  |  |  |
-| 53 min | KRW | Low | CPI (YoY) (Oct) |  | 2.1% | 2.1% |
-| 53 min | KRW | Low | CPI (MoM) (Oct) |  | 0.0% | 0.5% |
+| 23:00 | KRW | Low | CPI (YoY) (Oct) | 2.4% | 2.1% | 2.1% |
+| 23:00 | KRW | Low | CPI (MoM) (Oct) | 0.3% | 0.0% | 0.5% |
