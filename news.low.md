@@ -15,7 +15,7 @@
 | 04:00 | IDR | Inflation (MoM) (Oct) | 0.28% |  | 0.21% |
 | 04:00 | IDR | Trade Balance (Sep) | 4.34B | 4.79B | 5.49B |
 | 05:00 | INR | S&P Global Manufacturing PMI (Oct) | 59.2 |  | 58.4 |
-| 23 min | AUD | Commodity Prices (YoY) (Oct) |  |  | -0.1% |
+| 05:30 | AUD | Commodity Prices (YoY) (Oct) | -1.3% |  | 0.1% |
 | 07:30 | CHF | CPI (YoY) (Oct) |  | 0.3% | 0.2% |
 | 07:45 | EUR | French Industrial Production (MoM) (Sep) |  |  | -0.7% |
 | 09:00 | NOK | Manufacturing PMI (Oct) |  |  | 49.9 |

@@ -17,7 +17,7 @@
 | 04:00 | IDR | Low | Inflation (MoM) (Oct) | 0.28% |  | 0.21% |
 | 04:00 | IDR | Low | Trade Balance (Sep) | 4.34B | 4.79B | 5.49B |
 | 05:00 | INR | Low | S&P Global Manufacturing PMI (Oct) | 59.2 |  | 58.4 |
-| 23 min | AUD | Low | Commodity Prices (YoY) (Oct) |  |  | -0.1% |
+| 05:30 | AUD | Low | Commodity Prices (YoY) (Oct) | -1.3% |  | 0.1% |
 | 07:30 | CHF | Low | CPI (YoY) (Oct) |  | 0.3% | 0.2% |
 | 07:30 | CHF | Moderate | CPI (MoM) (Oct) |  | -0.1% | -0.2% |
 | 07:45 | EUR | Low | French Industrial Production (MoM) (Sep) |  |  | -0.7% |
