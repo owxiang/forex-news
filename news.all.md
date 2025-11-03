@@ -20,14 +20,14 @@
 | 05:30 | AUD | Low | Commodity Prices (YoY) (Oct) | -1.3% |  | 0.1% |
 | 07:30 | CHF | Moderate | CPI (MoM) (Oct) | -0.3% | -0.1% | -0.2% |
 | 07:30 | CHF | Low | CPI (YoY) (Oct) | 0.1% | 0.3% | 0.2% |
-| 5 min | EUR | Moderate | HCOB Spain Manufacturing PMI (Oct) |  | 51.8 | 51.5 |
-| 20 min | CHF | Moderate | procure.ch Manufacturing PMI (Oct) |  | 47.7 | 46.3 |
-| 35 min | EUR | Moderate | HCOB Italy Manufacturing PMI (Oct) |  | 49.3 | 49.0 |
-| 40 min | EUR | Moderate | HCOB France Manufacturing PMI (Oct) |  | 48.3 | 48.3 |
-| 45 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Oct) |  | 49.6 | 49.6 |
-| 50 min | NOK | Low | Manufacturing PMI (Oct) |  |  | 49.9 |
-| 50 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Oct) |  | 50.0 | 50.0 |
-| 50 min | ZAR | Low | Manufacturing PMI (Oct) |  |  | 52.2 |
+| 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Oct) | 52.1 | 51.8 | 51.5 |
+| 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (Oct) | 48.2 | 47.7 | 46.3 |
+| 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Oct) | 49.9 | 49.3 | 49.0 |
+| 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (Oct) | 48.8 | 48.3 | 48.3 |
+| 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Oct) | 49.6 | 49.6 | 49.6 |
+| 09:00 | NOK | Low | Manufacturing PMI (Oct) | 47.7 |  | 49.7 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Oct) | 50.0 | 50.0 | 50.0 |
+| 09:00 | ZAR | Low | Manufacturing PMI (Oct) |  |  | 52.2 |
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Oct) |  | 49.6 | 49.6 |
 | 11:00 | EUR | Low | Car Registration (MoM) (Oct) |  |  | 38.90% |
 | 11:00 | EUR | Low | Car Registration (YoY) (Oct) |  |  | 16.40% |

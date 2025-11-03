@@ -17,8 +17,8 @@
 | 05:00 | INR | S&P Global Manufacturing PMI (Oct) | 59.2 |  | 58.4 |
 | 05:30 | AUD | Commodity Prices (YoY) (Oct) | -1.3% |  | 0.1% |
 | 07:30 | CHF | CPI (YoY) (Oct) | 0.1% | 0.3% | 0.2% |
-| 50 min | NOK | Manufacturing PMI (Oct) |  |  | 49.9 |
-| 50 min | ZAR | Manufacturing PMI (Oct) |  |  | 52.2 |
+| 09:00 | NOK | Manufacturing PMI (Oct) | 47.7 |  | 49.7 |
+| 09:00 | ZAR | Manufacturing PMI (Oct) |  |  | 52.2 |
 | 11:00 | EUR | Car Registration (MoM) (Oct) |  |  | 38.90% |
 | 11:00 | EUR | Car Registration (YoY) (Oct) |  |  | 16.40% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
