@@ -19,13 +19,11 @@
 | 07:30 | CHF | CPI (YoY) (Oct) | 0.1% | 0.3% | 0.2% |
 | 09:00 | NOK | Manufacturing PMI (Oct) | 47.7 |  | 49.7 |
 | 09:00 | ZAR | Manufacturing PMI (Oct) | 49.2 |  | 50.8 |
-| 11:00 | EUR | Car Registration (MoM) (Oct) |  |  | 38.90% |
-| 11:00 | EUR | Car Registration (YoY) (Oct) |  |  | 16.40% |
-| 18 min | BRL | BCB Focus Market Readout |  |  |  |
-| 12:30 | ZAR | Total Vehicle Sales (YoY) (Oct) |  |  | 24.30% |
-| 12:30 | ZAR | Total Vehicle Sales (Oct) |  |  | 54.70K |
-| 13:00 | BRL | S&P Global Manufacturing PMI (Oct) |  |  | 46.5 |
-| 13:00 | SGD | S&P Global Manufacturing PMI (Oct) |  |  | 50.1 |
+| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 12:00 | ZAR | Total Vehicle Sales (YoY) (Oct) | 16.00% |  | 24.30% |
+| 12:00 | ZAR | Total Vehicle Sales (Oct) | 55.96K |  | 54.70K |
+| 48 min | BRL | S&P Global Manufacturing PMI (Oct) |  |  | 46.5 |
+| 48 min | SGD | S&P Global Manufacturing PMI (Oct) |  |  | 50.1 |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.053% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.011% |
 | 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.015% |
