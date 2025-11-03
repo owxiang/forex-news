@@ -32,12 +32,12 @@
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 12:00 | ZAR | Low | Total Vehicle Sales (YoY) (Oct) | 16.00% |  | 24.30% |
-| 12:00 | ZAR | Low | Total Vehicle Sales (Oct) | 55.96K |  | 54.70K |
-| 48 min | BRL | Low | S&P Global Manufacturing PMI (Oct) |  |  | 46.5 |
-| 48 min | SGD | Low | S&P Global Manufacturing PMI (Oct) |  |  | 50.1 |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.053% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.011% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.015% |
+| 12:00 | ZAR | Low | Total Vehicle Sales (Oct) | 55.96K |  | 54.69K |
+| 13:00 | BRL | Low | S&P Global Manufacturing PMI (Oct) | 48.2 |  | 46.5 |
+| 13:00 | SGD | Low | S&P Global Manufacturing PMI (Oct) | 50.0 |  | 50.1 |
+| 44 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.053% |
+| 44 min | EUR | Low | French 3-Month BTF Auction |  |  | 2.011% |
+| 44 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.015% |
 | 14:30 | CAD | Low | S&P Global Manufacturing PMI (Oct) |  | 48.2 | 47.7 |
 | 14:45 | USD | High | S&P Global Manufacturing PMI (Oct) |  | 52.2 | 52.0 |
 | 15:00 | USD | Moderate | ISM Manufacturing Employment (Oct) |  |  | 45.3 |
