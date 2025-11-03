@@ -8,12 +8,12 @@
 | 00:30 | AUD | Building Approvals (YoY) (Sep) | 12.40% |  | -0.70% |
 | 00:30 | AUD | Private House Approvals (Sep) | 4.0% |  | -1.0% |
 | 00:30 | IDR | S&P Global Manufacturing PMI (Oct) | 51.2 |  | 50.4 |
-| 23 min | IDR | Core Inflation (YoY) (Oct) |  |  | 2.19% |
-| 23 min | IDR | Export Growth (YoY) (Sep) |  | 7.72% | 5.78% |
-| 23 min | IDR | Import Growth (YoY) (Sep) |  | 1.00% | -6.56% |
-| 23 min | IDR | Inflation (YoY) (Oct) |  |  | 2.65% |
-| 23 min | IDR | Inflation (MoM) (Oct) |  |  | 0.21% |
-| 23 min | IDR | Trade Balance (Sep) |  | 4.79B | 5.49B |
+| 04:00 | IDR | Core Inflation (YoY) (Oct) |  |  | 2.19% |
+| 04:00 | IDR | Export Growth (YoY) (Sep) |  | 7.72% | 5.78% |
+| 04:00 | IDR | Import Growth (YoY) (Sep) |  | 1.00% | -6.56% |
+| 04:00 | IDR | Inflation (YoY) (Oct) |  |  | 2.65% |
+| 04:00 | IDR | Inflation (MoM) (Oct) |  |  | 0.21% |
+| 04:00 | IDR | Trade Balance (Sep) |  | 4.79B | 5.49B |
 | 05:00 | INR | S&P Global Manufacturing PMI (Oct) |  |  | 58.4 |
 | 05:30 | AUD | Commodity Prices (YoY) (Oct) |  |  | -0.1% |
 | 07:30 | CHF | CPI (YoY) (Oct) |  | 0.3% | 0.2% |
