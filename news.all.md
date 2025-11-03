@@ -23,16 +23,16 @@
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Oct) | 52.1 | 51.8 | 51.5 |
 | 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (Oct) | 48.2 | 47.7 | 46.3 |
 | 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Oct) | 49.9 | 49.3 | 49.0 |
-| 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (Oct) | 48.8 | 48.3 | 48.3 |
+| 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (Oct) | 48.8 | 48.3 | 48.8 |
 | 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Oct) | 49.6 | 49.6 | 49.6 |
 | 09:00 | NOK | Low | Manufacturing PMI (Oct) | 47.7 |  | 49.7 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Oct) | 50.0 | 50.0 | 50.0 |
 | 09:00 | ZAR | Low | Manufacturing PMI (Oct) | 49.2 |  | 50.8 |
-| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Oct) | 49.7 | 49.6 | 49.6 |
-| 52 min | EUR | Low | Car Registration (MoM) (Oct) |  |  | 38.90% |
-| 52 min | EUR | Low | Car Registration (YoY) (Oct) |  |  | 16.40% |
-| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 12:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Oct) | 49.7 | 49.6 | 49.7 |
+| 11:00 | EUR | Low | Car Registration (MoM) (Oct) |  |  | 38.90% |
+| 11:00 | EUR | Low | Car Registration (YoY) (Oct) |  |  | 16.40% |
+| 18 min | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 53 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 12:30 | ZAR | Low | Total Vehicle Sales (YoY) (Oct) |  |  | 24.30% |
 | 12:30 | ZAR | Low | Total Vehicle Sales (Oct) |  |  | 54.70K |
 | 13:00 | BRL | Low | S&P Global Manufacturing PMI (Oct) |  |  | 46.5 |

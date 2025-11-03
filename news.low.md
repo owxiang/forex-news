@@ -19,9 +19,9 @@
 | 07:30 | CHF | CPI (YoY) (Oct) | 0.1% | 0.3% | 0.2% |
 | 09:00 | NOK | Manufacturing PMI (Oct) | 47.7 |  | 49.7 |
 | 09:00 | ZAR | Manufacturing PMI (Oct) | 49.2 |  | 50.8 |
-| 52 min | EUR | Car Registration (MoM) (Oct) |  |  | 38.90% |
-| 52 min | EUR | Car Registration (YoY) (Oct) |  |  | 16.40% |
-| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 11:00 | EUR | Car Registration (MoM) (Oct) |  |  | 38.90% |
+| 11:00 | EUR | Car Registration (YoY) (Oct) |  |  | 16.40% |
+| 18 min | BRL | BCB Focus Market Readout |  |  |  |
 | 12:30 | ZAR | Total Vehicle Sales (YoY) (Oct) |  |  | 24.30% |
 | 12:30 | ZAR | Total Vehicle Sales (Oct) |  |  | 54.70K |
 | 13:00 | BRL | S&P Global Manufacturing PMI (Oct) |  |  | 46.5 |
