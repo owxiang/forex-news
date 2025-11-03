@@ -51,8 +51,8 @@
 | 16:30 | USD | Low | 6-Month Bill Auction | 3.700% |  | 3.640% |
 | 17:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 17:20 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 21 min | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
-| 51 min | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 51 min | USD | Low | Loan Officer Survey |  |  |  |
+| 18:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
+| 19:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |
+| 19:00 | USD | Low | Loan Officer Survey |  |  |  |
 | 23:00 | KRW | Low | CPI (YoY) (Oct) |  | 2.1% | 2.1% |
 | 23:00 | KRW | Low | CPI (MoM) (Oct) |  | 0.0% | 0.5% |

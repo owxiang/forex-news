@@ -34,7 +34,7 @@
 | 15:00 | MXN | S&P Global Manufacturing PMI (Oct) | 49.50 |  | 49.60 |
 | 16:30 | USD | 3-Month Bill Auction | 3.815% |  | 3.730% |
 | 16:30 | USD | 6-Month Bill Auction | 3.700% |  | 3.640% |
-| 51 min | USD | Fed Governor Cook Speaks |  |  |  |
-| 51 min | USD | Loan Officer Survey |  |  |  |
+| 19:00 | USD | Fed Governor Cook Speaks |  |  |  |
+| 19:00 | USD | Loan Officer Survey |  |  |  |
 | 23:00 | KRW | CPI (YoY) (Oct) |  | 2.1% | 2.1% |
 | 23:00 | KRW | CPI (MoM) (Oct) |  | 0.0% | 0.5% |
