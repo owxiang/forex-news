@@ -29,23 +29,25 @@
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Oct) | 50.0 | 50.0 | 50.0 |
 | 09:00 | ZAR | Low | Manufacturing PMI (Oct) | 49.2 |  | 50.8 |
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Oct) | 49.7 | 49.6 | 49.7 |
+| 11:00 | EUR | Low | Car Registration (MoM) (Oct) | 13.60% |  | 38.90% |
+| 11:00 | EUR | Low | Car Registration (YoY) (Oct) | 15.90% |  | 16.40% |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 12:00 | ZAR | Low | Total Vehicle Sales (YoY) (Oct) | 16.00% |  | 24.30% |
 | 12:00 | ZAR | Low | Total Vehicle Sales (Oct) | 55.96K |  | 54.69K |
 | 13:00 | BRL | Low | S&P Global Manufacturing PMI (Oct) | 48.2 |  | 46.5 |
 | 13:00 | SGD | Low | S&P Global Manufacturing PMI (Oct) | 50.0 |  | 50.1 |
-| 44 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.053% |
-| 44 min | EUR | Low | French 3-Month BTF Auction |  |  | 2.011% |
-| 44 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.015% |
-| 14:30 | CAD | Low | S&P Global Manufacturing PMI (Oct) |  | 48.2 | 47.7 |
-| 14:45 | USD | High | S&P Global Manufacturing PMI (Oct) |  | 52.2 | 52.0 |
-| 15:00 | USD | Moderate | ISM Manufacturing Employment (Oct) |  |  | 45.3 |
-| 15:00 | USD | Low | ISM Manufacturing New Orders Index (Oct) |  |  | 48.9 |
-| 15:00 | USD | High | ISM Manufacturing PMI (Oct) |  | 49.4 | 49.1 |
-| 15:00 | USD | High | ISM Manufacturing Prices (Oct) |  | 62.4 | 61.9 |
-| 15:00 | USD | Low | Total Vehicle Sales (Oct) |  | 15.60M | 16.40M |
-| 15:00 | MXN | Low | S&P Global Manufacturing PMI (Oct) |  |  | 49.60 |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.059% |  | 2.053% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.010% |  | 2.011% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.029% |  | 2.015% |
+| 23 min | CAD | Low | S&P Global Manufacturing PMI (Oct) |  | 48.2 | 47.7 |
+| 38 min | USD | High | S&P Global Manufacturing PMI (Oct) |  | 52.2 | 52.0 |
+| 53 min | USD | Moderate | ISM Manufacturing Employment (Oct) |  |  | 45.3 |
+| 53 min | USD | Low | ISM Manufacturing New Orders Index (Oct) |  |  | 48.9 |
+| 53 min | USD | High | ISM Manufacturing PMI (Oct) |  | 49.4 | 49.1 |
+| 53 min | USD | High | ISM Manufacturing Prices (Oct) |  | 62.4 | 61.9 |
+| 53 min | USD | Low | Total Vehicle Sales (Oct) |  | 15.60M | 16.40M |
+| 53 min | MXN | Low | S&P Global Manufacturing PMI (Oct) |  |  | 49.60 |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.730% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.640% |
 | 17:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |

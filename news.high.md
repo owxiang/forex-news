@@ -2,6 +2,6 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 14:45 | USD | S&P Global Manufacturing PMI (Oct) |  | 52.2 | 52.0 |
-| 15:00 | USD | ISM Manufacturing PMI (Oct) |  | 49.4 | 49.1 |
-| 15:00 | USD | ISM Manufacturing Prices (Oct) |  | 62.4 | 61.9 |
+| 38 min | USD | S&P Global Manufacturing PMI (Oct) |  | 52.2 | 52.0 |
+| 53 min | USD | ISM Manufacturing PMI (Oct) |  | 49.4 | 49.1 |
+| 53 min | USD | ISM Manufacturing Prices (Oct) |  | 62.4 | 61.9 |
