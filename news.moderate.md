@@ -11,7 +11,7 @@
 | 08:50 | EUR | HCOB France Manufacturing PMI (Oct) | 48.8 | 48.3 | 48.3 |
 | 08:55 | EUR | HCOB Germany Manufacturing PMI (Oct) | 49.6 | 49.6 | 49.6 |
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Oct) | 50.0 | 50.0 | 50.0 |
-| 09:30 | GBP | S&P Global Manufacturing PMI (Oct) |  | 49.6 | 49.6 |
+| 09:30 | GBP | S&P Global Manufacturing PMI (Oct) | 49.7 | 49.6 | 49.6 |
 | 12:00 | EUR | ECB's Lane Speaks |  |  |  |
 | 15:00 | USD | ISM Manufacturing Employment (Oct) |  |  | 45.3 |
 | 17:00 | USD | FOMC Member Daly Speaks |  |  |  |

@@ -27,10 +27,10 @@
 | 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Oct) | 49.6 | 49.6 | 49.6 |
 | 09:00 | NOK | Low | Manufacturing PMI (Oct) | 47.7 |  | 49.7 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Oct) | 50.0 | 50.0 | 50.0 |
-| 09:00 | ZAR | Low | Manufacturing PMI (Oct) |  |  | 52.2 |
-| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Oct) |  | 49.6 | 49.6 |
-| 11:00 | EUR | Low | Car Registration (MoM) (Oct) |  |  | 38.90% |
-| 11:00 | EUR | Low | Car Registration (YoY) (Oct) |  |  | 16.40% |
+| 09:00 | ZAR | Low | Manufacturing PMI (Oct) | 49.2 |  | 50.8 |
+| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Oct) | 49.7 | 49.6 | 49.6 |
+| 52 min | EUR | Low | Car Registration (MoM) (Oct) |  |  | 38.90% |
+| 52 min | EUR | Low | Car Registration (YoY) (Oct) |  |  | 16.40% |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 12:30 | ZAR | Low | Total Vehicle Sales (YoY) (Oct) |  |  | 24.30% |
