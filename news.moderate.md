@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Building Approvals (MoM) (Sep) | 12.0% | 5.1% | -3.6% |
 | 01:45 | CNY | Caixin Manufacturing PMI (MoM) (Oct) | 50.6 | 50.7 | 51.2 |
-| 07:30 | CHF | CPI (MoM) (Oct) |  | -0.1% | -0.2% |
+| 22 min | CHF | CPI (MoM) (Oct) |  | -0.1% | -0.2% |
 | 08:15 | EUR | HCOB Spain Manufacturing PMI (Oct) |  | 51.8 | 51.5 |
 | 08:30 | CHF | procure.ch Manufacturing PMI (Oct) |  | 47.7 | 46.3 |
 | 08:45 | EUR | HCOB Italy Manufacturing PMI (Oct) |  | 49.3 | 49.0 |

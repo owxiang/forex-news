@@ -18,9 +18,9 @@
 | 04:00 | IDR | Low | Trade Balance (Sep) | 4.34B | 4.79B | 5.49B |
 | 05:00 | INR | Low | S&P Global Manufacturing PMI (Oct) | 59.2 |  | 58.4 |
 | 05:30 | AUD | Low | Commodity Prices (YoY) (Oct) | -1.3% |  | 0.1% |
-| 07:30 | CHF | Low | CPI (YoY) (Oct) |  | 0.3% | 0.2% |
-| 07:30 | CHF | Moderate | CPI (MoM) (Oct) |  | -0.1% | -0.2% |
-| 07:45 | EUR | Low | French Industrial Production (MoM) (Sep) |  |  | -0.7% |
+| 22 min | CHF | Low | CPI (YoY) (Oct) |  | 0.3% | 0.2% |
+| 22 min | CHF | Moderate | CPI (MoM) (Oct) |  | -0.1% | -0.2% |
+| 37 min | EUR | Low | French Industrial Production (MoM) (Sep) |  |  | -0.7% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Oct) |  | 51.8 | 51.5 |
 | 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (Oct) |  | 47.7 | 46.3 |
 | 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Oct) |  | 49.3 | 49.0 |
