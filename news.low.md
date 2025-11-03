@@ -4,16 +4,16 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | AUD | MI Inflation Gauge (MoM) (Oct) | 0.3% |  | 0.4% |
 | 00:30 | KRW | S&P Global South Korea Manufacturing PMI (Oct) | 49.4 |  | 50.7 |
-| 00:30 | AUD | ANZ Job Advertisements (MoM) (Oct) |  |  | -3.3% |
-| 00:30 | AUD | Building Approvals (YoY) (Sep) |  |  | -1.20% |
-| 00:30 | AUD | Private House Approvals (Sep) | 4.0% |  | -2.6% |
+| 00:30 | AUD | ANZ Job Advertisements (MoM) (Oct) | -2.2% |  | -3.5% |
+| 00:30 | AUD | Building Approvals (YoY) (Sep) | 12.40% |  | -0.70% |
+| 00:30 | AUD | Private House Approvals (Sep) | 4.0% |  | -1.0% |
 | 00:30 | IDR | S&P Global Manufacturing PMI (Oct) | 51.2 |  | 50.4 |
-| 02:00 | IDR | Core Inflation (YoY) (Oct) |  |  | 2.19% |
-| 02:00 | IDR | Export Growth (YoY) (Sep) |  | 7.72% | 5.78% |
-| 02:00 | IDR | Import Growth (YoY) (Sep) |  | 1.00% | -6.56% |
-| 02:00 | IDR | Inflation (YoY) (Oct) |  |  | 2.65% |
-| 02:00 | IDR | Inflation (MoM) (Oct) |  |  | 0.21% |
-| 02:00 | IDR | Trade Balance (Sep) |  | 4.79B | 5.49B |
+| 23 min | IDR | Core Inflation (YoY) (Oct) |  |  | 2.19% |
+| 23 min | IDR | Export Growth (YoY) (Sep) |  | 7.72% | 5.78% |
+| 23 min | IDR | Import Growth (YoY) (Sep) |  | 1.00% | -6.56% |
+| 23 min | IDR | Inflation (YoY) (Oct) |  |  | 2.65% |
+| 23 min | IDR | Inflation (MoM) (Oct) |  |  | 0.21% |
+| 23 min | IDR | Trade Balance (Sep) |  | 4.79B | 5.49B |
 | 05:00 | INR | S&P Global Manufacturing PMI (Oct) |  |  | 58.4 |
 | 05:30 | AUD | Commodity Prices (YoY) (Oct) |  |  | -0.1% |
 | 07:30 | CHF | CPI (YoY) (Oct) |  | 0.3% | 0.2% |

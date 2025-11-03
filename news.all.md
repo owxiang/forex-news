@@ -4,18 +4,18 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | AUD | Low | MI Inflation Gauge (MoM) (Oct) | 0.3% |  | 0.4% |
 | 00:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Oct) | 49.4 |  | 50.7 |
-| 00:30 | AUD | Low | ANZ Job Advertisements (MoM) (Oct) |  |  | -3.3% |
-| 00:30 | AUD | Low | Building Approvals (YoY) (Sep) |  |  | -1.20% |
-| 00:30 | AUD | Moderate | Building Approvals (MoM) (Sep) | 12.0% | 5.1% | -6.0% |
-| 00:30 | AUD | Low | Private House Approvals (Sep) | 4.0% |  | -2.6% |
+| 00:30 | AUD | Low | ANZ Job Advertisements (MoM) (Oct) | -2.2% |  | -3.5% |
+| 00:30 | AUD | Low | Building Approvals (YoY) (Sep) | 12.40% |  | -0.70% |
+| 00:30 | AUD | Moderate | Building Approvals (MoM) (Sep) | 12.0% | 5.1% | -3.6% |
+| 00:30 | AUD | Low | Private House Approvals (Sep) | 4.0% |  | -1.0% |
 | 00:30 | IDR | Low | S&P Global Manufacturing PMI (Oct) | 51.2 |  | 50.4 |
-| 01:45 | CNY | Moderate | Caixin Manufacturing PMI (MoM) (Oct) |  | 50.7 | 51.2 |
-| 02:00 | IDR | Low | Core Inflation (YoY) (Oct) |  |  | 2.19% |
-| 02:00 | IDR | Low | Export Growth (YoY) (Sep) |  | 7.72% | 5.78% |
-| 02:00 | IDR | Low | Import Growth (YoY) (Sep) |  | 1.00% | -6.56% |
-| 02:00 | IDR | Low | Inflation (YoY) (Oct) |  |  | 2.65% |
-| 02:00 | IDR | Low | Inflation (MoM) (Oct) |  |  | 0.21% |
-| 02:00 | IDR | Low | Trade Balance (Sep) |  | 4.79B | 5.49B |
+| 8 min | CNY | Moderate | Caixin Manufacturing PMI (MoM) (Oct) |  | 50.7 | 51.2 |
+| 23 min | IDR | Low | Core Inflation (YoY) (Oct) |  |  | 2.19% |
+| 23 min | IDR | Low | Export Growth (YoY) (Sep) |  | 7.72% | 5.78% |
+| 23 min | IDR | Low | Import Growth (YoY) (Sep) |  | 1.00% | -6.56% |
+| 23 min | IDR | Low | Inflation (YoY) (Oct) |  |  | 2.65% |
+| 23 min | IDR | Low | Inflation (MoM) (Oct) |  |  | 0.21% |
+| 23 min | IDR | Low | Trade Balance (Sep) |  | 4.79B | 5.49B |
 | 05:00 | INR | Low | S&P Global Manufacturing PMI (Oct) |  |  | 58.4 |
 | 05:30 | AUD | Low | Commodity Prices (YoY) (Oct) |  |  | -0.1% |
 | 07:30 | CHF | Low | CPI (YoY) (Oct) |  | 0.3% | 0.2% |
