@@ -10,13 +10,13 @@
 | 00:30 | AUD | Low | Private House Approvals (Sep) | 4.0% |  | -1.0% |
 | 00:30 | IDR | Low | S&P Global Manufacturing PMI (Oct) | 51.2 |  | 50.4 |
 | 01:45 | CNY | Moderate | Caixin Manufacturing PMI (MoM) (Oct) | 50.6 | 50.7 | 51.2 |
-| 30 min | IDR | Low | Core Inflation (YoY) (Oct) |  |  | 2.19% |
-| 30 min | IDR | Low | Export Growth (YoY) (Sep) |  | 7.72% | 5.78% |
-| 30 min | IDR | Low | Import Growth (YoY) (Sep) |  | 1.00% | -6.56% |
-| 30 min | IDR | Low | Inflation (YoY) (Oct) |  |  | 2.65% |
-| 30 min | IDR | Low | Inflation (MoM) (Oct) |  |  | 0.21% |
-| 30 min | IDR | Low | Trade Balance (Sep) |  | 4.79B | 5.49B |
-| 05:00 | INR | Low | S&P Global Manufacturing PMI (Oct) |  |  | 58.4 |
+| 02:00 | IDR | Low | Export Growth (YoY) (Sep) | 11.41% | 7.72% | 5.78% |
+| 04:00 | IDR | Low | Core Inflation (YoY) (Oct) |  |  | 2.19% |
+| 04:00 | IDR | Low | Import Growth (YoY) (Sep) |  | 1.00% | -6.56% |
+| 04:00 | IDR | Low | Inflation (YoY) (Oct) |  |  | 2.65% |
+| 04:00 | IDR | Low | Inflation (MoM) (Oct) |  |  | 0.21% |
+| 04:00 | IDR | Low | Trade Balance (Sep) |  | 4.79B | 5.49B |
+| 47 min | INR | Low | S&P Global Manufacturing PMI (Oct) |  |  | 58.4 |
 | 05:30 | AUD | Low | Commodity Prices (YoY) (Oct) |  |  | -0.1% |
 | 07:30 | CHF | Low | CPI (YoY) (Oct) |  | 0.3% | 0.2% |
 | 07:30 | CHF | Moderate | CPI (MoM) (Oct) |  | -0.1% | -0.2% |
