@@ -47,10 +47,10 @@
 | 15:00 | USD | High | ISM Manufacturing PMI (Oct) | 48.7 | 49.4 | 49.1 |
 | 15:00 | USD | High | ISM Manufacturing Prices (Oct) | 58.0 | 62.4 | 61.9 |
 | 15:00 | MXN | Low | S&P Global Manufacturing PMI (Oct) | 49.50 |  | 49.60 |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.730% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.640% |
+| 16:30 | USD | Low | 3-Month Bill Auction | 3.815% |  | 3.730% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 3.700% |  | 3.640% |
 | 17:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
-| 17:20 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 13 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 18:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 19:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 19:00 | USD | Low | Loan Officer Survey |  |  |  |

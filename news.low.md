@@ -32,8 +32,8 @@
 | 14:30 | CAD | S&P Global Manufacturing PMI (Oct) | 49.6 | 48.2 | 47.7 |
 | 15:00 | USD | ISM Manufacturing New Orders Index (Oct) | 49.4 |  | 48.9 |
 | 15:00 | MXN | S&P Global Manufacturing PMI (Oct) | 49.50 |  | 49.60 |
-| 16:30 | USD | 3-Month Bill Auction |  |  | 3.730% |
-| 16:30 | USD | 6-Month Bill Auction |  |  | 3.640% |
+| 16:30 | USD | 3-Month Bill Auction | 3.815% |  | 3.730% |
+| 16:30 | USD | 6-Month Bill Auction | 3.700% |  | 3.640% |
 | 19:00 | USD | Fed Governor Cook Speaks |  |  |  |
 | 19:00 | USD | Loan Officer Survey |  |  |  |
 | 23:00 | KRW | CPI (YoY) (Oct) |  | 2.1% | 2.1% |

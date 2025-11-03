@@ -15,5 +15,5 @@
 | 12:00 | EUR | ECB's Lane Speaks |  |  |  |
 | 15:00 | USD | ISM Manufacturing Employment (Oct) | 46.0 |  | 45.3 |
 | 17:00 | USD | FOMC Member Daly Speaks |  |  |  |
-| 17:20 | EUR | German Buba Balz Speaks |  |  |  |
+| 13 min | EUR | German Buba Balz Speaks |  |  |  |
 | 18:30 | CAD | BoC Gov Macklem Speaks |  |  |  |
