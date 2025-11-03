@@ -36,5 +36,5 @@
 | 16:30 | USD | 6-Month Bill Auction | 3.700% |  | 3.640% |
 | 19:00 | USD | Fed Governor Cook Speaks |  |  |  |
 | 19:00 | USD | Loan Officer Survey |  |  |  |
-| 23:00 | KRW | CPI (YoY) (Oct) |  | 2.1% | 2.1% |
-| 23:00 | KRW | CPI (MoM) (Oct) |  | 0.0% | 0.5% |
+| 53 min | KRW | CPI (YoY) (Oct) |  | 2.1% | 2.1% |
+| 53 min | KRW | CPI (MoM) (Oct) |  | 0.0% | 0.5% |
