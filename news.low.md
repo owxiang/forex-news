@@ -26,7 +26,7 @@
 | 17:00 | USD | OPEC Crude Oil Production Nigeria (Barrel) | 1.53M |  | 1.55M |
 | 17:00 | USD | OPEC Crude oil Production UAE (Barrel) | 3.36M |  | 3.35M |
 | 17:00 | USD | OPEC Crude oil Production Venezuela (Barrel) | 0.93M |  | 0.95M |
-| 21:00 | KRW | FX Reserves - USD (Oct) |  |  | 422.02B |
+| 52 min | KRW | FX Reserves - USD (Oct) |  |  | 422.02B |
 | 21:45 | NZD | Employment Change (QoQ) (Q3) |  | 0.1% | -0.1% |
 | 21:45 | NZD | Labor Cost Index (QoQ) (Q3) |  | 0.5% | 0.6% |
 | 21:45 | NZD | Labor Cost Index (YoY) (Q3) |  | 2.1% | 2.2% |

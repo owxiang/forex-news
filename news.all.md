@@ -38,8 +38,8 @@
 | 17:00 | USD | Low | OPEC Crude Oil Production Nigeria (Barrel) | 1.53M |  | 1.55M |
 | 17:00 | USD | Low | OPEC Crude oil Production UAE (Barrel) | 3.36M |  | 3.35M |
 | 17:00 | USD | Low | OPEC Crude oil Production Venezuela (Barrel) | 0.93M |  | 0.95M |
-| 54 min | NZD | Moderate | RBNZ Financial Stability Report |  |  |  |
-| 21:00 | KRW | Low | FX Reserves - USD (Oct) |  |  | 422.02B |
+| 20:00 | NZD | Moderate | RBNZ Financial Stability Report |  |  |  |
+| 52 min | KRW | Low | FX Reserves - USD (Oct) |  |  | 422.02B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -4.000M |
 | 21:45 | NZD | Low | Employment Change (QoQ) (Q3) |  | 0.1% | -0.1% |
 | 21:45 | NZD | Low | Labor Cost Index (QoQ) (Q3) |  | 0.5% | 0.6% |
