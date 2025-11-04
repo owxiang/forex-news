@@ -7,12 +7,11 @@
 | 03:30 | AUD | High | RBA Interest Rate Decision (Nov) | 3.60% | 3.60% | 3.60% |
 | 03:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
 | 04:30 | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
-| 32 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 37 min | EUR | Low | French Government Budget Balance (Sep) |  |  | -157.5B |
-| 52 min | EUR | Low | French Car Registration (YoY) (Oct) |  |  | 1.0% |
-| 52 min | EUR | Moderate | Spanish Unemployment Change (Oct) |  | 5.2K | -4.8K |
-| 52 min | NZD | Moderate | RBNZ Financial Stability Report |  |  |  |
-| 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Oct) |  |  | 0.65% |
+| 07:40 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 07:45 | EUR | Low | French Government Budget Balance (Sep) | -155.4B |  | -157.5B |
+| 08:00 | EUR | Moderate | Spanish Unemployment Change (Oct) | 22.1K | 5.2K | -4.8K |
+| 08:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Oct) | 0.27% |  | 0.65% |
+| 08:00 | NZD | Moderate | RBNZ Financial Stability Report |  |  |  |
 | 09:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.006% |
 | 09:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 1.937% |
 | 10:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |

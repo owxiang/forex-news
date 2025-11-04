@@ -4,10 +4,10 @@
 |------|----------|-------|--------|----------|----------|
 | 03:30 | AUD | RBA Rate Statement |  |  |  |
 | 04:30 | AUD | RBA Monetary Policy Statement |  |  |  |
-| 32 min | EUR | ECB President Lagarde Speaks |  |  |  |
-| 52 min | EUR | Spanish Unemployment Change (Oct) |  | 5.2K | -4.8K |
-| 52 min | NZD | RBNZ Financial Stability Report |  |  |  |
-| 09:00 | BRL | IPC-Fipe Inflation Index (MoM) (Oct) |  |  | 0.65% |
+| 07:40 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 08:00 | EUR | Spanish Unemployment Change (Oct) | 22.1K | 5.2K | -4.8K |
+| 08:00 | BRL | IPC-Fipe Inflation Index (MoM) (Oct) | 0.27% |  | 0.65% |
+| 08:00 | NZD | RBNZ Financial Stability Report |  |  |  |
 | 10:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 11:35 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 12:00 | EUR | German Buba Balz Speaks |  |  |  |
