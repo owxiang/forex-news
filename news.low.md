@@ -28,12 +28,14 @@
 | 17:00 | USD | OPEC Crude oil Production Venezuela (Barrel) | 0.93M |  | 0.95M |
 | 21:00 | KRW | FX Reserves - USD (Oct) | 428.82B |  | 422.02B |
 | 21:45 | NZD | Employment Change (QoQ) (Q3) | 0.0% | 0.1% | -0.2% |
-| 21:45 | NZD | Labor Cost Index (QoQ) (Q3) | 0.5% | 0.5% | 0.6% |
 | 21:45 | NZD | Labor Cost Index (YoY) (Q3) | 2.1% | 2.1% | 2.2% |
+| 21:45 | NZD | Labor Cost Index (QoQ) (Q3) | 0.5% | 0.5% | 0.6% |
 | 21:45 | NZD | Participation Rate (Q3) | 70.30% |  | 70.50% |
 | 21:45 | NZD | Unemployment Rate (Q3) | 5.3% | 5.3% | 5.2% |
 | 22:00 | AUD | AIG Construction Index (Oct) | -7.1 |  | 12.3 |
 | 22:00 | AUD | AIG Manufacturing Index (Oct) | -22.0 |  | -13.2 |
 | 22:00 | AUD | Manufacturing & Services PMI (Oct) | 52.10 | 52.60 | 52.60 |
 | 22:00 | AUD | Judo Bank Services PMI (Oct) | 52.5 | 53.1 | 52.4 |
-| 23:50 | JPY | Monetary Base (YoY) (Oct) |  | -4.8% | -6.1% |
+| 22:04 | USD | OPEC Crude Oil Production Guinea (Barrel) | 0.06M |  | 0.05M |
+| 22:04 | USD | OPEC Crude oil Production Saudi Arabia (Barrel) | 9.90M |  | 9.85M |
+| 43 min | JPY | Monetary Base (YoY) (Oct) |  | -4.8% | -6.1% |

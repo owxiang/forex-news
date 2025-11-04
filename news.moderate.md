@@ -16,4 +16,4 @@
 | 20:00 | NZD | RBNZ Financial Stability Report |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock | 6.500M | -2.400M | -4.000M |
 | 22:00 | NZD | RBNZ Gov Orr Speaks |  |  |  |
-| 23:50 | JPY | Monetary Policy Meeting Minutes |  |  |  |
+| 43 min | JPY | Monetary Policy Meeting Minutes |  |  |  |
