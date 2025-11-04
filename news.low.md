@@ -2,6 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
+| 00:00 | USD | Total Vehicle Sales (Oct) | 15.30M | 15.60M | 16.40M |
 | 00:30 | JPY | au Jibun Bank Manufacturing PMI (Oct) | 48.2 | 48.3 | 48.3 |
 | 05:00 | INR | S&P Global Manufacturing PMI (Oct) |  | 58.4 | 57.7 |
 | 07:45 | EUR | French Government Budget Balance (Sep) |  |  | -157.5B |
@@ -22,7 +23,6 @@
 | 13:30 | CAD | Imports (Sep) |  |  | 66.91B |
 | 13:55 | USD | Redbook (YoY) |  |  | 5.2% |
 | 15:00 | USD | Factory orders ex transportation (MoM) (Aug) |  |  | 0.6% |
-| 15:00 | USD | Total Vehicle Sales (Oct) |  | 15.60M | 16.40M |
 | 15:00 | NZD | GlobalDairyTrade Price Index |  |  | 21.9% |
 | 15:10 | USD | IBD/TIPP Economic Optimism (Nov) |  | 48.1 | 48.3 |
 | 17:00 | EUR | Italian Car Registration (YoY) (Oct) |  |  | 4.2% |

@@ -2,9 +2,10 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
+| 00:00 | USD | Low | Total Vehicle Sales (Oct) | 15.30M | 15.60M | 16.40M |
 | 00:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Oct) | 48.2 | 48.3 | 48.3 |
-| 03:30 | AUD | High | RBA Interest Rate Decision (Nov) |  | 3.60% | 3.60% |
-| 03:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
+| 53 min | AUD | High | RBA Interest Rate Decision (Nov) |  | 3.60% | 3.60% |
+| 53 min | AUD | Moderate | RBA Rate Statement |  |  |  |
 | 04:30 | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
 | 05:00 | INR | Low | S&P Global Manufacturing PMI (Oct) |  | 58.4 | 57.7 |
 | 07:40 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
@@ -39,7 +40,6 @@
 | 15:00 | USD | Moderate | Factory Orders (MoM) |  | 1.4% | -1.3% |
 | 15:00 | USD | Low | Factory orders ex transportation (MoM) (Aug) |  |  | 0.6% |
 | 15:00 | USD | High | JOLTS Job Openings (Sep) |  |  | 7.227M |
-| 15:00 | USD | Low | Total Vehicle Sales (Oct) |  | 15.60M | 16.40M |
 | 15:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 21.9% |
 | 15:10 | USD | Low | IBD/TIPP Economic Optimism (Nov) |  | 48.1 | 48.3 |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  |  |  |
