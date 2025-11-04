@@ -7,11 +7,11 @@
 | 07:45 | EUR | French Government Budget Balance (Sep) | -155.4B |  | -157.5B |
 | 10:00 | EUR | Spanish 12-Month Letras Auction | 1.990% |  | 2.006% |
 | 10:00 | EUR | Spanish 6-Month Letras Auction | 1.944% |  | 1.937% |
-| 2 min | GBP | 5-Year Treasury Gilt Auction |  |  | 4.004% |
-| 22 min | EUR | German 2-Year Schatz Auction |  |  | 1.910% |
-| 12:00 | MXN | Consumer Confidence (Oct) |  |  | 46.5 |
-| 12:00 | MXN | Consumer Confidence n.s.a. (Oct) |  |  | 46.1 |
-| 12:00 | BRL | Industrial Production (MoM) (Sep) |  |  | 0.8% |
+| 10:30 | GBP | 5-Year Treasury Gilt Auction | 3.845% |  | 4.004% |
+| 10:30 | EUR | German 2-Year Schatz Auction | 1.980% |  | 1.910% |
+| 54 min | MXN | Consumer Confidence (Oct) |  |  | 46.5 |
+| 54 min | MXN | Consumer Confidence n.s.a. (Oct) |  |  | 46.1 |
+| 54 min | BRL | Industrial Production (MoM) (Sep) |  |  | 0.8% |
 | 13:00 | GBP | BoE Breeden Speaks |  |  |  |
 | 13:30 | CAD | Exports (Sep) |  |  | 60.58B |
 | 13:30 | CAD | Imports (Sep) |  |  | 66.91B |

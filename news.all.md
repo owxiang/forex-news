@@ -15,14 +15,14 @@
 | 10:00 | EUR | Low | Spanish 12-Month Letras Auction | 1.990% |  | 2.006% |
 | 10:00 | EUR | Low | Spanish 6-Month Letras Auction | 1.944% |  | 1.937% |
 | 10:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 2 min | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.004% |
-| 22 min | EUR | Low | German 2-Year Schatz Auction |  |  | 1.910% |
-| 11:35 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 12:00 | MXN | Low | Consumer Confidence (Oct) |  |  | 46.5 |
-| 12:00 | MXN | Low | Consumer Confidence n.s.a. (Oct) |  |  | 46.1 |
-| 12:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 12:00 | BRL | Moderate | Industrial Production (YoY) (Sep) |  |  | -0.7% |
-| 12:00 | BRL | Low | Industrial Production (MoM) (Sep) |  |  | 0.8% |
+| 10:30 | GBP | Low | 5-Year Treasury Gilt Auction | 3.845% |  | 4.004% |
+| 10:30 | EUR | Low | German 2-Year Schatz Auction | 1.980% |  | 1.910% |
+| 29 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 54 min | MXN | Low | Consumer Confidence (Oct) |  |  | 46.5 |
+| 54 min | MXN | Low | Consumer Confidence n.s.a. (Oct) |  |  | 46.1 |
+| 54 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 54 min | BRL | Moderate | Industrial Production (YoY) (Sep) |  |  | -0.7% |
+| 54 min | BRL | Low | Industrial Production (MoM) (Sep) |  |  | 0.8% |
 | 13:00 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 13:30 | USD | Moderate | Exports (Aug) |  |  | 280.50B |
 | 13:30 | USD | Moderate | Imports (Aug) |  |  | 358.80B |
