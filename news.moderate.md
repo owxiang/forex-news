@@ -1,19 +1,25 @@
-## 03 November 2025 - Moderate Impact Forex News
+## 04 November 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Building Approvals (MoM) (Sep) | 12.0% | 5.1% | -3.6% |
-| 01:45 | CNY | Caixin Manufacturing PMI (MoM) (Oct) | 50.6 | 50.7 | 51.2 |
-| 07:30 | CHF | CPI (MoM) (Oct) | -0.3% | -0.1% | -0.2% |
-| 08:15 | EUR | HCOB Spain Manufacturing PMI (Oct) | 52.1 | 51.8 | 51.5 |
-| 08:30 | CHF | procure.ch Manufacturing PMI (Oct) | 48.2 | 47.7 | 46.3 |
-| 08:45 | EUR | HCOB Italy Manufacturing PMI (Oct) | 49.9 | 49.3 | 49.0 |
-| 08:50 | EUR | HCOB France Manufacturing PMI (Oct) | 48.8 | 48.3 | 48.8 |
-| 08:55 | EUR | HCOB Germany Manufacturing PMI (Oct) | 49.6 | 49.6 | 49.6 |
-| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Oct) | 50.0 | 50.0 | 50.0 |
-| 09:30 | GBP | S&P Global Manufacturing PMI (Oct) | 49.7 | 49.6 | 49.7 |
-| 12:00 | EUR | ECB's Lane Speaks |  |  |  |
-| 15:00 | USD | ISM Manufacturing Employment (Oct) | 46.0 |  | 45.3 |
-| 17:00 | USD | FOMC Member Daly Speaks |  |  |  |
-| 17:20 | EUR | German Buba Balz Speaks |  |  |  |
-| 18:30 | CAD | BoC Gov Macklem Speaks |  |  |  |
+| 03:30 | AUD | RBA Rate Statement |  |  |  |
+| 04:30 | AUD | RBA Monetary Policy Statement |  |  |  |
+| 07:40 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 08:00 | EUR | Spanish Unemployment Change (Oct) |  | 5.2K | -4.8K |
+| 08:00 | NZD | RBNZ Financial Stability Report |  |  |  |
+| 09:00 | BRL | IPC-Fipe Inflation Index (MoM) (Oct) |  |  | 0.65% |
+| 10:00 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 11:35 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 12:00 | EUR | German Buba Balz Speaks |  |  |  |
+| 12:00 | BRL | Industrial Production (YoY) (Sep) |  |  | -0.7% |
+| 13:30 | USD | Exports (Aug) |  |  | 280.50B |
+| 13:30 | USD | Imports (Aug) |  |  | 358.80B |
+| 13:30 | USD | Trade Balance (Aug) |  | -60.40B | -78.30B |
+| 13:30 | CAD | Trade Balance (Sep) |  |  | -6.32B |
+| 15:00 | USD | Factory Orders (MoM) |  | 1.4% | -1.3% |
+| 17:00 | USD | Atlanta Fed GDPNow (Q4) |  |  |  |
+| 17:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 20:00 | NZD | RBNZ Financial Stability Report |  |  |  |
+| 21:30 | USD | API Weekly Crude Oil Stock |  |  | -4.000M |
+| 22:00 | NZD | RBNZ Gov Orr Speaks |  |  |  |
+| 23:50 | JPY | Monetary Policy Meeting Minutes |  |  |  |

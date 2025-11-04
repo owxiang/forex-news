@@ -1,58 +1,62 @@
-## 03 November 2025 - All Forex News
+## 04 November 2025 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | AUD | Low | MI Inflation Gauge (MoM) (Oct) | 0.3% |  | 0.4% |
-| 00:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Oct) | 49.4 |  | 50.7 |
-| 00:30 | AUD | Low | ANZ Job Advertisements (MoM) (Oct) | -2.2% |  | -3.5% |
-| 00:30 | AUD | Low | Building Approvals (YoY) (Sep) | 12.40% |  | -0.70% |
-| 00:30 | AUD | Moderate | Building Approvals (MoM) (Sep) | 12.0% | 5.1% | -3.6% |
-| 00:30 | AUD | Low | Private House Approvals (Sep) | 4.0% |  | -1.0% |
-| 00:30 | IDR | Low | S&P Global Manufacturing PMI (Oct) | 51.2 |  | 50.4 |
-| 01:45 | CNY | Moderate | Caixin Manufacturing PMI (MoM) (Oct) | 50.6 | 50.7 | 51.2 |
-| 04:00 | IDR | Low | Core Inflation (YoY) (Oct) | 2.36% |  | 2.19% |
-| 04:00 | IDR | Low | Export Growth (YoY) (Sep) | 11.41% | 7.72% | 5.78% |
-| 04:00 | IDR | Low | Import Growth (YoY) (Sep) | 7.17% | 1.00% | -6.56% |
-| 04:00 | IDR | Low | Inflation (YoY) (Oct) | 2.86% |  | 2.65% |
-| 04:00 | IDR | Low | Inflation (MoM) (Oct) | 0.28% |  | 0.21% |
-| 04:00 | IDR | Low | Trade Balance (Sep) | 4.34B | 4.79B | 5.49B |
-| 05:00 | INR | Low | S&P Global Manufacturing PMI (Oct) | 59.2 |  | 58.4 |
-| 05:30 | AUD | Low | Commodity Prices (YoY) (Oct) | -1.3% |  | 0.1% |
-| 07:30 | CHF | Moderate | CPI (MoM) (Oct) | -0.3% | -0.1% | -0.2% |
-| 07:30 | CHF | Low | CPI (YoY) (Oct) | 0.1% | 0.3% | 0.2% |
-| 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Oct) | 52.1 | 51.8 | 51.5 |
-| 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (Oct) | 48.2 | 47.7 | 46.3 |
-| 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Oct) | 49.9 | 49.3 | 49.0 |
-| 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (Oct) | 48.8 | 48.3 | 48.8 |
-| 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Oct) | 49.6 | 49.6 | 49.6 |
-| 09:00 | NOK | Low | Manufacturing PMI (Oct) | 47.7 |  | 49.7 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Oct) | 50.0 | 50.0 | 50.0 |
-| 09:00 | ZAR | Low | Manufacturing PMI (Oct) | 49.2 |  | 50.8 |
-| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Oct) | 49.7 | 49.6 | 49.7 |
-| 11:00 | EUR | Low | Car Registration (MoM) (Oct) | 13.60% |  | 38.90% |
-| 11:00 | EUR | Low | Car Registration (YoY) (Oct) | 15.90% |  | 16.40% |
-| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 12:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 12:00 | ZAR | Low | Total Vehicle Sales (YoY) (Oct) | 16.00% |  | 24.30% |
-| 12:00 | ZAR | Low | Total Vehicle Sales (Oct) | 55.96K |  | 54.69K |
-| 13:00 | BRL | Low | S&P Global Manufacturing PMI (Oct) | 48.2 |  | 46.5 |
-| 13:00 | SGD | Low | S&P Global Manufacturing PMI (Oct) | 50.0 |  | 50.1 |
-| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.059% |  | 2.053% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.010% |  | 2.011% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.029% |  | 2.015% |
-| 14:30 | CAD | Low | S&P Global Manufacturing PMI (Oct) | 49.6 | 48.2 | 47.7 |
-| 14:45 | USD | High | S&P Global Manufacturing PMI (Oct) | 52.5 | 52.2 | 52.2 |
-| 15:00 | USD | Moderate | ISM Manufacturing Employment (Oct) | 46.0 |  | 45.3 |
-| 15:00 | USD | Low | ISM Manufacturing New Orders Index (Oct) | 49.4 |  | 48.9 |
-| 15:00 | USD | High | ISM Manufacturing PMI (Oct) | 48.7 | 49.4 | 49.1 |
-| 15:00 | USD | High | ISM Manufacturing Prices (Oct) | 58.0 | 62.4 | 61.9 |
-| 15:00 | MXN | Low | S&P Global Manufacturing PMI (Oct) | 49.50 |  | 49.60 |
-| 16:30 | USD | Low | 3-Month Bill Auction | 3.815% |  | 3.730% |
-| 16:30 | USD | Low | 6-Month Bill Auction | 3.700% |  | 3.640% |
-| 17:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
-| 17:20 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 18:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
-| 19:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 19:00 | USD | Low | Loan Officer Survey |  |  |  |
-| 23:00 | KRW | Low | CPI (YoY) (Oct) | 2.4% | 2.1% | 2.1% |
-| 23:00 | KRW | Low | CPI (MoM) (Oct) | 0.3% | 0.0% | 0.5% |
+| 00:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Oct) | 48.2 | 48.3 | 48.3 |
+| 03:30 | AUD | High | RBA Interest Rate Decision (Nov) |  | 3.60% | 3.60% |
+| 03:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
+| 04:30 | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
+| 05:00 | INR | Low | S&P Global Manufacturing PMI (Oct) |  | 58.4 | 57.7 |
+| 07:40 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 07:45 | EUR | Low | French Government Budget Balance (Sep) |  |  | -157.5B |
+| 08:00 | EUR | Low | French Car Registration (YoY) (Oct) |  |  | 1.0% |
+| 08:00 | EUR | Moderate | Spanish Unemployment Change (Oct) |  | 5.2K | -4.8K |
+| 08:00 | NZD | Moderate | RBNZ Financial Stability Report |  |  |  |
+| 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Oct) |  |  | 0.65% |
+| 09:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.006% |
+| 09:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 1.937% |
+| 10:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 10:15 | EUR | Low | Car Registration (YoY) (Oct) |  |  | 16.40% |
+| 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 1.910% |
+| 11:00 | EUR | Low | Car Registration (MoM) (Oct) |  |  | 38.90% |
+| 11:00 | EUR | Low | Car Registration (MoM) (Oct) |  |  | 38.90% |
+| 11:00 | EUR | Low | Car Registration (YoY) (Oct) |  |  | 16.40% |
+| 11:35 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 12:00 | MXN | Low | Consumer Confidence (Oct) |  |  | 46.5 |
+| 12:00 | MXN | Low | Consumer Confidence n.s.a. (Oct) |  |  | 46.1 |
+| 12:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 12:00 | BRL | Moderate | Industrial Production (YoY) (Sep) |  |  | -0.7% |
+| 12:00 | BRL | Low | Industrial Production (MoM) (Sep) |  |  | 0.8% |
+| 12:00 | USD | Low | Milk Auctions |  |  | 3,881.0 |
+| 13:00 | GBP | Low | BoE Breeden Speaks |  |  |  |
+| 13:30 | USD | Moderate | Exports (Aug) |  |  | 280.50B |
+| 13:30 | USD | Moderate | Imports (Aug) |  |  | 358.80B |
+| 13:30 | USD | Moderate | Trade Balance (Aug) |  | -60.40B | -78.30B |
+| 13:30 | CAD | Low | Exports (Sep) |  |  | 60.58B |
+| 13:30 | CAD | Low | Imports (Sep) |  |  | 66.91B |
+| 13:30 | CAD | Moderate | Trade Balance (Sep) |  |  | -6.32B |
+| 13:55 | USD | Low | Redbook (YoY) |  |  | 5.2% |
+| 15:00 | USD | Moderate | Factory Orders (MoM) |  | 1.4% | -1.3% |
+| 15:00 | USD | Low | Factory orders ex transportation (MoM) (Aug) |  |  | 0.6% |
+| 15:00 | USD | High | JOLTS Job Openings (Sep) |  |  | 7.227M |
+| 15:00 | USD | Low | Total Vehicle Sales (Oct) |  | 15.60M | 16.40M |
+| 15:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 21.9% |
+| 15:10 | USD | Low | IBD/TIPP Economic Optimism (Nov) |  | 48.1 | 48.3 |
+| 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  |  |  |
+| 17:00 | EUR | Low | Italian Car Registration (YoY) (Oct) |  |  | 4.2% |
+| 17:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 20:00 | NZD | Moderate | RBNZ Financial Stability Report |  |  |  |
+| 21:00 | KRW | Low | FX Reserves - USD (Oct) |  |  | 422.02B |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -4.000M |
+| 21:45 | NZD | Low | Employment Change (QoQ) (Q3) |  | 0.1% | -0.1% |
+| 21:45 | NZD | Low | Labor Cost Index (QoQ) (Q3) |  | 0.5% | 0.6% |
+| 21:45 | NZD | Low | Labor Cost Index (YoY) (Q3) |  | 2.1% | 2.2% |
+| 21:45 | NZD | Low | Participation Rate (Q3) |  |  | 70.50% |
+| 21:45 | NZD | Low | Unemployment Rate (Q3) |  | 5.3% | 5.2% |
+| 22:00 | AUD | Low | AIG Construction Index (Oct) |  |  | 12.3 |
+| 22:00 | AUD | Low | AIG Manufacturing Index (Oct) |  |  | -13.2 |
+| 22:00 | AUD | Low | Manufacturing & Services PMI (Oct) |  | 52.60 | 52.60 |
+| 22:00 | AUD | Low | Judo Bank Services PMI (Oct) |  | 53.1 | 53.1 |
+| 22:00 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
+| 23:50 | JPY | Low | Monetary Base (YoY) (Oct) |  | -5.0% | -6.1% |
+| 23:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |

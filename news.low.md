@@ -1,40 +1,39 @@
-## 03 November 2025 - Low Impact Forex News
+## 04 November 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | AUD | MI Inflation Gauge (MoM) (Oct) | 0.3% |  | 0.4% |
-| 00:30 | KRW | S&P Global South Korea Manufacturing PMI (Oct) | 49.4 |  | 50.7 |
-| 00:30 | AUD | ANZ Job Advertisements (MoM) (Oct) | -2.2% |  | -3.5% |
-| 00:30 | AUD | Building Approvals (YoY) (Sep) | 12.40% |  | -0.70% |
-| 00:30 | AUD | Private House Approvals (Sep) | 4.0% |  | -1.0% |
-| 00:30 | IDR | S&P Global Manufacturing PMI (Oct) | 51.2 |  | 50.4 |
-| 04:00 | IDR | Core Inflation (YoY) (Oct) | 2.36% |  | 2.19% |
-| 04:00 | IDR | Export Growth (YoY) (Sep) | 11.41% | 7.72% | 5.78% |
-| 04:00 | IDR | Import Growth (YoY) (Sep) | 7.17% | 1.00% | -6.56% |
-| 04:00 | IDR | Inflation (YoY) (Oct) | 2.86% |  | 2.65% |
-| 04:00 | IDR | Inflation (MoM) (Oct) | 0.28% |  | 0.21% |
-| 04:00 | IDR | Trade Balance (Sep) | 4.34B | 4.79B | 5.49B |
-| 05:00 | INR | S&P Global Manufacturing PMI (Oct) | 59.2 |  | 58.4 |
-| 05:30 | AUD | Commodity Prices (YoY) (Oct) | -1.3% |  | 0.1% |
-| 07:30 | CHF | CPI (YoY) (Oct) | 0.1% | 0.3% | 0.2% |
-| 09:00 | NOK | Manufacturing PMI (Oct) | 47.7 |  | 49.7 |
-| 09:00 | ZAR | Manufacturing PMI (Oct) | 49.2 |  | 50.8 |
-| 11:00 | EUR | Car Registration (MoM) (Oct) | 13.60% |  | 38.90% |
-| 11:00 | EUR | Car Registration (YoY) (Oct) | 15.90% |  | 16.40% |
-| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:00 | ZAR | Total Vehicle Sales (YoY) (Oct) | 16.00% |  | 24.30% |
-| 12:00 | ZAR | Total Vehicle Sales (Oct) | 55.96K |  | 54.69K |
-| 13:00 | BRL | S&P Global Manufacturing PMI (Oct) | 48.2 |  | 46.5 |
-| 13:00 | SGD | S&P Global Manufacturing PMI (Oct) | 50.0 |  | 50.1 |
-| 14:00 | EUR | French 12-Month BTF Auction | 2.059% |  | 2.053% |
-| 14:00 | EUR | French 3-Month BTF Auction | 2.010% |  | 2.011% |
-| 14:00 | EUR | French 6-Month BTF Auction | 2.029% |  | 2.015% |
-| 14:30 | CAD | S&P Global Manufacturing PMI (Oct) | 49.6 | 48.2 | 47.7 |
-| 15:00 | USD | ISM Manufacturing New Orders Index (Oct) | 49.4 |  | 48.9 |
-| 15:00 | MXN | S&P Global Manufacturing PMI (Oct) | 49.50 |  | 49.60 |
-| 16:30 | USD | 3-Month Bill Auction | 3.815% |  | 3.730% |
-| 16:30 | USD | 6-Month Bill Auction | 3.700% |  | 3.640% |
-| 19:00 | USD | Fed Governor Cook Speaks |  |  |  |
-| 19:00 | USD | Loan Officer Survey |  |  |  |
-| 23:00 | KRW | CPI (YoY) (Oct) | 2.4% | 2.1% | 2.1% |
-| 23:00 | KRW | CPI (MoM) (Oct) | 0.3% | 0.0% | 0.5% |
+| 00:30 | JPY | au Jibun Bank Manufacturing PMI (Oct) | 48.2 | 48.3 | 48.3 |
+| 05:00 | INR | S&P Global Manufacturing PMI (Oct) |  | 58.4 | 57.7 |
+| 07:45 | EUR | French Government Budget Balance (Sep) |  |  | -157.5B |
+| 08:00 | EUR | French Car Registration (YoY) (Oct) |  |  | 1.0% |
+| 09:40 | EUR | Spanish 12-Month Letras Auction |  |  | 2.006% |
+| 09:40 | EUR | Spanish 6-Month Letras Auction |  |  | 1.937% |
+| 10:15 | EUR | Car Registration (YoY) (Oct) |  |  | 16.40% |
+| 10:30 | EUR | German 2-Year Schatz Auction |  |  | 1.910% |
+| 11:00 | EUR | Car Registration (MoM) (Oct) |  |  | 38.90% |
+| 11:00 | EUR | Car Registration (MoM) (Oct) |  |  | 38.90% |
+| 11:00 | EUR | Car Registration (YoY) (Oct) |  |  | 16.40% |
+| 12:00 | MXN | Consumer Confidence (Oct) |  |  | 46.5 |
+| 12:00 | MXN | Consumer Confidence n.s.a. (Oct) |  |  | 46.1 |
+| 12:00 | BRL | Industrial Production (MoM) (Sep) |  |  | 0.8% |
+| 12:00 | USD | Milk Auctions |  |  | 3,881.0 |
+| 13:00 | GBP | BoE Breeden Speaks |  |  |  |
+| 13:30 | CAD | Exports (Sep) |  |  | 60.58B |
+| 13:30 | CAD | Imports (Sep) |  |  | 66.91B |
+| 13:55 | USD | Redbook (YoY) |  |  | 5.2% |
+| 15:00 | USD | Factory orders ex transportation (MoM) (Aug) |  |  | 0.6% |
+| 15:00 | USD | Total Vehicle Sales (Oct) |  | 15.60M | 16.40M |
+| 15:00 | NZD | GlobalDairyTrade Price Index |  |  | 21.9% |
+| 15:10 | USD | IBD/TIPP Economic Optimism (Nov) |  | 48.1 | 48.3 |
+| 17:00 | EUR | Italian Car Registration (YoY) (Oct) |  |  | 4.2% |
+| 21:00 | KRW | FX Reserves - USD (Oct) |  |  | 422.02B |
+| 21:45 | NZD | Employment Change (QoQ) (Q3) |  | 0.1% | -0.1% |
+| 21:45 | NZD | Labor Cost Index (QoQ) (Q3) |  | 0.5% | 0.6% |
+| 21:45 | NZD | Labor Cost Index (YoY) (Q3) |  | 2.1% | 2.2% |
+| 21:45 | NZD | Participation Rate (Q3) |  |  | 70.50% |
+| 21:45 | NZD | Unemployment Rate (Q3) |  | 5.3% | 5.2% |
+| 22:00 | AUD | AIG Construction Index (Oct) |  |  | 12.3 |
+| 22:00 | AUD | AIG Manufacturing Index (Oct) |  |  | -13.2 |
+| 22:00 | AUD | Manufacturing & Services PMI (Oct) |  | 52.60 | 52.60 |
+| 22:00 | AUD | Judo Bank Services PMI (Oct) |  | 53.1 | 53.1 |
+| 23:50 | JPY | Monetary Base (YoY) (Oct) |  | -5.0% | -6.1% |
