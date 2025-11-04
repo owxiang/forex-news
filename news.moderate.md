@@ -12,7 +12,6 @@
 | 11:35 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 12:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 12:00 | BRL | Industrial Production (YoY) (Sep) | 2.0% | 1.7% | -0.7% |
-| 53 min | USD | Factory Orders (MoM) |  | 1.4% | -1.3% |
 | 17:00 | USD | Atlanta Fed GDPNow (Q4) |  |  |  |
 | 17:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 20:00 | NZD | RBNZ Financial Stability Report |  |  |  |

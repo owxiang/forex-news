@@ -25,13 +25,8 @@
 | 12:00 | BRL | Low | Industrial Production (MoM) (Sep) | -0.4% | -0.5% | 0.7% |
 | 13:00 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 13:55 | USD | Low | Redbook (YoY) | 5.7% |  | 5.2% |
-| 53 min | USD | Moderate | Factory Orders (MoM) |  | 1.4% | -1.3% |
-| 53 min | USD | Low | Factory orders ex transportation (MoM) (Aug) |  |  | 0.6% |
-| 53 min | USD | High | JOLTS Job Openings (Sep) |  |  | 7.227M |
-| 53 min | NZD | Low | GlobalDairyTrade Price Index |  |  | 21.9% |
-| 53 min | USD | Low | Milk Auctions |  |  | 3,881.0 |
-| 15:10 | USD | Low | IBD/TIPP Economic Optimism (Nov) |  | 48.1 | 48.3 |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  |  |  |
+| 17:00 | USD | Low | IBD/TIPP Economic Optimism (Nov) |  | 48.1 | 48.3 |
 | 17:00 | EUR | Low | Italian Car Registration (YoY) (Oct) |  |  | 4.2% |
 | 17:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 20:00 | NZD | Moderate | RBNZ Financial Stability Report |  |  |  |

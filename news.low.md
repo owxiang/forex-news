@@ -14,10 +14,7 @@
 | 12:00 | BRL | Industrial Production (MoM) (Sep) | -0.4% | -0.5% | 0.7% |
 | 13:00 | GBP | BoE Breeden Speaks |  |  |  |
 | 13:55 | USD | Redbook (YoY) | 5.7% |  | 5.2% |
-| 53 min | USD | Factory orders ex transportation (MoM) (Aug) |  |  | 0.6% |
-| 53 min | NZD | GlobalDairyTrade Price Index |  |  | 21.9% |
-| 53 min | USD | Milk Auctions |  |  | 3,881.0 |
-| 15:10 | USD | IBD/TIPP Economic Optimism (Nov) |  | 48.1 | 48.3 |
+| 17:00 | USD | IBD/TIPP Economic Optimism (Nov) |  | 48.1 | 48.3 |
 | 17:00 | EUR | Italian Car Registration (YoY) (Oct) |  |  | 4.2% |
 | 21:00 | KRW | FX Reserves - USD (Oct) |  |  | 422.02B |
 | 21:45 | NZD | Employment Change (QoQ) (Q3) |  | 0.1% | -0.1% |
