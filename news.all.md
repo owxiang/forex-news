@@ -19,18 +19,15 @@
 | 10:30 | EUR | Low | German 2-Year Schatz Auction | 1.980% |  | 1.910% |
 | 11:35 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 12:00 | MXN | Low | Consumer Confidence (Oct) | 46.1 |  | 46.5 |
-| 12:00 | MXN | Low | Consumer Confidence n.s.a. (Oct) |  |  | 46.1 |
+| 12:00 | MXN | Low | Consumer Confidence n.s.a. (Oct) | 45.7 |  | 46.1 |
 | 12:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 12:00 | BRL | Moderate | Industrial Production (YoY) (Sep) | 2.0% |  | -0.7% |
-| 12:00 | BRL | Low | Industrial Production (MoM) (Sep) | -0.4% |  | 0.7% |
-| 48 min | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 13:30 | USD | Moderate | Exports (Aug) |  |  | 280.50B |
-| 13:30 | USD | Moderate | Imports (Aug) |  |  | 358.80B |
-| 13:30 | USD | Moderate | Trade Balance (Aug) |  | -60.40B | -78.30B |
-| 13:30 | CAD | Low | Exports (Sep) |  |  | 60.58B |
-| 13:30 | CAD | Low | Imports (Sep) |  |  | 66.91B |
-| 13:30 | CAD | Moderate | Trade Balance (Sep) |  |  | -6.32B |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 5.2% |
+| 12:00 | BRL | Moderate | Industrial Production (YoY) (Sep) | 2.0% | 1.7% | -0.7% |
+| 12:00 | BRL | Low | Industrial Production (MoM) (Sep) | -0.4% | -0.5% | 0.7% |
+| 13:00 | GBP | Low | BoE Breeden Speaks |  |  |  |
+| 11 min | CAD | Low | Exports (Sep) |  |  | 60.58B |
+| 11 min | CAD | Low | Imports (Sep) |  |  | 66.91B |
+| 11 min | CAD | Moderate | Trade Balance (Sep) |  |  | -6.32B |
+| 36 min | USD | Low | Redbook (YoY) |  |  | 5.2% |
 | 15:00 | USD | Moderate | Factory Orders (MoM) |  | 1.4% | -1.3% |
 | 15:00 | USD | Low | Factory orders ex transportation (MoM) (Aug) |  |  | 0.6% |
 | 15:00 | USD | High | JOLTS Job Openings (Sep) |  |  | 7.227M |
@@ -51,7 +48,7 @@
 | 22:00 | AUD | Low | AIG Construction Index (Oct) |  |  | 12.3 |
 | 22:00 | AUD | Low | AIG Manufacturing Index (Oct) |  |  | -13.2 |
 | 22:00 | AUD | Low | Manufacturing & Services PMI (Oct) |  | 52.60 | 52.60 |
-| 22:00 | AUD | Low | Judo Bank Services PMI (Oct) |  | 53.1 | 53.1 |
+| 22:00 | AUD | Low | Judo Bank Services PMI (Oct) |  | 53.1 | 52.4 |
 | 22:00 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
 | 23:50 | JPY | Low | Monetary Base (YoY) (Oct) |  | -4.8% | -6.1% |
 | 23:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |

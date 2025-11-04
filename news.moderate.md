@@ -11,11 +11,8 @@
 | 10:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 11:35 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 12:00 | EUR | German Buba Balz Speaks |  |  |  |
-| 12:00 | BRL | Industrial Production (YoY) (Sep) | 2.0% |  | -0.7% |
-| 13:30 | USD | Exports (Aug) |  |  | 280.50B |
-| 13:30 | USD | Imports (Aug) |  |  | 358.80B |
-| 13:30 | USD | Trade Balance (Aug) |  | -60.40B | -78.30B |
-| 13:30 | CAD | Trade Balance (Sep) |  |  | -6.32B |
+| 12:00 | BRL | Industrial Production (YoY) (Sep) | 2.0% | 1.7% | -0.7% |
+| 11 min | CAD | Trade Balance (Sep) |  |  | -6.32B |
 | 15:00 | USD | Factory Orders (MoM) |  | 1.4% | -1.3% |
 | 17:00 | USD | Atlanta Fed GDPNow (Q4) |  |  |  |
 | 17:00 | EUR | German Buba President Nagel Speaks |  |  |  |

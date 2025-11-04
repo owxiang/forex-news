@@ -10,12 +10,12 @@
 | 10:30 | GBP | 5-Year Treasury Gilt Auction | 3.845% |  | 4.004% |
 | 10:30 | EUR | German 2-Year Schatz Auction | 1.980% |  | 1.910% |
 | 12:00 | MXN | Consumer Confidence (Oct) | 46.1 |  | 46.5 |
-| 12:00 | MXN | Consumer Confidence n.s.a. (Oct) |  |  | 46.1 |
-| 12:00 | BRL | Industrial Production (MoM) (Sep) | -0.4% |  | 0.7% |
-| 48 min | GBP | BoE Breeden Speaks |  |  |  |
-| 13:30 | CAD | Exports (Sep) |  |  | 60.58B |
-| 13:30 | CAD | Imports (Sep) |  |  | 66.91B |
-| 13:55 | USD | Redbook (YoY) |  |  | 5.2% |
+| 12:00 | MXN | Consumer Confidence n.s.a. (Oct) | 45.7 |  | 46.1 |
+| 12:00 | BRL | Industrial Production (MoM) (Sep) | -0.4% | -0.5% | 0.7% |
+| 13:00 | GBP | BoE Breeden Speaks |  |  |  |
+| 11 min | CAD | Exports (Sep) |  |  | 60.58B |
+| 11 min | CAD | Imports (Sep) |  |  | 66.91B |
+| 36 min | USD | Redbook (YoY) |  |  | 5.2% |
 | 15:00 | USD | Factory orders ex transportation (MoM) (Aug) |  |  | 0.6% |
 | 15:00 | NZD | GlobalDairyTrade Price Index |  |  | 21.9% |
 | 15:00 | USD | Milk Auctions |  |  | 3,881.0 |
@@ -30,5 +30,5 @@
 | 22:00 | AUD | AIG Construction Index (Oct) |  |  | 12.3 |
 | 22:00 | AUD | AIG Manufacturing Index (Oct) |  |  | -13.2 |
 | 22:00 | AUD | Manufacturing & Services PMI (Oct) |  | 52.60 | 52.60 |
-| 22:00 | AUD | Judo Bank Services PMI (Oct) |  | 53.1 | 53.1 |
+| 22:00 | AUD | Judo Bank Services PMI (Oct) |  | 53.1 | 52.4 |
 | 23:50 | JPY | Monetary Base (YoY) (Oct) |  | -4.8% | -6.1% |
