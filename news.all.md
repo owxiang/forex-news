@@ -7,7 +7,6 @@
 | 03:30 | AUD | High | RBA Interest Rate Decision (Nov) | 3.60% | 3.60% | 3.60% |
 | 03:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
 | 04:30 | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
-| 05:00 | INR | Low | S&P Global Manufacturing PMI (Oct) |  | 58.4 | 57.7 |
 | 07:40 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 07:45 | EUR | Low | French Government Budget Balance (Sep) |  |  | -157.5B |
 | 08:00 | EUR | Low | French Car Registration (YoY) (Oct) |  |  | 1.0% |
@@ -17,18 +16,14 @@
 | 09:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.006% |
 | 09:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 1.937% |
 | 10:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 10:15 | EUR | Low | Car Registration (YoY) (Oct) |  |  | 16.40% |
+| 10:10 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.004% |
 | 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 1.910% |
-| 11:00 | EUR | Low | Car Registration (MoM) (Oct) |  |  | 38.90% |
-| 11:00 | EUR | Low | Car Registration (MoM) (Oct) |  |  | 38.90% |
-| 11:00 | EUR | Low | Car Registration (YoY) (Oct) |  |  | 16.40% |
 | 11:35 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 12:00 | MXN | Low | Consumer Confidence (Oct) |  |  | 46.5 |
 | 12:00 | MXN | Low | Consumer Confidence n.s.a. (Oct) |  |  | 46.1 |
 | 12:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 12:00 | BRL | Moderate | Industrial Production (YoY) (Sep) |  |  | -0.7% |
 | 12:00 | BRL | Low | Industrial Production (MoM) (Sep) |  |  | 0.8% |
-| 12:00 | USD | Low | Milk Auctions |  |  | 3,881.0 |
 | 13:00 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 13:30 | USD | Moderate | Exports (Aug) |  |  | 280.50B |
 | 13:30 | USD | Moderate | Imports (Aug) |  |  | 358.80B |
@@ -41,6 +36,7 @@
 | 15:00 | USD | Low | Factory orders ex transportation (MoM) (Aug) |  |  | 0.6% |
 | 15:00 | USD | High | JOLTS Job Openings (Sep) |  |  | 7.227M |
 | 15:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 21.9% |
+| 15:00 | USD | Low | Milk Auctions |  |  | 3,881.0 |
 | 15:10 | USD | Low | IBD/TIPP Economic Optimism (Nov) |  | 48.1 | 48.3 |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  |  |  |
 | 17:00 | EUR | Low | Italian Car Registration (YoY) (Oct) |  |  | 4.2% |
@@ -58,5 +54,5 @@
 | 22:00 | AUD | Low | Manufacturing & Services PMI (Oct) |  | 52.60 | 52.60 |
 | 22:00 | AUD | Low | Judo Bank Services PMI (Oct) |  | 53.1 | 53.1 |
 | 22:00 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
-| 23:50 | JPY | Low | Monetary Base (YoY) (Oct) |  | -5.0% | -6.1% |
+| 23:50 | JPY | Low | Monetary Base (YoY) (Oct) |  | -4.8% | -6.1% |
 | 23:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
