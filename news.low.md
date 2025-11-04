@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | USD | Total Vehicle Sales (Oct) | 15.30M | 15.60M | 16.40M |
 | 00:30 | JPY | au Jibun Bank Manufacturing PMI (Oct) | 48.2 | 48.3 | 48.3 |
-| 05:00 | INR | S&P Global Manufacturing PMI (Oct) |  | 58.4 | 57.7 |
+| 52 min | INR | S&P Global Manufacturing PMI (Oct) |  | 58.4 | 57.7 |
 | 07:45 | EUR | French Government Budget Balance (Sep) |  |  | -157.5B |
 | 08:00 | EUR | French Car Registration (YoY) (Oct) |  |  | 1.0% |
 | 09:40 | EUR | Spanish 12-Month Letras Auction |  |  | 2.006% |

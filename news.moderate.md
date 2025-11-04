@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 4 min | AUD | RBA Rate Statement |  |  |  |
-| 04:30 | AUD | RBA Monetary Policy Statement |  |  |  |
+| 03:30 | AUD | RBA Rate Statement |  |  |  |
+| 22 min | AUD | RBA Monetary Policy Statement |  |  |  |
 | 07:40 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 08:00 | EUR | Spanish Unemployment Change (Oct) |  | 5.2K | -4.8K |
 | 08:00 | NZD | RBNZ Financial Stability Report |  |  |  |
