@@ -27,13 +27,13 @@
 | 17:00 | USD | OPEC Crude oil Production UAE (Barrel) | 3.36M |  | 3.35M |
 | 17:00 | USD | OPEC Crude oil Production Venezuela (Barrel) | 0.93M |  | 0.95M |
 | 21:00 | KRW | FX Reserves - USD (Oct) | 428.82B |  | 422.02B |
-| 38 min | NZD | Employment Change (QoQ) (Q3) |  | 0.1% | -0.1% |
-| 38 min | NZD | Labor Cost Index (QoQ) (Q3) |  | 0.5% | 0.6% |
-| 38 min | NZD | Labor Cost Index (YoY) (Q3) |  | 2.1% | 2.2% |
-| 38 min | NZD | Participation Rate (Q3) |  |  | 70.50% |
-| 38 min | NZD | Unemployment Rate (Q3) |  | 5.3% | 5.2% |
-| 53 min | AUD | AIG Construction Index (Oct) |  |  | 12.3 |
-| 53 min | AUD | AIG Manufacturing Index (Oct) |  |  | -13.2 |
-| 53 min | AUD | Manufacturing & Services PMI (Oct) |  | 52.60 | 52.60 |
-| 53 min | AUD | Judo Bank Services PMI (Oct) |  | 53.1 | 52.4 |
+| 21:45 | NZD | Employment Change (QoQ) (Q3) | 0.0% | 0.1% | -0.2% |
+| 21:45 | NZD | Labor Cost Index (QoQ) (Q3) | 0.5% | 0.5% | 0.6% |
+| 21:45 | NZD | Labor Cost Index (YoY) (Q3) | 2.1% | 2.1% | 2.2% |
+| 21:45 | NZD | Participation Rate (Q3) | 70.30% |  | 70.50% |
+| 21:45 | NZD | Unemployment Rate (Q3) | 5.3% | 5.3% | 5.2% |
+| 22:00 | AUD | AIG Construction Index (Oct) | -7.1 |  | 12.3 |
+| 22:00 | AUD | AIG Manufacturing Index (Oct) | -22.0 |  | -13.2 |
+| 22:00 | AUD | Manufacturing & Services PMI (Oct) | 52.10 | 52.60 | 52.60 |
+| 22:00 | AUD | Judo Bank Services PMI (Oct) | 52.5 | 53.1 | 52.4 |
 | 23:50 | JPY | Monetary Base (YoY) (Oct) |  | -4.8% | -6.1% |

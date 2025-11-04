@@ -40,16 +40,16 @@
 | 17:00 | USD | Low | OPEC Crude oil Production Venezuela (Barrel) | 0.93M |  | 0.95M |
 | 20:00 | NZD | Moderate | RBNZ Financial Stability Report |  |  |  |
 | 21:00 | KRW | Low | FX Reserves - USD (Oct) | 428.82B |  | 422.02B |
-| 23 min | USD | Moderate | API Weekly Crude Oil Stock |  |  | -4.000M |
-| 38 min | NZD | Low | Employment Change (QoQ) (Q3) |  | 0.1% | -0.1% |
-| 38 min | NZD | Low | Labor Cost Index (QoQ) (Q3) |  | 0.5% | 0.6% |
-| 38 min | NZD | Low | Labor Cost Index (YoY) (Q3) |  | 2.1% | 2.2% |
-| 38 min | NZD | Low | Participation Rate (Q3) |  |  | 70.50% |
-| 38 min | NZD | Low | Unemployment Rate (Q3) |  | 5.3% | 5.2% |
-| 53 min | AUD | Low | AIG Construction Index (Oct) |  |  | 12.3 |
-| 53 min | AUD | Low | AIG Manufacturing Index (Oct) |  |  | -13.2 |
-| 53 min | AUD | Low | Manufacturing & Services PMI (Oct) |  | 52.60 | 52.60 |
-| 53 min | AUD | Low | Judo Bank Services PMI (Oct) |  | 53.1 | 52.4 |
-| 53 min | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | 6.500M | -2.400M | -4.000M |
+| 21:45 | NZD | Low | Employment Change (QoQ) (Q3) | 0.0% | 0.1% | -0.2% |
+| 21:45 | NZD | Low | Labor Cost Index (QoQ) (Q3) | 0.5% | 0.5% | 0.6% |
+| 21:45 | NZD | Low | Labor Cost Index (YoY) (Q3) | 2.1% | 2.1% | 2.2% |
+| 21:45 | NZD | Low | Participation Rate (Q3) | 70.30% |  | 70.50% |
+| 21:45 | NZD | Low | Unemployment Rate (Q3) | 5.3% | 5.3% | 5.2% |
+| 22:00 | AUD | Low | AIG Construction Index (Oct) | -7.1 |  | 12.3 |
+| 22:00 | AUD | Low | AIG Manufacturing Index (Oct) | -22.0 |  | -13.2 |
+| 22:00 | AUD | Low | Manufacturing & Services PMI (Oct) | 52.10 | 52.60 | 52.60 |
+| 22:00 | AUD | Low | Judo Bank Services PMI (Oct) | 52.5 | 53.1 | 52.4 |
+| 22:00 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
 | 23:50 | JPY | Low | Monetary Base (YoY) (Oct) |  | -4.8% | -6.1% |
 | 23:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
