@@ -9,9 +9,9 @@
 | 08:00 | NZD | RBNZ Financial Stability Report |  |  |  |
 | 09:00 | BRL | IPC-Fipe Inflation Index (MoM) (Oct) | 0.27% |  | 0.65% |
 | 10:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 29 min | USD | FOMC Member Bowman Speaks |  |  |  |
-| 54 min | EUR | German Buba Balz Speaks |  |  |  |
-| 54 min | BRL | Industrial Production (YoY) (Sep) |  |  | -0.7% |
+| 11:35 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 12:00 | EUR | German Buba Balz Speaks |  |  |  |
+| 12:00 | BRL | Industrial Production (YoY) (Sep) | 2.0% |  | -0.7% |
 | 13:30 | USD | Exports (Aug) |  |  | 280.50B |
 | 13:30 | USD | Imports (Aug) |  |  | 358.80B |
 | 13:30 | USD | Trade Balance (Aug) |  | -60.40B | -78.30B |

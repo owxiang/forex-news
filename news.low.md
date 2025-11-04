@@ -9,10 +9,10 @@
 | 10:00 | EUR | Spanish 6-Month Letras Auction | 1.944% |  | 1.937% |
 | 10:30 | GBP | 5-Year Treasury Gilt Auction | 3.845% |  | 4.004% |
 | 10:30 | EUR | German 2-Year Schatz Auction | 1.980% |  | 1.910% |
-| 54 min | MXN | Consumer Confidence (Oct) |  |  | 46.5 |
-| 54 min | MXN | Consumer Confidence n.s.a. (Oct) |  |  | 46.1 |
-| 54 min | BRL | Industrial Production (MoM) (Sep) |  |  | 0.8% |
-| 13:00 | GBP | BoE Breeden Speaks |  |  |  |
+| 12:00 | MXN | Consumer Confidence (Oct) | 46.1 |  | 46.5 |
+| 12:00 | MXN | Consumer Confidence n.s.a. (Oct) |  |  | 46.1 |
+| 12:00 | BRL | Industrial Production (MoM) (Sep) | -0.4% |  | 0.7% |
+| 48 min | GBP | BoE Breeden Speaks |  |  |  |
 | 13:30 | CAD | Exports (Sep) |  |  | 60.58B |
 | 13:30 | CAD | Imports (Sep) |  |  | 66.91B |
 | 13:55 | USD | Redbook (YoY) |  |  | 5.2% |
