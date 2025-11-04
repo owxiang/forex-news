@@ -28,6 +28,16 @@
 | 13:55 | USD | Low | Redbook (YoY) | 5.7% |  | 5.2% |
 | 16:00 | USD | Low | IBD/TIPP Economic Optimism (Nov) | 43.9 | 48.1 | 48.3 |
 | 17:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 17:00 | USD | Low | OPEC Crude Oil Production Algeria (Barrel) | 0.96M |  | 0.96M |
+| 17:00 | USD | Low | OPEC Crude Oil Production Congo (Barrel) | 0.26M |  | 0.26M |
+| 17:00 | USD | Low | OPEC Crude Oil Production Gabon (Barrel) | 0.23M |  | 0.23M |
+| 17:00 | USD | Low | OPEC Crude oil Production Iran (Barrel) | 3.37M |  | 3.38M |
+| 17:00 | USD | Low | OPEC Crude oil Production Iraq (Barrel) | 4.06M |  | 4.01M |
+| 17:00 | USD | Low | OPEC Crude Oil Production Kuwait (Barrel) | 2.52M |  | 2.52M |
+| 17:00 | USD | Low | OPEC Crude Oil Production Libya (Barrel) | 1.25M |  | 1.29M |
+| 17:00 | USD | Low | OPEC Crude Oil Production Nigeria (Barrel) | 1.53M |  | 1.55M |
+| 17:00 | USD | Low | OPEC Crude oil Production UAE (Barrel) | 3.36M |  | 3.35M |
+| 17:00 | USD | Low | OPEC Crude oil Production Venezuela (Barrel) | 0.93M |  | 0.95M |
 | 20:00 | NZD | Moderate | RBNZ Financial Stability Report |  |  |  |
 | 21:00 | KRW | Low | FX Reserves - USD (Oct) |  |  | 422.02B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -4.000M |
