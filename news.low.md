@@ -14,8 +14,8 @@
 | 12:00 | BRL | Industrial Production (MoM) (Sep) | -0.4% | -0.5% | 0.7% |
 | 13:00 | GBP | BoE Breeden Speaks |  |  |  |
 | 13:55 | USD | Redbook (YoY) | 5.7% |  | 5.2% |
-| 17:00 | USD | IBD/TIPP Economic Optimism (Nov) |  | 48.1 | 48.3 |
-| 17:00 | EUR | Italian Car Registration (YoY) (Oct) |  |  | 4.2% |
+| 51 min | USD | IBD/TIPP Economic Optimism (Nov) |  | 48.1 | 48.3 |
+| 51 min | EUR | Italian Car Registration (YoY) (Oct) |  |  | 4.2% |
 | 21:00 | KRW | FX Reserves - USD (Oct) |  |  | 422.02B |
 | 21:45 | NZD | Employment Change (QoQ) (Q3) |  | 0.1% | -0.1% |
 | 21:45 | NZD | Labor Cost Index (QoQ) (Q3) |  | 0.5% | 0.6% |
