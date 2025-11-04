@@ -5,10 +5,10 @@
 | 00:00 | USD | Total Vehicle Sales (Oct) | 15.30M | 15.60M | 16.40M |
 | 00:30 | JPY | au Jibun Bank Manufacturing PMI (Oct) | 48.2 | 48.3 | 48.3 |
 | 07:45 | EUR | French Government Budget Balance (Sep) | -155.4B |  | -157.5B |
-| 09:40 | EUR | Spanish 12-Month Letras Auction |  |  | 2.006% |
-| 09:40 | EUR | Spanish 6-Month Letras Auction |  |  | 1.937% |
-| 10:10 | GBP | 5-Year Treasury Gilt Auction |  |  | 4.004% |
-| 10:30 | EUR | German 2-Year Schatz Auction |  |  | 1.910% |
+| 10:00 | EUR | Spanish 12-Month Letras Auction | 1.990% |  | 2.006% |
+| 10:00 | EUR | Spanish 6-Month Letras Auction | 1.944% |  | 1.937% |
+| 2 min | GBP | 5-Year Treasury Gilt Auction |  |  | 4.004% |
+| 22 min | EUR | German 2-Year Schatz Auction |  |  | 1.910% |
 | 12:00 | MXN | Consumer Confidence (Oct) |  |  | 46.5 |
 | 12:00 | MXN | Consumer Confidence n.s.a. (Oct) |  |  | 46.1 |
 | 12:00 | BRL | Industrial Production (MoM) (Sep) |  |  | 0.8% |

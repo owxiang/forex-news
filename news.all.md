@@ -10,13 +10,13 @@
 | 07:40 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 07:45 | EUR | Low | French Government Budget Balance (Sep) | -155.4B |  | -157.5B |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change (Oct) | 22.1K | 5.2K | -4.8K |
-| 08:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Oct) | 0.27% |  | 0.65% |
 | 08:00 | NZD | Moderate | RBNZ Financial Stability Report |  |  |  |
-| 09:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.006% |
-| 09:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 1.937% |
+| 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Oct) | 0.27% |  | 0.65% |
+| 10:00 | EUR | Low | Spanish 12-Month Letras Auction | 1.990% |  | 2.006% |
+| 10:00 | EUR | Low | Spanish 6-Month Letras Auction | 1.944% |  | 1.937% |
 | 10:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 10:10 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.004% |
-| 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 1.910% |
+| 2 min | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.004% |
+| 22 min | EUR | Low | German 2-Year Schatz Auction |  |  | 1.910% |
 | 11:35 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 12:00 | MXN | Low | Consumer Confidence (Oct) |  |  | 46.5 |
 | 12:00 | MXN | Low | Consumer Confidence n.s.a. (Oct) |  |  | 46.1 |
