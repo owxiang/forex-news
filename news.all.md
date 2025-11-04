@@ -6,8 +6,8 @@
 | 00:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Oct) | 48.2 | 48.3 | 48.3 |
 | 03:30 | AUD | High | RBA Interest Rate Decision (Nov) | 3.60% | 3.60% | 3.60% |
 | 03:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
-| 22 min | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
-| 52 min | INR | Low | S&P Global Manufacturing PMI (Oct) |  | 58.4 | 57.7 |
+| 04:30 | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
+| 05:00 | INR | Low | S&P Global Manufacturing PMI (Oct) |  | 58.4 | 57.7 |
 | 07:40 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 07:45 | EUR | Low | French Government Budget Balance (Sep) |  |  | -157.5B |
 | 08:00 | EUR | Low | French Car Registration (YoY) (Oct) |  |  | 1.0% |
