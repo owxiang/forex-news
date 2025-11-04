@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | USD | Low | Total Vehicle Sales (Oct) | 15.30M | 15.60M | 16.40M |
 | 00:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Oct) | 48.2 | 48.3 | 48.3 |
-| 53 min | AUD | High | RBA Interest Rate Decision (Nov) |  | 3.60% | 3.60% |
-| 53 min | AUD | Moderate | RBA Rate Statement |  |  |  |
+| 4 min | AUD | High | RBA Interest Rate Decision (Nov) |  | 3.60% | 3.60% |
+| 4 min | AUD | Moderate | RBA Rate Statement |  |  |  |
 | 04:30 | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
 | 05:00 | INR | Low | S&P Global Manufacturing PMI (Oct) |  | 58.4 | 57.7 |
 | 07:40 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
