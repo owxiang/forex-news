@@ -24,15 +24,12 @@
 | 12:00 | BRL | Moderate | Industrial Production (YoY) (Sep) | 2.0% | 1.7% | -0.7% |
 | 12:00 | BRL | Low | Industrial Production (MoM) (Sep) | -0.4% | -0.5% | 0.7% |
 | 13:00 | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 11 min | CAD | Low | Exports (Sep) |  |  | 60.58B |
-| 11 min | CAD | Low | Imports (Sep) |  |  | 66.91B |
-| 11 min | CAD | Moderate | Trade Balance (Sep) |  |  | -6.32B |
-| 36 min | USD | Low | Redbook (YoY) |  |  | 5.2% |
-| 15:00 | USD | Moderate | Factory Orders (MoM) |  | 1.4% | -1.3% |
-| 15:00 | USD | Low | Factory orders ex transportation (MoM) (Aug) |  |  | 0.6% |
-| 15:00 | USD | High | JOLTS Job Openings (Sep) |  |  | 7.227M |
-| 15:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 21.9% |
-| 15:00 | USD | Low | Milk Auctions |  |  | 3,881.0 |
+| 13:55 | USD | Low | Redbook (YoY) | 5.7% |  | 5.2% |
+| 53 min | USD | Moderate | Factory Orders (MoM) |  | 1.4% | -1.3% |
+| 53 min | USD | Low | Factory orders ex transportation (MoM) (Aug) |  |  | 0.6% |
+| 53 min | USD | High | JOLTS Job Openings (Sep) |  |  | 7.227M |
+| 53 min | NZD | Low | GlobalDairyTrade Price Index |  |  | 21.9% |
+| 53 min | USD | Low | Milk Auctions |  |  | 3,881.0 |
 | 15:10 | USD | Low | IBD/TIPP Economic Optimism (Nov) |  | 48.1 | 48.3 |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  |  |  |
 | 17:00 | EUR | Low | Italian Car Registration (YoY) (Oct) |  |  | 4.2% |

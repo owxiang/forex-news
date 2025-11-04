@@ -13,12 +13,10 @@
 | 12:00 | MXN | Consumer Confidence n.s.a. (Oct) | 45.7 |  | 46.1 |
 | 12:00 | BRL | Industrial Production (MoM) (Sep) | -0.4% | -0.5% | 0.7% |
 | 13:00 | GBP | BoE Breeden Speaks |  |  |  |
-| 11 min | CAD | Exports (Sep) |  |  | 60.58B |
-| 11 min | CAD | Imports (Sep) |  |  | 66.91B |
-| 36 min | USD | Redbook (YoY) |  |  | 5.2% |
-| 15:00 | USD | Factory orders ex transportation (MoM) (Aug) |  |  | 0.6% |
-| 15:00 | NZD | GlobalDairyTrade Price Index |  |  | 21.9% |
-| 15:00 | USD | Milk Auctions |  |  | 3,881.0 |
+| 13:55 | USD | Redbook (YoY) | 5.7% |  | 5.2% |
+| 53 min | USD | Factory orders ex transportation (MoM) (Aug) |  |  | 0.6% |
+| 53 min | NZD | GlobalDairyTrade Price Index |  |  | 21.9% |
+| 53 min | USD | Milk Auctions |  |  | 3,881.0 |
 | 15:10 | USD | IBD/TIPP Economic Optimism (Nov) |  | 48.1 | 48.3 |
 | 17:00 | EUR | Italian Car Registration (YoY) (Oct) |  |  | 4.2% |
 | 21:00 | KRW | FX Reserves - USD (Oct) |  |  | 422.02B |

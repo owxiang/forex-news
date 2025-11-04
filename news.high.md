@@ -3,4 +3,4 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 03:30 | AUD | RBA Interest Rate Decision (Nov) | 3.60% | 3.60% | 3.60% |
-| 15:00 | USD | JOLTS Job Openings (Sep) |  |  | 7.227M |
+| 53 min | USD | JOLTS Job Openings (Sep) |  |  | 7.227M |
