@@ -66,8 +66,8 @@
 | 16:10 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 17:30 | BRL | Low | Foreign Exchange Flows | 5.785B |  | 0.513B |
 | 18:00 | USD | High | U.S. President Trump Speaks |  |  |  |
-| 23 min | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
-| 23 min | BRL | Moderate | Interest Rate Decision |  | 15.00% | 15.00% |
-| 23:00 | KRW | Low | Current Account (Sep) |  |  | 9.15B |
+| 21:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
+| 21:30 | BRL | Moderate | Interest Rate Decision | 15.00% | 15.00% | 15.00% |
+| 53 min | KRW | Low | Current Account (Sep) |  |  | 9.15B |
 | 23:30 | JPY | Low | Overall wage income of employees (Sep) |  | 1.9% | 1.5% |
 | 23:30 | JPY | Low | Overtime Pay (YoY) (Sep) |  |  | 0.40% |
