@@ -44,6 +44,6 @@
 | 15:30 | USD | Gasoline Inventories | -4.729M | -1.500M | -5.941M |
 | 16:10 | GBP | BoE Breeden Speaks |  |  |  |
 | 17:30 | BRL | Foreign Exchange Flows | 5.785B |  | 0.513B |
-| 53 min | KRW | Current Account (Sep) |  |  | 9.15B |
-| 23:30 | JPY | Overall wage income of employees (Sep) |  | 1.9% | 1.5% |
-| 23:30 | JPY | Overtime Pay (YoY) (Sep) |  |  | 0.40% |
+| 23:00 | KRW | Current Account (Sep) | 13.47B |  | 9.15B |
+| 23 min | JPY | Overall wage income of employees (Sep) |  | 1.9% | 1.5% |
+| 23 min | JPY | Overtime Pay (YoY) (Sep) |  |  | 0.40% |

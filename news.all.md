@@ -68,6 +68,6 @@
 | 18:00 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 21:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 21:30 | BRL | Moderate | Interest Rate Decision | 15.00% | 15.00% | 15.00% |
-| 53 min | KRW | Low | Current Account (Sep) |  |  | 9.15B |
-| 23:30 | JPY | Low | Overall wage income of employees (Sep) |  | 1.9% | 1.5% |
-| 23:30 | JPY | Low | Overtime Pay (YoY) (Sep) |  |  | 0.40% |
+| 23:00 | KRW | Low | Current Account (Sep) | 13.47B |  | 9.15B |
+| 23 min | JPY | Low | Overall wage income of employees (Sep) |  | 1.9% | 1.5% |
+| 23 min | JPY | Low | Overtime Pay (YoY) (Sep) |  |  | 0.40% |
