@@ -22,18 +22,18 @@
 | 08:50 | EUR | Moderate | HCOB France Services PMI (Oct) | 48.0 | 47.1 | 48.5 |
 | 08:55 | EUR | Low | HCOB Germany Composite PMI (Oct) | 53.9 | 53.8 | 52.0 |
 | 08:55 | EUR | Moderate | HCOB Germany Services PMI (Oct) | 54.6 | 54.5 | 51.5 |
-| 09:00 | GBP | Low | Car Registration (YoY) (Oct) |  |  | 13.7% |
-| 09:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Oct) |  |  | 312,891.0 |
+| 09:00 | GBP | Low | Car Registration (YoY) (Oct) | 0.5% |  | 13.7% |
 | 09:00 | EUR | Low | Italian Retail Sales (MoM) (Sep) | -0.5% | 0.2% | -0.2% |
 | 09:00 | EUR | Low | Italian Retail Sales (YoY) (Sep) | 0.5% |  | 0.6% |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Oct) | 52.5 | 52.2 | 51.2 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Oct) | 53.0 | 52.6 | 51.3 |
-| 22 min | GBP | Moderate | S&P Global Composite PMI (Oct) |  | 51.1 | 50.1 |
-| 22 min | GBP | Moderate | S&P Global Services PMI (Oct) |  | 51.1 | 50.8 |
-| 52 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 52 min | NOK | Low | House Price Index (YoY) (Oct) |  |  | 5.50% |
-| 52 min | EUR | Low | PPI (MoM) (Sep) |  | 0.0% | -0.3% |
-| 52 min | EUR | Low | PPI (YoY) (Sep) |  | -0.2% | -0.6% |
+| 09:30 | GBP | Moderate | S&P Global Composite PMI (Oct) | 52.2 | 51.1 | 50.1 |
+| 09:30 | GBP | Moderate | S&P Global Services PMI (Oct) | 52.3 | 51.1 | 50.8 |
+| 10:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Oct) |  |  | 312,891.0 |
+| 10:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 10:00 | NOK | Low | House Price Index (YoY) (Oct) | 5.80% |  | 5.50% |
+| 10:00 | EUR | Low | PPI (MoM) (Sep) | -0.1% | 0.0% | -0.4% |
+| 10:00 | EUR | Low | PPI (YoY) (Sep) | -0.2% | -0.2% | -0.6% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.30% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 7.1% |
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 164.3 |

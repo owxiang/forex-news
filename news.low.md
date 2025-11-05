@@ -14,13 +14,13 @@
 | 08:45 | EUR | HCOB Italy Composite PMI (Oct) | 53.1 |  | 51.7 |
 | 08:50 | EUR | HCOB France Composite PMI (Oct) | 47.7 | 46.8 | 48.1 |
 | 08:55 | EUR | HCOB Germany Composite PMI (Oct) | 53.9 | 53.8 | 52.0 |
-| 09:00 | GBP | Car Registration (YoY) (Oct) |  |  | 13.7% |
-| 09:00 | GBP | United Kingdom New Passenger Cars Registration (Oct) |  |  | 312,891.0 |
+| 09:00 | GBP | Car Registration (YoY) (Oct) | 0.5% |  | 13.7% |
 | 09:00 | EUR | Italian Retail Sales (MoM) (Sep) | -0.5% | 0.2% | -0.2% |
 | 09:00 | EUR | Italian Retail Sales (YoY) (Sep) | 0.5% |  | 0.6% |
-| 52 min | NOK | House Price Index (YoY) (Oct) |  |  | 5.50% |
-| 52 min | EUR | PPI (MoM) (Sep) |  | 0.0% | -0.3% |
-| 52 min | EUR | PPI (YoY) (Sep) |  | -0.2% | -0.6% |
+| 10:00 | GBP | United Kingdom New Passenger Cars Registration (Oct) |  |  | 312,891.0 |
+| 10:00 | NOK | House Price Index (YoY) (Oct) | 5.80% |  | 5.50% |
+| 10:00 | EUR | PPI (MoM) (Sep) | -0.1% | 0.0% | -0.4% |
+| 10:00 | EUR | PPI (YoY) (Sep) | -0.2% | -0.2% | -0.6% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.30% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 7.1% |
 | 12:00 | USD | MBA Purchase Index |  |  | 164.3 |

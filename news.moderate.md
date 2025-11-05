@@ -12,9 +12,9 @@
 | 08:55 | EUR | HCOB Germany Services PMI (Oct) | 54.6 | 54.5 | 51.5 |
 | 09:00 | EUR | HCOB Eurozone Composite PMI (Oct) | 52.5 | 52.2 | 51.2 |
 | 09:00 | EUR | HCOB Eurozone Services PMI (Oct) | 53.0 | 52.6 | 51.3 |
-| 22 min | GBP | S&P Global Composite PMI (Oct) |  | 51.1 | 50.1 |
-| 22 min | GBP | S&P Global Services PMI (Oct) |  | 51.1 | 50.8 |
-| 52 min | EUR | German Buba President Nagel Speaks |  |  |  |
+| 09:30 | GBP | S&P Global Composite PMI (Oct) | 52.2 | 51.1 | 50.1 |
+| 09:30 | GBP | S&P Global Services PMI (Oct) | 52.3 | 51.1 | 50.8 |
+| 10:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 13:30 | CAD | Trade Balance (Sep) |  |  | -6.32B |
 | 14:45 | USD | S&P Global Composite PMI (Oct) |  | 54.8 | 53.9 |
 | 15:00 | USD | Factory Orders (MoM) |  | 1.4% | -1.3% |
