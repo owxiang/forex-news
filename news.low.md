@@ -15,19 +15,19 @@
 | 08:50 | EUR | HCOB France Composite PMI (Oct) | 47.7 | 46.8 | 48.1 |
 | 08:55 | EUR | HCOB Germany Composite PMI (Oct) | 53.9 | 53.8 | 52.0 |
 | 09:00 | GBP | Car Registration (YoY) (Oct) | 0.5% |  | 13.7% |
+| 09:00 | GBP | United Kingdom New Passenger Cars Registration (Oct) | 144,948.0 |  | 312,891.0 |
 | 09:00 | EUR | Italian Retail Sales (MoM) (Sep) | -0.5% | 0.2% | -0.2% |
 | 09:00 | EUR | Italian Retail Sales (YoY) (Sep) | 0.5% |  | 0.6% |
-| 10:00 | GBP | United Kingdom New Passenger Cars Registration (Oct) |  |  | 312,891.0 |
 | 10:00 | NOK | House Price Index (YoY) (Oct) | 5.80% |  | 5.50% |
 | 10:00 | EUR | PPI (MoM) (Sep) | -0.1% | 0.0% | -0.4% |
 | 10:00 | EUR | PPI (YoY) (Sep) | -0.2% | -0.2% | -0.6% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.30% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 7.1% |
-| 12:00 | USD | MBA Purchase Index |  |  | 164.3 |
-| 12:00 | USD | Mortgage Market Index |  |  | 338.7 |
-| 12:00 | USD | Mortgage Refinance Index |  |  | 1,327.8 |
-| 12:00 | MXN | Gross Fixed Investments (MoM) (Aug) |  | -1.80% | 1.60% |
-| 12:00 | MXN | Gross Fixed Investments (YoY) (Aug) |  | -7.80% | -6.60% |
+| 54 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.30% |
+| 54 min | USD | MBA Mortgage Applications (WoW) |  |  | 7.1% |
+| 54 min | USD | MBA Purchase Index |  |  | 164.3 |
+| 54 min | USD | Mortgage Market Index |  |  | 338.7 |
+| 54 min | USD | Mortgage Refinance Index |  |  | 1,327.8 |
+| 54 min | MXN | Gross Fixed Investments (MoM) (Aug) |  | -1.80% | 1.60% |
+| 54 min | MXN | Gross Fixed Investments (YoY) (Aug) |  | -7.80% | -6.60% |
 | 13:00 | BRL | S&P Global Composite PMI (Oct) |  |  | 46.0 |
 | 13:00 | BRL | S&P Global Services PMI (Oct) |  |  | 46.3 |
 | 13:15 | CAD | Reserve Assets Total (Oct) |  |  | 126.6B |
