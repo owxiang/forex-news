@@ -34,15 +34,15 @@
 | 10:00 | NOK | Low | House Price Index (YoY) (Oct) | 5.80% |  | 5.50% |
 | 10:00 | EUR | Low | PPI (MoM) (Sep) | -0.1% | 0.0% | -0.4% |
 | 10:00 | EUR | Low | PPI (YoY) (Sep) | -0.2% | -0.2% | -0.6% |
-| 54 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.30% |
-| 54 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | 7.1% |
-| 54 min | USD | Low | MBA Purchase Index |  |  | 164.3 |
-| 54 min | USD | Low | Mortgage Market Index |  |  | 338.7 |
-| 54 min | USD | Low | Mortgage Refinance Index |  |  | 1,327.8 |
-| 54 min | MXN | Low | Gross Fixed Investments (MoM) (Aug) |  | -1.80% | 1.60% |
-| 54 min | MXN | Low | Gross Fixed Investments (YoY) (Aug) |  | -7.80% | -6.60% |
-| 13:00 | BRL | Low | S&P Global Composite PMI (Oct) |  |  | 46.0 |
-| 13:00 | BRL | Low | S&P Global Services PMI (Oct) |  |  | 46.3 |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.31% |  | 6.30% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | -1.9% |  | 7.1% |
+| 12:00 | USD | Low | MBA Purchase Index | 163.3 |  | 164.3 |
+| 12:00 | USD | Low | Mortgage Market Index | 332.3 |  | 338.7 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 1,290.8 |  | 1,327.8 |
+| 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Aug) | -2.70% | -1.80% | 1.60% |
+| 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Aug) | -10.40% | -7.80% | -6.60% |
+| 47 min | BRL | Low | S&P Global Composite PMI (Oct) |  |  | 46.0 |
+| 47 min | BRL | Low | S&P Global Services PMI (Oct) |  |  | 46.3 |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Oct) |  | 32K | -32K |
 | 13:15 | CAD | Low | Reserve Assets Total (Oct) |  |  | 126.6B |
 | 13:30 | CAD | Low | Exports (Sep) |  |  | 60.58B |
