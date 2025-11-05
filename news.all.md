@@ -39,8 +39,8 @@
 | 12:00 | USD | Low | MBA Purchase Index | 163.3 |  | 164.3 |
 | 12:00 | USD | Low | Mortgage Market Index | 332.3 |  | 338.7 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 1,290.8 |  | 1,327.8 |
-| 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Aug) | -2.70% | -1.80% | 1.40% |
 | 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Aug) | -10.40% | -7.80% | -6.70% |
+| 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Aug) | -2.70% | -1.80% | 1.40% |
 | 13:00 | BRL | Low | S&P Global Composite PMI (Oct) | 48.2 |  | 46.0 |
 | 13:00 | BRL | Low | S&P Global Services PMI (Oct) | 47.7 |  | 46.3 |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Oct) | 42K | 32K | -29K |
@@ -53,20 +53,17 @@
 | 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Oct) | 56.2 | 51.0 | 50.4 |
 | 15:00 | USD | High | ISM Non-Manufacturing PMI (Oct) | 52.4 | 50.7 | 50.0 |
 | 15:00 | USD | High | ISM Non-Manufacturing Prices (Oct) | 70.0 | 68.0 | 69.4 |
-| 22 min | USD | High | Crude Oil Inventories |  | -2.500M | -6.858M |
-| 22 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.511M |
-| 22 min | USD | Low | Crude Oil Imports |  |  | -1.025M |
-| 22 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 1.334M |
-| 22 min | USD | Low | Distillate Fuel Production |  |  | -0.134M |
-| 22 min | USD | Low | EIA Weekly Distillates Stocks |  |  | -3.362M |
-| 22 min | USD | Low | Gasoline Production |  |  | -0.004M |
-| 22 min | USD | Low | Heating Oil Stockpiles |  |  | 0.049M |
-| 22 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -2.0% |
-| 22 min | USD | Low | Gasoline Inventories |  | -1.500M | -5.941M |
-| 52 min | USD | Moderate | Factory Orders (MoM) |  | 1.4% | -1.3% |
-| 52 min | USD | Low | Factory orders ex transportation (MoM) (Aug) |  |  | 0.6% |
-| 52 min | USD | High | JOLTS Job Openings (Sep) |  |  | 7.227M |
-| 16:10 | GBP | Low | BoE Breeden Speaks |  |  |  |
+| 15:30 | USD | High | Crude Oil Inventories | 5.202M | -2.500M | -6.858M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.037M |  | -0.511M |
+| 15:30 | USD | Low | Crude Oil Imports | 0.867M |  | -1.025M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | 0.300M |  | 1.334M |
+| 15:30 | USD | Low | Distillate Fuel Production | 0.211M |  | -0.134M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks | -0.643M |  | -3.362M |
+| 15:30 | USD | Low | Gasoline Production | 0.241M |  | -0.004M |
+| 15:30 | USD | Low | Heating Oil Stockpiles | -0.036M |  | 0.049M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -0.6% |  | -2.0% |
+| 15:30 | USD | Low | Gasoline Inventories | -4.729M | -1.500M | -5.941M |
+| 2 min | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | 0.513B |
 | 18:00 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 21:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |

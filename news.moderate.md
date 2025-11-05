@@ -17,7 +17,6 @@
 | 10:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 14:45 | USD | S&P Global Composite PMI (Oct) | 54.6 | 54.8 | 53.9 |
 | 15:00 | USD | ISM Non-Manufacturing Employment (Oct) | 48.2 | 47.6 | 47.2 |
-| 22 min | USD | Cushing Crude Oil Inventories |  |  | 1.334M |
-| 52 min | USD | Factory Orders (MoM) |  | 1.4% | -1.3% |
+| 15:30 | USD | Cushing Crude Oil Inventories | 0.300M |  | 1.334M |
 | 21:30 | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 21:30 | BRL | Interest Rate Decision |  | 15.00% | 15.00% |
