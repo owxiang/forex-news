@@ -1,41 +1,55 @@
-## 04 November 2025 - Low Impact Forex News
+## 05 November 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | USD | Total Vehicle Sales (Oct) | 15.30M | 15.60M | 16.40M |
-| 00:30 | JPY | au Jibun Bank Manufacturing PMI (Oct) | 48.2 | 48.3 | 48.3 |
-| 07:45 | EUR | French Government Budget Balance (Sep) | -155.4B |  | -157.5B |
-| 10:00 | EUR | Spanish 12-Month Letras Auction | 1.990% |  | 2.006% |
-| 10:00 | EUR | Spanish 6-Month Letras Auction | 1.944% |  | 1.937% |
-| 10:30 | GBP | 5-Year Treasury Gilt Auction | 3.845% |  | 4.004% |
-| 10:30 | EUR | German 2-Year Schatz Auction | 1.980% |  | 1.910% |
-| 12:00 | MXN | Consumer Confidence (Oct) | 46.1 |  | 46.5 |
-| 12:00 | MXN | Consumer Confidence n.s.a. (Oct) | 45.7 |  | 46.1 |
-| 12:00 | BRL | Industrial Production (MoM) (Sep) | -0.4% | -0.5% | 0.7% |
-| 13:00 | GBP | BoE Breeden Speaks |  |  |  |
-| 13:30 | EUR | Italian Car Registration (YoY) (Oct) | -0.6% |  | 4.2% |
-| 13:55 | USD | Redbook (YoY) | 5.7% |  | 5.2% |
-| 16:00 | USD | IBD/TIPP Economic Optimism (Nov) | 43.9 | 48.1 | 48.3 |
-| 17:00 | USD | OPEC Crude Oil Production Algeria (Barrel) | 0.96M |  | 0.96M |
-| 17:00 | USD | OPEC Crude Oil Production Congo (Barrel) | 0.26M |  | 0.26M |
-| 17:00 | USD | OPEC Crude Oil Production Gabon (Barrel) | 0.23M |  | 0.23M |
-| 17:00 | USD | OPEC Crude oil Production Iran (Barrel) | 3.37M |  | 3.38M |
-| 17:00 | USD | OPEC Crude oil Production Iraq (Barrel) | 4.06M |  | 4.01M |
-| 17:00 | USD | OPEC Crude Oil Production Kuwait (Barrel) | 2.52M |  | 2.52M |
-| 17:00 | USD | OPEC Crude Oil Production Libya (Barrel) | 1.25M |  | 1.29M |
-| 17:00 | USD | OPEC Crude Oil Production Nigeria (Barrel) | 1.53M |  | 1.55M |
-| 17:00 | USD | OPEC Crude oil Production UAE (Barrel) | 3.36M |  | 3.35M |
-| 17:00 | USD | OPEC Crude oil Production Venezuela (Barrel) | 0.93M |  | 0.95M |
-| 21:00 | KRW | FX Reserves - USD (Oct) | 428.82B |  | 422.02B |
-| 21:45 | NZD | Employment Change (QoQ) (Q3) | 0.0% | 0.1% | -0.2% |
-| 21:45 | NZD | Labor Cost Index (YoY) (Q3) | 2.1% | 2.1% | 2.2% |
-| 21:45 | NZD | Labor Cost Index (QoQ) (Q3) | 0.5% | 0.5% | 0.6% |
-| 21:45 | NZD | Participation Rate (Q3) | 70.30% |  | 70.50% |
-| 21:45 | NZD | Unemployment Rate (Q3) | 5.3% | 5.3% | 5.2% |
-| 22:00 | AUD | AIG Construction Index (Oct) | -7.1 |  | 12.3 |
-| 22:00 | AUD | AIG Manufacturing Index (Oct) | -22.0 |  | -13.2 |
-| 22:00 | AUD | Manufacturing & Services PMI (Oct) | 52.10 | 52.60 | 52.60 |
-| 22:00 | AUD | Judo Bank Services PMI (Oct) | 52.5 | 53.1 | 52.4 |
-| 22:04 | USD | OPEC Crude Oil Production Guinea (Barrel) | 0.06M |  | 0.05M |
-| 22:04 | USD | OPEC Crude oil Production Saudi Arabia (Barrel) | 9.90M |  | 9.85M |
-| 43 min | JPY | Monetary Base (YoY) (Oct) |  | -4.8% | -6.1% |
+| 00:00 | NZD | ANZ Commodity Price Index (MoM) | -0.3% |  | -1.1% |
+| 00:30 | AUD | RBA Chart Pack Release |  |  |  |
+| 00:30 | HKD | S&P Global Manufacturing PMI (Oct) | 51.2 |  | 50.4 |
+| 04:00 | IDR | GDP (YoY) (Q3) |  | 5.00% | 5.12% |
+| 04:00 | IDR | GDP (QoQ) (Q3) |  | 1.40% | 4.04% |
+| 05:00 | SGD | Retail Sales (YoY) (Sep) |  |  | 5.2% |
+| 05:00 | SGD | Retail Sales (MoM) (Sep) |  |  | 0.5% |
+| 07:15 | ZAR | S&P Global Manufacturing PMI (Oct) |  |  | 50.2 |
+| 07:45 | EUR | French Industrial Production (MoM) (Sep) |  | 0.1% | -0.7% |
+| 08:45 | EUR | HCOB Italy Composite PMI (Oct) |  |  | 51.7 |
+| 08:50 | EUR | HCOB France Composite PMI (Oct) |  | 46.8 | 48.1 |
+| 08:55 | EUR | HCOB Germany Composite PMI (Oct) |  | 53.8 | 52.0 |
+| 09:00 | GBP | Car Registration (YoY) (Oct) |  |  | 13.7% |
+| 09:00 | GBP | United Kingdom New Passenger Cars Registration (Oct) |  |  | 312,891.0 |
+| 09:00 | EUR | Italian Retail Sales (MoM) (Sep) |  | 0.2% | -0.1% |
+| 09:00 | EUR | Italian Retail Sales (YoY) (Sep) |  |  | 0.5% |
+| 10:00 | NOK | House Price Index (YoY) (Oct) |  |  | 5.50% |
+| 10:00 | EUR | PPI (MoM) (Sep) |  | 0.0% | -0.3% |
+| 10:00 | EUR | PPI (YoY) (Sep) |  | -0.2% | -0.6% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.30% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 7.1% |
+| 12:00 | USD | MBA Purchase Index |  |  | 164.3 |
+| 12:00 | USD | Mortgage Market Index |  |  | 338.7 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 1,327.8 |
+| 12:00 | MXN | Gross Fixed Investments (MoM) (Aug) |  |  | 1.60% |
+| 12:00 | MXN | Gross Fixed Investments (YoY) (Aug) |  |  | -6.60% |
+| 13:00 | BRL | S&P Global Composite PMI (Oct) |  |  | 46.0 |
+| 13:00 | BRL | S&P Global Services PMI (Oct) |  |  | 46.3 |
+| 13:15 | CAD | Reserve Assets Total (Oct) |  |  | 126.6B |
+| 13:30 | CAD | Exports (Sep) |  |  | 60.58B |
+| 13:30 | CAD | Imports (Sep) |  |  | 66.91B |
+| 14:00 | EUR | Consumer Confidence (Nov) |  |  | -14.2 |
+| 14:30 | CAD | Services PMI (Oct) |  |  | 46.30 |
+| 15:00 | USD | Factory orders ex transportation (MoM) (Aug) |  |  | 0.6% |
+| 15:00 | USD | ISM Non-Manufacturing Business Activity (Oct) |  |  | 49.9 |
+| 15:00 | USD | ISM Non-Manufacturing New Orders (Oct) |  |  | 50.4 |
+| 15:00 | NZD | GlobalDairyTrade Price Index |  |  | 21.9% |
+| 15:00 | USD | Milk Auctions |  |  | 3,881.0 |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.511M |
+| 15:30 | USD | Crude Oil Imports |  |  | -1.025M |
+| 15:30 | USD | Distillate Fuel Production |  |  | -0.134M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | -3.362M |
+| 15:30 | USD | Gasoline Production |  |  | -0.004M |
+| 15:30 | USD | Heating Oil Stockpiles |  |  | 0.049M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -2.0% |
+| 15:30 | USD | Gasoline Inventories |  |  | -5.941M |
+| 16:10 | GBP | BoE Breeden Speaks |  |  |  |
+| 17:30 | BRL | Foreign Exchange Flows |  |  | 0.513B |
+| 23:00 | KRW | Current Account (Sep) |  |  | 9.15B |
+| 23:30 | JPY | Overall wage income of employees (Sep) |  | 2.0% | 1.5% |
+| 23:30 | JPY | Overtime Pay (YoY) (Sep) |  |  | 0.40% |
