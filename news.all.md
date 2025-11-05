@@ -7,11 +7,11 @@
 | 00:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
 | 00:30 | HKD | Low | S&P Global Manufacturing PMI (Oct) | 51.2 |  | 50.4 |
 | 01:45 | CNY | Moderate | Caixin Services PMI (Oct) | 52.6 | 52.5 | 52.9 |
-| 9 min | JPY | Moderate | 10-Year JGB Auction |  |  | 1.635% |
-| 34 min | IDR | Low | GDP (YoY) (Q3) |  | 5.00% | 5.12% |
-| 34 min | IDR | Low | GDP (QoQ) (Q3) |  | 1.40% | 4.04% |
-| 05:00 | SGD | Low | Retail Sales (YoY) (Sep) |  |  | 5.2% |
-| 05:00 | SGD | Low | Retail Sales (MoM) (Sep) |  |  | 0.5% |
+| 03:35 | JPY | Moderate | 10-Year JGB Auction | 1.658% |  | 1.635% |
+| 04:00 | IDR | Low | GDP (YoY) (Q3) | 5.04% | 5.00% | 5.12% |
+| 04:00 | IDR | Low | GDP (QoQ) (Q3) | 1.43% | 1.40% | 4.04% |
+| 52 min | SGD | Low | Retail Sales (YoY) (Sep) |  |  | 5.2% |
+| 52 min | SGD | Low | Retail Sales (MoM) (Sep) |  |  | 0.5% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Sep) |  | 0.8% | 1.0% |
 | 07:15 | ZAR | Low | S&P Global Manufacturing PMI (Oct) |  |  | 50.2 |
 | 07:45 | EUR | Low | French Industrial Production (MoM) (Sep) |  | 0.1% | -0.7% |
