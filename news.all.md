@@ -12,9 +12,9 @@
 | 04:00 | IDR | Low | GDP (QoQ) (Q3) | 1.43% | 1.40% | 4.04% |
 | 05:00 | SGD | Low | Retail Sales (YoY) (Sep) | 2.8% |  | 5.3% |
 | 05:00 | SGD | Low | Retail Sales (MoM) (Sep) | -1.4% |  | 0.7% |
-| 49 min | EUR | Moderate | German Factory Orders (MoM) (Sep) |  | 0.9% | -0.8% |
-| 07:15 | ZAR | Low | S&P Global Manufacturing PMI (Oct) |  |  | 50.2 |
-| 07:45 | EUR | Low | French Industrial Production (MoM) (Sep) |  | 0.1% | -0.7% |
+| 07:00 | EUR | Moderate | German Factory Orders (MoM) (Sep) | 1.1% | 0.9% | -0.4% |
+| 7 min | ZAR | Low | S&P Global Manufacturing PMI (Oct) |  |  | 50.2 |
+| 37 min | EUR | Low | French Industrial Production (MoM) (Sep) |  | 0.1% | -0.7% |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Oct) |  | 54.8 | 54.3 |
 | 08:45 | EUR | Low | HCOB Italy Composite PMI (Oct) |  |  | 51.7 |
 | 08:45 | EUR | Moderate | HCOB Italy Services PMI (Oct) |  | 53.0 | 52.5 |

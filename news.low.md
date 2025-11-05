@@ -9,8 +9,8 @@
 | 04:00 | IDR | GDP (QoQ) (Q3) | 1.43% | 1.40% | 4.04% |
 | 05:00 | SGD | Retail Sales (YoY) (Sep) | 2.8% |  | 5.3% |
 | 05:00 | SGD | Retail Sales (MoM) (Sep) | -1.4% |  | 0.7% |
-| 07:15 | ZAR | S&P Global Manufacturing PMI (Oct) |  |  | 50.2 |
-| 07:45 | EUR | French Industrial Production (MoM) (Sep) |  | 0.1% | -0.7% |
+| 7 min | ZAR | S&P Global Manufacturing PMI (Oct) |  |  | 50.2 |
+| 37 min | EUR | French Industrial Production (MoM) (Sep) |  | 0.1% | -0.7% |
 | 08:45 | EUR | HCOB Italy Composite PMI (Oct) |  |  | 51.7 |
 | 08:50 | EUR | HCOB France Composite PMI (Oct) |  | 46.8 | 48.1 |
 | 08:55 | EUR | HCOB Germany Composite PMI (Oct) |  | 53.8 | 52.0 |
