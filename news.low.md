@@ -30,14 +30,11 @@
 | 12:00 | MXN | Gross Fixed Investments (YoY) (Aug) | -10.40% | -7.80% | -6.70% |
 | 13:00 | BRL | S&P Global Composite PMI (Oct) | 48.2 |  | 46.0 |
 | 13:00 | BRL | S&P Global Services PMI (Oct) | 47.7 |  | 46.3 |
-| 13:15 | CAD | Reserve Assets Total (Oct) |  |  | 126.6B |
-| 14 min | CAD | Exports (Sep) |  |  | 60.58B |
-| 14 min | CAD | Imports (Sep) |  |  | 66.91B |
-| 44 min | EUR | Consumer Confidence (Nov) |  |  | -14.2 |
-| 14:30 | CAD | Services PMI (Oct) |  |  | 46.30 |
-| 15:00 | USD | Factory orders ex transportation (MoM) (Aug) |  |  | 0.6% |
-| 15:00 | USD | ISM Non-Manufacturing Business Activity (Oct) |  |  | 49.9 |
-| 15:00 | USD | ISM Non-Manufacturing New Orders (Oct) |  |  | 50.4 |
+| 13:15 | CAD | Reserve Assets Total (Oct) | 128.8B |  | 126.6B |
+| 23 min | CAD | Services PMI (Oct) |  |  | 46.30 |
+| 53 min | USD | Factory orders ex transportation (MoM) (Aug) |  |  | 0.6% |
+| 53 min | USD | ISM Non-Manufacturing Business Activity (Oct) |  |  | 49.9 |
+| 53 min | USD | ISM Non-Manufacturing New Orders (Oct) |  | 51.0 | 50.4 |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.511M |
 | 15:30 | USD | Crude Oil Imports |  |  | -1.025M |
 | 15:30 | USD | Distillate Fuel Production |  |  | -0.134M |

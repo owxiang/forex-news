@@ -15,10 +15,9 @@
 | 09:30 | GBP | S&P Global Composite PMI (Oct) | 52.2 | 51.1 | 50.1 |
 | 09:30 | GBP | S&P Global Services PMI (Oct) | 52.3 | 51.1 | 50.8 |
 | 10:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 14 min | CAD | Trade Balance (Sep) |  |  | -6.32B |
-| 14:45 | USD | S&P Global Composite PMI (Oct) |  | 54.8 | 53.9 |
-| 15:00 | USD | Factory Orders (MoM) |  | 1.4% | -1.3% |
-| 15:00 | USD | ISM Non-Manufacturing Employment (Oct) |  |  | 47.2 |
+| 38 min | USD | S&P Global Composite PMI (Oct) |  | 54.8 | 53.9 |
+| 53 min | USD | Factory Orders (MoM) |  | 1.4% | -1.3% |
+| 53 min | USD | ISM Non-Manufacturing Employment (Oct) |  | 47.6 | 47.2 |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | 1.334M |
 | 21:30 | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 21:30 | BRL | Interest Rate Decision |  | 15.00% | 15.00% |
