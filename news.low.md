@@ -5,8 +5,8 @@
 | 00:00 | NZD | ANZ Commodity Price Index (MoM) | -0.3% |  | -1.1% |
 | 00:30 | AUD | RBA Chart Pack Release |  |  |  |
 | 00:30 | HKD | S&P Global Manufacturing PMI (Oct) | 51.2 |  | 50.4 |
-| 04:00 | IDR | GDP (YoY) (Q3) |  | 5.00% | 5.12% |
-| 04:00 | IDR | GDP (QoQ) (Q3) |  | 1.40% | 4.04% |
+| 34 min | IDR | GDP (YoY) (Q3) |  | 5.00% | 5.12% |
+| 34 min | IDR | GDP (QoQ) (Q3) |  | 1.40% | 4.04% |
 | 05:00 | SGD | Retail Sales (YoY) (Sep) |  |  | 5.2% |
 | 05:00 | SGD | Retail Sales (MoM) (Sep) |  |  | 0.5% |
 | 07:15 | ZAR | S&P Global Manufacturing PMI (Oct) |  |  | 50.2 |
