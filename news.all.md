@@ -6,7 +6,7 @@
 | 00:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
 | 00:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
 | 00:30 | HKD | Low | S&P Global Manufacturing PMI (Oct) | 51.2 |  | 50.4 |
-| 01:45 | CNY | Moderate | Caixin Services PMI (Oct) |  | 52.5 | 52.9 |
+| 10 min | CNY | Moderate | Caixin Services PMI (Oct) |  | 52.5 | 52.9 |
 | 03:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 1.635% |
 | 04:00 | IDR | Low | GDP (YoY) (Q3) |  | 5.00% | 5.12% |
 | 04:00 | IDR | Low | GDP (QoQ) (Q3) |  | 1.40% | 4.04% |
