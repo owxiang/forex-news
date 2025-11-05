@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:15 | USD | ADP Nonfarm Employment Change (Oct) |  | 32K | -32K |
+| 13:15 | USD | ADP Nonfarm Employment Change (Oct) | 42K | 32K | -29K |
 | 14:45 | USD | S&P Global Services PMI (Oct) |  | 55.2 | 54.2 |
 | 15:00 | USD | ISM Non-Manufacturing PMI (Oct) |  | 50.7 | 50.0 |
 | 15:00 | USD | ISM Non-Manufacturing Prices (Oct) |  |  | 69.4 |

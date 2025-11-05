@@ -26,14 +26,14 @@
 | 12:00 | USD | MBA Purchase Index | 163.3 |  | 164.3 |
 | 12:00 | USD | Mortgage Market Index | 332.3 |  | 338.7 |
 | 12:00 | USD | Mortgage Refinance Index | 1,290.8 |  | 1,327.8 |
-| 12:00 | MXN | Gross Fixed Investments (MoM) (Aug) | -2.70% | -1.80% | 1.60% |
-| 12:00 | MXN | Gross Fixed Investments (YoY) (Aug) | -10.40% | -7.80% | -6.60% |
-| 47 min | BRL | S&P Global Composite PMI (Oct) |  |  | 46.0 |
-| 47 min | BRL | S&P Global Services PMI (Oct) |  |  | 46.3 |
+| 12:00 | MXN | Gross Fixed Investments (MoM) (Aug) | -2.70% | -1.80% | 1.40% |
+| 12:00 | MXN | Gross Fixed Investments (YoY) (Aug) | -10.40% | -7.80% | -6.70% |
+| 13:00 | BRL | S&P Global Composite PMI (Oct) | 48.2 |  | 46.0 |
+| 13:00 | BRL | S&P Global Services PMI (Oct) | 47.7 |  | 46.3 |
 | 13:15 | CAD | Reserve Assets Total (Oct) |  |  | 126.6B |
-| 13:30 | CAD | Exports (Sep) |  |  | 60.58B |
-| 13:30 | CAD | Imports (Sep) |  |  | 66.91B |
-| 14:00 | EUR | Consumer Confidence (Nov) |  |  | -14.2 |
+| 14 min | CAD | Exports (Sep) |  |  | 60.58B |
+| 14 min | CAD | Imports (Sep) |  |  | 66.91B |
+| 44 min | EUR | Consumer Confidence (Nov) |  |  | -14.2 |
 | 14:30 | CAD | Services PMI (Oct) |  |  | 46.30 |
 | 15:00 | USD | Factory orders ex transportation (MoM) (Aug) |  |  | 0.6% |
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Oct) |  |  | 49.9 |
@@ -45,7 +45,7 @@
 | 15:30 | USD | Gasoline Production |  |  | -0.004M |
 | 15:30 | USD | Heating Oil Stockpiles |  |  | 0.049M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -2.0% |
-| 15:30 | USD | Gasoline Inventories |  |  | -5.941M |
+| 15:30 | USD | Gasoline Inventories |  | -1.500M | -5.941M |
 | 16:10 | GBP | BoE Breeden Speaks |  |  |  |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | 0.513B |
 | 23:00 | KRW | Current Account (Sep) |  |  | 9.15B |
