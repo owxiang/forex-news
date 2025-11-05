@@ -7,8 +7,8 @@
 | 00:30 | HKD | S&P Global Manufacturing PMI (Oct) | 51.2 |  | 50.4 |
 | 04:00 | IDR | GDP (YoY) (Q3) | 5.04% | 5.00% | 5.12% |
 | 04:00 | IDR | GDP (QoQ) (Q3) | 1.43% | 1.40% | 4.04% |
-| 52 min | SGD | Retail Sales (YoY) (Sep) |  |  | 5.2% |
-| 52 min | SGD | Retail Sales (MoM) (Sep) |  |  | 0.5% |
+| 05:00 | SGD | Retail Sales (YoY) (Sep) | 2.8% |  | 5.3% |
+| 05:00 | SGD | Retail Sales (MoM) (Sep) | -1.4% |  | 0.7% |
 | 07:15 | ZAR | S&P Global Manufacturing PMI (Oct) |  |  | 50.2 |
 | 07:45 | EUR | French Industrial Production (MoM) (Sep) |  | 0.1% | -0.7% |
 | 08:45 | EUR | HCOB Italy Composite PMI (Oct) |  |  | 51.7 |
@@ -26,8 +26,8 @@
 | 12:00 | USD | MBA Purchase Index |  |  | 164.3 |
 | 12:00 | USD | Mortgage Market Index |  |  | 338.7 |
 | 12:00 | USD | Mortgage Refinance Index |  |  | 1,327.8 |
-| 12:00 | MXN | Gross Fixed Investments (MoM) (Aug) |  |  | 1.60% |
-| 12:00 | MXN | Gross Fixed Investments (YoY) (Aug) |  |  | -6.60% |
+| 12:00 | MXN | Gross Fixed Investments (MoM) (Aug) |  | -1.80% | 1.60% |
+| 12:00 | MXN | Gross Fixed Investments (YoY) (Aug) |  | -7.80% | -6.60% |
 | 13:00 | BRL | S&P Global Composite PMI (Oct) |  |  | 46.0 |
 | 13:00 | BRL | S&P Global Services PMI (Oct) |  |  | 46.3 |
 | 13:15 | CAD | Reserve Assets Total (Oct) |  |  | 126.6B |
@@ -38,8 +38,6 @@
 | 15:00 | USD | Factory orders ex transportation (MoM) (Aug) |  |  | 0.6% |
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Oct) |  |  | 49.9 |
 | 15:00 | USD | ISM Non-Manufacturing New Orders (Oct) |  |  | 50.4 |
-| 15:00 | NZD | GlobalDairyTrade Price Index |  |  | 21.9% |
-| 15:00 | USD | Milk Auctions |  |  | 3,881.0 |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.511M |
 | 15:30 | USD | Crude Oil Imports |  |  | -1.025M |
 | 15:30 | USD | Distillate Fuel Production |  |  | -0.134M |
@@ -51,5 +49,5 @@
 | 16:10 | GBP | BoE Breeden Speaks |  |  |  |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | 0.513B |
 | 23:00 | KRW | Current Account (Sep) |  |  | 9.15B |
-| 23:30 | JPY | Overall wage income of employees (Sep) |  | 2.0% | 1.5% |
+| 23:30 | JPY | Overall wage income of employees (Sep) |  | 1.9% | 1.5% |
 | 23:30 | JPY | Overtime Pay (YoY) (Sep) |  |  | 0.40% |

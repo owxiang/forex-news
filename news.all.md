@@ -10,9 +10,9 @@
 | 03:35 | JPY | Moderate | 10-Year JGB Auction | 1.658% |  | 1.635% |
 | 04:00 | IDR | Low | GDP (YoY) (Q3) | 5.04% | 5.00% | 5.12% |
 | 04:00 | IDR | Low | GDP (QoQ) (Q3) | 1.43% | 1.40% | 4.04% |
-| 52 min | SGD | Low | Retail Sales (YoY) (Sep) |  |  | 5.2% |
-| 52 min | SGD | Low | Retail Sales (MoM) (Sep) |  |  | 0.5% |
-| 07:00 | EUR | Moderate | German Factory Orders (MoM) (Sep) |  | 0.8% | 1.0% |
+| 05:00 | SGD | Low | Retail Sales (YoY) (Sep) | 2.8% |  | 5.3% |
+| 05:00 | SGD | Low | Retail Sales (MoM) (Sep) | -1.4% |  | 0.7% |
+| 07:00 | EUR | Moderate | German Factory Orders (MoM) (Sep) |  | 0.9% | -0.8% |
 | 07:15 | ZAR | Low | S&P Global Manufacturing PMI (Oct) |  |  | 50.2 |
 | 07:45 | EUR | Low | French Industrial Production (MoM) (Sep) |  | 0.1% | -0.7% |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Oct) |  | 54.8 | 54.3 |
@@ -39,16 +39,15 @@
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 164.3 |
 | 12:00 | USD | Low | Mortgage Market Index |  |  | 338.7 |
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 1,327.8 |
-| 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Aug) |  |  | 1.60% |
-| 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Aug) |  |  | -6.60% |
+| 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Aug) |  | -1.80% | 1.60% |
+| 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Aug) |  | -7.80% | -6.60% |
 | 13:00 | BRL | Low | S&P Global Composite PMI (Oct) |  |  | 46.0 |
 | 13:00 | BRL | Low | S&P Global Services PMI (Oct) |  |  | 46.3 |
-| 13:15 | USD | High | ADP Nonfarm Employment Change (Oct) |  | 31K | -32K |
+| 13:15 | USD | High | ADP Nonfarm Employment Change (Oct) |  | 32K | -32K |
 | 13:15 | CAD | Low | Reserve Assets Total (Oct) |  |  | 126.6B |
 | 13:30 | CAD | Low | Exports (Sep) |  |  | 60.58B |
 | 13:30 | CAD | Low | Imports (Sep) |  |  | 66.91B |
 | 13:30 | CAD | Moderate | Trade Balance (Sep) |  |  | -6.32B |
-| 14:00 | USD | High | ISM Non-Manufacturing PMI (Oct) |  | 51.0 | 50.8 |
 | 14:00 | EUR | Low | Consumer Confidence (Nov) |  |  | -14.2 |
 | 14:30 | CAD | Low | Services PMI (Oct) |  |  | 46.30 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Oct) |  | 54.8 | 53.9 |
@@ -61,9 +60,7 @@
 | 15:00 | USD | High | ISM Non-Manufacturing PMI (Oct) |  | 50.7 | 50.0 |
 | 15:00 | USD | High | ISM Non-Manufacturing Prices (Oct) |  |  | 69.4 |
 | 15:00 | USD | High | JOLTS Job Openings (Sep) |  |  | 7.227M |
-| 15:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 21.9% |
-| 15:00 | USD | Low | Milk Auctions |  |  | 3,881.0 |
-| 15:30 | USD | High | Crude Oil Inventories |  |  | -6.858M |
+| 15:30 | USD | High | Crude Oil Inventories |  | -2.500M | -6.858M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.511M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | -1.025M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 1.334M |
@@ -75,7 +72,9 @@
 | 15:30 | USD | Low | Gasoline Inventories |  |  | -5.941M |
 | 16:10 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | 0.513B |
+| 18:00 | USD | High | U.S. President Trump Speaks |  |  |  |
+| 21:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 21:30 | BRL | Moderate | Interest Rate Decision |  | 15.00% | 15.00% |
 | 23:00 | KRW | Low | Current Account (Sep) |  |  | 9.15B |
-| 23:30 | JPY | Low | Overall wage income of employees (Sep) |  | 2.0% | 1.5% |
+| 23:30 | JPY | Low | Overall wage income of employees (Sep) |  | 1.9% | 1.5% |
 | 23:30 | JPY | Low | Overtime Pay (YoY) (Sep) |  |  | 0.40% |
