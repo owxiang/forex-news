@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | NZD | RBNZ Press Conference |  |  |  |
-| 10 min | CNY | Caixin Services PMI (Oct) |  | 52.5 | 52.9 |
-| 03:35 | JPY | 10-Year JGB Auction |  |  | 1.635% |
+| 01:45 | CNY | Caixin Services PMI (Oct) | 52.6 | 52.5 | 52.9 |
+| 58 min | JPY | 10-Year JGB Auction |  |  | 1.635% |
 | 07:00 | EUR | German Factory Orders (MoM) (Sep) |  | 0.8% | 1.0% |
 | 08:15 | EUR | HCOB Spain Services PMI (Oct) |  | 54.8 | 54.3 |
 | 08:45 | EUR | HCOB Italy Services PMI (Oct) |  | 53.0 | 52.5 |
