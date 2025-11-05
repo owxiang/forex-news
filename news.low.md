@@ -43,7 +43,7 @@
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.6% |  | -2.0% |
 | 15:30 | USD | Gasoline Inventories | -4.729M | -1.500M | -5.941M |
 | 16:10 | GBP | BoE Breeden Speaks |  |  |  |
-| 23 min | BRL | Foreign Exchange Flows |  |  | 0.513B |
+| 17:30 | BRL | Foreign Exchange Flows | 5.785B |  | 0.513B |
 | 23:00 | KRW | Current Account (Sep) |  |  | 9.15B |
 | 23:30 | JPY | Overall wage income of employees (Sep) |  | 1.9% | 1.5% |
 | 23:30 | JPY | Overtime Pay (YoY) (Sep) |  |  | 0.40% |

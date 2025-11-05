@@ -64,8 +64,8 @@
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -0.6% |  | -2.0% |
 | 15:30 | USD | Low | Gasoline Inventories | -4.729M | -1.500M | -5.941M |
 | 16:10 | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 23 min | BRL | Low | Foreign Exchange Flows |  |  | 0.513B |
-| 53 min | USD | High | U.S. President Trump Speaks |  |  |  |
+| 17:30 | BRL | Low | Foreign Exchange Flows | 5.785B |  | 0.513B |
+| 18:00 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 21:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 21:30 | BRL | Moderate | Interest Rate Decision |  | 15.00% | 15.00% |
 | 23:00 | KRW | Low | Current Account (Sep) |  |  | 9.15B |
