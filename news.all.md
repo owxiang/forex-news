@@ -54,7 +54,7 @@
 | 18:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 19:00 | CAD | Moderate | BoC Deputy Gov Kozicki Speaks |  |  |  |
 | 19:00 | MXN | Moderate | Interest Rate Decision (Nov) | 7.25% | 7.25% | 7.50% |
-| 20:30 | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 22 min | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,587B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.828T |
 | 23:30 | JPY | Moderate | Household Spending (YoY) (Sep) |  | 2.5% | 2.3% |
