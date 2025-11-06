@@ -35,16 +35,12 @@
 | 12:00 | GBP | Moderate | BoE MPC vote unchanged (Nov) | 5 | 6 | 7 |
 | 12:00 | GBP | High | BoE Interest Rate Decision (Nov) | 4.00% | 4.00% | 4.00% |
 | 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
-| 12:00 | EUR | Low | Consumer Confidence (Nov) |  |  | -14.2 |
-| 18 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 18 min | USD | Low | Challenger Job Cuts (Oct) | 153.074K |  | 54.064K |
-| 18 min | CAD | Low | Exports (Sep) |  |  | 60.58B |
-| 18 min | CAD | Low | Imports (Sep) |  |  | 66.91B |
-| 18 min | CAD | Moderate | Trade Balance (Sep) |  |  | -6.32B |
-| 18 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 12:00 | USD | Low | Challenger Job Cuts (Oct) | 153.074K |  | 54.064K |
+| 12:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 12:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 13:15 | CAD | Low | Reserve Assets Total (Oct) |  |  | 126.6B |
-| 13:50 | CAD | Low | BoC Deputy Governor Gravelle Speaks |  |  |  |
-| 14:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 34 min | CAD | Low | BoC Deputy Governor Gravelle Speaks |  |  |  |
+| 44 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 15:00 | CAD | Low | Ivey PMI n.s.a (Oct) |  |  | 61.6 |
 | 15:00 | CAD | Moderate | Ivey PMI (Oct) |  | 55.2 | 59.8 |
 | 15:30 | USD | Low | Natural Gas Storage |  | 34B | 74B |

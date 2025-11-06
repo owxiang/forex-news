@@ -14,10 +14,9 @@
 | 12:00 | GBP | BoE MPC vote hike (Nov) | 0 | 0 | 0 |
 | 12:00 | GBP | BoE MPC vote unchanged (Nov) | 5 | 6 | 7 |
 | 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
-| 18 min | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 18 min | CAD | Trade Balance (Sep) |  |  | -6.32B |
-| 18 min | EUR | German Buba President Nagel Speaks |  |  |  |
-| 14:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 12:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 12:30 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 44 min | EUR | German Buba President Nagel Speaks |  |  |  |
 | 15:00 | CAD | Ivey PMI (Oct) |  | 55.2 | 59.8 |
 | 15:30 | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 16:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
