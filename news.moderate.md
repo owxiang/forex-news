@@ -16,8 +16,8 @@
 | 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
 | 12:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 12:30 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 44 min | EUR | German Buba President Nagel Speaks |  |  |  |
-| 15:00 | CAD | Ivey PMI (Oct) |  | 55.2 | 59.8 |
+| 14:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 52 min | CAD | Ivey PMI (Oct) |  | 55.2 | 59.8 |
 | 15:30 | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 16:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 16:00 | USD | FOMC Member Williams Speaks |  |  |  |

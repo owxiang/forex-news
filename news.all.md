@@ -38,11 +38,10 @@
 | 12:00 | USD | Low | Challenger Job Cuts (Oct) | 153.074K |  | 54.064K |
 | 12:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 12:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 13:15 | CAD | Low | Reserve Assets Total (Oct) |  |  | 126.6B |
-| 34 min | CAD | Low | BoC Deputy Governor Gravelle Speaks |  |  |  |
-| 44 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 15:00 | CAD | Low | Ivey PMI n.s.a (Oct) |  |  | 61.6 |
-| 15:00 | CAD | Moderate | Ivey PMI (Oct) |  | 55.2 | 59.8 |
+| 13:50 | CAD | Low | BoC Deputy Governor Gravelle Speaks |  |  |  |
+| 14:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 52 min | CAD | Low | Ivey PMI n.s.a (Oct) |  |  | 61.6 |
+| 52 min | CAD | Moderate | Ivey PMI (Oct) |  | 55.2 | 59.8 |
 | 15:30 | USD | Low | Natural Gas Storage |  | 34B | 74B |
 | 15:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 16:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
