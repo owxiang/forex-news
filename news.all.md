@@ -7,8 +7,8 @@
 | 00:30 | AUD | Moderate | Trade Balance (Sep) | 3.938B | 3.930B | 1.111B |
 | 00:30 | JPY | Low | Manufacturing & Services PMI (Oct) | 51.50 |  | 51.30 |
 | 00:30 | JPY | Moderate | au Jibun Bank Services PMI (Oct) | 53.1 | 52.4 | 53.3 |
-| 49 min | INR | Low | S&P Global Services PMI (Oct) |  | 58.8 | 60.9 |
-| 49 min | INR | Low | Manufacturing & Services PMI (Oct) |  | 59.90 | 59.90 |
+| 05:00 | INR | Low | S&P Global Services PMI (Oct) | 58.9 | 58.8 | 60.9 |
+| 05:00 | INR | Low | Manufacturing & Services PMI (Oct) | 60.40 | 59.90 | 61.00 |
 | 07:00 | EUR | Moderate | German Industrial Production (MoM) (Sep) |  | 3.0% | -4.3% |
 | 07:00 | EUR | Low | German Industrial Production (YoY) (Sep) |  |  | -4.20% |
 | 07:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q3) |  | -0.1% | 0.2% |
@@ -36,6 +36,7 @@
 | 12:00 | GBP | High | BoE Interest Rate Decision (Nov) |  | 4.00% | 4.00% |
 | 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
 | 12:00 | EUR | Low | Consumer Confidence (Nov) |  |  | -14.2 |
+| 12:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 12:30 | USD | Low | Challenger Job Cuts (Oct) |  |  | 54.064K |
 | 12:30 | CAD | Low | Exports (Sep) |  |  | 60.58B |
 | 12:30 | CAD | Low | Imports (Sep) |  |  | 66.91B |
@@ -46,7 +47,6 @@
 | 13:15 | CAD | Low | Reserve Assets Total (Oct) |  |  | 126.6B |
 | 13:50 | CAD | Low | BoC Deputy Governor Gravelle Speaks |  |  |  |
 | 14:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 14:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 15:00 | CAD | Low | Ivey PMI n.s.a (Oct) |  |  | 61.6 |
 | 15:00 | CAD | Moderate | Ivey PMI (Oct) |  | 55.2 | 59.8 |
 | 15:30 | USD | Low | Natural Gas Storage |  | 34B | 74B |
