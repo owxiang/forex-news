@@ -26,7 +26,7 @@
 | 18:30 | EUR | ECB's Lane Speaks |  |  |  |
 | 19:00 | CAD | BoC Deputy Gov Kozicki Speaks |  |  |  |
 | 19:00 | MXN | Interest Rate Decision (Nov) | 7.25% | 7.25% | 7.50% |
-| 22 min | USD | Fed Waller Speaks |  |  |  |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 6,587B |
+| 20:30 | USD | Fed Waller Speaks |  |  |  |
+| 21:30 | USD | Fed's Balance Sheet | 6,573B |  | 6,587B |
 | 23:30 | JPY | Household Spending (YoY) (Sep) |  | 2.5% | 2.3% |
 | 23:30 | JPY | Household Spending (MoM) (Sep) |  |  | 0.6% |
