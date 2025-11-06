@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Trade Balance (Sep) | 3.938B | 3.930B | 1.111B |
 | 00:30 | JPY | au Jibun Bank Services PMI (Oct) | 53.1 | 52.4 | 53.3 |
-| 07:00 | EUR | German Industrial Production (MoM) (Sep) |  | 3.0% | -4.3% |
+| 49 min | EUR | German Industrial Production (MoM) (Sep) |  | 3.0% | -4.3% |
 | 08:10 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 08:30 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 09:00 | NOK | Interest Rate Decision |  | 4.00% | 4.00% |

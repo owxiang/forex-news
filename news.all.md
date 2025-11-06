@@ -9,8 +9,8 @@
 | 00:30 | JPY | Moderate | au Jibun Bank Services PMI (Oct) | 53.1 | 52.4 | 53.3 |
 | 05:00 | INR | Low | S&P Global Services PMI (Oct) | 58.9 | 58.8 | 60.9 |
 | 05:00 | INR | Low | Manufacturing & Services PMI (Oct) | 60.40 | 59.90 | 61.00 |
-| 07:00 | EUR | Moderate | German Industrial Production (MoM) (Sep) |  | 3.0% | -4.3% |
-| 07:00 | EUR | Low | German Industrial Production (YoY) (Sep) |  |  | -4.20% |
+| 49 min | EUR | Moderate | German Industrial Production (MoM) (Sep) |  | 3.0% | -4.3% |
+| 49 min | EUR | Low | German Industrial Production (YoY) (Sep) |  |  | -4.20% |
 | 07:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q3) |  | -0.1% | 0.2% |
 | 08:00 | CHF | Low | Unemployment Rate n.s.a. (Oct) |  |  | 2.8% |
 | 08:00 | CHF | Low | Unemployment Rate s.a. (Oct) |  | 3.0% | 3.0% |
