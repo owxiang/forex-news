@@ -6,10 +6,10 @@
 | 00:30 | JPY | au Jibun Bank Services PMI (Oct) | 53.1 | 52.4 | 53.3 |
 | 07:00 | EUR | German Industrial Production (MoM) (Sep) | 1.3% | 3.0% | -3.7% |
 | 08:10 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 21 min | EUR | ECB's De Guindos Speaks |  |  |  |
-| 51 min | NOK | Interest Rate Decision |  | 4.00% | 4.00% |
-| 09:30 | GBP | S&P Global Construction PMI (Oct) |  | 46.7 | 46.2 |
-| 09:40 | EUR | Spanish 15-Year Obligacion Auction |  |  | 3.671% |
+| 08:30 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 09:00 | NOK | Interest Rate Decision | 4.00% | 4.00% | 4.00% |
+| 21 min | GBP | S&P Global Construction PMI (Oct) |  | 46.7 | 46.2 |
+| 31 min | EUR | Spanish 15-Year Obligacion Auction |  |  | 3.671% |
 | 12:00 | GBP | BoE MPC vote cut (Nov) |  | 3 | 2 |
 | 12:00 | GBP | BoE MPC vote hike (Nov) |  | 0 | 0 |
 | 12:00 | GBP | BoE MPC vote unchanged (Nov) |  | 6 | 7 |

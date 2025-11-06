@@ -16,19 +16,19 @@
 | 08:00 | CHF | Low | Unemployment Rate s.a. (Oct) | 3.0% | 3.0% | 3.0% |
 | 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Sep) | 1.7% |  | 3.3% |
 | 08:10 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 21 min | EUR | Low | HCOB Italy Construction PMI (MoM) (Oct) |  |  | 49.8 |
-| 21 min | EUR | Low | HCOB Germany Construction PMI (Oct) |  | 46.9 | 46.2 |
-| 21 min | EUR | Low | HCOB France Construction PMI (MoM) (Oct) |  |  | 42.9 |
-| 21 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 21 min | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Oct) |  |  | 46.0 |
-| 51 min | NOK | Moderate | Interest Rate Decision |  | 4.00% | 4.00% |
-| 09:30 | GBP | Moderate | S&P Global Construction PMI (Oct) |  | 46.7 | 46.2 |
-| 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.085% |
-| 09:40 | EUR | Moderate | Spanish 15-Year Obligacion Auction |  |  | 3.671% |
-| 09:40 | EUR | Low | Spanish 7-Year Obligacion Auction |  |  | 2.716% |
-| 09:50 | EUR | Low | French 10-Year OAT Auction |  |  | 3.51% |
-| 10:00 | EUR | Low | Retail Sales (MoM) (Sep) |  | 0.2% | 0.1% |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Sep) |  | 1.0% | 1.0% |
+| 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Oct) | 50.7 |  | 49.8 |
+| 08:30 | EUR | Low | HCOB Germany Construction PMI (Oct) | 42.8 | 46.9 | 46.2 |
+| 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Oct) | 39.8 |  | 42.9 |
+| 08:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Oct) | 44.0 |  | 46.0 |
+| 09:00 | NOK | Moderate | Interest Rate Decision | 4.00% | 4.00% | 4.00% |
+| 21 min | GBP | Moderate | S&P Global Construction PMI (Oct) |  | 46.7 | 46.2 |
+| 31 min | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.085% |
+| 31 min | EUR | Moderate | Spanish 15-Year Obligacion Auction |  |  | 3.671% |
+| 31 min | EUR | Low | Spanish 7-Year Obligacion Auction |  |  | 2.716% |
+| 41 min | EUR | Low | French 10-Year OAT Auction |  |  | 3.51% |
+| 51 min | EUR | Low | Retail Sales (MoM) (Sep) |  | 0.2% | 0.1% |
+| 51 min | EUR | Low | Retail Sales (YoY) (Sep) |  | 1.0% | 1.0% |
 | 11:00 | CAD | Low | Leading Index (MoM) (Oct) |  |  | 0.23% |
 | 12:00 | GBP | Moderate | BoE MPC vote cut (Nov) |  | 3 | 2 |
 | 12:00 | GBP | Moderate | BoE MPC vote hike (Nov) |  | 0 | 0 |

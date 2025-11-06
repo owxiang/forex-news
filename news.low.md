@@ -12,15 +12,15 @@
 | 08:00 | CHF | Unemployment Rate n.s.a. (Oct) | 2.9% |  | 2.8% |
 | 08:00 | CHF | Unemployment Rate s.a. (Oct) | 3.0% | 3.0% | 3.0% |
 | 08:00 | EUR | Spanish Industrial Production (YoY) (Sep) | 1.7% |  | 3.3% |
-| 21 min | EUR | HCOB Italy Construction PMI (MoM) (Oct) |  |  | 49.8 |
-| 21 min | EUR | HCOB Germany Construction PMI (Oct) |  | 46.9 | 46.2 |
-| 21 min | EUR | HCOB France Construction PMI (MoM) (Oct) |  |  | 42.9 |
-| 21 min | EUR | HCOB Eurozone Construction PMI (MoM) (Oct) |  |  | 46.0 |
-| 09:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.085% |
-| 09:40 | EUR | Spanish 7-Year Obligacion Auction |  |  | 2.716% |
-| 09:50 | EUR | French 10-Year OAT Auction |  |  | 3.51% |
-| 10:00 | EUR | Retail Sales (MoM) (Sep) |  | 0.2% | 0.1% |
-| 10:00 | EUR | Retail Sales (YoY) (Sep) |  | 1.0% | 1.0% |
+| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Oct) | 50.7 |  | 49.8 |
+| 08:30 | EUR | HCOB Germany Construction PMI (Oct) | 42.8 | 46.9 | 46.2 |
+| 08:30 | EUR | HCOB France Construction PMI (MoM) (Oct) | 39.8 |  | 42.9 |
+| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Oct) | 44.0 |  | 46.0 |
+| 31 min | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.085% |
+| 31 min | EUR | Spanish 7-Year Obligacion Auction |  |  | 2.716% |
+| 41 min | EUR | French 10-Year OAT Auction |  |  | 3.51% |
+| 51 min | EUR | Retail Sales (MoM) (Sep) |  | 0.2% | 0.1% |
+| 51 min | EUR | Retail Sales (YoY) (Sep) |  | 1.0% | 1.0% |
 | 11:00 | CAD | Leading Index (MoM) (Oct) |  |  | 0.23% |
 | 12:00 | EUR | Consumer Confidence (Nov) |  |  | -14.2 |
 | 12:30 | USD | Challenger Job Cuts (Oct) |  |  | 54.064K |
