@@ -2,12 +2,11 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | AUD | Low | Exports (MoM) (Sep) |  |  | -7.8% |
-| 00:30 | AUD | Low | Imports (MoM) (Sep) |  |  | 3.2% |
-| 00:30 | AUD | Moderate | Trade Balance (Sep) |  | 3.930B | 1.825B |
-| 00:30 | JPY | Low | Manufacturing & Services PMI (Oct) | 51.50 | 50.90 | 50.90 |
+| 00:30 | AUD | Low | Exports (MoM) (Sep) | 7.9% |  | -8.7% |
+| 00:30 | AUD | Low | Imports (MoM) (Sep) | 1.1% |  | 3.3% |
+| 00:30 | AUD | Moderate | Trade Balance (Sep) | 3.938B | 3.930B | 1.111B |
+| 00:30 | JPY | Low | Manufacturing & Services PMI (Oct) | 51.50 |  | 51.30 |
 | 00:30 | JPY | Moderate | au Jibun Bank Services PMI (Oct) | 53.1 | 52.4 | 53.3 |
-| 30 min | JPY | Low | Reuters Tankan Index (Nov) |  |  | 8 |
 | 05:00 | INR | Low | S&P Global Services PMI (Oct) |  | 58.8 | 60.9 |
 | 05:00 | INR | Low | Manufacturing & Services PMI (Oct) |  | 59.90 | 59.90 |
 | 07:00 | EUR | Moderate | German Industrial Production (MoM) (Sep) |  | 3.0% | -4.3% |

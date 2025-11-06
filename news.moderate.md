@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Trade Balance (Sep) |  | 3.930B | 1.825B |
+| 00:30 | AUD | Trade Balance (Sep) | 3.938B | 3.930B | 1.111B |
 | 00:30 | JPY | au Jibun Bank Services PMI (Oct) | 53.1 | 52.4 | 53.3 |
 | 07:00 | EUR | German Industrial Production (MoM) (Sep) |  | 3.0% | -4.3% |
 | 08:10 | EUR | ECB's Schnabel Speaks |  |  |  |

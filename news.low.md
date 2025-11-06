@@ -2,10 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Exports (MoM) (Sep) |  |  | -7.8% |
-| 00:30 | AUD | Imports (MoM) (Sep) |  |  | 3.2% |
-| 00:30 | JPY | Manufacturing & Services PMI (Oct) | 51.50 | 50.90 | 50.90 |
-| 30 min | JPY | Reuters Tankan Index (Nov) |  |  | 8 |
+| 00:30 | AUD | Exports (MoM) (Sep) | 7.9% |  | -8.7% |
+| 00:30 | AUD | Imports (MoM) (Sep) | 1.1% |  | 3.3% |
+| 00:30 | JPY | Manufacturing & Services PMI (Oct) | 51.50 |  | 51.30 |
 | 05:00 | INR | S&P Global Services PMI (Oct) |  | 58.8 | 60.9 |
 | 05:00 | INR | Manufacturing & Services PMI (Oct) |  | 59.90 | 59.90 |
 | 07:00 | EUR | German Industrial Production (YoY) (Sep) |  |  | -4.20% |
