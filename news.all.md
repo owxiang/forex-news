@@ -57,7 +57,7 @@
 | 20:30 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet | 6,573B |  | 6,587B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 2.852T |  | 2.828T |
-| 23:30 | JPY | Moderate | Household Spending (YoY) (Sep) |  | 2.5% | 2.3% |
-| 23:30 | JPY | Moderate | Household Spending (MoM) (Sep) |  |  | 0.6% |
-| 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -351.4B |
-| 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 1,344.2B |
+| 24 min | JPY | Moderate | Household Spending (YoY) (Sep) |  | 2.5% | 2.3% |
+| 24 min | JPY | Moderate | Household Spending (MoM) (Sep) |  |  | 0.6% |
+| 44 min | JPY | Low | Foreign Bonds Buying |  |  | -351.4B |
+| 44 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 1,344.2B |
