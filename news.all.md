@@ -42,16 +42,14 @@
 | 14:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 15:00 | CAD | Low | Ivey PMI n.s.a (Oct) | 51.7 |  | 61.6 |
 | 15:00 | CAD | Moderate | Ivey PMI (Oct) | 52.4 | 55.2 | 59.8 |
-| 22 min | USD | Low | Natural Gas Storage |  | 34B | 74B |
-| 22 min | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
-| 52 min | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 52 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 52 min | USD | Low | Wholesale Inventories (MoM) (Aug) |  |  | -0.2% |
-| 52 min | USD | Low | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.4% |
-| 16:15 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.910% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.890% |
-| 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 4.0% | 4.0% |
+| 15:30 | USD | Low | Natural Gas Storage | 33B | 34B | 74B |
+| 15:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
+| 16:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 16:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 5 min | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
+| 20 min | USD | Low | 4-Week Bill Auction |  |  | 3.910% |
+| 20 min | USD | Low | 8-Week Bill Auction |  |  | 3.890% |
+| 50 min | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 4.0% | 4.0% |
 | 18:00 | BRL | Low | Trade Balance (Oct) |  | 6.20B | 2.99B |
 | 18:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 19:00 | CAD | Moderate | BoC Deputy Gov Kozicki Speaks |  |  |  |
