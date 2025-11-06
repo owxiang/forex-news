@@ -7,11 +7,11 @@
 | 00:30 | JPY | Manufacturing & Services PMI (Oct) | 51.50 |  | 51.30 |
 | 05:00 | INR | S&P Global Services PMI (Oct) | 58.9 | 58.8 | 60.9 |
 | 05:00 | INR | Manufacturing & Services PMI (Oct) | 60.40 | 59.90 | 61.00 |
-| 49 min | EUR | German Industrial Production (YoY) (Sep) |  |  | -4.20% |
-| 07:45 | EUR | French Non-Farm Payrolls (QoQ) (Q3) |  | -0.1% | 0.2% |
-| 08:00 | CHF | Unemployment Rate n.s.a. (Oct) |  |  | 2.8% |
-| 08:00 | CHF | Unemployment Rate s.a. (Oct) |  | 3.0% | 3.0% |
-| 08:00 | EUR | Spanish Industrial Production (YoY) (Sep) |  |  | 3.4% |
+| 07:00 | EUR | German Industrial Production (YoY) (Sep) | -1.00% |  | -4.20% |
+| 37 min | EUR | French Non-Farm Payrolls (QoQ) (Q3) |  | -0.1% | 0.2% |
+| 52 min | CHF | Unemployment Rate n.s.a. (Oct) |  |  | 2.8% |
+| 52 min | CHF | Unemployment Rate s.a. (Oct) |  | 3.0% | 3.0% |
+| 52 min | EUR | Spanish Industrial Production (YoY) (Sep) |  |  | 3.4% |
 | 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Oct) |  |  | 49.8 |
 | 08:30 | EUR | HCOB Germany Construction PMI (Oct) |  | 46.9 | 46.2 |
 | 08:30 | EUR | HCOB France Construction PMI (MoM) (Oct) |  |  | 42.9 |
