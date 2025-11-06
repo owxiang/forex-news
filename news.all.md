@@ -10,18 +10,18 @@
 | 05:00 | INR | Low | S&P Global Services PMI (Oct) | 58.9 | 58.8 | 60.9 |
 | 05:00 | INR | Low | Manufacturing & Services PMI (Oct) | 60.40 | 59.90 | 61.00 |
 | 07:00 | EUR | Moderate | German Industrial Production (MoM) (Sep) | 1.3% | 3.0% | -3.7% |
-| 07:00 | EUR | Low | German Industrial Production (YoY) (Sep) | -1.00% |  | -4.20% |
-| 37 min | EUR | Low | French Non-Farm Payrolls (QoQ) (Q3) |  | -0.1% | 0.2% |
-| 52 min | CHF | Low | Unemployment Rate n.s.a. (Oct) |  |  | 2.8% |
-| 52 min | CHF | Low | Unemployment Rate s.a. (Oct) |  | 3.0% | 3.0% |
-| 52 min | EUR | Low | Spanish Industrial Production (YoY) (Sep) |  |  | 3.4% |
+| 07:00 | EUR | Low | German Industrial Production (YoY) (Sep) | -0.98% |  | -3.66% |
+| 07:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q3) | -0.3% | -0.1% | 0.2% |
+| 08:00 | CHF | Low | Unemployment Rate n.s.a. (Oct) | 2.9% |  | 2.8% |
+| 08:00 | CHF | Low | Unemployment Rate s.a. (Oct) | 3.0% | 3.0% | 3.0% |
+| 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Sep) | 1.7% |  | 3.3% |
 | 08:10 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Oct) |  |  | 49.8 |
-| 08:30 | EUR | Low | HCOB Germany Construction PMI (Oct) |  | 46.9 | 46.2 |
-| 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Oct) |  |  | 42.9 |
-| 08:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Oct) |  |  | 46.0 |
-| 09:00 | NOK | Moderate | Interest Rate Decision |  | 4.00% | 4.00% |
+| 21 min | EUR | Low | HCOB Italy Construction PMI (MoM) (Oct) |  |  | 49.8 |
+| 21 min | EUR | Low | HCOB Germany Construction PMI (Oct) |  | 46.9 | 46.2 |
+| 21 min | EUR | Low | HCOB France Construction PMI (MoM) (Oct) |  |  | 42.9 |
+| 21 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 21 min | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Oct) |  |  | 46.0 |
+| 51 min | NOK | Moderate | Interest Rate Decision |  | 4.00% | 4.00% |
 | 09:30 | GBP | Moderate | S&P Global Construction PMI (Oct) |  | 46.7 | 46.2 |
 | 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.085% |
 | 09:40 | EUR | Moderate | Spanish 15-Year Obligacion Auction |  |  | 3.671% |
@@ -42,8 +42,6 @@
 | 12:30 | CAD | Low | Imports (Sep) |  |  | 66.91B |
 | 12:30 | CAD | Moderate | Trade Balance (Sep) |  |  | -6.32B |
 | 12:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 13:00 | BRL | Low | Auto Production (MoM) (Oct) |  |  | -1.5% |
-| 13:00 | BRL | Low | Auto Sales (MoM) (Oct) |  |  | 7.9% |
 | 13:15 | CAD | Low | Reserve Assets Total (Oct) |  |  | 126.6B |
 | 13:50 | CAD | Low | BoC Deputy Governor Gravelle Speaks |  |  |  |
 | 14:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
