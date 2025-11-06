@@ -22,10 +22,10 @@
 | 16:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 16:00 | USD | FOMC Member Williams Speaks |  |  |  |
 | 16:15 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 17:00 | USD | Atlanta Fed GDPNow (Q4) |  | 4.0% | 4.0% |
-| 18:30 | EUR | ECB's Lane Speaks |  |  |  |
-| 19:00 | CAD | BoC Deputy Gov Kozicki Speaks |  |  |  |
-| 19:00 | MXN | Interest Rate Decision (Nov) |  | 7.25% | 7.50% |
+| 17:00 | USD | Atlanta Fed GDPNow (Q4) | 4.0% | 4.0% | 4.0% |
+| 20 min | EUR | ECB's Lane Speaks |  |  |  |
+| 50 min | CAD | BoC Deputy Gov Kozicki Speaks |  |  |  |
+| 50 min | MXN | Interest Rate Decision (Nov) |  | 7.25% | 7.50% |
 | 20:30 | USD | Fed Waller Speaks |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,587B |
 | 23:30 | JPY | Household Spending (YoY) (Sep) |  | 2.5% | 2.3% |

@@ -28,7 +28,7 @@
 | 15:30 | USD | Natural Gas Storage | 33B | 34B | 74B |
 | 16:30 | USD | 4-Week Bill Auction | 3.875% |  | 3.910% |
 | 16:30 | USD | 8-Week Bill Auction | 3.815% |  | 3.890% |
-| 52 min | BRL | Trade Balance (Oct) |  | 6.20B | 2.99B |
+| 18:00 | BRL | Trade Balance (Oct) | 6.96B | 6.20B | 2.99B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.828T |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | -351.4B |
 | 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 1,344.2B |
