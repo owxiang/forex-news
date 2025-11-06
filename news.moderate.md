@@ -21,8 +21,8 @@
 | 15:30 | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 16:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 16:00 | USD | FOMC Member Williams Speaks |  |  |  |
-| 5 min | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 50 min | USD | Atlanta Fed GDPNow (Q4) |  | 4.0% | 4.0% |
+| 16:15 | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 17:00 | USD | Atlanta Fed GDPNow (Q4) |  | 4.0% | 4.0% |
 | 18:30 | EUR | ECB's Lane Speaks |  |  |  |
 | 19:00 | CAD | BoC Deputy Gov Kozicki Speaks |  |  |  |
 | 19:00 | MXN | Interest Rate Decision (Nov) |  | 7.25% | 7.50% |

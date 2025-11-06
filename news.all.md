@@ -46,11 +46,11 @@
 | 15:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 16:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 16:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 5 min | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 20 min | USD | Low | 4-Week Bill Auction |  |  | 3.910% |
-| 20 min | USD | Low | 8-Week Bill Auction |  |  | 3.890% |
-| 50 min | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 4.0% | 4.0% |
-| 18:00 | BRL | Low | Trade Balance (Oct) |  | 6.20B | 2.99B |
+| 16:15 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
+| 16:30 | USD | Low | 4-Week Bill Auction | 3.875% |  | 3.910% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 3.815% |  | 3.890% |
+| 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 4.0% | 4.0% |
+| 52 min | BRL | Low | Trade Balance (Oct) |  | 6.20B | 2.99B |
 | 18:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 19:00 | CAD | Moderate | BoC Deputy Gov Kozicki Speaks |  |  |  |
 | 19:00 | MXN | Moderate | Interest Rate Decision (Nov) |  | 7.25% | 7.50% |
