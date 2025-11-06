@@ -17,10 +17,10 @@
 | 12:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 12:30 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 14:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 52 min | CAD | Ivey PMI (Oct) |  | 55.2 | 59.8 |
-| 15:30 | CAD | BoC Gov Macklem Speaks |  |  |  |
-| 16:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 16:00 | USD | FOMC Member Williams Speaks |  |  |  |
+| 15:00 | CAD | Ivey PMI (Oct) | 52.4 | 55.2 | 59.8 |
+| 22 min | CAD | BoC Gov Macklem Speaks |  |  |  |
+| 52 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 52 min | USD | FOMC Member Williams Speaks |  |  |  |
 | 16:15 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 17:00 | USD | Atlanta Fed GDPNow (Q4) |  | 4.0% | 4.0% |
 | 18:30 | EUR | ECB's Lane Speaks |  |  |  |

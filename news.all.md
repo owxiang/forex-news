@@ -40,12 +40,14 @@
 | 12:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 13:50 | CAD | Low | BoC Deputy Governor Gravelle Speaks |  |  |  |
 | 14:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 52 min | CAD | Low | Ivey PMI n.s.a (Oct) |  |  | 61.6 |
-| 52 min | CAD | Moderate | Ivey PMI (Oct) |  | 55.2 | 59.8 |
-| 15:30 | USD | Low | Natural Gas Storage |  | 34B | 74B |
-| 15:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
-| 16:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 16:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 15:00 | CAD | Low | Ivey PMI n.s.a (Oct) | 51.7 |  | 61.6 |
+| 15:00 | CAD | Moderate | Ivey PMI (Oct) | 52.4 | 55.2 | 59.8 |
+| 22 min | USD | Low | Natural Gas Storage |  | 34B | 74B |
+| 22 min | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
+| 52 min | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 52 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 52 min | USD | Low | Wholesale Inventories (MoM) (Aug) |  |  | -0.2% |
+| 52 min | USD | Low | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.4% |
 | 16:15 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.910% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.890% |

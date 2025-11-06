@@ -24,8 +24,10 @@
 | 11:00 | CAD | Leading Index (MoM) (Oct) | 0.21% |  | 0.23% |
 | 12:00 | USD | Challenger Job Cuts (Oct) | 153.074K |  | 54.064K |
 | 13:50 | CAD | BoC Deputy Governor Gravelle Speaks |  |  |  |
-| 52 min | CAD | Ivey PMI n.s.a (Oct) |  |  | 61.6 |
-| 15:30 | USD | Natural Gas Storage |  | 34B | 74B |
+| 15:00 | CAD | Ivey PMI n.s.a (Oct) | 51.7 |  | 61.6 |
+| 22 min | USD | Natural Gas Storage |  | 34B | 74B |
+| 52 min | USD | Wholesale Inventories (MoM) (Aug) |  |  | -0.2% |
+| 52 min | USD | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.4% |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.910% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 3.890% |
 | 18:00 | BRL | Trade Balance (Oct) |  | 6.20B | 2.99B |
