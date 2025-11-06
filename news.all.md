@@ -22,14 +22,14 @@
 | 08:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Oct) | 44.0 |  | 46.0 |
 | 09:00 | NOK | Moderate | Interest Rate Decision | 4.00% | 4.00% | 4.00% |
-| 21 min | GBP | Moderate | S&P Global Construction PMI (Oct) |  | 46.7 | 46.2 |
-| 31 min | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.085% |
-| 31 min | EUR | Moderate | Spanish 15-Year Obligacion Auction |  |  | 3.671% |
-| 31 min | EUR | Low | Spanish 7-Year Obligacion Auction |  |  | 2.716% |
-| 41 min | EUR | Low | French 10-Year OAT Auction |  |  | 3.51% |
-| 51 min | EUR | Low | Retail Sales (MoM) (Sep) |  | 0.2% | 0.1% |
-| 51 min | EUR | Low | Retail Sales (YoY) (Sep) |  | 1.0% | 1.0% |
-| 11:00 | CAD | Low | Leading Index (MoM) (Oct) |  |  | 0.23% |
+| 09:30 | GBP | Moderate | S&P Global Construction PMI (Oct) | 44.1 | 46.7 | 46.2 |
+| 09:50 | EUR | Low | French 10-Year OAT Auction | 3.43% |  | 3.51% |
+| 10:00 | EUR | Low | Retail Sales (MoM) (Sep) | -0.1% | 0.2% | -0.1% |
+| 10:00 | EUR | Low | Retail Sales (YoY) (Sep) | 1.0% | 1.0% | 1.6% |
+| 22 min | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.085% |
+| 22 min | EUR | Moderate | Spanish 15-Year Obligacion Auction |  |  | 3.671% |
+| 22 min | EUR | Low | Spanish 7-Year Obligacion Auction |  |  | 2.716% |
+| 52 min | CAD | Low | Leading Index (MoM) (Oct) |  |  | 0.23% |
 | 12:00 | GBP | Moderate | BoE MPC vote cut (Nov) |  | 3 | 2 |
 | 12:00 | GBP | Moderate | BoE MPC vote hike (Nov) |  | 0 | 0 |
 | 12:00 | GBP | Moderate | BoE MPC vote unchanged (Nov) |  | 6 | 7 |
@@ -54,7 +54,7 @@
 | 16:15 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.910% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.890% |
-| 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  |  |  |
+| 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 4.0% | 4.0% |
 | 18:00 | BRL | Low | Trade Balance (Oct) |  | 6.20B | 2.99B |
 | 18:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 19:00 | CAD | Moderate | BoC Deputy Gov Kozicki Speaks |  |  |  |
