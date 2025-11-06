@@ -24,18 +24,18 @@
 | 09:00 | NOK | Moderate | Interest Rate Decision | 4.00% | 4.00% | 4.00% |
 | 09:30 | GBP | Moderate | S&P Global Construction PMI (Oct) | 44.1 | 46.7 | 46.2 |
 | 09:50 | EUR | Low | French 10-Year OAT Auction | 3.43% |  | 3.51% |
+| 10:00 | EUR | Low | Spanish 10-Year Obligacion Auction | 3.111% |  | 3.085% |
+| 10:00 | EUR | Moderate | Spanish 15-Year Obligacion Auction | 3.616% |  | 3.671% |
+| 10:00 | EUR | Low | Spanish 7-Year Obligacion Auction | 2.848% |  | 2.716% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Sep) | -0.1% | 0.2% | -0.1% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (Sep) | 1.0% | 1.0% | 1.6% |
-| 22 min | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.085% |
-| 22 min | EUR | Moderate | Spanish 15-Year Obligacion Auction |  |  | 3.671% |
-| 22 min | EUR | Low | Spanish 7-Year Obligacion Auction |  |  | 2.716% |
-| 52 min | CAD | Low | Leading Index (MoM) (Oct) |  |  | 0.23% |
-| 12:00 | GBP | Moderate | BoE MPC vote cut (Nov) |  | 3 | 2 |
-| 12:00 | GBP | Moderate | BoE MPC vote hike (Nov) |  | 0 | 0 |
-| 12:00 | GBP | Moderate | BoE MPC vote unchanged (Nov) |  | 6 | 7 |
-| 12:00 | GBP | High | BoE Interest Rate Decision (Nov) |  | 4.00% | 4.00% |
-| 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
-| 12:00 | EUR | Low | Consumer Confidence (Nov) |  |  | -14.2 |
+| 54 min | GBP | Moderate | BoE MPC vote cut (Nov) |  | 3 | 2 |
+| 54 min | GBP | Moderate | BoE MPC vote hike (Nov) |  | 0 | 0 |
+| 54 min | GBP | Moderate | BoE MPC vote unchanged (Nov) |  | 6 | 7 |
+| 54 min | GBP | High | BoE Interest Rate Decision (Nov) |  | 4.00% | 4.00% |
+| 54 min | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
+| 54 min | CAD | Low | Leading Index (MoM) (Oct) |  |  | 0.23% |
+| 54 min | EUR | Low | Consumer Confidence (Nov) |  |  | -14.2 |
 | 12:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 12:30 | USD | Low | Challenger Job Cuts (Oct) |  |  | 54.064K |
 | 12:30 | CAD | Low | Exports (Sep) |  |  | 60.58B |

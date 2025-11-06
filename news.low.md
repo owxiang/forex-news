@@ -17,12 +17,12 @@
 | 08:30 | EUR | HCOB France Construction PMI (MoM) (Oct) | 39.8 |  | 42.9 |
 | 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Oct) | 44.0 |  | 46.0 |
 | 09:50 | EUR | French 10-Year OAT Auction | 3.43% |  | 3.51% |
+| 10:00 | EUR | Spanish 10-Year Obligacion Auction | 3.111% |  | 3.085% |
+| 10:00 | EUR | Spanish 7-Year Obligacion Auction | 2.848% |  | 2.716% |
 | 10:00 | EUR | Retail Sales (MoM) (Sep) | -0.1% | 0.2% | -0.1% |
 | 10:00 | EUR | Retail Sales (YoY) (Sep) | 1.0% | 1.0% | 1.6% |
-| 22 min | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.085% |
-| 22 min | EUR | Spanish 7-Year Obligacion Auction |  |  | 2.716% |
-| 52 min | CAD | Leading Index (MoM) (Oct) |  |  | 0.23% |
-| 12:00 | EUR | Consumer Confidence (Nov) |  |  | -14.2 |
+| 54 min | CAD | Leading Index (MoM) (Oct) |  |  | 0.23% |
+| 54 min | EUR | Consumer Confidence (Nov) |  |  | -14.2 |
 | 12:30 | USD | Challenger Job Cuts (Oct) |  |  | 54.064K |
 | 12:30 | CAD | Exports (Sep) |  |  | 60.58B |
 | 12:30 | CAD | Imports (Sep) |  |  | 66.91B |

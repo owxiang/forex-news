@@ -9,11 +9,11 @@
 | 08:30 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 09:00 | NOK | Interest Rate Decision | 4.00% | 4.00% | 4.00% |
 | 09:30 | GBP | S&P Global Construction PMI (Oct) | 44.1 | 46.7 | 46.2 |
-| 22 min | EUR | Spanish 15-Year Obligacion Auction |  |  | 3.671% |
-| 12:00 | GBP | BoE MPC vote cut (Nov) |  | 3 | 2 |
-| 12:00 | GBP | BoE MPC vote hike (Nov) |  | 0 | 0 |
-| 12:00 | GBP | BoE MPC vote unchanged (Nov) |  | 6 | 7 |
-| 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
+| 10:00 | EUR | Spanish 15-Year Obligacion Auction | 3.616% |  | 3.671% |
+| 54 min | GBP | BoE MPC vote cut (Nov) |  | 3 | 2 |
+| 54 min | GBP | BoE MPC vote hike (Nov) |  | 0 | 0 |
+| 54 min | GBP | BoE MPC vote unchanged (Nov) |  | 6 | 7 |
+| 54 min | GBP | BoE MPC Meeting Minutes |  |  |  |
 | 12:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 12:30 | CAD | Trade Balance (Sep) |  |  | -6.32B |
 | 12:30 | EUR | German Buba President Nagel Speaks |  |  |  |
