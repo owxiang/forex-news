@@ -29,19 +29,19 @@
 | 10:00 | EUR | Low | Spanish 7-Year Obligacion Auction | 2.848% |  | 2.716% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Sep) | -0.1% | 0.2% | -0.1% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (Sep) | 1.0% | 1.0% | 1.6% |
-| 54 min | GBP | Moderate | BoE MPC vote cut (Nov) |  | 3 | 2 |
-| 54 min | GBP | Moderate | BoE MPC vote hike (Nov) |  | 0 | 0 |
-| 54 min | GBP | Moderate | BoE MPC vote unchanged (Nov) |  | 6 | 7 |
-| 54 min | GBP | High | BoE Interest Rate Decision (Nov) |  | 4.00% | 4.00% |
-| 54 min | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
-| 54 min | CAD | Low | Leading Index (MoM) (Oct) |  |  | 0.23% |
-| 54 min | EUR | Low | Consumer Confidence (Nov) |  |  | -14.2 |
-| 12:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 12:30 | USD | Low | Challenger Job Cuts (Oct) |  |  | 54.064K |
-| 12:30 | CAD | Low | Exports (Sep) |  |  | 60.58B |
-| 12:30 | CAD | Low | Imports (Sep) |  |  | 66.91B |
-| 12:30 | CAD | Moderate | Trade Balance (Sep) |  |  | -6.32B |
-| 12:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 11:00 | CAD | Low | Leading Index (MoM) (Oct) | 0.21% |  | 0.23% |
+| 12:00 | GBP | Moderate | BoE MPC vote cut (Nov) | 4 | 3 | 2 |
+| 12:00 | GBP | Moderate | BoE MPC vote hike (Nov) | 0 | 0 | 0 |
+| 12:00 | GBP | Moderate | BoE MPC vote unchanged (Nov) | 5 | 6 | 7 |
+| 12:00 | GBP | High | BoE Interest Rate Decision (Nov) | 4.00% | 4.00% | 4.00% |
+| 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
+| 12:00 | EUR | Low | Consumer Confidence (Nov) |  |  | -14.2 |
+| 18 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 18 min | USD | Low | Challenger Job Cuts (Oct) | 153.074K |  | 54.064K |
+| 18 min | CAD | Low | Exports (Sep) |  |  | 60.58B |
+| 18 min | CAD | Low | Imports (Sep) |  |  | 66.91B |
+| 18 min | CAD | Moderate | Trade Balance (Sep) |  |  | -6.32B |
+| 18 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 13:15 | CAD | Low | Reserve Assets Total (Oct) |  |  | 126.6B |
 | 13:50 | CAD | Low | BoC Deputy Governor Gravelle Speaks |  |  |  |
 | 14:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |

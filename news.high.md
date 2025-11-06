@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 54 min | GBP | BoE Interest Rate Decision (Nov) |  | 4.00% | 4.00% |
+| 12:00 | GBP | BoE Interest Rate Decision (Nov) | 4.00% | 4.00% | 4.00% |

@@ -21,11 +21,11 @@
 | 10:00 | EUR | Spanish 7-Year Obligacion Auction | 2.848% |  | 2.716% |
 | 10:00 | EUR | Retail Sales (MoM) (Sep) | -0.1% | 0.2% | -0.1% |
 | 10:00 | EUR | Retail Sales (YoY) (Sep) | 1.0% | 1.0% | 1.6% |
-| 54 min | CAD | Leading Index (MoM) (Oct) |  |  | 0.23% |
-| 54 min | EUR | Consumer Confidence (Nov) |  |  | -14.2 |
-| 12:30 | USD | Challenger Job Cuts (Oct) |  |  | 54.064K |
-| 12:30 | CAD | Exports (Sep) |  |  | 60.58B |
-| 12:30 | CAD | Imports (Sep) |  |  | 66.91B |
+| 11:00 | CAD | Leading Index (MoM) (Oct) | 0.21% |  | 0.23% |
+| 12:00 | EUR | Consumer Confidence (Nov) |  |  | -14.2 |
+| 18 min | USD | Challenger Job Cuts (Oct) | 153.074K |  | 54.064K |
+| 18 min | CAD | Exports (Sep) |  |  | 60.58B |
+| 18 min | CAD | Imports (Sep) |  |  | 66.91B |
 | 13:15 | CAD | Reserve Assets Total (Oct) |  |  | 126.6B |
 | 13:50 | CAD | BoC Deputy Governor Gravelle Speaks |  |  |  |
 | 15:00 | CAD | Ivey PMI n.s.a (Oct) |  |  | 61.6 |
