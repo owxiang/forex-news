@@ -50,10 +50,10 @@
 | 16:30 | USD | Low | 4-Week Bill Auction | 3.875% |  | 3.910% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 3.815% |  | 3.890% |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 4.0% | 4.0% | 4.0% |
-| 18:00 | BRL | Low | Trade Balance (Oct) | 6.96B | 6.20B | 2.99B |
-| 20 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 50 min | CAD | Moderate | BoC Deputy Gov Kozicki Speaks |  |  |  |
-| 50 min | MXN | Moderate | Interest Rate Decision (Nov) |  | 7.25% | 7.50% |
+| 18:00 | BRL | Low | Trade Balance (Oct) | 6.96B | 6.20B | 2.94B |
+| 18:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 19:00 | CAD | Moderate | BoC Deputy Gov Kozicki Speaks |  |  |  |
+| 19:00 | MXN | Moderate | Interest Rate Decision (Nov) | 7.25% | 7.25% | 7.50% |
 | 20:30 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,587B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.828T |
