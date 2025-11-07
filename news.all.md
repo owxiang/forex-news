@@ -29,17 +29,17 @@
 | 08:30 | HKD | Low | Foreign Reserves (USD) (Oct) | 426.00B |  | 419.10B |
 | 09:00 | SGD | Low | Foreign Reserves USD (MoM) (Oct) | 392.2B |  | 393.1B |
 | 09:30 | GBP | Moderate | Mortgage Rate (GBP) (Oct) | 6.78% |  | 6.78% |
-| 52 min | BRL | Low | IGP-DI Inflation Index (MoM) (Oct) |  |  | 0.36% |
-| 11:30 | INR | Low | FX Reserves, USD |  |  | 695.36B |
-| 12:00 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
-| 12:00 | MXN | Low | Core CPI (MoM) (Oct) |  | 0.28% | 0.33% |
-| 12:00 | MXN | Moderate | CPI (MoM) (Oct) |  | 0.36% | 0.23% |
-| 12:00 | MXN | Moderate | CPI (YoY) (Oct) |  | 3.56% | 3.76% |
-| 12:00 | MXN | Low | Month Core Inflation (MoM) (Oct) |  | 4.27% | 4.28% |
-| 12:00 | MXN | Low | PPI (MoM) (Oct) |  |  | 0.20% |
-| 12:00 | MXN | Low | PPI (YoY) (Oct) |  |  | 3.10% |
-| 12:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 12:00 | BRL | Low | Brazilian PPI (MoM) (Sep) |  |  | -0.20% |
+| 11:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Oct) | -0.03% |  | 0.36% |
+| 24 min | INR | Low | FX Reserves, USD |  |  | 695.36B |
+| 54 min | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
+| 54 min | MXN | Low | Core CPI (MoM) (Oct) |  | 0.28% | 0.33% |
+| 54 min | MXN | Moderate | CPI (MoM) (Oct) |  | 0.36% | 0.23% |
+| 54 min | MXN | Moderate | CPI (YoY) (Oct) |  | 3.56% | 3.76% |
+| 54 min | MXN | Low | Month Core Inflation (MoM) (Oct) |  | 4.27% | 4.28% |
+| 54 min | MXN | Low | PPI (MoM) (Oct) |  |  | 0.20% |
+| 54 min | MXN | Low | PPI (YoY) (Oct) |  |  | 3.10% |
+| 54 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 54 min | BRL | Low | Brazilian PPI (MoM) (Sep) |  |  | -0.20% |
 | 13:30 | CAD | Low | Avg hourly wages Permanent employee (Oct) |  |  | 3.6% |
 | 13:30 | CAD | Moderate | Employment Change (Oct) |  | -5.0K | 60.4K |
 | 13:30 | CAD | Low | Full Employment Change (Oct) |  |  | 106.1K |

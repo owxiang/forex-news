@@ -20,14 +20,14 @@
 | 08:00 | CNY | FX Reserves (USD) (Oct) | 3.343T | 3.320T | 3.339T |
 | 08:30 | HKD | Foreign Reserves (USD) (Oct) | 426.00B |  | 419.10B |
 | 09:00 | SGD | Foreign Reserves USD (MoM) (Oct) | 392.2B |  | 393.1B |
-| 52 min | BRL | IGP-DI Inflation Index (MoM) (Oct) |  |  | 0.36% |
-| 11:30 | INR | FX Reserves, USD |  |  | 695.36B |
-| 12:00 | USD | Fed Governor Jefferson Speaks |  |  |  |
-| 12:00 | MXN | Core CPI (MoM) (Oct) |  | 0.28% | 0.33% |
-| 12:00 | MXN | Month Core Inflation (MoM) (Oct) |  | 4.27% | 4.28% |
-| 12:00 | MXN | PPI (MoM) (Oct) |  |  | 0.20% |
-| 12:00 | MXN | PPI (YoY) (Oct) |  |  | 3.10% |
-| 12:00 | BRL | Brazilian PPI (MoM) (Sep) |  |  | -0.20% |
+| 11:00 | BRL | IGP-DI Inflation Index (MoM) (Oct) | -0.03% |  | 0.36% |
+| 24 min | INR | FX Reserves, USD |  |  | 695.36B |
+| 54 min | USD | Fed Governor Jefferson Speaks |  |  |  |
+| 54 min | MXN | Core CPI (MoM) (Oct) |  | 0.28% | 0.33% |
+| 54 min | MXN | Month Core Inflation (MoM) (Oct) |  | 4.27% | 4.28% |
+| 54 min | MXN | PPI (MoM) (Oct) |  |  | 0.20% |
+| 54 min | MXN | PPI (YoY) (Oct) |  |  | 3.10% |
+| 54 min | BRL | Brazilian PPI (MoM) (Sep) |  |  | -0.20% |
 | 13:30 | CAD | Avg hourly wages Permanent employee (Oct) |  |  | 3.6% |
 | 13:30 | CAD | Full Employment Change (Oct) |  |  | 106.1K |
 | 13:30 | CAD | Part Time Employment Change (Oct) |  |  | -45.6K |
