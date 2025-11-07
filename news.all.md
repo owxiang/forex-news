@@ -2,14 +2,13 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 03:00 | CNY | Moderate | Exports (YoY) (Oct) | -1.1% | 3.0% | 8.3% |
-| 03:00 | CNY | Moderate | Imports (YoY) (Oct) | 1.0% | 3.2% | 7.4% |
-| 03:00 | CNY | Moderate | Trade Balance (USD) (Oct) | 90.07B | 96.90B | 90.45B |
 | 03:00 | IDR | Low | FX Reserves (USD) (Oct) | 149.90B |  | 148.70B |
-| 03:19 | CNY | Low | Exports (Oct) | -0.80M |  | 8.40M |
-| 03:19 | CNY | Low | Imports (Oct) | 1.40M |  | 7.50M |
-| 03:19 | CNY | Low | Trade Balance (Oct) | 640.49B | 705.00B | 645.47B |
-| 35 min | IDR | Low | Motorbike Sales (YoY) (Oct) |  |  | 7.30% |
+| 03:41 | CNY | Low | Exports (Oct) | -0.80M |  | 8.40M |
+| 03:41 | CNY | Low | Imports (Oct) | 1.40M |  | 7.50M |
+| 03:41 | CNY | Low | Trade Balance (Oct) | 640.49B | 705.00B | 645.47B |
+| 04:05 | CNY | Moderate | Exports (YoY) (Oct) | -1.1% | 3.0% | 8.3% |
+| 04:05 | CNY | Moderate | Imports (YoY) (Oct) | 1.0% | 3.2% | 7.4% |
+| 04:05 | CNY | Moderate | Trade Balance (USD) (Oct) | 90.07B | 96.90B | 90.45B |
 | 06:00 | ZAR | Low | Foreign Reserves (USD) (Oct) |  |  | 69.74B |
 | 06:00 | ZAR | Low | Net FX Reserves (USD) (Oct) |  |  | 67.865B |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Oct) |  | 0.1% | -0.3% |

@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:00 | CNY | Exports (YoY) (Oct) | -1.1% | 3.0% | 8.3% |
-| 03:00 | CNY | Imports (YoY) (Oct) | 1.0% | 3.2% | 7.4% |
-| 03:00 | CNY | Trade Balance (USD) (Oct) | 90.07B | 96.90B | 90.45B |
+| 04:05 | CNY | Exports (YoY) (Oct) | -1.1% | 3.0% | 8.3% |
+| 04:05 | CNY | Imports (YoY) (Oct) | 1.0% | 3.2% | 7.4% |
+| 04:05 | CNY | Trade Balance (USD) (Oct) | 90.07B | 96.90B | 90.45B |
 | 07:00 | GBP | Halifax House Price Index (MoM) (Oct) |  | 0.1% | -0.3% |
 | 07:00 | GBP | Halifax House Price Index (YoY) (Oct) |  | 1.5% | 1.3% |
 | 07:00 | EUR | German Trade Balance (Sep) |  | 16.7B | 17.2B |
