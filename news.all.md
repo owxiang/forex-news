@@ -56,4 +56,4 @@
 | 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Oct) | 3.2% |  | 3.4% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 414 | 413 | 414 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 548 |  | 546 |
-| 20:00 | USD | Moderate | Consumer Credit (Sep) |  | 10.40B | 0.36B |
+| 54 min | USD | Moderate | Consumer Credit (Sep) |  | 10.40B | 0.36B |
