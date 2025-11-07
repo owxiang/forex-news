@@ -36,17 +36,17 @@
 | 12:00 | MXN | Moderate | CPI (MoM) (Oct) | 0.36% | 0.36% | 0.23% |
 | 12:00 | MXN | Moderate | CPI (YoY) (Oct) | 3.57% | 3.56% | 3.76% |
 | 12:00 | MXN | Low | Month Core Inflation (MoM) (Oct) | 4.28% | 4.27% | 4.28% |
-| 12:00 | MXN | Low | PPI (MoM) (Oct) |  |  | 0.20% |
-| 12:00 | MXN | Low | PPI (YoY) (Oct) |  |  | 3.10% |
+| 12:00 | MXN | Low | PPI (MoM) (Oct) | 0.30% |  | 0.20% |
+| 12:00 | MXN | Low | PPI (YoY) (Oct) | 3.00% |  | 3.10% |
 | 12:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 12:00 | BRL | Low | Brazilian PPI (MoM) (Sep) | -0.25% |  | -0.20% |
-| 13:30 | CAD | Low | Avg hourly wages Permanent employee (Oct) |  |  | 3.6% |
-| 13:30 | CAD | Moderate | Employment Change (Oct) |  | -5.0K | 60.4K |
-| 13:30 | CAD | Low | Full Employment Change (Oct) |  |  | 106.1K |
-| 13:30 | CAD | Low | Part Time Employment Change (Oct) |  |  | -45.6K |
-| 13:30 | CAD | Low | Participation Rate (Oct) |  |  | 65.2% |
-| 13:30 | CAD | Moderate | Unemployment Rate (Oct) |  | 7.1% | 7.1% |
-| 13:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 12:00 | BRL | Low | Brazilian PPI (MoM) (Sep) | -0.25% |  | -0.21% |
+| 16 min | CAD | Low | Avg hourly wages Permanent employee (Oct) |  |  | 3.6% |
+| 16 min | CAD | Moderate | Employment Change (Oct) |  | -5.0K | 60.4K |
+| 16 min | CAD | Low | Full Employment Change (Oct) |  |  | 106.1K |
+| 16 min | CAD | Low | Part Time Employment Change (Oct) |  |  | -45.6K |
+| 16 min | CAD | Low | Participation Rate (Oct) |  |  | 65.2% |
+| 16 min | CAD | Moderate | Unemployment Rate (Oct) |  | 7.1% | 7.1% |
+| 16 min | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Nov) |  |  | 4.6% |
 | 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Nov) |  |  | 3.9% |
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Nov) |  | 50.3 | 50.3 |
