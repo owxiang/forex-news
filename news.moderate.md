@@ -11,9 +11,9 @@
 | 08:00 | USD | FOMC Member Williams Speaks |  |  |  |
 | 08:00 | CHF | SECO Consumer Climate (Q4) | -37 | -36 | -28 |
 | 09:30 | GBP | Mortgage Rate (GBP) (Oct) | 6.78% |  | 6.78% |
-| 54 min | MXN | CPI (MoM) (Oct) |  | 0.36% | 0.23% |
-| 54 min | MXN | CPI (YoY) (Oct) |  | 3.56% | 3.76% |
-| 54 min | EUR | German Buba President Nagel Speaks |  |  |  |
+| 12:00 | MXN | CPI (MoM) (Oct) | 0.36% | 0.36% | 0.23% |
+| 12:00 | MXN | CPI (YoY) (Oct) | 3.57% | 3.56% | 3.76% |
+| 12:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 13:30 | CAD | Employment Change (Oct) |  | -5.0K | 60.4K |
 | 13:30 | CAD | Unemployment Rate (Oct) |  | 7.1% | 7.1% |
 | 13:30 | EUR | ECB's Elderson Speaks |  |  |  |
