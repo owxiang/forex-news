@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 25 min | IDR | Motorbike Sales (YoY) (Oct) |  |  | 7.30% |
-| 03:00 | CNY | Exports (Oct) |  |  | 8.40M |
-| 03:00 | CNY | Imports (Oct) |  |  | 7.50M |
-| 03:00 | CNY | Trade Balance (Oct) |  | 705.00B | 645.47B |
-| 03:00 | IDR | FX Reserves (USD) (Oct) |  |  | 148.70B |
+| 23 min | CNY | Exports (Oct) |  |  | 8.40M |
+| 23 min | CNY | Imports (Oct) |  |  | 7.50M |
+| 23 min | CNY | Trade Balance (Oct) |  | 705.00B | 645.47B |
+| 23 min | IDR | FX Reserves (USD) (Oct) |  |  | 148.70B |
+| 04:00 | IDR | Motorbike Sales (YoY) (Oct) |  |  | 7.30% |
 | 06:00 | ZAR | Foreign Reserves (USD) (Oct) |  |  | 69.74B |
 | 06:00 | ZAR | Net FX Reserves (USD) (Oct) |  |  | 67.865B |
 | 07:00 | EUR | German Exports (MoM) (Sep) |  | 0.5% | -0.5% |
@@ -26,9 +26,12 @@
 | 12:00 | USD | Fed Governor Jefferson Speaks |  |  |  |
 | 12:00 | MXN | Core CPI (MoM) (Oct) |  | 0.28% | 0.33% |
 | 12:00 | MXN | Month Core Inflation (MoM) (Oct) |  | 4.27% | 4.28% |
-| 12:00 | MXN | PPI (MoM) (Oct) |  |  | 0.20% |
 | 12:00 | MXN | PPI (YoY) (Oct) |  |  | 3.10% |
+| 12:00 | MXN | PPI (MoM) (Oct) |  |  | 0.20% |
 | 12:00 | BRL | Brazilian PPI (MoM) (Sep) |  |  | -0.20% |
+| 13:30 | USD | Average Weekly Hours (Sep) |  |  | 34.2 |
+| 13:30 | USD | Government Payrolls (Sep) |  |  | -16.0K |
+| 13:30 | USD | Manufacturing Payrolls (Sep) |  |  | -12K |
 | 13:30 | CAD | Avg hourly wages Permanent employee (Oct) |  |  | 3.6% |
 | 13:30 | CAD | Full Employment Change (Oct) |  |  | 106.1K |
 | 13:30 | CAD | Part Time Employment Change (Oct) |  |  | -45.6K |
