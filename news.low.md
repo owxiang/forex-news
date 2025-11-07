@@ -33,5 +33,3 @@
 | 13:30 | CAD | Part Time Employment Change (Oct) | 85.1K |  | -45.6K |
 | 13:30 | CAD | Participation Rate (Oct) | 65.3% |  | 65.2% |
 | 15:00 | USD | Michigan Current Conditions (Nov) | 52.3 | 59.2 | 58.6 |
-| 15:00 | USD | Wholesale Inventories (MoM) (Aug) |  |  | -0.2% |
-| 15:00 | USD | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.4% |

@@ -11,18 +11,18 @@
 | 08:00 | USD | FOMC Member Williams Speaks |  |  |  |
 | 08:00 | CHF | SECO Consumer Climate (Q4) | -37 | -36 | -28 |
 | 09:30 | GBP | Mortgage Rate (GBP) (Oct) | 6.78% |  | 6.78% |
-| 12:00 | MXN | CPI (MoM) (Oct) | 0.36% | 0.36% | 0.23% |
 | 12:00 | MXN | CPI (YoY) (Oct) | 3.57% | 3.56% | 3.76% |
+| 12:00 | MXN | CPI (MoM) (Oct) | 0.36% | 0.36% | 0.23% |
 | 12:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 13:30 | CAD | Employment Change (Oct) | 66.6K | -5.0K | 60.4K |
 | 13:30 | CAD | Unemployment Rate (Oct) | 6.9% | 7.1% | 7.1% |
 | 13:30 | EUR | ECB's Elderson Speaks |  |  |  |
-| 15:00 | USD | Michigan 1-Year Inflation Expectations (Nov) | 4.7% |  | 4.6% |
-| 15:00 | USD | Michigan 5-Year Inflation Expectations (Nov) | 3.6% |  | 3.9% |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (Nov) | 4.7% | 4.6% | 4.6% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (Nov) | 3.6% | 3.8% | 3.9% |
 | 15:00 | USD | Michigan Consumer Expectations (Nov) | 49.0 | 50.3 | 50.3 |
 | 15:00 | USD | Michigan Consumer Sentiment (Nov) | 50.3 | 53.0 | 53.6 |
-| 8 min | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 53 min | USD | NY Fed 1-Year Consumer Inflation Expectations (Oct) |  |  | 3.4% |
+| 15:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 52 min | USD | NY Fed 1-Year Consumer Inflation Expectations (Oct) |  |  | 3.4% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 414 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 546 |
 | 20:00 | USD | Consumer Credit (Sep) |  | 10.40B | 0.36B |

@@ -33,8 +33,8 @@
 | 11:30 | INR | Low | FX Reserves, USD | 689.73B |  | 695.36B |
 | 12:00 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
 | 12:00 | MXN | Low | Core CPI (MoM) (Oct) | 0.29% | 0.28% | 0.33% |
-| 12:00 | MXN | Moderate | CPI (MoM) (Oct) | 0.36% | 0.36% | 0.23% |
 | 12:00 | MXN | Moderate | CPI (YoY) (Oct) | 3.57% | 3.56% | 3.76% |
+| 12:00 | MXN | Moderate | CPI (MoM) (Oct) | 0.36% | 0.36% | 0.23% |
 | 12:00 | MXN | Low | Month Core Inflation (MoM) (Oct) | 4.28% | 4.27% | 4.28% |
 | 12:00 | MXN | Low | PPI (MoM) (Oct) | 0.30% |  | 0.20% |
 | 12:00 | MXN | Low | PPI (YoY) (Oct) | 3.00% |  | 3.10% |
@@ -47,15 +47,13 @@
 | 13:30 | CAD | Low | Participation Rate (Oct) | 65.3% |  | 65.2% |
 | 13:30 | CAD | Moderate | Unemployment Rate (Oct) | 6.9% | 7.1% | 7.1% |
 | 13:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Nov) | 4.7% |  | 4.6% |
-| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Nov) | 3.6% |  | 3.9% |
+| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Nov) | 4.7% | 4.6% | 4.6% |
+| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Nov) | 3.6% | 3.8% | 3.9% |
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Nov) | 49.0 | 50.3 | 50.3 |
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Nov) | 50.3 | 53.0 | 53.6 |
 | 15:00 | USD | Low | Michigan Current Conditions (Nov) | 52.3 | 59.2 | 58.6 |
-| 15:00 | USD | Low | Wholesale Inventories (MoM) (Aug) |  |  | -0.2% |
-| 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.4% |
-| 8 min | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 53 min | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Oct) |  |  | 3.4% |
+| 15:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 52 min | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Oct) |  |  | 3.4% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 414 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 546 |
 | 20:00 | USD | Moderate | Consumer Credit (Sep) |  | 10.40B | 0.36B |
