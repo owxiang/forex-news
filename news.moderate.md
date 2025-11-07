@@ -5,11 +5,11 @@
 | 03:00 | CNY | Exports (YoY) (Oct) | -1.1% | 3.0% | 8.3% |
 | 03:00 | CNY | Imports (YoY) (Oct) | 1.0% | 3.2% | 7.4% |
 | 03:00 | CNY | Trade Balance (USD) (Oct) | 90.07B | 96.90B | 90.45B |
-| 50 min | GBP | Halifax House Price Index (MoM) (Oct) |  | 0.1% | -0.3% |
-| 50 min | GBP | Halifax House Price Index (YoY) (Oct) |  | 1.5% | 1.3% |
-| 50 min | EUR | German Trade Balance (Sep) |  | 16.7B | 17.2B |
-| 08:00 | USD | FOMC Member Williams Speaks |  |  |  |
-| 08:00 | CHF | SECO Consumer Climate (Q4) |  | -36 | -28 |
+| 07:00 | GBP | Halifax House Price Index (MoM) (Oct) | 0.6% | 0.1% | -0.3% |
+| 07:00 | GBP | Halifax House Price Index (YoY) (Oct) | 1.9% | 1.5% | 1.3% |
+| 07:00 | EUR | German Trade Balance (Sep) | 15.3B | 16.7B | 16.9B |
+| 53 min | USD | FOMC Member Williams Speaks |  |  |  |
+| 53 min | CHF | SECO Consumer Climate (Q4) |  | -36 | -28 |
 | 10:00 | GBP | Mortgage Rate (GBP) (Oct) |  |  | 6.78% |
 | 12:00 | MXN | CPI (MoM) (Oct) |  | 0.36% | 0.23% |
 | 12:00 | MXN | CPI (YoY) (Oct) |  | 3.56% | 3.76% |

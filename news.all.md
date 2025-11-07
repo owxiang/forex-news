@@ -11,21 +11,21 @@
 | 03:00 | IDR | Low | FX Reserves (USD) (Oct) | 149.90B |  | 148.70B |
 | 06:00 | ZAR | Low | Foreign Reserves (USD) (Oct) | 71.55B |  | 69.74B |
 | 06:00 | ZAR | Low | Net FX Reserves (USD) (Oct) | 69.364B |  | 67.865B |
-| 50 min | GBP | Moderate | Halifax House Price Index (MoM) (Oct) |  | 0.1% | -0.3% |
-| 50 min | GBP | Moderate | Halifax House Price Index (YoY) (Oct) |  | 1.5% | 1.3% |
-| 50 min | EUR | Low | German Exports (MoM) (Sep) |  | 0.5% | -0.5% |
-| 50 min | EUR | Low | German Imports (MoM) (Sep) |  | 0.5% | -1.3% |
-| 50 min | EUR | Moderate | German Trade Balance (Sep) |  | 16.7B | 17.2B |
-| 50 min | NOK | Low | Manufacturing Production (MoM) (Sep) |  |  | 0.7% |
-| 07:45 | EUR | Low | French Current Account (Sep) |  |  | 1.50B |
-| 07:45 | EUR | Low | French Exports (Sep) |  |  | 51.8B |
-| 07:45 | EUR | Low | French Imports (Sep) |  |  | 57.3B |
-| 07:45 | EUR | Low | French Reserve Assets Total (Oct) |  |  | 330,268.0M |
-| 07:45 | EUR | Low | French Trade Balance (Sep) |  | -5.9B | -5.5B |
-| 08:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 08:00 | CHF | Low | Foreign Reserves (USD) (Oct) |  |  | 726,739.0B |
-| 08:00 | CHF | Moderate | SECO Consumer Climate (Q4) |  | -36 | -28 |
-| 08:00 | CNY | Low | FX Reserves (USD) (Oct) |  | 3.320T | 3.339T |
+| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Oct) | 0.6% | 0.1% | -0.3% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Oct) | 1.9% | 1.5% | 1.3% |
+| 07:00 | EUR | Low | German Exports (MoM) (Sep) | 1.4% | 0.5% | -0.8% |
+| 07:00 | EUR | Low | German Imports (MoM) (Sep) | 3.1% | 0.5% | -1.4% |
+| 07:00 | EUR | Moderate | German Trade Balance (Sep) | 15.3B | 16.7B | 16.9B |
+| 07:00 | NOK | Low | Manufacturing Production (MoM) (Sep) | -1.7% |  | 0.7% |
+| 38 min | EUR | Low | French Current Account (Sep) |  |  | 1.50B |
+| 38 min | EUR | Low | French Exports (Sep) |  |  | 51.8B |
+| 38 min | EUR | Low | French Imports (Sep) |  |  | 57.3B |
+| 38 min | EUR | Low | French Reserve Assets Total (Oct) |  |  | 330,268.0M |
+| 38 min | EUR | Low | French Trade Balance (Sep) |  | -5.9B | -5.5B |
+| 53 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 53 min | CHF | Low | Foreign Reserves (USD) (Oct) |  |  | 726.7B |
+| 53 min | CHF | Moderate | SECO Consumer Climate (Q4) |  | -36 | -28 |
+| 53 min | CNY | Low | FX Reserves (USD) (Oct) |  | 3.320T | 3.339T |
 | 08:30 | HKD | Low | Foreign Reserves (USD) (Oct) |  |  | 419.20B |
 | 09:00 | SGD | Low | Foreign Reserves USD (MoM) (Oct) |  |  | 393.1B |
 | 10:00 | GBP | Moderate | Mortgage Rate (GBP) (Oct) |  |  | 6.78% |
