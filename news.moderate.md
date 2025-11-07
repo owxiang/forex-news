@@ -22,7 +22,7 @@
 | 15:00 | USD | Michigan Consumer Expectations (Nov) | 49.0 | 50.3 | 50.3 |
 | 15:00 | USD | Michigan Consumer Sentiment (Nov) | 50.3 | 53.0 | 53.6 |
 | 15:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 52 min | USD | NY Fed 1-Year Consumer Inflation Expectations (Oct) |  |  | 3.4% |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 414 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 546 |
+| 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Oct) | 3.2% |  | 3.4% |
+| 54 min | USD | U.S. Baker Hughes Oil Rig Count |  | 413 | 414 |
+| 54 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 546 |
 | 20:00 | USD | Consumer Credit (Sep) |  | 10.40B | 0.36B |
