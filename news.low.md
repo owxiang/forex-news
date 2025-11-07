@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 23 min | CNY | Exports (Oct) |  |  | 8.40M |
-| 23 min | CNY | Imports (Oct) |  |  | 7.50M |
-| 23 min | CNY | Trade Balance (Oct) |  | 705.00B | 645.47B |
-| 23 min | IDR | FX Reserves (USD) (Oct) |  |  | 148.70B |
-| 04:00 | IDR | Motorbike Sales (YoY) (Oct) |  |  | 7.30% |
+| 03:00 | IDR | FX Reserves (USD) (Oct) | 149.90B |  | 148.70B |
+| 03:19 | CNY | Exports (Oct) | -0.80M |  | 8.40M |
+| 03:19 | CNY | Imports (Oct) | 1.40M |  | 7.50M |
+| 03:19 | CNY | Trade Balance (Oct) | 640.49B | 705.00B | 645.47B |
+| 35 min | IDR | Motorbike Sales (YoY) (Oct) |  |  | 7.30% |
 | 06:00 | ZAR | Foreign Reserves (USD) (Oct) |  |  | 69.74B |
 | 06:00 | ZAR | Net FX Reserves (USD) (Oct) |  |  | 67.865B |
 | 07:00 | EUR | German Exports (MoM) (Sep) |  | 0.5% | -0.5% |
