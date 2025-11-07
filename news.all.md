@@ -17,17 +17,17 @@
 | 07:00 | EUR | Low | German Imports (MoM) (Sep) | 3.1% | 0.5% | -1.4% |
 | 07:00 | EUR | Moderate | German Trade Balance (Sep) | 15.3B | 16.7B | 16.9B |
 | 07:00 | NOK | Low | Manufacturing Production (MoM) (Sep) | -1.7% |  | 0.7% |
-| 38 min | EUR | Low | French Current Account (Sep) |  |  | 1.50B |
-| 38 min | EUR | Low | French Exports (Sep) |  |  | 51.8B |
-| 38 min | EUR | Low | French Imports (Sep) |  |  | 57.3B |
-| 38 min | EUR | Low | French Reserve Assets Total (Oct) |  |  | 330,268.0M |
-| 38 min | EUR | Low | French Trade Balance (Sep) |  | -5.9B | -5.5B |
-| 53 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 53 min | CHF | Low | Foreign Reserves (USD) (Oct) |  |  | 726.7B |
-| 53 min | CHF | Moderate | SECO Consumer Climate (Q4) |  | -36 | -28 |
-| 53 min | CNY | Low | FX Reserves (USD) (Oct) |  | 3.320T | 3.339T |
-| 08:30 | HKD | Low | Foreign Reserves (USD) (Oct) |  |  | 419.20B |
-| 09:00 | SGD | Low | Foreign Reserves USD (MoM) (Oct) |  |  | 393.1B |
+| 07:45 | EUR | Low | French Current Account (Sep) | -1.60B |  | 1.40B |
+| 07:45 | EUR | Low | French Exports (Sep) | 51.9B |  | 51.9B |
+| 07:45 | EUR | Low | French Imports (Sep) | 58.5B |  | 57.1B |
+| 07:45 | EUR | Low | French Reserve Assets Total (Oct) | 350,037.0M |  | 330,268.0M |
+| 07:45 | EUR | Low | French Trade Balance (Sep) | -6.6B | -5.9B | -5.2B |
+| 08:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 08:00 | CHF | Low | Foreign Reserves (USD) (Oct) | 724.8B |  | 726.8B |
+| 08:00 | CHF | Moderate | SECO Consumer Climate (Q4) | -37 | -36 | -28 |
+| 08:00 | CNY | Low | FX Reserves (USD) (Oct) | 3.343T | 3.320T | 3.339T |
+| 19 min | HKD | Low | Foreign Reserves (USD) (Oct) |  |  | 419.20B |
+| 49 min | SGD | Low | Foreign Reserves USD (MoM) (Oct) |  |  | 393.1B |
 | 10:00 | GBP | Moderate | Mortgage Rate (GBP) (Oct) |  |  | 6.78% |
 | 11:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Oct) |  |  | 0.36% |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 695.36B |
