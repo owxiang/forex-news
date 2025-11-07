@@ -1,63 +1,62 @@
-## 06 November 2025 - All Forex News
+## 07 November 2025 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | AUD | Low | Exports (MoM) (Sep) | 7.9% |  | -8.7% |
-| 00:30 | AUD | Low | Imports (MoM) (Sep) | 1.1% |  | 3.3% |
-| 00:30 | AUD | Moderate | Trade Balance (Sep) | 3.938B | 3.930B | 1.111B |
-| 00:30 | JPY | Low | Manufacturing & Services PMI (Oct) | 51.50 |  | 51.30 |
-| 00:30 | JPY | Moderate | au Jibun Bank Services PMI (Oct) | 53.1 | 52.4 | 53.3 |
-| 05:00 | INR | Low | S&P Global Services PMI (Oct) | 58.9 | 58.8 | 60.9 |
-| 05:00 | INR | Low | Manufacturing & Services PMI (Oct) | 60.40 | 59.90 | 61.00 |
-| 07:00 | EUR | Moderate | German Industrial Production (MoM) (Sep) | 1.3% | 3.0% | -3.7% |
-| 07:00 | EUR | Low | German Industrial Production (YoY) (Sep) | -0.98% |  | -3.66% |
-| 07:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q3) | -0.3% | -0.1% | 0.2% |
-| 08:00 | CHF | Low | Unemployment Rate n.s.a. (Oct) | 2.9% |  | 2.8% |
-| 08:00 | CHF | Low | Unemployment Rate s.a. (Oct) | 3.0% | 3.0% | 3.0% |
-| 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Sep) | 1.7% |  | 3.3% |
-| 08:10 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Oct) | 50.7 |  | 49.8 |
-| 08:30 | EUR | Low | HCOB Germany Construction PMI (Oct) | 42.8 | 46.9 | 46.2 |
-| 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Oct) | 39.8 |  | 42.9 |
-| 08:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Oct) | 44.0 |  | 46.0 |
-| 09:00 | NOK | Moderate | Interest Rate Decision | 4.00% | 4.00% | 4.00% |
-| 09:30 | GBP | Moderate | S&P Global Construction PMI (Oct) | 44.1 | 46.7 | 46.2 |
-| 09:50 | EUR | Low | French 10-Year OAT Auction | 3.43% |  | 3.51% |
-| 10:00 | EUR | Low | Spanish 10-Year Obligacion Auction | 3.111% |  | 3.085% |
-| 10:00 | EUR | Moderate | Spanish 15-Year Obligacion Auction | 3.616% |  | 3.671% |
-| 10:00 | EUR | Low | Spanish 7-Year Obligacion Auction | 2.848% |  | 2.716% |
-| 10:00 | EUR | Low | Retail Sales (MoM) (Sep) | -0.1% | 0.2% | -0.1% |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Sep) | 1.0% | 1.0% | 1.6% |
-| 11:00 | CAD | Low | Leading Index (MoM) (Oct) | 0.21% |  | 0.23% |
-| 12:00 | GBP | Moderate | BoE MPC vote cut (Nov) | 4 | 3 | 2 |
-| 12:00 | GBP | Moderate | BoE MPC vote hike (Nov) | 0 | 0 | 0 |
-| 12:00 | GBP | Moderate | BoE MPC vote unchanged (Nov) | 5 | 6 | 7 |
-| 12:00 | GBP | High | BoE Interest Rate Decision (Nov) | 4.00% | 4.00% | 4.00% |
-| 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
-| 12:00 | USD | Low | Challenger Job Cuts (Oct) | 153.074K |  | 54.064K |
-| 12:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 12:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 13:50 | CAD | Low | BoC Deputy Governor Gravelle Speaks |  |  |  |
-| 14:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 15:00 | CAD | Low | Ivey PMI n.s.a (Oct) | 51.7 |  | 61.6 |
-| 15:00 | CAD | Moderate | Ivey PMI (Oct) | 52.4 | 55.2 | 59.8 |
-| 15:30 | USD | Low | Natural Gas Storage | 33B | 34B | 74B |
-| 15:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
-| 16:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 16:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 16:15 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 16:30 | USD | Low | 4-Week Bill Auction | 3.875% |  | 3.910% |
-| 16:30 | USD | Low | 8-Week Bill Auction | 3.815% |  | 3.890% |
-| 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 4.0% | 4.0% | 4.0% |
-| 18:00 | BRL | Low | Trade Balance (Oct) | 6.96B | 6.20B | 2.94B |
-| 18:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 19:00 | CAD | Moderate | BoC Deputy Gov Kozicki Speaks |  |  |  |
-| 19:00 | MXN | Moderate | Interest Rate Decision (Nov) | 7.25% | 7.25% | 7.50% |
-| 20:30 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,573B |  | 6,587B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 2.852T |  | 2.828T |
-| 24 min | JPY | Moderate | Household Spending (YoY) (Sep) |  | 2.5% | 2.3% |
-| 24 min | JPY | Moderate | Household Spending (MoM) (Sep) |  |  | 0.6% |
-| 44 min | JPY | Low | Foreign Bonds Buying |  |  | -351.4B |
-| 44 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 1,344.2B |
+| 02:00 | IDR | Low | Motorbike Sales (YoY) (Oct) |  |  | 7.30% |
+| 03:00 | CNY | Low | Exports (Oct) |  |  | 8.40M |
+| 03:00 | CNY | Low | Imports (Oct) |  |  | 7.50M |
+| 03:00 | CNY | Low | Trade Balance (Oct) |  | 705.00B | 645.47B |
+| 03:00 | CNY | Moderate | Exports (YoY) (Oct) |  | 3.0% | 8.3% |
+| 03:00 | CNY | Moderate | Imports (YoY) (Oct) |  | 3.2% | 7.4% |
+| 03:00 | CNY | Moderate | Trade Balance (USD) (Oct) |  | 96.90B | 90.45B |
+| 03:00 | IDR | Low | FX Reserves (USD) (Oct) |  |  | 148.70B |
+| 06:00 | ZAR | Low | Foreign Reserves (USD) (Oct) |  |  | 69.74B |
+| 06:00 | ZAR | Low | Net FX Reserves (USD) (Oct) |  |  | 67.865B |
+| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Oct) |  | 0.1% | -0.3% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Oct) |  | 1.5% | 1.3% |
+| 07:00 | EUR | Low | German Exports (MoM) (Sep) |  | 0.5% | -0.5% |
+| 07:00 | EUR | Low | German Imports (MoM) (Sep) |  | 0.5% | -1.3% |
+| 07:00 | EUR | Moderate | German Trade Balance (Sep) |  | 16.7B | 17.2B |
+| 07:00 | NOK | Low | Manufacturing Production (MoM) (Sep) |  |  | 0.7% |
+| 07:45 | EUR | Low | French Current Account (Sep) |  |  | 1.50B |
+| 07:45 | EUR | Low | French Exports (Sep) |  |  | 51.8B |
+| 07:45 | EUR | Low | French Imports (Sep) |  |  | 57.3B |
+| 07:45 | EUR | Low | French Reserve Assets Total (Oct) |  |  | 330,268.0M |
+| 07:45 | EUR | Low | French Trade Balance (Sep) |  | -5.9B | -5.5B |
+| 08:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 08:00 | CHF | Low | Foreign Reserves (USD) (Oct) |  |  | 726,739.0B |
+| 08:00 | CHF | Moderate | SECO Consumer Climate (Q4) |  | -36 | -28 |
+| 08:00 | CNY | Low | FX Reserves (USD) (Oct) |  | 3.320T | 3.339T |
+| 08:30 | HKD | Low | Foreign Reserves (USD) (Oct) |  |  | 419.20B |
+| 09:00 | SGD | Low | Foreign Reserves USD (MoM) (Oct) |  |  | 393.1B |
+| 10:00 | GBP | Moderate | Mortgage Rate (GBP) (Oct) |  |  | 6.78% |
+| 11:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Oct) |  |  | 0.36% |
+| 11:30 | INR | Low | FX Reserves, USD |  |  | 695.36B |
+| 12:00 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
+| 12:00 | MXN | Low | Core CPI (MoM) (Oct) |  | 0.28% | 0.33% |
+| 12:00 | MXN | Moderate | CPI (MoM) (Oct) |  | 0.36% | 0.23% |
+| 12:00 | MXN | Moderate | CPI (YoY) (Oct) |  | 3.56% | 3.76% |
+| 12:00 | MXN | Low | Month Core Inflation (MoM) (Oct) |  | 4.27% | 4.28% |
+| 12:00 | MXN | Low | PPI (MoM) (Oct) |  |  | 0.20% |
+| 12:00 | MXN | Low | PPI (YoY) (Oct) |  |  | 3.10% |
+| 12:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 12:00 | BRL | Low | Brazilian PPI (MoM) (Sep) |  |  | -0.20% |
+| 13:30 | CAD | Low | Avg hourly wages Permanent employee (Oct) |  |  | 3.6% |
+| 13:30 | CAD | Moderate | Employment Change (Oct) |  | -5.0K | 60.4K |
+| 13:30 | CAD | Low | Full Employment Change (Oct) |  |  | 106.1K |
+| 13:30 | CAD | Low | Part Time Employment Change (Oct) |  |  | -45.6K |
+| 13:30 | CAD | Low | Participation Rate (Oct) |  |  | 65.2% |
+| 13:30 | CAD | Moderate | Unemployment Rate (Oct) |  | 7.1% | 7.1% |
+| 13:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Nov) |  |  | 4.6% |
+| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Nov) |  |  | 3.9% |
+| 15:00 | USD | Moderate | Michigan Consumer Expectations (Nov) |  | 50.3 | 50.3 |
+| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Nov) |  | 54.0 | 53.6 |
+| 15:00 | USD | Low | Michigan Current Conditions (Nov) |  | 59.2 | 58.6 |
+| 15:00 | USD | Low | Wholesale Inventories (MoM) (Aug) |  |  | -0.2% |
+| 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.4% |
+| 15:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Oct) |  |  | 3.4% |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 414 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 546 |
+| 20:00 | USD | Moderate | Consumer Credit (Sep) |  | 10.00B | 0.36B |

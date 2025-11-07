@@ -1,32 +1,28 @@
-## 06 November 2025 - Moderate Impact Forex News
+## 07 November 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Trade Balance (Sep) | 3.938B | 3.930B | 1.111B |
-| 00:30 | JPY | au Jibun Bank Services PMI (Oct) | 53.1 | 52.4 | 53.3 |
-| 07:00 | EUR | German Industrial Production (MoM) (Sep) | 1.3% | 3.0% | -3.7% |
-| 08:10 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 08:30 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 09:00 | NOK | Interest Rate Decision | 4.00% | 4.00% | 4.00% |
-| 09:30 | GBP | S&P Global Construction PMI (Oct) | 44.1 | 46.7 | 46.2 |
-| 10:00 | EUR | Spanish 15-Year Obligacion Auction | 3.616% |  | 3.671% |
-| 12:00 | GBP | BoE MPC vote cut (Nov) | 4 | 3 | 2 |
-| 12:00 | GBP | BoE MPC vote hike (Nov) | 0 | 0 | 0 |
-| 12:00 | GBP | BoE MPC vote unchanged (Nov) | 5 | 6 | 7 |
-| 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
-| 12:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 12:30 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 14:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 15:00 | CAD | Ivey PMI (Oct) | 52.4 | 55.2 | 59.8 |
-| 15:30 | CAD | BoC Gov Macklem Speaks |  |  |  |
-| 16:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 16:00 | USD | FOMC Member Williams Speaks |  |  |  |
-| 16:15 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 17:00 | USD | Atlanta Fed GDPNow (Q4) | 4.0% | 4.0% | 4.0% |
-| 18:30 | EUR | ECB's Lane Speaks |  |  |  |
-| 19:00 | CAD | BoC Deputy Gov Kozicki Speaks |  |  |  |
-| 19:00 | MXN | Interest Rate Decision (Nov) | 7.25% | 7.25% | 7.50% |
-| 20:30 | USD | Fed Waller Speaks |  |  |  |
-| 21:30 | USD | Fed's Balance Sheet | 6,573B |  | 6,587B |
-| 24 min | JPY | Household Spending (YoY) (Sep) |  | 2.5% | 2.3% |
-| 24 min | JPY | Household Spending (MoM) (Sep) |  |  | 0.6% |
+| 03:00 | CNY | Exports (YoY) (Oct) |  | 3.0% | 8.3% |
+| 03:00 | CNY | Imports (YoY) (Oct) |  | 3.2% | 7.4% |
+| 03:00 | CNY | Trade Balance (USD) (Oct) |  | 96.90B | 90.45B |
+| 07:00 | GBP | Halifax House Price Index (MoM) (Oct) |  | 0.1% | -0.3% |
+| 07:00 | GBP | Halifax House Price Index (YoY) (Oct) |  | 1.5% | 1.3% |
+| 07:00 | EUR | German Trade Balance (Sep) |  | 16.7B | 17.2B |
+| 08:00 | USD | FOMC Member Williams Speaks |  |  |  |
+| 08:00 | CHF | SECO Consumer Climate (Q4) |  | -36 | -28 |
+| 10:00 | GBP | Mortgage Rate (GBP) (Oct) |  |  | 6.78% |
+| 12:00 | MXN | CPI (MoM) (Oct) |  | 0.36% | 0.23% |
+| 12:00 | MXN | CPI (YoY) (Oct) |  | 3.56% | 3.76% |
+| 12:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 13:30 | CAD | Employment Change (Oct) |  | -5.0K | 60.4K |
+| 13:30 | CAD | Unemployment Rate (Oct) |  | 7.1% | 7.1% |
+| 13:30 | EUR | ECB's Elderson Speaks |  |  |  |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (Nov) |  |  | 4.6% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (Nov) |  |  | 3.9% |
+| 15:00 | USD | Michigan Consumer Expectations (Nov) |  | 50.3 | 50.3 |
+| 15:00 | USD | Michigan Consumer Sentiment (Nov) |  | 54.0 | 53.6 |
+| 15:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Oct) |  |  | 3.4% |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 414 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 546 |
+| 20:00 | USD | Consumer Credit (Sep) |  | 10.00B | 0.36B |
