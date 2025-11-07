@@ -28,8 +28,8 @@
 | 08:00 | CNY | Low | FX Reserves (USD) (Oct) | 3.343T | 3.320T | 3.339T |
 | 08:30 | HKD | Low | Foreign Reserves (USD) (Oct) | 426.00B |  | 419.10B |
 | 09:00 | SGD | Low | Foreign Reserves USD (MoM) (Oct) | 392.2B |  | 393.1B |
-| 52 min | GBP | Moderate | Mortgage Rate (GBP) (Oct) |  |  | 6.78% |
-| 11:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Oct) |  |  | 0.36% |
+| 09:30 | GBP | Moderate | Mortgage Rate (GBP) (Oct) | 6.78% |  | 6.78% |
+| 52 min | BRL | Low | IGP-DI Inflation Index (MoM) (Oct) |  |  | 0.36% |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 695.36B |
 | 12:00 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
 | 12:00 | MXN | Low | Core CPI (MoM) (Oct) |  | 0.28% | 0.33% |

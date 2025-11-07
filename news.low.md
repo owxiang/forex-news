@@ -20,7 +20,7 @@
 | 08:00 | CNY | FX Reserves (USD) (Oct) | 3.343T | 3.320T | 3.339T |
 | 08:30 | HKD | Foreign Reserves (USD) (Oct) | 426.00B |  | 419.10B |
 | 09:00 | SGD | Foreign Reserves USD (MoM) (Oct) | 392.2B |  | 393.1B |
-| 11:00 | BRL | IGP-DI Inflation Index (MoM) (Oct) |  |  | 0.36% |
+| 52 min | BRL | IGP-DI Inflation Index (MoM) (Oct) |  |  | 0.36% |
 | 11:30 | INR | FX Reserves, USD |  |  | 695.36B |
 | 12:00 | USD | Fed Governor Jefferson Speaks |  |  |  |
 | 12:00 | MXN | Core CPI (MoM) (Oct) |  | 0.28% | 0.33% |
