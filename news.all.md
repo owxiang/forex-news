@@ -40,20 +40,20 @@
 | 12:00 | MXN | Low | PPI (YoY) (Oct) | 3.00% |  | 3.10% |
 | 12:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 12:00 | BRL | Low | Brazilian PPI (MoM) (Sep) | -0.25% |  | -0.21% |
-| 16 min | CAD | Low | Avg hourly wages Permanent employee (Oct) |  |  | 3.6% |
-| 16 min | CAD | Moderate | Employment Change (Oct) |  | -5.0K | 60.4K |
-| 16 min | CAD | Low | Full Employment Change (Oct) |  |  | 106.1K |
-| 16 min | CAD | Low | Part Time Employment Change (Oct) |  |  | -45.6K |
-| 16 min | CAD | Low | Participation Rate (Oct) |  |  | 65.2% |
-| 16 min | CAD | Moderate | Unemployment Rate (Oct) |  | 7.1% | 7.1% |
-| 16 min | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Nov) |  |  | 4.6% |
-| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Nov) |  |  | 3.9% |
-| 15:00 | USD | Moderate | Michigan Consumer Expectations (Nov) |  | 50.3 | 50.3 |
-| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Nov) |  | 53.0 | 53.6 |
-| 15:00 | USD | Low | Michigan Current Conditions (Nov) |  | 59.2 | 58.6 |
-| 15:00 | USD | Low | Wholesale Inventories (MoM) (Aug) |  |  | -0.2% |
-| 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.4% |
+| 13:30 | CAD | Low | Avg hourly wages Permanent employee (Oct) | 4.0% |  | 3.6% |
+| 13:30 | CAD | Moderate | Employment Change (Oct) | 66.6K | -5.0K | 60.4K |
+| 13:30 | CAD | Low | Full Employment Change (Oct) | -18.5K |  | 106.1K |
+| 13:30 | CAD | Low | Part Time Employment Change (Oct) | 85.1K |  | -45.6K |
+| 13:30 | CAD | Low | Participation Rate (Oct) | 65.3% |  | 65.2% |
+| 13:30 | CAD | Moderate | Unemployment Rate (Oct) | 6.9% | 7.1% | 7.1% |
+| 13:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 53 min | USD | Moderate | Michigan 1-Year Inflation Expectations (Nov) |  |  | 4.6% |
+| 53 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Nov) |  |  | 3.9% |
+| 53 min | USD | Moderate | Michigan Consumer Expectations (Nov) |  | 50.3 | 50.3 |
+| 53 min | USD | Moderate | Michigan Consumer Sentiment (Nov) |  | 53.0 | 53.6 |
+| 53 min | USD | Low | Michigan Current Conditions (Nov) |  | 59.2 | 58.6 |
+| 53 min | USD | Low | Wholesale Inventories (MoM) (Aug) |  |  | -0.2% |
+| 53 min | USD | Low | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.4% |
 | 15:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Oct) |  |  | 3.4% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 414 |

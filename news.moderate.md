@@ -14,13 +14,13 @@
 | 12:00 | MXN | CPI (MoM) (Oct) | 0.36% | 0.36% | 0.23% |
 | 12:00 | MXN | CPI (YoY) (Oct) | 3.57% | 3.56% | 3.76% |
 | 12:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 16 min | CAD | Employment Change (Oct) |  | -5.0K | 60.4K |
-| 16 min | CAD | Unemployment Rate (Oct) |  | 7.1% | 7.1% |
-| 16 min | EUR | ECB's Elderson Speaks |  |  |  |
-| 15:00 | USD | Michigan 1-Year Inflation Expectations (Nov) |  |  | 4.6% |
-| 15:00 | USD | Michigan 5-Year Inflation Expectations (Nov) |  |  | 3.9% |
-| 15:00 | USD | Michigan Consumer Expectations (Nov) |  | 50.3 | 50.3 |
-| 15:00 | USD | Michigan Consumer Sentiment (Nov) |  | 53.0 | 53.6 |
+| 13:30 | CAD | Employment Change (Oct) | 66.6K | -5.0K | 60.4K |
+| 13:30 | CAD | Unemployment Rate (Oct) | 6.9% | 7.1% | 7.1% |
+| 13:30 | EUR | ECB's Elderson Speaks |  |  |  |
+| 53 min | USD | Michigan 1-Year Inflation Expectations (Nov) |  |  | 4.6% |
+| 53 min | USD | Michigan 5-Year Inflation Expectations (Nov) |  |  | 3.9% |
+| 53 min | USD | Michigan Consumer Expectations (Nov) |  | 50.3 | 50.3 |
+| 53 min | USD | Michigan Consumer Sentiment (Nov) |  | 53.0 | 53.6 |
 | 15:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Oct) |  |  | 3.4% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 414 |

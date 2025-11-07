@@ -28,10 +28,10 @@
 | 12:00 | MXN | PPI (MoM) (Oct) | 0.30% |  | 0.20% |
 | 12:00 | MXN | PPI (YoY) (Oct) | 3.00% |  | 3.10% |
 | 12:00 | BRL | Brazilian PPI (MoM) (Sep) | -0.25% |  | -0.21% |
-| 16 min | CAD | Avg hourly wages Permanent employee (Oct) |  |  | 3.6% |
-| 16 min | CAD | Full Employment Change (Oct) |  |  | 106.1K |
-| 16 min | CAD | Part Time Employment Change (Oct) |  |  | -45.6K |
-| 16 min | CAD | Participation Rate (Oct) |  |  | 65.2% |
-| 15:00 | USD | Michigan Current Conditions (Nov) |  | 59.2 | 58.6 |
-| 15:00 | USD | Wholesale Inventories (MoM) (Aug) |  |  | -0.2% |
-| 15:00 | USD | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.4% |
+| 13:30 | CAD | Avg hourly wages Permanent employee (Oct) | 4.0% |  | 3.6% |
+| 13:30 | CAD | Full Employment Change (Oct) | -18.5K |  | 106.1K |
+| 13:30 | CAD | Part Time Employment Change (Oct) | 85.1K |  | -45.6K |
+| 13:30 | CAD | Participation Rate (Oct) | 65.3% |  | 65.2% |
+| 53 min | USD | Michigan Current Conditions (Nov) |  | 59.2 | 58.6 |
+| 53 min | USD | Wholesale Inventories (MoM) (Aug) |  |  | -0.2% |
+| 53 min | USD | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.4% |
