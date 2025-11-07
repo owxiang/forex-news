@@ -10,7 +10,7 @@
 | 07:00 | EUR | German Trade Balance (Sep) | 15.3B | 16.7B | 16.9B |
 | 08:00 | USD | FOMC Member Williams Speaks |  |  |  |
 | 08:00 | CHF | SECO Consumer Climate (Q4) | -37 | -36 | -28 |
-| 10:00 | GBP | Mortgage Rate (GBP) (Oct) |  |  | 6.78% |
+| 52 min | GBP | Mortgage Rate (GBP) (Oct) |  |  | 6.78% |
 | 12:00 | MXN | CPI (MoM) (Oct) |  | 0.36% | 0.23% |
 | 12:00 | MXN | CPI (YoY) (Oct) |  | 3.56% | 3.76% |
 | 12:00 | EUR | German Buba President Nagel Speaks |  |  |  |

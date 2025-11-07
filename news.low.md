@@ -18,8 +18,8 @@
 | 07:45 | EUR | French Trade Balance (Sep) | -6.6B | -5.9B | -5.2B |
 | 08:00 | CHF | Foreign Reserves (USD) (Oct) | 724.8B |  | 726.8B |
 | 08:00 | CNY | FX Reserves (USD) (Oct) | 3.343T | 3.320T | 3.339T |
-| 19 min | HKD | Foreign Reserves (USD) (Oct) |  |  | 419.20B |
-| 49 min | SGD | Foreign Reserves USD (MoM) (Oct) |  |  | 393.1B |
+| 08:30 | HKD | Foreign Reserves (USD) (Oct) | 426.00B |  | 419.10B |
+| 09:00 | SGD | Foreign Reserves USD (MoM) (Oct) | 392.2B |  | 393.1B |
 | 11:00 | BRL | IGP-DI Inflation Index (MoM) (Oct) |  |  | 0.36% |
 | 11:30 | INR | FX Reserves, USD |  |  | 695.36B |
 | 12:00 | USD | Fed Governor Jefferson Speaks |  |  |  |

@@ -26,9 +26,9 @@
 | 08:00 | CHF | Low | Foreign Reserves (USD) (Oct) | 724.8B |  | 726.8B |
 | 08:00 | CHF | Moderate | SECO Consumer Climate (Q4) | -37 | -36 | -28 |
 | 08:00 | CNY | Low | FX Reserves (USD) (Oct) | 3.343T | 3.320T | 3.339T |
-| 19 min | HKD | Low | Foreign Reserves (USD) (Oct) |  |  | 419.20B |
-| 49 min | SGD | Low | Foreign Reserves USD (MoM) (Oct) |  |  | 393.1B |
-| 10:00 | GBP | Moderate | Mortgage Rate (GBP) (Oct) |  |  | 6.78% |
+| 08:30 | HKD | Low | Foreign Reserves (USD) (Oct) | 426.00B |  | 419.10B |
+| 09:00 | SGD | Low | Foreign Reserves USD (MoM) (Oct) | 392.2B |  | 393.1B |
+| 52 min | GBP | Moderate | Mortgage Rate (GBP) (Oct) |  |  | 6.78% |
 | 11:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Oct) |  |  | 0.36% |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 695.36B |
 | 12:00 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
