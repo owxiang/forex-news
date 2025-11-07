@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 02:00 | IDR | Low | Motorbike Sales (YoY) (Oct) |  |  | 7.30% |
+| 25 min | IDR | Low | Motorbike Sales (YoY) (Oct) |  |  | 7.30% |
 | 03:00 | CNY | Low | Exports (Oct) |  |  | 8.40M |
 | 03:00 | CNY | Low | Imports (Oct) |  |  | 7.50M |
 | 03:00 | CNY | Low | Trade Balance (Oct) |  | 705.00B | 645.47B |
