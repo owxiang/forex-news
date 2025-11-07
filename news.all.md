@@ -9,14 +9,14 @@
 | 03:00 | CNY | Moderate | Imports (YoY) (Oct) | 1.0% | 3.2% | 7.4% |
 | 03:00 | CNY | Moderate | Trade Balance (USD) (Oct) | 90.07B | 96.90B | 90.45B |
 | 03:00 | IDR | Low | FX Reserves (USD) (Oct) | 149.90B |  | 148.70B |
-| 53 min | ZAR | Low | Foreign Reserves (USD) (Oct) |  |  | 69.74B |
-| 53 min | ZAR | Low | Net FX Reserves (USD) (Oct) |  |  | 67.865B |
-| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Oct) |  | 0.1% | -0.3% |
-| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Oct) |  | 1.5% | 1.3% |
-| 07:00 | EUR | Low | German Exports (MoM) (Sep) |  | 0.5% | -0.5% |
-| 07:00 | EUR | Low | German Imports (MoM) (Sep) |  | 0.5% | -1.3% |
-| 07:00 | EUR | Moderate | German Trade Balance (Sep) |  | 16.7B | 17.2B |
-| 07:00 | NOK | Low | Manufacturing Production (MoM) (Sep) |  |  | 0.7% |
+| 06:00 | ZAR | Low | Foreign Reserves (USD) (Oct) | 71.55B |  | 69.74B |
+| 06:00 | ZAR | Low | Net FX Reserves (USD) (Oct) | 69.364B |  | 67.865B |
+| 50 min | GBP | Moderate | Halifax House Price Index (MoM) (Oct) |  | 0.1% | -0.3% |
+| 50 min | GBP | Moderate | Halifax House Price Index (YoY) (Oct) |  | 1.5% | 1.3% |
+| 50 min | EUR | Low | German Exports (MoM) (Sep) |  | 0.5% | -0.5% |
+| 50 min | EUR | Low | German Imports (MoM) (Sep) |  | 0.5% | -1.3% |
+| 50 min | EUR | Moderate | German Trade Balance (Sep) |  | 16.7B | 17.2B |
+| 50 min | NOK | Low | Manufacturing Production (MoM) (Sep) |  |  | 0.7% |
 | 07:45 | EUR | Low | French Current Account (Sep) |  |  | 1.50B |
 | 07:45 | EUR | Low | French Exports (Sep) |  |  | 51.8B |
 | 07:45 | EUR | Low | French Imports (Sep) |  |  | 57.3B |
@@ -33,23 +33,13 @@
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 695.36B |
 | 12:00 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
 | 12:00 | MXN | Low | Core CPI (MoM) (Oct) |  | 0.28% | 0.33% |
-| 12:00 | MXN | Moderate | CPI (YoY) (Oct) |  | 3.56% | 3.76% |
 | 12:00 | MXN | Moderate | CPI (MoM) (Oct) |  | 0.36% | 0.23% |
+| 12:00 | MXN | Moderate | CPI (YoY) (Oct) |  | 3.56% | 3.76% |
 | 12:00 | MXN | Low | Month Core Inflation (MoM) (Oct) |  | 4.27% | 4.28% |
-| 12:00 | MXN | Low | PPI (YoY) (Oct) |  |  | 3.10% |
 | 12:00 | MXN | Low | PPI (MoM) (Oct) |  |  | 0.20% |
+| 12:00 | MXN | Low | PPI (YoY) (Oct) |  |  | 3.10% |
 | 12:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 12:00 | BRL | Low | Brazilian PPI (MoM) (Sep) |  |  | -0.20% |
-| 13:30 | USD | High | Average Hourly Earnings (MoM) (Sep) |  |  | 0.3% |
-| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Sep) |  |  | 3.7% |
-| 13:30 | USD | Low | Average Weekly Hours (Sep) |  |  | 34.2 |
-| 13:30 | USD | Low | Government Payrolls (Sep) |  |  | -16.0K |
-| 13:30 | USD | Low | Manufacturing Payrolls (Sep) |  |  | -12K |
-| 13:30 | USD | High | Nonfarm Payrolls (Sep) |  |  | 22K |
-| 13:30 | USD | Moderate | Participation Rate (Sep) |  |  | 62.3% |
-| 13:30 | USD | Moderate | Private Nonfarm Payrolls (Sep) |  |  | 38K |
-| 13:30 | USD | Moderate | U6 Unemployment Rate (Sep) |  |  | 8.1% |
-| 13:30 | USD | High | Unemployment Rate (Sep) |  |  | 4.3% |
 | 13:30 | CAD | Low | Avg hourly wages Permanent employee (Oct) |  |  | 3.6% |
 | 13:30 | CAD | Moderate | Employment Change (Oct) |  | -5.0K | 60.4K |
 | 13:30 | CAD | Low | Full Employment Change (Oct) |  |  | 106.1K |
