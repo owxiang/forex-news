@@ -2,12 +2,12 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
+| 03:00 | CNY | Exports (Oct) | -0.80M |  | 8.40M |
+| 03:00 | CNY | Imports (Oct) | 1.40M |  | 7.50M |
+| 03:00 | CNY | Trade Balance (Oct) | 640.49B | 705.00B | 645.47B |
 | 03:00 | IDR | FX Reserves (USD) (Oct) | 149.90B |  | 148.70B |
-| 03:41 | CNY | Exports (Oct) | -0.80M |  | 8.40M |
-| 03:41 | CNY | Imports (Oct) | 1.40M |  | 7.50M |
-| 03:41 | CNY | Trade Balance (Oct) | 640.49B | 705.00B | 645.47B |
-| 06:00 | ZAR | Foreign Reserves (USD) (Oct) |  |  | 69.74B |
-| 06:00 | ZAR | Net FX Reserves (USD) (Oct) |  |  | 67.865B |
+| 53 min | ZAR | Foreign Reserves (USD) (Oct) |  |  | 69.74B |
+| 53 min | ZAR | Net FX Reserves (USD) (Oct) |  |  | 67.865B |
 | 07:00 | EUR | German Exports (MoM) (Sep) |  | 0.5% | -0.5% |
 | 07:00 | EUR | German Imports (MoM) (Sep) |  | 0.5% | -1.3% |
 | 07:00 | NOK | Manufacturing Production (MoM) (Sep) |  |  | 0.7% |

@@ -2,15 +2,15 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
+| 03:00 | CNY | Low | Exports (Oct) | -0.80M |  | 8.40M |
+| 03:00 | CNY | Low | Imports (Oct) | 1.40M |  | 7.50M |
+| 03:00 | CNY | Low | Trade Balance (Oct) | 640.49B | 705.00B | 645.47B |
+| 03:00 | CNY | Moderate | Exports (YoY) (Oct) | -1.1% | 3.0% | 8.3% |
+| 03:00 | CNY | Moderate | Imports (YoY) (Oct) | 1.0% | 3.2% | 7.4% |
+| 03:00 | CNY | Moderate | Trade Balance (USD) (Oct) | 90.07B | 96.90B | 90.45B |
 | 03:00 | IDR | Low | FX Reserves (USD) (Oct) | 149.90B |  | 148.70B |
-| 03:41 | CNY | Low | Exports (Oct) | -0.80M |  | 8.40M |
-| 03:41 | CNY | Low | Imports (Oct) | 1.40M |  | 7.50M |
-| 03:41 | CNY | Low | Trade Balance (Oct) | 640.49B | 705.00B | 645.47B |
-| 04:05 | CNY | Moderate | Exports (YoY) (Oct) | -1.1% | 3.0% | 8.3% |
-| 04:05 | CNY | Moderate | Imports (YoY) (Oct) | 1.0% | 3.2% | 7.4% |
-| 04:05 | CNY | Moderate | Trade Balance (USD) (Oct) | 90.07B | 96.90B | 90.45B |
-| 06:00 | ZAR | Low | Foreign Reserves (USD) (Oct) |  |  | 69.74B |
-| 06:00 | ZAR | Low | Net FX Reserves (USD) (Oct) |  |  | 67.865B |
+| 53 min | ZAR | Low | Foreign Reserves (USD) (Oct) |  |  | 69.74B |
+| 53 min | ZAR | Low | Net FX Reserves (USD) (Oct) |  |  | 67.865B |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Oct) |  | 0.1% | -0.3% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Oct) |  | 1.5% | 1.3% |
 | 07:00 | EUR | Low | German Exports (MoM) (Sep) |  | 0.5% | -0.5% |
@@ -60,7 +60,7 @@
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Nov) |  |  | 4.6% |
 | 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Nov) |  |  | 3.9% |
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Nov) |  | 50.3 | 50.3 |
-| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Nov) |  | 54.0 | 53.6 |
+| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Nov) |  | 53.0 | 53.6 |
 | 15:00 | USD | Low | Michigan Current Conditions (Nov) |  | 59.2 | 58.6 |
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (Aug) |  |  | -0.2% |
 | 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.4% |
@@ -68,4 +68,4 @@
 | 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Oct) |  |  | 3.4% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 414 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 546 |
-| 20:00 | USD | Moderate | Consumer Credit (Sep) |  | 10.00B | 0.36B |
+| 20:00 | USD | Moderate | Consumer Credit (Sep) |  | 10.40B | 0.36B |

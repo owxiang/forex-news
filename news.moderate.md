@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 04:05 | CNY | Exports (YoY) (Oct) | -1.1% | 3.0% | 8.3% |
-| 04:05 | CNY | Imports (YoY) (Oct) | 1.0% | 3.2% | 7.4% |
-| 04:05 | CNY | Trade Balance (USD) (Oct) | 90.07B | 96.90B | 90.45B |
+| 03:00 | CNY | Exports (YoY) (Oct) | -1.1% | 3.0% | 8.3% |
+| 03:00 | CNY | Imports (YoY) (Oct) | 1.0% | 3.2% | 7.4% |
+| 03:00 | CNY | Trade Balance (USD) (Oct) | 90.07B | 96.90B | 90.45B |
 | 07:00 | GBP | Halifax House Price Index (MoM) (Oct) |  | 0.1% | -0.3% |
 | 07:00 | GBP | Halifax House Price Index (YoY) (Oct) |  | 1.5% | 1.3% |
 | 07:00 | EUR | German Trade Balance (Sep) |  | 16.7B | 17.2B |
@@ -24,9 +24,9 @@
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Nov) |  |  | 4.6% |
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Nov) |  |  | 3.9% |
 | 15:00 | USD | Michigan Consumer Expectations (Nov) |  | 50.3 | 50.3 |
-| 15:00 | USD | Michigan Consumer Sentiment (Nov) |  | 54.0 | 53.6 |
+| 15:00 | USD | Michigan Consumer Sentiment (Nov) |  | 53.0 | 53.6 |
 | 15:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Oct) |  |  | 3.4% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 414 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 546 |
-| 20:00 | USD | Consumer Credit (Sep) |  | 10.00B | 0.36B |
+| 20:00 | USD | Consumer Credit (Sep) |  | 10.40B | 0.36B |
