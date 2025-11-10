@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Private House Approvals (Sep) | 4.0% | 4.0% | -1.0% |
-| 03:00 | IDR | Consumer Confidence (Oct) |  |  | 115.0 |
+| 21 min | IDR | Consumer Confidence (Oct) |  |  | 115.0 |
 | 05:00 | JPY | Coincident Indicator (MoM) (Sep) |  |  | -1.3% |
 | 05:00 | JPY | Leading Index (Sep) |  | 107.9 | 107.0 |
 | 05:00 | JPY | Leading Index (MoM) (Sep) |  |  | 1.3% |
