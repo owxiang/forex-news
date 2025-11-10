@@ -7,12 +7,12 @@
 | 05:00 | JPY | Coincident Indicator (MoM) (Sep) | 1.8% |  | -1.3% |
 | 05:00 | JPY | Leading Index (Sep) | 108.0 | 107.9 | 107.0 |
 | 05:00 | JPY | Leading Index (MoM) (Sep) | 1.0% |  | 1.3% |
-| 22 min | NOK | Consumer Confidence (Q4) |  |  | -3.60 |
-| 07:00 | NOK | Core CPI YTD (Oct) |  |  | 3.0% |
-| 07:00 | NOK | Core Inflation (MoM) (Oct) |  | 3.0% | 0.2% |
-| 07:00 | NOK | CPI (MoM) (Oct) |  |  | 0.4% |
-| 07:00 | NOK | CPI (YoY) (Oct) |  | 3.1% | 3.6% |
-| 07:00 | NOK | PPI (YoY) (Oct) |  |  | -2.8% |
+| 05:30 | NOK | Consumer Confidence (Q4) | -3.70 |  | -4.50 |
+| 48 min | NOK | Core CPI YTD (Oct) |  | 3.0% | 3.0% |
+| 48 min | NOK | Core Inflation (MoM) (Oct) |  | 3.0% | 0.2% |
+| 48 min | NOK | CPI (MoM) (Oct) |  |  | 0.4% |
+| 48 min | NOK | CPI (YoY) (Oct) |  | 3.1% | 3.6% |
+| 48 min | NOK | PPI (YoY) (Oct) |  |  | -2.8% |
 | 09:30 | EUR | Sentix Investor Confidence (Nov) |  | -3.9 | -5.4 |
 | 10:00 | EUR | Spanish Consumer Confidence (Oct) |  |  | 81.5 |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
