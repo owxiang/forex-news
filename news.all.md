@@ -21,9 +21,9 @@
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.065% |  | 2.059% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.030% |  | 2.010% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.044% |  | 2.029% |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.815% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.700% |
-| 17:00 | USD | Moderate | WASDE Report |  |  |  |
+| 22 min | USD | Low | 3-Month Bill Auction |  |  | 3.815% |
+| 22 min | USD | Low | 6-Month Bill Auction |  |  | 3.700% |
+| 52 min | USD | Moderate | WASDE Report |  |  |  |
 | 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 3.576% |
 | 23:30 | AUD | Low | Westpac Consumer Sentiment (Nov) |  |  | -3.5% |
 | 23:50 | JPY | Moderate | Adjusted Current Account (Sep) |  | 2.26T | 2.46T |
