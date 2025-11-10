@@ -4,9 +4,9 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Private House Approvals (Sep) | 4.0% | 4.0% | -1.0% |
 | 03:00 | IDR | Consumer Confidence (Oct) | 121.2 |  | 115.0 |
-| 05:00 | JPY | Coincident Indicator (MoM) (Sep) |  |  | -1.3% |
-| 05:00 | JPY | Leading Index (Sep) |  | 107.9 | 107.0 |
-| 05:00 | JPY | Leading Index (MoM) (Sep) |  |  | 1.3% |
+| 48 min | JPY | Coincident Indicator (MoM) (Sep) |  |  | -1.3% |
+| 48 min | JPY | Leading Index (Sep) |  | 107.9 | 107.0 |
+| 48 min | JPY | Leading Index (MoM) (Sep) |  |  | 1.3% |
 | 05:30 | NOK | Consumer Confidence (Q4) |  |  | -3.60 |
 | 07:00 | NOK | Core CPI YTD (Oct) |  | 3.0% | 3.0% |
 | 07:00 | NOK | Core Inflation (MoM) (Oct) |  |  | 0.2% |

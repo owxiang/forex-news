@@ -5,10 +5,10 @@
 | 00:30 | AUD | Moderate | Building Approvals (MoM) (Sep) | 12.0% | 12.0% | -3.6% |
 | 00:30 | AUD | Low | Private House Approvals (Sep) | 4.0% | 4.0% | -1.0% |
 | 03:00 | IDR | Low | Consumer Confidence (Oct) | 121.2 |  | 115.0 |
-| 9 min | JPY | Moderate | BoJ Board Member Nakagawa Speaks |  |  |  |
-| 05:00 | JPY | Low | Coincident Indicator (MoM) (Sep) |  |  | -1.3% |
-| 05:00 | JPY | Low | Leading Index (Sep) |  | 107.9 | 107.0 |
-| 05:00 | JPY | Low | Leading Index (MoM) (Sep) |  |  | 1.3% |
+| 03:40 | JPY | Moderate | BoJ Board Member Nakagawa Speaks |  |  |  |
+| 48 min | JPY | Low | Coincident Indicator (MoM) (Sep) |  |  | -1.3% |
+| 48 min | JPY | Low | Leading Index (Sep) |  | 107.9 | 107.0 |
+| 48 min | JPY | Low | Leading Index (MoM) (Sep) |  |  | 1.3% |
 | 05:30 | NOK | Low | Consumer Confidence (Q4) |  |  | -3.60 |
 | 07:00 | NOK | Low | Core CPI YTD (Oct) |  | 3.0% | 3.0% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Oct) |  |  | 0.2% |
