@@ -15,7 +15,7 @@
 | 07:00 | NOK | Low | CPI (MoM) (Oct) | 0.3% |  | 0.4% |
 | 07:00 | NOK | Low | CPI (YoY) (Oct) | 3.3% | 3.1% | 3.6% |
 | 07:00 | NOK | Low | PPI (YoY) (Oct) | -6.9% |  | -2.8% |
-| 21 min | EUR | Low | Sentix Investor Confidence (Nov) |  | -3.9 | -5.4 |
+| 09:30 | EUR | Low | Sentix Investor Confidence (Nov) | -7.4 | -3.9 | -5.4 |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:30 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.059% |
