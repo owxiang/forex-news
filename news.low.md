@@ -13,8 +13,7 @@
 | 07:00 | NOK | CPI (MoM) (Oct) | 0.3% |  | 0.4% |
 | 07:00 | NOK | CPI (YoY) (Oct) | 3.3% | 3.1% | 3.6% |
 | 07:00 | NOK | PPI (YoY) (Oct) | -6.9% |  | -2.8% |
-| 09:30 | EUR | Sentix Investor Confidence (Nov) |  | -3.9 | -5.4 |
-| 10:00 | EUR | Spanish Consumer Confidence (Oct) |  |  | 81.5 |
+| 21 min | EUR | Sentix Investor Confidence (Nov) |  | -3.9 | -5.4 |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.059% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.010% |
