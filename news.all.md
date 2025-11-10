@@ -21,8 +21,6 @@
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.065% |  | 2.059% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.030% |  | 2.010% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.044% |  | 2.029% |
-| 53 min | USD | Low | Wholesale Inventories (MoM) (Aug) |  |  | -0.2% |
-| 53 min | USD | Low | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.4% |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.815% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.700% |
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |
