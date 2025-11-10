@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | AUD | Moderate | Building Approvals (MoM) (Sep) |  | 12.0% | -6.0% |
-| 00:30 | AUD | Low | Private House Approvals (Sep) |  | 4.0% | -2.6% |
+| 00:30 | AUD | Moderate | Building Approvals (MoM) (Sep) | 12.0% | 12.0% | -3.6% |
+| 00:30 | AUD | Low | Private House Approvals (Sep) | 4.0% | 4.0% | -1.0% |
 | 03:00 | IDR | Low | Consumer Confidence (Oct) |  |  | 115.0 |
 | 03:40 | JPY | Moderate | BoJ Board Member Nakagawa Speaks |  |  |  |
 | 05:00 | JPY | Low | Coincident Indicator (MoM) (Sep) |  |  | -1.3% |
