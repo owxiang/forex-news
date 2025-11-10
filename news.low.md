@@ -15,11 +15,11 @@
 | 07:00 | NOK | PPI (YoY) (Oct) | -6.9% |  | -2.8% |
 | 09:30 | EUR | Sentix Investor Confidence (Nov) | -7.4 | -3.9 | -5.4 |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 44 min | EUR | French 12-Month BTF Auction |  |  | 2.059% |
-| 44 min | EUR | French 3-Month BTF Auction |  |  | 2.010% |
-| 44 min | EUR | French 6-Month BTF Auction |  |  | 2.029% |
-| 15:00 | USD | Wholesale Inventories (MoM) (Aug) |  |  | -0.2% |
-| 15:00 | USD | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.4% |
+| 14:00 | EUR | French 12-Month BTF Auction | 2.065% |  | 2.059% |
+| 14:00 | EUR | French 3-Month BTF Auction | 2.030% |  | 2.010% |
+| 14:00 | EUR | French 6-Month BTF Auction | 2.044% |  | 2.029% |
+| 53 min | USD | Wholesale Inventories (MoM) (Aug) |  |  | -0.2% |
+| 53 min | USD | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.4% |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 3.815% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 3.700% |
 | 23:30 | AUD | Westpac Consumer Sentiment (Nov) |  |  | -3.5% |

@@ -17,12 +17,12 @@
 | 07:00 | NOK | Low | PPI (YoY) (Oct) | -6.9% |  | -2.8% |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Nov) | -7.4 | -3.9 | -5.4 |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 14 min | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
-| 44 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.059% |
-| 44 min | EUR | Low | French 3-Month BTF Auction |  |  | 2.010% |
-| 44 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.029% |
-| 15:00 | USD | Low | Wholesale Inventories (MoM) (Aug) |  |  | -0.2% |
-| 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.4% |
+| 13:30 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.065% |  | 2.059% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.030% |  | 2.010% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.044% |  | 2.029% |
+| 53 min | USD | Low | Wholesale Inventories (MoM) (Aug) |  |  | -0.2% |
+| 53 min | USD | Low | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.4% |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.815% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.700% |
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |
