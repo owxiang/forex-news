@@ -25,7 +25,7 @@
 | 16:30 | USD | Low | 6-Month Bill Auction | 3.690% |  | 3.700% |
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |
 | 18:00 | USD | Moderate | 3-Year Note Auction | 3.579% |  | 3.576% |
-| 23:30 | AUD | Low | Westpac Consumer Sentiment (Nov) |  |  | -3.5% |
-| 23:50 | JPY | Moderate | Adjusted Current Account (Sep) |  | 2.26T | 2.46T |
-| 23:50 | JPY | Low | Bank Lending (YoY) (Oct) |  | 3.8% | 3.8% |
-| 23:50 | JPY | Moderate | Current Account n.s.a. (Sep) |  |  | 3.776T |
+| 23 min | AUD | Low | Westpac Consumer Sentiment (Nov) |  |  | -3.5% |
+| 43 min | JPY | Moderate | Adjusted Current Account (Sep) |  | 2.26T | 2.46T |
+| 43 min | JPY | Low | Bank Lending (YoY) (Oct) |  | 3.8% | 3.8% |
+| 43 min | JPY | Moderate | Current Account n.s.a. (Sep) |  |  | 3.776T |
