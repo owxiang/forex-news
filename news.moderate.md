@@ -12,5 +12,5 @@
 | 08:20 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 10:00 | EUR | German ZEW Current Conditions (Nov) | -78.7 | -77.5 | -80.0 |
 | 10:00 | EUR | German ZEW Economic Sentiment (Nov) | 38.5 | 41.0 | 39.3 |
-| 10:00 | EUR | ZEW Economic Sentiment (Nov) |  | 23.5 | 22.7 |
-| 12:00 | BRL | CPI (YoY) (Oct) |  | 4.75% | 5.17% |
+| 10:00 | EUR | ZEW Economic Sentiment (Nov) | 25.0 | 23.5 | 22.7 |
+| 54 min | BRL | CPI (YoY) (Oct) |  | 4.75% | 5.17% |

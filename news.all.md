@@ -21,22 +21,21 @@
 | 09:40 | EUR | Low | Spanish 3-Month Letras Auction | 1.908% |  | 1.918% |
 | 10:00 | EUR | Moderate | German ZEW Current Conditions (Nov) | -78.7 | -77.5 | -80.0 |
 | 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Nov) | 38.5 | 41.0 | 39.3 |
-| 10:00 | EUR | Moderate | ZEW Economic Sentiment (Nov) |  | 23.5 | 22.7 |
-| 52 min | USD | Low | NFIB Small Business Optimism (Oct) |  | 98.5 | 98.8 |
-| 52 min | USD | Low | Wholesale Inventories (MoM) (Aug) |  |  | -0.2% |
-| 52 min | USD | Low | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.4% |
-| 52 min | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
-| 52 min | ZAR | Low | Manufacturing Production (MoM) (Sep) |  |  | 0.4% |
-| 52 min | ZAR | Low | Manufacturing Production (YoY) (Sep) |  |  | -1.5% |
-| 12:00 | MXN | Low | Industrial Production (MoM) (Sep) |  | 0.0% | -0.3% |
-| 12:00 | MXN | Low | Industrial Production (YoY) (Sep) |  |  | -3.6% |
-| 12:00 | BRL | Moderate | CPI (YoY) (Oct) |  | 4.75% | 5.17% |
-| 12:00 | BRL | Low | CPI (MoM) (Oct) |  | 0.16% | 0.48% |
-| 12:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Oct) |  |  | 0.52% |
+| 10:00 | EUR | Moderate | ZEW Economic Sentiment (Nov) | 25.0 | 23.5 | 22.7 |
+| 11:00 | USD | Low | NFIB Small Business Optimism (Oct) | 98.2 | 98.5 | 98.8 |
+| 11:00 | USD | Low | Wholesale Inventories (MoM) (Aug) |  |  | -0.2% |
+| 11:00 | USD | Low | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.4% |
+| 11:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
+| 11:00 | ZAR | Low | Manufacturing Production (MoM) (Sep) | -0.5% |  | 0.7% |
+| 11:00 | ZAR | Low | Manufacturing Production (YoY) (Sep) | 0.3% |  | -1.5% |
+| 54 min | MXN | Low | Industrial Production (MoM) (Sep) |  | 0.0% | -0.3% |
+| 54 min | MXN | Low | Industrial Production (YoY) (Sep) |  |  | -3.6% |
+| 54 min | BRL | Moderate | CPI (YoY) (Oct) |  | 4.75% | 5.17% |
+| 54 min | BRL | Low | CPI (MoM) (Oct) |  | 0.16% | 0.48% |
+| 54 min | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Oct) |  |  | 0.52% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.7% |
 | 17:00 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
 | 22:15 | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
 | 23:00 | KRW | Low | Unemployment Rate (Oct) |  |  | 2.5% |
-| 23:00 | JPY | Low | Reuters Tankan Index (Nov) |  |  | 8 |
 | 23:50 | JPY | Low | M2 Money Stock (YoY) |  | 1.8% | 1.6% |
 | 23:50 | JPY | Low | M3 Money Supply (Oct) |  |  | 2,228.9B |
