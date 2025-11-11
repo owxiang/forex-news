@@ -8,9 +8,9 @@
 | 03:35 | JPY | 30-Year JGB Auction | 3.166% |  | 3.248% |
 | 05:00 | JPY | Economy Watchers Current Index (Oct) | 49.1 | 47.5 | 47.1 |
 | 07:00 | GBP | Average Earnings ex Bonus (Sep) | 4.6% | 4.6% | 4.7% |
-| 08:30 | CNY | M2 Money Stock (YoY) (Oct) |  | 8.1% | 8.4% |
-| 08:30 | CNY | Outstanding Loan Growth (YoY) (Oct) |  | 6.6% | 6.6% |
-| 08:30 | CNY | Chinese Total Social Financing (Oct) |  | 1,230.0B | 3,530.0B |
+| 21 min | CNY | M2 Money Stock (YoY) (Oct) |  | 8.1% | 8.4% |
+| 21 min | CNY | Outstanding Loan Growth (YoY) (Oct) |  | 6.6% | 6.6% |
+| 21 min | CNY | Chinese Total Social Financing (Oct) |  | 1,230.0B | 3,530.0B |
 | 09:30 | ZAR | Unemployment Rate (Q3) |  |  | 33.20% |
 | 09:30 | ZAR | Unemployment (Q3) |  |  | 8.367M |
 | 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 1.918% |

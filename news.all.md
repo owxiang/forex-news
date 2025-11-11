@@ -15,11 +15,11 @@
 | 07:00 | GBP | Moderate | Claimant Count Change (Oct) | 29.0K | 17.6K | 0.4K |
 | 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Sep) | -22K |  | 91K |
 | 07:00 | GBP | Moderate | Unemployment Rate (Sep) | 5.0% | 4.9% | 4.8% |
-| 08:20 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 08:30 | CNY | Low | M2 Money Stock (YoY) (Oct) |  | 8.1% | 8.4% |
-| 08:30 | CNY | Moderate | New Loans (Oct) |  | 465.0B | 1,290.0B |
-| 08:30 | CNY | Low | Outstanding Loan Growth (YoY) (Oct) |  | 6.6% | 6.6% |
-| 08:30 | CNY | Low | Chinese Total Social Financing (Oct) |  | 1,230.0B | 3,530.0B |
+| 11 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 21 min | CNY | Low | M2 Money Stock (YoY) (Oct) |  | 8.1% | 8.4% |
+| 21 min | CNY | Moderate | New Loans (Oct) |  | 465.0B | 1,290.0B |
+| 21 min | CNY | Low | Outstanding Loan Growth (YoY) (Oct) |  | 6.6% | 6.6% |
+| 21 min | CNY | Low | Chinese Total Social Financing (Oct) |  | 1,230.0B | 3,530.0B |
 | 09:30 | ZAR | Low | Unemployment Rate (Q3) |  |  | 33.20% |
 | 09:30 | ZAR | Low | Unemployment (Q3) |  |  | 8.367M |
 | 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 1.918% |
