@@ -12,15 +12,13 @@
 | 09:30 | ZAR | Unemployment (Q3) | 8.007M |  | 8.367M |
 | 09:40 | EUR | Spanish 3-Month Letras Auction | 1.908% |  | 1.918% |
 | 11:00 | USD | NFIB Small Business Optimism (Oct) | 98.2 | 98.5 | 98.8 |
-| 11:00 | USD | Wholesale Inventories (MoM) (Aug) |  |  | -0.2% |
-| 11:00 | USD | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.4% |
 | 11:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
 | 11:00 | ZAR | Manufacturing Production (MoM) (Sep) | -0.5% |  | 0.7% |
 | 11:00 | ZAR | Manufacturing Production (YoY) (Sep) | 0.3% |  | -1.5% |
-| 54 min | MXN | Industrial Production (MoM) (Sep) |  | 0.0% | -0.3% |
-| 54 min | MXN | Industrial Production (YoY) (Sep) |  |  | -3.6% |
-| 54 min | BRL | CPI (MoM) (Oct) |  | 0.16% | 0.48% |
-| 54 min | BRL | Brazilian IPCA Inflation Index SA (MoM) (Oct) |  |  | 0.52% |
+| 12:00 | MXN | Industrial Production (YoY) (Sep) | -2.4% |  | -3.6% |
+| 12:00 | MXN | Industrial Production (MoM) (Sep) | -0.4% | 0.0% | -0.3% |
+| 12:00 | BRL | CPI (MoM) (Oct) | 0.09% | 0.16% | 0.48% |
+| 12:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Oct) | 0.07% |  | 0.52% |
 | 13:55 | USD | Redbook (YoY) |  |  | 5.7% |
 | 17:00 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
 | 22:15 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
