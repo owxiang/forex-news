@@ -5,7 +5,7 @@
 | 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Oct) | 1.5% | 2.4% | 2.0% |
 | 00:30 | AUD | Moderate | NAB Business Confidence (Oct) | 6 |  | 7 |
 | 00:30 | AUD | Low | NAB Business Survey (Oct) | 9 |  | 8 |
-| 02:00 | NZD | Moderate | Inflation Expectations (QoQ) |  |  | 2.3% |
+| 25 min | NZD | Moderate | Inflation Expectations (QoQ) |  |  | 2.3% |
 | 03:00 | IDR | Low | Retail Sales (YoY) (Sep) |  |  | 3.5% |
 | 03:35 | JPY | Low | 30-Year JGB Auction |  |  | 3.248% |
 | 05:00 | JPY | Low | Economy Watchers Current Index (Oct) |  | 47.6 | 47.1 |

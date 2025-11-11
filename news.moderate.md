@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Oct) | 1.5% | 2.4% | 2.0% |
 | 00:30 | AUD | NAB Business Confidence (Oct) | 6 |  | 7 |
-| 02:00 | NZD | Inflation Expectations (QoQ) |  |  | 2.3% |
+| 25 min | NZD | Inflation Expectations (QoQ) |  |  | 2.3% |
 | 07:00 | GBP | Average Earnings Index +Bonus (Sep) |  | 5.0% | 5.0% |
 | 07:00 | GBP | Claimant Count Change (Oct) |  | 20.3K | 25.8K |
 | 07:00 | GBP | Employment Change 3M/3M (MoM) (Sep) |  |  | 91K |
