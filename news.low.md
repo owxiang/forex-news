@@ -6,8 +6,8 @@
 | 02:00 | IDR | Car Sales (YoY) (Oct) | -4.40% |  | -15.10% |
 | 03:00 | IDR | Retail Sales (YoY) (Sep) | 3.7% |  | 3.5% |
 | 03:35 | JPY | 30-Year JGB Auction | 3.166% |  | 3.248% |
-| 50 min | JPY | Economy Watchers Current Index (Oct) |  | 47.5 | 47.1 |
-| 07:00 | GBP | Average Earnings ex Bonus (Sep) |  | 4.6% | 4.7% |
+| 05:00 | JPY | Economy Watchers Current Index (Oct) | 49.1 | 47.5 | 47.1 |
+| 49 min | GBP | Average Earnings ex Bonus (Sep) |  | 4.6% | 4.7% |
 | 08:30 | CNY | M2 Money Stock (YoY) (Oct) |  | 8.1% | 8.4% |
 | 08:30 | CNY | Outstanding Loan Growth (YoY) (Oct) |  | 6.6% | 6.6% |
 | 08:30 | CNY | Chinese Total Social Financing (Oct) |  | 1,230.0B | 3,530.0B |
