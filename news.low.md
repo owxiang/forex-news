@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | NAB Business Survey (Oct) | 9 |  | 8 |
-| 03:00 | IDR | Retail Sales (YoY) (Sep) |  |  | 3.5% |
-| 03:35 | JPY | 30-Year JGB Auction |  |  | 3.248% |
+| 21 min | IDR | Retail Sales (YoY) (Sep) |  |  | 3.5% |
+| 56 min | JPY | 30-Year JGB Auction |  |  | 3.248% |
 | 05:00 | JPY | Economy Watchers Current Index (Oct) |  | 47.6 | 47.1 |
 | 06:00 | IDR | Car Sales (YoY) (Oct) |  |  | -15.10% |
 | 07:00 | GBP | Average Earnings ex Bonus (Sep) |  | 4.6% | 4.7% |
