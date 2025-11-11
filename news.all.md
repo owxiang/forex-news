@@ -31,7 +31,7 @@
 | 12:00 | BRL | Moderate | CPI (YoY) (Oct) | 4.68% | 4.75% | 5.17% |
 | 12:00 | BRL | Low | CPI (MoM) (Oct) | 0.09% | 0.16% | 0.48% |
 | 12:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Oct) | 0.07% |  | 0.52% |
-| 39 min | USD | Low | Redbook (YoY) |  |  | 5.7% |
+| 13:55 | USD | Low | Redbook (YoY) | 5.9% |  | 5.7% |
 | 17:00 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
 | 22:15 | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
 | 23:00 | KRW | Low | Unemployment Rate (Oct) |  |  | 2.5% |

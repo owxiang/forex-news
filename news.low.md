@@ -19,7 +19,7 @@
 | 12:00 | MXN | Industrial Production (MoM) (Sep) | -0.4% | 0.0% | -0.3% |
 | 12:00 | BRL | CPI (MoM) (Oct) | 0.09% | 0.16% | 0.48% |
 | 12:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Oct) | 0.07% |  | 0.52% |
-| 39 min | USD | Redbook (YoY) |  |  | 5.7% |
+| 13:55 | USD | Redbook (YoY) | 5.9% |  | 5.7% |
 | 17:00 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
 | 22:15 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
 | 23:00 | KRW | Unemployment Rate (Oct) |  |  | 2.5% |
