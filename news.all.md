@@ -6,10 +6,10 @@
 | 00:30 | AUD | Moderate | NAB Business Confidence (Oct) | 6 |  | 7 |
 | 00:30 | AUD | Low | NAB Business Survey (Oct) | 9 |  | 8 |
 | 02:00 | NZD | Moderate | Inflation Expectations (QoQ) | 2.3% |  | 2.3% |
-| 21 min | IDR | Low | Retail Sales (YoY) (Sep) |  |  | 3.5% |
-| 56 min | JPY | Low | 30-Year JGB Auction |  |  | 3.248% |
+| 02:00 | IDR | Low | Car Sales (YoY) (Oct) | -4.40% |  | -15.10% |
+| 03:00 | IDR | Low | Retail Sales (YoY) (Sep) | 3.7% |  | 3.5% |
+| 8 min | JPY | Low | 30-Year JGB Auction |  |  | 3.248% |
 | 05:00 | JPY | Low | Economy Watchers Current Index (Oct) |  | 47.6 | 47.1 |
-| 06:00 | IDR | Low | Car Sales (YoY) (Oct) |  |  | -15.10% |
 | 07:00 | GBP | Low | Average Earnings ex Bonus (Sep) |  | 4.6% | 4.7% |
 | 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Sep) |  | 5.0% | 5.0% |
 | 07:00 | GBP | Moderate | Claimant Count Change (Oct) |  | 20.3K | 25.8K |
