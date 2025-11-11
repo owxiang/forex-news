@@ -1,24 +1,33 @@
-## 10 November 2025 - Low Impact Forex News
+## 11 November 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Private House Approvals (Sep) | 4.0% | 4.0% | -1.0% |
-| 03:00 | IDR | Consumer Confidence (Oct) | 121.2 |  | 115.0 |
-| 05:00 | JPY | Coincident Indicator (MoM) (Sep) | 1.8% |  | -1.3% |
-| 05:00 | JPY | Leading Index (Sep) | 108.0 | 107.9 | 107.0 |
-| 05:00 | JPY | Leading Index (MoM) (Sep) | 1.0% |  | 1.3% |
-| 05:30 | NOK | Consumer Confidence (Q4) | -3.70 |  | -4.50 |
-| 07:00 | NOK | Core CPI YTD (Oct) | 3.4% | 3.0% | 3.0% |
-| 07:00 | NOK | Core Inflation (MoM) (Oct) | 0.6% | 3.0% | 0.2% |
-| 07:00 | NOK | CPI (MoM) (Oct) | 0.3% |  | 0.4% |
-| 07:00 | NOK | CPI (YoY) (Oct) | 3.3% | 3.1% | 3.6% |
-| 07:00 | NOK | PPI (YoY) (Oct) | -6.9% |  | -2.8% |
-| 09:30 | EUR | Sentix Investor Confidence (Nov) | -7.4 | -3.9 | -5.4 |
-| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 14:00 | EUR | French 12-Month BTF Auction | 2.065% |  | 2.059% |
-| 14:00 | EUR | French 3-Month BTF Auction | 2.030% |  | 2.010% |
-| 14:00 | EUR | French 6-Month BTF Auction | 2.044% |  | 2.029% |
-| 16:30 | USD | 3-Month Bill Auction | 3.780% |  | 3.815% |
-| 16:30 | USD | 6-Month Bill Auction | 3.690% |  | 3.700% |
-| 23 min | AUD | Westpac Consumer Sentiment (Nov) |  |  | -3.5% |
-| 43 min | JPY | Bank Lending (YoY) (Oct) |  | 3.8% | 3.8% |
+| 00:30 | AUD | NAB Business Survey (Oct) | 9 |  | 8 |
+| 03:00 | IDR | Retail Sales (YoY) (Sep) |  |  | 3.5% |
+| 03:35 | JPY | 30-Year JGB Auction |  |  | 3.248% |
+| 05:00 | JPY | Economy Watchers Current Index (Oct) |  | 47.6 | 47.1 |
+| 06:00 | IDR | Car Sales (YoY) (Oct) |  |  | -15.10% |
+| 07:00 | GBP | Average Earnings ex Bonus (Sep) |  | 4.6% | 4.7% |
+| 08:30 | CNY | M2 Money Stock (YoY) (Oct) |  | 8.1% | 8.4% |
+| 08:30 | CNY | Outstanding Loan Growth (YoY) (Oct) |  | 6.6% | 6.6% |
+| 08:30 | CNY | Chinese Total Social Financing (Oct) |  | 1,230.0B | 3,530.0B |
+| 09:30 | ZAR | Unemployment Rate (Q3) |  |  | 33.20% |
+| 09:30 | ZAR | Unemployment (Q3) |  |  | 8.367M |
+| 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 1.918% |
+| 11:00 | USD | NFIB Small Business Optimism (Oct) |  | 98.3 | 98.8 |
+| 11:00 | USD | Wholesale Inventories (MoM) (Aug) |  |  | -0.2% |
+| 11:00 | USD | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.4% |
+| 11:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
+| 11:00 | ZAR | Manufacturing Production (MoM) (Sep) |  |  | 0.4% |
+| 11:00 | ZAR | Manufacturing Production (YoY) (Sep) |  |  | -1.5% |
+| 12:00 | MXN | Industrial Production (MoM) (Sep) |  |  | -0.3% |
+| 12:00 | MXN | Industrial Production (YoY) (Sep) |  |  | -3.6% |
+| 12:00 | BRL | CPI (MoM) (Oct) |  |  | 0.48% |
+| 12:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Oct) |  |  | 0.52% |
+| 13:55 | USD | Redbook (YoY) |  |  | 5.7% |
+| 17:00 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
+| 22:15 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
+| 23:00 | KRW | Unemployment Rate (Oct) |  |  | 2.5% |
+| 23:00 | JPY | Reuters Tankan Index (Nov) |  |  | 8 |
+| 23:50 | JPY | M2 Money Stock (YoY) |  | 1.8% | 1.6% |
+| 23:50 | JPY | M3 Money Supply (Oct) |  |  | 2,228.9B |
