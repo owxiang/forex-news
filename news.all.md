@@ -10,11 +10,11 @@
 | 03:00 | IDR | Low | Retail Sales (YoY) (Sep) | 3.7% |  | 3.5% |
 | 03:35 | JPY | Low | 30-Year JGB Auction | 3.166% |  | 3.248% |
 | 05:00 | JPY | Low | Economy Watchers Current Index (Oct) | 49.1 | 47.5 | 47.1 |
-| 49 min | GBP | Low | Average Earnings ex Bonus (Sep) |  | 4.6% | 4.7% |
-| 49 min | GBP | Moderate | Average Earnings Index +Bonus (Sep) |  | 5.0% | 5.0% |
-| 49 min | GBP | Moderate | Claimant Count Change (Oct) |  | 17.6K | 25.8K |
-| 49 min | GBP | Moderate | Employment Change 3M/3M (MoM) (Sep) |  |  | 91K |
-| 49 min | GBP | Moderate | Unemployment Rate (Sep) |  | 4.9% | 4.8% |
+| 07:00 | GBP | Low | Average Earnings ex Bonus (Sep) | 4.6% | 4.6% | 4.7% |
+| 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Sep) | 4.8% | 5.0% | 5.0% |
+| 07:00 | GBP | Moderate | Claimant Count Change (Oct) | 29.0K | 17.6K | 0.4K |
+| 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Sep) | -22K |  | 91K |
+| 07:00 | GBP | Moderate | Unemployment Rate (Sep) | 5.0% | 4.9% | 4.8% |
 | 08:20 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 08:30 | CNY | Low | M2 Money Stock (YoY) (Oct) |  | 8.1% | 8.4% |
 | 08:30 | CNY | Moderate | New Loans (Oct) |  | 465.0B | 1,290.0B |
