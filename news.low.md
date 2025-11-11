@@ -5,8 +5,8 @@
 | 00:30 | AUD | NAB Business Survey (Oct) | 9 |  | 8 |
 | 02:00 | IDR | Car Sales (YoY) (Oct) | -4.40% |  | -15.10% |
 | 03:00 | IDR | Retail Sales (YoY) (Sep) | 3.7% |  | 3.5% |
-| 8 min | JPY | 30-Year JGB Auction |  |  | 3.248% |
-| 05:00 | JPY | Economy Watchers Current Index (Oct) |  | 47.6 | 47.1 |
+| 03:35 | JPY | 30-Year JGB Auction | 3.166% |  | 3.248% |
+| 50 min | JPY | Economy Watchers Current Index (Oct) |  | 47.5 | 47.1 |
 | 07:00 | GBP | Average Earnings ex Bonus (Sep) |  | 4.6% | 4.7% |
 | 08:30 | CNY | M2 Money Stock (YoY) (Oct) |  | 8.1% | 8.4% |
 | 08:30 | CNY | Outstanding Loan Growth (YoY) (Oct) |  | 6.6% | 6.6% |
@@ -14,15 +14,15 @@
 | 09:30 | ZAR | Unemployment Rate (Q3) |  |  | 33.20% |
 | 09:30 | ZAR | Unemployment (Q3) |  |  | 8.367M |
 | 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 1.918% |
-| 11:00 | USD | NFIB Small Business Optimism (Oct) |  | 98.3 | 98.8 |
+| 11:00 | USD | NFIB Small Business Optimism (Oct) |  | 98.5 | 98.8 |
 | 11:00 | USD | Wholesale Inventories (MoM) (Aug) |  |  | -0.2% |
 | 11:00 | USD | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.4% |
 | 11:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
 | 11:00 | ZAR | Manufacturing Production (MoM) (Sep) |  |  | 0.4% |
 | 11:00 | ZAR | Manufacturing Production (YoY) (Sep) |  |  | -1.5% |
-| 12:00 | MXN | Industrial Production (MoM) (Sep) |  |  | -0.3% |
+| 12:00 | MXN | Industrial Production (MoM) (Sep) |  | 0.0% | -0.3% |
 | 12:00 | MXN | Industrial Production (YoY) (Sep) |  |  | -3.6% |
-| 12:00 | BRL | CPI (MoM) (Oct) |  |  | 0.48% |
+| 12:00 | BRL | CPI (MoM) (Oct) |  | 0.16% | 0.48% |
 | 12:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Oct) |  |  | 0.52% |
 | 13:55 | USD | Redbook (YoY) |  |  | 5.7% |
 | 17:00 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
