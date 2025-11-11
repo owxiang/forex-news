@@ -21,7 +21,8 @@
 | 12:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Oct) | 0.07% |  | 0.52% |
 | 13:55 | USD | Redbook (YoY) | 5.9% |  | 5.7% |
 | 17:00 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
-| 8 min | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
-| 53 min | KRW | Unemployment Rate (Oct) |  |  | 2.5% |
-| 23:50 | JPY | M2 Money Stock (YoY) |  | 1.8% | 1.6% |
-| 23:50 | JPY | M3 Money Supply (Oct) |  |  | 2,228.9B |
+| 22:15 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
+| 23:00 | KRW | Unemployment Rate (Oct) | 2.6% |  | 2.5% |
+| 23:00 | JPY | Reuters Tankan Index (Nov) | 17 |  | 8 |
+| 44 min | JPY | M2 Money Stock (YoY) |  | 1.8% | 1.6% |
+| 44 min | JPY | M3 Money Supply (Oct) |  |  | 2,228.9B |
