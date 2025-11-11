@@ -10,7 +10,7 @@
 | 07:00 | GBP | Employment Change 3M/3M (MoM) (Sep) | -22K |  | 91K |
 | 07:00 | GBP | Unemployment Rate (Sep) | 5.0% | 4.9% | 4.8% |
 | 08:20 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 51 min | EUR | German ZEW Current Conditions (Nov) |  | -77.5 | -80.0 |
-| 51 min | EUR | German ZEW Economic Sentiment (Nov) |  | 41.0 | 39.3 |
-| 51 min | EUR | ZEW Economic Sentiment (Nov) |  | 23.5 | 22.7 |
+| 10:00 | EUR | German ZEW Current Conditions (Nov) | -78.7 | -77.5 | -80.0 |
+| 10:00 | EUR | German ZEW Economic Sentiment (Nov) | 38.5 | 41.0 | 39.3 |
+| 10:00 | EUR | ZEW Economic Sentiment (Nov) |  | 23.5 | 22.7 |
 | 12:00 | BRL | CPI (YoY) (Oct) |  | 4.75% | 5.17% |

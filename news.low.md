@@ -8,15 +8,15 @@
 | 03:35 | JPY | 30-Year JGB Auction | 3.166% |  | 3.248% |
 | 05:00 | JPY | Economy Watchers Current Index (Oct) | 49.1 | 47.5 | 47.1 |
 | 07:00 | GBP | Average Earnings ex Bonus (Sep) | 4.6% | 4.6% | 4.7% |
-| 21 min | ZAR | Unemployment Rate (Q3) |  |  | 33.20% |
-| 21 min | ZAR | Unemployment (Q3) |  |  | 8.367M |
-| 31 min | EUR | Spanish 3-Month Letras Auction |  |  | 1.918% |
-| 11:00 | USD | NFIB Small Business Optimism (Oct) |  | 98.5 | 98.8 |
-| 11:00 | USD | Wholesale Inventories (MoM) (Aug) |  |  | -0.2% |
-| 11:00 | USD | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.4% |
-| 11:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
-| 11:00 | ZAR | Manufacturing Production (MoM) (Sep) |  |  | 0.4% |
-| 11:00 | ZAR | Manufacturing Production (YoY) (Sep) |  |  | -1.5% |
+| 09:30 | ZAR | Unemployment Rate (Q3) | 31.90% |  | 33.20% |
+| 09:30 | ZAR | Unemployment (Q3) | 8.007M |  | 8.367M |
+| 09:40 | EUR | Spanish 3-Month Letras Auction | 1.908% |  | 1.918% |
+| 52 min | USD | NFIB Small Business Optimism (Oct) |  | 98.5 | 98.8 |
+| 52 min | USD | Wholesale Inventories (MoM) (Aug) |  |  | -0.2% |
+| 52 min | USD | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.4% |
+| 52 min | BRL | BCB Copom Meeting Minutes |  |  |  |
+| 52 min | ZAR | Manufacturing Production (MoM) (Sep) |  |  | 0.4% |
+| 52 min | ZAR | Manufacturing Production (YoY) (Sep) |  |  | -1.5% |
 | 12:00 | MXN | Industrial Production (MoM) (Sep) |  | 0.0% | -0.3% |
 | 12:00 | MXN | Industrial Production (YoY) (Sep) |  |  | -3.6% |
 | 12:00 | BRL | CPI (MoM) (Oct) |  | 0.16% | 0.48% |

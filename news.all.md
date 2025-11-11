@@ -16,18 +16,18 @@
 | 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Sep) | -22K |  | 91K |
 | 07:00 | GBP | Moderate | Unemployment Rate (Sep) | 5.0% | 4.9% | 4.8% |
 | 08:20 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 21 min | ZAR | Low | Unemployment Rate (Q3) |  |  | 33.20% |
-| 21 min | ZAR | Low | Unemployment (Q3) |  |  | 8.367M |
-| 31 min | EUR | Low | Spanish 3-Month Letras Auction |  |  | 1.918% |
-| 51 min | EUR | Moderate | German ZEW Current Conditions (Nov) |  | -77.5 | -80.0 |
-| 51 min | EUR | Moderate | German ZEW Economic Sentiment (Nov) |  | 41.0 | 39.3 |
-| 51 min | EUR | Moderate | ZEW Economic Sentiment (Nov) |  | 23.5 | 22.7 |
-| 11:00 | USD | Low | NFIB Small Business Optimism (Oct) |  | 98.5 | 98.8 |
-| 11:00 | USD | Low | Wholesale Inventories (MoM) (Aug) |  |  | -0.2% |
-| 11:00 | USD | Low | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.4% |
-| 11:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
-| 11:00 | ZAR | Low | Manufacturing Production (MoM) (Sep) |  |  | 0.4% |
-| 11:00 | ZAR | Low | Manufacturing Production (YoY) (Sep) |  |  | -1.5% |
+| 09:30 | ZAR | Low | Unemployment Rate (Q3) | 31.90% |  | 33.20% |
+| 09:30 | ZAR | Low | Unemployment (Q3) | 8.007M |  | 8.367M |
+| 09:40 | EUR | Low | Spanish 3-Month Letras Auction | 1.908% |  | 1.918% |
+| 10:00 | EUR | Moderate | German ZEW Current Conditions (Nov) | -78.7 | -77.5 | -80.0 |
+| 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Nov) | 38.5 | 41.0 | 39.3 |
+| 10:00 | EUR | Moderate | ZEW Economic Sentiment (Nov) |  | 23.5 | 22.7 |
+| 52 min | USD | Low | NFIB Small Business Optimism (Oct) |  | 98.5 | 98.8 |
+| 52 min | USD | Low | Wholesale Inventories (MoM) (Aug) |  |  | -0.2% |
+| 52 min | USD | Low | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.4% |
+| 52 min | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
+| 52 min | ZAR | Low | Manufacturing Production (MoM) (Sep) |  |  | 0.4% |
+| 52 min | ZAR | Low | Manufacturing Production (YoY) (Sep) |  |  | -1.5% |
 | 12:00 | MXN | Low | Industrial Production (MoM) (Sep) |  | 0.0% | -0.3% |
 | 12:00 | MXN | Low | Industrial Production (YoY) (Sep) |  |  | -3.6% |
 | 12:00 | BRL | Moderate | CPI (YoY) (Oct) |  | 4.75% | 5.17% |
