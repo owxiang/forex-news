@@ -22,7 +22,7 @@
 | 10:30 | INR | Moderate | CPI (YoY) (Oct) | 0.25% | 0.48% | 1.44% |
 | 10:30 | EUR | Low | German 30-Year Bund Auction | 3.260% |  | 3.170% |
 | 10:45 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 11:30 | INR | Low | M3 Money Supply | 9.3% |  | 9.2% |
+| 11:30 | INR | Low | M3 Money Supply | 9.3% |  | 9.5% |
 | 11:40 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.34% |  | 6.31% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) | 0.6% |  | -1.9% |
@@ -34,9 +34,8 @@
 | 12:00 | ZAR | Low | Budget Balance | -4.80% |  | -4.50% |
 | 12:00 | ZAR | Low | Budget Balance | -352.400B |  | -317.500B |
 | 12:05 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 14 min | CAD | Moderate | Building Permits (MoM) (Sep) |  | 0.8% | -1.2% |
-| 39 min | USD | Low | Redbook (YoY) |  |  | 5.7% |
-| 14:20 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 13:30 | CAD | Moderate | Building Permits (MoM) (Sep) | 4.5% | 0.8% | -4.0% |
+| 13 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 15:20 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 16:00 | USD | Low | Thomson Reuters IPSOS PCSI (Nov) |  |  | 52.86 |
 | 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 48.04 |

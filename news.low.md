@@ -14,7 +14,7 @@
 | 08:50 | EUR | Italian Industrial Production (MoM) (Sep) | 2.8% | 1.5% | -2.7% |
 | 10:10 | EUR | Italian 12-Month BOT Auction | 2.063% |  | 2.050% |
 | 10:30 | EUR | German 30-Year Bund Auction | 3.260% |  | 3.170% |
-| 11:30 | INR | M3 Money Supply | 9.3% |  | 9.2% |
+| 11:30 | INR | M3 Money Supply | 9.3% |  | 9.5% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate | 6.34% |  | 6.31% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) | 0.6% |  | -1.9% |
 | 12:00 | USD | MBA Purchase Index | 172.7 |  | 163.3 |
@@ -24,7 +24,6 @@
 | 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Sep) | 4.1% |  | 2.5% |
 | 12:00 | ZAR | Budget Balance | -4.80% |  | -4.50% |
 | 12:00 | ZAR | Budget Balance | -352.400B |  | -317.500B |
-| 39 min | USD | Redbook (YoY) |  |  | 5.7% |
 | 16:00 | USD | Thomson Reuters IPSOS PCSI (Nov) |  |  | 52.86 |
 | 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 48.04 |
 | 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 53.45 |
