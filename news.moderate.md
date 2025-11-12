@@ -15,6 +15,6 @@
 | 14:20 | USD | FOMC Member Williams Speaks |  |  |  |
 | 15:20 | USD | Fed Waller Speaks |  |  |  |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
-| 6 min | USD | FOMC Member Bostic Speaks |  |  |  |
+| 17:15 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | 1.700M | 6.500M |
 | 21:45 | NZD | Electronic Card Retail Sales (MoM) (Oct) |  |  | -0.5% |
