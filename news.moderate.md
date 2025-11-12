@@ -9,9 +9,8 @@
 | 10:00 | EUR | Eurogroup Meetings |  |  |  |
 | 10:30 | INR | CPI (YoY) (Oct) | 0.25% | 0.48% | 1.44% |
 | 10:45 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 34 min | EUR | ECB's De Guindos Speaks |  |  |  |
-| 54 min | USD | OPEC Monthly Report |  |  |  |
-| 59 min | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 11:40 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 12:05 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 13:30 | CAD | Building Permits (MoM) (Sep) |  | 0.8% | -1.2% |
 | 14:20 | USD | FOMC Member Williams Speaks |  |  |  |
 | 15:20 | USD | Fed Waller Speaks |  |  |  |
