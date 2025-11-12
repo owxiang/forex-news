@@ -31,10 +31,10 @@
 | 17:30 | BRL | Foreign Exchange Flows | -1.786B |  | 5.785B |
 | 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
 | 21:00 | USD | Fed Collins Speaks |  |  |  |
-| 38 min | NZD | Electronic Card Retail Sales (YoY) (Oct) |  |  | 1.0% |
-| 38 min | NZD | External Migration & Visitors (Sep) |  |  | 7.50% |
-| 38 min | NZD | Permanent/Long-Term Migration (Sep) |  |  | 460 |
-| 38 min | NZD | Visitor Arrivals (MoM) |  |  | 2.6% |
+| 21:45 | NZD | Electronic Card Retail Sales (YoY) (Oct) | 0.8% |  | 1.0% |
+| 21:45 | NZD | External Migration & Visitors (Sep) | 9.60% |  | 7.50% |
+| 21:45 | NZD | Permanent/Long-Term Migration (Sep) | 1,800 |  | 790 |
+| 22:00 | NZD | Visitor Arrivals (MoM) |  |  | 2.6% |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | -354.4B |
 | 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 690.1B |
 | 23:50 | JPY | PPI (YoY) (Oct) |  | 2.5% | 2.7% |
