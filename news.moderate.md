@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Home Loans (MoM) (Q3) | 4.7% | 2.5% | 2.2% |
-| 48 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 03:25 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 07:00 | EUR | German CPI (YoY) (Oct) |  | 2.3% | 2.4% |
 | 08:30 | CNY | New Loans (Oct) |  | 465.0B | 1,290.0B |
 | 10:00 | USD | OPEC Monthly Report |  |  |  |
