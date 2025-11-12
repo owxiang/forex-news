@@ -41,10 +41,10 @@
 | 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) | 47.44 |  | 48.04 |
 | 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) | 51.72 |  | 53.45 |
 | 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Nov) | 52.78 |  | 53.89 |
-| 51 min | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
-| 17:15 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 17:30 | BRL | Low | Foreign Exchange Flows |  |  | 5.785B |
-| 18:00 | USD | High | 10-Year Note Auction |  |  | 4.117% |
+| 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
+| 6 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 21 min | BRL | Low | Foreign Exchange Flows |  |  | 5.785B |
+| 51 min | USD | High | 10-Year Note Auction |  |  | 4.117% |
 | 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
 | 21:00 | USD | Low | Fed Collins Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 1.700M | 6.500M |

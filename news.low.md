@@ -28,7 +28,7 @@
 | 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Nov) | 47.44 |  | 48.04 |
 | 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Nov) | 51.72 |  | 53.45 |
 | 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Nov) | 52.78 |  | 53.89 |
-| 17:30 | BRL | Foreign Exchange Flows |  |  | 5.785B |
+| 21 min | BRL | Foreign Exchange Flows |  |  | 5.785B |
 | 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
 | 21:00 | USD | Fed Collins Speaks |  |  |  |
 | 21:45 | NZD | Electronic Card Retail Sales (YoY) (Oct) |  |  | 1.0% |
