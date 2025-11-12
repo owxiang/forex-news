@@ -5,10 +5,10 @@
 | 03:00 | KRW | M3 Money Supply (Sep) | 5,998.5B |  | 5,947.4B |
 | 03:00 | KRW | M2 Money supply (Sep) | 7.20% |  | 6.80% |
 | 06:00 | JPY | Machine Tool Orders (YoY) (Oct) | 16.8% | 9.9% | 8.1% |
-| 49 min | EUR | German HICP (MoM) (Oct) |  | 0.3% | 0.2% |
-| 49 min | EUR | German HICP (YoY) (Oct) |  | 2.3% | 2.4% |
-| 49 min | EUR | German WPI (MoM) (Oct) |  | 0.1% | 0.2% |
-| 49 min | EUR | German WPI (YoY) (Oct) |  |  | 1.2% |
+| 07:00 | EUR | German HICP (MoM) (Oct) | 0.3% | 0.3% | 0.2% |
+| 07:00 | EUR | German HICP (YoY) (Oct) | 2.3% | 2.3% | 2.4% |
+| 07:00 | EUR | German WPI (MoM) (Oct) | 0.3% | 0.1% | 0.2% |
+| 07:00 | EUR | German WPI (YoY) (Oct) | 1.1% |  | 1.2% |
 | 08:30 | CNY | M2 Money Stock (YoY) (Oct) |  | 8.1% | 8.4% |
 | 08:30 | CNY | Outstanding Loan Growth (YoY) (Oct) |  | 6.6% | 6.6% |
 | 08:30 | CNY | Chinese Total Social Financing (Oct) |  | 1,230.0B | 3,530.0B |
