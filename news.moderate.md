@@ -5,10 +5,10 @@
 | 00:30 | AUD | Home Loans (MoM) (Q3) | 4.7% | 2.5% | 2.2% |
 | 03:25 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 07:00 | EUR | German CPI (YoY) (Oct) | 2.3% | 2.3% | 2.4% |
-| 51 min | USD | OPEC Monthly Report |  |  |  |
-| 51 min | EUR | Eurogroup Meetings |  |  |  |
-| 10:30 | INR | CPI (YoY) (Oct) |  | 0.48% | 1.54% |
-| 10:45 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 10:00 | USD | OPEC Monthly Report |  |  |  |
+| 10:00 | EUR | Eurogroup Meetings |  |  |  |
+| 22 min | INR | CPI (YoY) (Oct) |  | 0.48% | 1.54% |
+| 37 min | EUR | ECB's Schnabel Speaks |  |  |  |
 | 11:40 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 12:00 | USD | OPEC Monthly Report |  |  |  |
 | 12:05 | GBP | BoE MPC Member Pill Speaks |  |  |  |

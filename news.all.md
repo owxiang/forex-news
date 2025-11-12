@@ -16,12 +16,12 @@
 | 07:00 | EUR | Low | German WPI (YoY) (Oct) | 1.1% |  | 1.2% |
 | 08:50 | EUR | Low | Italian Industrial Production (MoM) (Sep) | 2.8% | 1.5% | -2.7% |
 | 08:50 | EUR | Low | Italian Industrial Production (YoY) (Sep) | 1.5% | -0.5% | -3.0% |
-| 51 min | USD | Moderate | OPEC Monthly Report |  |  |  |
-| 51 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 10:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.050% |
-| 10:30 | INR | Moderate | CPI (YoY) (Oct) |  | 0.48% | 1.54% |
-| 10:30 | EUR | Low | German 30-Year Bund Auction |  |  | 3.170% |
-| 10:45 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 10:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
+| 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 2 min | EUR | Low | Italian 12-Month BOT Auction | 2.063% |  | 2.050% |
+| 22 min | INR | Moderate | CPI (YoY) (Oct) |  | 0.48% | 1.54% |
+| 22 min | EUR | Low | German 30-Year Bund Auction |  |  | 3.170% |
+| 37 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 11:30 | INR | Low | M3 Money Supply |  |  | 9.2% |
 | 11:40 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.31% |

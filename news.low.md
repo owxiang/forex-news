@@ -12,8 +12,8 @@
 | 07:00 | EUR | German WPI (YoY) (Oct) | 1.1% |  | 1.2% |
 | 08:50 | EUR | Italian Industrial Production (MoM) (Sep) | 2.8% | 1.5% | -2.7% |
 | 08:50 | EUR | Italian Industrial Production (YoY) (Sep) | 1.5% | -0.5% | -3.0% |
-| 10:10 | EUR | Italian 12-Month BOT Auction |  |  | 2.050% |
-| 10:30 | EUR | German 30-Year Bund Auction |  |  | 3.170% |
+| 2 min | EUR | Italian 12-Month BOT Auction | 2.063% |  | 2.050% |
+| 22 min | EUR | German 30-Year Bund Auction |  |  | 3.170% |
 | 11:30 | INR | M3 Money Supply |  |  | 9.2% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.31% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -1.9% |
