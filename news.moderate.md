@@ -12,8 +12,8 @@
 | 11:40 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 12:05 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 13:30 | CAD | Building Permits (MoM) (Sep) | 4.5% | 0.8% | -4.0% |
-| 13 min | USD | FOMC Member Williams Speaks |  |  |  |
-| 15:20 | USD | Fed Waller Speaks |  |  |  |
+| 14:20 | USD | FOMC Member Williams Speaks |  |  |  |
+| 12 min | USD | Fed Waller Speaks |  |  |  |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 17:15 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | 1.700M | 6.500M |
