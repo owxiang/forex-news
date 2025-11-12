@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 03:00 | KRW | M3 Money Supply (Sep) | 5,998.5B |  | 5,947.4B |
 | 03:00 | KRW | M2 Money supply (Sep) | 7.20% |  | 6.80% |
-| 06:00 | JPY | Machine Tool Orders (YoY) (Oct) |  | 9.9% | 8.1% |
+| 52 min | JPY | Machine Tool Orders (YoY) (Oct) |  | 9.9% | 8.1% |
 | 07:00 | EUR | German HICP (MoM) (Oct) |  | 0.3% | 0.2% |
 | 07:00 | EUR | German HICP (YoY) (Oct) |  | 2.3% | 2.4% |
 | 07:00 | EUR | German WPI (MoM) (Oct) |  | 0.1% | 0.2% |

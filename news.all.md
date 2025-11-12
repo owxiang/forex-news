@@ -6,7 +6,7 @@
 | 03:00 | KRW | Low | M3 Money Supply (Sep) | 5,998.5B |  | 5,947.4B |
 | 03:00 | KRW | Low | M2 Money supply (Sep) | 7.20% |  | 6.80% |
 | 03:25 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 06:00 | JPY | Low | Machine Tool Orders (YoY) (Oct) |  | 9.9% | 8.1% |
+| 52 min | JPY | Low | Machine Tool Orders (YoY) (Oct) |  | 9.9% | 8.1% |
 | 07:00 | EUR | High | German CPI (MoM) (Oct) |  | 0.3% | 0.2% |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Oct) |  | 2.3% | 2.4% |
 | 07:00 | EUR | Low | German HICP (MoM) (Oct) |  | 0.3% | 0.2% |
