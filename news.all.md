@@ -6,13 +6,13 @@
 | 03:00 | KRW | Low | M3 Money Supply (Sep) | 5,998.5B |  | 5,947.4B |
 | 03:00 | KRW | Low | M2 Money supply (Sep) | 7.20% |  | 6.80% |
 | 03:25 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 52 min | JPY | Low | Machine Tool Orders (YoY) (Oct) |  | 9.9% | 8.1% |
-| 07:00 | EUR | High | German CPI (MoM) (Oct) |  | 0.3% | 0.2% |
-| 07:00 | EUR | Moderate | German CPI (YoY) (Oct) |  | 2.3% | 2.4% |
-| 07:00 | EUR | Low | German HICP (MoM) (Oct) |  | 0.3% | 0.2% |
-| 07:00 | EUR | Low | German HICP (YoY) (Oct) |  | 2.3% | 2.4% |
-| 07:00 | EUR | Low | German WPI (MoM) (Oct) |  | 0.1% | 0.2% |
-| 07:00 | EUR | Low | German WPI (YoY) (Oct) |  |  | 1.2% |
+| 06:00 | JPY | Low | Machine Tool Orders (YoY) (Oct) | 16.8% | 9.9% | 8.1% |
+| 49 min | EUR | High | German CPI (MoM) (Oct) |  | 0.3% | 0.2% |
+| 49 min | EUR | Moderate | German CPI (YoY) (Oct) |  | 2.3% | 2.4% |
+| 49 min | EUR | Low | German HICP (MoM) (Oct) |  | 0.3% | 0.2% |
+| 49 min | EUR | Low | German HICP (YoY) (Oct) |  | 2.3% | 2.4% |
+| 49 min | EUR | Low | German WPI (MoM) (Oct) |  | 0.1% | 0.2% |
+| 49 min | EUR | Low | German WPI (YoY) (Oct) |  |  | 1.2% |
 | 08:30 | CNY | Low | M2 Money Stock (YoY) (Oct) |  | 8.1% | 8.4% |
 | 08:30 | CNY | Moderate | New Loans (Oct) |  | 460.0B | 1,290.0B |
 | 08:30 | CNY | Low | Outstanding Loan Growth (YoY) (Oct) |  | 6.6% | 6.6% |
