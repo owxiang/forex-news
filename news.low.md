@@ -30,7 +30,7 @@
 | 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Nov) | 52.78 |  | 53.89 |
 | 17:30 | BRL | Foreign Exchange Flows | -1.786B |  | 5.785B |
 | 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
-| 21:00 | USD | Fed Collins Speaks |  |  |  |
+| 51 min | USD | Fed Collins Speaks |  |  |  |
 | 21:45 | NZD | Electronic Card Retail Sales (YoY) (Oct) |  |  | 1.0% |
 | 21:45 | NZD | External Migration & Visitors (Sep) |  |  | 7.50% |
 | 21:45 | NZD | Permanent/Long-Term Migration (Sep) |  |  | 460 |
