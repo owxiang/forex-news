@@ -14,11 +14,11 @@
 | 07:00 | EUR | Low | German WPI (MoM) (Oct) |  | 0.1% | 0.2% |
 | 07:00 | EUR | Low | German WPI (YoY) (Oct) |  |  | 1.2% |
 | 08:30 | CNY | Low | M2 Money Stock (YoY) (Oct) |  | 8.1% | 8.4% |
-| 08:30 | CNY | Moderate | New Loans (Oct) |  | 465.0B | 1,290.0B |
+| 08:30 | CNY | Moderate | New Loans (Oct) |  | 460.0B | 1,290.0B |
 | 08:30 | CNY | Low | Outstanding Loan Growth (YoY) (Oct) |  | 6.6% | 6.6% |
 | 08:30 | CNY | Low | Chinese Total Social Financing (Oct) |  | 1,230.0B | 3,530.0B |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Sep) |  | 1.5% | -2.4% |
-| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Sep) |  |  | -2.7% |
+| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Sep) |  | -0.5% | -2.7% |
 | 10:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 10:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.050% |

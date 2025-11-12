@@ -13,7 +13,7 @@
 | 08:30 | CNY | Outstanding Loan Growth (YoY) (Oct) |  | 6.6% | 6.6% |
 | 08:30 | CNY | Chinese Total Social Financing (Oct) |  | 1,230.0B | 3,530.0B |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Sep) |  | 1.5% | -2.4% |
-| 09:00 | EUR | Italian Industrial Production (YoY) (Sep) |  |  | -2.7% |
+| 09:00 | EUR | Italian Industrial Production (YoY) (Sep) |  | -0.5% | -2.7% |
 | 10:10 | EUR | Italian 12-Month BOT Auction |  |  | 2.050% |
 | 10:30 | EUR | German 30-Year Bund Auction |  |  | 3.170% |
 | 11:30 | INR | M3 Money Supply |  |  | 9.2% |
