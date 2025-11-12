@@ -18,23 +18,23 @@
 | 08:50 | EUR | Low | Italian Industrial Production (YoY) (Sep) | 1.5% | -0.5% | -3.0% |
 | 10:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 2 min | EUR | Low | Italian 12-Month BOT Auction | 2.063% |  | 2.050% |
-| 22 min | INR | Moderate | CPI (YoY) (Oct) |  | 0.48% | 1.54% |
-| 22 min | EUR | Low | German 30-Year Bund Auction |  |  | 3.170% |
-| 37 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 11:30 | INR | Low | M3 Money Supply |  |  | 9.2% |
-| 11:40 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.31% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -1.9% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 163.3 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 332.3 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 1,290.8 |
-| 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
-| 12:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Sep) |  |  | 0.1% |
-| 12:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Sep) |  |  | 2.5% |
-| 12:00 | ZAR | Low | Budget Balance |  |  | -4.50% |
-| 12:00 | ZAR | Low | Budget Balance |  |  | -317.500B |
-| 12:05 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 10:10 | EUR | Low | Italian 12-Month BOT Auction | 2.063% |  | 2.050% |
+| 10:30 | INR | Moderate | CPI (YoY) (Oct) | 0.25% | 0.48% | 1.44% |
+| 10:30 | EUR | Low | German 30-Year Bund Auction | 3.260% |  | 3.170% |
+| 10:45 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 24 min | INR | Low | M3 Money Supply |  |  | 9.2% |
+| 34 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 54 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.31% |
+| 54 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -1.9% |
+| 54 min | USD | Low | MBA Purchase Index |  |  | 163.3 |
+| 54 min | USD | Low | Mortgage Market Index |  |  | 332.3 |
+| 54 min | USD | Low | Mortgage Refinance Index |  |  | 1,290.8 |
+| 54 min | USD | Moderate | OPEC Monthly Report |  |  |  |
+| 54 min | BRL | Low | Brazilian Service Sector Growth (MoM) (Sep) |  |  | 0.1% |
+| 54 min | BRL | Low | Brazilian Service Sector Growth (YoY) (Sep) |  |  | 2.5% |
+| 54 min | ZAR | Low | Budget Balance |  |  | -4.50% |
+| 54 min | ZAR | Low | Budget Balance |  |  | -317.500B |
+| 59 min | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 13:00 | EUR | Low | German Current Account Balance n.s.a (Sep) |  |  | 8.3B |
 | 13:30 | CAD | Moderate | Building Permits (MoM) (Sep) |  | 0.8% | -1.2% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.7% |

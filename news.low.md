@@ -12,18 +12,18 @@
 | 07:00 | EUR | German WPI (YoY) (Oct) | 1.1% |  | 1.2% |
 | 08:50 | EUR | Italian Industrial Production (MoM) (Sep) | 2.8% | 1.5% | -2.7% |
 | 08:50 | EUR | Italian Industrial Production (YoY) (Sep) | 1.5% | -0.5% | -3.0% |
-| 2 min | EUR | Italian 12-Month BOT Auction | 2.063% |  | 2.050% |
-| 22 min | EUR | German 30-Year Bund Auction |  |  | 3.170% |
-| 11:30 | INR | M3 Money Supply |  |  | 9.2% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.31% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -1.9% |
-| 12:00 | USD | MBA Purchase Index |  |  | 163.3 |
-| 12:00 | USD | Mortgage Market Index |  |  | 332.3 |
-| 12:00 | USD | Mortgage Refinance Index |  |  | 1,290.8 |
-| 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Sep) |  |  | 0.1% |
-| 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Sep) |  |  | 2.5% |
-| 12:00 | ZAR | Budget Balance |  |  | -4.50% |
-| 12:00 | ZAR | Budget Balance |  |  | -317.500B |
+| 10:10 | EUR | Italian 12-Month BOT Auction | 2.063% |  | 2.050% |
+| 10:30 | EUR | German 30-Year Bund Auction | 3.260% |  | 3.170% |
+| 24 min | INR | M3 Money Supply |  |  | 9.2% |
+| 54 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.31% |
+| 54 min | USD | MBA Mortgage Applications (WoW) |  |  | -1.9% |
+| 54 min | USD | MBA Purchase Index |  |  | 163.3 |
+| 54 min | USD | Mortgage Market Index |  |  | 332.3 |
+| 54 min | USD | Mortgage Refinance Index |  |  | 1,290.8 |
+| 54 min | BRL | Brazilian Service Sector Growth (MoM) (Sep) |  |  | 0.1% |
+| 54 min | BRL | Brazilian Service Sector Growth (YoY) (Sep) |  |  | 2.5% |
+| 54 min | ZAR | Budget Balance |  |  | -4.50% |
+| 54 min | ZAR | Budget Balance |  |  | -317.500B |
 | 13:00 | EUR | German Current Account Balance n.s.a (Sep) |  |  | 8.3B |
 | 13:55 | USD | Redbook (YoY) |  |  | 5.7% |
 | 16:00 | USD | Thomson Reuters IPSOS PCSI (Nov) |  |  | 52.86 |
