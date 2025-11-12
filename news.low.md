@@ -10,11 +10,8 @@
 | 07:00 | EUR | German HICP (YoY) (Oct) | 2.3% | 2.3% | 2.4% |
 | 07:00 | EUR | German WPI (MoM) (Oct) | 0.3% | 0.1% | 0.2% |
 | 07:00 | EUR | German WPI (YoY) (Oct) | 1.1% |  | 1.2% |
-| 20 min | CNY | M2 Money Stock (YoY) (Oct) |  | 8.1% | 8.4% |
-| 20 min | CNY | Outstanding Loan Growth (YoY) (Oct) |  | 6.6% | 6.6% |
-| 20 min | CNY | Chinese Total Social Financing (Oct) |  | 1,230.0B | 3,530.0B |
-| 50 min | EUR | Italian Industrial Production (MoM) (Sep) |  | 1.5% | -2.4% |
-| 50 min | EUR | Italian Industrial Production (YoY) (Sep) |  | -0.5% | -2.7% |
+| 08:50 | EUR | Italian Industrial Production (MoM) (Sep) | 2.8% | 1.5% | -2.7% |
+| 08:50 | EUR | Italian Industrial Production (YoY) (Sep) | 1.5% | -0.5% | -3.0% |
 | 10:10 | EUR | Italian 12-Month BOT Auction |  |  | 2.050% |
 | 10:30 | EUR | German 30-Year Bund Auction |  |  | 3.170% |
 | 11:30 | INR | M3 Money Supply |  |  | 9.2% |

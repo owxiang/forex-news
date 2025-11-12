@@ -14,14 +14,10 @@
 | 07:00 | EUR | Low | German HICP (YoY) (Oct) | 2.3% | 2.3% | 2.4% |
 | 07:00 | EUR | Low | German WPI (MoM) (Oct) | 0.3% | 0.1% | 0.2% |
 | 07:00 | EUR | Low | German WPI (YoY) (Oct) | 1.1% |  | 1.2% |
-| 20 min | CNY | Low | M2 Money Stock (YoY) (Oct) |  | 8.1% | 8.4% |
-| 20 min | CNY | Moderate | New Loans (Oct) |  | 460.0B | 1,290.0B |
-| 20 min | CNY | Low | Outstanding Loan Growth (YoY) (Oct) |  | 6.6% | 6.6% |
-| 20 min | CNY | Low | Chinese Total Social Financing (Oct) |  | 1,230.0B | 3,530.0B |
-| 50 min | EUR | Low | Italian Industrial Production (MoM) (Sep) |  | 1.5% | -2.4% |
-| 50 min | EUR | Low | Italian Industrial Production (YoY) (Sep) |  | -0.5% | -2.7% |
-| 10:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
-| 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 08:50 | EUR | Low | Italian Industrial Production (MoM) (Sep) | 2.8% | 1.5% | -2.7% |
+| 08:50 | EUR | Low | Italian Industrial Production (YoY) (Sep) | 1.5% | -0.5% | -3.0% |
+| 51 min | USD | Moderate | OPEC Monthly Report |  |  |  |
+| 51 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 10:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.050% |
 | 10:30 | INR | Moderate | CPI (YoY) (Oct) |  | 0.48% | 1.54% |
 | 10:30 | EUR | Low | German 30-Year Bund Auction |  |  | 3.170% |
