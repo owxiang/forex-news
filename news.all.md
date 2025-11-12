@@ -36,12 +36,12 @@
 | 12:05 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 13:30 | CAD | Moderate | Building Permits (MoM) (Sep) | 4.5% | 0.8% | -4.0% |
 | 14:20 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 12 min | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 52 min | USD | Low | Thomson Reuters IPSOS PCSI (Nov) |  |  | 52.86 |
-| 52 min | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 48.04 |
-| 52 min | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 53.45 |
-| 52 min | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Nov) |  |  | 53.89 |
-| 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
+| 15:20 | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 16:00 | USD | Low | Thomson Reuters IPSOS PCSI (Nov) | 51.31 |  | 52.86 |
+| 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) | 47.44 |  | 48.04 |
+| 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) | 51.72 |  | 53.45 |
+| 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Nov) | 52.78 |  | 53.89 |
+| 51 min | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 17:15 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | 5.785B |
 | 18:00 | USD | High | 10-Year Note Auction |  |  | 4.117% |
