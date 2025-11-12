@@ -52,8 +52,8 @@
 | 21:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Oct) | 0.8% |  | 1.0% |
 | 21:45 | NZD | Low | External Migration & Visitors (Sep) | 9.60% |  | 7.50% |
 | 21:45 | NZD | Low | Permanent/Long-Term Migration (Sep) | 1,800 |  | 790 |
-| 22:00 | NZD | Low | Visitor Arrivals (MoM) |  |  | 2.6% |
-| 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -354.4B |
-| 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 690.1B |
-| 23:50 | JPY | Low | PPI (YoY) (Oct) |  | 2.5% | 2.7% |
-| 23:50 | JPY | Low | PPI (MoM) (Oct) |  |  | 0.3% |
+| 22:00 | NZD | Low | Visitor Arrivals (MoM) | 2.9% |  | 2.4% |
+| 44 min | JPY | Low | Foreign Bonds Buying |  |  | -354.4B |
+| 44 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 690.1B |
+| 44 min | JPY | Low | PPI (YoY) (Oct) |  | 2.5% | 2.7% |
+| 44 min | JPY | Low | PPI (MoM) (Oct) |  |  | 0.3% |
