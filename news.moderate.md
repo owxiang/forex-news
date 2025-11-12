@@ -1,16 +1,22 @@
-## 11 November 2025 - Moderate Impact Forex News
+## 12 November 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Oct) | 1.5% | 2.4% | 2.0% |
-| 00:30 | AUD | NAB Business Confidence (Oct) | 6 |  | 7 |
-| 02:00 | NZD | Inflation Expectations (QoQ) | 2.3% |  | 2.3% |
-| 07:00 | GBP | Average Earnings Index +Bonus (Sep) | 4.8% | 5.0% | 5.0% |
-| 07:00 | GBP | Claimant Count Change (Oct) | 29.0K | 17.6K | 0.4K |
-| 07:00 | GBP | Employment Change 3M/3M (MoM) (Sep) | -22K |  | 91K |
-| 07:00 | GBP | Unemployment Rate (Sep) | 5.0% | 4.9% | 4.8% |
-| 08:20 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 10:00 | EUR | German ZEW Current Conditions (Nov) | -78.7 | -77.5 | -80.0 |
-| 10:00 | EUR | German ZEW Economic Sentiment (Nov) | 38.5 | 41.0 | 39.3 |
-| 10:00 | EUR | ZEW Economic Sentiment (Nov) | 25.0 | 23.5 | 22.7 |
-| 12:00 | BRL | CPI (YoY) (Oct) | 4.68% | 4.75% | 5.17% |
+| 00:30 | AUD | Home Loans (MoM) (Q3) |  |  | 2.4% |
+| 03:25 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 07:00 | EUR | German CPI (YoY) (Oct) |  | 2.3% | 2.4% |
+| 08:30 | CNY | New Loans (Oct) |  | 465.0B | 1,290.0B |
+| 10:00 | USD | OPEC Monthly Report |  |  |  |
+| 10:00 | EUR | Eurogroup Meetings |  |  |  |
+| 10:30 | INR | CPI (YoY) (Oct) |  | 0.48% | 1.54% |
+| 10:45 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 11:40 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 12:00 | USD | OPEC Monthly Report |  |  |  |
+| 12:05 | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 13:30 | CAD | Building Permits (MoM) (Sep) |  | 0.8% | -1.2% |
+| 14:20 | USD | FOMC Member Williams Speaks |  |  |  |
+| 15:20 | USD | Fed Waller Speaks |  |  |  |
+| 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
+| 17:15 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 21:30 | USD | API Weekly Crude Oil Stock |  |  | 6.500M |
+| 21:45 | NZD | Electronic Card Retail Sales (MoM) (Oct) |  |  | -0.5% |

@@ -1,40 +1,65 @@
-## 11 November 2025 - All Forex News
+## 12 November 2025 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Oct) | 1.5% | 2.4% | 2.0% |
-| 00:30 | AUD | Moderate | NAB Business Confidence (Oct) | 6 |  | 7 |
-| 00:30 | AUD | Low | NAB Business Survey (Oct) | 9 |  | 8 |
-| 02:00 | NZD | Moderate | Inflation Expectations (QoQ) | 2.3% |  | 2.3% |
-| 02:00 | IDR | Low | Car Sales (YoY) (Oct) | -4.40% |  | -15.10% |
-| 03:00 | IDR | Low | Retail Sales (YoY) (Sep) | 3.7% |  | 3.5% |
-| 03:35 | JPY | Low | 30-Year JGB Auction | 3.166% |  | 3.248% |
-| 05:00 | JPY | Low | Economy Watchers Current Index (Oct) | 49.1 | 47.5 | 47.1 |
-| 07:00 | GBP | Low | Average Earnings ex Bonus (Sep) | 4.6% | 4.6% | 4.7% |
-| 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Sep) | 4.8% | 5.0% | 5.0% |
-| 07:00 | GBP | Moderate | Claimant Count Change (Oct) | 29.0K | 17.6K | 0.4K |
-| 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Sep) | -22K |  | 91K |
-| 07:00 | GBP | Moderate | Unemployment Rate (Sep) | 5.0% | 4.9% | 4.8% |
-| 08:20 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 09:30 | ZAR | Low | Unemployment Rate (Q3) | 31.90% |  | 33.20% |
-| 09:30 | ZAR | Low | Unemployment (Q3) | 8.007M |  | 8.367M |
-| 09:40 | EUR | Low | Spanish 3-Month Letras Auction | 1.908% |  | 1.918% |
-| 10:00 | EUR | Moderate | German ZEW Current Conditions (Nov) | -78.7 | -77.5 | -80.0 |
-| 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Nov) | 38.5 | 41.0 | 39.3 |
-| 10:00 | EUR | Moderate | ZEW Economic Sentiment (Nov) | 25.0 | 23.5 | 22.7 |
-| 11:00 | USD | Low | NFIB Small Business Optimism (Oct) | 98.2 | 98.5 | 98.8 |
-| 11:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
-| 11:00 | ZAR | Low | Manufacturing Production (MoM) (Sep) | -0.5% |  | 0.7% |
-| 11:00 | ZAR | Low | Manufacturing Production (YoY) (Sep) | 0.3% |  | -1.5% |
-| 12:00 | MXN | Low | Industrial Production (YoY) (Sep) | -2.4% |  | -3.3% |
-| 12:00 | MXN | Low | Industrial Production (MoM) (Sep) | -0.4% | 0.0% | -0.3% |
-| 12:00 | BRL | Moderate | CPI (YoY) (Oct) | 4.68% | 4.75% | 5.17% |
-| 12:00 | BRL | Low | CPI (MoM) (Oct) | 0.09% | 0.16% | 0.48% |
-| 12:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Oct) | 0.07% |  | 0.52% |
-| 13:55 | USD | Low | Redbook (YoY) | 5.9% |  | 5.7% |
-| 17:00 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
-| 22:15 | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
-| 23:00 | KRW | Low | Unemployment Rate (Oct) | 2.6% |  | 2.5% |
-| 23:00 | JPY | Low | Reuters Tankan Index (Nov) | 17 |  | 8 |
-| 44 min | JPY | Low | M2 Money Stock (YoY) |  | 1.8% | 1.6% |
-| 44 min | JPY | Low | M3 Money Supply (Oct) |  |  | 2,228.9B |
+| 00:30 | AUD | Moderate | Home Loans (MoM) (Q3) |  |  | 2.4% |
+| 03:00 | KRW | Low | M3 Money Supply (Sep) |  |  | 5,947.4B |
+| 03:00 | KRW | Low | M2 Money supply (Sep) |  |  | 6.80% |
+| 03:25 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 06:00 | JPY | Low | Machine Tool Orders (YoY) (Oct) |  | 9.9% | 8.1% |
+| 07:00 | EUR | High | German CPI (MoM) (Oct) |  | 0.3% | 0.2% |
+| 07:00 | EUR | Moderate | German CPI (YoY) (Oct) |  | 2.3% | 2.4% |
+| 07:00 | EUR | Low | German HICP (MoM) (Oct) |  | 0.3% | 0.2% |
+| 07:00 | EUR | Low | German HICP (YoY) (Oct) |  | 2.3% | 2.4% |
+| 07:00 | EUR | Low | German WPI (MoM) (Oct) |  | 0.1% | 0.2% |
+| 07:00 | EUR | Low | German WPI (YoY) (Oct) |  |  | 1.2% |
+| 08:30 | CNY | Low | M2 Money Stock (YoY) (Oct) |  | 8.1% | 8.4% |
+| 08:30 | CNY | Moderate | New Loans (Oct) |  | 465.0B | 1,290.0B |
+| 08:30 | CNY | Low | Outstanding Loan Growth (YoY) (Oct) |  | 6.6% | 6.6% |
+| 08:30 | CNY | Low | Chinese Total Social Financing (Oct) |  | 1,230.0B | 3,530.0B |
+| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Sep) |  | 1.5% | -2.4% |
+| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Sep) |  |  | -2.7% |
+| 10:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
+| 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 10:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.050% |
+| 10:30 | INR | Moderate | CPI (YoY) (Oct) |  | 0.48% | 1.54% |
+| 10:30 | EUR | Low | German 30-Year Bund Auction |  |  | 3.170% |
+| 10:45 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 11:30 | INR | Low | M3 Money Supply |  |  | 9.2% |
+| 11:40 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.31% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -1.9% |
+| 12:00 | USD | Low | MBA Purchase Index |  |  | 163.3 |
+| 12:00 | USD | Low | Mortgage Market Index |  |  | 332.3 |
+| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 1,290.8 |
+| 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
+| 12:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Sep) |  |  | 0.1% |
+| 12:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Sep) |  |  | 2.5% |
+| 12:00 | ZAR | Low | Budget Balance |  |  | -4.50% |
+| 12:00 | ZAR | Low | Budget Balance |  |  | -317.500B |
+| 12:05 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 13:00 | EUR | Low | German Current Account Balance n.s.a (Sep) |  |  | 8.3B |
+| 13:30 | CAD | Moderate | Building Permits (MoM) (Sep) |  | 0.8% | -1.2% |
+| 13:55 | USD | Low | Redbook (YoY) |  |  | 5.7% |
+| 14:20 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 15:20 | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 16:00 | USD | Low | Thomson Reuters IPSOS PCSI (Nov) |  |  | 52.86 |
+| 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 48.04 |
+| 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 53.45 |
+| 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Nov) |  |  | 53.89 |
+| 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
+| 17:15 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 17:30 | BRL | Low | Foreign Exchange Flows |  |  | 5.785B |
+| 18:00 | USD | High | 10-Year Note Auction |  |  | 4.117% |
+| 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
+| 21:00 | USD | Low | Fed Collins Speaks |  |  |  |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 6.500M |
+| 21:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Oct) |  |  | -0.5% |
+| 21:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Oct) |  |  | 1.0% |
+| 21:45 | NZD | Low | External Migration & Visitors (Sep) |  |  | 7.50% |
+| 21:45 | NZD | Low | Permanent/Long-Term Migration (Sep) |  |  | 460 |
+| 21:45 | NZD | Low | Visitor Arrivals (MoM) |  |  | 2.6% |
+| 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -354.4B |
+| 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 690.1B |
+| 23:50 | JPY | Low | PPI (YoY) (Oct) |  | 2.5% | 2.7% |
+| 23:50 | JPY | Low | PPI (MoM) (Oct) |  |  | 0.3% |
