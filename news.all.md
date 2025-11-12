@@ -29,14 +29,13 @@
 | 12:00 | USD | Low | MBA Purchase Index | 172.7 |  | 163.3 |
 | 12:00 | USD | Low | Mortgage Market Index | 334.2 |  | 332.3 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 1,247.5 |  | 1,290.8 |
+| 12:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Sep) | 0.6% |  | 0.2% |
 | 12:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Sep) | 4.1% |  | 2.5% |
-| 12:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Sep) | 0.6% |  | 0.1% |
-| 12:00 | ZAR | Low | Budget Balance | -352.400B |  | -317.500B |
 | 12:00 | ZAR | Low | Budget Balance | -4.80% |  | -4.50% |
+| 12:00 | ZAR | Low | Budget Balance | -352.400B |  | -317.500B |
 | 12:05 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 47 min | EUR | Low | German Current Account Balance n.s.a (Sep) |  |  | 8.3B |
-| 13:30 | CAD | Moderate | Building Permits (MoM) (Sep) |  | 0.8% | -1.2% |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 5.7% |
+| 14 min | CAD | Moderate | Building Permits (MoM) (Sep) |  | 0.8% | -1.2% |
+| 39 min | USD | Low | Redbook (YoY) |  |  | 5.7% |
 | 14:20 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 15:20 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 16:00 | USD | Low | Thomson Reuters IPSOS PCSI (Nov) |  |  | 52.86 |
@@ -49,7 +48,7 @@
 | 18:00 | USD | High | 10-Year Note Auction |  |  | 4.117% |
 | 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
 | 21:00 | USD | Low | Fed Collins Speaks |  |  |  |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 6.500M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 1.700M | 6.500M |
 | 21:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Oct) |  |  | -0.5% |
 | 21:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Oct) |  |  | 1.0% |
 | 21:45 | NZD | Low | External Migration & Visitors (Sep) |  |  | 7.50% |

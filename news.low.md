@@ -20,12 +20,11 @@
 | 12:00 | USD | MBA Purchase Index | 172.7 |  | 163.3 |
 | 12:00 | USD | Mortgage Market Index | 334.2 |  | 332.3 |
 | 12:00 | USD | Mortgage Refinance Index | 1,247.5 |  | 1,290.8 |
+| 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Sep) | 0.6% |  | 0.2% |
 | 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Sep) | 4.1% |  | 2.5% |
-| 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Sep) | 0.6% |  | 0.1% |
-| 12:00 | ZAR | Budget Balance | -352.400B |  | -317.500B |
 | 12:00 | ZAR | Budget Balance | -4.80% |  | -4.50% |
-| 47 min | EUR | German Current Account Balance n.s.a (Sep) |  |  | 8.3B |
-| 13:55 | USD | Redbook (YoY) |  |  | 5.7% |
+| 12:00 | ZAR | Budget Balance | -352.400B |  | -317.500B |
+| 39 min | USD | Redbook (YoY) |  |  | 5.7% |
 | 16:00 | USD | Thomson Reuters IPSOS PCSI (Nov) |  |  | 52.86 |
 | 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 48.04 |
 | 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 53.45 |
