@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | AUD | Moderate | Home Loans (MoM) (Q3) |  |  | 2.4% |
+| 00:30 | AUD | Moderate | Home Loans (MoM) (Q3) | 4.7% | 2.5% | 2.2% |
 | 03:00 | KRW | Low | M3 Money Supply (Sep) |  |  | 5,947.4B |
 | 03:00 | KRW | Low | M2 Money supply (Sep) |  |  | 6.80% |
 | 03:25 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
