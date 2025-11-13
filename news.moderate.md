@@ -22,7 +22,6 @@
 | 12:00 | BRL | Retail Sales (MoM) (Sep) | -0.3% | 0.3% | 0.1% |
 | 13:00 | USD | FOMC Member Daly Speaks |  |  |  |
 | 13:00 | EUR | ECB's Elderson Speaks |  |  |  |
-| 13 min | GBP | NIESR Monthly GDP Tracker (Oct) |  |  | 0.3% |
 | 15:30 | USD | FOMC Member Kashkari Speaks |  |  |  |
 | 17:00 | USD | Cushing Crude Oil Inventories |  |  | 0.300M |
 | 19:00 | USD | Federal Budget Balance (Oct) |  | -215.3B | 198.0B |
