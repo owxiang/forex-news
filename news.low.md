@@ -30,7 +30,6 @@
 | 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Nov) |  |  | 40.61 |
 | 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 49.53 |
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 45.41 |
-| 13:00 | EUR | German Current Account Balance n.s.a (Sep) |  |  | 8.3B |
 | 13:00 | BRL | Auto Production (MoM) (Oct) |  |  | -1.5% |
 | 13:00 | BRL | Auto Sales (MoM) (Oct) |  |  | 7.9% |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.875% |

@@ -49,14 +49,14 @@
 | 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Nov) |  |  | 40.61 |
 | 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 49.53 |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 45.41 |
-| 12:00 | GBP | Moderate | NIESR Monthly GDP Tracker |  |  | 0.3% |
+| 12:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Oct) |  |  | 0.3% |
 | 12:00 | BRL | Moderate | Retail Sales (YoY) (Sep) |  | 2.0% | 0.4% |
 | 12:00 | BRL | Moderate | Retail Sales (MoM) (Sep) |  | 0.3% | 0.2% |
 | 13:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
-| 13:00 | EUR | Low | German Current Account Balance n.s.a (Sep) |  |  | 8.3B |
 | 13:00 | BRL | Low | Auto Production (MoM) (Oct) |  |  | -1.5% |
 | 13:00 | BRL | Low | Auto Sales (MoM) (Oct) |  |  | 7.9% |
 | 13:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 15:30 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.875% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.815% |
 | 17:00 | USD | High | Crude Oil Inventories |  | 1.000M | 5.202M |
