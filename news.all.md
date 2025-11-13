@@ -27,19 +27,19 @@
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Sep) | -6.82B |  | -6.95B |
 | 07:30 | CHF | Moderate | PPI (MoM) (Oct) | -0.3% | -0.1% | -0.2% |
 | 07:30 | CHF | Low | PPI (YoY) (Oct) | -1.7% |  | -1.8% |
-| 21 min | CNY | Low | M2 Money Stock (YoY) (Oct) |  | 8.1% | 8.4% |
-| 21 min | CNY | Moderate | New Loans (Oct) |  | 460.0B | 1,290.0B |
-| 21 min | CNY | Low | Outstanding Loan Growth (YoY) (Oct) |  | 6.6% | 6.6% |
-| 21 min | CNY | Low | Chinese Total Social Financing (Oct) |  | 1,230.0B | 3,530.0B |
-| 51 min | USD | Moderate | IEA Monthly Report |  |  |  |
-| 51 min | EUR | Moderate | ECB Economic Bulletin |  |  |  |
-| 09:30 | GBP | Moderate | Labour Productivity (Q2) |  |  | -0.2% |
-| 09:30 | ZAR | Low | Gold Production (YoY) (Sep) |  |  | -3.6% |
-| 09:30 | ZAR | Low | Mining Production (Sep) |  |  | -0.2% |
-| 10:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 10:00 | EUR | Low | ECOFIN Meetings |  |  |  |
-| 10:00 | EUR | Moderate | Industrial Production (MoM) (Sep) |  | 0.7% | -1.2% |
-| 10:00 | EUR | Low | Industrial Production (YoY) (Sep) |  | 2.1% | 1.1% |
+| 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
+| 09:00 | CNY | Low | M2 Money Stock (YoY) (Oct) | 8.2% | 8.1% | 8.4% |
+| 09:00 | CNY | Moderate | New Loans (Oct) | 220.0B | 460.0B | 1,290.0B |
+| 09:00 | CNY | Low | Outstanding Loan Growth (YoY) (Oct) | 6.5% | 6.6% | 6.6% |
+| 09:00 | CNY | Low | Chinese Total Social Financing (Oct) | 810.0B | 1,230.0B | 3,530.0B |
+| 09:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
+| 22 min | GBP | Moderate | Labour Productivity (Q2) |  |  | -0.2% |
+| 22 min | ZAR | Low | Gold Production (YoY) (Sep) |  |  | -3.6% |
+| 22 min | ZAR | Low | Mining Production (Sep) |  |  | -0.2% |
+| 52 min | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
+| 52 min | EUR | Low | ECOFIN Meetings |  |  |  |
+| 52 min | EUR | Moderate | Industrial Production (MoM) (Sep) |  | 0.7% | -1.2% |
+| 52 min | EUR | Low | Industrial Production (YoY) (Sep) |  | 2.1% | 1.1% |
 | 10:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 2.36% |
 | 10:10 | EUR | Low | Italian 30-Year BTP Auction |  |  | 4.260% |
 | 10:10 | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.05% |

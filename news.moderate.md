@@ -12,12 +12,12 @@
 | 07:00 | GBP | Trade Balance (Sep) | -18.88B | -20.80B | -19.53B |
 | 07:00 | GBP | Trade Balance Non-EU (Sep) | -6.82B |  | -6.95B |
 | 07:30 | CHF | PPI (MoM) (Oct) | -0.3% | -0.1% | -0.2% |
-| 21 min | CNY | New Loans (Oct) |  | 460.0B | 1,290.0B |
-| 51 min | USD | IEA Monthly Report |  |  |  |
-| 51 min | EUR | ECB Economic Bulletin |  |  |  |
-| 09:30 | GBP | Labour Productivity (Q2) |  |  | -0.2% |
-| 10:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 10:00 | EUR | Industrial Production (MoM) (Sep) |  | 0.7% | -1.2% |
+| 09:00 | USD | IEA Monthly Report |  |  |  |
+| 09:00 | CNY | New Loans (Oct) | 220.0B | 460.0B | 1,290.0B |
+| 09:00 | EUR | ECB Economic Bulletin |  |  |  |
+| 22 min | GBP | Labour Productivity (Q2) |  |  | -0.2% |
+| 52 min | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 52 min | EUR | Industrial Production (MoM) (Sep) |  | 0.7% | -1.2% |
 | 12:00 | GBP | NIESR Monthly GDP Tracker (Oct) |  |  | 0.3% |
 | 12:00 | BRL | Retail Sales (YoY) (Sep) |  | 2.0% | 0.4% |
 | 12:00 | BRL | Retail Sales (MoM) (Sep) |  | 0.3% | 0.2% |
