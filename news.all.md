@@ -54,19 +54,19 @@
 | 13:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 13:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 15:30 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
-| 22 min | USD | Low | 4-Week Bill Auction |  |  | 3.875% |
-| 22 min | USD | Low | 8-Week Bill Auction |  |  | 3.815% |
-| 52 min | USD | High | Crude Oil Inventories |  | 1.000M | 5.202M |
-| 52 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.037M |
-| 52 min | USD | Low | Crude Oil Imports |  |  | 0.867M |
-| 52 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.300M |
-| 52 min | USD | Low | Distillate Fuel Production |  |  | 0.211M |
-| 52 min | USD | Low | EIA Weekly Distillates Stocks |  |  | -0.643M |
-| 52 min | USD | Low | Gasoline Production |  |  | 0.241M |
-| 52 min | USD | Low | Heating Oil Stockpiles |  |  | -0.036M |
-| 52 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.6% |
-| 52 min | USD | Low | Gasoline Inventories |  |  | -4.729M |
-| 18:00 | USD | High | 30-Year Bond Auction |  |  | 4.734% |
+| 16:30 | USD | Low | 4-Week Bill Auction | 3.900% |  | 3.875% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 3.835% |  | 3.815% |
+| 17:00 | USD | High | Crude Oil Inventories | 6.413M | 1.000M | 5.202M |
+| 17:00 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.717M |  | 0.037M |
+| 17:00 | USD | Low | Crude Oil Imports | 0.849M |  | 0.867M |
+| 17:00 | USD | Moderate | Cushing Crude Oil Inventories | -0.346M |  | 0.300M |
+| 17:00 | USD | Low | Distillate Fuel Production | 0.319M |  | 0.211M |
+| 17:00 | USD | Low | EIA Weekly Distillates Stocks | -0.637M |  | -0.643M |
+| 17:00 | USD | Low | Gasoline Production | 0.102M |  | 0.241M |
+| 17:00 | USD | Low | Heating Oil Stockpiles | 0.055M |  | -0.036M |
+| 17:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 3.4% |  | -0.6% |
+| 17:00 | USD | Low | Gasoline Inventories | -0.945M |  | -4.729M |
+| 52 min | USD | High | 30-Year Bond Auction |  |  | 4.734% |
 | 19:00 | USD | Moderate | Federal Budget Balance (Oct) |  | -215.3B | 198.0B |
 | 21:00 | KRW | Low | Export Price Index (YoY) (Oct) |  |  | 2.2% |
 | 21:00 | KRW | Low | Import Price Index (YoY) (Oct) |  |  | 0.6% |
