@@ -21,15 +21,15 @@
 | 09:30 | ZAR | Mining Production (Sep) | 1.2% |  | 0.0% |
 | 10:00 | EUR | ECOFIN Meetings |  |  |  |
 | 10:00 | EUR | Industrial Production (YoY) (Sep) | 1.2% | 2.1% | 1.2% |
-| 2 min | EUR | Italian 3-Year BTP Auction |  |  | 2.36% |
-| 2 min | EUR | Italian 30-Year BTP Auction |  |  | 4.260% |
-| 2 min | EUR | Italian 7-Year BTP Auction |  |  | 3.05% |
-| 52 min | GBP | Thomson Reuters IPSOS PCSI (Nov) |  |  | 48.3 |
-| 52 min | EUR | Italy Thomson Reuters IPSOS PCSI (Nov) |  |  | 45.12 |
-| 52 min | EUR | Germany Thomson Reuters IPSOS PCSI (Nov) |  |  | 45.75 |
-| 52 min | EUR | France Thomson Reuters IPSOS PCSI (Nov) |  |  | 40.61 |
-| 52 min | EUR | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 49.53 |
-| 52 min | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 45.41 |
+| 11:00 | GBP | Thomson Reuters IPSOS PCSI (Nov) | 46.1 |  | 48.3 |
+| 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Nov) | 45.53 |  | 45.12 |
+| 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Nov) | 46.47 |  | 45.75 |
+| 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Nov) | 38.94 |  | 40.61 |
+| 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Nov) | 51.71 |  | 49.53 |
+| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Nov) | 46.66 |  | 45.41 |
+| 4 min | EUR | Italian 3-Year BTP Auction |  |  | 2.36% |
+| 4 min | EUR | Italian 30-Year BTP Auction |  |  | 4.260% |
+| 4 min | EUR | Italian 7-Year BTP Auction |  |  | 3.05% |
 | 13:00 | BRL | Auto Production (MoM) (Oct) |  |  | -1.5% |
 | 13:00 | BRL | Auto Sales (MoM) (Oct) |  |  | 7.9% |
 | 13:30 | USD | Cleveland CPI (MoM) (Oct) |  |  | 0.2% |

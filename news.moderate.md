@@ -18,9 +18,9 @@
 | 09:30 | GBP | Labour Productivity (Q2) | 0.7% |  | -0.7% |
 | 10:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 10:00 | EUR | Industrial Production (MoM) (Sep) | 0.2% | 0.7% | -1.1% |
-| 12:00 | GBP | NIESR Monthly GDP Tracker (Oct) |  |  | 0.3% |
-| 12:00 | BRL | Retail Sales (YoY) (Sep) |  | 2.0% | 0.4% |
-| 12:00 | BRL | Retail Sales (MoM) (Sep) |  | 0.3% | 0.2% |
+| 54 min | GBP | NIESR Monthly GDP Tracker (Oct) |  |  | 0.3% |
+| 54 min | BRL | Retail Sales (YoY) (Sep) |  | 2.0% | 0.4% |
+| 54 min | BRL | Retail Sales (MoM) (Sep) |  | 0.3% | 0.2% |
 | 13:00 | USD | FOMC Member Daly Speaks |  |  |  |
 | 13:00 | EUR | ECB's Elderson Speaks |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,930K | 1,926K |
