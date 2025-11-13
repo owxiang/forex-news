@@ -42,4 +42,4 @@
 | 17:00 | USD | Gasoline Inventories | -0.945M | -1.900M | -4.729M |
 | 21:00 | KRW | Export Price Index (YoY) (Oct) | 4.8% |  | 2.2% |
 | 21:00 | KRW | Import Price Index (YoY) (Oct) | 0.5% |  | 0.6% |
-| 23 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.852T |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 2.883T |  | 2.852T |

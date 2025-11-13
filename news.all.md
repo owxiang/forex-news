@@ -69,6 +69,6 @@
 | 18:00 | USD | High | 30-Year Bond Auction | 4.694% |  | 4.734% |
 | 21:00 | KRW | Low | Export Price Index (YoY) (Oct) | 4.8% |  | 2.2% |
 | 21:00 | KRW | Low | Import Price Index (YoY) (Oct) | 0.5% |  | 0.6% |
-| 23 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,573B |
-| 23 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.852T |
-| 23 min | NZD | Moderate | Business NZ PMI (Oct) |  |  | 49.9 |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,580B |  | 6,573B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 2.883T |  | 2.852T |
+| 21:30 | NZD | Moderate | Business NZ PMI (Oct) | 51.4 |  | 49.9 |
