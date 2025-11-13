@@ -13,10 +13,10 @@
 | 07:00 | GBP | Index of Services | 0.2% | 0.3% | 0.4% |
 | 07:00 | GBP | Industrial Production (YoY) (Sep) | -2.5% | -1.2% | -0.5% |
 | 07:00 | GBP | Manufacturing Production (YoY) (Sep) | -2.2% | -0.8% | -0.7% |
-| 22 min | CHF | PPI (YoY) (Oct) |  |  | -1.8% |
-| 08:30 | CNY | M2 Money Stock (YoY) (Oct) |  | 8.1% | 8.4% |
-| 08:30 | CNY | Outstanding Loan Growth (YoY) (Oct) |  | 6.6% | 6.6% |
-| 08:30 | CNY | Chinese Total Social Financing (Oct) |  | 1,230.0B | 3,530.0B |
+| 07:30 | CHF | PPI (YoY) (Oct) | -1.7% |  | -1.8% |
+| 21 min | CNY | M2 Money Stock (YoY) (Oct) |  | 8.1% | 8.4% |
+| 21 min | CNY | Outstanding Loan Growth (YoY) (Oct) |  | 6.6% | 6.6% |
+| 21 min | CNY | Chinese Total Social Financing (Oct) |  | 1,230.0B | 3,530.0B |
 | 09:30 | ZAR | Gold Production (YoY) (Sep) |  |  | -3.6% |
 | 09:30 | ZAR | Mining Production (Sep) |  |  | -0.2% |
 | 10:00 | EUR | ECOFIN Meetings |  |  |  |

@@ -25,14 +25,14 @@
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Sep) | 0.1% | 0.2% | 0.2% |
 | 07:00 | GBP | Moderate | Trade Balance (Sep) | -18.88B | -20.80B | -19.53B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Sep) | -6.82B |  | -6.95B |
-| 22 min | CHF | Moderate | PPI (MoM) (Oct) |  | -0.1% | -0.2% |
-| 22 min | CHF | Low | PPI (YoY) (Oct) |  |  | -1.8% |
-| 08:30 | CNY | Low | M2 Money Stock (YoY) (Oct) |  | 8.1% | 8.4% |
-| 08:30 | CNY | Moderate | New Loans (Oct) |  | 460.0B | 1,290.0B |
-| 08:30 | CNY | Low | Outstanding Loan Growth (YoY) (Oct) |  | 6.6% | 6.6% |
-| 08:30 | CNY | Low | Chinese Total Social Financing (Oct) |  | 1,230.0B | 3,530.0B |
-| 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
-| 09:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
+| 07:30 | CHF | Moderate | PPI (MoM) (Oct) | -0.3% | -0.1% | -0.2% |
+| 07:30 | CHF | Low | PPI (YoY) (Oct) | -1.7% |  | -1.8% |
+| 21 min | CNY | Low | M2 Money Stock (YoY) (Oct) |  | 8.1% | 8.4% |
+| 21 min | CNY | Moderate | New Loans (Oct) |  | 460.0B | 1,290.0B |
+| 21 min | CNY | Low | Outstanding Loan Growth (YoY) (Oct) |  | 6.6% | 6.6% |
+| 21 min | CNY | Low | Chinese Total Social Financing (Oct) |  | 1,230.0B | 3,530.0B |
+| 51 min | USD | Moderate | IEA Monthly Report |  |  |  |
+| 51 min | EUR | Moderate | ECB Economic Bulletin |  |  |  |
 | 09:30 | GBP | Moderate | Labour Productivity (Q2) |  |  | -0.2% |
 | 09:30 | ZAR | Low | Gold Production (YoY) (Sep) |  |  | -3.6% |
 | 09:30 | ZAR | Low | Mining Production (Sep) |  |  | -0.2% |
