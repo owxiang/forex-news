@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | GBP | RICS House Price Balance | -19% | -14% | -17% |
-| 00:30 | AUD | Employment Change (Oct) | 42.2K | 20.0K | 14.9K |
-| 00:30 | AUD | Full Employment Change (Oct) | 55.3K |  | 8.7K |
+| 00:30 | AUD | Employment Change (Oct) | 42.2K | 20.0K | 12.8K |
+| 00:30 | AUD | Full Employment Change (Oct) | 55.3K |  | 6.5K |
 | 00:30 | AUD | Unemployment Rate (Oct) | 4.3% | 4.4% | 4.5% |
 | 07:00 | GBP | Business Investment (QoQ) (Q3) |  | -0.7% | -1.1% |
 | 07:00 | GBP | Industrial Production (MoM) (Sep) |  | -0.5% | 0.4% |

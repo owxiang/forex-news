@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | GBP | Moderate | RICS House Price Balance | -19% | -14% | -17% |
 | 00:00 | AUD | Low | MI Inflation Expectations | 4.5% |  | 4.8% |
-| 00:30 | AUD | Moderate | Employment Change (Oct) | 42.2K | 20.0K | 14.9K |
-| 00:30 | AUD | Moderate | Full Employment Change (Oct) | 55.3K |  | 8.7K |
+| 00:30 | AUD | Moderate | Employment Change (Oct) | 42.2K | 20.0K | 12.8K |
+| 00:30 | AUD | Moderate | Full Employment Change (Oct) | 55.3K |  | 6.5K |
 | 00:30 | AUD | Low | Participation Rate (Oct) | 67.0% |  | 67.0% |
 | 00:30 | AUD | Moderate | Unemployment Rate (Oct) | 4.3% | 4.4% | 4.5% |
 | 03:35 | JPY | Low | 5-Year JGB Auction |  |  | 1.233% |
