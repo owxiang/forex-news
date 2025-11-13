@@ -24,5 +24,5 @@
 | 13:00 | EUR | ECB's Elderson Speaks |  |  |  |
 | 15:30 | USD | FOMC Member Kashkari Speaks |  |  |  |
 | 17:00 | USD | Cushing Crude Oil Inventories | -0.346M |  | 0.300M |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 6,573B |
-| 21:30 | NZD | Business NZ PMI (Oct) |  |  | 49.9 |
+| 23 min | USD | Fed's Balance Sheet |  |  | 6,573B |
+| 23 min | NZD | Business NZ PMI (Oct) |  |  | 49.9 |

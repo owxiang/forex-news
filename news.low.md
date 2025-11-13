@@ -40,6 +40,6 @@
 | 17:00 | USD | Heating Oil Stockpiles | 0.055M |  | -0.036M |
 | 17:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 3.4% |  | -0.6% |
 | 17:00 | USD | Gasoline Inventories | -0.945M | -1.900M | -4.729M |
-| 52 min | KRW | Export Price Index (YoY) (Oct) |  |  | 2.2% |
-| 52 min | KRW | Import Price Index (YoY) (Oct) |  |  | 0.6% |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.852T |
+| 21:00 | KRW | Export Price Index (YoY) (Oct) | 4.8% |  | 2.2% |
+| 21:00 | KRW | Import Price Index (YoY) (Oct) | 0.5% |  | 0.6% |
+| 23 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.852T |
