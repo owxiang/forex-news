@@ -1,6 +1,9 @@
-## 12 November 2025 - High Impact Forex News
+## 13 November 2025 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | EUR | German CPI (MoM) (Oct) | 0.3% | 0.3% | 0.2% |
-| 18:00 | USD | 10-Year Note Auction | 4.074% |  | 4.117% |
+| 07:00 | GBP | GDP (YoY) (Q3) |  | 1.3% | 1.4% |
+| 07:00 | GBP | GDP (QoQ) (Q3) |  | 0.2% | 0.3% |
+| 07:00 | GBP | GDP (MoM) (Sep) |  | 0.0% | 0.1% |
+| 17:00 | USD | Crude Oil Inventories |  | 1.000M | 5.202M |
+| 18:00 | USD | 30-Year Bond Auction |  |  | 4.734% |

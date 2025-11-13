@@ -1,41 +1,48 @@
-## 12 November 2025 - Low Impact Forex News
+## 13 November 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Invest Housing Finance (MoM) (Q3) | 17.6% | 4.0% | 2.6% |
-| 03:00 | KRW | M3 Money Supply (Sep) | 5,998.5B |  | 5,947.4B |
-| 03:00 | KRW | M2 Money supply (Sep) | 7.20% |  | 6.80% |
-| 06:00 | JPY | Machine Tool Orders (YoY) (Oct) | 16.8% | 9.9% | 8.1% |
-| 07:00 | EUR | German HICP (MoM) (Oct) | 0.3% | 0.3% | 0.2% |
-| 07:00 | EUR | German HICP (YoY) (Oct) | 2.3% | 2.3% | 2.4% |
-| 07:00 | EUR | German WPI (MoM) (Oct) | 0.3% | 0.1% | 0.2% |
-| 07:00 | EUR | German WPI (YoY) (Oct) | 1.1% |  | 1.2% |
-| 08:50 | EUR | Italian Industrial Production (YoY) (Sep) | 1.5% | -0.5% | -3.0% |
-| 08:50 | EUR | Italian Industrial Production (MoM) (Sep) | 2.8% | 1.5% | -2.7% |
-| 10:10 | EUR | Italian 12-Month BOT Auction | 2.063% |  | 2.050% |
-| 10:30 | EUR | German 30-Year Bund Auction | 3.260% |  | 3.170% |
-| 11:30 | INR | M3 Money Supply | 9.3% |  | 9.5% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.34% |  | 6.31% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) | 0.6% |  | -1.9% |
-| 12:00 | USD | MBA Purchase Index | 172.7 |  | 163.3 |
-| 12:00 | USD | Mortgage Market Index | 334.2 |  | 332.3 |
-| 12:00 | USD | Mortgage Refinance Index | 1,247.5 |  | 1,290.8 |
-| 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Sep) | 0.6% |  | 0.2% |
-| 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Sep) | 4.1% |  | 2.5% |
-| 12:00 | ZAR | Budget Balance | -4.80% |  | -4.50% |
-| 12:00 | ZAR | Budget Balance | -352.400B |  | -317.500B |
-| 16:00 | USD | Thomson Reuters IPSOS PCSI (Nov) | 51.31 |  | 52.86 |
-| 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Nov) | 47.44 |  | 48.04 |
-| 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Nov) | 51.72 |  | 53.45 |
-| 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Nov) | 52.78 |  | 53.89 |
-| 17:30 | BRL | Foreign Exchange Flows | -1.786B |  | 5.785B |
-| 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
-| 21:00 | USD | Fed Collins Speaks |  |  |  |
-| 21:45 | NZD | Electronic Card Retail Sales (YoY) (Oct) | 0.8% |  | 1.0% |
-| 21:45 | NZD | External Migration & Visitors (Sep) | 9.60% |  | 7.50% |
-| 21:45 | NZD | Permanent/Long-Term Migration (Sep) | 1,800 |  | 790 |
-| 22:00 | NZD | Visitor Arrivals (MoM) | 2.9% |  | 2.4% |
-| 44 min | JPY | Foreign Bonds Buying |  |  | -354.4B |
-| 44 min | JPY | Foreign Investments in Japanese Stocks |  |  | 690.1B |
-| 44 min | JPY | PPI (YoY) (Oct) |  | 2.5% | 2.7% |
-| 44 min | JPY | PPI (MoM) (Oct) |  |  | 0.3% |
+| 00:00 | AUD | MI Inflation Expectations | 4.5% |  | 4.8% |
+| 00:30 | AUD | Participation Rate (Oct) | 67.0% |  | 67.0% |
+| 03:35 | JPY | 5-Year JGB Auction |  |  | 1.233% |
+| 06:30 | EUR | French Unemployment Rate (Q3) |  | 7.6% | 7.5% |
+| 07:00 | GBP | Business Investment (YoY) (Q3) |  |  | 3.0% |
+| 07:00 | GBP | Construction Output (MoM) (Sep) |  | 0.0% | -0.3% |
+| 07:00 | GBP | U.K. Construction Output (YoY) (Sep) |  | 1.2% | 1.0% |
+| 07:00 | GBP | GDP (YoY) (Sep) |  | 1.4% | 1.3% |
+| 07:00 | GBP | Index of Services |  | 0.3% | 0.4% |
+| 07:00 | GBP | Industrial Production (YoY) (Sep) |  | -1.2% | -0.7% |
+| 07:00 | GBP | Manufacturing Production (YoY) (Sep) |  | -0.8% | -0.8% |
+| 07:30 | CHF | PPI (YoY) (Oct) |  |  | -1.8% |
+| 08:30 | CNY | M2 Money Stock (YoY) (Oct) |  | 8.1% | 8.4% |
+| 08:30 | CNY | Outstanding Loan Growth (YoY) (Oct) |  | 6.6% | 6.6% |
+| 08:30 | CNY | Chinese Total Social Financing (Oct) |  | 1,230.0B | 3,530.0B |
+| 09:30 | ZAR | Gold Production (YoY) (Sep) |  |  | -3.6% |
+| 09:30 | ZAR | Mining Production (Sep) |  |  | -0.2% |
+| 10:00 | EUR | ECOFIN Meetings |  |  |  |
+| 10:00 | EUR | Industrial Production (YoY) (Sep) |  | 2.1% | 1.1% |
+| 10:10 | EUR | Italian 3-Year BTP Auction |  |  | 2.36% |
+| 10:10 | EUR | Italian 30-Year BTP Auction |  |  | 4.260% |
+| 10:10 | EUR | Italian 7-Year BTP Auction |  |  | 3.05% |
+| 11:00 | GBP | Thomson Reuters IPSOS PCSI (Nov) |  |  | 48.3 |
+| 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Nov) |  |  | 45.12 |
+| 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Nov) |  |  | 45.75 |
+| 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Nov) |  |  | 40.61 |
+| 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 49.53 |
+| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 45.41 |
+| 13:00 | EUR | German Current Account Balance n.s.a (Sep) |  |  | 8.3B |
+| 13:00 | BRL | Auto Production (MoM) (Oct) |  |  | -1.5% |
+| 13:00 | BRL | Auto Sales (MoM) (Oct) |  |  | 7.9% |
+| 16:30 | USD | 4-Week Bill Auction |  |  | 3.875% |
+| 16:30 | USD | 8-Week Bill Auction |  |  | 3.815% |
+| 17:00 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.037M |
+| 17:00 | USD | Crude Oil Imports |  |  | 0.867M |
+| 17:00 | USD | Distillate Fuel Production |  |  | 0.211M |
+| 17:00 | USD | EIA Weekly Distillates Stocks |  |  | -0.643M |
+| 17:00 | USD | Gasoline Production |  |  | 0.241M |
+| 17:00 | USD | Heating Oil Stockpiles |  |  | -0.036M |
+| 17:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.6% |
+| 17:00 | USD | Gasoline Inventories |  |  | -4.729M |
+| 21:00 | KRW | Export Price Index (YoY) (Oct) |  |  | 2.2% |
+| 21:00 | KRW | Import Price Index (YoY) (Oct) |  |  | 0.6% |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.852T |
