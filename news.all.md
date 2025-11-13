@@ -66,8 +66,8 @@
 | 17:00 | USD | Low | Heating Oil Stockpiles | 0.055M |  | -0.036M |
 | 17:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 3.4% |  | -0.6% |
 | 17:00 | USD | Low | Gasoline Inventories | -0.945M |  | -4.729M |
-| 52 min | USD | High | 30-Year Bond Auction |  |  | 4.734% |
-| 19:00 | USD | Moderate | Federal Budget Balance (Oct) |  | -215.3B | 198.0B |
+| 18:00 | USD | High | 30-Year Bond Auction | 4.694% |  | 4.734% |
+| 51 min | USD | Moderate | Federal Budget Balance (Oct) |  | -215.3B | 198.0B |
 | 21:00 | KRW | Low | Export Price Index (YoY) (Oct) |  |  | 2.2% |
 | 21:00 | KRW | Low | Import Price Index (YoY) (Oct) |  |  | 0.6% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,573B |

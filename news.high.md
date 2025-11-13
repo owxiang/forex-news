@@ -6,4 +6,4 @@
 | 07:00 | GBP | GDP (QoQ) (Q3) | 0.1% | 0.2% | 0.3% |
 | 07:00 | GBP | GDP (MoM) (Sep) | -0.1% | 0.0% | 0.0% |
 | 17:00 | USD | Crude Oil Inventories | 6.413M | 1.000M | 5.202M |
-| 52 min | USD | 30-Year Bond Auction |  |  | 4.734% |
+| 18:00 | USD | 30-Year Bond Auction | 4.694% |  | 4.734% |
