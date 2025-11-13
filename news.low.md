@@ -35,11 +35,11 @@
 | 17:00 | USD | EIA Refinery Crude Runs (WoW) | 0.717M |  | 0.037M |
 | 17:00 | USD | Crude Oil Imports | 0.849M |  | 0.867M |
 | 17:00 | USD | Distillate Fuel Production | 0.319M |  | 0.211M |
-| 17:00 | USD | EIA Weekly Distillates Stocks | -0.637M |  | -0.643M |
+| 17:00 | USD | EIA Weekly Distillates Stocks | -0.637M | -2.000M | -0.643M |
 | 17:00 | USD | Gasoline Production | 0.102M |  | 0.241M |
 | 17:00 | USD | Heating Oil Stockpiles | 0.055M |  | -0.036M |
 | 17:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 3.4% |  | -0.6% |
-| 17:00 | USD | Gasoline Inventories | -0.945M |  | -4.729M |
-| 21:00 | KRW | Export Price Index (YoY) (Oct) |  |  | 2.2% |
-| 21:00 | KRW | Import Price Index (YoY) (Oct) |  |  | 0.6% |
+| 17:00 | USD | Gasoline Inventories | -0.945M | -1.900M | -4.729M |
+| 52 min | KRW | Export Price Index (YoY) (Oct) |  |  | 2.2% |
+| 52 min | KRW | Import Price Index (YoY) (Oct) |  |  | 0.6% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.852T |
