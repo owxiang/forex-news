@@ -30,6 +30,7 @@
 | 11:10 | EUR | Italian 3-Year BTP Auction | 2.38% |  | 2.36% |
 | 11:10 | EUR | Italian 30-Year BTP Auction | 4.300% |  | 4.260% |
 | 11:10 | EUR | Italian 7-Year BTP Auction | 3.00% |  | 3.05% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 237.50K |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.875% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 3.815% |
 | 17:00 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.037M |
