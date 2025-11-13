@@ -15,9 +15,9 @@
 | 09:00 | USD | IEA Monthly Report |  |  |  |
 | 09:00 | CNY | New Loans (Oct) | 220.0B | 460.0B | 1,290.0B |
 | 09:00 | EUR | ECB Economic Bulletin |  |  |  |
-| 22 min | GBP | Labour Productivity (Q2) |  |  | -0.2% |
-| 52 min | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 52 min | EUR | Industrial Production (MoM) (Sep) |  | 0.7% | -1.2% |
+| 09:30 | GBP | Labour Productivity (Q2) | 0.7% |  | -0.7% |
+| 10:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 10:00 | EUR | Industrial Production (MoM) (Sep) | 0.2% | 0.7% | -1.1% |
 | 12:00 | GBP | NIESR Monthly GDP Tracker (Oct) |  |  | 0.3% |
 | 12:00 | BRL | Retail Sales (YoY) (Sep) |  | 2.0% | 0.4% |
 | 12:00 | BRL | Retail Sales (MoM) (Sep) |  | 0.3% | 0.2% |

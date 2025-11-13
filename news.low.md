@@ -17,19 +17,19 @@
 | 09:00 | CNY | M2 Money Stock (YoY) (Oct) | 8.2% | 8.1% | 8.4% |
 | 09:00 | CNY | Outstanding Loan Growth (YoY) (Oct) | 6.5% | 6.6% | 6.6% |
 | 09:00 | CNY | Chinese Total Social Financing (Oct) | 810.0B | 1,230.0B | 3,530.0B |
-| 22 min | ZAR | Gold Production (YoY) (Sep) |  |  | -3.6% |
-| 22 min | ZAR | Mining Production (Sep) |  |  | -0.2% |
-| 52 min | EUR | ECOFIN Meetings |  |  |  |
-| 52 min | EUR | Industrial Production (YoY) (Sep) |  | 2.1% | 1.1% |
-| 10:10 | EUR | Italian 3-Year BTP Auction |  |  | 2.36% |
-| 10:10 | EUR | Italian 30-Year BTP Auction |  |  | 4.260% |
-| 10:10 | EUR | Italian 7-Year BTP Auction |  |  | 3.05% |
-| 11:00 | GBP | Thomson Reuters IPSOS PCSI (Nov) |  |  | 48.3 |
-| 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Nov) |  |  | 45.12 |
-| 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Nov) |  |  | 45.75 |
-| 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Nov) |  |  | 40.61 |
-| 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 49.53 |
-| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 45.41 |
+| 09:30 | ZAR | Gold Production (YoY) (Sep) | 5.9% |  | -3.6% |
+| 09:30 | ZAR | Mining Production (Sep) | 1.2% |  | 0.0% |
+| 10:00 | EUR | ECOFIN Meetings |  |  |  |
+| 10:00 | EUR | Industrial Production (YoY) (Sep) | 1.2% | 2.1% | 1.2% |
+| 2 min | EUR | Italian 3-Year BTP Auction |  |  | 2.36% |
+| 2 min | EUR | Italian 30-Year BTP Auction |  |  | 4.260% |
+| 2 min | EUR | Italian 7-Year BTP Auction |  |  | 3.05% |
+| 52 min | GBP | Thomson Reuters IPSOS PCSI (Nov) |  |  | 48.3 |
+| 52 min | EUR | Italy Thomson Reuters IPSOS PCSI (Nov) |  |  | 45.12 |
+| 52 min | EUR | Germany Thomson Reuters IPSOS PCSI (Nov) |  |  | 45.75 |
+| 52 min | EUR | France Thomson Reuters IPSOS PCSI (Nov) |  |  | 40.61 |
+| 52 min | EUR | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 49.53 |
+| 52 min | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 45.41 |
 | 13:00 | BRL | Auto Production (MoM) (Oct) |  |  | -1.5% |
 | 13:00 | BRL | Auto Sales (MoM) (Oct) |  |  | 7.9% |
 | 13:30 | USD | Cleveland CPI (MoM) (Oct) |  |  | 0.2% |

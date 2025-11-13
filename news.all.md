@@ -33,22 +33,22 @@
 | 09:00 | CNY | Low | Outstanding Loan Growth (YoY) (Oct) | 6.5% | 6.6% | 6.6% |
 | 09:00 | CNY | Low | Chinese Total Social Financing (Oct) | 810.0B | 1,230.0B | 3,530.0B |
 | 09:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
-| 22 min | GBP | Moderate | Labour Productivity (Q2) |  |  | -0.2% |
-| 22 min | ZAR | Low | Gold Production (YoY) (Sep) |  |  | -3.6% |
-| 22 min | ZAR | Low | Mining Production (Sep) |  |  | -0.2% |
-| 52 min | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 52 min | EUR | Low | ECOFIN Meetings |  |  |  |
-| 52 min | EUR | Moderate | Industrial Production (MoM) (Sep) |  | 0.7% | -1.2% |
-| 52 min | EUR | Low | Industrial Production (YoY) (Sep) |  | 2.1% | 1.1% |
-| 10:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 2.36% |
-| 10:10 | EUR | Low | Italian 30-Year BTP Auction |  |  | 4.260% |
-| 10:10 | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.05% |
-| 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Nov) |  |  | 48.3 |
-| 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Nov) |  |  | 45.12 |
-| 11:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Nov) |  |  | 45.75 |
-| 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Nov) |  |  | 40.61 |
-| 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 49.53 |
-| 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 45.41 |
+| 09:30 | GBP | Moderate | Labour Productivity (Q2) | 0.7% |  | -0.7% |
+| 09:30 | ZAR | Low | Gold Production (YoY) (Sep) | 5.9% |  | -3.6% |
+| 09:30 | ZAR | Low | Mining Production (Sep) | 1.2% |  | 0.0% |
+| 10:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
+| 10:00 | EUR | Low | ECOFIN Meetings |  |  |  |
+| 10:00 | EUR | Moderate | Industrial Production (MoM) (Sep) | 0.2% | 0.7% | -1.1% |
+| 10:00 | EUR | Low | Industrial Production (YoY) (Sep) | 1.2% | 2.1% | 1.2% |
+| 2 min | EUR | Low | Italian 3-Year BTP Auction |  |  | 2.36% |
+| 2 min | EUR | Low | Italian 30-Year BTP Auction |  |  | 4.260% |
+| 2 min | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.05% |
+| 52 min | GBP | Low | Thomson Reuters IPSOS PCSI (Nov) |  |  | 48.3 |
+| 52 min | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Nov) |  |  | 45.12 |
+| 52 min | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Nov) |  |  | 45.75 |
+| 52 min | EUR | Low | France Thomson Reuters IPSOS PCSI (Nov) |  |  | 40.61 |
+| 52 min | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 49.53 |
+| 52 min | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 45.41 |
 | 12:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Oct) |  |  | 0.3% |
 | 12:00 | BRL | Moderate | Retail Sales (YoY) (Sep) |  | 2.0% | 0.4% |
 | 12:00 | BRL | Moderate | Retail Sales (MoM) (Sep) |  | 0.3% | 0.2% |
