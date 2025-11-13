@@ -33,7 +33,7 @@
 | 09:00 | CNY | Low | Outstanding Loan Growth (YoY) (Oct) | 6.5% | 6.6% | 6.6% |
 | 09:00 | CNY | Low | Chinese Total Social Financing (Oct) | 810.0B | 1,230.0B | 3,530.0B |
 | 09:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
-| 09:30 | GBP | Moderate | Labour Productivity (Q2) | 0.7% |  | -0.7% |
+| 09:30 | GBP | Moderate | Labour Productivity (Q2) | -0.6% |  | 0.3% |
 | 09:30 | ZAR | Low | Gold Production (YoY) (Sep) | 5.9% |  | -3.6% |
 | 09:30 | ZAR | Low | Mining Production (Sep) | 1.2% |  | 0.0% |
 | 10:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
@@ -46,16 +46,16 @@
 | 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Nov) | 38.94 |  | 40.61 |
 | 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) | 51.71 |  | 49.53 |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) | 46.66 |  | 45.41 |
-| 4 min | EUR | Low | Italian 3-Year BTP Auction |  |  | 2.36% |
-| 4 min | EUR | Low | Italian 30-Year BTP Auction |  |  | 4.260% |
-| 4 min | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.05% |
-| 54 min | GBP | Moderate | NIESR Monthly GDP Tracker (Oct) |  |  | 0.3% |
-| 54 min | BRL | Moderate | Retail Sales (YoY) (Sep) |  | 2.0% | 0.4% |
-| 54 min | BRL | Moderate | Retail Sales (MoM) (Sep) |  | 0.3% | 0.2% |
-| 13:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
-| 13:00 | BRL | Low | Auto Production (MoM) (Oct) |  |  | -1.5% |
-| 13:00 | BRL | Low | Auto Sales (MoM) (Oct) |  |  | 7.9% |
-| 13:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 11:10 | EUR | Low | Italian 3-Year BTP Auction | 2.38% |  | 2.36% |
+| 11:10 | EUR | Low | Italian 30-Year BTP Auction | 4.300% |  | 4.260% |
+| 11:10 | EUR | Low | Italian 7-Year BTP Auction | 3.00% |  | 3.05% |
+| 12:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Oct) |  |  | 0.3% |
+| 12:00 | BRL | Moderate | Retail Sales (YoY) (Sep) | 0.8% | 2.0% | 0.4% |
+| 12:00 | BRL | Moderate | Retail Sales (MoM) (Sep) | -0.3% | 0.3% | 0.2% |
+| 47 min | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
+| 47 min | BRL | Low | Auto Production (MoM) (Oct) |  |  | -1.5% |
+| 47 min | BRL | Low | Auto Sales (MoM) (Oct) |  |  | 7.9% |
+| 47 min | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 13:30 | USD | Low | Cleveland CPI (MoM) (Oct) |  |  | 0.2% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,930K | 1,926K |
 | 13:30 | USD | High | Core CPI (MoM) (Oct) |  |  | 0.2% |

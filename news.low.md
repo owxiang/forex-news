@@ -27,11 +27,11 @@
 | 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Nov) | 38.94 |  | 40.61 |
 | 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Nov) | 51.71 |  | 49.53 |
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Nov) | 46.66 |  | 45.41 |
-| 4 min | EUR | Italian 3-Year BTP Auction |  |  | 2.36% |
-| 4 min | EUR | Italian 30-Year BTP Auction |  |  | 4.260% |
-| 4 min | EUR | Italian 7-Year BTP Auction |  |  | 3.05% |
-| 13:00 | BRL | Auto Production (MoM) (Oct) |  |  | -1.5% |
-| 13:00 | BRL | Auto Sales (MoM) (Oct) |  |  | 7.9% |
+| 11:10 | EUR | Italian 3-Year BTP Auction | 2.38% |  | 2.36% |
+| 11:10 | EUR | Italian 30-Year BTP Auction | 4.300% |  | 4.260% |
+| 11:10 | EUR | Italian 7-Year BTP Auction | 3.00% |  | 3.05% |
+| 47 min | BRL | Auto Production (MoM) (Oct) |  |  | -1.5% |
+| 47 min | BRL | Auto Sales (MoM) (Oct) |  |  | 7.9% |
 | 13:30 | USD | Cleveland CPI (MoM) (Oct) |  |  | 0.2% |
 | 13:30 | USD | Core CPI Index (Oct) |  |  | 330.54 |
 | 13:30 | USD | CPI Index, n.s.a. (Oct) |  |  | 324.80 |
