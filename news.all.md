@@ -8,25 +8,25 @@
 | 00:30 | AUD | Low | Participation Rate (Oct) | 67.0% |  | 67.0% |
 | 00:30 | AUD | Moderate | Unemployment Rate (Oct) | 4.3% | 4.4% | 4.5% |
 | 03:35 | JPY | Low | 5-Year JGB Auction | 1.245% |  | 1.233% |
-| 19 min | EUR | Low | French Unemployment Rate (Q3) |  | 7.6% | 7.5% |
-| 49 min | GBP | Moderate | Business Investment (QoQ) (Q3) |  | -0.7% | -1.1% |
-| 49 min | GBP | Low | Business Investment (YoY) (Q3) |  |  | 3.0% |
-| 49 min | GBP | Low | Construction Output (MoM) (Sep) |  | 0.0% | -0.3% |
-| 49 min | GBP | Low | U.K. Construction Output (YoY) (Sep) |  | 1.2% | 1.0% |
-| 49 min | GBP | High | GDP (YoY) (Q3) |  | 1.3% | 1.4% |
-| 49 min | GBP | High | GDP (QoQ) (Q3) |  | 0.2% | 0.3% |
-| 49 min | GBP | High | GDP (MoM) (Sep) |  | 0.0% | 0.1% |
-| 49 min | GBP | Low | GDP (YoY) (Sep) |  | 1.4% | 1.3% |
-| 49 min | GBP | Low | Index of Services |  | 0.3% | 0.4% |
-| 49 min | GBP | Low | Industrial Production (YoY) (Sep) |  | -1.2% | -0.7% |
-| 49 min | GBP | Moderate | Industrial Production (MoM) (Sep) |  | -0.5% | 0.4% |
-| 49 min | GBP | Low | Manufacturing Production (YoY) (Sep) |  | -0.8% | -0.8% |
-| 49 min | GBP | Moderate | Manufacturing Production (MoM) (Sep) |  | -0.7% | 0.7% |
-| 49 min | GBP | Moderate | Monthly GDP 3M/3M Change (Sep) |  | 0.2% | 0.3% |
-| 49 min | GBP | Moderate | Trade Balance (Sep) |  | -20.80B | -21.18B |
-| 49 min | GBP | Moderate | Trade Balance Non-EU (Sep) |  |  | -8.29B |
-| 07:30 | CHF | Moderate | PPI (MoM) (Oct) |  | -0.1% | -0.2% |
-| 07:30 | CHF | Low | PPI (YoY) (Oct) |  |  | -1.8% |
+| 06:30 | EUR | Low | French Unemployment Rate (Q3) | 7.7% | 7.6% | 7.6% |
+| 07:00 | GBP | Moderate | Business Investment (QoQ) (Q3) | -0.3% | -0.7% | -1.1% |
+| 07:00 | GBP | Low | Business Investment (YoY) (Q3) | 0.7% |  | 3.0% |
+| 07:00 | GBP | Low | U.K. Construction Output (YoY) (Sep) | 1.3% | 1.2% | 1.1% |
+| 07:00 | GBP | Low | Construction Output (MoM) (Sep) | 0.2% | 0.0% | -0.5% |
+| 07:00 | GBP | High | GDP (QoQ) (Q3) | 0.1% | 0.2% | 0.3% |
+| 07:00 | GBP | High | GDP (MoM) (Sep) | -0.1% | 0.0% | 0.0% |
+| 07:00 | GBP | High | GDP (YoY) (Q3) | 1.3% | 1.3% | 1.4% |
+| 07:00 | GBP | Low | GDP (YoY) (Sep) | 1.1% | 1.4% | 1.2% |
+| 07:00 | GBP | Low | Index of Services | 0.2% | 0.3% | 0.4% |
+| 07:00 | GBP | Low | Industrial Production (YoY) (Sep) | -2.5% | -1.2% | -0.5% |
+| 07:00 | GBP | Moderate | Industrial Production (MoM) (Sep) | -2.0% | -0.5% | 0.3% |
+| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Sep) | -1.7% | -0.7% | 0.6% |
+| 07:00 | GBP | Low | Manufacturing Production (YoY) (Sep) | -2.2% | -0.8% | -0.7% |
+| 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Sep) | 0.1% | 0.2% | 0.2% |
+| 07:00 | GBP | Moderate | Trade Balance (Sep) | -18.88B | -20.80B | -19.53B |
+| 07:00 | GBP | Moderate | Trade Balance Non-EU (Sep) | -6.82B |  | -6.95B |
+| 22 min | CHF | Moderate | PPI (MoM) (Oct) |  | -0.1% | -0.2% |
+| 22 min | CHF | Low | PPI (YoY) (Oct) |  |  | -1.8% |
 | 08:30 | CNY | Low | M2 Money Stock (YoY) (Oct) |  | 8.1% | 8.4% |
 | 08:30 | CNY | Moderate | New Loans (Oct) |  | 460.0B | 1,290.0B |
 | 08:30 | CNY | Low | Outstanding Loan Growth (YoY) (Oct) |  | 6.6% | 6.6% |
@@ -56,6 +56,19 @@
 | 13:00 | BRL | Low | Auto Production (MoM) (Oct) |  |  | -1.5% |
 | 13:00 | BRL | Low | Auto Sales (MoM) (Oct) |  |  | 7.9% |
 | 13:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 13:30 | USD | Low | Cleveland CPI (MoM) (Oct) |  |  | 0.2% |
+| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,930K | 1,926K |
+| 13:30 | USD | High | Core CPI (MoM) (Oct) |  |  | 0.2% |
+| 13:30 | USD | Moderate | Core CPI (YoY) (Oct) |  |  | 3.0% |
+| 13:30 | USD | Low | Core CPI Index (Oct) |  |  | 330.54 |
+| 13:30 | USD | High | CPI (YoY) (Oct) |  |  | 3.0% |
+| 13:30 | USD | High | CPI (MoM) (Oct) |  |  | 0.3% |
+| 13:30 | USD | Low | CPI Index, n.s.a. (Oct) |  |  | 324.80 |
+| 13:30 | USD | Low | CPI Index, s.a (Oct) |  |  | 324.37 |
+| 13:30 | USD | Low | CPI, n.s.a (MoM) (Oct) |  |  | 0.25% |
+| 13:30 | USD | High | Initial Jobless Claims |  | 223K | 218K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 237.50K |
+| 13:30 | USD | Moderate | Unit Labor Costs (QoQ) |  |  | 1.0% |
 | 15:30 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.875% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.815% |

@@ -5,15 +5,15 @@
 | 00:00 | AUD | MI Inflation Expectations | 4.5% |  | 4.8% |
 | 00:30 | AUD | Participation Rate (Oct) | 67.0% |  | 67.0% |
 | 03:35 | JPY | 5-Year JGB Auction | 1.245% |  | 1.233% |
-| 19 min | EUR | French Unemployment Rate (Q3) |  | 7.6% | 7.5% |
-| 49 min | GBP | Business Investment (YoY) (Q3) |  |  | 3.0% |
-| 49 min | GBP | Construction Output (MoM) (Sep) |  | 0.0% | -0.3% |
-| 49 min | GBP | U.K. Construction Output (YoY) (Sep) |  | 1.2% | 1.0% |
-| 49 min | GBP | GDP (YoY) (Sep) |  | 1.4% | 1.3% |
-| 49 min | GBP | Index of Services |  | 0.3% | 0.4% |
-| 49 min | GBP | Industrial Production (YoY) (Sep) |  | -1.2% | -0.7% |
-| 49 min | GBP | Manufacturing Production (YoY) (Sep) |  | -0.8% | -0.8% |
-| 07:30 | CHF | PPI (YoY) (Oct) |  |  | -1.8% |
+| 06:30 | EUR | French Unemployment Rate (Q3) | 7.7% | 7.6% | 7.6% |
+| 07:00 | GBP | Business Investment (YoY) (Q3) | 0.7% |  | 3.0% |
+| 07:00 | GBP | U.K. Construction Output (YoY) (Sep) | 1.3% | 1.2% | 1.1% |
+| 07:00 | GBP | Construction Output (MoM) (Sep) | 0.2% | 0.0% | -0.5% |
+| 07:00 | GBP | GDP (YoY) (Sep) | 1.1% | 1.4% | 1.2% |
+| 07:00 | GBP | Index of Services | 0.2% | 0.3% | 0.4% |
+| 07:00 | GBP | Industrial Production (YoY) (Sep) | -2.5% | -1.2% | -0.5% |
+| 07:00 | GBP | Manufacturing Production (YoY) (Sep) | -2.2% | -0.8% | -0.7% |
+| 22 min | CHF | PPI (YoY) (Oct) |  |  | -1.8% |
 | 08:30 | CNY | M2 Money Stock (YoY) (Oct) |  | 8.1% | 8.4% |
 | 08:30 | CNY | Outstanding Loan Growth (YoY) (Oct) |  | 6.6% | 6.6% |
 | 08:30 | CNY | Chinese Total Social Financing (Oct) |  | 1,230.0B | 3,530.0B |
@@ -32,6 +32,12 @@
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 45.41 |
 | 13:00 | BRL | Auto Production (MoM) (Oct) |  |  | -1.5% |
 | 13:00 | BRL | Auto Sales (MoM) (Oct) |  |  | 7.9% |
+| 13:30 | USD | Cleveland CPI (MoM) (Oct) |  |  | 0.2% |
+| 13:30 | USD | Core CPI Index (Oct) |  |  | 330.54 |
+| 13:30 | USD | CPI Index, n.s.a. (Oct) |  |  | 324.80 |
+| 13:30 | USD | CPI Index, s.a (Oct) |  |  | 324.37 |
+| 13:30 | USD | CPI, n.s.a (MoM) (Oct) |  |  | 0.25% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 237.50K |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.875% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 3.815% |
 | 17:00 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.037M |
