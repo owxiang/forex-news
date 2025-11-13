@@ -22,10 +22,8 @@
 | 12:00 | BRL | Retail Sales (MoM) (Sep) | -0.3% | 0.3% | 0.1% |
 | 13:00 | USD | FOMC Member Daly Speaks |  |  |  |
 | 13:00 | EUR | ECB's Elderson Speaks |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims |  |  | 1,926K |
-| 13:30 | USD | Nonfarm Productivity (QoQ) (Q3) |  |  | 3.3% |
-| 22 min | USD | FOMC Member Kashkari Speaks |  |  |  |
-| 17:00 | USD | Cushing Crude Oil Inventories |  |  | 0.300M |
+| 15:30 | USD | FOMC Member Kashkari Speaks |  |  |  |
+| 52 min | USD | Cushing Crude Oil Inventories |  |  | 0.300M |
 | 19:00 | USD | Federal Budget Balance (Oct) |  | -215.3B | 198.0B |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,573B |
 | 21:30 | NZD | Business NZ PMI (Oct) |  |  | 49.9 |

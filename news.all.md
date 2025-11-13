@@ -25,8 +25,8 @@
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Sep) | 0.1% | 0.2% | 0.2% |
 | 07:00 | GBP | Moderate | Trade Balance (Sep) | -18.88B | -20.80B | -19.53B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Sep) | -6.82B |  | -6.95B |
-| 07:30 | CHF | Moderate | PPI (MoM) (Oct) | -0.3% | -0.1% | -0.2% |
 | 07:30 | CHF | Low | PPI (YoY) (Oct) | -1.7% |  | -1.8% |
+| 07:30 | CHF | Moderate | PPI (MoM) (Oct) | -0.3% | -0.1% | -0.2% |
 | 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
 | 09:00 | CNY | Low | M2 Money Stock (YoY) (Oct) | 8.2% | 8.1% | 8.4% |
 | 09:00 | CNY | Moderate | New Loans (Oct) | 220.0B | 460.0B | 1,290.0B |
@@ -38,8 +38,8 @@
 | 09:30 | ZAR | Low | Mining Production (Sep) | 1.2% |  | 0.0% |
 | 10:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 10:00 | EUR | Low | ECOFIN Meetings |  |  |  |
-| 10:00 | EUR | Moderate | Industrial Production (MoM) (Sep) | 0.2% | 0.7% | -1.1% |
 | 10:00 | EUR | Low | Industrial Production (YoY) (Sep) | 1.2% | 2.1% | 1.2% |
+| 10:00 | EUR | Moderate | Industrial Production (MoM) (Sep) | 0.2% | 0.7% | -1.1% |
 | 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Nov) | 46.1 |  | 48.3 |
 | 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Nov) | 45.53 |  | 45.12 |
 | 11:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Nov) | 46.47 |  | 45.75 |
@@ -53,22 +53,19 @@
 | 12:00 | BRL | Moderate | Retail Sales (MoM) (Sep) | -0.3% | 0.3% | 0.1% |
 | 13:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 13:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,926K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 237.50K |
-| 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q3) |  |  | 3.3% |
-| 22 min | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.875% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.815% |
-| 17:00 | USD | High | Crude Oil Inventories |  | 1.000M | 5.202M |
-| 17:00 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.037M |
-| 17:00 | USD | Low | Crude Oil Imports |  |  | 0.867M |
-| 17:00 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.300M |
-| 17:00 | USD | Low | Distillate Fuel Production |  |  | 0.211M |
-| 17:00 | USD | Low | EIA Weekly Distillates Stocks |  |  | -0.643M |
-| 17:00 | USD | Low | Gasoline Production |  |  | 0.241M |
-| 17:00 | USD | Low | Heating Oil Stockpiles |  |  | -0.036M |
-| 17:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.6% |
-| 17:00 | USD | Low | Gasoline Inventories |  |  | -4.729M |
+| 15:30 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
+| 22 min | USD | Low | 4-Week Bill Auction |  |  | 3.875% |
+| 22 min | USD | Low | 8-Week Bill Auction |  |  | 3.815% |
+| 52 min | USD | High | Crude Oil Inventories |  | 1.000M | 5.202M |
+| 52 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.037M |
+| 52 min | USD | Low | Crude Oil Imports |  |  | 0.867M |
+| 52 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.300M |
+| 52 min | USD | Low | Distillate Fuel Production |  |  | 0.211M |
+| 52 min | USD | Low | EIA Weekly Distillates Stocks |  |  | -0.643M |
+| 52 min | USD | Low | Gasoline Production |  |  | 0.241M |
+| 52 min | USD | Low | Heating Oil Stockpiles |  |  | -0.036M |
+| 52 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.6% |
+| 52 min | USD | Low | Gasoline Inventories |  |  | -4.729M |
 | 18:00 | USD | High | 30-Year Bond Auction |  |  | 4.734% |
 | 19:00 | USD | Moderate | Federal Budget Balance (Oct) |  | -215.3B | 198.0B |
 | 21:00 | KRW | Low | Export Price Index (YoY) (Oct) |  |  | 2.2% |
