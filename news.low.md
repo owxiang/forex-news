@@ -5,14 +5,14 @@
 | 00:00 | AUD | MI Inflation Expectations | 4.5% |  | 4.8% |
 | 00:30 | AUD | Participation Rate (Oct) | 67.0% |  | 67.0% |
 | 03:35 | JPY | 5-Year JGB Auction | 1.245% |  | 1.233% |
-| 06:30 | EUR | French Unemployment Rate (Q3) |  | 7.6% | 7.5% |
-| 07:00 | GBP | Business Investment (YoY) (Q3) |  |  | 3.0% |
-| 07:00 | GBP | Construction Output (MoM) (Sep) |  | 0.0% | -0.3% |
-| 07:00 | GBP | U.K. Construction Output (YoY) (Sep) |  | 1.2% | 1.0% |
-| 07:00 | GBP | GDP (YoY) (Sep) |  | 1.4% | 1.3% |
-| 07:00 | GBP | Index of Services |  | 0.3% | 0.4% |
-| 07:00 | GBP | Industrial Production (YoY) (Sep) |  | -1.2% | -0.7% |
-| 07:00 | GBP | Manufacturing Production (YoY) (Sep) |  | -0.8% | -0.8% |
+| 19 min | EUR | French Unemployment Rate (Q3) |  | 7.6% | 7.5% |
+| 49 min | GBP | Business Investment (YoY) (Q3) |  |  | 3.0% |
+| 49 min | GBP | Construction Output (MoM) (Sep) |  | 0.0% | -0.3% |
+| 49 min | GBP | U.K. Construction Output (YoY) (Sep) |  | 1.2% | 1.0% |
+| 49 min | GBP | GDP (YoY) (Sep) |  | 1.4% | 1.3% |
+| 49 min | GBP | Index of Services |  | 0.3% | 0.4% |
+| 49 min | GBP | Industrial Production (YoY) (Sep) |  | -1.2% | -0.7% |
+| 49 min | GBP | Manufacturing Production (YoY) (Sep) |  | -0.8% | -0.8% |
 | 07:30 | CHF | PPI (YoY) (Oct) |  |  | -1.8% |
 | 08:30 | CNY | M2 Money Stock (YoY) (Oct) |  | 8.1% | 8.4% |
 | 08:30 | CNY | Outstanding Loan Growth (YoY) (Oct) |  | 6.6% | 6.6% |
