@@ -11,11 +11,11 @@
 | 06:30 | EUR | Low | French Unemployment Rate (Q3) | 7.7% | 7.6% | 7.6% |
 | 07:00 | GBP | Moderate | Business Investment (QoQ) (Q3) | -0.3% | -0.7% | -1.1% |
 | 07:00 | GBP | Low | Business Investment (YoY) (Q3) | 0.7% |  | 3.0% |
-| 07:00 | GBP | Low | U.K. Construction Output (YoY) (Sep) | 1.3% | 1.2% | 1.1% |
 | 07:00 | GBP | Low | Construction Output (MoM) (Sep) | 0.2% | 0.0% | -0.5% |
+| 07:00 | GBP | Low | U.K. Construction Output (YoY) (Sep) | 1.3% | 1.2% | 1.1% |
+| 07:00 | GBP | High | GDP (YoY) (Q3) | 1.3% | 1.3% | 1.4% |
 | 07:00 | GBP | High | GDP (QoQ) (Q3) | 0.1% | 0.2% | 0.3% |
 | 07:00 | GBP | High | GDP (MoM) (Sep) | -0.1% | 0.0% | 0.0% |
-| 07:00 | GBP | High | GDP (YoY) (Q3) | 1.3% | 1.3% | 1.4% |
 | 07:00 | GBP | Low | GDP (YoY) (Sep) | 1.1% | 1.4% | 1.2% |
 | 07:00 | GBP | Low | Index of Services | 0.2% | 0.3% | 0.4% |
 | 07:00 | GBP | Low | Industrial Production (YoY) (Sep) | -2.5% | -1.2% | -0.5% |
@@ -49,26 +49,11 @@
 | 11:10 | EUR | Low | Italian 3-Year BTP Auction | 2.38% |  | 2.36% |
 | 11:10 | EUR | Low | Italian 30-Year BTP Auction | 4.300% |  | 4.260% |
 | 11:10 | EUR | Low | Italian 7-Year BTP Auction | 3.00% |  | 3.05% |
-| 12:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Oct) |  |  | 0.3% |
-| 12:00 | BRL | Moderate | Retail Sales (YoY) (Sep) | 0.8% | 2.0% | 0.4% |
-| 12:00 | BRL | Moderate | Retail Sales (MoM) (Sep) | -0.3% | 0.3% | 0.2% |
-| 47 min | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
-| 47 min | BRL | Low | Auto Production (MoM) (Oct) |  |  | -1.5% |
-| 47 min | BRL | Low | Auto Sales (MoM) (Oct) |  |  | 7.9% |
-| 47 min | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 13:30 | USD | Low | Cleveland CPI (MoM) (Oct) |  |  | 0.2% |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,930K | 1,926K |
-| 13:30 | USD | High | Core CPI (MoM) (Oct) |  |  | 0.2% |
-| 13:30 | USD | Moderate | Core CPI (YoY) (Oct) |  |  | 3.0% |
-| 13:30 | USD | Low | Core CPI Index (Oct) |  |  | 330.54 |
-| 13:30 | USD | High | CPI (YoY) (Oct) |  |  | 3.0% |
-| 13:30 | USD | High | CPI (MoM) (Oct) |  |  | 0.3% |
-| 13:30 | USD | Low | CPI Index, n.s.a. (Oct) |  |  | 324.80 |
-| 13:30 | USD | Low | CPI Index, s.a (Oct) |  |  | 324.37 |
-| 13:30 | USD | Low | CPI, n.s.a (MoM) (Oct) |  |  | 0.25% |
-| 13:30 | USD | High | Initial Jobless Claims |  | 223K | 218K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 237.50K |
-| 13:30 | USD | Moderate | Unit Labor Costs (QoQ) |  |  | 1.0% |
+| 12:00 | BRL | Moderate | Retail Sales (YoY) (Sep) | 0.8% | 2.0% | 0.3% |
+| 12:00 | BRL | Moderate | Retail Sales (MoM) (Sep) | -0.3% | 0.3% | 0.1% |
+| 13:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
+| 13:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 13 min | GBP | Moderate | NIESR Monthly GDP Tracker (Oct) |  |  | 0.3% |
 | 15:30 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.875% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.815% |

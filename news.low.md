@@ -7,8 +7,8 @@
 | 03:35 | JPY | 5-Year JGB Auction | 1.245% |  | 1.233% |
 | 06:30 | EUR | French Unemployment Rate (Q3) | 7.7% | 7.6% | 7.6% |
 | 07:00 | GBP | Business Investment (YoY) (Q3) | 0.7% |  | 3.0% |
-| 07:00 | GBP | U.K. Construction Output (YoY) (Sep) | 1.3% | 1.2% | 1.1% |
 | 07:00 | GBP | Construction Output (MoM) (Sep) | 0.2% | 0.0% | -0.5% |
+| 07:00 | GBP | U.K. Construction Output (YoY) (Sep) | 1.3% | 1.2% | 1.1% |
 | 07:00 | GBP | GDP (YoY) (Sep) | 1.1% | 1.4% | 1.2% |
 | 07:00 | GBP | Index of Services | 0.2% | 0.3% | 0.4% |
 | 07:00 | GBP | Industrial Production (YoY) (Sep) | -2.5% | -1.2% | -0.5% |
@@ -30,14 +30,6 @@
 | 11:10 | EUR | Italian 3-Year BTP Auction | 2.38% |  | 2.36% |
 | 11:10 | EUR | Italian 30-Year BTP Auction | 4.300% |  | 4.260% |
 | 11:10 | EUR | Italian 7-Year BTP Auction | 3.00% |  | 3.05% |
-| 47 min | BRL | Auto Production (MoM) (Oct) |  |  | -1.5% |
-| 47 min | BRL | Auto Sales (MoM) (Oct) |  |  | 7.9% |
-| 13:30 | USD | Cleveland CPI (MoM) (Oct) |  |  | 0.2% |
-| 13:30 | USD | Core CPI Index (Oct) |  |  | 330.54 |
-| 13:30 | USD | CPI Index, n.s.a. (Oct) |  |  | 324.80 |
-| 13:30 | USD | CPI Index, s.a (Oct) |  |  | 324.37 |
-| 13:30 | USD | CPI, n.s.a (MoM) (Oct) |  |  | 0.25% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 237.50K |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.875% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 3.815% |
 | 17:00 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.037M |

@@ -18,14 +18,11 @@
 | 09:30 | GBP | Labour Productivity (Q2) | -0.6% |  | 0.3% |
 | 10:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 10:00 | EUR | Industrial Production (MoM) (Sep) | 0.2% | 0.7% | -1.1% |
-| 12:00 | GBP | NIESR Monthly GDP Tracker (Oct) |  |  | 0.3% |
-| 12:00 | BRL | Retail Sales (YoY) (Sep) | 0.8% | 2.0% | 0.4% |
-| 12:00 | BRL | Retail Sales (MoM) (Sep) | -0.3% | 0.3% | 0.2% |
-| 47 min | USD | FOMC Member Daly Speaks |  |  |  |
-| 47 min | EUR | ECB's Elderson Speaks |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims |  | 1,930K | 1,926K |
-| 13:30 | USD | Core CPI (YoY) (Oct) |  |  | 3.0% |
-| 13:30 | USD | Unit Labor Costs (QoQ) |  |  | 1.0% |
+| 12:00 | BRL | Retail Sales (YoY) (Sep) | 0.8% | 2.0% | 0.3% |
+| 12:00 | BRL | Retail Sales (MoM) (Sep) | -0.3% | 0.3% | 0.1% |
+| 13:00 | USD | FOMC Member Daly Speaks |  |  |  |
+| 13:00 | EUR | ECB's Elderson Speaks |  |  |  |
+| 13 min | GBP | NIESR Monthly GDP Tracker (Oct) |  |  | 0.3% |
 | 15:30 | USD | FOMC Member Kashkari Speaks |  |  |  |
 | 17:00 | USD | Cushing Crude Oil Inventories |  |  | 0.300M |
 | 19:00 | USD | Federal Budget Balance (Oct) |  | -215.3B | 198.0B |
