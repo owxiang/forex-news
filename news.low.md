@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | AUD | MI Inflation Expectations | 4.5% |  | 4.8% |
 | 00:30 | AUD | Participation Rate (Oct) | 67.0% |  | 67.0% |
-| 03:35 | JPY | 5-Year JGB Auction |  |  | 1.233% |
+| 57 min | JPY | 5-Year JGB Auction |  |  | 1.233% |
 | 06:30 | EUR | French Unemployment Rate (Q3) |  | 7.6% | 7.5% |
 | 07:00 | GBP | Business Investment (YoY) (Q3) |  |  | 3.0% |
 | 07:00 | GBP | Construction Output (MoM) (Sep) |  | 0.0% | -0.3% |

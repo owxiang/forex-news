@@ -2,13 +2,13 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | GBP | Moderate | RICS House Price Balance | -19% | -14% | -17% |
 | 00:00 | AUD | Low | MI Inflation Expectations | 4.5% |  | 4.8% |
+| 00:01 | GBP | Moderate | RICS House Price Balance (Oct) | -19% | -14% | -17% |
 | 00:30 | AUD | Moderate | Employment Change (Oct) | 42.2K | 20.0K | 12.8K |
 | 00:30 | AUD | Moderate | Full Employment Change (Oct) | 55.3K |  | 6.5K |
 | 00:30 | AUD | Low | Participation Rate (Oct) | 67.0% |  | 67.0% |
 | 00:30 | AUD | Moderate | Unemployment Rate (Oct) | 4.3% | 4.4% | 4.5% |
-| 03:35 | JPY | Low | 5-Year JGB Auction |  |  | 1.233% |
+| 57 min | JPY | Low | 5-Year JGB Auction |  |  | 1.233% |
 | 06:30 | EUR | Low | French Unemployment Rate (Q3) |  | 7.6% | 7.5% |
 | 07:00 | GBP | Moderate | Business Investment (QoQ) (Q3) |  | -0.7% | -1.1% |
 | 07:00 | GBP | Low | Business Investment (YoY) (Q3) |  |  | 3.0% |
