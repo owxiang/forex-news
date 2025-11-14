@@ -15,7 +15,7 @@
 | 02:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Oct) | 3.31% |  | 3.48% |
 | 02:00 | CNY | Moderate | Chinese Unemployment Rate (Oct) | 5.1% | 5.2% | 5.2% |
 | 02:00 | CNY | Moderate | NBS Press Conference |  |  |  |
-| 21 min | JPY | Low | Tertiary Industry Activity Index (Sep) |  |  | -4.30 |
+| 04:30 | JPY | Low | Tertiary Industry Activity Index (Sep) | 5.00 |  | -3.90 |
 | 06:30 | INR | Low | WPI Food (YoY) (Oct) |  |  | -5.22% |
 | 06:30 | INR | Low | WPI Fuel (YoY) (Oct) |  |  | -2.58% |
 | 06:30 | INR | Moderate | WPI Inflation (YoY) (Oct) |  | -0.60% | 0.13% |
@@ -24,16 +24,16 @@
 | 07:15 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Oct) |  |  | 0.10% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Oct) |  |  | 1.00% |
-| 07:45 | EUR | Low | French CPI (YoY) (Oct) |  | 1.0% | 1.2% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Oct) |  | 0.1% | -1.0% |
+| 07:45 | EUR | Low | French CPI (YoY) (Oct) |  | 1.0% | 1.2% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Oct) |  | 0.1% | -1.1% |
 | 07:45 | EUR | Low | French HICP (YoY) (Oct) |  | 0.9% | 1.1% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Oct) |  |  | 1.10% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Oct) |  | 2.5% | 2.4% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Oct) |  | 0.7% | -0.3% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Oct) |  | 3.1% | 3.0% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Oct) |  | 0.5% | 0.2% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Oct) |  | 3.2% | 3.0% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Oct) |  | 0.5% | 0.2% |
 | 08:30 | HKD | Low | GDP (QoQ) (Q3) |  | 0.7% | 0.7% |
 | 08:30 | HKD | Low | GDP (YoY) (Q3) |  | 3.8% | 3.8% |
 | 08:40 | INR | Low | Exports (USD) (Oct) |  |  | 36.38B |
@@ -60,8 +60,6 @@
 | 12:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 237.50K |
 | 12:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q3) |  |  | 3.3% |
 | 13:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Oct) |  |  | 0.3% |
-| 13:00 | BRL | Low | Auto Production (MoM) (Oct) |  |  | -1.5% |
-| 13:00 | BRL | Low | Auto Sales (MoM) (Oct) |  |  | 7.9% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Sep) |  | 2.8% | -1.0% |
 | 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Sep) |  |  | 167.0K |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Sep) |  | 0.0% | -1.2% |
@@ -73,7 +71,7 @@
 | 15:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage |  | 34B | 33B |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 4.0% | 4.0% |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 414 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  | 415 | 414 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 548 |
 | 19:00 | USD | Moderate | Federal Budget Balance (Oct) |  | -215.3B | 198.0B |
 | 19:30 | USD | Low | Fed Logan Speaks |  |  |  |
