@@ -7,12 +7,12 @@
 | 02:00 | CNY | Chinese Industrial Production YTD (YoY) (Oct) | 6.1% |  | 6.2% |
 | 02:00 | CNY | Chinese Unemployment Rate (Oct) | 5.1% | 5.2% | 5.2% |
 | 02:00 | CNY | NBS Press Conference |  |  |  |
-| 19 min | INR | WPI Inflation (YoY) (Oct) |  | -0.60% | 0.13% |
-| 07:15 | EUR | German Buba Balz Speaks |  |  |  |
-| 07:45 | EUR | French CPI (MoM) (Oct) |  | 0.1% | -1.0% |
-| 07:45 | EUR | French HICP (MoM) (Oct) |  | 0.1% | -1.1% |
-| 08:00 | EUR | Spanish CPI (YoY) (Oct) |  | 3.1% | 3.0% |
-| 08:00 | EUR | Spanish HICP (YoY) (Oct) |  | 3.2% | 3.0% |
+| 06:30 | INR | WPI Inflation (YoY) (Oct) | -1.21% | -0.60% | 0.13% |
+| 7 min | EUR | German Buba Balz Speaks |  |  |  |
+| 37 min | EUR | French CPI (MoM) (Oct) |  | 0.1% | -1.0% |
+| 37 min | EUR | French HICP (MoM) (Oct) |  | 0.1% | -1.1% |
+| 52 min | EUR | Spanish CPI (YoY) (Oct) |  | 3.1% | 3.0% |
+| 52 min | EUR | Spanish HICP (YoY) (Oct) |  | 3.2% | 3.0% |
 | 10:00 | EUR | EU Economic Forecasts |  |  |  |
 | 10:00 | EUR | GDP (QoQ) (Q3) |  | 0.2% | 0.1% |
 | 10:00 | EUR | GDP (YoY) (Q3) |  | 1.3% | 1.5% |

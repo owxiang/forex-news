@@ -16,24 +16,23 @@
 | 02:00 | CNY | Moderate | Chinese Unemployment Rate (Oct) | 5.1% | 5.2% | 5.2% |
 | 02:00 | CNY | Moderate | NBS Press Conference |  |  |  |
 | 04:30 | JPY | Low | Tertiary Industry Activity Index (Sep) | 5.00 |  | -3.90 |
-| 19 min | INR | Low | WPI Food (YoY) (Oct) |  |  | -5.22% |
-| 19 min | INR | Low | WPI Fuel (YoY) (Oct) |  |  | -2.58% |
-| 19 min | INR | Moderate | WPI Inflation (YoY) (Oct) |  | -0.60% | 0.13% |
-| 19 min | INR | Low | WPI Manufacturing Inflation (YoY) (Oct) |  |  | 2.33% |
-| 49 min | CNY | Low | FDI (Oct) |  |  | -10.40% |
-| 07:15 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 07:45 | EUR | Low | French CPI NSA (MoM) (Oct) |  |  | 0.10% |
-| 07:45 | EUR | Low | French CPI NSA (YoY) (Oct) |  |  | 1.00% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Oct) |  | 0.1% | -1.0% |
-| 07:45 | EUR | Low | French CPI (YoY) (Oct) |  | 1.0% | 1.2% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Oct) |  | 0.1% | -1.1% |
-| 07:45 | EUR | Low | French HICP (YoY) (Oct) |  | 0.9% | 1.1% |
-| 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Oct) |  |  | 1.10% |
-| 08:00 | EUR | Low | Core CPI (YoY) (Oct) |  | 2.5% | 2.4% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Oct) |  | 0.7% | -0.3% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Oct) |  | 3.1% | 3.0% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Oct) |  | 3.2% | 3.0% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Oct) |  | 0.5% | 0.2% |
+| 06:30 | INR | Low | WPI Food (YoY) (Oct) | -8.31% |  | -5.22% |
+| 06:30 | INR | Low | WPI Fuel (YoY) (Oct) | -2.55% |  | -2.58% |
+| 06:30 | INR | Moderate | WPI Inflation (YoY) (Oct) | -1.21% | -0.60% | 0.13% |
+| 06:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Oct) | 1.54% |  | 2.33% |
+| 7 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 37 min | EUR | Low | French CPI NSA (MoM) (Oct) |  |  | 0.10% |
+| 37 min | EUR | Low | French CPI NSA (YoY) (Oct) |  |  | 1.00% |
+| 37 min | EUR | Moderate | French CPI (MoM) (Oct) |  | 0.1% | -1.0% |
+| 37 min | EUR | Low | French CPI (YoY) (Oct) |  | 1.0% | 1.2% |
+| 37 min | EUR | Moderate | French HICP (MoM) (Oct) |  | 0.1% | -1.1% |
+| 37 min | EUR | Low | French HICP (YoY) (Oct) |  | 0.9% | 1.1% |
+| 37 min | EUR | Low | France Inflation Ex-Tobacco (YoY) (Oct) |  |  | 1.10% |
+| 52 min | EUR | Low | Core CPI (YoY) (Oct) |  | 2.5% | 2.4% |
+| 52 min | EUR | Moderate | Spanish CPI (YoY) (Oct) |  | 3.1% | 3.0% |
+| 52 min | EUR | Low | Spanish CPI (MoM) (Oct) |  | 0.7% | -0.3% |
+| 52 min | EUR | Moderate | Spanish HICP (YoY) (Oct) |  | 3.2% | 3.0% |
+| 52 min | EUR | Low | Spanish HICP (MoM) (Oct) |  | 0.5% | 0.2% |
 | 08:30 | HKD | Low | GDP (QoQ) (Q3) |  | 0.7% | 0.7% |
 | 08:30 | HKD | Low | GDP (YoY) (Q3) |  | 3.8% | 3.8% |
 | 08:40 | INR | Low | Exports (USD) (Oct) |  |  | 36.38B |
@@ -42,6 +41,7 @@
 | 09:00 | EUR | Low | Italian Trade Balance (Sep) |  | 3.180B | 2.050B |
 | 09:00 | EUR | Low | Italian Trade Balance EU (Sep) |  |  | 0.17B |
 | 10:00 | EUR | Low | Spanish Consumer Confidence (Oct) |  |  | 81.5 |
+| 10:00 | CNY | Low | FDI (Oct) |  |  | -10.40% |
 | 10:00 | EUR | Low | Employment Change (QoQ) (Q3) |  | 0.1% | 0.1% |
 | 10:00 | EUR | Low | Employment Change (YoY) (Q3) |  |  | 0.6% |
 | 10:00 | EUR | Low | Employment Overall (Q3) |  |  | 169,778.7K |

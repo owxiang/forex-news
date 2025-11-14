@@ -11,18 +11,17 @@
 | 02:00 | CNY | Retail Sales (YoY) (Oct) | 2.9% | 2.7% | 3.0% |
 | 02:00 | CNY | Chinese Retail Sales YTD (YoY) (Oct) | 3.31% |  | 3.48% |
 | 04:30 | JPY | Tertiary Industry Activity Index (Sep) | 5.00 |  | -3.90 |
-| 19 min | INR | WPI Food (YoY) (Oct) |  |  | -5.22% |
-| 19 min | INR | WPI Fuel (YoY) (Oct) |  |  | -2.58% |
-| 19 min | INR | WPI Manufacturing Inflation (YoY) (Oct) |  |  | 2.33% |
-| 49 min | CNY | FDI (Oct) |  |  | -10.40% |
-| 07:45 | EUR | French CPI NSA (MoM) (Oct) |  |  | 0.10% |
-| 07:45 | EUR | French CPI NSA (YoY) (Oct) |  |  | 1.00% |
-| 07:45 | EUR | French CPI (YoY) (Oct) |  | 1.0% | 1.2% |
-| 07:45 | EUR | French HICP (YoY) (Oct) |  | 0.9% | 1.1% |
-| 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Oct) |  |  | 1.10% |
-| 08:00 | EUR | Core CPI (YoY) (Oct) |  | 2.5% | 2.4% |
-| 08:00 | EUR | Spanish CPI (MoM) (Oct) |  | 0.7% | -0.3% |
-| 08:00 | EUR | Spanish HICP (MoM) (Oct) |  | 0.5% | 0.2% |
+| 06:30 | INR | WPI Food (YoY) (Oct) | -8.31% |  | -5.22% |
+| 06:30 | INR | WPI Fuel (YoY) (Oct) | -2.55% |  | -2.58% |
+| 06:30 | INR | WPI Manufacturing Inflation (YoY) (Oct) | 1.54% |  | 2.33% |
+| 37 min | EUR | French CPI NSA (MoM) (Oct) |  |  | 0.10% |
+| 37 min | EUR | French CPI NSA (YoY) (Oct) |  |  | 1.00% |
+| 37 min | EUR | French CPI (YoY) (Oct) |  | 1.0% | 1.2% |
+| 37 min | EUR | French HICP (YoY) (Oct) |  | 0.9% | 1.1% |
+| 37 min | EUR | France Inflation Ex-Tobacco (YoY) (Oct) |  |  | 1.10% |
+| 52 min | EUR | Core CPI (YoY) (Oct) |  | 2.5% | 2.4% |
+| 52 min | EUR | Spanish CPI (MoM) (Oct) |  | 0.7% | -0.3% |
+| 52 min | EUR | Spanish HICP (MoM) (Oct) |  | 0.5% | 0.2% |
 | 08:30 | HKD | GDP (QoQ) (Q3) |  | 0.7% | 0.7% |
 | 08:30 | HKD | GDP (YoY) (Q3) |  | 3.8% | 3.8% |
 | 08:40 | INR | Exports (USD) (Oct) |  |  | 36.38B |
@@ -31,6 +30,7 @@
 | 09:00 | EUR | Italian Trade Balance (Sep) |  | 3.180B | 2.050B |
 | 09:00 | EUR | Italian Trade Balance EU (Sep) |  |  | 0.17B |
 | 10:00 | EUR | Spanish Consumer Confidence (Oct) |  |  | 81.5 |
+| 10:00 | CNY | FDI (Oct) |  |  | -10.40% |
 | 10:00 | EUR | Employment Change (QoQ) (Q3) |  | 0.1% | 0.1% |
 | 10:00 | EUR | Employment Change (YoY) (Q3) |  |  | 0.6% |
 | 10:00 | EUR | Employment Overall (Q3) |  |  | 169,778.7K |
