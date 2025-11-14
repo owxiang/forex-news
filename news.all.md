@@ -15,7 +15,7 @@
 | 02:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Oct) | 3.31% |  | 3.48% |
 | 02:00 | CNY | Moderate | Chinese Unemployment Rate (Oct) | 5.1% | 5.2% | 5.2% |
 | 02:00 | CNY | Moderate | NBS Press Conference |  |  |  |
-| 04:30 | JPY | Low | Tertiary Industry Activity Index (Sep) |  |  | -4.30 |
+| 21 min | JPY | Low | Tertiary Industry Activity Index (Sep) |  |  | -4.30 |
 | 06:30 | INR | Low | WPI Food (YoY) (Oct) |  |  | -5.22% |
 | 06:30 | INR | Low | WPI Fuel (YoY) (Oct) |  |  | -2.58% |
 | 06:30 | INR | Moderate | WPI Inflation (YoY) (Oct) |  | -0.60% | 0.13% |

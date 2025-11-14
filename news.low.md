@@ -10,7 +10,7 @@
 | 02:00 | CNY | China Thomson Reuters IPSOS PCSI (Nov) | 72.55 |  | 74.19 |
 | 02:00 | CNY | Retail Sales (YoY) (Oct) | 2.9% | 2.7% | 3.0% |
 | 02:00 | CNY | Chinese Retail Sales YTD (YoY) (Oct) | 3.31% |  | 3.48% |
-| 04:30 | JPY | Tertiary Industry Activity Index (Sep) |  |  | -4.30 |
+| 21 min | JPY | Tertiary Industry Activity Index (Sep) |  |  | -4.30 |
 | 06:30 | INR | WPI Food (YoY) (Oct) |  |  | -5.22% |
 | 06:30 | INR | WPI Fuel (YoY) (Oct) |  |  | -2.58% |
 | 06:30 | INR | WPI Manufacturing Inflation (YoY) (Oct) |  |  | 2.33% |
