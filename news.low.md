@@ -2,14 +2,14 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 59 min | CNY | House Prices (YoY) (Oct) |  |  | -2.2% |
-| 02:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 48.96 |
-| 02:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 58.44 |
-| 02:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 51.80 |
-| 02:00 | JPY | Thomson Reuters IPSOS PCSI (Nov) |  |  | 35.21 |
-| 02:00 | CNY | China Thomson Reuters IPSOS PCSI (Nov) |  |  | 74.19 |
-| 02:00 | CNY | Retail Sales (YoY) (Oct) |  | 2.7% | 3.0% |
-| 02:00 | CNY | Chinese Retail Sales YTD (YoY) (Oct) |  |  | 3.48% |
+| 01:30 | CNY | House Prices (YoY) (Oct) | -2.2% |  | -2.2% |
+| 25 min | KRW | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 48.96 |
+| 25 min | INR | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 58.44 |
+| 25 min | AUD | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 51.80 |
+| 25 min | JPY | Thomson Reuters IPSOS PCSI (Nov) |  |  | 35.21 |
+| 25 min | CNY | China Thomson Reuters IPSOS PCSI (Nov) |  |  | 74.19 |
+| 25 min | CNY | Retail Sales (YoY) (Oct) |  | 2.7% | 3.0% |
+| 25 min | CNY | Chinese Retail Sales YTD (YoY) (Oct) |  |  | 3.48% |
 | 04:30 | JPY | Tertiary Industry Activity Index (Sep) |  |  | -4.30 |
 | 06:30 | INR | WPI Food (YoY) (Oct) |  |  | -5.22% |
 | 06:30 | INR | WPI Fuel (YoY) (Oct) |  |  | -2.58% |

@@ -2,19 +2,19 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 59 min | CNY | Low | House Prices (YoY) (Oct) |  |  | -2.2% |
-| 02:00 | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 48.96 |
-| 02:00 | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 58.44 |
-| 02:00 | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 51.80 |
-| 02:00 | JPY | Low | Thomson Reuters IPSOS PCSI (Nov) |  |  | 35.21 |
-| 02:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Nov) |  |  | 74.19 |
-| 02:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Oct) |  | -0.9% | -0.5% |
-| 02:00 | CNY | Moderate | Industrial Production (YoY) (Oct) |  | 5.5% | 6.5% |
-| 02:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Oct) |  |  | 6.2% |
-| 02:00 | CNY | Low | Retail Sales (YoY) (Oct) |  | 2.7% | 3.0% |
-| 02:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Oct) |  |  | 3.48% |
-| 02:00 | CNY | Moderate | Chinese Unemployment Rate (Oct) |  | 5.2% | 5.2% |
-| 02:00 | CNY | Moderate | NBS Press Conference |  |  |  |
+| 01:30 | CNY | Low | House Prices (YoY) (Oct) | -2.2% |  | -2.2% |
+| 25 min | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 48.96 |
+| 25 min | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 58.44 |
+| 25 min | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 51.80 |
+| 25 min | JPY | Low | Thomson Reuters IPSOS PCSI (Nov) |  |  | 35.21 |
+| 25 min | CNY | Low | China Thomson Reuters IPSOS PCSI (Nov) |  |  | 74.19 |
+| 25 min | CNY | Moderate | Fixed Asset Investment (YoY) (Oct) |  | -0.9% | -0.5% |
+| 25 min | CNY | Moderate | Industrial Production (YoY) (Oct) |  | 5.5% | 6.5% |
+| 25 min | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Oct) |  |  | 6.2% |
+| 25 min | CNY | Low | Retail Sales (YoY) (Oct) |  | 2.7% | 3.0% |
+| 25 min | CNY | Low | Chinese Retail Sales YTD (YoY) (Oct) |  |  | 3.48% |
+| 25 min | CNY | Moderate | Chinese Unemployment Rate (Oct) |  | 5.2% | 5.2% |
+| 25 min | CNY | Moderate | NBS Press Conference |  |  |  |
 | 04:30 | JPY | Low | Tertiary Industry Activity Index (Sep) |  |  | -4.30 |
 | 06:30 | INR | Low | WPI Food (YoY) (Oct) |  |  | -5.22% |
 | 06:30 | INR | Low | WPI Fuel (YoY) (Oct) |  |  | -2.58% |

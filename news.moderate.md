@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | CNY | Fixed Asset Investment (YoY) (Oct) |  | -0.9% | -0.5% |
-| 02:00 | CNY | Industrial Production (YoY) (Oct) |  | 5.5% | 6.5% |
-| 02:00 | CNY | Chinese Industrial Production YTD (YoY) (Oct) |  |  | 6.2% |
-| 02:00 | CNY | Chinese Unemployment Rate (Oct) |  | 5.2% | 5.2% |
-| 02:00 | CNY | NBS Press Conference |  |  |  |
+| 25 min | CNY | Fixed Asset Investment (YoY) (Oct) |  | -0.9% | -0.5% |
+| 25 min | CNY | Industrial Production (YoY) (Oct) |  | 5.5% | 6.5% |
+| 25 min | CNY | Chinese Industrial Production YTD (YoY) (Oct) |  |  | 6.2% |
+| 25 min | CNY | Chinese Unemployment Rate (Oct) |  | 5.2% | 5.2% |
+| 25 min | CNY | NBS Press Conference |  |  |  |
 | 06:30 | INR | WPI Inflation (YoY) (Oct) |  | -0.60% | 0.13% |
 | 07:15 | EUR | German Buba Balz Speaks |  |  |  |
 | 07:45 | EUR | French CPI (MoM) (Oct) |  | 0.1% | -1.0% |
