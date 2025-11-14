@@ -17,11 +17,8 @@
 | 10:00 | EUR | GDP (QoQ) (Q3) | 0.2% | 0.2% | 0.1% |
 | 10:00 | EUR | GDP (YoY) (Q3) | 1.4% | 1.3% | 1.5% |
 | 10:00 | EUR | Trade Balance (Sep) | 19.4B |  | 1.9B |
-| 22 min | EUR | ECB's Elderson Speaks |  |  |  |
-| 52 min | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 12:30 | USD | Continuing Jobless Claims |  |  | 1,926K |
-| 12:30 | USD | Nonfarm Productivity (QoQ) (Q3) |  |  | 3.3% |
-| 13:00 | GBP | NIESR Monthly GDP Tracker (Oct) |  |  | 0.3% |
+| 10:30 | EUR | ECB's Elderson Speaks |  |  |  |
+| 11:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 13:30 | CAD | Wholesale Sales (MoM) (Sep) |  | 0.0% | -1.2% |
 | 13:30 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 13:30 | EUR | ECB's Elderson Speaks |  |  |  |
