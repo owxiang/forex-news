@@ -51,14 +51,11 @@
 | 11:30 | INR | Low | Bank Loan Growth | 11.3% |  | 11.5% |
 | 11:30 | INR | Low | Deposit Growth | 9.7% |  | 9.5% |
 | 11:30 | INR | Low | FX Reserves, USD | 687.03B |  | 689.73B |
-| 47 min | INR | Low | Exports (USD) (Oct) |  |  | 36.38B |
-| 47 min | INR | Low | Imports (USD) (Oct) |  |  | 68.53B |
-| 47 min | INR | Low | Trade Balance (Oct) |  | -29.40B | -32.15B |
-| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Sep) |  | 2.8% | -1.0% |
-| 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Sep) |  |  | 167.0K |
-| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Sep) |  | 0.0% | -1.2% |
-| 13:30 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 13:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 15 min | CAD | Low | Manufacturing Sales (MoM) (Sep) |  | 2.8% | -1.0% |
+| 15 min | CAD | Low | New Motor Vehicle Sales (MoM) (Sep) |  |  | 167.0K |
+| 15 min | CAD | Moderate | Wholesale Sales (MoM) (Sep) |  | 0.0% | -1.2% |
+| 15 min | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 15 min | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 14:20 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (Aug) |  |  | -0.2% |
 | 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.4% |
