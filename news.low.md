@@ -11,10 +11,10 @@
 | 02:00 | CNY | Retail Sales (YoY) (Oct) | 2.9% | 2.7% | 3.0% |
 | 02:00 | CNY | Chinese Retail Sales YTD (YoY) (Oct) | 3.31% |  | 3.48% |
 | 04:30 | JPY | Tertiary Industry Activity Index (Sep) | 5.00 |  | -3.90 |
-| 06:30 | INR | WPI Food (YoY) (Oct) |  |  | -5.22% |
-| 06:30 | INR | WPI Fuel (YoY) (Oct) |  |  | -2.58% |
-| 06:30 | INR | WPI Manufacturing Inflation (YoY) (Oct) |  |  | 2.33% |
-| 07:00 | CNY | FDI (Oct) |  |  | -10.40% |
+| 19 min | INR | WPI Food (YoY) (Oct) |  |  | -5.22% |
+| 19 min | INR | WPI Fuel (YoY) (Oct) |  |  | -2.58% |
+| 19 min | INR | WPI Manufacturing Inflation (YoY) (Oct) |  |  | 2.33% |
+| 49 min | CNY | FDI (Oct) |  |  | -10.40% |
 | 07:45 | EUR | French CPI NSA (MoM) (Oct) |  |  | 0.10% |
 | 07:45 | EUR | French CPI NSA (YoY) (Oct) |  |  | 1.00% |
 | 07:45 | EUR | French CPI (YoY) (Oct) |  | 1.0% | 1.2% |

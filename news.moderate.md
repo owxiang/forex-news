@@ -7,7 +7,7 @@
 | 02:00 | CNY | Chinese Industrial Production YTD (YoY) (Oct) | 6.1% |  | 6.2% |
 | 02:00 | CNY | Chinese Unemployment Rate (Oct) | 5.1% | 5.2% | 5.2% |
 | 02:00 | CNY | NBS Press Conference |  |  |  |
-| 06:30 | INR | WPI Inflation (YoY) (Oct) |  | -0.60% | 0.13% |
+| 19 min | INR | WPI Inflation (YoY) (Oct) |  | -0.60% | 0.13% |
 | 07:15 | EUR | German Buba Balz Speaks |  |  |  |
 | 07:45 | EUR | French CPI (MoM) (Oct) |  | 0.1% | -1.0% |
 | 07:45 | EUR | French HICP (MoM) (Oct) |  | 0.1% | -1.1% |

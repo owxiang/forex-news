@@ -16,11 +16,11 @@
 | 02:00 | CNY | Moderate | Chinese Unemployment Rate (Oct) | 5.1% | 5.2% | 5.2% |
 | 02:00 | CNY | Moderate | NBS Press Conference |  |  |  |
 | 04:30 | JPY | Low | Tertiary Industry Activity Index (Sep) | 5.00 |  | -3.90 |
-| 06:30 | INR | Low | WPI Food (YoY) (Oct) |  |  | -5.22% |
-| 06:30 | INR | Low | WPI Fuel (YoY) (Oct) |  |  | -2.58% |
-| 06:30 | INR | Moderate | WPI Inflation (YoY) (Oct) |  | -0.60% | 0.13% |
-| 06:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Oct) |  |  | 2.33% |
-| 07:00 | CNY | Low | FDI (Oct) |  |  | -10.40% |
+| 19 min | INR | Low | WPI Food (YoY) (Oct) |  |  | -5.22% |
+| 19 min | INR | Low | WPI Fuel (YoY) (Oct) |  |  | -2.58% |
+| 19 min | INR | Moderate | WPI Inflation (YoY) (Oct) |  | -0.60% | 0.13% |
+| 19 min | INR | Low | WPI Manufacturing Inflation (YoY) (Oct) |  |  | 2.33% |
+| 49 min | CNY | Low | FDI (Oct) |  |  | -10.40% |
 | 07:15 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Oct) |  |  | 0.10% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Oct) |  |  | 1.00% |
