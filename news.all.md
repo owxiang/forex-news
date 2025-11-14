@@ -21,20 +21,20 @@
 | 06:30 | INR | Moderate | WPI Inflation (YoY) (Oct) | -1.21% | -0.60% | 0.13% |
 | 06:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Oct) | 1.54% |  | 2.33% |
 | 07:15 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 07:45 | EUR | Low | French CPI NSA (MoM) (Oct) | 0.10% |  | 0.10% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Oct) | 0.90% |  | 1.00% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Oct) | 0.1% | 0.1% | -1.0% |
+| 07:45 | EUR | Low | French CPI NSA (MoM) (Oct) | 0.10% |  | 0.10% |
 | 07:45 | EUR | Low | French CPI (YoY) (Oct) | 0.9% | 1.0% | 1.2% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Oct) | 0.1% | 0.1% | -1.0% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Oct) | 0.1% | 0.1% | -1.1% |
 | 07:45 | EUR | Low | French HICP (YoY) (Oct) | 0.8% | 0.9% | 1.1% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Oct) | 0.90% |  | 1.10% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Oct) | 2.5% | 2.5% | 2.4% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Oct) | 3.1% | 3.1% | 3.0% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Oct) | 0.7% | 0.7% | -0.3% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Oct) | 3.1% | 3.1% | 3.0% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Oct) | 0.5% | 0.5% | 0.2% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Oct) | 3.2% | 3.2% | 3.0% |
-| 08:30 | HKD | Low | GDP (QoQ) (Q3) | 0.7% | 0.7% | 0.7% |
 | 08:30 | HKD | Low | GDP (YoY) (Q3) | 3.8% | 3.8% | 3.8% |
+| 08:30 | HKD | Low | GDP (QoQ) (Q3) | 0.7% | 0.7% | 0.7% |
 | 09:00 | EUR | Low | Italian Trade Balance (Sep) | 2.852B | 3.180B | 1.875B |
 | 09:00 | EUR | Low | Italian Trade Balance EU (Sep) | -0.04B |  | -0.00B |
 | 10:00 | EUR | Low | Employment Change (QoQ) (Q3) | 0.1% | 0.1% | 0.1% |
@@ -46,15 +46,14 @@
 | 10:00 | EUR | Moderate | Trade Balance (Sep) | 19.4B |  | 1.9B |
 | 10:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 11:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 11:00 | EUR | Low | Spanish Consumer Confidence (Oct) |  |  | 81.5 |
 | 11:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Nov) | 0.2% |  | 0.1% |
 | 11:00 | EUR | Low | Reserve Assets Total (Oct) | 1,709.78B |  | 1,622.22B |
-| 23 min | INR | Low | Bank Loan Growth |  |  | 11.5% |
-| 23 min | INR | Low | Deposit Growth |  |  | 9.5% |
-| 23 min | INR | Low | FX Reserves, USD |  |  | 689.73B |
-| 33 min | INR | Low | Exports (USD) (Oct) |  |  | 36.38B |
-| 33 min | INR | Low | Imports (USD) (Oct) |  |  | 68.53B |
-| 33 min | INR | Low | Trade Balance (Oct) |  | -29.40B | -32.15B |
+| 11:30 | INR | Low | Bank Loan Growth | 11.3% |  | 11.5% |
+| 11:30 | INR | Low | Deposit Growth | 9.7% |  | 9.5% |
+| 11:30 | INR | Low | FX Reserves, USD | 687.03B |  | 689.73B |
+| 47 min | INR | Low | Exports (USD) (Oct) |  |  | 36.38B |
+| 47 min | INR | Low | Imports (USD) (Oct) |  |  | 68.53B |
+| 47 min | INR | Low | Trade Balance (Oct) |  | -29.40B | -32.15B |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Sep) |  | 2.8% | -1.0% |
 | 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Sep) |  |  | 167.0K |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Sep) |  | 0.0% | -1.2% |
