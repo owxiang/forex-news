@@ -14,29 +14,31 @@
 | 06:30 | INR | WPI Food (YoY) (Oct) | -8.31% |  | -5.22% |
 | 06:30 | INR | WPI Fuel (YoY) (Oct) | -2.55% |  | -2.58% |
 | 06:30 | INR | WPI Manufacturing Inflation (YoY) (Oct) | 1.54% |  | 2.33% |
+| 07:45 | EUR | French CPI NSA (MoM) (Oct) | 0.10% |  | 0.10% |
+| 07:45 | EUR | French CPI NSA (YoY) (Oct) | 0.90% |  | 1.00% |
 | 07:45 | EUR | French CPI (YoY) (Oct) | 0.9% | 1.0% | 1.2% |
 | 07:45 | EUR | French HICP (YoY) (Oct) | 0.8% | 0.9% | 1.1% |
+| 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Oct) | 0.90% |  | 1.10% |
 | 08:00 | EUR | Core CPI (YoY) (Oct) | 2.5% | 2.5% | 2.4% |
 | 08:00 | EUR | Spanish CPI (MoM) (Oct) | 0.7% | 0.7% | -0.3% |
 | 08:00 | EUR | Spanish HICP (MoM) (Oct) | 0.5% | 0.5% | 0.2% |
-| 21 min | HKD | GDP (QoQ) (Q3) |  | 0.7% | 0.7% |
-| 21 min | HKD | GDP (YoY) (Q3) |  | 3.8% | 3.8% |
-| 31 min | INR | Exports (USD) (Oct) |  |  | 36.38B |
-| 31 min | INR | Imports (USD) (Oct) |  |  | 68.53B |
-| 31 min | INR | Trade Balance (Oct) |  | -29.40B | -32.15B |
-| 36 min | EUR | France Inflation Ex-Tobacco (YoY) (Oct) |  |  | 1.10% |
-| 51 min | EUR | Italian Trade Balance (Sep) |  | 3.180B | 2.050B |
-| 51 min | EUR | Italian Trade Balance EU (Sep) |  |  | 0.17B |
-| 10:00 | EUR | Spanish Consumer Confidence (Oct) |  |  | 81.5 |
-| 10:00 | CNY | FDI (Oct) |  |  | -10.40% |
-| 10:00 | EUR | Employment Change (QoQ) (Q3) |  | 0.1% | 0.1% |
-| 10:00 | EUR | Employment Change (YoY) (Q3) |  |  | 0.6% |
-| 10:00 | EUR | Employment Overall (Q3) |  |  | 169,778.7K |
+| 08:30 | HKD | GDP (QoQ) (Q3) | 0.7% | 0.7% | 0.7% |
+| 08:30 | HKD | GDP (YoY) (Q3) | 3.8% | 3.8% | 3.8% |
+| 09:00 | EUR | Italian Trade Balance (Sep) | 2.852B | 3.180B | 1.875B |
+| 09:00 | EUR | Italian Trade Balance EU (Sep) | -0.04B |  | -0.00B |
+| 52 min | EUR | Spanish Consumer Confidence (Oct) |  |  | 81.5 |
+| 52 min | CNY | FDI (Oct) |  |  | -10.40% |
+| 52 min | EUR | Employment Change (QoQ) (Q3) |  | 0.1% | 0.1% |
+| 52 min | EUR | Employment Change (YoY) (Q3) |  |  | 0.6% |
+| 52 min | EUR | Employment Overall (Q3) |  |  | 169,778.7K |
 | 11:00 | BRL | IGP-10 Inflation Index (MoM) (Nov) |  |  | 0.1% |
 | 11:00 | EUR | Reserve Assets Total (Oct) |  |  | 1,622.22B |
 | 11:30 | INR | Bank Loan Growth |  |  | 11.5% |
 | 11:30 | INR | Deposit Growth |  |  | 9.5% |
 | 11:30 | INR | FX Reserves, USD |  |  | 689.73B |
+| 11:40 | INR | Exports (USD) (Oct) |  |  | 36.38B |
+| 11:40 | INR | Imports (USD) (Oct) |  |  | 68.53B |
+| 11:40 | INR | Trade Balance (Oct) |  | -29.40B | -32.15B |
 | 12:30 | USD | Jobless Claims 4-Week Avg. |  |  | 237.50K |
 | 13:30 | CAD | Manufacturing Sales (MoM) (Sep) |  | 2.8% | -1.0% |
 | 13:30 | CAD | New Motor Vehicle Sales (MoM) (Sep) |  |  | 167.0K |
