@@ -60,8 +60,8 @@
 | 15:30 | USD | Low | Natural Gas Storage | 45B | 34B | 33B |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 417 | 415 | 414 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 549 |  | 548 |
-| 50 min | USD | Moderate | Federal Budget Balance (Oct) |  | -215.3B | 198.0B |
-| 19:30 | USD | Low | Fed Logan Speaks |  |  |  |
+| 19:00 | USD | Moderate | Federal Budget Balance (Oct) |  | -215.3B | 198.0B |
+| 23 min | USD | Low | Fed Logan Speaks |  |  |  |
 | 20:20 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -2.0K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 0.7K |

@@ -26,7 +26,7 @@
 | 15:00 | EUR | ECB's Lane Speaks |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 417 | 415 | 414 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count | 549 |  | 548 |
-| 50 min | USD | Federal Budget Balance (Oct) |  | -215.3B | 198.0B |
+| 19:00 | USD | Federal Budget Balance (Oct) |  | -215.3B | 198.0B |
 | 20:20 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -2.0K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 103.0K |
