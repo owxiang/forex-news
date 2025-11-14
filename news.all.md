@@ -29,8 +29,8 @@
 | 07:45 | EUR | Moderate | French HICP (MoM) (Oct) | 0.1% | 0.1% | -1.1% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Oct) | 0.90% |  | 1.10% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Oct) | 2.5% | 2.5% | 2.4% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Oct) | 0.7% | 0.7% | -0.3% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Oct) | 3.1% | 3.1% | 3.0% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Oct) | 0.7% | 0.7% | -0.3% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Oct) | 0.5% | 0.5% | 0.2% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Oct) | 3.2% | 3.2% | 3.0% |
 | 08:30 | HKD | Low | GDP (QoQ) (Q3) | 0.7% | 0.7% | 0.7% |
@@ -58,10 +58,9 @@
 | 14:20 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 15:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage | 45B | 34B | 33B |
-| 53 min | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 4.0% | 4.0% |
-| 53 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  | 415 | 414 |
-| 53 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 548 |
-| 19:00 | USD | Moderate | Federal Budget Balance (Oct) |  | -215.3B | 198.0B |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 417 | 415 | 414 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 549 |  | 548 |
+| 50 min | USD | Moderate | Federal Budget Balance (Oct) |  | -215.3B | 198.0B |
 | 19:30 | USD | Low | Fed Logan Speaks |  |  |  |
 | 20:20 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -2.0K |
