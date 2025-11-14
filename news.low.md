@@ -35,7 +35,7 @@
 | 11:30 | INR | Deposit Growth | 9.7% |  | 9.5% |
 | 11:30 | INR | FX Reserves, USD | 687.03B |  | 689.73B |
 | 13:30 | CAD | Manufacturing Sales (MoM) (Sep) | 3.3% | 2.8% | -1.1% |
-| 22 min | USD | Natural Gas Storage |  | 34B | 33B |
+| 15:30 | USD | Natural Gas Storage | 45B | 34B | 33B |
 | 19:30 | USD | Fed Logan Speaks |  |  |  |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.7K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 30.2K |

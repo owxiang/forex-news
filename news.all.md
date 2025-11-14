@@ -57,8 +57,8 @@
 | 13:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 14:20 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 15:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 22 min | USD | Low | Natural Gas Storage |  | 34B | 33B |
-| 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 4.0% | 4.0% |
+| 15:30 | USD | Low | Natural Gas Storage | 45B | 34B | 33B |
+| 52 min | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 4.0% | 4.0% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  | 415 | 414 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 548 |
 | 19:00 | USD | Moderate | Federal Budget Balance (Oct) |  | -215.3B | 198.0B |

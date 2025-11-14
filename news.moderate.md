@@ -24,7 +24,7 @@
 | 13:30 | EUR | ECB's Elderson Speaks |  |  |  |
 | 14:20 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 15:00 | EUR | ECB's Lane Speaks |  |  |  |
-| 17:00 | USD | Atlanta Fed GDPNow (Q4) |  | 4.0% | 4.0% |
+| 52 min | USD | Atlanta Fed GDPNow (Q4) |  | 4.0% | 4.0% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  | 415 | 414 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 548 |
 | 19:00 | USD | Federal Budget Balance (Oct) |  | -215.3B | 198.0B |
