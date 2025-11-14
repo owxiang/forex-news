@@ -19,11 +19,11 @@
 | 10:00 | EUR | Trade Balance (Sep) | 19.4B |  | 1.9B |
 | 10:30 | EUR | ECB's Elderson Speaks |  |  |  |
 | 11:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 15 min | CAD | Wholesale Sales (MoM) (Sep) |  | 0.0% | -1.2% |
-| 15 min | EUR | German Buba Mauderer Speaks |  |  |  |
-| 15 min | EUR | ECB's Elderson Speaks |  |  |  |
-| 14:20 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 15:00 | EUR | ECB's Lane Speaks |  |  |  |
+| 13:30 | CAD | Wholesale Sales (MoM) (Sep) | 0.6% | 0.0% | -1.0% |
+| 13:30 | EUR | German Buba Mauderer Speaks |  |  |  |
+| 13:30 | EUR | ECB's Elderson Speaks |  |  |  |
+| 13 min | USD | FOMC Member Bostic Speaks |  |  |  |
+| 53 min | EUR | ECB's Lane Speaks |  |  |  |
 | 17:00 | USD | Atlanta Fed GDPNow (Q4) |  | 4.0% | 4.0% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  | 415 | 414 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 548 |

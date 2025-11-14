@@ -34,10 +34,9 @@
 | 11:30 | INR | Bank Loan Growth | 11.3% |  | 11.5% |
 | 11:30 | INR | Deposit Growth | 9.7% |  | 9.5% |
 | 11:30 | INR | FX Reserves, USD | 687.03B |  | 689.73B |
-| 15 min | CAD | Manufacturing Sales (MoM) (Sep) |  | 2.8% | -1.0% |
-| 15 min | CAD | New Motor Vehicle Sales (MoM) (Sep) |  |  | 167.0K |
-| 15:00 | USD | Wholesale Inventories (MoM) (Aug) |  |  | -0.2% |
-| 15:00 | USD | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.4% |
+| 13:30 | CAD | Manufacturing Sales (MoM) (Sep) | 3.3% | 2.8% | -1.1% |
+| 53 min | USD | Wholesale Inventories (MoM) (Aug) |  |  | -0.2% |
+| 53 min | USD | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.4% |
 | 15:30 | USD | Natural Gas Storage |  | 34B | 33B |
 | 19:30 | USD | Fed Logan Speaks |  |  |  |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.7K |

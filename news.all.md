@@ -51,15 +51,14 @@
 | 11:30 | INR | Low | Bank Loan Growth | 11.3% |  | 11.5% |
 | 11:30 | INR | Low | Deposit Growth | 9.7% |  | 9.5% |
 | 11:30 | INR | Low | FX Reserves, USD | 687.03B |  | 689.73B |
-| 15 min | CAD | Low | Manufacturing Sales (MoM) (Sep) |  | 2.8% | -1.0% |
-| 15 min | CAD | Low | New Motor Vehicle Sales (MoM) (Sep) |  |  | 167.0K |
-| 15 min | CAD | Moderate | Wholesale Sales (MoM) (Sep) |  | 0.0% | -1.2% |
-| 15 min | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 15 min | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 14:20 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 15:00 | USD | Low | Wholesale Inventories (MoM) (Aug) |  |  | -0.2% |
-| 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.4% |
-| 15:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Sep) | 3.3% | 2.8% | -1.1% |
+| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Sep) | 0.6% | 0.0% | -1.0% |
+| 13:30 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 13:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 13 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 53 min | USD | Low | Wholesale Inventories (MoM) (Aug) |  |  | -0.2% |
+| 53 min | USD | Low | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.4% |
+| 53 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage |  | 34B | 33B |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 4.0% | 4.0% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  | 415 | 414 |
