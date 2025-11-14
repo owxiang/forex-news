@@ -13,12 +13,12 @@
 | 07:45 | EUR | French HICP (MoM) (Oct) | 0.1% | 0.1% | -1.1% |
 | 08:00 | EUR | Spanish CPI (YoY) (Oct) | 3.1% | 3.1% | 3.0% |
 | 08:00 | EUR | Spanish HICP (YoY) (Oct) | 3.2% | 3.2% | 3.0% |
-| 52 min | EUR | EU Economic Forecasts |  |  |  |
-| 52 min | EUR | GDP (QoQ) (Q3) |  | 0.2% | 0.1% |
-| 52 min | EUR | GDP (YoY) (Q3) |  | 1.3% | 1.5% |
-| 52 min | EUR | Trade Balance (Sep) |  |  | 1.0B |
-| 10:30 | EUR | ECB's Elderson Speaks |  |  |  |
-| 11:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 10:00 | EUR | EU Economic Forecasts |  |  |  |
+| 10:00 | EUR | GDP (QoQ) (Q3) | 0.2% | 0.2% | 0.1% |
+| 10:00 | EUR | GDP (YoY) (Q3) | 1.4% | 1.3% | 1.5% |
+| 10:00 | EUR | Trade Balance (Sep) | 19.4B |  | 1.9B |
+| 22 min | EUR | ECB's Elderson Speaks |  |  |  |
+| 52 min | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 12:30 | USD | Continuing Jobless Claims |  |  | 1,926K |
 | 12:30 | USD | Nonfarm Productivity (QoQ) (Q3) |  |  | 3.3% |
 | 13:00 | GBP | NIESR Monthly GDP Tracker (Oct) |  |  | 0.3% |
