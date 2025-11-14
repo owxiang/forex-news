@@ -23,26 +23,26 @@
 | 07:15 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Oct) | 0.90% |  | 1.00% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Oct) | 0.10% |  | 0.10% |
-| 07:45 | EUR | Low | French CPI (YoY) (Oct) | 0.9% | 1.0% | 1.2% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Oct) | 0.1% | 0.1% | -1.0% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Oct) | 0.1% | 0.1% | -1.1% |
+| 07:45 | EUR | Low | French CPI (YoY) (Oct) | 0.9% | 1.0% | 1.2% |
 | 07:45 | EUR | Low | French HICP (YoY) (Oct) | 0.8% | 0.9% | 1.1% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Oct) | 0.1% | 0.1% | -1.1% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Oct) | 0.90% |  | 1.10% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Oct) | 2.5% | 2.5% | 2.4% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Oct) | 0.7% | 0.7% | -0.3% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Oct) | 3.1% | 3.1% | 3.0% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Oct) | 0.5% | 0.5% | 0.2% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Oct) | 3.2% | 3.2% | 3.0% |
-| 08:30 | HKD | Low | GDP (YoY) (Q3) | 3.8% | 3.8% | 3.8% |
 | 08:30 | HKD | Low | GDP (QoQ) (Q3) | 0.7% | 0.7% | 0.7% |
+| 08:30 | HKD | Low | GDP (YoY) (Q3) | 3.8% | 3.8% | 3.8% |
 | 09:00 | EUR | Low | Italian Trade Balance (Sep) | 2.852B | 3.180B | 1.875B |
 | 09:00 | EUR | Low | Italian Trade Balance EU (Sep) | -0.04B |  | -0.00B |
 | 10:00 | EUR | Low | Employment Change (QoQ) (Q3) | 0.1% | 0.1% | 0.1% |
 | 10:00 | EUR | Low | Employment Change (YoY) (Q3) | 0.5% |  | 0.6% |
 | 10:00 | EUR | Low | Employment Overall (Q3) | 170,278.9K |  | 170,072.0K |
 | 10:00 | EUR | Moderate | EU Economic Forecasts |  |  |  |
-| 10:00 | EUR | Moderate | GDP (QoQ) (Q3) | 0.2% | 0.2% | 0.1% |
 | 10:00 | EUR | Moderate | GDP (YoY) (Q3) | 1.4% | 1.3% | 1.5% |
+| 10:00 | EUR | Moderate | GDP (QoQ) (Q3) | 0.2% | 0.2% | 0.1% |
 | 10:00 | EUR | Moderate | Trade Balance (Sep) | 19.4B |  | 1.9B |
 | 10:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 11:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
@@ -55,11 +55,9 @@
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Sep) | 0.6% | 0.0% | -1.0% |
 | 13:30 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 13:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 13 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 53 min | USD | Low | Wholesale Inventories (MoM) (Aug) |  |  | -0.2% |
-| 53 min | USD | Low | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.4% |
-| 53 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 15:30 | USD | Low | Natural Gas Storage |  | 34B | 33B |
+| 14:20 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 15:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 22 min | USD | Low | Natural Gas Storage |  | 34B | 33B |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 4.0% | 4.0% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  | 415 | 414 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 548 |

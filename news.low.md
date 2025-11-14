@@ -22,8 +22,8 @@
 | 08:00 | EUR | Core CPI (YoY) (Oct) | 2.5% | 2.5% | 2.4% |
 | 08:00 | EUR | Spanish CPI (MoM) (Oct) | 0.7% | 0.7% | -0.3% |
 | 08:00 | EUR | Spanish HICP (MoM) (Oct) | 0.5% | 0.5% | 0.2% |
-| 08:30 | HKD | GDP (YoY) (Q3) | 3.8% | 3.8% | 3.8% |
 | 08:30 | HKD | GDP (QoQ) (Q3) | 0.7% | 0.7% | 0.7% |
+| 08:30 | HKD | GDP (YoY) (Q3) | 3.8% | 3.8% | 3.8% |
 | 09:00 | EUR | Italian Trade Balance (Sep) | 2.852B | 3.180B | 1.875B |
 | 09:00 | EUR | Italian Trade Balance EU (Sep) | -0.04B |  | -0.00B |
 | 10:00 | EUR | Employment Change (QoQ) (Q3) | 0.1% | 0.1% | 0.1% |
@@ -35,9 +35,7 @@
 | 11:30 | INR | Deposit Growth | 9.7% |  | 9.5% |
 | 11:30 | INR | FX Reserves, USD | 687.03B |  | 689.73B |
 | 13:30 | CAD | Manufacturing Sales (MoM) (Sep) | 3.3% | 2.8% | -1.1% |
-| 53 min | USD | Wholesale Inventories (MoM) (Aug) |  |  | -0.2% |
-| 53 min | USD | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.4% |
-| 15:30 | USD | Natural Gas Storage |  | 34B | 33B |
+| 22 min | USD | Natural Gas Storage |  | 34B | 33B |
 | 19:30 | USD | Fed Logan Speaks |  |  |  |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.7K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 30.2K |
