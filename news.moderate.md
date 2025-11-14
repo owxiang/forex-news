@@ -1,28 +1,43 @@
-## 13 November 2025 - Moderate Impact Forex News
+## 14 November 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Employment Change (Oct) | 42.2K | 20.0K | 12.8K |
-| 00:30 | AUD | Full Employment Change (Oct) | 55.3K |  | 6.5K |
-| 00:30 | AUD | Unemployment Rate (Oct) | 4.3% | 4.4% | 4.5% |
-| 07:00 | GBP | Business Investment (QoQ) (Q3) | -0.3% | -0.7% | -1.1% |
-| 07:00 | GBP | Industrial Production (MoM) (Sep) | -2.0% | -0.5% | 0.3% |
-| 07:00 | GBP | Manufacturing Production (MoM) (Sep) | -1.7% | -0.7% | 0.6% |
-| 07:00 | GBP | Monthly GDP 3M/3M Change (Sep) | 0.1% | 0.2% | 0.2% |
-| 07:00 | GBP | Trade Balance (Sep) | -18.88B | -20.80B | -19.53B |
-| 07:00 | GBP | Trade Balance Non-EU (Sep) | -6.82B |  | -6.95B |
-| 07:30 | CHF | PPI (MoM) (Oct) | -0.3% | -0.1% | -0.2% |
-| 09:00 | USD | IEA Monthly Report |  |  |  |
-| 09:00 | CNY | New Loans (Oct) | 220.0B | 460.0B | 1,290.0B |
-| 09:00 | EUR | ECB Economic Bulletin |  |  |  |
-| 09:30 | GBP | Labour Productivity (Q2) | -0.6% |  | 0.3% |
-| 10:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 10:00 | EUR | Industrial Production (MoM) (Sep) | 0.2% | 0.7% | -1.1% |
-| 12:00 | BRL | Retail Sales (YoY) (Sep) | 0.8% | 2.0% | 0.3% |
-| 12:00 | BRL | Retail Sales (MoM) (Sep) | -0.3% | 0.3% | 0.1% |
-| 13:00 | USD | FOMC Member Daly Speaks |  |  |  |
-| 13:00 | EUR | ECB's Elderson Speaks |  |  |  |
-| 15:30 | USD | FOMC Member Kashkari Speaks |  |  |  |
-| 17:00 | USD | Cushing Crude Oil Inventories | -0.346M |  | 0.300M |
-| 21:30 | USD | Fed's Balance Sheet | 6,580B |  | 6,573B |
-| 21:30 | NZD | Business NZ PMI (Oct) | 51.4 |  | 49.9 |
+| 02:00 | CNY | Fixed Asset Investment (YoY) (Oct) |  | -0.9% | -0.5% |
+| 02:00 | CNY | Industrial Production (YoY) (Oct) |  | 5.5% | 6.5% |
+| 02:00 | CNY | Chinese Industrial Production YTD (YoY) (Oct) |  |  | 6.2% |
+| 02:00 | CNY | Chinese Unemployment Rate (Oct) |  | 5.2% | 5.2% |
+| 02:00 | CNY | NBS Press Conference |  |  |  |
+| 06:30 | INR | WPI Inflation (YoY) (Oct) |  | -0.60% | 0.13% |
+| 07:15 | EUR | German Buba Balz Speaks |  |  |  |
+| 07:45 | EUR | French CPI (MoM) (Oct) |  | 0.1% | -1.0% |
+| 07:45 | EUR | French HICP (MoM) (Oct) |  | 0.1% | -1.1% |
+| 08:00 | EUR | Spanish CPI (YoY) (Oct) |  | 3.1% | 3.0% |
+| 08:00 | EUR | Spanish HICP (YoY) (Oct) |  | 3.2% | 3.0% |
+| 10:00 | EUR | EU Economic Forecasts |  |  |  |
+| 10:00 | EUR | GDP (QoQ) (Q3) |  | 0.2% | 0.1% |
+| 10:00 | EUR | GDP (YoY) (Q3) |  | 1.3% | 1.5% |
+| 10:00 | EUR | Trade Balance (Sep) |  |  | 1.0B |
+| 10:30 | EUR | ECB's Elderson Speaks |  |  |  |
+| 11:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 12:30 | USD | Continuing Jobless Claims |  |  | 1,926K |
+| 12:30 | USD | Nonfarm Productivity (QoQ) (Q3) |  |  | 3.3% |
+| 13:00 | GBP | NIESR Monthly GDP Tracker (Oct) |  |  | 0.3% |
+| 13:30 | CAD | Wholesale Sales (MoM) (Sep) |  | 0.0% | -1.2% |
+| 13:30 | EUR | German Buba Mauderer Speaks |  |  |  |
+| 13:30 | EUR | ECB's Elderson Speaks |  |  |  |
+| 14:20 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 15:00 | EUR | ECB's Lane Speaks |  |  |  |
+| 17:00 | USD | Atlanta Fed GDPNow (Q4) |  | 4.0% | 4.0% |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 414 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 548 |
+| 19:00 | USD | Federal Budget Balance (Oct) |  | -215.3B | 198.0B |
+| 20:20 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | -2.0K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 103.0K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 266.7K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 23.4K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -172.5K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -59.6K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 65.5K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | 79.5K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 114.3K |
