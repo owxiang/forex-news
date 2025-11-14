@@ -14,8 +14,8 @@
 | 08:00 | EUR | Spanish CPI (YoY) (Oct) | 3.1% | 3.1% | 3.0% |
 | 08:00 | EUR | Spanish HICP (YoY) (Oct) | 3.2% | 3.2% | 3.0% |
 | 10:00 | EUR | EU Economic Forecasts |  |  |  |
-| 10:00 | EUR | GDP (YoY) (Q3) | 1.4% | 1.3% | 1.5% |
 | 10:00 | EUR | GDP (QoQ) (Q3) | 0.2% | 0.2% | 0.1% |
+| 10:00 | EUR | GDP (YoY) (Q3) | 1.4% | 1.3% | 1.5% |
 | 10:00 | EUR | Trade Balance (Sep) | 19.4B |  | 1.9B |
 | 10:30 | EUR | ECB's Elderson Speaks |  |  |  |
 | 11:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
@@ -26,13 +26,4 @@
 | 15:00 | EUR | ECB's Lane Speaks |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 417 | 415 | 414 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count | 549 |  | 548 |
-| 12 min | USD | FOMC Member Bostic Speaks |  |  |  |
-| 22 min | GBP | CFTC GBP speculative net positions |  |  | -2.0K |
-| 22 min | USD | CFTC Crude Oil speculative net positions |  |  | 103.0K |
-| 22 min | USD | CFTC Gold speculative net positions |  |  | 266.7K |
-| 22 min | USD | CFTC Nasdaq 100 speculative net positions |  |  | 23.4K |
-| 22 min | USD | CFTC S&P 500 speculative net positions |  |  | -172.5K |
-| 22 min | AUD | CFTC AUD speculative net positions |  |  | -59.6K |
-| 22 min | BRL | CFTC BRL speculative net positions |  |  | 65.5K |
-| 22 min | JPY | CFTC JPY speculative net positions |  |  | 79.5K |
-| 22 min | EUR | CFTC EUR speculative net positions |  |  | 114.3K |
+| 20:20 | USD | FOMC Member Bostic Speaks |  |  |  |

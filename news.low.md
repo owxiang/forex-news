@@ -14,8 +14,8 @@
 | 06:30 | INR | WPI Food (YoY) (Oct) | -8.31% |  | -5.22% |
 | 06:30 | INR | WPI Fuel (YoY) (Oct) | -2.55% |  | -2.58% |
 | 06:30 | INR | WPI Manufacturing Inflation (YoY) (Oct) | 1.54% |  | 2.33% |
-| 07:45 | EUR | French CPI NSA (YoY) (Oct) | 0.90% |  | 1.00% |
 | 07:45 | EUR | French CPI NSA (MoM) (Oct) | 0.10% |  | 0.10% |
+| 07:45 | EUR | French CPI NSA (YoY) (Oct) | 0.90% |  | 1.00% |
 | 07:45 | EUR | French CPI (YoY) (Oct) | 0.9% | 1.0% | 1.2% |
 | 07:45 | EUR | French HICP (YoY) (Oct) | 0.8% | 0.9% | 1.1% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Oct) | 0.90% |  | 1.10% |
@@ -37,14 +37,3 @@
 | 13:30 | CAD | Manufacturing Sales (MoM) (Sep) | 3.3% | 2.8% | -1.1% |
 | 15:30 | USD | Natural Gas Storage | 45B | 34B | 33B |
 | 19:30 | USD | Fed Logan Speaks |  |  |  |
-| 22 min | USD | CFTC Aluminium speculative net positions |  |  | 0.7K |
-| 22 min | USD | CFTC Copper speculative net positions |  |  | 30.2K |
-| 22 min | USD | CFTC Corn speculative net positions |  |  | -51.2K |
-| 22 min | USD | CFTC Natural Gas speculative net positions |  |  | -128.1K |
-| 22 min | USD | CFTC Silver speculative net positions |  |  | 52.3K |
-| 22 min | USD | CFTC Soybeans speculative net positions |  |  | 5.7K |
-| 22 min | USD | CFTC Wheat speculative net positions |  |  | -81.7K |
-| 22 min | CAD | CFTC CAD speculative net positions |  |  | -114.8K |
-| 22 min | MXN | CFTC MXN speculative net positions |  |  | 83.4K |
-| 22 min | CHF | CFTC CHF speculative net positions |  |  | -23.0K |
-| 22 min | NZD | CFTC NZD speculative net positions |  |  | -21.1K |

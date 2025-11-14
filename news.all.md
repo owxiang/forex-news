@@ -21,16 +21,16 @@
 | 06:30 | INR | Moderate | WPI Inflation (YoY) (Oct) | -1.21% | -0.60% | 0.13% |
 | 06:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Oct) | 1.54% |  | 2.33% |
 | 07:15 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 07:45 | EUR | Low | French CPI NSA (YoY) (Oct) | 0.90% |  | 1.00% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Oct) | 0.10% |  | 0.10% |
+| 07:45 | EUR | Low | French CPI NSA (YoY) (Oct) | 0.90% |  | 1.00% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Oct) | 0.1% | 0.1% | -1.0% |
 | 07:45 | EUR | Low | French CPI (YoY) (Oct) | 0.9% | 1.0% | 1.2% |
-| 07:45 | EUR | Low | French HICP (YoY) (Oct) | 0.8% | 0.9% | 1.1% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Oct) | 0.1% | 0.1% | -1.1% |
+| 07:45 | EUR | Low | French HICP (YoY) (Oct) | 0.8% | 0.9% | 1.1% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Oct) | 0.90% |  | 1.10% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Oct) | 2.5% | 2.5% | 2.4% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Oct) | 3.1% | 3.1% | 3.0% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Oct) | 0.7% | 0.7% | -0.3% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Oct) | 3.1% | 3.1% | 3.0% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Oct) | 0.5% | 0.5% | 0.2% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Oct) | 3.2% | 3.2% | 3.0% |
 | 08:30 | HKD | Low | GDP (QoQ) (Q3) | 0.7% | 0.7% | 0.7% |
@@ -41,8 +41,8 @@
 | 10:00 | EUR | Low | Employment Change (YoY) (Q3) | 0.5% |  | 0.6% |
 | 10:00 | EUR | Low | Employment Overall (Q3) | 170,278.9K |  | 170,072.0K |
 | 10:00 | EUR | Moderate | EU Economic Forecasts |  |  |  |
-| 10:00 | EUR | Moderate | GDP (YoY) (Q3) | 1.4% | 1.3% | 1.5% |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q3) | 0.2% | 0.2% | 0.1% |
+| 10:00 | EUR | Moderate | GDP (YoY) (Q3) | 1.4% | 1.3% | 1.5% |
 | 10:00 | EUR | Moderate | Trade Balance (Sep) | 19.4B |  | 1.9B |
 | 10:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 11:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
@@ -61,24 +61,4 @@
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 417 | 415 | 414 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 549 |  | 548 |
 | 19:30 | USD | Low | Fed Logan Speaks |  |  |  |
-| 12 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 22 min | GBP | Moderate | CFTC GBP speculative net positions |  |  | -2.0K |
-| 22 min | USD | Low | CFTC Aluminium speculative net positions |  |  | 0.7K |
-| 22 min | USD | Low | CFTC Copper speculative net positions |  |  | 30.2K |
-| 22 min | USD | Low | CFTC Corn speculative net positions |  |  | -51.2K |
-| 22 min | USD | Moderate | CFTC Crude Oil speculative net positions |  |  | 103.0K |
-| 22 min | USD | Moderate | CFTC Gold speculative net positions |  |  | 266.7K |
-| 22 min | USD | Moderate | CFTC Nasdaq 100 speculative net positions |  |  | 23.4K |
-| 22 min | USD | Low | CFTC Natural Gas speculative net positions |  |  | -128.1K |
-| 22 min | USD | Moderate | CFTC S&P 500 speculative net positions |  |  | -172.5K |
-| 22 min | USD | Low | CFTC Silver speculative net positions |  |  | 52.3K |
-| 22 min | USD | Low | CFTC Soybeans speculative net positions |  |  | 5.7K |
-| 22 min | USD | Low | CFTC Wheat speculative net positions |  |  | -81.7K |
-| 22 min | CAD | Low | CFTC CAD speculative net positions |  |  | -114.8K |
-| 22 min | MXN | Low | CFTC MXN speculative net positions |  |  | 83.4K |
-| 22 min | CHF | Low | CFTC CHF speculative net positions |  |  | -23.0K |
-| 22 min | AUD | Moderate | CFTC AUD speculative net positions |  |  | -59.6K |
-| 22 min | BRL | Moderate | CFTC BRL speculative net positions |  |  | 65.5K |
-| 22 min | JPY | Moderate | CFTC JPY speculative net positions |  |  | 79.5K |
-| 22 min | NZD | Low | CFTC NZD speculative net positions |  |  | -21.1K |
-| 22 min | EUR | Moderate | CFTC EUR speculative net positions |  |  | 114.3K |
+| 20:20 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
