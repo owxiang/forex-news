@@ -2,5 +2,5 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 23:50 | JPY | GDP (YoY) (Q3) |  |  | 2.2% |
-| 23:50 | JPY | GDP Price Index (YoY) (Q3) |  |  | 3.0% |
+| 44 min | JPY | GDP (YoY) (Q3) |  |  | 2.2% |
+| 44 min | JPY | GDP Price Index (YoY) (Q3) |  |  | 3.0% |
