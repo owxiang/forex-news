@@ -1,3 +1,5 @@
-## 15 November 2025 - High Impact Forex News
+## 16 November 2025 - High Impact Forex News
 
-There is no high impact news today.
+| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 23:50 | JPY | GDP (QoQ) (Q3) |  |  | 0.5% |
