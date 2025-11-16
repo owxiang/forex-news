@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 21:30 | NZD | Low | Performance of Services Index (Oct) |  |  | 48.3 |
-| 21:45 | NZD | Low | FPI (MoM) (Oct) |  |  | -0.4% |
+| 24 min | NZD | Low | Performance of Services Index (Oct) |  |  | 48.3 |
+| 39 min | NZD | Low | FPI (MoM) (Oct) |  |  | -0.4% |
 | 23:50 | JPY | High | GDP (QoQ) (Q3) |  |  | 0.5% |
 | 23:50 | JPY | Moderate | GDP (YoY) (Q3) |  |  | 2.2% |
 | 23:50 | JPY | Low | GDP Capital Expenditure (QoQ) (Q3) |  |  | 0.6% |
