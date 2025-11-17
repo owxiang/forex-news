@@ -12,9 +12,9 @@
 | 01:30 | SGD | Low | Trade Balance (Oct) | 7.249B |  | 5.689B |
 | 04:30 | JPY | Low | Capacity Utilization (MoM) (Sep) | 2.5% |  | -2.3% |
 | 04:30 | JPY | Moderate | Industrial Production (MoM) (Sep) | 2.6% | 2.2% | -1.5% |
-| 49 min | NOK | Low | Trade Balance (Oct) |  |  | 36.9B |
-| 07:30 | CHF | Low | Industrial Production (YoY) (Q3) |  |  | -0.10% |
-| 08:00 | CHF | Moderate | GDP (QoQ) (Q3) |  |  | 0.1% |
+| 07:00 | NOK | Low | Trade Balance (Oct) | 56.5B |  | 35.0B |
+| 22 min | CHF | Low | Industrial Production (YoY) (Q3) |  |  | -0.10% |
+| 52 min | CHF | Moderate | GDP (QoQ) (Q3) |  |  | 0.1% |
 | 08:15 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 09:00 | EUR | Low | Italian CPI (YoY) (Oct) |  | 1.2% | 1.6% |
 | 09:00 | EUR | Low | Italian CPI (MoM) (Oct) |  | -0.3% | -0.2% |
