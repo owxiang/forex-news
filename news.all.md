@@ -45,10 +45,10 @@
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.084% |  | 2.065% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.027% |  | 2.030% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.041% |  | 2.044% |
-| 23 min | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
-| 38 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 53 min | USD | Moderate | Construction Spending (MoM) (Aug) |  | -0.2% | -0.1% |
-| 16:00 | USD | Moderate | Federal Budget Balance (Oct) |  | -215.3B | 198.0B |
+| 14:30 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
+| 14:45 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 15:00 | USD | Moderate | Construction Spending (MoM) (Aug) | 0.2% | -0.2% | 0.2% |
+| 52 min | USD | Moderate | Federal Budget Balance (Oct) |  | -215.3B | 198.0B |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.780% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.690% |
 | 18:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |

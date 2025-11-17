@@ -33,6 +33,6 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 2.084% |  | 2.065% |
 | 14:00 | EUR | French 3-Month BTF Auction | 2.027% |  | 2.030% |
 | 14:00 | EUR | French 6-Month BTF Auction | 2.041% |  | 2.044% |
-| 23 min | USD | Fed Governor Jefferson Speaks |  |  |  |
+| 14:30 | USD | Fed Governor Jefferson Speaks |  |  |  |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 3.780% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 3.690% |

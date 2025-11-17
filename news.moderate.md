@@ -14,8 +14,8 @@
 | 13:30 | CAD | CPI (MoM) (Oct) | 0.2% | 0.2% | 0.1% |
 | 13:30 | CAD | Foreign Securities Purchases (Sep) | 31.32B |  | 23.61B |
 | 14:00 | USD | FOMC Member Williams Speaks |  |  |  |
-| 38 min | EUR | ECB's Lane Speaks |  |  |  |
-| 53 min | USD | Construction Spending (MoM) (Aug) |  | -0.2% | -0.1% |
-| 16:00 | USD | Federal Budget Balance (Oct) |  | -215.3B | 198.0B |
+| 14:45 | EUR | ECB's Lane Speaks |  |  |  |
+| 15:00 | USD | Construction Spending (MoM) (Aug) | 0.2% | -0.2% | 0.2% |
+| 52 min | USD | Federal Budget Balance (Oct) |  | -215.3B | 198.0B |
 | 18:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
 | 20:35 | USD | Fed Waller Speaks |  |  |  |
