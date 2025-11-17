@@ -10,7 +10,7 @@
 | 00:30 | SGD | Non-Oil Exports (YoY) (Oct) | 22.20% |  | 7.00% |
 | 01:30 | SGD | Non-Oil Exports (MoM) (Oct) | 9.30% |  | 13.10% |
 | 01:30 | SGD | Trade Balance (Oct) | 7.249B |  | 5.689B |
-| 19 min | JPY | Capacity Utilization (MoM) (Sep) |  |  | -2.3% |
+| 04:30 | JPY | Capacity Utilization (MoM) (Sep) | 2.5% |  | -2.3% |
 | 07:00 | NOK | Trade Balance (Oct) |  |  | 36.9B |
 | 07:30 | CHF | Industrial Production (YoY) (Q3) |  |  | -0.10% |
 | 09:00 | EUR | Italian CPI (YoY) (Oct) |  | 1.2% | 1.6% |
