@@ -50,5 +50,5 @@
 | 15:00 | USD | Moderate | Construction Spending (MoM) (Aug) | 0.2% | -0.2% | 0.2% |
 | 16:30 | USD | Low | 3-Month Bill Auction | 3.795% |  | 3.780% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 3.710% |  | 3.690% |
-| 52 min | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
+| 18:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 20:35 | USD | Moderate | Fed Waller Speaks |  |  |  |
