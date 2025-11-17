@@ -51,4 +51,4 @@
 | 16:30 | USD | Low | 3-Month Bill Auction | 3.795% |  | 3.780% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 3.710% |  | 3.690% |
 | 18:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
-| 27 min | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 20:35 | USD | Moderate | Fed Waller Speaks |  |  |  |

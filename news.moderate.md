@@ -17,4 +17,4 @@
 | 14:45 | EUR | ECB's Lane Speaks |  |  |  |
 | 15:00 | USD | Construction Spending (MoM) (Aug) | 0.2% | -0.2% | 0.2% |
 | 18:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
-| 27 min | USD | Fed Waller Speaks |  |  |  |
+| 20:35 | USD | Fed Waller Speaks |  |  |  |
