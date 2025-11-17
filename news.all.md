@@ -7,9 +7,9 @@
 | 00:01 | KRW | Low | Exports (YoY) (Oct) | 3.5% |  | 3.6% |
 | 00:01 | KRW | Low | Imports (YoY) (Oct) | -1.5% |  | -1.5% |
 | 00:01 | KRW | Low | Trade Balance (Nov) | 6.00B |  | 6.06B |
-| 00:30 | SGD | Low | Non-Oil Exports (MoM) (Oct) |  |  | 13.00% |
 | 00:30 | SGD | Low | Non-Oil Exports (YoY) (Oct) | 22.20% |  | 7.00% |
-| 58 min | SGD | Low | Trade Balance |  |  | 5.948B |
+| 01:30 | SGD | Low | Non-Oil Exports (MoM) (Oct) | 9.30% |  | 13.10% |
+| 01:30 | SGD | Low | Trade Balance (Oct) | 7.249B |  | 5.689B |
 | 04:30 | JPY | Low | Capacity Utilization (MoM) (Sep) |  |  | -2.3% |
 | 04:30 | JPY | Moderate | Industrial Production (MoM) (Sep) |  | 2.2% | 2.2% |
 | 07:00 | NOK | Low | Trade Balance (Oct) |  |  | 36.9B |

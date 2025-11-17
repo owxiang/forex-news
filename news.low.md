@@ -7,9 +7,9 @@
 | 00:01 | KRW | Exports (YoY) (Oct) | 3.5% |  | 3.6% |
 | 00:01 | KRW | Imports (YoY) (Oct) | -1.5% |  | -1.5% |
 | 00:01 | KRW | Trade Balance (Nov) | 6.00B |  | 6.06B |
-| 00:30 | SGD | Non-Oil Exports (MoM) (Oct) |  |  | 13.00% |
 | 00:30 | SGD | Non-Oil Exports (YoY) (Oct) | 22.20% |  | 7.00% |
-| 58 min | SGD | Trade Balance |  |  | 5.948B |
+| 01:30 | SGD | Non-Oil Exports (MoM) (Oct) | 9.30% |  | 13.10% |
+| 01:30 | SGD | Trade Balance (Oct) | 7.249B |  | 5.689B |
 | 04:30 | JPY | Capacity Utilization (MoM) (Sep) |  |  | -2.3% |
 | 07:00 | NOK | Trade Balance (Oct) |  |  | 36.9B |
 | 07:30 | CHF | Industrial Production (YoY) (Q3) |  |  | -0.10% |
