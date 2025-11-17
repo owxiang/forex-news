@@ -7,13 +7,13 @@
 | 08:15 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 09:00 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 10:00 | EUR | EU Economic Forecasts |  |  |  |
-| 13:20 | GBP | BoE MPC Member Mann Speaks |  |  |  |
-| 13:30 | USD | NY Empire State Manufacturing Index (Nov) |  | 6.10 | 10.70 |
-| 13:30 | CAD | Core CPI (MoM) (Oct) |  |  | 0.2% |
-| 13:30 | CAD | Core CPI (YoY) (Oct) |  |  | 2.8% |
-| 13:30 | CAD | CPI (MoM) (Oct) |  | 0.2% | 0.1% |
-| 13:30 | CAD | Foreign Securities Purchases (Sep) |  |  | 25.92B |
-| 14:00 | USD | FOMC Member Williams Speaks |  |  |  |
+| 4 min | GBP | BoE MPC Member Mann Speaks |  |  |  |
+| 14 min | USD | NY Empire State Manufacturing Index (Nov) |  | 6.10 | 10.70 |
+| 14 min | CAD | Core CPI (MoM) (Oct) |  |  | 0.2% |
+| 14 min | CAD | Core CPI (YoY) (Oct) |  |  | 2.8% |
+| 14 min | CAD | CPI (MoM) (Oct) |  | 0.2% | 0.1% |
+| 14 min | CAD | Foreign Securities Purchases (Sep) |  |  | 25.92B |
+| 44 min | USD | FOMC Member Williams Speaks |  |  |  |
 | 14:45 | EUR | ECB's Lane Speaks |  |  |  |
 | 15:00 | USD | Construction Spending (MoM) (Aug) |  | -0.2% | -0.1% |
 | 16:00 | USD | Federal Budget Balance (Oct) |  | -215.3B | 198.0B |

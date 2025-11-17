@@ -30,22 +30,22 @@
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:00 | BRL | Low | IBC-Br Economic Activity (Sep) | -0.20% |  | 0.40% |
-| 13:20 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
-| 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Nov) |  | 6.10 | 10.70 |
-| 13:30 | CAD | Low | Common CPI (YoY) (Oct) |  | 2.8% | 2.7% |
-| 13:30 | CAD | Moderate | Core CPI (MoM) (Oct) |  |  | 0.2% |
-| 13:30 | CAD | Moderate | Core CPI (YoY) (Oct) |  |  | 2.8% |
-| 13:30 | CAD | Moderate | CPI (MoM) (Oct) |  | 0.2% | 0.1% |
-| 13:30 | CAD | Low | CPI (YoY) (Oct) |  |  | 2.4% |
-| 13:30 | CAD | Moderate | Foreign Securities Purchases (Sep) |  |  | 25.92B |
-| 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Sep) |  |  | 19.510B |
-| 13:30 | CAD | Low | Median CPI (YoY) (Oct) |  | 3.1% | 3.2% |
-| 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Sep) |  |  | 167.0K |
-| 13:30 | CAD | Low | Trimmed CPI (YoY) (Oct) |  | 3.0% | 3.1% |
-| 14:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.065% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.030% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.044% |
+| 4 min | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
+| 14 min | USD | Moderate | NY Empire State Manufacturing Index (Nov) |  | 6.10 | 10.70 |
+| 14 min | CAD | Low | Common CPI (YoY) (Oct) |  | 2.8% | 2.7% |
+| 14 min | CAD | Moderate | Core CPI (MoM) (Oct) |  |  | 0.2% |
+| 14 min | CAD | Moderate | Core CPI (YoY) (Oct) |  |  | 2.8% |
+| 14 min | CAD | Moderate | CPI (MoM) (Oct) |  | 0.2% | 0.1% |
+| 14 min | CAD | Low | CPI (YoY) (Oct) |  |  | 2.4% |
+| 14 min | CAD | Moderate | Foreign Securities Purchases (Sep) |  |  | 25.92B |
+| 14 min | CAD | Low | Foreign Securities Purchases by Canadians (Sep) |  |  | 19.510B |
+| 14 min | CAD | Low | Median CPI (YoY) (Oct) |  | 3.1% | 3.2% |
+| 14 min | CAD | Low | New Motor Vehicle Sales (MoM) (Sep) |  |  | 167.0K |
+| 14 min | CAD | Low | Trimmed CPI (YoY) (Oct) |  | 3.0% | 3.1% |
+| 44 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 44 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.065% |
+| 44 min | EUR | Low | French 3-Month BTF Auction |  |  | 2.030% |
+| 44 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.044% |
 | 14:30 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
 | 14:45 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 15:00 | USD | Moderate | Construction Spending (MoM) (Aug) |  | -0.2% | -0.1% |

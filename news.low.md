@@ -25,15 +25,15 @@
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:00 | BRL | IBC-Br Economic Activity (Sep) | -0.20% |  | 0.40% |
-| 13:30 | CAD | Common CPI (YoY) (Oct) |  | 2.8% | 2.7% |
-| 13:30 | CAD | CPI (YoY) (Oct) |  |  | 2.4% |
-| 13:30 | CAD | Foreign Securities Purchases by Canadians (Sep) |  |  | 19.510B |
-| 13:30 | CAD | Median CPI (YoY) (Oct) |  | 3.1% | 3.2% |
-| 13:30 | CAD | New Motor Vehicle Sales (MoM) (Sep) |  |  | 167.0K |
-| 13:30 | CAD | Trimmed CPI (YoY) (Oct) |  | 3.0% | 3.1% |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.065% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.030% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.044% |
+| 14 min | CAD | Common CPI (YoY) (Oct) |  | 2.8% | 2.7% |
+| 14 min | CAD | CPI (YoY) (Oct) |  |  | 2.4% |
+| 14 min | CAD | Foreign Securities Purchases by Canadians (Sep) |  |  | 19.510B |
+| 14 min | CAD | Median CPI (YoY) (Oct) |  | 3.1% | 3.2% |
+| 14 min | CAD | New Motor Vehicle Sales (MoM) (Sep) |  |  | 167.0K |
+| 14 min | CAD | Trimmed CPI (YoY) (Oct) |  | 3.0% | 3.1% |
+| 44 min | EUR | French 12-Month BTF Auction |  |  | 2.065% |
+| 44 min | EUR | French 3-Month BTF Auction |  |  | 2.030% |
+| 44 min | EUR | French 6-Month BTF Auction |  |  | 2.044% |
 | 14:30 | USD | Fed Governor Jefferson Speaks |  |  |  |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 3.780% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 3.690% |
