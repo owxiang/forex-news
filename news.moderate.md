@@ -3,9 +3,9 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 04:30 | JPY | Industrial Production (MoM) (Sep) | 2.6% | 2.2% | -1.5% |
-| 52 min | CHF | GDP (QoQ) (Q3) |  |  | 0.1% |
-| 08:15 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 09:00 | EUR | German Buba Mauderer Speaks |  |  |  |
+| 08:00 | CHF | GDP (QoQ) (Q3) | -0.5% |  | 0.1% |
+| 4 min | EUR | ECB's De Guindos Speaks |  |  |  |
+| 49 min | EUR | German Buba Mauderer Speaks |  |  |  |
 | 10:00 | EUR | EU Economic Forecasts |  |  |  |
 | 13:15 | CAD | Housing Starts |  | 275.0K | 279.2K |
 | 13:20 | GBP | BoE MPC Member Mann Speaks |  |  |  |
