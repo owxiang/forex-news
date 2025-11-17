@@ -23,8 +23,8 @@
 | 09:15 | INR | Trade Balance (Oct) | -41.68B | -29.40B | -32.15B |
 | 11:00 | EUR | German 12-Month Bubill Auction | 1.937% |  | 1.870% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 19 min | BRL | BCB Focus Market Readout |  |  |  |
-| 54 min | BRL | IBC-Br Economic Activity (Sep) |  |  | 0.40% |
+| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 12:00 | BRL | IBC-Br Economic Activity (Sep) | -0.20% |  | 0.40% |
 | 13:30 | CAD | Common CPI (YoY) (Oct) |  | 2.8% | 2.7% |
 | 13:30 | CAD | CPI (YoY) (Oct) |  |  | 2.4% |
 | 13:30 | CAD | Foreign Securities Purchases by Canadians (Sep) |  |  | 19.510B |

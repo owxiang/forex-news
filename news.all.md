@@ -28,8 +28,8 @@
 | 10:00 | EUR | Moderate | EU Economic Forecasts |  |  |  |
 | 11:00 | EUR | Low | German 12-Month Bubill Auction | 1.937% |  | 1.870% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 19 min | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 54 min | BRL | Low | IBC-Br Economic Activity (Sep) |  |  | 0.40% |
+| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 12:00 | BRL | Low | IBC-Br Economic Activity (Sep) | -0.20% |  | 0.40% |
 | 13:20 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Nov) |  | 6.10 | 10.70 |
 | 13:30 | CAD | Low | Common CPI (YoY) (Oct) |  | 2.8% | 2.7% |
