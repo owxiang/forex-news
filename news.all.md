@@ -12,7 +12,7 @@
 | 01:30 | SGD | Low | Trade Balance (Oct) | 7.249B |  | 5.689B |
 | 04:30 | JPY | Low | Capacity Utilization (MoM) (Sep) | 2.5% |  | -2.3% |
 | 04:30 | JPY | Moderate | Industrial Production (MoM) (Sep) | 2.6% | 2.2% | -1.5% |
-| 07:00 | NOK | Low | Trade Balance (Oct) |  |  | 36.9B |
+| 49 min | NOK | Low | Trade Balance (Oct) |  |  | 36.9B |
 | 07:30 | CHF | Low | Industrial Production (YoY) (Q3) |  |  | -0.10% |
 | 08:00 | CHF | Moderate | GDP (QoQ) (Q3) |  |  | 0.1% |
 | 08:15 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
