@@ -13,21 +13,21 @@
 | 04:30 | JPY | Capacity Utilization (MoM) (Sep) | 2.5% |  | -2.3% |
 | 07:00 | NOK | Trade Balance (Oct) | 56.5B |  | 35.0B |
 | 07:30 | CHF | Industrial Production (YoY) (Q3) | 2.40% |  | 2.10% |
-| 09:00 | EUR | Italian CPI (YoY) (Oct) | 1.2% | 1.2% | 1.6% |
 | 09:00 | EUR | Italian CPI (MoM) (Oct) | -0.3% | -0.3% | -0.2% |
+| 09:00 | EUR | Italian CPI (YoY) (Oct) | 1.2% | 1.2% | 1.6% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Oct) | 1.1% |  | 1.4% |
 | 09:00 | EUR | Italian HICP (MoM) (Oct) | -0.2% | -0.2% | 1.3% |
 | 09:00 | EUR | Italian HICP (YoY) (Oct) | 1.3% | 1.3% | 1.8% |
-| 51 min | CNY | FDI (Oct) |  |  | -10.40% |
-| 10:30 | EUR | German 12-Month Bubill Auction |  |  | 1.870% |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 11:00 | EUR | Spanish Consumer Confidence (Oct) |  |  | 81.5 |
+| 09:15 | INR | Exports (USD) (Oct) | 34.38B |  | 36.38B |
+| 09:15 | INR | Imports (USD) (Oct) | 76.06B |  | 68.53B |
+| 09:15 | INR | Trade Balance (Oct) | -41.68B | -29.40B | -32.15B |
+| 22 min | EUR | German 12-Month Bubill Auction |  |  | 1.870% |
+| 52 min | EUR | German Buba Monthly Report |  |  |  |
+| 52 min | EUR | Spanish Consumer Confidence (Oct) |  |  | 81.5 |
+| 52 min | CNY | FDI (Oct) |  |  | -10.40% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:00 | BRL | IBC-Br Economic Activity (Sep) |  |  | 0.40% |
 | 13:00 | CAD | New Motor Vehicle Sales (MoM) (Sep) |  |  | 167.0K |
-| 13:00 | INR | Exports (USD) (Oct) |  |  | 36.38B |
-| 13:00 | INR | Imports (USD) (Oct) |  |  | 68.53B |
-| 13:00 | INR | Trade Balance (Oct) |  | -29.40B | -32.15B |
 | 13:30 | CAD | Common CPI (YoY) (Oct) |  | 2.8% | 2.7% |
 | 13:30 | CAD | CPI (YoY) (Oct) |  |  | 2.4% |
 | 13:30 | CAD | Foreign Securities Purchases by Canadians (Sep) |  |  | 19.510B |

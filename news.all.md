@@ -16,29 +16,29 @@
 | 07:30 | CHF | Low | Industrial Production (YoY) (Q3) | 2.40% |  | 2.10% |
 | 08:00 | CHF | Moderate | GDP (QoQ) (Q3) | -0.5% |  | 0.1% |
 | 08:15 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 09:00 | EUR | Low | Italian CPI (YoY) (Oct) | 1.2% | 1.2% | 1.6% |
 | 09:00 | EUR | Low | Italian CPI (MoM) (Oct) | -0.3% | -0.3% | -0.2% |
+| 09:00 | EUR | Low | Italian CPI (YoY) (Oct) | 1.2% | 1.2% | 1.6% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Oct) | 1.1% |  | 1.4% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Oct) | -0.2% | -0.2% | 1.3% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (Oct) | 1.3% | 1.3% | 1.8% |
 | 09:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 51 min | CNY | Low | FDI (Oct) |  |  | -10.40% |
-| 51 min | EUR | Moderate | EU Economic Forecasts |  |  |  |
-| 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 1.870% |
-| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 11:00 | EUR | Low | Spanish Consumer Confidence (Oct) |  |  | 81.5 |
+| 09:15 | INR | Low | Exports (USD) (Oct) | 34.38B |  | 36.38B |
+| 09:15 | INR | Low | Imports (USD) (Oct) | 76.06B |  | 68.53B |
+| 09:15 | INR | Low | Trade Balance (Oct) | -41.68B | -29.40B | -32.15B |
+| 10:00 | EUR | Moderate | EU Economic Forecasts |  |  |  |
+| 22 min | EUR | Low | German 12-Month Bubill Auction |  |  | 1.870% |
+| 52 min | EUR | Low | German Buba Monthly Report |  |  |  |
+| 52 min | EUR | Low | Spanish Consumer Confidence (Oct) |  |  | 81.5 |
+| 52 min | CNY | Low | FDI (Oct) |  |  | -10.40% |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:00 | BRL | Low | IBC-Br Economic Activity (Sep) |  |  | 0.40% |
 | 13:00 | CAD | Low | New Motor Vehicle Sales (MoM) (Sep) |  |  | 167.0K |
-| 13:00 | INR | Low | Exports (USD) (Oct) |  |  | 36.38B |
-| 13:00 | INR | Low | Imports (USD) (Oct) |  |  | 68.53B |
-| 13:00 | INR | Low | Trade Balance (Oct) |  | -29.40B | -32.15B |
 | 13:15 | CAD | Moderate | Housing Starts |  | 275.0K | 279.2K |
 | 13:20 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Nov) |  | 6.10 | 10.70 |
 | 13:30 | CAD | Low | Common CPI (YoY) (Oct) |  | 2.8% | 2.7% |
-| 13:30 | CAD | Moderate | Core CPI (MoM) (Oct) |  |  | 0.2% |
 | 13:30 | CAD | Moderate | Core CPI (YoY) (Oct) |  |  | 2.8% |
+| 13:30 | CAD | Moderate | Core CPI (MoM) (Oct) |  |  | 0.2% |
 | 13:30 | CAD | Moderate | CPI (MoM) (Oct) |  | 0.2% | 0.1% |
 | 13:30 | CAD | Low | CPI (YoY) (Oct) |  |  | 2.4% |
 | 13:30 | CAD | Moderate | Foreign Securities Purchases (Sep) |  |  | 25.92B |
