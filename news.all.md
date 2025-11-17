@@ -10,17 +10,17 @@
 | 00:30 | SGD | Low | Non-Oil Exports (YoY) (Oct) | 22.20% |  | 7.00% |
 | 01:30 | SGD | Low | Non-Oil Exports (MoM) (Oct) | 9.30% |  | 13.10% |
 | 01:30 | SGD | Low | Trade Balance (Oct) | 7.249B |  | 5.689B |
-| 04:30 | JPY | Low | Capacity Utilization (MoM) (Sep) |  |  | -2.3% |
-| 04:30 | JPY | Moderate | Industrial Production (MoM) (Sep) |  | 2.2% | 2.2% |
+| 19 min | JPY | Low | Capacity Utilization (MoM) (Sep) |  |  | -2.3% |
+| 19 min | JPY | Moderate | Industrial Production (MoM) (Sep) |  | 2.2% | 2.2% |
 | 07:00 | NOK | Low | Trade Balance (Oct) |  |  | 36.9B |
 | 07:30 | CHF | Low | Industrial Production (YoY) (Q3) |  |  | -0.10% |
 | 08:00 | CHF | Moderate | GDP (QoQ) (Q3) |  |  | 0.1% |
 | 08:15 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 09:00 | EUR | Low | Italian CPI (YoY) (Oct) |  | 1.2% | 1.2% |
-| 09:00 | EUR | Low | Italian CPI (MoM) (Oct) |  | -0.3% | -0.3% |
+| 09:00 | EUR | Low | Italian CPI (YoY) (Oct) |  | 1.2% | 1.6% |
+| 09:00 | EUR | Low | Italian CPI (MoM) (Oct) |  | -0.3% | -0.2% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Oct) |  |  | 1.4% |
-| 09:00 | EUR | Low | Italian HICP (MoM) (Oct) |  | -0.2% | -0.2% |
-| 09:00 | EUR | Low | Italian HICP (YoY) (Oct) |  | 1.3% | 1.3% |
+| 09:00 | EUR | Low | Italian HICP (MoM) (Oct) |  | -0.2% | 1.3% |
+| 09:00 | EUR | Low | Italian HICP (YoY) (Oct) |  | 1.3% | 1.8% |
 | 09:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 10:00 | CNY | Low | FDI (Oct) |  |  | -10.40% |
 | 10:00 | EUR | Moderate | EU Economic Forecasts |  |  |  |
@@ -51,6 +51,7 @@
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.044% |
 | 14:30 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
 | 14:45 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 15:00 | USD | Moderate | Construction Spending (MoM) |  | -0.2% | -0.1% |
 | 16:00 | USD | Moderate | Federal Budget Balance (Oct) |  | -215.3B | 198.0B |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.780% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.690% |

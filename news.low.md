@@ -10,14 +10,14 @@
 | 00:30 | SGD | Non-Oil Exports (YoY) (Oct) | 22.20% |  | 7.00% |
 | 01:30 | SGD | Non-Oil Exports (MoM) (Oct) | 9.30% |  | 13.10% |
 | 01:30 | SGD | Trade Balance (Oct) | 7.249B |  | 5.689B |
-| 04:30 | JPY | Capacity Utilization (MoM) (Sep) |  |  | -2.3% |
+| 19 min | JPY | Capacity Utilization (MoM) (Sep) |  |  | -2.3% |
 | 07:00 | NOK | Trade Balance (Oct) |  |  | 36.9B |
 | 07:30 | CHF | Industrial Production (YoY) (Q3) |  |  | -0.10% |
-| 09:00 | EUR | Italian CPI (YoY) (Oct) |  | 1.2% | 1.2% |
-| 09:00 | EUR | Italian CPI (MoM) (Oct) |  | -0.3% | -0.3% |
+| 09:00 | EUR | Italian CPI (YoY) (Oct) |  | 1.2% | 1.6% |
+| 09:00 | EUR | Italian CPI (MoM) (Oct) |  | -0.3% | -0.2% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Oct) |  |  | 1.4% |
-| 09:00 | EUR | Italian HICP (MoM) (Oct) |  | -0.2% | -0.2% |
-| 09:00 | EUR | Italian HICP (YoY) (Oct) |  | 1.3% | 1.3% |
+| 09:00 | EUR | Italian HICP (MoM) (Oct) |  | -0.2% | 1.3% |
+| 09:00 | EUR | Italian HICP (YoY) (Oct) |  | 1.3% | 1.8% |
 | 10:00 | CNY | FDI (Oct) |  |  | -10.40% |
 | 10:30 | EUR | German 12-Month Bubill Auction |  |  | 1.870% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
