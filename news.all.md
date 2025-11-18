@@ -5,10 +5,10 @@
 | 00:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
 | 00:55 | USD | Low | Fed Logan Speaks |  |  |  |
 | 02:00 | NZD | Low | RBNZ Offshore Holdings (Oct) | 58.60% |  | 57.80% |
-| 21 min | HKD | Low | Unemployment Rate (Oct) |  |  | 3.9% |
-| 31 min | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 10:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 10:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 08:30 | HKD | Low | Unemployment Rate (Oct) | 3.8% |  | 3.9% |
+| 08:40 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
+| 52 min | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
+| 52 min | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 12:00 | CNY | Low | FDI (Oct) |  |  | -10.40% |
 | 12:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Sep) |  |  | 167.0K |
 | 13:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |

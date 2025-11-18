@@ -3,9 +3,9 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | RBA Meeting Minutes |  |  |  |
-| 31 min | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 10:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 10:00 | EUR | ECB's Elderson Speaks |  |  |  |
+| 08:40 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
+| 52 min | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 52 min | EUR | ECB's Elderson Speaks |  |  |  |
 | 13:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 13:15 | CAD | Housing Starts (Oct) |  | 265.0K | 279.2K |
 | 13:30 | USD | Export Price Index (MoM) (Sep) |  | 0.1% | 0.3% |

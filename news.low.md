@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:55 | USD | Fed Logan Speaks |  |  |  |
 | 02:00 | NZD | RBNZ Offshore Holdings (Oct) | 58.60% |  | 57.80% |
-| 21 min | HKD | Unemployment Rate (Oct) |  |  | 3.9% |
+| 08:30 | HKD | Unemployment Rate (Oct) | 3.8% |  | 3.9% |
 | 12:00 | CNY | FDI (Oct) |  |  | -10.40% |
 | 12:30 | CAD | New Motor Vehicle Sales (MoM) (Sep) |  |  | 167.0K |
 | 13:30 | USD | Export Price Index (YoY) (Sep) |  |  | 3.4% |
