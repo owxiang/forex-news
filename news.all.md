@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
-| 25 min | USD | Low | Fed Logan Speaks |  |  |  |
-| 02:00 | NZD | Low | RBNZ Offshore Holdings (Oct) |  |  | 57.80% |
+| 00:55 | USD | Low | Fed Logan Speaks |  |  |  |
+| 25 min | NZD | Low | RBNZ Offshore Holdings (Oct) |  |  | 57.80% |
 | 07:30 | CHF | Low | Industrial Production (YoY) (Q3) |  |  | -0.10% |
 | 08:30 | HKD | Low | Unemployment Rate (Oct) |  |  | 3.9% |
 | 08:40 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
