@@ -5,18 +5,20 @@
 | 00:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
 | 00:55 | USD | Low | Fed Logan Speaks |  |  |  |
 | 02:00 | NZD | Low | RBNZ Offshore Holdings (Oct) | 58.60% |  | 57.80% |
+| 08:10 | USD | Moderate | Continuing Jobless Claims | 1,957K |  | 1,926K |
+| 08:10 | USD | High | Initial Jobless Claims | 232K | 223K | 218K |
 | 08:30 | HKD | Low | Unemployment Rate (Oct) | 3.8% |  | 3.9% |
 | 08:40 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 52 min | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 52 min | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 12:00 | CNY | Low | FDI (Oct) |  |  | -10.40% |
+| 10:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
+| 10:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 12:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Sep) |  |  | 167.0K |
 | 13:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | -11.25K |
 | 13:15 | CAD | Moderate | Housing Starts (Oct) |  | 265.0K | 279.2K |
 | 13:30 | USD | Moderate | Export Price Index (MoM) (Sep) |  | 0.1% | 0.3% |
 | 13:30 | USD | Low | Export Price Index (YoY) (Sep) |  |  | 3.4% |
-| 13:30 | USD | Low | Import Price Index (YoY) (Sep) |  |  | 0.0% |
 | 13:30 | USD | Moderate | Import Price Index (MoM) (Sep) |  | 0.1% | 0.3% |
+| 13:30 | USD | Low | Import Price Index (YoY) (Sep) |  |  | 0.0% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.9% |
 | 14:15 | USD | Low | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
 | 14:15 | USD | Moderate | Industrial Production (MoM) (Oct) |  |  | 0.1% |
