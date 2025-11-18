@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | RBA Meeting Minutes |  |  |  |
-| 08:40 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
+| 31 min | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 10:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 10:00 | EUR | ECB's Elderson Speaks |  |  |  |
 | 13:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
@@ -19,5 +19,3 @@
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | 1.300M |
 | 21:45 | NZD | PPI Input (QoQ) (Q3) |  | 0.9% | 0.6% |
 | 23:50 | JPY | Adjusted Trade Balance |  | -0.13T | -0.31T |
-| 23:50 | JPY | Exports (YoY) (Oct) |  | 1.1% | 4.2% |
-| 23:50 | JPY | Trade Balance (Oct) |  | -280.0B | -234.6B |
