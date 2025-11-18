@@ -8,15 +8,11 @@
 | 08:40 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 10:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 10:00 | EUR | ECB's Elderson Speaks |  |  |  |
-| 48 min | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 13:15 | USD | ADP Employment Change Weekly |  |  | -11.25K |
-| 13:15 | CAD | Housing Starts (Oct) |  | 265.0K | 279.2K |
-| 13:30 | USD | Export Price Index (MoM) (Sep) |  | 0.1% | 0.3% |
-| 13:30 | USD | Import Price Index (MoM) (Sep) |  | 0.1% | 0.3% |
-| 14:15 | USD | Industrial Production (YoY) (Sep) |  |  | 0.87% |
-| 14:15 | USD | Industrial Production (MoM) (Oct) |  |  | 0.1% |
-| 15:00 | USD | Factory Orders (MoM) (Aug) |  | 1.4% | -1.3% |
-| 15:30 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 13:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 13:15 | CAD | Housing Starts (Oct) | 232.8K | 265.0K | 279.2K |
+| 13:30 | USD | ADP Employment Change Weekly | -2.50K |  | -11.25K |
+| 15:00 | USD | Factory Orders (MoM) (Aug) | 1.4% | 1.4% | -1.3% |
+| 22 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 18:00 | USD | Federal Budget Balance (Oct) |  | -223.3B | 198.0B |
 | 21:00 | USD | TIC Net Long-Term Transactions (Aug) |  | 126.1B | 49.2B |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | 1.300M |
