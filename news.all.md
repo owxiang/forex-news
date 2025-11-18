@@ -5,8 +5,10 @@
 | 00:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
 | 00:55 | USD | Low | Fed Logan Speaks |  |  |  |
 | 02:00 | NZD | Low | RBNZ Offshore Holdings (Oct) | 58.60% |  | 57.80% |
-| 08:10 | USD | Moderate | Continuing Jobless Claims | 1,957K |  | 1,926K |
-| 08:10 | USD | High | Initial Jobless Claims | 232K | 223K | 218K |
+| 08:10 | USD | Moderate | Continuing Jobless Claims | 1,947K | 1,930K | 1,916K |
+| 08:10 | USD | High | Initial Jobless Claims | 232K | 223K | 219K |
+| 08:10 | USD | Low | Jobless Claims 4-Week Avg. | 58.00K |  | 237.75K |
+| 08:11 | USD | Moderate | Continuing Jobless Claims | 1,957K |  | 1,947K |
 | 08:30 | HKD | Low | Unemployment Rate (Oct) | 3.8% |  | 3.9% |
 | 08:40 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 10:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
@@ -21,8 +23,8 @@
 | 13:30 | USD | Low | Import Price Index (YoY) (Sep) |  |  | 0.0% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.9% |
 | 14:15 | USD | Low | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
-| 14:15 | USD | Moderate | Industrial Production (MoM) (Oct) |  |  | 0.1% |
 | 14:15 | USD | Moderate | Industrial Production (YoY) (Sep) |  |  | 0.87% |
+| 14:15 | USD | Moderate | Industrial Production (MoM) (Oct) |  |  | 0.1% |
 | 15:00 | USD | Low | Durables Excluding Defense (MoM) (Aug) |  |  | 1.9% |
 | 15:00 | USD | Low | Durables Excluding Transport (MoM) (Aug) |  |  | 0.4% |
 | 15:00 | USD | Moderate | Factory Orders (MoM) (Aug) |  | 1.4% | -1.3% |
