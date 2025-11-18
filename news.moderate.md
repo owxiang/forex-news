@@ -13,7 +13,8 @@
 | 13:30 | USD | ADP Employment Change Weekly | -2.50K |  | -11.25K |
 | 15:00 | USD | Factory Orders (MoM) (Aug) | 1.4% | 1.4% | -1.3% |
 | 15:30 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 52 min | USD | TIC Net Long-Term Transactions (Aug) |  | 126.1B | 49.2B |
-| 21:30 | USD | API Weekly Crude Oil Stock |  |  | 1.300M |
-| 21:45 | NZD | PPI Input (QoQ) (Q3) |  | 0.9% | 0.6% |
+| 21:00 | USD | TIC Net Long-Term Transactions (Aug) | 134.2B | 126.1B | 39.0B |
+| 21:01 | USD | TIC Net Long-Term Transactions (Sep) | 179.8B |  | 134.2B |
+| 21:30 | USD | API Weekly Crude Oil Stock | 4.400M |  | 1.300M |
+| 21:45 | NZD | PPI Input (QoQ) (Q3) | 0.2% | 0.9% | 0.6% |
 | 23:50 | JPY | Adjusted Trade Balance |  | -0.13T | -0.31T |

@@ -25,13 +25,15 @@
 | 15:30 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 16:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 17:00 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
-| 52 min | USD | Low | US Foreign Buying, T-bonds (Aug) |  |  | 58.20B |
-| 52 min | USD | Low | Overall Net Capital Flow (Aug) |  |  | 2.10B |
-| 52 min | USD | Moderate | TIC Net Long-Term Transactions (Aug) |  | 126.1B | 49.2B |
-| 52 min | USD | Low | TIC Net Long-Term Transactions including Swaps (Aug) |  |  | 49.20B |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 1.300M |
-| 21:45 | NZD | Moderate | PPI Input (QoQ) (Q3) |  | 0.9% | 0.6% |
-| 21:45 | NZD | Low | PPI Output (QoQ) (Q3) |  | 0.7% | 0.6% |
+| 21:00 | USD | Low | US Foreign Buying, T-bonds (Aug) | 37.90B |  | 58.20B |
+| 21:00 | USD | Low | Overall Net Capital Flow (Aug) | 187.10B |  | 2.10B |
+| 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Aug) | 134.2B | 126.1B | 39.0B |
+| 21:01 | USD | Low | US Foreign Buying, T-bonds (Sep) | 23.70B |  | 37.90B |
+| 21:01 | USD | Low | Overall Net Capital Flow (Sep) | 190.10B |  | 187.10B |
+| 21:01 | USD | Moderate | TIC Net Long-Term Transactions (Sep) | 179.8B |  | 134.2B |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | 4.400M |  | 1.300M |
+| 21:45 | NZD | Moderate | PPI Input (QoQ) (Q3) | 0.2% | 0.9% | 0.6% |
+| 21:45 | NZD | Low | PPI Output (QoQ) (Q3) | 0.6% | 0.7% | 0.6% |
 | 23:50 | JPY | Moderate | Adjusted Trade Balance |  | -0.13T | -0.31T |
 | 23:50 | JPY | Low | Core Machinery Orders (MoM) (Sep) |  | 2.3% | -0.9% |
 | 23:50 | JPY | Low | Core Machinery Orders (YoY) (Sep) |  | 5.4% | 1.6% |
