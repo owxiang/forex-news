@@ -17,4 +17,4 @@
 | 21:01 | USD | TIC Net Long-Term Transactions (Sep) | 179.8B |  | 134.2B |
 | 21:30 | USD | API Weekly Crude Oil Stock | 4.400M |  | 1.300M |
 | 21:45 | NZD | PPI Input (QoQ) (Q3) | 0.2% | 0.9% | 0.6% |
-| 23:50 | JPY | Adjusted Trade Balance |  | -0.13T | -0.31T |
+| 44 min | JPY | Adjusted Trade Balance |  | -0.13T | -0.31T |
