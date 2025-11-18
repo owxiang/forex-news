@@ -25,7 +25,6 @@
 | 15:30 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 16:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 17:00 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
-| 52 min | USD | Moderate | Federal Budget Balance (Oct) |  | -223.3B | 198.0B |
 | 21:00 | USD | Low | US Foreign Buying, T-bonds (Aug) |  |  | 58.20B |
 | 21:00 | USD | Low | Overall Net Capital Flow (Aug) |  |  | 2.10B |
 | 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Aug) |  | 126.1B | 49.2B |
