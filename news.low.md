@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:55 | USD | Fed Logan Speaks |  |  |  |
-| 25 min | NZD | RBNZ Offshore Holdings (Oct) |  |  | 57.80% |
+| 02:00 | NZD | RBNZ Offshore Holdings (Oct) | 58.60% |  | 57.80% |
 | 07:30 | CHF | Industrial Production (YoY) (Q3) |  |  | -0.10% |
 | 08:30 | HKD | Unemployment Rate (Oct) |  |  | 3.9% |
 | 12:00 | CNY | FDI (Oct) |  |  | -10.40% |
