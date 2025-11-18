@@ -13,9 +13,9 @@
 | 15:00 | USD | NAHB Housing Market Index (Nov) | 38 | 37 | 37 |
 | 16:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 17:00 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
-| 21:00 | USD | US Foreign Buying, T-bonds (Aug) |  |  | 58.20B |
-| 21:00 | USD | Overall Net Capital Flow (Aug) |  |  | 2.10B |
-| 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Aug) |  |  | 49.20B |
+| 52 min | USD | US Foreign Buying, T-bonds (Aug) |  |  | 58.20B |
+| 52 min | USD | Overall Net Capital Flow (Aug) |  |  | 2.10B |
+| 52 min | USD | TIC Net Long-Term Transactions including Swaps (Aug) |  |  | 49.20B |
 | 21:45 | NZD | PPI Output (QoQ) (Q3) |  | 0.7% | 0.6% |
 | 23:50 | JPY | Core Machinery Orders (MoM) (Sep) |  | 2.3% | -0.9% |
 | 23:50 | JPY | Core Machinery Orders (YoY) (Sep) |  | 5.4% | 1.6% |

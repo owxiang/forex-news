@@ -25,10 +25,10 @@
 | 15:30 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 16:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 17:00 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
-| 21:00 | USD | Low | US Foreign Buying, T-bonds (Aug) |  |  | 58.20B |
-| 21:00 | USD | Low | Overall Net Capital Flow (Aug) |  |  | 2.10B |
-| 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Aug) |  | 126.1B | 49.2B |
-| 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Aug) |  |  | 49.20B |
+| 52 min | USD | Low | US Foreign Buying, T-bonds (Aug) |  |  | 58.20B |
+| 52 min | USD | Low | Overall Net Capital Flow (Aug) |  |  | 2.10B |
+| 52 min | USD | Moderate | TIC Net Long-Term Transactions (Aug) |  | 126.1B | 49.2B |
+| 52 min | USD | Low | TIC Net Long-Term Transactions including Swaps (Aug) |  |  | 49.20B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 1.300M |
 | 21:45 | NZD | Moderate | PPI Input (QoQ) (Q3) |  | 0.9% | 0.6% |
 | 21:45 | NZD | Low | PPI Output (QoQ) (Q3) |  | 0.7% | 0.6% |
