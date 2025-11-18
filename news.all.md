@@ -22,9 +22,9 @@
 | 15:00 | USD | Moderate | Factory Orders (MoM) (Aug) | 1.4% | 1.4% | -1.3% |
 | 15:00 | USD | Low | Factory orders ex transportation (MoM) (Aug) | 0.1% |  | 0.5% |
 | 15:00 | USD | Low | NAHB Housing Market Index (Nov) | 38 | 37 | 37 |
-| 22 min | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 52 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 17:00 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
+| 15:30 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 16:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 51 min | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
 | 18:00 | USD | Moderate | Federal Budget Balance (Oct) |  | -223.3B | 198.0B |
 | 21:00 | USD | Low | US Foreign Buying, T-bonds (Aug) |  |  | 58.20B |
 | 21:00 | USD | Low | Overall Net Capital Flow (Aug) |  |  | 2.10B |

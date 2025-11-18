@@ -12,7 +12,7 @@
 | 13:15 | CAD | Housing Starts (Oct) | 232.8K | 265.0K | 279.2K |
 | 13:30 | USD | ADP Employment Change Weekly | -2.50K |  | -11.25K |
 | 15:00 | USD | Factory Orders (MoM) (Aug) | 1.4% | 1.4% | -1.3% |
-| 22 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 15:30 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 18:00 | USD | Federal Budget Balance (Oct) |  | -223.3B | 198.0B |
 | 21:00 | USD | TIC Net Long-Term Transactions (Aug) |  | 126.1B | 49.2B |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | 1.300M |
