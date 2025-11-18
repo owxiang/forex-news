@@ -13,8 +13,7 @@
 | 08:40 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 10:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 10:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 12:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Sep) |  |  | 167.0K |
-| 13:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 48 min | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | -11.25K |
 | 13:15 | CAD | Moderate | Housing Starts (Oct) |  | 265.0K | 279.2K |
 | 13:30 | USD | Moderate | Export Price Index (MoM) (Sep) |  | 0.1% | 0.3% |
