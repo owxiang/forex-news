@@ -23,17 +23,19 @@
 | 08:00 | ZAR | Core CPI (YoY) (Oct) | 3.1% |  | 3.2% |
 | 08:00 | ZAR | CPI (MoM) (Oct) | 0.1% |  | 0.2% |
 | 08:00 | ZAR | CPI (YoY) (Oct) | 3.6% |  | 3.4% |
-| 09:00 | EUR | Current Account (Sep) | 23.1B | 15.9B | 11.9B |
-| 09:00 | EUR | Current Account n.s.a. (Sep) | 38.1B |  | 13.0B |
-| 22 min | GBP | House Price Index (YoY) |  | 3.0% | 3.0% |
-| 52 min | EUR | Core CPI (MoM) (Oct) |  | 0.3% | 0.1% |
-| 52 min | EUR | CPI ex Tobacco (MoM) (Oct) |  |  | 0.1% |
-| 52 min | EUR | CPI ex Tobacco (YoY) (Oct) |  |  | 2.2% |
-| 52 min | EUR | CPI, n.s.a (Oct) |  | 129.70 | 129.43 |
-| 52 min | EUR | HICP ex Energy & Food (YoY) (Oct) |  | 2.4% | 2.4% |
-| 52 min | EUR | HICP ex Energy and Food (MoM) (Oct) |  | 0.2% | 0.1% |
-| 11:00 | EUR | Spanish Consumer Confidence (Oct) |  |  | 81.5 |
-| 11:00 | ZAR | Retail Sales (YoY) (Sep) |  |  | 2.3% |
+| 09:00 | EUR | Current Account (Sep) | 23.1B | 15.9B | 22.2B |
+| 09:00 | EUR | Current Account n.s.a. (Sep) | 38.1B |  | 22.3B |
+| 09:30 | GBP | House Price Index (YoY) | 2.6% | 3.0% | 3.0% |
+| 10:00 | GBP | 10-Year Treasury Gilt Auction | 4.608% |  | 4.769% |
+| 10:00 | EUR | Core CPI (MoM) (Oct) | 0.3% | 0.3% | 0.1% |
+| 10:00 | EUR | CPI ex Tobacco (MoM) (Oct) | 0.2% |  | 0.1% |
+| 10:00 | EUR | CPI ex Tobacco (YoY) (Oct) | 2.1% |  | 2.2% |
+| 10:00 | EUR | CPI, n.s.a (Oct) | 129.70 | 129.70 | 129.43 |
+| 10:00 | EUR | HICP ex Energy & Food (YoY) (Oct) | 2.4% | 2.4% | 2.4% |
+| 10:00 | EUR | HICP ex Energy and Food (MoM) (Oct) | 0.2% | 0.2% | 0.1% |
+| 10:00 | EUR | Labor Cost Index (YoY) (Q3) | 3.50% |  | 3.60% |
+| 52 min | EUR | Spanish Consumer Confidence (Oct) |  |  | 81.5 |
+| 52 min | ZAR | Retail Sales (YoY) (Sep) |  |  | 2.3% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.34% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 0.6% |
 | 12:00 | USD | MBA Purchase Index |  |  | 172.7 |
