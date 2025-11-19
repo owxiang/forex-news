@@ -6,20 +6,20 @@
 | 00:55 | USD | Fed Logan Speaks |  |  |  |
 | 07:00 | GBP | Core CPI (YoY) (Oct) |  | 3.4% | 3.5% |
 | 07:00 | GBP | Core CPI (MoM) (Oct) |  | 0.4% | 0.0% |
-| 07:00 | GBP | Core PPI Output (YoY) (Oct) |  |  | 3.6% |
 | 07:00 | GBP | Core PPI Output (MoM) (Oct) |  |  | 0.1% |
-| 07:00 | GBP | Core RPI (YoY) (Oct) |  |  | 4.4% |
+| 07:00 | GBP | Core PPI Output (YoY) (Oct) |  |  | 3.6% |
 | 07:00 | GBP | Core RPI (MoM) (Oct) |  |  | -0.4% |
+| 07:00 | GBP | Core RPI (YoY) (Oct) |  |  | 4.4% |
 | 07:00 | GBP | CPI, n.s.a (Oct) |  |  | 139.30 |
 | 07:00 | GBP | PPI Input (YoY) (Oct) |  | 0.7% | 0.8% |
+| 07:00 | GBP | PPI Output (MoM) (Oct) |  | 0.1% | 0.0% |
 | 07:00 | GBP | PPI Output (YoY) (Oct) |  |  | 3.4% |
-| 07:00 | GBP | PPI Output (MoM) (Oct) |  | 0.0% | 0.0% |
-| 07:00 | GBP | RPI (MoM) (Oct) |  | 0.3% | -0.4% |
 | 07:00 | GBP | RPI (YoY) (Oct) |  | 4.3% | 4.5% |
+| 07:00 | GBP | RPI (MoM) (Oct) |  | 0.3% | -0.4% |
 | 07:30 | IDR | Deposit Facility Rate (Nov) |  |  | 3.75% |
 | 07:30 | IDR | Lending Facility Rate (Nov) |  | 5.50% | 5.50% |
 | 07:30 | IDR | Loans (YoY) (Oct) |  |  | 7.70% |
-| 08:00 | EUR | Current Account (Sep) |  | 16.2B | 11.9B |
+| 08:00 | EUR | Current Account (Sep) |  | 15.9B | 11.9B |
 | 08:00 | EUR | Current Account n.s.a. (Sep) |  |  | 13.0B |
 | 08:00 | ZAR | Core CPI (MoM) (Oct) |  |  | 0.3% |
 | 08:00 | ZAR | Core CPI (YoY) (Oct) |  |  | 3.2% |
@@ -44,8 +44,6 @@
 | 13:30 | USD | Export Price Index (YoY) (Sep) |  |  | 3.4% |
 | 13:30 | USD | Import Price Index (YoY) (Sep) |  |  | 0.0% |
 | 14:15 | USD | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
-| 15:00 | NZD | GlobalDairyTrade Price Index |  |  | -2.4% |
-| 15:00 | USD | Milk Auctions |  |  | 3,768.0 |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.717M |
 | 15:30 | USD | Crude Oil Imports |  |  | 0.849M |
 | 15:30 | USD | Distillate Fuel Production |  |  | 0.319M |
@@ -56,5 +54,16 @@
 | 15:30 | USD | Gasoline Inventories |  |  | -0.945M |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | -1.786B |
 | 17:45 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.7K |
+| 20:30 | USD | CFTC Copper speculative net positions |  |  | 30.2K |
+| 20:30 | USD | CFTC Corn speculative net positions |  |  | -51.2K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -128.1K |
+| 20:30 | USD | CFTC Silver speculative net positions |  |  | 52.3K |
+| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 5.7K |
+| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -81.7K |
+| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -114.8K |
+| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 83.4K |
+| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -23.0K |
+| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -21.1K |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | 566.3B |
 | 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -347.3B |
