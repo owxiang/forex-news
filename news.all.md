@@ -52,17 +52,17 @@
 | 12:00 | USD | Low | Mortgage Market Index | 316.9 |  | 334.2 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 1,156.8 |  | 1,247.5 |
 | 13:30 | USD | Moderate | Trade Balance (Aug) | -59.60B | -61.30B | -78.20B |
-| 22 min | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 4.0% | 4.0% |
-| 22 min | USD | High | Crude Oil Inventories |  | -1.900M | 6.413M |
-| 22 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.717M |
-| 22 min | USD | Low | Crude Oil Imports |  |  | 0.849M |
-| 22 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.346M |
-| 22 min | USD | Low | Distillate Fuel Production |  |  | 0.319M |
-| 22 min | USD | Low | EIA Weekly Distillates Stocks |  | -1.400M | -0.637M |
-| 22 min | USD | Low | Gasoline Production |  |  | 0.102M |
-| 22 min | USD | Low | Heating Oil Stockpiles |  |  | 0.055M |
-| 22 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 3.4% |
-| 22 min | USD | Low | Gasoline Inventories |  | -0.600M | -0.945M |
+| 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 4.2% | 4.0% | 4.0% |
+| 15:30 | USD | High | Crude Oil Inventories | -3.426M | -0.600M | 6.413M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.259M |  | 0.717M |
+| 15:30 | USD | Low | Crude Oil Imports | -0.614M |  | 0.849M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | -0.698M |  | -0.346M |
+| 15:30 | USD | Low | Distillate Fuel Production | -0.117M |  | 0.319M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks | 0.171M | -1.200M | -0.637M |
+| 15:30 | USD | Low | Gasoline Production | -0.662M |  | 0.102M |
+| 15:30 | USD | Low | Heating Oil Stockpiles | -0.494M |  | 0.055M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 0.6% |  | 3.4% |
+| 15:30 | USD | Low | Gasoline Inventories | 2.327M | -0.200M | -0.945M |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -1.786B |
 | 17:45 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 18:00 | USD | Moderate | 20-Year Bond Auction |  |  | 4.506% |

@@ -12,8 +12,8 @@
 | 10:00 | EUR | CPI (MoM) (Oct) | 0.2% | 0.2% | 0.1% |
 | 11:30 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 13:30 | USD | Trade Balance (Aug) | -59.60B | -61.30B | -78.20B |
-| 22 min | USD | Atlanta Fed GDPNow (Q4) |  | 4.0% | 4.0% |
-| 22 min | USD | Cushing Crude Oil Inventories |  |  | -0.346M |
+| 15:30 | USD | Atlanta Fed GDPNow (Q4) | 4.2% | 4.0% | 4.0% |
+| 15:30 | USD | Cushing Crude Oil Inventories | -0.698M |  | -0.346M |
 | 18:00 | USD | 20-Year Bond Auction |  |  | 4.506% |
 | 18:00 | USD | Federal Budget Balance (Oct) |  | -223.3B | 198.0B |
 | 19:00 | USD | FOMC Member Williams Speaks |  |  |  |
