@@ -6,16 +6,16 @@
 | 00:55 | USD | Fed Logan Speaks |  |  |  |
 | 07:00 | GBP | Core CPI (YoY) (Oct) |  | 3.4% | 3.5% |
 | 07:00 | GBP | Core CPI (MoM) (Oct) |  | 0.4% | 0.0% |
-| 07:00 | GBP | Core PPI Output (MoM) (Oct) |  |  | 0.1% |
 | 07:00 | GBP | Core PPI Output (YoY) (Oct) |  |  | 3.6% |
-| 07:00 | GBP | Core RPI (MoM) (Oct) |  |  | -0.4% |
+| 07:00 | GBP | Core PPI Output (MoM) (Oct) |  |  | 0.1% |
 | 07:00 | GBP | Core RPI (YoY) (Oct) |  |  | 4.4% |
+| 07:00 | GBP | Core RPI (MoM) (Oct) |  |  | -0.4% |
 | 07:00 | GBP | CPI, n.s.a (Oct) |  |  | 139.30 |
 | 07:00 | GBP | PPI Input (YoY) (Oct) |  |  | 0.8% |
 | 07:00 | GBP | PPI Output (YoY) (Oct) |  |  | 3.4% |
 | 07:00 | GBP | PPI Output (MoM) (Oct) |  | 0.0% | 0.0% |
-| 07:00 | GBP | RPI (YoY) (Oct) |  | 4.3% | 4.5% |
 | 07:00 | GBP | RPI (MoM) (Oct) |  | 0.3% | -0.4% |
+| 07:00 | GBP | RPI (YoY) (Oct) |  | 4.3% | 4.5% |
 | 07:30 | IDR | Deposit Facility Rate (Nov) |  |  | 3.75% |
 | 07:30 | IDR | Lending Facility Rate (Nov) |  | 5.50% | 5.50% |
 | 07:30 | IDR | Loans (YoY) (Oct) |  |  | 7.70% |
