@@ -21,8 +21,8 @@
 | 07:30 | IDR | Lending Facility Rate (Nov) | 5.50% | 5.50% | 5.50% |
 | 08:00 | ZAR | Core CPI (MoM) (Oct) | 0.1% |  | 0.3% |
 | 08:00 | ZAR | Core CPI (YoY) (Oct) | 3.1% |  | 3.2% |
-| 08:00 | ZAR | CPI (YoY) (Oct) | 3.6% |  | 3.4% |
 | 08:00 | ZAR | CPI (MoM) (Oct) | 0.1% |  | 0.2% |
+| 08:00 | ZAR | CPI (YoY) (Oct) | 3.6% |  | 3.4% |
 | 09:00 | EUR | Current Account (Sep) | 23.1B | 15.9B | 22.2B |
 | 09:00 | EUR | Current Account n.s.a. (Sep) | 38.1B |  | 22.3B |
 | 09:30 | GBP | House Price Index (YoY) | 2.6% | 3.0% | 3.0% |
@@ -40,15 +40,14 @@
 | 12:00 | USD | MBA Purchase Index | 168.7 |  | 172.7 |
 | 12:00 | USD | Mortgage Market Index | 316.9 |  | 334.2 |
 | 12:00 | USD | Mortgage Refinance Index | 1,156.8 |  | 1,247.5 |
-| 8 min | USD | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.717M |
-| 15:30 | USD | Crude Oil Imports |  |  | 0.849M |
-| 15:30 | USD | Distillate Fuel Production |  |  | 0.319M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  | -1.400M | -0.637M |
-| 15:30 | USD | Gasoline Production |  |  | 0.102M |
-| 15:30 | USD | Heating Oil Stockpiles |  |  | 0.055M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 3.4% |
-| 15:30 | USD | Gasoline Inventories |  | -0.600M | -0.945M |
+| 22 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.717M |
+| 22 min | USD | Crude Oil Imports |  |  | 0.849M |
+| 22 min | USD | Distillate Fuel Production |  |  | 0.319M |
+| 22 min | USD | EIA Weekly Distillates Stocks |  | -1.400M | -0.637M |
+| 22 min | USD | Gasoline Production |  |  | 0.102M |
+| 22 min | USD | Heating Oil Stockpiles |  |  | 0.055M |
+| 22 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 3.4% |
+| 22 min | USD | Gasoline Inventories |  | -0.600M | -0.945M |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | -1.786B |
 | 17:45 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.7K |

@@ -28,16 +28,16 @@
 | 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 08:00 | ZAR | Low | Core CPI (MoM) (Oct) | 0.1% |  | 0.3% |
 | 08:00 | ZAR | Low | Core CPI (YoY) (Oct) | 3.1% |  | 3.2% |
-| 08:00 | ZAR | Low | CPI (YoY) (Oct) | 3.6% |  | 3.4% |
 | 08:00 | ZAR | Low | CPI (MoM) (Oct) | 0.1% |  | 0.2% |
+| 08:00 | ZAR | Low | CPI (YoY) (Oct) | 3.6% |  | 3.4% |
 | 09:00 | EUR | Low | Current Account (Sep) | 23.1B | 15.9B | 22.2B |
 | 09:00 | EUR | Low | Current Account n.s.a. (Sep) | 38.1B |  | 22.3B |
 | 09:30 | GBP | Low | House Price Index (YoY) | 2.6% | 3.0% | 3.0% |
 | 10:00 | GBP | Low | 10-Year Treasury Gilt Auction | 4.608% |  | 4.769% |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Oct) | 2.4% | 2.4% | 2.4% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Oct) | 0.3% | 0.3% | 0.1% |
-| 10:00 | EUR | High | CPI (YoY) (Oct) | 2.1% | 2.1% | 2.2% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Oct) | 2.4% | 2.4% | 2.4% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Oct) | 0.2% | 0.2% | 0.1% |
+| 10:00 | EUR | High | CPI (YoY) (Oct) | 2.1% | 2.1% | 2.2% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Oct) | 0.2% |  | 0.1% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Oct) | 2.1% |  | 2.2% |
 | 10:00 | EUR | Low | CPI, n.s.a (Oct) | 129.70 | 129.70 | 129.43 |
@@ -52,20 +52,17 @@
 | 12:00 | USD | Low | Mortgage Market Index | 316.9 |  | 334.2 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 1,156.8 |  | 1,247.5 |
 | 13:30 | USD | Moderate | Trade Balance (Aug) | -59.60B | -61.30B | -78.20B |
-| 8 min | USD | Low | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
-| 8 min | USD | Moderate | Industrial Production (MoM) (Oct) |  |  | 0.1% |
-| 8 min | USD | Moderate | Industrial Production (YoY) (Sep) |  |  | 0.87% |
-| 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 4.0% | 4.0% |
-| 15:30 | USD | High | Crude Oil Inventories |  | -1.900M | 6.413M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.717M |
-| 15:30 | USD | Low | Crude Oil Imports |  |  | 0.849M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.346M |
-| 15:30 | USD | Low | Distillate Fuel Production |  |  | 0.319M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | -1.400M | -0.637M |
-| 15:30 | USD | Low | Gasoline Production |  |  | 0.102M |
-| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.055M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 3.4% |
-| 15:30 | USD | Low | Gasoline Inventories |  | -0.600M | -0.945M |
+| 22 min | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 4.0% | 4.0% |
+| 22 min | USD | High | Crude Oil Inventories |  | -1.900M | 6.413M |
+| 22 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.717M |
+| 22 min | USD | Low | Crude Oil Imports |  |  | 0.849M |
+| 22 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.346M |
+| 22 min | USD | Low | Distillate Fuel Production |  |  | 0.319M |
+| 22 min | USD | Low | EIA Weekly Distillates Stocks |  | -1.400M | -0.637M |
+| 22 min | USD | Low | Gasoline Production |  |  | 0.102M |
+| 22 min | USD | Low | Heating Oil Stockpiles |  |  | 0.055M |
+| 22 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 3.4% |
+| 22 min | USD | Low | Gasoline Inventories |  | -0.600M | -0.945M |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -1.786B |
 | 17:45 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 18:00 | USD | Moderate | 20-Year Bond Auction |  |  | 4.506% |
