@@ -4,9 +4,9 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Wage Price Index (QoQ) (Q3) | 0.8% | 0.8% | 0.8% |
 | 03:30 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 07:00 | GBP | CPI (MoM) (Oct) |  | 0.4% | 0.0% |
-| 07:00 | GBP | CPIH (YoY) |  |  | 4.1% |
-| 07:00 | GBP | PPI Input (MoM) (Oct) |  | 0.0% | -0.1% |
+| 50 min | GBP | CPI (MoM) (Oct) |  | 0.4% | 0.0% |
+| 50 min | GBP | CPIH (YoY) |  |  | 4.1% |
+| 50 min | GBP | PPI Input (MoM) (Oct) |  | 0.0% | -0.1% |
 | 07:30 | IDR | Interest Rate Decision |  | 4.75% | 4.75% |
 | 08:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 10:00 | EUR | Core CPI (YoY) (Oct) |  | 2.4% | 2.4% |
