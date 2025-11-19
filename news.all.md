@@ -2,10 +2,9 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | AUD | Low | MI Leading Index (MoM) (Oct) | 0.1% |  | -0.0% |
-| 00:30 | AUD | Moderate | Wage Price Index (QoQ) (Q3) | 0.8% | 0.8% | 0.8% |
 | 00:30 | AUD | Low | Wage Price Index (YoY) (Q3) | 3.4% | 3.4% | 3.4% |
-| 24 min | USD | Low | Fed Logan Speaks |  |  |  |
+| 00:30 | AUD | Moderate | Wage Price Index (QoQ) (Q3) | 0.8% | 0.8% | 0.8% |
+| 00:55 | USD | Low | Fed Logan Speaks |  |  |  |
 | 03:30 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 04:00 | JPY | Moderate | Adjusted Trade Balance |  | -0.13T | -0.31T |
 | 07:00 | GBP | Low | Core CPI (YoY) (Oct) |  | 3.4% | 3.5% |
@@ -14,16 +13,16 @@
 | 07:00 | GBP | Low | Core PPI Output (YoY) (Oct) |  |  | 3.6% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Oct) |  |  | -0.4% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Oct) |  |  | 4.4% |
-| 07:00 | GBP | High | CPI (YoY) (Oct) |  | 3.5% | 3.8% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Oct) |  | 0.4% | 0.0% |
+| 07:00 | GBP | High | CPI (YoY) (Oct) |  | 3.5% | 3.8% |
 | 07:00 | GBP | Low | CPI, n.s.a (Oct) |  |  | 139.30 |
 | 07:00 | GBP | Moderate | CPIH (YoY) |  |  | 4.1% |
-| 07:00 | GBP | Moderate | PPI Input (MoM) (Oct) |  | 0.0% | -0.1% |
 | 07:00 | GBP | Low | PPI Input (YoY) (Oct) |  |  | 0.8% |
+| 07:00 | GBP | Moderate | PPI Input (MoM) (Oct) |  | 0.0% | -0.1% |
 | 07:00 | GBP | Low | PPI Output (YoY) (Oct) |  |  | 3.4% |
 | 07:00 | GBP | Low | PPI Output (MoM) (Oct) |  | 0.0% | 0.0% |
-| 07:00 | GBP | Low | RPI (MoM) (Oct) |  | 0.3% | -0.4% |
 | 07:00 | GBP | Low | RPI (YoY) (Oct) |  | 4.3% | 4.5% |
+| 07:00 | GBP | Low | RPI (MoM) (Oct) |  | 0.3% | -0.4% |
 | 07:30 | IDR | Moderate | Interest Rate Decision |  | 4.75% | 4.75% |
 | 07:30 | IDR | Low | Deposit Facility Rate (Nov) |  |  | 3.75% |
 | 07:30 | IDR | Low | Lending Facility Rate (Nov) |  | 5.50% | 5.50% |
@@ -33,8 +32,8 @@
 | 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 08:00 | ZAR | Low | Core CPI (MoM) (Oct) |  |  | 0.3% |
 | 08:00 | ZAR | Low | Core CPI (YoY) (Oct) |  |  | 3.2% |
-| 08:00 | ZAR | Low | CPI (YoY) (Oct) |  |  | 3.4% |
 | 08:00 | ZAR | Low | CPI (MoM) (Oct) |  |  | 0.2% |
+| 08:00 | ZAR | Low | CPI (YoY) (Oct) |  |  | 3.4% |
 | 09:30 | GBP | Low | House Price Index (YoY) |  | 3.0% | 3.0% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Oct) |  | 2.4% | 2.4% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Oct) |  | 0.3% | 0.1% |
@@ -56,16 +55,16 @@
 | 12:00 | CNY | Low | FDI (Oct) |  |  | -10.40% |
 | 13:30 | USD | Moderate | Building Permits (Sep) |  | 1.340M | 1.330M |
 | 13:30 | USD | Low | Building Permits (MoM) (Sep) |  |  | -2.3% |
-| 13:30 | USD | Low | Export Price Index (YoY) (Sep) |  |  | 3.4% |
 | 13:30 | USD | Moderate | Export Price Index (MoM) (Sep) |  | 0.1% | 0.3% |
+| 13:30 | USD | Low | Export Price Index (YoY) (Sep) |  |  | 3.4% |
 | 13:30 | USD | Moderate | Housing Starts (Sep) |  | 1.330M | 1.307M |
 | 13:30 | USD | Moderate | Housing Starts (MoM) (Sep) |  |  | -8.5% |
-| 13:30 | USD | Low | Import Price Index (YoY) (Sep) |  |  | 0.0% |
 | 13:30 | USD | Moderate | Import Price Index (MoM) (Sep) |  | 0.1% | 0.3% |
+| 13:30 | USD | Low | Import Price Index (YoY) (Sep) |  |  | 0.0% |
 | 13:30 | USD | Moderate | Trade Balance (Aug) |  | -61.40B | -78.30B |
 | 14:15 | USD | Low | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
-| 14:15 | USD | Moderate | Industrial Production (YoY) (Sep) |  |  | 0.87% |
 | 14:15 | USD | Moderate | Industrial Production (MoM) (Oct) |  |  | 0.1% |
+| 14:15 | USD | Moderate | Industrial Production (YoY) (Sep) |  |  | 0.87% |
 | 15:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -2.4% |
 | 15:00 | USD | Low | Milk Auctions |  |  | 3,768.0 |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  |  |  |

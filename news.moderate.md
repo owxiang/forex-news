@@ -19,8 +19,8 @@
 | 13:30 | USD | Housing Starts (MoM) (Sep) |  |  | -8.5% |
 | 13:30 | USD | Import Price Index (MoM) (Sep) |  | 0.1% | 0.3% |
 | 13:30 | USD | Trade Balance (Aug) |  | -61.40B | -78.30B |
-| 14:15 | USD | Industrial Production (YoY) (Sep) |  |  | 0.87% |
 | 14:15 | USD | Industrial Production (MoM) (Oct) |  |  | 0.1% |
+| 14:15 | USD | Industrial Production (YoY) (Sep) |  |  | 0.87% |
 | 15:30 | USD | Atlanta Fed GDPNow (Q4) |  |  |  |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.346M |
 | 18:00 | USD | 20-Year Bond Auction |  |  | 4.506% |
