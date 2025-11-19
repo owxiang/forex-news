@@ -88,5 +88,5 @@
 | 20:30 | JPY | Moderate | CFTC JPY speculative net positions |  |  | 79.5K |
 | 20:30 | NZD | Low | CFTC NZD speculative net positions |  |  | -21.1K |
 | 20:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | 114.3K |
-| 23:50 | JPY | Low | Foreign Bonds Buying |  |  | 566.3B |
-| 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -347.3B |
+| 43 min | JPY | Low | Foreign Bonds Buying |  |  | 566.3B |
+| 43 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -347.3B |

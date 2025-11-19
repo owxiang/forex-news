@@ -61,5 +61,5 @@
 | 20:30 | MXN | CFTC MXN speculative net positions |  |  | 83.4K |
 | 20:30 | CHF | CFTC CHF speculative net positions |  |  | -23.0K |
 | 20:30 | NZD | CFTC NZD speculative net positions |  |  | -21.1K |
-| 23:50 | JPY | Foreign Bonds Buying |  |  | 566.3B |
-| 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -347.3B |
+| 43 min | JPY | Foreign Bonds Buying |  |  | 566.3B |
+| 43 min | JPY | Foreign Investments in Japanese Stocks |  |  | -347.3B |
