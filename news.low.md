@@ -34,14 +34,14 @@
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Oct) | 2.4% | 2.4% | 2.4% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Oct) | 0.2% | 0.2% | 0.1% |
 | 10:00 | EUR | Labor Cost Index (YoY) (Q3) | 3.50% |  | 3.60% |
-| 52 min | EUR | Spanish Consumer Confidence (Oct) |  |  | 81.5 |
-| 52 min | ZAR | Retail Sales (YoY) (Sep) |  |  | 2.3% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.34% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 0.6% |
-| 12:00 | USD | MBA Purchase Index |  |  | 172.7 |
-| 12:00 | USD | Mortgage Market Index |  |  | 334.2 |
-| 12:00 | USD | Mortgage Refinance Index |  |  | 1,247.5 |
-| 12:00 | CNY | FDI (Oct) |  |  | -10.40% |
+| 11:00 | ZAR | Retail Sales (YoY) (Sep) | 3.1% |  | 2.2% |
+| 54 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.34% |
+| 54 min | USD | MBA Mortgage Applications (WoW) |  |  | 0.6% |
+| 54 min | USD | MBA Purchase Index |  |  | 172.7 |
+| 54 min | USD | Mortgage Market Index |  |  | 334.2 |
+| 54 min | USD | Mortgage Refinance Index |  |  | 1,247.5 |
+| 54 min | EUR | Spanish Consumer Confidence (Oct) |  |  | 81.5 |
+| 54 min | CNY | FDI (Oct) |  |  | -10.40% |
 | 13:30 | USD | Building Permits (MoM) (Sep) |  |  | -2.3% |
 | 13:30 | USD | Export Price Index (YoY) (Sep) |  |  | 3.4% |
 | 13:30 | USD | Import Price Index (YoY) (Sep) |  |  | 0.0% |

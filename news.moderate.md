@@ -10,7 +10,7 @@
 | 08:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 10:00 | EUR | Core CPI (YoY) (Oct) | 2.4% | 2.4% | 2.4% |
 | 10:00 | EUR | CPI (MoM) (Oct) | 0.2% | 0.2% | 0.1% |
-| 11:30 | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 24 min | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 13:30 | USD | Building Permits (Sep) |  | 1.340M | 1.330M |
 | 13:30 | USD | Export Price Index (MoM) (Sep) |  | 0.1% | 0.3% |
 | 13:30 | USD | Housing Starts (Sep) |  | 1.320M | 1.307M |
@@ -33,4 +33,3 @@
 | 20:30 | BRL | CFTC BRL speculative net positions |  |  | 65.5K |
 | 20:30 | JPY | CFTC JPY speculative net positions |  |  | 79.5K |
 | 20:30 | EUR | CFTC EUR speculative net positions |  |  | 114.3K |
-| 23:50 | JPY | Adjusted Trade Balance |  | -0.13T | -0.31T |

@@ -44,15 +44,15 @@
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Oct) | 2.4% | 2.4% | 2.4% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Oct) | 0.2% | 0.2% | 0.1% |
 | 10:00 | EUR | Low | Labor Cost Index (YoY) (Q3) | 3.50% |  | 3.60% |
-| 52 min | EUR | Low | Spanish Consumer Confidence (Oct) |  |  | 81.5 |
-| 52 min | ZAR | Low | Retail Sales (YoY) (Sep) |  |  | 2.3% |
-| 11:30 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.34% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 0.6% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 172.7 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 334.2 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 1,247.5 |
-| 12:00 | CNY | Low | FDI (Oct) |  |  | -10.40% |
+| 11:00 | ZAR | Low | Retail Sales (YoY) (Sep) | 3.1% |  | 2.2% |
+| 24 min | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
+| 54 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.34% |
+| 54 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | 0.6% |
+| 54 min | USD | Low | MBA Purchase Index |  |  | 172.7 |
+| 54 min | USD | Low | Mortgage Market Index |  |  | 334.2 |
+| 54 min | USD | Low | Mortgage Refinance Index |  |  | 1,247.5 |
+| 54 min | EUR | Low | Spanish Consumer Confidence (Oct) |  |  | 81.5 |
+| 54 min | CNY | Low | FDI (Oct) |  |  | -10.40% |
 | 13:30 | USD | Moderate | Building Permits (Sep) |  | 1.340M | 1.330M |
 | 13:30 | USD | Low | Building Permits (MoM) (Sep) |  |  | -2.3% |
 | 13:30 | USD | Moderate | Export Price Index (MoM) (Sep) |  | 0.1% | 0.3% |
@@ -102,6 +102,5 @@
 | 20:30 | JPY | Moderate | CFTC JPY speculative net positions |  |  | 79.5K |
 | 20:30 | NZD | Low | CFTC NZD speculative net positions |  |  | -21.1K |
 | 20:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | 114.3K |
-| 23:50 | JPY | Moderate | Adjusted Trade Balance |  | -0.13T | -0.31T |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | 566.3B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -347.3B |
