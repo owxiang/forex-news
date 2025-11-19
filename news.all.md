@@ -5,7 +5,7 @@
 | 00:30 | AUD | Low | Wage Price Index (YoY) (Q3) | 3.4% | 3.4% | 3.4% |
 | 00:30 | AUD | Moderate | Wage Price Index (QoQ) (Q3) | 0.8% | 0.8% | 0.8% |
 | 00:55 | USD | Low | Fed Logan Speaks |  |  |  |
-| 53 min | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 3 min | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 07:00 | GBP | Low | Core CPI (YoY) (Oct) |  | 3.4% | 3.5% |
 | 07:00 | GBP | Low | Core CPI (MoM) (Oct) |  | 0.4% | 0.0% |
 | 07:00 | GBP | Low | Core PPI Output (YoY) (Oct) |  |  | 3.6% |
