@@ -6,14 +6,14 @@
 | 00:55 | USD | Fed Logan Speaks |  |  |  |
 | 07:00 | GBP | Core CPI (YoY) (Oct) | 3.4% | 3.4% | 3.5% |
 | 07:00 | GBP | Core CPI (MoM) (Oct) | 0.3% | 0.4% | 0.0% |
-| 07:00 | GBP | Core PPI Output (MoM) (Oct) | 0.1% |  | 0.1% |
 | 07:00 | GBP | Core PPI Output (YoY) (Oct) | 3.5% |  | 3.5% |
+| 07:00 | GBP | Core PPI Output (MoM) (Oct) | 0.1% |  | 0.1% |
 | 07:00 | GBP | Core RPI (MoM) (Oct) | 0.3% |  | -0.4% |
 | 07:00 | GBP | Core RPI (YoY) (Oct) | 4.2% |  | 4.4% |
 | 07:00 | GBP | CPI, n.s.a (Oct) | 139.80 |  | 139.30 |
 | 07:00 | GBP | PPI Input (YoY) (Oct) | 0.5% | 0.7% | 0.7% |
-| 07:00 | GBP | PPI Output (MoM) (Oct) | 0.0% | 0.1% | 0.0% |
 | 07:00 | GBP | PPI Output (YoY) (Oct) | 3.6% |  | 3.5% |
+| 07:00 | GBP | PPI Output (MoM) (Oct) | 0.0% | 0.1% | 0.0% |
 | 07:00 | GBP | RPI (YoY) (Oct) | 4.3% | 4.3% | 4.5% |
 | 07:00 | GBP | RPI (MoM) (Oct) | 0.3% | 0.3% | -0.4% |
 | 07:20 | IDR | Loans (YoY) (Oct) | 7.36% |  | 7.70% |
@@ -35,13 +35,11 @@
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Oct) | 0.2% | 0.2% | 0.1% |
 | 10:00 | EUR | Labor Cost Index (YoY) (Q3) | 3.50% |  | 3.60% |
 | 11:00 | ZAR | Retail Sales (YoY) (Sep) | 3.1% |  | 2.2% |
-| 54 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.34% |
-| 54 min | USD | MBA Mortgage Applications (WoW) |  |  | 0.6% |
-| 54 min | USD | MBA Purchase Index |  |  | 172.7 |
-| 54 min | USD | Mortgage Market Index |  |  | 334.2 |
-| 54 min | USD | Mortgage Refinance Index |  |  | 1,247.5 |
-| 54 min | EUR | Spanish Consumer Confidence (Oct) |  |  | 81.5 |
-| 54 min | CNY | FDI (Oct) |  |  | -10.40% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.37% |  | 6.34% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | -5.2% |  | 0.6% |
+| 12:00 | USD | MBA Purchase Index | 168.7 |  | 172.7 |
+| 12:00 | USD | Mortgage Market Index | 316.9 |  | 334.2 |
+| 12:00 | USD | Mortgage Refinance Index | 1,156.8 |  | 1,247.5 |
 | 13:30 | USD | Building Permits (MoM) (Sep) |  |  | -2.3% |
 | 13:30 | USD | Export Price Index (YoY) (Sep) |  |  | 3.4% |
 | 13:30 | USD | Import Price Index (YoY) (Sep) |  |  | 0.0% |
@@ -49,11 +47,11 @@
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.717M |
 | 15:30 | USD | Crude Oil Imports |  |  | 0.849M |
 | 15:30 | USD | Distillate Fuel Production |  |  | 0.319M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | -0.637M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  | -1.400M | -0.637M |
 | 15:30 | USD | Gasoline Production |  |  | 0.102M |
 | 15:30 | USD | Heating Oil Stockpiles |  |  | 0.055M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 3.4% |
-| 15:30 | USD | Gasoline Inventories |  |  | -0.945M |
+| 15:30 | USD | Gasoline Inventories |  | -0.600M | -0.945M |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | -1.786B |
 | 17:45 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.7K |
