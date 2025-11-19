@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Wage Price Index (QoQ) (Q3) | 0.8% | 0.8% | 0.8% |
-| 3 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 03:30 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 07:00 | GBP | CPI (MoM) (Oct) |  | 0.4% | 0.0% |
 | 07:00 | GBP | CPIH (YoY) |  |  | 4.1% |
 | 07:00 | GBP | PPI Input (MoM) (Oct) |  | 0.0% | -0.1% |

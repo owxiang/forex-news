@@ -11,7 +11,7 @@
 | 07:00 | GBP | Core RPI (YoY) (Oct) |  |  | 4.4% |
 | 07:00 | GBP | Core RPI (MoM) (Oct) |  |  | -0.4% |
 | 07:00 | GBP | CPI, n.s.a (Oct) |  |  | 139.30 |
-| 07:00 | GBP | PPI Input (YoY) (Oct) |  |  | 0.8% |
+| 07:00 | GBP | PPI Input (YoY) (Oct) |  | 0.7% | 0.8% |
 | 07:00 | GBP | PPI Output (YoY) (Oct) |  |  | 3.4% |
 | 07:00 | GBP | PPI Output (MoM) (Oct) |  | 0.0% | 0.0% |
 | 07:00 | GBP | RPI (MoM) (Oct) |  | 0.3% | -0.4% |
