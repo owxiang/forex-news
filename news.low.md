@@ -50,16 +50,16 @@
 | 15:30 | USD | Gasoline Inventories | 2.327M | -0.200M | -0.945M |
 | 17:30 | BRL | Foreign Exchange Flows | -1.219B |  | -1.786B |
 | 17:45 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 22 min | USD | CFTC Aluminium speculative net positions |  |  | 0.7K |
-| 22 min | USD | CFTC Copper speculative net positions |  |  | 30.2K |
-| 22 min | USD | CFTC Corn speculative net positions |  |  | -51.2K |
-| 22 min | USD | CFTC Natural Gas speculative net positions |  |  | -128.1K |
-| 22 min | USD | CFTC Silver speculative net positions |  |  | 52.3K |
-| 22 min | USD | CFTC Soybeans speculative net positions |  |  | 5.7K |
-| 22 min | USD | CFTC Wheat speculative net positions |  |  | -81.7K |
-| 22 min | CAD | CFTC CAD speculative net positions |  |  | -114.8K |
-| 22 min | MXN | CFTC MXN speculative net positions |  |  | 83.4K |
-| 22 min | CHF | CFTC CHF speculative net positions |  |  | -23.0K |
-| 22 min | NZD | CFTC NZD speculative net positions |  |  | -21.1K |
+| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.7K |
+| 20:30 | USD | CFTC Copper speculative net positions |  |  | 30.2K |
+| 20:30 | USD | CFTC Corn speculative net positions |  |  | -51.2K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -128.1K |
+| 20:30 | USD | CFTC Silver speculative net positions |  |  | 52.3K |
+| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 5.7K |
+| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -81.7K |
+| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -114.8K |
+| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 83.4K |
+| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -23.0K |
+| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -21.1K |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | 566.3B |
 | 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -347.3B |
