@@ -16,12 +16,12 @@
 | 15:30 | USD | Cushing Crude Oil Inventories | -0.698M |  | -0.346M |
 | 18:00 | USD | 20-Year Bond Auction | 4.706% |  | 4.506% |
 | 19:00 | USD | FOMC Member Williams Speaks |  |  |  |
-| 20:30 | GBP | CFTC GBP speculative net positions |  |  | -2.0K |
-| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 103.0K |
-| 20:30 | USD | CFTC Gold speculative net positions |  |  | 266.7K |
-| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 23.4K |
-| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -172.5K |
-| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -59.6K |
-| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 65.5K |
-| 20:30 | JPY | CFTC JPY speculative net positions |  |  | 79.5K |
-| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 114.3K |
+| 22 min | GBP | CFTC GBP speculative net positions |  |  | -2.0K |
+| 22 min | USD | CFTC Crude Oil speculative net positions |  |  | 103.0K |
+| 22 min | USD | CFTC Gold speculative net positions |  |  | 266.7K |
+| 22 min | USD | CFTC Nasdaq 100 speculative net positions |  |  | 23.4K |
+| 22 min | USD | CFTC S&P 500 speculative net positions |  |  | -172.5K |
+| 22 min | AUD | CFTC AUD speculative net positions |  |  | -59.6K |
+| 22 min | BRL | CFTC BRL speculative net positions |  |  | 65.5K |
+| 22 min | JPY | CFTC JPY speculative net positions |  |  | 79.5K |
+| 22 min | EUR | CFTC EUR speculative net positions |  |  | 114.3K |
