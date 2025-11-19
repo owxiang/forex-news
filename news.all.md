@@ -51,19 +51,19 @@
 | 12:00 | USD | Low | MBA Purchase Index | 168.7 |  | 172.7 |
 | 12:00 | USD | Low | Mortgage Market Index | 316.9 |  | 334.2 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 1,156.8 |  | 1,247.5 |
-| 13:30 | USD | Moderate | Building Permits (Sep) |  | 1.340M | 1.330M |
-| 13:30 | USD | Low | Building Permits (MoM) (Sep) |  |  | -2.3% |
-| 13:30 | USD | Low | Export Price Index (YoY) (Sep) |  |  | 3.4% |
-| 13:30 | USD | Moderate | Export Price Index (MoM) (Sep) |  | 0.1% | 0.3% |
-| 13:30 | USD | Moderate | Housing Starts (Sep) |  | 1.320M | 1.307M |
-| 13:30 | USD | Moderate | Housing Starts (MoM) (Sep) |  |  | -8.5% |
-| 13:30 | USD | Low | Import Price Index (YoY) (Sep) |  |  | 0.0% |
-| 13:30 | USD | Moderate | Import Price Index (MoM) (Sep) |  | 0.1% | 0.3% |
-| 13:30 | USD | Moderate | Trade Balance (Aug) |  | -61.30B | -78.30B |
-| 14:15 | USD | Low | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
-| 14:15 | USD | Moderate | Industrial Production (MoM) (Oct) |  |  | 0.1% |
-| 14:15 | USD | Moderate | Industrial Production (YoY) (Sep) |  |  | 0.87% |
-| 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  |  |  |
+| 14 min | USD | Moderate | Building Permits (Sep) |  | 1.340M | 1.330M |
+| 14 min | USD | Low | Building Permits (MoM) (Sep) |  |  | -2.3% |
+| 14 min | USD | Low | Export Price Index (YoY) (Sep) |  |  | 3.4% |
+| 14 min | USD | Moderate | Export Price Index (MoM) (Sep) |  | 0.1% | 0.3% |
+| 14 min | USD | Moderate | Housing Starts (Sep) |  | 1.320M | 1.307M |
+| 14 min | USD | Moderate | Housing Starts (MoM) (Sep) |  |  | -8.5% |
+| 14 min | USD | Low | Import Price Index (YoY) (Sep) |  |  | 0.0% |
+| 14 min | USD | Moderate | Import Price Index (MoM) (Sep) |  | 0.1% | 0.3% |
+| 14 min | USD | Moderate | Trade Balance (Aug) |  | -61.30B | -78.30B |
+| 59 min | USD | Low | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
+| 59 min | USD | Moderate | Industrial Production (MoM) (Oct) |  |  | 0.1% |
+| 59 min | USD | Moderate | Industrial Production (YoY) (Sep) |  |  | 0.87% |
+| 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 4.0% | 4.0% |
 | 15:30 | USD | High | Crude Oil Inventories |  | -1.900M | 6.413M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.717M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 0.849M |

@@ -40,10 +40,10 @@
 | 12:00 | USD | MBA Purchase Index | 168.7 |  | 172.7 |
 | 12:00 | USD | Mortgage Market Index | 316.9 |  | 334.2 |
 | 12:00 | USD | Mortgage Refinance Index | 1,156.8 |  | 1,247.5 |
-| 13:30 | USD | Building Permits (MoM) (Sep) |  |  | -2.3% |
-| 13:30 | USD | Export Price Index (YoY) (Sep) |  |  | 3.4% |
-| 13:30 | USD | Import Price Index (YoY) (Sep) |  |  | 0.0% |
-| 14:15 | USD | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
+| 14 min | USD | Building Permits (MoM) (Sep) |  |  | -2.3% |
+| 14 min | USD | Export Price Index (YoY) (Sep) |  |  | 3.4% |
+| 14 min | USD | Import Price Index (YoY) (Sep) |  |  | 0.0% |
+| 59 min | USD | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.717M |
 | 15:30 | USD | Crude Oil Imports |  |  | 0.849M |
 | 15:30 | USD | Distillate Fuel Production |  |  | 0.319M |
