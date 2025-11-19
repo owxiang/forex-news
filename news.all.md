@@ -66,8 +66,8 @@
 | 17:30 | BRL | Low | Foreign Exchange Flows | -1.219B |  | -1.786B |
 | 17:45 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 18:00 | USD | Moderate | 20-Year Bond Auction | 4.706% |  | 4.506% |
-| 50 min | USD | High | FOMC Meeting Minutes |  |  |  |
-| 50 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
+| 19:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -2.0K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 0.7K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 30.2K |

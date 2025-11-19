@@ -15,7 +15,7 @@
 | 15:30 | USD | Atlanta Fed GDPNow (Q4) | 4.2% | 4.0% | 4.0% |
 | 15:30 | USD | Cushing Crude Oil Inventories | -0.698M |  | -0.346M |
 | 18:00 | USD | 20-Year Bond Auction | 4.706% |  | 4.506% |
-| 50 min | USD | FOMC Member Williams Speaks |  |  |  |
+| 19:00 | USD | FOMC Member Williams Speaks |  |  |  |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -2.0K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 103.0K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 266.7K |
