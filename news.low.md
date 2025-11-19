@@ -48,8 +48,8 @@
 | 15:30 | USD | Heating Oil Stockpiles | -0.494M |  | 0.055M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.6% |  | 3.4% |
 | 15:30 | USD | Gasoline Inventories | 2.327M | -0.200M | -0.945M |
-| 17:30 | BRL | Foreign Exchange Flows |  |  | -1.786B |
-| 17:45 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 23 min | BRL | Foreign Exchange Flows |  |  | -1.786B |
+| 38 min | USD | FOMC Member Barkin Speaks |  |  |  |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.7K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 30.2K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -51.2K |

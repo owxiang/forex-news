@@ -63,10 +63,10 @@
 | 15:30 | USD | Low | Heating Oil Stockpiles | -0.494M |  | 0.055M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 0.6% |  | 3.4% |
 | 15:30 | USD | Low | Gasoline Inventories | 2.327M | -0.200M | -0.945M |
-| 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -1.786B |
-| 17:45 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 18:00 | USD | Moderate | 20-Year Bond Auction |  |  | 4.506% |
-| 18:00 | USD | Moderate | Federal Budget Balance (Oct) |  | -223.3B | 198.0B |
+| 23 min | BRL | Low | Foreign Exchange Flows |  |  | -1.786B |
+| 38 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 53 min | USD | Moderate | 20-Year Bond Auction |  |  | 4.506% |
+| 53 min | USD | Moderate | Federal Budget Balance (Oct) |  | -223.3B | 198.0B |
 | 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
 | 19:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -2.0K |
