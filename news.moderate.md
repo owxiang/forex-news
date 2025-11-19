@@ -1,20 +1,28 @@
-## 18 November 2025 - Moderate Impact Forex News
+## 19 November 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | RBA Meeting Minutes |  |  |  |
-| 08:10 | USD | Continuing Jobless Claims | 1,947K | 1,930K | 1,916K |
-| 08:11 | USD | Continuing Jobless Claims | 1,957K |  | 1,947K |
-| 08:40 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 10:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 10:00 | EUR | ECB's Elderson Speaks |  |  |  |
-| 13:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 13:15 | CAD | Housing Starts (Oct) | 232.8K | 265.0K | 279.2K |
-| 13:30 | USD | ADP Employment Change Weekly | -2.50K |  | -11.25K |
-| 15:00 | USD | Factory Orders (MoM) (Aug) | 1.4% | 1.4% | -1.3% |
-| 15:30 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 21:00 | USD | TIC Net Long-Term Transactions (Aug) | 134.2B | 126.1B | 39.0B |
-| 21:01 | USD | TIC Net Long-Term Transactions (Sep) | 179.8B |  | 134.2B |
-| 21:30 | USD | API Weekly Crude Oil Stock | 4.400M |  | 1.300M |
-| 21:45 | NZD | PPI Input (QoQ) (Q3) | 0.2% | 0.9% | 0.6% |
-| 44 min | JPY | Adjusted Trade Balance |  | -0.13T | -0.31T |
+| 00:30 | AUD | Wage Price Index (QoQ) (Q3) | 0.8% | 0.8% | 0.8% |
+| 03:30 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 04:00 | JPY | Adjusted Trade Balance |  | -0.13T | -0.31T |
+| 07:00 | GBP | CPI (MoM) (Oct) |  | 0.4% | 0.0% |
+| 07:00 | GBP | CPIH (YoY) |  |  | 4.1% |
+| 07:00 | GBP | PPI Input (MoM) (Oct) |  | 0.0% | -0.1% |
+| 07:30 | IDR | Interest Rate Decision |  | 4.75% | 4.75% |
+| 08:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
+| 10:00 | EUR | Core CPI (YoY) (Oct) |  | 2.4% | 2.4% |
+| 10:00 | EUR | CPI (MoM) (Oct) |  | 0.2% | 0.1% |
+| 11:30 | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 13:30 | USD | Building Permits (Sep) |  | 1.340M | 1.330M |
+| 13:30 | USD | Export Price Index (MoM) (Sep) |  | 0.1% | 0.3% |
+| 13:30 | USD | Housing Starts (Sep) |  | 1.330M | 1.307M |
+| 13:30 | USD | Housing Starts (MoM) (Sep) |  |  | -8.5% |
+| 13:30 | USD | Import Price Index (MoM) (Sep) |  | 0.1% | 0.3% |
+| 13:30 | USD | Trade Balance (Aug) |  | -61.40B | -78.30B |
+| 14:15 | USD | Industrial Production (YoY) (Sep) |  |  | 0.87% |
+| 14:15 | USD | Industrial Production (MoM) (Oct) |  |  | 0.1% |
+| 15:30 | USD | Atlanta Fed GDPNow (Q4) |  |  |  |
+| 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.346M |
+| 18:00 | USD | 20-Year Bond Auction |  |  | 4.506% |
+| 18:00 | USD | Federal Budget Balance (Oct) |  | -223.3B | 198.0B |
+| 19:00 | USD | FOMC Member Williams Speaks |  |  |  |
