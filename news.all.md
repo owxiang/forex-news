@@ -10,17 +10,17 @@
 | 07:00 | GBP | Low | Core CPI (MoM) (Oct) | 0.3% | 0.4% | 0.0% |
 | 07:00 | GBP | Low | Core PPI Output (YoY) (Oct) | 3.5% |  | 3.5% |
 | 07:00 | GBP | Low | Core PPI Output (MoM) (Oct) | 0.1% |  | 0.1% |
-| 07:00 | GBP | Low | Core RPI (MoM) (Oct) | 0.3% |  | -0.4% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Oct) | 4.2% |  | 4.4% |
+| 07:00 | GBP | Low | Core RPI (MoM) (Oct) | 0.3% |  | -0.4% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Oct) | 0.4% | 0.4% | 0.0% |
 | 07:00 | GBP | High | CPI (YoY) (Oct) | 3.6% | 3.5% | 3.8% |
 | 07:00 | GBP | Low | CPI, n.s.a (Oct) | 139.80 |  | 139.30 |
-| 07:00 | GBP | Low | PPI Input (YoY) (Oct) | 0.5% | 0.7% | 0.7% |
 | 07:00 | GBP | Moderate | PPI Input (MoM) (Oct) | -0.3% | 0.0% | -0.1% |
-| 07:00 | GBP | Low | PPI Output (YoY) (Oct) | 3.6% |  | 3.5% |
+| 07:00 | GBP | Low | PPI Input (YoY) (Oct) | 0.5% | 0.7% | 0.7% |
 | 07:00 | GBP | Low | PPI Output (MoM) (Oct) | 0.0% | 0.1% | 0.0% |
-| 07:00 | GBP | Low | RPI (YoY) (Oct) | 4.3% | 4.3% | 4.5% |
+| 07:00 | GBP | Low | PPI Output (YoY) (Oct) | 3.6% |  | 3.5% |
 | 07:00 | GBP | Low | RPI (MoM) (Oct) | 0.3% | 0.3% | -0.4% |
+| 07:00 | GBP | Low | RPI (YoY) (Oct) | 4.3% | 4.3% | 4.5% |
 | 07:20 | IDR | Low | Loans (YoY) (Oct) | 7.36% |  | 7.70% |
 | 07:30 | IDR | Moderate | Interest Rate Decision | 4.75% | 4.75% | 4.75% |
 | 07:30 | IDR | Low | Deposit Facility Rate (Nov) | 3.75% |  | 3.75% |
@@ -28,8 +28,8 @@
 | 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 08:00 | ZAR | Low | Core CPI (MoM) (Oct) | 0.1% |  | 0.3% |
 | 08:00 | ZAR | Low | Core CPI (YoY) (Oct) | 3.1% |  | 3.2% |
-| 08:00 | ZAR | Low | CPI (MoM) (Oct) | 0.1% |  | 0.2% |
 | 08:00 | ZAR | Low | CPI (YoY) (Oct) | 3.6% |  | 3.4% |
+| 08:00 | ZAR | Low | CPI (MoM) (Oct) | 0.1% |  | 0.2% |
 | 09:00 | EUR | Low | Current Account (Sep) | 23.1B | 15.9B | 22.2B |
 | 09:00 | EUR | Low | Current Account n.s.a. (Sep) | 38.1B |  | 22.3B |
 | 09:30 | GBP | Low | House Price Index (YoY) | 2.6% | 3.0% | 3.0% |
@@ -51,18 +51,10 @@
 | 12:00 | USD | Low | MBA Purchase Index | 168.7 |  | 172.7 |
 | 12:00 | USD | Low | Mortgage Market Index | 316.9 |  | 334.2 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 1,156.8 |  | 1,247.5 |
-| 14 min | USD | Moderate | Building Permits (Sep) |  | 1.340M | 1.330M |
-| 14 min | USD | Low | Building Permits (MoM) (Sep) |  |  | -2.3% |
-| 14 min | USD | Low | Export Price Index (YoY) (Sep) |  |  | 3.4% |
-| 14 min | USD | Moderate | Export Price Index (MoM) (Sep) |  | 0.1% | 0.3% |
-| 14 min | USD | Moderate | Housing Starts (Sep) |  | 1.320M | 1.307M |
-| 14 min | USD | Moderate | Housing Starts (MoM) (Sep) |  |  | -8.5% |
-| 14 min | USD | Low | Import Price Index (YoY) (Sep) |  |  | 0.0% |
-| 14 min | USD | Moderate | Import Price Index (MoM) (Sep) |  | 0.1% | 0.3% |
-| 14 min | USD | Moderate | Trade Balance (Aug) |  | -61.30B | -78.30B |
-| 59 min | USD | Low | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
-| 59 min | USD | Moderate | Industrial Production (MoM) (Oct) |  |  | 0.1% |
-| 59 min | USD | Moderate | Industrial Production (YoY) (Sep) |  |  | 0.87% |
+| 13:30 | USD | Moderate | Trade Balance (Aug) | -59.60B | -61.30B | -78.20B |
+| 8 min | USD | Low | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
+| 8 min | USD | Moderate | Industrial Production (MoM) (Oct) |  |  | 0.1% |
+| 8 min | USD | Moderate | Industrial Production (YoY) (Sep) |  |  | 0.87% |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 4.0% | 4.0% |
 | 15:30 | USD | High | Crude Oil Inventories |  | -1.900M | 6.413M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.717M |

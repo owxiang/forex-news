@@ -8,21 +8,21 @@
 | 07:00 | GBP | Core CPI (MoM) (Oct) | 0.3% | 0.4% | 0.0% |
 | 07:00 | GBP | Core PPI Output (YoY) (Oct) | 3.5% |  | 3.5% |
 | 07:00 | GBP | Core PPI Output (MoM) (Oct) | 0.1% |  | 0.1% |
-| 07:00 | GBP | Core RPI (MoM) (Oct) | 0.3% |  | -0.4% |
 | 07:00 | GBP | Core RPI (YoY) (Oct) | 4.2% |  | 4.4% |
+| 07:00 | GBP | Core RPI (MoM) (Oct) | 0.3% |  | -0.4% |
 | 07:00 | GBP | CPI, n.s.a (Oct) | 139.80 |  | 139.30 |
 | 07:00 | GBP | PPI Input (YoY) (Oct) | 0.5% | 0.7% | 0.7% |
-| 07:00 | GBP | PPI Output (YoY) (Oct) | 3.6% |  | 3.5% |
 | 07:00 | GBP | PPI Output (MoM) (Oct) | 0.0% | 0.1% | 0.0% |
-| 07:00 | GBP | RPI (YoY) (Oct) | 4.3% | 4.3% | 4.5% |
+| 07:00 | GBP | PPI Output (YoY) (Oct) | 3.6% |  | 3.5% |
 | 07:00 | GBP | RPI (MoM) (Oct) | 0.3% | 0.3% | -0.4% |
+| 07:00 | GBP | RPI (YoY) (Oct) | 4.3% | 4.3% | 4.5% |
 | 07:20 | IDR | Loans (YoY) (Oct) | 7.36% |  | 7.70% |
 | 07:30 | IDR | Deposit Facility Rate (Nov) | 3.75% |  | 3.75% |
 | 07:30 | IDR | Lending Facility Rate (Nov) | 5.50% | 5.50% | 5.50% |
 | 08:00 | ZAR | Core CPI (MoM) (Oct) | 0.1% |  | 0.3% |
 | 08:00 | ZAR | Core CPI (YoY) (Oct) | 3.1% |  | 3.2% |
-| 08:00 | ZAR | CPI (MoM) (Oct) | 0.1% |  | 0.2% |
 | 08:00 | ZAR | CPI (YoY) (Oct) | 3.6% |  | 3.4% |
+| 08:00 | ZAR | CPI (MoM) (Oct) | 0.1% |  | 0.2% |
 | 09:00 | EUR | Current Account (Sep) | 23.1B | 15.9B | 22.2B |
 | 09:00 | EUR | Current Account n.s.a. (Sep) | 38.1B |  | 22.3B |
 | 09:30 | GBP | House Price Index (YoY) | 2.6% | 3.0% | 3.0% |
@@ -40,10 +40,7 @@
 | 12:00 | USD | MBA Purchase Index | 168.7 |  | 172.7 |
 | 12:00 | USD | Mortgage Market Index | 316.9 |  | 334.2 |
 | 12:00 | USD | Mortgage Refinance Index | 1,156.8 |  | 1,247.5 |
-| 14 min | USD | Building Permits (MoM) (Sep) |  |  | -2.3% |
-| 14 min | USD | Export Price Index (YoY) (Sep) |  |  | 3.4% |
-| 14 min | USD | Import Price Index (YoY) (Sep) |  |  | 0.0% |
-| 59 min | USD | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
+| 8 min | USD | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.717M |
 | 15:30 | USD | Crude Oil Imports |  |  | 0.849M |
 | 15:30 | USD | Distillate Fuel Production |  |  | 0.319M |

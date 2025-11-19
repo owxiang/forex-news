@@ -11,14 +11,9 @@
 | 10:00 | EUR | Core CPI (YoY) (Oct) | 2.4% | 2.4% | 2.4% |
 | 10:00 | EUR | CPI (MoM) (Oct) | 0.2% | 0.2% | 0.1% |
 | 11:30 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 14 min | USD | Building Permits (Sep) |  | 1.340M | 1.330M |
-| 14 min | USD | Export Price Index (MoM) (Sep) |  | 0.1% | 0.3% |
-| 14 min | USD | Housing Starts (Sep) |  | 1.320M | 1.307M |
-| 14 min | USD | Housing Starts (MoM) (Sep) |  |  | -8.5% |
-| 14 min | USD | Import Price Index (MoM) (Sep) |  | 0.1% | 0.3% |
-| 14 min | USD | Trade Balance (Aug) |  | -61.30B | -78.30B |
-| 59 min | USD | Industrial Production (MoM) (Oct) |  |  | 0.1% |
-| 59 min | USD | Industrial Production (YoY) (Sep) |  |  | 0.87% |
+| 13:30 | USD | Trade Balance (Aug) | -59.60B | -61.30B | -78.20B |
+| 8 min | USD | Industrial Production (MoM) (Oct) |  |  | 0.1% |
+| 8 min | USD | Industrial Production (YoY) (Sep) |  |  | 0.87% |
 | 15:30 | USD | Atlanta Fed GDPNow (Q4) |  | 4.0% | 4.0% |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.346M |
 | 18:00 | USD | 20-Year Bond Auction |  |  | 4.506% |
