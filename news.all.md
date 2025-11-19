@@ -6,33 +6,32 @@
 | 00:30 | AUD | Low | Wage Price Index (YoY) (Q3) | 3.4% | 3.4% | 3.4% |
 | 00:55 | USD | Low | Fed Logan Speaks |  |  |  |
 | 03:30 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 50 min | GBP | Low | Core CPI (YoY) (Oct) |  | 3.4% | 3.5% |
-| 50 min | GBP | Low | Core CPI (MoM) (Oct) |  | 0.4% | 0.0% |
-| 50 min | GBP | Low | Core PPI Output (MoM) (Oct) |  |  | 0.1% |
-| 50 min | GBP | Low | Core PPI Output (YoY) (Oct) |  |  | 3.6% |
-| 50 min | GBP | Low | Core RPI (MoM) (Oct) |  |  | -0.4% |
-| 50 min | GBP | Low | Core RPI (YoY) (Oct) |  |  | 4.4% |
-| 50 min | GBP | High | CPI (YoY) (Oct) |  | 3.5% | 3.8% |
-| 50 min | GBP | Moderate | CPI (MoM) (Oct) |  | 0.4% | 0.0% |
-| 50 min | GBP | Low | CPI, n.s.a (Oct) |  |  | 139.30 |
-| 50 min | GBP | Moderate | CPIH (YoY) |  |  | 4.1% |
-| 50 min | GBP | Moderate | PPI Input (MoM) (Oct) |  | 0.0% | -0.1% |
-| 50 min | GBP | Low | PPI Input (YoY) (Oct) |  | 0.7% | 0.8% |
-| 50 min | GBP | Low | PPI Output (MoM) (Oct) |  | 0.1% | 0.0% |
-| 50 min | GBP | Low | PPI Output (YoY) (Oct) |  |  | 3.4% |
-| 50 min | GBP | Low | RPI (YoY) (Oct) |  | 4.3% | 4.5% |
-| 50 min | GBP | Low | RPI (MoM) (Oct) |  | 0.3% | -0.4% |
-| 07:30 | IDR | Moderate | Interest Rate Decision |  | 4.75% | 4.75% |
-| 07:30 | IDR | Low | Deposit Facility Rate (Nov) |  |  | 3.75% |
-| 07:30 | IDR | Low | Lending Facility Rate (Nov) |  | 5.50% | 5.50% |
-| 07:30 | IDR | Low | Loans (YoY) (Oct) |  |  | 7.70% |
-| 08:00 | EUR | Low | Current Account (Sep) |  | 15.9B | 11.9B |
-| 08:00 | EUR | Low | Current Account n.s.a. (Sep) |  |  | 13.0B |
-| 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
-| 08:00 | ZAR | Low | Core CPI (MoM) (Oct) |  |  | 0.3% |
-| 08:00 | ZAR | Low | Core CPI (YoY) (Oct) |  |  | 3.2% |
-| 08:00 | ZAR | Low | CPI (MoM) (Oct) |  |  | 0.2% |
-| 08:00 | ZAR | Low | CPI (YoY) (Oct) |  |  | 3.4% |
+| 07:00 | GBP | Low | Core CPI (YoY) (Oct) | 3.4% | 3.4% | 3.5% |
+| 07:00 | GBP | Low | Core CPI (MoM) (Oct) | 0.3% | 0.4% | 0.0% |
+| 07:00 | GBP | Low | Core PPI Output (MoM) (Oct) | 0.1% |  | 0.1% |
+| 07:00 | GBP | Low | Core PPI Output (YoY) (Oct) | 3.5% |  | 3.6% |
+| 07:00 | GBP | Low | Core RPI (MoM) (Oct) | 0.3% |  | -0.4% |
+| 07:00 | GBP | Low | Core RPI (YoY) (Oct) | 4.2% |  | 4.4% |
+| 07:00 | GBP | High | CPI (YoY) (Oct) | 3.6% | 3.5% | 3.8% |
+| 07:00 | GBP | Moderate | CPI (MoM) (Oct) | 0.4% | 0.4% | 0.0% |
+| 07:00 | GBP | Low | CPI, n.s.a (Oct) | 139.80 |  | 139.30 |
+| 07:00 | GBP | Moderate | PPI Input (MoM) (Oct) | 0.5% | 0.0% | -0.1% |
+| 07:00 | GBP | Low | PPI Input (YoY) (Oct) | 0.5% | 0.7% | 0.8% |
+| 07:00 | GBP | Low | PPI Output (MoM) (Oct) | 0.0% | 0.1% | 0.0% |
+| 07:00 | GBP | Low | PPI Output (YoY) (Oct) | 3.6% |  | 3.5% |
+| 07:00 | GBP | Low | RPI (YoY) (Oct) | 4.3% | 4.3% | 4.5% |
+| 07:00 | GBP | Low | RPI (MoM) (Oct) | 0.3% | 0.3% | -0.4% |
+| 22 min | IDR | Moderate | Interest Rate Decision |  | 4.75% | 4.75% |
+| 22 min | IDR | Low | Deposit Facility Rate (Nov) |  |  | 3.75% |
+| 22 min | IDR | Low | Lending Facility Rate (Nov) |  | 5.50% | 5.50% |
+| 22 min | IDR | Low | Loans (YoY) (Oct) |  |  | 7.70% |
+| 52 min | EUR | Low | Current Account (Sep) |  | 15.9B | 11.9B |
+| 52 min | EUR | Low | Current Account n.s.a. (Sep) |  |  | 13.0B |
+| 52 min | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
+| 52 min | ZAR | Low | Core CPI (MoM) (Oct) |  |  | 0.3% |
+| 52 min | ZAR | Low | Core CPI (YoY) (Oct) |  |  | 3.2% |
+| 52 min | ZAR | Low | CPI (MoM) (Oct) |  |  | 0.2% |
+| 52 min | ZAR | Low | CPI (YoY) (Oct) |  |  | 3.4% |
 | 09:30 | GBP | Low | House Price Index (YoY) |  | 3.0% | 3.0% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Oct) |  | 2.4% | 2.4% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Oct) |  | 0.3% | 0.1% |
