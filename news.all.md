@@ -22,19 +22,30 @@
 | 11:30 | INR | Low | Infrastructure Output (YoY) (Oct) | 0.0% |  | 3.3% |
 | 13:00 | ZAR | Moderate | Interest Rate Decision (Nov) | 6.75% | 6.75% | 7.00% |
 | 13:00 | ZAR | Low | Prime Rate (Nov) | 10.25% |  | 10.50% |
+| 13:23 | USD | Moderate | Continuing Jobless Claims | 1,921K | 1,930K | 1,916K |
+| 13:24 | USD | Moderate | Continuing Jobless Claims | 1,929K |  | 1,921K |
+| 13:24 | USD | High | Initial Jobless Claims | 224K | 223K | 219K |
+| 13:24 | USD | Low | Jobless Claims 4-Week Avg. | 234.75K |  | 237.75K |
+| 13:25 | USD | High | Initial Jobless Claims | 235K | 227K | 224K |
+| 13:25 | USD | Low | Jobless Claims 4-Week Avg. | 227.50K |  | 234.75K |
+| 13:26 | USD | Moderate | Continuing Jobless Claims | 1,928K |  | 1,929K |
+| 13:26 | USD | High | Initial Jobless Claims | 220K |  | 235K |
+| 13:26 | USD | Low | Jobless Claims 4-Week Avg. | 224.50K |  | 227.50K |
+| 13:27 | USD | Moderate | Continuing Jobless Claims | 1,964K |  | 1,957K |
+| 13:27 | USD | High | Initial Jobless Claims | 220K |  | 232K |
+| 13:27 | USD | Low | Jobless Claims 4-Week Avg. | 226.75K |  | 227.75K |
+| 13:28 | USD | Moderate | Continuing Jobless Claims | 1,946K |  | 1,964K |
+| 13:28 | USD | High | Initial Jobless Claims | 229K |  | 220K |
+| 13:28 | USD | Low | Jobless Claims 4-Week Avg. | 225.25K |  | 226.75K |
+| 13:29 | USD | High | Initial Jobless Claims | 228K |  | 229K |
+| 13:29 | USD | Low | Jobless Claims 4-Week Avg. | 227.25K |  | 225.25K |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Sep) | 0.2% | 0.3% | 0.4% |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Sep) | 3.8% | 3.7% | 3.8% |
 | 13:30 | USD | Low | Average Weekly Hours (Sep) | 34.2 | 34.2 | 34.2 |
-| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,964K |  | 1,957K |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,974K |  | 1,946K |
 | 13:30 | USD | Low | Government Payrolls (Sep) | 22.0K |  | -22.0K |
-| 13:30 | USD | High | Initial Jobless Claims | 220K |  | 229K |
-| 13:30 | USD | High | Initial Jobless Claims | 220K |  | 220K |
-| 13:30 | USD | High | Initial Jobless Claims | 220K |  | 232K |
 | 13:30 | USD | High | Initial Jobless Claims | 220K |  | 228K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 224.25K |  | 227.25K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 224.25K |  | 225.25K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 224.25K |  | 226.75K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 226.75K |  | 227.75K |
 | 13:30 | USD | Low | Manufacturing Payrolls (Sep) | -6K | -8K | -15K |
 | 13:30 | USD | High | Nonfarm Payrolls (Sep) | 119K | 53K | -4K |
 | 13:30 | USD | Moderate | Participation Rate (Sep) | 62.4% |  | 62.3% |
@@ -49,23 +60,16 @@
 | 13:30 | USD | High | Unemployment Rate (Sep) | 4.4% | 4.3% | 4.3% |
 | 13:30 | CAD | Low | IPPI (YoY) (Oct) | 6.0% |  | 5.7% |
 | 13:30 | CAD | Low | IPPI (MoM) (Oct) | 1.5% | 0.3% | 1.0% |
-| 13:30 | CAD | Low | RMPI (YoY) (Oct) | 5.8% |  | 8.4% |
 | 13:30 | CAD | Moderate | RMPI (MoM) (Oct) | 1.6% | 0.6% | 1.7% |
-| 13:31 | USD | Moderate | Continuing Jobless Claims | 1,946K |  | 1,964K |
-| 13:32 | USD | Moderate | Continuing Jobless Claims | 1,974K |  | 1,946K |
-| 8 min | USD | Low | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
-| 8 min | USD | Moderate | Industrial Production (MoM) (Oct) |  |  | 0.1% |
-| 8 min | USD | Moderate | Industrial Production (YoY) (Sep) |  |  | 0.87% |
-| 53 min | USD | Moderate | Existing Home Sales (MoM) (Oct) |  |  | 1.5% |
-| 53 min | USD | High | Existing Home Sales (Oct) |  | 4.08M | 4.06M |
-| 53 min | USD | Moderate | Housing Starts (Sep) |  | 1.320M | 1.307M |
-| 53 min | USD | Moderate | Housing Starts (MoM) (Sep) |  |  | -8.5% |
-| 53 min | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
-| 53 min | EUR | Low | Consumer Confidence (Nov) |  | -14.0 | -14.2 |
-| 15:30 | USD | Low | Natural Gas Storage |  | -12B | 45B |
-| 16:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 16:00 | USD | Low | KC Fed Composite Index (Nov) |  |  | 6 |
-| 16:00 | USD | Low | KC Fed Manufacturing Index (Nov) |  |  | 15 |
+| 13:30 | CAD | Low | RMPI (YoY) (Oct) | 5.8% |  | 8.4% |
+| 15:00 | USD | High | Existing Home Sales (Oct) | 4.10M | 4.08M | 4.05M |
+| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Oct) | 1.2% |  | 1.3% |
+| 15:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
+| 15:00 | EUR | Low | Consumer Confidence (Nov) | -14.2 | -14.0 | -14.2 |
+| 23 min | USD | Low | Natural Gas Storage |  | -12B | 45B |
+| 53 min | USD | Low | Fed Governor Cook Speaks |  |  |  |
+| 53 min | USD | Low | KC Fed Composite Index (Nov) |  |  | 6 |
+| 53 min | USD | Low | KC Fed Manufacturing Index (Nov) |  |  | 15 |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.900% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.835% |
 | 17:40 | USD | Low | Fed Goolsbee Speaks |  |  |  |
@@ -73,8 +77,8 @@
 | 18:00 | USD | Moderate | Federal Budget Balance (Oct) |  | -223.4B | 198.0B |
 | 18:30 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
 | 21:00 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
-| 21:00 | KRW | Low | PPI (MoM) (Oct) |  |  | 0.4% |
 | 21:00 | KRW | Low | PPI (YoY) (Oct) |  |  | 1.2% |
+| 21:00 | KRW | Low | PPI (MoM) (Oct) |  |  | 0.4% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,580B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.883T |
 | 21:45 | NZD | Low | Exports (Oct) |  |  | 5.82B |
