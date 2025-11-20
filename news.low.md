@@ -18,19 +18,22 @@
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 11:30 | INR | Infrastructure Output (YoY) (Oct) | 0.0% |  | 3.3% |
 | 13:00 | ZAR | Prime Rate (Nov) | 10.25% |  | 10.50% |
-| 15 min | USD | Average Weekly Hours (Sep) |  | 34.2 | 34.2 |
-| 15 min | USD | Government Payrolls (Sep) |  |  | -16.0K |
-| 15 min | USD | Jobless Claims 4-Week Avg. |  |  | 58.00K |
-| 15 min | USD | Manufacturing Payrolls (Sep) |  | -8K | -12K |
-| 15 min | USD | Philly Fed Business Conditions (Nov) |  |  | 36.2 |
-| 15 min | USD | Philly Fed CAPEX Index (Nov) |  |  | 25.20 |
-| 15 min | USD | Philly Fed New Orders (Nov) |  |  | 18.2 |
-| 15 min | USD | Philly Fed Prices Paid (Nov) |  |  | 49.20 |
-| 15 min | CAD | IPPI (YoY) (Oct) |  |  | 5.5% |
-| 15 min | CAD | IPPI (MoM) (Oct) |  | 0.3% | 0.8% |
-| 15 min | CAD | RMPI (YoY) (Oct) |  |  | 8.4% |
-| 14:15 | USD | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
-| 15:00 | EUR | Consumer Confidence (Nov) |  | -14.0 | -14.2 |
+| 13:30 | USD | Average Weekly Hours (Sep) | 34.2 | 34.2 | 34.2 |
+| 13:30 | USD | Government Payrolls (Sep) | 22.0K |  | -22.0K |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 224.25K |  | 227.25K |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 224.25K |  | 225.25K |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 224.25K |  | 226.75K |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 226.75K |  | 227.75K |
+| 13:30 | USD | Manufacturing Payrolls (Sep) | -6K | -8K | -15K |
+| 13:30 | USD | Philly Fed Business Conditions (Nov) | 49.6 |  | 36.2 |
+| 13:30 | USD | Philly Fed CAPEX Index (Nov) | 26.70 |  | 25.20 |
+| 13:30 | USD | Philly Fed New Orders (Nov) | -8.6 |  | 18.2 |
+| 13:30 | USD | Philly Fed Prices Paid (Nov) | 56.10 |  | 49.20 |
+| 13:30 | CAD | IPPI (YoY) (Oct) | 6.0% |  | 5.7% |
+| 13:30 | CAD | IPPI (MoM) (Oct) | 1.5% | 0.3% | 1.0% |
+| 13:30 | CAD | RMPI (YoY) (Oct) | 5.8% |  | 8.4% |
+| 8 min | USD | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
+| 53 min | EUR | Consumer Confidence (Nov) |  | -14.0 | -14.2 |
 | 15:30 | USD | Natural Gas Storage |  | -12B | 45B |
 | 16:00 | USD | Fed Governor Cook Speaks |  |  |  |
 | 16:00 | USD | KC Fed Composite Index (Nov) |  |  | 6 |
@@ -44,8 +47,8 @@
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.883T |
 | 21:45 | NZD | Exports (Oct) |  |  | 5.82B |
 | 21:45 | NZD | Imports (Oct) |  |  | 7.18B |
-| 21:45 | NZD | Trade Balance (YoY) (Oct) |  |  | -2,250M |
 | 21:45 | NZD | Trade Balance (MoM) (Oct) |  | -955M | -1,355M |
+| 21:45 | NZD | Trade Balance (YoY) (Oct) |  |  | -2,250M |
 | 22:00 | AUD | Manufacturing & Services PMI (Nov) |  |  | 52.10 |
 | 22:00 | AUD | Judo Bank Manufacturing PMI (Nov) |  |  | 49.7 |
 | 22:00 | AUD | Judo Bank Services PMI (Nov) |  |  | 52.5 |
