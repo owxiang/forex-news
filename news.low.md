@@ -16,10 +16,8 @@
 | 10:00 | EUR | Construction Output (MoM) (Sep) | -0.49% |  | -0.19% |
 | 11:00 | GBP | CBI Industrial Trends Orders (Nov) | -37 | -33 | -38 |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 23 min | INR | Infrastructure Output (YoY) (Oct) |  |  | 3.0% |
-| 53 min | EUR | Spanish Consumer Confidence (Oct) |  |  | 81.5 |
-| 53 min | CNY | FDI (Oct) |  |  | -10.40% |
-| 13:00 | ZAR | Prime Rate (Nov) |  |  | 10.50% |
+| 11:30 | INR | Infrastructure Output (YoY) (Oct) | 0.0% |  | 3.0% |
+| 48 min | ZAR | Prime Rate (Nov) |  |  | 10.50% |
 | 13:30 | USD | Average Weekly Hours (Sep) |  | 34.2 | 34.2 |
 | 13:30 | USD | Government Payrolls (Sep) |  |  | -16.0K |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 58.00K |

@@ -19,11 +19,9 @@
 | 10:00 | EUR | Low | Construction Output (MoM) (Sep) | -0.49% |  | -0.19% |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Nov) | -37 | -33 | -38 |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 23 min | INR | Low | Infrastructure Output (YoY) (Oct) |  |  | 3.0% |
-| 53 min | EUR | Low | Spanish Consumer Confidence (Oct) |  |  | 81.5 |
-| 53 min | CNY | Low | FDI (Oct) |  |  | -10.40% |
-| 13:00 | ZAR | Moderate | Interest Rate Decision (Nov) |  | 6.75% | 7.00% |
-| 13:00 | ZAR | Low | Prime Rate (Nov) |  |  | 10.50% |
+| 11:30 | INR | Low | Infrastructure Output (YoY) (Oct) | 0.0% |  | 3.0% |
+| 48 min | ZAR | Moderate | Interest Rate Decision (Nov) |  | 6.75% | 7.00% |
+| 48 min | ZAR | Low | Prime Rate (Nov) |  |  | 10.50% |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Sep) |  | 0.3% | 0.3% |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Sep) |  | 3.7% | 3.7% |
 | 13:30 | USD | Low | Average Weekly Hours (Sep) |  | 34.2 | 34.2 |
