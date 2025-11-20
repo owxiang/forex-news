@@ -27,20 +27,14 @@
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Sep) |  | 0.3% | 0.3% |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Sep) |  | 3.7% | 3.7% |
 | 13:30 | USD | Low | Average Weekly Hours (Sep) |  | 34.2 | 34.2 |
-| 13:30 | USD | Moderate | Building Permits (Sep) |  | 1.340M | 1.330M |
-| 13:30 | USD | Low | Building Permits (MoM) (Sep) |  |  | -2.3% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,957K |
-| 13:30 | USD | Moderate | Export Price Index (MoM) (Sep) |  | 0.1% | 0.3% |
-| 13:30 | USD | Low | Export Price Index (YoY) (Sep) |  |  | 3.4% |
 | 13:30 | USD | Low | Government Payrolls (Sep) |  |  | -16.0K |
 | 13:30 | USD | Moderate | Housing Starts (Sep) |  | 1.320M | 1.307M |
 | 13:30 | USD | Moderate | Housing Starts (MoM) (Sep) |  |  | -8.5% |
-| 13:30 | USD | Low | Import Price Index (YoY) (Sep) |  |  | 0.0% |
-| 13:30 | USD | Moderate | Import Price Index (MoM) (Sep) |  | 0.1% | 0.3% |
 | 13:30 | USD | High | Initial Jobless Claims |  |  | 232K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 58.00K |
 | 13:30 | USD | Low | Manufacturing Payrolls (Sep) |  | -8K | -12K |
-| 13:30 | USD | High | Nonfarm Payrolls (Sep) |  | 55K | 22K |
+| 13:30 | USD | High | Nonfarm Payrolls (Sep) |  | 53K | 22K |
 | 13:30 | USD | Moderate | Participation Rate (Sep) |  |  | 62.3% |
 | 13:30 | USD | High | Philadelphia Fed Manufacturing Index (Nov) |  | 1.0 | -12.8 |
 | 13:30 | USD | Low | Philly Fed Business Conditions (Nov) |  |  | 36.2 |
@@ -70,15 +64,17 @@
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.835% |
 | 17:40 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 18:00 | USD | Moderate | 10-Year TIPS Auction |  |  | 1.734% |
-| 18:00 | USD | Moderate | Federal Budget Balance (Oct) |  | -223.3B | 198.0B |
+| 18:00 | USD | Moderate | Federal Budget Balance (Oct) |  | -223.4B | 198.0B |
 | 18:30 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
 | 21:00 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 21:00 | KRW | Low | PPI (MoM) (Oct) |  |  | 0.4% |
 | 21:00 | KRW | Low | PPI (YoY) (Oct) |  |  | 1.2% |
+| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,580B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.883T |
 | 21:45 | NZD | Low | Exports (Oct) |  |  | 5.82B |
 | 21:45 | NZD | Low | Imports (Oct) |  |  | 7.18B |
-| 21:45 | NZD | Low | Trade Balance (MoM) (Oct) |  | -955M | -1,355M |
 | 21:45 | NZD | Low | Trade Balance (YoY) (Oct) |  |  | -2,250M |
+| 21:45 | NZD | Low | Trade Balance (MoM) (Oct) |  | -955M | -1,355M |
 | 22:00 | AUD | Low | Manufacturing & Services PMI (Nov) |  |  | 52.10 |
 | 22:00 | AUD | Low | Judo Bank Manufacturing PMI (Nov) |  |  | 49.7 |
 | 22:00 | AUD | Low | Judo Bank Services PMI (Nov) |  |  | 52.5 |

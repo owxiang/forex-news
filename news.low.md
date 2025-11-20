@@ -21,10 +21,7 @@
 | 12:00 | CNY | FDI (Oct) |  |  | -10.40% |
 | 13:00 | ZAR | Prime Rate (Nov) |  |  | 10.50% |
 | 13:30 | USD | Average Weekly Hours (Sep) |  | 34.2 | 34.2 |
-| 13:30 | USD | Building Permits (MoM) (Sep) |  |  | -2.3% |
-| 13:30 | USD | Export Price Index (YoY) (Sep) |  |  | 3.4% |
 | 13:30 | USD | Government Payrolls (Sep) |  |  | -16.0K |
-| 13:30 | USD | Import Price Index (YoY) (Sep) |  |  | 0.0% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 58.00K |
 | 13:30 | USD | Manufacturing Payrolls (Sep) |  | -8K | -12K |
 | 13:30 | USD | Philly Fed Business Conditions (Nov) |  |  | 36.2 |
@@ -46,10 +43,11 @@
 | 18:30 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
 | 21:00 | KRW | PPI (MoM) (Oct) |  |  | 0.4% |
 | 21:00 | KRW | PPI (YoY) (Oct) |  |  | 1.2% |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.883T |
 | 21:45 | NZD | Exports (Oct) |  |  | 5.82B |
 | 21:45 | NZD | Imports (Oct) |  |  | 7.18B |
-| 21:45 | NZD | Trade Balance (MoM) (Oct) |  | -955M | -1,355M |
 | 21:45 | NZD | Trade Balance (YoY) (Oct) |  |  | -2,250M |
+| 21:45 | NZD | Trade Balance (MoM) (Oct) |  | -955M | -1,355M |
 | 22:00 | AUD | Manufacturing & Services PMI (Nov) |  |  | 52.10 |
 | 22:00 | AUD | Judo Bank Manufacturing PMI (Nov) |  |  | 49.7 |
 | 22:00 | AUD | Judo Bank Services PMI (Nov) |  |  | 52.5 |
