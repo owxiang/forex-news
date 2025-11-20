@@ -5,8 +5,8 @@
 | 00:30 | AUD | Low | Reserve Assets Total (Oct) | 110.6B |  | 108.0B |
 | 01:00 | CNY | Moderate | China Loan Prime Rate 5Y (Nov) | 3.50% | 3.50% | 3.50% |
 | 01:00 | CNY | Moderate | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
-| 03:00 | IDR | Low | Balance of Payments (EUR) (Q3) |  |  | -6.7B |
-| 03:00 | IDR | Low | Current Account % of GDP (Q3) |  |  | -0.80% |
+| 22 min | IDR | Low | Balance of Payments (EUR) (Q3) |  |  | -6.7B |
+| 22 min | IDR | Low | Current Account % of GDP (Q3) |  |  | -0.80% |
 | 07:00 | CHF | Low | Trade Balance (Oct) |  | 4.760B | 4.073B |
 | 07:00 | EUR | Moderate | German PPI (MoM) (Oct) |  | 0.0% | -0.1% |
 | 07:00 | EUR | Low | German PPI (YoY) (Oct) |  | -1.9% | -1.7% |
