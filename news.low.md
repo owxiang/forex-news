@@ -40,9 +40,9 @@
 | 16:00 | USD | Fed Governor Cook Speaks |  |  |  |
 | 16:00 | USD | KC Fed Composite Index (Nov) | 8 |  | 6 |
 | 16:00 | USD | KC Fed Manufacturing Index (Nov) | 18 |  | 15 |
-| 22 min | USD | 4-Week Bill Auction |  |  | 3.900% |
-| 22 min | USD | 8-Week Bill Auction |  |  | 3.835% |
-| 17:40 | USD | Fed Goolsbee Speaks |  |  |  |
+| 16:30 | USD | 4-Week Bill Auction | 3.890% |  | 3.900% |
+| 16:30 | USD | 8-Week Bill Auction | 3.850% |  | 3.835% |
+| 34 min | USD | Fed Goolsbee Speaks |  |  |  |
 | 18:30 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
 | 21:00 | KRW | PPI (YoY) (Oct) |  |  | 1.2% |
 | 21:00 | KRW | PPI (MoM) (Oct) |  |  | 0.4% |
