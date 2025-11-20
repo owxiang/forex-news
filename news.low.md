@@ -7,13 +7,13 @@
 | 03:00 | IDR | Current Account % of GDP (Q3) | 1.10% |  | -0.80% |
 | 07:00 | CHF | Trade Balance (Oct) | 4.319B | 4.760B | 3.990B |
 | 07:00 | EUR | German PPI (YoY) (Oct) | -1.8% | -1.9% | -1.7% |
-| 20 min | HKD | CPI (MoM) (Oct) |  |  | 0.10% |
-| 20 min | HKD | CPI (YoY) (Oct) |  |  | 1.10% |
-| 50 min | EUR | Spanish Trade Balance (Sep) |  |  | -6.00B |
-| 09:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.111% |
-| 09:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 2.212% |
-| 09:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.443% |
-| 10:00 | EUR | Construction Output (MoM) (Sep) |  |  | -0.10% |
+| 08:30 | HKD | CPI (MoM) (Oct) | 0.30% |  | 0.10% |
+| 08:30 | HKD | CPI (YoY) (Oct) | 1.20% |  | 1.10% |
+| 09:00 | EUR | Spanish Trade Balance (Sep) | -6.00B |  | -6.00B |
+| 32 min | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.111% |
+| 32 min | EUR | Spanish 3-Year Bonos Auction |  |  | 2.212% |
+| 32 min | EUR | Spanish 5-Year Bonos Auction |  |  | 2.443% |
+| 52 min | EUR | Construction Output (MoM) (Sep) |  |  | -0.10% |
 | 11:00 | GBP | CBI Industrial Trends Orders (Nov) |  | -33 | -38 |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 11:30 | INR | Infrastructure Output (YoY) (Oct) |  |  | 3.0% |

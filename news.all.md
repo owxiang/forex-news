@@ -10,13 +10,13 @@
 | 07:00 | CHF | Low | Trade Balance (Oct) | 4.319B | 4.760B | 3.990B |
 | 07:00 | EUR | Moderate | German PPI (MoM) (Oct) | 0.1% | 0.0% | -0.1% |
 | 07:00 | EUR | Low | German PPI (YoY) (Oct) | -1.8% | -1.9% | -1.7% |
-| 20 min | HKD | Low | CPI (MoM) (Oct) |  |  | 0.10% |
-| 20 min | HKD | Low | CPI (YoY) (Oct) |  |  | 1.10% |
-| 50 min | EUR | Low | Spanish Trade Balance (Sep) |  |  | -6.00B |
-| 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.111% |
-| 09:40 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.212% |
-| 09:40 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.443% |
-| 10:00 | EUR | Low | Construction Output (MoM) (Sep) |  |  | -0.10% |
+| 08:30 | HKD | Low | CPI (MoM) (Oct) | 0.30% |  | 0.10% |
+| 08:30 | HKD | Low | CPI (YoY) (Oct) | 1.20% |  | 1.10% |
+| 09:00 | EUR | Low | Spanish Trade Balance (Sep) | -6.00B |  | -6.00B |
+| 32 min | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.111% |
+| 32 min | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.212% |
+| 32 min | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.443% |
+| 52 min | EUR | Low | Construction Output (MoM) (Sep) |  |  | -0.10% |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Nov) |  | -33 | -38 |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:30 | INR | Low | Infrastructure Output (YoY) (Oct) |  |  | 3.0% |
