@@ -10,12 +10,12 @@
 | 08:30 | HKD | CPI (MoM) (Oct) | 0.30% |  | 0.10% |
 | 08:30 | HKD | CPI (YoY) (Oct) | 1.20% |  | 1.10% |
 | 09:00 | EUR | Spanish Trade Balance (Sep) | -6.00B |  | -6.00B |
-| 32 min | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.111% |
-| 32 min | EUR | Spanish 3-Year Bonos Auction |  |  | 2.212% |
-| 32 min | EUR | Spanish 5-Year Bonos Auction |  |  | 2.443% |
-| 52 min | EUR | Construction Output (MoM) (Sep) |  |  | -0.10% |
-| 11:00 | GBP | CBI Industrial Trends Orders (Nov) |  | -33 | -38 |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 09:40 | EUR | Spanish 30-Year Obligacion Auction | 4.038% |  | 4.074% |
+| 10:00 | EUR | Spanish 10-Year Obligacion Auction | 3.199% |  | 3.111% |
+| 10:00 | EUR | Spanish 7-Year Obligacion Auction | 2.885% |  | 2.716% |
+| 10:00 | EUR | Construction Output (MoM) (Sep) | -0.50% |  | -0.20% |
+| 52 min | GBP | CBI Industrial Trends Orders (Nov) |  | -33 | -38 |
+| 52 min | EUR | German Buba Monthly Report |  |  |  |
 | 11:30 | INR | Infrastructure Output (YoY) (Oct) |  |  | 3.0% |
 | 12:00 | EUR | Spanish Consumer Confidence (Oct) |  |  | 81.5 |
 | 12:00 | CNY | FDI (Oct) |  |  | -10.40% |
