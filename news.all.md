@@ -7,9 +7,9 @@
 | 01:00 | CNY | Moderate | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
 | 03:00 | IDR | Low | Balance of Payments (EUR) (Q3) | -6.4B |  | -6.7B |
 | 03:00 | IDR | Low | Current Account % of GDP (Q3) | 1.10% |  | -0.80% |
-| 07:00 | CHF | Low | Trade Balance (Oct) |  | 4.760B | 4.073B |
-| 07:00 | EUR | Moderate | German PPI (MoM) (Oct) |  | 0.0% | -0.1% |
-| 07:00 | EUR | Low | German PPI (YoY) (Oct) |  | -1.9% | -1.7% |
+| 50 min | CHF | Low | Trade Balance (Oct) |  | 4.760B | 4.073B |
+| 50 min | EUR | Moderate | German PPI (MoM) (Oct) |  | 0.0% | -0.1% |
+| 50 min | EUR | Low | German PPI (YoY) (Oct) |  | -1.9% | -1.7% |
 | 08:30 | HKD | Low | CPI (MoM) (Oct) |  |  | 0.10% |
 | 08:30 | HKD | Low | CPI (YoY) (Oct) |  |  | 1.10% |
 | 09:00 | EUR | Low | Spanish Trade Balance (Sep) |  |  | -6.00B |
