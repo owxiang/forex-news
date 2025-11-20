@@ -87,11 +87,11 @@
 | 22:00 | AUD | Low | Manufacturing & Services PMI (Nov) | 52.60 |  | 52.10 |
 | 22:00 | AUD | Low | Judo Bank Manufacturing PMI (Nov) | 51.6 |  | 49.7 |
 | 22:00 | AUD | Low | Judo Bank Services PMI (Nov) | 52.7 |  | 52.5 |
-| 23:30 | JPY | Low | CPI, n.s.a (MoM) (Oct) |  |  | -0.1% |
-| 23:30 | JPY | Moderate | National Core CPI (YoY) (Oct) |  | 3.0% | 2.9% |
-| 23:30 | JPY | Low | National CPI (YoY) (Oct) |  |  | 2.9% |
-| 23:30 | JPY | Moderate | National CPI (MoM) (Oct) |  |  | 0.1% |
-| 23:50 | JPY | Moderate | Adjusted Trade Balance |  | -0.13T | -0.31T |
-| 23:50 | JPY | Moderate | Exports (YoY) (Oct) |  | 1.1% | 4.2% |
-| 23:50 | JPY | Low | Imports (YoY) (Oct) |  | -0.7% | 3.0% |
-| 23:50 | JPY | Moderate | Trade Balance (Oct) |  | -280.0B | -234.6B |
+| 23 min | JPY | Low | CPI, n.s.a (MoM) (Oct) |  |  | -0.1% |
+| 23 min | JPY | Moderate | National Core CPI (YoY) (Oct) |  | 3.0% | 2.9% |
+| 23 min | JPY | Low | National CPI (YoY) (Oct) |  |  | 2.9% |
+| 23 min | JPY | Moderate | National CPI (MoM) (Oct) |  |  | 0.1% |
+| 43 min | JPY | Moderate | Adjusted Trade Balance |  | -0.13T | -0.31T |
+| 43 min | JPY | Moderate | Exports (YoY) (Oct) |  | 1.1% | 4.2% |
+| 43 min | JPY | Low | Imports (YoY) (Oct) |  | -0.7% | 3.0% |
+| 43 min | JPY | Moderate | Trade Balance (Oct) |  | -280.0B | -234.6B |

@@ -23,8 +23,8 @@
 | 18:00 | USD | 10-Year TIPS Auction | 1.843% |  | 1.734% |
 | 21:00 | GBP | BoE MPC Member Mann Speaks |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet | 6,555B |  | 6,580B |
-| 23:30 | JPY | National Core CPI (YoY) (Oct) |  | 3.0% | 2.9% |
-| 23:30 | JPY | National CPI (MoM) (Oct) |  |  | 0.1% |
-| 23:50 | JPY | Adjusted Trade Balance |  | -0.13T | -0.31T |
-| 23:50 | JPY | Exports (YoY) (Oct) |  | 1.1% | 4.2% |
-| 23:50 | JPY | Trade Balance (Oct) |  | -280.0B | -234.6B |
+| 23 min | JPY | National Core CPI (YoY) (Oct) |  | 3.0% | 2.9% |
+| 23 min | JPY | National CPI (MoM) (Oct) |  |  | 0.1% |
+| 43 min | JPY | Adjusted Trade Balance |  | -0.13T | -0.31T |
+| 43 min | JPY | Exports (YoY) (Oct) |  | 1.1% | 4.2% |
+| 43 min | JPY | Trade Balance (Oct) |  | -280.0B | -234.6B |

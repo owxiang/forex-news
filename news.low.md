@@ -54,6 +54,6 @@
 | 22:00 | AUD | Manufacturing & Services PMI (Nov) | 52.60 |  | 52.10 |
 | 22:00 | AUD | Judo Bank Manufacturing PMI (Nov) | 51.6 |  | 49.7 |
 | 22:00 | AUD | Judo Bank Services PMI (Nov) | 52.7 |  | 52.5 |
-| 23:30 | JPY | CPI, n.s.a (MoM) (Oct) |  |  | -0.1% |
-| 23:30 | JPY | National CPI (YoY) (Oct) |  |  | 2.9% |
-| 23:50 | JPY | Imports (YoY) (Oct) |  | -0.7% | 3.0% |
+| 23 min | JPY | CPI, n.s.a (MoM) (Oct) |  |  | -0.1% |
+| 23 min | JPY | National CPI (YoY) (Oct) |  |  | 2.9% |
+| 43 min | JPY | Imports (YoY) (Oct) |  | -0.7% | 3.0% |
