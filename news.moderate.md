@@ -1,27 +1,32 @@
-## 19 November 2025 - Moderate Impact Forex News
+## 20 November 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Wage Price Index (QoQ) (Q3) | 0.8% | 0.8% | 0.8% |
-| 03:30 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 07:00 | GBP | CPI (MoM) (Oct) | 0.4% | 0.4% | 0.0% |
-| 07:00 | GBP | PPI Input (MoM) (Oct) | -0.3% | 0.0% | -0.1% |
-| 07:30 | IDR | Interest Rate Decision | 4.75% | 4.75% | 4.75% |
-| 08:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
-| 10:00 | EUR | Core CPI (YoY) (Oct) | 2.4% | 2.4% | 2.4% |
-| 10:00 | EUR | CPI (MoM) (Oct) | 0.2% | 0.2% | 0.1% |
-| 11:30 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 13:30 | USD | Trade Balance (Aug) | -59.60B | -61.30B | -78.20B |
-| 15:30 | USD | Atlanta Fed GDPNow (Q4) | 4.2% | 4.0% | 4.0% |
-| 15:30 | USD | Cushing Crude Oil Inventories | -0.698M |  | -0.346M |
-| 18:00 | USD | 20-Year Bond Auction | 4.706% |  | 4.506% |
-| 19:00 | USD | FOMC Member Williams Speaks |  |  |  |
-| 20:30 | GBP | CFTC GBP speculative net positions |  |  | -2.0K |
-| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 103.0K |
-| 20:30 | USD | CFTC Gold speculative net positions |  |  | 266.7K |
-| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 23.4K |
-| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -172.5K |
-| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -59.6K |
-| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 65.5K |
-| 20:30 | JPY | CFTC JPY speculative net positions |  |  | 79.5K |
-| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 114.3K |
+| 30 min | CNY | China Loan Prime Rate 5Y (Nov) |  | 3.50% | 3.50% |
+| 45 min | CNY | PBoC Loan Prime Rate |  | 3.00% | 3.00% |
+| 07:00 | EUR | German PPI (MoM) (Oct) |  | 0.0% | -0.1% |
+| 13:00 | ZAR | Interest Rate Decision (Nov) |  | 6.75% | 7.00% |
+| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Sep) |  | 3.7% | 3.7% |
+| 13:30 | USD | Building Permits (Sep) |  | 1.340M | 1.330M |
+| 13:30 | USD | Continuing Jobless Claims |  |  | 1,957K |
+| 13:30 | USD | Export Price Index (MoM) (Sep) |  | 0.1% | 0.3% |
+| 13:30 | USD | Housing Starts (Sep) |  | 1.320M | 1.307M |
+| 13:30 | USD | Housing Starts (MoM) (Sep) |  |  | -8.5% |
+| 13:30 | USD | Import Price Index (MoM) (Sep) |  | 0.1% | 0.3% |
+| 13:30 | USD | Participation Rate (Sep) |  |  | 62.3% |
+| 13:30 | USD | Philly Fed Employment (Nov) |  |  | 4.6 |
+| 13:30 | USD | Private Nonfarm Payrolls (Sep) |  | 62K | 38K |
+| 13:30 | USD | U6 Unemployment Rate (Sep) |  |  | 8.1% |
+| 13:30 | CAD | RMPI (MoM) (Oct) |  | 0.6% | 1.7% |
+| 14:15 | USD | Industrial Production (MoM) (Oct) |  |  | 0.1% |
+| 14:15 | USD | Industrial Production (YoY) (Sep) |  |  | 0.87% |
+| 15:00 | USD | Existing Home Sales (MoM) (Oct) |  |  | 1.5% |
+| 15:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
+| 18:00 | USD | 10-Year TIPS Auction |  |  | 1.734% |
+| 18:00 | USD | Federal Budget Balance (Oct) |  | -223.3B | 198.0B |
+| 21:00 | GBP | BoE MPC Member Mann Speaks |  |  |  |
+| 23:30 | JPY | National Core CPI (YoY) (Oct) |  | 3.0% | 2.9% |
+| 23:30 | JPY | National CPI (MoM) (Oct) |  |  | 0.1% |
+| 23:50 | JPY | Adjusted Trade Balance |  | -0.13T | -0.31T |
+| 23:50 | JPY | Exports (YoY) (Oct) |  | 1.1% | 4.2% |
+| 23:50 | JPY | Trade Balance (Oct) |  | -280.0B | -234.6B |

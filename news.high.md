@@ -1,8 +1,10 @@
-## 19 November 2025 - High Impact Forex News
+## 20 November 2025 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | GBP | CPI (YoY) (Oct) | 3.6% | 3.5% | 3.8% |
-| 10:00 | EUR | CPI (YoY) (Oct) | 2.1% | 2.1% | 2.2% |
-| 15:30 | USD | Crude Oil Inventories | -3.426M | -0.600M | 6.413M |
-| 19:00 | USD | FOMC Meeting Minutes |  |  |  |
+| 13:30 | USD | Average Hourly Earnings (MoM) (Sep) |  | 0.3% | 0.3% |
+| 13:30 | USD | Initial Jobless Claims |  |  | 232K |
+| 13:30 | USD | Nonfarm Payrolls (Sep) |  | 55K | 22K |
+| 13:30 | USD | Philadelphia Fed Manufacturing Index (Nov) |  | 1.0 | -12.8 |
+| 13:30 | USD | Unemployment Rate (Sep) |  | 4.3% | 4.3% |
+| 15:00 | USD | Existing Home Sales (Oct) |  | 4.08M | 4.06M |
