@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | AUD | Low | Reserve Assets Total (Oct) |  |  | 107,964.0B |
-| 30 min | CNY | Moderate | China Loan Prime Rate 5Y (Nov) |  | 3.50% | 3.50% |
-| 45 min | CNY | Moderate | PBoC Loan Prime Rate |  | 3.00% | 3.00% |
+| 00:30 | AUD | Low | Reserve Assets Total (Oct) | 110.6B |  | 108.0B |
+| 01:00 | CNY | Moderate | China Loan Prime Rate 5Y (Nov) | 3.50% | 3.50% | 3.50% |
+| 01:00 | CNY | Moderate | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
 | 03:00 | IDR | Low | Balance of Payments (EUR) (Q3) |  |  | -6.7B |
 | 03:00 | IDR | Low | Current Account % of GDP (Q3) |  |  | -0.80% |
 | 07:00 | CHF | Low | Trade Balance (Oct) |  | 4.760B | 4.073B |
@@ -30,8 +30,8 @@
 | 13:30 | USD | Moderate | Building Permits (Sep) |  | 1.340M | 1.330M |
 | 13:30 | USD | Low | Building Permits (MoM) (Sep) |  |  | -2.3% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,957K |
-| 13:30 | USD | Low | Export Price Index (YoY) (Sep) |  |  | 3.4% |
 | 13:30 | USD | Moderate | Export Price Index (MoM) (Sep) |  | 0.1% | 0.3% |
+| 13:30 | USD | Low | Export Price Index (YoY) (Sep) |  |  | 3.4% |
 | 13:30 | USD | Low | Government Payrolls (Sep) |  |  | -16.0K |
 | 13:30 | USD | Moderate | Housing Starts (Sep) |  | 1.320M | 1.307M |
 | 13:30 | USD | Moderate | Housing Starts (MoM) (Sep) |  |  | -8.5% |

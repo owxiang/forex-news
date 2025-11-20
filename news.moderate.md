@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 30 min | CNY | China Loan Prime Rate 5Y (Nov) |  | 3.50% | 3.50% |
-| 45 min | CNY | PBoC Loan Prime Rate |  | 3.00% | 3.00% |
+| 01:00 | CNY | China Loan Prime Rate 5Y (Nov) | 3.50% | 3.50% | 3.50% |
+| 01:00 | CNY | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
 | 07:00 | EUR | German PPI (MoM) (Oct) |  | 0.0% | -0.1% |
 | 13:00 | ZAR | Interest Rate Decision (Nov) |  | 6.75% | 7.00% |
 | 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Sep) |  | 3.7% | 3.7% |
