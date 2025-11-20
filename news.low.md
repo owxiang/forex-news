@@ -36,12 +36,12 @@
 | 13:30 | CAD | IPPI (MoM) (Oct) | 1.5% | 0.3% | 1.0% |
 | 13:30 | CAD | RMPI (YoY) (Oct) | 5.8% |  | 8.4% |
 | 15:00 | EUR | Consumer Confidence (Nov) | -14.2 | -14.0 | -14.2 |
-| 23 min | USD | Natural Gas Storage |  | -12B | 45B |
-| 53 min | USD | Fed Governor Cook Speaks |  |  |  |
-| 53 min | USD | KC Fed Composite Index (Nov) |  |  | 6 |
-| 53 min | USD | KC Fed Manufacturing Index (Nov) |  |  | 15 |
-| 16:30 | USD | 4-Week Bill Auction |  |  | 3.900% |
-| 16:30 | USD | 8-Week Bill Auction |  |  | 3.835% |
+| 15:30 | USD | Natural Gas Storage | -14B | -12B | 45B |
+| 16:00 | USD | Fed Governor Cook Speaks |  |  |  |
+| 16:00 | USD | KC Fed Composite Index (Nov) | 8 |  | 6 |
+| 16:00 | USD | KC Fed Manufacturing Index (Nov) | 18 |  | 15 |
+| 22 min | USD | 4-Week Bill Auction |  |  | 3.900% |
+| 22 min | USD | 8-Week Bill Auction |  |  | 3.835% |
 | 17:40 | USD | Fed Goolsbee Speaks |  |  |  |
 | 18:30 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
 | 21:00 | KRW | PPI (YoY) (Oct) |  |  | 1.2% |

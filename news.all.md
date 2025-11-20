@@ -66,12 +66,12 @@
 | 15:00 | USD | Moderate | Existing Home Sales (MoM) (Oct) | 1.2% |  | 1.3% |
 | 15:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 15:00 | EUR | Low | Consumer Confidence (Nov) | -14.2 | -14.0 | -14.2 |
-| 23 min | USD | Low | Natural Gas Storage |  | -12B | 45B |
-| 53 min | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 53 min | USD | Low | KC Fed Composite Index (Nov) |  |  | 6 |
-| 53 min | USD | Low | KC Fed Manufacturing Index (Nov) |  |  | 15 |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.900% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.835% |
+| 15:30 | USD | Low | Natural Gas Storage | -14B | -12B | 45B |
+| 16:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |
+| 16:00 | USD | Low | KC Fed Composite Index (Nov) | 8 |  | 6 |
+| 16:00 | USD | Low | KC Fed Manufacturing Index (Nov) | 18 |  | 15 |
+| 22 min | USD | Low | 4-Week Bill Auction |  |  | 3.900% |
+| 22 min | USD | Low | 8-Week Bill Auction |  |  | 3.835% |
 | 17:40 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 18:00 | USD | Moderate | 10-Year TIPS Auction |  |  | 1.734% |
 | 18:00 | USD | Moderate | Federal Budget Balance (Oct) |  | -223.4B | 198.0B |
