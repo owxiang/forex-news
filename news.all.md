@@ -72,13 +72,12 @@
 | 16:00 | USD | Low | KC Fed Manufacturing Index (Nov) | 18 |  | 15 |
 | 16:30 | USD | Low | 4-Week Bill Auction | 3.890% |  | 3.900% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 3.850% |  | 3.835% |
-| 34 min | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 54 min | USD | Moderate | 10-Year TIPS Auction |  |  | 1.734% |
-| 54 min | USD | Moderate | Federal Budget Balance (Oct) |  | -223.4B | 198.0B |
+| 17:40 | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 18:00 | USD | Moderate | 10-Year TIPS Auction | 1.843% |  | 1.734% |
 | 18:30 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
 | 21:00 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
-| 21:00 | KRW | Low | PPI (YoY) (Oct) |  |  | 1.2% |
 | 21:00 | KRW | Low | PPI (MoM) (Oct) |  |  | 0.4% |
+| 21:00 | KRW | Low | PPI (YoY) (Oct) |  |  | 1.2% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,580B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.883T |
 | 21:45 | NZD | Low | Exports (Oct) |  |  | 5.82B |

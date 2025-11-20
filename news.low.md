@@ -42,10 +42,10 @@
 | 16:00 | USD | KC Fed Manufacturing Index (Nov) | 18 |  | 15 |
 | 16:30 | USD | 4-Week Bill Auction | 3.890% |  | 3.900% |
 | 16:30 | USD | 8-Week Bill Auction | 3.850% |  | 3.835% |
-| 34 min | USD | Fed Goolsbee Speaks |  |  |  |
+| 17:40 | USD | Fed Goolsbee Speaks |  |  |  |
 | 18:30 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
-| 21:00 | KRW | PPI (YoY) (Oct) |  |  | 1.2% |
 | 21:00 | KRW | PPI (MoM) (Oct) |  |  | 0.4% |
+| 21:00 | KRW | PPI (YoY) (Oct) |  |  | 1.2% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.883T |
 | 21:45 | NZD | Exports (Oct) |  |  | 5.82B |
 | 21:45 | NZD | Imports (Oct) |  |  | 7.18B |
