@@ -10,9 +10,9 @@
 | 07:00 | CHF | Low | Trade Balance (Oct) | 4.319B | 4.760B | 3.990B |
 | 07:00 | EUR | Moderate | German PPI (MoM) (Oct) | 0.1% | 0.0% | -0.1% |
 | 07:00 | EUR | Low | German PPI (YoY) (Oct) | -1.8% | -1.9% | -1.7% |
-| 08:30 | HKD | Low | CPI (MoM) (Oct) |  |  | 0.10% |
-| 08:30 | HKD | Low | CPI (YoY) (Oct) |  |  | 1.10% |
-| 09:00 | EUR | Low | Spanish Trade Balance (Sep) |  |  | -6.00B |
+| 20 min | HKD | Low | CPI (MoM) (Oct) |  |  | 0.10% |
+| 20 min | HKD | Low | CPI (YoY) (Oct) |  |  | 1.10% |
+| 50 min | EUR | Low | Spanish Trade Balance (Sep) |  |  | -6.00B |
 | 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.111% |
 | 09:40 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.212% |
 | 09:40 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.443% |
