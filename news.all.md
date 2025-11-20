@@ -78,15 +78,15 @@
 | 21:00 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 21:00 | KRW | Low | PPI (MoM) (Oct) | 0.2% |  | 0.4% |
 | 21:00 | KRW | Low | PPI (YoY) (Oct) | 1.5% |  | 1.2% |
-| 23 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,580B |
-| 23 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.883T |
-| 38 min | NZD | Low | Exports (Oct) |  |  | 5.82B |
-| 38 min | NZD | Low | Imports (Oct) |  |  | 7.18B |
-| 38 min | NZD | Low | Trade Balance (MoM) (Oct) |  | -955M | -1,355M |
-| 38 min | NZD | Low | Trade Balance (YoY) (Oct) |  |  | -2,250M |
-| 53 min | AUD | Low | Manufacturing & Services PMI (Nov) |  |  | 52.10 |
-| 53 min | AUD | Low | Judo Bank Manufacturing PMI (Nov) |  |  | 49.7 |
-| 53 min | AUD | Low | Judo Bank Services PMI (Nov) |  |  | 52.5 |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,555B |  | 6,580B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 2.918T |  | 2.883T |
+| 21:45 | NZD | Low | Exports (Oct) | 6.50B |  | 5.78B |
+| 21:45 | NZD | Low | Imports (Oct) | 8.04B |  | 7.17B |
+| 21:45 | NZD | Low | Trade Balance (MoM) (Oct) | -1,542M | -955M | -1,384M |
+| 21:45 | NZD | Low | Trade Balance (YoY) (Oct) | -2,280M |  | -2,390M |
+| 22:00 | AUD | Low | Manufacturing & Services PMI (Nov) | 52.60 |  | 52.10 |
+| 22:00 | AUD | Low | Judo Bank Manufacturing PMI (Nov) | 51.6 |  | 49.7 |
+| 22:00 | AUD | Low | Judo Bank Services PMI (Nov) | 52.7 |  | 52.5 |
 | 23:30 | JPY | Low | CPI, n.s.a (MoM) (Oct) |  |  | -0.1% |
 | 23:30 | JPY | Moderate | National Core CPI (YoY) (Oct) |  | 3.0% | 2.9% |
 | 23:30 | JPY | Low | National CPI (YoY) (Oct) |  |  | 2.9% |
