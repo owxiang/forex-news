@@ -19,34 +19,34 @@
 | 10:00 | EUR | Low | Construction Output (MoM) (Sep) | -0.49% |  | -0.19% |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Nov) | -37 | -33 | -38 |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 11:30 | INR | Low | Infrastructure Output (YoY) (Oct) | 0.0% |  | 3.0% |
-| 48 min | ZAR | Moderate | Interest Rate Decision (Nov) |  | 6.75% | 7.00% |
-| 48 min | ZAR | Low | Prime Rate (Nov) |  |  | 10.50% |
-| 13:30 | USD | High | Average Hourly Earnings (MoM) (Sep) |  | 0.3% | 0.3% |
-| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Sep) |  | 3.7% | 3.7% |
-| 13:30 | USD | Low | Average Weekly Hours (Sep) |  | 34.2 | 34.2 |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,957K |
-| 13:30 | USD | Low | Government Payrolls (Sep) |  |  | -16.0K |
-| 13:30 | USD | Moderate | Housing Starts (Sep) |  | 1.320M | 1.307M |
-| 13:30 | USD | Moderate | Housing Starts (MoM) (Sep) |  |  | -8.5% |
-| 13:30 | USD | High | Initial Jobless Claims |  |  | 232K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 58.00K |
-| 13:30 | USD | Low | Manufacturing Payrolls (Sep) |  | -8K | -12K |
-| 13:30 | USD | High | Nonfarm Payrolls (Sep) |  | 53K | 22K |
-| 13:30 | USD | Moderate | Participation Rate (Sep) |  |  | 62.3% |
-| 13:30 | USD | High | Philadelphia Fed Manufacturing Index (Nov) |  | 1.0 | -12.8 |
-| 13:30 | USD | Low | Philly Fed Business Conditions (Nov) |  |  | 36.2 |
-| 13:30 | USD | Low | Philly Fed CAPEX Index (Nov) |  |  | 25.20 |
-| 13:30 | USD | Moderate | Philly Fed Employment (Nov) |  |  | 4.6 |
-| 13:30 | USD | Low | Philly Fed New Orders (Nov) |  |  | 18.2 |
-| 13:30 | USD | Low | Philly Fed Prices Paid (Nov) |  |  | 49.20 |
-| 13:30 | USD | Moderate | Private Nonfarm Payrolls (Sep) |  | 62K | 38K |
-| 13:30 | USD | Moderate | U6 Unemployment Rate (Sep) |  |  | 8.1% |
-| 13:30 | USD | High | Unemployment Rate (Sep) |  | 4.3% | 4.3% |
-| 13:30 | CAD | Low | IPPI (YoY) (Oct) |  |  | 5.5% |
-| 13:30 | CAD | Low | IPPI (MoM) (Oct) |  | 0.3% | 0.8% |
-| 13:30 | CAD | Low | RMPI (YoY) (Oct) |  |  | 8.4% |
-| 13:30 | CAD | Moderate | RMPI (MoM) (Oct) |  | 0.6% | 1.7% |
+| 11:30 | INR | Low | Infrastructure Output (YoY) (Oct) | 0.0% |  | 3.3% |
+| 13:00 | ZAR | Moderate | Interest Rate Decision (Nov) | 6.75% | 6.75% | 7.00% |
+| 13:00 | ZAR | Low | Prime Rate (Nov) | 10.25% |  | 10.50% |
+| 15 min | USD | High | Average Hourly Earnings (MoM) (Sep) |  | 0.3% | 0.3% |
+| 15 min | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Sep) |  | 3.7% | 3.7% |
+| 15 min | USD | Low | Average Weekly Hours (Sep) |  | 34.2 | 34.2 |
+| 15 min | USD | Moderate | Continuing Jobless Claims |  |  | 1,957K |
+| 15 min | USD | Low | Government Payrolls (Sep) |  |  | -16.0K |
+| 15 min | USD | Moderate | Housing Starts (Sep) |  | 1.320M | 1.307M |
+| 15 min | USD | Moderate | Housing Starts (MoM) (Sep) |  |  | -8.5% |
+| 15 min | USD | High | Initial Jobless Claims |  |  | 232K |
+| 15 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 58.00K |
+| 15 min | USD | Low | Manufacturing Payrolls (Sep) |  | -8K | -12K |
+| 15 min | USD | High | Nonfarm Payrolls (Sep) |  | 53K | 22K |
+| 15 min | USD | Moderate | Participation Rate (Sep) |  |  | 62.3% |
+| 15 min | USD | High | Philadelphia Fed Manufacturing Index (Nov) |  | 1.0 | -12.8 |
+| 15 min | USD | Low | Philly Fed Business Conditions (Nov) |  |  | 36.2 |
+| 15 min | USD | Low | Philly Fed CAPEX Index (Nov) |  |  | 25.20 |
+| 15 min | USD | Moderate | Philly Fed Employment (Nov) |  |  | 4.6 |
+| 15 min | USD | Low | Philly Fed New Orders (Nov) |  |  | 18.2 |
+| 15 min | USD | Low | Philly Fed Prices Paid (Nov) |  |  | 49.20 |
+| 15 min | USD | Moderate | Private Nonfarm Payrolls (Sep) |  | 62K | 38K |
+| 15 min | USD | Moderate | U6 Unemployment Rate (Sep) |  |  | 8.1% |
+| 15 min | USD | High | Unemployment Rate (Sep) |  | 4.3% | 4.3% |
+| 15 min | CAD | Low | IPPI (YoY) (Oct) |  |  | 5.5% |
+| 15 min | CAD | Low | IPPI (MoM) (Oct) |  | 0.3% | 0.8% |
+| 15 min | CAD | Low | RMPI (YoY) (Oct) |  |  | 8.4% |
+| 15 min | CAD | Moderate | RMPI (MoM) (Oct) |  | 0.6% | 1.7% |
 | 14:15 | USD | Low | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
 | 14:15 | USD | Moderate | Industrial Production (MoM) (Oct) |  |  | 0.1% |
 | 14:15 | USD | Moderate | Industrial Production (YoY) (Sep) |  |  | 0.87% |

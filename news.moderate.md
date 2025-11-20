@@ -5,16 +5,16 @@
 | 01:00 | CNY | China Loan Prime Rate 5Y (Nov) | 3.50% | 3.50% | 3.50% |
 | 01:00 | CNY | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
 | 07:00 | EUR | German PPI (MoM) (Oct) | 0.1% | 0.0% | -0.1% |
-| 48 min | ZAR | Interest Rate Decision (Nov) |  | 6.75% | 7.00% |
-| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Sep) |  | 3.7% | 3.7% |
-| 13:30 | USD | Continuing Jobless Claims |  |  | 1,957K |
-| 13:30 | USD | Housing Starts (Sep) |  | 1.320M | 1.307M |
-| 13:30 | USD | Housing Starts (MoM) (Sep) |  |  | -8.5% |
-| 13:30 | USD | Participation Rate (Sep) |  |  | 62.3% |
-| 13:30 | USD | Philly Fed Employment (Nov) |  |  | 4.6 |
-| 13:30 | USD | Private Nonfarm Payrolls (Sep) |  | 62K | 38K |
-| 13:30 | USD | U6 Unemployment Rate (Sep) |  |  | 8.1% |
-| 13:30 | CAD | RMPI (MoM) (Oct) |  | 0.6% | 1.7% |
+| 13:00 | ZAR | Interest Rate Decision (Nov) | 6.75% | 6.75% | 7.00% |
+| 15 min | USD | Average Hourly Earnings (YoY) (YoY) (Sep) |  | 3.7% | 3.7% |
+| 15 min | USD | Continuing Jobless Claims |  |  | 1,957K |
+| 15 min | USD | Housing Starts (Sep) |  | 1.320M | 1.307M |
+| 15 min | USD | Housing Starts (MoM) (Sep) |  |  | -8.5% |
+| 15 min | USD | Participation Rate (Sep) |  |  | 62.3% |
+| 15 min | USD | Philly Fed Employment (Nov) |  |  | 4.6 |
+| 15 min | USD | Private Nonfarm Payrolls (Sep) |  | 62K | 38K |
+| 15 min | USD | U6 Unemployment Rate (Sep) |  |  | 8.1% |
+| 15 min | CAD | RMPI (MoM) (Oct) |  | 0.6% | 1.7% |
 | 14:15 | USD | Industrial Production (MoM) (Oct) |  |  | 0.1% |
 | 14:15 | USD | Industrial Production (YoY) (Sep) |  |  | 0.87% |
 | 15:00 | USD | Existing Home Sales (MoM) (Oct) |  |  | 1.5% |

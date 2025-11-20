@@ -16,19 +16,19 @@
 | 10:00 | EUR | Construction Output (MoM) (Sep) | -0.49% |  | -0.19% |
 | 11:00 | GBP | CBI Industrial Trends Orders (Nov) | -37 | -33 | -38 |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 11:30 | INR | Infrastructure Output (YoY) (Oct) | 0.0% |  | 3.0% |
-| 48 min | ZAR | Prime Rate (Nov) |  |  | 10.50% |
-| 13:30 | USD | Average Weekly Hours (Sep) |  | 34.2 | 34.2 |
-| 13:30 | USD | Government Payrolls (Sep) |  |  | -16.0K |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 58.00K |
-| 13:30 | USD | Manufacturing Payrolls (Sep) |  | -8K | -12K |
-| 13:30 | USD | Philly Fed Business Conditions (Nov) |  |  | 36.2 |
-| 13:30 | USD | Philly Fed CAPEX Index (Nov) |  |  | 25.20 |
-| 13:30 | USD | Philly Fed New Orders (Nov) |  |  | 18.2 |
-| 13:30 | USD | Philly Fed Prices Paid (Nov) |  |  | 49.20 |
-| 13:30 | CAD | IPPI (YoY) (Oct) |  |  | 5.5% |
-| 13:30 | CAD | IPPI (MoM) (Oct) |  | 0.3% | 0.8% |
-| 13:30 | CAD | RMPI (YoY) (Oct) |  |  | 8.4% |
+| 11:30 | INR | Infrastructure Output (YoY) (Oct) | 0.0% |  | 3.3% |
+| 13:00 | ZAR | Prime Rate (Nov) | 10.25% |  | 10.50% |
+| 15 min | USD | Average Weekly Hours (Sep) |  | 34.2 | 34.2 |
+| 15 min | USD | Government Payrolls (Sep) |  |  | -16.0K |
+| 15 min | USD | Jobless Claims 4-Week Avg. |  |  | 58.00K |
+| 15 min | USD | Manufacturing Payrolls (Sep) |  | -8K | -12K |
+| 15 min | USD | Philly Fed Business Conditions (Nov) |  |  | 36.2 |
+| 15 min | USD | Philly Fed CAPEX Index (Nov) |  |  | 25.20 |
+| 15 min | USD | Philly Fed New Orders (Nov) |  |  | 18.2 |
+| 15 min | USD | Philly Fed Prices Paid (Nov) |  |  | 49.20 |
+| 15 min | CAD | IPPI (YoY) (Oct) |  |  | 5.5% |
+| 15 min | CAD | IPPI (MoM) (Oct) |  | 0.3% | 0.8% |
+| 15 min | CAD | RMPI (YoY) (Oct) |  |  | 8.4% |
 | 14:15 | USD | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
 | 15:00 | EUR | Consumer Confidence (Nov) |  | -14.0 | -14.2 |
 | 15:30 | USD | Natural Gas Storage |  | -12B | 45B |
