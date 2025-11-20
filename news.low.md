@@ -5,8 +5,8 @@
 | 00:30 | AUD | Reserve Assets Total (Oct) | 110.6B |  | 108.0B |
 | 03:00 | IDR | Balance of Payments (EUR) (Q3) | -6.4B |  | -6.7B |
 | 03:00 | IDR | Current Account % of GDP (Q3) | 1.10% |  | -0.80% |
-| 50 min | CHF | Trade Balance (Oct) |  | 4.760B | 4.073B |
-| 50 min | EUR | German PPI (YoY) (Oct) |  | -1.9% | -1.7% |
+| 07:00 | CHF | Trade Balance (Oct) | 4.319B | 4.760B | 3.990B |
+| 07:00 | EUR | German PPI (YoY) (Oct) | -1.8% | -1.9% | -1.7% |
 | 08:30 | HKD | CPI (MoM) (Oct) |  |  | 0.10% |
 | 08:30 | HKD | CPI (YoY) (Oct) |  |  | 1.10% |
 | 09:00 | EUR | Spanish Trade Balance (Sep) |  |  | -6.00B |
