@@ -13,12 +13,12 @@
 | 09:40 | EUR | Spanish 30-Year Obligacion Auction | 4.038% |  | 4.074% |
 | 10:00 | EUR | Spanish 10-Year Obligacion Auction | 3.199% |  | 3.111% |
 | 10:00 | EUR | Spanish 7-Year Obligacion Auction | 2.885% |  | 2.716% |
-| 10:00 | EUR | Construction Output (MoM) (Sep) | -0.50% |  | -0.20% |
-| 52 min | GBP | CBI Industrial Trends Orders (Nov) |  | -33 | -38 |
-| 52 min | EUR | German Buba Monthly Report |  |  |  |
-| 11:30 | INR | Infrastructure Output (YoY) (Oct) |  |  | 3.0% |
-| 12:00 | EUR | Spanish Consumer Confidence (Oct) |  |  | 81.5 |
-| 12:00 | CNY | FDI (Oct) |  |  | -10.40% |
+| 10:00 | EUR | Construction Output (MoM) (Sep) | -0.49% |  | -0.19% |
+| 11:00 | GBP | CBI Industrial Trends Orders (Nov) | -37 | -33 | -38 |
+| 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 23 min | INR | Infrastructure Output (YoY) (Oct) |  |  | 3.0% |
+| 53 min | EUR | Spanish Consumer Confidence (Oct) |  |  | 81.5 |
+| 53 min | CNY | FDI (Oct) |  |  | -10.40% |
 | 13:00 | ZAR | Prime Rate (Nov) |  |  | 10.50% |
 | 13:30 | USD | Average Weekly Hours (Sep) |  | 34.2 | 34.2 |
 | 13:30 | USD | Government Payrolls (Sep) |  |  | -16.0K |

@@ -16,12 +16,12 @@
 | 09:40 | EUR | Low | Spanish 30-Year Obligacion Auction | 4.038% |  | 4.074% |
 | 10:00 | EUR | Low | Spanish 10-Year Obligacion Auction | 3.199% |  | 3.111% |
 | 10:00 | EUR | Low | Spanish 7-Year Obligacion Auction | 2.885% |  | 2.716% |
-| 10:00 | EUR | Low | Construction Output (MoM) (Sep) | -0.50% |  | -0.20% |
-| 52 min | GBP | Low | CBI Industrial Trends Orders (Nov) |  | -33 | -38 |
-| 52 min | EUR | Low | German Buba Monthly Report |  |  |  |
-| 11:30 | INR | Low | Infrastructure Output (YoY) (Oct) |  |  | 3.0% |
-| 12:00 | EUR | Low | Spanish Consumer Confidence (Oct) |  |  | 81.5 |
-| 12:00 | CNY | Low | FDI (Oct) |  |  | -10.40% |
+| 10:00 | EUR | Low | Construction Output (MoM) (Sep) | -0.49% |  | -0.19% |
+| 11:00 | GBP | Low | CBI Industrial Trends Orders (Nov) | -37 | -33 | -38 |
+| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 23 min | INR | Low | Infrastructure Output (YoY) (Oct) |  |  | 3.0% |
+| 53 min | EUR | Low | Spanish Consumer Confidence (Oct) |  |  | 81.5 |
+| 53 min | CNY | Low | FDI (Oct) |  |  | -10.40% |
 | 13:00 | ZAR | Moderate | Interest Rate Decision (Nov) |  | 6.75% | 7.00% |
 | 13:00 | ZAR | Low | Prime Rate (Nov) |  |  | 10.50% |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Sep) |  | 0.3% | 0.3% |
