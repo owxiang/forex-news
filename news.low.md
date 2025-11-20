@@ -44,16 +44,16 @@
 | 16:30 | USD | 8-Week Bill Auction | 3.850% |  | 3.835% |
 | 17:40 | USD | Fed Goolsbee Speaks |  |  |  |
 | 18:30 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
-| 52 min | KRW | PPI (MoM) (Oct) |  |  | 0.4% |
-| 52 min | KRW | PPI (YoY) (Oct) |  |  | 1.2% |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.883T |
-| 21:45 | NZD | Exports (Oct) |  |  | 5.82B |
-| 21:45 | NZD | Imports (Oct) |  |  | 7.18B |
-| 21:45 | NZD | Trade Balance (MoM) (Oct) |  | -955M | -1,355M |
-| 21:45 | NZD | Trade Balance (YoY) (Oct) |  |  | -2,250M |
-| 22:00 | AUD | Manufacturing & Services PMI (Nov) |  |  | 52.10 |
-| 22:00 | AUD | Judo Bank Manufacturing PMI (Nov) |  |  | 49.7 |
-| 22:00 | AUD | Judo Bank Services PMI (Nov) |  |  | 52.5 |
+| 21:00 | KRW | PPI (MoM) (Oct) | 0.2% |  | 0.4% |
+| 21:00 | KRW | PPI (YoY) (Oct) | 1.5% |  | 1.2% |
+| 23 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.883T |
+| 38 min | NZD | Exports (Oct) |  |  | 5.82B |
+| 38 min | NZD | Imports (Oct) |  |  | 7.18B |
+| 38 min | NZD | Trade Balance (MoM) (Oct) |  | -955M | -1,355M |
+| 38 min | NZD | Trade Balance (YoY) (Oct) |  |  | -2,250M |
+| 53 min | AUD | Manufacturing & Services PMI (Nov) |  |  | 52.10 |
+| 53 min | AUD | Judo Bank Manufacturing PMI (Nov) |  |  | 49.7 |
+| 53 min | AUD | Judo Bank Services PMI (Nov) |  |  | 52.5 |
 | 23:30 | JPY | CPI, n.s.a (MoM) (Oct) |  |  | -0.1% |
 | 23:30 | JPY | National CPI (YoY) (Oct) |  |  | 2.9% |
 | 23:50 | JPY | Imports (YoY) (Oct) |  | -0.7% | 3.0% |

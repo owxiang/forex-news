@@ -21,8 +21,8 @@
 | 15:00 | USD | Existing Home Sales (MoM) (Oct) | 1.2% |  | 1.3% |
 | 15:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
 | 18:00 | USD | 10-Year TIPS Auction | 1.843% |  | 1.734% |
-| 52 min | GBP | BoE MPC Member Mann Speaks |  |  |  |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 6,580B |
+| 21:00 | GBP | BoE MPC Member Mann Speaks |  |  |  |
+| 23 min | USD | Fed's Balance Sheet |  |  | 6,580B |
 | 23:30 | JPY | National Core CPI (YoY) (Oct) |  | 3.0% | 2.9% |
 | 23:30 | JPY | National CPI (MoM) (Oct) |  |  | 0.1% |
 | 23:50 | JPY | Adjusted Trade Balance |  | -0.13T | -0.31T |
