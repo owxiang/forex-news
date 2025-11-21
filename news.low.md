@@ -14,10 +14,10 @@
 | 05:00 | INR | Manufacturing & Services PMI (Nov) | 59.90 | 60.00 | 60.40 |
 | 07:00 | GBP | Public Sector Net Borrowing | 17.43B | 15.20B | 19.89B |
 | 07:00 | GBP | Public Sector Net Cash Requirement (Oct) | 20.825B |  | -10.782B |
-| 38 min | EUR | French Business Survey (Nov) |  | 100 | 101 |
-| 53 min | CHF | M3 Money Supply (Oct) |  |  | 1,192.9B |
-| 08:15 | EUR | HCOB France Composite PMI (Nov) |  | 48.1 | 47.7 |
-| 08:30 | EUR | HCOB Germany Composite PMI (Nov) |  | 53.7 | 53.9 |
+| 07:45 | EUR | French Business Survey (Nov) | 98 | 100 | 101 |
+| 08:00 | CHF | M3 Money Supply (Oct) | 1,203.0B |  | 1,193.3B |
+| 5 min | EUR | HCOB France Composite PMI (Nov) |  | 48.1 | 47.7 |
+| 20 min | EUR | HCOB Germany Composite PMI (Nov) |  | 53.7 | 53.9 |
 | 11:30 | INR | FX Reserves, USD |  |  | 687.03B |
 | 12:00 | MXN | Economic Activity (YoY) (Sep) |  | 0.80% | -0.90% |
 | 12:00 | MXN | Economic Activity (MoM) (Sep) |  | -0.30% | 0.60% |
