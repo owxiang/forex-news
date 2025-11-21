@@ -33,8 +33,8 @@
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Nov) | 3.4% | 3.6% | 3.9% |
 | 15:00 | USD | Michigan Consumer Expectations (Nov) | 51.0 | 49.0 | 50.3 |
 | 15:00 | USD | Michigan Consumer Sentiment (Nov) | 51.0 | 50.3 | 53.6 |
-| 33 min | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 17:00 | USD | Atlanta Fed GDPNow (Q4) |  | 4.2% | 4.2% |
+| 15:40 | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 52 min | USD | Atlanta Fed GDPNow (Q4) |  | 4.2% | 4.2% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 417 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 549 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -8.9K |

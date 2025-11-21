@@ -28,7 +28,7 @@
 | 14:00 | USD | Fed Collins Speaks |  |  |  |
 | 14:00 | USD | Fed Logan Speaks |  |  |  |
 | 15:00 | USD | Michigan Current Conditions (Nov) | 51.1 | 52.3 | 58.6 |
-| 23 min | CAD | BoC Senior Loan Officer Survey (Q3) |  |  | 0.7 |
+| 15:30 | CAD | BoC Senior Loan Officer Survey (Q3) | 0.7 |  | 0.7 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.4K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 32.6K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -81.3K |
