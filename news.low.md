@@ -5,8 +5,8 @@
 | 00:00 | SGD | GDP (YoY) (Q3) | 4.2% |  | 4.5% |
 | 00:01 | GBP | GfK Consumer Confidence (Nov) | -19 | -18 | -17 |
 | 00:30 | JPY | Manufacturing & Services PMI (Nov) | 52.00 |  | 51.50 |
-| 00:30 | JPY | au Jibun Bank Manufacturing PMI (Nov) | 48.8 |  | 48.2 |
-| 02:00 | NZD | Credit Card Spending (YoY) (Oct) |  |  | 0.2% |
+| 00:30 | JPY | au Jibun Bank Manufacturing PMI (Nov) | 48.8 | 48.8 | 48.2 |
+| 24 min | NZD | Credit Card Spending (YoY) (Oct) |  |  | 0.2% |
 | 04:00 | IDR | M2 Money Supply (YoY) (Oct) |  |  | 8.00% |
 | 05:00 | INR | S&P Global Manufacturing PMI (Nov) |  |  | 59.2 |
 | 05:00 | INR | S&P Global Services PMI (Nov) |  |  | 58.9 |

@@ -5,9 +5,9 @@
 | 00:00 | SGD | Low | GDP (YoY) (Q3) | 4.2% |  | 4.5% |
 | 00:01 | GBP | Low | GfK Consumer Confidence (Nov) | -19 | -18 | -17 |
 | 00:30 | JPY | Low | Manufacturing & Services PMI (Nov) | 52.00 |  | 51.50 |
-| 00:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Nov) | 48.8 |  | 48.2 |
+| 00:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Nov) | 48.8 | 48.8 | 48.2 |
 | 00:30 | JPY | Moderate | au Jibun Bank Services PMI (Nov) | 53.1 |  | 53.1 |
-| 02:00 | NZD | Low | Credit Card Spending (YoY) (Oct) |  |  | 0.2% |
+| 24 min | NZD | Low | Credit Card Spending (YoY) (Oct) |  |  | 0.2% |
 | 04:00 | IDR | Low | M2 Money Supply (YoY) (Oct) |  |  | 8.00% |
 | 05:00 | INR | Low | S&P Global Manufacturing PMI (Nov) |  |  | 59.2 |
 | 05:00 | INR | Low | S&P Global Services PMI (Nov) |  |  | 58.9 |
