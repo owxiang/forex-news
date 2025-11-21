@@ -9,9 +9,9 @@
 | 00:30 | JPY | au Jibun Bank Manufacturing PMI (Nov) | 48.8 | 48.8 | 48.2 |
 | 02:00 | NZD | Credit Card Spending (YoY) (Oct) | 1.4% |  | 0.3% |
 | 03:00 | IDR | M2 Money Supply (YoY) (Oct) | 7.70% |  | 8.00% |
-| 52 min | INR | S&P Global Manufacturing PMI (Nov) |  |  | 59.2 |
-| 52 min | INR | S&P Global Services PMI (Nov) |  |  | 58.9 |
-| 52 min | INR | Manufacturing & Services PMI (Nov) |  |  | 60.40 |
+| 05:00 | INR | S&P Global Manufacturing PMI (Nov) | 57.4 | 59.0 | 59.2 |
+| 05:00 | INR | S&P Global Services PMI (Nov) | 59.5 | 59.7 | 58.9 |
+| 05:00 | INR | Manufacturing & Services PMI (Nov) | 59.90 | 60.00 | 60.40 |
 | 07:00 | GBP | Public Sector Net Borrowing |  | 15.20B | 20.20B |
 | 07:00 | GBP | Public Sector Net Cash Requirement (Oct) |  |  | -10.862B |
 | 07:00 | CHF | M3 Money Supply (Oct) |  |  | 1,192,858.0B |
@@ -28,10 +28,11 @@
 | 12:40 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 13:30 | USD | Real Earnings (MoM) (Sep) |  |  | -0.1% |
 | 13:45 | USD | Fed Governor Jefferson Speaks |  |  |  |
+| 14:00 | USD | Fed Collins Speaks |  |  |  |
 | 14:00 | USD | Fed Logan Speaks |  |  |  |
 | 14:15 | USD | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
 | 15:00 | USD | Michigan Current Conditions (Nov) |  | 52.3 | 58.6 |
-| 15:00 | USD | Wholesale Inventories (MoM) |  | -0.2% | 0.0% |
+| 15:00 | USD | Wholesale Inventories (MoM) (Aug) |  | -0.2% | 0.0% |
 | 15:30 | CAD | BoC Senior Loan Officer Survey (Q3) |  |  | 0.7 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.4K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 32.6K |

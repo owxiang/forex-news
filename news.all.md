@@ -10,9 +10,9 @@
 | 00:30 | JPY | Moderate | au Jibun Bank Services PMI (Nov) | 53.1 |  | 53.1 |
 | 02:00 | NZD | Low | Credit Card Spending (YoY) (Oct) | 1.4% |  | 0.3% |
 | 03:00 | IDR | Low | M2 Money Supply (YoY) (Oct) | 7.70% |  | 8.00% |
-| 52 min | INR | Low | S&P Global Manufacturing PMI (Nov) |  |  | 59.2 |
-| 52 min | INR | Low | S&P Global Services PMI (Nov) |  |  | 58.9 |
-| 52 min | INR | Low | Manufacturing & Services PMI (Nov) |  |  | 60.40 |
+| 05:00 | INR | Low | S&P Global Manufacturing PMI (Nov) | 57.4 | 59.0 | 59.2 |
+| 05:00 | INR | Low | S&P Global Services PMI (Nov) | 59.5 | 59.7 | 58.9 |
+| 05:00 | INR | Low | Manufacturing & Services PMI (Nov) | 59.90 | 60.00 | 60.40 |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Oct) |  | -0.2% | 0.6% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Oct) |  | 2.5% | 2.3% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing |  | 15.20B | 20.20B |
@@ -36,12 +36,12 @@
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Nov) |  | 52.8 | 53.0 |
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (Nov) |  | 51.8 | 52.2 |
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Nov) |  | 49.3 | 49.7 |
-| 09:30 | GBP | Moderate | S&P Global Services PMI (Nov) |  | 52.0 | 51.9 |
+| 09:30 | GBP | Moderate | S&P Global Services PMI (Nov) |  | 51.9 | 52.3 |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 687.03B |
 | 11:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 12:00 | MXN | Low | Economic Activity (YoY) (Sep) |  | 0.80% | -0.90% |
 | 12:00 | MXN | Low | Economic Activity (MoM) (Sep) |  | -0.30% | 0.60% |
-| 12:00 | MXN | Moderate | GDP (QoQ) (Q3) |  | -0.3% | 0.6% |
+| 12:00 | MXN | Moderate | GDP (QoQ) (Q3) |  | -0.1% | 0.6% |
 | 12:00 | MXN | Moderate | GDP (YoY) (Q3) |  | -0.2% | 0.0% |
 | 12:00 | EUR | Low | Spanish Consumer Confidence (Oct) |  |  | 81.5 |
 | 12:00 | CNY | Low | FDI (Oct) |  |  | -10.40% |
@@ -56,6 +56,7 @@
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Sep) |  | -0.7% | 1.0% |
 | 13:31 | CAD | Moderate | Retail Sales (MoM) (Oct) |  |  |  |
 | 13:45 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
+| 14:00 | USD | Low | Fed Collins Speaks |  |  |  |
 | 14:00 | USD | Low | Fed Logan Speaks |  |  |  |
 | 14:15 | USD | Low | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
 | 14:15 | USD | Moderate | Industrial Production (MoM) (Oct) |  |  | 0.1% |
@@ -70,7 +71,7 @@
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Nov) |  | 49.0 | 50.3 |
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Nov) |  | 50.3 | 53.6 |
 | 15:00 | USD | Low | Michigan Current Conditions (Nov) |  | 52.3 | 58.6 |
-| 15:00 | USD | Low | Wholesale Inventories (MoM) |  | -0.2% | 0.0% |
+| 15:00 | USD | Low | Wholesale Inventories (MoM) (Aug) |  | -0.2% | 0.0% |
 | 15:30 | CAD | Low | BoC Senior Loan Officer Survey (Q3) |  |  | 0.7 |
 | 15:40 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 4.2% | 4.2% |

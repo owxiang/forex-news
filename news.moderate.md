@@ -18,9 +18,9 @@
 | 09:00 | EUR | HCOB Eurozone Services PMI (Nov) |  | 52.8 | 53.0 |
 | 09:30 | GBP | S&P Global Composite PMI (Nov) |  | 51.8 | 52.2 |
 | 09:30 | GBP | S&P Global Manufacturing PMI (Nov) |  | 49.3 | 49.7 |
-| 09:30 | GBP | S&P Global Services PMI (Nov) |  | 52.0 | 51.9 |
+| 09:30 | GBP | S&P Global Services PMI (Nov) |  | 51.9 | 52.3 |
 | 11:30 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 12:00 | MXN | GDP (QoQ) (Q3) |  | -0.3% | 0.6% |
+| 12:00 | MXN | GDP (QoQ) (Q3) |  | -0.1% | 0.6% |
 | 12:00 | MXN | GDP (YoY) (Q3) |  | -0.2% | 0.0% |
 | 12:30 | USD | FOMC Member Williams Speaks |  |  |  |
 | 13:00 | USD | Federal Budget Balance (Oct) |  | -223.4B | 198.0B |
