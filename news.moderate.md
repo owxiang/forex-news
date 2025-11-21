@@ -35,8 +35,8 @@
 | 15:00 | USD | Michigan Consumer Sentiment (Nov) | 51.0 | 50.3 | 53.6 |
 | 15:40 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 17:00 | USD | Atlanta Fed GDPNow (Q4) | 4.2% | 4.2% | 4.2% |
-| 52 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 417 |
-| 52 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 549 |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 419 |  | 417 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count | 554 |  | 549 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -8.9K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 103.3K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 252.9K |
