@@ -42,18 +42,18 @@
 | 12:00 | MXN | Low | Economic Activity (MoM) (Sep) | -0.60% | -0.30% | 0.40% |
 | 12:00 | MXN | Moderate | GDP (QoQ) (Q3) | -0.3% | -0.1% | -0.3% |
 | 12:00 | MXN | Moderate | GDP (YoY) (Q3) | -0.1% | -0.2% | 0.0% |
-| 18 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 28 min | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
-| 48 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 13:30 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 13:30 | USD | Low | Real Earnings (MoM) (Sep) |  |  | -0.1% |
-| 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Sep) |  | -0.5% | 0.7% |
-| 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Oct) |  | 0.0% | -0.2% |
-| 13:30 | CAD | Moderate | Retail Sales (MoM) (Sep) |  | -0.7% | 1.0% |
-| 13:31 | CAD | Moderate | Retail Sales (MoM) (Oct) |  |  |  |
-| 13:45 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
-| 14:00 | USD | Low | Fed Collins Speaks |  |  |  |
-| 14:00 | USD | Low | Fed Logan Speaks |  |  |  |
+| 12:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 12:40 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
+| 13:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 16 min | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 16 min | USD | Low | Real Earnings (MoM) (Sep) |  |  | -0.1% |
+| 16 min | CAD | Moderate | Core Retail Sales (MoM) (Sep) |  | -0.5% | 0.7% |
+| 16 min | CAD | Moderate | New Housing Price Index (MoM) (Oct) |  | 0.0% | -0.2% |
+| 16 min | CAD | Moderate | Retail Sales (MoM) (Sep) |  | -0.7% | 1.0% |
+| 17 min | CAD | Moderate | Retail Sales (MoM) (Oct) |  |  |  |
+| 31 min | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
+| 46 min | USD | Low | Fed Collins Speaks |  |  |  |
+| 46 min | USD | Low | Fed Logan Speaks |  |  |  |
 | 14:15 | USD | Low | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
 | 14:15 | USD | Moderate | Industrial Production (MoM) (Oct) |  |  | 0.1% |
 | 14:15 | USD | Moderate | Industrial Production (YoY) (Sep) |  |  | 0.87% |

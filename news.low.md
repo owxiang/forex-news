@@ -22,11 +22,11 @@
 | 11:30 | INR | FX Reserves, USD | 692.58B |  | 687.03B |
 | 12:00 | MXN | Economic Activity (YoY) (Sep) | 0.70% | 0.80% | -0.50% |
 | 12:00 | MXN | Economic Activity (MoM) (Sep) | -0.60% | -0.30% | 0.40% |
-| 28 min | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
-| 13:30 | USD | Real Earnings (MoM) (Sep) |  |  | -0.1% |
-| 13:45 | USD | Fed Governor Jefferson Speaks |  |  |  |
-| 14:00 | USD | Fed Collins Speaks |  |  |  |
-| 14:00 | USD | Fed Logan Speaks |  |  |  |
+| 12:40 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
+| 16 min | USD | Real Earnings (MoM) (Sep) |  |  | -0.1% |
+| 31 min | USD | Fed Governor Jefferson Speaks |  |  |  |
+| 46 min | USD | Fed Collins Speaks |  |  |  |
+| 46 min | USD | Fed Logan Speaks |  |  |  |
 | 14:15 | USD | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
 | 15:00 | USD | Michigan Current Conditions (Nov) |  | 52.3 | 58.6 |
 | 15:00 | USD | Wholesale Inventories (MoM) (Aug) |  | -0.2% | 0.0% |

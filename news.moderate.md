@@ -22,13 +22,13 @@
 | 11:30 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 12:00 | MXN | GDP (QoQ) (Q3) | -0.3% | -0.1% | -0.3% |
 | 12:00 | MXN | GDP (YoY) (Q3) | -0.1% | -0.2% | 0.0% |
-| 18 min | USD | FOMC Member Williams Speaks |  |  |  |
-| 48 min | EUR | German Buba President Nagel Speaks |  |  |  |
-| 13:30 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 13:30 | CAD | Core Retail Sales (MoM) (Sep) |  | -0.5% | 0.7% |
-| 13:30 | CAD | New Housing Price Index (MoM) (Oct) |  | 0.0% | -0.2% |
-| 13:30 | CAD | Retail Sales (MoM) (Sep) |  | -0.7% | 1.0% |
-| 13:31 | CAD | Retail Sales (MoM) (Oct) |  |  |  |
+| 12:30 | USD | FOMC Member Williams Speaks |  |  |  |
+| 13:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 16 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 16 min | CAD | Core Retail Sales (MoM) (Sep) |  | -0.5% | 0.7% |
+| 16 min | CAD | New Housing Price Index (MoM) (Oct) |  | 0.0% | -0.2% |
+| 16 min | CAD | Retail Sales (MoM) (Sep) |  | -0.7% | 1.0% |
+| 17 min | CAD | Retail Sales (MoM) (Oct) |  |  |  |
 | 14:15 | USD | Industrial Production (MoM) (Oct) |  |  | 0.1% |
 | 14:15 | USD | Industrial Production (YoY) (Sep) |  |  | 0.87% |
 | 14:45 | USD | S&P Global Composite PMI (Nov) |  | 54.5 | 54.6 |
