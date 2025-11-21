@@ -19,10 +19,10 @@
 | 08:15 | EUR | HCOB France Composite PMI (Nov) | 49.9 | 48.1 | 47.7 |
 | 08:30 | EUR | HCOB Germany Composite PMI (Nov) | 52.1 | 53.7 | 53.9 |
 | 10:01 | CNY | FDI (Oct) | -10.30% |  | -10.40% |
-| 11:30 | INR | FX Reserves, USD |  |  | 687.03B |
-| 12:00 | MXN | Economic Activity (YoY) (Sep) |  | 0.80% | -0.90% |
-| 12:00 | MXN | Economic Activity (MoM) (Sep) |  | -0.30% | 0.60% |
-| 12:00 | EUR | Spanish Consumer Confidence (Oct) |  |  | 81.5 |
+| 24 min | INR | FX Reserves, USD |  |  | 687.03B |
+| 54 min | MXN | Economic Activity (YoY) (Sep) |  | 0.80% | -0.90% |
+| 54 min | MXN | Economic Activity (MoM) (Sep) |  | -0.30% | 0.60% |
+| 54 min | EUR | Spanish Consumer Confidence (Oct) |  |  | 81.5 |
 | 12:40 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 13:30 | USD | Real Earnings (MoM) (Sep) |  |  | -0.1% |
 | 13:45 | USD | Fed Governor Jefferson Speaks |  |  |  |

@@ -36,13 +36,13 @@
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Nov) | 50.2 | 49.3 | 49.7 |
 | 09:30 | GBP | Moderate | S&P Global Services PMI (Nov) | 50.5 | 51.9 | 52.3 |
 | 10:01 | CNY | Low | FDI (Oct) | -10.30% |  | -10.40% |
-| 11:30 | INR | Low | FX Reserves, USD |  |  | 687.03B |
-| 11:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 12:00 | MXN | Low | Economic Activity (YoY) (Sep) |  | 0.80% | -0.90% |
-| 12:00 | MXN | Low | Economic Activity (MoM) (Sep) |  | -0.30% | 0.60% |
-| 12:00 | MXN | Moderate | GDP (QoQ) (Q3) |  | -0.1% | 0.6% |
-| 12:00 | MXN | Moderate | GDP (YoY) (Q3) |  | -0.2% | 0.0% |
-| 12:00 | EUR | Low | Spanish Consumer Confidence (Oct) |  |  | 81.5 |
+| 24 min | INR | Low | FX Reserves, USD |  |  | 687.03B |
+| 24 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 54 min | MXN | Low | Economic Activity (YoY) (Sep) |  | 0.80% | -0.90% |
+| 54 min | MXN | Low | Economic Activity (MoM) (Sep) |  | -0.30% | 0.60% |
+| 54 min | MXN | Moderate | GDP (QoQ) (Q3) |  | -0.1% | 0.6% |
+| 54 min | MXN | Moderate | GDP (YoY) (Q3) |  | -0.2% | 0.0% |
+| 54 min | EUR | Low | Spanish Consumer Confidence (Oct) |  |  | 81.5 |
 | 12:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 12:40 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 13:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
