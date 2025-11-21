@@ -45,29 +45,28 @@
 | 12:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 12:40 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 13:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 16 min | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 16 min | USD | Low | Real Earnings (MoM) (Sep) |  |  | -0.1% |
-| 16 min | CAD | Moderate | Core Retail Sales (MoM) (Sep) |  | -0.5% | 0.7% |
-| 16 min | CAD | Moderate | New Housing Price Index (MoM) (Oct) |  | 0.0% | -0.2% |
-| 16 min | CAD | Moderate | Retail Sales (MoM) (Sep) |  | -0.7% | 1.0% |
-| 17 min | CAD | Moderate | Retail Sales (MoM) (Oct) |  |  |  |
-| 31 min | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
-| 46 min | USD | Low | Fed Collins Speaks |  |  |  |
-| 46 min | USD | Low | Fed Logan Speaks |  |  |  |
-| 14:15 | USD | Low | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
-| 14:15 | USD | Moderate | Industrial Production (MoM) (Oct) |  |  | 0.1% |
-| 14:15 | USD | Moderate | Industrial Production (YoY) (Sep) |  |  | 0.87% |
-| 14:45 | USD | High | S&P Global Manufacturing PMI (Nov) |  | 52.0 | 52.5 |
-| 14:45 | USD | Moderate | S&P Global Composite PMI (Nov) |  | 54.5 | 54.6 |
-| 14:45 | USD | High | S&P Global Services PMI (Nov) |  | 54.6 | 54.8 |
-| 15:00 | USD | Moderate | Housing Starts (Sep) |  | 1.320M | 1.307M |
-| 15:00 | USD | Moderate | Housing Starts (MoM) (Sep) |  |  | -8.5% |
-| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Nov) |  | 4.7% | 4.6% |
-| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Nov) |  | 3.6% | 3.9% |
-| 15:00 | USD | Moderate | Michigan Consumer Expectations (Nov) |  | 49.0 | 50.3 |
-| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Nov) |  | 50.3 | 53.6 |
-| 15:00 | USD | Low | Michigan Current Conditions (Nov) |  | 52.3 | 58.6 |
-| 15:00 | USD | Low | Wholesale Inventories (MoM) (Aug) |  | -0.2% | 0.0% |
+| 13:30 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 13:30 | USD | Low | Real Earnings (MoM) (Sep) | -0.1% |  | -0.3% |
+| 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Sep) | 0.2% | -0.5% | 0.8% |
+| 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Oct) | -0.4% | 0.0% | -0.2% |
+| 13:30 | CAD | Moderate | Retail Sales (MoM) (Sep) | -0.7% | -0.7% | 1.0% |
+| 13:45 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
+| 14:00 | USD | Low | Fed Collins Speaks |  |  |  |
+| 14:00 | USD | Low | Fed Logan Speaks |  |  |  |
+| 8 min | USD | Low | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
+| 8 min | USD | Moderate | Industrial Production (MoM) (Oct) |  |  | 0.1% |
+| 8 min | USD | Moderate | Industrial Production (YoY) (Sep) |  |  | 0.87% |
+| 38 min | USD | High | S&P Global Manufacturing PMI (Nov) |  | 52.0 | 52.5 |
+| 38 min | USD | Moderate | S&P Global Composite PMI (Nov) |  | 54.5 | 54.6 |
+| 38 min | USD | High | S&P Global Services PMI (Nov) |  | 54.6 | 54.8 |
+| 53 min | USD | Moderate | Housing Starts (Sep) |  | 1.320M | 1.307M |
+| 53 min | USD | Moderate | Housing Starts (MoM) (Sep) |  |  | -8.5% |
+| 53 min | USD | Moderate | Michigan 1-Year Inflation Expectations (Nov) |  | 4.7% | 4.6% |
+| 53 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Nov) |  | 3.6% | 3.9% |
+| 53 min | USD | Moderate | Michigan Consumer Expectations (Nov) |  | 49.0 | 50.3 |
+| 53 min | USD | Moderate | Michigan Consumer Sentiment (Nov) |  | 50.3 | 53.6 |
+| 53 min | USD | Low | Michigan Current Conditions (Nov) |  | 52.3 | 58.6 |
+| 53 min | USD | Low | Wholesale Inventories (MoM) (Aug) |  | -0.2% | 0.0% |
 | 15:30 | CAD | Low | BoC Senior Loan Officer Survey (Q3) |  |  | 0.7 |
 | 15:40 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 4.2% | 4.2% |

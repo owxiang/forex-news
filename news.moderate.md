@@ -24,20 +24,19 @@
 | 12:00 | MXN | GDP (YoY) (Q3) | -0.1% | -0.2% | 0.0% |
 | 12:30 | USD | FOMC Member Williams Speaks |  |  |  |
 | 13:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 16 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 16 min | CAD | Core Retail Sales (MoM) (Sep) |  | -0.5% | 0.7% |
-| 16 min | CAD | New Housing Price Index (MoM) (Oct) |  | 0.0% | -0.2% |
-| 16 min | CAD | Retail Sales (MoM) (Sep) |  | -0.7% | 1.0% |
-| 17 min | CAD | Retail Sales (MoM) (Oct) |  |  |  |
-| 14:15 | USD | Industrial Production (MoM) (Oct) |  |  | 0.1% |
-| 14:15 | USD | Industrial Production (YoY) (Sep) |  |  | 0.87% |
-| 14:45 | USD | S&P Global Composite PMI (Nov) |  | 54.5 | 54.6 |
-| 15:00 | USD | Housing Starts (Sep) |  | 1.320M | 1.307M |
-| 15:00 | USD | Housing Starts (MoM) (Sep) |  |  | -8.5% |
-| 15:00 | USD | Michigan 1-Year Inflation Expectations (Nov) |  | 4.7% | 4.6% |
-| 15:00 | USD | Michigan 5-Year Inflation Expectations (Nov) |  | 3.6% | 3.9% |
-| 15:00 | USD | Michigan Consumer Expectations (Nov) |  | 49.0 | 50.3 |
-| 15:00 | USD | Michigan Consumer Sentiment (Nov) |  | 50.3 | 53.6 |
+| 13:30 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 13:30 | CAD | Core Retail Sales (MoM) (Sep) | 0.2% | -0.5% | 0.8% |
+| 13:30 | CAD | New Housing Price Index (MoM) (Oct) | -0.4% | 0.0% | -0.2% |
+| 13:30 | CAD | Retail Sales (MoM) (Sep) | -0.7% | -0.7% | 1.0% |
+| 8 min | USD | Industrial Production (MoM) (Oct) |  |  | 0.1% |
+| 8 min | USD | Industrial Production (YoY) (Sep) |  |  | 0.87% |
+| 38 min | USD | S&P Global Composite PMI (Nov) |  | 54.5 | 54.6 |
+| 53 min | USD | Housing Starts (Sep) |  | 1.320M | 1.307M |
+| 53 min | USD | Housing Starts (MoM) (Sep) |  |  | -8.5% |
+| 53 min | USD | Michigan 1-Year Inflation Expectations (Nov) |  | 4.7% | 4.6% |
+| 53 min | USD | Michigan 5-Year Inflation Expectations (Nov) |  | 3.6% | 3.9% |
+| 53 min | USD | Michigan Consumer Expectations (Nov) |  | 49.0 | 50.3 |
+| 53 min | USD | Michigan Consumer Sentiment (Nov) |  | 50.3 | 53.6 |
 | 15:40 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 17:00 | USD | Atlanta Fed GDPNow (Q4) |  | 4.2% | 4.2% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 417 |

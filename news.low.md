@@ -23,13 +23,13 @@
 | 12:00 | MXN | Economic Activity (YoY) (Sep) | 0.70% | 0.80% | -0.50% |
 | 12:00 | MXN | Economic Activity (MoM) (Sep) | -0.60% | -0.30% | 0.40% |
 | 12:40 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
-| 16 min | USD | Real Earnings (MoM) (Sep) |  |  | -0.1% |
-| 31 min | USD | Fed Governor Jefferson Speaks |  |  |  |
-| 46 min | USD | Fed Collins Speaks |  |  |  |
-| 46 min | USD | Fed Logan Speaks |  |  |  |
-| 14:15 | USD | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
-| 15:00 | USD | Michigan Current Conditions (Nov) |  | 52.3 | 58.6 |
-| 15:00 | USD | Wholesale Inventories (MoM) (Aug) |  | -0.2% | 0.0% |
+| 13:30 | USD | Real Earnings (MoM) (Sep) | -0.1% |  | -0.3% |
+| 13:45 | USD | Fed Governor Jefferson Speaks |  |  |  |
+| 14:00 | USD | Fed Collins Speaks |  |  |  |
+| 14:00 | USD | Fed Logan Speaks |  |  |  |
+| 8 min | USD | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
+| 53 min | USD | Michigan Current Conditions (Nov) |  | 52.3 | 58.6 |
+| 53 min | USD | Wholesale Inventories (MoM) (Aug) |  | -0.2% | 0.0% |
 | 15:30 | CAD | BoC Senior Loan Officer Survey (Q3) |  |  | 0.7 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.4K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 32.6K |
