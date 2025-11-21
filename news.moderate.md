@@ -37,12 +37,12 @@
 | 17:00 | USD | Atlanta Fed GDPNow (Q4) | 4.2% | 4.2% | 4.2% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 419 |  | 417 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count | 554 |  | 549 |
-| 20:30 | GBP | CFTC GBP speculative net positions |  |  | -8.9K |
-| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 103.3K |
-| 20:30 | USD | CFTC Gold speculative net positions |  |  | 252.9K |
-| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 41.0K |
-| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -136.7K |
-| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -64.6K |
-| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 82.6K |
-| 20:30 | JPY | CFTC JPY speculative net positions |  |  | 61.5K |
-| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 117.4K |
+| 22 min | GBP | CFTC GBP speculative net positions |  |  | -8.9K |
+| 22 min | USD | CFTC Crude Oil speculative net positions |  |  | 103.3K |
+| 22 min | USD | CFTC Gold speculative net positions |  |  | 252.9K |
+| 22 min | USD | CFTC Nasdaq 100 speculative net positions |  |  | 41.0K |
+| 22 min | USD | CFTC S&P 500 speculative net positions |  |  | -136.7K |
+| 22 min | AUD | CFTC AUD speculative net positions |  |  | -64.6K |
+| 22 min | BRL | CFTC BRL speculative net positions |  |  | 82.6K |
+| 22 min | JPY | CFTC JPY speculative net positions |  |  | 61.5K |
+| 22 min | EUR | CFTC EUR speculative net positions |  |  | 117.4K |
