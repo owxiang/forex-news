@@ -9,7 +9,7 @@
 | 00:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Nov) | 48.8 | 48.8 | 48.2 |
 | 00:30 | JPY | Moderate | au Jibun Bank Services PMI (Nov) | 53.1 |  | 53.1 |
 | 02:00 | NZD | Low | Credit Card Spending (YoY) (Oct) | 1.4% |  | 0.3% |
-| 04:00 | IDR | Low | M2 Money Supply (YoY) (Oct) |  |  | 8.00% |
+| 03:00 | IDR | Low | M2 Money Supply (YoY) (Oct) | 7.70% |  | 8.00% |
 | 05:00 | INR | Low | S&P Global Manufacturing PMI (Nov) |  |  | 59.2 |
 | 05:00 | INR | Low | S&P Global Services PMI (Nov) |  |  | 58.9 |
 | 05:00 | INR | Low | Manufacturing & Services PMI (Nov) |  |  | 60.40 |
