@@ -19,11 +19,11 @@
 | 09:30 | GBP | S&P Global Composite PMI (Nov) | 50.5 | 51.8 | 52.2 |
 | 09:30 | GBP | S&P Global Manufacturing PMI (Nov) | 50.2 | 49.3 | 49.7 |
 | 09:30 | GBP | S&P Global Services PMI (Nov) | 50.5 | 51.9 | 52.3 |
-| 24 min | EUR | ECB's De Guindos Speaks |  |  |  |
-| 54 min | MXN | GDP (QoQ) (Q3) |  | -0.1% | 0.6% |
-| 54 min | MXN | GDP (YoY) (Q3) |  | -0.2% | 0.0% |
-| 12:30 | USD | FOMC Member Williams Speaks |  |  |  |
-| 13:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 11:30 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 12:00 | MXN | GDP (QoQ) (Q3) | -0.3% | -0.1% | -0.3% |
+| 12:00 | MXN | GDP (YoY) (Q3) | -0.1% | -0.2% | 0.0% |
+| 18 min | USD | FOMC Member Williams Speaks |  |  |  |
+| 48 min | EUR | German Buba President Nagel Speaks |  |  |  |
 | 13:30 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 13:30 | CAD | Core Retail Sales (MoM) (Sep) |  | -0.5% | 0.7% |
 | 13:30 | CAD | New Housing Price Index (MoM) (Oct) |  | 0.0% | -0.2% |
