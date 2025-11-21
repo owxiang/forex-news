@@ -9,9 +9,9 @@
 | 00:30 | JPY | au Jibun Bank Manufacturing PMI (Nov) | 48.8 | 48.8 | 48.2 |
 | 02:00 | NZD | Credit Card Spending (YoY) (Oct) | 1.4% |  | 0.3% |
 | 03:00 | IDR | M2 Money Supply (YoY) (Oct) | 7.70% |  | 8.00% |
-| 05:00 | INR | S&P Global Manufacturing PMI (Nov) |  |  | 59.2 |
-| 05:00 | INR | S&P Global Services PMI (Nov) |  |  | 58.9 |
-| 05:00 | INR | Manufacturing & Services PMI (Nov) |  |  | 60.40 |
+| 52 min | INR | S&P Global Manufacturing PMI (Nov) |  |  | 59.2 |
+| 52 min | INR | S&P Global Services PMI (Nov) |  |  | 58.9 |
+| 52 min | INR | Manufacturing & Services PMI (Nov) |  |  | 60.40 |
 | 07:00 | GBP | Public Sector Net Borrowing |  | 15.20B | 20.20B |
 | 07:00 | GBP | Public Sector Net Cash Requirement (Oct) |  |  | -10.862B |
 | 07:00 | CHF | M3 Money Supply (Oct) |  |  | 1,192,858.0B |
