@@ -3,11 +3,11 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | au Jibun Bank Services PMI (Nov) | 53.1 |  | 53.1 |
-| 49 min | GBP | Core Retail Sales (MoM) (Oct) |  | -0.2% | 0.6% |
-| 49 min | GBP | Core Retail Sales (YoY) (Oct) |  | 2.5% | 2.3% |
-| 49 min | GBP | Retail Sales (MoM) (Oct) |  | -0.1% | 0.5% |
-| 49 min | GBP | Retail Sales (YoY) (Oct) |  | 1.5% | 1.5% |
-| 08:00 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 07:00 | GBP | Core Retail Sales (MoM) (Oct) | -1.0% | -0.2% | 0.7% |
+| 07:00 | GBP | Core Retail Sales (YoY) (Oct) | 1.2% | 2.5% | 1.7% |
+| 07:00 | GBP | Retail Sales (YoY) (Oct) | 0.2% | 1.5% | 1.0% |
+| 07:00 | GBP | Retail Sales (MoM) (Oct) | -1.1% | -0.1% | 0.7% |
+| 53 min | EUR | ECB's De Guindos Speaks |  |  |  |
 | 08:15 | EUR | HCOB France Manufacturing PMI (Nov) |  | 49.0 | 48.8 |
 | 08:15 | EUR | HCOB France Services PMI (Nov) |  | 48.4 | 48.0 |
 | 08:30 | EUR | HCOB Germany Manufacturing PMI (Nov) |  | 49.8 | 49.6 |
@@ -20,8 +20,8 @@
 | 09:30 | GBP | S&P Global Manufacturing PMI (Nov) |  | 49.3 | 49.7 |
 | 09:30 | GBP | S&P Global Services PMI (Nov) |  | 51.9 | 52.3 |
 | 11:30 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 12:00 | MXN | GDP (QoQ) (Q3) |  | -0.1% | 0.6% |
 | 12:00 | MXN | GDP (YoY) (Q3) |  | -0.2% | 0.0% |
+| 12:00 | MXN | GDP (QoQ) (Q3) |  | -0.1% | 0.6% |
 | 12:30 | USD | FOMC Member Williams Speaks |  |  |  |
 | 13:00 | USD | Federal Budget Balance (Oct) |  | -223.4B | 198.0B |
 | 13:00 | EUR | German Buba President Nagel Speaks |  |  |  |
