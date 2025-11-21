@@ -2,22 +2,23 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | SGD | Low | GDP (YoY) (Q3) | 4.2% |  | 4.5% |
+| 00:00 | SGD | Low | GDP (QoQ) (Q3) | 2.4% | 1.3% | 1.7% |
+| 00:00 | SGD | Low | GDP (YoY) (Q3) | 4.2% | 2.9% | 4.7% |
 | 00:01 | GBP | Low | GfK Consumer Confidence (Nov) | -19 | -18 | -17 |
 | 00:30 | JPY | Low | Manufacturing & Services PMI (Nov) | 52.00 |  | 51.50 |
 | 00:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Nov) | 48.8 | 48.8 | 48.2 |
 | 00:30 | JPY | Moderate | au Jibun Bank Services PMI (Nov) | 53.1 |  | 53.1 |
-| 24 min | NZD | Low | Credit Card Spending (YoY) (Oct) |  |  | 0.2% |
+| 02:00 | NZD | Low | Credit Card Spending (YoY) (Oct) | 1.4% |  | 0.3% |
 | 04:00 | IDR | Low | M2 Money Supply (YoY) (Oct) |  |  | 8.00% |
 | 05:00 | INR | Low | S&P Global Manufacturing PMI (Nov) |  |  | 59.2 |
 | 05:00 | INR | Low | S&P Global Services PMI (Nov) |  |  | 58.9 |
 | 05:00 | INR | Low | Manufacturing & Services PMI (Nov) |  |  | 60.40 |
-| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Oct) |  | 2.5% | 2.3% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Oct) |  | -0.2% | 0.6% |
+| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Oct) |  | 2.5% | 2.3% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing |  | 15.20B | 20.20B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Oct) |  |  | -10.862B |
-| 07:00 | GBP | Moderate | Retail Sales (YoY) (Oct) |  | 1.5% | 1.5% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Oct) |  | -0.1% | 0.5% |
+| 07:00 | GBP | Moderate | Retail Sales (YoY) (Oct) |  | 1.5% | 1.5% |
 | 07:00 | CHF | Low | M3 Money Supply (Oct) |  |  | 1,192,858.0B |
 | 07:00 | NOK | Low | GDP (QoQ) (Q3) |  |  | 0.8% |
 | 07:00 | NOK | Low | GDP Mainland (QoQ) (Q3) |  |  | 0.6% |
