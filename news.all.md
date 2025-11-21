@@ -63,9 +63,9 @@
 | 15:00 | USD | Low | Michigan Current Conditions (Nov) | 51.1 | 52.3 | 58.6 |
 | 15:30 | CAD | Low | BoC Senior Loan Officer Survey (Q3) | 0.7 |  | 0.7 |
 | 15:40 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 52 min | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 4.2% | 4.2% |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 417 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 549 |
+| 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 4.2% | 4.2% | 4.2% |
+| 52 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 417 |
+| 52 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 549 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -8.9K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 0.4K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 32.6K |
