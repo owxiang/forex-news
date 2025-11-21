@@ -12,11 +12,11 @@
 | 05:00 | INR | S&P Global Manufacturing PMI (Nov) | 57.4 | 59.0 | 59.2 |
 | 05:00 | INR | S&P Global Services PMI (Nov) | 59.5 | 59.7 | 58.9 |
 | 05:00 | INR | Manufacturing & Services PMI (Nov) | 59.90 | 60.00 | 60.40 |
-| 07:00 | GBP | Public Sector Net Borrowing |  | 15.20B | 20.20B |
-| 07:00 | GBP | Public Sector Net Cash Requirement (Oct) |  |  | -10.862B |
-| 07:00 | CHF | M3 Money Supply (Oct) |  |  | 1,192,858.0B |
-| 07:00 | NOK | GDP (QoQ) (Q3) |  |  | 0.8% |
-| 07:00 | NOK | GDP Mainland (QoQ) (Q3) |  |  | 0.6% |
+| 49 min | GBP | Public Sector Net Borrowing |  | 15.20B | 20.20B |
+| 49 min | GBP | Public Sector Net Cash Requirement (Oct) |  |  | -10.862B |
+| 49 min | CHF | M3 Money Supply (Oct) |  |  | 1,192.9B |
+| 49 min | NOK | GDP (QoQ) (Q3) |  |  | 0.8% |
+| 49 min | NOK | GDP Mainland (QoQ) (Q3) |  |  | 0.6% |
 | 07:45 | EUR | French Business Survey (Nov) |  | 100 | 101 |
 | 08:15 | EUR | HCOB France Composite PMI (Nov) |  | 48.1 | 47.7 |
 | 08:30 | EUR | HCOB Germany Composite PMI (Nov) |  | 53.7 | 53.9 |

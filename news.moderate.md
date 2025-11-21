@@ -3,10 +3,10 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | au Jibun Bank Services PMI (Nov) | 53.1 |  | 53.1 |
-| 07:00 | GBP | Core Retail Sales (MoM) (Oct) |  | -0.2% | 0.6% |
-| 07:00 | GBP | Core Retail Sales (YoY) (Oct) |  | 2.5% | 2.3% |
-| 07:00 | GBP | Retail Sales (MoM) (Oct) |  | -0.1% | 0.5% |
-| 07:00 | GBP | Retail Sales (YoY) (Oct) |  | 1.5% | 1.5% |
+| 49 min | GBP | Core Retail Sales (MoM) (Oct) |  | -0.2% | 0.6% |
+| 49 min | GBP | Core Retail Sales (YoY) (Oct) |  | 2.5% | 2.3% |
+| 49 min | GBP | Retail Sales (MoM) (Oct) |  | -0.1% | 0.5% |
+| 49 min | GBP | Retail Sales (YoY) (Oct) |  | 1.5% | 1.5% |
 | 08:00 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 08:15 | EUR | HCOB France Manufacturing PMI (Nov) |  | 49.0 | 48.8 |
 | 08:15 | EUR | HCOB France Services PMI (Nov) |  | 48.4 | 48.0 |

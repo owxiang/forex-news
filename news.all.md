@@ -13,15 +13,15 @@
 | 05:00 | INR | Low | S&P Global Manufacturing PMI (Nov) | 57.4 | 59.0 | 59.2 |
 | 05:00 | INR | Low | S&P Global Services PMI (Nov) | 59.5 | 59.7 | 58.9 |
 | 05:00 | INR | Low | Manufacturing & Services PMI (Nov) | 59.90 | 60.00 | 60.40 |
-| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Oct) |  | -0.2% | 0.6% |
-| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Oct) |  | 2.5% | 2.3% |
-| 07:00 | GBP | Low | Public Sector Net Borrowing |  | 15.20B | 20.20B |
-| 07:00 | GBP | Low | Public Sector Net Cash Requirement (Oct) |  |  | -10.862B |
-| 07:00 | GBP | Moderate | Retail Sales (MoM) (Oct) |  | -0.1% | 0.5% |
-| 07:00 | GBP | Moderate | Retail Sales (YoY) (Oct) |  | 1.5% | 1.5% |
-| 07:00 | CHF | Low | M3 Money Supply (Oct) |  |  | 1,192,858.0B |
-| 07:00 | NOK | Low | GDP (QoQ) (Q3) |  |  | 0.8% |
-| 07:00 | NOK | Low | GDP Mainland (QoQ) (Q3) |  |  | 0.6% |
+| 49 min | GBP | Moderate | Core Retail Sales (MoM) (Oct) |  | -0.2% | 0.6% |
+| 49 min | GBP | Moderate | Core Retail Sales (YoY) (Oct) |  | 2.5% | 2.3% |
+| 49 min | GBP | Low | Public Sector Net Borrowing |  | 15.20B | 20.20B |
+| 49 min | GBP | Low | Public Sector Net Cash Requirement (Oct) |  |  | -10.862B |
+| 49 min | GBP | Moderate | Retail Sales (MoM) (Oct) |  | -0.1% | 0.5% |
+| 49 min | GBP | Moderate | Retail Sales (YoY) (Oct) |  | 1.5% | 1.5% |
+| 49 min | CHF | Low | M3 Money Supply (Oct) |  |  | 1,192.9B |
+| 49 min | NOK | Low | GDP (QoQ) (Q3) |  |  | 0.8% |
+| 49 min | NOK | Low | GDP Mainland (QoQ) (Q3) |  |  | 0.6% |
 | 07:45 | EUR | Low | French Business Survey (Nov) |  | 100 | 101 |
 | 08:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Nov) |  | 49.0 | 48.8 |
