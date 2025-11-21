@@ -27,10 +27,8 @@
 | 13:45 | USD | Fed Governor Jefferson Speaks |  |  |  |
 | 14:00 | USD | Fed Collins Speaks |  |  |  |
 | 14:00 | USD | Fed Logan Speaks |  |  |  |
-| 8 min | USD | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
-| 53 min | USD | Michigan Current Conditions (Nov) |  | 52.3 | 58.6 |
-| 53 min | USD | Wholesale Inventories (MoM) (Aug) |  | -0.2% | 0.0% |
-| 15:30 | CAD | BoC Senior Loan Officer Survey (Q3) |  |  | 0.7 |
+| 15:00 | USD | Michigan Current Conditions (Nov) | 51.1 | 52.3 | 58.6 |
+| 23 min | CAD | BoC Senior Loan Officer Survey (Q3) |  |  | 0.7 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.4K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 32.6K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -81.3K |
@@ -42,3 +40,5 @@
 | 20:30 | MXN | CFTC MXN speculative net positions |  |  | 91.9K |
 | 20:30 | CHF | CFTC CHF speculative net positions |  |  | -26.1K |
 | 20:30 | NZD | CFTC NZD speculative net positions |  |  | -20.6K |
+| 23:00 | USD | Wholesale Inventories (MoM) (Aug) |  | -0.2% | 0.0% |
+| 23:00 | USD | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.3% |

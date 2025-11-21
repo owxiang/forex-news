@@ -17,8 +17,8 @@
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Oct) | 1.2% | 2.5% | 1.7% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing | 17.43B | 15.20B | 19.89B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Oct) | 20.825B |  | -10.782B |
-| 07:00 | GBP | Moderate | Retail Sales (YoY) (Oct) | 0.2% | 1.5% | 1.0% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Oct) | -1.1% | -0.1% | 0.7% |
+| 07:00 | GBP | Moderate | Retail Sales (YoY) (Oct) | 0.2% | 1.5% | 1.0% |
 | 07:45 | EUR | Low | French Business Survey (Nov) | 98 | 100 | 101 |
 | 08:00 | CHF | Low | M3 Money Supply (Oct) | 1,203.0B |  | 1,193.3B |
 | 08:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
@@ -40,8 +40,8 @@
 | 11:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 12:00 | MXN | Low | Economic Activity (YoY) (Sep) | 0.70% | 0.80% | -0.50% |
 | 12:00 | MXN | Low | Economic Activity (MoM) (Sep) | -0.60% | -0.30% | 0.40% |
-| 12:00 | MXN | Moderate | GDP (QoQ) (Q3) | -0.3% | -0.1% | -0.3% |
 | 12:00 | MXN | Moderate | GDP (YoY) (Q3) | -0.1% | -0.2% | 0.0% |
+| 12:00 | MXN | Moderate | GDP (QoQ) (Q3) | -0.3% | -0.1% | -0.3% |
 | 12:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 12:40 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 13:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
@@ -53,22 +53,16 @@
 | 13:45 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
 | 14:00 | USD | Low | Fed Collins Speaks |  |  |  |
 | 14:00 | USD | Low | Fed Logan Speaks |  |  |  |
-| 8 min | USD | Low | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
-| 8 min | USD | Moderate | Industrial Production (MoM) (Oct) |  |  | 0.1% |
-| 8 min | USD | Moderate | Industrial Production (YoY) (Sep) |  |  | 0.87% |
-| 38 min | USD | High | S&P Global Manufacturing PMI (Nov) |  | 52.0 | 52.5 |
-| 38 min | USD | Moderate | S&P Global Composite PMI (Nov) |  | 54.5 | 54.6 |
-| 38 min | USD | High | S&P Global Services PMI (Nov) |  | 54.6 | 54.8 |
-| 53 min | USD | Moderate | Housing Starts (Sep) |  | 1.320M | 1.307M |
-| 53 min | USD | Moderate | Housing Starts (MoM) (Sep) |  |  | -8.5% |
-| 53 min | USD | Moderate | Michigan 1-Year Inflation Expectations (Nov) |  | 4.7% | 4.6% |
-| 53 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Nov) |  | 3.6% | 3.9% |
-| 53 min | USD | Moderate | Michigan Consumer Expectations (Nov) |  | 49.0 | 50.3 |
-| 53 min | USD | Moderate | Michigan Consumer Sentiment (Nov) |  | 50.3 | 53.6 |
-| 53 min | USD | Low | Michigan Current Conditions (Nov) |  | 52.3 | 58.6 |
-| 53 min | USD | Low | Wholesale Inventories (MoM) (Aug) |  | -0.2% | 0.0% |
-| 15:30 | CAD | Low | BoC Senior Loan Officer Survey (Q3) |  |  | 0.7 |
-| 15:40 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 14:45 | USD | High | S&P Global Manufacturing PMI (Nov) | 51.9 | 52.0 | 52.5 |
+| 14:45 | USD | Moderate | S&P Global Composite PMI (Nov) | 54.8 | 54.5 | 54.6 |
+| 14:45 | USD | High | S&P Global Services PMI (Nov) | 55.0 | 54.6 | 54.8 |
+| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Nov) | 4.5% | 4.7% | 4.6% |
+| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Nov) | 3.4% | 3.6% | 3.9% |
+| 15:00 | USD | Moderate | Michigan Consumer Expectations (Nov) | 51.0 | 49.0 | 50.3 |
+| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Nov) | 51.0 | 50.3 | 53.6 |
+| 15:00 | USD | Low | Michigan Current Conditions (Nov) | 51.1 | 52.3 | 58.6 |
+| 23 min | CAD | Low | BoC Senior Loan Officer Survey (Q3) |  |  | 0.7 |
+| 33 min | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 4.2% | 4.2% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 417 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 549 |
@@ -92,3 +86,5 @@
 | 20:30 | JPY | Moderate | CFTC JPY speculative net positions |  |  | 61.5K |
 | 20:30 | NZD | Low | CFTC NZD speculative net positions |  |  | -20.6K |
 | 20:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | 117.4K |
+| 23:00 | USD | Low | Wholesale Inventories (MoM) (Aug) |  | -0.2% | 0.0% |
+| 23:00 | USD | Low | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.3% |
