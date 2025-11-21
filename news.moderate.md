@@ -8,17 +8,17 @@
 | 07:00 | GBP | Retail Sales (YoY) (Oct) | 0.2% | 1.5% | 1.0% |
 | 07:00 | GBP | Retail Sales (MoM) (Oct) | -1.1% | -0.1% | 0.7% |
 | 08:00 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 5 min | EUR | HCOB France Manufacturing PMI (Nov) |  | 49.0 | 48.8 |
-| 5 min | EUR | HCOB France Services PMI (Nov) |  | 48.4 | 48.0 |
-| 20 min | EUR | HCOB Germany Manufacturing PMI (Nov) |  | 49.8 | 49.6 |
-| 20 min | EUR | HCOB Germany Services PMI (Nov) |  | 54.0 | 54.6 |
-| 20 min | EUR | ECB President Lagarde Speaks |  |  |  |
-| 50 min | EUR | HCOB Eurozone Manufacturing PMI (Nov) |  | 50.1 | 50.0 |
-| 50 min | EUR | HCOB Eurozone Composite PMI (Nov) |  | 52.5 | 52.5 |
-| 50 min | EUR | HCOB Eurozone Services PMI (Nov) |  | 52.8 | 53.0 |
-| 09:30 | GBP | S&P Global Composite PMI (Nov) |  | 51.8 | 52.2 |
-| 09:30 | GBP | S&P Global Manufacturing PMI (Nov) |  | 49.3 | 49.7 |
-| 09:30 | GBP | S&P Global Services PMI (Nov) |  | 51.9 | 52.3 |
+| 08:15 | EUR | HCOB France Manufacturing PMI (Nov) | 47.8 | 49.0 | 48.8 |
+| 08:15 | EUR | HCOB France Services PMI (Nov) | 50.8 | 48.4 | 48.0 |
+| 08:30 | EUR | HCOB Germany Manufacturing PMI (Nov) | 48.4 | 49.8 | 49.6 |
+| 08:30 | EUR | HCOB Germany Services PMI (Nov) | 52.7 | 54.0 | 54.6 |
+| 08:30 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Nov) | 49.7 | 50.1 | 50.0 |
+| 09:00 | EUR | HCOB Eurozone Composite PMI (Nov) | 52.4 | 52.5 | 52.5 |
+| 09:00 | EUR | HCOB Eurozone Services PMI (Nov) | 53.1 | 52.8 | 53.0 |
+| 22 min | GBP | S&P Global Composite PMI (Nov) |  | 51.8 | 52.2 |
+| 22 min | GBP | S&P Global Manufacturing PMI (Nov) |  | 49.3 | 49.7 |
+| 22 min | GBP | S&P Global Services PMI (Nov) |  | 51.9 | 52.3 |
 | 11:30 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 12:00 | MXN | GDP (YoY) (Q3) |  | -0.2% | 0.0% |
 | 12:00 | MXN | GDP (QoQ) (Q3) |  | -0.1% | 0.6% |

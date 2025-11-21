@@ -22,19 +22,19 @@
 | 07:45 | EUR | Low | French Business Survey (Nov) | 98 | 100 | 101 |
 | 08:00 | CHF | Low | M3 Money Supply (Oct) | 1,203.0B |  | 1,193.3B |
 | 08:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 5 min | EUR | Moderate | HCOB France Manufacturing PMI (Nov) |  | 49.0 | 48.8 |
-| 5 min | EUR | Low | HCOB France Composite PMI (Nov) |  | 48.1 | 47.7 |
-| 5 min | EUR | Moderate | HCOB France Services PMI (Nov) |  | 48.4 | 48.0 |
-| 20 min | EUR | Low | HCOB Germany Composite PMI (Nov) |  | 53.7 | 53.9 |
-| 20 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Nov) |  | 49.8 | 49.6 |
-| 20 min | EUR | Moderate | HCOB Germany Services PMI (Nov) |  | 54.0 | 54.6 |
-| 20 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 50 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Nov) |  | 50.1 | 50.0 |
-| 50 min | EUR | Moderate | HCOB Eurozone Composite PMI (Nov) |  | 52.5 | 52.5 |
-| 50 min | EUR | Moderate | HCOB Eurozone Services PMI (Nov) |  | 52.8 | 53.0 |
-| 09:30 | GBP | Moderate | S&P Global Composite PMI (Nov) |  | 51.8 | 52.2 |
-| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Nov) |  | 49.3 | 49.7 |
-| 09:30 | GBP | Moderate | S&P Global Services PMI (Nov) |  | 51.9 | 52.3 |
+| 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Nov) | 47.8 | 49.0 | 48.8 |
+| 08:15 | EUR | Low | HCOB France Composite PMI (Nov) | 49.9 | 48.1 | 47.7 |
+| 08:15 | EUR | Moderate | HCOB France Services PMI (Nov) | 50.8 | 48.4 | 48.0 |
+| 08:30 | EUR | Low | HCOB Germany Composite PMI (Nov) | 52.1 | 53.7 | 53.9 |
+| 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Nov) | 48.4 | 49.8 | 49.6 |
+| 08:30 | EUR | Moderate | HCOB Germany Services PMI (Nov) | 52.7 | 54.0 | 54.6 |
+| 08:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Nov) | 49.7 | 50.1 | 50.0 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Nov) | 52.4 | 52.5 | 52.5 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Nov) | 53.1 | 52.8 | 53.0 |
+| 22 min | GBP | Moderate | S&P Global Composite PMI (Nov) |  | 51.8 | 52.2 |
+| 22 min | GBP | Moderate | S&P Global Manufacturing PMI (Nov) |  | 49.3 | 49.7 |
+| 22 min | GBP | Moderate | S&P Global Services PMI (Nov) |  | 51.9 | 52.3 |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 687.03B |
 | 11:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 12:00 | MXN | Low | Economic Activity (YoY) (Sep) |  | 0.80% | -0.90% |
