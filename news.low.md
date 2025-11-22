@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 17:30 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
+| 24 min | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
