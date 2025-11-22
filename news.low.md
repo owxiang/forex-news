@@ -2,4 +2,5 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 24 min | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
+| 16:55 | USD | Fed Collins Speaks |  |  |  |
+| 17:30 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
