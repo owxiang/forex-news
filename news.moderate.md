@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 54 min | EUR | ECB President Lagarde Speaks |  |  |  |
+| 11:00 | EUR | ECB President Lagarde Speaks |  |  |  |
