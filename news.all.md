@@ -15,16 +15,16 @@
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:00 | MXN | Low | 1st Half-Month Core CPI (Nov) | 0.04% | 0.06% | 0.18% |
 | 12:00 | MXN | Low | 1st Half-Month CPI (Nov) | 0.47% | 0.42% | 0.28% |
-| 33 min | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 13:30 | USD | Low | Chicago Fed National Activity (Oct) |  |  | -0.12 |
-| 13:30 | CAD | Low | Corporate Profits (QoQ) |  |  | -1.7% |
-| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Oct) |  |  | 3.3% |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.084% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.027% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.041% |
-| 14:15 | USD | Low | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
-| 14:15 | USD | Moderate | Industrial Production (MoM) (Oct) |  |  | 0.1% |
-| 14:15 | USD | Moderate | Industrial Production (YoY) (Sep) |  |  | 0.87% |
+| 12:45 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 13 min | USD | Low | Chicago Fed National Activity (Oct) |  |  | -0.12 |
+| 13 min | CAD | Low | Corporate Profits (QoQ) |  |  | -1.7% |
+| 13 min | CAD | Low | Manufacturing Sales (MoM) (Oct) |  |  | 3.3% |
+| 43 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.084% |
+| 43 min | EUR | Low | French 3-Month BTF Auction |  |  | 2.027% |
+| 43 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.041% |
+| 58 min | USD | Low | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
+| 58 min | USD | Moderate | Industrial Production (MoM) (Oct) |  |  | 0.1% |
+| 58 min | USD | Moderate | Industrial Production (YoY) (Sep) |  |  | 0.87% |
 | 14:50 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 15:30 | USD | Low | Dallas Fed Mfg Business Index (Nov) |  |  | -5.0 |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.795% |

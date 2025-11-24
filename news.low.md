@@ -9,13 +9,13 @@
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:00 | MXN | 1st Half-Month Core CPI (Nov) | 0.04% | 0.06% | 0.18% |
 | 12:00 | MXN | 1st Half-Month CPI (Nov) | 0.47% | 0.42% | 0.28% |
-| 13:30 | USD | Chicago Fed National Activity (Oct) |  |  | -0.12 |
-| 13:30 | CAD | Corporate Profits (QoQ) |  |  | -1.7% |
-| 13:30 | CAD | Manufacturing Sales (MoM) (Oct) |  |  | 3.3% |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.084% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.027% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.041% |
-| 14:15 | USD | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
+| 13 min | USD | Chicago Fed National Activity (Oct) |  |  | -0.12 |
+| 13 min | CAD | Corporate Profits (QoQ) |  |  | -1.7% |
+| 13 min | CAD | Manufacturing Sales (MoM) (Oct) |  |  | 3.3% |
+| 43 min | EUR | French 12-Month BTF Auction |  |  | 2.084% |
+| 43 min | EUR | French 3-Month BTF Auction |  |  | 2.027% |
+| 43 min | EUR | French 6-Month BTF Auction |  |  | 2.041% |
+| 58 min | USD | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
 | 15:30 | USD | Dallas Fed Mfg Business Index (Nov) |  |  | -5.0 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 3.795% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 3.710% |
