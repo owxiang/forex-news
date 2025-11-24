@@ -16,19 +16,19 @@
 | 12:00 | MXN | Low | 1st Half-Month Core CPI (Nov) | 0.04% | 0.06% | 0.18% |
 | 12:00 | MXN | Low | 1st Half-Month CPI (Nov) | 0.47% | 0.42% | 0.28% |
 | 12:45 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 13 min | USD | Low | Chicago Fed National Activity (Oct) |  |  | -0.12 |
-| 13 min | CAD | Low | Corporate Profits (QoQ) |  |  | -1.7% |
-| 13 min | CAD | Low | Manufacturing Sales (MoM) (Oct) |  |  | 3.3% |
-| 43 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.084% |
-| 43 min | EUR | Low | French 3-Month BTF Auction |  |  | 2.027% |
-| 43 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.041% |
-| 58 min | USD | Low | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
-| 58 min | USD | Moderate | Industrial Production (MoM) (Oct) |  |  | 0.1% |
-| 58 min | USD | Moderate | Industrial Production (YoY) (Sep) |  |  | 0.87% |
-| 14:50 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Oct) | -1.1% |  | 3.3% |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.078% |  | 2.084% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.041% |  | 2.027% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.053% |  | 2.041% |
+| 14:00 | BRL | Low | Federal Tax Revenue (Sep) | 261.90B |  | 208.79B |
+| 7 min | USD | Low | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
+| 7 min | USD | Moderate | Industrial Production (MoM) (Oct) |  |  | 0.1% |
+| 7 min | USD | Moderate | Industrial Production (YoY) (Sep) |  |  | 0.87% |
+| 42 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 15:30 | USD | Low | Dallas Fed Mfg Business Index (Nov) |  |  | -5.0 |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.795% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.710% |
+| 16:30 | USD | Low | Chicago Fed National Activity (Oct) |  |  | -0.12 |
 | 17:45 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 18:00 | USD | Moderate | 2-Year Note Auction |  |  | 3.504% |
 | 21:00 | KRW | Low | Consumer Confidence (Nov) |  |  | 109.8 |
