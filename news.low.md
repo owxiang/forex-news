@@ -18,4 +18,4 @@
 | 15:30 | USD | Dallas Fed Mfg Business Index (Nov) | -10.4 |  | -5.0 |
 | 16:30 | USD | 3-Month Bill Auction | 3.745% |  | 3.795% |
 | 16:30 | USD | 6-Month Bill Auction | 3.670% |  | 3.710% |
-| 21:00 | KRW | Consumer Confidence (Nov) |  |  | 109.8 |
+| 52 min | KRW | Consumer Confidence (Nov) |  |  | 109.8 |
