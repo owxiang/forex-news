@@ -17,15 +17,16 @@
 | 12:00 | MXN | Low | 1st Half-Month CPI (Nov) | 0.47% | 0.42% | 0.28% |
 | 12:45 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Oct) | -1.1% |  | 3.3% |
+| 14:00 | USD | Low | CB Employment Trends Index (Sep) | 106.84 |  | 106.68 |
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.078% |  | 2.084% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.041% |  | 2.027% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.053% |  | 2.041% |
 | 14:00 | BRL | Low | Federal Tax Revenue (Sep) | 261.90B |  | 208.79B |
 | 14:50 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 21 min | USD | Low | Dallas Fed Mfg Business Index (Nov) |  |  | -5.0 |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.795% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.710% |
-| 16:30 | USD | Low | Chicago Fed National Activity (Oct) |  |  | -0.12 |
+| 15:30 | USD | Low | Dallas Fed Mfg Business Index (Nov) | -10.4 |  | -5.0 |
+| 23 min | USD | Low | 3-Month Bill Auction |  |  | 3.795% |
+| 23 min | USD | Low | 6-Month Bill Auction |  |  | 3.710% |
+| 23 min | USD | Low | Chicago Fed National Activity (Oct) |  |  | -0.12 |
 | 17:45 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 18:00 | USD | Moderate | 2-Year Note Auction |  |  | 3.504% |
 | 21:00 | KRW | Low | Consumer Confidence (Nov) |  |  | 109.8 |
