@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 43 min | SGD | Moderate | Core CPI (YoY) (Oct) |  |  | 0.40% |
-| 43 min | SGD | Low | CPI (MoM) (Oct) |  |  | 0.40% |
-| 43 min | SGD | Moderate | CPI (YoY) (Oct) |  |  | 0.7% |
+| 05:00 | SGD | Moderate | Core CPI (YoY) (Oct) | 1.20% |  | 0.40% |
+| 05:00 | SGD | Low | CPI (MoM) (Oct) | 0.00% |  | 0.40% |
+| 05:00 | SGD | Moderate | CPI (YoY) (Oct) | 1.2% |  | 0.7% |
 | 07:00 | NOK | Low | M3 Money Supply (Oct) |  |  | 3,401.8B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Oct) |  |  | 3.8% |
 | 07:30 | CHF | Moderate | Employment Level (Q3) |  |  | 5.532M |
