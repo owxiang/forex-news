@@ -5,7 +5,7 @@
 | 05:00 | SGD | CPI (MoM) (Oct) | 0.00% |  | 0.40% |
 | 07:00 | NOK | M3 Money Supply (Oct) | 3,407.7B |  | 3,401.8B |
 | 07:00 | NOK | Credit Indicator (YoY) (Oct) | 3.9% |  | 3.9% |
-| 11:00 | BRL | FGV Consumer confidence (Nov) |  |  | 88.5 |
+| 52 min | BRL | FGV Consumer confidence (Nov) |  |  | 88.5 |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:00 | MXN | 1st Half-Month Core CPI (Nov) |  | 0.06% | 0.18% |
 | 12:00 | MXN | 1st Half-Month CPI (Nov) |  | 0.42% | 0.28% |

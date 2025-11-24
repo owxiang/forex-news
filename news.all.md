@@ -11,7 +11,7 @@
 | 09:00 | EUR | Moderate | German Business Expectations (Nov) | 90.6 | 91.4 | 91.6 |
 | 09:00 | EUR | Moderate | German Current Assessment (Nov) | 85.6 | 85.5 | 85.3 |
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (Nov) | 88.1 | 88.6 | 88.4 |
-| 11:00 | BRL | Low | FGV Consumer confidence (Nov) |  |  | 88.5 |
+| 52 min | BRL | Low | FGV Consumer confidence (Nov) |  |  | 88.5 |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:00 | MXN | Low | 1st Half-Month Core CPI (Nov) |  | 0.06% | 0.18% |
 | 12:00 | MXN | Low | 1st Half-Month CPI (Nov) |  | 0.42% | 0.28% |
