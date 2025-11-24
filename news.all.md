@@ -26,6 +26,6 @@
 | 15:30 | USD | Low | Dallas Fed Mfg Business Index (Nov) | -10.4 |  | -5.0 |
 | 16:30 | USD | Low | 3-Month Bill Auction | 3.745% |  | 3.795% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 3.670% |  | 3.710% |
-| 38 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 53 min | USD | Moderate | 2-Year Note Auction |  |  | 3.504% |
+| 17:45 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 18:00 | USD | Moderate | 2-Year Note Auction | 3.489% |  | 3.504% |
 | 21:00 | KRW | Low | Consumer Confidence (Nov) |  |  | 109.8 |
