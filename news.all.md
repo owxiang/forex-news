@@ -21,11 +21,8 @@
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.041% |  | 2.027% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.053% |  | 2.041% |
 | 14:00 | BRL | Low | Federal Tax Revenue (Sep) | 261.90B |  | 208.79B |
-| 7 min | USD | Low | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
-| 7 min | USD | Moderate | Industrial Production (MoM) (Oct) |  |  | 0.1% |
-| 7 min | USD | Moderate | Industrial Production (YoY) (Sep) |  |  | 0.87% |
-| 42 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 15:30 | USD | Low | Dallas Fed Mfg Business Index (Nov) |  |  | -5.0 |
+| 14:50 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 21 min | USD | Low | Dallas Fed Mfg Business Index (Nov) |  |  | -5.0 |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.795% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.710% |
 | 16:30 | USD | Low | Chicago Fed National Activity (Oct) |  |  | -0.12 |

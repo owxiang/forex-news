@@ -9,8 +9,6 @@
 | 09:00 | EUR | German Current Assessment (Nov) | 85.6 | 85.5 | 85.3 |
 | 09:00 | EUR | German Ifo Business Climate Index (Nov) | 88.1 | 88.6 | 88.4 |
 | 12:45 | EUR | ECB's Elderson Speaks |  |  |  |
-| 7 min | USD | Industrial Production (MoM) (Oct) |  |  | 0.1% |
-| 7 min | USD | Industrial Production (YoY) (Sep) |  |  | 0.87% |
-| 42 min | EUR | ECB President Lagarde Speaks |  |  |  |
+| 14:50 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 17:45 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 18:00 | USD | 2-Year Note Auction |  |  | 3.504% |
