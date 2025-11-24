@@ -7,10 +7,10 @@
 | 05:00 | SGD | Moderate | CPI (YoY) (Oct) | 1.2% |  | 0.7% |
 | 07:00 | NOK | Low | M3 Money Supply (Oct) | 3,407.7B |  | 3,401.8B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Oct) | 3.9% |  | 3.9% |
-| 22 min | CHF | Moderate | Employment Level (Q3) |  |  | 5.532M |
-| 09:00 | EUR | Moderate | German Business Expectations (Nov) |  |  | 91.6 |
-| 09:00 | EUR | Moderate | German Current Assessment (Nov) |  |  | 85.3 |
-| 09:00 | EUR | Moderate | German Ifo Business Climate Index (Nov) |  | 88.6 | 88.4 |
+| 07:30 | CHF | Moderate | Employment Level (Q3) | 5.532M |  | 5.532M |
+| 48 min | EUR | Moderate | German Business Expectations (Nov) |  |  | 91.6 |
+| 48 min | EUR | Moderate | German Current Assessment (Nov) |  |  | 85.3 |
+| 48 min | EUR | Moderate | German Ifo Business Climate Index (Nov) |  | 88.6 | 88.4 |
 | 11:00 | BRL | Low | FGV Consumer confidence (Nov) |  |  | 88.5 |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:00 | MXN | Low | 1st Half-Month Core CPI (Nov) |  |  | 0.18% |
