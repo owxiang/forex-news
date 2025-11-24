@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | SGD | CPI (MoM) (Oct) |  |  | 0.40% |
+| 43 min | SGD | CPI (MoM) (Oct) |  |  | 0.40% |
 | 07:00 | NOK | M3 Money Supply (Oct) |  |  | 3,401.8B |
 | 07:00 | NOK | Credit Indicator (YoY) (Oct) |  |  | 3.8% |
 | 11:00 | BRL | FGV Consumer confidence (Nov) |  |  | 88.5 |
