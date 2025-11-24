@@ -7,8 +7,8 @@
 | 07:00 | NOK | Credit Indicator (YoY) (Oct) | 3.9% |  | 3.9% |
 | 11:00 | BRL | FGV Consumer confidence (Nov) |  |  | 88.5 |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:00 | MXN | 1st Half-Month Core CPI (Nov) |  |  | 0.18% |
-| 12:00 | MXN | 1st Half-Month CPI (Nov) |  |  | 0.28% |
+| 12:00 | MXN | 1st Half-Month Core CPI (Nov) |  | 0.06% | 0.18% |
+| 12:00 | MXN | 1st Half-Month CPI (Nov) |  | 0.42% | 0.28% |
 | 13:30 | USD | Chicago Fed National Activity (Oct) |  |  | -0.12 |
 | 13:30 | CAD | Corporate Profits (QoQ) |  |  | -1.7% |
 | 13:30 | CAD | Manufacturing Sales (MoM) (Oct) |  |  | 3.3% |

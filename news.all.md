@@ -8,13 +8,13 @@
 | 07:00 | NOK | Low | M3 Money Supply (Oct) | 3,407.7B |  | 3,401.8B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Oct) | 3.9% |  | 3.9% |
 | 07:30 | CHF | Moderate | Employment Level (Q3) | 5.532M |  | 5.532M |
-| 48 min | EUR | Moderate | German Business Expectations (Nov) |  |  | 91.6 |
-| 48 min | EUR | Moderate | German Current Assessment (Nov) |  |  | 85.3 |
-| 48 min | EUR | Moderate | German Ifo Business Climate Index (Nov) |  | 88.6 | 88.4 |
+| 09:00 | EUR | Moderate | German Business Expectations (Nov) | 90.6 | 91.4 | 91.6 |
+| 09:00 | EUR | Moderate | German Current Assessment (Nov) | 85.6 | 85.5 | 85.3 |
+| 09:00 | EUR | Moderate | German Ifo Business Climate Index (Nov) | 88.1 | 88.6 | 88.4 |
 | 11:00 | BRL | Low | FGV Consumer confidence (Nov) |  |  | 88.5 |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 12:00 | MXN | Low | 1st Half-Month Core CPI (Nov) |  |  | 0.18% |
-| 12:00 | MXN | Low | 1st Half-Month CPI (Nov) |  |  | 0.28% |
+| 12:00 | MXN | Low | 1st Half-Month Core CPI (Nov) |  | 0.06% | 0.18% |
+| 12:00 | MXN | Low | 1st Half-Month CPI (Nov) |  | 0.42% | 0.28% |
 | 12:45 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 13:30 | USD | Low | Chicago Fed National Activity (Oct) |  |  | -0.12 |
 | 13:30 | CAD | Low | Corporate Profits (QoQ) |  |  | -1.7% |
