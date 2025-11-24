@@ -12,10 +12,10 @@
 | 09:00 | EUR | Moderate | German Current Assessment (Nov) | 85.6 | 85.5 | 85.3 |
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (Nov) | 88.1 | 88.6 | 88.4 |
 | 11:00 | BRL | Low | FGV Consumer confidence (Nov) | 89.8 |  | 88.5 |
-| 19 min | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 54 min | MXN | Low | 1st Half-Month Core CPI (Nov) |  | 0.06% | 0.18% |
-| 54 min | MXN | Low | 1st Half-Month CPI (Nov) |  | 0.42% | 0.28% |
-| 12:45 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 12:00 | MXN | Low | 1st Half-Month Core CPI (Nov) | 0.04% | 0.06% | 0.18% |
+| 12:00 | MXN | Low | 1st Half-Month CPI (Nov) | 0.47% | 0.42% | 0.28% |
+| 33 min | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 13:30 | USD | Low | Chicago Fed National Activity (Oct) |  |  | -0.12 |
 | 13:30 | CAD | Low | Corporate Profits (QoQ) |  |  | -1.7% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Oct) |  |  | 3.3% |

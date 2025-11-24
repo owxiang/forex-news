@@ -8,7 +8,7 @@
 | 09:00 | EUR | German Business Expectations (Nov) | 90.6 | 91.4 | 91.6 |
 | 09:00 | EUR | German Current Assessment (Nov) | 85.6 | 85.5 | 85.3 |
 | 09:00 | EUR | German Ifo Business Climate Index (Nov) | 88.1 | 88.6 | 88.4 |
-| 12:45 | EUR | ECB's Elderson Speaks |  |  |  |
+| 33 min | EUR | ECB's Elderson Speaks |  |  |  |
 | 14:15 | USD | Industrial Production (MoM) (Oct) |  |  | 0.1% |
 | 14:15 | USD | Industrial Production (YoY) (Sep) |  |  | 0.87% |
 | 14:50 | EUR | ECB President Lagarde Speaks |  |  |  |
