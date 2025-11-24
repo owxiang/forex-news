@@ -5,9 +5,9 @@
 | 05:00 | SGD | Moderate | Core CPI (YoY) (Oct) | 1.20% |  | 0.40% |
 | 05:00 | SGD | Low | CPI (MoM) (Oct) | 0.00% |  | 0.40% |
 | 05:00 | SGD | Moderate | CPI (YoY) (Oct) | 1.2% |  | 0.7% |
-| 49 min | NOK | Low | M3 Money Supply (Oct) |  |  | 3,401.8B |
-| 49 min | NOK | Low | Credit Indicator (YoY) (Oct) |  |  | 3.8% |
-| 07:30 | CHF | Moderate | Employment Level (Q3) |  |  | 5.532M |
+| 07:00 | NOK | Low | M3 Money Supply (Oct) | 3,407.7B |  | 3,401.8B |
+| 07:00 | NOK | Low | Credit Indicator (YoY) (Oct) | 3.9% |  | 3.9% |
+| 22 min | CHF | Moderate | Employment Level (Q3) |  |  | 5.532M |
 | 09:00 | EUR | Moderate | German Business Expectations (Nov) |  |  | 91.6 |
 | 09:00 | EUR | Moderate | German Current Assessment (Nov) |  |  | 85.3 |
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (Nov) |  | 88.6 | 88.4 |

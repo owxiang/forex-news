@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 05:00 | SGD | Core CPI (YoY) (Oct) | 1.20% |  | 0.40% |
 | 05:00 | SGD | CPI (YoY) (Oct) | 1.2% |  | 0.7% |
-| 07:30 | CHF | Employment Level (Q3) |  |  | 5.532M |
+| 22 min | CHF | Employment Level (Q3) |  |  | 5.532M |
 | 09:00 | EUR | German Business Expectations (Nov) |  |  | 91.6 |
 | 09:00 | EUR | German Current Assessment (Nov) |  |  | 85.3 |
 | 09:00 | EUR | German Ifo Business Climate Index (Nov) |  | 88.6 | 88.4 |
