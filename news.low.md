@@ -2,14 +2,14 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | GBP | Car Registration (YoY) (Oct) |  |  | 13.7% |
-| 05:00 | GBP | Car Registration (MoM) (Oct) |  |  | 277.4% |
-| 05:00 | EUR | Italian Car Registration (MoM) (Oct) |  |  | 88.4% |
-| 05:00 | EUR | Italian Car Registration (YoY) (Oct) |  |  | 4.2% |
-| 05:00 | EUR | German Car Registration (YoY) (Oct) |  |  | 12.8% |
-| 05:00 | EUR | German Car Registration (MoM) (Oct) |  |  | 13.7% |
-| 05:00 | EUR | French Car Registration (YoY) (Oct) |  |  | 1.0% |
-| 05:00 | EUR | French Car Registration (MoM) (Oct) |  |  | 59.8% |
+| 49 min | GBP | Car Registration (YoY) (Oct) |  |  | 13.7% |
+| 49 min | GBP | Car Registration (MoM) (Oct) |  |  | 277.4% |
+| 49 min | EUR | Italian Car Registration (MoM) (Oct) |  |  | 88.4% |
+| 49 min | EUR | Italian Car Registration (YoY) (Oct) |  |  | 4.2% |
+| 49 min | EUR | German Car Registration (YoY) (Oct) |  |  | 12.8% |
+| 49 min | EUR | German Car Registration (MoM) (Oct) |  |  | 13.7% |
+| 49 min | EUR | French Car Registration (YoY) (Oct) |  |  | 1.0% |
+| 49 min | EUR | French Car Registration (MoM) (Oct) |  |  | 59.8% |
 | 07:00 | ZAR | Leading Indicators (Sep) |  |  | 115.50% |
 | 07:45 | EUR | French Consumer Confidence (Nov) |  |  | 90 |
 | 08:00 | EUR | Spanish PPI (YoY) (Oct) |  |  | 0.3% |

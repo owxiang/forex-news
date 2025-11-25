@@ -2,14 +2,14 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 05:00 | GBP | Low | Car Registration (YoY) (Oct) |  |  | 13.7% |
-| 05:00 | GBP | Low | Car Registration (MoM) (Oct) |  |  | 277.4% |
-| 05:00 | EUR | Low | Italian Car Registration (MoM) (Oct) |  |  | 88.4% |
-| 05:00 | EUR | Low | Italian Car Registration (YoY) (Oct) |  |  | 4.2% |
-| 05:00 | EUR | Low | German Car Registration (YoY) (Oct) |  |  | 12.8% |
-| 05:00 | EUR | Low | German Car Registration (MoM) (Oct) |  |  | 13.7% |
-| 05:00 | EUR | Low | French Car Registration (YoY) (Oct) |  |  | 1.0% |
-| 05:00 | EUR | Low | French Car Registration (MoM) (Oct) |  |  | 59.8% |
+| 49 min | GBP | Low | Car Registration (YoY) (Oct) |  |  | 13.7% |
+| 49 min | GBP | Low | Car Registration (MoM) (Oct) |  |  | 277.4% |
+| 49 min | EUR | Low | Italian Car Registration (MoM) (Oct) |  |  | 88.4% |
+| 49 min | EUR | Low | Italian Car Registration (YoY) (Oct) |  |  | 4.2% |
+| 49 min | EUR | Low | German Car Registration (YoY) (Oct) |  |  | 12.8% |
+| 49 min | EUR | Low | German Car Registration (MoM) (Oct) |  |  | 13.7% |
+| 49 min | EUR | Low | French Car Registration (YoY) (Oct) |  |  | 1.0% |
+| 49 min | EUR | Low | French Car Registration (MoM) (Oct) |  |  | 59.8% |
 | 07:00 | EUR | High | German GDP (QoQ) (Q3) |  | 0.0% | -0.2% |
 | 07:00 | EUR | Moderate | German GDP (YoY) (Q3) |  | 0.3% | 0.3% |
 | 07:00 | ZAR | Low | Leading Indicators (Sep) |  |  | 115.50% |
