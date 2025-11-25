@@ -16,14 +16,14 @@
 | 08:30 | HKD | Exports (MoM) (Oct) | 17.5% |  | 16.1% |
 | 08:30 | HKD | Imports (MoM) (Oct) | 18.3% |  | 13.6% |
 | 08:30 | HKD | Trade Balance (Oct) | -39.9B |  | -50.2B |
-| 22 min | GBP | 5-Year Treasury Gilt Auction |  |  | 3.845% |
-| 22 min | EUR | German 5-Year Bobl Auction |  |  | 2.210% |
-| 52 min | GBP | CBI Distributive Trades Survey (Nov) |  | -29 | -27 |
-| 11:30 | BRL | Current Account (USD) (Oct) |  | -4.85B | -9.77B |
-| 11:30 | BRL | Foreign direct investment (USD) (Oct) |  |  | 10.67B |
-| 12:00 | MXN | Retail Sales (YoY) (Sep) |  |  | 2.4% |
-| 12:00 | MXN | Retail Sales (MoM) (Sep) |  |  | 0.6% |
-| 12:00 | EUR | Spanish Consumer Confidence (Oct) |  |  | 81.5 |
+| 10:30 | GBP | 5-Year Treasury Gilt Auction | 4.088% |  | 4.004% |
+| 10:30 | EUR | German 5-Year Bobl Auction | 2.270% |  | 2.210% |
+| 11:00 | GBP | CBI Distributive Trades Survey (Nov) | -32 | -29 | -27 |
+| 24 min | BRL | Current Account (USD) (Oct) |  | -4.85B | -9.77B |
+| 24 min | BRL | Foreign direct investment (USD) (Oct) |  |  | 10.67B |
+| 54 min | MXN | Retail Sales (YoY) (Sep) |  |  | 2.4% |
+| 54 min | MXN | Retail Sales (MoM) (Sep) |  |  | 0.6% |
+| 54 min | EUR | Spanish Consumer Confidence (Oct) |  |  | 81.5 |
 | 13:30 | USD | Core PPI (YoY) (Sep) |  | 2.7% | 2.8% |
 | 13:30 | USD | PPI (YoY) (Sep) |  | 2.7% | 2.6% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Sep) |  | 2.7% | 2.8% |
