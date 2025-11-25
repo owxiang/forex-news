@@ -43,23 +43,20 @@
 | 14:00 | USD | Low | House Price Index (YoY) (Sep) | 1.7% |  | 2.4% |
 | 14:00 | USD | Low | House Price Index (Sep) | 435.4 |  | 435.6 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Sep) | 0.1% |  | 0.1% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Sep) | -0.5% |  | -0.6% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Sep) | 1.4% | 1.4% | 1.6% |
-| 8 min | USD | Low | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
-| 8 min | USD | Moderate | Industrial Production (MoM) (Oct) |  |  | 0.1% |
-| 8 min | USD | Moderate | Industrial Production (YoY) (Sep) |  |  | 0.87% |
-| 53 min | USD | Moderate | Business Inventories (MoM) (Aug) |  | 0.0% | 0.2% |
-| 53 min | USD | High | CB Consumer Confidence (Nov) |  | 93.5 | 94.6 |
-| 53 min | USD | Moderate | Pending Home Sales (MoM) (Oct) |  | 0.5% | 0.0% |
-| 53 min | USD | Low | Pending Home Sales Index (Oct) |  |  | 74.8 |
-| 53 min | USD | Moderate | Retail Inventories Ex Auto (Aug) |  | 0.3% | 0.1% |
-| 53 min | USD | Low | Richmond Manufacturing Index (Nov) |  | -5 | -4 |
-| 53 min | USD | Low | Richmond Manufacturing Shipments (Nov) |  |  | 4 |
-| 53 min | USD | Low | Richmond Services Index (Nov) |  |  | 4 |
-| 53 min | MXN | Low | Current Account (USD) (Q3) |  |  | 206M |
-| 53 min | MXN | Low | Current Account % of GDP (Q3) |  |  | 0.00% |
-| 15:30 | USD | Low | Dallas Fed Services Revenues (Nov) |  |  | -6.4 |
-| 15:30 | USD | Low | Texas Services Sector Outlook (Nov) |  |  | -9.4 |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Sep) | -0.5% |  | -0.6% |
+| 15:00 | USD | Moderate | Business Inventories (MoM) (Aug) | 0.0% | 0.0% | 0.1% |
+| 15:00 | USD | High | CB Consumer Confidence (Nov) | 88.7 | 93.5 | 95.5 |
+| 15:00 | USD | Moderate | Pending Home Sales (MoM) (Oct) | 1.9% | 0.5% | 0.1% |
+| 15:00 | USD | Low | Pending Home Sales Index (Oct) | 76.3 |  | 74.9 |
+| 15:00 | USD | Moderate | Retail Inventories Ex Auto (Aug) | 0.0% | 0.3% | 0.1% |
+| 15:00 | USD | Low | Richmond Manufacturing Index (Nov) | -15 | -5 | -4 |
+| 15:00 | USD | Low | Richmond Manufacturing Shipments (Nov) | -14 |  | 4 |
+| 15:00 | USD | Low | Richmond Services Index (Nov) | -4 |  | 4 |
+| 15:00 | MXN | Low | Current Account (USD) (Q3) | 2,325M |  | 206M |
+| 15:00 | MXN | Low | Current Account % of GDP (Q3) | 0.50% |  | 0.00% |
+| 22 min | USD | Low | Dallas Fed Services Revenues (Nov) |  |  | -6.4 |
+| 22 min | USD | Low | Texas Services Sector Outlook (Nov) |  |  | -9.4 |
 | 16:30 | USD | Low | 52-Week Bill Auction |  |  | 3.445% |
 | 16:30 | USD | Low | Chicago Fed National Activity (Oct) |  |  | -0.12 |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 4.2% | 4.2% |

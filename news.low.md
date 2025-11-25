@@ -34,15 +34,14 @@
 | 14:00 | USD | House Price Index (YoY) (Sep) | 1.7% |  | 2.4% |
 | 14:00 | USD | House Price Index (Sep) | 435.4 |  | 435.6 |
 | 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Sep) | 0.1% |  | 0.1% |
-| 8 min | USD | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
-| 53 min | USD | Pending Home Sales Index (Oct) |  |  | 74.8 |
-| 53 min | USD | Richmond Manufacturing Index (Nov) |  | -5 | -4 |
-| 53 min | USD | Richmond Manufacturing Shipments (Nov) |  |  | 4 |
-| 53 min | USD | Richmond Services Index (Nov) |  |  | 4 |
-| 53 min | MXN | Current Account (USD) (Q3) |  |  | 206M |
-| 53 min | MXN | Current Account % of GDP (Q3) |  |  | 0.00% |
-| 15:30 | USD | Dallas Fed Services Revenues (Nov) |  |  | -6.4 |
-| 15:30 | USD | Texas Services Sector Outlook (Nov) |  |  | -9.4 |
+| 15:00 | USD | Pending Home Sales Index (Oct) | 76.3 |  | 74.9 |
+| 15:00 | USD | Richmond Manufacturing Index (Nov) | -15 | -5 | -4 |
+| 15:00 | USD | Richmond Manufacturing Shipments (Nov) | -14 |  | 4 |
+| 15:00 | USD | Richmond Services Index (Nov) | -4 |  | 4 |
+| 15:00 | MXN | Current Account (USD) (Q3) | 2,325M |  | 206M |
+| 15:00 | MXN | Current Account % of GDP (Q3) | 0.50% |  | 0.00% |
+| 22 min | USD | Dallas Fed Services Revenues (Nov) |  |  | -6.4 |
+| 22 min | USD | Texas Services Sector Outlook (Nov) |  |  | -9.4 |
 | 16:30 | USD | 52-Week Bill Auction |  |  | 3.445% |
 | 16:30 | USD | Chicago Fed National Activity (Oct) |  |  | -0.12 |
 | 18:00 | USD | M2 Money Supply (MoM) (Oct) |  |  | 22.21T |

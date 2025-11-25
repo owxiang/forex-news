@@ -6,4 +6,4 @@
 | 13:30 | USD | Core Retail Sales (MoM) (Sep) | 0.3% | 0.3% | 0.6% |
 | 13:30 | USD | PPI (MoM) (Sep) | 0.3% | 0.3% | -0.1% |
 | 13:30 | USD | Retail Sales (MoM) (Sep) | 0.2% | 0.4% | 0.6% |
-| 53 min | USD | CB Consumer Confidence (Nov) |  | 93.5 | 94.6 |
+| 15:00 | USD | CB Consumer Confidence (Nov) | 88.7 | 93.5 | 95.5 |
