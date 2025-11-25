@@ -23,19 +23,19 @@
 | 11:30 | BRL | Foreign direct investment (USD) (Oct) | 10.94B |  | 10.67B |
 | 12:00 | MXN | Retail Sales (YoY) (Sep) | 3.3% |  | 2.4% |
 | 12:00 | MXN | Retail Sales (MoM) (Sep) | 0.0% |  | 0.6% |
-| 13:30 | USD | Core PPI (YoY) (Sep) |  | 2.7% | 2.8% |
-| 13:30 | USD | PPI (YoY) (Sep) |  | 2.7% | 2.6% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Sep) |  | 2.7% | 2.8% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Sep) |  | 0.2% | 0.3% |
-| 13:30 | USD | Retail Sales (YoY) (Sep) |  |  | 5.00% |
-| 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Sep) |  | 0.4% | 0.7% |
-| 13:30 | CAD | Corporate Profits (QoQ) |  |  | -1.7% |
-| 13:55 | USD | Redbook (YoY) |  |  | 6.1% |
-| 14:00 | USD | House Price Index (MoM) (Sep) |  |  | 0.4% |
-| 14:00 | USD | House Price Index (YoY) (Sep) |  |  | 2.3% |
-| 14:00 | USD | House Price Index (Sep) |  |  | 435.3 |
-| 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Sep) |  |  | 0.2% |
-| 14:15 | USD | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
+| 13 min | USD | Core PPI (YoY) (Sep) |  | 2.7% | 2.8% |
+| 13 min | USD | PPI (YoY) (Sep) |  | 2.7% | 2.6% |
+| 13 min | USD | PPI ex. Food/Energy/Transport (YoY) (Sep) |  | 2.7% | 2.8% |
+| 13 min | USD | PPI ex. Food/Energy/Transport (MoM) (Sep) |  | 0.2% | 0.3% |
+| 13 min | USD | Retail Sales (YoY) (Sep) |  |  | 5.00% |
+| 13 min | USD | Retail Sales Ex Gas/Autos (MoM) (Sep) |  | 0.4% | 0.7% |
+| 13 min | CAD | Corporate Profits (QoQ) |  |  | -1.7% |
+| 38 min | USD | Redbook (YoY) |  |  | 6.1% |
+| 43 min | USD | House Price Index (MoM) (Sep) |  |  | 0.4% |
+| 43 min | USD | House Price Index (YoY) (Sep) |  |  | 2.3% |
+| 43 min | USD | House Price Index (Sep) |  |  | 435.3 |
+| 43 min | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Sep) |  |  | 0.2% |
+| 58 min | USD | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
 | 15:00 | USD | Pending Home Sales Index (Oct) |  |  | 74.8 |
 | 15:00 | USD | Richmond Manufacturing Index (Nov) |  | -5 | -4 |
 | 15:00 | USD | Richmond Manufacturing Shipments (Nov) |  |  | 4 |

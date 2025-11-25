@@ -25,30 +25,30 @@
 | 11:30 | BRL | Low | Foreign direct investment (USD) (Oct) | 10.94B |  | 10.67B |
 | 12:00 | MXN | Low | Retail Sales (YoY) (Sep) | 3.3% |  | 2.4% |
 | 12:00 | MXN | Low | Retail Sales (MoM) (Sep) | 0.0% |  | 0.6% |
-| 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | -2.50K |
-| 13:30 | USD | Moderate | Core PPI (MoM) (Sep) |  | 0.2% | -0.1% |
-| 13:30 | USD | Low | Core PPI (YoY) (Sep) |  | 2.7% | 2.8% |
-| 13:30 | USD | High | Core Retail Sales (MoM) (Sep) |  | 0.3% | 0.7% |
-| 13:30 | USD | High | PPI (MoM) (Sep) |  | 0.3% | -0.1% |
-| 13:30 | USD | Low | PPI (YoY) (Sep) |  | 2.7% | 2.6% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Sep) |  | 2.7% | 2.8% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Sep) |  | 0.2% | 0.3% |
-| 13:30 | USD | Moderate | Retail Control (MoM) (Sep) |  | 0.3% | 0.7% |
-| 13:30 | USD | High | Retail Sales (MoM) (Sep) |  | 0.4% | 0.6% |
-| 13:30 | USD | Low | Retail Sales (YoY) (Sep) |  |  | 5.00% |
-| 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Sep) |  | 0.4% | 0.7% |
-| 13:30 | CAD | Low | Corporate Profits (QoQ) |  |  | -1.7% |
-| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Oct) |  |  | 0.6% |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 6.1% |
-| 14:00 | USD | Low | House Price Index (MoM) (Sep) |  |  | 0.4% |
-| 14:00 | USD | Low | House Price Index (YoY) (Sep) |  |  | 2.3% |
-| 14:00 | USD | Low | House Price Index (Sep) |  |  | 435.3 |
-| 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Sep) |  |  | 0.2% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Sep) |  | 1.4% | 1.6% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Sep) |  |  | -0.6% |
-| 14:15 | USD | Low | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
-| 14:15 | USD | Moderate | Industrial Production (MoM) (Oct) |  |  | 0.1% |
-| 14:15 | USD | Moderate | Industrial Production (YoY) (Sep) |  |  | 0.87% |
+| 13:15 | USD | Moderate | ADP Employment Change Weekly | -13.50K |  | -2.50K |
+| 13 min | USD | Moderate | Core PPI (MoM) (Sep) |  | 0.2% | -0.1% |
+| 13 min | USD | Low | Core PPI (YoY) (Sep) |  | 2.7% | 2.8% |
+| 13 min | USD | High | Core Retail Sales (MoM) (Sep) |  | 0.3% | 0.7% |
+| 13 min | USD | High | PPI (MoM) (Sep) |  | 0.3% | -0.1% |
+| 13 min | USD | Low | PPI (YoY) (Sep) |  | 2.7% | 2.6% |
+| 13 min | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Sep) |  | 2.7% | 2.8% |
+| 13 min | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Sep) |  | 0.2% | 0.3% |
+| 13 min | USD | Moderate | Retail Control (MoM) (Sep) |  | 0.3% | 0.7% |
+| 13 min | USD | High | Retail Sales (MoM) (Sep) |  | 0.4% | 0.6% |
+| 13 min | USD | Low | Retail Sales (YoY) (Sep) |  |  | 5.00% |
+| 13 min | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Sep) |  | 0.4% | 0.7% |
+| 13 min | CAD | Low | Corporate Profits (QoQ) |  |  | -1.7% |
+| 13 min | CAD | Moderate | Wholesale Sales (MoM) (Oct) |  |  | 0.6% |
+| 38 min | USD | Low | Redbook (YoY) |  |  | 6.1% |
+| 43 min | USD | Low | House Price Index (MoM) (Sep) |  |  | 0.4% |
+| 43 min | USD | Low | House Price Index (YoY) (Sep) |  |  | 2.3% |
+| 43 min | USD | Low | House Price Index (Sep) |  |  | 435.3 |
+| 43 min | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Sep) |  |  | 0.2% |
+| 43 min | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Sep) |  | 1.4% | 1.6% |
+| 43 min | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Sep) |  |  | -0.6% |
+| 58 min | USD | Low | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
+| 58 min | USD | Moderate | Industrial Production (MoM) (Oct) |  |  | 0.1% |
+| 58 min | USD | Moderate | Industrial Production (YoY) (Sep) |  |  | 0.87% |
 | 15:00 | USD | Moderate | Business Inventories (MoM) (Aug) |  | 0.0% | 0.2% |
 | 15:00 | USD | High | CB Consumer Confidence (Nov) |  | 93.5 | 94.6 |
 | 15:00 | USD | Moderate | Pending Home Sales (MoM) (Oct) |  | 0.5% | 0.0% |
