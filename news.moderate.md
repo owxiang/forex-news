@@ -15,4 +15,4 @@
 | 16:00 | USD | Atlanta Fed GDPNow (Q4) | 4.0% | 4.2% | 4.2% |
 | 18:00 | USD | 5-Year Note Auction | 3.562% |  | 3.625% |
 | 19:00 | USD | Federal Budget Balance (Oct) | -284.0B |  | 198.0B |
-| 21:30 | USD | API Weekly Crude Oil Stock |  |  | 4.400M |
+| 23 min | USD | API Weekly Crude Oil Stock |  |  | 4.400M |

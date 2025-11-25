@@ -62,6 +62,6 @@
 | 18:00 | USD | Moderate | 5-Year Note Auction | 3.562% |  | 3.625% |
 | 18:00 | USD | Low | M2 Money Supply (MoM) (Oct) | 22.30T |  | 22.21T |
 | 19:00 | USD | Moderate | Federal Budget Balance (Oct) | -284.0B |  | 198.0B |
-| 52 min | KRW | Low | Manufacturing BSI Index |  |  | 68 |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 4.400M |
+| 23 min | USD | Moderate | API Weekly Crude Oil Stock |  |  | 4.400M |
+| 53 min | KRW | Low | Manufacturing BSI Index |  |  | 68 |
 | 23:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) |  | 2.7% | 3.0% |

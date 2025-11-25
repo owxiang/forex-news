@@ -44,5 +44,5 @@
 | 15:30 | USD | Texas Services Sector Outlook (Nov) | -2.3 |  | -9.4 |
 | 16:30 | USD | 52-Week Bill Auction | 3.460% |  | 3.445% |
 | 18:00 | USD | M2 Money Supply (MoM) (Oct) | 22.30T |  | 22.21T |
-| 52 min | KRW | Manufacturing BSI Index |  |  | 68 |
+| 53 min | KRW | Manufacturing BSI Index |  |  | 68 |
 | 23:50 | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 2.7% | 3.0% |
