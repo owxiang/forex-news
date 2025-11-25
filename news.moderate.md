@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | EUR | German GDP (YoY) (Q3) |  | 0.3% | 0.3% |
+| 49 min | EUR | German GDP (YoY) (Q3) |  | 0.3% | 0.3% |
 | 13:15 | USD | ADP Employment Change Weekly |  |  | -2.50K |
 | 13:30 | USD | Core PPI (MoM) (Sep) |  | 0.2% | -0.1% |
 | 13:30 | USD | Retail Control (MoM) (Sep) |  | 0.3% | 0.7% |

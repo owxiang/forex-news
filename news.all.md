@@ -10,9 +10,9 @@
 | 05:00 | EUR | Low | German Car Registration (MoM) (Oct) | 6.2% |  | 13.7% |
 | 05:00 | EUR | Low | French Car Registration (YoY) (Oct) | 2.9% |  | 1.0% |
 | 05:00 | EUR | Low | French Car Registration (MoM) (Oct) | -0.6% |  | 59.8% |
-| 07:00 | EUR | High | German GDP (QoQ) (Q3) |  | 0.0% | -0.2% |
-| 07:00 | EUR | Moderate | German GDP (YoY) (Q3) |  | 0.3% | 0.3% |
-| 07:00 | ZAR | Low | Leading Indicators (Sep) |  |  | 115.50% |
+| 49 min | EUR | High | German GDP (QoQ) (Q3) |  | 0.0% | -0.2% |
+| 49 min | EUR | Moderate | German GDP (YoY) (Q3) |  | 0.3% | 0.3% |
+| 49 min | ZAR | Low | Leading Indicators (Sep) |  |  | 115.50% |
 | 07:45 | EUR | Low | French Consumer Confidence (Nov) |  |  | 90 |
 | 08:00 | EUR | Low | Spanish PPI (YoY) (Oct) |  |  | 0.3% |
 | 08:30 | HKD | Low | Exports (MoM) (Oct) |  |  | 16.1% |
