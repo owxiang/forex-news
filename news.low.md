@@ -10,12 +10,12 @@
 | 05:00 | EUR | German Car Registration (MoM) (Oct) | 6.2% |  | 13.7% |
 | 05:00 | EUR | French Car Registration (YoY) (Oct) | 2.9% |  | 1.0% |
 | 05:00 | EUR | French Car Registration (MoM) (Oct) | -0.6% |  | 59.8% |
-| 07:00 | ZAR | Leading Indicators (Sep) | 114.20% |  | 115.50% |
+| 07:00 | ZAR | Leading Indicators (Sep) | 114.20% |  | 115.49% |
 | 07:45 | EUR | French Consumer Confidence (Nov) | 89 |  | 90 |
 | 08:00 | EUR | Spanish PPI (YoY) (Oct) | 0.7% |  | 0.3% |
-| 19 min | HKD | Exports (MoM) (Oct) |  |  | 16.1% |
-| 19 min | HKD | Imports (MoM) (Oct) |  |  | 13.6% |
-| 19 min | HKD | Trade Balance (Oct) |  |  | -50.2B |
+| 08:30 | HKD | Exports (MoM) (Oct) | 17.5% |  | 16.1% |
+| 08:30 | HKD | Imports (MoM) (Oct) | 18.3% |  | 13.6% |
+| 08:30 | HKD | Trade Balance (Oct) | -39.9B |  | -50.2B |
 | 10:30 | GBP | 5-Year Treasury Gilt Auction |  |  | 3.845% |
 | 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.210% |
 | 11:00 | GBP | CBI Distributive Trades Survey (Nov) |  | -29 | -27 |
