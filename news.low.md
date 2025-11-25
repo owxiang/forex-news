@@ -16,9 +16,9 @@
 | 08:30 | HKD | Exports (MoM) (Oct) | 17.5% |  | 16.1% |
 | 08:30 | HKD | Imports (MoM) (Oct) | 18.3% |  | 13.6% |
 | 08:30 | HKD | Trade Balance (Oct) | -39.9B |  | -50.2B |
-| 10:30 | GBP | 5-Year Treasury Gilt Auction |  |  | 3.845% |
-| 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.210% |
-| 11:00 | GBP | CBI Distributive Trades Survey (Nov) |  | -29 | -27 |
+| 22 min | GBP | 5-Year Treasury Gilt Auction |  |  | 3.845% |
+| 22 min | EUR | German 5-Year Bobl Auction |  |  | 2.210% |
+| 52 min | GBP | CBI Distributive Trades Survey (Nov) |  | -29 | -27 |
 | 11:30 | BRL | Current Account (USD) (Oct) |  | -4.85B | -9.77B |
 | 11:30 | BRL | Foreign direct investment (USD) (Oct) |  |  | 10.67B |
 | 12:00 | MXN | Retail Sales (YoY) (Sep) |  |  | 2.4% |
