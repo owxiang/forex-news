@@ -1,14 +1,19 @@
-## 24 November 2025 - Moderate Impact Forex News
+## 25 November 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | SGD | Core CPI (YoY) (Oct) | 1.20% |  | 0.40% |
-| 05:00 | SGD | CPI (YoY) (Oct) | 1.2% |  | 0.7% |
-| 07:30 | CHF | Employment Level (Q3) | 5.532M |  | 5.532M |
-| 09:00 | EUR | German Business Expectations (Nov) | 90.6 | 91.4 | 91.6 |
-| 09:00 | EUR | German Current Assessment (Nov) | 85.6 | 85.5 | 85.3 |
-| 09:00 | EUR | German Ifo Business Climate Index (Nov) | 88.1 | 88.6 | 88.4 |
-| 12:45 | EUR | ECB's Elderson Speaks |  |  |  |
-| 14:50 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 17:45 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 18:00 | USD | 2-Year Note Auction | 3.489% |  | 3.504% |
+| 07:00 | EUR | German GDP (YoY) (Q3) |  | 0.3% | 0.3% |
+| 13:15 | USD | ADP Employment Change Weekly |  |  | -2.50K |
+| 13:30 | USD | Core PPI (MoM) (Sep) |  | 0.3% | -0.1% |
+| 13:30 | USD | Retail Control (MoM) (Sep) |  | 0.3% | 0.7% |
+| 13:30 | CAD | Wholesale Sales (MoM) (Oct) |  |  | 0.6% |
+| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Sep) |  | 1.4% | 1.6% |
+| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Sep) |  |  | -0.6% |
+| 14:15 | USD | Industrial Production (MoM) (Oct) |  |  | 0.1% |
+| 14:15 | USD | Industrial Production (YoY) (Sep) |  |  | 0.87% |
+| 15:00 | USD | Business Inventories (MoM) (Aug) |  | 0.1% | 0.2% |
+| 15:00 | USD | Pending Home Sales (MoM) (Oct) |  |  | 0.0% |
+| 15:00 | USD | Retail Inventories Ex Auto (Aug) |  | 0.3% | 0.1% |
+| 17:00 | USD | Atlanta Fed GDPNow (Q4) |  | 4.2% | 4.2% |
+| 18:00 | USD | 5-Year Note Auction |  |  | 3.625% |
+| 21:30 | USD | API Weekly Crude Oil Stock |  |  | 4.400M |

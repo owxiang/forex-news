@@ -1,21 +1,54 @@
-## 24 November 2025 - Low Impact Forex News
+## 25 November 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | SGD | CPI (MoM) (Oct) | 0.00% |  | 0.40% |
-| 07:00 | NOK | M3 Money Supply (Oct) | 3,407.7B |  | 3,401.8B |
-| 07:00 | NOK | Credit Indicator (YoY) (Oct) | 3.9% |  | 3.9% |
-| 11:00 | BRL | FGV Consumer confidence (Nov) | 89.8 |  | 88.5 |
-| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:00 | MXN | 1st Half-Month Core CPI (Nov) | 0.04% | 0.06% | 0.18% |
-| 12:00 | MXN | 1st Half-Month CPI (Nov) | 0.47% | 0.42% | 0.28% |
-| 13:30 | CAD | Manufacturing Sales (MoM) (Oct) | -1.1% |  | 3.3% |
-| 14:00 | USD | CB Employment Trends Index (Sep) | 106.84 |  | 106.68 |
-| 14:00 | EUR | French 12-Month BTF Auction | 2.078% |  | 2.084% |
-| 14:00 | EUR | French 3-Month BTF Auction | 2.041% |  | 2.027% |
-| 14:00 | EUR | French 6-Month BTF Auction | 2.053% |  | 2.041% |
-| 14:00 | BRL | Federal Tax Revenue (Sep) | 261.90B |  | 208.79B |
-| 15:30 | USD | Dallas Fed Mfg Business Index (Nov) | -10.4 |  | -5.0 |
-| 16:30 | USD | 3-Month Bill Auction | 3.745% |  | 3.795% |
-| 16:30 | USD | 6-Month Bill Auction | 3.670% |  | 3.710% |
-| 21:00 | KRW | Consumer Confidence (Nov) | 112.4 |  | 109.8 |
+| 04:00 | SGD | GDP (QoQ) (Q3) |  | 1.3% | 1.4% |
+| 04:00 | SGD | GDP (YoY) (Q3) |  | 2.9% | 4.5% |
+| 05:00 | GBP | Car Registration (MoM) (Oct) |  |  | 277.4% |
+| 05:00 | GBP | Car Registration (YoY) (Oct) |  |  | 13.7% |
+| 05:00 | EUR | Italian Car Registration (MoM) (Oct) |  |  | 88.4% |
+| 05:00 | EUR | Italian Car Registration (YoY) (Oct) |  |  | 4.2% |
+| 05:00 | EUR | German Car Registration (YoY) (Oct) |  |  | 12.8% |
+| 05:00 | EUR | German Car Registration (MoM) (Oct) |  |  | 13.7% |
+| 05:00 | EUR | French Car Registration (MoM) (Oct) |  |  | 59.8% |
+| 05:00 | EUR | French Car Registration (YoY) (Oct) |  |  | 1.0% |
+| 07:00 | ZAR | Leading Indicators (Sep) |  |  | 115.50% |
+| 07:45 | EUR | French Consumer Confidence (Nov) |  |  | 90 |
+| 08:00 | EUR | Spanish PPI (YoY) (Oct) |  |  | 0.3% |
+| 08:30 | HKD | Exports (MoM) (Oct) |  |  | 16.1% |
+| 08:30 | HKD | Imports (MoM) (Oct) |  |  | 13.6% |
+| 08:30 | HKD | Trade Balance (Oct) |  |  | -50.2B |
+| 10:30 | GBP | 5-Year Treasury Gilt Auction |  |  | 3.845% |
+| 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.210% |
+| 11:00 | GBP | CBI Distributive Trades Survey (Nov) |  | -30 | -27 |
+| 11:30 | BRL | Current Account (USD) (Oct) |  | -4.85B | -9.77B |
+| 11:30 | BRL | Foreign direct investment (USD) (Oct) |  |  | 10.67B |
+| 12:00 | MXN | Retail Sales (YoY) (Sep) |  |  | 2.4% |
+| 12:00 | MXN | Retail Sales (MoM) (Sep) |  |  | 0.6% |
+| 12:00 | EUR | Spanish Consumer Confidence (Oct) |  |  | 81.5 |
+| 13:30 | USD | Core PPI (YoY) (Sep) |  | 2.7% | 2.8% |
+| 13:30 | USD | PPI (YoY) (Sep) |  | 2.7% | 2.6% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Sep) |  | 0.2% | 0.3% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Sep) |  | 2.7% | 2.8% |
+| 13:30 | USD | Retail Sales (YoY) (Sep) |  |  | 5.00% |
+| 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Sep) |  | 0.4% | 0.7% |
+| 13:30 | CAD | Corporate Profits (QoQ) |  |  | -1.7% |
+| 13:55 | USD | Redbook (YoY) |  |  | 6.1% |
+| 14:00 | USD | House Price Index (MoM) (Sep) |  |  | 0.4% |
+| 14:00 | USD | House Price Index (YoY) (Sep) |  |  | 2.3% |
+| 14:00 | USD | House Price Index (Sep) |  |  | 435.3 |
+| 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Sep) |  |  | 0.2% |
+| 14:15 | USD | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
+| 15:00 | USD | Pending Home Sales Index (Oct) |  |  | 74.8 |
+| 15:00 | USD | Richmond Manufacturing Index (Nov) |  | -2 | -4 |
+| 15:00 | USD | Richmond Manufacturing Shipments (Nov) |  |  | 4 |
+| 15:00 | USD | Richmond Services Index (Nov) |  |  | 4 |
+| 15:00 | MXN | Current Account (USD) (Q3) |  |  | 206M |
+| 15:00 | MXN | Current Account % of GDP (Q3) |  |  | 0.00% |
+| 15:30 | USD | Dallas Fed Services Revenues (Nov) |  |  | -6.4 |
+| 15:30 | USD | Texas Services Sector Outlook (Nov) |  |  | -9.4 |
+| 16:30 | USD | 52-Week Bill Auction |  |  | 3.445% |
+| 16:30 | USD | Chicago Fed National Activity (Oct) |  |  | -0.12 |
+| 18:00 | USD | M2 Money Supply (MoM) (Oct) |  |  | 22.21T |
+| 21:00 | KRW | Manufacturing BSI Index |  |  | 68 |
+| 23:50 | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 2.7% | 3.0% |
