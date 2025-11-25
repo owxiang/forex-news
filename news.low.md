@@ -42,8 +42,7 @@
 | 15:00 | MXN | Current Account % of GDP (Q3) | 0.50% |  | 0.00% |
 | 15:30 | USD | Dallas Fed Services Revenues (Nov) | -2.5 |  | -6.4 |
 | 15:30 | USD | Texas Services Sector Outlook (Nov) | -2.3 |  | -9.4 |
-| 21 min | USD | 52-Week Bill Auction |  |  | 3.445% |
-| 21 min | USD | Chicago Fed National Activity (Oct) |  |  | -0.12 |
-| 18:00 | USD | M2 Money Supply (MoM) (Oct) |  |  | 22.21T |
+| 16:30 | USD | 52-Week Bill Auction | 3.460% |  | 3.445% |
+| 52 min | USD | M2 Money Supply (MoM) (Oct) |  |  | 22.21T |
 | 21:00 | KRW | Manufacturing BSI Index |  |  | 68 |
 | 23:50 | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 2.7% | 3.0% |

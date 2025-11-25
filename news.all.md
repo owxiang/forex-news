@@ -57,11 +57,11 @@
 | 15:00 | MXN | Low | Current Account % of GDP (Q3) | 0.50% |  | 0.00% |
 | 15:30 | USD | Low | Dallas Fed Services Revenues (Nov) | -2.5 |  | -6.4 |
 | 15:30 | USD | Low | Texas Services Sector Outlook (Nov) | -2.3 |  | -9.4 |
-| 21 min | USD | Low | 52-Week Bill Auction |  |  | 3.445% |
-| 21 min | USD | Low | Chicago Fed National Activity (Oct) |  |  | -0.12 |
-| 51 min | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 4.2% | 4.2% |
-| 18:00 | USD | Moderate | 5-Year Note Auction |  |  | 3.625% |
-| 18:00 | USD | Low | M2 Money Supply (MoM) (Oct) |  |  | 22.21T |
+| 16:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 4.0% | 4.2% | 4.2% |
+| 16:30 | USD | Low | 52-Week Bill Auction | 3.460% |  | 3.445% |
+| 52 min | USD | Moderate | 5-Year Note Auction |  |  | 3.625% |
+| 52 min | USD | Low | M2 Money Supply (MoM) (Oct) |  |  | 22.21T |
+| 19:00 | USD | Moderate | Federal Budget Balance (Oct) |  |  | 198.0B |
 | 21:00 | KRW | Low | Manufacturing BSI Index |  |  | 68 |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 4.400M |
 | 23:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) |  | 2.7% | 3.0% |
