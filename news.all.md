@@ -2,16 +2,14 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 04:00 | SGD | Low | GDP (QoQ) (Q3) |  | 1.3% | 1.4% |
-| 04:00 | SGD | Low | GDP (YoY) (Q3) |  | 2.9% | 4.5% |
-| 05:00 | GBP | Low | Car Registration (MoM) (Oct) |  |  | 277.4% |
 | 05:00 | GBP | Low | Car Registration (YoY) (Oct) |  |  | 13.7% |
+| 05:00 | GBP | Low | Car Registration (MoM) (Oct) |  |  | 277.4% |
 | 05:00 | EUR | Low | Italian Car Registration (MoM) (Oct) |  |  | 88.4% |
 | 05:00 | EUR | Low | Italian Car Registration (YoY) (Oct) |  |  | 4.2% |
 | 05:00 | EUR | Low | German Car Registration (YoY) (Oct) |  |  | 12.8% |
 | 05:00 | EUR | Low | German Car Registration (MoM) (Oct) |  |  | 13.7% |
-| 05:00 | EUR | Low | French Car Registration (MoM) (Oct) |  |  | 59.8% |
 | 05:00 | EUR | Low | French Car Registration (YoY) (Oct) |  |  | 1.0% |
+| 05:00 | EUR | Low | French Car Registration (MoM) (Oct) |  |  | 59.8% |
 | 07:00 | EUR | High | German GDP (QoQ) (Q3) |  | 0.0% | -0.2% |
 | 07:00 | EUR | Moderate | German GDP (YoY) (Q3) |  | 0.3% | 0.3% |
 | 07:00 | ZAR | Low | Leading Indicators (Sep) |  |  | 115.50% |
@@ -34,11 +32,11 @@
 | 13:30 | USD | High | Core Retail Sales (MoM) (Sep) |  |  | 0.7% |
 | 13:30 | USD | High | PPI (MoM) (Sep) |  | 0.3% | -0.1% |
 | 13:30 | USD | Low | PPI (YoY) (Sep) |  | 2.7% | 2.6% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Sep) |  | 0.2% | 0.3% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Sep) |  | 2.7% | 2.8% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Sep) |  | 0.2% | 0.3% |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Sep) |  | 0.3% | 0.7% |
-| 13:30 | USD | Low | Retail Sales (YoY) (Sep) |  |  | 5.00% |
 | 13:30 | USD | High | Retail Sales (MoM) (Sep) |  | 0.4% | 0.6% |
+| 13:30 | USD | Low | Retail Sales (YoY) (Sep) |  |  | 5.00% |
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Sep) |  | 0.4% | 0.7% |
 | 13:30 | CAD | Low | Corporate Profits (QoQ) |  |  | -1.7% |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Oct) |  |  | 0.6% |

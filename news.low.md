@@ -2,16 +2,14 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 04:00 | SGD | GDP (QoQ) (Q3) |  | 1.3% | 1.4% |
-| 04:00 | SGD | GDP (YoY) (Q3) |  | 2.9% | 4.5% |
-| 05:00 | GBP | Car Registration (MoM) (Oct) |  |  | 277.4% |
 | 05:00 | GBP | Car Registration (YoY) (Oct) |  |  | 13.7% |
+| 05:00 | GBP | Car Registration (MoM) (Oct) |  |  | 277.4% |
 | 05:00 | EUR | Italian Car Registration (MoM) (Oct) |  |  | 88.4% |
 | 05:00 | EUR | Italian Car Registration (YoY) (Oct) |  |  | 4.2% |
 | 05:00 | EUR | German Car Registration (YoY) (Oct) |  |  | 12.8% |
 | 05:00 | EUR | German Car Registration (MoM) (Oct) |  |  | 13.7% |
-| 05:00 | EUR | French Car Registration (MoM) (Oct) |  |  | 59.8% |
 | 05:00 | EUR | French Car Registration (YoY) (Oct) |  |  | 1.0% |
+| 05:00 | EUR | French Car Registration (MoM) (Oct) |  |  | 59.8% |
 | 07:00 | ZAR | Leading Indicators (Sep) |  |  | 115.50% |
 | 07:45 | EUR | French Consumer Confidence (Nov) |  |  | 90 |
 | 08:00 | EUR | Spanish PPI (YoY) (Oct) |  |  | 0.3% |
@@ -28,8 +26,8 @@
 | 12:00 | EUR | Spanish Consumer Confidence (Oct) |  |  | 81.5 |
 | 13:30 | USD | Core PPI (YoY) (Sep) |  | 2.7% | 2.8% |
 | 13:30 | USD | PPI (YoY) (Sep) |  | 2.7% | 2.6% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Sep) |  | 0.2% | 0.3% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Sep) |  | 2.7% | 2.8% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Sep) |  | 0.2% | 0.3% |
 | 13:30 | USD | Retail Sales (YoY) (Sep) |  |  | 5.00% |
 | 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Sep) |  | 0.4% | 0.7% |
 | 13:30 | CAD | Corporate Profits (QoQ) |  |  | -1.7% |
