@@ -13,11 +13,11 @@
 | 07:00 | EUR | High | German GDP (QoQ) (Q3) | 0.0% | 0.0% | -0.2% |
 | 07:00 | EUR | Moderate | German GDP (YoY) (Q3) | 0.3% | 0.3% | 0.3% |
 | 07:00 | ZAR | Low | Leading Indicators (Sep) | 114.20% |  | 115.50% |
-| 37 min | EUR | Low | French Consumer Confidence (Nov) |  |  | 90 |
-| 52 min | EUR | Low | Spanish PPI (YoY) (Oct) |  |  | 0.3% |
-| 08:30 | HKD | Low | Exports (MoM) (Oct) |  |  | 16.1% |
-| 08:30 | HKD | Low | Imports (MoM) (Oct) |  |  | 13.6% |
-| 08:30 | HKD | Low | Trade Balance (Oct) |  |  | -50.2B |
+| 07:45 | EUR | Low | French Consumer Confidence (Nov) | 89 |  | 90 |
+| 08:00 | EUR | Low | Spanish PPI (YoY) (Oct) | 0.7% |  | 0.3% |
+| 19 min | HKD | Low | Exports (MoM) (Oct) |  |  | 16.1% |
+| 19 min | HKD | Low | Imports (MoM) (Oct) |  |  | 13.6% |
+| 19 min | HKD | Low | Trade Balance (Oct) |  |  | -50.2B |
 | 10:30 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 3.845% |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.210% |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Nov) |  | -29 | -27 |
