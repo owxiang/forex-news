@@ -10,9 +10,9 @@
 | 05:00 | EUR | German Car Registration (MoM) (Oct) | 6.2% |  | 13.7% |
 | 05:00 | EUR | French Car Registration (YoY) (Oct) | 2.9% |  | 1.0% |
 | 05:00 | EUR | French Car Registration (MoM) (Oct) | -0.6% |  | 59.8% |
-| 49 min | ZAR | Leading Indicators (Sep) |  |  | 115.50% |
-| 07:45 | EUR | French Consumer Confidence (Nov) |  |  | 90 |
-| 08:00 | EUR | Spanish PPI (YoY) (Oct) |  |  | 0.3% |
+| 07:00 | ZAR | Leading Indicators (Sep) | 114.20% |  | 115.50% |
+| 37 min | EUR | French Consumer Confidence (Nov) |  |  | 90 |
+| 52 min | EUR | Spanish PPI (YoY) (Oct) |  |  | 0.3% |
 | 08:30 | HKD | Exports (MoM) (Oct) |  |  | 16.1% |
 | 08:30 | HKD | Imports (MoM) (Oct) |  |  | 13.6% |
 | 08:30 | HKD | Trade Balance (Oct) |  |  | -50.2B |
