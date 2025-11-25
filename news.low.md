@@ -2,14 +2,14 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 49 min | GBP | Car Registration (YoY) (Oct) |  |  | 13.7% |
-| 49 min | GBP | Car Registration (MoM) (Oct) |  |  | 277.4% |
-| 49 min | EUR | Italian Car Registration (MoM) (Oct) |  |  | 88.4% |
-| 49 min | EUR | Italian Car Registration (YoY) (Oct) |  |  | 4.2% |
-| 49 min | EUR | German Car Registration (YoY) (Oct) |  |  | 12.8% |
-| 49 min | EUR | German Car Registration (MoM) (Oct) |  |  | 13.7% |
-| 49 min | EUR | French Car Registration (YoY) (Oct) |  |  | 1.0% |
-| 49 min | EUR | French Car Registration (MoM) (Oct) |  |  | 59.8% |
+| 05:00 | GBP | Car Registration (YoY) (Oct) | 0.5% |  | 13.7% |
+| 05:00 | GBP | Car Registration (MoM) (Oct) | -53.7% |  | 277.4% |
+| 05:00 | EUR | Italian Car Registration (MoM) (Oct) | -0.7% |  | 88.4% |
+| 05:00 | EUR | Italian Car Registration (YoY) (Oct) | -0.5% |  | 4.2% |
+| 05:00 | EUR | German Car Registration (YoY) (Oct) | 7.8% |  | 12.8% |
+| 05:00 | EUR | German Car Registration (MoM) (Oct) | 6.2% |  | 13.7% |
+| 05:00 | EUR | French Car Registration (YoY) (Oct) | 2.9% |  | 1.0% |
+| 05:00 | EUR | French Car Registration (MoM) (Oct) | -0.6% |  | 59.8% |
 | 07:00 | ZAR | Leading Indicators (Sep) |  |  | 115.50% |
 | 07:45 | EUR | French Consumer Confidence (Nov) |  |  | 90 |
 | 08:00 | EUR | Spanish PPI (YoY) (Oct) |  |  | 0.3% |
@@ -18,7 +18,7 @@
 | 08:30 | HKD | Trade Balance (Oct) |  |  | -50.2B |
 | 10:30 | GBP | 5-Year Treasury Gilt Auction |  |  | 3.845% |
 | 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.210% |
-| 11:00 | GBP | CBI Distributive Trades Survey (Nov) |  | -30 | -27 |
+| 11:00 | GBP | CBI Distributive Trades Survey (Nov) |  | -29 | -27 |
 | 11:30 | BRL | Current Account (USD) (Oct) |  | -4.85B | -9.77B |
 | 11:30 | BRL | Foreign direct investment (USD) (Oct) |  |  | 10.67B |
 | 12:00 | MXN | Retail Sales (YoY) (Sep) |  |  | 2.4% |
@@ -38,7 +38,7 @@
 | 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Sep) |  |  | 0.2% |
 | 14:15 | USD | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
 | 15:00 | USD | Pending Home Sales Index (Oct) |  |  | 74.8 |
-| 15:00 | USD | Richmond Manufacturing Index (Nov) |  | -2 | -4 |
+| 15:00 | USD | Richmond Manufacturing Index (Nov) |  | -5 | -4 |
 | 15:00 | USD | Richmond Manufacturing Shipments (Nov) |  |  | 4 |
 | 15:00 | USD | Richmond Services Index (Nov) |  |  | 4 |
 | 15:00 | MXN | Current Account (USD) (Q3) |  |  | 206M |
