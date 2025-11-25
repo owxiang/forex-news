@@ -21,11 +21,10 @@
 | 10:30 | GBP | Low | 5-Year Treasury Gilt Auction | 4.088% |  | 4.004% |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction | 2.270% |  | 2.210% |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Nov) | -32 | -29 | -27 |
-| 24 min | BRL | Low | Current Account (USD) (Oct) |  | -4.85B | -9.77B |
-| 24 min | BRL | Low | Foreign direct investment (USD) (Oct) |  |  | 10.67B |
-| 54 min | MXN | Low | Retail Sales (YoY) (Sep) |  |  | 2.4% |
-| 54 min | MXN | Low | Retail Sales (MoM) (Sep) |  |  | 0.6% |
-| 54 min | EUR | Low | Spanish Consumer Confidence (Oct) |  |  | 81.5 |
+| 11:30 | BRL | Low | Current Account (USD) (Oct) | -5.12B | -4.85B | -9.77B |
+| 11:30 | BRL | Low | Foreign direct investment (USD) (Oct) | 10.94B |  | 10.67B |
+| 12:00 | MXN | Low | Retail Sales (YoY) (Sep) | 3.3% |  | 2.4% |
+| 12:00 | MXN | Low | Retail Sales (MoM) (Sep) | 0.0% |  | 0.6% |
 | 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | -2.50K |
 | 13:30 | USD | Moderate | Core PPI (MoM) (Sep) |  | 0.2% | -0.1% |
 | 13:30 | USD | Low | Core PPI (YoY) (Sep) |  | 2.7% | 2.8% |
