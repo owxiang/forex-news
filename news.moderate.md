@@ -12,6 +12,6 @@
 | 15:00 | USD | Business Inventories (MoM) (Aug) | 0.0% | 0.0% | 0.1% |
 | 15:00 | USD | Pending Home Sales (MoM) (Oct) | 1.9% | 0.5% | 0.1% |
 | 15:00 | USD | Retail Inventories Ex Auto (Aug) | 0.0% | 0.3% | 0.1% |
-| 17:00 | USD | Atlanta Fed GDPNow (Q4) |  | 4.2% | 4.2% |
+| 51 min | USD | Atlanta Fed GDPNow (Q4) |  | 4.2% | 4.2% |
 | 18:00 | USD | 5-Year Note Auction |  |  | 3.625% |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | 4.400M |

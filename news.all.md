@@ -53,13 +53,13 @@
 | 15:00 | USD | Low | Richmond Manufacturing Index (Nov) | -15 | -5 | -4 |
 | 15:00 | USD | Low | Richmond Manufacturing Shipments (Nov) | -14 |  | 4 |
 | 15:00 | USD | Low | Richmond Services Index (Nov) | -4 |  | 4 |
-| 15:00 | MXN | Low | Current Account (USD) (Q3) | 2,325M |  | 206M |
+| 15:00 | MXN | Low | Current Account (USD) (Q3) | 2,325M |  | -1,791M |
 | 15:00 | MXN | Low | Current Account % of GDP (Q3) | 0.50% |  | 0.00% |
-| 22 min | USD | Low | Dallas Fed Services Revenues (Nov) |  |  | -6.4 |
-| 22 min | USD | Low | Texas Services Sector Outlook (Nov) |  |  | -9.4 |
-| 16:30 | USD | Low | 52-Week Bill Auction |  |  | 3.445% |
-| 16:30 | USD | Low | Chicago Fed National Activity (Oct) |  |  | -0.12 |
-| 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 4.2% | 4.2% |
+| 15:30 | USD | Low | Dallas Fed Services Revenues (Nov) | -2.5 |  | -6.4 |
+| 15:30 | USD | Low | Texas Services Sector Outlook (Nov) | -2.3 |  | -9.4 |
+| 21 min | USD | Low | 52-Week Bill Auction |  |  | 3.445% |
+| 21 min | USD | Low | Chicago Fed National Activity (Oct) |  |  | -0.12 |
+| 51 min | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 4.2% | 4.2% |
 | 18:00 | USD | Moderate | 5-Year Note Auction |  |  | 3.625% |
 | 18:00 | USD | Low | M2 Money Supply (MoM) (Oct) |  |  | 22.21T |
 | 21:00 | KRW | Low | Manufacturing BSI Index |  |  | 68 |
