@@ -22,9 +22,9 @@
 | 07:00 | NOK | Low | GDP Mainland (QoQ) (Q3) | 0.1% | 0.2% | 0.6% |
 | 09:00 | CHF | Low | ZEW Expectations (Nov) | 12.2 |  | -7.7 |
 | 09:00 | EUR | Moderate | ECB Financial Stability Review |  |  |  |
-| 11 min | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 10:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 1.974% |
-| 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.620% |
+| 09:20 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 2 min | EUR | Low | Italian 6-Month BOT Auction |  |  | 1.974% |
+| 22 min | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.620% |
 | 11:30 | INR | Low | M3 Money Supply |  |  | 9.3% |
 | 11:30 | BRL | Low | Bank lending (MoM) (Oct) |  |  | 1.1% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.37% |
