@@ -11,7 +11,7 @@
 | 05:00 | JPY | BoJ Core CPI (YoY) | 2.2% | 2.2% | 2.1% |
 | 09:00 | EUR | ECB Financial Stability Review |  |  |  |
 | 09:20 | EUR | German Buba Mauderer Speaks |  |  |  |
-| 22 min | EUR | German 10-Year Bund Auction |  |  | 2.620% |
+| 10:50 | EUR | German 10-Year Bund Auction | 2.670% |  | 2.620% |
 | 13:30 | USD | Building Permits (Sep) |  | 1.340M | 1.330M |
 | 13:30 | USD | Continuing Jobless Claims |  |  | 1,974K |
 | 13:30 | USD | Core Durable Goods Orders (MoM) (Sep) |  |  | 0.3% |

@@ -13,17 +13,17 @@
 | 07:00 | NOK | GDP (QoQ) (Q3) | 1.1% |  | 0.8% |
 | 07:00 | NOK | GDP Mainland (QoQ) (Q3) | 0.1% | 0.2% | 0.6% |
 | 09:00 | CHF | ZEW Expectations (Nov) | 12.2 |  | -7.7 |
-| 2 min | EUR | Italian 6-Month BOT Auction |  |  | 1.974% |
-| 11:30 | INR | M3 Money Supply |  |  | 9.3% |
-| 11:30 | BRL | Bank lending (MoM) (Oct) |  |  | 1.1% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.37% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -5.2% |
-| 12:00 | USD | MBA Purchase Index |  |  | 168.7 |
-| 12:00 | USD | Mortgage Market Index |  |  | 316.9 |
-| 12:00 | USD | Mortgage Refinance Index |  |  | 1,156.8 |
-| 12:00 | EUR | Spanish Consumer Confidence (Oct) |  |  | 81.5 |
-| 12:00 | BRL | Mid-Month CPI (MoM) (Nov) |  | 0.18% | 0.18% |
-| 12:00 | BRL | Mid-Month CPI (YoY) (Nov) |  | 4.49% | 4.94% |
+| 10:10 | EUR | Italian 6-Month BOT Auction | 2.036% |  | 1.974% |
+| 22 min | INR | M3 Money Supply |  |  | 9.3% |
+| 22 min | BRL | Bank lending (MoM) (Oct) |  |  | 1.1% |
+| 52 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.37% |
+| 52 min | USD | MBA Mortgage Applications (WoW) |  |  | -5.2% |
+| 52 min | USD | MBA Purchase Index |  |  | 168.7 |
+| 52 min | USD | Mortgage Market Index |  |  | 316.9 |
+| 52 min | USD | Mortgage Refinance Index |  |  | 1,156.8 |
+| 52 min | EUR | Spanish Consumer Confidence (Oct) |  |  | 81.5 |
+| 52 min | BRL | Mid-Month CPI (MoM) (Nov) |  | 0.18% | 0.18% |
+| 52 min | BRL | Mid-Month CPI (YoY) (Nov) |  | 4.49% | 4.94% |
 | 13:30 | USD | Building Permits (MoM) (Sep) |  |  | -2.3% |
 | 13:30 | USD | Corporate Profits (QoQ) (Q3) |  |  | 0.2% |
 | 13:30 | USD | Durables Excluding Defense (MoM) (Sep) |  | 1.9% | 1.9% |
@@ -38,11 +38,11 @@
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.259M |
 | 15:30 | USD | Crude Oil Imports |  |  | -0.614M |
 | 15:30 | USD | Distillate Fuel Production |  |  | -0.117M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | 0.171M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  | 0.600M | 0.171M |
 | 15:30 | USD | Gasoline Production |  |  | -0.662M |
 | 15:30 | USD | Heating Oil Stockpiles |  |  | -0.494M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.6% |
-| 15:30 | USD | Gasoline Inventories |  |  | 2.327M |
+| 15:30 | USD | Gasoline Inventories |  | 0.700M | 2.327M |
 | 15:30 | USD | Natural Gas Storage |  | -5B | -14B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.890% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 3.850% |
