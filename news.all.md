@@ -18,12 +18,10 @@
 | 05:00 | JPY | Low | Leading Index (Sep) | 108.6 | 108.0 | 107.0 |
 | 05:00 | SGD | Low | Industrial Production (YoY) (Oct) | 29.1% | 9.5% | 16.2% |
 | 05:00 | SGD | Low | Industrial Production (MoM) (Oct) | 11.5% | -3.5% | 26.4% |
-| 07:00 | JPY | Low | Coincident Indicator (MoM) (Sep) |  | 1.8% | -1.3% |
-| 07:00 | JPY | Low | Leading Index (MoM) (Sep) |  | 1.0% | 0.9% |
 | 07:00 | NOK | Low | GDP (QoQ) (Q3) | 1.1% |  | 0.8% |
 | 07:00 | NOK | Low | GDP Mainland (QoQ) (Q3) | 0.1% | 0.2% | 0.6% |
-| 09:00 | CHF | Low | ZEW Expectations (Nov) |  |  | -7.7 |
-| 09:00 | EUR | Moderate | ECB Financial Stability Review |  |  |  |
+| 50 min | CHF | Low | ZEW Expectations (Nov) |  |  | -7.7 |
+| 50 min | EUR | Moderate | ECB Financial Stability Review |  |  |  |
 | 09:20 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 10:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 1.974% |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.620% |
@@ -38,8 +36,8 @@
 | 12:00 | BRL | Low | Mid-Month CPI (MoM) (Nov) |  | 0.18% | 0.18% |
 | 12:00 | BRL | Low | Mid-Month CPI (YoY) (Nov) |  | 4.49% | 4.94% |
 | 12:30 | GBP | High | Autumn Forecast Statement |  |  |  |
-| 13:30 | USD | Low | Building Permits (MoM) (Sep) |  |  | -2.3% |
 | 13:30 | USD | Moderate | Building Permits (Sep) |  | 1.340M | 1.330M |
+| 13:30 | USD | Low | Building Permits (MoM) (Sep) |  |  | -2.3% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,974K |
 | 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Sep) |  |  | 0.3% |
 | 13:30 | USD | Low | Corporate Profits (QoQ) (Q3) |  |  | 0.2% |
