@@ -9,8 +9,8 @@
 | 01:00 | NZD | RBNZ Rate Statement |  |  |  |
 | 02:00 | NZD | RBNZ Press Conference |  |  |  |
 | 05:00 | JPY | BoJ Core CPI (YoY) | 2.2% | 2.2% | 2.1% |
-| 50 min | EUR | ECB Financial Stability Review |  |  |  |
-| 09:20 | EUR | German Buba Mauderer Speaks |  |  |  |
+| 09:00 | EUR | ECB Financial Stability Review |  |  |  |
+| 11 min | EUR | German Buba Mauderer Speaks |  |  |  |
 | 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.620% |
 | 13:30 | USD | Building Permits (Sep) |  | 1.340M | 1.330M |
 | 13:30 | USD | Continuing Jobless Claims |  |  | 1,974K |

@@ -12,7 +12,7 @@
 | 05:00 | SGD | Industrial Production (MoM) (Oct) | 11.5% | -3.5% | 26.4% |
 | 07:00 | NOK | GDP (QoQ) (Q3) | 1.1% |  | 0.8% |
 | 07:00 | NOK | GDP Mainland (QoQ) (Q3) | 0.1% | 0.2% | 0.6% |
-| 50 min | CHF | ZEW Expectations (Nov) |  |  | -7.7 |
+| 09:00 | CHF | ZEW Expectations (Nov) | 12.2 |  | -7.7 |
 | 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 1.974% |
 | 11:30 | INR | M3 Money Supply |  |  | 9.3% |
 | 11:30 | BRL | Bank lending (MoM) (Oct) |  |  | 1.1% |
