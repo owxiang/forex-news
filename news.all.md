@@ -25,17 +25,17 @@
 | 09:20 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 10:10 | EUR | Low | Italian 6-Month BOT Auction | 2.036% |  | 1.974% |
 | 10:50 | EUR | Moderate | German 10-Year Bund Auction | 2.670% |  | 2.620% |
-| 22 min | INR | Low | M3 Money Supply |  |  | 9.3% |
-| 22 min | BRL | Low | Bank lending (MoM) (Oct) |  |  | 1.1% |
-| 52 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.37% |
-| 52 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -5.2% |
-| 52 min | USD | Low | MBA Purchase Index |  |  | 168.7 |
-| 52 min | USD | Low | Mortgage Market Index |  |  | 316.9 |
-| 52 min | USD | Low | Mortgage Refinance Index |  |  | 1,156.8 |
-| 52 min | EUR | Low | Spanish Consumer Confidence (Oct) |  |  | 81.5 |
-| 52 min | BRL | Low | Mid-Month CPI (MoM) (Nov) |  | 0.18% | 0.18% |
-| 52 min | BRL | Low | Mid-Month CPI (YoY) (Nov) |  | 4.49% | 4.94% |
-| 12:30 | GBP | High | Autumn Forecast Statement |  |  |  |
+| 11:30 | INR | Low | M3 Money Supply | 9.8% |  | 9.6% |
+| 11:30 | BRL | Low | Bank lending (MoM) (Oct) | 0.9% |  | 1.1% |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.40% |  | 6.37% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | 0.2% |  | -5.2% |
+| 12:00 | USD | Low | MBA Purchase Index | 181.6 |  | 168.7 |
+| 12:00 | USD | Low | Mortgage Market Index | 317.6 |  | 316.9 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 1,090.4 |  | 1,156.8 |
+| 12:00 | EUR | Low | Spanish Consumer Confidence (Oct) |  |  | 81.5 |
+| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Nov) | 0.20% | 0.18% | 0.18% |
+| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Nov) | 4.50% | 4.49% | 4.94% |
+| 17 min | GBP | High | Autumn Forecast Statement |  |  |  |
 | 13:30 | USD | Moderate | Building Permits (Sep) |  | 1.340M | 1.330M |
 | 13:30 | USD | Low | Building Permits (MoM) (Sep) |  |  | -2.3% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,974K |
