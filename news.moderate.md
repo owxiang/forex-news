@@ -12,11 +12,11 @@
 | 09:00 | EUR | ECB Financial Stability Review |  |  |  |
 | 09:20 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 10:50 | EUR | German 10-Year Bund Auction | 2.670% |  | 2.620% |
-| 13:30 | USD | Building Permits (Sep) |  | 1.340M | 1.330M |
-| 13:30 | USD | Continuing Jobless Claims |  |  | 1,974K |
-| 13:30 | USD | Core Durable Goods Orders (MoM) (Sep) |  |  | 0.3% |
-| 13:30 | USD | Goods Trade Balance (Sep) |  | -90.00B | -85.50B |
-| 13:30 | USD | Retail Inventories Ex Auto (Sep) |  | 0.3% | 0.1% |
+| 12 min | USD | Building Permits (Sep) |  | 1.340M | 1.330M |
+| 12 min | USD | Continuing Jobless Claims |  |  | 1,974K |
+| 12 min | USD | Core Durable Goods Orders (MoM) (Sep) |  |  | 0.3% |
+| 12 min | USD | Goods Trade Balance (Sep) |  | -90.00B | -85.50B |
+| 12 min | USD | Retail Inventories Ex Auto (Sep) |  | 0.3% | 0.1% |
 | 15:00 | USD | New Home Sales (MoM) (Sep) |  |  | 20.5% |
 | 15:00 | USD | Personal Spending (MoM) (Sep) |  | 0.4% | 0.6% |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.698M |
