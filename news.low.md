@@ -26,18 +26,18 @@
 | 13:30 | USD | Durables Excluding Defense (MoM) (Sep) | 0.1% | 1.9% | 1.9% |
 | 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Sep) | 0.9% |  | 0.9% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 223.75K |  | 224.75K |
-| 23 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.259M |
-| 23 min | USD | Crude Oil Imports |  |  | -0.614M |
-| 23 min | USD | Distillate Fuel Production |  |  | -0.117M |
-| 23 min | USD | EIA Weekly Distillates Stocks |  | 0.600M | 0.171M |
-| 23 min | USD | Gasoline Production |  |  | -0.662M |
-| 23 min | USD | Heating Oil Stockpiles |  |  | -0.494M |
-| 23 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.6% |
-| 23 min | USD | Gasoline Inventories |  | 0.700M | 2.327M |
-| 16:30 | USD | 4-Week Bill Auction |  |  | 3.890% |
-| 16:30 | USD | 8-Week Bill Auction |  |  | 3.850% |
-| 16:30 | USD | Chicago Fed National Activity (Oct) |  |  | -0.12 |
-| 17:00 | USD | Natural Gas Storage |  | -5B | -14B |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) | 0.211M |  | 0.259M |
+| 15:30 | USD | Crude Oil Imports | 1.046M |  | -0.614M |
+| 15:30 | USD | Distillate Fuel Production | 0.087M |  | -0.117M |
+| 15:30 | USD | EIA Weekly Distillates Stocks | 1.147M | 0.600M | 0.171M |
+| 15:30 | USD | Gasoline Production | 0.286M |  | -0.662M |
+| 15:30 | USD | Heating Oil Stockpiles | 0.057M |  | -0.494M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 2.3% |  | 0.6% |
+| 15:30 | USD | Gasoline Inventories | 2.513M | 0.700M | 2.327M |
+| 22 min | USD | 4-Week Bill Auction |  |  | 3.890% |
+| 22 min | USD | 8-Week Bill Auction |  |  | 3.850% |
+| 22 min | USD | Chicago Fed National Activity (Oct) |  |  | -0.12 |
+| 52 min | USD | Natural Gas Storage |  | -5B | -14B |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | -1.219B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.918T |
 | 21:45 | NZD | Retail Sales Quarterly Vs. Year Ago (Q3) |  |  | 2.3% |

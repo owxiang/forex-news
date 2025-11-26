@@ -14,10 +14,10 @@
 | 10:50 | EUR | German 10-Year Bund Auction | 2.670% |  | 2.620% |
 | 13:30 | USD | Continuing Jobless Claims | 1,960K |  | 1,953K |
 | 13:30 | USD | Core Durable Goods Orders (MoM) (Sep) | 0.6% |  | 0.5% |
-| 23 min | USD | Cushing Crude Oil Inventories |  |  | -0.698M |
-| 58 min | EUR | ECB's Lane Speaks |  |  |  |
-| 16:30 | USD | Atlanta Fed GDPNow (Q4) |  | 4.0% | 4.0% |
-| 17:00 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 15:30 | USD | Cushing Crude Oil Inventories | -0.068M |  | -0.698M |
+| 16:05 | EUR | ECB's Lane Speaks |  |  |  |
+| 22 min | USD | Atlanta Fed GDPNow (Q4) |  | 4.0% | 4.0% |
+| 52 min | EUR | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | 7-Year Note Auction |  |  | 3.790% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 419 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 554 |

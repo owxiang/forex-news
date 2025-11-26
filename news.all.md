@@ -42,24 +42,24 @@
 | 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Sep) | 0.9% |  | 0.9% |
 | 13:30 | USD | High | Initial Jobless Claims | 216K | 226K | 222K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 223.75K |  | 224.75K |
-| 14:30 | USD | High | Chicago PMI (Nov) | 36.3 | 44.3 | 43.8 |
-| 23 min | USD | High | Crude Oil Inventories |  | -1.300M | -3.426M |
-| 23 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.259M |
-| 23 min | USD | Low | Crude Oil Imports |  |  | -0.614M |
-| 23 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.698M |
-| 23 min | USD | Low | Distillate Fuel Production |  |  | -0.117M |
-| 23 min | USD | Low | EIA Weekly Distillates Stocks |  | 0.600M | 0.171M |
-| 23 min | USD | Low | Gasoline Production |  |  | -0.662M |
-| 23 min | USD | Low | Heating Oil Stockpiles |  |  | -0.494M |
-| 23 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.6% |
-| 23 min | USD | Low | Gasoline Inventories |  | 0.700M | 2.327M |
-| 58 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.890% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.850% |
-| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 4.0% | 4.0% |
-| 16:30 | USD | Low | Chicago Fed National Activity (Oct) |  |  | -0.12 |
-| 17:00 | USD | Low | Natural Gas Storage |  | -5B | -14B |
-| 17:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 14:45 | USD | High | Chicago PMI (Nov) | 36.3 | 44.3 | 43.8 |
+| 15:30 | USD | High | Crude Oil Inventories | 2.774M | -1.300M | -3.426M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.211M |  | 0.259M |
+| 15:30 | USD | Low | Crude Oil Imports | 1.046M |  | -0.614M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | -0.068M |  | -0.698M |
+| 15:30 | USD | Low | Distillate Fuel Production | 0.087M |  | -0.117M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks | 1.147M | 0.600M | 0.171M |
+| 15:30 | USD | Low | Gasoline Production | 0.286M |  | -0.662M |
+| 15:30 | USD | Low | Heating Oil Stockpiles | 0.057M |  | -0.494M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 2.3% |  | 0.6% |
+| 15:30 | USD | Low | Gasoline Inventories | 2.513M | 0.700M | 2.327M |
+| 16:05 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 22 min | USD | Low | 4-Week Bill Auction |  |  | 3.890% |
+| 22 min | USD | Low | 8-Week Bill Auction |  |  | 3.850% |
+| 22 min | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 4.0% | 4.0% |
+| 22 min | USD | Low | Chicago Fed National Activity (Oct) |  |  | -0.12 |
+| 52 min | USD | Low | Natural Gas Storage |  | -5B | -14B |
+| 52 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -1.219B |
 | 18:00 | USD | Moderate | 7-Year Note Auction |  |  | 3.790% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 419 |
