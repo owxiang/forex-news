@@ -63,7 +63,7 @@
 | 17:30 | BRL | Low | Foreign Exchange Flows | 0.020B |  | -1.219B |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 407 |  | 419 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 544 |  | 554 |
-| 51 min | USD | Moderate | Beige Book |  |  |  |
+| 19:00 | USD | Moderate | Beige Book |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,555B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.918T |
 | 21:45 | NZD | Moderate | Core Retail Sales (QoQ) |  | 0.8% | 0.7% |
