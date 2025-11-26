@@ -13,7 +13,7 @@
 | 01:00 | NZD | High | RBNZ Interest Rate Decision | 2.25% | 2.25% | 2.50% |
 | 01:00 | NZD | Moderate | RBNZ Monetary Policy Statement |  |  |  |
 | 01:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
-| 25 min | NZD | Moderate | RBNZ Press Conference |  |  |  |
+| 02:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
 | 05:00 | JPY | Moderate | BoJ Core CPI (YoY) |  |  | 2.1% |
 | 05:00 | JPY | Low | Coincident Indicator (MoM) (Sep) |  | 1.8% | -1.3% |
 | 05:00 | JPY | Low | Leading Index (Sep) |  | 108.0 | 107.0 |
