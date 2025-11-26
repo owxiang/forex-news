@@ -22,6 +22,6 @@
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 407 |  | 419 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count | 544 |  | 554 |
 | 19:00 | USD | Beige Book |  |  |  |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 6,555B |
-| 21:45 | NZD | Core Retail Sales (QoQ) |  | 0.8% | 0.7% |
-| 21:45 | NZD | Retail Sales (QoQ) (Q3) |  | 0.6% | 0.5% |
+| 24 min | USD | Fed's Balance Sheet |  |  | 6,555B |
+| 39 min | NZD | Core Retail Sales (QoQ) |  | 0.8% | 0.7% |
+| 39 min | NZD | Retail Sales (QoQ) (Q3) |  | 0.6% | 0.5% |

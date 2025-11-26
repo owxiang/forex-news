@@ -64,8 +64,8 @@
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 407 |  | 419 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 544 |  | 554 |
 | 19:00 | USD | Moderate | Beige Book |  |  |  |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,555B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.918T |
-| 21:45 | NZD | Moderate | Core Retail Sales (QoQ) |  | 0.8% | 0.7% |
-| 21:45 | NZD | Moderate | Retail Sales (QoQ) (Q3) |  | 0.6% | 0.5% |
-| 21:45 | NZD | Low | Retail Sales Quarterly Vs. Year Ago (Q3) |  |  | 2.3% |
+| 24 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,555B |
+| 24 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.918T |
+| 39 min | NZD | Moderate | Core Retail Sales (QoQ) |  | 0.8% | 0.7% |
+| 39 min | NZD | Moderate | Retail Sales (QoQ) (Q3) |  | 0.6% | 0.5% |
+| 39 min | NZD | Low | Retail Sales Quarterly Vs. Year Ago (Q3) |  |  | 2.3% |
