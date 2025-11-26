@@ -16,8 +16,8 @@
 | 02:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
 | 05:00 | JPY | Moderate | BoJ Core CPI (YoY) | 2.2% | 2.2% | 2.1% |
 | 05:00 | JPY | Low | Leading Index (Sep) | 108.6 | 108.0 | 107.0 |
-| 05:00 | SGD | Low | Industrial Production (MoM) (Oct) | 11.5% | -3.5% | 26.4% |
 | 05:00 | SGD | Low | Industrial Production (YoY) (Oct) | 29.1% | 9.5% | 16.2% |
+| 05:00 | SGD | Low | Industrial Production (MoM) (Oct) | 11.5% | -3.5% | 26.4% |
 | 07:00 | NOK | Low | GDP (QoQ) (Q3) | 1.1% |  | 0.8% |
 | 07:00 | NOK | Low | GDP Mainland (QoQ) (Q3) | 0.1% | 0.2% | 0.6% |
 | 09:00 | CHF | Low | ZEW Expectations (Nov) | 12.2 |  | -7.7 |
@@ -42,36 +42,23 @@
 | 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Sep) | 0.9% |  | 0.9% |
 | 13:30 | USD | High | Initial Jobless Claims | 216K | 226K | 222K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 223.75K |  | 224.75K |
-| 52 min | USD | Moderate | Building Permits (Sep) |  | 1.340M | 1.330M |
-| 52 min | USD | Low | Building Permits (MoM) (Sep) |  |  | -2.3% |
-| 52 min | USD | High | Chicago PMI (Nov) |  | 44.3 | 43.8 |
-| 52 min | USD | Low | Corporate Profits (QoQ) (Q3) |  |  | 0.2% |
-| 52 min | USD | Low | Durables Excluding Transport (MoM) |  | 0.2% | 0.3% |
-| 52 min | USD | Moderate | Goods Trade Balance (Sep) |  | -90.00B | -85.50B |
-| 52 min | USD | High | New Home Sales (Sep) |  | 710K | 800K |
-| 52 min | USD | Moderate | New Home Sales (MoM) (Sep) |  |  | 20.5% |
-| 52 min | USD | Low | Personal Income (MoM) (Sep) |  | 0.4% | 0.4% |
-| 52 min | USD | Moderate | Personal Spending (MoM) (Sep) |  | 0.4% | 0.6% |
-| 52 min | USD | Low | Real Consumer Spending (Q3) |  |  | 2.5% |
-| 52 min | USD | Moderate | Retail Inventories Ex Auto (Sep) |  | 0.3% | 0.1% |
-| 52 min | USD | Low | Wholesale Inventories (MoM) (Aug) |  | -0.2% | 0.1% |
-| 52 min | USD | Low | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.4% |
-| 15:30 | USD | High | Crude Oil Inventories |  | -1.300M | -3.426M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.259M |
-| 15:30 | USD | Low | Crude Oil Imports |  |  | -0.614M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.698M |
-| 15:30 | USD | Low | Distillate Fuel Production |  |  | -0.117M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | 0.600M | 0.171M |
-| 15:30 | USD | Low | Gasoline Production |  |  | -0.662M |
-| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | -0.494M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.6% |
-| 15:30 | USD | Low | Gasoline Inventories |  | 0.700M | 2.327M |
-| 15:30 | USD | Low | Natural Gas Storage |  | -5B | -14B |
-| 16:05 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 14:30 | USD | High | Chicago PMI (Nov) | 36.3 | 44.3 | 43.8 |
+| 23 min | USD | High | Crude Oil Inventories |  | -1.300M | -3.426M |
+| 23 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.259M |
+| 23 min | USD | Low | Crude Oil Imports |  |  | -0.614M |
+| 23 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.698M |
+| 23 min | USD | Low | Distillate Fuel Production |  |  | -0.117M |
+| 23 min | USD | Low | EIA Weekly Distillates Stocks |  | 0.600M | 0.171M |
+| 23 min | USD | Low | Gasoline Production |  |  | -0.662M |
+| 23 min | USD | Low | Heating Oil Stockpiles |  |  | -0.494M |
+| 23 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.6% |
+| 23 min | USD | Low | Gasoline Inventories |  | 0.700M | 2.327M |
+| 58 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.890% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.850% |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 4.0% | 4.0% |
 | 16:30 | USD | Low | Chicago Fed National Activity (Oct) |  |  | -0.12 |
+| 17:00 | USD | Low | Natural Gas Storage |  | -5B | -14B |
 | 17:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -1.219B |
 | 18:00 | USD | Moderate | 7-Year Note Auction |  |  | 3.790% |

@@ -14,13 +14,8 @@
 | 10:50 | EUR | German 10-Year Bund Auction | 2.670% |  | 2.620% |
 | 13:30 | USD | Continuing Jobless Claims | 1,960K |  | 1,953K |
 | 13:30 | USD | Core Durable Goods Orders (MoM) (Sep) | 0.6% |  | 0.5% |
-| 52 min | USD | Building Permits (Sep) |  | 1.340M | 1.330M |
-| 52 min | USD | Goods Trade Balance (Sep) |  | -90.00B | -85.50B |
-| 52 min | USD | New Home Sales (MoM) (Sep) |  |  | 20.5% |
-| 52 min | USD | Personal Spending (MoM) (Sep) |  | 0.4% | 0.6% |
-| 52 min | USD | Retail Inventories Ex Auto (Sep) |  | 0.3% | 0.1% |
-| 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.698M |
-| 16:05 | EUR | ECB's Lane Speaks |  |  |  |
+| 23 min | USD | Cushing Crude Oil Inventories |  |  | -0.698M |
+| 58 min | EUR | ECB's Lane Speaks |  |  |  |
 | 16:30 | USD | Atlanta Fed GDPNow (Q4) |  | 4.0% | 4.0% |
 | 17:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | 7-Year Note Auction |  |  | 3.790% |
