@@ -7,11 +7,11 @@
 | 00:30 | AUD | Monthly CPI Indicator (YoY) (Oct) | 3.80% | 3.60% | 3.50% |
 | 00:30 | AUD | Weighted mean CPI (QoQ) (Oct) | 0.3% |  | 0.4% |
 | 00:30 | AUD | Weighted mean CPI (YoY) (Oct) | 3.4% |  | 3.3% |
-| 05:00 | JPY | Coincident Indicator (MoM) (Sep) |  | 1.8% | -1.3% |
-| 05:00 | JPY | Leading Index (Sep) |  | 108.0 | 107.0 |
-| 05:00 | JPY | Leading Index (MoM) (Sep) |  | 1.0% | 0.9% |
-| 05:00 | SGD | Industrial Production (MoM) (Oct) |  |  | 26.3% |
-| 05:00 | SGD | Industrial Production (YoY) (Oct) |  |  | 16.1% |
+| 48 min | JPY | Coincident Indicator (MoM) (Sep) |  | 1.8% | -1.3% |
+| 48 min | JPY | Leading Index (Sep) |  | 108.0 | 107.0 |
+| 48 min | JPY | Leading Index (MoM) (Sep) |  | 1.0% | 0.9% |
+| 48 min | SGD | Industrial Production (MoM) (Oct) |  |  | 26.3% |
+| 48 min | SGD | Industrial Production (YoY) (Oct) |  |  | 16.1% |
 | 07:00 | NOK | GDP (QoQ) (Q3) |  |  | 0.8% |
 | 07:00 | NOK | GDP Mainland (QoQ) (Q3) |  |  | 0.6% |
 | 09:00 | CHF | ZEW Expectations (Nov) |  |  | -7.7 |

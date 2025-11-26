@@ -14,12 +14,12 @@
 | 01:00 | NZD | Moderate | RBNZ Monetary Policy Statement |  |  |  |
 | 01:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
 | 02:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
-| 05:00 | JPY | Moderate | BoJ Core CPI (YoY) |  |  | 2.1% |
-| 05:00 | JPY | Low | Coincident Indicator (MoM) (Sep) |  | 1.8% | -1.3% |
-| 05:00 | JPY | Low | Leading Index (Sep) |  | 108.0 | 107.0 |
-| 05:00 | JPY | Low | Leading Index (MoM) (Sep) |  | 1.0% | 0.9% |
-| 05:00 | SGD | Low | Industrial Production (MoM) (Oct) |  |  | 26.3% |
-| 05:00 | SGD | Low | Industrial Production (YoY) (Oct) |  |  | 16.1% |
+| 48 min | JPY | Moderate | BoJ Core CPI (YoY) |  |  | 2.1% |
+| 48 min | JPY | Low | Coincident Indicator (MoM) (Sep) |  | 1.8% | -1.3% |
+| 48 min | JPY | Low | Leading Index (Sep) |  | 108.0 | 107.0 |
+| 48 min | JPY | Low | Leading Index (MoM) (Sep) |  | 1.0% | 0.9% |
+| 48 min | SGD | Low | Industrial Production (MoM) (Oct) |  |  | 26.3% |
+| 48 min | SGD | Low | Industrial Production (YoY) (Oct) |  |  | 16.1% |
 | 07:00 | NOK | Low | GDP (QoQ) (Q3) |  |  | 0.8% |
 | 07:00 | NOK | Low | GDP Mainland (QoQ) (Q3) |  |  | 0.6% |
 | 09:00 | CHF | Low | ZEW Expectations (Nov) |  |  | -7.7 |

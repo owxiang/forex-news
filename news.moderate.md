@@ -8,7 +8,7 @@
 | 01:00 | NZD | RBNZ Monetary Policy Statement |  |  |  |
 | 01:00 | NZD | RBNZ Rate Statement |  |  |  |
 | 02:00 | NZD | RBNZ Press Conference |  |  |  |
-| 05:00 | JPY | BoJ Core CPI (YoY) |  |  | 2.1% |
+| 48 min | JPY | BoJ Core CPI (YoY) |  |  | 2.1% |
 | 09:00 | EUR | ECB Financial Stability Review |  |  |  |
 | 09:20 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.620% |
