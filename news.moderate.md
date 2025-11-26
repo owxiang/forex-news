@@ -8,7 +8,7 @@
 | 01:00 | NZD | RBNZ Monetary Policy Statement |  |  |  |
 | 01:00 | NZD | RBNZ Rate Statement |  |  |  |
 | 02:00 | NZD | RBNZ Press Conference |  |  |  |
-| 48 min | JPY | BoJ Core CPI (YoY) |  |  | 2.1% |
+| 05:00 | JPY | BoJ Core CPI (YoY) | 2.2% | 2.2% | 2.1% |
 | 09:00 | EUR | ECB Financial Stability Review |  |  |  |
 | 09:20 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.620% |
@@ -32,4 +32,5 @@
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 554 |
 | 19:00 | USD | Beige Book |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,555B |
+| 21:45 | NZD | Core Retail Sales (QoQ) |  | 0.8% | 0.7% |
 | 21:45 | NZD | Retail Sales (QoQ) (Q3) |  | 0.6% | 0.5% |
