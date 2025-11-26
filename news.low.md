@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | CPI Index Number (Oct) |  |  | 143.60 |
-| 00:30 | AUD | Trimmed Mean CPI (YoY) (Oct) |  |  | 3.0% |
-| 00:30 | AUD | Monthly CPI Indicator (YoY) (Oct) |  |  | 3.50% |
-| 00:30 | AUD | Weighted mean CPI (QoQ) (Oct) |  |  | 1.0% |
-| 00:30 | AUD | Weighted mean CPI (YoY) (Oct) |  |  | 2.8% |
+| 00:30 | AUD | CPI Index Number (Oct) | 99.99 |  | 100.00 |
+| 00:30 | AUD | Trimmed Mean CPI (YoY) (Oct) | 3.3% | 3.0% | 3.2% |
+| 00:30 | AUD | Monthly CPI Indicator (YoY) (Oct) | 3.80% | 3.60% | 3.50% |
+| 00:30 | AUD | Weighted mean CPI (QoQ) (Oct) | 0.3% |  | 0.4% |
+| 00:30 | AUD | Weighted mean CPI (YoY) (Oct) | 3.4% |  | 3.3% |
 | 05:00 | JPY | Coincident Indicator (MoM) (Sep) |  | 1.8% | -1.3% |
 | 05:00 | JPY | Leading Index (Sep) |  | 108.0 | 107.0 |
 | 05:00 | JPY | Leading Index (MoM) (Sep) |  | 1.0% | 0.9% |

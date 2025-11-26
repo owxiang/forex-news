@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 29 min | NZD | RBNZ Interest Rate Decision |  | 2.25% | 2.50% |
+| 01:00 | NZD | RBNZ Interest Rate Decision | 2.25% | 2.25% | 2.50% |
 | 10:00 | GBP | Autumn Forecast Statement |  |  |  |
 | 13:30 | USD | Durable Goods Orders (MoM) (Sep) |  | 0.2% | 2.9% |
 | 13:30 | USD | GDP (QoQ) (Q3) |  |  | 3.8% |

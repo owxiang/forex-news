@@ -2,12 +2,12 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Construction Work Done (QoQ) (Q3) | -0.7% | 0.4% | 3.0% |
-| 00:30 | AUD | CPI (QoQ) (Oct) |  |  | 1.3% |
-| 00:30 | AUD | Trimmed Mean CPI (QoQ) (Oct) |  |  | 1.0% |
-| 29 min | NZD | RBNZ Monetary Policy Statement |  |  |  |
-| 29 min | NZD | RBNZ Rate Statement |  |  |  |
-| 02:00 | NZD | RBNZ Press Conference |  |  |  |
+| 00:30 | AUD | Construction Work Done (QoQ) (Q3) | -0.7% | 0.2% | 2.9% |
+| 00:30 | AUD | CPI (QoQ) (Oct) | 0.0% |  | 0.5% |
+| 00:30 | AUD | Trimmed Mean CPI (QoQ) (Oct) | 0.3% |  | 0.3% |
+| 01:00 | NZD | RBNZ Monetary Policy Statement |  |  |  |
+| 01:00 | NZD | RBNZ Rate Statement |  |  |  |
+| 25 min | NZD | RBNZ Press Conference |  |  |  |
 | 05:00 | JPY | BoJ Core CPI (YoY) |  |  | 2.1% |
 | 09:00 | EUR | ECB Financial Stability Review |  |  |  |
 | 09:20 | EUR | German Buba Mauderer Speaks |  |  |  |

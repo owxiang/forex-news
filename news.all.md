@@ -2,18 +2,18 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | AUD | Moderate | Construction Work Done (QoQ) (Q3) | -0.7% | 0.4% | 3.0% |
-| 00:30 | AUD | Moderate | CPI (QoQ) (Oct) |  |  | 1.3% |
-| 00:30 | AUD | Low | CPI Index Number (Oct) |  |  | 143.60 |
-| 00:30 | AUD | Low | Trimmed Mean CPI (YoY) (Oct) |  |  | 3.0% |
-| 00:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Oct) |  |  | 1.0% |
-| 00:30 | AUD | Low | Monthly CPI Indicator (YoY) (Oct) |  |  | 3.50% |
-| 00:30 | AUD | Low | Weighted mean CPI (QoQ) (Oct) |  |  | 1.0% |
-| 00:30 | AUD | Low | Weighted mean CPI (YoY) (Oct) |  |  | 2.8% |
-| 29 min | NZD | High | RBNZ Interest Rate Decision |  | 2.25% | 2.50% |
-| 29 min | NZD | Moderate | RBNZ Monetary Policy Statement |  |  |  |
-| 29 min | NZD | Moderate | RBNZ Rate Statement |  |  |  |
-| 02:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
+| 00:30 | AUD | Moderate | Construction Work Done (QoQ) (Q3) | -0.7% | 0.2% | 2.9% |
+| 00:30 | AUD | Moderate | CPI (QoQ) (Oct) | 0.0% |  | 0.5% |
+| 00:30 | AUD | Low | CPI Index Number (Oct) | 99.99 |  | 100.00 |
+| 00:30 | AUD | Low | Trimmed Mean CPI (YoY) (Oct) | 3.3% | 3.0% | 3.2% |
+| 00:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Oct) | 0.3% |  | 0.3% |
+| 00:30 | AUD | Low | Monthly CPI Indicator (YoY) (Oct) | 3.80% | 3.60% | 3.50% |
+| 00:30 | AUD | Low | Weighted mean CPI (QoQ) (Oct) | 0.3% |  | 0.4% |
+| 00:30 | AUD | Low | Weighted mean CPI (YoY) (Oct) | 3.4% |  | 3.3% |
+| 01:00 | NZD | High | RBNZ Interest Rate Decision | 2.25% | 2.25% | 2.50% |
+| 01:00 | NZD | Moderate | RBNZ Monetary Policy Statement |  |  |  |
+| 01:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
+| 25 min | NZD | Moderate | RBNZ Press Conference |  |  |  |
 | 05:00 | JPY | Moderate | BoJ Core CPI (YoY) |  |  | 2.1% |
 | 05:00 | JPY | Low | Coincident Indicator (MoM) (Sep) |  | 1.8% | -1.3% |
 | 05:00 | JPY | Low | Leading Index (Sep) |  | 108.0 | 107.0 |
