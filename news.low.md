@@ -38,5 +38,4 @@
 | 16:30 | USD | 8-Week Bill Auction | 3.840% |  | 3.850% |
 | 17:00 | USD | Natural Gas Storage | -11B | -5B | -14B |
 | 17:30 | BRL | Foreign Exchange Flows | 0.020B |  | -1.219B |
-| 24 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.918T |
-| 39 min | NZD | Retail Sales Quarterly Vs. Year Ago (Q3) |  |  | 2.3% |
+| 21:45 | NZD | Retail Sales Quarterly Vs. Year Ago (Q3) | 4.5% |  | 2.3% |

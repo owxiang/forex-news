@@ -5,8 +5,8 @@
 | 00:30 | AUD | Moderate | Construction Work Done (QoQ) (Q3) | -0.7% | 0.2% | 2.9% |
 | 00:30 | AUD | Moderate | CPI (QoQ) (Oct) | 0.0% |  | 0.5% |
 | 00:30 | AUD | Low | CPI Index Number (Oct) | 99.99 |  | 100.00 |
-| 00:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Oct) | 0.3% |  | 0.3% |
 | 00:30 | AUD | Low | Trimmed Mean CPI (YoY) (Oct) | 3.3% | 3.0% | 3.2% |
+| 00:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Oct) | 0.3% |  | 0.3% |
 | 00:30 | AUD | Low | Monthly CPI Indicator (YoY) (Oct) | 3.80% | 3.60% | 3.50% |
 | 00:30 | AUD | Low | Weighted mean CPI (QoQ) (Oct) | 0.3% |  | 0.4% |
 | 00:30 | AUD | Low | Weighted mean CPI (YoY) (Oct) | 3.4% |  | 3.3% |
@@ -64,8 +64,6 @@
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 407 |  | 419 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 544 |  | 554 |
 | 19:00 | USD | Moderate | Beige Book |  |  |  |
-| 24 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,555B |
-| 24 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.918T |
-| 39 min | NZD | Moderate | Core Retail Sales (QoQ) |  | 0.8% | 0.7% |
-| 39 min | NZD | Moderate | Retail Sales (QoQ) (Q3) |  | 0.6% | 0.5% |
-| 39 min | NZD | Low | Retail Sales Quarterly Vs. Year Ago (Q3) |  |  | 2.3% |
+| 21:45 | NZD | Moderate | Core Retail Sales (QoQ) | 1.2% | 0.8% | 1.0% |
+| 21:45 | NZD | Moderate | Retail Sales (QoQ) (Q3) | 1.9% | 0.6% | 0.7% |
+| 21:45 | NZD | Low | Retail Sales Quarterly Vs. Year Ago (Q3) | 4.5% |  | 2.3% |
