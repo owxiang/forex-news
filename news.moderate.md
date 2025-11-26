@@ -1,18 +1,35 @@
-## 25 November 2025 - Moderate Impact Forex News
+## 26 November 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | EUR | German GDP (YoY) (Q3) | 0.3% | 0.3% | 0.3% |
-| 13:15 | USD | ADP Employment Change Weekly | -13.50K |  | -2.50K |
-| 13:30 | USD | Core PPI (MoM) (Sep) | 0.1% | 0.2% | -0.1% |
-| 13:30 | USD | Retail Control (MoM) (Sep) | -0.1% | 0.3% | 0.6% |
-| 13:30 | CAD | Wholesale Sales (MoM) (Oct) | -0.1% |  | 0.6% |
-| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Sep) | 1.4% | 1.4% | 1.6% |
-| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Sep) | -0.5% |  | -0.6% |
-| 15:00 | USD | Business Inventories (MoM) (Aug) | 0.0% | 0.0% | 0.1% |
-| 15:00 | USD | Pending Home Sales (MoM) (Oct) | 1.9% | 0.5% | 0.1% |
-| 15:00 | USD | Retail Inventories Ex Auto (Aug) | 0.0% | 0.3% | 0.1% |
-| 16:00 | USD | Atlanta Fed GDPNow (Q4) | 4.0% | 4.2% | 4.2% |
-| 18:00 | USD | 5-Year Note Auction | 3.562% |  | 3.625% |
-| 19:00 | USD | Federal Budget Balance (Oct) | -284.0B |  | 198.0B |
-| 21:30 | USD | API Weekly Crude Oil Stock |  |  | 4.400M |
+| 00:30 | AUD | Construction Work Done (QoQ) (Q3) | -0.7% | 0.4% | 3.0% |
+| 00:30 | AUD | CPI (QoQ) (Oct) |  |  | 1.3% |
+| 00:30 | AUD | Trimmed Mean CPI (QoQ) (Oct) |  |  | 1.0% |
+| 29 min | NZD | RBNZ Monetary Policy Statement |  |  |  |
+| 29 min | NZD | RBNZ Rate Statement |  |  |  |
+| 02:00 | NZD | RBNZ Press Conference |  |  |  |
+| 05:00 | JPY | BoJ Core CPI (YoY) |  |  | 2.1% |
+| 09:00 | EUR | ECB Financial Stability Review |  |  |  |
+| 09:20 | EUR | German Buba Mauderer Speaks |  |  |  |
+| 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.620% |
+| 13:30 | USD | Building Permits (Sep) |  | 1.340M | 1.330M |
+| 13:30 | USD | Continuing Jobless Claims |  |  | 1,974K |
+| 13:30 | USD | Core Durable Goods Orders (MoM) (Sep) |  |  | 0.3% |
+| 13:30 | USD | Core PCE Prices (Q3) |  |  | 2.60% |
+| 13:30 | USD | GDP Price Index (QoQ) (Q3) |  |  | 2.1% |
+| 13:30 | USD | Goods Trade Balance (Sep) |  | -90.00B | -85.50B |
+| 13:30 | USD | Retail Inventories Ex Auto (Sep) |  | 0.3% | 0.1% |
+| 15:00 | USD | New Home Sales (MoM) (Sep) |  |  | 20.5% |
+| 15:00 | USD | PCE price index (MoM) (Sep) |  | 0.3% | 0.3% |
+| 15:00 | USD | PCE Price index (YoY) (Sep) |  |  | 2.7% |
+| 15:00 | USD | Personal Spending (MoM) (Sep) |  | 0.4% | 0.6% |
+| 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.698M |
+| 16:05 | EUR | ECB's Lane Speaks |  |  |  |
+| 16:30 | USD | Atlanta Fed GDPNow (Q4) |  | 4.0% | 4.0% |
+| 17:00 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 18:00 | USD | 7-Year Note Auction |  |  | 3.790% |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 419 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 554 |
+| 19:00 | USD | Beige Book |  |  |  |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 6,555B |
+| 21:45 | NZD | Retail Sales (QoQ) (Q3) |  | 0.6% | 0.5% |

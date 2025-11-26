@@ -1,48 +1,56 @@
-## 25 November 2025 - Low Impact Forex News
+## 26 November 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | GBP | Car Registration (YoY) (Oct) | 0.5% |  | 13.7% |
-| 05:00 | GBP | Car Registration (MoM) (Oct) | -53.7% |  | 277.4% |
-| 05:00 | EUR | Italian Car Registration (MoM) (Oct) | -0.7% |  | 88.4% |
-| 05:00 | EUR | Italian Car Registration (YoY) (Oct) | -0.5% |  | 4.2% |
-| 05:00 | EUR | German Car Registration (YoY) (Oct) | 7.8% |  | 12.8% |
-| 05:00 | EUR | German Car Registration (MoM) (Oct) | 6.2% |  | 13.7% |
-| 05:00 | EUR | French Car Registration (MoM) (Oct) | -0.6% |  | 59.8% |
-| 05:00 | EUR | French Car Registration (YoY) (Oct) | 2.9% |  | 1.0% |
-| 07:00 | ZAR | Leading Indicators (Sep) | 114.20% |  | 115.49% |
-| 07:45 | EUR | French Consumer Confidence (Nov) | 89 |  | 90 |
-| 08:00 | EUR | Spanish PPI (YoY) (Oct) | 0.7% |  | 0.3% |
-| 08:30 | HKD | Exports (MoM) (Oct) | 17.5% |  | 16.1% |
-| 08:30 | HKD | Imports (MoM) (Oct) | 18.3% |  | 13.6% |
-| 08:30 | HKD | Trade Balance (Oct) | -39.9B |  | -50.2B |
-| 10:30 | GBP | 5-Year Treasury Gilt Auction | 4.088% |  | 4.004% |
-| 10:30 | EUR | German 5-Year Bobl Auction | 2.270% |  | 2.210% |
-| 11:00 | GBP | CBI Distributive Trades Survey (Nov) | -32 | -29 | -27 |
-| 11:30 | BRL | Current Account (USD) (Oct) | -5.12B | -4.85B | -9.77B |
-| 11:30 | BRL | Foreign direct investment (USD) (Oct) | 10.94B |  | 10.67B |
-| 12:00 | MXN | Retail Sales (YoY) (Sep) | 3.3% |  | 2.4% |
-| 12:00 | MXN | Retail Sales (MoM) (Sep) | 0.0% |  | 0.6% |
-| 13:30 | USD | Core PPI (YoY) (Sep) | 2.6% | 2.7% | 2.9% |
-| 13:30 | USD | PPI (YoY) (Sep) | 2.7% | 2.7% | 2.7% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Sep) | 0.1% | 0.2% | 0.3% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Sep) | 2.9% | 2.7% | 2.9% |
-| 13:30 | USD | Retail Sales (YoY) (Sep) | 4.26% |  | 5.02% |
-| 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Sep) | 0.1% | 0.4% | 0.6% |
-| 13:55 | USD | Redbook (YoY) | 5.9% |  | 6.1% |
-| 14:00 | USD | House Price Index (MoM) (Sep) | 0.0% |  | 0.4% |
-| 14:00 | USD | House Price Index (YoY) (Sep) | 1.7% |  | 2.4% |
-| 14:00 | USD | House Price Index (Sep) | 435.4 |  | 435.6 |
-| 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Sep) | 0.1% |  | 0.1% |
-| 15:00 | USD | Pending Home Sales Index (Oct) | 76.3 |  | 74.9 |
-| 15:00 | USD | Richmond Manufacturing Index (Nov) | -15 | -5 | -4 |
-| 15:00 | USD | Richmond Manufacturing Shipments (Nov) | -14 |  | 4 |
-| 15:00 | USD | Richmond Services Index (Nov) | -4 |  | 4 |
-| 15:00 | MXN | Current Account (USD) (Q3) | 2,325M |  | -1,791M |
-| 15:00 | MXN | Current Account % of GDP (Q3) | 0.50% |  | 0.00% |
-| 15:30 | USD | Dallas Fed Services Revenues (Nov) | -2.5 |  | -6.4 |
-| 15:30 | USD | Texas Services Sector Outlook (Nov) | -2.3 |  | -9.4 |
-| 16:30 | USD | 52-Week Bill Auction | 3.460% |  | 3.445% |
-| 18:00 | USD | M2 Money Supply (MoM) (Oct) | 22.30T |  | 22.21T |
-| 21:00 | KRW | Manufacturing BSI Index | 70 |  | 68 |
-| 23:50 | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 2.7% | 3.0% |
+| 00:30 | AUD | CPI Index Number (Oct) |  |  | 143.60 |
+| 00:30 | AUD | Trimmed Mean CPI (YoY) (Oct) |  |  | 3.0% |
+| 00:30 | AUD | Monthly CPI Indicator (YoY) (Oct) |  |  | 3.50% |
+| 00:30 | AUD | Weighted mean CPI (QoQ) (Oct) |  |  | 1.0% |
+| 00:30 | AUD | Weighted mean CPI (YoY) (Oct) |  |  | 2.8% |
+| 05:00 | JPY | Coincident Indicator (MoM) (Sep) |  | 1.8% | -1.3% |
+| 05:00 | JPY | Leading Index (Sep) |  | 108.0 | 107.0 |
+| 05:00 | JPY | Leading Index (MoM) (Sep) |  | 1.0% | 0.9% |
+| 05:00 | SGD | Industrial Production (MoM) (Oct) |  |  | 26.3% |
+| 05:00 | SGD | Industrial Production (YoY) (Oct) |  |  | 16.1% |
+| 07:00 | NOK | GDP (QoQ) (Q3) |  |  | 0.8% |
+| 07:00 | NOK | GDP Mainland (QoQ) (Q3) |  |  | 0.6% |
+| 09:00 | CHF | ZEW Expectations (Nov) |  |  | -7.7 |
+| 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 1.974% |
+| 11:30 | INR | M3 Money Supply |  |  | 9.3% |
+| 11:30 | BRL | Bank lending (MoM) (Oct) |  |  | 1.1% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.37% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -5.2% |
+| 12:00 | USD | MBA Purchase Index |  |  | 168.7 |
+| 12:00 | USD | Mortgage Market Index |  |  | 316.9 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 1,156.8 |
+| 12:00 | EUR | Spanish Consumer Confidence (Oct) |  |  | 81.5 |
+| 12:00 | BRL | Mid-Month CPI (MoM) (Nov) |  |  | 0.18% |
+| 12:00 | BRL | Mid-Month CPI (YoY) (Nov) |  |  | 4.94% |
+| 13:30 | USD | Building Permits (MoM) (Sep) |  |  | -2.3% |
+| 13:30 | USD | Corporate Profits (QoQ) (Q3) |  |  | 0.2% |
+| 13:30 | USD | Durables Excluding Defense (MoM) (Sep) |  | 1.9% | 1.9% |
+| 13:30 | USD | Durables Excluding Transport (MoM) |  |  | 0.3% |
+| 13:30 | USD | GDP Sales (Q3) |  |  | 7.5% |
+| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Sep) |  |  | 0.4% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 224.25K |
+| 13:30 | USD | PCE Prices (Q3) |  |  | 2.1% |
+| 13:30 | USD | Real Consumer Spending (Q3) |  |  | 2.5% |
+| 13:30 | CAD | Corporate Profits (QoQ) |  |  | -1.7% |
+| 15:00 | USD | Personal Income (MoM) (Sep) |  | 0.4% | 0.4% |
+| 15:00 | USD | Wholesale Inventories (MoM) (Aug) |  | -0.2% | 0.1% |
+| 15:00 | USD | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.4% |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.259M |
+| 15:30 | USD | Crude Oil Imports |  |  | -0.614M |
+| 15:30 | USD | Distillate Fuel Production |  |  | -0.117M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | 0.171M |
+| 15:30 | USD | Gasoline Production |  |  | -0.662M |
+| 15:30 | USD | Heating Oil Stockpiles |  |  | -0.494M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.6% |
+| 15:30 | USD | Gasoline Inventories |  |  | 2.327M |
+| 15:30 | USD | Natural Gas Storage |  |  | -14B |
+| 16:30 | USD | 4-Week Bill Auction |  |  | 3.890% |
+| 16:30 | USD | 8-Week Bill Auction |  |  | 3.850% |
+| 16:30 | USD | Chicago Fed National Activity (Oct) |  |  | -0.12 |
+| 17:30 | BRL | Foreign Exchange Flows |  |  | -1.219B |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.918T |
+| 21:45 | NZD | Retail Sales Quarterly Vs. Year Ago (Q3) |  |  | 2.3% |
