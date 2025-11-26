@@ -7,13 +7,13 @@
 | 00:30 | AUD | Monthly CPI Indicator (YoY) (Oct) | 3.80% | 3.60% | 3.50% |
 | 00:30 | AUD | Weighted mean CPI (QoQ) (Oct) | 0.3% |  | 0.4% |
 | 00:30 | AUD | Weighted mean CPI (YoY) (Oct) | 3.4% |  | 3.3% |
-| 05:00 | JPY | Coincident Indicator (MoM) (Sep) |  | 1.8% | -1.3% |
 | 05:00 | JPY | Leading Index (Sep) | 108.6 | 108.0 | 107.0 |
-| 05:00 | JPY | Leading Index (MoM) (Sep) |  | 1.0% | 0.9% |
 | 05:00 | SGD | Industrial Production (YoY) (Oct) | 29.1% | 9.5% | 16.2% |
 | 05:00 | SGD | Industrial Production (MoM) (Oct) | 11.5% | -3.5% | 26.4% |
-| 07:00 | NOK | GDP (QoQ) (Q3) |  |  | 0.8% |
-| 07:00 | NOK | GDP Mainland (QoQ) (Q3) |  | 0.2% | 0.6% |
+| 49 min | JPY | Coincident Indicator (MoM) (Sep) |  | 1.8% | -1.3% |
+| 49 min | JPY | Leading Index (MoM) (Sep) |  | 1.0% | 0.9% |
+| 49 min | NOK | GDP (QoQ) (Q3) |  |  | 0.8% |
+| 49 min | NOK | GDP Mainland (QoQ) (Q3) |  | 0.2% | 0.6% |
 | 09:00 | CHF | ZEW Expectations (Nov) |  |  | -7.7 |
 | 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 1.974% |
 | 11:30 | INR | M3 Money Supply |  |  | 9.3% |
@@ -30,10 +30,8 @@
 | 13:30 | USD | Corporate Profits (QoQ) (Q3) |  |  | 0.2% |
 | 13:30 | USD | Durables Excluding Defense (MoM) (Sep) |  | 1.9% | 1.9% |
 | 13:30 | USD | Durables Excluding Transport (MoM) |  | 0.2% | 0.3% |
-| 13:30 | USD | GDP Sales (Q3) |  |  | 7.5% |
 | 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Sep) |  |  | 0.4% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 224.25K |
-| 13:30 | USD | PCE Prices (Q3) |  |  | 2.1% |
 | 13:30 | USD | Real Consumer Spending (Q3) |  |  | 2.5% |
 | 13:30 | CAD | Corporate Profits (QoQ) |  |  | -1.7% |
 | 15:00 | USD | Personal Income (MoM) (Sep) |  | 0.4% | 0.4% |

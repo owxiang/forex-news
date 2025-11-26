@@ -15,13 +15,13 @@
 | 01:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
 | 02:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
 | 05:00 | JPY | Moderate | BoJ Core CPI (YoY) | 2.2% | 2.2% | 2.1% |
-| 05:00 | JPY | Low | Coincident Indicator (MoM) (Sep) |  | 1.8% | -1.3% |
 | 05:00 | JPY | Low | Leading Index (Sep) | 108.6 | 108.0 | 107.0 |
-| 05:00 | JPY | Low | Leading Index (MoM) (Sep) |  | 1.0% | 0.9% |
 | 05:00 | SGD | Low | Industrial Production (YoY) (Oct) | 29.1% | 9.5% | 16.2% |
 | 05:00 | SGD | Low | Industrial Production (MoM) (Oct) | 11.5% | -3.5% | 26.4% |
-| 07:00 | NOK | Low | GDP (QoQ) (Q3) |  |  | 0.8% |
-| 07:00 | NOK | Low | GDP Mainland (QoQ) (Q3) |  | 0.2% | 0.6% |
+| 49 min | JPY | Low | Coincident Indicator (MoM) (Sep) |  | 1.8% | -1.3% |
+| 49 min | JPY | Low | Leading Index (MoM) (Sep) |  | 1.0% | 0.9% |
+| 49 min | NOK | Low | GDP (QoQ) (Q3) |  |  | 0.8% |
+| 49 min | NOK | Low | GDP Mainland (QoQ) (Q3) |  | 0.2% | 0.6% |
 | 09:00 | CHF | Low | ZEW Expectations (Nov) |  |  | -7.7 |
 | 09:00 | EUR | Moderate | ECB Financial Stability Review |  |  |  |
 | 09:20 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
@@ -38,33 +38,24 @@
 | 12:00 | BRL | Low | Mid-Month CPI (MoM) (Nov) |  | 0.18% | 0.18% |
 | 12:00 | BRL | Low | Mid-Month CPI (YoY) (Nov) |  | 4.49% | 4.94% |
 | 12:30 | GBP | High | Autumn Forecast Statement |  |  |  |
-| 13:30 | USD | Moderate | Building Permits (Sep) |  | 1.340M | 1.330M |
 | 13:30 | USD | Low | Building Permits (MoM) (Sep) |  |  | -2.3% |
+| 13:30 | USD | Moderate | Building Permits (Sep) |  | 1.340M | 1.330M |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,974K |
 | 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Sep) |  |  | 0.3% |
-| 13:30 | USD | Moderate | Core PCE Prices (Q3) |  |  | 2.60% |
 | 13:30 | USD | Low | Corporate Profits (QoQ) (Q3) |  |  | 0.2% |
 | 13:30 | USD | High | Durable Goods Orders (MoM) (Sep) |  | 0.5% | 2.9% |
 | 13:30 | USD | Low | Durables Excluding Defense (MoM) (Sep) |  | 1.9% | 1.9% |
 | 13:30 | USD | Low | Durables Excluding Transport (MoM) |  | 0.2% | 0.3% |
-| 13:30 | USD | High | GDP (QoQ) (Q3) |  |  | 3.8% |
-| 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q3) |  |  | 2.1% |
-| 13:30 | USD | Low | GDP Sales (Q3) |  |  | 7.5% |
 | 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Sep) |  |  | 0.4% |
 | 13:30 | USD | Moderate | Goods Trade Balance (Sep) |  | -90.00B | -85.50B |
 | 13:30 | USD | High | Initial Jobless Claims |  | 226K | 220K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 224.25K |
-| 13:30 | USD | Low | PCE Prices (Q3) |  |  | 2.1% |
 | 13:30 | USD | Low | Real Consumer Spending (Q3) |  |  | 2.5% |
 | 13:30 | USD | Moderate | Retail Inventories Ex Auto (Sep) |  | 0.3% | 0.1% |
 | 13:30 | CAD | Low | Corporate Profits (QoQ) |  |  | -1.7% |
 | 14:45 | USD | High | Chicago PMI (Nov) |  | 44.3 | 43.8 |
-| 15:00 | USD | High | Core PCE Price Index (MoM) (Sep) |  | 0.2% | 0.2% |
-| 15:00 | USD | High | Core PCE Price Index (YoY) (Sep) |  | 2.9% | 2.9% |
-| 15:00 | USD | Moderate | New Home Sales (MoM) (Sep) |  |  | 20.5% |
 | 15:00 | USD | High | New Home Sales (Sep) |  | 710K | 800K |
-| 15:00 | USD | Moderate | PCE price index (MoM) (Sep) |  | 0.3% | 0.3% |
-| 15:00 | USD | Moderate | PCE Price index (YoY) (Sep) |  |  | 2.7% |
+| 15:00 | USD | Moderate | New Home Sales (MoM) (Sep) |  |  | 20.5% |
 | 15:00 | USD | Low | Personal Income (MoM) (Sep) |  | 0.4% | 0.4% |
 | 15:00 | USD | Moderate | Personal Spending (MoM) (Sep) |  | 0.4% | 0.6% |
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (Aug) |  | -0.2% | 0.1% |
