@@ -16,12 +16,12 @@
 | 13:30 | USD | Core Durable Goods Orders (MoM) (Sep) | 0.6% |  | 0.5% |
 | 15:30 | USD | Cushing Crude Oil Inventories | -0.068M |  | -0.698M |
 | 16:05 | EUR | ECB's Lane Speaks |  |  |  |
+| 17:00 | USD | 7-Year Note Auction | 3.781% |  | 3.790% |
 | 17:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 23 min | USD | Atlanta Fed GDPNow (Q4) |  | 4.0% | 4.0% |
-| 53 min | USD | 7-Year Note Auction |  |  | 3.790% |
-| 53 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 419 |
-| 53 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 554 |
-| 19:00 | USD | Beige Book |  |  |  |
+| 17:30 | USD | Atlanta Fed GDPNow (Q4) | 3.9% | 4.0% | 4.0% |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 407 |  | 419 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count | 544 |  | 554 |
+| 51 min | USD | Beige Book |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,555B |
 | 21:45 | NZD | Core Retail Sales (QoQ) |  | 0.8% | 0.7% |
 | 21:45 | NZD | Retail Sales (QoQ) (Q3) |  | 0.6% | 0.5% |

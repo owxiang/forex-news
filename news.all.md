@@ -56,14 +56,14 @@
 | 16:05 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 16:30 | USD | Low | 4-Week Bill Auction | 3.905% |  | 3.890% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 3.840% |  | 3.850% |
+| 17:00 | USD | Moderate | 7-Year Note Auction | 3.781% |  | 3.790% |
 | 17:00 | USD | Low | Natural Gas Storage | -11B | -5B | -14B |
 | 17:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 23 min | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 4.0% | 4.0% |
-| 23 min | BRL | Low | Foreign Exchange Flows |  |  | -1.219B |
-| 53 min | USD | Moderate | 7-Year Note Auction |  |  | 3.790% |
-| 53 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 419 |
-| 53 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 554 |
-| 19:00 | USD | Moderate | Beige Book |  |  |  |
+| 17:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 3.9% | 4.0% | 4.0% |
+| 17:30 | BRL | Low | Foreign Exchange Flows | 0.020B |  | -1.219B |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 407 |  | 419 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 544 |  | 554 |
+| 51 min | USD | Moderate | Beige Book |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,555B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.918T |
 | 21:45 | NZD | Moderate | Core Retail Sales (QoQ) |  | 0.8% | 0.7% |
