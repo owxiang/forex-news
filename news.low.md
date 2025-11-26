@@ -34,10 +34,9 @@
 | 15:30 | USD | Heating Oil Stockpiles | 0.057M |  | -0.494M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 2.3% |  | 0.6% |
 | 15:30 | USD | Gasoline Inventories | 2.513M | 0.700M | 2.327M |
-| 22 min | USD | 4-Week Bill Auction |  |  | 3.890% |
-| 22 min | USD | 8-Week Bill Auction |  |  | 3.850% |
-| 22 min | USD | Chicago Fed National Activity (Oct) |  |  | -0.12 |
-| 52 min | USD | Natural Gas Storage |  | -5B | -14B |
-| 17:30 | BRL | Foreign Exchange Flows |  |  | -1.219B |
+| 16:30 | USD | 4-Week Bill Auction | 3.905% |  | 3.890% |
+| 16:30 | USD | 8-Week Bill Auction | 3.840% |  | 3.850% |
+| 17:00 | USD | Natural Gas Storage | -11B | -5B | -14B |
+| 23 min | BRL | Foreign Exchange Flows |  |  | -1.219B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.918T |
 | 21:45 | NZD | Retail Sales Quarterly Vs. Year Ago (Q3) |  |  | 2.3% |

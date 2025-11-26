@@ -5,8 +5,8 @@
 | 00:30 | AUD | Moderate | Construction Work Done (QoQ) (Q3) | -0.7% | 0.2% | 2.9% |
 | 00:30 | AUD | Moderate | CPI (QoQ) (Oct) | 0.0% |  | 0.5% |
 | 00:30 | AUD | Low | CPI Index Number (Oct) | 99.99 |  | 100.00 |
-| 00:30 | AUD | Low | Trimmed Mean CPI (YoY) (Oct) | 3.3% | 3.0% | 3.2% |
 | 00:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Oct) | 0.3% |  | 0.3% |
+| 00:30 | AUD | Low | Trimmed Mean CPI (YoY) (Oct) | 3.3% | 3.0% | 3.2% |
 | 00:30 | AUD | Low | Monthly CPI Indicator (YoY) (Oct) | 3.80% | 3.60% | 3.50% |
 | 00:30 | AUD | Low | Weighted mean CPI (QoQ) (Oct) | 0.3% |  | 0.4% |
 | 00:30 | AUD | Low | Weighted mean CPI (YoY) (Oct) | 3.4% |  | 3.3% |
@@ -54,16 +54,15 @@
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 2.3% |  | 0.6% |
 | 15:30 | USD | Low | Gasoline Inventories | 2.513M | 0.700M | 2.327M |
 | 16:05 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 22 min | USD | Low | 4-Week Bill Auction |  |  | 3.890% |
-| 22 min | USD | Low | 8-Week Bill Auction |  |  | 3.850% |
-| 22 min | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 4.0% | 4.0% |
-| 22 min | USD | Low | Chicago Fed National Activity (Oct) |  |  | -0.12 |
-| 52 min | USD | Low | Natural Gas Storage |  | -5B | -14B |
-| 52 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -1.219B |
-| 18:00 | USD | Moderate | 7-Year Note Auction |  |  | 3.790% |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 419 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 554 |
+| 16:30 | USD | Low | 4-Week Bill Auction | 3.905% |  | 3.890% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 3.840% |  | 3.850% |
+| 17:00 | USD | Low | Natural Gas Storage | -11B | -5B | -14B |
+| 17:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 23 min | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 4.0% | 4.0% |
+| 23 min | BRL | Low | Foreign Exchange Flows |  |  | -1.219B |
+| 53 min | USD | Moderate | 7-Year Note Auction |  |  | 3.790% |
+| 53 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 419 |
+| 53 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 554 |
 | 19:00 | USD | Moderate | Beige Book |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,555B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.918T |
