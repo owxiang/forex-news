@@ -23,17 +23,16 @@
 | 12:00 | USD | Mortgage Refinance Index | 1,090.4 |  | 1,156.8 |
 | 12:00 | BRL | Mid-Month CPI (MoM) (Nov) | 0.20% | 0.18% | 0.18% |
 | 12:00 | BRL | Mid-Month CPI (YoY) (Nov) | 4.50% | 4.49% | 4.94% |
-| 12 min | USD | Building Permits (MoM) (Sep) |  |  | -2.3% |
-| 12 min | USD | Corporate Profits (QoQ) (Q3) |  |  | 0.2% |
-| 12 min | USD | Durables Excluding Defense (MoM) (Sep) |  | 1.9% | 1.9% |
-| 12 min | USD | Durables Excluding Transport (MoM) |  | 0.2% | 0.3% |
-| 12 min | USD | Goods Orders Non Defense Ex Air (MoM) (Sep) |  |  | 0.4% |
-| 12 min | USD | Jobless Claims 4-Week Avg. |  |  | 224.25K |
-| 12 min | USD | Real Consumer Spending (Q3) |  |  | 2.5% |
-| 12 min | CAD | Corporate Profits (QoQ) |  |  | -1.7% |
-| 15:00 | USD | Personal Income (MoM) (Sep) |  | 0.4% | 0.4% |
-| 15:00 | USD | Wholesale Inventories (MoM) (Aug) |  | -0.2% | 0.1% |
-| 15:00 | USD | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.4% |
+| 13:30 | USD | Durables Excluding Defense (MoM) (Sep) | 0.1% | 1.9% | 1.9% |
+| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Sep) | 0.9% |  | 0.9% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 223.75K |  | 224.75K |
+| 52 min | USD | Building Permits (MoM) (Sep) |  |  | -2.3% |
+| 52 min | USD | Corporate Profits (QoQ) (Q3) |  |  | 0.2% |
+| 52 min | USD | Durables Excluding Transport (MoM) |  | 0.2% | 0.3% |
+| 52 min | USD | Personal Income (MoM) (Sep) |  | 0.4% | 0.4% |
+| 52 min | USD | Real Consumer Spending (Q3) |  |  | 2.5% |
+| 52 min | USD | Wholesale Inventories (MoM) (Aug) |  | -0.2% | 0.1% |
+| 52 min | USD | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.4% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.259M |
 | 15:30 | USD | Crude Oil Imports |  |  | -0.614M |
 | 15:30 | USD | Distillate Fuel Production |  |  | -0.117M |
