@@ -18,10 +18,10 @@
 | 05:00 | JPY | Low | Leading Index (Sep) | 108.6 | 108.0 | 107.0 |
 | 05:00 | SGD | Low | Industrial Production (YoY) (Oct) | 29.1% | 9.5% | 16.2% |
 | 05:00 | SGD | Low | Industrial Production (MoM) (Oct) | 11.5% | -3.5% | 26.4% |
-| 49 min | JPY | Low | Coincident Indicator (MoM) (Sep) |  | 1.8% | -1.3% |
-| 49 min | JPY | Low | Leading Index (MoM) (Sep) |  | 1.0% | 0.9% |
-| 49 min | NOK | Low | GDP (QoQ) (Q3) |  |  | 0.8% |
-| 49 min | NOK | Low | GDP Mainland (QoQ) (Q3) |  | 0.2% | 0.6% |
+| 07:00 | JPY | Low | Coincident Indicator (MoM) (Sep) |  | 1.8% | -1.3% |
+| 07:00 | JPY | Low | Leading Index (MoM) (Sep) |  | 1.0% | 0.9% |
+| 07:00 | NOK | Low | GDP (QoQ) (Q3) | 1.1% |  | 0.8% |
+| 07:00 | NOK | Low | GDP Mainland (QoQ) (Q3) | 0.1% | 0.2% | 0.6% |
 | 09:00 | CHF | Low | ZEW Expectations (Nov) |  |  | -7.7 |
 | 09:00 | EUR | Moderate | ECB Financial Stability Review |  |  |  |
 | 09:20 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |

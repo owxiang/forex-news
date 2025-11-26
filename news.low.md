@@ -10,10 +10,10 @@
 | 05:00 | JPY | Leading Index (Sep) | 108.6 | 108.0 | 107.0 |
 | 05:00 | SGD | Industrial Production (YoY) (Oct) | 29.1% | 9.5% | 16.2% |
 | 05:00 | SGD | Industrial Production (MoM) (Oct) | 11.5% | -3.5% | 26.4% |
-| 49 min | JPY | Coincident Indicator (MoM) (Sep) |  | 1.8% | -1.3% |
-| 49 min | JPY | Leading Index (MoM) (Sep) |  | 1.0% | 0.9% |
-| 49 min | NOK | GDP (QoQ) (Q3) |  |  | 0.8% |
-| 49 min | NOK | GDP Mainland (QoQ) (Q3) |  | 0.2% | 0.6% |
+| 07:00 | JPY | Coincident Indicator (MoM) (Sep) |  | 1.8% | -1.3% |
+| 07:00 | JPY | Leading Index (MoM) (Sep) |  | 1.0% | 0.9% |
+| 07:00 | NOK | GDP (QoQ) (Q3) | 1.1% |  | 0.8% |
+| 07:00 | NOK | GDP Mainland (QoQ) (Q3) | 0.1% | 0.2% | 0.6% |
 | 09:00 | CHF | ZEW Expectations (Nov) |  |  | -7.7 |
 | 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 1.974% |
 | 11:30 | INR | M3 Money Supply |  |  | 9.3% |
