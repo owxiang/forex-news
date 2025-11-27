@@ -1,41 +1,62 @@
-## 26 November 2025 - Low Impact Forex News
+## 27 November 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | CPI Index Number (Oct) | 99.99 |  | 100.00 |
-| 00:30 | AUD | Trimmed Mean CPI (YoY) (Oct) | 3.3% | 3.0% | 3.2% |
-| 00:30 | AUD | Monthly CPI Indicator (YoY) (Oct) | 3.80% | 3.60% | 3.50% |
-| 00:30 | AUD | Weighted mean CPI (QoQ) (Oct) | 0.3% |  | 0.4% |
-| 00:30 | AUD | Weighted mean CPI (YoY) (Oct) | 3.4% |  | 3.3% |
-| 05:00 | JPY | Leading Index (Sep) | 108.6 | 108.0 | 107.0 |
-| 05:00 | SGD | Industrial Production (YoY) (Oct) | 29.1% | 9.5% | 16.2% |
-| 05:00 | SGD | Industrial Production (MoM) (Oct) | 11.5% | -3.5% | 26.4% |
-| 07:00 | NOK | GDP (QoQ) (Q3) | 1.1% |  | 0.8% |
-| 07:00 | NOK | GDP Mainland (QoQ) (Q3) | 0.1% | 0.2% | 0.6% |
-| 09:00 | CHF | ZEW Expectations (Nov) | 12.2 |  | -7.7 |
-| 10:10 | EUR | Italian 6-Month BOT Auction | 2.036% |  | 1.974% |
-| 11:30 | INR | M3 Money Supply | 9.8% |  | 9.6% |
-| 11:30 | BRL | Bank lending (MoM) (Oct) | 0.9% |  | 1.1% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.40% |  | 6.37% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) | 0.2% |  | -5.2% |
-| 12:00 | USD | MBA Purchase Index | 181.6 |  | 168.7 |
-| 12:00 | USD | Mortgage Market Index | 317.6 |  | 316.9 |
-| 12:00 | USD | Mortgage Refinance Index | 1,090.4 |  | 1,156.8 |
-| 12:00 | BRL | Mid-Month CPI (MoM) (Nov) | 0.20% | 0.18% | 0.18% |
-| 12:00 | BRL | Mid-Month CPI (YoY) (Nov) | 4.50% | 4.49% | 4.94% |
-| 13:30 | USD | Durables Excluding Defense (MoM) (Sep) | 0.1% | 1.9% | 1.9% |
-| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Sep) | 0.9% |  | 0.9% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. | 223.75K |  | 224.75K |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) | 0.211M |  | 0.259M |
-| 15:30 | USD | Crude Oil Imports | 1.046M |  | -0.614M |
-| 15:30 | USD | Distillate Fuel Production | 0.087M |  | -0.117M |
-| 15:30 | USD | EIA Weekly Distillates Stocks | 1.147M | 0.600M | 0.171M |
-| 15:30 | USD | Gasoline Production | 0.286M |  | -0.662M |
-| 15:30 | USD | Heating Oil Stockpiles | 0.057M |  | -0.494M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 2.3% |  | 0.6% |
-| 15:30 | USD | Gasoline Inventories | 2.513M | 0.700M | 2.327M |
-| 16:30 | USD | 4-Week Bill Auction | 3.905% |  | 3.890% |
-| 16:30 | USD | 8-Week Bill Auction | 3.840% |  | 3.850% |
-| 17:00 | USD | Natural Gas Storage | -11B | -5B | -14B |
-| 17:30 | BRL | Foreign Exchange Flows | 0.020B |  | -1.219B |
-| 21:45 | NZD | Retail Sales Quarterly Vs. Year Ago (Q3) | 4.5% |  | 2.3% |
+| 00:00 | NZD | ANZ Business Confidence (Nov) | 67.1 |  | 58.1 |
+| 00:00 | NZD | NBNZ Own Activity (Nov) | 53.1% |  | 44.6% |
+| 00:30 | AUD | Building Capital Expenditure (MoM) (Q3) | 2.1% |  | 0.2% |
+| 00:30 | AUD | Plant/Machinery Capital Expenditure (QoQ) (Q3) | 11.5% |  | 0.3% |
+| 30 min | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
+| 30 min | KRW | Interest Rate Decision (Nov) |  | 2.50% | 2.50% |
+| 01:30 | CNY | Chinese Industrial profit YTD (Oct) |  |  | 3.2% |
+| 06:00 | NOK | Unemployment Rate (Oct) |  |  | 4.8% |
+| 09:00 | EUR | Italian Business Confidence (Nov) |  | 88.5 | 88.3 |
+| 09:00 | EUR | Italian Consumer Confidence (Nov) |  | 97.6 | 97.6 |
+| 09:00 | EUR | M3 Money Supply (YoY) (Oct) |  | 2.8% | 2.8% |
+| 09:00 | EUR | M3 Money Supply (Oct) |  |  | 16,990.4B |
+| 09:00 | EUR | Loans to Non Financial Corporations (Oct) |  |  | 2.9% |
+| 09:00 | EUR | Private Sector Loans (YoY) (Oct) |  | 2.6% | 2.6% |
+| 09:30 | ZAR | PPI (MoM) (Oct) |  |  | -0.1% |
+| 09:30 | ZAR | PPI (YoY) (Oct) |  |  | 2.3% |
+| 10:00 | EUR | Italian Industrial Sales (YoY) (Sep) |  |  | -0.10% |
+| 10:00 | EUR | Italian Industrial Sales (MoM) (Sep) |  |  | -0.70% |
+| 10:00 | EUR | Business and Consumer Survey (Nov) |  | 97.0 | 96.8 |
+| 10:00 | EUR | Business Climate (Nov) |  |  | -0.46 |
+| 10:00 | EUR | Consumer Confidence (Nov) |  | -14.2 | -14.2 |
+| 10:00 | EUR | Consumer Inflation Expectation (Nov) |  |  | 21.9 |
+| 10:00 | EUR | Selling Price Expectations (Nov) |  |  | 7.5 |
+| 10:00 | EUR | Services Sentiment (Nov) |  | 4.4 | 4.0 |
+| 10:00 | EUR | Industrial Sentiment (Nov) |  | -8.0 | -8.2 |
+| 10:10 | EUR | Italian 5-Year BTP Auction |  |  | 2.75% |
+| 11:00 | BRL | IGP-M Inflation Index (MoM) (Nov) |  | 0.28% | -0.36% |
+| 12:00 | MXN | Trade Balance (Oct) |  | -0.450B | -2.400B |
+| 12:00 | MXN | Trade Balance (USD) (Oct) |  |  | -0.831B |
+| 12:00 | EUR | Spanish Business Confidence (Nov) |  |  | -5.4 |
+| 12:00 | EUR | Spanish Consumer Confidence (Oct) |  |  | 81.5 |
+| 12:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
+| 13:30 | CAD | Average Weekly Earnings (YoY) (Sep) |  |  | 3.01% |
+| 15:00 | USD | Building Permits (MoM) (Sep) |  |  | -2.3% |
+| 15:00 | USD | Corporate Profits (QoQ) (Q3) |  |  | 0.2% |
+| 15:00 | USD | Durables Excluding Transport (MoM) |  | 0.2% | 0.3% |
+| 15:00 | USD | Personal Income (MoM) (Sep) |  | 0.4% | 0.4% |
+| 15:00 | USD | Real Consumer Spending (Q3) |  |  | 2.5% |
+| 15:00 | USD | Wholesale Inventories (MoM) (Aug) |  | -0.2% | 0.1% |
+| 15:00 | USD | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.4% |
+| 15:30 | USD | Natural Gas Storage |  |  | -14B |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.918T |
+| 23:00 | KRW | Industrial Production (YoY) (Oct) |  |  | 11.6% |
+| 23:00 | KRW | Industrial Production (MoM) (Oct) |  | -0.2% | -1.2% |
+| 23:00 | KRW | Retail Sales (MoM) (Oct) |  |  | -0.1% |
+| 23:00 | KRW | Service Sector Output (MoM) (Oct) |  |  | 1.8% |
+| 23:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Nov) |  |  | 1.6% |
+| 23:30 | JPY | Jobs/applications ratio (Oct) |  | 1.20 | 1.20 |
+| 23:30 | JPY | Tokyo CPI (YoY) (Nov) |  | 2.7% | 2.8% |
+| 23:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Nov) |  |  | 0.9% |
+| 23:30 | JPY | Unemployment Rate (Oct) |  | 2.5% | 2.6% |
+| 23:50 | JPY | Foreign Bonds Buying |  |  | 348.4B |
+| 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 1,020.9B |
+| 23:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Nov) |  |  | 1.9% |
+| 23:50 | JPY | Industrial Production forecast 2m ahead (MoM) (Dec) |  |  | -0.9% |
+| 23:50 | JPY | Large Retailers' Sales (MoM) (Oct) |  |  | 0.3% |
+| 23:50 | JPY | Large Scale Retail Sales YoY (YoY) (Oct) |  |  | 3.0% |
+| 23:50 | JPY | Retail Sales (YoY) (Oct) |  | 0.8% | 0.5% |
