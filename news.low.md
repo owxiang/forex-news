@@ -30,12 +30,13 @@
 | 10:10 | EUR | Italian 5-Year BTP Auction | 2.74% |  | 2.75% |
 | 11:00 | BRL | IGP-M Inflation Index (MoM) (Nov) | 0.27% | 0.28% | -0.36% |
 | 12:00 | MXN | Trade Balance (Oct) | 0.606B | -0.450B | -2.400B |
-| 12:00 | MXN | Trade Balance (USD) (Oct) | 1.411B |  | -0.831B |
+| 12:00 | MXN | Trade Balance (USD) (Oct) | 1.411B |  | -0.853B |
 | 12:00 | EUR | Spanish Business Confidence (Nov) | -3.0 |  | -5.4 |
 | 12:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
-| 13:30 | CAD | Average Weekly Earnings (YoY) (Sep) |  |  | 3.01% |
-| 23:00 | KRW | Industrial Production (YoY) (Oct) |  |  | 11.6% |
+| 14 min | CAD | Average Weekly Earnings (YoY) (Sep) |  |  | 3.01% |
+| 17:30 | BRL | CAGED Net Payroll Jobs (Oct) |  | 105.00K | 213.00K |
 | 23:00 | KRW | Industrial Production (MoM) (Oct) |  | -0.2% | -1.2% |
+| 23:00 | KRW | Industrial Production (YoY) (Oct) |  |  | 11.6% |
 | 23:00 | KRW | Retail Sales (MoM) (Oct) |  |  | -0.1% |
 | 23:00 | KRW | Service Sector Output (MoM) (Oct) |  |  | 1.8% |
 | 23:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Nov) |  |  | 1.6% |

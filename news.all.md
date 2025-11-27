@@ -35,15 +35,16 @@
 | 10:45 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 11:00 | BRL | Low | IGP-M Inflation Index (MoM) (Nov) | 0.27% | 0.28% | -0.36% |
 | 12:00 | MXN | Low | Trade Balance (Oct) | 0.606B | -0.450B | -2.400B |
-| 12:00 | MXN | Low | Trade Balance (USD) (Oct) | 1.411B |  | -0.831B |
+| 12:00 | MXN | Low | Trade Balance (USD) (Oct) | 1.411B |  | -0.853B |
 | 12:00 | EUR | Low | Spanish Business Confidence (Nov) | -3.0 |  | -5.4 |
 | 12:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 17 min | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Sep) |  |  | 3.01% |
-| 13:30 | CAD | Moderate | Current Account (Q3) |  | -15.1B | -21.2B |
-| 14:00 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 23:00 | KRW | Low | Industrial Production (YoY) (Oct) |  |  | 11.6% |
+| 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 14 min | CAD | Low | Average Weekly Earnings (YoY) (Sep) |  |  | 3.01% |
+| 14 min | CAD | Moderate | Current Account (Q3) |  | -15.1B | -21.2B |
+| 44 min | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
+| 17:30 | BRL | Low | CAGED Net Payroll Jobs (Oct) |  | 105.00K | 213.00K |
 | 23:00 | KRW | Low | Industrial Production (MoM) (Oct) |  | -0.2% | -1.2% |
+| 23:00 | KRW | Low | Industrial Production (YoY) (Oct) |  |  | 11.6% |
 | 23:00 | KRW | Low | Retail Sales (MoM) (Oct) |  |  | -0.1% |
 | 23:00 | KRW | Low | Service Sector Output (MoM) (Oct) |  |  | 1.8% |
 | 23:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Nov) |  |  | 1.6% |
