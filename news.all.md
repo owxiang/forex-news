@@ -13,23 +13,23 @@
 | 01:30 | CNY | Low | Chinese Industrial profit YTD (Oct) | 1.9% |  | 3.2% |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Dec) | -23.2 | -23.6 | -24.1 |
 | 07:00 | NOK | Low | Unemployment Rate (Oct) | 4.5% |  | 4.8% |
-| 50 min | EUR | Low | Italian Business Confidence (Nov) |  | 88.5 | 88.3 |
-| 50 min | EUR | Low | Italian Consumer Confidence (Nov) |  | 97.6 | 97.6 |
-| 50 min | EUR | Low | M3 Money Supply (Oct) |  |  | 16,990.4B |
-| 50 min | EUR | Low | M3 Money Supply (YoY) (Oct) |  | 2.8% | 2.8% |
-| 50 min | EUR | Low | Loans to Non Financial Corporations (Oct) |  |  | 2.9% |
-| 50 min | EUR | Low | Private Sector Loans (YoY) (Oct) |  | 2.6% | 2.6% |
-| 09:30 | ZAR | Low | PPI (MoM) (Oct) |  |  | -0.1% |
-| 09:30 | ZAR | Low | PPI (YoY) (Oct) |  |  | 2.3% |
-| 10:00 | EUR | Low | Italian Industrial Sales (MoM) (Sep) |  |  | -0.70% |
-| 10:00 | EUR | Low | Italian Industrial Sales (YoY) (Sep) |  |  | -0.10% |
-| 10:00 | EUR | Low | Business and Consumer Survey (Nov) |  | 97.0 | 96.8 |
-| 10:00 | EUR | Low | Business Climate (Nov) |  |  | -0.46 |
-| 10:00 | EUR | Low | Consumer Confidence (Nov) |  | -14.2 | -14.2 |
-| 10:00 | EUR | Low | Consumer Inflation Expectation (Nov) |  |  | 21.9 |
-| 10:00 | EUR | Low | Selling Price Expectations (Nov) |  |  | 7.5 |
-| 10:00 | EUR | Low | Services Sentiment (Nov) |  | 4.4 | 4.0 |
-| 10:00 | EUR | Low | Industrial Sentiment (Nov) |  | -8.0 | -8.2 |
+| 09:00 | EUR | Low | Italian Business Confidence (Nov) | 89.6 | 88.5 | 88.4 |
+| 09:00 | EUR | Low | Italian Consumer Confidence (Nov) | 95.0 | 97.6 | 97.6 |
+| 09:00 | EUR | Low | M3 Money Supply (Oct) |  |  | 16,990.4B |
+| 09:00 | EUR | Low | M3 Money Supply (YoY) (Oct) | 2.8% | 2.8% | 2.8% |
+| 09:00 | EUR | Low | Loans to Non Financial Corporations (Oct) | 2.9% |  | 2.9% |
+| 09:00 | EUR | Low | Private Sector Loans (YoY) (Oct) | 2.8% | 2.6% | 2.6% |
+| 22 min | ZAR | Low | PPI (MoM) (Oct) |  |  | -0.1% |
+| 22 min | ZAR | Low | PPI (YoY) (Oct) |  |  | 2.3% |
+| 52 min | EUR | Low | Italian Industrial Sales (MoM) (Sep) |  |  | -0.70% |
+| 52 min | EUR | Low | Italian Industrial Sales (YoY) (Sep) |  |  | -0.10% |
+| 52 min | EUR | Low | Business and Consumer Survey (Nov) |  | 97.0 | 96.8 |
+| 52 min | EUR | Low | Business Climate (Nov) |  |  | -0.46 |
+| 52 min | EUR | Low | Consumer Confidence (Nov) |  | -14.2 | -14.2 |
+| 52 min | EUR | Low | Consumer Inflation Expectation (Nov) |  |  | 21.9 |
+| 52 min | EUR | Low | Selling Price Expectations (Nov) |  |  | 7.5 |
+| 52 min | EUR | Low | Services Sentiment (Nov) |  | 4.4 | 4.0 |
+| 52 min | EUR | Low | Industrial Sentiment (Nov) |  | -8.0 | -8.2 |
 | 10:10 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 3.46% |
 | 10:10 | EUR | Low | Italian 5-Year BTP Auction |  |  | 2.75% |
 | 10:45 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
