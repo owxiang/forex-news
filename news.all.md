@@ -30,15 +30,15 @@
 | 10:00 | EUR | Low | Selling Price Expectations (Nov) | 9.9 |  | 7.8 |
 | 10:00 | EUR | Low | Services Sentiment (Nov) | 5.7 | 4.4 | 4.2 |
 | 10:00 | EUR | Low | Industrial Sentiment (Nov) | -9.3 | -8.0 | -8.5 |
-| 2 min | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 3.46% |
-| 2 min | EUR | Low | Italian 5-Year BTP Auction |  |  | 2.75% |
-| 37 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 52 min | BRL | Low | IGP-M Inflation Index (MoM) (Nov) |  | 0.28% | -0.36% |
-| 12:00 | MXN | Low | Trade Balance (Oct) |  | -0.450B | -2.400B |
-| 12:00 | MXN | Low | Trade Balance (USD) (Oct) |  |  | -0.831B |
-| 12:00 | EUR | Low | Spanish Business Confidence (Nov) |  |  | -5.4 |
-| 12:00 | EUR | Low | Spanish Consumer Confidence (Oct) |  |  | 81.5 |
-| 12:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
+| 10:10 | EUR | Moderate | Italian 10-Year BTP Auction | 3.44% |  | 3.46% |
+| 10:10 | EUR | Low | Italian 5-Year BTP Auction | 2.74% |  | 2.75% |
+| 10:45 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 11:00 | BRL | Low | IGP-M Inflation Index (MoM) (Nov) | 0.27% | 0.28% | -0.36% |
+| 53 min | MXN | Low | Trade Balance (Oct) |  | -0.450B | -2.400B |
+| 53 min | MXN | Low | Trade Balance (USD) (Oct) |  |  | -0.831B |
+| 53 min | EUR | Low | Spanish Business Confidence (Nov) |  |  | -5.4 |
+| 53 min | EUR | Low | Spanish Consumer Confidence (Oct) |  |  | 81.5 |
+| 53 min | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Sep) |  |  | 3.01% |
 | 13:30 | CAD | Moderate | Current Account (Q3) |  | -15.1B | -21.2B |
