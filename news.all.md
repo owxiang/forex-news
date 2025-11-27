@@ -42,7 +42,7 @@
 | 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Sep) | 3.10% |  | 2.67% |
 | 13:30 | CAD | Moderate | Current Account (Q3) | -9.7B | -15.1B | -21.6B |
 | 14:00 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 17:30 | BRL | Low | CAGED Net Payroll Jobs (Oct) |  | 105.00K | 213.00K |
+| 24 min | BRL | Low | CAGED Net Payroll Jobs (Oct) |  | 105.00K | 213.00K |
 | 23:00 | KRW | Low | Industrial Production (MoM) (Oct) |  | -0.2% | -1.2% |
 | 23:00 | KRW | Low | Industrial Production (YoY) (Oct) |  |  | 11.6% |
 | 23:00 | KRW | Low | Retail Sales (MoM) (Oct) |  |  | -0.1% |

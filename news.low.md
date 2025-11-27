@@ -34,7 +34,7 @@
 | 12:00 | EUR | Spanish Business Confidence (Nov) | -3.0 |  | -5.4 |
 | 12:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 13:30 | CAD | Average Weekly Earnings (YoY) (Sep) | 3.10% |  | 2.67% |
-| 17:30 | BRL | CAGED Net Payroll Jobs (Oct) |  | 105.00K | 213.00K |
+| 24 min | BRL | CAGED Net Payroll Jobs (Oct) |  | 105.00K | 213.00K |
 | 23:00 | KRW | Industrial Production (MoM) (Oct) |  | -0.2% | -1.2% |
 | 23:00 | KRW | Industrial Production (YoY) (Oct) |  |  | 11.6% |
 | 23:00 | KRW | Retail Sales (MoM) (Oct) |  |  | -0.1% |
