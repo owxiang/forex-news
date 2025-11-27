@@ -43,10 +43,10 @@
 | 13:30 | CAD | Moderate | Current Account (Q3) | -9.7B | -15.1B | -21.6B |
 | 14:00 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 17:30 | BRL | Low | CAGED Net Payroll Jobs (Oct) | 85.15K | 105.00K | 213.00K |
-| 23:00 | KRW | Low | Industrial Production (MoM) (Oct) |  | -0.2% | -1.2% |
-| 23:00 | KRW | Low | Industrial Production (YoY) (Oct) |  |  | 11.6% |
-| 23:00 | KRW | Low | Retail Sales (MoM) (Oct) |  |  | -0.1% |
-| 23:00 | KRW | Low | Service Sector Output (MoM) (Oct) |  |  | 1.8% |
+| 53 min | KRW | Low | Industrial Production (MoM) (Oct) |  | -0.2% | -1.2% |
+| 53 min | KRW | Low | Industrial Production (YoY) (Oct) |  |  | 11.6% |
+| 53 min | KRW | Low | Retail Sales (MoM) (Oct) |  |  | -0.1% |
+| 53 min | KRW | Low | Service Sector Output (MoM) (Oct) |  |  | 1.8% |
 | 23:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Nov) |  |  | 1.6% |
 | 23:30 | JPY | Low | Jobs/applications ratio (Oct) |  | 1.20 | 1.20 |
 | 23:30 | JPY | Moderate | Tokyo Core CPI (YoY) (Nov) |  | 2.7% | 2.8% |

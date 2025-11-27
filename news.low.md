@@ -35,10 +35,10 @@
 | 12:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 13:30 | CAD | Average Weekly Earnings (YoY) (Sep) | 3.10% |  | 2.67% |
 | 17:30 | BRL | CAGED Net Payroll Jobs (Oct) | 85.15K | 105.00K | 213.00K |
-| 23:00 | KRW | Industrial Production (MoM) (Oct) |  | -0.2% | -1.2% |
-| 23:00 | KRW | Industrial Production (YoY) (Oct) |  |  | 11.6% |
-| 23:00 | KRW | Retail Sales (MoM) (Oct) |  |  | -0.1% |
-| 23:00 | KRW | Service Sector Output (MoM) (Oct) |  |  | 1.8% |
+| 53 min | KRW | Industrial Production (MoM) (Oct) |  | -0.2% | -1.2% |
+| 53 min | KRW | Industrial Production (YoY) (Oct) |  |  | 11.6% |
+| 53 min | KRW | Retail Sales (MoM) (Oct) |  |  | -0.1% |
+| 53 min | KRW | Service Sector Output (MoM) (Oct) |  |  | 1.8% |
 | 23:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Nov) |  |  | 1.6% |
 | 23:30 | JPY | Jobs/applications ratio (Oct) |  | 1.20 | 1.20 |
 | 23:30 | JPY | Tokyo CPI (YoY) (Nov) |  | 2.7% | 2.8% |
