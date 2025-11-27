@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Private New Capital Expenditure (QoQ) (Q3) | 6.4% | 0.6% | 0.2% |
+| 00:30 | AUD | Private New Capital Expenditure (QoQ) (Q3) | 6.4% | 0.6% | 0.4% |
 | 01:30 | JPY | BoJ Board Member Noguchi Speaks |  |  |  |
 | 07:00 | EUR | GfK German Consumer Climate (Dec) |  | -23.6 | -24.1 |
 | 10:10 | EUR | Italian 10-Year BTP Auction |  |  | 3.46% |

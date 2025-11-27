@@ -5,12 +5,12 @@
 | 00:00 | NZD | Low | ANZ Business Confidence (Nov) | 67.1 |  | 58.1 |
 | 00:00 | NZD | Low | NBNZ Own Activity (Nov) | 53.1% |  | 44.6% |
 | 00:30 | AUD | Low | Building Capital Expenditure (MoM) (Q3) | 2.1% |  | 0.2% |
-| 00:30 | AUD | Low | Plant/Machinery Capital Expenditure (QoQ) (Q3) | 11.5% |  | 0.3% |
-| 00:30 | AUD | Moderate | Private New Capital Expenditure (QoQ) (Q3) | 6.4% | 0.6% | 0.2% |
-| 30 min | KRW | Low | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
-| 30 min | KRW | Low | Interest Rate Decision (Nov) |  | 2.50% | 2.50% |
+| 00:30 | AUD | Low | Plant/Machinery Capital Expenditure (QoQ) (Q3) | 11.5% |  | 0.7% |
+| 00:30 | AUD | Moderate | Private New Capital Expenditure (QoQ) (Q3) | 6.4% | 0.6% | 0.4% |
+| 01:00 | KRW | Low | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
+| 01:00 | KRW | Low | Interest Rate Decision (Nov) | 2.50% | 2.50% | 2.50% |
 | 01:30 | JPY | Moderate | BoJ Board Member Noguchi Speaks |  |  |  |
-| 01:30 | CNY | Low | Chinese Industrial profit YTD (Oct) |  |  | 3.2% |
+| 01:30 | CNY | Low | Chinese Industrial profit YTD (Oct) | 1.9% |  | 3.2% |
 | 06:00 | NOK | Low | Unemployment Rate (Oct) |  |  | 4.8% |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Dec) |  | -23.6 | -24.1 |
 | 09:00 | EUR | Low | Italian Business Confidence (Nov) |  | 88.5 | 88.3 |

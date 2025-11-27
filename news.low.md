@@ -5,10 +5,10 @@
 | 00:00 | NZD | ANZ Business Confidence (Nov) | 67.1 |  | 58.1 |
 | 00:00 | NZD | NBNZ Own Activity (Nov) | 53.1% |  | 44.6% |
 | 00:30 | AUD | Building Capital Expenditure (MoM) (Q3) | 2.1% |  | 0.2% |
-| 00:30 | AUD | Plant/Machinery Capital Expenditure (QoQ) (Q3) | 11.5% |  | 0.3% |
-| 30 min | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
-| 30 min | KRW | Interest Rate Decision (Nov) |  | 2.50% | 2.50% |
-| 01:30 | CNY | Chinese Industrial profit YTD (Oct) |  |  | 3.2% |
+| 00:30 | AUD | Plant/Machinery Capital Expenditure (QoQ) (Q3) | 11.5% |  | 0.7% |
+| 01:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
+| 01:00 | KRW | Interest Rate Decision (Nov) | 2.50% | 2.50% | 2.50% |
+| 01:30 | CNY | Chinese Industrial profit YTD (Oct) | 1.9% |  | 3.2% |
 | 06:00 | NOK | Unemployment Rate (Oct) |  |  | 4.8% |
 | 09:00 | EUR | Italian Business Confidence (Nov) |  | 88.5 | 88.3 |
 | 09:00 | EUR | Italian Consumer Confidence (Nov) |  | 97.6 | 97.6 |
