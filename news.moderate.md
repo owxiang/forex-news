@@ -8,7 +8,7 @@
 | 10:10 | EUR | Italian 10-Year BTP Auction | 3.44% |  | 3.46% |
 | 10:45 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 14 min | CAD | Current Account (Q3) |  | -15.1B | -21.2B |
-| 44 min | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
+| 13:30 | CAD | Current Account (Q3) | -9.7B | -15.1B | -21.6B |
+| 14:00 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 23:30 | JPY | Tokyo Core CPI (YoY) (Nov) |  | 2.7% | 2.8% |
 | 23:50 | JPY | Industrial Production (MoM) (Oct) |  | -0.5% | 2.6% |
