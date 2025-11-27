@@ -35,19 +35,19 @@
 | 12:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 13:30 | CAD | Average Weekly Earnings (YoY) (Sep) | 3.10% |  | 2.67% |
 | 17:30 | BRL | CAGED Net Payroll Jobs (Oct) | 85.15K | 105.00K | 213.00K |
-| 53 min | KRW | Industrial Production (MoM) (Oct) |  | -0.2% | -1.2% |
-| 53 min | KRW | Industrial Production (YoY) (Oct) |  |  | 11.6% |
-| 53 min | KRW | Retail Sales (MoM) (Oct) |  |  | -0.1% |
-| 53 min | KRW | Service Sector Output (MoM) (Oct) |  |  | 1.8% |
-| 23:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Nov) |  |  | 1.6% |
-| 23:30 | JPY | Jobs/applications ratio (Oct) |  | 1.20 | 1.20 |
-| 23:30 | JPY | Tokyo CPI (YoY) (Nov) |  | 2.7% | 2.8% |
-| 23:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Nov) |  |  | 0.9% |
-| 23:30 | JPY | Unemployment Rate (Oct) |  | 2.5% | 2.6% |
-| 23:50 | JPY | Foreign Bonds Buying |  |  | 348.4B |
-| 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 1,020.9B |
-| 23:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Nov) |  |  | 1.9% |
-| 23:50 | JPY | Industrial Production forecast 2m ahead (MoM) (Dec) |  |  | -0.9% |
-| 23:50 | JPY | Large Retailers' Sales (MoM) (Oct) |  |  | 0.3% |
-| 23:50 | JPY | Large Scale Retail Sales YoY (YoY) (Oct) |  |  | 3.0% |
-| 23:50 | JPY | Retail Sales (YoY) (Oct) |  | 0.8% | 0.5% |
+| 23:00 | KRW | Industrial Production (MoM) (Oct) | -4.0% | -0.2% | -1.2% |
+| 23:00 | KRW | Industrial Production (YoY) (Oct) | -8.1% |  | 11.6% |
+| 23:00 | KRW | Retail Sales (MoM) (Oct) | 3.5% |  | -0.1% |
+| 23:00 | KRW | Service Sector Output (MoM) (Oct) | -0.6% |  | 1.8% |
+| 23 min | JPY | CPI Tokyo Ex Food & Energy (YoY) (Nov) |  |  | 1.6% |
+| 23 min | JPY | Jobs/applications ratio (Oct) |  | 1.20 | 1.20 |
+| 23 min | JPY | Tokyo CPI (YoY) (Nov) |  | 2.7% | 2.8% |
+| 23 min | JPY | CPI Tokyo Ex Food and Energy (MoM) (Nov) |  |  | 0.9% |
+| 23 min | JPY | Unemployment Rate (Oct) |  | 2.5% | 2.6% |
+| 43 min | JPY | Foreign Bonds Buying |  |  | 348.4B |
+| 43 min | JPY | Foreign Investments in Japanese Stocks |  |  | 1,020.9B |
+| 43 min | JPY | Industrial Production forecast 1m ahead (MoM) (Nov) |  |  | 1.9% |
+| 43 min | JPY | Industrial Production forecast 2m ahead (MoM) (Dec) |  |  | -0.9% |
+| 43 min | JPY | Large Retailers' Sales (MoM) (Oct) |  |  | 0.3% |
+| 43 min | JPY | Large Scale Retail Sales YoY (YoY) (Oct) |  |  | 3.0% |
+| 43 min | JPY | Retail Sales (YoY) (Oct) |  | 0.8% | 0.5% |
