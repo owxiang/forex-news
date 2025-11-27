@@ -13,12 +13,12 @@
 | 01:30 | CNY | Low | Chinese Industrial profit YTD (Oct) | 1.9% |  | 3.2% |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Dec) | -23.2 | -23.6 | -24.1 |
 | 07:00 | NOK | Low | Unemployment Rate (Oct) | 4.5% |  | 4.8% |
-| 09:00 | EUR | Low | Italian Business Confidence (Nov) |  | 88.5 | 88.3 |
-| 09:00 | EUR | Low | Italian Consumer Confidence (Nov) |  | 97.6 | 97.6 |
-| 09:00 | EUR | Low | M3 Money Supply (Oct) |  |  | 16,990.4B |
-| 09:00 | EUR | Low | M3 Money Supply (YoY) (Oct) |  | 2.8% | 2.8% |
-| 09:00 | EUR | Low | Loans to Non Financial Corporations (Oct) |  |  | 2.9% |
-| 09:00 | EUR | Low | Private Sector Loans (YoY) (Oct) |  | 2.6% | 2.6% |
+| 50 min | EUR | Low | Italian Business Confidence (Nov) |  | 88.5 | 88.3 |
+| 50 min | EUR | Low | Italian Consumer Confidence (Nov) |  | 97.6 | 97.6 |
+| 50 min | EUR | Low | M3 Money Supply (Oct) |  |  | 16,990.4B |
+| 50 min | EUR | Low | M3 Money Supply (YoY) (Oct) |  | 2.8% | 2.8% |
+| 50 min | EUR | Low | Loans to Non Financial Corporations (Oct) |  |  | 2.9% |
+| 50 min | EUR | Low | Private Sector Loans (YoY) (Oct) |  | 2.6% | 2.6% |
 | 09:30 | ZAR | Low | PPI (MoM) (Oct) |  |  | -0.1% |
 | 09:30 | ZAR | Low | PPI (YoY) (Oct) |  |  | 2.3% |
 | 10:00 | EUR | Low | Italian Industrial Sales (MoM) (Sep) |  |  | -0.70% |
