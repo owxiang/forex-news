@@ -10,11 +10,5 @@
 | 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:30 | CAD | Current Account (Q3) |  | -15.1B | -21.2B |
 | 14:00 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 15:00 | USD | Building Permits (Sep) |  | 1.340M | 1.330M |
-| 15:00 | USD | Goods Trade Balance (Sep) |  | -90.00B | -85.50B |
-| 15:00 | USD | New Home Sales (MoM) (Sep) |  |  | 20.5% |
-| 15:00 | USD | Personal Spending (MoM) (Sep) |  | 0.4% | 0.6% |
-| 15:00 | USD | Retail Inventories Ex Auto (Sep) |  | 0.3% | 0.1% |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 6,555B |
 | 23:30 | JPY | Tokyo Core CPI (YoY) (Nov) |  | 2.7% | 2.8% |
 | 23:50 | JPY | Industrial Production (MoM) (Oct) |  | -0.5% | 2.6% |

@@ -15,14 +15,14 @@
 | 07:00 | NOK | Low | Unemployment Rate (Oct) |  |  | 4.8% |
 | 09:00 | EUR | Low | Italian Business Confidence (Nov) |  | 88.5 | 88.3 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Nov) |  | 97.6 | 97.6 |
-| 09:00 | EUR | Low | M3 Money Supply (YoY) (Oct) |  | 2.8% | 2.8% |
 | 09:00 | EUR | Low | M3 Money Supply (Oct) |  |  | 16,990.4B |
+| 09:00 | EUR | Low | M3 Money Supply (YoY) (Oct) |  | 2.8% | 2.8% |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Oct) |  |  | 2.9% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) (Oct) |  | 2.6% | 2.6% |
 | 09:30 | ZAR | Low | PPI (MoM) (Oct) |  |  | -0.1% |
 | 09:30 | ZAR | Low | PPI (YoY) (Oct) |  |  | 2.3% |
-| 10:00 | EUR | Low | Italian Industrial Sales (YoY) (Sep) |  |  | -0.10% |
 | 10:00 | EUR | Low | Italian Industrial Sales (MoM) (Sep) |  |  | -0.70% |
+| 10:00 | EUR | Low | Italian Industrial Sales (YoY) (Sep) |  |  | -0.10% |
 | 10:00 | EUR | Low | Business and Consumer Survey (Nov) |  | 97.0 | 96.8 |
 | 10:00 | EUR | Low | Business Climate (Nov) |  |  | -0.46 |
 | 10:00 | EUR | Low | Consumer Confidence (Nov) |  | -14.2 | -14.2 |
@@ -43,24 +43,8 @@
 | 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Sep) |  |  | 3.01% |
 | 13:30 | CAD | Moderate | Current Account (Q3) |  | -15.1B | -21.2B |
 | 14:00 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 15:00 | USD | Moderate | Building Permits (Sep) |  | 1.340M | 1.330M |
-| 15:00 | USD | Low | Building Permits (MoM) (Sep) |  |  | -2.3% |
-| 15:00 | USD | Low | Corporate Profits (QoQ) (Q3) |  |  | 0.2% |
-| 15:00 | USD | Low | Durables Excluding Transport (MoM) |  | 0.2% | 0.3% |
-| 15:00 | USD | Moderate | Goods Trade Balance (Sep) |  | -90.00B | -85.50B |
-| 15:00 | USD | High | New Home Sales (Sep) |  | 710K | 800K |
-| 15:00 | USD | Moderate | New Home Sales (MoM) (Sep) |  |  | 20.5% |
-| 15:00 | USD | Low | Personal Income (MoM) (Sep) |  | 0.4% | 0.4% |
-| 15:00 | USD | Moderate | Personal Spending (MoM) (Sep) |  | 0.4% | 0.6% |
-| 15:00 | USD | Low | Real Consumer Spending (Q3) |  |  | 2.5% |
-| 15:00 | USD | Moderate | Retail Inventories Ex Auto (Sep) |  | 0.3% | 0.1% |
-| 15:00 | USD | Low | Wholesale Inventories (MoM) (Aug) |  | -0.2% | 0.1% |
-| 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.4% |
-| 15:30 | USD | Low | Natural Gas Storage |  |  | -14B |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,555B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.918T |
-| 23:00 | KRW | Low | Industrial Production (YoY) (Oct) |  |  | 11.6% |
 | 23:00 | KRW | Low | Industrial Production (MoM) (Oct) |  | -0.2% | -1.2% |
+| 23:00 | KRW | Low | Industrial Production (YoY) (Oct) |  |  | 11.6% |
 | 23:00 | KRW | Low | Retail Sales (MoM) (Oct) |  |  | -0.1% |
 | 23:00 | KRW | Low | Service Sector Output (MoM) (Oct) |  |  | 1.8% |
 | 23:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Nov) |  |  | 1.6% |

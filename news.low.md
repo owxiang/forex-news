@@ -12,14 +12,14 @@
 | 07:00 | NOK | Unemployment Rate (Oct) |  |  | 4.8% |
 | 09:00 | EUR | Italian Business Confidence (Nov) |  | 88.5 | 88.3 |
 | 09:00 | EUR | Italian Consumer Confidence (Nov) |  | 97.6 | 97.6 |
-| 09:00 | EUR | M3 Money Supply (YoY) (Oct) |  | 2.8% | 2.8% |
 | 09:00 | EUR | M3 Money Supply (Oct) |  |  | 16,990.4B |
+| 09:00 | EUR | M3 Money Supply (YoY) (Oct) |  | 2.8% | 2.8% |
 | 09:00 | EUR | Loans to Non Financial Corporations (Oct) |  |  | 2.9% |
 | 09:00 | EUR | Private Sector Loans (YoY) (Oct) |  | 2.6% | 2.6% |
 | 09:30 | ZAR | PPI (MoM) (Oct) |  |  | -0.1% |
 | 09:30 | ZAR | PPI (YoY) (Oct) |  |  | 2.3% |
-| 10:00 | EUR | Italian Industrial Sales (YoY) (Sep) |  |  | -0.10% |
 | 10:00 | EUR | Italian Industrial Sales (MoM) (Sep) |  |  | -0.70% |
+| 10:00 | EUR | Italian Industrial Sales (YoY) (Sep) |  |  | -0.10% |
 | 10:00 | EUR | Business and Consumer Survey (Nov) |  | 97.0 | 96.8 |
 | 10:00 | EUR | Business Climate (Nov) |  |  | -0.46 |
 | 10:00 | EUR | Consumer Confidence (Nov) |  | -14.2 | -14.2 |
@@ -35,17 +35,8 @@
 | 12:00 | EUR | Spanish Consumer Confidence (Oct) |  |  | 81.5 |
 | 12:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 13:30 | CAD | Average Weekly Earnings (YoY) (Sep) |  |  | 3.01% |
-| 15:00 | USD | Building Permits (MoM) (Sep) |  |  | -2.3% |
-| 15:00 | USD | Corporate Profits (QoQ) (Q3) |  |  | 0.2% |
-| 15:00 | USD | Durables Excluding Transport (MoM) |  | 0.2% | 0.3% |
-| 15:00 | USD | Personal Income (MoM) (Sep) |  | 0.4% | 0.4% |
-| 15:00 | USD | Real Consumer Spending (Q3) |  |  | 2.5% |
-| 15:00 | USD | Wholesale Inventories (MoM) (Aug) |  | -0.2% | 0.1% |
-| 15:00 | USD | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.4% |
-| 15:30 | USD | Natural Gas Storage |  |  | -14B |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.918T |
-| 23:00 | KRW | Industrial Production (YoY) (Oct) |  |  | 11.6% |
 | 23:00 | KRW | Industrial Production (MoM) (Oct) |  | -0.2% | -1.2% |
+| 23:00 | KRW | Industrial Production (YoY) (Oct) |  |  | 11.6% |
 | 23:00 | KRW | Retail Sales (MoM) (Oct) |  |  | -0.1% |
 | 23:00 | KRW | Service Sector Output (MoM) (Oct) |  |  | 1.8% |
 | 23:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Nov) |  |  | 1.6% |
