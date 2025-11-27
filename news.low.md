@@ -9,7 +9,7 @@
 | 01:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 01:00 | KRW | Interest Rate Decision (Nov) | 2.50% | 2.50% | 2.50% |
 | 01:30 | CNY | Chinese Industrial profit YTD (Oct) | 1.9% |  | 3.2% |
-| 06:00 | NOK | Unemployment Rate (Oct) |  |  | 4.8% |
+| 07:00 | NOK | Unemployment Rate (Oct) |  |  | 4.8% |
 | 09:00 | EUR | Italian Business Confidence (Nov) |  | 88.5 | 88.3 |
 | 09:00 | EUR | Italian Consumer Confidence (Nov) |  | 97.6 | 97.6 |
 | 09:00 | EUR | M3 Money Supply (YoY) (Oct) |  | 2.8% | 2.8% |
