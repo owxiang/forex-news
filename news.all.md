@@ -19,21 +19,21 @@
 | 09:00 | EUR | Low | M3 Money Supply (YoY) (Oct) | 2.8% | 2.8% | 2.8% |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Oct) | 2.9% |  | 2.9% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) (Oct) | 2.8% | 2.6% | 2.6% |
-| 22 min | ZAR | Low | PPI (MoM) (Oct) |  |  | -0.1% |
-| 22 min | ZAR | Low | PPI (YoY) (Oct) |  |  | 2.3% |
-| 52 min | EUR | Low | Italian Industrial Sales (MoM) (Sep) |  |  | -0.70% |
-| 52 min | EUR | Low | Italian Industrial Sales (YoY) (Sep) |  |  | -0.10% |
-| 52 min | EUR | Low | Business and Consumer Survey (Nov) |  | 97.0 | 96.8 |
-| 52 min | EUR | Low | Business Climate (Nov) |  |  | -0.46 |
-| 52 min | EUR | Low | Consumer Confidence (Nov) |  | -14.2 | -14.2 |
-| 52 min | EUR | Low | Consumer Inflation Expectation (Nov) |  |  | 21.9 |
-| 52 min | EUR | Low | Selling Price Expectations (Nov) |  |  | 7.5 |
-| 52 min | EUR | Low | Services Sentiment (Nov) |  | 4.4 | 4.0 |
-| 52 min | EUR | Low | Industrial Sentiment (Nov) |  | -8.0 | -8.2 |
-| 10:10 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 3.46% |
-| 10:10 | EUR | Low | Italian 5-Year BTP Auction |  |  | 2.75% |
-| 10:45 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 11:00 | BRL | Low | IGP-M Inflation Index (MoM) (Nov) |  | 0.28% | -0.36% |
+| 09:30 | ZAR | Low | PPI (MoM) (Oct) | -0.1% |  | -0.1% |
+| 09:30 | ZAR | Low | PPI (YoY) (Oct) | 2.9% |  | 2.3% |
+| 10:00 | EUR | Low | Italian Industrial Sales (MoM) (Sep) | 2.10% |  | -0.70% |
+| 10:00 | EUR | Low | Italian Industrial Sales (YoY) (Sep) | 3.40% |  | -0.30% |
+| 10:00 | EUR | Low | Business and Consumer Survey (Nov) | 97.0 | 97.0 | 96.8 |
+| 10:00 | EUR | Low | Business Climate (Nov) | -0.66 |  | -0.47 |
+| 10:00 | EUR | Low | Consumer Confidence (Nov) | -14.2 | -14.2 | -14.2 |
+| 10:00 | EUR | Low | Consumer Inflation Expectation (Nov) | 23.1 |  | 21.9 |
+| 10:00 | EUR | Low | Selling Price Expectations (Nov) | 9.9 |  | 7.8 |
+| 10:00 | EUR | Low | Services Sentiment (Nov) | 5.7 | 4.4 | 4.2 |
+| 10:00 | EUR | Low | Industrial Sentiment (Nov) | -9.3 | -8.0 | -8.5 |
+| 2 min | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 3.46% |
+| 2 min | EUR | Low | Italian 5-Year BTP Auction |  |  | 2.75% |
+| 37 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 52 min | BRL | Low | IGP-M Inflation Index (MoM) (Nov) |  | 0.28% | -0.36% |
 | 12:00 | MXN | Low | Trade Balance (Oct) |  | -0.450B | -2.400B |
 | 12:00 | MXN | Low | Trade Balance (USD) (Oct) |  |  | -0.831B |
 | 12:00 | EUR | Low | Spanish Business Confidence (Nov) |  |  | -5.4 |
