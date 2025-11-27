@@ -11,8 +11,8 @@
 | 01:00 | KRW | Low | Interest Rate Decision (Nov) | 2.50% | 2.50% | 2.50% |
 | 01:30 | JPY | Moderate | BoJ Board Member Noguchi Speaks |  |  |  |
 | 01:30 | CNY | Low | Chinese Industrial profit YTD (Oct) | 1.9% |  | 3.2% |
-| 49 min | EUR | Moderate | GfK German Consumer Climate (Dec) |  | -23.6 | -24.1 |
-| 49 min | NOK | Low | Unemployment Rate (Oct) |  |  | 4.8% |
+| 07:00 | EUR | Moderate | GfK German Consumer Climate (Dec) | -23.2 | -23.6 | -24.1 |
+| 07:00 | NOK | Low | Unemployment Rate (Oct) | 4.5% |  | 4.8% |
 | 09:00 | EUR | Low | Italian Business Confidence (Nov) |  | 88.5 | 88.3 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Nov) |  | 97.6 | 97.6 |
 | 09:00 | EUR | Low | M3 Money Supply (Oct) |  |  | 16,990.4B |
