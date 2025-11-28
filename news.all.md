@@ -63,28 +63,27 @@
 | 10:00 | EUR | Low | Italian CPI (YoY) (Nov) | 1.2% |  | 1.2% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Nov) | 1.1% |  | 1.3% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Nov) | -0.2% |  | -0.2% |
+| 10:00 | INR | Low | Federal Fiscal Deficit (Oct) | 8,251.44B |  | 5,731.23B |
 | 10:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 22 min | INR | Low | Cumulative Industrial Production (Oct) |  |  | 3.00% |
-| 22 min | INR | Low | Industrial Production (YoY) (Oct) |  | 3.6% | 4.0% |
-| 22 min | INR | Low | Manufacturing Output (MoM) (Oct) |  |  | 4.8% |
-| 52 min | EUR | Low | Italian Trade Balance Non-EU (Oct) |  |  | 2.74B |
-| 52 min | INR | Low | Federal Fiscal Deficit (Oct) |  |  | 5,731.23B |
-| 52 min | EUR | Moderate | France Jobseekers Total (Oct) |  |  | 3,082.0K |
-| 52 min | EUR | Low | M3 Money Supply (Oct) |  |  | 16,990.4B |
-| 11:30 | INR | Low | Bank Loan Growth |  |  | 11.3% |
-| 11:30 | INR | Low | Deposit Growth |  |  | 9.7% |
-| 11:30 | INR | Low | FX Reserves, USD |  |  | 692.58B |
-| 11:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
-| 11:30 | BRL | Low | Net Debt-to-GDP ratio (Oct) |  |  | 64.8% |
-| 11:30 | BRL | Low | Budget Balance (Oct) |  |  | -102.185B |
-| 11:30 | BRL | Low | Budget Surplus (Oct) |  |  | -17.452B |
-| 11:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Oct) |  |  | 78.1% |
-| 12:00 | MXN | Low | Unemployment Rate (Oct) |  |  | 2.70% |
-| 12:00 | MXN | Low | Unemployment Rate n.s.a. (Oct) |  | 2.80% | 3.00% |
-| 12:00 | INR | Moderate | GDP Quarterly (YoY) (Q2) |  | 7.3% | 7.8% |
-| 12:00 | EUR | Low | Spanish Consumer Confidence (Oct) |  |  | 81.5 |
-| 12:00 | BRL | Moderate | Unemployment Rate (Oct) |  | 5.5% | 5.6% |
-| 12:00 | ZAR | Low | Trade Balance (Oct) |  |  | 21.76B |
+| 10:30 | INR | Moderate | GDP Quarterly (YoY) (Q2) | 8.2% | 7.3% | 7.8% |
+| 11:00 | EUR | Low | Italian Trade Balance Non-EU (Oct) | 5.32B |  | 2.90B |
+| 11:00 | EUR | Moderate | France Jobseekers Total (Oct) | 3,150.8K |  | 3,082.0K |
+| 23 min | INR | Low | Bank Loan Growth |  |  | 11.3% |
+| 23 min | INR | Low | Cumulative Industrial Production (Oct) |  |  | 3.00% |
+| 23 min | INR | Low | Deposit Growth |  |  | 9.7% |
+| 23 min | INR | Low | FX Reserves, USD |  |  | 692.58B |
+| 23 min | INR | Low | Industrial Production (YoY) (Oct) |  | 3.6% | 4.0% |
+| 23 min | INR | Low | Manufacturing Output (MoM) (Oct) |  |  | 4.8% |
+| 23 min | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
+| 23 min | BRL | Low | Net Debt-to-GDP ratio (Oct) |  |  | 64.8% |
+| 23 min | BRL | Low | Budget Balance (Oct) |  |  | -102.185B |
+| 23 min | BRL | Low | Budget Surplus (Oct) |  |  | -17.452B |
+| 23 min | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Oct) |  |  | 78.1% |
+| 53 min | MXN | Low | Unemployment Rate (Oct) |  |  | 2.70% |
+| 53 min | MXN | Low | Unemployment Rate n.s.a. (Oct) |  | 2.80% | 3.00% |
+| 53 min | EUR | Low | Spanish Consumer Confidence (Oct) |  |  | 81.5 |
+| 53 min | BRL | Moderate | Unemployment Rate (Oct) |  | 5.5% | 5.6% |
+| 53 min | ZAR | Low | Trade Balance (Oct) |  |  | 21.76B |
 | 13:00 | EUR | High | German CPI (MoM) (Nov) |  | -0.2% | 0.3% |
 | 13:00 | EUR | Moderate | German CPI (YoY) (Nov) |  | 2.4% | 2.3% |
 | 13:00 | EUR | Low | German HICP (MoM) (Nov) |  | -0.6% | 0.3% |

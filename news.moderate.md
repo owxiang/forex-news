@@ -17,10 +17,10 @@
 | 08:55 | EUR | German Unemployment Rate (Nov) | 6.3% | 6.3% | 6.3% |
 | 09:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 10:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 52 min | EUR | France Jobseekers Total (Oct) |  |  | 3,082.0K |
-| 11:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Oct) |  |  | 78.1% |
-| 12:00 | INR | GDP Quarterly (YoY) (Q2) |  | 7.3% | 7.8% |
-| 12:00 | BRL | Unemployment Rate (Oct) |  | 5.5% | 5.6% |
+| 10:30 | INR | GDP Quarterly (YoY) (Q2) | 8.2% | 7.3% | 7.8% |
+| 11:00 | EUR | France Jobseekers Total (Oct) | 3,150.8K |  | 3,082.0K |
+| 23 min | BRL | Gross Debt-to-GDP ratio (MoM) (Oct) |  |  | 78.1% |
+| 53 min | BRL | Unemployment Rate (Oct) |  | 5.5% | 5.6% |
 | 13:00 | EUR | German CPI (YoY) (Nov) |  | 2.4% | 2.3% |
 | 13:30 | CAD | GDP (MoM) (Sep) |  | 0.2% | -0.3% |
 | 13:30 | CAD | GDP (YoY) (Q3) |  |  | 1.21% |
