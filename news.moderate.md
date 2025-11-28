@@ -13,10 +13,10 @@
 | 08:00 | CHF | GDP (YoY) (Q3) | 0.5% |  | 1.3% |
 | 08:00 | EUR | Spanish CPI (YoY) (Nov) | 3.0% | 3.0% | 3.1% |
 | 08:00 | EUR | Spanish HICP (YoY) (Nov) | 3.1% | 2.9% | 3.2% |
-| 45 min | EUR | German Unemployment Change (Nov) |  | 4K | -1K |
-| 45 min | EUR | German Unemployment Rate (Nov) |  | 6.3% | 6.3% |
-| 50 min | EUR | German Buba Balz Speaks |  |  |  |
-| 10:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 08:55 | EUR | German Unemployment Change (Nov) | 1K | 4K | -2K |
+| 08:55 | EUR | German Unemployment Rate (Nov) | 6.3% | 6.3% | 6.3% |
+| 09:00 | EUR | German Buba Balz Speaks |  |  |  |
+| 52 min | EUR | German Buba President Nagel Speaks |  |  |  |
 | 11:00 | EUR | France Jobseekers Total (Oct) |  |  | 3,082.0K |
 | 11:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Oct) |  |  | 78.1% |
 | 12:00 | INR | GDP Quarterly (YoY) (Q2) |  | 7.3% | 7.8% |
