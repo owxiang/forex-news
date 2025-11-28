@@ -1,3 +1,6 @@
-## 27 November 2025 - High Impact Forex News
+## 28 November 2025 - High Impact Forex News
 
-There is no high impact news today.
+| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 13:00 | EUR | German CPI (MoM) (Nov) |  | -0.2% | 0.3% |
+| 14:45 | USD | Chicago PMI (Dec) |  |  | 43.8 |

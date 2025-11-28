@@ -1,14 +1,31 @@
-## 27 November 2025 - Moderate Impact Forex News
+## 28 November 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Private New Capital Expenditure (QoQ) (Q3) | 6.4% | 0.6% | 0.4% |
-| 01:30 | JPY | BoJ Board Member Noguchi Speaks |  |  |  |
-| 07:00 | EUR | GfK German Consumer Climate (Dec) | -23.2 | -23.6 | -24.1 |
-| 10:10 | EUR | Italian 10-Year BTP Auction | 3.44% |  | 3.46% |
-| 10:45 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:30 | CAD | Current Account (Q3) | -9.7B | -15.1B | -21.6B |
-| 14:00 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 23 min | JPY | Tokyo Core CPI (YoY) (Nov) |  | 2.7% | 2.8% |
-| 43 min | JPY | Industrial Production (MoM) (Oct) |  | -0.5% | 2.6% |
+| 07:00 | EUR | German Retail Sales (MoM) (Oct) |  | 0.1% | 0.2% |
+| 07:45 | EUR | French Consumer Spending (MoM) (Oct) |  | 0.3% | 0.3% |
+| 07:45 | EUR | French CPI (MoM) (Nov) |  | 0.0% | 0.1% |
+| 07:45 | EUR | French GDP (YoY) (Q3) |  | 0.9% | 0.7% |
+| 07:45 | EUR | French GDP (QoQ) (Q3) |  | 0.5% | 0.3% |
+| 07:45 | EUR | French HICP (MoM) (Nov) |  |  | 0.1% |
+| 08:00 | CHF | KOF Leading Indicators (Nov) |  | 100.9 | 101.3 |
+| 08:00 | CHF | GDP (QoQ) (Q3) |  | -0.4% | 0.1% |
+| 08:00 | CHF | GDP (YoY) (Q3) |  |  | 1.2% |
+| 08:00 | EUR | Spanish CPI (YoY) (Nov) |  | 3.0% | 3.1% |
+| 08:00 | EUR | Spanish HICP (YoY) (Nov) |  | 2.9% | 3.2% |
+| 08:55 | EUR | German Unemployment Change (Nov) |  | 4K | -1K |
+| 08:55 | EUR | German Unemployment Rate (Nov) |  | 6.3% | 6.3% |
+| 09:00 | EUR | German Buba Balz Speaks |  |  |  |
+| 10:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 10:30 | INR | GDP Quarterly (YoY) (Q2) |  |  | 7.8% |
+| 11:00 | EUR | France Jobseekers Total (Oct) |  |  | 3,082.0K |
+| 11:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Oct) |  |  | 78.1% |
+| 12:00 | BRL | Unemployment Rate (Oct) |  | 5.5% | 5.6% |
+| 13:00 | EUR | German CPI (YoY) (Nov) |  | 2.4% | 2.3% |
+| 13:30 | CAD | GDP (MoM) (Sep) |  | 0.2% | -0.3% |
+| 13:30 | CAD | GDP (QoQ) (Q3) |  |  | -0.4% |
+| 13:30 | CAD | GDP (YoY) (Q3) |  |  | 1.21% |
+| 13:30 | CAD | GDP Annualized (QoQ) (Q3) |  |  | -1.6% |
+| 13:31 | CAD | GDP (MoM) (Oct) |  |  |  |
+| 21:30 | USD | Fed's Balance Sheet |  |  |  |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 6,555B |
