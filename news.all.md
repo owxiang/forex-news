@@ -8,14 +8,14 @@
 | 02:00 | NZD | Low | M3 Money Supply (Oct) | 442.3B |  | 440.2B |
 | 05:00 | JPY | Low | Construction Orders (YoY) (Oct) | -10.1% |  | 34.7% |
 | 05:00 | JPY | Low | Housing Starts (YoY) (Oct) | 3.2% | -5.0% | -7.3% |
-| 52 min | ZAR | Low | M3 Money Supply (YoY) (Oct) |  |  | 6.07% |
-| 52 min | ZAR | Low | Private Sector Credit (Oct) |  |  | 6.03% |
-| 07:00 | EUR | Low | German Import Price Index (MoM) (Oct) |  | 0.0% | 0.2% |
-| 07:00 | EUR | Low | German Import Price Index (YoY) (Oct) |  | -1.6% | -1.0% |
-| 07:00 | EUR | Low | German Retail Sales (YoY) (Oct) |  |  | 0.2% |
-| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Oct) |  | 0.1% | 0.2% |
-| 07:00 | NOK | Low | Unemployment Rate n.s.a. (Nov) |  | 2.00% | 2.00% |
-| 07:00 | NOK | Low | Core Retail Sales (MoM) (Oct) |  |  | -0.5% |
+| 06:00 | ZAR | Low | M3 Money Supply (YoY) (Oct) | 7.52% |  | 6.07% |
+| 06:00 | ZAR | Low | Private Sector Credit (Oct) | 7.26% |  | 6.03% |
+| 49 min | EUR | Low | German Import Price Index (MoM) (Oct) |  | 0.0% | 0.2% |
+| 49 min | EUR | Low | German Import Price Index (YoY) (Oct) |  | -1.6% | -1.0% |
+| 49 min | EUR | Low | German Retail Sales (YoY) (Oct) |  |  | 0.2% |
+| 49 min | EUR | Moderate | German Retail Sales (MoM) (Oct) |  | 0.1% | 0.2% |
+| 49 min | NOK | Low | Unemployment Rate n.s.a. (Nov) |  | 2.00% | 2.00% |
+| 49 min | NOK | Low | Core Retail Sales (MoM) (Oct) |  |  | -0.5% |
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Oct) |  | 0.3% | 0.3% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Nov) |  | 0.0% | 0.1% |
 | 07:45 | EUR | Low | French CPI (YoY) (Nov) |  | 1.0% | 0.9% |

@@ -8,13 +8,13 @@
 | 02:00 | NZD | M3 Money Supply (Oct) | 442.3B |  | 440.2B |
 | 05:00 | JPY | Construction Orders (YoY) (Oct) | -10.1% |  | 34.7% |
 | 05:00 | JPY | Housing Starts (YoY) (Oct) | 3.2% | -5.0% | -7.3% |
-| 52 min | ZAR | M3 Money Supply (YoY) (Oct) |  |  | 6.07% |
-| 52 min | ZAR | Private Sector Credit (Oct) |  |  | 6.03% |
-| 07:00 | EUR | German Import Price Index (MoM) (Oct) |  | 0.0% | 0.2% |
-| 07:00 | EUR | German Import Price Index (YoY) (Oct) |  | -1.6% | -1.0% |
-| 07:00 | EUR | German Retail Sales (YoY) (Oct) |  |  | 0.2% |
-| 07:00 | NOK | Unemployment Rate n.s.a. (Nov) |  | 2.00% | 2.00% |
-| 07:00 | NOK | Core Retail Sales (MoM) (Oct) |  |  | -0.5% |
+| 06:00 | ZAR | M3 Money Supply (YoY) (Oct) | 7.52% |  | 6.07% |
+| 06:00 | ZAR | Private Sector Credit (Oct) | 7.26% |  | 6.03% |
+| 49 min | EUR | German Import Price Index (MoM) (Oct) |  | 0.0% | 0.2% |
+| 49 min | EUR | German Import Price Index (YoY) (Oct) |  | -1.6% | -1.0% |
+| 49 min | EUR | German Retail Sales (YoY) (Oct) |  |  | 0.2% |
+| 49 min | NOK | Unemployment Rate n.s.a. (Nov) |  | 2.00% | 2.00% |
+| 49 min | NOK | Core Retail Sales (MoM) (Oct) |  |  | -0.5% |
 | 07:45 | EUR | French CPI (YoY) (Nov) |  | 1.0% | 0.9% |
 | 07:45 | EUR | French HICP (YoY) (Nov) |  | 0.1% | 0.8% |
 | 07:45 | EUR | French Non-Farm Payrolls (QoQ) (Q3) |  | -0.3% | 0.2% |

@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | EUR | German Retail Sales (MoM) (Oct) |  | 0.1% | 0.2% |
+| 49 min | EUR | German Retail Sales (MoM) (Oct) |  | 0.1% | 0.2% |
 | 07:45 | EUR | French Consumer Spending (MoM) (Oct) |  | 0.3% | 0.3% |
 | 07:45 | EUR | French CPI (MoM) (Nov) |  | 0.0% | 0.1% |
 | 07:45 | EUR | French GDP (QoQ) (Q3) |  | 0.5% | 0.3% |
