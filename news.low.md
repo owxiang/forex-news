@@ -12,43 +12,43 @@
 | 06:00 | ZAR | Private Sector Credit (Oct) | 7.26% |  | 6.03% |
 | 07:00 | EUR | German Import Price Index (MoM) (Oct) | 0.2% | 0.0% | 0.2% |
 | 07:00 | EUR | German Import Price Index (YoY) (Oct) | -1.4% | -1.6% | -1.0% |
-| 07:00 | EUR | German Retail Sales (YoY) (Oct) | 0.9% |  | 0.8% |
+| 07:00 | EUR | German Retail Sales (YoY) (Oct) | 0.9% |  | 3.4% |
 | 07:00 | NOK | Unemployment Rate n.s.a. (Nov) | 2.10% | 2.00% | 2.00% |
 | 07:00 | NOK | Core Retail Sales (MoM) (Oct) | 0.1% |  | -0.5% |
-| 37 min | EUR | French CPI (YoY) (Nov) |  | 1.0% | 0.9% |
-| 37 min | EUR | French HICP (YoY) (Nov) |  | 0.1% | 0.8% |
-| 37 min | EUR | French Non-Farm Payrolls (QoQ) (Q3) |  | -0.3% | 0.2% |
-| 37 min | EUR | French PPI (MoM) (Oct) |  |  | -0.2% |
-| 37 min | EUR | PPI (YoY) (Oct) |  |  | 0.10% |
-| 52 min | CHF | Official Reserves Assets (Oct) |  |  | 840.6B |
-| 52 min | EUR | Core CPI (YoY) (Nov) |  |  | 2.5% |
-| 52 min | EUR | Spanish CPI (MoM) (Nov) |  |  | 0.7% |
-| 52 min | EUR | Spanish HICP (MoM) (Nov) |  | -0.2% | 0.5% |
-| 52 min | EUR | Spanish Retail Sales (YoY) (Oct) |  |  | 4.2% |
-| 08:30 | HKD | M3 Money Supply (Oct) |  |  | 4.5% |
-| 08:55 | EUR | German Unemployment (Nov) |  |  | 2.973M |
-| 08:55 | EUR | German Unemployment n.s.a. (Nov) |  |  | 2.910M |
-| 09:00 | EUR | Italian GDP (QoQ) (Q3) |  | 0.0% | -0.1% |
-| 09:00 | EUR | Italian GDP (YoY) (Q3) |  | 0.4% | 0.4% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Nov) |  |  | 0.3% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Nov) |  |  | 2.3% |
-| 09:00 | EUR | Bavaria CPI (YoY) (Nov) |  |  | 2.2% |
-| 09:00 | EUR | Bavaria CPI (MoM) (Nov) |  |  | 0.3% |
-| 09:00 | EUR | Brandenburg CPI (YoY) (Nov) |  |  | 2.6% |
-| 09:00 | EUR | Brandenburg CPI (MoM) (Nov) |  |  | 0.4% |
-| 09:00 | EUR | Hesse CPI (MoM) (Nov) |  |  | 0.3% |
-| 09:00 | EUR | Hesse CPI (YoY) (Nov) |  |  | 2.4% |
-| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Nov) |  |  | 0.4% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Nov) |  |  | 2.3% |
-| 09:00 | EUR | Saxony CPI (YoY) (Nov) |  |  | 2.1% |
-| 09:00 | EUR | Saxony CPI (MoM) (Nov) |  |  | 0.3% |
-| 09:00 | EUR | Spanish Current account (Sep) |  |  | 5.08B |
-| 09:00 | NOK | Central Bank Currency Purchase (Dec) |  |  | 150.0M |
-| 09:00 | EUR | M3 Money Supply (Oct) |  |  | 16,990.4B |
+| 07:45 | EUR | French CPI (YoY) (Nov) | 0.9% | 1.0% | 0.9% |
+| 07:45 | EUR | French HICP (YoY) (Nov) | 0.8% | 0.1% | 0.8% |
+| 07:45 | EUR | French Non-Farm Payrolls (QoQ) (Q3) | 0.0% | -0.3% | 0.2% |
+| 07:45 | EUR | French PPI (MoM) (Oct) | 0.0% |  | -0.2% |
+| 07:45 | EUR | PPI (YoY) (Oct) | -0.80% |  | 0.10% |
+| 08:00 | CHF | Official Reserves Assets (Oct) | 844.8B |  | 840.6B |
+| 08:00 | EUR | Core CPI (YoY) (Nov) | 2.6% |  | 2.5% |
+| 08:00 | EUR | Spanish CPI (MoM) (Nov) | 0.2% |  | 0.7% |
+| 08:00 | EUR | Spanish HICP (MoM) (Nov) | 0.0% | -0.2% | 0.5% |
+| 08:00 | EUR | Spanish Retail Sales (YoY) (Oct) | 3.8% |  | 4.1% |
+| 20 min | HKD | M3 Money Supply (Oct) |  |  | 4.5% |
+| 45 min | EUR | German Unemployment (Nov) |  |  | 2.973M |
+| 45 min | EUR | German Unemployment n.s.a. (Nov) |  |  | 2.910M |
+| 50 min | EUR | Italian GDP (QoQ) (Q3) |  | 0.0% | -0.1% |
+| 50 min | EUR | Italian GDP (YoY) (Q3) |  | 0.4% | 0.4% |
+| 50 min | EUR | Baden Wuerttemberg CPI (YoY) (Nov) |  |  | 2.3% |
+| 50 min | EUR | Baden Wuerttemberg CPI (MoM) (Nov) |  |  | 0.3% |
+| 50 min | EUR | Bavaria CPI (MoM) (Nov) |  |  | 0.3% |
+| 50 min | EUR | Bavaria CPI (YoY) (Nov) |  |  | 2.2% |
+| 50 min | EUR | Brandenburg CPI (YoY) (Nov) |  |  | 2.6% |
+| 50 min | EUR | Brandenburg CPI (MoM) (Nov) |  |  | 0.4% |
+| 50 min | EUR | Hesse CPI (MoM) (Nov) |  |  | 0.3% |
+| 50 min | EUR | Hesse CPI (YoY) (Nov) |  |  | 2.4% |
+| 50 min | EUR | North Rhine Westphalia CPI (MoM) (Nov) |  |  | 0.4% |
+| 50 min | EUR | North Rhine Westphalia CPI (YoY) (Nov) |  |  | 2.3% |
+| 50 min | EUR | Saxony CPI (YoY) (Nov) |  |  | 2.1% |
+| 50 min | EUR | Saxony CPI (MoM) (Nov) |  |  | 0.3% |
+| 50 min | EUR | Spanish Current account (Sep) |  |  | 5.08B |
+| 50 min | NOK | Central Bank Currency Purchase (Dec) |  |  | 150.0M |
+| 50 min | EUR | M3 Money Supply (Oct) |  |  | 16,990.4B |
 | 10:00 | EUR | Italian CPI (MoM) (Nov) |  | -0.1% | -0.3% |
 | 10:00 | EUR | Italian CPI (YoY) (Nov) |  |  | 1.2% |
-| 10:00 | EUR | Italian HICP (MoM) (Nov) |  |  | -0.2% |
 | 10:00 | EUR | Italian HICP (YoY) (Nov) |  |  | 1.3% |
+| 10:00 | EUR | Italian HICP (MoM) (Nov) |  |  | -0.2% |
 | 10:00 | INR | Federal Fiscal Deficit (Oct) |  |  | 5,731.23B |
 | 10:30 | INR | Cumulative Industrial Production (Oct) |  |  | 3.00% |
 | 10:30 | INR | Industrial Production (YoY) (Oct) |  | 3.6% | 4.0% |
