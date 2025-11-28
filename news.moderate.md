@@ -23,8 +23,8 @@
 | 12:00 | BRL | Unemployment Rate (Oct) | 5.4% | 5.5% | 5.6% |
 | 13:00 | EUR | German CPI (YoY) (Nov) | 2.3% | 2.4% | 2.3% |
 | 13:30 | CAD | GDP (MoM) (Sep) | 0.2% | 0.1% | -0.3% |
-| 13:30 | CAD | GDP (YoY) (Q3) | 1.42% |  | 1.60% |
 | 13:30 | CAD | GDP (QoQ) (Q3) | 0.6% |  | -0.5% |
+| 13:30 | CAD | GDP (YoY) (Q3) | 1.42% |  | 1.60% |
 | 13:30 | CAD | GDP Annualized (QoQ) (Q3) | 2.6% |  | -1.8% |
 | 13:31 | CAD | GDP (MoM) (Oct) | -0.3% |  | 0.2% |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 6,555B |
+| 24 min | USD | Fed's Balance Sheet |  |  | 6,555B |

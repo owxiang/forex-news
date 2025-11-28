@@ -45,8 +45,8 @@
 | 09:00 | EUR | Spanish Current account (Sep) | 1.87B |  | 5.08B |
 | 09:00 | NOK | Central Bank Currency Purchase (Dec) | 150.0M |  | 150.0M |
 | 09:50 | ZAR | Budget Balance (MoM) (Oct) | -35.83B |  | -15.36B |
-| 10:00 | EUR | Italian CPI (MoM) (Nov) | -0.2% | -0.1% | -0.3% |
 | 10:00 | EUR | Italian CPI (YoY) (Nov) | 1.2% |  | 1.2% |
+| 10:00 | EUR | Italian CPI (MoM) (Nov) | -0.2% | -0.1% | -0.3% |
 | 10:00 | EUR | Italian HICP (MoM) (Nov) | -0.2% |  | -0.2% |
 | 10:00 | EUR | Italian HICP (YoY) (Nov) | 1.1% |  | 1.3% |
 | 10:00 | INR | Federal Fiscal Deficit (Oct) | 8,251.44B |  | 5,731.23B |
@@ -66,4 +66,5 @@
 | 13:30 | CAD | GDP Implicit Price (QoQ) (Q3) | 0.80% |  | 0.10% |
 | 16:00 | CAD | Budget Balance (Sep) | -5.02B |  | -3.28B |
 | 16:00 | CAD | Budget Balance (YoY) (Sep) | -16.09B |  | -11.07B |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.918T |
+| 19:00 | MXN | Fiscal Balance (Oct) | -16.75B |  | -198.11B |
+| 24 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.918T |
