@@ -12,15 +12,15 @@
 | 06:00 | ZAR | Low | Private Sector Credit (Oct) |  |  | 6.03% |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Oct) |  | 0.0% | 0.2% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Oct) |  | -1.6% | -1.0% |
-| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Oct) |  | 0.1% | 0.2% |
 | 07:00 | EUR | Low | German Retail Sales (YoY) (Oct) |  |  | 0.2% |
+| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Oct) |  | 0.1% | 0.2% |
 | 07:00 | NOK | Low | Unemployment Rate n.s.a. (Nov) |  | 2.00% | 2.00% |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Oct) |  |  | -0.5% |
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Oct) |  | 0.3% | 0.3% |
-| 07:45 | EUR | Low | French CPI (YoY) (Nov) |  | 1.0% | 0.9% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Nov) |  | 0.0% | 0.1% |
-| 07:45 | EUR | Moderate | French GDP (YoY) (Q3) |  | 0.9% | 0.7% |
+| 07:45 | EUR | Low | French CPI (YoY) (Nov) |  | 1.0% | 0.9% |
 | 07:45 | EUR | Moderate | French GDP (QoQ) (Q3) |  | 0.5% | 0.3% |
+| 07:45 | EUR | Moderate | French GDP (YoY) (Q3) |  | 0.9% | 0.7% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Nov) |  |  | 0.1% |
 | 07:45 | EUR | Low | French HICP (YoY) (Nov) |  | 0.1% | 0.8% |
 | 07:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q3) |  | -0.3% | 0.2% |
@@ -43,10 +43,10 @@
 | 08:55 | EUR | Low | German Unemployment n.s.a. (Nov) |  |  | 2.910M |
 | 09:00 | EUR | Low | Italian GDP (QoQ) (Q3) |  | 0.0% | -0.1% |
 | 09:00 | EUR | Low | Italian GDP (YoY) (Q3) |  | 0.4% | 0.4% |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Nov) |  |  | 2.3% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Nov) |  |  | 0.3% |
-| 09:00 | EUR | Low | Bavaria CPI (MoM) (Nov) |  |  | 0.3% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Nov) |  |  | 2.3% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Nov) |  |  | 2.2% |
+| 09:00 | EUR | Low | Bavaria CPI (MoM) (Nov) |  |  | 0.3% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Nov) |  |  | 2.6% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Nov) |  |  | 0.4% |
 | 09:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
@@ -58,6 +58,7 @@
 | 09:00 | EUR | Low | Saxony CPI (MoM) (Nov) |  |  | 0.3% |
 | 09:00 | EUR | Low | Spanish Current account (Sep) |  |  | 5.08B |
 | 09:00 | NOK | Low | Central Bank Currency Purchase (Dec) |  |  | 150.0M |
+| 09:00 | EUR | Low | M3 Money Supply (Oct) |  |  | 16,990.4B |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Nov) |  | -0.1% | -0.3% |
 | 10:00 | EUR | Low | Italian CPI (YoY) (Nov) |  |  | 1.2% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Nov) |  |  | -0.2% |
@@ -88,9 +89,9 @@
 | 13:00 | EUR | Low | German HICP (MoM) (Nov) |  | -0.6% | 0.3% |
 | 13:00 | EUR | Low | German HICP (YoY) (Nov) |  | 2.4% | 2.3% |
 | 13:30 | CAD | Low | GDP Implicit Price (QoQ) (Q3) |  |  | 0.00% |
-| 13:30 | CAD | Moderate | GDP (MoM) (Sep) |  | 0.2% | -0.3% |
-| 13:30 | CAD | Moderate | GDP (QoQ) (Q3) |  |  | -0.4% |
 | 13:30 | CAD | Moderate | GDP (YoY) (Q3) |  |  | 1.21% |
+| 13:30 | CAD | Moderate | GDP (QoQ) (Q3) |  |  | -0.4% |
+| 13:30 | CAD | Moderate | GDP (MoM) (Sep) |  | 0.2% | -0.3% |
 | 13:30 | CAD | Moderate | GDP Annualized (QoQ) (Q3) |  |  | -1.6% |
 | 13:31 | CAD | Moderate | GDP (MoM) (Oct) |  |  |  |
 | 14:45 | USD | High | Chicago PMI (Dec) |  |  | 43.8 |
