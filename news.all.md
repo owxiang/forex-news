@@ -59,8 +59,8 @@
 | 09:00 | EUR | Low | Spanish Current account (Sep) | 1.87B |  | 5.08B |
 | 09:00 | NOK | Low | Central Bank Currency Purchase (Dec) | 150.0M |  | 150.0M |
 | 09:50 | ZAR | Low | Budget Balance (MoM) (Oct) | -35.83B |  | -15.36B |
-| 10:00 | EUR | Low | Italian CPI (YoY) (Nov) | 1.2% |  | 1.2% |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Nov) | -0.2% | -0.1% | -0.3% |
+| 10:00 | EUR | Low | Italian CPI (YoY) (Nov) | 1.2% |  | 1.2% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Nov) | -0.2% |  | -0.2% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Nov) | 1.1% |  | 1.3% |
 | 10:00 | INR | Low | Federal Fiscal Deficit (Oct) | 8,251.44B |  | 5,731.23B |
@@ -86,12 +86,11 @@
 | 13:00 | EUR | Low | German HICP (YoY) (Nov) | 2.6% | 2.4% | 2.3% |
 | 13:30 | CAD | Low | GDP Implicit Price (QoQ) (Q3) | 0.80% |  | 0.10% |
 | 13:30 | CAD | Moderate | GDP (MoM) (Sep) | 0.2% | 0.1% | -0.3% |
-| 13:30 | CAD | Moderate | GDP (QoQ) (Q3) | 0.6% |  | -0.5% |
 | 13:30 | CAD | Moderate | GDP (YoY) (Q3) | 1.42% |  | 1.60% |
+| 13:30 | CAD | Moderate | GDP (QoQ) (Q3) | 0.6% |  | -0.5% |
 | 13:30 | CAD | Moderate | GDP Annualized (QoQ) (Q3) | 2.6% |  | -1.8% |
 | 13:31 | CAD | Moderate | GDP (MoM) (Oct) | -0.3% |  | 0.2% |
 | 16:00 | CAD | Low | Budget Balance (Sep) | -5.02B |  | -3.28B |
 | 16:00 | CAD | Low | Budget Balance (YoY) (Sep) | -16.09B |  | -11.07B |
-| 51 min | MXN | Low | Fiscal Balance (Oct) |  |  | -198.11B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,555B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.918T |
