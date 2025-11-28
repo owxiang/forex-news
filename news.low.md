@@ -66,5 +66,5 @@
 | 13:30 | CAD | GDP Implicit Price (QoQ) (Q3) | 0.80% |  | 0.10% |
 | 16:00 | CAD | Budget Balance (Sep) | -5.02B |  | -3.28B |
 | 16:00 | CAD | Budget Balance (YoY) (Sep) | -16.09B |  | -11.07B |
-| 19:00 | MXN | Fiscal Balance (Oct) |  |  | -198.11B |
+| 51 min | MXN | Fiscal Balance (Oct) |  |  | -198.11B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.918T |
