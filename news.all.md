@@ -80,16 +80,16 @@
 | 12:00 | MXN | Low | Unemployment Rate n.s.a. (Oct) | 2.60% | 2.80% | 3.00% |
 | 12:00 | BRL | Moderate | Unemployment Rate (Oct) | 5.4% | 5.5% | 5.6% |
 | 12:00 | ZAR | Low | Trade Balance (Oct) | 15.58B |  | 22.25B |
-| 48 min | EUR | High | German CPI (MoM) (Nov) |  | -0.2% | 0.3% |
-| 48 min | EUR | Moderate | German CPI (YoY) (Nov) |  | 2.4% | 2.3% |
-| 48 min | EUR | Low | German HICP (YoY) (Nov) |  | 2.4% | 2.3% |
-| 48 min | EUR | Low | German HICP (MoM) (Nov) |  | -0.6% | 0.3% |
-| 13:30 | CAD | Low | GDP Implicit Price (QoQ) (Q3) |  |  | 0.00% |
-| 13:30 | CAD | Moderate | GDP (MoM) (Sep) |  | 0.2% | -0.3% |
-| 13:30 | CAD | Moderate | GDP (QoQ) (Q3) |  |  | -0.4% |
-| 13:30 | CAD | Moderate | GDP (YoY) (Q3) |  |  | 1.21% |
-| 13:30 | CAD | Moderate | GDP Annualized (QoQ) (Q3) |  |  | -1.6% |
-| 13:31 | CAD | Moderate | GDP (MoM) (Oct) |  |  |  |
+| 13:00 | EUR | High | German CPI (MoM) (Nov) | -0.2% | -0.2% | 0.3% |
+| 13:00 | EUR | Moderate | German CPI (YoY) (Nov) | 2.3% | 2.4% | 2.3% |
+| 13:00 | EUR | Low | German HICP (YoY) (Nov) | 2.6% | 2.4% | 2.3% |
+| 13:00 | EUR | Low | German HICP (MoM) (Nov) | -0.5% | -0.6% | 0.3% |
+| 14 min | CAD | Low | GDP Implicit Price (QoQ) (Q3) |  |  | 0.00% |
+| 14 min | CAD | Moderate | GDP (MoM) (Sep) |  | 0.2% | -0.3% |
+| 14 min | CAD | Moderate | GDP (QoQ) (Q3) |  |  | -0.4% |
+| 14 min | CAD | Moderate | GDP (YoY) (Q3) |  |  | 1.21% |
+| 14 min | CAD | Moderate | GDP Annualized (QoQ) (Q3) |  |  | -1.6% |
+| 15 min | CAD | Moderate | GDP (MoM) (Oct) |  |  |  |
 | 14:45 | USD | High | Chicago PMI (Dec) |  |  | 43.8 |
 | 16:00 | CAD | Low | Budget Balance (Sep) |  |  | -3.28B |
 | 16:00 | CAD | Low | Budget Balance (YoY) (Sep) |  |  | -11.07B |

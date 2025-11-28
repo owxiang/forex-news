@@ -21,10 +21,10 @@
 | 11:00 | EUR | France Jobseekers Total (Oct) | 3,150.8K |  | 3,082.0K |
 | 11:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Oct) | 78.6% |  | 78.1% |
 | 12:00 | BRL | Unemployment Rate (Oct) | 5.4% | 5.5% | 5.6% |
-| 48 min | EUR | German CPI (YoY) (Nov) |  | 2.4% | 2.3% |
-| 13:30 | CAD | GDP (MoM) (Sep) |  | 0.2% | -0.3% |
-| 13:30 | CAD | GDP (QoQ) (Q3) |  |  | -0.4% |
-| 13:30 | CAD | GDP (YoY) (Q3) |  |  | 1.21% |
-| 13:30 | CAD | GDP Annualized (QoQ) (Q3) |  |  | -1.6% |
-| 13:31 | CAD | GDP (MoM) (Oct) |  |  |  |
+| 13:00 | EUR | German CPI (YoY) (Nov) | 2.3% | 2.4% | 2.3% |
+| 14 min | CAD | GDP (MoM) (Sep) |  | 0.2% | -0.3% |
+| 14 min | CAD | GDP (QoQ) (Q3) |  |  | -0.4% |
+| 14 min | CAD | GDP (YoY) (Q3) |  |  | 1.21% |
+| 14 min | CAD | GDP Annualized (QoQ) (Q3) |  |  | -1.6% |
+| 15 min | CAD | GDP (MoM) (Oct) |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,555B |

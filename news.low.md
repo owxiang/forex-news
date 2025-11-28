@@ -61,9 +61,9 @@
 | 12:00 | MXN | Unemployment Rate (Oct) | 2.60% |  | 2.70% |
 | 12:00 | MXN | Unemployment Rate n.s.a. (Oct) | 2.60% | 2.80% | 3.00% |
 | 12:00 | ZAR | Trade Balance (Oct) | 15.58B |  | 22.25B |
-| 48 min | EUR | German HICP (YoY) (Nov) |  | 2.4% | 2.3% |
-| 48 min | EUR | German HICP (MoM) (Nov) |  | -0.6% | 0.3% |
-| 13:30 | CAD | GDP Implicit Price (QoQ) (Q3) |  |  | 0.00% |
+| 13:00 | EUR | German HICP (YoY) (Nov) | 2.6% | 2.4% | 2.3% |
+| 13:00 | EUR | German HICP (MoM) (Nov) | -0.5% | -0.6% | 0.3% |
+| 14 min | CAD | GDP Implicit Price (QoQ) (Q3) |  |  | 0.00% |
 | 16:00 | CAD | Budget Balance (Sep) |  |  | -3.28B |
 | 16:00 | CAD | Budget Balance (YoY) (Sep) |  |  | -11.07B |
 | 19:00 | MXN | Fiscal Balance (Oct) |  |  | -198.11B |
