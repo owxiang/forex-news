@@ -6,10 +6,10 @@
 | 00:30 | AUD | Private Sector Credit (MoM) (Oct) | 0.7% | 0.6% | 0.6% |
 | 02:00 | SGD | Bank Lending (Oct) | 866.1B |  | 863.8B |
 | 02:00 | NZD | M3 Money Supply (Oct) | 442.3B |  | 440.2B |
-| 51 min | JPY | Construction Orders (YoY) (Oct) |  |  | 34.7% |
-| 51 min | JPY | Housing Starts (YoY) (Oct) |  | -5.0% | -7.3% |
-| 06:00 | ZAR | M3 Money Supply (YoY) (Oct) |  |  | 6.07% |
-| 06:00 | ZAR | Private Sector Credit (Oct) |  |  | 6.03% |
+| 05:00 | JPY | Construction Orders (YoY) (Oct) | -10.1% |  | 34.7% |
+| 05:00 | JPY | Housing Starts (YoY) (Oct) | 3.2% | -5.0% | -7.3% |
+| 52 min | ZAR | M3 Money Supply (YoY) (Oct) |  |  | 6.07% |
+| 52 min | ZAR | Private Sector Credit (Oct) |  |  | 6.03% |
 | 07:00 | EUR | German Import Price Index (MoM) (Oct) |  | 0.0% | 0.2% |
 | 07:00 | EUR | German Import Price Index (YoY) (Oct) |  | -1.6% | -1.0% |
 | 07:00 | EUR | German Retail Sales (YoY) (Oct) |  |  | 0.2% |

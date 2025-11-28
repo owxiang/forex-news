@@ -6,10 +6,10 @@
 | 00:30 | AUD | Low | Private Sector Credit (MoM) (Oct) | 0.7% | 0.6% | 0.6% |
 | 02:00 | SGD | Low | Bank Lending (Oct) | 866.1B |  | 863.8B |
 | 02:00 | NZD | Low | M3 Money Supply (Oct) | 442.3B |  | 440.2B |
-| 51 min | JPY | Low | Construction Orders (YoY) (Oct) |  |  | 34.7% |
-| 51 min | JPY | Low | Housing Starts (YoY) (Oct) |  | -5.0% | -7.3% |
-| 06:00 | ZAR | Low | M3 Money Supply (YoY) (Oct) |  |  | 6.07% |
-| 06:00 | ZAR | Low | Private Sector Credit (Oct) |  |  | 6.03% |
+| 05:00 | JPY | Low | Construction Orders (YoY) (Oct) | -10.1% |  | 34.7% |
+| 05:00 | JPY | Low | Housing Starts (YoY) (Oct) | 3.2% | -5.0% | -7.3% |
+| 52 min | ZAR | Low | M3 Money Supply (YoY) (Oct) |  |  | 6.07% |
+| 52 min | ZAR | Low | Private Sector Credit (Oct) |  |  | 6.03% |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Oct) |  | 0.0% | 0.2% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Oct) |  | -1.6% | -1.0% |
 | 07:00 | EUR | Low | German Retail Sales (YoY) (Oct) |  |  | 0.2% |
@@ -66,7 +66,6 @@
 | 10:00 | INR | Low | Federal Fiscal Deficit (Oct) |  |  | 5,731.23B |
 | 10:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 10:30 | INR | Low | Cumulative Industrial Production (Oct) |  |  | 3.00% |
-| 10:30 | INR | Moderate | GDP Quarterly (YoY) (Q2) |  |  | 7.8% |
 | 10:30 | INR | Low | Industrial Production (YoY) (Oct) |  | 3.6% | 4.0% |
 | 10:30 | INR | Low | Manufacturing Output (MoM) (Oct) |  |  | 4.8% |
 | 11:00 | EUR | Low | Italian Trade Balance Non-EU (Oct) |  |  | 2.74B |
@@ -81,6 +80,7 @@
 | 11:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Oct) |  |  | 78.1% |
 | 12:00 | MXN | Low | Unemployment Rate (Oct) |  |  | 2.70% |
 | 12:00 | MXN | Low | Unemployment Rate n.s.a. (Oct) |  | 2.80% | 3.00% |
+| 12:00 | INR | Moderate | GDP Quarterly (YoY) (Q2) |  | 7.3% | 7.8% |
 | 12:00 | EUR | Low | Spanish Consumer Confidence (Oct) |  |  | 81.5 |
 | 12:00 | BRL | Moderate | Unemployment Rate (Oct) |  | 5.5% | 5.6% |
 | 12:00 | ZAR | Low | Trade Balance (Oct) |  |  | 21.76B |
@@ -89,9 +89,9 @@
 | 13:00 | EUR | Low | German HICP (MoM) (Nov) |  | -0.6% | 0.3% |
 | 13:00 | EUR | Low | German HICP (YoY) (Nov) |  | 2.4% | 2.3% |
 | 13:30 | CAD | Low | GDP Implicit Price (QoQ) (Q3) |  |  | 0.00% |
-| 13:30 | CAD | Moderate | GDP (YoY) (Q3) |  |  | 1.21% |
 | 13:30 | CAD | Moderate | GDP (QoQ) (Q3) |  |  | -0.4% |
 | 13:30 | CAD | Moderate | GDP (MoM) (Sep) |  | 0.2% | -0.3% |
+| 13:30 | CAD | Moderate | GDP (YoY) (Q3) |  |  | 1.21% |
 | 13:30 | CAD | Moderate | GDP Annualized (QoQ) (Q3) |  |  | -1.6% |
 | 13:31 | CAD | Moderate | GDP (MoM) (Oct) |  |  |  |
 | 14:45 | USD | High | Chicago PMI (Dec) |  |  | 43.8 |
