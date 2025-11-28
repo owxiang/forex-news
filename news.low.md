@@ -34,39 +34,35 @@
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Nov) | -0.3% |  | 0.3% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Nov) | -0.2% |  | 0.3% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Nov) | 2.2% |  | 2.2% |
-| 09:00 | EUR | Brandenburg CPI (YoY) (Nov) | 2.6% |  | 2.6% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Nov) | -0.2% |  | 0.4% |
-| 09:00 | EUR | Hesse CPI (MoM) (Nov) | -0.2% |  | 0.3% |
+| 09:00 | EUR | Brandenburg CPI (YoY) (Nov) | 2.6% |  | 2.6% |
 | 09:00 | EUR | Hesse CPI (YoY) (Nov) | 2.5% |  | 2.4% |
-| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Nov) | -0.3% |  | 0.4% |
+| 09:00 | EUR | Hesse CPI (MoM) (Nov) | -0.2% |  | 0.3% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Nov) | 2.3% |  | 2.3% |
+| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Nov) | -0.3% |  | 0.4% |
 | 09:00 | EUR | Saxony CPI (YoY) (Nov) | 2.2% |  | 2.1% |
 | 09:00 | EUR | Saxony CPI (MoM) (Nov) | -0.2% |  | 0.3% |
 | 09:00 | EUR | Spanish Current account (Sep) | 1.87B |  | 5.08B |
 | 09:00 | NOK | Central Bank Currency Purchase (Dec) | 150.0M |  | 150.0M |
 | 09:50 | ZAR | Budget Balance (MoM) (Oct) | -35.83B |  | -15.36B |
-| 10:00 | EUR | Italian CPI (MoM) (Nov) | -0.2% | -0.1% | -0.3% |
 | 10:00 | EUR | Italian CPI (YoY) (Nov) | 1.2% |  | 1.2% |
-| 10:00 | EUR | Italian HICP (YoY) (Nov) | 1.1% |  | 1.3% |
+| 10:00 | EUR | Italian CPI (MoM) (Nov) | -0.2% | -0.1% | -0.3% |
 | 10:00 | EUR | Italian HICP (MoM) (Nov) | -0.2% |  | -0.2% |
+| 10:00 | EUR | Italian HICP (YoY) (Nov) | 1.1% |  | 1.3% |
 | 10:00 | INR | Federal Fiscal Deficit (Oct) | 8,251.44B |  | 5,731.23B |
 | 11:00 | EUR | Italian Trade Balance Non-EU (Oct) | 5.32B |  | 2.90B |
-| 23 min | INR | Bank Loan Growth |  |  | 11.3% |
-| 23 min | INR | Cumulative Industrial Production (Oct) |  |  | 3.00% |
-| 23 min | INR | Deposit Growth |  |  | 9.7% |
-| 23 min | INR | FX Reserves, USD |  |  | 692.58B |
-| 23 min | INR | Industrial Production (YoY) (Oct) |  | 3.6% | 4.0% |
-| 23 min | INR | Manufacturing Output (MoM) (Oct) |  |  | 4.8% |
-| 23 min | INR | RBI Monetary and Credit Information Review |  |  |  |
-| 23 min | BRL | Net Debt-to-GDP ratio (Oct) |  |  | 64.8% |
-| 23 min | BRL | Budget Balance (Oct) |  |  | -102.185B |
-| 23 min | BRL | Budget Surplus (Oct) |  |  | -17.452B |
-| 53 min | MXN | Unemployment Rate (Oct) |  |  | 2.70% |
-| 53 min | MXN | Unemployment Rate n.s.a. (Oct) |  | 2.80% | 3.00% |
-| 53 min | EUR | Spanish Consumer Confidence (Oct) |  |  | 81.5 |
-| 53 min | ZAR | Trade Balance (Oct) |  |  | 21.76B |
-| 13:00 | EUR | German HICP (MoM) (Nov) |  | -0.6% | 0.3% |
-| 13:00 | EUR | German HICP (YoY) (Nov) |  | 2.4% | 2.3% |
+| 11:30 | INR | Bank Loan Growth | 11.4% |  | 11.3% |
+| 11:30 | INR | Deposit Growth | 10.2% |  | 9.7% |
+| 11:30 | INR | FX Reserves, USD | 688.10B |  | 692.58B |
+| 11:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
+| 11:30 | BRL | Net Debt-to-GDP ratio (Oct) | 65.0% |  | 64.8% |
+| 11:30 | BRL | Budget Balance (Oct) | -81.522B |  | -102.185B |
+| 11:30 | BRL | Budget Surplus (Oct) | 32.392B |  | -17.452B |
+| 12:00 | MXN | Unemployment Rate (Oct) | 2.60% |  | 2.70% |
+| 12:00 | MXN | Unemployment Rate n.s.a. (Oct) | 2.60% | 2.80% | 3.00% |
+| 12:00 | ZAR | Trade Balance (Oct) | 15.58B |  | 22.25B |
+| 48 min | EUR | German HICP (YoY) (Nov) |  | 2.4% | 2.3% |
+| 48 min | EUR | German HICP (MoM) (Nov) |  | -0.6% | 0.3% |
 | 13:30 | CAD | GDP Implicit Price (QoQ) (Q3) |  |  | 0.00% |
 | 16:00 | CAD | Budget Balance (Sep) |  |  | -3.28B |
 | 16:00 | CAD | Budget Balance (YoY) (Sep) |  |  | -11.07B |

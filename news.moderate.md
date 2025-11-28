@@ -5,8 +5,8 @@
 | 07:00 | EUR | German Retail Sales (MoM) (Oct) | -0.3% | 0.1% | 0.3% |
 | 07:45 | EUR | French Consumer Spending (MoM) (Oct) | 0.4% | 0.3% | 0.3% |
 | 07:45 | EUR | French CPI (MoM) (Nov) | -0.1% | 0.0% | 0.1% |
-| 07:45 | EUR | French GDP (YoY) (Q3) | 0.9% | 0.9% | 0.7% |
 | 07:45 | EUR | French GDP (QoQ) (Q3) | 0.5% | 0.5% | 0.3% |
+| 07:45 | EUR | French GDP (YoY) (Q3) | 0.9% | 0.9% | 0.7% |
 | 07:45 | EUR | French HICP (MoM) (Nov) | -0.2% |  | 0.1% |
 | 08:00 | CHF | KOF Leading Indicators (Nov) | 101.7 | 100.9 | 101.5 |
 | 08:00 | CHF | GDP (QoQ) (Q3) | -0.5% | -0.4% | 0.2% |
@@ -19,12 +19,12 @@
 | 10:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 10:30 | INR | GDP Quarterly (YoY) (Q2) | 8.2% | 7.3% | 7.8% |
 | 11:00 | EUR | France Jobseekers Total (Oct) | 3,150.8K |  | 3,082.0K |
-| 23 min | BRL | Gross Debt-to-GDP ratio (MoM) (Oct) |  |  | 78.1% |
-| 53 min | BRL | Unemployment Rate (Oct) |  | 5.5% | 5.6% |
-| 13:00 | EUR | German CPI (YoY) (Nov) |  | 2.4% | 2.3% |
+| 11:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Oct) | 78.6% |  | 78.1% |
+| 12:00 | BRL | Unemployment Rate (Oct) | 5.4% | 5.5% | 5.6% |
+| 48 min | EUR | German CPI (YoY) (Nov) |  | 2.4% | 2.3% |
 | 13:30 | CAD | GDP (MoM) (Sep) |  | 0.2% | -0.3% |
-| 13:30 | CAD | GDP (YoY) (Q3) |  |  | 1.21% |
 | 13:30 | CAD | GDP (QoQ) (Q3) |  |  | -0.4% |
+| 13:30 | CAD | GDP (YoY) (Q3) |  |  | 1.21% |
 | 13:30 | CAD | GDP Annualized (QoQ) (Q3) |  |  | -1.6% |
 | 13:31 | CAD | GDP (MoM) (Oct) |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,555B |
