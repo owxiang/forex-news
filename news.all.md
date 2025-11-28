@@ -50,26 +50,27 @@
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Nov) | 2.6% |  | 2.6% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Nov) | -0.2% |  | 0.4% |
 | 09:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 09:00 | EUR | Low | Hesse CPI (MoM) (Nov) |  |  | 0.3% |
+| 09:00 | EUR | Low | Hesse CPI (MoM) (Nov) | -0.2% |  | 0.3% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Nov) | 2.5% |  | 2.4% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Nov) |  |  | 0.4% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Nov) | -0.3% |  | 0.4% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Nov) | 2.3% |  | 2.3% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Nov) | 2.2% |  | 2.1% |
 | 09:00 | EUR | Low | Saxony CPI (MoM) (Nov) | -0.2% |  | 0.3% |
 | 09:00 | EUR | Low | Spanish Current account (Sep) | 1.87B |  | 5.08B |
 | 09:00 | NOK | Low | Central Bank Currency Purchase (Dec) | 150.0M |  | 150.0M |
-| 09:00 | EUR | Low | M3 Money Supply (Oct) |  |  | 16,990.4B |
-| 52 min | EUR | Low | Italian CPI (MoM) (Nov) |  | -0.1% | -0.3% |
-| 52 min | EUR | Low | Italian CPI (YoY) (Nov) |  |  | 1.2% |
-| 52 min | EUR | Low | Italian HICP (YoY) (Nov) |  |  | 1.3% |
-| 52 min | EUR | Low | Italian HICP (MoM) (Nov) |  |  | -0.2% |
+| 09:50 | ZAR | Low | Budget Balance (MoM) (Oct) | -35.83B |  | -15.36B |
+| 10:00 | EUR | Low | Italian CPI (MoM) (Nov) | -0.2% | -0.1% | -0.3% |
+| 10:00 | EUR | Low | Italian CPI (YoY) (Nov) | 1.2% |  | 1.2% |
+| 10:00 | EUR | Low | Italian HICP (YoY) (Nov) | 1.1% |  | 1.3% |
+| 10:00 | EUR | Low | Italian HICP (MoM) (Nov) | -0.2% |  | -0.2% |
+| 10:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 22 min | INR | Low | Cumulative Industrial Production (Oct) |  |  | 3.00% |
+| 22 min | INR | Low | Industrial Production (YoY) (Oct) |  | 3.6% | 4.0% |
+| 22 min | INR | Low | Manufacturing Output (MoM) (Oct) |  |  | 4.8% |
+| 52 min | EUR | Low | Italian Trade Balance Non-EU (Oct) |  |  | 2.74B |
 | 52 min | INR | Low | Federal Fiscal Deficit (Oct) |  |  | 5,731.23B |
-| 52 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 10:30 | INR | Low | Cumulative Industrial Production (Oct) |  |  | 3.00% |
-| 10:30 | INR | Low | Industrial Production (YoY) (Oct) |  | 3.6% | 4.0% |
-| 10:30 | INR | Low | Manufacturing Output (MoM) (Oct) |  |  | 4.8% |
-| 11:00 | EUR | Low | Italian Trade Balance Non-EU (Oct) |  |  | 2.74B |
-| 11:00 | EUR | Moderate | France Jobseekers Total (Oct) |  |  | 3,082.0K |
+| 52 min | EUR | Moderate | France Jobseekers Total (Oct) |  |  | 3,082.0K |
+| 52 min | EUR | Low | M3 Money Supply (Oct) |  |  | 16,990.4B |
 | 11:30 | INR | Low | Bank Loan Growth |  |  | 11.3% |
 | 11:30 | INR | Low | Deposit Growth |  |  | 9.7% |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 692.58B |
@@ -89,15 +90,14 @@
 | 13:00 | EUR | Low | German HICP (MoM) (Nov) |  | -0.6% | 0.3% |
 | 13:00 | EUR | Low | German HICP (YoY) (Nov) |  | 2.4% | 2.3% |
 | 13:30 | CAD | Low | GDP Implicit Price (QoQ) (Q3) |  |  | 0.00% |
-| 13:30 | CAD | Moderate | GDP (QoQ) (Q3) |  |  | -0.4% |
-| 13:30 | CAD | Moderate | GDP (YoY) (Q3) |  |  | 1.21% |
 | 13:30 | CAD | Moderate | GDP (MoM) (Sep) |  | 0.2% | -0.3% |
+| 13:30 | CAD | Moderate | GDP (YoY) (Q3) |  |  | 1.21% |
+| 13:30 | CAD | Moderate | GDP (QoQ) (Q3) |  |  | -0.4% |
 | 13:30 | CAD | Moderate | GDP Annualized (QoQ) (Q3) |  |  | -1.6% |
 | 13:31 | CAD | Moderate | GDP (MoM) (Oct) |  |  |  |
 | 14:45 | USD | High | Chicago PMI (Dec) |  |  | 43.8 |
 | 16:00 | CAD | Low | Budget Balance (Sep) |  |  | -3.28B |
 | 16:00 | CAD | Low | Budget Balance (YoY) (Sep) |  |  | -11.07B |
-| 18:31 | ZAR | Low | Budget Balance (MoM) (Oct) |  |  | -15.36B |
 | 19:00 | MXN | Low | Fiscal Balance (Oct) |  |  | -198.11B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,555B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.918T |

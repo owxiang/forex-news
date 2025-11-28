@@ -36,24 +36,25 @@
 | 09:00 | EUR | Bavaria CPI (YoY) (Nov) | 2.2% |  | 2.2% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Nov) | 2.6% |  | 2.6% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Nov) | -0.2% |  | 0.4% |
-| 09:00 | EUR | Hesse CPI (MoM) (Nov) |  |  | 0.3% |
+| 09:00 | EUR | Hesse CPI (MoM) (Nov) | -0.2% |  | 0.3% |
 | 09:00 | EUR | Hesse CPI (YoY) (Nov) | 2.5% |  | 2.4% |
-| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Nov) |  |  | 0.4% |
+| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Nov) | -0.3% |  | 0.4% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Nov) | 2.3% |  | 2.3% |
 | 09:00 | EUR | Saxony CPI (YoY) (Nov) | 2.2% |  | 2.1% |
 | 09:00 | EUR | Saxony CPI (MoM) (Nov) | -0.2% |  | 0.3% |
 | 09:00 | EUR | Spanish Current account (Sep) | 1.87B |  | 5.08B |
 | 09:00 | NOK | Central Bank Currency Purchase (Dec) | 150.0M |  | 150.0M |
-| 09:00 | EUR | M3 Money Supply (Oct) |  |  | 16,990.4B |
-| 52 min | EUR | Italian CPI (MoM) (Nov) |  | -0.1% | -0.3% |
-| 52 min | EUR | Italian CPI (YoY) (Nov) |  |  | 1.2% |
-| 52 min | EUR | Italian HICP (YoY) (Nov) |  |  | 1.3% |
-| 52 min | EUR | Italian HICP (MoM) (Nov) |  |  | -0.2% |
+| 09:50 | ZAR | Budget Balance (MoM) (Oct) | -35.83B |  | -15.36B |
+| 10:00 | EUR | Italian CPI (MoM) (Nov) | -0.2% | -0.1% | -0.3% |
+| 10:00 | EUR | Italian CPI (YoY) (Nov) | 1.2% |  | 1.2% |
+| 10:00 | EUR | Italian HICP (YoY) (Nov) | 1.1% |  | 1.3% |
+| 10:00 | EUR | Italian HICP (MoM) (Nov) | -0.2% |  | -0.2% |
+| 22 min | INR | Cumulative Industrial Production (Oct) |  |  | 3.00% |
+| 22 min | INR | Industrial Production (YoY) (Oct) |  | 3.6% | 4.0% |
+| 22 min | INR | Manufacturing Output (MoM) (Oct) |  |  | 4.8% |
+| 52 min | EUR | Italian Trade Balance Non-EU (Oct) |  |  | 2.74B |
 | 52 min | INR | Federal Fiscal Deficit (Oct) |  |  | 5,731.23B |
-| 10:30 | INR | Cumulative Industrial Production (Oct) |  |  | 3.00% |
-| 10:30 | INR | Industrial Production (YoY) (Oct) |  | 3.6% | 4.0% |
-| 10:30 | INR | Manufacturing Output (MoM) (Oct) |  |  | 4.8% |
-| 11:00 | EUR | Italian Trade Balance Non-EU (Oct) |  |  | 2.74B |
+| 52 min | EUR | M3 Money Supply (Oct) |  |  | 16,990.4B |
 | 11:30 | INR | Bank Loan Growth |  |  | 11.3% |
 | 11:30 | INR | Deposit Growth |  |  | 9.7% |
 | 11:30 | INR | FX Reserves, USD |  |  | 692.58B |
@@ -70,6 +71,5 @@
 | 13:30 | CAD | GDP Implicit Price (QoQ) (Q3) |  |  | 0.00% |
 | 16:00 | CAD | Budget Balance (Sep) |  |  | -3.28B |
 | 16:00 | CAD | Budget Balance (YoY) (Sep) |  |  | -11.07B |
-| 18:31 | ZAR | Budget Balance (MoM) (Oct) |  |  | -15.36B |
 | 19:00 | MXN | Fiscal Balance (Oct) |  |  | -198.11B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.918T |
