@@ -2,17 +2,17 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 49 min | EUR | German Retail Sales (MoM) (Oct) |  | 0.1% | 0.2% |
-| 07:45 | EUR | French Consumer Spending (MoM) (Oct) |  | 0.3% | 0.3% |
-| 07:45 | EUR | French CPI (MoM) (Nov) |  | 0.0% | 0.1% |
-| 07:45 | EUR | French GDP (QoQ) (Q3) |  | 0.5% | 0.3% |
-| 07:45 | EUR | French GDP (YoY) (Q3) |  | 0.9% | 0.7% |
-| 07:45 | EUR | French HICP (MoM) (Nov) |  |  | 0.1% |
-| 08:00 | CHF | KOF Leading Indicators (Nov) |  | 100.9 | 101.3 |
-| 08:00 | CHF | GDP (QoQ) (Q3) |  | -0.4% | 0.1% |
-| 08:00 | CHF | GDP (YoY) (Q3) |  |  | 1.2% |
-| 08:00 | EUR | Spanish CPI (YoY) (Nov) |  | 3.0% | 3.1% |
-| 08:00 | EUR | Spanish HICP (YoY) (Nov) |  | 2.9% | 3.2% |
+| 07:00 | EUR | German Retail Sales (MoM) (Oct) | -0.3% | 0.1% | 0.3% |
+| 37 min | EUR | French Consumer Spending (MoM) (Oct) |  | 0.3% | 0.3% |
+| 37 min | EUR | French CPI (MoM) (Nov) |  | 0.0% | 0.1% |
+| 37 min | EUR | French GDP (QoQ) (Q3) |  | 0.5% | 0.3% |
+| 37 min | EUR | French GDP (YoY) (Q3) |  | 0.9% | 0.7% |
+| 37 min | EUR | French HICP (MoM) (Nov) |  |  | 0.1% |
+| 52 min | CHF | KOF Leading Indicators (Nov) |  | 100.9 | 101.3 |
+| 52 min | CHF | GDP (QoQ) (Q3) |  | -0.4% | 0.1% |
+| 52 min | CHF | GDP (YoY) (Q3) |  |  | 1.2% |
+| 52 min | EUR | Spanish CPI (YoY) (Nov) |  | 3.0% | 3.1% |
+| 52 min | EUR | Spanish HICP (YoY) (Nov) |  | 2.9% | 3.2% |
 | 08:55 | EUR | German Unemployment Change (Nov) |  | 4K | -1K |
 | 08:55 | EUR | German Unemployment Rate (Nov) |  | 6.3% | 6.3% |
 | 09:00 | EUR | German Buba Balz Speaks |  |  |  |

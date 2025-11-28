@@ -10,21 +10,21 @@
 | 05:00 | JPY | Housing Starts (YoY) (Oct) | 3.2% | -5.0% | -7.3% |
 | 06:00 | ZAR | M3 Money Supply (YoY) (Oct) | 7.52% |  | 6.07% |
 | 06:00 | ZAR | Private Sector Credit (Oct) | 7.26% |  | 6.03% |
-| 49 min | EUR | German Import Price Index (MoM) (Oct) |  | 0.0% | 0.2% |
-| 49 min | EUR | German Import Price Index (YoY) (Oct) |  | -1.6% | -1.0% |
-| 49 min | EUR | German Retail Sales (YoY) (Oct) |  |  | 0.2% |
-| 49 min | NOK | Unemployment Rate n.s.a. (Nov) |  | 2.00% | 2.00% |
-| 49 min | NOK | Core Retail Sales (MoM) (Oct) |  |  | -0.5% |
-| 07:45 | EUR | French CPI (YoY) (Nov) |  | 1.0% | 0.9% |
-| 07:45 | EUR | French HICP (YoY) (Nov) |  | 0.1% | 0.8% |
-| 07:45 | EUR | French Non-Farm Payrolls (QoQ) (Q3) |  | -0.3% | 0.2% |
-| 07:45 | EUR | French PPI (MoM) (Oct) |  |  | -0.2% |
-| 07:45 | EUR | PPI (YoY) (Oct) |  |  | 0.10% |
-| 08:00 | CHF | Official Reserves Assets (Oct) |  |  | 840.6B |
-| 08:00 | EUR | Core CPI (YoY) (Nov) |  |  | 2.5% |
-| 08:00 | EUR | Spanish CPI (MoM) (Nov) |  |  | 0.7% |
-| 08:00 | EUR | Spanish HICP (MoM) (Nov) |  | -0.2% | 0.5% |
-| 08:00 | EUR | Spanish Retail Sales (YoY) (Oct) |  |  | 4.2% |
+| 07:00 | EUR | German Import Price Index (MoM) (Oct) | 0.2% | 0.0% | 0.2% |
+| 07:00 | EUR | German Import Price Index (YoY) (Oct) | -1.4% | -1.6% | -1.0% |
+| 07:00 | EUR | German Retail Sales (YoY) (Oct) | 0.9% |  | 0.8% |
+| 07:00 | NOK | Unemployment Rate n.s.a. (Nov) | 2.10% | 2.00% | 2.00% |
+| 07:00 | NOK | Core Retail Sales (MoM) (Oct) | 0.1% |  | -0.5% |
+| 37 min | EUR | French CPI (YoY) (Nov) |  | 1.0% | 0.9% |
+| 37 min | EUR | French HICP (YoY) (Nov) |  | 0.1% | 0.8% |
+| 37 min | EUR | French Non-Farm Payrolls (QoQ) (Q3) |  | -0.3% | 0.2% |
+| 37 min | EUR | French PPI (MoM) (Oct) |  |  | -0.2% |
+| 37 min | EUR | PPI (YoY) (Oct) |  |  | 0.10% |
+| 52 min | CHF | Official Reserves Assets (Oct) |  |  | 840.6B |
+| 52 min | EUR | Core CPI (YoY) (Nov) |  |  | 2.5% |
+| 52 min | EUR | Spanish CPI (MoM) (Nov) |  |  | 0.7% |
+| 52 min | EUR | Spanish HICP (MoM) (Nov) |  | -0.2% | 0.5% |
+| 52 min | EUR | Spanish Retail Sales (YoY) (Oct) |  |  | 4.2% |
 | 08:30 | HKD | M3 Money Supply (Oct) |  |  | 4.5% |
 | 08:55 | EUR | German Unemployment (Nov) |  |  | 2.973M |
 | 08:55 | EUR | German Unemployment n.s.a. (Nov) |  |  | 2.910M |

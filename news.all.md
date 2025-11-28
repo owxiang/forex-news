@@ -10,32 +10,32 @@
 | 05:00 | JPY | Low | Housing Starts (YoY) (Oct) | 3.2% | -5.0% | -7.3% |
 | 06:00 | ZAR | Low | M3 Money Supply (YoY) (Oct) | 7.52% |  | 6.07% |
 | 06:00 | ZAR | Low | Private Sector Credit (Oct) | 7.26% |  | 6.03% |
-| 49 min | EUR | Low | German Import Price Index (MoM) (Oct) |  | 0.0% | 0.2% |
-| 49 min | EUR | Low | German Import Price Index (YoY) (Oct) |  | -1.6% | -1.0% |
-| 49 min | EUR | Low | German Retail Sales (YoY) (Oct) |  |  | 0.2% |
-| 49 min | EUR | Moderate | German Retail Sales (MoM) (Oct) |  | 0.1% | 0.2% |
-| 49 min | NOK | Low | Unemployment Rate n.s.a. (Nov) |  | 2.00% | 2.00% |
-| 49 min | NOK | Low | Core Retail Sales (MoM) (Oct) |  |  | -0.5% |
-| 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Oct) |  | 0.3% | 0.3% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Nov) |  | 0.0% | 0.1% |
-| 07:45 | EUR | Low | French CPI (YoY) (Nov) |  | 1.0% | 0.9% |
-| 07:45 | EUR | Moderate | French GDP (QoQ) (Q3) |  | 0.5% | 0.3% |
-| 07:45 | EUR | Moderate | French GDP (YoY) (Q3) |  | 0.9% | 0.7% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Nov) |  |  | 0.1% |
-| 07:45 | EUR | Low | French HICP (YoY) (Nov) |  | 0.1% | 0.8% |
-| 07:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q3) |  | -0.3% | 0.2% |
-| 07:45 | EUR | Low | French PPI (MoM) (Oct) |  |  | -0.2% |
-| 07:45 | EUR | Low | PPI (YoY) (Oct) |  |  | 0.10% |
-| 08:00 | CHF | Moderate | KOF Leading Indicators (Nov) |  | 100.9 | 101.3 |
-| 08:00 | CHF | Low | Official Reserves Assets (Oct) |  |  | 840.6B |
-| 08:00 | CHF | Moderate | GDP (QoQ) (Q3) |  | -0.4% | 0.1% |
-| 08:00 | CHF | Moderate | GDP (YoY) (Q3) |  |  | 1.2% |
-| 08:00 | EUR | Low | Core CPI (YoY) (Nov) |  |  | 2.5% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Nov) |  |  | 0.7% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Nov) |  | 3.0% | 3.1% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Nov) |  | -0.2% | 0.5% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Nov) |  | 2.9% | 3.2% |
-| 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Oct) |  |  | 4.2% |
+| 07:00 | EUR | Low | German Import Price Index (MoM) (Oct) | 0.2% | 0.0% | 0.2% |
+| 07:00 | EUR | Low | German Import Price Index (YoY) (Oct) | -1.4% | -1.6% | -1.0% |
+| 07:00 | EUR | Low | German Retail Sales (YoY) (Oct) | 0.9% |  | 0.8% |
+| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Oct) | -0.3% | 0.1% | 0.3% |
+| 07:00 | NOK | Low | Unemployment Rate n.s.a. (Nov) | 2.10% | 2.00% | 2.00% |
+| 07:00 | NOK | Low | Core Retail Sales (MoM) (Oct) | 0.1% |  | -0.5% |
+| 37 min | EUR | Moderate | French Consumer Spending (MoM) (Oct) |  | 0.3% | 0.3% |
+| 37 min | EUR | Moderate | French CPI (MoM) (Nov) |  | 0.0% | 0.1% |
+| 37 min | EUR | Low | French CPI (YoY) (Nov) |  | 1.0% | 0.9% |
+| 37 min | EUR | Moderate | French GDP (QoQ) (Q3) |  | 0.5% | 0.3% |
+| 37 min | EUR | Moderate | French GDP (YoY) (Q3) |  | 0.9% | 0.7% |
+| 37 min | EUR | Moderate | French HICP (MoM) (Nov) |  |  | 0.1% |
+| 37 min | EUR | Low | French HICP (YoY) (Nov) |  | 0.1% | 0.8% |
+| 37 min | EUR | Low | French Non-Farm Payrolls (QoQ) (Q3) |  | -0.3% | 0.2% |
+| 37 min | EUR | Low | French PPI (MoM) (Oct) |  |  | -0.2% |
+| 37 min | EUR | Low | PPI (YoY) (Oct) |  |  | 0.10% |
+| 52 min | CHF | Moderate | KOF Leading Indicators (Nov) |  | 100.9 | 101.3 |
+| 52 min | CHF | Low | Official Reserves Assets (Oct) |  |  | 840.6B |
+| 52 min | CHF | Moderate | GDP (QoQ) (Q3) |  | -0.4% | 0.1% |
+| 52 min | CHF | Moderate | GDP (YoY) (Q3) |  |  | 1.2% |
+| 52 min | EUR | Low | Core CPI (YoY) (Nov) |  |  | 2.5% |
+| 52 min | EUR | Low | Spanish CPI (MoM) (Nov) |  |  | 0.7% |
+| 52 min | EUR | Moderate | Spanish CPI (YoY) (Nov) |  | 3.0% | 3.1% |
+| 52 min | EUR | Low | Spanish HICP (MoM) (Nov) |  | -0.2% | 0.5% |
+| 52 min | EUR | Moderate | Spanish HICP (YoY) (Nov) |  | 2.9% | 3.2% |
+| 52 min | EUR | Low | Spanish Retail Sales (YoY) (Oct) |  |  | 4.2% |
 | 08:30 | HKD | Low | M3 Money Supply (Oct) |  |  | 4.5% |
 | 08:55 | EUR | Moderate | German Unemployment Change (Nov) |  | 4K | -1K |
 | 08:55 | EUR | Moderate | German Unemployment Rate (Nov) |  | 6.3% | 6.3% |
