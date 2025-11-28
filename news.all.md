@@ -90,8 +90,8 @@
 | 13:30 | CAD | Moderate | GDP (YoY) (Q3) | 1.42% |  | 1.60% |
 | 13:30 | CAD | Moderate | GDP Annualized (QoQ) (Q3) | 2.6% |  | -1.8% |
 | 13:31 | CAD | Moderate | GDP (MoM) (Oct) | -0.3% |  | 0.2% |
-| 53 min | CAD | Low | Budget Balance (Sep) |  |  | -3.28B |
-| 53 min | CAD | Low | Budget Balance (YoY) (Sep) |  |  | -11.07B |
+| 16:00 | CAD | Low | Budget Balance (Sep) | -5.02B |  | -3.28B |
+| 16:00 | CAD | Low | Budget Balance (YoY) (Sep) | -16.09B |  | -11.07B |
 | 19:00 | MXN | Low | Fiscal Balance (Oct) |  |  | -198.11B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,555B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.918T |
