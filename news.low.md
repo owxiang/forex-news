@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Housing Credit (Oct) | 0.6% |  | 0.6% |
 | 00:30 | AUD | Private Sector Credit (MoM) (Oct) | 0.7% | 0.6% | 0.6% |
-| 25 min | SGD | Bank Lending (Oct) |  |  | 863.8B |
-| 25 min | NZD | M3 Money Supply (Oct) |  |  | 440,152.0B |
+| 02:00 | SGD | Bank Lending (Oct) | 866.1B |  | 863.8B |
+| 02:00 | NZD | M3 Money Supply (Oct) | 442.3B |  | 440.2B |
 | 05:00 | JPY | Construction Orders (YoY) (Oct) |  |  | 34.7% |
 | 05:00 | JPY | Housing Starts (YoY) (Oct) |  | -5.0% | -7.3% |
 | 06:00 | ZAR | M3 Money Supply (YoY) (Oct) |  |  | 6.07% |
