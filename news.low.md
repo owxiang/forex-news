@@ -36,8 +36,8 @@
 | 09:00 | EUR | Bavaria CPI (YoY) (Nov) | 2.2% |  | 2.2% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Nov) | -0.2% |  | 0.4% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Nov) | 2.6% |  | 2.6% |
-| 09:00 | EUR | Hesse CPI (YoY) (Nov) | 2.5% |  | 2.4% |
 | 09:00 | EUR | Hesse CPI (MoM) (Nov) | -0.2% |  | 0.3% |
+| 09:00 | EUR | Hesse CPI (YoY) (Nov) | 2.5% |  | 2.4% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Nov) | 2.3% |  | 2.3% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Nov) | -0.3% |  | 0.4% |
 | 09:00 | EUR | Saxony CPI (YoY) (Nov) | 2.2% |  | 2.1% |
@@ -61,10 +61,10 @@
 | 12:00 | MXN | Unemployment Rate (Oct) | 2.60% |  | 2.70% |
 | 12:00 | MXN | Unemployment Rate n.s.a. (Oct) | 2.60% | 2.80% | 3.00% |
 | 12:00 | ZAR | Trade Balance (Oct) | 15.58B |  | 22.25B |
-| 13:00 | EUR | German HICP (YoY) (Nov) | 2.6% | 2.4% | 2.3% |
 | 13:00 | EUR | German HICP (MoM) (Nov) | -0.5% | -0.6% | 0.3% |
+| 13:00 | EUR | German HICP (YoY) (Nov) | 2.6% | 2.4% | 2.3% |
 | 13:30 | CAD | GDP Implicit Price (QoQ) (Q3) | 0.80% |  | 0.10% |
-| 16:00 | CAD | Budget Balance (Sep) |  |  | -3.28B |
-| 16:00 | CAD | Budget Balance (YoY) (Sep) |  |  | -11.07B |
+| 53 min | CAD | Budget Balance (Sep) |  |  | -3.28B |
+| 53 min | CAD | Budget Balance (YoY) (Sep) |  |  | -11.07B |
 | 19:00 | MXN | Fiscal Balance (Oct) |  |  | -198.11B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.918T |

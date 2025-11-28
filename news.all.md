@@ -50,8 +50,8 @@
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Nov) | -0.2% |  | 0.4% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Nov) | 2.6% |  | 2.6% |
 | 09:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 09:00 | EUR | Low | Hesse CPI (YoY) (Nov) | 2.5% |  | 2.4% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Nov) | -0.2% |  | 0.3% |
+| 09:00 | EUR | Low | Hesse CPI (YoY) (Nov) | 2.5% |  | 2.4% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Nov) | 2.3% |  | 2.3% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Nov) | -0.3% |  | 0.4% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Nov) | 2.2% |  | 2.1% |
@@ -82,17 +82,16 @@
 | 12:00 | ZAR | Low | Trade Balance (Oct) | 15.58B |  | 22.25B |
 | 13:00 | EUR | High | German CPI (MoM) (Nov) | -0.2% | -0.2% | 0.3% |
 | 13:00 | EUR | Moderate | German CPI (YoY) (Nov) | 2.3% | 2.4% | 2.3% |
-| 13:00 | EUR | Low | German HICP (YoY) (Nov) | 2.6% | 2.4% | 2.3% |
 | 13:00 | EUR | Low | German HICP (MoM) (Nov) | -0.5% | -0.6% | 0.3% |
+| 13:00 | EUR | Low | German HICP (YoY) (Nov) | 2.6% | 2.4% | 2.3% |
 | 13:30 | CAD | Low | GDP Implicit Price (QoQ) (Q3) | 0.80% |  | 0.10% |
 | 13:30 | CAD | Moderate | GDP (MoM) (Sep) | 0.2% | 0.1% | -0.3% |
 | 13:30 | CAD | Moderate | GDP (QoQ) (Q3) | 0.6% |  | -0.5% |
 | 13:30 | CAD | Moderate | GDP (YoY) (Q3) | 1.42% |  | 1.60% |
 | 13:30 | CAD | Moderate | GDP Annualized (QoQ) (Q3) | 2.6% |  | -1.8% |
 | 13:31 | CAD | Moderate | GDP (MoM) (Oct) | -0.3% |  | 0.2% |
-| 37 min | USD | High | Chicago PMI (Dec) |  |  | 43.8 |
-| 16:00 | CAD | Low | Budget Balance (Sep) |  |  | -3.28B |
-| 16:00 | CAD | Low | Budget Balance (YoY) (Sep) |  |  | -11.07B |
+| 53 min | CAD | Low | Budget Balance (Sep) |  |  | -3.28B |
+| 53 min | CAD | Low | Budget Balance (YoY) (Sep) |  |  | -11.07B |
 | 19:00 | MXN | Low | Fiscal Balance (Oct) |  |  | -198.11B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,555B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.918T |
