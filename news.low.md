@@ -67,4 +67,4 @@
 | 16:00 | CAD | Budget Balance (Sep) | -5.02B |  | -3.28B |
 | 16:00 | CAD | Budget Balance (YoY) (Sep) | -16.09B |  | -11.07B |
 | 19:00 | MXN | Fiscal Balance (Oct) | -16.75B |  | -198.11B |
-| 24 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.918T |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 2.898T |  | 2.918T |
