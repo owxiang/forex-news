@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 01:30 | CNY | Moderate | Chinese Composite PMI (Nov) |  |  | 50.0 |
-| 01:30 | CNY | High | Manufacturing PMI (Nov) |  | 49.2 | 49.0 |
-| 01:30 | CNY | Moderate | Non-Manufacturing PMI (Nov) |  | 50.0 | 50.1 |
+| 55 min | CNY | Moderate | Chinese Composite PMI (Nov) |  |  | 50.0 |
+| 55 min | CNY | High | Manufacturing PMI (Nov) |  | 49.2 | 49.0 |
+| 55 min | CNY | Moderate | Non-Manufacturing PMI (Nov) |  | 50.0 | 50.1 |
 | 10:00 | USD | Moderate | OPEC Meeting |  |  |  |
 | 21:45 | NZD | Low | Building Consents (MoM) (Oct) |  |  | 7.2% |
 | 22:00 | AUD | Low | Judo Bank Manufacturing PMI (Nov) |  | 51.6 | 51.6 |
