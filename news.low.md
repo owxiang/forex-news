@@ -32,10 +32,17 @@
 | 09:30 | GBP | Mortgage Lending (Oct) | 4.27B |  | 5.22B |
 | 09:30 | GBP | Net Lending to Individuals (Oct) | 5.400B | 6.400B | 6.600B |
 | 10:30 | INR | Cumulative Industrial Production (Oct) | 2.70% |  | 3.00% |
-| 10:30 | INR | Industrial Production (YoY) (Oct) | 0.4% | 3.6% | 4.0% |
+| 10:30 | INR | Industrial Production (YoY) (Oct) | 0.4% | 3.6% | 4.6% |
 | 10:30 | INR | Manufacturing Output (MoM) (Oct) | 1.8% |  | 4.8% |
-| 18 min | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | BRL | S&P Global Manufacturing PMI (Nov) |  |  | 48.2 |
+| 11:00 | EUR | Car Registration (YoY) (Nov) | 12.90% |  | 15.90% |
+| 11:00 | ZAR | Total Vehicle Sales (YoY) (Nov) | 12.50% |  | 16.00% |
+| 11:00 | ZAR | Total Vehicle Sales (Nov) | 54.90K |  | 55.96K |
+| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 11:30 | INR | Balance of Payments (USD) (Q3) | -10.900B |  | 4.500B |
+| 11:30 | INR | Current Account % of GDP (QoQ) (Q3) | -1.30% |  | -0.20% |
+| 11:30 | INR | Current Account (USD) (Q3) | -12.30B |  | -2.40B |
+| 11:30 | INR | Trade Balance (USD) (Q3) | -87.400B |  | -68.500B |
+| 47 min | BRL | S&P Global Manufacturing PMI (Nov) |  |  | 48.2 |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.078% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.041% |
 | 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.053% |
