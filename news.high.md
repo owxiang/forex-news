@@ -2,6 +2,6 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 14:45 | USD | S&P Global Manufacturing PMI (Nov) |  | 51.9 | 51.9 |
+| 14:45 | USD | S&P Global Manufacturing PMI (Nov) |  | 51.9 | 52.5 |
 | 15:00 | USD | ISM Manufacturing PMI (Nov) |  | 49.0 | 48.7 |
 | 15:00 | USD | ISM Manufacturing Prices (Nov) |  | 59.5 | 58.0 |

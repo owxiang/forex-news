@@ -11,28 +11,28 @@
 | 00:30 | AUD | Low | Business inventories (MoM) (Q3) | -0.9% |  | 0.1% |
 | 00:30 | AUD | Moderate | Company Gross Operating Profits (QoQ) (Q3) | 0.0% | 1.7% | -2.6% |
 | 00:30 | AUD | Low | Company Profits Pre-Tax (QoQ) (Q3) | 0.4% |  | 2.1% |
-| 00:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Nov) | 48.7 | 48.8 | 48.8 |
+| 00:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Nov) | 48.7 | 48.8 | 48.2 |
 | 00:30 | IDR | Low | S&P Global Manufacturing PMI (Nov) | 53.3 |  | 51.2 |
 | 01:05 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
 | 01:45 | CNY | Moderate | Caixin Manufacturing PMI (MoM) (Nov) | 49.9 | 50.5 | 50.6 |
-| 20 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 20 min | IDR | Low | Core Inflation (YoY) (Nov) |  |  | 2.36% |
-| 20 min | IDR | Low | Export Growth (YoY) (Oct) |  |  | 11.41% |
-| 20 min | IDR | Low | Import Growth (YoY) (Oct) |  |  | 7.17% |
-| 20 min | IDR | Low | Inflation (MoM) (Nov) |  |  | 0.28% |
-| 20 min | IDR | Low | Inflation (YoY) (Nov) |  |  | 2.86% |
-| 20 min | IDR | Low | Trade Balance (Oct) |  |  | 4.34B |
-| 05:00 | INR | Low | S&P Global Manufacturing PMI (Nov) |  | 57.4 | 57.4 |
+| 04:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 04:00 | IDR | Low | Core Inflation (YoY) (Nov) |  |  | 2.36% |
+| 04:00 | IDR | Low | Export Growth (YoY) (Oct) | -2.31% |  | 11.41% |
+| 04:00 | IDR | Low | Import Growth (YoY) (Oct) | -1.15% |  | 7.17% |
+| 04:00 | IDR | Low | Inflation (MoM) (Nov) |  |  | 0.28% |
+| 04:00 | IDR | Low | Inflation (YoY) (Nov) |  |  | 2.86% |
+| 04:00 | IDR | Low | Trade Balance (Oct) | 2.40B |  | 4.34B |
+| 33 min | INR | Low | S&P Global Manufacturing PMI (Nov) |  | 57.4 | 59.2 |
 | 05:30 | AUD | Low | Commodity Prices (YoY) (Nov) |  |  | -1.3% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Oct) |  | 1.2% | 1.5% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Nov) |  | 52.3 | 52.1 |
 | 08:30 | CHF | Moderate | procure.ch Manufacturing PMI |  | 49.0 | 48.2 |
 | 08:30 | HKD | Low | Retail Sales (YoY) (Oct) |  |  | 5.9% |
 | 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Nov) |  | 50.1 | 49.9 |
-| 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (Nov) |  | 47.8 | 47.8 |
-| 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Nov) |  | 48.4 | 48.4 |
+| 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (Nov) |  | 47.8 | 48.8 |
+| 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Nov) |  | 48.4 | 49.6 |
 | 09:00 | NOK | Low | Manufacturing PMI (Nov) |  |  | 47.7 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Nov) |  | 49.7 | 49.7 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Nov) |  | 49.7 | 50.0 |
 | 09:00 | ZAR | Low | Manufacturing PMI (Nov) |  |  | 49.2 |
 | 09:30 | GBP | Low | BoE Consumer Credit (Oct) |  |  | 1.491B |
 | 09:30 | GBP | Low | M3 Money Supply (Oct) |  |  | 3,180.8B |
@@ -52,7 +52,7 @@
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.041% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.053% |
 | 14:30 | CAD | Low | S&P Global Manufacturing PMI (Nov) |  |  | 49.6 |
-| 14:45 | USD | High | S&P Global Manufacturing PMI (Nov) |  | 51.9 | 51.9 |
+| 14:45 | USD | High | S&P Global Manufacturing PMI (Nov) |  | 51.9 | 52.5 |
 | 15:00 | USD | Moderate | Construction Spending (MoM) (Sep) |  |  | 0.2% |
 | 15:00 | USD | Moderate | ISM Manufacturing Employment (Nov) |  |  | 46.0 |
 | 15:00 | USD | Low | ISM Manufacturing New Orders Index (Nov) |  |  | 49.4 |
