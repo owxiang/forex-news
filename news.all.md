@@ -40,10 +40,10 @@
 | 09:30 | GBP | Low | Mortgage Approvals (Oct) | 65.02K | 64.00K | 65.65K |
 | 09:30 | GBP | Low | Mortgage Lending (Oct) | 4.27B |  | 5.22B |
 | 09:30 | GBP | Low | Net Lending to Individuals (Oct) | 5.400B | 6.400B | 6.600B |
-| 21 min | INR | Low | Cumulative Industrial Production (Oct) |  |  | 3.00% |
-| 21 min | INR | Low | Industrial Production (YoY) (Oct) |  | 3.6% | 4.0% |
-| 21 min | INR | Low | Manufacturing Output (MoM) (Oct) |  |  | 4.8% |
-| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 10:30 | INR | Low | Cumulative Industrial Production (Oct) | 2.70% |  | 3.00% |
+| 10:30 | INR | Low | Industrial Production (YoY) (Oct) | 0.4% | 3.6% | 4.0% |
+| 10:30 | INR | Low | Manufacturing Output (MoM) (Oct) | 1.8% |  | 4.8% |
+| 18 min | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | BRL | Low | S&P Global Manufacturing PMI (Nov) |  |  | 48.2 |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.078% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.041% |
