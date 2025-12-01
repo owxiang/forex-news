@@ -11,6 +11,5 @@
 | 08:55 | EUR | HCOB Germany Manufacturing PMI (Nov) | 48.2 | 48.4 | 49.6 |
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Nov) | 49.6 | 49.7 | 50.0 |
 | 09:30 | GBP | S&P Global Manufacturing PMI (Nov) | 50.2 | 50.2 | 50.2 |
-| 52 min | USD | Construction Spending (MoM) (Sep) |  |  | 0.2% |
-| 52 min | USD | ISM Manufacturing Employment (Nov) |  |  | 46.0 |
+| 15:00 | USD | ISM Manufacturing Employment (Nov) | 44.0 |  | 46.0 |
 | 17:00 | USD | Atlanta Fed GDPNow (Q4) |  | 3.9% | 3.9% |
