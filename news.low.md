@@ -53,7 +53,7 @@
 | 15:30 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
 | 16:30 | USD | 3-Month Bill Auction | 3.725% |  | 3.745% |
 | 16:30 | USD | 6-Month Bill Auction | 3.635% |  | 3.670% |
-| 19:00 | MXN | Fiscal Balance (Oct) |  |  | -198.11B |
+| 50 min | MXN | Fiscal Balance (Oct) |  |  | -198.11B |
 | 21:45 | NZD | Terms of Trade - Exports Prices (Q3) |  |  | 0.2% |
 | 21:45 | NZD | Terms of Trade - Exports Volume (QoQ) (Q3) |  |  | -3.7% |
 | 21:45 | NZD | Terms of Trade - Imports Prices (Q3) |  |  | -3.7% |

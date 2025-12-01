@@ -67,7 +67,7 @@
 | 16:30 | USD | Low | 3-Month Bill Auction | 3.725% |  | 3.745% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 3.635% |  | 3.670% |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 3.9% | 3.9% | 3.9% |
-| 19:00 | MXN | Low | Fiscal Balance (Oct) |  |  | -198.11B |
+| 50 min | MXN | Low | Fiscal Balance (Oct) |  |  | -198.11B |
 | 21:45 | NZD | Low | Terms of Trade - Exports Prices (Q3) |  |  | 0.2% |
 | 21:45 | NZD | Low | Terms of Trade - Exports Volume (QoQ) (Q3) |  |  | -3.7% |
 | 21:45 | NZD | Low | Terms of Trade - Imports Prices (Q3) |  |  | -3.7% |
