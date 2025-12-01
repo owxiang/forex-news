@@ -53,10 +53,10 @@
 | 15:30 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
 | 16:30 | USD | 3-Month Bill Auction | 3.725% |  | 3.745% |
 | 16:30 | USD | 6-Month Bill Auction | 3.635% |  | 3.670% |
-| 21:45 | NZD | Terms of Trade - Exports Prices (Q3) |  |  | 0.2% |
-| 21:45 | NZD | Terms of Trade - Exports Volume (QoQ) (Q3) |  |  | -3.7% |
-| 21:45 | NZD | Terms of Trade - Imports Prices (Q3) |  |  | -3.7% |
-| 21:45 | NZD | Terms of Trade Index (QoQ) (Q3) |  | 0.3% | 4.1% |
+| 39 min | NZD | Terms of Trade - Exports Prices (Q3) |  |  | 0.2% |
+| 39 min | NZD | Terms of Trade - Exports Volume (QoQ) (Q3) |  |  | -3.7% |
+| 39 min | NZD | Terms of Trade - Imports Prices (Q3) |  |  | -3.7% |
+| 39 min | NZD | Terms of Trade Index (QoQ) (Q3) |  | 0.3% | 4.1% |
 | 23:00 | KRW | CPI (YoY) (Nov) |  |  | 2.4% |
 | 23:00 | KRW | CPI (MoM) (Nov) |  | -0.3% | 0.3% |
 | 23:50 | JPY | Monetary Base (YoY) (Nov) |  | -8.5% | -7.9% |
