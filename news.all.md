@@ -33,17 +33,16 @@
 | 09:00 | NOK | Low | Manufacturing PMI (Nov) | 53.0 |  | 48.2 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Nov) | 49.6 | 49.7 | 50.0 |
 | 09:00 | ZAR | Low | Manufacturing PMI (Nov) | 42.0 |  | 49.2 |
-| 19 min | GBP | Low | BoE Consumer Credit (Oct) |  |  | 1.491B |
-| 19 min | GBP | Low | M3 Money Supply (Oct) |  |  | 3,180.8B |
-| 19 min | GBP | Low | M4 Money Supply (MoM) (Oct) |  | 0.4% | 0.6% |
-| 19 min | GBP | Moderate | S&P Global Manufacturing PMI (Nov) |  | 50.2 | 50.2 |
-| 19 min | GBP | Low | Mortgage Approvals (Oct) |  | 64.00K | 65.94K |
-| 19 min | GBP | Low | Mortgage Lending (Oct) |  |  | 5.49B |
-| 19 min | GBP | Low | Net Lending to Individuals (Oct) |  | 6.400B | 7.000B |
-| 19 min | CHF | Moderate | procure.ch Manufacturing PMI |  | 48.6 | 48.2 |
-| 10:30 | INR | Low | Cumulative Industrial Production (Oct) |  |  | 3.00% |
-| 10:30 | INR | Low | Industrial Production (YoY) (Oct) |  | 3.6% | 4.0% |
-| 10:30 | INR | Low | Manufacturing Output (MoM) (Oct) |  |  | 4.8% |
+| 09:30 | GBP | Low | BoE Consumer Credit (Oct) | 1.119B |  | 1.398B |
+| 09:30 | GBP | Low | M3 Money Supply (Oct) | 3,174.2B |  | 3,181.2B |
+| 09:30 | GBP | Low | M4 Money Supply (MoM) (Oct) | -0.2% | 0.4% | 0.6% |
+| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Nov) | 50.2 | 50.2 | 50.2 |
+| 09:30 | GBP | Low | Mortgage Approvals (Oct) | 65.02K | 64.00K | 65.65K |
+| 09:30 | GBP | Low | Mortgage Lending (Oct) | 4.27B |  | 5.22B |
+| 09:30 | GBP | Low | Net Lending to Individuals (Oct) | 5.400B | 6.400B | 6.600B |
+| 21 min | INR | Low | Cumulative Industrial Production (Oct) |  |  | 3.00% |
+| 21 min | INR | Low | Industrial Production (YoY) (Oct) |  | 3.6% | 4.0% |
+| 21 min | INR | Low | Manufacturing Output (MoM) (Oct) |  |  | 4.8% |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | BRL | Low | S&P Global Manufacturing PMI (Nov) |  |  | 48.2 |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.078% |
