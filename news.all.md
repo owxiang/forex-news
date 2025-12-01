@@ -64,9 +64,9 @@
 | 15:00 | USD | High | ISM Manufacturing Prices (Nov) | 58.5 | 59.5 | 58.0 |
 | 15:00 | MXN | Low | S&P Global Manufacturing PMI (Nov) | 47.30 |  | 49.50 |
 | 15:30 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
-| 21 min | USD | Low | 3-Month Bill Auction |  |  | 3.745% |
-| 21 min | USD | Low | 6-Month Bill Auction |  |  | 3.670% |
-| 51 min | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 3.9% | 3.9% |
+| 16:30 | USD | Low | 3-Month Bill Auction | 3.725% |  | 3.745% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 3.635% |  | 3.670% |
+| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 3.9% | 3.9% | 3.9% |
 | 19:00 | MXN | Low | Fiscal Balance (Oct) |  |  | -198.11B |
 | 21:45 | NZD | Low | Terms of Trade - Exports Prices (Q3) |  |  | 0.2% |
 | 21:45 | NZD | Low | Terms of Trade - Exports Volume (QoQ) (Q3) |  |  | -3.7% |

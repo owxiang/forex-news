@@ -12,4 +12,4 @@
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Nov) | 49.6 | 49.7 | 50.0 |
 | 09:30 | GBP | S&P Global Manufacturing PMI (Nov) | 50.2 | 50.2 | 50.2 |
 | 15:00 | USD | ISM Manufacturing Employment (Nov) | 44.0 |  | 46.0 |
-| 51 min | USD | Atlanta Fed GDPNow (Q4) |  | 3.9% | 3.9% |
+| 16:30 | USD | Atlanta Fed GDPNow (Q4) | 3.9% | 3.9% | 3.9% |
