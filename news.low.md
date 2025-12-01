@@ -50,9 +50,9 @@
 | 14:30 | CAD | S&P Global Manufacturing PMI (Nov) | 48.4 |  | 49.6 |
 | 15:00 | USD | ISM Manufacturing New Orders Index (Nov) | 47.4 |  | 49.4 |
 | 15:00 | MXN | S&P Global Manufacturing PMI (Nov) | 47.30 |  | 49.50 |
-| 22 min | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
-| 16:30 | USD | 3-Month Bill Auction |  |  | 3.745% |
-| 16:30 | USD | 6-Month Bill Auction |  |  | 3.670% |
+| 15:30 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
+| 21 min | USD | 3-Month Bill Auction |  |  | 3.745% |
+| 21 min | USD | 6-Month Bill Auction |  |  | 3.670% |
 | 19:00 | MXN | Fiscal Balance (Oct) |  |  | -198.11B |
 | 21:45 | NZD | Terms of Trade - Exports Prices (Q3) |  |  | 0.2% |
 | 21:45 | NZD | Terms of Trade - Exports Volume (QoQ) (Q3) |  |  | -3.7% |
