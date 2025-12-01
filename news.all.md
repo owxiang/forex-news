@@ -67,10 +67,10 @@
 | 16:30 | USD | Low | 3-Month Bill Auction | 3.725% |  | 3.745% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 3.635% |  | 3.670% |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 3.9% | 3.9% | 3.9% |
-| 39 min | NZD | Low | Terms of Trade - Exports Prices (Q3) |  |  | 0.2% |
-| 39 min | NZD | Low | Terms of Trade - Exports Volume (QoQ) (Q3) |  |  | -3.7% |
-| 39 min | NZD | Low | Terms of Trade - Imports Prices (Q3) |  |  | -3.7% |
-| 39 min | NZD | Low | Terms of Trade Index (QoQ) (Q3) |  | 0.3% | 4.1% |
-| 23:00 | KRW | Low | CPI (YoY) (Nov) |  |  | 2.4% |
-| 23:00 | KRW | Low | CPI (MoM) (Nov) |  | -0.3% | 0.3% |
+| 21:45 | NZD | Low | Terms of Trade - Exports Prices (Q3) | -1.6% |  | 0.3% |
+| 21:45 | NZD | Low | Terms of Trade - Exports Volume (QoQ) (Q3) | 3.4% |  | -3.7% |
+| 21:45 | NZD | Low | Terms of Trade - Imports Prices (Q3) | 0.5% |  | -3.7% |
+| 21:45 | NZD | Low | Terms of Trade Index (QoQ) (Q3) | -2.1% | 0.3% | 4.2% |
+| 54 min | KRW | Low | CPI (YoY) (Nov) |  |  | 2.4% |
+| 54 min | KRW | Low | CPI (MoM) (Nov) |  | -0.3% | 0.3% |
 | 23:50 | JPY | Low | Monetary Base (YoY) (Nov) |  | -8.5% | -7.9% |
