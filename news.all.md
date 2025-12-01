@@ -45,16 +45,16 @@
 | 10:30 | INR | Low | Manufacturing Output (MoM) (Oct) | 1.8% |  | 4.8% |
 | 11:00 | EUR | Low | Car Registration (YoY) (Nov) | 12.90% |  | 15.90% |
 | 11:00 | ZAR | Low | Total Vehicle Sales (YoY) (Nov) | 12.50% |  | 16.00% |
-| 11:00 | ZAR | Low | Total Vehicle Sales (Nov) | 54.90K |  | 55.96K |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 11:30 | INR | Low | Balance of Payments (USD) (Q3) | -10.900B |  | 4.500B |
 | 11:30 | INR | Low | Current Account % of GDP (QoQ) (Q3) | -1.30% |  | -0.20% |
 | 11:30 | INR | Low | Current Account (USD) (Q3) | -12.30B |  | -2.40B |
 | 11:30 | INR | Low | Trade Balance (USD) (Q3) | -87.400B |  | -68.500B |
-| 47 min | BRL | Low | S&P Global Manufacturing PMI (Nov) |  |  | 48.2 |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.078% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.041% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.053% |
+| 12:00 | ZAR | Low | Total Vehicle Sales (Nov) | 54.90K |  | 55.97K |
+| 13:00 | BRL | Low | S&P Global Manufacturing PMI (Nov) | 48.8 |  | 48.2 |
+| 42 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.078% |
+| 42 min | EUR | Low | French 3-Month BTF Auction |  |  | 2.041% |
+| 42 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.053% |
 | 14:30 | CAD | Low | S&P Global Manufacturing PMI (Nov) |  |  | 49.6 |
 | 14:45 | USD | High | S&P Global Manufacturing PMI (Nov) |  | 51.9 | 52.5 |
 | 15:00 | USD | Moderate | Construction Spending (MoM) (Sep) |  |  | 0.2% |
