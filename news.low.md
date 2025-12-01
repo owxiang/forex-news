@@ -33,7 +33,8 @@
 | 09:30 | GBP | Net Lending to Individuals (Oct) | 5.400B | 6.400B | 6.600B |
 | 10:30 | INR | Cumulative Industrial Production (Oct) | 2.70% |  | 3.00% |
 | 10:30 | INR | Industrial Production (YoY) (Oct) | 0.4% | 3.6% | 4.6% |
-| 10:30 | INR | Manufacturing Output (MoM) (Oct) | 1.8% |  | 4.8% |
+| 10:30 | INR | Manufacturing Output (MoM) (Oct) | 1.8% |  | 5.6% |
+| 11:00 | EUR | Car Registration (MoM) (Nov) | -2.70% |  | 13.60% |
 | 11:00 | EUR | Car Registration (YoY) (Nov) | 12.90% |  | 15.90% |
 | 11:00 | ZAR | Total Vehicle Sales (YoY) (Nov) | 12.50% |  | 16.00% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
@@ -43,12 +44,12 @@
 | 11:30 | INR | Trade Balance (USD) (Q3) | -87.400B |  | -68.500B |
 | 12:00 | ZAR | Total Vehicle Sales (Nov) | 54.90K |  | 55.97K |
 | 13:00 | BRL | S&P Global Manufacturing PMI (Nov) | 48.8 |  | 48.2 |
-| 42 min | EUR | French 12-Month BTF Auction |  |  | 2.078% |
-| 42 min | EUR | French 3-Month BTF Auction |  |  | 2.041% |
-| 42 min | EUR | French 6-Month BTF Auction |  |  | 2.053% |
-| 14:30 | CAD | S&P Global Manufacturing PMI (Nov) |  |  | 49.6 |
-| 15:00 | USD | ISM Manufacturing New Orders Index (Nov) |  |  | 49.4 |
-| 15:00 | MXN | S&P Global Manufacturing PMI (Nov) |  |  | 49.50 |
+| 14:00 | EUR | French 12-Month BTF Auction | 2.101% |  | 2.078% |
+| 14:00 | EUR | French 3-Month BTF Auction | 2.069% |  | 2.041% |
+| 14:00 | EUR | French 6-Month BTF Auction | 2.091% |  | 2.053% |
+| 22 min | CAD | S&P Global Manufacturing PMI (Nov) |  |  | 49.6 |
+| 52 min | USD | ISM Manufacturing New Orders Index (Nov) |  |  | 49.4 |
+| 52 min | MXN | S&P Global Manufacturing PMI (Nov) |  |  | 49.50 |
 | 15:30 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 3.745% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 3.670% |

@@ -42,7 +42,8 @@
 | 09:30 | GBP | Low | Net Lending to Individuals (Oct) | 5.400B | 6.400B | 6.600B |
 | 10:30 | INR | Low | Cumulative Industrial Production (Oct) | 2.70% |  | 3.00% |
 | 10:30 | INR | Low | Industrial Production (YoY) (Oct) | 0.4% | 3.6% | 4.6% |
-| 10:30 | INR | Low | Manufacturing Output (MoM) (Oct) | 1.8% |  | 4.8% |
+| 10:30 | INR | Low | Manufacturing Output (MoM) (Oct) | 1.8% |  | 5.6% |
+| 11:00 | EUR | Low | Car Registration (MoM) (Nov) | -2.70% |  | 13.60% |
 | 11:00 | EUR | Low | Car Registration (YoY) (Nov) | 12.90% |  | 15.90% |
 | 11:00 | ZAR | Low | Total Vehicle Sales (YoY) (Nov) | 12.50% |  | 16.00% |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
@@ -52,17 +53,17 @@
 | 11:30 | INR | Low | Trade Balance (USD) (Q3) | -87.400B |  | -68.500B |
 | 12:00 | ZAR | Low | Total Vehicle Sales (Nov) | 54.90K |  | 55.97K |
 | 13:00 | BRL | Low | S&P Global Manufacturing PMI (Nov) | 48.8 |  | 48.2 |
-| 42 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.078% |
-| 42 min | EUR | Low | French 3-Month BTF Auction |  |  | 2.041% |
-| 42 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.053% |
-| 14:30 | CAD | Low | S&P Global Manufacturing PMI (Nov) |  |  | 49.6 |
-| 14:45 | USD | High | S&P Global Manufacturing PMI (Nov) |  | 51.9 | 52.5 |
-| 15:00 | USD | Moderate | Construction Spending (MoM) (Sep) |  |  | 0.2% |
-| 15:00 | USD | Moderate | ISM Manufacturing Employment (Nov) |  |  | 46.0 |
-| 15:00 | USD | Low | ISM Manufacturing New Orders Index (Nov) |  |  | 49.4 |
-| 15:00 | USD | High | ISM Manufacturing PMI (Nov) |  | 49.0 | 48.7 |
-| 15:00 | USD | High | ISM Manufacturing Prices (Nov) |  | 59.5 | 58.0 |
-| 15:00 | MXN | Low | S&P Global Manufacturing PMI (Nov) |  |  | 49.50 |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.101% |  | 2.078% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.069% |  | 2.041% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.091% |  | 2.053% |
+| 22 min | CAD | Low | S&P Global Manufacturing PMI (Nov) |  |  | 49.6 |
+| 37 min | USD | High | S&P Global Manufacturing PMI (Nov) |  | 51.9 | 52.5 |
+| 52 min | USD | Moderate | Construction Spending (MoM) (Sep) |  |  | 0.2% |
+| 52 min | USD | Moderate | ISM Manufacturing Employment (Nov) |  |  | 46.0 |
+| 52 min | USD | Low | ISM Manufacturing New Orders Index (Nov) |  |  | 49.4 |
+| 52 min | USD | High | ISM Manufacturing PMI (Nov) |  | 49.0 | 48.7 |
+| 52 min | USD | High | ISM Manufacturing Prices (Nov) |  | 59.5 | 58.0 |
+| 52 min | MXN | Low | S&P Global Manufacturing PMI (Nov) |  |  | 49.50 |
 | 15:30 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.745% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.670% |
