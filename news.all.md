@@ -24,7 +24,7 @@
 | 04:00 | IDR | Low | Trade Balance (Oct) | 2.40B |  | 4.34B |
 | 05:00 | INR | Low | S&P Global Manufacturing PMI (Nov) | 56.6 | 57.4 | 59.2 |
 | 05:30 | AUD | Low | Commodity Prices (YoY) (Nov) | -1.7% |  | -1.3% |
-| 07:30 | CHF | Low | Retail Sales (YoY) (Oct) |  | 1.2% | 1.5% |
+| 20 min | CHF | Low | Retail Sales (YoY) (Oct) |  | 1.2% | 1.5% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Nov) |  | 52.3 | 52.1 |
 | 08:30 | CHF | Moderate | procure.ch Manufacturing PMI |  | 49.0 | 48.2 |
 | 08:30 | HKD | Low | Retail Sales (YoY) (Oct) |  |  | 5.9% |
