@@ -7,7 +7,7 @@
 | 00:00 | KRW | Trade Balance (Nov) | 9.74B | 8.40B | 6.00B |
 | 00:00 | AUD | MI Inflation Gauge (MoM) | 0.3% |  | 0.3% |
 | 00:30 | KRW | S&P Global South Korea Manufacturing PMI (Nov) | 49.4 |  | 49.4 |
-| 00:30 | AUD | ANZ Job Advertisements (MoM) (Nov) | -0.8% |  | -2.2% |
+| 00:30 | AUD | ANZ Job Advertisements (MoM) (Nov) | -0.8% |  | -1.9% |
 | 00:30 | AUD | Business inventories (MoM) (Q3) | -0.9% |  | 0.1% |
 | 00:30 | AUD | Company Profits Pre-Tax (QoQ) (Q3) | 0.4% |  | 2.1% |
 | 00:30 | JPY | au Jibun Bank Manufacturing PMI (Nov) | 48.7 | 48.8 | 48.8 |
