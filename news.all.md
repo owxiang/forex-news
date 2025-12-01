@@ -15,13 +15,13 @@
 | 00:30 | IDR | Low | S&P Global Manufacturing PMI (Nov) | 53.3 |  | 51.2 |
 | 01:05 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
 | 01:45 | CNY | Moderate | Caixin Manufacturing PMI (MoM) (Nov) | 49.9 | 50.5 | 50.6 |
-| 04:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 04:00 | IDR | Low | Core Inflation (YoY) (Nov) |  |  | 2.36% |
-| 04:00 | IDR | Low | Export Growth (YoY) (Oct) |  |  | 11.41% |
-| 04:00 | IDR | Low | Import Growth (YoY) (Oct) |  |  | 7.17% |
-| 04:00 | IDR | Low | Inflation (MoM) (Nov) |  |  | 0.28% |
-| 04:00 | IDR | Low | Inflation (YoY) (Nov) |  |  | 2.86% |
-| 04:00 | IDR | Low | Trade Balance (Oct) |  |  | 4.34B |
+| 20 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 20 min | IDR | Low | Core Inflation (YoY) (Nov) |  |  | 2.36% |
+| 20 min | IDR | Low | Export Growth (YoY) (Oct) |  |  | 11.41% |
+| 20 min | IDR | Low | Import Growth (YoY) (Oct) |  |  | 7.17% |
+| 20 min | IDR | Low | Inflation (MoM) (Nov) |  |  | 0.28% |
+| 20 min | IDR | Low | Inflation (YoY) (Nov) |  |  | 2.86% |
+| 20 min | IDR | Low | Trade Balance (Oct) |  |  | 4.34B |
 | 05:00 | INR | Low | S&P Global Manufacturing PMI (Nov) |  | 57.4 | 57.4 |
 | 05:30 | AUD | Low | Commodity Prices (YoY) (Nov) |  |  | -1.3% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Oct) |  | 1.2% | 1.5% |
