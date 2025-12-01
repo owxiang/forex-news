@@ -13,14 +13,14 @@
 | 00:30 | JPY | au Jibun Bank Manufacturing PMI (Nov) | 48.7 | 48.8 | 48.2 |
 | 00:30 | IDR | S&P Global Manufacturing PMI (Nov) | 53.3 |  | 51.2 |
 | 01:05 | JPY | BOJ Gov Ueda Speaks |  |  |  |
-| 04:00 | IDR | Core Inflation (YoY) (Nov) |  |  | 2.36% |
+| 04:00 | IDR | Core Inflation (YoY) (Nov) | 2.36% |  | 2.36% |
 | 04:00 | IDR | Export Growth (YoY) (Oct) | -2.31% |  | 11.41% |
 | 04:00 | IDR | Import Growth (YoY) (Oct) | -1.15% |  | 7.17% |
-| 04:00 | IDR | Inflation (MoM) (Nov) |  |  | 0.28% |
-| 04:00 | IDR | Inflation (YoY) (Nov) |  |  | 2.86% |
+| 04:00 | IDR | Inflation (MoM) (Nov) | 0.17% |  | 0.28% |
+| 04:00 | IDR | Inflation (YoY) (Nov) | 2.72% |  | 2.86% |
 | 04:00 | IDR | Trade Balance (Oct) | 2.40B |  | 4.34B |
-| 33 min | INR | S&P Global Manufacturing PMI (Nov) |  | 57.4 | 59.2 |
-| 05:30 | AUD | Commodity Prices (YoY) (Nov) |  |  | -1.3% |
+| 05:00 | INR | S&P Global Manufacturing PMI (Nov) | 56.6 | 57.4 | 59.2 |
+| 16 min | AUD | Commodity Prices (YoY) (Nov) |  |  | -1.3% |
 | 07:30 | CHF | Retail Sales (YoY) (Oct) |  | 1.2% | 1.5% |
 | 08:30 | HKD | Retail Sales (YoY) (Oct) |  |  | 5.9% |
 | 09:00 | NOK | Manufacturing PMI (Nov) |  |  | 47.7 |
