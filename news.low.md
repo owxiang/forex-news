@@ -20,7 +20,7 @@
 | 04:00 | IDR | Inflation (YoY) (Nov) | 2.72% |  | 2.86% |
 | 04:00 | IDR | Trade Balance (Oct) | 2.40B |  | 4.34B |
 | 05:00 | INR | S&P Global Manufacturing PMI (Nov) | 56.6 | 57.4 | 59.2 |
-| 16 min | AUD | Commodity Prices (YoY) (Nov) |  |  | -1.3% |
+| 05:30 | AUD | Commodity Prices (YoY) (Nov) | -1.7% |  | -1.3% |
 | 07:30 | CHF | Retail Sales (YoY) (Oct) |  | 1.2% | 1.5% |
 | 08:30 | HKD | Retail Sales (YoY) (Oct) |  |  | 5.9% |
 | 09:00 | NOK | Manufacturing PMI (Nov) |  |  | 47.7 |
