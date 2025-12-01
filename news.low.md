@@ -12,7 +12,7 @@
 | 00:30 | AUD | Company Profits Pre-Tax (QoQ) (Q3) | 0.4% |  | 2.1% |
 | 00:30 | JPY | au Jibun Bank Manufacturing PMI (Nov) | 48.7 | 48.8 | 48.8 |
 | 00:30 | IDR | S&P Global Manufacturing PMI (Nov) | 53.3 |  | 51.2 |
-| 26 min | JPY | BOJ Gov Ueda Speaks |  |  |  |
+| 01:05 | JPY | BOJ Gov Ueda Speaks |  |  |  |
 | 04:00 | IDR | Core Inflation (YoY) (Nov) |  |  | 2.36% |
 | 04:00 | IDR | Export Growth (YoY) (Oct) |  |  | 11.41% |
 | 04:00 | IDR | Import Growth (YoY) (Oct) |  |  | 7.17% |

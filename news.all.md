@@ -9,12 +9,12 @@
 | 00:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Nov) | 49.4 |  | 49.4 |
 | 00:30 | AUD | Low | ANZ Job Advertisements (MoM) (Nov) | -0.8% |  | -2.2% |
 | 00:30 | AUD | Low | Business inventories (MoM) (Q3) | -0.9% |  | 0.1% |
-| 00:30 | AUD | Moderate | Company Gross Operating Profits (QoQ) (Q3) | 0.0% | 1.7% | -2.4% |
+| 00:30 | AUD | Moderate | Company Gross Operating Profits (QoQ) (Q3) | 0.0% | 1.7% | -2.6% |
 | 00:30 | AUD | Low | Company Profits Pre-Tax (QoQ) (Q3) | 0.4% |  | 2.1% |
 | 00:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Nov) | 48.7 | 48.8 | 48.8 |
 | 00:30 | IDR | Low | S&P Global Manufacturing PMI (Nov) | 53.3 |  | 51.2 |
-| 26 min | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
-| 01:45 | CNY | Moderate | Caixin Manufacturing PMI (MoM) (Nov) |  | 50.5 | 50.6 |
+| 01:05 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
+| 7 min | CNY | Moderate | Caixin Manufacturing PMI (MoM) (Nov) |  | 50.5 | 50.6 |
 | 04:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 04:00 | IDR | Low | Core Inflation (YoY) (Nov) |  |  | 2.36% |
 | 04:00 | IDR | Low | Export Growth (YoY) (Oct) |  |  | 11.41% |

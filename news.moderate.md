@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Company Gross Operating Profits (QoQ) (Q3) | 0.0% | 1.7% | -2.4% |
-| 01:45 | CNY | Caixin Manufacturing PMI (MoM) (Nov) |  | 50.5 | 50.6 |
+| 00:30 | AUD | Company Gross Operating Profits (QoQ) (Q3) | 0.0% | 1.7% | -2.6% |
+| 7 min | CNY | Caixin Manufacturing PMI (MoM) (Nov) |  | 50.5 | 50.6 |
 | 04:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 08:15 | EUR | HCOB Spain Manufacturing PMI (Nov) |  | 52.3 | 52.1 |
 | 08:30 | CHF | procure.ch Manufacturing PMI |  | 49.0 | 48.2 |
