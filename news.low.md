@@ -22,20 +22,18 @@
 | 05:00 | INR | S&P Global Manufacturing PMI (Nov) | 56.6 | 57.4 | 59.2 |
 | 05:30 | AUD | Commodity Prices (YoY) (Nov) | -1.7% |  | -1.3% |
 | 07:30 | CHF | Retail Sales (YoY) (Oct) | 2.7% | 1.2% | 1.8% |
-| 19 min | HKD | Retail Sales (YoY) (Oct) |  |  | 5.9% |
-| 49 min | NOK | Manufacturing PMI (Nov) |  |  | 47.7 |
-| 49 min | ZAR | Manufacturing PMI (Nov) |  |  | 49.2 |
-| 09:30 | GBP | BoE Consumer Credit (Oct) |  |  | 1.491B |
-| 09:30 | GBP | M3 Money Supply (Oct) |  |  | 3,180.8B |
-| 09:30 | GBP | M4 Money Supply (MoM) (Oct) |  | 0.4% | 0.6% |
-| 09:30 | GBP | Mortgage Approvals (Oct) |  | 64.00K | 65.94K |
-| 09:30 | GBP | Mortgage Lending (Oct) |  |  | 5.49B |
-| 09:30 | GBP | Net Lending to Individuals (Oct) |  | 6.400B | 7.000B |
+| 08:30 | HKD | Retail Sales (YoY) (Oct) | 6.9% |  | 5.9% |
+| 09:00 | NOK | Manufacturing PMI (Nov) | 53.0 |  | 48.2 |
+| 09:00 | ZAR | Manufacturing PMI (Nov) | 42.0 |  | 49.2 |
+| 19 min | GBP | BoE Consumer Credit (Oct) |  |  | 1.491B |
+| 19 min | GBP | M3 Money Supply (Oct) |  |  | 3,180.8B |
+| 19 min | GBP | M4 Money Supply (MoM) (Oct) |  | 0.4% | 0.6% |
+| 19 min | GBP | Mortgage Approvals (Oct) |  | 64.00K | 65.94K |
+| 19 min | GBP | Mortgage Lending (Oct) |  |  | 5.49B |
+| 19 min | GBP | Net Lending to Individuals (Oct) |  | 6.400B | 7.000B |
 | 10:30 | INR | Cumulative Industrial Production (Oct) |  |  | 3.00% |
 | 10:30 | INR | Industrial Production (YoY) (Oct) |  | 3.6% | 4.0% |
 | 10:30 | INR | Manufacturing Output (MoM) (Oct) |  |  | 4.8% |
-| 11:00 | EUR | Car Registration (MoM) (Nov) |  |  | 13.60% |
-| 11:00 | EUR | Car Registration (YoY) (Nov) |  |  | 15.90% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:00 | BRL | S&P Global Manufacturing PMI (Nov) |  |  | 48.2 |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.078% |
