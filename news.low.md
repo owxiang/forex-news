@@ -57,6 +57,6 @@
 | 21:45 | NZD | Terms of Trade - Exports Volume (QoQ) (Q3) | 3.4% |  | -3.7% |
 | 21:45 | NZD | Terms of Trade - Imports Prices (Q3) | 0.5% |  | -3.7% |
 | 21:45 | NZD | Terms of Trade Index (QoQ) (Q3) | -2.1% | 0.3% | 4.2% |
-| 54 min | KRW | CPI (YoY) (Nov) |  |  | 2.4% |
-| 54 min | KRW | CPI (MoM) (Nov) |  | -0.3% | 0.3% |
-| 23:50 | JPY | Monetary Base (YoY) (Nov) |  | -8.5% | -7.9% |
+| 23:00 | KRW | CPI (YoY) (Nov) | 2.4% |  | 2.4% |
+| 23:00 | KRW | CPI (MoM) (Nov) | -0.2% | -0.3% | 0.3% |
+| 43 min | JPY | Monetary Base (YoY) (Nov) |  | -8.5% | -7.9% |
