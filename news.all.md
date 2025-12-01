@@ -24,16 +24,16 @@
 | 04:00 | IDR | Low | Trade Balance (Oct) | 2.40B |  | 4.34B |
 | 05:00 | INR | Low | S&P Global Manufacturing PMI (Nov) | 56.6 | 57.4 | 59.2 |
 | 05:30 | AUD | Low | Commodity Prices (YoY) (Nov) | -1.7% |  | -1.3% |
-| 20 min | CHF | Low | Retail Sales (YoY) (Oct) |  | 1.2% | 1.5% |
-| 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Nov) |  | 52.3 | 52.1 |
-| 08:30 | CHF | Moderate | procure.ch Manufacturing PMI |  | 49.0 | 48.2 |
-| 08:30 | HKD | Low | Retail Sales (YoY) (Oct) |  |  | 5.9% |
-| 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Nov) |  | 50.1 | 49.9 |
-| 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (Nov) |  | 47.8 | 48.8 |
-| 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Nov) |  | 48.4 | 49.6 |
-| 09:00 | NOK | Low | Manufacturing PMI (Nov) |  |  | 47.7 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Nov) |  | 49.7 | 50.0 |
-| 09:00 | ZAR | Low | Manufacturing PMI (Nov) |  |  | 49.2 |
+| 07:30 | CHF | Low | Retail Sales (YoY) (Oct) | 2.7% | 1.2% | 1.8% |
+| 4 min | EUR | Moderate | HCOB Spain Manufacturing PMI (Nov) |  | 52.3 | 52.1 |
+| 19 min | CHF | Moderate | procure.ch Manufacturing PMI |  | 49.0 | 48.2 |
+| 19 min | HKD | Low | Retail Sales (YoY) (Oct) |  |  | 5.9% |
+| 34 min | EUR | Moderate | HCOB Italy Manufacturing PMI (Nov) |  | 50.1 | 49.9 |
+| 39 min | EUR | Moderate | HCOB France Manufacturing PMI (Nov) |  | 47.8 | 48.8 |
+| 44 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Nov) |  | 48.4 | 49.6 |
+| 49 min | NOK | Low | Manufacturing PMI (Nov) |  |  | 47.7 |
+| 49 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Nov) |  | 49.7 | 50.0 |
+| 49 min | ZAR | Low | Manufacturing PMI (Nov) |  |  | 49.2 |
 | 09:30 | GBP | Low | BoE Consumer Credit (Oct) |  |  | 1.491B |
 | 09:30 | GBP | Low | M3 Money Supply (Oct) |  |  | 3,180.8B |
 | 09:30 | GBP | Low | M4 Money Supply (MoM) (Oct) |  | 0.4% | 0.6% |

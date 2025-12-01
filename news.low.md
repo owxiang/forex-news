@@ -21,10 +21,10 @@
 | 04:00 | IDR | Trade Balance (Oct) | 2.40B |  | 4.34B |
 | 05:00 | INR | S&P Global Manufacturing PMI (Nov) | 56.6 | 57.4 | 59.2 |
 | 05:30 | AUD | Commodity Prices (YoY) (Nov) | -1.7% |  | -1.3% |
-| 20 min | CHF | Retail Sales (YoY) (Oct) |  | 1.2% | 1.5% |
-| 08:30 | HKD | Retail Sales (YoY) (Oct) |  |  | 5.9% |
-| 09:00 | NOK | Manufacturing PMI (Nov) |  |  | 47.7 |
-| 09:00 | ZAR | Manufacturing PMI (Nov) |  |  | 49.2 |
+| 07:30 | CHF | Retail Sales (YoY) (Oct) | 2.7% | 1.2% | 1.8% |
+| 19 min | HKD | Retail Sales (YoY) (Oct) |  |  | 5.9% |
+| 49 min | NOK | Manufacturing PMI (Nov) |  |  | 47.7 |
+| 49 min | ZAR | Manufacturing PMI (Nov) |  |  | 49.2 |
 | 09:30 | GBP | BoE Consumer Credit (Oct) |  |  | 1.491B |
 | 09:30 | GBP | M3 Money Supply (Oct) |  |  | 3,180.8B |
 | 09:30 | GBP | M4 Money Supply (MoM) (Oct) |  | 0.4% | 0.6% |
