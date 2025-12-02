@@ -5,9 +5,9 @@
 | 00:30 | AUD | Building Approvals (MoM) (Oct) | -6.4% | -4.3% | 11.1% |
 | 00:30 | AUD | Current Account (Q3) | -16.6B | -13.2B | -16.2B |
 | 03:35 | JPY | 10-Year JGB Auction | 1.872% |  | 1.658% |
-| 07:00 | GBP | BoE Financial Stability Report |  |  |  |
-| 07:00 | GBP | Nationwide HPI (MoM) (Nov) |  | 0.0% | 0.3% |
-| 07:00 | GBP | Nationwide HPI (YoY) (Nov) |  | 1.4% | 2.4% |
+| 49 min | GBP | BoE Financial Stability Report |  |  |  |
+| 49 min | GBP | Nationwide HPI (MoM) (Nov) |  | 0.0% | 0.3% |
+| 49 min | GBP | Nationwide HPI (YoY) (Nov) |  | 1.4% | 2.4% |
 | 08:00 | EUR | Spanish Unemployment Change (Nov) |  | -12.4K | 22.1K |
 | 09:00 | BRL | IPC-Fipe Inflation Index (MoM) (Nov) |  |  | 0.27% |
 | 09:30 | CHF | procure.ch Manufacturing PMI (Nov) |  | 48.6 | 48.2 |

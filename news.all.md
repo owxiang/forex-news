@@ -11,10 +11,10 @@
 | 01:00 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 03:35 | JPY | Moderate | 10-Year JGB Auction | 1.872% |  | 1.658% |
 | 05:00 | JPY | Low | Household Confidence (Nov) | 37.5 | 36.2 | 35.8 |
-| 07:00 | GBP | Moderate | BoE Financial Stability Report |  |  |  |
-| 07:00 | GBP | Low | BoE FPC Meeting Minutes |  |  |  |
-| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Nov) |  | 0.0% | 0.3% |
-| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Nov) |  | 1.4% | 2.4% |
+| 49 min | GBP | Moderate | BoE Financial Stability Report |  |  |  |
+| 49 min | GBP | Low | BoE FPC Meeting Minutes |  |  |  |
+| 49 min | GBP | Moderate | Nationwide HPI (MoM) (Nov) |  | 0.0% | 0.3% |
+| 49 min | GBP | Moderate | Nationwide HPI (YoY) (Nov) |  | 1.4% | 2.4% |
 | 07:45 | EUR | Low | French Government Budget Balance (Oct) |  |  | -155.4B |
 | 08:00 | EUR | Low | French Car Registration (YoY) (Nov) |  |  | 2.9% |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change (Nov) |  | -12.4K | 22.1K |
