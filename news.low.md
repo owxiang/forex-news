@@ -7,9 +7,9 @@
 | 00:30 | AUD | Net Exports Contribution (Q3) | -0.1% |  | 0.1% |
 | 00:30 | AUD | Private House Approvals (Oct) | -2.1% |  | 3.2% |
 | 05:00 | JPY | Household Confidence (Nov) | 37.5 | 36.2 | 35.8 |
-| 49 min | GBP | BoE FPC Meeting Minutes |  |  |  |
-| 07:45 | EUR | French Government Budget Balance (Oct) |  |  | -155.4B |
-| 08:00 | EUR | French Car Registration (YoY) (Nov) |  |  | 2.9% |
+| 07:00 | GBP | BoE FPC Meeting Minutes |  |  |  |
+| 35 min | EUR | French Government Budget Balance (Oct) |  |  | -155.4B |
+| 50 min | EUR | French Car Registration (YoY) (Nov) |  |  | 2.9% |
 | 09:00 | EUR | Italian Monthly Unemployment Rate (Oct) |  | 6.1% | 6.1% |
 | 09:30 | ZAR | GDP (YoY) (Q3) |  |  | 0.6% |
 | 09:40 | EUR | Spanish 12-Month Letras Auction |  |  | 1.990% |

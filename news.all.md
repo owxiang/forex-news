@@ -11,13 +11,13 @@
 | 01:00 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 03:35 | JPY | Moderate | 10-Year JGB Auction | 1.872% |  | 1.658% |
 | 05:00 | JPY | Low | Household Confidence (Nov) | 37.5 | 36.2 | 35.8 |
-| 49 min | GBP | Moderate | BoE Financial Stability Report |  |  |  |
-| 49 min | GBP | Low | BoE FPC Meeting Minutes |  |  |  |
-| 49 min | GBP | Moderate | Nationwide HPI (MoM) (Nov) |  | 0.0% | 0.3% |
-| 49 min | GBP | Moderate | Nationwide HPI (YoY) (Nov) |  | 1.4% | 2.4% |
-| 07:45 | EUR | Low | French Government Budget Balance (Oct) |  |  | -155.4B |
-| 08:00 | EUR | Low | French Car Registration (YoY) (Nov) |  |  | 2.9% |
-| 08:00 | EUR | Moderate | Spanish Unemployment Change (Nov) |  | -12.4K | 22.1K |
+| 07:00 | GBP | Moderate | BoE Financial Stability Report |  |  |  |
+| 07:00 | GBP | Low | BoE FPC Meeting Minutes |  |  |  |
+| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Nov) | 0.3% | 0.0% | 0.2% |
+| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Nov) | 1.8% | 1.4% | 2.4% |
+| 35 min | EUR | Low | French Government Budget Balance (Oct) |  |  | -155.4B |
+| 50 min | EUR | Low | French Car Registration (YoY) (Nov) |  |  | 2.9% |
+| 50 min | EUR | Moderate | Spanish Unemployment Change (Nov) |  | -12.4K | 22.1K |
 | 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Oct) |  | 6.1% | 6.1% |
 | 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Nov) |  |  | 0.27% |
 | 09:30 | CHF | Moderate | procure.ch Manufacturing PMI (Nov) |  | 48.6 | 48.2 |
