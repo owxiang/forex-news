@@ -1,15 +1,30 @@
-## 01 December 2025 - Moderate Impact Forex News
+## 02 December 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Company Gross Operating Profits (QoQ) (Q3) | 0.0% | 1.7% | -2.6% |
-| 01:45 | CNY | Caixin Manufacturing PMI (MoM) (Nov) | 49.9 | 50.5 | 50.6 |
-| 04:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 08:15 | EUR | HCOB Spain Manufacturing PMI (Nov) | 51.5 | 52.3 | 52.1 |
-| 08:45 | EUR | HCOB Italy Manufacturing PMI (Nov) | 50.6 | 50.1 | 49.9 |
-| 08:50 | EUR | HCOB France Manufacturing PMI (Nov) | 47.8 | 47.8 | 48.8 |
-| 08:55 | EUR | HCOB Germany Manufacturing PMI (Nov) | 48.2 | 48.4 | 49.6 |
-| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Nov) | 49.6 | 49.7 | 50.0 |
-| 09:30 | GBP | S&P Global Manufacturing PMI (Nov) | 50.2 | 50.2 | 50.2 |
-| 15:00 | USD | ISM Manufacturing Employment (Nov) | 44.0 |  | 46.0 |
-| 16:30 | USD | Atlanta Fed GDPNow (Q4) | 3.9% | 3.9% | 3.9% |
+| 00:30 | AUD | Building Approvals (MoM) (Oct) | -6.4% | -4.8% | 12.0% |
+| 00:30 | AUD | Current Account (Q3) | -16.6B | -13.4B | -13.7B |
+| 03:35 | JPY | 10-Year JGB Auction |  |  | 1.658% |
+| 07:00 | GBP | BoE Financial Stability Report |  |  |  |
+| 07:00 | GBP | Nationwide HPI (MoM) (Nov) |  | 0.0% | 0.3% |
+| 07:00 | GBP | Nationwide HPI (YoY) (Nov) |  | 1.4% | 2.4% |
+| 08:00 | EUR | Spanish Unemployment Change (Nov) |  | 17.1K | 22.1K |
+| 09:00 | BRL | IPC-Fipe Inflation Index (MoM) (Nov) |  |  | 0.27% |
+| 09:30 | CHF | procure.ch Manufacturing PMI (Nov) |  | 48.6 | 48.2 |
+| 09:30 | ZAR | GDP Annualized (QoQ) (Q3) |  |  | 0.8% |
+| 10:00 | EUR | Core CPI (YoY) (Nov) |  | 2.4% | 2.4% |
+| 10:00 | EUR | CPI (MoM) (Nov) |  |  | 0.2% |
+| 10:00 | EUR | Unemployment Rate (Oct) |  | 6.3% | 6.3% |
+| 12:00 | BRL | Industrial Production (YoY) (Oct) |  |  | 2.0% |
+| 15:00 | USD | Construction Spending (MoM) (Sep) |  |  | 0.2% |
+| 15:00 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | -4.5K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 74.3K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 232.0K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 43.3K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -144.1K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -57.8K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 59.6K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | 46.3K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 118.4K |
+| 21:30 | USD | API Weekly Crude Oil Stock |  |  | -1.900M |

@@ -1,62 +1,48 @@
-## 01 December 2025 - Low Impact Forex News
+## 02 December 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Exports (YoY) (Nov) | 8.4% | 5.7% | 3.5% |
-| 00:00 | KRW | Imports (YoY) (Nov) | 1.2% | 3.4% | -1.5% |
-| 00:00 | KRW | Trade Balance (Nov) | 9.74B | 8.40B | 6.00B |
-| 00:00 | AUD | MI Inflation Gauge (MoM) | 0.3% |  | 0.3% |
-| 00:30 | KRW | S&P Global South Korea Manufacturing PMI (Nov) | 49.4 |  | 49.4 |
-| 00:30 | AUD | ANZ Job Advertisements (MoM) (Nov) | -0.8% |  | -1.9% |
-| 00:30 | AUD | Business inventories (MoM) (Q3) | -0.9% |  | 0.1% |
-| 00:30 | AUD | Company Profits Pre-Tax (QoQ) (Q3) | 0.4% |  | 2.1% |
-| 00:30 | JPY | au Jibun Bank Manufacturing PMI (Nov) | 48.7 | 48.8 | 48.2 |
-| 00:30 | IDR | S&P Global Manufacturing PMI (Nov) | 53.3 |  | 51.2 |
-| 01:05 | JPY | BOJ Gov Ueda Speaks |  |  |  |
-| 04:00 | IDR | Core Inflation (YoY) (Nov) | 2.36% |  | 2.36% |
-| 04:00 | IDR | Export Growth (YoY) (Oct) | -2.31% |  | 11.41% |
-| 04:00 | IDR | Import Growth (YoY) (Oct) | -1.15% |  | 7.17% |
-| 04:00 | IDR | Inflation (MoM) (Nov) | 0.17% |  | 0.28% |
-| 04:00 | IDR | Inflation (YoY) (Nov) | 2.72% |  | 2.86% |
-| 04:00 | IDR | Trade Balance (Oct) | 2.40B |  | 4.34B |
-| 05:00 | INR | S&P Global Manufacturing PMI (Nov) | 56.6 | 57.4 | 59.2 |
-| 05:30 | AUD | Commodity Prices (YoY) (Nov) | -1.7% |  | -1.3% |
-| 07:30 | CHF | Retail Sales (YoY) (Oct) | 2.7% | 1.2% | 1.8% |
-| 08:30 | HKD | Retail Sales (YoY) (Oct) | 6.9% |  | 5.9% |
-| 09:00 | NOK | Manufacturing PMI (Nov) | 53.0 |  | 48.2 |
-| 09:00 | ZAR | Manufacturing PMI (Nov) | 42.0 |  | 49.2 |
-| 09:30 | GBP | BoE Consumer Credit (Oct) | 1.119B |  | 1.398B |
-| 09:30 | GBP | M3 Money Supply (Oct) | 3,174.2B |  | 3,181.2B |
-| 09:30 | GBP | M4 Money Supply (MoM) (Oct) | -0.2% | 0.4% | 0.6% |
-| 09:30 | GBP | Mortgage Approvals (Oct) | 65.02K | 64.00K | 65.65K |
-| 09:30 | GBP | Mortgage Lending (Oct) | 4.27B |  | 5.22B |
-| 09:30 | GBP | Net Lending to Individuals (Oct) | 5.400B | 6.400B | 6.600B |
-| 10:30 | INR | Cumulative Industrial Production (Oct) | 2.70% |  | 3.00% |
-| 10:30 | INR | Industrial Production (YoY) (Oct) | 0.4% | 3.6% | 4.6% |
-| 10:30 | INR | Manufacturing Output (MoM) (Oct) | 1.8% |  | 5.6% |
-| 11:00 | EUR | Car Registration (MoM) (Nov) | -2.70% |  | 13.60% |
-| 11:00 | EUR | Car Registration (YoY) (Nov) | 12.90% |  | 15.90% |
-| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 11:30 | INR | Balance of Payments (USD) (Q3) | -10.900B |  | 4.500B |
-| 11:30 | INR | Current Account % of GDP (QoQ) (Q3) | -1.30% |  | -0.20% |
-| 11:30 | INR | Current Account (USD) (Q3) | -12.30B |  | -2.70B |
-| 11:30 | INR | Trade Balance (USD) (Q3) | -87.400B |  | -68.500B |
-| 12:00 | ZAR | Total Vehicle Sales (YoY) (Nov) | 12.50% |  | 16.00% |
-| 12:00 | ZAR | Total Vehicle Sales (Nov) | 54.90K |  | 55.97K |
-| 13:00 | BRL | S&P Global Manufacturing PMI (Nov) | 48.8 |  | 48.2 |
-| 14:00 | EUR | French 12-Month BTF Auction | 2.101% |  | 2.078% |
-| 14:00 | EUR | French 3-Month BTF Auction | 2.069% |  | 2.041% |
-| 14:00 | EUR | French 6-Month BTF Auction | 2.091% |  | 2.053% |
-| 14:30 | CAD | S&P Global Manufacturing PMI (Nov) | 48.4 |  | 49.6 |
-| 15:00 | USD | ISM Manufacturing New Orders Index (Nov) | 47.4 |  | 49.4 |
-| 15:00 | MXN | S&P Global Manufacturing PMI (Nov) | 47.30 |  | 49.50 |
-| 15:30 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
-| 16:30 | USD | 3-Month Bill Auction | 3.725% |  | 3.745% |
-| 16:30 | USD | 6-Month Bill Auction | 3.635% |  | 3.670% |
-| 21:45 | NZD | Terms of Trade - Exports Prices (Q3) | -1.6% |  | 0.3% |
-| 21:45 | NZD | Terms of Trade - Exports Volume (QoQ) (Q3) | 3.4% |  | -3.7% |
-| 21:45 | NZD | Terms of Trade - Imports Prices (Q3) | 0.5% |  | -3.7% |
-| 21:45 | NZD | Terms of Trade Index (QoQ) (Q3) | -2.1% | 0.3% | 4.2% |
-| 23:00 | KRW | CPI (YoY) (Nov) | 2.4% |  | 2.4% |
-| 23:00 | KRW | CPI (MoM) (Nov) | -0.2% | -0.3% | 0.3% |
-| 43 min | JPY | Monetary Base (YoY) (Nov) |  | -8.5% | -7.9% |
+| 00:01 | GBP | BRC Shop Price Index (YoY) | 0.6% | 0.9% | 1.0% |
+| 00:30 | AUD | Building Approvals (YoY) (Oct) | 5.60% | 12.40% | -1.20% |
+| 00:30 | AUD | Net Exports Contribution (Q3) | -0.1% |  | 0.1% |
+| 00:30 | AUD | Private House Approvals (Oct) | -2.1% |  | 4.0% |
+| 05:00 | JPY | Household Confidence (Nov) |  | 36.3 | 35.8 |
+| 07:00 | GBP | BoE FPC Meeting Minutes |  |  |  |
+| 07:45 | EUR | French Government Budget Balance (Oct) |  |  | -155.4B |
+| 08:00 | EUR | French Car Registration (YoY) (Nov) |  |  | 2.9% |
+| 09:00 | EUR | Italian Monthly Unemployment Rate (Oct) |  | 6.1% | 6.1% |
+| 09:30 | ZAR | GDP (YoY) (Q3) |  |  | 0.6% |
+| 09:40 | EUR | Spanish 12-Month Letras Auction |  |  | 1.990% |
+| 10:00 | EUR | Core CPI (MoM) (Nov) |  |  | 0.3% |
+| 10:00 | EUR | CPI, n.s.a (Nov) |  |  | 129.70 |
+| 10:00 | EUR | HICP ex Energy & Food (YoY) (Nov) |  |  | 2.4% |
+| 10:00 | EUR | HICP ex Energy and Food (MoM) (Nov) |  |  | 0.2% |
+| 10:30 | EUR | German 2-Year Schatz Auction |  |  | 1.980% |
+| 11:00 | EUR | Italian PPI (MoM) (Oct) |  |  | 0.2% |
+| 11:00 | EUR | Italian PPI (YoY) (Oct) |  |  | 1.1% |
+| 11:00 | EUR | Car Registration (MoM) (Nov) |  |  | 13.60% |
+| 12:00 | BRL | Industrial Production (MoM) (Oct) |  |  | -0.4% |
+| 12:00 | NZD | GlobalDairyTrade Price Index |  |  | -3.0% |
+| 12:00 | USD | Milk Auctions |  |  | 3,678.0 |
+| 13:00 | SGD | S&P Global Manufacturing PMI (Nov) |  |  | 50.0 |
+| 13:55 | USD | Redbook (YoY) |  |  | 5.9% |
+| 15:00 | USD | Total Vehicle Sales (Nov) |  | 15.40M | 15.30M |
+| 15:10 | USD | IBD/TIPP Economic Optimism |  | 44.2 | 43.9 |
+| 17:00 | EUR | Italian Car Registration (YoY) (Nov) |  |  | -0.5% |
+| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -0.1K |
+| 20:30 | USD | CFTC Copper speculative net positions |  |  | 39.1K |
+| 20:30 | USD | CFTC Corn speculative net positions |  |  | -92.4K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -142.0K |
+| 20:30 | USD | CFTC Silver speculative net positions |  |  | 46.2K |
+| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 39.9K |
+| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -70.6K |
+| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -136.7K |
+| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 87.7K |
+| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -27.5K |
+| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -24.4K |
+| 22:00 | AUD | AIG Construction Index (Nov) |  |  | -7.1 |
+| 22:00 | AUD | AIG Manufacturing Index (Nov) |  |  | -22.0 |
+| 22:00 | AUD | Manufacturing & Services PMI (Nov) |  | 52.60 | 52.10 |
+| 22:00 | AUD | Judo Bank Services PMI (Nov) |  | 52.7 | 52.5 |
+| 23:00 | KRW | GDP (QoQ) (Q3) |  | 1.2% | 0.7% |
+| 23:00 | KRW | GDP (YoY) (Q3) |  | 1.7% | 0.6% |
