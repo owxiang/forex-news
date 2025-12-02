@@ -38,10 +38,10 @@
 | 20:30 | CHF | CFTC CHF speculative net positions | -27.8K |  | -27.5K |
 | 20:30 | NZD | CFTC NZD speculative net positions | -36.3K |  | -24.4K |
 | 21:00 | KRW | FX Reserves - USD (Nov) | 430.66B |  | 428.82B |
-| 22:00 | AUD | AIG Construction Index (Nov) |  |  | -7.1 |
-| 22:00 | AUD | AIG Manufacturing Index (Nov) |  |  | -22.0 |
+| 22:00 | AUD | AIG Construction Index (Nov) | -18.7 |  | -7.1 |
+| 22:00 | AUD | AIG Manufacturing Index (Nov) | -18.0 |  | -22.0 |
 | 22:00 | AUD | Manufacturing & Services PMI (Nov) | 52.60 | 52.60 | 52.10 |
 | 22:00 | AUD | RBA Gov Bullock Speaks |  |  |  |
 | 22:00 | AUD | Judo Bank Services PMI (Nov) | 52.8 | 52.7 | 52.5 |
-| 53 min | KRW | GDP (QoQ) (Q3) |  | 1.2% | 0.7% |
-| 53 min | KRW | GDP (YoY) (Q3) |  | 1.7% | 0.6% |
+| 23:00 | KRW | GDP (QoQ) (Q3) |  | 1.2% | 0.7% |
+| 23:00 | KRW | GDP (YoY) (Q3) |  | 1.7% | 0.6% |

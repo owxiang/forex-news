@@ -63,11 +63,11 @@
 | 20:30 | NZD | Low | CFTC NZD speculative net positions | -36.3K |  | -24.4K |
 | 20:30 | EUR | Moderate | CFTC EUR speculative net positions | 111.8K |  | 118.4K |
 | 21:00 | KRW | Low | FX Reserves - USD (Nov) | 430.66B |  | 428.82B |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -1.900M |
-| 22:00 | AUD | Low | AIG Construction Index (Nov) |  |  | -7.1 |
-| 22:00 | AUD | Low | AIG Manufacturing Index (Nov) |  |  | -22.0 |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | -2.480M |  | -1.900M |
+| 22:00 | AUD | Low | AIG Construction Index (Nov) | -18.7 |  | -7.1 |
+| 22:00 | AUD | Low | AIG Manufacturing Index (Nov) | -18.0 |  | -22.0 |
 | 22:00 | AUD | Low | Manufacturing & Services PMI (Nov) | 52.60 | 52.60 | 52.10 |
 | 22:00 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
 | 22:00 | AUD | Low | Judo Bank Services PMI (Nov) | 52.8 | 52.7 | 52.5 |
-| 53 min | KRW | Low | GDP (QoQ) (Q3) |  | 1.2% | 0.7% |
-| 53 min | KRW | Low | GDP (YoY) (Q3) |  | 1.7% | 0.6% |
+| 23:00 | KRW | Low | GDP (QoQ) (Q3) |  | 1.2% | 0.7% |
+| 23:00 | KRW | Low | GDP (YoY) (Q3) |  | 1.7% | 0.6% |
