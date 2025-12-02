@@ -20,21 +20,20 @@
 | 08:00 | EUR | Moderate | Spanish Unemployment Change (Nov) | -18.8K | -12.4K | 22.1K |
 | 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Oct) | 6.0% | 6.1% | 6.2% |
 | 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Nov) | 0.20% |  | 0.27% |
-| 20 min | CHF | Moderate | procure.ch Manufacturing PMI (Nov) |  | 48.6 | 48.2 |
-| 20 min | ZAR | Low | GDP (YoY) (Q3) |  |  | 0.6% |
-| 20 min | ZAR | Moderate | GDP Annualized (QoQ) (Q3) |  |  | 0.8% |
-| 30 min | EUR | Low | Spanish 12-Month Letras Auction |  |  | 1.990% |
-| 50 min | EUR | Moderate | Core CPI (YoY) (Nov) |  | 2.4% | 2.4% |
-| 50 min | EUR | Low | Core CPI (MoM) (Nov) |  |  | 0.3% |
-| 50 min | EUR | High | CPI (YoY) (Nov) |  | 2.1% | 2.1% |
-| 50 min | EUR | Moderate | CPI (MoM) (Nov) |  |  | 0.2% |
-| 50 min | EUR | Low | CPI, n.s.a (Nov) |  |  | 129.70 |
-| 50 min | EUR | Low | HICP ex Energy & Food (YoY) (Nov) |  |  | 2.4% |
-| 50 min | EUR | Low | HICP ex Energy and Food (MoM) (Nov) |  |  | 0.2% |
-| 50 min | EUR | Moderate | Unemployment Rate (Oct) |  | 6.3% | 6.3% |
-| 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 1.980% |
-| 11:00 | EUR | Low | Italian PPI (MoM) (Oct) |  |  | 0.2% |
-| 11:00 | EUR | Low | Italian PPI (YoY) (Oct) |  |  | 1.1% |
+| 09:30 | ZAR | Moderate | GDP Annualized (QoQ) (Q3) | 0.5% |  | 0.9% |
+| 09:30 | ZAR | Low | GDP (YoY) (Q3) | 2.1% |  | 0.9% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Nov) | 2.4% | 2.4% | 2.4% |
+| 10:00 | EUR | Low | Core CPI (MoM) (Nov) | -0.5% |  | 0.3% |
+| 10:00 | EUR | High | CPI (YoY) (Nov) | 2.2% | 2.1% | 2.1% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Nov) | -0.3% |  | 0.2% |
+| 10:00 | EUR | Low | CPI, n.s.a (Nov) | 129.34 |  | 129.70 |
+| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Nov) | 2.4% |  | 2.4% |
+| 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Nov) | -0.4% |  | 0.2% |
+| 10:00 | EUR | Moderate | Unemployment Rate (Oct) | 6.4% | 6.3% | 6.4% |
+| 2 min | EUR | Low | Spanish 12-Month Letras Auction |  |  | 1.990% |
+| 22 min | EUR | Low | German 2-Year Schatz Auction |  |  | 1.980% |
+| 52 min | EUR | Low | Italian PPI (MoM) (Oct) |  |  | 0.2% |
+| 52 min | EUR | Low | Italian PPI (YoY) (Oct) |  |  | 1.1% |
 | 12:00 | BRL | Moderate | Industrial Production (YoY) (Oct) |  | 0.2% | 2.0% |
 | 12:00 | BRL | Low | Industrial Production (MoM) (Oct) |  | 0.4% | -0.4% |
 | 12:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -3.0% |
