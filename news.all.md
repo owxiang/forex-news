@@ -9,15 +9,15 @@
 | 00:30 | AUD | Low | Net Exports Contribution (Q3) | -0.1% |  | 0.1% |
 | 00:30 | AUD | Low | Private House Approvals (Oct) | -2.1% |  | 3.2% |
 | 01:00 | USD | High | Fed Chair Powell Speaks |  |  |  |
-| 3 min | JPY | Moderate | 10-Year JGB Auction |  |  | 1.658% |
-| 05:00 | JPY | Low | Household Confidence (Nov) |  | 36.3 | 35.8 |
+| 03:35 | JPY | Moderate | 10-Year JGB Auction | 1.872% |  | 1.658% |
+| 46 min | JPY | Low | Household Confidence (Nov) |  | 36.2 | 35.8 |
 | 07:00 | GBP | Moderate | BoE Financial Stability Report |  |  |  |
 | 07:00 | GBP | Low | BoE FPC Meeting Minutes |  |  |  |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Nov) |  | 0.0% | 0.3% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Nov) |  | 1.4% | 2.4% |
 | 07:45 | EUR | Low | French Government Budget Balance (Oct) |  |  | -155.4B |
 | 08:00 | EUR | Low | French Car Registration (YoY) (Nov) |  |  | 2.9% |
-| 08:00 | EUR | Moderate | Spanish Unemployment Change (Nov) |  | 17.1K | 22.1K |
+| 08:00 | EUR | Moderate | Spanish Unemployment Change (Nov) |  | -12.4K | 22.1K |
 | 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Oct) |  | 6.1% | 6.1% |
 | 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Nov) |  |  | 0.27% |
 | 09:30 | CHF | Moderate | procure.ch Manufacturing PMI (Nov) |  | 48.6 | 48.2 |
@@ -35,9 +35,8 @@
 | 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 1.980% |
 | 11:00 | EUR | Low | Italian PPI (MoM) (Oct) |  |  | 0.2% |
 | 11:00 | EUR | Low | Italian PPI (YoY) (Oct) |  |  | 1.1% |
-| 11:00 | EUR | Low | Car Registration (MoM) (Nov) |  |  | 13.60% |
-| 12:00 | BRL | Moderate | Industrial Production (YoY) (Oct) |  |  | 2.0% |
-| 12:00 | BRL | Low | Industrial Production (MoM) (Oct) |  |  | -0.4% |
+| 12:00 | BRL | Moderate | Industrial Production (YoY) (Oct) |  | 0.2% | 2.0% |
+| 12:00 | BRL | Low | Industrial Production (MoM) (Oct) |  | 0.4% | -0.4% |
 | 12:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -3.0% |
 | 12:00 | USD | Low | Milk Auctions |  |  | 3,678.0 |
 | 13:00 | SGD | Low | S&P Global Manufacturing PMI (Nov) |  |  | 50.0 |
@@ -46,7 +45,7 @@
 | 15:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 15:00 | USD | High | JOLTS Job Openings (Sep) |  |  | 7.227M |
 | 15:00 | USD | Low | Total Vehicle Sales (Nov) |  | 15.40M | 15.30M |
-| 15:10 | USD | Low | IBD/TIPP Economic Optimism |  | 44.2 | 43.9 |
+| 15:10 | USD | Low | IBD/TIPP Economic Optimism |  | 44.1 | 43.9 |
 | 17:00 | EUR | Low | Italian Car Registration (YoY) (Nov) |  |  | -0.5% |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -4.5K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -0.1K |
@@ -72,6 +71,7 @@
 | 22:00 | AUD | Low | AIG Construction Index (Nov) |  |  | -7.1 |
 | 22:00 | AUD | Low | AIG Manufacturing Index (Nov) |  |  | -22.0 |
 | 22:00 | AUD | Low | Manufacturing & Services PMI (Nov) |  | 52.60 | 52.10 |
+| 22:00 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
 | 22:00 | AUD | Low | Judo Bank Services PMI (Nov) |  | 52.7 | 52.5 |
 | 23:00 | KRW | Low | GDP (QoQ) (Q3) |  | 1.2% | 0.7% |
 | 23:00 | KRW | Low | GDP (YoY) (Q3) |  | 1.7% | 0.6% |

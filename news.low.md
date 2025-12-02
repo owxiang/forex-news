@@ -6,7 +6,7 @@
 | 00:30 | AUD | Building Approvals (YoY) (Oct) | -1.80% | 12.40% | 14.90% |
 | 00:30 | AUD | Net Exports Contribution (Q3) | -0.1% |  | 0.1% |
 | 00:30 | AUD | Private House Approvals (Oct) | -2.1% |  | 3.2% |
-| 05:00 | JPY | Household Confidence (Nov) |  | 36.3 | 35.8 |
+| 46 min | JPY | Household Confidence (Nov) |  | 36.2 | 35.8 |
 | 07:00 | GBP | BoE FPC Meeting Minutes |  |  |  |
 | 07:45 | EUR | French Government Budget Balance (Oct) |  |  | -155.4B |
 | 08:00 | EUR | French Car Registration (YoY) (Nov) |  |  | 2.9% |
@@ -20,14 +20,13 @@
 | 10:30 | EUR | German 2-Year Schatz Auction |  |  | 1.980% |
 | 11:00 | EUR | Italian PPI (MoM) (Oct) |  |  | 0.2% |
 | 11:00 | EUR | Italian PPI (YoY) (Oct) |  |  | 1.1% |
-| 11:00 | EUR | Car Registration (MoM) (Nov) |  |  | 13.60% |
-| 12:00 | BRL | Industrial Production (MoM) (Oct) |  |  | -0.4% |
+| 12:00 | BRL | Industrial Production (MoM) (Oct) |  | 0.4% | -0.4% |
 | 12:00 | NZD | GlobalDairyTrade Price Index |  |  | -3.0% |
 | 12:00 | USD | Milk Auctions |  |  | 3,678.0 |
 | 13:00 | SGD | S&P Global Manufacturing PMI (Nov) |  |  | 50.0 |
 | 13:55 | USD | Redbook (YoY) |  |  | 5.9% |
 | 15:00 | USD | Total Vehicle Sales (Nov) |  | 15.40M | 15.30M |
-| 15:10 | USD | IBD/TIPP Economic Optimism |  | 44.2 | 43.9 |
+| 15:10 | USD | IBD/TIPP Economic Optimism |  | 44.1 | 43.9 |
 | 17:00 | EUR | Italian Car Registration (YoY) (Nov) |  |  | -0.5% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -0.1K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 39.1K |
@@ -43,6 +42,7 @@
 | 22:00 | AUD | AIG Construction Index (Nov) |  |  | -7.1 |
 | 22:00 | AUD | AIG Manufacturing Index (Nov) |  |  | -22.0 |
 | 22:00 | AUD | Manufacturing & Services PMI (Nov) |  | 52.60 | 52.10 |
+| 22:00 | AUD | RBA Gov Bullock Speaks |  |  |  |
 | 22:00 | AUD | Judo Bank Services PMI (Nov) |  | 52.7 | 52.5 |
 | 23:00 | KRW | GDP (QoQ) (Q3) |  | 1.2% | 0.7% |
 | 23:00 | KRW | GDP (YoY) (Q3) |  | 1.7% | 0.6% |

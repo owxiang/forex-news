@@ -4,18 +4,18 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Building Approvals (MoM) (Oct) | -6.4% | -4.3% | 11.1% |
 | 00:30 | AUD | Current Account (Q3) | -16.6B | -13.2B | -16.2B |
-| 3 min | JPY | 10-Year JGB Auction |  |  | 1.658% |
+| 03:35 | JPY | 10-Year JGB Auction | 1.872% |  | 1.658% |
 | 07:00 | GBP | BoE Financial Stability Report |  |  |  |
 | 07:00 | GBP | Nationwide HPI (MoM) (Nov) |  | 0.0% | 0.3% |
 | 07:00 | GBP | Nationwide HPI (YoY) (Nov) |  | 1.4% | 2.4% |
-| 08:00 | EUR | Spanish Unemployment Change (Nov) |  | 17.1K | 22.1K |
+| 08:00 | EUR | Spanish Unemployment Change (Nov) |  | -12.4K | 22.1K |
 | 09:00 | BRL | IPC-Fipe Inflation Index (MoM) (Nov) |  |  | 0.27% |
 | 09:30 | CHF | procure.ch Manufacturing PMI (Nov) |  | 48.6 | 48.2 |
 | 09:30 | ZAR | GDP Annualized (QoQ) (Q3) |  |  | 0.8% |
 | 10:00 | EUR | Core CPI (YoY) (Nov) |  | 2.4% | 2.4% |
 | 10:00 | EUR | CPI (MoM) (Nov) |  |  | 0.2% |
 | 10:00 | EUR | Unemployment Rate (Oct) |  | 6.3% | 6.3% |
-| 12:00 | BRL | Industrial Production (YoY) (Oct) |  |  | 2.0% |
+| 12:00 | BRL | Industrial Production (YoY) (Oct) |  | 0.2% | 2.0% |
 | 15:00 | USD | Construction Spending (MoM) (Sep) |  |  | 0.2% |
 | 15:00 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -4.5K |
