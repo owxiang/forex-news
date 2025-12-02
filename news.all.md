@@ -36,14 +36,12 @@
 | 11:00 | EUR | Low | Italian PPI (YoY) (Oct) | 0.1% |  | 1.1% |
 | 12:00 | BRL | Moderate | Industrial Production (YoY) (Oct) | -0.5% | 0.2% | 2.0% |
 | 12:00 | BRL | Low | Industrial Production (MoM) (Oct) | 0.1% | 0.4% | -0.4% |
+| 12:00 | NZD | Low | GlobalDairyTrade Price Index | -4.3% |  | -4.3% |
+| 12:00 | USD | Low | Milk Auctions | 3,507.0 |  | 3,507.0 |
 | 13:00 | SGD | Low | S&P Global Manufacturing PMI (Nov) | 50.2 |  | 50.0 |
 | 13:55 | USD | Low | Redbook (YoY) | 7.6% |  | 5.9% |
-| 52 min | USD | Moderate | Construction Spending (MoM) (Sep) |  |  | 0.2% |
-| 52 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 52 min | USD | Low | Total Vehicle Sales (Nov) |  | 15.40M | 15.30M |
-| 52 min | NZD | Low | GlobalDairyTrade Price Index |  |  | -3.0% |
-| 52 min | USD | Low | Milk Auctions |  |  | 3,678.0 |
-| 15:10 | USD | Low | IBD/TIPP Economic Optimism |  | 44.1 | 43.9 |
+| 15:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 1 min | USD | Low | IBD/TIPP Economic Optimism |  | 44.1 | 43.9 |
 | 17:00 | EUR | Low | Italian Car Registration (YoY) (Nov) |  |  | -0.5% |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -4.5K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -0.1K |

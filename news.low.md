@@ -21,12 +21,11 @@
 | 11:00 | EUR | Italian PPI (MoM) (Oct) | -0.2% |  | 0.2% |
 | 11:00 | EUR | Italian PPI (YoY) (Oct) | 0.1% |  | 1.1% |
 | 12:00 | BRL | Industrial Production (MoM) (Oct) | 0.1% | 0.4% | -0.4% |
+| 12:00 | NZD | GlobalDairyTrade Price Index | -4.3% |  | -4.3% |
+| 12:00 | USD | Milk Auctions | 3,507.0 |  | 3,507.0 |
 | 13:00 | SGD | S&P Global Manufacturing PMI (Nov) | 50.2 |  | 50.0 |
 | 13:55 | USD | Redbook (YoY) | 7.6% |  | 5.9% |
-| 52 min | USD | Total Vehicle Sales (Nov) |  | 15.40M | 15.30M |
-| 52 min | NZD | GlobalDairyTrade Price Index |  |  | -3.0% |
-| 52 min | USD | Milk Auctions |  |  | 3,678.0 |
-| 15:10 | USD | IBD/TIPP Economic Optimism |  | 44.1 | 43.9 |
+| 1 min | USD | IBD/TIPP Economic Optimism |  | 44.1 | 43.9 |
 | 17:00 | EUR | Italian Car Registration (YoY) (Nov) |  |  | -0.5% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -0.1K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 39.1K |
