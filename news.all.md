@@ -36,8 +36,8 @@
 | 11:00 | EUR | Low | Italian PPI (YoY) (Oct) | 0.1% |  | 1.1% |
 | 12:00 | BRL | Moderate | Industrial Production (YoY) (Oct) | -0.5% | 0.2% | 2.0% |
 | 12:00 | BRL | Low | Industrial Production (MoM) (Oct) | 0.1% | 0.4% | -0.4% |
-| 47 min | SGD | Low | S&P Global Manufacturing PMI (Nov) |  |  | 50.0 |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 5.9% |
+| 13:00 | SGD | Low | S&P Global Manufacturing PMI (Nov) | 50.2 |  | 50.0 |
+| 37 min | USD | Low | Redbook (YoY) |  |  | 5.9% |
 | 15:00 | USD | Moderate | Construction Spending (MoM) (Sep) |  |  | 0.2% |
 | 15:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 15:00 | USD | Low | Total Vehicle Sales (Nov) |  | 15.40M | 15.30M |

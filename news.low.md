@@ -21,8 +21,8 @@
 | 11:00 | EUR | Italian PPI (MoM) (Oct) | -0.2% |  | 0.2% |
 | 11:00 | EUR | Italian PPI (YoY) (Oct) | 0.1% |  | 1.1% |
 | 12:00 | BRL | Industrial Production (MoM) (Oct) | 0.1% | 0.4% | -0.4% |
-| 47 min | SGD | S&P Global Manufacturing PMI (Nov) |  |  | 50.0 |
-| 13:55 | USD | Redbook (YoY) |  |  | 5.9% |
+| 13:00 | SGD | S&P Global Manufacturing PMI (Nov) | 50.2 |  | 50.0 |
+| 37 min | USD | Redbook (YoY) |  |  | 5.9% |
 | 15:00 | USD | Total Vehicle Sales (Nov) |  | 15.40M | 15.30M |
 | 15:00 | NZD | GlobalDairyTrade Price Index |  |  | -3.0% |
 | 15:00 | USD | Milk Auctions |  |  | 3,678.0 |
