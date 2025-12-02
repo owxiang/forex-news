@@ -16,13 +16,13 @@
 | 10:00 | EUR | Unemployment Rate (Oct) | 6.4% | 6.3% | 6.4% |
 | 12:00 | BRL | Industrial Production (YoY) (Oct) | -0.5% | 0.2% | 2.0% |
 | 15:00 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 20:30 | GBP | CFTC GBP speculative net positions |  |  | -4.5K |
-| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 74.3K |
-| 20:30 | USD | CFTC Gold speculative net positions |  |  | 232.0K |
-| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 43.3K |
-| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -144.1K |
-| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -57.8K |
-| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 59.6K |
-| 20:30 | JPY | CFTC JPY speculative net positions |  |  | 46.3K |
-| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 118.4K |
-| 23 min | USD | API Weekly Crude Oil Stock |  |  | -1.900M |
+| 20:30 | GBP | CFTC GBP speculative net positions | -16.8K |  | -4.5K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions | 39.8K |  | 74.3K |
+| 20:30 | USD | CFTC Gold speculative net positions | 176.6K |  | 232.0K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions | 48.9K |  | 43.3K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions | -145.3K |  | -144.1K |
+| 20:30 | AUD | CFTC AUD speculative net positions | -65.8K |  | -57.8K |
+| 20:30 | BRL | CFTC BRL speculative net positions | 55.2K |  | 59.6K |
+| 20:30 | JPY | CFTC JPY speculative net positions | 70.4K |  | 46.3K |
+| 20:30 | EUR | CFTC EUR speculative net positions | 111.8K |  | 118.4K |
+| 21:30 | USD | API Weekly Crude Oil Stock |  |  | -1.900M |

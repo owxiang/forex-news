@@ -42,32 +42,32 @@
 | 13:55 | USD | Low | Redbook (YoY) | 7.6% |  | 5.9% |
 | 15:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 15:10 | USD | Low | IBD/TIPP Economic Optimism | 47.9 | 44.1 | 43.9 |
-| 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -4.5K |
-| 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -0.1K |
-| 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 39.1K |
-| 20:30 | USD | Low | CFTC Corn speculative net positions |  |  | -92.4K |
-| 20:30 | USD | Moderate | CFTC Crude Oil speculative net positions |  |  | 74.3K |
-| 20:30 | USD | Moderate | CFTC Gold speculative net positions |  |  | 232.0K |
-| 20:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions |  |  | 43.3K |
-| 20:30 | USD | Low | CFTC Natural Gas speculative net positions |  |  | -142.0K |
-| 20:30 | USD | Moderate | CFTC S&P 500 speculative net positions |  |  | -144.1K |
-| 20:30 | USD | Low | CFTC Silver speculative net positions |  |  | 46.2K |
-| 20:30 | USD | Low | CFTC Soybeans speculative net positions |  |  | 39.9K |
-| 20:30 | USD | Low | CFTC Wheat speculative net positions |  |  | -70.6K |
-| 20:30 | CAD | Low | CFTC CAD speculative net positions |  |  | -136.7K |
-| 20:30 | MXN | Low | CFTC MXN speculative net positions |  |  | 87.7K |
-| 20:30 | CHF | Low | CFTC CHF speculative net positions |  |  | -27.5K |
-| 20:30 | AUD | Moderate | CFTC AUD speculative net positions |  |  | -57.8K |
-| 20:30 | BRL | Moderate | CFTC BRL speculative net positions |  |  | 59.6K |
-| 20:30 | JPY | Moderate | CFTC JPY speculative net positions |  |  | 46.3K |
-| 20:30 | NZD | Low | CFTC NZD speculative net positions |  |  | -24.4K |
-| 20:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | 118.4K |
+| 20:30 | GBP | Moderate | CFTC GBP speculative net positions | -16.8K |  | -4.5K |
+| 20:30 | USD | Low | CFTC Aluminium speculative net positions | -1.4K |  | -0.1K |
+| 20:30 | USD | Low | CFTC Copper speculative net positions | 41.2K |  | 39.1K |
+| 20:30 | USD | Low | CFTC Corn speculative net positions | -83.3K |  | -92.4K |
+| 20:30 | USD | Moderate | CFTC Crude Oil speculative net positions | 39.8K |  | 74.3K |
+| 20:30 | USD | Moderate | CFTC Gold speculative net positions | 176.6K |  | 232.0K |
+| 20:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions | 48.9K |  | 43.3K |
+| 20:30 | USD | Low | CFTC Natural Gas speculative net positions | -158.8K |  | -142.0K |
+| 20:30 | USD | Moderate | CFTC S&P 500 speculative net positions | -145.3K |  | -144.1K |
+| 20:30 | USD | Low | CFTC Silver speculative net positions | 37.3K |  | 46.2K |
+| 20:30 | USD | Low | CFTC Soybeans speculative net positions | 77.6K |  | 39.9K |
+| 20:30 | USD | Low | CFTC Wheat speculative net positions | -80.2K |  | -70.6K |
+| 20:30 | CAD | Low | CFTC CAD speculative net positions | -145.1K |  | -136.7K |
+| 20:30 | MXN | Low | CFTC MXN speculative net positions | 73.3K |  | 87.7K |
+| 20:30 | CHF | Low | CFTC CHF speculative net positions | -27.8K |  | -27.5K |
+| 20:30 | AUD | Moderate | CFTC AUD speculative net positions | -65.8K |  | -57.8K |
+| 20:30 | BRL | Moderate | CFTC BRL speculative net positions | 55.2K |  | 59.6K |
+| 20:30 | JPY | Moderate | CFTC JPY speculative net positions | 70.4K |  | 46.3K |
+| 20:30 | NZD | Low | CFTC NZD speculative net positions | -36.3K |  | -24.4K |
+| 20:30 | EUR | Moderate | CFTC EUR speculative net positions | 111.8K |  | 118.4K |
 | 21:00 | KRW | Low | FX Reserves - USD (Nov) | 430.66B |  | 428.82B |
-| 23 min | USD | Moderate | API Weekly Crude Oil Stock |  |  | -1.900M |
-| 53 min | AUD | Low | AIG Construction Index (Nov) |  |  | -7.1 |
-| 53 min | AUD | Low | AIG Manufacturing Index (Nov) |  |  | -22.0 |
-| 53 min | AUD | Low | Manufacturing & Services PMI (Nov) |  | 52.60 | 52.10 |
-| 53 min | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
-| 53 min | AUD | Low | Judo Bank Services PMI (Nov) |  | 52.7 | 52.5 |
-| 23:00 | KRW | Low | GDP (QoQ) (Q3) |  | 1.2% | 0.7% |
-| 23:00 | KRW | Low | GDP (YoY) (Q3) |  | 1.7% | 0.6% |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -1.900M |
+| 22:00 | AUD | Low | AIG Construction Index (Nov) |  |  | -7.1 |
+| 22:00 | AUD | Low | AIG Manufacturing Index (Nov) |  |  | -22.0 |
+| 22:00 | AUD | Low | Manufacturing & Services PMI (Nov) | 52.60 | 52.60 | 52.10 |
+| 22:00 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
+| 22:00 | AUD | Low | Judo Bank Services PMI (Nov) | 52.8 | 52.7 | 52.5 |
+| 53 min | KRW | Low | GDP (QoQ) (Q3) |  | 1.2% | 0.7% |
+| 53 min | KRW | Low | GDP (YoY) (Q3) |  | 1.7% | 0.6% |

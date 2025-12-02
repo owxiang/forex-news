@@ -26,22 +26,22 @@
 | 13:00 | SGD | S&P Global Manufacturing PMI (Nov) | 50.2 |  | 50.0 |
 | 13:55 | USD | Redbook (YoY) | 7.6% |  | 5.9% |
 | 15:10 | USD | IBD/TIPP Economic Optimism | 47.9 | 44.1 | 43.9 |
-| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -0.1K |
-| 20:30 | USD | CFTC Copper speculative net positions |  |  | 39.1K |
-| 20:30 | USD | CFTC Corn speculative net positions |  |  | -92.4K |
-| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -142.0K |
-| 20:30 | USD | CFTC Silver speculative net positions |  |  | 46.2K |
-| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 39.9K |
-| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -70.6K |
-| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -136.7K |
-| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 87.7K |
-| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -27.5K |
-| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -24.4K |
+| 20:30 | USD | CFTC Aluminium speculative net positions | -1.4K |  | -0.1K |
+| 20:30 | USD | CFTC Copper speculative net positions | 41.2K |  | 39.1K |
+| 20:30 | USD | CFTC Corn speculative net positions | -83.3K |  | -92.4K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions | -158.8K |  | -142.0K |
+| 20:30 | USD | CFTC Silver speculative net positions | 37.3K |  | 46.2K |
+| 20:30 | USD | CFTC Soybeans speculative net positions | 77.6K |  | 39.9K |
+| 20:30 | USD | CFTC Wheat speculative net positions | -80.2K |  | -70.6K |
+| 20:30 | CAD | CFTC CAD speculative net positions | -145.1K |  | -136.7K |
+| 20:30 | MXN | CFTC MXN speculative net positions | 73.3K |  | 87.7K |
+| 20:30 | CHF | CFTC CHF speculative net positions | -27.8K |  | -27.5K |
+| 20:30 | NZD | CFTC NZD speculative net positions | -36.3K |  | -24.4K |
 | 21:00 | KRW | FX Reserves - USD (Nov) | 430.66B |  | 428.82B |
-| 53 min | AUD | AIG Construction Index (Nov) |  |  | -7.1 |
-| 53 min | AUD | AIG Manufacturing Index (Nov) |  |  | -22.0 |
-| 53 min | AUD | Manufacturing & Services PMI (Nov) |  | 52.60 | 52.10 |
-| 53 min | AUD | RBA Gov Bullock Speaks |  |  |  |
-| 53 min | AUD | Judo Bank Services PMI (Nov) |  | 52.7 | 52.5 |
-| 23:00 | KRW | GDP (QoQ) (Q3) |  | 1.2% | 0.7% |
-| 23:00 | KRW | GDP (YoY) (Q3) |  | 1.7% | 0.6% |
+| 22:00 | AUD | AIG Construction Index (Nov) |  |  | -7.1 |
+| 22:00 | AUD | AIG Manufacturing Index (Nov) |  |  | -22.0 |
+| 22:00 | AUD | Manufacturing & Services PMI (Nov) | 52.60 | 52.60 | 52.10 |
+| 22:00 | AUD | RBA Gov Bullock Speaks |  |  |  |
+| 22:00 | AUD | Judo Bank Services PMI (Nov) | 52.8 | 52.7 | 52.5 |
+| 53 min | KRW | GDP (QoQ) (Q3) |  | 1.2% | 0.7% |
+| 53 min | KRW | GDP (YoY) (Q3) |  | 1.7% | 0.6% |
