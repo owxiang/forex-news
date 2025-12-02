@@ -10,7 +10,7 @@
 | 00:30 | AUD | Low | Private House Approvals (Oct) | -2.1% |  | 3.2% |
 | 01:00 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 03:35 | JPY | Moderate | 10-Year JGB Auction | 1.872% |  | 1.658% |
-| 46 min | JPY | Low | Household Confidence (Nov) |  | 36.2 | 35.8 |
+| 05:00 | JPY | Low | Household Confidence (Nov) | 37.5 | 36.2 | 35.8 |
 | 07:00 | GBP | Moderate | BoE Financial Stability Report |  |  |  |
 | 07:00 | GBP | Low | BoE FPC Meeting Minutes |  |  |  |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Nov) |  | 0.0% | 0.3% |
