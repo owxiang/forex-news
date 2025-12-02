@@ -20,8 +20,8 @@
 | 08:00 | EUR | Moderate | Spanish Unemployment Change (Nov) | -18.8K | -12.4K | 22.1K |
 | 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Oct) | 6.0% | 6.1% | 6.2% |
 | 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Nov) | 0.20% |  | 0.27% |
-| 09:30 | ZAR | Moderate | GDP Annualized (QoQ) (Q3) | 0.5% |  | 0.9% |
 | 09:30 | ZAR | Low | GDP (YoY) (Q3) | 2.1% |  | 0.9% |
+| 09:30 | ZAR | Moderate | GDP Annualized (QoQ) (Q3) | 0.5% |  | 0.9% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Nov) | 2.4% | 2.4% | 2.4% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Nov) | -0.5% |  | 0.3% |
 | 10:00 | EUR | High | CPI (YoY) (Nov) | 2.2% | 2.1% | 2.1% |
@@ -34,16 +34,15 @@
 | 10:30 | EUR | Low | German 2-Year Schatz Auction | 2.050% |  | 1.980% |
 | 11:00 | EUR | Low | Italian PPI (MoM) (Oct) | -0.2% |  | 0.2% |
 | 11:00 | EUR | Low | Italian PPI (YoY) (Oct) | 0.1% |  | 1.1% |
-| 52 min | BRL | Moderate | Industrial Production (YoY) (Oct) |  | 0.2% | 2.0% |
-| 52 min | BRL | Low | Industrial Production (MoM) (Oct) |  | 0.4% | -0.4% |
-| 52 min | NZD | Low | GlobalDairyTrade Price Index |  |  | -3.0% |
-| 52 min | USD | Low | Milk Auctions |  |  | 3,678.0 |
-| 13:00 | SGD | Low | S&P Global Manufacturing PMI (Nov) |  |  | 50.0 |
+| 12:00 | BRL | Moderate | Industrial Production (YoY) (Oct) | -0.5% | 0.2% | 2.0% |
+| 12:00 | BRL | Low | Industrial Production (MoM) (Oct) | 0.1% | 0.4% | -0.4% |
+| 47 min | SGD | Low | S&P Global Manufacturing PMI (Nov) |  |  | 50.0 |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.9% |
 | 15:00 | USD | Moderate | Construction Spending (MoM) (Sep) |  |  | 0.2% |
 | 15:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 15:00 | USD | High | JOLTS Job Openings (Sep) |  |  | 7.227M |
 | 15:00 | USD | Low | Total Vehicle Sales (Nov) |  | 15.40M | 15.30M |
+| 15:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -3.0% |
+| 15:00 | USD | Low | Milk Auctions |  |  | 3,678.0 |
 | 15:10 | USD | Low | IBD/TIPP Economic Optimism |  | 44.1 | 43.9 |
 | 17:00 | EUR | Low | Italian Car Registration (YoY) (Nov) |  |  | -0.5% |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -4.5K |
