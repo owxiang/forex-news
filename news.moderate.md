@@ -8,8 +8,8 @@
 | 07:00 | GBP | BoE Financial Stability Report |  |  |  |
 | 07:00 | GBP | Nationwide HPI (MoM) (Nov) | 0.3% | 0.0% | 0.2% |
 | 07:00 | GBP | Nationwide HPI (YoY) (Nov) | 1.8% | 1.4% | 2.4% |
-| 50 min | EUR | Spanish Unemployment Change (Nov) |  | -12.4K | 22.1K |
-| 09:00 | BRL | IPC-Fipe Inflation Index (MoM) (Nov) |  |  | 0.27% |
+| 08:00 | EUR | Spanish Unemployment Change (Nov) | -18.8K | -12.4K | 22.1K |
+| 50 min | BRL | IPC-Fipe Inflation Index (MoM) (Nov) |  |  | 0.27% |
 | 09:30 | CHF | procure.ch Manufacturing PMI (Nov) |  | 48.6 | 48.2 |
 | 09:30 | ZAR | GDP Annualized (QoQ) (Q3) |  |  | 0.8% |
 | 10:00 | EUR | Core CPI (YoY) (Nov) |  | 2.4% | 2.4% |

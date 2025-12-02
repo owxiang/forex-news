@@ -15,11 +15,11 @@
 | 07:00 | GBP | Low | BoE FPC Meeting Minutes |  |  |  |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Nov) | 0.3% | 0.0% | 0.2% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Nov) | 1.8% | 1.4% | 2.4% |
-| 35 min | EUR | Low | French Government Budget Balance (Oct) |  |  | -155.4B |
-| 50 min | EUR | Low | French Car Registration (YoY) (Nov) |  |  | 2.9% |
-| 50 min | EUR | Moderate | Spanish Unemployment Change (Nov) |  | -12.4K | 22.1K |
-| 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Oct) |  | 6.1% | 6.1% |
-| 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Nov) |  |  | 0.27% |
+| 07:45 | EUR | Low | French Government Budget Balance (Oct) | -136.2B |  | -155.4B |
+| 08:00 | EUR | Low | French Car Registration (YoY) (Nov) | -0.3% |  | 2.9% |
+| 08:00 | EUR | Moderate | Spanish Unemployment Change (Nov) | -18.8K | -12.4K | 22.1K |
+| 50 min | EUR | Low | Italian Monthly Unemployment Rate (Oct) |  | 6.1% | 6.1% |
+| 50 min | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Nov) |  |  | 0.27% |
 | 09:30 | CHF | Moderate | procure.ch Manufacturing PMI (Nov) |  | 48.6 | 48.2 |
 | 09:30 | ZAR | Low | GDP (YoY) (Q3) |  |  | 0.6% |
 | 09:30 | ZAR | Moderate | GDP Annualized (QoQ) (Q3) |  |  | 0.8% |
