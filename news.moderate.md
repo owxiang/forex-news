@@ -9,12 +9,12 @@
 | 07:00 | GBP | Nationwide HPI (MoM) (Nov) | 0.3% | 0.0% | 0.2% |
 | 07:00 | GBP | Nationwide HPI (YoY) (Nov) | 1.8% | 1.4% | 2.4% |
 | 08:00 | EUR | Spanish Unemployment Change (Nov) | -18.8K | -12.4K | 22.1K |
-| 50 min | BRL | IPC-Fipe Inflation Index (MoM) (Nov) |  |  | 0.27% |
-| 09:30 | CHF | procure.ch Manufacturing PMI (Nov) |  | 48.6 | 48.2 |
-| 09:30 | ZAR | GDP Annualized (QoQ) (Q3) |  |  | 0.8% |
-| 10:00 | EUR | Core CPI (YoY) (Nov) |  | 2.4% | 2.4% |
-| 10:00 | EUR | CPI (MoM) (Nov) |  |  | 0.2% |
-| 10:00 | EUR | Unemployment Rate (Oct) |  | 6.3% | 6.3% |
+| 09:00 | BRL | IPC-Fipe Inflation Index (MoM) (Nov) | 0.20% |  | 0.27% |
+| 20 min | CHF | procure.ch Manufacturing PMI (Nov) |  | 48.6 | 48.2 |
+| 20 min | ZAR | GDP Annualized (QoQ) (Q3) |  |  | 0.8% |
+| 50 min | EUR | Core CPI (YoY) (Nov) |  | 2.4% | 2.4% |
+| 50 min | EUR | CPI (MoM) (Nov) |  |  | 0.2% |
+| 50 min | EUR | Unemployment Rate (Oct) |  | 6.3% | 6.3% |
 | 12:00 | BRL | Industrial Production (YoY) (Oct) |  | 0.2% | 2.0% |
 | 15:00 | USD | Construction Spending (MoM) (Sep) |  |  | 0.2% |
 | 15:00 | USD | FOMC Member Bowman Speaks |  |  |  |

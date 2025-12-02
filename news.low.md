@@ -10,13 +10,13 @@
 | 07:00 | GBP | BoE FPC Meeting Minutes |  |  |  |
 | 07:45 | EUR | French Government Budget Balance (Oct) | -136.2B |  | -155.4B |
 | 08:00 | EUR | French Car Registration (YoY) (Nov) | -0.3% |  | 2.9% |
-| 50 min | EUR | Italian Monthly Unemployment Rate (Oct) |  | 6.1% | 6.1% |
-| 09:30 | ZAR | GDP (YoY) (Q3) |  |  | 0.6% |
-| 09:40 | EUR | Spanish 12-Month Letras Auction |  |  | 1.990% |
-| 10:00 | EUR | Core CPI (MoM) (Nov) |  |  | 0.3% |
-| 10:00 | EUR | CPI, n.s.a (Nov) |  |  | 129.70 |
-| 10:00 | EUR | HICP ex Energy & Food (YoY) (Nov) |  |  | 2.4% |
-| 10:00 | EUR | HICP ex Energy and Food (MoM) (Nov) |  |  | 0.2% |
+| 09:00 | EUR | Italian Monthly Unemployment Rate (Oct) | 6.0% | 6.1% | 6.2% |
+| 20 min | ZAR | GDP (YoY) (Q3) |  |  | 0.6% |
+| 30 min | EUR | Spanish 12-Month Letras Auction |  |  | 1.990% |
+| 50 min | EUR | Core CPI (MoM) (Nov) |  |  | 0.3% |
+| 50 min | EUR | CPI, n.s.a (Nov) |  |  | 129.70 |
+| 50 min | EUR | HICP ex Energy & Food (YoY) (Nov) |  |  | 2.4% |
+| 50 min | EUR | HICP ex Energy and Food (MoM) (Nov) |  |  | 0.2% |
 | 10:30 | EUR | German 2-Year Schatz Auction |  |  | 1.980% |
 | 11:00 | EUR | Italian PPI (MoM) (Oct) |  |  | 0.2% |
 | 11:00 | EUR | Italian PPI (YoY) (Oct) |  |  | 1.1% |
