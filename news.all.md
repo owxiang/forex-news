@@ -3,12 +3,12 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | BRC Shop Price Index (YoY) | 0.6% | 0.9% | 1.0% |
-| 00:30 | AUD | Low | Building Approvals (YoY) (Oct) | 5.60% | 12.40% | -1.20% |
-| 00:30 | AUD | Moderate | Building Approvals (MoM) (Oct) | -6.4% | -4.8% | 12.0% |
-| 00:30 | AUD | Moderate | Current Account (Q3) | -16.6B | -13.4B | -13.7B |
+| 00:30 | AUD | Low | Building Approvals (YoY) (Oct) | -1.80% | 12.40% | 14.90% |
+| 00:30 | AUD | Moderate | Building Approvals (MoM) (Oct) | -6.4% | -4.3% | 11.1% |
+| 00:30 | AUD | Moderate | Current Account (Q3) | -16.6B | -13.2B | -16.2B |
 | 00:30 | AUD | Low | Net Exports Contribution (Q3) | -0.1% |  | 0.1% |
-| 00:30 | AUD | Low | Private House Approvals (Oct) | -2.1% |  | 4.0% |
-| 29 min | USD | High | Fed Chair Powell Speaks |  |  |  |
+| 00:30 | AUD | Low | Private House Approvals (Oct) | -2.1% |  | 3.2% |
+| 01:00 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 03:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 1.658% |
 | 05:00 | JPY | Low | Household Confidence (Nov) |  | 36.3 | 35.8 |
 | 07:00 | GBP | Moderate | BoE Financial Stability Report |  |  |  |

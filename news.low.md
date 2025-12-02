@@ -3,9 +3,9 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | BRC Shop Price Index (YoY) | 0.6% | 0.9% | 1.0% |
-| 00:30 | AUD | Building Approvals (YoY) (Oct) | 5.60% | 12.40% | -1.20% |
+| 00:30 | AUD | Building Approvals (YoY) (Oct) | -1.80% | 12.40% | 14.90% |
 | 00:30 | AUD | Net Exports Contribution (Q3) | -0.1% |  | 0.1% |
-| 00:30 | AUD | Private House Approvals (Oct) | -2.1% |  | 4.0% |
+| 00:30 | AUD | Private House Approvals (Oct) | -2.1% |  | 3.2% |
 | 05:00 | JPY | Household Confidence (Nov) |  | 36.3 | 35.8 |
 | 07:00 | GBP | BoE FPC Meeting Minutes |  |  |  |
 | 07:45 | EUR | French Government Budget Balance (Oct) |  |  | -155.4B |

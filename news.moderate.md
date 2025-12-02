@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Building Approvals (MoM) (Oct) | -6.4% | -4.8% | 12.0% |
-| 00:30 | AUD | Current Account (Q3) | -16.6B | -13.4B | -13.7B |
+| 00:30 | AUD | Building Approvals (MoM) (Oct) | -6.4% | -4.3% | 11.1% |
+| 00:30 | AUD | Current Account (Q3) | -16.6B | -13.2B | -16.2B |
 | 03:35 | JPY | 10-Year JGB Auction |  |  | 1.658% |
 | 07:00 | GBP | BoE Financial Stability Report |  |  |  |
 | 07:00 | GBP | Nationwide HPI (MoM) (Nov) |  | 0.0% | 0.3% |
