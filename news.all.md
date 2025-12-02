@@ -42,7 +42,6 @@
 | 13:55 | USD | Low | Redbook (YoY) | 7.6% |  | 5.9% |
 | 15:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 15:10 | USD | Low | IBD/TIPP Economic Optimism | 47.9 | 44.1 | 43.9 |
-| 51 min | EUR | Low | Italian Car Registration (YoY) (Nov) |  |  | -0.5% |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -4.5K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -0.1K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 39.1K |

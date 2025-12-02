@@ -26,7 +26,6 @@
 | 13:00 | SGD | S&P Global Manufacturing PMI (Nov) | 50.2 |  | 50.0 |
 | 13:55 | USD | Redbook (YoY) | 7.6% |  | 5.9% |
 | 15:10 | USD | IBD/TIPP Economic Optimism | 47.9 | 44.1 | 43.9 |
-| 51 min | EUR | Italian Car Registration (YoY) (Nov) |  |  | -0.5% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -0.1K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 39.1K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -92.4K |
