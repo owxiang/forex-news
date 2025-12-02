@@ -13,16 +13,16 @@
 | 09:00 | EUR | Italian Monthly Unemployment Rate (Oct) | 6.0% | 6.1% | 6.2% |
 | 09:30 | ZAR | GDP (YoY) (Q3) | 2.1% |  | 0.9% |
 | 10:00 | EUR | Core CPI (MoM) (Nov) | -0.5% |  | 0.3% |
-| 10:00 | EUR | CPI, n.s.a (Nov) | 129.34 |  | 129.70 |
+| 10:00 | EUR | CPI, n.s.a (Nov) | 129.35 |  | 129.70 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Nov) | 2.4% |  | 2.4% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Nov) | -0.4% |  | 0.2% |
-| 2 min | EUR | Spanish 12-Month Letras Auction |  |  | 1.990% |
-| 22 min | EUR | German 2-Year Schatz Auction |  |  | 1.980% |
-| 52 min | EUR | Italian PPI (MoM) (Oct) |  |  | 0.2% |
-| 52 min | EUR | Italian PPI (YoY) (Oct) |  |  | 1.1% |
-| 12:00 | BRL | Industrial Production (MoM) (Oct) |  | 0.4% | -0.4% |
-| 12:00 | NZD | GlobalDairyTrade Price Index |  |  | -3.0% |
-| 12:00 | USD | Milk Auctions |  |  | 3,678.0 |
+| 10:10 | EUR | Spanish 12-Month Letras Auction | 1.990% |  | 1.990% |
+| 10:30 | EUR | German 2-Year Schatz Auction | 2.050% |  | 1.980% |
+| 11:00 | EUR | Italian PPI (MoM) (Oct) | -0.2% |  | 0.2% |
+| 11:00 | EUR | Italian PPI (YoY) (Oct) | 0.1% |  | 1.1% |
+| 52 min | BRL | Industrial Production (MoM) (Oct) |  | 0.4% | -0.4% |
+| 52 min | NZD | GlobalDairyTrade Price Index |  |  | -3.0% |
+| 52 min | USD | Milk Auctions |  |  | 3,678.0 |
 | 13:00 | SGD | S&P Global Manufacturing PMI (Nov) |  |  | 50.0 |
 | 13:55 | USD | Redbook (YoY) |  |  | 5.9% |
 | 15:00 | USD | Total Vehicle Sales (Nov) |  | 15.40M | 15.30M |

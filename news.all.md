@@ -26,18 +26,18 @@
 | 10:00 | EUR | Low | Core CPI (MoM) (Nov) | -0.5% |  | 0.3% |
 | 10:00 | EUR | High | CPI (YoY) (Nov) | 2.2% | 2.1% | 2.1% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Nov) | -0.3% |  | 0.2% |
-| 10:00 | EUR | Low | CPI, n.s.a (Nov) | 129.34 |  | 129.70 |
+| 10:00 | EUR | Low | CPI, n.s.a (Nov) | 129.35 |  | 129.70 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Nov) | 2.4% |  | 2.4% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Nov) | -0.4% |  | 0.2% |
 | 10:00 | EUR | Moderate | Unemployment Rate (Oct) | 6.4% | 6.3% | 6.4% |
-| 2 min | EUR | Low | Spanish 12-Month Letras Auction |  |  | 1.990% |
-| 22 min | EUR | Low | German 2-Year Schatz Auction |  |  | 1.980% |
-| 52 min | EUR | Low | Italian PPI (MoM) (Oct) |  |  | 0.2% |
-| 52 min | EUR | Low | Italian PPI (YoY) (Oct) |  |  | 1.1% |
-| 12:00 | BRL | Moderate | Industrial Production (YoY) (Oct) |  | 0.2% | 2.0% |
-| 12:00 | BRL | Low | Industrial Production (MoM) (Oct) |  | 0.4% | -0.4% |
-| 12:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -3.0% |
-| 12:00 | USD | Low | Milk Auctions |  |  | 3,678.0 |
+| 10:10 | EUR | Low | Spanish 12-Month Letras Auction | 1.990% |  | 1.990% |
+| 10:30 | EUR | Low | German 2-Year Schatz Auction | 2.050% |  | 1.980% |
+| 11:00 | EUR | Low | Italian PPI (MoM) (Oct) | -0.2% |  | 0.2% |
+| 11:00 | EUR | Low | Italian PPI (YoY) (Oct) | 0.1% |  | 1.1% |
+| 52 min | BRL | Moderate | Industrial Production (YoY) (Oct) |  | 0.2% | 2.0% |
+| 52 min | BRL | Low | Industrial Production (MoM) (Oct) |  | 0.4% | -0.4% |
+| 52 min | NZD | Low | GlobalDairyTrade Price Index |  |  | -3.0% |
+| 52 min | USD | Low | Milk Auctions |  |  | 3,678.0 |
 | 13:00 | SGD | Low | S&P Global Manufacturing PMI (Nov) |  |  | 50.0 |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.9% |
 | 15:00 | USD | Moderate | Construction Spending (MoM) (Sep) |  |  | 0.2% |

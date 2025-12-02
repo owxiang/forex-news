@@ -14,7 +14,7 @@
 | 10:00 | EUR | Core CPI (YoY) (Nov) | 2.4% | 2.4% | 2.4% |
 | 10:00 | EUR | CPI (MoM) (Nov) | -0.3% |  | 0.2% |
 | 10:00 | EUR | Unemployment Rate (Oct) | 6.4% | 6.3% | 6.4% |
-| 12:00 | BRL | Industrial Production (YoY) (Oct) |  | 0.2% | 2.0% |
+| 52 min | BRL | Industrial Production (YoY) (Oct) |  | 0.2% | 2.0% |
 | 15:00 | USD | Construction Spending (MoM) (Sep) |  |  | 0.2% |
 | 15:00 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -4.5K |
