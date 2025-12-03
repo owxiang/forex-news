@@ -34,14 +34,14 @@
 | 10:00 | NOK | Low | House Price Index (YoY) (Nov) | 6.20% |  | 5.80% |
 | 10:00 | EUR | Low | PPI (MoM) (Oct) | 0.1% | 0.1% | -0.1% |
 | 10:00 | EUR | Low | PPI (YoY) (Oct) | -0.5% | -0.4% | -0.2% |
-| 22 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.40% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 0.2% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 181.6 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 317.6 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 1,090.4 |
-| 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Sep) |  | -1.40% | -2.70% |
-| 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Sep) |  | -7.70% | -10.40% |
+| 10:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 53 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.40% |
+| 53 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | 0.2% |
+| 53 min | USD | Low | MBA Purchase Index |  |  | 181.6 |
+| 53 min | USD | Low | Mortgage Market Index |  |  | 317.6 |
+| 53 min | USD | Low | Mortgage Refinance Index |  |  | 1,090.4 |
+| 53 min | MXN | Low | Gross Fixed Investments (MoM) (Sep) |  | -1.40% | -2.70% |
+| 53 min | MXN | Low | Gross Fixed Investments (YoY) (Sep) |  | -7.70% | -10.40% |
 | 13:00 | BRL | Low | S&P Global Composite PMI (Nov) |  |  | 48.2 |
 | 13:00 | BRL | Low | S&P Global Services PMI (Nov) |  |  | 47.7 |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Nov) |  | 5K | 42K |
