@@ -7,4 +7,4 @@
 | 15:00 | USD | ISM Non-Manufacturing PMI (Nov) | 52.6 | 52.0 | 52.4 |
 | 15:00 | USD | ISM Non-Manufacturing Prices (Nov) | 65.4 | 68.0 | 70.0 |
 | 15:30 | USD | Crude Oil Inventories | 0.574M | -1.900M | 2.774M |
-| 23 min | USD | U.S. President Trump Speaks |  |  |  |
+| 19:30 | USD | U.S. President Trump Speaks |  |  |  |
