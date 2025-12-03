@@ -14,20 +14,19 @@
 | 01:45 | CNY | Moderate | Caixin Services PMI (Nov) | 52.1 | 52.1 | 52.6 |
 | 05:00 | INR | Low | S&P Global Services PMI (Nov) | 59.8 | 59.5 | 58.9 |
 | 05:00 | INR | Low | Manufacturing & Services PMI (Nov) | 59.70 | 59.90 | 60.40 |
-| 07:00 | NOK | Low | Current Account (Q3) |  |  | 217.9B |
-| 6 min | ZAR | Low | S&P Global Manufacturing PMI (Nov) |  |  | 48.8 |
-| 21 min | CHF | Moderate | CPI (MoM) (Nov) |  | -0.1% | -0.3% |
-| 21 min | CHF | Low | CPI (YoY) (Nov) |  | 0.1% | 0.1% |
-| 08:15 | EUR | Moderate | HCOB Spain Services PMI (Nov) |  | 56.3 | 56.6 |
-| 08:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 08:45 | EUR | Low | HCOB Italy Composite PMI (Nov) |  | 53.2 | 53.1 |
-| 08:45 | EUR | Moderate | HCOB Italy Services PMI (Nov) |  | 53.9 | 54.0 |
-| 08:50 | EUR | Low | HCOB France Composite PMI (Nov) |  | 49.9 | 47.7 |
-| 08:50 | EUR | Moderate | HCOB France Services PMI (Nov) |  | 50.8 | 48.0 |
-| 08:55 | EUR | Low | HCOB Germany Composite PMI (Nov) |  | 52.1 | 53.9 |
-| 08:55 | EUR | Moderate | HCOB Germany Services PMI (Nov) |  | 52.7 | 54.6 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Nov) |  | 52.4 | 52.5 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Nov) |  | 53.1 | 53.0 |
+| 07:15 | ZAR | Low | S&P Global Manufacturing PMI (Nov) | 49.0 |  | 48.8 |
+| 07:30 | CHF | Moderate | CPI (MoM) (Nov) | -0.2% | -0.1% | -0.3% |
+| 07:30 | CHF | Low | CPI (YoY) (Nov) | 0.0% | 0.1% | 0.1% |
+| 5 min | EUR | Moderate | HCOB Spain Services PMI (Nov) |  | 56.3 | 56.6 |
+| 20 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 35 min | EUR | Low | HCOB Italy Composite PMI (Nov) |  | 53.2 | 53.1 |
+| 35 min | EUR | Moderate | HCOB Italy Services PMI (Nov) |  | 53.9 | 54.0 |
+| 40 min | EUR | Low | HCOB France Composite PMI (Nov) |  | 49.9 | 47.7 |
+| 40 min | EUR | Moderate | HCOB France Services PMI (Nov) |  | 50.8 | 48.0 |
+| 45 min | EUR | Low | HCOB Germany Composite PMI (Nov) |  | 52.1 | 53.9 |
+| 45 min | EUR | Moderate | HCOB Germany Services PMI (Nov) |  | 52.7 | 54.6 |
+| 50 min | EUR | Moderate | HCOB Eurozone Composite PMI (Nov) |  | 52.4 | 52.5 |
+| 50 min | EUR | Moderate | HCOB Eurozone Services PMI (Nov) |  | 53.1 | 53.0 |
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (Nov) |  | 50.5 | 52.2 |
 | 09:30 | GBP | Moderate | S&P Global Services PMI (Nov) |  | 50.5 | 52.3 |
 | 09:30 | CHF | Moderate | procure.ch Manufacturing PMI (Nov) |  | 48.6 | 48.2 |
