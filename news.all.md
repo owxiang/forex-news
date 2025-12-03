@@ -44,15 +44,15 @@
 | 13:00 | BRL | Low | S&P Global Services PMI (Nov) | 50.1 |  | 47.7 |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Nov) | -32K | 5K | 47K |
 | 13:15 | CAD | Low | Reserve Assets Total (Nov) | 127.8B |  | 128.8B |
-| 13:30 | USD | Moderate | Export Price Index (MoM) (Sep) | 0.0% | 0.1% | 0.1% |
 | 13:30 | USD | Low | Export Price Index (YoY) (Sep) | 3.8% |  | 3.2% |
+| 13:30 | USD | Moderate | Export Price Index (MoM) (Sep) | 0.0% | 0.1% | 0.1% |
 | 13:30 | USD | Moderate | Import Price Index (MoM) (Sep) | 0.0% | 0.1% | 0.1% |
 | 13:30 | USD | Low | Import Price Index (YoY) (Sep) | 0.3% |  | -0.1% |
 | 13:30 | CAD | Moderate | Labor Productivity (QoQ) (Q3) | 0.9% | 0.4% | -1.0% |
 | 13:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 14:15 | USD | Low | Capacity Utilization Rate (Sep) | 75.9% | 76.9% | 75.9% |
-| 14:15 | USD | Moderate | Industrial Production (YoY) (Sep) | 1.62% |  | 0.90% |
 | 14:15 | USD | Moderate | Industrial Production (MoM) (Sep) | 0.1% | 0.1% | -0.3% |
+| 14:15 | USD | Moderate | Industrial Production (YoY) (Sep) | 1.62% |  | 0.90% |
 | 14:15 | USD | Low | Manufacturing Production (MoM) (Sep) | 0.0% | 0.1% | 0.1% |
 | 14:30 | CAD | Low | Services PMI (Nov) | 44.30 |  | 50.50 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Nov) | 54.2 | 54.8 | 54.6 |
@@ -77,6 +77,7 @@
 | 15:30 | USD | Low | Gasoline Inventories | 4.518M |  | 2.513M |
 | 15:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 17:00 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
+| 17:30 | BRL | Low | Foreign Exchange Flows | -4.129B |  | -1.219B |
 | 19:30 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 21:00 | KRW | Low | FX Reserves - USD (Nov) |  |  | 428.82B |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | 576.5B |
