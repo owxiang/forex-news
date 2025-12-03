@@ -12,8 +12,8 @@
 | 00:30 | JPY | Moderate | au Jibun Bank Services PMI (Nov) | 53.2 | 53.1 | 53.1 |
 | 00:30 | HKD | Low | S&P Global Manufacturing PMI (Nov) | 52.9 |  | 51.2 |
 | 01:45 | CNY | Moderate | Caixin Services PMI (Nov) | 52.1 | 52.0 | 52.6 |
-| 05:00 | INR | Low | S&P Global Services PMI (Nov) |  | 59.5 | 58.9 |
-| 05:00 | INR | Low | Manufacturing & Services PMI (Nov) |  | 59.90 | 60.40 |
+| 48 min | INR | Low | S&P Global Services PMI (Nov) |  | 59.5 | 58.9 |
+| 48 min | INR | Low | Manufacturing & Services PMI (Nov) |  | 59.90 | 60.40 |
 | 07:00 | NOK | Low | Current Account (Q3) |  |  | 217.9B |
 | 07:15 | ZAR | Low | S&P Global Manufacturing PMI (Nov) |  |  | 48.8 |
 | 07:30 | CHF | Moderate | CPI (MoM) (Nov) |  | -0.1% | -0.3% |

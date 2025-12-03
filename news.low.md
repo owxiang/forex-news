@@ -8,8 +8,8 @@
 | 00:30 | AUD | GDP Final Consumption (Q3) | 0.6% |  | 0.9% |
 | 00:30 | JPY | Manufacturing & Services PMI (Nov) | 52.00 | 52.00 | 51.50 |
 | 00:30 | HKD | S&P Global Manufacturing PMI (Nov) | 52.9 |  | 51.2 |
-| 05:00 | INR | S&P Global Services PMI (Nov) |  | 59.5 | 58.9 |
-| 05:00 | INR | Manufacturing & Services PMI (Nov) |  | 59.90 | 60.40 |
+| 48 min | INR | S&P Global Services PMI (Nov) |  | 59.5 | 58.9 |
+| 48 min | INR | Manufacturing & Services PMI (Nov) |  | 59.90 | 60.40 |
 | 07:00 | NOK | Current Account (Q3) |  |  | 217.9B |
 | 07:15 | ZAR | S&P Global Manufacturing PMI (Nov) |  |  | 48.8 |
 | 07:30 | CHF | CPI (YoY) (Nov) |  | 0.1% | 0.1% |
