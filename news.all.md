@@ -63,18 +63,18 @@
 | 15:00 | USD | High | ISM Non-Manufacturing PMI (Nov) | 52.6 | 52.0 | 52.4 |
 | 15:00 | USD | High | ISM Non-Manufacturing Prices (Nov) | 65.4 | 68.0 | 70.0 |
 | 15:00 | USD | Low | Total Vehicle Sales (Nov) | 15.60M | 15.40M | 15.30M |
-| 21 min | USD | High | Crude Oil Inventories |  | -1.900M | 2.774M |
-| 21 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.211M |
-| 21 min | USD | Low | Crude Oil Imports |  |  | 1.046M |
-| 21 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.068M |
-| 21 min | USD | Low | Distillate Fuel Production |  |  | 0.087M |
-| 21 min | USD | Low | EIA Weekly Distillates Stocks |  |  | 1.147M |
-| 21 min | USD | Low | Gasoline Production |  |  | 0.286M |
-| 21 min | USD | Low | Heating Oil Stockpiles |  |  | 0.057M |
-| 21 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 2.3% |
-| 21 min | USD | Low | Gasoline Inventories |  |  | 2.513M |
-| 21 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 17:00 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
+| 15:30 | USD | High | Crude Oil Inventories | 0.574M | -1.900M | 2.774M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.433M |  | 0.211M |
+| 15:30 | USD | Low | Crude Oil Imports | -0.470M |  | 1.046M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | -0.457M |  | -0.068M |
+| 15:30 | USD | Low | Distillate Fuel Production | 0.053M |  | 0.087M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks | 2.059M |  | 1.147M |
+| 15:30 | USD | Low | Gasoline Production | 0.197M |  | 0.286M |
+| 15:30 | USD | Low | Heating Oil Stockpiles | -0.293M |  | 0.057M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 1.8% |  | 2.3% |
+| 15:30 | USD | Low | Gasoline Inventories | 4.518M |  | 2.513M |
+| 15:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 51 min | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 19:30 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 21:00 | KRW | Low | FX Reserves - USD (Nov) |  |  | 428.82B |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | 576.5B |

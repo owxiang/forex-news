@@ -25,6 +25,6 @@
 | 14:15 | USD | Industrial Production (YoY) (Sep) | 1.62% |  | 0.90% |
 | 14:45 | USD | S&P Global Composite PMI (Nov) | 54.2 | 54.8 | 54.6 |
 | 15:00 | USD | ISM Non-Manufacturing Employment (Nov) | 48.9 |  | 48.2 |
-| 21 min | USD | Cushing Crude Oil Inventories |  |  | -0.068M |
-| 21 min | EUR | ECB President Lagarde Speaks |  |  |  |
-| 17:00 | GBP | BoE MPC Member Mann Speaks |  |  |  |
+| 15:30 | USD | Cushing Crude Oil Inventories | -0.457M |  | -0.068M |
+| 15:30 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 51 min | GBP | BoE MPC Member Mann Speaks |  |  |  |
