@@ -10,9 +10,9 @@
 | 00:30 | HKD | S&P Global Manufacturing PMI (Nov) | 52.9 |  | 51.2 |
 | 05:00 | INR | S&P Global Services PMI (Nov) | 59.8 | 59.5 | 58.9 |
 | 05:00 | INR | Manufacturing & Services PMI (Nov) | 59.70 | 59.90 | 60.40 |
-| 50 min | NOK | Current Account (Q3) |  |  | 217.9B |
-| 07:15 | ZAR | S&P Global Manufacturing PMI (Nov) |  |  | 48.8 |
-| 07:30 | CHF | CPI (YoY) (Nov) |  | 0.1% | 0.1% |
+| 07:00 | NOK | Current Account (Q3) |  |  | 217.9B |
+| 6 min | ZAR | S&P Global Manufacturing PMI (Nov) |  |  | 48.8 |
+| 21 min | CHF | CPI (YoY) (Nov) |  | 0.1% | 0.1% |
 | 08:45 | EUR | HCOB Italy Composite PMI (Nov) |  | 53.2 | 53.1 |
 | 08:50 | EUR | HCOB France Composite PMI (Nov) |  | 49.9 | 47.7 |
 | 08:55 | EUR | HCOB Germany Composite PMI (Nov) |  | 52.1 | 53.9 |

@@ -14,10 +14,10 @@
 | 01:45 | CNY | Moderate | Caixin Services PMI (Nov) | 52.1 | 52.1 | 52.6 |
 | 05:00 | INR | Low | S&P Global Services PMI (Nov) | 59.8 | 59.5 | 58.9 |
 | 05:00 | INR | Low | Manufacturing & Services PMI (Nov) | 59.70 | 59.90 | 60.40 |
-| 50 min | NOK | Low | Current Account (Q3) |  |  | 217.9B |
-| 07:15 | ZAR | Low | S&P Global Manufacturing PMI (Nov) |  |  | 48.8 |
-| 07:30 | CHF | Moderate | CPI (MoM) (Nov) |  | -0.1% | -0.3% |
-| 07:30 | CHF | Low | CPI (YoY) (Nov) |  | 0.1% | 0.1% |
+| 07:00 | NOK | Low | Current Account (Q3) |  |  | 217.9B |
+| 6 min | ZAR | Low | S&P Global Manufacturing PMI (Nov) |  |  | 48.8 |
+| 21 min | CHF | Moderate | CPI (MoM) (Nov) |  | -0.1% | -0.3% |
+| 21 min | CHF | Low | CPI (YoY) (Nov) |  | 0.1% | 0.1% |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Nov) |  | 56.3 | 56.6 |
 | 08:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 08:45 | EUR | Low | HCOB Italy Composite PMI (Nov) |  | 53.2 | 53.1 |

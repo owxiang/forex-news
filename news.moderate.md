@@ -6,7 +6,7 @@
 | 00:30 | AUD | GDP (YoY) (Q3) | 2.1% | 2.2% | 2.0% |
 | 00:30 | JPY | au Jibun Bank Services PMI (Nov) | 53.2 | 53.1 | 53.1 |
 | 01:45 | CNY | Caixin Services PMI (Nov) | 52.1 | 52.1 | 52.6 |
-| 07:30 | CHF | CPI (MoM) (Nov) |  | -0.1% | -0.3% |
+| 21 min | CHF | CPI (MoM) (Nov) |  | -0.1% | -0.3% |
 | 08:15 | EUR | HCOB Spain Services PMI (Nov) |  | 56.3 | 56.6 |
 | 08:30 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 08:45 | EUR | HCOB Italy Services PMI (Nov) |  | 53.9 | 54.0 |
