@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | NZD | ANZ Commodity Price Index (MoM) | -1.6% |  | -0.3% |
-| 00:30 | AUD | GDP Capital Expenditure (Q3) | 3.0% |  | -0.8% |
+| 00:30 | AUD | GDP Capital Expenditure (Q3) | 3.0% |  | -0.7% |
 | 00:30 | AUD | GDP Chain Price Index (Q3) | 0.8% |  | -0.5% |
 | 00:30 | AUD | GDP Final Consumption (Q3) | 0.6% |  | 0.9% |
 | 00:30 | JPY | Manufacturing & Services PMI (Nov) | 52.00 | 52.00 | 51.50 |

@@ -3,15 +3,15 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | NZD | Low | ANZ Commodity Price Index (MoM) | -1.6% |  | -0.3% |
-| 00:30 | AUD | Moderate | GDP (QoQ) (Q3) | 0.4% | 0.7% | 0.6% |
-| 00:30 | AUD | Moderate | GDP (YoY) (Q3) | 2.1% | 2.2% | 1.8% |
-| 00:30 | AUD | Low | GDP Capital Expenditure (Q3) | 3.0% |  | -0.8% |
+| 00:30 | AUD | Moderate | GDP (QoQ) (Q3) | 0.4% | 0.7% | 0.7% |
+| 00:30 | AUD | Moderate | GDP (YoY) (Q3) | 2.1% | 2.2% | 2.0% |
+| 00:30 | AUD | Low | GDP Capital Expenditure (Q3) | 3.0% |  | -0.7% |
 | 00:30 | AUD | Low | GDP Chain Price Index (Q3) | 0.8% |  | -0.5% |
 | 00:30 | AUD | Low | GDP Final Consumption (Q3) | 0.6% |  | 0.9% |
 | 00:30 | JPY | Low | Manufacturing & Services PMI (Nov) | 52.00 | 52.00 | 51.50 |
 | 00:30 | JPY | Moderate | au Jibun Bank Services PMI (Nov) | 53.2 | 53.1 | 53.1 |
 | 00:30 | HKD | Low | S&P Global Manufacturing PMI (Nov) | 52.9 |  | 51.2 |
-| 01:45 | CNY | Moderate | Caixin Services PMI (Nov) |  | 51.9 | 52.6 |
+| 10 min | CNY | Moderate | Caixin Services PMI (Nov) |  | 51.9 | 52.6 |
 | 05:00 | INR | Low | S&P Global Services PMI (Nov) |  | 59.5 | 58.9 |
 | 05:00 | INR | Low | Manufacturing & Services PMI (Nov) |  | 59.90 | 60.40 |
 | 07:00 | NOK | Low | Current Account (Q3) |  |  | 217.9B |
