@@ -12,13 +12,13 @@
 | 05:00 | INR | Manufacturing & Services PMI (Nov) | 59.70 | 59.90 | 60.40 |
 | 07:15 | ZAR | S&P Global Manufacturing PMI (Nov) | 49.0 |  | 48.8 |
 | 07:30 | CHF | CPI (YoY) (Nov) | 0.0% | 0.1% | 0.1% |
-| 35 min | EUR | HCOB Italy Composite PMI (Nov) |  | 53.2 | 53.1 |
-| 40 min | EUR | HCOB France Composite PMI (Nov) |  | 49.9 | 47.7 |
-| 45 min | EUR | HCOB Germany Composite PMI (Nov) |  | 52.1 | 53.9 |
-| 09:40 | EUR | Spanish 6-Month Letras Auction |  |  | 1.944% |
-| 10:00 | NOK | House Price Index (YoY) (Nov) |  |  | 5.80% |
-| 10:00 | EUR | PPI (MoM) (Oct) |  | 0.1% | -0.1% |
-| 10:00 | EUR | PPI (YoY) (Oct) |  | -0.4% | -0.2% |
+| 08:45 | EUR | HCOB Italy Composite PMI (Nov) | 53.8 | 53.2 | 53.1 |
+| 08:50 | EUR | HCOB France Composite PMI (Nov) | 50.4 | 49.9 | 47.7 |
+| 08:55 | EUR | HCOB Germany Composite PMI (Nov) | 52.4 | 52.1 | 53.9 |
+| 30 min | EUR | Spanish 6-Month Letras Auction |  |  | 1.944% |
+| 50 min | NOK | House Price Index (YoY) (Nov) |  |  | 5.80% |
+| 50 min | EUR | PPI (MoM) (Oct) |  | 0.1% | -0.1% |
+| 50 min | EUR | PPI (YoY) (Oct) |  | -0.4% | -0.2% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.40% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 0.2% |
 | 12:00 | USD | MBA Purchase Index |  |  | 181.6 |

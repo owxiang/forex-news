@@ -17,23 +17,23 @@
 | 07:15 | ZAR | Low | S&P Global Manufacturing PMI (Nov) | 49.0 |  | 48.8 |
 | 07:30 | CHF | Moderate | CPI (MoM) (Nov) | -0.2% | -0.1% | -0.3% |
 | 07:30 | CHF | Low | CPI (YoY) (Nov) | 0.0% | 0.1% | 0.1% |
-| 5 min | EUR | Moderate | HCOB Spain Services PMI (Nov) |  | 56.3 | 56.6 |
-| 20 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 35 min | EUR | Low | HCOB Italy Composite PMI (Nov) |  | 53.2 | 53.1 |
-| 35 min | EUR | Moderate | HCOB Italy Services PMI (Nov) |  | 53.9 | 54.0 |
-| 40 min | EUR | Low | HCOB France Composite PMI (Nov) |  | 49.9 | 47.7 |
-| 40 min | EUR | Moderate | HCOB France Services PMI (Nov) |  | 50.8 | 48.0 |
-| 45 min | EUR | Low | HCOB Germany Composite PMI (Nov) |  | 52.1 | 53.9 |
-| 45 min | EUR | Moderate | HCOB Germany Services PMI (Nov) |  | 52.7 | 54.6 |
-| 50 min | EUR | Moderate | HCOB Eurozone Composite PMI (Nov) |  | 52.4 | 52.5 |
-| 50 min | EUR | Moderate | HCOB Eurozone Services PMI (Nov) |  | 53.1 | 53.0 |
-| 09:30 | GBP | Moderate | S&P Global Composite PMI (Nov) |  | 50.5 | 52.2 |
-| 09:30 | GBP | Moderate | S&P Global Services PMI (Nov) |  | 50.5 | 52.3 |
-| 09:30 | CHF | Moderate | procure.ch Manufacturing PMI (Nov) |  | 48.6 | 48.2 |
-| 09:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 1.944% |
-| 10:00 | NOK | Low | House Price Index (YoY) (Nov) |  |  | 5.80% |
-| 10:00 | EUR | Low | PPI (MoM) (Oct) |  | 0.1% | -0.1% |
-| 10:00 | EUR | Low | PPI (YoY) (Oct) |  | -0.4% | -0.2% |
+| 08:15 | EUR | Moderate | HCOB Spain Services PMI (Nov) | 55.6 | 56.3 | 56.6 |
+| 08:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 08:45 | EUR | Low | HCOB Italy Composite PMI (Nov) | 53.8 | 53.2 | 53.1 |
+| 08:45 | EUR | Moderate | HCOB Italy Services PMI (Nov) | 55.0 | 53.9 | 54.0 |
+| 08:50 | EUR | Low | HCOB France Composite PMI (Nov) | 50.4 | 49.9 | 47.7 |
+| 08:50 | EUR | Moderate | HCOB France Services PMI (Nov) | 51.4 | 50.8 | 48.0 |
+| 08:55 | EUR | Low | HCOB Germany Composite PMI (Nov) | 52.4 | 52.1 | 53.9 |
+| 08:55 | EUR | Moderate | HCOB Germany Services PMI (Nov) | 53.1 | 52.7 | 54.6 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Nov) | 52.8 | 52.4 | 52.5 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Nov) | 53.6 | 53.1 | 53.0 |
+| 20 min | GBP | Moderate | S&P Global Composite PMI (Nov) |  | 50.5 | 52.2 |
+| 20 min | GBP | Moderate | S&P Global Services PMI (Nov) |  | 50.5 | 52.3 |
+| 20 min | CHF | Moderate | procure.ch Manufacturing PMI (Nov) |  | 48.6 | 48.2 |
+| 30 min | EUR | Low | Spanish 6-Month Letras Auction |  |  | 1.944% |
+| 50 min | NOK | Low | House Price Index (YoY) (Nov) |  |  | 5.80% |
+| 50 min | EUR | Low | PPI (MoM) (Oct) |  | 0.1% | -0.1% |
+| 50 min | EUR | Low | PPI (YoY) (Oct) |  | -0.4% | -0.2% |
 | 10:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.40% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 0.2% |

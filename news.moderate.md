@@ -7,16 +7,16 @@
 | 00:30 | JPY | au Jibun Bank Services PMI (Nov) | 53.2 | 53.1 | 53.1 |
 | 01:45 | CNY | Caixin Services PMI (Nov) | 52.1 | 52.1 | 52.6 |
 | 07:30 | CHF | CPI (MoM) (Nov) | -0.2% | -0.1% | -0.3% |
-| 5 min | EUR | HCOB Spain Services PMI (Nov) |  | 56.3 | 56.6 |
-| 20 min | EUR | ECB President Lagarde Speaks |  |  |  |
-| 35 min | EUR | HCOB Italy Services PMI (Nov) |  | 53.9 | 54.0 |
-| 40 min | EUR | HCOB France Services PMI (Nov) |  | 50.8 | 48.0 |
-| 45 min | EUR | HCOB Germany Services PMI (Nov) |  | 52.7 | 54.6 |
-| 50 min | EUR | HCOB Eurozone Composite PMI (Nov) |  | 52.4 | 52.5 |
-| 50 min | EUR | HCOB Eurozone Services PMI (Nov) |  | 53.1 | 53.0 |
-| 09:30 | GBP | S&P Global Composite PMI (Nov) |  | 50.5 | 52.2 |
-| 09:30 | GBP | S&P Global Services PMI (Nov) |  | 50.5 | 52.3 |
-| 09:30 | CHF | procure.ch Manufacturing PMI (Nov) |  | 48.6 | 48.2 |
+| 08:15 | EUR | HCOB Spain Services PMI (Nov) | 55.6 | 56.3 | 56.6 |
+| 08:30 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 08:45 | EUR | HCOB Italy Services PMI (Nov) | 55.0 | 53.9 | 54.0 |
+| 08:50 | EUR | HCOB France Services PMI (Nov) | 51.4 | 50.8 | 48.0 |
+| 08:55 | EUR | HCOB Germany Services PMI (Nov) | 53.1 | 52.7 | 54.6 |
+| 09:00 | EUR | HCOB Eurozone Composite PMI (Nov) | 52.8 | 52.4 | 52.5 |
+| 09:00 | EUR | HCOB Eurozone Services PMI (Nov) | 53.6 | 53.1 | 53.0 |
+| 20 min | GBP | S&P Global Composite PMI (Nov) |  | 50.5 | 52.2 |
+| 20 min | GBP | S&P Global Services PMI (Nov) |  | 50.5 | 52.3 |
+| 20 min | CHF | procure.ch Manufacturing PMI (Nov) |  | 48.6 | 48.2 |
 | 10:30 | EUR | ECB's Lane Speaks |  |  |  |
 | 13:30 | USD | Export Price Index (MoM) (Sep) |  | 0.1% | 0.3% |
 | 13:30 | USD | Import Price Index (MoM) (Sep) |  | 0.1% | 0.3% |
