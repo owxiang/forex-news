@@ -19,15 +19,15 @@
 | 10:00 | NOK | House Price Index (YoY) (Nov) | 6.20% |  | 5.80% |
 | 10:00 | EUR | PPI (MoM) (Oct) | 0.1% | 0.1% | -0.1% |
 | 10:00 | EUR | PPI (YoY) (Oct) | -0.5% | -0.4% | -0.2% |
-| 53 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.40% |
-| 53 min | USD | MBA Mortgage Applications (WoW) |  |  | 0.2% |
-| 53 min | USD | MBA Purchase Index |  |  | 181.6 |
-| 53 min | USD | Mortgage Market Index |  |  | 317.6 |
-| 53 min | USD | Mortgage Refinance Index |  |  | 1,090.4 |
-| 53 min | MXN | Gross Fixed Investments (MoM) (Sep) |  | -1.40% | -2.70% |
-| 53 min | MXN | Gross Fixed Investments (YoY) (Sep) |  | -7.70% | -10.40% |
-| 13:00 | BRL | S&P Global Composite PMI (Nov) |  |  | 48.2 |
-| 13:00 | BRL | S&P Global Services PMI (Nov) |  |  | 47.7 |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.32% |  | 6.40% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | -1.4% |  | 0.2% |
+| 12:00 | USD | MBA Purchase Index | 186.1 |  | 181.6 |
+| 12:00 | USD | Mortgage Market Index | 313.0 |  | 317.6 |
+| 12:00 | USD | Mortgage Refinance Index | 1,041.9 |  | 1,090.4 |
+| 12:00 | MXN | Gross Fixed Investments (MoM) (Sep) | -0.30% | -1.40% | -2.70% |
+| 12:00 | MXN | Gross Fixed Investments (YoY) (Sep) | -6.70% | -7.70% | -10.40% |
+| 47 min | BRL | S&P Global Composite PMI (Nov) |  |  | 48.2 |
+| 47 min | BRL | S&P Global Services PMI (Nov) |  |  | 47.7 |
 | 13:15 | CAD | Reserve Assets Total (Nov) |  |  | 128.8B |
 | 13:30 | USD | Export Price Index (YoY) (Sep) |  |  | 3.4% |
 | 13:30 | USD | Import Price Index (YoY) (Sep) |  |  | 0.0% |
