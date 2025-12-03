@@ -30,8 +30,8 @@
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (Nov) | 51.2 | 50.5 | 52.2 |
 | 09:30 | GBP | Moderate | S&P Global Services PMI (Nov) | 51.3 | 50.5 | 52.3 |
 | 10:00 | NOK | Low | House Price Index (YoY) (Nov) | 6.20% |  | 5.80% |
-| 10:00 | EUR | Low | PPI (YoY) (Oct) | -0.5% | -0.4% | -0.2% |
 | 10:00 | EUR | Low | PPI (MoM) (Oct) | 0.1% | 0.1% | -0.1% |
+| 10:00 | EUR | Low | PPI (YoY) (Oct) | -0.5% | -0.4% | -0.2% |
 | 10:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.32% |  | 6.40% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) | -1.4% |  | 0.2% |
@@ -51,12 +51,14 @@
 | 13:30 | CAD | Moderate | Labor Productivity (QoQ) (Q3) | 0.9% | 0.4% | -1.0% |
 | 13:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 14:15 | USD | Low | Capacity Utilization Rate (Sep) | 75.9% | 76.9% | 75.9% |
-| 14:15 | USD | Moderate | Industrial Production (MoM) (Sep) | 0.1% | 0.1% | -0.3% |
 | 14:15 | USD | Moderate | Industrial Production (YoY) (Sep) | 1.62% |  | 0.90% |
+| 14:15 | USD | Moderate | Industrial Production (MoM) (Sep) | 0.1% | 0.1% | -0.3% |
 | 14:15 | USD | Low | Manufacturing Production (MoM) (Sep) | 0.0% | 0.1% | 0.1% |
 | 14:30 | CAD | Low | Services PMI (Nov) | 44.30 |  | 50.50 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Nov) | 54.2 | 54.8 | 54.6 |
 | 14:45 | USD | High | S&P Global Services PMI (Nov) | 54.1 | 55.0 | 54.8 |
+| 15:00 | USD | Low | All Car Sales (Sep) | 2.65M |  | 2.61M |
+| 15:00 | USD | Low | All Truck Sales (Sep) | 13.63M |  | 13.40M |
 | 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Nov) | 54.5 |  | 54.3 |
 | 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Nov) | 48.9 |  | 48.2 |
 | 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Nov) | 52.9 |  | 56.2 |
@@ -74,7 +76,7 @@
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 1.8% |  | 2.3% |
 | 15:30 | USD | Low | Gasoline Inventories | 4.518M |  | 2.513M |
 | 15:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 51 min | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
+| 17:00 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 19:30 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 21:00 | KRW | Low | FX Reserves - USD (Nov) |  |  | 428.82B |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | 576.5B |

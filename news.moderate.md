@@ -21,10 +21,10 @@
 | 13:30 | USD | Import Price Index (MoM) (Sep) | 0.0% | 0.1% | 0.1% |
 | 13:30 | CAD | Labor Productivity (QoQ) (Q3) | 0.9% | 0.4% | -1.0% |
 | 13:30 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 14:15 | USD | Industrial Production (MoM) (Sep) | 0.1% | 0.1% | -0.3% |
 | 14:15 | USD | Industrial Production (YoY) (Sep) | 1.62% |  | 0.90% |
+| 14:15 | USD | Industrial Production (MoM) (Sep) | 0.1% | 0.1% | -0.3% |
 | 14:45 | USD | S&P Global Composite PMI (Nov) | 54.2 | 54.8 | 54.6 |
 | 15:00 | USD | ISM Non-Manufacturing Employment (Nov) | 48.9 |  | 48.2 |
 | 15:30 | USD | Cushing Crude Oil Inventories | -0.457M |  | -0.068M |
 | 15:30 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 51 min | GBP | BoE MPC Member Mann Speaks |  |  |  |
+| 17:00 | GBP | BoE MPC Member Mann Speaks |  |  |  |

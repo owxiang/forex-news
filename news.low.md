@@ -16,8 +16,8 @@
 | 08:50 | EUR | HCOB France Composite PMI (Nov) | 50.4 | 49.9 | 47.7 |
 | 08:55 | EUR | HCOB Germany Composite PMI (Nov) | 52.4 | 52.1 | 53.9 |
 | 10:00 | NOK | House Price Index (YoY) (Nov) | 6.20% |  | 5.80% |
-| 10:00 | EUR | PPI (YoY) (Oct) | -0.5% | -0.4% | -0.2% |
 | 10:00 | EUR | PPI (MoM) (Oct) | 0.1% | 0.1% | -0.1% |
+| 10:00 | EUR | PPI (YoY) (Oct) | -0.5% | -0.4% | -0.2% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate | 6.32% |  | 6.40% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) | -1.4% |  | 0.2% |
 | 12:00 | USD | MBA Purchase Index | 186.1 |  | 181.6 |
@@ -33,6 +33,8 @@
 | 14:15 | USD | Capacity Utilization Rate (Sep) | 75.9% | 76.9% | 75.9% |
 | 14:15 | USD | Manufacturing Production (MoM) (Sep) | 0.0% | 0.1% | 0.1% |
 | 14:30 | CAD | Services PMI (Nov) | 44.30 |  | 50.50 |
+| 15:00 | USD | All Car Sales (Sep) | 2.65M |  | 2.61M |
+| 15:00 | USD | All Truck Sales (Sep) | 13.63M |  | 13.40M |
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Nov) | 54.5 |  | 54.3 |
 | 15:00 | USD | ISM Non-Manufacturing New Orders (Nov) | 52.9 |  | 56.2 |
 | 15:00 | USD | Total Vehicle Sales (Nov) | 15.60M | 15.40M | 15.30M |
