@@ -47,6 +47,6 @@
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 1.8% |  | 2.3% |
 | 15:30 | USD | Gasoline Inventories | 4.518M |  | 2.513M |
 | 17:30 | BRL | Foreign Exchange Flows | -4.129B |  | -1.219B |
-| 52 min | KRW | FX Reserves - USD (Nov) |  |  | 428.82B |
+| 21:00 | KRW | FX Reserves - USD (Nov) |  |  | 428.82B |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | 576.5B |
 | 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -348.7B |
