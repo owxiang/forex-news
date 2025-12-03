@@ -78,5 +78,5 @@
 | 17:00 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 17:30 | BRL | Low | Foreign Exchange Flows | -4.129B |  | -1.219B |
 | 19:30 | USD | High | U.S. President Trump Speaks |  |  |  |
-| 23:50 | JPY | Low | Foreign Bonds Buying |  |  | 576.5B |
-| 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -348.7B |
+| 44 min | JPY | Low | Foreign Bonds Buying |  |  | 576.5B |
+| 44 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -348.7B |
