@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:15 | USD | ADP Nonfarm Employment Change (Nov) |  | 5K | 42K |
+| 13:15 | USD | ADP Nonfarm Employment Change (Nov) | -32K | 5K | 47K |
 | 14:45 | USD | S&P Global Services PMI (Nov) |  | 55.0 | 54.8 |
 | 15:00 | USD | ISM Non-Manufacturing PMI (Nov) |  | 52.0 | 52.4 |
 | 15:00 | USD | ISM Non-Manufacturing Prices (Nov) |  |  | 70.0 |

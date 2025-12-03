@@ -42,20 +42,20 @@
 | 12:00 | USD | Low | Mortgage Refinance Index | 1,041.9 |  | 1,090.4 |
 | 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Sep) | -0.30% | -1.40% | -2.70% |
 | 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Sep) | -6.70% | -7.70% | -10.40% |
-| 47 min | BRL | Low | S&P Global Composite PMI (Nov) |  |  | 48.2 |
-| 47 min | BRL | Low | S&P Global Services PMI (Nov) |  |  | 47.7 |
-| 13:15 | USD | High | ADP Nonfarm Employment Change (Nov) |  | 5K | 42K |
+| 13:00 | BRL | Low | S&P Global Composite PMI (Nov) | 49.6 |  | 48.2 |
+| 13:00 | BRL | Low | S&P Global Services PMI (Nov) | 50.1 |  | 47.7 |
+| 13:15 | USD | High | ADP Nonfarm Employment Change (Nov) | -32K | 5K | 47K |
 | 13:15 | CAD | Low | Reserve Assets Total (Nov) |  |  | 128.8B |
-| 13:30 | USD | Moderate | Export Price Index (MoM) (Sep) |  | 0.1% | 0.3% |
-| 13:30 | USD | Low | Export Price Index (YoY) (Sep) |  |  | 3.4% |
-| 13:30 | USD | Moderate | Import Price Index (MoM) (Sep) |  | 0.1% | 0.3% |
-| 13:30 | USD | Low | Import Price Index (YoY) (Sep) |  |  | 0.0% |
-| 13:30 | CAD | Moderate | Labor Productivity (QoQ) (Q3) |  | 0.4% | -1.0% |
-| 13:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 14:15 | USD | Low | Capacity Utilization Rate (Sep) |  | 76.9% | 77.4% |
-| 14:15 | USD | Moderate | Industrial Production (MoM) (Sep) |  | 0.1% | 0.1% |
-| 14:15 | USD | Moderate | Industrial Production (YoY) (Sep) |  |  | 0.84% |
-| 14:15 | USD | Low | Manufacturing Production (MoM) (Sep) |  | 0.1% | 0.2% |
+| 12 min | USD | Moderate | Export Price Index (MoM) (Sep) |  | 0.1% | 0.3% |
+| 12 min | USD | Low | Export Price Index (YoY) (Sep) |  |  | 3.4% |
+| 12 min | USD | Moderate | Import Price Index (MoM) (Sep) |  | 0.1% | 0.3% |
+| 12 min | USD | Low | Import Price Index (YoY) (Sep) |  |  | 0.0% |
+| 12 min | CAD | Moderate | Labor Productivity (QoQ) (Q3) |  | 0.4% | -1.0% |
+| 12 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 57 min | USD | Low | Capacity Utilization Rate (Sep) |  | 76.9% | 77.4% |
+| 57 min | USD | Moderate | Industrial Production (MoM) (Sep) |  | 0.1% | 0.1% |
+| 57 min | USD | Moderate | Industrial Production (YoY) (Sep) |  |  | 0.84% |
+| 57 min | USD | Low | Manufacturing Production (MoM) (Sep) |  | 0.1% | 0.2% |
 | 14:30 | CAD | Low | Services PMI (Nov) |  |  | 50.50 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Nov) |  | 54.8 | 54.6 |
 | 14:45 | USD | High | S&P Global Services PMI (Nov) |  | 55.0 | 54.8 |
