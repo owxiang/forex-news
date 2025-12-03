@@ -37,16 +37,14 @@
 | 15:00 | USD | All Truck Sales (Sep) | 13.63M |  | 13.40M |
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Nov) | 54.5 |  | 54.3 |
 | 15:00 | USD | ISM Non-Manufacturing New Orders (Nov) | 52.9 |  | 56.2 |
-| 15:00 | USD | Total Vehicle Sales (Nov) | 15.60M | 15.40M | 15.30M |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) | 0.433M |  | 0.211M |
 | 15:30 | USD | Crude Oil Imports | -0.470M |  | 1.046M |
 | 15:30 | USD | Distillate Fuel Production | 0.053M |  | 0.087M |
-| 15:30 | USD | EIA Weekly Distillates Stocks | 2.059M |  | 1.147M |
+| 15:30 | USD | EIA Weekly Distillates Stocks | 2.059M | 0.700M | 1.147M |
 | 15:30 | USD | Gasoline Production | 0.197M |  | 0.286M |
 | 15:30 | USD | Heating Oil Stockpiles | -0.293M |  | 0.057M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 1.8% |  | 2.3% |
-| 15:30 | USD | Gasoline Inventories | 4.518M |  | 2.513M |
+| 15:30 | USD | Gasoline Inventories | 4.518M | 1.500M | 2.513M |
 | 17:30 | BRL | Foreign Exchange Flows | -4.129B |  | -1.219B |
-| 21:00 | KRW | FX Reserves - USD (Nov) |  |  | 428.82B |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | 576.5B |
 | 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -348.7B |

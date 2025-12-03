@@ -44,15 +44,15 @@
 | 13:00 | BRL | Low | S&P Global Services PMI (Nov) | 50.1 |  | 47.7 |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Nov) | -32K | 5K | 47K |
 | 13:15 | CAD | Low | Reserve Assets Total (Nov) | 127.8B |  | 128.8B |
-| 13:30 | USD | Low | Export Price Index (YoY) (Sep) | 3.8% |  | 3.2% |
 | 13:30 | USD | Moderate | Export Price Index (MoM) (Sep) | 0.0% | 0.1% | 0.1% |
-| 13:30 | USD | Moderate | Import Price Index (MoM) (Sep) | 0.0% | 0.1% | 0.1% |
+| 13:30 | USD | Low | Export Price Index (YoY) (Sep) | 3.8% |  | 3.2% |
 | 13:30 | USD | Low | Import Price Index (YoY) (Sep) | 0.3% |  | -0.1% |
+| 13:30 | USD | Moderate | Import Price Index (MoM) (Sep) | 0.0% | 0.1% | 0.1% |
 | 13:30 | CAD | Moderate | Labor Productivity (QoQ) (Q3) | 0.9% | 0.4% | -1.0% |
 | 13:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 14:15 | USD | Low | Capacity Utilization Rate (Sep) | 75.9% | 76.9% | 75.9% |
-| 14:15 | USD | Moderate | Industrial Production (MoM) (Sep) | 0.1% | 0.1% | -0.3% |
 | 14:15 | USD | Moderate | Industrial Production (YoY) (Sep) | 1.62% |  | 0.90% |
+| 14:15 | USD | Moderate | Industrial Production (MoM) (Sep) | 0.1% | 0.1% | -0.3% |
 | 14:15 | USD | Low | Manufacturing Production (MoM) (Sep) | 0.0% | 0.1% | 0.1% |
 | 14:30 | CAD | Low | Services PMI (Nov) | 44.30 |  | 50.50 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Nov) | 54.2 | 54.8 | 54.6 |
@@ -64,21 +64,19 @@
 | 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Nov) | 52.9 |  | 56.2 |
 | 15:00 | USD | High | ISM Non-Manufacturing PMI (Nov) | 52.6 | 52.0 | 52.4 |
 | 15:00 | USD | High | ISM Non-Manufacturing Prices (Nov) | 65.4 | 68.0 | 70.0 |
-| 15:00 | USD | Low | Total Vehicle Sales (Nov) | 15.60M | 15.40M | 15.30M |
 | 15:30 | USD | High | Crude Oil Inventories | 0.574M | -1.900M | 2.774M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.433M |  | 0.211M |
 | 15:30 | USD | Low | Crude Oil Imports | -0.470M |  | 1.046M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories | -0.457M |  | -0.068M |
 | 15:30 | USD | Low | Distillate Fuel Production | 0.053M |  | 0.087M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks | 2.059M |  | 1.147M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks | 2.059M | 0.700M | 1.147M |
 | 15:30 | USD | Low | Gasoline Production | 0.197M |  | 0.286M |
 | 15:30 | USD | Low | Heating Oil Stockpiles | -0.293M |  | 0.057M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 1.8% |  | 2.3% |
-| 15:30 | USD | Low | Gasoline Inventories | 4.518M |  | 2.513M |
+| 15:30 | USD | Low | Gasoline Inventories | 4.518M | 1.500M | 2.513M |
 | 15:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 17:00 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 17:30 | BRL | Low | Foreign Exchange Flows | -4.129B |  | -1.219B |
 | 19:30 | USD | High | U.S. President Trump Speaks |  |  |  |
-| 21:00 | KRW | Low | FX Reserves - USD (Nov) |  |  | 428.82B |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | 576.5B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -348.7B |
