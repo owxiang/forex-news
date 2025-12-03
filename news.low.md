@@ -28,15 +28,15 @@
 | 12:00 | MXN | Gross Fixed Investments (YoY) (Sep) | -6.70% | -7.70% | -10.40% |
 | 13:00 | BRL | S&P Global Composite PMI (Nov) | 49.6 |  | 48.2 |
 | 13:00 | BRL | S&P Global Services PMI (Nov) | 50.1 |  | 47.7 |
-| 13:15 | CAD | Reserve Assets Total (Nov) |  |  | 128.8B |
-| 12 min | USD | Export Price Index (YoY) (Sep) |  |  | 3.4% |
-| 12 min | USD | Import Price Index (YoY) (Sep) |  |  | 0.0% |
-| 57 min | USD | Capacity Utilization Rate (Sep) |  | 76.9% | 77.4% |
-| 57 min | USD | Manufacturing Production (MoM) (Sep) |  | 0.1% | 0.2% |
-| 14:30 | CAD | Services PMI (Nov) |  |  | 50.50 |
-| 15:00 | USD | ISM Non-Manufacturing Business Activity (Nov) |  |  | 54.3 |
-| 15:00 | USD | ISM Non-Manufacturing New Orders (Nov) |  |  | 56.2 |
-| 15:00 | USD | Total Vehicle Sales (Nov) |  | 15.40M | 15.30M |
+| 13:15 | CAD | Reserve Assets Total (Nov) | 127.8B |  | 128.8B |
+| 13:30 | USD | Export Price Index (YoY) (Sep) |  |  | 3.4% |
+| 13:30 | USD | Import Price Index (YoY) (Sep) |  |  | 0.0% |
+| 8 min | USD | Capacity Utilization Rate (Sep) |  | 76.9% | 77.4% |
+| 8 min | USD | Manufacturing Production (MoM) (Sep) |  | 0.1% | 0.2% |
+| 23 min | CAD | Services PMI (Nov) |  |  | 50.50 |
+| 53 min | USD | ISM Non-Manufacturing Business Activity (Nov) |  |  | 54.3 |
+| 53 min | USD | ISM Non-Manufacturing New Orders (Nov) |  |  | 56.2 |
+| 53 min | USD | Total Vehicle Sales (Nov) |  | 15.40M | 15.30M |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.211M |
 | 15:30 | USD | Crude Oil Imports |  |  | 1.046M |
 | 15:30 | USD | Distillate Fuel Production |  |  | 0.087M |

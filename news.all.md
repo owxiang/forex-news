@@ -45,27 +45,27 @@
 | 13:00 | BRL | Low | S&P Global Composite PMI (Nov) | 49.6 |  | 48.2 |
 | 13:00 | BRL | Low | S&P Global Services PMI (Nov) | 50.1 |  | 47.7 |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Nov) | -32K | 5K | 47K |
-| 13:15 | CAD | Low | Reserve Assets Total (Nov) |  |  | 128.8B |
-| 12 min | USD | Moderate | Export Price Index (MoM) (Sep) |  | 0.1% | 0.3% |
-| 12 min | USD | Low | Export Price Index (YoY) (Sep) |  |  | 3.4% |
-| 12 min | USD | Moderate | Import Price Index (MoM) (Sep) |  | 0.1% | 0.3% |
-| 12 min | USD | Low | Import Price Index (YoY) (Sep) |  |  | 0.0% |
-| 12 min | CAD | Moderate | Labor Productivity (QoQ) (Q3) |  | 0.4% | -1.0% |
-| 12 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 57 min | USD | Low | Capacity Utilization Rate (Sep) |  | 76.9% | 77.4% |
-| 57 min | USD | Moderate | Industrial Production (MoM) (Sep) |  | 0.1% | 0.1% |
-| 57 min | USD | Moderate | Industrial Production (YoY) (Sep) |  |  | 0.84% |
-| 57 min | USD | Low | Manufacturing Production (MoM) (Sep) |  | 0.1% | 0.2% |
-| 14:30 | CAD | Low | Services PMI (Nov) |  |  | 50.50 |
-| 14:45 | USD | Moderate | S&P Global Composite PMI (Nov) |  | 54.8 | 54.6 |
-| 14:45 | USD | High | S&P Global Services PMI (Nov) |  | 55.0 | 54.8 |
-| 15:00 | USD | Moderate | Construction Spending (MoM) (Sep) |  |  | 0.2% |
-| 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Nov) |  |  | 54.3 |
-| 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Nov) |  |  | 48.2 |
-| 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Nov) |  |  | 56.2 |
-| 15:00 | USD | High | ISM Non-Manufacturing PMI (Nov) |  | 52.0 | 52.4 |
-| 15:00 | USD | High | ISM Non-Manufacturing Prices (Nov) |  |  | 70.0 |
-| 15:00 | USD | Low | Total Vehicle Sales (Nov) |  | 15.40M | 15.30M |
+| 13:15 | CAD | Low | Reserve Assets Total (Nov) | 127.8B |  | 128.8B |
+| 13:30 | USD | Moderate | Export Price Index (MoM) (Sep) | 0.0% | 0.1% | 0.1% |
+| 13:30 | USD | Low | Export Price Index (YoY) (Sep) |  |  | 3.4% |
+| 13:30 | USD | Moderate | Import Price Index (MoM) (Sep) | 0.0% | 0.1% | 0.1% |
+| 13:30 | USD | Low | Import Price Index (YoY) (Sep) |  |  | 0.0% |
+| 13:30 | CAD | Moderate | Labor Productivity (QoQ) (Q3) | 0.9% | 0.4% | -1.0% |
+| 13:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 8 min | USD | Low | Capacity Utilization Rate (Sep) |  | 76.9% | 77.4% |
+| 8 min | USD | Moderate | Industrial Production (MoM) (Sep) |  | 0.1% | 0.1% |
+| 8 min | USD | Moderate | Industrial Production (YoY) (Sep) |  |  | 0.84% |
+| 8 min | USD | Low | Manufacturing Production (MoM) (Sep) |  | 0.1% | 0.2% |
+| 23 min | CAD | Low | Services PMI (Nov) |  |  | 50.50 |
+| 38 min | USD | Moderate | S&P Global Composite PMI (Nov) |  | 54.8 | 54.6 |
+| 38 min | USD | High | S&P Global Services PMI (Nov) |  | 55.0 | 54.8 |
+| 53 min | USD | Moderate | Construction Spending (MoM) (Sep) |  |  | 0.2% |
+| 53 min | USD | Low | ISM Non-Manufacturing Business Activity (Nov) |  |  | 54.3 |
+| 53 min | USD | Moderate | ISM Non-Manufacturing Employment (Nov) |  |  | 48.2 |
+| 53 min | USD | Low | ISM Non-Manufacturing New Orders (Nov) |  |  | 56.2 |
+| 53 min | USD | High | ISM Non-Manufacturing PMI (Nov) |  | 52.0 | 52.4 |
+| 53 min | USD | High | ISM Non-Manufacturing Prices (Nov) |  |  | 70.0 |
+| 53 min | USD | Low | Total Vehicle Sales (Nov) |  | 15.40M | 15.30M |
 | 15:30 | USD | High | Crude Oil Inventories |  | -1.900M | 2.774M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.211M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 1.046M |
