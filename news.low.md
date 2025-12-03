@@ -8,32 +8,32 @@
 | 00:30 | AUD | GDP Final Consumption (Q3) | 0.6% |  | 0.9% |
 | 00:30 | JPY | Manufacturing & Services PMI (Nov) | 52.00 | 52.00 | 51.50 |
 | 00:30 | HKD | S&P Global Manufacturing PMI (Nov) | 52.9 |  | 51.2 |
-| 48 min | INR | S&P Global Services PMI (Nov) |  | 59.5 | 58.9 |
-| 48 min | INR | Manufacturing & Services PMI (Nov) |  | 59.90 | 60.40 |
+| 05:00 | INR | S&P Global Services PMI (Nov) | 59.8 | 59.5 | 58.9 |
+| 05:00 | INR | Manufacturing & Services PMI (Nov) | 59.70 | 59.90 | 60.40 |
 | 07:00 | NOK | Current Account (Q3) |  |  | 217.9B |
 | 07:15 | ZAR | S&P Global Manufacturing PMI (Nov) |  |  | 48.8 |
 | 07:30 | CHF | CPI (YoY) (Nov) |  | 0.1% | 0.1% |
-| 08:45 | EUR | HCOB Italy Composite PMI (Nov) |  | 53.1 | 53.1 |
+| 08:45 | EUR | HCOB Italy Composite PMI (Nov) |  | 53.2 | 53.1 |
 | 08:50 | EUR | HCOB France Composite PMI (Nov) |  | 49.9 | 47.7 |
 | 08:55 | EUR | HCOB Germany Composite PMI (Nov) |  | 52.1 | 53.9 |
 | 09:40 | EUR | Spanish 6-Month Letras Auction |  |  | 1.944% |
 | 10:00 | NOK | House Price Index (YoY) (Nov) |  |  | 5.80% |
 | 10:00 | EUR | PPI (MoM) (Oct) |  | 0.2% | -0.1% |
-| 10:00 | EUR | PPI (YoY) (Oct) |  |  | -0.2% |
+| 10:00 | EUR | PPI (YoY) (Oct) |  | -0.4% | -0.2% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.40% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 0.2% |
 | 12:00 | USD | MBA Purchase Index |  |  | 181.6 |
 | 12:00 | USD | Mortgage Market Index |  |  | 317.6 |
 | 12:00 | USD | Mortgage Refinance Index |  |  | 1,090.4 |
-| 12:00 | MXN | Gross Fixed Investments (MoM) (Sep) |  | -1.50% | -2.70% |
+| 12:00 | MXN | Gross Fixed Investments (MoM) (Sep) |  | -1.40% | -2.70% |
 | 12:00 | MXN | Gross Fixed Investments (YoY) (Sep) |  | -7.70% | -10.40% |
 | 13:00 | BRL | S&P Global Composite PMI (Nov) |  |  | 48.2 |
 | 13:00 | BRL | S&P Global Services PMI (Nov) |  |  | 47.7 |
 | 13:15 | CAD | Reserve Assets Total (Nov) |  |  | 128.8B |
 | 13:30 | USD | Export Price Index (YoY) (Sep) |  |  | 3.4% |
 | 13:30 | USD | Import Price Index (YoY) (Sep) |  |  | 0.0% |
-| 14:15 | USD | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
-| 14:15 | USD | Manufacturing Production (MoM) (Sep) |  |  | 0.2% |
+| 14:15 | USD | Capacity Utilization Rate (Sep) |  | 76.9% | 77.4% |
+| 14:15 | USD | Manufacturing Production (MoM) (Sep) |  | 0.1% | 0.2% |
 | 14:30 | CAD | Services PMI (Nov) |  |  | 50.50 |
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Nov) |  |  | 54.3 |
 | 15:00 | USD | ISM Non-Manufacturing New Orders (Nov) |  |  | 56.2 |

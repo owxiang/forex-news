@@ -18,7 +18,7 @@
 | 09:30 | GBP | S&P Global Services PMI (Nov) |  | 50.5 | 52.3 |
 | 09:30 | CHF | procure.ch Manufacturing PMI (Nov) |  | 48.6 | 48.2 |
 | 10:30 | EUR | ECB's Lane Speaks |  |  |  |
-| 13:30 | USD | Export Price Index (MoM) (Sep) |  | 0.0% | 0.3% |
+| 13:30 | USD | Export Price Index (MoM) (Sep) |  | 0.1% | 0.3% |
 | 13:30 | USD | Import Price Index (MoM) (Sep) |  | 0.1% | 0.3% |
 | 13:30 | CAD | Labor Productivity (QoQ) (Q3) |  | 0.3% | -1.0% |
 | 13:30 | EUR | ECB President Lagarde Speaks |  |  |  |
