@@ -15,10 +15,9 @@
 | 08:45 | EUR | HCOB Italy Composite PMI (Nov) | 53.8 | 53.2 | 53.1 |
 | 08:50 | EUR | HCOB France Composite PMI (Nov) | 50.4 | 49.9 | 47.7 |
 | 08:55 | EUR | HCOB Germany Composite PMI (Nov) | 52.4 | 52.1 | 53.9 |
-| 09:40 | EUR | Spanish 6-Month Letras Auction |  |  | 1.944% |
 | 10:00 | NOK | House Price Index (YoY) (Nov) | 6.20% |  | 5.80% |
-| 10:00 | EUR | PPI (MoM) (Oct) | 0.1% | 0.1% | -0.1% |
 | 10:00 | EUR | PPI (YoY) (Oct) | -0.5% | -0.4% | -0.2% |
+| 10:00 | EUR | PPI (MoM) (Oct) | 0.1% | 0.1% | -0.1% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate | 6.32% |  | 6.40% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) | -1.4% |  | 0.2% |
 | 12:00 | USD | MBA Purchase Index | 186.1 |  | 181.6 |
@@ -29,22 +28,22 @@
 | 13:00 | BRL | S&P Global Composite PMI (Nov) | 49.6 |  | 48.2 |
 | 13:00 | BRL | S&P Global Services PMI (Nov) | 50.1 |  | 47.7 |
 | 13:15 | CAD | Reserve Assets Total (Nov) | 127.8B |  | 128.8B |
-| 13:30 | USD | Export Price Index (YoY) (Sep) |  |  | 3.4% |
-| 13:30 | USD | Import Price Index (YoY) (Sep) |  |  | 0.0% |
-| 8 min | USD | Capacity Utilization Rate (Sep) |  | 76.9% | 77.4% |
-| 8 min | USD | Manufacturing Production (MoM) (Sep) |  | 0.1% | 0.2% |
-| 23 min | CAD | Services PMI (Nov) |  |  | 50.50 |
-| 53 min | USD | ISM Non-Manufacturing Business Activity (Nov) |  |  | 54.3 |
-| 53 min | USD | ISM Non-Manufacturing New Orders (Nov) |  |  | 56.2 |
-| 53 min | USD | Total Vehicle Sales (Nov) |  | 15.40M | 15.30M |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.211M |
-| 15:30 | USD | Crude Oil Imports |  |  | 1.046M |
-| 15:30 | USD | Distillate Fuel Production |  |  | 0.087M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | 1.147M |
-| 15:30 | USD | Gasoline Production |  |  | 0.286M |
-| 15:30 | USD | Heating Oil Stockpiles |  |  | 0.057M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 2.3% |
-| 15:30 | USD | Gasoline Inventories |  |  | 2.513M |
+| 13:30 | USD | Export Price Index (YoY) (Sep) | 3.8% |  | 3.2% |
+| 13:30 | USD | Import Price Index (YoY) (Sep) | 0.3% |  | -0.1% |
+| 14:15 | USD | Capacity Utilization Rate (Sep) | 75.9% | 76.9% | 75.9% |
+| 14:15 | USD | Manufacturing Production (MoM) (Sep) | 0.0% | 0.1% | 0.1% |
+| 14:30 | CAD | Services PMI (Nov) | 44.30 |  | 50.50 |
+| 15:00 | USD | ISM Non-Manufacturing Business Activity (Nov) | 54.5 |  | 54.3 |
+| 15:00 | USD | ISM Non-Manufacturing New Orders (Nov) | 52.9 |  | 56.2 |
+| 15:00 | USD | Total Vehicle Sales (Nov) | 15.60M | 15.40M | 15.30M |
+| 21 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.211M |
+| 21 min | USD | Crude Oil Imports |  |  | 1.046M |
+| 21 min | USD | Distillate Fuel Production |  |  | 0.087M |
+| 21 min | USD | EIA Weekly Distillates Stocks |  |  | 1.147M |
+| 21 min | USD | Gasoline Production |  |  | 0.286M |
+| 21 min | USD | Heating Oil Stockpiles |  |  | 0.057M |
+| 21 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 2.3% |
+| 21 min | USD | Gasoline Inventories |  |  | 2.513M |
 | 21:00 | KRW | FX Reserves - USD (Nov) |  |  | 428.82B |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | 576.5B |
 | 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -348.7B |
