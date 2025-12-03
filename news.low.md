@@ -1,47 +1,52 @@
-## 02 December 2025 - Low Impact Forex News
+## 03 December 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | BRC Shop Price Index (YoY) | 0.6% | 0.9% | 1.0% |
-| 00:30 | AUD | Building Approvals (YoY) (Oct) | -1.80% | 12.40% | 14.90% |
-| 00:30 | AUD | Net Exports Contribution (Q3) | -0.1% |  | 0.1% |
-| 00:30 | AUD | Private House Approvals (Oct) | -2.1% |  | 3.2% |
-| 05:00 | JPY | Household Confidence (Nov) | 37.5 | 36.2 | 35.8 |
-| 07:00 | GBP | BoE FPC Meeting Minutes |  |  |  |
-| 07:45 | EUR | French Government Budget Balance (Oct) | -136.2B |  | -155.4B |
-| 08:00 | EUR | French Car Registration (YoY) (Nov) | -0.3% |  | 2.9% |
-| 09:00 | EUR | Italian Monthly Unemployment Rate (Oct) | 6.0% | 6.1% | 6.2% |
-| 09:30 | ZAR | GDP (YoY) (Q3) | 2.1% |  | 0.9% |
-| 10:00 | EUR | Core CPI (MoM) (Nov) | -0.5% |  | 0.3% |
-| 10:00 | EUR | CPI, n.s.a (Nov) | 129.35 |  | 129.70 |
-| 10:00 | EUR | HICP ex Energy & Food (YoY) (Nov) | 2.4% |  | 2.4% |
-| 10:00 | EUR | HICP ex Energy and Food (MoM) (Nov) | -0.4% |  | 0.2% |
-| 10:10 | EUR | Spanish 12-Month Letras Auction | 1.990% |  | 1.990% |
-| 10:30 | EUR | German 2-Year Schatz Auction | 2.050% |  | 1.980% |
-| 11:00 | EUR | Italian PPI (MoM) (Oct) | -0.2% |  | 0.2% |
-| 11:00 | EUR | Italian PPI (YoY) (Oct) | 0.1% |  | 1.1% |
-| 12:00 | BRL | Industrial Production (MoM) (Oct) | 0.1% | 0.4% | -0.4% |
-| 12:00 | NZD | GlobalDairyTrade Price Index | -4.3% |  | -4.3% |
-| 12:00 | USD | Milk Auctions | 3,507.0 |  | 3,507.0 |
-| 13:00 | SGD | S&P Global Manufacturing PMI (Nov) | 50.2 |  | 50.0 |
-| 13:55 | USD | Redbook (YoY) | 7.6% |  | 5.9% |
-| 15:10 | USD | IBD/TIPP Economic Optimism | 47.9 | 44.1 | 43.9 |
-| 20:30 | USD | CFTC Aluminium speculative net positions | -1.4K |  | -0.1K |
-| 20:30 | USD | CFTC Copper speculative net positions | 41.2K |  | 39.1K |
-| 20:30 | USD | CFTC Corn speculative net positions | -83.3K |  | -92.4K |
-| 20:30 | USD | CFTC Natural Gas speculative net positions | -158.8K |  | -142.0K |
-| 20:30 | USD | CFTC Silver speculative net positions | 37.3K |  | 46.2K |
-| 20:30 | USD | CFTC Soybeans speculative net positions | 77.6K |  | 39.9K |
-| 20:30 | USD | CFTC Wheat speculative net positions | -80.2K |  | -70.6K |
-| 20:30 | CAD | CFTC CAD speculative net positions | -145.1K |  | -136.7K |
-| 20:30 | MXN | CFTC MXN speculative net positions | 73.3K |  | 87.7K |
-| 20:30 | CHF | CFTC CHF speculative net positions | -27.8K |  | -27.5K |
-| 20:30 | NZD | CFTC NZD speculative net positions | -36.3K |  | -24.4K |
-| 21:00 | KRW | FX Reserves - USD (Nov) | 430.66B |  | 428.82B |
-| 22:00 | AUD | AIG Construction Index (Nov) | -18.7 |  | -7.1 |
-| 22:00 | AUD | AIG Manufacturing Index (Nov) | -18.0 |  | -22.0 |
-| 22:00 | AUD | Manufacturing & Services PMI (Nov) | 52.60 | 52.60 | 52.10 |
-| 22:00 | AUD | RBA Gov Bullock Speaks |  |  |  |
-| 22:00 | AUD | Judo Bank Services PMI (Nov) | 52.8 | 52.7 | 52.5 |
-| 23:00 | KRW | GDP (QoQ) (Q3) |  | 1.2% | 0.7% |
-| 23:00 | KRW | GDP (YoY) (Q3) |  | 1.7% | 0.6% |
+| 00:00 | NZD | ANZ Commodity Price Index (MoM) | -1.6% |  | -0.3% |
+| 00:30 | AUD | GDP Capital Expenditure (Q3) | 3.0% |  | -0.8% |
+| 00:30 | AUD | GDP Chain Price Index (Q3) | 0.8% |  | -0.5% |
+| 00:30 | AUD | GDP Final Consumption (Q3) | 0.6% |  | 0.9% |
+| 00:30 | JPY | Manufacturing & Services PMI (Nov) | 52.00 | 52.00 | 51.50 |
+| 00:30 | HKD | S&P Global Manufacturing PMI (Nov) | 52.9 |  | 51.2 |
+| 05:00 | INR | S&P Global Services PMI (Nov) |  | 59.5 | 58.9 |
+| 05:00 | INR | Manufacturing & Services PMI (Nov) |  | 59.90 | 60.40 |
+| 07:00 | NOK | Current Account (Q3) |  |  | 217.9B |
+| 07:15 | ZAR | S&P Global Manufacturing PMI (Nov) |  |  | 48.8 |
+| 07:30 | CHF | CPI (YoY) (Nov) |  | 0.1% | 0.1% |
+| 08:45 | EUR | HCOB Italy Composite PMI (Nov) |  | 53.1 | 53.1 |
+| 08:50 | EUR | HCOB France Composite PMI (Nov) |  | 49.9 | 47.7 |
+| 08:55 | EUR | HCOB Germany Composite PMI (Nov) |  | 52.1 | 53.9 |
+| 09:40 | EUR | Spanish 6-Month Letras Auction |  |  | 1.944% |
+| 10:00 | NOK | House Price Index (YoY) (Nov) |  |  | 5.80% |
+| 10:00 | EUR | PPI (MoM) (Oct) |  | 0.2% | -0.1% |
+| 10:00 | EUR | PPI (YoY) (Oct) |  |  | -0.2% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.40% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 0.2% |
+| 12:00 | USD | MBA Purchase Index |  |  | 181.6 |
+| 12:00 | USD | Mortgage Market Index |  |  | 317.6 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 1,090.4 |
+| 12:00 | MXN | Gross Fixed Investments (MoM) (Sep) |  | -1.50% | -2.70% |
+| 12:00 | MXN | Gross Fixed Investments (YoY) (Sep) |  | -7.70% | -10.40% |
+| 13:00 | BRL | S&P Global Composite PMI (Nov) |  |  | 48.2 |
+| 13:00 | BRL | S&P Global Services PMI (Nov) |  |  | 47.7 |
+| 13:15 | CAD | Reserve Assets Total (Nov) |  |  | 128.8B |
+| 13:30 | USD | Export Price Index (YoY) (Sep) |  |  | 3.4% |
+| 13:30 | USD | Import Price Index (YoY) (Sep) |  |  | 0.0% |
+| 14:15 | USD | Capacity Utilization Rate (Sep) |  | 77.3% | 77.4% |
+| 14:15 | USD | Manufacturing Production (MoM) (Sep) |  |  | 0.2% |
+| 14:30 | CAD | Services PMI (Nov) |  |  | 50.50 |
+| 15:00 | USD | ISM Non-Manufacturing Business Activity (Nov) |  |  | 54.3 |
+| 15:00 | USD | ISM Non-Manufacturing New Orders (Nov) |  |  | 56.2 |
+| 15:00 | USD | Total Vehicle Sales (Nov) |  | 15.40M | 15.30M |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.211M |
+| 15:30 | USD | Crude Oil Imports |  |  | 1.046M |
+| 15:30 | USD | Distillate Fuel Production |  |  | 0.087M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | 1.147M |
+| 15:30 | USD | Gasoline Production |  |  | 0.286M |
+| 15:30 | USD | Heating Oil Stockpiles |  |  | 0.057M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 2.3% |
+| 15:30 | USD | Gasoline Inventories |  |  | 2.513M |
+| 17:00 | EUR | Italian Car Registration (YoY) (Nov) |  |  | -0.5% |
+| 21:00 | KRW | FX Reserves - USD (Nov) |  |  | 428.82B |
+| 23:50 | JPY | Foreign Bonds Buying |  |  | 576.5B |
+| 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -348.7B |
