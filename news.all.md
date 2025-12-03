@@ -27,14 +27,14 @@
 | 08:55 | EUR | Moderate | HCOB Germany Services PMI (Nov) | 53.1 | 52.7 | 54.6 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Nov) | 52.8 | 52.4 | 52.5 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Nov) | 53.6 | 53.1 | 53.0 |
-| 20 min | GBP | Moderate | S&P Global Composite PMI (Nov) |  | 50.5 | 52.2 |
-| 20 min | GBP | Moderate | S&P Global Services PMI (Nov) |  | 50.5 | 52.3 |
-| 20 min | CHF | Moderate | procure.ch Manufacturing PMI (Nov) |  | 48.6 | 48.2 |
-| 30 min | EUR | Low | Spanish 6-Month Letras Auction |  |  | 1.944% |
-| 50 min | NOK | Low | House Price Index (YoY) (Nov) |  |  | 5.80% |
-| 50 min | EUR | Low | PPI (MoM) (Oct) |  | 0.1% | -0.1% |
-| 50 min | EUR | Low | PPI (YoY) (Oct) |  | -0.4% | -0.2% |
-| 10:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 09:30 | GBP | Moderate | S&P Global Composite PMI (Nov) | 51.2 | 50.5 | 52.2 |
+| 09:30 | GBP | Moderate | S&P Global Services PMI (Nov) | 51.3 | 50.5 | 52.3 |
+| 09:30 | CHF | Moderate | procure.ch Manufacturing PMI (Nov) |  | 48.6 | 48.2 |
+| 09:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 1.944% |
+| 10:00 | NOK | Low | House Price Index (YoY) (Nov) | 6.20% |  | 5.80% |
+| 10:00 | EUR | Low | PPI (MoM) (Oct) | 0.1% | 0.1% | -0.1% |
+| 10:00 | EUR | Low | PPI (YoY) (Oct) | -0.5% | -0.4% | -0.2% |
+| 22 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.40% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 0.2% |
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 181.6 |
@@ -54,7 +54,7 @@
 | 13:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 14:15 | USD | Low | Capacity Utilization Rate (Sep) |  | 76.9% | 77.4% |
 | 14:15 | USD | Moderate | Industrial Production (MoM) (Sep) |  | 0.1% | 0.1% |
-| 14:15 | USD | Moderate | Industrial Production (YoY) (Sep) |  |  | 0.87% |
+| 14:15 | USD | Moderate | Industrial Production (YoY) (Sep) |  |  | 0.84% |
 | 14:15 | USD | Low | Manufacturing Production (MoM) (Sep) |  | 0.1% | 0.2% |
 | 14:30 | CAD | Low | Services PMI (Nov) |  |  | 50.50 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Nov) |  | 54.8 | 54.6 |
