@@ -10,7 +10,7 @@
 | 00:30 | HKD | S&P Global Manufacturing PMI (Nov) | 52.9 |  | 51.2 |
 | 05:00 | INR | S&P Global Services PMI (Nov) | 59.8 | 59.5 | 58.9 |
 | 05:00 | INR | Manufacturing & Services PMI (Nov) | 59.70 | 59.90 | 60.40 |
-| 07:00 | NOK | Current Account (Q3) |  |  | 217.9B |
+| 50 min | NOK | Current Account (Q3) |  |  | 217.9B |
 | 07:15 | ZAR | S&P Global Manufacturing PMI (Nov) |  |  | 48.8 |
 | 07:30 | CHF | CPI (YoY) (Nov) |  | 0.1% | 0.1% |
 | 08:45 | EUR | HCOB Italy Composite PMI (Nov) |  | 53.2 | 53.1 |
@@ -18,7 +18,7 @@
 | 08:55 | EUR | HCOB Germany Composite PMI (Nov) |  | 52.1 | 53.9 |
 | 09:40 | EUR | Spanish 6-Month Letras Auction |  |  | 1.944% |
 | 10:00 | NOK | House Price Index (YoY) (Nov) |  |  | 5.80% |
-| 10:00 | EUR | PPI (MoM) (Oct) |  | 0.2% | -0.1% |
+| 10:00 | EUR | PPI (MoM) (Oct) |  | 0.1% | -0.1% |
 | 10:00 | EUR | PPI (YoY) (Oct) |  | -0.4% | -0.2% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.40% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 0.2% |
@@ -46,7 +46,6 @@
 | 15:30 | USD | Heating Oil Stockpiles |  |  | 0.057M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 2.3% |
 | 15:30 | USD | Gasoline Inventories |  |  | 2.513M |
-| 17:00 | EUR | Italian Car Registration (YoY) (Nov) |  |  | -0.5% |
 | 21:00 | KRW | FX Reserves - USD (Nov) |  |  | 428.82B |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | 576.5B |
 | 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -348.7B |
