@@ -22,11 +22,11 @@
 | 12:30 | USD | Challenger Job Cuts (YoY) | 23.5% |  | 175.3% |
 | 12:30 | USD | Challenger Job Cuts (Nov) | 71.321K |  | 153.074K |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 214.75K |  | 224.25K |
-| 53 min | USD | Durables Excluding Defense (MoM) (Sep) |  |  | 0.1% |
-| 53 min | USD | Durables Excluding Transport (MoM) (Sep) |  |  | 0.6% |
-| 53 min | USD | Factory orders ex transportation (MoM) (Sep) |  |  | 0.1% |
-| 53 min | CAD | Ivey PMI n.s.a (Nov) |  |  | 51.7 |
-| 15:30 | USD | Natural Gas Storage |  | -18B | -11B |
+| 15:00 | USD | Durables Excluding Defense (MoM) (Sep) | 0.1% |  | 0.1% |
+| 15:00 | USD | Durables Excluding Transport (MoM) (Sep) | 0.6% |  | 0.6% |
+| 15:00 | USD | Factory orders ex transportation (MoM) (Sep) | 0.2% |  | -0.1% |
+| 15:00 | CAD | Ivey PMI n.s.a (Nov) | 44.5 |  | 51.7 |
+| 21 min | USD | Natural Gas Storage |  | -18B | -11B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.905% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 3.840% |
 | 18:00 | BRL | Trade Balance (Nov) |  |  | 6.96B |

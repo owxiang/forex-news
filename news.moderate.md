@@ -9,10 +9,10 @@
 | 12:00 | BRL | GDP (QoQ) (Q3) | 0.1% | 0.2% | 0.3% |
 | 12:45 | GBP | BoE MPC Member Mann Speaks |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims | 1,939K | 1,960K | 1,943K |
-| 53 min | USD | Factory Orders (MoM) (Sep) |  |  | 1.4% |
-| 53 min | CAD | Ivey PMI (Nov) |  | 53.6 | 52.4 |
-| 53 min | EUR | ECB's Lane Speaks |  |  |  |
-| 15:30 | USD | Atlanta Fed GDPNow (Q4) |  | 3.9% | 3.9% |
+| 15:00 | USD | Factory Orders (MoM) (Sep) | 0.2% |  | 1.3% |
+| 15:00 | CAD | Ivey PMI (Nov) | 48.4 | 53.6 | 52.4 |
+| 15:00 | EUR | ECB's Lane Speaks |  |  |  |
+| 21 min | USD | Atlanta Fed GDPNow (Q4) |  | 3.9% | 3.9% |
 | 17:00 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 18:00 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,552B |

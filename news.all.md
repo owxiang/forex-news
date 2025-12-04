@@ -30,15 +30,15 @@
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,939K | 1,960K | 1,943K |
 | 13:30 | USD | High | Initial Jobless Claims | 191K | 219K | 218K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 214.75K |  | 224.25K |
-| 53 min | USD | Low | Durables Excluding Defense (MoM) (Sep) |  |  | 0.1% |
-| 53 min | USD | Low | Durables Excluding Transport (MoM) (Sep) |  |  | 0.6% |
-| 53 min | USD | Moderate | Factory Orders (MoM) (Sep) |  |  | 1.4% |
-| 53 min | USD | Low | Factory orders ex transportation (MoM) (Sep) |  |  | 0.1% |
-| 53 min | CAD | Low | Ivey PMI n.s.a (Nov) |  |  | 51.7 |
-| 53 min | CAD | Moderate | Ivey PMI (Nov) |  | 53.6 | 52.4 |
-| 53 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 3.9% | 3.9% |
-| 15:30 | USD | Low | Natural Gas Storage |  | -18B | -11B |
+| 15:00 | USD | Low | Durables Excluding Defense (MoM) (Sep) | 0.1% |  | 0.1% |
+| 15:00 | USD | Low | Durables Excluding Transport (MoM) (Sep) | 0.6% |  | 0.6% |
+| 15:00 | USD | Moderate | Factory Orders (MoM) (Sep) | 0.2% |  | 1.3% |
+| 15:00 | USD | Low | Factory orders ex transportation (MoM) (Sep) | 0.2% |  | -0.1% |
+| 15:00 | CAD | Low | Ivey PMI n.s.a (Nov) | 44.5 |  | 51.7 |
+| 15:00 | CAD | Moderate | Ivey PMI (Nov) | 48.4 | 53.6 | 52.4 |
+| 15:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 21 min | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 3.9% | 3.9% |
+| 21 min | USD | Low | Natural Gas Storage |  | -18B | -11B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.905% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.840% |
 | 17:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
