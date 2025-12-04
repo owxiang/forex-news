@@ -21,13 +21,11 @@
 | 10:15 | EUR | Spanish 5-Year Bonos Auction | 2.471% |  | 2.443% |
 | 12:30 | USD | Challenger Job Cuts (YoY) | 23.5% |  | 175.3% |
 | 12:30 | USD | Challenger Job Cuts (Nov) | 71.321K |  | 153.074K |
-| 12 min | USD | Jobless Claims 4-Week Avg. |  |  | 223.75K |
-| 42 min | BRL | Auto Production (MoM) (Nov) |  |  | 1.8% |
-| 42 min | BRL | Auto Sales (MoM) (Nov) |  |  | 7.2% |
-| 15:00 | USD | Durables Excluding Defense (MoM) (Sep) |  |  | 0.1% |
-| 15:00 | USD | Durables Excluding Transport (MoM) (Sep) |  |  | 0.6% |
-| 15:00 | USD | Factory orders ex transportation (MoM) (Sep) |  |  | 0.1% |
-| 15:00 | CAD | Ivey PMI n.s.a (Nov) |  |  | 51.7 |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 214.75K |  | 224.25K |
+| 53 min | USD | Durables Excluding Defense (MoM) (Sep) |  |  | 0.1% |
+| 53 min | USD | Durables Excluding Transport (MoM) (Sep) |  |  | 0.6% |
+| 53 min | USD | Factory orders ex transportation (MoM) (Sep) |  |  | 0.1% |
+| 53 min | CAD | Ivey PMI n.s.a (Nov) |  |  | 51.7 |
 | 15:30 | USD | Natural Gas Storage |  | -18B | -11B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.905% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 3.840% |
