@@ -14,12 +14,12 @@
 | 09:00 | GBP | Car Registration (YoY) (Nov) | -1.6% |  | 0.5% |
 | 09:00 | ZAR | Current Account (Q3) | -57.0B |  | -72.2B |
 | 09:00 | ZAR | Current Account % of GDP (Q3) | -0.70% |  | -1.00% |
-| 10:00 | GBP | United Kingdom New Passenger Cars Registration (Nov) |  |  | 144,948.0 |
 | 10:00 | EUR | French 10-Year OAT Auction | 3.38% |  | 3.43% |
-| 10:00 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.443% |
 | 10:00 | EUR | Retail Sales (MoM) (Oct) | 0.0% | 0.0% | 0.1% |
 | 10:00 | EUR | Retail Sales (YoY) (Oct) | 1.5% | 1.4% | 1.2% |
-| 52 min | CAD | Leading Index (MoM) (Nov) |  |  | 0.21% |
+| 10:15 | EUR | Spanish 5-Year Bonos Auction | 2.471% |  | 2.443% |
+| 11:00 | GBP | United Kingdom New Passenger Cars Registration (Nov) |  |  | 144,948.0 |
+| 11:00 | CAD | Leading Index (MoM) (Nov) |  |  | 0.21% |
 | 12:30 | USD | Challenger Job Cuts (YoY) |  |  | -25.8% |
 | 12:30 | USD | Challenger Job Cuts (Nov) |  |  | 153.074K |
 | 13:00 | BRL | Auto Production (MoM) (Nov) |  |  | 1.8% |
