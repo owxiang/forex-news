@@ -16,5 +16,5 @@
 | 17:00 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 18:00 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet | 6,536B |  | 6,552B |
-| 23:30 | JPY | Household Spending (YoY) (Oct) |  | 1.1% | 1.8% |
-| 23:30 | JPY | Household Spending (MoM) (Oct) |  | 0.7% | -0.7% |
+| 23 min | JPY | Household Spending (YoY) (Oct) |  | 1.1% | 1.8% |
+| 23 min | JPY | Household Spending (MoM) (Oct) |  | 0.7% | -0.7% |

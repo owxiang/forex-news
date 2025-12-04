@@ -43,6 +43,6 @@
 | 17:00 | USD | OPEC Crude oil Production Venezuela (Barrel) | 0.95M |  | 0.93M |
 | 18:00 | BRL | Trade Balance (Nov) | 5.84B |  | 6.57B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks | 2.878T |  | 2.898T |
-| 54 min | KRW | Current Account (Oct) |  |  | 13.47B |
-| 54 min | JPY | Reuters Tankan Index (Dec) |  |  | 17 |
-| 23:50 | JPY | Foreign Reserves (USD) (Nov) |  |  | 1,347.4B |
+| 23:00 | KRW | Current Account (Oct) | 6.81B |  | 13.47B |
+| 23:00 | JPY | Reuters Tankan Index (Dec) |  |  | 17 |
+| 43 min | JPY | Foreign Reserves (USD) (Nov) |  |  | 1,347.4B |

@@ -58,8 +58,8 @@
 | 18:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet | 6,536B |  | 6,552B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 2.878T |  | 2.898T |
-| 54 min | KRW | Low | Current Account (Oct) |  |  | 13.47B |
-| 54 min | JPY | Low | Reuters Tankan Index (Dec) |  |  | 17 |
-| 23:30 | JPY | Moderate | Household Spending (YoY) (Oct) |  | 1.1% | 1.8% |
-| 23:30 | JPY | Moderate | Household Spending (MoM) (Oct) |  | 0.7% | -0.7% |
-| 23:50 | JPY | Low | Foreign Reserves (USD) (Nov) |  |  | 1,347.4B |
+| 23:00 | KRW | Low | Current Account (Oct) | 6.81B |  | 13.47B |
+| 23:00 | JPY | Low | Reuters Tankan Index (Dec) |  |  | 17 |
+| 23 min | JPY | Moderate | Household Spending (YoY) (Oct) |  | 1.1% | 1.8% |
+| 23 min | JPY | Moderate | Household Spending (MoM) (Oct) |  | 0.7% | -0.7% |
+| 43 min | JPY | Low | Foreign Reserves (USD) (Nov) |  |  | 1,347.4B |
