@@ -7,16 +7,16 @@
 | 03:35 | JPY | 30-Year JGB Auction | 3.427% |  | 3.166% |
 | 08:00 | CHF | Unemployment Rate n.s.a. (Nov) | 2.9% |  | 2.9% |
 | 08:00 | CHF | Unemployment Rate s.a. (Nov) | 3.0% | 3.0% | 3.0% |
-| 20 min | EUR | HCOB Italy Construction PMI (MoM) (Nov) |  |  | 50.7 |
-| 20 min | EUR | HCOB Germany Construction PMI (Nov) |  |  | 42.8 |
-| 20 min | EUR | HCOB France Construction PMI (MoM) (Nov) |  |  | 39.8 |
-| 20 min | EUR | HCOB Eurozone Construction PMI (MoM) (Nov) |  |  | 44.0 |
-| 50 min | GBP | Car Registration (YoY) (Nov) |  |  | 0.5% |
-| 50 min | GBP | United Kingdom New Passenger Cars Registration (Nov) |  |  | 144,948.0 |
-| 50 min | ZAR | Current Account (Q3) |  |  | -82.8B |
-| 50 min | ZAR | Current Account % of GDP (Q3) |  |  | -1.10% |
-| 10:00 | EUR | Retail Sales (MoM) (Oct) |  | 0.0% | -0.1% |
-| 10:00 | EUR | Retail Sales (YoY) (Oct) |  | 1.4% | 1.0% |
+| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Nov) | 48.2 |  | 50.7 |
+| 08:30 | EUR | HCOB Germany Construction PMI (Nov) | 45.2 |  | 42.8 |
+| 08:30 | EUR | HCOB France Construction PMI (MoM) (Nov) | 43.6 |  | 39.8 |
+| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Nov) | 45.4 |  | 44.0 |
+| 09:00 | GBP | Car Registration (YoY) (Nov) | -1.6% |  | 0.5% |
+| 09:00 | GBP | United Kingdom New Passenger Cars Registration (Nov) |  |  | 144,948.0 |
+| 09:00 | ZAR | Current Account (Q3) | -57.0B |  | -72.2B |
+| 09:00 | ZAR | Current Account % of GDP (Q3) | -0.70% |  | -1.00% |
+| 51 min | EUR | Retail Sales (MoM) (Oct) |  | 0.0% | -0.1% |
+| 51 min | EUR | Retail Sales (YoY) (Oct) |  | 1.4% | 1.0% |
 | 11:00 | CAD | Leading Index (MoM) (Nov) |  |  | 0.21% |
 | 12:30 | USD | Challenger Job Cuts (YoY) |  |  | -25.8% |
 | 12:30 | USD | Challenger Job Cuts (Nov) |  |  | 153.074K |
