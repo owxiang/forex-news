@@ -14,7 +14,7 @@
 | 15:00 | EUR | ECB's Lane Speaks |  |  |  |
 | 16:00 | USD | Atlanta Fed GDPNow (Q4) | 3.8% | 3.9% | 3.9% |
 | 17:00 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 51 min | EUR | ECB's De Guindos Speaks |  |  |  |
+| 18:00 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,552B |
 | 23:30 | JPY | Household Spending (YoY) (Oct) |  | 1.1% | 1.8% |
 | 23:30 | JPY | Household Spending (MoM) (Oct) |  | 0.7% | -0.7% |

@@ -29,7 +29,19 @@
 | 15:30 | USD | Natural Gas Storage | -12B | -18B | -11B |
 | 16:30 | USD | 4-Week Bill Auction | 3.680% |  | 3.905% |
 | 16:30 | USD | 8-Week Bill Auction | 3.620% |  | 3.840% |
-| 51 min | BRL | Trade Balance (Nov) |  |  | 6.96B |
+| 17:00 | USD | OPEC Crude Oil Production Algeria (Barrel) | 0.96M |  | 0.96M |
+| 17:00 | USD | OPEC Crude Oil Production Congo (Barrel) | 0.26M |  | 0.26M |
+| 17:00 | USD | OPEC Crude Oil Production Gabon (Barrel) | 0.23M |  | 0.23M |
+| 17:00 | USD | OPEC Crude Oil Production Guinea (Barrel) | 0.05M |  | 0.06M |
+| 17:00 | USD | OPEC Crude oil Production Iran (Barrel) | 3.34M |  | 3.37M |
+| 17:00 | USD | OPEC Crude oil Production Iraq (Barrel) | 4.02M |  | 4.06M |
+| 17:00 | USD | OPEC Crude Oil Production Kuwait (Barrel) | 2.54M |  | 2.52M |
+| 17:00 | USD | OPEC Crude Oil Production Libya (Barrel) | 1.25M |  | 1.25M |
+| 17:00 | USD | OPEC Crude Oil Production Nigeria (Barrel) | 1.48M |  | 1.53M |
+| 17:00 | USD | OPEC Crude oil Production Saudi Arabia (Barrel) | 9.95M |  | 9.90M |
+| 17:00 | USD | OPEC Crude oil Production UAE (Barrel) | 3.37M |  | 3.36M |
+| 17:00 | USD | OPEC Crude oil Production Venezuela (Barrel) | 0.95M |  | 0.93M |
+| 18:00 | BRL | Trade Balance (Nov) | 5.84B |  | 6.96B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.898T |
 | 23:00 | KRW | Current Account (Oct) |  |  | 13.47B |
 | 23:00 | JPY | Reuters Tankan Index (Dec) |  |  | 17 |
