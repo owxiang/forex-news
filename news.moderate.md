@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Trade Balance (Oct) | 4.385B | 4.420B | 3.938B |
+| 00:30 | AUD | Trade Balance (Oct) | 4.385B | 4.420B | 3.707B |
 | 08:30 | CHF | procure.ch Manufacturing PMI (Nov) |  |  | 48.2 |
 | 09:30 | GBP | S&P Global Construction PMI (Nov) |  | 44.3 | 44.1 |
 | 09:30 | CHF | procure.ch Manufacturing PMI (Nov) |  | 48.6 | 48.2 |

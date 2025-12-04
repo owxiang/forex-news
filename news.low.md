@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Exports (MoM) (Oct) | 3.4% |  | 7.9% |
-| 00:30 | AUD | Imports (MoM) (Oct) |  |  | 1.1% |
+| 00:30 | AUD | Exports (MoM) (Oct) | 3.4% |  | 7.6% |
+| 00:30 | AUD | Imports (MoM) (Oct) | 2.0% |  | 1.8% |
 | 03:35 | JPY | 30-Year JGB Auction |  |  | 3.166% |
 | 08:00 | CHF | Unemployment Rate n.s.a. (Nov) |  |  | 2.9% |
 | 08:00 | CHF | Unemployment Rate s.a. (Nov) |  | 3.0% | 3.0% |
