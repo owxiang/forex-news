@@ -22,16 +22,16 @@
 | 10:00 | EUR | Low | Retail Sales (MoM) (Oct) | 0.0% | 0.0% | 0.1% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (Oct) | 1.5% | 1.4% | 1.2% |
 | 10:15 | EUR | Low | Spanish 5-Year Bonos Auction | 2.471% |  | 2.443% |
-| 12:00 | BRL | Moderate | GDP (YoY) (Q3) | 1.8% | 1.7% | 2.2% |
-| 12:00 | BRL | Moderate | GDP (QoQ) (Q3) | 0.1% | 0.2% | 0.4% |
-| 17 min | USD | Low | Challenger Job Cuts (YoY) |  |  | -25.8% |
-| 17 min | USD | Low | Challenger Job Cuts (Nov) |  |  | 153.074K |
-| 32 min | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
-| 47 min | BRL | Low | Auto Production (MoM) (Nov) |  |  | 1.8% |
-| 47 min | BRL | Low | Auto Sales (MoM) (Nov) |  |  | 7.2% |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,960K | 1,960K |
-| 13:30 | USD | High | Initial Jobless Claims |  | 219K | 216K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 223.75K |
+| 12:00 | BRL | Moderate | GDP (YoY) (Q3) | 1.8% | 1.7% | 2.4% |
+| 12:00 | BRL | Moderate | GDP (QoQ) (Q3) | 0.1% | 0.2% | 0.3% |
+| 12:30 | USD | Low | Challenger Job Cuts (YoY) | 23.5% |  | 175.3% |
+| 12:30 | USD | Low | Challenger Job Cuts (Nov) | 71.321K |  | 153.074K |
+| 12:45 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
+| 12 min | USD | Moderate | Continuing Jobless Claims |  | 1,960K | 1,960K |
+| 12 min | USD | High | Initial Jobless Claims |  | 219K | 216K |
+| 12 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 223.75K |
+| 42 min | BRL | Low | Auto Production (MoM) (Nov) |  |  | 1.8% |
+| 42 min | BRL | Low | Auto Sales (MoM) (Nov) |  |  | 7.2% |
 | 15:00 | USD | Low | Durables Excluding Defense (MoM) (Sep) |  |  | 0.1% |
 | 15:00 | USD | Low | Durables Excluding Transport (MoM) (Sep) |  |  | 0.6% |
 | 15:00 | USD | Moderate | Factory Orders (MoM) (Sep) |  |  | 1.4% |

@@ -19,11 +19,11 @@
 | 10:00 | EUR | Retail Sales (MoM) (Oct) | 0.0% | 0.0% | 0.1% |
 | 10:00 | EUR | Retail Sales (YoY) (Oct) | 1.5% | 1.4% | 1.2% |
 | 10:15 | EUR | Spanish 5-Year Bonos Auction | 2.471% |  | 2.443% |
-| 17 min | USD | Challenger Job Cuts (YoY) |  |  | -25.8% |
-| 17 min | USD | Challenger Job Cuts (Nov) |  |  | 153.074K |
-| 47 min | BRL | Auto Production (MoM) (Nov) |  |  | 1.8% |
-| 47 min | BRL | Auto Sales (MoM) (Nov) |  |  | 7.2% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 223.75K |
+| 12:30 | USD | Challenger Job Cuts (YoY) | 23.5% |  | 175.3% |
+| 12:30 | USD | Challenger Job Cuts (Nov) | 71.321K |  | 153.074K |
+| 12 min | USD | Jobless Claims 4-Week Avg. |  |  | 223.75K |
+| 42 min | BRL | Auto Production (MoM) (Nov) |  |  | 1.8% |
+| 42 min | BRL | Auto Sales (MoM) (Nov) |  |  | 7.2% |
 | 15:00 | USD | Durables Excluding Defense (MoM) (Sep) |  |  | 0.1% |
 | 15:00 | USD | Durables Excluding Transport (MoM) (Sep) |  |  | 0.6% |
 | 15:00 | USD | Factory orders ex transportation (MoM) (Sep) |  |  | 0.1% |

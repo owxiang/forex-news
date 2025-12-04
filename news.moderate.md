@@ -5,10 +5,10 @@
 | 00:30 | AUD | Trade Balance (Oct) | 4.385B | 4.440B | 3.707B |
 | 08:30 | CHF | procure.ch Manufacturing PMI (Nov) | 49.7 | 48.9 | 48.2 |
 | 09:30 | GBP | S&P Global Construction PMI (Nov) | 39.4 | 44.5 | 44.1 |
-| 12:00 | BRL | GDP (YoY) (Q3) | 1.8% | 1.7% | 2.2% |
-| 12:00 | BRL | GDP (QoQ) (Q3) | 0.1% | 0.2% | 0.4% |
-| 32 min | GBP | BoE MPC Member Mann Speaks |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims |  | 1,960K | 1,960K |
+| 12:00 | BRL | GDP (YoY) (Q3) | 1.8% | 1.7% | 2.4% |
+| 12:00 | BRL | GDP (QoQ) (Q3) | 0.1% | 0.2% | 0.3% |
+| 12:45 | GBP | BoE MPC Member Mann Speaks |  |  |  |
+| 12 min | USD | Continuing Jobless Claims |  | 1,960K | 1,960K |
 | 15:00 | USD | Factory Orders (MoM) (Sep) |  |  | 1.4% |
 | 15:00 | CAD | Ivey PMI (Nov) |  | 53.6 | 52.4 |
 | 15:00 | EUR | ECB's Lane Speaks |  |  |  |
