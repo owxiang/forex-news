@@ -39,11 +39,11 @@
 | 15:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage | -12B | -18B | -11B |
 | 16:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 3.8% | 3.9% | 3.9% |
-| 20 min | USD | Low | 4-Week Bill Auction |  |  | 3.905% |
-| 20 min | USD | Low | 8-Week Bill Auction |  |  | 3.840% |
-| 50 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 18:00 | BRL | Low | Trade Balance (Nov) |  |  | 6.96B |
-| 18:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 16:30 | USD | Low | 4-Week Bill Auction | 3.680% |  | 3.905% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 3.620% |  | 3.840% |
+| 17:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 51 min | BRL | Low | Trade Balance (Nov) |  |  | 6.96B |
+| 51 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,552B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.898T |
 | 23:00 | KRW | Low | Current Account (Oct) |  |  | 13.47B |

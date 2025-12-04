@@ -27,9 +27,9 @@
 | 15:00 | USD | Factory orders ex transportation (MoM) (Sep) | 0.2% |  | -0.1% |
 | 15:00 | CAD | Ivey PMI n.s.a (Nov) | 44.5 |  | 51.7 |
 | 15:30 | USD | Natural Gas Storage | -12B | -18B | -11B |
-| 20 min | USD | 4-Week Bill Auction |  |  | 3.905% |
-| 20 min | USD | 8-Week Bill Auction |  |  | 3.840% |
-| 18:00 | BRL | Trade Balance (Nov) |  |  | 6.96B |
+| 16:30 | USD | 4-Week Bill Auction | 3.680% |  | 3.905% |
+| 16:30 | USD | 8-Week Bill Auction | 3.620% |  | 3.840% |
+| 51 min | BRL | Trade Balance (Nov) |  |  | 6.96B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.898T |
 | 23:00 | KRW | Current Account (Oct) |  |  | 13.47B |
 | 23:00 | JPY | Reuters Tankan Index (Dec) |  |  | 17 |
