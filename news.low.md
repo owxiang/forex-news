@@ -23,8 +23,6 @@
 | 13:00 | BRL | Auto Production (MoM) (Nov) |  |  | 1.8% |
 | 13:00 | BRL | Auto Sales (MoM) (Nov) |  |  | 7.2% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 223.75K |
-| 13:30 | CAD | Exports (Sep) |  |  | 60.58B |
-| 13:30 | CAD | Imports (Sep) |  |  | 66.91B |
 | 15:00 | USD | Durables Excluding Defense (MoM) (Sep) |  |  | 0.1% |
 | 15:00 | USD | Durables Excluding Transport (MoM) (Sep) |  |  | 0.6% |
 | 15:00 | USD | Factory orders ex transportation (MoM) (Sep) |  |  | 0.1% |
@@ -33,6 +31,7 @@
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.905% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 3.840% |
 | 18:00 | BRL | Trade Balance (Nov) |  |  | 6.96B |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.898T |
 | 23:00 | KRW | Current Account (Oct) |  |  | 13.47B |
-| 23:00 | JPY | Reuters Tankan Index (Dec) |  |  |  |
+| 23:00 | JPY | Reuters Tankan Index (Dec) |  |  | 17 |
 | 23:50 | JPY | Foreign Reserves (USD) (Nov) |  |  | 1,347.4B |

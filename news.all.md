@@ -31,9 +31,6 @@
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,960K | 1,960K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 219K | 216K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 223.75K |
-| 13:30 | CAD | Low | Exports (Sep) |  |  | 60.58B |
-| 13:30 | CAD | Low | Imports (Sep) |  |  | 66.91B |
-| 13:30 | CAD | Moderate | Trade Balance (Sep) |  |  | -6.32B |
 | 15:00 | USD | Low | Durables Excluding Defense (MoM) (Sep) |  |  | 0.1% |
 | 15:00 | USD | Low | Durables Excluding Transport (MoM) (Sep) |  |  | 0.6% |
 | 15:00 | USD | Moderate | Factory Orders (MoM) (Sep) |  |  | 1.4% |
@@ -48,8 +45,10 @@
 | 17:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 18:00 | BRL | Low | Trade Balance (Nov) |  |  | 6.96B |
 | 18:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,552B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.898T |
 | 23:00 | KRW | Low | Current Account (Oct) |  |  | 13.47B |
-| 23:00 | JPY | Low | Reuters Tankan Index (Dec) |  |  |  |
+| 23:00 | JPY | Low | Reuters Tankan Index (Dec) |  |  | 17 |
 | 23:30 | JPY | Moderate | Household Spending (YoY) (Oct) |  | 1.1% | 1.8% |
 | 23:30 | JPY | Moderate | Household Spending (MoM) (Oct) |  | 0.7% | -0.7% |
 | 23:50 | JPY | Low | Foreign Reserves (USD) (Nov) |  |  | 1,347.4B |
