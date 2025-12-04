@@ -14,13 +14,15 @@
 | 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Nov) | 43.6 |  | 39.8 |
 | 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Nov) | 45.4 |  | 44.0 |
 | 09:00 | GBP | Low | Car Registration (YoY) (Nov) | -1.6% |  | 0.5% |
-| 09:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Nov) |  |  | 144,948.0 |
 | 09:00 | ZAR | Low | Current Account (Q3) | -57.0B |  | -72.2B |
 | 09:00 | ZAR | Low | Current Account % of GDP (Q3) | -0.70% |  | -1.00% |
-| 21 min | GBP | Moderate | S&P Global Construction PMI (Nov) |  | 44.5 | 44.1 |
-| 51 min | EUR | Low | Retail Sales (MoM) (Oct) |  | 0.0% | -0.1% |
-| 51 min | EUR | Low | Retail Sales (YoY) (Oct) |  | 1.4% | 1.0% |
-| 11:00 | CAD | Low | Leading Index (MoM) (Nov) |  |  | 0.21% |
+| 09:30 | GBP | Moderate | S&P Global Construction PMI (Nov) | 39.4 | 44.5 | 44.1 |
+| 10:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Nov) |  |  | 144,948.0 |
+| 10:00 | EUR | Low | French 10-Year OAT Auction | 3.38% |  | 3.43% |
+| 10:00 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.443% |
+| 10:00 | EUR | Low | Retail Sales (MoM) (Oct) | 0.0% | 0.0% | 0.1% |
+| 10:00 | EUR | Low | Retail Sales (YoY) (Oct) | 1.5% | 1.4% | 1.2% |
+| 52 min | CAD | Low | Leading Index (MoM) (Nov) |  |  | 0.21% |
 | 12:00 | BRL | Moderate | GDP (YoY) (Q3) |  | 1.7% | 2.2% |
 | 12:00 | BRL | Moderate | GDP (QoQ) (Q3) |  | 0.2% | 0.4% |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | -25.8% |
