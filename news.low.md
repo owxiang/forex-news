@@ -15,9 +15,8 @@
 | 09:00 | GBP | United Kingdom New Passenger Cars Registration (Nov) |  |  | 144,948.0 |
 | 09:00 | ZAR | Current Account (Q3) |  |  | -82.8B |
 | 09:00 | ZAR | Current Account % of GDP (Q3) |  |  | -1.10% |
-| 09:40 | EUR | Spanish 6-Month Letras Auction |  |  | 1.944% |
 | 10:00 | EUR | Retail Sales (MoM) (Oct) |  | 0.0% | -0.1% |
-| 10:00 | EUR | Retail Sales (YoY) (Oct) |  | 1.2% | 1.0% |
+| 10:00 | EUR | Retail Sales (YoY) (Oct) |  | 1.4% | 1.0% |
 | 11:00 | CAD | Leading Index (MoM) (Nov) |  |  | 0.21% |
 | 12:30 | USD | Challenger Job Cuts (YoY) |  |  | -25.8% |
 | 12:30 | USD | Challenger Job Cuts (Nov) |  |  | 153.074K |
@@ -30,7 +29,7 @@
 | 15:00 | USD | Durables Excluding Transport (MoM) (Sep) |  |  | 0.6% |
 | 15:00 | USD | Factory orders ex transportation (MoM) (Sep) |  |  | 0.1% |
 | 15:00 | CAD | Ivey PMI n.s.a (Nov) |  |  | 51.7 |
-| 15:30 | USD | Natural Gas Storage |  |  | -11B |
+| 15:30 | USD | Natural Gas Storage |  | -18B | -11B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.905% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 3.840% |
 | 18:00 | BRL | Trade Balance (Nov) |  |  | 6.96B |

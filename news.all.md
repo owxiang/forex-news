@@ -9,7 +9,7 @@
 | 08:00 | CHF | Low | Unemployment Rate n.s.a. (Nov) |  |  | 2.9% |
 | 08:00 | CHF | Low | Unemployment Rate s.a. (Nov) |  | 3.0% | 3.0% |
 | 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Nov) |  |  | 50.7 |
-| 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (Nov) |  |  | 48.2 |
+| 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (Nov) |  | 48.9 | 48.2 |
 | 08:30 | EUR | Low | HCOB Germany Construction PMI (Nov) |  |  | 42.8 |
 | 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Nov) |  |  | 39.8 |
 | 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Nov) |  |  | 44.0 |
@@ -17,21 +17,19 @@
 | 09:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Nov) |  |  | 144,948.0 |
 | 09:00 | ZAR | Low | Current Account (Q3) |  |  | -82.8B |
 | 09:00 | ZAR | Low | Current Account % of GDP (Q3) |  |  | -1.10% |
-| 09:30 | GBP | Moderate | S&P Global Construction PMI (Nov) |  | 44.3 | 44.1 |
-| 09:30 | CHF | Moderate | procure.ch Manufacturing PMI (Nov) |  | 48.6 | 48.2 |
-| 09:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 1.944% |
+| 09:30 | GBP | Moderate | S&P Global Construction PMI (Nov) |  | 44.5 | 44.1 |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Oct) |  | 0.0% | -0.1% |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Oct) |  | 1.2% | 1.0% |
+| 10:00 | EUR | Low | Retail Sales (YoY) (Oct) |  | 1.4% | 1.0% |
 | 11:00 | CAD | Low | Leading Index (MoM) (Nov) |  |  | 0.21% |
-| 12:00 | BRL | Moderate | GDP (YoY) (Q3) |  |  | 2.2% |
-| 12:00 | BRL | Moderate | GDP (QoQ) (Q3) |  |  | 0.4% |
+| 12:00 | BRL | Moderate | GDP (YoY) (Q3) |  | 1.7% | 2.2% |
+| 12:00 | BRL | Moderate | GDP (QoQ) (Q3) |  | 0.2% | 0.4% |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | -25.8% |
 | 12:30 | USD | Low | Challenger Job Cuts (Nov) |  |  | 153.074K |
 | 12:45 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 13:00 | BRL | Low | Auto Production (MoM) (Nov) |  |  | 1.8% |
 | 13:00 | BRL | Low | Auto Sales (MoM) (Nov) |  |  | 7.2% |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,960K |
-| 13:30 | USD | High | Initial Jobless Claims |  | 220K | 216K |
+| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,960K | 1,960K |
+| 13:30 | USD | High | Initial Jobless Claims |  | 219K | 216K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 223.75K |
 | 13:30 | CAD | Low | Exports (Sep) |  |  | 60.58B |
 | 13:30 | CAD | Low | Imports (Sep) |  |  | 66.91B |
@@ -44,7 +42,7 @@
 | 15:00 | CAD | Moderate | Ivey PMI (Nov) |  | 53.6 | 52.4 |
 | 15:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 3.9% | 3.9% |
-| 15:30 | USD | Low | Natural Gas Storage |  |  | -11B |
+| 15:30 | USD | Low | Natural Gas Storage |  | -18B | -11B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.905% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.840% |
 | 17:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
