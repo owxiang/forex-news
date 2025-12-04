@@ -6,17 +6,17 @@
 | 00:30 | AUD | Low | Imports (MoM) (Oct) | 2.0% |  | 1.8% |
 | 00:30 | AUD | Moderate | Trade Balance (Oct) | 4.385B | 4.440B | 3.707B |
 | 03:35 | JPY | Low | 30-Year JGB Auction | 3.427% |  | 3.166% |
-| 52 min | CHF | Low | Unemployment Rate n.s.a. (Nov) |  |  | 2.9% |
-| 52 min | CHF | Low | Unemployment Rate s.a. (Nov) |  | 3.0% | 3.0% |
-| 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Nov) |  |  | 50.7 |
-| 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (Nov) |  | 48.9 | 48.2 |
-| 08:30 | EUR | Low | HCOB Germany Construction PMI (Nov) |  |  | 42.8 |
-| 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Nov) |  |  | 39.8 |
-| 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Nov) |  |  | 44.0 |
-| 09:00 | GBP | Low | Car Registration (YoY) (Nov) |  |  | 0.5% |
-| 09:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Nov) |  |  | 144,948.0 |
-| 09:00 | ZAR | Low | Current Account (Q3) |  |  | -82.8B |
-| 09:00 | ZAR | Low | Current Account % of GDP (Q3) |  |  | -1.10% |
+| 08:00 | CHF | Low | Unemployment Rate n.s.a. (Nov) | 2.9% |  | 2.9% |
+| 08:00 | CHF | Low | Unemployment Rate s.a. (Nov) | 3.0% | 3.0% | 3.0% |
+| 20 min | EUR | Low | HCOB Italy Construction PMI (MoM) (Nov) |  |  | 50.7 |
+| 20 min | CHF | Moderate | procure.ch Manufacturing PMI (Nov) |  | 48.9 | 48.2 |
+| 20 min | EUR | Low | HCOB Germany Construction PMI (Nov) |  |  | 42.8 |
+| 20 min | EUR | Low | HCOB France Construction PMI (MoM) (Nov) |  |  | 39.8 |
+| 20 min | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Nov) |  |  | 44.0 |
+| 50 min | GBP | Low | Car Registration (YoY) (Nov) |  |  | 0.5% |
+| 50 min | GBP | Low | United Kingdom New Passenger Cars Registration (Nov) |  |  | 144,948.0 |
+| 50 min | ZAR | Low | Current Account (Q3) |  |  | -82.8B |
+| 50 min | ZAR | Low | Current Account % of GDP (Q3) |  |  | -1.10% |
 | 09:30 | GBP | Moderate | S&P Global Construction PMI (Nov) |  | 44.5 | 44.1 |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Oct) |  | 0.0% | -0.1% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (Oct) |  | 1.4% | 1.0% |
