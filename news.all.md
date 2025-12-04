@@ -54,7 +54,7 @@
 | 17:00 | USD | Low | OPEC Crude oil Production Saudi Arabia (Barrel) | 9.95M |  | 9.90M |
 | 17:00 | USD | Low | OPEC Crude oil Production UAE (Barrel) | 3.37M |  | 3.36M |
 | 17:00 | USD | Low | OPEC Crude oil Production Venezuela (Barrel) | 0.95M |  | 0.93M |
-| 18:00 | BRL | Low | Trade Balance (Nov) | 5.84B |  | 6.96B |
+| 18:00 | BRL | Low | Trade Balance (Nov) | 5.84B |  | 6.57B |
 | 18:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,552B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.898T |

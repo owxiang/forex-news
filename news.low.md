@@ -41,7 +41,7 @@
 | 17:00 | USD | OPEC Crude oil Production Saudi Arabia (Barrel) | 9.95M |  | 9.90M |
 | 17:00 | USD | OPEC Crude oil Production UAE (Barrel) | 3.37M |  | 3.36M |
 | 17:00 | USD | OPEC Crude oil Production Venezuela (Barrel) | 0.95M |  | 0.93M |
-| 18:00 | BRL | Trade Balance (Nov) | 5.84B |  | 6.96B |
+| 18:00 | BRL | Trade Balance (Nov) | 5.84B |  | 6.57B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.898T |
 | 23:00 | KRW | Current Account (Oct) |  |  | 13.47B |
 | 23:00 | JPY | Reuters Tankan Index (Dec) |  |  | 17 |
