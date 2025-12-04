@@ -12,8 +12,8 @@
 | 15:00 | USD | Factory Orders (MoM) (Sep) | 0.2% |  | 1.3% |
 | 15:00 | CAD | Ivey PMI (Nov) | 48.4 | 53.6 | 52.4 |
 | 15:00 | EUR | ECB's Lane Speaks |  |  |  |
-| 21 min | USD | Atlanta Fed GDPNow (Q4) |  | 3.9% | 3.9% |
-| 17:00 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 16:00 | USD | Atlanta Fed GDPNow (Q4) | 3.8% | 3.9% | 3.9% |
+| 50 min | USD | FOMC Member Bowman Speaks |  |  |  |
 | 18:00 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,552B |
 | 23:30 | JPY | Household Spending (YoY) (Oct) |  | 1.1% | 1.8% |
