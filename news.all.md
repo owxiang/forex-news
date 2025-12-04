@@ -5,7 +5,7 @@
 | 00:30 | AUD | Low | Exports (MoM) (Oct) | 3.4% |  | 7.6% |
 | 00:30 | AUD | Low | Imports (MoM) (Oct) | 2.0% |  | 1.8% |
 | 00:30 | AUD | Moderate | Trade Balance (Oct) | 4.385B | 4.420B | 3.707B |
-| 56 min | JPY | Low | 30-Year JGB Auction |  |  | 3.166% |
+| 2 min | JPY | Low | 30-Year JGB Auction |  |  | 3.166% |
 | 08:00 | CHF | Low | Unemployment Rate n.s.a. (Nov) |  |  | 2.9% |
 | 08:00 | CHF | Low | Unemployment Rate s.a. (Nov) |  | 3.0% | 3.0% |
 | 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Nov) |  |  | 50.7 |
