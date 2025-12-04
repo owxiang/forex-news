@@ -12,18 +12,17 @@
 | 08:30 | EUR | HCOB France Construction PMI (MoM) (Nov) | 43.6 |  | 39.8 |
 | 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Nov) | 45.4 |  | 44.0 |
 | 09:00 | GBP | Car Registration (YoY) (Nov) | -1.6% |  | 0.5% |
+| 09:00 | GBP | United Kingdom New Passenger Cars Registration (Nov) | 151,154.0 |  | 144,948.0 |
 | 09:00 | ZAR | Current Account (Q3) | -57.0B |  | -72.2B |
 | 09:00 | ZAR | Current Account % of GDP (Q3) | -0.70% |  | -1.00% |
 | 10:00 | EUR | French 10-Year OAT Auction | 3.38% |  | 3.43% |
 | 10:00 | EUR | Retail Sales (MoM) (Oct) | 0.0% | 0.0% | 0.1% |
 | 10:00 | EUR | Retail Sales (YoY) (Oct) | 1.5% | 1.4% | 1.2% |
 | 10:15 | EUR | Spanish 5-Year Bonos Auction | 2.471% |  | 2.443% |
-| 11:00 | GBP | United Kingdom New Passenger Cars Registration (Nov) |  |  | 144,948.0 |
-| 11:00 | CAD | Leading Index (MoM) (Nov) |  |  | 0.21% |
-| 12:30 | USD | Challenger Job Cuts (YoY) |  |  | -25.8% |
-| 12:30 | USD | Challenger Job Cuts (Nov) |  |  | 153.074K |
-| 13:00 | BRL | Auto Production (MoM) (Nov) |  |  | 1.8% |
-| 13:00 | BRL | Auto Sales (MoM) (Nov) |  |  | 7.2% |
+| 17 min | USD | Challenger Job Cuts (YoY) |  |  | -25.8% |
+| 17 min | USD | Challenger Job Cuts (Nov) |  |  | 153.074K |
+| 47 min | BRL | Auto Production (MoM) (Nov) |  |  | 1.8% |
+| 47 min | BRL | Auto Sales (MoM) (Nov) |  |  | 7.2% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 223.75K |
 | 15:00 | USD | Durables Excluding Defense (MoM) (Sep) |  |  | 0.1% |
 | 15:00 | USD | Durables Excluding Transport (MoM) (Sep) |  |  | 0.6% |
