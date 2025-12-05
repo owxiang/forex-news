@@ -25,12 +25,12 @@
 | 09:00 | EUR | Italian Retail Sales (YoY) (Oct) | 1.3% |  | 0.7% |
 | 10:00 | EUR | Employment Change (QoQ) (Q3) | 0.2% | 0.1% | 0.1% |
 | 10:00 | EUR | Employment Change (YoY) (Q3) | 0.6% | 0.5% | 0.7% |
-| 10:00 | EUR | Employment Overall (Q3) |  | 170,278.9K | 169,778.7K |
-| 52 min | BRL | IGP-DI Inflation Index (MoM) (Nov) |  |  | -0.03% |
-| 11:30 | INR | FX Reserves, USD |  |  | 688.10B |
-| 12:00 | MXN | Consumer Confidence (Nov) |  |  | 46.1 |
-| 12:00 | MXN | Consumer Confidence n.s.a. (Nov) |  |  | 45.7 |
-| 12:00 | BRL | Brazilian PPI (MoM) (Oct) |  |  | -0.25% |
+| 10:00 | EUR | Employment Overall (Q3) | 170,411.4K | 170,278.9K | 169,778.7K |
+| 11:00 | BRL | IGP-DI Inflation Index (MoM) (Nov) | 0.01% |  | -0.03% |
+| 23 min | INR | FX Reserves, USD |  |  | 688.10B |
+| 53 min | MXN | Consumer Confidence (Nov) |  |  | 46.1 |
+| 53 min | MXN | Consumer Confidence n.s.a. (Nov) |  |  | 45.7 |
+| 53 min | BRL | Brazilian PPI (MoM) (Oct) |  |  | -0.25% |
 | 13:30 | CAD | Avg hourly wages Permanent employee (Nov) |  |  | 4.0% |
 | 13:30 | CAD | Full Employment Change (Nov) |  |  | -18.5K |
 | 13:30 | CAD | Part Time Employment Change (Nov) |  |  | 85.1K |
