@@ -6,9 +6,9 @@
 | 07:00 | GBP | Halifax House Price Index (MoM) (Nov) | 0.0% | 0.2% | 0.5% |
 | 07:00 | GBP | Halifax House Price Index (YoY) (Nov) | 0.7% |  | 1.9% |
 | 07:00 | EUR | German Factory Orders (MoM) (Oct) | 1.5% | 0.3% | 2.0% |
-| 10:00 | GBP | Mortgage Rate (GBP) (Nov) |  |  | 6.78% |
-| 10:00 | EUR | GDP (QoQ) (Q3) |  | 0.2% | 0.1% |
-| 10:00 | EUR | GDP (YoY) |  | 1.4% | 1.5% |
+| 09:30 | GBP | Mortgage Rate (GBP) (Nov) | 6.81% |  | 6.81% |
+| 10:00 | EUR | GDP (QoQ) (Q3) | 0.3% | 0.2% | 0.1% |
+| 10:00 | EUR | GDP (YoY) | 1.4% | 1.4% | 1.5% |
 | 13:30 | CAD | Employment Change (Nov) |  | -1.5K | 66.6K |
 | 13:30 | CAD | Unemployment Rate (Nov) |  | 7.0% | 6.9% |
 | 15:00 | USD | Factory Orders (MoM) (Sep) |  |  | 1.4% |

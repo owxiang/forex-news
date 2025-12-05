@@ -20,14 +20,13 @@
 | 07:45 | EUR | French Trade Balance (Oct) | -3.9B | -6.8B | -6.4B |
 | 08:00 | CHF | Foreign Reserves (USD) (Nov) | 727.4B |  | 724.9B |
 | 08:00 | EUR | Spanish Industrial Production (YoY) (Oct) | 1.2% |  | 1.5% |
-| 21 min | HKD | Foreign Reserves (USD) (Nov) |  |  | 426.00B |
-| 51 min | EUR | Italian Retail Sales (MoM) (Oct) |  | 0.4% | -0.5% |
-| 51 min | EUR | Italian Retail Sales (YoY) (Oct) |  |  | 0.5% |
-| 10:00 | EUR | German Car Registration (YoY) |  |  | 7.8% |
-| 10:00 | EUR | Employment Change (QoQ) (Q3) |  | 0.1% | 0.1% |
-| 10:00 | EUR | Employment Change (YoY) (Q3) |  | 0.5% | 0.6% |
+| 08:30 | HKD | Foreign Reserves (USD) (Nov) | 429.40B |  | 426.10B |
+| 09:00 | EUR | Italian Retail Sales (MoM) (Oct) | 0.5% | 0.4% | -0.4% |
+| 09:00 | EUR | Italian Retail Sales (YoY) (Oct) | 1.3% |  | 0.7% |
+| 10:00 | EUR | Employment Change (QoQ) (Q3) | 0.2% | 0.1% | 0.1% |
+| 10:00 | EUR | Employment Change (YoY) (Q3) | 0.6% | 0.5% | 0.7% |
 | 10:00 | EUR | Employment Overall (Q3) |  | 170,278.9K | 169,778.7K |
-| 11:00 | BRL | IGP-DI Inflation Index (MoM) (Nov) |  |  | -0.03% |
+| 52 min | BRL | IGP-DI Inflation Index (MoM) (Nov) |  |  | -0.03% |
 | 11:30 | INR | FX Reserves, USD |  |  | 688.10B |
 | 12:00 | MXN | Consumer Confidence (Nov) |  |  | 46.1 |
 | 12:00 | MXN | Consumer Confidence n.s.a. (Nov) |  |  | 45.7 |

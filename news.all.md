@@ -24,17 +24,16 @@
 | 07:45 | EUR | Low | French Trade Balance (Oct) | -3.9B | -6.8B | -6.4B |
 | 08:00 | CHF | Low | Foreign Reserves (USD) (Nov) | 727.4B |  | 724.9B |
 | 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Oct) | 1.2% |  | 1.5% |
-| 21 min | HKD | Low | Foreign Reserves (USD) (Nov) |  |  | 426.00B |
-| 51 min | EUR | Low | Italian Retail Sales (MoM) (Oct) |  | 0.4% | -0.5% |
-| 51 min | EUR | Low | Italian Retail Sales (YoY) (Oct) |  |  | 0.5% |
-| 10:00 | GBP | Moderate | Mortgage Rate (GBP) (Nov) |  |  | 6.78% |
-| 10:00 | EUR | Low | German Car Registration (YoY) |  |  | 7.8% |
-| 10:00 | EUR | Low | Employment Change (QoQ) (Q3) |  | 0.1% | 0.1% |
-| 10:00 | EUR | Low | Employment Change (YoY) (Q3) |  | 0.5% | 0.6% |
+| 08:30 | HKD | Low | Foreign Reserves (USD) (Nov) | 429.40B |  | 426.10B |
+| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Oct) | 0.5% | 0.4% | -0.4% |
+| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Oct) | 1.3% |  | 0.7% |
+| 09:30 | GBP | Moderate | Mortgage Rate (GBP) (Nov) | 6.81% |  | 6.81% |
+| 10:00 | EUR | Low | Employment Change (QoQ) (Q3) | 0.2% | 0.1% | 0.1% |
+| 10:00 | EUR | Low | Employment Change (YoY) (Q3) | 0.6% | 0.5% | 0.7% |
 | 10:00 | EUR | Low | Employment Overall (Q3) |  | 170,278.9K | 169,778.7K |
-| 10:00 | EUR | Moderate | GDP (QoQ) (Q3) |  | 0.2% | 0.1% |
-| 10:00 | EUR | Moderate | GDP (YoY) |  | 1.4% | 1.5% |
-| 11:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Nov) |  |  | -0.03% |
+| 10:00 | EUR | Moderate | GDP (QoQ) (Q3) | 0.3% | 0.2% | 0.1% |
+| 10:00 | EUR | Moderate | GDP (YoY) | 1.4% | 1.4% | 1.5% |
+| 52 min | BRL | Low | IGP-DI Inflation Index (MoM) (Nov) |  |  | -0.03% |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 688.10B |
 | 12:00 | MXN | Low | Consumer Confidence (Nov) |  |  | 46.1 |
 | 12:00 | MXN | Low | Consumer Confidence n.s.a. (Nov) |  |  | 45.7 |
