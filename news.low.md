@@ -3,31 +3,31 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 03:00 | IDR | FX Reserves (USD) (Nov) | 150.10B |  | 149.90B |
-| 17 min | INR | Cash Reserve Ratio |  | 3.00% | 4.00% |
-| 17 min | INR | Reverse REPO Rate |  |  | 3.35% |
-| 47 min | JPY | Coincident Indicator (MoM) (Oct) |  | 1.8% | 1.8% |
-| 47 min | JPY | Leading Index (Oct) |  |  | 108.6 |
-| 47 min | JPY | Leading Index (MoM) (Oct) |  |  | 1.6% |
-| 47 min | SGD | Retail Sales (YoY) (Oct) |  |  | 2.8% |
-| 47 min | SGD | Retail Sales (MoM) (Oct) |  |  | -1.4% |
-| 06:00 | ZAR | Foreign Reserves (USD) (Nov) |  |  | 71.55B |
-| 06:00 | ZAR | Net FX Reserves (USD) (Nov) |  |  | 69.364B |
+| 04:30 | INR | Cash Reserve Ratio |  | 3.00% | 4.00% |
+| 04:30 | INR | Reverse REPO Rate | 3.35% |  | 3.35% |
+| 05:00 | JPY | Coincident Indicator (MoM) (Oct) | 0.5% | 1.8% | -1.3% |
+| 05:00 | JPY | Leading Index (Oct) |  | 109.3 | 108.6 |
+| 05:00 | JPY | Leading Index (MoM) (Oct) | 1.8% |  | 1.6% |
+| 05:00 | SGD | Retail Sales (YoY) (Oct) | 4.5% |  | 2.7% |
+| 05:00 | SGD | Retail Sales (MoM) (Oct) | 2.3% |  | -1.7% |
+| 52 min | ZAR | Foreign Reserves (USD) (Nov) |  |  | 71.55B |
+| 52 min | ZAR | Net FX Reserves (USD) (Nov) |  |  | 69.364B |
 | 07:00 | NOK | Manufacturing Production (MoM) (Oct) |  |  | -1.7% |
 | 07:45 | EUR | French Current Account (Oct) |  |  | -1.60B |
 | 07:45 | EUR | French Exports (Oct) |  |  | 51.9B |
 | 07:45 | EUR | French Imports (Oct) |  |  | 58.5B |
 | 07:45 | EUR | French Industrial Production (MoM) (Oct) |  | -0.1% | 0.8% |
-| 07:45 | EUR | French Trade Balance (Oct) |  |  | -6.6B |
-| 08:00 | CHF | Foreign Reserves (USD) (Nov) |  |  | 724,841.0B |
+| 07:45 | EUR | French Trade Balance (Oct) |  | -6.8B | -6.6B |
+| 08:00 | CHF | Foreign Reserves (USD) (Nov) |  |  | 724.8B |
 | 08:00 | EUR | Spanish Industrial Production (YoY) (Oct) |  |  | 1.7% |
 | 08:00 | JPY | Reuters Tankan Index (Dec) |  |  | 17 |
 | 08:30 | HKD | Foreign Reserves (USD) (Nov) |  |  | 426.00B |
-| 09:00 | EUR | Italian Retail Sales (MoM) (Oct) |  |  | -0.5% |
+| 09:00 | EUR | Italian Retail Sales (MoM) (Oct) |  | 0.4% | -0.5% |
 | 09:00 | EUR | Italian Retail Sales (YoY) (Oct) |  |  | 0.5% |
 | 10:00 | EUR | German Car Registration (YoY) |  |  | 7.8% |
 | 10:00 | EUR | Employment Change (QoQ) (Q3) |  | 0.1% | 0.1% |
-| 10:00 | EUR | Employment Change (YoY) (Q3) |  | 0.5% | 0.5% |
-| 10:00 | EUR | Employment Overall (Q3) |  | 170,278.9K | 170,278.9K |
+| 10:00 | EUR | Employment Change (YoY) (Q3) |  | 0.5% | 0.6% |
+| 10:00 | EUR | Employment Overall (Q3) |  | 170,278.9K | 169,778.7K |
 | 11:00 | BRL | IGP-DI Inflation Index (MoM) (Nov) |  |  | -0.03% |
 | 11:30 | INR | FX Reserves, USD |  |  | 688.10B |
 | 12:00 | MXN | Consumer Confidence (Nov) |  |  | 46.1 |
@@ -45,7 +45,7 @@
 | 15:00 | USD | Durables Excluding Defense (MoM) (Sep) |  | 0.1% | 0.1% |
 | 15:00 | USD | Durables Excluding Transport (MoM) (Sep) |  |  | 0.6% |
 | 15:00 | USD | Factory orders ex transportation (MoM) (Sep) |  |  | 0.1% |
-| 15:00 | USD | Michigan Current Conditions (Dec) |  |  | 51.1 |
+| 15:00 | USD | Michigan Current Conditions (Dec) |  | 51.3 | 51.1 |
 | 15:00 | USD | Personal Income (MoM) (Sep) |  | 0.3% | 0.4% |
 | 15:00 | USD | Real Personal Consumption (MoM) (Sep) |  |  | 0.4% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -1.4K |

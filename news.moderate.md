@@ -2,14 +2,14 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 17 min | INR | Interest Rate Decision |  | 5.25% | 5.50% |
+| 04:30 | INR | Interest Rate Decision | 5.25% | 5.25% | 5.50% |
 | 07:00 | GBP | Halifax House Price Index (YoY) (Nov) |  |  | 1.9% |
-| 07:00 | GBP | Halifax House Price Index (MoM) (Nov) |  | 0.4% | 0.6% |
-| 07:00 | EUR | German Factory Orders (MoM) (Oct) |  | 0.4% | 1.1% |
+| 07:00 | GBP | Halifax House Price Index (MoM) (Nov) |  | 0.2% | 0.6% |
+| 07:00 | EUR | German Factory Orders (MoM) (Oct) |  | 0.3% | 1.1% |
 | 10:00 | GBP | Mortgage Rate (GBP) (Nov) |  |  | 6.78% |
-| 10:00 | EUR | GDP (QoQ) (Q3) |  | 0.2% | 0.2% |
+| 10:00 | EUR | GDP (QoQ) (Q3) |  | 0.2% | 0.1% |
 | 10:00 | EUR | GDP (YoY) |  | 1.4% | 1.5% |
-| 13:30 | CAD | Employment Change (Nov) |  | -7.6K | 66.6K |
+| 13:30 | CAD | Employment Change (Nov) |  | -1.5K | 66.6K |
 | 13:30 | CAD | Unemployment Rate (Nov) |  | 7.0% | 6.9% |
 | 15:00 | USD | Factory Orders (MoM) (Sep) |  |  | 1.4% |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Dec) |  |  | 4.5% |
@@ -24,7 +24,7 @@
 | 16:20 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 407 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 544 |
-| 20:00 | USD | Consumer Credit (Oct) |  | 14.40B | 13.09B |
+| 20:00 | USD | Consumer Credit (Oct) |  | 11.80B | 13.09B |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -16.8K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 39.8K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 176.6K |
