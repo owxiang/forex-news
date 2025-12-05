@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 03:00 | JPY | Low | Reuters Tankan Index (Dec) |  |  | 17 |
-| 03:00 | IDR | Low | FX Reserves (USD) (Nov) |  |  | 149.90B |
+| 20 min | JPY | Low | Reuters Tankan Index (Dec) |  |  | 17 |
+| 20 min | IDR | Low | FX Reserves (USD) (Nov) |  |  | 149.90B |
 | 04:30 | INR | Low | Cash Reserve Ratio |  | 3.00% | 4.00% |
 | 04:30 | INR | Moderate | Interest Rate Decision |  | 5.25% | 5.50% |
 | 04:30 | INR | Low | Reverse REPO Rate |  |  | 3.35% |

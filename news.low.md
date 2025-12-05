@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:00 | JPY | Reuters Tankan Index (Dec) |  |  | 17 |
-| 03:00 | IDR | FX Reserves (USD) (Nov) |  |  | 149.90B |
+| 20 min | JPY | Reuters Tankan Index (Dec) |  |  | 17 |
+| 20 min | IDR | FX Reserves (USD) (Nov) |  |  | 149.90B |
 | 04:30 | INR | Cash Reserve Ratio |  | 3.00% | 4.00% |
 | 04:30 | INR | Reverse REPO Rate |  |  | 3.35% |
 | 05:00 | JPY | Coincident Indicator (MoM) (Oct) |  | 1.8% | 1.8% |
