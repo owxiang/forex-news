@@ -5,22 +5,22 @@
 | 03:00 | IDR | FX Reserves (USD) (Nov) | 150.10B |  | 149.90B |
 | 04:30 | INR | Cash Reserve Ratio | 4.00% | 3.00% | 4.00% |
 | 04:30 | INR | Reverse REPO Rate | 3.35% |  | 3.35% |
-| 05:00 | JPY | Coincident Indicator (MoM) (Oct) | 0.5% | 1.8% | -1.3% |
+| 05:00 | JPY | Coincident Indicator (MoM) (Oct) | 0.5% | 1.8% | 1.7% |
 | 05:00 | JPY | Leading Index (Oct) | 110.0 | 109.3 | 108.6 |
 | 05:00 | JPY | Leading Index (MoM) (Oct) | 1.8% |  | 1.6% |
 | 05:00 | SGD | Retail Sales (YoY) (Oct) | 4.5% |  | 2.7% |
 | 05:00 | SGD | Retail Sales (MoM) (Oct) | 2.3% |  | -1.7% |
 | 06:00 | ZAR | Foreign Reserves (USD) (Nov) | 72.07B |  | 71.55B |
 | 06:00 | ZAR | Net FX Reserves (USD) (Nov) | 70.024B |  | 69.364B |
-| 49 min | NOK | Manufacturing Production (MoM) (Oct) |  |  | -1.7% |
-| 07:45 | EUR | French Current Account (Oct) |  |  | -1.60B |
-| 07:45 | EUR | French Exports (Oct) |  |  | 51.9B |
-| 07:45 | EUR | French Imports (Oct) |  |  | 58.5B |
-| 07:45 | EUR | French Industrial Production (MoM) (Oct) |  | -0.1% | 0.8% |
-| 07:45 | EUR | French Trade Balance (Oct) |  | -6.8B | -6.6B |
-| 08:00 | CHF | Foreign Reserves (USD) (Nov) |  |  | 724.8B |
-| 08:00 | EUR | Spanish Industrial Production (YoY) (Oct) |  |  | 1.7% |
-| 08:00 | JPY | Reuters Tankan Index (Dec) |  |  | 17 |
+| 07:00 | NOK | Manufacturing Production (MoM) (Oct) | -0.9% |  | -1.4% |
+| 36 min | EUR | French Current Account (Oct) |  |  | -1.60B |
+| 36 min | EUR | French Exports (Oct) |  |  | 51.9B |
+| 36 min | EUR | French Imports (Oct) |  |  | 58.5B |
+| 36 min | EUR | French Industrial Production (MoM) (Oct) |  | -0.1% | 0.8% |
+| 36 min | EUR | French Trade Balance (Oct) |  | -6.8B | -6.6B |
+| 51 min | CHF | Foreign Reserves (USD) (Nov) |  |  | 724.8B |
+| 51 min | EUR | Spanish Industrial Production (YoY) (Oct) |  |  | 1.7% |
+| 51 min | JPY | Reuters Tankan Index (Dec) |  |  | 17 |
 | 08:30 | HKD | Foreign Reserves (USD) (Nov) |  |  | 426.00B |
 | 09:00 | EUR | Italian Retail Sales (MoM) (Oct) |  | 0.4% | -0.5% |
 | 09:00 | EUR | Italian Retail Sales (YoY) (Oct) |  |  | 0.5% |

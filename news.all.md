@@ -6,25 +6,25 @@
 | 04:30 | INR | Low | Cash Reserve Ratio | 4.00% | 3.00% | 4.00% |
 | 04:30 | INR | Moderate | Interest Rate Decision | 5.25% | 5.25% | 5.50% |
 | 04:30 | INR | Low | Reverse REPO Rate | 3.35% |  | 3.35% |
-| 05:00 | JPY | Low | Coincident Indicator (MoM) (Oct) | 0.5% | 1.8% | -1.3% |
+| 05:00 | JPY | Low | Coincident Indicator (MoM) (Oct) | 0.5% | 1.8% | 1.7% |
 | 05:00 | JPY | Low | Leading Index (Oct) | 110.0 | 109.3 | 108.6 |
 | 05:00 | JPY | Low | Leading Index (MoM) (Oct) | 1.8% |  | 1.6% |
 | 05:00 | SGD | Low | Retail Sales (YoY) (Oct) | 4.5% |  | 2.7% |
 | 05:00 | SGD | Low | Retail Sales (MoM) (Oct) | 2.3% |  | -1.7% |
 | 06:00 | ZAR | Low | Foreign Reserves (USD) (Nov) | 72.07B |  | 71.55B |
 | 06:00 | ZAR | Low | Net FX Reserves (USD) (Nov) | 70.024B |  | 69.364B |
-| 49 min | GBP | Moderate | Halifax House Price Index (MoM) (Nov) |  | 0.2% | 0.6% |
-| 49 min | GBP | Moderate | Halifax House Price Index (YoY) (Nov) |  |  | 1.9% |
-| 49 min | EUR | Moderate | German Factory Orders (MoM) (Oct) |  | 0.3% | 1.1% |
-| 49 min | NOK | Low | Manufacturing Production (MoM) (Oct) |  |  | -1.7% |
-| 07:45 | EUR | Low | French Current Account (Oct) |  |  | -1.60B |
-| 07:45 | EUR | Low | French Exports (Oct) |  |  | 51.9B |
-| 07:45 | EUR | Low | French Imports (Oct) |  |  | 58.5B |
-| 07:45 | EUR | Low | French Industrial Production (MoM) (Oct) |  | -0.1% | 0.8% |
-| 07:45 | EUR | Low | French Trade Balance (Oct) |  | -6.8B | -6.6B |
-| 08:00 | CHF | Low | Foreign Reserves (USD) (Nov) |  |  | 724.8B |
-| 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Oct) |  |  | 1.7% |
-| 08:00 | JPY | Low | Reuters Tankan Index (Dec) |  |  | 17 |
+| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Nov) | 0.0% | 0.2% | 0.5% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Nov) | 0.7% |  | 1.9% |
+| 07:00 | EUR | Moderate | German Factory Orders (MoM) (Oct) | 1.5% | 0.3% | 2.0% |
+| 07:00 | NOK | Low | Manufacturing Production (MoM) (Oct) | -0.9% |  | -1.4% |
+| 36 min | EUR | Low | French Current Account (Oct) |  |  | -1.60B |
+| 36 min | EUR | Low | French Exports (Oct) |  |  | 51.9B |
+| 36 min | EUR | Low | French Imports (Oct) |  |  | 58.5B |
+| 36 min | EUR | Low | French Industrial Production (MoM) (Oct) |  | -0.1% | 0.8% |
+| 36 min | EUR | Low | French Trade Balance (Oct) |  | -6.8B | -6.6B |
+| 51 min | CHF | Low | Foreign Reserves (USD) (Nov) |  |  | 724.8B |
+| 51 min | EUR | Low | Spanish Industrial Production (YoY) (Oct) |  |  | 1.7% |
+| 51 min | JPY | Low | Reuters Tankan Index (Dec) |  |  | 17 |
 | 08:30 | HKD | Low | Foreign Reserves (USD) (Nov) |  |  | 426.00B |
 | 09:00 | EUR | Low | Italian Retail Sales (MoM) (Oct) |  | 0.4% | -0.5% |
 | 09:00 | EUR | Low | Italian Retail Sales (YoY) (Oct) |  |  | 0.5% |
