@@ -3,14 +3,14 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 03:00 | IDR | Low | FX Reserves (USD) (Nov) | 150.10B |  | 149.90B |
-| 58 min | INR | Low | Cash Reserve Ratio |  | 3.00% | 4.00% |
-| 58 min | INR | Moderate | Interest Rate Decision |  | 5.25% | 5.50% |
-| 58 min | INR | Low | Reverse REPO Rate |  |  | 3.35% |
-| 05:00 | JPY | Low | Coincident Indicator (MoM) (Oct) |  | 1.8% | 1.8% |
-| 05:00 | JPY | Low | Leading Index (Oct) |  |  | 108.6 |
-| 05:00 | JPY | Low | Leading Index (MoM) (Oct) |  |  | 1.6% |
-| 05:00 | SGD | Low | Retail Sales (YoY) (Oct) |  |  | 2.8% |
-| 05:00 | SGD | Low | Retail Sales (MoM) (Oct) |  |  | -1.4% |
+| 17 min | INR | Low | Cash Reserve Ratio |  | 3.00% | 4.00% |
+| 17 min | INR | Moderate | Interest Rate Decision |  | 5.25% | 5.50% |
+| 17 min | INR | Low | Reverse REPO Rate |  |  | 3.35% |
+| 47 min | JPY | Low | Coincident Indicator (MoM) (Oct) |  | 1.8% | 1.8% |
+| 47 min | JPY | Low | Leading Index (Oct) |  |  | 108.6 |
+| 47 min | JPY | Low | Leading Index (MoM) (Oct) |  |  | 1.6% |
+| 47 min | SGD | Low | Retail Sales (YoY) (Oct) |  |  | 2.8% |
+| 47 min | SGD | Low | Retail Sales (MoM) (Oct) |  |  | -1.4% |
 | 06:00 | ZAR | Low | Foreign Reserves (USD) (Nov) |  |  | 71.55B |
 | 06:00 | ZAR | Low | Net FX Reserves (USD) (Nov) |  |  | 69.364B |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Nov) |  |  | 1.9% |

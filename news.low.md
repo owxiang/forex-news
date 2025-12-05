@@ -3,13 +3,13 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 03:00 | IDR | FX Reserves (USD) (Nov) | 150.10B |  | 149.90B |
-| 58 min | INR | Cash Reserve Ratio |  | 3.00% | 4.00% |
-| 58 min | INR | Reverse REPO Rate |  |  | 3.35% |
-| 05:00 | JPY | Coincident Indicator (MoM) (Oct) |  | 1.8% | 1.8% |
-| 05:00 | JPY | Leading Index (Oct) |  |  | 108.6 |
-| 05:00 | JPY | Leading Index (MoM) (Oct) |  |  | 1.6% |
-| 05:00 | SGD | Retail Sales (YoY) (Oct) |  |  | 2.8% |
-| 05:00 | SGD | Retail Sales (MoM) (Oct) |  |  | -1.4% |
+| 17 min | INR | Cash Reserve Ratio |  | 3.00% | 4.00% |
+| 17 min | INR | Reverse REPO Rate |  |  | 3.35% |
+| 47 min | JPY | Coincident Indicator (MoM) (Oct) |  | 1.8% | 1.8% |
+| 47 min | JPY | Leading Index (Oct) |  |  | 108.6 |
+| 47 min | JPY | Leading Index (MoM) (Oct) |  |  | 1.6% |
+| 47 min | SGD | Retail Sales (YoY) (Oct) |  |  | 2.8% |
+| 47 min | SGD | Retail Sales (MoM) (Oct) |  |  | -1.4% |
 | 06:00 | ZAR | Foreign Reserves (USD) (Nov) |  |  | 71.55B |
 | 06:00 | ZAR | Net FX Reserves (USD) (Nov) |  |  | 69.364B |
 | 07:00 | NOK | Manufacturing Production (MoM) (Oct) |  |  | -1.7% |

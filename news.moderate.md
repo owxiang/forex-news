@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 58 min | INR | Interest Rate Decision |  | 5.25% | 5.50% |
+| 17 min | INR | Interest Rate Decision |  | 5.25% | 5.50% |
 | 07:00 | GBP | Halifax House Price Index (YoY) (Nov) |  |  | 1.9% |
 | 07:00 | GBP | Halifax House Price Index (MoM) (Nov) |  | 0.4% | 0.6% |
 | 07:00 | EUR | German Factory Orders (MoM) (Oct) |  | 0.4% | 1.1% |
