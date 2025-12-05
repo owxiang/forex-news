@@ -13,17 +13,16 @@
 | 06:00 | ZAR | Foreign Reserves (USD) (Nov) | 72.07B |  | 71.55B |
 | 06:00 | ZAR | Net FX Reserves (USD) (Nov) | 70.024B |  | 69.364B |
 | 07:00 | NOK | Manufacturing Production (MoM) (Oct) | -0.9% |  | -1.4% |
-| 36 min | EUR | French Current Account (Oct) |  |  | -1.60B |
-| 36 min | EUR | French Exports (Oct) |  |  | 51.9B |
-| 36 min | EUR | French Imports (Oct) |  |  | 58.5B |
-| 36 min | EUR | French Industrial Production (MoM) (Oct) |  | -0.1% | 0.8% |
-| 36 min | EUR | French Trade Balance (Oct) |  | -6.8B | -6.6B |
-| 51 min | CHF | Foreign Reserves (USD) (Nov) |  |  | 724.8B |
-| 51 min | EUR | Spanish Industrial Production (YoY) (Oct) |  |  | 1.7% |
-| 51 min | JPY | Reuters Tankan Index (Dec) |  |  | 17 |
-| 08:30 | HKD | Foreign Reserves (USD) (Nov) |  |  | 426.00B |
-| 09:00 | EUR | Italian Retail Sales (MoM) (Oct) |  | 0.4% | -0.5% |
-| 09:00 | EUR | Italian Retail Sales (YoY) (Oct) |  |  | 0.5% |
+| 07:45 | EUR | French Current Account (Oct) | 1.10B |  | -1.60B |
+| 07:45 | EUR | French Exports (Oct) | 51.7B |  | 52.0B |
+| 07:45 | EUR | French Imports (Oct) | 55.6B |  | 58.3B |
+| 07:45 | EUR | French Industrial Production (MoM) (Oct) | 0.2% | -0.1% | 0.7% |
+| 07:45 | EUR | French Trade Balance (Oct) | -3.9B | -6.8B | -6.4B |
+| 08:00 | CHF | Foreign Reserves (USD) (Nov) | 727.4B |  | 724.9B |
+| 08:00 | EUR | Spanish Industrial Production (YoY) (Oct) | 1.2% |  | 1.5% |
+| 21 min | HKD | Foreign Reserves (USD) (Nov) |  |  | 426.00B |
+| 51 min | EUR | Italian Retail Sales (MoM) (Oct) |  | 0.4% | -0.5% |
+| 51 min | EUR | Italian Retail Sales (YoY) (Oct) |  |  | 0.5% |
 | 10:00 | EUR | German Car Registration (YoY) |  |  | 7.8% |
 | 10:00 | EUR | Employment Change (QoQ) (Q3) |  | 0.1% | 0.1% |
 | 10:00 | EUR | Employment Change (YoY) (Q3) |  | 0.5% | 0.6% |

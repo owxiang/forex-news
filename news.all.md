@@ -17,17 +17,16 @@
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Nov) | 0.7% |  | 1.9% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Oct) | 1.5% | 0.3% | 2.0% |
 | 07:00 | NOK | Low | Manufacturing Production (MoM) (Oct) | -0.9% |  | -1.4% |
-| 36 min | EUR | Low | French Current Account (Oct) |  |  | -1.60B |
-| 36 min | EUR | Low | French Exports (Oct) |  |  | 51.9B |
-| 36 min | EUR | Low | French Imports (Oct) |  |  | 58.5B |
-| 36 min | EUR | Low | French Industrial Production (MoM) (Oct) |  | -0.1% | 0.8% |
-| 36 min | EUR | Low | French Trade Balance (Oct) |  | -6.8B | -6.6B |
-| 51 min | CHF | Low | Foreign Reserves (USD) (Nov) |  |  | 724.8B |
-| 51 min | EUR | Low | Spanish Industrial Production (YoY) (Oct) |  |  | 1.7% |
-| 51 min | JPY | Low | Reuters Tankan Index (Dec) |  |  | 17 |
-| 08:30 | HKD | Low | Foreign Reserves (USD) (Nov) |  |  | 426.00B |
-| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Oct) |  | 0.4% | -0.5% |
-| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Oct) |  |  | 0.5% |
+| 07:45 | EUR | Low | French Current Account (Oct) | 1.10B |  | -1.60B |
+| 07:45 | EUR | Low | French Exports (Oct) | 51.7B |  | 52.0B |
+| 07:45 | EUR | Low | French Imports (Oct) | 55.6B |  | 58.3B |
+| 07:45 | EUR | Low | French Industrial Production (MoM) (Oct) | 0.2% | -0.1% | 0.7% |
+| 07:45 | EUR | Low | French Trade Balance (Oct) | -3.9B | -6.8B | -6.4B |
+| 08:00 | CHF | Low | Foreign Reserves (USD) (Nov) | 727.4B |  | 724.9B |
+| 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Oct) | 1.2% |  | 1.5% |
+| 21 min | HKD | Low | Foreign Reserves (USD) (Nov) |  |  | 426.00B |
+| 51 min | EUR | Low | Italian Retail Sales (MoM) (Oct) |  | 0.4% | -0.5% |
+| 51 min | EUR | Low | Italian Retail Sales (YoY) (Oct) |  |  | 0.5% |
 | 10:00 | GBP | Moderate | Mortgage Rate (GBP) (Nov) |  |  | 6.78% |
 | 10:00 | EUR | Low | German Car Registration (YoY) |  |  | 7.8% |
 | 10:00 | EUR | Low | Employment Change (QoQ) (Q3) |  | 0.1% | 0.1% |
