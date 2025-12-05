@@ -44,8 +44,8 @@
 | 13:30 | CAD | Low | Part Time Employment Change (Nov) | 63.0K |  | 85.1K |
 | 13:30 | CAD | Low | Participation Rate (Nov) | 65.1% |  | 65.3% |
 | 13:30 | CAD | Moderate | Unemployment Rate (Nov) | 6.5% | 7.0% | 6.9% |
-| 15:00 | USD | High | Core PCE Price Index (YoY) (Sep) | 2.8% | 2.9% | 2.9% |
 | 15:00 | USD | High | Core PCE Price Index (MoM) (Sep) | 0.2% | 0.2% | 0.2% |
+| 15:00 | USD | High | Core PCE Price Index (YoY) (Sep) | 2.8% | 2.9% | 2.9% |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Dec) | 4.1% | 4.5% | 4.5% |
 | 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Dec) | 3.2% | 3.4% | 3.4% |
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Dec) | 55.0 | 52.0 | 51.0 |
@@ -58,9 +58,11 @@
 | 15:00 | USD | Low | Real Personal Consumption (MoM) (Sep) | 0.0% |  | 0.2% |
 | 15:10 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 16:20 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 3.8% | 3.8% |
-| 52 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 407 |
-| 52 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 544 |
+| 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 3.5% | 3.8% | 3.8% |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 413 |  | 407 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 549 |  | 544 |
+| 51 min | USD | Moderate | Nonfarm Productivity (QoQ) (Q3) |  |  | 3.3% |
+| 51 min | USD | Moderate | Unit Labor Costs (QoQ) (Q3) |  |  | 1.0% |
 | 20:00 | USD | Moderate | Consumer Credit (Oct) |  | 11.80B | 13.09B |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -16.8K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -1.4K |
