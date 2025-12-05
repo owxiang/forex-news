@@ -3,16 +3,16 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 03:00 | IDR | FX Reserves (USD) (Nov) | 150.10B |  | 149.90B |
-| 04:30 | INR | Cash Reserve Ratio |  | 3.00% | 4.00% |
+| 04:30 | INR | Cash Reserve Ratio | 4.00% | 3.00% | 4.00% |
 | 04:30 | INR | Reverse REPO Rate | 3.35% |  | 3.35% |
 | 05:00 | JPY | Coincident Indicator (MoM) (Oct) | 0.5% | 1.8% | -1.3% |
-| 05:00 | JPY | Leading Index (Oct) |  | 109.3 | 108.6 |
+| 05:00 | JPY | Leading Index (Oct) | 110.0 | 109.3 | 108.6 |
 | 05:00 | JPY | Leading Index (MoM) (Oct) | 1.8% |  | 1.6% |
 | 05:00 | SGD | Retail Sales (YoY) (Oct) | 4.5% |  | 2.7% |
 | 05:00 | SGD | Retail Sales (MoM) (Oct) | 2.3% |  | -1.7% |
-| 52 min | ZAR | Foreign Reserves (USD) (Nov) |  |  | 71.55B |
-| 52 min | ZAR | Net FX Reserves (USD) (Nov) |  |  | 69.364B |
-| 07:00 | NOK | Manufacturing Production (MoM) (Oct) |  |  | -1.7% |
+| 06:00 | ZAR | Foreign Reserves (USD) (Nov) | 72.07B |  | 71.55B |
+| 06:00 | ZAR | Net FX Reserves (USD) (Nov) | 70.024B |  | 69.364B |
+| 49 min | NOK | Manufacturing Production (MoM) (Oct) |  |  | -1.7% |
 | 07:45 | EUR | French Current Account (Oct) |  |  | -1.60B |
 | 07:45 | EUR | French Exports (Oct) |  |  | 51.9B |
 | 07:45 | EUR | French Imports (Oct) |  |  | 58.5B |
@@ -33,8 +33,6 @@
 | 12:00 | MXN | Consumer Confidence (Nov) |  |  | 46.1 |
 | 12:00 | MXN | Consumer Confidence n.s.a. (Nov) |  |  | 45.7 |
 | 12:00 | BRL | Brazilian PPI (MoM) (Oct) |  |  | -0.25% |
-| 13:00 | BRL | Auto Production (MoM) (Nov) |  |  | 1.8% |
-| 13:00 | BRL | Auto Sales (MoM) (Nov) |  |  | 7.2% |
 | 13:30 | CAD | Avg hourly wages Permanent employee (Nov) |  |  | 4.0% |
 | 13:30 | CAD | Full Employment Change (Nov) |  |  | -18.5K |
 | 13:30 | CAD | Part Time Employment Change (Nov) |  |  | 85.1K |

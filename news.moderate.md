@@ -3,9 +3,9 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 04:30 | INR | Interest Rate Decision | 5.25% | 5.25% | 5.50% |
-| 07:00 | GBP | Halifax House Price Index (YoY) (Nov) |  |  | 1.9% |
-| 07:00 | GBP | Halifax House Price Index (MoM) (Nov) |  | 0.2% | 0.6% |
-| 07:00 | EUR | German Factory Orders (MoM) (Oct) |  | 0.3% | 1.1% |
+| 49 min | GBP | Halifax House Price Index (MoM) (Nov) |  | 0.2% | 0.6% |
+| 49 min | GBP | Halifax House Price Index (YoY) (Nov) |  |  | 1.9% |
+| 49 min | EUR | German Factory Orders (MoM) (Oct) |  | 0.3% | 1.1% |
 | 10:00 | GBP | Mortgage Rate (GBP) (Nov) |  |  | 6.78% |
 | 10:00 | EUR | GDP (QoQ) (Q3) |  | 0.2% | 0.1% |
 | 10:00 | EUR | GDP (YoY) |  | 1.4% | 1.5% |
@@ -16,8 +16,8 @@
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Dec) |  |  | 3.4% |
 | 15:00 | USD | Michigan Consumer Expectations (Dec) |  | 52.0 | 51.0 |
 | 15:00 | USD | Michigan Consumer Sentiment (Dec) |  |  | 51.0 |
-| 15:00 | USD | PCE Price index (YoY) (Sep) |  | 2.8% | 2.7% |
 | 15:00 | USD | PCE price index (MoM) (Sep) |  | 0.3% | 0.3% |
+| 15:00 | USD | PCE Price index (YoY) (Sep) |  | 2.8% | 2.7% |
 | 15:00 | USD | Personal Spending (MoM) (Sep) |  | 0.3% | 0.6% |
 | 15:10 | EUR | ECB's Lane Speaks |  |  |  |
 | 16:00 | USD | Atlanta Fed GDPNow (Q4) |  | 3.8% | 3.8% |
