@@ -9,16 +9,16 @@
 | 09:30 | GBP | Mortgage Rate (GBP) (Nov) | 6.81% |  | 6.81% |
 | 10:00 | EUR | GDP (QoQ) (Q3) | 0.3% | 0.2% | 0.1% |
 | 10:00 | EUR | GDP (YoY) | 1.4% | 1.4% | 1.5% |
-| 14 min | CAD | Employment Change (Nov) |  | -1.5K | 66.6K |
-| 14 min | CAD | Unemployment Rate (Nov) |  | 7.0% | 6.9% |
-| 15:00 | USD | Factory Orders (MoM) (Sep) |  |  | 1.4% |
-| 15:00 | USD | Michigan 1-Year Inflation Expectations (Dec) |  |  | 4.5% |
-| 15:00 | USD | Michigan 5-Year Inflation Expectations (Dec) |  |  | 3.4% |
-| 15:00 | USD | Michigan Consumer Expectations (Dec) |  | 52.0 | 51.0 |
-| 15:00 | USD | Michigan Consumer Sentiment (Dec) |  |  | 51.0 |
-| 15:00 | USD | PCE price index (MoM) (Sep) |  | 0.3% | 0.3% |
-| 15:00 | USD | PCE Price index (YoY) (Sep) |  | 2.8% | 2.7% |
-| 15:00 | USD | Personal Spending (MoM) (Sep) |  | 0.3% | 0.6% |
+| 13:30 | CAD | Employment Change (Nov) | 53.6K | -1.5K | 66.6K |
+| 13:30 | CAD | Unemployment Rate (Nov) | 6.5% | 7.0% | 6.9% |
+| 53 min | USD | Factory Orders (MoM) (Sep) |  |  | 1.4% |
+| 53 min | USD | Michigan 1-Year Inflation Expectations (Dec) |  |  | 4.5% |
+| 53 min | USD | Michigan 5-Year Inflation Expectations (Dec) |  |  | 3.4% |
+| 53 min | USD | Michigan Consumer Expectations (Dec) |  | 52.0 | 51.0 |
+| 53 min | USD | Michigan Consumer Sentiment (Dec) |  |  | 51.0 |
+| 53 min | USD | PCE price index (MoM) (Sep) |  | 0.3% | 0.3% |
+| 53 min | USD | PCE Price index (YoY) (Sep) |  | 2.8% | 2.7% |
+| 53 min | USD | Personal Spending (MoM) (Sep) |  | 0.3% | 0.6% |
 | 15:10 | EUR | ECB's Lane Speaks |  |  |  |
 | 16:00 | USD | Atlanta Fed GDPNow (Q4) |  | 3.8% | 3.8% |
 | 16:20 | EUR | German Buba Mauderer Speaks |  |  |  |
