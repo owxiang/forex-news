@@ -34,10 +34,10 @@
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q3) | 0.3% | 0.2% | 0.1% |
 | 10:00 | EUR | Moderate | GDP (YoY) | 1.4% | 1.4% | 1.5% |
 | 11:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Nov) | 0.01% |  | -0.03% |
-| 23 min | INR | Low | FX Reserves, USD |  |  | 688.10B |
-| 53 min | MXN | Low | Consumer Confidence (Nov) |  |  | 46.1 |
-| 53 min | MXN | Low | Consumer Confidence n.s.a. (Nov) |  |  | 45.7 |
-| 53 min | BRL | Low | Brazilian PPI (MoM) (Oct) |  |  | -0.25% |
+| 11:30 | INR | Low | FX Reserves, USD | 686.23B |  | 688.10B |
+| 12:00 | MXN | Low | Consumer Confidence (Nov) | 44.2 |  | 45.8 |
+| 12:00 | MXN | Low | Consumer Confidence n.s.a. (Nov) | 44.0 |  | 45.7 |
+| 12:00 | BRL | Low | Brazilian PPI (MoM) (Oct) | -0.48% |  | -0.25% |
 | 13:30 | CAD | Low | Avg hourly wages Permanent employee (Nov) |  |  | 4.0% |
 | 13:30 | CAD | Moderate | Employment Change (Nov) |  | -1.5K | 66.6K |
 | 13:30 | CAD | Low | Full Employment Change (Nov) |  |  | -18.5K |

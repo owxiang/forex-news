@@ -27,10 +27,10 @@
 | 10:00 | EUR | Employment Change (YoY) (Q3) | 0.6% | 0.5% | 0.7% |
 | 10:00 | EUR | Employment Overall (Q3) | 170,411.4K | 170,278.9K | 169,778.7K |
 | 11:00 | BRL | IGP-DI Inflation Index (MoM) (Nov) | 0.01% |  | -0.03% |
-| 23 min | INR | FX Reserves, USD |  |  | 688.10B |
-| 53 min | MXN | Consumer Confidence (Nov) |  |  | 46.1 |
-| 53 min | MXN | Consumer Confidence n.s.a. (Nov) |  |  | 45.7 |
-| 53 min | BRL | Brazilian PPI (MoM) (Oct) |  |  | -0.25% |
+| 11:30 | INR | FX Reserves, USD | 686.23B |  | 688.10B |
+| 12:00 | MXN | Consumer Confidence (Nov) | 44.2 |  | 45.8 |
+| 12:00 | MXN | Consumer Confidence n.s.a. (Nov) | 44.0 |  | 45.7 |
+| 12:00 | BRL | Brazilian PPI (MoM) (Oct) | -0.48% |  | -0.25% |
 | 13:30 | CAD | Avg hourly wages Permanent employee (Nov) |  |  | 4.0% |
 | 13:30 | CAD | Full Employment Change (Nov) |  |  | -18.5K |
 | 13:30 | CAD | Part Time Employment Change (Nov) |  |  | 85.1K |
