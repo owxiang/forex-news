@@ -44,8 +44,8 @@
 | 13:30 | CAD | Low | Part Time Employment Change (Nov) | 63.0K |  | 85.1K |
 | 13:30 | CAD | Low | Participation Rate (Nov) | 65.1% |  | 65.3% |
 | 13:30 | CAD | Moderate | Unemployment Rate (Nov) | 6.5% | 7.0% | 6.9% |
-| 15:00 | USD | High | Core PCE Price Index (MoM) (Sep) | 0.2% | 0.2% | 0.2% |
 | 15:00 | USD | High | Core PCE Price Index (YoY) (Sep) | 2.8% | 2.9% | 2.9% |
+| 15:00 | USD | High | Core PCE Price Index (MoM) (Sep) | 0.2% | 0.2% | 0.2% |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Dec) | 4.1% | 4.5% | 4.5% |
 | 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Dec) | 3.2% | 3.4% | 3.4% |
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Dec) | 55.0 | 52.0 | 51.0 |
@@ -61,27 +61,25 @@
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 3.5% | 3.8% | 3.8% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 413 |  | 407 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 549 |  | 544 |
-| 19:00 | USD | Moderate | Nonfarm Productivity (QoQ) (Q3) |  |  | 3.3% |
-| 19:00 | USD | Moderate | Unit Labor Costs (QoQ) (Q3) |  |  | 1.0% |
-| 54 min | USD | Moderate | Consumer Credit (Oct) |  | 11.80B | 13.09B |
-| 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -16.8K |
-| 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -1.4K |
-| 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 41.2K |
-| 20:30 | USD | Low | CFTC Corn speculative net positions |  |  | -83.3K |
-| 20:30 | USD | Moderate | CFTC Crude Oil speculative net positions |  |  | 39.8K |
-| 20:30 | USD | Moderate | CFTC Gold speculative net positions |  |  | 176.6K |
-| 20:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions |  |  | 48.9K |
-| 20:30 | USD | Low | CFTC Natural Gas speculative net positions |  |  | -158.8K |
-| 20:30 | USD | Moderate | CFTC S&P 500 speculative net positions |  |  | -145.3K |
-| 20:30 | USD | Low | CFTC Silver speculative net positions |  |  | 37.3K |
-| 20:30 | USD | Low | CFTC Soybeans speculative net positions |  |  | 77.6K |
-| 20:30 | USD | Low | CFTC Wheat speculative net positions |  |  | -80.2K |
-| 20:30 | CAD | Low | CFTC CAD speculative net positions |  |  | -145.1K |
-| 20:30 | MXN | Low | CFTC MXN speculative net positions |  |  | 73.3K |
-| 20:30 | CHF | Low | CFTC CHF speculative net positions |  |  | -27.8K |
-| 20:30 | AUD | Moderate | CFTC AUD speculative net positions |  |  | -65.8K |
-| 20:30 | BRL | Moderate | CFTC BRL speculative net positions |  |  | 55.2K |
-| 20:30 | JPY | Moderate | CFTC JPY speculative net positions |  |  | 70.4K |
-| 20:30 | NZD | Low | CFTC NZD speculative net positions |  |  | -36.3K |
-| 20:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | 111.8K |
+| 20:00 | USD | Moderate | Consumer Credit (Oct) | 9.18B | 11.80B | 11.01B |
+| 22 min | GBP | Moderate | CFTC GBP speculative net positions |  |  | -16.8K |
+| 22 min | USD | Low | CFTC Aluminium speculative net positions |  |  | -1.4K |
+| 22 min | USD | Low | CFTC Copper speculative net positions |  |  | 41.2K |
+| 22 min | USD | Low | CFTC Corn speculative net positions |  |  | -83.3K |
+| 22 min | USD | Moderate | CFTC Crude Oil speculative net positions |  |  | 39.8K |
+| 22 min | USD | Moderate | CFTC Gold speculative net positions |  |  | 176.6K |
+| 22 min | USD | Moderate | CFTC Nasdaq 100 speculative net positions |  |  | 48.9K |
+| 22 min | USD | Low | CFTC Natural Gas speculative net positions |  |  | -158.8K |
+| 22 min | USD | Moderate | CFTC S&P 500 speculative net positions |  |  | -145.3K |
+| 22 min | USD | Low | CFTC Silver speculative net positions |  |  | 37.3K |
+| 22 min | USD | Low | CFTC Soybeans speculative net positions |  |  | 77.6K |
+| 22 min | USD | Low | CFTC Wheat speculative net positions |  |  | -80.2K |
+| 22 min | CAD | Low | CFTC CAD speculative net positions |  |  | -145.1K |
+| 22 min | MXN | Low | CFTC MXN speculative net positions |  |  | 73.3K |
+| 22 min | CHF | Low | CFTC CHF speculative net positions |  |  | -27.8K |
+| 22 min | AUD | Moderate | CFTC AUD speculative net positions |  |  | -65.8K |
+| 22 min | BRL | Moderate | CFTC BRL speculative net positions |  |  | 55.2K |
+| 22 min | JPY | Moderate | CFTC JPY speculative net positions |  |  | 70.4K |
+| 22 min | NZD | Low | CFTC NZD speculative net positions |  |  | -36.3K |
+| 22 min | EUR | Moderate | CFTC EUR speculative net positions |  |  | 111.8K |
 | 23:50 | JPY | Low | Foreign Reserves (USD) (Nov) |  |  | 1,347.4B |
