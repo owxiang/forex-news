@@ -57,10 +57,10 @@
 | 15:00 | USD | Moderate | Personal Spending (MoM) (Sep) | 0.3% | 0.3% | 0.5% |
 | 15:00 | USD | Low | Real Personal Consumption (MoM) (Sep) | 0.0% |  | 0.2% |
 | 15:10 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 11 min | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 51 min | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 3.8% | 3.8% |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 407 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 544 |
+| 16:20 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 3.8% | 3.8% |
+| 52 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 407 |
+| 52 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 544 |
 | 20:00 | USD | Moderate | Consumer Credit (Oct) |  | 11.80B | 13.09B |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -16.8K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -1.4K |

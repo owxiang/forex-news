@@ -19,10 +19,10 @@
 | 15:00 | USD | PCE price index (MoM) (Sep) | 0.3% | 0.3% | 0.3% |
 | 15:00 | USD | Personal Spending (MoM) (Sep) | 0.3% | 0.3% | 0.5% |
 | 15:10 | EUR | ECB's Lane Speaks |  |  |  |
-| 11 min | EUR | German Buba Mauderer Speaks |  |  |  |
-| 51 min | USD | Atlanta Fed GDPNow (Q4) |  | 3.8% | 3.8% |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 407 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 544 |
+| 16:20 | EUR | German Buba Mauderer Speaks |  |  |  |
+| 17:00 | USD | Atlanta Fed GDPNow (Q4) |  | 3.8% | 3.8% |
+| 52 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 407 |
+| 52 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 544 |
 | 20:00 | USD | Consumer Credit (Oct) |  | 11.80B | 13.09B |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -16.8K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 39.8K |
