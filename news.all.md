@@ -44,22 +44,22 @@
 | 13:30 | CAD | Low | Part Time Employment Change (Nov) | 63.0K |  | 85.1K |
 | 13:30 | CAD | Low | Participation Rate (Nov) | 65.1% |  | 65.3% |
 | 13:30 | CAD | Moderate | Unemployment Rate (Nov) | 6.5% | 7.0% | 6.9% |
-| 15:00 | USD | High | Core PCE Price Index (YoY) (Sep) | 2.8% | 2.9% | 2.9% |
 | 15:00 | USD | High | Core PCE Price Index (MoM) (Sep) | 0.2% | 0.2% | 0.2% |
+| 15:00 | USD | High | Core PCE Price Index (YoY) (Sep) | 2.8% | 2.9% | 2.9% |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Dec) | 4.1% | 4.5% | 4.5% |
 | 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Dec) | 3.2% | 3.4% | 3.4% |
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Dec) | 55.0 | 52.0 | 51.0 |
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Dec) | 53.3 |  | 51.0 |
 | 15:00 | USD | Low | Michigan Current Conditions (Dec) | 50.7 | 51.3 | 51.1 |
-| 15:00 | USD | Moderate | PCE Price index (YoY) (Sep) | 2.8% | 2.8% | 2.7% |
 | 15:00 | USD | Moderate | PCE price index (MoM) (Sep) | 0.3% | 0.3% | 0.3% |
+| 15:00 | USD | Moderate | PCE Price index (YoY) (Sep) | 2.8% | 2.8% | 2.7% |
 | 15:00 | USD | Low | Personal Income (MoM) (Sep) | 0.4% | 0.3% | 0.4% |
 | 15:00 | USD | Moderate | Personal Spending (MoM) (Sep) | 0.3% | 0.3% | 0.5% |
 | 15:00 | USD | Low | Real Personal Consumption (MoM) (Sep) | 0.0% |  | 0.2% |
 | 15:10 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 16:20 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 3.5% | 3.8% | 3.8% |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 413 |  | 407 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 413 | 409 | 407 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 549 |  | 544 |
 | 20:00 | USD | Moderate | Consumer Credit (Oct) | 9.18B | 11.80B | 11.01B |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions | -20.3K |  | -16.8K |
@@ -82,4 +82,3 @@
 | 20:30 | JPY | Moderate | CFTC JPY speculative net positions | 68.1K |  | 70.4K |
 | 20:30 | NZD | Low | CFTC NZD speculative net positions | -35.0K |  | -36.3K |
 | 20:30 | EUR | Moderate | CFTC EUR speculative net positions | 107.3K |  | 111.8K |
-| 23:50 | JPY | Low | Foreign Reserves (USD) (Nov) |  |  | 1,347.4B |

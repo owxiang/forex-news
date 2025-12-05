@@ -49,4 +49,3 @@
 | 20:30 | MXN | CFTC MXN speculative net positions | 81.5K |  | 73.3K |
 | 20:30 | CHF | CFTC CHF speculative net positions | -27.9K |  | -27.8K |
 | 20:30 | NZD | CFTC NZD speculative net positions | -35.0K |  | -36.3K |
-| 23:50 | JPY | Foreign Reserves (USD) (Nov) |  |  | 1,347.4B |
