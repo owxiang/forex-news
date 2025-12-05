@@ -30,13 +30,13 @@
 | 11:30 | INR | FX Reserves, USD | 686.23B |  | 688.10B |
 | 12:00 | MXN | Consumer Confidence (Nov) | 44.2 |  | 45.8 |
 | 12:00 | MXN | Consumer Confidence n.s.a. (Nov) | 44.0 |  | 45.7 |
-| 12:00 | BRL | Brazilian PPI (MoM) (Oct) | -0.48% |  | -0.25% |
-| 13:30 | CAD | Avg hourly wages Permanent employee (Nov) |  |  | 4.0% |
-| 13:30 | CAD | Full Employment Change (Nov) |  |  | -18.5K |
-| 13:30 | CAD | Part Time Employment Change (Nov) |  |  | 85.1K |
-| 13:30 | CAD | Participation Rate (Nov) |  |  | 65.3% |
-| 14:00 | BRL | Auto Production (MoM) (Nov) |  |  | 1.8% |
-| 14:00 | BRL | Auto Sales (MoM) (Nov) |  |  | 7.2% |
+| 12:00 | BRL | Brazilian PPI (MoM) (Oct) | -0.48% |  | -0.24% |
+| 14 min | CAD | Avg hourly wages Permanent employee (Nov) |  |  | 4.0% |
+| 14 min | CAD | Full Employment Change (Nov) |  |  | -18.5K |
+| 14 min | CAD | Part Time Employment Change (Nov) |  |  | 85.1K |
+| 14 min | CAD | Participation Rate (Nov) |  |  | 65.3% |
+| 44 min | BRL | Auto Production (MoM) (Nov) |  |  | 1.8% |
+| 44 min | BRL | Auto Sales (MoM) (Nov) |  |  | 7.2% |
 | 15:00 | USD | Dallas Fed PCE (Sep) |  |  | 2.80% |
 | 15:00 | USD | Durables Excluding Defense (MoM) (Sep) |  | 0.1% | 0.1% |
 | 15:00 | USD | Durables Excluding Transport (MoM) (Sep) |  |  | 0.6% |

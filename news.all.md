@@ -37,15 +37,15 @@
 | 11:30 | INR | Low | FX Reserves, USD | 686.23B |  | 688.10B |
 | 12:00 | MXN | Low | Consumer Confidence (Nov) | 44.2 |  | 45.8 |
 | 12:00 | MXN | Low | Consumer Confidence n.s.a. (Nov) | 44.0 |  | 45.7 |
-| 12:00 | BRL | Low | Brazilian PPI (MoM) (Oct) | -0.48% |  | -0.25% |
-| 13:30 | CAD | Low | Avg hourly wages Permanent employee (Nov) |  |  | 4.0% |
-| 13:30 | CAD | Moderate | Employment Change (Nov) |  | -1.5K | 66.6K |
-| 13:30 | CAD | Low | Full Employment Change (Nov) |  |  | -18.5K |
-| 13:30 | CAD | Low | Part Time Employment Change (Nov) |  |  | 85.1K |
-| 13:30 | CAD | Low | Participation Rate (Nov) |  |  | 65.3% |
-| 13:30 | CAD | Moderate | Unemployment Rate (Nov) |  | 7.0% | 6.9% |
-| 14:00 | BRL | Low | Auto Production (MoM) (Nov) |  |  | 1.8% |
-| 14:00 | BRL | Low | Auto Sales (MoM) (Nov) |  |  | 7.2% |
+| 12:00 | BRL | Low | Brazilian PPI (MoM) (Oct) | -0.48% |  | -0.24% |
+| 14 min | CAD | Low | Avg hourly wages Permanent employee (Nov) |  |  | 4.0% |
+| 14 min | CAD | Moderate | Employment Change (Nov) |  | -1.5K | 66.6K |
+| 14 min | CAD | Low | Full Employment Change (Nov) |  |  | -18.5K |
+| 14 min | CAD | Low | Part Time Employment Change (Nov) |  |  | 85.1K |
+| 14 min | CAD | Low | Participation Rate (Nov) |  |  | 65.3% |
+| 14 min | CAD | Moderate | Unemployment Rate (Nov) |  | 7.0% | 6.9% |
+| 44 min | BRL | Low | Auto Production (MoM) (Nov) |  |  | 1.8% |
+| 44 min | BRL | Low | Auto Sales (MoM) (Nov) |  |  | 7.2% |
 | 15:00 | USD | High | Core PCE Price Index (MoM) (Sep) |  | 0.2% | 0.2% |
 | 15:00 | USD | High | Core PCE Price Index (YoY) (Sep) |  | 2.9% | 2.9% |
 | 15:00 | USD | Low | Dallas Fed PCE (Sep) |  |  | 2.80% |

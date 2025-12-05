@@ -9,8 +9,8 @@
 | 09:30 | GBP | Mortgage Rate (GBP) (Nov) | 6.81% |  | 6.81% |
 | 10:00 | EUR | GDP (QoQ) (Q3) | 0.3% | 0.2% | 0.1% |
 | 10:00 | EUR | GDP (YoY) | 1.4% | 1.4% | 1.5% |
-| 13:30 | CAD | Employment Change (Nov) |  | -1.5K | 66.6K |
-| 13:30 | CAD | Unemployment Rate (Nov) |  | 7.0% | 6.9% |
+| 14 min | CAD | Employment Change (Nov) |  | -1.5K | 66.6K |
+| 14 min | CAD | Unemployment Rate (Nov) |  | 7.0% | 6.9% |
 | 15:00 | USD | Factory Orders (MoM) (Sep) |  |  | 1.4% |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Dec) |  |  | 4.5% |
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Dec) |  |  | 3.4% |
