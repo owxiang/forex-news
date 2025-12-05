@@ -23,9 +23,9 @@
 | 17:00 | USD | Atlanta Fed GDPNow (Q4) | 3.5% | 3.8% | 3.8% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 413 |  | 407 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count | 549 |  | 544 |
-| 51 min | USD | Nonfarm Productivity (QoQ) (Q3) |  |  | 3.3% |
-| 51 min | USD | Unit Labor Costs (QoQ) (Q3) |  |  | 1.0% |
-| 20:00 | USD | Consumer Credit (Oct) |  | 11.80B | 13.09B |
+| 19:00 | USD | Nonfarm Productivity (QoQ) (Q3) |  |  | 3.3% |
+| 19:00 | USD | Unit Labor Costs (QoQ) (Q3) |  |  | 1.0% |
+| 54 min | USD | Consumer Credit (Oct) |  | 11.80B | 13.09B |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -16.8K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 39.8K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 176.6K |

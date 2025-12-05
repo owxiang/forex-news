@@ -61,9 +61,9 @@
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 3.5% | 3.8% | 3.8% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 413 |  | 407 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 549 |  | 544 |
-| 51 min | USD | Moderate | Nonfarm Productivity (QoQ) (Q3) |  |  | 3.3% |
-| 51 min | USD | Moderate | Unit Labor Costs (QoQ) (Q3) |  |  | 1.0% |
-| 20:00 | USD | Moderate | Consumer Credit (Oct) |  | 11.80B | 13.09B |
+| 19:00 | USD | Moderate | Nonfarm Productivity (QoQ) (Q3) |  |  | 3.3% |
+| 19:00 | USD | Moderate | Unit Labor Costs (QoQ) (Q3) |  |  | 1.0% |
+| 54 min | USD | Moderate | Consumer Credit (Oct) |  | 11.80B | 13.09B |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -16.8K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -1.4K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 41.2K |
