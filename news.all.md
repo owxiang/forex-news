@@ -2,11 +2,10 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 20 min | JPY | Low | Reuters Tankan Index (Dec) |  |  | 17 |
-| 20 min | IDR | Low | FX Reserves (USD) (Nov) |  |  | 149.90B |
-| 04:30 | INR | Low | Cash Reserve Ratio |  | 3.00% | 4.00% |
-| 04:30 | INR | Moderate | Interest Rate Decision |  | 5.25% | 5.50% |
-| 04:30 | INR | Low | Reverse REPO Rate |  |  | 3.35% |
+| 03:00 | IDR | Low | FX Reserves (USD) (Nov) | 150.10B |  | 149.90B |
+| 58 min | INR | Low | Cash Reserve Ratio |  | 3.00% | 4.00% |
+| 58 min | INR | Moderate | Interest Rate Decision |  | 5.25% | 5.50% |
+| 58 min | INR | Low | Reverse REPO Rate |  |  | 3.35% |
 | 05:00 | JPY | Low | Coincident Indicator (MoM) (Oct) |  | 1.8% | 1.8% |
 | 05:00 | JPY | Low | Leading Index (Oct) |  |  | 108.6 |
 | 05:00 | JPY | Low | Leading Index (MoM) (Oct) |  |  | 1.6% |
@@ -14,8 +13,8 @@
 | 05:00 | SGD | Low | Retail Sales (MoM) (Oct) |  |  | -1.4% |
 | 06:00 | ZAR | Low | Foreign Reserves (USD) (Nov) |  |  | 71.55B |
 | 06:00 | ZAR | Low | Net FX Reserves (USD) (Nov) |  |  | 69.364B |
-| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Nov) |  | 0.4% | 0.6% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Nov) |  |  | 1.9% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Nov) |  | 0.4% | 0.6% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Oct) |  | 0.4% | 1.1% |
 | 07:00 | NOK | Low | Manufacturing Production (MoM) (Oct) |  |  | -1.7% |
 | 07:45 | EUR | Low | French Current Account (Oct) |  |  | -1.60B |
@@ -25,6 +24,7 @@
 | 07:45 | EUR | Low | French Trade Balance (Oct) |  |  | -6.6B |
 | 08:00 | CHF | Low | Foreign Reserves (USD) (Nov) |  |  | 724,841.0B |
 | 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Oct) |  |  | 1.7% |
+| 08:00 | JPY | Low | Reuters Tankan Index (Dec) |  |  | 17 |
 | 08:30 | HKD | Low | Foreign Reserves (USD) (Nov) |  |  | 426.00B |
 | 09:00 | EUR | Low | Italian Retail Sales (MoM) (Oct) |  |  | -0.5% |
 | 09:00 | EUR | Low | Italian Retail Sales (YoY) (Oct) |  |  | 0.5% |

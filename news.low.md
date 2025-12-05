@@ -2,10 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 20 min | JPY | Reuters Tankan Index (Dec) |  |  | 17 |
-| 20 min | IDR | FX Reserves (USD) (Nov) |  |  | 149.90B |
-| 04:30 | INR | Cash Reserve Ratio |  | 3.00% | 4.00% |
-| 04:30 | INR | Reverse REPO Rate |  |  | 3.35% |
+| 03:00 | IDR | FX Reserves (USD) (Nov) | 150.10B |  | 149.90B |
+| 58 min | INR | Cash Reserve Ratio |  | 3.00% | 4.00% |
+| 58 min | INR | Reverse REPO Rate |  |  | 3.35% |
 | 05:00 | JPY | Coincident Indicator (MoM) (Oct) |  | 1.8% | 1.8% |
 | 05:00 | JPY | Leading Index (Oct) |  |  | 108.6 |
 | 05:00 | JPY | Leading Index (MoM) (Oct) |  |  | 1.6% |
@@ -21,6 +20,7 @@
 | 07:45 | EUR | French Trade Balance (Oct) |  |  | -6.6B |
 | 08:00 | CHF | Foreign Reserves (USD) (Nov) |  |  | 724,841.0B |
 | 08:00 | EUR | Spanish Industrial Production (YoY) (Oct) |  |  | 1.7% |
+| 08:00 | JPY | Reuters Tankan Index (Dec) |  |  | 17 |
 | 08:30 | HKD | Foreign Reserves (USD) (Nov) |  |  | 426.00B |
 | 09:00 | EUR | Italian Retail Sales (MoM) (Oct) |  |  | -0.5% |
 | 09:00 | EUR | Italian Retail Sales (YoY) (Oct) |  |  | 0.5% |
