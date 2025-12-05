@@ -21,8 +21,8 @@
 | 08:00 | CHF | Foreign Reserves (USD) (Nov) | 727.4B |  | 724.9B |
 | 08:00 | EUR | Spanish Industrial Production (YoY) (Oct) | 1.2% |  | 1.5% |
 | 08:30 | HKD | Foreign Reserves (USD) (Nov) | 429.40B |  | 426.10B |
-| 09:00 | EUR | Italian Retail Sales (YoY) (Oct) | 1.3% |  | 0.7% |
 | 09:00 | EUR | Italian Retail Sales (MoM) (Oct) | 0.5% | 0.4% | -0.4% |
+| 09:00 | EUR | Italian Retail Sales (YoY) (Oct) | 1.3% |  | 0.7% |
 | 10:00 | EUR | Employment Change (QoQ) (Q3) | 0.2% | 0.1% | 0.1% |
 | 10:00 | EUR | Employment Change (YoY) (Q3) | 0.6% | 0.5% | 0.7% |
 | 10:00 | EUR | Employment Overall (Q3) | 170,411.4K | 170,278.9K | 169,778.7K |
@@ -35,13 +35,9 @@
 | 13:30 | CAD | Full Employment Change (Nov) | -9.4K |  | -18.5K |
 | 13:30 | CAD | Part Time Employment Change (Nov) | 63.0K |  | 85.1K |
 | 13:30 | CAD | Participation Rate (Nov) | 65.1% |  | 65.3% |
-| 53 min | USD | Dallas Fed PCE (Sep) |  |  | 2.80% |
-| 53 min | USD | Durables Excluding Defense (MoM) (Sep) |  | 0.1% | 0.1% |
-| 53 min | USD | Durables Excluding Transport (MoM) (Sep) |  |  | 0.6% |
-| 53 min | USD | Factory orders ex transportation (MoM) (Sep) |  |  | 0.1% |
-| 53 min | USD | Michigan Current Conditions (Dec) |  | 51.3 | 51.1 |
-| 53 min | USD | Personal Income (MoM) (Sep) |  | 0.3% | 0.4% |
-| 53 min | USD | Real Personal Consumption (MoM) (Sep) |  |  | 0.4% |
+| 15:00 | USD | Michigan Current Conditions (Dec) | 50.7 | 51.3 | 51.1 |
+| 15:00 | USD | Personal Income (MoM) (Sep) | 0.4% | 0.3% | 0.4% |
+| 15:00 | USD | Real Personal Consumption (MoM) (Sep) | 0.0% |  | 0.2% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -1.4K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 41.2K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -83.3K |

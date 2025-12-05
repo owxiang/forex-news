@@ -25,8 +25,8 @@
 | 08:00 | CHF | Low | Foreign Reserves (USD) (Nov) | 727.4B |  | 724.9B |
 | 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Oct) | 1.2% |  | 1.5% |
 | 08:30 | HKD | Low | Foreign Reserves (USD) (Nov) | 429.40B |  | 426.10B |
-| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Oct) | 1.3% |  | 0.7% |
 | 09:00 | EUR | Low | Italian Retail Sales (MoM) (Oct) | 0.5% | 0.4% | -0.4% |
+| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Oct) | 1.3% |  | 0.7% |
 | 09:30 | GBP | Moderate | Mortgage Rate (GBP) (Nov) | 6.81% |  | 6.81% |
 | 10:00 | EUR | Low | Employment Change (QoQ) (Q3) | 0.2% | 0.1% | 0.1% |
 | 10:00 | EUR | Low | Employment Change (YoY) (Q3) | 0.6% | 0.5% | 0.7% |
@@ -44,25 +44,20 @@
 | 13:30 | CAD | Low | Part Time Employment Change (Nov) | 63.0K |  | 85.1K |
 | 13:30 | CAD | Low | Participation Rate (Nov) | 65.1% |  | 65.3% |
 | 13:30 | CAD | Moderate | Unemployment Rate (Nov) | 6.5% | 7.0% | 6.9% |
-| 53 min | USD | High | Core PCE Price Index (MoM) (Sep) |  | 0.2% | 0.2% |
-| 53 min | USD | High | Core PCE Price Index (YoY) (Sep) |  | 2.9% | 2.9% |
-| 53 min | USD | Low | Dallas Fed PCE (Sep) |  |  | 2.80% |
-| 53 min | USD | Low | Durables Excluding Defense (MoM) (Sep) |  | 0.1% | 0.1% |
-| 53 min | USD | Low | Durables Excluding Transport (MoM) (Sep) |  |  | 0.6% |
-| 53 min | USD | Moderate | Factory Orders (MoM) (Sep) |  |  | 1.4% |
-| 53 min | USD | Low | Factory orders ex transportation (MoM) (Sep) |  |  | 0.1% |
-| 53 min | USD | Moderate | Michigan 1-Year Inflation Expectations (Dec) |  |  | 4.5% |
-| 53 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Dec) |  |  | 3.4% |
-| 53 min | USD | Moderate | Michigan Consumer Expectations (Dec) |  | 52.0 | 51.0 |
-| 53 min | USD | Moderate | Michigan Consumer Sentiment (Dec) |  |  | 51.0 |
-| 53 min | USD | Low | Michigan Current Conditions (Dec) |  | 51.3 | 51.1 |
-| 53 min | USD | Moderate | PCE price index (MoM) (Sep) |  | 0.3% | 0.3% |
-| 53 min | USD | Moderate | PCE Price index (YoY) (Sep) |  | 2.8% | 2.7% |
-| 53 min | USD | Low | Personal Income (MoM) (Sep) |  | 0.3% | 0.4% |
-| 53 min | USD | Moderate | Personal Spending (MoM) (Sep) |  | 0.3% | 0.6% |
-| 53 min | USD | Low | Real Personal Consumption (MoM) (Sep) |  |  | 0.4% |
-| 15:10 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 16:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 3.8% | 3.8% |
+| 15:00 | USD | High | Core PCE Price Index (YoY) (Sep) | 2.8% | 2.9% | 2.9% |
+| 15:00 | USD | High | Core PCE Price Index (MoM) (Sep) | 0.2% | 0.2% | 0.2% |
+| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Dec) | 4.1% | 4.5% | 4.5% |
+| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Dec) | 3.2% | 3.4% | 3.4% |
+| 15:00 | USD | Moderate | Michigan Consumer Expectations (Dec) | 55.0 | 52.0 | 51.0 |
+| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Dec) | 53.3 |  | 51.0 |
+| 15:00 | USD | Low | Michigan Current Conditions (Dec) | 50.7 | 51.3 | 51.1 |
+| 15:00 | USD | Moderate | PCE Price index (YoY) (Sep) | 2.8% | 2.8% | 2.7% |
+| 15:00 | USD | Moderate | PCE price index (MoM) (Sep) | 0.3% | 0.3% | 0.3% |
+| 15:00 | USD | Low | Personal Income (MoM) (Sep) | 0.4% | 0.3% | 0.4% |
+| 15:00 | USD | Moderate | Personal Spending (MoM) (Sep) | 0.3% | 0.3% | 0.5% |
+| 15:00 | USD | Low | Real Personal Consumption (MoM) (Sep) | 0.0% |  | 0.2% |
+| 2 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 52 min | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 3.8% | 3.8% |
 | 16:20 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 407 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 544 |
