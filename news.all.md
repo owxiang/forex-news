@@ -56,9 +56,9 @@
 | 15:00 | USD | Low | Personal Income (MoM) (Sep) | 0.4% | 0.3% | 0.4% |
 | 15:00 | USD | Moderate | Personal Spending (MoM) (Sep) | 0.3% | 0.3% | 0.5% |
 | 15:00 | USD | Low | Real Personal Consumption (MoM) (Sep) | 0.0% |  | 0.2% |
-| 2 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 52 min | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 3.8% | 3.8% |
-| 16:20 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 15:10 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 11 min | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 51 min | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 3.8% | 3.8% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 407 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 544 |
 | 20:00 | USD | Moderate | Consumer Credit (Oct) |  | 11.80B | 13.09B |
