@@ -1,5 +1,6 @@
-## 04 December 2025 - High Impact Forex News
+## 05 December 2025 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:30 | USD | Initial Jobless Claims | 191K | 219K | 218K |
+| 15:00 | USD | Core PCE Price Index (YoY) (Sep) |  | 2.9% | 2.9% |
+| 15:00 | USD | Core PCE Price Index (MoM) (Sep) |  | 0.2% | 0.2% |

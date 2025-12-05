@@ -1,48 +1,62 @@
-## 04 December 2025 - Low Impact Forex News
+## 05 December 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Exports (MoM) (Oct) | 3.4% |  | 7.6% |
-| 00:30 | AUD | Imports (MoM) (Oct) | 2.0% |  | 1.8% |
-| 03:35 | JPY | 30-Year JGB Auction | 3.427% |  | 3.166% |
-| 08:00 | CHF | Unemployment Rate n.s.a. (Nov) | 2.9% |  | 2.9% |
-| 08:00 | CHF | Unemployment Rate s.a. (Nov) | 3.0% | 3.0% | 3.0% |
-| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Nov) | 48.2 |  | 50.7 |
-| 08:30 | EUR | HCOB Germany Construction PMI (Nov) | 45.2 |  | 42.8 |
-| 08:30 | EUR | HCOB France Construction PMI (MoM) (Nov) | 43.6 |  | 39.8 |
-| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Nov) | 45.4 |  | 44.0 |
-| 09:00 | GBP | Car Registration (YoY) (Nov) | -1.6% |  | 0.5% |
-| 09:00 | GBP | United Kingdom New Passenger Cars Registration (Nov) | 151,154.0 |  | 144,948.0 |
-| 09:00 | ZAR | Current Account (Q3) | -57.0B |  | -72.2B |
-| 09:00 | ZAR | Current Account % of GDP (Q3) | -0.70% |  | -1.00% |
-| 10:00 | EUR | French 10-Year OAT Auction | 3.38% |  | 3.43% |
-| 10:00 | EUR | Retail Sales (MoM) (Oct) | 0.0% | 0.0% | 0.1% |
-| 10:00 | EUR | Retail Sales (YoY) (Oct) | 1.5% | 1.4% | 1.2% |
-| 10:15 | EUR | Spanish 5-Year Bonos Auction | 2.471% |  | 2.443% |
-| 12:30 | USD | Challenger Job Cuts (YoY) | 23.5% |  | 175.3% |
-| 12:30 | USD | Challenger Job Cuts (Nov) | 71.321K |  | 153.074K |
-| 13:30 | USD | Jobless Claims 4-Week Avg. | 214.75K |  | 224.25K |
-| 15:00 | USD | Durables Excluding Defense (MoM) (Sep) | 0.1% |  | 0.1% |
-| 15:00 | USD | Durables Excluding Transport (MoM) (Sep) | 0.6% |  | 0.6% |
-| 15:00 | USD | Factory orders ex transportation (MoM) (Sep) | 0.2% |  | -0.1% |
-| 15:00 | CAD | Ivey PMI n.s.a (Nov) | 44.5 |  | 51.7 |
-| 15:30 | USD | Natural Gas Storage | -12B | -18B | -11B |
-| 16:30 | USD | 4-Week Bill Auction | 3.680% |  | 3.905% |
-| 16:30 | USD | 8-Week Bill Auction | 3.620% |  | 3.840% |
-| 17:00 | USD | OPEC Crude Oil Production Algeria (Barrel) | 0.96M |  | 0.96M |
-| 17:00 | USD | OPEC Crude Oil Production Congo (Barrel) | 0.26M |  | 0.26M |
-| 17:00 | USD | OPEC Crude Oil Production Gabon (Barrel) | 0.23M |  | 0.23M |
-| 17:00 | USD | OPEC Crude Oil Production Guinea (Barrel) | 0.05M |  | 0.06M |
-| 17:00 | USD | OPEC Crude oil Production Iran (Barrel) | 3.34M |  | 3.37M |
-| 17:00 | USD | OPEC Crude oil Production Iraq (Barrel) | 4.02M |  | 4.06M |
-| 17:00 | USD | OPEC Crude Oil Production Kuwait (Barrel) | 2.54M |  | 2.52M |
-| 17:00 | USD | OPEC Crude Oil Production Libya (Barrel) | 1.25M |  | 1.25M |
-| 17:00 | USD | OPEC Crude Oil Production Nigeria (Barrel) | 1.48M |  | 1.53M |
-| 17:00 | USD | OPEC Crude oil Production Saudi Arabia (Barrel) | 9.95M |  | 9.90M |
-| 17:00 | USD | OPEC Crude oil Production UAE (Barrel) | 3.37M |  | 3.36M |
-| 17:00 | USD | OPEC Crude oil Production Venezuela (Barrel) | 0.95M |  | 0.93M |
-| 18:00 | BRL | Trade Balance (Nov) | 5.84B |  | 6.57B |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 2.878T |  | 2.898T |
-| 23:00 | KRW | Current Account (Oct) | 6.81B |  | 13.47B |
-| 23:00 | JPY | Reuters Tankan Index (Dec) |  |  | 17 |
-| 43 min | JPY | Foreign Reserves (USD) (Nov) |  |  | 1,347.4B |
+| 03:00 | JPY | Reuters Tankan Index (Dec) |  |  | 17 |
+| 03:00 | IDR | FX Reserves (USD) (Nov) |  |  | 149.90B |
+| 04:30 | INR | Cash Reserve Ratio |  | 3.00% | 4.00% |
+| 04:30 | INR | Reverse REPO Rate |  |  | 3.35% |
+| 05:00 | JPY | Coincident Indicator (MoM) (Oct) |  | 1.8% | 1.8% |
+| 05:00 | JPY | Leading Index (Oct) |  |  | 108.6 |
+| 05:00 | JPY | Leading Index (MoM) (Oct) |  |  | 1.6% |
+| 05:00 | SGD | Retail Sales (YoY) (Oct) |  |  | 2.8% |
+| 05:00 | SGD | Retail Sales (MoM) (Oct) |  |  | -1.4% |
+| 06:00 | ZAR | Foreign Reserves (USD) (Nov) |  |  | 71.55B |
+| 06:00 | ZAR | Net FX Reserves (USD) (Nov) |  |  | 69.364B |
+| 07:00 | NOK | Manufacturing Production (MoM) (Oct) |  |  | -1.7% |
+| 07:45 | EUR | French Current Account (Oct) |  |  | -1.60B |
+| 07:45 | EUR | French Exports (Oct) |  |  | 51.9B |
+| 07:45 | EUR | French Imports (Oct) |  |  | 58.5B |
+| 07:45 | EUR | French Industrial Production (MoM) (Oct) |  | -0.1% | 0.8% |
+| 07:45 | EUR | French Trade Balance (Oct) |  |  | -6.6B |
+| 08:00 | CHF | Foreign Reserves (USD) (Nov) |  |  | 724,841.0B |
+| 08:00 | EUR | Spanish Industrial Production (YoY) (Oct) |  |  | 1.7% |
+| 08:30 | HKD | Foreign Reserves (USD) (Nov) |  |  | 426.00B |
+| 09:00 | EUR | Italian Retail Sales (MoM) (Oct) |  |  | -0.5% |
+| 09:00 | EUR | Italian Retail Sales (YoY) (Oct) |  |  | 0.5% |
+| 10:00 | EUR | German Car Registration (YoY) |  |  | 7.8% |
+| 10:00 | EUR | Employment Change (QoQ) (Q3) |  | 0.1% | 0.1% |
+| 10:00 | EUR | Employment Change (YoY) (Q3) |  | 0.5% | 0.5% |
+| 10:00 | EUR | Employment Overall (Q3) |  | 170,278.9K | 170,278.9K |
+| 11:00 | BRL | IGP-DI Inflation Index (MoM) (Nov) |  |  | -0.03% |
+| 11:30 | INR | FX Reserves, USD |  |  | 688.10B |
+| 12:00 | MXN | Consumer Confidence (Nov) |  |  | 46.1 |
+| 12:00 | MXN | Consumer Confidence n.s.a. (Nov) |  |  | 45.7 |
+| 12:00 | BRL | Brazilian PPI (MoM) (Oct) |  |  | -0.25% |
+| 13:00 | BRL | Auto Production (MoM) (Nov) |  |  | 1.8% |
+| 13:00 | BRL | Auto Sales (MoM) (Nov) |  |  | 7.2% |
+| 13:30 | CAD | Avg hourly wages Permanent employee (Nov) |  |  | 4.0% |
+| 13:30 | CAD | Full Employment Change (Nov) |  |  | -18.5K |
+| 13:30 | CAD | Part Time Employment Change (Nov) |  |  | 85.1K |
+| 13:30 | CAD | Participation Rate (Nov) |  |  | 65.3% |
+| 14:00 | BRL | Auto Production (MoM) (Nov) |  |  | 1.8% |
+| 14:00 | BRL | Auto Sales (MoM) (Nov) |  |  | 7.2% |
+| 15:00 | USD | Dallas Fed PCE (Sep) |  |  | 2.80% |
+| 15:00 | USD | Durables Excluding Defense (MoM) (Sep) |  | 0.1% | 0.1% |
+| 15:00 | USD | Durables Excluding Transport (MoM) (Sep) |  |  | 0.6% |
+| 15:00 | USD | Factory orders ex transportation (MoM) (Sep) |  |  | 0.1% |
+| 15:00 | USD | Michigan Current Conditions (Dec) |  |  | 51.1 |
+| 15:00 | USD | Personal Income (MoM) (Sep) |  | 0.3% | 0.4% |
+| 15:00 | USD | Real Personal Consumption (MoM) (Sep) |  |  | 0.4% |
+| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -1.4K |
+| 20:30 | USD | CFTC Copper speculative net positions |  |  | 41.2K |
+| 20:30 | USD | CFTC Corn speculative net positions |  |  | -83.3K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -158.8K |
+| 20:30 | USD | CFTC Silver speculative net positions |  |  | 37.3K |
+| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 77.6K |
+| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -80.2K |
+| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -145.1K |
+| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 73.3K |
+| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -27.8K |
+| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -36.3K |
+| 23:50 | JPY | Foreign Reserves (USD) (Nov) |  |  | 1,347.4B |
