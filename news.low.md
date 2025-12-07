@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 08:00 | CNY | FX Reserves (USD) (Nov) | 3.346T | 3.360T | 3.343T |
+| 03:00 | CNY | FX Reserves (USD) (Nov) | 3.346T | 3.360T | 3.343T |
 | 23:30 | JPY | Overall wage income of employees (Oct) |  | 2.2% | 2.1% |
 | 23:30 | JPY | Overtime Pay (YoY) (Oct) |  |  | 1.00% |
 | 23:50 | JPY | Bank Lending (YoY) (Nov) |  | 4.0% | 4.1% |
