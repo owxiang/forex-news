@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 03:00 | CNY | Low | FX Reserves (USD) (Nov) | 3.346T | 3.360T | 3.343T |
-| 23:30 | JPY | Low | Overall wage income of employees (Oct) |  | 2.2% | 1.9% |
+| 23:30 | JPY | Low | Overall wage income of employees (Oct) |  | 2.2% | 2.1% |
 | 23:30 | JPY | Low | Overtime Pay (YoY) (Oct) |  |  | 0.60% |
 | 23:50 | JPY | Moderate | Adjusted Current Account (Oct) |  | 3.09T | 4.35T |
 | 23:50 | JPY | Low | Bank Lending (YoY) (Nov) |  | 4.0% | 4.1% |
