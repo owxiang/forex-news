@@ -9,9 +9,9 @@
 | 05:00 | JPY | Economy Watchers Current Index (Nov) | 48.7 | 49.5 | 49.1 |
 | 07:00 | EUR | German Industrial Production (YoY) (Oct) | 0.88% |  | -1.20% |
 | 09:00 | SGD | Foreign Reserves USD (MoM) (Nov) | 400.0B |  | 392.2B |
-| 18 min | EUR | Sentix Investor Confidence (Dec) |  | -6.2 | -7.4 |
-| 10:30 | EUR | German 12-Month Bubill Auction |  |  | 1.937% |
-| 11:00 | CAD | Leading Index (MoM) (Nov) |  |  | 0.21% |
+| 09:30 | EUR | Sentix Investor Confidence (Dec) | -6.2 | -6.2 | -7.4 |
+| 21 min | EUR | German 12-Month Bubill Auction |  |  | 1.937% |
+| 51 min | CAD | Leading Index (MoM) (Nov) |  |  | 0.21% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:00 | BRL | Auto Production (MoM) (Nov) |  |  | 1.8% |
 | 13:00 | BRL | Auto Sales (MoM) (Nov) |  |  | 7.2% |

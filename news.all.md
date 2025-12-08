@@ -14,9 +14,9 @@
 | 07:00 | EUR | Low | German Industrial Production (YoY) (Oct) | 0.88% |  | -1.20% |
 | 08:00 | CHF | Moderate | SECO Consumer Climate (Nov) | -34 | -34 | -37 |
 | 09:00 | SGD | Low | Foreign Reserves USD (MoM) (Nov) | 400.0B |  | 392.2B |
-| 18 min | EUR | Low | Sentix Investor Confidence (Dec) |  | -6.2 | -7.4 |
-| 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 1.937% |
-| 11:00 | CAD | Low | Leading Index (MoM) (Nov) |  |  | 0.21% |
+| 09:30 | EUR | Low | Sentix Investor Confidence (Dec) | -6.2 | -6.2 | -7.4 |
+| 21 min | EUR | Low | German 12-Month Bubill Auction |  |  | 1.937% |
+| 51 min | CAD | Low | Leading Index (MoM) (Nov) |  |  | 0.21% |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | BRL | Low | Auto Production (MoM) (Nov) |  |  | 1.8% |
 | 13:00 | BRL | Low | Auto Sales (MoM) (Nov) |  |  | 7.2% |
