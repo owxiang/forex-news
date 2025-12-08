@@ -2,7 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 20 min | IDR | Motorbike Sales (YoY) (Nov) | 2.10% |  | 8.40% |
+| 01:00 | IDR | Motorbike Sales (YoY) (Nov) | 2.10% |  | 8.40% |
+| 03:15 | CNY | Exports (Nov) | 5.70M |  | -0.80M |
+| 03:15 | CNY | Imports (Nov) | 1.70M |  | 1.40M |
+| 03:15 | CNY | Trade Balance (Nov) | 792.57B | 670.00B | 640.49B |
 | 05:00 | JPY | Economy Watchers Current Index (Nov) |  | 49.5 | 49.1 |
 | 07:00 | EUR | German Industrial Production (YoY) (Oct) |  |  | -0.98% |
 | 07:45 | EUR | French Reserve Assets Total (Nov) |  |  | 350,037.0M |
@@ -23,8 +26,5 @@
 | 15:00 | USD | Factory orders ex transportation (MoM) (Sep) |  |  | 0.1% |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 3.725% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 3.635% |
-| 17:06 | CNY | Exports (Nov) |  |  | -0.80M |
-| 17:06 | CNY | Imports (Nov) |  |  | 1.40M |
-| 17:06 | CNY | Trade Balance (Nov) |  | 670.00B | 640.49B |
 | 23:50 | JPY | M2 Money Stock (YoY) |  | 1.4% | 1.6% |
 | 23:50 | JPY | M3 Money Supply (Nov) |  |  | 2,235.2B |
