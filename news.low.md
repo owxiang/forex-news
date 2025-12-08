@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:00 | IDR | Motorbike Sales (YoY) (Nov) | 2.10% |  | 8.40% |
+| 20 min | IDR | Motorbike Sales (YoY) (Nov) | 2.10% |  | 8.40% |
 | 05:00 | JPY | Economy Watchers Current Index (Nov) |  | 49.5 | 49.1 |
 | 07:00 | EUR | German Industrial Production (YoY) (Oct) |  |  | -0.98% |
 | 07:45 | EUR | French Reserve Assets Total (Nov) |  |  | 350,037.0M |

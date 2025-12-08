@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 01:00 | IDR | Low | Motorbike Sales (YoY) (Nov) | 2.10% |  | 8.40% |
+| 20 min | IDR | Low | Motorbike Sales (YoY) (Nov) | 2.10% |  | 8.40% |
 | 04:00 | CNY | Moderate | Exports (YoY) (Nov) |  | 3.8% | -1.1% |
 | 04:00 | CNY | Moderate | Imports (YoY) (Nov) |  | 2.8% | 1.0% |
 | 04:00 | CNY | Moderate | Trade Balance (USD) (Nov) |  | 100.20B | 90.07B |
