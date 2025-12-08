@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 04:00 | CNY | Exports (YoY) (Nov) | 5.9% | 3.8% | -1.1% |
-| 04:00 | CNY | Imports (YoY) (Nov) | 1.9% | 2.8% | 1.0% |
-| 04:00 | CNY | Trade Balance (USD) (Nov) | 111.68B | 100.20B | 90.07B |
+| 03:00 | CNY | Exports (YoY) (Nov) | 5.9% | 3.8% | -1.1% |
+| 03:00 | CNY | Imports (YoY) (Nov) | 1.9% | 2.8% | 1.0% |
+| 03:00 | CNY | Trade Balance (USD) (Nov) | 111.68B | 105.00B | 90.07B |
 | 07:00 | EUR | German Industrial Production (MoM) (Oct) |  | 0.2% | 1.3% |
 | 08:00 | CHF | SECO Consumer Climate (Nov) |  | -34 | -37 |
 | 15:00 | USD | Factory Orders (MoM) (Sep) |  |  | 1.4% |
