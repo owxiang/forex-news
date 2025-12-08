@@ -11,10 +11,9 @@
 | 03:00 | CNY | Moderate | Trade Balance (USD) (Nov) | 111.68B | 105.00B | 90.07B |
 | 05:00 | JPY | Low | Economy Watchers Current Index (Nov) | 48.7 | 49.5 | 49.1 |
 | 07:00 | EUR | Moderate | German Industrial Production (MoM) (Oct) | 1.8% | 0.2% | 1.1% |
-| 07:00 | EUR | Low | German Industrial Production (YoY) (Oct) | 0.80% |  | -1.40% |
-| 35 min | EUR | Low | French Reserve Assets Total (Nov) |  |  | 350,037.0M |
-| 50 min | CHF | Moderate | SECO Consumer Climate (Nov) |  | -34 | -37 |
-| 09:00 | SGD | Low | Foreign Reserves USD (MoM) (Nov) |  |  | 392.2B |
+| 07:00 | EUR | Low | German Industrial Production (YoY) (Oct) | 0.88% |  | -1.20% |
+| 08:00 | CHF | Moderate | SECO Consumer Climate (Nov) | -34 | -34 | -37 |
+| 49 min | SGD | Low | Foreign Reserves USD (MoM) (Nov) |  |  | 392.2B |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Dec) |  | -6.2 | -7.4 |
 | 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 1.937% |
 | 11:00 | CAD | Low | Leading Index (MoM) (Nov) |  |  | 0.21% |

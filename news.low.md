@@ -7,9 +7,8 @@
 | 03:00 | CNY | Imports (Nov) | 1.70M |  | 1.40M |
 | 03:00 | CNY | Trade Balance (Nov) | 792.57B | 670.00B | 640.49B |
 | 05:00 | JPY | Economy Watchers Current Index (Nov) | 48.7 | 49.5 | 49.1 |
-| 07:00 | EUR | German Industrial Production (YoY) (Oct) | 0.80% |  | -1.40% |
-| 35 min | EUR | French Reserve Assets Total (Nov) |  |  | 350,037.0M |
-| 09:00 | SGD | Foreign Reserves USD (MoM) (Nov) |  |  | 392.2B |
+| 07:00 | EUR | German Industrial Production (YoY) (Oct) | 0.88% |  | -1.20% |
+| 49 min | SGD | Foreign Reserves USD (MoM) (Nov) |  |  | 392.2B |
 | 09:30 | EUR | Sentix Investor Confidence (Dec) |  | -6.2 | -7.4 |
 | 10:30 | EUR | German 12-Month Bubill Auction |  |  | 1.937% |
 | 11:00 | CAD | Leading Index (MoM) (Nov) |  |  | 0.21% |

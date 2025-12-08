@@ -6,6 +6,6 @@
 | 03:00 | CNY | Imports (YoY) (Nov) | 1.9% | 2.8% | 1.0% |
 | 03:00 | CNY | Trade Balance (USD) (Nov) | 111.68B | 105.00B | 90.07B |
 | 07:00 | EUR | German Industrial Production (MoM) (Oct) | 1.8% | 0.2% | 1.1% |
-| 50 min | CHF | SECO Consumer Climate (Nov) |  | -34 | -37 |
+| 08:00 | CHF | SECO Consumer Climate (Nov) | -34 | -34 | -37 |
 | 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Nov) |  |  | 3.2% |
 | 18:00 | USD | 3-Year Note Auction |  |  | 3.579% |
