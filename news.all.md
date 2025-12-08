@@ -10,8 +10,8 @@
 | 03:00 | CNY | Moderate | Imports (YoY) (Nov) | 1.9% | 2.8% | 1.0% |
 | 03:00 | CNY | Moderate | Trade Balance (USD) (Nov) | 111.68B | 105.00B | 90.07B |
 | 05:00 | JPY | Low | Economy Watchers Current Index (Nov) | 48.7 | 49.5 | 49.1 |
-| 07:00 | EUR | Moderate | German Industrial Production (MoM) (Oct) |  | 0.2% | 1.3% |
-| 07:00 | EUR | Low | German Industrial Production (YoY) (Oct) |  |  | -0.98% |
+| 48 min | EUR | Moderate | German Industrial Production (MoM) (Oct) |  | 0.2% | 1.3% |
+| 48 min | EUR | Low | German Industrial Production (YoY) (Oct) |  |  | -0.98% |
 | 07:45 | EUR | Low | French Reserve Assets Total (Nov) |  |  | 350,037.0M |
 | 08:00 | CHF | Moderate | SECO Consumer Climate (Nov) |  | -34 | -37 |
 | 09:00 | SGD | Low | Foreign Reserves USD (MoM) (Nov) |  |  | 392.2B |
