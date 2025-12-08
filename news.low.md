@@ -15,9 +15,9 @@
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:00 | BRL | Auto Production (MoM) (Nov) | -11.6% |  | 1.8% |
 | 13:00 | BRL | Auto Sales (MoM) (Nov) | -8.5% |  | 7.2% |
-| 43 min | EUR | French 12-Month BTF Auction |  |  | 2.101% |
-| 43 min | EUR | French 3-Month BTF Auction |  |  | 2.069% |
-| 43 min | EUR | French 6-Month BTF Auction |  |  | 2.091% |
+| 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.101% |
+| 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.069% |
+| 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.091% |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 3.725% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 3.635% |
 | 23:50 | JPY | M2 Money Stock (YoY) |  | 1.4% | 1.6% |
