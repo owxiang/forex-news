@@ -10,10 +10,10 @@
 | 03:00 | CNY | Moderate | Imports (YoY) (Nov) | 1.9% | 2.8% | 1.0% |
 | 03:00 | CNY | Moderate | Trade Balance (USD) (Nov) | 111.68B | 105.00B | 90.07B |
 | 05:00 | JPY | Low | Economy Watchers Current Index (Nov) | 48.7 | 49.5 | 49.1 |
-| 48 min | EUR | Moderate | German Industrial Production (MoM) (Oct) |  | 0.2% | 1.3% |
-| 48 min | EUR | Low | German Industrial Production (YoY) (Oct) |  |  | -0.98% |
-| 07:45 | EUR | Low | French Reserve Assets Total (Nov) |  |  | 350,037.0M |
-| 08:00 | CHF | Moderate | SECO Consumer Climate (Nov) |  | -34 | -37 |
+| 07:00 | EUR | Moderate | German Industrial Production (MoM) (Oct) | 1.8% | 0.2% | 1.1% |
+| 07:00 | EUR | Low | German Industrial Production (YoY) (Oct) | 0.80% |  | -1.40% |
+| 35 min | EUR | Low | French Reserve Assets Total (Nov) |  |  | 350,037.0M |
+| 50 min | CHF | Moderate | SECO Consumer Climate (Nov) |  | -34 | -37 |
 | 09:00 | SGD | Low | Foreign Reserves USD (MoM) (Nov) |  |  | 392.2B |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Dec) |  | -6.2 | -7.4 |
 | 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 1.937% |
@@ -24,16 +24,9 @@
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.101% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.069% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.091% |
-| 15:00 | USD | Low | Dallas Fed PCE (Sep) |  |  | 2.80% |
-| 15:00 | USD | Low | Durables Excluding Defense (MoM) (Sep) |  | 0.1% | 0.1% |
-| 15:00 | USD | Low | Durables Excluding Transport (MoM) (Sep) |  |  | 0.6% |
-| 15:00 | USD | Moderate | Factory Orders (MoM) (Sep) |  |  | 1.4% |
-| 15:00 | USD | Low | Factory orders ex transportation (MoM) (Sep) |  |  | 0.1% |
 | 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Nov) |  |  | 3.2% |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.725% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.635% |
 | 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 3.579% |
-| 19:00 | USD | Moderate | Nonfarm Productivity (QoQ) (Q3) |  |  | 3.3% |
-| 19:00 | USD | Moderate | Unit Labor Costs (QoQ) (Q3) |  |  | 1.0% |
 | 23:50 | JPY | Low | M2 Money Stock (YoY) |  | 1.4% | 1.6% |
 | 23:50 | JPY | Low | M3 Money Supply (Nov) |  |  | 2,235.2B |
