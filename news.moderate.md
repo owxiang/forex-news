@@ -8,4 +8,4 @@
 | 07:00 | EUR | German Industrial Production (MoM) (Oct) | 1.8% | 0.2% | 1.1% |
 | 08:00 | CHF | SECO Consumer Climate (Nov) | -34 | -34 | -37 |
 | 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Nov) | 3.2% |  | 3.2% |
-| 52 min | USD | 3-Year Note Auction |  |  | 3.579% |
+| 18:00 | USD | 3-Year Note Auction | 3.614% |  | 3.579% |

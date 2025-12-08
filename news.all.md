@@ -26,6 +26,6 @@
 | 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Nov) | 3.2% |  | 3.2% |
 | 16:30 | USD | Low | 3-Month Bill Auction | 3.650% |  | 3.725% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 3.580% |  | 3.635% |
-| 52 min | USD | Moderate | 3-Year Note Auction |  |  | 3.579% |
+| 18:00 | USD | Moderate | 3-Year Note Auction | 3.614% |  | 3.579% |
 | 23:50 | JPY | Low | M2 Money Stock (YoY) |  | 1.4% | 1.6% |
 | 23:50 | JPY | Low | M3 Money Supply (Nov) |  |  | 2,235.2B |
