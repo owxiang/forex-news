@@ -20,10 +20,10 @@
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | BRL | Low | Auto Production (MoM) (Nov) | -11.6% |  | 1.8% |
 | 13:00 | BRL | Low | Auto Sales (MoM) (Nov) | -8.5% |  | 7.2% |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.101% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.069% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.091% |
-| 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Nov) |  |  | 3.2% |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.148% |  | 2.101% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.088% |  | 2.069% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.103% |  | 2.091% |
+| 52 min | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Nov) |  |  | 3.2% |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.725% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.635% |
 | 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 3.579% |
