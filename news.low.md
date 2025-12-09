@@ -5,8 +5,8 @@
 | 00:30 | AUD | Building Approvals (YoY) (Oct) | -1.80% | -1.80% | -1.20% |
 | 00:30 | AUD | NAB Business Survey (Nov) | 7 |  | 10 |
 | 00:30 | AUD | Private House Approvals (Oct) | -2.1% | -2.1% | 4.0% |
-| 20 min | IDR | Consumer Confidence (Nov) |  |  | 121.2 |
-| 55 min | JPY | 5-Year JGB Auction |  |  | 1.245% |
+| 03:00 | IDR | Consumer Confidence (Nov) | 124.0 |  | 121.2 |
+| 4 min | JPY | 5-Year JGB Auction |  |  | 1.245% |
 | 06:00 | JPY | Machine Tool Orders (YoY) (Nov) |  |  | 16.8% |
 | 07:00 | EUR | German Exports (MoM) (Oct) |  | -0.2% | 1.4% |
 | 07:00 | EUR | German Imports (MoM) (Oct) |  | 0.2% | 3.1% |
