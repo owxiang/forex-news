@@ -8,9 +8,9 @@
 | 00:30 | AUD | Moderate | NAB Business Confidence (Nov) | 1 |  | 6 |
 | 00:30 | AUD | Low | NAB Business Survey (Nov) | 7 |  | 10 |
 | 00:30 | AUD | Low | Private House Approvals (Oct) | -2.1% | -2.1% | 4.0% |
-| 03:00 | IDR | Low | Consumer Confidence (Nov) |  |  | 121.2 |
-| 03:30 | AUD | High | RBA Interest Rate Decision (Dec) |  | 3.60% | 3.60% |
-| 03:35 | JPY | Low | 5-Year JGB Auction |  |  | 1.245% |
+| 20 min | IDR | Low | Consumer Confidence (Nov) |  |  | 121.2 |
+| 50 min | AUD | High | RBA Interest Rate Decision (Dec) |  | 3.60% | 3.60% |
+| 55 min | JPY | Low | 5-Year JGB Auction |  |  | 1.245% |
 | 04:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
 | 06:00 | JPY | Low | Machine Tool Orders (YoY) (Nov) |  |  | 16.8% |
 | 07:00 | EUR | Low | German Exports (MoM) (Oct) |  | -0.2% | 1.4% |
