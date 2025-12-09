@@ -14,6 +14,6 @@
 | 14:15 | GBP | BoE MPC Member Mann Speaks |  |  |  |
 | 14:15 | GBP | MPC Member Ramsden Speaks |  |  |  |
 | 15:00 | USD | US Leading Index (MoM) (Sep) | -0.3% | -0.3% | -0.3% |
-| 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
-| 17:00 | USD | WASDE Report |  |  |  |
+| 51 min | USD | EIA Short-Term Energy Outlook |  |  |  |
+| 51 min | USD | WASDE Report |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | -1.700M | -2.480M |
