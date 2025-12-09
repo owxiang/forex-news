@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Building Approvals (YoY) (Oct) |  | -1.80% | -1.20% |
-| 00:30 | AUD | NAB Business Survey (Nov) | 7 |  | 9 |
-| 00:30 | AUD | Private House Approvals (Oct) |  | -2.1% | 4.0% |
+| 00:30 | AUD | Building Approvals (YoY) (Oct) | -1.80% | -1.80% | -1.20% |
+| 00:30 | AUD | NAB Business Survey (Nov) | 7 |  | 10 |
+| 00:30 | AUD | Private House Approvals (Oct) | -2.1% | -2.1% | 4.0% |
 | 03:00 | IDR | Consumer Confidence (Nov) |  |  | 121.2 |
 | 03:35 | JPY | 5-Year JGB Auction |  |  | 1.245% |
 | 06:00 | JPY | Machine Tool Orders (YoY) (Nov) |  |  | 16.8% |

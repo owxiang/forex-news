@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Nov) | 1.2% | 2.6% | 1.5% |
-| 00:30 | AUD | Building Approvals (MoM) (Oct) |  | -6.4% | 12.0% |
+| 00:30 | AUD | Building Approvals (MoM) (Oct) | -6.4% | -6.4% | 12.0% |
 | 00:30 | AUD | NAB Business Confidence (Nov) | 1 |  | 6 |
 | 04:30 | AUD | RBA Rate Statement |  |  |  |
 | 07:00 | EUR | German Trade Balance (Oct) |  | 15.6B | 15.3B |

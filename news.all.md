@@ -3,11 +3,11 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Nov) | 1.2% | 2.6% | 1.5% |
-| 00:30 | AUD | Low | Building Approvals (YoY) (Oct) |  | -1.80% | -1.20% |
-| 00:30 | AUD | Moderate | Building Approvals (MoM) (Oct) |  | -6.4% | 12.0% |
+| 00:30 | AUD | Low | Building Approvals (YoY) (Oct) | -1.80% | -1.80% | -1.20% |
+| 00:30 | AUD | Moderate | Building Approvals (MoM) (Oct) | -6.4% | -6.4% | 12.0% |
 | 00:30 | AUD | Moderate | NAB Business Confidence (Nov) | 1 |  | 6 |
-| 00:30 | AUD | Low | NAB Business Survey (Nov) | 7 |  | 9 |
-| 00:30 | AUD | Low | Private House Approvals (Oct) |  | -2.1% | 4.0% |
+| 00:30 | AUD | Low | NAB Business Survey (Nov) | 7 |  | 10 |
+| 00:30 | AUD | Low | Private House Approvals (Oct) | -2.1% | -2.1% | 4.0% |
 | 03:00 | IDR | Low | Consumer Confidence (Nov) |  |  | 121.2 |
 | 03:30 | AUD | High | RBA Interest Rate Decision (Dec) |  | 3.60% | 3.60% |
 | 03:35 | JPY | Low | 5-Year JGB Auction |  |  | 1.245% |
