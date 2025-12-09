@@ -29,12 +29,12 @@
 | 12:00 | MXN | Low | PPI (MoM) (Nov) | 0.40% |  | 0.30% |
 | 13:15 | USD | Moderate | ADP Employment Change Weekly | 4.75K |  | -13.50K |
 | 13:55 | USD | Low | Redbook (YoY) | 5.7% |  | 7.6% |
-| 7 min | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
-| 7 min | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
-| 7 min | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
-| 52 min | USD | High | JOLTS Job Openings (Sep) |  | 7.200M | 7.227M |
-| 52 min | USD | Moderate | US Leading Index (MoM) (Sep) |  | -0.3% | -0.5% |
-| 53 min | USD | High | JOLTS Job Openings (Oct) |  |  |  |
+| 14:15 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
+| 14:15 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
+| 14:15 | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
+| 15:00 | USD | High | JOLTS Job Openings (Sep) | 7.658M | 7.200M | 7.227M |
+| 15:00 | USD | High | JOLTS Job Openings (Oct) | 7.670M |  |  |
+| 15:00 | USD | Moderate | US Leading Index (MoM) (Sep) | -0.3% | -0.3% | -0.3% |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |
 | 18:00 | USD | High | 10-Year Note Auction |  |  | 4.074% |

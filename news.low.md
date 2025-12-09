@@ -19,7 +19,7 @@
 | 12:00 | MXN | PPI (YoY) (Nov) | 2.40% |  | 3.00% |
 | 12:00 | MXN | PPI (MoM) (Nov) | 0.40% |  | 0.30% |
 | 13:55 | USD | Redbook (YoY) | 5.7% |  | 7.6% |
-| 7 min | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
+| 14:15 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
 | 21:45 | NZD | External Migration & Visitors (Oct) |  |  | 9.60% |
 | 21:45 | NZD | Permanent/Long-Term Migration (Oct) |  |  | 1,800 |
 | 21:45 | NZD | Visitor Arrivals (MoM) |  |  | 2.9% |
