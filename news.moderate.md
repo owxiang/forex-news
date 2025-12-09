@@ -16,4 +16,4 @@
 | 15:00 | USD | US Leading Index (MoM) (Sep) | -0.3% | -0.3% | -0.3% |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 17:00 | USD | WASDE Report |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock |  | -1.700M | -2.480M |
+| 21:30 | USD | API Weekly Crude Oil Stock | -4.800M | -1.700M | -2.480M |

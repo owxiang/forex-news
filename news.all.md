@@ -38,11 +38,11 @@
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |
 | 18:00 | USD | High | 10-Year Note Auction | 4.175% |  | 4.074% |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.700M | -2.480M |
-| 21:45 | NZD | Low | External Migration & Visitors (Oct) |  |  | 9.60% |
-| 21:45 | NZD | Low | Permanent/Long-Term Migration (Oct) |  |  | 1,800 |
-| 21:45 | NZD | Low | Visitor Arrivals (MoM) |  |  | 2.9% |
-| 23:00 | KRW | Low | Unemployment Rate (Nov) |  |  | 2.6% |
-| 23:00 | JPY | Low | Reuters Tankan Index (Dec) |  |  | 17 |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | -4.800M | -1.700M | -2.480M |
+| 21:45 | NZD | Low | External Migration & Visitors (Oct) | 9.40% |  | 9.60% |
+| 21:45 | NZD | Low | Permanent/Long-Term Migration (Oct) | 2,400 |  | 1,760 |
+| 21:45 | NZD | Low | Visitor Arrivals (MoM) | 0.6% |  | 2.9% |
+| 52 min | KRW | Low | Unemployment Rate (Nov) |  |  | 2.6% |
+| 52 min | JPY | Low | Reuters Tankan Index (Dec) |  |  | 17 |
 | 23:50 | JPY | Low | PPI (YoY) (Nov) |  | 2.7% | 2.7% |
 | 23:50 | JPY | Low | PPI (MoM) (Nov) |  | 0.3% | 0.4% |
