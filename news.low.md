@@ -7,10 +7,10 @@
 | 00:30 | AUD | Private House Approvals (Oct) | -2.1% | -2.1% | 4.0% |
 | 03:00 | IDR | Consumer Confidence (Nov) | 124.0 |  | 121.2 |
 | 04:10 | JPY | 5-Year JGB Auction | 1.435% |  | 1.245% |
-| 06:00 | JPY | Machine Tool Orders (YoY) (Nov) |  |  | 16.8% |
-| 48 min | EUR | German Exports (MoM) (Oct) |  | -0.2% | 1.4% |
-| 48 min | EUR | German Imports (MoM) (Oct) |  | 0.2% | 3.1% |
-| 48 min | NOK | PPI (YoY) (Nov) |  |  | -6.9% |
+| 06:00 | JPY | Machine Tool Orders (YoY) (Nov) | 14.2% |  | 16.8% |
+| 07:00 | EUR | German Exports (MoM) (Oct) | 0.1% | -0.2% | 1.5% |
+| 07:00 | EUR | German Imports (MoM) (Oct) | -1.2% | 0.2% | 3.1% |
+| 07:00 | NOK | PPI (YoY) (Nov) | -8.1% |  | -6.9% |
 | 09:00 | JPY | BOJ Gov Ueda Speaks |  |  |  |
 | 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 1.908% |
 | 11:00 | USD | NFIB Small Business Optimism (Nov) |  | 98.4 | 98.2 |

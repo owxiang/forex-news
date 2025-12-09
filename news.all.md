@@ -12,12 +12,12 @@
 | 03:30 | AUD | High | RBA Interest Rate Decision (Dec) | 3.60% | 3.60% | 3.60% |
 | 04:10 | JPY | Low | 5-Year JGB Auction | 1.435% |  | 1.245% |
 | 04:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
-| 06:00 | JPY | Low | Machine Tool Orders (YoY) (Nov) |  |  | 16.8% |
-| 48 min | EUR | Low | German Exports (MoM) (Oct) |  | -0.2% | 1.4% |
-| 48 min | EUR | Low | German Imports (MoM) (Oct) |  | 0.2% | 3.1% |
-| 48 min | EUR | Moderate | German Trade Balance (Oct) |  | 15.9B | 15.3B |
-| 48 min | NOK | Low | PPI (YoY) (Nov) |  |  | -6.9% |
-| 08:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 06:00 | JPY | Low | Machine Tool Orders (YoY) (Nov) | 14.2% |  | 16.8% |
+| 07:00 | EUR | Low | German Exports (MoM) (Oct) | 0.1% | -0.2% | 1.5% |
+| 07:00 | EUR | Low | German Imports (MoM) (Oct) | -1.2% | 0.2% | 3.1% |
+| 07:00 | EUR | Moderate | German Trade Balance (Oct) | 16.9B | 15.9B | 15.3B |
+| 07:00 | NOK | Low | PPI (YoY) (Nov) | -8.1% |  | -6.9% |
+| 51 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 09:00 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
 | 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 1.908% |
 | 11:00 | USD | Low | NFIB Small Business Optimism (Nov) |  | 98.4 | 98.2 |
