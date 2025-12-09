@@ -6,14 +6,14 @@
 | 00:30 | AUD | NAB Business Survey (Nov) | 7 |  | 10 |
 | 00:30 | AUD | Private House Approvals (Oct) | -2.1% | -2.1% | 4.0% |
 | 03:00 | IDR | Consumer Confidence (Nov) | 124.0 |  | 121.2 |
-| 22 min | JPY | 5-Year JGB Auction | 1.435% |  | 1.245% |
-| 06:00 | JPY | Machine Tool Orders (YoY) (Nov) |  |  | 16.8% |
+| 04:10 | JPY | 5-Year JGB Auction | 1.435% |  | 1.245% |
+| 53 min | JPY | Machine Tool Orders (YoY) (Nov) |  |  | 16.8% |
 | 07:00 | EUR | German Exports (MoM) (Oct) |  | -0.2% | 1.4% |
 | 07:00 | EUR | German Imports (MoM) (Oct) |  | 0.2% | 3.1% |
 | 07:00 | NOK | PPI (YoY) (Nov) |  |  | -6.9% |
 | 09:00 | JPY | BOJ Gov Ueda Speaks |  |  |  |
 | 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 1.908% |
-| 11:00 | USD | NFIB Small Business Optimism (Nov) |  | 98.1 | 98.2 |
+| 11:00 | USD | NFIB Small Business Optimism (Nov) |  | 98.4 | 98.2 |
 | 12:00 | MXN | Core CPI (MoM) (Nov) |  | 0.10% | 0.29% |
 | 12:00 | MXN | Month Core Inflation (YoY) (Nov) |  | 4.34% | 4.28% |
 | 12:00 | MXN | PPI (MoM) (Nov) |  |  | 0.30% |
