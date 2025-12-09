@@ -19,8 +19,8 @@
 | 07:00 | NOK | Low | PPI (YoY) (Nov) | -8.1% |  | -6.9% |
 | 08:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 09:00 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
-| 31 min | EUR | Low | Spanish 3-Month Letras Auction |  |  | 1.908% |
-| 11:00 | USD | Low | NFIB Small Business Optimism (Nov) |  | 98.4 | 98.2 |
+| 21 min | EUR | Low | Spanish 3-Month Letras Auction |  |  | 1.908% |
+| 51 min | USD | Low | NFIB Small Business Optimism (Nov) |  | 98.4 | 98.2 |
 | 12:00 | MXN | Low | Core CPI (MoM) (Nov) |  | 0.10% | 0.29% |
 | 12:00 | MXN | Moderate | CPI (YoY) (Nov) |  | 3.69% | 3.57% |
 | 12:00 | MXN | Moderate | CPI (MoM) (Nov) |  | 0.56% | 0.36% |
