@@ -42,7 +42,7 @@
 | 21:45 | NZD | Low | External Migration & Visitors (Oct) | 9.40% |  | 9.60% |
 | 21:45 | NZD | Low | Permanent/Long-Term Migration (Oct) | 2,400 |  | 1,760 |
 | 21:45 | NZD | Low | Visitor Arrivals (MoM) | 0.6% |  | 2.9% |
-| 52 min | KRW | Low | Unemployment Rate (Nov) |  |  | 2.6% |
-| 52 min | JPY | Low | Reuters Tankan Index (Dec) |  |  | 17 |
-| 23:50 | JPY | Low | PPI (YoY) (Nov) |  | 2.7% | 2.7% |
-| 23:50 | JPY | Low | PPI (MoM) (Nov) |  | 0.3% | 0.4% |
+| 23:00 | KRW | Low | Unemployment Rate (Nov) | 2.7% |  | 2.6% |
+| 23:00 | JPY | Low | Reuters Tankan Index (Dec) | 10 |  | 17 |
+| 43 min | JPY | Low | PPI (YoY) (Nov) |  | 2.7% | 2.7% |
+| 43 min | JPY | Low | PPI (MoM) (Nov) |  | 0.3% | 0.4% |
