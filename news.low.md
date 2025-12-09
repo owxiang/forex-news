@@ -11,7 +11,7 @@
 | 07:00 | EUR | German Exports (MoM) (Oct) | 0.1% | -0.2% | 1.5% |
 | 07:00 | EUR | German Imports (MoM) (Oct) | -1.2% | 0.2% | 3.1% |
 | 07:00 | NOK | PPI (YoY) (Nov) | -8.1% |  | -6.9% |
-| 09:00 | JPY | BOJ Gov Ueda Speaks |  |  |  |
+| 49 min | JPY | BOJ Gov Ueda Speaks |  |  |  |
 | 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 1.908% |
 | 11:00 | USD | NFIB Small Business Optimism (Nov) |  | 98.4 | 98.2 |
 | 12:00 | MXN | Core CPI (MoM) (Nov) |  | 0.10% | 0.29% |

@@ -17,8 +17,8 @@
 | 07:00 | EUR | Low | German Imports (MoM) (Oct) | -1.2% | 0.2% | 3.1% |
 | 07:00 | EUR | Moderate | German Trade Balance (Oct) | 16.9B | 15.9B | 15.3B |
 | 07:00 | NOK | Low | PPI (YoY) (Nov) | -8.1% |  | -6.9% |
-| 51 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 09:00 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
+| 08:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 49 min | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
 | 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 1.908% |
 | 11:00 | USD | Low | NFIB Small Business Optimism (Nov) |  | 98.4 | 98.2 |
 | 12:00 | MXN | Low | Core CPI (MoM) (Nov) |  | 0.10% | 0.29% |
