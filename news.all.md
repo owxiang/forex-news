@@ -21,12 +21,12 @@
 | 09:00 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
 | 10:00 | EUR | Low | Spanish 3-Month Letras Auction | 1.974% |  | 1.908% |
 | 11:00 | USD | Low | NFIB Small Business Optimism (Nov) | 99.0 | 98.4 | 98.2 |
-| 53 min | MXN | Low | Core CPI (MoM) (Nov) |  | 0.10% | 0.29% |
-| 53 min | MXN | Moderate | CPI (YoY) (Nov) |  | 3.69% | 3.57% |
-| 53 min | MXN | Moderate | CPI (MoM) (Nov) |  | 0.56% | 0.36% |
-| 53 min | MXN | Low | Month Core Inflation (YoY) (Nov) |  | 4.34% | 4.28% |
-| 53 min | MXN | Low | PPI (MoM) (Nov) |  |  | 0.30% |
-| 53 min | MXN | Low | PPI (YoY) (Nov) |  |  | 3.00% |
+| 12:00 | MXN | Low | Core CPI (MoM) (Nov) | 0.19% | 0.10% | 0.29% |
+| 12:00 | MXN | Moderate | CPI (YoY) (Nov) | 3.80% | 3.69% | 3.57% |
+| 12:00 | MXN | Moderate | CPI (MoM) (Nov) | 0.66% | 0.56% | 0.36% |
+| 12:00 | MXN | Low | Month Core Inflation (YoY) (Nov) | 4.43% | 4.34% | 4.28% |
+| 12:00 | MXN | Low | PPI (MoM) (Nov) | 0.40% |  | 0.30% |
+| 12:00 | MXN | Low | PPI (YoY) (Nov) | 2.40% |  | 3.00% |
 | 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | -13.50K |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 7.6% |
 | 14:15 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
@@ -37,7 +37,7 @@
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |
 | 18:00 | USD | High | 10-Year Note Auction |  |  | 4.074% |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -2.480M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.700M | -2.480M |
 | 21:45 | NZD | Low | External Migration & Visitors (Oct) |  |  | 9.60% |
 | 21:45 | NZD | Low | Permanent/Long-Term Migration (Oct) |  |  | 1,800 |
 | 21:45 | NZD | Low | Visitor Arrivals (MoM) |  |  | 2.9% |

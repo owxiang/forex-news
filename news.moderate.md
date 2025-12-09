@@ -8,12 +8,12 @@
 | 04:30 | AUD | RBA Rate Statement |  |  |  |
 | 07:00 | EUR | German Trade Balance (Oct) | 16.9B | 15.9B | 15.3B |
 | 08:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 53 min | MXN | CPI (YoY) (Nov) |  | 3.69% | 3.57% |
-| 53 min | MXN | CPI (MoM) (Nov) |  | 0.56% | 0.36% |
+| 12:00 | MXN | CPI (YoY) (Nov) | 3.80% | 3.69% | 3.57% |
+| 12:00 | MXN | CPI (MoM) (Nov) | 0.66% | 0.56% | 0.36% |
 | 13:15 | USD | ADP Employment Change Weekly |  |  | -13.50K |
 | 14:15 | GBP | BoE MPC Member Mann Speaks |  |  |  |
 | 14:15 | GBP | MPC Member Ramsden Speaks |  |  |  |
 | 15:00 | USD | US Leading Index (MoM) (Sep) |  |  | -0.5% |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 17:00 | USD | WASDE Report |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock |  |  | -2.480M |
+| 21:30 | USD | API Weekly Crude Oil Stock |  | -1.700M | -2.480M |

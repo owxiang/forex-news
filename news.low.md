@@ -14,10 +14,10 @@
 | 09:00 | JPY | BOJ Gov Ueda Speaks |  |  |  |
 | 10:00 | EUR | Spanish 3-Month Letras Auction | 1.974% |  | 1.908% |
 | 11:00 | USD | NFIB Small Business Optimism (Nov) | 99.0 | 98.4 | 98.2 |
-| 53 min | MXN | Core CPI (MoM) (Nov) |  | 0.10% | 0.29% |
-| 53 min | MXN | Month Core Inflation (YoY) (Nov) |  | 4.34% | 4.28% |
-| 53 min | MXN | PPI (MoM) (Nov) |  |  | 0.30% |
-| 53 min | MXN | PPI (YoY) (Nov) |  |  | 3.00% |
+| 12:00 | MXN | Core CPI (MoM) (Nov) | 0.19% | 0.10% | 0.29% |
+| 12:00 | MXN | Month Core Inflation (YoY) (Nov) | 4.43% | 4.34% | 4.28% |
+| 12:00 | MXN | PPI (MoM) (Nov) | 0.40% |  | 0.30% |
+| 12:00 | MXN | PPI (YoY) (Nov) | 2.40% |  | 3.00% |
 | 13:55 | USD | Redbook (YoY) |  |  | 7.6% |
 | 14:15 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
 | 21:45 | NZD | External Migration & Visitors (Oct) |  |  | 9.60% |
