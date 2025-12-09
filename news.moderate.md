@@ -1,11 +1,19 @@
-## 08 December 2025 - Moderate Impact Forex News
+## 09 December 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:00 | CNY | Exports (YoY) (Nov) | 5.9% | 3.8% | -1.1% |
-| 03:00 | CNY | Imports (YoY) (Nov) | 1.9% | 2.8% | 1.0% |
-| 03:00 | CNY | Trade Balance (USD) (Nov) | 111.68B | 105.00B | 90.07B |
-| 07:00 | EUR | German Industrial Production (MoM) (Oct) | 1.8% | 0.2% | 1.1% |
-| 08:00 | CHF | SECO Consumer Climate (Nov) | -34 | -34 | -37 |
-| 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Nov) | 3.2% |  | 3.2% |
-| 18:00 | USD | 3-Year Note Auction | 3.614% |  | 3.579% |
+| 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Nov) | 1.2% | 2.6% | 1.5% |
+| 00:30 | AUD | Building Approvals (MoM) (Oct) |  | -6.4% | 12.0% |
+| 00:30 | AUD | NAB Business Confidence (Nov) | 1 |  | 6 |
+| 04:30 | AUD | RBA Rate Statement |  |  |  |
+| 07:00 | EUR | German Trade Balance (Oct) |  | 15.6B | 15.3B |
+| 08:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 12:00 | MXN | CPI (YoY) (Nov) |  | 3.69% | 3.57% |
+| 12:00 | MXN | CPI (MoM) (Nov) |  | 0.56% | 0.36% |
+| 13:15 | USD | ADP Employment Change Weekly |  |  | -13.50K |
+| 14:15 | GBP | BoE MPC Member Mann Speaks |  |  |  |
+| 14:15 | GBP | MPC Member Ramsden Speaks |  |  |  |
+| 15:00 | USD | US Leading Index (MoM) (Sep) |  |  | -0.5% |
+| 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
+| 17:00 | USD | WASDE Report |  |  |  |
+| 21:30 | USD | API Weekly Crude Oil Stock |  |  | -2.480M |

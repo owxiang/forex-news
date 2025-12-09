@@ -1,24 +1,29 @@
-## 08 December 2025 - Low Impact Forex News
+## 09 December 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:00 | IDR | Motorbike Sales (YoY) (Nov) | 2.10% |  | 8.40% |
-| 03:00 | CNY | Exports (Nov) | 5.70M |  | -0.80M |
-| 03:00 | CNY | Imports (Nov) | 1.70M |  | 1.40M |
-| 03:00 | CNY | Trade Balance (Nov) | 792.57B | 670.00B | 640.49B |
-| 05:00 | JPY | Economy Watchers Current Index (Nov) | 48.7 | 49.5 | 49.1 |
-| 07:00 | EUR | German Industrial Production (YoY) (Oct) | 0.88% |  | -1.20% |
-| 09:00 | SGD | Foreign Reserves USD (MoM) (Nov) | 400.0B |  | 392.2B |
-| 09:30 | EUR | Sentix Investor Confidence (Dec) | -6.2 | -6.2 | -7.4 |
-| 11:00 | CAD | Leading Index (MoM) (Nov) | 0.20% |  | 0.22% |
-| 11:20 | EUR | German 12-Month Bubill Auction | 2.029% |  | 1.937% |
-| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | BRL | Auto Production (MoM) (Nov) | -11.6% |  | 1.8% |
-| 13:00 | BRL | Auto Sales (MoM) (Nov) | -8.5% |  | 7.2% |
-| 14:00 | EUR | French 12-Month BTF Auction | 2.148% |  | 2.101% |
-| 14:00 | EUR | French 3-Month BTF Auction | 2.088% |  | 2.069% |
-| 14:00 | EUR | French 6-Month BTF Auction | 2.103% |  | 2.091% |
-| 16:30 | USD | 3-Month Bill Auction | 3.650% |  | 3.725% |
-| 16:30 | USD | 6-Month Bill Auction | 3.580% |  | 3.635% |
-| 23:50 | JPY | M2 Money Stock (YoY) |  | 1.4% | 1.6% |
-| 23:50 | JPY | M3 Money Supply (Nov) |  |  | 2,235.2B |
+| 00:30 | AUD | Building Approvals (YoY) (Oct) |  | -1.80% | -1.20% |
+| 00:30 | AUD | NAB Business Survey (Nov) | 7 |  | 9 |
+| 00:30 | AUD | Private House Approvals (Oct) |  | -2.1% | 4.0% |
+| 03:00 | IDR | Consumer Confidence (Nov) |  |  | 121.2 |
+| 03:35 | JPY | 5-Year JGB Auction |  |  | 1.245% |
+| 06:00 | JPY | Machine Tool Orders (YoY) (Nov) |  |  | 16.8% |
+| 07:00 | EUR | German Exports (MoM) (Oct) |  | -0.2% | 1.4% |
+| 07:00 | EUR | German Imports (MoM) (Oct) |  | 0.2% | 3.1% |
+| 07:00 | NOK | PPI (YoY) (Nov) |  |  | -6.9% |
+| 09:00 | JPY | BOJ Gov Ueda Speaks |  |  |  |
+| 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 1.908% |
+| 11:00 | USD | NFIB Small Business Optimism (Nov) |  | 98.1 | 98.2 |
+| 12:00 | MXN | Core CPI (MoM) (Nov) |  | 0.10% | 0.29% |
+| 12:00 | MXN | Month Core Inflation (YoY) (Nov) |  | 4.34% | 4.28% |
+| 12:00 | MXN | PPI (MoM) (Nov) |  |  | 0.30% |
+| 12:00 | MXN | PPI (YoY) (Nov) |  |  | 3.00% |
+| 13:55 | USD | Redbook (YoY) |  |  | 7.6% |
+| 14:15 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
+| 21:45 | NZD | External Migration & Visitors (Oct) |  |  | 9.60% |
+| 21:45 | NZD | Permanent/Long-Term Migration (Oct) |  |  | 1,800 |
+| 21:45 | NZD | Visitor Arrivals (MoM) |  |  | 2.9% |
+| 23:00 | KRW | Unemployment Rate (Nov) |  |  | 2.6% |
+| 23:00 | JPY | Reuters Tankan Index (Dec) |  |  | 17 |
+| 23:50 | JPY | PPI (YoY) (Nov) |  | 2.7% | 2.7% |
+| 23:50 | JPY | PPI (MoM) (Nov) |  | 0.3% | 0.4% |
