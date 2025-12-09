@@ -11,9 +11,9 @@
 | 12:00 | MXN | CPI (YoY) (Nov) | 3.80% | 3.69% | 3.57% |
 | 12:00 | MXN | CPI (MoM) (Nov) | 0.66% | 0.56% | 0.36% |
 | 13:15 | USD | ADP Employment Change Weekly | 4.75K |  | -13.50K |
-| 57 min | GBP | BoE MPC Member Mann Speaks |  |  |  |
-| 57 min | GBP | MPC Member Ramsden Speaks |  |  |  |
-| 15:00 | USD | US Leading Index (MoM) (Sep) |  | -0.3% | -0.5% |
+| 7 min | GBP | BoE MPC Member Mann Speaks |  |  |  |
+| 7 min | GBP | MPC Member Ramsden Speaks |  |  |  |
+| 52 min | USD | US Leading Index (MoM) (Sep) |  | -0.3% | -0.5% |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 17:00 | USD | WASDE Report |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | -1.700M | -2.480M |

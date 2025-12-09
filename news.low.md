@@ -18,8 +18,8 @@
 | 12:00 | MXN | Month Core Inflation (YoY) (Nov) | 4.43% | 4.34% | 4.28% |
 | 12:00 | MXN | PPI (YoY) (Nov) | 2.40% |  | 3.00% |
 | 12:00 | MXN | PPI (MoM) (Nov) | 0.40% |  | 0.30% |
-| 37 min | USD | Redbook (YoY) |  |  | 7.6% |
-| 57 min | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
+| 13:55 | USD | Redbook (YoY) | 5.7% |  | 7.6% |
+| 7 min | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
 | 21:45 | NZD | External Migration & Visitors (Oct) |  |  | 9.60% |
 | 21:45 | NZD | Permanent/Long-Term Migration (Oct) |  |  | 1,800 |
 | 21:45 | NZD | Visitor Arrivals (MoM) |  |  | 2.9% |
