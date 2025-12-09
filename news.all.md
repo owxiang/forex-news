@@ -37,7 +37,7 @@
 | 15:01 | USD | High | JOLTS Job Openings (Oct) | 7.670M |  | 7.658M |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |
-| 51 min | USD | High | 10-Year Note Auction |  |  | 4.074% |
+| 18:00 | USD | High | 10-Year Note Auction |  |  | 4.074% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.700M | -2.480M |
 | 21:45 | NZD | Low | External Migration & Visitors (Oct) |  |  | 9.60% |
 | 21:45 | NZD | Low | Permanent/Long-Term Migration (Oct) |  |  | 1,800 |
