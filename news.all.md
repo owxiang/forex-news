@@ -7,11 +7,11 @@
 | 01:30 | CNY | Moderate | CPI (MoM) (Nov) | -0.1% | 0.2% | 0.2% |
 | 01:30 | CNY | Moderate | PPI (YoY) (Nov) | -2.2% | -2.0% | -2.1% |
 | 03:00 | IDR | Low | Retail Sales (YoY) (Oct) | 4.3% |  | 3.7% |
-| 07:00 | NOK | Low | Core CPI YTD (Nov) |  | 3.1% | 3.4% |
-| 07:00 | NOK | Low | Core Inflation (MoM) (Nov) |  |  | 0.6% |
-| 07:00 | NOK | Low | CPI (MoM) (Nov) |  |  | 0.1% |
-| 07:00 | NOK | Low | CPI (YoY) (Nov) |  | 2.7% | 3.1% |
-| 07:00 | NOK | Low | Current Account (Q3) |  |  | 217.9B |
+| 49 min | NOK | Low | Core CPI YTD (Nov) |  | 3.1% | 3.4% |
+| 49 min | NOK | Low | Core Inflation (MoM) (Nov) |  |  | 0.6% |
+| 49 min | NOK | Low | CPI (MoM) (Nov) |  |  | 0.1% |
+| 49 min | NOK | Low | CPI (YoY) (Nov) |  | 2.7% | 3.1% |
+| 49 min | NOK | Low | Current Account (Q3) |  |  | 217.9B |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Oct) |  | -0.3% | 2.8% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Oct) |  | 0.2% | 1.5% |
 | 10:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.063% |
