@@ -28,10 +28,10 @@
 | 12:00 | BRL | Moderate | CPI (YoY) (Nov) | 4.46% | 4.49% | 4.68% |
 | 12:00 | BRL | Low | CPI (MoM) (Nov) | 0.18% | 0.20% | 0.09% |
 | 12:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Nov) | 0.12% |  | 0.07% |
-| 13:30 | USD | Low | Employment Benefits (QoQ) (Q3) |  |  | 0.70% |
-| 13:30 | USD | Moderate | Employment Cost Index (QoQ) (Q3) |  | 0.9% | 0.9% |
-| 13:30 | USD | Low | Employment Wages (QoQ) (Q3) |  |  | 1.00% |
-| 13:30 | USD | Low | Real Earnings (MoM) (Oct) |  |  | -0.1% |
+| 12 min | USD | Low | Employment Benefits (QoQ) (Q3) |  |  | 0.70% |
+| 12 min | USD | Moderate | Employment Cost Index (QoQ) (Q3) |  | 0.9% | 0.9% |
+| 12 min | USD | Low | Employment Wages (QoQ) (Q3) |  |  | 1.00% |
+| 12 min | USD | Low | Real Earnings (MoM) (Oct) |  |  | -0.1% |
 | 14:45 | CAD | Moderate | BoC Rate Statement |  |  |  |
 | 14:45 | CAD | High | BoC Interest Rate Decision |  | 2.25% | 2.25% |
 | 15:30 | USD | High | Crude Oil Inventories |  | -1.200M | 0.574M |

@@ -22,9 +22,9 @@
 | 12:00 | USD | Mortgage Refinance Index | 1,190.6 |  | 1,041.9 |
 | 12:00 | BRL | CPI (MoM) (Nov) | 0.18% | 0.20% | 0.09% |
 | 12:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Nov) | 0.12% |  | 0.07% |
-| 13:30 | USD | Employment Benefits (QoQ) (Q3) |  |  | 0.70% |
-| 13:30 | USD | Employment Wages (QoQ) (Q3) |  |  | 1.00% |
-| 13:30 | USD | Real Earnings (MoM) (Oct) |  |  | -0.1% |
+| 12 min | USD | Employment Benefits (QoQ) (Q3) |  |  | 0.70% |
+| 12 min | USD | Employment Wages (QoQ) (Q3) |  |  | 1.00% |
+| 12 min | USD | Real Earnings (MoM) (Oct) |  |  | -0.1% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.433M |
 | 15:30 | USD | Crude Oil Imports |  |  | -0.470M |
 | 15:30 | USD | Distillate Fuel Production |  |  | 0.053M |
