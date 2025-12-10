@@ -61,6 +61,6 @@
 | 19:30 | USD | High | FOMC Press Conference |  |  |  |
 | 21:30 | BRL | Moderate | Interest Rate Decision | 15.00% | 15.00% | 15.00% |
 | 21:45 | NZD | Low | Manufacturing Sales Volume (QoQ) (Q3) | 1.1% |  | -2.9% |
-| 23:50 | JPY | Moderate | BSI Large Manufacturing Conditions (Q4) |  | 4.1 | 3.8 |
-| 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -771.3B |
-| 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 655.6B |
+| 44 min | JPY | Moderate | BSI Large Manufacturing Conditions (Q4) |  | 4.1 | 3.8 |
+| 44 min | JPY | Low | Foreign Bonds Buying |  |  | -771.3B |
+| 44 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 655.6B |

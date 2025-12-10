@@ -19,4 +19,4 @@
 | 19:00 | USD | Interest Rate Projection - Current (Q4) | 3.6% |  | 3.6% |
 | 19:00 | USD | Interest Rate Projection - Longer (Q4) | 3.0% |  | 3.0% |
 | 21:30 | BRL | Interest Rate Decision | 15.00% | 15.00% | 15.00% |
-| 23:50 | JPY | BSI Large Manufacturing Conditions (Q4) |  | 4.1 | 3.8 |
+| 44 min | JPY | BSI Large Manufacturing Conditions (Q4) |  | 4.1 | 3.8 |

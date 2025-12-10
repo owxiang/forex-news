@@ -38,5 +38,5 @@
 | 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Dec) | 53.15 |  | 52.78 |
 | 17:30 | BRL | Foreign Exchange Flows | 4.709B |  | -1.219B |
 | 21:45 | NZD | Manufacturing Sales Volume (QoQ) (Q3) | 1.1% |  | -2.9% |
-| 23:50 | JPY | Foreign Bonds Buying |  |  | -771.3B |
-| 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 655.6B |
+| 44 min | JPY | Foreign Bonds Buying |  |  | -771.3B |
+| 44 min | JPY | Foreign Investments in Japanese Stocks |  |  | 655.6B |
