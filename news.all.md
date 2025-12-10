@@ -15,10 +15,10 @@
 | 07:00 | NOK | Low | Current Account (Q3) | 174.5B |  | 179.3B |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Oct) | -1.0% | -0.3% | 2.7% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Oct) | -0.3% | 0.2% | 1.4% |
-| 10:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.063% |
-| 10:45 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 10:55 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 11:00 | ZAR | Low | Retail Sales (YoY) (Oct) |  |  | 3.1% |
+| 2 min | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.063% |
+| 37 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 47 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 52 min | ZAR | Low | Retail Sales (YoY) (Oct) |  |  | 3.1% |
 | 11:30 | INR | Low | M3 Money Supply |  |  | 9.8% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.32% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -1.4% |
