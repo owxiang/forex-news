@@ -14,14 +14,14 @@
 | 09:00 | EUR | Italian Industrial Production (YoY) (Oct) | -0.3% | 0.2% | 1.4% |
 | 10:10 | EUR | Italian 12-Month BOT Auction | 2.181% |  | 2.063% |
 | 11:00 | ZAR | Retail Sales (YoY) (Oct) | 2.9% |  | 3.0% |
-| 22 min | INR | M3 Money Supply |  |  | 9.8% |
-| 52 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.32% |
-| 52 min | USD | MBA Mortgage Applications (WoW) |  |  | -1.4% |
-| 52 min | USD | MBA Purchase Index |  |  | 186.1 |
-| 52 min | USD | Mortgage Market Index |  |  | 313.0 |
-| 52 min | USD | Mortgage Refinance Index |  |  | 1,041.9 |
-| 52 min | BRL | CPI (MoM) (Nov) |  | 0.20% | 0.09% |
-| 52 min | BRL | Brazilian IPCA Inflation Index SA (MoM) (Nov) |  |  | 0.07% |
+| 11:30 | INR | M3 Money Supply | 9.9% |  | 10.1% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.33% |  | 6.32% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | 4.8% |  | -1.4% |
+| 12:00 | USD | MBA Purchase Index | 181.6 |  | 186.1 |
+| 12:00 | USD | Mortgage Market Index | 327.9 |  | 313.0 |
+| 12:00 | USD | Mortgage Refinance Index | 1,190.6 |  | 1,041.9 |
+| 12:00 | BRL | CPI (MoM) (Nov) | 0.18% | 0.20% | 0.09% |
+| 12:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Nov) | 0.12% |  | 0.07% |
 | 13:30 | USD | Employment Benefits (QoQ) (Q3) |  |  | 0.70% |
 | 13:30 | USD | Employment Wages (QoQ) (Q3) |  |  | 1.00% |
 | 13:30 | USD | Real Earnings (MoM) (Oct) |  |  | -0.1% |
