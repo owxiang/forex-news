@@ -1,8 +1,10 @@
-## 09 December 2025 - High Impact Forex News
+## 10 December 2025 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:30 | AUD | RBA Interest Rate Decision (Dec) | 3.60% | 3.60% | 3.60% |
-| 15:00 | USD | JOLTS Job Openings (Sep) | 7.658M | 7.200M | 7.227M |
-| 15:01 | USD | JOLTS Job Openings (Oct) | 7.670M |  | 7.658M |
-| 18:00 | USD | 10-Year Note Auction | 4.175% |  | 4.074% |
+| 14:45 | CAD | BoC Interest Rate Decision |  | 2.25% | 2.25% |
+| 15:30 | USD | Crude Oil Inventories |  |  | 0.574M |
+| 19:00 | USD | FOMC Economic Projections |  |  |  |
+| 19:00 | USD | FOMC Statement |  |  |  |
+| 19:00 | USD | Fed Interest Rate Decision |  | 3.75% | 4.00% |
+| 19:30 | USD | FOMC Press Conference |  |  |  |

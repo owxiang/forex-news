@@ -1,19 +1,23 @@
-## 09 December 2025 - Moderate Impact Forex News
+## 10 December 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Nov) | 1.2% | 2.6% | 1.5% |
-| 00:30 | AUD | Building Approvals (MoM) (Oct) | -6.4% | -6.4% | 12.0% |
-| 00:30 | AUD | NAB Business Confidence (Nov) | 1 |  | 6 |
-| 04:30 | AUD | RBA Rate Statement |  |  |  |
-| 07:00 | EUR | German Trade Balance (Oct) | 16.9B | 15.9B | 15.3B |
-| 08:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 12:00 | MXN | CPI (YoY) (Nov) | 3.80% | 3.69% | 3.57% |
-| 12:00 | MXN | CPI (MoM) (Nov) | 0.66% | 0.56% | 0.36% |
-| 13:15 | USD | ADP Employment Change Weekly | 4.75K |  | -13.50K |
-| 14:15 | GBP | BoE MPC Member Mann Speaks |  |  |  |
-| 14:15 | GBP | MPC Member Ramsden Speaks |  |  |  |
-| 15:00 | USD | US Leading Index (MoM) (Sep) | -0.3% | -0.3% | -0.3% |
-| 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
-| 17:00 | USD | WASDE Report |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock | -4.800M | -1.700M | -2.480M |
+| 57 min | CNY | CPI (YoY) (Nov) |  | 0.7% | 0.2% |
+| 57 min | CNY | CPI (MoM) (Nov) |  | 0.3% | 0.2% |
+| 57 min | CNY | PPI (YoY) (Nov) |  | -2.0% | -2.1% |
+| 10:45 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 10:55 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 12:00 | BRL | CPI (YoY) (Nov) |  | 4.49% | 4.68% |
+| 13:30 | USD | Employment Cost Index (QoQ) (Q3) |  | 0.9% | 0.9% |
+| 14:45 | CAD | BoC Rate Statement |  |  |  |
+| 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.457M |
+| 15:30 | CAD | BOC Press Conference |  |  |  |
+| 19:00 | USD | Federal Budget Balance (Nov) |  | -194.8B | -284.0B |
+| 19:00 | USD | Interest Rate Projection - 1st Yr (Q4) |  |  | 3.4% |
+| 19:00 | USD | Interest Rate Projection - 2nd Yr (Q4) |  |  | 3.1% |
+| 19:00 | USD | Interest Rate Projection - 3rd Yr (Q4) |  |  | 3.1% |
+| 19:00 | USD | Interest Rate Projection - Current (Q4) |  |  | 3.6% |
+| 19:00 | USD | Interest Rate Projection - Longer (Q4) |  |  | 3.0% |
+| 21:30 | BRL | Interest Rate Decision |  | 15.00% | 15.00% |
+| 21:45 | NZD | Electronic Card Retail Sales (MoM) (Nov) |  |  | 0.2% |
+| 23:50 | JPY | BSI Large Manufacturing Conditions (Q4) |  | 4.1 | 3.8 |
