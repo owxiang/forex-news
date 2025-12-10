@@ -59,10 +59,8 @@
 | 19:00 | USD | High | FOMC Statement |  |  |  |
 | 19:00 | USD | High | Fed Interest Rate Decision | 3.75% | 3.75% | 4.00% |
 | 19:30 | USD | High | FOMC Press Conference |  |  |  |
-| 23 min | BRL | Moderate | Interest Rate Decision |  | 15.00% | 15.00% |
-| 38 min | NZD | Moderate | Electronic Card Retail Sales (MoM) (Nov) |  |  | 0.2% |
-| 38 min | NZD | Low | Electronic Card Retail Sales (YoY) (Nov) |  |  | 0.8% |
-| 38 min | NZD | Low | Manufacturing Sales Volume (QoQ) (Q3) |  |  | -2.9% |
+| 21:30 | BRL | Moderate | Interest Rate Decision | 15.00% | 15.00% | 15.00% |
+| 21:45 | NZD | Low | Manufacturing Sales Volume (QoQ) (Q3) | 1.1% |  | -2.9% |
 | 23:50 | JPY | Moderate | BSI Large Manufacturing Conditions (Q4) |  | 4.1 | 3.8 |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -771.3B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 655.6B |

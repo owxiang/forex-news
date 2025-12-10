@@ -18,6 +18,5 @@
 | 19:00 | USD | Interest Rate Projection - 3rd Yr (Q4) | 3.1% |  | 3.1% |
 | 19:00 | USD | Interest Rate Projection - Current (Q4) | 3.6% |  | 3.6% |
 | 19:00 | USD | Interest Rate Projection - Longer (Q4) | 3.0% |  | 3.0% |
-| 23 min | BRL | Interest Rate Decision |  | 15.00% | 15.00% |
-| 38 min | NZD | Electronic Card Retail Sales (MoM) (Nov) |  |  | 0.2% |
+| 21:30 | BRL | Interest Rate Decision | 15.00% | 15.00% | 15.00% |
 | 23:50 | JPY | BSI Large Manufacturing Conditions (Q4) |  | 4.1 | 3.8 |
