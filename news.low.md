@@ -36,6 +36,7 @@
 | 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 46.43 |  | 47.44 |
 | 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 55.16 |  | 51.72 |
 | 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Dec) | 53.15 |  | 52.78 |
+| 17:30 | BRL | Foreign Exchange Flows | 4.709B |  | -1.219B |
 | 21:45 | NZD | Electronic Card Retail Sales (YoY) (Nov) |  |  | 0.8% |
 | 21:45 | NZD | Manufacturing Sales Volume (QoQ) (Q3) |  |  | -2.9% |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | -771.3B |

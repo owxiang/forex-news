@@ -48,15 +48,16 @@
 | 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 46.43 |  | 47.44 |
 | 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 55.16 |  | 51.72 |
 | 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Dec) | 53.15 |  | 52.78 |
-| 19:00 | USD | Moderate | Federal Budget Balance (Nov) |  | -186.5B | -284.0B |
-| 19:00 | USD | Moderate | Interest Rate Projection - 1st Yr (Q4) |  |  | 3.4% |
-| 19:00 | USD | Moderate | Interest Rate Projection - 2nd Yr (Q4) |  |  | 3.1% |
-| 19:00 | USD | Moderate | Interest Rate Projection - 3rd Yr (Q4) |  |  | 3.1% |
-| 19:00 | USD | Moderate | Interest Rate Projection - Current (Q4) |  |  | 3.6% |
-| 19:00 | USD | Moderate | Interest Rate Projection - Longer (Q4) |  |  | 3.0% |
-| 19:00 | USD | High | FOMC Economic Projections |  |  |  |
-| 19:00 | USD | High | FOMC Statement |  |  |  |
-| 19:00 | USD | High | Fed Interest Rate Decision |  | 3.75% | 4.00% |
+| 17:30 | BRL | Low | Foreign Exchange Flows | 4.709B |  | -1.219B |
+| 50 min | USD | Moderate | Federal Budget Balance (Nov) |  | -186.5B | -284.0B |
+| 50 min | USD | Moderate | Interest Rate Projection - 1st Yr (Q4) |  |  | 3.4% |
+| 50 min | USD | Moderate | Interest Rate Projection - 2nd Yr (Q4) |  |  | 3.1% |
+| 50 min | USD | Moderate | Interest Rate Projection - 3rd Yr (Q4) |  |  | 3.1% |
+| 50 min | USD | Moderate | Interest Rate Projection - Current (Q4) |  |  | 3.6% |
+| 50 min | USD | Moderate | Interest Rate Projection - Longer (Q4) |  |  | 3.0% |
+| 50 min | USD | High | FOMC Economic Projections |  |  |  |
+| 50 min | USD | High | FOMC Statement |  |  |  |
+| 50 min | USD | High | Fed Interest Rate Decision |  | 3.75% | 4.00% |
 | 19:30 | USD | High | FOMC Press Conference |  |  |  |
 | 21:30 | BRL | Moderate | Interest Rate Decision |  | 15.00% | 15.00% |
 | 21:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Nov) |  |  | 0.2% |
