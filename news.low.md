@@ -10,8 +10,8 @@
 | 07:00 | NOK | CPI (MoM) (Nov) | 0.1% |  | 0.1% |
 | 07:00 | NOK | CPI (YoY) (Nov) | 3.0% | 2.7% | 3.1% |
 | 07:00 | NOK | Current Account (Q3) | 174.5B |  | 179.3B |
-| 50 min | EUR | Italian Industrial Production (MoM) (Oct) |  | -0.3% | 2.8% |
-| 50 min | EUR | Italian Industrial Production (YoY) (Oct) |  | 0.2% | 1.5% |
+| 09:00 | EUR | Italian Industrial Production (MoM) (Oct) | -1.0% | -0.3% | 2.7% |
+| 09:00 | EUR | Italian Industrial Production (YoY) (Oct) | -0.3% | 0.2% | 1.4% |
 | 10:10 | EUR | Italian 12-Month BOT Auction |  |  | 2.063% |
 | 11:00 | ZAR | Retail Sales (YoY) (Oct) |  |  | 3.1% |
 | 11:30 | INR | M3 Money Supply |  |  | 9.8% |
