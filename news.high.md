@@ -7,4 +7,4 @@
 | 19:00 | USD | FOMC Economic Projections |  |  |  |
 | 19:00 | USD | FOMC Statement |  |  |  |
 | 19:00 | USD | Fed Interest Rate Decision | 3.75% | 3.75% | 4.00% |
-| 24 min | USD | FOMC Press Conference |  |  |  |
+| 19:30 | USD | FOMC Press Conference |  |  |  |

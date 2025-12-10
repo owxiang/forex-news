@@ -58,7 +58,7 @@
 | 19:00 | USD | High | FOMC Economic Projections |  |  |  |
 | 19:00 | USD | High | FOMC Statement |  |  |  |
 | 19:00 | USD | High | Fed Interest Rate Decision | 3.75% | 3.75% | 4.00% |
-| 24 min | USD | High | FOMC Press Conference |  |  |  |
+| 19:30 | USD | High | FOMC Press Conference |  |  |  |
 | 21:30 | BRL | Moderate | Interest Rate Decision |  | 15.00% | 15.00% |
 | 21:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Nov) |  |  | 0.2% |
 | 21:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Nov) |  |  | 0.8% |
