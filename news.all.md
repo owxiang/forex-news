@@ -33,21 +33,21 @@
 | 13:30 | USD | Low | Employment Wages (QoQ) (Q3) | 0.80% |  | 1.00% |
 | 14:45 | CAD | Moderate | BoC Rate Statement |  |  |  |
 | 14:45 | CAD | High | BoC Interest Rate Decision | 2.25% | 2.25% | 2.25% |
-| 22 min | USD | High | Crude Oil Inventories |  | -1.200M | 0.574M |
-| 22 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.433M |
-| 22 min | USD | Low | Crude Oil Imports |  |  | -0.470M |
-| 22 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.457M |
-| 22 min | USD | Low | Distillate Fuel Production |  |  | 0.053M |
-| 22 min | USD | Low | EIA Weekly Distillates Stocks |  |  | 2.059M |
-| 22 min | USD | Low | Gasoline Production |  |  | 0.197M |
-| 22 min | USD | Low | Heating Oil Stockpiles |  |  | -0.293M |
-| 22 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.8% |
-| 22 min | USD | Low | Gasoline Inventories |  |  | 4.518M |
-| 22 min | CAD | Moderate | BOC Press Conference |  |  |  |
-| 52 min | USD | Low | Thomson Reuters IPSOS PCSI (Dec) |  |  | 51.31 |
-| 52 min | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 47.44 |
-| 52 min | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 51.72 |
-| 52 min | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Dec) |  |  | 52.78 |
+| 15:30 | USD | High | Crude Oil Inventories | -1.812M | -1.200M | 0.574M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | -0.016M |  | 0.433M |
+| 15:30 | USD | Low | Crude Oil Imports | 0.212M |  | -0.470M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | 0.308M |  | -0.457M |
+| 15:30 | USD | Low | Distillate Fuel Production | 0.380M |  | 0.053M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks | 2.502M | 1.900M | 2.059M |
+| 15:30 | USD | Low | Gasoline Production | -0.178M |  | 0.197M |
+| 15:30 | USD | Low | Heating Oil Stockpiles | 0.442M |  | -0.293M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 0.4% |  | 1.8% |
+| 15:30 | USD | Low | Gasoline Inventories | 6.397M | 2.800M | 4.518M |
+| 15:30 | CAD | Moderate | BOC Press Conference |  |  |  |
+| 16:00 | USD | Low | Thomson Reuters IPSOS PCSI (Dec) | 51.86 |  | 51.31 |
+| 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 46.43 |  | 47.44 |
+| 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 55.16 |  | 51.72 |
+| 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Dec) | 53.15 |  | 52.78 |
 | 19:00 | USD | Moderate | Federal Budget Balance (Nov) |  | -186.5B | -284.0B |
 | 19:00 | USD | Moderate | Interest Rate Projection - 1st Yr (Q4) |  |  | 3.4% |
 | 19:00 | USD | Moderate | Interest Rate Projection - 2nd Yr (Q4) |  |  | 3.1% |

@@ -10,8 +10,8 @@
 | 12:00 | BRL | CPI (YoY) (Nov) | 4.46% | 4.49% | 4.68% |
 | 13:30 | USD | Employment Cost Index (QoQ) (Q3) | 0.8% | 0.9% | 0.9% |
 | 14:45 | CAD | BoC Rate Statement |  |  |  |
-| 22 min | USD | Cushing Crude Oil Inventories |  |  | -0.457M |
-| 22 min | CAD | BOC Press Conference |  |  |  |
+| 15:30 | USD | Cushing Crude Oil Inventories | 0.308M |  | -0.457M |
+| 15:30 | CAD | BOC Press Conference |  |  |  |
 | 19:00 | USD | Federal Budget Balance (Nov) |  | -186.5B | -284.0B |
 | 19:00 | USD | Interest Rate Projection - 1st Yr (Q4) |  |  | 3.4% |
 | 19:00 | USD | Interest Rate Projection - 2nd Yr (Q4) |  |  | 3.1% |
