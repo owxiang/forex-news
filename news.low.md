@@ -4,11 +4,12 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | RBA Chart Pack Release |  |  |  |
 | 03:00 | IDR | Retail Sales (YoY) (Oct) | 4.3% |  | 3.7% |
-| 49 min | NOK | Core CPI YTD (Nov) |  | 3.1% | 3.4% |
-| 49 min | NOK | Core Inflation (MoM) (Nov) |  |  | 0.6% |
-| 49 min | NOK | CPI (MoM) (Nov) |  |  | 0.1% |
-| 49 min | NOK | CPI (YoY) (Nov) |  | 2.7% | 3.1% |
-| 49 min | NOK | Current Account (Q3) |  |  | 217.9B |
+| 04:00 | IDR | Car Sales (YoY) (Nov) | -0.80% |  | -4.37% |
+| 07:00 | NOK | Core CPI YTD (Nov) | 3.0% | 3.1% | 3.4% |
+| 07:00 | NOK | Core Inflation (MoM) (Nov) | -0.3% |  | 0.6% |
+| 07:00 | NOK | CPI (MoM) (Nov) | 0.1% |  | 0.1% |
+| 07:00 | NOK | CPI (YoY) (Nov) | 3.0% | 2.7% | 3.1% |
+| 07:00 | NOK | Current Account (Q3) | 174.5B |  | 179.3B |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Oct) |  | -0.3% | 2.8% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Oct) |  | 0.2% | 1.5% |
 | 10:10 | EUR | Italian 12-Month BOT Auction |  |  | 2.063% |
