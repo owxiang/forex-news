@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | RBA Chart Pack Release |  |  |  |
-| 04:00 | IDR | Retail Sales (YoY) (Oct) |  |  | 3.7% |
+| 03:00 | IDR | Retail Sales (YoY) (Oct) | 4.3% |  | 3.7% |
 | 07:00 | NOK | Core CPI YTD (Nov) |  | 3.1% | 3.4% |
 | 07:00 | NOK | Core Inflation (MoM) (Nov) |  |  | 0.6% |
 | 07:00 | NOK | CPI (MoM) (Nov) |  |  | 0.1% |
