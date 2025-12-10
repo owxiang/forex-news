@@ -24,18 +24,18 @@
 | 12:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Nov) | 0.12% |  | 0.07% |
 | 13:30 | USD | Employment Benefits (QoQ) (Q3) | 0.80% |  | 0.70% |
 | 13:30 | USD | Employment Wages (QoQ) (Q3) | 0.80% |  | 1.00% |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.433M |
-| 15:30 | USD | Crude Oil Imports |  |  | -0.470M |
-| 15:30 | USD | Distillate Fuel Production |  |  | 0.053M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | 2.059M |
-| 15:30 | USD | Gasoline Production |  |  | 0.197M |
-| 15:30 | USD | Heating Oil Stockpiles |  |  | -0.293M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.8% |
-| 15:30 | USD | Gasoline Inventories |  |  | 4.518M |
-| 16:00 | USD | Thomson Reuters IPSOS PCSI (Dec) |  |  | 51.31 |
-| 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 47.44 |
-| 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 51.72 |
-| 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Dec) |  |  | 52.78 |
+| 22 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.433M |
+| 22 min | USD | Crude Oil Imports |  |  | -0.470M |
+| 22 min | USD | Distillate Fuel Production |  |  | 0.053M |
+| 22 min | USD | EIA Weekly Distillates Stocks |  |  | 2.059M |
+| 22 min | USD | Gasoline Production |  |  | 0.197M |
+| 22 min | USD | Heating Oil Stockpiles |  |  | -0.293M |
+| 22 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.8% |
+| 22 min | USD | Gasoline Inventories |  |  | 4.518M |
+| 52 min | USD | Thomson Reuters IPSOS PCSI (Dec) |  |  | 51.31 |
+| 52 min | CAD | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 47.44 |
+| 52 min | MXN | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 51.72 |
+| 52 min | BRL | Brazil Thomson Reuters IPSOS PCSI (Dec) |  |  | 52.78 |
 | 21:45 | NZD | Electronic Card Retail Sales (YoY) (Nov) |  |  | 0.8% |
 | 21:45 | NZD | Manufacturing Sales Volume (QoQ) (Q3) |  |  | -2.9% |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | -771.3B |
