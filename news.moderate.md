@@ -8,8 +8,8 @@
 | 10:45 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 10:55 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 12:00 | BRL | CPI (YoY) (Nov) | 4.46% | 4.49% | 4.68% |
-| 12 min | USD | Employment Cost Index (QoQ) (Q3) |  | 0.9% | 0.9% |
-| 14:45 | CAD | BoC Rate Statement |  |  |  |
+| 13:30 | USD | Employment Cost Index (QoQ) (Q3) | 0.8% | 0.9% | 0.9% |
+| 37 min | CAD | BoC Rate Statement |  |  |  |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.457M |
 | 15:30 | CAD | BOC Press Conference |  |  |  |
 | 19:00 | USD | Federal Budget Balance (Nov) |  | -186.5B | -284.0B |

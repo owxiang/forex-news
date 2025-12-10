@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 14:45 | CAD | BoC Interest Rate Decision |  | 2.25% | 2.25% |
+| 37 min | CAD | BoC Interest Rate Decision |  | 2.25% | 2.25% |
 | 15:30 | USD | Crude Oil Inventories |  | -1.200M | 0.574M |
 | 19:00 | USD | FOMC Economic Projections |  |  |  |
 | 19:00 | USD | FOMC Statement |  |  |  |
