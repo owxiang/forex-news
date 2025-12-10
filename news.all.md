@@ -10,10 +10,10 @@
 | 07:00 | NOK | Low | Core CPI YTD (Nov) |  | 3.1% | 3.4% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Nov) |  |  | 0.6% |
 | 07:00 | NOK | Low | CPI (MoM) (Nov) |  |  | 0.1% |
-| 07:00 | NOK | Low | CPI (YoY) (Nov) |  | 2.9% | 3.1% |
+| 07:00 | NOK | Low | CPI (YoY) (Nov) |  | 2.7% | 3.1% |
 | 07:00 | NOK | Low | Current Account (Q3) |  |  | 217.9B |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Oct) |  | -0.3% | 2.8% |
-| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Oct) |  |  | 1.5% |
+| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Oct) |  | 0.2% | 1.5% |
 | 10:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.063% |
 | 10:45 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 10:55 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
@@ -33,7 +33,7 @@
 | 13:30 | USD | Low | Real Earnings (MoM) (Oct) |  |  | -0.1% |
 | 14:45 | CAD | Moderate | BoC Rate Statement |  |  |  |
 | 14:45 | CAD | High | BoC Interest Rate Decision |  | 2.25% | 2.25% |
-| 15:30 | USD | High | Crude Oil Inventories |  |  | 0.574M |
+| 15:30 | USD | High | Crude Oil Inventories |  | -1.200M | 0.574M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.433M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | -0.470M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.457M |
@@ -48,7 +48,7 @@
 | 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 47.44 |
 | 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 51.72 |
 | 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Dec) |  |  | 52.78 |
-| 19:00 | USD | Moderate | Federal Budget Balance (Nov) |  | -194.8B | -284.0B |
+| 19:00 | USD | Moderate | Federal Budget Balance (Nov) |  | -186.5B | -284.0B |
 | 19:00 | USD | Moderate | Interest Rate Projection - 1st Yr (Q4) |  |  | 3.4% |
 | 19:00 | USD | Moderate | Interest Rate Projection - 2nd Yr (Q4) |  |  | 3.1% |
 | 19:00 | USD | Moderate | Interest Rate Projection - 3rd Yr (Q4) |  |  | 3.1% |
