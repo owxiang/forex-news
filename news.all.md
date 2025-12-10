@@ -4,7 +4,7 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
 | 01:30 | CNY | Moderate | CPI (YoY) (Nov) | 0.7% | 0.7% | 0.2% |
-| 01:30 | CNY | Moderate | CPI (MoM) (Nov) | -0.1% | 0.3% | 0.2% |
+| 01:30 | CNY | Moderate | CPI (MoM) (Nov) | -0.1% | 0.2% | 0.2% |
 | 01:30 | CNY | Moderate | PPI (YoY) (Nov) | -2.2% | -2.0% | -2.1% |
 | 04:00 | IDR | Low | Retail Sales (YoY) (Oct) |  |  | 3.7% |
 | 07:00 | NOK | Low | Core CPI YTD (Nov) |  | 3.1% | 3.4% |

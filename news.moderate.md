@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:30 | CNY | CPI (YoY) (Nov) | 0.7% | 0.7% | 0.2% |
-| 01:30 | CNY | CPI (MoM) (Nov) | -0.1% | 0.3% | 0.2% |
+| 01:30 | CNY | CPI (MoM) (Nov) | -0.1% | 0.2% | 0.2% |
 | 01:30 | CNY | PPI (YoY) (Nov) | -2.2% | -2.0% | -2.1% |
 | 10:45 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 10:55 | EUR | ECB President Lagarde Speaks |  |  |  |
