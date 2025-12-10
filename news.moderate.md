@@ -5,9 +5,9 @@
 | 01:30 | CNY | CPI (YoY) (Nov) | 0.7% | 0.7% | 0.2% |
 | 01:30 | CNY | CPI (MoM) (Nov) | -0.1% | 0.2% | 0.2% |
 | 01:30 | CNY | PPI (YoY) (Nov) | -2.2% | -2.0% | -2.1% |
-| 37 min | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 47 min | EUR | ECB President Lagarde Speaks |  |  |  |
-| 12:00 | BRL | CPI (YoY) (Nov) |  | 4.49% | 4.68% |
+| 10:45 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 10:55 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 52 min | BRL | CPI (YoY) (Nov) |  | 4.49% | 4.68% |
 | 13:30 | USD | Employment Cost Index (QoQ) (Q3) |  | 0.9% | 0.9% |
 | 14:45 | CAD | BoC Rate Statement |  |  |  |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.457M |
