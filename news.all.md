@@ -27,10 +27,10 @@
 | 11:00 | ZAR | Low | Manufacturing Production (MoM) (Oct) | 1.0% |  | 0.3% |
 | 11:00 | ZAR | Low | Manufacturing Production (YoY) (Oct) | 0.2% |  | 1.0% |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 47.78 |  | 46.66 |
-| 53 min | USD | Moderate | OPEC Monthly Report |  |  |  |
-| 53 min | BRL | Moderate | Retail Sales (YoY) (Oct) |  | -0.5% | 0.8% |
-| 53 min | BRL | Moderate | Retail Sales (MoM) (Oct) |  | -0.2% | -0.3% |
-| 13:00 | HKD | Low | Interest Rate Decision |  |  | 4.25% |
+| 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
+| 12:00 | BRL | Moderate | Retail Sales (YoY) (Oct) | 1.1% | -0.5% | 0.8% |
+| 12:00 | BRL | Moderate | Retail Sales (MoM) (Oct) | 0.5% | -0.2% | -0.2% |
+| 47 min | HKD | Low | Interest Rate Decision |  |  | 4.25% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,950K | 1,939K |
 | 13:30 | USD | Moderate | Exports (Sep) |  |  | 280.80B |
 | 13:30 | USD | Moderate | Imports (Sep) |  |  | 340.40B |

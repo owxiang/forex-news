@@ -11,9 +11,9 @@
 | 09:00 | CHF | SNB Press Conference |  |  |  |
 | 09:50 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 10:00 | EUR | Eurogroup Meetings |  |  |  |
-| 53 min | USD | OPEC Monthly Report |  |  |  |
-| 53 min | BRL | Retail Sales (YoY) (Oct) |  | -0.5% | 0.8% |
-| 53 min | BRL | Retail Sales (MoM) (Oct) |  | -0.2% | -0.3% |
+| 12:00 | USD | OPEC Monthly Report |  |  |  |
+| 12:00 | BRL | Retail Sales (YoY) (Oct) | 1.1% | -0.5% | 0.8% |
+| 12:00 | BRL | Retail Sales (MoM) (Oct) | 0.5% | -0.2% | -0.2% |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,950K | 1,939K |
 | 13:30 | USD | Exports (Sep) |  |  | 280.80B |
 | 13:30 | USD | Imports (Sep) |  |  | 340.40B |
