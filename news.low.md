@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Participation Rate (Nov) | 66.7% | 67.0% | 66.9% |
-| 54 min | SGD | Unemployment Rate (Q3) |  |  | 2.0% |
+| 02:30 | SGD | Unemployment Rate (Q3) | 2.0% |  | 2.0% |
 | 09:00 | EUR | Italian Quarterly Unemployment Rate |  | 6.3% | 6.3% |
 | 09:00 | ZAR | Gold Production (YoY) (Oct) |  |  | 5.9% |
 | 09:00 | ZAR | Mining Production (Oct) |  |  | 1.2% |

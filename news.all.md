@@ -7,7 +7,7 @@
 | 00:30 | AUD | Moderate | Full Employment Change (Nov) | -56.5K |  | 55.3K |
 | 00:30 | AUD | Low | Participation Rate (Nov) | 66.7% | 67.0% | 66.9% |
 | 00:30 | AUD | Moderate | Unemployment Rate (Nov) | 4.3% | 4.4% | 4.3% |
-| 54 min | SGD | Low | Unemployment Rate (Q3) |  |  | 2.0% |
+| 02:30 | SGD | Low | Unemployment Rate (Q3) | 2.0% |  | 2.0% |
 | 08:30 | CHF | High | SNB Interest Rate Decision (Q4) |  | 0.00% | 0.00% |
 | 08:30 | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
 | 09:00 | USD | Moderate | Fed Governor Kroszner Speaks |  |  |  |
