@@ -30,16 +30,16 @@
 | 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 12:00 | BRL | Moderate | Retail Sales (YoY) (Oct) | 1.1% | -0.5% | 0.8% |
 | 12:00 | BRL | Moderate | Retail Sales (MoM) (Oct) | 0.5% | -0.2% | -0.2% |
-| 47 min | HKD | Low | Interest Rate Decision |  |  | 4.25% |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,950K | 1,939K |
-| 13:30 | USD | Moderate | Exports (Sep) |  |  | 280.80B |
-| 13:30 | USD | Moderate | Imports (Sep) |  |  | 340.40B |
-| 13:30 | USD | High | Initial Jobless Claims |  | 220K | 191K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 214.75K |
-| 13:30 | USD | Moderate | Trade Balance (Sep) |  | -62.50B | -59.60B |
-| 13:30 | CAD | Low | Exports (Sep) |  |  | 60.58B |
-| 13:30 | CAD | Low | Imports (Sep) |  |  | 66.91B |
-| 13:30 | CAD | Moderate | Trade Balance (Sep) |  | -4.40B | -6.32B |
+| 13:00 | HKD | Low | Interest Rate Decision |  |  | 4.25% |
+| 11 min | USD | Moderate | Continuing Jobless Claims |  | 1,950K | 1,939K |
+| 11 min | USD | Moderate | Exports (Sep) |  |  | 280.80B |
+| 11 min | USD | Moderate | Imports (Sep) |  |  | 340.40B |
+| 11 min | USD | High | Initial Jobless Claims |  | 220K | 191K |
+| 11 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 214.75K |
+| 11 min | USD | Moderate | Trade Balance (Sep) |  | -62.50B | -59.60B |
+| 11 min | CAD | Low | Exports (Sep) |  |  | 60.58B |
+| 11 min | CAD | Low | Imports (Sep) |  |  | 66.91B |
+| 11 min | CAD | Moderate | Trade Balance (Sep) |  | -4.40B | -6.32B |
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (Sep) |  | 0.1% | 0.0% |
 | 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Sep) |  |  | 0.1% |
 | 15:30 | USD | Low | Natural Gas Storage |  | -170B | -12B |

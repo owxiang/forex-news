@@ -17,10 +17,10 @@
 | 11:00 | ZAR | Manufacturing Production (MoM) (Oct) | 1.0% |  | 0.3% |
 | 11:00 | ZAR | Manufacturing Production (YoY) (Oct) | 0.2% |  | 1.0% |
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 47.78 |  | 46.66 |
-| 47 min | HKD | Interest Rate Decision |  |  | 4.25% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 214.75K |
-| 13:30 | CAD | Exports (Sep) |  |  | 60.58B |
-| 13:30 | CAD | Imports (Sep) |  |  | 66.91B |
+| 13:00 | HKD | Interest Rate Decision |  |  | 4.25% |
+| 11 min | USD | Jobless Claims 4-Week Avg. |  |  | 214.75K |
+| 11 min | CAD | Exports (Sep) |  |  | 60.58B |
+| 11 min | CAD | Imports (Sep) |  |  | 66.91B |
 | 15:00 | USD | Wholesale Inventories (MoM) (Sep) |  | 0.1% | 0.0% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Sep) |  |  | 0.1% |
 | 15:30 | USD | Natural Gas Storage |  | -170B | -12B |
