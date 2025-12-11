@@ -2,7 +2,6 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| Tentative | GBP | RICS House Price Balance (Nov) | -16% | -21% | -19% |
 | 00:30 | AUD | Employment Change (Nov) | -21.3K | 20.0K | 41.1K |
 | 00:30 | AUD | Full Employment Change (Nov) | -56.5K |  | 55.3K |
 | 00:30 | AUD | Unemployment Rate (Nov) | 4.3% | 4.4% | 4.3% |
@@ -22,5 +21,4 @@
 | 13:30 | CAD | Trade Balance (Sep) |  | -4.40B | -6.32B |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,536B |
 | 21:30 | NZD | Business NZ PMI (Nov) |  |  | 51.4 |
-| 21:45 | NZD | Electronic Card Retail Sales (MoM) (Nov) |  |  | 0.2% |
 | 21:45 | NZD | Electronic Card Retail Sales (MoM) (Nov) |  |  | 0.2% |

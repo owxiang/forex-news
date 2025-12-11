@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Participation Rate (Nov) | 66.7% | 67.0% | 66.9% |
-| 02:30 | SGD | Unemployment Rate (Q3) | 2.0% |  | 2.0% |
+| 02:30 | SGD | Unemployment Rate (Q3) | 2.0% | 2.0% | 2.0% |
 | 09:00 | EUR | Italian Quarterly Unemployment Rate |  | 6.3% | 6.3% |
 | 09:00 | ZAR | Gold Production (YoY) (Oct) |  |  | 5.9% |
 | 09:00 | ZAR | Mining Production (Oct) |  |  | 1.2% |
@@ -30,5 +30,4 @@
 | 21:00 | KRW | Export Price Index (YoY) (Nov) |  |  | 4.8% |
 | 21:00 | KRW | Import Price Index (YoY) (Nov) |  |  | 0.5% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.878T |
-| 21:45 | NZD | Electronic Card Retail Sales (YoY) (Nov) |  |  | 0.8% |
 | 21:45 | NZD | Electronic Card Retail Sales (YoY) (Nov) |  |  | 0.8% |
