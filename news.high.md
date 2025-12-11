@@ -4,4 +4,4 @@
 |------|----------|-------|--------|----------|----------|
 | 08:30 | CHF | SNB Interest Rate Decision (Q4) | 0.00% | 0.00% | 0.00% |
 | 13:30 | USD | Initial Jobless Claims | 236K | 220K | 192K |
-| 49 min | USD | 30-Year Bond Auction |  |  | 4.694% |
+| 18:00 | USD | 30-Year Bond Auction | 4.773% |  | 4.694% |

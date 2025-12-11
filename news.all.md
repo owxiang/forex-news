@@ -45,7 +45,7 @@
 | 15:30 | USD | Low | Natural Gas Storage | -177B | -170B | -12B |
 | 16:30 | USD | Low | 4-Week Bill Auction | 3.610% |  | 3.680% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 3.610% |  | 3.620% |
-| 49 min | USD | High | 30-Year Bond Auction |  |  | 4.694% |
+| 18:00 | USD | High | 30-Year Bond Auction | 4.773% |  | 4.694% |
 | 21:00 | KRW | Low | Export Price Index (YoY) (Nov) |  |  | 4.8% |
 | 21:00 | KRW | Low | Import Price Index (YoY) (Nov) |  |  | 0.5% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,536B |
