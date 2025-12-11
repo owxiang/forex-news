@@ -19,6 +19,6 @@
 | 13:30 | USD | Imports (Sep) | 342.10B |  | 340.40B |
 | 13:30 | USD | Trade Balance (Sep) | -52.80B | -62.50B | -59.30B |
 | 13:30 | CAD | Trade Balance (Sep) | 0.15B | -4.40B | -6.43B |
-| 22 min | USD | Fed's Balance Sheet |  |  | 6,536B |
-| 22 min | NZD | Business NZ PMI (Nov) |  |  | 51.4 |
-| 37 min | NZD | Electronic Card Retail Sales (MoM) (Nov) |  |  | 0.2% |
+| 21:30 | USD | Fed's Balance Sheet | 6,539B |  | 6,536B |
+| 21:30 | NZD | Business NZ PMI (Nov) | 51.4 |  | 51.4 |
+| 21:45 | NZD | Electronic Card Retail Sales (MoM) (Nov) | 1.2% |  | 0.2% |
