@@ -14,11 +14,11 @@
 | 12:00 | USD | OPEC Monthly Report |  |  |  |
 | 12:00 | BRL | Retail Sales (YoY) (Oct) | 1.1% | -0.5% | 0.8% |
 | 12:00 | BRL | Retail Sales (MoM) (Oct) | 0.5% | -0.2% | -0.2% |
-| 11 min | USD | Continuing Jobless Claims |  | 1,950K | 1,939K |
-| 11 min | USD | Exports (Sep) |  |  | 280.80B |
-| 11 min | USD | Imports (Sep) |  |  | 340.40B |
-| 11 min | USD | Trade Balance (Sep) |  | -62.50B | -59.60B |
-| 11 min | CAD | Trade Balance (Sep) |  | -4.40B | -6.32B |
+| 13:30 | USD | Continuing Jobless Claims | 1,838K | 1,950K | 1,937K |
+| 13:30 | USD | Exports (Sep) | 289.30B |  | 280.80B |
+| 13:30 | USD | Imports (Sep) | 342.10B |  | 340.40B |
+| 13:30 | USD | Trade Balance (Sep) | -52.80B | -62.50B | -59.30B |
+| 13:30 | CAD | Trade Balance (Sep) | 0.15B | -4.40B | -6.43B |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,536B |
 | 21:30 | NZD | Business NZ PMI (Nov) |  |  | 51.4 |
 | 21:45 | NZD | Electronic Card Retail Sales (MoM) (Nov) |  |  | 0.2% |
