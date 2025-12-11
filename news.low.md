@@ -21,9 +21,9 @@
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 216.75K |  | 214.75K |
 | 13:30 | CAD | Exports (Sep) | 64.23B |  | 60.40B |
 | 13:30 | CAD | Imports (Sep) | 64.08B |  | 66.83B |
-| 52 min | USD | Wholesale Inventories (MoM) (Sep) |  | 0.1% | 0.0% |
-| 52 min | USD | Wholesale Trade Sales (MoM) (Sep) |  |  | 0.1% |
-| 15:30 | USD | Natural Gas Storage |  | -170B | -12B |
+| 15:00 | USD | Wholesale Inventories (MoM) (Sep) | 0.5% | 0.1% | 0.0% |
+| 15:00 | USD | Wholesale Trade Sales (MoM) (Sep) | -0.2% |  | -0.2% |
+| 21 min | USD | Natural Gas Storage |  | -170B | -12B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.680% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 3.620% |
 | 21:00 | KRW | Export Price Index (YoY) (Nov) |  |  | 4.8% |

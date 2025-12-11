@@ -40,9 +40,9 @@
 | 13:30 | CAD | Low | Exports (Sep) | 64.23B |  | 60.40B |
 | 13:30 | CAD | Low | Imports (Sep) | 64.08B |  | 66.83B |
 | 13:30 | CAD | Moderate | Trade Balance (Sep) | 0.15B | -4.40B | -6.43B |
-| 52 min | USD | Low | Wholesale Inventories (MoM) (Sep) |  | 0.1% | 0.0% |
-| 52 min | USD | Low | Wholesale Trade Sales (MoM) (Sep) |  |  | 0.1% |
-| 15:30 | USD | Low | Natural Gas Storage |  | -170B | -12B |
+| 15:00 | USD | Low | Wholesale Inventories (MoM) (Sep) | 0.5% | 0.1% | 0.0% |
+| 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Sep) | -0.2% |  | -0.2% |
+| 21 min | USD | Low | Natural Gas Storage |  | -170B | -12B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.680% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.620% |
 | 17:00 | USD | High | 30-Year Bond Auction |  |  | 4.694% |
