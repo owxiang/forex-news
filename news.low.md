@@ -4,10 +4,10 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Participation Rate (Nov) | 66.7% | 67.0% | 66.9% |
 | 02:30 | SGD | Unemployment Rate (Q3) | 2.0% | 2.0% | 2.0% |
-| 48 min | EUR | Italian Quarterly Unemployment Rate |  | 6.3% | 6.3% |
-| 48 min | ZAR | Gold Production (YoY) (Oct) |  |  | 5.9% |
-| 48 min | ZAR | Mining Production (Oct) |  |  | 1.2% |
-| 09:30 | ZAR | Business Confidence (Nov) |  |  | 121.1 |
+| 09:00 | EUR | Italian Quarterly Unemployment Rate | 6.1% | 6.3% | 6.3% |
+| 09:00 | ZAR | Gold Production (YoY) (Oct) | -1.2% |  | 5.9% |
+| 09:00 | ZAR | Mining Production (Oct) | 5.8% |  | 1.4% |
+| 20 min | ZAR | Business Confidence (Nov) |  |  | 121.1 |
 | 10:30 | EUR | Italian 3-Year BTP Auction |  |  | 2.38% |
 | 11:00 | GBP | Thomson Reuters IPSOS PCSI (Dec) |  |  | 46.1 |
 | 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Dec) |  |  | 45.53 |
