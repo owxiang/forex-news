@@ -42,10 +42,10 @@
 | 13:30 | CAD | Moderate | Trade Balance (Sep) | 0.15B | -4.40B | -6.43B |
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (Sep) | 0.5% | 0.1% | 0.0% |
 | 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Sep) | -0.2% |  | -0.2% |
-| 21 min | USD | Low | Natural Gas Storage |  | -170B | -12B |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.680% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.620% |
-| 17:00 | USD | High | 30-Year Bond Auction |  |  | 4.694% |
+| 15:30 | USD | Low | Natural Gas Storage | -177B | -170B | -12B |
+| 19 min | USD | Low | 4-Week Bill Auction |  |  | 3.680% |
+| 19 min | USD | Low | 8-Week Bill Auction |  |  | 3.620% |
+| 49 min | USD | High | 30-Year Bond Auction |  |  | 4.694% |
 | 21:00 | KRW | Low | Export Price Index (YoY) (Nov) |  |  | 4.8% |
 | 21:00 | KRW | Low | Import Price Index (YoY) (Nov) |  |  | 0.5% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,536B |
