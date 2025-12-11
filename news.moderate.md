@@ -9,8 +9,8 @@
 | 09:00 | USD | Fed Governor Kroszner Speaks |  |  |  |
 | 09:00 | USD | IEA Monthly Report |  |  |  |
 | 09:00 | CHF | SNB Press Conference |  |  |  |
-| 40 min | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 50 min | EUR | Eurogroup Meetings |  |  |  |
+| 09:50 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 10:00 | EUR | Eurogroup Meetings |  |  |  |
 | 12:00 | USD | OPEC Monthly Report |  |  |  |
 | 12:00 | BRL | Retail Sales (YoY) (Oct) |  | -0.5% | 0.8% |
 | 12:00 | BRL | Retail Sales (MoM) (Oct) |  | -0.2% | -0.3% |

@@ -15,18 +15,18 @@
 | 09:00 | CHF | Moderate | SNB Press Conference |  |  |  |
 | 09:00 | ZAR | Low | Gold Production (YoY) (Oct) | -1.2% |  | 5.9% |
 | 09:00 | ZAR | Low | Mining Production (Oct) | 5.8% |  | 1.4% |
-| 20 min | ZAR | Low | Business Confidence (Nov) |  |  | 121.1 |
-| 40 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 50 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 10:30 | EUR | Low | Italian 3-Year BTP Auction |  |  | 2.38% |
-| 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Dec) |  |  | 46.1 |
-| 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Dec) |  |  | 45.53 |
-| 11:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Dec) |  |  | 46.47 |
-| 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Dec) |  |  | 38.94 |
-| 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 51.71 |
-| 11:00 | ZAR | Low | Manufacturing Production (MoM) (Oct) |  |  | -0.5% |
-| 11:00 | ZAR | Low | Manufacturing Production (YoY) (Oct) |  |  | 0.3% |
-| 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 46.66 |
+| 09:30 | ZAR | Low | Business Confidence (Nov) | 132.3 |  | 121.1 |
+| 09:50 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 21 min | EUR | Low | Italian 3-Year BTP Auction |  |  | 2.38% |
+| 51 min | GBP | Low | Thomson Reuters IPSOS PCSI (Dec) |  |  | 46.1 |
+| 51 min | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Dec) |  |  | 45.53 |
+| 51 min | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Dec) |  |  | 46.47 |
+| 51 min | EUR | Low | France Thomson Reuters IPSOS PCSI (Dec) |  |  | 38.94 |
+| 51 min | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 51.71 |
+| 51 min | ZAR | Low | Manufacturing Production (MoM) (Oct) |  |  | -0.5% |
+| 51 min | ZAR | Low | Manufacturing Production (YoY) (Oct) |  |  | 0.3% |
+| 51 min | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 46.66 |
 | 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 12:00 | BRL | Moderate | Retail Sales (YoY) (Oct) |  | -0.5% | 0.8% |
 | 12:00 | BRL | Moderate | Retail Sales (MoM) (Oct) |  | -0.2% | -0.3% |
