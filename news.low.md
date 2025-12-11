@@ -8,15 +8,15 @@
 | 09:00 | ZAR | Gold Production (YoY) (Oct) | -1.2% |  | 5.9% |
 | 09:00 | ZAR | Mining Production (Oct) | 5.8% |  | 1.4% |
 | 09:30 | ZAR | Business Confidence (Nov) | 132.3 |  | 121.1 |
-| 21 min | EUR | Italian 3-Year BTP Auction |  |  | 2.38% |
-| 51 min | GBP | Thomson Reuters IPSOS PCSI (Dec) |  |  | 46.1 |
-| 51 min | EUR | Italy Thomson Reuters IPSOS PCSI (Dec) |  |  | 45.53 |
-| 51 min | EUR | Germany Thomson Reuters IPSOS PCSI (Dec) |  |  | 46.47 |
-| 51 min | EUR | France Thomson Reuters IPSOS PCSI (Dec) |  |  | 38.94 |
-| 51 min | EUR | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 51.71 |
-| 51 min | ZAR | Manufacturing Production (MoM) (Oct) |  |  | -0.5% |
-| 51 min | ZAR | Manufacturing Production (YoY) (Oct) |  |  | 0.3% |
-| 51 min | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 46.66 |
+| 10:10 | EUR | Italian 3-Year BTP Auction | 2.58% |  | 2.38% |
+| 11:00 | GBP | Thomson Reuters IPSOS PCSI (Dec) | 47.3 |  | 46.1 |
+| 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Dec) | 45.86 |  | 45.53 |
+| 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Dec) | 46.44 |  | 46.47 |
+| 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Dec) | 40.46 |  | 38.94 |
+| 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 49.54 |  | 51.71 |
+| 11:00 | ZAR | Manufacturing Production (MoM) (Oct) | 1.0% |  | 0.3% |
+| 11:00 | ZAR | Manufacturing Production (YoY) (Oct) | 0.2% |  | 1.0% |
+| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 47.78 |  | 46.66 |
 | 13:00 | HKD | Interest Rate Decision |  |  | 4.25% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 214.75K |
 | 13:30 | CAD | Exports (Sep) |  |  | 60.58B |
