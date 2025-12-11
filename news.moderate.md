@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | Tentative | GBP | RICS House Price Balance (Nov) | -16% | -21% | -19% |
-| 00:30 | AUD | Employment Change (Nov) | -21.3K | 20.0K | 42.2K |
+| 00:30 | AUD | Employment Change (Nov) | -21.3K | 20.0K | 41.1K |
 | 00:30 | AUD | Full Employment Change (Nov) | -56.5K |  | 55.3K |
 | 00:30 | AUD | Unemployment Rate (Nov) | 4.3% | 4.4% | 4.3% |
 | 08:30 | CHF | SNB Monetary Policy Assessment |  |  |  |
