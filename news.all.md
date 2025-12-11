@@ -7,14 +7,14 @@
 | 00:30 | AUD | Low | Participation Rate (Nov) | 66.7% | 67.0% | 66.9% |
 | 00:30 | AUD | Moderate | Unemployment Rate (Nov) | 4.3% | 4.4% | 4.3% |
 | 02:30 | SGD | Low | Unemployment Rate (Q3) | 2.0% | 2.0% | 2.0% |
-| 08:30 | CHF | High | SNB Interest Rate Decision (Q4) |  | 0.00% | 0.00% |
-| 08:30 | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
-| 09:00 | USD | Moderate | Fed Governor Kroszner Speaks |  |  |  |
-| 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
-| 09:00 | EUR | Low | Italian Quarterly Unemployment Rate |  | 6.3% | 6.3% |
-| 09:00 | CHF | Moderate | SNB Press Conference |  |  |  |
-| 09:00 | ZAR | Low | Gold Production (YoY) (Oct) |  |  | 5.9% |
-| 09:00 | ZAR | Low | Mining Production (Oct) |  |  | 1.2% |
+| 18 min | CHF | High | SNB Interest Rate Decision (Q4) |  | 0.00% | 0.00% |
+| 18 min | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
+| 48 min | USD | Moderate | Fed Governor Kroszner Speaks |  |  |  |
+| 48 min | USD | Moderate | IEA Monthly Report |  |  |  |
+| 48 min | EUR | Low | Italian Quarterly Unemployment Rate |  | 6.3% | 6.3% |
+| 48 min | CHF | Moderate | SNB Press Conference |  |  |  |
+| 48 min | ZAR | Low | Gold Production (YoY) (Oct) |  |  | 5.9% |
+| 48 min | ZAR | Low | Mining Production (Oct) |  |  | 1.2% |
 | 09:30 | ZAR | Low | Business Confidence (Nov) |  |  | 121.1 |
 | 09:50 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |

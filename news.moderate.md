@@ -5,10 +5,10 @@
 | 00:30 | AUD | Employment Change (Nov) | -21.3K | 20.0K | 41.1K |
 | 00:30 | AUD | Full Employment Change (Nov) | -56.5K |  | 55.3K |
 | 00:30 | AUD | Unemployment Rate (Nov) | 4.3% | 4.4% | 4.3% |
-| 08:30 | CHF | SNB Monetary Policy Assessment |  |  |  |
-| 09:00 | USD | Fed Governor Kroszner Speaks |  |  |  |
-| 09:00 | USD | IEA Monthly Report |  |  |  |
-| 09:00 | CHF | SNB Press Conference |  |  |  |
+| 18 min | CHF | SNB Monetary Policy Assessment |  |  |  |
+| 48 min | USD | Fed Governor Kroszner Speaks |  |  |  |
+| 48 min | USD | IEA Monthly Report |  |  |  |
+| 48 min | CHF | SNB Press Conference |  |  |  |
 | 09:50 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 10:00 | EUR | Eurogroup Meetings |  |  |  |
 | 12:00 | USD | OPEC Monthly Report |  |  |  |
