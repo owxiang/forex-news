@@ -27,7 +27,6 @@
 | 11:00 | ZAR | Low | Manufacturing Production (MoM) (Oct) |  |  | -0.5% |
 | 11:00 | ZAR | Low | Manufacturing Production (YoY) (Oct) |  |  | 0.3% |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 46.66 |
-| 11:30 | USD | Low | Real Earnings (MoM) (Oct) |  |  | -0.1% |
 | 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 12:00 | BRL | Moderate | Retail Sales (YoY) (Oct) |  | -0.5% | 0.8% |
 | 12:00 | BRL | Moderate | Retail Sales (MoM) (Oct) |  | -0.2% | -0.3% |
