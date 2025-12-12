@@ -35,10 +35,10 @@
 | 12:00 | MXN | Industrial Production (MoM) (Oct) | 0.7% | 0.0% | -0.3% |
 | 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Oct) | 0.3% |  | 0.6% |
 | 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Oct) | 2.2% |  | 4.1% |
+| 13:00 | EUR | German Current Account Balance n.s.a (Oct) | 14.8B |  | 15.8B |
 | 13:30 | CAD | Capacity Utilization Rate (Q3) | 78.5% | 79.3% | 77.6% |
 | 13:30 | CAD | New Motor Vehicle Sales (MoM) (Oct) | 163.5K |  | 168.7K |
-| 13:30 | EUR | German Current Account Balance n.s.a (Oct) | 14.8B |  | 15.8B |
-| 15:35 | USD | Fed Goolsbee Speaks |  |  |  |
+| 27 min | USD | Fed Goolsbee Speaks |  |  |  |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -1.8K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 56.4K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 5.2K |
