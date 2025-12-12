@@ -9,12 +9,12 @@
 | 07:00 | GBP | Trade Balance (Oct) | -22.54B | -19.10B | -18.88B |
 | 07:00 | GBP | Trade Balance Non-EU (Oct) | -10.26B |  | -6.82B |
 | 07:00 | EUR | German CPI (YoY) (Nov) | 2.3% | 2.3% | 2.3% |
-| 35 min | EUR | French CPI (MoM) (Nov) |  | -0.1% | 0.1% |
-| 35 min | EUR | French HICP (MoM) (Nov) |  | -0.2% | 0.1% |
-| 50 min | EUR | Spanish CPI (YoY) (Nov) |  | 3.0% | 3.1% |
-| 50 min | EUR | Spanish HICP (YoY) (Nov) |  | 3.1% | 3.2% |
-| 50 min | CNY | New Loans (Nov) |  |  | 220.0B |
+| 07:45 | EUR | French CPI (MoM) (Nov) | -0.2% | -0.1% | 0.1% |
+| 07:45 | EUR | French HICP (MoM) (Nov) | -0.2% | -0.2% | 0.1% |
+| 08:00 | EUR | Spanish CPI (YoY) (Nov) | 3.0% | 3.0% | 3.1% |
+| 08:00 | EUR | Spanish HICP (YoY) (Nov) | 3.2% | 3.1% | 3.2% |
 | 10:30 | INR | CPI (YoY) (Nov) |  | 0.70% | 0.25% |
+| 11:00 | CNY | New Loans (Nov) |  |  | 220.0B |
 | 12:00 | GBP | NIESR Monthly GDP Tracker (Nov) |  |  | 0.0% |
 | 13:30 | CAD | Building Permits (MoM) (Oct) |  | -1.4% | 4.5% |
 | 13:30 | CAD | Wholesale Sales (MoM) (Oct) |  | -0.1% | 0.6% |
