@@ -26,27 +26,27 @@
 | 07:00 | EUR | High | German CPI (MoM) (Nov) | -0.2% | -0.2% | 0.3% |
 | 07:00 | EUR | Low | German HICP (MoM) (Nov) | -0.5% | -0.5% | 0.3% |
 | 07:00 | EUR | Low | German HICP (YoY) (Nov) | 2.6% | 2.6% | 2.3% |
+| 07:45 | EUR | Low | French CPI NSA (YoY) (Nov) | 0.90% |  | 0.90% |
+| 07:45 | EUR | Low | French CPI NSA (MoM) (Nov) | -0.20% |  | -0.10% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Nov) | -0.2% | -0.1% | 0.1% |
 | 07:45 | EUR | Low | French CPI (YoY) (Nov) | 0.9% | 0.9% | 0.9% |
 | 07:45 | EUR | Low | French HICP (YoY) (Nov) | 0.8% | 0.8% | 0.8% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Nov) | -0.2% | -0.2% | 0.1% |
+| 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Nov) | 0.90% |  | 0.90% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Nov) | 2.6% | 2.6% | 2.5% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Nov) | 0.2% | 0.2% | 0.7% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Nov) | 3.0% | 3.0% | 3.1% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Nov) | 0.0% | 0.0% | 0.5% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Nov) | 3.2% | 3.1% | 3.2% |
-| 35 min | EUR | Low | French CPI NSA (MoM) (Nov) |  |  | -0.10% |
-| 35 min | EUR | Low | French CPI NSA (YoY) (Nov) |  |  | 0.90% |
-| 35 min | EUR | Low | France Inflation Ex-Tobacco (YoY) (Nov) |  |  | 0.90% |
-| 09:30 | GBP | Low | Inflation Expectations |  |  | 3.6% |
-| 09:30 | ZAR | Low | Business Confidence (Oct) |  |  | 121.1 |
-| 09:31 | ZAR | Low | Business Confidence (Nov) |  |  |  |
-| 10:00 | EUR | Low | ECOFIN Meetings |  |  |  |
+| 09:03 | CNY | Low | Chinese Total Social Financing (Nov) | 2,490.0B |  | 810.0B |
+| 09:03 | CNY | Low | M2 Money Stock (YoY) (Nov) | 8.0% |  | 8.2% |
+| 09:03 | CNY | Moderate | New Loans (Nov) | 390.0B |  | 220.0B |
+| 09:03 | CNY | Low | Outstanding Loan Growth (YoY) (Nov) | 6.4% |  | 6.5% |
+| 20 min | GBP | Low | Inflation Expectations |  |  | 3.6% |
+| 20 min | ZAR | Low | Business Confidence (Oct) |  |  | 121.1 |
+| 21 min | ZAR | Low | Business Confidence (Nov) |  |  |  |
+| 50 min | EUR | Low | ECOFIN Meetings |  |  |  |
 | 10:30 | INR | Moderate | CPI (YoY) (Nov) |  | 0.70% | 0.25% |
-| 11:00 | CNY | Low | M2 Money Stock (YoY) (Nov) |  |  | 8.2% |
-| 11:00 | CNY | Moderate | New Loans (Nov) |  |  | 220.0B |
-| 11:00 | CNY | Low | Outstanding Loan Growth (YoY) (Nov) |  |  | 6.5% |
-| 11:00 | CNY | Low | Chinese Total Social Financing (Nov) |  |  | 810.0B |
 | 11:30 | INR | Low | Bank Loan Growth |  |  | 11.4% |
 | 11:30 | INR | Low | Deposit Growth |  |  | 10.2% |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 686.23B |
