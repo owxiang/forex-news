@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 24 min | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 47.49 |
-| 24 min | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 61.05 |
-| 24 min | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 52.82 |
-| 24 min | JPY | Low | Thomson Reuters IPSOS PCSI (Dec) |  |  | 41.45 |
-| 24 min | CNY | Low | China Thomson Reuters IPSOS PCSI (Dec) |  |  | 72.55 |
+| 02:00 | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 47.26 |  | 47.49 |
+| 02:00 | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 59.31 |  | 61.05 |
+| 02:00 | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 50.80 |  | 52.82 |
+| 02:00 | JPY | Low | Thomson Reuters IPSOS PCSI (Dec) | 40.96 |  | 41.45 |
+| 02:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Dec) | 70.42 |  | 72.55 |
 | 04:30 | JPY | Low | Capacity Utilization (MoM) (Oct) |  |  | 2.5% |
 | 04:30 | JPY | Moderate | Industrial Production (MoM) (Oct) |  | 1.4% | 1.4% |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (Oct) |  |  | 1.3% |
