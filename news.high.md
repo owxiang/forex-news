@@ -1,7 +1,6 @@
-## 11 December 2025 - High Impact Forex News
+## 12 December 2025 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 08:30 | CHF | SNB Interest Rate Decision (Q4) | 0.00% | 0.00% | 0.00% |
-| 13:30 | USD | Initial Jobless Claims | 236K | 220K | 192K |
-| 18:00 | USD | 30-Year Bond Auction | 4.773% |  | 4.694% |
+| 07:00 | GBP | GDP (MoM) (Oct) |  | 0.1% | -0.1% |
+| 07:00 | EUR | German CPI (MoM) (Nov) |  | -0.2% | -0.2% |
