@@ -57,7 +57,7 @@
 | 13:30 | CAD | Low | Capacity Utilization Rate (Q3) | 78.5% | 79.3% | 77.6% |
 | 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Oct) | 163.5K |  | 168.7K |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Oct) | 0.1% | -0.1% | 0.6% |
-| 27 min | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 15:35 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 413 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 549 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -55.0K |
