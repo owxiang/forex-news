@@ -58,8 +58,8 @@
 | 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Oct) | 163.5K |  | 168.7K |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Oct) | 0.1% | -0.1% | 0.6% |
 | 15:35 | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 413 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 549 |
+| 53 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 413 |
+| 53 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 549 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -55.0K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -1.8K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 56.4K |
