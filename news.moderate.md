@@ -18,8 +18,8 @@
 | 12:00 | GBP | NIESR Monthly GDP Tracker (Nov) | -0.1% |  | 0.0% |
 | 13:30 | CAD | Building Permits (MoM) (Oct) | 14.9% | -1.4% | 5.9% |
 | 13:30 | CAD | Wholesale Sales (MoM) (Oct) | 0.1% | -0.1% | 0.6% |
-| 53 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 413 |
-| 53 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 549 |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 414 |  | 413 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count | 548 |  | 549 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -55.0K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 74.9K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 202.3K |
