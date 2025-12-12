@@ -43,16 +43,16 @@
 | 09:00 | CNY | Low | Outstanding Loan Growth (YoY) (Nov) | 6.4% |  | 6.5% |
 | 09:00 | CNY | Low | Chinese Total Social Financing (Nov) | 2,490.0B |  | 810.0B |
 | 10:00 | EUR | Low | ECOFIN Meetings |  |  |  |
-| 22 min | INR | Moderate | CPI (YoY) (Nov) |  | 0.70% | 0.25% |
-| 11:30 | GBP | Low | Inflation Expectations |  |  | 3.6% |
-| 11:30 | INR | Low | Bank Loan Growth |  |  | 11.4% |
-| 11:30 | INR | Low | Deposit Growth |  |  | 10.2% |
-| 11:30 | INR | Low | FX Reserves, USD |  |  | 686.23B |
-| 12:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Nov) |  |  | 0.0% |
-| 12:00 | MXN | Low | Industrial Production (YoY) (Oct) |  | -2.4% | -2.4% |
-| 12:00 | MXN | Low | Industrial Production (MoM) (Oct) |  | 0.0% | -0.4% |
-| 12:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Oct) |  |  | 0.6% |
-| 12:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Oct) |  |  | 4.1% |
+| 10:30 | INR | Moderate | CPI (YoY) (Nov) | 0.71% | 0.70% | 0.25% |
+| 23 min | GBP | Low | Inflation Expectations |  |  | 3.6% |
+| 23 min | INR | Low | Bank Loan Growth |  |  | 11.4% |
+| 23 min | INR | Low | Deposit Growth |  |  | 10.2% |
+| 23 min | INR | Low | FX Reserves, USD |  |  | 686.23B |
+| 53 min | GBP | Moderate | NIESR Monthly GDP Tracker (Nov) |  |  | 0.0% |
+| 53 min | MXN | Low | Industrial Production (YoY) (Oct) |  | -2.4% | -2.4% |
+| 53 min | MXN | Low | Industrial Production (MoM) (Oct) |  | 0.0% | -0.4% |
+| 53 min | BRL | Low | Brazilian Service Sector Growth (MoM) (Oct) |  |  | 0.6% |
+| 53 min | BRL | Low | Brazilian Service Sector Growth (YoY) (Oct) |  |  | 4.1% |
 | 13:00 | EUR | Low | German Current Account Balance n.s.a (Oct) |  |  | 18.6B |
 | 13:30 | CAD | Moderate | Building Permits (MoM) (Oct) |  | -1.4% | 4.5% |
 | 13:30 | CAD | Low | Capacity Utilization Rate (Q3) |  | 79.3% | 79.3% |
