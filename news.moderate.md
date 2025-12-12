@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 04:30 | JPY | Industrial Production (MoM) (Oct) |  | 1.4% | 1.4% |
+| 56 min | JPY | Industrial Production (MoM) (Oct) |  | 1.4% | 1.4% |
 | 07:00 | GBP | Industrial Production (MoM) (Oct) |  | 0.9% | -2.0% |
 | 07:00 | GBP | Manufacturing Production (MoM) (Oct) |  |  | -1.7% |
 | 07:00 | GBP | Monthly GDP 3M/3M Change (Oct) |  |  | 0.1% |
