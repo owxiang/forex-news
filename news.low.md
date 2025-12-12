@@ -28,15 +28,14 @@
 | 09:00 | CNY | Outstanding Loan Growth (YoY) (Nov) | 6.4% |  | 6.5% |
 | 09:00 | CNY | Chinese Total Social Financing (Nov) | 2,490.0B |  | 810.0B |
 | 10:00 | EUR | ECOFIN Meetings |  |  |  |
-| 23 min | GBP | Inflation Expectations |  |  | 3.6% |
-| 23 min | INR | Bank Loan Growth |  |  | 11.4% |
-| 23 min | INR | Deposit Growth |  |  | 10.2% |
-| 23 min | INR | FX Reserves, USD |  |  | 686.23B |
-| 53 min | MXN | Industrial Production (YoY) (Oct) |  | -2.4% | -2.4% |
-| 53 min | MXN | Industrial Production (MoM) (Oct) |  | 0.0% | -0.4% |
-| 53 min | BRL | Brazilian Service Sector Growth (MoM) (Oct) |  |  | 0.6% |
-| 53 min | BRL | Brazilian Service Sector Growth (YoY) (Oct) |  |  | 4.1% |
-| 13:00 | EUR | German Current Account Balance n.s.a (Oct) |  |  | 18.6B |
+| 11:30 | INR | Bank Loan Growth | 11.5% |  | 11.4% |
+| 11:30 | INR | Deposit Growth | 10.2% |  | 10.2% |
+| 11:30 | INR | FX Reserves, USD | 687.26B |  | 686.23B |
+| 12:00 | MXN | Industrial Production (YoY) (Oct) | -0.4% | -2.4% | -2.3% |
+| 12:00 | MXN | Industrial Production (MoM) (Oct) | 0.7% | 0.0% | -0.3% |
+| 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Oct) | 0.3% |  | 0.6% |
+| 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Oct) | 2.2% |  | 4.1% |
+| 47 min | EUR | German Current Account Balance n.s.a (Oct) |  |  | 18.6B |
 | 13:30 | CAD | Capacity Utilization Rate (Q3) |  | 79.3% | 79.3% |
 | 13:30 | CAD | New Motor Vehicle Sales (MoM) (Oct) |  |  | 168.7K |
 | 15:35 | USD | Fed Goolsbee Speaks |  |  |  |

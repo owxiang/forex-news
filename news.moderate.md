@@ -15,7 +15,7 @@
 | 08:00 | EUR | Spanish HICP (YoY) (Nov) | 3.2% | 3.1% | 3.2% |
 | 09:00 | CNY | New Loans (Nov) | 390.0B |  | 220.0B |
 | 10:30 | INR | CPI (YoY) (Nov) | 0.71% | 0.70% | 0.25% |
-| 53 min | GBP | NIESR Monthly GDP Tracker (Nov) |  |  | 0.0% |
+| 12:00 | GBP | NIESR Monthly GDP Tracker (Nov) | -0.1% |  | 0.0% |
 | 13:30 | CAD | Building Permits (MoM) (Oct) |  | -1.4% | 4.5% |
 | 13:30 | CAD | Wholesale Sales (MoM) (Oct) |  | -0.1% | 0.6% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 413 |
