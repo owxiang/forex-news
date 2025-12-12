@@ -8,25 +8,25 @@
 | 02:00 | JPY | Thomson Reuters IPSOS PCSI (Dec) | 40.96 |  | 41.45 |
 | 02:00 | CNY | China Thomson Reuters IPSOS PCSI (Dec) | 70.42 |  | 72.55 |
 | 04:30 | JPY | Capacity Utilization (MoM) (Oct) | 3.3% |  | 2.5% |
-| 49 min | GBP | U.K. Construction Output (YoY) (Oct) |  | 1.6% | 1.3% |
-| 49 min | GBP | Construction Output (MoM) (Oct) |  | -0.1% | 0.2% |
-| 49 min | GBP | GDP (YoY) (Oct) |  | 1.4% | 1.1% |
-| 49 min | GBP | Index of Services |  | 0.1% | 0.2% |
-| 49 min | GBP | Industrial Production (YoY) (Oct) |  | -1.2% | -2.5% |
-| 49 min | GBP | Manufacturing Production (YoY) (Oct) |  | -0.1% | -2.2% |
-| 49 min | EUR | German HICP (MoM) (Nov) |  | -0.5% | 0.3% |
-| 49 min | EUR | German HICP (YoY) (Nov) |  | 2.6% | 2.3% |
-| 07:45 | EUR | French CPI NSA (YoY) (Nov) |  |  | 0.90% |
-| 07:45 | EUR | French CPI NSA (MoM) (Nov) |  |  | -0.10% |
-| 07:45 | EUR | French CPI (YoY) (Nov) |  | 0.9% | 0.9% |
-| 07:45 | EUR | French HICP (YoY) (Nov) |  | 0.8% | 0.8% |
-| 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Nov) |  |  | 0.90% |
-| 08:00 | EUR | Core CPI (YoY) (Nov) |  | 2.6% | 2.5% |
-| 08:00 | EUR | Spanish CPI (MoM) (Nov) |  | 0.2% | 0.7% |
-| 08:00 | EUR | Spanish HICP (MoM) (Nov) |  | 0.0% | 0.5% |
-| 08:00 | CNY | M2 Money Stock (YoY) (Nov) |  |  | 8.2% |
-| 08:00 | CNY | Outstanding Loan Growth (YoY) (Nov) |  |  | 6.5% |
-| 08:00 | CNY | Chinese Total Social Financing (Nov) |  |  | 810.0B |
+| 07:00 | GBP | U.K. Construction Output (YoY) (Oct) | 0.9% | 1.6% | 1.3% |
+| 07:00 | GBP | Construction Output (MoM) (Oct) | -0.6% | -0.1% | 0.2% |
+| 07:00 | GBP | GDP (YoY) (Oct) | 1.1% | 1.4% | 1.1% |
+| 07:00 | GBP | Index of Services | 0.0% | 0.1% | 0.2% |
+| 07:00 | GBP | Industrial Production (YoY) (Oct) | -0.8% | -1.2% | -2.5% |
+| 07:00 | GBP | Manufacturing Production (YoY) (Oct) | -0.8% | -0.1% | -2.2% |
+| 07:00 | EUR | German HICP (MoM) (Nov) | -0.5% | -0.5% | 0.3% |
+| 07:00 | EUR | German HICP (YoY) (Nov) | 2.6% | 2.6% | 2.3% |
+| 35 min | EUR | French CPI NSA (YoY) (Nov) |  |  | 0.90% |
+| 35 min | EUR | French CPI NSA (MoM) (Nov) |  |  | -0.10% |
+| 35 min | EUR | French CPI (YoY) (Nov) |  | 0.9% | 0.9% |
+| 35 min | EUR | French HICP (YoY) (Nov) |  | 0.8% | 0.8% |
+| 35 min | EUR | France Inflation Ex-Tobacco (YoY) (Nov) |  |  | 0.90% |
+| 50 min | EUR | Core CPI (YoY) (Nov) |  | 2.6% | 2.5% |
+| 50 min | EUR | Spanish CPI (MoM) (Nov) |  | 0.2% | 0.7% |
+| 50 min | EUR | Spanish HICP (MoM) (Nov) |  | 0.0% | 0.5% |
+| 50 min | CNY | M2 Money Stock (YoY) (Nov) |  |  | 8.2% |
+| 50 min | CNY | Outstanding Loan Growth (YoY) (Nov) |  |  | 6.5% |
+| 50 min | CNY | Chinese Total Social Financing (Nov) |  |  | 810.0B |
 | 09:30 | GBP | Inflation Expectations |  |  | 3.6% |
 | 09:30 | ZAR | Business Confidence (Oct) |  |  | 121.1 |
 | 09:31 | ZAR | Business Confidence (Nov) |  |  |  |

@@ -10,38 +10,38 @@
 | 02:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Dec) | 70.42 |  | 72.55 |
 | 04:30 | JPY | Low | Capacity Utilization (MoM) (Oct) | 3.3% |  | 2.5% |
 | 04:30 | JPY | Moderate | Industrial Production (MoM) (Oct) | 1.5% | 1.4% | 2.6% |
-| 49 min | GBP | Low | U.K. Construction Output (YoY) (Oct) |  | 1.6% | 1.3% |
-| 49 min | GBP | Low | Construction Output (MoM) (Oct) |  | -0.1% | 0.2% |
-| 49 min | GBP | High | GDP (MoM) (Oct) |  | 0.1% | -0.1% |
-| 49 min | GBP | Low | GDP (YoY) (Oct) |  | 1.4% | 1.1% |
-| 49 min | GBP | Low | Index of Services |  | 0.1% | 0.2% |
-| 49 min | GBP | Low | Industrial Production (YoY) (Oct) |  | -1.2% | -2.5% |
-| 49 min | GBP | Moderate | Industrial Production (MoM) (Oct) |  | 0.9% | -2.0% |
-| 49 min | GBP | Low | Manufacturing Production (YoY) (Oct) |  | -0.1% | -2.2% |
-| 49 min | GBP | Moderate | Manufacturing Production (MoM) (Oct) |  | 1.1% | -1.7% |
-| 49 min | GBP | Moderate | Monthly GDP 3M/3M Change (Oct) |  | 0.0% | 0.1% |
-| 49 min | GBP | Moderate | Trade Balance (Oct) |  | -19.10B | -18.88B |
-| 49 min | GBP | Moderate | Trade Balance Non-EU (Oct) |  |  | -6.82B |
-| 49 min | EUR | Moderate | German CPI (YoY) (Nov) |  | 2.3% | 2.3% |
-| 49 min | EUR | High | German CPI (MoM) (Nov) |  | -0.2% | 0.3% |
-| 49 min | EUR | Low | German HICP (MoM) (Nov) |  | -0.5% | 0.3% |
-| 49 min | EUR | Low | German HICP (YoY) (Nov) |  | 2.6% | 2.3% |
-| 07:45 | EUR | Low | French CPI NSA (YoY) (Nov) |  |  | 0.90% |
-| 07:45 | EUR | Low | French CPI NSA (MoM) (Nov) |  |  | -0.10% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Nov) |  | -0.1% | 0.1% |
-| 07:45 | EUR | Low | French CPI (YoY) (Nov) |  | 0.9% | 0.9% |
-| 07:45 | EUR | Low | French HICP (YoY) (Nov) |  | 0.8% | 0.8% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Nov) |  | -0.2% | 0.1% |
-| 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Nov) |  |  | 0.90% |
-| 08:00 | EUR | Low | Core CPI (YoY) (Nov) |  | 2.6% | 2.5% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Nov) |  | 0.2% | 0.7% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Nov) |  | 3.0% | 3.1% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Nov) |  | 0.0% | 0.5% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Nov) |  | 3.1% | 3.2% |
-| 08:00 | CNY | Low | M2 Money Stock (YoY) (Nov) |  |  | 8.2% |
-| 08:00 | CNY | Moderate | New Loans (Nov) |  |  | 220.0B |
-| 08:00 | CNY | Low | Outstanding Loan Growth (YoY) (Nov) |  |  | 6.5% |
-| 08:00 | CNY | Low | Chinese Total Social Financing (Nov) |  |  | 810.0B |
+| 07:00 | GBP | Low | U.K. Construction Output (YoY) (Oct) | 0.9% | 1.6% | 1.3% |
+| 07:00 | GBP | Low | Construction Output (MoM) (Oct) | -0.6% | -0.1% | 0.2% |
+| 07:00 | GBP | High | GDP (MoM) (Oct) | -0.1% | 0.1% | -0.1% |
+| 07:00 | GBP | Low | GDP (YoY) (Oct) | 1.1% | 1.4% | 1.1% |
+| 07:00 | GBP | Low | Index of Services | 0.0% | 0.1% | 0.2% |
+| 07:00 | GBP | Low | Industrial Production (YoY) (Oct) | -0.8% | -1.2% | -2.5% |
+| 07:00 | GBP | Moderate | Industrial Production (MoM) (Oct) | 1.1% | 0.9% | -2.0% |
+| 07:00 | GBP | Low | Manufacturing Production (YoY) (Oct) | -0.8% | -0.1% | -2.2% |
+| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Oct) | 0.5% | 1.1% | -1.7% |
+| 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Oct) | -0.1% | 0.0% | 0.1% |
+| 07:00 | GBP | Moderate | Trade Balance (Oct) | -22.54B | -19.10B | -18.88B |
+| 07:00 | GBP | Moderate | Trade Balance Non-EU (Oct) | -10.26B |  | -6.82B |
+| 07:00 | EUR | Moderate | German CPI (YoY) (Nov) | 2.3% | 2.3% | 2.3% |
+| 07:00 | EUR | High | German CPI (MoM) (Nov) | -0.2% | -0.2% | 0.3% |
+| 07:00 | EUR | Low | German HICP (MoM) (Nov) | -0.5% | -0.5% | 0.3% |
+| 07:00 | EUR | Low | German HICP (YoY) (Nov) | 2.6% | 2.6% | 2.3% |
+| 35 min | EUR | Low | French CPI NSA (YoY) (Nov) |  |  | 0.90% |
+| 35 min | EUR | Low | French CPI NSA (MoM) (Nov) |  |  | -0.10% |
+| 35 min | EUR | Moderate | French CPI (MoM) (Nov) |  | -0.1% | 0.1% |
+| 35 min | EUR | Low | French CPI (YoY) (Nov) |  | 0.9% | 0.9% |
+| 35 min | EUR | Low | French HICP (YoY) (Nov) |  | 0.8% | 0.8% |
+| 35 min | EUR | Moderate | French HICP (MoM) (Nov) |  | -0.2% | 0.1% |
+| 35 min | EUR | Low | France Inflation Ex-Tobacco (YoY) (Nov) |  |  | 0.90% |
+| 50 min | EUR | Low | Core CPI (YoY) (Nov) |  | 2.6% | 2.5% |
+| 50 min | EUR | Low | Spanish CPI (MoM) (Nov) |  | 0.2% | 0.7% |
+| 50 min | EUR | Moderate | Spanish CPI (YoY) (Nov) |  | 3.0% | 3.1% |
+| 50 min | EUR | Low | Spanish HICP (MoM) (Nov) |  | 0.0% | 0.5% |
+| 50 min | EUR | Moderate | Spanish HICP (YoY) (Nov) |  | 3.1% | 3.2% |
+| 50 min | CNY | Low | M2 Money Stock (YoY) (Nov) |  |  | 8.2% |
+| 50 min | CNY | Moderate | New Loans (Nov) |  |  | 220.0B |
+| 50 min | CNY | Low | Outstanding Loan Growth (YoY) (Nov) |  |  | 6.5% |
+| 50 min | CNY | Low | Chinese Total Social Financing (Nov) |  |  | 810.0B |
 | 09:30 | GBP | Low | Inflation Expectations |  |  | 3.6% |
 | 09:30 | ZAR | Low | Business Confidence (Oct) |  |  | 121.1 |
 | 09:31 | ZAR | Low | Business Confidence (Nov) |  |  |  |

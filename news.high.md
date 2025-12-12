@@ -3,5 +3,5 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:15 | USD | U.S. President Trump Speaks |  |  |  |
-| 49 min | GBP | GDP (MoM) (Oct) |  | 0.1% | -0.1% |
-| 49 min | EUR | German CPI (MoM) (Nov) |  | -0.2% | 0.3% |
+| 07:00 | GBP | GDP (MoM) (Oct) | -0.1% | 0.1% | -0.1% |
+| 07:00 | EUR | German CPI (MoM) (Nov) | -0.2% | -0.2% | 0.3% |

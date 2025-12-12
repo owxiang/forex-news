@@ -3,17 +3,17 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 04:30 | JPY | Industrial Production (MoM) (Oct) | 1.5% | 1.4% | 2.6% |
-| 49 min | GBP | Industrial Production (MoM) (Oct) |  | 0.9% | -2.0% |
-| 49 min | GBP | Manufacturing Production (MoM) (Oct) |  | 1.1% | -1.7% |
-| 49 min | GBP | Monthly GDP 3M/3M Change (Oct) |  | 0.0% | 0.1% |
-| 49 min | GBP | Trade Balance (Oct) |  | -19.10B | -18.88B |
-| 49 min | GBP | Trade Balance Non-EU (Oct) |  |  | -6.82B |
-| 49 min | EUR | German CPI (YoY) (Nov) |  | 2.3% | 2.3% |
-| 07:45 | EUR | French CPI (MoM) (Nov) |  | -0.1% | 0.1% |
-| 07:45 | EUR | French HICP (MoM) (Nov) |  | -0.2% | 0.1% |
-| 08:00 | EUR | Spanish CPI (YoY) (Nov) |  | 3.0% | 3.1% |
-| 08:00 | EUR | Spanish HICP (YoY) (Nov) |  | 3.1% | 3.2% |
-| 08:00 | CNY | New Loans (Nov) |  |  | 220.0B |
+| 07:00 | GBP | Industrial Production (MoM) (Oct) | 1.1% | 0.9% | -2.0% |
+| 07:00 | GBP | Manufacturing Production (MoM) (Oct) | 0.5% | 1.1% | -1.7% |
+| 07:00 | GBP | Monthly GDP 3M/3M Change (Oct) | -0.1% | 0.0% | 0.1% |
+| 07:00 | GBP | Trade Balance (Oct) | -22.54B | -19.10B | -18.88B |
+| 07:00 | GBP | Trade Balance Non-EU (Oct) | -10.26B |  | -6.82B |
+| 07:00 | EUR | German CPI (YoY) (Nov) | 2.3% | 2.3% | 2.3% |
+| 35 min | EUR | French CPI (MoM) (Nov) |  | -0.1% | 0.1% |
+| 35 min | EUR | French HICP (MoM) (Nov) |  | -0.2% | 0.1% |
+| 50 min | EUR | Spanish CPI (YoY) (Nov) |  | 3.0% | 3.1% |
+| 50 min | EUR | Spanish HICP (YoY) (Nov) |  | 3.1% | 3.2% |
+| 50 min | CNY | New Loans (Nov) |  |  | 220.0B |
 | 10:30 | INR | CPI (YoY) (Nov) |  | 0.70% | 0.25% |
 | 12:00 | GBP | NIESR Monthly GDP Tracker (Nov) |  |  | 0.0% |
 | 13:30 | CAD | Building Permits (MoM) (Oct) |  | -1.4% | 4.5% |
