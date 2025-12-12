@@ -13,8 +13,8 @@
 | 07:45 | EUR | French HICP (MoM) (Nov) | -0.2% | -0.2% | 0.1% |
 | 08:00 | EUR | Spanish CPI (YoY) (Nov) | 3.0% | 3.0% | 3.1% |
 | 08:00 | EUR | Spanish HICP (YoY) (Nov) | 3.2% | 3.1% | 3.2% |
-| 09:03 | CNY | New Loans (Nov) | 390.0B |  | 220.0B |
-| 10:30 | INR | CPI (YoY) (Nov) |  | 0.70% | 0.25% |
+| 09:00 | CNY | New Loans (Nov) | 390.0B |  | 220.0B |
+| 22 min | INR | CPI (YoY) (Nov) |  | 0.70% | 0.25% |
 | 12:00 | GBP | NIESR Monthly GDP Tracker (Nov) |  |  | 0.0% |
 | 13:30 | CAD | Building Permits (MoM) (Oct) |  | -1.4% | 4.5% |
 | 13:30 | CAD | Wholesale Sales (MoM) (Oct) |  | -0.1% | 0.6% |

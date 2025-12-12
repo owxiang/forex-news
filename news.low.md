@@ -16,21 +16,19 @@
 | 07:00 | GBP | Manufacturing Production (YoY) (Oct) | -0.8% | -0.1% | -2.2% |
 | 07:00 | EUR | German HICP (MoM) (Nov) | -0.5% | -0.5% | 0.3% |
 | 07:00 | EUR | German HICP (YoY) (Nov) | 2.6% | 2.6% | 2.3% |
-| 07:45 | EUR | French CPI NSA (YoY) (Nov) | 0.90% |  | 0.90% |
 | 07:45 | EUR | French CPI NSA (MoM) (Nov) | -0.20% |  | -0.10% |
+| 07:45 | EUR | French CPI NSA (YoY) (Nov) | 0.90% |  | 0.90% |
 | 07:45 | EUR | French CPI (YoY) (Nov) | 0.9% | 0.9% | 0.9% |
 | 07:45 | EUR | French HICP (YoY) (Nov) | 0.8% | 0.8% | 0.8% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Nov) | 0.90% |  | 0.90% |
 | 08:00 | EUR | Core CPI (YoY) (Nov) | 2.6% | 2.6% | 2.5% |
 | 08:00 | EUR | Spanish CPI (MoM) (Nov) | 0.2% | 0.2% | 0.7% |
 | 08:00 | EUR | Spanish HICP (MoM) (Nov) | 0.0% | 0.0% | 0.5% |
-| 09:03 | CNY | Chinese Total Social Financing (Nov) | 2,490.0B |  | 810.0B |
-| 09:03 | CNY | M2 Money Stock (YoY) (Nov) | 8.0% |  | 8.2% |
-| 09:03 | CNY | Outstanding Loan Growth (YoY) (Nov) | 6.4% |  | 6.5% |
-| 20 min | GBP | Inflation Expectations |  |  | 3.6% |
-| 20 min | ZAR | Business Confidence (Oct) |  |  | 121.1 |
-| 21 min | ZAR | Business Confidence (Nov) |  |  |  |
-| 50 min | EUR | ECOFIN Meetings |  |  |  |
+| 09:00 | CNY | M2 Money Stock (YoY) (Nov) | 8.0% |  | 8.2% |
+| 09:00 | CNY | Outstanding Loan Growth (YoY) (Nov) | 6.4% |  | 6.5% |
+| 09:00 | CNY | Chinese Total Social Financing (Nov) | 2,490.0B |  | 810.0B |
+| 10:00 | EUR | ECOFIN Meetings |  |  |  |
+| 11:30 | GBP | Inflation Expectations |  |  | 3.6% |
 | 11:30 | INR | Bank Loan Growth |  |  | 11.4% |
 | 11:30 | INR | Deposit Growth |  |  | 10.2% |
 | 11:30 | INR | FX Reserves, USD |  |  | 686.23B |
