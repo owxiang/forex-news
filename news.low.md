@@ -7,23 +7,23 @@
 | 02:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 50.80 |  | 52.82 |
 | 02:00 | JPY | Thomson Reuters IPSOS PCSI (Dec) | 40.96 |  | 41.45 |
 | 02:00 | CNY | China Thomson Reuters IPSOS PCSI (Dec) | 70.42 |  | 72.55 |
-| 13 min | JPY | Capacity Utilization (MoM) (Oct) |  |  | 2.5% |
-| 07:00 | GBP | U.K. Construction Output (YoY) (Oct) |  |  | 1.3% |
+| 04:30 | JPY | Capacity Utilization (MoM) (Oct) | 3.3% |  | 2.5% |
+| 07:00 | GBP | U.K. Construction Output (YoY) (Oct) |  | 1.6% | 1.3% |
 | 07:00 | GBP | Construction Output (MoM) (Oct) |  | -0.1% | 0.2% |
 | 07:00 | GBP | GDP (YoY) (Oct) |  | 1.4% | 1.1% |
 | 07:00 | GBP | Index of Services |  | 0.1% | 0.2% |
-| 07:00 | GBP | Industrial Production (YoY) (Oct) |  |  | -2.5% |
-| 07:00 | GBP | Manufacturing Production (YoY) (Oct) |  |  | -2.2% |
-| 07:00 | EUR | German HICP (YoY) (Nov) |  | 2.6% | 2.6% |
-| 07:00 | EUR | German HICP (MoM) (Nov) |  | -0.5% | -0.5% |
+| 07:00 | GBP | Industrial Production (YoY) (Oct) |  | -1.2% | -2.5% |
+| 07:00 | GBP | Manufacturing Production (YoY) (Oct) |  | -0.1% | -2.2% |
+| 07:00 | EUR | German HICP (MoM) (Nov) |  | -0.5% | 0.3% |
+| 07:00 | EUR | German HICP (YoY) (Nov) |  | 2.6% | 2.3% |
 | 07:45 | EUR | French CPI NSA (YoY) (Nov) |  |  | 0.90% |
 | 07:45 | EUR | French CPI NSA (MoM) (Nov) |  |  | -0.10% |
 | 07:45 | EUR | French CPI (YoY) (Nov) |  | 0.9% | 0.9% |
 | 07:45 | EUR | French HICP (YoY) (Nov) |  | 0.8% | 0.8% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Nov) |  |  | 0.90% |
 | 08:00 | EUR | Core CPI (YoY) (Nov) |  | 2.6% | 2.5% |
-| 08:00 | EUR | Spanish CPI (MoM) (Nov) |  | 0.2% | 0.2% |
-| 08:00 | EUR | Spanish HICP (MoM) (Nov) |  | 0.0% | 0.0% |
+| 08:00 | EUR | Spanish CPI (MoM) (Nov) |  | 0.2% | 0.7% |
+| 08:00 | EUR | Spanish HICP (MoM) (Nov) |  | 0.0% | 0.5% |
 | 08:00 | CNY | M2 Money Stock (YoY) (Nov) |  |  | 8.2% |
 | 08:00 | CNY | Outstanding Loan Growth (YoY) (Nov) |  |  | 6.5% |
 | 08:00 | CNY | Chinese Total Social Financing (Nov) |  |  | 810.0B |
@@ -34,8 +34,8 @@
 | 11:30 | INR | Bank Loan Growth |  |  | 11.4% |
 | 11:30 | INR | Deposit Growth |  |  | 10.2% |
 | 11:30 | INR | FX Reserves, USD |  |  | 686.23B |
-| 12:00 | MXN | Industrial Production (YoY) (Oct) |  |  | -2.4% |
-| 12:00 | MXN | Industrial Production (MoM) (Oct) |  |  | -0.4% |
+| 12:00 | MXN | Industrial Production (YoY) (Oct) |  | -2.4% | -2.4% |
+| 12:00 | MXN | Industrial Production (MoM) (Oct) |  | 0.0% | -0.4% |
 | 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Oct) |  |  | 0.6% |
 | 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Oct) |  |  | 4.1% |
 | 13:00 | EUR | German Current Account Balance n.s.a (Oct) |  |  | 18.6B |

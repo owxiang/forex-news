@@ -2,41 +2,42 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
+| 01:15 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 02:00 | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 47.26 |  | 47.49 |
 | 02:00 | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 59.31 |  | 61.05 |
 | 02:00 | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 50.80 |  | 52.82 |
 | 02:00 | JPY | Low | Thomson Reuters IPSOS PCSI (Dec) | 40.96 |  | 41.45 |
 | 02:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Dec) | 70.42 |  | 72.55 |
-| 13 min | JPY | Low | Capacity Utilization (MoM) (Oct) |  |  | 2.5% |
-| 13 min | JPY | Moderate | Industrial Production (MoM) (Oct) |  | 1.4% | 1.4% |
-| 07:00 | GBP | Low | U.K. Construction Output (YoY) (Oct) |  |  | 1.3% |
+| 04:30 | JPY | Low | Capacity Utilization (MoM) (Oct) | 3.3% |  | 2.5% |
+| 04:30 | JPY | Moderate | Industrial Production (MoM) (Oct) | 1.5% | 1.4% | 2.6% |
+| 07:00 | GBP | Low | U.K. Construction Output (YoY) (Oct) |  | 1.6% | 1.3% |
 | 07:00 | GBP | Low | Construction Output (MoM) (Oct) |  | -0.1% | 0.2% |
 | 07:00 | GBP | High | GDP (MoM) (Oct) |  | 0.1% | -0.1% |
 | 07:00 | GBP | Low | GDP (YoY) (Oct) |  | 1.4% | 1.1% |
 | 07:00 | GBP | Low | Index of Services |  | 0.1% | 0.2% |
+| 07:00 | GBP | Low | Industrial Production (YoY) (Oct) |  | -1.2% | -2.5% |
 | 07:00 | GBP | Moderate | Industrial Production (MoM) (Oct) |  | 0.9% | -2.0% |
-| 07:00 | GBP | Low | Industrial Production (YoY) (Oct) |  |  | -2.5% |
-| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Oct) |  |  | -1.7% |
-| 07:00 | GBP | Low | Manufacturing Production (YoY) (Oct) |  |  | -2.2% |
-| 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Oct) |  |  | 0.1% |
-| 07:00 | GBP | Moderate | Trade Balance (Oct) |  | -19.00B | -18.88B |
+| 07:00 | GBP | Low | Manufacturing Production (YoY) (Oct) |  | -0.1% | -2.2% |
+| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Oct) |  | 1.1% | -1.7% |
+| 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Oct) |  | 0.0% | 0.1% |
+| 07:00 | GBP | Moderate | Trade Balance (Oct) |  | -19.10B | -18.88B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Oct) |  |  | -6.82B |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Nov) |  | 2.3% | 2.3% |
-| 07:00 | EUR | High | German CPI (MoM) (Nov) |  | -0.2% | -0.2% |
-| 07:00 | EUR | Low | German HICP (YoY) (Nov) |  | 2.6% | 2.6% |
-| 07:00 | EUR | Low | German HICP (MoM) (Nov) |  | -0.5% | -0.5% |
+| 07:00 | EUR | High | German CPI (MoM) (Nov) |  | -0.2% | 0.3% |
+| 07:00 | EUR | Low | German HICP (MoM) (Nov) |  | -0.5% | 0.3% |
+| 07:00 | EUR | Low | German HICP (YoY) (Nov) |  | 2.6% | 2.3% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Nov) |  |  | 0.90% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Nov) |  |  | -0.10% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Nov) |  | -0.1% | 0.1% |
 | 07:45 | EUR | Low | French CPI (YoY) (Nov) |  | 0.9% | 0.9% |
 | 07:45 | EUR | Low | French HICP (YoY) (Nov) |  | 0.8% | 0.8% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Nov) |  | -0.2% | -0.2% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Nov) |  | -0.2% | 0.1% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Nov) |  |  | 0.90% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Nov) |  | 2.6% | 2.5% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Nov) |  | 0.2% | 0.2% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Nov) |  | 3.0% | 3.0% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Nov) |  | 0.0% | 0.0% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Nov) |  | 3.1% | 3.1% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Nov) |  | 0.2% | 0.7% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Nov) |  | 3.0% | 3.1% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Nov) |  | 0.0% | 0.5% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Nov) |  | 3.1% | 3.2% |
 | 08:00 | CNY | Low | M2 Money Stock (YoY) (Nov) |  |  | 8.2% |
 | 08:00 | CNY | Moderate | New Loans (Nov) |  |  | 220.0B |
 | 08:00 | CNY | Low | Outstanding Loan Growth (YoY) (Nov) |  |  | 6.5% |
@@ -45,17 +46,17 @@
 | 09:30 | ZAR | Low | Business Confidence (Oct) |  |  | 121.1 |
 | 09:31 | ZAR | Low | Business Confidence (Nov) |  |  |  |
 | 10:00 | EUR | Low | ECOFIN Meetings |  |  |  |
-| 10:30 | INR | Moderate | CPI (YoY) (Nov) |  |  | 0.25% |
+| 10:30 | INR | Moderate | CPI (YoY) (Nov) |  | 0.70% | 0.25% |
 | 11:30 | INR | Low | Bank Loan Growth |  |  | 11.4% |
 | 11:30 | INR | Low | Deposit Growth |  |  | 10.2% |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 686.23B |
 | 12:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Nov) |  |  | 0.0% |
-| 12:00 | MXN | Low | Industrial Production (YoY) (Oct) |  |  | -2.4% |
-| 12:00 | MXN | Low | Industrial Production (MoM) (Oct) |  |  | -0.4% |
+| 12:00 | MXN | Low | Industrial Production (YoY) (Oct) |  | -2.4% | -2.4% |
+| 12:00 | MXN | Low | Industrial Production (MoM) (Oct) |  | 0.0% | -0.4% |
 | 12:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Oct) |  |  | 0.6% |
 | 12:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Oct) |  |  | 4.1% |
 | 13:00 | EUR | Low | German Current Account Balance n.s.a (Oct) |  |  | 18.6B |
-| 13:30 | CAD | Moderate | Building Permits (MoM) (Oct) |  | -1.2% | 4.5% |
+| 13:30 | CAD | Moderate | Building Permits (MoM) (Oct) |  | -1.4% | 4.5% |
 | 13:30 | CAD | Low | Capacity Utilization Rate (Q3) |  | 79.3% | 79.3% |
 | 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Oct) |  |  | 168.7K |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Oct) |  | -0.1% | 0.6% |
