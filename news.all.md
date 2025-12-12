@@ -52,11 +52,11 @@
 | 12:00 | MXN | Low | Industrial Production (MoM) (Oct) | 0.7% | 0.0% | -0.3% |
 | 12:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Oct) | 0.3% |  | 0.6% |
 | 12:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Oct) | 2.2% |  | 4.1% |
-| 47 min | EUR | Low | German Current Account Balance n.s.a (Oct) |  |  | 18.6B |
-| 13:30 | CAD | Moderate | Building Permits (MoM) (Oct) |  | -1.4% | 4.5% |
-| 13:30 | CAD | Low | Capacity Utilization Rate (Q3) |  | 79.3% | 79.3% |
-| 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Oct) |  |  | 168.7K |
-| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Oct) |  | -0.1% | 0.6% |
+| 13 min | CAD | Moderate | Building Permits (MoM) (Oct) |  | -1.4% | 4.5% |
+| 13 min | CAD | Low | Capacity Utilization Rate (Q3) |  | 79.3% | 79.3% |
+| 13 min | CAD | Low | New Motor Vehicle Sales (MoM) (Oct) |  |  | 168.7K |
+| 13 min | CAD | Moderate | Wholesale Sales (MoM) (Oct) |  | -0.1% | 0.6% |
+| 13 min | EUR | Low | German Current Account Balance n.s.a (Oct) |  |  | 18.6B |
 | 15:35 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 413 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 549 |

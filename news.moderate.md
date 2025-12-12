@@ -16,8 +16,8 @@
 | 09:00 | CNY | New Loans (Nov) | 390.0B |  | 220.0B |
 | 10:30 | INR | CPI (YoY) (Nov) | 0.71% | 0.70% | 0.25% |
 | 12:00 | GBP | NIESR Monthly GDP Tracker (Nov) | -0.1% |  | 0.0% |
-| 13:30 | CAD | Building Permits (MoM) (Oct) |  | -1.4% | 4.5% |
-| 13:30 | CAD | Wholesale Sales (MoM) (Oct) |  | -0.1% | 0.6% |
+| 13 min | CAD | Building Permits (MoM) (Oct) |  | -1.4% | 4.5% |
+| 13 min | CAD | Wholesale Sales (MoM) (Oct) |  | -0.1% | 0.6% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 413 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 549 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -55.0K |
