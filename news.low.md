@@ -2,12 +2,11 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 47.49 |
-| 02:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 61.05 |
-| 02:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 52.82 |
-| 02:00 | JPY | Thomson Reuters IPSOS PCSI (Dec) |  |  | 41.45 |
-| 02:00 | CNY | China Thomson Reuters IPSOS PCSI (Dec) |  |  | 72.55 |
-| 02:30 | SGD | Unemployment Rate (Q3) |  | 2.0% | 2.0% |
+| 24 min | KRW | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 47.49 |
+| 24 min | INR | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 61.05 |
+| 24 min | AUD | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 52.82 |
+| 24 min | JPY | Thomson Reuters IPSOS PCSI (Dec) |  |  | 41.45 |
+| 24 min | CNY | China Thomson Reuters IPSOS PCSI (Dec) |  |  | 72.55 |
 | 04:30 | JPY | Capacity Utilization (MoM) (Oct) |  |  | 2.5% |
 | 07:00 | GBP | U.K. Construction Output (YoY) (Oct) |  |  | 1.3% |
 | 07:00 | GBP | Construction Output (MoM) (Oct) |  | -0.1% | 0.2% |
@@ -15,8 +14,8 @@
 | 07:00 | GBP | Index of Services |  | 0.1% | 0.2% |
 | 07:00 | GBP | Industrial Production (YoY) (Oct) |  |  | -2.5% |
 | 07:00 | GBP | Manufacturing Production (YoY) (Oct) |  |  | -2.2% |
-| 07:00 | EUR | German HICP (MoM) (Nov) |  | -0.5% | -0.5% |
 | 07:00 | EUR | German HICP (YoY) (Nov) |  | 2.6% | 2.6% |
+| 07:00 | EUR | German HICP (MoM) (Nov) |  | -0.5% | -0.5% |
 | 07:45 | EUR | French CPI NSA (YoY) (Nov) |  |  | 0.90% |
 | 07:45 | EUR | French CPI NSA (MoM) (Nov) |  |  | -0.10% |
 | 07:45 | EUR | French CPI (YoY) (Nov) |  | 0.9% | 0.9% |

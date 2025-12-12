@@ -2,12 +2,11 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 02:00 | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 47.49 |
-| 02:00 | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 61.05 |
-| 02:00 | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 52.82 |
-| 02:00 | JPY | Low | Thomson Reuters IPSOS PCSI (Dec) |  |  | 41.45 |
-| 02:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Dec) |  |  | 72.55 |
-| 02:30 | SGD | Low | Unemployment Rate (Q3) |  | 2.0% | 2.0% |
+| 24 min | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 47.49 |
+| 24 min | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 61.05 |
+| 24 min | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 52.82 |
+| 24 min | JPY | Low | Thomson Reuters IPSOS PCSI (Dec) |  |  | 41.45 |
+| 24 min | CNY | Low | China Thomson Reuters IPSOS PCSI (Dec) |  |  | 72.55 |
 | 04:30 | JPY | Low | Capacity Utilization (MoM) (Oct) |  |  | 2.5% |
 | 04:30 | JPY | Moderate | Industrial Production (MoM) (Oct) |  | 1.4% | 1.4% |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (Oct) |  |  | 1.3% |
@@ -15,17 +14,17 @@
 | 07:00 | GBP | High | GDP (MoM) (Oct) |  | 0.1% | -0.1% |
 | 07:00 | GBP | Low | GDP (YoY) (Oct) |  | 1.4% | 1.1% |
 | 07:00 | GBP | Low | Index of Services |  | 0.1% | 0.2% |
-| 07:00 | GBP | Low | Industrial Production (YoY) (Oct) |  |  | -2.5% |
 | 07:00 | GBP | Moderate | Industrial Production (MoM) (Oct) |  | 0.9% | -2.0% |
-| 07:00 | GBP | Low | Manufacturing Production (YoY) (Oct) |  |  | -2.2% |
+| 07:00 | GBP | Low | Industrial Production (YoY) (Oct) |  |  | -2.5% |
 | 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Oct) |  |  | -1.7% |
+| 07:00 | GBP | Low | Manufacturing Production (YoY) (Oct) |  |  | -2.2% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Oct) |  |  | 0.1% |
 | 07:00 | GBP | Moderate | Trade Balance (Oct) |  | -19.00B | -18.88B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Oct) |  |  | -6.82B |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Nov) |  | 2.3% | 2.3% |
 | 07:00 | EUR | High | German CPI (MoM) (Nov) |  | -0.2% | -0.2% |
-| 07:00 | EUR | Low | German HICP (MoM) (Nov) |  | -0.5% | -0.5% |
 | 07:00 | EUR | Low | German HICP (YoY) (Nov) |  | 2.6% | 2.6% |
+| 07:00 | EUR | Low | German HICP (MoM) (Nov) |  | -0.5% | -0.5% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Nov) |  |  | 0.90% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Nov) |  |  | -0.10% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Nov) |  | -0.1% | 0.1% |
