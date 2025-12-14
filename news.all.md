@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 21:30 | NZD | Low | Performance of Services Index (Nov) |  |  | 48.7 |
+| 24 min | NZD | Low | Performance of Services Index (Nov) |  |  | 48.7 |
 | 23:50 | JPY | Moderate | Tankan All Big Industry CAPEX (Q4) |  |  | 12.5% |
 | 23:50 | JPY | Low | Tankan All Small Industry CAPEX (Q4) |  |  | -2.3% |
 | 23:50 | JPY | Moderate | Tankan Big Manufacturing Outlook Index (Q4) |  |  | 12 |

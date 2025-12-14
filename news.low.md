@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 21:30 | NZD | Performance of Services Index (Nov) |  |  | 48.7 |
+| 24 min | NZD | Performance of Services Index (Nov) |  |  | 48.7 |
 | 23:50 | JPY | Tankan All Small Industry CAPEX (Q4) |  |  | -2.3% |
 | 23:50 | JPY | Tankan Large Non-Manufacturers Diffusion Index (Q4) |  |  | 28 |
 | 23:50 | JPY | Tankan Small Manufacturers Diffusion Index (Q4) |  |  | -1 |
