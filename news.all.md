@@ -59,5 +59,5 @@
 | 22:00 | AUD | Low | Manufacturing & Services PMI (Dec) | 51.10 |  | 52.60 |
 | 22:00 | AUD | Low | Judo Bank Manufacturing PMI (Dec) | 52.2 |  | 51.6 |
 | 22:00 | AUD | Low | Judo Bank Services PMI (Dec) | 51.0 |  | 52.8 |
-| 7 min | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
-| 23:30 | AUD | Low | Westpac Consumer Sentiment (Dec) |  |  | 12.8% |
+| 22:15 | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
+| 22 min | AUD | Low | Westpac Consumer Sentiment (Dec) |  |  | 12.8% |
