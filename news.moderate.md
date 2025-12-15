@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | CNY | Fixed Asset Investment (YoY) (Nov) | -2.6% | -2.3% | -1.7% |
+| 02:00 | CNY | Fixed Asset Investment (YoY) (Nov) | -2.6% | -2.4% | -1.7% |
 | 02:00 | CNY | Industrial Production (YoY) (Nov) | 4.8% | 5.0% | 4.9% |
 | 02:00 | CNY | Chinese Industrial Production YTD (YoY) (Nov) | 6.0% |  | 6.1% |
 | 02:00 | CNY | Chinese Unemployment Rate (Nov) | 5.1% | 5.1% | 5.1% |
