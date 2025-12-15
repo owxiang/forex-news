@@ -37,7 +37,7 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 2.146% |  | 2.148% |
 | 14:00 | EUR | French 3-Month BTF Auction | 2.079% |  | 2.088% |
 | 14:00 | EUR | French 6-Month BTF Auction | 2.117% |  | 2.103% |
-| 51 min | USD | NAHB Housing Market Index (Dec) |  |  | 38 |
+| 15:00 | USD | NAHB Housing Market Index (Dec) | 39 | 39 | 38 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 3.650% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 3.580% |
 | 21:45 | NZD | FPI (MoM) (Nov) |  |  | -0.3% |

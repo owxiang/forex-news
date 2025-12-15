@@ -50,8 +50,8 @@
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.146% |  | 2.148% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.079% |  | 2.088% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.117% |  | 2.103% |
-| 51 min | USD | Low | NAHB Housing Market Index (Dec) |  |  | 38 |
-| 15:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 15:00 | USD | Low | NAHB Housing Market Index (Dec) | 39 | 39 | 38 |
+| 21 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.650% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.580% |
 | 21:45 | NZD | Low | FPI (MoM) (Nov) |  |  | -0.3% |
