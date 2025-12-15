@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | CNY | Fixed Asset Investment (YoY) (Nov) |  | -2.3% | -1.7% |
-| 02:00 | CNY | Industrial Production (YoY) (Nov) |  | 5.0% | 4.9% |
-| 02:00 | CNY | Chinese Industrial Production YTD (YoY) (Nov) |  |  | 6.1% |
-| 02:00 | CNY | Chinese Unemployment Rate (Nov) |  |  | 5.1% |
-| 02:00 | CNY | NBS Press Conference |  |  |  |
+| 24 min | CNY | Fixed Asset Investment (YoY) (Nov) |  | -2.3% | -1.7% |
+| 24 min | CNY | Industrial Production (YoY) (Nov) |  | 5.0% | 4.9% |
+| 24 min | CNY | Chinese Industrial Production YTD (YoY) (Nov) |  |  | 6.1% |
+| 24 min | CNY | Chinese Unemployment Rate (Nov) |  |  | 5.1% |
+| 24 min | CNY | NBS Press Conference |  |  |  |
 | 06:30 | INR | WPI Inflation (YoY) (Nov) |  | -0.60% | -1.21% |
 | 07:30 | CHF | PPI (MoM) (Nov) |  |  | -0.3% |
 | 10:00 | EUR | Industrial Production (MoM) (Oct) |  |  | 0.2% |

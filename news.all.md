@@ -7,14 +7,14 @@
 | 00:00 | KRW | Low | Trade Balance (Nov) | 9.74B |  | 9.74B |
 | 00:01 | GBP | Low | Rightmove House Price Index (MoM) | -1.8% |  | -1.8% |
 | 00:01 | GBP | Low | Rightmove House Price Index (YoY) (Dec) | -0.6% |  | -0.5% |
-| 56 min | CNY | Low | House Prices (YoY) (Nov) |  |  | -2.2% |
-| 02:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Nov) |  | -2.3% | -1.7% |
-| 02:00 | CNY | Moderate | Industrial Production (YoY) (Nov) |  | 5.0% | 4.9% |
-| 02:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Nov) |  |  | 6.1% |
-| 02:00 | CNY | Low | Retail Sales (YoY) (Nov) |  | 2.9% | 2.9% |
-| 02:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Nov) |  |  | 3.31% |
-| 02:00 | CNY | Moderate | Chinese Unemployment Rate (Nov) |  |  | 5.1% |
-| 02:00 | CNY | Moderate | NBS Press Conference |  |  |  |
+| 01:30 | CNY | Low | House Prices (YoY) (Nov) | -2.4% |  | -2.2% |
+| 24 min | CNY | Moderate | Fixed Asset Investment (YoY) (Nov) |  | -2.3% | -1.7% |
+| 24 min | CNY | Moderate | Industrial Production (YoY) (Nov) |  | 5.0% | 4.9% |
+| 24 min | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Nov) |  |  | 6.1% |
+| 24 min | CNY | Low | Retail Sales (YoY) (Nov) |  | 2.9% | 2.9% |
+| 24 min | CNY | Low | Chinese Retail Sales YTD (YoY) (Nov) |  |  | 3.31% |
+| 24 min | CNY | Moderate | Chinese Unemployment Rate (Nov) |  |  | 5.1% |
+| 24 min | CNY | Moderate | NBS Press Conference |  |  |  |
 | 04:30 | JPY | Low | Tertiary Industry Activity Index (Oct) |  |  | 5.00 |
 | 06:30 | INR | Low | WPI Food (YoY) (Nov) |  |  | -8.31% |
 | 06:30 | INR | Low | WPI Fuel (YoY) (Nov) |  |  | -2.55% |
