@@ -8,8 +8,8 @@
 | 00:01 | GBP | Rightmove House Price Index (MoM) | -1.8% |  | -1.8% |
 | 00:01 | GBP | Rightmove House Price Index (YoY) (Dec) | -0.6% |  | -0.5% |
 | 01:30 | CNY | House Prices (YoY) (Nov) | -2.4% |  | -2.2% |
-| 24 min | CNY | Retail Sales (YoY) (Nov) |  | 2.9% | 2.9% |
-| 24 min | CNY | Chinese Retail Sales YTD (YoY) (Nov) |  |  | 3.31% |
+| 02:00 | CNY | Retail Sales (YoY) (Nov) | 1.3% | 2.9% | 2.9% |
+| 02:00 | CNY | Chinese Retail Sales YTD (YoY) (Nov) | 3.01% |  | 3.31% |
 | 04:30 | JPY | Tertiary Industry Activity Index (Oct) |  |  | 5.00 |
 | 06:30 | INR | WPI Food (YoY) (Nov) |  |  | -8.31% |
 | 06:30 | INR | WPI Fuel (YoY) (Nov) |  |  | -2.55% |
