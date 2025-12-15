@@ -17,14 +17,14 @@
 | 07:00 | EUR | German WPI (MoM) (Nov) | 0.3% |  | 0.3% |
 | 07:00 | EUR | German WPI (YoY) (Nov) | 1.5% |  | 1.1% |
 | 07:00 | NOK | Trade Balance (Nov) | 41.3B |  | 56.1B |
-| 20 min | CHF | SECO Economic Forecasts |  |  |  |
-| 20 min | CHF | PPI (YoY) (Nov) |  |  | -1.7% |
-| 50 min | ZAR | SARB Quarterly Bulletin |  |  |  |
-| 08:30 | HKD | Industrial Production (YoY) (Q3) |  |  | 0.80% |
-| 08:30 | HKD | PPI (YoY) (Q3) |  |  | 4.00% |
-| 10:00 | INR | Exports (USD) (Nov) |  |  | 34.38B |
-| 10:00 | INR | Imports (USD) (Nov) |  |  | 76.06B |
-| 10:00 | INR | Trade Balance (Nov) |  |  | -41.68B |
+| 07:30 | CHF | SECO Economic Forecasts |  |  |  |
+| 07:30 | CHF | PPI (YoY) (Nov) | -1.6% |  | -1.7% |
+| 07:30 | INR | Exports (USD) (Nov) | 38.13B |  | 34.38B |
+| 07:30 | INR | Imports (USD) (Nov) | 62.66B |  | 76.06B |
+| 07:30 | INR | Trade Balance (Nov) | -24.53B |  | -41.68B |
+| 08:00 | ZAR | SARB Quarterly Bulletin |  |  |  |
+| 19 min | HKD | Industrial Production (YoY) (Q3) |  |  | 0.80% |
+| 19 min | HKD | PPI (YoY) (Q3) |  |  | 4.00% |
 | 10:00 | EUR | Industrial Production (YoY) (Oct) |  |  | 1.2% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 11:00 | BRL | IGP-10 Inflation Index (MoM) (Dec) |  |  | 0.2% |

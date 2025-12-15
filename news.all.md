@@ -23,17 +23,17 @@
 | 07:00 | EUR | Low | German WPI (MoM) (Nov) | 0.3% |  | 0.3% |
 | 07:00 | EUR | Low | German WPI (YoY) (Nov) | 1.5% |  | 1.1% |
 | 07:00 | NOK | Low | Trade Balance (Nov) | 41.3B |  | 56.1B |
-| 20 min | CHF | Low | SECO Economic Forecasts |  |  |  |
-| 20 min | CHF | Moderate | PPI (MoM) (Nov) |  |  | -0.3% |
-| 20 min | CHF | Low | PPI (YoY) (Nov) |  |  | -1.7% |
-| 50 min | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
-| 08:30 | HKD | Low | Industrial Production (YoY) (Q3) |  |  | 0.80% |
-| 08:30 | HKD | Low | PPI (YoY) (Q3) |  |  | 4.00% |
-| 10:00 | INR | Low | Exports (USD) (Nov) |  |  | 34.38B |
-| 10:00 | INR | Low | Imports (USD) (Nov) |  |  | 76.06B |
-| 10:00 | INR | Low | Trade Balance (Nov) |  |  | -41.68B |
-| 10:00 | EUR | Low | Industrial Production (YoY) (Oct) |  |  | 1.2% |
+| 07:30 | CHF | Low | SECO Economic Forecasts |  |  |  |
+| 07:30 | CHF | Moderate | PPI (MoM) (Nov) | -0.5% |  | -0.3% |
+| 07:30 | CHF | Low | PPI (YoY) (Nov) | -1.6% |  | -1.7% |
+| 07:30 | INR | Low | Exports (USD) (Nov) | 38.13B |  | 34.38B |
+| 07:30 | INR | Low | Imports (USD) (Nov) | 62.66B |  | 76.06B |
+| 07:30 | INR | Low | Trade Balance (Nov) | -24.53B |  | -41.68B |
+| 08:00 | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
+| 19 min | HKD | Low | Industrial Production (YoY) (Q3) |  |  | 0.80% |
+| 19 min | HKD | Low | PPI (YoY) (Q3) |  |  | 4.00% |
 | 10:00 | EUR | Moderate | Industrial Production (MoM) (Oct) |  |  | 0.2% |
+| 10:00 | EUR | Low | Industrial Production (YoY) (Oct) |  |  | 1.2% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Dec) |  |  | 0.2% |
 | 11:00 | EUR | Low | Reserve Assets Total (Nov) |  |  | 1,709.78B |
@@ -43,10 +43,10 @@
 | 13:15 | CAD | Moderate | Housing Starts (Nov) |  |  | 232.8K |
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Dec) |  |  | 18.70 |
 | 13:30 | CAD | Low | Common CPI (YoY) (Nov) |  |  | 2.7% |
-| 13:30 | CAD | Moderate | Core CPI (YoY) (Nov) |  |  | 2.9% |
 | 13:30 | CAD | Moderate | Core CPI (MoM) (Nov) |  |  | 0.6% |
-| 13:30 | CAD | Low | CPI (YoY) (Nov) |  |  | 2.2% |
+| 13:30 | CAD | Moderate | Core CPI (YoY) (Nov) |  |  | 2.9% |
 | 13:30 | CAD | Moderate | CPI (MoM) (Nov) |  |  | 0.2% |
+| 13:30 | CAD | Low | CPI (YoY) (Nov) |  |  | 2.2% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Oct) |  | -1.1% | 3.3% |
 | 13:30 | CAD | Low | Median CPI (YoY) (Nov) |  |  | 2.9% |
 | 13:30 | CAD | Low | Trimmed CPI (YoY) (Nov) |  |  | 3.0% |
