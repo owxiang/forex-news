@@ -16,13 +16,13 @@
 | 02:00 | CNY | Moderate | Chinese Unemployment Rate (Nov) | 5.1% | 5.1% | 5.1% |
 | 02:00 | CNY | Moderate | NBS Press Conference |  |  |  |
 | 04:30 | JPY | Low | Tertiary Industry Activity Index (Oct) | -0.70 |  | 4.70 |
-| 06:30 | INR | Low | WPI Food (YoY) (Nov) |  |  | -8.31% |
-| 06:30 | INR | Low | WPI Fuel (YoY) (Nov) |  |  | -2.55% |
-| 06:30 | INR | Moderate | WPI Inflation (YoY) (Nov) |  | -0.60% | -1.21% |
-| 06:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Nov) |  |  | 1.54% |
-| 07:00 | EUR | Low | German WPI (MoM) (Nov) |  |  | 0.3% |
-| 07:00 | EUR | Low | German WPI (YoY) (Nov) |  |  | 1.1% |
-| 07:00 | NOK | Low | Trade Balance (Nov) |  |  | 56.5B |
+| 18 min | INR | Low | WPI Food (YoY) (Nov) |  |  | -8.31% |
+| 18 min | INR | Low | WPI Fuel (YoY) (Nov) |  |  | -2.55% |
+| 18 min | INR | Moderate | WPI Inflation (YoY) (Nov) |  | -0.60% | -1.21% |
+| 18 min | INR | Low | WPI Manufacturing Inflation (YoY) (Nov) |  |  | 1.54% |
+| 48 min | EUR | Low | German WPI (MoM) (Nov) |  |  | 0.3% |
+| 48 min | EUR | Low | German WPI (YoY) (Nov) |  |  | 1.1% |
+| 48 min | NOK | Low | Trade Balance (Nov) |  |  | 56.5B |
 | 07:30 | CHF | Low | SECO Economic Forecasts |  |  |  |
 | 07:30 | CHF | Moderate | PPI (MoM) (Nov) |  |  | -0.3% |
 | 07:30 | CHF | Low | PPI (YoY) (Nov) |  |  | -1.7% |

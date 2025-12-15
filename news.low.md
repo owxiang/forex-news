@@ -11,12 +11,12 @@
 | 02:00 | CNY | Retail Sales (YoY) (Nov) | 1.3% | 3.0% | 2.9% |
 | 02:00 | CNY | Chinese Retail Sales YTD (YoY) (Nov) | 3.01% |  | 3.31% |
 | 04:30 | JPY | Tertiary Industry Activity Index (Oct) | -0.70 |  | 4.70 |
-| 06:30 | INR | WPI Food (YoY) (Nov) |  |  | -8.31% |
-| 06:30 | INR | WPI Fuel (YoY) (Nov) |  |  | -2.55% |
-| 06:30 | INR | WPI Manufacturing Inflation (YoY) (Nov) |  |  | 1.54% |
-| 07:00 | EUR | German WPI (MoM) (Nov) |  |  | 0.3% |
-| 07:00 | EUR | German WPI (YoY) (Nov) |  |  | 1.1% |
-| 07:00 | NOK | Trade Balance (Nov) |  |  | 56.5B |
+| 18 min | INR | WPI Food (YoY) (Nov) |  |  | -8.31% |
+| 18 min | INR | WPI Fuel (YoY) (Nov) |  |  | -2.55% |
+| 18 min | INR | WPI Manufacturing Inflation (YoY) (Nov) |  |  | 1.54% |
+| 48 min | EUR | German WPI (MoM) (Nov) |  |  | 0.3% |
+| 48 min | EUR | German WPI (YoY) (Nov) |  |  | 1.1% |
+| 48 min | NOK | Trade Balance (Nov) |  |  | 56.5B |
 | 07:30 | CHF | SECO Economic Forecasts |  |  |  |
 | 07:30 | CHF | PPI (YoY) (Nov) |  |  | -1.7% |
 | 08:00 | ZAR | SARB Quarterly Bulletin |  |  |  |
