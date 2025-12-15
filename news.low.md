@@ -41,9 +41,9 @@
 | 15:00 | USD | NAHB Housing Market Index (Dec) | 39 | 39 | 38 |
 | 16:30 | USD | 3-Month Bill Auction | 3.560% |  | 3.650% |
 | 16:30 | USD | 6-Month Bill Auction | 3.495% |  | 3.580% |
-| 38 min | NZD | FPI (MoM) (Nov) |  |  | -0.3% |
-| 53 min | AUD | Manufacturing & Services PMI (Dec) |  |  | 52.60 |
-| 53 min | AUD | Judo Bank Manufacturing PMI (Dec) |  |  | 51.6 |
-| 53 min | AUD | Judo Bank Services PMI (Dec) |  |  | 52.8 |
-| 22:15 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
+| 21:45 | NZD | FPI (MoM) (Nov) | -0.4% |  | -0.3% |
+| 22:00 | AUD | Manufacturing & Services PMI (Dec) | 51.10 |  | 52.60 |
+| 22:00 | AUD | Judo Bank Manufacturing PMI (Dec) | 52.2 |  | 51.6 |
+| 22:00 | AUD | Judo Bank Services PMI (Dec) | 51.0 |  | 52.8 |
+| 7 min | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
 | 23:30 | AUD | Westpac Consumer Sentiment (Dec) |  |  | 12.8% |
