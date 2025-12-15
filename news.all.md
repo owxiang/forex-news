@@ -55,9 +55,9 @@
 | 15:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 16:30 | USD | Low | 3-Month Bill Auction | 3.560% |  | 3.650% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 3.495% |  | 3.580% |
-| 21:45 | NZD | Low | FPI (MoM) (Nov) |  |  | -0.3% |
-| 22:00 | AUD | Low | Manufacturing & Services PMI (Dec) |  |  | 52.60 |
-| 22:00 | AUD | Low | Judo Bank Manufacturing PMI (Dec) |  |  | 51.6 |
-| 22:00 | AUD | Low | Judo Bank Services PMI (Dec) |  |  | 52.8 |
+| 38 min | NZD | Low | FPI (MoM) (Nov) |  |  | -0.3% |
+| 53 min | AUD | Low | Manufacturing & Services PMI (Dec) |  |  | 52.60 |
+| 53 min | AUD | Low | Judo Bank Manufacturing PMI (Dec) |  |  | 51.6 |
+| 53 min | AUD | Low | Judo Bank Services PMI (Dec) |  |  | 52.8 |
 | 22:15 | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
 | 23:30 | AUD | Low | Westpac Consumer Sentiment (Dec) |  |  | 12.8% |
