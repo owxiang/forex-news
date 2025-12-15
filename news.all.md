@@ -15,7 +15,7 @@
 | 02:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Nov) | 3.01% |  | 3.31% |
 | 02:00 | CNY | Moderate | Chinese Unemployment Rate (Nov) | 5.1% | 5.1% | 5.1% |
 | 02:00 | CNY | Moderate | NBS Press Conference |  |  |  |
-| 53 min | JPY | Low | Tertiary Industry Activity Index (Oct) |  |  | 5.00 |
+| 7 min | JPY | Low | Tertiary Industry Activity Index (Oct) |  |  | 5.00 |
 | 06:30 | INR | Low | WPI Food (YoY) (Nov) |  |  | -8.31% |
 | 06:30 | INR | Low | WPI Fuel (YoY) (Nov) |  |  | -2.55% |
 | 06:30 | INR | Moderate | WPI Inflation (YoY) (Nov) |  | -0.60% | -1.21% |
