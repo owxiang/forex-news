@@ -9,7 +9,7 @@
 | 02:00 | CNY | NBS Press Conference |  |  |  |
 | 06:30 | INR | WPI Inflation (YoY) (Nov) | -0.32% | -0.60% | -1.21% |
 | 07:30 | CHF | PPI (MoM) (Nov) | -0.5% |  | -0.3% |
-| 47 min | EUR | Industrial Production (MoM) (Oct) |  |  | 0.2% |
+| 10:00 | EUR | Industrial Production (MoM) (Oct) | 0.8% |  | 0.2% |
 | 13:15 | CAD | Housing Starts (Nov) |  |  | 232.8K |
 | 13:30 | USD | NY Empire State Manufacturing Index (Dec) |  |  | 18.70 |
 | 13:30 | CAD | Core CPI (MoM) (Nov) |  |  | 0.6% |

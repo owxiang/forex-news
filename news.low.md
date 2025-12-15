@@ -23,12 +23,12 @@
 | 07:30 | INR | Imports (USD) (Nov) | 62.66B |  | 76.06B |
 | 07:30 | INR | Trade Balance (Nov) | -24.53B |  | -41.68B |
 | 08:00 | ZAR | SARB Quarterly Bulletin |  |  |  |
-| 08:30 | HKD | Industrial Production (YoY) (Q3) | 5.40% |  | 0.80% |
+| 08:30 | HKD | Industrial Production (YoY) (Q3) | 5.50% |  | 0.90% |
 | 08:30 | HKD | PPI (YoY) (Q3) | 7.70% |  | 4.00% |
-| 47 min | EUR | Industrial Production (YoY) (Oct) |  |  | 1.2% |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 11:00 | BRL | IGP-10 Inflation Index (MoM) (Dec) |  |  | 0.2% |
-| 11:00 | EUR | Reserve Assets Total (Nov) |  |  | 1,709.78B |
+| 10:00 | EUR | Industrial Production (YoY) (Oct) | 2.0% |  | 1.2% |
+| 51 min | EUR | German Buba Monthly Report |  |  |  |
+| 51 min | BRL | IGP-10 Inflation Index (MoM) (Dec) |  |  | 0.2% |
+| 51 min | EUR | Reserve Assets Total (Nov) |  |  | 1,709.78B |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 11:30 | GBP | Inflation Expectations |  |  | 3.6% |
 | 12:00 | BRL | IBC-Br Economic Activity (Oct) |  |  | -0.20% |
