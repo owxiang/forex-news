@@ -30,16 +30,13 @@
 | 07:30 | INR | Low | Imports (USD) (Nov) | 62.66B |  | 76.06B |
 | 07:30 | INR | Low | Trade Balance (Nov) | -24.53B |  | -41.68B |
 | 08:00 | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
-| 08:30 | HKD | Low | Industrial Production (YoY) (Q3) | 5.50% |  | 0.90% |
 | 08:30 | HKD | Low | PPI (YoY) (Q3) | 7.70% |  | 4.00% |
 | 10:00 | EUR | Moderate | Industrial Production (MoM) (Oct) | 0.8% |  | 0.2% |
 | 10:00 | EUR | Low | Industrial Production (YoY) (Oct) | 2.0% |  | 1.2% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Dec) | 0.0% |  | 0.2% |
-| 17 min | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 22 min | GBP | Low | Inflation Expectations |  |  | 3.6% |
-| 22 min | EUR | Low | Reserve Assets Total (Nov) |  |  | 1,709.78B |
-| 52 min | BRL | Low | IBC-Br Economic Activity (Oct) |  |  | -0.20% |
+| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 12:00 | BRL | Low | IBC-Br Economic Activity (Oct) | -0.20% |  | -0.20% |
 | 13:15 | CAD | Moderate | Housing Starts (Nov) |  |  | 232.8K |
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Dec) |  |  | 18.70 |
 | 13:30 | CAD | Low | Common CPI (YoY) (Nov) |  |  | 2.7% |
