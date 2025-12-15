@@ -38,8 +38,8 @@
 | 14:00 | EUR | French 3-Month BTF Auction | 2.079% |  | 2.088% |
 | 14:00 | EUR | French 6-Month BTF Auction | 2.117% |  | 2.103% |
 | 15:00 | USD | NAHB Housing Market Index (Dec) | 39 | 39 | 38 |
-| 16:30 | USD | 3-Month Bill Auction |  |  | 3.650% |
-| 16:30 | USD | 6-Month Bill Auction |  |  | 3.580% |
+| 19 min | USD | 3-Month Bill Auction |  |  | 3.650% |
+| 19 min | USD | 6-Month Bill Auction |  |  | 3.580% |
 | 21:45 | NZD | FPI (MoM) (Nov) |  |  | -0.3% |
 | 22:00 | AUD | Manufacturing & Services PMI (Dec) |  |  | 52.60 |
 | 22:00 | AUD | Judo Bank Manufacturing PMI (Dec) |  |  | 51.6 |

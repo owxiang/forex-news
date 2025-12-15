@@ -15,4 +15,4 @@
 | 13:30 | CAD | Core CPI (MoM) (Nov) | -0.1% |  | 0.6% |
 | 13:30 | CAD | Core CPI (YoY) (Nov) | 2.9% |  | 2.9% |
 | 13:30 | CAD | CPI (MoM) (Nov) | 0.1% | 0.1% | 0.2% |
-| 21 min | USD | FOMC Member Williams Speaks |  |  |  |
+| 15:30 | USD | FOMC Member Williams Speaks |  |  |  |
