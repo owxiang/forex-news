@@ -38,19 +38,19 @@
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:00 | BRL | Low | IBC-Br Economic Activity (Oct) | -0.20% |  | -0.20% |
 | 13:15 | CAD | Moderate | Housing Starts (Nov) | 254.1K | 250.0K | 232.2K |
-| 11 min | USD | Moderate | NY Empire State Manufacturing Index (Dec) |  |  | 18.70 |
-| 11 min | CAD | Low | Common CPI (YoY) (Nov) |  |  | 2.7% |
-| 11 min | CAD | Moderate | Core CPI (MoM) (Nov) |  |  | 0.6% |
-| 11 min | CAD | Moderate | Core CPI (YoY) (Nov) |  |  | 2.9% |
-| 11 min | CAD | Moderate | CPI (MoM) (Nov) |  |  | 0.2% |
-| 11 min | CAD | Low | CPI (YoY) (Nov) |  |  | 2.2% |
-| 11 min | CAD | Low | Manufacturing Sales (MoM) (Oct) |  | -1.1% | 3.3% |
-| 11 min | CAD | Low | Median CPI (YoY) (Nov) |  |  | 2.9% |
-| 11 min | CAD | Low | Trimmed CPI (YoY) (Nov) |  |  | 3.0% |
-| 41 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.148% |
-| 41 min | EUR | Low | French 3-Month BTF Auction |  |  | 2.088% |
-| 41 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.103% |
-| 15:00 | USD | Low | NAHB Housing Market Index (Dec) |  |  | 38 |
+| 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Dec) | -3.90 | 10.00 | 18.70 |
+| 13:30 | CAD | Low | Common CPI (YoY) (Nov) | 2.8% | 2.8% | 2.7% |
+| 13:30 | CAD | Moderate | Core CPI (MoM) (Nov) | -0.1% |  | 0.6% |
+| 13:30 | CAD | Moderate | Core CPI (YoY) (Nov) | 2.9% |  | 2.9% |
+| 13:30 | CAD | Moderate | CPI (MoM) (Nov) | 0.1% | 0.1% | 0.2% |
+| 13:30 | CAD | Low | CPI (YoY) (Nov) | 2.2% | 2.3% | 2.2% |
+| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Oct) | -1.0% | -1.1% | 3.6% |
+| 13:30 | CAD | Low | Median CPI (YoY) (Nov) | 2.8% | 2.9% | 3.0% |
+| 13:30 | CAD | Low | Trimmed CPI (YoY) (Nov) | 2.8% | 2.9% | 3.0% |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.146% |  | 2.148% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.079% |  | 2.088% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.117% |  | 2.103% |
+| 51 min | USD | Low | NAHB Housing Market Index (Dec) |  |  | 38 |
 | 15:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.650% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.580% |
