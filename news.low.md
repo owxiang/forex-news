@@ -29,14 +29,14 @@
 | 11:00 | BRL | IGP-10 Inflation Index (MoM) (Dec) | 0.0% |  | 0.2% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:00 | BRL | IBC-Br Economic Activity (Oct) | -0.20% |  | -0.20% |
-| 13:30 | CAD | Common CPI (YoY) (Nov) |  |  | 2.7% |
-| 13:30 | CAD | CPI (YoY) (Nov) |  |  | 2.2% |
-| 13:30 | CAD | Manufacturing Sales (MoM) (Oct) |  | -1.1% | 3.3% |
-| 13:30 | CAD | Median CPI (YoY) (Nov) |  |  | 2.9% |
-| 13:30 | CAD | Trimmed CPI (YoY) (Nov) |  |  | 3.0% |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.148% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.088% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.103% |
+| 11 min | CAD | Common CPI (YoY) (Nov) |  |  | 2.7% |
+| 11 min | CAD | CPI (YoY) (Nov) |  |  | 2.2% |
+| 11 min | CAD | Manufacturing Sales (MoM) (Oct) |  | -1.1% | 3.3% |
+| 11 min | CAD | Median CPI (YoY) (Nov) |  |  | 2.9% |
+| 11 min | CAD | Trimmed CPI (YoY) (Nov) |  |  | 3.0% |
+| 41 min | EUR | French 12-Month BTF Auction |  |  | 2.148% |
+| 41 min | EUR | French 3-Month BTF Auction |  |  | 2.088% |
+| 41 min | EUR | French 6-Month BTF Auction |  |  | 2.103% |
 | 15:00 | USD | NAHB Housing Market Index (Dec) |  |  | 38 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 3.650% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 3.580% |
