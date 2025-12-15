@@ -30,9 +30,10 @@
 | 07:30 | INR | Low | Imports (USD) (Nov) | 62.66B |  | 76.06B |
 | 07:30 | INR | Low | Trade Balance (Nov) | -24.53B |  | -41.68B |
 | 08:00 | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
+| 08:30 | HKD | Low | Industrial Production (YoY) (Q3) | 5.40% |  | 0.80% |
 | 08:30 | HKD | Low | PPI (YoY) (Q3) | 7.70% |  | 4.00% |
-| 10:00 | EUR | Moderate | Industrial Production (MoM) (Oct) | 0.8% |  | 0.2% |
 | 10:00 | EUR | Low | Industrial Production (YoY) (Oct) | 2.0% |  | 1.2% |
+| 10:00 | EUR | Moderate | Industrial Production (MoM) (Oct) | 0.8% |  | 0.2% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Dec) | 0.0% |  | 0.2% |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |

@@ -23,6 +23,7 @@
 | 07:30 | INR | Imports (USD) (Nov) | 62.66B |  | 76.06B |
 | 07:30 | INR | Trade Balance (Nov) | -24.53B |  | -41.68B |
 | 08:00 | ZAR | SARB Quarterly Bulletin |  |  |  |
+| 08:30 | HKD | Industrial Production (YoY) (Q3) | 5.40% |  | 0.80% |
 | 08:30 | HKD | PPI (YoY) (Q3) | 7.70% |  | 4.00% |
 | 10:00 | EUR | Industrial Production (YoY) (Oct) | 2.0% |  | 1.2% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
