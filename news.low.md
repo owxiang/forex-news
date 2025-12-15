@@ -10,7 +10,7 @@
 | 01:30 | CNY | House Prices (YoY) (Nov) | -2.4% |  | -2.2% |
 | 02:00 | CNY | Retail Sales (YoY) (Nov) | 1.3% | 3.0% | 2.9% |
 | 02:00 | CNY | Chinese Retail Sales YTD (YoY) (Nov) | 3.01% |  | 3.31% |
-| 7 min | JPY | Tertiary Industry Activity Index (Oct) |  |  | 5.00 |
+| 04:30 | JPY | Tertiary Industry Activity Index (Oct) | -0.70 |  | 4.70 |
 | 06:30 | INR | WPI Food (YoY) (Nov) |  |  | -8.31% |
 | 06:30 | INR | WPI Fuel (YoY) (Nov) |  |  | -2.55% |
 | 06:30 | INR | WPI Manufacturing Inflation (YoY) (Nov) |  |  | 1.54% |
