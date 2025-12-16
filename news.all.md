@@ -11,9 +11,9 @@
 | 02:00 | NZD | Low | RBNZ Offshore Holdings (Nov) | 58.00% |  | 58.60% |
 | 03:00 | KRW | Low | M3 Money Supply (Oct) | 6,032.5B |  | 5,998.5B |
 | 03:00 | KRW | Low | M2 Money supply (Oct) | 7.10% |  | 7.20% |
-| 43 min | INR | Low | S&P Global Manufacturing PMI (Dec) |  |  | 56.6 |
-| 43 min | INR | Low | S&P Global Services PMI (Dec) |  |  | 59.8 |
-| 43 min | INR | Low | Manufacturing & Services PMI (Dec) |  |  | 59.70 |
+| 05:00 | INR | Low | S&P Global Manufacturing PMI (Dec) | 55.7 |  | 56.6 |
+| 05:00 | INR | Low | S&P Global Services PMI (Dec) | 59.1 |  | 59.8 |
+| 05:00 | INR | Low | Manufacturing & Services PMI (Dec) | 58.90 |  | 59.70 |
 | 07:00 | GBP | Low | Average Earnings ex Bonus (Oct) |  |  | 4.6% |
 | 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Oct) |  |  | 4.8% |
 | 07:00 | GBP | Moderate | Claimant Count Change (Nov) |  |  | 29.0K |

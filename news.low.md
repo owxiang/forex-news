@@ -10,9 +10,9 @@
 | 02:00 | NZD | RBNZ Offshore Holdings (Nov) | 58.00% |  | 58.60% |
 | 03:00 | KRW | M3 Money Supply (Oct) | 6,032.5B |  | 5,998.5B |
 | 03:00 | KRW | M2 Money supply (Oct) | 7.10% |  | 7.20% |
-| 43 min | INR | S&P Global Manufacturing PMI (Dec) |  |  | 56.6 |
-| 43 min | INR | S&P Global Services PMI (Dec) |  |  | 59.8 |
-| 43 min | INR | Manufacturing & Services PMI (Dec) |  |  | 59.70 |
+| 05:00 | INR | S&P Global Manufacturing PMI (Dec) | 55.7 |  | 56.6 |
+| 05:00 | INR | S&P Global Services PMI (Dec) | 59.1 |  | 59.8 |
+| 05:00 | INR | Manufacturing & Services PMI (Dec) | 58.90 |  | 59.70 |
 | 07:00 | GBP | Average Earnings ex Bonus (Oct) |  |  | 4.6% |
 | 08:15 | EUR | HCOB France Composite PMI (Dec) |  |  | 50.4 |
 | 08:30 | EUR | HCOB Germany Composite PMI (Dec) |  |  | 52.4 |
