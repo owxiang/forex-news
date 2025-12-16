@@ -75,8 +75,8 @@
 | 14:45 | USD | High | S&P Global Services PMI (Dec) | 52.9 | 54.0 | 54.1 |
 | 15:00 | USD | Moderate | Business Inventories (MoM) (Sep) | 0.2% | 0.1% | 0.0% |
 | 15:00 | USD | Moderate | Retail Inventories Ex Auto (Sep) | 0.0% |  | 0.0% |
-| 17:00 | USD | Moderate | Atlanta Fed GDPNow | 3.5% | 3.5% | 3.5% |
-| 35 min | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
+| 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 3.5% | 3.5% | 3.5% |
+| 17:45 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -79.3K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -2.1K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 52.0K |

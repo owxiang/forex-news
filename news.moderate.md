@@ -32,8 +32,8 @@
 | 14:45 | USD | S&P Global Composite PMI (Dec) | 53.0 | 53.9 | 54.2 |
 | 15:00 | USD | Business Inventories (MoM) (Sep) | 0.2% | 0.1% | 0.0% |
 | 15:00 | USD | Retail Inventories Ex Auto (Sep) | 0.0% |  | 0.0% |
-| 17:00 | USD | Atlanta Fed GDPNow | 3.5% | 3.5% | 3.5% |
-| 35 min | CAD | BoC Gov Macklem Speaks |  |  |  |
+| 17:00 | USD | Atlanta Fed GDPNow (Q4) | 3.5% | 3.5% | 3.5% |
+| 17:45 | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -79.3K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 69.2K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 210.3K |
