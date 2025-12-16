@@ -35,17 +35,17 @@
 | 17:00 | USD | Atlanta Fed GDPNow (Q4) | 3.5% | 3.5% | 3.5% |
 | 17:45 | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 20:00 | NZD | Westpac Consumer Sentiment (Q4) | 96.5 |  | 90.9 |
-| 21 min | GBP | CFTC GBP speculative net positions |  |  | -79.3K |
-| 21 min | USD | CFTC Crude Oil speculative net positions |  |  | 69.2K |
-| 21 min | USD | CFTC Gold speculative net positions |  |  | 210.3K |
-| 21 min | USD | CFTC Nasdaq 100 speculative net positions |  |  | 46.4K |
-| 21 min | USD | CFTC S&P 500 speculative net positions |  |  | -147.4K |
-| 21 min | AUD | CFTC AUD speculative net positions |  |  | -75.9K |
-| 21 min | BRL | CFTC BRL speculative net positions |  |  | 53.8K |
-| 21 min | JPY | CFTC JPY speculative net positions |  |  | 31.2K |
-| 21 min | EUR | CFTC EUR speculative net positions |  |  | 99.0K |
-| 21:30 | USD | API Weekly Crude Oil Stock |  | -2.200M | -4.800M |
-| 21:45 | NZD | Current Account (QoQ) |  | -7.62B | -0.97B |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | -79.3K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 69.2K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 210.3K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 46.4K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -147.4K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -75.9K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 53.8K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | 31.2K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 99.0K |
+| 23 min | USD | API Weekly Crude Oil Stock |  | -2.200M | -4.800M |
+| 38 min | NZD | Current Account (QoQ) |  | -7.62B | -0.97B |
 | 23:50 | JPY | Adjusted Trade Balance |  | -0.20T | 0.00T |
 | 23:50 | JPY | Exports (YoY) (Nov) |  | 4.8% | 3.6% |
 | 23:50 | JPY | Trade Balance (Nov) |  | 71.2B | -231.8B |
