@@ -21,7 +21,7 @@
 | 10:00 | EUR | German ZEW Economic Sentiment (Dec) | 45.8 | 38.4 | 38.5 |
 | 10:00 | EUR | Trade Balance (Oct) | 18.4B |  | 18.4B |
 | 10:00 | EUR | ZEW Economic Sentiment (Dec) | 33.7 | 26.3 | 25.0 |
-| 13:15 | USD | ADP Employment Change Weekly | 16.25K |  | 4.75K |
+| 13:15 | USD | ADP Employment Change Weekly | 16.25K |  | 2.75K |
 | 13:29 | USD | Average Hourly Earnings (YoY) (YoY) (Oct) | 3.7% |  | 3.8% |
 | 13:29 | USD | Private Nonfarm Payrolls (Oct) | 52K |  | 104K |
 | 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Nov) | 3.5% |  | 3.7% |
@@ -32,8 +32,8 @@
 | 14:45 | USD | S&P Global Composite PMI (Dec) | 53.0 | 53.9 | 54.2 |
 | 15:00 | USD | Business Inventories (MoM) (Sep) | 0.2% | 0.1% | 0.0% |
 | 15:00 | USD | Retail Inventories Ex Auto (Sep) | 0.0% |  | 0.0% |
-| 17:45 | CAD | BoC Gov Macklem Speaks |  |  |  |
-| 20:00 | NZD | Westpac Consumer Sentiment |  |  | 90.9 |
+| 17:00 | USD | Atlanta Fed GDPNow | 3.5% | 3.5% | 3.5% |
+| 35 min | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -79.3K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 69.2K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 210.3K |
@@ -43,7 +43,7 @@
 | 20:30 | BRL | CFTC BRL speculative net positions |  |  | 53.8K |
 | 20:30 | JPY | CFTC JPY speculative net positions |  |  | 31.2K |
 | 20:30 | EUR | CFTC EUR speculative net positions |  |  | 99.0K |
-| 21:30 | USD | API Weekly Crude Oil Stock |  |  | -4.800M |
+| 21:30 | USD | API Weekly Crude Oil Stock |  | -2.200M | -4.800M |
 | 21:45 | NZD | Current Account (QoQ) |  | -7.62B | -0.97B |
 | 23:50 | JPY | Adjusted Trade Balance |  | -0.20T | 0.00T |
 | 23:50 | JPY | Exports (YoY) (Nov) |  | 4.8% | 3.6% |

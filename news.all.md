@@ -46,7 +46,7 @@
 | 11:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
 | 12:00 | NZD | Low | GlobalDairyTrade Price Index | -4.4% |  | -4.3% |
 | 12:00 | USD | Low | Milk Auctions | 3,341.0 |  | 3,507.0 |
-| 13:15 | USD | Moderate | ADP Employment Change Weekly | 16.25K |  | 4.75K |
+| 13:15 | USD | Moderate | ADP Employment Change Weekly | 16.25K |  | 2.75K |
 | 13:29 | USD | High | Average Hourly Earnings (MoM) (Oct) | 0.4% |  | 0.2% |
 | 13:29 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Oct) | 3.7% |  | 3.8% |
 | 13:29 | USD | Low | Average Weekly Hours (Oct) | 34.2 |  | 34.2 |
@@ -75,8 +75,8 @@
 | 14:45 | USD | High | S&P Global Services PMI (Dec) | 52.9 | 54.0 | 54.1 |
 | 15:00 | USD | Moderate | Business Inventories (MoM) (Sep) | 0.2% | 0.1% | 0.0% |
 | 15:00 | USD | Moderate | Retail Inventories Ex Auto (Sep) | 0.0% |  | 0.0% |
-| 17:45 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
-| 20:00 | NZD | Moderate | Westpac Consumer Sentiment |  |  | 90.9 |
+| 17:00 | USD | Moderate | Atlanta Fed GDPNow | 3.5% | 3.5% | 3.5% |
+| 35 min | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -79.3K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -2.1K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 52.0K |
@@ -97,7 +97,7 @@
 | 20:30 | JPY | Moderate | CFTC JPY speculative net positions |  |  | 31.2K |
 | 20:30 | NZD | Low | CFTC NZD speculative net positions |  |  | -49.3K |
 | 20:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | 99.0K |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -4.800M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.200M | -4.800M |
 | 21:45 | NZD | Moderate | Current Account (QoQ) |  | -7.62B | -0.97B |
 | 23:30 | AUD | Low | MI Leading Index (MoM) |  |  | 0.1% |
 | 23:50 | JPY | Moderate | Adjusted Trade Balance |  | -0.20T | 0.00T |
