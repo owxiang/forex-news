@@ -43,35 +43,30 @@
 | 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Dec) | 45.8 | 38.4 | 38.5 |
 | 10:00 | EUR | Moderate | Trade Balance (Oct) | 18.4B |  | 18.4B |
 | 10:00 | EUR | Moderate | ZEW Economic Sentiment (Dec) | 33.7 | 26.3 | 25.0 |
-| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
-| 23 min | GBP | Low | Inflation Expectations |  |  | 3.6% |
-| 23 min | EUR | Low | Reserve Assets Total (Nov) |  |  | 1,709.78B |
-| 53 min | NZD | Low | GlobalDairyTrade Price Index |  |  | -4.3% |
-| 53 min | USD | Low | Milk Auctions |  |  | 3,507.0 |
-| 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 4.75K |
-| 13:30 | USD | High | Average Hourly Earnings (MoM) (Nov) |  | 0.3% | 0.2% |
-| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Nov) |  |  | 3.8% |
-| 13:30 | USD | Low | Average Weekly Hours (Nov) |  |  | 34.2 |
-| 13:30 | USD | Moderate | Building Permits (Sep) |  | 1.340M | 1.330M |
-| 13:30 | USD | Low | Building Permits (MoM) (Sep) |  |  | -2.3% |
-| 13:30 | USD | High | Core Retail Sales (MoM) (Oct) |  | 0.2% | 0.3% |
-| 13:30 | USD | Moderate | Export Price Index (MoM) (Oct) |  |  | 0.0% |
-| 13:30 | USD | Low | Government Payrolls (Nov) |  |  | 22.0K |
-| 13:30 | USD | Moderate | Housing Starts |  | 1.320M | 1.307M |
-| 13:30 | USD | Moderate | Housing Starts (MoM) (Sep) |  |  | -8.5% |
-| 13:30 | USD | Moderate | Import Price Index (MoM) (Oct) |  |  | 0.0% |
-| 13:30 | USD | Low | Manufacturing Payrolls (Nov) |  |  | -6K |
-| 13:30 | USD | High | Nonfarm Payrolls (Nov) |  | 40K | 119K |
-| 13:30 | USD | Moderate | Participation Rate (Nov) |  |  | 62.4% |
-| 13:30 | USD | Moderate | Private Nonfarm Payrolls (Nov) |  |  | 97K |
-| 13:30 | USD | Moderate | Retail Control (MoM) (Oct) |  | 0.3% | -0.1% |
-| 13:30 | USD | High | Retail Sales (MoM) (Oct) |  | 0.1% | 0.2% |
-| 13:30 | USD | Low | Retail Sales (YoY) (Oct) |  |  | 4.26% |
-| 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Oct) |  |  | 0.1% |
-| 13:30 | USD | Moderate | U6 Unemployment Rate (Nov) |  |  | 8.0% |
-| 13:30 | USD | High | Unemployment Rate (Nov) |  | 4.5% | 4.4% |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 5.7% |
+| 13:15 | USD | Moderate | ADP Employment Change Weekly | 16.25K |  | 4.75K |
+| 11 min | USD | High | Average Hourly Earnings (MoM) (Nov) |  | 0.3% | 0.2% |
+| 11 min | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Nov) |  |  | 3.8% |
+| 11 min | USD | Low | Average Weekly Hours (Nov) |  |  | 34.2 |
+| 11 min | USD | Moderate | Building Permits (Sep) |  | 1.340M | 1.330M |
+| 11 min | USD | Low | Building Permits (MoM) (Sep) |  |  | -2.3% |
+| 11 min | USD | High | Core Retail Sales (MoM) (Oct) |  | 0.2% | 0.3% |
+| 11 min | USD | Moderate | Export Price Index (MoM) (Oct) |  |  | 0.0% |
+| 11 min | USD | Low | Government Payrolls (Nov) |  |  | 22.0K |
+| 11 min | USD | Moderate | Housing Starts |  | 1.320M | 1.307M |
+| 11 min | USD | Moderate | Housing Starts (MoM) (Sep) |  |  | -8.5% |
+| 11 min | USD | Moderate | Import Price Index (MoM) (Oct) |  |  | 0.0% |
+| 11 min | USD | Low | Manufacturing Payrolls (Nov) |  |  | -6K |
+| 11 min | USD | High | Nonfarm Payrolls (Nov) |  | 40K | 119K |
+| 11 min | USD | Moderate | Participation Rate (Nov) |  |  | 62.4% |
+| 11 min | USD | Moderate | Private Nonfarm Payrolls (Nov) |  |  | 97K |
+| 11 min | USD | Moderate | Retail Control (MoM) (Oct) |  | 0.3% | -0.1% |
+| 11 min | USD | High | Retail Sales (MoM) (Oct) |  | 0.1% | 0.2% |
+| 11 min | USD | Low | Retail Sales (YoY) (Oct) |  |  | 4.26% |
+| 11 min | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Oct) |  |  | 0.1% |
+| 11 min | USD | Moderate | U6 Unemployment Rate (Nov) |  |  | 8.0% |
+| 11 min | USD | High | Unemployment Rate (Nov) |  | 4.5% | 4.4% |
+| 36 min | USD | Low | Redbook (YoY) |  |  | 5.7% |
 | 14:45 | USD | High | S&P Global Manufacturing PMI (Dec) |  | 52.0 | 52.2 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Dec) |  |  | 54.2 |
 | 14:45 | USD | High | S&P Global Services PMI (Dec) |  | 54.0 | 54.1 |

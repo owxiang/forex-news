@@ -24,19 +24,14 @@
 | 09:00 | EUR | Italian HICP (YoY) (Nov) | 1.1% | 1.1% | 1.1% |
 | 10:00 | EUR | Italian Trade Balance (Oct) | 4.156B | 3.210B | 2.968B |
 | 10:00 | EUR | Italian Trade Balance EU (Oct) | -1.31B |  | -0.07B |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 11:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
-| 23 min | GBP | Inflation Expectations |  |  | 3.6% |
-| 23 min | EUR | Reserve Assets Total (Nov) |  |  | 1,709.78B |
-| 53 min | NZD | GlobalDairyTrade Price Index |  |  | -4.3% |
-| 53 min | USD | Milk Auctions |  |  | 3,507.0 |
-| 13:30 | USD | Average Weekly Hours (Nov) |  |  | 34.2 |
-| 13:30 | USD | Building Permits (MoM) (Sep) |  |  | -2.3% |
-| 13:30 | USD | Government Payrolls (Nov) |  |  | 22.0K |
-| 13:30 | USD | Manufacturing Payrolls (Nov) |  |  | -6K |
-| 13:30 | USD | Retail Sales (YoY) (Oct) |  |  | 4.26% |
-| 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Oct) |  |  | 0.1% |
-| 13:55 | USD | Redbook (YoY) |  |  | 5.7% |
+| 11 min | USD | Average Weekly Hours (Nov) |  |  | 34.2 |
+| 11 min | USD | Building Permits (MoM) (Sep) |  |  | -2.3% |
+| 11 min | USD | Government Payrolls (Nov) |  |  | 22.0K |
+| 11 min | USD | Manufacturing Payrolls (Nov) |  |  | -6K |
+| 11 min | USD | Retail Sales (YoY) (Oct) |  |  | 4.26% |
+| 11 min | USD | Retail Sales Ex Gas/Autos (MoM) (Oct) |  |  | 0.1% |
+| 36 min | USD | Redbook (YoY) |  |  | 5.7% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -2.1K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 52.0K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 120.9K |
