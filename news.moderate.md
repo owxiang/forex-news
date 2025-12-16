@@ -29,9 +29,9 @@
 | 13:30 | USD | Private Nonfarm Payrolls (Nov) | 69K | 45K | 52K |
 | 13:30 | USD | Retail Control (MoM) (Oct) | 0.8% | 0.3% | -0.1% |
 | 13:30 | USD | U6 Unemployment Rate (Nov) | 8.7% |  | 8.0% |
-| 35 min | USD | S&P Global Composite PMI (Dec) |  |  | 54.2 |
-| 50 min | USD | Business Inventories (MoM) (Sep) |  | 0.1% | 0.0% |
-| 50 min | USD | Retail Inventories Ex Auto (Sep) |  |  | 0.0% |
+| 14:45 | USD | S&P Global Composite PMI (Dec) | 53.0 | 53.9 | 54.2 |
+| 15:00 | USD | Business Inventories (MoM) (Sep) | 0.2% | 0.1% | 0.0% |
+| 15:00 | USD | Retail Inventories Ex Auto (Sep) | 0.0% |  | 0.0% |
 | 17:45 | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 20:00 | NZD | Westpac Consumer Sentiment |  |  | 90.9 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -79.3K |

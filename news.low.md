@@ -25,13 +25,15 @@
 | 10:00 | EUR | Italian Trade Balance (Oct) | 4.156B | 3.210B | 2.968B |
 | 10:00 | EUR | Italian Trade Balance EU (Oct) | -1.31B |  | -0.07B |
 | 11:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
+| 12:00 | NZD | GlobalDairyTrade Price Index | -4.4% |  | -4.3% |
+| 12:00 | USD | Milk Auctions | 3,341.0 |  | 3,507.0 |
 | 13:29 | USD | Average Weekly Hours (Oct) | 34.2 |  | 34.2 |
 | 13:29 | USD | Government Payrolls (Oct) | -157.0K |  | 4.0K |
 | 13:29 | USD | Manufacturing Payrolls (Oct) | -9K |  | -5K |
 | 13:30 | USD | Average Weekly Hours (Nov) | 34.3 |  | 34.2 |
-| 13:30 | USD | Government Payrolls (Nov) | -5.0K |  | 4.0K |
-| 13:30 | USD | Manufacturing Payrolls (Nov) | -5K | -5K | -5K |
-| 13:30 | USD | Retail Sales (YoY) (Oct) | 3.50% |  | 4.20% |
+| 13:30 | USD | Government Payrolls (Nov) | -5.0K |  | -157.0K |
+| 13:30 | USD | Manufacturing Payrolls (Nov) | -5K | -5K | -9K |
+| 13:30 | USD | Retail Sales (YoY) (Oct) | 3.47% |  | 4.18% |
 | 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Oct) | 0.5% |  | 0.0% |
 | 13:55 | USD | Redbook (YoY) | 6.2% |  | 5.7% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -2.1K |
