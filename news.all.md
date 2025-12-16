@@ -43,12 +43,12 @@
 | 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Dec) | 45.8 | 38.4 | 38.5 |
 | 10:00 | EUR | Moderate | Trade Balance (Oct) | 18.4B |  | 18.4B |
 | 10:00 | EUR | Moderate | ZEW Economic Sentiment (Dec) | 33.7 | 26.3 | 25.0 |
-| 52 min | EUR | Low | German Buba Monthly Report |  |  |  |
-| 52 min | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
-| 11:30 | GBP | Low | Inflation Expectations |  |  | 3.6% |
-| 11:30 | EUR | Low | Reserve Assets Total (Nov) |  |  | 1,709.78B |
-| 12:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -4.3% |
-| 12:00 | USD | Low | Milk Auctions |  |  | 3,507.0 |
+| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 11:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
+| 23 min | GBP | Low | Inflation Expectations |  |  | 3.6% |
+| 23 min | EUR | Low | Reserve Assets Total (Nov) |  |  | 1,709.78B |
+| 53 min | NZD | Low | GlobalDairyTrade Price Index |  |  | -4.3% |
+| 53 min | USD | Low | Milk Auctions |  |  | 3,507.0 |
 | 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 4.75K |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Nov) |  | 0.3% | 0.2% |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Nov) |  |  | 3.8% |

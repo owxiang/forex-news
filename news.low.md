@@ -24,12 +24,12 @@
 | 09:00 | EUR | Italian HICP (YoY) (Nov) | 1.1% | 1.1% | 1.1% |
 | 10:00 | EUR | Italian Trade Balance (Oct) | 4.156B | 3.210B | 2.968B |
 | 10:00 | EUR | Italian Trade Balance EU (Oct) | -1.31B |  | -0.07B |
-| 52 min | EUR | German Buba Monthly Report |  |  |  |
-| 52 min | BRL | BCB Copom Meeting Minutes |  |  |  |
-| 11:30 | GBP | Inflation Expectations |  |  | 3.6% |
-| 11:30 | EUR | Reserve Assets Total (Nov) |  |  | 1,709.78B |
-| 12:00 | NZD | GlobalDairyTrade Price Index |  |  | -4.3% |
-| 12:00 | USD | Milk Auctions |  |  | 3,507.0 |
+| 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 11:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
+| 23 min | GBP | Inflation Expectations |  |  | 3.6% |
+| 23 min | EUR | Reserve Assets Total (Nov) |  |  | 1,709.78B |
+| 53 min | NZD | GlobalDairyTrade Price Index |  |  | -4.3% |
+| 53 min | USD | Milk Auctions |  |  | 3,507.0 |
 | 13:30 | USD | Average Weekly Hours (Nov) |  |  | 34.2 |
 | 13:30 | USD | Building Permits (MoM) (Sep) |  |  | -2.3% |
 | 13:30 | USD | Government Payrolls (Nov) |  |  | 22.0K |
