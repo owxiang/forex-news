@@ -3,10 +3,10 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | au Jibun Bank Services PMI (Dec) | 52.5 |  | 53.2 |
-| 07:00 | GBP | Average Earnings Index +Bonus (Oct) |  |  | 4.8% |
-| 07:00 | GBP | Claimant Count Change (Nov) |  |  | 29.0K |
-| 07:00 | GBP | Employment Change 3M/3M (MoM) (Oct) |  |  | -22K |
-| 07:00 | GBP | Unemployment Rate (Oct) |  |  | 5.0% |
+| 49 min | GBP | Average Earnings Index +Bonus (Oct) |  |  | 4.8% |
+| 49 min | GBP | Claimant Count Change (Nov) |  |  | 29.0K |
+| 49 min | GBP | Employment Change 3M/3M (MoM) (Oct) |  |  | -22K |
+| 49 min | GBP | Unemployment Rate (Oct) |  |  | 5.0% |
 | 08:15 | EUR | HCOB France Manufacturing PMI (Dec) |  |  | 47.8 |
 | 08:15 | EUR | HCOB France Services PMI (Dec) |  |  | 51.4 |
 | 08:30 | EUR | HCOB Germany Manufacturing PMI (Dec) |  |  | 48.2 |

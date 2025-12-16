@@ -13,7 +13,7 @@
 | 05:00 | INR | S&P Global Manufacturing PMI (Dec) | 55.7 |  | 56.6 |
 | 05:00 | INR | S&P Global Services PMI (Dec) | 59.1 |  | 59.8 |
 | 05:00 | INR | Manufacturing & Services PMI (Dec) | 58.90 |  | 59.70 |
-| 07:00 | GBP | Average Earnings ex Bonus (Oct) |  |  | 4.6% |
+| 49 min | GBP | Average Earnings ex Bonus (Oct) |  |  | 4.6% |
 | 08:15 | EUR | HCOB France Composite PMI (Dec) |  |  | 50.4 |
 | 08:30 | EUR | HCOB Germany Composite PMI (Dec) |  |  | 52.4 |
 | 08:30 | HKD | Unemployment Rate (Nov) |  |  | 3.8% |
