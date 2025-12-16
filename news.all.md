@@ -14,11 +14,11 @@
 | 05:00 | INR | Low | S&P Global Manufacturing PMI (Dec) | 55.7 |  | 56.6 |
 | 05:00 | INR | Low | S&P Global Services PMI (Dec) | 59.1 |  | 59.8 |
 | 05:00 | INR | Low | Manufacturing & Services PMI (Dec) | 58.90 |  | 59.70 |
-| 49 min | GBP | Low | Average Earnings ex Bonus (Oct) |  |  | 4.6% |
-| 49 min | GBP | Moderate | Average Earnings Index +Bonus (Oct) |  |  | 4.8% |
-| 49 min | GBP | Moderate | Claimant Count Change (Nov) |  |  | 29.0K |
-| 49 min | GBP | Moderate | Employment Change 3M/3M (MoM) (Oct) |  |  | -22K |
-| 49 min | GBP | Moderate | Unemployment Rate (Oct) |  |  | 5.0% |
+| 07:00 | GBP | Low | Average Earnings ex Bonus (Oct) | 4.6% |  | 4.7% |
+| 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Oct) | 4.7% |  | 4.9% |
+| 07:00 | GBP | Moderate | Claimant Count Change (Nov) | 20.1K |  | -3.9K |
+| 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Oct) | -16K |  | -22K |
+| 07:00 | GBP | Moderate | Unemployment Rate (Oct) | 5.1% |  | 5.0% |
 | 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Dec) |  |  | 47.8 |
 | 08:15 | EUR | Low | HCOB France Composite PMI (Dec) |  |  | 50.4 |
 | 08:15 | EUR | Moderate | HCOB France Services PMI (Dec) |  |  | 51.4 |
