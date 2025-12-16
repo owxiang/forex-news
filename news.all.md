@@ -19,21 +19,21 @@
 | 07:00 | GBP | Moderate | Claimant Count Change (Nov) | 20.1K |  | -3.9K |
 | 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Oct) | -16K |  | -22K |
 | 07:00 | GBP | Moderate | Unemployment Rate (Oct) | 5.1% |  | 5.0% |
-| 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Dec) |  |  | 47.8 |
-| 08:15 | EUR | Low | HCOB France Composite PMI (Dec) |  |  | 50.4 |
-| 08:15 | EUR | Moderate | HCOB France Services PMI (Dec) |  |  | 51.4 |
-| 08:30 | EUR | Low | HCOB Germany Composite PMI (Dec) |  |  | 52.4 |
-| 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Dec) |  |  | 48.2 |
-| 08:30 | EUR | Moderate | HCOB Germany Services PMI (Dec) |  |  | 53.1 |
-| 08:30 | HKD | Low | Unemployment Rate (Nov) |  |  | 3.8% |
-| 09:00 | EUR | Low | Italian CPI (MoM) (Nov) |  | -0.2% | -0.2% |
-| 09:00 | EUR | Low | Italian CPI (YoY) (Nov) |  | 1.2% | 1.2% |
-| 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Nov) |  |  | 1.1% |
-| 09:00 | EUR | Low | Italian HICP (MoM) (Nov) |  | -0.2% | -0.2% |
-| 09:00 | EUR | Low | Italian HICP (YoY) (Nov) |  | 1.1% | 1.1% |
-| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Dec) |  |  | 49.6 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Dec) |  |  | 52.8 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Dec) |  |  | 53.6 |
+| 4 min | EUR | Moderate | HCOB France Manufacturing PMI (Dec) |  |  | 47.8 |
+| 4 min | EUR | Low | HCOB France Composite PMI (Dec) |  |  | 50.4 |
+| 4 min | EUR | Moderate | HCOB France Services PMI (Dec) |  |  | 51.4 |
+| 19 min | EUR | Low | HCOB Germany Composite PMI (Dec) |  |  | 52.4 |
+| 19 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Dec) |  |  | 48.2 |
+| 19 min | EUR | Moderate | HCOB Germany Services PMI (Dec) |  |  | 53.1 |
+| 19 min | HKD | Low | Unemployment Rate (Nov) |  |  | 3.8% |
+| 49 min | EUR | Low | Italian CPI (MoM) (Nov) |  | -0.2% | -0.2% |
+| 49 min | EUR | Low | Italian CPI (YoY) (Nov) |  | 1.2% | 1.2% |
+| 49 min | EUR | Low | Italian CPI Ex Tobacco (YoY) (Nov) |  |  | 1.1% |
+| 49 min | EUR | Low | Italian HICP (MoM) (Nov) |  | -0.2% | -0.2% |
+| 49 min | EUR | Low | Italian HICP (YoY) (Nov) |  | 1.1% | 1.1% |
+| 49 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Dec) |  |  | 49.6 |
+| 49 min | EUR | Moderate | HCOB Eurozone Composite PMI (Dec) |  |  | 52.8 |
+| 49 min | EUR | Moderate | HCOB Eurozone Services PMI (Dec) |  |  | 53.6 |
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (Dec) |  |  | 51.2 |
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Dec) |  |  | 50.2 |
 | 09:30 | GBP | Moderate | S&P Global Services PMI (Dec) |  |  | 51.3 |

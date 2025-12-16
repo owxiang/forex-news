@@ -7,13 +7,13 @@
 | 07:00 | GBP | Claimant Count Change (Nov) | 20.1K |  | -3.9K |
 | 07:00 | GBP | Employment Change 3M/3M (MoM) (Oct) | -16K |  | -22K |
 | 07:00 | GBP | Unemployment Rate (Oct) | 5.1% |  | 5.0% |
-| 08:15 | EUR | HCOB France Manufacturing PMI (Dec) |  |  | 47.8 |
-| 08:15 | EUR | HCOB France Services PMI (Dec) |  |  | 51.4 |
-| 08:30 | EUR | HCOB Germany Manufacturing PMI (Dec) |  |  | 48.2 |
-| 08:30 | EUR | HCOB Germany Services PMI (Dec) |  |  | 53.1 |
-| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Dec) |  |  | 49.6 |
-| 09:00 | EUR | HCOB Eurozone Composite PMI (Dec) |  |  | 52.8 |
-| 09:00 | EUR | HCOB Eurozone Services PMI (Dec) |  |  | 53.6 |
+| 4 min | EUR | HCOB France Manufacturing PMI (Dec) |  |  | 47.8 |
+| 4 min | EUR | HCOB France Services PMI (Dec) |  |  | 51.4 |
+| 19 min | EUR | HCOB Germany Manufacturing PMI (Dec) |  |  | 48.2 |
+| 19 min | EUR | HCOB Germany Services PMI (Dec) |  |  | 53.1 |
+| 49 min | EUR | HCOB Eurozone Manufacturing PMI (Dec) |  |  | 49.6 |
+| 49 min | EUR | HCOB Eurozone Composite PMI (Dec) |  |  | 52.8 |
+| 49 min | EUR | HCOB Eurozone Services PMI (Dec) |  |  | 53.6 |
 | 09:30 | GBP | S&P Global Composite PMI (Dec) |  |  | 51.2 |
 | 09:30 | GBP | S&P Global Manufacturing PMI (Dec) |  |  | 50.2 |
 | 09:30 | GBP | S&P Global Services PMI (Dec) |  |  | 51.3 |
