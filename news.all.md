@@ -9,8 +9,8 @@
 | 00:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Dec) | 49.7 | 49.0 | 48.7 |
 | 00:30 | JPY | Moderate | au Jibun Bank Services PMI (Dec) | 52.5 |  | 53.2 |
 | 02:00 | NZD | Low | RBNZ Offshore Holdings (Nov) | 58.00% |  | 58.60% |
-| 17 min | KRW | Low | M3 Money Supply (Oct) |  |  | 5,998.5B |
-| 17 min | KRW | Low | M2 Money supply (Oct) |  |  | 7.20% |
+| 03:00 | KRW | Low | M3 Money Supply (Oct) | 6,032.5B |  | 5,998.5B |
+| 03:00 | KRW | Low | M2 Money supply (Oct) | 7.10% |  | 7.20% |
 | 05:00 | INR | Low | S&P Global Manufacturing PMI (Dec) |  |  | 56.6 |
 | 05:00 | INR | Low | S&P Global Services PMI (Dec) |  |  | 59.8 |
 | 05:00 | INR | Low | Manufacturing & Services PMI (Dec) |  |  | 59.70 |
