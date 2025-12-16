@@ -22,19 +22,16 @@
 | 10:00 | EUR | Trade Balance (Oct) | 18.4B |  | 18.4B |
 | 10:00 | EUR | ZEW Economic Sentiment (Dec) | 33.7 | 26.3 | 25.0 |
 | 13:15 | USD | ADP Employment Change Weekly | 16.25K |  | 4.75K |
-| 11 min | USD | Average Hourly Earnings (YoY) (YoY) (Nov) |  |  | 3.8% |
-| 11 min | USD | Building Permits (Sep) |  | 1.340M | 1.330M |
-| 11 min | USD | Export Price Index (MoM) (Oct) |  |  | 0.0% |
-| 11 min | USD | Housing Starts |  | 1.320M | 1.307M |
-| 11 min | USD | Housing Starts (MoM) (Sep) |  |  | -8.5% |
-| 11 min | USD | Import Price Index (MoM) (Oct) |  |  | 0.0% |
-| 11 min | USD | Participation Rate (Nov) |  |  | 62.4% |
-| 11 min | USD | Private Nonfarm Payrolls (Nov) |  |  | 97K |
-| 11 min | USD | Retail Control (MoM) (Oct) |  | 0.3% | -0.1% |
-| 11 min | USD | U6 Unemployment Rate (Nov) |  |  | 8.0% |
-| 14:45 | USD | S&P Global Composite PMI (Dec) |  |  | 54.2 |
-| 15:00 | USD | Business Inventories (MoM) (Sep) |  | 0.1% | 0.0% |
-| 15:00 | USD | Retail Inventories Ex Auto (Sep) |  |  | 0.0% |
+| 13:29 | USD | Average Hourly Earnings (YoY) (YoY) (Oct) | 3.7% |  | 3.8% |
+| 13:29 | USD | Private Nonfarm Payrolls (Oct) | 52K |  | 104K |
+| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Nov) | 3.5% |  | 3.7% |
+| 13:30 | USD | Participation Rate (Nov) | 62.5% |  | 62.4% |
+| 13:30 | USD | Private Nonfarm Payrolls (Nov) | 69K | 45K | 52K |
+| 13:30 | USD | Retail Control (MoM) (Oct) | 0.8% | 0.3% | -0.1% |
+| 13:30 | USD | U6 Unemployment Rate (Nov) | 8.7% |  | 8.0% |
+| 35 min | USD | S&P Global Composite PMI (Dec) |  |  | 54.2 |
+| 50 min | USD | Business Inventories (MoM) (Sep) |  | 0.1% | 0.0% |
+| 50 min | USD | Retail Inventories Ex Auto (Sep) |  |  | 0.0% |
 | 17:45 | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 20:00 | NZD | Westpac Consumer Sentiment |  |  | 90.9 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -79.3K |

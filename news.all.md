@@ -45,33 +45,34 @@
 | 10:00 | EUR | Moderate | ZEW Economic Sentiment (Dec) | 33.7 | 26.3 | 25.0 |
 | 11:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
 | 13:15 | USD | Moderate | ADP Employment Change Weekly | 16.25K |  | 4.75K |
-| 11 min | USD | High | Average Hourly Earnings (MoM) (Nov) |  | 0.3% | 0.2% |
-| 11 min | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Nov) |  |  | 3.8% |
-| 11 min | USD | Low | Average Weekly Hours (Nov) |  |  | 34.2 |
-| 11 min | USD | Moderate | Building Permits (Sep) |  | 1.340M | 1.330M |
-| 11 min | USD | Low | Building Permits (MoM) (Sep) |  |  | -2.3% |
-| 11 min | USD | High | Core Retail Sales (MoM) (Oct) |  | 0.2% | 0.3% |
-| 11 min | USD | Moderate | Export Price Index (MoM) (Oct) |  |  | 0.0% |
-| 11 min | USD | Low | Government Payrolls (Nov) |  |  | 22.0K |
-| 11 min | USD | Moderate | Housing Starts |  | 1.320M | 1.307M |
-| 11 min | USD | Moderate | Housing Starts (MoM) (Sep) |  |  | -8.5% |
-| 11 min | USD | Moderate | Import Price Index (MoM) (Oct) |  |  | 0.0% |
-| 11 min | USD | Low | Manufacturing Payrolls (Nov) |  |  | -6K |
-| 11 min | USD | High | Nonfarm Payrolls (Nov) |  | 40K | 119K |
-| 11 min | USD | Moderate | Participation Rate (Nov) |  |  | 62.4% |
-| 11 min | USD | Moderate | Private Nonfarm Payrolls (Nov) |  |  | 97K |
-| 11 min | USD | Moderate | Retail Control (MoM) (Oct) |  | 0.3% | -0.1% |
-| 11 min | USD | High | Retail Sales (MoM) (Oct) |  | 0.1% | 0.2% |
-| 11 min | USD | Low | Retail Sales (YoY) (Oct) |  |  | 4.26% |
-| 11 min | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Oct) |  |  | 0.1% |
-| 11 min | USD | Moderate | U6 Unemployment Rate (Nov) |  |  | 8.0% |
-| 11 min | USD | High | Unemployment Rate (Nov) |  | 4.5% | 4.4% |
-| 36 min | USD | Low | Redbook (YoY) |  |  | 5.7% |
-| 14:45 | USD | High | S&P Global Manufacturing PMI (Dec) |  | 52.0 | 52.2 |
-| 14:45 | USD | Moderate | S&P Global Composite PMI (Dec) |  |  | 54.2 |
-| 14:45 | USD | High | S&P Global Services PMI (Dec) |  | 54.0 | 54.1 |
-| 15:00 | USD | Moderate | Business Inventories (MoM) (Sep) |  | 0.1% | 0.0% |
-| 15:00 | USD | Moderate | Retail Inventories Ex Auto (Sep) |  |  | 0.0% |
+| 13:29 | USD | High | Average Hourly Earnings (MoM) (Oct) | 0.4% |  | 0.2% |
+| 13:29 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Oct) | 3.7% |  | 3.8% |
+| 13:29 | USD | Low | Average Weekly Hours (Oct) | 34.2 |  | 34.2 |
+| 13:29 | USD | Low | Government Payrolls (Oct) | -157.0K |  | 4.0K |
+| 13:29 | USD | Low | Manufacturing Payrolls (Oct) | -9K |  | -5K |
+| 13:29 | USD | High | Nonfarm Payrolls (Oct) | -105K |  | 108K |
+| 13:29 | USD | Moderate | Private Nonfarm Payrolls (Oct) | 52K |  | 104K |
+| 13:30 | USD | High | Average Hourly Earnings (MoM) (Nov) | 0.1% | 0.3% | 0.4% |
+| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Nov) | 3.5% |  | 3.7% |
+| 13:30 | USD | Low | Average Weekly Hours (Nov) | 34.3 |  | 34.2 |
+| 13:30 | USD | High | Core Retail Sales (MoM) (Oct) | 0.4% | 0.2% | 0.1% |
+| 13:30 | USD | Low | Government Payrolls (Nov) | -5.0K |  | 4.0K |
+| 13:30 | USD | Low | Manufacturing Payrolls (Nov) | -5K | -5K | -5K |
+| 13:30 | USD | High | Nonfarm Payrolls (Nov) | 64K | 50K | -105K |
+| 13:30 | USD | Moderate | Participation Rate (Nov) | 62.5% |  | 62.4% |
+| 13:30 | USD | Moderate | Private Nonfarm Payrolls (Nov) | 69K | 45K | 52K |
+| 13:30 | USD | Moderate | Retail Control (MoM) (Oct) | 0.8% | 0.3% | -0.1% |
+| 13:30 | USD | High | Retail Sales (MoM) (Oct) | 0.0% | 0.1% | 0.1% |
+| 13:30 | USD | Low | Retail Sales (YoY) (Oct) | 3.50% |  | 4.20% |
+| 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Oct) | 0.5% |  | 0.0% |
+| 13:30 | USD | Moderate | U6 Unemployment Rate (Nov) | 8.7% |  | 8.0% |
+| 13:30 | USD | High | Unemployment Rate (Nov) | 4.6% | 4.5% | 4.4% |
+| 13:55 | USD | Low | Redbook (YoY) | 6.2% |  | 5.7% |
+| 35 min | USD | High | S&P Global Manufacturing PMI (Dec) |  | 52.0 | 52.2 |
+| 35 min | USD | Moderate | S&P Global Composite PMI (Dec) |  |  | 54.2 |
+| 35 min | USD | High | S&P Global Services PMI (Dec) |  | 54.0 | 54.1 |
+| 50 min | USD | Moderate | Business Inventories (MoM) (Sep) |  | 0.1% | 0.0% |
+| 50 min | USD | Moderate | Retail Inventories Ex Auto (Sep) |  |  | 0.0% |
 | 17:45 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 20:00 | NZD | Moderate | Westpac Consumer Sentiment |  |  | 90.9 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -79.3K |
