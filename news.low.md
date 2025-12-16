@@ -13,7 +13,7 @@
 | 05:00 | INR | S&P Global Manufacturing PMI (Dec) | 55.7 |  | 56.6 |
 | 05:00 | INR | S&P Global Services PMI (Dec) | 59.1 |  | 59.8 |
 | 05:00 | INR | Manufacturing & Services PMI (Dec) | 58.90 |  | 59.70 |
-| 07:00 | GBP | Average Earnings ex Bonus (Oct) | 4.6% |  | 4.7% |
+| 07:00 | GBP | Average Earnings ex Bonus (Oct) | 4.6% | 4.5% | 4.7% |
 | 08:15 | EUR | HCOB France Composite PMI (Dec) | 50.1 | 50.3 | 50.4 |
 | 08:30 | EUR | HCOB Germany Composite PMI (Dec) | 51.5 | 52.4 | 52.4 |
 | 08:30 | HKD | Unemployment Rate (Nov) | 3.8% |  | 3.8% |
@@ -22,10 +22,10 @@
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Nov) | 1.0% |  | 1.1% |
 | 09:00 | EUR | Italian HICP (MoM) (Nov) | -0.2% | -0.2% | -0.2% |
 | 09:00 | EUR | Italian HICP (YoY) (Nov) | 1.1% | 1.1% | 1.1% |
-| 49 min | EUR | Italian Trade Balance (Oct) |  |  | 2.852B |
-| 49 min | EUR | Italian Trade Balance EU (Oct) |  |  | -0.04B |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 11:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
+| 10:00 | EUR | Italian Trade Balance (Oct) | 4.156B | 3.210B | 2.968B |
+| 10:00 | EUR | Italian Trade Balance EU (Oct) | -1.31B |  | -0.07B |
+| 52 min | EUR | German Buba Monthly Report |  |  |  |
+| 52 min | BRL | BCB Copom Meeting Minutes |  |  |  |
 | 11:30 | GBP | Inflation Expectations |  |  | 3.6% |
 | 11:30 | EUR | Reserve Assets Total (Nov) |  |  | 1,709.78B |
 | 12:00 | NZD | GlobalDairyTrade Price Index |  |  | -4.3% |
@@ -49,6 +49,6 @@
 | 20:30 | CHF | CFTC CHF speculative net positions |  |  | -32.2K |
 | 20:30 | NZD | CFTC NZD speculative net positions |  |  | -49.3K |
 | 23:30 | AUD | MI Leading Index (MoM) |  |  | 0.1% |
-| 23:50 | JPY | Core Machinery Orders (MoM) (Oct) |  |  | 4.2% |
+| 23:50 | JPY | Core Machinery Orders (MoM) (Oct) |  | -1.8% | 4.2% |
 | 23:50 | JPY | Core Machinery Orders (YoY) (Oct) |  |  | 11.6% |
 | 23:50 | JPY | Imports (YoY) (Nov) |  |  | 0.7% |

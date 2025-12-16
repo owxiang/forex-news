@@ -14,16 +14,16 @@
 | 05:00 | INR | Low | S&P Global Manufacturing PMI (Dec) | 55.7 |  | 56.6 |
 | 05:00 | INR | Low | S&P Global Services PMI (Dec) | 59.1 |  | 59.8 |
 | 05:00 | INR | Low | Manufacturing & Services PMI (Dec) | 58.90 |  | 59.70 |
-| 07:00 | GBP | Low | Average Earnings ex Bonus (Oct) | 4.6% |  | 4.7% |
+| 07:00 | GBP | Low | Average Earnings ex Bonus (Oct) | 4.6% | 4.5% | 4.7% |
 | 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Oct) | 4.7% | 4.4% | 4.9% |
 | 07:00 | GBP | Moderate | Claimant Count Change (Nov) | 20.1K | 21.6K | -3.9K |
 | 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Oct) | -16K |  | -22K |
 | 07:00 | GBP | Moderate | Unemployment Rate (Oct) | 5.1% | 5.1% | 5.0% |
-| 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Dec) | 50.6 | 48.0 | 47.8 |
+| 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Dec) | 50.6 | 48.1 | 47.8 |
 | 08:15 | EUR | Low | HCOB France Composite PMI (Dec) | 50.1 | 50.3 | 50.4 |
-| 08:15 | EUR | Moderate | HCOB France Services PMI (Dec) | 50.2 | 51.2 | 51.4 |
+| 08:15 | EUR | Moderate | HCOB France Services PMI (Dec) | 50.2 | 51.1 | 51.4 |
 | 08:30 | EUR | Low | HCOB Germany Composite PMI (Dec) | 51.5 | 52.4 | 52.4 |
-| 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Dec) | 47.7 | 48.5 | 48.2 |
+| 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Dec) | 47.7 | 48.6 | 48.2 |
 | 08:30 | EUR | Moderate | HCOB Germany Services PMI (Dec) | 52.6 | 53.0 | 53.1 |
 | 08:30 | HKD | Low | Unemployment Rate (Nov) | 3.8% |  | 3.8% |
 | 09:00 | EUR | Low | Italian CPI (MoM) (Nov) | -0.2% | -0.2% | -0.2% |
@@ -31,53 +31,53 @@
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Nov) | 1.0% |  | 1.1% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Nov) | -0.2% | -0.2% | -0.2% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (Nov) | 1.1% | 1.1% | 1.1% |
-| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Dec) | 49.2 |  | 49.6 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Dec) | 51.9 |  | 52.8 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Dec) | 52.6 |  | 53.6 |
-| 19 min | GBP | Moderate | S&P Global Composite PMI (Dec) |  | 51.6 | 51.2 |
-| 19 min | GBP | Moderate | S&P Global Manufacturing PMI (Dec) |  | 50.4 | 50.2 |
-| 19 min | GBP | Moderate | S&P Global Services PMI (Dec) |  | 51.6 | 51.3 |
-| 49 min | EUR | Low | Italian Trade Balance (Oct) |  |  | 2.852B |
-| 49 min | EUR | Low | Italian Trade Balance EU (Oct) |  |  | -0.04B |
-| 49 min | EUR | Moderate | German ZEW Current Conditions (Dec) |  |  | -78.7 |
-| 49 min | EUR | Moderate | German ZEW Economic Sentiment (Dec) |  |  | 38.5 |
-| 49 min | EUR | Moderate | Trade Balance (Oct) |  |  | 19.4B |
-| 49 min | EUR | Moderate | ZEW Economic Sentiment (Dec) |  |  | 25.0 |
-| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 11:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
+| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Dec) | 49.2 | 49.9 | 49.6 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Dec) | 51.9 | 52.7 | 52.8 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Dec) | 52.6 | 53.3 | 53.6 |
+| 09:30 | GBP | Moderate | S&P Global Composite PMI (Dec) | 52.1 | 51.6 | 51.2 |
+| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Dec) | 51.2 | 50.3 | 50.2 |
+| 09:30 | GBP | Moderate | S&P Global Services PMI (Dec) | 52.1 | 51.6 | 51.3 |
+| 10:00 | EUR | Low | Italian Trade Balance (Oct) | 4.156B | 3.210B | 2.968B |
+| 10:00 | EUR | Low | Italian Trade Balance EU (Oct) | -1.31B |  | -0.07B |
+| 10:00 | EUR | Moderate | German ZEW Current Conditions (Dec) | -81.0 | -80.0 | -78.7 |
+| 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Dec) | 45.8 | 38.4 | 38.5 |
+| 10:00 | EUR | Moderate | Trade Balance (Oct) | 18.4B |  | 18.4B |
+| 10:00 | EUR | Moderate | ZEW Economic Sentiment (Dec) | 33.7 | 26.3 | 25.0 |
+| 52 min | EUR | Low | German Buba Monthly Report |  |  |  |
+| 52 min | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
 | 11:30 | GBP | Low | Inflation Expectations |  |  | 3.6% |
 | 11:30 | EUR | Low | Reserve Assets Total (Nov) |  |  | 1,709.78B |
 | 12:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -4.3% |
 | 12:00 | USD | Low | Milk Auctions |  |  | 3,507.0 |
 | 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 4.75K |
-| 13:30 | USD | High | Average Hourly Earnings (MoM) (Nov) |  |  | 0.2% |
+| 13:30 | USD | High | Average Hourly Earnings (MoM) (Nov) |  | 0.3% | 0.2% |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Nov) |  |  | 3.8% |
 | 13:30 | USD | Low | Average Weekly Hours (Nov) |  |  | 34.2 |
 | 13:30 | USD | Moderate | Building Permits (Sep) |  | 1.340M | 1.330M |
 | 13:30 | USD | Low | Building Permits (MoM) (Sep) |  |  | -2.3% |
-| 13:30 | USD | High | Core Retail Sales (MoM) (Oct) |  | 0.3% | 0.3% |
+| 13:30 | USD | High | Core Retail Sales (MoM) (Oct) |  | 0.2% | 0.3% |
 | 13:30 | USD | Moderate | Export Price Index (MoM) (Oct) |  |  | 0.0% |
 | 13:30 | USD | Low | Government Payrolls (Nov) |  |  | 22.0K |
 | 13:30 | USD | Moderate | Housing Starts |  | 1.320M | 1.307M |
 | 13:30 | USD | Moderate | Housing Starts (MoM) (Sep) |  |  | -8.5% |
 | 13:30 | USD | Moderate | Import Price Index (MoM) (Oct) |  |  | 0.0% |
 | 13:30 | USD | Low | Manufacturing Payrolls (Nov) |  |  | -6K |
-| 13:30 | USD | High | Nonfarm Payrolls (Nov) |  |  | 119K |
+| 13:30 | USD | High | Nonfarm Payrolls (Nov) |  | 40K | 119K |
 | 13:30 | USD | Moderate | Participation Rate (Nov) |  |  | 62.4% |
 | 13:30 | USD | Moderate | Private Nonfarm Payrolls (Nov) |  |  | 97K |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Oct) |  | 0.3% | -0.1% |
-| 13:30 | USD | High | Retail Sales (MoM) (Oct) |  | 0.2% | 0.2% |
+| 13:30 | USD | High | Retail Sales (MoM) (Oct) |  | 0.1% | 0.2% |
 | 13:30 | USD | Low | Retail Sales (YoY) (Oct) |  |  | 4.26% |
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Oct) |  |  | 0.1% |
 | 13:30 | USD | Moderate | U6 Unemployment Rate (Nov) |  |  | 8.0% |
-| 13:30 | USD | High | Unemployment Rate (Nov) |  | 4.4% | 4.4% |
+| 13:30 | USD | High | Unemployment Rate (Nov) |  | 4.5% | 4.4% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.7% |
-| 14:45 | USD | High | S&P Global Manufacturing PMI (Dec) |  |  | 52.2 |
+| 14:45 | USD | High | S&P Global Manufacturing PMI (Dec) |  | 52.0 | 52.2 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Dec) |  |  | 54.2 |
-| 14:45 | USD | High | S&P Global Services PMI (Dec) |  |  | 54.1 |
-| 15:00 | USD | Moderate | Business Inventories (MoM) (Sep) |  | 0.2% | 0.0% |
+| 14:45 | USD | High | S&P Global Services PMI (Dec) |  | 54.0 | 54.1 |
+| 15:00 | USD | Moderate | Business Inventories (MoM) (Sep) |  | 0.1% | 0.0% |
 | 15:00 | USD | Moderate | Retail Inventories Ex Auto (Sep) |  |  | 0.0% |
-| 17:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
+| 17:45 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 20:00 | NZD | Moderate | Westpac Consumer Sentiment |  |  | 90.9 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -79.3K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -2.1K |
@@ -100,11 +100,11 @@
 | 20:30 | NZD | Low | CFTC NZD speculative net positions |  |  | -49.3K |
 | 20:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | 99.0K |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -4.800M |
-| 21:45 | NZD | Moderate | Current Account (QoQ) |  |  | -0.97B |
+| 21:45 | NZD | Moderate | Current Account (QoQ) |  | -7.62B | -0.97B |
 | 23:30 | AUD | Low | MI Leading Index (MoM) |  |  | 0.1% |
-| 23:50 | JPY | Moderate | Adjusted Trade Balance |  |  | 0.00T |
-| 23:50 | JPY | Low | Core Machinery Orders (MoM) (Oct) |  |  | 4.2% |
+| 23:50 | JPY | Moderate | Adjusted Trade Balance |  | -0.20T | 0.00T |
+| 23:50 | JPY | Low | Core Machinery Orders (MoM) (Oct) |  | -1.8% | 4.2% |
 | 23:50 | JPY | Low | Core Machinery Orders (YoY) (Oct) |  |  | 11.6% |
-| 23:50 | JPY | Moderate | Exports (YoY) (Nov) |  |  | 3.6% |
+| 23:50 | JPY | Moderate | Exports (YoY) (Nov) |  | 4.8% | 3.6% |
 | 23:50 | JPY | Low | Imports (YoY) (Nov) |  |  | 0.7% |
-| 23:50 | JPY | Moderate | Trade Balance (Nov) |  |  | -226.1B |
+| 23:50 | JPY | Moderate | Trade Balance (Nov) |  | 71.2B | -231.8B |
