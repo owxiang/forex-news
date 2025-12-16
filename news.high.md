@@ -1,3 +1,11 @@
-## 15 December 2025 - High Impact Forex News
+## 16 December 2025 - High Impact Forex News
 
-There is no high impact news today.
+| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 13:30 | USD | Average Hourly Earnings (MoM) (Nov) |  |  | 0.2% |
+| 13:30 | USD | Core Retail Sales (MoM) (Oct) |  | 0.3% | 0.3% |
+| 13:30 | USD | Nonfarm Payrolls (Nov) |  |  | 119K |
+| 13:30 | USD | Retail Sales (MoM) (Oct) |  | 0.2% | 0.2% |
+| 13:30 | USD | Unemployment Rate (Nov) |  | 4.4% | 4.4% |
+| 14:45 | USD | S&P Global Manufacturing PMI (Dec) |  |  | 52.2 |
+| 14:45 | USD | S&P Global Services PMI (Dec) |  |  | 54.1 |

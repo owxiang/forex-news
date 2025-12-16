@@ -1,18 +1,53 @@
-## 15 December 2025 - Moderate Impact Forex News
+## 16 December 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | CNY | Fixed Asset Investment (YoY) (Nov) | -2.6% | -2.4% | -1.7% |
-| 02:00 | CNY | Industrial Production (YoY) (Nov) | 4.8% | 5.0% | 4.9% |
-| 02:00 | CNY | Chinese Industrial Production YTD (YoY) (Nov) | 6.0% |  | 6.1% |
-| 02:00 | CNY | Chinese Unemployment Rate (Nov) | 5.1% | 5.1% | 5.1% |
-| 02:00 | CNY | NBS Press Conference |  |  |  |
-| 06:30 | INR | WPI Inflation (YoY) (Nov) | -0.32% | -0.60% | -1.21% |
-| 07:30 | CHF | PPI (MoM) (Nov) | -0.5% |  | -0.3% |
-| 10:00 | EUR | Industrial Production (MoM) (Oct) | 0.8% |  | 0.2% |
-| 13:15 | CAD | Housing Starts (Nov) | 254.1K | 250.0K | 232.2K |
-| 13:30 | USD | NY Empire State Manufacturing Index (Dec) | -3.90 | 10.00 | 18.70 |
-| 13:30 | CAD | Core CPI (MoM) (Nov) | -0.1% |  | 0.6% |
-| 13:30 | CAD | Core CPI (YoY) (Nov) | 2.9% |  | 2.9% |
-| 13:30 | CAD | CPI (MoM) (Nov) | 0.1% | 0.1% | 0.2% |
-| 15:30 | USD | FOMC Member Williams Speaks |  |  |  |
+| 00:30 | JPY | au Jibun Bank Services PMI (Dec) | 52.5 |  | 53.2 |
+| 07:00 | GBP | Average Earnings Index +Bonus (Oct) |  |  | 4.8% |
+| 07:00 | GBP | Claimant Count Change (Nov) |  |  | 29.0K |
+| 07:00 | GBP | Employment Change 3M/3M (MoM) (Oct) |  |  | -22K |
+| 07:00 | GBP | Unemployment Rate (Oct) |  |  | 5.0% |
+| 08:15 | EUR | HCOB France Manufacturing PMI (Dec) |  |  | 47.8 |
+| 08:15 | EUR | HCOB France Services PMI (Dec) |  |  | 51.4 |
+| 08:30 | EUR | HCOB Germany Manufacturing PMI (Dec) |  |  | 48.2 |
+| 08:30 | EUR | HCOB Germany Services PMI (Dec) |  |  | 53.1 |
+| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Dec) |  |  | 49.6 |
+| 09:00 | EUR | HCOB Eurozone Composite PMI (Dec) |  |  | 52.8 |
+| 09:00 | EUR | HCOB Eurozone Services PMI (Dec) |  |  | 53.6 |
+| 09:30 | GBP | S&P Global Composite PMI (Dec) |  |  | 51.2 |
+| 09:30 | GBP | S&P Global Manufacturing PMI (Dec) |  |  | 50.2 |
+| 09:30 | GBP | S&P Global Services PMI (Dec) |  |  | 51.3 |
+| 10:00 | EUR | German ZEW Current Conditions (Dec) |  |  | -78.7 |
+| 10:00 | EUR | German ZEW Economic Sentiment (Dec) |  |  | 38.5 |
+| 10:00 | EUR | Trade Balance (Oct) |  |  | 19.4B |
+| 10:00 | EUR | ZEW Economic Sentiment (Dec) |  |  | 25.0 |
+| 13:15 | USD | ADP Employment Change Weekly |  |  | 4.75K |
+| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Nov) |  |  | 3.8% |
+| 13:30 | USD | Building Permits (Sep) |  | 1.340M | 1.330M |
+| 13:30 | USD | Export Price Index (MoM) (Oct) |  |  | 0.0% |
+| 13:30 | USD | Housing Starts |  | 1.320M | 1.307M |
+| 13:30 | USD | Housing Starts (MoM) (Sep) |  |  | -8.5% |
+| 13:30 | USD | Import Price Index (MoM) (Oct) |  |  | 0.0% |
+| 13:30 | USD | Participation Rate (Nov) |  |  | 62.4% |
+| 13:30 | USD | Private Nonfarm Payrolls (Nov) |  |  | 97K |
+| 13:30 | USD | Retail Control (MoM) (Oct) |  | 0.3% | -0.1% |
+| 13:30 | USD | U6 Unemployment Rate (Nov) |  |  | 8.0% |
+| 14:45 | USD | S&P Global Composite PMI (Dec) |  |  | 54.2 |
+| 15:00 | USD | Business Inventories (MoM) (Sep) |  | 0.2% | 0.0% |
+| 15:00 | USD | Retail Inventories Ex Auto (Sep) |  |  | 0.0% |
+| 17:30 | CAD | BoC Gov Macklem Speaks |  |  |  |
+| 20:00 | NZD | Westpac Consumer Sentiment |  |  | 90.9 |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | -79.3K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 69.2K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 210.3K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 46.4K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -147.4K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -75.9K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 53.8K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | 31.2K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 99.0K |
+| 21:30 | USD | API Weekly Crude Oil Stock |  |  | -4.800M |
+| 21:45 | NZD | Current Account (QoQ) |  |  | -0.97B |
+| 23:50 | JPY | Adjusted Trade Balance |  |  | 0.00T |
+| 23:50 | JPY | Exports (YoY) (Nov) |  |  | 3.6% |
+| 23:50 | JPY | Trade Balance (Nov) |  |  | -226.1B |

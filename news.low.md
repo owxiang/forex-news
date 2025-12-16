@@ -1,49 +1,55 @@
-## 15 December 2025 - Low Impact Forex News
+## 16 December 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Exports (YoY) (Nov) | 8.4% |  | 8.4% |
-| 00:00 | KRW | Imports (YoY) (Nov) | 1.1% |  | 1.2% |
-| 00:00 | KRW | Trade Balance (Nov) | 9.74B |  | 9.74B |
-| 00:01 | GBP | Rightmove House Price Index (MoM) | -1.8% |  | -1.8% |
-| 00:01 | GBP | Rightmove House Price Index (YoY) (Dec) | -0.6% |  | -0.5% |
-| 01:30 | CNY | House Prices (YoY) (Nov) | -2.4% |  | -2.2% |
-| 02:00 | CNY | Retail Sales (YoY) (Nov) | 1.3% | 3.0% | 2.9% |
-| 02:00 | CNY | Chinese Retail Sales YTD (YoY) (Nov) | 3.01% |  | 3.31% |
-| 04:30 | JPY | Tertiary Industry Activity Index (Oct) | -0.70 |  | 4.70 |
-| 06:30 | INR | WPI Food (YoY) (Nov) | 2.60% |  | -5.04% |
-| 06:30 | INR | WPI Fuel (YoY) (Nov) | -2.27% |  | -2.55% |
-| 06:30 | INR | WPI Manufacturing Inflation (YoY) (Nov) | 1.33% |  | 1.54% |
-| 07:00 | EUR | German WPI (MoM) (Nov) | 0.3% |  | 0.3% |
-| 07:00 | EUR | German WPI (YoY) (Nov) | 1.5% |  | 1.1% |
-| 07:00 | NOK | Trade Balance (Nov) | 41.3B |  | 56.1B |
-| 07:30 | CHF | SECO Economic Forecasts |  |  |  |
-| 07:30 | CHF | PPI (YoY) (Nov) | -1.6% |  | -1.7% |
-| 07:30 | INR | Exports (USD) (Nov) | 38.13B |  | 34.38B |
-| 07:30 | INR | Imports (USD) (Nov) | 62.66B |  | 76.06B |
-| 07:30 | INR | Trade Balance (Nov) | -24.53B |  | -41.68B |
-| 08:00 | ZAR | SARB Quarterly Bulletin |  |  |  |
-| 08:30 | HKD | Industrial Production (YoY) (Q3) | 5.40% |  | 0.80% |
-| 08:30 | HKD | PPI (YoY) (Q3) | 7.70% |  | 4.00% |
-| 10:00 | EUR | Industrial Production (YoY) (Oct) | 2.0% |  | 1.2% |
+| 00:00 | NZD | Budget Balance (Jul) | -14.800B |  | -9.990B |
+| 00:00 | NZD | Net Debt Forecast (Jul) | 43.30% |  | 42.70% |
+| 00:00 | NZD | Economic Forecast (Jul) | -16.930B |  | -14.740B |
+| 00:30 | JPY | Manufacturing & Services PMI (Dec) | 51.50 |  | 52.00 |
+| 00:30 | JPY | au Jibun Bank Manufacturing PMI (Dec) | 49.7 |  | 48.7 |
+| 02:00 | NZD | Credit Card Spending (YoY) (Nov) |  |  | 1.4% |
+| 02:00 | NZD | RBNZ Offshore Holdings (Nov) |  |  | 58.60% |
+| 03:00 | KRW | M3 Money Supply (Oct) |  |  | 5,998.5B |
+| 03:00 | KRW | M2 Money supply (Oct) |  |  | 7.20% |
+| 05:00 | INR | S&P Global Manufacturing PMI (Dec) |  |  | 56.6 |
+| 05:00 | INR | S&P Global Services PMI (Dec) |  |  | 59.8 |
+| 05:00 | INR | Manufacturing & Services PMI (Dec) |  |  | 59.70 |
+| 07:00 | GBP | Average Earnings ex Bonus (Oct) |  |  | 4.6% |
+| 08:15 | EUR | HCOB France Composite PMI (Dec) |  |  | 50.4 |
+| 08:30 | EUR | HCOB Germany Composite PMI (Dec) |  |  | 52.4 |
+| 08:30 | HKD | Unemployment Rate (Nov) |  |  | 3.8% |
+| 09:00 | EUR | Italian CPI (MoM) (Nov) |  | -0.2% | -0.2% |
+| 09:00 | EUR | Italian CPI (YoY) (Nov) |  | 1.2% | 1.2% |
+| 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Nov) |  |  | 1.1% |
+| 09:00 | EUR | Italian HICP (MoM) (Nov) |  | -0.2% | -0.2% |
+| 09:00 | EUR | Italian HICP (YoY) (Nov) |  | 1.1% | 1.1% |
+| 10:00 | EUR | Italian Trade Balance (Oct) |  |  | 2.852B |
+| 10:00 | EUR | Italian Trade Balance EU (Oct) |  |  | -0.04B |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 11:00 | BRL | IGP-10 Inflation Index (MoM) (Dec) | 0.0% |  | 0.2% |
-| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:00 | BRL | IBC-Br Economic Activity (Oct) | -0.20% |  | -0.20% |
-| 13:30 | CAD | Common CPI (YoY) (Nov) | 2.8% | 2.8% | 2.7% |
-| 13:30 | CAD | CPI (YoY) (Nov) | 2.2% | 2.3% | 2.2% |
-| 13:30 | CAD | Manufacturing Sales (MoM) (Oct) | -1.0% | -1.1% | 3.6% |
-| 13:30 | CAD | Median CPI (YoY) (Nov) | 2.8% | 2.9% | 3.0% |
-| 13:30 | CAD | Trimmed CPI (YoY) (Nov) | 2.8% | 2.9% | 3.0% |
-| 14:00 | EUR | French 12-Month BTF Auction | 2.146% |  | 2.148% |
-| 14:00 | EUR | French 3-Month BTF Auction | 2.079% |  | 2.088% |
-| 14:00 | EUR | French 6-Month BTF Auction | 2.117% |  | 2.103% |
-| 15:00 | USD | NAHB Housing Market Index (Dec) | 39 | 39 | 38 |
-| 16:30 | USD | 3-Month Bill Auction | 3.560% |  | 3.650% |
-| 16:30 | USD | 6-Month Bill Auction | 3.495% |  | 3.580% |
-| 21:45 | NZD | FPI (MoM) (Nov) | -0.4% |  | -0.3% |
-| 22:00 | AUD | Manufacturing & Services PMI (Dec) | 51.10 |  | 52.60 |
-| 22:00 | AUD | Judo Bank Manufacturing PMI (Dec) | 52.2 |  | 51.6 |
-| 22:00 | AUD | Judo Bank Services PMI (Dec) | 51.0 |  | 52.8 |
-| 22:15 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
-| 22 min | AUD | Westpac Consumer Sentiment (Dec) |  |  | 12.8% |
+| 11:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
+| 11:30 | GBP | Inflation Expectations |  |  | 3.6% |
+| 11:30 | EUR | Reserve Assets Total (Nov) |  |  | 1,709.78B |
+| 12:00 | NZD | GlobalDairyTrade Price Index |  |  | -4.3% |
+| 12:00 | USD | Milk Auctions |  |  | 3,507.0 |
+| 13:30 | USD | Average Weekly Hours (Nov) |  |  | 34.2 |
+| 13:30 | USD | Building Permits (MoM) (Sep) |  |  | -2.3% |
+| 13:30 | USD | Government Payrolls (Nov) |  |  | 22.0K |
+| 13:30 | USD | Manufacturing Payrolls (Nov) |  |  | -6K |
+| 13:30 | USD | Retail Sales (YoY) (Oct) |  |  | 4.26% |
+| 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Oct) |  |  | 0.1% |
+| 13:55 | USD | Redbook (YoY) |  |  | 5.7% |
+| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -2.1K |
+| 20:30 | USD | CFTC Copper speculative net positions |  |  | 52.0K |
+| 20:30 | USD | CFTC Corn speculative net positions |  |  | 120.9K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -137.7K |
+| 20:30 | USD | CFTC Silver speculative net positions |  |  | 34.0K |
+| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 254.1K |
+| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -29.3K |
+| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -149.1K |
+| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 95.8K |
+| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -32.2K |
+| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -49.3K |
+| 23:30 | AUD | MI Leading Index (MoM) |  |  | 0.1% |
+| 23:50 | JPY | Core Machinery Orders (MoM) (Oct) |  |  | 4.2% |
+| 23:50 | JPY | Core Machinery Orders (YoY) (Oct) |  |  | 11.6% |
+| 23:50 | JPY | Imports (YoY) (Nov) |  |  | 0.7% |
