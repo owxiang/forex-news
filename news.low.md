@@ -2,13 +2,13 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | NZD | Budget Balance (Jul) | -14.800B |  | -9.990B |
+| 00:00 | NZD | Budget Balance (Jul) | -14.800B |  | -10.000B |
 | 00:00 | NZD | Net Debt Forecast (Jul) | 43.30% |  | 42.70% |
 | 00:00 | NZD | Economic Forecast (Jul) | -16.930B |  | -14.740B |
 | 00:30 | JPY | Manufacturing & Services PMI (Dec) | 51.50 |  | 52.00 |
-| 00:30 | JPY | au Jibun Bank Manufacturing PMI (Dec) | 49.7 |  | 48.7 |
-| 02:00 | NZD | Credit Card Spending (YoY) (Nov) |  |  | 1.4% |
-| 02:00 | NZD | RBNZ Offshore Holdings (Nov) |  |  | 58.60% |
+| 00:30 | JPY | au Jibun Bank Manufacturing PMI (Dec) | 49.7 | 49.0 | 48.7 |
+| 23 min | NZD | Credit Card Spending (YoY) (Nov) |  |  | 1.4% |
+| 23 min | NZD | RBNZ Offshore Holdings (Nov) |  |  | 58.60% |
 | 03:00 | KRW | M3 Money Supply (Oct) |  |  | 5,998.5B |
 | 03:00 | KRW | M2 Money supply (Oct) |  |  | 7.20% |
 | 05:00 | INR | S&P Global Manufacturing PMI (Dec) |  |  | 56.6 |
