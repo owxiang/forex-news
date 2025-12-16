@@ -47,6 +47,7 @@
 | 20:30 | MXN | CFTC MXN speculative net positions |  |  | 95.8K |
 | 20:30 | CHF | CFTC CHF speculative net positions |  |  | -32.2K |
 | 20:30 | NZD | CFTC NZD speculative net positions |  |  | -49.3K |
+| 21:45 | NZD | Current Account % of GDP (Q3) | -3.50% |  | -3.50% |
 | 23:30 | AUD | MI Leading Index (MoM) |  |  | 0.1% |
 | 23:50 | JPY | Core Machinery Orders (MoM) (Oct) |  | -1.8% | 4.2% |
 | 23:50 | JPY | Core Machinery Orders (YoY) (Oct) |  | 3.6% | 11.6% |

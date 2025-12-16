@@ -98,8 +98,10 @@
 | 20:30 | JPY | Moderate | CFTC JPY speculative net positions |  |  | 31.2K |
 | 20:30 | NZD | Low | CFTC NZD speculative net positions |  |  | -49.3K |
 | 20:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | 99.0K |
-| 23 min | USD | Moderate | API Weekly Crude Oil Stock |  | -2.200M | -4.800M |
-| 38 min | NZD | Moderate | Current Account (QoQ) |  | -7.62B | -0.97B |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.200M | -4.800M |
+| 21:45 | NZD | Moderate | Current Account (QoQ) (Q3) | -8.37B | -7.62B | -1.30B |
+| 21:45 | NZD | Moderate | Current Account (YoY) (Q3) | -15.37B |  | -15.37B |
+| 21:45 | NZD | Low | Current Account % of GDP (Q3) | -3.50% |  | -3.50% |
 | 23:30 | AUD | Low | MI Leading Index (MoM) |  |  | 0.1% |
 | 23:50 | JPY | Moderate | Adjusted Trade Balance |  | -0.20T | 0.00T |
 | 23:50 | JPY | Low | Core Machinery Orders (MoM) (Oct) |  | -1.8% | 4.2% |

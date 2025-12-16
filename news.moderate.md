@@ -44,8 +44,9 @@
 | 20:30 | BRL | CFTC BRL speculative net positions |  |  | 53.8K |
 | 20:30 | JPY | CFTC JPY speculative net positions |  |  | 31.2K |
 | 20:30 | EUR | CFTC EUR speculative net positions |  |  | 99.0K |
-| 23 min | USD | API Weekly Crude Oil Stock |  | -2.200M | -4.800M |
-| 38 min | NZD | Current Account (QoQ) |  | -7.62B | -0.97B |
+| 21:30 | USD | API Weekly Crude Oil Stock |  | -2.200M | -4.800M |
+| 21:45 | NZD | Current Account (QoQ) (Q3) | -8.37B | -7.62B | -1.30B |
+| 21:45 | NZD | Current Account (YoY) (Q3) | -15.37B |  | -15.37B |
 | 23:50 | JPY | Adjusted Trade Balance |  | -0.20T | 0.00T |
 | 23:50 | JPY | Exports (YoY) (Nov) |  | 4.8% | 3.6% |
 | 23:50 | JPY | Trade Balance (Nov) |  | 71.2B | -231.8B |
