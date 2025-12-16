@@ -102,7 +102,7 @@
 | 23:30 | AUD | Low | MI Leading Index (MoM) |  |  | 0.1% |
 | 23:50 | JPY | Moderate | Adjusted Trade Balance |  | -0.20T | 0.00T |
 | 23:50 | JPY | Low | Core Machinery Orders (MoM) (Oct) |  | -1.8% | 4.2% |
-| 23:50 | JPY | Low | Core Machinery Orders (YoY) (Oct) |  |  | 11.6% |
+| 23:50 | JPY | Low | Core Machinery Orders (YoY) (Oct) |  | 3.6% | 11.6% |
 | 23:50 | JPY | Moderate | Exports (YoY) (Nov) |  | 4.8% | 3.6% |
-| 23:50 | JPY | Low | Imports (YoY) (Nov) |  |  | 0.7% |
+| 23:50 | JPY | Low | Imports (YoY) (Nov) |  | 2.5% | 0.7% |
 | 23:50 | JPY | Moderate | Trade Balance (Nov) |  | 71.2B | -231.8B |
