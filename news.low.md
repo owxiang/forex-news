@@ -14,16 +14,16 @@
 | 05:00 | INR | S&P Global Services PMI (Dec) | 59.1 |  | 59.8 |
 | 05:00 | INR | Manufacturing & Services PMI (Dec) | 58.90 |  | 59.70 |
 | 07:00 | GBP | Average Earnings ex Bonus (Oct) | 4.6% |  | 4.7% |
-| 4 min | EUR | HCOB France Composite PMI (Dec) |  |  | 50.4 |
-| 19 min | EUR | HCOB Germany Composite PMI (Dec) |  |  | 52.4 |
-| 19 min | HKD | Unemployment Rate (Nov) |  |  | 3.8% |
-| 49 min | EUR | Italian CPI (MoM) (Nov) |  | -0.2% | -0.2% |
-| 49 min | EUR | Italian CPI (YoY) (Nov) |  | 1.2% | 1.2% |
-| 49 min | EUR | Italian CPI Ex Tobacco (YoY) (Nov) |  |  | 1.1% |
-| 49 min | EUR | Italian HICP (MoM) (Nov) |  | -0.2% | -0.2% |
-| 49 min | EUR | Italian HICP (YoY) (Nov) |  | 1.1% | 1.1% |
-| 10:00 | EUR | Italian Trade Balance (Oct) |  |  | 2.852B |
-| 10:00 | EUR | Italian Trade Balance EU (Oct) |  |  | -0.04B |
+| 08:15 | EUR | HCOB France Composite PMI (Dec) | 50.1 | 50.3 | 50.4 |
+| 08:30 | EUR | HCOB Germany Composite PMI (Dec) | 51.5 | 52.4 | 52.4 |
+| 08:30 | HKD | Unemployment Rate (Nov) | 3.8% |  | 3.8% |
+| 09:00 | EUR | Italian CPI (MoM) (Nov) | -0.2% | -0.2% | -0.2% |
+| 09:00 | EUR | Italian CPI (YoY) (Nov) | 1.1% | 1.2% | 1.2% |
+| 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Nov) | 1.0% |  | 1.1% |
+| 09:00 | EUR | Italian HICP (MoM) (Nov) | -0.2% | -0.2% | -0.2% |
+| 09:00 | EUR | Italian HICP (YoY) (Nov) | 1.1% | 1.1% | 1.1% |
+| 49 min | EUR | Italian Trade Balance (Oct) |  |  | 2.852B |
+| 49 min | EUR | Italian Trade Balance EU (Oct) |  |  | -0.04B |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 11:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
 | 11:30 | GBP | Inflation Expectations |  |  | 3.6% |

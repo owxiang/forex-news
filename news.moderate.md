@@ -3,24 +3,24 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | au Jibun Bank Services PMI (Dec) | 52.5 |  | 53.2 |
-| 07:00 | GBP | Average Earnings Index +Bonus (Oct) | 4.7% |  | 4.9% |
-| 07:00 | GBP | Claimant Count Change (Nov) | 20.1K |  | -3.9K |
+| 07:00 | GBP | Average Earnings Index +Bonus (Oct) | 4.7% | 4.4% | 4.9% |
+| 07:00 | GBP | Claimant Count Change (Nov) | 20.1K | 21.6K | -3.9K |
 | 07:00 | GBP | Employment Change 3M/3M (MoM) (Oct) | -16K |  | -22K |
-| 07:00 | GBP | Unemployment Rate (Oct) | 5.1% |  | 5.0% |
-| 4 min | EUR | HCOB France Manufacturing PMI (Dec) |  |  | 47.8 |
-| 4 min | EUR | HCOB France Services PMI (Dec) |  |  | 51.4 |
-| 19 min | EUR | HCOB Germany Manufacturing PMI (Dec) |  |  | 48.2 |
-| 19 min | EUR | HCOB Germany Services PMI (Dec) |  |  | 53.1 |
-| 49 min | EUR | HCOB Eurozone Manufacturing PMI (Dec) |  |  | 49.6 |
-| 49 min | EUR | HCOB Eurozone Composite PMI (Dec) |  |  | 52.8 |
-| 49 min | EUR | HCOB Eurozone Services PMI (Dec) |  |  | 53.6 |
-| 09:30 | GBP | S&P Global Composite PMI (Dec) |  |  | 51.2 |
-| 09:30 | GBP | S&P Global Manufacturing PMI (Dec) |  |  | 50.2 |
-| 09:30 | GBP | S&P Global Services PMI (Dec) |  |  | 51.3 |
-| 10:00 | EUR | German ZEW Current Conditions (Dec) |  |  | -78.7 |
-| 10:00 | EUR | German ZEW Economic Sentiment (Dec) |  |  | 38.5 |
-| 10:00 | EUR | Trade Balance (Oct) |  |  | 19.4B |
-| 10:00 | EUR | ZEW Economic Sentiment (Dec) |  |  | 25.0 |
+| 07:00 | GBP | Unemployment Rate (Oct) | 5.1% | 5.1% | 5.0% |
+| 08:15 | EUR | HCOB France Manufacturing PMI (Dec) | 50.6 | 48.0 | 47.8 |
+| 08:15 | EUR | HCOB France Services PMI (Dec) | 50.2 | 51.2 | 51.4 |
+| 08:30 | EUR | HCOB Germany Manufacturing PMI (Dec) | 47.7 | 48.5 | 48.2 |
+| 08:30 | EUR | HCOB Germany Services PMI (Dec) | 52.6 | 53.0 | 53.1 |
+| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Dec) | 49.2 |  | 49.6 |
+| 09:00 | EUR | HCOB Eurozone Composite PMI (Dec) | 51.9 |  | 52.8 |
+| 09:00 | EUR | HCOB Eurozone Services PMI (Dec) | 52.6 |  | 53.6 |
+| 19 min | GBP | S&P Global Composite PMI (Dec) |  | 51.6 | 51.2 |
+| 19 min | GBP | S&P Global Manufacturing PMI (Dec) |  | 50.4 | 50.2 |
+| 19 min | GBP | S&P Global Services PMI (Dec) |  | 51.6 | 51.3 |
+| 49 min | EUR | German ZEW Current Conditions (Dec) |  |  | -78.7 |
+| 49 min | EUR | German ZEW Economic Sentiment (Dec) |  |  | 38.5 |
+| 49 min | EUR | Trade Balance (Oct) |  |  | 19.4B |
+| 49 min | EUR | ZEW Economic Sentiment (Dec) |  |  | 25.0 |
 | 13:15 | USD | ADP Employment Change Weekly |  |  | 4.75K |
 | 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Nov) |  |  | 3.8% |
 | 13:30 | USD | Building Permits (Sep) |  | 1.340M | 1.330M |

@@ -15,34 +15,34 @@
 | 05:00 | INR | Low | S&P Global Services PMI (Dec) | 59.1 |  | 59.8 |
 | 05:00 | INR | Low | Manufacturing & Services PMI (Dec) | 58.90 |  | 59.70 |
 | 07:00 | GBP | Low | Average Earnings ex Bonus (Oct) | 4.6% |  | 4.7% |
-| 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Oct) | 4.7% |  | 4.9% |
-| 07:00 | GBP | Moderate | Claimant Count Change (Nov) | 20.1K |  | -3.9K |
+| 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Oct) | 4.7% | 4.4% | 4.9% |
+| 07:00 | GBP | Moderate | Claimant Count Change (Nov) | 20.1K | 21.6K | -3.9K |
 | 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Oct) | -16K |  | -22K |
-| 07:00 | GBP | Moderate | Unemployment Rate (Oct) | 5.1% |  | 5.0% |
-| 4 min | EUR | Moderate | HCOB France Manufacturing PMI (Dec) |  |  | 47.8 |
-| 4 min | EUR | Low | HCOB France Composite PMI (Dec) |  |  | 50.4 |
-| 4 min | EUR | Moderate | HCOB France Services PMI (Dec) |  |  | 51.4 |
-| 19 min | EUR | Low | HCOB Germany Composite PMI (Dec) |  |  | 52.4 |
-| 19 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Dec) |  |  | 48.2 |
-| 19 min | EUR | Moderate | HCOB Germany Services PMI (Dec) |  |  | 53.1 |
-| 19 min | HKD | Low | Unemployment Rate (Nov) |  |  | 3.8% |
-| 49 min | EUR | Low | Italian CPI (MoM) (Nov) |  | -0.2% | -0.2% |
-| 49 min | EUR | Low | Italian CPI (YoY) (Nov) |  | 1.2% | 1.2% |
-| 49 min | EUR | Low | Italian CPI Ex Tobacco (YoY) (Nov) |  |  | 1.1% |
-| 49 min | EUR | Low | Italian HICP (MoM) (Nov) |  | -0.2% | -0.2% |
-| 49 min | EUR | Low | Italian HICP (YoY) (Nov) |  | 1.1% | 1.1% |
-| 49 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Dec) |  |  | 49.6 |
-| 49 min | EUR | Moderate | HCOB Eurozone Composite PMI (Dec) |  |  | 52.8 |
-| 49 min | EUR | Moderate | HCOB Eurozone Services PMI (Dec) |  |  | 53.6 |
-| 09:30 | GBP | Moderate | S&P Global Composite PMI (Dec) |  |  | 51.2 |
-| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Dec) |  |  | 50.2 |
-| 09:30 | GBP | Moderate | S&P Global Services PMI (Dec) |  |  | 51.3 |
-| 10:00 | EUR | Low | Italian Trade Balance (Oct) |  |  | 2.852B |
-| 10:00 | EUR | Low | Italian Trade Balance EU (Oct) |  |  | -0.04B |
-| 10:00 | EUR | Moderate | German ZEW Current Conditions (Dec) |  |  | -78.7 |
-| 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Dec) |  |  | 38.5 |
-| 10:00 | EUR | Moderate | Trade Balance (Oct) |  |  | 19.4B |
-| 10:00 | EUR | Moderate | ZEW Economic Sentiment (Dec) |  |  | 25.0 |
+| 07:00 | GBP | Moderate | Unemployment Rate (Oct) | 5.1% | 5.1% | 5.0% |
+| 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Dec) | 50.6 | 48.0 | 47.8 |
+| 08:15 | EUR | Low | HCOB France Composite PMI (Dec) | 50.1 | 50.3 | 50.4 |
+| 08:15 | EUR | Moderate | HCOB France Services PMI (Dec) | 50.2 | 51.2 | 51.4 |
+| 08:30 | EUR | Low | HCOB Germany Composite PMI (Dec) | 51.5 | 52.4 | 52.4 |
+| 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Dec) | 47.7 | 48.5 | 48.2 |
+| 08:30 | EUR | Moderate | HCOB Germany Services PMI (Dec) | 52.6 | 53.0 | 53.1 |
+| 08:30 | HKD | Low | Unemployment Rate (Nov) | 3.8% |  | 3.8% |
+| 09:00 | EUR | Low | Italian CPI (MoM) (Nov) | -0.2% | -0.2% | -0.2% |
+| 09:00 | EUR | Low | Italian CPI (YoY) (Nov) | 1.1% | 1.2% | 1.2% |
+| 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Nov) | 1.0% |  | 1.1% |
+| 09:00 | EUR | Low | Italian HICP (MoM) (Nov) | -0.2% | -0.2% | -0.2% |
+| 09:00 | EUR | Low | Italian HICP (YoY) (Nov) | 1.1% | 1.1% | 1.1% |
+| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Dec) | 49.2 |  | 49.6 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Dec) | 51.9 |  | 52.8 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Dec) | 52.6 |  | 53.6 |
+| 19 min | GBP | Moderate | S&P Global Composite PMI (Dec) |  | 51.6 | 51.2 |
+| 19 min | GBP | Moderate | S&P Global Manufacturing PMI (Dec) |  | 50.4 | 50.2 |
+| 19 min | GBP | Moderate | S&P Global Services PMI (Dec) |  | 51.6 | 51.3 |
+| 49 min | EUR | Low | Italian Trade Balance (Oct) |  |  | 2.852B |
+| 49 min | EUR | Low | Italian Trade Balance EU (Oct) |  |  | -0.04B |
+| 49 min | EUR | Moderate | German ZEW Current Conditions (Dec) |  |  | -78.7 |
+| 49 min | EUR | Moderate | German ZEW Economic Sentiment (Dec) |  |  | 38.5 |
+| 49 min | EUR | Moderate | Trade Balance (Oct) |  |  | 19.4B |
+| 49 min | EUR | Moderate | ZEW Economic Sentiment (Dec) |  |  | 25.0 |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
 | 11:30 | GBP | Low | Inflation Expectations |  |  | 3.6% |
