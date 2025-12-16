@@ -36,19 +36,19 @@
 | 13:30 | USD | Retail Sales (YoY) (Oct) | 3.47% |  | 4.18% |
 | 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Oct) | 0.5% |  | 0.0% |
 | 13:55 | USD | Redbook (YoY) | 6.2% |  | 5.7% |
-| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -2.1K |
-| 20:30 | USD | CFTC Copper speculative net positions |  |  | 52.0K |
-| 20:30 | USD | CFTC Corn speculative net positions |  |  | 120.9K |
-| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -137.7K |
-| 20:30 | USD | CFTC Silver speculative net positions |  |  | 34.0K |
-| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 254.1K |
-| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -29.3K |
-| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -149.1K |
-| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 95.8K |
-| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -32.2K |
-| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -49.3K |
+| 20:30 | USD | CFTC Aluminium speculative net positions | -2.1K |  | -2.1K |
+| 20:30 | USD | CFTC Copper speculative net positions | 43.6K |  | 52.0K |
+| 20:30 | USD | CFTC Corn speculative net positions | 58.7K |  | 120.9K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions | -138.4K |  | -137.7K |
+| 20:30 | USD | CFTC Silver speculative net positions | 32.2K |  | 34.0K |
+| 20:30 | USD | CFTC Soybeans speculative net positions | 239.8K |  | 254.1K |
+| 20:30 | USD | CFTC Wheat speculative net positions | -35.4K |  | -29.3K |
+| 20:30 | CAD | CFTC CAD speculative net positions | -150.4K |  | -149.1K |
+| 20:30 | MXN | CFTC MXN speculative net positions | 95.2K |  | 95.8K |
+| 20:30 | CHF | CFTC CHF speculative net positions | -35.4K |  | -32.2K |
+| 20:30 | NZD | CFTC NZD speculative net positions | -52.1K |  | -49.3K |
 | 21:45 | NZD | Current Account % of GDP (Q3) | -3.50% |  | -3.50% |
-| 23:30 | AUD | MI Leading Index (MoM) |  |  | 0.1% |
-| 23:50 | JPY | Core Machinery Orders (MoM) (Oct) |  | -1.8% | 4.2% |
-| 23:50 | JPY | Core Machinery Orders (YoY) (Oct) |  | 3.6% | 11.6% |
-| 23:50 | JPY | Imports (YoY) (Nov) |  | 2.5% | 0.7% |
+| 23 min | AUD | MI Leading Index (MoM) |  |  | 0.1% |
+| 43 min | JPY | Core Machinery Orders (MoM) (Oct) |  | -1.8% | 4.2% |
+| 43 min | JPY | Core Machinery Orders (YoY) (Oct) |  | 3.6% | 11.6% |
+| 43 min | JPY | Imports (YoY) (Nov) |  | 2.5% | 0.7% |
