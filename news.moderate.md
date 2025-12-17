@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | GBP | CPI (MoM) (Nov) |  | 0.0% | 0.4% |
-| 07:00 | GBP | PPI Input (MoM) (Nov) |  | 0.2% | -0.3% |
+| 49 min | GBP | CPI (MoM) (Nov) |  | 0.0% | 0.4% |
+| 49 min | GBP | PPI Input (MoM) (Nov) |  | 0.2% | -0.3% |
 | 07:30 | IDR | Interest Rate Decision |  | 4.75% | 4.75% |
 | 09:00 | EUR | German Business Expectations (Dec) |  | 90.5 | 90.6 |
 | 09:00 | EUR | German Current Assessment (Dec) |  | 85.7 | 85.6 |
