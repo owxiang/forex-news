@@ -17,4 +17,4 @@
 | 15:30 | USD | Cushing Crude Oil Inventories | -0.742M |  | 0.308M |
 | 17:30 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 18:00 | USD | 20-Year Bond Auction | 4.798% |  | 4.706% |
-| 21:45 | NZD | GDP (QoQ) (Q3) |  | 0.9% | -0.9% |
+| 38 min | NZD | GDP (QoQ) (Q3) |  | 0.9% | -0.9% |

@@ -69,9 +69,9 @@
 | 17:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 17:30 | BRL | Low | Foreign Exchange Flows | -1.601B |  | 0.020B |
 | 18:00 | USD | Moderate | 20-Year Bond Auction | 4.798% |  | 4.706% |
-| 21:45 | NZD | Moderate | GDP (QoQ) (Q3) |  | 0.9% | -0.9% |
-| 21:45 | NZD | Low | GDP (YoY) (Q3) |  | 1.3% | -0.6% |
-| 21:45 | NZD | Low | GDP Annual Average (Q3) |  |  | -1.1% |
-| 21:45 | NZD | Low | GDP Expenditure (QoQ) (Q3) |  |  | -0.9% |
+| 38 min | NZD | Moderate | GDP (QoQ) (Q3) |  | 0.9% | -0.9% |
+| 38 min | NZD | Low | GDP (YoY) (Q3) |  | 1.3% | -0.6% |
+| 38 min | NZD | Low | GDP Annual Average (Q3) |  |  | -1.1% |
+| 38 min | NZD | Low | GDP Expenditure (QoQ) (Q3) |  |  | -0.9% |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | 452.9B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 96.8B |
