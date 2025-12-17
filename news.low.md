@@ -6,8 +6,8 @@
 | 00:30 | SGD | Non-Oil Exports (MoM) (Nov) | 6.60% |  | 8.80% |
 | 00:30 | SGD | Non-Oil Exports (YoY) (Nov) | 11.60% |  | 21.70% |
 | 01:30 | SGD | Trade Balance (Nov) | 7.669B |  | 7.168B |
-| 07:00 | GBP | Core CPI (MoM) (Nov) | -0.2% |  | 0.3% |
 | 07:00 | GBP | Core CPI (YoY) (Nov) | 3.2% | 3.4% | 3.4% |
+| 07:00 | GBP | Core CPI (MoM) (Nov) | -0.2% |  | 0.3% |
 | 07:00 | GBP | Core PPI Output (YoY) (Nov) | 3.5% |  | 3.6% |
 | 07:00 | GBP | Core PPI Output (MoM) (Nov) | 0.0% |  | 0.1% |
 | 07:00 | GBP | Core RPI (YoY) (Nov) | 3.7% |  | 4.2% |
@@ -18,7 +18,7 @@
 | 07:00 | GBP | PPI Output (YoY) (Nov) | 3.4% |  | 3.6% |
 | 07:00 | GBP | PPI Output (MoM) (Nov) | 0.1% | 0.1% | 0.1% |
 | 07:00 | GBP | RPI (YoY) (Nov) | 3.8% | 4.2% | 4.3% |
-| 07:00 | GBP | RPI (MoM) (Nov) | -0.5% |  | 0.3% |
+| 07:00 | GBP | RPI (MoM) (Nov) | -0.4% |  | 0.3% |
 | 07:00 | ZAR | Leading Indicators (Oct) | 116.70% |  | 116.30% |
 | 07:30 | IDR | Deposit Facility Rate (Dec) | 3.75% | 3.75% | 3.75% |
 | 07:30 | IDR | Lending Facility Rate (Dec) | 5.50% | 5.50% | 5.50% |
@@ -27,15 +27,15 @@
 | 08:00 | ZAR | Core CPI (YoY) (Nov) | 3.2% |  | 3.1% |
 | 08:00 | ZAR | CPI (MoM) (Nov) | -0.1% |  | 0.1% |
 | 08:00 | ZAR | CPI (YoY) (Nov) | 3.5% | 3.6% | 3.6% |
-| 19 min | GBP | House Price Index (YoY) |  | 2.4% | 2.6% |
-| 49 min | EUR | Core CPI (MoM) (Nov) |  | -0.5% | -0.5% |
-| 49 min | EUR | CPI ex Tobacco (YoY) (Nov) |  |  | 2.1% |
-| 49 min | EUR | CPI ex Tobacco (MoM) (Nov) |  |  | 0.2% |
-| 49 min | EUR | CPI, n.s.a |  | 129.35 | 129.70 |
-| 49 min | EUR | HICP ex Energy & Food (YoY) (Nov) |  | 2.4% | 2.4% |
-| 49 min | EUR | HICP ex Energy and Food (MoM) (Nov) |  | -0.4% | 0.2% |
-| 49 min | EUR | Labor Cost Index (YoY) (Q3) |  | 3.50% | 3.60% |
-| 11:00 | GBP | CBI Industrial Trends Orders (Dec) |  | -35 | -37 |
+| 10:00 | EUR | Core CPI (MoM) (Nov) | -0.5% | -0.5% | -0.5% |
+| 10:00 | EUR | CPI ex Tobacco (MoM) (Nov) | -0.3% |  | 0.2% |
+| 10:00 | EUR | CPI ex Tobacco (YoY) (Nov) | 2.1% |  | 2.1% |
+| 10:00 | EUR | CPI, n.s.a |  | 129.35 | 129.70 |
+| 10:00 | EUR | HICP ex Energy & Food (YoY) (Nov) | 2.4% | 2.4% | 2.4% |
+| 10:00 | EUR | HICP ex Energy and Food (MoM) (Nov) | -0.4% | -0.4% | 0.2% |
+| 10:00 | EUR | Labor Cost Index (YoY) (Q3) | 3.30% | 3.50% | 3.60% |
+| 52 min | GBP | CBI Industrial Trends Orders (Dec) |  | -35 | -37 |
+| 11:30 | GBP | House Price Index (YoY) |  | 2.4% | 2.6% |
 | 11:30 | EUR | Reserve Assets Total (Nov) |  |  | 1,709.78B |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.33% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 4.8% |

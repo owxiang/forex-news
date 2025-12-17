@@ -3,5 +3,5 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 07:00 | GBP | CPI (YoY) (Nov) | 3.2% | 3.5% | 3.6% |
-| 49 min | EUR | CPI (YoY) (Nov) |  | 2.2% | 2.2% |
+| 10:00 | EUR | CPI (YoY) (Nov) | 2.1% | 2.2% | 2.2% |
 | 15:30 | USD | Crude Oil Inventories |  | -2.400M | -1.812M |
