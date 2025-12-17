@@ -6,22 +6,22 @@
 | 00:30 | SGD | Low | Non-Oil Exports (MoM) (Nov) | 6.60% |  | 8.80% |
 | 00:30 | SGD | Low | Non-Oil Exports (YoY) (Nov) | 11.60% |  | 21.70% |
 | 01:30 | SGD | Low | Trade Balance (Nov) | 7.669B |  | 7.168B |
-| 07:00 | GBP | Low | Core CPI (MoM) (Nov) | -0.2% |  | 0.3% |
 | 07:00 | GBP | Low | Core CPI (YoY) (Nov) | 3.2% | 3.4% | 3.4% |
-| 07:00 | GBP | Low | Core PPI Output (MoM) (Nov) | 0.0% |  | 0.1% |
+| 07:00 | GBP | Low | Core CPI (MoM) (Nov) | -0.2% |  | 0.3% |
 | 07:00 | GBP | Low | Core PPI Output (YoY) (Nov) | 3.5% |  | 3.6% |
+| 07:00 | GBP | Low | Core PPI Output (MoM) (Nov) | 0.0% |  | 0.1% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Nov) | 3.7% |  | 4.2% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Nov) | -0.5% |  | 0.3% |
 | 07:00 | GBP | High | CPI (YoY) (Nov) | 3.2% | 3.5% | 3.6% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Nov) | -0.2% | 0.0% | 0.4% |
 | 07:00 | GBP | Low | CPI, n.s.a (Nov) | 139.50 |  | 139.80 |
 | 07:00 | GBP | Low | Inflation Expectations | 3.2% | 3.5% | 3.6% |
-| 07:00 | GBP | Moderate | PPI Input (MoM) (Nov) | 0.3% | 0.2% | 0.0% |
 | 07:00 | GBP | Low | PPI Input (YoY) (Nov) | 1.1% | 0.4% | 0.8% |
+| 07:00 | GBP | Moderate | PPI Input (MoM) (Nov) | 0.3% | 0.2% | 0.0% |
 | 07:00 | GBP | Low | PPI Output (YoY) (Nov) | 3.4% |  | 3.6% |
 | 07:00 | GBP | Low | PPI Output (MoM) (Nov) | 0.1% | 0.1% | 0.1% |
-| 07:00 | GBP | Low | RPI (MoM) (Nov) | -0.4% |  | 0.3% |
 | 07:00 | GBP | Low | RPI (YoY) (Nov) | 3.8% | 4.2% | 4.3% |
+| 07:00 | GBP | Low | RPI (MoM) (Nov) | -0.4% |  | 0.3% |
 | 07:00 | ZAR | Low | Leading Indicators (Oct) | 116.70% |  | 116.30% |
 | 07:30 | IDR | Moderate | Interest Rate Decision | 4.75% | 4.75% | 4.75% |
 | 07:30 | IDR | Low | Deposit Facility Rate (Dec) | 3.75% | 3.75% | 3.75% |
@@ -34,12 +34,12 @@
 | 09:00 | EUR | Moderate | German Business Expectations (Dec) | 89.7 | 90.5 | 90.5 |
 | 09:00 | EUR | Moderate | German Current Assessment (Dec) | 85.6 | 85.7 | 85.6 |
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (Dec) | 87.6 | 88.2 | 88.0 |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Nov) | 2.4% | 2.4% | 2.4% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Nov) | -0.5% | -0.5% | -0.5% |
-| 10:00 | EUR | High | CPI (YoY) (Nov) | 2.1% | 2.2% | 2.2% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Nov) | 2.4% | 2.4% | 2.4% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Nov) | -0.3% | -0.3% | 0.2% |
-| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Nov) | 2.1% |  | 2.1% |
+| 10:00 | EUR | High | CPI (YoY) (Nov) | 2.1% | 2.2% | 2.2% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Nov) | -0.3% |  | 0.2% |
+| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Nov) | 2.1% |  | 2.1% |
 | 10:00 | EUR | Low | CPI, n.s.a | 129.30 | 129.35 | 129.70 |
 | 10:00 | EUR | Moderate | Wages in euro zone (YoY) (Q3) | 3.00% |  | 3.80% |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Nov) | 2.4% | 2.4% | 2.4% |
@@ -66,11 +66,9 @@
 | 15:30 | USD | Low | Heating Oil Stockpiles | 0.267M |  | 0.442M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 0.3% |  | 0.4% |
 | 15:30 | USD | Low | Gasoline Inventories | 4.808M | 2.100M | 6.397M |
-| 17:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 17:30 | BRL | Low | Foreign Exchange Flows |  |  | 0.020B |
-| 18:00 | USD | Moderate | 20-Year Bond Auction |  |  | 4.706% |
-| 18:00 | USD | Moderate | Business Inventories (MoM) (Sep) |  |  | 0.0% |
-| 18:00 | USD | Moderate | Retail Inventories Ex Auto (Sep) |  |  | 0.0% |
+| 21 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 21 min | BRL | Low | Foreign Exchange Flows |  |  | 0.020B |
+| 51 min | USD | Moderate | 20-Year Bond Auction |  |  | 4.706% |
 | 21:45 | NZD | Moderate | GDP (QoQ) (Q3) |  | 0.9% | -0.9% |
 | 21:45 | NZD | Low | GDP (YoY) (Q3) |  | 1.3% | -0.6% |
 | 21:45 | NZD | Low | GDP Annual Average (Q3) |  |  | -1.1% |
