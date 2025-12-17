@@ -6,10 +6,10 @@
 | 00:30 | SGD | Non-Oil Exports (MoM) (Nov) | 6.60% |  | 8.80% |
 | 00:30 | SGD | Non-Oil Exports (YoY) (Nov) | 11.60% |  | 21.70% |
 | 01:30 | SGD | Trade Balance (Nov) | 7.669B |  | 7.168B |
-| 07:00 | GBP | Core CPI (YoY) (Nov) | 3.2% | 3.4% | 3.4% |
 | 07:00 | GBP | Core CPI (MoM) (Nov) | -0.2% |  | 0.3% |
-| 07:00 | GBP | Core PPI Output (YoY) (Nov) | 3.5% |  | 3.6% |
+| 07:00 | GBP | Core CPI (YoY) (Nov) | 3.2% | 3.4% | 3.4% |
 | 07:00 | GBP | Core PPI Output (MoM) (Nov) | 0.0% |  | 0.1% |
+| 07:00 | GBP | Core PPI Output (YoY) (Nov) | 3.5% |  | 3.6% |
 | 07:00 | GBP | Core RPI (YoY) (Nov) | 3.7% |  | 4.2% |
 | 07:00 | GBP | Core RPI (MoM) (Nov) | -0.5% |  | 0.3% |
 | 07:00 | GBP | CPI, n.s.a (Nov) | 139.50 |  | 139.80 |
@@ -17,8 +17,8 @@
 | 07:00 | GBP | PPI Input (YoY) (Nov) | 1.1% | 0.4% | 0.8% |
 | 07:00 | GBP | PPI Output (YoY) (Nov) | 3.4% |  | 3.6% |
 | 07:00 | GBP | PPI Output (MoM) (Nov) | 0.1% | 0.1% | 0.1% |
-| 07:00 | GBP | RPI (YoY) (Nov) | 3.8% | 4.2% | 4.3% |
 | 07:00 | GBP | RPI (MoM) (Nov) | -0.4% |  | 0.3% |
+| 07:00 | GBP | RPI (YoY) (Nov) | 3.8% | 4.2% | 4.3% |
 | 07:00 | ZAR | Leading Indicators (Oct) | 116.70% |  | 116.30% |
 | 07:30 | IDR | Deposit Facility Rate (Dec) | 3.75% | 3.75% | 3.75% |
 | 07:30 | IDR | Lending Facility Rate (Dec) | 5.50% | 5.50% | 5.50% |
@@ -28,22 +28,18 @@
 | 08:00 | ZAR | CPI (MoM) (Nov) | -0.1% |  | 0.1% |
 | 08:00 | ZAR | CPI (YoY) (Nov) | 3.5% | 3.6% | 3.6% |
 | 10:00 | EUR | Core CPI (MoM) (Nov) | -0.5% | -0.5% | -0.5% |
-| 10:00 | EUR | CPI ex Tobacco (MoM) (Nov) | -0.3% |  | 0.2% |
 | 10:00 | EUR | CPI ex Tobacco (YoY) (Nov) | 2.1% |  | 2.1% |
+| 10:00 | EUR | CPI ex Tobacco (MoM) (Nov) | -0.3% |  | 0.2% |
 | 10:00 | EUR | CPI, n.s.a | 129.30 | 129.35 | 129.70 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Nov) | 2.4% | 2.4% | 2.4% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Nov) | -0.4% | -0.4% | 0.2% |
 | 10:00 | EUR | Labor Cost Index (YoY) (Q3) | 3.30% | 3.50% | 3.90% |
 | 11:00 | GBP | CBI Industrial Trends Orders (Dec) | -32 | -35 | -37 |
-| 23 min | GBP | House Price Index (YoY) |  | 2.4% | 2.6% |
-| 23 min | EUR | Reserve Assets Total (Nov) |  |  | 1,709.78B |
-| 53 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.33% |
-| 53 min | USD | MBA Mortgage Applications (WoW) |  |  | 4.8% |
-| 53 min | USD | MBA Purchase Index |  |  | 181.6 |
-| 53 min | USD | Mortgage Market Index |  |  | 327.9 |
-| 53 min | USD | Mortgage Refinance Index |  |  | 1,190.6 |
-| 53 min | NZD | GlobalDairyTrade Price Index |  |  | -4.3% |
-| 53 min | USD | Milk Auctions |  |  | 3,507.0 |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.38% |  | 6.33% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | -3.8% |  | 4.8% |
+| 12:00 | USD | MBA Purchase Index | 176.5 |  | 181.6 |
+| 12:00 | USD | Mortgage Market Index | 315.6 |  | 327.9 |
+| 12:00 | USD | Mortgage Refinance Index | 1,148.3 |  | 1,190.6 |
 | 13:30 | CAD | Foreign Securities Purchases by Canadians (Oct) |  |  | 22.120B |
 | 14:00 | CHF | SNB Quarterly Bulletin |  |  |  |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.016M |
