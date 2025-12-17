@@ -1,54 +1,62 @@
-## 16 December 2025 - Low Impact Forex News
+## 17 December 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | NZD | Budget Balance (Jul) | -14.800B |  | -10.000B |
-| 00:00 | NZD | Net Debt Forecast (Jul) | 43.30% |  | 42.70% |
-| 00:00 | NZD | Economic Forecast (Jul) | -16.930B |  | -14.740B |
-| 00:30 | JPY | Manufacturing & Services PMI (Dec) | 51.50 |  | 52.00 |
-| 00:30 | JPY | au Jibun Bank Manufacturing PMI (Dec) | 49.7 | 49.0 | 48.7 |
-| 02:00 | NZD | RBNZ Offshore Holdings (Nov) | 58.00% |  | 58.60% |
-| 03:00 | KRW | M3 Money Supply (Oct) | 6,032.5B |  | 5,998.5B |
-| 03:00 | KRW | M2 Money supply (Oct) | 7.10% |  | 7.20% |
-| 05:00 | INR | S&P Global Manufacturing PMI (Dec) | 55.7 |  | 56.6 |
-| 05:00 | INR | S&P Global Services PMI (Dec) | 59.1 |  | 59.8 |
-| 05:00 | INR | Manufacturing & Services PMI (Dec) | 58.90 |  | 59.70 |
-| 07:00 | GBP | Average Earnings ex Bonus (Oct) | 4.6% | 4.5% | 4.7% |
-| 08:15 | EUR | HCOB France Composite PMI (Dec) | 50.1 | 50.3 | 50.4 |
-| 08:30 | EUR | HCOB Germany Composite PMI (Dec) | 51.5 | 52.4 | 52.4 |
-| 08:30 | HKD | Unemployment Rate (Nov) | 3.8% |  | 3.8% |
-| 09:00 | EUR | Italian CPI (MoM) (Nov) | -0.2% | -0.2% | -0.2% |
-| 09:00 | EUR | Italian CPI (YoY) (Nov) | 1.1% | 1.2% | 1.2% |
-| 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Nov) | 1.0% |  | 1.1% |
-| 09:00 | EUR | Italian HICP (MoM) (Nov) | -0.2% | -0.2% | -0.2% |
-| 09:00 | EUR | Italian HICP (YoY) (Nov) | 1.1% | 1.1% | 1.1% |
-| 10:00 | EUR | Italian Trade Balance (Oct) | 4.156B | 3.210B | 2.968B |
-| 10:00 | EUR | Italian Trade Balance EU (Oct) | -1.31B |  | -0.07B |
-| 11:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
-| 12:00 | NZD | GlobalDairyTrade Price Index | -4.4% |  | -4.3% |
-| 12:00 | USD | Milk Auctions | 3,341.0 |  | 3,507.0 |
-| 13:29 | USD | Average Weekly Hours (Oct) | 34.2 |  | 34.2 |
-| 13:29 | USD | Government Payrolls (Oct) | -157.0K |  | 4.0K |
-| 13:29 | USD | Manufacturing Payrolls (Oct) | -9K |  | -5K |
-| 13:30 | USD | Average Weekly Hours (Nov) | 34.3 |  | 34.2 |
-| 13:30 | USD | Government Payrolls (Nov) | -5.0K |  | -157.0K |
-| 13:30 | USD | Manufacturing Payrolls (Nov) | -5K | -5K | -9K |
-| 13:30 | USD | Retail Sales (YoY) (Oct) | 3.47% |  | 4.18% |
-| 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Oct) | 0.5% |  | 0.0% |
-| 13:55 | USD | Redbook (YoY) | 6.2% |  | 5.7% |
-| 20:30 | USD | CFTC Aluminium speculative net positions | -2.1K |  | -2.1K |
-| 20:30 | USD | CFTC Copper speculative net positions | 43.6K |  | 52.0K |
-| 20:30 | USD | CFTC Corn speculative net positions | 58.7K |  | 120.9K |
-| 20:30 | USD | CFTC Natural Gas speculative net positions | -138.4K |  | -137.7K |
-| 20:30 | USD | CFTC Silver speculative net positions | 32.2K |  | 34.0K |
-| 20:30 | USD | CFTC Soybeans speculative net positions | 239.8K |  | 254.1K |
-| 20:30 | USD | CFTC Wheat speculative net positions | -35.4K |  | -29.3K |
-| 20:30 | CAD | CFTC CAD speculative net positions | -150.4K |  | -149.1K |
-| 20:30 | MXN | CFTC MXN speculative net positions | 95.2K |  | 95.8K |
-| 20:30 | CHF | CFTC CHF speculative net positions | -35.4K |  | -32.2K |
-| 20:30 | NZD | CFTC NZD speculative net positions | -52.1K |  | -49.3K |
-| 21:45 | NZD | Current Account % of GDP (Q3) | -3.50% |  | -3.50% |
-| 23 min | AUD | MI Leading Index (MoM) |  |  | 0.1% |
-| 43 min | JPY | Core Machinery Orders (MoM) (Oct) |  | -1.8% | 4.2% |
-| 43 min | JPY | Core Machinery Orders (YoY) (Oct) |  | 3.6% | 11.6% |
-| 43 min | JPY | Imports (YoY) (Nov) |  | 2.5% | 0.7% |
+| 00:00 | USD | Fed Goolsbee Speaks |  |  |  |
+| 00:00 | AUD | MI Leading Index (MoM) (Nov) | 0.0% |  | 0.1% |
+| 00:30 | SGD | Non-Oil Exports (YoY) (Nov) | 11.60% |  | 21.70% |
+| 00:30 | SGD | Non-Oil Exports (MoM) (Nov) |  |  | 9.30% |
+| 59 min | SGD | Trade Balance (Nov) |  |  | 7.249B |
+| 07:00 | GBP | Core CPI (YoY) (Nov) |  | 3.4% | 3.4% |
+| 07:00 | GBP | Core CPI (MoM) (Nov) |  |  | 0.3% |
+| 07:00 | GBP | Core PPI Output (MoM) (Nov) |  |  | 0.1% |
+| 07:00 | GBP | Core PPI Output (YoY) (Nov) |  |  | 3.5% |
+| 07:00 | GBP | Core RPI (YoY) (Nov) |  |  | 4.2% |
+| 07:00 | GBP | Core RPI (MoM) (Nov) |  |  | 0.3% |
+| 07:00 | GBP | CPI, n.s.a (Nov) |  |  | 139.80 |
+| 07:00 | GBP | Inflation Expectations |  | 3.5% | 3.6% |
+| 07:00 | GBP | PPI Input (YoY) (Nov) |  | 0.4% | 0.5% |
+| 07:00 | GBP | PPI Output (YoY) (Nov) |  |  | 3.6% |
+| 07:00 | GBP | PPI Output (MoM) (Nov) |  | 0.1% | 0.0% |
+| 07:00 | GBP | RPI (MoM) (Nov) |  |  | 0.3% |
+| 07:00 | GBP | RPI (YoY) (Nov) |  | 4.2% | 4.3% |
+| 07:00 | ZAR | Leading Indicators (Oct) |  |  | 114.20% |
+| 07:30 | IDR | Deposit Facility Rate (Dec) |  | 3.75% | 3.75% |
+| 07:30 | IDR | Lending Facility Rate (Dec) |  | 5.50% | 5.50% |
+| 07:30 | IDR | Loans (YoY) (Nov) |  |  | 7.36% |
+| 08:00 | ZAR | Core CPI (MoM) (Nov) |  |  | 0.1% |
+| 08:00 | ZAR | Core CPI (YoY) (Nov) |  |  | 3.1% |
+| 08:00 | ZAR | CPI (MoM) (Nov) |  |  | 0.1% |
+| 08:00 | ZAR | CPI (YoY) (Nov) |  | 3.6% | 3.6% |
+| 09:30 | GBP | House Price Index (YoY) |  | 2.4% | 2.6% |
+| 10:00 | EUR | Core CPI (MoM) (Nov) |  | -0.5% | -0.5% |
+| 10:00 | EUR | CPI ex Tobacco (YoY) (Nov) |  |  | 2.1% |
+| 10:00 | EUR | CPI ex Tobacco (MoM) (Nov) |  |  | 0.2% |
+| 10:00 | EUR | CPI, n.s.a |  | 129.35 | 129.70 |
+| 10:00 | EUR | HICP ex Energy & Food (YoY) (Nov) |  | 2.4% | 2.4% |
+| 10:00 | EUR | HICP ex Energy and Food (MoM) (Nov) |  | -0.4% | 0.2% |
+| 10:00 | EUR | Labor Cost Index (YoY) (Q3) |  | 3.50% | 3.60% |
+| 11:00 | GBP | CBI Industrial Trends Orders (Dec) |  | -35 | -37 |
+| 11:30 | EUR | Reserve Assets Total (Nov) |  |  | 1,709.78B |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.33% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 4.8% |
+| 12:00 | USD | MBA Purchase Index |  |  | 181.6 |
+| 12:00 | USD | Mortgage Market Index |  |  | 327.9 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 1,190.6 |
+| 12:00 | NZD | GlobalDairyTrade Price Index |  |  | -4.3% |
+| 12:00 | USD | Milk Auctions |  |  | 3,507.0 |
+| 13:30 | CAD | Foreign Securities Purchases by Canadians (Oct) |  |  | 22.120B |
+| 14:00 | CHF | SNB Quarterly Bulletin |  |  |  |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.016M |
+| 15:30 | USD | Crude Oil Imports |  |  | 0.212M |
+| 15:30 | USD | Distillate Fuel Production |  |  | 0.380M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | 2.502M |
+| 15:30 | USD | Gasoline Production |  |  | -0.178M |
+| 15:30 | USD | Heating Oil Stockpiles |  |  | 0.442M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.4% |
+| 15:30 | USD | Gasoline Inventories |  |  | 6.397M |
+| 21:45 | NZD | GDP (YoY) (Q3) |  | 1.3% | -0.6% |
+| 21:45 | NZD | GDP Annual Average (Q3) |  |  | -1.1% |
+| 21:45 | NZD | GDP Expenditure (QoQ) (Q3) |  |  | -0.9% |
+| 23:50 | JPY | Foreign Bonds Buying |  |  | 452.9B |
+| 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 96.8B |
