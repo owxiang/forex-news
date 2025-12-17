@@ -12,8 +12,8 @@
 | 10:00 | EUR | CPI (MoM) (Nov) | -0.3% | -0.3% | 0.2% |
 | 10:00 | EUR | Wages in euro zone (YoY) (Q3) | 3.00% |  | 3.80% |
 | 13:15 | USD | Fed Waller Speaks |  |  |  |
-| 13:30 | CAD | Foreign Securities Purchases (Oct) |  | 21.84B | 31.32B |
-| 14:05 | USD | FOMC Member Williams Speaks |  |  |  |
+| 12 min | CAD | Foreign Securities Purchases (Oct) |  | 21.84B | 31.32B |
+| 47 min | USD | FOMC Member Williams Speaks |  |  |  |
 | 15:00 | USD | Business Inventories (MoM) (Sep) |  |  | 0.0% |
 | 15:00 | USD | Retail Inventories Ex Auto (Sep) |  |  | 0.0% |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | 0.308M |

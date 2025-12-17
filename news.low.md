@@ -40,8 +40,8 @@
 | 12:00 | USD | MBA Purchase Index | 176.5 |  | 181.6 |
 | 12:00 | USD | Mortgage Market Index | 315.6 |  | 327.9 |
 | 12:00 | USD | Mortgage Refinance Index | 1,148.3 |  | 1,190.6 |
-| 13:30 | CAD | Foreign Securities Purchases by Canadians (Oct) |  |  | 22.120B |
-| 14:00 | CHF | SNB Quarterly Bulletin |  |  |  |
+| 12 min | CAD | Foreign Securities Purchases by Canadians (Oct) |  |  | 22.120B |
+| 42 min | CHF | SNB Quarterly Bulletin |  |  |  |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.016M |
 | 15:30 | USD | Crude Oil Imports |  |  | 0.212M |
 | 15:30 | USD | Distillate Fuel Production |  |  | 0.380M |
@@ -50,6 +50,7 @@
 | 15:30 | USD | Heating Oil Stockpiles |  |  | 0.442M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.4% |
 | 15:30 | USD | Gasoline Inventories |  |  | 6.397M |
+| 17:30 | BRL | Foreign Exchange Flows |  |  | 0.020B |
 | 21:45 | NZD | GDP (YoY) (Q3) |  | 1.3% | -0.6% |
 | 21:45 | NZD | GDP Annual Average (Q3) |  |  | -1.1% |
 | 21:45 | NZD | GDP Expenditure (QoQ) (Q3) |  |  | -0.9% |

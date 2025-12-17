@@ -52,10 +52,10 @@
 | 12:00 | USD | Low | Mortgage Market Index | 315.6 |  | 327.9 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 1,148.3 |  | 1,190.6 |
 | 13:15 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 13:30 | CAD | Moderate | Foreign Securities Purchases (Oct) |  | 21.84B | 31.32B |
-| 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Oct) |  |  | 22.120B |
-| 14:00 | CHF | Low | SNB Quarterly Bulletin |  |  |  |
-| 14:05 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 12 min | CAD | Moderate | Foreign Securities Purchases (Oct) |  | 21.84B | 31.32B |
+| 12 min | CAD | Low | Foreign Securities Purchases by Canadians (Oct) |  |  | 22.120B |
+| 42 min | CHF | Low | SNB Quarterly Bulletin |  |  |  |
+| 47 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 15:00 | USD | Moderate | Business Inventories (MoM) (Sep) |  |  | 0.0% |
 | 15:00 | USD | Moderate | Retail Inventories Ex Auto (Sep) |  |  | 0.0% |
 | 15:30 | USD | High | Crude Oil Inventories |  | -2.400M | -1.812M |
@@ -69,6 +69,7 @@
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.4% |
 | 15:30 | USD | Low | Gasoline Inventories |  |  | 6.397M |
 | 17:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 17:30 | BRL | Low | Foreign Exchange Flows |  |  | 0.020B |
 | 18:00 | USD | Moderate | 20-Year Bond Auction |  |  | 4.706% |
 | 21:45 | NZD | Moderate | GDP (QoQ) (Q3) |  | 0.9% | -0.9% |
 | 21:45 | NZD | Low | GDP (YoY) (Q3) |  | 1.3% | -0.6% |
