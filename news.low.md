@@ -42,14 +42,14 @@
 | 12:00 | USD | Mortgage Refinance Index | 1,148.3 |  | 1,190.6 |
 | 13:30 | CAD | Foreign Securities Purchases by Canadians (Oct) | -11.580B |  | 21.620B |
 | 14:00 | CHF | SNB Quarterly Bulletin |  |  |  |
-| 22 min | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.016M |
-| 22 min | USD | Crude Oil Imports |  |  | 0.212M |
-| 22 min | USD | Distillate Fuel Production |  |  | 0.380M |
-| 22 min | USD | EIA Weekly Distillates Stocks |  | 1.200M | 2.502M |
-| 22 min | USD | Gasoline Production |  |  | -0.178M |
-| 22 min | USD | Heating Oil Stockpiles |  |  | 0.442M |
-| 22 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.4% |
-| 22 min | USD | Gasoline Inventories |  | 2.100M | 6.397M |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) | 0.128M |  | -0.016M |
+| 15:30 | USD | Crude Oil Imports | -0.719M |  | 0.212M |
+| 15:30 | USD | Distillate Fuel Production | -0.228M |  | 0.380M |
+| 15:30 | USD | EIA Weekly Distillates Stocks | 1.712M | 1.200M | 2.502M |
+| 15:30 | USD | Gasoline Production | 0.033M |  | -0.178M |
+| 15:30 | USD | Heating Oil Stockpiles | 0.267M |  | 0.442M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.3% |  | 0.4% |
+| 15:30 | USD | Gasoline Inventories | 4.808M | 2.100M | 6.397M |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | 0.020B |
 | 21:45 | NZD | GDP (YoY) (Q3) |  | 1.3% | -0.6% |
 | 21:45 | NZD | GDP Annual Average (Q3) |  |  | -1.1% |
