@@ -30,20 +30,20 @@
 | 10:00 | EUR | Core CPI (MoM) (Nov) | -0.5% | -0.5% | -0.5% |
 | 10:00 | EUR | CPI ex Tobacco (MoM) (Nov) | -0.3% |  | 0.2% |
 | 10:00 | EUR | CPI ex Tobacco (YoY) (Nov) | 2.1% |  | 2.1% |
-| 10:00 | EUR | CPI, n.s.a |  | 129.35 | 129.70 |
+| 10:00 | EUR | CPI, n.s.a | 129.30 | 129.35 | 129.70 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Nov) | 2.4% | 2.4% | 2.4% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Nov) | -0.4% | -0.4% | 0.2% |
-| 10:00 | EUR | Labor Cost Index (YoY) (Q3) | 3.30% | 3.50% | 3.60% |
-| 52 min | GBP | CBI Industrial Trends Orders (Dec) |  | -35 | -37 |
-| 11:30 | GBP | House Price Index (YoY) |  | 2.4% | 2.6% |
-| 11:30 | EUR | Reserve Assets Total (Nov) |  |  | 1,709.78B |
-| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.33% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 4.8% |
-| 12:00 | USD | MBA Purchase Index |  |  | 181.6 |
-| 12:00 | USD | Mortgage Market Index |  |  | 327.9 |
-| 12:00 | USD | Mortgage Refinance Index |  |  | 1,190.6 |
-| 12:00 | NZD | GlobalDairyTrade Price Index |  |  | -4.3% |
-| 12:00 | USD | Milk Auctions |  |  | 3,507.0 |
+| 10:00 | EUR | Labor Cost Index (YoY) (Q3) | 3.30% | 3.50% | 3.90% |
+| 11:00 | GBP | CBI Industrial Trends Orders (Dec) | -32 | -35 | -37 |
+| 23 min | GBP | House Price Index (YoY) |  | 2.4% | 2.6% |
+| 23 min | EUR | Reserve Assets Total (Nov) |  |  | 1,709.78B |
+| 53 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.33% |
+| 53 min | USD | MBA Mortgage Applications (WoW) |  |  | 4.8% |
+| 53 min | USD | MBA Purchase Index |  |  | 181.6 |
+| 53 min | USD | Mortgage Market Index |  |  | 327.9 |
+| 53 min | USD | Mortgage Refinance Index |  |  | 1,190.6 |
+| 53 min | NZD | GlobalDairyTrade Price Index |  |  | -4.3% |
+| 53 min | USD | Milk Auctions |  |  | 3,507.0 |
 | 13:30 | CAD | Foreign Securities Purchases by Canadians (Oct) |  |  | 22.120B |
 | 14:00 | CHF | SNB Quarterly Bulletin |  |  |  |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.016M |

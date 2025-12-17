@@ -10,7 +10,7 @@
 | 09:00 | EUR | German Ifo Business Climate Index (Dec) | 87.6 | 88.2 | 88.0 |
 | 10:00 | EUR | Core CPI (YoY) (Nov) | 2.4% | 2.4% | 2.4% |
 | 10:00 | EUR | CPI (MoM) (Nov) | -0.3% | -0.3% | 0.2% |
-| 10:00 | EUR | Wages in euro zone (YoY) (Q3) | 3.00% |  | 3.70% |
+| 10:00 | EUR | Wages in euro zone (YoY) (Q3) | 3.00% |  | 3.80% |
 | 13:15 | USD | Fed Waller Speaks |  |  |  |
 | 13:30 | CAD | Foreign Securities Purchases (Oct) |  | 21.84B | 31.32B |
 | 14:05 | USD | FOMC Member Williams Speaks |  |  |  |
