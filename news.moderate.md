@@ -5,12 +5,12 @@
 | 07:00 | GBP | CPI (MoM) (Nov) | -0.2% | 0.0% | 0.4% |
 | 07:00 | GBP | PPI Input (MoM) (Nov) | 0.3% | 0.2% | 0.0% |
 | 07:30 | IDR | Interest Rate Decision | 4.75% | 4.75% | 4.75% |
-| 49 min | EUR | German Business Expectations (Dec) |  | 90.5 | 90.6 |
-| 49 min | EUR | German Current Assessment (Dec) |  | 85.7 | 85.6 |
-| 49 min | EUR | German Ifo Business Climate Index (Dec) |  | 88.2 | 88.1 |
-| 10:00 | EUR | Core CPI (YoY) (Nov) |  | 2.4% | 2.4% |
-| 10:00 | EUR | CPI (MoM) (Nov) |  | -0.3% | 0.2% |
-| 10:00 | EUR | Wages in euro zone (YoY) (Q3) |  |  | 3.70% |
+| 09:00 | EUR | German Business Expectations (Dec) | 89.7 | 90.5 | 90.5 |
+| 09:00 | EUR | German Current Assessment (Dec) | 85.6 | 85.7 | 85.6 |
+| 09:00 | EUR | German Ifo Business Climate Index (Dec) | 87.6 | 88.2 | 88.0 |
+| 49 min | EUR | Core CPI (YoY) (Nov) |  | 2.4% | 2.4% |
+| 49 min | EUR | CPI (MoM) (Nov) |  | -0.3% | 0.2% |
+| 49 min | EUR | Wages in euro zone (YoY) (Q3) |  |  | 3.70% |
 | 13:15 | USD | Fed Waller Speaks |  |  |  |
 | 13:30 | CAD | Foreign Securities Purchases (Oct) |  | 21.84B | 31.32B |
 | 14:05 | USD | FOMC Member Williams Speaks |  |  |  |

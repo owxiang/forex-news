@@ -31,21 +31,21 @@
 | 08:00 | ZAR | Low | Core CPI (YoY) (Nov) | 3.2% |  | 3.1% |
 | 08:00 | ZAR | Low | CPI (MoM) (Nov) | -0.1% |  | 0.1% |
 | 08:00 | ZAR | Low | CPI (YoY) (Nov) | 3.5% | 3.6% | 3.6% |
-| 49 min | EUR | Moderate | German Business Expectations (Dec) |  | 90.5 | 90.6 |
-| 49 min | EUR | Moderate | German Current Assessment (Dec) |  | 85.7 | 85.6 |
-| 49 min | EUR | Moderate | German Ifo Business Climate Index (Dec) |  | 88.2 | 88.1 |
-| 09:30 | GBP | Low | House Price Index (YoY) |  | 2.4% | 2.6% |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Nov) |  | 2.4% | 2.4% |
-| 10:00 | EUR | Low | Core CPI (MoM) (Nov) |  | -0.5% | -0.5% |
-| 10:00 | EUR | High | CPI (YoY) (Nov) |  | 2.2% | 2.2% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Nov) |  | -0.3% | 0.2% |
-| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Nov) |  |  | 2.1% |
-| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Nov) |  |  | 0.2% |
-| 10:00 | EUR | Low | CPI, n.s.a |  | 129.35 | 129.70 |
-| 10:00 | EUR | Moderate | Wages in euro zone (YoY) (Q3) |  |  | 3.70% |
-| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Nov) |  | 2.4% | 2.4% |
-| 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Nov) |  | -0.4% | 0.2% |
-| 10:00 | EUR | Low | Labor Cost Index (YoY) (Q3) |  | 3.50% | 3.60% |
+| 09:00 | EUR | Moderate | German Business Expectations (Dec) | 89.7 | 90.5 | 90.5 |
+| 09:00 | EUR | Moderate | German Current Assessment (Dec) | 85.6 | 85.7 | 85.6 |
+| 09:00 | EUR | Moderate | German Ifo Business Climate Index (Dec) | 87.6 | 88.2 | 88.0 |
+| 19 min | GBP | Low | House Price Index (YoY) |  | 2.4% | 2.6% |
+| 49 min | EUR | Moderate | Core CPI (YoY) (Nov) |  | 2.4% | 2.4% |
+| 49 min | EUR | Low | Core CPI (MoM) (Nov) |  | -0.5% | -0.5% |
+| 49 min | EUR | High | CPI (YoY) (Nov) |  | 2.2% | 2.2% |
+| 49 min | EUR | Moderate | CPI (MoM) (Nov) |  | -0.3% | 0.2% |
+| 49 min | EUR | Low | CPI ex Tobacco (YoY) (Nov) |  |  | 2.1% |
+| 49 min | EUR | Low | CPI ex Tobacco (MoM) (Nov) |  |  | 0.2% |
+| 49 min | EUR | Low | CPI, n.s.a |  | 129.35 | 129.70 |
+| 49 min | EUR | Moderate | Wages in euro zone (YoY) (Q3) |  |  | 3.70% |
+| 49 min | EUR | Low | HICP ex Energy & Food (YoY) (Nov) |  | 2.4% | 2.4% |
+| 49 min | EUR | Low | HICP ex Energy and Food (MoM) (Nov) |  | -0.4% | 0.2% |
+| 49 min | EUR | Low | Labor Cost Index (YoY) (Q3) |  | 3.50% | 3.60% |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Dec) |  | -35 | -37 |
 | 11:30 | EUR | Low | Reserve Assets Total (Nov) |  |  | 1,709.78B |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.33% |
