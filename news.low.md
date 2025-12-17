@@ -50,7 +50,7 @@
 | 15:30 | USD | Heating Oil Stockpiles | 0.267M |  | 0.442M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.3% |  | 0.4% |
 | 15:30 | USD | Gasoline Inventories | 4.808M | 2.100M | 6.397M |
-| 21 min | BRL | Foreign Exchange Flows |  |  | 0.020B |
+| 17:30 | BRL | Foreign Exchange Flows | -1.601B |  | 0.020B |
 | 21:45 | NZD | GDP (YoY) (Q3) |  | 1.3% | -0.6% |
 | 21:45 | NZD | GDP Annual Average (Q3) |  |  | -1.1% |
 | 21:45 | NZD | GDP Expenditure (QoQ) (Q3) |  |  | -0.9% |
