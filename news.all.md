@@ -56,18 +56,18 @@
 | 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Oct) | -11.580B |  | 21.620B |
 | 14:00 | CHF | Low | SNB Quarterly Bulletin |  |  |  |
 | 14:05 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 52 min | USD | Moderate | Business Inventories (MoM) (Sep) |  |  | 0.0% |
-| 52 min | USD | Moderate | Retail Inventories Ex Auto (Sep) |  |  | 0.0% |
-| 15:30 | USD | High | Crude Oil Inventories |  | -2.400M | -1.812M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.016M |
-| 15:30 | USD | Low | Crude Oil Imports |  |  | 0.212M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.308M |
-| 15:30 | USD | Low | Distillate Fuel Production |  |  | 0.380M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  |  | 2.502M |
-| 15:30 | USD | Low | Gasoline Production |  |  | -0.178M |
-| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.442M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.4% |
-| 15:30 | USD | Low | Gasoline Inventories |  |  | 6.397M |
+| 15:00 | USD | Moderate | Business Inventories (MoM) (Sep) |  |  | 0.0% |
+| 15:00 | USD | Moderate | Retail Inventories Ex Auto (Sep) |  |  | 0.0% |
+| 22 min | USD | High | Crude Oil Inventories |  | -2.400M | -1.812M |
+| 22 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.016M |
+| 22 min | USD | Low | Crude Oil Imports |  |  | 0.212M |
+| 22 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.308M |
+| 22 min | USD | Low | Distillate Fuel Production |  |  | 0.380M |
+| 22 min | USD | Low | EIA Weekly Distillates Stocks |  | 1.200M | 2.502M |
+| 22 min | USD | Low | Gasoline Production |  |  | -0.178M |
+| 22 min | USD | Low | Heating Oil Stockpiles |  |  | 0.442M |
+| 22 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.4% |
+| 22 min | USD | Low | Gasoline Inventories |  | 2.100M | 6.397M |
 | 17:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | 0.020B |
 | 18:00 | USD | Moderate | 20-Year Bond Auction |  |  | 4.706% |
