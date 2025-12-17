@@ -73,5 +73,5 @@
 | 21:45 | NZD | Low | GDP (YoY) (Q3) | 1.3% | 1.3% | -1.1% |
 | 21:45 | NZD | Low | GDP Annual Average (Q3) | -0.5% |  | -1.2% |
 | 21:45 | NZD | Low | GDP Expenditure (QoQ) (Q3) | 1.3% |  | -0.8% |
-| 23:50 | JPY | Low | Foreign Bonds Buying |  |  | 452.9B |
-| 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 96.8B |
+| 42 min | JPY | Low | Foreign Bonds Buying |  |  | 452.9B |
+| 42 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 96.8B |

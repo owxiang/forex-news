@@ -54,5 +54,5 @@
 | 21:45 | NZD | GDP (YoY) (Q3) | 1.3% | 1.3% | -1.1% |
 | 21:45 | NZD | GDP Annual Average (Q3) | -0.5% |  | -1.2% |
 | 21:45 | NZD | GDP Expenditure (QoQ) (Q3) | 1.3% |  | -0.8% |
-| 23:50 | JPY | Foreign Bonds Buying |  |  | 452.9B |
-| 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 96.8B |
+| 42 min | JPY | Foreign Bonds Buying |  |  | 452.9B |
+| 42 min | JPY | Foreign Investments in Japanese Stocks |  |  | 96.8B |
