@@ -52,12 +52,12 @@
 | 12:00 | USD | Low | Mortgage Market Index | 315.6 |  | 327.9 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 1,148.3 |  | 1,190.6 |
 | 13:15 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 12 min | CAD | Moderate | Foreign Securities Purchases (Oct) |  | 21.84B | 31.32B |
-| 12 min | CAD | Low | Foreign Securities Purchases by Canadians (Oct) |  |  | 22.120B |
-| 42 min | CHF | Low | SNB Quarterly Bulletin |  |  |  |
-| 47 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 15:00 | USD | Moderate | Business Inventories (MoM) (Sep) |  |  | 0.0% |
-| 15:00 | USD | Moderate | Retail Inventories Ex Auto (Sep) |  |  | 0.0% |
+| 13:30 | CAD | Moderate | Foreign Securities Purchases (Oct) | 46.62B | 21.84B | 31.32B |
+| 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Oct) | -11.580B |  | 21.620B |
+| 14:00 | CHF | Low | SNB Quarterly Bulletin |  |  |  |
+| 14:05 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 52 min | USD | Moderate | Business Inventories (MoM) (Sep) |  |  | 0.0% |
+| 52 min | USD | Moderate | Retail Inventories Ex Auto (Sep) |  |  | 0.0% |
 | 15:30 | USD | High | Crude Oil Inventories |  | -2.400M | -1.812M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.016M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 0.212M |

@@ -40,8 +40,8 @@
 | 12:00 | USD | MBA Purchase Index | 176.5 |  | 181.6 |
 | 12:00 | USD | Mortgage Market Index | 315.6 |  | 327.9 |
 | 12:00 | USD | Mortgage Refinance Index | 1,148.3 |  | 1,190.6 |
-| 12 min | CAD | Foreign Securities Purchases by Canadians (Oct) |  |  | 22.120B |
-| 42 min | CHF | SNB Quarterly Bulletin |  |  |  |
+| 13:30 | CAD | Foreign Securities Purchases by Canadians (Oct) | -11.580B |  | 21.620B |
+| 14:00 | CHF | SNB Quarterly Bulletin |  |  |  |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.016M |
 | 15:30 | USD | Crude Oil Imports |  |  | 0.212M |
 | 15:30 | USD | Distillate Fuel Production |  |  | 0.380M |
