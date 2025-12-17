@@ -3,10 +3,10 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | USD | Fed Goolsbee Speaks |  |  |  |
-| 00:00 | AUD | MI Leading Index (MoM) (Nov) | 0.0% |  | 0.1% |
+| 00:00 | AUD | MI Leading Index (MoM) (Nov) | -0.0% |  | 0.1% |
 | 00:30 | SGD | Non-Oil Exports (YoY) (Nov) | 11.60% |  | 21.70% |
-| 00:30 | SGD | Non-Oil Exports (MoM) (Nov) |  |  | 9.30% |
-| 59 min | SGD | Trade Balance (Nov) |  |  | 7.249B |
+| 00:30 | SGD | Non-Oil Exports (MoM) (Nov) | 6.60% |  | 8.80% |
+| 01:30 | SGD | Trade Balance (Nov) | 7.669B |  | 7.168B |
 | 07:00 | GBP | Core CPI (YoY) (Nov) |  | 3.4% | 3.4% |
 | 07:00 | GBP | Core CPI (MoM) (Nov) |  |  | 0.3% |
 | 07:00 | GBP | Core PPI Output (MoM) (Nov) |  |  | 0.1% |
