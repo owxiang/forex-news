@@ -6,27 +6,27 @@
 | 00:30 | SGD | Non-Oil Exports (MoM) (Nov) | 6.60% |  | 8.80% |
 | 00:30 | SGD | Non-Oil Exports (YoY) (Nov) | 11.60% |  | 21.70% |
 | 01:30 | SGD | Trade Balance (Nov) | 7.669B |  | 7.168B |
-| 49 min | GBP | Core CPI (MoM) (Nov) |  |  | 0.3% |
-| 49 min | GBP | Core CPI (YoY) (Nov) |  | 3.4% | 3.4% |
-| 49 min | GBP | Core PPI Output (YoY) (Nov) |  |  | 3.5% |
-| 49 min | GBP | Core PPI Output (MoM) (Nov) |  |  | 0.1% |
-| 49 min | GBP | Core RPI (YoY) (Nov) |  |  | 4.2% |
-| 49 min | GBP | Core RPI (MoM) (Nov) |  |  | 0.3% |
-| 49 min | GBP | CPI, n.s.a (Nov) |  |  | 139.80 |
-| 49 min | GBP | Inflation Expectations |  | 3.5% | 3.6% |
-| 49 min | GBP | PPI Input (YoY) (Nov) |  | 0.4% | 0.5% |
-| 49 min | GBP | PPI Output (YoY) (Nov) |  |  | 3.6% |
-| 49 min | GBP | PPI Output (MoM) (Nov) |  | 0.1% | 0.0% |
-| 49 min | GBP | RPI (YoY) (Nov) |  | 4.2% | 4.3% |
-| 49 min | GBP | RPI (MoM) (Nov) |  |  | 0.3% |
-| 49 min | ZAR | Leading Indicators (Oct) |  |  | 114.20% |
-| 07:30 | IDR | Deposit Facility Rate (Dec) |  | 3.75% | 3.75% |
-| 07:30 | IDR | Lending Facility Rate (Dec) |  | 5.50% | 5.50% |
-| 07:30 | IDR | Loans (YoY) (Nov) |  |  | 7.36% |
-| 08:00 | ZAR | Core CPI (MoM) (Nov) |  |  | 0.1% |
-| 08:00 | ZAR | Core CPI (YoY) (Nov) |  |  | 3.1% |
-| 08:00 | ZAR | CPI (MoM) (Nov) |  |  | 0.1% |
-| 08:00 | ZAR | CPI (YoY) (Nov) |  | 3.6% | 3.6% |
+| 07:00 | GBP | Core CPI (MoM) (Nov) | -0.2% |  | 0.3% |
+| 07:00 | GBP | Core CPI (YoY) (Nov) | 3.2% | 3.4% | 3.4% |
+| 07:00 | GBP | Core PPI Output (YoY) (Nov) | 3.5% |  | 3.6% |
+| 07:00 | GBP | Core PPI Output (MoM) (Nov) | 0.0% |  | 0.1% |
+| 07:00 | GBP | Core RPI (YoY) (Nov) | 3.7% |  | 4.2% |
+| 07:00 | GBP | Core RPI (MoM) (Nov) | -0.4% |  | 0.3% |
+| 07:00 | GBP | CPI, n.s.a (Nov) | 139.50 |  | 139.80 |
+| 07:00 | GBP | Inflation Expectations | 3.2% | 3.5% | 3.6% |
+| 07:00 | GBP | PPI Input (YoY) (Nov) | 1.1% | 0.4% | 0.8% |
+| 07:00 | GBP | PPI Output (YoY) (Nov) | 3.4% |  | 3.6% |
+| 07:00 | GBP | PPI Output (MoM) (Nov) | 0.1% | 0.1% | 0.1% |
+| 07:00 | GBP | RPI (YoY) (Nov) | 3.8% | 4.2% | 4.3% |
+| 07:00 | GBP | RPI (MoM) (Nov) | -0.5% |  | 0.3% |
+| 07:00 | ZAR | Leading Indicators (Oct) | 116.70% |  | 116.30% |
+| 19 min | IDR | Deposit Facility Rate (Dec) |  | 3.75% | 3.75% |
+| 19 min | IDR | Lending Facility Rate (Dec) |  | 5.50% | 5.50% |
+| 19 min | IDR | Loans (YoY) (Nov) |  |  | 7.36% |
+| 49 min | ZAR | Core CPI (MoM) (Nov) |  |  | 0.1% |
+| 49 min | ZAR | Core CPI (YoY) (Nov) |  |  | 3.1% |
+| 49 min | ZAR | CPI (MoM) (Nov) |  |  | 0.1% |
+| 49 min | ZAR | CPI (YoY) (Nov) |  | 3.6% | 3.6% |
 | 09:30 | GBP | House Price Index (YoY) |  | 2.4% | 2.6% |
 | 10:00 | EUR | Core CPI (MoM) (Nov) |  | -0.5% | -0.5% |
 | 10:00 | EUR | CPI ex Tobacco (YoY) (Nov) |  |  | 2.1% |

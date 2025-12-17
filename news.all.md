@@ -6,31 +6,31 @@
 | 00:30 | SGD | Low | Non-Oil Exports (MoM) (Nov) | 6.60% |  | 8.80% |
 | 00:30 | SGD | Low | Non-Oil Exports (YoY) (Nov) | 11.60% |  | 21.70% |
 | 01:30 | SGD | Low | Trade Balance (Nov) | 7.669B |  | 7.168B |
-| 49 min | GBP | Low | Core CPI (MoM) (Nov) |  |  | 0.3% |
-| 49 min | GBP | Low | Core CPI (YoY) (Nov) |  | 3.4% | 3.4% |
-| 49 min | GBP | Low | Core PPI Output (YoY) (Nov) |  |  | 3.5% |
-| 49 min | GBP | Low | Core PPI Output (MoM) (Nov) |  |  | 0.1% |
-| 49 min | GBP | Low | Core RPI (YoY) (Nov) |  |  | 4.2% |
-| 49 min | GBP | Low | Core RPI (MoM) (Nov) |  |  | 0.3% |
-| 49 min | GBP | High | CPI (YoY) (Nov) |  | 3.5% | 3.6% |
-| 49 min | GBP | Moderate | CPI (MoM) (Nov) |  | 0.0% | 0.4% |
-| 49 min | GBP | Low | CPI, n.s.a (Nov) |  |  | 139.80 |
-| 49 min | GBP | Low | Inflation Expectations |  | 3.5% | 3.6% |
-| 49 min | GBP | Low | PPI Input (YoY) (Nov) |  | 0.4% | 0.5% |
-| 49 min | GBP | Moderate | PPI Input (MoM) (Nov) |  | 0.2% | -0.3% |
-| 49 min | GBP | Low | PPI Output (YoY) (Nov) |  |  | 3.6% |
-| 49 min | GBP | Low | PPI Output (MoM) (Nov) |  | 0.1% | 0.0% |
-| 49 min | GBP | Low | RPI (YoY) (Nov) |  | 4.2% | 4.3% |
-| 49 min | GBP | Low | RPI (MoM) (Nov) |  |  | 0.3% |
-| 49 min | ZAR | Low | Leading Indicators (Oct) |  |  | 114.20% |
-| 07:30 | IDR | Moderate | Interest Rate Decision |  | 4.75% | 4.75% |
-| 07:30 | IDR | Low | Deposit Facility Rate (Dec) |  | 3.75% | 3.75% |
-| 07:30 | IDR | Low | Lending Facility Rate (Dec) |  | 5.50% | 5.50% |
-| 07:30 | IDR | Low | Loans (YoY) (Nov) |  |  | 7.36% |
-| 08:00 | ZAR | Low | Core CPI (MoM) (Nov) |  |  | 0.1% |
-| 08:00 | ZAR | Low | Core CPI (YoY) (Nov) |  |  | 3.1% |
-| 08:00 | ZAR | Low | CPI (MoM) (Nov) |  |  | 0.1% |
-| 08:00 | ZAR | Low | CPI (YoY) (Nov) |  | 3.6% | 3.6% |
+| 07:00 | GBP | Low | Core CPI (MoM) (Nov) | -0.2% |  | 0.3% |
+| 07:00 | GBP | Low | Core CPI (YoY) (Nov) | 3.2% | 3.4% | 3.4% |
+| 07:00 | GBP | Low | Core PPI Output (YoY) (Nov) | 3.5% |  | 3.6% |
+| 07:00 | GBP | Low | Core PPI Output (MoM) (Nov) | 0.0% |  | 0.1% |
+| 07:00 | GBP | Low | Core RPI (YoY) (Nov) | 3.7% |  | 4.2% |
+| 07:00 | GBP | Low | Core RPI (MoM) (Nov) | -0.4% |  | 0.3% |
+| 07:00 | GBP | High | CPI (YoY) (Nov) | 3.2% | 3.5% | 3.6% |
+| 07:00 | GBP | Moderate | CPI (MoM) (Nov) | -0.2% | 0.0% | 0.4% |
+| 07:00 | GBP | Low | CPI, n.s.a (Nov) | 139.50 |  | 139.80 |
+| 07:00 | GBP | Low | Inflation Expectations | 3.2% | 3.5% | 3.6% |
+| 07:00 | GBP | Low | PPI Input (YoY) (Nov) | 1.1% | 0.4% | 0.8% |
+| 07:00 | GBP | Moderate | PPI Input (MoM) (Nov) | 0.3% | 0.2% | 0.0% |
+| 07:00 | GBP | Low | PPI Output (YoY) (Nov) | 3.4% |  | 3.6% |
+| 07:00 | GBP | Low | PPI Output (MoM) (Nov) | 0.1% | 0.1% | 0.1% |
+| 07:00 | GBP | Low | RPI (YoY) (Nov) | 3.8% | 4.2% | 4.3% |
+| 07:00 | GBP | Low | RPI (MoM) (Nov) | -0.5% |  | 0.3% |
+| 07:00 | ZAR | Low | Leading Indicators (Oct) | 116.70% |  | 116.30% |
+| 19 min | IDR | Moderate | Interest Rate Decision |  | 4.75% | 4.75% |
+| 19 min | IDR | Low | Deposit Facility Rate (Dec) |  | 3.75% | 3.75% |
+| 19 min | IDR | Low | Lending Facility Rate (Dec) |  | 5.50% | 5.50% |
+| 19 min | IDR | Low | Loans (YoY) (Nov) |  |  | 7.36% |
+| 49 min | ZAR | Low | Core CPI (MoM) (Nov) |  |  | 0.1% |
+| 49 min | ZAR | Low | Core CPI (YoY) (Nov) |  |  | 3.1% |
+| 49 min | ZAR | Low | CPI (MoM) (Nov) |  |  | 0.1% |
+| 49 min | ZAR | Low | CPI (YoY) (Nov) |  | 3.6% | 3.6% |
 | 09:00 | EUR | Moderate | German Business Expectations (Dec) |  | 90.5 | 90.6 |
 | 09:00 | EUR | Moderate | German Current Assessment (Dec) |  | 85.7 | 85.6 |
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (Dec) |  | 88.2 | 88.1 |
