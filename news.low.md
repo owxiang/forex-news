@@ -27,16 +27,16 @@
 | 16:00 | USD | KC Fed Manufacturing Index (Dec) | -3 |  | 18 |
 | 16:30 | USD | 4-Week Bill Auction | 3.585% |  | 3.610% |
 | 16:30 | USD | 8-Week Bill Auction | 3.580% |  | 3.610% |
-| 52 min | USD | US Foreign Buying, T-bonds (Oct) |  |  | 25.50B |
-| 52 min | USD | Overall Net Capital Flow (Oct) |  |  | 190.10B |
-| 52 min | USD | Real Earnings (MoM) (Nov) |  |  | -0.1% |
-| 52 min | USD | TIC Net Long-Term Transactions including Swaps (Oct) |  |  | 179.80B |
-| 52 min | KRW | PPI (MoM) (Nov) |  |  | 0.2% |
-| 52 min | KRW | PPI (YoY) (Nov) |  |  | 1.5% |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.974T |
-| 21:45 | NZD | Exports (Nov) |  |  | 6.50B |
-| 21:45 | NZD | Imports (Nov) |  |  | 8.04B |
-| 21:45 | NZD | Trade Balance (MoM) (Nov) |  | -1,175M | -1,542M |
-| 21:45 | NZD | Trade Balance (YoY) (Nov) |  |  | -2,280M |
+| 21:00 | USD | US Foreign Buying, T-bonds (Oct) | -61.20B |  | 25.10B |
+| 21:00 | USD | Overall Net Capital Flow (Oct) | -37.30B |  | 184.30B |
+| 21:00 | USD | Real Earnings (MoM) (Nov) |  |  | -0.1% |
+| 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Oct) | 17.50B |  | 173.20B |
+| 21:00 | KRW | PPI (MoM) (Nov) | 0.3% |  | 0.2% |
+| 21:00 | KRW | PPI (YoY) (Nov) | 1.9% |  | 1.5% |
+| 23 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.974T |
+| 38 min | NZD | Exports (Nov) |  |  | 6.50B |
+| 38 min | NZD | Imports (Nov) |  |  | 8.04B |
+| 38 min | NZD | Trade Balance (MoM) (Nov) |  | -1,175M | -1,542M |
+| 38 min | NZD | Trade Balance (YoY) (Nov) |  |  | -2,280M |
 | 23:30 | JPY | CPI, n.s.a (MoM) (Nov) |  |  | 0.7% |
 | 23:30 | JPY | National CPI (YoY) (Nov) |  |  | 3.0% |
