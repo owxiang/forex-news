@@ -46,7 +46,7 @@
 | 16:00 | USD | Low | KC Fed Manufacturing Index (Dec) | -3 |  | 18 |
 | 16:30 | USD | Low | 4-Week Bill Auction | 3.585% |  | 3.610% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 3.580% |  | 3.610% |
-| 19:00 | MXN | Moderate | Interest Rate Decision (Dec) |  | 7.00% | 7.25% |
+| 48 min | MXN | Moderate | Interest Rate Decision (Dec) |  | 7.00% | 7.25% |
 | 20:00 | NZD | Moderate | Westpac Consumer Sentiment (Q4) |  |  | 90.9 |
 | 21:00 | USD | Low | Cleveland CPI (MoM) (Nov) |  |  | 0.2% |
 | 21:00 | USD | Low | US Foreign Buying, T-bonds (Oct) |  |  | 25.50B |

@@ -14,7 +14,7 @@
 | 13:30 | USD | Continuing Jobless Claims | 1,897K | 1,930K | 1,830K |
 | 13:30 | USD | Core CPI (YoY) (Nov) | 2.6% | 3.0% | 3.0% |
 | 13:30 | USD | Philly Fed Employment (Dec) | 12.9 |  | 6.0 |
-| 19:00 | MXN | Interest Rate Decision (Dec) |  | 7.00% | 7.25% |
+| 48 min | MXN | Interest Rate Decision (Dec) |  | 7.00% | 7.25% |
 | 20:00 | NZD | Westpac Consumer Sentiment (Q4) |  |  | 90.9 |
 | 21:00 | USD | TIC Net Long-Term Transactions (Oct) |  | 122.7B | 179.8B |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,539B |
