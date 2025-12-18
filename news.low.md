@@ -9,9 +9,9 @@
 | 09:30 | ZAR | PPI (MoM) (Nov) | 0.0% |  | -0.1% |
 | 09:30 | ZAR | PPI (YoY) (Nov) | 2.9% |  | 2.9% |
 | 10:00 | EUR | Construction Output (MoM) (Oct) | 0.88% |  | -0.58% |
-| 53 min | MXN | Retail Sales (YoY) (Oct) |  | 3.0% | 3.3% |
-| 53 min | MXN | Retail Sales (MoM) (Oct) |  | 0.3% | 0.0% |
-| 53 min | BRL | BCB National Monetary Council Meeting |  |  |  |
+| 12:00 | MXN | Retail Sales (YoY) (Oct) | 3.4% | 3.0% | 3.3% |
+| 12:00 | MXN | Retail Sales (MoM) (Oct) | 0.4% | 0.3% | 0.0% |
+| 12:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 13:30 | USD | Core CPI Index (Nov) |  |  | 330.54 |
 | 13:30 | USD | CPI Index, n.s.a. (Nov) |  | 325.13 | 324.80 |
 | 13:30 | USD | CPI Index, s.a (Nov) |  |  | 324.37 |

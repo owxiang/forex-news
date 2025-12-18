@@ -11,16 +11,16 @@
 | 09:30 | ZAR | Low | PPI (MoM) (Nov) | 0.0% |  | -0.1% |
 | 09:30 | ZAR | Low | PPI (YoY) (Nov) | 2.9% |  | 2.9% |
 | 10:00 | EUR | Low | Construction Output (MoM) (Oct) | 0.88% |  | -0.58% |
-| 53 min | GBP | Moderate | BOE Inflation Letter |  |  |  |
-| 53 min | GBP | Moderate | BoE MPC vote cut (Dec) |  | 5 | 4 |
-| 53 min | GBP | Moderate | BoE MPC vote hike (Dec) |  | 0 | 0 |
-| 53 min | GBP | Moderate | BoE MPC vote unchanged (Dec) |  | 4 | 5 |
-| 53 min | GBP | High | BoE Interest Rate Decision (Dec) |  | 3.75% | 4.00% |
-| 53 min | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
-| 53 min | MXN | Low | Retail Sales (YoY) (Oct) |  | 3.0% | 3.3% |
-| 53 min | MXN | Low | Retail Sales (MoM) (Oct) |  | 0.3% | 0.0% |
-| 53 min | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 12:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 12:00 | GBP | Moderate | BOE Inflation Letter |  |  |  |
+| 12:00 | GBP | Moderate | BoE MPC vote cut (Dec) | 5 | 5 | 4 |
+| 12:00 | GBP | Moderate | BoE MPC vote hike (Dec) | 0 | 0 | 0 |
+| 12:00 | GBP | Moderate | BoE MPC vote unchanged (Dec) | 4 | 4 | 5 |
+| 12:00 | GBP | High | BoE Interest Rate Decision (Dec) | 3.75% | 3.75% | 4.00% |
+| 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
+| 12:00 | MXN | Low | Retail Sales (YoY) (Oct) | 3.4% | 3.0% | 3.3% |
+| 12:00 | MXN | Low | Retail Sales (MoM) (Oct) | 0.4% | 0.3% | 0.0% |
+| 12:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
+| 17 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 13:15 | EUR | High | Deposit Facility Rate (Dec) |  | 2.00% | 2.00% |
 | 13:15 | EUR | Moderate | ECB Marginal Lending Facility |  |  | 2.40% |
 | 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
