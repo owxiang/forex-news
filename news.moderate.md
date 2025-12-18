@@ -3,11 +3,11 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 09:00 | NOK | Interest Rate Decision | 4.00% | 4.00% | 4.00% |
-| 12:00 | GBP | BOE Inflation Letter |  |  |  |
-| 12:00 | GBP | BoE MPC vote cut (Dec) |  | 5 | 4 |
-| 12:00 | GBP | BoE MPC vote hike (Dec) |  | 0 | 0 |
-| 12:00 | GBP | BoE MPC vote unchanged (Dec) |  | 4 | 5 |
-| 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
+| 53 min | GBP | BOE Inflation Letter |  |  |  |
+| 53 min | GBP | BoE MPC vote cut (Dec) |  | 5 | 4 |
+| 53 min | GBP | BoE MPC vote hike (Dec) |  | 0 | 0 |
+| 53 min | GBP | BoE MPC vote unchanged (Dec) |  | 4 | 5 |
+| 53 min | GBP | BoE MPC Meeting Minutes |  |  |  |
 | 12:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 13:15 | EUR | ECB Marginal Lending Facility |  |  | 2.40% |
 | 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |

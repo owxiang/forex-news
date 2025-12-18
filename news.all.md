@@ -10,15 +10,16 @@
 | 09:00 | NOK | Moderate | Interest Rate Decision | 4.00% | 4.00% | 4.00% |
 | 09:30 | ZAR | Low | PPI (MoM) (Nov) | 0.0% |  | -0.1% |
 | 09:30 | ZAR | Low | PPI (YoY) (Nov) | 2.9% |  | 2.9% |
-| 12:00 | GBP | Moderate | BOE Inflation Letter |  |  |  |
-| 12:00 | GBP | Moderate | BoE MPC vote cut (Dec) |  | 5 | 4 |
-| 12:00 | GBP | Moderate | BoE MPC vote hike (Dec) |  | 0 | 0 |
-| 12:00 | GBP | Moderate | BoE MPC vote unchanged (Dec) |  | 4 | 5 |
-| 12:00 | GBP | High | BoE Interest Rate Decision (Dec) |  | 3.75% | 4.00% |
-| 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
-| 12:00 | MXN | Low | Retail Sales (YoY) (Oct) |  | 3.0% | 3.3% |
-| 12:00 | MXN | Low | Retail Sales (MoM) (Oct) |  | 0.3% | 0.0% |
-| 12:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
+| 10:00 | EUR | Low | Construction Output (MoM) (Oct) | 0.88% |  | -0.58% |
+| 53 min | GBP | Moderate | BOE Inflation Letter |  |  |  |
+| 53 min | GBP | Moderate | BoE MPC vote cut (Dec) |  | 5 | 4 |
+| 53 min | GBP | Moderate | BoE MPC vote hike (Dec) |  | 0 | 0 |
+| 53 min | GBP | Moderate | BoE MPC vote unchanged (Dec) |  | 4 | 5 |
+| 53 min | GBP | High | BoE Interest Rate Decision (Dec) |  | 3.75% | 4.00% |
+| 53 min | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
+| 53 min | MXN | Low | Retail Sales (YoY) (Oct) |  | 3.0% | 3.3% |
+| 53 min | MXN | Low | Retail Sales (MoM) (Oct) |  | 0.3% | 0.0% |
+| 53 min | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
 | 12:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 13:15 | EUR | High | Deposit Facility Rate (Dec) |  | 2.00% | 2.00% |
 | 13:15 | EUR | Moderate | ECB Marginal Lending Facility |  |  | 2.40% |
@@ -28,8 +29,8 @@
 | 13:30 | USD | High | Core CPI (MoM) (Nov) |  | 0.3% | 0.2% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Nov) |  | 3.0% | 3.0% |
 | 13:30 | USD | Low | Core CPI Index (Nov) |  |  | 330.54 |
-| 13:30 | USD | High | CPI (YoY) (Nov) |  | 3.1% | 3.0% |
 | 13:30 | USD | High | CPI (MoM) (Nov) |  | 0.3% | 0.3% |
+| 13:30 | USD | High | CPI (YoY) (Nov) |  | 3.1% | 3.0% |
 | 13:30 | USD | Low | CPI Index, n.s.a. (Nov) |  | 325.13 | 324.80 |
 | 13:30 | USD | Low | CPI Index, s.a (Nov) |  |  | 324.37 |
 | 13:30 | USD | Low | CPI, n.s.a (MoM) (Nov) |  |  | 0.25% |
