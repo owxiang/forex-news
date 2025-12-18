@@ -1,20 +1,22 @@
-## 17 December 2025 - Moderate Impact Forex News
+## 18 December 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | GBP | CPI (MoM) (Nov) | -0.2% | 0.0% | 0.4% |
-| 07:00 | GBP | PPI Input (MoM) (Nov) | 0.3% | 0.2% | 0.0% |
-| 07:30 | IDR | Interest Rate Decision | 4.75% | 4.75% | 4.75% |
-| 09:00 | EUR | German Business Expectations (Dec) | 89.7 | 90.5 | 90.5 |
-| 09:00 | EUR | German Current Assessment (Dec) | 85.6 | 85.7 | 85.6 |
-| 09:00 | EUR | German Ifo Business Climate Index (Dec) | 87.6 | 88.2 | 88.0 |
-| 10:00 | EUR | Core CPI (YoY) (Nov) | 2.4% | 2.4% | 2.4% |
-| 10:00 | EUR | CPI (MoM) (Nov) | -0.3% | -0.3% | 0.2% |
-| 10:00 | EUR | Wages in euro zone (YoY) (Q3) | 3.00% |  | 3.80% |
-| 13:15 | USD | Fed Waller Speaks |  |  |  |
-| 13:30 | CAD | Foreign Securities Purchases (Oct) | 46.62B | 21.84B | 31.32B |
-| 14:05 | USD | FOMC Member Williams Speaks |  |  |  |
-| 15:30 | USD | Cushing Crude Oil Inventories | -0.742M |  | 0.308M |
-| 17:30 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 18:00 | USD | 20-Year Bond Auction | 4.798% |  | 4.706% |
-| 21:45 | NZD | GDP (QoQ) (Q3) | 1.1% | 0.9% | -1.0% |
+| 09:00 | NOK | Interest Rate Decision |  | 4.00% | 4.00% |
+| 12:00 | GBP | BOE Inflation Letter |  |  |  |
+| 12:00 | GBP | BoE MPC vote cut (Dec) |  | 5 | 4 |
+| 12:00 | GBP | BoE MPC vote hike (Dec) |  | 0 | 0 |
+| 12:00 | GBP | BoE MPC vote unchanged (Dec) |  | 4 | 5 |
+| 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
+| 12:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 13:15 | EUR | ECB Marginal Lending Facility |  |  | 2.40% |
+| 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
+| 13:30 | USD | Continuing Jobless Claims |  | 1,930K | 1,838K |
+| 13:30 | USD | Core CPI (YoY) (Nov) |  | 3.0% | 3.0% |
+| 13:30 | USD | Philly Fed Employment (Dec) |  |  | 6.0 |
+| 19:00 | MXN | Interest Rate Decision (Dec) |  | 7.00% | 7.25% |
+| 20:00 | NZD | Westpac Consumer Sentiment (Q4) |  |  | 90.9 |
+| 21:00 | USD | TIC Net Long-Term Transactions (Oct) |  | 122.7B | 179.8B |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 6,539B |
+| 23:30 | JPY | National Core CPI (YoY) (Nov) |  | 3.0% | 3.0% |
+| 23:30 | JPY | National CPI (MoM) (Nov) |  |  | 0.4% |
