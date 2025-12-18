@@ -12,17 +12,17 @@
 | 12:00 | MXN | Retail Sales (YoY) (Oct) | 3.4% | 3.0% | 3.3% |
 | 12:00 | MXN | Retail Sales (MoM) (Oct) | 0.4% | 0.3% | 0.0% |
 | 12:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
-| 13:30 | USD | Core CPI Index (Nov) |  |  | 330.54 |
-| 13:30 | USD | CPI Index, n.s.a. (Nov) |  | 325.13 | 324.80 |
-| 13:30 | USD | CPI Index, s.a (Nov) |  |  | 324.37 |
-| 13:30 | USD | CPI, n.s.a (MoM) (Nov) |  |  | 0.25% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 216.75K |
-| 13:30 | USD | Philly Fed Business Conditions (Dec) |  |  | 49.6 |
-| 13:30 | USD | Philly Fed CAPEX Index (Dec) |  |  | 26.70 |
-| 13:30 | USD | Philly Fed New Orders (Dec) |  |  | -8.6 |
-| 13:30 | USD | Philly Fed Prices Paid (Dec) |  |  | 56.10 |
-| 13:30 | USD | Real Earnings (MoM) (Nov) |  |  | -0.1% |
-| 13:30 | CAD | Average Weekly Earnings (YoY) (Oct) |  |  | 3.10% |
+| 12 min | USD | Core CPI Index (Nov) |  |  | 330.54 |
+| 12 min | USD | CPI Index, n.s.a. (Nov) |  | 325.13 | 324.80 |
+| 12 min | USD | CPI Index, s.a (Nov) |  |  | 324.37 |
+| 12 min | USD | CPI, n.s.a (MoM) (Nov) |  |  | 0.25% |
+| 12 min | USD | Jobless Claims 4-Week Avg. |  |  | 216.75K |
+| 12 min | USD | Philly Fed Business Conditions (Dec) |  |  | 49.6 |
+| 12 min | USD | Philly Fed CAPEX Index (Dec) |  |  | 26.70 |
+| 12 min | USD | Philly Fed New Orders (Dec) |  |  | -8.6 |
+| 12 min | USD | Philly Fed Prices Paid (Dec) |  |  | 56.10 |
+| 12 min | USD | Real Earnings (MoM) (Nov) |  |  | -0.1% |
+| 12 min | CAD | Average Weekly Earnings (YoY) (Oct) |  |  | 3.10% |
 | 15:30 | USD | Natural Gas Storage |  | -176B | -177B |
 | 16:00 | USD | Cleveland CPI (MoM) (Nov) |  |  | 0.2% |
 | 16:00 | USD | KC Fed Composite Index (Dec) |  |  | 8 |

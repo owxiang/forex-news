@@ -8,12 +8,12 @@
 | 12:00 | GBP | BoE MPC vote hike (Dec) | 0 | 0 | 0 |
 | 12:00 | GBP | BoE MPC vote unchanged (Dec) | 4 | 4 | 5 |
 | 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
-| 17 min | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 12:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 13:15 | EUR | ECB Marginal Lending Facility |  |  | 2.40% |
 | 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims |  | 1,930K | 1,838K |
-| 13:30 | USD | Core CPI (YoY) (Nov) |  | 3.0% | 3.0% |
-| 13:30 | USD | Philly Fed Employment (Dec) |  |  | 6.0 |
+| 12 min | USD | Continuing Jobless Claims |  | 1,930K | 1,838K |
+| 12 min | USD | Core CPI (YoY) (Nov) |  | 3.0% | 3.0% |
+| 12 min | USD | Philly Fed Employment (Dec) |  |  | 6.0 |
 | 19:00 | MXN | Interest Rate Decision (Dec) |  | 7.00% | 7.25% |
 | 20:00 | NZD | Westpac Consumer Sentiment (Q4) |  |  | 90.9 |
 | 21:00 | USD | TIC Net Long-Term Transactions (Oct) |  | 122.7B | 179.8B |
