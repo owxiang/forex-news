@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | AUD | MI Inflation Expectations | 4.7% |  | 4.5% |
 | 00:30 | AUD | Reserve Assets Total (Nov) | 113.1B |  | 110.6B |
-| 49 min | CHF | Trade Balance (Nov) |  | 5.320B | 4.319B |
-| 07:45 | EUR | French Business Survey (Dec) |  | 98 | 98 |
+| 07:00 | CHF | Trade Balance (Nov) | 3.841B | 5.320B | 4.203B |
+| 36 min | EUR | French Business Survey (Dec) |  | 98 | 98 |
 | 09:30 | ZAR | PPI (MoM) (Nov) |  |  | -0.1% |
 | 09:30 | ZAR | PPI (YoY) (Nov) |  |  | 2.9% |
 | 10:00 | EUR | Construction Output (MoM) (Oct) |  |  | -0.49% |
