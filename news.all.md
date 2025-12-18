@@ -61,7 +61,7 @@
 | 21:45 | NZD | Low | Imports (Nov) | 7.15B |  | 8.03B |
 | 21:45 | NZD | Low | Trade Balance (MoM) (Nov) | -163M | -1,175M | -1,598M |
 | 21:45 | NZD | Low | Trade Balance (YoY) (Nov) | -2,060M |  | -2,350M |
-| 23:30 | JPY | Low | CPI, n.s.a (MoM) (Nov) |  |  | 0.7% |
-| 23:30 | JPY | Moderate | National Core CPI (YoY) (Nov) |  | 3.0% | 3.0% |
-| 23:30 | JPY | Low | National CPI (YoY) (Nov) |  |  | 3.0% |
-| 23:30 | JPY | Moderate | National CPI (MoM) (Nov) |  |  | 0.4% |
+| 22 min | JPY | Low | CPI, n.s.a (MoM) (Nov) |  |  | 0.7% |
+| 22 min | JPY | Moderate | National Core CPI (YoY) (Nov) |  | 3.0% | 3.0% |
+| 22 min | JPY | Low | National CPI (YoY) (Nov) |  |  | 3.0% |
+| 22 min | JPY | Moderate | National CPI (MoM) (Nov) |  |  | 0.4% |

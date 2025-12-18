@@ -37,5 +37,5 @@
 | 21:45 | NZD | Imports (Nov) | 7.15B |  | 8.03B |
 | 21:45 | NZD | Trade Balance (MoM) (Nov) | -163M | -1,175M | -1,598M |
 | 21:45 | NZD | Trade Balance (YoY) (Nov) | -2,060M |  | -2,350M |
-| 23:30 | JPY | CPI, n.s.a (MoM) (Nov) |  |  | 0.7% |
-| 23:30 | JPY | National CPI (YoY) (Nov) |  |  | 3.0% |
+| 22 min | JPY | CPI, n.s.a (MoM) (Nov) |  |  | 0.7% |
+| 22 min | JPY | National CPI (YoY) (Nov) |  |  | 3.0% |
