@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 24 min | USD | U.S. President Trump Speaks |  |  |  |
+| 02:00 | USD | U.S. President Trump Speaks |  |  |  |
 | 12:00 | GBP | BoE Interest Rate Decision (Dec) |  | 3.75% | 4.00% |
 | 13:15 | EUR | Deposit Facility Rate (Dec) |  | 2.00% | 2.00% |
 | 13:15 | EUR | ECB Interest Rate Decision (Dec) |  | 2.15% | 2.15% |
