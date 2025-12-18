@@ -51,17 +51,16 @@
 | 20:00 | NZD | Moderate | Westpac Consumer Sentiment (Q4) | 96.5 |  | 90.9 |
 | 21:00 | USD | Low | US Foreign Buying, T-bonds (Oct) | -61.20B |  | 25.10B |
 | 21:00 | USD | Low | Overall Net Capital Flow (Oct) | -37.30B |  | 184.30B |
-| 21:00 | USD | Low | Real Earnings (MoM) (Nov) |  |  | -0.1% |
 | 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Oct) | 17.5B | 122.7B | 173.2B |
 | 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Oct) | 17.50B |  | 173.20B |
 | 21:00 | KRW | Low | PPI (MoM) (Nov) | 0.3% |  | 0.2% |
 | 21:00 | KRW | Low | PPI (YoY) (Nov) | 1.9% |  | 1.5% |
-| 23 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,539B |
-| 23 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.974T |
-| 38 min | NZD | Low | Exports (Nov) |  |  | 6.50B |
-| 38 min | NZD | Low | Imports (Nov) |  |  | 8.04B |
-| 38 min | NZD | Low | Trade Balance (MoM) (Nov) |  | -1,175M | -1,542M |
-| 38 min | NZD | Low | Trade Balance (YoY) (Nov) |  |  | -2,280M |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,557B |  | 6,539B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 2.934T |  | 2.974T |
+| 21:45 | NZD | Low | Exports (Nov) | 6.99B |  | 6.44B |
+| 21:45 | NZD | Low | Imports (Nov) | 7.15B |  | 8.03B |
+| 21:45 | NZD | Low | Trade Balance (MoM) (Nov) | -163M | -1,175M | -1,598M |
+| 21:45 | NZD | Low | Trade Balance (YoY) (Nov) | -2,060M |  | -2,350M |
 | 23:30 | JPY | Low | CPI, n.s.a (MoM) (Nov) |  |  | 0.7% |
 | 23:30 | JPY | Moderate | National Core CPI (YoY) (Nov) |  | 3.0% | 3.0% |
 | 23:30 | JPY | Low | National CPI (YoY) (Nov) |  |  | 3.0% |
