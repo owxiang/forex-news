@@ -6,9 +6,9 @@
 | 00:30 | AUD | Reserve Assets Total (Nov) | 113.1B |  | 110.6B |
 | 07:00 | CHF | Trade Balance (Nov) | 3.841B | 5.320B | 4.203B |
 | 07:45 | EUR | French Business Survey (Dec) | 102 | 98 | 98 |
-| 09:30 | ZAR | PPI (MoM) (Nov) |  |  | -0.1% |
-| 09:30 | ZAR | PPI (YoY) (Nov) |  |  | 2.9% |
-| 10:00 | EUR | Construction Output (MoM) (Oct) |  |  | -0.49% |
+| 19 min | ZAR | PPI (MoM) (Nov) |  |  | -0.1% |
+| 19 min | ZAR | PPI (YoY) (Nov) |  |  | 2.9% |
+| 49 min | EUR | Construction Output (MoM) (Oct) |  |  | -0.49% |
 | 12:00 | MXN | Retail Sales (YoY) (Oct) |  | 3.0% | 3.3% |
 | 12:00 | MXN | Retail Sales (MoM) (Oct) |  | 0.3% | 0.0% |
 | 12:00 | BRL | BCB National Monetary Council Meeting |  |  |  |

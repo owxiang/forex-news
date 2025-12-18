@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 49 min | NOK | Interest Rate Decision |  | 4.00% | 4.00% |
+| 09:00 | NOK | Interest Rate Decision | 4.00% | 4.00% | 4.00% |
 | 12:00 | GBP | BOE Inflation Letter |  |  |  |
 | 12:00 | GBP | BoE MPC vote cut (Dec) |  | 5 | 4 |
 | 12:00 | GBP | BoE MPC vote hike (Dec) |  | 0 | 0 |
