@@ -8,9 +8,8 @@
 | 07:00 | CHF | Low | Trade Balance (Nov) | 3.841B | 5.320B | 4.203B |
 | 07:45 | EUR | Low | French Business Survey (Dec) | 102 | 98 | 98 |
 | 09:00 | NOK | Moderate | Interest Rate Decision | 4.00% | 4.00% | 4.00% |
-| 19 min | ZAR | Low | PPI (MoM) (Nov) |  |  | -0.1% |
-| 19 min | ZAR | Low | PPI (YoY) (Nov) |  |  | 2.9% |
-| 49 min | EUR | Low | Construction Output (MoM) (Oct) |  |  | -0.49% |
+| 09:30 | ZAR | Low | PPI (MoM) (Nov) | 0.0% |  | -0.1% |
+| 09:30 | ZAR | Low | PPI (YoY) (Nov) | 2.9% |  | 2.9% |
 | 12:00 | GBP | Moderate | BOE Inflation Letter |  |  |  |
 | 12:00 | GBP | Moderate | BoE MPC vote cut (Dec) |  | 5 | 4 |
 | 12:00 | GBP | Moderate | BoE MPC vote hike (Dec) |  | 0 | 0 |
@@ -29,8 +28,8 @@
 | 13:30 | USD | High | Core CPI (MoM) (Nov) |  | 0.3% | 0.2% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Nov) |  | 3.0% | 3.0% |
 | 13:30 | USD | Low | Core CPI Index (Nov) |  |  | 330.54 |
-| 13:30 | USD | High | CPI (MoM) (Nov) |  | 0.3% | 0.3% |
 | 13:30 | USD | High | CPI (YoY) (Nov) |  | 3.1% | 3.0% |
+| 13:30 | USD | High | CPI (MoM) (Nov) |  | 0.3% | 0.3% |
 | 13:30 | USD | Low | CPI Index, n.s.a. (Nov) |  | 325.13 | 324.80 |
 | 13:30 | USD | Low | CPI Index, s.a (Nov) |  |  | 324.37 |
 | 13:30 | USD | Low | CPI, n.s.a (MoM) (Nov) |  |  | 0.25% |
