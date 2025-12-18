@@ -22,29 +22,26 @@
 | 12:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
 | 12:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 13:15 | EUR | High | Deposit Facility Rate (Dec) | 2.00% | 2.00% | 2.00% |
-| 13:15 | EUR | Moderate | ECB Marginal Lending Facility |  |  | 2.40% |
+| 13:15 | EUR | Moderate | ECB Marginal Lending Facility | 2.40% |  | 2.40% |
 | 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
 | 13:15 | EUR | High | ECB Interest Rate Decision (Dec) | 2.15% | 2.15% | 2.15% |
-| 12 min | USD | Moderate | Continuing Jobless Claims |  | 1,930K | 1,838K |
-| 12 min | USD | High | Core CPI (MoM) (Nov) |  | 0.3% | 0.2% |
-| 12 min | USD | Moderate | Core CPI (YoY) (Nov) |  | 3.0% | 3.0% |
-| 12 min | USD | Low | Core CPI Index (Nov) |  |  | 330.54 |
-| 12 min | USD | High | CPI (MoM) (Nov) |  | 0.3% | 0.3% |
-| 12 min | USD | High | CPI (YoY) (Nov) |  | 3.1% | 3.0% |
-| 12 min | USD | Low | CPI Index, n.s.a. (Nov) |  | 325.13 | 324.80 |
-| 12 min | USD | Low | CPI Index, s.a (Nov) |  |  | 324.37 |
-| 12 min | USD | Low | CPI, n.s.a (MoM) (Nov) |  |  | 0.25% |
-| 12 min | USD | High | Initial Jobless Claims |  | 224K | 236K |
-| 12 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 216.75K |
-| 12 min | USD | High | Philadelphia Fed Manufacturing Index (Dec) |  | 2.5 | -1.7 |
-| 12 min | USD | Low | Philly Fed Business Conditions (Dec) |  |  | 49.6 |
-| 12 min | USD | Low | Philly Fed CAPEX Index (Dec) |  |  | 26.70 |
-| 12 min | USD | Moderate | Philly Fed Employment (Dec) |  |  | 6.0 |
-| 12 min | USD | Low | Philly Fed New Orders (Dec) |  |  | -8.6 |
-| 12 min | USD | Low | Philly Fed Prices Paid (Dec) |  |  | 56.10 |
-| 12 min | USD | Low | Real Earnings (MoM) (Nov) |  |  | -0.1% |
-| 12 min | CAD | Low | Average Weekly Earnings (YoY) (Oct) |  |  | 3.10% |
-| 27 min | EUR | High | ECB Press Conference |  |  |  |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,897K | 1,930K | 1,830K |
+| 13:30 | USD | Moderate | Core CPI (YoY) (Nov) | 2.6% | 3.0% | 3.0% |
+| 13:30 | USD | Low | Core CPI Index (Nov) | 331.07 |  | 330.54 |
+| 13:30 | USD | High | CPI (YoY) (Nov) | 2.7% | 3.1% | 3.0% |
+| 13:30 | USD | Low | CPI Index, n.s.a. (Nov) | 324.12 | 325.13 | 324.80 |
+| 13:30 | USD | Low | CPI Index, s.a (Nov) | 325.03 |  | 324.37 |
+| 13:30 | USD | High | Initial Jobless Claims | 224K | 224K | 237K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 217.50K |  | 217.00K |
+| 13:30 | USD | High | Philadelphia Fed Manufacturing Index (Dec) | -10.2 | 2.5 | -1.7 |
+| 13:30 | USD | Low | Philly Fed Business Conditions (Dec) | 41.6 |  | 49.6 |
+| 13:30 | USD | Low | Philly Fed CAPEX Index (Dec) | 30.30 |  | 26.70 |
+| 13:30 | USD | Moderate | Philly Fed Employment (Dec) | 12.9 |  | 6.0 |
+| 13:30 | USD | Low | Philly Fed New Orders (Dec) | 5.0 |  | -8.6 |
+| 13:30 | USD | Low | Philly Fed Prices Paid (Dec) | 43.60 |  | 56.10 |
+| 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Oct) | 2.18% |  | 2.93% |
+| 13:45 | EUR | High | ECB Press Conference |  |  |  |
+| 22 min | USD | Low | Real Earnings (MoM) (Nov) |  |  | -0.1% |
 | 15:30 | USD | Low | Natural Gas Storage |  | -176B | -177B |
 | 16:00 | USD | Low | Cleveland CPI (MoM) (Nov) |  |  | 0.2% |
 | 16:00 | USD | Low | KC Fed Composite Index (Dec) |  |  | 8 |
