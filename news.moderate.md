@@ -15,8 +15,8 @@
 | 13:30 | USD | Core CPI (YoY) (Nov) | 2.6% | 3.0% | 3.0% |
 | 13:30 | USD | Philly Fed Employment (Dec) | 12.9 |  | 6.0 |
 | 19:00 | MXN | Interest Rate Decision (Dec) | 7.00% | 7.00% | 7.25% |
-| 52 min | NZD | Westpac Consumer Sentiment (Q4) |  |  | 90.9 |
-| 21:00 | USD | TIC Net Long-Term Transactions (Oct) |  | 122.7B | 179.8B |
+| 20:00 | NZD | Westpac Consumer Sentiment (Q4) | 96.5 |  | 90.9 |
+| 52 min | USD | TIC Net Long-Term Transactions (Oct) |  | 122.7B | 179.8B |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,539B |
 | 23:30 | JPY | National Core CPI (YoY) (Nov) |  | 3.0% | 3.0% |
 | 23:30 | JPY | National CPI (MoM) (Nov) |  |  | 0.4% |

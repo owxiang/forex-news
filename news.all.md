@@ -48,14 +48,14 @@
 | 16:30 | USD | Low | 4-Week Bill Auction | 3.585% |  | 3.610% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 3.580% |  | 3.610% |
 | 19:00 | MXN | Moderate | Interest Rate Decision (Dec) | 7.00% | 7.00% | 7.25% |
-| 52 min | NZD | Moderate | Westpac Consumer Sentiment (Q4) |  |  | 90.9 |
-| 21:00 | USD | Low | US Foreign Buying, T-bonds (Oct) |  |  | 25.50B |
-| 21:00 | USD | Low | Overall Net Capital Flow (Oct) |  |  | 190.10B |
-| 21:00 | USD | Low | Real Earnings (MoM) (Nov) |  |  | -0.1% |
-| 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Oct) |  | 122.7B | 179.8B |
-| 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Oct) |  |  | 179.80B |
-| 21:00 | KRW | Low | PPI (MoM) (Nov) |  |  | 0.2% |
-| 21:00 | KRW | Low | PPI (YoY) (Nov) |  |  | 1.5% |
+| 20:00 | NZD | Moderate | Westpac Consumer Sentiment (Q4) | 96.5 |  | 90.9 |
+| 52 min | USD | Low | US Foreign Buying, T-bonds (Oct) |  |  | 25.50B |
+| 52 min | USD | Low | Overall Net Capital Flow (Oct) |  |  | 190.10B |
+| 52 min | USD | Low | Real Earnings (MoM) (Nov) |  |  | -0.1% |
+| 52 min | USD | Moderate | TIC Net Long-Term Transactions (Oct) |  | 122.7B | 179.8B |
+| 52 min | USD | Low | TIC Net Long-Term Transactions including Swaps (Oct) |  |  | 179.80B |
+| 52 min | KRW | Low | PPI (MoM) (Nov) |  |  | 0.2% |
+| 52 min | KRW | Low | PPI (YoY) (Nov) |  |  | 1.5% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,539B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.974T |
 | 21:45 | NZD | Low | Exports (Nov) |  |  | 6.50B |
