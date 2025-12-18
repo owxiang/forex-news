@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | AUD | Low | MI Inflation Expectations | 4.7% |  | 4.5% |
-| 00:30 | AUD | Low | Reserve Assets Total (Nov) |  |  | 110,561.0B |
-| 02:00 | USD | High | U.S. President Trump Speaks |  |  |  |
+| 00:30 | AUD | Low | Reserve Assets Total (Nov) | 113.1B |  | 110.6B |
+| 24 min | USD | High | U.S. President Trump Speaks |  |  |  |
 | 07:00 | CHF | Low | Trade Balance (Nov) |  | 5.320B | 4.319B |
 | 07:45 | EUR | Low | French Business Survey (Dec) |  | 98 | 98 |
 | 09:00 | NOK | Moderate | Interest Rate Decision |  | 4.00% | 4.00% |
