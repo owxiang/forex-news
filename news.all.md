@@ -6,8 +6,8 @@
 | 00:30 | AUD | Low | Reserve Assets Total (Nov) | 113.1B |  | 110.6B |
 | 02:00 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 07:00 | CHF | Low | Trade Balance (Nov) | 3.841B | 5.320B | 4.203B |
-| 36 min | EUR | Low | French Business Survey (Dec) |  | 98 | 98 |
-| 09:00 | NOK | Moderate | Interest Rate Decision |  | 4.00% | 4.00% |
+| 07:45 | EUR | Low | French Business Survey (Dec) | 102 | 98 | 98 |
+| 49 min | NOK | Moderate | Interest Rate Decision |  | 4.00% | 4.00% |
 | 09:30 | ZAR | Low | PPI (MoM) (Nov) |  |  | -0.1% |
 | 09:30 | ZAR | Low | PPI (YoY) (Nov) |  |  | 2.9% |
 | 10:00 | EUR | Low | Construction Output (MoM) (Oct) |  |  | -0.49% |
