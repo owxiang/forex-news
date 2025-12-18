@@ -41,17 +41,17 @@
 | 13:30 | USD | Low | Philly Fed Prices Paid (Dec) | 43.60 |  | 56.10 |
 | 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Oct) | 2.18% |  | 2.93% |
 | 13:45 | EUR | High | ECB Press Conference |  |  |  |
-| 22 min | USD | Low | Real Earnings (MoM) (Nov) |  |  | -0.1% |
-| 15:30 | USD | Low | Natural Gas Storage |  | -176B | -177B |
-| 16:00 | USD | Low | Cleveland CPI (MoM) (Nov) |  |  | 0.2% |
-| 16:00 | USD | Low | KC Fed Composite Index (Dec) |  |  | 8 |
-| 16:00 | USD | Low | KC Fed Manufacturing Index (Dec) |  |  | 18 |
+| 21 min | USD | Low | Natural Gas Storage |  | -176B | -177B |
+| 51 min | USD | Low | Cleveland CPI (MoM) (Nov) |  |  | 0.2% |
+| 51 min | USD | Low | KC Fed Composite Index (Dec) |  |  | 8 |
+| 51 min | USD | Low | KC Fed Manufacturing Index (Dec) |  |  | 18 |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.610% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.610% |
 | 19:00 | MXN | Moderate | Interest Rate Decision (Dec) |  | 7.00% | 7.25% |
 | 20:00 | NZD | Moderate | Westpac Consumer Sentiment (Q4) |  |  | 90.9 |
 | 21:00 | USD | Low | US Foreign Buying, T-bonds (Oct) |  |  | 25.50B |
 | 21:00 | USD | Low | Overall Net Capital Flow (Oct) |  |  | 190.10B |
+| 21:00 | USD | Low | Real Earnings (MoM) (Nov) |  |  | -0.1% |
 | 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Oct) |  | 122.7B | 179.8B |
 | 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Oct) |  |  | 179.80B |
 | 21:00 | KRW | Low | PPI (MoM) (Nov) |  |  | 0.2% |

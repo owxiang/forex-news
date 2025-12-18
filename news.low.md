@@ -21,15 +21,15 @@
 | 13:30 | USD | Philly Fed New Orders (Dec) | 5.0 |  | -8.6 |
 | 13:30 | USD | Philly Fed Prices Paid (Dec) | 43.60 |  | 56.10 |
 | 13:30 | CAD | Average Weekly Earnings (YoY) (Oct) | 2.18% |  | 2.93% |
-| 22 min | USD | Real Earnings (MoM) (Nov) |  |  | -0.1% |
-| 15:30 | USD | Natural Gas Storage |  | -176B | -177B |
-| 16:00 | USD | Cleveland CPI (MoM) (Nov) |  |  | 0.2% |
-| 16:00 | USD | KC Fed Composite Index (Dec) |  |  | 8 |
-| 16:00 | USD | KC Fed Manufacturing Index (Dec) |  |  | 18 |
+| 21 min | USD | Natural Gas Storage |  | -176B | -177B |
+| 51 min | USD | Cleveland CPI (MoM) (Nov) |  |  | 0.2% |
+| 51 min | USD | KC Fed Composite Index (Dec) |  |  | 8 |
+| 51 min | USD | KC Fed Manufacturing Index (Dec) |  |  | 18 |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.610% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 3.610% |
 | 21:00 | USD | US Foreign Buying, T-bonds (Oct) |  |  | 25.50B |
 | 21:00 | USD | Overall Net Capital Flow (Oct) |  |  | 190.10B |
+| 21:00 | USD | Real Earnings (MoM) (Nov) |  |  | -0.1% |
 | 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Oct) |  |  | 179.80B |
 | 21:00 | KRW | PPI (MoM) (Nov) |  |  | 0.2% |
 | 21:00 | KRW | PPI (YoY) (Nov) |  |  | 1.5% |
