@@ -11,19 +11,18 @@
 | 07:00 | EUR | German PPI (MoM) (Nov) | 0.0% | 0.1% | 0.1% |
 | 07:00 | EUR | GfK German Consumer Climate (Jan) | -26.9 | -23.0 | -23.4 |
 | 11:30 | INR | RBI MPC Meeting Minutes |  |  |  |
-| 13 min | USD | FOMC Member Williams Speaks |  |  |  |
-| 13 min | USD | PCE Price index (YoY) (Oct) |  |  | 2.8% |
-| 13 min | USD | PCE price index (MoM) (Oct) |  |  | 0.3% |
-| 13 min | USD | Personal Spending (MoM) (Oct) |  |  | 0.3% |
-| 13 min | CAD | Core Retail Sales (MoM) (Oct) |  | 0.0% | 0.2% |
-| 13 min | CAD | New Housing Price Index (MoM) (Nov) |  | 0.1% | -0.4% |
-| 13 min | CAD | Retail Sales (MoM) (Oct) |  |  | -0.7% |
-| 13 min | CAD | Retail Sales (MoM) (Oct) |  | 0.0% | -0.7% |
-| 15:00 | USD | Existing Home Sales (MoM) (Nov) |  |  | 1.2% |
-| 15:00 | USD | Michigan 1-Year Inflation Expectations (Dec) |  | 4.1% | 4.1% |
-| 15:00 | USD | Michigan 5-Year Inflation Expectations (Dec) |  | 3.2% | 3.2% |
-| 15:00 | USD | Michigan Consumer Expectations (Dec) |  | 55.0 | 55.0 |
-| 15:00 | USD | Michigan Consumer Sentiment (Dec) |  | 53.5 | 53.3 |
+| 13:30 | USD | FOMC Member Williams Speaks |  |  |  |
+| 13:30 | USD | PCE Price index (YoY) (Oct) |  |  | 2.8% |
+| 13:30 | USD | PCE price index (MoM) (Oct) |  |  | 0.3% |
+| 13:30 | USD | Personal Spending (MoM) (Oct) |  |  | 0.3% |
+| 13:30 | CAD | Core Retail Sales (MoM) (Oct) | -0.6% | 0.0% | -0.1% |
+| 13:30 | CAD | New Housing Price Index (MoM) (Nov) | 0.0% | 0.1% | -0.4% |
+| 13:30 | CAD | Retail Sales (MoM) (Oct) | -0.2% | 0.0% | -0.9% |
+| 52 min | USD | Existing Home Sales (MoM) (Nov) |  |  | 1.2% |
+| 52 min | USD | Michigan 1-Year Inflation Expectations (Dec) |  | 4.1% | 4.1% |
+| 52 min | USD | Michigan 5-Year Inflation Expectations (Dec) |  | 3.2% | 3.2% |
+| 52 min | USD | Michigan Consumer Expectations (Dec) |  | 55.0 | 55.0 |
+| 52 min | USD | Michigan Consumer Sentiment (Dec) |  | 53.5 | 53.3 |
 | 15:10 | EUR | ECB's Lane Speaks |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 414 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 548 |

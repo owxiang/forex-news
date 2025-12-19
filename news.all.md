@@ -41,28 +41,27 @@
 | 12:00 | MXN | Low | Aggregate Demand (QoQ) (Q3) | 0.70% |  | 1.40% |
 | 12:00 | MXN | Low | Private Spending (QoQ) (Q3) | 1.10% |  | 1.20% |
 | 12:00 | MXN | Low | Private Spending (YoY) (Q3) | 1.60% |  | -0.40% |
-| 13 min | USD | High | Core PCE Price Index (MoM) (Oct) |  |  | 0.2% |
-| 13 min | USD | High | Core PCE Price Index (YoY) (Oct) |  |  | 2.8% |
-| 13 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 13 min | USD | Moderate | PCE Price index (YoY) (Oct) |  |  | 2.8% |
-| 13 min | USD | Moderate | PCE price index (MoM) (Oct) |  |  | 0.3% |
-| 13 min | USD | Low | Personal Income (MoM) (Oct) |  |  | 0.4% |
-| 13 min | USD | Moderate | Personal Spending (MoM) (Oct) |  |  | 0.3% |
-| 13 min | USD | Low | Real Personal Consumption (MoM) (Oct) |  |  | 0.0% |
-| 13 min | CAD | Moderate | Core Retail Sales (MoM) (Oct) |  | 0.0% | 0.2% |
-| 13 min | CAD | Moderate | New Housing Price Index (MoM) (Nov) |  | 0.1% | -0.4% |
-| 13 min | CAD | Moderate | Retail Sales (MoM) (Oct) |  |  | -0.7% |
-| 13 min | CAD | Moderate | Retail Sales (MoM) (Oct) |  | 0.0% | -0.7% |
-| 15:00 | USD | Low | CB Employment Trends Index (Nov) |  |  | 106.84 |
-| 15:00 | USD | Low | Dallas Fed PCE (Oct) |  |  | 1.90% |
-| 15:00 | USD | High | Existing Home Sales (Nov) |  | 4.15M | 4.10M |
-| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Nov) |  |  | 1.2% |
-| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Dec) |  | 4.1% | 4.1% |
-| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Dec) |  | 3.2% | 3.2% |
-| 15:00 | USD | Moderate | Michigan Consumer Expectations (Dec) |  | 55.0 | 55.0 |
-| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Dec) |  | 53.5 | 53.3 |
-| 15:00 | USD | Low | Michigan Current Conditions (Dec) |  | 50.7 | 50.7 |
-| 15:00 | EUR | Low | Consumer Confidence (Dec) |  | -14.0 | -14.2 |
+| 13:30 | USD | High | Core PCE Price Index (MoM) (Oct) |  |  | 0.2% |
+| 13:30 | USD | High | Core PCE Price Index (YoY) (Oct) |  |  | 2.8% |
+| 13:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 13:30 | USD | Moderate | PCE Price index (YoY) (Oct) |  |  | 2.8% |
+| 13:30 | USD | Moderate | PCE price index (MoM) (Oct) |  |  | 0.3% |
+| 13:30 | USD | Low | Personal Income (MoM) (Oct) |  |  | 0.4% |
+| 13:30 | USD | Moderate | Personal Spending (MoM) (Oct) |  |  | 0.3% |
+| 13:30 | USD | Low | Real Personal Consumption (MoM) (Oct) |  |  | 0.0% |
+| 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Oct) | -0.6% | 0.0% | -0.1% |
+| 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Nov) | 0.0% | 0.1% | -0.4% |
+| 13:30 | CAD | Moderate | Retail Sales (MoM) (Oct) | -0.2% | 0.0% | -0.9% |
+| 52 min | USD | Low | CB Employment Trends Index (Nov) |  |  | 106.84 |
+| 52 min | USD | Low | Dallas Fed PCE (Oct) |  |  | 1.90% |
+| 52 min | USD | High | Existing Home Sales (Nov) |  | 4.15M | 4.10M |
+| 52 min | USD | Moderate | Existing Home Sales (MoM) (Nov) |  |  | 1.2% |
+| 52 min | USD | Moderate | Michigan 1-Year Inflation Expectations (Dec) |  | 4.1% | 4.1% |
+| 52 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Dec) |  | 3.2% | 3.2% |
+| 52 min | USD | Moderate | Michigan Consumer Expectations (Dec) |  | 55.0 | 55.0 |
+| 52 min | USD | Moderate | Michigan Consumer Sentiment (Dec) |  | 53.5 | 53.3 |
+| 52 min | USD | Low | Michigan Current Conditions (Dec) |  | 50.7 | 50.7 |
+| 52 min | EUR | Low | Consumer Confidence (Dec) |  | -14.0 | -14.2 |
 | 15:10 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 414 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 548 |

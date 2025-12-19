@@ -31,12 +31,12 @@
 | 12:00 | MXN | Aggregate Demand (QoQ) (Q3) | 0.70% |  | 1.40% |
 | 12:00 | MXN | Private Spending (QoQ) (Q3) | 1.10% |  | 1.20% |
 | 12:00 | MXN | Private Spending (YoY) (Q3) | 1.60% |  | -0.40% |
-| 13 min | USD | Personal Income (MoM) (Oct) |  |  | 0.4% |
-| 13 min | USD | Real Personal Consumption (MoM) (Oct) |  |  | 0.0% |
-| 15:00 | USD | CB Employment Trends Index (Nov) |  |  | 106.84 |
-| 15:00 | USD | Dallas Fed PCE (Oct) |  |  | 1.90% |
-| 15:00 | USD | Michigan Current Conditions (Dec) |  | 50.7 | 50.7 |
-| 15:00 | EUR | Consumer Confidence (Dec) |  | -14.0 | -14.2 |
+| 13:30 | USD | Personal Income (MoM) (Oct) |  |  | 0.4% |
+| 13:30 | USD | Real Personal Consumption (MoM) (Oct) |  |  | 0.0% |
+| 52 min | USD | CB Employment Trends Index (Nov) |  |  | 106.84 |
+| 52 min | USD | Dallas Fed PCE (Oct) |  |  | 1.90% |
+| 52 min | USD | Michigan Current Conditions (Dec) |  | 50.7 | 50.7 |
+| 52 min | EUR | Consumer Confidence (Dec) |  | -14.0 | -14.2 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -2.1K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 43.6K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 58.7K |
