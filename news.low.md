@@ -15,13 +15,13 @@
 | 07:00 | NOK | Unemployment Rate n.s.a. (Dec) | 2.10% | 2.20% | 2.10% |
 | 07:45 | EUR | French PPI (MoM) (Nov) | 1.1% |  | 0.0% |
 | 07:45 | EUR | PPI (YoY) (Nov) | -3.30% |  | -0.80% |
-| 50 min | EUR | Italian Business Confidence (Dec) |  | 89.3 | 89.6 |
-| 50 min | EUR | Italian Consumer Confidence (Dec) |  | 96.0 | 95.0 |
-| 50 min | EUR | Current Account (Oct) |  | 19.6B | 23.1B |
-| 50 min | EUR | Current Account n.s.a. (Oct) |  |  | 38.1B |
-| 10:00 | EUR | Italian Industrial Sales (MoM) (Oct) |  |  | 2.10% |
-| 10:00 | EUR | Italian Industrial Sales (YoY) (Oct) |  |  | 3.40% |
-| 10:00 | EUR | Construction Output (MoM) (Oct) |  |  | -0.49% |
+| 09:00 | EUR | Italian Business Confidence (Dec) | 88.4 | 89.3 | 89.5 |
+| 09:00 | EUR | Italian Consumer Confidence (Dec) | 96.6 | 96.0 | 95.0 |
+| 09:00 | EUR | Current Account (Oct) | 25.7B | 19.6B | 23.1B |
+| 09:00 | EUR | Current Account n.s.a. (Oct) | 32.0B |  | 38.1B |
+| 51 min | EUR | Italian Industrial Sales (MoM) (Oct) |  |  | 2.10% |
+| 51 min | EUR | Italian Industrial Sales (YoY) (Oct) |  |  | 3.40% |
+| 51 min | EUR | Construction Output (MoM) (Oct) |  |  | -0.49% |
 | 11:00 | GBP | CBI Distributive Trades Survey (Dec) |  | -29 | -32 |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 11:30 | INR | FX Reserves, USD |  |  | 687.26B |
