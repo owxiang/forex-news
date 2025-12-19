@@ -1,41 +1,52 @@
-## 18 December 2025 - Low Impact Forex News
+## 19 December 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | AUD | MI Inflation Expectations | 4.7% |  | 4.5% |
-| 00:30 | AUD | Reserve Assets Total (Nov) | 113.1B |  | 110.6B |
-| 07:00 | CHF | Trade Balance (Nov) | 3.841B | 5.320B | 4.203B |
-| 07:45 | EUR | French Business Survey (Dec) | 102 | 98 | 98 |
-| 09:30 | ZAR | PPI (MoM) (Nov) | 0.0% |  | -0.1% |
-| 09:30 | ZAR | PPI (YoY) (Nov) | 2.9% |  | 2.9% |
-| 10:00 | EUR | Construction Output (MoM) (Oct) | 0.88% |  | -0.58% |
-| 12:00 | MXN | Retail Sales (YoY) (Oct) | 3.4% | 3.0% | 3.3% |
-| 12:00 | MXN | Retail Sales (MoM) (Oct) | 0.4% | 0.3% | 0.0% |
-| 12:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
-| 13:30 | USD | Core CPI Index (Nov) | 331.07 |  | 330.54 |
-| 13:30 | USD | CPI Index, n.s.a. (Nov) | 324.12 | 325.13 | 324.80 |
-| 13:30 | USD | CPI Index, s.a (Nov) | 325.03 |  | 324.37 |
-| 13:30 | USD | Jobless Claims 4-Week Avg. | 217.50K |  | 217.00K |
-| 13:30 | USD | Philly Fed Business Conditions (Dec) | 41.6 |  | 49.6 |
-| 13:30 | USD | Philly Fed CAPEX Index (Dec) | 30.30 |  | 26.70 |
-| 13:30 | USD | Philly Fed New Orders (Dec) | 5.0 |  | -8.6 |
-| 13:30 | USD | Philly Fed Prices Paid (Dec) | 43.60 |  | 56.10 |
-| 13:30 | CAD | Average Weekly Earnings (YoY) (Oct) | 2.18% |  | 2.93% |
-| 15:30 | USD | Natural Gas Storage | -167B | -176B | -177B |
-| 16:00 | USD | Cleveland CPI (MoM) (Nov) | 0.1% |  | 0.2% |
-| 16:00 | USD | KC Fed Composite Index (Dec) | 1 |  | 8 |
-| 16:00 | USD | KC Fed Manufacturing Index (Dec) | -3 |  | 18 |
-| 16:30 | USD | 4-Week Bill Auction | 3.585% |  | 3.610% |
-| 16:30 | USD | 8-Week Bill Auction | 3.580% |  | 3.610% |
-| 21:00 | USD | US Foreign Buying, T-bonds (Oct) | -61.20B |  | 25.10B |
-| 21:00 | USD | Overall Net Capital Flow (Oct) | -37.30B |  | 184.30B |
-| 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Oct) | 17.50B |  | 173.20B |
-| 21:00 | KRW | PPI (MoM) (Nov) | 0.3% |  | 0.2% |
-| 21:00 | KRW | PPI (YoY) (Nov) | 1.9% |  | 1.5% |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 2.934T |  | 2.974T |
-| 21:45 | NZD | Exports (Nov) | 6.99B |  | 6.44B |
-| 21:45 | NZD | Imports (Nov) | 7.15B |  | 8.03B |
-| 21:45 | NZD | Trade Balance (MoM) (Nov) | -163M | -1,175M | -1,598M |
-| 21:45 | NZD | Trade Balance (YoY) (Nov) | -2,060M |  | -2,350M |
-| 22 min | JPY | CPI, n.s.a (MoM) (Nov) |  |  | 0.7% |
-| 22 min | JPY | National CPI (YoY) (Nov) |  |  | 3.0% |
+| 00:00 | NZD | ANZ Business Confidence (Dec) | 73.6 |  | 67.1 |
+| 00:00 | NZD | NBNZ Own Activity (Dec) | 60.9% |  | 53.1% |
+| 00:01 | GBP | GfK Consumer Confidence (Dec) | -17 | -18 | -19 |
+| 00:30 | AUD | Housing Credit (Nov) | 0.6% |  | 0.6% |
+| 00:30 | AUD | Private Sector Credit (MoM) (Nov) | 0.6% | 0.6% | 0.7% |
+| 02:00 | NZD | Credit Card Spending (YoY) (Nov) |  |  | 1.4% |
+| 02:00 | NZD | Credit Card Spending (YoY) |  |  | 1.4% |
+| 05:30 | AUD | Commodity Prices (YoY) |  |  | -1.7% |
+| 07:00 | GBP | Public Sector Net Borrowing |  | 10.20B | 17.43B |
+| 07:00 | GBP | Public Sector Net Cash Requirement (Nov) |  |  | 20.825B |
+| 07:00 | EUR | German PPI (YoY) (Nov) |  | -2.2% | -1.8% |
+| 07:00 | NOK | Unemployment Rate n.s.a. (Dec) |  |  | 2.10% |
+| 07:45 | EUR | French PPI (MoM) (Nov) |  |  | 0.0% |
+| 07:45 | EUR | PPI (YoY) (Nov) |  |  | -0.80% |
+| 08:00 | EUR | Current Account (Oct) |  | 19.6B | 23.1B |
+| 08:00 | EUR | Current Account n.s.a. (Oct) |  |  | 38.1B |
+| 09:00 | EUR | Italian Business Confidence (Dec) |  |  | 89.6 |
+| 09:00 | EUR | Italian Consumer Confidence (Dec) |  |  | 95.0 |
+| 10:00 | EUR | Italian Industrial Sales (YoY) (Oct) |  |  | 3.40% |
+| 10:00 | EUR | Italian Industrial Sales (MoM) (Oct) |  |  | 2.10% |
+| 10:00 | EUR | Construction Output (MoM) (Oct) |  |  | -0.49% |
+| 11:00 | GBP | CBI Distributive Trades Survey (Dec) |  | -29 | -32 |
+| 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 11:30 | INR | FX Reserves, USD |  |  | 687.26B |
+| 11:30 | BRL | Current Account (USD) (Nov) |  | -4.85B | -5.12B |
+| 11:30 | BRL | Foreign direct investment (USD) (Nov) |  | 6.80B | 10.94B |
+| 12:00 | MXN | Aggregate Demand (QoQ) (Q3) |  |  | 1.40% |
+| 12:00 | MXN | Aggregate Demand (YoY) (Q3) |  |  | 0.30% |
+| 12:00 | MXN | Private Spending (YoY) (Q3) |  |  | -0.40% |
+| 12:00 | MXN | Private Spending (QoQ) (Q3) |  |  | 1.20% |
+| 13:30 | USD | Personal Income (MoM) (Oct) |  |  | 0.4% |
+| 13:30 | USD | Real Personal Consumption (MoM) (Oct) |  |  | 0.0% |
+| 15:00 | USD | CB Employment Trends Index (Nov) |  |  | 106.84 |
+| 15:00 | USD | Dallas Fed PCE (Oct) |  |  | 1.90% |
+| 15:00 | USD | Michigan Current Conditions (Dec) |  | 50.7 | 50.7 |
+| 15:00 | EUR | Consumer Confidence (Dec) |  | -14.0 | -14.2 |
+| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -2.1K |
+| 20:30 | USD | CFTC Copper speculative net positions |  |  | 43.6K |
+| 20:30 | USD | CFTC Corn speculative net positions |  |  | 58.7K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -138.4K |
+| 20:30 | USD | CFTC Silver speculative net positions |  |  | 32.2K |
+| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 239.8K |
+| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -35.4K |
+| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -150.4K |
+| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 95.2K |
+| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -35.4K |
+| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -52.1K |
+| 21:00 | USD | Real Earnings (MoM) (Nov) |  |  | -0.1% |
