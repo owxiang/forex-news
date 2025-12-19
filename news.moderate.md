@@ -10,7 +10,7 @@
 | 07:00 | GBP | Retail Sales (YoY) (Nov) | 0.6% | 1.6% | 0.6% |
 | 07:00 | EUR | German PPI (MoM) (Nov) | 0.0% | 0.1% | 0.1% |
 | 07:00 | EUR | GfK German Consumer Climate (Jan) | -26.9 | -23.0 | -23.4 |
-| 23 min | INR | RBI MPC Meeting Minutes |  |  |  |
+| 11:30 | INR | RBI MPC Meeting Minutes |  |  |  |
 | 13:30 | USD | FOMC Member Williams Speaks |  |  |  |
 | 13:30 | USD | PCE Price index (YoY) (Oct) |  |  | 2.8% |
 | 13:30 | USD | PCE price index (MoM) (Oct) |  |  | 0.3% |
