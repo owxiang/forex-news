@@ -8,7 +8,7 @@
 | 00:30 | AUD | Housing Credit (Nov) | 0.6% |  | 0.6% |
 | 00:30 | AUD | Private Sector Credit (MoM) (Nov) | 0.6% | 0.6% | 0.7% |
 | 02:00 | NZD | Credit Card Spending (YoY) (Nov) | 4.7% |  | 1.6% |
-| 05:30 | AUD | Commodity Prices (YoY) |  |  | -1.7% |
+| 22 min | AUD | Commodity Prices (YoY) |  |  | -1.7% |
 | 07:00 | GBP | Public Sector Net Borrowing |  | 10.20B | 17.43B |
 | 07:00 | GBP | Public Sector Net Cash Requirement (Nov) |  |  | 20.825B |
 | 07:00 | EUR | German PPI (YoY) (Nov) |  | -2.2% | -1.8% |
