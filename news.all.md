@@ -11,23 +11,23 @@
 | 02:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
 | 03:00 | JPY | High | BoJ Interest Rate Decision | 0.75% | 0.75% | 0.50% |
 | 05:30 | AUD | Low | Commodity Prices (YoY) | -3.8% |  | -1.7% |
-| 19 min | JPY | Moderate | BoJ Press Conference |  |  |  |
-| 49 min | GBP | Moderate | Core Retail Sales (YoY) (Nov) |  |  | 1.2% |
-| 49 min | GBP | Moderate | Core Retail Sales (MoM) (Nov) |  |  | -1.0% |
-| 49 min | GBP | Low | Public Sector Net Borrowing |  | 10.20B | 17.43B |
-| 49 min | GBP | Low | Public Sector Net Cash Requirement (Nov) |  |  | 20.825B |
-| 49 min | GBP | Moderate | Retail Sales (MoM) (Nov) |  | 0.3% | -1.1% |
-| 49 min | GBP | Moderate | Retail Sales (YoY) (Nov) |  | 1.6% | 0.2% |
-| 49 min | EUR | Low | German PPI (YoY) (Nov) |  | -2.2% | -1.8% |
-| 49 min | EUR | Moderate | German PPI (MoM) (Nov) |  | 0.1% | 0.1% |
-| 49 min | EUR | Moderate | GfK German Consumer Climate (Jan) |  | -23.0 | -23.2 |
-| 49 min | NOK | Low | Unemployment Rate n.s.a. (Dec) |  |  | 2.10% |
-| 07:45 | EUR | Low | French PPI (MoM) (Nov) |  |  | 0.0% |
-| 07:45 | EUR | Low | PPI (YoY) (Nov) |  |  | -0.80% |
-| 08:00 | EUR | Low | Current Account (Oct) |  | 19.6B | 23.1B |
-| 08:00 | EUR | Low | Current Account n.s.a. (Oct) |  |  | 38.1B |
-| 09:00 | EUR | Low | Italian Business Confidence (Dec) |  |  | 89.6 |
-| 09:00 | EUR | Low | Italian Consumer Confidence (Dec) |  |  | 95.0 |
+| 06:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
+| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Nov) | 1.2% | 1.6% | 1.6% |
+| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Nov) | -0.2% | 0.2% | -0.8% |
+| 07:00 | GBP | Low | Public Sector Net Borrowing | -11.65B | -10.20B | -21.19B |
+| 07:00 | GBP | Low | Public Sector Net Cash Requirement (Nov) | 10.293B |  | 20.460B |
+| 07:00 | GBP | Moderate | Retail Sales (MoM) (Nov) | -0.1% | 0.3% | -0.9% |
+| 07:00 | GBP | Moderate | Retail Sales (YoY) (Nov) | 0.6% | 1.6% | 0.6% |
+| 07:00 | EUR | Low | German PPI (YoY) (Nov) | -2.3% | -2.2% | -1.8% |
+| 07:00 | EUR | Moderate | German PPI (MoM) (Nov) | 0.0% | 0.1% | 0.1% |
+| 07:00 | EUR | Moderate | GfK German Consumer Climate (Jan) | -26.9 | -23.0 | -23.4 |
+| 07:00 | NOK | Low | Unemployment Rate n.s.a. (Dec) | 2.10% | 2.20% | 2.10% |
+| 36 min | EUR | Low | French PPI (MoM) (Nov) |  |  | 0.0% |
+| 36 min | EUR | Low | PPI (YoY) (Nov) |  |  | -0.80% |
+| 51 min | EUR | Low | Current Account (Oct) |  | 19.6B | 23.1B |
+| 51 min | EUR | Low | Current Account n.s.a. (Oct) |  |  | 38.1B |
+| 09:00 | EUR | Low | Italian Business Confidence (Dec) |  | 89.3 | 89.6 |
+| 09:00 | EUR | Low | Italian Consumer Confidence (Dec) |  | 96.0 | 95.0 |
 | 10:00 | EUR | Low | Italian Industrial Sales (MoM) (Oct) |  |  | 2.10% |
 | 10:00 | EUR | Low | Italian Industrial Sales (YoY) (Oct) |  |  | 3.40% |
 | 10:00 | EUR | Low | Construction Output (MoM) (Oct) |  |  | -0.49% |
@@ -63,6 +63,7 @@
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Dec) |  | 53.5 | 53.3 |
 | 15:00 | USD | Low | Michigan Current Conditions (Dec) |  | 50.7 | 50.7 |
 | 15:00 | EUR | Low | Consumer Confidence (Dec) |  | -14.0 | -14.2 |
+| 15:10 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 414 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 548 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -93.2K |

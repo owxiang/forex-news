@@ -3,13 +3,13 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
-| 19 min | JPY | BoJ Press Conference |  |  |  |
-| 49 min | GBP | Core Retail Sales (YoY) (Nov) |  |  | 1.2% |
-| 49 min | GBP | Core Retail Sales (MoM) (Nov) |  |  | -1.0% |
-| 49 min | GBP | Retail Sales (MoM) (Nov) |  | 0.3% | -1.1% |
-| 49 min | GBP | Retail Sales (YoY) (Nov) |  | 1.6% | 0.2% |
-| 49 min | EUR | German PPI (MoM) (Nov) |  | 0.1% | 0.1% |
-| 49 min | EUR | GfK German Consumer Climate (Jan) |  | -23.0 | -23.2 |
+| 06:30 | JPY | BoJ Press Conference |  |  |  |
+| 07:00 | GBP | Core Retail Sales (YoY) (Nov) | 1.2% | 1.6% | 1.6% |
+| 07:00 | GBP | Core Retail Sales (MoM) (Nov) | -0.2% | 0.2% | -0.8% |
+| 07:00 | GBP | Retail Sales (MoM) (Nov) | -0.1% | 0.3% | -0.9% |
+| 07:00 | GBP | Retail Sales (YoY) (Nov) | 0.6% | 1.6% | 0.6% |
+| 07:00 | EUR | German PPI (MoM) (Nov) | 0.0% | 0.1% | 0.1% |
+| 07:00 | EUR | GfK German Consumer Climate (Jan) | -26.9 | -23.0 | -23.4 |
 | 11:30 | INR | RBI MPC Meeting Minutes |  |  |  |
 | 13:30 | USD | FOMC Member Williams Speaks |  |  |  |
 | 13:30 | USD | PCE Price index (YoY) (Oct) |  |  | 2.8% |
@@ -24,6 +24,7 @@
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Dec) |  | 3.2% | 3.2% |
 | 15:00 | USD | Michigan Consumer Expectations (Dec) |  | 55.0 | 55.0 |
 | 15:00 | USD | Michigan Consumer Sentiment (Dec) |  | 53.5 | 53.3 |
+| 15:10 | EUR | ECB's Lane Speaks |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 414 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 548 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -93.2K |
