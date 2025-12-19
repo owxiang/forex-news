@@ -19,11 +19,11 @@
 | 09:00 | EUR | Italian Consumer Confidence (Dec) | 96.6 | 96.0 | 95.0 |
 | 09:00 | EUR | Current Account (Oct) | 25.7B | 19.6B | 23.1B |
 | 09:00 | EUR | Current Account n.s.a. (Oct) | 32.0B |  | 38.1B |
-| 51 min | EUR | Italian Industrial Sales (MoM) (Oct) |  |  | 2.10% |
-| 51 min | EUR | Italian Industrial Sales (YoY) (Oct) |  |  | 3.40% |
-| 51 min | EUR | Construction Output (MoM) (Oct) |  |  | -0.49% |
-| 11:00 | GBP | CBI Distributive Trades Survey (Dec) |  | -29 | -32 |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 09:21 | CNY | FDI (Nov) | -7.50% |  | -10.30% |
+| 10:00 | EUR | Italian Industrial Sales (MoM) (Oct) | -0.50% |  | 1.90% |
+| 10:00 | EUR | Italian Industrial Sales (YoY) (Oct) | 1.70% |  | 3.40% |
+| 52 min | GBP | CBI Distributive Trades Survey (Dec) |  | -29 | -32 |
+| 52 min | EUR | German Buba Monthly Report |  |  |  |
 | 11:30 | INR | FX Reserves, USD |  |  | 687.26B |
 | 11:30 | BRL | Current Account (USD) (Nov) |  | -4.85B | -5.12B |
 | 11:30 | BRL | Foreign direct investment (USD) (Nov) |  | 6.80B | 10.94B |
