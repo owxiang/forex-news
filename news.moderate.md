@@ -4,10 +4,10 @@
 |------|----------|-------|--------|----------|----------|
 | 02:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
 | 06:30 | JPY | BoJ Press Conference |  |  |  |
-| 07:00 | GBP | Core Retail Sales (MoM) (Nov) | -0.2% | 0.2% | -0.8% |
 | 07:00 | GBP | Core Retail Sales (YoY) (Nov) | 1.2% | 1.6% | 1.6% |
-| 07:00 | GBP | Retail Sales (MoM) (Nov) | -0.1% | 0.3% | -0.9% |
+| 07:00 | GBP | Core Retail Sales (MoM) (Nov) | -0.2% | 0.2% | -0.8% |
 | 07:00 | GBP | Retail Sales (YoY) (Nov) | 0.6% | 1.6% | 0.6% |
+| 07:00 | GBP | Retail Sales (MoM) (Nov) | -0.1% | 0.3% | -0.9% |
 | 07:00 | EUR | German PPI (MoM) (Nov) | 0.0% | 0.1% | 0.1% |
 | 07:00 | EUR | GfK German Consumer Climate (Jan) | -26.9 | -23.0 | -23.4 |
 | 11:30 | INR | RBI MPC Meeting Minutes |  |  |  |
@@ -21,10 +21,7 @@
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Dec) | 3.2% | 3.2% | 3.4% |
 | 15:00 | USD | Michigan Consumer Expectations (Dec) | 54.6 | 55.0 | 51.0 |
 | 15:00 | USD | Michigan Consumer Sentiment (Dec) | 52.9 | 53.5 | 51.0 |
-| 15:00 | USD | PCE price index (MoM) (Oct) |  |  | 0.3% |
-| 15:00 | USD | PCE Price index (YoY) (Oct) |  |  | 2.8% |
-| 15:00 | USD | Personal Spending (MoM) (Oct) |  |  | 0.3% |
-| 2 min | EUR | ECB's Lane Speaks |  |  |  |
+| 15:10 | EUR | ECB's Lane Speaks |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 414 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 548 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -93.2K |

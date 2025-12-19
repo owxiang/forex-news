@@ -3,6 +3,4 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 03:00 | JPY | BoJ Interest Rate Decision | 0.75% | 0.75% | 0.50% |
-| 15:00 | USD | Core PCE Price Index (MoM) (Oct) |  |  | 0.2% |
-| 15:00 | USD | Core PCE Price Index (YoY) (Oct) |  |  | 2.8% |
 | 15:00 | USD | Existing Home Sales (Nov) | 4.13M | 4.15M | 4.11M |

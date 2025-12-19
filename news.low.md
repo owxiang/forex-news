@@ -20,22 +20,19 @@
 | 09:00 | EUR | Current Account (Oct) | 25.7B | 19.6B | 23.1B |
 | 09:00 | EUR | Current Account n.s.a. (Oct) | 32.0B |  | 38.1B |
 | 09:21 | CNY | FDI (Nov) | -7.50% |  | -10.30% |
-| 10:00 | EUR | Italian Industrial Sales (MoM) (Oct) | -0.50% |  | 1.90% |
 | 10:00 | EUR | Italian Industrial Sales (YoY) (Oct) | 1.70% |  | 3.40% |
+| 10:00 | EUR | Italian Industrial Sales (MoM) (Oct) | -0.50% |  | 1.90% |
 | 11:00 | GBP | CBI Distributive Trades Survey (Dec) | -44 | -29 | -32 |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 11:30 | INR | FX Reserves, USD | 688.95B |  | 687.26B |
 | 11:30 | BRL | Current Account (USD) (Nov) | -4.94B | -4.85B | -5.12B |
 | 11:30 | BRL | Foreign direct investment (USD) (Nov) | 9.82B | 6.80B | 10.94B |
-| 12:00 | MXN | Aggregate Demand (QoQ) (Q3) | 0.70% |  | 1.40% |
 | 12:00 | MXN | Aggregate Demand (YoY) (Q3) | 1.10% |  | 0.30% |
+| 12:00 | MXN | Aggregate Demand (QoQ) (Q3) | 0.70% |  | 1.40% |
 | 12:00 | MXN | Private Spending (QoQ) (Q3) | 1.10% |  | 1.20% |
 | 12:00 | MXN | Private Spending (YoY) (Q3) | 1.60% |  | -0.40% |
 | 15:00 | USD | CB Employment Trends Index (Nov) | 105.80 |  | 106.24 |
-| 15:00 | USD | Dallas Fed PCE (Oct) |  |  | 1.90% |
 | 15:00 | USD | Michigan Current Conditions (Dec) | 50.4 | 50.7 | 51.1 |
-| 15:00 | USD | Personal Income (MoM) (Oct) |  |  | 0.4% |
-| 15:00 | USD | Real Personal Consumption (MoM) (Oct) |  |  | 0.0% |
 | 15:00 | EUR | Consumer Confidence (Dec) | -14.6 | -14.0 | -14.2 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -2.1K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 43.6K |
