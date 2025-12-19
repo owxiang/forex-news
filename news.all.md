@@ -10,18 +10,18 @@
 | 02:00 | NZD | Low | Credit Card Spending (YoY) (Nov) | 4.7% |  | 1.6% |
 | 02:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
 | 03:00 | JPY | High | BoJ Interest Rate Decision | 0.75% | 0.75% | 0.50% |
-| 22 min | AUD | Low | Commodity Prices (YoY) |  |  | -1.7% |
-| 06:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
-| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Nov) |  |  | 1.2% |
-| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Nov) |  |  | -1.0% |
-| 07:00 | GBP | Low | Public Sector Net Borrowing |  | 10.20B | 17.43B |
-| 07:00 | GBP | Low | Public Sector Net Cash Requirement (Nov) |  |  | 20.825B |
-| 07:00 | GBP | Moderate | Retail Sales (MoM) (Nov) |  | 0.3% | -1.1% |
-| 07:00 | GBP | Moderate | Retail Sales (YoY) (Nov) |  | 1.6% | 0.2% |
-| 07:00 | EUR | Low | German PPI (YoY) (Nov) |  | -2.2% | -1.8% |
-| 07:00 | EUR | Moderate | German PPI (MoM) (Nov) |  | 0.1% | 0.1% |
-| 07:00 | EUR | Moderate | GfK German Consumer Climate (Jan) |  | -23.0 | -23.2 |
-| 07:00 | NOK | Low | Unemployment Rate n.s.a. (Dec) |  |  | 2.10% |
+| 05:30 | AUD | Low | Commodity Prices (YoY) | -3.8% |  | -1.7% |
+| 19 min | JPY | Moderate | BoJ Press Conference |  |  |  |
+| 49 min | GBP | Moderate | Core Retail Sales (YoY) (Nov) |  |  | 1.2% |
+| 49 min | GBP | Moderate | Core Retail Sales (MoM) (Nov) |  |  | -1.0% |
+| 49 min | GBP | Low | Public Sector Net Borrowing |  | 10.20B | 17.43B |
+| 49 min | GBP | Low | Public Sector Net Cash Requirement (Nov) |  |  | 20.825B |
+| 49 min | GBP | Moderate | Retail Sales (MoM) (Nov) |  | 0.3% | -1.1% |
+| 49 min | GBP | Moderate | Retail Sales (YoY) (Nov) |  | 1.6% | 0.2% |
+| 49 min | EUR | Low | German PPI (YoY) (Nov) |  | -2.2% | -1.8% |
+| 49 min | EUR | Moderate | German PPI (MoM) (Nov) |  | 0.1% | 0.1% |
+| 49 min | EUR | Moderate | GfK German Consumer Climate (Jan) |  | -23.0 | -23.2 |
+| 49 min | NOK | Low | Unemployment Rate n.s.a. (Dec) |  |  | 2.10% |
 | 07:45 | EUR | Low | French PPI (MoM) (Nov) |  |  | 0.0% |
 | 07:45 | EUR | Low | PPI (YoY) (Nov) |  |  | -0.80% |
 | 08:00 | EUR | Low | Current Account (Oct) |  | 19.6B | 23.1B |

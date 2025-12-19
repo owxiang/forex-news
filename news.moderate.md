@@ -3,13 +3,13 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
-| 06:30 | JPY | BoJ Press Conference |  |  |  |
-| 07:00 | GBP | Core Retail Sales (YoY) (Nov) |  |  | 1.2% |
-| 07:00 | GBP | Core Retail Sales (MoM) (Nov) |  |  | -1.0% |
-| 07:00 | GBP | Retail Sales (MoM) (Nov) |  | 0.3% | -1.1% |
-| 07:00 | GBP | Retail Sales (YoY) (Nov) |  | 1.6% | 0.2% |
-| 07:00 | EUR | German PPI (MoM) (Nov) |  | 0.1% | 0.1% |
-| 07:00 | EUR | GfK German Consumer Climate (Jan) |  | -23.0 | -23.2 |
+| 19 min | JPY | BoJ Press Conference |  |  |  |
+| 49 min | GBP | Core Retail Sales (YoY) (Nov) |  |  | 1.2% |
+| 49 min | GBP | Core Retail Sales (MoM) (Nov) |  |  | -1.0% |
+| 49 min | GBP | Retail Sales (MoM) (Nov) |  | 0.3% | -1.1% |
+| 49 min | GBP | Retail Sales (YoY) (Nov) |  | 1.6% | 0.2% |
+| 49 min | EUR | German PPI (MoM) (Nov) |  | 0.1% | 0.1% |
+| 49 min | EUR | GfK German Consumer Climate (Jan) |  | -23.0 | -23.2 |
 | 11:30 | INR | RBI MPC Meeting Minutes |  |  |  |
 | 13:30 | USD | FOMC Member Williams Speaks |  |  |  |
 | 13:30 | USD | PCE Price index (YoY) (Oct) |  |  | 2.8% |
