@@ -31,16 +31,16 @@
 | 09:21 | CNY | Low | FDI (Nov) | -7.50% |  | -10.30% |
 | 10:00 | EUR | Low | Italian Industrial Sales (MoM) (Oct) | -0.50% |  | 1.90% |
 | 10:00 | EUR | Low | Italian Industrial Sales (YoY) (Oct) | 1.70% |  | 3.40% |
-| 52 min | GBP | Low | CBI Distributive Trades Survey (Dec) |  | -29 | -32 |
-| 52 min | EUR | Low | German Buba Monthly Report |  |  |  |
-| 11:30 | INR | Low | FX Reserves, USD |  |  | 687.26B |
-| 11:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
-| 11:30 | BRL | Low | Current Account (USD) (Nov) |  | -4.85B | -5.12B |
-| 11:30 | BRL | Low | Foreign direct investment (USD) (Nov) |  | 6.80B | 10.94B |
-| 12:00 | MXN | Low | Aggregate Demand (YoY) (Q3) |  |  | 0.30% |
-| 12:00 | MXN | Low | Aggregate Demand (QoQ) (Q3) |  |  | 1.40% |
-| 12:00 | MXN | Low | Private Spending (QoQ) (Q3) |  |  | 1.20% |
-| 12:00 | MXN | Low | Private Spending (YoY) (Q3) |  |  | -0.40% |
+| 11:00 | GBP | Low | CBI Distributive Trades Survey (Dec) | -44 | -29 | -32 |
+| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 23 min | INR | Low | FX Reserves, USD |  |  | 687.26B |
+| 23 min | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
+| 23 min | BRL | Low | Current Account (USD) (Nov) |  | -4.85B | -5.12B |
+| 23 min | BRL | Low | Foreign direct investment (USD) (Nov) |  | 6.80B | 10.94B |
+| 53 min | MXN | Low | Aggregate Demand (YoY) (Q3) |  |  | 0.30% |
+| 53 min | MXN | Low | Aggregate Demand (QoQ) (Q3) |  |  | 1.40% |
+| 53 min | MXN | Low | Private Spending (QoQ) (Q3) |  |  | 1.20% |
+| 53 min | MXN | Low | Private Spending (YoY) (Q3) |  |  | -0.40% |
 | 13:30 | USD | High | Core PCE Price Index (MoM) (Oct) |  |  | 0.2% |
 | 13:30 | USD | High | Core PCE Price Index (YoY) (Oct) |  |  | 2.8% |
 | 13:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |

@@ -22,15 +22,15 @@
 | 09:21 | CNY | FDI (Nov) | -7.50% |  | -10.30% |
 | 10:00 | EUR | Italian Industrial Sales (MoM) (Oct) | -0.50% |  | 1.90% |
 | 10:00 | EUR | Italian Industrial Sales (YoY) (Oct) | 1.70% |  | 3.40% |
-| 52 min | GBP | CBI Distributive Trades Survey (Dec) |  | -29 | -32 |
-| 52 min | EUR | German Buba Monthly Report |  |  |  |
-| 11:30 | INR | FX Reserves, USD |  |  | 687.26B |
-| 11:30 | BRL | Current Account (USD) (Nov) |  | -4.85B | -5.12B |
-| 11:30 | BRL | Foreign direct investment (USD) (Nov) |  | 6.80B | 10.94B |
-| 12:00 | MXN | Aggregate Demand (YoY) (Q3) |  |  | 0.30% |
-| 12:00 | MXN | Aggregate Demand (QoQ) (Q3) |  |  | 1.40% |
-| 12:00 | MXN | Private Spending (QoQ) (Q3) |  |  | 1.20% |
-| 12:00 | MXN | Private Spending (YoY) (Q3) |  |  | -0.40% |
+| 11:00 | GBP | CBI Distributive Trades Survey (Dec) | -44 | -29 | -32 |
+| 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 23 min | INR | FX Reserves, USD |  |  | 687.26B |
+| 23 min | BRL | Current Account (USD) (Nov) |  | -4.85B | -5.12B |
+| 23 min | BRL | Foreign direct investment (USD) (Nov) |  | 6.80B | 10.94B |
+| 53 min | MXN | Aggregate Demand (YoY) (Q3) |  |  | 0.30% |
+| 53 min | MXN | Aggregate Demand (QoQ) (Q3) |  |  | 1.40% |
+| 53 min | MXN | Private Spending (QoQ) (Q3) |  |  | 1.20% |
+| 53 min | MXN | Private Spending (YoY) (Q3) |  |  | -0.40% |
 | 13:30 | USD | Personal Income (MoM) (Oct) |  |  | 0.4% |
 | 13:30 | USD | Real Personal Consumption (MoM) (Oct) |  |  | 0.0% |
 | 15:00 | USD | CB Employment Trends Index (Nov) |  |  | 106.84 |
