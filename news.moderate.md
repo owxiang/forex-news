@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
+| 54 min | JPY | BoJ Monetary Policy Statement |  |  |  |
 | 06:30 | JPY | BoJ Press Conference |  |  |  |
 | 07:00 | GBP | Core Retail Sales (YoY) (Nov) |  |  | 1.2% |
 | 07:00 | GBP | Core Retail Sales (MoM) (Nov) |  |  | -1.0% |

@@ -7,9 +7,9 @@
 | 00:01 | GBP | Low | GfK Consumer Confidence (Dec) | -17 | -18 | -19 |
 | 00:30 | AUD | Low | Housing Credit (Nov) | 0.6% |  | 0.6% |
 | 00:30 | AUD | Low | Private Sector Credit (MoM) (Nov) | 0.6% | 0.6% | 0.7% |
-| 02:00 | NZD | Low | Credit Card Spending (YoY) (Nov) |  |  | 1.4% |
-| 02:00 | NZD | Low | Credit Card Spending (YoY) |  |  | 1.4% |
-| 02:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
+| 24 min | NZD | Low | Credit Card Spending (YoY) (Nov) |  |  | 1.4% |
+| 24 min | NZD | Low | Credit Card Spending (YoY) |  |  | 1.4% |
+| 54 min | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
 | 03:00 | JPY | High | BoJ Interest Rate Decision |  | 0.75% | 0.50% |
 | 05:30 | AUD | Low | Commodity Prices (YoY) |  |  | -1.7% |
 | 06:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
