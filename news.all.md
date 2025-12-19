@@ -22,12 +22,12 @@
 | 07:00 | EUR | Moderate | German PPI (MoM) (Nov) | 0.0% | 0.1% | 0.1% |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Jan) | -26.9 | -23.0 | -23.4 |
 | 07:00 | NOK | Low | Unemployment Rate n.s.a. (Dec) | 2.10% | 2.20% | 2.10% |
-| 36 min | EUR | Low | French PPI (MoM) (Nov) |  |  | 0.0% |
-| 36 min | EUR | Low | PPI (YoY) (Nov) |  |  | -0.80% |
-| 51 min | EUR | Low | Current Account (Oct) |  | 19.6B | 23.1B |
-| 51 min | EUR | Low | Current Account n.s.a. (Oct) |  |  | 38.1B |
-| 09:00 | EUR | Low | Italian Business Confidence (Dec) |  | 89.3 | 89.6 |
-| 09:00 | EUR | Low | Italian Consumer Confidence (Dec) |  | 96.0 | 95.0 |
+| 07:45 | EUR | Low | French PPI (MoM) (Nov) | 1.1% |  | 0.0% |
+| 07:45 | EUR | Low | PPI (YoY) (Nov) | -3.30% |  | -0.80% |
+| 50 min | EUR | Low | Italian Business Confidence (Dec) |  | 89.3 | 89.6 |
+| 50 min | EUR | Low | Italian Consumer Confidence (Dec) |  | 96.0 | 95.0 |
+| 50 min | EUR | Low | Current Account (Oct) |  | 19.6B | 23.1B |
+| 50 min | EUR | Low | Current Account n.s.a. (Oct) |  |  | 38.1B |
 | 10:00 | EUR | Low | Italian Industrial Sales (MoM) (Oct) |  |  | 2.10% |
 | 10:00 | EUR | Low | Italian Industrial Sales (YoY) (Oct) |  |  | 3.40% |
 | 10:00 | EUR | Low | Construction Output (MoM) (Oct) |  |  | -0.49% |
@@ -37,8 +37,8 @@
 | 11:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
 | 11:30 | BRL | Low | Current Account (USD) (Nov) |  | -4.85B | -5.12B |
 | 11:30 | BRL | Low | Foreign direct investment (USD) (Nov) |  | 6.80B | 10.94B |
-| 12:00 | MXN | Low | Aggregate Demand (QoQ) (Q3) |  |  | 1.40% |
 | 12:00 | MXN | Low | Aggregate Demand (YoY) (Q3) |  |  | 0.30% |
+| 12:00 | MXN | Low | Aggregate Demand (QoQ) (Q3) |  |  | 1.40% |
 | 12:00 | MXN | Low | Private Spending (QoQ) (Q3) |  |  | 1.20% |
 | 12:00 | MXN | Low | Private Spending (YoY) (Q3) |  |  | -0.40% |
 | 13:30 | USD | High | Core PCE Price Index (MoM) (Oct) |  |  | 0.2% |

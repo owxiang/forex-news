@@ -13,12 +13,12 @@
 | 07:00 | GBP | Public Sector Net Cash Requirement (Nov) | 10.293B |  | 20.460B |
 | 07:00 | EUR | German PPI (YoY) (Nov) | -2.3% | -2.2% | -1.8% |
 | 07:00 | NOK | Unemployment Rate n.s.a. (Dec) | 2.10% | 2.20% | 2.10% |
-| 36 min | EUR | French PPI (MoM) (Nov) |  |  | 0.0% |
-| 36 min | EUR | PPI (YoY) (Nov) |  |  | -0.80% |
-| 51 min | EUR | Current Account (Oct) |  | 19.6B | 23.1B |
-| 51 min | EUR | Current Account n.s.a. (Oct) |  |  | 38.1B |
-| 09:00 | EUR | Italian Business Confidence (Dec) |  | 89.3 | 89.6 |
-| 09:00 | EUR | Italian Consumer Confidence (Dec) |  | 96.0 | 95.0 |
+| 07:45 | EUR | French PPI (MoM) (Nov) | 1.1% |  | 0.0% |
+| 07:45 | EUR | PPI (YoY) (Nov) | -3.30% |  | -0.80% |
+| 50 min | EUR | Italian Business Confidence (Dec) |  | 89.3 | 89.6 |
+| 50 min | EUR | Italian Consumer Confidence (Dec) |  | 96.0 | 95.0 |
+| 50 min | EUR | Current Account (Oct) |  | 19.6B | 23.1B |
+| 50 min | EUR | Current Account n.s.a. (Oct) |  |  | 38.1B |
 | 10:00 | EUR | Italian Industrial Sales (MoM) (Oct) |  |  | 2.10% |
 | 10:00 | EUR | Italian Industrial Sales (YoY) (Oct) |  |  | 3.40% |
 | 10:00 | EUR | Construction Output (MoM) (Oct) |  |  | -0.49% |
@@ -27,8 +27,8 @@
 | 11:30 | INR | FX Reserves, USD |  |  | 687.26B |
 | 11:30 | BRL | Current Account (USD) (Nov) |  | -4.85B | -5.12B |
 | 11:30 | BRL | Foreign direct investment (USD) (Nov) |  | 6.80B | 10.94B |
-| 12:00 | MXN | Aggregate Demand (QoQ) (Q3) |  |  | 1.40% |
 | 12:00 | MXN | Aggregate Demand (YoY) (Q3) |  |  | 0.30% |
+| 12:00 | MXN | Aggregate Demand (QoQ) (Q3) |  |  | 1.40% |
 | 12:00 | MXN | Private Spending (QoQ) (Q3) |  |  | 1.20% |
 | 12:00 | MXN | Private Spending (YoY) (Q3) |  |  | -0.40% |
 | 13:30 | USD | Personal Income (MoM) (Oct) |  |  | 0.4% |
