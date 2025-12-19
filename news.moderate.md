@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 54 min | JPY | BoJ Monetary Policy Statement |  |  |  |
+| 02:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
 | 06:30 | JPY | BoJ Press Conference |  |  |  |
 | 07:00 | GBP | Core Retail Sales (YoY) (Nov) |  |  | 1.2% |
 | 07:00 | GBP | Core Retail Sales (MoM) (Nov) |  |  | -1.0% |
@@ -17,8 +17,8 @@
 | 13:30 | USD | Personal Spending (MoM) (Oct) |  |  | 0.3% |
 | 13:30 | CAD | Core Retail Sales (MoM) (Oct) |  | 0.0% | 0.2% |
 | 13:30 | CAD | New Housing Price Index (MoM) (Nov) |  | 0.1% | -0.4% |
-| 13:30 | CAD | Retail Sales (MoM) (Oct) |  | 0.0% | -0.7% |
 | 13:30 | CAD | Retail Sales (MoM) (Oct) |  |  | -0.7% |
+| 13:30 | CAD | Retail Sales (MoM) (Oct) |  | 0.0% | -0.7% |
 | 15:00 | USD | Existing Home Sales (MoM) (Nov) |  |  | 1.2% |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Dec) |  | 4.1% | 4.1% |
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Dec) |  | 3.2% | 3.2% |

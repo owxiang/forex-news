@@ -7,8 +7,7 @@
 | 00:01 | GBP | GfK Consumer Confidence (Dec) | -17 | -18 | -19 |
 | 00:30 | AUD | Housing Credit (Nov) | 0.6% |  | 0.6% |
 | 00:30 | AUD | Private Sector Credit (MoM) (Nov) | 0.6% | 0.6% | 0.7% |
-| 24 min | NZD | Credit Card Spending (YoY) (Nov) |  |  | 1.4% |
-| 24 min | NZD | Credit Card Spending (YoY) |  |  | 1.4% |
+| 02:00 | NZD | Credit Card Spending (YoY) (Nov) | 4.7% |  | 1.6% |
 | 05:30 | AUD | Commodity Prices (YoY) |  |  | -1.7% |
 | 07:00 | GBP | Public Sector Net Borrowing |  | 10.20B | 17.43B |
 | 07:00 | GBP | Public Sector Net Cash Requirement (Nov) |  |  | 20.825B |
@@ -20,8 +19,8 @@
 | 08:00 | EUR | Current Account n.s.a. (Oct) |  |  | 38.1B |
 | 09:00 | EUR | Italian Business Confidence (Dec) |  |  | 89.6 |
 | 09:00 | EUR | Italian Consumer Confidence (Dec) |  |  | 95.0 |
-| 10:00 | EUR | Italian Industrial Sales (YoY) (Oct) |  |  | 3.40% |
 | 10:00 | EUR | Italian Industrial Sales (MoM) (Oct) |  |  | 2.10% |
+| 10:00 | EUR | Italian Industrial Sales (YoY) (Oct) |  |  | 3.40% |
 | 10:00 | EUR | Construction Output (MoM) (Oct) |  |  | -0.49% |
 | 11:00 | GBP | CBI Distributive Trades Survey (Dec) |  | -29 | -32 |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
@@ -30,8 +29,8 @@
 | 11:30 | BRL | Foreign direct investment (USD) (Nov) |  | 6.80B | 10.94B |
 | 12:00 | MXN | Aggregate Demand (QoQ) (Q3) |  |  | 1.40% |
 | 12:00 | MXN | Aggregate Demand (YoY) (Q3) |  |  | 0.30% |
-| 12:00 | MXN | Private Spending (YoY) (Q3) |  |  | -0.40% |
 | 12:00 | MXN | Private Spending (QoQ) (Q3) |  |  | 1.20% |
+| 12:00 | MXN | Private Spending (YoY) (Q3) |  |  | -0.40% |
 | 13:30 | USD | Personal Income (MoM) (Oct) |  |  | 0.4% |
 | 13:30 | USD | Real Personal Consumption (MoM) (Oct) |  |  | 0.0% |
 | 15:00 | USD | CB Employment Trends Index (Nov) |  |  | 106.84 |
