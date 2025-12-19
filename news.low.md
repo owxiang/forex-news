@@ -30,9 +30,9 @@
 | 12:00 | MXN | Aggregate Demand (YoY) (Q3) | 1.10% |  | 0.30% |
 | 12:00 | MXN | Aggregate Demand (QoQ) (Q3) | 0.70% |  | 1.40% |
 | 12:00 | MXN | Private Spending (QoQ) (Q3) | 1.10% |  | 1.20% |
-| 12:00 | MXN | Private Spending (YoY) (Q3) | 1.40% |  | -0.40% |
-| 13:30 | USD | Personal Income (MoM) (Oct) |  |  | 0.4% |
-| 13:30 | USD | Real Personal Consumption (MoM) (Oct) |  |  | 0.0% |
+| 12:00 | MXN | Private Spending (YoY) (Q3) | 1.60% |  | -0.40% |
+| 13 min | USD | Personal Income (MoM) (Oct) |  |  | 0.4% |
+| 13 min | USD | Real Personal Consumption (MoM) (Oct) |  |  | 0.0% |
 | 15:00 | USD | CB Employment Trends Index (Nov) |  |  | 106.84 |
 | 15:00 | USD | Dallas Fed PCE (Oct) |  |  | 1.90% |
 | 15:00 | USD | Michigan Current Conditions (Dec) |  | 50.7 | 50.7 |

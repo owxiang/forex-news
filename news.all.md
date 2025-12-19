@@ -40,19 +40,19 @@
 | 12:00 | MXN | Low | Aggregate Demand (YoY) (Q3) | 1.10% |  | 0.30% |
 | 12:00 | MXN | Low | Aggregate Demand (QoQ) (Q3) | 0.70% |  | 1.40% |
 | 12:00 | MXN | Low | Private Spending (QoQ) (Q3) | 1.10% |  | 1.20% |
-| 12:00 | MXN | Low | Private Spending (YoY) (Q3) | 1.40% |  | -0.40% |
-| 13:30 | USD | High | Core PCE Price Index (MoM) (Oct) |  |  | 0.2% |
-| 13:30 | USD | High | Core PCE Price Index (YoY) (Oct) |  |  | 2.8% |
-| 13:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 13:30 | USD | Moderate | PCE Price index (YoY) (Oct) |  |  | 2.8% |
-| 13:30 | USD | Moderate | PCE price index (MoM) (Oct) |  |  | 0.3% |
-| 13:30 | USD | Low | Personal Income (MoM) (Oct) |  |  | 0.4% |
-| 13:30 | USD | Moderate | Personal Spending (MoM) (Oct) |  |  | 0.3% |
-| 13:30 | USD | Low | Real Personal Consumption (MoM) (Oct) |  |  | 0.0% |
-| 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Oct) |  | 0.0% | 0.2% |
-| 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Nov) |  | 0.1% | -0.4% |
-| 13:30 | CAD | Moderate | Retail Sales (MoM) (Oct) |  |  | -0.7% |
-| 13:30 | CAD | Moderate | Retail Sales (MoM) (Oct) |  | 0.0% | -0.7% |
+| 12:00 | MXN | Low | Private Spending (YoY) (Q3) | 1.60% |  | -0.40% |
+| 13 min | USD | High | Core PCE Price Index (MoM) (Oct) |  |  | 0.2% |
+| 13 min | USD | High | Core PCE Price Index (YoY) (Oct) |  |  | 2.8% |
+| 13 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 13 min | USD | Moderate | PCE Price index (YoY) (Oct) |  |  | 2.8% |
+| 13 min | USD | Moderate | PCE price index (MoM) (Oct) |  |  | 0.3% |
+| 13 min | USD | Low | Personal Income (MoM) (Oct) |  |  | 0.4% |
+| 13 min | USD | Moderate | Personal Spending (MoM) (Oct) |  |  | 0.3% |
+| 13 min | USD | Low | Real Personal Consumption (MoM) (Oct) |  |  | 0.0% |
+| 13 min | CAD | Moderate | Core Retail Sales (MoM) (Oct) |  | 0.0% | 0.2% |
+| 13 min | CAD | Moderate | New Housing Price Index (MoM) (Nov) |  | 0.1% | -0.4% |
+| 13 min | CAD | Moderate | Retail Sales (MoM) (Oct) |  |  | -0.7% |
+| 13 min | CAD | Moderate | Retail Sales (MoM) (Oct) |  | 0.0% | -0.7% |
 | 15:00 | USD | Low | CB Employment Trends Index (Nov) |  |  | 106.84 |
 | 15:00 | USD | Low | Dallas Fed PCE (Oct) |  |  | 1.90% |
 | 15:00 | USD | High | Existing Home Sales (Nov) |  | 4.15M | 4.10M |
