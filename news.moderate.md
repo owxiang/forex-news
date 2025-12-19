@@ -22,8 +22,8 @@
 | 15:00 | USD | Michigan Consumer Expectations (Dec) | 54.6 | 55.0 | 51.0 |
 | 15:00 | USD | Michigan Consumer Sentiment (Dec) | 52.9 | 53.5 | 51.0 |
 | 15:10 | EUR | ECB's Lane Speaks |  |  |  |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 414 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 548 |
+| 53 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 414 |
+| 53 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 548 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -93.2K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 55.0K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 204.6K |

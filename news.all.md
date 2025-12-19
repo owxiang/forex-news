@@ -56,8 +56,8 @@
 | 15:00 | USD | Low | Michigan Current Conditions (Dec) | 50.4 | 50.7 | 51.1 |
 | 15:00 | EUR | Low | Consumer Confidence (Dec) | -14.6 | -14.0 | -14.2 |
 | 15:10 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 414 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 548 |
+| 53 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 414 |
+| 53 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 548 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -93.2K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -2.1K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 43.6K |
