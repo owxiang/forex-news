@@ -1,35 +1,6 @@
-## 19 December 2025 - Moderate Impact Forex News
+## 20 December 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
-| 06:30 | JPY | BoJ Press Conference |  |  |  |
-| 07:00 | GBP | Core Retail Sales (YoY) (Nov) | 1.2% | 1.6% | 1.6% |
-| 07:00 | GBP | Core Retail Sales (MoM) (Nov) | -0.2% | 0.2% | -0.8% |
-| 07:00 | GBP | Retail Sales (YoY) (Nov) | 0.6% | 1.6% | 0.6% |
-| 07:00 | GBP | Retail Sales (MoM) (Nov) | -0.1% | 0.3% | -0.9% |
-| 07:00 | EUR | German PPI (MoM) (Nov) | 0.0% | 0.1% | 0.1% |
-| 07:00 | EUR | GfK German Consumer Climate (Jan) | -26.9 | -23.0 | -23.4 |
-| 11:30 | INR | RBI MPC Meeting Minutes |  |  |  |
-| 13:30 | USD | FOMC Member Williams Speaks |  |  |  |
-| 13:30 | CAD | Core Retail Sales (MoM) (Oct) | -0.6% | 0.0% | -0.1% |
-| 13:30 | CAD | New Housing Price Index (MoM) (Nov) | 0.0% | 0.1% | -0.4% |
-| 13:30 | CAD | Retail Sales (MoM) (Oct) | -0.2% | 0.0% | -0.9% |
-| 13:31 | CAD | Retail Sales (MoM) (Nov) | 1.2% |  | -0.2% |
-| 15:00 | USD | Existing Home Sales (MoM) (Nov) | 0.5% |  | 1.5% |
-| 15:00 | USD | Michigan 1-Year Inflation Expectations (Dec) | 4.2% | 4.1% | 4.5% |
-| 15:00 | USD | Michigan 5-Year Inflation Expectations (Dec) | 3.2% | 3.2% | 3.4% |
-| 15:00 | USD | Michigan Consumer Expectations (Dec) | 54.6 | 55.0 | 51.0 |
-| 15:00 | USD | Michigan Consumer Sentiment (Dec) | 52.9 | 53.5 | 51.0 |
-| 15:10 | EUR | ECB's Lane Speaks |  |  |  |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 406 |  | 414 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count | 542 |  | 548 |
-| 20:30 | GBP | CFTC GBP speculative net positions | -75.5K |  | -93.2K |
-| 20:30 | USD | CFTC Crude Oil speculative net positions | 58.4K |  | 55.0K |
-| 20:30 | USD | CFTC Gold speculative net positions | 223.9K |  | 204.6K |
-| 20:30 | USD | CFTC Nasdaq 100 speculative net positions | 48.1K |  | 57.4K |
-| 20:30 | USD | CFTC S&P 500 speculative net positions | -190.4K |  | -155.3K |
-| 20:30 | AUD | CFTC AUD speculative net positions | -62.9K |  | -84.2K |
-| 20:30 | BRL | CFTC BRL speculative net positions | 57.4K |  | 56.8K |
-| 20:30 | JPY | CFTC JPY speculative net positions | 17.4K |  | 26.5K |
-| 20:30 | EUR | CFTC EUR speculative net positions | 138.8K |  | 94.1K |
+| 13:15 | CNY | China Loan Prime Rate 5Y (Dec) |  |  | 3.50% |
+| 13:15 | CNY | PBoC Loan Prime Rate |  |  | 3.00% |
