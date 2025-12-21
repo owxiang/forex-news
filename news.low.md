@@ -10,7 +10,6 @@
 | 08:30 | HKD | CPI (YoY) (Nov) |  |  | 1.20% |
 | 09:00 | EUR | Italian PPI (MoM) (Nov) |  |  | -0.2% |
 | 09:00 | EUR | Italian PPI (YoY) (Nov) |  |  | 0.1% |
-| 09:30 | HKD | PPI (YoY) (Q3) |  |  | 4.00% |
 | 11:00 | BRL | FGV Consumer confidence (Dec) |  |  | 89.8 |
 | 12:00 | MXN | Economic Activity (YoY) (Oct) |  |  | 0.70% |
 | 12:00 | MXN | Economic Activity (MoM) (Oct) |  |  | -0.60% |
