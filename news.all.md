@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 01:00 | CNY | Moderate | China Loan Prime Rate 5Y (Dec) |  | 3.50% | 3.50% |
-| 01:15 | CNY | Moderate | PBoC Loan Prime Rate |  | 3.00% | 3.00% |
+| 01:00 | CNY | Moderate | PBoC Loan Prime Rate |  | 3.00% | 3.00% |
 | 04:00 | IDR | Low | M2 Money Supply (YoY) (Nov) |  |  | 7.70% |
 | 07:00 | GBP | Moderate | Business Investment (QoQ) (Q3) |  | -0.3% | -0.3% |
 | 07:00 | GBP | Low | Business Investment (YoY) (Q3) |  | 0.7% | 0.7% |
