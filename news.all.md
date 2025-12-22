@@ -30,4 +30,4 @@
 | 14:00 | BRL | Low | Federal Tax Revenue (Oct) | 226.75B |  | 216.73B |
 | 16:30 | USD | Low | 3-Month Bill Auction | 3.560% |  | 3.560% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 3.485% |  | 3.495% |
-| 18:00 | USD | Moderate | 2-Year Note Auction |  |  | 3.489% |
+| 18:00 | USD | Moderate | 2-Year Note Auction | 3.499% |  | 3.489% |
