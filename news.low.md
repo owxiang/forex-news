@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:00 | IDR | M2 Money Supply (YoY) (Nov) | 8.30% |  | 7.70% |
+| 04:00 | IDR | M2 Money Supply (YoY) (Nov) | 8.30% |  | 7.70% |
 | 07:00 | GBP | Business Investment (YoY) (Q3) |  | 0.7% | 0.7% |
 | 07:00 | NOK | Unemployment Rate (Nov) |  | 4.5% | 4.5% |
 | 08:00 | CHF | M3 Money Supply (Nov) |  |  | 1,203,015.0B |
