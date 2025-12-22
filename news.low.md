@@ -5,11 +5,11 @@
 | 04:00 | IDR | M2 Money Supply (YoY) (Nov) | 8.30% |  | 7.70% |
 | 07:00 | GBP | Business Investment (YoY) (Q3) | 2.7% | 0.7% | 3.2% |
 | 07:00 | NOK | Unemployment Rate (Nov) | 4.5% | 4.5% | 4.4% |
-| 08:00 | CHF | M3 Money Supply (Nov) | 1,210,459.0B |  | 1,202,943.0B |
-| 19 min | HKD | CPI (MoM) (Nov) |  |  | 0.30% |
-| 19 min | HKD | CPI (YoY) (Nov) |  |  | 1.20% |
-| 49 min | EUR | Italian PPI (MoM) (Nov) |  |  | -0.2% |
-| 49 min | EUR | Italian PPI (YoY) (Nov) |  |  | 0.1% |
+| 08:00 | CHF | M3 Money Supply (Nov) | 1,210.5B |  | 1,202.9B |
+| 08:30 | HKD | CPI (MoM) (Nov) | 0.00% |  | 0.30% |
+| 08:30 | HKD | CPI (YoY) (Nov) | 1.20% |  | 1.20% |
+| 09:00 | EUR | Italian PPI (MoM) (Nov) | 1.0% |  | -0.2% |
+| 09:00 | EUR | Italian PPI (YoY) (Nov) | -0.2% |  | 0.1% |
 | 11:00 | BRL | FGV Consumer confidence (Dec) |  |  | 89.8 |
 | 12:00 | MXN | Economic Activity (YoY) (Oct) |  |  | 0.70% |
 | 12:00 | MXN | Economic Activity (MoM) (Oct) |  |  | -0.60% |

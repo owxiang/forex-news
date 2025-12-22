@@ -11,11 +11,11 @@
 | 07:00 | GBP | High | GDP (QoQ) (Q3) | 0.1% | 0.1% | 0.3% |
 | 07:00 | GBP | High | GDP (YoY) (Q3) | 1.3% | 1.3% | 1.4% |
 | 07:00 | NOK | Low | Unemployment Rate (Nov) | 4.5% | 4.5% | 4.4% |
-| 08:00 | CHF | Low | M3 Money Supply (Nov) | 1,210,459.0B |  | 1,202,943.0B |
-| 19 min | HKD | Low | CPI (MoM) (Nov) |  |  | 0.30% |
-| 19 min | HKD | Low | CPI (YoY) (Nov) |  |  | 1.20% |
-| 49 min | EUR | Low | Italian PPI (MoM) (Nov) |  |  | -0.2% |
-| 49 min | EUR | Low | Italian PPI (YoY) (Nov) |  |  | 0.1% |
+| 08:00 | CHF | Low | M3 Money Supply (Nov) | 1,210.5B |  | 1,202.9B |
+| 08:30 | HKD | Low | CPI (MoM) (Nov) | 0.00% |  | 0.30% |
+| 08:30 | HKD | Low | CPI (YoY) (Nov) | 1.20% |  | 1.20% |
+| 09:00 | EUR | Low | Italian PPI (MoM) (Nov) | 1.0% |  | -0.2% |
+| 09:00 | EUR | Low | Italian PPI (YoY) (Nov) | -0.2% |  | 0.1% |
 | 11:00 | BRL | Low | FGV Consumer confidence (Dec) |  |  | 89.8 |
 | 12:00 | MXN | Low | Economic Activity (YoY) (Oct) |  |  | 0.70% |
 | 12:00 | MXN | Low | Economic Activity (MoM) (Oct) |  |  | -0.60% |
