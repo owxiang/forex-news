@@ -16,12 +16,13 @@
 | 11:30 | INR | Infrastructure Output (YoY) (Nov) | 1.8% |  | -0.1% |
 | 12:00 | MXN | Economic Activity (YoY) (Oct) | 1.70% | 1.00% | 0.80% |
 | 12:00 | MXN | Economic Activity (MoM) (Oct) | 1.00% | 0.50% | -0.40% |
-| 13 min | USD | Chicago Fed National Activity (Sep) |  |  | -0.12 |
-| 13 min | CAD | IPPI (MoM) (Nov) |  | 0.3% | 1.5% |
-| 13 min | CAD | IPPI (YoY) (Nov) |  |  | 6.0% |
-| 13 min | CAD | RMPI (YoY) (Nov) |  |  | 5.8% |
-| 43 min | EUR | French 12-Month BTF Auction |  |  | 2.146% |
-| 43 min | EUR | French 3-Month BTF Auction |  |  | 2.079% |
-| 43 min | EUR | French 6-Month BTF Auction |  |  | 2.117% |
+| 13:30 | USD | Chicago Fed National Activity (Sep) | -0.21 |  | -0.31 |
+| 13:30 | CAD | IPPI (MoM) (Nov) | 0.9% | 0.3% | 1.7% |
+| 13:30 | CAD | IPPI (YoY) (Nov) | 6.1% |  | 5.7% |
+| 13:30 | CAD | RMPI (YoY) (Nov) | 6.4% |  | 5.8% |
+| 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.146% |
+| 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.079% |
+| 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.117% |
+| 14:00 | BRL | Federal Tax Revenue (Oct) | 226.75B |  | 216.73B |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 3.560% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 3.495% |
