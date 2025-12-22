@@ -7,6 +7,3 @@
 | 07:00 | GBP | Business Investment (QoQ) (Q3) | 1.5% | -0.3% | -1.7% |
 | 07:00 | GBP | Current Account (Q3) | -12.1B | -19.1B | -21.2B |
 | 13:30 | CAD | RMPI (MoM) (Nov) |  | 0.6% | 1.6% |
-| 15:00 | USD | PCE price index (MoM) (Oct) |  |  | 0.3% |
-| 15:00 | USD | PCE Price index (YoY) (Oct) |  |  | 2.8% |
-| 15:00 | USD | Personal Spending (MoM) (Oct) |  |  | 0.3% |
