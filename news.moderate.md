@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:00 | CNY | China Loan Prime Rate 5Y (Dec) |  | 3.50% | 3.50% |
-| 01:00 | CNY | PBoC Loan Prime Rate |  | 3.00% | 3.00% |
+| 26 min | CNY | China Loan Prime Rate 5Y (Dec) |  | 3.50% | 3.50% |
+| 26 min | CNY | PBoC Loan Prime Rate |  | 3.00% | 3.00% |
 | 07:00 | GBP | Business Investment (QoQ) (Q3) |  | -0.3% | -0.3% |
 | 07:00 | GBP | Current Account (Q3) |  | -19.1B | -28.9B |
 | 13:30 | CAD | RMPI (MoM) (Nov) |  | 0.6% | 1.6% |
