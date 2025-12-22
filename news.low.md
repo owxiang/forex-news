@@ -20,9 +20,9 @@
 | 13:30 | CAD | IPPI (MoM) (Nov) | 0.9% | 0.3% | 1.7% |
 | 13:30 | CAD | IPPI (YoY) (Nov) | 6.1% |  | 5.7% |
 | 13:30 | CAD | RMPI (YoY) (Nov) | 6.4% |  | 5.8% |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.146% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.079% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.117% |
 | 14:00 | BRL | Federal Tax Revenue (Oct) | 226.75B |  | 216.73B |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 3.560% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 3.495% |
+| 16:30 | EUR | French 12-Month BTF Auction |  |  | 2.146% |
+| 16:30 | EUR | French 3-Month BTF Auction |  |  | 2.079% |
+| 16:30 | EUR | French 6-Month BTF Auction |  |  | 2.117% |
