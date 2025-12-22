@@ -16,17 +16,20 @@
 | 08:30 | HKD | Low | CPI (YoY) (Nov) | 1.20% |  | 1.20% |
 | 09:00 | EUR | Low | Italian PPI (MoM) (Nov) | 1.0% |  | -0.2% |
 | 09:00 | EUR | Low | Italian PPI (YoY) (Nov) | -0.2% |  | 0.1% |
+| 09:00 | EUR | Low | Spanish Trade Balance (Oct) | -4.69B |  | -6.00B |
 | 11:00 | BRL | Low | FGV Consumer confidence (Dec) | 90.2 |  | 89.8 |
-| 11:30 | INR | Low | Infrastructure Output (YoY) (Nov) | 1.8% |  | 0.0% |
-| 12:00 | MXN | Low | Economic Activity (YoY) (Oct) | 1.70% |  | 0.70% |
-| 12:00 | MXN | Low | Economic Activity (MoM) (Oct) | 1.00% |  | -0.40% |
-| Tentative | USD | Low | Chicago Fed National Activity (Sep) |  |  | -0.12 |
-| 13:30 | CAD | Low | IPPI (MoM) (Nov) |  | 0.3% | 1.5% |
-| 13:30 | CAD | Low | IPPI (YoY) (Nov) |  |  | 6.0% |
-| 13:30 | CAD | Moderate | RMPI (MoM) (Nov) |  | 0.6% | 1.6% |
-| 13:30 | CAD | Low | RMPI (YoY) (Nov) |  |  | 5.8% |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.146% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.079% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.117% |
+| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 11:30 | INR | Low | Infrastructure Output (YoY) (Nov) | 1.8% |  | -0.1% |
+| 12:00 | MXN | Low | Economic Activity (YoY) (Oct) | 1.70% | 1.00% | 0.80% |
+| 12:00 | MXN | Low | Economic Activity (MoM) (Oct) | 1.00% | 0.50% | -0.40% |
+| 13 min | USD | Low | Chicago Fed National Activity (Sep) |  |  | -0.12 |
+| 13 min | CAD | Low | IPPI (MoM) (Nov) |  | 0.3% | 1.5% |
+| 13 min | CAD | Low | IPPI (YoY) (Nov) |  |  | 6.0% |
+| 13 min | CAD | Moderate | RMPI (MoM) (Nov) |  | 0.6% | 1.6% |
+| 13 min | CAD | Low | RMPI (YoY) (Nov) |  |  | 5.8% |
+| 43 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.146% |
+| 43 min | EUR | Low | French 3-Month BTF Auction |  |  | 2.079% |
+| 43 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.117% |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.560% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.495% |
+| 18:00 | USD | Moderate | 2-Year Note Auction |  |  | 3.489% |

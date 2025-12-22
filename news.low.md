@@ -10,16 +10,18 @@
 | 08:30 | HKD | CPI (YoY) (Nov) | 1.20% |  | 1.20% |
 | 09:00 | EUR | Italian PPI (MoM) (Nov) | 1.0% |  | -0.2% |
 | 09:00 | EUR | Italian PPI (YoY) (Nov) | -0.2% |  | 0.1% |
+| 09:00 | EUR | Spanish Trade Balance (Oct) | -4.69B |  | -6.00B |
 | 11:00 | BRL | FGV Consumer confidence (Dec) | 90.2 |  | 89.8 |
-| 11:30 | INR | Infrastructure Output (YoY) (Nov) | 1.8% |  | 0.0% |
-| 12:00 | MXN | Economic Activity (YoY) (Oct) | 1.70% |  | 0.70% |
-| 12:00 | MXN | Economic Activity (MoM) (Oct) | 1.00% |  | -0.40% |
-| Tentative | USD | Chicago Fed National Activity (Sep) |  |  | -0.12 |
-| 13:30 | CAD | IPPI (MoM) (Nov) |  | 0.3% | 1.5% |
-| 13:30 | CAD | IPPI (YoY) (Nov) |  |  | 6.0% |
-| 13:30 | CAD | RMPI (YoY) (Nov) |  |  | 5.8% |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.146% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.079% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.117% |
+| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 11:30 | INR | Infrastructure Output (YoY) (Nov) | 1.8% |  | -0.1% |
+| 12:00 | MXN | Economic Activity (YoY) (Oct) | 1.70% | 1.00% | 0.80% |
+| 12:00 | MXN | Economic Activity (MoM) (Oct) | 1.00% | 0.50% | -0.40% |
+| 13 min | USD | Chicago Fed National Activity (Sep) |  |  | -0.12 |
+| 13 min | CAD | IPPI (MoM) (Nov) |  | 0.3% | 1.5% |
+| 13 min | CAD | IPPI (YoY) (Nov) |  |  | 6.0% |
+| 13 min | CAD | RMPI (YoY) (Nov) |  |  | 5.8% |
+| 43 min | EUR | French 12-Month BTF Auction |  |  | 2.146% |
+| 43 min | EUR | French 3-Month BTF Auction |  |  | 2.079% |
+| 43 min | EUR | French 6-Month BTF Auction |  |  | 2.117% |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 3.560% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 3.495% |
