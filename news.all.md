@@ -14,8 +14,8 @@
 | 08:00 | CHF | Low | M3 Money Supply (Nov) | 1,210.5B |  | 1,202.9B |
 | 08:30 | HKD | Low | CPI (MoM) (Nov) | 0.00% |  | 0.30% |
 | 08:30 | HKD | Low | CPI (YoY) (Nov) | 1.20% |  | 1.20% |
-| 09:00 | EUR | Low | Italian PPI (MoM) (Nov) | 1.0% |  | -0.2% |
 | 09:00 | EUR | Low | Italian PPI (YoY) (Nov) | -0.2% |  | 0.1% |
+| 09:00 | EUR | Low | Italian PPI (MoM) (Nov) | 1.0% |  | -0.2% |
 | 09:00 | EUR | Low | Spanish Trade Balance (Oct) | -4.69B |  | -6.00B |
 | 11:00 | BRL | Low | FGV Consumer confidence (Dec) | 90.2 |  | 89.8 |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
@@ -28,9 +28,6 @@
 | 13:30 | CAD | Moderate | RMPI (MoM) (Nov) | 0.3% | 0.6% | 1.6% |
 | 13:30 | CAD | Low | RMPI (YoY) (Nov) | 6.4% |  | 5.8% |
 | 14:00 | BRL | Low | Federal Tax Revenue (Oct) | 226.75B |  | 216.73B |
-| 22 min | USD | Low | 3-Month Bill Auction |  |  | 3.560% |
-| 22 min | USD | Low | 6-Month Bill Auction |  |  | 3.495% |
-| 22 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.146% |
-| 22 min | EUR | Low | French 3-Month BTF Auction |  |  | 2.079% |
-| 22 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.117% |
-| 18:00 | USD | Moderate | 2-Year Note Auction |  |  | 3.489% |
+| 16:30 | USD | Low | 3-Month Bill Auction | 3.560% |  | 3.560% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 3.485% |  | 3.495% |
+| 53 min | USD | Moderate | 2-Year Note Auction |  |  | 3.489% |

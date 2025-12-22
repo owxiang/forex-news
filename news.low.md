@@ -8,8 +8,8 @@
 | 08:00 | CHF | M3 Money Supply (Nov) | 1,210.5B |  | 1,202.9B |
 | 08:30 | HKD | CPI (MoM) (Nov) | 0.00% |  | 0.30% |
 | 08:30 | HKD | CPI (YoY) (Nov) | 1.20% |  | 1.20% |
-| 09:00 | EUR | Italian PPI (MoM) (Nov) | 1.0% |  | -0.2% |
 | 09:00 | EUR | Italian PPI (YoY) (Nov) | -0.2% |  | 0.1% |
+| 09:00 | EUR | Italian PPI (MoM) (Nov) | 1.0% |  | -0.2% |
 | 09:00 | EUR | Spanish Trade Balance (Oct) | -4.69B |  | -6.00B |
 | 11:00 | BRL | FGV Consumer confidence (Dec) | 90.2 |  | 89.8 |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
@@ -21,8 +21,5 @@
 | 13:30 | CAD | IPPI (YoY) (Nov) | 6.1% |  | 5.7% |
 | 13:30 | CAD | RMPI (YoY) (Nov) | 6.4% |  | 5.8% |
 | 14:00 | BRL | Federal Tax Revenue (Oct) | 226.75B |  | 216.73B |
-| 22 min | USD | 3-Month Bill Auction |  |  | 3.560% |
-| 22 min | USD | 6-Month Bill Auction |  |  | 3.495% |
-| 22 min | EUR | French 12-Month BTF Auction |  |  | 2.146% |
-| 22 min | EUR | French 3-Month BTF Auction |  |  | 2.079% |
-| 22 min | EUR | French 6-Month BTF Auction |  |  | 2.117% |
+| 16:30 | USD | 3-Month Bill Auction | 3.560% |  | 3.560% |
+| 16:30 | USD | 6-Month Bill Auction | 3.485% |  | 3.495% |
