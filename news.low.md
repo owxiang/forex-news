@@ -34,13 +34,13 @@
 | 13:30 | USD | PCE Prices (Q3) | 2.8% | 2.9% | 2.1% |
 | 13:30 | USD | Real Consumer Spending (Q3) | 3.5% |  | 2.5% |
 | 13:55 | USD | Redbook (YoY) | 7.2% |  | 6.2% |
-| 7 min | USD | Capacity Utilization Rate (Oct) |  | 75.9% | 75.9% |
-| 7 min | USD | Manufacturing Production (MoM) (Oct) |  |  | 0.0% |
-| 52 min | USD | Richmond Manufacturing Index (Dec) |  | -8 | -15 |
-| 52 min | USD | Richmond Manufacturing Shipments (Dec) |  |  | -14 |
-| 52 min | USD | Richmond Services Index (Dec) |  |  | -4 |
-| 52 min | NZD | GlobalDairyTrade Price Index |  |  | -4.4% |
-| 52 min | USD | Milk Auctions |  |  | 3,341.0 |
+| 14:14 | USD | Capacity Utilization Rate (Oct) | 75.9% | 75.9% | 76.0% |
+| 14:14 | USD | Manufacturing Production (MoM) (Oct) | -0.4% |  | 0.0% |
+| 14:15 | USD | Capacity Utilization Rate (Nov) | 76.0% |  | 75.9% |
+| 14:15 | USD | Manufacturing Production (MoM) (Nov) | 0.0% |  | -0.4% |
+| 15:00 | USD | Richmond Manufacturing Index (Dec) | -7 | -8 | -15 |
+| 15:00 | USD | Richmond Manufacturing Shipments (Dec) | -11 |  | -14 |
+| 15:00 | USD | Richmond Services Index (Dec) | -6 |  | -4 |
 | 16:30 | USD | 52-Week Bill Auction |  |  | 3.460% |
 | 18:00 | USD | M2 Money Supply (MoM) (Nov) |  |  | 22.30T |
 | 18:30 | CAD | BOC Summary of Deliberations |  |  |  |

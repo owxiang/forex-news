@@ -47,18 +47,18 @@
 | 13:30 | CAD | Moderate | GDP (MoM) (Oct) | -0.3% | -0.3% | 0.2% |
 | 13:31 | CAD | Moderate | GDP (MoM) (Nov) | 0.1% |  | -0.3% |
 | 13:55 | USD | Low | Redbook (YoY) | 7.2% |  | 6.2% |
-| 7 min | USD | Low | Capacity Utilization Rate (Oct) |  | 75.9% | 75.9% |
-| 7 min | USD | Moderate | Industrial Production (MoM) (Oct) |  | 0.1% | 0.1% |
-| 7 min | USD | Moderate | Industrial Production (YoY) (Oct) |  |  | 1.62% |
-| 7 min | USD | Low | Manufacturing Production (MoM) (Oct) |  |  | 0.0% |
-| 52 min | USD | High | CB Consumer Confidence (Dec) |  | 91.7 | 88.7 |
-| 52 min | USD | High | New Home Sales (Sep) |  |  | 800K |
-| 52 min | USD | Moderate | New Home Sales (MoM) (Sep) |  |  | 20.5% |
-| 52 min | USD | Low | Richmond Manufacturing Index (Dec) |  | -8 | -15 |
-| 52 min | USD | Low | Richmond Manufacturing Shipments (Dec) |  |  | -14 |
-| 52 min | USD | Low | Richmond Services Index (Dec) |  |  | -4 |
-| 52 min | NZD | Low | GlobalDairyTrade Price Index |  |  | -4.4% |
-| 52 min | USD | Low | Milk Auctions |  |  | 3,341.0 |
+| 14:14 | USD | Low | Capacity Utilization Rate (Oct) | 75.9% | 75.9% | 76.0% |
+| 14:14 | USD | Moderate | Industrial Production (MoM) (Oct) | -0.1% | 0.1% | 0.1% |
+| 14:14 | USD | Moderate | Industrial Production (YoY) (Oct) | 2.20% |  | 1.90% |
+| 14:14 | USD | Low | Manufacturing Production (MoM) (Oct) | -0.4% |  | 0.0% |
+| 14:15 | USD | Low | Capacity Utilization Rate (Nov) | 76.0% |  | 75.9% |
+| 14:15 | USD | Moderate | Industrial Production (MoM) (Nov) | 0.2% |  | -0.1% |
+| 14:15 | USD | Moderate | Industrial Production (YoY) (Nov) | 2.52% |  | 2.20% |
+| 14:15 | USD | Low | Manufacturing Production (MoM) (Nov) | 0.0% |  | -0.4% |
+| 15:00 | USD | High | CB Consumer Confidence (Dec) | 89.1 | 91.7 | 92.9 |
+| 15:00 | USD | Low | Richmond Manufacturing Index (Dec) | -7 | -8 | -15 |
+| 15:00 | USD | Low | Richmond Manufacturing Shipments (Dec) | -11 |  | -14 |
+| 15:00 | USD | Low | Richmond Services Index (Dec) | -6 |  | -4 |
 | 16:30 | USD | Low | 52-Week Bill Auction |  |  | 3.460% |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 3.5% | 3.5% |
 | 18:00 | USD | Moderate | 5-Year Note Auction |  |  | 3.562% |
