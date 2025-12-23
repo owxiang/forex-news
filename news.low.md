@@ -26,23 +26,21 @@
 | 12:00 | MXN | Trade Balance (USD) (Nov) | -0.274B |  | 1.530B |
 | 12:00 | BRL | Mid-Month CPI (MoM) (Dec) | 0.25% | 0.30% | 0.20% |
 | 12:00 | BRL | Mid-Month CPI (YoY) (Dec) | 4.41% | 4.40% | 4.50% |
-| 12 min | USD | Corporate Profits (QoQ) (Q3) |  |  | 0.2% |
-| 12 min | USD | Dallas Fed PCE (Oct) |  |  | 1.90% |
-| 12 min | USD | Durables Excluding Defense (MoM) (Oct) |  |  | 0.1% |
-| 12 min | USD | Durables Excluding Transport (MoM) |  | 0.3% | 0.6% |
-| 12 min | USD | GDP Sales (Q3) |  |  | 7.5% |
-| 12 min | USD | Goods Orders Non Defense Ex Air (MoM) (Oct) |  |  | 0.9% |
-| 12 min | USD | PCE Prices (Q3) |  | 2.9% | 2.1% |
-| 12 min | USD | Real Consumer Spending (Q3) |  |  | 2.5% |
-| 12 min | USD | Real Personal Consumption (MoM) (Oct) |  |  | 0.0% |
-| 37 min | USD | Redbook (YoY) |  |  | 6.2% |
-| 57 min | USD | Capacity Utilization Rate (Oct) |  | 75.9% | 75.9% |
-| 57 min | USD | Manufacturing Production (MoM) (Oct) |  |  | 0.0% |
-| 15:00 | USD | Richmond Manufacturing Index (Dec) |  | -8 | -15 |
-| 15:00 | USD | Richmond Manufacturing Shipments (Dec) |  |  | -14 |
-| 15:00 | USD | Richmond Services Index (Dec) |  |  | -4 |
-| 15:00 | NZD | GlobalDairyTrade Price Index |  |  | -4.4% |
-| 15:00 | USD | Milk Auctions |  |  | 3,341.0 |
+| 13:30 | USD | Corporate Profits (QoQ) (Q3) | 4.4% |  | 0.2% |
+| 13:30 | USD | Durables Excluding Defense (MoM) (Oct) | -1.5% |  | 0.1% |
+| 13:30 | USD | Durables Excluding Transport (MoM) | 0.2% | 0.3% | 0.7% |
+| 13:30 | USD | GDP Sales (Q3) | 4.6% |  | 7.5% |
+| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Oct) | 0.5% |  | 1.1% |
+| 13:30 | USD | PCE Prices (Q3) | 2.8% | 2.9% | 2.1% |
+| 13:30 | USD | Real Consumer Spending (Q3) | 3.5% |  | 2.5% |
+| 13:55 | USD | Redbook (YoY) | 7.2% |  | 6.2% |
+| 7 min | USD | Capacity Utilization Rate (Oct) |  | 75.9% | 75.9% |
+| 7 min | USD | Manufacturing Production (MoM) (Oct) |  |  | 0.0% |
+| 52 min | USD | Richmond Manufacturing Index (Dec) |  | -8 | -15 |
+| 52 min | USD | Richmond Manufacturing Shipments (Dec) |  |  | -14 |
+| 52 min | USD | Richmond Services Index (Dec) |  |  | -4 |
+| 52 min | NZD | GlobalDairyTrade Price Index |  |  | -4.4% |
+| 52 min | USD | Milk Auctions |  |  | 3,341.0 |
 | 16:30 | USD | 52-Week Bill Auction |  |  | 3.460% |
 | 18:00 | USD | M2 Money Supply (MoM) (Nov) |  |  | 22.30T |
 | 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
