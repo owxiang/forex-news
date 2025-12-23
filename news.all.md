@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
 | 02:00 | NZD | Low | M3 Money Supply (Nov) | 443.6B |  | 442.3B |
-| 05:00 | GBP | Low | Car Registration (MoM) (Nov) | 4.3% |  | -53.7% |
 | 05:00 | GBP | Low | Car Registration (YoY) (Nov) | -1.6% |  | 0.5% |
+| 05:00 | GBP | Low | Car Registration (MoM) (Nov) | 4.3% |  | -53.7% |
 | 05:00 | EUR | Low | Italian Car Registration (MoM) (Nov) | -1.4% |  | -0.7% |
 | 05:00 | EUR | Low | Italian Car Registration (YoY) (Nov) | 0.0% |  | -0.5% |
 | 05:00 | EUR | Low | German Car Registration (MoM) (Nov) | 0.2% |  | 6.2% |
@@ -16,16 +16,15 @@
 | 05:00 | SGD | Moderate | Core CPI (YoY) (Nov) | 1.20% | 1.20% | 1.20% |
 | 05:00 | SGD | Low | CPI (MoM) (Nov) | 0.30% |  | 0.00% |
 | 05:00 | SGD | Moderate | CPI (YoY) (Nov) | 1.2% | 1.3% | 1.2% |
-| 49 min | EUR | Low | German Import Price Index (MoM) (Nov) |  | 0.2% | 0.2% |
-| 49 min | EUR | Low | German Import Price Index (YoY) (Nov) |  |  | -1.4% |
-| 49 min | NOK | Low | M3 Money Supply (Nov) |  |  | 3,407.7B |
-| 49 min | NOK | Low | Credit Indicator (YoY) (Nov) |  |  | 3.9% |
-| 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q3) |  | 0.6% | 0.8% |
-| 08:00 | EUR | Low | Spanish GDP (YoY) (Q3) |  | 2.8% | 3.1% |
-| 08:00 | EUR | Low | Spanish PPI (YoY) (Nov) |  |  | 0.7% |
+| 07:00 | EUR | Low | German Import Price Index (MoM) (Nov) | 0.5% | 0.2% | 0.2% |
+| 07:00 | EUR | Low | German Import Price Index (YoY) (Nov) | -1.9% |  | -1.4% |
+| 07:00 | NOK | Low | M3 Money Supply (Nov) | 3,446.6B |  | 3,407.7B |
+| 07:00 | NOK | Low | Credit Indicator (YoY) (Nov) | 3.9% |  | 3.9% |
+| 50 min | EUR | Low | Spanish GDP (YoY) (Q3) |  | 2.8% | 3.1% |
+| 50 min | EUR | Moderate | Spanish GDP (QoQ) (Q3) |  | 0.6% | 0.8% |
+| 50 min | EUR | Low | Spanish PPI (YoY) (Nov) |  |  | 0.7% |
 | 09:00 | CHF | Low | ZEW Expectations (Dec) |  |  | 12.2 |
 | 10:00 | EUR | Low | Italian Trade Balance Non-EU (Nov) |  |  | 5.32B |
-| 11:30 | GBP | Low | House Price Index (YoY) |  | 2.4% | 2.6% |
 | 11:30 | EUR | Low | Reserve Assets Total (Nov) |  |  | 1,709.78B |
 | 12:00 | MXN | Low | 1st Half-Month Core CPI (Dec) |  | 0.39% | 0.04% |
 | 12:00 | MXN | Low | 1st Half-Month CPI (Dec) |  | 0.31% | 0.47% |
@@ -34,11 +33,9 @@
 | 12:00 | BRL | Low | Mid-Month CPI (MoM) (Dec) |  | 0.30% | 0.20% |
 | 12:00 | BRL | Low | Mid-Month CPI (YoY) (Dec) |  | 4.40% | 4.50% |
 | 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 16.25K |
-| 13:30 | USD | Moderate | Building Permits (Sep) |  | 1.340M | 1.330M |
-| 13:30 | USD | Low | Building Permits (MoM) (Sep) |  |  | -2.3% |
 | 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Oct) |  | 0.3% | 0.6% |
-| 13:30 | USD | High | Core PCE Price Index (MoM) (Oct) |  |  | 0.2% |
 | 13:30 | USD | High | Core PCE Price Index (YoY) (Oct) |  |  | 2.8% |
+| 13:30 | USD | High | Core PCE Price Index (MoM) (Oct) |  |  | 0.2% |
 | 13:30 | USD | Moderate | Core PCE Prices (Q3) |  | 2.90% | 2.60% |
 | 13:30 | USD | Low | Corporate Profits (QoQ) (Q3) |  |  | 0.2% |
 | 13:30 | USD | Low | Dallas Fed PCE (Oct) |  |  | 1.90% |
@@ -49,10 +46,8 @@
 | 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q3) |  | 2.7% | 2.1% |
 | 13:30 | USD | Low | GDP Sales (Q3) |  |  | 7.5% |
 | 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Oct) |  |  | 0.9% |
-| 13:30 | USD | Moderate | Housing Starts |  | 1.320M | 1.307M |
 | 13:30 | USD | Moderate | Housing Starts (MoM) (Sep) |  |  | -8.5% |
-| 13:30 | USD | Moderate | PCE price index (MoM) (Oct) |  |  | 0.3% |
-| 13:30 | USD | Moderate | PCE Price index (YoY) (Oct) |  |  | 2.8% |
+| 13:30 | USD | Moderate | Housing Starts |  | 1.320M | 1.307M |
 | 13:30 | USD | Low | PCE Prices (Q3) |  | 2.9% | 2.1% |
 | 13:30 | USD | Low | Real Consumer Spending (Q3) |  |  | 2.5% |
 | 13:30 | USD | Low | Real Personal Consumption (MoM) (Oct) |  |  | 0.0% |
@@ -71,7 +66,6 @@
 | 15:00 | USD | Low | Milk Auctions |  |  | 3,341.0 |
 | 16:30 | USD | Low | 52-Week Bill Auction |  |  | 3.460% |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 3.5% | 3.5% |
-| 16:30 | EUR | Low | French 12-Month BTF Auction |  |  | 2.146% |
 | 16:30 | EUR | Low | French 3-Month BTF Auction |  |  | 2.079% |
 | 16:30 | EUR | Low | French 6-Month BTF Auction |  |  | 2.117% |
 | 18:00 | USD | Moderate | 5-Year Note Auction |  |  | 3.562% |

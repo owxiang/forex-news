@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:00 | NZD | M3 Money Supply (Nov) | 443.6B |  | 442.3B |
-| 05:00 | GBP | Car Registration (MoM) (Nov) | 4.3% |  | -53.7% |
 | 05:00 | GBP | Car Registration (YoY) (Nov) | -1.6% |  | 0.5% |
+| 05:00 | GBP | Car Registration (MoM) (Nov) | 4.3% |  | -53.7% |
 | 05:00 | EUR | Italian Car Registration (MoM) (Nov) | -1.4% |  | -0.7% |
 | 05:00 | EUR | Italian Car Registration (YoY) (Nov) | 0.0% |  | -0.5% |
 | 05:00 | EUR | German Car Registration (MoM) (Nov) | 0.2% |  | 6.2% |
@@ -12,15 +12,14 @@
 | 05:00 | EUR | French Car Registration (MoM) (Nov) | -4.7% |  | -0.6% |
 | 05:00 | EUR | French Car Registration (YoY) (Nov) | -0.3% |  | 2.9% |
 | 05:00 | SGD | CPI (MoM) (Nov) | 0.30% |  | 0.00% |
-| 49 min | EUR | German Import Price Index (MoM) (Nov) |  | 0.2% | 0.2% |
-| 49 min | EUR | German Import Price Index (YoY) (Nov) |  |  | -1.4% |
-| 49 min | NOK | M3 Money Supply (Nov) |  |  | 3,407.7B |
-| 49 min | NOK | Credit Indicator (YoY) (Nov) |  |  | 3.9% |
-| 08:00 | EUR | Spanish GDP (YoY) (Q3) |  | 2.8% | 3.1% |
-| 08:00 | EUR | Spanish PPI (YoY) (Nov) |  |  | 0.7% |
+| 07:00 | EUR | German Import Price Index (MoM) (Nov) | 0.5% | 0.2% | 0.2% |
+| 07:00 | EUR | German Import Price Index (YoY) (Nov) | -1.9% |  | -1.4% |
+| 07:00 | NOK | M3 Money Supply (Nov) | 3,446.6B |  | 3,407.7B |
+| 07:00 | NOK | Credit Indicator (YoY) (Nov) | 3.9% |  | 3.9% |
+| 50 min | EUR | Spanish GDP (YoY) (Q3) |  | 2.8% | 3.1% |
+| 50 min | EUR | Spanish PPI (YoY) (Nov) |  |  | 0.7% |
 | 09:00 | CHF | ZEW Expectations (Dec) |  |  | 12.2 |
 | 10:00 | EUR | Italian Trade Balance Non-EU (Nov) |  |  | 5.32B |
-| 11:30 | GBP | House Price Index (YoY) |  | 2.4% | 2.6% |
 | 11:30 | EUR | Reserve Assets Total (Nov) |  |  | 1,709.78B |
 | 12:00 | MXN | 1st Half-Month Core CPI (Dec) |  | 0.39% | 0.04% |
 | 12:00 | MXN | 1st Half-Month CPI (Dec) |  | 0.31% | 0.47% |
@@ -28,7 +27,6 @@
 | 12:00 | MXN | Trade Balance (USD) (Nov) |  |  | 1.411B |
 | 12:00 | BRL | Mid-Month CPI (MoM) (Dec) |  | 0.30% | 0.20% |
 | 12:00 | BRL | Mid-Month CPI (YoY) (Dec) |  | 4.40% | 4.50% |
-| 13:30 | USD | Building Permits (MoM) (Sep) |  |  | -2.3% |
 | 13:30 | USD | Corporate Profits (QoQ) (Q3) |  |  | 0.2% |
 | 13:30 | USD | Dallas Fed PCE (Oct) |  |  | 1.90% |
 | 13:30 | USD | Durables Excluding Defense (MoM) (Oct) |  |  | 0.1% |
@@ -47,7 +45,6 @@
 | 15:00 | NZD | GlobalDairyTrade Price Index |  |  | -4.4% |
 | 15:00 | USD | Milk Auctions |  |  | 3,341.0 |
 | 16:30 | USD | 52-Week Bill Auction |  |  | 3.460% |
-| 16:30 | EUR | French 12-Month BTF Auction |  |  | 2.146% |
 | 16:30 | EUR | French 3-Month BTF Auction |  |  | 2.079% |
 | 16:30 | EUR | French 6-Month BTF Auction |  |  | 2.117% |
 | 18:00 | USD | M2 Money Supply (MoM) (Nov) |  |  | 22.30T |
