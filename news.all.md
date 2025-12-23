@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
 | 02:00 | NZD | Low | M3 Money Supply (Nov) | 443.6B |  | 442.3B |
-| 05:00 | GBP | Low | Car Registration (YoY) (Nov) | -1.6% |  | 0.5% |
 | 05:00 | GBP | Low | Car Registration (MoM) (Nov) | 4.3% |  | -53.7% |
+| 05:00 | GBP | Low | Car Registration (YoY) (Nov) | -1.6% |  | 0.5% |
 | 05:00 | EUR | Low | Italian Car Registration (MoM) (Nov) | -1.4% |  | -0.7% |
 | 05:00 | EUR | Low | Italian Car Registration (YoY) (Nov) | 0.0% |  | -0.5% |
 | 05:00 | EUR | Low | German Car Registration (MoM) (Nov) | 0.2% |  | 6.2% |
@@ -25,13 +25,12 @@
 | 08:00 | EUR | Low | Spanish PPI (YoY) (Nov) | -2.5% |  | 0.8% |
 | 09:00 | CHF | Low | ZEW Expectations (Dec) | 6.2 |  | 12.2 |
 | 10:00 | EUR | Low | Italian Trade Balance Non-EU (Nov) | 6.92B |  | 5.32B |
-| 11:30 | EUR | Low | Reserve Assets Total (Nov) |  |  | 1,709.78B |
-| 12:00 | MXN | Low | 1st Half-Month Core CPI (Dec) |  | 0.39% | 0.04% |
-| 12:00 | MXN | Low | 1st Half-Month CPI (Dec) |  | 0.31% | 0.47% |
-| 12:00 | MXN | Low | Trade Balance (Nov) |  | 0.500B | 0.606B |
-| 12:00 | MXN | Low | Trade Balance (USD) (Nov) |  |  | 1.411B |
-| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Dec) |  | 0.30% | 0.20% |
-| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Dec) |  | 4.40% | 4.50% |
+| 12:00 | MXN | Low | 1st Half-Month Core CPI (Dec) | 0.31% | 0.39% | 0.04% |
+| 12:00 | MXN | Low | 1st Half-Month CPI (Dec) | 0.17% | 0.31% | 0.47% |
+| 12:00 | MXN | Low | Trade Balance (Nov) | 0.663B | 0.500B | 0.606B |
+| 12:00 | MXN | Low | Trade Balance (USD) (Nov) | -0.274B |  | 1.530B |
+| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Dec) | 0.25% | 0.30% | 0.20% |
+| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Dec) | 4.41% | 4.40% | 4.50% |
 | 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 16.25K |
 | 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Oct) |  | 0.3% | 0.6% |
 | 13:30 | USD | Moderate | Core PCE Prices (Q3) |  | 2.90% | 2.60% |
@@ -50,10 +49,10 @@
 | 13:30 | CAD | Moderate | GDP (MoM) (Oct) |  | -0.3% | 0.2% |
 | 13:31 | CAD | Moderate | GDP (MoM) (Nov) |  |  |  |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 6.2% |
-| 14:15 | USD | Low | Capacity Utilization Rate (Nov) |  | 75.9% | 75.9% |
-| 14:15 | USD | Moderate | Industrial Production (MoM) (Nov) |  | 0.1% | 0.1% |
-| 14:15 | USD | Moderate | Industrial Production (YoY) (Nov) |  |  | 1.62% |
-| 14:15 | USD | Low | Manufacturing Production (MoM) (Nov) |  |  | 0.0% |
+| 14:15 | USD | Low | Capacity Utilization Rate (Oct) |  | 75.9% | 75.9% |
+| 14:15 | USD | Moderate | Industrial Production (MoM) (Oct) |  | 0.1% | 0.1% |
+| 14:15 | USD | Moderate | Industrial Production (YoY) (Oct) |  |  | 1.62% |
+| 14:15 | USD | Low | Manufacturing Production (MoM) (Oct) |  |  | 0.0% |
 | 15:00 | USD | High | CB Consumer Confidence (Dec) |  | 91.7 | 88.7 |
 | 15:00 | USD | Low | Richmond Manufacturing Index (Dec) |  | -8 | -15 |
 | 15:00 | USD | Low | Richmond Manufacturing Shipments (Dec) |  |  | -14 |

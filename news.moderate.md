@@ -13,8 +13,8 @@
 | 13:30 | USD | GDP Price Index (QoQ) (Q3) |  | 2.7% | 2.1% |
 | 13:30 | CAD | GDP (MoM) (Oct) |  | -0.3% | 0.2% |
 | 13:31 | CAD | GDP (MoM) (Nov) |  |  |  |
-| 14:15 | USD | Industrial Production (MoM) (Nov) |  | 0.1% | 0.1% |
-| 14:15 | USD | Industrial Production (YoY) (Nov) |  |  | 1.62% |
+| 14:15 | USD | Industrial Production (MoM) (Oct) |  | 0.1% | 0.1% |
+| 14:15 | USD | Industrial Production (YoY) (Oct) |  |  | 1.62% |
 | 16:30 | USD | Atlanta Fed GDPNow (Q4) |  | 3.5% | 3.5% |
 | 18:00 | USD | 5-Year Note Auction |  |  | 3.562% |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -75.5K |

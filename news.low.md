@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:00 | NZD | M3 Money Supply (Nov) | 443.6B |  | 442.3B |
-| 05:00 | GBP | Car Registration (YoY) (Nov) | -1.6% |  | 0.5% |
 | 05:00 | GBP | Car Registration (MoM) (Nov) | 4.3% |  | -53.7% |
+| 05:00 | GBP | Car Registration (YoY) (Nov) | -1.6% |  | 0.5% |
 | 05:00 | EUR | Italian Car Registration (MoM) (Nov) | -1.4% |  | -0.7% |
 | 05:00 | EUR | Italian Car Registration (YoY) (Nov) | 0.0% |  | -0.5% |
 | 05:00 | EUR | German Car Registration (MoM) (Nov) | 0.2% |  | 6.2% |
@@ -20,13 +20,12 @@
 | 08:00 | EUR | Spanish PPI (YoY) (Nov) | -2.5% |  | 0.8% |
 | 09:00 | CHF | ZEW Expectations (Dec) | 6.2 |  | 12.2 |
 | 10:00 | EUR | Italian Trade Balance Non-EU (Nov) | 6.92B |  | 5.32B |
-| 11:30 | EUR | Reserve Assets Total (Nov) |  |  | 1,709.78B |
-| 12:00 | MXN | 1st Half-Month Core CPI (Dec) |  | 0.39% | 0.04% |
-| 12:00 | MXN | 1st Half-Month CPI (Dec) |  | 0.31% | 0.47% |
-| 12:00 | MXN | Trade Balance (Nov) |  | 0.500B | 0.606B |
-| 12:00 | MXN | Trade Balance (USD) (Nov) |  |  | 1.411B |
-| 12:00 | BRL | Mid-Month CPI (MoM) (Dec) |  | 0.30% | 0.20% |
-| 12:00 | BRL | Mid-Month CPI (YoY) (Dec) |  | 4.40% | 4.50% |
+| 12:00 | MXN | 1st Half-Month Core CPI (Dec) | 0.31% | 0.39% | 0.04% |
+| 12:00 | MXN | 1st Half-Month CPI (Dec) | 0.17% | 0.31% | 0.47% |
+| 12:00 | MXN | Trade Balance (Nov) | 0.663B | 0.500B | 0.606B |
+| 12:00 | MXN | Trade Balance (USD) (Nov) | -0.274B |  | 1.530B |
+| 12:00 | BRL | Mid-Month CPI (MoM) (Dec) | 0.25% | 0.30% | 0.20% |
+| 12:00 | BRL | Mid-Month CPI (YoY) (Dec) | 4.41% | 4.40% | 4.50% |
 | 13:30 | USD | Corporate Profits (QoQ) (Q3) |  |  | 0.2% |
 | 13:30 | USD | Dallas Fed PCE (Oct) |  |  | 1.90% |
 | 13:30 | USD | Durables Excluding Defense (MoM) (Oct) |  |  | 0.1% |
@@ -37,8 +36,8 @@
 | 13:30 | USD | Real Consumer Spending (Q3) |  |  | 2.5% |
 | 13:30 | USD | Real Personal Consumption (MoM) (Oct) |  |  | 0.0% |
 | 13:55 | USD | Redbook (YoY) |  |  | 6.2% |
-| 14:15 | USD | Capacity Utilization Rate (Nov) |  | 75.9% | 75.9% |
-| 14:15 | USD | Manufacturing Production (MoM) (Nov) |  |  | 0.0% |
+| 14:15 | USD | Capacity Utilization Rate (Oct) |  | 75.9% | 75.9% |
+| 14:15 | USD | Manufacturing Production (MoM) (Oct) |  |  | 0.0% |
 | 15:00 | USD | Richmond Manufacturing Index (Dec) |  | -8 | -15 |
 | 15:00 | USD | Richmond Manufacturing Shipments (Dec) |  |  | -14 |
 | 15:00 | USD | Richmond Services Index (Dec) |  |  | -4 |
