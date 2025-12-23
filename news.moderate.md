@@ -3,9 +3,9 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | RBA Meeting Minutes |  |  |  |
-| 05:00 | JPY | BoJ Core CPI (YoY) |  | 2.2% | 2.2% |
-| 05:00 | SGD | Core CPI (YoY) (Nov) |  | 1.20% | 1.20% |
-| 05:00 | SGD | CPI (YoY) (Nov) |  | 1.3% | 1.2% |
+| 40 min | JPY | BoJ Core CPI (YoY) |  | 2.2% | 2.2% |
+| 40 min | SGD | Core CPI (YoY) (Nov) |  | 1.20% | 1.20% |
+| 40 min | SGD | CPI (YoY) (Nov) |  | 1.3% | 1.2% |
 | 08:00 | EUR | Spanish GDP (QoQ) (Q3) |  | 0.6% | 0.8% |
 | 13:15 | USD | ADP Employment Change Weekly |  |  | 16.25K |
 | 13:30 | USD | Building Permits (Sep) |  | 1.340M | 1.330M |

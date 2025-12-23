@@ -4,18 +4,18 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
 | 02:00 | NZD | Low | M3 Money Supply (Nov) | 443.6B |  | 442.3B |
-| 05:00 | GBP | Low | Car Registration (MoM) (Nov) |  |  | -53.7% |
-| 05:00 | GBP | Low | Car Registration (YoY) (Nov) |  |  | 0.5% |
-| 05:00 | EUR | Low | Italian Car Registration (MoM) (Nov) |  |  | -0.7% |
-| 05:00 | EUR | Low | Italian Car Registration (YoY) (Nov) |  |  | -0.5% |
-| 05:00 | EUR | Low | German Car Registration (MoM) (Nov) |  |  | 6.2% |
-| 05:00 | EUR | Low | German Car Registration (YoY) (Nov) |  |  | 7.8% |
-| 05:00 | EUR | Low | French Car Registration (MoM) (Nov) |  |  | -0.6% |
-| 05:00 | EUR | Low | French Car Registration (YoY) (Nov) |  |  | 2.9% |
-| 05:00 | JPY | Moderate | BoJ Core CPI (YoY) |  | 2.2% | 2.2% |
-| 05:00 | SGD | Moderate | Core CPI (YoY) (Nov) |  | 1.20% | 1.20% |
-| 05:00 | SGD | Low | CPI (MoM) (Nov) |  |  | 0.00% |
-| 05:00 | SGD | Moderate | CPI (YoY) (Nov) |  | 1.3% | 1.2% |
+| 40 min | GBP | Low | Car Registration (MoM) (Nov) |  |  | -53.7% |
+| 40 min | GBP | Low | Car Registration (YoY) (Nov) |  |  | 0.5% |
+| 40 min | EUR | Low | Italian Car Registration (MoM) (Nov) |  |  | -0.7% |
+| 40 min | EUR | Low | Italian Car Registration (YoY) (Nov) |  |  | -0.5% |
+| 40 min | EUR | Low | German Car Registration (MoM) (Nov) |  |  | 6.2% |
+| 40 min | EUR | Low | German Car Registration (YoY) (Nov) |  |  | 7.8% |
+| 40 min | EUR | Low | French Car Registration (MoM) (Nov) |  |  | -0.6% |
+| 40 min | EUR | Low | French Car Registration (YoY) (Nov) |  |  | 2.9% |
+| 40 min | JPY | Moderate | BoJ Core CPI (YoY) |  | 2.2% | 2.2% |
+| 40 min | SGD | Moderate | Core CPI (YoY) (Nov) |  | 1.20% | 1.20% |
+| 40 min | SGD | Low | CPI (MoM) (Nov) |  |  | 0.00% |
+| 40 min | SGD | Moderate | CPI (YoY) (Nov) |  | 1.3% | 1.2% |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Nov) |  | 0.1% | 0.2% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Nov) |  |  | -1.4% |
 | 07:00 | NOK | Low | M3 Money Supply (Nov) |  |  | 3,407.7B |

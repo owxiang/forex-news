@@ -3,15 +3,15 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:00 | NZD | M3 Money Supply (Nov) | 443.6B |  | 442.3B |
-| 05:00 | GBP | Car Registration (MoM) (Nov) |  |  | -53.7% |
-| 05:00 | GBP | Car Registration (YoY) (Nov) |  |  | 0.5% |
-| 05:00 | EUR | Italian Car Registration (MoM) (Nov) |  |  | -0.7% |
-| 05:00 | EUR | Italian Car Registration (YoY) (Nov) |  |  | -0.5% |
-| 05:00 | EUR | German Car Registration (MoM) (Nov) |  |  | 6.2% |
-| 05:00 | EUR | German Car Registration (YoY) (Nov) |  |  | 7.8% |
-| 05:00 | EUR | French Car Registration (MoM) (Nov) |  |  | -0.6% |
-| 05:00 | EUR | French Car Registration (YoY) (Nov) |  |  | 2.9% |
-| 05:00 | SGD | CPI (MoM) (Nov) |  |  | 0.00% |
+| 40 min | GBP | Car Registration (MoM) (Nov) |  |  | -53.7% |
+| 40 min | GBP | Car Registration (YoY) (Nov) |  |  | 0.5% |
+| 40 min | EUR | Italian Car Registration (MoM) (Nov) |  |  | -0.7% |
+| 40 min | EUR | Italian Car Registration (YoY) (Nov) |  |  | -0.5% |
+| 40 min | EUR | German Car Registration (MoM) (Nov) |  |  | 6.2% |
+| 40 min | EUR | German Car Registration (YoY) (Nov) |  |  | 7.8% |
+| 40 min | EUR | French Car Registration (MoM) (Nov) |  |  | -0.6% |
+| 40 min | EUR | French Car Registration (YoY) (Nov) |  |  | 2.9% |
+| 40 min | SGD | CPI (MoM) (Nov) |  |  | 0.00% |
 | 07:00 | EUR | German Import Price Index (MoM) (Nov) |  | 0.1% | 0.2% |
 | 07:00 | EUR | German Import Price Index (YoY) (Nov) |  |  | -1.4% |
 | 07:00 | NOK | M3 Money Supply (Nov) |  |  | 3,407.7B |
