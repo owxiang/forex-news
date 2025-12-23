@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 24 min | NZD | M3 Money Supply (Nov) |  |  | 442.3B |
+| 02:00 | NZD | M3 Money Supply (Nov) | 443.6B |  | 442.3B |
 | 05:00 | GBP | Car Registration (MoM) (Nov) |  |  | -53.7% |
 | 05:00 | GBP | Car Registration (YoY) (Nov) |  |  | 0.5% |
 | 05:00 | EUR | Italian Car Registration (MoM) (Nov) |  |  | -0.7% |

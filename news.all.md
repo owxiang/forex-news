@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
-| 24 min | NZD | Low | M3 Money Supply (Nov) |  |  | 442.3B |
+| 02:00 | NZD | Low | M3 Money Supply (Nov) | 443.6B |  | 442.3B |
 | 05:00 | GBP | Low | Car Registration (MoM) (Nov) |  |  | -53.7% |
 | 05:00 | GBP | Low | Car Registration (YoY) (Nov) |  |  | 0.5% |
 | 05:00 | EUR | Low | Italian Car Registration (MoM) (Nov) |  |  | -0.7% |
