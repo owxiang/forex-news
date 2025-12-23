@@ -8,13 +8,13 @@
 | 05:00 | SGD | CPI (YoY) (Nov) | 1.2% | 1.3% | 1.2% |
 | 08:00 | EUR | Spanish GDP (QoQ) (Q3) | 0.6% | 0.6% | 0.7% |
 | 13:15 | USD | ADP Employment Change Weekly |  |  | 16.25K |
-| 13:30 | USD | Core Durable Goods Orders (MoM) (Oct) |  | 0.3% | 0.6% |
-| 13:30 | USD | Core PCE Prices (Q3) |  | 2.90% | 2.60% |
-| 13:30 | USD | GDP Price Index (QoQ) (Q3) |  | 2.7% | 2.1% |
-| 13:30 | CAD | GDP (MoM) (Oct) |  | -0.3% | 0.2% |
-| 13:31 | CAD | GDP (MoM) (Nov) |  |  |  |
-| 14:15 | USD | Industrial Production (MoM) (Oct) |  | 0.1% | 0.1% |
-| 14:15 | USD | Industrial Production (YoY) (Oct) |  |  | 1.62% |
+| 12 min | USD | Core Durable Goods Orders (MoM) (Oct) |  | 0.3% | 0.6% |
+| 12 min | USD | Core PCE Prices (Q3) |  | 2.90% | 2.60% |
+| 12 min | USD | GDP Price Index (QoQ) (Q3) |  | 2.7% | 2.1% |
+| 12 min | CAD | GDP (MoM) (Oct) |  | -0.3% | 0.2% |
+| 13 min | CAD | GDP (MoM) (Nov) |  |  |  |
+| 57 min | USD | Industrial Production (MoM) (Oct) |  | 0.1% | 0.1% |
+| 57 min | USD | Industrial Production (YoY) (Oct) |  |  | 1.62% |
 | 16:30 | USD | Atlanta Fed GDPNow (Q4) |  | 3.5% | 3.5% |
 | 18:00 | USD | 5-Year Note Auction |  |  | 3.562% |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -75.5K |

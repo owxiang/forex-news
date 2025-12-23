@@ -32,27 +32,27 @@
 | 12:00 | BRL | Low | Mid-Month CPI (MoM) (Dec) | 0.25% | 0.30% | 0.20% |
 | 12:00 | BRL | Low | Mid-Month CPI (YoY) (Dec) | 4.41% | 4.40% | 4.50% |
 | 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 16.25K |
-| 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Oct) |  | 0.3% | 0.6% |
-| 13:30 | USD | Moderate | Core PCE Prices (Q3) |  | 2.90% | 2.60% |
-| 13:30 | USD | Low | Corporate Profits (QoQ) (Q3) |  |  | 0.2% |
-| 13:30 | USD | Low | Dallas Fed PCE (Oct) |  |  | 1.90% |
-| 13:30 | USD | High | Durable Goods Orders (MoM) (Oct) |  | -1.5% | 0.5% |
-| 13:30 | USD | Low | Durables Excluding Defense (MoM) (Oct) |  |  | 0.1% |
-| 13:30 | USD | Low | Durables Excluding Transport (MoM) |  | 0.3% | 0.6% |
-| 13:30 | USD | High | GDP (QoQ) (Q3) |  | 3.3% | 3.8% |
-| 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q3) |  | 2.7% | 2.1% |
-| 13:30 | USD | Low | GDP Sales (Q3) |  |  | 7.5% |
-| 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Oct) |  |  | 0.9% |
-| 13:30 | USD | Low | PCE Prices (Q3) |  | 2.9% | 2.1% |
-| 13:30 | USD | Low | Real Consumer Spending (Q3) |  |  | 2.5% |
-| 13:30 | USD | Low | Real Personal Consumption (MoM) (Oct) |  |  | 0.0% |
-| 13:30 | CAD | Moderate | GDP (MoM) (Oct) |  | -0.3% | 0.2% |
-| 13:31 | CAD | Moderate | GDP (MoM) (Nov) |  |  |  |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 6.2% |
-| 14:15 | USD | Low | Capacity Utilization Rate (Oct) |  | 75.9% | 75.9% |
-| 14:15 | USD | Moderate | Industrial Production (MoM) (Oct) |  | 0.1% | 0.1% |
-| 14:15 | USD | Moderate | Industrial Production (YoY) (Oct) |  |  | 1.62% |
-| 14:15 | USD | Low | Manufacturing Production (MoM) (Oct) |  |  | 0.0% |
+| 12 min | USD | Moderate | Core Durable Goods Orders (MoM) (Oct) |  | 0.3% | 0.6% |
+| 12 min | USD | Moderate | Core PCE Prices (Q3) |  | 2.90% | 2.60% |
+| 12 min | USD | Low | Corporate Profits (QoQ) (Q3) |  |  | 0.2% |
+| 12 min | USD | Low | Dallas Fed PCE (Oct) |  |  | 1.90% |
+| 12 min | USD | High | Durable Goods Orders (MoM) (Oct) |  | -1.5% | 0.5% |
+| 12 min | USD | Low | Durables Excluding Defense (MoM) (Oct) |  |  | 0.1% |
+| 12 min | USD | Low | Durables Excluding Transport (MoM) |  | 0.3% | 0.6% |
+| 12 min | USD | High | GDP (QoQ) (Q3) |  | 3.3% | 3.8% |
+| 12 min | USD | Moderate | GDP Price Index (QoQ) (Q3) |  | 2.7% | 2.1% |
+| 12 min | USD | Low | GDP Sales (Q3) |  |  | 7.5% |
+| 12 min | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Oct) |  |  | 0.9% |
+| 12 min | USD | Low | PCE Prices (Q3) |  | 2.9% | 2.1% |
+| 12 min | USD | Low | Real Consumer Spending (Q3) |  |  | 2.5% |
+| 12 min | USD | Low | Real Personal Consumption (MoM) (Oct) |  |  | 0.0% |
+| 12 min | CAD | Moderate | GDP (MoM) (Oct) |  | -0.3% | 0.2% |
+| 13 min | CAD | Moderate | GDP (MoM) (Nov) |  |  |  |
+| 37 min | USD | Low | Redbook (YoY) |  |  | 6.2% |
+| 57 min | USD | Low | Capacity Utilization Rate (Oct) |  | 75.9% | 75.9% |
+| 57 min | USD | Moderate | Industrial Production (MoM) (Oct) |  | 0.1% | 0.1% |
+| 57 min | USD | Moderate | Industrial Production (YoY) (Oct) |  |  | 1.62% |
+| 57 min | USD | Low | Manufacturing Production (MoM) (Oct) |  |  | 0.0% |
 | 15:00 | USD | High | CB Consumer Confidence (Dec) |  | 91.7 | 88.7 |
 | 15:00 | USD | Low | Richmond Manufacturing Index (Dec) |  | -8 | -15 |
 | 15:00 | USD | Low | Richmond Manufacturing Shipments (Dec) |  |  | -14 |
