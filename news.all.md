@@ -65,7 +65,7 @@
 | 16:30 | USD | Low | 52-Week Bill Auction | 3.380% |  | 3.460% |
 | 18:00 | USD | Moderate | 5-Year Note Auction | 3.747% |  | 3.562% |
 | 18:00 | USD | Low | M2 Money Supply (MoM) (Nov) | 22.30T |  | 22.30T |
-| 19 min | CAD | Low | BOC Summary of Deliberations |  |  |  |
+| 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -75.5K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -2.4K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 62.5K |
