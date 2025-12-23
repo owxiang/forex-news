@@ -11,11 +11,11 @@
 | 05:00 | EUR | German Car Registration (YoY) (Nov) | 2.5% |  | 7.8% |
 | 05:00 | EUR | French Car Registration (MoM) (Nov) | -4.7% |  | -0.6% |
 | 05:00 | EUR | French Car Registration (YoY) (Nov) | -0.3% |  | 2.9% |
-| 05:00 | SGD | CPI (MoM) (Nov) |  |  | 0.00% |
-| 07:00 | EUR | German Import Price Index (MoM) (Nov) |  | 0.2% | 0.2% |
-| 07:00 | EUR | German Import Price Index (YoY) (Nov) |  |  | -1.4% |
-| 07:00 | NOK | M3 Money Supply (Nov) |  |  | 3,407.7B |
-| 07:00 | NOK | Credit Indicator (YoY) (Nov) |  |  | 3.9% |
+| 05:00 | SGD | CPI (MoM) (Nov) | 0.30% |  | 0.00% |
+| 49 min | EUR | German Import Price Index (MoM) (Nov) |  | 0.2% | 0.2% |
+| 49 min | EUR | German Import Price Index (YoY) (Nov) |  |  | -1.4% |
+| 49 min | NOK | M3 Money Supply (Nov) |  |  | 3,407.7B |
+| 49 min | NOK | Credit Indicator (YoY) (Nov) |  |  | 3.9% |
 | 08:00 | EUR | Spanish GDP (YoY) (Q3) |  | 2.8% | 3.1% |
 | 08:00 | EUR | Spanish PPI (YoY) (Nov) |  |  | 0.7% |
 | 09:00 | CHF | ZEW Expectations (Dec) |  |  | 12.2 |

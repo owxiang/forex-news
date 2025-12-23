@@ -12,14 +12,14 @@
 | 05:00 | EUR | Low | German Car Registration (YoY) (Nov) | 2.5% |  | 7.8% |
 | 05:00 | EUR | Low | French Car Registration (MoM) (Nov) | -4.7% |  | -0.6% |
 | 05:00 | EUR | Low | French Car Registration (YoY) (Nov) | -0.3% |  | 2.9% |
-| 05:00 | JPY | Moderate | BoJ Core CPI (YoY) |  | 2.2% | 2.2% |
+| 05:00 | JPY | Moderate | BoJ Core CPI (YoY) | 2.2% | 2.2% | 2.2% |
 | 05:00 | SGD | Moderate | Core CPI (YoY) (Nov) | 1.20% | 1.20% | 1.20% |
-| 05:00 | SGD | Low | CPI (MoM) (Nov) |  |  | 0.00% |
+| 05:00 | SGD | Low | CPI (MoM) (Nov) | 0.30% |  | 0.00% |
 | 05:00 | SGD | Moderate | CPI (YoY) (Nov) | 1.2% | 1.3% | 1.2% |
-| 07:00 | EUR | Low | German Import Price Index (MoM) (Nov) |  | 0.2% | 0.2% |
-| 07:00 | EUR | Low | German Import Price Index (YoY) (Nov) |  |  | -1.4% |
-| 07:00 | NOK | Low | M3 Money Supply (Nov) |  |  | 3,407.7B |
-| 07:00 | NOK | Low | Credit Indicator (YoY) (Nov) |  |  | 3.9% |
+| 49 min | EUR | Low | German Import Price Index (MoM) (Nov) |  | 0.2% | 0.2% |
+| 49 min | EUR | Low | German Import Price Index (YoY) (Nov) |  |  | -1.4% |
+| 49 min | NOK | Low | M3 Money Supply (Nov) |  |  | 3,407.7B |
+| 49 min | NOK | Low | Credit Indicator (YoY) (Nov) |  |  | 3.9% |
 | 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q3) |  | 0.6% | 0.8% |
 | 08:00 | EUR | Low | Spanish GDP (YoY) (Q3) |  | 2.8% | 3.1% |
 | 08:00 | EUR | Low | Spanish PPI (YoY) (Nov) |  |  | 0.7% |
