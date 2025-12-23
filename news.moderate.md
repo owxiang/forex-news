@@ -6,7 +6,7 @@
 | 05:00 | JPY | BoJ Core CPI (YoY) | 2.2% | 2.2% | 2.2% |
 | 05:00 | SGD | Core CPI (YoY) (Nov) | 1.20% | 1.20% | 1.20% |
 | 05:00 | SGD | CPI (YoY) (Nov) | 1.2% | 1.3% | 1.2% |
-| 08:00 | EUR | Spanish GDP (QoQ) (Q3) | 0.6% | 0.6% | 0.8% |
+| 08:00 | EUR | Spanish GDP (QoQ) (Q3) | 0.6% | 0.6% | 0.7% |
 | 13:15 | USD | ADP Employment Change Weekly |  |  | 16.25K |
 | 13:30 | USD | Core Durable Goods Orders (MoM) (Oct) |  | 0.3% | 0.6% |
 | 13:30 | USD | Core PCE Prices (Q3) |  | 2.90% | 2.60% |

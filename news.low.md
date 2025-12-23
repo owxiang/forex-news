@@ -16,10 +16,10 @@
 | 07:00 | EUR | German Import Price Index (YoY) (Nov) | -1.9% |  | -1.4% |
 | 07:00 | NOK | M3 Money Supply (Nov) | 3,446.6B |  | 3,407.7B |
 | 07:00 | NOK | Credit Indicator (YoY) (Nov) | 3.9% |  | 3.9% |
-| 08:00 | EUR | Spanish GDP (YoY) (Q3) | 2.8% | 2.8% | 3.1% |
-| 08:00 | EUR | Spanish PPI (YoY) (Nov) | -2.5% |  | 0.7% |
+| 08:00 | EUR | Spanish GDP (YoY) (Q3) | 2.8% | 2.8% | 2.9% |
+| 08:00 | EUR | Spanish PPI (YoY) (Nov) | -2.5% |  | 0.8% |
 | 09:00 | CHF | ZEW Expectations (Dec) | 6.2 |  | 12.2 |
-| 50 min | EUR | Italian Trade Balance Non-EU (Nov) |  |  | 5.32B |
+| 10:00 | EUR | Italian Trade Balance Non-EU (Nov) | 6.92B |  | 5.32B |
 | 11:30 | EUR | Reserve Assets Total (Nov) |  |  | 1,709.78B |
 | 12:00 | MXN | 1st Half-Month Core CPI (Dec) |  | 0.39% | 0.04% |
 | 12:00 | MXN | 1st Half-Month CPI (Dec) |  | 0.31% | 0.47% |
