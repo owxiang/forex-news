@@ -58,4 +58,4 @@
 | 20:30 | CHF | CFTC CHF speculative net positions | -38.9K |  | -38.6K |
 | 20:30 | NZD | CFTC NZD speculative net positions | -48.0K |  | -56.8K |
 | 21:00 | KRW | Consumer Confidence (Dec) | 109.9 |  | 112.4 |
-| 23:50 | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 2.7% | 2.7% |
+| 43 min | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 2.7% | 2.7% |

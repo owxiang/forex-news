@@ -88,5 +88,5 @@
 | 20:30 | EUR | Moderate | CFTC EUR speculative net positions | 144.9K |  | 138.8K |
 | 21:00 | KRW | Low | Consumer Confidence (Dec) | 109.9 |  | 112.4 |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock | 2.400M |  | -9.300M |
-| 23:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) |  | 2.7% | 2.7% |
-| 23:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
+| 43 min | JPY | Low | Corporate Services Price Index (CSPI) (YoY) |  | 2.7% | 2.7% |
+| 43 min | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |

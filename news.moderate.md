@@ -29,4 +29,4 @@
 | 20:30 | JPY | CFTC JPY speculative net positions | -2.9K |  | 17.4K |
 | 20:30 | EUR | CFTC EUR speculative net positions | 144.9K |  | 138.8K |
 | 21:30 | USD | API Weekly Crude Oil Stock | 2.400M |  | -9.300M |
-| 23:50 | JPY | Monetary Policy Meeting Minutes |  |  |  |
+| 43 min | JPY | Monetary Policy Meeting Minutes |  |  |  |
