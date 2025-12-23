@@ -3,16 +3,16 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:00 | NZD | M3 Money Supply (Nov) | 443.6B |  | 442.3B |
-| 40 min | GBP | Car Registration (MoM) (Nov) |  |  | -53.7% |
-| 40 min | GBP | Car Registration (YoY) (Nov) |  |  | 0.5% |
-| 40 min | EUR | Italian Car Registration (MoM) (Nov) |  |  | -0.7% |
-| 40 min | EUR | Italian Car Registration (YoY) (Nov) |  |  | -0.5% |
-| 40 min | EUR | German Car Registration (MoM) (Nov) |  |  | 6.2% |
-| 40 min | EUR | German Car Registration (YoY) (Nov) |  |  | 7.8% |
-| 40 min | EUR | French Car Registration (MoM) (Nov) |  |  | -0.6% |
-| 40 min | EUR | French Car Registration (YoY) (Nov) |  |  | 2.9% |
-| 40 min | SGD | CPI (MoM) (Nov) |  |  | 0.00% |
-| 07:00 | EUR | German Import Price Index (MoM) (Nov) |  | 0.1% | 0.2% |
+| 05:00 | GBP | Car Registration (MoM) (Nov) | 4.3% |  | -53.7% |
+| 05:00 | GBP | Car Registration (YoY) (Nov) | -1.6% |  | 0.5% |
+| 05:00 | EUR | Italian Car Registration (MoM) (Nov) | -1.4% |  | -0.7% |
+| 05:00 | EUR | Italian Car Registration (YoY) (Nov) | 0.0% |  | -0.5% |
+| 05:00 | EUR | German Car Registration (MoM) (Nov) | 0.2% |  | 6.2% |
+| 05:00 | EUR | German Car Registration (YoY) (Nov) | 2.5% |  | 7.8% |
+| 05:00 | EUR | French Car Registration (MoM) (Nov) | -4.7% |  | -0.6% |
+| 05:00 | EUR | French Car Registration (YoY) (Nov) | -0.3% |  | 2.9% |
+| 05:00 | SGD | CPI (MoM) (Nov) |  |  | 0.00% |
+| 07:00 | EUR | German Import Price Index (MoM) (Nov) |  | 0.2% | 0.2% |
 | 07:00 | EUR | German Import Price Index (YoY) (Nov) |  |  | -1.4% |
 | 07:00 | NOK | M3 Money Supply (Nov) |  |  | 3,407.7B |
 | 07:00 | NOK | Credit Indicator (YoY) (Nov) |  |  | 3.9% |
@@ -32,16 +32,16 @@
 | 13:30 | USD | Corporate Profits (QoQ) (Q3) |  |  | 0.2% |
 | 13:30 | USD | Dallas Fed PCE (Oct) |  |  | 1.90% |
 | 13:30 | USD | Durables Excluding Defense (MoM) (Oct) |  |  | 0.1% |
+| 13:30 | USD | Durables Excluding Transport (MoM) |  | 0.3% | 0.6% |
 | 13:30 | USD | GDP Sales (Q3) |  |  | 7.5% |
 | 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Oct) |  |  | 0.9% |
 | 13:30 | USD | PCE Prices (Q3) |  | 2.9% | 2.1% |
-| 13:30 | USD | Personal Income (MoM) (Oct) |  |  | 0.4% |
 | 13:30 | USD | Real Consumer Spending (Q3) |  |  | 2.5% |
 | 13:30 | USD | Real Personal Consumption (MoM) (Oct) |  |  | 0.0% |
 | 13:55 | USD | Redbook (YoY) |  |  | 6.2% |
 | 14:15 | USD | Capacity Utilization Rate (Nov) |  | 75.9% | 75.9% |
 | 14:15 | USD | Manufacturing Production (MoM) (Nov) |  |  | 0.0% |
-| 15:00 | USD | Richmond Manufacturing Index (Dec) |  | -7 | -15 |
+| 15:00 | USD | Richmond Manufacturing Index (Dec) |  | -8 | -15 |
 | 15:00 | USD | Richmond Manufacturing Shipments (Dec) |  |  | -14 |
 | 15:00 | USD | Richmond Services Index (Dec) |  |  | -4 |
 | 15:00 | NZD | GlobalDairyTrade Price Index |  |  | -4.4% |
@@ -64,4 +64,4 @@
 | 20:30 | CHF | CFTC CHF speculative net positions |  |  | -38.6K |
 | 20:30 | NZD | CFTC NZD speculative net positions |  |  | -56.8K |
 | 21:00 | KRW | Consumer Confidence (Dec) |  |  | 112.4 |
-| 23:50 | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 2.6% | 2.7% |
+| 23:50 | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 2.7% | 2.7% |

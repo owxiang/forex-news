@@ -4,19 +4,19 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
 | 02:00 | NZD | Low | M3 Money Supply (Nov) | 443.6B |  | 442.3B |
-| 40 min | GBP | Low | Car Registration (MoM) (Nov) |  |  | -53.7% |
-| 40 min | GBP | Low | Car Registration (YoY) (Nov) |  |  | 0.5% |
-| 40 min | EUR | Low | Italian Car Registration (MoM) (Nov) |  |  | -0.7% |
-| 40 min | EUR | Low | Italian Car Registration (YoY) (Nov) |  |  | -0.5% |
-| 40 min | EUR | Low | German Car Registration (MoM) (Nov) |  |  | 6.2% |
-| 40 min | EUR | Low | German Car Registration (YoY) (Nov) |  |  | 7.8% |
-| 40 min | EUR | Low | French Car Registration (MoM) (Nov) |  |  | -0.6% |
-| 40 min | EUR | Low | French Car Registration (YoY) (Nov) |  |  | 2.9% |
-| 40 min | JPY | Moderate | BoJ Core CPI (YoY) |  | 2.2% | 2.2% |
-| 40 min | SGD | Moderate | Core CPI (YoY) (Nov) |  | 1.20% | 1.20% |
-| 40 min | SGD | Low | CPI (MoM) (Nov) |  |  | 0.00% |
-| 40 min | SGD | Moderate | CPI (YoY) (Nov) |  | 1.3% | 1.2% |
-| 07:00 | EUR | Low | German Import Price Index (MoM) (Nov) |  | 0.1% | 0.2% |
+| 05:00 | GBP | Low | Car Registration (MoM) (Nov) | 4.3% |  | -53.7% |
+| 05:00 | GBP | Low | Car Registration (YoY) (Nov) | -1.6% |  | 0.5% |
+| 05:00 | EUR | Low | Italian Car Registration (MoM) (Nov) | -1.4% |  | -0.7% |
+| 05:00 | EUR | Low | Italian Car Registration (YoY) (Nov) | 0.0% |  | -0.5% |
+| 05:00 | EUR | Low | German Car Registration (MoM) (Nov) | 0.2% |  | 6.2% |
+| 05:00 | EUR | Low | German Car Registration (YoY) (Nov) | 2.5% |  | 7.8% |
+| 05:00 | EUR | Low | French Car Registration (MoM) (Nov) | -4.7% |  | -0.6% |
+| 05:00 | EUR | Low | French Car Registration (YoY) (Nov) | -0.3% |  | 2.9% |
+| 05:00 | JPY | Moderate | BoJ Core CPI (YoY) |  | 2.2% | 2.2% |
+| 05:00 | SGD | Moderate | Core CPI (YoY) (Nov) | 1.20% | 1.20% | 1.20% |
+| 05:00 | SGD | Low | CPI (MoM) (Nov) |  |  | 0.00% |
+| 05:00 | SGD | Moderate | CPI (YoY) (Nov) | 1.2% | 1.3% | 1.2% |
+| 07:00 | EUR | Low | German Import Price Index (MoM) (Nov) |  | 0.2% | 0.2% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Nov) |  |  | -1.4% |
 | 07:00 | NOK | Low | M3 Money Supply (Nov) |  |  | 3,407.7B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Nov) |  |  | 3.9% |
@@ -36,16 +36,17 @@
 | 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 16.25K |
 | 13:30 | USD | Moderate | Building Permits (Sep) |  | 1.340M | 1.330M |
 | 13:30 | USD | Low | Building Permits (MoM) (Sep) |  |  | -2.3% |
-| 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Oct) |  | -1.4% | 0.6% |
+| 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Oct) |  | 0.3% | 0.6% |
 | 13:30 | USD | High | Core PCE Price Index (MoM) (Oct) |  |  | 0.2% |
 | 13:30 | USD | High | Core PCE Price Index (YoY) (Oct) |  |  | 2.8% |
 | 13:30 | USD | Moderate | Core PCE Prices (Q3) |  | 2.90% | 2.60% |
 | 13:30 | USD | Low | Corporate Profits (QoQ) (Q3) |  |  | 0.2% |
 | 13:30 | USD | Low | Dallas Fed PCE (Oct) |  |  | 1.90% |
-| 13:30 | USD | High | Durable Goods Orders (MoM) (Oct) |  | 0.2% | 0.5% |
+| 13:30 | USD | High | Durable Goods Orders (MoM) (Oct) |  | -1.5% | 0.5% |
 | 13:30 | USD | Low | Durables Excluding Defense (MoM) (Oct) |  |  | 0.1% |
-| 13:30 | USD | High | GDP (QoQ) (Q3) |  | 3.2% | 3.8% |
-| 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q3) |  | 2.6% | 2.1% |
+| 13:30 | USD | Low | Durables Excluding Transport (MoM) |  | 0.3% | 0.6% |
+| 13:30 | USD | High | GDP (QoQ) (Q3) |  | 3.3% | 3.8% |
+| 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q3) |  | 2.7% | 2.1% |
 | 13:30 | USD | Low | GDP Sales (Q3) |  |  | 7.5% |
 | 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Oct) |  |  | 0.9% |
 | 13:30 | USD | Moderate | Housing Starts |  | 1.320M | 1.307M |
@@ -53,8 +54,6 @@
 | 13:30 | USD | Moderate | PCE price index (MoM) (Oct) |  |  | 0.3% |
 | 13:30 | USD | Moderate | PCE Price index (YoY) (Oct) |  |  | 2.8% |
 | 13:30 | USD | Low | PCE Prices (Q3) |  | 2.9% | 2.1% |
-| 13:30 | USD | Low | Personal Income (MoM) (Oct) |  |  | 0.4% |
-| 13:30 | USD | Moderate | Personal Spending (MoM) (Oct) |  |  | 0.3% |
 | 13:30 | USD | Low | Real Consumer Spending (Q3) |  |  | 2.5% |
 | 13:30 | USD | Low | Real Personal Consumption (MoM) (Oct) |  |  | 0.0% |
 | 13:30 | CAD | Moderate | GDP (MoM) (Oct) |  | -0.3% | 0.2% |
@@ -65,7 +64,7 @@
 | 14:15 | USD | Moderate | Industrial Production (YoY) (Nov) |  |  | 1.62% |
 | 14:15 | USD | Low | Manufacturing Production (MoM) (Nov) |  |  | 0.0% |
 | 15:00 | USD | High | CB Consumer Confidence (Dec) |  | 91.7 | 88.7 |
-| 15:00 | USD | Low | Richmond Manufacturing Index (Dec) |  | -7 | -15 |
+| 15:00 | USD | Low | Richmond Manufacturing Index (Dec) |  | -8 | -15 |
 | 15:00 | USD | Low | Richmond Manufacturing Shipments (Dec) |  |  | -14 |
 | 15:00 | USD | Low | Richmond Services Index (Dec) |  |  | -4 |
 | 15:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -4.4% |
@@ -106,5 +105,5 @@
 | 20:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | 138.8K |
 | 21:00 | KRW | Low | Consumer Confidence (Dec) |  |  | 112.4 |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -9.300M |
-| 23:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) |  | 2.6% | 2.7% |
+| 23:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) |  | 2.7% | 2.7% |
 | 23:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
