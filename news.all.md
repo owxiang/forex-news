@@ -23,8 +23,8 @@
 | 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q3) | 0.6% | 0.6% | 0.8% |
 | 08:00 | EUR | Low | Spanish GDP (YoY) (Q3) | 2.8% | 2.8% | 3.1% |
 | 08:00 | EUR | Low | Spanish PPI (YoY) (Nov) | -2.5% |  | 0.7% |
-| 50 min | CHF | Low | ZEW Expectations (Dec) |  |  | 12.2 |
-| 10:00 | EUR | Low | Italian Trade Balance Non-EU (Nov) |  |  | 5.32B |
+| 09:00 | CHF | Low | ZEW Expectations (Dec) | 6.2 |  | 12.2 |
+| 50 min | EUR | Low | Italian Trade Balance Non-EU (Nov) |  |  | 5.32B |
 | 11:30 | EUR | Low | Reserve Assets Total (Nov) |  |  | 1,709.78B |
 | 12:00 | MXN | Low | 1st Half-Month Core CPI (Dec) |  | 0.39% | 0.04% |
 | 12:00 | MXN | Low | 1st Half-Month CPI (Dec) |  | 0.31% | 0.47% |

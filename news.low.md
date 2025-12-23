@@ -18,8 +18,8 @@
 | 07:00 | NOK | Credit Indicator (YoY) (Nov) | 3.9% |  | 3.9% |
 | 08:00 | EUR | Spanish GDP (YoY) (Q3) | 2.8% | 2.8% | 3.1% |
 | 08:00 | EUR | Spanish PPI (YoY) (Nov) | -2.5% |  | 0.7% |
-| 50 min | CHF | ZEW Expectations (Dec) |  |  | 12.2 |
-| 10:00 | EUR | Italian Trade Balance Non-EU (Nov) |  |  | 5.32B |
+| 09:00 | CHF | ZEW Expectations (Dec) | 6.2 |  | 12.2 |
+| 50 min | EUR | Italian Trade Balance Non-EU (Nov) |  |  | 5.32B |
 | 11:30 | EUR | Reserve Assets Total (Nov) |  |  | 1,709.78B |
 | 12:00 | MXN | 1st Half-Month Core CPI (Dec) |  | 0.39% | 0.04% |
 | 12:00 | MXN | 1st Half-Month CPI (Dec) |  | 0.31% | 0.47% |
