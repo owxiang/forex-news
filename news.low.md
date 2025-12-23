@@ -41,7 +41,9 @@
 | 15:00 | USD | Richmond Manufacturing Index (Dec) | -7 | -8 | -15 |
 | 15:00 | USD | Richmond Manufacturing Shipments (Dec) | -11 |  | -14 |
 | 15:00 | USD | Richmond Services Index (Dec) | -6 |  | -4 |
-| 16:30 | USD | 52-Week Bill Auction |  |  | 3.460% |
+| 16:00 | CAD | Budget Balance (Oct) | -2.28B |  | -5.02B |
+| 16:00 | CAD | Budget Balance (YoY) (Oct) | -18.37B |  | -16.09B |
+| 21 min | USD | 52-Week Bill Auction |  |  | 3.460% |
 | 18:00 | USD | M2 Money Supply (MoM) (Nov) |  |  | 22.30T |
 | 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -2.4K |
