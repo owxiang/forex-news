@@ -17,8 +17,8 @@
 | 14:14 | USD | Industrial Production (YoY) (Oct) | 2.20% |  | 1.90% |
 | 14:15 | USD | Industrial Production (MoM) (Nov) | 0.2% |  | -0.1% |
 | 14:15 | USD | Industrial Production (YoY) (Nov) | 2.52% |  | 2.20% |
-| 21 min | USD | Atlanta Fed GDPNow (Q4) |  | 3.5% | 3.5% |
-| 18:00 | USD | 5-Year Note Auction |  |  | 3.562% |
+| 16:00 | USD | Atlanta Fed GDPNow (Q4) | 3.0% | 3.5% | 3.5% |
+| 51 min | USD | 5-Year Note Auction |  |  | 3.562% |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -75.5K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 58.4K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 223.9K |
