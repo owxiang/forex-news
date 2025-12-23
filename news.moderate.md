@@ -19,14 +19,14 @@
 | 14:15 | USD | Industrial Production (YoY) (Nov) | 2.52% |  | 2.20% |
 | 16:00 | USD | Atlanta Fed GDPNow (Q4) | 3.0% | 3.5% | 3.5% |
 | 18:00 | USD | 5-Year Note Auction | 3.747% |  | 3.562% |
-| 20:30 | GBP | CFTC GBP speculative net positions |  |  | -75.5K |
-| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 58.4K |
-| 20:30 | USD | CFTC Gold speculative net positions |  |  | 223.9K |
-| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 48.1K |
-| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -190.4K |
-| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -62.9K |
-| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 57.4K |
-| 20:30 | JPY | CFTC JPY speculative net positions |  |  | 17.4K |
-| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 138.8K |
+| 22 min | GBP | CFTC GBP speculative net positions |  |  | -75.5K |
+| 22 min | USD | CFTC Crude Oil speculative net positions |  |  | 58.4K |
+| 22 min | USD | CFTC Gold speculative net positions |  |  | 223.9K |
+| 22 min | USD | CFTC Nasdaq 100 speculative net positions |  |  | 48.1K |
+| 22 min | USD | CFTC S&P 500 speculative net positions |  |  | -190.4K |
+| 22 min | AUD | CFTC AUD speculative net positions |  |  | -62.9K |
+| 22 min | BRL | CFTC BRL speculative net positions |  |  | 57.4K |
+| 22 min | JPY | CFTC JPY speculative net positions |  |  | 17.4K |
+| 22 min | EUR | CFTC EUR speculative net positions |  |  | 138.8K |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | -9.300M |
 | 23:50 | JPY | Monetary Policy Meeting Minutes |  |  |  |
