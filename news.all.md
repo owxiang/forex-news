@@ -63,9 +63,9 @@
 | 16:00 | CAD | Low | Budget Balance (Oct) | -2.28B |  | -5.02B |
 | 16:00 | CAD | Low | Budget Balance (YoY) (Oct) | -18.37B |  | -16.09B |
 | 16:30 | USD | Low | 52-Week Bill Auction | 3.380% |  | 3.460% |
-| 51 min | USD | Moderate | 5-Year Note Auction |  |  | 3.562% |
-| 51 min | USD | Low | M2 Money Supply (MoM) (Nov) |  |  | 22.30T |
-| 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
+| 18:00 | USD | Moderate | 5-Year Note Auction | 3.747% |  | 3.562% |
+| 18:00 | USD | Low | M2 Money Supply (MoM) (Nov) | 22.30T |  | 22.30T |
+| 19 min | CAD | Low | BOC Summary of Deliberations |  |  |  |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -75.5K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -2.4K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 62.5K |
