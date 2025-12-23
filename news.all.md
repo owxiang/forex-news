@@ -20,10 +20,10 @@
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Nov) | -1.9% |  | -1.4% |
 | 07:00 | NOK | Low | M3 Money Supply (Nov) | 3,446.6B |  | 3,407.7B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Nov) | 3.9% |  | 3.9% |
-| 50 min | EUR | Low | Spanish GDP (YoY) (Q3) |  | 2.8% | 3.1% |
-| 50 min | EUR | Moderate | Spanish GDP (QoQ) (Q3) |  | 0.6% | 0.8% |
-| 50 min | EUR | Low | Spanish PPI (YoY) (Nov) |  |  | 0.7% |
-| 09:00 | CHF | Low | ZEW Expectations (Dec) |  |  | 12.2 |
+| 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q3) | 0.6% | 0.6% | 0.8% |
+| 08:00 | EUR | Low | Spanish GDP (YoY) (Q3) | 2.8% | 2.8% | 3.1% |
+| 08:00 | EUR | Low | Spanish PPI (YoY) (Nov) | -2.5% |  | 0.7% |
+| 50 min | CHF | Low | ZEW Expectations (Dec) |  |  | 12.2 |
 | 10:00 | EUR | Low | Italian Trade Balance Non-EU (Nov) |  |  | 5.32B |
 | 11:30 | EUR | Low | Reserve Assets Total (Nov) |  |  | 1,709.78B |
 | 12:00 | MXN | Low | 1st Half-Month Core CPI (Dec) |  | 0.39% | 0.04% |
@@ -34,8 +34,6 @@
 | 12:00 | BRL | Low | Mid-Month CPI (YoY) (Dec) |  | 4.40% | 4.50% |
 | 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 16.25K |
 | 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Oct) |  | 0.3% | 0.6% |
-| 13:30 | USD | High | Core PCE Price Index (YoY) (Oct) |  |  | 2.8% |
-| 13:30 | USD | High | Core PCE Price Index (MoM) (Oct) |  |  | 0.2% |
 | 13:30 | USD | Moderate | Core PCE Prices (Q3) |  | 2.90% | 2.60% |
 | 13:30 | USD | Low | Corporate Profits (QoQ) (Q3) |  |  | 0.2% |
 | 13:30 | USD | Low | Dallas Fed PCE (Oct) |  |  | 1.90% |
@@ -46,8 +44,6 @@
 | 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q3) |  | 2.7% | 2.1% |
 | 13:30 | USD | Low | GDP Sales (Q3) |  |  | 7.5% |
 | 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Oct) |  |  | 0.9% |
-| 13:30 | USD | Moderate | Housing Starts (MoM) (Sep) |  |  | -8.5% |
-| 13:30 | USD | Moderate | Housing Starts |  | 1.320M | 1.307M |
 | 13:30 | USD | Low | PCE Prices (Q3) |  | 2.9% | 2.1% |
 | 13:30 | USD | Low | Real Consumer Spending (Q3) |  |  | 2.5% |
 | 13:30 | USD | Low | Real Personal Consumption (MoM) (Oct) |  |  | 0.0% |
@@ -66,17 +62,9 @@
 | 15:00 | USD | Low | Milk Auctions |  |  | 3,341.0 |
 | 16:30 | USD | Low | 52-Week Bill Auction |  |  | 3.460% |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 3.5% | 3.5% |
-| 16:30 | EUR | Low | French 3-Month BTF Auction |  |  | 2.079% |
-| 16:30 | EUR | Low | French 6-Month BTF Auction |  |  | 2.117% |
 | 18:00 | USD | Moderate | 5-Year Note Auction |  |  | 3.562% |
 | 18:00 | USD | Low | M2 Money Supply (MoM) (Nov) |  |  | 22.30T |
 | 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
-| 20:00 | USD | High | New Home Sales (Sep) |  |  | 800K |
-| 20:00 | USD | Moderate | New Home Sales (MoM) (Sep) |  |  | 20.5% |
-| 20:01 | USD | High | New Home Sales (Oct) |  |  |  |
-| 20:01 | USD | Moderate | New Home Sales (MoM) (Oct) |  |  |  |
-| 20:02 | USD | High | New Home Sales (Nov) |  |  |  |
-| 20:02 | USD | Moderate | New Home Sales (MoM) (Nov) |  |  |  |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -75.5K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -2.4K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 62.5K |

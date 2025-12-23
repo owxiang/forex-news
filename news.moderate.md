@@ -6,22 +6,17 @@
 | 05:00 | JPY | BoJ Core CPI (YoY) | 2.2% | 2.2% | 2.2% |
 | 05:00 | SGD | Core CPI (YoY) (Nov) | 1.20% | 1.20% | 1.20% |
 | 05:00 | SGD | CPI (YoY) (Nov) | 1.2% | 1.3% | 1.2% |
-| 50 min | EUR | Spanish GDP (QoQ) (Q3) |  | 0.6% | 0.8% |
+| 08:00 | EUR | Spanish GDP (QoQ) (Q3) | 0.6% | 0.6% | 0.8% |
 | 13:15 | USD | ADP Employment Change Weekly |  |  | 16.25K |
 | 13:30 | USD | Core Durable Goods Orders (MoM) (Oct) |  | 0.3% | 0.6% |
 | 13:30 | USD | Core PCE Prices (Q3) |  | 2.90% | 2.60% |
 | 13:30 | USD | GDP Price Index (QoQ) (Q3) |  | 2.7% | 2.1% |
-| 13:30 | USD | Housing Starts (MoM) (Sep) |  |  | -8.5% |
-| 13:30 | USD | Housing Starts |  | 1.320M | 1.307M |
 | 13:30 | CAD | GDP (MoM) (Oct) |  | -0.3% | 0.2% |
 | 13:31 | CAD | GDP (MoM) (Nov) |  |  |  |
 | 14:15 | USD | Industrial Production (MoM) (Nov) |  | 0.1% | 0.1% |
 | 14:15 | USD | Industrial Production (YoY) (Nov) |  |  | 1.62% |
 | 16:30 | USD | Atlanta Fed GDPNow (Q4) |  | 3.5% | 3.5% |
 | 18:00 | USD | 5-Year Note Auction |  |  | 3.562% |
-| 20:00 | USD | New Home Sales (MoM) (Sep) |  |  | 20.5% |
-| 20:01 | USD | New Home Sales (MoM) (Oct) |  |  |  |
-| 20:02 | USD | New Home Sales (MoM) (Nov) |  |  |  |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -75.5K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 58.4K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 223.9K |
