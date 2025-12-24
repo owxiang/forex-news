@@ -10,10 +10,9 @@
 | 12:00 | USD | Low | Mortgage Refinance Index | 1,084.3 |  | 1,148.3 |
 | 12:00 | MXN | Low | Unemployment Rate (Nov) | 2.70% | 2.70% | 2.60% |
 | 12:00 | MXN | Low | Unemployment Rate n.s.a. (Nov) | 2.70% |  | 2.60% |
-| 15 min | USD | Moderate | Continuing Jobless Claims |  |  | 1,897K |
-| 15 min | USD | High | Initial Jobless Claims |  | 224K | 224K |
-| 15 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 217.50K |
-| 15 min | INR | Low | M3 Money Supply |  |  | 9.9% |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,923K |  | 1,885K |
+| 13:30 | USD | High | Initial Jobless Claims | 214K | 224K | 224K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 216.75K |  | 217.50K |
 | 15:30 | USD | Moderate | 7-Year Note Auction |  |  | 3.781% |
 | 16:00 | CAD | Low | Budget Balance (Oct) |  |  | -5.02B |
 | 16:00 | CAD | Low | Budget Balance (YoY) (Oct) |  |  | -16.09B |
