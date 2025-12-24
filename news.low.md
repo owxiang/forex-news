@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | JPY | Coincident Indicator (MoM) (Nov) |  | 0.5% | -1.3% |
-| 05:00 | JPY | Leading Index (MoM) (Nov) |  | 1.8% | 0.9% |
-| 05:00 | JPY | Leading Index (Nov) |  | 110.0 | 108.6 |
+| 42 min | JPY | Coincident Indicator (MoM) (Nov) |  | 0.5% | -1.3% |
+| 42 min | JPY | Leading Index (MoM) (Nov) |  | 1.8% | 0.9% |
+| 42 min | JPY | Leading Index (Nov) |  | 110.0 | 108.6 |
 | 11:30 | INR | M3 Money Supply |  |  | 9.9% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.38% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -3.8% |
