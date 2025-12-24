@@ -13,10 +13,8 @@
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,923K |  | 1,885K |
 | 13:30 | USD | High | Initial Jobless Claims | 214K | 224K | 224K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 216.75K |  | 217.50K |
-| 23 min | USD | Moderate | 7-Year Note Auction |  |  | 3.781% |
-| 53 min | CAD | Low | Budget Balance (Oct) |  |  | -5.02B |
-| 53 min | CAD | Low | Budget Balance (YoY) (Oct) |  |  | -16.09B |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.585% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.580% |
+| 15:30 | USD | Low | 4-Week Bill Auction | 3.570% |  | 3.580% |
+| 15:30 | USD | Low | 8-Week Bill Auction | 3.585% |  | 3.585% |
+| 22 min | USD | Moderate | 7-Year Note Auction |  |  | 3.781% |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | 356.4B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 528.3B |

@@ -11,9 +11,7 @@
 | 12:00 | MXN | Unemployment Rate (Nov) | 2.70% | 2.70% | 2.60% |
 | 12:00 | MXN | Unemployment Rate n.s.a. (Nov) | 2.70% |  | 2.60% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 216.75K |  | 217.50K |
-| 53 min | CAD | Budget Balance (Oct) |  |  | -5.02B |
-| 53 min | CAD | Budget Balance (YoY) (Oct) |  |  | -16.09B |
-| 16:30 | USD | 4-Week Bill Auction |  |  | 3.585% |
-| 16:30 | USD | 8-Week Bill Auction |  |  | 3.580% |
+| 15:30 | USD | 4-Week Bill Auction | 3.570% |  | 3.580% |
+| 15:30 | USD | 8-Week Bill Auction | 3.585% |  | 3.585% |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | 356.4B |
 | 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 528.3B |
