@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 42 min | JPY | Low | Coincident Indicator (MoM) (Nov) |  | 0.5% | -1.3% |
-| 42 min | JPY | Low | Leading Index (MoM) (Nov) |  | 1.8% | 0.9% |
-| 42 min | JPY | Low | Leading Index (Nov) |  | 110.0 | 108.6 |
+| 05:00 | JPY | Low | Leading Index (Nov) | 109.8 | 110.0 | 108.6 |
+| 20 min | JPY | Low | Coincident Indicator (MoM) (Nov) |  | 0.5% | -1.3% |
+| 20 min | JPY | Low | Leading Index (MoM) (Nov) |  | 1.8% | 0.9% |
 | 11:30 | INR | Low | M3 Money Supply |  |  | 9.9% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.38% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -3.8% |
@@ -15,7 +15,7 @@
 | 12:00 | MXN | Low | Unemployment Rate n.s.a. (Nov) |  |  | 2.60% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,897K |
 | 13:30 | USD | Low | Dallas Fed PCE (Oct) |  |  | 1.90% |
-| 13:30 | USD | High | Initial Jobless Claims |  | 223K | 224K |
+| 13:30 | USD | High | Initial Jobless Claims |  | 224K | 224K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 217.50K |
 | 15:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -4.4% |
 | 15:00 | USD | Low | Milk Auctions |  |  | 3,341.0 |
