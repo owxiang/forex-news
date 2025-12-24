@@ -10,8 +10,8 @@
 | 12:00 | USD | Mortgage Refinance Index | 1,084.3 |  | 1,148.3 |
 | 12:00 | MXN | Unemployment Rate (Nov) | 2.70% | 2.70% | 2.60% |
 | 12:00 | MXN | Unemployment Rate n.s.a. (Nov) | 2.70% |  | 2.60% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 217.50K |
-| 13:30 | INR | M3 Money Supply |  |  | 9.9% |
+| 15 min | USD | Jobless Claims 4-Week Avg. |  |  | 217.50K |
+| 15 min | INR | M3 Money Supply |  |  | 9.9% |
 | 16:00 | CAD | Budget Balance (Oct) |  |  | -5.02B |
 | 16:00 | CAD | Budget Balance (YoY) (Oct) |  |  | -16.09B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.585% |
