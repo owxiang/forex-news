@@ -3,8 +3,6 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 05:00 | JPY | Leading Index (Nov) | 109.8 | 110.0 | 108.6 |
-| 19 min | JPY | Coincident Indicator (MoM) (Nov) |  | 0.5% | -1.3% |
-| 19 min | JPY | Leading Index (MoM) (Nov) |  | 1.8% | 0.9% |
 | 11:30 | INR | M3 Money Supply |  |  | 9.9% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.38% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -3.8% |
@@ -15,8 +13,6 @@
 | 12:00 | MXN | Unemployment Rate n.s.a. (Nov) |  |  | 2.60% |
 | 13:30 | USD | Dallas Fed PCE (Oct) |  |  | 1.90% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 217.50K |
-| 15:00 | NZD | GlobalDairyTrade Price Index |  |  | -4.4% |
-| 15:00 | USD | Milk Auctions |  |  | 3,341.0 |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.128M |
 | 15:30 | USD | Crude Oil Imports |  |  | -0.719M |
 | 15:30 | USD | Distillate Fuel Production |  |  | -0.228M |
