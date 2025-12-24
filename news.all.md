@@ -15,6 +15,6 @@
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 216.75K |  | 217.50K |
 | 15:30 | USD | Low | 4-Week Bill Auction | 3.570% |  | 3.580% |
 | 15:30 | USD | Low | 8-Week Bill Auction | 3.585% |  | 3.585% |
-| 22 min | USD | Moderate | 7-Year Note Auction |  |  | 3.781% |
+| 16:30 | USD | Moderate | 7-Year Note Auction | 3.930% |  | 3.781% |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | 356.4B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 528.3B |
