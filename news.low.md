@@ -13,5 +13,5 @@
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 216.75K |  | 217.50K |
 | 15:30 | USD | 4-Week Bill Auction | 3.570% |  | 3.580% |
 | 15:30 | USD | 8-Week Bill Auction | 3.585% |  | 3.585% |
-| 23:50 | JPY | Foreign Bonds Buying |  |  | 356.4B |
-| 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 528.3B |
+| 42 min | JPY | Foreign Bonds Buying |  |  | 356.4B |
+| 42 min | JPY | Foreign Investments in Japanese Stocks |  |  | 528.3B |
