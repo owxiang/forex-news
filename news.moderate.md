@@ -1,6 +1,6 @@
-## 24 December 2025 - Moderate Impact Forex News
+## 25 December 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:30 | USD | Continuing Jobless Claims | 1,923K |  | 1,885K |
-| 16:30 | USD | 7-Year Note Auction | 3.930% |  | 3.781% |
+| 23:30 | JPY | Tokyo Core CPI (YoY) (Dec) |  | 2.5% | 2.8% |
+| 23:50 | JPY | Industrial Production (MoM) (Nov) |  | -1.9% | 1.5% |

@@ -1,17 +1,18 @@
-## 24 December 2025 - Low Impact Forex News
+## 25 December 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | JPY | Leading Index (Nov) | 109.8 | 110.0 | 108.6 |
-| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.31% |  | 6.38% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) | -5.0% |  | -3.8% |
-| 12:00 | USD | MBA Purchase Index | 169.9 |  | 176.5 |
-| 12:00 | USD | Mortgage Market Index | 299.8 |  | 315.6 |
-| 12:00 | USD | Mortgage Refinance Index | 1,084.3 |  | 1,148.3 |
-| 12:00 | MXN | Unemployment Rate (Nov) | 2.70% | 2.70% | 2.60% |
-| 12:00 | MXN | Unemployment Rate n.s.a. (Nov) | 2.70% |  | 2.60% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. | 216.75K |  | 217.50K |
-| 15:30 | USD | 4-Week Bill Auction | 3.570% |  | 3.580% |
-| 15:30 | USD | 8-Week Bill Auction | 3.585% |  | 3.585% |
-| 42 min | JPY | Foreign Bonds Buying |  |  | 356.4B |
-| 42 min | JPY | Foreign Investments in Japanese Stocks |  |  | 528.3B |
+| Tentative | JPY | BOJ Gov Ueda Speaks |  |  |  |
+| 03:30 | JPY | 2-Year JGB Auction |  |  | 0.932% |
+| 05:00 | JPY | Construction Orders (YoY) (Nov) |  |  | -10.1% |
+| 05:00 | JPY | Housing Starts (YoY) (Nov) |  | 0.4% | 3.2% |
+| 23:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Dec) |  |  | 1.6% |
+| 23:30 | JPY | Jobs/applications ratio (Nov) |  | 1.18 | 1.18 |
+| 23:30 | JPY | Tokyo CPI (YoY) (Dec) |  |  | 2.7% |
+| 23:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Dec) |  |  | 0.1% |
+| 23:30 | JPY | Unemployment Rate (Nov) |  | 2.6% | 2.6% |
+| 23:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Dec) |  |  | -1.2% |
+| 23:50 | JPY | Industrial Production forecast 2m ahead (MoM) (Jan) |  |  | -2.0% |
+| 23:50 | JPY | Large Retailers' Sales (MoM) (Nov) |  |  | 1.6% |
+| 23:50 | JPY | Large Scale Retail Sales YoY (YoY) (Nov) |  |  | 5.0% |
+| 23:50 | JPY | Retail Sales (YoY) (Nov) |  | 0.9% | 1.7% |
