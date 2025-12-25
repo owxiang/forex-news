@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | Tentative | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
-| 03:30 | JPY | Low | 2-Year JGB Auction |  |  | 0.932% |
+| 47 min | JPY | Low | 2-Year JGB Auction |  |  | 0.932% |
 | 05:00 | JPY | Low | Construction Orders (YoY) (Nov) |  |  | -10.1% |
 | 05:00 | JPY | Low | Housing Starts (YoY) (Nov) |  | 0.4% | 3.2% |
 | 23:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Dec) |  |  | 1.6% |
