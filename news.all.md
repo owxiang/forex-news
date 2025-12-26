@@ -1,20 +1,13 @@
-## 25 December 2025 - All Forex News
+## 26 December 2025 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 03:35 | JPY | Low | 2-Year JGB Auction | 1.129% |  | 0.993% |
-| 04:20 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
-| 05:00 | JPY | Low | Construction Orders (YoY) (Nov) | 9.5% |  | -10.1% |
-| 05:00 | JPY | Low | Housing Starts (YoY) (Nov) | -8.5% | 0.2% | 3.2% |
-| 23 min | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Dec) |  |  | 1.6% |
-| 23 min | JPY | Low | Jobs/applications ratio (Nov) |  | 1.18 | 1.18 |
-| 23 min | JPY | Moderate | Tokyo Core CPI (YoY) (Dec) |  | 2.5% | 2.8% |
-| 23 min | JPY | Low | Tokyo CPI (YoY) (Dec) |  |  | 2.7% |
-| 23 min | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Dec) |  |  | 0.1% |
-| 23 min | JPY | Low | Unemployment Rate (Nov) |  | 2.6% | 2.6% |
-| 43 min | JPY | Moderate | Industrial Production (MoM) (Nov) |  | -1.9% | 1.5% |
-| 43 min | JPY | Low | Industrial Production forecast 1m ahead (MoM) (Dec) |  |  | -1.2% |
-| 43 min | JPY | Low | Industrial Production forecast 2m ahead (MoM) (Jan) |  |  | -2.0% |
-| 43 min | JPY | Low | Large Retailers' Sales (MoM) (Nov) |  |  | 1.6% |
-| 43 min | JPY | Low | Large Scale Retail Sales YoY (YoY) (Nov) |  |  | 5.0% |
-| 43 min | JPY | Low | Retail Sales (YoY) (Nov) |  | 0.9% | 1.7% |
+| 05:00 | SGD | Low | Industrial Production (YoY) (Nov) |  | 14.2% | 29.1% |
+| 05:00 | SGD | Low | Industrial Production (MoM) (Nov) |  |  | 11.5% |
+| 11:30 | INR | Low | Bank Loan Growth |  |  | 11.5% |
+| 11:30 | INR | Low | Deposit Growth |  |  | 10.2% |
+| 11:30 | INR | Low | FX Reserves, USD |  |  | 688.95B |
+| 11:30 | BRL | Low | Bank lending (MoM) (Nov) |  |  | 0.9% |
+| 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -1.601B |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 406 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 542 |
