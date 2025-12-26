@@ -6,4 +6,4 @@
 | 05:00 | SGD | Industrial Production (MoM) (Nov) | -10.2% |  | 11.2% |
 | 11:30 | INR | FX Reserves, USD | 693.32B |  | 688.95B |
 | 11:30 | BRL | Bank lending (MoM) (Nov) | 0.9% |  | 0.9% |
-| 24 min | BRL | Foreign Exchange Flows |  |  | -1.601B |
+| 17:30 | BRL | Foreign Exchange Flows | -6.472B |  | -1.601B |
