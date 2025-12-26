@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 42 min | SGD | Low | Industrial Production (YoY) (Nov) |  | 14.2% | 29.1% |
-| 42 min | SGD | Low | Industrial Production (MoM) (Nov) |  |  | 11.5% |
+| 05:00 | SGD | Low | Industrial Production (YoY) (Nov) | 14.3% | 14.2% | 28.9% |
+| 05:00 | SGD | Low | Industrial Production (MoM) (Nov) | -10.2% |  | 11.2% |
 | 11:30 | INR | Low | Bank Loan Growth |  |  | 11.5% |
 | 11:30 | INR | Low | Deposit Growth |  |  | 10.2% |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 688.95B |
