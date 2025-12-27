@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 58 min | CNY | Chinese Industrial profit YTD (Nov) |  |  | 1.9% |
+| 01:30 | CNY | Chinese Industrial profit YTD (Nov) | 0.1% |  | 1.9% |
