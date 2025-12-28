@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 23:50 | JPY | Low | BoJ Summary of Opinions |  |  |  |
+| 43 min | JPY | Low | BoJ Summary of Opinions |  |  |  |
