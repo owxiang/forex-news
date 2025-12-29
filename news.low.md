@@ -6,10 +6,10 @@
 | 08:30 | HKD | Exports (MoM) (Nov) | 18.8% |  | 17.5% |
 | 08:30 | HKD | Imports (MoM) (Nov) | 18.1% |  | 18.3% |
 | 08:30 | HKD | Trade Balance (Nov) | -48.5B |  | -39.9B |
-| 10:30 | INR | Cumulative Industrial Production (Nov) |  |  | 2.70% |
-| 10:30 | INR | Industrial Production (YoY) (Nov) |  |  | 0.4% |
-| 10:30 | INR | Manufacturing Output (MoM) (Nov) |  |  | 1.8% |
-| 11:00 | BRL | IGP-M Inflation Index (MoM) (Dec) |  | 0.15% | 0.27% |
+| 22 min | INR | Cumulative Industrial Production (Nov) |  |  | 2.70% |
+| 22 min | INR | Industrial Production (YoY) (Nov) |  | 2.5% | 0.4% |
+| 22 min | INR | Manufacturing Output (MoM) (Nov) |  |  | 1.8% |
+| 52 min | BRL | IGP-M Inflation Index (MoM) (Dec) |  | 0.15% | 0.27% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 11:30 | EUR | Reserve Assets Total (Nov) |  |  | 1,709.78B |
 | 15:00 | USD | Pending Home Sales Index (Nov) |  |  | 76.3 |
@@ -25,7 +25,6 @@
 | 16:30 | USD | 3-Month Bill Auction |  |  | 3.560% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 3.485% |
 | 17:00 | USD | Natural Gas Storage |  | -169B | -167B |
-| 17:30 | BRL | CAGED Net Payroll Jobs (Nov) |  | 72.80K | 85.15K |
 | 23:00 | KRW | Industrial Production (YoY) (Nov) |  | 1.5% | -8.1% |
 | 23:00 | KRW | Industrial Production (MoM) (Nov) |  | 2.3% | -4.0% |
 | 23:00 | KRW | Retail Sales (MoM) (Nov) |  |  | 3.5% |
