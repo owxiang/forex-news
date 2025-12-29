@@ -18,7 +18,7 @@
 | 16:30 | USD | Low | 3-Month Bill Auction | 3.570% |  | 3.560% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 3.500% |  | 3.485% |
 | 17:00 | USD | Low | Natural Gas Storage | -166B | -169B | -167B |
-| 53 min | KRW | Low | Industrial Production (YoY) (Nov) |  | 1.5% | -8.1% |
-| 53 min | KRW | Low | Industrial Production (MoM) (Nov) |  | 2.3% | -4.0% |
-| 53 min | KRW | Low | Retail Sales (MoM) (Nov) |  |  | 3.5% |
-| 53 min | KRW | Low | Service Sector Output (MoM) (Nov) |  |  | -0.6% |
+| 23:00 | KRW | Low | Industrial Production (YoY) (Nov) | -1.4% | 3.0% | -8.2% |
+| 23:00 | KRW | Low | Industrial Production (MoM) (Nov) | 0.6% | 2.2% | -4.2% |
+| 23:00 | KRW | Low | Retail Sales (MoM) (Nov) | -3.3% |  | 3.6% |
+| 23:00 | KRW | Low | Service Sector Output (MoM) (Nov) | 0.7% |  | -0.7% |
