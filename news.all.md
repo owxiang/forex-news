@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 47 min | NOK | Low | Core Retail Sales (MoM) (Nov) |  |  | 0.1% |
+| 07:00 | NOK | Low | Core Retail Sales (MoM) (Nov) | 1.3% |  | 0.1% |
 | 08:30 | HKD | Low | Exports (MoM) (Nov) |  |  | 17.5% |
 | 08:30 | HKD | Low | Imports (MoM) (Nov) |  |  | 18.3% |
 | 08:30 | HKD | Low | Trade Balance (Nov) |  |  | -39.9B |
