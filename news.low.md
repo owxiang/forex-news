@@ -6,12 +6,12 @@
 | 08:30 | HKD | Exports (MoM) (Nov) | 18.8% |  | 17.5% |
 | 08:30 | HKD | Imports (MoM) (Nov) | 18.1% |  | 18.3% |
 | 08:30 | HKD | Trade Balance (Nov) | -48.5B |  | -39.9B |
-| 22 min | INR | Cumulative Industrial Production (Nov) |  |  | 2.70% |
-| 22 min | INR | Industrial Production (YoY) (Nov) |  | 2.5% | 0.4% |
-| 22 min | INR | Manufacturing Output (MoM) (Nov) |  |  | 1.8% |
-| 52 min | BRL | IGP-M Inflation Index (MoM) (Dec) |  | 0.15% | 0.27% |
-| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 11:30 | EUR | Reserve Assets Total (Nov) |  |  | 1,709.78B |
+| 10:30 | INR | Cumulative Industrial Production (Nov) | 3.30% |  | 2.70% |
+| 10:30 | INR | Industrial Production (YoY) (Nov) | 6.7% | 2.5% | 0.5% |
+| 10:30 | INR | Manufacturing Output (MoM) (Nov) | 8.0% |  | 2.0% |
+| 11:00 | BRL | IGP-M Inflation Index (MoM) (Dec) | -0.01% | 0.15% | 0.27% |
+| 18 min | BRL | BCB Focus Market Readout |  |  |  |
+| 23 min | EUR | Reserve Assets Total (Nov) |  |  | 1,709.78B |
 | 15:00 | USD | Pending Home Sales Index (Nov) |  |  | 76.3 |
 | 15:30 | USD | Dallas Fed Mfg Business Index (Dec) |  |  | -10.4 |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.128M |
