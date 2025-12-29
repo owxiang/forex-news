@@ -12,8 +12,8 @@
 | 11:00 | EUR | Moderate | France Jobseekers Total (Nov) | 3,129.3K |  | 3,150.8K |
 | 11:00 | BRL | Low | IGP-M Inflation Index (MoM) (Dec) | -0.01% | 0.15% | 0.27% |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 15:00 | USD | Moderate | Pending Home Sales (MoM) (Nov) |  | 1.0% | 1.9% |
-| 15:00 | USD | Low | Pending Home Sales Index (Nov) |  |  | 76.3 |
+| 53 min | USD | Moderate | Pending Home Sales (MoM) (Nov) |  | 1.0% | 1.9% |
+| 53 min | USD | Low | Pending Home Sales Index (Nov) |  |  | 76.3 |
 | 15:30 | USD | Low | Dallas Fed Mfg Business Index (Dec) |  |  | -10.4 |
 | 15:30 | USD | High | Crude Oil Inventories |  | -2.000M | -1.274M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.128M |
