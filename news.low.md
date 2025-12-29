@@ -10,8 +10,7 @@
 | 10:30 | INR | Industrial Production (YoY) (Nov) | 6.7% | 2.5% | 0.5% |
 | 10:30 | INR | Manufacturing Output (MoM) (Nov) | 8.0% |  | 2.0% |
 | 11:00 | BRL | IGP-M Inflation Index (MoM) (Dec) | -0.01% | 0.15% | 0.27% |
-| 18 min | BRL | BCB Focus Market Readout |  |  |  |
-| 23 min | EUR | Reserve Assets Total (Nov) |  |  | 1,709.78B |
+| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 15:00 | USD | Pending Home Sales Index (Nov) |  |  | 76.3 |
 | 15:30 | USD | Dallas Fed Mfg Business Index (Dec) |  |  | -10.4 |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.128M |
