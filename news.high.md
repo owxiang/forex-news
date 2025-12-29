@@ -1,3 +1,5 @@
-## 28 December 2025 - High Impact Forex News
+## 29 December 2025 - High Impact Forex News
 
-There is no high impact news today.
+| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 15:30 | USD | Crude Oil Inventories |  | -2.000M | -1.274M |
