@@ -15,19 +15,19 @@
 | 15:00 | USD | Moderate | Pending Home Sales (MoM) (Nov) | 3.3% | 1.0% | 2.4% |
 | 15:00 | USD | Low | Pending Home Sales Index (Nov) | 79.2 |  | 76.7 |
 | 15:30 | USD | Low | Dallas Fed Mfg Business Index (Dec) | -10.9 |  | -10.4 |
-| 21 min | USD | Low | 3-Month Bill Auction |  |  | 3.560% |
-| 21 min | USD | Low | 6-Month Bill Auction |  |  | 3.485% |
-| 21 min | USD | High | Crude Oil Inventories |  | -2.000M | -1.274M |
-| 21 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.128M |
-| 21 min | USD | Low | Crude Oil Imports |  |  | -0.719M |
-| 21 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.742M |
-| 21 min | USD | Low | Distillate Fuel Production |  |  | -0.228M |
-| 21 min | USD | Low | EIA Weekly Distillates Stocks |  | 0.500M | 1.712M |
-| 21 min | USD | Low | Gasoline Production |  |  | 0.033M |
-| 21 min | USD | Low | Heating Oil Stockpiles |  |  | 0.267M |
-| 21 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.3% |
-| 21 min | USD | Low | Gasoline Inventories |  | 1.100M | 4.808M |
-| 51 min | USD | Low | Natural Gas Storage |  | -169B | -167B |
+| 16:30 | USD | Low | 3-Month Bill Auction | 3.570% |  | 3.560% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 3.500% |  | 3.485% |
+| 17:00 | USD | Low | Natural Gas Storage | -166B | -169B | -167B |
+| 23 min | USD | High | Crude Oil Inventories |  | -2.000M | -1.274M |
+| 23 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.128M |
+| 23 min | USD | Low | Crude Oil Imports |  |  | -0.719M |
+| 23 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.742M |
+| 23 min | USD | Low | Distillate Fuel Production |  |  | -0.228M |
+| 23 min | USD | Low | EIA Weekly Distillates Stocks |  | 0.500M | 1.712M |
+| 23 min | USD | Low | Gasoline Production |  |  | 0.033M |
+| 23 min | USD | Low | Heating Oil Stockpiles |  |  | 0.267M |
+| 23 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.3% |
+| 23 min | USD | Low | Gasoline Inventories |  | 1.100M | 4.808M |
 | 23:00 | KRW | Low | Industrial Production (YoY) (Nov) |  | 1.5% | -8.1% |
 | 23:00 | KRW | Low | Industrial Production (MoM) (Nov) |  | 2.3% | -4.0% |
 | 23:00 | KRW | Low | Retail Sales (MoM) (Nov) |  |  | 3.5% |
