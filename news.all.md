@@ -18,16 +18,6 @@
 | 16:30 | USD | Low | 3-Month Bill Auction | 3.570% |  | 3.560% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 3.500% |  | 3.485% |
 | 17:00 | USD | Low | Natural Gas Storage | -166B | -169B | -167B |
-| 23 min | USD | High | Crude Oil Inventories |  | -2.000M | -1.274M |
-| 23 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.128M |
-| 23 min | USD | Low | Crude Oil Imports |  |  | -0.719M |
-| 23 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.742M |
-| 23 min | USD | Low | Distillate Fuel Production |  |  | -0.228M |
-| 23 min | USD | Low | EIA Weekly Distillates Stocks |  | 0.500M | 1.712M |
-| 23 min | USD | Low | Gasoline Production |  |  | 0.033M |
-| 23 min | USD | Low | Heating Oil Stockpiles |  |  | 0.267M |
-| 23 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.3% |
-| 23 min | USD | Low | Gasoline Inventories |  | 1.100M | 4.808M |
 | 23:00 | KRW | Low | Industrial Production (YoY) (Nov) |  | 1.5% | -8.1% |
 | 23:00 | KRW | Low | Industrial Production (MoM) (Nov) |  | 2.3% | -4.0% |
 | 23:00 | KRW | Low | Retail Sales (MoM) (Nov) |  |  | 3.5% |
