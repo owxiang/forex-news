@@ -3,9 +3,10 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Nov) | 1.3% |  | 0.1% |
-| 08:30 | HKD | Low | Exports (MoM) (Nov) |  |  | 17.5% |
-| 08:30 | HKD | Low | Imports (MoM) (Nov) |  |  | 18.3% |
-| 08:30 | HKD | Low | Trade Balance (Nov) |  |  | -39.9B |
+| 08:00 | CHF | Low | Official Reserves Assets (Nov) |  |  | 844.8B |
+| 19 min | HKD | Low | Exports (MoM) (Nov) |  |  | 17.5% |
+| 19 min | HKD | Low | Imports (MoM) (Nov) |  |  | 18.3% |
+| 19 min | HKD | Low | Trade Balance (Nov) |  |  | -39.9B |
 | 10:30 | INR | Low | Cumulative Industrial Production (Nov) |  |  | 2.70% |
 | 10:30 | INR | Low | Industrial Production (YoY) (Nov) |  |  | 0.4% |
 | 10:30 | INR | Low | Manufacturing Output (MoM) (Nov) |  |  | 1.8% |
