@@ -11,16 +11,16 @@
 | 10:30 | INR | Manufacturing Output (MoM) (Nov) | 8.0% |  | 2.0% |
 | 11:00 | BRL | IGP-M Inflation Index (MoM) (Dec) | -0.01% | 0.15% | 0.27% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 53 min | USD | Pending Home Sales Index (Nov) |  |  | 76.3 |
-| 15:30 | USD | Dallas Fed Mfg Business Index (Dec) |  |  | -10.4 |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.128M |
-| 15:30 | USD | Crude Oil Imports |  |  | -0.719M |
-| 15:30 | USD | Distillate Fuel Production |  |  | -0.228M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  | 0.500M | 1.712M |
-| 15:30 | USD | Gasoline Production |  |  | 0.033M |
-| 15:30 | USD | Heating Oil Stockpiles |  |  | 0.267M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.3% |
-| 15:30 | USD | Gasoline Inventories |  | 1.100M | 4.808M |
+| 15:00 | USD | Pending Home Sales Index (Nov) | 79.2 |  | 76.7 |
+| 22 min | USD | Dallas Fed Mfg Business Index (Dec) |  |  | -10.4 |
+| 22 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.128M |
+| 22 min | USD | Crude Oil Imports |  |  | -0.719M |
+| 22 min | USD | Distillate Fuel Production |  |  | -0.228M |
+| 22 min | USD | EIA Weekly Distillates Stocks |  | 0.500M | 1.712M |
+| 22 min | USD | Gasoline Production |  |  | 0.033M |
+| 22 min | USD | Heating Oil Stockpiles |  |  | 0.267M |
+| 22 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.3% |
+| 22 min | USD | Gasoline Inventories |  | 1.100M | 4.808M |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 3.560% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 3.485% |
 | 17:00 | USD | Natural Gas Storage |  | -169B | -167B |

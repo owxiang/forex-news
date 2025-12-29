@@ -12,19 +12,19 @@
 | 11:00 | EUR | Moderate | France Jobseekers Total (Nov) | 3,129.3K |  | 3,150.8K |
 | 11:00 | BRL | Low | IGP-M Inflation Index (MoM) (Dec) | -0.01% | 0.15% | 0.27% |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 53 min | USD | Moderate | Pending Home Sales (MoM) (Nov) |  | 1.0% | 1.9% |
-| 53 min | USD | Low | Pending Home Sales Index (Nov) |  |  | 76.3 |
-| 15:30 | USD | Low | Dallas Fed Mfg Business Index (Dec) |  |  | -10.4 |
-| 15:30 | USD | High | Crude Oil Inventories |  | -2.000M | -1.274M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.128M |
-| 15:30 | USD | Low | Crude Oil Imports |  |  | -0.719M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.742M |
-| 15:30 | USD | Low | Distillate Fuel Production |  |  | -0.228M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | 0.500M | 1.712M |
-| 15:30 | USD | Low | Gasoline Production |  |  | 0.033M |
-| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.267M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.3% |
-| 15:30 | USD | Low | Gasoline Inventories |  | 1.100M | 4.808M |
+| 15:00 | USD | Moderate | Pending Home Sales (MoM) (Nov) | 3.3% | 1.0% | 2.4% |
+| 15:00 | USD | Low | Pending Home Sales Index (Nov) | 79.2 |  | 76.7 |
+| 22 min | USD | Low | Dallas Fed Mfg Business Index (Dec) |  |  | -10.4 |
+| 22 min | USD | High | Crude Oil Inventories |  | -2.000M | -1.274M |
+| 22 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.128M |
+| 22 min | USD | Low | Crude Oil Imports |  |  | -0.719M |
+| 22 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.742M |
+| 22 min | USD | Low | Distillate Fuel Production |  |  | -0.228M |
+| 22 min | USD | Low | EIA Weekly Distillates Stocks |  | 0.500M | 1.712M |
+| 22 min | USD | Low | Gasoline Production |  |  | 0.033M |
+| 22 min | USD | Low | Heating Oil Stockpiles |  |  | 0.267M |
+| 22 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.3% |
+| 22 min | USD | Low | Gasoline Inventories |  | 1.100M | 4.808M |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.560% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.485% |
 | 17:00 | USD | Low | Natural Gas Storage |  | -169B | -167B |
