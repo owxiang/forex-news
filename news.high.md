@@ -2,5 +2,5 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 37 min | USD | Chicago PMI (Dec) |  | 39.8 | 36.3 |
+| 14:45 | USD | Chicago PMI (Dec) | 43.5 | 39.8 | 36.3 |
 | 19:00 | USD | FOMC Meeting Minutes |  |  |  |
