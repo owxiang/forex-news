@@ -2,13 +2,13 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 08:00 | CHF | Moderate | KOF Leading Indicators (Dec) |  | 101.5 | 101.7 |
-| 08:00 | EUR | Low | Core CPI (YoY) (Dec) |  |  | 2.6% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Dec) |  |  | 0.2% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Dec) |  | 2.8% | 3.0% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Dec) |  |  | 0.0% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Dec) |  | 3.0% | 3.2% |
-| 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Nov) |  |  | 3.8% |
+| 50 min | CHF | Moderate | KOF Leading Indicators (Dec) |  | 101.5 | 101.7 |
+| 50 min | EUR | Low | Core CPI (YoY) (Dec) |  |  | 2.6% |
+| 50 min | EUR | Low | Spanish CPI (MoM) (Dec) |  |  | 0.2% |
+| 50 min | EUR | Moderate | Spanish CPI (YoY) (Dec) |  | 2.8% | 3.0% |
+| 50 min | EUR | Low | Spanish HICP (MoM) (Dec) |  |  | 0.0% |
+| 50 min | EUR | Moderate | Spanish HICP (YoY) (Dec) |  | 3.0% | 3.2% |
+| 50 min | EUR | Low | Spanish Retail Sales (YoY) (Nov) |  |  | 3.8% |
 | 09:00 | EUR | Low | Spanish Current account (Oct) |  |  | 1.87B |
 | 09:00 | NOK | Low | Central Bank Currency Purchase (Jan) |  |  | 150.0M |
 | 11:00 | EUR | Low | Reserve Assets Total (Nov) |  |  | 1,709.78B |
