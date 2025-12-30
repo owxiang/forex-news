@@ -11,4 +11,4 @@
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Oct) | -0.3% |  | -0.5% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 412 |  | 409 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count | 546 |  | 545 |
-| 23 min | USD | API Weekly Crude Oil Stock |  |  | 2.400M |
+| 21:30 | USD | API Weekly Crude Oil Stock |  |  | 2.400M |
