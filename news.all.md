@@ -12,21 +12,21 @@
 | 09:00 | EUR | Low | Spanish Current account (Oct) | 7.18B |  | 1.87B |
 | 09:00 | NOK | Low | Central Bank Currency Purchase (Jan) | -650.0M |  | 150.0M |
 | 11:17 | ZAR | Low | Budget Balance (MoM) (Nov) | -14.99B |  | -35.83B |
-| 11:30 | INR | Low | Foreign Debt (USD) (Q3) | 746.0B |  | 747.2B |
-| 11:30 | INR | Low | M3 Money Supply | 9.3% |  | 9.9% |
 | 11:30 | BRL | Low | Net Debt-to-GDP ratio (Nov) | 65.2% |  | 65.0% |
 | 11:30 | BRL | Low | Budget Balance (Nov) | -101.600B | -86.400B | -81.522B |
 | 11:30 | BRL | Low | Budget Surplus (Nov) | -14.400B |  | 32.392B |
 | 11:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Nov) | 79.0% | 79.0% | 78.6% |
+| 12:00 | INR | Low | Foreign Debt (USD) (Q3) | 746.0B |  | 747.2B |
+| 12:00 | INR | Low | M3 Money Supply | 9.3% |  | 10.2% |
 | 12:00 | BRL | Moderate | Unemployment Rate (Nov) | 5.2% | 5.4% | 5.4% |
-| 37 min | USD | Low | Redbook (YoY) |  |  | 7.2% |
-| 42 min | USD | Low | House Price Index (MoM) (Oct) |  | 0.1% | 0.0% |
-| 42 min | USD | Low | House Price Index (YoY) (Oct) |  |  | 1.7% |
-| 42 min | USD | Low | House Price Index (Oct) |  |  | 435.4 |
-| 42 min | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Oct) |  |  | 0.1% |
-| 42 min | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Oct) |  | 1.1% | 1.4% |
-| 42 min | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Oct) |  |  | -0.5% |
-| 14:45 | USD | High | Chicago PMI (Dec) |  | 39.8 | 36.3 |
+| 13:55 | USD | Low | Redbook (YoY) | 7.6% |  | 7.2% |
+| 14:00 | USD | Low | House Price Index (MoM) (Oct) | 0.4% | 0.1% | -0.1% |
+| 14:00 | USD | Low | House Price Index (YoY) (Oct) | 1.7% |  | 1.8% |
+| 14:00 | USD | Low | House Price Index (Oct) | 436.7 |  | 435.2 |
+| 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Oct) | 0.3% |  | 0.2% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Oct) | 1.3% | 1.1% | 1.4% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Oct) | -0.3% |  | -0.5% |
+| 37 min | USD | High | Chicago PMI (Dec) |  | 39.8 | 36.3 |
 | 15:30 | USD | Low | Dallas Fed Services Revenues (Dec) |  |  | -2.5 |
 | 15:30 | USD | Low | Texas Services Sector Outlook (Dec) |  |  | -2.3 |
 | 17:00 | BRL | Low | CAGED Net Payroll Jobs (Nov) |  | 75.00K | 85.15K |
