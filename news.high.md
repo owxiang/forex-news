@@ -2,6 +2,5 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 14:45 | USD | Chicago PMI (Dec) |  | 39.6 | 36.3 |
-| 16:30 | USD | Crude Oil Inventories |  | -2.000M | -1.274M |
+| 14:45 | USD | Chicago PMI (Dec) |  | 39.8 | 36.3 |
 | 19:00 | USD | FOMC Meeting Minutes |  |  |  |
