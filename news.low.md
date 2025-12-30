@@ -8,10 +8,9 @@
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Nov) | 6.0% |  | 3.9% |
 | 09:00 | EUR | Spanish Current account (Oct) | 7.18B |  | 1.87B |
 | 09:00 | NOK | Central Bank Currency Purchase (Jan) | -650.0M |  | 150.0M |
-| 52 min | EUR | Reserve Assets Total (Nov) |  |  | 1,709.78B |
-| 11:30 | BRL | Net Debt-to-GDP ratio (Nov) |  |  | 65.0% |
-| 11:30 | BRL | Budget Balance (Nov) |  | -86.400B | -81.522B |
-| 11:30 | BRL | Budget Surplus (Nov) |  |  | 32.392B |
+| 23 min | BRL | Net Debt-to-GDP ratio (Nov) |  |  | 65.0% |
+| 23 min | BRL | Budget Balance (Nov) |  | -86.400B | -81.522B |
+| 23 min | BRL | Budget Surplus (Nov) |  |  | 32.392B |
 | 13:30 | INR | M3 Money Supply |  |  | 9.9% |
 | 13:55 | USD | Redbook (YoY) |  |  | 7.2% |
 | 14:00 | USD | House Price Index (MoM) (Oct) |  | 0.1% | 0.0% |
