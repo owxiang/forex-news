@@ -22,6 +22,6 @@
 | 15:30 | USD | Dallas Fed Services Revenues (Dec) | 0.1 |  | -2.5 |
 | 15:30 | USD | Texas Services Sector Outlook (Dec) | -3.3 |  | -2.3 |
 | 17:00 | BRL | CAGED Net Payroll Jobs (Nov) | 85.86K | 75.00K | 85.15K |
-| 50 min | MXN | Fiscal Balance (Nov) |  |  | -16.75B |
+| 19:00 | MXN | Fiscal Balance (Nov) |  |  | -16.75B |
 | 23:00 | KRW | CPI (YoY) (Dec) |  | 2.3% | 2.4% |
 | 23:00 | KRW | CPI (MoM) (Dec) |  | 0.2% | -0.2% |

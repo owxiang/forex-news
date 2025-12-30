@@ -9,6 +9,6 @@
 | 12:00 | BRL | Unemployment Rate (Nov) | 5.2% | 5.4% | 5.4% |
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Oct) | 1.3% | 1.1% | 1.4% |
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Oct) | -0.3% |  | -0.5% |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 409 |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 412 |  | 409 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count | 546 |  | 545 |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | 2.400M |

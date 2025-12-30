@@ -30,10 +30,10 @@
 | 15:30 | USD | Low | Dallas Fed Services Revenues (Dec) | 0.1 |  | -2.5 |
 | 15:30 | USD | Low | Texas Services Sector Outlook (Dec) | -3.3 |  | -2.3 |
 | 17:00 | BRL | Low | CAGED Net Payroll Jobs (Nov) | 85.86K | 75.00K | 85.15K |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 409 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 412 |  | 409 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 546 |  | 545 |
-| 50 min | USD | High | FOMC Meeting Minutes |  |  |  |
-| 50 min | MXN | Low | Fiscal Balance (Nov) |  |  | -16.75B |
+| 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
+| 19:00 | MXN | Low | Fiscal Balance (Nov) |  |  | -16.75B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 2.400M |
 | 23:00 | KRW | Low | CPI (YoY) (Dec) |  | 2.3% | 2.4% |
 | 23:00 | KRW | Low | CPI (MoM) (Dec) |  | 0.2% | -0.2% |
