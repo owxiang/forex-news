@@ -27,9 +27,9 @@
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Oct) | 1.3% | 1.1% | 1.4% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Oct) | -0.3% |  | -0.5% |
 | 14:45 | USD | High | Chicago PMI (Dec) | 43.5 | 39.8 | 36.3 |
-| 22 min | USD | Low | Dallas Fed Services Revenues (Dec) |  |  | -2.5 |
-| 22 min | USD | Low | Texas Services Sector Outlook (Dec) |  |  | -2.3 |
-| 17:00 | BRL | Low | CAGED Net Payroll Jobs (Nov) |  | 75.00K | 85.15K |
+| 15:30 | USD | Low | Dallas Fed Services Revenues (Dec) | 0.1 |  | -2.5 |
+| 15:30 | USD | Low | Texas Services Sector Outlook (Dec) | -3.3 |  | -2.3 |
+| 52 min | BRL | Low | CAGED Net Payroll Jobs (Nov) |  | 75.00K | 85.15K |
 | 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
 | 19:00 | MXN | Low | Fiscal Balance (Nov) |  |  | -16.75B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 2.400M |
