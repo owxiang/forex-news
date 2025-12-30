@@ -15,13 +15,13 @@
 | 12:00 | INR | Foreign Debt (USD) (Q3) | 746.0B |  | 747.2B |
 | 12:00 | INR | M3 Money Supply | 9.3% |  | 10.2% |
 | 13:55 | USD | Redbook (YoY) | 7.6% |  | 7.2% |
-| 14:00 | USD | House Price Index (MoM) (Oct) | 0.4% | 0.1% | -0.1% |
 | 14:00 | USD | House Price Index (YoY) (Oct) | 1.7% |  | 1.8% |
+| 14:00 | USD | House Price Index (MoM) (Oct) | 0.4% | 0.1% | -0.1% |
 | 14:00 | USD | House Price Index (Oct) | 436.7 |  | 435.2 |
 | 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Oct) | 0.3% |  | 0.2% |
 | 15:30 | USD | Dallas Fed Services Revenues (Dec) | 0.1 |  | -2.5 |
 | 15:30 | USD | Texas Services Sector Outlook (Dec) | -3.3 |  | -2.3 |
-| 52 min | BRL | CAGED Net Payroll Jobs (Nov) |  | 75.00K | 85.15K |
+| 22 min | BRL | CAGED Net Payroll Jobs (Nov) |  | 75.00K | 85.15K |
 | 19:00 | MXN | Fiscal Balance (Nov) |  |  | -16.75B |
 | 23:00 | KRW | CPI (YoY) (Dec) |  | 2.3% | 2.4% |
 | 23:00 | KRW | CPI (MoM) (Dec) |  | 0.2% | -0.2% |
