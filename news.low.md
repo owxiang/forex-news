@@ -6,8 +6,8 @@
 | 08:00 | EUR | Spanish CPI (MoM) (Dec) | 0.3% |  | 0.2% |
 | 08:00 | EUR | Spanish HICP (MoM) (Dec) | 0.3% |  | 0.0% |
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Nov) | 6.0% |  | 3.9% |
-| 50 min | EUR | Spanish Current account (Oct) |  |  | 1.87B |
-| 50 min | NOK | Central Bank Currency Purchase (Jan) |  |  | 150.0M |
+| 09:00 | EUR | Spanish Current account (Oct) | 7.18B |  | 1.87B |
+| 09:00 | NOK | Central Bank Currency Purchase (Jan) | -650.0M |  | 150.0M |
 | 11:00 | EUR | Reserve Assets Total (Nov) |  |  | 1,709.78B |
 | 11:30 | BRL | Net Debt-to-GDP ratio (Nov) |  |  | 65.0% |
 | 11:30 | BRL | Budget Balance (Nov) |  | -86.400B | -81.522B |
