@@ -11,7 +11,7 @@
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Nov) | 6.0% |  | 3.9% |
 | 09:00 | EUR | Low | Spanish Current account (Oct) | 7.18B |  | 1.87B |
 | 09:00 | NOK | Low | Central Bank Currency Purchase (Jan) | -650.0M |  | 150.0M |
-| 11:00 | EUR | Low | Reserve Assets Total (Nov) |  |  | 1,709.78B |
+| 52 min | EUR | Low | Reserve Assets Total (Nov) |  |  | 1,709.78B |
 | 11:30 | BRL | Low | Net Debt-to-GDP ratio (Nov) |  |  | 65.0% |
 | 11:30 | BRL | Low | Budget Balance (Nov) |  | -86.400B | -81.522B |
 | 11:30 | BRL | Low | Budget Surplus (Nov) |  |  | 32.392B |
