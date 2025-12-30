@@ -11,12 +11,14 @@
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Nov) | 6.0% |  | 3.9% |
 | 09:00 | EUR | Low | Spanish Current account (Oct) | 7.18B |  | 1.87B |
 | 09:00 | NOK | Low | Central Bank Currency Purchase (Jan) | -650.0M |  | 150.0M |
-| 23 min | BRL | Low | Net Debt-to-GDP ratio (Nov) |  |  | 65.0% |
-| 23 min | BRL | Low | Budget Balance (Nov) |  | -86.400B | -81.522B |
-| 23 min | BRL | Low | Budget Surplus (Nov) |  |  | 32.392B |
-| 23 min | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Nov) |  | 79.0% | 78.6% |
-| 53 min | BRL | Moderate | Unemployment Rate (Nov) |  | 5.4% | 5.4% |
-| 13:30 | INR | Low | M3 Money Supply |  |  | 9.9% |
+| 11:17 | ZAR | Low | Budget Balance (MoM) (Nov) | -14.99B |  | -35.83B |
+| 11:30 | INR | Low | Foreign Debt (USD) (Q3) | 746.0B |  | 747.2B |
+| 11:30 | INR | Low | M3 Money Supply | 9.3% |  | 9.9% |
+| 11:30 | BRL | Low | Net Debt-to-GDP ratio (Nov) | 65.2% |  | 65.0% |
+| 11:30 | BRL | Low | Budget Balance (Nov) | -101.600B | -86.400B | -81.522B |
+| 11:30 | BRL | Low | Budget Surplus (Nov) | -14.400B |  | 32.392B |
+| 11:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Nov) | 79.0% | 79.0% | 78.6% |
+| 12:00 | BRL | Moderate | Unemployment Rate (Nov) | 5.2% | 5.4% | 5.4% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 7.2% |
 | 14:00 | USD | Low | House Price Index (MoM) (Oct) |  | 0.1% | 0.0% |
 | 14:00 | USD | Low | House Price Index (YoY) (Oct) |  |  | 1.7% |
@@ -25,7 +27,6 @@
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Oct) |  | 1.1% | 1.4% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Oct) |  |  | -0.5% |
 | 14:45 | USD | High | Chicago PMI (Dec) |  | 39.8 | 36.3 |
-| 15:27 | ZAR | Low | Budget Balance (MoM) (Nov) |  |  | -35.83B |
 | 15:30 | USD | Low | Dallas Fed Services Revenues (Dec) |  |  | -2.5 |
 | 15:30 | USD | Low | Texas Services Sector Outlook (Dec) |  |  | -2.3 |
 | 17:00 | BRL | Low | CAGED Net Payroll Jobs (Nov) |  | 75.00K | 85.15K |
