@@ -20,8 +20,8 @@
 | 12:00 | INR | Low | M3 Money Supply | 9.3% |  | 10.2% |
 | 12:00 | BRL | Moderate | Unemployment Rate (Nov) | 5.2% | 5.4% | 5.4% |
 | 13:55 | USD | Low | Redbook (YoY) | 7.6% |  | 7.2% |
-| 14:00 | USD | Low | House Price Index (YoY) (Oct) | 1.7% |  | 1.8% |
 | 14:00 | USD | Low | House Price Index (MoM) (Oct) | 0.4% | 0.1% | -0.1% |
+| 14:00 | USD | Low | House Price Index (YoY) (Oct) | 1.7% |  | 1.8% |
 | 14:00 | USD | Low | House Price Index (Oct) | 436.7 |  | 435.2 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Oct) | 0.3% |  | 0.2% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Oct) | 1.3% | 1.1% | 1.4% |
@@ -33,7 +33,6 @@
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 412 |  | 409 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 546 |  | 545 |
 | 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
-| 19:00 | MXN | Low | Fiscal Balance (Nov) |  |  | -16.75B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 2.400M |
 | 23:00 | KRW | Low | CPI (YoY) (Dec) |  | 2.3% | 2.4% |
 | 23:00 | KRW | Low | CPI (MoM) (Dec) |  | 0.2% | -0.2% |
