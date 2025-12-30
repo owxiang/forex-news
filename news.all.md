@@ -34,6 +34,6 @@
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 546 |  | 545 |
 | 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
 | 19:00 | MXN | Low | Fiscal Balance (Nov) | -200.52B |  | -16.75B |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 2.400M |
-| 53 min | KRW | Low | CPI (YoY) (Dec) |  | 2.3% | 2.4% |
-| 53 min | KRW | Low | CPI (MoM) (Dec) |  | 0.2% | -0.2% |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | 1.700M |  | 2.400M |
+| 23:00 | KRW | Low | CPI (YoY) (Dec) | 2.3% | 2.3% | 2.4% |
+| 23:00 | KRW | Low | CPI (MoM) (Dec) | 0.3% | 0.2% | -0.2% |

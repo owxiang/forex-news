@@ -23,5 +23,5 @@
 | 15:30 | USD | Texas Services Sector Outlook (Dec) | -3.3 |  | -2.3 |
 | 17:00 | BRL | CAGED Net Payroll Jobs (Nov) | 85.86K | 75.00K | 85.15K |
 | 19:00 | MXN | Fiscal Balance (Nov) | -200.52B |  | -16.75B |
-| 53 min | KRW | CPI (YoY) (Dec) |  | 2.3% | 2.4% |
-| 53 min | KRW | CPI (MoM) (Dec) |  | 0.2% | -0.2% |
+| 23:00 | KRW | CPI (YoY) (Dec) | 2.3% | 2.3% | 2.4% |
+| 23:00 | KRW | CPI (MoM) (Dec) | 0.3% | 0.2% | -0.2% |
