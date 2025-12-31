@@ -6,7 +6,7 @@
 | 01:30 | CNY | High | Manufacturing PMI (Dec) | 50.1 | 49.2 | 49.2 |
 | 01:30 | CNY | Moderate | Non-Manufacturing PMI (Dec) | 50.2 | 49.6 | 49.5 |
 | 01:45 | CNY | Moderate | Caixin Manufacturing PMI (MoM) (Dec) | 50.1 | 49.8 | 49.9 |
-| 17 min | SGD | Low | Bank Lending (Nov) |  |  | 866.1B |
+| 54 min | SGD | Low | Bank Lending (Nov) |  |  | 866.1B |
 | 06:00 | ZAR | Low | M3 Money Supply (YoY) (Nov) |  |  | 7.52% |
 | 06:00 | ZAR | Low | Private Sector Credit (Nov) |  |  | 7.26% |
 | 08:00 | CHF | Low | Official Reserves Assets (Nov) |  |  | 844.8B |
