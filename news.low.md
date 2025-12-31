@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 10 min | SGD | Bank Lending (Nov) |  |  | 866.1B |
-| 06:00 | ZAR | M3 Money Supply (YoY) (Nov) |  |  | 7.52% |
-| 06:00 | ZAR | Private Sector Credit (Nov) |  |  | 7.26% |
+| 03:45 | SGD | Bank Lending (Nov) | 873.1B |  | 866.1B |
+| 36 min | ZAR | M3 Money Supply (YoY) (Nov) |  |  | 7.52% |
+| 36 min | ZAR | Private Sector Credit (Nov) |  |  | 7.26% |
 | 08:00 | CHF | Official Reserves Assets (Nov) |  |  | 844.8B |
 | 08:30 | HKD | M3 Money Supply (Nov) |  |  | 3.5% |
 | 10:00 | INR | Federal Fiscal Deficit (Nov) |  |  | 8,251.44B |
@@ -27,7 +27,7 @@
 | 15:30 | USD | Gasoline Inventories |  | 1.100M | 2.862M |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.570% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 3.585% |
-| 17:00 | USD | Natural Gas Storage |  | -169B | -166B |
+| 17:00 | USD | Natural Gas Storage |  | -51B | -166B |
 | 19:00 | MXN | Fiscal Balance (Nov) |  |  | -16.75B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -2.3K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 64.8K |

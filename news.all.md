@@ -6,9 +6,9 @@
 | 01:30 | CNY | High | Manufacturing PMI (Dec) | 50.1 | 49.2 | 49.2 |
 | 01:30 | CNY | Moderate | Non-Manufacturing PMI (Dec) | 50.2 | 49.6 | 49.5 |
 | 01:45 | CNY | Moderate | Caixin Manufacturing PMI (MoM) (Dec) | 50.1 | 49.8 | 49.9 |
-| 10 min | SGD | Low | Bank Lending (Nov) |  |  | 866.1B |
-| 06:00 | ZAR | Low | M3 Money Supply (YoY) (Nov) |  |  | 7.52% |
-| 06:00 | ZAR | Low | Private Sector Credit (Nov) |  |  | 7.26% |
+| 03:45 | SGD | Low | Bank Lending (Nov) | 873.1B |  | 866.1B |
+| 36 min | ZAR | Low | M3 Money Supply (YoY) (Nov) |  |  | 7.52% |
+| 36 min | ZAR | Low | Private Sector Credit (Nov) |  |  | 7.26% |
 | 08:00 | CHF | Low | Official Reserves Assets (Nov) |  |  | 844.8B |
 | 08:30 | HKD | Low | M3 Money Supply (Nov) |  |  | 3.5% |
 | 10:00 | INR | Low | Federal Fiscal Deficit (Nov) |  |  | 8,251.44B |
@@ -21,9 +21,9 @@
 | 12:00 | INR | Low | Foreign Debt (USD) (Q3) |  |  | 747.2B |
 | 12:00 | ZAR | Low | Trade Balance (Nov) |  |  | 15.58B |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,923K |
-| 13:30 | USD | High | Initial Jobless Claims |  | 217K | 214K |
+| 13:30 | USD | High | Initial Jobless Claims |  | 219K | 214K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 216.75K |
-| 15:30 | USD | High | Crude Oil Inventories |  | -2.000M | 0.405M |
+| 15:30 | USD | High | Crude Oil Inventories |  | 0.500M | 0.405M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.212M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 0.609M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.707M |
@@ -35,9 +35,7 @@
 | 15:30 | USD | Low | Gasoline Inventories |  | 1.100M | 2.862M |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.570% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.585% |
-| 17:00 | USD | Low | Natural Gas Storage |  | -169B | -166B |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 409 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 545 |
+| 17:00 | USD | Low | Natural Gas Storage |  | -51B | -166B |
 | 19:00 | MXN | Low | Fiscal Balance (Nov) |  |  | -16.75B |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -48.5K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -2.3K |
