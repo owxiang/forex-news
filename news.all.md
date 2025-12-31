@@ -2,13 +2,11 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | AUD | Low | Housing Credit (Nov) |  |  | 0.6% |
-| 00:30 | AUD | Low | Private Sector Credit (MoM) (Nov) |  |  | 0.6% |
-| 57 min | CNY | Moderate | Chinese Composite PMI (Dec) |  |  | 49.7 |
-| 57 min | CNY | High | Manufacturing PMI (Dec) |  | 49.2 | 49.2 |
-| 57 min | CNY | Moderate | Non-Manufacturing PMI (Dec) |  | 49.6 | 49.5 |
-| 01:45 | CNY | Moderate | Caixin Manufacturing PMI (MoM) (Dec) |  | 49.8 | 49.9 |
-| 02:00 | SGD | Low | Bank Lending (Nov) |  |  | 866.1B |
+| 01:30 | CNY | Moderate | Chinese Composite PMI (Dec) | 50.7 |  | 49.7 |
+| 01:30 | CNY | High | Manufacturing PMI (Dec) | 50.1 | 49.2 | 49.2 |
+| 01:30 | CNY | Moderate | Non-Manufacturing PMI (Dec) | 50.2 | 49.6 | 49.5 |
+| 9 min | CNY | Moderate | Caixin Manufacturing PMI (MoM) (Dec) |  | 49.8 | 49.9 |
+| 24 min | SGD | Low | Bank Lending (Nov) |  |  | 866.1B |
 | 06:00 | ZAR | Low | M3 Money Supply (YoY) (Nov) |  |  | 7.52% |
 | 06:00 | ZAR | Low | Private Sector Credit (Nov) |  |  | 7.26% |
 | 08:00 | CHF | Low | Official Reserves Assets (Nov) |  |  | 844.8B |
