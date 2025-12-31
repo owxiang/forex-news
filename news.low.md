@@ -5,8 +5,8 @@
 | 03:45 | SGD | Bank Lending (Nov) | 873.1B |  | 866.1B |
 | 06:00 | ZAR | M3 Money Supply (YoY) (Nov) | 8.26% |  | 7.52% |
 | 06:00 | ZAR | Private Sector Credit (Nov) | 7.79% |  | 7.26% |
-| 08:00 | CHF | Official Reserves Assets (Nov) |  |  | 844.8B |
-| 08:30 | HKD | M3 Money Supply (Nov) |  |  | 3.5% |
+| 08:00 | CHF | Official Reserves Assets (Nov) | 852.4B |  | 844.9B |
+| 08:00 | HKD | M3 Money Supply (Nov) | 4.5% |  | 3.5% |
 | 10:00 | INR | Federal Fiscal Deficit (Nov) |  |  | 8,251.44B |
 | 11:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.31% |
