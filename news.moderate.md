@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 01:30 | CNY | Chinese Composite PMI (Dec) | 50.7 |  | 49.7 |
 | 01:30 | CNY | Non-Manufacturing PMI (Dec) | 50.2 | 49.6 | 49.5 |
-| 9 min | CNY | Caixin Manufacturing PMI (MoM) (Dec) |  | 49.8 | 49.9 |
+| 01:45 | CNY | Caixin Manufacturing PMI (MoM) (Dec) | 50.1 | 49.8 | 49.9 |
 | 13:30 | USD | Continuing Jobless Claims |  |  | 1,923K |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | 0.707M |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 409 |
