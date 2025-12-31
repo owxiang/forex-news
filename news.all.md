@@ -12,13 +12,13 @@
 | 08:00 | CHF | Low | Official Reserves Assets (Nov) | 852.4B |  | 844.9B |
 | 08:00 | HKD | Low | M3 Money Supply (Nov) | 4.5% |  | 3.5% |
 | 10:00 | INR | Low | Federal Fiscal Deficit (Nov) | 9,766.71B |  | 8,251.44B |
-| 23 min | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
-| 53 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.31% |
-| 53 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -5.0% |
-| 53 min | USD | Low | MBA Purchase Index |  |  | 169.9 |
-| 53 min | USD | Low | Mortgage Market Index |  |  | 299.8 |
-| 53 min | USD | Low | Mortgage Refinance Index |  |  | 1,084.3 |
-| 53 min | ZAR | Low | Trade Balance (Nov) |  |  | 15.58B |
+| 11:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
+| 12:00 | ZAR | Low | Trade Balance (Nov) | 37.73B |  | 15.58B |
+| 47 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.31% |
+| 47 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -5.0% |
+| 47 min | USD | Low | MBA Purchase Index |  |  | 169.9 |
+| 47 min | USD | Low | Mortgage Market Index |  |  | 299.8 |
+| 47 min | USD | Low | Mortgage Refinance Index |  |  | 1,084.3 |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,923K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 219K | 214K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 216.75K |

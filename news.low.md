@@ -8,13 +8,13 @@
 | 08:00 | CHF | Official Reserves Assets (Nov) | 852.4B |  | 844.9B |
 | 08:00 | HKD | M3 Money Supply (Nov) | 4.5% |  | 3.5% |
 | 10:00 | INR | Federal Fiscal Deficit (Nov) | 9,766.71B |  | 8,251.44B |
-| 23 min | INR | RBI Monetary and Credit Information Review |  |  |  |
-| 53 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.31% |
-| 53 min | USD | MBA Mortgage Applications (WoW) |  |  | -5.0% |
-| 53 min | USD | MBA Purchase Index |  |  | 169.9 |
-| 53 min | USD | Mortgage Market Index |  |  | 299.8 |
-| 53 min | USD | Mortgage Refinance Index |  |  | 1,084.3 |
-| 53 min | ZAR | Trade Balance (Nov) |  |  | 15.58B |
+| 11:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
+| 12:00 | ZAR | Trade Balance (Nov) | 37.73B |  | 15.58B |
+| 47 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.31% |
+| 47 min | USD | MBA Mortgage Applications (WoW) |  |  | -5.0% |
+| 47 min | USD | MBA Purchase Index |  |  | 169.9 |
+| 47 min | USD | Mortgage Market Index |  |  | 299.8 |
+| 47 min | USD | Mortgage Refinance Index |  |  | 1,084.3 |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 216.75K |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.212M |
 | 15:30 | USD | Crude Oil Imports |  |  | 0.609M |
