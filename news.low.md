@@ -7,24 +7,23 @@
 | 06:00 | ZAR | Private Sector Credit (Nov) | 7.79% |  | 7.26% |
 | 08:00 | CHF | Official Reserves Assets (Nov) | 852.4B |  | 844.9B |
 | 08:00 | HKD | M3 Money Supply (Nov) | 4.5% |  | 3.5% |
-| 22 min | INR | Federal Fiscal Deficit (Nov) |  |  | 8,251.44B |
-| 11:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
-| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.31% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -5.0% |
-| 12:00 | USD | MBA Purchase Index |  |  | 169.9 |
-| 12:00 | USD | Mortgage Market Index |  |  | 299.8 |
-| 12:00 | USD | Mortgage Refinance Index |  |  | 1,084.3 |
-| 12:00 | INR | Foreign Debt (USD) (Q3) |  |  | 747.2B |
-| 12:00 | ZAR | Trade Balance (Nov) |  |  | 15.58B |
+| 10:00 | INR | Federal Fiscal Deficit (Nov) | 9,766.71B |  | 8,251.44B |
+| 23 min | INR | RBI Monetary and Credit Information Review |  |  |  |
+| 53 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.31% |
+| 53 min | USD | MBA Mortgage Applications (WoW) |  |  | -5.0% |
+| 53 min | USD | MBA Purchase Index |  |  | 169.9 |
+| 53 min | USD | Mortgage Market Index |  |  | 299.8 |
+| 53 min | USD | Mortgage Refinance Index |  |  | 1,084.3 |
+| 53 min | ZAR | Trade Balance (Nov) |  |  | 15.58B |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 216.75K |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.212M |
 | 15:30 | USD | Crude Oil Imports |  |  | 0.609M |
 | 15:30 | USD | Distillate Fuel Production |  |  | 0.107M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  | 0.500M | 0.202M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  | 2.000M | 0.202M |
 | 15:30 | USD | Gasoline Production |  |  | 0.215M |
 | 15:30 | USD | Heating Oil Stockpiles |  |  | -0.399M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.2% |
-| 15:30 | USD | Gasoline Inventories |  | 1.100M | 2.862M |
+| 15:30 | USD | Gasoline Inventories |  | 2.000M | 2.862M |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.570% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 3.585% |
 | 17:00 | USD | Natural Gas Storage |  | -51B | -166B |

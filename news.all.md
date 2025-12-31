@@ -11,15 +11,14 @@
 | 06:00 | ZAR | Low | Private Sector Credit (Nov) | 7.79% |  | 7.26% |
 | 08:00 | CHF | Low | Official Reserves Assets (Nov) | 852.4B |  | 844.9B |
 | 08:00 | HKD | Low | M3 Money Supply (Nov) | 4.5% |  | 3.5% |
-| 22 min | INR | Low | Federal Fiscal Deficit (Nov) |  |  | 8,251.44B |
-| 11:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.31% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -5.0% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 169.9 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 299.8 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 1,084.3 |
-| 12:00 | INR | Low | Foreign Debt (USD) (Q3) |  |  | 747.2B |
-| 12:00 | ZAR | Low | Trade Balance (Nov) |  |  | 15.58B |
+| 10:00 | INR | Low | Federal Fiscal Deficit (Nov) | 9,766.71B |  | 8,251.44B |
+| 23 min | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
+| 53 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.31% |
+| 53 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -5.0% |
+| 53 min | USD | Low | MBA Purchase Index |  |  | 169.9 |
+| 53 min | USD | Low | Mortgage Market Index |  |  | 299.8 |
+| 53 min | USD | Low | Mortgage Refinance Index |  |  | 1,084.3 |
+| 53 min | ZAR | Low | Trade Balance (Nov) |  |  | 15.58B |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,923K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 219K | 214K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 216.75K |
@@ -28,11 +27,11 @@
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 0.609M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.707M |
 | 15:30 | USD | Low | Distillate Fuel Production |  |  | 0.107M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | 0.500M | 0.202M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | 2.000M | 0.202M |
 | 15:30 | USD | Low | Gasoline Production |  |  | 0.215M |
 | 15:30 | USD | Low | Heating Oil Stockpiles |  |  | -0.399M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.2% |
-| 15:30 | USD | Low | Gasoline Inventories |  | 1.100M | 2.862M |
+| 15:30 | USD | Low | Gasoline Inventories |  | 2.000M | 2.862M |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.570% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.585% |
 | 17:00 | USD | Low | Natural Gas Storage |  | -51B | -166B |
