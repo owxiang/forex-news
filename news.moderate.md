@@ -6,7 +6,7 @@
 | 01:30 | CNY | Non-Manufacturing PMI (Dec) | 50.2 | 49.6 | 49.5 |
 | 01:45 | CNY | Caixin Manufacturing PMI (MoM) (Dec) | 50.1 | 49.8 | 49.9 |
 | 13:30 | USD | Continuing Jobless Claims | 1,866K |  | 1,913K |
-| 15:30 | USD | Cushing Crude Oil Inventories |  |  | 0.707M |
+| 23 min | USD | Cushing Crude Oil Inventories |  |  | 0.707M |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -48.5K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 54.9K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 234.0K |
