@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 54 min | SGD | Bank Lending (Nov) |  |  | 866.1B |
+| 10 min | SGD | Bank Lending (Nov) |  |  | 866.1B |
 | 06:00 | ZAR | M3 Money Supply (YoY) (Nov) |  |  | 7.52% |
 | 06:00 | ZAR | Private Sector Credit (Nov) |  |  | 7.26% |
 | 08:00 | CHF | Official Reserves Assets (Nov) |  |  | 844.8B |
