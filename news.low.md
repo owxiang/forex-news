@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 03:45 | SGD | Bank Lending (Nov) | 873.1B |  | 866.1B |
-| 36 min | ZAR | M3 Money Supply (YoY) (Nov) |  |  | 7.52% |
-| 36 min | ZAR | Private Sector Credit (Nov) |  |  | 7.26% |
+| 06:00 | ZAR | M3 Money Supply (YoY) (Nov) | 8.26% |  | 7.52% |
+| 06:00 | ZAR | Private Sector Credit (Nov) | 7.79% |  | 7.26% |
 | 08:00 | CHF | Official Reserves Assets (Nov) |  |  | 844.8B |
 | 08:30 | HKD | M3 Money Supply (Nov) |  |  | 3.5% |
 | 10:00 | INR | Federal Fiscal Deficit (Nov) |  |  | 8,251.44B |
