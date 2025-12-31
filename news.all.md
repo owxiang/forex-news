@@ -14,14 +14,9 @@
 | 10:00 | INR | Low | Federal Fiscal Deficit (Nov) | 9,766.71B |  | 8,251.44B |
 | 11:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
 | 12:00 | ZAR | Low | Trade Balance (Nov) | 37.73B |  | 15.58B |
-| 14 min | USD | Moderate | Continuing Jobless Claims |  |  | 1,923K |
-| 14 min | USD | High | Initial Jobless Claims |  | 219K | 214K |
-| 14 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 216.75K |
-| 44 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.31% |
-| 44 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -5.0% |
-| 44 min | USD | Low | MBA Purchase Index |  |  | 169.9 |
-| 44 min | USD | Low | Mortgage Market Index |  |  | 299.8 |
-| 44 min | USD | Low | Mortgage Refinance Index |  |  | 1,084.3 |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,866K |  | 1,913K |
+| 13:30 | USD | High | Initial Jobless Claims | 199K | 219K | 215K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 218.75K |  | 217.00K |
 | 15:30 | USD | High | Crude Oil Inventories |  | 0.500M | 0.405M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.212M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 0.609M |

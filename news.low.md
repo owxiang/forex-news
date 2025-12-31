@@ -10,12 +10,7 @@
 | 10:00 | INR | Federal Fiscal Deficit (Nov) | 9,766.71B |  | 8,251.44B |
 | 11:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
 | 12:00 | ZAR | Trade Balance (Nov) | 37.73B |  | 15.58B |
-| 14 min | USD | Jobless Claims 4-Week Avg. |  |  | 216.75K |
-| 44 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.31% |
-| 44 min | USD | MBA Mortgage Applications (WoW) |  |  | -5.0% |
-| 44 min | USD | MBA Purchase Index |  |  | 169.9 |
-| 44 min | USD | Mortgage Market Index |  |  | 299.8 |
-| 44 min | USD | Mortgage Refinance Index |  |  | 1,084.3 |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 218.75K |  | 217.00K |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.212M |
 | 15:30 | USD | Crude Oil Imports |  |  | 0.609M |
 | 15:30 | USD | Distillate Fuel Production |  |  | 0.107M |
