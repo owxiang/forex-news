@@ -11,7 +11,7 @@
 | 06:00 | ZAR | Low | Private Sector Credit (Nov) | 7.79% |  | 7.26% |
 | 08:00 | CHF | Low | Official Reserves Assets (Nov) | 852.4B |  | 844.9B |
 | 08:00 | HKD | Low | M3 Money Supply (Nov) | 4.5% |  | 3.5% |
-| 10:00 | INR | Low | Federal Fiscal Deficit (Nov) |  |  | 8,251.44B |
+| 50 min | INR | Low | Federal Fiscal Deficit (Nov) |  |  | 8,251.44B |
 | 11:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.31% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -5.0% |
