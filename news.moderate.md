@@ -1,14 +1,20 @@
-## 30 December 2025 - Moderate Impact Forex News
+## 31 December 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 08:00 | CHF | KOF Leading Indicators (Dec) | 103.4 | 101.5 | 101.7 |
-| 08:00 | EUR | Spanish CPI (YoY) (Dec) | 2.9% | 2.8% | 3.0% |
-| 08:00 | EUR | Spanish HICP (YoY) (Dec) | 3.0% | 3.0% | 3.2% |
-| 11:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Nov) | 79.0% | 79.0% | 78.6% |
-| 12:00 | BRL | Unemployment Rate (Nov) | 5.2% | 5.4% | 5.4% |
-| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Oct) | 1.3% | 1.1% | 1.4% |
-| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Oct) | -0.3% |  | -0.5% |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 412 |  | 409 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count | 546 |  | 545 |
-| 21:30 | USD | API Weekly Crude Oil Stock | 1.700M |  | 2.400M |
+| 57 min | CNY | Chinese Composite PMI (Dec) |  |  | 49.7 |
+| 57 min | CNY | Non-Manufacturing PMI (Dec) |  | 49.6 | 49.5 |
+| 01:45 | CNY | Caixin Manufacturing PMI (MoM) (Dec) |  | 49.8 | 49.9 |
+| 13:30 | USD | Continuing Jobless Claims |  |  | 1,923K |
+| 15:30 | USD | Cushing Crude Oil Inventories |  |  | 0.707M |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 409 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 545 |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | -48.5K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 54.9K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 234.0K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 46.4K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -166.0K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -21.9K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 48.0K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | -2.9K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 144.9K |

@@ -1,27 +1,44 @@
-## 30 December 2025 - Low Impact Forex News
+## 31 December 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 08:00 | EUR | Core CPI (YoY) (Dec) | 2.6% |  | 2.6% |
-| 08:00 | EUR | Spanish CPI (MoM) (Dec) | 0.3% |  | 0.2% |
-| 08:00 | EUR | Spanish HICP (MoM) (Dec) | 0.3% |  | 0.0% |
-| 08:00 | EUR | Spanish Retail Sales (YoY) (Nov) | 6.0% |  | 3.9% |
-| 09:00 | EUR | Spanish Current account (Oct) | 7.18B |  | 1.87B |
-| 09:00 | NOK | Central Bank Currency Purchase (Jan) | -650.0M |  | 150.0M |
-| 11:17 | ZAR | Budget Balance (MoM) (Nov) | -14.99B |  | -35.83B |
-| 11:30 | BRL | Net Debt-to-GDP ratio (Nov) | 65.2% |  | 65.0% |
-| 11:30 | BRL | Budget Balance (Nov) | -101.600B | -86.400B | -81.522B |
-| 11:30 | BRL | Budget Surplus (Nov) | -14.400B |  | 32.392B |
-| 12:00 | INR | Foreign Debt (USD) (Q3) | 746.0B |  | 747.2B |
-| 12:00 | INR | M3 Money Supply | 9.3% |  | 10.2% |
-| 13:55 | USD | Redbook (YoY) | 7.6% |  | 7.2% |
-| 14:00 | USD | House Price Index (YoY) (Oct) | 1.7% |  | 1.8% |
-| 14:00 | USD | House Price Index (MoM) (Oct) | 0.4% | 0.1% | -0.1% |
-| 14:00 | USD | House Price Index (Oct) | 436.7 |  | 435.2 |
-| 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Oct) | 0.3% |  | 0.2% |
-| 15:30 | USD | Dallas Fed Services Revenues (Dec) | 0.1 |  | -2.5 |
-| 15:30 | USD | Texas Services Sector Outlook (Dec) | -3.3 |  | -2.3 |
-| 17:00 | BRL | CAGED Net Payroll Jobs (Nov) | 85.86K | 75.00K | 85.15K |
-| 19:00 | MXN | Fiscal Balance (Nov) | -200.52B |  | -16.75B |
-| 23:00 | KRW | CPI (YoY) (Dec) | 2.3% | 2.3% | 2.4% |
-| 23:00 | KRW | CPI (MoM) (Dec) | 0.3% | 0.2% | -0.2% |
+| 00:30 | AUD | Housing Credit (Nov) |  |  | 0.6% |
+| 00:30 | AUD | Private Sector Credit (MoM) (Nov) |  |  | 0.6% |
+| 02:00 | SGD | Bank Lending (Nov) |  |  | 866.1B |
+| 06:00 | ZAR | M3 Money Supply (YoY) (Nov) |  |  | 7.52% |
+| 06:00 | ZAR | Private Sector Credit (Nov) |  |  | 7.26% |
+| 08:00 | CHF | Official Reserves Assets (Nov) |  |  | 844.8B |
+| 08:30 | HKD | M3 Money Supply (Nov) |  |  | 3.5% |
+| 10:00 | INR | Federal Fiscal Deficit (Nov) |  |  | 8,251.44B |
+| 11:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.31% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -5.0% |
+| 12:00 | USD | MBA Purchase Index |  |  | 169.9 |
+| 12:00 | USD | Mortgage Market Index |  |  | 299.8 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 1,084.3 |
+| 12:00 | INR | Foreign Debt (USD) (Q3) |  |  | 747.2B |
+| 12:00 | ZAR | Trade Balance (Nov) |  |  | 15.58B |
+| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 216.75K |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.212M |
+| 15:30 | USD | Crude Oil Imports |  |  | 0.609M |
+| 15:30 | USD | Distillate Fuel Production |  |  | 0.107M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  | 0.500M | 0.202M |
+| 15:30 | USD | Gasoline Production |  |  | 0.215M |
+| 15:30 | USD | Heating Oil Stockpiles |  |  | -0.399M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.2% |
+| 15:30 | USD | Gasoline Inventories |  | 1.100M | 2.862M |
+| 16:30 | USD | 4-Week Bill Auction |  |  | 3.570% |
+| 16:30 | USD | 8-Week Bill Auction |  |  | 3.585% |
+| 17:00 | USD | Natural Gas Storage |  | -169B | -166B |
+| 19:00 | MXN | Fiscal Balance (Nov) |  |  | -16.75B |
+| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -2.3K |
+| 20:30 | USD | CFTC Copper speculative net positions |  |  | 64.8K |
+| 20:30 | USD | CFTC Corn speculative net positions |  |  | 14.7K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -128.0K |
+| 20:30 | USD | CFTC Silver speculative net positions |  |  | 36.4K |
+| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 192.9K |
+| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -50.2K |
+| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -86.6K |
+| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 87.1K |
+| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -38.9K |
+| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -48.0K |

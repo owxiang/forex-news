@@ -1,39 +1,63 @@
-## 30 December 2025 - All Forex News
+## 31 December 2025 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 08:00 | CHF | Moderate | KOF Leading Indicators (Dec) | 103.4 | 101.5 | 101.7 |
-| 08:00 | EUR | Low | Core CPI (YoY) (Dec) | 2.6% |  | 2.6% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Dec) | 0.3% |  | 0.2% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Dec) | 2.9% | 2.8% | 3.0% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Dec) | 0.3% |  | 0.0% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Dec) | 3.0% | 3.0% | 3.2% |
-| 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Nov) | 6.0% |  | 3.9% |
-| 09:00 | EUR | Low | Spanish Current account (Oct) | 7.18B |  | 1.87B |
-| 09:00 | NOK | Low | Central Bank Currency Purchase (Jan) | -650.0M |  | 150.0M |
-| 11:17 | ZAR | Low | Budget Balance (MoM) (Nov) | -14.99B |  | -35.83B |
-| 11:30 | BRL | Low | Net Debt-to-GDP ratio (Nov) | 65.2% |  | 65.0% |
-| 11:30 | BRL | Low | Budget Balance (Nov) | -101.600B | -86.400B | -81.522B |
-| 11:30 | BRL | Low | Budget Surplus (Nov) | -14.400B |  | 32.392B |
-| 11:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Nov) | 79.0% | 79.0% | 78.6% |
-| 12:00 | INR | Low | Foreign Debt (USD) (Q3) | 746.0B |  | 747.2B |
-| 12:00 | INR | Low | M3 Money Supply | 9.3% |  | 10.2% |
-| 12:00 | BRL | Moderate | Unemployment Rate (Nov) | 5.2% | 5.4% | 5.4% |
-| 13:55 | USD | Low | Redbook (YoY) | 7.6% |  | 7.2% |
-| 14:00 | USD | Low | House Price Index (YoY) (Oct) | 1.7% |  | 1.8% |
-| 14:00 | USD | Low | House Price Index (MoM) (Oct) | 0.4% | 0.1% | -0.1% |
-| 14:00 | USD | Low | House Price Index (Oct) | 436.7 |  | 435.2 |
-| 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Oct) | 0.3% |  | 0.2% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Oct) | 1.3% | 1.1% | 1.4% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Oct) | -0.3% |  | -0.5% |
-| 14:45 | USD | High | Chicago PMI (Dec) | 43.5 | 39.8 | 36.3 |
-| 15:30 | USD | Low | Dallas Fed Services Revenues (Dec) | 0.1 |  | -2.5 |
-| 15:30 | USD | Low | Texas Services Sector Outlook (Dec) | -3.3 |  | -2.3 |
-| 17:00 | BRL | Low | CAGED Net Payroll Jobs (Nov) | 85.86K | 75.00K | 85.15K |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 412 |  | 409 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 546 |  | 545 |
-| 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
-| 19:00 | MXN | Low | Fiscal Balance (Nov) | -200.52B |  | -16.75B |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | 1.700M |  | 2.400M |
-| 23:00 | KRW | Low | CPI (YoY) (Dec) | 2.3% | 2.3% | 2.4% |
-| 23:00 | KRW | Low | CPI (MoM) (Dec) | 0.3% | 0.2% | -0.2% |
+| 00:30 | AUD | Low | Housing Credit (Nov) |  |  | 0.6% |
+| 00:30 | AUD | Low | Private Sector Credit (MoM) (Nov) |  |  | 0.6% |
+| 57 min | CNY | Moderate | Chinese Composite PMI (Dec) |  |  | 49.7 |
+| 57 min | CNY | High | Manufacturing PMI (Dec) |  | 49.2 | 49.2 |
+| 57 min | CNY | Moderate | Non-Manufacturing PMI (Dec) |  | 49.6 | 49.5 |
+| 01:45 | CNY | Moderate | Caixin Manufacturing PMI (MoM) (Dec) |  | 49.8 | 49.9 |
+| 02:00 | SGD | Low | Bank Lending (Nov) |  |  | 866.1B |
+| 06:00 | ZAR | Low | M3 Money Supply (YoY) (Nov) |  |  | 7.52% |
+| 06:00 | ZAR | Low | Private Sector Credit (Nov) |  |  | 7.26% |
+| 08:00 | CHF | Low | Official Reserves Assets (Nov) |  |  | 844.8B |
+| 08:30 | HKD | Low | M3 Money Supply (Nov) |  |  | 3.5% |
+| 10:00 | INR | Low | Federal Fiscal Deficit (Nov) |  |  | 8,251.44B |
+| 11:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.31% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -5.0% |
+| 12:00 | USD | Low | MBA Purchase Index |  |  | 169.9 |
+| 12:00 | USD | Low | Mortgage Market Index |  |  | 299.8 |
+| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 1,084.3 |
+| 12:00 | INR | Low | Foreign Debt (USD) (Q3) |  |  | 747.2B |
+| 12:00 | ZAR | Low | Trade Balance (Nov) |  |  | 15.58B |
+| 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,923K |
+| 13:30 | USD | High | Initial Jobless Claims |  | 217K | 214K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 216.75K |
+| 15:30 | USD | High | Crude Oil Inventories |  | -2.000M | 0.405M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.212M |
+| 15:30 | USD | Low | Crude Oil Imports |  |  | 0.609M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.707M |
+| 15:30 | USD | Low | Distillate Fuel Production |  |  | 0.107M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | 0.500M | 0.202M |
+| 15:30 | USD | Low | Gasoline Production |  |  | 0.215M |
+| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | -0.399M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.2% |
+| 15:30 | USD | Low | Gasoline Inventories |  | 1.100M | 2.862M |
+| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.570% |
+| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.585% |
+| 17:00 | USD | Low | Natural Gas Storage |  | -169B | -166B |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 409 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 545 |
+| 19:00 | MXN | Low | Fiscal Balance (Nov) |  |  | -16.75B |
+| 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -48.5K |
+| 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -2.3K |
+| 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 64.8K |
+| 20:30 | USD | Low | CFTC Corn speculative net positions |  |  | 14.7K |
+| 20:30 | USD | Moderate | CFTC Crude Oil speculative net positions |  |  | 54.9K |
+| 20:30 | USD | Moderate | CFTC Gold speculative net positions |  |  | 234.0K |
+| 20:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions |  |  | 46.4K |
+| 20:30 | USD | Low | CFTC Natural Gas speculative net positions |  |  | -128.0K |
+| 20:30 | USD | Moderate | CFTC S&P 500 speculative net positions |  |  | -166.0K |
+| 20:30 | USD | Low | CFTC Silver speculative net positions |  |  | 36.4K |
+| 20:30 | USD | Low | CFTC Soybeans speculative net positions |  |  | 192.9K |
+| 20:30 | USD | Low | CFTC Wheat speculative net positions |  |  | -50.2K |
+| 20:30 | CAD | Low | CFTC CAD speculative net positions |  |  | -86.6K |
+| 20:30 | MXN | Low | CFTC MXN speculative net positions |  |  | 87.1K |
+| 20:30 | CHF | Low | CFTC CHF speculative net positions |  |  | -38.9K |
+| 20:30 | AUD | Moderate | CFTC AUD speculative net positions |  |  | -21.9K |
+| 20:30 | BRL | Moderate | CFTC BRL speculative net positions |  |  | 48.0K |
+| 20:30 | JPY | Moderate | CFTC JPY speculative net positions |  |  | -2.9K |
+| 20:30 | NZD | Low | CFTC NZD speculative net positions |  |  | -48.0K |
+| 20:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | 144.9K |
