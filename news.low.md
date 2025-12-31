@@ -11,17 +11,17 @@
 | 11:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
 | 12:00 | ZAR | Trade Balance (Nov) | 37.73B |  | 15.58B |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 218.75K |  | 217.00K |
-| 23 min | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.212M |
-| 23 min | USD | Crude Oil Imports |  |  | 0.609M |
-| 23 min | USD | Distillate Fuel Production |  |  | 0.107M |
-| 23 min | USD | EIA Weekly Distillates Stocks |  | 2.000M | 0.202M |
-| 23 min | USD | Gasoline Production |  |  | 0.215M |
-| 23 min | USD | Heating Oil Stockpiles |  |  | -0.399M |
-| 23 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.2% |
-| 23 min | USD | Gasoline Inventories |  | 2.000M | 2.862M |
-| 16:30 | USD | 4-Week Bill Auction |  |  | 3.570% |
-| 16:30 | USD | 8-Week Bill Auction |  |  | 3.585% |
-| 17:00 | USD | Natural Gas Storage |  | -51B | -166B |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) | 0.071M |  | -0.212M |
+| 15:30 | USD | Crude Oil Imports | -0.957M |  | 0.609M |
+| 15:30 | USD | Distillate Fuel Production | -0.076M |  | 0.107M |
+| 15:30 | USD | EIA Weekly Distillates Stocks | 4.977M | 2.000M | 0.202M |
+| 15:30 | USD | Gasoline Production | -0.352M |  | 0.215M |
+| 15:30 | USD | Heating Oil Stockpiles | 0.134M |  | -0.399M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.1% |  | -0.2% |
+| 15:30 | USD | Gasoline Inventories | 5.845M | 2.000M | 2.862M |
+| 21 min | USD | 4-Week Bill Auction |  |  | 3.570% |
+| 21 min | USD | 8-Week Bill Auction |  |  | 3.585% |
+| 51 min | USD | Natural Gas Storage |  | -51B | -166B |
 | 19:00 | MXN | Fiscal Balance (Nov) |  |  | -16.75B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -2.3K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 64.8K |

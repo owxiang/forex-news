@@ -17,19 +17,19 @@
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,866K |  | 1,913K |
 | 13:30 | USD | High | Initial Jobless Claims | 199K | 219K | 215K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 218.75K |  | 217.00K |
-| 23 min | USD | High | Crude Oil Inventories |  | 0.500M | 0.405M |
-| 23 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.212M |
-| 23 min | USD | Low | Crude Oil Imports |  |  | 0.609M |
-| 23 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.707M |
-| 23 min | USD | Low | Distillate Fuel Production |  |  | 0.107M |
-| 23 min | USD | Low | EIA Weekly Distillates Stocks |  | 2.000M | 0.202M |
-| 23 min | USD | Low | Gasoline Production |  |  | 0.215M |
-| 23 min | USD | Low | Heating Oil Stockpiles |  |  | -0.399M |
-| 23 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.2% |
-| 23 min | USD | Low | Gasoline Inventories |  | 2.000M | 2.862M |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.570% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.585% |
-| 17:00 | USD | Low | Natural Gas Storage |  | -51B | -166B |
+| 15:30 | USD | High | Crude Oil Inventories | -1.934M | 0.500M | 0.405M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.071M |  | -0.212M |
+| 15:30 | USD | Low | Crude Oil Imports | -0.957M |  | 0.609M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | 0.543M |  | 0.707M |
+| 15:30 | USD | Low | Distillate Fuel Production | -0.076M |  | 0.107M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks | 4.977M | 2.000M | 0.202M |
+| 15:30 | USD | Low | Gasoline Production | -0.352M |  | 0.215M |
+| 15:30 | USD | Low | Heating Oil Stockpiles | 0.134M |  | -0.399M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 0.1% |  | -0.2% |
+| 15:30 | USD | Low | Gasoline Inventories | 5.845M | 2.000M | 2.862M |
+| 21 min | USD | Low | 4-Week Bill Auction |  |  | 3.570% |
+| 21 min | USD | Low | 8-Week Bill Auction |  |  | 3.585% |
+| 51 min | USD | Low | Natural Gas Storage |  | -51B | -166B |
 | 19:00 | MXN | Low | Fiscal Balance (Nov) |  |  | -16.75B |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -48.5K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -2.3K |
