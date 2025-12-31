@@ -27,9 +27,9 @@
 | 15:30 | USD | Low | Heating Oil Stockpiles | 0.134M |  | -0.399M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 0.1% |  | -0.2% |
 | 15:30 | USD | Low | Gasoline Inventories | 5.845M | 2.000M | 2.862M |
-| 21 min | USD | Low | 4-Week Bill Auction |  |  | 3.570% |
-| 21 min | USD | Low | 8-Week Bill Auction |  |  | 3.585% |
-| 51 min | USD | Low | Natural Gas Storage |  | -51B | -166B |
+| 16:30 | USD | Low | 4-Week Bill Auction | 3.590% |  | 3.570% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 3.580% |  | 3.585% |
+| 17:00 | USD | Low | Natural Gas Storage | -38B | -51B | -166B |
 | 19:00 | MXN | Low | Fiscal Balance (Nov) |  |  | -16.75B |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -48.5K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -2.3K |
