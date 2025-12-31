@@ -22,7 +22,6 @@
 | 16:30 | USD | 4-Week Bill Auction | 3.590% |  | 3.570% |
 | 16:30 | USD | 8-Week Bill Auction | 3.580% |  | 3.585% |
 | 17:00 | USD | Natural Gas Storage | -38B | -51B | -166B |
-| 19:00 | MXN | Fiscal Balance (Nov) |  |  | -16.75B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -2.3K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 64.8K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 14.7K |
