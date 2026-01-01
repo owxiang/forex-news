@@ -1,7 +1,3 @@
-## 31 December 2025 - High Impact Forex News
+## 01 January 2026 - High Impact Forex News
 
-| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
-|------|----------|-------|--------|----------|----------|
-| 01:30 | CNY | Manufacturing PMI (Dec) | 50.1 | 49.2 | 49.2 |
-| 13:30 | USD | Initial Jobless Claims | 199K | 219K | 215K |
-| 15:30 | USD | Crude Oil Inventories | -1.934M | 0.500M | 0.405M |
+There is no high impact news today.
