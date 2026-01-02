@@ -7,7 +7,7 @@
 | 00:30 | KRW | S&P Global South Korea Manufacturing PMI (Dec) | 50.1 |  | 49.4 |
 | 00:30 | SGD | URA Property Index (QoQ) (Q4) | 0.70% |  | 0.90% |
 | 00:30 | IDR | S&P Global Manufacturing PMI (Dec) | 51.2 |  | 53.3 |
-| 37 min | INR | S&P Global Manufacturing PMI (Dec) |  | 55.7 | 56.6 |
+| 05:00 | INR | S&P Global Manufacturing PMI (Dec) | 55.0 | 55.7 | 56.6 |
 | 08:30 | HKD | Retail Sales (YoY) (Nov) |  |  | 6.9% |
 | 09:00 | NOK | Manufacturing PMI (Dec) |  |  | 53.0 |
 | 09:00 | EUR | M3 Money Supply (YoY) (Nov) |  | 2.7% | 2.8% |
