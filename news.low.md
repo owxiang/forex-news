@@ -13,13 +13,13 @@
 | 09:00 | EUR | M3 Money Supply (YoY) (Nov) | 3.0% | 2.7% | 2.8% |
 | 09:00 | EUR | Loans to Non Financial Corporations (Nov) | 3.1% |  | 2.9% |
 | 09:00 | EUR | Private Sector Loans (YoY) (Nov) | 2.9% | 2.8% | 2.8% |
-| 24 min | INR | Bank Loan Growth |  |  | 11.5% |
-| 24 min | INR | Deposit Growth |  |  | 10.2% |
-| 24 min | INR | FX Reserves, USD |  |  | 693.32B |
-| 13:00 | EUR | Car Registration (MoM) (Dec) |  |  | -2.70% |
-| 13:00 | EUR | Car Registration (YoY) (Dec) |  |  | 12.90% |
-| 13:00 | BRL | S&P Global Manufacturing PMI (Dec) |  |  | 48.8 |
-| 13:00 | SGD | S&P Global Manufacturing PMI (Dec) |  |  | 50.2 |
+| 11:00 | EUR | Car Registration (MoM) (Dec) | 9.40% |  | -2.70% |
+| 11:00 | EUR | Car Registration (YoY) (Dec) | -2.20% |  | 12.90% |
+| 11:30 | INR | FX Reserves, USD | 696.61B |  | 693.32B |
+| 12:00 | INR | Bank Loan Growth | 12.0% |  | 11.5% |
+| 12:00 | INR | Deposit Growth | 9.4% |  | 10.2% |
+| 48 min | BRL | S&P Global Manufacturing PMI (Dec) |  |  | 48.8 |
+| 48 min | SGD | S&P Global Manufacturing PMI (Dec) |  |  | 50.2 |
 | 14:30 | CAD | S&P Global Manufacturing PMI (Dec) |  |  | 48.4 |
 | 15:00 | MXN | S&P Global Manufacturing PMI (Dec) |  |  | 47.30 |
 | 17:00 | EUR | Italian Car Registration (YoY) (Dec) |  |  | 0.0% |

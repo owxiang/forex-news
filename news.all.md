@@ -21,13 +21,13 @@
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Nov) | 3.1% |  | 2.9% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) (Nov) | 2.9% | 2.8% | 2.8% |
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Dec) | 50.6 | 51.2 | 51.2 |
-| 24 min | INR | Low | Bank Loan Growth |  |  | 11.5% |
-| 24 min | INR | Low | Deposit Growth |  |  | 10.2% |
-| 24 min | INR | Low | FX Reserves, USD |  |  | 693.32B |
-| 13:00 | EUR | Low | Car Registration (MoM) (Dec) |  |  | -2.70% |
-| 13:00 | EUR | Low | Car Registration (YoY) (Dec) |  |  | 12.90% |
-| 13:00 | BRL | Low | S&P Global Manufacturing PMI (Dec) |  |  | 48.8 |
-| 13:00 | SGD | Low | S&P Global Manufacturing PMI (Dec) |  |  | 50.2 |
+| 11:00 | EUR | Low | Car Registration (MoM) (Dec) | 9.40% |  | -2.70% |
+| 11:00 | EUR | Low | Car Registration (YoY) (Dec) | -2.20% |  | 12.90% |
+| 11:30 | INR | Low | FX Reserves, USD | 696.61B |  | 693.32B |
+| 12:00 | INR | Low | Bank Loan Growth | 12.0% |  | 11.5% |
+| 12:00 | INR | Low | Deposit Growth | 9.4% |  | 10.2% |
+| 48 min | BRL | Low | S&P Global Manufacturing PMI (Dec) |  |  | 48.8 |
+| 48 min | SGD | Low | S&P Global Manufacturing PMI (Dec) |  |  | 50.2 |
 | 14:30 | CAD | Low | S&P Global Manufacturing PMI (Dec) |  |  | 48.4 |
 | 14:45 | USD | High | S&P Global Manufacturing PMI (Dec) |  | 51.8 | 52.2 |
 | 15:00 | USD | Moderate | Construction Spending (MoM) (Oct) |  | -0.1% | 0.2% |
