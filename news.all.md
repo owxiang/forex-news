@@ -31,7 +31,7 @@
 | 14:30 | CAD | Low | S&P Global Manufacturing PMI (Dec) | 48.6 |  | 48.4 |
 | 14:45 | USD | High | S&P Global Manufacturing PMI (Dec) | 51.8 | 51.8 | 52.2 |
 | 15:00 | MXN | Low | S&P Global Manufacturing PMI (Dec) | 46.10 |  | 47.30 |
-| 52 min | EUR | Low | Italian Car Registration (YoY) (Dec) |  |  | 0.0% |
-| 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -6.472B |
+| 22 min | EUR | Low | Italian Car Registration (YoY) (Dec) |  |  | 0.0% |
+| 22 min | BRL | Low | Foreign Exchange Flows |  |  | -6.472B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,557B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.934T |
