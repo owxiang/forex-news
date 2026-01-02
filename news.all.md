@@ -28,10 +28,10 @@
 | 12:00 | INR | Low | Deposit Growth | 9.4% |  | 10.2% |
 | 13:00 | BRL | Low | S&P Global Manufacturing PMI (Dec) | 47.6 |  | 48.8 |
 | 13:00 | SGD | Low | S&P Global Manufacturing PMI (Dec) | 50.3 |  | 50.2 |
-| 14:30 | CAD | Low | S&P Global Manufacturing PMI (Dec) |  |  | 48.4 |
-| 14:45 | USD | High | S&P Global Manufacturing PMI (Dec) |  | 51.8 | 52.2 |
-| 15:00 | USD | Moderate | Construction Spending (MoM) (Oct) |  | -0.1% | 0.2% |
-| 15:00 | MXN | Low | S&P Global Manufacturing PMI (Dec) |  |  | 47.30 |
+| 22 min | CAD | Low | S&P Global Manufacturing PMI (Dec) |  |  | 48.4 |
+| 37 min | USD | High | S&P Global Manufacturing PMI (Dec) |  | 51.8 | 52.2 |
+| 52 min | USD | Moderate | Construction Spending (MoM) (Oct) |  | -0.1% | 0.2% |
+| 52 min | MXN | Low | S&P Global Manufacturing PMI (Dec) |  |  | 47.30 |
 | 17:00 | EUR | Low | Italian Car Registration (YoY) (Dec) |  |  | 0.0% |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -6.472B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,557B |

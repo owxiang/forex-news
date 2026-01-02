@@ -20,8 +20,8 @@
 | 12:00 | INR | Deposit Growth | 9.4% |  | 10.2% |
 | 13:00 | BRL | S&P Global Manufacturing PMI (Dec) | 47.6 |  | 48.8 |
 | 13:00 | SGD | S&P Global Manufacturing PMI (Dec) | 50.3 |  | 50.2 |
-| 14:30 | CAD | S&P Global Manufacturing PMI (Dec) |  |  | 48.4 |
-| 15:00 | MXN | S&P Global Manufacturing PMI (Dec) |  |  | 47.30 |
+| 22 min | CAD | S&P Global Manufacturing PMI (Dec) |  |  | 48.4 |
+| 52 min | MXN | S&P Global Manufacturing PMI (Dec) |  |  | 47.30 |
 | 17:00 | EUR | Italian Car Registration (YoY) (Dec) |  |  | 0.0% |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | -6.472B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.934T |
