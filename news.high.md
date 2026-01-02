@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 37 min | USD | S&P Global Manufacturing PMI (Dec) |  | 51.8 | 52.2 |
+| 14:45 | USD | S&P Global Manufacturing PMI (Dec) | 51.8 | 51.8 | 52.2 |

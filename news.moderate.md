@@ -10,5 +10,4 @@
 | 08:55 | EUR | HCOB Germany Manufacturing PMI (Dec) | 47.0 | 47.7 | 48.2 |
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Dec) | 48.8 | 49.2 | 49.6 |
 | 09:30 | GBP | S&P Global Manufacturing PMI (Dec) | 50.6 | 51.2 | 51.2 |
-| 52 min | USD | Construction Spending (MoM) (Oct) |  | -0.1% | 0.2% |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,557B |

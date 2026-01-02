@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Dec) | 50.1 |  | 49.4 |
 | 00:30 | SGD | Low | URA Property Index (QoQ) (Q4) | 0.70% |  | 0.90% |
-| 00:30 | SGD | Low | GDP (QoQ) (Q4) | 1.9% |  | 2.4% |
 | 00:30 | SGD | Low | GDP (YoY) (Q4) | 5.7% |  | 4.3% |
+| 00:30 | SGD | Low | GDP (QoQ) (Q4) | 1.9% |  | 2.4% |
 | 00:30 | IDR | Low | S&P Global Manufacturing PMI (Dec) | 51.2 |  | 53.3 |
 | 05:00 | INR | Low | S&P Global Manufacturing PMI (Dec) | 55.0 | 55.7 | 56.6 |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Dec) | -0.4% | 0.1% | 0.3% |
@@ -15,8 +15,8 @@
 | 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Dec) | 47.9 | 50.0 | 50.6 |
 | 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (Dec) | 50.7 | 50.6 | 47.8 |
 | 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Dec) | 47.0 | 47.7 | 48.2 |
-| 09:00 | EUR | Low | M3 Money Supply (Nov) | 17,189.3B |  | 17,085.8B |
 | 09:00 | EUR | Low | M3 Money Supply (YoY) (Nov) | 3.0% | 2.7% | 2.8% |
+| 09:00 | EUR | Low | M3 Money Supply (Nov) | 17,189.3B |  | 17,085.8B |
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Dec) | 48.8 | 49.2 | 49.6 |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Nov) | 3.1% |  | 2.9% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) (Nov) | 2.9% | 2.8% | 2.8% |
@@ -28,10 +28,9 @@
 | 12:00 | INR | Low | Deposit Growth | 9.4% |  | 10.2% |
 | 13:00 | BRL | Low | S&P Global Manufacturing PMI (Dec) | 47.6 |  | 48.8 |
 | 13:00 | SGD | Low | S&P Global Manufacturing PMI (Dec) | 50.3 |  | 50.2 |
-| 22 min | CAD | Low | S&P Global Manufacturing PMI (Dec) |  |  | 48.4 |
-| 37 min | USD | High | S&P Global Manufacturing PMI (Dec) |  | 51.8 | 52.2 |
-| 52 min | USD | Moderate | Construction Spending (MoM) (Oct) |  | -0.1% | 0.2% |
-| 52 min | MXN | Low | S&P Global Manufacturing PMI (Dec) |  |  | 47.30 |
+| 14:30 | CAD | Low | S&P Global Manufacturing PMI (Dec) | 48.6 |  | 48.4 |
+| 14:45 | USD | High | S&P Global Manufacturing PMI (Dec) | 51.8 | 51.8 | 52.2 |
+| 15:00 | MXN | Low | S&P Global Manufacturing PMI (Dec) | 46.10 |  | 47.30 |
 | 17:00 | EUR | Low | Italian Car Registration (YoY) (Dec) |  |  | 0.0% |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -6.472B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,557B |
