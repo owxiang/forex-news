@@ -13,9 +13,9 @@
 | 09:00 | EUR | M3 Money Supply (YoY) (Nov) | 3.0% | 2.7% | 2.8% |
 | 09:00 | EUR | Loans to Non Financial Corporations (Nov) | 3.1% |  | 2.9% |
 | 09:00 | EUR | Private Sector Loans (YoY) (Nov) | 2.9% | 2.8% | 2.8% |
-| 11:30 | INR | Bank Loan Growth |  |  | 11.5% |
-| 11:30 | INR | Deposit Growth |  |  | 10.2% |
-| 11:30 | INR | FX Reserves, USD |  |  | 693.32B |
+| 24 min | INR | Bank Loan Growth |  |  | 11.5% |
+| 24 min | INR | Deposit Growth |  |  | 10.2% |
+| 24 min | INR | FX Reserves, USD |  |  | 693.32B |
 | 13:00 | EUR | Car Registration (MoM) (Dec) |  |  | -2.70% |
 | 13:00 | EUR | Car Registration (YoY) (Dec) |  |  | 12.90% |
 | 13:00 | BRL | S&P Global Manufacturing PMI (Dec) |  |  | 48.8 |

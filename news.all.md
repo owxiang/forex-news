@@ -21,9 +21,9 @@
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Nov) | 3.1% |  | 2.9% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) (Nov) | 2.9% | 2.8% | 2.8% |
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Dec) | 50.6 | 51.2 | 51.2 |
-| 11:30 | INR | Low | Bank Loan Growth |  |  | 11.5% |
-| 11:30 | INR | Low | Deposit Growth |  |  | 10.2% |
-| 11:30 | INR | Low | FX Reserves, USD |  |  | 693.32B |
+| 24 min | INR | Low | Bank Loan Growth |  |  | 11.5% |
+| 24 min | INR | Low | Deposit Growth |  |  | 10.2% |
+| 24 min | INR | Low | FX Reserves, USD |  |  | 693.32B |
 | 13:00 | EUR | Low | Car Registration (MoM) (Dec) |  |  | -2.70% |
 | 13:00 | EUR | Low | Car Registration (YoY) (Dec) |  |  | 12.90% |
 | 13:00 | BRL | Low | S&P Global Manufacturing PMI (Dec) |  |  | 48.8 |
