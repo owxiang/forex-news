@@ -18,8 +18,8 @@
 | 11:30 | INR | FX Reserves, USD | 696.61B |  | 693.32B |
 | 12:00 | INR | Bank Loan Growth | 12.0% |  | 11.5% |
 | 12:00 | INR | Deposit Growth | 9.4% |  | 10.2% |
-| 48 min | BRL | S&P Global Manufacturing PMI (Dec) |  |  | 48.8 |
-| 48 min | SGD | S&P Global Manufacturing PMI (Dec) |  |  | 50.2 |
+| 13:00 | BRL | S&P Global Manufacturing PMI (Dec) | 47.6 |  | 48.8 |
+| 13:00 | SGD | S&P Global Manufacturing PMI (Dec) | 50.3 |  | 50.2 |
 | 14:30 | CAD | S&P Global Manufacturing PMI (Dec) |  |  | 48.4 |
 | 15:00 | MXN | S&P Global Manufacturing PMI (Dec) |  |  | 47.30 |
 | 17:00 | EUR | Italian Car Registration (YoY) (Dec) |  |  | 0.0% |

@@ -26,8 +26,8 @@
 | 11:30 | INR | Low | FX Reserves, USD | 696.61B |  | 693.32B |
 | 12:00 | INR | Low | Bank Loan Growth | 12.0% |  | 11.5% |
 | 12:00 | INR | Low | Deposit Growth | 9.4% |  | 10.2% |
-| 48 min | BRL | Low | S&P Global Manufacturing PMI (Dec) |  |  | 48.8 |
-| 48 min | SGD | Low | S&P Global Manufacturing PMI (Dec) |  |  | 50.2 |
+| 13:00 | BRL | Low | S&P Global Manufacturing PMI (Dec) | 47.6 |  | 48.8 |
+| 13:00 | SGD | Low | S&P Global Manufacturing PMI (Dec) | 50.3 |  | 50.2 |
 | 14:30 | CAD | Low | S&P Global Manufacturing PMI (Dec) |  |  | 48.4 |
 | 14:45 | USD | High | S&P Global Manufacturing PMI (Dec) |  | 51.8 | 52.2 |
 | 15:00 | USD | Moderate | Construction Spending (MoM) (Oct) |  | -0.1% | 0.2% |
