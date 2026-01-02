@@ -2,14 +2,14 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | SGD | Low | GDP (QoQ) (Q4) | 1.9% |  | 2.4% |
-| 00:00 | SGD | Low | GDP (YoY) (Q4) | 5.7% |  | 4.3% |
 | 00:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Dec) | 50.1 |  | 49.4 |
 | 00:30 | SGD | Low | URA Property Index (QoQ) (Q4) | 0.70% |  | 0.90% |
+| 00:30 | SGD | Low | GDP (YoY) (Q4) | 5.7% |  | 4.3% |
+| 00:30 | SGD | Low | GDP (QoQ) (Q4) | 1.9% |  | 2.4% |
 | 00:30 | IDR | Low | S&P Global Manufacturing PMI (Dec) | 51.2 |  | 53.3 |
 | 05:00 | INR | Low | S&P Global Manufacturing PMI (Dec) | 55.0 | 55.7 | 56.6 |
-| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Dec) |  | 0.1% | 0.3% |
-| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Dec) |  | 1.2% | 1.8% |
+| 48 min | GBP | Moderate | Nationwide HPI (MoM) (Dec) |  | 0.1% | 0.3% |
+| 48 min | GBP | Moderate | Nationwide HPI (YoY) (Dec) |  | 1.2% | 1.8% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Dec) |  | 51.2 | 51.5 |
 | 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (Dec) |  |  | 49.7 |
 | 08:30 | HKD | Low | Retail Sales (YoY) (Nov) |  |  | 6.9% |

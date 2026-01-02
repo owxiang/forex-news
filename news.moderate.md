@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | GBP | Nationwide HPI (MoM) (Dec) |  | 0.1% | 0.3% |
-| 07:00 | GBP | Nationwide HPI (YoY) (Dec) |  | 1.2% | 1.8% |
+| 48 min | GBP | Nationwide HPI (MoM) (Dec) |  | 0.1% | 0.3% |
+| 48 min | GBP | Nationwide HPI (YoY) (Dec) |  | 1.2% | 1.8% |
 | 08:15 | EUR | HCOB Spain Manufacturing PMI (Dec) |  | 51.2 | 51.5 |
 | 08:30 | CHF | procure.ch Manufacturing PMI (Dec) |  |  | 49.7 |
 | 08:45 | EUR | HCOB Italy Manufacturing PMI (Dec) |  | 50.0 | 50.6 |
