@@ -22,6 +22,6 @@
 | 13:00 | SGD | S&P Global Manufacturing PMI (Dec) | 50.3 |  | 50.2 |
 | 14:30 | CAD | S&P Global Manufacturing PMI (Dec) | 48.6 |  | 48.4 |
 | 15:00 | MXN | S&P Global Manufacturing PMI (Dec) | 46.10 |  | 47.30 |
-| 17:00 | EUR | Italian Car Registration (YoY) (Dec) |  |  | 0.0% |
+| 52 min | EUR | Italian Car Registration (YoY) (Dec) |  |  | 0.0% |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | -6.472B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.934T |
