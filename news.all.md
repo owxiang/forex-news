@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | SGD | Low | GDP (QoQ) (Q4) | 7.8% |  | 9.8% |
+| 00:00 | SGD | Low | GDP (QoQ) (Q4) | 1.9% |  | 2.4% |
 | 00:00 | SGD | Low | GDP (YoY) (Q4) | 5.7% |  | 4.3% |
 | 00:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Dec) | 50.1 |  | 49.4 |
 | 00:30 | SGD | Low | URA Property Index (QoQ) (Q4) | 0.70% |  | 0.90% |
