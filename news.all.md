@@ -32,5 +32,5 @@
 | 14:45 | USD | High | S&P Global Manufacturing PMI (Dec) | 51.8 | 51.8 | 52.2 |
 | 15:00 | MXN | Low | S&P Global Manufacturing PMI (Dec) | 46.10 |  | 47.30 |
 | 17:30 | BRL | Low | Foreign Exchange Flows | -5.047B |  | -6.472B |
-| 24 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,557B |
-| 24 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.934T |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,641B |  | 6,557B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 2.853T |  | 2.934T |
