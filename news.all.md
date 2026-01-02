@@ -10,18 +10,18 @@
 | 05:00 | INR | Low | S&P Global Manufacturing PMI (Dec) | 55.0 | 55.7 | 56.6 |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Dec) | -0.4% | 0.1% | 0.3% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Dec) | 0.6% | 1.2% | 1.8% |
-| 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Dec) |  | 51.2 | 51.5 |
-| 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (Dec) |  |  | 49.7 |
-| 08:30 | HKD | Low | Retail Sales (YoY) (Nov) |  |  | 6.9% |
-| 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Dec) |  | 50.0 | 50.6 |
-| 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (Dec) |  | 50.6 | 47.8 |
-| 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Dec) |  | 47.7 | 48.2 |
-| 09:00 | NOK | Low | Manufacturing PMI (Dec) |  |  | 53.0 |
-| 09:00 | EUR | Low | M3 Money Supply (YoY) (Nov) |  | 2.7% | 2.8% |
-| 09:00 | EUR | Low | M3 Money Supply (Nov) |  |  | 17,085.8B |
-| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Dec) |  | 49.2 | 49.6 |
-| 09:00 | EUR | Low | Loans to Non Financial Corporations (Nov) |  |  | 2.9% |
-| 09:00 | EUR | Low | Private Sector Loans (YoY) (Nov) |  | 2.8% | 2.8% |
+| 4 min | EUR | Moderate | HCOB Spain Manufacturing PMI (Dec) |  | 51.2 | 51.5 |
+| 19 min | CHF | Moderate | procure.ch Manufacturing PMI (Dec) |  |  | 49.7 |
+| 19 min | HKD | Low | Retail Sales (YoY) (Nov) |  |  | 6.9% |
+| 34 min | EUR | Moderate | HCOB Italy Manufacturing PMI (Dec) |  | 50.0 | 50.6 |
+| 39 min | EUR | Moderate | HCOB France Manufacturing PMI (Dec) |  | 50.6 | 47.8 |
+| 44 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Dec) |  | 47.7 | 48.2 |
+| 49 min | NOK | Low | Manufacturing PMI (Dec) |  |  | 53.0 |
+| 49 min | EUR | Low | M3 Money Supply (YoY) (Nov) |  | 2.7% | 2.8% |
+| 49 min | EUR | Low | M3 Money Supply (Nov) |  |  | 17,085.8B |
+| 49 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Dec) |  | 49.2 | 49.6 |
+| 49 min | EUR | Low | Loans to Non Financial Corporations (Nov) |  |  | 2.9% |
+| 49 min | EUR | Low | Private Sector Loans (YoY) (Nov) |  | 2.8% | 2.8% |
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Dec) |  | 51.2 | 51.2 |
 | 11:00 | EUR | Low | Car Registration (MoM) (Dec) |  |  | -2.70% |
 | 11:00 | EUR | Low | Car Registration (YoY) (Dec) |  |  | 12.90% |
