@@ -2,4 +2,5 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
+| 10:00 | USD | Moderate | OPEC Meeting |  |  |  |
 | 17:30 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
