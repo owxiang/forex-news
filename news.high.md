@@ -1,3 +1,6 @@
-## 04 January 2026 - High Impact Forex News
+## 05 January 2026 - High Impact Forex News
 
-There is no high impact news today.
+| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 15:00 | USD | ISM Manufacturing PMI (Dec) |  | 48.3 | 48.2 |
+| 15:00 | USD | ISM Manufacturing Prices (Dec) |  | 59.0 | 58.5 |
