@@ -34,8 +34,7 @@
 | 16:30 | USD | Low | 3-Month Bill Auction | 3.540% |  | 3.570% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 3.475% |  | 3.500% |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 2.7% | 3.0% | 3.0% |
-| 51 min | BRL | Low | Trade Balance (Dec) |  | 6.39B | 5.84B |
-| 19:00 | USD | Low | Total Vehicle Sales (Dec) |  | 15.70M | 15.60M |
+| 48 min | USD | Low | Total Vehicle Sales (Dec) |  | 15.70M | 15.60M |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -41.2K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -2.4K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 67.1K |
