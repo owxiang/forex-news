@@ -10,20 +10,18 @@
 | 04:00 | IDR | Low | Inflation (YoY) (Dec) | 2.92% | 2.73% | 2.72% |
 | 04:00 | IDR | Low | Inflation (MoM) (Dec) | 0.64% |  | 0.17% |
 | 04:00 | IDR | Low | Trade Balance (Nov) | 2.66B | 3.10B | 2.40B |
-| 05:00 | SGD | Low | Retail Sales (MoM) (Nov) | 0.0% |  | 2.3% |
 | 05:00 | SGD | Low | Retail Sales (YoY) (Nov) | 6.3% |  | 4.4% |
+| 05:00 | SGD | Low | Retail Sales (MoM) (Nov) | 0.0% |  | 2.3% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Nov) | 2.3% | 2.5% | 2.2% |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change (Dec) | -16.3K | 5.7K | -18.8K |
-| 18 min | CHF | Moderate | procure.ch Manufacturing PMI (Dec) |  | 49.9 | 49.7 |
-| 48 min | EUR | Low | Baden Wuerttemberg CPI (MoM) (Dec) |  |  | -0.3% |
-| 48 min | EUR | Low | Baden Wuerttemberg CPI (YoY) (Dec) |  |  | 2.3% |
-| 09:30 | GBP | Low | BoE Consumer Credit (Nov) |  |  | 1.119B |
-| 09:30 | GBP | Low | M3 Money Supply (Nov) |  |  | 3,174.2B |
-| 09:30 | GBP | Low | M4 Money Supply (MoM) (Nov) |  | -0.1% | -0.2% |
-| 09:30 | GBP | Low | Mortgage Approvals (Nov) |  | 64.00K | 65.02K |
-| 09:30 | GBP | Low | Mortgage Lending (Nov) |  | 4.80B | 4.27B |
-| 09:30 | GBP | Low | Net Lending to Individuals (Nov) |  | 5.200B | 5.400B |
-| 09:30 | EUR | Low | Sentix Investor Confidence (Jan) |  |  | -6.2 |
+| 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (Dec) | 45.8 | 49.9 | 49.7 |
+| 17 min | GBP | Low | BoE Consumer Credit (Nov) |  |  | 1.119B |
+| 17 min | GBP | Low | M3 Money Supply (Nov) |  |  | 3,174.2B |
+| 17 min | GBP | Low | M4 Money Supply (MoM) (Nov) |  | -0.1% | -0.2% |
+| 17 min | GBP | Low | Mortgage Approvals (Nov) |  | 64.00K | 65.02K |
+| 17 min | GBP | Low | Mortgage Lending (Nov) |  | 4.80B | 4.27B |
+| 17 min | GBP | Low | Net Lending to Individuals (Nov) |  | 5.200B | 5.400B |
+| 17 min | EUR | Low | Sentix Investor Confidence (Jan) |  |  | -6.2 |
 | 11:00 | USD | Moderate | Construction Spending (MoM) (Oct) |  | -0.1% | 0.2% |
 | 11:00 | EUR | Low | Italian Car Registration (YoY) (Dec) |  |  | 0.0% |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |

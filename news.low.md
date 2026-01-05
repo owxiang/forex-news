@@ -9,18 +9,16 @@
 | 04:00 | IDR | Inflation (YoY) (Dec) | 2.92% | 2.73% | 2.72% |
 | 04:00 | IDR | Inflation (MoM) (Dec) | 0.64% |  | 0.17% |
 | 04:00 | IDR | Trade Balance (Nov) | 2.66B | 3.10B | 2.40B |
-| 05:00 | SGD | Retail Sales (MoM) (Nov) | 0.0% |  | 2.3% |
 | 05:00 | SGD | Retail Sales (YoY) (Nov) | 6.3% |  | 4.4% |
+| 05:00 | SGD | Retail Sales (MoM) (Nov) | 0.0% |  | 2.3% |
 | 07:30 | CHF | Retail Sales (YoY) (Nov) | 2.3% | 2.5% | 2.2% |
-| 48 min | EUR | Baden Wuerttemberg CPI (MoM) (Dec) |  |  | -0.3% |
-| 48 min | EUR | Baden Wuerttemberg CPI (YoY) (Dec) |  |  | 2.3% |
-| 09:30 | GBP | BoE Consumer Credit (Nov) |  |  | 1.119B |
-| 09:30 | GBP | M3 Money Supply (Nov) |  |  | 3,174.2B |
-| 09:30 | GBP | M4 Money Supply (MoM) (Nov) |  | -0.1% | -0.2% |
-| 09:30 | GBP | Mortgage Approvals (Nov) |  | 64.00K | 65.02K |
-| 09:30 | GBP | Mortgage Lending (Nov) |  | 4.80B | 4.27B |
-| 09:30 | GBP | Net Lending to Individuals (Nov) |  | 5.200B | 5.400B |
-| 09:30 | EUR | Sentix Investor Confidence (Jan) |  |  | -6.2 |
+| 17 min | GBP | BoE Consumer Credit (Nov) |  |  | 1.119B |
+| 17 min | GBP | M3 Money Supply (Nov) |  |  | 3,174.2B |
+| 17 min | GBP | M4 Money Supply (MoM) (Nov) |  | -0.1% | -0.2% |
+| 17 min | GBP | Mortgage Approvals (Nov) |  | 64.00K | 65.02K |
+| 17 min | GBP | Mortgage Lending (Nov) |  | 4.80B | 4.27B |
+| 17 min | GBP | Net Lending to Individuals (Nov) |  | 5.200B | 5.400B |
+| 17 min | EUR | Sentix Investor Confidence (Jan) |  |  | -6.2 |
 | 11:00 | EUR | Italian Car Registration (YoY) (Dec) |  |  | 0.0% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.146% |

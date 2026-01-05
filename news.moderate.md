@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 01:45 | CNY | Caixin Services PMI (Dec) | 52.0 | 52.0 | 52.1 |
 | 08:00 | EUR | Spanish Unemployment Change (Dec) | -16.3K | 5.7K | -18.8K |
-| 18 min | CHF | procure.ch Manufacturing PMI (Dec) |  | 49.9 | 49.7 |
+| 08:30 | CHF | procure.ch Manufacturing PMI (Dec) | 45.8 | 49.9 | 49.7 |
 | 11:00 | USD | Construction Spending (MoM) (Oct) |  | -0.1% | 0.2% |
 | 15:00 | USD | ISM Manufacturing Employment (Dec) |  |  | 44.0 |
 | 17:00 | USD | Atlanta Fed GDPNow (Q4) |  | 3.0% | 3.0% |
