@@ -27,7 +27,7 @@
 | 15:30 | EUR | Italian Car Registration (YoY) (Dec) | 2.2% |  | 0.0% |
 | 16:30 | USD | 3-Month Bill Auction | 3.540% |  | 3.570% |
 | 16:30 | USD | 6-Month Bill Auction | 3.475% |  | 3.500% |
-| 48 min | USD | Total Vehicle Sales (Dec) |  | 15.70M | 15.60M |
+| 19:00 | USD | Total Vehicle Sales (Dec) |  | 15.70M | 15.60M |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -2.4K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 67.1K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 64.9K |
