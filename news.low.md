@@ -27,19 +27,18 @@
 | 15:30 | EUR | Italian Car Registration (YoY) (Dec) | 2.2% |  | 0.0% |
 | 16:30 | USD | 3-Month Bill Auction | 3.540% |  | 3.570% |
 | 16:30 | USD | 6-Month Bill Auction | 3.475% |  | 3.500% |
-| 19:00 | USD | Total Vehicle Sales (Dec) |  | 15.70M | 15.60M |
-| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -2.4K |
-| 20:30 | USD | CFTC Copper speculative net positions |  |  | 67.1K |
-| 20:30 | USD | CFTC Corn speculative net positions |  |  | 64.9K |
-| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -156.3K |
-| 20:30 | USD | CFTC Silver speculative net positions |  |  | 35.9K |
-| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 157.8K |
-| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -71.8K |
-| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -55.8K |
-| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 101.2K |
-| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -44.0K |
-| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -44.0K |
-| 21:00 | KRW | FX Reserves - USD (Dec) |  |  | 430.66B |
+| 20 min | USD | CFTC Aluminium speculative net positions |  |  | -2.4K |
+| 20 min | USD | CFTC Copper speculative net positions |  |  | 67.1K |
+| 20 min | USD | CFTC Corn speculative net positions |  |  | 64.9K |
+| 20 min | USD | CFTC Natural Gas speculative net positions |  |  | -156.3K |
+| 20 min | USD | CFTC Silver speculative net positions |  |  | 35.9K |
+| 20 min | USD | CFTC Soybeans speculative net positions |  |  | 157.8K |
+| 20 min | USD | CFTC Wheat speculative net positions |  |  | -71.8K |
+| 20 min | CAD | CFTC CAD speculative net positions |  |  | -55.8K |
+| 20 min | MXN | CFTC MXN speculative net positions |  |  | 101.2K |
+| 20 min | CHF | CFTC CHF speculative net positions |  |  | -44.0K |
+| 20 min | NZD | CFTC NZD speculative net positions |  |  | -44.0K |
+| 50 min | KRW | FX Reserves - USD (Dec) |  |  | 430.66B |
 | 22:00 | AUD | Manufacturing & Services PMI (Dec) |  | 51.10 | 52.60 |
 | 22:00 | AUD | Judo Bank Services PMI (Dec) |  | 51.0 | 52.8 |
 | 23:50 | JPY | Foreign Reserves (USD) (Dec) |  |  | 1,359.4B |
