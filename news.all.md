@@ -12,9 +12,9 @@
 | 04:00 | IDR | Low | Trade Balance (Nov) | 2.66B | 3.10B | 2.40B |
 | 05:00 | SGD | Low | Retail Sales (MoM) (Nov) | 0.0% |  | 2.3% |
 | 05:00 | SGD | Low | Retail Sales (YoY) (Nov) | 6.3% |  | 4.4% |
-| 07:30 | CHF | Moderate | procure.ch Manufacturing PMI (Dec) |  | 49.9 | 49.7 |
-| 07:30 | CHF | Low | Retail Sales (YoY) (Nov) |  | 2.5% | 2.7% |
-| 08:00 | EUR | Moderate | Spanish Unemployment Change (Dec) |  | 5.7K | -18.8K |
+| 16 min | CHF | Low | Retail Sales (YoY) (Nov) |  | 2.5% | 2.7% |
+| 46 min | EUR | Moderate | Spanish Unemployment Change (Dec) |  | 5.7K | -18.8K |
+| 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (Dec) |  | 49.9 | 49.7 |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Dec) |  |  | -0.3% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Dec) |  |  | 2.3% |
 | 09:30 | GBP | Low | BoE Consumer Credit (Nov) |  |  | 1.119B |
