@@ -3,14 +3,14 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | au Jibun Bank Manufacturing PMI (Dec) | 50.0 | 49.7 | 48.7 |
-| 04:00 | IDR | Core Inflation (YoY) (Dec) |  | 2.40% | 2.36% |
+| 04:00 | IDR | Core Inflation (YoY) (Dec) | 2.38% | 2.40% | 2.36% |
 | 04:00 | IDR | Export Growth (YoY) (Nov) | -6.60% | -0.50% | -2.31% |
 | 04:00 | IDR | Import Growth (YoY) (Nov) | 0.46% | 3.20% | -1.15% |
 | 04:00 | IDR | Inflation (YoY) (Dec) | 2.92% | 2.73% | 2.72% |
 | 04:00 | IDR | Inflation (MoM) (Dec) | 0.64% |  | 0.17% |
 | 04:00 | IDR | Trade Balance (Nov) | 2.66B | 3.10B | 2.40B |
-| 30 min | SGD | Retail Sales (MoM) (Nov) |  |  | 2.3% |
-| 30 min | SGD | Retail Sales (YoY) (Nov) |  |  | 4.5% |
+| 05:00 | SGD | Retail Sales (MoM) (Nov) | 0.0% |  | 2.3% |
+| 05:00 | SGD | Retail Sales (YoY) (Nov) | 6.3% |  | 4.4% |
 | 07:30 | CHF | Retail Sales (YoY) (Nov) |  | 2.5% | 2.7% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Dec) |  |  | -0.3% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Dec) |  |  | 2.3% |

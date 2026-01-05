@@ -4,14 +4,14 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Dec) | 50.0 | 49.7 | 48.7 |
 | 01:45 | CNY | Moderate | Caixin Services PMI (Dec) | 52.0 | 52.0 | 52.1 |
-| 04:00 | IDR | Low | Core Inflation (YoY) (Dec) |  | 2.40% | 2.36% |
+| 04:00 | IDR | Low | Core Inflation (YoY) (Dec) | 2.38% | 2.40% | 2.36% |
 | 04:00 | IDR | Low | Export Growth (YoY) (Nov) | -6.60% | -0.50% | -2.31% |
 | 04:00 | IDR | Low | Import Growth (YoY) (Nov) | 0.46% | 3.20% | -1.15% |
 | 04:00 | IDR | Low | Inflation (YoY) (Dec) | 2.92% | 2.73% | 2.72% |
 | 04:00 | IDR | Low | Inflation (MoM) (Dec) | 0.64% |  | 0.17% |
 | 04:00 | IDR | Low | Trade Balance (Nov) | 2.66B | 3.10B | 2.40B |
-| 30 min | SGD | Low | Retail Sales (MoM) (Nov) |  |  | 2.3% |
-| 30 min | SGD | Low | Retail Sales (YoY) (Nov) |  |  | 4.5% |
+| 05:00 | SGD | Low | Retail Sales (MoM) (Nov) | 0.0% |  | 2.3% |
+| 05:00 | SGD | Low | Retail Sales (YoY) (Nov) | 6.3% |  | 4.4% |
 | 07:30 | CHF | Moderate | procure.ch Manufacturing PMI (Dec) |  | 49.9 | 49.7 |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Nov) |  | 2.5% | 2.7% |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change (Dec) |  |  | -18.8K |
