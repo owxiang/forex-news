@@ -11,9 +11,9 @@
 | 04:00 | IDR | Trade Balance (Nov) | 2.66B | 3.10B | 2.40B |
 | 05:00 | SGD | Retail Sales (MoM) (Nov) | 0.0% |  | 2.3% |
 | 05:00 | SGD | Retail Sales (YoY) (Nov) | 6.3% |  | 4.4% |
-| 16 min | CHF | Retail Sales (YoY) (Nov) |  | 2.5% | 2.7% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Dec) |  |  | -0.3% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Dec) |  |  | 2.3% |
+| 07:30 | CHF | Retail Sales (YoY) (Nov) | 2.3% | 2.5% | 2.2% |
+| 48 min | EUR | Baden Wuerttemberg CPI (MoM) (Dec) |  |  | -0.3% |
+| 48 min | EUR | Baden Wuerttemberg CPI (YoY) (Dec) |  |  | 2.3% |
 | 09:30 | GBP | BoE Consumer Credit (Nov) |  |  | 1.119B |
 | 09:30 | GBP | M3 Money Supply (Nov) |  |  | 3,174.2B |
 | 09:30 | GBP | M4 Money Supply (MoM) (Nov) |  | -0.1% | -0.2% |
