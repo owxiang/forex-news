@@ -10,20 +10,17 @@
 | 04:00 | IDR | Low | Inflation (YoY) (Dec) | 2.92% | 2.73% | 2.72% |
 | 04:00 | IDR | Low | Inflation (MoM) (Dec) | 0.64% |  | 0.17% |
 | 04:00 | IDR | Low | Trade Balance (Nov) | 2.66B | 3.10B | 2.40B |
-| 05:00 | SGD | Low | Retail Sales (YoY) (Nov) | 6.3% |  | 4.4% |
 | 05:00 | SGD | Low | Retail Sales (MoM) (Nov) | 0.0% |  | 2.3% |
+| 05:00 | SGD | Low | Retail Sales (YoY) (Nov) | 6.3% |  | 4.4% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Nov) | 2.3% | 2.5% | 2.2% |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change (Dec) | -16.3K | 5.7K | -18.8K |
 | 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (Dec) | 45.8 | 49.9 | 49.7 |
-| 17 min | GBP | Low | BoE Consumer Credit (Nov) |  |  | 1.119B |
-| 17 min | GBP | Low | M3 Money Supply (Nov) |  |  | 3,174.2B |
-| 17 min | GBP | Low | M4 Money Supply (MoM) (Nov) |  | -0.1% | -0.2% |
-| 17 min | GBP | Low | Mortgage Approvals (Nov) |  | 64.00K | 65.02K |
-| 17 min | GBP | Low | Mortgage Lending (Nov) |  | 4.80B | 4.27B |
-| 17 min | GBP | Low | Net Lending to Individuals (Nov) |  | 5.200B | 5.400B |
-| 17 min | EUR | Low | Sentix Investor Confidence (Jan) |  |  | -6.2 |
-| 11:00 | USD | Moderate | Construction Spending (MoM) (Oct) |  | -0.1% | 0.2% |
-| 11:00 | EUR | Low | Italian Car Registration (YoY) (Dec) |  |  | 0.0% |
+| 09:30 | GBP | Low | BoE Consumer Credit (Nov) | 2.077B |  | 1.713B |
+| 09:30 | GBP | Low | M3 Money Supply (Nov) | 3,200.7B |  | 3,176.2B |
+| 09:30 | GBP | Low | M4 Money Supply (MoM) (Nov) | 0.8% | -0.1% | -0.2% |
+| 09:30 | GBP | Low | Mortgage Approvals (Nov) | 64.53K | 64.00K | 65.01K |
+| 09:30 | GBP | Low | Mortgage Lending (Nov) | 4.49B | 4.80B | 4.16B |
+| 09:30 | GBP | Low | Net Lending to Individuals (Nov) | 6.600B | 5.200B | 5.400B |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.146% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.079% |
@@ -35,12 +32,14 @@
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.570% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.500% |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 3.0% | 3.0% |
+| 17:00 | EUR | Low | Italian Car Registration (YoY) (Dec) |  |  | 0.0% |
 | 17:00 | EUR | Low | French Car Registration (YoY) (Dec) |  |  | -0.3% |
 | 18:00 | BRL | Low | Trade Balance (Dec) |  | 6.39B | 5.84B |
 | 19:00 | USD | Low | Total Vehicle Sales (Dec) |  | 15.70M | 15.60M |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -41.2K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -2.4K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 67.1K |
+| 20:30 | USD | Low | CFTC Corn speculative net positions |  |  | 64.9K |
 | 20:30 | USD | Moderate | CFTC Crude Oil speculative net positions |  |  | 64.9K |
 | 20:30 | USD | Moderate | CFTC Gold speculative net positions |  |  | 240.7K |
 | 20:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions |  |  | 31.8K |
