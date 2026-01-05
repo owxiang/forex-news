@@ -55,7 +55,7 @@
 | 20:30 | NZD | Low | CFTC NZD speculative net positions |  |  | -44.0K |
 | 20:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | 159.9K |
 | 21:00 | KRW | Low | FX Reserves - USD (Dec) | 428.05B |  | 430.66B |
-| 52 min | AUD | Low | Manufacturing & Services PMI (Dec) |  | 51.10 | 52.60 |
-| 52 min | AUD | Low | Judo Bank Services PMI (Dec) |  | 51.0 | 52.8 |
+| 22:00 | AUD | Low | Manufacturing & Services PMI (Dec) | 51.00 | 51.10 | 52.60 |
+| 22:00 | AUD | Low | Judo Bank Services PMI (Dec) | 51.1 | 51.0 | 52.8 |
 | 23:50 | JPY | Low | Foreign Reserves (USD) (Dec) |  |  | 1,359.4B |
 | 23:50 | JPY | Low | Monetary Base (YoY) (Dec) |  | -8.0% | -8.7% |
