@@ -14,7 +14,7 @@
 | 05:00 | SGD | Low | Retail Sales (YoY) (Nov) | 6.3% |  | 4.4% |
 | 07:30 | CHF | Moderate | procure.ch Manufacturing PMI (Dec) |  | 49.9 | 49.7 |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Nov) |  | 2.5% | 2.7% |
-| 08:00 | EUR | Moderate | Spanish Unemployment Change (Dec) |  |  | -18.8K |
+| 08:00 | EUR | Moderate | Spanish Unemployment Change (Dec) |  | 5.7K | -18.8K |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Dec) |  |  | -0.3% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Dec) |  |  | 2.3% |
 | 09:30 | GBP | Low | BoE Consumer Credit (Nov) |  |  | 1.119B |
@@ -60,7 +60,7 @@
 | 20:30 | NZD | Low | CFTC NZD speculative net positions |  |  | -44.0K |
 | 20:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | 159.9K |
 | 21:00 | KRW | Low | FX Reserves - USD (Dec) |  |  | 430.66B |
-| 22:00 | AUD | Low | Manufacturing & Services PMI (Dec) |  | 51.10 | 51.10 |
-| 22:00 | AUD | Low | Judo Bank Services PMI (Dec) |  | 51.0 | 51.0 |
+| 22:00 | AUD | Low | Manufacturing & Services PMI (Dec) |  | 51.10 | 52.60 |
+| 22:00 | AUD | Low | Judo Bank Services PMI (Dec) |  | 51.0 | 52.8 |
 | 23:50 | JPY | Low | Foreign Reserves (USD) (Dec) |  |  | 1,359.4B |
 | 23:50 | JPY | Low | Monetary Base (YoY) (Dec) |  | -8.0% | -8.7% |
