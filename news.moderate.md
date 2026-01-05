@@ -6,7 +6,7 @@
 | 08:00 | EUR | Spanish Unemployment Change (Dec) | -16.3K | 5.7K | -18.8K |
 | 08:30 | CHF | procure.ch Manufacturing PMI (Dec) | 45.8 | 49.9 | 49.7 |
 | 15:00 | USD | ISM Manufacturing Employment (Dec) | 44.9 |  | 44.0 |
-| 17:00 | USD | Atlanta Fed GDPNow (Q4) |  | 3.0% | 3.0% |
+| 51 min | USD | Atlanta Fed GDPNow (Q4) |  | 3.0% | 3.0% |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -41.2K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 64.9K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 240.7K |

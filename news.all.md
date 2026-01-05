@@ -29,11 +29,11 @@
 | 15:00 | USD | Low | ISM Manufacturing New Orders Index (Dec) | 47.7 |  | 47.4 |
 | 15:00 | USD | High | ISM Manufacturing PMI (Dec) | 47.9 | 48.3 | 48.2 |
 | 15:00 | USD | High | ISM Manufacturing Prices (Dec) | 58.5 | 59.0 | 58.5 |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.570% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.500% |
-| 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 3.0% | 3.0% |
-| 17:00 | EUR | Low | Italian Car Registration (YoY) (Dec) |  |  | 0.0% |
-| 17:00 | EUR | Low | French Car Registration (YoY) (Dec) |  |  | -0.3% |
+| 21 min | USD | Low | 3-Month Bill Auction |  |  | 3.570% |
+| 21 min | USD | Low | 6-Month Bill Auction |  |  | 3.500% |
+| 51 min | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 3.0% | 3.0% |
+| 51 min | EUR | Low | Italian Car Registration (YoY) (Dec) |  |  | 0.0% |
+| 51 min | EUR | Low | French Car Registration (YoY) (Dec) |  |  | -0.3% |
 | 18:00 | BRL | Low | Trade Balance (Dec) |  | 6.39B | 5.84B |
 | 19:00 | USD | Low | Total Vehicle Sales (Dec) |  | 15.70M | 15.60M |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -41.2K |

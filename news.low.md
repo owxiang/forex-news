@@ -23,10 +23,10 @@
 | 14:00 | EUR | French 3-Month BTF Auction | 2.043% |  | 2.079% |
 | 14:00 | EUR | French 6-Month BTF Auction | 2.060% |  | 2.117% |
 | 15:00 | USD | ISM Manufacturing New Orders Index (Dec) | 47.7 |  | 47.4 |
-| 16:30 | USD | 3-Month Bill Auction |  |  | 3.570% |
-| 16:30 | USD | 6-Month Bill Auction |  |  | 3.500% |
-| 17:00 | EUR | Italian Car Registration (YoY) (Dec) |  |  | 0.0% |
-| 17:00 | EUR | French Car Registration (YoY) (Dec) |  |  | -0.3% |
+| 21 min | USD | 3-Month Bill Auction |  |  | 3.570% |
+| 21 min | USD | 6-Month Bill Auction |  |  | 3.500% |
+| 51 min | EUR | Italian Car Registration (YoY) (Dec) |  |  | 0.0% |
+| 51 min | EUR | French Car Registration (YoY) (Dec) |  |  | -0.3% |
 | 18:00 | BRL | Trade Balance (Dec) |  | 6.39B | 5.84B |
 | 19:00 | USD | Total Vehicle Sales (Dec) |  | 15.70M | 15.60M |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -2.4K |
