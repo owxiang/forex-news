@@ -19,10 +19,10 @@
 | 09:30 | GBP | Mortgage Lending (Nov) | 4.49B | 4.80B | 4.16B |
 | 09:30 | GBP | Net Lending to Individuals (Nov) | 6.600B | 5.200B | 5.400B |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 40 min | EUR | French 12-Month BTF Auction |  |  | 2.146% |
-| 40 min | EUR | French 3-Month BTF Auction |  |  | 2.079% |
-| 40 min | EUR | French 6-Month BTF Auction |  |  | 2.117% |
-| 15:00 | USD | ISM Manufacturing New Orders Index (Dec) |  |  | 47.4 |
+| 14:00 | EUR | French 12-Month BTF Auction | 2.116% |  | 2.146% |
+| 14:00 | EUR | French 3-Month BTF Auction | 2.043% |  | 2.079% |
+| 14:00 | EUR | French 6-Month BTF Auction | 2.060% |  | 2.117% |
+| 52 min | USD | ISM Manufacturing New Orders Index (Dec) |  |  | 47.4 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 3.570% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 3.500% |
 | 17:00 | EUR | Italian Car Registration (YoY) (Dec) |  |  | 0.0% |
