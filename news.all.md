@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Dec) | 50.0 | 49.7 | 49.7 |
-| 01:45 | CNY | Moderate | Caixin Services PMI (Dec) |  | 52.0 | 52.1 |
+| 00:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Dec) | 50.0 | 49.7 | 48.7 |
+| 8 min | CNY | Moderate | Caixin Services PMI (Dec) |  | 52.0 | 52.1 |
 | 04:00 | IDR | Low | Core Inflation (YoY) (Dec) |  | 2.40% | 2.36% |
 | 04:00 | IDR | Low | Export Growth (YoY) (Nov) |  | -0.50% | -2.31% |
 | 04:00 | IDR | Low | Import Growth (YoY) (Nov) |  | 3.20% | -1.15% |

@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | JPY | au Jibun Bank Manufacturing PMI (Dec) | 50.0 | 49.7 | 49.7 |
+| 00:30 | JPY | au Jibun Bank Manufacturing PMI (Dec) | 50.0 | 49.7 | 48.7 |
 | 04:00 | IDR | Core Inflation (YoY) (Dec) |  | 2.40% | 2.36% |
 | 04:00 | IDR | Export Growth (YoY) (Nov) |  | -0.50% | -2.31% |
 | 04:00 | IDR | Import Growth (YoY) (Nov) |  | 3.20% | -1.15% |
