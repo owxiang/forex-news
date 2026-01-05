@@ -22,9 +22,9 @@
 | 09:30 | GBP | Low | Mortgage Lending (Nov) | 4.49B | 4.80B | 4.16B |
 | 09:30 | GBP | Low | Net Lending to Individuals (Nov) | 6.600B | 5.200B | 5.400B |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.146% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.079% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.117% |
+| 40 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.146% |
+| 40 min | EUR | Low | French 3-Month BTF Auction |  |  | 2.079% |
+| 40 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.117% |
 | 15:00 | USD | Moderate | ISM Manufacturing Employment (Dec) |  |  | 44.0 |
 | 15:00 | USD | Low | ISM Manufacturing New Orders Index (Dec) |  |  | 47.4 |
 | 15:00 | USD | High | ISM Manufacturing PMI (Dec) |  | 48.3 | 48.2 |
