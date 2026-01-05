@@ -21,7 +21,7 @@
 | 09:30 | GBP | Low | Mortgage Approvals (Nov) | 64.53K | 64.00K | 65.01K |
 | 09:30 | GBP | Low | Mortgage Lending (Nov) | 4.49B | 4.80B | 4.16B |
 | 09:30 | GBP | Low | Net Lending to Individuals (Nov) | 6.600B | 5.200B | 5.400B |
-| 18 min | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.146% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.079% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.117% |
