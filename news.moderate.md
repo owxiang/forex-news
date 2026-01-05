@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 8 min | CNY | Caixin Services PMI (Dec) |  | 52.0 | 52.1 |
+| 01:45 | CNY | Caixin Services PMI (Dec) | 52.0 | 52.0 | 52.1 |
 | 07:30 | CHF | procure.ch Manufacturing PMI (Dec) |  | 49.9 | 49.7 |
 | 08:00 | EUR | Spanish Unemployment Change (Dec) |  |  | -18.8K |
 | 11:00 | USD | Construction Spending (MoM) (Oct) |  | -0.1% | 0.2% |
