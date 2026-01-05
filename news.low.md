@@ -9,8 +9,8 @@
 | 04:00 | IDR | Inflation (YoY) (Dec) | 2.92% | 2.73% | 2.72% |
 | 04:00 | IDR | Inflation (MoM) (Dec) | 0.64% |  | 0.17% |
 | 04:00 | IDR | Trade Balance (Nov) | 2.66B | 3.10B | 2.40B |
-| 05:00 | SGD | Retail Sales (MoM) (Nov) | 0.0% |  | 2.3% |
 | 05:00 | SGD | Retail Sales (YoY) (Nov) | 6.3% |  | 4.4% |
+| 05:00 | SGD | Retail Sales (MoM) (Nov) | 0.0% |  | 2.3% |
 | 07:30 | CHF | Retail Sales (YoY) (Nov) | 2.3% | 2.5% | 2.2% |
 | 09:30 | GBP | BoE Consumer Credit (Nov) | 2.077B |  | 1.713B |
 | 09:30 | GBP | M3 Money Supply (Nov) | 3,200.7B |  | 3,176.2B |
@@ -23,11 +23,11 @@
 | 14:00 | EUR | French 3-Month BTF Auction | 2.043% |  | 2.079% |
 | 14:00 | EUR | French 6-Month BTF Auction | 2.060% |  | 2.117% |
 | 15:00 | USD | ISM Manufacturing New Orders Index (Dec) | 47.7 |  | 47.4 |
-| 21 min | USD | 3-Month Bill Auction |  |  | 3.570% |
-| 21 min | USD | 6-Month Bill Auction |  |  | 3.500% |
-| 51 min | EUR | Italian Car Registration (YoY) (Dec) |  |  | 0.0% |
-| 51 min | EUR | French Car Registration (YoY) (Dec) |  |  | -0.3% |
-| 18:00 | BRL | Trade Balance (Dec) |  | 6.39B | 5.84B |
+| 15:10 | EUR | French Car Registration (YoY) (Dec) | -5.8% |  | -0.3% |
+| 15:30 | EUR | Italian Car Registration (YoY) (Dec) | 2.2% |  | 0.0% |
+| 16:30 | USD | 3-Month Bill Auction | 3.540% |  | 3.570% |
+| 16:30 | USD | 6-Month Bill Auction | 3.475% |  | 3.500% |
+| 51 min | BRL | Trade Balance (Dec) |  | 6.39B | 5.84B |
 | 19:00 | USD | Total Vehicle Sales (Dec) |  | 15.70M | 15.60M |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -2.4K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 67.1K |

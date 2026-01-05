@@ -10,8 +10,8 @@
 | 04:00 | IDR | Low | Inflation (YoY) (Dec) | 2.92% | 2.73% | 2.72% |
 | 04:00 | IDR | Low | Inflation (MoM) (Dec) | 0.64% |  | 0.17% |
 | 04:00 | IDR | Low | Trade Balance (Nov) | 2.66B | 3.10B | 2.40B |
-| 05:00 | SGD | Low | Retail Sales (MoM) (Nov) | 0.0% |  | 2.3% |
 | 05:00 | SGD | Low | Retail Sales (YoY) (Nov) | 6.3% |  | 4.4% |
+| 05:00 | SGD | Low | Retail Sales (MoM) (Nov) | 0.0% |  | 2.3% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Nov) | 2.3% | 2.5% | 2.2% |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change (Dec) | -16.3K | 5.7K | -18.8K |
 | 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (Dec) | 45.8 | 49.9 | 49.7 |
@@ -29,12 +29,12 @@
 | 15:00 | USD | Low | ISM Manufacturing New Orders Index (Dec) | 47.7 |  | 47.4 |
 | 15:00 | USD | High | ISM Manufacturing PMI (Dec) | 47.9 | 48.3 | 48.2 |
 | 15:00 | USD | High | ISM Manufacturing Prices (Dec) | 58.5 | 59.0 | 58.5 |
-| 21 min | USD | Low | 3-Month Bill Auction |  |  | 3.570% |
-| 21 min | USD | Low | 6-Month Bill Auction |  |  | 3.500% |
-| 51 min | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 3.0% | 3.0% |
-| 51 min | EUR | Low | Italian Car Registration (YoY) (Dec) |  |  | 0.0% |
-| 51 min | EUR | Low | French Car Registration (YoY) (Dec) |  |  | -0.3% |
-| 18:00 | BRL | Low | Trade Balance (Dec) |  | 6.39B | 5.84B |
+| 15:10 | EUR | Low | French Car Registration (YoY) (Dec) | -5.8% |  | -0.3% |
+| 15:30 | EUR | Low | Italian Car Registration (YoY) (Dec) | 2.2% |  | 0.0% |
+| 16:30 | USD | Low | 3-Month Bill Auction | 3.540% |  | 3.570% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 3.475% |  | 3.500% |
+| 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 2.7% | 3.0% | 3.0% |
+| 51 min | BRL | Low | Trade Balance (Dec) |  | 6.39B | 5.84B |
 | 19:00 | USD | Low | Total Vehicle Sales (Dec) |  | 15.70M | 15.60M |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -41.2K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -2.4K |
