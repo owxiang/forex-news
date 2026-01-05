@@ -25,10 +25,10 @@
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.116% |  | 2.146% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.043% |  | 2.079% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.060% |  | 2.117% |
-| 52 min | USD | Moderate | ISM Manufacturing Employment (Dec) |  |  | 44.0 |
-| 52 min | USD | Low | ISM Manufacturing New Orders Index (Dec) |  |  | 47.4 |
-| 52 min | USD | High | ISM Manufacturing PMI (Dec) |  | 48.3 | 48.2 |
-| 52 min | USD | High | ISM Manufacturing Prices (Dec) |  | 59.0 | 58.5 |
+| 15:00 | USD | Moderate | ISM Manufacturing Employment (Dec) | 44.9 |  | 44.0 |
+| 15:00 | USD | Low | ISM Manufacturing New Orders Index (Dec) | 47.7 |  | 47.4 |
+| 15:00 | USD | High | ISM Manufacturing PMI (Dec) | 47.9 | 48.3 | 48.2 |
+| 15:00 | USD | High | ISM Manufacturing Prices (Dec) | 58.5 | 59.0 | 58.5 |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.570% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.500% |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 3.0% | 3.0% |

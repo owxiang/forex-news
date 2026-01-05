@@ -22,7 +22,7 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 2.116% |  | 2.146% |
 | 14:00 | EUR | French 3-Month BTF Auction | 2.043% |  | 2.079% |
 | 14:00 | EUR | French 6-Month BTF Auction | 2.060% |  | 2.117% |
-| 52 min | USD | ISM Manufacturing New Orders Index (Dec) |  |  | 47.4 |
+| 15:00 | USD | ISM Manufacturing New Orders Index (Dec) | 47.7 |  | 47.4 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 3.570% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 3.500% |
 | 17:00 | EUR | Italian Car Registration (YoY) (Dec) |  |  | 0.0% |
