@@ -27,19 +27,19 @@
 | 15:30 | EUR | Italian Car Registration (YoY) (Dec) | 2.2% |  | 0.0% |
 | 16:30 | USD | 3-Month Bill Auction | 3.540% |  | 3.570% |
 | 16:30 | USD | 6-Month Bill Auction | 3.475% |  | 3.500% |
-| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -2.4K |
-| 20:30 | USD | CFTC Copper speculative net positions |  |  | 67.1K |
-| 20:30 | USD | CFTC Corn speculative net positions |  |  | 64.9K |
-| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -156.3K |
-| 20:30 | USD | CFTC Silver speculative net positions |  |  | 35.9K |
-| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 157.8K |
-| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -71.8K |
-| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -55.8K |
-| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 101.2K |
-| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -44.0K |
-| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -44.0K |
+| 20:30 | USD | CFTC Aluminium speculative net positions | -2.4K |  | -2.4K |
+| 20:30 | USD | CFTC Copper speculative net positions | 59.8K |  | 67.1K |
+| 20:30 | USD | CFTC Corn speculative net positions | 53.2K |  | 64.9K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions | -154.9K |  | -156.3K |
+| 20:30 | USD | CFTC Silver speculative net positions | 30.1K |  | 35.9K |
+| 20:30 | USD | CFTC Soybeans speculative net positions | 121.8K |  | 157.8K |
+| 20:30 | USD | CFTC Wheat speculative net positions | -71.0K |  | -71.8K |
+| 20:30 | CAD | CFTC CAD speculative net positions | -40.5K |  | -55.8K |
+| 20:30 | MXN | CFTC MXN speculative net positions | 106.4K |  | 101.2K |
+| 20:30 | CHF | CFTC CHF speculative net positions | -44.2K |  | -44.0K |
+| 20:30 | NZD | CFTC NZD speculative net positions | -43.3K |  | -44.0K |
 | 21:00 | KRW | FX Reserves - USD (Dec) | 428.05B |  | 430.66B |
 | 22:00 | AUD | Manufacturing & Services PMI (Dec) | 51.00 | 51.10 | 52.60 |
 | 22:00 | AUD | Judo Bank Services PMI (Dec) | 51.1 | 51.0 | 52.8 |
-| 23:50 | JPY | Foreign Reserves (USD) (Dec) |  |  | 1,359.4B |
-| 23:50 | JPY | Monetary Base (YoY) (Dec) |  | -8.0% | -8.7% |
+| 43 min | JPY | Foreign Reserves (USD) (Dec) |  |  | 1,359.4B |
+| 43 min | JPY | Monetary Base (YoY) (Dec) |  | -8.0% | -8.7% |
