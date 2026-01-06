@@ -26,10 +26,10 @@
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Dec) | 2.2% |  | 2.6% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Dec) | 0.1% |  | -0.2% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Dec) | 2.2% |  | 2.5% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Dec) | 0.0% |  | -0.3% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Dec) | 1.8% |  | 2.3% |
-| 09:00 | EUR | Low | Saxony CPI (MoM) (Dec) | 0.2% |  | -0.2% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Dec) | 0.0% |  | -0.3% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Dec) | 1.9% |  | 2.2% |
+| 09:00 | EUR | Low | Saxony CPI (MoM) (Dec) | 0.2% |  | -0.2% |
 | 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Dec) | 0.32% |  | 0.20% |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Dec) | 51.5 | 51.9 | 52.8 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Dec) | 52.4 | 52.6 | 53.6 |
@@ -52,6 +52,8 @@
 | 14:30 | CAD | Low | Services PMI (Dec) | 46.50 |  | 44.30 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Dec) | 52.7 | 53.0 | 54.2 |
 | 14:45 | USD | High | S&P Global Services PMI (Dec) | 52.5 | 52.9 | 54.1 |
+| 15:00 | USD | Low | All Car Sales (Dec) | 2.77M |  | 2.65M |
+| 15:00 | USD | Low | All Truck Sales (Dec) | 13.25M |  | 13.63M |
 | 15:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 18:00 | BRL | Low | Trade Balance (Dec) |  | 6.39B | 5.84B |
+| 50 min | BRL | Low | Trade Balance (Dec) |  | 6.39B | 5.84B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 1.200M | 1.700M |
