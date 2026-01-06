@@ -1,6 +1,6 @@
-## 05 January 2026 - High Impact Forex News
+## 06 January 2026 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 15:00 | USD | ISM Manufacturing PMI (Dec) | 47.9 | 48.3 | 48.2 |
-| 15:00 | USD | ISM Manufacturing Prices (Dec) | 58.5 | 59.0 | 58.5 |
+| 13:00 | EUR | German CPI (MoM) (Dec) |  | 0.3% | -0.2% |
+| 14:45 | USD | S&P Global Services PMI (Dec) |  | 52.9 | 54.1 |

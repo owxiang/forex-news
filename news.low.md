@@ -1,45 +1,43 @@
-## 05 January 2026 - Low Impact Forex News
+## 06 January 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | JPY | au Jibun Bank Manufacturing PMI (Dec) | 50.0 | 49.7 | 48.7 |
-| 04:00 | IDR | Core Inflation (YoY) (Dec) | 2.38% | 2.40% | 2.36% |
-| 04:00 | IDR | Export Growth (YoY) (Nov) | -6.60% | -0.50% | -2.31% |
-| 04:00 | IDR | Import Growth (YoY) (Nov) | 0.46% | 3.20% | -1.15% |
-| 04:00 | IDR | Inflation (YoY) (Dec) | 2.92% | 2.73% | 2.72% |
-| 04:00 | IDR | Inflation (MoM) (Dec) | 0.64% |  | 0.17% |
-| 04:00 | IDR | Trade Balance (Nov) | 2.66B | 3.10B | 2.40B |
-| 05:00 | SGD | Retail Sales (YoY) (Nov) | 6.3% |  | 4.4% |
-| 05:00 | SGD | Retail Sales (MoM) (Nov) | 0.0% |  | 2.3% |
-| 07:30 | CHF | Retail Sales (YoY) (Nov) | 2.3% | 2.5% | 2.2% |
-| 09:30 | GBP | BoE Consumer Credit (Nov) | 2.077B |  | 1.713B |
-| 09:30 | GBP | M3 Money Supply (Nov) | 3,200.7B |  | 3,176.2B |
-| 09:30 | GBP | M4 Money Supply (MoM) (Nov) | 0.8% | -0.1% | -0.2% |
-| 09:30 | GBP | Mortgage Approvals (Nov) | 64.53K | 64.00K | 65.01K |
-| 09:30 | GBP | Mortgage Lending (Nov) | 4.49B | 4.80B | 4.16B |
-| 09:30 | GBP | Net Lending to Individuals (Nov) | 6.600B | 5.200B | 5.400B |
-| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 14:00 | EUR | French 12-Month BTF Auction | 2.116% |  | 2.146% |
-| 14:00 | EUR | French 3-Month BTF Auction | 2.043% |  | 2.079% |
-| 14:00 | EUR | French 6-Month BTF Auction | 2.060% |  | 2.117% |
-| 15:00 | USD | ISM Manufacturing New Orders Index (Dec) | 47.7 |  | 47.4 |
-| 15:10 | EUR | French Car Registration (YoY) (Dec) | -5.8% |  | -0.3% |
-| 15:30 | EUR | Italian Car Registration (YoY) (Dec) | 2.2% |  | 0.0% |
-| 16:30 | USD | 3-Month Bill Auction | 3.540% |  | 3.570% |
-| 16:30 | USD | 6-Month Bill Auction | 3.475% |  | 3.500% |
-| 20:30 | USD | CFTC Aluminium speculative net positions | -2.4K |  | -2.4K |
-| 20:30 | USD | CFTC Copper speculative net positions | 59.8K |  | 67.1K |
-| 20:30 | USD | CFTC Corn speculative net positions | 53.2K |  | 64.9K |
-| 20:30 | USD | CFTC Natural Gas speculative net positions | -154.9K |  | -156.3K |
-| 20:30 | USD | CFTC Silver speculative net positions | 30.1K |  | 35.9K |
-| 20:30 | USD | CFTC Soybeans speculative net positions | 121.8K |  | 157.8K |
-| 20:30 | USD | CFTC Wheat speculative net positions | -71.0K |  | -71.8K |
-| 20:30 | CAD | CFTC CAD speculative net positions | -40.5K |  | -55.8K |
-| 20:30 | MXN | CFTC MXN speculative net positions | 106.4K |  | 101.2K |
-| 20:30 | CHF | CFTC CHF speculative net positions | -44.2K |  | -44.0K |
-| 20:30 | NZD | CFTC NZD speculative net positions | -43.3K |  | -44.0K |
-| 21:00 | KRW | FX Reserves - USD (Dec) | 428.05B |  | 430.66B |
-| 22:00 | AUD | Manufacturing & Services PMI (Dec) | 51.00 | 51.10 | 52.60 |
-| 22:00 | AUD | Judo Bank Services PMI (Dec) | 51.1 | 51.0 | 52.8 |
-| 43 min | JPY | Foreign Reserves (USD) (Dec) |  |  | 1,359.4B |
-| 43 min | JPY | Monetary Base (YoY) (Dec) |  | -8.0% | -8.7% |
+| 00:01 | GBP | BRC Shop Price Index (YoY) | 0.7% |  | 0.6% |
+| 00:30 | HKD | S&P Global Manufacturing PMI (Dec) | 51.9 |  | 52.9 |
+| 05:00 | INR | S&P Global Services PMI (Dec) |  | 59.1 | 59.8 |
+| 05:00 | INR | Manufacturing & Services PMI (Dec) |  | 58.90 | 59.70 |
+| 07:15 | ZAR | S&P Global Manufacturing PMI (Dec) |  |  | 49.0 |
+| 07:45 | EUR | French CPI (YoY) (Dec) |  | 0.9% | 0.9% |
+| 07:45 | EUR | French HICP (YoY) (Dec) |  | 0.8% | 0.8% |
+| 08:45 | EUR | HCOB Italy Composite PMI (Dec) |  |  | 53.8 |
+| 08:50 | EUR | HCOB France Composite PMI (Dec) |  | 50.1 | 50.4 |
+| 08:55 | EUR | HCOB Germany Composite PMI (Dec) |  | 51.5 | 52.4 |
+| 09:00 | GBP | Car Registration (YoY) (Dec) |  |  | -1.6% |
+| 09:00 | GBP | United Kingdom New Passenger Cars Registration (Dec) |  |  | 151,154.0 |
+| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Dec) |  |  | 2.3% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Dec) |  |  | -0.3% |
+| 09:00 | EUR | Bavaria CPI (YoY) (Dec) |  |  | 2.2% |
+| 09:00 | EUR | Bavaria CPI (MoM) (Dec) |  |  | -0.2% |
+| 09:00 | EUR | Hesse CPI (MoM) (Dec) |  |  | -0.2% |
+| 09:00 | EUR | Hesse CPI (YoY) (Dec) |  |  | 2.5% |
+| 09:00 | EUR | North Rhine Westphalia CPI (YoY) |  |  | 2.3% |
+| 09:00 | EUR | North Rhine Westphalia CPI (MoM) |  |  | -0.3% |
+| 09:00 | EUR | Saxony CPI (YoY) (Dec) |  |  | 2.2% |
+| 09:00 | EUR | Saxony CPI (MoM) (Dec) |  |  | -0.2% |
+| 10:00 | NOK | House Price Index (YoY) (Dec) |  |  | 6.20% |
+| 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.050% |
+| 11:00 | EUR | German Car Registration (YoY) (Dec) |  |  | 2.5% |
+| 11:00 | BRL | Trade Balance (Dec) |  | 6.39B | 5.84B |
+| 12:00 | MXN | Consumer Confidence |  |  | 44.2 |
+| 12:00 | MXN | Consumer Confidence n.s.a. |  |  | 44.0 |
+| 13:00 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 13:00 | EUR | German HICP (MoM) (Dec) |  | 0.4% | -0.5% |
+| 13:00 | EUR | German HICP (YoY) (Dec) |  | 2.2% | 2.6% |
+| 13:00 | BRL | S&P Global Composite PMI (Dec) |  |  | 49.6 |
+| 13:00 | BRL | S&P Global Services PMI (Dec) |  |  | 50.1 |
+| 13:15 | CAD | Reserve Assets Total (Dec) |  |  | 127.8B |
+| 13:55 | USD | Redbook (YoY) |  |  | 7.6% |
+| 14:30 | CAD | Services PMI (Dec) |  |  | 44.30 |
+| 15:00 | NZD | GlobalDairyTrade Price Index |  |  | -4.4% |
+| 15:00 | USD | Milk Auctions |  |  | 3,341.0 |
+| 19:00 | USD | Total Vehicle Sales (Dec) |  | 15.70M | 15.60M |
