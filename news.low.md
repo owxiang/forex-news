@@ -33,9 +33,9 @@
 | 13:00 | EUR | German HICP (YoY) (Dec) | 2.0% | 2.2% | 2.6% |
 | 13:00 | BRL | S&P Global Composite PMI (Dec) | 52.1 |  | 49.6 |
 | 13:00 | BRL | S&P Global Services PMI (Dec) | 53.7 |  | 50.1 |
-| 37 min | USD | Redbook (YoY) |  |  | 7.6% |
-| 42 min | CAD | Reserve Assets Total (Dec) |  |  | 127.8B |
-| 14:30 | CAD | Services PMI (Dec) |  |  | 44.30 |
-| 15:00 | NZD | GlobalDairyTrade Price Index |  |  | -4.4% |
-| 15:00 | USD | Milk Auctions |  |  | 3,341.0 |
+| 13:15 | CAD | Reserve Assets Total (Dec) | 127.8B |  | 127.8B |
+| 13:55 | USD | Redbook (YoY) | 7.1% |  | 7.6% |
+| 22 min | CAD | Services PMI (Dec) |  |  | 44.30 |
+| 52 min | NZD | GlobalDairyTrade Price Index |  |  | -4.4% |
+| 52 min | USD | Milk Auctions |  |  | 3,341.0 |
 | 18:00 | BRL | Trade Balance (Dec) |  | 6.39B | 5.84B |

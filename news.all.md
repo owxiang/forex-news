@@ -47,13 +47,13 @@
 | 13:00 | EUR | Low | German HICP (YoY) (Dec) | 2.0% | 2.2% | 2.6% |
 | 13:00 | BRL | Low | S&P Global Composite PMI (Dec) | 52.1 |  | 49.6 |
 | 13:00 | BRL | Low | S&P Global Services PMI (Dec) | 53.7 |  | 50.1 |
-| 37 min | USD | Low | Redbook (YoY) |  |  | 7.6% |
-| 42 min | CAD | Low | Reserve Assets Total (Dec) |  |  | 127.8B |
-| 14:30 | CAD | Low | Services PMI (Dec) |  |  | 44.30 |
-| 14:45 | USD | Moderate | S&P Global Composite PMI (Dec) |  | 53.0 | 54.2 |
-| 14:45 | USD | High | S&P Global Services PMI (Dec) |  | 52.9 | 54.1 |
-| 15:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 15:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -4.4% |
-| 15:00 | USD | Low | Milk Auctions |  |  | 3,341.0 |
+| 13:15 | CAD | Low | Reserve Assets Total (Dec) | 127.8B |  | 127.8B |
+| 13:55 | USD | Low | Redbook (YoY) | 7.1% |  | 7.6% |
+| 22 min | CAD | Low | Services PMI (Dec) |  |  | 44.30 |
+| 37 min | USD | Moderate | S&P Global Composite PMI (Dec) |  | 53.0 | 54.2 |
+| 37 min | USD | High | S&P Global Services PMI (Dec) |  | 52.9 | 54.1 |
+| 52 min | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 52 min | NZD | Low | GlobalDairyTrade Price Index |  |  | -4.4% |
+| 52 min | USD | Low | Milk Auctions |  |  | 3,341.0 |
 | 18:00 | BRL | Low | Trade Balance (Dec) |  | 6.39B | 5.84B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 1.200M | 1.700M |
