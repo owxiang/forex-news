@@ -4,7 +4,7 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | BRC Shop Price Index (YoY) | 0.7% |  | 0.6% |
 | 00:30 | HKD | Low | S&P Global Manufacturing PMI (Dec) | 51.9 |  | 52.9 |
-| 50 min | JPY | Moderate | 10-Year JGB Auction |  |  | 1.872% |
+| 03:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 1.872% |
 | 05:00 | INR | Low | S&P Global Services PMI (Dec) |  | 59.1 | 59.8 |
 | 05:00 | INR | Low | Manufacturing & Services PMI (Dec) |  | 58.90 | 59.70 |
 | 07:15 | ZAR | Low | S&P Global Manufacturing PMI (Dec) |  |  | 49.0 |
