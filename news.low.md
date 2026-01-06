@@ -28,13 +28,13 @@
 | 11:00 | EUR | German Car Registration (YoY) (Dec) | 9.7% |  | 2.5% |
 | 12:00 | MXN | Consumer Confidence (Dec) | 44.7 |  | 44.2 |
 | 12:00 | MXN | Consumer Confidence n.s.a. (Dec) | 44.8 |  | 44.0 |
-| 47 min | USD | FOMC Member Barkin Speaks |  |  |  |
-| 47 min | EUR | German HICP (MoM) (Dec) |  | 0.4% | -0.5% |
-| 47 min | EUR | German HICP (YoY) (Dec) |  | 2.2% | 2.6% |
-| 47 min | BRL | S&P Global Composite PMI (Dec) |  |  | 49.6 |
-| 47 min | BRL | S&P Global Services PMI (Dec) |  |  | 50.1 |
-| 13:15 | CAD | Reserve Assets Total (Dec) |  |  | 127.8B |
-| 13:55 | USD | Redbook (YoY) |  |  | 7.6% |
+| 13:00 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 13:00 | EUR | German HICP (MoM) (Dec) | 0.2% | 0.4% | -0.5% |
+| 13:00 | EUR | German HICP (YoY) (Dec) | 2.0% | 2.2% | 2.6% |
+| 13:00 | BRL | S&P Global Composite PMI (Dec) | 52.1 |  | 49.6 |
+| 13:00 | BRL | S&P Global Services PMI (Dec) | 53.7 |  | 50.1 |
+| 37 min | USD | Redbook (YoY) |  |  | 7.6% |
+| 42 min | CAD | Reserve Assets Total (Dec) |  |  | 127.8B |
 | 14:30 | CAD | Services PMI (Dec) |  |  | 44.30 |
 | 15:00 | NZD | GlobalDairyTrade Price Index |  |  | -4.4% |
 | 15:00 | USD | Milk Auctions |  |  | 3,341.0 |

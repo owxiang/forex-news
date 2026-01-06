@@ -14,7 +14,7 @@
 | 09:00 | EUR | HCOB Eurozone Services PMI (Dec) | 52.4 | 52.6 | 53.6 |
 | 09:30 | GBP | S&P Global Composite PMI (Dec) | 51.4 | 52.1 | 51.2 |
 | 09:30 | GBP | S&P Global Services PMI (Dec) | 51.4 | 52.1 | 51.3 |
-| 47 min | EUR | German CPI (YoY) (Dec) |  | 2.0% | 2.3% |
+| 13:00 | EUR | German CPI (YoY) (Dec) | 1.8% | 2.0% | 2.3% |
 | 14:45 | USD | S&P Global Composite PMI (Dec) |  | 53.0 | 54.2 |
 | 15:00 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | 1.200M | 1.700M |
