@@ -4,9 +4,10 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | BRC Shop Price Index (YoY) | 0.7% |  | 0.6% |
 | 00:30 | HKD | Low | S&P Global Manufacturing PMI (Dec) | 51.9 |  | 52.9 |
-| 03:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 1.872% |
-| 05:00 | INR | Low | S&P Global Services PMI (Dec) |  | 59.1 | 59.8 |
-| 05:00 | INR | Low | Manufacturing & Services PMI (Dec) |  | 58.90 | 59.70 |
+| 03:35 | JPY | Moderate | 10-Year JGB Auction | 2.095% |  | 1.872% |
+| 04:00 | USD | Low | Total Vehicle Sales (Dec) | 16.00M | 15.70M | 15.60M |
+| 38 min | INR | Low | S&P Global Services PMI (Dec) |  | 59.1 | 59.8 |
+| 38 min | INR | Low | Manufacturing & Services PMI (Dec) |  | 58.90 | 59.70 |
 | 07:15 | ZAR | Low | S&P Global Manufacturing PMI (Dec) |  |  | 49.0 |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Dec) |  | 0.2% | -0.2% |
 | 07:45 | EUR | Low | French CPI (YoY) (Dec) |  | 0.9% | 0.9% |
@@ -22,16 +23,16 @@
 | 08:55 | EUR | Moderate | HCOB Germany Services PMI (Dec) |  | 52.6 | 53.1 |
 | 09:00 | GBP | Low | Car Registration (YoY) (Dec) |  |  | -1.6% |
 | 09:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Dec) |  |  | 151,154.0 |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Dec) |  |  | 2.3% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Dec) |  |  | -0.3% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Dec) |  |  | 2.3% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Dec) |  |  | 2.2% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Dec) |  |  | -0.2% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Dec) |  |  | -0.2% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Dec) |  |  | 2.5% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) |  |  | 2.3% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) |  |  | -0.3% |
-| 09:00 | EUR | Low | Saxony CPI (YoY) (Dec) |  |  | 2.2% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) |  |  | 2.3% |
 | 09:00 | EUR | Low | Saxony CPI (MoM) (Dec) |  |  | -0.2% |
+| 09:00 | EUR | Low | Saxony CPI (YoY) (Dec) |  |  | 2.2% |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Dec) |  | 51.9 | 52.8 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Dec) |  | 52.6 | 53.6 |
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (Dec) |  | 52.1 | 51.2 |
@@ -57,5 +58,4 @@
 | 15:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 15:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -4.4% |
 | 15:00 | USD | Low | Milk Auctions |  |  | 3,341.0 |
-| 19:00 | USD | Low | Total Vehicle Sales (Dec) |  | 15.70M | 15.60M |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 1.700M |

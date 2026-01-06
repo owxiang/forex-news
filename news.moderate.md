@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:35 | JPY | 10-Year JGB Auction |  |  | 1.872% |
+| 03:35 | JPY | 10-Year JGB Auction | 2.095% |  | 1.872% |
 | 07:45 | EUR | French CPI (MoM) (Dec) |  | 0.2% | -0.2% |
 | 07:45 | EUR | French HICP (MoM) (Dec) |  | 0.2% | -0.2% |
 | 08:00 | BRL | IPC-Fipe Inflation Index (MoM) (Dec) |  |  | 0.20% |

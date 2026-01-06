@@ -4,8 +4,9 @@
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | BRC Shop Price Index (YoY) | 0.7% |  | 0.6% |
 | 00:30 | HKD | S&P Global Manufacturing PMI (Dec) | 51.9 |  | 52.9 |
-| 05:00 | INR | S&P Global Services PMI (Dec) |  | 59.1 | 59.8 |
-| 05:00 | INR | Manufacturing & Services PMI (Dec) |  | 58.90 | 59.70 |
+| 04:00 | USD | Total Vehicle Sales (Dec) | 16.00M | 15.70M | 15.60M |
+| 38 min | INR | S&P Global Services PMI (Dec) |  | 59.1 | 59.8 |
+| 38 min | INR | Manufacturing & Services PMI (Dec) |  | 58.90 | 59.70 |
 | 07:15 | ZAR | S&P Global Manufacturing PMI (Dec) |  |  | 49.0 |
 | 07:45 | EUR | French CPI (YoY) (Dec) |  | 0.9% | 0.9% |
 | 07:45 | EUR | French HICP (YoY) (Dec) |  | 0.8% | 0.8% |
@@ -14,16 +15,16 @@
 | 08:55 | EUR | HCOB Germany Composite PMI (Dec) |  | 51.5 | 52.4 |
 | 09:00 | GBP | Car Registration (YoY) (Dec) |  |  | -1.6% |
 | 09:00 | GBP | United Kingdom New Passenger Cars Registration (Dec) |  |  | 151,154.0 |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Dec) |  |  | 2.3% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Dec) |  |  | -0.3% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Dec) |  |  | 2.3% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Dec) |  |  | 2.2% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Dec) |  |  | -0.2% |
 | 09:00 | EUR | Hesse CPI (MoM) (Dec) |  |  | -0.2% |
 | 09:00 | EUR | Hesse CPI (YoY) (Dec) |  |  | 2.5% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) |  |  | 2.3% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) |  |  | -0.3% |
-| 09:00 | EUR | Saxony CPI (YoY) (Dec) |  |  | 2.2% |
+| 09:00 | EUR | North Rhine Westphalia CPI (YoY) |  |  | 2.3% |
 | 09:00 | EUR | Saxony CPI (MoM) (Dec) |  |  | -0.2% |
+| 09:00 | EUR | Saxony CPI (YoY) (Dec) |  |  | 2.2% |
 | 10:00 | NOK | House Price Index (YoY) (Dec) |  |  | 6.20% |
 | 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.050% |
 | 11:00 | EUR | German Car Registration (YoY) (Dec) |  |  | 2.5% |
@@ -40,4 +41,3 @@
 | 14:30 | CAD | Services PMI (Dec) |  |  | 44.30 |
 | 15:00 | NZD | GlobalDairyTrade Price Index |  |  | -4.4% |
 | 15:00 | USD | Milk Auctions |  |  | 3,341.0 |
-| 19:00 | USD | Total Vehicle Sales (Dec) |  | 15.70M | 15.60M |
