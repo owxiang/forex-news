@@ -7,26 +7,26 @@
 | 04:00 | USD | Total Vehicle Sales (Dec) | 16.00M | 15.70M | 15.60M |
 | 05:00 | INR | S&P Global Services PMI (Dec) | 58.0 | 59.1 | 59.8 |
 | 05:00 | INR | Manufacturing & Services PMI (Dec) | 57.80 | 58.90 | 59.70 |
-| 3 min | ZAR | S&P Global Manufacturing PMI (Dec) |  |  | 49.0 |
-| 33 min | EUR | French CPI (YoY) (Dec) |  | 0.9% | 0.9% |
-| 33 min | EUR | French HICP (YoY) (Dec) |  | 0.8% | 0.8% |
-| 08:45 | EUR | HCOB Italy Composite PMI (Dec) |  |  | 53.8 |
-| 08:50 | EUR | HCOB France Composite PMI (Dec) |  | 50.1 | 50.4 |
-| 08:55 | EUR | HCOB Germany Composite PMI (Dec) |  | 51.5 | 52.4 |
-| 09:00 | GBP | Car Registration (YoY) (Dec) |  |  | -1.6% |
-| 09:00 | GBP | United Kingdom New Passenger Cars Registration (Dec) |  |  | 151,154.0 |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Dec) |  |  | 2.3% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Dec) |  |  | -0.3% |
-| 09:00 | EUR | Bavaria CPI (MoM) (Dec) |  |  | -0.2% |
-| 09:00 | EUR | Bavaria CPI (YoY) (Dec) |  |  | 2.2% |
-| 09:00 | EUR | Brandenburg CPI (MoM) (Dec) |  |  | -0.2% |
-| 09:00 | EUR | Brandenburg CPI (YoY) (Dec) |  |  | 2.6% |
-| 09:00 | EUR | Hesse CPI (MoM) (Dec) |  |  | -0.2% |
-| 09:00 | EUR | Hesse CPI (YoY) (Dec) |  |  | 2.5% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Dec) |  |  | 2.3% |
-| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Dec) |  |  | -0.3% |
-| 09:00 | EUR | Saxony CPI (YoY) (Dec) |  |  | 2.2% |
-| 09:00 | EUR | Saxony CPI (MoM) (Dec) |  |  | -0.2% |
+| 07:15 | ZAR | S&P Global Manufacturing PMI (Dec) | 47.7 |  | 49.0 |
+| 07:45 | EUR | French CPI (YoY) (Dec) | 0.8% | 0.9% | 0.9% |
+| 07:45 | EUR | French HICP (YoY) (Dec) | 0.7% | 0.8% | 0.8% |
+| 34 min | EUR | HCOB Italy Composite PMI (Dec) |  |  | 53.8 |
+| 39 min | EUR | HCOB France Composite PMI (Dec) |  | 50.1 | 50.4 |
+| 44 min | EUR | HCOB Germany Composite PMI (Dec) |  | 51.5 | 52.4 |
+| 49 min | GBP | Car Registration (YoY) (Dec) |  |  | -1.6% |
+| 49 min | GBP | United Kingdom New Passenger Cars Registration (Dec) |  |  | 151,154.0 |
+| 49 min | EUR | Baden Wuerttemberg CPI (YoY) (Dec) |  |  | 2.3% |
+| 49 min | EUR | Baden Wuerttemberg CPI (MoM) (Dec) |  |  | -0.3% |
+| 49 min | EUR | Bavaria CPI (MoM) (Dec) |  |  | -0.2% |
+| 49 min | EUR | Bavaria CPI (YoY) (Dec) |  |  | 2.2% |
+| 49 min | EUR | Brandenburg CPI (MoM) (Dec) |  |  | -0.2% |
+| 49 min | EUR | Brandenburg CPI (YoY) (Dec) |  |  | 2.6% |
+| 49 min | EUR | Hesse CPI (MoM) (Dec) |  |  | -0.2% |
+| 49 min | EUR | Hesse CPI (YoY) (Dec) |  |  | 2.5% |
+| 49 min | EUR | North Rhine Westphalia CPI (YoY) (Dec) |  |  | 2.3% |
+| 49 min | EUR | North Rhine Westphalia CPI (MoM) (Dec) |  |  | -0.3% |
+| 49 min | EUR | Saxony CPI (YoY) (Dec) |  |  | 2.2% |
+| 49 min | EUR | Saxony CPI (MoM) (Dec) |  |  | -0.2% |
 | 10:00 | NOK | House Price Index (YoY) (Dec) |  |  | 6.20% |
 | 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.050% |
 | 11:00 | EUR | German Car Registration (YoY) (Dec) |  |  | 2.5% |
