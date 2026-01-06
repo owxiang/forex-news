@@ -36,10 +36,10 @@
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (Dec) | 51.4 | 52.1 | 51.2 |
 | 09:30 | GBP | Moderate | S&P Global Services PMI (Dec) | 51.4 | 52.1 | 51.3 |
 | 10:00 | NOK | Low | House Price Index (YoY) (Dec) | 5.00% |  | 6.20% |
-| 21 min | EUR | Low | German 2-Year Schatz Auction |  |  | 2.050% |
-| 51 min | EUR | Low | German Car Registration (YoY) (Dec) |  |  | 2.5% |
-| 12:00 | MXN | Low | Consumer Confidence |  |  | 44.2 |
-| 12:00 | MXN | Low | Consumer Confidence n.s.a. |  |  | 44.0 |
+| 10:30 | EUR | Low | German 2-Year Schatz Auction | 2.110% |  | 2.050% |
+| 11:00 | EUR | Low | German Car Registration (YoY) (Dec) | 9.7% |  | 2.5% |
+| 53 min | MXN | Low | Consumer Confidence |  |  | 44.2 |
+| 53 min | MXN | Low | Consumer Confidence n.s.a. |  |  | 44.0 |
 | 13:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 13:00 | EUR | High | German CPI (MoM) (Dec) |  | 0.3% | -0.2% |
 | 13:00 | EUR | Moderate | German CPI (YoY) (Dec) |  | 2.0% | 2.3% |

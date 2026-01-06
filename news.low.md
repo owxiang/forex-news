@@ -24,10 +24,10 @@
 | 09:00 | EUR | Saxony CPI (YoY) (Dec) | 1.9% |  | 2.2% |
 | 09:00 | EUR | Saxony CPI (MoM) (Dec) | 0.2% |  | -0.2% |
 | 10:00 | NOK | House Price Index (YoY) (Dec) | 5.00% |  | 6.20% |
-| 21 min | EUR | German 2-Year Schatz Auction |  |  | 2.050% |
-| 51 min | EUR | German Car Registration (YoY) (Dec) |  |  | 2.5% |
-| 12:00 | MXN | Consumer Confidence |  |  | 44.2 |
-| 12:00 | MXN | Consumer Confidence n.s.a. |  |  | 44.0 |
+| 10:30 | EUR | German 2-Year Schatz Auction | 2.110% |  | 2.050% |
+| 11:00 | EUR | German Car Registration (YoY) (Dec) | 9.7% |  | 2.5% |
+| 53 min | MXN | Consumer Confidence |  |  | 44.2 |
+| 53 min | MXN | Consumer Confidence n.s.a. |  |  | 44.0 |
 | 13:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 13:00 | EUR | German HICP (MoM) (Dec) |  | 0.4% | -0.5% |
 | 13:00 | EUR | German HICP (YoY) (Dec) |  | 2.2% | 2.6% |
