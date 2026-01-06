@@ -14,25 +14,27 @@
 | 07:45 | EUR | Moderate | French HICP (MoM) (Dec) |  | 0.2% | -0.2% |
 | 07:45 | EUR | Low | French HICP (YoY) (Dec) |  | 0.8% | 0.8% |
 | 08:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Dec) |  |  | 0.20% |
-| 08:15 | EUR | Moderate | HCOB Spain Services PMI (Dec) |  | 54.7 | 55.6 |
+| 08:15 | EUR | Moderate | HCOB Spain Services PMI (Dec) |  | 54.8 | 55.6 |
 | 08:45 | EUR | Low | HCOB Italy Composite PMI (Dec) |  |  | 53.8 |
-| 08:45 | EUR | Moderate | HCOB Italy Services PMI (Dec) |  | 54.1 | 55.0 |
+| 08:45 | EUR | Moderate | HCOB Italy Services PMI (Dec) |  | 54.2 | 55.0 |
 | 08:50 | EUR | Low | HCOB France Composite PMI (Dec) |  | 50.1 | 50.4 |
 | 08:50 | EUR | Moderate | HCOB France Services PMI (Dec) |  | 50.2 | 51.4 |
 | 08:55 | EUR | Low | HCOB Germany Composite PMI (Dec) |  | 51.5 | 52.4 |
 | 08:55 | EUR | Moderate | HCOB Germany Services PMI (Dec) |  | 52.6 | 53.1 |
 | 09:00 | GBP | Low | Car Registration (YoY) (Dec) |  |  | -1.6% |
 | 09:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Dec) |  |  | 151,154.0 |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Dec) |  |  | -0.3% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Dec) |  |  | 2.3% |
-| 09:00 | EUR | Low | Bavaria CPI (YoY) (Dec) |  |  | 2.2% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Dec) |  |  | -0.3% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Dec) |  |  | -0.2% |
+| 09:00 | EUR | Low | Bavaria CPI (YoY) (Dec) |  |  | 2.2% |
+| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Dec) |  |  | -0.2% |
+| 09:00 | EUR | Low | Brandenburg CPI (YoY) (Dec) |  |  | 2.6% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Dec) |  |  | -0.2% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Dec) |  |  | 2.5% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) |  |  | -0.3% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) |  |  | 2.3% |
-| 09:00 | EUR | Low | Saxony CPI (MoM) (Dec) |  |  | -0.2% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Dec) |  |  | 2.3% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Dec) |  |  | -0.3% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Dec) |  |  | 2.2% |
+| 09:00 | EUR | Low | Saxony CPI (MoM) (Dec) |  |  | -0.2% |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Dec) |  | 51.9 | 52.8 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Dec) |  | 52.6 | 53.6 |
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (Dec) |  | 52.1 | 51.2 |

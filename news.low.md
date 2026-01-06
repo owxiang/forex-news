@@ -15,16 +15,18 @@
 | 08:55 | EUR | HCOB Germany Composite PMI (Dec) |  | 51.5 | 52.4 |
 | 09:00 | GBP | Car Registration (YoY) (Dec) |  |  | -1.6% |
 | 09:00 | GBP | United Kingdom New Passenger Cars Registration (Dec) |  |  | 151,154.0 |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Dec) |  |  | -0.3% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Dec) |  |  | 2.3% |
-| 09:00 | EUR | Bavaria CPI (YoY) (Dec) |  |  | 2.2% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Dec) |  |  | -0.3% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Dec) |  |  | -0.2% |
+| 09:00 | EUR | Bavaria CPI (YoY) (Dec) |  |  | 2.2% |
+| 09:00 | EUR | Brandenburg CPI (MoM) (Dec) |  |  | -0.2% |
+| 09:00 | EUR | Brandenburg CPI (YoY) (Dec) |  |  | 2.6% |
 | 09:00 | EUR | Hesse CPI (MoM) (Dec) |  |  | -0.2% |
 | 09:00 | EUR | Hesse CPI (YoY) (Dec) |  |  | 2.5% |
-| 09:00 | EUR | North Rhine Westphalia CPI (MoM) |  |  | -0.3% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) |  |  | 2.3% |
-| 09:00 | EUR | Saxony CPI (MoM) (Dec) |  |  | -0.2% |
+| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Dec) |  |  | 2.3% |
+| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Dec) |  |  | -0.3% |
 | 09:00 | EUR | Saxony CPI (YoY) (Dec) |  |  | 2.2% |
+| 09:00 | EUR | Saxony CPI (MoM) (Dec) |  |  | -0.2% |
 | 10:00 | NOK | House Price Index (YoY) (Dec) |  |  | 6.20% |
 | 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.050% |
 | 11:00 | EUR | German Car Registration (YoY) (Dec) |  |  | 2.5% |
