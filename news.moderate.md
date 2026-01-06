@@ -3,9 +3,9 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 03:35 | JPY | 10-Year JGB Auction | 2.095% |  | 1.872% |
-| 07:45 | EUR | French CPI (MoM) (Dec) |  | 0.2% | -0.2% |
-| 07:45 | EUR | French HICP (MoM) (Dec) |  | 0.2% | -0.2% |
-| 08:00 | BRL | IPC-Fipe Inflation Index (MoM) (Dec) |  |  | 0.20% |
+| 33 min | EUR | French CPI (MoM) (Dec) |  | 0.2% | -0.2% |
+| 33 min | EUR | French HICP (MoM) (Dec) |  | 0.2% | -0.2% |
+| 48 min | BRL | IPC-Fipe Inflation Index (MoM) (Dec) |  |  | 0.20% |
 | 08:15 | EUR | HCOB Spain Services PMI (Dec) |  | 54.8 | 55.6 |
 | 08:45 | EUR | HCOB Italy Services PMI (Dec) |  | 54.2 | 55.0 |
 | 08:50 | EUR | HCOB France Services PMI (Dec) |  | 50.2 | 51.4 |

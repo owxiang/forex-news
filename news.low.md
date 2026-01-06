@@ -7,9 +7,9 @@
 | 04:00 | USD | Total Vehicle Sales (Dec) | 16.00M | 15.70M | 15.60M |
 | 05:00 | INR | S&P Global Services PMI (Dec) | 58.0 | 59.1 | 59.8 |
 | 05:00 | INR | Manufacturing & Services PMI (Dec) | 57.80 | 58.90 | 59.70 |
-| 07:15 | ZAR | S&P Global Manufacturing PMI (Dec) |  |  | 49.0 |
-| 07:45 | EUR | French CPI (YoY) (Dec) |  | 0.9% | 0.9% |
-| 07:45 | EUR | French HICP (YoY) (Dec) |  | 0.8% | 0.8% |
+| 3 min | ZAR | S&P Global Manufacturing PMI (Dec) |  |  | 49.0 |
+| 33 min | EUR | French CPI (YoY) (Dec) |  | 0.9% | 0.9% |
+| 33 min | EUR | French HICP (YoY) (Dec) |  | 0.8% | 0.8% |
 | 08:45 | EUR | HCOB Italy Composite PMI (Dec) |  |  | 53.8 |
 | 08:50 | EUR | HCOB France Composite PMI (Dec) |  | 50.1 | 50.4 |
 | 08:55 | EUR | HCOB Germany Composite PMI (Dec) |  | 51.5 | 52.4 |

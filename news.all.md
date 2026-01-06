@@ -8,12 +8,12 @@
 | 04:00 | USD | Low | Total Vehicle Sales (Dec) | 16.00M | 15.70M | 15.60M |
 | 05:00 | INR | Low | S&P Global Services PMI (Dec) | 58.0 | 59.1 | 59.8 |
 | 05:00 | INR | Low | Manufacturing & Services PMI (Dec) | 57.80 | 58.90 | 59.70 |
-| 07:15 | ZAR | Low | S&P Global Manufacturing PMI (Dec) |  |  | 49.0 |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Dec) |  | 0.2% | -0.2% |
-| 07:45 | EUR | Low | French CPI (YoY) (Dec) |  | 0.9% | 0.9% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Dec) |  | 0.2% | -0.2% |
-| 07:45 | EUR | Low | French HICP (YoY) (Dec) |  | 0.8% | 0.8% |
-| 08:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Dec) |  |  | 0.20% |
+| 3 min | ZAR | Low | S&P Global Manufacturing PMI (Dec) |  |  | 49.0 |
+| 33 min | EUR | Moderate | French CPI (MoM) (Dec) |  | 0.2% | -0.2% |
+| 33 min | EUR | Low | French CPI (YoY) (Dec) |  | 0.9% | 0.9% |
+| 33 min | EUR | Moderate | French HICP (MoM) (Dec) |  | 0.2% | -0.2% |
+| 33 min | EUR | Low | French HICP (YoY) (Dec) |  | 0.8% | 0.8% |
+| 48 min | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Dec) |  |  | 0.20% |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Dec) |  | 54.8 | 55.6 |
 | 08:45 | EUR | Low | HCOB Italy Composite PMI (Dec) |  |  | 53.8 |
 | 08:45 | EUR | Moderate | HCOB Italy Services PMI (Dec) |  | 54.2 | 55.0 |
