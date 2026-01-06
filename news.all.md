@@ -6,8 +6,8 @@
 | 00:30 | HKD | Low | S&P Global Manufacturing PMI (Dec) | 51.9 |  | 52.9 |
 | 03:35 | JPY | Moderate | 10-Year JGB Auction | 2.095% |  | 1.872% |
 | 04:00 | USD | Low | Total Vehicle Sales (Dec) | 16.00M | 15.70M | 15.60M |
-| 38 min | INR | Low | S&P Global Services PMI (Dec) |  | 59.1 | 59.8 |
-| 38 min | INR | Low | Manufacturing & Services PMI (Dec) |  | 58.90 | 59.70 |
+| 05:00 | INR | Low | S&P Global Services PMI (Dec) | 58.0 | 59.1 | 59.8 |
+| 05:00 | INR | Low | Manufacturing & Services PMI (Dec) | 57.80 | 58.90 | 59.70 |
 | 07:15 | ZAR | Low | S&P Global Manufacturing PMI (Dec) |  |  | 49.0 |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Dec) |  | 0.2% | -0.2% |
 | 07:45 | EUR | Low | French CPI (YoY) (Dec) |  | 0.9% | 0.9% |

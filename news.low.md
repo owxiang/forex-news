@@ -5,8 +5,8 @@
 | 00:01 | GBP | BRC Shop Price Index (YoY) | 0.7% |  | 0.6% |
 | 00:30 | HKD | S&P Global Manufacturing PMI (Dec) | 51.9 |  | 52.9 |
 | 04:00 | USD | Total Vehicle Sales (Dec) | 16.00M | 15.70M | 15.60M |
-| 38 min | INR | S&P Global Services PMI (Dec) |  | 59.1 | 59.8 |
-| 38 min | INR | Manufacturing & Services PMI (Dec) |  | 58.90 | 59.70 |
+| 05:00 | INR | S&P Global Services PMI (Dec) | 58.0 | 59.1 | 59.8 |
+| 05:00 | INR | Manufacturing & Services PMI (Dec) | 57.80 | 58.90 | 59.70 |
 | 07:15 | ZAR | S&P Global Manufacturing PMI (Dec) |  |  | 49.0 |
 | 07:45 | EUR | French CPI (YoY) (Dec) |  | 0.9% | 0.9% |
 | 07:45 | EUR | French HICP (YoY) (Dec) |  | 0.8% | 0.8% |
