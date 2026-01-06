@@ -26,13 +26,13 @@
 | 10:00 | NOK | House Price Index (YoY) (Dec) | 5.00% |  | 6.20% |
 | 10:30 | EUR | German 2-Year Schatz Auction | 2.110% |  | 2.050% |
 | 11:00 | EUR | German Car Registration (YoY) (Dec) | 9.7% |  | 2.5% |
-| 53 min | MXN | Consumer Confidence |  |  | 44.2 |
-| 53 min | MXN | Consumer Confidence n.s.a. |  |  | 44.0 |
-| 13:00 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 13:00 | EUR | German HICP (MoM) (Dec) |  | 0.4% | -0.5% |
-| 13:00 | EUR | German HICP (YoY) (Dec) |  | 2.2% | 2.6% |
-| 13:00 | BRL | S&P Global Composite PMI (Dec) |  |  | 49.6 |
-| 13:00 | BRL | S&P Global Services PMI (Dec) |  |  | 50.1 |
+| 12:00 | MXN | Consumer Confidence (Dec) | 44.7 |  | 44.2 |
+| 12:00 | MXN | Consumer Confidence n.s.a. (Dec) | 44.8 |  | 44.0 |
+| 47 min | USD | FOMC Member Barkin Speaks |  |  |  |
+| 47 min | EUR | German HICP (MoM) (Dec) |  | 0.4% | -0.5% |
+| 47 min | EUR | German HICP (YoY) (Dec) |  | 2.2% | 2.6% |
+| 47 min | BRL | S&P Global Composite PMI (Dec) |  |  | 49.6 |
+| 47 min | BRL | S&P Global Services PMI (Dec) |  |  | 50.1 |
 | 13:15 | CAD | Reserve Assets Total (Dec) |  |  | 127.8B |
 | 13:55 | USD | Redbook (YoY) |  |  | 7.6% |
 | 14:30 | CAD | Services PMI (Dec) |  |  | 44.30 |

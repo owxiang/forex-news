@@ -38,15 +38,15 @@
 | 10:00 | NOK | Low | House Price Index (YoY) (Dec) | 5.00% |  | 6.20% |
 | 10:30 | EUR | Low | German 2-Year Schatz Auction | 2.110% |  | 2.050% |
 | 11:00 | EUR | Low | German Car Registration (YoY) (Dec) | 9.7% |  | 2.5% |
-| 53 min | MXN | Low | Consumer Confidence |  |  | 44.2 |
-| 53 min | MXN | Low | Consumer Confidence n.s.a. |  |  | 44.0 |
-| 13:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 13:00 | EUR | High | German CPI (MoM) (Dec) |  | 0.3% | -0.2% |
-| 13:00 | EUR | Moderate | German CPI (YoY) (Dec) |  | 2.0% | 2.3% |
-| 13:00 | EUR | Low | German HICP (MoM) (Dec) |  | 0.4% | -0.5% |
-| 13:00 | EUR | Low | German HICP (YoY) (Dec) |  | 2.2% | 2.6% |
-| 13:00 | BRL | Low | S&P Global Composite PMI (Dec) |  |  | 49.6 |
-| 13:00 | BRL | Low | S&P Global Services PMI (Dec) |  |  | 50.1 |
+| 12:00 | MXN | Low | Consumer Confidence (Dec) | 44.7 |  | 44.2 |
+| 12:00 | MXN | Low | Consumer Confidence n.s.a. (Dec) | 44.8 |  | 44.0 |
+| 47 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 47 min | EUR | High | German CPI (MoM) (Dec) |  | 0.3% | -0.2% |
+| 47 min | EUR | Moderate | German CPI (YoY) (Dec) |  | 2.0% | 2.3% |
+| 47 min | EUR | Low | German HICP (MoM) (Dec) |  | 0.4% | -0.5% |
+| 47 min | EUR | Low | German HICP (YoY) (Dec) |  | 2.2% | 2.6% |
+| 47 min | BRL | Low | S&P Global Composite PMI (Dec) |  |  | 49.6 |
+| 47 min | BRL | Low | S&P Global Services PMI (Dec) |  |  | 50.1 |
 | 13:15 | CAD | Low | Reserve Assets Total (Dec) |  |  | 127.8B |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 7.6% |
 | 14:30 | CAD | Low | Services PMI (Dec) |  |  | 44.30 |
@@ -56,4 +56,4 @@
 | 15:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -4.4% |
 | 15:00 | USD | Low | Milk Auctions |  |  | 3,341.0 |
 | 18:00 | BRL | Low | Trade Balance (Dec) |  | 6.39B | 5.84B |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 1.700M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 1.200M | 1.700M |
