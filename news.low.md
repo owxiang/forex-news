@@ -38,4 +38,4 @@
 | 14:30 | CAD | Services PMI (Dec) | 46.50 |  | 44.30 |
 | 15:00 | USD | All Car Sales (Dec) | 2.77M |  | 2.65M |
 | 15:00 | USD | All Truck Sales (Dec) | 13.25M |  | 13.63M |
-| 50 min | BRL | Trade Balance (Dec) |  | 6.39B | 5.84B |
+| 18:00 | BRL | Trade Balance (Nov) | 9.63B | 6.39B | 5.84B |
