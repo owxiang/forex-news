@@ -55,5 +55,5 @@
 | 15:00 | USD | Low | All Car Sales (Dec) | 2.77M |  | 2.65M |
 | 15:00 | USD | Low | All Truck Sales (Dec) | 13.25M |  | 13.63M |
 | 15:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 18:00 | BRL | Low | Trade Balance (Nov) | 9.63B | 6.39B | 5.84B |
+| 18:00 | BRL | Low | Trade Balance (Nov) | 9.63B | 6.39B | 6.65B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 1.200M | 1.700M |
