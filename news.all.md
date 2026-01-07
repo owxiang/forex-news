@@ -2,15 +2,15 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | AUD | Low | Building Approvals (YoY) (Nov) | 4.40% |  | -1.80% |
-| 00:30 | AUD | Moderate | Building Approvals (MoM) (Nov) | 15.2% | 1.9% | -6.4% |
-| 00:30 | AUD | Low | CPI Index Number (Nov) |  |  | 99.99 |
-| 00:30 | AUD | Low | Private House Approvals (Nov) | 1.3% |  | -2.1% |
-| 00:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Nov) |  |  | 0.3% |
-| 00:30 | AUD | Low | Trimmed Mean CPI (YoY) (Nov) |  |  | 3.3% |
+| 00:30 | AUD | Low | Building Approvals (YoY) (Nov) | 20.20% |  | -1.10% |
+| 00:30 | AUD | Moderate | Building Approvals (MoM) (Nov) | 15.2% | 2.0% | -6.1% |
+| 00:30 | AUD | Low | CPI Index Number (Nov) | 100.01 |  | 99.99 |
+| 00:30 | AUD | Low | Private House Approvals (Nov) | 1.3% |  | -1.3% |
+| 00:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Nov) | 0.3% | 0.2% | 0.3% |
+| 00:30 | AUD | Low | Trimmed Mean CPI (YoY) (Nov) | 3.2% |  | 3.3% |
 | 00:30 | AUD | Low | Monthly CPI Indicator (YoY) (Nov) | 3.40% | 3.60% | 3.80% |
-| 00:30 | AUD | Low | Weighted mean CPI (YoY) (Nov) |  |  | 3.4% |
-| 00:30 | AUD | Low | Weighted mean CPI (QoQ) (Nov) |  |  | 0.3% |
+| 00:30 | AUD | Low | Weighted mean CPI (YoY) (Nov) | 3.4% |  | 3.4% |
+| 00:30 | AUD | Low | Weighted mean CPI (QoQ) (Nov) | 0.3% |  | 0.4% |
 | 00:30 | JPY | Low | Manufacturing & Services PMI (Dec) | 51.10 | 51.50 | 52.00 |
 | 00:30 | JPY | Moderate | au Jibun Bank Services PMI (Dec) | 51.6 | 52.5 | 53.2 |
 | 07:00 | EUR | Moderate | German Retail Sales (MoM) (Nov) |  | 0.2% | -0.3% |
