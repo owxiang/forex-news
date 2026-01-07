@@ -19,32 +19,32 @@
 | 07:35 | EUR | Low | Bavaria CPI (MoM) (Dec) | 0.0% |  | -0.2% |
 | 07:45 | EUR | Low | French Consumer Confidence (Dec) | 90 | 90 | 89 |
 | 08:00 | CNY | Low | FX Reserves (USD) (Dec) | 3.358T |  | 3.346T |
-| 20 min | EUR | Low | HCOB Italy Construction PMI (MoM) (Dec) |  |  | 48.2 |
-| 20 min | EUR | Low | HCOB Germany Construction PMI (Dec) |  |  | 45.2 |
-| 20 min | EUR | Low | HCOB France Construction PMI (MoM) (Dec) |  |  | 43.6 |
-| 20 min | HKD | Low | Foreign Reserves (USD) (Dec) |  |  | 429.40B |
-| 20 min | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Dec) |  |  | 45.4 |
-| 45 min | EUR | Moderate | German Unemployment Change (Dec) |  | 5K | 1K |
-| 45 min | EUR | Moderate | German Unemployment Rate (Dec) |  | 6.3% | 6.3% |
-| 45 min | EUR | Low | German Unemployment (Dec) |  |  | 2.973M |
-| 45 min | EUR | Low | German Unemployment n.s.a. (Dec) |  |  | 2.885M |
-| 50 min | EUR | Low | Italian Public Deficit (Q3) |  |  | 2.0% |
-| 50 min | EUR | Low | Baden Wuerttemberg CPI (MoM) (Dec) |  |  | -0.3% |
-| 50 min | EUR | Low | Baden Wuerttemberg CPI (YoY) (Dec) |  |  | 2.3% |
-| 50 min | SGD | Low | Foreign Reserves USD (MoM) (Dec) |  |  | 400.0B |
-| 09:30 | GBP | Moderate | S&P Global Construction PMI (Dec) |  | 42.4 | 39.4 |
-| 09:30 | GBP | Low | Housing Equity Withdrawal (QoQ) |  | -8.7B | -16.1B |
-| 10:00 | EUR | Low | Italian CPI (MoM) (Dec) |  | 0.2% | -0.2% |
-| 10:00 | EUR | Low | Italian CPI (YoY) (Dec) |  | 1.1% | 1.1% |
-| 10:00 | EUR | Low | Italian HICP (YoY) (Dec) |  | 1.2% | 1.1% |
-| 10:00 | EUR | Low | Italian HICP (MoM) (Dec) |  |  | -0.2% |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Dec) |  | 2.4% | 2.4% |
-| 10:00 | EUR | Low | Core CPI (MoM) (Dec) |  |  | -0.5% |
-| 10:00 | EUR | High | CPI (YoY) (Dec) |  | 2.0% | 2.1% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Dec) |  |  | -0.3% |
-| 10:00 | EUR | Low | CPI, n.s.a (Dec) |  |  | 129.33 |
-| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Dec) |  | 2.4% | 2.4% |
-| 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Dec) |  |  | -0.4% |
+| 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Dec) | 47.9 |  | 48.2 |
+| 08:30 | EUR | Low | HCOB Germany Construction PMI (Dec) | 50.3 |  | 45.2 |
+| 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Dec) | 43.4 |  | 43.6 |
+| 08:30 | HKD | Low | Foreign Reserves (USD) (Dec) | 427.90B |  | 429.40B |
+| 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Dec) | 47.4 |  | 45.4 |
+| 08:55 | EUR | Moderate | German Unemployment Change (Dec) | 3K | 5K | 1K |
+| 08:55 | EUR | Moderate | German Unemployment Rate (Dec) | 6.3% | 6.3% | 6.3% |
+| 08:55 | EUR | Low | German Unemployment (Dec) | 2.977M |  | 2.973M |
+| 08:55 | EUR | Low | German Unemployment n.s.a. (Dec) | 2.910M |  | 2.885M |
+| 09:00 | EUR | Low | Italian Public Deficit (Q3) | 3.4% |  | 2.1% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Dec) |  |  | -0.3% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Dec) |  |  | 2.3% |
+| 09:00 | SGD | Low | Foreign Reserves USD (MoM) (Dec) | 409.3B |  | 400.0B |
+| 18 min | GBP | Moderate | S&P Global Construction PMI (Dec) |  | 42.4 | 39.4 |
+| 18 min | GBP | Low | Housing Equity Withdrawal (QoQ) |  | -8.7B | -16.1B |
+| 48 min | EUR | Low | Italian CPI (MoM) (Dec) |  | 0.2% | -0.2% |
+| 48 min | EUR | Low | Italian CPI (YoY) (Dec) |  | 1.1% | 1.1% |
+| 48 min | EUR | Low | Italian HICP (YoY) (Dec) |  | 1.2% | 1.1% |
+| 48 min | EUR | Low | Italian HICP (MoM) (Dec) |  |  | -0.2% |
+| 48 min | EUR | Moderate | Core CPI (YoY) (Dec) |  | 2.4% | 2.4% |
+| 48 min | EUR | Low | Core CPI (MoM) (Dec) |  |  | -0.5% |
+| 48 min | EUR | High | CPI (YoY) (Dec) |  | 2.0% | 2.1% |
+| 48 min | EUR | Moderate | CPI (MoM) (Dec) |  |  | -0.3% |
+| 48 min | EUR | Low | CPI, n.s.a (Dec) |  |  | 129.33 |
+| 48 min | EUR | Low | HICP ex Energy & Food (YoY) (Dec) |  | 2.4% | 2.4% |
+| 48 min | EUR | Low | HICP ex Energy and Food (MoM) (Dec) |  |  | -0.4% |
 | 10:30 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.093% |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.670% |
 | 11:30 | INR | Low | M3 Money Supply |  |  | 9.3% |

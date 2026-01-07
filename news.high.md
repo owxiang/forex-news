@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 10:00 | EUR | CPI (YoY) (Dec) |  | 2.0% | 2.1% |
+| 48 min | EUR | CPI (YoY) (Dec) |  | 2.0% | 2.1% |
 | 13:15 | USD | ADP Nonfarm Employment Change (Dec) |  | 49K | -32K |
 | 15:00 | USD | ISM Non-Manufacturing PMI (Dec) |  | 52.2 | 52.6 |
 | 15:00 | USD | ISM Non-Manufacturing Prices (Dec) |  |  | 65.4 |
