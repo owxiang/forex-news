@@ -73,16 +73,16 @@
 | 15:00 | USD | High | JOLTS Job Openings (Nov) | 7.146M | 7.610M | 7.449M |
 | 15:00 | CAD | Low | Ivey PMI n.s.a (Dec) | 43.3 |  | 44.5 |
 | 15:00 | CAD | Moderate | Ivey PMI (Dec) | 51.9 | 49.5 | 48.4 |
-| 21 min | USD | High | Crude Oil Inventories |  | -1.200M | -1.934M |
-| 21 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.071M |
-| 21 min | USD | Low | Crude Oil Imports |  |  | -0.957M |
-| 21 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.543M |
-| 21 min | USD | Low | Distillate Fuel Production |  |  | -0.076M |
-| 21 min | USD | Low | EIA Weekly Distillates Stocks |  | 2.200M | 4.977M |
-| 21 min | USD | Low | Gasoline Production |  |  | -0.352M |
-| 21 min | USD | Low | Heating Oil Stockpiles |  |  | 0.134M |
-| 21 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.1% |
-| 21 min | USD | Low | Gasoline Inventories |  | 2.900M | 5.845M |
+| 15:30 | USD | High | Crude Oil Inventories | -3.832M | -1.200M | -1.934M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.062M |  | 0.071M |
+| 15:30 | USD | Low | Crude Oil Imports | 0.563M |  | -0.957M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | 0.728M |  | 0.543M |
+| 15:30 | USD | Low | Distillate Fuel Production | 0.081M |  | -0.076M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks | 5.594M | 2.200M | 4.977M |
+| 15:30 | USD | Low | Gasoline Production | -0.472M |  | -0.352M |
+| 15:30 | USD | Low | Heating Oil Stockpiles | 0.672M |  | 0.134M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 0.0% |  | 0.1% |
+| 15:30 | USD | Low | Gasoline Inventories | 7.702M | 2.900M | 5.845M |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -5.047B |
 | 21:10 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 23:30 | JPY | Low | Overall wage income of employees (Nov) |  | 2.3% | 2.6% |
