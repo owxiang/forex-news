@@ -64,7 +64,7 @@
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.0% |  | 0.1% |
 | 15:30 | USD | Gasoline Inventories | 7.702M | 2.900M | 5.845M |
 | 17:30 | BRL | Foreign Exchange Flows | -4.127B |  | -5.047B |
-| 23:30 | JPY | Overall wage income of employees (Nov) |  | 2.3% | 2.5% |
-| 23:30 | JPY | Overtime Pay (YoY) (Nov) |  |  | 1.50% |
-| 23:50 | JPY | Foreign Bonds Buying |  |  | 103.0B |
-| 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -1,234.8B |
+| 22 min | JPY | Overall wage income of employees (Nov) |  | 2.3% | 2.5% |
+| 22 min | JPY | Overtime Pay (YoY) (Nov) |  |  | 1.50% |
+| 42 min | JPY | Foreign Bonds Buying |  |  | 103.0B |
+| 42 min | JPY | Foreign Investments in Japanese Stocks |  |  | -1,234.8B |

@@ -85,7 +85,7 @@
 | 15:30 | USD | Low | Gasoline Inventories | 7.702M | 2.900M | 5.845M |
 | 17:30 | BRL | Low | Foreign Exchange Flows | -4.127B |  | -5.047B |
 | 21:10 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 23:30 | JPY | Low | Overall wage income of employees (Nov) |  | 2.3% | 2.5% |
-| 23:30 | JPY | Low | Overtime Pay (YoY) (Nov) |  |  | 1.50% |
-| 23:50 | JPY | Low | Foreign Bonds Buying |  |  | 103.0B |
-| 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -1,234.8B |
+| 22 min | JPY | Low | Overall wage income of employees (Nov) |  | 2.3% | 2.5% |
+| 22 min | JPY | Low | Overtime Pay (YoY) (Nov) |  |  | 1.50% |
+| 42 min | JPY | Low | Foreign Bonds Buying |  |  | 103.0B |
+| 42 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -1,234.8B |
