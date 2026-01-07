@@ -49,20 +49,20 @@
 | 12:00 | USD | MBA Purchase Index | 159.3 |  | 169.8 |
 | 12:00 | USD | Mortgage Market Index | 270.8 |  | 269.9 |
 | 12:00 | USD | Mortgage Refinance Index | 937.0 |  | 872.1 |
-| 52 min | USD | Durables Excluding Defense (MoM) (Oct) |  | -1.5% | -1.5% |
-| 52 min | USD | Durables Excluding Transport (MoM) (Oct) |  |  | 0.2% |
-| 52 min | USD | Factory orders ex transportation (MoM) (Oct) |  |  | 0.2% |
-| 52 min | USD | ISM Non-Manufacturing Business Activity (Dec) |  |  | 54.5 |
-| 52 min | USD | ISM Non-Manufacturing New Orders (Dec) |  |  | 52.9 |
-| 52 min | CAD | Ivey PMI n.s.a (Dec) |  |  | 44.5 |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.071M |
-| 15:30 | USD | Crude Oil Imports |  |  | -0.957M |
-| 15:30 | USD | Distillate Fuel Production |  |  | -0.076M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  | 2.200M | 4.977M |
-| 15:30 | USD | Gasoline Production |  |  | -0.352M |
-| 15:30 | USD | Heating Oil Stockpiles |  |  | 0.134M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.1% |
-| 15:30 | USD | Gasoline Inventories |  | 2.900M | 5.845M |
+| 15:00 | USD | Durables Excluding Defense (MoM) (Oct) | -1.5% | -1.5% | -1.5% |
+| 15:00 | USD | Durables Excluding Transport (MoM) (Oct) | 0.1% |  | 0.2% |
+| 15:00 | USD | Factory orders ex transportation (MoM) (Oct) | -0.2% |  | 0.1% |
+| 15:00 | USD | ISM Non-Manufacturing Business Activity (Dec) | 56.0 |  | 54.5 |
+| 15:00 | USD | ISM Non-Manufacturing New Orders (Dec) | 57.9 | 52.6 | 52.9 |
+| 15:00 | CAD | Ivey PMI n.s.a (Dec) | 43.3 |  | 44.5 |
+| 21 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.071M |
+| 21 min | USD | Crude Oil Imports |  |  | -0.957M |
+| 21 min | USD | Distillate Fuel Production |  |  | -0.076M |
+| 21 min | USD | EIA Weekly Distillates Stocks |  | 2.200M | 4.977M |
+| 21 min | USD | Gasoline Production |  |  | -0.352M |
+| 21 min | USD | Heating Oil Stockpiles |  |  | 0.134M |
+| 21 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.1% |
+| 21 min | USD | Gasoline Inventories |  | 2.900M | 5.845M |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | -5.047B |
 | 23:30 | JPY | Overall wage income of employees (Nov) |  | 2.3% | 2.6% |
 | 23:30 | JPY | Overtime Pay (YoY) (Nov) |  |  | 1.50% |

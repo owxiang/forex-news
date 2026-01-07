@@ -12,8 +12,8 @@
 | 10:00 | EUR | Core CPI (YoY) (Dec) | 2.3% | 2.4% | 2.4% |
 | 10:00 | EUR | CPI (MoM) (Dec) | 0.2% |  | -0.3% |
 | 10:45 | EUR | German 10-Year Bund Auction | 2.830% |  | 2.670% |
-| 52 min | USD | Factory Orders (MoM) (Oct) |  | -1.1% | 0.2% |
-| 52 min | USD | ISM Non-Manufacturing Employment (Dec) |  |  | 48.9 |
-| 52 min | CAD | Ivey PMI (Dec) |  | 49.5 | 48.4 |
-| 15:30 | USD | Cushing Crude Oil Inventories |  |  | 0.543M |
+| 15:00 | USD | Factory Orders (MoM) (Oct) | -1.3% | -1.1% | 0.2% |
+| 15:00 | USD | ISM Non-Manufacturing Employment (Dec) | 52.0 | 49.0 | 48.9 |
+| 15:00 | CAD | Ivey PMI (Dec) | 51.9 | 49.5 | 48.4 |
+| 21 min | USD | Cushing Crude Oil Inventories |  |  | 0.543M |
 | 21:10 | USD | FOMC Member Bowman Speaks |  |  |  |

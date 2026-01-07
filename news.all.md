@@ -61,28 +61,28 @@
 | 12:00 | USD | Low | Mortgage Market Index | 270.8 |  | 269.9 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 937.0 |  | 872.1 |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Dec) | 41K | 49K | -29K |
-| 52 min | USD | Low | Durables Excluding Defense (MoM) (Oct) |  | -1.5% | -1.5% |
-| 52 min | USD | Low | Durables Excluding Transport (MoM) (Oct) |  |  | 0.2% |
-| 52 min | USD | Moderate | Factory Orders (MoM) (Oct) |  | -1.1% | 0.2% |
-| 52 min | USD | Low | Factory orders ex transportation (MoM) (Oct) |  |  | 0.2% |
-| 52 min | USD | Low | ISM Non-Manufacturing Business Activity (Dec) |  |  | 54.5 |
-| 52 min | USD | Moderate | ISM Non-Manufacturing Employment (Dec) |  |  | 48.9 |
-| 52 min | USD | Low | ISM Non-Manufacturing New Orders (Dec) |  |  | 52.9 |
-| 52 min | USD | High | ISM Non-Manufacturing PMI (Dec) |  | 52.2 | 52.6 |
-| 52 min | USD | High | ISM Non-Manufacturing Prices (Dec) |  |  | 65.4 |
-| 52 min | USD | High | JOLTS Job Openings (Nov) |  | 7.610M | 7.670M |
-| 52 min | CAD | Low | Ivey PMI n.s.a (Dec) |  |  | 44.5 |
-| 52 min | CAD | Moderate | Ivey PMI (Dec) |  | 49.5 | 48.4 |
-| 15:30 | USD | High | Crude Oil Inventories |  | -1.200M | -1.934M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.071M |
-| 15:30 | USD | Low | Crude Oil Imports |  |  | -0.957M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.543M |
-| 15:30 | USD | Low | Distillate Fuel Production |  |  | -0.076M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | 2.200M | 4.977M |
-| 15:30 | USD | Low | Gasoline Production |  |  | -0.352M |
-| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.134M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.1% |
-| 15:30 | USD | Low | Gasoline Inventories |  | 2.900M | 5.845M |
+| 15:00 | USD | Low | Durables Excluding Defense (MoM) (Oct) | -1.5% | -1.5% | -1.5% |
+| 15:00 | USD | Low | Durables Excluding Transport (MoM) (Oct) | 0.1% |  | 0.2% |
+| 15:00 | USD | Moderate | Factory Orders (MoM) (Oct) | -1.3% | -1.1% | 0.2% |
+| 15:00 | USD | Low | Factory orders ex transportation (MoM) (Oct) | -0.2% |  | 0.1% |
+| 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Dec) | 56.0 |  | 54.5 |
+| 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Dec) | 52.0 | 49.0 | 48.9 |
+| 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Dec) | 57.9 | 52.6 | 52.9 |
+| 15:00 | USD | High | ISM Non-Manufacturing PMI (Dec) | 54.4 | 52.2 | 52.6 |
+| 15:00 | USD | High | ISM Non-Manufacturing Prices (Dec) | 64.3 | 64.9 | 65.4 |
+| 15:00 | USD | High | JOLTS Job Openings (Nov) | 7.146M | 7.610M | 7.449M |
+| 15:00 | CAD | Low | Ivey PMI n.s.a (Dec) | 43.3 |  | 44.5 |
+| 15:00 | CAD | Moderate | Ivey PMI (Dec) | 51.9 | 49.5 | 48.4 |
+| 21 min | USD | High | Crude Oil Inventories |  | -1.200M | -1.934M |
+| 21 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.071M |
+| 21 min | USD | Low | Crude Oil Imports |  |  | -0.957M |
+| 21 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.543M |
+| 21 min | USD | Low | Distillate Fuel Production |  |  | -0.076M |
+| 21 min | USD | Low | EIA Weekly Distillates Stocks |  | 2.200M | 4.977M |
+| 21 min | USD | Low | Gasoline Production |  |  | -0.352M |
+| 21 min | USD | Low | Heating Oil Stockpiles |  |  | 0.134M |
+| 21 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.1% |
+| 21 min | USD | Low | Gasoline Inventories |  | 2.900M | 5.845M |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -5.047B |
 | 21:10 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 23:30 | JPY | Low | Overall wage income of employees (Nov) |  | 2.3% | 2.6% |
