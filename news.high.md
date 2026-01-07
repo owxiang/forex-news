@@ -1,6 +1,10 @@
-## 06 January 2026 - High Impact Forex News
+## 07 January 2026 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:00 | EUR | German CPI (MoM) (Dec) | 0.0% | 0.3% | -0.2% |
-| 14:45 | USD | S&P Global Services PMI (Dec) | 52.5 | 52.9 | 54.1 |
+| 10:00 | EUR | CPI (YoY) (Dec) |  | 2.0% | 2.1% |
+| 13:15 | USD | ADP Nonfarm Employment Change (Dec) |  | 50K | -32K |
+| 15:00 | USD | ISM Non-Manufacturing PMI (Dec) |  | 52.2 | 52.6 |
+| 15:00 | USD | ISM Non-Manufacturing Prices (Dec) |  |  | 65.4 |
+| 15:00 | USD | JOLTS Job Openings (Nov) |  | 7.640M | 7.670M |
+| 15:30 | USD | Crude Oil Inventories |  | -1.200M | -1.934M |

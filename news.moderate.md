@@ -1,20 +1,19 @@
-## 06 January 2026 - Moderate Impact Forex News
+## 07 January 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:35 | JPY | 10-Year JGB Auction | 2.095% |  | 1.872% |
-| 07:45 | EUR | French CPI (MoM) (Dec) | 0.1% | 0.2% | -0.2% |
-| 07:45 | EUR | French HICP (MoM) (Dec) | 0.1% | 0.2% | -0.2% |
-| 08:15 | EUR | HCOB Spain Services PMI (Dec) | 57.1 | 54.8 | 55.6 |
-| 08:45 | EUR | HCOB Italy Services PMI (Dec) | 51.5 | 54.2 | 55.0 |
-| 08:50 | EUR | HCOB France Services PMI (Dec) | 50.1 | 50.2 | 51.4 |
-| 08:55 | EUR | HCOB Germany Services PMI (Dec) | 52.7 | 52.6 | 53.1 |
-| 09:00 | BRL | IPC-Fipe Inflation Index (MoM) (Dec) | 0.32% |  | 0.20% |
-| 09:00 | EUR | HCOB Eurozone Composite PMI (Dec) | 51.5 | 51.9 | 52.8 |
-| 09:00 | EUR | HCOB Eurozone Services PMI (Dec) | 52.4 | 52.6 | 53.6 |
-| 09:30 | GBP | S&P Global Composite PMI (Dec) | 51.4 | 52.1 | 51.2 |
-| 09:30 | GBP | S&P Global Services PMI (Dec) | 51.4 | 52.1 | 51.3 |
-| 13:00 | EUR | German CPI (YoY) (Dec) | 1.8% | 2.0% | 2.3% |
-| 14:45 | USD | S&P Global Composite PMI (Dec) | 52.7 | 53.0 | 54.2 |
-| 15:00 | EUR | German Buba Mauderer Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock | -2.800M | 1.200M | 1.700M |
+| 00:30 | AUD | Building Approvals (MoM) (Nov) | 15.2% | 1.9% | -6.4% |
+| 00:30 | AUD | Trimmed Mean CPI (QoQ) (Nov) |  |  | 0.3% |
+| 00:30 | JPY | au Jibun Bank Services PMI (Dec) | 51.6 | 52.5 | 53.2 |
+| 07:00 | EUR | German Retail Sales (MoM) (Nov) |  | 0.2% | -0.3% |
+| 08:55 | EUR | German Unemployment Change (Dec) |  | 5K | 1K |
+| 08:55 | EUR | German Unemployment Rate (Dec) |  | 6.3% | 6.3% |
+| 09:30 | GBP | S&P Global Construction PMI (Dec) |  | 42.4 | 39.4 |
+| 10:00 | EUR | Core CPI (YoY) (Dec) |  | 2.4% | 2.4% |
+| 10:00 | EUR | CPI (MoM) (Dec) |  |  | -0.3% |
+| 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.670% |
+| 15:00 | USD | Factory Orders (MoM) (Oct) |  | -1.2% | 0.2% |
+| 15:00 | USD | ISM Non-Manufacturing Employment (Dec) |  |  | 48.9 |
+| 15:00 | CAD | Ivey PMI (Dec) |  | 49.5 | 48.4 |
+| 15:30 | USD | Cushing Crude Oil Inventories |  |  | 0.543M |
+| 21:10 | USD | FOMC Member Bowman Speaks |  |  |  |

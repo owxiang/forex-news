@@ -1,41 +1,66 @@
-## 06 January 2026 - Low Impact Forex News
+## 07 January 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | BRC Shop Price Index (YoY) | 0.7% |  | 0.6% |
-| 00:30 | HKD | S&P Global Manufacturing PMI (Dec) | 51.9 |  | 52.9 |
-| 04:00 | USD | Total Vehicle Sales (Dec) | 16.00M | 15.70M | 15.60M |
-| 05:00 | INR | S&P Global Services PMI (Dec) | 58.0 | 59.1 | 59.8 |
-| 05:00 | INR | Manufacturing & Services PMI (Dec) | 57.80 | 58.90 | 59.70 |
-| 07:15 | ZAR | S&P Global Manufacturing PMI (Dec) | 47.7 |  | 49.0 |
-| 07:45 | EUR | French CPI (YoY) (Dec) | 0.8% | 0.9% | 0.9% |
-| 07:45 | EUR | French HICP (YoY) (Dec) | 0.7% | 0.8% | 0.8% |
-| 08:45 | EUR | HCOB Italy Composite PMI (Dec) | 50.3 |  | 53.8 |
-| 08:50 | EUR | HCOB France Composite PMI (Dec) | 50.0 | 50.1 | 50.4 |
-| 08:55 | EUR | HCOB Germany Composite PMI (Dec) | 51.3 | 51.5 | 52.4 |
-| 09:00 | GBP | Car Registration (YoY) (Dec) | 3.9% |  | -1.6% |
-| 09:00 | GBP | United Kingdom New Passenger Cars Registration (Dec) | 146,249.0 |  | 151,154.0 |
-| 09:00 | EUR | Brandenburg CPI (MoM) (Dec) | 0.4% |  | -0.2% |
-| 09:00 | EUR | Brandenburg CPI (YoY) (Dec) | 2.2% |  | 2.6% |
-| 09:00 | EUR | Hesse CPI (MoM) (Dec) | 0.1% |  | -0.2% |
-| 09:00 | EUR | Hesse CPI (YoY) (Dec) | 2.2% |  | 2.5% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Dec) | 1.8% |  | 2.3% |
-| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Dec) | 0.0% |  | -0.3% |
-| 09:00 | EUR | Saxony CPI (YoY) (Dec) | 1.9% |  | 2.2% |
-| 09:00 | EUR | Saxony CPI (MoM) (Dec) | 0.2% |  | -0.2% |
-| 10:00 | NOK | House Price Index (YoY) (Dec) | 5.00% |  | 6.20% |
-| 10:30 | EUR | German 2-Year Schatz Auction | 2.110% |  | 2.050% |
-| 11:00 | EUR | German Car Registration (YoY) (Dec) | 9.7% |  | 2.5% |
-| 12:00 | MXN | Consumer Confidence (Dec) | 44.7 |  | 44.2 |
-| 12:00 | MXN | Consumer Confidence n.s.a. (Dec) | 44.8 |  | 44.0 |
-| 13:00 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 13:00 | EUR | German HICP (MoM) (Dec) | 0.2% | 0.4% | -0.5% |
-| 13:00 | EUR | German HICP (YoY) (Dec) | 2.0% | 2.2% | 2.6% |
-| 13:00 | BRL | S&P Global Composite PMI (Dec) | 52.1 |  | 49.6 |
-| 13:00 | BRL | S&P Global Services PMI (Dec) | 53.7 |  | 50.1 |
-| 13:15 | CAD | Reserve Assets Total (Dec) | 127.8B |  | 127.8B |
-| 13:55 | USD | Redbook (YoY) | 7.1% |  | 7.6% |
-| 14:30 | CAD | Services PMI (Dec) | 46.50 |  | 44.30 |
-| 15:00 | USD | All Car Sales (Dec) | 2.77M |  | 2.65M |
-| 15:00 | USD | All Truck Sales (Dec) | 13.25M |  | 13.63M |
-| 18:00 | BRL | Trade Balance (Nov) | 9.63B | 6.39B | 6.65B |
+| 00:30 | AUD | Building Approvals (YoY) (Nov) | 4.40% |  | -1.80% |
+| 00:30 | AUD | CPI Index Number (Nov) |  |  | 99.99 |
+| 00:30 | AUD | Private House Approvals (Nov) | 1.3% |  | -2.1% |
+| 00:30 | AUD | Trimmed Mean CPI (YoY) (Nov) |  |  | 3.3% |
+| 00:30 | AUD | Monthly CPI Indicator (YoY) (Nov) | 3.40% | 3.60% | 3.80% |
+| 00:30 | AUD | Weighted mean CPI (YoY) (Nov) |  |  | 3.4% |
+| 00:30 | AUD | Weighted mean CPI (QoQ) (Nov) |  |  | 0.3% |
+| 00:30 | JPY | Manufacturing & Services PMI (Dec) | 51.10 | 51.50 | 52.00 |
+| 07:00 | EUR | German Retail Sales (YoY) (Nov) |  |  | 0.9% |
+| 07:45 | EUR | French Consumer Confidence (Dec) |  | 90 | 89 |
+| 08:00 | CNY | FX Reserves (USD) (Dec) |  |  | 3.346T |
+| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Dec) |  |  | 48.2 |
+| 08:30 | EUR | HCOB Germany Construction PMI (Dec) |  |  | 45.2 |
+| 08:30 | EUR | HCOB France Construction PMI (MoM) (Dec) |  |  | 43.6 |
+| 08:30 | HKD | Foreign Reserves (USD) (Dec) |  |  | 429.40B |
+| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Dec) |  |  | 45.4 |
+| 08:55 | EUR | German Unemployment (Dec) |  |  | 2.973M |
+| 08:55 | EUR | German Unemployment n.s.a. (Dec) |  |  | 2.885M |
+| 09:00 | EUR | Italian Public Deficit (Q3) |  |  | 2.0% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Dec) |  |  | -0.3% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Dec) |  |  | 2.3% |
+| 09:00 | EUR | Bavaria CPI (YoY) (Dec) |  |  | 2.2% |
+| 09:00 | EUR | Bavaria CPI (MoM) (Dec) |  |  | -0.2% |
+| 09:00 | SGD | Foreign Reserves USD (MoM) (Dec) |  |  | 400.0B |
+| 09:30 | GBP | Housing Equity Withdrawal (QoQ) |  | -8.7B | -16.1B |
+| 10:00 | EUR | Italian CPI (MoM) (Dec) |  | 0.2% | -0.2% |
+| 10:00 | EUR | Italian CPI (YoY) (Dec) |  | 1.1% | 1.1% |
+| 10:00 | EUR | Italian HICP (YoY) (Dec) |  | 1.2% | 1.1% |
+| 10:00 | EUR | Italian HICP (MoM) (Dec) |  |  | -0.2% |
+| 10:00 | EUR | Core CPI (MoM) (Dec) |  |  | -0.5% |
+| 10:00 | EUR | CPI, n.s.a (Dec) |  |  | 129.33 |
+| 10:00 | EUR | HICP ex Energy & Food (YoY) (Dec) |  | 2.4% | 2.4% |
+| 10:00 | EUR | HICP ex Energy and Food (MoM) (Dec) |  |  | -0.4% |
+| 10:30 | GBP | 5-Year Treasury Gilt Auction |  |  | 4.093% |
+| 11:30 | INR | M3 Money Supply |  |  | 9.3% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.31% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -5.0% |
+| 12:00 | USD | MBA Purchase Index |  |  | 169.9 |
+| 12:00 | USD | Mortgage Market Index |  |  | 299.8 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 1,084.3 |
+| 12:00 | INR | GDP Annual |  |  | 6.5% |
+| 15:00 | USD | Durables Excluding Defense (MoM) (Oct) |  | -1.5% | -1.5% |
+| 15:00 | USD | Durables Excluding Transport (MoM) (Oct) |  |  | 0.2% |
+| 15:00 | USD | Factory orders ex transportation (MoM) (Oct) |  |  | 0.2% |
+| 15:00 | USD | ISM Non-Manufacturing Business Activity (Dec) |  |  | 54.5 |
+| 15:00 | USD | ISM Non-Manufacturing New Orders (Dec) |  |  | 52.9 |
+| 15:00 | CAD | Ivey PMI n.s.a (Dec) |  |  | 44.5 |
+| 15:00 | NZD | GlobalDairyTrade Price Index |  |  | -4.4% |
+| 15:00 | USD | Milk Auctions |  |  | 3,341.0 |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.071M |
+| 15:30 | USD | Crude Oil Imports |  |  | -0.957M |
+| 15:30 | USD | Distillate Fuel Production |  |  | -0.076M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | 4.977M |
+| 15:30 | USD | Gasoline Production |  |  | -0.352M |
+| 15:30 | USD | Heating Oil Stockpiles |  |  | 0.134M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.1% |
+| 15:30 | USD | Gasoline Inventories |  |  | 5.845M |
+| 17:30 | BRL | Foreign Exchange Flows |  |  | -5.047B |
+| 23:30 | JPY | Overall wage income of employees (Nov) |  | 2.3% | 2.6% |
+| 23:30 | JPY | Overtime Pay (YoY) (Nov) |  |  | 1.50% |
+| 23:50 | JPY | Foreign Bonds Buying |  |  | 103.0B |
+| 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -1,234.8B |
