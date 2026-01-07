@@ -36,8 +36,9 @@
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Dec) | 2.3% | 2.4% | 2.4% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Dec) | 0.2% |  | -0.4% |
 | 10:30 | GBP | 5-Year Treasury Gilt Auction | 3.980% |  | 4.093% |
-| 11:30 | ZAR | Total Vehicle Sales (Dec) | 48.98K |  | 54.90K |
+| 10:30 | INR | GDP Annual | 7.4% |  | 6.5% |
 | 11:30 | ZAR | Total Vehicle Sales (YoY) (Dec) | 19.20% |  | 12.50% |
+| 11:30 | ZAR | Total Vehicle Sales (Dec) | 48.98K |  | 54.90K |
 | 11:59 | USD | MBA 30-Year Mortgage Rate | 6.32% |  | 6.31% |
 | 11:59 | USD | MBA Mortgage Applications (WoW) | -10.0% |  | -5.0% |
 | 11:59 | USD | MBA Purchase Index | 169.8 |  | 169.9 |
@@ -48,8 +49,7 @@
 | 12:00 | USD | MBA Purchase Index | 159.3 |  | 169.8 |
 | 12:00 | USD | Mortgage Market Index | 270.8 |  | 269.9 |
 | 12:00 | USD | Mortgage Refinance Index | 937.0 |  | 872.1 |
-| 12:00 | INR | GDP Annual | 7.4% |  | 6.5% |
-| 13:30 | INR | M3 Money Supply |  | 9.3% | 9.3% |
+| 11 min | INR | M3 Money Supply |  | 9.3% | 9.3% |
 | 15:00 | USD | Durables Excluding Defense (MoM) (Oct) |  | -1.5% | -1.5% |
 | 15:00 | USD | Durables Excluding Transport (MoM) (Oct) |  |  | 0.2% |
 | 15:00 | USD | Factory orders ex transportation (MoM) (Oct) |  |  | 0.2% |
