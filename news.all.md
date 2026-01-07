@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | AUD | Low | Building Approvals (YoY) (Nov) | 20.20% |  | -1.10% |
-| 00:30 | AUD | Moderate | Building Approvals (MoM) (Nov) | 15.2% | 2.0% | -6.1% |
+| 00:30 | AUD | Moderate | Building Approvals (MoM) (Nov) | 15.2% | 1.9% | -6.1% |
 | 00:30 | AUD | Low | CPI Index Number (Nov) | 100.01 |  | 99.99 |
 | 00:30 | AUD | Low | Private House Approvals (Nov) | 1.3% |  | -1.3% |
 | 00:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Nov) | 0.3% | 0.2% | 0.3% |
