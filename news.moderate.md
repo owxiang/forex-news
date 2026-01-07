@@ -8,10 +8,10 @@
 | 07:00 | EUR | German Retail Sales (MoM) (Nov) | -0.6% | 0.2% | 0.3% |
 | 08:55 | EUR | German Unemployment Change (Dec) | 3K | 5K | 1K |
 | 08:55 | EUR | German Unemployment Rate (Dec) | 6.3% | 6.3% | 6.3% |
-| 18 min | GBP | S&P Global Construction PMI (Dec) |  | 42.4 | 39.4 |
-| 48 min | EUR | Core CPI (YoY) (Dec) |  | 2.4% | 2.4% |
-| 48 min | EUR | CPI (MoM) (Dec) |  |  | -0.3% |
-| 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.670% |
+| 09:30 | GBP | S&P Global Construction PMI (Dec) | 40.1 | 42.4 | 39.4 |
+| 10:00 | EUR | Core CPI (YoY) (Dec) | 2.3% | 2.4% | 2.4% |
+| 10:00 | EUR | CPI (MoM) (Dec) | 0.2% |  | -0.3% |
+| 22 min | EUR | German 10-Year Bund Auction |  |  | 2.670% |
 | 15:00 | USD | Factory Orders (MoM) (Oct) |  | -1.1% | 0.2% |
 | 15:00 | USD | ISM Non-Manufacturing Employment (Dec) |  |  | 48.9 |
 | 15:00 | CAD | Ivey PMI (Dec) |  | 49.5 | 48.4 |

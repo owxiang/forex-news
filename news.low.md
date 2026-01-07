@@ -23,19 +23,19 @@
 | 08:55 | EUR | German Unemployment (Dec) | 2.977M |  | 2.973M |
 | 08:55 | EUR | German Unemployment n.s.a. (Dec) | 2.910M |  | 2.885M |
 | 09:00 | EUR | Italian Public Deficit (Q3) | 3.4% |  | 2.1% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Dec) |  |  | -0.3% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Dec) |  |  | 2.3% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Dec) | 0.2% |  | -0.3% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Dec) | 1.9% |  | 2.3% |
 | 09:00 | SGD | Foreign Reserves USD (MoM) (Dec) | 409.3B |  | 400.0B |
-| 18 min | GBP | Housing Equity Withdrawal (QoQ) |  | -8.7B | -16.1B |
-| 48 min | EUR | Italian CPI (MoM) (Dec) |  | 0.2% | -0.2% |
-| 48 min | EUR | Italian CPI (YoY) (Dec) |  | 1.1% | 1.1% |
-| 48 min | EUR | Italian HICP (YoY) (Dec) |  | 1.2% | 1.1% |
-| 48 min | EUR | Italian HICP (MoM) (Dec) |  |  | -0.2% |
-| 48 min | EUR | Core CPI (MoM) (Dec) |  |  | -0.5% |
-| 48 min | EUR | CPI, n.s.a (Dec) |  |  | 129.33 |
-| 48 min | EUR | HICP ex Energy & Food (YoY) (Dec) |  | 2.4% | 2.4% |
-| 48 min | EUR | HICP ex Energy and Food (MoM) (Dec) |  |  | -0.4% |
-| 10:30 | GBP | 5-Year Treasury Gilt Auction |  |  | 4.093% |
+| 09:30 | GBP | Housing Equity Withdrawal (QoQ) | -10.9B | -8.7B | -17.9B |
+| 10:00 | EUR | Italian CPI (MoM) (Dec) | 0.2% | 0.2% | -0.2% |
+| 10:00 | EUR | Italian CPI (YoY) (Dec) | 1.2% | 1.1% | 1.1% |
+| 10:00 | EUR | Italian HICP (YoY) (Dec) | 1.2% | 1.2% | 1.1% |
+| 10:00 | EUR | Italian HICP (MoM) (Dec) | 0.2% |  | -0.2% |
+| 10:00 | EUR | Core CPI (MoM) (Dec) | 0.3% |  | -0.5% |
+| 10:00 | EUR | CPI, n.s.a (Dec) | 129.56 |  | 129.33 |
+| 10:00 | EUR | HICP ex Energy & Food (YoY) (Dec) | 2.3% | 2.4% | 2.4% |
+| 10:00 | EUR | HICP ex Energy and Food (MoM) (Dec) | 0.2% |  | -0.4% |
+| 22 min | GBP | 5-Year Treasury Gilt Auction |  |  | 4.093% |
 | 11:30 | INR | M3 Money Supply |  |  | 9.3% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.31% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -5.0% |
