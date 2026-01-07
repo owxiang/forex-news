@@ -13,8 +13,8 @@
 | 00:30 | AUD | Low | Weighted mean CPI (QoQ) (Nov) | 0.3% |  | 0.4% |
 | 00:30 | JPY | Low | Manufacturing & Services PMI (Dec) | 51.10 |  | 52.00 |
 | 00:30 | JPY | Moderate | au Jibun Bank Services PMI (Dec) | 51.6 | 52.5 | 53.2 |
-| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Nov) |  | 0.2% | -0.3% |
-| 07:00 | EUR | Low | German Retail Sales (YoY) (Nov) |  |  | 0.9% |
+| 48 min | EUR | Moderate | German Retail Sales (MoM) (Nov) |  | 0.2% | -0.3% |
+| 48 min | EUR | Low | German Retail Sales (YoY) (Nov) |  |  | 0.9% |
 | 07:45 | EUR | Low | French Consumer Confidence (Dec) |  | 90 | 89 |
 | 08:00 | CNY | Low | FX Reserves (USD) (Dec) |  |  | 3.346T |
 | 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Dec) |  |  | 48.2 |
@@ -54,21 +54,19 @@
 | 12:00 | USD | Low | Mortgage Market Index |  |  | 299.8 |
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 1,084.3 |
 | 12:00 | INR | Low | GDP Annual |  |  | 6.5% |
-| 13:15 | USD | High | ADP Nonfarm Employment Change (Dec) |  | 50K | -32K |
+| 13:15 | USD | High | ADP Nonfarm Employment Change (Dec) |  | 49K | -32K |
 | 15:00 | USD | Low | Durables Excluding Defense (MoM) (Oct) |  | -1.5% | -1.5% |
 | 15:00 | USD | Low | Durables Excluding Transport (MoM) (Oct) |  |  | 0.2% |
-| 15:00 | USD | Moderate | Factory Orders (MoM) (Oct) |  | -1.2% | 0.2% |
+| 15:00 | USD | Moderate | Factory Orders (MoM) (Oct) |  | -1.1% | 0.2% |
 | 15:00 | USD | Low | Factory orders ex transportation (MoM) (Oct) |  |  | 0.2% |
 | 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Dec) |  |  | 54.5 |
 | 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Dec) |  |  | 48.9 |
 | 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Dec) |  |  | 52.9 |
 | 15:00 | USD | High | ISM Non-Manufacturing PMI (Dec) |  | 52.2 | 52.6 |
 | 15:00 | USD | High | ISM Non-Manufacturing Prices (Dec) |  |  | 65.4 |
-| 15:00 | USD | High | JOLTS Job Openings (Nov) |  | 7.640M | 7.670M |
+| 15:00 | USD | High | JOLTS Job Openings (Nov) |  | 7.610M | 7.670M |
 | 15:00 | CAD | Low | Ivey PMI n.s.a (Dec) |  |  | 44.5 |
 | 15:00 | CAD | Moderate | Ivey PMI (Dec) |  | 49.5 | 48.4 |
-| 15:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -4.4% |
-| 15:00 | USD | Low | Milk Auctions |  |  | 3,341.0 |
 | 15:30 | USD | High | Crude Oil Inventories |  | -1.200M | -1.934M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.071M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | -0.957M |

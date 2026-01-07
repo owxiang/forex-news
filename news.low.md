@@ -10,7 +10,7 @@
 | 00:30 | AUD | Weighted mean CPI (YoY) (Nov) | 3.4% |  | 3.4% |
 | 00:30 | AUD | Weighted mean CPI (QoQ) (Nov) | 0.3% |  | 0.4% |
 | 00:30 | JPY | Manufacturing & Services PMI (Dec) | 51.10 |  | 52.00 |
-| 07:00 | EUR | German Retail Sales (YoY) (Nov) |  |  | 0.9% |
+| 48 min | EUR | German Retail Sales (YoY) (Nov) |  |  | 0.9% |
 | 07:45 | EUR | French Consumer Confidence (Dec) |  | 90 | 89 |
 | 08:00 | CNY | FX Reserves (USD) (Dec) |  |  | 3.346T |
 | 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Dec) |  |  | 48.2 |
@@ -49,8 +49,6 @@
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Dec) |  |  | 54.5 |
 | 15:00 | USD | ISM Non-Manufacturing New Orders (Dec) |  |  | 52.9 |
 | 15:00 | CAD | Ivey PMI n.s.a (Dec) |  |  | 44.5 |
-| 15:00 | NZD | GlobalDairyTrade Price Index |  |  | -4.4% |
-| 15:00 | USD | Milk Auctions |  |  | 3,341.0 |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.071M |
 | 15:30 | USD | Crude Oil Imports |  |  | -0.957M |
 | 15:30 | USD | Distillate Fuel Production |  |  | -0.076M |
