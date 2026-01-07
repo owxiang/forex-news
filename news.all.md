@@ -11,7 +11,7 @@
 | 00:30 | AUD | Low | Monthly CPI Indicator (YoY) (Nov) | 3.40% | 3.60% | 3.80% |
 | 00:30 | AUD | Low | Weighted mean CPI (YoY) (Nov) | 3.4% |  | 3.4% |
 | 00:30 | AUD | Low | Weighted mean CPI (QoQ) (Nov) | 0.3% |  | 0.4% |
-| 00:30 | JPY | Low | Manufacturing & Services PMI (Dec) | 51.10 | 51.50 | 52.00 |
+| 00:30 | JPY | Low | Manufacturing & Services PMI (Dec) | 51.10 |  | 52.00 |
 | 00:30 | JPY | Moderate | au Jibun Bank Services PMI (Dec) | 51.6 | 52.5 | 53.2 |
 | 07:00 | EUR | Moderate | German Retail Sales (MoM) (Nov) |  | 0.2% | -0.3% |
 | 07:00 | EUR | Low | German Retail Sales (YoY) (Nov) |  |  | 0.9% |

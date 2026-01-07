@@ -9,7 +9,7 @@
 | 00:30 | AUD | Monthly CPI Indicator (YoY) (Nov) | 3.40% | 3.60% | 3.80% |
 | 00:30 | AUD | Weighted mean CPI (YoY) (Nov) | 3.4% |  | 3.4% |
 | 00:30 | AUD | Weighted mean CPI (QoQ) (Nov) | 0.3% |  | 0.4% |
-| 00:30 | JPY | Manufacturing & Services PMI (Dec) | 51.10 | 51.50 | 52.00 |
+| 00:30 | JPY | Manufacturing & Services PMI (Dec) | 51.10 |  | 52.00 |
 | 07:00 | EUR | German Retail Sales (YoY) (Nov) |  |  | 0.9% |
 | 07:45 | EUR | French Consumer Confidence (Dec) |  | 90 | 89 |
 | 08:00 | CNY | FX Reserves (USD) (Dec) |  |  | 3.346T |
