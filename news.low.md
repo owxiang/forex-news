@@ -27,18 +27,18 @@
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Dec) | 1.9% |  | 2.3% |
 | 09:00 | SGD | Foreign Reserves USD (MoM) (Dec) | 409.3B |  | 400.0B |
 | 09:30 | GBP | Housing Equity Withdrawal (QoQ) | -10.9B | -8.7B | -17.9B |
-| 10:00 | EUR | Italian CPI (YoY) (Dec) | 1.2% | 1.1% | 1.1% |
 | 10:00 | EUR | Italian CPI (MoM) (Dec) | 0.2% | 0.2% | -0.2% |
-| 10:00 | EUR | Italian HICP (MoM) (Dec) | 0.2% |  | -0.2% |
+| 10:00 | EUR | Italian CPI (YoY) (Dec) | 1.2% | 1.1% | 1.1% |
 | 10:00 | EUR | Italian HICP (YoY) (Dec) | 1.2% | 1.2% | 1.1% |
+| 10:00 | EUR | Italian HICP (MoM) (Dec) | 0.2% |  | -0.2% |
 | 10:00 | EUR | Core CPI (MoM) (Dec) | 0.3% |  | -0.5% |
 | 10:00 | EUR | CPI, n.s.a (Dec) | 129.56 |  | 129.33 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Dec) | 2.3% | 2.4% | 2.4% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Dec) | 0.2% |  | -0.4% |
 | 10:30 | GBP | 5-Year Treasury Gilt Auction | 3.980% |  | 4.093% |
 | 10:30 | INR | GDP Annual | 7.4% |  | 6.5% |
-| 11:30 | ZAR | Total Vehicle Sales (YoY) (Dec) | 19.20% |  | 12.50% |
 | 11:30 | ZAR | Total Vehicle Sales (Dec) | 48.98K |  | 54.90K |
+| 11:30 | ZAR | Total Vehicle Sales (YoY) (Dec) | 19.20% |  | 12.50% |
 | 11:59 | USD | MBA 30-Year Mortgage Rate | 6.32% |  | 6.31% |
 | 11:59 | USD | MBA Mortgage Applications (WoW) | -10.0% |  | -5.0% |
 | 11:59 | USD | MBA Purchase Index | 169.8 |  | 169.9 |
@@ -49,13 +49,12 @@
 | 12:00 | USD | MBA Purchase Index | 159.3 |  | 169.8 |
 | 12:00 | USD | Mortgage Market Index | 270.8 |  | 269.9 |
 | 12:00 | USD | Mortgage Refinance Index | 937.0 |  | 872.1 |
-| 11 min | INR | M3 Money Supply |  | 9.3% | 9.3% |
-| 15:00 | USD | Durables Excluding Defense (MoM) (Oct) |  | -1.5% | -1.5% |
-| 15:00 | USD | Durables Excluding Transport (MoM) (Oct) |  |  | 0.2% |
-| 15:00 | USD | Factory orders ex transportation (MoM) (Oct) |  |  | 0.2% |
-| 15:00 | USD | ISM Non-Manufacturing Business Activity (Dec) |  |  | 54.5 |
-| 15:00 | USD | ISM Non-Manufacturing New Orders (Dec) |  |  | 52.9 |
-| 15:00 | CAD | Ivey PMI n.s.a (Dec) |  |  | 44.5 |
+| 52 min | USD | Durables Excluding Defense (MoM) (Oct) |  | -1.5% | -1.5% |
+| 52 min | USD | Durables Excluding Transport (MoM) (Oct) |  |  | 0.2% |
+| 52 min | USD | Factory orders ex transportation (MoM) (Oct) |  |  | 0.2% |
+| 52 min | USD | ISM Non-Manufacturing Business Activity (Dec) |  |  | 54.5 |
+| 52 min | USD | ISM Non-Manufacturing New Orders (Dec) |  |  | 52.9 |
+| 52 min | CAD | Ivey PMI n.s.a (Dec) |  |  | 44.5 |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.071M |
 | 15:30 | USD | Crude Oil Imports |  |  | -0.957M |
 | 15:30 | USD | Distillate Fuel Production |  |  | -0.076M |

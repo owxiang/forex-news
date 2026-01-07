@@ -34,22 +34,22 @@
 | 09:00 | SGD | Low | Foreign Reserves USD (MoM) (Dec) | 409.3B |  | 400.0B |
 | 09:30 | GBP | Moderate | S&P Global Construction PMI (Dec) | 40.1 | 42.4 | 39.4 |
 | 09:30 | GBP | Low | Housing Equity Withdrawal (QoQ) | -10.9B | -8.7B | -17.9B |
-| 10:00 | EUR | Low | Italian CPI (YoY) (Dec) | 1.2% | 1.1% | 1.1% |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Dec) | 0.2% | 0.2% | -0.2% |
-| 10:00 | EUR | Low | Italian HICP (MoM) (Dec) | 0.2% |  | -0.2% |
+| 10:00 | EUR | Low | Italian CPI (YoY) (Dec) | 1.2% | 1.1% | 1.1% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Dec) | 1.2% | 1.2% | 1.1% |
+| 10:00 | EUR | Low | Italian HICP (MoM) (Dec) | 0.2% |  | -0.2% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Dec) | 2.3% | 2.4% | 2.4% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Dec) | 0.3% |  | -0.5% |
-| 10:00 | EUR | High | CPI (YoY) (Dec) | 2.0% | 2.0% | 2.1% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Dec) | 0.2% |  | -0.3% |
+| 10:00 | EUR | High | CPI (YoY) (Dec) | 2.0% | 2.0% | 2.1% |
 | 10:00 | EUR | Low | CPI, n.s.a (Dec) | 129.56 |  | 129.33 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Dec) | 2.3% | 2.4% | 2.4% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Dec) | 0.2% |  | -0.4% |
 | 10:30 | GBP | Low | 5-Year Treasury Gilt Auction | 3.980% |  | 4.093% |
 | 10:30 | INR | Low | GDP Annual | 7.4% |  | 6.5% |
 | 10:45 | EUR | Moderate | German 10-Year Bund Auction | 2.830% |  | 2.670% |
-| 11:30 | ZAR | Low | Total Vehicle Sales (YoY) (Dec) | 19.20% |  | 12.50% |
 | 11:30 | ZAR | Low | Total Vehicle Sales (Dec) | 48.98K |  | 54.90K |
+| 11:30 | ZAR | Low | Total Vehicle Sales (YoY) (Dec) | 19.20% |  | 12.50% |
 | 11:59 | USD | Low | MBA 30-Year Mortgage Rate | 6.32% |  | 6.31% |
 | 11:59 | USD | Low | MBA Mortgage Applications (WoW) | -10.0% |  | -5.0% |
 | 11:59 | USD | Low | MBA Purchase Index | 169.8 |  | 169.9 |
@@ -60,20 +60,19 @@
 | 12:00 | USD | Low | MBA Purchase Index | 159.3 |  | 169.8 |
 | 12:00 | USD | Low | Mortgage Market Index | 270.8 |  | 269.9 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 937.0 |  | 872.1 |
-| 13:15 | USD | High | ADP Nonfarm Employment Change (Dec) | 41K | 49K | -32K |
-| 11 min | INR | Low | M3 Money Supply |  | 9.3% | 9.3% |
-| 15:00 | USD | Low | Durables Excluding Defense (MoM) (Oct) |  | -1.5% | -1.5% |
-| 15:00 | USD | Low | Durables Excluding Transport (MoM) (Oct) |  |  | 0.2% |
-| 15:00 | USD | Moderate | Factory Orders (MoM) (Oct) |  | -1.1% | 0.2% |
-| 15:00 | USD | Low | Factory orders ex transportation (MoM) (Oct) |  |  | 0.2% |
-| 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Dec) |  |  | 54.5 |
-| 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Dec) |  |  | 48.9 |
-| 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Dec) |  |  | 52.9 |
-| 15:00 | USD | High | ISM Non-Manufacturing PMI (Dec) |  | 52.2 | 52.6 |
-| 15:00 | USD | High | ISM Non-Manufacturing Prices (Dec) |  |  | 65.4 |
-| 15:00 | USD | High | JOLTS Job Openings (Nov) |  | 7.610M | 7.670M |
-| 15:00 | CAD | Low | Ivey PMI n.s.a (Dec) |  |  | 44.5 |
-| 15:00 | CAD | Moderate | Ivey PMI (Dec) |  | 49.5 | 48.4 |
+| 13:15 | USD | High | ADP Nonfarm Employment Change (Dec) | 41K | 49K | -29K |
+| 52 min | USD | Low | Durables Excluding Defense (MoM) (Oct) |  | -1.5% | -1.5% |
+| 52 min | USD | Low | Durables Excluding Transport (MoM) (Oct) |  |  | 0.2% |
+| 52 min | USD | Moderate | Factory Orders (MoM) (Oct) |  | -1.1% | 0.2% |
+| 52 min | USD | Low | Factory orders ex transportation (MoM) (Oct) |  |  | 0.2% |
+| 52 min | USD | Low | ISM Non-Manufacturing Business Activity (Dec) |  |  | 54.5 |
+| 52 min | USD | Moderate | ISM Non-Manufacturing Employment (Dec) |  |  | 48.9 |
+| 52 min | USD | Low | ISM Non-Manufacturing New Orders (Dec) |  |  | 52.9 |
+| 52 min | USD | High | ISM Non-Manufacturing PMI (Dec) |  | 52.2 | 52.6 |
+| 52 min | USD | High | ISM Non-Manufacturing Prices (Dec) |  |  | 65.4 |
+| 52 min | USD | High | JOLTS Job Openings (Nov) |  | 7.610M | 7.670M |
+| 52 min | CAD | Low | Ivey PMI n.s.a (Dec) |  |  | 44.5 |
+| 52 min | CAD | Moderate | Ivey PMI (Dec) |  | 49.5 | 48.4 |
 | 15:30 | USD | High | Crude Oil Inventories |  | -1.200M | -1.934M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.071M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | -0.957M |
