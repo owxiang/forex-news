@@ -84,7 +84,7 @@
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 0.0% |  | 0.1% |
 | 15:30 | USD | Low | Gasoline Inventories | 7.702M | 2.900M | 5.845M |
 | 17:30 | BRL | Low | Foreign Exchange Flows | -4.127B |  | -5.047B |
-| 2 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 21:10 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 23:30 | JPY | Low | Overall wage income of employees (Nov) |  | 2.3% | 2.5% |
 | 23:30 | JPY | Low | Overtime Pay (YoY) (Nov) |  |  | 1.50% |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | 103.0B |
