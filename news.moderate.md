@@ -16,4 +16,4 @@
 | 15:00 | USD | ISM Non-Manufacturing Employment (Dec) | 52.0 | 49.0 | 48.9 |
 | 15:00 | CAD | Ivey PMI (Dec) | 51.9 | 49.5 | 48.4 |
 | 15:30 | USD | Cushing Crude Oil Inventories | 0.728M |  | 0.543M |
-| 21:10 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 2 min | USD | FOMC Member Bowman Speaks |  |  |  |
