@@ -5,7 +5,7 @@
 | 00:30 | AUD | Building Approvals (MoM) (Nov) | 15.2% | 1.9% | -6.1% |
 | 00:30 | AUD | Trimmed Mean CPI (QoQ) (Nov) | 0.3% | 0.2% | 0.3% |
 | 00:30 | JPY | au Jibun Bank Services PMI (Dec) | 51.6 | 52.5 | 53.2 |
-| 48 min | EUR | German Retail Sales (MoM) (Nov) |  | 0.2% | -0.3% |
+| 07:00 | EUR | German Retail Sales (MoM) (Nov) | -0.6% | 0.2% | 0.3% |
 | 08:55 | EUR | German Unemployment Change (Dec) |  | 5K | 1K |
 | 08:55 | EUR | German Unemployment Rate (Dec) |  | 6.3% | 6.3% |
 | 09:30 | GBP | S&P Global Construction PMI (Dec) |  | 42.4 | 39.4 |

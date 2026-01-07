@@ -13,10 +13,10 @@
 | 00:30 | AUD | Low | Weighted mean CPI (QoQ) (Nov) | 0.3% |  | 0.4% |
 | 00:30 | JPY | Low | Manufacturing & Services PMI (Dec) | 51.10 |  | 52.00 |
 | 00:30 | JPY | Moderate | au Jibun Bank Services PMI (Dec) | 51.6 | 52.5 | 53.2 |
-| 48 min | EUR | Moderate | German Retail Sales (MoM) (Nov) |  | 0.2% | -0.3% |
-| 48 min | EUR | Low | German Retail Sales (YoY) (Nov) |  |  | 0.9% |
-| 07:45 | EUR | Low | French Consumer Confidence (Dec) |  | 90 | 89 |
-| 08:00 | CNY | Low | FX Reserves (USD) (Dec) |  |  | 3.346T |
+| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Nov) | -0.6% | 0.2% | 0.3% |
+| 07:00 | EUR | Low | German Retail Sales (YoY) (Nov) | 1.1% |  | 1.6% |
+| 34 min | EUR | Low | French Consumer Confidence (Dec) |  | 90 | 89 |
+| 49 min | CNY | Low | FX Reserves (USD) (Dec) |  |  | 3.346T |
 | 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Dec) |  |  | 48.2 |
 | 08:30 | EUR | Low | HCOB Germany Construction PMI (Dec) |  |  | 45.2 |
 | 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Dec) |  |  | 43.6 |
