@@ -34,10 +34,10 @@
 | 09:00 | SGD | Low | Foreign Reserves USD (MoM) (Dec) | 409.3B |  | 400.0B |
 | 09:30 | GBP | Moderate | S&P Global Construction PMI (Dec) | 40.1 | 42.4 | 39.4 |
 | 09:30 | GBP | Low | Housing Equity Withdrawal (QoQ) | -10.9B | -8.7B | -17.9B |
-| 10:00 | EUR | Low | Italian CPI (MoM) (Dec) | 0.2% | 0.2% | -0.2% |
 | 10:00 | EUR | Low | Italian CPI (YoY) (Dec) | 1.2% | 1.1% | 1.1% |
-| 10:00 | EUR | Low | Italian HICP (YoY) (Dec) | 1.2% | 1.2% | 1.1% |
+| 10:00 | EUR | Low | Italian CPI (MoM) (Dec) | 0.2% | 0.2% | -0.2% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Dec) | 0.2% |  | -0.2% |
+| 10:00 | EUR | Low | Italian HICP (YoY) (Dec) | 1.2% | 1.2% | 1.1% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Dec) | 2.3% | 2.4% | 2.4% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Dec) | 0.3% |  | -0.5% |
 | 10:00 | EUR | High | CPI (YoY) (Dec) | 2.0% | 2.0% | 2.1% |
@@ -46,15 +46,22 @@
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Dec) | 2.3% | 2.4% | 2.4% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Dec) | 0.2% |  | -0.4% |
 | 10:30 | GBP | Low | 5-Year Treasury Gilt Auction | 3.980% |  | 4.093% |
-| 10:30 | INR | Low | GDP Annual | 7.4% |  | 6.5% |
 | 10:45 | EUR | Moderate | German 10-Year Bund Auction | 2.830% |  | 2.670% |
-| 23 min | INR | Low | M3 Money Supply |  |  | 9.3% |
-| 53 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.31% |
-| 53 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -5.0% |
-| 53 min | USD | Low | MBA Purchase Index |  |  | 169.9 |
-| 53 min | USD | Low | Mortgage Market Index |  |  | 299.8 |
-| 53 min | USD | Low | Mortgage Refinance Index |  |  | 1,084.3 |
+| 11:30 | ZAR | Low | Total Vehicle Sales (Dec) | 48.98K |  | 54.90K |
+| 11:30 | ZAR | Low | Total Vehicle Sales (YoY) (Dec) | 19.20% |  | 12.50% |
+| 11:59 | USD | Low | MBA 30-Year Mortgage Rate | 6.32% |  | 6.31% |
+| 11:59 | USD | Low | MBA Mortgage Applications (WoW) | -10.0% |  | -5.0% |
+| 11:59 | USD | Low | MBA Purchase Index | 169.8 |  | 169.9 |
+| 11:59 | USD | Low | Mortgage Market Index | 269.9 |  | 299.8 |
+| 11:59 | USD | Low | Mortgage Refinance Index | 872.1 |  | 1,084.3 |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.25% |  | 6.32% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | 0.3% |  | -10.0% |
+| 12:00 | USD | Low | MBA Purchase Index | 159.3 |  | 169.8 |
+| 12:00 | USD | Low | Mortgage Market Index | 270.8 |  | 269.9 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 937.0 |  | 872.1 |
+| 12:00 | INR | Low | GDP Annual | 7.4% |  | 6.5% |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Dec) |  | 49K | -32K |
+| 13:30 | INR | Low | M3 Money Supply |  | 9.3% | 9.3% |
 | 15:00 | USD | Low | Durables Excluding Defense (MoM) (Oct) |  | -1.5% | -1.5% |
 | 15:00 | USD | Low | Durables Excluding Transport (MoM) (Oct) |  |  | 0.2% |
 | 15:00 | USD | Moderate | Factory Orders (MoM) (Oct) |  | -1.1% | 0.2% |
