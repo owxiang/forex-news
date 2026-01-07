@@ -10,22 +10,22 @@
 | 00:30 | AUD | Weighted mean CPI (YoY) (Nov) | 3.4% |  | 3.4% |
 | 00:30 | AUD | Weighted mean CPI (QoQ) (Nov) | 0.3% |  | 0.4% |
 | 00:30 | JPY | Manufacturing & Services PMI (Dec) | 51.10 |  | 52.00 |
-| 07:00 | EUR | German Retail Sales (YoY) (Nov) | 1.1% |  | 1.6% |
-| 34 min | EUR | French Consumer Confidence (Dec) |  | 90 | 89 |
-| 49 min | CNY | FX Reserves (USD) (Dec) |  |  | 3.346T |
-| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Dec) |  |  | 48.2 |
-| 08:30 | EUR | HCOB Germany Construction PMI (Dec) |  |  | 45.2 |
-| 08:30 | EUR | HCOB France Construction PMI (MoM) (Dec) |  |  | 43.6 |
-| 08:30 | HKD | Foreign Reserves (USD) (Dec) |  |  | 429.40B |
-| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Dec) |  |  | 45.4 |
-| 08:55 | EUR | German Unemployment (Dec) |  |  | 2.973M |
-| 08:55 | EUR | German Unemployment n.s.a. (Dec) |  |  | 2.885M |
-| 09:00 | EUR | Italian Public Deficit (Q3) |  |  | 2.0% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Dec) |  |  | -0.3% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Dec) |  |  | 2.3% |
-| 09:00 | EUR | Bavaria CPI (YoY) (Dec) |  |  | 2.2% |
-| 09:00 | EUR | Bavaria CPI (MoM) (Dec) |  |  | -0.2% |
-| 09:00 | SGD | Foreign Reserves USD (MoM) (Dec) |  |  | 400.0B |
+| 07:00 | EUR | German Retail Sales (YoY) (Nov) | 1.1% |  | 2.1% |
+| 07:35 | EUR | Bavaria CPI (YoY) (Dec) | 1.7% |  | 2.2% |
+| 07:35 | EUR | Bavaria CPI (MoM) (Dec) | 0.0% |  | -0.2% |
+| 07:45 | EUR | French Consumer Confidence (Dec) | 90 | 90 | 89 |
+| 08:00 | CNY | FX Reserves (USD) (Dec) | 3.358T |  | 3.346T |
+| 20 min | EUR | HCOB Italy Construction PMI (MoM) (Dec) |  |  | 48.2 |
+| 20 min | EUR | HCOB Germany Construction PMI (Dec) |  |  | 45.2 |
+| 20 min | EUR | HCOB France Construction PMI (MoM) (Dec) |  |  | 43.6 |
+| 20 min | HKD | Foreign Reserves (USD) (Dec) |  |  | 429.40B |
+| 20 min | EUR | HCOB Eurozone Construction PMI (MoM) (Dec) |  |  | 45.4 |
+| 45 min | EUR | German Unemployment (Dec) |  |  | 2.973M |
+| 45 min | EUR | German Unemployment n.s.a. (Dec) |  |  | 2.885M |
+| 50 min | EUR | Italian Public Deficit (Q3) |  |  | 2.0% |
+| 50 min | EUR | Baden Wuerttemberg CPI (MoM) (Dec) |  |  | -0.3% |
+| 50 min | EUR | Baden Wuerttemberg CPI (YoY) (Dec) |  |  | 2.3% |
+| 50 min | SGD | Foreign Reserves USD (MoM) (Dec) |  |  | 400.0B |
 | 09:30 | GBP | Housing Equity Withdrawal (QoQ) |  | -8.7B | -16.1B |
 | 10:00 | EUR | Italian CPI (MoM) (Dec) |  | 0.2% | -0.2% |
 | 10:00 | EUR | Italian CPI (YoY) (Dec) |  | 1.1% | 1.1% |
@@ -58,7 +58,7 @@
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.1% |
 | 15:30 | USD | Gasoline Inventories |  |  | 5.845M |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | -5.047B |
-| 23:30 | JPY | Overall wage income of employees (Nov) |  | 2.3% | 2.6% |
+| 23:30 | JPY | Overall wage income of employees (Nov) |  | 2.3% | 2.5% |
 | 23:30 | JPY | Overtime Pay (YoY) (Nov) |  |  | 1.50% |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | 103.0B |
 | 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -1,234.8B |

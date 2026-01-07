@@ -14,24 +14,24 @@
 | 00:30 | JPY | Low | Manufacturing & Services PMI (Dec) | 51.10 |  | 52.00 |
 | 00:30 | JPY | Moderate | au Jibun Bank Services PMI (Dec) | 51.6 | 52.5 | 53.2 |
 | 07:00 | EUR | Moderate | German Retail Sales (MoM) (Nov) | -0.6% | 0.2% | 0.3% |
-| 07:00 | EUR | Low | German Retail Sales (YoY) (Nov) | 1.1% |  | 1.6% |
-| 34 min | EUR | Low | French Consumer Confidence (Dec) |  | 90 | 89 |
-| 49 min | CNY | Low | FX Reserves (USD) (Dec) |  |  | 3.346T |
-| 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Dec) |  |  | 48.2 |
-| 08:30 | EUR | Low | HCOB Germany Construction PMI (Dec) |  |  | 45.2 |
-| 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Dec) |  |  | 43.6 |
-| 08:30 | HKD | Low | Foreign Reserves (USD) (Dec) |  |  | 429.40B |
-| 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Dec) |  |  | 45.4 |
-| 08:55 | EUR | Moderate | German Unemployment Change (Dec) |  | 5K | 1K |
-| 08:55 | EUR | Moderate | German Unemployment Rate (Dec) |  | 6.3% | 6.3% |
-| 08:55 | EUR | Low | German Unemployment (Dec) |  |  | 2.973M |
-| 08:55 | EUR | Low | German Unemployment n.s.a. (Dec) |  |  | 2.885M |
-| 09:00 | EUR | Low | Italian Public Deficit (Q3) |  |  | 2.0% |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Dec) |  |  | -0.3% |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Dec) |  |  | 2.3% |
-| 09:00 | EUR | Low | Bavaria CPI (YoY) (Dec) |  |  | 2.2% |
-| 09:00 | EUR | Low | Bavaria CPI (MoM) (Dec) |  |  | -0.2% |
-| 09:00 | SGD | Low | Foreign Reserves USD (MoM) (Dec) |  |  | 400.0B |
+| 07:00 | EUR | Low | German Retail Sales (YoY) (Nov) | 1.1% |  | 2.1% |
+| 07:35 | EUR | Low | Bavaria CPI (YoY) (Dec) | 1.7% |  | 2.2% |
+| 07:35 | EUR | Low | Bavaria CPI (MoM) (Dec) | 0.0% |  | -0.2% |
+| 07:45 | EUR | Low | French Consumer Confidence (Dec) | 90 | 90 | 89 |
+| 08:00 | CNY | Low | FX Reserves (USD) (Dec) | 3.358T |  | 3.346T |
+| 20 min | EUR | Low | HCOB Italy Construction PMI (MoM) (Dec) |  |  | 48.2 |
+| 20 min | EUR | Low | HCOB Germany Construction PMI (Dec) |  |  | 45.2 |
+| 20 min | EUR | Low | HCOB France Construction PMI (MoM) (Dec) |  |  | 43.6 |
+| 20 min | HKD | Low | Foreign Reserves (USD) (Dec) |  |  | 429.40B |
+| 20 min | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Dec) |  |  | 45.4 |
+| 45 min | EUR | Moderate | German Unemployment Change (Dec) |  | 5K | 1K |
+| 45 min | EUR | Moderate | German Unemployment Rate (Dec) |  | 6.3% | 6.3% |
+| 45 min | EUR | Low | German Unemployment (Dec) |  |  | 2.973M |
+| 45 min | EUR | Low | German Unemployment n.s.a. (Dec) |  |  | 2.885M |
+| 50 min | EUR | Low | Italian Public Deficit (Q3) |  |  | 2.0% |
+| 50 min | EUR | Low | Baden Wuerttemberg CPI (MoM) (Dec) |  |  | -0.3% |
+| 50 min | EUR | Low | Baden Wuerttemberg CPI (YoY) (Dec) |  |  | 2.3% |
+| 50 min | SGD | Low | Foreign Reserves USD (MoM) (Dec) |  |  | 400.0B |
 | 09:30 | GBP | Moderate | S&P Global Construction PMI (Dec) |  | 42.4 | 39.4 |
 | 09:30 | GBP | Low | Housing Equity Withdrawal (QoQ) |  | -8.7B | -16.1B |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Dec) |  | 0.2% | -0.2% |
@@ -79,7 +79,7 @@
 | 15:30 | USD | Low | Gasoline Inventories |  |  | 5.845M |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -5.047B |
 | 21:10 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 23:30 | JPY | Low | Overall wage income of employees (Nov) |  | 2.3% | 2.6% |
+| 23:30 | JPY | Low | Overall wage income of employees (Nov) |  | 2.3% | 2.5% |
 | 23:30 | JPY | Low | Overtime Pay (YoY) (Nov) |  |  | 1.50% |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | 103.0B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -1,234.8B |
