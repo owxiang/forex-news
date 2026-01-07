@@ -35,14 +35,14 @@
 | 10:00 | EUR | CPI, n.s.a (Dec) | 129.56 |  | 129.33 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Dec) | 2.3% | 2.4% | 2.4% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Dec) | 0.2% |  | -0.4% |
-| 22 min | GBP | 5-Year Treasury Gilt Auction |  |  | 4.093% |
-| 11:30 | INR | M3 Money Supply |  |  | 9.3% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.31% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -5.0% |
-| 12:00 | USD | MBA Purchase Index |  |  | 169.9 |
-| 12:00 | USD | Mortgage Market Index |  |  | 299.8 |
-| 12:00 | USD | Mortgage Refinance Index |  |  | 1,084.3 |
-| 12:00 | INR | GDP Annual |  |  | 6.5% |
+| 10:30 | GBP | 5-Year Treasury Gilt Auction | 3.980% |  | 4.093% |
+| 10:30 | INR | GDP Annual | 7.4% |  | 6.5% |
+| 23 min | INR | M3 Money Supply |  |  | 9.3% |
+| 53 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.31% |
+| 53 min | USD | MBA Mortgage Applications (WoW) |  |  | -5.0% |
+| 53 min | USD | MBA Purchase Index |  |  | 169.9 |
+| 53 min | USD | Mortgage Market Index |  |  | 299.8 |
+| 53 min | USD | Mortgage Refinance Index |  |  | 1,084.3 |
 | 15:00 | USD | Durables Excluding Defense (MoM) (Oct) |  | -1.5% | -1.5% |
 | 15:00 | USD | Durables Excluding Transport (MoM) (Oct) |  |  | 0.2% |
 | 15:00 | USD | Factory orders ex transportation (MoM) (Oct) |  |  | 0.2% |
@@ -52,13 +52,13 @@
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.071M |
 | 15:30 | USD | Crude Oil Imports |  |  | -0.957M |
 | 15:30 | USD | Distillate Fuel Production |  |  | -0.076M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | 4.977M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  | 2.200M | 4.977M |
 | 15:30 | USD | Gasoline Production |  |  | -0.352M |
 | 15:30 | USD | Heating Oil Stockpiles |  |  | 0.134M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.1% |
-| 15:30 | USD | Gasoline Inventories |  |  | 5.845M |
+| 15:30 | USD | Gasoline Inventories |  | 2.900M | 5.845M |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | -5.047B |
-| 23:30 | JPY | Overall wage income of employees (Nov) |  | 2.3% | 2.5% |
+| 23:30 | JPY | Overall wage income of employees (Nov) |  | 2.3% | 2.6% |
 | 23:30 | JPY | Overtime Pay (YoY) (Nov) |  |  | 1.50% |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | 103.0B |
 | 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -1,234.8B |

@@ -45,15 +45,15 @@
 | 10:00 | EUR | Low | CPI, n.s.a (Dec) | 129.56 |  | 129.33 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Dec) | 2.3% | 2.4% | 2.4% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Dec) | 0.2% |  | -0.4% |
-| 22 min | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.093% |
-| 22 min | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.670% |
-| 11:30 | INR | Low | M3 Money Supply |  |  | 9.3% |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.31% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -5.0% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 169.9 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 299.8 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 1,084.3 |
-| 12:00 | INR | Low | GDP Annual |  |  | 6.5% |
+| 10:30 | GBP | Low | 5-Year Treasury Gilt Auction | 3.980% |  | 4.093% |
+| 10:30 | INR | Low | GDP Annual | 7.4% |  | 6.5% |
+| 10:45 | EUR | Moderate | German 10-Year Bund Auction | 2.830% |  | 2.670% |
+| 23 min | INR | Low | M3 Money Supply |  |  | 9.3% |
+| 53 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.31% |
+| 53 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -5.0% |
+| 53 min | USD | Low | MBA Purchase Index |  |  | 169.9 |
+| 53 min | USD | Low | Mortgage Market Index |  |  | 299.8 |
+| 53 min | USD | Low | Mortgage Refinance Index |  |  | 1,084.3 |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Dec) |  | 49K | -32K |
 | 15:00 | USD | Low | Durables Excluding Defense (MoM) (Oct) |  | -1.5% | -1.5% |
 | 15:00 | USD | Low | Durables Excluding Transport (MoM) (Oct) |  |  | 0.2% |
@@ -72,14 +72,14 @@
 | 15:30 | USD | Low | Crude Oil Imports |  |  | -0.957M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.543M |
 | 15:30 | USD | Low | Distillate Fuel Production |  |  | -0.076M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  |  | 4.977M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | 2.200M | 4.977M |
 | 15:30 | USD | Low | Gasoline Production |  |  | -0.352M |
 | 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.134M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.1% |
-| 15:30 | USD | Low | Gasoline Inventories |  |  | 5.845M |
+| 15:30 | USD | Low | Gasoline Inventories |  | 2.900M | 5.845M |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -5.047B |
 | 21:10 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 23:30 | JPY | Low | Overall wage income of employees (Nov) |  | 2.3% | 2.5% |
+| 23:30 | JPY | Low | Overall wage income of employees (Nov) |  | 2.3% | 2.6% |
 | 23:30 | JPY | Low | Overtime Pay (YoY) (Nov) |  |  | 1.50% |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | 103.0B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -1,234.8B |
