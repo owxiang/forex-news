@@ -3,10 +3,10 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Trade Balance (Nov) | 2.936B | 5.140B | 4.353B |
-| 48 min | GBP | Halifax House Price Index (MoM) (Dec) |  | 0.1% | 0.0% |
-| 48 min | GBP | Halifax House Price Index (YoY) (Dec) |  | 1.1% | 0.7% |
-| 48 min | EUR | German Factory Orders (MoM) (Nov) |  | -0.9% | 1.5% |
-| 07:30 | CHF | CPI (MoM) (Dec) |  | 0.0% | -0.2% |
+| 07:00 | GBP | Halifax House Price Index (MoM) (Dec) | -0.6% | 0.1% | -0.1% |
+| 07:00 | GBP | Halifax House Price Index (YoY) (Dec) | 0.3% | 1.1% | 0.6% |
+| 07:00 | EUR | German Factory Orders (MoM) (Nov) | 5.6% | -0.9% | 1.6% |
+| 20 min | CHF | CPI (MoM) (Dec) |  | 0.0% | -0.2% |
 | 08:30 | CHF | SNB Monetary Policy Assessment |  |  |  |
 | 08:30 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 10:00 | GBP | Mortgage Rate (GBP) (Dec) |  |  | 6.81% |
