@@ -1,19 +1,30 @@
-## 07 January 2026 - Moderate Impact Forex News
+## 08 January 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Building Approvals (MoM) (Nov) | 15.2% | 1.9% | -6.1% |
-| 00:30 | AUD | Trimmed Mean CPI (QoQ) (Nov) | 0.3% | 0.2% | 0.3% |
-| 00:30 | JPY | au Jibun Bank Services PMI (Dec) | 51.6 | 52.5 | 53.2 |
-| 07:00 | EUR | German Retail Sales (MoM) (Nov) | -0.6% | 0.2% | 0.3% |
-| 08:55 | EUR | German Unemployment Change (Dec) | 3K | 5K | 1K |
-| 08:55 | EUR | German Unemployment Rate (Dec) | 6.3% | 6.3% | 6.3% |
-| 09:30 | GBP | S&P Global Construction PMI (Dec) | 40.1 | 42.4 | 39.4 |
-| 10:00 | EUR | Core CPI (YoY) (Dec) | 2.3% | 2.4% | 2.4% |
-| 10:00 | EUR | CPI (MoM) (Dec) | 0.2% |  | -0.3% |
-| 10:45 | EUR | German 10-Year Bund Auction | 2.830% |  | 2.670% |
-| 15:00 | USD | Factory Orders (MoM) (Oct) | -1.3% | -1.1% | 0.2% |
-| 15:00 | USD | ISM Non-Manufacturing Employment (Dec) | 52.0 | 49.0 | 48.9 |
-| 15:00 | CAD | Ivey PMI (Dec) | 51.9 | 49.5 | 48.4 |
-| 15:30 | USD | Cushing Crude Oil Inventories | 0.728M |  | 0.543M |
-| 21:10 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 00:30 | AUD | Trade Balance (Nov) |  | 5.140B | 4.385B |
+| 07:00 | GBP | Halifax House Price Index (MoM) (Dec) |  | 0.1% | 0.0% |
+| 07:00 | GBP | Halifax House Price Index (YoY) (Dec) |  | 1.1% | 0.7% |
+| 07:00 | EUR | German Factory Orders (MoM) (Nov) |  | -0.9% | 1.5% |
+| 07:30 | CHF | CPI (MoM) (Dec) |  | 0.0% | -0.2% |
+| 08:30 | CHF | SNB Monetary Policy Assessment |  |  |  |
+| 08:30 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 10:00 | GBP | Mortgage Rate (GBP) (Dec) |  |  | 6.81% |
+| 10:00 | EUR | Unemployment Rate (Nov) |  | 6.4% | 6.4% |
+| 12:00 | MXN | CPI (YoY) (Dec) |  | 3.80% | 3.80% |
+| 12:00 | MXN | CPI (MoM) (Dec) |  | 0.40% | 0.66% |
+| 12:00 | BRL | Industrial Production (YoY) (Nov) |  | -0.1% | -0.5% |
+| 13:30 | USD | Continuing Jobless Claims |  | 1,900K | 1,866K |
+| 13:30 | USD | Exports (Oct) |  |  | 289.30B |
+| 13:30 | USD | Imports (Oct) |  |  | 342.10B |
+| 13:30 | USD | Nonfarm Productivity (QoQ) (Q3) |  | 4.9% | 3.3% |
+| 13:30 | USD | Trade Balance (Oct) |  | -58.10B | -52.80B |
+| 13:30 | USD | Unit Labor Costs (QoQ) (Q3) |  | 0.0% | 1.0% |
+| 13:30 | CAD | Trade Balance (Oct) |  | -1.40B | 0.15B |
+| 15:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
+| 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Dec) |  |  | 3.2% |
+| 17:00 | USD | Atlanta Fed GDPNow (Q4) |  | 2.7% | 2.7% |
+| 20:00 | USD | Consumer Credit (Nov) |  | 10.10B | 9.18B |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 6,641B |
+| 23:30 | JPY | Household Spending (YoY) (Nov) |  | -1.0% | -3.0% |
+| 23:30 | JPY | Household Spending (MoM) (Nov) |  | 2.7% | -3.5% |
