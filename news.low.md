@@ -6,7 +6,7 @@
 | 00:30 | AUD | Imports (MoM) (Nov) | 0.2% |  | 2.4% |
 | 03:00 | IDR | FX Reserves (USD) (Dec) | 156.50B |  | 150.10B |
 | 03:35 | JPY | 30-Year JGB Auction | 3.447% |  | 3.427% |
-| 05:00 | JPY | Household Confidence (Dec) |  | 37.8 | 37.5 |
+| 38 min | JPY | Household Confidence (Dec) |  | 37.8 | 37.5 |
 | 06:00 | ZAR | Foreign Reserves (USD) (Dec) |  |  | 72.07B |
 | 06:00 | ZAR | Net FX Reserves (USD) (Dec) |  |  | 70.024B |
 | 07:00 | NOK | Manufacturing Production (MoM) (Nov) |  |  | -0.9% |
