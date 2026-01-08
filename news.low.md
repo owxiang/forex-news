@@ -7,9 +7,9 @@
 | 03:00 | IDR | FX Reserves (USD) (Dec) | 156.50B |  | 150.10B |
 | 03:35 | JPY | 30-Year JGB Auction | 3.447% |  | 3.427% |
 | 05:00 | JPY | Household Confidence (Dec) | 37.2 | 37.8 | 37.5 |
-| 50 min | ZAR | Foreign Reserves (USD) (Dec) |  |  | 72.07B |
-| 50 min | ZAR | Net FX Reserves (USD) (Dec) |  |  | 70.024B |
-| 07:00 | NOK | Manufacturing Production (MoM) (Nov) |  |  | -0.9% |
+| 06:00 | ZAR | Foreign Reserves (USD) (Dec) | 75.89B |  | 72.07B |
+| 06:00 | ZAR | Net FX Reserves (USD) (Dec) | 71.144B |  | 70.024B |
+| 48 min | NOK | Manufacturing Production (MoM) (Nov) |  |  | -0.9% |
 | 07:30 | CHF | CPI (YoY) (Dec) |  | 0.1% | 0.0% |
 | 07:45 | EUR | French Current Account (Nov) |  |  | 1.10B |
 | 07:45 | EUR | French Exports (Nov) |  |  | 51.7B |
@@ -21,6 +21,7 @@
 | 09:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.199% |
 | 09:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 2.212% |
 | 09:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.471% |
+| 09:40 | EUR | Spanish 7-Year Obligacion Auction |  |  | 2.885% |
 | 09:50 | EUR | French 10-Year OAT Auction |  |  | 3.38% |
 | 10:00 | EUR | Business and Consumer Survey (Dec) |  | 97.0 | 97.0 |
 | 10:00 | EUR | Business Climate (Dec) |  |  | -0.66 |

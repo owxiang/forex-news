@@ -8,14 +8,14 @@
 | 03:00 | IDR | Low | FX Reserves (USD) (Dec) | 156.50B |  | 150.10B |
 | 03:35 | JPY | Low | 30-Year JGB Auction | 3.447% |  | 3.427% |
 | 05:00 | JPY | Low | Household Confidence (Dec) | 37.2 | 37.8 | 37.5 |
-| 50 min | ZAR | Low | Foreign Reserves (USD) (Dec) |  |  | 72.07B |
-| 50 min | ZAR | Low | Net FX Reserves (USD) (Dec) |  |  | 70.024B |
-| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Dec) |  | 0.1% | 0.0% |
-| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Dec) |  | 1.1% | 0.7% |
-| 07:00 | EUR | Moderate | German Factory Orders (MoM) (Nov) |  | -0.9% | 1.5% |
-| 07:00 | NOK | Low | Manufacturing Production (MoM) (Nov) |  |  | -0.9% |
-| 07:30 | CHF | Moderate | CPI (MoM) (Dec) |  | 0.0% | -0.2% |
+| 06:00 | ZAR | Low | Foreign Reserves (USD) (Dec) | 75.89B |  | 72.07B |
+| 06:00 | ZAR | Low | Net FX Reserves (USD) (Dec) | 71.144B |  | 70.024B |
+| 48 min | GBP | Moderate | Halifax House Price Index (MoM) (Dec) |  | 0.1% | 0.0% |
+| 48 min | GBP | Moderate | Halifax House Price Index (YoY) (Dec) |  | 1.1% | 0.7% |
+| 48 min | EUR | Moderate | German Factory Orders (MoM) (Nov) |  | -0.9% | 1.5% |
+| 48 min | NOK | Low | Manufacturing Production (MoM) (Nov) |  |  | -0.9% |
 | 07:30 | CHF | Low | CPI (YoY) (Dec) |  | 0.1% | 0.0% |
+| 07:30 | CHF | Moderate | CPI (MoM) (Dec) |  | 0.0% | -0.2% |
 | 07:45 | EUR | Low | French Current Account (Nov) |  |  | 1.10B |
 | 07:45 | EUR | Low | French Exports (Nov) |  |  | 51.7B |
 | 07:45 | EUR | Low | French Imports (Nov) |  |  | 55.6B |
@@ -28,6 +28,7 @@
 | 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.199% |
 | 09:40 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.212% |
 | 09:40 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.471% |
+| 09:40 | EUR | Low | Spanish 7-Year Obligacion Auction |  |  | 2.885% |
 | 09:50 | EUR | Low | French 10-Year OAT Auction |  |  | 3.38% |
 | 10:00 | GBP | Moderate | Mortgage Rate (GBP) (Dec) |  |  | 6.81% |
 | 10:00 | EUR | Low | Business and Consumer Survey (Dec) |  | 97.0 | 97.0 |
@@ -50,8 +51,8 @@
 | 12:00 | MXN | Low | Month Core Inflation (YoY) (Dec) |  | 4.34% | 4.43% |
 | 12:00 | MXN | Low | PPI (MoM) (Dec) |  |  | 0.40% |
 | 12:00 | MXN | Low | PPI (YoY) (Dec) |  |  | 2.40% |
-| 12:00 | BRL | Low | Industrial Production (MoM) (Nov) |  | 0.2% | 0.1% |
 | 12:00 | BRL | Moderate | Industrial Production (YoY) (Nov) |  | -0.1% | -0.5% |
+| 12:00 | BRL | Low | Industrial Production (MoM) (Nov) |  | 0.2% | 0.1% |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 23.5% |
 | 12:30 | USD | Low | Challenger Job Cuts (Dec) |  |  | 71.321K |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,900K | 1,866K |
