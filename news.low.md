@@ -10,14 +10,14 @@
 | 06:00 | ZAR | Foreign Reserves (USD) (Dec) | 75.89B |  | 72.07B |
 | 06:00 | ZAR | Net FX Reserves (USD) (Dec) | 71.144B |  | 70.024B |
 | 07:00 | NOK | Manufacturing Production (MoM) (Nov) | 2.4% |  | -1.3% |
-| 20 min | CHF | CPI (YoY) (Dec) |  | 0.1% | 0.0% |
-| 35 min | EUR | French Current Account (Nov) |  |  | 1.10B |
-| 35 min | EUR | French Exports (Nov) |  |  | 51.7B |
-| 35 min | EUR | French Imports (Nov) |  |  | 55.6B |
-| 35 min | EUR | French Reserve Assets Total (Dec) |  |  | 359,393.0M |
-| 35 min | EUR | French Trade Balance (Nov) |  | -4.3B | -3.9B |
-| 09:00 | EUR | Italian Monthly Unemployment Rate (Nov) |  | 6.0% | 6.0% |
-| 09:00 | ZAR | Manufacturing PMI (Dec) |  |  | 42.0 |
+| 07:30 | CHF | CPI (YoY) (Dec) | 0.1% | 0.1% | 0.0% |
+| 07:45 | EUR | French Current Account (Nov) | -0.80B |  | 1.40B |
+| 07:45 | EUR | French Exports (Nov) | 52.2B |  | 51.8B |
+| 07:45 | EUR | French Imports (Nov) | 56.4B |  | 55.3B |
+| 07:45 | EUR | French Reserve Assets Total (Dec) | 362,743.0M |  | 359,393.0M |
+| 07:45 | EUR | French Trade Balance (Nov) | -4.2B | -4.3B | -3.5B |
+| 49 min | EUR | Italian Monthly Unemployment Rate (Nov) |  | 6.0% | 6.0% |
+| 49 min | ZAR | Manufacturing PMI (Dec) |  |  | 42.0 |
 | 09:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.199% |
 | 09:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.471% |
 | 09:40 | EUR | Spanish 7-Year Obligacion Auction |  |  | 2.885% |

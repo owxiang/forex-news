@@ -14,17 +14,17 @@
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Dec) | 0.3% | 1.1% | 0.6% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Nov) | 5.6% | -0.9% | 1.6% |
 | 07:00 | NOK | Low | Manufacturing Production (MoM) (Nov) | 2.4% |  | -1.3% |
-| 20 min | CHF | Moderate | CPI (MoM) (Dec) |  | 0.0% | -0.2% |
-| 20 min | CHF | Low | CPI (YoY) (Dec) |  | 0.1% | 0.0% |
-| 35 min | EUR | Low | French Current Account (Nov) |  |  | 1.10B |
-| 35 min | EUR | Low | French Exports (Nov) |  |  | 51.7B |
-| 35 min | EUR | Low | French Imports (Nov) |  |  | 55.6B |
-| 35 min | EUR | Low | French Reserve Assets Total (Dec) |  |  | 359,393.0M |
-| 35 min | EUR | Low | French Trade Balance (Nov) |  | -4.3B | -3.9B |
-| 08:30 | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
-| 08:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Nov) |  | 6.0% | 6.0% |
-| 09:00 | ZAR | Low | Manufacturing PMI (Dec) |  |  | 42.0 |
+| 07:30 | CHF | Moderate | CPI (MoM) (Dec) | 0.0% | 0.0% | -0.2% |
+| 07:30 | CHF | Low | CPI (YoY) (Dec) | 0.1% | 0.1% | 0.0% |
+| 07:45 | EUR | Low | French Current Account (Nov) | -0.80B |  | 1.40B |
+| 07:45 | EUR | Low | French Exports (Nov) | 52.2B |  | 51.8B |
+| 07:45 | EUR | Low | French Imports (Nov) | 56.4B |  | 55.3B |
+| 07:45 | EUR | Low | French Reserve Assets Total (Dec) | 362,743.0M |  | 359,393.0M |
+| 07:45 | EUR | Low | French Trade Balance (Nov) | -4.2B | -4.3B | -3.5B |
+| 19 min | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
+| 19 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 49 min | EUR | Low | Italian Monthly Unemployment Rate (Nov) |  | 6.0% | 6.0% |
+| 49 min | ZAR | Low | Manufacturing PMI (Dec) |  |  | 42.0 |
 | 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.199% |
 | 09:40 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.471% |
 | 09:40 | EUR | Low | Spanish 7-Year Obligacion Auction |  |  | 2.885% |
