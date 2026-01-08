@@ -74,8 +74,8 @@
 | 16:30 | USD | Low | 8-Week Bill Auction | 3.540% |  | 3.580% |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 5.4% | 2.7% | 2.7% |
 | 20:00 | USD | Moderate | Consumer Credit (Nov) | 4.23B | 10.10B | 9.24B |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,641B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.853T |
+| 22 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,641B |
+| 22 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.853T |
 | 23:00 | KRW | Low | Current Account (Nov) |  |  | 6.81B |
 | 23:30 | JPY | Moderate | Household Spending (YoY) (Nov) |  | -1.0% | -3.0% |
 | 23:30 | JPY | Moderate | Household Spending (MoM) (Nov) |  | 2.7% | -3.5% |

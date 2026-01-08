@@ -50,7 +50,7 @@
 | 15:30 | USD | Natural Gas Storage | -119B | -109B | -38B |
 | 16:30 | USD | 4-Week Bill Auction | 3.550% |  | 3.590% |
 | 16:30 | USD | 8-Week Bill Auction | 3.540% |  | 3.580% |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.853T |
+| 22 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.853T |
 | 23:00 | KRW | Current Account (Nov) |  |  | 6.81B |
 | 23:30 | IDR | Motorbike Sales (YoY) (Dec) |  |  | 2.10% |
 | 23:50 | JPY | Foreign Reserves (USD) (Dec) |  |  | 1,359.4B |
