@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | AUD | Low | Exports (MoM) (Nov) |  |  | 3.4% |
-| 00:30 | AUD | Low | Imports (MoM) (Nov) |  |  | 2.0% |
-| 00:30 | AUD | Moderate | Trade Balance (Nov) |  | 5.140B | 4.385B |
+| 00:30 | AUD | Low | Exports (MoM) (Nov) | -2.9% |  | 2.8% |
+| 00:30 | AUD | Low | Imports (MoM) (Nov) | 0.2% |  | 2.4% |
+| 00:30 | AUD | Moderate | Trade Balance (Nov) | 2.936B | 5.140B | 4.353B |
 | 03:00 | IDR | Low | FX Reserves (USD) (Dec) |  |  | 150.10B |
 | 03:35 | JPY | Low | 30-Year JGB Auction |  |  | 3.427% |
 | 05:00 | JPY | Low | Household Confidence (Dec) |  | 37.8 | 37.5 |

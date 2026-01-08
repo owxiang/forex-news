@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Trade Balance (Nov) |  | 5.140B | 4.385B |
+| 00:30 | AUD | Trade Balance (Nov) | 2.936B | 5.140B | 4.353B |
 | 07:00 | GBP | Halifax House Price Index (MoM) (Dec) |  | 0.1% | 0.0% |
 | 07:00 | GBP | Halifax House Price Index (YoY) (Dec) |  | 1.1% | 0.7% |
 | 07:00 | EUR | German Factory Orders (MoM) (Nov) |  | -0.9% | 1.5% |
