@@ -11,9 +11,9 @@
 | 08:30 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 09:30 | GBP | Mortgage Rate (GBP) (Dec) | 6.77% |  | 6.81% |
 | 10:00 | EUR | Unemployment Rate (Nov) | 6.3% | 6.4% | 6.4% |
-| 52 min | MXN | CPI (YoY) (Dec) |  | 3.80% | 3.80% |
-| 52 min | MXN | CPI (MoM) (Dec) |  | 0.40% | 0.66% |
-| 52 min | BRL | Industrial Production (YoY) (Nov) |  | -0.1% | -0.5% |
+| 12:00 | MXN | CPI (YoY) (Dec) | 3.69% | 3.80% | 3.80% |
+| 12:00 | MXN | CPI (MoM) (Dec) | 0.28% | 0.40% | 0.66% |
+| 12:00 | BRL | Industrial Production (YoY) (Nov) | -1.2% | -0.1% | -0.5% |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,900K | 1,866K |
 | 13:30 | USD | Exports (Oct) |  |  | 289.30B |
 | 13:30 | USD | Imports (Oct) |  |  | 342.10B |

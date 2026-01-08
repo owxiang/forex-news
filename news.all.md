@@ -27,11 +27,12 @@
 | 09:00 | ZAR | Low | Manufacturing PMI (Dec) | 40.5 |  | 42.0 |
 | 09:30 | GBP | Moderate | Mortgage Rate (GBP) (Dec) | 6.77% |  | 6.81% |
 | 10:00 | EUR | Low | French 10-Year OAT Auction | 3.53% |  | 3.38% |
+| 10:00 | EUR | Low | French 30-Year OAT Auction | 4.46% |  | 4.37% |
 | 10:00 | EUR | Low | Spanish 5-Year Bonos Auction | 2.512% |  | 2.471% |
 | 10:00 | EUR | Low | Spanish 7-Year Obligacion Auction | 2.938% |  | 2.885% |
 | 10:00 | EUR | Low | Business and Consumer Survey (Dec) | 96.7 | 97.0 | 97.1 |
 | 10:00 | EUR | Low | Business Climate (Dec) | -0.56 |  | -0.66 |
-| 10:00 | EUR | Low | Consumer Confidence (Dec) | -13.1 | -14.6 | -14.2 |
+| 10:00 | EUR | Low | Consumer Confidence (Dec) | -13.1 | -14.6 | -12.8 |
 | 10:00 | EUR | Low | Consumer Inflation Expectation (Dec) | 26.7 |  | 24.3 |
 | 10:00 | EUR | Low | Selling Price Expectations (Dec) | 10.9 |  | 9.9 |
 | 10:00 | EUR | Low | Services Sentiment (Dec) | 5.6 | 5.9 | 5.8 |
@@ -43,16 +44,16 @@
 | 10:30 | USD | Low | Challenger Job Cuts (Dec) | 35.553K |  | 71.321K |
 | 11:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Dec) | 0.10% |  | 0.01% |
 | 11:00 | ZAR | Low | Manufacturing Production (MoM) (Nov) | -1.1% |  | 1.0% |
-| 11:00 | ZAR | Low | Manufacturing Production (YoY) (Nov) | -1.0% |  | 0.4% |
-| 22 min | INR | Low | M3 Money Supply |  | 9.3% | 9.3% |
-| 52 min | MXN | Low | Core CPI (MoM) (Dec) |  | 0.42% | 0.19% |
-| 52 min | MXN | Moderate | CPI (YoY) (Dec) |  | 3.80% | 3.80% |
-| 52 min | MXN | Moderate | CPI (MoM) (Dec) |  | 0.40% | 0.66% |
-| 52 min | MXN | Low | Month Core Inflation (YoY) (Dec) |  | 4.34% | 4.43% |
-| 52 min | MXN | Low | PPI (MoM) (Dec) |  |  | 0.40% |
-| 52 min | MXN | Low | PPI (YoY) (Dec) |  |  | 2.40% |
-| 52 min | BRL | Moderate | Industrial Production (YoY) (Nov) |  | -0.1% | -0.5% |
-| 52 min | BRL | Low | Industrial Production (MoM) (Nov) |  | 0.2% | 0.1% |
+| 11:00 | ZAR | Low | Manufacturing Production (YoY) (Nov) | -1.0% | 0.2% | 0.4% |
+| 11:30 | INR | Low | M3 Money Supply | 12.1% | 9.3% | 9.3% |
+| 12:00 | MXN | Low | Core CPI (MoM) (Dec) | 0.41% | 0.42% | 0.19% |
+| 12:00 | MXN | Moderate | CPI (YoY) (Dec) | 3.69% | 3.80% | 3.80% |
+| 12:00 | MXN | Moderate | CPI (MoM) (Dec) | 0.28% | 0.40% | 0.66% |
+| 12:00 | MXN | Low | Month Core Inflation (YoY) (Dec) | 4.33% | 4.34% | 4.43% |
+| 12:00 | MXN | Low | PPI (MoM) (Dec) | 0.50% |  | 0.40% |
+| 12:00 | MXN | Low | PPI (YoY) (Dec) | 2.10% |  | 2.40% |
+| 12:00 | BRL | Moderate | Industrial Production (YoY) (Nov) | -1.2% | -0.1% | -0.5% |
+| 12:00 | BRL | Low | Industrial Production (MoM) (Nov) | 0.0% | 0.2% | 0.0% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,900K | 1,866K |
 | 13:30 | USD | Moderate | Exports (Oct) |  |  | 289.30B |
 | 13:30 | USD | Moderate | Imports (Oct) |  |  | 342.10B |
