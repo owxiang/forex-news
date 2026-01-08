@@ -6,9 +6,9 @@
 | 00:30 | AUD | Imports (MoM) (Nov) | 0.2% |  | 2.4% |
 | 03:00 | IDR | FX Reserves (USD) (Dec) | 156.50B |  | 150.10B |
 | 03:35 | JPY | 30-Year JGB Auction | 3.447% |  | 3.427% |
-| 38 min | JPY | Household Confidence (Dec) |  | 37.8 | 37.5 |
-| 06:00 | ZAR | Foreign Reserves (USD) (Dec) |  |  | 72.07B |
-| 06:00 | ZAR | Net FX Reserves (USD) (Dec) |  |  | 70.024B |
+| 05:00 | JPY | Household Confidence (Dec) | 37.2 | 37.8 | 37.5 |
+| 50 min | ZAR | Foreign Reserves (USD) (Dec) |  |  | 72.07B |
+| 50 min | ZAR | Net FX Reserves (USD) (Dec) |  |  | 70.024B |
 | 07:00 | NOK | Manufacturing Production (MoM) (Nov) |  |  | -0.9% |
 | 07:30 | CHF | CPI (YoY) (Dec) |  | 0.1% | 0.0% |
 | 07:45 | EUR | French Current Account (Nov) |  |  | 1.10B |
@@ -28,7 +28,7 @@
 | 10:00 | EUR | Consumer Inflation Expectation (Dec) |  |  | 23.1 |
 | 10:00 | EUR | Selling Price Expectations (Dec) |  |  | 9.9 |
 | 10:00 | EUR | Services Sentiment (Dec) |  | 5.9 | 5.7 |
-| 10:00 | EUR | Industrial Sentiment (Dec) |  | -9.0 | -9.3 |
+| 10:00 | EUR | Industrial Sentiment (Dec) |  | -9.1 | -9.3 |
 | 10:00 | EUR | PPI (MoM) (Nov) |  | 0.4% | 0.1% |
 | 10:00 | EUR | PPI (YoY) (Nov) |  | -1.9% | -0.5% |
 | 11:00 | BRL | IGP-DI Inflation Index (MoM) (Dec) |  |  | 0.01% |

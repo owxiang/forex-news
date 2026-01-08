@@ -7,9 +7,9 @@
 | 00:30 | AUD | Moderate | Trade Balance (Nov) | 2.936B | 5.140B | 4.353B |
 | 03:00 | IDR | Low | FX Reserves (USD) (Dec) | 156.50B |  | 150.10B |
 | 03:35 | JPY | Low | 30-Year JGB Auction | 3.447% |  | 3.427% |
-| 38 min | JPY | Low | Household Confidence (Dec) |  | 37.8 | 37.5 |
-| 06:00 | ZAR | Low | Foreign Reserves (USD) (Dec) |  |  | 72.07B |
-| 06:00 | ZAR | Low | Net FX Reserves (USD) (Dec) |  |  | 70.024B |
+| 05:00 | JPY | Low | Household Confidence (Dec) | 37.2 | 37.8 | 37.5 |
+| 50 min | ZAR | Low | Foreign Reserves (USD) (Dec) |  |  | 72.07B |
+| 50 min | ZAR | Low | Net FX Reserves (USD) (Dec) |  |  | 70.024B |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Dec) |  | 0.1% | 0.0% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Dec) |  | 1.1% | 0.7% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Nov) |  | -0.9% | 1.5% |
@@ -36,7 +36,7 @@
 | 10:00 | EUR | Low | Consumer Inflation Expectation (Dec) |  |  | 23.1 |
 | 10:00 | EUR | Low | Selling Price Expectations (Dec) |  |  | 9.9 |
 | 10:00 | EUR | Low | Services Sentiment (Dec) |  | 5.9 | 5.7 |
-| 10:00 | EUR | Low | Industrial Sentiment (Dec) |  | -9.0 | -9.3 |
+| 10:00 | EUR | Low | Industrial Sentiment (Dec) |  | -9.1 | -9.3 |
 | 10:00 | EUR | Low | PPI (MoM) (Nov) |  | 0.4% | 0.1% |
 | 10:00 | EUR | Low | PPI (YoY) (Nov) |  | -1.9% | -0.5% |
 | 10:00 | EUR | Moderate | Unemployment Rate (Nov) |  | 6.4% | 6.4% |
