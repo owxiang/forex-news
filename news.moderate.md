@@ -14,14 +14,14 @@
 | 12:00 | MXN | CPI (YoY) (Dec) | 3.69% | 3.80% | 3.80% |
 | 12:00 | MXN | CPI (MoM) (Dec) | 0.28% | 0.40% | 0.66% |
 | 12:00 | BRL | Industrial Production (YoY) (Nov) | -1.2% | -0.1% | -0.5% |
-| 9 min | USD | Continuing Jobless Claims |  | 1,900K | 1,866K |
-| 9 min | USD | Exports (Oct) |  |  | 289.30B |
-| 9 min | USD | Imports (Oct) |  |  | 342.10B |
-| 9 min | USD | Nonfarm Productivity (QoQ) (Q3) |  | 4.9% | 3.3% |
-| 9 min | USD | Trade Balance (Oct) |  | -58.10B | -52.80B |
-| 9 min | USD | Unit Labor Costs (QoQ) (Q3) |  | 0.0% | 1.0% |
-| 9 min | CAD | Trade Balance (Oct) |  | -1.40B | 0.15B |
-| 15:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
+| 13:30 | USD | Continuing Jobless Claims | 1,914K | 1,900K | 1,858K |
+| 13:30 | USD | Exports (Oct) | 302.00B |  | 289.30B |
+| 13:30 | USD | Imports (Oct) | 331.40B |  | 342.10B |
+| 13:30 | USD | Nonfarm Productivity (QoQ) (Q3) | 4.9% | 4.9% | 4.1% |
+| 13:30 | USD | Trade Balance (Oct) | -29.40B | -58.10B | -48.10B |
+| 13:30 | USD | Unit Labor Costs (QoQ) (Q3) | -1.9% | 0.0% | -2.9% |
+| 13:30 | CAD | Trade Balance (Oct) | -0.58B | -1.40B | 0.24B |
+| 51 min | MXN | Monetary Policy Meeting Minutes |  |  |  |
 | 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Dec) |  |  | 3.2% |
 | 17:00 | USD | Atlanta Fed GDPNow (Q4) |  | 2.7% | 2.7% |
 | 20:00 | USD | Consumer Credit (Nov) |  | 10.10B | 9.18B |

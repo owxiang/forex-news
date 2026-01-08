@@ -42,11 +42,11 @@
 | 12:00 | MXN | PPI (YoY) (Dec) | 2.10% |  | 2.40% |
 | 12:00 | BRL | Industrial Production (MoM) (Nov) | 0.0% | 0.2% | 0.1% |
 | 12:30 | USD | Challenger Job Cuts (Dec) | 35.553K |  | 71.321K |
-| 9 min | USD | Jobless Claims 4-Week Avg. |  |  | 218.75K |
-| 9 min | CAD | Exports (Oct) |  |  | 64.23B |
-| 9 min | CAD | Imports (Oct) |  |  | 64.08B |
-| 15:00 | USD | Wholesale Inventories (MoM) (Oct) |  | 0.2% | 0.5% |
-| 15:00 | USD | Wholesale Trade Sales (MoM) (Oct) |  |  | -0.2% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 211.75K |  | 219.00K |
+| 13:30 | CAD | Exports (Oct) | 65.61B |  | 64.29B |
+| 13:30 | CAD | Imports (Oct) | 66.19B |  | 64.04B |
+| 51 min | USD | Wholesale Inventories (MoM) (Oct) |  | 0.2% | 0.5% |
+| 51 min | USD | Wholesale Trade Sales (MoM) (Oct) |  |  | -0.2% |
 | 15:30 | USD | Natural Gas Storage |  | -109B | -38B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.590% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 3.580% |

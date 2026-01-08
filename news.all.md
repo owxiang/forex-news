@@ -54,20 +54,20 @@
 | 12:00 | BRL | Low | Industrial Production (MoM) (Nov) | 0.0% | 0.2% | 0.1% |
 | 12:00 | BRL | Moderate | Industrial Production (YoY) (Nov) | -1.2% | -0.1% | -0.5% |
 | 12:30 | USD | Low | Challenger Job Cuts (Dec) | 35.553K |  | 71.321K |
-| 9 min | USD | Moderate | Continuing Jobless Claims |  | 1,900K | 1,866K |
-| 9 min | USD | Moderate | Exports (Oct) |  |  | 289.30B |
-| 9 min | USD | Moderate | Imports (Oct) |  |  | 342.10B |
-| 9 min | USD | High | Initial Jobless Claims |  | 213K | 199K |
-| 9 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 218.75K |
-| 9 min | USD | Moderate | Nonfarm Productivity (QoQ) (Q3) |  | 4.9% | 3.3% |
-| 9 min | USD | Moderate | Trade Balance (Oct) |  | -58.10B | -52.80B |
-| 9 min | USD | Moderate | Unit Labor Costs (QoQ) (Q3) |  | 0.0% | 1.0% |
-| 9 min | CAD | Low | Exports (Oct) |  |  | 64.23B |
-| 9 min | CAD | Low | Imports (Oct) |  |  | 64.08B |
-| 9 min | CAD | Moderate | Trade Balance (Oct) |  | -1.40B | 0.15B |
-| 15:00 | USD | Low | Wholesale Inventories (MoM) (Oct) |  | 0.2% | 0.5% |
-| 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Oct) |  |  | -0.2% |
-| 15:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,914K | 1,900K | 1,858K |
+| 13:30 | USD | Moderate | Exports (Oct) | 302.00B |  | 289.30B |
+| 13:30 | USD | Moderate | Imports (Oct) | 331.40B |  | 342.10B |
+| 13:30 | USD | High | Initial Jobless Claims | 208K | 213K | 200K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 211.75K |  | 219.00K |
+| 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q3) | 4.9% | 4.9% | 4.1% |
+| 13:30 | USD | Moderate | Trade Balance (Oct) | -29.40B | -58.10B | -48.10B |
+| 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q3) | -1.9% | 0.0% | -2.9% |
+| 13:30 | CAD | Low | Exports (Oct) | 65.61B |  | 64.29B |
+| 13:30 | CAD | Low | Imports (Oct) | 66.19B |  | 64.04B |
+| 13:30 | CAD | Moderate | Trade Balance (Oct) | -0.58B | -1.40B | 0.24B |
+| 51 min | USD | Low | Wholesale Inventories (MoM) (Oct) |  | 0.2% | 0.5% |
+| 51 min | USD | Low | Wholesale Trade Sales (MoM) (Oct) |  |  | -0.2% |
+| 51 min | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage |  | -109B | -38B |
 | 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Dec) |  |  | 3.2% |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.590% |
