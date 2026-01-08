@@ -65,11 +65,11 @@
 | 13:30 | CAD | Low | Exports (Oct) | 65.61B |  | 64.29B |
 | 13:30 | CAD | Low | Imports (Oct) | 66.19B |  | 64.04B |
 | 13:30 | CAD | Moderate | Trade Balance (Oct) | -0.58B | -1.40B | 0.24B |
-| 51 min | USD | Low | Wholesale Inventories (MoM) (Oct) |  | 0.2% | 0.5% |
-| 51 min | USD | Low | Wholesale Trade Sales (MoM) (Oct) |  |  | -0.2% |
-| 51 min | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
-| 15:30 | USD | Low | Natural Gas Storage |  | -109B | -38B |
-| 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Dec) |  |  | 3.2% |
+| 15:00 | USD | Low | Wholesale Inventories (MoM) (Oct) | 0.2% | 0.2% | 0.5% |
+| 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Oct) | -0.4% |  | -0.2% |
+| 15:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
+| 20 min | USD | Low | Natural Gas Storage |  | -109B | -38B |
+| 50 min | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Dec) |  |  | 3.2% |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.590% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.580% |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 2.7% | 2.7% |

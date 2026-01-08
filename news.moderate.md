@@ -21,8 +21,8 @@
 | 13:30 | USD | Trade Balance (Oct) | -29.40B | -58.10B | -48.10B |
 | 13:30 | USD | Unit Labor Costs (QoQ) (Q3) | -1.9% | 0.0% | -2.9% |
 | 13:30 | CAD | Trade Balance (Oct) | -0.58B | -1.40B | 0.24B |
-| 51 min | MXN | Monetary Policy Meeting Minutes |  |  |  |
-| 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Dec) |  |  | 3.2% |
+| 15:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
+| 50 min | USD | NY Fed 1-Year Consumer Inflation Expectations (Dec) |  |  | 3.2% |
 | 17:00 | USD | Atlanta Fed GDPNow (Q4) |  | 2.7% | 2.7% |
 | 20:00 | USD | Consumer Credit (Nov) |  | 10.10B | 9.18B |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,641B |
