@@ -7,10 +7,10 @@
 | 07:00 | GBP | Halifax House Price Index (YoY) (Dec) | 0.3% | 1.1% | 0.6% |
 | 07:00 | EUR | German Factory Orders (MoM) (Nov) | 5.6% | -0.9% | 1.6% |
 | 07:30 | CHF | CPI (MoM) (Dec) | 0.0% | 0.0% | -0.2% |
-| 19 min | CHF | SNB Monetary Policy Assessment |  |  |  |
-| 19 min | EUR | ECB's De Guindos Speaks |  |  |  |
-| 10:00 | GBP | Mortgage Rate (GBP) (Dec) |  |  | 6.81% |
-| 10:00 | EUR | Unemployment Rate (Nov) |  | 6.4% | 6.4% |
+| 08:30 | CHF | SNB Monetary Policy Assessment |  |  |  |
+| 08:30 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 49 min | GBP | Mortgage Rate (GBP) (Dec) |  |  | 6.81% |
+| 49 min | EUR | Unemployment Rate (Nov) |  | 6.4% | 6.4% |
 | 12:00 | MXN | CPI (YoY) (Dec) |  | 3.80% | 3.80% |
 | 12:00 | MXN | CPI (MoM) (Dec) |  | 0.40% | 0.66% |
 | 12:00 | BRL | Industrial Production (YoY) (Nov) |  | -0.1% | -0.5% |

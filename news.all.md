@@ -21,25 +21,25 @@
 | 07:45 | EUR | Low | French Imports (Nov) | 56.4B |  | 55.3B |
 | 07:45 | EUR | Low | French Reserve Assets Total (Dec) | 362,743.0M |  | 359,393.0M |
 | 07:45 | EUR | Low | French Trade Balance (Nov) | -4.2B | -4.3B | -3.5B |
-| 19 min | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
-| 19 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 49 min | EUR | Low | Italian Monthly Unemployment Rate (Nov) |  | 6.0% | 6.0% |
-| 49 min | ZAR | Low | Manufacturing PMI (Dec) |  |  | 42.0 |
-| 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.199% |
-| 09:40 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.471% |
-| 09:40 | EUR | Low | Spanish 7-Year Obligacion Auction |  |  | 2.885% |
-| 09:50 | EUR | Low | French 10-Year OAT Auction |  |  | 3.38% |
-| 10:00 | GBP | Moderate | Mortgage Rate (GBP) (Dec) |  |  | 6.81% |
-| 10:00 | EUR | Low | Business and Consumer Survey (Dec) |  | 97.0 | 97.0 |
-| 10:00 | EUR | Low | Business Climate (Dec) |  |  | -0.66 |
-| 10:00 | EUR | Low | Consumer Confidence (Dec) |  | -14.6 | -14.2 |
-| 10:00 | EUR | Low | Consumer Inflation Expectation (Dec) |  |  | 23.1 |
-| 10:00 | EUR | Low | Selling Price Expectations (Dec) |  |  | 9.9 |
-| 10:00 | EUR | Low | Services Sentiment (Dec) |  | 5.9 | 5.7 |
-| 10:00 | EUR | Low | Industrial Sentiment (Dec) |  | -9.1 | -9.3 |
-| 10:00 | EUR | Low | PPI (MoM) (Nov) |  | 0.4% | 0.1% |
-| 10:00 | EUR | Low | PPI (YoY) (Nov) |  | -1.9% | -0.5% |
-| 10:00 | EUR | Moderate | Unemployment Rate (Nov) |  | 6.4% | 6.4% |
+| 08:30 | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
+| 08:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Nov) | 5.7% | 6.0% | 5.8% |
+| 09:00 | ZAR | Low | Manufacturing PMI (Dec) |  |  | 42.0 |
+| 29 min | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.199% |
+| 29 min | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.471% |
+| 29 min | EUR | Low | Spanish 7-Year Obligacion Auction |  |  | 2.885% |
+| 39 min | EUR | Low | French 10-Year OAT Auction |  |  | 3.38% |
+| 49 min | GBP | Moderate | Mortgage Rate (GBP) (Dec) |  |  | 6.81% |
+| 49 min | EUR | Low | Business and Consumer Survey (Dec) |  | 97.0 | 97.0 |
+| 49 min | EUR | Low | Business Climate (Dec) |  |  | -0.66 |
+| 49 min | EUR | Low | Consumer Confidence (Dec) |  | -14.6 | -14.2 |
+| 49 min | EUR | Low | Consumer Inflation Expectation (Dec) |  |  | 23.1 |
+| 49 min | EUR | Low | Selling Price Expectations (Dec) |  |  | 9.9 |
+| 49 min | EUR | Low | Services Sentiment (Dec) |  | 5.9 | 5.7 |
+| 49 min | EUR | Low | Industrial Sentiment (Dec) |  | -9.1 | -9.3 |
+| 49 min | EUR | Low | PPI (MoM) (Nov) |  | 0.4% | 0.1% |
+| 49 min | EUR | Low | PPI (YoY) (Nov) |  | -1.9% | -0.5% |
+| 49 min | EUR | Moderate | Unemployment Rate (Nov) |  | 6.4% | 6.4% |
 | 11:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Dec) |  |  | 0.01% |
 | 11:00 | ZAR | Low | Manufacturing Production (YoY) (Nov) |  |  | 0.2% |
 | 11:00 | ZAR | Low | Manufacturing Production (MoM) (Nov) |  |  | 1.0% |

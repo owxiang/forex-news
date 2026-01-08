@@ -16,21 +16,21 @@
 | 07:45 | EUR | French Imports (Nov) | 56.4B |  | 55.3B |
 | 07:45 | EUR | French Reserve Assets Total (Dec) | 362,743.0M |  | 359,393.0M |
 | 07:45 | EUR | French Trade Balance (Nov) | -4.2B | -4.3B | -3.5B |
-| 49 min | EUR | Italian Monthly Unemployment Rate (Nov) |  | 6.0% | 6.0% |
-| 49 min | ZAR | Manufacturing PMI (Dec) |  |  | 42.0 |
-| 09:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.199% |
-| 09:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.471% |
-| 09:40 | EUR | Spanish 7-Year Obligacion Auction |  |  | 2.885% |
-| 09:50 | EUR | French 10-Year OAT Auction |  |  | 3.38% |
-| 10:00 | EUR | Business and Consumer Survey (Dec) |  | 97.0 | 97.0 |
-| 10:00 | EUR | Business Climate (Dec) |  |  | -0.66 |
-| 10:00 | EUR | Consumer Confidence (Dec) |  | -14.6 | -14.2 |
-| 10:00 | EUR | Consumer Inflation Expectation (Dec) |  |  | 23.1 |
-| 10:00 | EUR | Selling Price Expectations (Dec) |  |  | 9.9 |
-| 10:00 | EUR | Services Sentiment (Dec) |  | 5.9 | 5.7 |
-| 10:00 | EUR | Industrial Sentiment (Dec) |  | -9.1 | -9.3 |
-| 10:00 | EUR | PPI (MoM) (Nov) |  | 0.4% | 0.1% |
-| 10:00 | EUR | PPI (YoY) (Nov) |  | -1.9% | -0.5% |
+| 09:00 | EUR | Italian Monthly Unemployment Rate (Nov) | 5.7% | 6.0% | 5.8% |
+| 09:00 | ZAR | Manufacturing PMI (Dec) |  |  | 42.0 |
+| 29 min | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.199% |
+| 29 min | EUR | Spanish 5-Year Bonos Auction |  |  | 2.471% |
+| 29 min | EUR | Spanish 7-Year Obligacion Auction |  |  | 2.885% |
+| 39 min | EUR | French 10-Year OAT Auction |  |  | 3.38% |
+| 49 min | EUR | Business and Consumer Survey (Dec) |  | 97.0 | 97.0 |
+| 49 min | EUR | Business Climate (Dec) |  |  | -0.66 |
+| 49 min | EUR | Consumer Confidence (Dec) |  | -14.6 | -14.2 |
+| 49 min | EUR | Consumer Inflation Expectation (Dec) |  |  | 23.1 |
+| 49 min | EUR | Selling Price Expectations (Dec) |  |  | 9.9 |
+| 49 min | EUR | Services Sentiment (Dec) |  | 5.9 | 5.7 |
+| 49 min | EUR | Industrial Sentiment (Dec) |  | -9.1 | -9.3 |
+| 49 min | EUR | PPI (MoM) (Nov) |  | 0.4% | 0.1% |
+| 49 min | EUR | PPI (YoY) (Nov) |  | -1.9% | -0.5% |
 | 11:00 | BRL | IGP-DI Inflation Index (MoM) (Dec) |  |  | 0.01% |
 | 11:00 | ZAR | Manufacturing Production (YoY) (Nov) |  |  | 0.2% |
 | 11:00 | ZAR | Manufacturing Production (MoM) (Nov) |  |  | 1.0% |
