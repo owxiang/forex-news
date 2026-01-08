@@ -17,23 +17,22 @@
 | 07:45 | EUR | French Reserve Assets Total (Dec) | 362,743.0M |  | 359,393.0M |
 | 07:45 | EUR | French Trade Balance (Nov) | -4.2B | -4.3B | -3.5B |
 | 09:00 | EUR | Italian Monthly Unemployment Rate (Nov) | 5.7% | 6.0% | 5.8% |
-| 09:00 | ZAR | Manufacturing PMI (Dec) |  |  | 42.0 |
-| 29 min | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.199% |
-| 29 min | EUR | Spanish 5-Year Bonos Auction |  |  | 2.471% |
-| 29 min | EUR | Spanish 7-Year Obligacion Auction |  |  | 2.885% |
-| 39 min | EUR | French 10-Year OAT Auction |  |  | 3.38% |
-| 49 min | EUR | Business and Consumer Survey (Dec) |  | 97.0 | 97.0 |
-| 49 min | EUR | Business Climate (Dec) |  |  | -0.66 |
-| 49 min | EUR | Consumer Confidence (Dec) |  | -14.6 | -14.2 |
-| 49 min | EUR | Consumer Inflation Expectation (Dec) |  |  | 23.1 |
-| 49 min | EUR | Selling Price Expectations (Dec) |  |  | 9.9 |
-| 49 min | EUR | Services Sentiment (Dec) |  | 5.9 | 5.7 |
-| 49 min | EUR | Industrial Sentiment (Dec) |  | -9.1 | -9.3 |
-| 49 min | EUR | PPI (MoM) (Nov) |  | 0.4% | 0.1% |
-| 49 min | EUR | PPI (YoY) (Nov) |  | -1.9% | -0.5% |
-| 11:00 | BRL | IGP-DI Inflation Index (MoM) (Dec) |  |  | 0.01% |
-| 11:00 | ZAR | Manufacturing Production (YoY) (Nov) |  |  | 0.2% |
-| 11:00 | ZAR | Manufacturing Production (MoM) (Nov) |  |  | 1.0% |
+| 09:00 | ZAR | Manufacturing PMI (Dec) | 40.5 |  | 42.0 |
+| 10:00 | EUR | French 10-Year OAT Auction | 3.53% |  | 3.38% |
+| 10:00 | EUR | Spanish 5-Year Bonos Auction | 2.512% |  | 2.471% |
+| 10:00 | EUR | Spanish 7-Year Obligacion Auction | 2.938% |  | 2.885% |
+| 10:00 | EUR | Business and Consumer Survey (Dec) | 96.7 | 97.0 | 97.1 |
+| 10:00 | EUR | Business Climate (Dec) | -0.56 |  | -0.66 |
+| 10:00 | EUR | Consumer Confidence (Dec) | -13.1 | -14.6 | -14.2 |
+| 10:00 | EUR | Consumer Inflation Expectation (Dec) | 26.7 |  | 24.3 |
+| 10:00 | EUR | Selling Price Expectations (Dec) | 10.9 |  | 9.9 |
+| 10:00 | EUR | Services Sentiment (Dec) | 5.6 | 5.9 | 5.8 |
+| 10:00 | EUR | Industrial Sentiment (Dec) | -9.0 | -9.1 | -9.3 |
+| 10:00 | EUR | PPI (MoM) (Nov) | 0.5% | 0.4% | 0.1% |
+| 10:00 | EUR | PPI (YoY) (Nov) | -1.7% | -1.9% | -0.5% |
+| 51 min | BRL | IGP-DI Inflation Index (MoM) (Dec) |  |  | 0.01% |
+| 51 min | ZAR | Manufacturing Production (YoY) (Nov) |  |  | 0.2% |
+| 51 min | ZAR | Manufacturing Production (MoM) (Nov) |  |  | 1.0% |
 | 11:30 | INR | M3 Money Supply |  | 9.3% | 9.3% |
 | 12:00 | MXN | Core CPI (MoM) (Dec) |  | 0.42% | 0.19% |
 | 12:00 | MXN | Month Core Inflation (YoY) (Dec) |  | 4.34% | 4.43% |
