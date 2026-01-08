@@ -33,8 +33,8 @@
 | 10:00 | EUR | PPI (YoY) (Nov) | -1.7% | -1.9% | -0.5% |
 | 10:30 | USD | Challenger Job Cuts (YoY) | -8.3% |  | 23.5% |
 | 11:00 | BRL | IGP-DI Inflation Index (MoM) (Dec) | 0.10% |  | 0.01% |
-| 11:00 | ZAR | Manufacturing Production (YoY) (Nov) | -1.0% | 0.2% | 0.4% |
 | 11:00 | ZAR | Manufacturing Production (MoM) (Nov) | -1.1% |  | 1.0% |
+| 11:00 | ZAR | Manufacturing Production (YoY) (Nov) | -1.0% | 0.2% | 0.4% |
 | 11:30 | INR | M3 Money Supply | 12.1% | 9.3% | 9.3% |
 | 12:00 | MXN | Core CPI (MoM) (Dec) | 0.41% | 0.42% | 0.19% |
 | 12:00 | MXN | Month Core Inflation (YoY) (Dec) | 4.33% | 4.34% | 4.43% |
@@ -50,8 +50,7 @@
 | 15:30 | USD | Natural Gas Storage | -119B | -109B | -38B |
 | 16:30 | USD | 4-Week Bill Auction | 3.550% |  | 3.590% |
 | 16:30 | USD | 8-Week Bill Auction | 3.540% |  | 3.580% |
-| 22 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.853T |
-| 23:00 | KRW | Current Account (Nov) |  |  | 6.81B |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.023T |  | 2.853T |
+| 53 min | KRW | Current Account (Nov) |  |  | 6.81B |
 | 23:30 | IDR | Motorbike Sales (YoY) (Dec) |  |  | 2.10% |
-| 23:50 | JPY | Foreign Reserves (USD) (Dec) |  |  | 1,359.4B |
 | 23:50 | JPY | Foreign Reserves (USD) (Dec) |  |  | 1,359.4B |

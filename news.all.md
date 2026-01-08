@@ -14,8 +14,8 @@
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Dec) | 0.3% | 1.1% | 0.6% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Nov) | 5.6% | -0.9% | 1.6% |
 | 07:00 | NOK | Low | Manufacturing Production (MoM) (Nov) | 2.4% |  | -1.3% |
-| 07:30 | CHF | Low | CPI (YoY) (Dec) | 0.1% | 0.1% | 0.0% |
 | 07:30 | CHF | Moderate | CPI (MoM) (Dec) | 0.0% | 0.0% | -0.2% |
+| 07:30 | CHF | Low | CPI (YoY) (Dec) | 0.1% | 0.1% | 0.0% |
 | 07:45 | EUR | Low | French Current Account (Nov) | -0.80B |  | 1.40B |
 | 07:45 | EUR | Low | French Exports (Nov) | 52.2B |  | 51.8B |
 | 07:45 | EUR | Low | French Imports (Nov) | 56.4B |  | 55.3B |
@@ -42,8 +42,8 @@
 | 10:00 | EUR | Moderate | Unemployment Rate (Nov) | 6.3% | 6.4% | 6.4% |
 | 10:30 | USD | Low | Challenger Job Cuts (YoY) | -8.3% |  | 23.5% |
 | 11:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Dec) | 0.10% |  | 0.01% |
-| 11:00 | ZAR | Low | Manufacturing Production (YoY) (Nov) | -1.0% | 0.2% | 0.4% |
 | 11:00 | ZAR | Low | Manufacturing Production (MoM) (Nov) | -1.1% |  | 1.0% |
+| 11:00 | ZAR | Low | Manufacturing Production (YoY) (Nov) | -1.0% | 0.2% | 0.4% |
 | 11:30 | INR | Low | M3 Money Supply | 12.1% | 9.3% | 9.3% |
 | 12:00 | MXN | Low | Core CPI (MoM) (Dec) | 0.41% | 0.42% | 0.19% |
 | 12:00 | MXN | Moderate | CPI (YoY) (Dec) | 3.69% | 3.80% | 3.80% |
@@ -51,8 +51,8 @@
 | 12:00 | MXN | Low | Month Core Inflation (YoY) (Dec) | 4.33% | 4.34% | 4.43% |
 | 12:00 | MXN | Low | PPI (MoM) (Dec) | 0.50% |  | 0.40% |
 | 12:00 | MXN | Low | PPI (YoY) (Dec) | 2.10% |  | 2.40% |
-| 12:00 | BRL | Low | Industrial Production (MoM) (Nov) | 0.0% | 0.2% | 0.1% |
 | 12:00 | BRL | Moderate | Industrial Production (YoY) (Nov) | -1.2% | -0.1% | -0.5% |
+| 12:00 | BRL | Low | Industrial Production (MoM) (Nov) | 0.0% | 0.2% | 0.1% |
 | 12:30 | USD | Low | Challenger Job Cuts (Dec) | 35.553K |  | 71.321K |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,914K | 1,900K | 1,858K |
 | 13:30 | USD | Moderate | Exports (Oct) | 302.00B |  | 289.30B |
@@ -74,11 +74,10 @@
 | 16:30 | USD | Low | 8-Week Bill Auction | 3.540% |  | 3.580% |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 5.4% | 2.7% | 2.7% |
 | 20:00 | USD | Moderate | Consumer Credit (Nov) | 4.23B | 10.10B | 9.24B |
-| 22 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,641B |
-| 22 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.853T |
-| 23:00 | KRW | Low | Current Account (Nov) |  |  | 6.81B |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,574B |  | 6,641B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.023T |  | 2.853T |
+| 53 min | KRW | Low | Current Account (Nov) |  |  | 6.81B |
 | 23:30 | JPY | Moderate | Household Spending (YoY) (Nov) |  | -1.0% | -3.0% |
 | 23:30 | JPY | Moderate | Household Spending (MoM) (Nov) |  | 2.7% | -3.5% |
 | 23:30 | IDR | Low | Motorbike Sales (YoY) (Dec) |  |  | 2.10% |
-| 23:50 | JPY | Low | Foreign Reserves (USD) (Dec) |  |  | 1,359.4B |
 | 23:50 | JPY | Low | Foreign Reserves (USD) (Dec) |  |  | 1,359.4B |
