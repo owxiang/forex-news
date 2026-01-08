@@ -5,8 +5,8 @@
 | 00:30 | AUD | Low | Exports (MoM) (Nov) | -2.9% |  | 2.8% |
 | 00:30 | AUD | Low | Imports (MoM) (Nov) | 0.2% |  | 2.4% |
 | 00:30 | AUD | Moderate | Trade Balance (Nov) | 2.936B | 5.140B | 4.353B |
-| 15 min | IDR | Low | FX Reserves (USD) (Dec) |  |  | 150.10B |
-| 50 min | JPY | Low | 30-Year JGB Auction |  |  | 3.427% |
+| 03:00 | IDR | Low | FX Reserves (USD) (Dec) | 156.50B |  | 150.10B |
+| 03:35 | JPY | Low | 30-Year JGB Auction | 3.447% |  | 3.427% |
 | 05:00 | JPY | Low | Household Confidence (Dec) |  | 37.8 | 37.5 |
 | 06:00 | ZAR | Low | Foreign Reserves (USD) (Dec) |  |  | 72.07B |
 | 06:00 | ZAR | Low | Net FX Reserves (USD) (Dec) |  |  | 70.024B |
