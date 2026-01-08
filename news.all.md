@@ -76,8 +76,8 @@
 | 20:00 | USD | Moderate | Consumer Credit (Nov) | 4.23B | 10.10B | 9.24B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet | 6,574B |  | 6,641B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.023T |  | 2.853T |
-| 53 min | KRW | Low | Current Account (Nov) |  |  | 6.81B |
-| 23:30 | JPY | Moderate | Household Spending (YoY) (Nov) |  | -1.0% | -3.0% |
-| 23:30 | JPY | Moderate | Household Spending (MoM) (Nov) |  | 2.7% | -3.5% |
-| 23:30 | IDR | Low | Motorbike Sales (YoY) (Dec) |  |  | 2.10% |
-| 23:50 | JPY | Low | Foreign Reserves (USD) (Dec) |  |  | 1,359.4B |
+| 23:00 | KRW | Low | Current Account (Nov) | 12.24B |  | 6.81B |
+| 23 min | JPY | Moderate | Household Spending (YoY) (Nov) |  | -1.0% | -3.0% |
+| 23 min | JPY | Moderate | Household Spending (MoM) (Nov) |  | 2.7% | -3.5% |
+| 23 min | IDR | Low | Motorbike Sales (YoY) (Dec) |  |  | 2.10% |
+| 43 min | JPY | Low | Foreign Reserves (USD) (Dec) |  |  | 1,359.4B |

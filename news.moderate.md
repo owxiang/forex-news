@@ -26,5 +26,5 @@
 | 17:00 | USD | Atlanta Fed GDPNow (Q4) | 5.4% | 2.7% | 2.7% |
 | 20:00 | USD | Consumer Credit (Nov) | 4.23B | 10.10B | 9.24B |
 | 21:30 | USD | Fed's Balance Sheet | 6,574B |  | 6,641B |
-| 23:30 | JPY | Household Spending (YoY) (Nov) |  | -1.0% | -3.0% |
-| 23:30 | JPY | Household Spending (MoM) (Nov) |  | 2.7% | -3.5% |
+| 23 min | JPY | Household Spending (YoY) (Nov) |  | -1.0% | -3.0% |
+| 23 min | JPY | Household Spending (MoM) (Nov) |  | 2.7% | -3.5% |

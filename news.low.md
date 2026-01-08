@@ -51,6 +51,6 @@
 | 16:30 | USD | 4-Week Bill Auction | 3.550% |  | 3.590% |
 | 16:30 | USD | 8-Week Bill Auction | 3.540% |  | 3.580% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.023T |  | 2.853T |
-| 53 min | KRW | Current Account (Nov) |  |  | 6.81B |
-| 23:30 | IDR | Motorbike Sales (YoY) (Dec) |  |  | 2.10% |
-| 23:50 | JPY | Foreign Reserves (USD) (Dec) |  |  | 1,359.4B |
+| 23:00 | KRW | Current Account (Nov) | 12.24B |  | 6.81B |
+| 23 min | IDR | Motorbike Sales (YoY) (Dec) |  |  | 2.10% |
+| 43 min | JPY | Foreign Reserves (USD) (Dec) |  |  | 1,359.4B |
