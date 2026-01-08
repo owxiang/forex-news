@@ -32,19 +32,19 @@
 | 10:00 | EUR | PPI (MoM) (Nov) | 0.5% | 0.4% | 0.1% |
 | 10:00 | EUR | PPI (YoY) (Nov) | -1.7% | -1.9% | -0.5% |
 | 10:30 | USD | Challenger Job Cuts (YoY) | -8.3% |  | 23.5% |
-| 10:30 | USD | Challenger Job Cuts (Dec) | 35.553K |  | 71.321K |
 | 11:00 | BRL | IGP-DI Inflation Index (MoM) (Dec) | 0.10% |  | 0.01% |
-| 11:00 | ZAR | Manufacturing Production (MoM) (Nov) | -1.1% |  | 1.0% |
 | 11:00 | ZAR | Manufacturing Production (YoY) (Nov) | -1.0% | 0.2% | 0.4% |
+| 11:00 | ZAR | Manufacturing Production (MoM) (Nov) | -1.1% |  | 1.0% |
 | 11:30 | INR | M3 Money Supply | 12.1% | 9.3% | 9.3% |
 | 12:00 | MXN | Core CPI (MoM) (Dec) | 0.41% | 0.42% | 0.19% |
 | 12:00 | MXN | Month Core Inflation (YoY) (Dec) | 4.33% | 4.34% | 4.43% |
 | 12:00 | MXN | PPI (MoM) (Dec) | 0.50% |  | 0.40% |
 | 12:00 | MXN | PPI (YoY) (Dec) | 2.10% |  | 2.40% |
-| 12:00 | BRL | Industrial Production (MoM) (Nov) | 0.0% | 0.2% | 0.0% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 218.75K |
-| 13:30 | CAD | Exports (Oct) |  |  | 64.23B |
-| 13:30 | CAD | Imports (Oct) |  |  | 64.08B |
+| 12:00 | BRL | Industrial Production (MoM) (Nov) | 0.0% | 0.2% | 0.1% |
+| 12:30 | USD | Challenger Job Cuts (Dec) | 35.553K |  | 71.321K |
+| 9 min | USD | Jobless Claims 4-Week Avg. |  |  | 218.75K |
+| 9 min | CAD | Exports (Oct) |  |  | 64.23B |
+| 9 min | CAD | Imports (Oct) |  |  | 64.08B |
 | 15:00 | USD | Wholesale Inventories (MoM) (Oct) |  | 0.2% | 0.5% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Oct) |  |  | -0.2% |
 | 15:30 | USD | Natural Gas Storage |  | -109B | -38B |

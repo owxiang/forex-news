@@ -14,8 +14,8 @@
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Dec) | 0.3% | 1.1% | 0.6% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Nov) | 5.6% | -0.9% | 1.6% |
 | 07:00 | NOK | Low | Manufacturing Production (MoM) (Nov) | 2.4% |  | -1.3% |
-| 07:30 | CHF | Moderate | CPI (MoM) (Dec) | 0.0% | 0.0% | -0.2% |
 | 07:30 | CHF | Low | CPI (YoY) (Dec) | 0.1% | 0.1% | 0.0% |
+| 07:30 | CHF | Moderate | CPI (MoM) (Dec) | 0.0% | 0.0% | -0.2% |
 | 07:45 | EUR | Low | French Current Account (Nov) | -0.80B |  | 1.40B |
 | 07:45 | EUR | Low | French Exports (Nov) | 52.2B |  | 51.8B |
 | 07:45 | EUR | Low | French Imports (Nov) | 56.4B |  | 55.3B |
@@ -41,10 +41,9 @@
 | 10:00 | EUR | Low | PPI (YoY) (Nov) | -1.7% | -1.9% | -0.5% |
 | 10:00 | EUR | Moderate | Unemployment Rate (Nov) | 6.3% | 6.4% | 6.4% |
 | 10:30 | USD | Low | Challenger Job Cuts (YoY) | -8.3% |  | 23.5% |
-| 10:30 | USD | Low | Challenger Job Cuts (Dec) | 35.553K |  | 71.321K |
 | 11:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Dec) | 0.10% |  | 0.01% |
-| 11:00 | ZAR | Low | Manufacturing Production (MoM) (Nov) | -1.1% |  | 1.0% |
 | 11:00 | ZAR | Low | Manufacturing Production (YoY) (Nov) | -1.0% | 0.2% | 0.4% |
+| 11:00 | ZAR | Low | Manufacturing Production (MoM) (Nov) | -1.1% |  | 1.0% |
 | 11:30 | INR | Low | M3 Money Supply | 12.1% | 9.3% | 9.3% |
 | 12:00 | MXN | Low | Core CPI (MoM) (Dec) | 0.41% | 0.42% | 0.19% |
 | 12:00 | MXN | Moderate | CPI (YoY) (Dec) | 3.69% | 3.80% | 3.80% |
@@ -52,19 +51,20 @@
 | 12:00 | MXN | Low | Month Core Inflation (YoY) (Dec) | 4.33% | 4.34% | 4.43% |
 | 12:00 | MXN | Low | PPI (MoM) (Dec) | 0.50% |  | 0.40% |
 | 12:00 | MXN | Low | PPI (YoY) (Dec) | 2.10% |  | 2.40% |
+| 12:00 | BRL | Low | Industrial Production (MoM) (Nov) | 0.0% | 0.2% | 0.1% |
 | 12:00 | BRL | Moderate | Industrial Production (YoY) (Nov) | -1.2% | -0.1% | -0.5% |
-| 12:00 | BRL | Low | Industrial Production (MoM) (Nov) | 0.0% | 0.2% | 0.0% |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,900K | 1,866K |
-| 13:30 | USD | Moderate | Exports (Oct) |  |  | 289.30B |
-| 13:30 | USD | Moderate | Imports (Oct) |  |  | 342.10B |
-| 13:30 | USD | High | Initial Jobless Claims |  | 213K | 199K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 218.75K |
-| 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q3) |  | 4.9% | 3.3% |
-| 13:30 | USD | Moderate | Trade Balance (Oct) |  | -58.10B | -52.80B |
-| 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q3) |  | 0.0% | 1.0% |
-| 13:30 | CAD | Low | Exports (Oct) |  |  | 64.23B |
-| 13:30 | CAD | Low | Imports (Oct) |  |  | 64.08B |
-| 13:30 | CAD | Moderate | Trade Balance (Oct) |  | -1.40B | 0.15B |
+| 12:30 | USD | Low | Challenger Job Cuts (Dec) | 35.553K |  | 71.321K |
+| 9 min | USD | Moderate | Continuing Jobless Claims |  | 1,900K | 1,866K |
+| 9 min | USD | Moderate | Exports (Oct) |  |  | 289.30B |
+| 9 min | USD | Moderate | Imports (Oct) |  |  | 342.10B |
+| 9 min | USD | High | Initial Jobless Claims |  | 213K | 199K |
+| 9 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 218.75K |
+| 9 min | USD | Moderate | Nonfarm Productivity (QoQ) (Q3) |  | 4.9% | 3.3% |
+| 9 min | USD | Moderate | Trade Balance (Oct) |  | -58.10B | -52.80B |
+| 9 min | USD | Moderate | Unit Labor Costs (QoQ) (Q3) |  | 0.0% | 1.0% |
+| 9 min | CAD | Low | Exports (Oct) |  |  | 64.23B |
+| 9 min | CAD | Low | Imports (Oct) |  |  | 64.08B |
+| 9 min | CAD | Moderate | Trade Balance (Oct) |  | -1.40B | 0.15B |
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (Oct) |  | 0.2% | 0.5% |
 | 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Oct) |  |  | -0.2% |
 | 15:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
