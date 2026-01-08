@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Exports (MoM) (Nov) | -2.9% |  | 2.8% |
 | 00:30 | AUD | Imports (MoM) (Nov) | 0.2% |  | 2.4% |
-| 03:00 | IDR | FX Reserves (USD) (Dec) |  |  | 150.10B |
-| 03:35 | JPY | 30-Year JGB Auction |  |  | 3.427% |
+| 15 min | IDR | FX Reserves (USD) (Dec) |  |  | 150.10B |
+| 50 min | JPY | 30-Year JGB Auction |  |  | 3.427% |
 | 05:00 | JPY | Household Confidence (Dec) |  | 37.8 | 37.5 |
 | 06:00 | ZAR | Foreign Reserves (USD) (Dec) |  |  | 72.07B |
 | 06:00 | ZAR | Net FX Reserves (USD) (Dec) |  |  | 70.024B |
