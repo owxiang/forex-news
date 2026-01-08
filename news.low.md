@@ -30,17 +30,17 @@
 | 10:00 | EUR | Industrial Sentiment (Dec) | -9.0 | -9.1 | -9.3 |
 | 10:00 | EUR | PPI (MoM) (Nov) | 0.5% | 0.4% | 0.1% |
 | 10:00 | EUR | PPI (YoY) (Nov) | -1.7% | -1.9% | -0.5% |
-| 51 min | BRL | IGP-DI Inflation Index (MoM) (Dec) |  |  | 0.01% |
-| 51 min | ZAR | Manufacturing Production (YoY) (Nov) |  |  | 0.2% |
-| 51 min | ZAR | Manufacturing Production (MoM) (Nov) |  |  | 1.0% |
-| 11:30 | INR | M3 Money Supply |  | 9.3% | 9.3% |
-| 12:00 | MXN | Core CPI (MoM) (Dec) |  | 0.42% | 0.19% |
-| 12:00 | MXN | Month Core Inflation (YoY) (Dec) |  | 4.34% | 4.43% |
-| 12:00 | MXN | PPI (MoM) (Dec) |  |  | 0.40% |
-| 12:00 | MXN | PPI (YoY) (Dec) |  |  | 2.40% |
-| 12:00 | BRL | Industrial Production (MoM) (Nov) |  | 0.2% | 0.1% |
-| 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 23.5% |
-| 12:30 | USD | Challenger Job Cuts (Dec) |  |  | 71.321K |
+| 10:30 | USD | Challenger Job Cuts (YoY) | -8.3% |  | 23.5% |
+| 10:30 | USD | Challenger Job Cuts (Dec) | 35.553K |  | 71.321K |
+| 11:00 | BRL | IGP-DI Inflation Index (MoM) (Dec) | 0.10% |  | 0.01% |
+| 11:00 | ZAR | Manufacturing Production (MoM) (Nov) | -1.1% |  | 1.0% |
+| 11:00 | ZAR | Manufacturing Production (YoY) (Nov) | -1.0% |  | 0.4% |
+| 22 min | INR | M3 Money Supply |  | 9.3% | 9.3% |
+| 52 min | MXN | Core CPI (MoM) (Dec) |  | 0.42% | 0.19% |
+| 52 min | MXN | Month Core Inflation (YoY) (Dec) |  | 4.34% | 4.43% |
+| 52 min | MXN | PPI (MoM) (Dec) |  |  | 0.40% |
+| 52 min | MXN | PPI (YoY) (Dec) |  |  | 2.40% |
+| 52 min | BRL | Industrial Production (MoM) (Nov) |  | 0.2% | 0.1% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 218.75K |
 | 13:30 | CAD | Exports (Oct) |  |  | 64.23B |
 | 13:30 | CAD | Imports (Oct) |  |  | 64.08B |

@@ -10,8 +10,8 @@
 | 05:00 | JPY | Low | Household Confidence (Dec) | 37.2 | 37.8 | 37.5 |
 | 06:00 | ZAR | Low | Foreign Reserves (USD) (Dec) | 75.89B |  | 72.07B |
 | 06:00 | ZAR | Low | Net FX Reserves (USD) (Dec) | 71.144B |  | 70.024B |
-| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Dec) | 0.3% | 1.1% | 0.6% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Dec) | -0.6% | 0.1% | -0.1% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Dec) | 0.3% | 1.1% | 0.6% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Nov) | 5.6% | -0.9% | 1.6% |
 | 07:00 | NOK | Low | Manufacturing Production (MoM) (Nov) | 2.4% |  | -1.3% |
 | 07:30 | CHF | Moderate | CPI (MoM) (Dec) | 0.0% | 0.0% | -0.2% |
@@ -39,20 +39,20 @@
 | 10:00 | EUR | Low | PPI (MoM) (Nov) | 0.5% | 0.4% | 0.1% |
 | 10:00 | EUR | Low | PPI (YoY) (Nov) | -1.7% | -1.9% | -0.5% |
 | 10:00 | EUR | Moderate | Unemployment Rate (Nov) | 6.3% | 6.4% | 6.4% |
-| 51 min | BRL | Low | IGP-DI Inflation Index (MoM) (Dec) |  |  | 0.01% |
-| 51 min | ZAR | Low | Manufacturing Production (YoY) (Nov) |  |  | 0.2% |
-| 51 min | ZAR | Low | Manufacturing Production (MoM) (Nov) |  |  | 1.0% |
-| 11:30 | INR | Low | M3 Money Supply |  | 9.3% | 9.3% |
-| 12:00 | MXN | Low | Core CPI (MoM) (Dec) |  | 0.42% | 0.19% |
-| 12:00 | MXN | Moderate | CPI (YoY) (Dec) |  | 3.80% | 3.80% |
-| 12:00 | MXN | Moderate | CPI (MoM) (Dec) |  | 0.40% | 0.66% |
-| 12:00 | MXN | Low | Month Core Inflation (YoY) (Dec) |  | 4.34% | 4.43% |
-| 12:00 | MXN | Low | PPI (MoM) (Dec) |  |  | 0.40% |
-| 12:00 | MXN | Low | PPI (YoY) (Dec) |  |  | 2.40% |
-| 12:00 | BRL | Low | Industrial Production (MoM) (Nov) |  | 0.2% | 0.1% |
-| 12:00 | BRL | Moderate | Industrial Production (YoY) (Nov) |  | -0.1% | -0.5% |
-| 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 23.5% |
-| 12:30 | USD | Low | Challenger Job Cuts (Dec) |  |  | 71.321K |
+| 10:30 | USD | Low | Challenger Job Cuts (YoY) | -8.3% |  | 23.5% |
+| 10:30 | USD | Low | Challenger Job Cuts (Dec) | 35.553K |  | 71.321K |
+| 11:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Dec) | 0.10% |  | 0.01% |
+| 11:00 | ZAR | Low | Manufacturing Production (MoM) (Nov) | -1.1% |  | 1.0% |
+| 11:00 | ZAR | Low | Manufacturing Production (YoY) (Nov) | -1.0% |  | 0.4% |
+| 22 min | INR | Low | M3 Money Supply |  | 9.3% | 9.3% |
+| 52 min | MXN | Low | Core CPI (MoM) (Dec) |  | 0.42% | 0.19% |
+| 52 min | MXN | Moderate | CPI (YoY) (Dec) |  | 3.80% | 3.80% |
+| 52 min | MXN | Moderate | CPI (MoM) (Dec) |  | 0.40% | 0.66% |
+| 52 min | MXN | Low | Month Core Inflation (YoY) (Dec) |  | 4.34% | 4.43% |
+| 52 min | MXN | Low | PPI (MoM) (Dec) |  |  | 0.40% |
+| 52 min | MXN | Low | PPI (YoY) (Dec) |  |  | 2.40% |
+| 52 min | BRL | Moderate | Industrial Production (YoY) (Nov) |  | -0.1% | -0.5% |
+| 52 min | BRL | Low | Industrial Production (MoM) (Nov) |  | 0.2% | 0.1% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,900K | 1,866K |
 | 13:30 | USD | Moderate | Exports (Oct) |  |  | 289.30B |
 | 13:30 | USD | Moderate | Imports (Oct) |  |  | 342.10B |
