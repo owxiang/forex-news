@@ -24,7 +24,7 @@
 | 15:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
 | 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Dec) | 3.4% |  | 3.2% |
 | 17:00 | USD | Atlanta Fed GDPNow (Q4) | 5.4% | 2.7% | 2.7% |
-| 20:00 | USD | Consumer Credit (Nov) |  | 10.10B | 9.18B |
+| 52 min | USD | Consumer Credit (Nov) |  | 10.10B | 9.18B |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,641B |
 | 23:30 | JPY | Household Spending (YoY) (Nov) |  | -1.0% | -3.0% |
 | 23:30 | JPY | Household Spending (MoM) (Nov) |  | 2.7% | -3.5% |
