@@ -8,7 +8,7 @@
 | 07:00 | EUR | German Industrial Production (MoM) (Nov) | 0.8% | -0.6% | 2.0% |
 | 07:00 | EUR | German Trade Balance (Nov) | 13.1B | 16.3B | 17.2B |
 | 07:45 | EUR | French Consumer Spending (MoM) (Nov) | -0.3% | -0.1% | 0.5% |
-| 12:00 | BRL | CPI (YoY) (Dec) |  | 4.30% | 4.46% |
+| 53 min | BRL | CPI (YoY) (Dec) |  | 4.30% | 4.46% |
 | 12:45 | EUR | ECB's Lane Speaks |  |  |  |
 | 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Dec) |  | 3.6% | 3.5% |
 | 13:30 | USD | Building Permits (Sep) |  | 1.350M | 1.330M |

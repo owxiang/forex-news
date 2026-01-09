@@ -29,16 +29,16 @@
 | 09:00 | EUR | Low | Italian Retail Sales (YoY) (Nov) | 1.3% |  | 1.3% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Nov) | 0.2% | 0.1% | 0.3% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (Nov) | 2.3% | 1.6% | 1.9% |
-| 22 min | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.181% |
-| 52 min | EUR | Low | Spanish Business Confidence (Dec) |  |  | -3.0 |
-| 11:30 | INR | Low | Bank Loan Growth |  |  | 12.0% |
-| 11:30 | INR | Low | Deposit Growth |  |  | 9.4% |
-| 11:30 | INR | Low | FX Reserves, USD |  |  | 696.61B |
-| 12:00 | MXN | Low | Industrial Production (YoY) (Nov) |  | -1.2% | -0.4% |
-| 12:00 | MXN | Low | Industrial Production (MoM) (Nov) |  | 0.0% | 0.7% |
-| 12:00 | BRL | Low | CPI (MoM) (Dec) |  | 0.35% | 0.18% |
-| 12:00 | BRL | Moderate | CPI (YoY) (Dec) |  | 4.30% | 4.46% |
-| 12:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Dec) |  |  | 0.12% |
+| 10:20 | EUR | Low | Italian 12-Month BOT Auction | 2.112% |  | 2.181% |
+| 11:00 | EUR | Low | Spanish Business Confidence (Dec) |  |  | -3.0 |
+| 23 min | INR | Low | Bank Loan Growth |  |  | 12.0% |
+| 23 min | INR | Low | Deposit Growth |  |  | 9.4% |
+| 23 min | INR | Low | FX Reserves, USD |  |  | 696.61B |
+| 53 min | MXN | Low | Industrial Production (YoY) (Nov) |  | -1.2% | -0.4% |
+| 53 min | MXN | Low | Industrial Production (MoM) (Nov) |  | 0.0% | 0.7% |
+| 53 min | BRL | Low | CPI (MoM) (Dec) |  | 0.35% | 0.18% |
+| 53 min | BRL | Moderate | CPI (YoY) (Dec) |  | 4.30% | 4.46% |
+| 53 min | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Dec) |  |  | 0.12% |
 | 12:45 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Dec) |  | 0.3% | 0.1% |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Dec) |  | 3.6% | 3.5% |

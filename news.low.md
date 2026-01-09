@@ -23,15 +23,15 @@
 | 09:00 | EUR | Italian Retail Sales (YoY) (Nov) | 1.3% |  | 1.3% |
 | 10:00 | EUR | Retail Sales (MoM) (Nov) | 0.2% | 0.1% | 0.3% |
 | 10:00 | EUR | Retail Sales (YoY) (Nov) | 2.3% | 1.6% | 1.9% |
-| 22 min | EUR | Italian 12-Month BOT Auction |  |  | 2.181% |
-| 52 min | EUR | Spanish Business Confidence (Dec) |  |  | -3.0 |
-| 11:30 | INR | Bank Loan Growth |  |  | 12.0% |
-| 11:30 | INR | Deposit Growth |  |  | 9.4% |
-| 11:30 | INR | FX Reserves, USD |  |  | 696.61B |
-| 12:00 | MXN | Industrial Production (YoY) (Nov) |  | -1.2% | -0.4% |
-| 12:00 | MXN | Industrial Production (MoM) (Nov) |  | 0.0% | 0.7% |
-| 12:00 | BRL | CPI (MoM) (Dec) |  | 0.35% | 0.18% |
-| 12:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Dec) |  |  | 0.12% |
+| 10:20 | EUR | Italian 12-Month BOT Auction | 2.112% |  | 2.181% |
+| 11:00 | EUR | Spanish Business Confidence (Dec) |  |  | -3.0 |
+| 23 min | INR | Bank Loan Growth |  |  | 12.0% |
+| 23 min | INR | Deposit Growth |  |  | 9.4% |
+| 23 min | INR | FX Reserves, USD |  |  | 696.61B |
+| 53 min | MXN | Industrial Production (YoY) (Nov) |  | -1.2% | -0.4% |
+| 53 min | MXN | Industrial Production (MoM) (Nov) |  | 0.0% | 0.7% |
+| 53 min | BRL | CPI (MoM) (Dec) |  | 0.35% | 0.18% |
+| 53 min | BRL | Brazilian IPCA Inflation Index SA (MoM) (Dec) |  |  | 0.12% |
 | 13:30 | USD | Average Weekly Hours (Dec) |  | 34.3 | 34.3 |
 | 13:30 | USD | Building Permits (MoM) (Sep) |  |  | -2.3% |
 | 13:30 | USD | Government Payrolls (Dec) |  |  | -5.0K |
