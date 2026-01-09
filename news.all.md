@@ -62,8 +62,8 @@
 | 13:30 | USD | Moderate | Building Permits (Oct) | 1.412M | 1.415M | 1.330M |
 | 13:30 | USD | Low | Building Permits (MoM) (Oct) | -0.2% | 6.4% | -2.3% |
 | 13:30 | USD | Low | Government Payrolls (Dec) | 13.0K |  | 6.0K |
-| 13:30 | USD | Moderate | Housing Starts (Oct) | 1.246M |  | 1.306M |
-| 13:30 | USD | Moderate | Housing Starts (MoM) (Oct) | -4.6% |  | 1.2% |
+| 13:30 | USD | Moderate | Housing Starts (Oct) | 1.246M |  | 1.291M |
+| 13:30 | USD | Moderate | Housing Starts (MoM) (Oct) | -4.6% |  | -9.1% |
 | 13:30 | USD | Low | Manufacturing Payrolls (Dec) | -8K | -5K | -2K |
 | 13:30 | USD | High | Nonfarm Payrolls (Dec) | 50K | 66K | 56K |
 | 13:30 | USD | Moderate | Participation Rate (Dec) | 62.4% |  | 62.5% |
@@ -76,13 +76,13 @@
 | 13:30 | CAD | Low | Part Time Employment Change (Dec) | -42.0K |  | 63.0K |
 | 13:30 | CAD | Low | Participation Rate (Dec) | 65.4% |  | 65.1% |
 | 13:30 | CAD | Moderate | Unemployment Rate (Dec) | 6.8% | 6.7% | 6.5% |
-| 52 min | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
-| 52 min | USD | Moderate | Michigan 1-Year Inflation Expectations (Jan) |  |  | 4.2% |
-| 52 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Jan) |  |  | 3.2% |
-| 52 min | USD | Moderate | Michigan Consumer Expectations (Jan) |  |  | 54.6 |
-| 52 min | USD | Moderate | Michigan Consumer Sentiment (Jan) |  | 53.5 | 52.9 |
-| 52 min | USD | Low | Michigan Current Conditions (Jan) |  |  | 50.4 |
-| 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 5.4% | 5.4% |
+| 15:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
+| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Jan) | 4.2% | 4.1% | 4.2% |
+| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Jan) | 3.4% | 3.3% | 3.2% |
+| 15:00 | USD | Moderate | Michigan Consumer Expectations (Jan) | 55.0 |  | 54.6 |
+| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Jan) | 54.0 | 53.5 | 52.9 |
+| 15:00 | USD | Low | Michigan Current Conditions (Jan) | 52.4 |  | 50.4 |
+| 22 min | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 5.4% | 5.4% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 412 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 546 |
 | 18:35 | USD | Low | FOMC Member Barkin Speaks |  |  |  |

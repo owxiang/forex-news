@@ -15,19 +15,19 @@
 | 13:29 | USD | Housing Starts (MoM) (Sep) | 1.2% |  | -8.5% |
 | 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Dec) | 3.8% | 3.6% | 3.6% |
 | 13:30 | USD | Building Permits (Oct) | 1.412M | 1.415M | 1.330M |
-| 13:30 | USD | Housing Starts (Oct) | 1.246M |  | 1.306M |
-| 13:30 | USD | Housing Starts (MoM) (Oct) | -4.6% |  | 1.2% |
+| 13:30 | USD | Housing Starts (Oct) | 1.246M |  | 1.291M |
+| 13:30 | USD | Housing Starts (MoM) (Oct) | -4.6% |  | -9.1% |
 | 13:30 | USD | Participation Rate (Dec) | 62.4% |  | 62.5% |
 | 13:30 | USD | Private Nonfarm Payrolls (Dec) | 37K | 64K | 50K |
 | 13:30 | USD | U6 Unemployment Rate (Dec) | 8.4% |  | 8.7% |
 | 13:30 | CAD | Employment Change (Dec) | 8.2K | -1.8K | 53.6K |
 | 13:30 | CAD | Unemployment Rate (Dec) | 6.8% | 6.7% | 6.5% |
-| 52 min | USD | FOMC Member Kashkari Speaks |  |  |  |
-| 52 min | USD | Michigan 1-Year Inflation Expectations (Jan) |  |  | 4.2% |
-| 52 min | USD | Michigan 5-Year Inflation Expectations (Jan) |  |  | 3.2% |
-| 52 min | USD | Michigan Consumer Expectations (Jan) |  |  | 54.6 |
-| 52 min | USD | Michigan Consumer Sentiment (Jan) |  | 53.5 | 52.9 |
-| 15:30 | USD | Atlanta Fed GDPNow (Q4) |  | 5.4% | 5.4% |
+| 15:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (Jan) | 4.2% | 4.1% | 4.2% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (Jan) | 3.4% | 3.3% | 3.2% |
+| 15:00 | USD | Michigan Consumer Expectations (Jan) | 55.0 |  | 54.6 |
+| 15:00 | USD | Michigan Consumer Sentiment (Jan) | 54.0 | 53.5 | 52.9 |
+| 22 min | USD | Atlanta Fed GDPNow (Q4) |  | 5.4% | 5.4% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 412 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 546 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -33.2K |

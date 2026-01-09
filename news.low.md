@@ -53,7 +53,7 @@
 | 13:30 | CAD | Full Employment Change (Dec) | 50.2K |  | -9.4K |
 | 13:30 | CAD | Part Time Employment Change (Dec) | -42.0K |  | 63.0K |
 | 13:30 | CAD | Participation Rate (Dec) | 65.4% |  | 65.1% |
-| 52 min | USD | Michigan Current Conditions (Jan) |  |  | 50.4 |
+| 15:00 | USD | Michigan Current Conditions (Jan) | 52.4 |  | 50.4 |
 | 18:35 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -2.4K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 59.8K |
