@@ -1,30 +1,39 @@
-## 08 January 2026 - Moderate Impact Forex News
+## 09 January 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Trade Balance (Nov) | 2.936B | 5.140B | 4.353B |
-| 07:00 | GBP | Halifax House Price Index (MoM) (Dec) | -0.6% | 0.1% | -0.1% |
-| 07:00 | GBP | Halifax House Price Index (YoY) (Dec) | 0.3% | 1.1% | 0.6% |
-| 07:00 | EUR | German Factory Orders (MoM) (Nov) | 5.6% | -0.9% | 1.6% |
-| 07:30 | CHF | CPI (MoM) (Dec) | 0.0% | 0.0% | -0.2% |
-| 08:30 | CHF | SNB Monetary Policy Assessment |  |  |  |
-| 08:30 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 09:30 | GBP | Mortgage Rate (GBP) (Dec) | 6.77% |  | 6.81% |
-| 10:00 | EUR | Unemployment Rate (Nov) | 6.3% | 6.4% | 6.4% |
-| 12:00 | MXN | CPI (YoY) (Dec) | 3.69% | 3.80% | 3.80% |
-| 12:00 | MXN | CPI (MoM) (Dec) | 0.28% | 0.40% | 0.66% |
-| 12:00 | BRL | Industrial Production (YoY) (Nov) | -1.2% | -0.1% | -0.5% |
-| 13:30 | USD | Continuing Jobless Claims | 1,914K | 1,900K | 1,858K |
-| 13:30 | USD | Exports (Oct) | 302.00B |  | 289.30B |
-| 13:30 | USD | Imports (Oct) | 331.40B |  | 342.10B |
-| 13:30 | USD | Nonfarm Productivity (QoQ) (Q3) | 4.9% | 4.9% | 4.1% |
-| 13:30 | USD | Trade Balance (Oct) | -29.40B | -58.10B | -48.10B |
-| 13:30 | USD | Unit Labor Costs (QoQ) (Q3) | -1.9% | 0.0% | -2.9% |
-| 13:30 | CAD | Trade Balance (Oct) | -0.58B | -1.40B | 0.24B |
-| 15:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
-| 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Dec) | 3.4% |  | 3.2% |
-| 17:00 | USD | Atlanta Fed GDPNow (Q4) | 5.4% | 2.7% | 2.7% |
-| 20:00 | USD | Consumer Credit (Nov) | 4.23B | 10.10B | 9.24B |
-| 21:30 | USD | Fed's Balance Sheet | 6,574B |  | 6,641B |
-| 23 min | JPY | Household Spending (YoY) (Nov) |  | -1.0% | -3.0% |
-| 23 min | JPY | Household Spending (MoM) (Nov) |  | 2.7% | -3.5% |
+| 57 min | CNY | CPI (YoY) (Dec) |  | 0.8% | 0.7% |
+| 57 min | CNY | CPI (MoM) (Dec) |  |  | -0.1% |
+| 57 min | CNY | PPI (YoY) (Dec) |  | -2.0% | -2.2% |
+| 07:00 | EUR | German Industrial Production (MoM) (Nov) |  | -0.6% | 1.8% |
+| 07:00 | EUR | German Trade Balance (Nov) |  | 16.3B | 16.9B |
+| 07:45 | EUR | French Consumer Spending (MoM) (Nov) |  | -0.1% | 0.4% |
+| 08:00 | CHF | SECO Consumer Climate (Dec) |  |  | -34 |
+| 12:00 | BRL | CPI (YoY) (Dec) |  | 4.30% | 4.46% |
+| 12:45 | EUR | ECB's Lane Speaks |  |  |  |
+| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Dec) |  | 3.6% | 3.5% |
+| 13:30 | USD | Building Permits (Oct) |  | 1.350M | 1.330M |
+| 13:30 | USD | Housing Starts (Oct) |  | 1.330M | 1.307M |
+| 13:30 | USD | Housing Starts (MoM) (Oct) |  |  | -8.5% |
+| 13:30 | USD | Participation Rate (Dec) |  |  | 62.5% |
+| 13:30 | USD | Private Nonfarm Payrolls (Dec) |  | 64K | 69K |
+| 13:30 | USD | U6 Unemployment Rate (Dec) |  |  | 8.7% |
+| 13:30 | CAD | Employment Change (Dec) |  | -1.8K | 53.6K |
+| 13:30 | CAD | Unemployment Rate (Dec) |  | 6.7% | 6.5% |
+| 15:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (Jan) |  |  | 4.2% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (Jan) |  |  | 3.2% |
+| 15:00 | USD | Michigan Consumer Expectations (Jan) |  |  | 54.6 |
+| 15:00 | USD | Michigan Consumer Sentiment (Jan) |  | 53.5 | 52.9 |
+| 15:30 | USD | Atlanta Fed GDPNow (Q4) |  | 5.4% | 5.4% |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 412 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 546 |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | -33.2K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 64.6K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 231.2K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 25.1K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -94.4K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -21.2K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 42.1K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | 14.1K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 157.5K |
