@@ -33,14 +33,25 @@
 | 12:00 | MXN | Industrial Production (MoM) (Nov) | 0.6% | 0.0% | 0.9% |
 | 12:00 | BRL | CPI (MoM) (Dec) | 0.33% | 0.35% | 0.18% |
 | 12:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Dec) | 0.26% |  | 0.12% |
-| 13:30 | USD | Average Weekly Hours (Dec) |  | 34.3 | 34.3 |
-| 13:30 | USD | Building Permits (MoM) (Sep) |  |  | -2.3% |
-| 13:30 | USD | Government Payrolls (Dec) |  |  | -5.0K |
-| 13:30 | USD | Manufacturing Payrolls (Dec) |  | -5K | -5K |
-| 13:30 | CAD | Avg hourly wages Permanent employee (Dec) |  |  | 4.0% |
-| 13:30 | CAD | Full Employment Change (Dec) |  |  | -9.4K |
-| 13:30 | CAD | Part Time Employment Change (Dec) |  |  | 63.0K |
-| 13:30 | CAD | Participation Rate (Dec) |  |  | 65.1% |
+| 12:30 | USD | OPEC Crude Oil Production Algeria (Barrel) | 0.96M |  | 0.96M |
+| 12:30 | USD | OPEC Crude Oil Production Congo (Barrel) | 0.25M |  | 0.26M |
+| 12:30 | USD | OPEC Crude Oil Production Gabon (Barrel) | 0.23M |  | 0.23M |
+| 12:30 | USD | OPEC Crude Oil Production Guinea (Barrel) | 0.05M |  | 0.05M |
+| 12:30 | USD | OPEC Crude oil Production Iran (Barrel) | 3.24M |  | 3.34M |
+| 12:30 | USD | OPEC Crude oil Production Iraq (Barrel) | 4.05M |  | 4.02M |
+| 12:30 | USD | OPEC Crude Oil Production Kuwait (Barrel) | 2.55M |  | 2.54M |
+| 12:30 | USD | OPEC Crude Oil Production Libya (Barrel) | 1.30M |  | 1.25M |
+| 12:30 | USD | OPEC Crude Oil Production Nigeria (Barrel) | 1.53M |  | 1.48M |
+| 12:30 | USD | OPEC Crude oil Production UAE (Barrel) | 3.38M |  | 3.37M |
+| 12:30 | USD | OPEC Crude oil Production Venezuela (Barrel) | 0.88M |  | 0.95M |
+| 11 min | USD | Average Weekly Hours (Dec) |  | 34.3 | 34.3 |
+| 11 min | USD | Building Permits (MoM) (Sep) |  |  | -2.3% |
+| 11 min | USD | Government Payrolls (Dec) |  |  | -5.0K |
+| 11 min | USD | Manufacturing Payrolls (Dec) |  | -5K | -5K |
+| 11 min | CAD | Avg hourly wages Permanent employee (Dec) |  |  | 4.0% |
+| 11 min | CAD | Full Employment Change (Dec) |  |  | -9.4K |
+| 11 min | CAD | Part Time Employment Change (Dec) |  |  | 63.0K |
+| 11 min | CAD | Participation Rate (Dec) |  |  | 65.1% |
 | 15:00 | USD | Michigan Current Conditions (Jan) |  |  | 50.4 |
 | 18:35 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -2.4K |
