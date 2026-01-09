@@ -2,19 +2,19 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:30 | IDR | Consumer Confidence (Dec) | 123.5 |  | 124.0 |
-| 05:00 | JPY | Coincident Indicator (MoM) (Nov) | -0.7% | 0.5% | -1.3% |
+| 03:00 | IDR | Consumer Confidence (Dec) | 123.5 |  | 124.0 |
+| 05:00 | JPY | Coincident Indicator (MoM) (Nov) | -0.7% | 0.5% | 1.0% |
 | 05:00 | JPY | Leading Index (Nov) | 110.5 | 110.4 | 109.8 |
 | 05:00 | JPY | Leading Index (MoM) (Nov) | 0.7% | 1.8% | 0.9% |
-| 49 min | IDR | Car Sales (YoY) (Dec) |  |  | -0.80% |
-| 07:00 | EUR | German Exports (MoM) (Nov) |  | 0.0% | 0.1% |
-| 07:00 | EUR | German Imports (MoM) (Nov) |  | 0.2% | -1.2% |
-| 07:00 | EUR | German Industrial Production (YoY) (Nov) |  |  | 0.88% |
-| 07:00 | NOK | Core CPI YTD (Dec) |  | 3.0% | 3.0% |
-| 07:00 | NOK | Core Inflation (MoM) (Dec) |  |  | -0.3% |
-| 07:00 | NOK | CPI (MoM) (Dec) |  |  | 0.1% |
-| 07:00 | NOK | CPI (YoY) (Dec) |  | 3.0% | 3.0% |
-| 07:00 | NOK | PPI (YoY) (Dec) |  |  | -8.1% |
+| 48 min | EUR | German Exports (MoM) (Nov) |  | 0.0% | 0.1% |
+| 48 min | EUR | German Imports (MoM) (Nov) |  | 0.2% | -1.2% |
+| 48 min | EUR | German Industrial Production (YoY) (Nov) |  |  | 0.88% |
+| 48 min | IDR | Car Sales (YoY) (Dec) |  |  | -0.80% |
+| 48 min | NOK | Core CPI YTD (Dec) |  | 3.0% | 3.0% |
+| 48 min | NOK | Core Inflation (MoM) (Dec) |  |  | -0.3% |
+| 48 min | NOK | CPI (MoM) (Dec) |  |  | 0.1% |
+| 48 min | NOK | CPI (YoY) (Dec) |  | 3.0% | 3.0% |
+| 48 min | NOK | PPI (YoY) (Dec) |  |  | -8.1% |
 | 07:45 | EUR | French Industrial Production (MoM) (Nov) |  | -0.2% | 0.2% |
 | 08:00 | CHF | Foreign Reserves (USD) (Dec) |  |  | 727,386.0B |
 | 08:00 | CHF | Unemployment Rate n.s.a. (Dec) |  |  | 2.9% |

@@ -5,8 +5,8 @@
 | 01:30 | CNY | CPI (YoY) (Dec) | 0.8% | 0.8% | 0.7% |
 | 01:30 | CNY | CPI (MoM) (Dec) | 0.2% |  | -0.1% |
 | 01:30 | CNY | PPI (YoY) (Dec) | -1.9% | -2.0% | -2.2% |
-| 07:00 | EUR | German Industrial Production (MoM) (Nov) |  | -0.6% | 1.8% |
-| 07:00 | EUR | German Trade Balance (Nov) |  | 16.3B | 16.9B |
+| 48 min | EUR | German Industrial Production (MoM) (Nov) |  | -0.6% | 1.8% |
+| 48 min | EUR | German Trade Balance (Nov) |  | 16.3B | 16.9B |
 | 07:45 | EUR | French Consumer Spending (MoM) (Nov) |  | -0.1% | 0.4% |
 | 08:00 | CHF | SECO Consumer Climate (Dec) |  |  | -34 |
 | 12:00 | BRL | CPI (YoY) (Dec) |  | 4.30% | 4.46% |
