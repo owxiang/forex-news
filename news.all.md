@@ -82,7 +82,7 @@
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Jan) | 55.0 |  | 54.6 |
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Jan) | 54.0 | 53.5 | 52.9 |
 | 15:00 | USD | Low | Michigan Current Conditions (Jan) | 52.4 |  | 50.4 |
-| 22 min | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 5.4% | 5.4% |
+| 21 min | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 5.4% | 5.4% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 412 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 546 |
 | 18:35 | USD | Low | FOMC Member Barkin Speaks |  |  |  |

@@ -27,7 +27,7 @@
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Jan) | 3.4% | 3.3% | 3.2% |
 | 15:00 | USD | Michigan Consumer Expectations (Jan) | 55.0 |  | 54.6 |
 | 15:00 | USD | Michigan Consumer Sentiment (Jan) | 54.0 | 53.5 | 52.9 |
-| 22 min | USD | Atlanta Fed GDPNow (Q4) |  | 5.4% | 5.4% |
+| 21 min | USD | Atlanta Fed GDPNow (Q4) |  | 5.4% | 5.4% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 412 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 546 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -33.2K |
