@@ -11,9 +11,9 @@
 | 12:00 | BRL | CPI (YoY) (Dec) |  | 4.30% | 4.46% |
 | 12:45 | EUR | ECB's Lane Speaks |  |  |  |
 | 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Dec) |  | 3.6% | 3.5% |
-| 13:30 | USD | Building Permits (Oct) |  | 1.350M | 1.330M |
-| 13:30 | USD | Housing Starts (Oct) |  | 1.330M | 1.307M |
-| 13:30 | USD | Housing Starts (MoM) (Oct) |  |  | -8.5% |
+| 13:30 | USD | Building Permits (Sep) |  | 1.350M | 1.330M |
+| 13:30 | USD | Housing Starts (Sep) |  | 1.330M | 1.307M |
+| 13:30 | USD | Housing Starts (MoM) (Sep) |  |  | -8.5% |
 | 13:30 | USD | Participation Rate (Dec) |  |  | 62.5% |
 | 13:30 | USD | Private Nonfarm Payrolls (Dec) |  | 64K | 69K |
 | 13:30 | USD | U6 Unemployment Rate (Dec) |  |  | 8.7% |

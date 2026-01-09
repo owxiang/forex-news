@@ -19,10 +19,10 @@
 | 08:00 | CHF | Unemployment Rate n.s.a. (Dec) | 3.1% |  | 2.9% |
 | 08:00 | CHF | Unemployment Rate s.a. (Dec) | 3.0% | 3.0% | 3.0% |
 | 08:00 | EUR | Spanish Industrial Production (YoY) (Nov) | 4.5% |  | 1.2% |
-| 49 min | EUR | Italian Retail Sales (MoM) (Nov) |  | 0.3% | 0.5% |
-| 49 min | EUR | Italian Retail Sales (YoY) (Nov) |  |  | 1.3% |
-| 10:00 | EUR | Retail Sales (MoM) (Nov) |  | 0.1% | 0.0% |
-| 10:00 | EUR | Retail Sales (YoY) (Nov) |  | 1.6% | 1.5% |
+| 09:00 | EUR | Italian Retail Sales (MoM) (Nov) | 0.5% | 0.3% | 0.5% |
+| 09:00 | EUR | Italian Retail Sales (YoY) (Nov) | 1.3% |  | 1.3% |
+| 49 min | EUR | Retail Sales (MoM) (Nov) |  | 0.1% | 0.0% |
+| 49 min | EUR | Retail Sales (YoY) (Nov) |  | 1.6% | 1.5% |
 | 10:30 | EUR | Italian 12-Month BOT Auction |  |  | 2.181% |
 | 11:00 | EUR | Spanish Business Confidence (Dec) |  |  | -3.0 |
 | 11:30 | INR | Bank Loan Growth |  |  | 12.0% |
@@ -33,7 +33,7 @@
 | 12:00 | BRL | CPI (MoM) (Dec) |  | 0.35% | 0.18% |
 | 12:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Dec) |  |  | 0.12% |
 | 13:30 | USD | Average Weekly Hours (Dec) |  | 34.3 | 34.3 |
-| 13:30 | USD | Building Permits (MoM) (Oct) |  |  | -2.3% |
+| 13:30 | USD | Building Permits (MoM) (Sep) |  |  | -2.3% |
 | 13:30 | USD | Government Payrolls (Dec) |  |  | -5.0K |
 | 13:30 | USD | Manufacturing Payrolls (Dec) |  | -5K | -5K |
 | 13:30 | CAD | Avg hourly wages Permanent employee (Dec) |  |  | 4.0% |

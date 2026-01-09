@@ -25,10 +25,10 @@
 | 08:00 | CHF | Low | Unemployment Rate n.s.a. (Dec) | 3.1% |  | 2.9% |
 | 08:00 | CHF | Low | Unemployment Rate s.a. (Dec) | 3.0% | 3.0% | 3.0% |
 | 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Nov) | 4.5% |  | 1.2% |
-| 49 min | EUR | Low | Italian Retail Sales (MoM) (Nov) |  | 0.3% | 0.5% |
-| 49 min | EUR | Low | Italian Retail Sales (YoY) (Nov) |  |  | 1.3% |
-| 10:00 | EUR | Low | Retail Sales (MoM) (Nov) |  | 0.1% | 0.0% |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Nov) |  | 1.6% | 1.5% |
+| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Nov) | 0.5% | 0.3% | 0.5% |
+| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Nov) | 1.3% |  | 1.3% |
+| 49 min | EUR | Low | Retail Sales (MoM) (Nov) |  | 0.1% | 0.0% |
+| 49 min | EUR | Low | Retail Sales (YoY) (Nov) |  | 1.6% | 1.5% |
 | 10:30 | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.181% |
 | 11:00 | EUR | Low | Spanish Business Confidence (Dec) |  |  | -3.0 |
 | 11:30 | INR | Low | Bank Loan Growth |  |  | 12.0% |
@@ -43,11 +43,11 @@
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Dec) |  | 0.3% | 0.1% |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Dec) |  | 3.6% | 3.5% |
 | 13:30 | USD | Low | Average Weekly Hours (Dec) |  | 34.3 | 34.3 |
-| 13:30 | USD | Moderate | Building Permits (Oct) |  | 1.350M | 1.330M |
-| 13:30 | USD | Low | Building Permits (MoM) (Oct) |  |  | -2.3% |
+| 13:30 | USD | Moderate | Building Permits (Sep) |  | 1.350M | 1.330M |
+| 13:30 | USD | Low | Building Permits (MoM) (Sep) |  |  | -2.3% |
 | 13:30 | USD | Low | Government Payrolls (Dec) |  |  | -5.0K |
-| 13:30 | USD | Moderate | Housing Starts (Oct) |  | 1.330M | 1.307M |
-| 13:30 | USD | Moderate | Housing Starts (MoM) (Oct) |  |  | -8.5% |
+| 13:30 | USD | Moderate | Housing Starts (Sep) |  | 1.330M | 1.307M |
+| 13:30 | USD | Moderate | Housing Starts (MoM) (Sep) |  |  | -8.5% |
 | 13:30 | USD | Low | Manufacturing Payrolls (Dec) |  | -5K | -5K |
 | 13:30 | USD | High | Nonfarm Payrolls (Dec) |  | 66K | 64K |
 | 13:30 | USD | Moderate | Participation Rate (Dec) |  |  | 62.5% |
