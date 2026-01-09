@@ -21,10 +21,10 @@
 | 08:00 | EUR | Spanish Industrial Production (YoY) (Nov) | 4.5% |  | 1.2% |
 | 09:00 | EUR | Italian Retail Sales (MoM) (Nov) | 0.5% | 0.3% | 0.5% |
 | 09:00 | EUR | Italian Retail Sales (YoY) (Nov) | 1.3% |  | 1.3% |
-| 49 min | EUR | Retail Sales (MoM) (Nov) |  | 0.1% | 0.0% |
-| 49 min | EUR | Retail Sales (YoY) (Nov) |  | 1.6% | 1.5% |
-| 10:30 | EUR | Italian 12-Month BOT Auction |  |  | 2.181% |
-| 11:00 | EUR | Spanish Business Confidence (Dec) |  |  | -3.0 |
+| 10:00 | EUR | Retail Sales (MoM) (Nov) | 0.2% | 0.1% | 0.3% |
+| 10:00 | EUR | Retail Sales (YoY) (Nov) | 2.3% | 1.6% | 1.9% |
+| 22 min | EUR | Italian 12-Month BOT Auction |  |  | 2.181% |
+| 52 min | EUR | Spanish Business Confidence (Dec) |  |  | -3.0 |
 | 11:30 | INR | Bank Loan Growth |  |  | 12.0% |
 | 11:30 | INR | Deposit Growth |  |  | 9.4% |
 | 11:30 | INR | FX Reserves, USD |  |  | 696.61B |
