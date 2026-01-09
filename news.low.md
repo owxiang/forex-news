@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:00 | IDR | Consumer Confidence (Dec) | 123.5 |  | 124.0 |
-| 05:00 | JPY | Coincident Indicator (MoM) (Nov) |  | 0.5% | 1.3% |
-| 05:00 | JPY | Leading Index (Nov) |  | 110.4 | 109.8 |
-| 05:00 | JPY | Leading Index (MoM) (Nov) |  | 1.8% | 1.6% |
+| 03:30 | IDR | Consumer Confidence (Dec) | 123.5 |  | 124.0 |
+| 38 min | JPY | Coincident Indicator (MoM) (Nov) |  | 0.5% | 1.3% |
+| 38 min | JPY | Leading Index (Nov) |  | 110.4 | 109.8 |
+| 38 min | JPY | Leading Index (MoM) (Nov) |  | 1.8% | 1.6% |
 | 06:00 | IDR | Car Sales (YoY) (Dec) |  |  | -0.80% |
 | 07:00 | EUR | German Exports (MoM) (Nov) |  | 0.0% | 0.1% |
 | 07:00 | EUR | German Imports (MoM) (Nov) |  | 0.2% | -1.2% |
