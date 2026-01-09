@@ -27,8 +27,8 @@
 | 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Nov) | 4.5% |  | 1.2% |
 | 09:00 | EUR | Low | Italian Retail Sales (MoM) (Nov) | 0.5% | 0.3% | 0.5% |
 | 09:00 | EUR | Low | Italian Retail Sales (YoY) (Nov) | 1.3% |  | 1.3% |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Nov) | 2.3% | 1.6% | 1.9% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Nov) | 0.2% | 0.1% | 0.3% |
+| 10:00 | EUR | Low | Retail Sales (YoY) (Nov) | 2.3% | 1.6% | 1.9% |
 | 10:20 | EUR | Low | Italian 12-Month BOT Auction | 2.112% |  | 2.181% |
 | 10:30 | IDR | Low | Car Sales (YoY) (Dec) | 25.70% |  | -0.80% |
 | 11:00 | EUR | Low | Spanish Business Confidence (Dec) | -3.5 |  | -3.2 |
@@ -37,8 +37,8 @@
 | 11:30 | INR | Low | FX Reserves, USD | 686.80B |  | 696.61B |
 | 12:00 | MXN | Low | Industrial Production (YoY) (Nov) | -0.8% | -1.2% | -0.3% |
 | 12:00 | MXN | Low | Industrial Production (MoM) (Nov) | 0.6% | 0.0% | 0.9% |
-| 12:00 | BRL | Low | CPI (MoM) (Dec) | 0.33% | 0.35% | 0.18% |
 | 12:00 | BRL | Moderate | CPI (YoY) (Dec) | 4.26% | 4.30% | 4.46% |
+| 12:00 | BRL | Low | CPI (MoM) (Dec) | 0.33% | 0.35% | 0.18% |
 | 12:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Dec) | 0.26% |  | 0.12% |
 | 12:30 | USD | Low | OPEC Crude Oil Production Algeria (Barrel) | 0.96M |  | 0.96M |
 | 12:30 | USD | Low | OPEC Crude Oil Production Congo (Barrel) | 0.25M |  | 0.26M |
@@ -52,32 +52,36 @@
 | 12:30 | USD | Low | OPEC Crude oil Production UAE (Barrel) | 3.38M |  | 3.37M |
 | 12:30 | USD | Low | OPEC Crude oil Production Venezuela (Barrel) | 0.88M |  | 0.95M |
 | 12:45 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 11 min | USD | High | Average Hourly Earnings (MoM) (Dec) |  | 0.3% | 0.1% |
-| 11 min | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Dec) |  | 3.6% | 3.5% |
-| 11 min | USD | Low | Average Weekly Hours (Dec) |  | 34.3 | 34.3 |
-| 11 min | USD | Moderate | Building Permits (Sep) |  | 1.350M | 1.330M |
-| 11 min | USD | Low | Building Permits (MoM) (Sep) |  |  | -2.3% |
-| 11 min | USD | Low | Government Payrolls (Dec) |  |  | -5.0K |
-| 11 min | USD | Moderate | Housing Starts (Sep) |  | 1.330M | 1.307M |
-| 11 min | USD | Moderate | Housing Starts (MoM) (Sep) |  |  | -8.5% |
-| 11 min | USD | Low | Manufacturing Payrolls (Dec) |  | -5K | -5K |
-| 11 min | USD | High | Nonfarm Payrolls (Dec) |  | 66K | 64K |
-| 11 min | USD | Moderate | Participation Rate (Dec) |  |  | 62.5% |
-| 11 min | USD | Moderate | Private Nonfarm Payrolls (Dec) |  | 64K | 69K |
-| 11 min | USD | Moderate | U6 Unemployment Rate (Dec) |  |  | 8.7% |
-| 11 min | USD | High | Unemployment Rate (Dec) |  | 4.5% | 4.6% |
-| 11 min | CAD | Low | Avg hourly wages Permanent employee (Dec) |  |  | 4.0% |
-| 11 min | CAD | Moderate | Employment Change (Dec) |  | -1.8K | 53.6K |
-| 11 min | CAD | Low | Full Employment Change (Dec) |  |  | -9.4K |
-| 11 min | CAD | Low | Part Time Employment Change (Dec) |  |  | 63.0K |
-| 11 min | CAD | Low | Participation Rate (Dec) |  |  | 65.1% |
-| 11 min | CAD | Moderate | Unemployment Rate (Dec) |  | 6.7% | 6.5% |
-| 15:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
-| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Jan) |  |  | 4.2% |
-| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Jan) |  |  | 3.2% |
-| 15:00 | USD | Moderate | Michigan Consumer Expectations (Jan) |  |  | 54.6 |
-| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Jan) |  | 53.5 | 52.9 |
-| 15:00 | USD | Low | Michigan Current Conditions (Jan) |  |  | 50.4 |
+| 13:29 | USD | Moderate | Building Permits (Sep) | 1.415M | 1.350M | 1.330M |
+| 13:29 | USD | Low | Building Permits (MoM) (Sep) | 6.4% |  | -2.3% |
+| 13:29 | USD | Moderate | Housing Starts (Sep) | 1.306M | 1.330M | 1.307M |
+| 13:29 | USD | Moderate | Housing Starts (MoM) (Sep) | 1.2% |  | -8.5% |
+| 13:30 | USD | High | Average Hourly Earnings (MoM) (Dec) | 0.3% | 0.3% | 0.2% |
+| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Dec) | 3.8% | 3.6% | 3.6% |
+| 13:30 | USD | Low | Average Weekly Hours (Dec) | 34.2 | 34.3 | 34.3 |
+| 13:30 | USD | Moderate | Building Permits (Oct) | 1.412M | 1.415M | 1.330M |
+| 13:30 | USD | Low | Building Permits (MoM) (Oct) | -0.2% | 6.4% | -2.3% |
+| 13:30 | USD | Low | Government Payrolls (Dec) | 13.0K |  | 6.0K |
+| 13:30 | USD | Moderate | Housing Starts (Oct) | 1.246M |  | 1.306M |
+| 13:30 | USD | Moderate | Housing Starts (MoM) (Oct) | -4.6% |  | 1.2% |
+| 13:30 | USD | Low | Manufacturing Payrolls (Dec) | -8K | -5K | -2K |
+| 13:30 | USD | High | Nonfarm Payrolls (Dec) | 50K | 66K | 56K |
+| 13:30 | USD | Moderate | Participation Rate (Dec) | 62.4% |  | 62.5% |
+| 13:30 | USD | Moderate | Private Nonfarm Payrolls (Dec) | 37K | 64K | 50K |
+| 13:30 | USD | Moderate | U6 Unemployment Rate (Dec) | 8.4% |  | 8.7% |
+| 13:30 | USD | High | Unemployment Rate (Dec) | 4.4% | 4.5% | 4.5% |
+| 13:30 | CAD | Low | Avg hourly wages Permanent employee (Dec) | 3.7% |  | 4.0% |
+| 13:30 | CAD | Moderate | Employment Change (Dec) | 8.2K | -1.8K | 53.6K |
+| 13:30 | CAD | Low | Full Employment Change (Dec) | 50.2K |  | -9.4K |
+| 13:30 | CAD | Low | Part Time Employment Change (Dec) | -42.0K |  | 63.0K |
+| 13:30 | CAD | Low | Participation Rate (Dec) | 65.4% |  | 65.1% |
+| 13:30 | CAD | Moderate | Unemployment Rate (Dec) | 6.8% | 6.7% | 6.5% |
+| 52 min | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
+| 52 min | USD | Moderate | Michigan 1-Year Inflation Expectations (Jan) |  |  | 4.2% |
+| 52 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Jan) |  |  | 3.2% |
+| 52 min | USD | Moderate | Michigan Consumer Expectations (Jan) |  |  | 54.6 |
+| 52 min | USD | Moderate | Michigan Consumer Sentiment (Jan) |  | 53.5 | 52.9 |
+| 52 min | USD | Low | Michigan Current Conditions (Jan) |  |  | 50.4 |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 5.4% | 5.4% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 412 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 546 |

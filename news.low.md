@@ -21,8 +21,8 @@
 | 08:00 | EUR | Spanish Industrial Production (YoY) (Nov) | 4.5% |  | 1.2% |
 | 09:00 | EUR | Italian Retail Sales (MoM) (Nov) | 0.5% | 0.3% | 0.5% |
 | 09:00 | EUR | Italian Retail Sales (YoY) (Nov) | 1.3% |  | 1.3% |
-| 10:00 | EUR | Retail Sales (YoY) (Nov) | 2.3% | 1.6% | 1.9% |
 | 10:00 | EUR | Retail Sales (MoM) (Nov) | 0.2% | 0.1% | 0.3% |
+| 10:00 | EUR | Retail Sales (YoY) (Nov) | 2.3% | 1.6% | 1.9% |
 | 10:20 | EUR | Italian 12-Month BOT Auction | 2.112% |  | 2.181% |
 | 10:30 | IDR | Car Sales (YoY) (Dec) | 25.70% |  | -0.80% |
 | 11:00 | EUR | Spanish Business Confidence (Dec) | -3.5 |  | -3.2 |
@@ -44,15 +44,16 @@
 | 12:30 | USD | OPEC Crude Oil Production Nigeria (Barrel) | 1.53M |  | 1.48M |
 | 12:30 | USD | OPEC Crude oil Production UAE (Barrel) | 3.38M |  | 3.37M |
 | 12:30 | USD | OPEC Crude oil Production Venezuela (Barrel) | 0.88M |  | 0.95M |
-| 11 min | USD | Average Weekly Hours (Dec) |  | 34.3 | 34.3 |
-| 11 min | USD | Building Permits (MoM) (Sep) |  |  | -2.3% |
-| 11 min | USD | Government Payrolls (Dec) |  |  | -5.0K |
-| 11 min | USD | Manufacturing Payrolls (Dec) |  | -5K | -5K |
-| 11 min | CAD | Avg hourly wages Permanent employee (Dec) |  |  | 4.0% |
-| 11 min | CAD | Full Employment Change (Dec) |  |  | -9.4K |
-| 11 min | CAD | Part Time Employment Change (Dec) |  |  | 63.0K |
-| 11 min | CAD | Participation Rate (Dec) |  |  | 65.1% |
-| 15:00 | USD | Michigan Current Conditions (Jan) |  |  | 50.4 |
+| 13:29 | USD | Building Permits (MoM) (Sep) | 6.4% |  | -2.3% |
+| 13:30 | USD | Average Weekly Hours (Dec) | 34.2 | 34.3 | 34.3 |
+| 13:30 | USD | Building Permits (MoM) (Oct) | -0.2% | 6.4% | -2.3% |
+| 13:30 | USD | Government Payrolls (Dec) | 13.0K |  | 6.0K |
+| 13:30 | USD | Manufacturing Payrolls (Dec) | -8K | -5K | -2K |
+| 13:30 | CAD | Avg hourly wages Permanent employee (Dec) | 3.7% |  | 4.0% |
+| 13:30 | CAD | Full Employment Change (Dec) | 50.2K |  | -9.4K |
+| 13:30 | CAD | Part Time Employment Change (Dec) | -42.0K |  | 63.0K |
+| 13:30 | CAD | Participation Rate (Dec) | 65.4% |  | 65.1% |
+| 52 min | USD | Michigan Current Conditions (Jan) |  |  | 50.4 |
 | 18:35 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -2.4K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 59.8K |

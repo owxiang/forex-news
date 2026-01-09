@@ -2,6 +2,6 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 11 min | USD | Average Hourly Earnings (MoM) (Dec) |  | 0.3% | 0.1% |
-| 11 min | USD | Nonfarm Payrolls (Dec) |  | 66K | 64K |
-| 11 min | USD | Unemployment Rate (Dec) |  | 4.5% | 4.6% |
+| 13:30 | USD | Average Hourly Earnings (MoM) (Dec) | 0.3% | 0.3% | 0.2% |
+| 13:30 | USD | Nonfarm Payrolls (Dec) | 50K | 66K | 56K |
+| 13:30 | USD | Unemployment Rate (Dec) | 4.4% | 4.5% | 4.5% |
