@@ -9,24 +9,23 @@
 | 05:00 | JPY | Low | Coincident Indicator (MoM) (Nov) | -0.7% | 0.5% | 1.0% |
 | 05:00 | JPY | Low | Leading Index (Nov) | 110.5 | 110.4 | 109.8 |
 | 05:00 | JPY | Low | Leading Index (MoM) (Nov) | 0.7% | 1.8% | 0.9% |
-| 48 min | EUR | Low | German Exports (MoM) (Nov) |  | 0.0% | 0.1% |
-| 48 min | EUR | Low | German Imports (MoM) (Nov) |  | 0.2% | -1.2% |
-| 48 min | EUR | Moderate | German Industrial Production (MoM) (Nov) |  | -0.6% | 1.8% |
-| 48 min | EUR | Moderate | German Trade Balance (Nov) |  | 16.3B | 16.9B |
-| 48 min | EUR | Low | German Industrial Production (YoY) (Nov) |  |  | 0.88% |
-| 48 min | IDR | Low | Car Sales (YoY) (Dec) |  |  | -0.80% |
-| 48 min | NOK | Low | Core CPI YTD (Dec) |  | 3.0% | 3.0% |
-| 48 min | NOK | Low | Core Inflation (MoM) (Dec) |  |  | -0.3% |
-| 48 min | NOK | Low | CPI (MoM) (Dec) |  |  | 0.1% |
-| 48 min | NOK | Low | CPI (YoY) (Dec) |  | 3.0% | 3.0% |
-| 48 min | NOK | Low | PPI (YoY) (Dec) |  |  | -8.1% |
-| 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Nov) |  | -0.1% | 0.4% |
-| 07:45 | EUR | Low | French Industrial Production (MoM) (Nov) |  | -0.2% | 0.2% |
-| 08:00 | CHF | Low | Foreign Reserves (USD) (Dec) |  |  | 727,386.0B |
-| 08:00 | CHF | Moderate | SECO Consumer Climate (Dec) |  |  | -34 |
-| 08:00 | CHF | Low | Unemployment Rate n.s.a. (Dec) |  |  | 2.9% |
-| 08:00 | CHF | Low | Unemployment Rate s.a. (Dec) |  | 3.0% | 3.0% |
-| 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Nov) |  |  | 1.2% |
+| 07:00 | EUR | Low | German Exports (MoM) (Nov) | -2.5% | 0.0% | 0.3% |
+| 07:00 | EUR | Low | German Imports (MoM) (Nov) | 0.8% | 0.2% | -1.5% |
+| 07:00 | EUR | Moderate | German Industrial Production (MoM) (Nov) | 0.8% | -0.6% | 2.0% |
+| 07:00 | EUR | Moderate | German Trade Balance (Nov) | 13.1B | 16.3B | 17.2B |
+| 07:00 | EUR | Low | German Industrial Production (YoY) (Nov) | 0.80% |  | 1.00% |
+| 07:00 | NOK | Low | Core CPI YTD (Dec) | 3.1% | 3.0% | 3.0% |
+| 07:00 | NOK | Low | Core Inflation (MoM) (Dec) | 0.1% |  | -0.3% |
+| 07:00 | NOK | Low | CPI (YoY) (Dec) | 3.2% | 3.0% | 3.0% |
+| 07:00 | NOK | Low | CPI (MoM) (Dec) | 0.1% |  | 0.1% |
+| 07:00 | NOK | Low | PPI (YoY) (Dec) | -11.4% |  | -8.1% |
+| 34 min | EUR | Moderate | French Consumer Spending (MoM) (Nov) |  | -0.1% | 0.4% |
+| 34 min | EUR | Low | French Industrial Production (MoM) (Nov) |  | -0.2% | 0.2% |
+| 49 min | CHF | Low | Foreign Reserves (USD) (Dec) |  |  | 727,386.0B |
+| 49 min | CHF | Moderate | SECO Consumer Climate (Dec) |  |  | -34 |
+| 49 min | CHF | Low | Unemployment Rate n.s.a. (Dec) |  |  | 2.9% |
+| 49 min | CHF | Low | Unemployment Rate s.a. (Dec) |  | 3.0% | 3.0% |
+| 49 min | EUR | Low | Spanish Industrial Production (YoY) (Nov) |  |  | 1.2% |
 | 09:00 | EUR | Low | Italian Retail Sales (MoM) (Nov) |  | 0.3% | 0.5% |
 | 09:00 | EUR | Low | Italian Retail Sales (YoY) (Nov) |  |  | 1.3% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Nov) |  | 0.1% | 0.0% |
