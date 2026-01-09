@@ -2,13 +2,12 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | CNY | CPI (YoY) (Dec) | 0.8% | 0.8% | 0.7% |
 | 01:30 | CNY | CPI (MoM) (Dec) | 0.2% |  | -0.1% |
+| 01:30 | CNY | CPI (YoY) (Dec) | 0.8% | 0.8% | 0.7% |
 | 01:30 | CNY | PPI (YoY) (Dec) | -1.9% | -2.0% | -2.2% |
 | 07:00 | EUR | German Industrial Production (MoM) (Nov) | 0.8% | -0.6% | 2.0% |
 | 07:00 | EUR | German Trade Balance (Nov) | 13.1B | 16.3B | 17.2B |
-| 34 min | EUR | French Consumer Spending (MoM) (Nov) |  | -0.1% | 0.4% |
-| 49 min | CHF | SECO Consumer Climate (Dec) |  |  | -34 |
+| 07:45 | EUR | French Consumer Spending (MoM) (Nov) | -0.3% | -0.1% | 0.5% |
 | 12:00 | BRL | CPI (YoY) (Dec) |  | 4.30% | 4.46% |
 | 12:45 | EUR | ECB's Lane Speaks |  |  |  |
 | 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Dec) |  | 3.6% | 3.5% |
