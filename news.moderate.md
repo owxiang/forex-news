@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 57 min | CNY | CPI (YoY) (Dec) |  | 0.8% | 0.7% |
-| 57 min | CNY | CPI (MoM) (Dec) |  |  | -0.1% |
-| 57 min | CNY | PPI (YoY) (Dec) |  | -2.0% | -2.2% |
+| 01:30 | CNY | CPI (YoY) (Dec) | 0.8% | 0.8% | 0.7% |
+| 01:30 | CNY | CPI (MoM) (Dec) | 0.2% |  | -0.1% |
+| 01:30 | CNY | PPI (YoY) (Dec) | -1.9% | -2.0% | -2.2% |
 | 07:00 | EUR | German Industrial Production (MoM) (Nov) |  | -0.6% | 1.8% |
 | 07:00 | EUR | German Trade Balance (Nov) |  | 16.3B | 16.9B |
 | 07:45 | EUR | French Consumer Spending (MoM) (Nov) |  | -0.1% | 0.4% |
