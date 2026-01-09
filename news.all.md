@@ -5,7 +5,7 @@
 | 01:30 | CNY | Moderate | CPI (YoY) (Dec) | 0.8% | 0.8% | 0.7% |
 | 01:30 | CNY | Moderate | CPI (MoM) (Dec) | 0.2% |  | -0.1% |
 | 01:30 | CNY | Moderate | PPI (YoY) (Dec) | -1.9% | -2.0% | -2.2% |
-| 03:00 | IDR | Low | Consumer Confidence (Dec) |  |  | 124.0 |
+| 15 min | IDR | Low | Consumer Confidence (Dec) |  |  | 124.0 |
 | 05:00 | JPY | Low | Coincident Indicator (MoM) (Nov) |  | 0.5% | 1.3% |
 | 05:00 | JPY | Low | Leading Index (Nov) |  | 110.4 | 109.8 |
 | 05:00 | JPY | Low | Leading Index (MoM) (Nov) |  | 1.8% | 1.6% |

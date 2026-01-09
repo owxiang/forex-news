@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:00 | IDR | Consumer Confidence (Dec) |  |  | 124.0 |
+| 15 min | IDR | Consumer Confidence (Dec) |  |  | 124.0 |
 | 05:00 | JPY | Coincident Indicator (MoM) (Nov) |  | 0.5% | 1.3% |
 | 05:00 | JPY | Leading Index (Nov) |  | 110.4 | 109.8 |
 | 05:00 | JPY | Leading Index (MoM) (Nov) |  | 1.8% | 1.6% |
