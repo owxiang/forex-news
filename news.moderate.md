@@ -85,7 +85,7 @@
 | 12:45 | EUR | ECB's Lane Speaks |  |  |  |
 | 13:29 | USD | Building Permits (Sep) | 1.415M | 1.350M | 1.330M |
 | 13:29 | USD | Housing Starts (Sep) | 1.306M | 1.330M | 1.307M |
-| 13:29 | USD | Housing Starts (MoM) (Sep) | 1.2% |  | -8.5% |
+| 13:29 | USD | Housing Starts (MoM) (Sep) | 1.2% |  | -9.1% |
 | 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Dec) | 3.8% | 3.6% | 3.6% |
 | 13:30 | USD | Building Permits (Oct) | 1.412M | 1.415M | 1.330M |
 | 13:30 | USD | Housing Starts (Oct) | 1.246M |  | 1.291M |

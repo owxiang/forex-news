@@ -336,7 +336,7 @@
 | 13:29 | USD | Moderate | Building Permits (Sep) | 1.415M | 1.350M | 1.330M |
 | 13:29 | USD | Low | Building Permits (MoM) (Sep) | 6.4% |  | -2.3% |
 | 13:29 | USD | Moderate | Housing Starts (Sep) | 1.306M | 1.330M | 1.307M |
-| 13:29 | USD | Moderate | Housing Starts (MoM) (Sep) | 1.2% |  | -8.5% |
+| 13:29 | USD | Moderate | Housing Starts (MoM) (Sep) | 1.2% |  | -9.1% |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Dec) | 0.3% | 0.3% | 0.2% |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Dec) | 3.8% | 3.6% | 3.6% |
 | 13:30 | USD | Low | Average Weekly Hours (Dec) | 34.2 | 34.3 | 34.3 |
