@@ -15,8 +15,8 @@
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.098% |  | 2.116% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.026% |  | 2.043% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.068% |  | 2.060% |
-| 50 min | USD | Low | CB Employment Trends Index (Dec) |  |  | 105.80 |
-| 16:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 15:00 | USD | Low | CB Employment Trends Index (Dec) | 104.27 |  | 104.64 |
+| 50 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.540% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.475% |
 | 17:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
