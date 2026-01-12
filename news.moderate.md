@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 08:00 | CHF | SECO Consumer Climate | -31 | -33 | -34 |
-| 37 min | EUR | ECB's De Guindos Speaks |  |  |  |
+| 08:50 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 10:30 | INR | CPI (YoY) (Dec) |  | 1.50% | 0.71% |
 | 16:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 17:30 | USD | FOMC Member Bostic Speaks |  |  |  |
