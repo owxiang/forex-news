@@ -11,10 +11,10 @@
 | 10:30 | EUR | Low | German 12-Month Bubill Auction | 2.004% |  | 2.029% |
 | 10:30 | EUR | Low | German 6-Month Bubill Auction | 1.986% |  | -0.623% |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:45 | EUR | Low | German Current Account Balance n.s.a (Nov) |  |  | 14.8B |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.116% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.043% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.060% |
+| 24 min | EUR | Low | German Current Account Balance n.s.a (Nov) |  |  | 14.8B |
+| 39 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.116% |
+| 39 min | EUR | Low | French 3-Month BTF Auction |  |  | 2.043% |
+| 39 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.060% |
 | 15:00 | USD | Low | CB Employment Trends Index (Dec) |  |  | 105.80 |
 | 16:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.540% |
