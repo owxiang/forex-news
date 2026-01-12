@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | ANZ Job Advertisements (MoM) (Dec) |  |  | -0.8% |
+| 00:30 | AUD | ANZ Job Advertisements (MoM) (Dec) | -0.5% |  | -1.5% |
 | 03:00 | IDR | Retail Sales (YoY) (Nov) |  |  | 4.3% |
 | 09:30 | EUR | Sentix Investor Confidence (Jan) |  | -5.1 | -6.2 |
 | 10:30 | EUR | German 12-Month Bubill Auction |  |  | 2.029% |
