@@ -4,7 +4,7 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | AUD | Low | ANZ Job Advertisements (MoM) (Dec) | -0.5% |  | -1.5% |
 | 03:00 | IDR | Low | Retail Sales (YoY) (Nov) | 6.3% |  | 4.3% |
-| 08:00 | CHF | Moderate | SECO Consumer Climate |  | -33 | -34 |
+| 47 min | CHF | Moderate | SECO Consumer Climate |  | -33 | -34 |
 | 08:50 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Jan) |  | -5.1 | -6.2 |
 | 10:30 | INR | Moderate | CPI (YoY) (Dec) |  | 1.50% | 0.71% |
