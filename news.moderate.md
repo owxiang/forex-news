@@ -6,8 +6,8 @@
 | 08:50 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 10:30 | INR | CPI (YoY) (Dec) | 1.33% | 1.50% | 0.71% |
 | 16:00 | EUR | German Buba Balz Speaks |  |  |  |
-| 21 min | USD | FOMC Member Bostic Speaks |  |  |  |
-| 50 min | USD | 3-Year Note Auction |  |  | 3.614% |
+| 17:30 | USD | 3-Year Note Auction | 3.609% |  | 3.614% |
+| 17:30 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 21:00 | NZD | NZIER Business Confidence (Q4) |  |  | 18% |
 | 23:00 | USD | FOMC Member Williams Speaks |  |  |  |
 | 23:50 | JPY | Adjusted Current Account (Nov) |  | 3.04T | 2.48T |

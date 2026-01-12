@@ -19,10 +19,10 @@
 | 16:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 16:30 | USD | Low | 3-Month Bill Auction | 3.609% |  | 3.540% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 3.490% |  | 3.475% |
-| 21 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 35 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 50 min | USD | High | 10-Year Note Auction |  |  | 4.175% |
-| 50 min | USD | Moderate | 3-Year Note Auction |  |  | 3.614% |
+| 17:30 | USD | Moderate | 3-Year Note Auction | 3.609% |  | 3.614% |
+| 17:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 17:45 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 18:00 | USD | High | 10-Year Note Auction | 4.173% |  | 4.175% |
 | 21:00 | KRW | Low | Export Price Index (YoY) (Dec) |  |  | 7.0% |
 | 21:00 | KRW | Low | Import Price Index (YoY) (Dec) |  |  | 2.2% |
 | 21:00 | NZD | Moderate | NZIER Business Confidence (Q4) |  |  | 18% |

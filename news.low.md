@@ -15,7 +15,7 @@
 | 15:00 | USD | CB Employment Trends Index (Dec) | 104.27 |  | 104.64 |
 | 16:30 | USD | 3-Month Bill Auction | 3.609% |  | 3.540% |
 | 16:30 | USD | 6-Month Bill Auction | 3.490% |  | 3.475% |
-| 35 min | USD | FOMC Member Barkin Speaks |  |  |  |
+| 17:45 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 21:00 | KRW | Export Price Index (YoY) (Dec) |  |  | 7.0% |
 | 21:00 | KRW | Import Price Index (YoY) (Dec) |  |  | 2.2% |
 | 21:00 | NZD | NZIER QSBO Capacity Utilization (Q4) |  |  | 89.1% |
