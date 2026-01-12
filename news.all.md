@@ -25,7 +25,7 @@
 | 18:00 | USD | High | 10-Year Note Auction | 4.173% |  | 4.175% |
 | 21:00 | NZD | Moderate | NZIER Business Confidence (Q4) | 48% |  | 18% |
 | 21:00 | NZD | Low | NZIER QSBO Capacity Utilization (Q4) | 89.8% |  | 89.1% |
-| 23:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 52 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 23:30 | AUD | Low | Westpac Consumer Sentiment (Jan) |  |  | -9.0% |
 | 23:50 | JPY | Moderate | Adjusted Current Account (Nov) |  | 3.04T | 2.48T |
 | 23:50 | JPY | Low | Bank Lending (YoY) (Dec) |  | 4.1% | 4.2% |
