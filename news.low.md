@@ -16,8 +16,6 @@
 | 16:30 | USD | 3-Month Bill Auction | 3.609% |  | 3.540% |
 | 16:30 | USD | 6-Month Bill Auction | 3.490% |  | 3.475% |
 | 17:45 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 52 min | KRW | Export Price Index (YoY) (Dec) |  |  | 7.0% |
-| 52 min | KRW | Import Price Index (YoY) (Dec) |  |  | 2.2% |
-| 52 min | NZD | NZIER QSBO Capacity Utilization (Q4) |  |  | 89.1% |
+| 21:00 | NZD | NZIER QSBO Capacity Utilization (Q4) | 89.8% |  | 89.1% |
 | 23:30 | AUD | Westpac Consumer Sentiment (Jan) |  |  | -9.0% |
 | 23:50 | JPY | Bank Lending (YoY) (Dec) |  | 4.1% | 4.2% |

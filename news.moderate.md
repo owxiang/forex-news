@@ -8,7 +8,7 @@
 | 16:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 17:30 | USD | 3-Year Note Auction | 3.609% |  | 3.614% |
 | 17:30 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 52 min | NZD | NZIER Business Confidence (Q4) |  |  | 18% |
+| 21:00 | NZD | NZIER Business Confidence (Q4) | 48% |  | 18% |
 | 23:00 | USD | FOMC Member Williams Speaks |  |  |  |
 | 23:50 | JPY | Adjusted Current Account (Nov) |  | 3.04T | 2.48T |
 | 23:50 | JPY | Current Account n.s.a. (Nov) |  | 3.594T | 2.834T |

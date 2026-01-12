@@ -23,10 +23,8 @@
 | 17:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 17:45 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 18:00 | USD | High | 10-Year Note Auction | 4.173% |  | 4.175% |
-| 52 min | KRW | Low | Export Price Index (YoY) (Dec) |  |  | 7.0% |
-| 52 min | KRW | Low | Import Price Index (YoY) (Dec) |  |  | 2.2% |
-| 52 min | NZD | Moderate | NZIER Business Confidence (Q4) |  |  | 18% |
-| 52 min | NZD | Low | NZIER QSBO Capacity Utilization (Q4) |  |  | 89.1% |
+| 21:00 | NZD | Moderate | NZIER Business Confidence (Q4) | 48% |  | 18% |
+| 21:00 | NZD | Low | NZIER QSBO Capacity Utilization (Q4) | 89.8% |  | 89.1% |
 | 23:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 23:30 | AUD | Low | Westpac Consumer Sentiment (Jan) |  |  | -9.0% |
 | 23:50 | JPY | Moderate | Adjusted Current Account (Nov) |  | 3.04T | 2.48T |
