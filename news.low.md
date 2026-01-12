@@ -8,11 +8,11 @@
 | 10:30 | EUR | German 12-Month Bubill Auction | 2.004% |  | 2.029% |
 | 10:30 | EUR | German 6-Month Bubill Auction | 1.986% |  | -0.623% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 24 min | EUR | German Current Account Balance n.s.a (Nov) |  |  | 14.8B |
-| 39 min | EUR | French 12-Month BTF Auction |  |  | 2.116% |
-| 39 min | EUR | French 3-Month BTF Auction |  |  | 2.043% |
-| 39 min | EUR | French 6-Month BTF Auction |  |  | 2.060% |
-| 15:00 | USD | CB Employment Trends Index (Dec) |  |  | 105.80 |
+| 13:00 | EUR | German Current Account Balance n.s.a (Nov) | 15.1B |  | 14.8B |
+| 14:00 | EUR | French 12-Month BTF Auction | 2.098% |  | 2.116% |
+| 14:00 | EUR | French 3-Month BTF Auction | 2.026% |  | 2.043% |
+| 14:00 | EUR | French 6-Month BTF Auction | 2.068% |  | 2.060% |
+| 50 min | USD | CB Employment Trends Index (Dec) |  |  | 105.80 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 3.540% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 3.475% |
 | 17:45 | USD | FOMC Member Barkin Speaks |  |  |  |
