@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | AUD | Low | ANZ Job Advertisements (MoM) (Dec) | -0.5% |  | -1.5% |
-| 03:00 | IDR | Low | Retail Sales (YoY) (Nov) |  |  | 4.3% |
+| 9 min | IDR | Low | Retail Sales (YoY) (Nov) |  |  | 4.3% |
 | 08:00 | CHF | Moderate | SECO Consumer Climate |  | -33 | -34 |
 | 08:50 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Jan) |  | -5.1 | -6.2 |
