@@ -17,5 +17,5 @@
 | 16:30 | USD | 6-Month Bill Auction | 3.490% |  | 3.475% |
 | 17:45 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 21:00 | NZD | NZIER QSBO Capacity Utilization (Q4) | 89.8% |  | 89.1% |
-| 23:30 | AUD | Westpac Consumer Sentiment (Jan) |  |  | -9.0% |
-| 23:50 | JPY | Bank Lending (YoY) (Dec) |  | 4.1% | 4.2% |
+| 24 min | AUD | Westpac Consumer Sentiment (Jan) |  |  | -9.0% |
+| 44 min | JPY | Bank Lending (YoY) (Dec) |  | 4.1% | 4.2% |
