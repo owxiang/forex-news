@@ -7,9 +7,8 @@
 | 09:30 | EUR | Sentix Investor Confidence (Jan) | -1.8 | -5.1 | -6.2 |
 | 10:30 | EUR | German 12-Month Bubill Auction | 2.004% |  | 2.029% |
 | 10:30 | EUR | German 6-Month Bubill Auction | 1.986% |  | -0.623% |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 17 min | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | EUR | German Current Account Balance n.s.a (Nov) |  |  | 14.8B |
+| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 13:45 | EUR | German Current Account Balance n.s.a (Nov) |  |  | 14.8B |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.116% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.043% |
 | 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.060% |

@@ -10,9 +10,8 @@
 | 10:30 | INR | Moderate | CPI (YoY) (Dec) | 1.33% | 1.50% | 0.71% |
 | 10:30 | EUR | Low | German 12-Month Bubill Auction | 2.004% |  | 2.029% |
 | 10:30 | EUR | Low | German 6-Month Bubill Auction | 1.986% |  | -0.623% |
-| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 17 min | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | EUR | Low | German Current Account Balance n.s.a (Nov) |  |  | 14.8B |
+| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 13:45 | EUR | Low | German Current Account Balance n.s.a (Nov) |  |  | 14.8B |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.116% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.043% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.060% |
