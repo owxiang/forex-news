@@ -1,32 +1,45 @@
-## 12 January 2026 - All Forex News
+## 13 January 2026 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | AUD | Low | ANZ Job Advertisements (MoM) (Dec) | -0.5% |  | -1.5% |
-| 03:00 | IDR | Low | Retail Sales (YoY) (Nov) | 6.3% |  | 4.3% |
-| 08:00 | CHF | Moderate | SECO Consumer Climate | -31 | -33 | -34 |
-| 08:50 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 09:30 | EUR | Low | Sentix Investor Confidence (Jan) | -1.8 | -5.1 | -6.2 |
-| 10:30 | INR | Moderate | CPI (YoY) (Dec) | 1.33% | 1.50% | 0.71% |
-| 10:30 | EUR | Low | German 12-Month Bubill Auction | 2.004% |  | 2.029% |
-| 10:30 | EUR | Low | German 6-Month Bubill Auction | 1.986% |  | -0.623% |
-| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | EUR | Low | German Current Account Balance n.s.a (Nov) | 15.1B |  | 14.8B |
-| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.098% |  | 2.116% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.026% |  | 2.043% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.068% |  | 2.060% |
-| 15:00 | USD | Low | CB Employment Trends Index (Dec) | 104.27 |  | 104.64 |
-| 16:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 16:30 | USD | Low | 3-Month Bill Auction | 3.609% |  | 3.540% |
-| 16:30 | USD | Low | 6-Month Bill Auction | 3.490% |  | 3.475% |
-| 17:30 | USD | Moderate | 3-Year Note Auction | 3.609% |  | 3.614% |
-| 17:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 17:45 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 18:00 | USD | High | 10-Year Note Auction | 4.173% |  | 4.175% |
-| 21:00 | NZD | Moderate | NZIER Business Confidence (Q4) | 48% |  | 18% |
-| 21:00 | NZD | Low | NZIER QSBO Capacity Utilization (Q4) | 89.8% |  | 89.1% |
-| 23:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 24 min | AUD | Low | Westpac Consumer Sentiment (Jan) |  |  | -9.0% |
-| 44 min | JPY | Moderate | Adjusted Current Account (Nov) |  | 3.04T | 2.48T |
-| 44 min | JPY | Low | Bank Lending (YoY) (Dec) |  | 4.1% | 4.2% |
-| 44 min | JPY | Moderate | Current Account n.s.a. (Nov) |  | 3.594T | 2.834T |
+| 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Dec) | 1.0% | 1.3% | 1.2% |
+| 05:00 | JPY | Low | Economy Watchers Current Index (Dec) |  | 48.8 | 48.7 |
+| 07:45 | EUR | Low | French Government Budget Balance (Nov) |  |  | -136.2B |
+| 09:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 09:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 1.990% |
+| 09:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 1.944% |
+| 10:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 2.58% |
+| 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.270% |
+| 11:00 | USD | Low | NFIB Small Business Optimism (Dec) |  | 99.5 | 99.0 |
+| 12:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Nov) |  |  | 2.2% |
+| 12:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Nov) |  |  | 0.3% |
+| 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 11.50K |
+| 13:30 | USD | High | Core CPI (MoM) (Dec) |  | 0.3% | 0.2% |
+| 13:30 | USD | Moderate | Core CPI (YoY) (Dec) |  | 2.7% | 2.6% |
+| 13:30 | USD | Low | Core CPI Index (Dec) |  |  | 331.07 |
+| 13:30 | USD | High | CPI (MoM) (Dec) |  | 0.3% | 0.3% |
+| 13:30 | USD | High | CPI (YoY) (Dec) |  | 2.7% | 2.7% |
+| 13:30 | USD | Low | CPI Index, n.s.a. (Dec) |  |  | 324.12 |
+| 13:30 | USD | Low | CPI Index, s.a (Dec) |  |  | 325.03 |
+| 13:30 | USD | Low | CPI, n.s.a (MoM) (Dec) |  |  | 0.25% |
+| 13:30 | USD | Low | Real Earnings (MoM) (Dec) |  |  | -0.1% |
+| 13:30 | CAD | Moderate | Building Permits (MoM) (Nov) |  | -6.5% | 14.9% |
+| 13:55 | USD | Low | Redbook (YoY) |  |  | 7.1% |
+| 15:00 | USD | High | New Home Sales (Oct) |  | 715K | 800K |
+| 15:00 | USD | Moderate | New Home Sales (MoM) (Oct) |  |  | 20.5% |
+| 15:10 | USD | Low | IBD/TIPP Economic Optimism (Jan) |  | 48.2 | 47.9 |
+| 16:00 | USD | Low | Cleveland CPI (MoM) (Dec) |  |  | 0.1% |
+| 18:00 | USD | High | 30-Year Bond Auction |  |  | 4.773% |
+| 19:00 | USD | Moderate | Federal Budget Balance (Dec) |  |  | -173.0B |
+| 21:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 21:00 | KRW | Low | Export Price Index (YoY) (Dec) |  |  | 7.0% |
+| 21:00 | KRW | Low | Export Price Index (YoY) (Dec) |  |  | 7.0% |
+| 21:00 | KRW | Low | Export Price Index (YoY) (Dec) |  |  | 7.0% |
+| 21:00 | KRW | Low | Import Price Index (YoY) (Dec) |  |  | 2.2% |
+| 21:00 | KRW | Low | Import Price Index (YoY) (Dec) |  |  | 2.2% |
+| 21:00 | KRW | Low | Import Price Index (YoY) (Dec) |  |  | 2.2% |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -2.800M |
+| 21:45 | NZD | Low | Building Consents (MoM) (Nov) |  |  | -0.9% |
+| 23:00 | JPY | Low | Reuters Tankan Index (Jan) |  |  | 10 |
+| 23:50 | JPY | Low | M2 Money Stock (YoY) |  | 1.9% | 1.8% |
+| 23:50 | JPY | Low | M3 Money Supply (Dec) |  |  | 2,238.9B |

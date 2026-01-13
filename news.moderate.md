@@ -1,14 +1,12 @@
-## 12 January 2026 - Moderate Impact Forex News
+## 13 January 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 08:00 | CHF | SECO Consumer Climate | -31 | -33 | -34 |
-| 08:50 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 10:30 | INR | CPI (YoY) (Dec) | 1.33% | 1.50% | 0.71% |
-| 16:00 | EUR | German Buba Balz Speaks |  |  |  |
-| 17:30 | USD | 3-Year Note Auction | 3.609% |  | 3.614% |
-| 17:30 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 21:00 | NZD | NZIER Business Confidence (Q4) | 48% |  | 18% |
-| 23:00 | USD | FOMC Member Williams Speaks |  |  |  |
-| 44 min | JPY | Adjusted Current Account (Nov) |  | 3.04T | 2.48T |
-| 44 min | JPY | Current Account n.s.a. (Nov) |  | 3.594T | 2.834T |
+| 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Dec) | 1.0% | 1.3% | 1.2% |
+| 09:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 13:15 | USD | ADP Employment Change Weekly |  |  | 11.50K |
+| 13:30 | USD | Core CPI (YoY) (Dec) |  | 2.7% | 2.6% |
+| 13:30 | CAD | Building Permits (MoM) (Nov) |  | -6.5% | 14.9% |
+| 15:00 | USD | New Home Sales (MoM) (Oct) |  |  | 20.5% |
+| 19:00 | USD | Federal Budget Balance (Dec) |  |  | -173.0B |
+| 21:30 | USD | API Weekly Crude Oil Stock |  |  | -2.800M |
