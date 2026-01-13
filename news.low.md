@@ -9,8 +9,8 @@
 | 10:10 | EUR | Italian 3-Year BTP Auction | 2.48% |  | 2.58% |
 | 10:30 | EUR | German 5-Year Bobl Auction | 2.470% |  | 2.270% |
 | 11:00 | USD | NFIB Small Business Optimism (Dec) | 99.5 | 99.5 | 99.0 |
-| 52 min | BRL | Brazilian Service Sector Growth (MoM) (Nov) |  |  | 0.3% |
-| 52 min | BRL | Brazilian Service Sector Growth (YoY) (Nov) |  |  | 2.2% |
+| 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Nov) | -0.1% |  | 0.3% |
+| 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Nov) | 2.5% |  | 2.2% |
 | 13:30 | USD | Core CPI Index (Dec) |  |  | 331.07 |
 | 13:30 | USD | CPI Index, n.s.a. (Dec) |  |  | 324.12 |
 | 13:30 | USD | CPI Index, s.a (Dec) |  |  | 325.03 |

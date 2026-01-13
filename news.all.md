@@ -11,8 +11,8 @@
 | 10:10 | EUR | Low | Italian 3-Year BTP Auction | 2.48% |  | 2.58% |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction | 2.470% |  | 2.270% |
 | 11:00 | USD | Low | NFIB Small Business Optimism (Dec) | 99.5 | 99.5 | 99.0 |
-| 52 min | BRL | Low | Brazilian Service Sector Growth (MoM) (Nov) |  |  | 0.3% |
-| 52 min | BRL | Low | Brazilian Service Sector Growth (YoY) (Nov) |  |  | 2.2% |
+| 12:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Nov) | -0.1% |  | 0.3% |
+| 12:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Nov) | 2.5% |  | 2.2% |
 | 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 11.50K |
 | 13:30 | USD | High | Core CPI (MoM) (Dec) |  | 0.3% | 0.2% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Dec) |  | 2.7% | 2.6% |
