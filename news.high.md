@@ -6,4 +6,4 @@
 | 13:30 | USD | CPI (MoM) (Dec) | 0.3% | 0.3% | 0.3% |
 | 13:30 | USD | CPI (YoY) (Dec) | 2.7% | 2.7% | 2.7% |
 | 15:00 | USD | New Home Sales (Oct) | 737K | 716K | 711K |
-| 49 min | USD | 30-Year Bond Auction |  |  | 4.773% |
+| 18:00 | USD | 30-Year Bond Auction | 4.825% |  | 4.773% |
