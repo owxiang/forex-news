@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 05:00 | JPY | Economy Watchers Current Index (Dec) | 48.6 | 48.7 | 48.7 |
-| 07:45 | EUR | French Government Budget Balance (Nov) |  |  | -136.2B |
+| 34 min | EUR | French Government Budget Balance (Nov) |  |  | -136.2B |
 | 09:40 | EUR | Spanish 12-Month Letras Auction |  |  | 1.990% |
 | 09:40 | EUR | Spanish 6-Month Letras Auction |  |  | 1.944% |
 | 10:10 | EUR | Italian 3-Year BTP Auction |  |  | 2.58% |
@@ -23,5 +23,6 @@
 | 21:00 | KRW | Export Price Index (YoY) (Dec) |  |  | 7.0% |
 | 21:00 | KRW | Import Price Index (YoY) (Dec) |  |  | 2.2% |
 | 21:45 | NZD | Building Consents (MoM) (Nov) |  |  | -0.9% |
+| 23:00 | KRW | Unemployment Rate (Dec) |  |  | 2.7% |
 | 23:50 | JPY | M2 Money Stock (YoY) |  | 1.9% | 1.8% |
 | 23:50 | JPY | M3 Money Supply (Dec) |  |  | 2,238.9B |
