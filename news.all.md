@@ -28,7 +28,7 @@
 | 15:00 | USD | High | New Home Sales (Oct) | 737K | 716K | 711K |
 | 15:00 | USD | Moderate | New Home Sales (MoM) (Oct) | -0.1% |  | 11.3% |
 | 15:10 | USD | Low | IBD/TIPP Economic Optimism (Jan) | 47.2 | 48.2 | 47.9 |
-| 48 min | USD | Low | Cleveland CPI (MoM) (Dec) |  |  | 0.1% |
+| 16:00 | USD | Low | Cleveland CPI (MoM) (Dec) | 0.3% |  | 0.1% |
 | 18:00 | USD | High | 30-Year Bond Auction |  |  | 4.773% |
 | 19:00 | USD | Moderate | Federal Budget Balance (Dec) |  | -140.7B | -173.0B |
 | 21:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |

@@ -18,7 +18,7 @@
 | 13:30 | USD | Real Earnings (MoM) (Dec) | -0.3% |  | -0.1% |
 | 13:55 | USD | Redbook (YoY) | 5.7% |  | 7.1% |
 | 15:10 | USD | IBD/TIPP Economic Optimism (Jan) | 47.2 | 48.2 | 47.9 |
-| 48 min | USD | Cleveland CPI (MoM) (Dec) |  |  | 0.1% |
+| 16:00 | USD | Cleveland CPI (MoM) (Dec) | 0.3% |  | 0.1% |
 | 21:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 21:00 | KRW | Export Price Index (YoY) (Dec) |  |  | 7.0% |
 | 21:00 | KRW | Import Price Index (YoY) (Dec) |  |  | 2.2% |
