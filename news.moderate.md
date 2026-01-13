@@ -8,5 +8,5 @@
 | 13:30 | USD | Core CPI (YoY) (Dec) | 2.6% | 2.7% | 2.6% |
 | 13:30 | CAD | Building Permits (MoM) (Nov) | -13.1% | -5.6% | 15.7% |
 | 15:00 | USD | New Home Sales (MoM) (Oct) | -0.1% |  | 11.3% |
-| 48 min | USD | Federal Budget Balance (Dec) |  | -140.7B | -173.0B |
+| 19:00 | USD | Federal Budget Balance (Dec) | -145.0B | -140.7B | -173.0B |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | -2.800M |

@@ -30,7 +30,7 @@
 | 15:10 | USD | Low | IBD/TIPP Economic Optimism (Jan) | 47.2 | 48.2 | 47.9 |
 | 16:00 | USD | Low | Cleveland CPI (MoM) (Dec) | 0.3% |  | 0.1% |
 | 18:00 | USD | High | 30-Year Bond Auction | 4.825% |  | 4.773% |
-| 48 min | USD | Moderate | Federal Budget Balance (Dec) |  | -140.7B | -173.0B |
+| 19:00 | USD | Moderate | Federal Budget Balance (Dec) | -145.0B | -140.7B | -173.0B |
 | 21:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 21:00 | KRW | Low | Export Price Index (YoY) (Dec) |  |  | 7.0% |
 | 21:00 | KRW | Low | Import Price Index (YoY) (Dec) |  |  | 2.2% |
