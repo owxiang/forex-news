@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Dec) | 1.0% | 1.3% | 1.2% |
-| 05:00 | JPY | Low | Economy Watchers Current Index (Dec) |  | 48.8 | 48.7 |
+| 38 min | JPY | Low | Economy Watchers Current Index (Dec) |  | 48.8 | 48.7 |
 | 07:45 | EUR | Low | French Government Budget Balance (Nov) |  |  | -136.2B |
 | 09:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 09:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 1.990% |
