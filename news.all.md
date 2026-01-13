@@ -25,8 +25,8 @@
 | 13:30 | USD | Low | Real Earnings (MoM) (Dec) |  |  | -0.1% |
 | 13:30 | CAD | Moderate | Building Permits (MoM) (Nov) |  | -5.6% | 14.9% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 7.1% |
-| 15:00 | USD | High | New Home Sales (Oct) |  | 716K | 800K |
-| 15:00 | USD | Moderate | New Home Sales (MoM) (Oct) |  |  | 20.5% |
+| 15:00 | USD | High | New Home Sales (Sep) |  | 716K | 800K |
+| 15:00 | USD | Moderate | New Home Sales (MoM) (Sep) |  |  | 20.5% |
 | 15:10 | USD | Low | IBD/TIPP Economic Optimism (Jan) |  | 48.2 | 47.9 |
 | 16:00 | USD | Low | Cleveland CPI (MoM) (Dec) |  |  | 0.1% |
 | 18:00 | USD | High | 30-Year Bond Auction |  |  | 4.773% |
@@ -36,6 +36,5 @@
 | 21:00 | KRW | Low | Import Price Index (YoY) (Dec) |  |  | 2.2% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -2.800M |
 | 21:45 | NZD | Low | Building Consents (MoM) (Nov) |  |  | -0.9% |
-| 23:00 | JPY | Low | Reuters Tankan Index (Jan) |  |  | 10 |
 | 23:50 | JPY | Low | M2 Money Stock (YoY) |  | 1.9% | 1.8% |
 | 23:50 | JPY | Low | M3 Money Supply (Dec) |  |  | 2,238.9B |
