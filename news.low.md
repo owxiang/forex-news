@@ -9,8 +9,8 @@
 | 10:10 | EUR | Italian 3-Year BTP Auction | 2.48% |  | 2.58% |
 | 10:30 | EUR | German 5-Year Bobl Auction | 2.470% |  | 2.270% |
 | 11:00 | USD | NFIB Small Business Optimism (Dec) | 99.5 | 99.5 | 99.0 |
-| 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Nov) | -0.1% |  | 0.4% |
 | 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Nov) | 2.5% |  | 2.1% |
+| 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Nov) | -0.1% |  | 0.4% |
 | 13:30 | USD | Core CPI Index (Dec) | 331.86 |  | 331.07 |
 | 13:30 | USD | CPI Index, n.s.a. (Dec) | 324.05 |  | 324.12 |
 | 13:30 | USD | CPI Index, s.a (Dec) | 326.03 |  | 325.03 |
@@ -23,6 +23,7 @@
 | 21:00 | KRW | Export Price Index (YoY) (Dec) | 5.5% |  | 6.8% |
 | 21:00 | KRW | Import Price Index (YoY) (Dec) | 0.3% |  | 1.9% |
 | 21:45 | NZD | Building Consents (MoM) (Nov) | 2.8% |  | -0.7% |
-| 52 min | KRW | Unemployment Rate (Dec) |  |  | 2.7% |
-| 23:50 | JPY | M2 Money Stock (YoY) |  | 1.9% | 1.8% |
-| 23:50 | JPY | M3 Money Supply (Dec) |  |  | 2,238.9B |
+| 23:00 | KRW | Unemployment Rate (Dec) | 4.0% |  | 2.7% |
+| 23:00 | JPY | Reuters Tankan Index (Jan) | 7 |  | 10 |
+| 42 min | JPY | M2 Money Stock (YoY) |  | 1.9% | 1.8% |
+| 42 min | JPY | M3 Money Supply (Dec) |  |  | 2,238.9B |

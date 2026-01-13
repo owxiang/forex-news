@@ -11,8 +11,8 @@
 | 10:10 | EUR | Low | Italian 3-Year BTP Auction | 2.48% |  | 2.58% |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction | 2.470% |  | 2.270% |
 | 11:00 | USD | Low | NFIB Small Business Optimism (Dec) | 99.5 | 99.5 | 99.0 |
-| 12:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Nov) | -0.1% |  | 0.4% |
 | 12:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Nov) | 2.5% |  | 2.1% |
+| 12:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Nov) | -0.1% |  | 0.4% |
 | 13:15 | USD | Moderate | ADP Employment Change Weekly | 11.75K |  | 11.50K |
 | 13:30 | USD | High | Core CPI (MoM) (Dec) | 0.2% | 0.3% | 0.2% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Dec) | 2.6% | 2.7% | 2.6% |
@@ -38,6 +38,7 @@
 | 21:00 | KRW | Low | Import Price Index (YoY) (Dec) | 0.3% |  | 1.9% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock | 5.270M | -2.000M | -2.800M |
 | 21:45 | NZD | Low | Building Consents (MoM) (Nov) | 2.8% |  | -0.7% |
-| 52 min | KRW | Low | Unemployment Rate (Dec) |  |  | 2.7% |
-| 23:50 | JPY | Low | M2 Money Stock (YoY) |  | 1.9% | 1.8% |
-| 23:50 | JPY | Low | M3 Money Supply (Dec) |  |  | 2,238.9B |
+| 23:00 | KRW | Low | Unemployment Rate (Dec) | 4.0% |  | 2.7% |
+| 23:00 | JPY | Low | Reuters Tankan Index (Jan) | 7 |  | 10 |
+| 42 min | JPY | Low | M2 Money Stock (YoY) |  | 1.9% | 1.8% |
+| 42 min | JPY | Low | M3 Money Supply (Dec) |  |  | 2,238.9B |
