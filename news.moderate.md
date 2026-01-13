@@ -6,7 +6,7 @@
 | 09:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 13:15 | USD | ADP Employment Change Weekly |  |  | 11.50K |
 | 13:30 | USD | Core CPI (YoY) (Dec) |  | 2.7% | 2.6% |
-| 13:30 | CAD | Building Permits (MoM) (Nov) |  | -6.5% | 14.9% |
+| 13:30 | CAD | Building Permits (MoM) (Nov) |  | -5.6% | 14.9% |
 | 15:00 | USD | New Home Sales (MoM) (Oct) |  |  | 20.5% |
-| 19:00 | USD | Federal Budget Balance (Dec) |  |  | -173.0B |
+| 19:00 | USD | Federal Budget Balance (Dec) |  | -140.7B | -173.0B |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | -2.800M |

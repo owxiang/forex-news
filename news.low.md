@@ -2,15 +2,15 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 38 min | JPY | Economy Watchers Current Index (Dec) |  | 48.8 | 48.7 |
+| 05:00 | JPY | Economy Watchers Current Index (Dec) | 48.6 | 48.7 | 48.7 |
 | 07:45 | EUR | French Government Budget Balance (Nov) |  |  | -136.2B |
 | 09:40 | EUR | Spanish 12-Month Letras Auction |  |  | 1.990% |
 | 09:40 | EUR | Spanish 6-Month Letras Auction |  |  | 1.944% |
 | 10:10 | EUR | Italian 3-Year BTP Auction |  |  | 2.58% |
 | 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.270% |
 | 11:00 | USD | NFIB Small Business Optimism (Dec) |  | 99.5 | 99.0 |
-| 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Nov) |  |  | 2.2% |
 | 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Nov) |  |  | 0.3% |
+| 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Nov) |  |  | 2.2% |
 | 13:30 | USD | Core CPI Index (Dec) |  |  | 331.07 |
 | 13:30 | USD | CPI Index, n.s.a. (Dec) |  |  | 324.12 |
 | 13:30 | USD | CPI Index, s.a (Dec) |  |  | 325.03 |
@@ -21,10 +21,6 @@
 | 16:00 | USD | Cleveland CPI (MoM) (Dec) |  |  | 0.1% |
 | 21:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 21:00 | KRW | Export Price Index (YoY) (Dec) |  |  | 7.0% |
-| 21:00 | KRW | Export Price Index (YoY) (Dec) |  |  | 7.0% |
-| 21:00 | KRW | Export Price Index (YoY) (Dec) |  |  | 7.0% |
-| 21:00 | KRW | Import Price Index (YoY) (Dec) |  |  | 2.2% |
-| 21:00 | KRW | Import Price Index (YoY) (Dec) |  |  | 2.2% |
 | 21:00 | KRW | Import Price Index (YoY) (Dec) |  |  | 2.2% |
 | 21:45 | NZD | Building Consents (MoM) (Nov) |  |  | -0.9% |
 | 23:00 | JPY | Reuters Tankan Index (Jan) |  |  | 10 |
