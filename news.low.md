@@ -3,10 +3,10 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 05:00 | JPY | Economy Watchers Current Index (Dec) | 48.6 | 48.7 | 48.7 |
-| 49 min | EUR | French Government Budget Balance (Nov) |  |  | -136.2B |
-| 09:40 | EUR | Spanish 12-Month Letras Auction |  |  | 1.990% |
-| 09:40 | EUR | Spanish 6-Month Letras Auction |  |  | 1.944% |
-| 10:10 | EUR | Italian 3-Year BTP Auction |  |  | 2.58% |
+| 07:45 | EUR | French Government Budget Balance (Nov) | -155.4B |  | -136.2B |
+| 28 min | EUR | Spanish 12-Month Letras Auction |  |  | 1.990% |
+| 28 min | EUR | Spanish 6-Month Letras Auction |  |  | 1.944% |
+| 58 min | EUR | Italian 3-Year BTP Auction |  |  | 2.58% |
 | 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.270% |
 | 11:00 | USD | NFIB Small Business Optimism (Dec) |  | 99.5 | 99.0 |
 | 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Nov) |  |  | 0.3% |

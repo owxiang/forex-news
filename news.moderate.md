@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Dec) | 1.0% | 1.3% | 1.2% |
-| 49 min | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 09:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 13:15 | USD | ADP Employment Change Weekly |  |  | 11.50K |
 | 13:30 | USD | Core CPI (YoY) (Dec) |  | 2.7% | 2.6% |
 | 13:30 | CAD | Building Permits (MoM) (Nov) |  | -5.6% | 14.9% |
