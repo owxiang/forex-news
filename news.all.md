@@ -25,16 +25,18 @@
 | 13:30 | USD | Low | Real Earnings (MoM) (Dec) | -0.3% |  | -0.1% |
 | 13:30 | CAD | Moderate | Building Permits (MoM) (Nov) | -13.1% | -5.6% | 15.7% |
 | 13:55 | USD | Low | Redbook (YoY) | 5.7% |  | 7.1% |
-| 15:00 | USD | High | New Home Sales (Oct) | 737K | 716K | 711K |
-| 15:00 | USD | Moderate | New Home Sales (MoM) (Oct) | -0.1% |  | 11.3% |
+| 14:59 | USD | High | New Home Sales (Sep) | 738K |  | 711K |
+| 14:59 | USD | Moderate | New Home Sales (MoM) (Sep) | 3.8% |  | 11.3% |
+| 15:00 | USD | High | New Home Sales (Oct) | 737K | 716K | 738K |
+| 15:00 | USD | Moderate | New Home Sales (MoM) (Oct) | -0.1% |  | 3.8% |
 | 15:10 | USD | Low | IBD/TIPP Economic Optimism (Jan) | 47.2 | 48.2 | 47.9 |
 | 16:00 | USD | Low | Cleveland CPI (MoM) (Dec) | 0.3% |  | 0.1% |
 | 18:00 | USD | High | 30-Year Bond Auction | 4.825% |  | 4.773% |
 | 19:00 | USD | Moderate | Federal Budget Balance (Dec) | -145.0B | -140.7B | -173.0B |
-| 21:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 21:00 | KRW | Low | Export Price Index (YoY) (Dec) |  |  | 7.0% |
-| 21:00 | KRW | Low | Import Price Index (YoY) (Dec) |  |  | 2.2% |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -2.800M |
+| 52 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 52 min | KRW | Low | Export Price Index (YoY) (Dec) |  |  | 7.0% |
+| 52 min | KRW | Low | Import Price Index (YoY) (Dec) |  |  | 2.2% |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.000M | -2.800M |
 | 21:45 | NZD | Low | Building Consents (MoM) (Nov) |  |  | -0.9% |
 | 23:00 | KRW | Low | Unemployment Rate (Dec) |  |  | 2.7% |
 | 23:50 | JPY | Low | M2 Money Stock (YoY) |  | 1.9% | 1.8% |

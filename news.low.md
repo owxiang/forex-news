@@ -19,9 +19,9 @@
 | 13:55 | USD | Redbook (YoY) | 5.7% |  | 7.1% |
 | 15:10 | USD | IBD/TIPP Economic Optimism (Jan) | 47.2 | 48.2 | 47.9 |
 | 16:00 | USD | Cleveland CPI (MoM) (Dec) | 0.3% |  | 0.1% |
-| 21:00 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 21:00 | KRW | Export Price Index (YoY) (Dec) |  |  | 7.0% |
-| 21:00 | KRW | Import Price Index (YoY) (Dec) |  |  | 2.2% |
+| 52 min | USD | FOMC Member Barkin Speaks |  |  |  |
+| 52 min | KRW | Export Price Index (YoY) (Dec) |  |  | 7.0% |
+| 52 min | KRW | Import Price Index (YoY) (Dec) |  |  | 2.2% |
 | 21:45 | NZD | Building Consents (MoM) (Nov) |  |  | -0.9% |
 | 23:00 | KRW | Unemployment Rate (Dec) |  |  | 2.7% |
 | 23:50 | JPY | M2 Money Stock (YoY) |  | 1.9% | 1.8% |
