@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Dec) | 1.0% | 1.3% | 1.2% |
 | 05:00 | JPY | Low | Economy Watchers Current Index (Dec) | 48.6 | 48.7 | 48.7 |
-| 34 min | EUR | Low | French Government Budget Balance (Nov) |  |  | -136.2B |
-| 09:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 49 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 49 min | EUR | Low | French Government Budget Balance (Nov) |  |  | -136.2B |
 | 09:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 1.990% |
 | 09:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 1.944% |
 | 10:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 2.58% |

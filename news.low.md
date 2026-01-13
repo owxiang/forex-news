@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 05:00 | JPY | Economy Watchers Current Index (Dec) | 48.6 | 48.7 | 48.7 |
-| 34 min | EUR | French Government Budget Balance (Nov) |  |  | -136.2B |
+| 49 min | EUR | French Government Budget Balance (Nov) |  |  | -136.2B |
 | 09:40 | EUR | Spanish 12-Month Letras Auction |  |  | 1.990% |
 | 09:40 | EUR | Spanish 6-Month Letras Auction |  |  | 1.944% |
 | 10:10 | EUR | Italian 3-Year BTP Auction |  |  | 2.58% |
