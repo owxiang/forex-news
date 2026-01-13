@@ -11,12 +11,12 @@
 | 11:00 | USD | NFIB Small Business Optimism (Dec) | 99.5 | 99.5 | 99.0 |
 | 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Nov) | -0.1% |  | 0.4% |
 | 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Nov) | 2.5% |  | 2.1% |
-| 10 min | USD | Core CPI Index (Dec) |  |  | 331.07 |
-| 10 min | USD | CPI Index, n.s.a. (Dec) |  |  | 324.12 |
-| 10 min | USD | CPI Index, s.a (Dec) |  |  | 325.03 |
-| 10 min | USD | CPI, n.s.a (MoM) (Dec) |  |  | 0.25% |
-| 10 min | USD | Real Earnings (MoM) (Dec) |  |  | -0.1% |
-| 35 min | USD | Redbook (YoY) |  |  | 7.1% |
+| 13:30 | USD | Core CPI Index (Dec) | 331.86 |  | 331.07 |
+| 13:30 | USD | CPI Index, n.s.a. (Dec) | 324.05 |  | 324.12 |
+| 13:30 | USD | CPI Index, s.a (Dec) | 326.03 |  | 325.03 |
+| 13:30 | USD | CPI, n.s.a (MoM) (Dec) | -0.02% |  | 0.25% |
+| 13:30 | USD | Real Earnings (MoM) (Dec) | -0.3% |  | -0.1% |
+| 13:55 | USD | Redbook (YoY) | 5.7% |  | 7.1% |
 | 15:10 | USD | IBD/TIPP Economic Optimism (Jan) |  | 48.2 | 47.9 |
 | 16:00 | USD | Cleveland CPI (MoM) (Dec) |  |  | 0.1% |
 | 21:00 | USD | FOMC Member Barkin Speaks |  |  |  |

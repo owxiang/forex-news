@@ -14,19 +14,19 @@
 | 12:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Nov) | -0.1% |  | 0.4% |
 | 12:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Nov) | 2.5% |  | 2.1% |
 | 13:15 | USD | Moderate | ADP Employment Change Weekly | 11.75K |  | 11.50K |
-| 10 min | USD | High | Core CPI (MoM) (Dec) |  | 0.3% | 0.2% |
-| 10 min | USD | Moderate | Core CPI (YoY) (Dec) |  | 2.7% | 2.6% |
-| 10 min | USD | Low | Core CPI Index (Dec) |  |  | 331.07 |
-| 10 min | USD | High | CPI (MoM) (Dec) |  | 0.3% | 0.3% |
-| 10 min | USD | High | CPI (YoY) (Dec) |  | 2.7% | 2.7% |
-| 10 min | USD | Low | CPI Index, n.s.a. (Dec) |  |  | 324.12 |
-| 10 min | USD | Low | CPI Index, s.a (Dec) |  |  | 325.03 |
-| 10 min | USD | Low | CPI, n.s.a (MoM) (Dec) |  |  | 0.25% |
-| 10 min | USD | Low | Real Earnings (MoM) (Dec) |  |  | -0.1% |
-| 10 min | CAD | Moderate | Building Permits (MoM) (Nov) |  | -5.6% | 14.9% |
-| 35 min | USD | Low | Redbook (YoY) |  |  | 7.1% |
-| 15:00 | USD | High | New Home Sales (Sep) |  | 716K | 800K |
-| 15:00 | USD | Moderate | New Home Sales (MoM) (Sep) |  |  | 20.5% |
+| 13:30 | USD | High | Core CPI (MoM) (Dec) | 0.2% | 0.3% | 0.2% |
+| 13:30 | USD | Moderate | Core CPI (YoY) (Dec) | 2.6% | 2.7% | 2.6% |
+| 13:30 | USD | Low | Core CPI Index (Dec) | 331.86 |  | 331.07 |
+| 13:30 | USD | High | CPI (MoM) (Dec) | 0.3% | 0.3% | 0.3% |
+| 13:30 | USD | High | CPI (YoY) (Dec) | 2.7% | 2.7% | 2.7% |
+| 13:30 | USD | Low | CPI Index, n.s.a. (Dec) | 324.05 |  | 324.12 |
+| 13:30 | USD | Low | CPI Index, s.a (Dec) | 326.03 |  | 325.03 |
+| 13:30 | USD | Low | CPI, n.s.a (MoM) (Dec) | -0.02% |  | 0.25% |
+| 13:30 | USD | Low | Real Earnings (MoM) (Dec) | -0.3% |  | -0.1% |
+| 13:30 | CAD | Moderate | Building Permits (MoM) (Nov) | -13.1% | -5.6% | 15.7% |
+| 13:55 | USD | Low | Redbook (YoY) | 5.7% |  | 7.1% |
+| 51 min | USD | High | New Home Sales (Sep) |  | 716K | 800K |
+| 51 min | USD | Moderate | New Home Sales (MoM) (Sep) |  |  | 20.5% |
 | 15:10 | USD | Low | IBD/TIPP Economic Optimism (Jan) |  | 48.2 | 47.9 |
 | 16:00 | USD | Low | Cleveland CPI (MoM) (Dec) |  |  | 0.1% |
 | 18:00 | USD | High | 30-Year Bond Auction |  |  | 4.773% |
