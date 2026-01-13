@@ -34,10 +34,10 @@
 | 18:00 | USD | High | 30-Year Bond Auction | 4.825% |  | 4.773% |
 | 19:00 | USD | Moderate | Federal Budget Balance (Dec) | -145.0B | -144.5B | -173.0B |
 | 21:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 21:00 | KRW | Low | Export Price Index (YoY) (Dec) | 5.5% |  | 7.0% |
-| 21:00 | KRW | Low | Import Price Index (YoY) (Dec) | 0.3% |  | 2.2% |
-| 22 min | USD | Moderate | API Weekly Crude Oil Stock |  | -2.000M | -2.800M |
-| 37 min | NZD | Low | Building Consents (MoM) (Nov) |  |  | -0.9% |
-| 23:00 | KRW | Low | Unemployment Rate (Dec) |  |  | 2.7% |
+| 21:00 | KRW | Low | Export Price Index (YoY) (Dec) | 5.5% |  | 6.8% |
+| 21:00 | KRW | Low | Import Price Index (YoY) (Dec) | 0.3% |  | 1.9% |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | 5.270M | -2.000M | -2.800M |
+| 21:45 | NZD | Low | Building Consents (MoM) (Nov) | 2.8% |  | -0.7% |
+| 52 min | KRW | Low | Unemployment Rate (Dec) |  |  | 2.7% |
 | 23:50 | JPY | Low | M2 Money Stock (YoY) |  | 1.9% | 1.8% |
 | 23:50 | JPY | Low | M3 Money Supply (Dec) |  |  | 2,238.9B |
