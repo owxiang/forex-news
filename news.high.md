@@ -4,6 +4,6 @@
 |------|----------|-------|--------|----------|----------|
 | 13:30 | USD | Core Retail Sales (MoM) (Nov) |  | 0.4% | 0.4% |
 | 13:30 | USD | PPI (MoM) (Oct) |  |  | 0.3% |
-| 13:30 | USD | Retail Sales (MoM) (Nov) |  | 0.4% | 0.0% |
+| 13:30 | USD | Retail Sales (MoM) (Nov) |  | 0.5% | 0.0% |
 | 15:00 | USD | Existing Home Sales (Dec) |  | 4.21M | 4.13M |
-| 15:30 | USD | Crude Oil Inventories |  |  | -3.832M |
+| 15:30 | USD | Crude Oil Inventories |  | -1.700M | -3.832M |

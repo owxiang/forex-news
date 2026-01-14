@@ -11,10 +11,10 @@
 | 03:00 | CNY | Imports (Dec) | 4.40M |  | 1.70M |
 | 03:00 | CNY | Trade Balance (Dec) | 808.80B | 805.00B | 792.57B |
 | 03:35 | JPY | 5-Year JGB Auction | 1.639% |  | 1.435% |
-| 49 min | JPY | Machine Tool Orders (YoY) (Dec) |  | 14.2% | 16.8% |
-| 06:30 | INR | WPI Food (YoY) (Dec) |  |  | -4.16% |
-| 06:30 | INR | WPI Fuel (YoY) (Dec) |  |  | -2.27% |
-| 06:30 | INR | WPI Manufacturing Inflation (YoY) (Dec) |  |  | 1.33% |
+| 06:00 | JPY | Machine Tool Orders (YoY) (Dec) | 10.6% | 14.2% | 16.8% |
+| 18 min | INR | WPI Food (YoY) (Dec) |  |  | -4.16% |
+| 18 min | INR | WPI Fuel (YoY) (Dec) |  |  | -2.27% |
+| 18 min | INR | WPI Manufacturing Inflation (YoY) (Dec) |  |  | 1.33% |
 | 10:00 | CNY | M2 Money Stock (YoY) (Dec) |  | 8.0% | 8.0% |
 | 10:00 | CNY | Outstanding Loan Growth (YoY) (Dec) |  | 6.3% | 6.4% |
 | 10:00 | CNY | Chinese Total Social Financing (Dec) |  | 2,000.0B | 2,490.0B |
@@ -37,18 +37,17 @@
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.062M |
 | 15:30 | USD | Crude Oil Imports |  |  | 0.563M |
 | 15:30 | USD | Distillate Fuel Production |  |  | 0.081M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | 5.594M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  | -0.200M | 5.594M |
 | 15:30 | USD | Gasoline Production |  |  | -0.472M |
 | 15:30 | USD | Heating Oil Stockpiles |  |  | 0.672M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.0% |
-| 15:30 | USD | Gasoline Inventories |  |  | 7.702M |
+| 15:30 | USD | Gasoline Inventories |  | 4.000M | 7.702M |
 | 16:00 | USD | Thomson Reuters IPSOS PCSI (Jan) |  |  | 51.86 |
 | 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 46.43 |
 | 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 55.16 |
 | 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Jan) |  |  | 53.15 |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | -4.127B |
 | 23:00 | KRW | Unemployment Rate (Dec) |  |  | 2.7% |
-| 23:00 | JPY | Reuters Tankan Index (Jan) |  |  | 10 |
 | 23:50 | JPY | PPI (YoY) (Dec) |  | 2.4% | 2.7% |
 | 23:50 | JPY | PPI (MoM) (Dec) |  | 0.1% | 0.3% |
 | 23:55 | KRW | Exports (YoY) (Dec) |  |  | 13.4% |
