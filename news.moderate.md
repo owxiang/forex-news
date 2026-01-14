@@ -3,9 +3,9 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Building Approvals (MoM) (Nov) | 15.2% | 15.2% | -6.1% |
-| 02:42 | CNY | Exports (YoY) (Dec) | 6.6% | 3.0% | 5.9% |
-| 02:42 | CNY | Imports (YoY) (Dec) | 5.7% | 0.9% | 1.9% |
-| 02:42 | CNY | Trade Balance (USD) (Dec) | 114.10B | 114.30B | 111.68B |
+| 03:00 | CNY | Exports (YoY) (Dec) | 6.6% | 3.0% | 5.9% |
+| 03:00 | CNY | Imports (YoY) (Dec) | 5.7% | 0.9% | 1.9% |
+| 03:00 | CNY | Trade Balance (USD) (Dec) | 114.10B | 114.30B | 111.68B |
 | 06:30 | INR | WPI Inflation (YoY) (Dec) |  | 0.30% | -0.32% |
 | 08:15 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 10:00 | CNY | New Loans (Dec) |  | 820.0B | 390.0B |
