@@ -46,6 +46,5 @@
 | 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 54.22 |  | 55.16 |
 | 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Jan) | 55.14 |  | 53.15 |
 | 17:30 | BRL | Foreign Exchange Flows | -1.696B |  | -4.127B |
-| 52 min | KRW | Unemployment Rate (Dec) |  |  | 2.7% |
-| 23:50 | JPY | PPI (YoY) (Dec) |  | 2.4% | 2.7% |
-| 23:50 | JPY | PPI (MoM) (Dec) |  | 0.1% | 0.3% |
+| 43 min | JPY | PPI (YoY) (Dec) |  | 2.4% | 2.7% |
+| 43 min | JPY | PPI (MoM) (Dec) |  | 0.1% | 0.3% |

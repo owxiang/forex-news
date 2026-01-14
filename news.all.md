@@ -72,6 +72,5 @@
 | 17:30 | BRL | Low | Foreign Exchange Flows | -1.696B |  | -4.127B |
 | 19:00 | USD | Moderate | Beige Book |  |  |  |
 | 19:10 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 52 min | KRW | Low | Unemployment Rate (Dec) |  |  | 2.7% |
-| 23:50 | JPY | Low | PPI (YoY) (Dec) |  | 2.4% | 2.7% |
-| 23:50 | JPY | Low | PPI (MoM) (Dec) |  | 0.1% | 0.3% |
+| 43 min | JPY | Low | PPI (YoY) (Dec) |  | 2.4% | 2.7% |
+| 43 min | JPY | Low | PPI (MoM) (Dec) |  | 0.1% | 0.3% |
