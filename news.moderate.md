@@ -8,7 +8,7 @@
 | 03:00 | CNY | Trade Balance (USD) (Dec) | 114.10B | 114.30B | 111.68B |
 | 06:30 | INR | WPI Inflation (YoY) (Dec) | 0.83% | 0.30% | -0.32% |
 | 08:15 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 49 min | CNY | New Loans (Dec) |  | 820.0B | 390.0B |
+| 12:00 | CNY | New Loans (Dec) |  | 820.0B | 390.0B |
 | 13:30 | USD | Core PPI (MoM) (Oct) |  |  | 0.1% |
 | 13:30 | USD | Current Account (Q3) |  | -235.0B | -251.3B |
 | 13:30 | USD | Retail Control (MoM) (Nov) |  | 0.4% | 0.8% |

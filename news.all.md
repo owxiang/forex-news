@@ -21,18 +21,18 @@
 | 06:30 | INR | Moderate | WPI Inflation (YoY) (Dec) | 0.83% | 0.30% | -0.32% |
 | 06:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Dec) | 1.82% |  | 1.33% |
 | 08:15 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 49 min | CNY | Low | M2 Money Stock (YoY) (Dec) |  | 8.0% | 8.0% |
-| 49 min | CNY | Moderate | New Loans (Dec) |  | 820.0B | 390.0B |
-| 49 min | CNY | Low | Outstanding Loan Growth (YoY) (Dec) |  | 6.3% | 6.4% |
-| 49 min | CNY | Low | Chinese Total Social Financing (Dec) |  | 2,000.0B | 2,490.0B |
-| 10:30 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.613% |
-| 10:30 | EUR | Low | German 30-Year Bund Auction |  |  | 3.260% |
-| 11:00 | CAD | Low | Leading Index (MoM) (Dec) |  |  | 0.20% |
+| 10:00 | CNY | Low | Outstanding Loan Growth (YoY) (Dec) |  | 6.3% | 6.4% |
+| 10:00 | CNY | Low | Chinese Total Social Financing (Dec) |  | 2,000.0B | 2,490.0B |
+| 20 min | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.613% |
+| 20 min | EUR | Low | German 30-Year Bund Auction |  |  | 3.260% |
+| 50 min | CAD | Low | Leading Index (MoM) (Dec) |  |  | 0.20% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.25% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 0.3% |
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 159.3 |
 | 12:00 | USD | Low | Mortgage Market Index |  |  | 270.8 |
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 937.0 |
+| 12:00 | CNY | Low | M2 Money Stock (YoY) (Dec) |  | 8.0% | 8.0% |
+| 12:00 | CNY | Moderate | New Loans (Dec) |  | 820.0B | 390.0B |
 | 13:00 | BRL | Low | Auto Production (MoM) (Dec) |  |  | -11.6% |
 | 13:00 | BRL | Low | Auto Sales (MoM) (Dec) |  |  | -8.5% |
 | 13:30 | USD | Moderate | Core PPI (MoM) (Oct) |  |  | 0.1% |

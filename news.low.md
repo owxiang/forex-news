@@ -15,17 +15,17 @@
 | 06:30 | INR | WPI Food (YoY) (Dec) | -0.43% |  | -4.16% |
 | 06:30 | INR | WPI Fuel (YoY) (Dec) | -2.31% |  | -2.27% |
 | 06:30 | INR | WPI Manufacturing Inflation (YoY) (Dec) | 1.82% |  | 1.33% |
-| 49 min | CNY | M2 Money Stock (YoY) (Dec) |  | 8.0% | 8.0% |
-| 49 min | CNY | Outstanding Loan Growth (YoY) (Dec) |  | 6.3% | 6.4% |
-| 49 min | CNY | Chinese Total Social Financing (Dec) |  | 2,000.0B | 2,490.0B |
-| 10:30 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.613% |
-| 10:30 | EUR | German 30-Year Bund Auction |  |  | 3.260% |
-| 11:00 | CAD | Leading Index (MoM) (Dec) |  |  | 0.20% |
+| 10:00 | CNY | Outstanding Loan Growth (YoY) (Dec) |  | 6.3% | 6.4% |
+| 10:00 | CNY | Chinese Total Social Financing (Dec) |  | 2,000.0B | 2,490.0B |
+| 20 min | GBP | 10-Year Treasury Gilt Auction |  |  | 4.613% |
+| 20 min | EUR | German 30-Year Bund Auction |  |  | 3.260% |
+| 50 min | CAD | Leading Index (MoM) (Dec) |  |  | 0.20% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.25% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 0.3% |
 | 12:00 | USD | MBA Purchase Index |  |  | 159.3 |
 | 12:00 | USD | Mortgage Market Index |  |  | 270.8 |
 | 12:00 | USD | Mortgage Refinance Index |  |  | 937.0 |
+| 12:00 | CNY | M2 Money Stock (YoY) (Dec) |  | 8.0% | 8.0% |
 | 13:00 | BRL | Auto Production (MoM) (Dec) |  |  | -11.6% |
 | 13:00 | BRL | Auto Sales (MoM) (Dec) |  |  | -8.5% |
 | 13:30 | USD | Core PPI (YoY) (Oct) |  |  | 2.6% |
