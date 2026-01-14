@@ -21,28 +21,24 @@
 | 06:30 | INR | Moderate | WPI Inflation (YoY) (Dec) | 0.83% | 0.30% | -0.32% |
 | 06:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Dec) | 1.82% |  | 1.33% |
 | 08:15 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 10:00 | CNY | Low | Outstanding Loan Growth (YoY) (Dec) |  | 6.3% | 6.4% |
-| 10:00 | CNY | Low | Chinese Total Social Financing (Dec) |  | 2,000.0B | 2,490.0B |
-| 20 min | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.613% |
-| 20 min | EUR | Low | German 30-Year Bund Auction |  |  | 3.260% |
-| 50 min | CAD | Low | Leading Index (MoM) (Dec) |  |  | 0.20% |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.25% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 0.3% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 159.3 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 270.8 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 937.0 |
-| 12:00 | CNY | Low | M2 Money Stock (YoY) (Dec) |  | 8.0% | 8.0% |
-| 12:00 | CNY | Moderate | New Loans (Dec) |  | 820.0B | 390.0B |
+| 10:00 | GBP | Low | 10-Year Treasury Gilt Auction | 4.456% |  | 4.613% |
+| 10:30 | EUR | Low | German 30-Year Bund Auction | 3.450% |  | 3.260% |
+| 11:00 | CAD | Low | Leading Index (MoM) (Dec) |  |  | 0.20% |
+| 51 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.25% |
+| 51 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | 0.3% |
+| 51 min | USD | Low | MBA Purchase Index |  |  | 159.3 |
+| 51 min | USD | Low | Mortgage Market Index |  |  | 270.8 |
+| 51 min | USD | Low | Mortgage Refinance Index |  |  | 937.0 |
 | 13:00 | BRL | Low | Auto Production (MoM) (Dec) |  |  | -11.6% |
 | 13:00 | BRL | Low | Auto Sales (MoM) (Dec) |  |  | -8.5% |
 | 13:30 | USD | Moderate | Core PPI (MoM) (Oct) |  |  | 0.1% |
 | 13:30 | USD | Low | Core PPI (YoY) (Oct) |  |  | 2.6% |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Nov) |  | 0.4% | 0.4% |
 | 13:30 | USD | Moderate | Current Account (Q3) |  | -235.0B | -251.3B |
-| 13:30 | USD | Low | PPI (YoY) (Oct) |  |  | 2.7% |
 | 13:30 | USD | High | PPI (MoM) (Oct) |  |  | 0.3% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Oct) |  |  | 2.9% |
+| 13:30 | USD | Low | PPI (YoY) (Oct) |  |  | 2.7% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Oct) |  |  | 0.1% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Oct) |  |  | 2.9% |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Nov) |  | 0.4% | 0.8% |
 | 13:30 | USD | Low | Retail Sales (YoY) (Nov) |  |  | 3.47% |
 | 13:30 | USD | High | Retail Sales (MoM) (Nov) |  | 0.5% | 0.0% |
