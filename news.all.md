@@ -14,7 +14,7 @@
 | 03:00 | CNY | Moderate | Exports (YoY) (Dec) | 6.6% | 3.0% | 5.9% |
 | 03:00 | CNY | Moderate | Imports (YoY) (Dec) | 5.7% | 0.9% | 1.9% |
 | 03:00 | CNY | Moderate | Trade Balance (USD) (Dec) | 114.10B | 114.30B | 111.68B |
-| 03:35 | JPY | Low | 5-Year JGB Auction |  |  | 1.435% |
+| 03:35 | JPY | Low | 5-Year JGB Auction | 1.639% |  | 1.435% |
 | 06:00 | JPY | Low | Machine Tool Orders (YoY) (Dec) |  | 14.2% | 16.8% |
 | 06:30 | INR | Low | WPI Food (YoY) (Dec) |  |  | -4.16% |
 | 06:30 | INR | Low | WPI Fuel (YoY) (Dec) |  |  | -2.27% |
