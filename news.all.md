@@ -16,10 +16,10 @@
 | 03:00 | CNY | Moderate | Trade Balance (USD) (Dec) | 114.10B | 114.30B | 111.68B |
 | 03:35 | JPY | Low | 5-Year JGB Auction | 1.639% |  | 1.435% |
 | 06:00 | JPY | Low | Machine Tool Orders (YoY) (Dec) | 10.6% | 14.2% | 16.8% |
-| 18 min | INR | Low | WPI Food (YoY) (Dec) |  |  | -4.16% |
-| 18 min | INR | Low | WPI Fuel (YoY) (Dec) |  |  | -2.27% |
-| 18 min | INR | Moderate | WPI Inflation (YoY) (Dec) |  | 0.30% | -0.32% |
-| 18 min | INR | Low | WPI Manufacturing Inflation (YoY) (Dec) |  |  | 1.33% |
+| 06:30 | INR | Low | WPI Food (YoY) (Dec) | -0.43% |  | -4.16% |
+| 06:30 | INR | Low | WPI Fuel (YoY) (Dec) | -2.31% |  | -2.27% |
+| 06:30 | INR | Moderate | WPI Inflation (YoY) (Dec) | 0.83% | 0.30% | -0.32% |
+| 06:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Dec) | 1.82% |  | 1.33% |
 | 08:15 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 10:00 | CNY | Low | M2 Money Stock (YoY) (Dec) |  | 8.0% | 8.0% |
 | 10:00 | CNY | Moderate | New Loans (Dec) |  | 820.0B | 390.0B |

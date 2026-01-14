@@ -12,9 +12,9 @@
 | 03:00 | CNY | Trade Balance (Dec) | 808.80B | 805.00B | 792.57B |
 | 03:35 | JPY | 5-Year JGB Auction | 1.639% |  | 1.435% |
 | 06:00 | JPY | Machine Tool Orders (YoY) (Dec) | 10.6% | 14.2% | 16.8% |
-| 18 min | INR | WPI Food (YoY) (Dec) |  |  | -4.16% |
-| 18 min | INR | WPI Fuel (YoY) (Dec) |  |  | -2.27% |
-| 18 min | INR | WPI Manufacturing Inflation (YoY) (Dec) |  |  | 1.33% |
+| 06:30 | INR | WPI Food (YoY) (Dec) | -0.43% |  | -4.16% |
+| 06:30 | INR | WPI Fuel (YoY) (Dec) | -2.31% |  | -2.27% |
+| 06:30 | INR | WPI Manufacturing Inflation (YoY) (Dec) | 1.82% |  | 1.33% |
 | 10:00 | CNY | M2 Money Stock (YoY) (Dec) |  | 8.0% | 8.0% |
 | 10:00 | CNY | Outstanding Loan Growth (YoY) (Dec) |  | 6.3% | 6.4% |
 | 10:00 | CNY | Chinese Total Social Financing (Dec) |  | 2,000.0B | 2,490.0B |
