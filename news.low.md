@@ -29,26 +29,23 @@
 | 13:29 | USD | PPI ex. Food/Energy/Transport (MoM) (Oct) | 0.7% |  | 0.2% |
 | 13:30 | USD | Core PPI (YoY) (Nov) | 3.0% | 2.7% | 2.9% |
 | 13:30 | USD | PPI (YoY) (Nov) | 3.0% | 2.7% | 2.8% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Nov) | 3.5% |  | 3.0% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Nov) | 0.2% |  | 0.7% |
-| 13:30 | USD | Retail Sales (YoY) (Nov) | 3.30% |  | 3.30% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Nov) | 3.5% |  | 3.0% |
+| 13:30 | USD | Retail Sales (YoY) (Nov) | 3.33% |  | 3.26% |
 | 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Nov) | 0.4% |  | 0.4% |
-| 20 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.062M |
-| 20 min | USD | Crude Oil Imports |  |  | 0.563M |
-| 20 min | USD | Distillate Fuel Production |  |  | 0.081M |
-| 20 min | USD | EIA Weekly Distillates Stocks |  | -0.200M | 5.594M |
-| 20 min | USD | Gasoline Production |  |  | -0.472M |
-| 20 min | USD | Heating Oil Stockpiles |  |  | 0.672M |
-| 20 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.0% |
-| 20 min | USD | Gasoline Inventories |  | 4.000M | 7.702M |
-| 50 min | USD | Thomson Reuters IPSOS PCSI (Jan) |  |  | 51.86 |
-| 50 min | CAD | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 46.43 |
-| 50 min | MXN | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 55.16 |
-| 50 min | BRL | Brazil Thomson Reuters IPSOS PCSI (Jan) |  |  | 53.15 |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) | 0.049M |  | 0.062M |
+| 15:30 | USD | Crude Oil Imports | 0.710M |  | 0.563M |
+| 15:30 | USD | Distillate Fuel Production | -0.019M |  | 0.081M |
+| 15:30 | USD | EIA Weekly Distillates Stocks | -0.029M | -0.200M | 5.594M |
+| 15:30 | USD | Gasoline Production | 0.029M |  | -0.472M |
+| 15:30 | USD | Heating Oil Stockpiles | -0.745M |  | 0.672M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.6% |  | 0.0% |
+| 15:30 | USD | Gasoline Inventories | 8.977M | 4.000M | 7.702M |
+| 16:00 | USD | Thomson Reuters IPSOS PCSI (Jan) | 53.81 |  | 51.86 |
+| 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 49.28 |  | 46.43 |
+| 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 54.22 |  | 55.16 |
+| 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Jan) | 55.14 |  | 53.15 |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | -4.127B |
 | 23:00 | KRW | Unemployment Rate (Dec) |  |  | 2.7% |
 | 23:50 | JPY | PPI (YoY) (Dec) |  | 2.4% | 2.7% |
 | 23:50 | JPY | PPI (MoM) (Dec) |  | 0.1% | 0.3% |
-| 23:55 | KRW | Exports (YoY) (Dec) |  |  | 13.4% |
-| 23:55 | KRW | Imports (YoY) (Dec) |  |  | 4.6% |
-| 23:55 | KRW | Trade Balance (Dec) |  |  | 12.18B |

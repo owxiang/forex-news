@@ -7,4 +7,4 @@
 | 13:30 | USD | PPI (MoM) (Nov) | 0.2% | 0.2% | 0.6% |
 | 13:30 | USD | Retail Sales (MoM) (Nov) | 0.6% | 0.5% | -0.1% |
 | 15:00 | USD | Existing Home Sales (Dec) | 4.35M | 4.21M | 4.14M |
-| 20 min | USD | Crude Oil Inventories |  | -1.700M | -3.832M |
+| 15:30 | USD | Crude Oil Inventories | 3.391M | -1.700M | -3.832M |
