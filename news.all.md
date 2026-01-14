@@ -41,31 +41,31 @@
 | 13:30 | USD | Moderate | Current Account (Q3) | -226.4B | -235.0B | -249.2B |
 | 13:30 | USD | Low | PPI (YoY) (Nov) | 3.0% | 2.7% | 2.8% |
 | 13:30 | USD | High | PPI (MoM) (Nov) | 0.2% | 0.2% | 0.6% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Nov) | 3.5% |  | 3.4% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Nov) | 3.5% |  | 3.0% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Nov) | 0.2% |  | 0.7% |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Nov) | 0.4% | 0.4% | 0.6% |
 | 13:30 | USD | Low | Retail Sales (YoY) (Nov) | 3.30% |  | 3.30% |
 | 13:30 | USD | High | Retail Sales (MoM) (Nov) | 0.6% | 0.5% | -0.1% |
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Nov) | 0.4% |  | 0.4% |
-| 50 min | USD | Moderate | Business Inventories (MoM) (Oct) |  | 0.1% | 0.2% |
-| 50 min | USD | High | Existing Home Sales (Dec) |  | 4.21M | 4.13M |
-| 50 min | USD | Moderate | Existing Home Sales (MoM) (Dec) |  |  | 0.5% |
-| 50 min | USD | Moderate | Retail Inventories Ex Auto (Oct) |  | 0.0% | 0.0% |
-| 15:30 | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
-| 15:30 | USD | High | Crude Oil Inventories |  | -1.700M | -3.832M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.062M |
-| 15:30 | USD | Low | Crude Oil Imports |  |  | 0.563M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.728M |
-| 15:30 | USD | Low | Distillate Fuel Production |  |  | 0.081M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | -0.200M | 5.594M |
-| 15:30 | USD | Low | Gasoline Production |  |  | -0.472M |
-| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.672M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.0% |
-| 15:30 | USD | Low | Gasoline Inventories |  | 4.000M | 7.702M |
-| 16:00 | USD | Low | Thomson Reuters IPSOS PCSI (Jan) |  |  | 51.86 |
-| 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 46.43 |
-| 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 55.16 |
-| 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Jan) |  |  | 53.15 |
+| 15:00 | USD | Moderate | Business Inventories (MoM) (Oct) | 0.3% | 0.1% | 0.3% |
+| 15:00 | USD | High | Existing Home Sales (Dec) | 4.35M | 4.21M | 4.14M |
+| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Dec) | 5.1% |  | 0.7% |
+| 15:00 | USD | Moderate | Retail Inventories Ex Auto (Oct) | 0.3% | 0.0% | 0.0% |
+| 20 min | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
+| 20 min | USD | High | Crude Oil Inventories |  | -1.700M | -3.832M |
+| 20 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.062M |
+| 20 min | USD | Low | Crude Oil Imports |  |  | 0.563M |
+| 20 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.728M |
+| 20 min | USD | Low | Distillate Fuel Production |  |  | 0.081M |
+| 20 min | USD | Low | EIA Weekly Distillates Stocks |  | -0.200M | 5.594M |
+| 20 min | USD | Low | Gasoline Production |  |  | -0.472M |
+| 20 min | USD | Low | Heating Oil Stockpiles |  |  | 0.672M |
+| 20 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.0% |
+| 20 min | USD | Low | Gasoline Inventories |  | 4.000M | 7.702M |
+| 50 min | USD | Low | Thomson Reuters IPSOS PCSI (Jan) |  |  | 51.86 |
+| 50 min | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 46.43 |
+| 50 min | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 55.16 |
+| 50 min | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Jan) |  |  | 53.15 |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 5.1% | 5.1% |
 | 17:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 17:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |

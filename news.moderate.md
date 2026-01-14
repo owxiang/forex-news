@@ -12,11 +12,11 @@
 | 13:30 | USD | Core PPI (MoM) (Nov) | 0.0% | 0.2% | 0.4% |
 | 13:30 | USD | Current Account (Q3) | -226.4B | -235.0B | -249.2B |
 | 13:30 | USD | Retail Control (MoM) (Nov) | 0.4% | 0.4% | 0.6% |
-| 50 min | USD | Business Inventories (MoM) (Oct) |  | 0.1% | 0.2% |
-| 50 min | USD | Existing Home Sales (MoM) (Dec) |  |  | 0.5% |
-| 50 min | USD | Retail Inventories Ex Auto (Oct) |  | 0.0% | 0.0% |
-| 15:30 | GBP | MPC Member Ramsden Speaks |  |  |  |
-| 15:30 | USD | Cushing Crude Oil Inventories |  |  | 0.728M |
+| 15:00 | USD | Business Inventories (MoM) (Oct) | 0.3% | 0.1% | 0.3% |
+| 15:00 | USD | Existing Home Sales (MoM) (Dec) | 5.1% |  | 0.7% |
+| 15:00 | USD | Retail Inventories Ex Auto (Oct) | 0.3% | 0.0% | 0.0% |
+| 20 min | GBP | MPC Member Ramsden Speaks |  |  |  |
+| 20 min | USD | Cushing Crude Oil Inventories |  |  | 0.728M |
 | 17:00 | USD | Atlanta Fed GDPNow (Q4) |  | 5.1% | 5.1% |
 | 17:00 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 17:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
