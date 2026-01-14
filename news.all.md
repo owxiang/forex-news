@@ -66,10 +66,10 @@
 | 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 49.28 |  | 46.43 |
 | 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 54.22 |  | 55.16 |
 | 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Jan) | 55.14 |  | 53.15 |
-| 50 min | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 5.1% | 5.1% |
-| 50 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 50 min | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
-| 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -4.127B |
+| 17:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 17:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
+| 17 min | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 5.1% | 5.1% |
+| 17 min | BRL | Low | Foreign Exchange Flows |  |  | -4.127B |
 | 19:00 | USD | Moderate | Beige Book |  |  |  |
 | 19:10 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 23:00 | KRW | Low | Unemployment Rate (Dec) |  |  | 2.7% |

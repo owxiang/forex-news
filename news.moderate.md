@@ -17,8 +17,8 @@
 | 15:00 | USD | Retail Inventories Ex Auto (Oct) | 0.3% | 0.0% | 0.0% |
 | 15:30 | GBP | MPC Member Ramsden Speaks |  |  |  |
 | 15:30 | USD | Cushing Crude Oil Inventories | 0.745M |  | 0.728M |
-| 50 min | USD | Atlanta Fed GDPNow (Q4) |  | 5.1% | 5.1% |
-| 50 min | USD | FOMC Member Bostic Speaks |  |  |  |
-| 50 min | USD | FOMC Member Kashkari Speaks |  |  |  |
+| 17:00 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 17:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
+| 17 min | USD | Atlanta Fed GDPNow (Q4) |  | 5.1% | 5.1% |
 | 19:00 | USD | Beige Book |  |  |  |
 | 19:10 | USD | FOMC Member Williams Speaks |  |  |  |
