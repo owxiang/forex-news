@@ -5,7 +5,7 @@
 | 00:00 | NZD | Low | ANZ Commodity Price Index (MoM) | -2.1% |  | -1.6% |
 | 00:30 | AUD | Low | Building Approvals (YoY) (Nov) | 20.20% | 20.20% | -1.80% |
 | 00:30 | AUD | Moderate | Building Approvals (MoM) (Nov) | 15.2% | 15.2% | -6.1% |
-| 00:30 | AUD | Low | Private House Approvals |  | 1.3% | -1.3% |
+| 00:30 | AUD | Low | Private House Approvals | 1.3% | 1.3% | -1.3% |
 | 03:00 | KRW | Low | M3 Money Supply (Nov) |  |  | 6,006.0B |
 | 03:00 | KRW | Low | M2 Money supply (Nov) |  |  | 7.10% |
 | 03:00 | CNY | Low | Exports (Dec) |  |  | 5.70M |
