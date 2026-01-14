@@ -20,7 +20,7 @@
 | 06:30 | INR | Low | WPI Fuel (YoY) (Dec) | -2.31% |  | -2.27% |
 | 06:30 | INR | Moderate | WPI Inflation (YoY) (Dec) | 0.83% | 0.30% | -0.32% |
 | 06:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Dec) | 1.82% |  | 1.33% |
-| 08:15 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 4 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 10:00 | CNY | Low | M2 Money Stock (YoY) (Dec) |  | 8.0% | 8.0% |
 | 10:00 | CNY | Moderate | New Loans (Dec) |  | 820.0B | 390.0B |
 | 10:00 | CNY | Low | Outstanding Loan Growth (YoY) (Dec) |  | 6.3% | 6.4% |
