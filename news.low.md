@@ -11,7 +11,7 @@
 | 03:00 | CNY | Imports (Dec) | 4.40M |  | 1.70M |
 | 03:00 | CNY | Trade Balance (Dec) | 808.80B | 805.00B | 792.57B |
 | 03:35 | JPY | 5-Year JGB Auction | 1.639% |  | 1.435% |
-| 06:00 | JPY | Machine Tool Orders (YoY) (Dec) |  | 14.2% | 16.8% |
+| 49 min | JPY | Machine Tool Orders (YoY) (Dec) |  | 14.2% | 16.8% |
 | 06:30 | INR | WPI Food (YoY) (Dec) |  |  | -4.16% |
 | 06:30 | INR | WPI Fuel (YoY) (Dec) |  |  | -2.27% |
 | 06:30 | INR | WPI Manufacturing Inflation (YoY) (Dec) |  |  | 1.33% |
