@@ -1,10 +1,9 @@
-## 13 January 2026 - High Impact Forex News
+## 14 January 2026 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:30 | USD | Core CPI (MoM) (Dec) | 0.2% | 0.3% | 0.2% |
-| 13:30 | USD | CPI (MoM) (Dec) | 0.3% | 0.3% | 0.3% |
-| 13:30 | USD | CPI (YoY) (Dec) | 2.7% | 2.7% | 2.7% |
-| 14:59 | USD | New Home Sales (Sep) | 738K |  | 711K |
-| 15:00 | USD | New Home Sales (Oct) | 737K | 716K | 738K |
-| 18:00 | USD | 30-Year Bond Auction | 4.825% |  | 4.773% |
+| 13:30 | USD | Core Retail Sales (MoM) (Nov) |  | 0.4% | 0.4% |
+| 13:30 | USD | PPI (MoM) (Oct) |  |  | 0.3% |
+| 13:30 | USD | Retail Sales (MoM) (Nov) |  | 0.4% | 0.0% |
+| 15:00 | USD | Existing Home Sales (Dec) |  | 4.21M | 4.13M |
+| 15:30 | USD | Crude Oil Inventories |  |  | -3.832M |
