@@ -20,11 +20,11 @@
 | 06:30 | INR | Low | WPI Fuel (YoY) (Dec) | -2.31% |  | -2.27% |
 | 06:30 | INR | Moderate | WPI Inflation (YoY) (Dec) | 0.83% | 0.30% | -0.32% |
 | 06:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Dec) | 1.82% |  | 1.33% |
-| 4 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 10:00 | CNY | Low | M2 Money Stock (YoY) (Dec) |  | 8.0% | 8.0% |
-| 10:00 | CNY | Moderate | New Loans (Dec) |  | 820.0B | 390.0B |
-| 10:00 | CNY | Low | Outstanding Loan Growth (YoY) (Dec) |  | 6.3% | 6.4% |
-| 10:00 | CNY | Low | Chinese Total Social Financing (Dec) |  | 2,000.0B | 2,490.0B |
+| 08:15 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 49 min | CNY | Low | M2 Money Stock (YoY) (Dec) |  | 8.0% | 8.0% |
+| 49 min | CNY | Moderate | New Loans (Dec) |  | 820.0B | 390.0B |
+| 49 min | CNY | Low | Outstanding Loan Growth (YoY) (Dec) |  | 6.3% | 6.4% |
+| 49 min | CNY | Low | Chinese Total Social Financing (Dec) |  | 2,000.0B | 2,490.0B |
 | 10:30 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.613% |
 | 10:30 | EUR | Low | German 30-Year Bund Auction |  |  | 3.260% |
 | 11:00 | CAD | Low | Leading Index (MoM) (Dec) |  |  | 0.20% |

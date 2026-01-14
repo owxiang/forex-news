@@ -15,9 +15,9 @@
 | 06:30 | INR | WPI Food (YoY) (Dec) | -0.43% |  | -4.16% |
 | 06:30 | INR | WPI Fuel (YoY) (Dec) | -2.31% |  | -2.27% |
 | 06:30 | INR | WPI Manufacturing Inflation (YoY) (Dec) | 1.82% |  | 1.33% |
-| 10:00 | CNY | M2 Money Stock (YoY) (Dec) |  | 8.0% | 8.0% |
-| 10:00 | CNY | Outstanding Loan Growth (YoY) (Dec) |  | 6.3% | 6.4% |
-| 10:00 | CNY | Chinese Total Social Financing (Dec) |  | 2,000.0B | 2,490.0B |
+| 49 min | CNY | M2 Money Stock (YoY) (Dec) |  | 8.0% | 8.0% |
+| 49 min | CNY | Outstanding Loan Growth (YoY) (Dec) |  | 6.3% | 6.4% |
+| 49 min | CNY | Chinese Total Social Financing (Dec) |  | 2,000.0B | 2,490.0B |
 | 10:30 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.613% |
 | 10:30 | EUR | German 30-Year Bund Auction |  |  | 3.260% |
 | 11:00 | CAD | Leading Index (MoM) (Dec) |  |  | 0.20% |
