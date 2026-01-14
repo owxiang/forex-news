@@ -21,4 +21,4 @@
 | 17:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
 | 17:30 | USD | Atlanta Fed GDPNow (Q4) | 5.3% | 5.1% | 5.1% |
 | 19:00 | USD | Beige Book |  |  |  |
-| 3 min | USD | FOMC Member Williams Speaks |  |  |  |
+| 19:10 | USD | FOMC Member Williams Speaks |  |  |  |
