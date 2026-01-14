@@ -6,15 +6,15 @@
 | 00:30 | AUD | Low | Building Approvals (YoY) (Nov) | 20.20% | 20.20% | -1.80% |
 | 00:30 | AUD | Moderate | Building Approvals (MoM) (Nov) | 15.2% | 15.2% | -6.1% |
 | 00:30 | AUD | Low | Private House Approvals | 1.3% | 1.3% | -1.3% |
-| 03:00 | KRW | Low | M3 Money Supply (Nov) |  |  | 6,006.0B |
-| 03:00 | KRW | Low | M2 Money supply (Nov) |  |  | 7.10% |
-| 03:00 | CNY | Low | Exports (Dec) |  |  | 5.70M |
-| 03:00 | CNY | Low | Imports (Dec) |  |  | 1.70M |
-| 03:00 | CNY | Low | Trade Balance (Dec) |  | 805.00B | 792.57B |
-| 03:00 | CNY | Moderate | Exports (YoY) (Dec) |  | 3.0% | 5.9% |
-| 03:00 | CNY | Moderate | Imports (YoY) (Dec) |  | 0.9% | 1.9% |
-| 03:00 | CNY | Moderate | Trade Balance (USD) (Dec) |  | 114.30B | 111.68B |
-| 03:35 | JPY | Low | 5-Year JGB Auction |  |  | 1.435% |
+| 02:42 | CNY | Moderate | Exports (YoY) (Dec) | 6.6% | 3.0% | 5.9% |
+| 02:42 | CNY | Moderate | Imports (YoY) (Dec) | 5.7% | 0.9% | 1.9% |
+| 02:42 | CNY | Moderate | Trade Balance (USD) (Dec) | 114.10B | 114.30B | 111.68B |
+| 02:43 | CNY | Low | Exports (Dec) | 5.20M |  | 5.70M |
+| 02:43 | CNY | Low | Imports (Dec) | 4.40M |  | 1.70M |
+| 02:43 | CNY | Low | Trade Balance (Dec) | 808.80B | 805.00B | 792.57B |
+| 8 min | KRW | Low | M3 Money Supply (Nov) |  |  | 6,006.0B |
+| 8 min | KRW | Low | M2 Money supply (Nov) |  |  | 7.10% |
+| 43 min | JPY | Low | 5-Year JGB Auction |  |  | 1.435% |
 | 06:00 | JPY | Low | Machine Tool Orders (YoY) (Dec) |  | 14.2% | 16.8% |
 | 06:30 | INR | Low | WPI Food (YoY) (Dec) |  |  | -4.16% |
 | 06:30 | INR | Low | WPI Fuel (YoY) (Dec) |  |  | -2.27% |
