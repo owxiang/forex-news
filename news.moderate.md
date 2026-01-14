@@ -19,6 +19,6 @@
 | 15:30 | USD | Cushing Crude Oil Inventories | 0.745M |  | 0.728M |
 | 17:00 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 17:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
-| 17 min | USD | Atlanta Fed GDPNow (Q4) |  | 5.1% | 5.1% |
-| 19:00 | USD | Beige Book |  |  |  |
-| 19:10 | USD | FOMC Member Williams Speaks |  |  |  |
+| 17:30 | USD | Atlanta Fed GDPNow (Q4) | 5.3% | 5.1% | 5.1% |
+| 49 min | USD | Beige Book |  |  |  |
+| 59 min | USD | FOMC Member Williams Speaks |  |  |  |
