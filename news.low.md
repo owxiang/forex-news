@@ -23,12 +23,16 @@
 | 12:00 | USD | MBA Purchase Index | 184.6 |  | 159.3 |
 | 12:00 | USD | Mortgage Market Index | 348.0 |  | 270.8 |
 | 12:00 | USD | Mortgage Refinance Index | 1,313.1 |  | 937.0 |
-| 10 min | USD | Core PPI (YoY) (Oct) |  |  | 2.6% |
-| 10 min | USD | PPI (YoY) (Oct) |  |  | 2.7% |
-| 10 min | USD | PPI ex. Food/Energy/Transport (YoY) (Oct) |  |  | 2.9% |
-| 10 min | USD | PPI ex. Food/Energy/Transport (MoM) (Oct) |  |  | 0.1% |
-| 10 min | USD | Retail Sales (YoY) (Nov) |  |  | 3.47% |
-| 10 min | USD | Retail Sales Ex Gas/Autos (MoM) (Nov) |  |  | 0.5% |
+| 13:29 | USD | Core PPI (YoY) (Oct) | 2.9% |  | 2.9% |
+| 13:29 | USD | PPI (YoY) (Oct) | 2.8% |  | 3.0% |
+| 13:29 | USD | PPI ex. Food/Energy/Transport (YoY) (Oct) | 3.4% |  | 3.0% |
+| 13:29 | USD | PPI ex. Food/Energy/Transport (MoM) (Oct) | 0.7% |  | 0.2% |
+| 13:30 | USD | Core PPI (YoY) (Nov) | 3.0% | 2.7% | 2.9% |
+| 13:30 | USD | PPI (YoY) (Nov) | 3.0% | 2.7% | 2.8% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Nov) | 3.5% |  | 3.4% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Nov) | 0.2% |  | 0.7% |
+| 13:30 | USD | Retail Sales (YoY) (Nov) | 3.30% |  | 3.30% |
+| 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Nov) | 0.4% |  | 0.4% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.062M |
 | 15:30 | USD | Crude Oil Imports |  |  | 0.563M |
 | 15:30 | USD | Distillate Fuel Production |  |  | 0.081M |

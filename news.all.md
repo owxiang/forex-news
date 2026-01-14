@@ -29,22 +29,28 @@
 | 12:00 | USD | Low | MBA Purchase Index | 184.6 |  | 159.3 |
 | 12:00 | USD | Low | Mortgage Market Index | 348.0 |  | 270.8 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 1,313.1 |  | 937.0 |
-| 10 min | USD | Moderate | Core PPI (MoM) (Oct) |  |  | 0.1% |
-| 10 min | USD | Low | Core PPI (YoY) (Oct) |  |  | 2.6% |
-| 10 min | USD | High | Core Retail Sales (MoM) (Nov) |  | 0.4% | 0.4% |
-| 10 min | USD | Moderate | Current Account (Q3) |  | -235.0B | -251.3B |
-| 10 min | USD | Low | PPI (YoY) (Oct) |  |  | 2.7% |
-| 10 min | USD | High | PPI (MoM) (Oct) |  |  | 0.3% |
-| 10 min | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Oct) |  |  | 2.9% |
-| 10 min | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Oct) |  |  | 0.1% |
-| 10 min | USD | Moderate | Retail Control (MoM) (Nov) |  | 0.4% | 0.8% |
-| 10 min | USD | High | Retail Sales (MoM) (Nov) |  | 0.5% | 0.0% |
-| 10 min | USD | Low | Retail Sales (YoY) (Nov) |  |  | 3.47% |
-| 10 min | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Nov) |  |  | 0.5% |
-| 15:00 | USD | Moderate | Business Inventories (MoM) (Oct) |  | 0.1% | 0.2% |
-| 15:00 | USD | High | Existing Home Sales (Dec) |  | 4.21M | 4.13M |
-| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Dec) |  |  | 0.5% |
-| 15:00 | USD | Moderate | Retail Inventories Ex Auto (Oct) |  | 0.0% | 0.0% |
+| 13:29 | USD | Moderate | Core PPI (MoM) (Oct) | 0.3% |  | 0.1% |
+| 13:29 | USD | Low | Core PPI (YoY) (Oct) | 2.9% |  | 2.9% |
+| 13:29 | USD | Low | PPI (YoY) (Oct) | 2.8% |  | 3.0% |
+| 13:29 | USD | High | PPI (MoM) (Oct) | 0.1% |  | 0.6% |
+| 13:29 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Oct) | 3.4% |  | 3.0% |
+| 13:29 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Oct) | 0.7% |  | 0.2% |
+| 13:30 | USD | Moderate | Core PPI (MoM) (Nov) | 0.0% | 0.2% | 0.4% |
+| 13:30 | USD | Low | Core PPI (YoY) (Nov) | 3.0% | 2.7% | 2.9% |
+| 13:30 | USD | High | Core Retail Sales (MoM) (Nov) | 0.5% | 0.4% | 0.2% |
+| 13:30 | USD | Moderate | Current Account (Q3) | -226.4B | -235.0B | -249.2B |
+| 13:30 | USD | Low | PPI (YoY) (Nov) | 3.0% | 2.7% | 2.8% |
+| 13:30 | USD | High | PPI (MoM) (Nov) | 0.2% | 0.2% | 0.6% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Nov) | 3.5% |  | 3.4% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Nov) | 0.2% |  | 0.7% |
+| 13:30 | USD | Moderate | Retail Control (MoM) (Nov) | 0.4% | 0.4% | 0.6% |
+| 13:30 | USD | Low | Retail Sales (YoY) (Nov) | 3.30% |  | 3.30% |
+| 13:30 | USD | High | Retail Sales (MoM) (Nov) | 0.6% | 0.5% | -0.1% |
+| 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Nov) | 0.4% |  | 0.4% |
+| 50 min | USD | Moderate | Business Inventories (MoM) (Oct) |  | 0.1% | 0.2% |
+| 50 min | USD | High | Existing Home Sales (Dec) |  | 4.21M | 4.13M |
+| 50 min | USD | Moderate | Existing Home Sales (MoM) (Dec) |  |  | 0.5% |
+| 50 min | USD | Moderate | Retail Inventories Ex Auto (Oct) |  | 0.0% | 0.0% |
 | 15:30 | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
 | 15:30 | USD | High | Crude Oil Inventories |  | -1.700M | -3.832M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.062M |
