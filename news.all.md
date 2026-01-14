@@ -23,26 +23,26 @@
 | 08:15 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 10:00 | GBP | Low | 10-Year Treasury Gilt Auction | 4.456% |  | 4.613% |
 | 10:30 | EUR | Low | German 30-Year Bund Auction | 3.450% |  | 3.260% |
-| 11:00 | CAD | Low | Leading Index (MoM) (Dec) |  |  | 0.20% |
-| 51 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.25% |
-| 51 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | 0.3% |
-| 51 min | USD | Low | MBA Purchase Index |  |  | 159.3 |
-| 51 min | USD | Low | Mortgage Market Index |  |  | 270.8 |
-| 51 min | USD | Low | Mortgage Refinance Index |  |  | 937.0 |
-| 13:00 | BRL | Low | Auto Production (MoM) (Dec) |  |  | -11.6% |
-| 13:00 | BRL | Low | Auto Sales (MoM) (Dec) |  |  | -8.5% |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.18% |  | 6.25% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | 28.5% |  | 0.3% |
+| 12:00 | USD | Low | MBA Purchase Index | 184.6 |  | 159.3 |
+| 12:00 | USD | Low | Mortgage Market Index | 348.0 |  | 270.8 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 1,313.1 |  | 937.0 |
+| 47 min | BRL | Low | Auto Production (MoM) (Dec) |  |  | -11.6% |
+| 47 min | BRL | Low | Auto Sales (MoM) (Dec) |  |  | -8.5% |
 | 13:30 | USD | Moderate | Core PPI (MoM) (Oct) |  |  | 0.1% |
 | 13:30 | USD | Low | Core PPI (YoY) (Oct) |  |  | 2.6% |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Nov) |  | 0.4% | 0.4% |
 | 13:30 | USD | Moderate | Current Account (Q3) |  | -235.0B | -251.3B |
-| 13:30 | USD | High | PPI (MoM) (Oct) |  |  | 0.3% |
 | 13:30 | USD | Low | PPI (YoY) (Oct) |  |  | 2.7% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Oct) |  |  | 0.1% |
+| 13:30 | USD | High | PPI (MoM) (Oct) |  |  | 0.3% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Oct) |  |  | 2.9% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Oct) |  |  | 0.1% |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Nov) |  | 0.4% | 0.8% |
-| 13:30 | USD | Low | Retail Sales (YoY) (Nov) |  |  | 3.47% |
 | 13:30 | USD | High | Retail Sales (MoM) (Nov) |  | 0.5% | 0.0% |
+| 13:30 | USD | Low | Retail Sales (YoY) (Nov) |  |  | 3.47% |
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Nov) |  |  | 0.5% |
+| 14:00 | CAD | Low | Leading Index (MoM) (Dec) |  |  | 0.20% |
 | 15:00 | USD | Moderate | Business Inventories (MoM) (Oct) |  | 0.1% | 0.2% |
 | 15:00 | USD | High | Existing Home Sales (Dec) |  | 4.21M | 4.13M |
 | 15:00 | USD | Moderate | Existing Home Sales (MoM) (Dec) |  |  | 0.5% |

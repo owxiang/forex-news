@@ -17,20 +17,20 @@
 | 06:30 | INR | WPI Manufacturing Inflation (YoY) (Dec) | 1.82% |  | 1.33% |
 | 10:00 | GBP | 10-Year Treasury Gilt Auction | 4.456% |  | 4.613% |
 | 10:30 | EUR | German 30-Year Bund Auction | 3.450% |  | 3.260% |
-| 11:00 | CAD | Leading Index (MoM) (Dec) |  |  | 0.20% |
-| 51 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.25% |
-| 51 min | USD | MBA Mortgage Applications (WoW) |  |  | 0.3% |
-| 51 min | USD | MBA Purchase Index |  |  | 159.3 |
-| 51 min | USD | Mortgage Market Index |  |  | 270.8 |
-| 51 min | USD | Mortgage Refinance Index |  |  | 937.0 |
-| 13:00 | BRL | Auto Production (MoM) (Dec) |  |  | -11.6% |
-| 13:00 | BRL | Auto Sales (MoM) (Dec) |  |  | -8.5% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.18% |  | 6.25% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | 28.5% |  | 0.3% |
+| 12:00 | USD | MBA Purchase Index | 184.6 |  | 159.3 |
+| 12:00 | USD | Mortgage Market Index | 348.0 |  | 270.8 |
+| 12:00 | USD | Mortgage Refinance Index | 1,313.1 |  | 937.0 |
+| 47 min | BRL | Auto Production (MoM) (Dec) |  |  | -11.6% |
+| 47 min | BRL | Auto Sales (MoM) (Dec) |  |  | -8.5% |
 | 13:30 | USD | Core PPI (YoY) (Oct) |  |  | 2.6% |
 | 13:30 | USD | PPI (YoY) (Oct) |  |  | 2.7% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Oct) |  |  | 0.1% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Oct) |  |  | 2.9% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Oct) |  |  | 0.1% |
 | 13:30 | USD | Retail Sales (YoY) (Nov) |  |  | 3.47% |
 | 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Nov) |  |  | 0.5% |
+| 14:00 | CAD | Leading Index (MoM) (Dec) |  |  | 0.20% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.062M |
 | 15:30 | USD | Crude Oil Imports |  |  | 0.563M |
 | 15:30 | USD | Distillate Fuel Production |  |  | 0.081M |
