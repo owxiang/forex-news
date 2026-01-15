@@ -6,9 +6,9 @@
 | 00:00 | KRW | Imports (YoY) (Dec) | 4.6% | 4.6% | 1.1% |
 | 00:00 | KRW | Trade Balance (Dec) | 12.17B | 12.18B | 9.74B |
 | 00:00 | AUD | MI Inflation Expectations (Jan) | 4.6% |  | 4.7% |
-| 00:30 | AUD | Reserve Assets Total (Dec) |  |  | 113,131.0B |
-| 30 min | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
-| 30 min | KRW | Interest Rate Decision (Jan) |  | 2.50% | 2.50% |
+| 00:30 | AUD | Reserve Assets Total (Dec) | 113.9B |  | 113.1B |
+| 01:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
+| 01:00 | KRW | Interest Rate Decision (Jan) | 2.50% | 2.50% | 2.50% |
 | 07:00 | GBP | Construction Output (MoM) (Nov) |  | 0.0% | -0.6% |
 | 07:00 | GBP | U.K. Construction Output (YoY) (Nov) |  | 0.1% | 0.9% |
 | 07:00 | GBP | GDP (YoY) (Nov) |  | 1.1% | 1.1% |

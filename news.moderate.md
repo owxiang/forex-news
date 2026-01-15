@@ -2,7 +2,6 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | RICS House Price Balance (Dec) | -14% |  | -16% |
 | 07:00 | GBP | Industrial Production (MoM) (Nov) |  | 0.2% | 1.1% |
 | 07:00 | GBP | Manufacturing Production (MoM) (Nov) |  | 0.4% | 0.5% |
 | 07:00 | GBP | Monthly GDP 3M/3M Change (Nov) |  | -0.2% | -0.1% |
