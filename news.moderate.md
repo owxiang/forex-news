@@ -2,15 +2,16 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 48 min | GBP | Industrial Production (MoM) (Nov) |  | 0.2% | 1.1% |
-| 48 min | GBP | Manufacturing Production (MoM) (Nov) |  | 0.4% | 0.5% |
-| 48 min | GBP | Monthly GDP 3M/3M Change (Nov) |  | -0.2% | -0.1% |
-| 48 min | GBP | Trade Balance (Nov) |  | -20.30B | -22.54B |
-| 48 min | GBP | Trade Balance Non-EU (Nov) |  |  | -10.26B |
-| 07:45 | EUR | French CPI (MoM) (Dec) |  | 0.1% | -0.2% |
-| 07:45 | EUR | French HICP (MoM) (Dec) |  | 0.1% | -0.2% |
-| 08:00 | EUR | Spanish CPI (YoY) (Dec) |  | 2.9% | 3.0% |
-| 08:00 | EUR | Spanish HICP (YoY) (Dec) |  | 3.0% | 3.2% |
+| 07:00 | GBP | Industrial Production (MoM) (Nov) | 1.1% | 0.2% | 1.3% |
+| 07:00 | GBP | Manufacturing Production (MoM) (Nov) | 2.1% | 0.4% | 0.4% |
+| 07:00 | GBP | Monthly GDP 3M/3M Change (Nov) | 0.1% | -0.2% | 0.0% |
+| 07:00 | GBP | Trade Balance (Nov) | -23.71B | -20.30B | -24.17B |
+| 07:00 | GBP | Trade Balance Non-EU (Nov) | -11.46B |  | -11.81B |
+| 07:00 | CNY | New Loans (Dec) | 910.0B | 820.0B | 390.0B |
+| 34 min | EUR | French CPI (MoM) (Dec) |  | 0.1% | -0.2% |
+| 34 min | EUR | French HICP (MoM) (Dec) |  | 0.1% | -0.2% |
+| 49 min | EUR | Spanish CPI (YoY) (Dec) |  | 2.9% | 3.0% |
+| 49 min | EUR | Spanish HICP (YoY) (Dec) |  | 3.0% | 3.2% |
 | 09:00 | EUR | ECB Economic Bulletin |  |  |  |
 | 09:00 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 09:30 | GBP | BOE Credit Conditions Survey |  |  |  |
@@ -19,7 +20,6 @@
 | 12:00 | GBP | NIESR Monthly GDP Tracker (Dec) |  |  | -0.1% |
 | 12:00 | BRL | Retail Sales (YoY) (Nov) |  | 0.2% | 1.1% |
 | 12:00 | BRL | Retail Sales (MoM) (Nov) |  | 0.3% | 0.5% |
-| 12:00 | CNY | New Loans (Dec) |  | 820.0B | 390.0B |
 | 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:15 | CAD | Housing Starts (Dec) |  |  | 254.1K |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,890K | 1,914K |

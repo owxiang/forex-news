@@ -9,35 +9,39 @@
 | 00:30 | AUD | Low | Reserve Assets Total (Dec) | 113.9B |  | 113.1B |
 | 01:00 | KRW | Low | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 01:00 | KRW | Low | Interest Rate Decision (Jan) | 2.50% | 2.50% | 2.50% |
-| 48 min | GBP | Low | Construction Output (MoM) (Nov) |  | -0.3% | -0.6% |
-| 48 min | GBP | Low | U.K. Construction Output (YoY) (Nov) |  | 0.1% | 0.9% |
-| 48 min | GBP | High | GDP (MoM) (Nov) |  | 0.1% | -0.1% |
-| 48 min | GBP | Low | GDP (YoY) (Nov) |  | 1.1% | 1.1% |
-| 48 min | GBP | Low | Index of Services |  | 0.0% | 0.0% |
-| 48 min | GBP | Moderate | Industrial Production (MoM) (Nov) |  | 0.2% | 1.1% |
-| 48 min | GBP | Low | Industrial Production (YoY) (Nov) |  | -0.4% | -0.8% |
-| 48 min | GBP | Moderate | Manufacturing Production (MoM) (Nov) |  | 0.4% | 0.5% |
-| 48 min | GBP | Low | Manufacturing Production (YoY) (Nov) |  | -0.3% | -0.8% |
-| 48 min | GBP | Moderate | Monthly GDP 3M/3M Change (Nov) |  | -0.2% | -0.1% |
-| 48 min | GBP | Moderate | Trade Balance (Nov) |  | -20.30B | -22.54B |
-| 48 min | GBP | Moderate | Trade Balance Non-EU (Nov) |  |  | -10.26B |
-| 48 min | EUR | Low | German WPI (MoM) (Dec) |  | 0.2% | 0.3% |
-| 48 min | EUR | Low | German WPI (YoY) (Dec) |  |  | 1.5% |
-| 48 min | IDR | Low | Foreign Direct Investment (YoY) (Q4) |  |  | -8.90% |
-| 48 min | NOK | Low | Industrial Confidence (Q4) |  |  | -0.3 |
-| 48 min | NOK | Low | Trade Balance (Dec) |  |  | 41.3B |
-| 07:45 | EUR | Low | French CPI NSA (MoM) (Dec) |  |  | 0.10% |
-| 07:45 | EUR | Low | French CPI NSA (YoY) (Dec) |  |  | 0.80% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Dec) |  | 0.1% | -0.2% |
-| 07:45 | EUR | Low | French CPI (YoY) (Dec) |  | 0.8% | 0.9% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Dec) |  | 0.1% | -0.2% |
-| 07:45 | EUR | Low | French HICP (YoY) (Dec) |  | 0.7% | 0.8% |
-| 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Dec) |  |  | 0.90% |
-| 08:00 | EUR | Low | Core CPI (YoY) (Dec) |  | 2.6% | 2.6% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Dec) |  | 0.3% | 0.2% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Dec) |  | 2.9% | 3.0% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Dec) |  | 0.3% | 0.0% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Dec) |  | 3.0% | 3.2% |
+| 07:00 | GBP | Low | Construction Output (MoM) (Nov) | -1.3% | -0.3% | -1.2% |
+| 07:00 | GBP | Low | U.K. Construction Output (YoY) (Nov) | -1.1% | 0.1% | 0.9% |
+| 07:00 | GBP | High | GDP (MoM) (Nov) | 0.3% | 0.1% | -0.1% |
+| 07:00 | GBP | Low | GDP (YoY) (Nov) | 1.4% | 1.1% | 1.1% |
+| 07:00 | GBP | Low | Index of Services | 0.2% | 0.0% | 0.1% |
+| 07:00 | GBP | Moderate | Industrial Production (MoM) (Nov) | 1.1% | 0.2% | 1.3% |
+| 07:00 | GBP | Low | Industrial Production (YoY) (Nov) | 2.3% | -0.4% | 0.4% |
+| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Nov) | 2.1% | 0.4% | 0.4% |
+| 07:00 | GBP | Low | Manufacturing Production (YoY) (Nov) | 2.1% | -0.3% | -0.2% |
+| 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Nov) | 0.1% | -0.2% | 0.0% |
+| 07:00 | GBP | Moderate | Trade Balance (Nov) | -23.71B | -20.30B | -24.17B |
+| 07:00 | GBP | Moderate | Trade Balance Non-EU (Nov) | -11.46B |  | -11.81B |
+| 07:00 | EUR | Low | German WPI (MoM) (Dec) | -0.2% | 0.2% | 0.3% |
+| 07:00 | EUR | Low | German WPI (YoY) (Dec) | 1.2% |  | 1.5% |
+| 07:00 | CNY | Low | M2 Money Stock (YoY) (Dec) | 8.5% | 8.0% | 8.0% |
+| 07:00 | CNY | Moderate | New Loans (Dec) | 910.0B | 820.0B | 390.0B |
+| 07:00 | CNY | Low | Outstanding Loan Growth (YoY) (Dec) | 6.4% | 6.3% | 6.4% |
+| 07:00 | CNY | Low | Chinese Total Social Financing (Dec) | 2,210.0B | 2,000.0B | 2,490.0B |
+| 07:00 | IDR | Low | Foreign Direct Investment (YoY) (Q4) | 4.30% |  | 4.30% |
+| 07:00 | NOK | Low | Industrial Confidence (Q4) | 2.6 |  | 0.2 |
+| 07:00 | NOK | Low | Trade Balance (Dec) | 42.9B |  | 41.3B |
+| 34 min | EUR | Low | French CPI NSA (MoM) (Dec) |  |  | 0.10% |
+| 34 min | EUR | Low | French CPI NSA (YoY) (Dec) |  |  | 0.80% |
+| 34 min | EUR | Moderate | French CPI (MoM) (Dec) |  | 0.1% | -0.2% |
+| 34 min | EUR | Low | French CPI (YoY) (Dec) |  | 0.8% | 0.9% |
+| 34 min | EUR | Moderate | French HICP (MoM) (Dec) |  | 0.1% | -0.2% |
+| 34 min | EUR | Low | French HICP (YoY) (Dec) |  | 0.7% | 0.8% |
+| 34 min | EUR | Low | France Inflation Ex-Tobacco (YoY) (Dec) |  |  | 0.90% |
+| 49 min | EUR | Low | Core CPI (YoY) (Dec) |  | 2.6% | 2.6% |
+| 49 min | EUR | Low | Spanish CPI (MoM) (Dec) |  | 0.3% | 0.2% |
+| 49 min | EUR | Moderate | Spanish CPI (YoY) (Dec) |  | 2.9% | 3.0% |
+| 49 min | EUR | Low | Spanish HICP (MoM) (Dec) |  | 0.3% | 0.0% |
+| 49 min | EUR | Moderate | Spanish HICP (YoY) (Dec) |  | 3.0% | 3.2% |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Nov) |  | 0.6% | -1.0% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Nov) |  | -0.6% | -0.3% |
 | 09:00 | INR | Low | Exports (USD) (Dec) |  |  | 38.13B |
@@ -66,10 +70,6 @@
 | 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Oct) |  | -4.30% | -6.70% |
 | 12:00 | BRL | Moderate | Retail Sales (YoY) (Nov) |  | 0.2% | 1.1% |
 | 12:00 | BRL | Moderate | Retail Sales (MoM) (Nov) |  | 0.3% | 0.5% |
-| 12:00 | CNY | Low | M2 Money Stock (YoY) (Dec) |  | 8.0% | 8.0% |
-| 12:00 | CNY | Moderate | New Loans (Dec) |  | 820.0B | 390.0B |
-| 12:00 | CNY | Low | Outstanding Loan Growth (YoY) (Dec) |  | 6.3% | 6.4% |
-| 12:00 | CNY | Low | Chinese Total Social Financing (Dec) |  | 2,000.0B | 2,490.0B |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:00 | BRL | Low | Auto Production (MoM) (Dec) |  |  | -11.6% |
 | 13:00 | BRL | Low | Auto Sales (MoM) (Dec) |  |  | -8.5% |
@@ -91,7 +91,6 @@
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Nov) |  | -1.1% | -1.0% |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Nov) |  | 0.1% | 0.1% |
 | 13:35 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 13:45 | USD | High | S&P Global Manufacturing PMI (Jan) |  |  | 52.2 |
 | 14:15 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage |  | -89B | -119B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.550% |
