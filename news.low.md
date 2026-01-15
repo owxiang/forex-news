@@ -52,14 +52,14 @@
 | 12:00 | MXN | Gross Fixed Investments (YoY) (Oct) | -5.50% | -4.30% | -8.30% |
 | 13:00 | BRL | Auto Production (MoM) (Dec) | -15.8% |  | -11.6% |
 | 13:00 | BRL | Auto Sales (MoM) (Dec) | 17.1% |  | -8.5% |
-| 10 min | USD | Export Price Index (YoY) (Nov) |  |  | 3.8% |
-| 10 min | USD | Import Price Index (YoY) (Nov) |  |  | 0.3% |
-| 10 min | USD | Jobless Claims 4-Week Avg. |  |  | 211.75K |
-| 10 min | USD | Philly Fed Business Conditions (Jan) |  |  | 41.6 |
-| 10 min | USD | Philly Fed CAPEX Index (Jan) |  |  | 30.30 |
-| 10 min | USD | Philly Fed New Orders (Jan) |  |  | 5.0 |
-| 10 min | USD | Philly Fed Prices Paid (Jan) |  |  | 43.60 |
-| 10 min | CAD | Manufacturing Sales (MoM) (Nov) |  | -1.1% | -1.0% |
+| 13:30 | USD | Export Price Index (YoY) (Nov) | 3.3% |  | 3.8% |
+| 13:30 | USD | Import Price Index (YoY) (Nov) | 0.1% |  | 0.3% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 205.00K |  | 211.50K |
+| 13:30 | USD | Philly Fed Business Conditions (Jan) | 25.5 |  | 38.1 |
+| 13:30 | USD | Philly Fed CAPEX Index (Jan) | 30.30 |  | 29.10 |
+| 13:30 | USD | Philly Fed New Orders (Jan) | 14.4 |  | 5.7 |
+| 13:30 | USD | Philly Fed Prices Paid (Jan) | 46.90 |  | 49.30 |
+| 13:30 | CAD | Manufacturing Sales (MoM) (Nov) | -1.2% | -1.1% | -1.0% |
 | 15:30 | USD | Natural Gas Storage |  | -89B | -119B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.550% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 3.540% |

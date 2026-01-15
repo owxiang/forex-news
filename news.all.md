@@ -72,24 +72,24 @@
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:00 | BRL | Low | Auto Production (MoM) (Dec) | -15.8% |  | -11.6% |
 | 13:00 | BRL | Low | Auto Sales (MoM) (Dec) | 17.1% |  | -8.5% |
-| 10 min | USD | Moderate | Continuing Jobless Claims |  | 1,890K | 1,914K |
-| 10 min | USD | Moderate | Export Price Index (MoM) (Nov) |  | 0.2% | 0.0% |
-| 10 min | USD | Low | Export Price Index (YoY) (Nov) |  |  | 3.8% |
-| 10 min | USD | Moderate | Import Price Index (MoM) (Nov) |  | -0.1% | 0.0% |
-| 10 min | USD | Low | Import Price Index (YoY) (Nov) |  |  | 0.3% |
-| 10 min | USD | High | Initial Jobless Claims |  | 215K | 208K |
-| 10 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 211.75K |
-| 10 min | USD | Moderate | NY Empire State Manufacturing Index (Jan) |  | 0.80 | -3.90 |
-| 10 min | USD | High | Philadelphia Fed Manufacturing Index (Jan) |  | -1.6 | -10.2 |
-| 10 min | USD | Low | Philly Fed Business Conditions (Jan) |  |  | 41.6 |
-| 10 min | USD | Low | Philly Fed CAPEX Index (Jan) |  |  | 30.30 |
-| 10 min | USD | Moderate | Philly Fed Employment (Jan) |  |  | 12.9 |
-| 10 min | USD | Low | Philly Fed New Orders (Jan) |  |  | 5.0 |
-| 10 min | USD | Low | Philly Fed Prices Paid (Jan) |  |  | 43.60 |
-| 10 min | CAD | Low | Manufacturing Sales (MoM) (Nov) |  | -1.1% | -1.0% |
-| 10 min | CAD | Moderate | Wholesale Sales (MoM) (Nov) |  | 0.1% | 0.1% |
-| 15 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 55 min | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,884K | 1,890K | 1,903K |
+| 13:30 | USD | Moderate | Export Price Index (MoM) (Nov) | 0.5% | 0.2% | 0.0% |
+| 13:30 | USD | Low | Export Price Index (YoY) (Nov) | 3.3% |  | 3.8% |
+| 13:30 | USD | Moderate | Import Price Index (MoM) (Nov) | 0.4% | -0.1% | 0.0% |
+| 13:30 | USD | Low | Import Price Index (YoY) (Nov) | 0.1% |  | 0.3% |
+| 13:30 | USD | High | Initial Jobless Claims | 198K | 215K | 207K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 205.00K |  | 211.50K |
+| 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Jan) | 7.70 | 0.80 | -3.70 |
+| 13:30 | USD | High | Philadelphia Fed Manufacturing Index (Jan) | 12.6 | -1.6 | -8.8 |
+| 13:30 | USD | Low | Philly Fed Business Conditions (Jan) | 25.5 |  | 38.1 |
+| 13:30 | USD | Low | Philly Fed CAPEX Index (Jan) | 30.30 |  | 29.10 |
+| 13:30 | USD | Moderate | Philly Fed Employment (Jan) | 9.7 |  | 13.0 |
+| 13:30 | USD | Low | Philly Fed New Orders (Jan) | 14.4 |  | 5.7 |
+| 13:30 | USD | Low | Philly Fed Prices Paid (Jan) | 46.90 |  | 49.30 |
+| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Nov) | -1.2% | -1.1% | -1.0% |
+| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Nov) | -1.8% | 0.1% | 0.1% |
+| 13:35 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 5 min | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage |  | -89B | -119B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.550% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.540% |

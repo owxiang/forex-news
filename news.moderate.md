@@ -21,14 +21,14 @@
 | 12:00 | BRL | Retail Sales (YoY) (Nov) | 1.3% | 0.2% | 0.9% |
 | 12:00 | BRL | Retail Sales (MoM) (Nov) | 1.0% | 0.3% | 0.5% |
 | 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 10 min | USD | Continuing Jobless Claims |  | 1,890K | 1,914K |
-| 10 min | USD | Export Price Index (MoM) (Nov) |  | 0.2% | 0.0% |
-| 10 min | USD | Import Price Index (MoM) (Nov) |  | -0.1% | 0.0% |
-| 10 min | USD | NY Empire State Manufacturing Index (Jan) |  | 0.80 | -3.90 |
-| 10 min | USD | Philly Fed Employment (Jan) |  |  | 12.9 |
-| 10 min | CAD | Wholesale Sales (MoM) (Nov) |  | 0.1% | 0.1% |
-| 15 min | USD | FOMC Member Bostic Speaks |  |  |  |
-| 55 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 13:30 | USD | Continuing Jobless Claims | 1,884K | 1,890K | 1,903K |
+| 13:30 | USD | Export Price Index (MoM) (Nov) | 0.5% | 0.2% | 0.0% |
+| 13:30 | USD | Import Price Index (MoM) (Nov) | 0.4% | -0.1% | 0.0% |
+| 13:30 | USD | NY Empire State Manufacturing Index (Jan) | 7.70 | 0.80 | -3.70 |
+| 13:30 | USD | Philly Fed Employment (Jan) | 9.7 |  | 13.0 |
+| 13:30 | CAD | Wholesale Sales (MoM) (Nov) | -1.8% | 0.1% | 0.1% |
+| 13:35 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 5 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 21:00 | USD | TIC Net Long-Term Transactions (Nov) |  | 48.7B | 17.5B |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,574B |
 | 21:30 | NZD | Business NZ PMI (Dec) |  |  | 51.4 |
