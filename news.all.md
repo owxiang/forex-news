@@ -9,23 +9,23 @@
 | 00:30 | AUD | Low | Reserve Assets Total (Dec) | 113.9B |  | 113.1B |
 | 01:00 | KRW | Low | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 01:00 | KRW | Low | Interest Rate Decision (Jan) | 2.50% | 2.50% | 2.50% |
-| 07:00 | GBP | Low | Construction Output (MoM) (Nov) |  | -0.3% | -0.6% |
-| 07:00 | GBP | Low | U.K. Construction Output (YoY) (Nov) |  | 0.1% | 0.9% |
-| 07:00 | GBP | High | GDP (MoM) (Nov) |  | 0.1% | -0.1% |
-| 07:00 | GBP | Low | GDP (YoY) (Nov) |  | 1.1% | 1.1% |
-| 07:00 | GBP | Low | Index of Services |  | 0.0% | 0.0% |
-| 07:00 | GBP | Moderate | Industrial Production (MoM) (Nov) |  | 0.2% | 1.1% |
-| 07:00 | GBP | Low | Industrial Production (YoY) (Nov) |  | -0.4% | -0.8% |
-| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Nov) |  | 0.4% | 0.5% |
-| 07:00 | GBP | Low | Manufacturing Production (YoY) (Nov) |  | -0.3% | -0.8% |
-| 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Nov) |  | -0.2% | -0.1% |
-| 07:00 | GBP | Moderate | Trade Balance (Nov) |  | -20.30B | -22.54B |
-| 07:00 | GBP | Moderate | Trade Balance Non-EU (Nov) |  |  | -10.26B |
-| 07:00 | EUR | Low | German WPI (MoM) (Dec) |  | 0.2% | 0.3% |
-| 07:00 | EUR | Low | German WPI (YoY) (Dec) |  |  | 1.5% |
-| 07:00 | IDR | Low | Foreign Direct Investment (YoY) (Q4) |  |  | -8.90% |
-| 07:00 | NOK | Low | Industrial Confidence (Q4) |  |  | -0.3 |
-| 07:00 | NOK | Low | Trade Balance (Dec) |  |  | 41.3B |
+| 48 min | GBP | Low | Construction Output (MoM) (Nov) |  | -0.3% | -0.6% |
+| 48 min | GBP | Low | U.K. Construction Output (YoY) (Nov) |  | 0.1% | 0.9% |
+| 48 min | GBP | High | GDP (MoM) (Nov) |  | 0.1% | -0.1% |
+| 48 min | GBP | Low | GDP (YoY) (Nov) |  | 1.1% | 1.1% |
+| 48 min | GBP | Low | Index of Services |  | 0.0% | 0.0% |
+| 48 min | GBP | Moderate | Industrial Production (MoM) (Nov) |  | 0.2% | 1.1% |
+| 48 min | GBP | Low | Industrial Production (YoY) (Nov) |  | -0.4% | -0.8% |
+| 48 min | GBP | Moderate | Manufacturing Production (MoM) (Nov) |  | 0.4% | 0.5% |
+| 48 min | GBP | Low | Manufacturing Production (YoY) (Nov) |  | -0.3% | -0.8% |
+| 48 min | GBP | Moderate | Monthly GDP 3M/3M Change (Nov) |  | -0.2% | -0.1% |
+| 48 min | GBP | Moderate | Trade Balance (Nov) |  | -20.30B | -22.54B |
+| 48 min | GBP | Moderate | Trade Balance Non-EU (Nov) |  |  | -10.26B |
+| 48 min | EUR | Low | German WPI (MoM) (Dec) |  | 0.2% | 0.3% |
+| 48 min | EUR | Low | German WPI (YoY) (Dec) |  |  | 1.5% |
+| 48 min | IDR | Low | Foreign Direct Investment (YoY) (Q4) |  |  | -8.90% |
+| 48 min | NOK | Low | Industrial Confidence (Q4) |  |  | -0.3 |
+| 48 min | NOK | Low | Trade Balance (Dec) |  |  | 41.3B |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Dec) |  |  | 0.10% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Dec) |  |  | 0.80% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Dec) |  | 0.1% | -0.2% |

@@ -9,17 +9,17 @@
 | 00:30 | AUD | Reserve Assets Total (Dec) | 113.9B |  | 113.1B |
 | 01:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 01:00 | KRW | Interest Rate Decision (Jan) | 2.50% | 2.50% | 2.50% |
-| 07:00 | GBP | Construction Output (MoM) (Nov) |  | -0.3% | -0.6% |
-| 07:00 | GBP | U.K. Construction Output (YoY) (Nov) |  | 0.1% | 0.9% |
-| 07:00 | GBP | GDP (YoY) (Nov) |  | 1.1% | 1.1% |
-| 07:00 | GBP | Index of Services |  | 0.0% | 0.0% |
-| 07:00 | GBP | Industrial Production (YoY) (Nov) |  | -0.4% | -0.8% |
-| 07:00 | GBP | Manufacturing Production (YoY) (Nov) |  | -0.3% | -0.8% |
-| 07:00 | EUR | German WPI (MoM) (Dec) |  | 0.2% | 0.3% |
-| 07:00 | EUR | German WPI (YoY) (Dec) |  |  | 1.5% |
-| 07:00 | IDR | Foreign Direct Investment (YoY) (Q4) |  |  | -8.90% |
-| 07:00 | NOK | Industrial Confidence (Q4) |  |  | -0.3 |
-| 07:00 | NOK | Trade Balance (Dec) |  |  | 41.3B |
+| 48 min | GBP | Construction Output (MoM) (Nov) |  | -0.3% | -0.6% |
+| 48 min | GBP | U.K. Construction Output (YoY) (Nov) |  | 0.1% | 0.9% |
+| 48 min | GBP | GDP (YoY) (Nov) |  | 1.1% | 1.1% |
+| 48 min | GBP | Index of Services |  | 0.0% | 0.0% |
+| 48 min | GBP | Industrial Production (YoY) (Nov) |  | -0.4% | -0.8% |
+| 48 min | GBP | Manufacturing Production (YoY) (Nov) |  | -0.3% | -0.8% |
+| 48 min | EUR | German WPI (MoM) (Dec) |  | 0.2% | 0.3% |
+| 48 min | EUR | German WPI (YoY) (Dec) |  |  | 1.5% |
+| 48 min | IDR | Foreign Direct Investment (YoY) (Q4) |  |  | -8.90% |
+| 48 min | NOK | Industrial Confidence (Q4) |  |  | -0.3 |
+| 48 min | NOK | Trade Balance (Dec) |  |  | 41.3B |
 | 07:45 | EUR | French CPI NSA (MoM) (Dec) |  |  | 0.10% |
 | 07:45 | EUR | French CPI NSA (YoY) (Dec) |  |  | 0.80% |
 | 07:45 | EUR | French CPI (YoY) (Dec) |  | 0.8% | 0.9% |

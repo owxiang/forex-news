@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | GBP | Industrial Production (MoM) (Nov) |  | 0.2% | 1.1% |
-| 07:00 | GBP | Manufacturing Production (MoM) (Nov) |  | 0.4% | 0.5% |
-| 07:00 | GBP | Monthly GDP 3M/3M Change (Nov) |  | -0.2% | -0.1% |
-| 07:00 | GBP | Trade Balance (Nov) |  | -20.30B | -22.54B |
-| 07:00 | GBP | Trade Balance Non-EU (Nov) |  |  | -10.26B |
+| 48 min | GBP | Industrial Production (MoM) (Nov) |  | 0.2% | 1.1% |
+| 48 min | GBP | Manufacturing Production (MoM) (Nov) |  | 0.4% | 0.5% |
+| 48 min | GBP | Monthly GDP 3M/3M Change (Nov) |  | -0.2% | -0.1% |
+| 48 min | GBP | Trade Balance (Nov) |  | -20.30B | -22.54B |
+| 48 min | GBP | Trade Balance Non-EU (Nov) |  |  | -10.26B |
 | 07:45 | EUR | French CPI (MoM) (Dec) |  | 0.1% | -0.2% |
 | 07:45 | EUR | French HICP (MoM) (Dec) |  | 0.1% | -0.2% |
 | 08:00 | EUR | Spanish CPI (YoY) (Dec) |  | 2.9% | 3.0% |
