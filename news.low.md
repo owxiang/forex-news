@@ -36,20 +36,20 @@
 | 08:40 | INR | Trade Balance (Dec) | -25.04B |  | -24.53B |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Nov) | 1.5% | 0.6% | -1.0% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Nov) | 1.4% | -0.6% | -0.2% |
+| 09:00 | EUR | Italian Trade Balance (Nov) | 5.078B | 5.220B | 4.183B |
+| 09:00 | EUR | Italian Trade Balance EU (Nov) | -1.96B |  | -1.28B |
 | 09:00 | EUR | German GDP Annual | 0.20% |  | 0.20% |
 | 09:40 | EUR | Spanish 50-Year Obligacion Auction | 4.024% |  | 3.874% |
 | 10:00 | EUR | Spanish 3-Year Bonos Auction | 2.342% |  | 2.212% |
 | 10:00 | EUR | Industrial Production (YoY) (Nov) | 2.5% | 2.0% | 1.7% |
-| 52 min | GBP | Thomson Reuters IPSOS PCSI (Jan) |  |  | 47.3 |
-| 52 min | EUR | Italian Trade Balance (Nov) |  | 5.220B | 4.156B |
-| 52 min | EUR | Italian Trade Balance EU |  |  | -1.31B |
-| 52 min | EUR | Italy Thomson Reuters IPSOS PCSI (Jan) |  |  | 45.86 |
-| 52 min | EUR | Germany Thomson Reuters IPSOS PCSI (Jan) |  |  | 46.44 |
-| 52 min | EUR | France Thomson Reuters IPSOS PCSI (Jan) |  |  | 40.46 |
-| 52 min | EUR | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 49.54 |
-| 52 min | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 47.78 |
-| 12:00 | MXN | Gross Fixed Investments (MoM) (Oct) |  | 1.50% | -0.30% |
-| 12:00 | MXN | Gross Fixed Investments (YoY) (Oct) |  | -4.30% | -6.70% |
+| 11:00 | GBP | Thomson Reuters IPSOS PCSI (Jan) | 49.2 |  | 47.3 |
+| 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Jan) | 47.69 |  | 45.86 |
+| 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Jan) | 46.35 |  | 46.44 |
+| 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Jan) | 39.77 |  | 40.46 |
+| 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 49.23 |  | 49.54 |
+| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 49.27 |  | 47.78 |
+| 53 min | MXN | Gross Fixed Investments (MoM) (Oct) |  | 1.50% | -0.30% |
+| 53 min | MXN | Gross Fixed Investments (YoY) (Oct) |  | -4.30% | -6.70% |
 | 13:00 | BRL | Auto Production (MoM) (Dec) |  |  | -11.6% |
 | 13:00 | BRL | Auto Sales (MoM) (Dec) |  |  | -8.5% |
 | 13:30 | USD | Export Price Index (YoY) (Nov) |  |  | 3.8% |

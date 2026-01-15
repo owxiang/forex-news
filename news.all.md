@@ -47,6 +47,8 @@
 | 08:40 | INR | Low | Trade Balance (Dec) | -25.04B |  | -24.53B |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Nov) | 1.5% | 0.6% | -1.0% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Nov) | 1.4% | -0.6% | -0.2% |
+| 09:00 | EUR | Low | Italian Trade Balance (Nov) | 5.078B | 5.220B | 4.183B |
+| 09:00 | EUR | Low | Italian Trade Balance EU (Nov) | -1.96B |  | -1.28B |
 | 09:00 | EUR | Low | German GDP Annual | 0.20% |  | 0.20% |
 | 09:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
 | 09:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
@@ -57,19 +59,17 @@
 | 10:00 | EUR | Moderate | Industrial Production (MoM) (Nov) | 0.7% | 0.5% | 0.7% |
 | 10:00 | EUR | Low | Industrial Production (YoY) (Nov) | 2.5% | 2.0% | 1.7% |
 | 10:00 | EUR | Moderate | Trade Balance (Nov) | 9.9B | 14.8B | 17.9B |
-| 52 min | GBP | Low | Thomson Reuters IPSOS PCSI (Jan) |  |  | 47.3 |
-| 52 min | EUR | Low | Italian Trade Balance (Nov) |  | 5.220B | 4.156B |
-| 52 min | EUR | Low | Italian Trade Balance EU |  |  | -1.31B |
-| 52 min | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Jan) |  |  | 45.86 |
-| 52 min | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Jan) |  |  | 46.44 |
-| 52 min | EUR | Low | France Thomson Reuters IPSOS PCSI (Jan) |  |  | 40.46 |
-| 52 min | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 49.54 |
-| 52 min | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 47.78 |
-| 12:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Dec) |  |  | -0.1% |
-| 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Oct) |  | 1.50% | -0.30% |
-| 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Oct) |  | -4.30% | -6.70% |
-| 12:00 | BRL | Moderate | Retail Sales (YoY) (Nov) |  | 0.2% | 1.1% |
-| 12:00 | BRL | Moderate | Retail Sales (MoM) (Nov) |  | 0.3% | 0.5% |
+| 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Jan) | 49.2 |  | 47.3 |
+| 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Jan) | 47.69 |  | 45.86 |
+| 11:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Jan) | 46.35 |  | 46.44 |
+| 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Jan) | 39.77 |  | 40.46 |
+| 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 49.23 |  | 49.54 |
+| 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 49.27 |  | 47.78 |
+| 53 min | GBP | Moderate | NIESR Monthly GDP Tracker (Dec) |  |  | -0.1% |
+| 53 min | MXN | Low | Gross Fixed Investments (MoM) (Oct) |  | 1.50% | -0.30% |
+| 53 min | MXN | Low | Gross Fixed Investments (YoY) (Oct) |  | -4.30% | -6.70% |
+| 53 min | BRL | Moderate | Retail Sales (YoY) (Nov) |  | 0.2% | 1.1% |
+| 53 min | BRL | Moderate | Retail Sales (MoM) (Nov) |  | 0.3% | 0.5% |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:00 | BRL | Low | Auto Production (MoM) (Dec) |  |  | -11.6% |
 | 13:00 | BRL | Low | Auto Sales (MoM) (Dec) |  |  | -8.5% |
