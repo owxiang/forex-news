@@ -87,10 +87,10 @@
 | 13:30 | USD | Low | Philly Fed New Orders (Jan) | 14.4 |  | 5.7 |
 | 13:30 | USD | Low | Philly Fed Prices Paid (Jan) | 46.90 |  | 49.30 |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Nov) | -1.2% | -1.1% | -1.0% |
-| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Nov) | -1.8% | 0.1% | 0.1% |
+| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Nov) | -1.8% | 0.1% | 0.4% |
 | 13:35 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 5 min | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 15:30 | USD | Low | Natural Gas Storage |  | -89B | -119B |
+| 14:15 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 21 min | USD | Low | Natural Gas Storage |  | -89B | -119B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.550% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.540% |
 | 17:40 | USD | Low | FOMC Member Barkin Speaks |  |  |  |

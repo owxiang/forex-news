@@ -26,9 +26,9 @@
 | 13:30 | USD | Import Price Index (MoM) (Nov) | 0.4% | -0.1% | 0.0% |
 | 13:30 | USD | NY Empire State Manufacturing Index (Jan) | 7.70 | 0.80 | -3.70 |
 | 13:30 | USD | Philly Fed Employment (Jan) | 9.7 |  | 13.0 |
-| 13:30 | CAD | Wholesale Sales (MoM) (Nov) | -1.8% | 0.1% | 0.1% |
+| 13:30 | CAD | Wholesale Sales (MoM) (Nov) | -1.8% | 0.1% | 0.4% |
 | 13:35 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 5 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 14:15 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 21:00 | USD | TIC Net Long-Term Transactions (Nov) |  | 48.7B | 17.5B |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,574B |
 | 21:30 | NZD | Business NZ PMI (Dec) |  |  | 51.4 |
