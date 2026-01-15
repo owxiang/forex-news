@@ -60,9 +60,9 @@
 | 13:30 | USD | Philly Fed New Orders (Jan) | 14.4 |  | 5.7 |
 | 13:30 | USD | Philly Fed Prices Paid (Jan) | 46.90 |  | 49.30 |
 | 13:30 | CAD | Manufacturing Sales (MoM) (Nov) | -1.2% | -1.1% | -1.0% |
-| 21 min | USD | Natural Gas Storage |  | -89B | -119B |
-| 16:30 | USD | 4-Week Bill Auction |  |  | 3.550% |
-| 16:30 | USD | 8-Week Bill Auction |  |  | 3.540% |
+| 15:30 | USD | Natural Gas Storage | -71B | -89B | -119B |
+| 17 min | USD | 4-Week Bill Auction |  |  | 3.550% |
+| 17 min | USD | 8-Week Bill Auction |  |  | 3.540% |
 | 17:40 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 21:00 | USD | US Foreign Buying, T-bonds (Nov) |  |  | -61.20B |
 | 21:00 | USD | Overall Net Capital Flow (Nov) |  |  | -37.30B |

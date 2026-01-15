@@ -90,9 +90,9 @@
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Nov) | -1.8% | 0.1% | 0.4% |
 | 13:35 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 14:15 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 21 min | USD | Low | Natural Gas Storage |  | -89B | -119B |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.550% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.540% |
+| 15:30 | USD | Low | Natural Gas Storage | -71B | -89B | -119B |
+| 17 min | USD | Low | 4-Week Bill Auction |  |  | 3.550% |
+| 17 min | USD | Low | 8-Week Bill Auction |  |  | 3.540% |
 | 17:40 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 21:00 | USD | Low | US Foreign Buying, T-bonds (Nov) |  |  | -61.20B |
 | 21:00 | USD | Low | Overall Net Capital Flow (Nov) |  |  | -37.30B |
