@@ -94,10 +94,10 @@
 | 16:30 | USD | Low | 4-Week Bill Auction | 3.595% |  | 3.550% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 3.600% |  | 3.540% |
 | 17:40 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 21:00 | USD | Low | US Foreign Buying, T-bonds (Nov) |  |  | -61.20B |
-| 21:00 | USD | Low | Overall Net Capital Flow (Nov) |  |  | -37.30B |
-| 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Nov) |  | 48.7B | 17.5B |
-| 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Nov) |  |  | 17.50B |
+| 52 min | USD | Low | US Foreign Buying, T-bonds (Nov) |  |  | -61.20B |
+| 52 min | USD | Low | Overall Net Capital Flow (Nov) |  |  | -37.30B |
+| 52 min | USD | Moderate | TIC Net Long-Term Transactions (Nov) |  | 48.7B | 17.5B |
+| 52 min | USD | Low | TIC Net Long-Term Transactions including Swaps (Nov) |  |  | 17.50B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,574B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.023T |
 | 21:30 | NZD | Moderate | Business NZ PMI (Dec) |  |  | 51.4 |

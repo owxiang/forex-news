@@ -64,9 +64,9 @@
 | 16:30 | USD | 4-Week Bill Auction | 3.595% |  | 3.550% |
 | 16:30 | USD | 8-Week Bill Auction | 3.600% |  | 3.540% |
 | 17:40 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 21:00 | USD | US Foreign Buying, T-bonds (Nov) |  |  | -61.20B |
-| 21:00 | USD | Overall Net Capital Flow (Nov) |  |  | -37.30B |
-| 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Nov) |  |  | 17.50B |
+| 52 min | USD | US Foreign Buying, T-bonds (Nov) |  |  | -61.20B |
+| 52 min | USD | Overall Net Capital Flow (Nov) |  |  | -37.30B |
+| 52 min | USD | TIC Net Long-Term Transactions including Swaps (Nov) |  |  | 17.50B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.023T |
 | 21:45 | NZD | FPI (MoM) (Dec) |  |  | -0.4% |
 | 23:00 | KRW | Unemployment Rate (Dec) |  |  | 2.7% |
