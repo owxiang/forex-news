@@ -48,18 +48,18 @@
 | 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Jan) | 39.77 |  | 40.46 |
 | 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 49.23 |  | 49.54 |
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 49.27 |  | 47.78 |
-| 12:00 | MXN | Gross Fixed Investments (MoM) (Oct) | 0.90% | 1.50% | -0.30% |
-| 12:00 | MXN | Gross Fixed Investments (YoY) (Oct) | -5.50% | -4.30% | -6.70% |
-| 46 min | BRL | Auto Production (MoM) (Dec) |  |  | -11.6% |
-| 46 min | BRL | Auto Sales (MoM) (Dec) |  |  | -8.5% |
-| 13:30 | USD | Export Price Index (YoY) (Nov) |  |  | 3.8% |
-| 13:30 | USD | Import Price Index (YoY) (Nov) |  |  | 0.3% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 211.75K |
-| 13:30 | USD | Philly Fed Business Conditions (Jan) |  |  | 41.6 |
-| 13:30 | USD | Philly Fed CAPEX Index (Jan) |  |  | 30.30 |
-| 13:30 | USD | Philly Fed New Orders (Jan) |  |  | 5.0 |
-| 13:30 | USD | Philly Fed Prices Paid (Jan) |  |  | 43.60 |
-| 13:30 | CAD | Manufacturing Sales (MoM) (Nov) |  | -1.1% | -1.0% |
+| 12:00 | MXN | Gross Fixed Investments (MoM) (Oct) | 0.90% | 1.50% | -0.20% |
+| 12:00 | MXN | Gross Fixed Investments (YoY) (Oct) | -5.50% | -4.30% | -8.30% |
+| 13:00 | BRL | Auto Production (MoM) (Dec) | -15.8% |  | -11.6% |
+| 13:00 | BRL | Auto Sales (MoM) (Dec) | 17.1% |  | -8.5% |
+| 10 min | USD | Export Price Index (YoY) (Nov) |  |  | 3.8% |
+| 10 min | USD | Import Price Index (YoY) (Nov) |  |  | 0.3% |
+| 10 min | USD | Jobless Claims 4-Week Avg. |  |  | 211.75K |
+| 10 min | USD | Philly Fed Business Conditions (Jan) |  |  | 41.6 |
+| 10 min | USD | Philly Fed CAPEX Index (Jan) |  |  | 30.30 |
+| 10 min | USD | Philly Fed New Orders (Jan) |  |  | 5.0 |
+| 10 min | USD | Philly Fed Prices Paid (Jan) |  |  | 43.60 |
+| 10 min | CAD | Manufacturing Sales (MoM) (Nov) |  | -1.1% | -1.0% |
 | 15:30 | USD | Natural Gas Storage |  | -89B | -119B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.550% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 3.540% |

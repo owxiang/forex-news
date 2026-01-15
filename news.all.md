@@ -65,33 +65,31 @@
 | 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Jan) | 39.77 |  | 40.46 |
 | 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 49.23 |  | 49.54 |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 49.27 |  | 47.78 |
-| 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Oct) | 0.90% | 1.50% | -0.30% |
-| 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Oct) | -5.50% | -4.30% | -6.70% |
-| 12:00 | BRL | Moderate | Retail Sales (YoY) (Nov) | 1.3% | 0.2% | 1.1% |
+| 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Oct) | 0.90% | 1.50% | -0.20% |
+| 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Oct) | -5.50% | -4.30% | -8.30% |
+| 12:00 | BRL | Moderate | Retail Sales (YoY) (Nov) | 1.3% | 0.2% | 0.9% |
 | 12:00 | BRL | Moderate | Retail Sales (MoM) (Nov) | 1.0% | 0.3% | 0.5% |
-| 16 min | GBP | Moderate | NIESR Monthly GDP Tracker (Dec) |  |  | -0.1% |
-| 16 min | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 46 min | BRL | Low | Auto Production (MoM) (Dec) |  |  | -11.6% |
-| 46 min | BRL | Low | Auto Sales (MoM) (Dec) |  |  | -8.5% |
-| 13:15 | CAD | Moderate | Housing Starts (Dec) |  |  | 254.1K |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,890K | 1,914K |
-| 13:30 | USD | Moderate | Export Price Index (MoM) (Nov) |  | 0.2% | 0.0% |
-| 13:30 | USD | Low | Export Price Index (YoY) (Nov) |  |  | 3.8% |
-| 13:30 | USD | Moderate | Import Price Index (MoM) (Nov) |  | -0.1% | 0.0% |
-| 13:30 | USD | Low | Import Price Index (YoY) (Nov) |  |  | 0.3% |
-| 13:30 | USD | High | Initial Jobless Claims |  | 215K | 208K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 211.75K |
-| 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Jan) |  | 0.80 | -3.90 |
-| 13:30 | USD | High | Philadelphia Fed Manufacturing Index (Jan) |  | -1.6 | -10.2 |
-| 13:30 | USD | Low | Philly Fed Business Conditions (Jan) |  |  | 41.6 |
-| 13:30 | USD | Low | Philly Fed CAPEX Index (Jan) |  |  | 30.30 |
-| 13:30 | USD | Moderate | Philly Fed Employment (Jan) |  |  | 12.9 |
-| 13:30 | USD | Low | Philly Fed New Orders (Jan) |  |  | 5.0 |
-| 13:30 | USD | Low | Philly Fed Prices Paid (Jan) |  |  | 43.60 |
-| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Nov) |  | -1.1% | -1.0% |
-| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Nov) |  | 0.1% | 0.1% |
-| 13:35 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 14:15 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 13:00 | BRL | Low | Auto Production (MoM) (Dec) | -15.8% |  | -11.6% |
+| 13:00 | BRL | Low | Auto Sales (MoM) (Dec) | 17.1% |  | -8.5% |
+| 10 min | USD | Moderate | Continuing Jobless Claims |  | 1,890K | 1,914K |
+| 10 min | USD | Moderate | Export Price Index (MoM) (Nov) |  | 0.2% | 0.0% |
+| 10 min | USD | Low | Export Price Index (YoY) (Nov) |  |  | 3.8% |
+| 10 min | USD | Moderate | Import Price Index (MoM) (Nov) |  | -0.1% | 0.0% |
+| 10 min | USD | Low | Import Price Index (YoY) (Nov) |  |  | 0.3% |
+| 10 min | USD | High | Initial Jobless Claims |  | 215K | 208K |
+| 10 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 211.75K |
+| 10 min | USD | Moderate | NY Empire State Manufacturing Index (Jan) |  | 0.80 | -3.90 |
+| 10 min | USD | High | Philadelphia Fed Manufacturing Index (Jan) |  | -1.6 | -10.2 |
+| 10 min | USD | Low | Philly Fed Business Conditions (Jan) |  |  | 41.6 |
+| 10 min | USD | Low | Philly Fed CAPEX Index (Jan) |  |  | 30.30 |
+| 10 min | USD | Moderate | Philly Fed Employment (Jan) |  |  | 12.9 |
+| 10 min | USD | Low | Philly Fed New Orders (Jan) |  |  | 5.0 |
+| 10 min | USD | Low | Philly Fed Prices Paid (Jan) |  |  | 43.60 |
+| 10 min | CAD | Low | Manufacturing Sales (MoM) (Nov) |  | -1.1% | -1.0% |
+| 10 min | CAD | Moderate | Wholesale Sales (MoM) (Nov) |  | 0.1% | 0.1% |
+| 15 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 55 min | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage |  | -89B | -119B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.550% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.540% |
