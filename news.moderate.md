@@ -29,6 +29,6 @@
 | 13:30 | CAD | Wholesale Sales (MoM) (Nov) | -1.8% | 0.1% | 0.4% |
 | 13:35 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 14:15 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 52 min | USD | TIC Net Long-Term Transactions (Nov) |  | 48.7B | 17.5B |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 6,574B |
-| 21:30 | NZD | Business NZ PMI (Dec) |  |  | 51.4 |
+| 21:00 | USD | TIC Net Long-Term Transactions (Nov) | 220.2B | 48.7B | 30.9B |
+| 22 min | USD | Fed's Balance Sheet |  |  | 6,574B |
+| 22 min | NZD | Business NZ PMI (Dec) |  |  | 51.4 |
