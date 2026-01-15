@@ -93,7 +93,7 @@
 | 15:30 | USD | Low | Natural Gas Storage | -71B | -89B | -119B |
 | 16:30 | USD | Low | 4-Week Bill Auction | 3.595% |  | 3.550% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 3.600% |  | 3.540% |
-| 26 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 17:40 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 21:00 | USD | Low | US Foreign Buying, T-bonds (Nov) |  |  | -61.20B |
 | 21:00 | USD | Low | Overall Net Capital Flow (Nov) |  |  | -37.30B |
 | 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Nov) |  | 48.7B | 17.5B |
