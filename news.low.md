@@ -67,8 +67,7 @@
 | 21:00 | USD | US Foreign Buying, T-bonds (Nov) | 85.60B |  | -60.10B |
 | 21:00 | USD | Overall Net Capital Flow (Nov) | 212.00B |  | -22.50B |
 | 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Nov) | 220.20B |  | 30.90B |
-| 22 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.023T |
-| 37 min | NZD | FPI (MoM) (Dec) |  |  | -0.4% |
-| 23:00 | KRW | Unemployment Rate (Dec) |  |  | 2.7% |
-| 23:50 | JPY | Foreign Bonds Buying |  |  | -223.6B |
-| 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 124.9B |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.062T |  | 3.023T |
+| 21:45 | NZD | FPI (MoM) (Dec) | -0.3% |  | -0.4% |
+| 42 min | JPY | Foreign Bonds Buying |  |  | -223.6B |
+| 42 min | JPY | Foreign Investments in Japanese Stocks |  |  | 124.9B |

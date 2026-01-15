@@ -30,5 +30,5 @@
 | 13:35 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 14:15 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 21:00 | USD | TIC Net Long-Term Transactions (Nov) | 220.2B | 48.7B | 30.9B |
-| 22 min | USD | Fed's Balance Sheet |  |  | 6,574B |
-| 22 min | NZD | Business NZ PMI (Dec) |  |  | 51.4 |
+| 21:30 | USD | Fed's Balance Sheet | 6,582B |  | 6,574B |
+| 21:30 | NZD | Business NZ PMI (Dec) | 56.1 |  | 51.4 |
