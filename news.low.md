@@ -9,7 +9,7 @@
 | 00:30 | AUD | Reserve Assets Total (Dec) | 113.9B |  | 113.1B |
 | 01:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 01:00 | KRW | Interest Rate Decision (Jan) | 2.50% | 2.50% | 2.50% |
-| 07:00 | GBP | Construction Output (MoM) (Nov) |  | 0.0% | -0.6% |
+| 07:00 | GBP | Construction Output (MoM) (Nov) |  | -0.3% | -0.6% |
 | 07:00 | GBP | U.K. Construction Output (YoY) (Nov) |  | 0.1% | 0.9% |
 | 07:00 | GBP | GDP (YoY) (Nov) |  | 1.1% | 1.1% |
 | 07:00 | GBP | Index of Services |  | 0.0% | 0.0% |
@@ -23,7 +23,7 @@
 | 07:45 | EUR | French CPI NSA (MoM) (Dec) |  |  | 0.10% |
 | 07:45 | EUR | French CPI NSA (YoY) (Dec) |  |  | 0.80% |
 | 07:45 | EUR | French CPI (YoY) (Dec) |  | 0.8% | 0.9% |
-| 07:45 | EUR | French HICP (YoY) (Dec) |  | 0.7% | 0.7% |
+| 07:45 | EUR | French HICP (YoY) (Dec) |  | 0.7% | 0.8% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Dec) |  |  | 0.90% |
 | 08:00 | EUR | Core CPI (YoY) (Dec) |  | 2.6% | 2.6% |
 | 08:00 | EUR | Spanish CPI (MoM) (Dec) |  | 0.3% | 0.2% |
@@ -37,7 +37,7 @@
 | 09:40 | EUR | Spanish 50-Year Obligacion Auction |  |  | 3.874% |
 | 09:50 | EUR | Spanish 3-Year Bonos Auction |  |  | 2.212% |
 | 09:50 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.471% |
-| 10:00 | EUR | Industrial Production (YoY) (Nov) |  | 1.9% | 2.0% |
+| 10:00 | EUR | Industrial Production (YoY) (Nov) |  | 2.0% | 2.0% |
 | 11:00 | GBP | Thomson Reuters IPSOS PCSI (Jan) |  |  | 47.3 |
 | 11:00 | EUR | Italian Trade Balance (Nov) |  | 5.220B | 4.156B |
 | 11:00 | EUR | Italian Trade Balance EU |  |  | -1.31B |
@@ -53,10 +53,8 @@
 | 12:00 | CNY | Chinese Total Social Financing (Dec) |  | 2,000.0B | 2,490.0B |
 | 13:00 | BRL | Auto Production (MoM) (Dec) |  |  | -11.6% |
 | 13:00 | BRL | Auto Sales (MoM) (Dec) |  |  | -8.5% |
-| 13:30 | USD | Export Price Index (YoY) (Oct) |  |  | 3.8% |
-| 13:30 | USD | Export Price Index (YoY) (Nov) |  |  |  |
-| 13:30 | USD | Import Price Index (YoY) (Oct) |  |  | 0.3% |
-| 13:30 | USD | Import Price Index (YoY) (Nov) |  |  |  |
+| 13:30 | USD | Export Price Index (YoY) (Nov) |  |  | 3.8% |
+| 13:30 | USD | Import Price Index (YoY) (Nov) |  |  | 0.3% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 211.75K |
 | 13:30 | USD | Philly Fed Business Conditions (Jan) |  |  | 41.6 |
 | 13:30 | USD | Philly Fed CAPEX Index (Jan) |  |  | 30.30 |

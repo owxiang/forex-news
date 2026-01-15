@@ -9,7 +9,7 @@
 | 00:30 | AUD | Low | Reserve Assets Total (Dec) | 113.9B |  | 113.1B |
 | 01:00 | KRW | Low | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 01:00 | KRW | Low | Interest Rate Decision (Jan) | 2.50% | 2.50% | 2.50% |
-| 07:00 | GBP | Low | Construction Output (MoM) (Nov) |  | 0.0% | -0.6% |
+| 07:00 | GBP | Low | Construction Output (MoM) (Nov) |  | -0.3% | -0.6% |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (Nov) |  | 0.1% | 0.9% |
 | 07:00 | GBP | High | GDP (MoM) (Nov) |  | 0.1% | -0.1% |
 | 07:00 | GBP | Low | GDP (YoY) (Nov) |  | 1.1% | 1.1% |
@@ -30,8 +30,8 @@
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Dec) |  |  | 0.80% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Dec) |  | 0.1% | -0.2% |
 | 07:45 | EUR | Low | French CPI (YoY) (Dec) |  | 0.8% | 0.9% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Dec) |  | 0.1% | 0.1% |
-| 07:45 | EUR | Low | French HICP (YoY) (Dec) |  | 0.7% | 0.7% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Dec) |  | 0.1% | -0.2% |
+| 07:45 | EUR | Low | French HICP (YoY) (Dec) |  | 0.7% | 0.8% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Dec) |  |  | 0.90% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Dec) |  | 2.6% | 2.6% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Dec) |  | 0.3% | 0.2% |
@@ -51,7 +51,7 @@
 | 09:50 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.212% |
 | 09:50 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.471% |
 | 10:00 | EUR | Moderate | Industrial Production (MoM) (Nov) |  | 0.5% | 0.8% |
-| 10:00 | EUR | Low | Industrial Production (YoY) (Nov) |  | 1.9% | 2.0% |
+| 10:00 | EUR | Low | Industrial Production (YoY) (Nov) |  | 2.0% | 2.0% |
 | 10:00 | EUR | Moderate | Trade Balance (Nov) |  | 14.8B | 18.4B |
 | 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Jan) |  |  | 47.3 |
 | 11:00 | EUR | Low | Italian Trade Balance (Nov) |  | 5.220B | 4.156B |
@@ -71,18 +71,14 @@
 | 12:00 | CNY | Low | Outstanding Loan Growth (YoY) (Dec) |  | 6.3% | 6.4% |
 | 12:00 | CNY | Low | Chinese Total Social Financing (Dec) |  | 2,000.0B | 2,490.0B |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:00 | USD | Moderate | Export Price Index (MoM) (Nov) |  | 0.2% | 0.0% |
-| 13:00 | USD | Moderate | Import Price Index (MoM) (Nov) |  | -0.1% | 0.0% |
 | 13:00 | BRL | Low | Auto Production (MoM) (Dec) |  |  | -11.6% |
 | 13:00 | BRL | Low | Auto Sales (MoM) (Dec) |  |  | -8.5% |
 | 13:15 | CAD | Moderate | Housing Starts (Dec) |  |  | 254.1K |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,890K | 1,914K |
-| 13:30 | USD | Moderate | Export Price Index (MoM) (Nov) |  |  | 0.0% |
-| 13:30 | USD | Low | Export Price Index (YoY) (Oct) |  |  | 3.8% |
-| 13:30 | USD | Low | Export Price Index (YoY) (Nov) |  |  |  |
-| 13:30 | USD | Moderate | Import Price Index (MoM) (Nov) |  |  | 0.0% |
-| 13:30 | USD | Low | Import Price Index (YoY) (Oct) |  |  | 0.3% |
-| 13:30 | USD | Low | Import Price Index (YoY) (Nov) |  |  |  |
+| 13:30 | USD | Moderate | Export Price Index (MoM) (Nov) |  | 0.2% | 0.0% |
+| 13:30 | USD | Low | Export Price Index (YoY) (Nov) |  |  | 3.8% |
+| 13:30 | USD | Moderate | Import Price Index (MoM) (Nov) |  | -0.1% | 0.0% |
+| 13:30 | USD | Low | Import Price Index (YoY) (Nov) |  |  | 0.3% |
 | 13:30 | USD | High | Initial Jobless Claims |  | 215K | 208K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 211.75K |
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Jan) |  | 0.80 | -3.90 |

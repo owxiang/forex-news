@@ -8,7 +8,7 @@
 | 07:00 | GBP | Trade Balance (Nov) |  | -20.30B | -22.54B |
 | 07:00 | GBP | Trade Balance Non-EU (Nov) |  |  | -10.26B |
 | 07:45 | EUR | French CPI (MoM) (Dec) |  | 0.1% | -0.2% |
-| 07:45 | EUR | French HICP (MoM) (Dec) |  | 0.1% | 0.1% |
+| 07:45 | EUR | French HICP (MoM) (Dec) |  | 0.1% | -0.2% |
 | 08:00 | EUR | Spanish CPI (YoY) (Dec) |  | 2.9% | 3.0% |
 | 08:00 | EUR | Spanish HICP (YoY) (Dec) |  | 3.0% | 3.2% |
 | 09:00 | EUR | ECB Economic Bulletin |  |  |  |
@@ -21,12 +21,10 @@
 | 12:00 | BRL | Retail Sales (MoM) (Nov) |  | 0.3% | 0.5% |
 | 12:00 | CNY | New Loans (Dec) |  | 820.0B | 390.0B |
 | 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:00 | USD | Export Price Index (MoM) (Nov) |  | 0.2% | 0.0% |
-| 13:00 | USD | Import Price Index (MoM) (Nov) |  | -0.1% | 0.0% |
 | 13:15 | CAD | Housing Starts (Dec) |  |  | 254.1K |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,890K | 1,914K |
-| 13:30 | USD | Export Price Index (MoM) (Nov) |  |  | 0.0% |
-| 13:30 | USD | Import Price Index (MoM) (Nov) |  |  | 0.0% |
+| 13:30 | USD | Export Price Index (MoM) (Nov) |  | 0.2% | 0.0% |
+| 13:30 | USD | Import Price Index (MoM) (Nov) |  | -0.1% | 0.0% |
 | 13:30 | USD | NY Empire State Manufacturing Index (Jan) |  | 0.80 | -3.90 |
 | 13:30 | USD | Philly Fed Employment (Jan) |  |  | 12.9 |
 | 13:30 | CAD | Wholesale Sales (MoM) (Nov) |  | 0.1% | 0.1% |
