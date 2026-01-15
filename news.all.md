@@ -42,21 +42,21 @@
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Dec) | 2.9% | 2.9% | 3.0% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Dec) | 0.3% | 0.3% | 0.0% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Dec) | 3.0% | 3.0% | 3.2% |
-| 49 min | EUR | Low | Italian Industrial Production (MoM) (Nov) |  | 0.6% | -1.0% |
-| 49 min | EUR | Low | Italian Industrial Production (YoY) (Nov) |  | -0.6% | -0.3% |
-| 49 min | INR | Low | Exports (USD) (Dec) |  |  | 38.13B |
-| 49 min | INR | Low | Imports (USD) (Dec) |  |  | 62.66B |
-| 49 min | INR | Low | Trade Balance (Dec) |  |  | -24.53B |
-| 49 min | EUR | Low | German GDP Annual |  |  | -0.50% |
-| 49 min | EUR | Moderate | ECB Economic Bulletin |  |  |  |
-| 49 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 09:30 | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
-| 09:40 | EUR | Low | Spanish 50-Year Obligacion Auction |  |  | 3.874% |
-| 09:50 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.212% |
-| 09:50 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.471% |
-| 10:00 | EUR | Moderate | Industrial Production (MoM) (Nov) |  | 0.5% | 0.8% |
-| 10:00 | EUR | Low | Industrial Production (YoY) (Nov) |  | 2.0% | 2.0% |
-| 10:00 | EUR | Moderate | Trade Balance (Nov) |  | 14.8B | 18.4B |
+| 08:40 | INR | Low | Exports (USD) (Dec) | 38.51B |  | 38.13B |
+| 08:40 | INR | Low | Imports (USD) (Dec) | 63.55B |  | 62.66B |
+| 08:40 | INR | Low | Trade Balance (Dec) | -25.04B |  | -24.53B |
+| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Nov) | 1.5% | 0.6% | -1.0% |
+| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Nov) | 1.4% | -0.6% | -0.2% |
+| 09:00 | EUR | Low | German GDP Annual | 0.20% |  | 0.20% |
+| 09:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
+| 09:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 19 min | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
+| 39 min | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.212% |
+| 39 min | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.471% |
+| 39 min | EUR | Low | Spanish 50-Year Obligacion Auction |  |  | 3.874% |
+| 49 min | EUR | Moderate | Industrial Production (MoM) (Nov) |  | 0.5% | 0.8% |
+| 49 min | EUR | Low | Industrial Production (YoY) (Nov) |  | 2.0% | 2.0% |
+| 49 min | EUR | Moderate | Trade Balance (Nov) |  | 14.8B | 18.4B |
 | 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Jan) |  |  | 47.3 |
 | 11:00 | EUR | Low | Italian Trade Balance (Nov) |  | 5.220B | 4.156B |
 | 11:00 | EUR | Low | Italian Trade Balance EU |  |  | -1.31B |

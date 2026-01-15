@@ -31,16 +31,16 @@
 | 08:00 | EUR | Core CPI (YoY) (Dec) | 2.6% | 2.6% | 2.6% |
 | 08:00 | EUR | Spanish CPI (MoM) (Dec) | 0.3% | 0.3% | 0.2% |
 | 08:00 | EUR | Spanish HICP (MoM) (Dec) | 0.3% | 0.3% | 0.0% |
-| 49 min | EUR | Italian Industrial Production (MoM) (Nov) |  | 0.6% | -1.0% |
-| 49 min | EUR | Italian Industrial Production (YoY) (Nov) |  | -0.6% | -0.3% |
-| 49 min | INR | Exports (USD) (Dec) |  |  | 38.13B |
-| 49 min | INR | Imports (USD) (Dec) |  |  | 62.66B |
-| 49 min | INR | Trade Balance (Dec) |  |  | -24.53B |
-| 49 min | EUR | German GDP Annual |  |  | -0.50% |
-| 09:40 | EUR | Spanish 50-Year Obligacion Auction |  |  | 3.874% |
-| 09:50 | EUR | Spanish 3-Year Bonos Auction |  |  | 2.212% |
-| 09:50 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.471% |
-| 10:00 | EUR | Industrial Production (YoY) (Nov) |  | 2.0% | 2.0% |
+| 08:40 | INR | Exports (USD) (Dec) | 38.51B |  | 38.13B |
+| 08:40 | INR | Imports (USD) (Dec) | 63.55B |  | 62.66B |
+| 08:40 | INR | Trade Balance (Dec) | -25.04B |  | -24.53B |
+| 09:00 | EUR | Italian Industrial Production (MoM) (Nov) | 1.5% | 0.6% | -1.0% |
+| 09:00 | EUR | Italian Industrial Production (YoY) (Nov) | 1.4% | -0.6% | -0.2% |
+| 09:00 | EUR | German GDP Annual | 0.20% |  | 0.20% |
+| 39 min | EUR | Spanish 3-Year Bonos Auction |  |  | 2.212% |
+| 39 min | EUR | Spanish 5-Year Bonos Auction |  |  | 2.471% |
+| 39 min | EUR | Spanish 50-Year Obligacion Auction |  |  | 3.874% |
+| 49 min | EUR | Industrial Production (YoY) (Nov) |  | 2.0% | 2.0% |
 | 11:00 | GBP | Thomson Reuters IPSOS PCSI (Jan) |  |  | 47.3 |
 | 11:00 | EUR | Italian Trade Balance (Nov) |  | 5.220B | 4.156B |
 | 11:00 | EUR | Italian Trade Balance EU |  |  | -1.31B |
