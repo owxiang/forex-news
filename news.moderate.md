@@ -14,9 +14,10 @@
 | 08:00 | EUR | Spanish HICP (YoY) (Dec) | 3.0% | 3.0% | 3.2% |
 | 09:00 | EUR | ECB Economic Bulletin |  |  |  |
 | 09:00 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 19 min | GBP | BOE Credit Conditions Survey |  |  |  |
-| 49 min | EUR | Industrial Production (MoM) (Nov) |  | 0.5% | 0.8% |
-| 49 min | EUR | Trade Balance (Nov) |  | 14.8B | 18.4B |
+| 09:30 | GBP | BOE Credit Conditions Survey |  |  |  |
+| 10:00 | EUR | Spanish 15-Year Obligacion Auction | 3.670% |  | 3.616% |
+| 10:00 | EUR | Industrial Production (MoM) (Nov) | 0.7% | 0.5% | 0.7% |
+| 10:00 | EUR | Trade Balance (Nov) | 9.9B | 14.8B | 17.9B |
 | 12:00 | GBP | NIESR Monthly GDP Tracker (Dec) |  |  | -0.1% |
 | 12:00 | BRL | Retail Sales (YoY) (Nov) |  | 0.2% | 1.1% |
 | 12:00 | BRL | Retail Sales (MoM) (Nov) |  | 0.3% | 0.5% |

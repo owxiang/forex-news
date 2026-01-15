@@ -7,7 +7,7 @@
 | 00:00 | KRW | Low | Trade Balance (Dec) | 12.17B | 12.18B | 9.74B |
 | 00:00 | AUD | Low | MI Inflation Expectations (Jan) | 4.6% |  | 4.7% |
 | 00:30 | AUD | Low | Reserve Assets Total (Dec) | 113.9B |  | 113.1B |
-| 01:00 | KRW | Low | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
+| 01:00 | KRW | Low | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates |  |  |  |
 | 01:00 | KRW | Low | Interest Rate Decision (Jan) | 2.50% | 2.50% | 2.50% |
 | 07:00 | GBP | Low | Construction Output (MoM) (Nov) | -1.3% | -0.3% | -1.2% |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (Nov) | -1.1% | 0.1% | 0.9% |
@@ -50,21 +50,21 @@
 | 09:00 | EUR | Low | German GDP Annual | 0.20% |  | 0.20% |
 | 09:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
 | 09:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 19 min | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
-| 39 min | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.212% |
-| 39 min | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.471% |
-| 39 min | EUR | Low | Spanish 50-Year Obligacion Auction |  |  | 3.874% |
-| 49 min | EUR | Moderate | Industrial Production (MoM) (Nov) |  | 0.5% | 0.8% |
-| 49 min | EUR | Low | Industrial Production (YoY) (Nov) |  | 2.0% | 2.0% |
-| 49 min | EUR | Moderate | Trade Balance (Nov) |  | 14.8B | 18.4B |
-| 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Jan) |  |  | 47.3 |
-| 11:00 | EUR | Low | Italian Trade Balance (Nov) |  | 5.220B | 4.156B |
-| 11:00 | EUR | Low | Italian Trade Balance EU |  |  | -1.31B |
-| 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Jan) |  |  | 45.86 |
-| 11:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Jan) |  |  | 46.44 |
-| 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Jan) |  |  | 40.46 |
-| 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 49.54 |
-| 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 47.78 |
+| 09:30 | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
+| 09:40 | EUR | Low | Spanish 50-Year Obligacion Auction | 4.024% |  | 3.874% |
+| 10:00 | EUR | Moderate | Spanish 15-Year Obligacion Auction | 3.670% |  | 3.616% |
+| 10:00 | EUR | Low | Spanish 3-Year Bonos Auction | 2.342% |  | 2.212% |
+| 10:00 | EUR | Moderate | Industrial Production (MoM) (Nov) | 0.7% | 0.5% | 0.7% |
+| 10:00 | EUR | Low | Industrial Production (YoY) (Nov) | 2.5% | 2.0% | 1.7% |
+| 10:00 | EUR | Moderate | Trade Balance (Nov) | 9.9B | 14.8B | 17.9B |
+| 52 min | GBP | Low | Thomson Reuters IPSOS PCSI (Jan) |  |  | 47.3 |
+| 52 min | EUR | Low | Italian Trade Balance (Nov) |  | 5.220B | 4.156B |
+| 52 min | EUR | Low | Italian Trade Balance EU |  |  | -1.31B |
+| 52 min | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Jan) |  |  | 45.86 |
+| 52 min | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Jan) |  |  | 46.44 |
+| 52 min | EUR | Low | France Thomson Reuters IPSOS PCSI (Jan) |  |  | 40.46 |
+| 52 min | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 49.54 |
+| 52 min | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 47.78 |
 | 12:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Dec) |  |  | -0.1% |
 | 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Oct) |  | 1.50% | -0.30% |
 | 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Oct) |  | -4.30% | -6.70% |
