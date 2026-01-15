@@ -1,24 +1,38 @@
-## 14 January 2026 - Moderate Impact Forex News
+## 15 January 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Building Approvals (MoM) (Nov) | 15.2% | 15.2% | -6.1% |
-| 03:00 | CNY | Exports (YoY) (Dec) | 6.6% | 3.0% | 5.9% |
-| 03:00 | CNY | Imports (YoY) (Dec) | 5.7% | 0.9% | 1.9% |
-| 03:00 | CNY | Trade Balance (USD) (Dec) | 114.10B | 114.30B | 111.68B |
-| 06:30 | INR | WPI Inflation (YoY) (Dec) | 0.83% | 0.30% | -0.32% |
-| 08:15 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 13:29 | USD | Core PPI (MoM) (Oct) | 0.3% |  | 0.1% |
-| 13:30 | USD | Core PPI (MoM) (Nov) | 0.0% | 0.2% | 0.4% |
-| 13:30 | USD | Current Account (Q3) | -226.4B | -235.0B | -249.2B |
-| 13:30 | USD | Retail Control (MoM) (Nov) | 0.4% | 0.4% | 0.6% |
-| 15:00 | USD | Business Inventories (MoM) (Oct) | 0.3% | 0.1% | 0.3% |
-| 15:00 | USD | Existing Home Sales (MoM) (Dec) | 5.1% |  | 0.7% |
-| 15:00 | USD | Retail Inventories Ex Auto (Oct) | 0.3% | 0.0% | 0.0% |
-| 15:30 | GBP | MPC Member Ramsden Speaks |  |  |  |
-| 15:30 | USD | Cushing Crude Oil Inventories | 0.745M |  | 0.728M |
-| 17:00 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 17:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
-| 17:30 | USD | Atlanta Fed GDPNow (Q4) | 5.3% | 5.1% | 5.1% |
-| 19:00 | USD | Beige Book |  |  |  |
-| 19:10 | USD | FOMC Member Williams Speaks |  |  |  |
+| 00:01 | GBP | RICS House Price Balance (Dec) | -14% |  | -16% |
+| 07:00 | GBP | Industrial Production (MoM) (Nov) |  | 0.2% | 1.1% |
+| 07:00 | GBP | Manufacturing Production (MoM) (Nov) |  | 0.4% | 0.5% |
+| 07:00 | GBP | Monthly GDP 3M/3M Change (Nov) |  | -0.2% | -0.1% |
+| 07:00 | GBP | Trade Balance (Nov) |  | -20.30B | -22.54B |
+| 07:00 | GBP | Trade Balance Non-EU (Nov) |  |  | -10.26B |
+| 07:45 | EUR | French CPI (MoM) (Dec) |  | 0.1% | -0.2% |
+| 07:45 | EUR | French HICP (MoM) (Dec) |  | 0.1% | 0.1% |
+| 08:00 | EUR | Spanish CPI (YoY) (Dec) |  | 2.9% | 3.0% |
+| 08:00 | EUR | Spanish HICP (YoY) (Dec) |  | 3.0% | 3.2% |
+| 09:00 | EUR | ECB Economic Bulletin |  |  |  |
+| 09:00 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 09:30 | GBP | BOE Credit Conditions Survey |  |  |  |
+| 10:00 | EUR | Industrial Production (MoM) (Nov) |  | 0.5% | 0.8% |
+| 10:00 | EUR | Trade Balance (Nov) |  | 14.8B | 18.4B |
+| 12:00 | GBP | NIESR Monthly GDP Tracker (Dec) |  |  | -0.1% |
+| 12:00 | BRL | Retail Sales (YoY) (Nov) |  | 0.2% | 1.1% |
+| 12:00 | BRL | Retail Sales (MoM) (Nov) |  | 0.3% | 0.5% |
+| 12:00 | CNY | New Loans (Dec) |  | 820.0B | 390.0B |
+| 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 13:00 | USD | Export Price Index (MoM) (Nov) |  | 0.2% | 0.0% |
+| 13:00 | USD | Import Price Index (MoM) (Nov) |  | -0.1% | 0.0% |
+| 13:15 | CAD | Housing Starts (Dec) |  |  | 254.1K |
+| 13:30 | USD | Continuing Jobless Claims |  | 1,890K | 1,914K |
+| 13:30 | USD | Export Price Index (MoM) (Nov) |  |  | 0.0% |
+| 13:30 | USD | Import Price Index (MoM) (Nov) |  |  | 0.0% |
+| 13:30 | USD | NY Empire State Manufacturing Index (Jan) |  | 0.80 | -3.90 |
+| 13:30 | USD | Philly Fed Employment (Jan) |  |  | 12.9 |
+| 13:30 | CAD | Wholesale Sales (MoM) (Nov) |  | 0.1% | 0.1% |
+| 13:35 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 14:15 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 21:00 | USD | TIC Net Long-Term Transactions (Nov) |  | 48.7B | 17.5B |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 6,574B |
+| 21:30 | NZD | Business NZ PMI (Dec) |  |  | 51.4 |
