@@ -18,10 +18,10 @@
 | 10:00 | EUR | Spanish 15-Year Obligacion Auction | 3.670% |  | 3.616% |
 | 10:00 | EUR | Industrial Production (MoM) (Nov) | 0.7% | 0.5% | 0.7% |
 | 10:00 | EUR | Trade Balance (Nov) | 9.9B | 14.8B | 17.9B |
-| 53 min | GBP | NIESR Monthly GDP Tracker (Dec) |  |  | -0.1% |
-| 53 min | BRL | Retail Sales (YoY) (Nov) |  | 0.2% | 1.1% |
-| 53 min | BRL | Retail Sales (MoM) (Nov) |  | 0.3% | 0.5% |
-| 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 12:00 | BRL | Retail Sales (YoY) (Nov) | 1.3% | 0.2% | 1.1% |
+| 12:00 | BRL | Retail Sales (MoM) (Nov) | 1.0% | 0.3% | 0.5% |
+| 16 min | GBP | NIESR Monthly GDP Tracker (Dec) |  |  | -0.1% |
+| 16 min | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:15 | CAD | Housing Starts (Dec) |  |  | 254.1K |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,890K | 1,914K |
 | 13:30 | USD | Export Price Index (MoM) (Nov) |  | 0.2% | 0.0% |

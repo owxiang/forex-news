@@ -48,10 +48,10 @@
 | 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Jan) | 39.77 |  | 40.46 |
 | 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 49.23 |  | 49.54 |
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 49.27 |  | 47.78 |
-| 53 min | MXN | Gross Fixed Investments (MoM) (Oct) |  | 1.50% | -0.30% |
-| 53 min | MXN | Gross Fixed Investments (YoY) (Oct) |  | -4.30% | -6.70% |
-| 13:00 | BRL | Auto Production (MoM) (Dec) |  |  | -11.6% |
-| 13:00 | BRL | Auto Sales (MoM) (Dec) |  |  | -8.5% |
+| 12:00 | MXN | Gross Fixed Investments (MoM) (Oct) | 0.90% | 1.50% | -0.30% |
+| 12:00 | MXN | Gross Fixed Investments (YoY) (Oct) | -5.50% | -4.30% | -6.70% |
+| 46 min | BRL | Auto Production (MoM) (Dec) |  |  | -11.6% |
+| 46 min | BRL | Auto Sales (MoM) (Dec) |  |  | -8.5% |
 | 13:30 | USD | Export Price Index (YoY) (Nov) |  |  | 3.8% |
 | 13:30 | USD | Import Price Index (YoY) (Nov) |  |  | 0.3% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 211.75K |

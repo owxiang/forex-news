@@ -65,14 +65,14 @@
 | 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Jan) | 39.77 |  | 40.46 |
 | 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 49.23 |  | 49.54 |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 49.27 |  | 47.78 |
-| 53 min | GBP | Moderate | NIESR Monthly GDP Tracker (Dec) |  |  | -0.1% |
-| 53 min | MXN | Low | Gross Fixed Investments (MoM) (Oct) |  | 1.50% | -0.30% |
-| 53 min | MXN | Low | Gross Fixed Investments (YoY) (Oct) |  | -4.30% | -6.70% |
-| 53 min | BRL | Moderate | Retail Sales (YoY) (Nov) |  | 0.2% | 1.1% |
-| 53 min | BRL | Moderate | Retail Sales (MoM) (Nov) |  | 0.3% | 0.5% |
-| 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:00 | BRL | Low | Auto Production (MoM) (Dec) |  |  | -11.6% |
-| 13:00 | BRL | Low | Auto Sales (MoM) (Dec) |  |  | -8.5% |
+| 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Oct) | 0.90% | 1.50% | -0.30% |
+| 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Oct) | -5.50% | -4.30% | -6.70% |
+| 12:00 | BRL | Moderate | Retail Sales (YoY) (Nov) | 1.3% | 0.2% | 1.1% |
+| 12:00 | BRL | Moderate | Retail Sales (MoM) (Nov) | 1.0% | 0.3% | 0.5% |
+| 16 min | GBP | Moderate | NIESR Monthly GDP Tracker (Dec) |  |  | -0.1% |
+| 16 min | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 46 min | BRL | Low | Auto Production (MoM) (Dec) |  |  | -11.6% |
+| 46 min | BRL | Low | Auto Sales (MoM) (Dec) |  |  | -8.5% |
 | 13:15 | CAD | Moderate | Housing Starts (Dec) |  |  | 254.1K |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,890K | 1,914K |
 | 13:30 | USD | Moderate | Export Price Index (MoM) (Nov) |  | 0.2% | 0.0% |
