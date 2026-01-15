@@ -30,26 +30,26 @@
 | 07:00 | IDR | Low | Foreign Direct Investment (YoY) (Q4) | 4.30% |  | 4.30% |
 | 07:00 | NOK | Low | Industrial Confidence (Q4) | 2.6 |  | 0.2 |
 | 07:00 | NOK | Low | Trade Balance (Dec) | 42.9B |  | 41.3B |
-| 34 min | EUR | Low | French CPI NSA (MoM) (Dec) |  |  | 0.10% |
-| 34 min | EUR | Low | French CPI NSA (YoY) (Dec) |  |  | 0.80% |
-| 34 min | EUR | Moderate | French CPI (MoM) (Dec) |  | 0.1% | -0.2% |
-| 34 min | EUR | Low | French CPI (YoY) (Dec) |  | 0.8% | 0.9% |
-| 34 min | EUR | Moderate | French HICP (MoM) (Dec) |  | 0.1% | -0.2% |
-| 34 min | EUR | Low | French HICP (YoY) (Dec) |  | 0.7% | 0.8% |
-| 34 min | EUR | Low | France Inflation Ex-Tobacco (YoY) (Dec) |  |  | 0.90% |
-| 49 min | EUR | Low | Core CPI (YoY) (Dec) |  | 2.6% | 2.6% |
-| 49 min | EUR | Low | Spanish CPI (MoM) (Dec) |  | 0.3% | 0.2% |
-| 49 min | EUR | Moderate | Spanish CPI (YoY) (Dec) |  | 2.9% | 3.0% |
-| 49 min | EUR | Low | Spanish HICP (MoM) (Dec) |  | 0.3% | 0.0% |
-| 49 min | EUR | Moderate | Spanish HICP (YoY) (Dec) |  | 3.0% | 3.2% |
-| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Nov) |  | 0.6% | -1.0% |
-| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Nov) |  | -0.6% | -0.3% |
-| 09:00 | INR | Low | Exports (USD) (Dec) |  |  | 38.13B |
-| 09:00 | INR | Low | Imports (USD) (Dec) |  |  | 62.66B |
-| 09:00 | INR | Low | Trade Balance (Dec) |  |  | -24.53B |
-| 09:00 | EUR | Low | German GDP Annual |  |  | -0.50% |
-| 09:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
-| 09:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 07:45 | EUR | Low | French CPI NSA (MoM) (Dec) | 0.10% |  | 0.10% |
+| 07:45 | EUR | Low | French CPI NSA (YoY) (Dec) | 0.80% |  | 0.80% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Dec) | 0.1% | 0.1% | -0.2% |
+| 07:45 | EUR | Low | French CPI (YoY) (Dec) | 0.8% | 0.8% | 0.9% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Dec) | 0.1% | 0.1% | -0.2% |
+| 07:45 | EUR | Low | French HICP (YoY) (Dec) | 0.7% | 0.7% | 0.8% |
+| 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Dec) | 0.70% |  | 0.90% |
+| 08:00 | EUR | Low | Core CPI (YoY) (Dec) | 2.6% | 2.6% | 2.6% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Dec) | 0.3% | 0.3% | 0.2% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Dec) | 2.9% | 2.9% | 3.0% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Dec) | 0.3% | 0.3% | 0.0% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Dec) | 3.0% | 3.0% | 3.2% |
+| 49 min | EUR | Low | Italian Industrial Production (MoM) (Nov) |  | 0.6% | -1.0% |
+| 49 min | EUR | Low | Italian Industrial Production (YoY) (Nov) |  | -0.6% | -0.3% |
+| 49 min | INR | Low | Exports (USD) (Dec) |  |  | 38.13B |
+| 49 min | INR | Low | Imports (USD) (Dec) |  |  | 62.66B |
+| 49 min | INR | Low | Trade Balance (Dec) |  |  | -24.53B |
+| 49 min | EUR | Low | German GDP Annual |  |  | -0.50% |
+| 49 min | EUR | Moderate | ECB Economic Bulletin |  |  |  |
+| 49 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 09:30 | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
 | 09:40 | EUR | Low | Spanish 50-Year Obligacion Auction |  |  | 3.874% |
 | 09:50 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.212% |

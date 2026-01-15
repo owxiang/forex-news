@@ -23,20 +23,20 @@
 | 07:00 | IDR | Foreign Direct Investment (YoY) (Q4) | 4.30% |  | 4.30% |
 | 07:00 | NOK | Industrial Confidence (Q4) | 2.6 |  | 0.2 |
 | 07:00 | NOK | Trade Balance (Dec) | 42.9B |  | 41.3B |
-| 34 min | EUR | French CPI NSA (MoM) (Dec) |  |  | 0.10% |
-| 34 min | EUR | French CPI NSA (YoY) (Dec) |  |  | 0.80% |
-| 34 min | EUR | French CPI (YoY) (Dec) |  | 0.8% | 0.9% |
-| 34 min | EUR | French HICP (YoY) (Dec) |  | 0.7% | 0.8% |
-| 34 min | EUR | France Inflation Ex-Tobacco (YoY) (Dec) |  |  | 0.90% |
-| 49 min | EUR | Core CPI (YoY) (Dec) |  | 2.6% | 2.6% |
-| 49 min | EUR | Spanish CPI (MoM) (Dec) |  | 0.3% | 0.2% |
-| 49 min | EUR | Spanish HICP (MoM) (Dec) |  | 0.3% | 0.0% |
-| 09:00 | EUR | Italian Industrial Production (MoM) (Nov) |  | 0.6% | -1.0% |
-| 09:00 | EUR | Italian Industrial Production (YoY) (Nov) |  | -0.6% | -0.3% |
-| 09:00 | INR | Exports (USD) (Dec) |  |  | 38.13B |
-| 09:00 | INR | Imports (USD) (Dec) |  |  | 62.66B |
-| 09:00 | INR | Trade Balance (Dec) |  |  | -24.53B |
-| 09:00 | EUR | German GDP Annual |  |  | -0.50% |
+| 07:45 | EUR | French CPI NSA (MoM) (Dec) | 0.10% |  | 0.10% |
+| 07:45 | EUR | French CPI NSA (YoY) (Dec) | 0.80% |  | 0.80% |
+| 07:45 | EUR | French CPI (YoY) (Dec) | 0.8% | 0.8% | 0.9% |
+| 07:45 | EUR | French HICP (YoY) (Dec) | 0.7% | 0.7% | 0.8% |
+| 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Dec) | 0.70% |  | 0.90% |
+| 08:00 | EUR | Core CPI (YoY) (Dec) | 2.6% | 2.6% | 2.6% |
+| 08:00 | EUR | Spanish CPI (MoM) (Dec) | 0.3% | 0.3% | 0.2% |
+| 08:00 | EUR | Spanish HICP (MoM) (Dec) | 0.3% | 0.3% | 0.0% |
+| 49 min | EUR | Italian Industrial Production (MoM) (Nov) |  | 0.6% | -1.0% |
+| 49 min | EUR | Italian Industrial Production (YoY) (Nov) |  | -0.6% | -0.3% |
+| 49 min | INR | Exports (USD) (Dec) |  |  | 38.13B |
+| 49 min | INR | Imports (USD) (Dec) |  |  | 62.66B |
+| 49 min | INR | Trade Balance (Dec) |  |  | -24.53B |
+| 49 min | EUR | German GDP Annual |  |  | -0.50% |
 | 09:40 | EUR | Spanish 50-Year Obligacion Auction |  |  | 3.874% |
 | 09:50 | EUR | Spanish 3-Year Bonos Auction |  |  | 2.212% |
 | 09:50 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.471% |
