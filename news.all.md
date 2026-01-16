@@ -22,16 +22,16 @@
 | 10:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 11:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Jan) | 0.3% |  | 0.0% |
 | 11:30 | INR | Low | FX Reserves, USD | 687.19B |  | 686.80B |
-| 12:00 | BRL | Low | IBC-Br Economic Activity (Nov) | 0.70% | 0.30% | 0.70% |
-| 12:00 | BRL | Low | Brazilian PPI (MoM) (Nov) | -0.37% |  | -0.37% |
-| 47 min | GBP | Moderate | NIESR Monthly GDP Tracker (Dec) |  |  | -0.1% |
-| 13:15 | CAD | Moderate | Housing Starts (Dec) |  | 257.0K | 254.1K |
-| 13:30 | CAD | Moderate | Foreign Securities Purchases (Nov) |  | 24.61B | 46.62B |
-| 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Nov) |  |  | -11.580B |
-| 14:15 | USD | Low | Capacity Utilization Rate (Dec) |  | 76.0% | 76.0% |
-| 14:15 | USD | Moderate | Industrial Production (MoM) (Dec) |  | 0.1% | 0.2% |
-| 14:15 | USD | Moderate | Industrial Production (YoY) (Dec) |  |  | 2.52% |
-| 14:15 | USD | Low | Manufacturing Production (MoM) (Dec) |  | -0.2% | 0.0% |
+| 12:00 | BRL | Low | IBC-Br Economic Activity (Nov) | 0.70% | 0.30% | -0.20% |
+| 12:00 | BRL | Low | Brazilian PPI (MoM) (Nov) | -0.37% |  | -0.47% |
+| 13:15 | CAD | Moderate | Housing Starts (Dec) | 282.4K | 257.0K | 254.6K |
+| 11 min | CAD | Moderate | Foreign Securities Purchases (Nov) |  | 24.61B | 46.62B |
+| 11 min | CAD | Low | Foreign Securities Purchases by Canadians (Nov) |  |  | -11.580B |
+| 41 min | GBP | Moderate | NIESR Monthly GDP Tracker (Dec) |  |  | -0.1% |
+| 56 min | USD | Low | Capacity Utilization Rate (Dec) |  | 76.0% | 76.0% |
+| 56 min | USD | Moderate | Industrial Production (MoM) (Dec) |  | 0.1% | 0.2% |
+| 56 min | USD | Moderate | Industrial Production (YoY) (Dec) |  |  | 2.52% |
+| 56 min | USD | Low | Manufacturing Production (MoM) (Dec) |  | -0.2% | 0.0% |
 | 15:00 | USD | Low | NAHB Housing Market Index (Jan) |  | 40 | 39 |
 | 15:50 | USD | Low | Fed Collins Speaks |  |  |  |
 | 16:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |

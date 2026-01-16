@@ -19,11 +19,11 @@
 | 09:00 | EUR | Italian HICP (MoM) (Dec) | 0.2% | 0.2% | -0.2% |
 | 11:00 | BRL | IGP-10 Inflation Index (MoM) (Jan) | 0.3% |  | 0.0% |
 | 11:30 | INR | FX Reserves, USD | 687.19B |  | 686.80B |
-| 12:00 | BRL | IBC-Br Economic Activity (Nov) | 0.70% | 0.30% | 0.70% |
-| 12:00 | BRL | Brazilian PPI (MoM) (Nov) | -0.37% |  | -0.37% |
-| 13:30 | CAD | Foreign Securities Purchases by Canadians (Nov) |  |  | -11.580B |
-| 14:15 | USD | Capacity Utilization Rate (Dec) |  | 76.0% | 76.0% |
-| 14:15 | USD | Manufacturing Production (MoM) (Dec) |  | -0.2% | 0.0% |
+| 12:00 | BRL | IBC-Br Economic Activity (Nov) | 0.70% | 0.30% | -0.20% |
+| 12:00 | BRL | Brazilian PPI (MoM) (Nov) | -0.37% |  | -0.47% |
+| 11 min | CAD | Foreign Securities Purchases by Canadians (Nov) |  |  | -11.580B |
+| 56 min | USD | Capacity Utilization Rate (Dec) |  | 76.0% | 76.0% |
+| 56 min | USD | Manufacturing Production (MoM) (Dec) |  | -0.2% | 0.0% |
 | 15:00 | USD | NAHB Housing Market Index (Jan) |  | 40 | 39 |
 | 15:50 | USD | Fed Collins Speaks |  |  |  |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -2.7K |
