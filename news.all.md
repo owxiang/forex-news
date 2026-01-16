@@ -34,8 +34,8 @@
 | 15:00 | USD | Low | NAHB Housing Market Index (Jan) | 37 | 40 | 39 |
 | 15:50 | USD | Low | Fed Collins Speaks |  |  |  |
 | 16:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 50 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 409 |
-| 50 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 542 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 410 |  | 409 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 543 |  | 544 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -30.5K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -2.7K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 57.9K |
