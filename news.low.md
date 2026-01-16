@@ -26,15 +26,15 @@
 | 14:15 | USD | Manufacturing Production (MoM) (Dec) | 0.2% | -0.2% | 0.3% |
 | 15:00 | USD | NAHB Housing Market Index (Jan) | 37 | 40 | 39 |
 | 15:50 | USD | Fed Collins Speaks |  |  |  |
-| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -2.7K |
-| 20:30 | USD | CFTC Copper speculative net positions |  |  | 57.9K |
-| 20:30 | USD | CFTC Corn speculative net positions |  |  | 60.1K |
-| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -165.6K |
-| 20:30 | USD | CFTC Silver speculative net positions |  |  | 29.3K |
-| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 104.8K |
-| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -88.1K |
-| 20:30 | USD | Fed Governor Jefferson Speaks |  |  |  |
-| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -40.6K |
-| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 109.3K |
-| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -40.3K |
-| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -43.4K |
+| 22 min | USD | CFTC Aluminium speculative net positions |  |  | -2.7K |
+| 22 min | USD | CFTC Copper speculative net positions |  |  | 57.9K |
+| 22 min | USD | CFTC Corn speculative net positions |  |  | 60.1K |
+| 22 min | USD | CFTC Natural Gas speculative net positions |  |  | -165.6K |
+| 22 min | USD | CFTC Silver speculative net positions |  |  | 29.3K |
+| 22 min | USD | CFTC Soybeans speculative net positions |  |  | 104.8K |
+| 22 min | USD | CFTC Wheat speculative net positions |  |  | -88.1K |
+| 22 min | USD | Fed Governor Jefferson Speaks |  |  |  |
+| 22 min | CAD | CFTC CAD speculative net positions |  |  | -40.6K |
+| 22 min | MXN | CFTC MXN speculative net positions |  |  | 109.3K |
+| 22 min | CHF | CFTC CHF speculative net positions |  |  | -40.3K |
+| 22 min | NZD | CFTC NZD speculative net positions |  |  | -43.4K |
