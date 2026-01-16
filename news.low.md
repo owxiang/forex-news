@@ -22,10 +22,10 @@
 | 12:00 | BRL | IBC-Br Economic Activity (Nov) | 0.70% | 0.30% | -0.20% |
 | 12:00 | BRL | Brazilian PPI (MoM) (Nov) | -0.37% |  | -0.47% |
 | 13:30 | CAD | Foreign Securities Purchases by Canadians (Nov) | 16.490B |  | -11.580B |
-| 7 min | USD | Capacity Utilization Rate (Dec) |  | 76.0% | 76.0% |
-| 7 min | USD | Manufacturing Production (MoM) (Dec) |  | -0.2% | 0.0% |
-| 52 min | USD | NAHB Housing Market Index (Jan) |  | 40 | 39 |
-| 15:50 | USD | Fed Collins Speaks |  |  |  |
+| 14:15 | USD | Capacity Utilization Rate (Dec) | 76.3% | 76.0% | 76.1% |
+| 14:15 | USD | Manufacturing Production (MoM) (Dec) | 0.2% | -0.2% | 0.3% |
+| 15:00 | USD | NAHB Housing Market Index (Jan) | 37 | 40 | 39 |
+| 41 min | USD | Fed Collins Speaks |  |  |  |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -2.7K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 57.9K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 60.1K |

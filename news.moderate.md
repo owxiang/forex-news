@@ -6,9 +6,9 @@
 | 10:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 13:15 | CAD | Housing Starts (Dec) | 282.4K | 257.0K | 254.6K |
 | 13:30 | CAD | Foreign Securities Purchases (Nov) | 16.33B | 24.61B | 46.62B |
-| 7 min | USD | Industrial Production (MoM) (Dec) |  | 0.1% | 0.2% |
-| 7 min | USD | Industrial Production (YoY) (Dec) |  |  | 2.52% |
-| 16:00 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 14:15 | USD | Industrial Production (MoM) (Dec) | 0.4% | 0.1% | 0.4% |
+| 14:15 | USD | Industrial Production (YoY) (Dec) | 2.00% |  | 2.52% |
+| 51 min | USD | FOMC Member Bowman Speaks |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 409 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 542 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -30.5K |

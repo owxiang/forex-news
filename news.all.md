@@ -27,13 +27,13 @@
 | 13:15 | CAD | Moderate | Housing Starts (Dec) | 282.4K | 257.0K | 254.6K |
 | 13:30 | CAD | Moderate | Foreign Securities Purchases (Nov) | 16.33B | 24.61B | 46.62B |
 | 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Nov) | 16.490B |  | -11.580B |
-| 7 min | USD | Low | Capacity Utilization Rate (Dec) |  | 76.0% | 76.0% |
-| 7 min | USD | Moderate | Industrial Production (MoM) (Dec) |  | 0.1% | 0.2% |
-| 7 min | USD | Moderate | Industrial Production (YoY) (Dec) |  |  | 2.52% |
-| 7 min | USD | Low | Manufacturing Production (MoM) (Dec) |  | -0.2% | 0.0% |
-| 52 min | USD | Low | NAHB Housing Market Index (Jan) |  | 40 | 39 |
-| 15:50 | USD | Low | Fed Collins Speaks |  |  |  |
-| 16:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 14:15 | USD | Low | Capacity Utilization Rate (Dec) | 76.3% | 76.0% | 76.1% |
+| 14:15 | USD | Moderate | Industrial Production (MoM) (Dec) | 0.4% | 0.1% | 0.4% |
+| 14:15 | USD | Moderate | Industrial Production (YoY) (Dec) | 2.00% |  | 2.52% |
+| 14:15 | USD | Low | Manufacturing Production (MoM) (Dec) | 0.2% | -0.2% | 0.3% |
+| 15:00 | USD | Low | NAHB Housing Market Index (Jan) | 37 | 40 | 39 |
+| 41 min | USD | Low | Fed Collins Speaks |  |  |  |
+| 51 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 409 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 542 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -30.5K |
