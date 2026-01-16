@@ -28,7 +28,7 @@
 | 13:15 | CAD | Moderate | Housing Starts (Dec) |  | 257.0K | 254.1K |
 | 13:30 | CAD | Moderate | Foreign Securities Purchases (Nov) |  | 24.61B | 46.62B |
 | 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Nov) |  |  | -11.580B |
-| 14:15 | USD | Low | Capacity Utilization Rate (Dec) |  | 76.1% | 76.0% |
+| 14:15 | USD | Low | Capacity Utilization Rate (Dec) |  | 76.0% | 76.0% |
 | 14:15 | USD | Moderate | Industrial Production (MoM) (Dec) |  | 0.1% | 0.2% |
 | 14:15 | USD | Moderate | Industrial Production (YoY) (Dec) |  |  | 2.52% |
 | 14:15 | USD | Low | Manufacturing Production (MoM) (Dec) |  | -0.2% | 0.0% |
