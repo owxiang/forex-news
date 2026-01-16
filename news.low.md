@@ -12,11 +12,11 @@
 | 02:00 | CNY | China Thomson Reuters IPSOS PCSI (Jan) | 72.75 |  | 70.42 |
 | 07:00 | EUR | German HICP (MoM) (Dec) | 0.2% | 0.2% | -0.5% |
 | 07:00 | EUR | German HICP (YoY) (Dec) | 2.0% | 2.0% | 2.6% |
-| 50 min | EUR | Italian CPI (MoM) (Dec) |  | 0.2% | -0.2% |
-| 50 min | EUR | Italian CPI (YoY) (Dec) |  | 1.2% | 1.1% |
-| 50 min | EUR | Italian CPI Ex Tobacco (YoY) (Dec) |  |  | 1.0% |
-| 50 min | EUR | Italian HICP (MoM) (Dec) |  | 0.2% | -0.2% |
-| 50 min | EUR | Italian HICP (YoY) (Dec) |  | 1.2% | 1.1% |
+| 09:00 | EUR | Italian CPI (MoM) (Dec) | 0.2% | 0.2% | -0.2% |
+| 09:00 | EUR | Italian CPI (YoY) (Dec) | 1.2% | 1.2% | 1.1% |
+| 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Dec) | 1.1% |  | 1.0% |
+| 09:00 | EUR | Italian HICP (MoM) (Dec) | 0.2% | 0.2% | -0.2% |
+| 09:00 | EUR | Italian HICP (YoY) (Dec) | 1.2% | 1.2% | 1.1% |
 | 11:00 | BRL | IGP-10 Inflation Index (MoM) (Jan) |  |  | 0.0% |
 | 11:30 | INR | FX Reserves, USD |  |  | 686.80B |
 | 12:00 | BRL | IBC-Br Economic Activity (Nov) |  | 0.30% | -0.20% |

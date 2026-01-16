@@ -14,12 +14,12 @@
 | 07:00 | EUR | Moderate | German CPI (YoY) (Dec) | 1.8% | 1.8% | 2.3% |
 | 07:00 | EUR | Low | German HICP (MoM) (Dec) | 0.2% | 0.2% | -0.5% |
 | 07:00 | EUR | Low | German HICP (YoY) (Dec) | 2.0% | 2.0% | 2.6% |
-| 50 min | EUR | Low | Italian CPI (MoM) (Dec) |  | 0.2% | -0.2% |
-| 50 min | EUR | Low | Italian CPI (YoY) (Dec) |  | 1.2% | 1.1% |
-| 50 min | EUR | Low | Italian CPI Ex Tobacco (YoY) (Dec) |  |  | 1.0% |
-| 50 min | EUR | Low | Italian HICP (MoM) (Dec) |  | 0.2% | -0.2% |
-| 50 min | EUR | Low | Italian HICP (YoY) (Dec) |  | 1.2% | 1.1% |
-| 10:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 09:00 | EUR | Low | Italian CPI (MoM) (Dec) | 0.2% | 0.2% | -0.2% |
+| 09:00 | EUR | Low | Italian CPI (YoY) (Dec) | 1.2% | 1.2% | 1.1% |
+| 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Dec) | 1.1% |  | 1.0% |
+| 09:00 | EUR | Low | Italian HICP (MoM) (Dec) | 0.2% | 0.2% | -0.2% |
+| 09:00 | EUR | Low | Italian HICP (YoY) (Dec) | 1.2% | 1.2% | 1.1% |
+| 50 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 11:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Jan) |  |  | 0.0% |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 686.80B |
 | 12:00 | BRL | Low | IBC-Br Economic Activity (Nov) |  | 0.30% | -0.20% |
