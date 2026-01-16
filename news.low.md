@@ -18,9 +18,9 @@
 | 09:00 | EUR | Italian HICP (YoY) (Dec) | 1.2% | 1.2% | 1.1% |
 | 09:00 | EUR | Italian HICP (MoM) (Dec) | 0.2% | 0.2% | -0.2% |
 | 11:00 | BRL | IGP-10 Inflation Index (MoM) (Jan) | 0.3% |  | 0.0% |
-| 23 min | INR | FX Reserves, USD |  |  | 686.80B |
-| 53 min | BRL | IBC-Br Economic Activity (Nov) |  | 0.30% | -0.20% |
-| 53 min | BRL | Brazilian PPI (MoM) (Nov) |  |  | -0.48% |
+| 11:30 | INR | FX Reserves, USD | 687.19B |  | 686.80B |
+| 12:00 | BRL | IBC-Br Economic Activity (Nov) | 0.70% | 0.30% | 0.70% |
+| 12:00 | BRL | Brazilian PPI (MoM) (Nov) | -0.37% |  | -0.37% |
 | 13:30 | CAD | Foreign Securities Purchases by Canadians (Nov) |  |  | -11.580B |
 | 14:15 | USD | Capacity Utilization Rate (Dec) |  | 76.0% | 76.0% |
 | 14:15 | USD | Manufacturing Production (MoM) (Dec) |  | -0.2% | 0.0% |
