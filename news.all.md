@@ -5,11 +5,11 @@
 | 00:30 | SGD | Low | Non-Oil Exports (MoM) (Dec) | -9.40% | -4.50% | 7.10% |
 | 00:30 | SGD | Low | Non-Oil Exports (YoY) (Dec) | 6.10% | 10.00% | 11.50% |
 | 00:30 | SGD | Low | Trade Balance (Dec) | 2.205B |  | 7.667B |
-| 24 min | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 47.26 |
-| 24 min | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 59.31 |
-| 24 min | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 50.80 |
-| 24 min | JPY | Low | Thomson Reuters IPSOS PCSI (Jan) |  |  | 40.96 |
-| 24 min | CNY | Low | China Thomson Reuters IPSOS PCSI (Jan) |  |  | 70.42 |
+| 02:00 | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 44.81 |  | 47.26 |
+| 02:00 | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 60.73 |  | 59.31 |
+| 02:00 | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 53.89 |  | 50.80 |
+| 02:00 | JPY | Low | Thomson Reuters IPSOS PCSI (Jan) | 41.37 |  | 40.96 |
+| 02:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Jan) | 72.75 |  | 70.42 |
 | 07:00 | EUR | High | German CPI (MoM) (Dec) |  | 0.0% | -0.2% |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Dec) |  | 1.8% | 2.3% |
 | 07:00 | EUR | Low | German HICP (MoM) (Dec) |  | 0.2% | -0.5% |

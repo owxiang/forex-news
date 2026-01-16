@@ -5,11 +5,11 @@
 | 00:30 | SGD | Non-Oil Exports (MoM) (Dec) | -9.40% | -4.50% | 7.10% |
 | 00:30 | SGD | Non-Oil Exports (YoY) (Dec) | 6.10% | 10.00% | 11.50% |
 | 00:30 | SGD | Trade Balance (Dec) | 2.205B |  | 7.667B |
-| 24 min | KRW | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 47.26 |
-| 24 min | INR | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 59.31 |
-| 24 min | AUD | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 50.80 |
-| 24 min | JPY | Thomson Reuters IPSOS PCSI (Jan) |  |  | 40.96 |
-| 24 min | CNY | China Thomson Reuters IPSOS PCSI (Jan) |  |  | 70.42 |
+| 02:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 44.81 |  | 47.26 |
+| 02:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 60.73 |  | 59.31 |
+| 02:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 53.89 |  | 50.80 |
+| 02:00 | JPY | Thomson Reuters IPSOS PCSI (Jan) | 41.37 |  | 40.96 |
+| 02:00 | CNY | China Thomson Reuters IPSOS PCSI (Jan) | 72.75 |  | 70.42 |
 | 07:00 | EUR | German HICP (MoM) (Dec) |  | 0.2% | -0.5% |
 | 07:00 | EUR | German HICP (YoY) (Dec) |  | 2.0% | 2.6% |
 | 09:00 | EUR | Italian CPI (MoM) (Dec) |  | 0.2% | -0.2% |
