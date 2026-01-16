@@ -5,10 +5,9 @@
 | 07:00 | EUR | German CPI (YoY) (Dec) | 1.8% | 1.8% | 2.3% |
 | 10:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 13:15 | CAD | Housing Starts (Dec) | 282.4K | 257.0K | 254.6K |
-| 11 min | CAD | Foreign Securities Purchases (Nov) |  | 24.61B | 46.62B |
-| 41 min | GBP | NIESR Monthly GDP Tracker (Dec) |  |  | -0.1% |
-| 56 min | USD | Industrial Production (MoM) (Dec) |  | 0.1% | 0.2% |
-| 56 min | USD | Industrial Production (YoY) (Dec) |  |  | 2.52% |
+| 13:30 | CAD | Foreign Securities Purchases (Nov) | 16.33B | 24.61B | 46.62B |
+| 7 min | USD | Industrial Production (MoM) (Dec) |  | 0.1% | 0.2% |
+| 7 min | USD | Industrial Production (YoY) (Dec) |  |  | 2.52% |
 | 16:00 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 409 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 542 |
