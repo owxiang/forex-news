@@ -17,10 +17,10 @@
 | 09:00 | EUR | Low | Italian CPI (MoM) (Dec) | 0.2% | 0.2% | -0.2% |
 | 09:00 | EUR | Low | Italian CPI (YoY) (Dec) | 1.2% | 1.2% | 1.1% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Dec) | 1.1% |  | 1.0% |
-| 09:00 | EUR | Low | Italian HICP (MoM) (Dec) | 0.2% | 0.2% | -0.2% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (Dec) | 1.2% | 1.2% | 1.1% |
-| 50 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 11:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Jan) |  |  | 0.0% |
+| 09:00 | EUR | Low | Italian HICP (MoM) (Dec) | 0.2% | 0.2% | -0.2% |
+| 10:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 52 min | BRL | Low | IGP-10 Inflation Index (MoM) (Jan) |  |  | 0.0% |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 686.80B |
 | 12:00 | BRL | Low | IBC-Br Economic Activity (Nov) |  | 0.30% | -0.20% |
 | 12:00 | BRL | Low | Brazilian PPI (MoM) (Nov) |  |  | -0.48% |
@@ -33,6 +33,7 @@
 | 14:15 | USD | Moderate | Industrial Production (YoY) (Dec) |  |  | 2.52% |
 | 14:15 | USD | Low | Manufacturing Production (MoM) (Dec) |  | -0.2% | 0.0% |
 | 15:00 | USD | Low | NAHB Housing Market Index (Jan) |  | 40 | 39 |
+| 15:50 | USD | Low | Fed Collins Speaks |  |  |  |
 | 16:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 409 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 542 |
