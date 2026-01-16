@@ -9,8 +9,8 @@
 | 14:15 | USD | Industrial Production (MoM) (Dec) | 0.4% | 0.1% | 0.4% |
 | 14:15 | USD | Industrial Production (YoY) (Dec) | 1.99% |  | 2.68% |
 | 16:00 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 409 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 542 |
+| 50 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 409 |
+| 50 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 542 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -30.5K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 57.4K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 227.6K |
