@@ -1,73 +1,39 @@
-## 15 January 2026 - Low Impact Forex News
+## 16 January 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Exports (YoY) (Dec) | 13.3% | 13.4% | 8.4% |
-| 00:00 | KRW | Imports (YoY) (Dec) | 4.6% | 4.6% | 1.1% |
-| 00:00 | KRW | Trade Balance (Dec) | 12.17B | 12.18B | 9.74B |
-| 00:00 | AUD | MI Inflation Expectations (Jan) | 4.6% |  | 4.7% |
-| 00:30 | AUD | Reserve Assets Total (Dec) | 113.9B |  | 113.1B |
-| 01:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates |  |  |  |
-| 01:00 | KRW | Interest Rate Decision (Jan) | 2.50% | 2.50% | 2.50% |
-| 07:00 | GBP | Construction Output (MoM) (Nov) | -1.3% | -0.3% | -1.2% |
-| 07:00 | GBP | U.K. Construction Output (YoY) (Nov) | -1.1% | 0.1% | 0.9% |
-| 07:00 | GBP | GDP (YoY) (Nov) | 1.4% | 1.1% | 1.1% |
-| 07:00 | GBP | Index of Services | 0.2% | 0.0% | 0.1% |
-| 07:00 | GBP | Industrial Production (YoY) (Nov) | 2.3% | -0.4% | 0.4% |
-| 07:00 | GBP | Manufacturing Production (YoY) (Nov) | 2.1% | -0.3% | -0.2% |
-| 07:00 | EUR | German WPI (MoM) (Dec) | -0.2% | 0.2% | 0.3% |
-| 07:00 | EUR | German WPI (YoY) (Dec) | 1.2% |  | 1.5% |
-| 07:00 | CNY | M2 Money Stock (YoY) (Dec) | 8.5% | 8.0% | 8.0% |
-| 07:00 | CNY | Outstanding Loan Growth (YoY) (Dec) | 6.4% | 6.3% | 6.4% |
-| 07:00 | CNY | Chinese Total Social Financing (Dec) | 2,210.0B | 2,000.0B | 2,490.0B |
-| 07:00 | IDR | Foreign Direct Investment (YoY) (Q4) | 4.30% |  | 4.30% |
-| 07:00 | NOK | Industrial Confidence (Q4) | 2.6 |  | 0.2 |
-| 07:00 | NOK | Trade Balance (Dec) | 42.9B |  | 41.3B |
-| 07:45 | EUR | French CPI NSA (MoM) (Dec) | 0.10% |  | 0.10% |
-| 07:45 | EUR | French CPI NSA (YoY) (Dec) | 0.80% |  | 0.80% |
-| 07:45 | EUR | French CPI (YoY) (Dec) | 0.8% | 0.8% | 0.9% |
-| 07:45 | EUR | French HICP (YoY) (Dec) | 0.7% | 0.7% | 0.8% |
-| 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Dec) | 0.70% |  | 0.90% |
-| 08:00 | EUR | Core CPI (YoY) (Dec) | 2.6% | 2.6% | 2.6% |
-| 08:00 | EUR | Spanish CPI (MoM) (Dec) | 0.3% | 0.3% | 0.2% |
-| 08:00 | EUR | Spanish HICP (MoM) (Dec) | 0.3% | 0.3% | 0.0% |
-| 08:40 | INR | Exports (USD) (Dec) | 38.51B |  | 38.13B |
-| 08:40 | INR | Imports (USD) (Dec) | 63.55B |  | 62.66B |
-| 08:40 | INR | Trade Balance (Dec) | -25.04B |  | -24.53B |
-| 09:00 | EUR | Italian Industrial Production (MoM) (Nov) | 1.5% | 0.6% | -1.0% |
-| 09:00 | EUR | Italian Industrial Production (YoY) (Nov) | 1.4% | -0.6% | -0.2% |
-| 09:00 | EUR | Italian Trade Balance (Nov) | 5.078B | 5.220B | 4.183B |
-| 09:00 | EUR | Italian Trade Balance EU (Nov) | -1.96B |  | -1.28B |
-| 09:00 | EUR | German GDP Annual | 0.20% |  | 0.20% |
-| 09:40 | EUR | Spanish 50-Year Obligacion Auction | 4.024% |  | 3.874% |
-| 10:00 | EUR | Spanish 3-Year Bonos Auction | 2.342% |  | 2.212% |
-| 10:00 | EUR | Industrial Production (YoY) (Nov) | 2.5% | 2.0% | 1.7% |
-| 11:00 | GBP | Thomson Reuters IPSOS PCSI (Jan) | 49.2 |  | 47.3 |
-| 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Jan) | 47.69 |  | 45.86 |
-| 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Jan) | 46.35 |  | 46.44 |
-| 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Jan) | 39.77 |  | 40.46 |
-| 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 49.23 |  | 49.54 |
-| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 49.27 |  | 47.78 |
-| 12:00 | MXN | Gross Fixed Investments (MoM) (Oct) | 0.90% | 1.50% | -0.20% |
-| 12:00 | MXN | Gross Fixed Investments (YoY) (Oct) | -5.50% | -4.30% | -8.30% |
-| 13:00 | BRL | Auto Production (MoM) (Dec) | -15.8% |  | -11.6% |
-| 13:00 | BRL | Auto Sales (MoM) (Dec) | 17.1% |  | -8.5% |
-| 13:30 | USD | Export Price Index (YoY) (Nov) | 3.3% |  | 3.8% |
-| 13:30 | USD | Import Price Index (YoY) (Nov) | 0.1% |  | 0.3% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. | 205.00K |  | 211.50K |
-| 13:30 | USD | Philly Fed Business Conditions (Jan) | 25.5 |  | 38.1 |
-| 13:30 | USD | Philly Fed CAPEX Index (Jan) | 30.30 |  | 29.10 |
-| 13:30 | USD | Philly Fed New Orders (Jan) | 14.4 |  | 5.7 |
-| 13:30 | USD | Philly Fed Prices Paid (Jan) | 46.90 |  | 49.30 |
-| 13:30 | CAD | Manufacturing Sales (MoM) (Nov) | -1.2% | -1.1% | -1.0% |
-| 15:30 | USD | Natural Gas Storage | -71B | -89B | -119B |
-| 16:30 | USD | 4-Week Bill Auction | 3.595% |  | 3.550% |
-| 16:30 | USD | 8-Week Bill Auction | 3.600% |  | 3.540% |
-| 17:40 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 21:00 | USD | US Foreign Buying, T-bonds (Nov) | 85.60B |  | -60.10B |
-| 21:00 | USD | Overall Net Capital Flow (Nov) | 212.00B |  | -22.50B |
-| 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Nov) | 220.20B |  | 30.90B |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.062T |  | 3.023T |
-| 21:45 | NZD | FPI (MoM) (Dec) | -0.3% |  | -0.4% |
-| 42 min | JPY | Foreign Bonds Buying |  |  | -223.6B |
-| 42 min | JPY | Foreign Investments in Japanese Stocks |  |  | 124.9B |
+| 00:30 | SGD | Non-Oil Exports (MoM) (Dec) |  | -4.50% | 6.60% |
+| 00:30 | SGD | Non-Oil Exports (YoY) (Dec) | 6.10% | 10.00% | 11.50% |
+| 00:30 | SGD | Trade Balance (Dec) |  |  | 7.669B |
+| 02:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 47.26 |
+| 02:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 59.31 |
+| 02:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 50.80 |
+| 02:00 | JPY | Thomson Reuters IPSOS PCSI (Jan) |  |  | 40.96 |
+| 02:00 | CNY | China Thomson Reuters IPSOS PCSI (Jan) |  |  | 70.42 |
+| 07:00 | EUR | German HICP (MoM) (Dec) |  | 0.2% | -0.5% |
+| 07:00 | EUR | German HICP (YoY) (Dec) |  | 2.0% | 2.6% |
+| 09:00 | EUR | Italian CPI (MoM) (Dec) |  | 0.2% | -0.2% |
+| 09:00 | EUR | Italian CPI (YoY) (Dec) |  | 1.2% | 1.1% |
+| 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Dec) |  |  | 1.0% |
+| 09:00 | EUR | Italian HICP (MoM) (Dec) |  | 0.2% | -0.2% |
+| 09:00 | EUR | Italian HICP (YoY) (Dec) |  | 1.2% | 1.1% |
+| 11:00 | BRL | IGP-10 Inflation Index (MoM) (Jan) |  |  | 0.0% |
+| 11:30 | INR | FX Reserves, USD |  |  | 686.80B |
+| 12:00 | BRL | IBC-Br Economic Activity (Nov) |  | 0.30% | -0.20% |
+| 12:00 | BRL | Brazilian PPI (MoM) (Nov) |  |  | -0.48% |
+| 13:30 | CAD | Foreign Securities Purchases by Canadians (Nov) |  |  | -11.580B |
+| 14:15 | USD | Capacity Utilization Rate (Dec) |  | 76.1% | 76.0% |
+| 14:15 | USD | Manufacturing Production (MoM) (Dec) |  | -0.2% | 0.0% |
+| 15:00 | USD | NAHB Housing Market Index (Jan) |  | 40 | 39 |
+| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -2.7K |
+| 20:30 | USD | CFTC Copper speculative net positions |  |  | 57.9K |
+| 20:30 | USD | CFTC Corn speculative net positions |  |  | 60.1K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -165.6K |
+| 20:30 | USD | CFTC Silver speculative net positions |  |  | 29.3K |
+| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 104.8K |
+| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -88.1K |
+| 20:30 | USD | Fed Governor Jefferson Speaks |  |  |  |
+| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -40.6K |
+| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 109.3K |
+| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -40.3K |
+| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -43.4K |
