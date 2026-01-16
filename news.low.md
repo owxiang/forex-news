@@ -10,8 +10,8 @@
 | 02:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 53.89 |  | 50.80 |
 | 02:00 | JPY | Thomson Reuters IPSOS PCSI (Jan) | 41.37 |  | 40.96 |
 | 02:00 | CNY | China Thomson Reuters IPSOS PCSI (Jan) | 72.75 |  | 70.42 |
-| 48 min | EUR | German HICP (MoM) (Dec) |  | 0.2% | -0.5% |
-| 48 min | EUR | German HICP (YoY) (Dec) |  | 2.0% | 2.6% |
+| 07:00 | EUR | German HICP (MoM) (Dec) | 0.2% | 0.2% | -0.5% |
+| 07:00 | EUR | German HICP (YoY) (Dec) | 2.0% | 2.0% | 2.6% |
 | 09:00 | EUR | Italian CPI (MoM) (Dec) |  | 0.2% | -0.2% |
 | 09:00 | EUR | Italian CPI (YoY) (Dec) |  | 1.2% | 1.1% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Dec) |  |  | 1.0% |

@@ -10,10 +10,10 @@
 | 02:00 | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 53.89 |  | 50.80 |
 | 02:00 | JPY | Low | Thomson Reuters IPSOS PCSI (Jan) | 41.37 |  | 40.96 |
 | 02:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Jan) | 72.75 |  | 70.42 |
-| 48 min | EUR | High | German CPI (MoM) (Dec) |  | 0.0% | -0.2% |
-| 48 min | EUR | Moderate | German CPI (YoY) (Dec) |  | 1.8% | 2.3% |
-| 48 min | EUR | Low | German HICP (MoM) (Dec) |  | 0.2% | -0.5% |
-| 48 min | EUR | Low | German HICP (YoY) (Dec) |  | 2.0% | 2.6% |
+| 07:00 | EUR | High | German CPI (MoM) (Dec) | 0.0% | 0.0% | -0.2% |
+| 07:00 | EUR | Moderate | German CPI (YoY) (Dec) | 1.8% | 1.8% | 2.3% |
+| 07:00 | EUR | Low | German HICP (MoM) (Dec) | 0.2% | 0.2% | -0.5% |
+| 07:00 | EUR | Low | German HICP (YoY) (Dec) | 2.0% | 2.0% | 2.6% |
 | 09:00 | EUR | Low | Italian CPI (MoM) (Dec) |  | 0.2% | -0.2% |
 | 09:00 | EUR | Low | Italian CPI (YoY) (Dec) |  | 1.2% | 1.1% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Dec) |  |  | 1.0% |

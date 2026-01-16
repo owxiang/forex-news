@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 48 min | EUR | German CPI (YoY) (Dec) |  | 1.8% | 2.3% |
+| 07:00 | EUR | German CPI (YoY) (Dec) | 1.8% | 1.8% | 2.3% |
 | 10:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 13:00 | GBP | NIESR Monthly GDP Tracker (Dec) |  |  | -0.1% |
 | 13:15 | CAD | Housing Starts (Dec) |  | 257.0K | 254.1K |
