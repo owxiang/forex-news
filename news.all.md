@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 53 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 10:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
