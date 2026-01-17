@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 10:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 53 min | EUR | German Buba President Nagel Speaks |  |  |  |
