@@ -17,4 +17,4 @@
 | 13:30 | CAD | Core CPI (YoY) (Dec) | 2.8% |  | 2.9% |
 | 13:30 | CAD | Core CPI (MoM) (Dec) | -0.4% |  | -0.1% |
 | 13:30 | CAD | CPI (MoM) (Dec) | -0.2% | -0.4% | 0.1% |
-| 20 min | CAD | BoC Business Outlook Survey |  |  |  |
+| 15:30 | CAD | BoC Business Outlook Survey |  |  |  |
