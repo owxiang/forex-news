@@ -14,7 +14,7 @@
 | 10:00 | EUR | Core CPI (YoY) (Dec) | 2.3% | 2.3% | 2.4% |
 | 10:00 | EUR | CPI (MoM) (Dec) | 0.2% | 0.2% | -0.3% |
 | 10:00 | EUR | Eurogroup Meetings |  |  |  |
-| 8 min | CAD | Core CPI (YoY) (Dec) |  |  | 2.9% |
-| 8 min | CAD | Core CPI (MoM) (Dec) |  |  | -0.1% |
-| 8 min | CAD | CPI (MoM) (Dec) |  | -0.4% | 0.1% |
+| 13:30 | CAD | Core CPI (YoY) (Dec) | 2.8% |  | 2.9% |
+| 13:30 | CAD | Core CPI (MoM) (Dec) | -0.4% |  | -0.1% |
+| 13:30 | CAD | CPI (MoM) (Dec) | -0.2% | -0.4% | 0.1% |
 | 15:30 | CAD | BoC Business Outlook Survey |  |  |  |

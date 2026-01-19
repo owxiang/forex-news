@@ -18,13 +18,14 @@
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Dec) | 0.2% | 0.2% | -0.4% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 8 min | CAD | Common CPI (YoY) (Dec) |  | 2.8% | 2.8% |
-| 8 min | CAD | CPI (YoY) (Dec) |  | 2.2% | 2.2% |
-| 8 min | CAD | Median CPI (YoY) (Dec) |  | 2.7% | 2.8% |
-| 8 min | CAD | Trimmed CPI (YoY) (Dec) |  | 2.7% | 2.8% |
-| 38 min | EUR | French 12-Month BTF Auction |  |  | 2.098% |
-| 38 min | EUR | French 3-Month BTF Auction |  |  | 2.026% |
-| 38 min | EUR | French 6-Month BTF Auction |  |  | 2.068% |
+| 13:30 | CAD | Common CPI (YoY) (Dec) | 2.8% | 2.8% | 2.8% |
+| 13:30 | CAD | CPI (YoY) (Dec) | 2.4% | 2.2% | 2.2% |
+| 13:30 | CAD | Median CPI (YoY) (Dec) | 2.5% | 2.7% | 2.8% |
+| 13:30 | CAD | New Motor Vehicle Sales (MoM) | 150.8K |  | 165.6K |
+| 13:30 | CAD | Trimmed CPI (YoY) (Dec) | 2.7% | 2.7% | 2.9% |
+| 14:00 | EUR | French 12-Month BTF Auction | 2.085% |  | 2.098% |
+| 14:00 | EUR | French 3-Month BTF Auction | 2.019% |  | 2.026% |
+| 14:00 | EUR | French 6-Month BTF Auction | 2.048% |  | 2.068% |
 | 21:00 | KRW | PPI (MoM) (Dec) |  |  | 0.3% |
 | 21:00 | KRW | PPI (YoY) (Dec) |  |  | 1.9% |
 | 21:30 | NZD | Performance of Services Index (Dec) |  |  | 46.9 |
