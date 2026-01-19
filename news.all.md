@@ -31,8 +31,8 @@
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Dec) | 2.3% | 2.3% | 2.4% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Dec) | 0.2% | 0.2% | -0.4% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 17 min | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | CNY | Low | FDI (Dec) |  |  | -7.50% |
+| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 46 min | CNY | Low | FDI (Dec) |  |  | -7.50% |
 | 13:30 | CAD | Low | Common CPI (YoY) (Dec) |  | 2.8% | 2.8% |
 | 13:30 | CAD | Moderate | Core CPI (YoY) (Dec) |  |  | 2.9% |
 | 13:30 | CAD | Moderate | Core CPI (MoM) (Dec) |  |  | -0.1% |
