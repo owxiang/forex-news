@@ -8,14 +8,14 @@
 | 01:30 | CNY | House Prices (YoY) (Dec) | -2.7% |  | -2.4% |
 | 02:00 | CNY | Retail Sales (YoY) (Dec) | 0.9% | 1.1% | 1.3% |
 | 02:00 | CNY | Chinese Retail Sales YTD (YoY) (Dec) | 2.73% |  | 3.01% |
-| 2 min | JPY | Capacity Utilization (MoM) (Nov) |  |  | 3.3% |
-| 2 min | JPY | Tertiary Industry Activity Index (Nov) |  |  | -0.70 |
+| 04:30 | JPY | Capacity Utilization (MoM) (Nov) | -5.3% |  | 3.3% |
+| 04:30 | JPY | Tertiary Industry Activity Index (Nov) | -2.40 | 0.00 | -0.70 |
 | 10:00 | CNY | FDI (Dec) |  |  | -7.50% |
-| 10:00 | EUR | Core CPI (MoM) (Dec) |  | 0.3% | 0.3% |
+| 10:00 | EUR | Core CPI (MoM) (Dec) |  | 0.3% | -0.5% |
 | 10:00 | EUR | CPI ex Tobacco (MoM) (Dec) |  |  | -0.3% |
 | 10:00 | EUR | CPI ex Tobacco (YoY) (Dec) |  |  | 2.1% |
 | 10:00 | EUR | CPI, n.s.a (Dec) |  | 129.56 | 129.30 |
-| 10:00 | EUR | HICP ex Energy & Food (YoY) (Dec) |  | 2.3% | 2.3% |
+| 10:00 | EUR | HICP ex Energy & Food (YoY) (Dec) |  | 2.3% | 2.4% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Dec) |  | 0.2% | -0.4% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |

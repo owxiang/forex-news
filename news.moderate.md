@@ -9,9 +9,9 @@
 | 02:00 | CNY | Chinese Industrial Production YTD (YoY) (Dec) | 5.9% |  | 6.0% |
 | 02:00 | CNY | Chinese Unemployment Rate (Dec) | 5.1% | 5.2% | 5.1% |
 | 02:00 | CNY | NBS Press Conference |  |  |  |
-| 2 min | JPY | Industrial Production (MoM) (Nov) |  | -2.6% | -2.6% |
+| 04:30 | JPY | Industrial Production (MoM) (Nov) | -2.7% | -2.6% | 1.5% |
 | 08:00 | CHF | World Economic Forum Annual Meetings |  |  |  |
-| 10:00 | EUR | Core CPI (YoY) (Dec) |  | 2.3% | 2.3% |
+| 10:00 | EUR | Core CPI (YoY) (Dec) |  | 2.3% | 2.4% |
 | 10:00 | EUR | CPI (MoM) (Dec) |  | 0.2% | -0.3% |
 | 10:00 | EUR | Eurogroup Meetings |  |  |  |
 | 13:30 | CAD | Core CPI (YoY) (Dec) |  |  | 2.9% |
