@@ -19,7 +19,7 @@
 | 04:30 | JPY | Low | Capacity Utilization (MoM) (Nov) | -5.3% |  | 3.3% |
 | 04:30 | JPY | Moderate | Industrial Production (MoM) (Nov) | -2.7% | -2.6% | 1.5% |
 | 04:30 | JPY | Low | Tertiary Industry Activity Index (Nov) | -2.40 | 0.00 | -0.70 |
-| 08:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
+| 46 min | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
 | 10:00 | CNY | Low | FDI (Dec) |  |  | -7.50% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Dec) |  | 2.3% | 2.4% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Dec) |  | 0.3% | -0.5% |
