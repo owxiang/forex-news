@@ -43,7 +43,7 @@
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.085% |  | 2.098% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.019% |  | 2.026% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.048% |  | 2.068% |
-| 15:30 | CAD | Moderate | BoC Business Outlook Survey |  |  |  |
+| 20 min | CAD | Moderate | BoC Business Outlook Survey |  |  |  |
 | 21:00 | KRW | Low | PPI (MoM) (Dec) |  |  | 0.3% |
 | 21:00 | KRW | Low | PPI (YoY) (Dec) |  |  | 1.9% |
 | 21:30 | NZD | Low | Performance of Services Index (Dec) |  |  | 46.9 |
