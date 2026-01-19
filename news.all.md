@@ -46,4 +46,4 @@
 | 15:30 | CAD | Moderate | BoC Business Outlook Survey |  |  |  |
 | 21:00 | KRW | Low | PPI (MoM) (Dec) | 0.4% |  | 0.3% |
 | 21:00 | KRW | Low | PPI (YoY) (Dec) | 1.9% |  | 1.9% |
-| 23 min | NZD | Low | Performance of Services Index (Dec) |  |  | 46.9 |
+| 21:30 | NZD | Low | Performance of Services Index (Dec) | 51.5 |  | 46.9 |

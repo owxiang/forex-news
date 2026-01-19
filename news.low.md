@@ -28,4 +28,4 @@
 | 14:00 | EUR | French 6-Month BTF Auction | 2.048% |  | 2.068% |
 | 21:00 | KRW | PPI (MoM) (Dec) | 0.4% |  | 0.3% |
 | 21:00 | KRW | PPI (YoY) (Dec) | 1.9% |  | 1.9% |
-| 23 min | NZD | Performance of Services Index (Dec) |  |  | 46.9 |
+| 21:30 | NZD | Performance of Services Index (Dec) | 51.5 |  | 46.9 |
