@@ -6,8 +6,8 @@
 | 00:01 | GBP | Rightmove House Price Index (MoM) (Jan) | 2.8% |  | -1.8% |
 | 00:01 | GBP | Rightmove House Price Index (YoY) (Jan) | 0.5% |  | -0.6% |
 | 01:30 | CNY | House Prices (YoY) (Dec) | -2.7% |  | -2.4% |
-| 23 min | CNY | Retail Sales (YoY) (Dec) |  | 1.1% | 1.3% |
-| 23 min | CNY | Chinese Retail Sales YTD (YoY) (Dec) |  |  | 3.01% |
+| 02:00 | CNY | Retail Sales (YoY) (Dec) | 0.9% | 1.1% | 1.3% |
+| 02:00 | CNY | Chinese Retail Sales YTD (YoY) (Dec) | 2.73% |  | 3.01% |
 | 04:30 | JPY | Capacity Utilization (MoM) (Nov) |  |  | 3.3% |
 | 04:30 | JPY | Tertiary Industry Activity Index (Nov) |  |  | -0.70 |
 | 10:00 | CNY | FDI (Dec) |  |  | -7.50% |

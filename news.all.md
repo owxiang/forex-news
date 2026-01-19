@@ -6,16 +6,16 @@
 | 00:01 | GBP | Low | Rightmove House Price Index (MoM) (Jan) | 2.8% |  | -1.8% |
 | 00:01 | GBP | Low | Rightmove House Price Index (YoY) (Jan) | 0.5% |  | -0.6% |
 | 01:30 | CNY | Low | House Prices (YoY) (Dec) | -2.7% |  | -2.4% |
-| 23 min | CNY | Moderate | Fixed Asset Investment (YoY) (Dec) |  | -3.1% | -2.6% |
-| 23 min | CNY | High | GDP (YoY) (Q4) |  | 4.5% | 4.8% |
-| 23 min | CNY | Moderate | GDP (QoQ) (Q4) |  | 1.0% | 1.1% |
-| 23 min | CNY | Moderate | Chinese GDP YTD (YoY) (Q4) |  |  | 5.2% |
-| 23 min | CNY | Moderate | Industrial Production (YoY) (Dec) |  | 5.1% | 4.8% |
-| 23 min | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Dec) |  |  | 6.0% |
-| 23 min | CNY | Low | Retail Sales (YoY) (Dec) |  | 1.1% | 1.3% |
-| 23 min | CNY | Low | Chinese Retail Sales YTD (YoY) (Dec) |  |  | 3.01% |
-| 23 min | CNY | Moderate | Chinese Unemployment Rate (Dec) |  | 5.2% | 5.1% |
-| 23 min | CNY | Moderate | NBS Press Conference |  |  |  |
+| 02:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Dec) | -3.8% | -3.1% | -2.6% |
+| 02:00 | CNY | High | GDP (YoY) (Q4) | 4.5% | 4.5% | 4.8% |
+| 02:00 | CNY | Moderate | GDP (QoQ) (Q4) | 1.2% | 1.0% | 1.1% |
+| 02:00 | CNY | Moderate | Chinese GDP YTD (YoY) (Q4) | 5.0% |  | 5.2% |
+| 02:00 | CNY | Moderate | Industrial Production (YoY) (Dec) | 5.2% | 5.1% | 4.8% |
+| 02:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Dec) | 5.9% |  | 6.0% |
+| 02:00 | CNY | Low | Retail Sales (YoY) (Dec) | 0.9% | 1.1% | 1.3% |
+| 02:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Dec) | 2.73% |  | 3.01% |
+| 02:00 | CNY | Moderate | Chinese Unemployment Rate (Dec) | 5.1% | 5.2% | 5.1% |
+| 02:00 | CNY | Moderate | NBS Press Conference |  |  |  |
 | 04:30 | JPY | Low | Capacity Utilization (MoM) (Nov) |  |  | 3.3% |
 | 04:30 | JPY | Moderate | Industrial Production (MoM) (Nov) |  | -2.6% | -2.6% |
 | 04:30 | JPY | Low | Tertiary Industry Activity Index (Nov) |  |  | -0.70 |
