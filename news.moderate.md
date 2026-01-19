@@ -2,13 +2,13 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | CNY | Fixed Asset Investment (YoY) (Dec) |  | -3.1% | -2.6% |
-| 02:00 | CNY | GDP (QoQ) (Q4) |  | 1.0% | 1.1% |
-| 02:00 | CNY | Chinese GDP YTD (YoY) (Q4) |  |  | 5.2% |
-| 02:00 | CNY | Industrial Production (YoY) (Dec) |  | 5.1% | 4.8% |
-| 02:00 | CNY | Chinese Industrial Production YTD (YoY) (Dec) |  |  | 6.0% |
-| 02:00 | CNY | Chinese Unemployment Rate (Dec) |  | 5.2% | 5.1% |
-| 02:00 | CNY | NBS Press Conference |  |  |  |
+| 23 min | CNY | Fixed Asset Investment (YoY) (Dec) |  | -3.1% | -2.6% |
+| 23 min | CNY | GDP (QoQ) (Q4) |  | 1.0% | 1.1% |
+| 23 min | CNY | Chinese GDP YTD (YoY) (Q4) |  |  | 5.2% |
+| 23 min | CNY | Industrial Production (YoY) (Dec) |  | 5.1% | 4.8% |
+| 23 min | CNY | Chinese Industrial Production YTD (YoY) (Dec) |  |  | 6.0% |
+| 23 min | CNY | Chinese Unemployment Rate (Dec) |  | 5.2% | 5.1% |
+| 23 min | CNY | NBS Press Conference |  |  |  |
 | 04:30 | JPY | Industrial Production (MoM) (Nov) |  | -2.6% | -2.6% |
 | 08:00 | CHF | World Economic Forum Annual Meetings |  |  |  |
 | 10:00 | EUR | Core CPI (YoY) (Dec) |  | 2.3% | 2.3% |
