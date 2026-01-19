@@ -24,26 +24,24 @@
 | 10:00 | EUR | Low | Core CPI (MoM) (Dec) | 0.3% | 0.3% | -0.5% |
 | 10:00 | EUR | High | CPI (YoY) (Dec) | 1.9% | 2.0% | 2.1% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Dec) | 0.2% | 0.2% | -0.3% |
-| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Dec) | 1.9% |  | 2.1% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Dec) | 0.2% |  | -0.3% |
+| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Dec) | 1.9% |  | 2.1% |
 | 10:00 | EUR | Low | CPI, n.s.a (Dec) | 129.54 | 129.56 | 129.30 |
 | 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Dec) | 2.3% | 2.3% | 2.4% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Dec) | 0.2% | 0.2% | -0.4% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 46 min | CNY | Low | FDI (Dec) |  |  | -7.50% |
-| 13:30 | CAD | Low | Common CPI (YoY) (Dec) |  | 2.8% | 2.8% |
-| 13:30 | CAD | Moderate | Core CPI (YoY) (Dec) |  |  | 2.9% |
-| 13:30 | CAD | Moderate | Core CPI (MoM) (Dec) |  |  | -0.1% |
-| 13:30 | CAD | Low | CPI (YoY) (Dec) |  | 2.2% | 2.2% |
-| 13:30 | CAD | Moderate | CPI (MoM) (Dec) |  | -0.4% | 0.1% |
-| 13:30 | CAD | Low | Median CPI (YoY) (Dec) |  | 2.7% | 2.8% |
-| 13:30 | CAD | Low | Trimmed CPI (YoY) (Dec) |  | 2.7% | 2.8% |
-| 14:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Dec) |  |  | -0.1% |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.098% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.026% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.068% |
+| 8 min | CAD | Low | Common CPI (YoY) (Dec) |  | 2.8% | 2.8% |
+| 8 min | CAD | Moderate | Core CPI (YoY) (Dec) |  |  | 2.9% |
+| 8 min | CAD | Moderate | Core CPI (MoM) (Dec) |  |  | -0.1% |
+| 8 min | CAD | Low | CPI (YoY) (Dec) |  | 2.2% | 2.2% |
+| 8 min | CAD | Moderate | CPI (MoM) (Dec) |  | -0.4% | 0.1% |
+| 8 min | CAD | Low | Median CPI (YoY) (Dec) |  | 2.7% | 2.8% |
+| 8 min | CAD | Low | Trimmed CPI (YoY) (Dec) |  | 2.7% | 2.8% |
+| 38 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.098% |
+| 38 min | EUR | Low | French 3-Month BTF Auction |  |  | 2.026% |
+| 38 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.068% |
 | 15:30 | CAD | Moderate | BoC Business Outlook Survey |  |  |  |
 | 21:00 | KRW | Low | PPI (MoM) (Dec) |  |  | 0.3% |
 | 21:00 | KRW | Low | PPI (YoY) (Dec) |  |  | 1.9% |

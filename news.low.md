@@ -11,21 +11,20 @@
 | 04:30 | JPY | Capacity Utilization (MoM) (Nov) | -5.3% |  | 3.3% |
 | 04:30 | JPY | Tertiary Industry Activity Index (Nov) | -2.40 | 0.00 | -0.70 |
 | 10:00 | EUR | Core CPI (MoM) (Dec) | 0.3% | 0.3% | -0.5% |
-| 10:00 | EUR | CPI ex Tobacco (YoY) (Dec) | 1.9% |  | 2.1% |
 | 10:00 | EUR | CPI ex Tobacco (MoM) (Dec) | 0.2% |  | -0.3% |
+| 10:00 | EUR | CPI ex Tobacco (YoY) (Dec) | 1.9% |  | 2.1% |
 | 10:00 | EUR | CPI, n.s.a (Dec) | 129.54 | 129.56 | 129.30 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Dec) | 2.3% | 2.3% | 2.4% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Dec) | 0.2% | 0.2% | -0.4% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 46 min | CNY | FDI (Dec) |  |  | -7.50% |
-| 13:30 | CAD | Common CPI (YoY) (Dec) |  | 2.8% | 2.8% |
-| 13:30 | CAD | CPI (YoY) (Dec) |  | 2.2% | 2.2% |
-| 13:30 | CAD | Median CPI (YoY) (Dec) |  | 2.7% | 2.8% |
-| 13:30 | CAD | Trimmed CPI (YoY) (Dec) |  | 2.7% | 2.8% |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.098% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.026% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.068% |
+| 8 min | CAD | Common CPI (YoY) (Dec) |  | 2.8% | 2.8% |
+| 8 min | CAD | CPI (YoY) (Dec) |  | 2.2% | 2.2% |
+| 8 min | CAD | Median CPI (YoY) (Dec) |  | 2.7% | 2.8% |
+| 8 min | CAD | Trimmed CPI (YoY) (Dec) |  | 2.7% | 2.8% |
+| 38 min | EUR | French 12-Month BTF Auction |  |  | 2.098% |
+| 38 min | EUR | French 3-Month BTF Auction |  |  | 2.026% |
+| 38 min | EUR | French 6-Month BTF Auction |  |  | 2.068% |
 | 21:00 | KRW | PPI (MoM) (Dec) |  |  | 0.3% |
 | 21:00 | KRW | PPI (YoY) (Dec) |  |  | 1.9% |
 | 21:30 | NZD | Performance of Services Index (Dec) |  |  | 46.9 |
