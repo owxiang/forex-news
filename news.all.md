@@ -16,9 +16,9 @@
 | 02:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Dec) | 2.73% |  | 3.01% |
 | 02:00 | CNY | Moderate | Chinese Unemployment Rate (Dec) | 5.1% | 5.2% | 5.1% |
 | 02:00 | CNY | Moderate | NBS Press Conference |  |  |  |
-| 04:30 | JPY | Low | Capacity Utilization (MoM) (Nov) |  |  | 3.3% |
-| 04:30 | JPY | Moderate | Industrial Production (MoM) (Nov) |  | -2.6% | -2.6% |
-| 04:30 | JPY | Low | Tertiary Industry Activity Index (Nov) |  |  | -0.70 |
+| 51 min | JPY | Low | Capacity Utilization (MoM) (Nov) |  |  | 3.3% |
+| 51 min | JPY | Moderate | Industrial Production (MoM) (Nov) |  | -2.6% | -2.6% |
+| 51 min | JPY | Low | Tertiary Industry Activity Index (Nov) |  |  | -0.70 |
 | 08:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
 | 10:00 | CNY | Low | FDI (Dec) |  |  | -7.50% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Dec) |  | 2.3% | 2.3% |
