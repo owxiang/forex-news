@@ -20,17 +20,17 @@
 | 04:30 | JPY | Moderate | Industrial Production (MoM) (Nov) | -2.7% | -2.6% | 1.5% |
 | 04:30 | JPY | Low | Tertiary Industry Activity Index (Nov) | -2.40 | 0.00 | -0.70 |
 | 08:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
-| 10:00 | CNY | Low | FDI (Dec) |  |  | -7.50% |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Dec) |  | 2.3% | 2.4% |
-| 10:00 | EUR | Low | Core CPI (MoM) (Dec) |  | 0.3% | -0.5% |
-| 10:00 | EUR | High | CPI (YoY) (Dec) |  | 2.0% | 2.1% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Dec) |  | 0.2% | -0.3% |
-| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Dec) |  |  | -0.3% |
-| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Dec) |  |  | 2.1% |
-| 10:00 | EUR | Low | CPI, n.s.a (Dec) |  | 129.56 | 129.30 |
-| 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Dec) |  | 2.3% | 2.4% |
-| 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Dec) |  | 0.2% | -0.4% |
+| 45 min | CNY | Low | FDI (Dec) |  |  | -7.50% |
+| 45 min | EUR | Moderate | Core CPI (YoY) (Dec) |  | 2.3% | 2.4% |
+| 45 min | EUR | Low | Core CPI (MoM) (Dec) |  | 0.3% | -0.5% |
+| 45 min | EUR | High | CPI (YoY) (Dec) |  | 2.0% | 2.1% |
+| 45 min | EUR | Moderate | CPI (MoM) (Dec) |  | 0.2% | -0.3% |
+| 45 min | EUR | Low | CPI ex Tobacco (MoM) (Dec) |  |  | -0.3% |
+| 45 min | EUR | Low | CPI ex Tobacco (YoY) (Dec) |  |  | 2.1% |
+| 45 min | EUR | Low | CPI, n.s.a (Dec) |  | 129.56 | 129.30 |
+| 45 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 45 min | EUR | Low | HICP ex Energy & Food (YoY) (Dec) |  | 2.3% | 2.4% |
+| 45 min | EUR | Low | HICP ex Energy and Food (MoM) (Dec) |  | 0.2% | -0.4% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:30 | CAD | Low | Common CPI (YoY) (Dec) |  | 2.8% | 2.8% |

@@ -11,9 +11,9 @@
 | 02:00 | CNY | NBS Press Conference |  |  |  |
 | 04:30 | JPY | Industrial Production (MoM) (Nov) | -2.7% | -2.6% | 1.5% |
 | 08:00 | CHF | World Economic Forum Annual Meetings |  |  |  |
-| 10:00 | EUR | Core CPI (YoY) (Dec) |  | 2.3% | 2.4% |
-| 10:00 | EUR | CPI (MoM) (Dec) |  | 0.2% | -0.3% |
-| 10:00 | EUR | Eurogroup Meetings |  |  |  |
+| 45 min | EUR | Core CPI (YoY) (Dec) |  | 2.3% | 2.4% |
+| 45 min | EUR | CPI (MoM) (Dec) |  | 0.2% | -0.3% |
+| 45 min | EUR | Eurogroup Meetings |  |  |  |
 | 13:30 | CAD | Core CPI (YoY) (Dec) |  |  | 2.9% |
 | 13:30 | CAD | Core CPI (MoM) (Dec) |  |  | -0.1% |
 | 13:30 | CAD | CPI (MoM) (Dec) |  | -0.4% | 0.1% |
