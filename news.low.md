@@ -8,8 +8,8 @@
 | 01:30 | CNY | House Prices (YoY) (Dec) | -2.7% |  | -2.4% |
 | 02:00 | CNY | Retail Sales (YoY) (Dec) | 0.9% | 1.1% | 1.3% |
 | 02:00 | CNY | Chinese Retail Sales YTD (YoY) (Dec) | 2.73% |  | 3.01% |
-| 51 min | JPY | Capacity Utilization (MoM) (Nov) |  |  | 3.3% |
-| 51 min | JPY | Tertiary Industry Activity Index (Nov) |  |  | -0.70 |
+| 2 min | JPY | Capacity Utilization (MoM) (Nov) |  |  | 3.3% |
+| 2 min | JPY | Tertiary Industry Activity Index (Nov) |  |  | -0.70 |
 | 10:00 | CNY | FDI (Dec) |  |  | -7.50% |
 | 10:00 | EUR | Core CPI (MoM) (Dec) |  | 0.3% | 0.3% |
 | 10:00 | EUR | CPI ex Tobacco (MoM) (Dec) |  |  | -0.3% |
