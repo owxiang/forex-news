@@ -17,17 +17,17 @@
 | 08:00 | EUR | Low | Current Account (Nov) | 8.6B | 20.3B | 26.7B |
 | 08:00 | EUR | Low | Current Account n.s.a. (Nov) | 12.6B |  | 33.0B |
 | 08:30 | HKD | Low | Unemployment Rate (Dec) | 3.8% |  | 3.8% |
-| 09:00 | EUR | Low | Spanish Trade Balance (Nov) |  |  | -4.69B |
-| 16 min | ZAR | Low | Gold Production (YoY) (Nov) |  |  | -1.2% |
-| 16 min | ZAR | Low | Mining Production (Nov) |  | 3.9% | 5.8% |
-| 26 min | EUR | Low | Spanish 3-Month Letras Auction |  |  | 1.974% |
-| 31 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 31 min | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
-| 46 min | EUR | Moderate | German ZEW Current Conditions (Jan) |  | -75.5 | -81.0 |
-| 46 min | EUR | Moderate | German ZEW Economic Sentiment (Jan) |  | 50.0 | 45.8 |
-| 46 min | EUR | Low | Construction Output (MoM) (Nov) |  |  | 0.88% |
-| 46 min | EUR | Low | ECOFIN Meetings |  |  |  |
-| 46 min | EUR | Moderate | ZEW Economic Sentiment (Jan) |  | 36.7 | 33.7 |
+| 09:00 | EUR | Low | Spanish Trade Balance (Nov) | -5.68B |  | -4.69B |
+| 09:30 | ZAR | Low | Gold Production (YoY) (Nov) | -6.0% |  | -0.3% |
+| 09:30 | ZAR | Low | Mining Production (Nov) | -2.7% | 3.9% | 6.1% |
+| 09:40 | EUR | Low | Spanish 3-Month Letras Auction | 1.954% |  | 1.974% |
+| 09:45 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 09:45 | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
+| 10:00 | EUR | Moderate | German ZEW Current Conditions (Jan) | -72.7 | -75.5 | -81.0 |
+| 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Jan) | 59.6 | 50.0 | 45.8 |
+| 10:00 | EUR | Low | Construction Output (MoM) (Nov) | -1.06% |  | 1.66% |
+| 10:00 | EUR | Low | ECOFIN Meetings |  |  |  |
+| 10:00 | EUR | Moderate | ZEW Economic Sentiment (Jan) | 40.8 | 36.7 | 33.7 |
 | 13:00 | CNY | Low | FDI (Dec) |  |  | -7.50% |
 | 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 11.75K |
 | 15:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 6.3% |
