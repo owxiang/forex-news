@@ -29,7 +29,7 @@
 | 10:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 10:00 | EUR | Moderate | ZEW Economic Sentiment (Jan) | 40.8 | 36.7 | 33.7 |
 | 11:30 | INR | Low | Infrastructure Output (YoY) (Dec) | 3.7% |  | 2.1% |
-| 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 11.75K |
+| 13:15 | USD | Moderate | ADP Employment Change Weekly | 8.00K |  | 11.25K |
 | 15:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 6.3% |
 | 15:00 | USD | Low | Milk Auctions |  |  | 3,533.0 |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.570% |
