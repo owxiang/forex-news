@@ -28,7 +28,7 @@
 | 10:00 | EUR | Low | Construction Output (MoM) (Nov) | -1.06% |  | 1.66% |
 | 10:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 10:00 | EUR | Moderate | ZEW Economic Sentiment (Jan) | 40.8 | 36.7 | 33.7 |
-| 13:00 | CNY | Low | FDI (Dec) |  |  | -7.50% |
+| 11:30 | INR | Low | Infrastructure Output (YoY) (Dec) | 3.7% |  | 2.1% |
 | 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 11.75K |
 | 15:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 6.3% |
 | 15:00 | USD | Low | Milk Auctions |  |  | 3,533.0 |
