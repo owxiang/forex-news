@@ -15,8 +15,8 @@
 | 10:00 | EUR | Construction Output (MoM) (Nov) | -1.06% |  | 1.66% |
 | 10:00 | EUR | ECOFIN Meetings |  |  |  |
 | 11:30 | INR | Infrastructure Output (YoY) (Dec) | 3.7% |  | 2.1% |
-| 46 min | NZD | GlobalDairyTrade Price Index |  |  | 6.3% |
-| 46 min | USD | Milk Auctions |  |  | 3,533.0 |
+| 12:00 | NZD | GlobalDairyTrade Price Index | 1.5% |  | 6.3% |
+| 12:00 | USD | Milk Auctions | 3,615.0 |  | 3,533.0 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 3.570% |
 | 16:30 | USD | 52-Week Bill Auction |  |  | 3.380% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 3.490% |
