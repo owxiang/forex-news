@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 28 min | CNY | China Loan Prime Rate 5Y (Jan) |  | 3.50% | 3.50% |
-| 43 min | CNY | PBoC Loan Prime Rate |  | 3.00% | 3.00% |
+| 01:00 | CNY | China Loan Prime Rate 5Y (Jan) | 3.50% | 3.50% | 3.50% |
+| 01:00 | CNY | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
 | 07:00 | GBP | Average Earnings Index +Bonus (Nov) |  | 4.6% | 4.7% |
 | 07:00 | GBP | Claimant Count Change (Dec) |  | 18.8K | 20.1K |
 | 07:00 | GBP | Employment Change 3M/3M (MoM) (Nov) |  | 27K | -16K |
