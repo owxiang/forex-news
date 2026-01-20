@@ -11,11 +11,11 @@
 | 07:00 | EUR | German PPI (MoM) (Dec) | -0.2% | -0.2% | 0.0% |
 | 07:30 | CHF | PPI (MoM) (Dec) | -0.2% | 0.2% | -0.5% |
 | 08:00 | CHF | World Economic Forum Annual Meetings |  |  |  |
-| 09:45 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 09:45 | GBP | MPC Member Ramsden Speaks |  |  |  |
-| 10:00 | EUR | German ZEW Current Conditions (Jan) |  | -75.5 | -81.0 |
-| 10:00 | EUR | German ZEW Economic Sentiment (Jan) |  | 50.0 | 45.8 |
-| 10:00 | EUR | ZEW Economic Sentiment (Jan) |  | 36.7 | 33.7 |
+| 31 min | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 31 min | GBP | MPC Member Ramsden Speaks |  |  |  |
+| 46 min | EUR | German ZEW Current Conditions (Jan) |  | -75.5 | -81.0 |
+| 46 min | EUR | German ZEW Economic Sentiment (Jan) |  | 50.0 | 45.8 |
+| 46 min | EUR | ZEW Economic Sentiment (Jan) |  | 36.7 | 33.7 |
 | 13:15 | USD | ADP Employment Change Weekly |  |  | 11.75K |
 | 16:30 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | 5.270M |
