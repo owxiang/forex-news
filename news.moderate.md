@@ -18,4 +18,4 @@
 | 10:00 | EUR | ZEW Economic Sentiment (Jan) | 40.8 | 36.7 | 33.7 |
 | 13:15 | USD | ADP Employment Change Weekly | 8.00K |  | 11.25K |
 | 16:30 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 22 min | USD | API Weekly Crude Oil Stock |  |  | 5.270M |
+| 21:30 | USD | API Weekly Crude Oil Stock |  |  | 5.270M |
