@@ -20,4 +20,4 @@
 | 16:30 | USD | 3-Month Bill Auction | 3.590% |  | 3.570% |
 | 16:30 | USD | 6-Month Bill Auction | 3.520% |  | 3.490% |
 | 16:30 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
-| 48 min | USD | 52-Week Bill Auction |  |  | 3.380% |
+| 18:00 | USD | 52-Week Bill Auction | 3.390% |  | 3.380% |

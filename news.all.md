@@ -36,5 +36,5 @@
 | 16:30 | USD | Low | 6-Month Bill Auction | 3.520% |  | 3.490% |
 | 16:30 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 16:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 48 min | USD | Low | 52-Week Bill Auction |  |  | 3.380% |
+| 18:00 | USD | Low | 52-Week Bill Auction | 3.390% |  | 3.380% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 5.270M |
