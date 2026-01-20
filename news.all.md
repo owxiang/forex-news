@@ -11,13 +11,13 @@
 | 07:00 | GBP | Moderate | Unemployment Rate (Nov) | 5.1% | 5.1% | 5.1% |
 | 07:00 | EUR | Moderate | German PPI (MoM) (Dec) | -0.2% | -0.2% | 0.0% |
 | 07:00 | EUR | Low | German PPI (YoY) (Dec) | -2.5% | -2.4% | -2.3% |
-| 16 min | CHF | Low | PPI (YoY) (Dec) |  |  | -1.6% |
-| 16 min | CHF | Moderate | PPI (MoM) (Dec) |  | 0.2% | -0.5% |
-| 46 min | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
-| 46 min | EUR | Low | Current Account (Nov) |  | 20.3B | 25.7B |
-| 46 min | EUR | Low | Current Account n.s.a. (Nov) |  |  | 32.0B |
-| 08:30 | HKD | Low | Unemployment Rate (Dec) |  |  | 3.8% |
-| 09:00 | EUR | Low | Spanish Trade Balance (Nov) |  |  | -4.69B |
+| 07:30 | CHF | Low | PPI (YoY) (Dec) | -1.8% |  | -1.6% |
+| 07:30 | CHF | Moderate | PPI (MoM) (Dec) | -0.2% | 0.2% | -0.5% |
+| 08:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
+| 19 min | HKD | Low | Unemployment Rate (Dec) |  |  | 3.8% |
+| 49 min | EUR | Low | Spanish Trade Balance (Nov) |  |  | -4.69B |
+| 49 min | EUR | Low | Current Account (Nov) |  | 20.3B | 25.7B |
+| 49 min | EUR | Low | Current Account n.s.a. (Nov) |  |  | 32.0B |
 | 09:30 | ZAR | Low | Gold Production (YoY) (Nov) |  |  | -1.2% |
 | 09:30 | ZAR | Low | Mining Production (Nov) |  |  | 5.8% |
 | 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 1.974% |

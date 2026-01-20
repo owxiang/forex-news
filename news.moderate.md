@@ -9,8 +9,8 @@
 | 07:00 | GBP | Employment Change 3M/3M (MoM) (Nov) | 82K | 27K | -16K |
 | 07:00 | GBP | Unemployment Rate (Nov) | 5.1% | 5.1% | 5.1% |
 | 07:00 | EUR | German PPI (MoM) (Dec) | -0.2% | -0.2% | 0.0% |
-| 16 min | CHF | PPI (MoM) (Dec) |  | 0.2% | -0.5% |
-| 46 min | CHF | World Economic Forum Annual Meetings |  |  |  |
+| 07:30 | CHF | PPI (MoM) (Dec) | -0.2% | 0.2% | -0.5% |
+| 08:00 | CHF | World Economic Forum Annual Meetings |  |  |  |
 | 09:45 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 09:45 | GBP | MPC Member Ramsden Speaks |  |  |  |
 | 10:00 | EUR | German ZEW Current Conditions (Jan) |  | -75.5 | -81.0 |

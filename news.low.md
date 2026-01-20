@@ -4,11 +4,11 @@
 |------|----------|-------|--------|----------|----------|
 | 07:00 | GBP | Average Earnings ex Bonus (Nov) | 4.5% | 4.5% | 4.6% |
 | 07:00 | EUR | German PPI (YoY) (Dec) | -2.5% | -2.4% | -2.3% |
-| 16 min | CHF | PPI (YoY) (Dec) |  |  | -1.6% |
-| 46 min | EUR | Current Account (Nov) |  | 20.3B | 25.7B |
-| 46 min | EUR | Current Account n.s.a. (Nov) |  |  | 32.0B |
-| 08:30 | HKD | Unemployment Rate (Dec) |  |  | 3.8% |
-| 09:00 | EUR | Spanish Trade Balance (Nov) |  |  | -4.69B |
+| 07:30 | CHF | PPI (YoY) (Dec) | -1.8% |  | -1.6% |
+| 19 min | HKD | Unemployment Rate (Dec) |  |  | 3.8% |
+| 49 min | EUR | Spanish Trade Balance (Nov) |  |  | -4.69B |
+| 49 min | EUR | Current Account (Nov) |  | 20.3B | 25.7B |
+| 49 min | EUR | Current Account n.s.a. (Nov) |  |  | 32.0B |
 | 09:30 | ZAR | Gold Production (YoY) (Nov) |  |  | -1.2% |
 | 09:30 | ZAR | Mining Production (Nov) |  |  | 5.8% |
 | 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 1.974% |
