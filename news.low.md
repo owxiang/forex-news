@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | GBP | Average Earnings ex Bonus (Nov) |  | 4.5% | 4.6% |
-| 07:00 | EUR | German PPI (YoY) (Dec) |  | -2.4% | -2.3% |
+| 47 min | GBP | Average Earnings ex Bonus (Nov) |  | 4.5% | 4.6% |
+| 47 min | EUR | German PPI (YoY) (Dec) |  | -2.4% | -2.3% |
 | 07:30 | CHF | PPI (YoY) (Dec) |  |  | -1.6% |
 | 08:00 | EUR | Current Account (Nov) |  | 20.3B | 25.7B |
 | 08:00 | EUR | Current Account n.s.a. (Nov) |  |  | 32.0B |
