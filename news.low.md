@@ -1,31 +1,23 @@
-## 19 January 2026 - Low Impact Forex News
+## 20 January 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | AUD | MI Inflation Gauge (MoM) (Dec) | 1.0% |  | 0.3% |
-| 00:01 | GBP | Rightmove House Price Index (MoM) (Jan) | 2.8% |  | -1.8% |
-| 00:01 | GBP | Rightmove House Price Index (YoY) (Jan) | 0.5% |  | -0.6% |
-| 01:30 | CNY | House Prices (YoY) (Dec) | -2.7% |  | -2.4% |
-| 02:00 | CNY | Retail Sales (YoY) (Dec) | 0.9% | 1.1% | 1.3% |
-| 02:00 | CNY | Chinese Retail Sales YTD (YoY) (Dec) | 2.73% |  | 3.01% |
-| 04:30 | JPY | Capacity Utilization (MoM) (Nov) | -5.3% |  | 3.3% |
-| 04:30 | JPY | Tertiary Industry Activity Index (Nov) | -2.40 | 0.00 | -0.70 |
-| 10:00 | EUR | Core CPI (MoM) (Dec) | 0.3% | 0.3% | -0.5% |
-| 10:00 | EUR | CPI ex Tobacco (MoM) (Dec) | 0.2% |  | -0.3% |
-| 10:00 | EUR | CPI ex Tobacco (YoY) (Dec) | 1.9% |  | 2.1% |
-| 10:00 | EUR | CPI, n.s.a (Dec) | 129.54 | 129.56 | 129.30 |
-| 10:00 | EUR | HICP ex Energy & Food (YoY) (Dec) | 2.3% | 2.3% | 2.4% |
-| 10:00 | EUR | HICP ex Energy and Food (MoM) (Dec) | 0.2% | 0.2% | -0.4% |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:30 | CAD | Common CPI (YoY) (Dec) | 2.8% | 2.8% | 2.8% |
-| 13:30 | CAD | CPI (YoY) (Dec) | 2.4% | 2.2% | 2.2% |
-| 13:30 | CAD | Median CPI (YoY) (Dec) | 2.5% | 2.7% | 2.8% |
-| 13:30 | CAD | New Motor Vehicle Sales (MoM) | 150.8K |  | 165.6K |
-| 13:30 | CAD | Trimmed CPI (YoY) (Dec) | 2.7% | 2.7% | 2.9% |
-| 14:00 | EUR | French 12-Month BTF Auction | 2.085% |  | 2.098% |
-| 14:00 | EUR | French 3-Month BTF Auction | 2.019% |  | 2.026% |
-| 14:00 | EUR | French 6-Month BTF Auction | 2.048% |  | 2.068% |
-| 21:00 | KRW | PPI (MoM) (Dec) | 0.4% |  | 0.3% |
-| 21:00 | KRW | PPI (YoY) (Dec) | 1.9% |  | 1.9% |
-| 21:30 | NZD | Performance of Services Index (Dec) | 51.5 |  | 46.9 |
+| 07:00 | GBP | Average Earnings ex Bonus (Nov) |  | 4.5% | 4.6% |
+| 07:00 | EUR | German PPI (YoY) (Dec) |  | -2.4% | -2.3% |
+| 07:30 | CHF | PPI (YoY) (Dec) |  |  | -1.6% |
+| 08:00 | EUR | Current Account (Nov) |  | 20.3B | 25.7B |
+| 08:00 | EUR | Current Account n.s.a. (Nov) |  |  | 32.0B |
+| 08:30 | HKD | Unemployment Rate (Dec) |  |  | 3.8% |
+| 09:00 | EUR | Spanish Trade Balance (Nov) |  |  | -4.69B |
+| 09:30 | ZAR | Gold Production (YoY) (Nov) |  |  | -1.2% |
+| 09:30 | ZAR | Mining Production (Nov) |  |  | 5.8% |
+| 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 1.974% |
+| 10:00 | EUR | Construction Output (MoM) (Nov) |  |  | 0.88% |
+| 10:00 | EUR | ECOFIN Meetings |  |  |  |
+| 13:00 | CNY | FDI (Dec) |  |  | -7.50% |
+| 15:00 | NZD | GlobalDairyTrade Price Index |  |  | 6.3% |
+| 15:00 | USD | Milk Auctions |  |  | 3,533.0 |
+| 16:30 | USD | 3-Month Bill Auction |  |  | 3.570% |
+| 16:30 | USD | 52-Week Bill Auction |  |  | 3.380% |
+| 16:30 | USD | 6-Month Bill Auction |  |  | 3.490% |
+| 16:30 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
