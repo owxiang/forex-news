@@ -4,18 +4,18 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 01:00 | CNY | Moderate | China Loan Prime Rate 5Y (Jan) | 3.50% | 3.50% | 3.50% |
 | 01:00 | CNY | Moderate | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
-| 47 min | GBP | Low | Average Earnings ex Bonus (Nov) |  | 4.5% | 4.6% |
-| 47 min | GBP | Moderate | Average Earnings Index +Bonus (Nov) |  | 4.6% | 4.7% |
-| 47 min | GBP | Moderate | Claimant Count Change (Dec) |  | 15.6K | 20.1K |
-| 47 min | GBP | Moderate | Employment Change 3M/3M (MoM) (Nov) |  | 27K | -16K |
-| 47 min | GBP | Moderate | Unemployment Rate (Nov) |  | 5.1% | 5.1% |
-| 47 min | EUR | Moderate | German PPI (MoM) (Dec) |  | -0.2% | 0.0% |
-| 47 min | EUR | Low | German PPI (YoY) (Dec) |  | -2.4% | -2.3% |
-| 07:30 | CHF | Low | PPI (YoY) (Dec) |  |  | -1.6% |
-| 07:30 | CHF | Moderate | PPI (MoM) (Dec) |  | 0.2% | -0.5% |
-| 08:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
-| 08:00 | EUR | Low | Current Account (Nov) |  | 20.3B | 25.7B |
-| 08:00 | EUR | Low | Current Account n.s.a. (Nov) |  |  | 32.0B |
+| 07:00 | GBP | Low | Average Earnings ex Bonus (Nov) | 4.5% | 4.5% | 4.6% |
+| 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Nov) | 4.7% | 4.6% | 4.8% |
+| 07:00 | GBP | Moderate | Claimant Count Change (Dec) | 17.9K | 15.6K | -3.3K |
+| 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Nov) | 82K | 27K | -16K |
+| 07:00 | GBP | Moderate | Unemployment Rate (Nov) | 5.1% | 5.1% | 5.1% |
+| 07:00 | EUR | Moderate | German PPI (MoM) (Dec) | -0.2% | -0.2% | 0.0% |
+| 07:00 | EUR | Low | German PPI (YoY) (Dec) | -2.5% | -2.4% | -2.3% |
+| 16 min | CHF | Low | PPI (YoY) (Dec) |  |  | -1.6% |
+| 16 min | CHF | Moderate | PPI (MoM) (Dec) |  | 0.2% | -0.5% |
+| 46 min | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
+| 46 min | EUR | Low | Current Account (Nov) |  | 20.3B | 25.7B |
+| 46 min | EUR | Low | Current Account n.s.a. (Nov) |  |  | 32.0B |
 | 08:30 | HKD | Low | Unemployment Rate (Dec) |  |  | 3.8% |
 | 09:00 | EUR | Low | Spanish Trade Balance (Nov) |  |  | -4.69B |
 | 09:30 | ZAR | Low | Gold Production (YoY) (Nov) |  |  | -1.2% |
