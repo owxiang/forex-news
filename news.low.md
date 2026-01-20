@@ -17,7 +17,7 @@
 | 11:30 | INR | Infrastructure Output (YoY) (Dec) | 3.7% |  | 2.1% |
 | 12:00 | NZD | GlobalDairyTrade Price Index | 1.5% |  | 6.3% |
 | 12:00 | USD | Milk Auctions | 3,615.0 |  | 3,533.0 |
-| 16:30 | USD | 3-Month Bill Auction |  |  | 3.570% |
-| 16:30 | USD | 52-Week Bill Auction |  |  | 3.380% |
-| 16:30 | USD | 6-Month Bill Auction |  |  | 3.490% |
-| 16:30 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
+| 18 min | USD | 3-Month Bill Auction |  |  | 3.570% |
+| 18 min | USD | 52-Week Bill Auction |  |  | 3.380% |
+| 18 min | USD | 6-Month Bill Auction |  |  | 3.490% |
+| 18 min | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |

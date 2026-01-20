@@ -32,9 +32,9 @@
 | 12:00 | NZD | Low | GlobalDairyTrade Price Index | 1.5% |  | 6.3% |
 | 12:00 | USD | Low | Milk Auctions | 3,615.0 |  | 3,533.0 |
 | 13:15 | USD | Moderate | ADP Employment Change Weekly | 8.00K |  | 11.25K |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.570% |
-| 16:30 | USD | Low | 52-Week Bill Auction |  |  | 3.380% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.490% |
-| 16:30 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
-| 16:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 18 min | USD | Low | 3-Month Bill Auction |  |  | 3.570% |
+| 18 min | USD | Low | 52-Week Bill Auction |  |  | 3.380% |
+| 18 min | USD | Low | 6-Month Bill Auction |  |  | 3.490% |
+| 18 min | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
+| 18 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 5.270M |
