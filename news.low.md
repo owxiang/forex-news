@@ -40,12 +40,12 @@
 | 13:55 | USD | Redbook (YoY) | 5.5% |  | 5.7% |
 | 15:00 | USD | Pending Home Sales Index (Dec) | 71.8 |  | 79.2 |
 | 17:30 | BRL | Foreign Exchange Flows | 2.215B |  | -1.696B |
-| 33 min | NZD | Electronic Card Retail Sales (YoY) (Dec) |  |  | 1.6% |
-| 33 min | NZD | External Migration & Visitors (Nov) |  |  | 9.40% |
-| 33 min | NZD | Permanent/Long-Term Migration (Nov) |  |  | 2,400 |
-| 33 min | NZD | Visitor Arrivals (MoM) |  |  | 0.6% |
-| 23:00 | KRW | GDP (QoQ) (Q4) |  | 0.1% | 1.3% |
-| 23:00 | KRW | GDP (YoY) (Q4) |  | 1.9% | 1.8% |
+| 21:45 | NZD | Electronic Card Retail Sales (YoY) (Dec) | -0.5% |  | 1.6% |
+| 21:45 | NZD | External Migration & Visitors (Nov) | 8.20% |  | 9.40% |
+| 21:45 | NZD | Permanent/Long-Term Migration (Nov) | 990 |  | 1,610 |
+| 21:45 | NZD | Visitor Arrivals (MoM) | 0.8% |  | 0.7% |
+| 50 min | KRW | GDP (QoQ) (Q4) |  | 0.1% | 1.3% |
+| 50 min | KRW | GDP (YoY) (Q4) |  | 1.9% | 1.8% |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | 101.1B |
 | 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 1,141.4B |
 | 23:50 | JPY | Imports (YoY) (Dec) |  | 3.6% | 1.3% |
