@@ -48,10 +48,10 @@
 | 13:30 | CAD | Moderate | RMPI (MoM) (Dec) | 0.5% | -0.5% | 0.6% |
 | 13:30 | CAD | Low | RMPI (YoY) (Dec) | 6.4% |  | 7.2% |
 | 13:55 | USD | Low | Redbook (YoY) | 5.5% |  | 5.7% |
-| 1 min | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
-| 46 min | USD | Moderate | Construction Spending (MoM) (Oct) |  | 0.1% | 0.2% |
-| 46 min | USD | Moderate | Pending Home Sales (MoM) (Dec) |  | -0.3% | 3.3% |
-| 46 min | USD | Low | Pending Home Sales Index (Dec) |  |  | 79.2 |
+| 14:15 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
+| 15:00 | USD | Moderate | Construction Spending (MoM) (Oct) | 0.5% | 0.1% | 0.2% |
+| 15:00 | USD | Moderate | Pending Home Sales (MoM) (Dec) | -9.3% | -0.3% | 3.3% |
+| 15:00 | USD | Low | Pending Home Sales Index (Dec) | 71.8 |  | 79.2 |
 | 16:45 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 5.3% | 5.3% |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -1.696B |

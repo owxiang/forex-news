@@ -38,7 +38,7 @@
 | 13:30 | CAD | IPPI (YoY) (Dec) | 4.9% |  | 5.9% |
 | 13:30 | CAD | RMPI (YoY) (Dec) | 6.4% |  | 7.2% |
 | 13:55 | USD | Redbook (YoY) | 5.5% |  | 5.7% |
-| 46 min | USD | Pending Home Sales Index (Dec) |  |  | 79.2 |
+| 15:00 | USD | Pending Home Sales Index (Dec) | 71.8 |  | 79.2 |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | -1.696B |
 | 21:45 | NZD | Electronic Card Retail Sales (YoY) (Dec) |  |  | 1.6% |
 | 21:45 | NZD | External Migration & Visitors (Nov) |  |  | 9.40% |
