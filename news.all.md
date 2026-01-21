@@ -58,12 +58,12 @@
 | 17:30 | BRL | Low | Foreign Exchange Flows | 2.215B |  | -1.696B |
 | 18:00 | USD | Moderate | 20-Year Bond Auction | 4.846% |  | 4.798% |
 | 18:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 5.270M |
-| 21:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Dec) |  |  | 1.2% |
-| 21:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Dec) |  |  | 1.6% |
-| 21:45 | NZD | Low | External Migration & Visitors (Nov) |  |  | 9.40% |
-| 21:45 | NZD | Low | Permanent/Long-Term Migration (Nov) |  |  | 2,400 |
-| 21:45 | NZD | Low | Visitor Arrivals (MoM) |  |  | 0.6% |
+| 18 min | USD | Moderate | API Weekly Crude Oil Stock |  |  | 5.270M |
+| 33 min | NZD | Moderate | Electronic Card Retail Sales (MoM) (Dec) |  |  | 1.2% |
+| 33 min | NZD | Low | Electronic Card Retail Sales (YoY) (Dec) |  |  | 1.6% |
+| 33 min | NZD | Low | External Migration & Visitors (Nov) |  |  | 9.40% |
+| 33 min | NZD | Low | Permanent/Long-Term Migration (Nov) |  |  | 2,400 |
+| 33 min | NZD | Low | Visitor Arrivals (MoM) |  |  | 0.6% |
 | 23:00 | KRW | Low | GDP (QoQ) (Q4) |  | 0.1% | 1.3% |
 | 23:00 | KRW | Low | GDP (YoY) (Q4) |  | 1.9% | 1.8% |
 | 23:50 | JPY | Moderate | Adjusted Trade Balance |  | -0.06T | 0.06T |

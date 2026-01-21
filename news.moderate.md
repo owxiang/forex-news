@@ -18,8 +18,8 @@
 | 16:45 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | 20-Year Bond Auction | 4.846% |  | 4.798% |
 | 18:30 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock |  |  | 5.270M |
-| 21:45 | NZD | Electronic Card Retail Sales (MoM) (Dec) |  |  | 1.2% |
+| 18 min | USD | API Weekly Crude Oil Stock |  |  | 5.270M |
+| 33 min | NZD | Electronic Card Retail Sales (MoM) (Dec) |  |  | 1.2% |
 | 23:50 | JPY | Adjusted Trade Balance |  | -0.06T | 0.06T |
 | 23:50 | JPY | Exports (YoY) (Dec) |  | 6.1% | 6.1% |
 | 23:50 | JPY | Trade Balance (Dec) |  | 357.0B | 316.7B |
