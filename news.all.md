@@ -3,33 +3,33 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 02:00 | NZD | Low | RBNZ Offshore Holdings (Dec) | 57.50% |  | 58.00% |
-| 47 min | GBP | Low | Core CPI (YoY) (Dec) |  | 3.3% | 3.2% |
-| 47 min | GBP | Low | Core CPI (MoM) (Dec) |  | 0.3% | -0.2% |
-| 47 min | GBP | Low | Core PPI Output (MoM) (Dec) |  |  | 0.0% |
-| 47 min | GBP | Low | Core PPI Output (YoY) (Dec) |  |  | 3.5% |
-| 47 min | GBP | Low | Core RPI (MoM) (Dec) |  |  | -0.5% |
-| 47 min | GBP | Low | Core RPI (YoY) (Dec) |  |  | 3.7% |
-| 47 min | GBP | High | CPI (YoY) (Dec) |  | 3.3% | 3.2% |
-| 47 min | GBP | Moderate | CPI (MoM) (Dec) |  | 0.4% | -0.2% |
-| 47 min | GBP | Low | CPI, n.s.a (Dec) |  |  | 139.50 |
-| 47 min | GBP | Moderate | CPIH (YoY) |  |  | 4.1% |
-| 47 min | GBP | Moderate | PPI Input (MoM) (Dec) |  | -0.1% | 0.3% |
-| 47 min | GBP | Low | PPI Input (YoY) (Dec) |  |  | 1.1% |
-| 47 min | GBP | Low | PPI Output (MoM) (Dec) |  | 0.1% | 0.1% |
-| 47 min | GBP | Low | PPI Output (YoY) (Dec) |  |  | 3.4% |
-| 47 min | GBP | Low | RPI (MoM) (Dec) |  | 0.5% | -0.4% |
-| 47 min | GBP | Low | RPI (YoY) (Dec) |  | 4.1% | 3.8% |
-| 07:30 | IDR | Moderate | Interest Rate Decision |  | 4.75% | 4.75% |
-| 07:30 | IDR | Low | Deposit Facility Rate (Jan) |  |  | 3.75% |
-| 07:30 | IDR | Low | Lending Facility Rate (Jan) |  |  | 5.50% |
-| 07:30 | IDR | Low | Loans (YoY) (Dec) |  |  | 7.74% |
-| 07:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 08:00 | CHF | Low | M3 Money Supply (Dec) |  |  | 1,210.5B |
-| 08:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
-| 08:00 | ZAR | Low | Core CPI (MoM) (Dec) |  |  | 0.1% |
-| 08:00 | ZAR | Low | Core CPI (YoY) (Dec) |  |  | 3.2% |
-| 08:00 | ZAR | Low | CPI (MoM) (Dec) |  |  | -0.1% |
-| 08:00 | ZAR | Low | CPI (YoY) (Dec) |  | 3.6% | 3.5% |
+| 07:00 | GBP | Low | Core CPI (YoY) (Dec) | 3.2% | 3.3% | 3.2% |
+| 07:00 | GBP | Low | Core CPI (MoM) (Dec) | 0.3% | 0.3% | -0.2% |
+| 07:00 | GBP | Low | Core PPI Output (MoM) (Dec) | -0.1% |  | 0.1% |
+| 07:00 | GBP | Low | Core PPI Output (YoY) (Dec) | 3.2% |  | 3.6% |
+| 07:00 | GBP | Low | Core RPI (MoM) (Dec) | 0.7% |  | -0.5% |
+| 07:00 | GBP | Low | Core RPI (YoY) (Dec) | 4.1% |  | 3.7% |
+| 07:00 | GBP | High | CPI (YoY) (Dec) | 3.4% | 3.3% | 3.2% |
+| 07:00 | GBP | Moderate | CPI (MoM) (Dec) | 0.4% | 0.4% | -0.2% |
+| 07:00 | GBP | Low | CPI, n.s.a (Dec) | 140.10 |  | 139.50 |
+| 07:00 | GBP | Moderate | CPIH (YoY) | 3.6% |  | 3.5% |
+| 07:00 | GBP | Moderate | PPI Input (MoM) (Dec) | -0.2% | -0.1% | 0.5% |
+| 07:00 | GBP | Low | PPI Input (YoY) (Dec) | 0.8% |  | 1.1% |
+| 07:00 | GBP | Low | PPI Output (MoM) (Dec) | 0.0% | 0.1% | 0.1% |
+| 07:00 | GBP | Low | PPI Output (YoY) (Dec) | 3.4% |  | 3.4% |
+| 07:00 | GBP | Low | RPI (MoM) (Dec) | 0.7% | 0.5% | -0.4% |
+| 07:00 | GBP | Low | RPI (YoY) (Dec) | 4.2% | 4.1% | 3.8% |
+| 15 min | IDR | Moderate | Interest Rate Decision |  | 4.75% | 4.75% |
+| 15 min | IDR | Low | Deposit Facility Rate (Jan) |  |  | 3.75% |
+| 15 min | IDR | Low | Lending Facility Rate (Jan) |  |  | 5.50% |
+| 15 min | IDR | Low | Loans (YoY) (Dec) |  |  | 7.74% |
+| 15 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 45 min | CHF | Low | M3 Money Supply (Dec) |  |  | 1,210.5B |
+| 45 min | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
+| 45 min | ZAR | Low | Core CPI (MoM) (Dec) |  |  | 0.1% |
+| 45 min | ZAR | Low | Core CPI (YoY) (Dec) |  |  | 3.2% |
+| 45 min | ZAR | Low | CPI (MoM) (Dec) |  |  | -0.1% |
+| 45 min | ZAR | Low | CPI (YoY) (Dec) |  | 3.6% | 3.5% |
 | 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
 | 09:30 | GBP | Low | House Price Index (YoY) |  | 1.8% | 1.7% |
 | 10:00 | GBP | Low | 3-Year Treasury Gilt Auction |  |  | 4.062% |
