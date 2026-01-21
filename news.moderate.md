@@ -8,7 +8,7 @@
 | 07:30 | IDR | Interest Rate Decision | 4.75% | 4.75% | 4.75% |
 | 07:30 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 08:00 | CHF | World Economic Forum Annual Meetings |  |  |  |
-| 49 min | USD | IEA Monthly Report |  |  |  |
+| 09:00 | USD | IEA Monthly Report |  |  |  |
 | 13:30 | CAD | RMPI (MoM) (Dec) |  | -0.5% | 0.3% |
 | 14:15 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
 | 15:00 | USD | Construction Spending (MoM) (Oct) |  | 0.1% | 0.2% |

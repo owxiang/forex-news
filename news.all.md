@@ -24,15 +24,15 @@
 | 07:30 | IDR | Low | Lending Facility Rate (Jan) | 5.50% |  | 5.50% |
 | 07:30 | IDR | Low | Loans (YoY) (Dec) | 9.69% |  | 7.74% |
 | 07:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 08:00 | CHF | Low | M3 Money Supply (Dec) | 1,210,858.0B |  | 1,211,649.0B |
+| 08:00 | CHF | Low | M3 Money Supply (Dec) | 1,210.9B |  | 1,211.6B |
 | 08:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
 | 08:00 | ZAR | Low | Core CPI (MoM) (Dec) | 0.1% |  | 0.1% |
 | 08:00 | ZAR | Low | Core CPI (YoY) (Dec) | 3.3% |  | 3.2% |
 | 08:00 | ZAR | Low | CPI (MoM) (Dec) | 0.2% |  | -0.1% |
 | 08:00 | ZAR | Low | CPI (YoY) (Dec) | 3.6% | 3.6% | 3.5% |
-| 49 min | USD | Moderate | IEA Monthly Report |  |  |  |
-| 09:30 | GBP | Low | House Price Index (YoY) |  | 1.8% | 1.7% |
-| 10:00 | GBP | Low | 3-Year Treasury Gilt Auction |  |  | 4.062% |
+| 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
+| 17 min | GBP | Low | House Price Index (YoY) |  | 1.8% | 1.7% |
+| 47 min | GBP | Low | 3-Year Treasury Gilt Auction |  |  | 4.062% |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Jan) |  | -33 | -32 |
 | 11:00 | ZAR | Low | Retail Sales (YoY) (Nov) |  |  | 2.9% |
 | 11:30 | INR | Low | M3 Money Supply |  |  | 12.1% |

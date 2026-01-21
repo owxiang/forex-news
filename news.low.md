@@ -18,13 +18,13 @@
 | 07:30 | IDR | Deposit Facility Rate (Jan) | 3.75% |  | 3.75% |
 | 07:30 | IDR | Lending Facility Rate (Jan) | 5.50% |  | 5.50% |
 | 07:30 | IDR | Loans (YoY) (Dec) | 9.69% |  | 7.74% |
-| 08:00 | CHF | M3 Money Supply (Dec) | 1,210,858.0B |  | 1,211,649.0B |
+| 08:00 | CHF | M3 Money Supply (Dec) | 1,210.9B |  | 1,211.6B |
 | 08:00 | ZAR | Core CPI (MoM) (Dec) | 0.1% |  | 0.1% |
 | 08:00 | ZAR | Core CPI (YoY) (Dec) | 3.3% |  | 3.2% |
 | 08:00 | ZAR | CPI (MoM) (Dec) | 0.2% |  | -0.1% |
 | 08:00 | ZAR | CPI (YoY) (Dec) | 3.6% | 3.6% | 3.5% |
-| 09:30 | GBP | House Price Index (YoY) |  | 1.8% | 1.7% |
-| 10:00 | GBP | 3-Year Treasury Gilt Auction |  |  | 4.062% |
+| 17 min | GBP | House Price Index (YoY) |  | 1.8% | 1.7% |
+| 47 min | GBP | 3-Year Treasury Gilt Auction |  |  | 4.062% |
 | 11:00 | GBP | CBI Industrial Trends Orders (Jan) |  | -33 | -32 |
 | 11:00 | ZAR | Retail Sales (YoY) (Nov) |  |  | 2.9% |
 | 11:30 | INR | M3 Money Supply |  |  | 12.1% |
