@@ -13,8 +13,8 @@
 | 07:00 | GBP | PPI Input (YoY) (Dec) | 0.8% |  | 1.1% |
 | 07:00 | GBP | PPI Output (MoM) (Dec) | 0.0% | 0.1% | 0.1% |
 | 07:00 | GBP | PPI Output (YoY) (Dec) | 3.4% |  | 3.4% |
-| 07:00 | GBP | RPI (MoM) (Dec) | 0.7% | 0.5% | -0.4% |
 | 07:00 | GBP | RPI (YoY) (Dec) | 4.2% | 4.1% | 3.8% |
+| 07:00 | GBP | RPI (MoM) (Dec) | 0.7% | 0.5% | -0.4% |
 | 07:25 | IDR | Loans (YoY) (Dec) | 9.69% |  | 7.74% |
 | 07:30 | IDR | Deposit Facility Rate (Jan) | 3.75% |  | 3.75% |
 | 07:30 | IDR | Lending Facility Rate (Jan) | 5.50% |  | 5.50% |
@@ -27,18 +27,18 @@
 | 10:00 | GBP | 5-Year Treasury Gilt Auction | 3.821% |  | 3.980% |
 | 11:00 | GBP | CBI Industrial Trends Orders (Jan) | -30 | -33 | -32 |
 | 11:00 | ZAR | Retail Sales (YoY) (Nov) | 3.5% |  | 3.0% |
-| 21 min | INR | M3 Money Supply |  |  | 12.1% |
-| 51 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.18% |
-| 51 min | USD | MBA Mortgage Applications (WoW) |  |  | 28.5% |
-| 51 min | USD | MBA Purchase Index |  |  | 184.6 |
-| 51 min | USD | Mortgage Market Index |  |  | 348.0 |
-| 51 min | USD | Mortgage Refinance Index |  |  | 1,313.1 |
-| 51 min | MXN | Retail Sales (YoY) (Nov) |  | 3.0% | 3.4% |
-| 51 min | MXN | Retail Sales (MoM) (Nov) |  | 0.1% | 0.4% |
-| 13:00 | CNY | FDI (Dec) |  |  | -7.50% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.16% |  | 6.18% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | 14.1% |  | 28.5% |
+| 12:00 | USD | MBA Purchase Index | 194.1 |  | 184.6 |
+| 12:00 | USD | Mortgage Market Index | 397.2 |  | 348.0 |
+| 12:00 | USD | Mortgage Refinance Index | 1,580.8 |  | 1,313.1 |
+| 12:00 | MXN | Retail Sales (YoY) (Nov) | 4.4% | 3.0% | 3.4% |
+| 12:00 | MXN | Retail Sales (MoM) (Nov) | 1.0% | 0.1% | 0.4% |
+| 46 min | CNY | FDI (Dec) |  |  | -7.50% |
 | 13:30 | CAD | IPPI (MoM) (Dec) |  | 0.3% | 0.9% |
 | 13:30 | CAD | IPPI (YoY) (Dec) |  |  | 6.1% |
 | 13:30 | CAD | RMPI (YoY) (Dec) |  |  | 6.4% |
+| 13:30 | INR | M3 Money Supply |  |  | 12.1% |
 | 13:55 | USD | Redbook (YoY) |  |  | 5.7% |
 | 15:00 | USD | Pending Home Sales Index (Dec) |  |  | 79.2 |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | -1.696B |
