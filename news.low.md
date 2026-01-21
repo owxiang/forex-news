@@ -33,13 +33,12 @@
 | 12:00 | USD | Mortgage Market Index | 397.2 |  | 348.0 |
 | 12:00 | USD | Mortgage Refinance Index | 1,580.8 |  | 1,313.1 |
 | 12:00 | MXN | Retail Sales (YoY) (Nov) | 4.4% | 3.0% | 3.4% |
-| 12:00 | MXN | Retail Sales (MoM) (Nov) | 1.0% | 0.1% | 0.4% |
-| 46 min | CNY | FDI (Dec) |  |  | -7.50% |
-| 13:30 | CAD | IPPI (MoM) (Dec) |  | 0.3% | 0.9% |
-| 13:30 | CAD | IPPI (YoY) (Dec) |  |  | 6.1% |
-| 13:30 | CAD | RMPI (YoY) (Dec) |  |  | 6.4% |
-| 13:30 | INR | M3 Money Supply |  |  | 12.1% |
-| 13:55 | USD | Redbook (YoY) |  |  | 5.7% |
+| 12:00 | MXN | Retail Sales (MoM) (Nov) | 1.0% | 0.1% | 0.5% |
+| 8 min | CAD | IPPI (MoM) (Dec) |  | 0.3% | 0.9% |
+| 8 min | CAD | IPPI (YoY) (Dec) |  |  | 6.1% |
+| 8 min | CAD | RMPI (YoY) (Dec) |  |  | 6.4% |
+| 8 min | INR | M3 Money Supply |  |  | 12.1% |
+| 33 min | USD | Redbook (YoY) |  |  | 5.7% |
 | 15:00 | USD | Pending Home Sales Index (Dec) |  |  | 79.2 |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | -1.696B |
 | 21:45 | NZD | Electronic Card Retail Sales (YoY) (Dec) |  |  | 1.6% |
