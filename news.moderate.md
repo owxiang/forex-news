@@ -9,10 +9,10 @@
 | 07:30 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 08:00 | CHF | World Economic Forum Annual Meetings |  |  |  |
 | 09:00 | USD | IEA Monthly Report |  |  |  |
-| 8 min | CAD | RMPI (MoM) (Dec) |  | -0.5% | 0.3% |
-| 53 min | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
-| 15:00 | USD | Construction Spending (MoM) (Oct) |  | 0.1% | 0.2% |
-| 15:00 | USD | Pending Home Sales (MoM) (Dec) |  | -0.3% | 3.3% |
+| 13:30 | CAD | RMPI (MoM) (Dec) | 0.5% | -0.5% | 0.6% |
+| 1 min | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
+| 46 min | USD | Construction Spending (MoM) (Oct) |  | 0.1% | 0.2% |
+| 46 min | USD | Pending Home Sales (MoM) (Dec) |  | -0.3% | 3.3% |
 | 16:45 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 17:00 | USD | Atlanta Fed GDPNow (Q4) |  | 5.3% | 5.3% |
 | 18:00 | USD | 20-Year Bond Auction |  |  | 4.798% |

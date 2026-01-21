@@ -9,16 +9,16 @@
 | 07:00 | GBP | Low | Core PPI Output (YoY) (Dec) | 3.2% |  | 3.6% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Dec) | 0.7% |  | -0.5% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Dec) | 4.1% |  | 3.7% |
-| 07:00 | GBP | Moderate | CPI (MoM) (Dec) | 0.4% | 0.4% | -0.2% |
 | 07:00 | GBP | High | CPI (YoY) (Dec) | 3.4% | 3.3% | 3.2% |
+| 07:00 | GBP | Moderate | CPI (MoM) (Dec) | 0.4% | 0.4% | -0.2% |
 | 07:00 | GBP | Low | CPI, n.s.a (Dec) | 140.10 |  | 139.50 |
 | 07:00 | GBP | Moderate | CPIH (YoY) | 3.6% |  | 3.5% |
 | 07:00 | GBP | Low | PPI Input (YoY) (Dec) | 0.8% |  | 1.1% |
 | 07:00 | GBP | Moderate | PPI Input (MoM) (Dec) | -0.2% | -0.1% | 0.5% |
 | 07:00 | GBP | Low | PPI Output (MoM) (Dec) | 0.0% | 0.1% | 0.1% |
 | 07:00 | GBP | Low | PPI Output (YoY) (Dec) | 3.4% |  | 3.4% |
-| 07:00 | GBP | Low | RPI (YoY) (Dec) | 4.2% | 4.1% | 3.8% |
 | 07:00 | GBP | Low | RPI (MoM) (Dec) | 0.7% | 0.5% | -0.4% |
+| 07:00 | GBP | Low | RPI (YoY) (Dec) | 4.2% | 4.1% | 3.8% |
 | 07:25 | IDR | Low | Loans (YoY) (Dec) | 9.69% |  | 7.74% |
 | 07:30 | IDR | Moderate | Interest Rate Decision | 4.75% | 4.75% | 4.75% |
 | 07:30 | IDR | Low | Deposit Facility Rate (Jan) | 3.75% |  | 3.75% |
@@ -42,17 +42,16 @@
 | 12:00 | USD | Low | Mortgage Refinance Index | 1,580.8 |  | 1,313.1 |
 | 12:00 | MXN | Low | Retail Sales (YoY) (Nov) | 4.4% | 3.0% | 3.4% |
 | 12:00 | MXN | Low | Retail Sales (MoM) (Nov) | 1.0% | 0.1% | 0.5% |
-| 8 min | USD | High | U.S. President Trump Speaks |  |  |  |
-| 8 min | CAD | Low | IPPI (MoM) (Dec) |  | 0.3% | 0.9% |
-| 8 min | CAD | Low | IPPI (YoY) (Dec) |  |  | 6.1% |
-| 8 min | CAD | Moderate | RMPI (MoM) (Dec) |  | -0.5% | 0.3% |
-| 8 min | CAD | Low | RMPI (YoY) (Dec) |  |  | 6.4% |
-| 8 min | INR | Low | M3 Money Supply |  |  | 12.1% |
-| 33 min | USD | Low | Redbook (YoY) |  |  | 5.7% |
-| 53 min | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
-| 15:00 | USD | Moderate | Construction Spending (MoM) (Oct) |  | 0.1% | 0.2% |
-| 15:00 | USD | Moderate | Pending Home Sales (MoM) (Dec) |  | -0.3% | 3.3% |
-| 15:00 | USD | Low | Pending Home Sales Index (Dec) |  |  | 79.2 |
+| 13:30 | USD | High | U.S. President Trump Speaks |  |  |  |
+| 13:30 | CAD | Low | IPPI (MoM) (Dec) | -0.6% | 0.3% | 1.1% |
+| 13:30 | CAD | Low | IPPI (YoY) (Dec) | 4.9% |  | 5.9% |
+| 13:30 | CAD | Moderate | RMPI (MoM) (Dec) | 0.5% | -0.5% | 0.6% |
+| 13:30 | CAD | Low | RMPI (YoY) (Dec) | 6.4% |  | 7.2% |
+| 13:55 | USD | Low | Redbook (YoY) | 5.5% |  | 5.7% |
+| 1 min | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
+| 46 min | USD | Moderate | Construction Spending (MoM) (Oct) |  | 0.1% | 0.2% |
+| 46 min | USD | Moderate | Pending Home Sales (MoM) (Dec) |  | -0.3% | 3.3% |
+| 46 min | USD | Low | Pending Home Sales Index (Dec) |  |  | 79.2 |
 | 16:45 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 5.3% | 5.3% |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -1.696B |

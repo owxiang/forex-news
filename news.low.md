@@ -13,8 +13,8 @@
 | 07:00 | GBP | PPI Input (YoY) (Dec) | 0.8% |  | 1.1% |
 | 07:00 | GBP | PPI Output (MoM) (Dec) | 0.0% | 0.1% | 0.1% |
 | 07:00 | GBP | PPI Output (YoY) (Dec) | 3.4% |  | 3.4% |
-| 07:00 | GBP | RPI (YoY) (Dec) | 4.2% | 4.1% | 3.8% |
 | 07:00 | GBP | RPI (MoM) (Dec) | 0.7% | 0.5% | -0.4% |
+| 07:00 | GBP | RPI (YoY) (Dec) | 4.2% | 4.1% | 3.8% |
 | 07:25 | IDR | Loans (YoY) (Dec) | 9.69% |  | 7.74% |
 | 07:30 | IDR | Deposit Facility Rate (Jan) | 3.75% |  | 3.75% |
 | 07:30 | IDR | Lending Facility Rate (Jan) | 5.50% |  | 5.50% |
@@ -34,12 +34,11 @@
 | 12:00 | USD | Mortgage Refinance Index | 1,580.8 |  | 1,313.1 |
 | 12:00 | MXN | Retail Sales (YoY) (Nov) | 4.4% | 3.0% | 3.4% |
 | 12:00 | MXN | Retail Sales (MoM) (Nov) | 1.0% | 0.1% | 0.5% |
-| 8 min | CAD | IPPI (MoM) (Dec) |  | 0.3% | 0.9% |
-| 8 min | CAD | IPPI (YoY) (Dec) |  |  | 6.1% |
-| 8 min | CAD | RMPI (YoY) (Dec) |  |  | 6.4% |
-| 8 min | INR | M3 Money Supply |  |  | 12.1% |
-| 33 min | USD | Redbook (YoY) |  |  | 5.7% |
-| 15:00 | USD | Pending Home Sales Index (Dec) |  |  | 79.2 |
+| 13:30 | CAD | IPPI (MoM) (Dec) | -0.6% | 0.3% | 1.1% |
+| 13:30 | CAD | IPPI (YoY) (Dec) | 4.9% |  | 5.9% |
+| 13:30 | CAD | RMPI (YoY) (Dec) | 6.4% |  | 7.2% |
+| 13:55 | USD | Redbook (YoY) | 5.5% |  | 5.7% |
+| 46 min | USD | Pending Home Sales Index (Dec) |  |  | 79.2 |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | -1.696B |
 | 21:45 | NZD | Electronic Card Retail Sales (YoY) (Dec) |  |  | 1.6% |
 | 21:45 | NZD | External Migration & Visitors (Nov) |  |  | 9.40% |
