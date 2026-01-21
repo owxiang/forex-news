@@ -55,9 +55,9 @@
 | 15:00 | USD | Low | Pending Home Sales Index (Dec) | 71.8 |  | 79.2 |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 5.4% | 5.3% | 5.3% |
 | 16:45 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 4 min | BRL | Low | Foreign Exchange Flows |  |  | -1.696B |
-| 34 min | USD | Moderate | 20-Year Bond Auction |  |  | 4.798% |
-| 18:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 17:30 | BRL | Low | Foreign Exchange Flows | 2.215B |  | -1.696B |
+| 18:00 | USD | Moderate | 20-Year Bond Auction | 4.846% |  | 4.798% |
+| 10 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 5.270M |
 | 21:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Dec) |  |  | 1.2% |
 | 21:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Dec) |  |  | 1.6% |
