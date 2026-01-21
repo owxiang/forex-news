@@ -2,18 +2,17 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | AUD | MI Leading Index (MoM) (Dec) | 0.1% |  | -0.0% |
-| 23 min | NZD | RBNZ Offshore Holdings (Dec) |  |  | 58.00% |
+| 02:00 | NZD | RBNZ Offshore Holdings (Dec) | 57.50% |  | 58.00% |
 | 07:00 | GBP | Core CPI (YoY) (Dec) |  | 3.3% | 3.2% |
 | 07:00 | GBP | Core CPI (MoM) (Dec) |  | 0.3% | -0.2% |
-| 07:00 | GBP | Core PPI Output (YoY) (Dec) |  |  | 3.5% |
 | 07:00 | GBP | Core PPI Output (MoM) (Dec) |  |  | 0.0% |
-| 07:00 | GBP | Core RPI (YoY) (Dec) |  |  | 3.7% |
+| 07:00 | GBP | Core PPI Output (YoY) (Dec) |  |  | 3.5% |
 | 07:00 | GBP | Core RPI (MoM) (Dec) |  |  | -0.5% |
+| 07:00 | GBP | Core RPI (YoY) (Dec) |  |  | 3.7% |
 | 07:00 | GBP | CPI, n.s.a (Dec) |  |  | 139.50 |
 | 07:00 | GBP | PPI Input (YoY) (Dec) |  |  | 1.1% |
-| 07:00 | GBP | PPI Output (YoY) (Dec) |  |  | 3.4% |
 | 07:00 | GBP | PPI Output (MoM) (Dec) |  | 0.1% | 0.1% |
+| 07:00 | GBP | PPI Output (YoY) (Dec) |  |  | 3.4% |
 | 07:00 | GBP | RPI (MoM) (Dec) |  | 0.5% | -0.4% |
 | 07:00 | GBP | RPI (YoY) (Dec) |  | 4.1% | 3.8% |
 | 07:20 | IDR | Loans (YoY) (Dec) |  |  | 7.74% |
