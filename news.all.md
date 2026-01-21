@@ -33,16 +33,16 @@
 | 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
 | 09:30 | GBP | Low | House Price Index (YoY) | 2.5% | 1.8% | 1.7% |
 | 10:00 | GBP | Low | 5-Year Treasury Gilt Auction | 3.821% |  | 3.980% |
-| 50 min | GBP | Low | CBI Industrial Trends Orders (Jan) |  | -33 | -32 |
-| 50 min | ZAR | Low | Retail Sales (YoY) (Nov) |  |  | 2.9% |
-| 11:30 | INR | Low | M3 Money Supply |  |  | 12.1% |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.18% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 28.5% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 184.6 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 348.0 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 1,313.1 |
-| 12:00 | MXN | Low | Retail Sales (YoY) (Nov) |  | 3.0% | 3.4% |
-| 12:00 | MXN | Low | Retail Sales (MoM) (Nov) |  | 0.1% | 0.4% |
+| 11:00 | GBP | Low | CBI Industrial Trends Orders (Jan) | -30 | -33 | -32 |
+| 11:00 | ZAR | Low | Retail Sales (YoY) (Nov) | 3.5% |  | 3.0% |
+| 21 min | INR | Low | M3 Money Supply |  |  | 12.1% |
+| 51 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.18% |
+| 51 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | 28.5% |
+| 51 min | USD | Low | MBA Purchase Index |  |  | 184.6 |
+| 51 min | USD | Low | Mortgage Market Index |  |  | 348.0 |
+| 51 min | USD | Low | Mortgage Refinance Index |  |  | 1,313.1 |
+| 51 min | MXN | Low | Retail Sales (YoY) (Nov) |  | 3.0% | 3.4% |
+| 51 min | MXN | Low | Retail Sales (MoM) (Nov) |  | 0.1% | 0.4% |
 | 13:00 | CNY | Low | FDI (Dec) |  |  | -7.50% |
 | 13:30 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 13:30 | CAD | Low | IPPI (MoM) (Dec) |  | 0.3% | 0.9% |
