@@ -1,3 +1,6 @@
-## 20 January 2026 - High Impact Forex News
+## 21 January 2026 - High Impact Forex News
 
-There is no high impact news today.
+| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 07:00 | GBP | CPI (YoY) (Dec) |  | 3.3% | 3.2% |
+| 13:30 | USD | U.S. President Trump Speaks |  |  |  |
