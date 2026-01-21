@@ -5,10 +5,10 @@
 | 07:00 | GBP | CPI (MoM) (Dec) | 0.4% | 0.4% | -0.2% |
 | 07:00 | GBP | CPIH (YoY) | 3.6% |  | 3.5% |
 | 07:00 | GBP | PPI Input (MoM) (Dec) | -0.2% | -0.1% | 0.5% |
-| 15 min | IDR | Interest Rate Decision |  | 4.75% | 4.75% |
-| 15 min | EUR | ECB President Lagarde Speaks |  |  |  |
-| 45 min | CHF | World Economic Forum Annual Meetings |  |  |  |
-| 09:00 | USD | IEA Monthly Report |  |  |  |
+| 07:30 | IDR | Interest Rate Decision | 4.75% | 4.75% | 4.75% |
+| 07:30 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 08:00 | CHF | World Economic Forum Annual Meetings |  |  |  |
+| 49 min | USD | IEA Monthly Report |  |  |  |
 | 13:30 | CAD | RMPI (MoM) (Dec) |  | -0.5% | 0.3% |
 | 14:15 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
 | 15:00 | USD | Construction Spending (MoM) (Oct) |  | 0.1% | 0.2% |
