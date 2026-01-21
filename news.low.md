@@ -13,8 +13,8 @@
 | 07:00 | GBP | PPI Input (YoY) (Dec) | 0.8% |  | 1.1% |
 | 07:00 | GBP | PPI Output (MoM) (Dec) | 0.0% | 0.1% | 0.1% |
 | 07:00 | GBP | PPI Output (YoY) (Dec) | 3.4% |  | 3.4% |
-| 07:00 | GBP | RPI (MoM) (Dec) | 0.7% | 0.5% | -0.4% |
 | 07:00 | GBP | RPI (YoY) (Dec) | 4.2% | 4.1% | 3.8% |
+| 07:00 | GBP | RPI (MoM) (Dec) | 0.7% | 0.5% | -0.4% |
 | 07:25 | IDR | Loans (YoY) (Dec) | 9.69% |  | 7.74% |
 | 07:30 | IDR | Deposit Facility Rate (Jan) | 3.75% |  | 3.75% |
 | 07:30 | IDR | Lending Facility Rate (Jan) | 5.50% |  | 5.50% |

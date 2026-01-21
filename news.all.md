@@ -9,16 +9,16 @@
 | 07:00 | GBP | Low | Core PPI Output (YoY) (Dec) | 3.2% |  | 3.6% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Dec) | 0.7% |  | -0.5% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Dec) | 4.1% |  | 3.7% |
-| 07:00 | GBP | High | CPI (YoY) (Dec) | 3.4% | 3.3% | 3.2% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Dec) | 0.4% | 0.4% | -0.2% |
+| 07:00 | GBP | High | CPI (YoY) (Dec) | 3.4% | 3.3% | 3.2% |
 | 07:00 | GBP | Low | CPI, n.s.a (Dec) | 140.10 |  | 139.50 |
 | 07:00 | GBP | Moderate | CPIH (YoY) | 3.6% |  | 3.5% |
 | 07:00 | GBP | Low | PPI Input (YoY) (Dec) | 0.8% |  | 1.1% |
 | 07:00 | GBP | Moderate | PPI Input (MoM) (Dec) | -0.2% | -0.1% | 0.5% |
 | 07:00 | GBP | Low | PPI Output (MoM) (Dec) | 0.0% | 0.1% | 0.1% |
 | 07:00 | GBP | Low | PPI Output (YoY) (Dec) | 3.4% |  | 3.4% |
-| 07:00 | GBP | Low | RPI (MoM) (Dec) | 0.7% | 0.5% | -0.4% |
 | 07:00 | GBP | Low | RPI (YoY) (Dec) | 4.2% | 4.1% | 3.8% |
+| 07:00 | GBP | Low | RPI (MoM) (Dec) | 0.7% | 0.5% | -0.4% |
 | 07:25 | IDR | Low | Loans (YoY) (Dec) | 9.69% |  | 7.74% |
 | 07:30 | IDR | Moderate | Interest Rate Decision | 4.75% | 4.75% | 4.75% |
 | 07:30 | IDR | Low | Deposit Facility Rate (Jan) | 3.75% |  | 3.75% |
@@ -49,11 +49,12 @@
 | 13:30 | CAD | Low | RMPI (YoY) (Dec) | 6.4% |  | 7.2% |
 | 13:55 | USD | Low | Redbook (YoY) | 5.5% |  | 5.7% |
 | 14:15 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
-| 15:00 | USD | Moderate | Construction Spending (MoM) (Oct) | 0.5% | 0.1% | 0.2% |
+| 14:59 | USD | Moderate | Construction Spending (MoM) (Sep) | -0.6% |  | 0.4% |
+| 15:00 | USD | Moderate | Construction Spending (MoM) (Oct) | 0.5% | 0.1% | -0.6% |
 | 15:00 | USD | Moderate | Pending Home Sales (MoM) (Dec) | -9.3% | -0.3% | 3.3% |
 | 15:00 | USD | Low | Pending Home Sales Index (Dec) | 71.8 |  | 79.2 |
-| 16:45 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 5.3% | 5.3% |
+| 32 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 47 min | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 5.3% | 5.3% |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -1.696B |
 | 18:00 | USD | Moderate | 20-Year Bond Auction |  |  | 4.798% |
 | 18:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
