@@ -17,7 +17,7 @@
 | 16:30 | USD | Atlanta Fed GDPNow (Q4) | 5.4% | 5.3% | 5.3% |
 | 16:45 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | 20-Year Bond Auction | 4.846% |  | 4.798% |
-| 10 min | EUR | German Buba President Nagel Speaks |  |  |  |
+| 18:30 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | 5.270M |
 | 21:45 | NZD | Electronic Card Retail Sales (MoM) (Dec) |  |  | 1.2% |
 | 23:50 | JPY | Adjusted Trade Balance |  | -0.06T | 0.06T |
