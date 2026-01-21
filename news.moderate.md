@@ -20,6 +20,6 @@
 | 18:30 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | 5.270M |
 | 21:45 | NZD | Electronic Card Retail Sales (MoM) (Dec) | -0.1% |  | 1.2% |
-| 23:50 | JPY | Adjusted Trade Balance |  | -0.06T | 0.06T |
-| 23:50 | JPY | Exports (YoY) (Dec) |  | 6.1% | 6.1% |
-| 23:50 | JPY | Trade Balance (Dec) |  | 357.0B | 316.7B |
+| 41 min | JPY | Adjusted Trade Balance |  | -0.06T | 0.06T |
+| 41 min | JPY | Exports (YoY) (Dec) |  | 6.1% | 6.1% |
+| 41 min | JPY | Trade Balance (Dec) |  | 357.0B | 316.7B |

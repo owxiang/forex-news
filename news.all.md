@@ -64,11 +64,11 @@
 | 21:45 | NZD | Low | External Migration & Visitors (Nov) | 8.20% |  | 9.40% |
 | 21:45 | NZD | Low | Permanent/Long-Term Migration (Nov) | 990 |  | 1,610 |
 | 21:45 | NZD | Low | Visitor Arrivals (MoM) | 0.8% |  | 0.7% |
-| 50 min | KRW | Low | GDP (QoQ) (Q4) |  | 0.1% | 1.3% |
-| 50 min | KRW | Low | GDP (YoY) (Q4) |  | 1.9% | 1.8% |
-| 23:50 | JPY | Moderate | Adjusted Trade Balance |  | -0.06T | 0.06T |
-| 23:50 | JPY | Moderate | Exports (YoY) (Dec) |  | 6.1% | 6.1% |
-| 23:50 | JPY | Low | Foreign Bonds Buying |  |  | 101.1B |
-| 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 1,141.4B |
-| 23:50 | JPY | Low | Imports (YoY) (Dec) |  | 3.6% | 1.3% |
-| 23:50 | JPY | Moderate | Trade Balance (Dec) |  | 357.0B | 316.7B |
+| 23:00 | KRW | Low | GDP (QoQ) (Q4) | -0.3% | 0.1% | 1.3% |
+| 23:00 | KRW | Low | GDP (YoY) (Q4) | 1.5% | 1.9% | 1.8% |
+| 41 min | JPY | Moderate | Adjusted Trade Balance |  | -0.06T | 0.06T |
+| 41 min | JPY | Moderate | Exports (YoY) (Dec) |  | 6.1% | 6.1% |
+| 41 min | JPY | Low | Foreign Bonds Buying |  |  | 101.1B |
+| 41 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 1,141.4B |
+| 41 min | JPY | Low | Imports (YoY) (Dec) |  | 3.6% | 1.3% |
+| 41 min | JPY | Moderate | Trade Balance (Dec) |  | 357.0B | 316.7B |
