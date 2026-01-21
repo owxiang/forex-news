@@ -12,8 +12,9 @@
 | 07:00 | GBP | High | CPI (YoY) (Dec) |  | 3.3% | 3.2% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Dec) |  | 0.4% | -0.2% |
 | 07:00 | GBP | Low | CPI, n.s.a (Dec) |  |  | 139.50 |
-| 07:00 | GBP | Low | PPI Input (YoY) (Dec) |  |  | 1.1% |
+| 07:00 | GBP | Moderate | CPIH (YoY) |  |  | 4.1% |
 | 07:00 | GBP | Moderate | PPI Input (MoM) (Dec) |  | -0.1% | 0.3% |
+| 07:00 | GBP | Low | PPI Input (YoY) (Dec) |  |  | 1.1% |
 | 07:00 | GBP | Low | PPI Output (MoM) (Dec) |  | 0.1% | 0.1% |
 | 07:00 | GBP | Low | PPI Output (YoY) (Dec) |  |  | 3.4% |
 | 07:00 | GBP | Low | RPI (MoM) (Dec) |  | 0.5% | -0.4% |
@@ -51,19 +52,20 @@
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.7% |
 | 14:15 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
 | 15:00 | USD | Moderate | Construction Spending (MoM) (Oct) |  | 0.1% | 0.2% |
-| 15:00 | USD | Moderate | Pending Home Sales (MoM) (Dec) |  | -2.6% | 3.3% |
+| 15:00 | USD | Moderate | Pending Home Sales (MoM) (Dec) |  | -0.3% | 3.3% |
 | 15:00 | USD | Low | Pending Home Sales Index (Dec) |  |  | 79.2 |
 | 16:45 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 5.3% | 5.3% |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -1.696B |
 | 18:00 | USD | Moderate | 20-Year Bond Auction |  |  | 4.798% |
 | 18:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 5.270M |
 | 21:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Dec) |  |  | 1.2% |
 | 21:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Dec) |  |  | 1.6% |
 | 21:45 | NZD | Low | External Migration & Visitors (Nov) |  |  | 9.40% |
 | 21:45 | NZD | Low | Permanent/Long-Term Migration (Nov) |  |  | 2,400 |
 | 21:45 | NZD | Low | Visitor Arrivals (MoM) |  |  | 0.6% |
-| 23:00 | KRW | Low | GDP (QoQ) (Q4) |  | 0.2% | 1.3% |
+| 23:00 | KRW | Low | GDP (QoQ) (Q4) |  | 0.1% | 1.3% |
 | 23:00 | KRW | Low | GDP (YoY) (Q4) |  | 1.9% | 1.8% |
 | 23:50 | JPY | Moderate | Adjusted Trade Balance |  | -0.06T | 0.06T |
 | 23:50 | JPY | Moderate | Exports (YoY) (Dec) |  | 6.1% | 6.1% |
