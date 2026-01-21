@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | AUD | MI Leading Index (MoM) (Dec) | 0.1% |  | -0.0% |
-| 02:00 | NZD | RBNZ Offshore Holdings (Dec) |  |  | 58.00% |
+| 23 min | NZD | RBNZ Offshore Holdings (Dec) |  |  | 58.00% |
 | 07:00 | GBP | Core CPI (YoY) (Dec) |  | 3.3% | 3.2% |
 | 07:00 | GBP | Core CPI (MoM) (Dec) |  | 0.3% | -0.2% |
 | 07:00 | GBP | Core PPI Output (YoY) (Dec) |  |  | 3.5% |
