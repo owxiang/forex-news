@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | GBP | CPI (MoM) (Dec) |  | 0.4% | -0.2% |
-| 07:00 | GBP | CPIH (YoY) |  |  | 4.1% |
-| 07:00 | GBP | PPI Input (MoM) (Dec) |  | -0.1% | 0.3% |
+| 47 min | GBP | CPI (MoM) (Dec) |  | 0.4% | -0.2% |
+| 47 min | GBP | CPIH (YoY) |  |  | 4.1% |
+| 47 min | GBP | PPI Input (MoM) (Dec) |  | -0.1% | 0.3% |
 | 07:30 | IDR | Interest Rate Decision |  | 4.75% | 4.75% |
 | 07:30 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 08:00 | CHF | World Economic Forum Annual Meetings |  |  |  |
