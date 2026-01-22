@@ -6,6 +6,6 @@
 | 13:30 | USD | Initial Jobless Claims | 200K | 209K | 199K |
 | 14:59 | USD | Core PCE Price Index (MoM) (Oct) | 0.2% |  | 0.2% |
 | 14:59 | USD | Core PCE Price Index (YoY) (Oct) | 2.7% |  | 2.8% |
-| 15:00 | USD | Core PCE Price Index (YoY) (Nov) | 2.8% | 2.8% | 2.7% |
 | 15:00 | USD | Core PCE Price Index (MoM) (Nov) | 0.2% | 0.2% | 0.2% |
-| 17:00 | USD | Crude Oil Inventories |  | -1.000M | 3.391M |
+| 15:00 | USD | Core PCE Price Index (YoY) (Nov) | 2.8% | 2.8% | 2.7% |
+| 48 min | USD | Crude Oil Inventories |  | -1.000M | 3.391M |
