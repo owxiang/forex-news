@@ -4,10 +4,10 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Participation Rate (Dec) | 66.7% | 66.8% | 66.6% |
 | 07:00 | GBP | Public Sector Net Borrowing (Dec) | -11.58B | -13.40B | -11.65B |
-| 07:00 | GBP | Public Sector Net Cash Requirement (Dec) | 16.908B |  | 10.293B |
+| 07:00 | GBP | Public Sector Net Cash Requirement (Dec) | 16.908B |  | 9.516B |
 | 07:00 | NOK | Unemployment Rate (Dec) | 4.3% |  | 4.5% |
-| 08:30 | HKD | CPI (MoM) (Dec) |  |  | 0.00% |
-| 08:30 | HKD | CPI (YoY) (Dec) |  |  | 1.20% |
+| 19 min | HKD | CPI (MoM) (Dec) |  |  | 0.00% |
+| 19 min | HKD | CPI (YoY) (Dec) |  |  | 1.20% |
 | 11:00 | GBP | CBI Distributive Trades Survey (Jan) |  | -35 | -44 |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 11:30 | INR | M3 Money Supply |  |  | 12.1% |
