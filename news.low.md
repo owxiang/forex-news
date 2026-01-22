@@ -37,9 +37,9 @@
 | 17:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -2.0% |  | 0.6% |
 | 17:00 | USD | Gasoline Inventories | 5.977M | 1.700M | 8.977M |
 | 21:00 | KRW | Consumer Confidence (Jan) | 110.8 |  | 109.9 |
-| 21 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.062T |
-| 51 min | AUD | Manufacturing & Services PMI (Jan) |  |  | 51.00 |
-| 51 min | AUD | Judo Bank Manufacturing PMI (Jan) |  |  | 51.6 |
-| 51 min | AUD | Judo Bank Services PMI (Jan) |  |  | 51.1 |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 2.957T |  | 3.062T |
+| 22:00 | AUD | Manufacturing & Services PMI (Jan) | 55.50 |  | 51.00 |
+| 22:00 | AUD | Judo Bank Manufacturing PMI (Jan) | 52.4 |  | 51.6 |
+| 22:00 | AUD | Judo Bank Services PMI (Jan) | 56.0 |  | 51.1 |
 | 23:30 | JPY | CPI, n.s.a (MoM) (Dec) |  |  | 0.3% |
 | 23:30 | JPY | National CPI (YoY) (Dec) |  |  | 2.9% |

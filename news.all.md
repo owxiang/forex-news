@@ -63,13 +63,13 @@
 | 17:00 | USD | Low | Gasoline Inventories | 5.977M | 1.700M | 8.977M |
 | 18:00 | USD | Moderate | 10-Year TIPS Auction | 1.940% |  | 1.843% |
 | 21:00 | KRW | Low | Consumer Confidence (Jan) | 110.8 |  | 109.9 |
-| 21 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,582B |
-| 21 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.062T |
-| 36 min | NZD | Moderate | CPI (QoQ) (Q4) |  | 0.5% | 1.0% |
-| 36 min | NZD | Moderate | CPI (YoY) (Q4) |  | 3.0% | 3.0% |
-| 51 min | AUD | Low | Manufacturing & Services PMI (Jan) |  |  | 51.00 |
-| 51 min | AUD | Low | Judo Bank Manufacturing PMI (Jan) |  |  | 51.6 |
-| 51 min | AUD | Low | Judo Bank Services PMI (Jan) |  |  | 51.1 |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,585B |  | 6,582B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 2.957T |  | 3.062T |
+| 21:45 | NZD | Moderate | CPI (QoQ) (Q4) | 0.6% | 0.5% | 1.0% |
+| 21:45 | NZD | Moderate | CPI (YoY) (Q4) | 3.1% | 3.0% | 3.0% |
+| 22:00 | AUD | Low | Manufacturing & Services PMI (Jan) | 55.50 |  | 51.00 |
+| 22:00 | AUD | Low | Judo Bank Manufacturing PMI (Jan) | 52.4 |  | 51.6 |
+| 22:00 | AUD | Low | Judo Bank Services PMI (Jan) | 56.0 |  | 51.1 |
 | 23:30 | JPY | Low | CPI, n.s.a (MoM) (Dec) |  |  | 0.3% |
 | 23:30 | JPY | Moderate | National Core CPI (YoY) (Dec) |  | 2.4% | 3.0% |
 | 23:30 | JPY | Low | National CPI (YoY) (Dec) |  |  | 2.9% |

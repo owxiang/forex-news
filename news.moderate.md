@@ -21,8 +21,8 @@
 | 17:00 | USD | Atlanta Fed GDPNow (Q4) | 5.4% | 5.4% | 5.4% |
 | 17:00 | USD | Cushing Crude Oil Inventories | 1.478M |  | 0.745M |
 | 18:00 | USD | 10-Year TIPS Auction | 1.940% |  | 1.843% |
-| 21 min | USD | Fed's Balance Sheet |  |  | 6,582B |
-| 36 min | NZD | CPI (QoQ) (Q4) |  | 0.5% | 1.0% |
-| 36 min | NZD | CPI (YoY) (Q4) |  | 3.0% | 3.0% |
+| 21:30 | USD | Fed's Balance Sheet | 6,585B |  | 6,582B |
+| 21:45 | NZD | CPI (QoQ) (Q4) | 0.6% | 0.5% | 1.0% |
+| 21:45 | NZD | CPI (YoY) (Q4) | 3.1% | 3.0% | 3.0% |
 | 23:30 | JPY | National Core CPI (YoY) (Dec) |  | 2.4% | 3.0% |
 | 23:30 | JPY | National CPI (MoM) (Dec) |  |  | 0.4% |
