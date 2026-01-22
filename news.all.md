@@ -6,9 +6,9 @@
 | 00:30 | AUD | Moderate | Full Employment Change (Dec) | 54.8K |  | -65.3K |
 | 00:30 | AUD | Low | Participation Rate (Dec) | 66.7% | 66.8% | 66.6% |
 | 00:30 | AUD | Moderate | Unemployment Rate (Dec) | 4.1% | 4.4% | 4.3% |
-| 07:00 | GBP | Low | Public Sector Net Borrowing (Dec) |  | -13.40B | -11.65B |
-| 07:00 | GBP | Low | Public Sector Net Cash Requirement (Dec) |  |  | 10.293B |
-| 07:00 | NOK | Low | Unemployment Rate (Dec) |  |  | 4.5% |
+| 47 min | GBP | Low | Public Sector Net Borrowing (Dec) |  | -13.40B | -11.65B |
+| 47 min | GBP | Low | Public Sector Net Cash Requirement (Dec) |  |  | 10.293B |
+| 47 min | NOK | Low | Unemployment Rate (Dec) |  |  | 4.5% |
 | 08:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
 | 08:30 | HKD | Low | CPI (MoM) (Dec) |  |  | 0.00% |
 | 08:30 | HKD | Low | CPI (YoY) (Dec) |  |  | 1.20% |
