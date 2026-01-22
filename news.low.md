@@ -2,8 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Participation Rate (Dec) | 66.7% | 66.8% | 66.7% |
-| 04:00 | IDR | M2 Money Supply (YoY) (Dec) |  |  | 8.30% |
+| 00:30 | AUD | Participation Rate (Dec) | 66.7% | 66.8% | 66.6% |
 | 07:00 | GBP | Public Sector Net Borrowing (Dec) |  | -13.40B | -11.65B |
 | 07:00 | GBP | Public Sector Net Cash Requirement (Dec) |  |  | 10.293B |
 | 07:00 | NOK | Unemployment Rate (Dec) |  |  | 4.5% |

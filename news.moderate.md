@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Employment Change (Dec) | 65.2K | 28.3K | -28.7K |
-| 00:30 | AUD | Full Employment Change (Dec) | 54.8K |  | -56.5K |
+| 00:30 | AUD | Full Employment Change (Dec) | 54.8K |  | -65.3K |
 | 00:30 | AUD | Unemployment Rate (Dec) | 4.1% | 4.4% | 4.3% |
 | 08:00 | CHF | World Economic Forum Annual Meetings |  |  |  |
 | 09:00 | NOK | Interest Rate Decision |  | 4.00% | 4.00% |
