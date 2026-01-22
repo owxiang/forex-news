@@ -41,5 +41,5 @@
 | 22:00 | AUD | Manufacturing & Services PMI (Jan) | 55.50 |  | 51.00 |
 | 22:00 | AUD | Judo Bank Manufacturing PMI (Jan) | 52.4 |  | 51.6 |
 | 22:00 | AUD | Judo Bank Services PMI (Jan) | 56.0 |  | 51.1 |
-| 23:30 | JPY | CPI, n.s.a (MoM) (Dec) |  |  | 0.3% |
-| 23:30 | JPY | National CPI (YoY) (Dec) |  |  | 2.9% |
+| 22 min | JPY | CPI, n.s.a (MoM) (Dec) |  |  | 0.3% |
+| 22 min | JPY | National CPI (YoY) (Dec) |  |  | 2.9% |
