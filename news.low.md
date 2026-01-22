@@ -26,16 +26,16 @@
 | 15:30 | USD | Natural Gas Storage | -120B | -90B | -71B |
 | 16:00 | USD | KC Fed Composite Index (Jan) | 0 |  | 0 |
 | 16:00 | USD | KC Fed Manufacturing Index (Jan) | -2 |  | -3 |
-| 18 min | USD | 4-Week Bill Auction |  |  | 3.595% |
-| 18 min | USD | 8-Week Bill Auction |  |  | 3.600% |
-| 48 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.049M |
-| 48 min | USD | Crude Oil Imports |  |  | 0.710M |
-| 48 min | USD | Distillate Fuel Production |  |  | -0.019M |
-| 48 min | USD | EIA Weekly Distillates Stocks |  | -0.200M | -0.029M |
-| 48 min | USD | Gasoline Production |  |  | 0.029M |
-| 48 min | USD | Heating Oil Stockpiles |  |  | -0.745M |
-| 48 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.6% |
-| 48 min | USD | Gasoline Inventories |  | 1.700M | 8.977M |
+| 16:30 | USD | 4-Week Bill Auction | 3.630% |  | 3.595% |
+| 16:30 | USD | 8-Week Bill Auction | 3.630% |  | 3.600% |
+| 17:00 | USD | EIA Refinery Crude Runs (WoW) | -0.354M |  | 0.049M |
+| 17:00 | USD | Crude Oil Imports | -0.027M |  | 0.710M |
+| 17:00 | USD | Distillate Fuel Production | -0.209M |  | -0.019M |
+| 17:00 | USD | EIA Weekly Distillates Stocks | 3.348M | -0.200M | -0.029M |
+| 17:00 | USD | Gasoline Production | -0.246M |  | 0.029M |
+| 17:00 | USD | Heating Oil Stockpiles | 0.279M |  | -0.745M |
+| 17:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -2.0% |  | 0.6% |
+| 17:00 | USD | Gasoline Inventories | 5.977M | 1.700M | 8.977M |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.062T |
 | 22:00 | AUD | Manufacturing & Services PMI (Jan) |  |  | 51.00 |
 | 22:00 | AUD | Judo Bank Manufacturing PMI (Jan) |  |  | 51.6 |

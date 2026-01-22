@@ -48,20 +48,20 @@
 | 15:30 | USD | Low | Natural Gas Storage | -120B | -90B | -71B |
 | 16:00 | USD | Low | KC Fed Composite Index (Jan) | 0 |  | 0 |
 | 16:00 | USD | Low | KC Fed Manufacturing Index (Jan) | -2 |  | -3 |
-| 18 min | USD | Low | 4-Week Bill Auction |  |  | 3.595% |
-| 18 min | USD | Low | 8-Week Bill Auction |  |  | 3.600% |
-| 48 min | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 5.4% | 5.4% |
-| 48 min | USD | High | Crude Oil Inventories |  | -1.000M | 3.391M |
-| 48 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.049M |
-| 48 min | USD | Low | Crude Oil Imports |  |  | 0.710M |
-| 48 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.745M |
-| 48 min | USD | Low | Distillate Fuel Production |  |  | -0.019M |
-| 48 min | USD | Low | EIA Weekly Distillates Stocks |  | -0.200M | -0.029M |
-| 48 min | USD | Low | Gasoline Production |  |  | 0.029M |
-| 48 min | USD | Low | Heating Oil Stockpiles |  |  | -0.745M |
-| 48 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.6% |
-| 48 min | USD | Low | Gasoline Inventories |  | 1.700M | 8.977M |
-| 18:00 | USD | Moderate | 10-Year TIPS Auction |  |  | 1.843% |
+| 16:30 | USD | Low | 4-Week Bill Auction | 3.630% |  | 3.595% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 3.630% |  | 3.600% |
+| 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 5.4% | 5.4% | 5.4% |
+| 17:00 | USD | High | Crude Oil Inventories | 3.602M | -1.000M | 3.391M |
+| 17:00 | USD | Low | EIA Refinery Crude Runs (WoW) | -0.354M |  | 0.049M |
+| 17:00 | USD | Low | Crude Oil Imports | -0.027M |  | 0.710M |
+| 17:00 | USD | Moderate | Cushing Crude Oil Inventories | 1.478M |  | 0.745M |
+| 17:00 | USD | Low | Distillate Fuel Production | -0.209M |  | -0.019M |
+| 17:00 | USD | Low | EIA Weekly Distillates Stocks | 3.348M | -0.200M | -0.029M |
+| 17:00 | USD | Low | Gasoline Production | -0.246M |  | 0.029M |
+| 17:00 | USD | Low | Heating Oil Stockpiles | 0.279M |  | -0.745M |
+| 17:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -2.0% |  | 0.6% |
+| 17:00 | USD | Low | Gasoline Inventories | 5.977M | 1.700M | 8.977M |
+| 47 min | USD | Moderate | 10-Year TIPS Auction |  |  | 1.843% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,582B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.062T |
 | 21:45 | NZD | Moderate | CPI (QoQ) (Q4) |  | 0.5% | 1.0% |
