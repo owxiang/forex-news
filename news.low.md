@@ -6,8 +6,9 @@
 | 07:00 | GBP | Public Sector Net Borrowing (Dec) | -11.58B | -13.40B | -11.65B |
 | 07:00 | GBP | Public Sector Net Cash Requirement (Dec) | 16.908B |  | 9.516B |
 | 07:00 | NOK | Unemployment Rate (Dec) | 4.3% |  | 4.5% |
-| 19 min | HKD | CPI (MoM) (Dec) |  |  | 0.00% |
-| 19 min | HKD | CPI (YoY) (Dec) |  |  | 1.20% |
+| 08:30 | HKD | CPI (MoM) (Dec) | 0.30% |  | 0.00% |
+| 08:30 | HKD | CPI (YoY) (Dec) | 1.40% |  | 1.20% |
+| 09:11 | EUR | Consumer Confidence (Jan) |  | -13.0 | -13.1 |
 | 11:00 | GBP | CBI Distributive Trades Survey (Jan) |  | -35 | -44 |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 11:30 | INR | M3 Money Supply |  |  | 12.1% |
@@ -23,7 +24,6 @@
 | 15:00 | USD | Dallas Fed PCE (Nov) |  |  | 1.90% |
 | 15:00 | USD | Personal Income (MoM) (Nov) |  | 0.4% | 0.4% |
 | 15:00 | USD | Real Personal Consumption (MoM) (Nov) |  |  | 0.1% |
-| 15:00 | EUR | Consumer Confidence (Jan) |  | -13.0 | -13.1 |
 | 15:30 | USD | Natural Gas Storage |  | -90B | -71B |
 | 16:00 | USD | KC Fed Composite Index (Jan) |  |  | 1 |
 | 16:00 | USD | KC Fed Manufacturing Index (Jan) |  |  | -3 |
