@@ -18,18 +18,19 @@
 | 12:00 | MXN | Low | 1st Half-Month Core CPI (Jan) | 0.43% | 0.39% | 0.31% |
 | 12:00 | MXN | Low | 1st Half-Month CPI (Jan) | 0.31% | 0.37% | 0.17% |
 | 12:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 15 min | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,884K |
-| 13:30 | USD | Moderate | Core PCE Prices (Q3) |  | 2.90% | 2.60% |
-| 13:30 | USD | Low | Corporate Profits (QoQ) (Q3) |  | 4.4% | 0.2% |
-| 13:30 | USD | High | GDP (QoQ) (Q3) |  | 4.3% | 3.8% |
-| 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q3) |  | 3.7% | 2.1% |
-| 13:30 | USD | Low | GDP Sales (Q3) |  | 4.6% | 7.5% |
-| 13:30 | USD | High | Initial Jobless Claims |  | 209K | 198K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 205.00K |
-| 13:30 | USD | Low | PCE Prices (Q3) |  | 2.8% | 2.1% |
-| 13:30 | USD | Low | Real Consumer Spending (Q3) |  | 3.5% | 2.5% |
-| 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Dec) |  | -0.2% | 0.0% |
+| 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 8 min | USD | Moderate | Continuing Jobless Claims |  |  | 1,884K |
+| 8 min | USD | Moderate | Core PCE Prices (Q3) |  | 2.90% | 2.60% |
+| 8 min | USD | Low | Corporate Profits (QoQ) (Q3) |  | 4.4% | 0.2% |
+| 8 min | USD | High | GDP (QoQ) (Q3) |  | 4.3% | 3.8% |
+| 8 min | USD | Moderate | GDP Price Index (QoQ) (Q3) |  | 3.7% | 2.1% |
+| 8 min | USD | Low | GDP Sales (Q3) |  | 4.6% | 7.5% |
+| 8 min | USD | High | Initial Jobless Claims |  | 209K | 198K |
+| 8 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 205.00K |
+| 8 min | USD | Low | PCE Prices (Q3) |  | 2.8% | 2.1% |
+| 8 min | USD | Low | Real Consumer Spending (Q3) |  | 3.5% | 2.5% |
+| 8 min | CAD | Moderate | New Housing Price Index (MoM) (Dec) |  | -0.2% | 0.0% |
+| 8 min | BRL | Low | Federal Tax Revenue (Dec) |  |  | 226.75B |
 | 15:00 | USD | High | Core PCE Price Index (MoM) (Nov) |  | 0.2% | 0.2% |
 | 15:00 | USD | High | Core PCE Price Index (YoY) (Nov) |  | 2.8% | 2.8% |
 | 15:00 | USD | Low | Dallas Fed PCE (Nov) |  |  | 1.90% |

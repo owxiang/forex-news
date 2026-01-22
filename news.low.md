@@ -13,11 +13,12 @@
 | 12:00 | MXN | 1st Half-Month Core CPI (Jan) | 0.43% | 0.39% | 0.31% |
 | 12:00 | MXN | 1st Half-Month CPI (Jan) | 0.31% | 0.37% | 0.17% |
 | 12:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
-| 13:30 | USD | Corporate Profits (QoQ) (Q3) |  | 4.4% | 0.2% |
-| 13:30 | USD | GDP Sales (Q3) |  | 4.6% | 7.5% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 205.00K |
-| 13:30 | USD | PCE Prices (Q3) |  | 2.8% | 2.1% |
-| 13:30 | USD | Real Consumer Spending (Q3) |  | 3.5% | 2.5% |
+| 8 min | USD | Corporate Profits (QoQ) (Q3) |  | 4.4% | 0.2% |
+| 8 min | USD | GDP Sales (Q3) |  | 4.6% | 7.5% |
+| 8 min | USD | Jobless Claims 4-Week Avg. |  |  | 205.00K |
+| 8 min | USD | PCE Prices (Q3) |  | 2.8% | 2.1% |
+| 8 min | USD | Real Consumer Spending (Q3) |  | 3.5% | 2.5% |
+| 8 min | BRL | Federal Tax Revenue (Dec) |  |  | 226.75B |
 | 15:00 | USD | Dallas Fed PCE (Nov) |  |  | 1.90% |
 | 15:00 | USD | Personal Income (MoM) (Nov) |  | 0.4% | 0.4% |
 | 15:00 | USD | Real Personal Consumption (MoM) (Nov) |  |  | 0.1% |
