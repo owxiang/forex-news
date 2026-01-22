@@ -13,12 +13,12 @@
 | 08:30 | HKD | Low | CPI (MoM) (Dec) | 0.30% |  | 0.00% |
 | 08:30 | HKD | Low | CPI (YoY) (Dec) | 1.40% |  | 1.20% |
 | 09:00 | NOK | Moderate | Interest Rate Decision | 4.00% | 4.00% | 4.00% |
-| 49 min | GBP | Low | CBI Distributive Trades Survey (Jan) |  | -35 | -44 |
-| 49 min | EUR | Low | German Buba Monthly Report |  |  |  |
-| 11:30 | INR | Low | M3 Money Supply |  |  | 12.1% |
-| 12:00 | MXN | Low | 1st Half-Month Core CPI (Jan) |  | 0.39% | 0.31% |
-| 12:00 | MXN | Low | 1st Half-Month CPI (Jan) |  | 0.37% | 0.17% |
-| 12:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
+| 11:00 | GBP | Low | CBI Distributive Trades Survey (Jan) | -17 | -35 | -44 |
+| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 21 min | INR | Low | M3 Money Supply |  |  | 12.1% |
+| 51 min | MXN | Low | 1st Half-Month Core CPI (Jan) |  | 0.39% | 0.31% |
+| 51 min | MXN | Low | 1st Half-Month CPI (Jan) |  | 0.37% | 0.17% |
+| 51 min | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:00 | CNY | Low | FDI (Dec) |  |  | -7.50% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,884K |

@@ -8,12 +8,12 @@
 | 07:00 | NOK | Unemployment Rate (Dec) | 4.3% |  | 4.5% |
 | 08:30 | HKD | CPI (MoM) (Dec) | 0.30% |  | 0.00% |
 | 08:30 | HKD | CPI (YoY) (Dec) | 1.40% |  | 1.20% |
-| 49 min | GBP | CBI Distributive Trades Survey (Jan) |  | -35 | -44 |
-| 49 min | EUR | German Buba Monthly Report |  |  |  |
-| 11:30 | INR | M3 Money Supply |  |  | 12.1% |
-| 12:00 | MXN | 1st Half-Month Core CPI (Jan) |  | 0.39% | 0.31% |
-| 12:00 | MXN | 1st Half-Month CPI (Jan) |  | 0.37% | 0.17% |
-| 12:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
+| 11:00 | GBP | CBI Distributive Trades Survey (Jan) | -17 | -35 | -44 |
+| 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 21 min | INR | M3 Money Supply |  |  | 12.1% |
+| 51 min | MXN | 1st Half-Month Core CPI (Jan) |  | 0.39% | 0.31% |
+| 51 min | MXN | 1st Half-Month CPI (Jan) |  | 0.37% | 0.17% |
+| 51 min | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 13:00 | CNY | FDI (Dec) |  |  | -7.50% |
 | 13:30 | USD | Corporate Profits (QoQ) (Q3) |  | 4.4% | 0.2% |
 | 13:30 | USD | GDP Sales (Q3) |  | 4.6% | 7.5% |
