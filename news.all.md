@@ -33,14 +33,14 @@
 | 13:30 | BRL | Low | Federal Tax Revenue (Dec) | 292.72B |  | 226.75B |
 | 14:59 | USD | High | Core PCE Price Index (MoM) (Oct) | 0.2% |  | 0.2% |
 | 14:59 | USD | High | Core PCE Price Index (YoY) (Oct) | 2.7% |  | 2.8% |
-| 14:59 | USD | Moderate | PCE Price index (YoY) (Oct) | 2.7% |  | 2.8% |
 | 14:59 | USD | Moderate | PCE price index (MoM) (Oct) | 0.2% |  | 0.3% |
+| 14:59 | USD | Moderate | PCE Price index (YoY) (Oct) | 2.7% |  | 2.8% |
 | 14:59 | USD | Low | Personal Income (MoM) (Oct) | 0.1% |  | 0.4% |
 | 14:59 | USD | Moderate | Personal Spending (MoM) (Oct) | 0.5% |  | 0.3% |
-| 15:00 | USD | High | Core PCE Price Index (MoM) (Nov) | 0.2% | 0.2% | 0.2% |
 | 15:00 | USD | High | Core PCE Price Index (YoY) (Nov) | 2.8% | 2.8% | 2.7% |
-| 15:00 | USD | Moderate | PCE price index (MoM) (Nov) | 0.2% | 0.2% | 0.2% |
+| 15:00 | USD | High | Core PCE Price Index (MoM) (Nov) | 0.2% | 0.2% | 0.2% |
 | 15:00 | USD | Moderate | PCE Price index (YoY) (Nov) | 2.8% | 2.8% | 2.7% |
+| 15:00 | USD | Moderate | PCE price index (MoM) (Nov) | 0.2% | 0.2% | 0.2% |
 | 15:00 | USD | Low | Personal Income (MoM) (Nov) | 0.3% | 0.4% | 0.1% |
 | 15:00 | USD | Moderate | Personal Spending (MoM) (Nov) | 0.5% | 0.5% | 0.5% |
 | 15:00 | USD | Low | Real Personal Consumption (MoM) (Nov) | 0.3% |  | 0.1% |
@@ -62,13 +62,14 @@
 | 17:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -2.0% |  | 0.6% |
 | 17:00 | USD | Low | Gasoline Inventories | 5.977M | 1.700M | 8.977M |
 | 18:00 | USD | Moderate | 10-Year TIPS Auction | 1.940% |  | 1.843% |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,582B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.062T |
-| 21:45 | NZD | Moderate | CPI (QoQ) (Q4) |  | 0.5% | 1.0% |
-| 21:45 | NZD | Moderate | CPI (YoY) (Q4) |  | 3.0% | 3.0% |
-| 22:00 | AUD | Low | Manufacturing & Services PMI (Jan) |  |  | 51.00 |
-| 22:00 | AUD | Low | Judo Bank Manufacturing PMI (Jan) |  |  | 51.6 |
-| 22:00 | AUD | Low | Judo Bank Services PMI (Jan) |  |  | 51.1 |
+| 21:00 | KRW | Low | Consumer Confidence (Jan) | 110.8 |  | 109.9 |
+| 21 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,582B |
+| 21 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.062T |
+| 36 min | NZD | Moderate | CPI (QoQ) (Q4) |  | 0.5% | 1.0% |
+| 36 min | NZD | Moderate | CPI (YoY) (Q4) |  | 3.0% | 3.0% |
+| 51 min | AUD | Low | Manufacturing & Services PMI (Jan) |  |  | 51.00 |
+| 51 min | AUD | Low | Judo Bank Manufacturing PMI (Jan) |  |  | 51.6 |
+| 51 min | AUD | Low | Judo Bank Services PMI (Jan) |  |  | 51.1 |
 | 23:30 | JPY | Low | CPI, n.s.a (MoM) (Dec) |  |  | 0.3% |
 | 23:30 | JPY | Moderate | National Core CPI (YoY) (Dec) |  | 2.4% | 3.0% |
 | 23:30 | JPY | Low | National CPI (YoY) (Dec) |  |  | 2.9% |
