@@ -61,7 +61,7 @@
 | 17:00 | USD | Low | Heating Oil Stockpiles | 0.279M |  | -0.745M |
 | 17:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -2.0% |  | 0.6% |
 | 17:00 | USD | Low | Gasoline Inventories | 5.977M | 1.700M | 8.977M |
-| 47 min | USD | Moderate | 10-Year TIPS Auction |  |  | 1.843% |
+| 18:00 | USD | Moderate | 10-Year TIPS Auction | 1.940% |  | 1.843% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,582B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.062T |
 | 21:45 | NZD | Moderate | CPI (QoQ) (Q4) |  | 0.5% | 1.0% |
