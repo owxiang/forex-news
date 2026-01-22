@@ -25,7 +25,7 @@
 | 13:30 | USD | Moderate | Core PCE Prices (Q3) |  | 2.90% | 2.60% |
 | 13:30 | USD | Low | Corporate Profits (QoQ) (Q3) |  | 4.4% | 0.2% |
 | 13:30 | USD | High | GDP (QoQ) (Q3) |  | 4.3% | 3.8% |
-| 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q3) |  | 3.8% | 2.1% |
+| 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q3) |  | 3.7% | 2.1% |
 | 13:30 | USD | Low | GDP Sales (Q3) |  | 4.6% | 7.5% |
 | 13:30 | USD | High | Initial Jobless Claims |  | 209K | 198K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 205.00K |
@@ -33,7 +33,7 @@
 | 13:30 | USD | Low | Real Consumer Spending (Q3) |  | 3.5% | 2.5% |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Dec) |  | -0.2% | 0.0% |
 | 15:00 | USD | High | Core PCE Price Index (MoM) (Nov) |  | 0.2% | 0.2% |
-| 15:00 | USD | High | Core PCE Price Index (YoY) (Nov) |  | 2.7% | 2.8% |
+| 15:00 | USD | High | Core PCE Price Index (YoY) (Nov) |  | 2.8% | 2.8% |
 | 15:00 | USD | Low | Dallas Fed PCE (Nov) |  |  | 1.90% |
 | 15:00 | USD | Moderate | PCE Price index (YoY) (Nov) |  | 2.8% | 2.8% |
 | 15:00 | USD | Moderate | PCE price index (MoM) (Nov) |  | 0.2% | 0.3% |
@@ -41,13 +41,13 @@
 | 15:00 | USD | Moderate | Personal Spending (MoM) (Nov) |  | 0.5% | 0.4% |
 | 15:00 | USD | Low | Real Personal Consumption (MoM) (Nov) |  |  | 0.1% |
 | 15:00 | EUR | Low | Consumer Confidence (Jan) |  | -13.0 | -13.1 |
-| 15:30 | USD | Low | Natural Gas Storage |  | -82B | -71B |
+| 15:30 | USD | Low | Natural Gas Storage |  | -90B | -71B |
 | 16:00 | USD | Low | KC Fed Composite Index (Jan) |  |  | 1 |
 | 16:00 | USD | Low | KC Fed Manufacturing Index (Jan) |  |  | -3 |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.595% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.600% |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 5.4% | 5.4% |
-| 17:00 | USD | High | Crude Oil Inventories |  | -2.500M | 3.391M |
+| 17:00 | USD | High | Crude Oil Inventories |  | -1.000M | 3.391M |
 | 17:00 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.049M |
 | 17:00 | USD | Low | Crude Oil Imports |  |  | 0.710M |
 | 17:00 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.745M |

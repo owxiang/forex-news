@@ -24,7 +24,7 @@
 | 15:00 | USD | Personal Income (MoM) (Nov) |  | 0.4% | 0.4% |
 | 15:00 | USD | Real Personal Consumption (MoM) (Nov) |  |  | 0.1% |
 | 15:00 | EUR | Consumer Confidence (Jan) |  | -13.0 | -13.1 |
-| 15:30 | USD | Natural Gas Storage |  | -82B | -71B |
+| 15:30 | USD | Natural Gas Storage |  | -90B | -71B |
 | 16:00 | USD | KC Fed Composite Index (Jan) |  |  | 1 |
 | 16:00 | USD | KC Fed Manufacturing Index (Jan) |  |  | -3 |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.595% |
