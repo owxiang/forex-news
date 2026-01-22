@@ -19,13 +19,14 @@
 | 13:30 | USD | PCE Prices (Q3) | 2.8% | 2.8% | 2.1% |
 | 13:30 | USD | Real Consumer Spending (Q3) | 3.5% | 3.5% | 2.5% |
 | 13:30 | BRL | Federal Tax Revenue (Dec) | 292.72B |  | 226.75B |
-| 46 min | USD | Dallas Fed PCE (Nov) |  |  | 1.90% |
-| 46 min | USD | Personal Income (MoM) (Nov) |  | 0.4% | 0.4% |
-| 46 min | USD | Real Personal Consumption (MoM) (Nov) |  |  | 0.1% |
-| 46 min | EUR | Consumer Confidence (Jan) |  | -13.0 | -13.1 |
-| 15:30 | USD | Natural Gas Storage |  | -90B | -71B |
-| 16:00 | USD | KC Fed Composite Index (Jan) |  |  | 1 |
-| 16:00 | USD | KC Fed Manufacturing Index (Jan) |  |  | -3 |
+| 14:59 | USD | Personal Income (MoM) (Oct) | 0.1% |  | 0.4% |
+| 15:00 | USD | Personal Income (MoM) (Nov) | 0.3% | 0.4% | 0.1% |
+| 15:00 | USD | Real Personal Consumption (MoM) (Nov) | 0.3% |  | 0.1% |
+| 15:00 | EUR | Consumer Confidence (Jan) | -12.4 | -13.0 | -13.2 |
+| 18 min | USD | Dallas Fed PCE (Nov) |  |  | 1.90% |
+| 18 min | USD | Natural Gas Storage |  | -90B | -71B |
+| 48 min | USD | KC Fed Composite Index (Jan) |  |  | 1 |
+| 48 min | USD | KC Fed Manufacturing Index (Jan) |  |  | -3 |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.595% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 3.600% |
 | 17:00 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.049M |

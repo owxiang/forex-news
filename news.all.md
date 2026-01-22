@@ -31,18 +31,24 @@
 | 13:30 | USD | Low | Real Consumer Spending (Q3) | 3.5% | 3.5% | 2.5% |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Dec) | -0.2% | -0.2% | 0.0% |
 | 13:30 | BRL | Low | Federal Tax Revenue (Dec) | 292.72B |  | 226.75B |
-| 46 min | USD | High | Core PCE Price Index (MoM) (Nov) |  | 0.2% | 0.2% |
-| 46 min | USD | High | Core PCE Price Index (YoY) (Nov) |  | 2.8% | 2.8% |
-| 46 min | USD | Low | Dallas Fed PCE (Nov) |  |  | 1.90% |
-| 46 min | USD | Moderate | PCE price index (MoM) (Nov) |  | 0.2% | 0.3% |
-| 46 min | USD | Moderate | PCE Price index (YoY) (Nov) |  | 2.8% | 2.8% |
-| 46 min | USD | Low | Personal Income (MoM) (Nov) |  | 0.4% | 0.4% |
-| 46 min | USD | Moderate | Personal Spending (MoM) (Nov) |  | 0.5% | 0.4% |
-| 46 min | USD | Low | Real Personal Consumption (MoM) (Nov) |  |  | 0.1% |
-| 46 min | EUR | Low | Consumer Confidence (Jan) |  | -13.0 | -13.1 |
-| 15:30 | USD | Low | Natural Gas Storage |  | -90B | -71B |
-| 16:00 | USD | Low | KC Fed Composite Index (Jan) |  |  | 1 |
-| 16:00 | USD | Low | KC Fed Manufacturing Index (Jan) |  |  | -3 |
+| 14:59 | USD | High | Core PCE Price Index (MoM) (Oct) | 0.2% |  | 0.2% |
+| 14:59 | USD | High | Core PCE Price Index (YoY) (Oct) | 2.7% |  | 2.8% |
+| 14:59 | USD | Moderate | PCE price index (MoM) (Oct) | 0.2% |  | 0.3% |
+| 14:59 | USD | Moderate | PCE Price index (YoY) (Oct) | 2.7% |  | 2.8% |
+| 14:59 | USD | Low | Personal Income (MoM) (Oct) | 0.1% |  | 0.4% |
+| 14:59 | USD | Moderate | Personal Spending (MoM) (Oct) | 0.5% |  | 0.3% |
+| 15:00 | USD | High | Core PCE Price Index (YoY) (Nov) | 2.8% | 2.8% | 2.7% |
+| 15:00 | USD | High | Core PCE Price Index (MoM) (Nov) | 0.2% | 0.2% | 0.2% |
+| 15:00 | USD | Moderate | PCE price index (MoM) (Nov) | 0.2% | 0.2% | 0.2% |
+| 15:00 | USD | Moderate | PCE Price index (YoY) (Nov) | 2.8% | 2.8% | 2.7% |
+| 15:00 | USD | Low | Personal Income (MoM) (Nov) | 0.3% | 0.4% | 0.1% |
+| 15:00 | USD | Moderate | Personal Spending (MoM) (Nov) | 0.5% | 0.5% | 0.5% |
+| 15:00 | USD | Low | Real Personal Consumption (MoM) (Nov) | 0.3% |  | 0.1% |
+| 15:00 | EUR | Low | Consumer Confidence (Jan) | -12.4 | -13.0 | -13.2 |
+| 18 min | USD | Low | Dallas Fed PCE (Nov) |  |  | 1.90% |
+| 18 min | USD | Low | Natural Gas Storage |  | -90B | -71B |
+| 48 min | USD | Low | KC Fed Composite Index (Jan) |  |  | 1 |
+| 48 min | USD | Low | KC Fed Manufacturing Index (Jan) |  |  | -3 |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.595% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.600% |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 5.4% | 5.4% |
