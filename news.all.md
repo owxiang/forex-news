@@ -6,16 +6,15 @@
 | 00:30 | AUD | Moderate | Full Employment Change (Dec) | 54.8K |  | -65.3K |
 | 00:30 | AUD | Low | Participation Rate (Dec) | 66.7% | 66.8% | 66.6% |
 | 00:30 | AUD | Moderate | Unemployment Rate (Dec) | 4.1% | 4.4% | 4.3% |
-| 07:00 | GBP | Low | Public Sector Net Borrowing (Dec) | -11.58B | -13.40B | -11.65B |
+| 07:00 | GBP | Low | Public Sector Net Borrowing (Dec) | -11.58B | -13.40B | -10.94B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Dec) | 16.908B |  | 9.516B |
 | 07:00 | NOK | Low | Unemployment Rate (Dec) | 4.3% |  | 4.5% |
 | 08:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
 | 08:30 | HKD | Low | CPI (MoM) (Dec) | 0.30% |  | 0.00% |
 | 08:30 | HKD | Low | CPI (YoY) (Dec) | 1.40% |  | 1.20% |
 | 09:00 | NOK | Moderate | Interest Rate Decision | 4.00% | 4.00% | 4.00% |
-| 09:11 | EUR | Low | Consumer Confidence (Jan) |  | -13.0 | -13.1 |
-| 11:00 | GBP | Low | CBI Distributive Trades Survey (Jan) |  | -35 | -44 |
-| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 49 min | GBP | Low | CBI Distributive Trades Survey (Jan) |  | -35 | -44 |
+| 49 min | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:30 | INR | Low | M3 Money Supply |  |  | 12.1% |
 | 12:00 | MXN | Low | 1st Half-Month Core CPI (Jan) |  | 0.39% | 0.31% |
 | 12:00 | MXN | Low | 1st Half-Month CPI (Jan) |  | 0.37% | 0.17% |
@@ -36,11 +35,12 @@
 | 15:00 | USD | High | Core PCE Price Index (MoM) (Nov) |  | 0.2% | 0.2% |
 | 15:00 | USD | High | Core PCE Price Index (YoY) (Nov) |  | 2.8% | 2.8% |
 | 15:00 | USD | Low | Dallas Fed PCE (Nov) |  |  | 1.90% |
-| 15:00 | USD | Moderate | PCE price index (MoM) (Nov) |  | 0.2% | 0.3% |
 | 15:00 | USD | Moderate | PCE Price index (YoY) (Nov) |  | 2.8% | 2.8% |
+| 15:00 | USD | Moderate | PCE price index (MoM) (Nov) |  | 0.2% | 0.3% |
 | 15:00 | USD | Low | Personal Income (MoM) (Nov) |  | 0.4% | 0.4% |
 | 15:00 | USD | Moderate | Personal Spending (MoM) (Nov) |  | 0.5% | 0.4% |
 | 15:00 | USD | Low | Real Personal Consumption (MoM) (Nov) |  |  | 0.1% |
+| 15:00 | EUR | Low | Consumer Confidence (Jan) |  | -13.0 | -13.1 |
 | 15:30 | USD | Low | Natural Gas Storage |  | -90B | -71B |
 | 16:00 | USD | Low | KC Fed Composite Index (Jan) |  |  | 1 |
 | 16:00 | USD | Low | KC Fed Manufacturing Index (Jan) |  |  | -3 |
@@ -52,11 +52,11 @@
 | 17:00 | USD | Low | Crude Oil Imports |  |  | 0.710M |
 | 17:00 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.745M |
 | 17:00 | USD | Low | Distillate Fuel Production |  |  | -0.019M |
-| 17:00 | USD | Low | EIA Weekly Distillates Stocks |  |  | -0.029M |
+| 17:00 | USD | Low | EIA Weekly Distillates Stocks |  | -0.200M | -0.029M |
 | 17:00 | USD | Low | Gasoline Production |  |  | 0.029M |
 | 17:00 | USD | Low | Heating Oil Stockpiles |  |  | -0.745M |
 | 17:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.6% |
-| 17:00 | USD | Low | Gasoline Inventories |  |  | 8.977M |
+| 17:00 | USD | Low | Gasoline Inventories |  | 1.700M | 8.977M |
 | 18:00 | USD | Moderate | 10-Year TIPS Auction |  |  | 1.843% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,582B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.062T |
