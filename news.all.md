@@ -15,12 +15,10 @@
 | 09:00 | NOK | Moderate | Interest Rate Decision | 4.00% | 4.00% | 4.00% |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Jan) | -17 | -35 | -44 |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 21 min | INR | Low | M3 Money Supply |  |  | 12.1% |
-| 51 min | MXN | Low | 1st Half-Month Core CPI (Jan) |  | 0.39% | 0.31% |
-| 51 min | MXN | Low | 1st Half-Month CPI (Jan) |  | 0.37% | 0.17% |
-| 51 min | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:00 | CNY | Low | FDI (Dec) |  |  | -7.50% |
+| 12:00 | MXN | Low | 1st Half-Month Core CPI (Jan) | 0.43% | 0.39% | 0.31% |
+| 12:00 | MXN | Low | 1st Half-Month CPI (Jan) | 0.31% | 0.37% | 0.17% |
+| 12:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
+| 15 min | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,884K |
 | 13:30 | USD | Moderate | Core PCE Prices (Q3) |  | 2.90% | 2.60% |
 | 13:30 | USD | Low | Corporate Profits (QoQ) (Q3) |  | 4.4% | 0.2% |
@@ -35,8 +33,8 @@
 | 15:00 | USD | High | Core PCE Price Index (MoM) (Nov) |  | 0.2% | 0.2% |
 | 15:00 | USD | High | Core PCE Price Index (YoY) (Nov) |  | 2.8% | 2.8% |
 | 15:00 | USD | Low | Dallas Fed PCE (Nov) |  |  | 1.90% |
-| 15:00 | USD | Moderate | PCE Price index (YoY) (Nov) |  | 2.8% | 2.8% |
 | 15:00 | USD | Moderate | PCE price index (MoM) (Nov) |  | 0.2% | 0.3% |
+| 15:00 | USD | Moderate | PCE Price index (YoY) (Nov) |  | 2.8% | 2.8% |
 | 15:00 | USD | Low | Personal Income (MoM) (Nov) |  | 0.4% | 0.4% |
 | 15:00 | USD | Moderate | Personal Spending (MoM) (Nov) |  | 0.5% | 0.4% |
 | 15:00 | USD | Low | Real Personal Consumption (MoM) (Nov) |  |  | 0.1% |
