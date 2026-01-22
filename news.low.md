@@ -3,9 +3,9 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Participation Rate (Dec) | 66.7% | 66.8% | 66.6% |
-| 47 min | GBP | Public Sector Net Borrowing (Dec) |  | -13.40B | -11.65B |
-| 47 min | GBP | Public Sector Net Cash Requirement (Dec) |  |  | 10.293B |
-| 47 min | NOK | Unemployment Rate (Dec) |  |  | 4.5% |
+| 07:00 | GBP | Public Sector Net Borrowing (Dec) | -11.58B | -13.40B | -11.65B |
+| 07:00 | GBP | Public Sector Net Cash Requirement (Dec) | 16.908B |  | 10.293B |
+| 07:00 | NOK | Unemployment Rate (Dec) | 4.3% |  | 4.5% |
 | 08:30 | HKD | CPI (MoM) (Dec) |  |  | 0.00% |
 | 08:30 | HKD | CPI (YoY) (Dec) |  |  | 1.20% |
 | 11:00 | GBP | CBI Distributive Trades Survey (Jan) |  | -35 | -44 |
