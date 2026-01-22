@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | AUD | Moderate | Employment Change (Dec) | 65.2K | 28.3K | -21.3K |
+| 00:30 | AUD | Moderate | Employment Change (Dec) | 65.2K | 28.3K | -28.7K |
 | 00:30 | AUD | Moderate | Full Employment Change (Dec) | 54.8K |  | -56.5K |
 | 00:30 | AUD | Low | Participation Rate (Dec) | 66.7% | 66.8% | 66.7% |
 | 00:30 | AUD | Moderate | Unemployment Rate (Dec) | 4.1% | 4.4% | 4.3% |
