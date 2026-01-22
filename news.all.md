@@ -19,27 +19,27 @@
 | 12:00 | MXN | Low | 1st Half-Month CPI (Jan) | 0.31% | 0.37% | 0.17% |
 | 12:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 8 min | USD | Moderate | Continuing Jobless Claims |  |  | 1,884K |
-| 8 min | USD | Moderate | Core PCE Prices (Q3) |  | 2.90% | 2.60% |
-| 8 min | USD | Low | Corporate Profits (QoQ) (Q3) |  | 4.4% | 0.2% |
-| 8 min | USD | High | GDP (QoQ) (Q3) |  | 4.3% | 3.8% |
-| 8 min | USD | Moderate | GDP Price Index (QoQ) (Q3) |  | 3.7% | 2.1% |
-| 8 min | USD | Low | GDP Sales (Q3) |  | 4.6% | 7.5% |
-| 8 min | USD | High | Initial Jobless Claims |  | 209K | 198K |
-| 8 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 205.00K |
-| 8 min | USD | Low | PCE Prices (Q3) |  | 2.8% | 2.1% |
-| 8 min | USD | Low | Real Consumer Spending (Q3) |  | 3.5% | 2.5% |
-| 8 min | CAD | Moderate | New Housing Price Index (MoM) (Dec) |  | -0.2% | 0.0% |
-| 8 min | BRL | Low | Federal Tax Revenue (Dec) |  |  | 226.75B |
-| 15:00 | USD | High | Core PCE Price Index (MoM) (Nov) |  | 0.2% | 0.2% |
-| 15:00 | USD | High | Core PCE Price Index (YoY) (Nov) |  | 2.8% | 2.8% |
-| 15:00 | USD | Low | Dallas Fed PCE (Nov) |  |  | 1.90% |
-| 15:00 | USD | Moderate | PCE price index (MoM) (Nov) |  | 0.2% | 0.3% |
-| 15:00 | USD | Moderate | PCE Price index (YoY) (Nov) |  | 2.8% | 2.8% |
-| 15:00 | USD | Low | Personal Income (MoM) (Nov) |  | 0.4% | 0.4% |
-| 15:00 | USD | Moderate | Personal Spending (MoM) (Nov) |  | 0.5% | 0.4% |
-| 15:00 | USD | Low | Real Personal Consumption (MoM) (Nov) |  |  | 0.1% |
-| 15:00 | EUR | Low | Consumer Confidence (Jan) |  | -13.0 | -13.1 |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,849K |  | 1,875K |
+| 13:30 | USD | Moderate | Core PCE Prices (Q3) | 2.90% | 2.90% | 2.60% |
+| 13:30 | USD | Low | Corporate Profits (QoQ) (Q3) | 4.7% | 4.4% | 0.2% |
+| 13:30 | USD | High | GDP (QoQ) (Q3) | 4.4% | 4.3% | 3.8% |
+| 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q3) | 3.7% | 3.7% | 2.1% |
+| 13:30 | USD | Low | GDP Sales (Q3) | 4.5% | 4.6% | 7.5% |
+| 13:30 | USD | High | Initial Jobless Claims | 200K | 209K | 199K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 201.50K |  | 205.25K |
+| 13:30 | USD | Low | PCE Prices (Q3) | 2.8% | 2.8% | 2.1% |
+| 13:30 | USD | Low | Real Consumer Spending (Q3) | 3.5% | 3.5% | 2.5% |
+| 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Dec) | -0.2% | -0.2% | 0.0% |
+| 13:30 | BRL | Low | Federal Tax Revenue (Dec) | 292.72B |  | 226.75B |
+| 46 min | USD | High | Core PCE Price Index (MoM) (Nov) |  | 0.2% | 0.2% |
+| 46 min | USD | High | Core PCE Price Index (YoY) (Nov) |  | 2.8% | 2.8% |
+| 46 min | USD | Low | Dallas Fed PCE (Nov) |  |  | 1.90% |
+| 46 min | USD | Moderate | PCE price index (MoM) (Nov) |  | 0.2% | 0.3% |
+| 46 min | USD | Moderate | PCE Price index (YoY) (Nov) |  | 2.8% | 2.8% |
+| 46 min | USD | Low | Personal Income (MoM) (Nov) |  | 0.4% | 0.4% |
+| 46 min | USD | Moderate | Personal Spending (MoM) (Nov) |  | 0.5% | 0.4% |
+| 46 min | USD | Low | Real Personal Consumption (MoM) (Nov) |  |  | 0.1% |
+| 46 min | EUR | Low | Consumer Confidence (Jan) |  | -13.0 | -13.1 |
 | 15:30 | USD | Low | Natural Gas Storage |  | -90B | -71B |
 | 16:00 | USD | Low | KC Fed Composite Index (Jan) |  |  | 1 |
 | 16:00 | USD | Low | KC Fed Manufacturing Index (Jan) |  |  | -3 |
