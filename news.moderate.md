@@ -24,9 +24,9 @@
 | 09:30 | GBP | S&P Global Manufacturing PMI (Jan) | 51.6 | 50.6 | 50.6 |
 | 09:30 | GBP | S&P Global Services PMI (Jan) | 54.3 | 51.7 | 51.4 |
 | 10:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 13:30 | CAD | Core Retail Sales (MoM) (Nov) |  | 1.0% | -0.6% |
-| 13:30 | CAD | Retail Sales (MoM) (Nov) |  | 1.2% | -0.2% |
-| 13:30 | CAD | Retail Sales (MoM) (Nov) |  |  | -0.2% |
+| 9 min | CAD | Core Retail Sales (MoM) (Nov) |  | 1.0% | -0.6% |
+| 9 min | CAD | Retail Sales (MoM) (Nov) |  | 1.2% | -0.2% |
+| 9 min | CAD | Retail Sales (MoM) (Nov) |  |  | -0.2% |
 | 14:45 | USD | S&P Global Composite PMI (Jan) |  |  | 52.7 |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Jan) |  | 4.2% | 4.2% |
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Jan) |  | 3.4% | 3.2% |

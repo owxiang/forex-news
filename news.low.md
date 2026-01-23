@@ -15,9 +15,8 @@
 | 08:15 | EUR | HCOB France Composite PMI (Jan) | 48.6 | 50.1 | 50.0 |
 | 08:30 | EUR | HCOB Germany Composite PMI (Jan) | 52.5 | 51.8 | 51.3 |
 | 11:30 | INR | FX Reserves, USD | 701.36B |  | 687.19B |
+| 12:00 | MXN | Economic Activity (YoY) (Nov) | -0.10% | 1.20% | 1.80% |
 | 12:00 | MXN | Economic Activity (MoM) (Nov) | -0.20% | 0.20% | 1.00% |
-| 12:00 | MXN | Economic Activity (YoY) (Nov) | -0.10% | 1.20% | 1.70% |
-| 46 min | CNY | FDI (Dec) |  |  | -7.50% |
 | 15:00 | USD | Michigan Current Conditions (Jan) |  | 52.4 | 50.4 |
 | 15:30 | USD | Dallas Fed PCE (Nov) |  |  | 1.90% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -3.3K |

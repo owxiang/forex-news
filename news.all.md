@@ -38,12 +38,11 @@
 | 09:30 | GBP | Moderate | S&P Global Services PMI (Jan) | 54.3 | 51.7 | 51.4 |
 | 10:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 11:30 | INR | Low | FX Reserves, USD | 701.36B |  | 687.19B |
+| 12:00 | MXN | Low | Economic Activity (YoY) (Nov) | -0.10% | 1.20% | 1.80% |
 | 12:00 | MXN | Low | Economic Activity (MoM) (Nov) | -0.20% | 0.20% | 1.00% |
-| 12:00 | MXN | Low | Economic Activity (YoY) (Nov) | -0.10% | 1.20% | 1.70% |
-| 46 min | CNY | Low | FDI (Dec) |  |  | -7.50% |
-| 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Nov) |  | 1.0% | -0.6% |
-| 13:30 | CAD | Moderate | Retail Sales (MoM) (Nov) |  | 1.2% | -0.2% |
-| 13:30 | CAD | Moderate | Retail Sales (MoM) (Nov) |  |  | -0.2% |
+| 9 min | CAD | Moderate | Core Retail Sales (MoM) (Nov) |  | 1.0% | -0.6% |
+| 9 min | CAD | Moderate | Retail Sales (MoM) (Nov) |  | 1.2% | -0.2% |
+| 9 min | CAD | Moderate | Retail Sales (MoM) (Nov) |  |  | -0.2% |
 | 14:45 | USD | High | S&P Global Manufacturing PMI (Jan) |  | 51.9 | 51.8 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Jan) |  |  | 52.7 |
 | 14:45 | USD | High | S&P Global Services PMI (Jan) |  | 52.9 | 52.5 |
