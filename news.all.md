@@ -11,12 +11,12 @@
 | 03:00 | JPY | Moderate | BoJ Outlook Report (YoY) |  |  |  |
 | 03:00 | JPY | High | BoJ Interest Rate Decision | 0.75% | 0.75% | 0.75% |
 | 03:00 | IDR | Low | M2 Money Supply (YoY) (Dec) | 9.60% |  | 8.30% |
-| 05:00 | INR | Low | S&P Global Manufacturing PMI (Jan) |  |  | 55.0 |
-| 05:00 | INR | Low | S&P Global Services PMI (Jan) |  |  | 58.0 |
-| 05:00 | INR | Low | Manufacturing & Services PMI (Jan) |  |  | 57.80 |
-| 05:00 | SGD | Moderate | Core CPI (YoY) (Dec) |  |  | 1.20% |
-| 05:00 | SGD | Low | CPI (MoM) (Dec) |  |  | 0.30% |
-| 05:00 | SGD | Moderate | CPI (YoY) (Dec) |  | 1.2% | 1.2% |
+| 36 min | INR | Low | S&P Global Manufacturing PMI (Jan) |  |  | 55.0 |
+| 36 min | INR | Low | S&P Global Services PMI (Jan) |  |  | 58.0 |
+| 36 min | INR | Low | Manufacturing & Services PMI (Jan) |  |  | 57.80 |
+| 36 min | SGD | Moderate | Core CPI (YoY) (Dec) |  |  | 1.20% |
+| 36 min | SGD | Low | CPI (MoM) (Dec) |  |  | 0.30% |
+| 36 min | SGD | Moderate | CPI (YoY) (Dec) |  | 1.2% | 1.2% |
 | 06:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Dec) |  | -0.2% | -0.2% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Dec) |  | 1.4% | 1.2% |

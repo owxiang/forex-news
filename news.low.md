@@ -7,10 +7,10 @@
 | 00:30 | JPY | au Jibun Bank Manufacturing PMI (Jan) | 51.5 | 50.1 | 50.0 |
 | 00:30 | SGD | URA Property Index (QoQ) (Q4) | 0.60% | 0.70% | 0.90% |
 | 03:00 | IDR | M2 Money Supply (YoY) (Dec) | 9.60% |  | 8.30% |
-| 05:00 | INR | S&P Global Manufacturing PMI (Jan) |  |  | 55.0 |
-| 05:00 | INR | S&P Global Services PMI (Jan) |  |  | 58.0 |
-| 05:00 | INR | Manufacturing & Services PMI (Jan) |  |  | 57.80 |
-| 05:00 | SGD | CPI (MoM) (Dec) |  |  | 0.30% |
+| 36 min | INR | S&P Global Manufacturing PMI (Jan) |  |  | 55.0 |
+| 36 min | INR | S&P Global Services PMI (Jan) |  |  | 58.0 |
+| 36 min | INR | Manufacturing & Services PMI (Jan) |  |  | 57.80 |
+| 36 min | SGD | CPI (MoM) (Dec) |  |  | 0.30% |
 | 07:45 | EUR | French Business Survey (Jan) |  | 101 | 102 |
 | 08:15 | EUR | HCOB France Composite PMI (Jan) |  | 50.1 | 50.0 |
 | 08:30 | EUR | HCOB Germany Composite PMI (Jan) |  | 51.8 | 51.3 |
