@@ -3,15 +3,15 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | au Jibun Bank Services PMI (Jan) | 53.4 |  | 51.6 |
-| 03:00 | JPY | BoJ Monetary Policy Statement |  |  |  |
-| 03:00 | JPY | BoJ Outlook Report (YoY) |  |  |  |
+| 13 min | JPY | BoJ Monetary Policy Statement |  |  |  |
+| 13 min | JPY | BoJ Outlook Report (YoY) |  |  |  |
 | 05:00 | SGD | Core CPI (YoY) (Dec) |  |  | 1.20% |
 | 05:00 | SGD | CPI (YoY) (Dec) |  | 1.2% | 1.2% |
 | 06:30 | JPY | BoJ Press Conference |  |  |  |
 | 07:00 | GBP | Core Retail Sales (MoM) (Dec) |  | -0.2% | -0.2% |
 | 07:00 | GBP | Core Retail Sales (YoY) (Dec) |  | 1.4% | 1.2% |
-| 07:00 | GBP | Retail Sales (YoY) (Dec) |  | 1.0% | 0.6% |
 | 07:00 | GBP | Retail Sales (MoM) (Dec) |  | 0.0% | -0.1% |
+| 07:00 | GBP | Retail Sales (YoY) (Dec) |  | 1.0% | 0.6% |
 | 08:00 | CHF | World Economic Forum Annual Meetings |  |  |  |
 | 08:15 | EUR | HCOB France Manufacturing PMI (Jan) |  | 50.3 | 50.7 |
 | 08:15 | EUR | HCOB France Services PMI (Jan) |  | 50.3 | 50.1 |

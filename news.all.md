@@ -7,11 +7,10 @@
 | 00:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Jan) | 51.5 | 50.1 | 50.0 |
 | 00:30 | JPY | Moderate | au Jibun Bank Services PMI (Jan) | 53.4 |  | 51.6 |
 | 00:30 | SGD | Low | URA Property Index (QoQ) (Q4) | 0.60% | 0.70% | 0.90% |
-| 03:00 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
-| 03:00 | JPY | Moderate | BoJ Outlook Report (YoY) |  |  |  |
-| 03:00 | JPY | High | BoJ Interest Rate Decision |  | 0.75% | 0.75% |
-| 03:00 | IDR | Low | M2 Money Supply (YoY) (Dec) |  |  | 8.30% |
-| 03:00 | IDR | Low | M2 Money Supply (YoY) (Dec) |  |  | 8.30% |
+| 13 min | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
+| 13 min | JPY | Moderate | BoJ Outlook Report (YoY) |  |  |  |
+| 13 min | JPY | High | BoJ Interest Rate Decision |  | 0.75% | 0.75% |
+| 13 min | IDR | Low | M2 Money Supply (YoY) (Dec) |  |  | 8.30% |
 | 05:00 | INR | Low | S&P Global Manufacturing PMI (Jan) |  |  | 55.0 |
 | 05:00 | INR | Low | S&P Global Services PMI (Jan) |  |  | 58.0 |
 | 05:00 | INR | Low | Manufacturing & Services PMI (Jan) |  |  | 57.80 |
@@ -21,8 +20,8 @@
 | 06:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Dec) |  | -0.2% | -0.2% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Dec) |  | 1.4% | 1.2% |
-| 07:00 | GBP | Moderate | Retail Sales (YoY) (Dec) |  | 1.0% | 0.6% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Dec) |  | 0.0% | -0.1% |
+| 07:00 | GBP | Moderate | Retail Sales (YoY) (Dec) |  | 1.0% | 0.6% |
 | 07:45 | EUR | Low | French Business Survey (Jan) |  | 101 | 102 |
 | 08:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
 | 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Jan) |  | 50.3 | 50.7 |

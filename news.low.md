@@ -6,8 +6,7 @@
 | 00:30 | JPY | Manufacturing & Services PMI (Jan) | 52.80 |  | 51.10 |
 | 00:30 | JPY | au Jibun Bank Manufacturing PMI (Jan) | 51.5 | 50.1 | 50.0 |
 | 00:30 | SGD | URA Property Index (QoQ) (Q4) | 0.60% | 0.70% | 0.90% |
-| 03:00 | IDR | M2 Money Supply (YoY) (Dec) |  |  | 8.30% |
-| 03:00 | IDR | M2 Money Supply (YoY) (Dec) |  |  | 8.30% |
+| 13 min | IDR | M2 Money Supply (YoY) (Dec) |  |  | 8.30% |
 | 05:00 | INR | S&P Global Manufacturing PMI (Jan) |  |  | 55.0 |
 | 05:00 | INR | S&P Global Services PMI (Jan) |  |  | 58.0 |
 | 05:00 | INR | Manufacturing & Services PMI (Jan) |  |  | 57.80 |
