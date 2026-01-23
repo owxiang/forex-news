@@ -12,8 +12,8 @@
 | 05:00 | INR | Manufacturing & Services PMI (Jan) | 59.50 |  | 57.80 |
 | 05:00 | SGD | CPI (MoM) (Dec) | 0.30% |  | 0.20% |
 | 07:45 | EUR | French Business Survey (Jan) | 105 | 101 | 102 |
-| 5 min | EUR | HCOB France Composite PMI (Jan) |  | 50.1 | 50.0 |
-| 20 min | EUR | HCOB Germany Composite PMI (Jan) |  | 51.8 | 51.3 |
+| 08:15 | EUR | HCOB France Composite PMI (Jan) | 48.6 | 50.1 | 50.0 |
+| 08:30 | EUR | HCOB Germany Composite PMI (Jan) | 52.5 | 51.8 | 51.3 |
 | 11:30 | INR | Bank Loan Growth |  |  | 14.5% |
 | 11:30 | INR | Deposit Growth |  |  | 12.7% |
 | 11:30 | INR | FX Reserves, USD |  |  | 687.19B |
