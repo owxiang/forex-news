@@ -38,8 +38,8 @@
 | 09:30 | GBP | Moderate | S&P Global Services PMI (Jan) | 54.3 | 51.7 | 51.4 |
 | 10:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 11:30 | INR | Low | FX Reserves, USD | 701.36B |  | 687.19B |
-| 12:00 | MXN | Low | Economic Activity (YoY) (Nov) | -0.10% | 1.20% | 1.80% |
 | 12:00 | MXN | Low | Economic Activity (MoM) (Nov) | -0.20% | 0.20% | 1.00% |
+| 12:00 | MXN | Low | Economic Activity (YoY) (Nov) | -0.10% | 1.20% | 1.80% |
 | 13:00 | CNY | Low | FDI (Dec) | -9.50% |  | -7.50% |
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Nov) | 1.7% | 1.0% | -0.6% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Nov) | 1.3% | 1.2% | -0.3% |
@@ -52,7 +52,8 @@
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Jan) | 57.0 | 55.0 | 54.6 |
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Jan) | 56.4 | 54.0 | 52.9 |
 | 15:00 | USD | Low | Michigan Current Conditions (Jan) | 55.4 | 52.4 | 50.4 |
-| 15:00 | USD | Moderate | US Leading Index (MoM) (Nov) | -0.3% | -0.2% | -0.3% |
+| 15:59 | USD | Moderate | US Leading Index (MoM) (Oct) | -0.1% | -0.2% | -0.3% |
+| 16:00 | USD | Moderate | US Leading Index (MoM) (Nov) | -0.3% | -0.2% | -0.1% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 411 | 411 | 410 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 544 |  | 543 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -25.3K |
