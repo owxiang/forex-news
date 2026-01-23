@@ -22,17 +22,17 @@
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Dec) | 3.1% | 1.4% | 2.6% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Dec) | 0.4% | 0.0% | -0.1% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Dec) | 2.5% | 1.0% | 1.8% |
-| 34 min | EUR | Low | French Business Survey (Jan) |  | 101 | 102 |
-| 49 min | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
-| 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Jan) |  | 50.4 | 50.7 |
-| 08:15 | EUR | Low | HCOB France Composite PMI (Jan) |  | 50.1 | 50.0 |
-| 08:15 | EUR | Moderate | HCOB France Services PMI (Jan) |  | 50.3 | 50.1 |
-| 08:30 | EUR | Low | HCOB Germany Composite PMI (Jan) |  | 51.8 | 51.3 |
-| 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Jan) |  | 47.8 | 47.0 |
-| 08:30 | EUR | Moderate | HCOB Germany Services PMI (Jan) |  | 52.6 | 52.7 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Jan) |  | 49.1 | 48.8 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Jan) |  | 51.6 | 51.5 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Jan) |  | 52.6 | 52.4 |
+| 07:45 | EUR | Low | French Business Survey (Jan) | 105 | 101 | 102 |
+| 08:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
+| 5 min | EUR | Moderate | HCOB France Manufacturing PMI (Jan) |  | 50.4 | 50.7 |
+| 5 min | EUR | Low | HCOB France Composite PMI (Jan) |  | 50.1 | 50.0 |
+| 5 min | EUR | Moderate | HCOB France Services PMI (Jan) |  | 50.3 | 50.1 |
+| 20 min | EUR | Low | HCOB Germany Composite PMI (Jan) |  | 51.8 | 51.3 |
+| 20 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Jan) |  | 47.8 | 47.0 |
+| 20 min | EUR | Moderate | HCOB Germany Services PMI (Jan) |  | 52.6 | 52.7 |
+| 50 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Jan) |  | 49.1 | 48.8 |
+| 50 min | EUR | Moderate | HCOB Eurozone Composite PMI (Jan) |  | 51.6 | 51.5 |
+| 50 min | EUR | Moderate | HCOB Eurozone Services PMI (Jan) |  | 52.6 | 52.4 |
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (Jan) |  | 51.7 | 51.4 |
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Jan) |  | 50.6 | 50.6 |
 | 09:30 | GBP | Moderate | S&P Global Services PMI (Jan) |  | 51.7 | 51.4 |

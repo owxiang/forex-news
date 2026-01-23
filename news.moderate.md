@@ -12,14 +12,14 @@
 | 07:00 | GBP | Core Retail Sales (YoY) (Dec) | 3.1% | 1.4% | 2.6% |
 | 07:00 | GBP | Retail Sales (MoM) (Dec) | 0.4% | 0.0% | -0.1% |
 | 07:00 | GBP | Retail Sales (YoY) (Dec) | 2.5% | 1.0% | 1.8% |
-| 49 min | CHF | World Economic Forum Annual Meetings |  |  |  |
-| 08:15 | EUR | HCOB France Manufacturing PMI (Jan) |  | 50.4 | 50.7 |
-| 08:15 | EUR | HCOB France Services PMI (Jan) |  | 50.3 | 50.1 |
-| 08:30 | EUR | HCOB Germany Manufacturing PMI (Jan) |  | 47.8 | 47.0 |
-| 08:30 | EUR | HCOB Germany Services PMI (Jan) |  | 52.6 | 52.7 |
-| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Jan) |  | 49.1 | 48.8 |
-| 09:00 | EUR | HCOB Eurozone Composite PMI (Jan) |  | 51.6 | 51.5 |
-| 09:00 | EUR | HCOB Eurozone Services PMI (Jan) |  | 52.6 | 52.4 |
+| 08:00 | CHF | World Economic Forum Annual Meetings |  |  |  |
+| 5 min | EUR | HCOB France Manufacturing PMI (Jan) |  | 50.4 | 50.7 |
+| 5 min | EUR | HCOB France Services PMI (Jan) |  | 50.3 | 50.1 |
+| 20 min | EUR | HCOB Germany Manufacturing PMI (Jan) |  | 47.8 | 47.0 |
+| 20 min | EUR | HCOB Germany Services PMI (Jan) |  | 52.6 | 52.7 |
+| 50 min | EUR | HCOB Eurozone Manufacturing PMI (Jan) |  | 49.1 | 48.8 |
+| 50 min | EUR | HCOB Eurozone Composite PMI (Jan) |  | 51.6 | 51.5 |
+| 50 min | EUR | HCOB Eurozone Services PMI (Jan) |  | 52.6 | 52.4 |
 | 09:30 | GBP | S&P Global Composite PMI (Jan) |  | 51.7 | 51.4 |
 | 09:30 | GBP | S&P Global Manufacturing PMI (Jan) |  | 50.6 | 50.6 |
 | 09:30 | GBP | S&P Global Services PMI (Jan) |  | 51.7 | 51.4 |
