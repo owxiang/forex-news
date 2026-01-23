@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | au Jibun Bank Services PMI (Jan) | 53.4 |  | 51.6 |
-| 13 min | JPY | BoJ Monetary Policy Statement |  |  |  |
-| 13 min | JPY | BoJ Outlook Report (YoY) |  |  |  |
+| 03:00 | JPY | BoJ Monetary Policy Statement |  |  |  |
+| 03:00 | JPY | BoJ Outlook Report (YoY) |  |  |  |
 | 05:00 | SGD | Core CPI (YoY) (Dec) |  |  | 1.20% |
 | 05:00 | SGD | CPI (YoY) (Dec) |  | 1.2% | 1.2% |
 | 06:30 | JPY | BoJ Press Conference |  |  |  |

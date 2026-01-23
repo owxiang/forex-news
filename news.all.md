@@ -7,10 +7,10 @@
 | 00:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Jan) | 51.5 | 50.1 | 50.0 |
 | 00:30 | JPY | Moderate | au Jibun Bank Services PMI (Jan) | 53.4 |  | 51.6 |
 | 00:30 | SGD | Low | URA Property Index (QoQ) (Q4) | 0.60% | 0.70% | 0.90% |
-| 13 min | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
-| 13 min | JPY | Moderate | BoJ Outlook Report (YoY) |  |  |  |
-| 13 min | JPY | High | BoJ Interest Rate Decision |  | 0.75% | 0.75% |
-| 13 min | IDR | Low | M2 Money Supply (YoY) (Dec) |  |  | 8.30% |
+| 03:00 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
+| 03:00 | JPY | Moderate | BoJ Outlook Report (YoY) |  |  |  |
+| 03:00 | JPY | High | BoJ Interest Rate Decision | 0.75% | 0.75% | 0.75% |
+| 03:00 | IDR | Low | M2 Money Supply (YoY) (Dec) | 9.60% |  | 8.30% |
 | 05:00 | INR | Low | S&P Global Manufacturing PMI (Jan) |  |  | 55.0 |
 | 05:00 | INR | Low | S&P Global Services PMI (Jan) |  |  | 58.0 |
 | 05:00 | INR | Low | Manufacturing & Services PMI (Jan) |  |  | 57.80 |
