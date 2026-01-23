@@ -1,28 +1,46 @@
-## 22 January 2026 - Moderate Impact Forex News
+## 23 January 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Employment Change (Dec) | 65.2K | 28.3K | -28.7K |
-| 00:30 | AUD | Full Employment Change (Dec) | 54.8K |  | -65.3K |
-| 00:30 | AUD | Unemployment Rate (Dec) | 4.1% | 4.4% | 4.3% |
+| 00:30 | JPY | au Jibun Bank Services PMI (Jan) | 53.4 |  | 51.6 |
+| 03:00 | JPY | BoJ Monetary Policy Statement |  |  |  |
+| 03:00 | JPY | BoJ Outlook Report (YoY) |  |  |  |
+| 05:00 | SGD | Core CPI (YoY) (Dec) |  |  | 1.20% |
+| 05:00 | SGD | CPI (YoY) (Dec) |  | 1.2% | 1.2% |
+| 06:30 | JPY | BoJ Press Conference |  |  |  |
+| 07:00 | GBP | Core Retail Sales (MoM) (Dec) |  | -0.2% | -0.2% |
+| 07:00 | GBP | Core Retail Sales (YoY) (Dec) |  | 1.4% | 1.2% |
+| 07:00 | GBP | Retail Sales (YoY) (Dec) |  | 1.0% | 0.6% |
+| 07:00 | GBP | Retail Sales (MoM) (Dec) |  | 0.0% | -0.1% |
 | 08:00 | CHF | World Economic Forum Annual Meetings |  |  |  |
-| 09:00 | NOK | Interest Rate Decision | 4.00% | 4.00% | 4.00% |
-| 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims | 1,849K |  | 1,875K |
-| 13:30 | USD | Core PCE Prices (Q3) | 2.90% | 2.90% | 2.60% |
-| 13:30 | USD | GDP Price Index (QoQ) (Q3) | 3.7% | 3.7% | 2.1% |
-| 13:30 | CAD | New Housing Price Index (MoM) (Dec) | -0.2% | -0.2% | 0.0% |
-| 14:59 | USD | PCE price index (MoM) (Oct) | 0.2% |  | 0.3% |
-| 14:59 | USD | PCE Price index (YoY) (Oct) | 2.7% |  | 2.8% |
-| 14:59 | USD | Personal Spending (MoM) (Oct) | 0.5% |  | 0.3% |
-| 15:00 | USD | PCE Price index (YoY) (Nov) | 2.8% | 2.8% | 2.7% |
-| 15:00 | USD | PCE price index (MoM) (Nov) | 0.2% | 0.2% | 0.2% |
-| 15:00 | USD | Personal Spending (MoM) (Nov) | 0.5% | 0.5% | 0.5% |
-| 17:00 | USD | Atlanta Fed GDPNow (Q4) | 5.4% | 5.4% | 5.4% |
-| 17:00 | USD | Cushing Crude Oil Inventories | 1.478M |  | 0.745M |
-| 18:00 | USD | 10-Year TIPS Auction | 1.940% |  | 1.843% |
-| 21:30 | USD | Fed's Balance Sheet | 6,585B |  | 6,582B |
-| 21:45 | NZD | CPI (QoQ) (Q4) | 0.6% | 0.5% | 1.0% |
-| 21:45 | NZD | CPI (YoY) (Q4) | 3.1% | 3.0% | 3.0% |
-| 22 min | JPY | National Core CPI (YoY) (Dec) |  | 2.4% | 3.0% |
-| 22 min | JPY | National CPI (MoM) (Dec) |  |  | 0.4% |
+| 08:15 | EUR | HCOB France Manufacturing PMI (Jan) |  | 50.3 | 50.7 |
+| 08:15 | EUR | HCOB France Services PMI (Jan) |  | 50.3 | 50.1 |
+| 08:30 | EUR | HCOB Germany Manufacturing PMI (Jan) |  | 47.8 | 47.0 |
+| 08:30 | EUR | HCOB Germany Services PMI (Jan) |  | 52.7 | 52.7 |
+| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Jan) |  | 49.1 | 48.8 |
+| 09:00 | EUR | HCOB Eurozone Composite PMI (Jan) |  | 51.6 | 51.5 |
+| 09:00 | EUR | HCOB Eurozone Services PMI (Jan) |  | 52.6 | 52.4 |
+| 09:30 | GBP | S&P Global Composite PMI (Jan) |  | 51.7 | 51.4 |
+| 09:30 | GBP | S&P Global Manufacturing PMI (Jan) |  | 50.6 | 50.6 |
+| 09:30 | GBP | S&P Global Services PMI (Jan) |  | 51.7 | 51.4 |
+| 10:00 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 13:30 | CAD | Core Retail Sales (MoM) (Nov) |  | 1.0% | -0.6% |
+| 13:30 | CAD | Retail Sales (MoM) (Nov) |  | 1.2% | -0.2% |
+| 13:30 | CAD | Retail Sales (MoM) (Nov) |  |  | -0.2% |
+| 14:45 | USD | S&P Global Composite PMI (Jan) |  |  | 52.7 |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (Jan) |  | 4.2% | 4.2% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (Jan) |  | 3.4% | 3.4% |
+| 15:00 | USD | Michigan Consumer Expectations (Jan) |  | 55.0 | 54.6 |
+| 15:00 | USD | Michigan Consumer Sentiment (Jan) |  | 54.0 | 54.0 |
+| 15:00 | USD | US Leading Index (MoM) (Nov) |  |  | -0.3% |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 410 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 543 |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | -25.3K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 58.1K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 251.2K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 29.1K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -122.1K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -18.8K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 17.9K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | -45.2K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 132.7K |

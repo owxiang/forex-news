@@ -1,45 +1,36 @@
-## 22 January 2026 - Low Impact Forex News
+## 23 January 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Participation Rate (Dec) | 66.7% | 66.8% | 66.6% |
-| 07:00 | GBP | Public Sector Net Borrowing (Dec) | -11.58B | -13.40B | -10.94B |
-| 07:00 | GBP | Public Sector Net Cash Requirement (Dec) | 16.908B |  | 9.516B |
-| 07:00 | NOK | Unemployment Rate (Dec) | 4.3% |  | 4.5% |
-| 08:30 | HKD | CPI (MoM) (Dec) | 0.30% |  | 0.00% |
-| 08:30 | HKD | CPI (YoY) (Dec) | 1.40% |  | 1.20% |
-| 11:00 | GBP | CBI Distributive Trades Survey (Jan) | -17 | -35 | -44 |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 12:00 | MXN | 1st Half-Month Core CPI (Jan) | 0.43% | 0.39% | 0.31% |
-| 12:00 | MXN | 1st Half-Month CPI (Jan) | 0.31% | 0.37% | 0.17% |
-| 12:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
-| 13:30 | USD | Corporate Profits (QoQ) (Q3) | 4.7% | 4.4% | 0.2% |
-| 13:30 | USD | GDP Sales (Q3) | 4.5% | 4.6% | 7.5% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. | 201.50K |  | 205.25K |
-| 13:30 | USD | PCE Prices (Q3) | 2.8% | 2.8% | 2.1% |
-| 13:30 | USD | Real Consumer Spending (Q3) | 3.5% | 3.5% | 2.5% |
-| 13:30 | BRL | Federal Tax Revenue (Dec) | 292.72B |  | 226.75B |
-| 14:59 | USD | Personal Income (MoM) (Oct) | 0.1% |  | 0.4% |
-| 15:00 | USD | Personal Income (MoM) (Nov) | 0.3% | 0.4% | 0.1% |
-| 15:00 | USD | Real Personal Consumption (MoM) (Nov) | 0.3% |  | 0.1% |
-| 15:00 | EUR | Consumer Confidence (Jan) | -12.4 | -13.0 | -13.2 |
-| 15:30 | USD | Natural Gas Storage | -120B | -90B | -71B |
-| 16:00 | USD | KC Fed Composite Index (Jan) | 0 |  | 0 |
-| 16:00 | USD | KC Fed Manufacturing Index (Jan) | -2 |  | -3 |
-| 16:30 | USD | 4-Week Bill Auction | 3.630% |  | 3.595% |
-| 16:30 | USD | 8-Week Bill Auction | 3.630% |  | 3.600% |
-| 17:00 | USD | EIA Refinery Crude Runs (WoW) | -0.354M |  | 0.049M |
-| 17:00 | USD | Crude Oil Imports | -0.027M |  | 0.710M |
-| 17:00 | USD | Distillate Fuel Production | -0.209M |  | -0.019M |
-| 17:00 | USD | EIA Weekly Distillates Stocks | 3.348M | -0.200M | -0.029M |
-| 17:00 | USD | Gasoline Production | -0.246M |  | 0.029M |
-| 17:00 | USD | Heating Oil Stockpiles | 0.279M |  | -0.745M |
-| 17:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -2.0% |  | 0.6% |
-| 17:00 | USD | Gasoline Inventories | 5.977M | 1.700M | 8.977M |
-| 21:00 | KRW | Consumer Confidence (Jan) | 110.8 |  | 109.9 |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 2.957T |  | 3.062T |
-| 22:00 | AUD | Manufacturing & Services PMI (Jan) | 55.50 |  | 51.00 |
-| 22:00 | AUD | Judo Bank Manufacturing PMI (Jan) | 52.4 |  | 51.6 |
-| 22:00 | AUD | Judo Bank Services PMI (Jan) | 56.0 |  | 51.1 |
-| 22 min | JPY | CPI, n.s.a (MoM) (Dec) |  |  | 0.3% |
-| 22 min | JPY | National CPI (YoY) (Dec) |  |  | 2.9% |
+| 00:01 | GBP | GfK Consumer Confidence (Jan) | -16 | -17 | -17 |
+| 00:30 | JPY | Manufacturing & Services PMI (Jan) | 52.80 |  | 51.10 |
+| 00:30 | JPY | au Jibun Bank Manufacturing PMI (Jan) | 51.5 | 50.1 | 50.0 |
+| 00:30 | SGD | URA Property Index (QoQ) (Q4) | 0.60% | 0.70% | 0.90% |
+| 03:00 | IDR | M2 Money Supply (YoY) (Dec) |  |  | 8.30% |
+| 03:00 | IDR | M2 Money Supply (YoY) (Dec) |  |  | 8.30% |
+| 05:00 | INR | S&P Global Manufacturing PMI (Jan) |  |  | 55.0 |
+| 05:00 | INR | S&P Global Services PMI (Jan) |  |  | 58.0 |
+| 05:00 | INR | Manufacturing & Services PMI (Jan) |  |  | 57.80 |
+| 05:00 | SGD | CPI (MoM) (Dec) |  |  | 0.30% |
+| 07:45 | EUR | French Business Survey (Jan) |  | 101 | 102 |
+| 08:15 | EUR | HCOB France Composite PMI (Jan) |  | 50.1 | 50.0 |
+| 08:30 | EUR | HCOB Germany Composite PMI (Jan) |  | 51.8 | 51.3 |
+| 11:30 | INR | Bank Loan Growth |  |  | 14.5% |
+| 11:30 | INR | Deposit Growth |  |  | 12.7% |
+| 11:30 | INR | FX Reserves, USD |  |  | 687.19B |
+| 12:00 | MXN | Economic Activity (YoY) (Nov) |  | 1.20% | 1.70% |
+| 12:00 | MXN | Economic Activity (MoM) (Nov) |  | 0.20% | 1.00% |
+| 13:00 | CNY | FDI (Dec) |  |  | -7.50% |
+| 15:00 | USD | Michigan Current Conditions (Jan) |  | 52.4 | 50.4 |
+| 15:30 | USD | Dallas Fed PCE (Nov) |  |  | 1.90% |
+| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -3.3K |
+| 20:30 | USD | CFTC Copper speculative net positions |  |  | 53.4K |
+| 20:30 | USD | CFTC Corn speculative net positions |  |  | -33.4K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -185.6K |
+| 20:30 | USD | CFTC Silver speculative net positions |  |  | 32.1K |
+| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 58.9K |
+| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -86.0K |
+| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -42.3K |
+| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 103.6K |
+| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -43.4K |
+| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -48.9K |
