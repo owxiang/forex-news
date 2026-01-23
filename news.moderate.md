@@ -20,10 +20,10 @@
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Jan) | 49.4 | 49.1 | 48.8 |
 | 09:00 | EUR | HCOB Eurozone Composite PMI (Jan) | 51.5 | 51.6 | 51.5 |
 | 09:00 | EUR | HCOB Eurozone Services PMI (Jan) | 51.9 | 52.6 | 52.4 |
-| 18 min | GBP | S&P Global Composite PMI (Jan) |  | 51.7 | 51.4 |
-| 18 min | GBP | S&P Global Manufacturing PMI (Jan) |  | 50.6 | 50.6 |
-| 18 min | GBP | S&P Global Services PMI (Jan) |  | 51.7 | 51.4 |
-| 48 min | EUR | ECB President Lagarde Speaks |  |  |  |
+| 09:30 | GBP | S&P Global Composite PMI (Jan) | 53.9 | 51.7 | 51.4 |
+| 09:30 | GBP | S&P Global Manufacturing PMI (Jan) | 51.6 | 50.6 | 50.6 |
+| 09:30 | GBP | S&P Global Services PMI (Jan) | 54.3 | 51.7 | 51.4 |
+| 10:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 13:30 | CAD | Core Retail Sales (MoM) (Nov) |  | 1.0% | -0.6% |
 | 13:30 | CAD | Retail Sales (MoM) (Nov) |  | 1.2% | -0.2% |
 | 13:30 | CAD | Retail Sales (MoM) (Nov) |  |  | -0.2% |

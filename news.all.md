@@ -33,10 +33,10 @@
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Jan) | 49.4 | 49.1 | 48.8 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Jan) | 51.5 | 51.6 | 51.5 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Jan) | 51.9 | 52.6 | 52.4 |
-| 18 min | GBP | Moderate | S&P Global Composite PMI (Jan) |  | 51.7 | 51.4 |
-| 18 min | GBP | Moderate | S&P Global Manufacturing PMI (Jan) |  | 50.6 | 50.6 |
-| 18 min | GBP | Moderate | S&P Global Services PMI (Jan) |  | 51.7 | 51.4 |
-| 48 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 09:30 | GBP | Moderate | S&P Global Composite PMI (Jan) | 53.9 | 51.7 | 51.4 |
+| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Jan) | 51.6 | 50.6 | 50.6 |
+| 09:30 | GBP | Moderate | S&P Global Services PMI (Jan) | 54.3 | 51.7 | 51.4 |
+| 10:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 11:30 | INR | Low | Bank Loan Growth |  |  | 14.5% |
 | 11:30 | INR | Low | Deposit Growth |  |  | 12.7% |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 687.19B |
