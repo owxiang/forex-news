@@ -24,15 +24,15 @@
 | 09:30 | GBP | S&P Global Manufacturing PMI (Jan) | 51.6 | 50.6 | 50.6 |
 | 09:30 | GBP | S&P Global Services PMI (Jan) | 54.3 | 51.7 | 51.4 |
 | 10:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 9 min | CAD | Core Retail Sales (MoM) (Nov) |  | 1.0% | -0.6% |
-| 9 min | CAD | Retail Sales (MoM) (Nov) |  | 1.2% | -0.2% |
-| 9 min | CAD | Retail Sales (MoM) (Nov) |  |  | -0.2% |
-| 14:45 | USD | S&P Global Composite PMI (Jan) |  |  | 52.7 |
-| 15:00 | USD | Michigan 1-Year Inflation Expectations (Jan) |  | 4.2% | 4.2% |
-| 15:00 | USD | Michigan 5-Year Inflation Expectations (Jan) |  | 3.4% | 3.2% |
-| 15:00 | USD | Michigan Consumer Expectations (Jan) |  | 55.0 | 54.6 |
-| 15:00 | USD | Michigan Consumer Sentiment (Jan) |  | 54.0 | 52.9 |
-| 15:00 | USD | US Leading Index (MoM) (Nov) |  | -0.2% | -0.3% |
+| 13:30 | CAD | Core Retail Sales (MoM) (Nov) | 1.7% | 1.0% | -0.6% |
+| 13:30 | CAD | Retail Sales (MoM) (Nov) | 1.3% | 1.2% | -0.3% |
+| 13:30 | CAD | Retail Sales (MoM) (Dec) | -0.5% |  | 1.3% |
+| 35 min | USD | S&P Global Composite PMI (Jan) |  |  | 52.7 |
+| 50 min | USD | Michigan 1-Year Inflation Expectations (Jan) |  | 4.2% | 4.2% |
+| 50 min | USD | Michigan 5-Year Inflation Expectations (Jan) |  | 3.4% | 3.2% |
+| 50 min | USD | Michigan Consumer Expectations (Jan) |  | 55.0 | 54.6 |
+| 50 min | USD | Michigan Consumer Sentiment (Jan) |  | 54.0 | 52.9 |
+| 50 min | USD | US Leading Index (MoM) (Nov) |  | -0.2% | -0.3% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 410 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 543 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -25.3K |

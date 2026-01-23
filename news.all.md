@@ -40,18 +40,18 @@
 | 11:30 | INR | Low | FX Reserves, USD | 701.36B |  | 687.19B |
 | 12:00 | MXN | Low | Economic Activity (YoY) (Nov) | -0.10% | 1.20% | 1.80% |
 | 12:00 | MXN | Low | Economic Activity (MoM) (Nov) | -0.20% | 0.20% | 1.00% |
-| 9 min | CAD | Moderate | Core Retail Sales (MoM) (Nov) |  | 1.0% | -0.6% |
-| 9 min | CAD | Moderate | Retail Sales (MoM) (Nov) |  | 1.2% | -0.2% |
-| 9 min | CAD | Moderate | Retail Sales (MoM) (Nov) |  |  | -0.2% |
-| 14:45 | USD | High | S&P Global Manufacturing PMI (Jan) |  | 51.9 | 51.8 |
-| 14:45 | USD | Moderate | S&P Global Composite PMI (Jan) |  |  | 52.7 |
-| 14:45 | USD | High | S&P Global Services PMI (Jan) |  | 52.9 | 52.5 |
-| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Jan) |  | 4.2% | 4.2% |
-| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Jan) |  | 3.4% | 3.2% |
-| 15:00 | USD | Moderate | Michigan Consumer Expectations (Jan) |  | 55.0 | 54.6 |
-| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Jan) |  | 54.0 | 52.9 |
-| 15:00 | USD | Low | Michigan Current Conditions (Jan) |  | 52.4 | 50.4 |
-| 15:00 | USD | Moderate | US Leading Index (MoM) (Nov) |  | -0.2% | -0.3% |
+| 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Nov) | 1.7% | 1.0% | -0.6% |
+| 13:30 | CAD | Moderate | Retail Sales (MoM) (Nov) | 1.3% | 1.2% | -0.3% |
+| 13:30 | CAD | Moderate | Retail Sales (MoM) (Dec) | -0.5% |  | 1.3% |
+| 35 min | USD | High | S&P Global Manufacturing PMI (Jan) |  | 51.9 | 51.8 |
+| 35 min | USD | Moderate | S&P Global Composite PMI (Jan) |  |  | 52.7 |
+| 35 min | USD | High | S&P Global Services PMI (Jan) |  | 52.9 | 52.5 |
+| 50 min | USD | Moderate | Michigan 1-Year Inflation Expectations (Jan) |  | 4.2% | 4.2% |
+| 50 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Jan) |  | 3.4% | 3.2% |
+| 50 min | USD | Moderate | Michigan Consumer Expectations (Jan) |  | 55.0 | 54.6 |
+| 50 min | USD | Moderate | Michigan Consumer Sentiment (Jan) |  | 54.0 | 52.9 |
+| 50 min | USD | Low | Michigan Current Conditions (Jan) |  | 52.4 | 50.4 |
+| 50 min | USD | Moderate | US Leading Index (MoM) (Nov) |  | -0.2% | -0.3% |
 | 15:30 | USD | Low | Dallas Fed PCE (Nov) |  |  | 1.90% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 410 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 543 |

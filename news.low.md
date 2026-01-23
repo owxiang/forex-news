@@ -17,7 +17,7 @@
 | 11:30 | INR | FX Reserves, USD | 701.36B |  | 687.19B |
 | 12:00 | MXN | Economic Activity (YoY) (Nov) | -0.10% | 1.20% | 1.80% |
 | 12:00 | MXN | Economic Activity (MoM) (Nov) | -0.20% | 0.20% | 1.00% |
-| 15:00 | USD | Michigan Current Conditions (Jan) |  | 52.4 | 50.4 |
+| 50 min | USD | Michigan Current Conditions (Jan) |  | 52.4 | 50.4 |
 | 15:30 | USD | Dallas Fed PCE (Nov) |  |  | 1.90% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -3.3K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 53.4K |
