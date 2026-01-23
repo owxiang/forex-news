@@ -52,7 +52,7 @@
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Jan) | 57.0 | 55.0 | 54.6 |
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Jan) | 56.4 | 54.0 | 52.9 |
 | 15:00 | USD | Low | Michigan Current Conditions (Jan) | 55.4 | 52.4 | 50.4 |
-| 17:00 | USD | Moderate | US Leading Index (MoM) (Nov) |  | -0.2% | -0.3% |
+| 15:00 | USD | Moderate | US Leading Index (MoM) (Nov) | -0.3% | -0.2% | -0.3% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  | 411 | 410 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 543 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -25.3K |
