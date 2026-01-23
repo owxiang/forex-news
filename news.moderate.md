@@ -32,7 +32,7 @@
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Jan) |  | 3.4% | 3.2% |
 | 15:00 | USD | Michigan Consumer Expectations (Jan) |  | 55.0 | 54.6 |
 | 15:00 | USD | Michigan Consumer Sentiment (Jan) |  | 54.0 | 52.9 |
-| 15:00 | USD | US Leading Index (MoM) (Nov) |  |  | -0.3% |
+| 15:00 | USD | US Leading Index (MoM) (Nov) |  | -0.2% | -0.3% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 410 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 543 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -25.3K |
