@@ -7,12 +7,12 @@
 | 03:00 | JPY | BoJ Outlook Report (YoY) |  |  |  |
 | 05:00 | SGD | Core CPI (YoY) (Dec) | 1.20% |  | 1.20% |
 | 05:00 | SGD | CPI (YoY) (Dec) | 1.2% | 1.2% | 1.2% |
-| 18 min | JPY | BoJ Press Conference |  |  |  |
-| 48 min | GBP | Core Retail Sales (MoM) (Dec) |  | -0.2% | -0.2% |
-| 48 min | GBP | Core Retail Sales (YoY) (Dec) |  | 1.4% | 1.2% |
-| 48 min | GBP | Retail Sales (MoM) (Dec) |  | 0.0% | -0.1% |
-| 48 min | GBP | Retail Sales (YoY) (Dec) |  | 1.0% | 0.6% |
-| 08:00 | CHF | World Economic Forum Annual Meetings |  |  |  |
+| 06:30 | JPY | BoJ Press Conference |  |  |  |
+| 07:00 | GBP | Core Retail Sales (MoM) (Dec) | 0.3% | -0.2% | -0.4% |
+| 07:00 | GBP | Core Retail Sales (YoY) (Dec) | 3.1% | 1.4% | 2.6% |
+| 07:00 | GBP | Retail Sales (MoM) (Dec) | 0.4% | 0.0% | -0.1% |
+| 07:00 | GBP | Retail Sales (YoY) (Dec) | 2.5% | 1.0% | 1.8% |
+| 49 min | CHF | World Economic Forum Annual Meetings |  |  |  |
 | 08:15 | EUR | HCOB France Manufacturing PMI (Jan) |  | 50.4 | 50.7 |
 | 08:15 | EUR | HCOB France Services PMI (Jan) |  | 50.3 | 50.1 |
 | 08:30 | EUR | HCOB Germany Manufacturing PMI (Jan) |  | 47.8 | 47.0 |

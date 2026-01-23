@@ -17,13 +17,13 @@
 | 05:00 | SGD | Moderate | Core CPI (YoY) (Dec) | 1.20% |  | 1.20% |
 | 05:00 | SGD | Low | CPI (MoM) (Dec) | 0.30% |  | 0.20% |
 | 05:00 | SGD | Moderate | CPI (YoY) (Dec) | 1.2% | 1.2% | 1.2% |
-| 18 min | JPY | Moderate | BoJ Press Conference |  |  |  |
-| 48 min | GBP | Moderate | Core Retail Sales (MoM) (Dec) |  | -0.2% | -0.2% |
-| 48 min | GBP | Moderate | Core Retail Sales (YoY) (Dec) |  | 1.4% | 1.2% |
-| 48 min | GBP | Moderate | Retail Sales (MoM) (Dec) |  | 0.0% | -0.1% |
-| 48 min | GBP | Moderate | Retail Sales (YoY) (Dec) |  | 1.0% | 0.6% |
-| 07:45 | EUR | Low | French Business Survey (Jan) |  | 101 | 102 |
-| 08:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
+| 06:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
+| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Dec) | 0.3% | -0.2% | -0.4% |
+| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Dec) | 3.1% | 1.4% | 2.6% |
+| 07:00 | GBP | Moderate | Retail Sales (MoM) (Dec) | 0.4% | 0.0% | -0.1% |
+| 07:00 | GBP | Moderate | Retail Sales (YoY) (Dec) | 2.5% | 1.0% | 1.8% |
+| 34 min | EUR | Low | French Business Survey (Jan) |  | 101 | 102 |
+| 49 min | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
 | 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Jan) |  | 50.4 | 50.7 |
 | 08:15 | EUR | Low | HCOB France Composite PMI (Jan) |  | 50.1 | 50.0 |
 | 08:15 | EUR | Moderate | HCOB France Services PMI (Jan) |  | 50.3 | 50.1 |
