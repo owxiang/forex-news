@@ -5,18 +5,18 @@
 | 00:30 | JPY | au Jibun Bank Services PMI (Jan) | 53.4 |  | 51.6 |
 | 03:00 | JPY | BoJ Monetary Policy Statement |  |  |  |
 | 03:00 | JPY | BoJ Outlook Report (YoY) |  |  |  |
-| 36 min | SGD | Core CPI (YoY) (Dec) |  |  | 1.20% |
-| 36 min | SGD | CPI (YoY) (Dec) |  | 1.2% | 1.2% |
+| 05:00 | SGD | Core CPI (YoY) (Dec) | 1.20% |  | 1.20% |
+| 05:00 | SGD | CPI (YoY) (Dec) | 1.2% | 1.2% | 1.2% |
 | 06:30 | JPY | BoJ Press Conference |  |  |  |
 | 07:00 | GBP | Core Retail Sales (MoM) (Dec) |  | -0.2% | -0.2% |
 | 07:00 | GBP | Core Retail Sales (YoY) (Dec) |  | 1.4% | 1.2% |
 | 07:00 | GBP | Retail Sales (MoM) (Dec) |  | 0.0% | -0.1% |
 | 07:00 | GBP | Retail Sales (YoY) (Dec) |  | 1.0% | 0.6% |
 | 08:00 | CHF | World Economic Forum Annual Meetings |  |  |  |
-| 08:15 | EUR | HCOB France Manufacturing PMI (Jan) |  | 50.3 | 50.7 |
+| 08:15 | EUR | HCOB France Manufacturing PMI (Jan) |  | 50.4 | 50.7 |
 | 08:15 | EUR | HCOB France Services PMI (Jan) |  | 50.3 | 50.1 |
 | 08:30 | EUR | HCOB Germany Manufacturing PMI (Jan) |  | 47.8 | 47.0 |
-| 08:30 | EUR | HCOB Germany Services PMI (Jan) |  | 52.7 | 52.7 |
+| 08:30 | EUR | HCOB Germany Services PMI (Jan) |  | 52.6 | 52.7 |
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Jan) |  | 49.1 | 48.8 |
 | 09:00 | EUR | HCOB Eurozone Composite PMI (Jan) |  | 51.6 | 51.5 |
 | 09:00 | EUR | HCOB Eurozone Services PMI (Jan) |  | 52.6 | 52.4 |
@@ -29,9 +29,9 @@
 | 13:30 | CAD | Retail Sales (MoM) (Nov) |  |  | -0.2% |
 | 14:45 | USD | S&P Global Composite PMI (Jan) |  |  | 52.7 |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Jan) |  | 4.2% | 4.2% |
-| 15:00 | USD | Michigan 5-Year Inflation Expectations (Jan) |  | 3.4% | 3.4% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (Jan) |  | 3.4% | 3.2% |
 | 15:00 | USD | Michigan Consumer Expectations (Jan) |  | 55.0 | 54.6 |
-| 15:00 | USD | Michigan Consumer Sentiment (Jan) |  | 54.0 | 54.0 |
+| 15:00 | USD | Michigan Consumer Sentiment (Jan) |  | 54.0 | 52.9 |
 | 15:00 | USD | US Leading Index (MoM) (Nov) |  |  | -0.3% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 410 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 543 |

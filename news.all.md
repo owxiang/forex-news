@@ -11,12 +11,12 @@
 | 03:00 | JPY | Moderate | BoJ Outlook Report (YoY) |  |  |  |
 | 03:00 | JPY | High | BoJ Interest Rate Decision | 0.75% | 0.75% | 0.75% |
 | 03:00 | IDR | Low | M2 Money Supply (YoY) (Dec) | 9.60% |  | 8.30% |
-| 36 min | INR | Low | S&P Global Manufacturing PMI (Jan) |  |  | 55.0 |
-| 36 min | INR | Low | S&P Global Services PMI (Jan) |  |  | 58.0 |
-| 36 min | INR | Low | Manufacturing & Services PMI (Jan) |  |  | 57.80 |
-| 36 min | SGD | Moderate | Core CPI (YoY) (Dec) |  |  | 1.20% |
-| 36 min | SGD | Low | CPI (MoM) (Dec) |  |  | 0.30% |
-| 36 min | SGD | Moderate | CPI (YoY) (Dec) |  | 1.2% | 1.2% |
+| 05:00 | INR | Low | S&P Global Manufacturing PMI (Jan) | 56.8 |  | 55.0 |
+| 05:00 | INR | Low | S&P Global Services PMI (Jan) | 59.3 |  | 58.0 |
+| 05:00 | INR | Low | Manufacturing & Services PMI (Jan) | 59.50 |  | 57.80 |
+| 05:00 | SGD | Moderate | Core CPI (YoY) (Dec) | 1.20% |  | 1.20% |
+| 05:00 | SGD | Low | CPI (MoM) (Dec) | 0.30% |  | 0.20% |
+| 05:00 | SGD | Moderate | CPI (YoY) (Dec) | 1.2% | 1.2% | 1.2% |
 | 06:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Dec) |  | -0.2% | -0.2% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Dec) |  | 1.4% | 1.2% |
@@ -24,12 +24,12 @@
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Dec) |  | 1.0% | 0.6% |
 | 07:45 | EUR | Low | French Business Survey (Jan) |  | 101 | 102 |
 | 08:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
-| 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Jan) |  | 50.3 | 50.7 |
+| 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Jan) |  | 50.4 | 50.7 |
 | 08:15 | EUR | Low | HCOB France Composite PMI (Jan) |  | 50.1 | 50.0 |
 | 08:15 | EUR | Moderate | HCOB France Services PMI (Jan) |  | 50.3 | 50.1 |
 | 08:30 | EUR | Low | HCOB Germany Composite PMI (Jan) |  | 51.8 | 51.3 |
 | 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Jan) |  | 47.8 | 47.0 |
-| 08:30 | EUR | Moderate | HCOB Germany Services PMI (Jan) |  | 52.7 | 52.7 |
+| 08:30 | EUR | Moderate | HCOB Germany Services PMI (Jan) |  | 52.6 | 52.7 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Jan) |  | 49.1 | 48.8 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Jan) |  | 51.6 | 51.5 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Jan) |  | 52.6 | 52.4 |
@@ -50,9 +50,9 @@
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Jan) |  |  | 52.7 |
 | 14:45 | USD | High | S&P Global Services PMI (Jan) |  | 52.9 | 52.5 |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Jan) |  | 4.2% | 4.2% |
-| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Jan) |  | 3.4% | 3.4% |
+| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Jan) |  | 3.4% | 3.2% |
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Jan) |  | 55.0 | 54.6 |
-| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Jan) |  | 54.0 | 54.0 |
+| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Jan) |  | 54.0 | 52.9 |
 | 15:00 | USD | Low | Michigan Current Conditions (Jan) |  | 52.4 | 50.4 |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (Nov) |  |  | -0.3% |
 | 15:30 | USD | Low | Dallas Fed PCE (Nov) |  |  | 1.90% |
