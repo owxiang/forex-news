@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 30 min | JPY | Coincident Indicator (MoM) (Nov) |  | -0.7% | -1.3% |
-| 30 min | JPY | Leading Index (MoM) (Nov) |  | 0.7% | 0.9% |
-| 30 min | JPY | Leading Index (Nov) |  | 110.5 | 109.8 |
-| 30 min | SGD | Industrial Production (YoY) (Dec) |  | 10.1% | 14.3% |
-| 30 min | SGD | Industrial Production (MoM) (Dec) |  | -15.2% | -10.2% |
+| 05:00 | JPY | Coincident Indicator (MoM) (Nov) | -1.0% | -0.7% | -1.3% |
+| 05:00 | JPY | Leading Index (MoM) (Nov) | 0.1% | 0.7% | 0.9% |
+| 05:00 | JPY | Leading Index (Nov) | 109.9 | 110.5 | 109.8 |
+| 05:00 | SGD | Industrial Production (YoY) (Dec) | 8.3% | 10.1% | 18.2% |
+| 05:00 | SGD | Industrial Production (MoM) (Dec) | -13.3% | -15.2% | -7.8% |
 | 08:00 | EUR | Spanish PPI (YoY) (Dec) |  |  | -2.5% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 11:30 | USD | Dallas Fed PCE (Nov) |  |  | 1.90% |

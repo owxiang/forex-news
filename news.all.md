@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 30 min | JPY | Low | Coincident Indicator (MoM) (Nov) |  | -0.7% | -1.3% |
-| 30 min | JPY | Low | Leading Index (MoM) (Nov) |  | 0.7% | 0.9% |
-| 30 min | JPY | Low | Leading Index (Nov) |  | 110.5 | 109.8 |
-| 30 min | SGD | Low | Industrial Production (YoY) (Dec) |  | 10.1% | 14.3% |
-| 30 min | SGD | Low | Industrial Production (MoM) (Dec) |  | -15.2% | -10.2% |
+| 05:00 | JPY | Low | Coincident Indicator (MoM) (Nov) | -1.0% | -0.7% | -1.3% |
+| 05:00 | JPY | Low | Leading Index (MoM) (Nov) | 0.1% | 0.7% | 0.9% |
+| 05:00 | JPY | Low | Leading Index (Nov) | 109.9 | 110.5 | 109.8 |
+| 05:00 | SGD | Low | Industrial Production (YoY) (Dec) | 8.3% | 10.1% | 18.2% |
+| 05:00 | SGD | Low | Industrial Production (MoM) (Dec) | -13.3% | -15.2% | -7.8% |
 | 08:00 | EUR | Low | Spanish PPI (YoY) (Dec) |  |  | -2.5% |
 | 09:00 | EUR | Moderate | German Business Expectations (Jan) |  |  | 89.7 |
 | 09:00 | EUR | Moderate | German Current Assessment (Jan) |  |  | 85.6 |
