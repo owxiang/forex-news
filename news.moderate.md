@@ -6,7 +6,7 @@
 | 09:00 | EUR | German Current Assessment (Jan) |  |  | 85.6 |
 | 09:00 | EUR | German Ifo Business Climate Index (Jan) |  | 88.3 | 87.6 |
 | 11:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 13:30 | USD | Core Durable Goods Orders (MoM) (Nov) |  | 0.3% | 0.1% |
+| 13:30 | USD | Core Durable Goods Orders (MoM) (Nov) |  | 0.3% | 0.2% |
 | 13:30 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 15:30 | USD | Atlanta Fed GDPNow (Q4) |  | 5.4% | 5.4% |
 | 18:00 | USD | 2-Year Note Auction |  |  | 3.499% |

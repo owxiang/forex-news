@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 05:00 | JPY | Low | Coincident Indicator (MoM) (Nov) |  | -0.7% | -1.3% |
-| 05:00 | JPY | Low | Leading Index (MoM) (Nov) |  | 0.7% | 0.9% |
-| 05:00 | JPY | Low | Leading Index (Nov) |  | 110.5 | 109.8 |
-| 05:00 | SGD | Low | Industrial Production (YoY) (Dec) |  | 10.1% | 14.3% |
-| 05:00 | SGD | Low | Industrial Production (MoM) (Dec) |  | -15.2% | -10.2% |
+| 30 min | JPY | Low | Coincident Indicator (MoM) (Nov) |  | -0.7% | -1.3% |
+| 30 min | JPY | Low | Leading Index (MoM) (Nov) |  | 0.7% | 0.9% |
+| 30 min | JPY | Low | Leading Index (Nov) |  | 110.5 | 109.8 |
+| 30 min | SGD | Low | Industrial Production (YoY) (Dec) |  | 10.1% | 14.3% |
+| 30 min | SGD | Low | Industrial Production (MoM) (Dec) |  | -15.2% | -10.2% |
 | 08:00 | EUR | Low | Spanish PPI (YoY) (Dec) |  |  | -2.5% |
 | 09:00 | EUR | Moderate | German Business Expectations (Jan) |  |  | 89.7 |
 | 09:00 | EUR | Moderate | German Current Assessment (Jan) |  |  | 85.6 |
@@ -19,7 +19,7 @@
 | 12:00 | MXN | Low | Unemployment Rate (Dec) |  |  | 2.70% |
 | 12:00 | MXN | Low | Unemployment Rate n.s.a. (Dec) |  |  | 2.70% |
 | 13:30 | USD | Low | Chicago Fed National Activity (Nov) |  |  | -0.21 |
-| 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Nov) |  | 0.3% | 0.1% |
+| 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Nov) |  | 0.3% | 0.2% |
 | 13:30 | USD | High | Durable Goods Orders (MoM) (Nov) |  | 3.1% | -2.2% |
 | 13:30 | USD | Low | Durables Excluding Defense (MoM) (Nov) |  |  | -1.5% |
 | 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Nov) |  |  | 0.5% |
