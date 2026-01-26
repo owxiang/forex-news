@@ -10,4 +10,4 @@
 | 13:30 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 15:00 | USD | Atlanta Fed GDPNow (Q4) | 5.4% | 5.4% | 5.4% |
 | 18:00 | USD | 2-Year Note Auction | 3.580% |  | 3.499% |
-| 20:00 | EUR | German Buba Balz Speaks |  |  |  |
+| 49 min | EUR | German Buba Balz Speaks |  |  |  |
