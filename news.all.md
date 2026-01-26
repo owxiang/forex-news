@@ -26,8 +26,8 @@
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.084% |  | 2.085% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.021% |  | 2.019% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.045% |  | 2.048% |
-| 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 5.4% | 5.4% |
-| 15:30 | USD | Low | Dallas Fed Mfg Business Index (Jan) |  |  | -10.9 |
+| 15:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 5.4% | 5.4% | 5.4% |
+| 19 min | USD | Low | Dallas Fed Mfg Business Index (Jan) |  |  | -10.9 |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.590% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.520% |
 | 18:00 | USD | Moderate | 2-Year Note Auction |  |  | 3.499% |

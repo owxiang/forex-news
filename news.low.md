@@ -19,7 +19,7 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 2.084% |  | 2.085% |
 | 14:00 | EUR | French 3-Month BTF Auction | 2.021% |  | 2.019% |
 | 14:00 | EUR | French 6-Month BTF Auction | 2.045% |  | 2.048% |
-| 15:30 | USD | Dallas Fed Mfg Business Index (Jan) |  |  | -10.9 |
+| 19 min | USD | Dallas Fed Mfg Business Index (Jan) |  |  | -10.9 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 3.590% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 3.520% |
 | 21:00 | KRW | Consumer Confidence (Jan) |  |  | 109.9 |
