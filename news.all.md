@@ -11,13 +11,13 @@
 | 09:00 | EUR | Moderate | German Business Expectations (Jan) | 89.5 |  | 89.7 |
 | 09:00 | EUR | Moderate | German Current Assessment (Jan) | 85.7 |  | 85.6 |
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (Jan) | 87.6 | 88.3 | 87.6 |
-| 50 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 11:30 | USD | Low | Dallas Fed PCE (Nov) |  |  | 1.90% |
-| 11:30 | BRL | Low | Current Account (USD) (Dec) |  |  | -4.94B |
-| 11:30 | BRL | Low | Foreign direct investment (USD) (Dec) |  |  | 9.82B |
-| 12:00 | MXN | Low | Unemployment Rate (Dec) |  |  | 2.70% |
-| 12:00 | MXN | Low | Unemployment Rate n.s.a. (Dec) |  |  | 2.70% |
+| 11:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 17 min | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 22 min | USD | Low | Dallas Fed PCE (Nov) |  |  | 1.90% |
+| 22 min | BRL | Low | Current Account (USD) (Dec) |  |  | -4.94B |
+| 22 min | BRL | Low | Foreign direct investment (USD) (Dec) |  |  | 9.82B |
+| 52 min | MXN | Low | Unemployment Rate (Dec) |  |  | 2.70% |
+| 52 min | MXN | Low | Unemployment Rate n.s.a. (Dec) |  |  | 2.70% |
 | 13:30 | USD | Low | Chicago Fed National Activity (Nov) |  |  | -0.21 |
 | 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Nov) |  | 0.3% | 0.2% |
 | 13:30 | USD | High | Durable Goods Orders (MoM) (Nov) |  | 3.1% | -2.2% |

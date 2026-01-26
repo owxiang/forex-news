@@ -8,12 +8,12 @@
 | 05:00 | SGD | Industrial Production (YoY) (Dec) | 8.3% | 10.1% | 18.2% |
 | 05:00 | SGD | Industrial Production (MoM) (Dec) | -13.3% | -15.2% | -7.8% |
 | 08:00 | EUR | Spanish PPI (YoY) (Dec) | -3.0% |  | -2.5% |
-| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 11:30 | USD | Dallas Fed PCE (Nov) |  |  | 1.90% |
-| 11:30 | BRL | Current Account (USD) (Dec) |  |  | -4.94B |
-| 11:30 | BRL | Foreign direct investment (USD) (Dec) |  |  | 9.82B |
-| 12:00 | MXN | Unemployment Rate (Dec) |  |  | 2.70% |
-| 12:00 | MXN | Unemployment Rate n.s.a. (Dec) |  |  | 2.70% |
+| 17 min | BRL | BCB Focus Market Readout |  |  |  |
+| 22 min | USD | Dallas Fed PCE (Nov) |  |  | 1.90% |
+| 22 min | BRL | Current Account (USD) (Dec) |  |  | -4.94B |
+| 22 min | BRL | Foreign direct investment (USD) (Dec) |  |  | 9.82B |
+| 52 min | MXN | Unemployment Rate (Dec) |  |  | 2.70% |
+| 52 min | MXN | Unemployment Rate n.s.a. (Dec) |  |  | 2.70% |
 | 13:30 | USD | Chicago Fed National Activity (Nov) |  |  | -0.21 |
 | 13:30 | USD | Durables Excluding Defense (MoM) (Nov) |  |  | -1.5% |
 | 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Nov) |  |  | 0.5% |
