@@ -8,9 +8,9 @@
 | 05:00 | SGD | Low | Industrial Production (YoY) (Dec) | 8.3% | 10.1% | 18.2% |
 | 05:00 | SGD | Low | Industrial Production (MoM) (Dec) | -13.3% | -15.2% | -7.8% |
 | 08:00 | EUR | Low | Spanish PPI (YoY) (Dec) | -3.0% |  | -2.5% |
-| 48 min | EUR | Moderate | German Business Expectations (Jan) |  |  | 89.7 |
-| 48 min | EUR | Moderate | German Current Assessment (Jan) |  |  | 85.6 |
-| 48 min | EUR | Moderate | German Ifo Business Climate Index (Jan) |  | 88.3 | 87.6 |
+| 09:00 | EUR | Moderate | German Business Expectations (Jan) | 89.5 |  | 89.7 |
+| 09:00 | EUR | Moderate | German Current Assessment (Jan) | 85.7 |  | 85.6 |
+| 09:00 | EUR | Moderate | German Ifo Business Climate Index (Jan) | 87.6 | 88.3 | 87.6 |
 | 11:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 11:30 | USD | Low | Dallas Fed PCE (Nov) |  |  | 1.90% |
