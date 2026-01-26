@@ -7,7 +7,7 @@
 | 05:00 | JPY | Leading Index (Nov) | 109.9 | 110.5 | 109.8 |
 | 05:00 | SGD | Industrial Production (YoY) (Dec) | 8.3% | 10.1% | 18.2% |
 | 05:00 | SGD | Industrial Production (MoM) (Dec) | -13.3% | -15.2% | -7.8% |
-| 08:00 | EUR | Spanish PPI (YoY) (Dec) |  |  | -2.5% |
+| 46 min | EUR | Spanish PPI (YoY) (Dec) |  |  | -2.5% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 11:30 | USD | Dallas Fed PCE (Nov) |  |  | 1.90% |
 | 11:30 | BRL | Current Account (USD) (Dec) |  |  | -4.94B |
