@@ -11,7 +11,7 @@
 | 09:00 | EUR | Moderate | German Business Expectations (Jan) | 89.5 |  | 89.7 |
 | 09:00 | EUR | Moderate | German Current Assessment (Jan) | 85.7 |  | 85.6 |
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (Jan) | 87.6 | 88.3 | 87.6 |
-| 11:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 50 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 11:30 | USD | Low | Dallas Fed PCE (Nov) |  |  | 1.90% |
 | 11:30 | BRL | Low | Current Account (USD) (Dec) |  |  | -4.94B |
