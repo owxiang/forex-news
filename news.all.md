@@ -32,5 +32,5 @@
 | 16:30 | USD | Low | 6-Month Bill Auction | 3.525% |  | 3.520% |
 | 18:00 | USD | Moderate | 2-Year Note Auction | 3.580% |  | 3.499% |
 | 20:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 21:00 | KRW | Low | Consumer Confidence (Jan) |  |  | 109.9 |
+| 21:00 | KRW | Low | Consumer Confidence (Jan) | 73.0 |  | 70.0 |
 | 23:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) |  | 2.5% | 2.7% |
