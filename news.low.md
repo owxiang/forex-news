@@ -9,16 +9,16 @@
 | 05:00 | SGD | Industrial Production (MoM) (Dec) | -13.3% | -15.2% | -7.8% |
 | 08:00 | EUR | Spanish PPI (YoY) (Dec) | -3.0% |  | -2.5% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 11:30 | BRL | Current Account (USD) (Dec) | -3.36B |  | -4.94B |
-| 11:30 | BRL | Foreign direct investment (USD) (Dec) | -5.25B |  | 9.82B |
+| 11:30 | BRL | Current Account (USD) (Dec) | -3.36B | -5.30B | -4.94B |
+| 11:30 | BRL | Foreign direct investment (USD) (Dec) | -5.25B | 1.00B | 9.82B |
 | 12:00 | MXN | Unemployment Rate (Dec) | 2.60% |  | 2.70% |
-| 12:00 | MXN | Unemployment Rate n.s.a. (Dec) | 2.40% |  | 2.70% |
-| 13:30 | USD | Chicago Fed National Activity (Nov) |  |  | -0.21 |
-| 13:30 | USD | Durables Excluding Defense (MoM) (Nov) |  |  | -1.5% |
-| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Nov) |  |  | 0.5% |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.085% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.019% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.048% |
+| 12:00 | MXN | Unemployment Rate n.s.a. (Dec) | 2.40% | 2.60% | 2.70% |
+| 8 min | USD | Chicago Fed National Activity (Nov) |  |  | -0.21 |
+| 8 min | USD | Durables Excluding Defense (MoM) (Nov) |  |  | -1.5% |
+| 8 min | USD | Goods Orders Non Defense Ex Air (MoM) (Nov) |  |  | 0.5% |
+| 38 min | EUR | French 12-Month BTF Auction |  |  | 2.085% |
+| 38 min | EUR | French 3-Month BTF Auction |  |  | 2.019% |
+| 38 min | EUR | French 6-Month BTF Auction |  |  | 2.048% |
 | 15:30 | USD | Dallas Fed Mfg Business Index (Jan) |  |  | -10.9 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 3.590% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 3.520% |

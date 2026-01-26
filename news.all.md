@@ -13,19 +13,19 @@
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (Jan) | 87.6 | 88.3 | 87.6 |
 | 11:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 11:30 | BRL | Low | Current Account (USD) (Dec) | -3.36B |  | -4.94B |
-| 11:30 | BRL | Low | Foreign direct investment (USD) (Dec) | -5.25B |  | 9.82B |
+| 11:30 | BRL | Low | Current Account (USD) (Dec) | -3.36B | -5.30B | -4.94B |
+| 11:30 | BRL | Low | Foreign direct investment (USD) (Dec) | -5.25B | 1.00B | 9.82B |
 | 12:00 | MXN | Low | Unemployment Rate (Dec) | 2.60% |  | 2.70% |
-| 12:00 | MXN | Low | Unemployment Rate n.s.a. (Dec) | 2.40% |  | 2.70% |
-| 13:30 | USD | Low | Chicago Fed National Activity (Nov) |  |  | -0.21 |
-| 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Nov) |  | 0.3% | 0.2% |
-| 13:30 | USD | High | Durable Goods Orders (MoM) (Nov) |  | 3.1% | -2.2% |
-| 13:30 | USD | Low | Durables Excluding Defense (MoM) (Nov) |  |  | -1.5% |
-| 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Nov) |  |  | 0.5% |
-| 13:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.085% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.019% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.048% |
+| 12:00 | MXN | Low | Unemployment Rate n.s.a. (Dec) | 2.40% | 2.60% | 2.70% |
+| 8 min | USD | Low | Chicago Fed National Activity (Nov) |  |  | -0.21 |
+| 8 min | USD | Moderate | Core Durable Goods Orders (MoM) (Nov) |  | 0.3% | 0.2% |
+| 8 min | USD | High | Durable Goods Orders (MoM) (Nov) |  | 3.1% | -2.2% |
+| 8 min | USD | Low | Durables Excluding Defense (MoM) (Nov) |  |  | -1.5% |
+| 8 min | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Nov) |  |  | 0.5% |
+| 8 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 38 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.085% |
+| 38 min | EUR | Low | French 3-Month BTF Auction |  |  | 2.019% |
+| 38 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.048% |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 5.4% | 5.4% |
 | 15:30 | USD | Low | Dallas Fed Mfg Business Index (Jan) |  |  | -10.9 |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.590% |

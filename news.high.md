@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:30 | USD | Durable Goods Orders (MoM) (Nov) |  | 3.1% | -2.2% |
+| 8 min | USD | Durable Goods Orders (MoM) (Nov) |  | 3.1% | -2.2% |
