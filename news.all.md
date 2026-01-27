@@ -6,7 +6,7 @@
 | 00:30 | AUD | Moderate | NAB Business Confidence (Dec) | 3 |  | 2 |
 | 00:30 | AUD | Low | NAB Business Survey (Dec) | 9 |  | 7 |
 | 01:30 | CNY | Low | Chinese Industrial profit YTD (Dec) | 0.6% |  | 0.1% |
-| 22 min | NZD | Low | Credit Card Spending (YoY) (Dec) |  |  | 4.7% |
+| 02:00 | NZD | Low | Credit Card Spending (YoY) (Dec) | -0.3% |  | 4.4% |
 | 05:00 | GBP | Low | Car Registration (YoY) (Dec) |  |  | -1.6% |
 | 05:00 | GBP | Low | Car Registration (MoM) (Dec) |  |  | 4.3% |
 | 05:00 | EUR | Low | Italian Car Registration (MoM) (Dec) |  |  | -1.4% |
