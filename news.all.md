@@ -47,7 +47,7 @@
 | 17:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 17:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | Moderate | 5-Year Note Auction | 3.823% |  | 3.747% |
-| 46 min | USD | High | U.S. President Trump Speaks |  |  |  |
-| 46 min | USD | Low | M2 Money Supply (MoM) (Dec) |  |  | 22.30T |
+| 18:00 | USD | Low | M2 Money Supply (MoM) (Dec) | 22.40T |  | 22.30T |
+| 19:00 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 1.450M | 3.040M |
 | 23:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
