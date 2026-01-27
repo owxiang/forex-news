@@ -21,11 +21,12 @@
 | 08:30 | HKD | Imports (MoM) (Dec) | 30.6% |  | 18.1% |
 | 08:30 | HKD | Trade Balance (Dec) | -63.3B |  | -48.5B |
 | 10:30 | EUR | German 2-Year Schatz Auction | 2.140% |  | 2.110% |
-| 11:00 | BRL | FGV Consumer confidence (Jan) |  |  | 90.2 |
-| 51 min | MXN | Trade Balance (Dec) |  | 1.640B | 0.663B |
-| 51 min | MXN | Trade Balance (USD) (Dec) |  |  | -0.274B |
-| 51 min | BRL | Mid-Month CPI (MoM) (Jan) |  | 0.22% | 0.25% |
-| 51 min | BRL | Mid-Month CPI (YoY) (Jan) |  | 4.52% | 4.41% |
+| 11:00 | INR | M3 Money Supply | 10.5% |  | 12.1% |
+| 11:00 | BRL | FGV Consumer confidence (Jan) | 87.3 |  | 89.1 |
+| 12:00 | MXN | Trade Balance (Dec) | 2.430B | 1.640B | 0.663B |
+| 12:00 | MXN | Trade Balance (USD) (Dec) | -0.860B |  | -0.340B |
+| 12:00 | BRL | Mid-Month CPI (YoY) (Jan) | 4.50% | 4.52% | 4.41% |
+| 12:00 | BRL | Mid-Month CPI (MoM) (Jan) | 0.20% | 0.22% | 0.25% |
 | 13:55 | USD | Redbook (YoY) |  |  | 5.5% |
 | 14:00 | USD | House Price Index (MoM) (Nov) |  | 0.3% | 0.4% |
 | 14:00 | USD | House Price Index (YoY) (Nov) |  |  | 1.7% |

@@ -23,11 +23,12 @@
 | 08:30 | HKD | Low | Imports (MoM) (Dec) | 30.6% |  | 18.1% |
 | 08:30 | HKD | Low | Trade Balance (Dec) | -63.3B |  | -48.5B |
 | 10:30 | EUR | Low | German 2-Year Schatz Auction | 2.140% |  | 2.110% |
-| 11:00 | BRL | Low | FGV Consumer confidence (Jan) |  |  | 90.2 |
-| 51 min | MXN | Low | Trade Balance (Dec) |  | 1.640B | 0.663B |
-| 51 min | MXN | Low | Trade Balance (USD) (Dec) |  |  | -0.274B |
-| 51 min | BRL | Low | Mid-Month CPI (MoM) (Jan) |  | 0.22% | 0.25% |
-| 51 min | BRL | Low | Mid-Month CPI (YoY) (Jan) |  | 4.52% | 4.41% |
+| 11:00 | INR | Low | M3 Money Supply | 10.5% |  | 12.1% |
+| 11:00 | BRL | Low | FGV Consumer confidence (Jan) | 87.3 |  | 89.1 |
+| 12:00 | MXN | Low | Trade Balance (Dec) | 2.430B | 1.640B | 0.663B |
+| 12:00 | MXN | Low | Trade Balance (USD) (Dec) | -0.860B |  | -0.340B |
+| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Jan) | 4.50% | 4.52% | 4.41% |
+| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Jan) | 0.20% | 0.22% | 0.25% |
 | 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 8.00K |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Dec) |  |  | -1.8% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.5% |
@@ -48,5 +49,5 @@
 | 18:00 | USD | Moderate | 5-Year Note Auction |  |  | 3.747% |
 | 18:00 | USD | Low | M2 Money Supply (MoM) (Dec) |  |  | 22.30T |
 | 19:00 | USD | High | U.S. President Trump Speaks |  |  |  |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -0.700M | 3.040M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 1.450M | 3.040M |
 | 23:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
