@@ -14,9 +14,9 @@
 | 05:00 | EUR | German Car Registration (YoY) (Dec) | 9.7% |  | 2.5% |
 | 05:00 | EUR | French Car Registration (MoM) (Dec) | 30.1% |  | -4.7% |
 | 05:00 | EUR | French Car Registration (YoY) (Dec) | -5.8% |  | -0.3% |
-| 48 min | ZAR | Leading Indicators (Nov) |  |  | 116.70% |
-| 07:45 | EUR | French Consumer Confidence (Jan) |  | 90 | 90 |
-| 08:00 | EUR | Spanish Unemployment Rate (Q4) |  | 10.20% | 10.45% |
+| 07:00 | ZAR | Leading Indicators (Nov) | 118.40% |  | 116.80% |
+| 32 min | EUR | French Consumer Confidence (Jan) |  | 90 | 90 |
+| 47 min | EUR | Spanish Unemployment Rate (Q4) |  | 10.20% | 10.45% |
 | 08:30 | HKD | Exports (MoM) (Dec) |  |  | 18.8% |
 | 08:30 | HKD | Imports (MoM) (Dec) |  |  | 18.1% |
 | 08:30 | HKD | Trade Balance (Dec) |  |  | -48.5B |
