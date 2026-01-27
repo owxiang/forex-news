@@ -16,12 +16,12 @@
 | 05:00 | EUR | Low | French Car Registration (MoM) (Dec) | 30.1% |  | -4.7% |
 | 05:00 | EUR | Low | French Car Registration (YoY) (Dec) | -5.8% |  | -0.3% |
 | 05:00 | JPY | Moderate | BoJ Core CPI (YoY) | 1.9% | 2.0% | 2.2% |
-| 07:00 | ZAR | Low | Leading Indicators (Nov) | 118.40% |  | 116.80% |
+| 07:00 | ZAR | Low | Leading Indicators (Nov) | 118.40% |  | 116.77% |
 | 07:45 | EUR | Low | French Consumer Confidence (Jan) | 90 | 90 | 90 |
 | 08:00 | EUR | Low | Spanish Unemployment Rate (Q4) | 9.93% | 10.20% | 10.45% |
-| 19 min | HKD | Low | Exports (MoM) (Dec) |  |  | 18.8% |
-| 19 min | HKD | Low | Imports (MoM) (Dec) |  |  | 18.1% |
-| 19 min | HKD | Low | Trade Balance (Dec) |  |  | -48.5B |
+| 08:30 | HKD | Low | Exports (MoM) (Dec) | 26.1% |  | 18.8% |
+| 08:30 | HKD | Low | Imports (MoM) (Dec) | 30.6% |  | 18.1% |
+| 08:30 | HKD | Low | Trade Balance (Dec) | -63.3B |  | -48.5B |
 | 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 2.110% |
 | 11:00 | BRL | Low | FGV Consumer confidence (Jan) |  |  | 90.2 |
 | 12:00 | MXN | Low | Trade Balance (Dec) |  | 1.640B | 0.663B |

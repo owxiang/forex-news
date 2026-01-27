@@ -14,12 +14,12 @@
 | 05:00 | EUR | German Car Registration (YoY) (Dec) | 9.7% |  | 2.5% |
 | 05:00 | EUR | French Car Registration (MoM) (Dec) | 30.1% |  | -4.7% |
 | 05:00 | EUR | French Car Registration (YoY) (Dec) | -5.8% |  | -0.3% |
-| 07:00 | ZAR | Leading Indicators (Nov) | 118.40% |  | 116.80% |
+| 07:00 | ZAR | Leading Indicators (Nov) | 118.40% |  | 116.77% |
 | 07:45 | EUR | French Consumer Confidence (Jan) | 90 | 90 | 90 |
 | 08:00 | EUR | Spanish Unemployment Rate (Q4) | 9.93% | 10.20% | 10.45% |
-| 19 min | HKD | Exports (MoM) (Dec) |  |  | 18.8% |
-| 19 min | HKD | Imports (MoM) (Dec) |  |  | 18.1% |
-| 19 min | HKD | Trade Balance (Dec) |  |  | -48.5B |
+| 08:30 | HKD | Exports (MoM) (Dec) | 26.1% |  | 18.8% |
+| 08:30 | HKD | Imports (MoM) (Dec) | 30.6% |  | 18.1% |
+| 08:30 | HKD | Trade Balance (Dec) | -63.3B |  | -48.5B |
 | 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.110% |
 | 11:00 | BRL | FGV Consumer confidence (Jan) |  |  | 90.2 |
 | 12:00 | MXN | Trade Balance (Dec) |  | 1.640B | 0.663B |
