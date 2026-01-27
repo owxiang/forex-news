@@ -2,5 +2,5 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 46 min | USD | CB Consumer Confidence (Jan) |  | 90.6 | 89.1 |
+| 15:00 | USD | CB Consumer Confidence (Jan) | 84.5 | 90.6 | 94.2 |
 | 19:00 | USD | U.S. President Trump Speaks |  |  |  |

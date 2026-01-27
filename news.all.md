@@ -38,12 +38,12 @@
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Nov) | 0.5% |  | 0.4% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Nov) | 1.4% | 1.2% | 1.3% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Nov) | 0.0% |  | -0.3% |
-| 46 min | USD | High | CB Consumer Confidence (Jan) |  | 90.6 | 89.1 |
-| 46 min | USD | Low | Richmond Manufacturing Index (Jan) |  | -5 | -7 |
-| 46 min | USD | Low | Richmond Manufacturing Shipments (Jan) |  |  | -11 |
-| 46 min | USD | Low | Richmond Services Index (Jan) |  |  | -6 |
-| 15:30 | USD | Low | Dallas Fed Services Revenues (Jan) |  |  | 0.1 |
-| 15:30 | USD | Low | Texas Services Sector Outlook (Jan) |  |  | -3.3 |
+| 15:00 | USD | High | CB Consumer Confidence (Jan) | 84.5 | 90.6 | 94.2 |
+| 15:00 | USD | Low | Richmond Manufacturing Index (Jan) | -6 | -5 | -7 |
+| 15:00 | USD | Low | Richmond Manufacturing Shipments (Jan) | -5 |  | -11 |
+| 15:00 | USD | Low | Richmond Services Index (Jan) | -3 |  | -6 |
+| 17 min | USD | Low | Dallas Fed Services Revenues (Jan) |  |  | 0.1 |
+| 17 min | USD | Low | Texas Services Sector Outlook (Jan) |  |  | -3.3 |
 | 17:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 17:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | Moderate | 5-Year Note Auction |  |  | 3.747% |
