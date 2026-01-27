@@ -22,12 +22,12 @@
 | 08:30 | HKD | Low | Exports (MoM) (Dec) | 26.1% |  | 18.8% |
 | 08:30 | HKD | Low | Imports (MoM) (Dec) | 30.6% |  | 18.1% |
 | 08:30 | HKD | Low | Trade Balance (Dec) | -63.3B |  | -48.5B |
-| 20 min | EUR | Low | German 2-Year Schatz Auction |  |  | 2.110% |
-| 50 min | BRL | Low | FGV Consumer confidence (Jan) |  |  | 90.2 |
-| 12:00 | MXN | Low | Trade Balance (Dec) |  | 1.640B | 0.663B |
-| 12:00 | MXN | Low | Trade Balance (USD) (Dec) |  |  | -0.274B |
-| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Jan) |  | 0.22% | 0.25% |
-| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Jan) |  | 4.52% | 4.41% |
+| 10:30 | EUR | Low | German 2-Year Schatz Auction | 2.140% |  | 2.110% |
+| 11:00 | BRL | Low | FGV Consumer confidence (Jan) |  |  | 90.2 |
+| 51 min | MXN | Low | Trade Balance (Dec) |  | 1.640B | 0.663B |
+| 51 min | MXN | Low | Trade Balance (USD) (Dec) |  |  | -0.274B |
+| 51 min | BRL | Low | Mid-Month CPI (MoM) (Jan) |  | 0.22% | 0.25% |
+| 51 min | BRL | Low | Mid-Month CPI (YoY) (Jan) |  | 4.52% | 4.41% |
 | 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 8.00K |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Dec) |  |  | -1.8% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.5% |
