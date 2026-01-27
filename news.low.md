@@ -27,11 +27,11 @@
 | 12:00 | MXN | Trade Balance (USD) (Dec) | -0.860B |  | -0.340B |
 | 12:00 | BRL | Mid-Month CPI (YoY) (Jan) | 4.50% | 4.52% | 4.41% |
 | 12:00 | BRL | Mid-Month CPI (MoM) (Jan) | 0.20% | 0.22% | 0.25% |
-| 13:55 | USD | Redbook (YoY) |  |  | 5.5% |
-| 14:00 | USD | House Price Index (MoM) (Nov) |  | 0.3% | 0.4% |
-| 14:00 | USD | House Price Index (YoY) (Nov) |  |  | 1.7% |
-| 14:00 | USD | House Price Index (Nov) |  |  | 436.7 |
-| 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Nov) |  |  | 0.3% |
+| 33 min | USD | Redbook (YoY) |  |  | 5.5% |
+| 38 min | USD | House Price Index (MoM) (Nov) |  | 0.3% | 0.4% |
+| 38 min | USD | House Price Index (YoY) (Nov) |  |  | 1.7% |
+| 38 min | USD | House Price Index (Nov) |  |  | 436.7 |
+| 38 min | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Nov) |  |  | 0.3% |
 | 15:00 | USD | Richmond Manufacturing Index (Jan) |  | -5 | -7 |
 | 15:00 | USD | Richmond Manufacturing Shipments (Jan) |  |  | -11 |
 | 15:00 | USD | Richmond Services Index (Jan) |  |  | -6 |
