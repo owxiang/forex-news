@@ -1,26 +1,39 @@
-## 26 January 2026 - Low Impact Forex News
+## 27 January 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | JPY | Coincident Indicator (MoM) (Nov) | -1.0% | -0.7% | -1.3% |
-| 05:00 | JPY | Leading Index (MoM) (Nov) | 0.1% | 0.7% | 0.9% |
-| 05:00 | JPY | Leading Index (Nov) | 109.9 | 110.5 | 109.8 |
-| 05:00 | SGD | Industrial Production (YoY) (Dec) | 8.3% | 10.1% | 18.2% |
-| 05:00 | SGD | Industrial Production (MoM) (Dec) | -13.3% | -15.2% | -7.8% |
-| 08:00 | EUR | Spanish PPI (YoY) (Dec) | -3.0% |  | -2.5% |
-| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 11:30 | BRL | Current Account (USD) (Dec) | -3.36B | -5.30B | -4.94B |
-| 11:30 | BRL | Foreign direct investment (USD) (Dec) | -5.25B | 1.00B | 9.82B |
-| 12:00 | MXN | Unemployment Rate (Dec) | 2.60% |  | 2.70% |
-| 12:00 | MXN | Unemployment Rate n.s.a. (Dec) | 2.40% | 2.60% | 2.70% |
-| 13:30 | USD | Chicago Fed National Activity (Nov) | -0.04 |  | -0.24 |
-| 13:30 | USD | Durables Excluding Defense (MoM) (Nov) | 6.6% |  | -1.3% |
-| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Nov) | 0.7% |  | 0.3% |
-| 14:00 | EUR | French 12-Month BTF Auction | 2.084% |  | 2.085% |
-| 14:00 | EUR | French 3-Month BTF Auction | 2.021% |  | 2.019% |
-| 14:00 | EUR | French 6-Month BTF Auction | 2.045% |  | 2.048% |
-| 15:30 | USD | Dallas Fed Mfg Business Index (Jan) | -1.2 |  | -11.3 |
-| 16:30 | USD | 3-Month Bill Auction | 3.580% |  | 3.590% |
-| 16:30 | USD | 6-Month Bill Auction | 3.525% |  | 3.520% |
-| 21:00 | KRW | Consumer Confidence (Jan) | 73.0 |  | 70.0 |
-| 42 min | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 2.5% | 2.7% |
+| 00:01 | GBP | BRC Shop Price Index (YoY) | 1.5% | 0.7% | 0.7% |
+| 00:30 | AUD | NAB Business Survey (Dec) | 9 |  | 7 |
+| 54 min | CNY | Chinese Industrial profit YTD (Dec) |  |  | 0.1% |
+| 02:00 | NZD | Credit Card Spending (YoY) (Dec) |  |  | 4.7% |
+| 05:00 | GBP | Car Registration (YoY) (Dec) |  |  | -1.6% |
+| 05:00 | GBP | Car Registration (MoM) (Dec) |  |  | 4.3% |
+| 05:00 | EUR | Italian Car Registration (MoM) (Dec) |  |  | -1.4% |
+| 05:00 | EUR | Italian Car Registration (YoY) (Dec) |  |  | 0.0% |
+| 05:00 | EUR | German Car Registration (MoM) (Dec) |  |  | 0.2% |
+| 05:00 | EUR | German Car Registration (YoY) (Dec) |  |  | 2.5% |
+| 05:00 | EUR | French Car Registration (MoM) (Dec) |  |  | -4.7% |
+| 05:00 | EUR | French Car Registration (YoY) (Dec) |  |  | -0.3% |
+| 07:00 | ZAR | Leading Indicators (Nov) |  |  | 116.70% |
+| 07:45 | EUR | French Consumer Confidence (Jan) |  | 90 | 90 |
+| 08:00 | EUR | Spanish Unemployment Rate (Q4) |  | 10.60% | 10.45% |
+| 08:30 | HKD | Exports (MoM) (Dec) |  |  | 18.8% |
+| 08:30 | HKD | Imports (MoM) (Dec) |  |  | 18.1% |
+| 08:30 | HKD | Trade Balance (Dec) |  |  | -48.5B |
+| 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.110% |
+| 11:00 | BRL | FGV Consumer confidence (Jan) |  |  | 90.2 |
+| 12:00 | MXN | Trade Balance (Dec) |  | 1.640B | 0.663B |
+| 12:00 | MXN | Trade Balance (USD) (Dec) |  |  | -0.274B |
+| 12:00 | BRL | Mid-Month CPI (MoM) (Jan) |  | 0.22% | 0.25% |
+| 12:00 | BRL | Mid-Month CPI (YoY) (Jan) |  | 4.52% | 4.41% |
+| 13:55 | USD | Redbook (YoY) |  |  | 5.5% |
+| 14:00 | USD | House Price Index (MoM) (Nov) |  | 0.3% | 0.4% |
+| 14:00 | USD | House Price Index (YoY) (Nov) |  |  | 1.7% |
+| 14:00 | USD | House Price Index (Nov) |  |  | 436.7 |
+| 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Nov) |  |  | 0.3% |
+| 15:00 | USD | Richmond Manufacturing Index (Jan) |  | -5 | -7 |
+| 15:00 | USD | Richmond Manufacturing Shipments (Jan) |  |  | -11 |
+| 15:00 | USD | Richmond Services Index (Jan) |  |  | -6 |
+| 15:30 | USD | Dallas Fed Services Revenues (Jan) |  |  | 0.1 |
+| 15:30 | USD | Texas Services Sector Outlook (Jan) |  |  | -3.3 |
+| 18:00 | USD | M2 Money Supply (MoM) (Dec) |  |  | 22.30T |

@@ -1,13 +1,16 @@
-## 26 January 2026 - Moderate Impact Forex News
+## 27 January 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 09:00 | EUR | German Business Expectations (Jan) | 89.5 |  | 89.7 |
-| 09:00 | EUR | German Current Assessment (Jan) | 85.7 |  | 85.6 |
-| 09:00 | EUR | German Ifo Business Climate Index (Jan) | 87.6 | 88.3 | 87.6 |
-| 11:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 13:30 | USD | Core Durable Goods Orders (MoM) (Nov) | 0.5% | 0.3% | 0.2% |
-| 13:30 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 15:00 | USD | Atlanta Fed GDPNow (Q4) | 5.4% | 5.4% | 5.4% |
-| 18:00 | USD | 2-Year Note Auction | 3.580% |  | 3.499% |
-| 20:00 | EUR | German Buba Balz Speaks |  |  |  |
+| 00:30 | AUD | NAB Business Confidence (Dec) | 3 |  | 2 |
+| 05:00 | JPY | BoJ Core CPI (YoY) |  | 2.0% | 2.2% |
+| 13:15 | USD | ADP Employment Change Weekly |  |  | 8.00K |
+| 13:30 | CAD | Wholesale Sales (MoM) (Dec) |  |  | -1.8% |
+| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Nov) |  | 1.2% | 1.3% |
+| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Nov) |  |  | -0.3% |
+| 14:45 | CAD | BoC Rate Statement |  |  |  |
+| 17:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 17:00 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 18:00 | USD | 5-Year Note Auction |  |  | 3.747% |
+| 21:30 | USD | API Weekly Crude Oil Stock |  | -0.700M | 3.040M |
+| 23:50 | JPY | Monetary Policy Meeting Minutes |  |  |  |

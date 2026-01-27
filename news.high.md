@@ -1,5 +1,6 @@
-## 26 January 2026 - High Impact Forex News
+## 27 January 2026 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:30 | USD | Durable Goods Orders (MoM) (Nov) | 5.3% | 3.1% | -2.1% |
+| 15:00 | USD | CB Consumer Confidence (Jan) |  | 90.1 | 89.1 |
+| 19:00 | USD | U.S. President Trump Speaks |  |  |  |
