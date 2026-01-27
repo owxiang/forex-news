@@ -27,14 +27,14 @@
 | 12:00 | MXN | Trade Balance (USD) (Dec) | -0.860B |  | -0.340B |
 | 12:00 | BRL | Mid-Month CPI (YoY) (Jan) | 4.50% | 4.52% | 4.41% |
 | 12:00 | BRL | Mid-Month CPI (MoM) (Jan) | 0.20% | 0.22% | 0.25% |
-| 33 min | USD | Redbook (YoY) |  |  | 5.5% |
-| 38 min | USD | House Price Index (MoM) (Nov) |  | 0.3% | 0.4% |
-| 38 min | USD | House Price Index (YoY) (Nov) |  |  | 1.7% |
-| 38 min | USD | House Price Index (Nov) |  |  | 436.7 |
-| 38 min | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Nov) |  |  | 0.3% |
-| 15:00 | USD | Richmond Manufacturing Index (Jan) |  | -5 | -7 |
-| 15:00 | USD | Richmond Manufacturing Shipments (Jan) |  |  | -11 |
-| 15:00 | USD | Richmond Services Index (Jan) |  |  | -6 |
+| 13:55 | USD | Redbook (YoY) | 7.1% |  | 5.5% |
+| 14:00 | USD | House Price Index (MoM) (Nov) | 0.6% | 0.3% | 0.4% |
+| 14:00 | USD | House Price Index (YoY) (Nov) | 1.9% |  | 1.8% |
+| 14:00 | USD | House Price Index (Nov) | 439.3 |  | 436.8 |
+| 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Nov) | 0.5% |  | 0.4% |
+| 46 min | USD | Richmond Manufacturing Index (Jan) |  | -5 | -7 |
+| 46 min | USD | Richmond Manufacturing Shipments (Jan) |  |  | -11 |
+| 46 min | USD | Richmond Services Index (Jan) |  |  | -6 |
 | 15:30 | USD | Dallas Fed Services Revenues (Jan) |  |  | 0.1 |
 | 15:30 | USD | Texas Services Sector Outlook (Jan) |  |  | -3.3 |
 | 18:00 | USD | M2 Money Supply (MoM) (Dec) |  |  | 22.30T |

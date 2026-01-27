@@ -30,18 +30,18 @@
 | 12:00 | BRL | Low | Mid-Month CPI (YoY) (Jan) | 4.50% | 4.52% | 4.41% |
 | 12:00 | BRL | Low | Mid-Month CPI (MoM) (Jan) | 0.20% | 0.22% | 0.25% |
 | 13:15 | USD | Moderate | ADP Employment Change Weekly | 7.75K |  | 8.00K |
-| 8 min | CAD | Moderate | Wholesale Sales (MoM) (Dec) |  |  | -1.8% |
-| 33 min | USD | Low | Redbook (YoY) |  |  | 5.5% |
-| 38 min | USD | Low | House Price Index (MoM) (Nov) |  | 0.3% | 0.4% |
-| 38 min | USD | Low | House Price Index (YoY) (Nov) |  |  | 1.7% |
-| 38 min | USD | Low | House Price Index (Nov) |  |  | 436.7 |
-| 38 min | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Nov) |  |  | 0.3% |
-| 38 min | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Nov) |  | 1.2% | 1.3% |
-| 38 min | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Nov) |  |  | -0.3% |
-| 15:00 | USD | High | CB Consumer Confidence (Jan) |  | 90.6 | 89.1 |
-| 15:00 | USD | Low | Richmond Manufacturing Index (Jan) |  | -5 | -7 |
-| 15:00 | USD | Low | Richmond Manufacturing Shipments (Jan) |  |  | -11 |
-| 15:00 | USD | Low | Richmond Services Index (Jan) |  |  | -6 |
+| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Dec) | 2.1% |  | -1.8% |
+| 13:55 | USD | Low | Redbook (YoY) | 7.1% |  | 5.5% |
+| 14:00 | USD | Low | House Price Index (MoM) (Nov) | 0.6% | 0.3% | 0.4% |
+| 14:00 | USD | Low | House Price Index (YoY) (Nov) | 1.9% |  | 1.8% |
+| 14:00 | USD | Low | House Price Index (Nov) | 439.3 |  | 436.8 |
+| 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Nov) | 0.5% |  | 0.4% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Nov) | 1.4% | 1.2% | 1.3% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Nov) | 0.0% |  | -0.3% |
+| 46 min | USD | High | CB Consumer Confidence (Jan) |  | 90.6 | 89.1 |
+| 46 min | USD | Low | Richmond Manufacturing Index (Jan) |  | -5 | -7 |
+| 46 min | USD | Low | Richmond Manufacturing Shipments (Jan) |  |  | -11 |
+| 46 min | USD | Low | Richmond Services Index (Jan) |  |  | -6 |
 | 15:30 | USD | Low | Dallas Fed Services Revenues (Jan) |  |  | 0.1 |
 | 15:30 | USD | Low | Texas Services Sector Outlook (Jan) |  |  | -3.3 |
 | 17:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |

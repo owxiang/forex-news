@@ -5,9 +5,9 @@
 | 00:30 | AUD | NAB Business Confidence (Dec) | 3 |  | 2 |
 | 05:00 | JPY | BoJ Core CPI (YoY) | 1.9% | 2.0% | 2.2% |
 | 13:15 | USD | ADP Employment Change Weekly | 7.75K |  | 8.00K |
-| 8 min | CAD | Wholesale Sales (MoM) (Dec) |  |  | -1.8% |
-| 38 min | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Nov) |  | 1.2% | 1.3% |
-| 38 min | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Nov) |  |  | -0.3% |
+| 13:30 | CAD | Wholesale Sales (MoM) (Dec) | 2.1% |  | -1.8% |
+| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Nov) | 1.4% | 1.2% | 1.3% |
+| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Nov) | 0.0% |  | -0.3% |
 | 17:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 17:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | 5-Year Note Auction |  |  | 3.747% |
