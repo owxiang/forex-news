@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | BRC Shop Price Index (YoY) | 1.5% | 0.7% | 0.7% |
 | 00:30 | AUD | NAB Business Survey (Dec) | 9 |  | 7 |
-| 54 min | CNY | Chinese Industrial profit YTD (Dec) |  |  | 0.1% |
-| 02:00 | NZD | Credit Card Spending (YoY) (Dec) |  |  | 4.7% |
+| 01:30 | CNY | Chinese Industrial profit YTD (Dec) | 0.6% |  | 0.1% |
+| 22 min | NZD | Credit Card Spending (YoY) (Dec) |  |  | 4.7% |
 | 05:00 | GBP | Car Registration (YoY) (Dec) |  |  | -1.6% |
 | 05:00 | GBP | Car Registration (MoM) (Dec) |  |  | 4.3% |
 | 05:00 | EUR | Italian Car Registration (MoM) (Dec) |  |  | -1.4% |
