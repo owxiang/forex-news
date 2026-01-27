@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | NAB Business Confidence (Dec) | 3 |  | 2 |
-| 05:00 | JPY | BoJ Core CPI (YoY) |  | 2.0% | 2.2% |
+| 34 min | JPY | BoJ Core CPI (YoY) |  | 2.0% | 2.2% |
 | 13:15 | USD | ADP Employment Change Weekly |  |  | 8.00K |
 | 13:30 | CAD | Wholesale Sales (MoM) (Dec) |  |  | -1.8% |
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Nov) |  | 1.2% | 1.3% |
