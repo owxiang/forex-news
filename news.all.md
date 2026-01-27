@@ -50,4 +50,4 @@
 | 18:00 | USD | Low | M2 Money Supply (MoM) (Dec) | 22.40T |  | 22.30T |
 | 21:00 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock | -0.250M | 1.450M | 3.040M |
-| 23:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
+| 42 min | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |

@@ -12,4 +12,4 @@
 | 17:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | 5-Year Note Auction | 3.823% |  | 3.747% |
 | 21:30 | USD | API Weekly Crude Oil Stock | -0.250M | 1.450M | 3.040M |
-| 23:50 | JPY | Monetary Policy Meeting Minutes |  |  |  |
+| 42 min | JPY | Monetary Policy Meeting Minutes |  |  |  |
