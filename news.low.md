@@ -20,8 +20,8 @@
 | 08:30 | HKD | Exports (MoM) (Dec) | 26.1% |  | 18.8% |
 | 08:30 | HKD | Imports (MoM) (Dec) | 30.6% |  | 18.1% |
 | 08:30 | HKD | Trade Balance (Dec) | -63.3B |  | -48.5B |
-| 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.110% |
-| 11:00 | BRL | FGV Consumer confidence (Jan) |  |  | 90.2 |
+| 20 min | EUR | German 2-Year Schatz Auction |  |  | 2.110% |
+| 50 min | BRL | FGV Consumer confidence (Jan) |  |  | 90.2 |
 | 12:00 | MXN | Trade Balance (Dec) |  | 1.640B | 0.663B |
 | 12:00 | MXN | Trade Balance (USD) (Dec) |  |  | -0.274B |
 | 12:00 | BRL | Mid-Month CPI (MoM) (Jan) |  | 0.22% | 0.25% |
