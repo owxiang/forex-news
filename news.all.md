@@ -7,16 +7,16 @@
 | 00:30 | AUD | Low | NAB Business Survey (Dec) | 9 |  | 7 |
 | 01:30 | CNY | Low | Chinese Industrial profit YTD (Dec) | 0.6% |  | 0.1% |
 | 02:00 | NZD | Low | Credit Card Spending (YoY) (Dec) | -0.3% |  | 4.4% |
+| 05:00 | GBP | Low | Car Registration (YoY) (Dec) | 3.9% |  | -1.6% |
+| 05:00 | GBP | Low | Car Registration (MoM) (Dec) | -3.2% |  | 4.3% |
+| 05:00 | EUR | Low | Italian Car Registration (MoM) (Dec) | -13.0% |  | -1.4% |
+| 05:00 | EUR | Low | Italian Car Registration (YoY) (Dec) | 2.3% |  | 0.0% |
+| 05:00 | EUR | Low | German Car Registration (MoM) (Dec) | -1.7% |  | 0.2% |
+| 05:00 | EUR | Low | German Car Registration (YoY) (Dec) | 9.7% |  | 2.5% |
+| 05:00 | EUR | Low | French Car Registration (MoM) (Dec) | 30.1% |  | -4.7% |
+| 05:00 | EUR | Low | French Car Registration (YoY) (Dec) | -5.8% |  | -0.3% |
 | 05:00 | JPY | Moderate | BoJ Core CPI (YoY) | 1.9% | 2.0% | 2.2% |
-| 47 min | GBP | Low | Car Registration (YoY) (Dec) |  |  | -1.6% |
-| 47 min | GBP | Low | Car Registration (MoM) (Dec) |  |  | 4.3% |
-| 47 min | EUR | Low | Italian Car Registration (YoY) (Dec) |  |  | 0.0% |
-| 47 min | EUR | Low | Italian Car Registration (MoM) (Dec) |  |  | -1.4% |
-| 47 min | EUR | Low | German Car Registration (YoY) (Dec) |  |  | 2.5% |
-| 47 min | EUR | Low | German Car Registration (MoM) (Dec) |  |  | 0.2% |
-| 47 min | EUR | Low | French Car Registration (MoM) (Dec) |  |  | -4.7% |
-| 47 min | EUR | Low | French Car Registration (YoY) (Dec) |  |  | -0.3% |
-| 07:00 | ZAR | Low | Leading Indicators (Nov) |  |  | 116.70% |
+| 48 min | ZAR | Low | Leading Indicators (Nov) |  |  | 116.70% |
 | 07:45 | EUR | Low | French Consumer Confidence (Jan) |  | 90 | 90 |
 | 08:00 | EUR | Low | Spanish Unemployment Rate (Q4) |  | 10.20% | 10.45% |
 | 08:30 | HKD | Low | Exports (MoM) (Dec) |  |  | 18.8% |
