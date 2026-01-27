@@ -10,6 +10,6 @@
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Nov) | 0.0% |  | -0.3% |
 | 17:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 17:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 48 min | USD | 5-Year Note Auction |  |  | 3.747% |
+| 18:00 | USD | 5-Year Note Auction | 3.823% |  | 3.747% |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | 1.450M | 3.040M |
 | 23:50 | JPY | Monetary Policy Meeting Minutes |  |  |  |

@@ -37,4 +37,4 @@
 | 15:00 | USD | Richmond Services Index (Jan) | -3 |  | -6 |
 | 15:30 | USD | Dallas Fed Services Revenues (Jan) | 7.8 |  | 0.0 |
 | 15:30 | USD | Texas Services Sector Outlook (Jan) | 2.7 |  | -5.0 |
-| 48 min | USD | M2 Money Supply (MoM) (Dec) |  |  | 22.30T |
+| 46 min | USD | M2 Money Supply (MoM) (Dec) |  |  | 22.30T |
