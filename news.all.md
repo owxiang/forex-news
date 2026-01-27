@@ -44,10 +44,10 @@
 | 15:00 | USD | Low | Richmond Services Index (Jan) | -3 |  | -6 |
 | 15:30 | USD | Low | Dallas Fed Services Revenues (Jan) | 7.8 |  | 0.0 |
 | 15:30 | USD | Low | Texas Services Sector Outlook (Jan) | 2.7 |  | -5.0 |
-| 49 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 49 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 18:00 | USD | Moderate | 5-Year Note Auction |  |  | 3.747% |
-| 18:00 | USD | Low | M2 Money Supply (MoM) (Dec) |  |  | 22.30T |
+| 17:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 17:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 48 min | USD | Moderate | 5-Year Note Auction |  |  | 3.747% |
+| 48 min | USD | Low | M2 Money Supply (MoM) (Dec) |  |  | 22.30T |
 | 19:00 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 1.450M | 3.040M |
 | 23:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
