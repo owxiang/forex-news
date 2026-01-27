@@ -11,5 +11,5 @@
 | 17:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 17:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | 5-Year Note Auction | 3.823% |  | 3.747% |
-| 21:30 | USD | API Weekly Crude Oil Stock |  | 1.450M | 3.040M |
+| 23 min | USD | API Weekly Crude Oil Stock |  | 1.450M | 3.040M |
 | 23:50 | JPY | Monetary Policy Meeting Minutes |  |  |  |
