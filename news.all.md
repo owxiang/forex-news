@@ -42,10 +42,10 @@
 | 15:00 | USD | Low | Richmond Manufacturing Index (Jan) | -6 | -5 | -7 |
 | 15:00 | USD | Low | Richmond Manufacturing Shipments (Jan) | -5 |  | -11 |
 | 15:00 | USD | Low | Richmond Services Index (Jan) | -3 |  | -6 |
-| 17 min | USD | Low | Dallas Fed Services Revenues (Jan) |  |  | 0.1 |
-| 17 min | USD | Low | Texas Services Sector Outlook (Jan) |  |  | -3.3 |
-| 17:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 17:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 15:30 | USD | Low | Dallas Fed Services Revenues (Jan) | 7.8 |  | 0.0 |
+| 15:30 | USD | Low | Texas Services Sector Outlook (Jan) | 2.7 |  | -5.0 |
+| 49 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 49 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | Moderate | 5-Year Note Auction |  |  | 3.747% |
 | 18:00 | USD | Low | M2 Money Supply (MoM) (Dec) |  |  | 22.30T |
 | 19:00 | USD | High | U.S. President Trump Speaks |  |  |  |
