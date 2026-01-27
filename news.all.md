@@ -7,15 +7,15 @@
 | 00:30 | AUD | Low | NAB Business Survey (Dec) | 9 |  | 7 |
 | 01:30 | CNY | Low | Chinese Industrial profit YTD (Dec) | 0.6% |  | 0.1% |
 | 02:00 | NZD | Low | Credit Card Spending (YoY) (Dec) | -0.3% |  | 4.4% |
-| 34 min | GBP | Low | Car Registration (YoY) (Dec) |  |  | -1.6% |
-| 34 min | GBP | Low | Car Registration (MoM) (Dec) |  |  | 4.3% |
-| 34 min | EUR | Low | Italian Car Registration (MoM) (Dec) |  |  | -1.4% |
-| 34 min | EUR | Low | Italian Car Registration (YoY) (Dec) |  |  | 0.0% |
-| 34 min | EUR | Low | German Car Registration (MoM) (Dec) |  |  | 0.2% |
-| 34 min | EUR | Low | German Car Registration (YoY) (Dec) |  |  | 2.5% |
-| 34 min | EUR | Low | French Car Registration (MoM) (Dec) |  |  | -4.7% |
-| 34 min | EUR | Low | French Car Registration (YoY) (Dec) |  |  | -0.3% |
-| 34 min | JPY | Moderate | BoJ Core CPI (YoY) |  | 2.0% | 2.2% |
+| 05:00 | JPY | Moderate | BoJ Core CPI (YoY) | 1.9% | 2.0% | 2.2% |
+| 47 min | GBP | Low | Car Registration (YoY) (Dec) |  |  | -1.6% |
+| 47 min | GBP | Low | Car Registration (MoM) (Dec) |  |  | 4.3% |
+| 47 min | EUR | Low | Italian Car Registration (YoY) (Dec) |  |  | 0.0% |
+| 47 min | EUR | Low | Italian Car Registration (MoM) (Dec) |  |  | -1.4% |
+| 47 min | EUR | Low | German Car Registration (YoY) (Dec) |  |  | 2.5% |
+| 47 min | EUR | Low | German Car Registration (MoM) (Dec) |  |  | 0.2% |
+| 47 min | EUR | Low | French Car Registration (MoM) (Dec) |  |  | -4.7% |
+| 47 min | EUR | Low | French Car Registration (YoY) (Dec) |  |  | -0.3% |
 | 07:00 | ZAR | Low | Leading Indicators (Nov) |  |  | 116.70% |
 | 07:45 | EUR | Low | French Consumer Confidence (Jan) |  | 90 | 90 |
 | 08:00 | EUR | Low | Spanish Unemployment Rate (Q4) |  | 10.20% | 10.45% |
@@ -37,7 +37,6 @@
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Nov) |  |  | 0.3% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Nov) |  | 1.2% | 1.3% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Nov) |  |  | -0.3% |
-| 14:45 | CAD | Moderate | BoC Rate Statement |  |  |  |
 | 15:00 | USD | High | CB Consumer Confidence (Jan) |  | 90.6 | 89.1 |
 | 15:00 | USD | Low | Richmond Manufacturing Index (Jan) |  | -5 | -7 |
 | 15:00 | USD | Low | Richmond Manufacturing Shipments (Jan) |  |  | -11 |
