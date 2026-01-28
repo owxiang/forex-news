@@ -11,9 +11,9 @@
 | 00:30 | AUD | Low | Weighted mean CPI (YoY) (Dec) | 3.2% | 3.4% | 3.4% |
 | 00:30 | AUD | Low | Weighted mean CPI (QoQ) (Dec) | 0.9% |  | 0.3% |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Feb) | -24.1 | -25.5 | -26.9 |
-| 09:00 | EUR | Low | Italian Business Confidence (Jan) |  | 89.0 | 88.4 |
-| 09:00 | EUR | Low | Italian Consumer Confidence (Jan) |  | 97.0 | 96.6 |
-| 09:00 | CHF | Low | ZEW Expectations (Jan) |  |  | 6.2 |
+| 49 min | EUR | Low | Italian Business Confidence (Jan) |  | 89.0 | 88.4 |
+| 49 min | EUR | Low | Italian Consumer Confidence (Jan) |  | 97.0 | 96.6 |
+| 49 min | CHF | Low | ZEW Expectations (Jan) |  |  | 6.2 |
 | 10:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 10:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 2.036% |
 | 10:30 | INR | Low | Cumulative Industrial Production (Dec) |  |  | 3.30% |
