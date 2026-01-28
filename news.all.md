@@ -3,14 +3,14 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | AUD | Moderate | CPI (QoQ) (Q4) | 0.6% |  | 1.3% |
-| 00:30 | AUD | Moderate | CPI (YoY) (Dec) | 3.6% |  | 3.2% |
+| 00:30 | AUD | Moderate | CPI (YoY) (Dec) | 3.6% | 3.4% | 3.5% |
 | 00:30 | AUD | Low | CPI Index Number (Dec) | 100.30 |  | 99.70 |
 | 00:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q4) | 0.9% | 0.8% | 1.0% |
 | 00:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q4) | 3.4% |  | 3.0% |
 | 00:30 | AUD | Low | Monthly CPI Indicator (YoY) (Dec) | 3.80% | 3.50% | 3.40% |
 | 00:30 | AUD | Low | Weighted mean CPI (YoY) (Dec) | 3.2% | 3.4% | 3.4% |
 | 00:30 | AUD | Low | Weighted mean CPI (QoQ) (Dec) | 0.9% |  | 0.3% |
-| 07:00 | EUR | Moderate | GfK German Consumer Climate (Feb) |  | -25.7 | -26.9 |
+| 47 min | EUR | Moderate | GfK German Consumer Climate (Feb) |  | -25.5 | -26.9 |
 | 09:00 | EUR | Low | Italian Business Confidence (Jan) |  | 89.0 | 88.4 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Jan) |  | 97.0 | 96.6 |
 | 09:00 | CHF | Low | ZEW Expectations (Jan) |  |  | 6.2 |
@@ -26,7 +26,6 @@
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 194.1 |
 | 12:00 | USD | Low | Mortgage Market Index |  |  | 397.2 |
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 1,580.8 |
-| 13:30 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 14:45 | CAD | Moderate | BoC Monetary Policy Report |  |  |  |
 | 14:45 | CAD | Moderate | BoC Rate Statement |  |  |  |
 | 14:45 | CAD | High | BoC Interest Rate Decision |  | 2.25% | 2.25% |
