@@ -10,7 +10,7 @@
 | 00:30 | AUD | Low | Monthly CPI Indicator (YoY) (Dec) | 3.80% | 3.50% | 3.40% |
 | 00:30 | AUD | Low | Weighted mean CPI (YoY) (Dec) | 3.2% | 3.4% | 3.4% |
 | 00:30 | AUD | Low | Weighted mean CPI (QoQ) (Dec) | 0.9% |  | 0.3% |
-| 47 min | EUR | Moderate | GfK German Consumer Climate (Feb) |  | -25.5 | -26.9 |
+| 07:00 | EUR | Moderate | GfK German Consumer Climate (Feb) | -24.1 | -25.5 | -26.9 |
 | 09:00 | EUR | Low | Italian Business Confidence (Jan) |  | 89.0 | 88.4 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Jan) |  | 97.0 | 96.6 |
 | 09:00 | CHF | Low | ZEW Expectations (Jan) |  |  | 6.2 |
