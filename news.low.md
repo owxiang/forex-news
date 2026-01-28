@@ -19,16 +19,16 @@
 | 12:00 | USD | MBA Purchase Index | 193.3 |  | 194.1 |
 | 12:00 | USD | Mortgage Market Index | 363.3 |  | 397.2 |
 | 12:00 | USD | Mortgage Refinance Index | 1,332.2 |  | 1,580.8 |
-| 15:30 | USD | Dallas Fed Services Revenues (Jan) |  |  | 0.1 |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.354M |
-| 15:30 | USD | Crude Oil Imports |  |  | -0.027M |
-| 15:30 | USD | Distillate Fuel Production |  |  | -0.209M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | 3.348M |
-| 15:30 | USD | Gasoline Production |  |  | -0.246M |
-| 15:30 | USD | Heating Oil Stockpiles |  |  | 0.279M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -2.0% |
-| 15:30 | USD | Gasoline Inventories |  |  | 5.977M |
-| 15:30 | USD | Texas Services Sector Outlook (Jan) |  |  | -3.3 |
+| 17 min | USD | Dallas Fed Services Revenues (Jan) |  |  | 0.1 |
+| 17 min | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.354M |
+| 17 min | USD | Crude Oil Imports |  |  | -0.027M |
+| 17 min | USD | Distillate Fuel Production |  |  | -0.209M |
+| 17 min | USD | EIA Weekly Distillates Stocks |  |  | 3.348M |
+| 17 min | USD | Gasoline Production |  |  | -0.246M |
+| 17 min | USD | Heating Oil Stockpiles |  |  | 0.279M |
+| 17 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -2.0% |
+| 17 min | USD | Gasoline Inventories |  |  | 5.977M |
+| 17 min | USD | Texas Services Sector Outlook (Jan) |  |  | -3.3 |
 | 21:45 | NZD | Exports (Dec) |  |  | 6.99B |
 | 21:45 | NZD | Imports (Dec) |  |  | 7.15B |
 | 21:45 | NZD | Trade Balance (MoM) (Dec) |  | 30M | -163M |

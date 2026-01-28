@@ -8,9 +8,9 @@
 | 07:00 | EUR | GfK German Consumer Climate (Feb) | -24.1 | -25.5 | -26.9 |
 | 10:00 | EUR | ECB's Elderson Speaks |  |  |  |
 | 10:30 | EUR | German 10-Year Bund Auction | 2.850% |  | 2.830% |
-| 31 min | CAD | BoC Monetary Policy Report |  |  |  |
-| 31 min | CAD | BoC Rate Statement |  |  |  |
-| 15:30 | USD | Cushing Crude Oil Inventories |  |  | 1.478M |
-| 15:30 | CAD | BOC Press Conference |  |  |  |
+| 14:45 | CAD | BoC Monetary Policy Report |  |  |  |
+| 14:45 | CAD | BoC Rate Statement |  |  |  |
+| 17 min | USD | Cushing Crude Oil Inventories |  |  | 1.478M |
+| 17 min | CAD | BOC Press Conference |  |  |  |
 | 18:00 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 21:30 | BRL | Interest Rate Decision |  | 15.00% | 15.00% |

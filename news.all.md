@@ -25,22 +25,22 @@
 | 12:00 | USD | Low | MBA Purchase Index | 193.3 |  | 194.1 |
 | 12:00 | USD | Low | Mortgage Market Index | 363.3 |  | 397.2 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 1,332.2 |  | 1,580.8 |
-| 31 min | CAD | Moderate | BoC Monetary Policy Report |  |  |  |
-| 31 min | CAD | Moderate | BoC Rate Statement |  |  |  |
-| 31 min | CAD | High | BoC Interest Rate Decision |  | 2.25% | 2.25% |
-| 15:30 | USD | Low | Dallas Fed Services Revenues (Jan) |  |  | 0.1 |
-| 15:30 | USD | High | Crude Oil Inventories |  | -0.200M | 3.602M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.354M |
-| 15:30 | USD | Low | Crude Oil Imports |  |  | -0.027M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 1.478M |
-| 15:30 | USD | Low | Distillate Fuel Production |  |  | -0.209M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  |  | 3.348M |
-| 15:30 | USD | Low | Gasoline Production |  |  | -0.246M |
-| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.279M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -2.0% |
-| 15:30 | USD | Low | Gasoline Inventories |  |  | 5.977M |
-| 15:30 | USD | Low | Texas Services Sector Outlook (Jan) |  |  | -3.3 |
-| 15:30 | CAD | Moderate | BOC Press Conference |  |  |  |
+| 14:45 | CAD | Moderate | BoC Monetary Policy Report |  |  |  |
+| 14:45 | CAD | Moderate | BoC Rate Statement |  |  |  |
+| 14:45 | CAD | High | BoC Interest Rate Decision | 2.25% | 2.25% | 2.25% |
+| 17 min | USD | Low | Dallas Fed Services Revenues (Jan) |  |  | 0.1 |
+| 17 min | USD | High | Crude Oil Inventories |  | -0.200M | 3.602M |
+| 17 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.354M |
+| 17 min | USD | Low | Crude Oil Imports |  |  | -0.027M |
+| 17 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 1.478M |
+| 17 min | USD | Low | Distillate Fuel Production |  |  | -0.209M |
+| 17 min | USD | Low | EIA Weekly Distillates Stocks |  |  | 3.348M |
+| 17 min | USD | Low | Gasoline Production |  |  | -0.246M |
+| 17 min | USD | Low | Heating Oil Stockpiles |  |  | 0.279M |
+| 17 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -2.0% |
+| 17 min | USD | Low | Gasoline Inventories |  |  | 5.977M |
+| 17 min | USD | Low | Texas Services Sector Outlook (Jan) |  |  | -3.3 |
+| 17 min | CAD | Moderate | BOC Press Conference |  |  |  |
 | 18:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 19:00 | USD | High | FOMC Statement |  |  |  |
 | 19:00 | USD | High | Fed Interest Rate Decision |  | 3.75% | 3.75% |
