@@ -41,9 +41,9 @@
 | 15:30 | CAD | Moderate | BOC Press Conference |  |  |  |
 | 17:30 | BRL | Low | Foreign Exchange Flows | -0.638B |  | -1.696B |
 | 18:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 45 min | USD | High | FOMC Statement |  |  |  |
-| 45 min | USD | High | Fed Interest Rate Decision |  | 3.75% | 3.75% |
-| 19:30 | USD | High | FOMC Press Conference |  |  |  |
+| 19:00 | USD | High | FOMC Statement |  |  |  |
+| 19:00 | USD | High | Fed Interest Rate Decision | 3.75% | 3.75% | 3.75% |
+| 18 min | USD | High | FOMC Press Conference |  |  |  |
 | 21:30 | BRL | Moderate | Interest Rate Decision |  | 15.00% | 15.00% |
 | 21:45 | NZD | Low | Exports (Dec) |  |  | 6.99B |
 | 21:45 | NZD | Low | Imports (Dec) |  |  | 7.15B |
