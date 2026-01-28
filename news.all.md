@@ -2,14 +2,14 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | AUD | Moderate | CPI (QoQ) (Q4) | 0.6% |  | 1.3% |
 | 00:30 | AUD | Moderate | CPI (YoY) (Dec) | 3.6% | 3.4% | 3.5% |
+| 00:30 | AUD | Moderate | CPI (QoQ) (Q4) | 0.6% |  | 1.3% |
 | 00:30 | AUD | Low | CPI Index Number (Dec) | 100.30 |  | 99.70 |
 | 00:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q4) | 0.9% | 0.8% | 1.0% |
 | 00:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q4) | 3.4% |  | 3.0% |
 | 00:30 | AUD | Low | Monthly CPI Indicator (YoY) (Dec) | 3.80% | 3.50% | 3.40% |
-| 00:30 | AUD | Low | Weighted mean CPI (YoY) (Dec) | 3.2% | 3.4% | 3.4% |
 | 00:30 | AUD | Low | Weighted mean CPI (QoQ) (Dec) | 0.9% |  | 0.3% |
+| 00:30 | AUD | Low | Weighted mean CPI (YoY) (Dec) | 3.2% | 3.4% | 3.4% |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Feb) | -24.1 | -25.5 | -26.9 |
 | 09:00 | EUR | Low | Italian Business Confidence (Jan) | 89.2 | 89.0 | 88.5 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Jan) | 96.8 | 97.0 | 96.6 |
@@ -20,12 +20,11 @@
 | 10:30 | INR | Low | Industrial Production (YoY) (Dec) | 7.8% | 5.5% | 7.2% |
 | 10:30 | INR | Low | Manufacturing Output (MoM) (Dec) | 8.1% |  | 8.5% |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction | 2.850% |  | 2.830% |
-| 21 min | INR | Low | M3 Money Supply |  |  | 12.1% |
-| 51 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.16% |
-| 51 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | 14.1% |
-| 51 min | USD | Low | MBA Purchase Index |  |  | 194.1 |
-| 51 min | USD | Low | Mortgage Market Index |  |  | 397.2 |
-| 51 min | USD | Low | Mortgage Refinance Index |  |  | 1,580.8 |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.24% |  | 6.16% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | -8.5% |  | 14.1% |
+| 12:00 | USD | Low | MBA Purchase Index | 193.3 |  | 194.1 |
+| 12:00 | USD | Low | Mortgage Market Index | 363.3 |  | 397.2 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 1,332.2 |  | 1,580.8 |
 | 14:45 | CAD | Moderate | BoC Monetary Policy Report |  |  |  |
 | 14:45 | CAD | Moderate | BoC Rate Statement |  |  |  |
 | 14:45 | CAD | High | BoC Interest Rate Decision |  | 2.25% | 2.25% |
