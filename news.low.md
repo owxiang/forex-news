@@ -28,9 +28,9 @@
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -2.4% |  | -2.0% |
 | 15:30 | USD | Gasoline Inventories | 0.223M | 1.300M | 5.977M |
 | 17:30 | BRL | Foreign Exchange Flows | -0.638B |  | -1.696B |
-| 33 min | NZD | Exports (Dec) |  |  | 6.99B |
-| 33 min | NZD | Imports (Dec) |  |  | 7.15B |
-| 33 min | NZD | Trade Balance (MoM) (Dec) |  | 30M | -163M |
-| 33 min | NZD | Trade Balance (YoY) (Dec) |  |  | -2,060M |
+| 21:45 | NZD | Exports (Dec) | 7.65B |  | 6.81B |
+| 21:45 | NZD | Imports (Dec) | 7.60B |  | 7.15B |
+| 21:45 | NZD | Trade Balance (MoM) (Dec) | 52M | 30M | -335M |
+| 21:45 | NZD | Trade Balance (YoY) (Dec) | -2,200M |  | -2,220M |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | -361.4B |
 | 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 874.0B |

@@ -44,10 +44,10 @@
 | 19:00 | USD | High | FOMC Statement |  |  |  |
 | 19:00 | USD | High | Fed Interest Rate Decision | 3.75% | 3.75% | 3.75% |
 | 19:30 | USD | High | FOMC Press Conference |  |  |  |
-| 18 min | BRL | Moderate | Interest Rate Decision |  | 15.00% | 15.00% |
-| 33 min | NZD | Low | Exports (Dec) |  |  | 6.99B |
-| 33 min | NZD | Low | Imports (Dec) |  |  | 7.15B |
-| 33 min | NZD | Low | Trade Balance (MoM) (Dec) |  | 30M | -163M |
-| 33 min | NZD | Low | Trade Balance (YoY) (Dec) |  |  | -2,060M |
+| 21:30 | BRL | Moderate | Interest Rate Decision | 15.00% | 15.00% | 15.00% |
+| 21:45 | NZD | Low | Exports (Dec) | 7.65B |  | 6.81B |
+| 21:45 | NZD | Low | Imports (Dec) | 7.60B |  | 7.15B |
+| 21:45 | NZD | Low | Trade Balance (MoM) (Dec) | 52M | 30M | -335M |
+| 21:45 | NZD | Low | Trade Balance (YoY) (Dec) | -2,200M |  | -2,220M |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -361.4B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 874.0B |
