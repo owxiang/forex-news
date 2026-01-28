@@ -15,22 +15,22 @@
 | 09:00 | EUR | Low | Italian Consumer Confidence (Jan) | 96.8 | 97.0 | 96.6 |
 | 09:00 | CHF | Low | ZEW Expectations (Jan) | -4.7 |  | 6.2 |
 | 10:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 10:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 2.036% |
-| 19 min | INR | Low | Cumulative Industrial Production (Dec) |  |  | 3.30% |
-| 19 min | INR | Low | Industrial Production (YoY) (Dec) |  | 5.5% | 6.7% |
-| 19 min | INR | Low | Manufacturing Output (MoM) (Dec) |  |  | 8.0% |
-| 19 min | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.830% |
-| 11:30 | INR | Low | M3 Money Supply |  |  | 12.1% |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.16% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 14.1% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 194.1 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 397.2 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 1,580.8 |
+| 10:20 | EUR | Low | Italian 6-Month BOT Auction | 2.040% |  | 2.036% |
+| 10:30 | INR | Low | Cumulative Industrial Production (Dec) | 3.90% |  | 3.30% |
+| 10:30 | INR | Low | Industrial Production (YoY) (Dec) | 7.8% | 5.5% | 7.2% |
+| 10:30 | INR | Low | Manufacturing Output (MoM) (Dec) | 8.1% |  | 8.5% |
+| 10:30 | EUR | Moderate | German 10-Year Bund Auction | 2.850% |  | 2.830% |
+| 21 min | INR | Low | M3 Money Supply |  |  | 12.1% |
+| 51 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.16% |
+| 51 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | 14.1% |
+| 51 min | USD | Low | MBA Purchase Index |  |  | 194.1 |
+| 51 min | USD | Low | Mortgage Market Index |  |  | 397.2 |
+| 51 min | USD | Low | Mortgage Refinance Index |  |  | 1,580.8 |
 | 14:45 | CAD | Moderate | BoC Monetary Policy Report |  |  |  |
 | 14:45 | CAD | Moderate | BoC Rate Statement |  |  |  |
 | 14:45 | CAD | High | BoC Interest Rate Decision |  | 2.25% | 2.25% |
 | 15:30 | USD | Low | Dallas Fed Services Revenues (Jan) |  |  | 0.1 |
-| 15:30 | USD | High | Crude Oil Inventories |  |  | 3.602M |
+| 15:30 | USD | High | Crude Oil Inventories |  | -0.200M | 3.602M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.354M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | -0.027M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 1.478M |
