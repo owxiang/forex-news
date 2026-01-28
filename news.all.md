@@ -49,5 +49,5 @@
 | 21:45 | NZD | Low | Imports (Dec) | 7.60B |  | 7.15B |
 | 21:45 | NZD | Low | Trade Balance (MoM) (Dec) | 52M | 30M | -335M |
 | 21:45 | NZD | Low | Trade Balance (YoY) (Dec) | -2,200M |  | -2,220M |
-| 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -361.4B |
-| 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 874.0B |
+| 40 min | JPY | Low | Foreign Bonds Buying |  |  | -361.4B |
+| 40 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 874.0B |
