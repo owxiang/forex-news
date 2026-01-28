@@ -39,7 +39,7 @@
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -2.4% |  | -2.0% |
 | 15:30 | USD | Low | Gasoline Inventories | 0.223M | 1.300M | 5.977M |
 | 15:30 | CAD | Moderate | BOC Press Conference |  |  |  |
-| 18:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 45 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 19:00 | USD | High | FOMC Statement |  |  |  |
 | 19:00 | USD | High | Fed Interest Rate Decision |  | 3.75% | 3.75% |
 | 19:30 | USD | High | FOMC Press Conference |  |  |  |
