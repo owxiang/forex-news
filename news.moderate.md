@@ -1,15 +1,16 @@
-## 27 January 2026 - Moderate Impact Forex News
+## 28 January 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | NAB Business Confidence (Dec) | 3 |  | 2 |
-| 05:00 | JPY | BoJ Core CPI (YoY) | 1.9% | 2.0% | 2.2% |
-| 13:15 | USD | ADP Employment Change Weekly | 7.75K |  | 8.00K |
-| 13:30 | CAD | Wholesale Sales (MoM) (Dec) | 2.1% |  | -1.8% |
-| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Nov) | 1.4% | 1.2% | 1.3% |
-| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Nov) | 0.0% |  | -0.3% |
-| 17:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 17:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 18:00 | USD | 5-Year Note Auction | 3.823% |  | 3.747% |
-| 21:30 | USD | API Weekly Crude Oil Stock | -0.250M | 1.450M | 3.040M |
-| 42 min | JPY | Monetary Policy Meeting Minutes |  |  |  |
+| 00:30 | AUD | CPI (QoQ) (Q4) | 0.6% |  | 1.3% |
+| 00:30 | AUD | CPI (YoY) (Q4) | 3.6% |  | 3.0% |
+| 00:30 | AUD | Trimmed Mean CPI (QoQ) (Q4) | 0.9% | 0.8% | 1.0% |
+| 07:00 | EUR | GfK German Consumer Climate (Feb) |  | -25.7 | -26.9 |
+| 10:00 | EUR | ECB's Elderson Speaks |  |  |  |
+| 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.830% |
+| 14:45 | CAD | BoC Monetary Policy Report |  |  |  |
+| 14:45 | CAD | BoC Rate Statement |  |  |  |
+| 15:30 | USD | Cushing Crude Oil Inventories |  |  | 1.478M |
+| 15:30 | CAD | BOC Press Conference |  |  |  |
+| 18:00 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 21:30 | BRL | Interest Rate Decision |  | 15.00% | 15.00% |

@@ -1,6 +1,10 @@
-## 27 January 2026 - High Impact Forex News
+## 28 January 2026 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 15:00 | USD | CB Consumer Confidence (Jan) | 84.5 | 90.6 | 94.2 |
-| 21:00 | USD | U.S. President Trump Speaks |  |  |  |
+| 13:30 | USD | U.S. President Trump Speaks |  |  |  |
+| 14:45 | CAD | BoC Interest Rate Decision |  | 2.25% | 2.25% |
+| 15:30 | USD | Crude Oil Inventories |  |  | 3.602M |
+| 19:00 | USD | FOMC Statement |  |  |  |
+| 19:00 | USD | Fed Interest Rate Decision |  | 3.75% | 3.75% |
+| 19:30 | USD | FOMC Press Conference |  |  |  |

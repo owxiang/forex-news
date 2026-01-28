@@ -1,40 +1,38 @@
-## 27 January 2026 - Low Impact Forex News
+## 28 January 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | BRC Shop Price Index (YoY) | 1.5% | 0.7% | 0.7% |
-| 00:30 | AUD | NAB Business Survey (Dec) | 9 |  | 7 |
-| 01:30 | CNY | Chinese Industrial profit YTD (Dec) | 0.6% |  | 0.1% |
-| 02:00 | NZD | Credit Card Spending (YoY) (Dec) | -0.3% |  | 4.4% |
-| 05:00 | GBP | Car Registration (YoY) (Dec) | 3.9% |  | -1.6% |
-| 05:00 | GBP | Car Registration (MoM) (Dec) | -3.2% |  | 4.3% |
-| 05:00 | EUR | Italian Car Registration (MoM) (Dec) | -13.0% |  | -1.4% |
-| 05:00 | EUR | Italian Car Registration (YoY) (Dec) | 2.3% |  | 0.0% |
-| 05:00 | EUR | German Car Registration (MoM) (Dec) | -1.7% |  | 0.2% |
-| 05:00 | EUR | German Car Registration (YoY) (Dec) | 9.7% |  | 2.5% |
-| 05:00 | EUR | French Car Registration (MoM) (Dec) | 30.1% |  | -4.7% |
-| 05:00 | EUR | French Car Registration (YoY) (Dec) | -5.8% |  | -0.3% |
-| 07:00 | ZAR | Leading Indicators (Nov) | 118.40% |  | 116.77% |
-| 07:45 | EUR | French Consumer Confidence (Jan) | 90 | 90 | 90 |
-| 08:00 | EUR | Spanish Unemployment Rate (Q4) | 9.93% | 10.20% | 10.45% |
-| 08:30 | HKD | Exports (MoM) (Dec) | 26.1% |  | 18.8% |
-| 08:30 | HKD | Imports (MoM) (Dec) | 30.6% |  | 18.1% |
-| 08:30 | HKD | Trade Balance (Dec) | -63.3B |  | -48.5B |
-| 10:30 | EUR | German 2-Year Schatz Auction | 2.140% |  | 2.110% |
-| 11:00 | INR | M3 Money Supply | 10.5% |  | 12.1% |
-| 11:00 | BRL | FGV Consumer confidence (Jan) | 87.3 |  | 89.1 |
-| 12:00 | MXN | Trade Balance (Dec) | 2.430B | 1.640B | 0.663B |
-| 12:00 | MXN | Trade Balance (USD) (Dec) | -0.860B |  | -0.340B |
-| 12:00 | BRL | Mid-Month CPI (YoY) (Jan) | 4.50% | 4.52% | 4.41% |
-| 12:00 | BRL | Mid-Month CPI (MoM) (Jan) | 0.20% | 0.22% | 0.25% |
-| 13:55 | USD | Redbook (YoY) | 7.1% |  | 5.5% |
-| 14:00 | USD | House Price Index (MoM) (Nov) | 0.6% | 0.3% | 0.4% |
-| 14:00 | USD | House Price Index (YoY) (Nov) | 1.9% |  | 1.8% |
-| 14:00 | USD | House Price Index (Nov) | 439.3 |  | 436.8 |
-| 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Nov) | 0.5% |  | 0.4% |
-| 15:00 | USD | Richmond Manufacturing Index (Jan) | -6 | -5 | -7 |
-| 15:00 | USD | Richmond Manufacturing Shipments (Jan) | -5 |  | -11 |
-| 15:00 | USD | Richmond Services Index (Jan) | -3 |  | -6 |
-| 15:30 | USD | Dallas Fed Services Revenues (Jan) | 7.8 |  | 0.0 |
-| 15:30 | USD | Texas Services Sector Outlook (Jan) | 2.7 |  | -5.0 |
-| 18:00 | USD | M2 Money Supply (MoM) (Dec) | 22.40T |  | 22.30T |
+| 00:30 | AUD | CPI Index Number (Q4) |  |  | 100.10 |
+| 00:30 | AUD | Trimmed Mean CPI (YoY) (Q4) | 3.4% |  | 3.0% |
+| 00:30 | AUD | Monthly CPI Indicator (YoY) (Dec) |  | 3.50% | 3.40% |
+| 00:30 | AUD | Weighted mean CPI (YoY) (Q4) | 3.2% | 3.4% | 3.4% |
+| 00:30 | AUD | Weighted mean CPI (QoQ) (Q4) | 0.9% |  | 0.3% |
+| 09:00 | EUR | Italian Business Confidence (Jan) |  | 89.0 | 88.4 |
+| 09:00 | EUR | Italian Consumer Confidence (Jan) |  | 97.0 | 96.6 |
+| 09:00 | CHF | ZEW Expectations (Jan) |  |  | 6.2 |
+| 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 2.036% |
+| 10:30 | INR | Cumulative Industrial Production (Dec) |  |  | 3.30% |
+| 10:30 | INR | Industrial Production (YoY) (Dec) |  | 5.5% | 6.7% |
+| 10:30 | INR | Manufacturing Output (MoM) (Dec) |  |  | 8.0% |
+| 11:30 | INR | M3 Money Supply |  |  | 12.1% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.16% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 14.1% |
+| 12:00 | USD | MBA Purchase Index |  |  | 194.1 |
+| 12:00 | USD | Mortgage Market Index |  |  | 397.2 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 1,580.8 |
+| 15:30 | USD | Dallas Fed Services Revenues (Jan) |  |  | 0.1 |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.354M |
+| 15:30 | USD | Crude Oil Imports |  |  | -0.027M |
+| 15:30 | USD | Distillate Fuel Production |  |  | -0.209M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | 3.348M |
+| 15:30 | USD | Gasoline Production |  |  | -0.246M |
+| 15:30 | USD | Heating Oil Stockpiles |  |  | 0.279M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -2.0% |
+| 15:30 | USD | Gasoline Inventories |  |  | 5.977M |
+| 15:30 | USD | Texas Services Sector Outlook (Jan) |  |  | -3.3 |
+| 21:45 | NZD | Exports (Dec) |  |  | 6.99B |
+| 21:45 | NZD | Imports (Dec) |  |  | 7.15B |
+| 21:45 | NZD | Trade Balance (MoM) (Dec) |  | 30M | -163M |
+| 21:45 | NZD | Trade Balance (YoY) (Dec) |  |  | -2,060M |
+| 23:50 | JPY | Foreign Bonds Buying |  |  | -361.4B |
+| 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 874.0B |
