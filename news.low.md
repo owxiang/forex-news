@@ -7,10 +7,10 @@
 | 00:30 | AUD | Monthly CPI Indicator (YoY) (Dec) | 3.80% | 3.50% | 3.40% |
 | 00:30 | AUD | Weighted mean CPI (YoY) (Dec) | 3.2% | 3.4% | 3.4% |
 | 00:30 | AUD | Weighted mean CPI (QoQ) (Dec) | 0.9% |  | 0.3% |
-| 49 min | EUR | Italian Business Confidence (Jan) |  | 89.0 | 88.4 |
-| 49 min | EUR | Italian Consumer Confidence (Jan) |  | 97.0 | 96.6 |
-| 49 min | CHF | ZEW Expectations (Jan) |  |  | 6.2 |
-| 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 2.036% |
+| 09:00 | EUR | Italian Business Confidence (Jan) | 89.2 | 89.0 | 88.5 |
+| 09:00 | EUR | Italian Consumer Confidence (Jan) | 96.8 | 97.0 | 96.6 |
+| 09:00 | CHF | ZEW Expectations (Jan) | -4.7 |  | 6.2 |
+| 56 min | EUR | Italian 6-Month BOT Auction |  |  | 2.036% |
 | 10:30 | INR | Cumulative Industrial Production (Dec) |  |  | 3.30% |
 | 10:30 | INR | Industrial Production (YoY) (Dec) |  | 5.5% | 6.7% |
 | 10:30 | INR | Manufacturing Output (MoM) (Dec) |  |  | 8.0% |
