@@ -4,10 +4,10 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | AUD | Moderate | CPI (QoQ) (Q4) | 0.6% |  | 1.3% |
 | 00:30 | AUD | Moderate | CPI (YoY) (Q4) | 3.6% |  | 3.0% |
-| 00:30 | AUD | Low | CPI Index Number (Q4) |  |  | 100.10 |
+| 00:30 | AUD | Low | CPI Index Number (Q4) | 100.30 |  | 99.70 |
 | 00:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q4) | 0.9% | 0.8% | 1.0% |
 | 00:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q4) | 3.4% |  | 3.0% |
-| 00:30 | AUD | Low | Monthly CPI Indicator (YoY) (Dec) |  | 3.50% | 3.40% |
+| 00:30 | AUD | Low | Monthly CPI Indicator (YoY) (Dec) | 3.80% | 3.50% | 3.40% |
 | 00:30 | AUD | Low | Weighted mean CPI (YoY) (Q4) | 3.2% | 3.4% | 3.4% |
 | 00:30 | AUD | Low | Weighted mean CPI (QoQ) (Q4) | 0.9% |  | 0.3% |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Feb) |  | -25.7 | -26.9 |

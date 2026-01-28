@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | CPI Index Number (Q4) |  |  | 100.10 |
+| 00:30 | AUD | CPI Index Number (Q4) | 100.30 |  | 99.70 |
 | 00:30 | AUD | Trimmed Mean CPI (YoY) (Q4) | 3.4% |  | 3.0% |
-| 00:30 | AUD | Monthly CPI Indicator (YoY) (Dec) |  | 3.50% | 3.40% |
+| 00:30 | AUD | Monthly CPI Indicator (YoY) (Dec) | 3.80% | 3.50% | 3.40% |
 | 00:30 | AUD | Weighted mean CPI (YoY) (Q4) | 3.2% | 3.4% | 3.4% |
 | 00:30 | AUD | Weighted mean CPI (QoQ) (Q4) | 0.9% |  | 0.3% |
 | 09:00 | EUR | Italian Business Confidence (Jan) |  | 89.0 | 88.4 |
