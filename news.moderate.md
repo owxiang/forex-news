@@ -13,4 +13,4 @@
 | 15:30 | USD | Cushing Crude Oil Inventories | -0.278M |  | 1.478M |
 | 15:30 | CAD | BOC Press Conference |  |  |  |
 | 18:00 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 21:30 | BRL | Interest Rate Decision |  | 15.00% | 15.00% |
+| 18 min | BRL | Interest Rate Decision |  | 15.00% | 15.00% |
