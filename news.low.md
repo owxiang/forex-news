@@ -10,10 +10,10 @@
 | 09:00 | EUR | Italian Business Confidence (Jan) | 89.2 | 89.0 | 88.5 |
 | 09:00 | EUR | Italian Consumer Confidence (Jan) | 96.8 | 97.0 | 96.6 |
 | 09:00 | CHF | ZEW Expectations (Jan) | -4.7 |  | 6.2 |
-| 56 min | EUR | Italian 6-Month BOT Auction |  |  | 2.036% |
-| 10:30 | INR | Cumulative Industrial Production (Dec) |  |  | 3.30% |
-| 10:30 | INR | Industrial Production (YoY) (Dec) |  | 5.5% | 6.7% |
-| 10:30 | INR | Manufacturing Output (MoM) (Dec) |  |  | 8.0% |
+| 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 2.036% |
+| 19 min | INR | Cumulative Industrial Production (Dec) |  |  | 3.30% |
+| 19 min | INR | Industrial Production (YoY) (Dec) |  | 5.5% | 6.7% |
+| 19 min | INR | Manufacturing Output (MoM) (Dec) |  |  | 8.0% |
 | 11:30 | INR | M3 Money Supply |  |  | 12.1% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.16% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 14.1% |

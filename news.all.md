@@ -14,12 +14,12 @@
 | 09:00 | EUR | Low | Italian Business Confidence (Jan) | 89.2 | 89.0 | 88.5 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Jan) | 96.8 | 97.0 | 96.6 |
 | 09:00 | CHF | Low | ZEW Expectations (Jan) | -4.7 |  | 6.2 |
-| 46 min | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 56 min | EUR | Low | Italian 6-Month BOT Auction |  |  | 2.036% |
-| 10:30 | INR | Low | Cumulative Industrial Production (Dec) |  |  | 3.30% |
-| 10:30 | INR | Low | Industrial Production (YoY) (Dec) |  | 5.5% | 6.7% |
-| 10:30 | INR | Low | Manufacturing Output (MoM) (Dec) |  |  | 8.0% |
-| 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.830% |
+| 10:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 10:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 2.036% |
+| 19 min | INR | Low | Cumulative Industrial Production (Dec) |  |  | 3.30% |
+| 19 min | INR | Low | Industrial Production (YoY) (Dec) |  | 5.5% | 6.7% |
+| 19 min | INR | Low | Manufacturing Output (MoM) (Dec) |  |  | 8.0% |
+| 19 min | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.830% |
 | 11:30 | INR | Low | M3 Money Supply |  |  | 12.1% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.16% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 14.1% |
