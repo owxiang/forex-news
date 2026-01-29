@@ -36,24 +36,24 @@
 | 12:00 | EUR | Low | Spanish Business Confidence (Jan) | -3.0 |  | -3.4 |
 | 13:00 | ZAR | Moderate | Interest Rate Decision (Jan) | 6.75% | 6.75% | 6.75% |
 | 13:00 | ZAR | Low | Prime Rate (Jan) | 10.25% |  | 10.25% |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,860K | 1,849K |
-| 13:30 | USD | Moderate | Exports (Nov) |  |  | 302.00B |
-| 13:30 | USD | Moderate | Imports (Nov) |  |  | 331.40B |
-| 13:30 | USD | High | Initial Jobless Claims |  | 206K | 200K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 201.50K |
-| 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q3) |  | 4.9% | 3.3% |
-| 13:30 | USD | Moderate | Trade Balance (Nov) |  | -43.40B | -29.40B |
-| 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q3) |  | -1.9% | 1.0% |
-| 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Nov) |  |  | 2.18% |
-| 13:30 | CAD | Low | Exports (Nov) |  |  | 65.61B |
-| 13:30 | CAD | Low | Imports (Nov) |  |  | 66.19B |
-| 13:30 | CAD | Moderate | Trade Balance (Nov) |  | -0.70B | -0.58B |
-| 15:00 | USD | Low | Durables Excluding Defense (MoM) (Nov) |  |  | 6.6% |
-| 15:00 | USD | Low | Durables Excluding Transport (MoM) (Nov) |  |  | 0.5% |
-| 15:00 | USD | Moderate | Factory Orders (MoM) (Nov) |  | 1.7% | -1.3% |
-| 15:00 | USD | Low | Factory orders ex transportation (MoM) (Nov) |  |  | -0.2% |
-| 15:00 | USD | Low | Wholesale Inventories (MoM) (Nov) |  | 0.2% | 0.5% |
-| 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Nov) |  |  | -0.4% |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,827K | 1,860K | 1,865K |
+| 13:30 | USD | Moderate | Exports (Nov) | 292.10B |  | 303.00B |
+| 13:30 | USD | Moderate | Imports (Nov) | 348.90B |  | 332.10B |
+| 13:30 | USD | High | Initial Jobless Claims | 209K | 206K | 210K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 206.25K |  | 204.00K |
+| 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q3) | 4.9% | 4.9% | 3.3% |
+| 13:30 | USD | Moderate | Trade Balance (Nov) | -56.80B | -43.40B | -29.20B |
+| 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q3) | -1.9% | -1.9% | 1.0% |
+| 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Nov) | 2.50% |  | 2.18% |
+| 13:30 | CAD | Low | Exports (Nov) | 63.94B |  | 65.78B |
+| 13:30 | CAD | Low | Imports (Nov) | 66.14B |  | 66.18B |
+| 13:30 | CAD | Moderate | Trade Balance (Nov) | -2.20B | -0.70B | -0.40B |
+| 40 min | USD | Low | Durables Excluding Defense (MoM) (Nov) |  |  | 6.6% |
+| 40 min | USD | Low | Durables Excluding Transport (MoM) (Nov) |  |  | 0.5% |
+| 40 min | USD | Moderate | Factory Orders (MoM) (Nov) |  | 1.7% | -1.3% |
+| 40 min | USD | Low | Factory orders ex transportation (MoM) (Nov) |  |  | -0.2% |
+| 40 min | USD | Low | Wholesale Inventories (MoM) (Nov) |  | 0.2% | 0.5% |
+| 40 min | USD | Low | Wholesale Trade Sales (MoM) (Nov) |  |  | -0.4% |
 | 15:30 | USD | Low | Natural Gas Storage |  | -237B | -120B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.630% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.630% |

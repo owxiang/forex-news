@@ -5,14 +5,14 @@
 | 10:10 | EUR | Italian 10-Year BTP Auction | 3.44% |  | 3.44% |
 | 11:00 | EUR | France Jobseekers Total (Dec) | 3,117.4K |  | 3,129.3K |
 | 13:00 | ZAR | Interest Rate Decision (Jan) | 6.75% | 6.75% | 6.75% |
-| 13:30 | USD | Continuing Jobless Claims |  | 1,860K | 1,849K |
-| 13:30 | USD | Exports (Nov) |  |  | 302.00B |
-| 13:30 | USD | Imports (Nov) |  |  | 331.40B |
-| 13:30 | USD | Nonfarm Productivity (QoQ) (Q3) |  | 4.9% | 3.3% |
-| 13:30 | USD | Trade Balance (Nov) |  | -43.40B | -29.40B |
-| 13:30 | USD | Unit Labor Costs (QoQ) (Q3) |  | -1.9% | 1.0% |
-| 13:30 | CAD | Trade Balance (Nov) |  | -0.70B | -0.58B |
-| 15:00 | USD | Factory Orders (MoM) (Nov) |  | 1.7% | -1.3% |
+| 13:30 | USD | Continuing Jobless Claims | 1,827K | 1,860K | 1,865K |
+| 13:30 | USD | Exports (Nov) | 292.10B |  | 303.00B |
+| 13:30 | USD | Imports (Nov) | 348.90B |  | 332.10B |
+| 13:30 | USD | Nonfarm Productivity (QoQ) (Q3) | 4.9% | 4.9% | 3.3% |
+| 13:30 | USD | Trade Balance (Nov) | -56.80B | -43.40B | -29.20B |
+| 13:30 | USD | Unit Labor Costs (QoQ) (Q3) | -1.9% | -1.9% | 1.0% |
+| 13:30 | CAD | Trade Balance (Nov) | -2.20B | -0.70B | -0.40B |
+| 40 min | USD | Factory Orders (MoM) (Nov) |  | 1.7% | -1.3% |
 | 17:00 | USD | Atlanta Fed GDPNow (Q4) |  | 5.4% | 5.4% |
 | 18:00 | USD | 7-Year Note Auction |  |  | 3.930% |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,585B |
