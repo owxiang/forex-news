@@ -44,17 +44,17 @@
 | 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q3) | 4.9% | 4.9% | 3.3% |
 | 13:30 | USD | Moderate | Trade Balance (Nov) | -56.80B | -43.40B | -29.20B |
 | 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q3) | -1.9% | -1.9% | 1.0% |
-| 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Nov) | 2.50% |  | 2.18% |
+| 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Nov) | 2.45% |  | 2.00% |
 | 13:30 | CAD | Low | Exports (Nov) | 63.94B |  | 65.78B |
 | 13:30 | CAD | Low | Imports (Nov) | 66.14B |  | 66.18B |
 | 13:30 | CAD | Moderate | Trade Balance (Nov) | -2.20B | -0.70B | -0.40B |
-| 40 min | USD | Low | Durables Excluding Defense (MoM) (Nov) |  |  | 6.6% |
-| 40 min | USD | Low | Durables Excluding Transport (MoM) (Nov) |  |  | 0.5% |
-| 40 min | USD | Moderate | Factory Orders (MoM) (Nov) |  | 1.7% | -1.3% |
-| 40 min | USD | Low | Factory orders ex transportation (MoM) (Nov) |  |  | -0.2% |
-| 40 min | USD | Low | Wholesale Inventories (MoM) (Nov) |  | 0.2% | 0.5% |
-| 40 min | USD | Low | Wholesale Trade Sales (MoM) (Nov) |  |  | -0.4% |
-| 15:30 | USD | Low | Natural Gas Storage |  | -237B | -120B |
+| 15:00 | USD | Low | Durables Excluding Defense (MoM) (Nov) | 6.5% |  | 6.6% |
+| 15:00 | USD | Low | Durables Excluding Transport (MoM) (Nov) | 0.4% |  | 0.5% |
+| 15:00 | USD | Moderate | Factory Orders (MoM) (Nov) | 2.7% | 1.7% | -1.2% |
+| 15:00 | USD | Low | Factory orders ex transportation (MoM) (Nov) | 0.2% |  | -0.1% |
+| 15:00 | USD | Low | Wholesale Inventories (MoM) (Nov) | 0.2% | 0.2% | 0.5% |
+| 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Nov) | 1.3% |  | -0.4% |
+| 15 min | USD | Low | Natural Gas Storage |  | -237B | -120B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.630% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.630% |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 5.4% | 5.4% |

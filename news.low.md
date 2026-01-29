@@ -34,15 +34,15 @@
 | 12:00 | EUR | Spanish Business Confidence (Jan) | -3.0 |  | -3.4 |
 | 13:00 | ZAR | Prime Rate (Jan) | 10.25% |  | 10.25% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 206.25K |  | 204.00K |
-| 13:30 | CAD | Average Weekly Earnings (YoY) (Nov) | 2.50% |  | 2.18% |
+| 13:30 | CAD | Average Weekly Earnings (YoY) (Nov) | 2.45% |  | 2.00% |
 | 13:30 | CAD | Exports (Nov) | 63.94B |  | 65.78B |
 | 13:30 | CAD | Imports (Nov) | 66.14B |  | 66.18B |
-| 40 min | USD | Durables Excluding Defense (MoM) (Nov) |  |  | 6.6% |
-| 40 min | USD | Durables Excluding Transport (MoM) (Nov) |  |  | 0.5% |
-| 40 min | USD | Factory orders ex transportation (MoM) (Nov) |  |  | -0.2% |
-| 40 min | USD | Wholesale Inventories (MoM) (Nov) |  | 0.2% | 0.5% |
-| 40 min | USD | Wholesale Trade Sales (MoM) (Nov) |  |  | -0.4% |
-| 15:30 | USD | Natural Gas Storage |  | -237B | -120B |
+| 15:00 | USD | Durables Excluding Defense (MoM) (Nov) | 6.5% |  | 6.6% |
+| 15:00 | USD | Durables Excluding Transport (MoM) (Nov) | 0.4% |  | 0.5% |
+| 15:00 | USD | Factory orders ex transportation (MoM) (Nov) | 0.2% |  | -0.1% |
+| 15:00 | USD | Wholesale Inventories (MoM) (Nov) | 0.2% | 0.2% | 0.5% |
+| 15:00 | USD | Wholesale Trade Sales (MoM) (Nov) | 1.3% |  | -0.4% |
+| 15 min | USD | Natural Gas Storage |  | -237B | -120B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.630% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 3.630% |
 | 17:30 | BRL | CAGED Net Payroll Jobs (Dec) |  | -478.00K | 85.86K |
