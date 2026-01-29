@@ -7,7 +7,7 @@
 | 00:30 | AUD | Export Price Index (QoQ) (Q4) | 3.2% |  | -0.9% |
 | 00:30 | AUD | Import Price Index (QoQ) (Q4) | 0.9% | -0.2% | -0.4% |
 | 02:30 | SGD | Unemployment Rate (Q4) | 2.0% |  | 2.0% |
-| 23 min | JPY | Household Confidence (Jan) |  | 37.1 | 37.2 |
+| 05:00 | JPY | Household Confidence (Jan) | 37.9 | 37.1 | 37.2 |
 | 07:00 | CHF | Trade Balance (Dec) |  | 4.850B | 3.841B |
 | 07:00 | NOK | M3 Money Supply (Dec) |  |  | 3,446.6B |
 | 07:00 | NOK | Credit Indicator (YoY) (Dec) |  |  | 3.9% |
@@ -21,13 +21,13 @@
 | 09:30 | ZAR | PPI (YoY) (Dec) |  |  | 2.9% |
 | 10:00 | EUR | Italian Industrial Sales (MoM) (Nov) |  |  | -0.50% |
 | 10:00 | EUR | Italian Industrial Sales (YoY) (Nov) |  |  | 1.70% |
-| 10:00 | EUR | Business and Consumer Survey (Jan) |  | 97.1 | 96.7 |
+| 10:00 | EUR | Business and Consumer Survey (Jan) |  | 97.0 | 96.7 |
 | 10:00 | EUR | Business Climate (Jan) |  |  | -0.56 |
 | 10:00 | EUR | Consumer Confidence (Jan) |  | -12.4 | -13.1 |
 | 10:00 | EUR | Consumer Inflation Expectation (Jan) |  |  | 26.7 |
 | 10:00 | EUR | Selling Price Expectations (Jan) |  |  | 10.9 |
 | 10:00 | EUR | Services Sentiment (Jan) |  | 6.0 | 5.6 |
-| 10:00 | EUR | Industrial Sentiment (Jan) |  | -8.0 | -9.0 |
+| 10:00 | EUR | Industrial Sentiment (Jan) |  | -8.1 | -9.0 |
 | 10:10 | EUR | Italian 5-Year BTP Auction |  |  | 2.74% |
 | 11:00 | EUR | Spanish Business Confidence (Jan) |  |  | -3.5 |
 | 11:00 | BRL | IGP-M Inflation Index (MoM) (Jan) |  |  | -0.01% |
@@ -42,7 +42,7 @@
 | 15:00 | USD | Factory orders ex transportation (MoM) (Nov) |  |  | -0.2% |
 | 15:00 | USD | Wholesale Inventories (MoM) (Nov) |  | 0.2% | 0.5% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Nov) |  |  | -0.4% |
-| 15:30 | USD | Natural Gas Storage |  |  | -120B |
+| 15:30 | USD | Natural Gas Storage |  | -237B | -120B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.630% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 3.630% |
 | 17:30 | BRL | CAGED Net Payroll Jobs (Dec) |  |  | 85.86K |

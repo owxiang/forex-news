@@ -7,7 +7,7 @@
 | 00:30 | AUD | Low | Export Price Index (QoQ) (Q4) | 3.2% |  | -0.9% |
 | 00:30 | AUD | Low | Import Price Index (QoQ) (Q4) | 0.9% | -0.2% | -0.4% |
 | 02:30 | SGD | Low | Unemployment Rate (Q4) | 2.0% |  | 2.0% |
-| 23 min | JPY | Low | Household Confidence (Jan) |  | 37.1 | 37.2 |
+| 05:00 | JPY | Low | Household Confidence (Jan) | 37.9 | 37.1 | 37.2 |
 | 07:00 | CHF | Low | Trade Balance (Dec) |  | 4.850B | 3.841B |
 | 07:00 | NOK | Low | M3 Money Supply (Dec) |  |  | 3,446.6B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Dec) |  |  | 3.9% |
@@ -21,13 +21,13 @@
 | 09:30 | ZAR | Low | PPI (YoY) (Dec) |  |  | 2.9% |
 | 10:00 | EUR | Low | Italian Industrial Sales (MoM) (Nov) |  |  | -0.50% |
 | 10:00 | EUR | Low | Italian Industrial Sales (YoY) (Nov) |  |  | 1.70% |
-| 10:00 | EUR | Low | Business and Consumer Survey (Jan) |  | 97.1 | 96.7 |
+| 10:00 | EUR | Low | Business and Consumer Survey (Jan) |  | 97.0 | 96.7 |
 | 10:00 | EUR | Low | Business Climate (Jan) |  |  | -0.56 |
 | 10:00 | EUR | Low | Consumer Confidence (Jan) |  | -12.4 | -13.1 |
 | 10:00 | EUR | Low | Consumer Inflation Expectation (Jan) |  |  | 26.7 |
 | 10:00 | EUR | Low | Selling Price Expectations (Jan) |  |  | 10.9 |
 | 10:00 | EUR | Low | Services Sentiment (Jan) |  | 6.0 | 5.6 |
-| 10:00 | EUR | Low | Industrial Sentiment (Jan) |  | -8.0 | -9.0 |
+| 10:00 | EUR | Low | Industrial Sentiment (Jan) |  | -8.1 | -9.0 |
 | 10:10 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 3.44% |
 | 10:10 | EUR | Low | Italian 5-Year BTP Auction |  |  | 2.74% |
 | 11:00 | EUR | Moderate | France Jobseekers Total (Dec) |  |  | 3,129.3K |
@@ -54,7 +54,7 @@
 | 15:00 | USD | Low | Factory orders ex transportation (MoM) (Nov) |  |  | -0.2% |
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (Nov) |  | 0.2% | 0.5% |
 | 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Nov) |  |  | -0.4% |
-| 15:30 | USD | Low | Natural Gas Storage |  |  | -120B |
+| 15:30 | USD | Low | Natural Gas Storage |  | -237B | -120B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.630% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.630% |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 5.4% | 5.4% |
