@@ -55,11 +55,11 @@
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (Nov) | 0.2% | 0.2% | 0.5% |
 | 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Nov) | 1.3% |  | -0.4% |
 | 15:30 | USD | Low | Natural Gas Storage | -242B | -237B | -120B |
-| 12 min | USD | Low | 4-Week Bill Auction |  |  | 3.630% |
-| 12 min | USD | Low | 8-Week Bill Auction |  |  | 3.630% |
-| 42 min | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 5.4% | 5.4% |
-| 17:30 | BRL | Low | CAGED Net Payroll Jobs (Dec) |  | -478.00K | 85.86K |
-| 18:00 | USD | Moderate | 7-Year Note Auction |  |  | 3.930% |
+| 16:30 | USD | Low | 4-Week Bill Auction | 3.630% |  | 3.630% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 3.635% |  | 3.630% |
+| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 4.2% | 5.4% | 5.4% |
+| 13 min | BRL | Low | CAGED Net Payroll Jobs (Dec) |  | -478.00K | 85.86K |
+| 43 min | USD | Moderate | 7-Year Note Auction |  |  | 3.930% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,585B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.957T |
 | 21:30 | USD | High | U.S. President Trump Speaks |  |  |  |
