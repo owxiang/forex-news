@@ -45,7 +45,7 @@
 | 15:30 | USD | Natural Gas Storage | -242B | -237B | -120B |
 | 16:30 | USD | 4-Week Bill Auction | 3.630% |  | 3.630% |
 | 16:30 | USD | 8-Week Bill Auction | 3.635% |  | 3.630% |
-| 13 min | BRL | CAGED Net Payroll Jobs (Dec) |  | -478.00K | 85.86K |
+| 17:30 | BRL | CAGED Net Payroll Jobs (Dec) | -618.16K | -478.00K | 85.86K |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.957T |
 | 23:00 | KRW | Industrial Production (YoY) (Dec) |  | -2.1% | -1.4% |
 | 23:00 | KRW | Industrial Production (MoM) (Dec) |  | 0.5% | 0.6% |
