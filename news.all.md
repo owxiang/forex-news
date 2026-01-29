@@ -8,9 +8,9 @@
 | 00:30 | AUD | Low | Import Price Index (QoQ) (Q4) | 0.9% | -0.2% | -0.4% |
 | 02:30 | SGD | Low | Unemployment Rate (Q4) | 2.0% |  | 2.0% |
 | 05:00 | JPY | Low | Household Confidence (Jan) | 37.9 | 37.1 | 37.2 |
-| 07:00 | CHF | Low | Trade Balance (Dec) |  | 4.850B | 3.841B |
-| 07:00 | NOK | Low | M3 Money Supply (Dec) |  |  | 3,446.6B |
-| 07:00 | NOK | Low | Credit Indicator (YoY) (Dec) |  |  | 3.9% |
+| 39 min | CHF | Low | Trade Balance (Dec) |  | 4.850B | 3.841B |
+| 39 min | NOK | Low | M3 Money Supply (Dec) |  |  | 3,446.6B |
+| 39 min | NOK | Low | Credit Indicator (YoY) (Dec) |  |  | 3.9% |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Dec) |  |  | 6.0% |
 | 09:00 | EUR | Low | Italian Trade Balance Non-EU (Dec) |  |  | 6.92B |
 | 09:00 | EUR | Low | M3 Money Supply (YoY) (Dec) |  | 3.0% | 3.0% |
