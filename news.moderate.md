@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 10:10 | EUR | Italian 10-Year BTP Auction | 3.44% |  | 3.44% |
 | 11:00 | EUR | France Jobseekers Total (Dec) | 3,117.4K |  | 3,129.3K |
-| 13:00 | ZAR | Interest Rate Decision (Jan) |  | 6.75% | 6.75% |
+| 13:00 | ZAR | Interest Rate Decision (Jan) | 6.75% | 6.75% | 6.75% |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,860K | 1,849K |
 | 13:30 | USD | Exports (Nov) |  |  | 302.00B |
 | 13:30 | USD | Imports (Nov) |  |  | 331.40B |

@@ -30,9 +30,9 @@
 | 10:00 | EUR | Industrial Sentiment (Jan) | -6.8 | -8.1 | -8.5 |
 | 10:10 | EUR | Italian 5-Year BTP Auction | 2.74% |  | 2.74% |
 | 11:00 | BRL | IGP-M Inflation Index (MoM) (Jan) | 0.41% | 0.41% | -0.01% |
-| 15 min | BRL | Bank lending (MoM) (Dec) |  |  | 0.9% |
-| 45 min | EUR | Spanish Business Confidence (Jan) |  |  | -3.5 |
-| 13:00 | ZAR | Prime Rate (Jan) |  |  | 10.25% |
+| 11:30 | BRL | Bank lending (MoM) (Dec) | 1.8% |  | 0.9% |
+| 12:00 | EUR | Spanish Business Confidence (Jan) | -3.0 |  | -3.4 |
+| 13:00 | ZAR | Prime Rate (Jan) | 10.25% |  | 10.25% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 201.50K |
 | 13:30 | CAD | Average Weekly Earnings (YoY) (Nov) |  |  | 2.18% |
 | 13:30 | CAD | Exports (Nov) |  |  | 65.61B |

@@ -32,10 +32,10 @@
 | 10:10 | EUR | Low | Italian 5-Year BTP Auction | 2.74% |  | 2.74% |
 | 11:00 | EUR | Moderate | France Jobseekers Total (Dec) | 3,117.4K |  | 3,129.3K |
 | 11:00 | BRL | Low | IGP-M Inflation Index (MoM) (Jan) | 0.41% | 0.41% | -0.01% |
-| 15 min | BRL | Low | Bank lending (MoM) (Dec) |  |  | 0.9% |
-| 45 min | EUR | Low | Spanish Business Confidence (Jan) |  |  | -3.5 |
-| 13:00 | ZAR | Moderate | Interest Rate Decision (Jan) |  | 6.75% | 6.75% |
-| 13:00 | ZAR | Low | Prime Rate (Jan) |  |  | 10.25% |
+| 11:30 | BRL | Low | Bank lending (MoM) (Dec) | 1.8% |  | 0.9% |
+| 12:00 | EUR | Low | Spanish Business Confidence (Jan) | -3.0 |  | -3.4 |
+| 13:00 | ZAR | Moderate | Interest Rate Decision (Jan) | 6.75% | 6.75% | 6.75% |
+| 13:00 | ZAR | Low | Prime Rate (Jan) | 10.25% |  | 10.25% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,860K | 1,849K |
 | 13:30 | USD | Moderate | Exports (Nov) |  |  | 302.00B |
 | 13:30 | USD | Moderate | Imports (Nov) |  |  | 331.40B |
@@ -62,6 +62,7 @@
 | 18:00 | USD | Moderate | 7-Year Note Auction |  |  | 3.930% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,585B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.957T |
+| 21:30 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 23:00 | KRW | Low | Industrial Production (YoY) (Dec) |  | -2.1% | -1.4% |
 | 23:00 | KRW | Low | Industrial Production (MoM) (Dec) |  | 0.5% | 0.6% |
 | 23:00 | KRW | Low | Retail Sales (MoM) (Dec) |  |  | -3.3% |
