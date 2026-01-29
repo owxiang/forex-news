@@ -7,7 +7,7 @@
 | 00:30 | AUD | Low | Export Price Index (QoQ) (Q4) | 3.2% |  | -0.9% |
 | 00:30 | AUD | Low | Import Price Index (QoQ) (Q4) | 0.9% | -0.2% | -0.4% |
 | 02:30 | SGD | Low | Unemployment Rate (Q4) | 2.0% |  | 2.0% |
-| 05:00 | JPY | Low | Household Confidence (Jan) |  | 37.1 | 37.2 |
+| 23 min | JPY | Low | Household Confidence (Jan) |  | 37.1 | 37.2 |
 | 07:00 | CHF | Low | Trade Balance (Dec) |  | 4.850B | 3.841B |
 | 07:00 | NOK | Low | M3 Money Supply (Dec) |  |  | 3,446.6B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Dec) |  |  | 3.9% |
