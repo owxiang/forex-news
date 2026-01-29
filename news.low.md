@@ -6,6 +6,7 @@
 | 00:00 | NZD | NBNZ Own Activity (Jan) | 51.6% |  | 60.9% |
 | 00:30 | AUD | Export Price Index (QoQ) (Q4) | 3.2% |  | -0.9% |
 | 00:30 | AUD | Import Price Index (QoQ) (Q4) | 0.9% | -0.2% | -0.4% |
+| 02:30 | SGD | Unemployment Rate (Q4) | 2.0% |  | 2.0% |
 | 05:00 | JPY | Household Confidence (Jan) |  | 37.1 | 37.2 |
 | 07:00 | CHF | Trade Balance (Dec) |  | 4.850B | 3.841B |
 | 07:00 | NOK | M3 Money Supply (Dec) |  |  | 3,446.6B |
