@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 10:10 | EUR | Italian 10-Year BTP Auction |  |  | 3.44% |
+| 51 min | EUR | Italian 10-Year BTP Auction |  |  | 3.44% |
 | 11:00 | EUR | France Jobseekers Total (Dec) |  |  | 3,129.3K |
 | 13:00 | ZAR | Interest Rate Decision (Jan) |  | 6.75% | 6.75% |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,860K | 1,849K |
