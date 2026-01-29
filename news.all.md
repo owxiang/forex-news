@@ -8,10 +8,10 @@
 | 00:30 | AUD | Low | Import Price Index (QoQ) (Q4) | 0.9% | -0.2% | -0.4% |
 | 02:30 | SGD | Low | Unemployment Rate (Q4) | 2.0% |  | 2.0% |
 | 05:00 | JPY | Low | Household Confidence (Jan) | 37.9 | 37.1 | 37.2 |
+| 07:00 | NOK | Low | Credit Indicator (YoY) (Dec) | 4.4% |  | 3.9% |
 | 39 min | CHF | Low | Trade Balance (Dec) |  | 4.850B | 3.841B |
+| 39 min | EUR | Low | Spanish Retail Sales (YoY) (Dec) |  |  | 6.0% |
 | 39 min | NOK | Low | M3 Money Supply (Dec) |  |  | 3,446.6B |
-| 39 min | NOK | Low | Credit Indicator (YoY) (Dec) |  |  | 3.9% |
-| 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Dec) |  |  | 6.0% |
 | 09:00 | EUR | Low | Italian Trade Balance Non-EU (Dec) |  |  | 6.92B |
 | 09:00 | EUR | Low | M3 Money Supply (YoY) (Dec) |  | 3.0% | 3.0% |
 | 09:00 | EUR | Low | M3 Money Supply (Dec) |  |  | 17,189.3B |
@@ -41,9 +41,9 @@
 | 13:30 | USD | Moderate | Imports (Nov) |  |  | 331.40B |
 | 13:30 | USD | High | Initial Jobless Claims |  | 206K | 200K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 201.50K |
-| 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q3) |  | 4.9% | 4.1% |
+| 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q3) |  | 4.9% | 3.3% |
 | 13:30 | USD | Moderate | Trade Balance (Nov) |  | -43.40B | -29.40B |
-| 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q3) |  | -1.9% | -2.9% |
+| 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q3) |  | -1.9% | 1.0% |
 | 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Nov) |  |  | 2.18% |
 | 13:30 | CAD | Low | Exports (Nov) |  |  | 65.61B |
 | 13:30 | CAD | Low | Imports (Nov) |  |  | 66.19B |

@@ -8,9 +8,9 @@
 | 13:30 | USD | Continuing Jobless Claims |  | 1,860K | 1,849K |
 | 13:30 | USD | Exports (Nov) |  |  | 302.00B |
 | 13:30 | USD | Imports (Nov) |  |  | 331.40B |
-| 13:30 | USD | Nonfarm Productivity (QoQ) (Q3) |  | 4.9% | 4.1% |
+| 13:30 | USD | Nonfarm Productivity (QoQ) (Q3) |  | 4.9% | 3.3% |
 | 13:30 | USD | Trade Balance (Nov) |  | -43.40B | -29.40B |
-| 13:30 | USD | Unit Labor Costs (QoQ) (Q3) |  | -1.9% | -2.9% |
+| 13:30 | USD | Unit Labor Costs (QoQ) (Q3) |  | -1.9% | 1.0% |
 | 13:30 | CAD | Trade Balance (Nov) |  | -0.70B | -0.58B |
 | 15:00 | USD | Factory Orders (MoM) (Nov) |  | 1.7% | -1.3% |
 | 17:00 | USD | Atlanta Fed GDPNow (Q4) |  | 5.4% | 5.4% |
