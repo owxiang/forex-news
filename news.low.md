@@ -42,9 +42,9 @@
 | 15:00 | USD | Factory orders ex transportation (MoM) (Nov) | 0.2% |  | -0.1% |
 | 15:00 | USD | Wholesale Inventories (MoM) (Nov) | 0.2% | 0.2% | 0.5% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Nov) | 1.3% |  | -0.4% |
-| 15 min | USD | Natural Gas Storage |  | -237B | -120B |
-| 16:30 | USD | 4-Week Bill Auction |  |  | 3.630% |
-| 16:30 | USD | 8-Week Bill Auction |  |  | 3.630% |
+| 15:30 | USD | Natural Gas Storage | -242B | -237B | -120B |
+| 12 min | USD | 4-Week Bill Auction |  |  | 3.630% |
+| 12 min | USD | 8-Week Bill Auction |  |  | 3.630% |
 | 17:30 | BRL | CAGED Net Payroll Jobs (Dec) |  | -478.00K | 85.86K |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.957T |
 | 23:00 | KRW | Industrial Production (YoY) (Dec) |  | -2.1% | -1.4% |
