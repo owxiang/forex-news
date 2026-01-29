@@ -60,9 +60,9 @@
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 4.2% | 5.4% | 5.4% |
 | 17:30 | BRL | Low | CAGED Net Payroll Jobs (Dec) | -618.16K | -478.00K | 85.86K |
 | 18:00 | USD | Moderate | 7-Year Note Auction | 4.018% |  | 3.930% |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,585B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.957T |
-| 21:30 | USD | High | U.S. President Trump Speaks |  |  |  |
+| 20 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,585B |
+| 20 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.957T |
+| 20 min | USD | High | U.S. President Trump Speaks |  |  |  |
 | 23:00 | KRW | Low | Industrial Production (YoY) (Dec) |  | -2.1% | -1.4% |
 | 23:00 | KRW | Low | Industrial Production (MoM) (Dec) |  | 0.5% | 0.6% |
 | 23:00 | KRW | Low | Retail Sales (MoM) (Dec) |  |  | -3.3% |
