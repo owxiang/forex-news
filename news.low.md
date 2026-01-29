@@ -8,15 +8,15 @@
 | 00:30 | AUD | Import Price Index (QoQ) (Q4) | 0.9% | -0.2% | -0.4% |
 | 02:30 | SGD | Unemployment Rate (Q4) | 2.0% |  | 2.0% |
 | 05:00 | JPY | Household Confidence (Jan) | 37.9 | 37.1 | 37.2 |
+| 07:00 | CHF | Trade Balance (Dec) | 1.036B | 4.850B | 3.841B |
+| 07:00 | NOK | M3 Money Supply (Dec) | 3,422.1B |  | 3,446.6B |
 | 07:00 | NOK | Credit Indicator (YoY) (Dec) | 4.4% |  | 3.9% |
-| 39 min | CHF | Trade Balance (Dec) |  | 4.850B | 3.841B |
-| 39 min | EUR | Spanish Retail Sales (YoY) (Dec) |  |  | 6.0% |
-| 39 min | NOK | M3 Money Supply (Dec) |  |  | 3,446.6B |
-| 09:00 | EUR | Italian Trade Balance Non-EU (Dec) |  |  | 6.92B |
-| 09:00 | EUR | M3 Money Supply (YoY) (Dec) |  | 3.0% | 3.0% |
-| 09:00 | EUR | M3 Money Supply (Dec) |  |  | 17,189.3B |
-| 09:00 | EUR | Loans to Non Financial Corporations (Dec) |  |  | 3.1% |
-| 09:00 | EUR | Private Sector Loans (YoY) (Dec) |  | 2.9% | 2.9% |
+| 08:00 | EUR | Spanish Retail Sales (YoY) (Dec) | 2.9% |  | 6.0% |
+| 44 min | EUR | Italian Trade Balance Non-EU (Dec) |  |  | 6.92B |
+| 44 min | EUR | M3 Money Supply (YoY) (Dec) |  | 3.0% | 3.0% |
+| 44 min | EUR | M3 Money Supply (Dec) |  |  | 17,189.3B |
+| 44 min | EUR | Loans to Non Financial Corporations (Dec) |  |  | 3.1% |
+| 44 min | EUR | Private Sector Loans (YoY) (Dec) |  | 2.9% | 2.9% |
 | 09:30 | ZAR | PPI (MoM) (Dec) |  |  | 0.0% |
 | 09:30 | ZAR | PPI (YoY) (Dec) |  |  | 2.9% |
 | 10:00 | EUR | Italian Industrial Sales (MoM) (Nov) |  |  | -0.50% |
@@ -45,7 +45,7 @@
 | 15:30 | USD | Natural Gas Storage |  | -237B | -120B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.630% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 3.630% |
-| 17:30 | BRL | CAGED Net Payroll Jobs (Dec) |  |  | 85.86K |
+| 17:30 | BRL | CAGED Net Payroll Jobs (Dec) |  | -478.00K | 85.86K |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.957T |
 | 23:00 | KRW | Industrial Production (YoY) (Dec) |  | -2.1% | -1.4% |
 | 23:00 | KRW | Industrial Production (MoM) (Dec) |  | 0.5% | 0.6% |

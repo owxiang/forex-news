@@ -8,15 +8,15 @@
 | 00:30 | AUD | Low | Import Price Index (QoQ) (Q4) | 0.9% | -0.2% | -0.4% |
 | 02:30 | SGD | Low | Unemployment Rate (Q4) | 2.0% |  | 2.0% |
 | 05:00 | JPY | Low | Household Confidence (Jan) | 37.9 | 37.1 | 37.2 |
+| 07:00 | CHF | Low | Trade Balance (Dec) | 1.036B | 4.850B | 3.841B |
+| 07:00 | NOK | Low | M3 Money Supply (Dec) | 3,422.1B |  | 3,446.6B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Dec) | 4.4% |  | 3.9% |
-| 39 min | CHF | Low | Trade Balance (Dec) |  | 4.850B | 3.841B |
-| 39 min | EUR | Low | Spanish Retail Sales (YoY) (Dec) |  |  | 6.0% |
-| 39 min | NOK | Low | M3 Money Supply (Dec) |  |  | 3,446.6B |
-| 09:00 | EUR | Low | Italian Trade Balance Non-EU (Dec) |  |  | 6.92B |
-| 09:00 | EUR | Low | M3 Money Supply (YoY) (Dec) |  | 3.0% | 3.0% |
-| 09:00 | EUR | Low | M3 Money Supply (Dec) |  |  | 17,189.3B |
-| 09:00 | EUR | Low | Loans to Non Financial Corporations (Dec) |  |  | 3.1% |
-| 09:00 | EUR | Low | Private Sector Loans (YoY) (Dec) |  | 2.9% | 2.9% |
+| 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Dec) | 2.9% |  | 6.0% |
+| 44 min | EUR | Low | Italian Trade Balance Non-EU (Dec) |  |  | 6.92B |
+| 44 min | EUR | Low | M3 Money Supply (YoY) (Dec) |  | 3.0% | 3.0% |
+| 44 min | EUR | Low | M3 Money Supply (Dec) |  |  | 17,189.3B |
+| 44 min | EUR | Low | Loans to Non Financial Corporations (Dec) |  |  | 3.1% |
+| 44 min | EUR | Low | Private Sector Loans (YoY) (Dec) |  | 2.9% | 2.9% |
 | 09:30 | ZAR | Low | PPI (MoM) (Dec) |  |  | 0.0% |
 | 09:30 | ZAR | Low | PPI (YoY) (Dec) |  |  | 2.9% |
 | 10:00 | EUR | Low | Italian Industrial Sales (MoM) (Nov) |  |  | -0.50% |
@@ -58,7 +58,7 @@
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.630% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.630% |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 5.4% | 5.4% |
-| 17:30 | BRL | Low | CAGED Net Payroll Jobs (Dec) |  |  | 85.86K |
+| 17:30 | BRL | Low | CAGED Net Payroll Jobs (Dec) |  | -478.00K | 85.86K |
 | 18:00 | USD | Moderate | 7-Year Note Auction |  |  | 3.930% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,585B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.957T |
