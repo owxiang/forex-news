@@ -17,22 +17,22 @@
 | 09:00 | EUR | Low | M3 Money Supply (Dec) | 17,230.7B |  | 17,189.3B |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Dec) | 3.0% |  | 3.1% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) (Dec) | 3.0% | 2.9% | 2.9% |
-| 11 min | ZAR | Low | PPI (MoM) (Dec) |  |  | 0.0% |
-| 11 min | ZAR | Low | PPI (YoY) (Dec) |  |  | 2.9% |
-| 41 min | EUR | Low | Italian Industrial Sales (MoM) (Nov) |  |  | -0.50% |
-| 41 min | EUR | Low | Italian Industrial Sales (YoY) (Nov) |  |  | 1.70% |
-| 41 min | EUR | Low | Business and Consumer Survey (Jan) |  | 97.0 | 96.7 |
-| 41 min | EUR | Low | Business Climate (Jan) |  |  | -0.56 |
-| 41 min | EUR | Low | Consumer Confidence (Jan) |  | -12.4 | -13.1 |
-| 41 min | EUR | Low | Consumer Inflation Expectation (Jan) |  |  | 26.7 |
-| 41 min | EUR | Low | Selling Price Expectations (Jan) |  |  | 10.9 |
-| 41 min | EUR | Low | Services Sentiment (Jan) |  | 6.0 | 5.6 |
-| 41 min | EUR | Low | Industrial Sentiment (Jan) |  | -8.1 | -9.0 |
-| 51 min | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 3.44% |
-| 51 min | EUR | Low | Italian 5-Year BTP Auction |  |  | 2.74% |
-| 11:00 | EUR | Moderate | France Jobseekers Total (Dec) |  |  | 3,129.3K |
-| 11:00 | EUR | Low | Spanish Business Confidence (Jan) |  |  | -3.5 |
-| 11:00 | BRL | Low | IGP-M Inflation Index (MoM) (Jan) |  |  | -0.01% |
+| 09:30 | ZAR | Low | PPI (MoM) (Dec) | 0.2% |  | 0.0% |
+| 09:30 | ZAR | Low | PPI (YoY) (Dec) | 2.9% |  | 2.9% |
+| 10:00 | EUR | Low | Italian Industrial Sales (MoM) (Nov) | -0.10% |  | -0.60% |
+| 10:00 | EUR | Low | Italian Industrial Sales (YoY) (Nov) | 0.00% |  | 1.70% |
+| 10:00 | EUR | Low | Business and Consumer Survey (Jan) | 99.4 | 97.0 | 97.2 |
+| 10:00 | EUR | Low | Consumer Confidence (Jan) | -12.4 | -12.4 | -13.1 |
+| 10:00 | EUR | Low | Consumer Inflation Expectation (Jan) | 24.1 |  | 26.7 |
+| 10:00 | EUR | Low | Selling Price Expectations (Jan) | 10.0 |  | 10.8 |
+| 10:00 | EUR | Low | Services Sentiment (Jan) | 7.2 | 6.0 | 5.8 |
+| 10:00 | EUR | Low | Industrial Sentiment (Jan) | -6.8 | -8.1 | -8.5 |
+| 10:10 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 3.44% |
+| 10:10 | EUR | Low | Italian 5-Year BTP Auction |  |  | 2.74% |
+| 13 min | EUR | Low | Business Climate (Jan) |  |  | -0.56 |
+| 43 min | EUR | Moderate | France Jobseekers Total (Dec) |  |  | 3,129.3K |
+| 43 min | EUR | Low | Spanish Business Confidence (Jan) |  |  | -3.5 |
+| 43 min | BRL | Low | IGP-M Inflation Index (MoM) (Jan) |  |  | -0.01% |
 | 11:30 | BRL | Low | Bank lending (MoM) (Dec) |  |  | 0.9% |
 | 13:00 | ZAR | Moderate | Interest Rate Decision (Jan) |  | 6.75% | 6.75% |
 | 13:00 | ZAR | Low | Prime Rate (Jan) |  |  | 10.25% |
