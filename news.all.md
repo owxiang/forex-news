@@ -60,13 +60,13 @@
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 4.2% | 5.4% | 5.4% |
 | 17:30 | BRL | Low | CAGED Net Payroll Jobs (Dec) | -618.16K | -478.00K | 85.86K |
 | 18:00 | USD | Moderate | 7-Year Note Auction | 4.018% |  | 3.930% |
-| 20 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,585B |
-| 20 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.957T |
-| 20 min | USD | High | U.S. President Trump Speaks |  |  |  |
-| 23:00 | KRW | Low | Industrial Production (YoY) (Dec) |  | -2.1% | -1.4% |
-| 23:00 | KRW | Low | Industrial Production (MoM) (Dec) |  | 0.5% | 0.6% |
-| 23:00 | KRW | Low | Retail Sales (MoM) (Dec) |  |  | -3.3% |
-| 23:00 | KRW | Low | Service Sector Output (MoM) (Dec) |  |  | 0.7% |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,588B |  | 6,585B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 2.883T |  | 2.957T |
+| 21:30 | USD | High | U.S. President Trump Speaks |  |  |  |
+| 50 min | KRW | Low | Industrial Production (YoY) (Dec) |  | -2.1% | -1.4% |
+| 50 min | KRW | Low | Industrial Production (MoM) (Dec) |  | 0.5% | 0.6% |
+| 50 min | KRW | Low | Retail Sales (MoM) (Dec) |  |  | -3.3% |
+| 50 min | KRW | Low | Service Sector Output (MoM) (Dec) |  |  | 0.7% |
 | 23:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Jan) |  |  | 1.5% |
 | 23:30 | JPY | Low | Jobs/applications ratio (Dec) |  | 1.18 | 1.18 |
 | 23:30 | JPY | Moderate | Tokyo Core CPI (YoY) (Jan) |  | 2.2% | 2.3% |

@@ -15,6 +15,6 @@
 | 15:00 | USD | Factory Orders (MoM) (Nov) | 2.7% | 1.7% | -1.2% |
 | 16:30 | USD | Atlanta Fed GDPNow (Q4) | 4.2% | 5.4% | 5.4% |
 | 18:00 | USD | 7-Year Note Auction | 4.018% |  | 3.930% |
-| 20 min | USD | Fed's Balance Sheet |  |  | 6,585B |
+| 21:30 | USD | Fed's Balance Sheet | 6,588B |  | 6,585B |
 | 23:30 | JPY | Tokyo Core CPI (YoY) (Jan) |  | 2.2% | 2.3% |
 | 23:50 | JPY | Industrial Production (MoM) (Dec) |  | -0.4% | -2.7% |

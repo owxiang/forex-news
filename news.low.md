@@ -46,11 +46,11 @@
 | 16:30 | USD | 4-Week Bill Auction | 3.630% |  | 3.630% |
 | 16:30 | USD | 8-Week Bill Auction | 3.635% |  | 3.630% |
 | 17:30 | BRL | CAGED Net Payroll Jobs (Dec) | -618.16K | -478.00K | 85.86K |
-| 20 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.957T |
-| 23:00 | KRW | Industrial Production (YoY) (Dec) |  | -2.1% | -1.4% |
-| 23:00 | KRW | Industrial Production (MoM) (Dec) |  | 0.5% | 0.6% |
-| 23:00 | KRW | Retail Sales (MoM) (Dec) |  |  | -3.3% |
-| 23:00 | KRW | Service Sector Output (MoM) (Dec) |  |  | 0.7% |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 2.883T |  | 2.957T |
+| 50 min | KRW | Industrial Production (YoY) (Dec) |  | -2.1% | -1.4% |
+| 50 min | KRW | Industrial Production (MoM) (Dec) |  | 0.5% | 0.6% |
+| 50 min | KRW | Retail Sales (MoM) (Dec) |  |  | -3.3% |
+| 50 min | KRW | Service Sector Output (MoM) (Dec) |  |  | 0.7% |
 | 23:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Jan) |  |  | 1.5% |
 | 23:30 | JPY | Jobs/applications ratio (Dec) |  | 1.18 | 1.18 |
 | 23:30 | JPY | Tokyo CPI (YoY) (Jan) |  |  | 2.0% |
