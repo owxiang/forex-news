@@ -63,19 +63,19 @@
 | 21:30 | USD | Moderate | Fed's Balance Sheet | 6,588B |  | 6,585B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 2.883T |  | 2.957T |
 | 21:30 | USD | High | U.S. President Trump Speaks |  |  |  |
-| 50 min | KRW | Low | Industrial Production (YoY) (Dec) |  | -2.1% | -1.4% |
-| 50 min | KRW | Low | Industrial Production (MoM) (Dec) |  | 0.5% | 0.6% |
-| 50 min | KRW | Low | Retail Sales (MoM) (Dec) |  |  | -3.3% |
-| 50 min | KRW | Low | Service Sector Output (MoM) (Dec) |  |  | 0.7% |
-| 23:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Jan) |  |  | 1.5% |
-| 23:30 | JPY | Low | Jobs/applications ratio (Dec) |  | 1.18 | 1.18 |
-| 23:30 | JPY | Moderate | Tokyo Core CPI (YoY) (Jan) |  | 2.2% | 2.3% |
-| 23:30 | JPY | Low | Tokyo CPI (YoY) (Jan) |  |  | 2.0% |
-| 23:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Jan) |  |  | -0.1% |
-| 23:30 | JPY | Low | Unemployment Rate (Dec) |  | 2.6% | 2.6% |
-| 23:50 | JPY | Moderate | Industrial Production (MoM) (Dec) |  | -0.4% | -2.7% |
-| 23:50 | JPY | Low | Industrial Production forecast 1m ahead (MoM) (Jan) |  |  | 1.3% |
-| 23:50 | JPY | Low | Industrial Production forecast 2m ahead (MoM) (Feb) |  |  | 8.0% |
-| 23:50 | JPY | Low | Large Retailers' Sales (MoM) (Dec) |  |  | 0.6% |
-| 23:50 | JPY | Low | Large Scale Retail Sales YoY (YoY) (Dec) |  |  | 5.0% |
-| 23:50 | JPY | Low | Retail Sales (YoY) (Dec) |  | 0.7% | 1.0% |
+| 23:00 | KRW | Low | Industrial Production (YoY) (Dec) | -0.3% | -2.1% | -1.4% |
+| 23:00 | KRW | Low | Industrial Production (MoM) (Dec) | 1.7% | 0.5% | 0.6% |
+| 23:00 | KRW | Low | Retail Sales (MoM) (Dec) | 0.9% |  | -3.3% |
+| 23:00 | KRW | Low | Service Sector Output (MoM) (Dec) | 1.1% |  | 0.7% |
+| 20 min | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Jan) |  |  | 1.5% |
+| 20 min | JPY | Low | Jobs/applications ratio (Dec) |  | 1.18 | 1.18 |
+| 20 min | JPY | Moderate | Tokyo Core CPI (YoY) (Jan) |  | 2.2% | 2.3% |
+| 20 min | JPY | Low | Tokyo CPI (YoY) (Jan) |  |  | 2.0% |
+| 20 min | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Jan) |  |  | -0.1% |
+| 20 min | JPY | Low | Unemployment Rate (Dec) |  | 2.6% | 2.6% |
+| 40 min | JPY | Moderate | Industrial Production (MoM) (Dec) |  | -0.4% | -2.7% |
+| 40 min | JPY | Low | Industrial Production forecast 1m ahead (MoM) (Jan) |  |  | 1.3% |
+| 40 min | JPY | Low | Industrial Production forecast 2m ahead (MoM) (Feb) |  |  | 8.0% |
+| 40 min | JPY | Low | Large Retailers' Sales (MoM) (Dec) |  |  | 0.6% |
+| 40 min | JPY | Low | Large Scale Retail Sales YoY (YoY) (Dec) |  |  | 5.0% |
+| 40 min | JPY | Low | Retail Sales (YoY) (Dec) |  | 0.7% | 1.0% |

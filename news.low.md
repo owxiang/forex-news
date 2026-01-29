@@ -47,17 +47,17 @@
 | 16:30 | USD | 8-Week Bill Auction | 3.635% |  | 3.630% |
 | 17:30 | BRL | CAGED Net Payroll Jobs (Dec) | -618.16K | -478.00K | 85.86K |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks | 2.883T |  | 2.957T |
-| 50 min | KRW | Industrial Production (YoY) (Dec) |  | -2.1% | -1.4% |
-| 50 min | KRW | Industrial Production (MoM) (Dec) |  | 0.5% | 0.6% |
-| 50 min | KRW | Retail Sales (MoM) (Dec) |  |  | -3.3% |
-| 50 min | KRW | Service Sector Output (MoM) (Dec) |  |  | 0.7% |
-| 23:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Jan) |  |  | 1.5% |
-| 23:30 | JPY | Jobs/applications ratio (Dec) |  | 1.18 | 1.18 |
-| 23:30 | JPY | Tokyo CPI (YoY) (Jan) |  |  | 2.0% |
-| 23:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Jan) |  |  | -0.1% |
-| 23:30 | JPY | Unemployment Rate (Dec) |  | 2.6% | 2.6% |
-| 23:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Jan) |  |  | 1.3% |
-| 23:50 | JPY | Industrial Production forecast 2m ahead (MoM) (Feb) |  |  | 8.0% |
-| 23:50 | JPY | Large Retailers' Sales (MoM) (Dec) |  |  | 0.6% |
-| 23:50 | JPY | Large Scale Retail Sales YoY (YoY) (Dec) |  |  | 5.0% |
-| 23:50 | JPY | Retail Sales (YoY) (Dec) |  | 0.7% | 1.0% |
+| 23:00 | KRW | Industrial Production (YoY) (Dec) | -0.3% | -2.1% | -1.4% |
+| 23:00 | KRW | Industrial Production (MoM) (Dec) | 1.7% | 0.5% | 0.6% |
+| 23:00 | KRW | Retail Sales (MoM) (Dec) | 0.9% |  | -3.3% |
+| 23:00 | KRW | Service Sector Output (MoM) (Dec) | 1.1% |  | 0.7% |
+| 20 min | JPY | CPI Tokyo Ex Food & Energy (YoY) (Jan) |  |  | 1.5% |
+| 20 min | JPY | Jobs/applications ratio (Dec) |  | 1.18 | 1.18 |
+| 20 min | JPY | Tokyo CPI (YoY) (Jan) |  |  | 2.0% |
+| 20 min | JPY | CPI Tokyo Ex Food and Energy (MoM) (Jan) |  |  | -0.1% |
+| 20 min | JPY | Unemployment Rate (Dec) |  | 2.6% | 2.6% |
+| 40 min | JPY | Industrial Production forecast 1m ahead (MoM) (Jan) |  |  | 1.3% |
+| 40 min | JPY | Industrial Production forecast 2m ahead (MoM) (Feb) |  |  | 8.0% |
+| 40 min | JPY | Large Retailers' Sales (MoM) (Dec) |  |  | 0.6% |
+| 40 min | JPY | Large Scale Retail Sales YoY (YoY) (Dec) |  |  | 5.0% |
+| 40 min | JPY | Retail Sales (YoY) (Dec) |  | 0.7% | 1.0% |
