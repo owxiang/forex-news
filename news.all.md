@@ -11,18 +11,17 @@
 | 03:35 | JPY | Low | 2-Year JGB Auction | 1.253% |  | 1.129% |
 | 05:00 | JPY | Low | Construction Orders (YoY) (Dec) | 20.2% |  | 9.5% |
 | 05:00 | JPY | Low | Housing Starts (YoY) (Dec) | -1.3% | -4.5% | -8.5% |
-| 34 min | ZAR | Low | Budget Balance (MoM) (Dec) |  |  | -14.99B |
-| 34 min | ZAR | Low | M3 Money Supply (YoY) (Dec) |  |  | 8.26% |
-| 34 min | ZAR | Low | Private Sector Credit (Dec) |  |  | 7.79% |
-| 06:30 | EUR | Moderate | French Consumer Spending (MoM) (Dec) |  | -0.4% | -0.3% |
-| 06:30 | EUR | Moderate | French GDP (QoQ) (Q4) |  | 0.2% | 0.5% |
-| 06:30 | EUR | Moderate | French GDP (YoY) (Q4) |  | 1.2% | 0.9% |
-| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Jan) |  |  | -0.4% |
-| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Jan) |  |  | 0.6% |
-| 07:00 | EUR | Low | German Import Price Index (MoM) (Dec) |  | -0.4% | 0.5% |
-| 07:00 | EUR | Low | German Import Price Index (YoY) (Dec) |  | -2.6% | -1.9% |
-| 07:00 | NOK | Low | Unemployment Rate n.s.a. (Jan) |  | 2.10% | 2.10% |
-| 07:00 | NOK | Low | Core Retail Sales (MoM) (Dec) |  |  | 1.3% |
+| 06:00 | ZAR | Low | M3 Money Supply (YoY) (Dec) | 8.16% |  | 8.26% |
+| 06:00 | ZAR | Low | Private Sector Credit (Dec) | 8.74% |  | 7.79% |
+| 7 min | EUR | Moderate | French Consumer Spending (MoM) (Dec) |  | -0.4% | -0.3% |
+| 7 min | EUR | Moderate | French GDP (QoQ) (Q4) |  | 0.2% | 0.5% |
+| 7 min | EUR | Moderate | French GDP (YoY) (Q4) |  | 1.2% | 0.9% |
+| 37 min | GBP | Moderate | Nationwide HPI (MoM) (Jan) |  |  | -0.4% |
+| 37 min | GBP | Moderate | Nationwide HPI (YoY) (Jan) |  |  | 0.6% |
+| 37 min | EUR | Low | German Import Price Index (MoM) (Dec) |  | -0.4% | 0.5% |
+| 37 min | EUR | Low | German Import Price Index (YoY) (Dec) |  | -2.6% | -1.9% |
+| 37 min | NOK | Low | Unemployment Rate n.s.a. (Jan) |  | 2.10% | 2.10% |
+| 37 min | NOK | Low | Core Retail Sales (MoM) (Dec) |  |  | 1.3% |
 | 07:30 | SGD | Low | Unemployment Rate (Q4) |  |  | 2.0% |
 | 07:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q4) |  |  | 0.0% |
 | 07:45 | EUR | Low | French PPI (MoM) (Dec) |  |  | 1.1% |
@@ -36,6 +35,7 @@
 | 08:00 | EUR | Low | Spanish GDP (YoY) (Q4) |  | 2.7% | 2.8% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Jan) |  | -0.8% | 0.3% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jan) |  | 2.4% | 3.0% |
+| 08:00 | ZAR | Low | Budget Balance (MoM) (Dec) |  |  | -14.99B |
 | 08:30 | HKD | Low | M3 Money Supply (Dec) |  |  | 4.5% |
 | 08:55 | EUR | Moderate | German Unemployment Change (Jan) |  | 4K | 3K |
 | 08:55 | EUR | Moderate | German Unemployment Rate (Jan) |  | 6.3% | 6.3% |

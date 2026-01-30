@@ -9,13 +9,12 @@
 | 03:35 | JPY | 2-Year JGB Auction | 1.253% |  | 1.129% |
 | 05:00 | JPY | Construction Orders (YoY) (Dec) | 20.2% |  | 9.5% |
 | 05:00 | JPY | Housing Starts (YoY) (Dec) | -1.3% | -4.5% | -8.5% |
-| 34 min | ZAR | Budget Balance (MoM) (Dec) |  |  | -14.99B |
-| 34 min | ZAR | M3 Money Supply (YoY) (Dec) |  |  | 8.26% |
-| 34 min | ZAR | Private Sector Credit (Dec) |  |  | 7.79% |
-| 07:00 | EUR | German Import Price Index (MoM) (Dec) |  | -0.4% | 0.5% |
-| 07:00 | EUR | German Import Price Index (YoY) (Dec) |  | -2.6% | -1.9% |
-| 07:00 | NOK | Unemployment Rate n.s.a. (Jan) |  | 2.10% | 2.10% |
-| 07:00 | NOK | Core Retail Sales (MoM) (Dec) |  |  | 1.3% |
+| 06:00 | ZAR | M3 Money Supply (YoY) (Dec) | 8.16% |  | 8.26% |
+| 06:00 | ZAR | Private Sector Credit (Dec) | 8.74% |  | 7.79% |
+| 37 min | EUR | German Import Price Index (MoM) (Dec) |  | -0.4% | 0.5% |
+| 37 min | EUR | German Import Price Index (YoY) (Dec) |  | -2.6% | -1.9% |
+| 37 min | NOK | Unemployment Rate n.s.a. (Jan) |  | 2.10% | 2.10% |
+| 37 min | NOK | Core Retail Sales (MoM) (Dec) |  |  | 1.3% |
 | 07:30 | SGD | Unemployment Rate (Q4) |  |  | 2.0% |
 | 07:45 | EUR | French Non-Farm Payrolls (QoQ) (Q4) |  |  | 0.0% |
 | 07:45 | EUR | French PPI (MoM) (Dec) |  |  | 1.1% |
@@ -25,6 +24,7 @@
 | 08:00 | EUR | Spanish CPI (MoM) (Jan) |  | -0.3% | 0.3% |
 | 08:00 | EUR | Spanish GDP (YoY) (Q4) |  | 2.7% | 2.8% |
 | 08:00 | EUR | Spanish HICP (MoM) (Jan) |  | -0.8% | 0.3% |
+| 08:00 | ZAR | Budget Balance (MoM) (Dec) |  |  | -14.99B |
 | 08:30 | HKD | M3 Money Supply (Dec) |  |  | 4.5% |
 | 08:55 | EUR | German Unemployment (Jan) |  |  | 2.977M |
 | 08:55 | EUR | German Unemployment n.s.a. (Jan) |  |  | 2.910M |

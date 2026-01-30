@@ -4,11 +4,11 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | PPI (QoQ) (Q4) | 0.8% | 1.1% | 1.0% |
 | 00:30 | AUD | PPI (YoY) (Q4) | 3.5% |  | 3.5% |
-| 06:30 | EUR | French Consumer Spending (MoM) (Dec) |  | -0.4% | -0.3% |
-| 06:30 | EUR | French GDP (QoQ) (Q4) |  | 0.2% | 0.5% |
-| 06:30 | EUR | French GDP (YoY) (Q4) |  | 1.2% | 0.9% |
-| 07:00 | GBP | Nationwide HPI (MoM) (Jan) |  |  | -0.4% |
-| 07:00 | GBP | Nationwide HPI (YoY) (Jan) |  |  | 0.6% |
+| 7 min | EUR | French Consumer Spending (MoM) (Dec) |  | -0.4% | -0.3% |
+| 7 min | EUR | French GDP (QoQ) (Q4) |  | 0.2% | 0.5% |
+| 7 min | EUR | French GDP (YoY) (Q4) |  | 1.2% | 0.9% |
+| 37 min | GBP | Nationwide HPI (MoM) (Jan) |  |  | -0.4% |
+| 37 min | GBP | Nationwide HPI (YoY) (Jan) |  |  | 0.6% |
 | 08:00 | CHF | KOF Leading Indicators (Jan) |  | 103.1 | 103.4 |
 | 08:00 | EUR | Spanish CPI (YoY) (Jan) |  | 2.4% | 2.9% |
 | 08:00 | EUR | Spanish GDP (QoQ) (Q4) |  | 0.6% | 0.6% |
