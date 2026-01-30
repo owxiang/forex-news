@@ -69,8 +69,8 @@
 | 13:30 | USD | PPI (YoY) (Dec) | 3.0% | 2.7% | 3.0% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Dec) | 3.5% |  | 3.5% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Dec) | 0.4% |  | 0.2% |
-| 45 min | CAD | Budget Balance (Nov) |  |  | -2.28B |
-| 45 min | CAD | Budget Balance (YoY) (Nov) |  |  | -18.37B |
+| 16:00 | CAD | Budget Balance (Nov) | -8.02B |  | -2.28B |
+| 16:00 | CAD | Budget Balance (YoY) (Nov) | -26.39B |  | -18.37B |
 | 19:00 | MXN | Fiscal Balance (Dec) |  |  | -200.52B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -3.4K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 52.6K |
