@@ -9,11 +9,11 @@
 | 02:00 | SGD | Low | Bank Lending (Dec) | 886.1B |  | 873.1B |
 | 02:00 | NZD | Low | M3 Money Supply (Dec) | 447.9B |  | 443.6B |
 | 03:35 | JPY | Low | 2-Year JGB Auction | 1.253% |  | 1.129% |
-| 23 min | JPY | Low | Construction Orders (YoY) (Dec) |  |  | 9.5% |
-| 23 min | JPY | Low | Housing Starts (YoY) (Dec) |  | -4.5% | -8.5% |
-| 06:00 | ZAR | Low | Budget Balance (MoM) (Dec) |  |  | -14.99B |
-| 06:00 | ZAR | Low | M3 Money Supply (YoY) (Dec) |  |  | 8.26% |
-| 06:00 | ZAR | Low | Private Sector Credit (Dec) |  |  | 7.79% |
+| 05:00 | JPY | Low | Construction Orders (YoY) (Dec) | 20.2% |  | 9.5% |
+| 05:00 | JPY | Low | Housing Starts (YoY) (Dec) | -1.3% | -4.5% | -8.5% |
+| 34 min | ZAR | Low | Budget Balance (MoM) (Dec) |  |  | -14.99B |
+| 34 min | ZAR | Low | M3 Money Supply (YoY) (Dec) |  |  | 8.26% |
+| 34 min | ZAR | Low | Private Sector Credit (Dec) |  |  | 7.79% |
 | 06:30 | EUR | Moderate | French Consumer Spending (MoM) (Dec) |  | -0.4% | -0.3% |
 | 06:30 | EUR | Moderate | French GDP (QoQ) (Q4) |  | 0.2% | 0.5% |
 | 06:30 | EUR | Moderate | French GDP (YoY) (Q4) |  | 1.2% | 0.9% |
@@ -33,7 +33,7 @@
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Jan) |  | -0.3% | 0.3% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jan) |  | 2.4% | 2.9% |
 | 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q4) |  | 0.6% | 0.6% |
-| 08:00 | EUR | Low | Spanish GDP (YoY) (Q4) |  |  | 2.8% |
+| 08:00 | EUR | Low | Spanish GDP (YoY) (Q4) |  | 2.7% | 2.8% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Jan) |  | -0.8% | 0.3% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jan) |  | 2.4% | 3.0% |
 | 08:30 | HKD | Low | M3 Money Supply (Dec) |  |  | 4.5% |
@@ -42,7 +42,7 @@
 | 08:55 | EUR | Low | German Unemployment (Jan) |  |  | 2.977M |
 | 08:55 | EUR | Low | German Unemployment n.s.a. (Jan) |  |  | 2.910M |
 | 09:00 | EUR | Low | Italian GDP (QoQ) (Q4) |  | 0.2% | 0.1% |
-| 09:00 | EUR | Low | Italian GDP (YoY) (Q4) |  |  | 0.6% |
+| 09:00 | EUR | Low | Italian GDP (YoY) (Q4) |  | 0.5% | 0.6% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Jan) |  |  | 0.2% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Jan) |  |  | 1.9% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Jan) |  |  | 1.7% |
@@ -86,10 +86,10 @@
 | 12:00 | BRL | Moderate | Unemployment Rate (Dec) |  | 5.1% | 5.2% |
 | 12:00 | ZAR | Low | Trade Balance (Dec) |  |  | 37.73B |
 | 13:00 | EUR | High | German CPI (MoM) (Jan) |  | 0.0% | 0.0% |
-| 13:00 | EUR | Moderate | German CPI (YoY) (Jan) |  | 2.2% | 1.8% |
+| 13:00 | EUR | Moderate | German CPI (YoY) (Jan) |  | 2.0% | 1.8% |
 | 13:00 | EUR | Low | German HICP (MoM) (Jan) |  | -0.2% | 0.2% |
 | 13:00 | EUR | Low | German HICP (YoY) (Jan) |  | 2.0% | 2.0% |
-| 13:30 | USD | Moderate | Core PPI (MoM) (Dec) |  | 0.3% | 0.0% |
+| 13:30 | USD | Moderate | Core PPI (MoM) (Dec) |  | 0.2% | 0.0% |
 | 13:30 | USD | Low | Core PPI (YoY) (Dec) |  | 2.9% | 3.0% |
 | 13:30 | USD | High | PPI (MoM) (Dec) |  | 0.2% | 0.2% |
 | 13:30 | USD | Low | PPI (YoY) (Dec) |  | 2.7% | 3.0% |
@@ -105,7 +105,6 @@
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 544 |
 | 18:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 19:00 | MXN | Low | Fiscal Balance (Dec) |  |  | -200.52B |
-| 20:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -22.0K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -3.4K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 52.6K |

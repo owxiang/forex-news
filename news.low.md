@@ -7,11 +7,11 @@
 | 02:00 | SGD | Bank Lending (Dec) | 886.1B |  | 873.1B |
 | 02:00 | NZD | M3 Money Supply (Dec) | 447.9B |  | 443.6B |
 | 03:35 | JPY | 2-Year JGB Auction | 1.253% |  | 1.129% |
-| 23 min | JPY | Construction Orders (YoY) (Dec) |  |  | 9.5% |
-| 23 min | JPY | Housing Starts (YoY) (Dec) |  | -4.5% | -8.5% |
-| 06:00 | ZAR | Budget Balance (MoM) (Dec) |  |  | -14.99B |
-| 06:00 | ZAR | M3 Money Supply (YoY) (Dec) |  |  | 8.26% |
-| 06:00 | ZAR | Private Sector Credit (Dec) |  |  | 7.79% |
+| 05:00 | JPY | Construction Orders (YoY) (Dec) | 20.2% |  | 9.5% |
+| 05:00 | JPY | Housing Starts (YoY) (Dec) | -1.3% | -4.5% | -8.5% |
+| 34 min | ZAR | Budget Balance (MoM) (Dec) |  |  | -14.99B |
+| 34 min | ZAR | M3 Money Supply (YoY) (Dec) |  |  | 8.26% |
+| 34 min | ZAR | Private Sector Credit (Dec) |  |  | 7.79% |
 | 07:00 | EUR | German Import Price Index (MoM) (Dec) |  | -0.4% | 0.5% |
 | 07:00 | EUR | German Import Price Index (YoY) (Dec) |  | -2.6% | -1.9% |
 | 07:00 | NOK | Unemployment Rate n.s.a. (Jan) |  | 2.10% | 2.10% |
@@ -23,13 +23,13 @@
 | 08:00 | CHF | Official Reserves Assets (Dec) |  |  | 852.4B |
 | 08:00 | EUR | Core CPI (YoY) (Jan) |  |  | 2.6% |
 | 08:00 | EUR | Spanish CPI (MoM) (Jan) |  | -0.3% | 0.3% |
-| 08:00 | EUR | Spanish GDP (YoY) (Q4) |  |  | 2.8% |
+| 08:00 | EUR | Spanish GDP (YoY) (Q4) |  | 2.7% | 2.8% |
 | 08:00 | EUR | Spanish HICP (MoM) (Jan) |  | -0.8% | 0.3% |
 | 08:30 | HKD | M3 Money Supply (Dec) |  |  | 4.5% |
 | 08:55 | EUR | German Unemployment (Jan) |  |  | 2.977M |
 | 08:55 | EUR | German Unemployment n.s.a. (Jan) |  |  | 2.910M |
 | 09:00 | EUR | Italian GDP (QoQ) (Q4) |  | 0.2% | 0.1% |
-| 09:00 | EUR | Italian GDP (YoY) (Q4) |  |  | 0.6% |
+| 09:00 | EUR | Italian GDP (YoY) (Q4) |  | 0.5% | 0.6% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Jan) |  |  | 0.2% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jan) |  |  | 1.9% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Jan) |  |  | 1.7% |
