@@ -1,63 +1,85 @@
-## 29 January 2026 - Low Impact Forex News
+## 30 January 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | NZD | ANZ Business Confidence (Jan) | 64.1 |  | 73.6 |
-| 00:00 | NZD | NBNZ Own Activity (Jan) | 51.6% |  | 60.9% |
-| 00:30 | AUD | Export Price Index (QoQ) (Q4) | 3.2% |  | -0.9% |
-| 00:30 | AUD | Import Price Index (QoQ) (Q4) | 0.9% | -0.2% | -0.4% |
-| 02:30 | SGD | Unemployment Rate (Q4) | 2.0% |  | 2.0% |
-| 05:00 | JPY | Household Confidence (Jan) | 37.9 | 37.1 | 37.2 |
-| 07:00 | CHF | Trade Balance (Dec) | 1.036B | 4.850B | 3.841B |
-| 07:00 | NOK | M3 Money Supply (Dec) | 3,422.1B |  | 3,446.6B |
-| 07:00 | NOK | Credit Indicator (YoY) (Dec) | 4.4% |  | 3.9% |
-| 08:00 | EUR | Spanish Retail Sales (YoY) (Dec) | 2.9% |  | 6.0% |
-| 09:00 | EUR | Italian Trade Balance Non-EU (Dec) | 8.39B |  | 7.04B |
-| 09:00 | EUR | M3 Money Supply (YoY) (Dec) | 2.8% | 3.0% | 3.0% |
-| 09:00 | EUR | M3 Money Supply (Dec) | 17,230.7B |  | 17,189.3B |
-| 09:00 | EUR | Loans to Non Financial Corporations (Dec) | 3.0% |  | 3.1% |
-| 09:00 | EUR | Private Sector Loans (YoY) (Dec) | 3.0% | 2.9% | 2.9% |
-| 09:30 | ZAR | PPI (MoM) (Dec) | 0.2% |  | 0.0% |
-| 09:30 | ZAR | PPI (YoY) (Dec) | 2.9% |  | 2.9% |
-| 10:00 | EUR | Italian Industrial Sales (MoM) (Nov) | -0.10% |  | -0.60% |
-| 10:00 | EUR | Italian Industrial Sales (YoY) (Nov) | 0.00% |  | 1.70% |
-| 10:00 | EUR | Business and Consumer Survey (Jan) | 99.4 | 97.0 | 97.2 |
-| 10:00 | EUR | Business Climate (Jan) | -0.41 |  | -0.56 |
-| 10:00 | EUR | Consumer Confidence (Jan) | -12.4 | -12.4 | -13.1 |
-| 10:00 | EUR | Consumer Inflation Expectation (Jan) | 24.1 |  | 26.7 |
-| 10:00 | EUR | Selling Price Expectations (Jan) | 10.0 |  | 10.8 |
-| 10:00 | EUR | Services Sentiment (Jan) | 7.2 | 6.0 | 5.8 |
-| 10:00 | EUR | Industrial Sentiment (Jan) | -6.8 | -8.1 | -8.5 |
-| 10:10 | EUR | Italian 5-Year BTP Auction | 2.74% |  | 2.74% |
-| 11:00 | BRL | IGP-M Inflation Index (MoM) (Jan) | 0.41% | 0.41% | -0.01% |
-| 11:30 | BRL | Bank lending (MoM) (Dec) | 1.8% |  | 0.9% |
-| 12:00 | EUR | Spanish Business Confidence (Jan) | -3.0 |  | -3.4 |
-| 13:00 | ZAR | Prime Rate (Jan) | 10.25% |  | 10.25% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. | 206.25K |  | 204.00K |
-| 13:30 | CAD | Average Weekly Earnings (YoY) (Nov) | 2.45% |  | 2.00% |
-| 13:30 | CAD | Exports (Nov) | 63.94B |  | 65.78B |
-| 13:30 | CAD | Imports (Nov) | 66.14B |  | 66.18B |
-| 15:00 | USD | Durables Excluding Defense (MoM) (Nov) | 6.5% |  | 6.6% |
-| 15:00 | USD | Durables Excluding Transport (MoM) (Nov) | 0.4% |  | 0.5% |
-| 15:00 | USD | Factory orders ex transportation (MoM) (Nov) | 0.2% |  | -0.1% |
-| 15:00 | USD | Wholesale Inventories (MoM) (Nov) | 0.2% | 0.2% | 0.5% |
-| 15:00 | USD | Wholesale Trade Sales (MoM) (Nov) | 1.3% |  | -0.4% |
-| 15:30 | USD | Natural Gas Storage | -242B | -237B | -120B |
-| 16:30 | USD | 4-Week Bill Auction | 3.630% |  | 3.630% |
-| 16:30 | USD | 8-Week Bill Auction | 3.635% |  | 3.630% |
-| 17:30 | BRL | CAGED Net Payroll Jobs (Dec) | -618.16K | -478.00K | 85.86K |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 2.883T |  | 2.957T |
-| 23:00 | KRW | Industrial Production (YoY) (Dec) | -0.3% | -2.1% | -1.4% |
-| 23:00 | KRW | Industrial Production (MoM) (Dec) | 1.7% | 0.5% | 0.6% |
-| 23:00 | KRW | Retail Sales (MoM) (Dec) | 0.9% |  | -3.3% |
-| 23:00 | KRW | Service Sector Output (MoM) (Dec) | 1.1% |  | 0.7% |
-| 20 min | JPY | CPI Tokyo Ex Food & Energy (YoY) (Jan) |  |  | 1.5% |
-| 20 min | JPY | Jobs/applications ratio (Dec) |  | 1.18 | 1.18 |
-| 20 min | JPY | Tokyo CPI (YoY) (Jan) |  |  | 2.0% |
-| 20 min | JPY | CPI Tokyo Ex Food and Energy (MoM) (Jan) |  |  | -0.1% |
-| 20 min | JPY | Unemployment Rate (Dec) |  | 2.6% | 2.6% |
-| 40 min | JPY | Industrial Production forecast 1m ahead (MoM) (Jan) |  |  | 1.3% |
-| 40 min | JPY | Industrial Production forecast 2m ahead (MoM) (Feb) |  |  | 8.0% |
-| 40 min | JPY | Large Retailers' Sales (MoM) (Dec) |  |  | 0.6% |
-| 40 min | JPY | Large Scale Retail Sales YoY (YoY) (Dec) |  |  | 5.0% |
-| 40 min | JPY | Retail Sales (YoY) (Dec) |  | 0.7% | 1.0% |
+| 00:30 | AUD | Housing Credit (Dec) | 0.7% |  | 0.6% |
+| 00:30 | AUD | Private Sector Credit (MoM) (Dec) | 0.8% | 0.6% | 0.6% |
+| 02:00 | SGD | Bank Lending (Dec) |  |  | 873.1B |
+| 02:00 | NZD | M3 Money Supply (Dec) |  |  | 443,578.0B |
+| 02:19 | ZAR | Budget Balance (MoM) (Dec) |  |  | -14.99B |
+| 05:00 | JPY | Construction Orders (YoY) (Dec) |  |  | 9.5% |
+| 05:00 | JPY | Housing Starts (YoY) (Dec) |  | -4.5% | -8.5% |
+| 06:00 | ZAR | M3 Money Supply (YoY) (Dec) |  |  | 8.26% |
+| 06:00 | ZAR | Private Sector Credit (Dec) |  |  | 7.79% |
+| 07:00 | EUR | German Import Price Index (MoM) (Dec) |  | -0.4% | 0.5% |
+| 07:00 | EUR | German Import Price Index (YoY) (Dec) |  | -2.6% | -1.9% |
+| 07:00 | NOK | Unemployment Rate n.s.a. (Jan) |  | 2.10% | 2.10% |
+| 07:00 | NOK | Core Retail Sales (MoM) (Dec) |  |  | 1.3% |
+| 07:30 | SGD | Unemployment Rate (Q4) |  |  | 2.0% |
+| 07:45 | EUR | French Non-Farm Payrolls (QoQ) (Q4) |  |  | 0.0% |
+| 07:45 | EUR | French PPI (MoM) (Dec) |  |  | 1.1% |
+| 07:45 | EUR | PPI (YoY) (Dec) |  |  | -3.30% |
+| 08:00 | CHF | Official Reserves Assets (Dec) |  |  | 852.4B |
+| 08:00 | EUR | Core CPI (YoY) (Jan) |  |  | 2.6% |
+| 08:00 | EUR | Spanish CPI (MoM) (Jan) |  | -0.3% | 0.3% |
+| 08:00 | EUR | Spanish GDP (YoY) (Q4) |  |  | 2.8% |
+| 08:00 | EUR | Spanish HICP (MoM) (Jan) |  | -0.8% | 0.3% |
+| 08:30 | HKD | M3 Money Supply (Dec) |  |  | 4.5% |
+| 08:55 | EUR | German Unemployment (Jan) |  |  | 2.977M |
+| 08:55 | EUR | German Unemployment n.s.a. (Jan) |  |  | 2.910M |
+| 09:00 | EUR | Italian GDP (QoQ) (Q4) |  | 0.2% | 0.1% |
+| 09:00 | EUR | Italian GDP (YoY) (Q4) |  |  | 0.6% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Jan) |  |  | 0.2% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jan) |  |  | 1.9% |
+| 09:00 | EUR | Bavaria CPI (YoY) (Jan) |  |  | 1.7% |
+| 09:00 | EUR | Bavaria CPI (MoM) (Jan) |  |  | 0.0% |
+| 09:00 | EUR | Brandenburg CPI (YoY) (Jan) |  |  | 2.2% |
+| 09:00 | EUR | Brandenburg CPI (MoM) (Jan) |  |  | 0.4% |
+| 09:00 | EUR | Hesse CPI (MoM) (Jan) |  |  | 0.1% |
+| 09:00 | EUR | Hesse CPI (YoY) (Jan) |  |  | 2.2% |
+| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Jan) |  |  | 0.0% |
+| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Jan) |  |  | 1.8% |
+| 09:00 | EUR | Saxony CPI (YoY) (Jan) |  |  | 1.9% |
+| 09:00 | EUR | Saxony CPI (MoM) (Jan) |  |  | 0.2% |
+| 09:00 | EUR | Spanish Current account (Nov) |  |  | 7.18B |
+| 09:00 | NOK | Central Bank Currency Purchase (Feb) |  |  | -650.0M |
+| 09:30 | GBP | BoE Consumer Credit (Dec) |  | 1.700B | 2.077B |
+| 09:30 | GBP | M3 Money Supply (Dec) |  |  | 3,200.7B |
+| 09:30 | GBP | M4 Money Supply (MoM) (Dec) |  | 0.3% | 0.8% |
+| 09:30 | GBP | Mortgage Approvals (Dec) |  | 65.00K | 64.53K |
+| 09:30 | GBP | Mortgage Lending (Dec) |  | 4.50B | 4.49B |
+| 09:30 | GBP | Net Lending to Individuals (Dec) |  | 6.100B | 6.600B |
+| 10:00 | EUR | Italian Monthly Unemployment Rate (Dec) |  | 5.8% | 5.7% |
+| 10:00 | INR | Federal Fiscal Deficit (Dec) |  |  | 9,766.71B |
+| 11:00 | EUR | Italian PPI (MoM) (Dec) |  |  | 1.0% |
+| 11:00 | EUR | Italian PPI (YoY) (Dec) |  |  | -0.2% |
+| 11:00 | BRL | IGP-M Inflation Index (MoM) (Jan) |  | 0.41% | -0.01% |
+| 11:30 | INR | Bank Loan Growth |  |  | 14.5% |
+| 11:30 | INR | Deposit Growth |  |  | 12.7% |
+| 11:30 | INR | FX Reserves, USD |  |  | 701.36B |
+| 11:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
+| 11:30 | BRL | Net Debt-to-GDP ratio (Dec) |  |  | 65.2% |
+| 11:30 | BRL | Budget Balance (Dec) |  | -95.400B | -101.600B |
+| 11:30 | BRL | Budget Surplus (Dec) |  |  | -14.400B |
+| 12:00 | ZAR | Trade Balance (Dec) |  |  | 37.73B |
+| 13:00 | EUR | German HICP (MoM) (Jan) |  | -0.2% | 0.2% |
+| 13:00 | EUR | German HICP (YoY) (Jan) |  | 2.0% | 2.0% |
+| 13:30 | USD | Core PPI (YoY) (Dec) |  | 2.9% | 3.0% |
+| 13:30 | USD | PPI (YoY) (Dec) |  | 2.7% | 3.0% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Dec) |  |  | 3.5% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Dec) |  |  | 0.2% |
+| 16:00 | CAD | Budget Balance (Nov) |  |  | -2.28B |
+| 16:00 | CAD | Budget Balance (YoY) (Nov) |  |  | -18.37B |
+| 17:30 | BRL | CAGED Net Payroll Jobs (Dec) |  |  | 85.86K |
+| 19:00 | MXN | Fiscal Balance (Dec) |  |  | -200.52B |
+| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -3.4K |
+| 20:30 | USD | CFTC Copper speculative net positions |  |  | 52.6K |
+| 20:30 | USD | CFTC Corn speculative net positions |  |  | -51.7K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -193.5K |
+| 20:30 | USD | CFTC Silver speculative net positions |  |  | 25.2K |
+| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 58.1K |
+| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -93.7K |
+| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -41.8K |
+| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 107.2K |
+| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -43.2K |
+| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -49.6K |
