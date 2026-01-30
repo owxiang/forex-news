@@ -65,25 +65,24 @@
 | 09:30 | GBP | Low | Net Lending to Individuals (Dec) | 6.100B | 6.100B | 6.600B |
 | 09:30 | EUR | Low | Italian Monthly Unemployment Rate (Dec) | 5.6% | 5.8% | 5.6% |
 | 09:40 | ZAR | Low | Budget Balance (MoM) (Dec) | 38.44B |  | -14.99B |
+| 10:00 | INR | Low | Federal Fiscal Deficit (Dec) | 8,558.42B |  | 9,766.71B |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q4) | 0.3% | 0.2% | 0.3% |
 | 10:00 | EUR | Moderate | GDP (YoY) (Q4) | 1.3% | 1.2% | 1.4% |
 | 10:00 | EUR | Moderate | Unemployment Rate (Dec) | 6.2% | 6.3% | 6.3% |
-| 16 min | INR | Low | Federal Fiscal Deficit (Dec) |  |  | 9,766.71B |
-| 46 min | EUR | Low | Italian PPI (MoM) (Dec) |  |  | 1.0% |
-| 46 min | EUR | Low | Italian PPI (YoY) (Dec) |  |  | -0.2% |
-| 46 min | BRL | Low | IGP-M Inflation Index (MoM) (Jan) |  | 0.41% | -0.01% |
-| 11:30 | INR | Low | Bank Loan Growth |  |  | 14.5% |
-| 11:30 | INR | Low | Deposit Growth |  |  | 12.7% |
-| 11:30 | INR | Low | FX Reserves, USD |  |  | 701.36B |
-| 11:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
-| 11:30 | BRL | Low | Net Debt-to-GDP ratio (Dec) |  |  | 65.2% |
-| 11:30 | BRL | Low | Budget Balance (Dec) |  | -95.400B | -101.600B |
-| 11:30 | BRL | Low | Budget Surplus (Dec) |  |  | -14.400B |
-| 11:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Dec) |  | 79.5% | 79.0% |
-| 12:00 | MXN | Moderate | GDP (YoY) (Q4) |  | 1.3% | -0.1% |
-| 12:00 | MXN | Moderate | GDP (QoQ) (Q4) |  | 0.6% | -0.3% |
-| 12:00 | BRL | Moderate | Unemployment Rate (Dec) |  | 5.1% | 5.2% |
-| 12:00 | ZAR | Low | Trade Balance (Dec) |  |  | 37.73B |
+| 11:00 | EUR | Low | Italian PPI (MoM) (Dec) | -0.7% |  | 1.0% |
+| 11:00 | EUR | Low | Italian PPI (YoY) (Dec) | -1.4% |  | -0.2% |
+| 17 min | INR | Low | Bank Loan Growth |  |  | 14.5% |
+| 17 min | INR | Low | Deposit Growth |  |  | 12.7% |
+| 17 min | INR | Low | FX Reserves, USD |  |  | 701.36B |
+| 17 min | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
+| 17 min | BRL | Low | Net Debt-to-GDP ratio (Dec) |  |  | 65.2% |
+| 17 min | BRL | Low | Budget Balance (Dec) |  | -95.400B | -101.600B |
+| 17 min | BRL | Low | Budget Surplus (Dec) |  |  | -14.400B |
+| 17 min | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Dec) |  | 79.5% | 79.0% |
+| 47 min | MXN | Moderate | GDP (YoY) (Q4) |  | 1.3% | -0.1% |
+| 47 min | MXN | Moderate | GDP (QoQ) (Q4) |  | 0.6% | -0.3% |
+| 47 min | BRL | Moderate | Unemployment Rate (Dec) |  | 5.1% | 5.2% |
+| 47 min | ZAR | Low | Trade Balance (Dec) |  |  | 37.73B |
 | 13:00 | EUR | High | German CPI (MoM) (Jan) |  | 0.0% | 0.0% |
 | 13:00 | EUR | Moderate | German CPI (YoY) (Jan) |  | 2.0% | 1.8% |
 | 13:00 | EUR | Low | German HICP (MoM) (Jan) |  | -0.2% | 0.2% |

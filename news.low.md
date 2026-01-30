@@ -52,18 +52,17 @@
 | 09:30 | GBP | Net Lending to Individuals (Dec) | 6.100B | 6.100B | 6.600B |
 | 09:30 | EUR | Italian Monthly Unemployment Rate (Dec) | 5.6% | 5.8% | 5.6% |
 | 09:40 | ZAR | Budget Balance (MoM) (Dec) | 38.44B |  | -14.99B |
-| 16 min | INR | Federal Fiscal Deficit (Dec) |  |  | 9,766.71B |
-| 46 min | EUR | Italian PPI (MoM) (Dec) |  |  | 1.0% |
-| 46 min | EUR | Italian PPI (YoY) (Dec) |  |  | -0.2% |
-| 46 min | BRL | IGP-M Inflation Index (MoM) (Jan) |  | 0.41% | -0.01% |
-| 11:30 | INR | Bank Loan Growth |  |  | 14.5% |
-| 11:30 | INR | Deposit Growth |  |  | 12.7% |
-| 11:30 | INR | FX Reserves, USD |  |  | 701.36B |
-| 11:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
-| 11:30 | BRL | Net Debt-to-GDP ratio (Dec) |  |  | 65.2% |
-| 11:30 | BRL | Budget Balance (Dec) |  | -95.400B | -101.600B |
-| 11:30 | BRL | Budget Surplus (Dec) |  |  | -14.400B |
-| 12:00 | ZAR | Trade Balance (Dec) |  |  | 37.73B |
+| 10:00 | INR | Federal Fiscal Deficit (Dec) | 8,558.42B |  | 9,766.71B |
+| 11:00 | EUR | Italian PPI (MoM) (Dec) | -0.7% |  | 1.0% |
+| 11:00 | EUR | Italian PPI (YoY) (Dec) | -1.4% |  | -0.2% |
+| 17 min | INR | Bank Loan Growth |  |  | 14.5% |
+| 17 min | INR | Deposit Growth |  |  | 12.7% |
+| 17 min | INR | FX Reserves, USD |  |  | 701.36B |
+| 17 min | INR | RBI Monetary and Credit Information Review |  |  |  |
+| 17 min | BRL | Net Debt-to-GDP ratio (Dec) |  |  | 65.2% |
+| 17 min | BRL | Budget Balance (Dec) |  | -95.400B | -101.600B |
+| 17 min | BRL | Budget Surplus (Dec) |  |  | -14.400B |
+| 47 min | ZAR | Trade Balance (Dec) |  |  | 37.73B |
 | 13:00 | EUR | German HICP (MoM) (Jan) |  | -0.2% | 0.2% |
 | 13:00 | EUR | German HICP (YoY) (Jan) |  | 2.0% | 2.0% |
 | 13:30 | USD | Core PPI (YoY) (Dec) |  | 2.9% | 3.0% |
