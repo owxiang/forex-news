@@ -11,12 +11,12 @@
 | 08:00 | EUR | Spanish CPI (YoY) (Jan) | 2.4% | 2.4% | 2.9% |
 | 08:00 | EUR | Spanish GDP (QoQ) (Q4) | 0.8% | 0.6% | 0.6% |
 | 08:00 | EUR | Spanish HICP (YoY) (Jan) | 2.5% | 2.4% | 3.0% |
-| 08:55 | EUR | German Unemployment Change (Jan) |  | 4K | 3K |
-| 08:55 | EUR | German Unemployment Rate (Jan) |  | 6.3% | 6.3% |
-| 09:00 | EUR | German GDP (YoY) (Q4) |  | 0.3% | 0.3% |
-| 10:00 | EUR | GDP (QoQ) (Q4) |  | 0.2% | 0.3% |
-| 10:00 | EUR | GDP (YoY) (Q4) |  | 1.2% | 1.4% |
-| 10:00 | EUR | Unemployment Rate (Dec) |  | 6.3% | 6.3% |
+| 08:55 | EUR | German Unemployment Change (Jan) | 0K | 4K | 3K |
+| 08:55 | EUR | German Unemployment Rate (Jan) | 6.3% | 6.3% | 6.3% |
+| 09:00 | EUR | German GDP (YoY) (Q4) | 0.4% | 0.3% | 0.3% |
+| 43 min | EUR | GDP (QoQ) (Q4) |  | 0.2% | 0.3% |
+| 43 min | EUR | GDP (YoY) (Q4) |  | 1.2% | 1.4% |
+| 43 min | EUR | Unemployment Rate (Dec) |  | 6.3% | 6.3% |
 | 11:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Dec) |  | 79.5% | 79.0% |
 | 12:00 | MXN | GDP (YoY) (Q4) |  | 1.3% | -0.1% |
 | 12:00 | MXN | GDP (QoQ) (Q4) |  | 0.6% | -0.3% |

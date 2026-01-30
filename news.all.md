@@ -32,41 +32,43 @@
 | 08:00 | EUR | Low | Spanish GDP (YoY) (Q4) | 2.6% | 2.7% | 2.8% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Jan) | -0.7% | -0.8% | 0.3% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jan) | 2.5% | 2.4% | 3.0% |
-| 08:30 | HKD | Low | M3 Money Supply (Dec) |  |  | 4.5% |
-| 08:55 | EUR | Moderate | German Unemployment Change (Jan) |  | 4K | 3K |
-| 08:55 | EUR | Moderate | German Unemployment Rate (Jan) |  | 6.3% | 6.3% |
-| 08:55 | EUR | Low | German Unemployment (Jan) |  |  | 2.977M |
-| 08:55 | EUR | Low | German Unemployment n.s.a. (Jan) |  |  | 2.910M |
-| 09:00 | EUR | Low | Italian GDP (QoQ) (Q4) |  | 0.2% | 0.1% |
-| 09:00 | EUR | Low | Italian GDP (YoY) (Q4) |  | 0.5% | 0.6% |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Jan) |  |  | 0.2% |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Jan) |  |  | 1.9% |
-| 09:00 | EUR | Low | Bavaria CPI (YoY) (Jan) |  |  | 1.7% |
-| 09:00 | EUR | Low | Bavaria CPI (MoM) (Jan) |  |  | 0.0% |
-| 09:00 | EUR | Low | Brandenburg CPI (YoY) (Jan) |  |  | 2.2% |
-| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Jan) |  |  | 0.4% |
-| 09:00 | EUR | High | German GDP (QoQ) (Q4) |  | 0.2% | 0.0% |
-| 09:00 | EUR | Moderate | German GDP (YoY) (Q4) |  | 0.3% | 0.3% |
-| 09:00 | EUR | Low | Hesse CPI (MoM) (Jan) |  |  | 0.1% |
-| 09:00 | EUR | Low | Hesse CPI (YoY) (Jan) |  |  | 2.2% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Jan) |  |  | 0.0% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Jan) |  |  | 1.8% |
-| 09:00 | EUR | Low | Saxony CPI (YoY) (Jan) |  |  | 1.9% |
-| 09:00 | EUR | Low | Saxony CPI (MoM) (Jan) |  |  | 0.2% |
-| 09:00 | EUR | Low | Spanish Current account (Nov) |  |  | 7.18B |
-| 09:00 | NOK | Low | Central Bank Currency Purchase (Feb) |  |  | -650.0M |
-| 09:30 | GBP | Low | BoE Consumer Credit (Dec) |  | 1.700B | 2.077B |
-| 09:30 | GBP | Low | M3 Money Supply (Dec) |  |  | 3,200.7B |
-| 09:30 | GBP | Low | M4 Money Supply (MoM) (Dec) |  | 0.3% | 0.8% |
-| 09:30 | GBP | Low | Mortgage Approvals (Dec) |  | 65.00K | 64.53K |
-| 09:30 | GBP | Low | Mortgage Lending (Dec) |  | 4.50B | 4.49B |
-| 09:30 | GBP | Low | Net Lending to Individuals (Dec) |  | 6.100B | 6.600B |
-| 09:30 | ZAR | Low | Budget Balance (MoM) (Dec) |  |  | -14.99B |
-| 10:00 | EUR | Low | Italian Monthly Unemployment Rate (Dec) |  | 5.8% | 5.7% |
-| 10:00 | INR | Low | Federal Fiscal Deficit (Dec) |  |  | 9,766.71B |
-| 10:00 | EUR | Moderate | GDP (QoQ) (Q4) |  | 0.2% | 0.3% |
-| 10:00 | EUR | Moderate | GDP (YoY) (Q4) |  | 1.2% | 1.4% |
-| 10:00 | EUR | Moderate | Unemployment Rate (Dec) |  | 6.3% | 6.3% |
+| 08:30 | HKD | Low | GDP (QoQ) (Q4) | 1.0% |  | 0.7% |
+| 08:30 | HKD | Low | GDP (YoY) (Q4) | 3.8% |  | 3.8% |
+| 08:30 | HKD | Low | M3 Money Supply (Dec) | 4.2% |  | 4.5% |
+| 08:55 | EUR | Moderate | German Unemployment Change (Jan) | 0K | 4K | 3K |
+| 08:55 | EUR | Moderate | German Unemployment Rate (Jan) | 6.3% | 6.3% | 6.3% |
+| 08:55 | EUR | Low | German Unemployment (Jan) | 2.976M |  | 2.977M |
+| 08:55 | EUR | Low | German Unemployment n.s.a. (Jan) | 3.085M |  | 2.910M |
+| 09:00 | EUR | Low | Italian GDP (QoQ) (Q4) | 0.3% | 0.2% | 0.1% |
+| 09:00 | EUR | Low | Italian GDP (YoY) (Q4) | 0.8% | 0.5% | 0.6% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Jan) | 0.0% |  | 0.2% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Jan) | 2.1% |  | 1.9% |
+| 09:00 | EUR | Low | Bavaria CPI (YoY) (Jan) | 2.1% |  | 1.7% |
+| 09:00 | EUR | Low | Bavaria CPI (MoM) (Jan) | 0.0% |  | 0.0% |
+| 09:00 | EUR | Low | Brandenburg CPI (YoY) (Jan) | 2.2% |  | 2.2% |
+| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Jan) | 0.0% |  | 0.4% |
+| 09:00 | EUR | High | German GDP (QoQ) (Q4) | 0.3% | 0.2% | 0.0% |
+| 09:00 | EUR | Moderate | German GDP (YoY) (Q4) | 0.4% | 0.3% | 0.3% |
+| 09:00 | EUR | Low | Hesse CPI (MoM) (Jan) | 0.0% |  | 0.1% |
+| 09:00 | EUR | Low | Hesse CPI (YoY) (Jan) | 2.1% |  | 2.2% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Jan) | 0.1% |  | 0.0% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Jan) | 2.0% |  | 1.8% |
+| 09:00 | EUR | Low | Saxony CPI (YoY) (Jan) | 2.3% |  | 1.9% |
+| 09:00 | EUR | Low | Saxony CPI (MoM) (Jan) | 0.0% |  | 0.2% |
+| 09:00 | EUR | Low | Spanish Current account (Nov) | 0.21B |  | 7.18B |
+| 09:00 | NOK | Low | Central Bank Currency Purchase (Feb) | -600.0M |  | -650.0M |
+| 13 min | GBP | Low | BoE Consumer Credit (Dec) |  | 1.700B | 2.077B |
+| 13 min | GBP | Low | M3 Money Supply (Dec) |  |  | 3,200.7B |
+| 13 min | GBP | Low | M4 Money Supply (MoM) (Dec) |  | 0.3% | 0.8% |
+| 13 min | GBP | Low | Mortgage Approvals (Dec) |  | 65.00K | 64.53K |
+| 13 min | GBP | Low | Mortgage Lending (Dec) |  | 4.50B | 4.49B |
+| 13 min | GBP | Low | Net Lending to Individuals (Dec) |  | 6.100B | 6.600B |
+| 13 min | ZAR | Low | Budget Balance (MoM) (Dec) |  |  | -14.99B |
+| 43 min | EUR | Low | Italian Monthly Unemployment Rate (Dec) |  | 5.8% | 5.7% |
+| 43 min | INR | Low | Federal Fiscal Deficit (Dec) |  |  | 9,766.71B |
+| 43 min | EUR | Moderate | GDP (QoQ) (Q4) |  | 0.2% | 0.3% |
+| 43 min | EUR | Moderate | GDP (YoY) (Q4) |  | 1.2% | 1.4% |
+| 43 min | EUR | Moderate | Unemployment Rate (Dec) |  | 6.3% | 6.3% |
 | 11:00 | EUR | Low | Italian PPI (MoM) (Dec) |  |  | 1.0% |
 | 11:00 | EUR | Low | Italian PPI (YoY) (Dec) |  |  | -0.2% |
 | 11:00 | BRL | Low | IGP-M Inflation Index (MoM) (Jan) |  | 0.41% | -0.01% |
