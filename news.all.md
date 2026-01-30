@@ -101,6 +101,7 @@
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 411 | 412 | 411 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 546 |  | 544 |
 | 18:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
+| 19:00 | MXN | Low | Fiscal Balance (Dec) | -414.44B |  | -200.52B |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions | -16.2K |  | -22.0K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions | -3.6K |  | -3.4K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions | 48.4K |  | 52.6K |
@@ -121,4 +122,4 @@
 | 20:30 | JPY | Moderate | CFTC JPY speculative net positions | -33.9K |  | -44.8K |
 | 20:30 | NZD | Low | CFTC NZD speculative net positions | -47.7K |  | -49.6K |
 | 20:30 | EUR | Moderate | CFTC EUR speculative net positions | 132.1K |  | 111.7K |
-| 48 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 22:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
