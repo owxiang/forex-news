@@ -4,15 +4,13 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | PPI (QoQ) (Q4) | 0.8% | 1.1% | 1.0% |
 | 00:30 | AUD | PPI (YoY) (Q4) | 3.5% |  | 3.5% |
-| 7 min | EUR | French Consumer Spending (MoM) (Dec) |  | -0.4% | -0.3% |
-| 7 min | EUR | French GDP (QoQ) (Q4) |  | 0.2% | 0.5% |
-| 7 min | EUR | French GDP (YoY) (Q4) |  | 1.2% | 0.9% |
-| 37 min | GBP | Nationwide HPI (MoM) (Jan) |  |  | -0.4% |
-| 37 min | GBP | Nationwide HPI (YoY) (Jan) |  |  | 0.6% |
-| 08:00 | CHF | KOF Leading Indicators (Jan) |  | 103.1 | 103.4 |
-| 08:00 | EUR | Spanish CPI (YoY) (Jan) |  | 2.4% | 2.9% |
-| 08:00 | EUR | Spanish GDP (QoQ) (Q4) |  | 0.6% | 0.6% |
-| 08:00 | EUR | Spanish HICP (YoY) (Jan) |  | 2.4% | 3.0% |
+| 06:30 | EUR | French Consumer Spending (MoM) (Dec) | -0.6% | -0.4% | -0.3% |
+| 06:30 | EUR | French GDP (QoQ) (Q4) | 0.2% | 0.2% | 0.5% |
+| 06:30 | EUR | French GDP (YoY) (Q4) | 1.1% | 1.2% | 0.9% |
+| 38 min | CHF | KOF Leading Indicators (Jan) |  | 103.1 | 103.4 |
+| 38 min | EUR | Spanish CPI (YoY) (Jan) |  | 2.4% | 2.9% |
+| 38 min | EUR | Spanish GDP (QoQ) (Q4) |  | 0.6% | 0.6% |
+| 38 min | EUR | Spanish HICP (YoY) (Jan) |  | 2.4% | 3.0% |
 | 08:55 | EUR | German Unemployment Change (Jan) |  | 4K | 3K |
 | 08:55 | EUR | German Unemployment Rate (Jan) |  | 6.3% | 6.3% |
 | 09:00 | EUR | German GDP (YoY) (Q4) |  | 0.3% | 0.3% |

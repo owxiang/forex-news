@@ -13,29 +13,27 @@
 | 05:00 | JPY | Low | Housing Starts (YoY) (Dec) | -1.3% | -4.5% | -8.5% |
 | 06:00 | ZAR | Low | M3 Money Supply (YoY) (Dec) | 8.16% |  | 8.26% |
 | 06:00 | ZAR | Low | Private Sector Credit (Dec) | 8.74% |  | 7.79% |
-| 7 min | EUR | Moderate | French Consumer Spending (MoM) (Dec) |  | -0.4% | -0.3% |
-| 7 min | EUR | Moderate | French GDP (QoQ) (Q4) |  | 0.2% | 0.5% |
-| 7 min | EUR | Moderate | French GDP (YoY) (Q4) |  | 1.2% | 0.9% |
-| 37 min | GBP | Moderate | Nationwide HPI (MoM) (Jan) |  |  | -0.4% |
-| 37 min | GBP | Moderate | Nationwide HPI (YoY) (Jan) |  |  | 0.6% |
-| 37 min | EUR | Low | German Import Price Index (MoM) (Dec) |  | -0.4% | 0.5% |
-| 37 min | EUR | Low | German Import Price Index (YoY) (Dec) |  | -2.6% | -1.9% |
-| 37 min | NOK | Low | Unemployment Rate n.s.a. (Jan) |  | 2.10% | 2.10% |
-| 37 min | NOK | Low | Core Retail Sales (MoM) (Dec) |  |  | 1.3% |
-| 07:30 | SGD | Low | Unemployment Rate (Q4) |  |  | 2.0% |
-| 07:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q4) |  |  | 0.0% |
-| 07:45 | EUR | Low | French PPI (MoM) (Dec) |  |  | 1.1% |
-| 07:45 | EUR | Low | PPI (YoY) (Dec) |  |  | -3.30% |
-| 08:00 | CHF | Moderate | KOF Leading Indicators (Jan) |  | 103.1 | 103.4 |
-| 08:00 | CHF | Low | Official Reserves Assets (Dec) |  |  | 852.4B |
-| 08:00 | EUR | Low | Core CPI (YoY) (Jan) |  |  | 2.6% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Jan) |  | -0.3% | 0.3% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jan) |  | 2.4% | 2.9% |
-| 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q4) |  | 0.6% | 0.6% |
-| 08:00 | EUR | Low | Spanish GDP (YoY) (Q4) |  | 2.7% | 2.8% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Jan) |  | -0.8% | 0.3% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jan) |  | 2.4% | 3.0% |
-| 08:00 | ZAR | Low | Budget Balance (MoM) (Dec) |  |  | -14.99B |
+| 06:30 | EUR | Moderate | French Consumer Spending (MoM) (Dec) | -0.6% | -0.4% | -0.3% |
+| 06:30 | EUR | Moderate | French GDP (QoQ) (Q4) | 0.2% | 0.2% | 0.5% |
+| 06:30 | EUR | Moderate | French GDP (YoY) (Q4) | 1.1% | 1.2% | 0.9% |
+| 07:00 | EUR | Low | German Import Price Index (MoM) (Dec) | -0.1% | -0.4% | 0.5% |
+| 07:00 | EUR | Low | German Import Price Index (YoY) (Dec) | -2.3% | -2.6% | -1.9% |
+| 07:00 | NOK | Low | Unemployment Rate n.s.a. (Jan) | 2.30% | 2.10% | 2.10% |
+| 07:00 | NOK | Low | Core Retail Sales (MoM) (Dec) | -0.7% |  | 1.2% |
+| 8 min | SGD | Low | Unemployment Rate (Q4) |  |  | 2.0% |
+| 23 min | EUR | Low | French Non-Farm Payrolls (QoQ) (Q4) |  |  | 0.0% |
+| 23 min | EUR | Low | French PPI (MoM) (Dec) |  |  | 1.1% |
+| 23 min | EUR | Low | PPI (YoY) (Dec) |  |  | -3.30% |
+| 38 min | CHF | Moderate | KOF Leading Indicators (Jan) |  | 103.1 | 103.4 |
+| 38 min | CHF | Low | Official Reserves Assets (Dec) |  |  | 852.4B |
+| 38 min | EUR | Low | Core CPI (YoY) (Jan) |  |  | 2.6% |
+| 38 min | EUR | Low | Spanish CPI (MoM) (Jan) |  | -0.3% | 0.3% |
+| 38 min | EUR | Moderate | Spanish CPI (YoY) (Jan) |  | 2.4% | 2.9% |
+| 38 min | EUR | Moderate | Spanish GDP (QoQ) (Q4) |  | 0.6% | 0.6% |
+| 38 min | EUR | Low | Spanish GDP (YoY) (Q4) |  | 2.7% | 2.8% |
+| 38 min | EUR | Low | Spanish HICP (MoM) (Jan) |  | -0.8% | 0.3% |
+| 38 min | EUR | Moderate | Spanish HICP (YoY) (Jan) |  | 2.4% | 3.0% |
+| 38 min | ZAR | Low | Budget Balance (MoM) (Dec) |  |  | -14.99B |
 | 08:30 | HKD | Low | M3 Money Supply (Dec) |  |  | 4.5% |
 | 08:55 | EUR | Moderate | German Unemployment Change (Jan) |  | 4K | 3K |
 | 08:55 | EUR | Moderate | German Unemployment Rate (Jan) |  | 6.3% | 6.3% |
