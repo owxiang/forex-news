@@ -15,16 +15,14 @@
 | 07:00 | EUR | German Import Price Index (YoY) (Dec) | -2.3% | -2.6% | -1.9% |
 | 07:00 | NOK | Unemployment Rate n.s.a. (Jan) | 2.30% | 2.10% | 2.10% |
 | 07:00 | NOK | Core Retail Sales (MoM) (Dec) | -0.7% |  | 1.2% |
-| 8 min | SGD | Unemployment Rate (Q4) |  |  | 2.0% |
-| 23 min | EUR | French Non-Farm Payrolls (QoQ) (Q4) |  |  | 0.0% |
-| 23 min | EUR | French PPI (MoM) (Dec) |  |  | 1.1% |
-| 23 min | EUR | PPI (YoY) (Dec) |  |  | -3.30% |
-| 38 min | CHF | Official Reserves Assets (Dec) |  |  | 852.4B |
-| 38 min | EUR | Core CPI (YoY) (Jan) |  |  | 2.6% |
-| 38 min | EUR | Spanish CPI (MoM) (Jan) |  | -0.3% | 0.3% |
-| 38 min | EUR | Spanish GDP (YoY) (Q4) |  | 2.7% | 2.8% |
-| 38 min | EUR | Spanish HICP (MoM) (Jan) |  | -0.8% | 0.3% |
-| 38 min | ZAR | Budget Balance (MoM) (Dec) |  |  | -14.99B |
+| 07:45 | EUR | French Non-Farm Payrolls (QoQ) (Q4) | -0.1% |  | 0.0% |
+| 07:45 | EUR | French PPI (MoM) (Dec) | 0.2% |  | 2.8% |
+| 07:45 | EUR | PPI (YoY) (Dec) | -2.00% |  | -1.50% |
+| 08:00 | CHF | Official Reserves Assets (Dec) | 852.6B |  | 852.4B |
+| 08:00 | EUR | Core CPI (YoY) (Jan) | 2.6% |  | 2.6% |
+| 08:00 | EUR | Spanish CPI (MoM) (Jan) | -0.4% | -0.3% | 0.3% |
+| 08:00 | EUR | Spanish GDP (YoY) (Q4) | 2.6% | 2.7% | 2.8% |
+| 08:00 | EUR | Spanish HICP (MoM) (Jan) | -0.7% | -0.8% | 0.3% |
 | 08:30 | HKD | M3 Money Supply (Dec) |  |  | 4.5% |
 | 08:55 | EUR | German Unemployment (Jan) |  |  | 2.977M |
 | 08:55 | EUR | German Unemployment n.s.a. (Jan) |  |  | 2.910M |
@@ -50,6 +48,7 @@
 | 09:30 | GBP | Mortgage Approvals (Dec) |  | 65.00K | 64.53K |
 | 09:30 | GBP | Mortgage Lending (Dec) |  | 4.50B | 4.49B |
 | 09:30 | GBP | Net Lending to Individuals (Dec) |  | 6.100B | 6.600B |
+| 09:30 | ZAR | Budget Balance (MoM) (Dec) |  |  | -14.99B |
 | 10:00 | EUR | Italian Monthly Unemployment Rate (Dec) |  | 5.8% | 5.7% |
 | 10:00 | INR | Federal Fiscal Deficit (Dec) |  |  | 9,766.71B |
 | 11:00 | EUR | Italian PPI (MoM) (Dec) |  |  | 1.0% |
