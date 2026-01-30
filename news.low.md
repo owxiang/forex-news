@@ -65,10 +65,10 @@
 | 12:00 | ZAR | Trade Balance (Dec) | 23.18B |  | 37.92B |
 | 13:00 | EUR | German HICP (MoM) (Jan) | -0.1% | -0.2% | 0.2% |
 | 13:00 | EUR | German HICP (YoY) (Jan) | 2.1% | 2.0% | 2.0% |
-| 2 min | USD | Core PPI (YoY) (Dec) |  | 2.9% | 3.0% |
-| 2 min | USD | PPI (YoY) (Dec) |  | 2.7% | 3.0% |
-| 2 min | USD | PPI ex. Food/Energy/Transport (YoY) (Dec) |  |  | 3.5% |
-| 2 min | USD | PPI ex. Food/Energy/Transport (MoM) (Dec) |  |  | 0.2% |
+| 13:30 | USD | Core PPI (YoY) (Dec) | 3.3% | 2.9% | 3.1% |
+| 13:30 | USD | PPI (YoY) (Dec) | 3.0% | 2.7% | 3.0% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Dec) | 3.5% |  | 3.5% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Dec) | 0.4% |  | 0.2% |
 | 16:00 | CAD | Budget Balance (Nov) |  |  | -2.28B |
 | 16:00 | CAD | Budget Balance (YoY) (Nov) |  |  | -18.37B |
 | 19:00 | MXN | Fiscal Balance (Dec) |  |  | -200.52B |

@@ -87,15 +87,15 @@
 | 13:00 | EUR | Moderate | German CPI (YoY) (Jan) | 2.1% | 2.0% | 1.8% |
 | 13:00 | EUR | Low | German HICP (MoM) (Jan) | -0.1% | -0.2% | 0.2% |
 | 13:00 | EUR | Low | German HICP (YoY) (Jan) | 2.1% | 2.0% | 2.0% |
-| 2 min | USD | Moderate | Core PPI (MoM) (Dec) |  | 0.2% | 0.0% |
-| 2 min | USD | Low | Core PPI (YoY) (Dec) |  | 2.9% | 3.0% |
-| 2 min | USD | High | PPI (MoM) (Dec) |  | 0.2% | 0.2% |
-| 2 min | USD | Low | PPI (YoY) (Dec) |  | 2.7% | 3.0% |
-| 2 min | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Dec) |  |  | 3.5% |
-| 2 min | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Dec) |  |  | 0.2% |
-| 2 min | CAD | Moderate | GDP (MoM) (Nov) |  | 0.1% | -0.3% |
-| 3 min | CAD | Moderate | GDP (MoM) (Dec) |  |  |  |
-| 14:45 | USD | High | Chicago PMI (Jan) |  | 43.5 | 43.5 |
+| 13:30 | USD | Moderate | Core PPI (MoM) (Dec) | 0.7% | 0.2% | 0.0% |
+| 13:30 | USD | Low | Core PPI (YoY) (Dec) | 3.3% | 2.9% | 3.1% |
+| 13:30 | USD | High | PPI (MoM) (Dec) | 0.5% | 0.2% | 0.2% |
+| 13:30 | USD | Low | PPI (YoY) (Dec) | 3.0% | 2.7% | 3.0% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Dec) | 3.5% |  | 3.5% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Dec) | 0.4% |  | 0.2% |
+| 13:30 | CAD | Moderate | GDP (MoM) (Nov) | 0.0% | 0.1% | -0.3% |
+| 13:31 | CAD | Moderate | GDP (MoM) (Dec) | 0.1% |  | 0.0% |
+| 28 min | USD | High | Chicago PMI (Jan) |  | 43.5 | 43.5 |
 | 16:00 | CAD | Low | Budget Balance (Nov) |  |  | -2.28B |
 | 16:00 | CAD | Low | Budget Balance (YoY) (Nov) |  |  | -18.37B |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 411 |
