@@ -98,9 +98,9 @@
 | 14:45 | USD | High | Chicago PMI (Jan) | 54.0 | 43.5 | 42.7 |
 | 16:00 | CAD | Low | Budget Balance (Nov) | -8.02B |  | -2.28B |
 | 16:00 | CAD | Low | Budget Balance (YoY) (Nov) | -26.39B |  | -18.37B |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 411 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 544 |
-| 18:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
+| 43 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 411 |
+| 43 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 544 |
+| 43 min | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 19:00 | MXN | Low | Fiscal Balance (Dec) |  |  | -200.52B |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -22.0K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -3.4K |

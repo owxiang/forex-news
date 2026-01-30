@@ -25,9 +25,9 @@
 | 13:30 | USD | Core PPI (MoM) (Dec) | 0.7% | 0.2% | 0.0% |
 | 13:30 | CAD | GDP (MoM) (Nov) | 0.0% | 0.1% | -0.3% |
 | 13:31 | CAD | GDP (MoM) (Dec) | 0.1% |  | 0.0% |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 411 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 544 |
-| 18:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 43 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 411 |
+| 43 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 544 |
+| 43 min | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -22.0K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 78.8K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 244.8K |
