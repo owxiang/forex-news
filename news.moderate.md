@@ -21,10 +21,10 @@
 | 12:00 | MXN | GDP (YoY) (Q4) | 1.6% | 1.3% | -0.1% |
 | 12:00 | MXN | GDP (QoQ) (Q4) | 0.8% | 0.6% | -0.3% |
 | 12:00 | BRL | Unemployment Rate (Dec) | 5.1% | 5.1% | 5.2% |
-| 13:00 | EUR | German CPI (YoY) (Jan) |  | 2.0% | 1.8% |
-| 13:30 | USD | Core PPI (MoM) (Dec) |  | 0.2% | 0.0% |
-| 13:30 | CAD | GDP (MoM) (Nov) |  | 0.1% | -0.3% |
-| 13:31 | CAD | GDP (MoM) (Dec) |  |  |  |
+| 13:00 | EUR | German CPI (YoY) (Jan) | 2.1% | 2.0% | 1.8% |
+| 2 min | USD | Core PPI (MoM) (Dec) |  | 0.2% | 0.0% |
+| 2 min | CAD | GDP (MoM) (Nov) |  | 0.1% | -0.3% |
+| 3 min | CAD | GDP (MoM) (Dec) |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 411 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 544 |
 | 18:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
