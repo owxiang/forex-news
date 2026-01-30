@@ -57,21 +57,21 @@
 | 09:00 | EUR | Low | Saxony CPI (MoM) (Jan) | 0.0% |  | 0.2% |
 | 09:00 | EUR | Low | Spanish Current account (Nov) | 0.21B |  | 7.18B |
 | 09:00 | NOK | Low | Central Bank Currency Purchase (Feb) | -600.0M |  | -650.0M |
-| 13 min | GBP | Low | BoE Consumer Credit (Dec) |  | 1.700B | 2.077B |
-| 13 min | GBP | Low | M3 Money Supply (Dec) |  |  | 3,200.7B |
-| 13 min | GBP | Low | M4 Money Supply (MoM) (Dec) |  | 0.3% | 0.8% |
-| 13 min | GBP | Low | Mortgage Approvals (Dec) |  | 65.00K | 64.53K |
-| 13 min | GBP | Low | Mortgage Lending (Dec) |  | 4.50B | 4.49B |
-| 13 min | GBP | Low | Net Lending to Individuals (Dec) |  | 6.100B | 6.600B |
-| 13 min | ZAR | Low | Budget Balance (MoM) (Dec) |  |  | -14.99B |
-| 43 min | EUR | Low | Italian Monthly Unemployment Rate (Dec) |  | 5.8% | 5.7% |
-| 43 min | INR | Low | Federal Fiscal Deficit (Dec) |  |  | 9,766.71B |
-| 43 min | EUR | Moderate | GDP (QoQ) (Q4) |  | 0.2% | 0.3% |
-| 43 min | EUR | Moderate | GDP (YoY) (Q4) |  | 1.2% | 1.4% |
-| 43 min | EUR | Moderate | Unemployment Rate (Dec) |  | 6.3% | 6.3% |
-| 11:00 | EUR | Low | Italian PPI (MoM) (Dec) |  |  | 1.0% |
-| 11:00 | EUR | Low | Italian PPI (YoY) (Dec) |  |  | -0.2% |
-| 11:00 | BRL | Low | IGP-M Inflation Index (MoM) (Jan) |  | 0.41% | -0.01% |
+| 09:30 | GBP | Low | BoE Consumer Credit (Dec) | 1.524B | 1.700B | 2.143B |
+| 09:30 | GBP | Low | M3 Money Supply (Dec) | 3,212.7B |  | 3,202.0B |
+| 09:30 | GBP | Low | M4 Money Supply (MoM) (Dec) | 0.3% | 0.3% | 0.8% |
+| 09:30 | GBP | Low | Mortgage Approvals (Dec) | 61.01K | 65.00K | 64.07K |
+| 09:30 | GBP | Low | Mortgage Lending (Dec) | 4.60B | 4.50B | 4.59B |
+| 09:30 | GBP | Low | Net Lending to Individuals (Dec) | 6.100B | 6.100B | 6.600B |
+| 09:30 | EUR | Low | Italian Monthly Unemployment Rate (Dec) | 5.6% | 5.8% | 5.6% |
+| 09:40 | ZAR | Low | Budget Balance (MoM) (Dec) | 38.44B |  | -14.99B |
+| 10:00 | EUR | Moderate | GDP (QoQ) (Q4) | 0.3% | 0.2% | 0.3% |
+| 10:00 | EUR | Moderate | GDP (YoY) (Q4) | 1.3% | 1.2% | 1.4% |
+| 10:00 | EUR | Moderate | Unemployment Rate (Dec) | 6.2% | 6.3% | 6.3% |
+| 16 min | INR | Low | Federal Fiscal Deficit (Dec) |  |  | 9,766.71B |
+| 46 min | EUR | Low | Italian PPI (MoM) (Dec) |  |  | 1.0% |
+| 46 min | EUR | Low | Italian PPI (YoY) (Dec) |  |  | -0.2% |
+| 46 min | BRL | Low | IGP-M Inflation Index (MoM) (Jan) |  | 0.41% | -0.01% |
 | 11:30 | INR | Low | Bank Loan Growth |  |  | 14.5% |
 | 11:30 | INR | Low | Deposit Growth |  |  | 12.7% |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 701.36B |

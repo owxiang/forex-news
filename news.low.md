@@ -44,18 +44,18 @@
 | 09:00 | EUR | Saxony CPI (MoM) (Jan) | 0.0% |  | 0.2% |
 | 09:00 | EUR | Spanish Current account (Nov) | 0.21B |  | 7.18B |
 | 09:00 | NOK | Central Bank Currency Purchase (Feb) | -600.0M |  | -650.0M |
-| 13 min | GBP | BoE Consumer Credit (Dec) |  | 1.700B | 2.077B |
-| 13 min | GBP | M3 Money Supply (Dec) |  |  | 3,200.7B |
-| 13 min | GBP | M4 Money Supply (MoM) (Dec) |  | 0.3% | 0.8% |
-| 13 min | GBP | Mortgage Approvals (Dec) |  | 65.00K | 64.53K |
-| 13 min | GBP | Mortgage Lending (Dec) |  | 4.50B | 4.49B |
-| 13 min | GBP | Net Lending to Individuals (Dec) |  | 6.100B | 6.600B |
-| 13 min | ZAR | Budget Balance (MoM) (Dec) |  |  | -14.99B |
-| 43 min | EUR | Italian Monthly Unemployment Rate (Dec) |  | 5.8% | 5.7% |
-| 43 min | INR | Federal Fiscal Deficit (Dec) |  |  | 9,766.71B |
-| 11:00 | EUR | Italian PPI (MoM) (Dec) |  |  | 1.0% |
-| 11:00 | EUR | Italian PPI (YoY) (Dec) |  |  | -0.2% |
-| 11:00 | BRL | IGP-M Inflation Index (MoM) (Jan) |  | 0.41% | -0.01% |
+| 09:30 | GBP | BoE Consumer Credit (Dec) | 1.524B | 1.700B | 2.143B |
+| 09:30 | GBP | M3 Money Supply (Dec) | 3,212.7B |  | 3,202.0B |
+| 09:30 | GBP | M4 Money Supply (MoM) (Dec) | 0.3% | 0.3% | 0.8% |
+| 09:30 | GBP | Mortgage Approvals (Dec) | 61.01K | 65.00K | 64.07K |
+| 09:30 | GBP | Mortgage Lending (Dec) | 4.60B | 4.50B | 4.59B |
+| 09:30 | GBP | Net Lending to Individuals (Dec) | 6.100B | 6.100B | 6.600B |
+| 09:30 | EUR | Italian Monthly Unemployment Rate (Dec) | 5.6% | 5.8% | 5.6% |
+| 09:40 | ZAR | Budget Balance (MoM) (Dec) | 38.44B |  | -14.99B |
+| 16 min | INR | Federal Fiscal Deficit (Dec) |  |  | 9,766.71B |
+| 46 min | EUR | Italian PPI (MoM) (Dec) |  |  | 1.0% |
+| 46 min | EUR | Italian PPI (YoY) (Dec) |  |  | -0.2% |
+| 46 min | BRL | IGP-M Inflation Index (MoM) (Jan) |  | 0.41% | -0.01% |
 | 11:30 | INR | Bank Loan Growth |  |  | 14.5% |
 | 11:30 | INR | Deposit Growth |  |  | 12.7% |
 | 11:30 | INR | FX Reserves, USD |  |  | 701.36B |
