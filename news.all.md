@@ -6,9 +6,9 @@
 | 00:30 | AUD | Moderate | PPI (QoQ) (Q4) | 0.8% | 1.1% | 1.0% |
 | 00:30 | AUD | Moderate | PPI (YoY) (Q4) | 3.5% |  | 3.5% |
 | 00:30 | AUD | Low | Private Sector Credit (MoM) (Dec) | 0.8% | 0.6% | 0.6% |
-| 02:00 | SGD | Low | Bank Lending (Dec) |  |  | 873.1B |
-| 02:00 | NZD | Low | M3 Money Supply (Dec) |  |  | 443,578.0B |
-| 02:19 | ZAR | Low | Budget Balance (MoM) (Dec) |  |  | -14.99B |
+| 21 min | SGD | Low | Bank Lending (Dec) |  |  | 873.1B |
+| 21 min | NZD | Low | M3 Money Supply (Dec) |  |  | 443,578.0B |
+| 41 min | ZAR | Low | Budget Balance (MoM) (Dec) |  |  | -14.99B |
 | 05:00 | JPY | Low | Construction Orders (YoY) (Dec) |  |  | 9.5% |
 | 05:00 | JPY | Low | Housing Starts (YoY) (Dec) |  | -4.5% | -8.5% |
 | 06:00 | ZAR | Low | M3 Money Supply (YoY) (Dec) |  |  | 8.26% |

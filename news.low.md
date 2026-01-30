@@ -4,9 +4,9 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Housing Credit (Dec) | 0.7% |  | 0.6% |
 | 00:30 | AUD | Private Sector Credit (MoM) (Dec) | 0.8% | 0.6% | 0.6% |
-| 02:00 | SGD | Bank Lending (Dec) |  |  | 873.1B |
-| 02:00 | NZD | M3 Money Supply (Dec) |  |  | 443,578.0B |
-| 02:19 | ZAR | Budget Balance (MoM) (Dec) |  |  | -14.99B |
+| 21 min | SGD | Bank Lending (Dec) |  |  | 873.1B |
+| 21 min | NZD | M3 Money Supply (Dec) |  |  | 443,578.0B |
+| 41 min | ZAR | Budget Balance (MoM) (Dec) |  |  | -14.99B |
 | 05:00 | JPY | Construction Orders (YoY) (Dec) |  |  | 9.5% |
 | 05:00 | JPY | Housing Starts (YoY) (Dec) |  | -4.5% | -8.5% |
 | 06:00 | ZAR | M3 Money Supply (YoY) (Dec) |  |  | 8.26% |
