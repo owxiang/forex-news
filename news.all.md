@@ -71,18 +71,18 @@
 | 10:00 | EUR | Moderate | Unemployment Rate (Dec) | 6.2% | 6.3% | 6.3% |
 | 11:00 | EUR | Low | Italian PPI (MoM) (Dec) | -0.7% |  | 1.0% |
 | 11:00 | EUR | Low | Italian PPI (YoY) (Dec) | -1.4% |  | -0.2% |
-| 17 min | INR | Low | Bank Loan Growth |  |  | 14.5% |
-| 17 min | INR | Low | Deposit Growth |  |  | 12.7% |
-| 17 min | INR | Low | FX Reserves, USD |  |  | 701.36B |
-| 17 min | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
-| 17 min | BRL | Low | Net Debt-to-GDP ratio (Dec) |  |  | 65.2% |
-| 17 min | BRL | Low | Budget Balance (Dec) |  | -95.400B | -101.600B |
-| 17 min | BRL | Low | Budget Surplus (Dec) |  |  | -14.400B |
-| 17 min | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Dec) |  | 79.5% | 79.0% |
-| 47 min | MXN | Moderate | GDP (YoY) (Q4) |  | 1.3% | -0.1% |
-| 47 min | MXN | Moderate | GDP (QoQ) (Q4) |  | 0.6% | -0.3% |
-| 47 min | BRL | Moderate | Unemployment Rate (Dec) |  | 5.1% | 5.2% |
-| 47 min | ZAR | Low | Trade Balance (Dec) |  |  | 37.73B |
+| 11:30 | INR | Low | FX Reserves, USD | 709.41B |  | 701.36B |
+| 11:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
+| 11:30 | BRL | Low | Net Debt-to-GDP ratio (Dec) | 65.3% |  | 65.2% |
+| 11:30 | BRL | Low | Budget Balance (Dec) | -115.502B | -95.400B | -101.600B |
+| 11:30 | BRL | Low | Budget Surplus (Dec) | 6.251B |  | -14.400B |
+| 11:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Dec) | 78.7% | 79.5% | 79.0% |
+| 12:00 | MXN | Moderate | GDP (YoY) (Q4) | 1.6% | 1.3% | -0.1% |
+| 12:00 | MXN | Moderate | GDP (QoQ) (Q4) | 0.8% | 0.6% | -0.3% |
+| 12:00 | INR | Low | Bank Loan Growth | 13.1% |  | 14.5% |
+| 12:00 | INR | Low | Deposit Growth | 10.6% |  | 12.7% |
+| 12:00 | BRL | Moderate | Unemployment Rate (Dec) | 5.1% | 5.1% | 5.2% |
+| 12:00 | ZAR | Low | Trade Balance (Dec) | 23.18B |  | 37.92B |
 | 13:00 | EUR | High | German CPI (MoM) (Jan) |  | 0.0% | 0.0% |
 | 13:00 | EUR | Moderate | German CPI (YoY) (Jan) |  | 2.0% | 1.8% |
 | 13:00 | EUR | Low | German HICP (MoM) (Jan) |  | -0.2% | 0.2% |
@@ -98,7 +98,6 @@
 | 14:45 | USD | High | Chicago PMI (Jan) |  | 43.5 | 43.5 |
 | 16:00 | CAD | Low | Budget Balance (Nov) |  |  | -2.28B |
 | 16:00 | CAD | Low | Budget Balance (YoY) (Nov) |  |  | -18.37B |
-| 17:30 | BRL | Low | CAGED Net Payroll Jobs (Dec) |  |  | 85.86K |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 411 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 544 |
 | 18:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |

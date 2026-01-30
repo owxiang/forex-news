@@ -55,14 +55,14 @@
 | 10:00 | INR | Federal Fiscal Deficit (Dec) | 8,558.42B |  | 9,766.71B |
 | 11:00 | EUR | Italian PPI (MoM) (Dec) | -0.7% |  | 1.0% |
 | 11:00 | EUR | Italian PPI (YoY) (Dec) | -1.4% |  | -0.2% |
-| 17 min | INR | Bank Loan Growth |  |  | 14.5% |
-| 17 min | INR | Deposit Growth |  |  | 12.7% |
-| 17 min | INR | FX Reserves, USD |  |  | 701.36B |
-| 17 min | INR | RBI Monetary and Credit Information Review |  |  |  |
-| 17 min | BRL | Net Debt-to-GDP ratio (Dec) |  |  | 65.2% |
-| 17 min | BRL | Budget Balance (Dec) |  | -95.400B | -101.600B |
-| 17 min | BRL | Budget Surplus (Dec) |  |  | -14.400B |
-| 47 min | ZAR | Trade Balance (Dec) |  |  | 37.73B |
+| 11:30 | INR | FX Reserves, USD | 709.41B |  | 701.36B |
+| 11:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
+| 11:30 | BRL | Net Debt-to-GDP ratio (Dec) | 65.3% |  | 65.2% |
+| 11:30 | BRL | Budget Balance (Dec) | -115.502B | -95.400B | -101.600B |
+| 11:30 | BRL | Budget Surplus (Dec) | 6.251B |  | -14.400B |
+| 12:00 | INR | Bank Loan Growth | 13.1% |  | 14.5% |
+| 12:00 | INR | Deposit Growth | 10.6% |  | 12.7% |
+| 12:00 | ZAR | Trade Balance (Dec) | 23.18B |  | 37.92B |
 | 13:00 | EUR | German HICP (MoM) (Jan) |  | -0.2% | 0.2% |
 | 13:00 | EUR | German HICP (YoY) (Jan) |  | 2.0% | 2.0% |
 | 13:30 | USD | Core PPI (YoY) (Dec) |  | 2.9% | 3.0% |
@@ -71,7 +71,6 @@
 | 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Dec) |  |  | 0.2% |
 | 16:00 | CAD | Budget Balance (Nov) |  |  | -2.28B |
 | 16:00 | CAD | Budget Balance (YoY) (Nov) |  |  | -18.37B |
-| 17:30 | BRL | CAGED Net Payroll Jobs (Dec) |  |  | 85.86K |
 | 19:00 | MXN | Fiscal Balance (Dec) |  |  | -200.52B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -3.4K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 52.6K |

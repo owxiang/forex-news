@@ -17,10 +17,10 @@
 | 10:00 | EUR | GDP (QoQ) (Q4) | 0.3% | 0.2% | 0.3% |
 | 10:00 | EUR | GDP (YoY) (Q4) | 1.3% | 1.2% | 1.4% |
 | 10:00 | EUR | Unemployment Rate (Dec) | 6.2% | 6.3% | 6.3% |
-| 17 min | BRL | Gross Debt-to-GDP ratio (MoM) (Dec) |  | 79.5% | 79.0% |
-| 47 min | MXN | GDP (YoY) (Q4) |  | 1.3% | -0.1% |
-| 47 min | MXN | GDP (QoQ) (Q4) |  | 0.6% | -0.3% |
-| 47 min | BRL | Unemployment Rate (Dec) |  | 5.1% | 5.2% |
+| 11:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Dec) | 78.7% | 79.5% | 79.0% |
+| 12:00 | MXN | GDP (YoY) (Q4) | 1.6% | 1.3% | -0.1% |
+| 12:00 | MXN | GDP (QoQ) (Q4) | 0.8% | 0.6% | -0.3% |
+| 12:00 | BRL | Unemployment Rate (Dec) | 5.1% | 5.1% | 5.2% |
 | 13:00 | EUR | German CPI (YoY) (Jan) |  | 2.0% | 1.8% |
 | 13:30 | USD | Core PPI (MoM) (Dec) |  | 0.2% | 0.0% |
 | 13:30 | CAD | GDP (MoM) (Nov) |  | 0.1% | -0.3% |
