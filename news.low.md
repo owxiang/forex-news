@@ -71,14 +71,14 @@
 | 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Dec) | 0.4% |  | 0.2% |
 | 16:00 | CAD | Budget Balance (Nov) | -8.02B |  | -2.28B |
 | 16:00 | CAD | Budget Balance (YoY) (Nov) | -26.39B |  | -18.37B |
-| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -3.4K |
-| 20:30 | USD | CFTC Copper speculative net positions |  |  | 52.6K |
-| 20:30 | USD | CFTC Corn speculative net positions |  |  | -51.7K |
-| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -193.5K |
-| 20:30 | USD | CFTC Silver speculative net positions |  |  | 25.2K |
-| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 58.1K |
-| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -93.7K |
-| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -41.8K |
-| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 107.2K |
-| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -43.2K |
-| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -49.6K |
+| 20:30 | USD | CFTC Aluminium speculative net positions | -3.6K |  | -3.4K |
+| 20:30 | USD | CFTC Copper speculative net positions | 48.4K |  | 52.6K |
+| 20:30 | USD | CFTC Corn speculative net positions | -31.7K |  | -51.7K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions | -163.6K |  | -193.5K |
+| 20:30 | USD | CFTC Silver speculative net positions | 23.7K |  | 25.2K |
+| 20:30 | USD | CFTC Soybeans speculative net positions | 57.4K |  | 58.1K |
+| 20:30 | USD | CFTC Wheat speculative net positions | -79.4K |  | -93.7K |
+| 20:30 | CAD | CFTC CAD speculative net positions | -16.0K |  | -41.8K |
+| 20:30 | MXN | CFTC MXN speculative net positions | 103.1K |  | 107.2K |
+| 20:30 | CHF | CFTC CHF speculative net positions | -42.9K |  | -43.2K |
+| 20:30 | NZD | CFTC NZD speculative net positions | -47.7K |  | -49.6K |
