@@ -5,4 +5,4 @@
 | 09:00 | EUR | German GDP (QoQ) (Q4) | 0.3% | 0.2% | 0.0% |
 | 13:00 | EUR | German CPI (MoM) (Jan) | 0.1% | 0.0% | 0.0% |
 | 13:30 | USD | PPI (MoM) (Dec) | 0.5% | 0.2% | 0.2% |
-| 28 min | USD | Chicago PMI (Jan) |  | 43.5 | 43.5 |
+| 14:45 | USD | Chicago PMI (Jan) | 54.0 | 43.5 | 42.7 |
