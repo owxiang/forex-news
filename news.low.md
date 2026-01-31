@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | MXN | Fiscal Balance (Dec) |  |  | -200.52B |
+| 22 min | MXN | Fiscal Balance (Dec) |  |  | -200.52B |
