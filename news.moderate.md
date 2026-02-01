@@ -1,4 +1,4 @@
-## 01 February 2026 - Moderate Impact Forex News
+## None - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|

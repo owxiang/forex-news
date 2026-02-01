@@ -1,4 +1,4 @@
-## 01 February 2026 - All Forex News
+## None - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
@@ -8,4 +8,4 @@
 | 06:00 | INR | Moderate | Indian Union Budget |  |  |  |
 | 10:00 | USD | Moderate | OPEC Meeting |  |  |  |
 | 22:00 | AUD | Low | Judo Bank Manufacturing PMI (Jan) | 52.3 | 52.4 | 52.4 |
-| 23:50 | JPY | Low | BoJ Summary of Opinions |  |  |  |
+| 38 min | JPY | Low | BoJ Summary of Opinions |  |  |  |
