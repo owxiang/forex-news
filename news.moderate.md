@@ -3,4 +3,4 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 06:00 | INR | Indian Union Budget |  |  |  |
-| 10:00 | USD | OPEC Meeting |  |  |  |
+| 47 min | USD | OPEC Meeting |  |  |  |
