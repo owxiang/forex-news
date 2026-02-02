@@ -33,7 +33,7 @@
 | 15:00 | USD | ISM Manufacturing New Orders Index (Jan) | 57.1 |  | 47.4 |
 | 16:30 | USD | 3-Month Bill Auction | 3.600% |  | 3.580% |
 | 16:30 | USD | 6-Month Bill Auction | 3.525% |  | 3.525% |
-| 19:00 | USD | Loan Officer Survey |  |  |  |
+| 42 min | USD | Loan Officer Survey |  |  |  |
 | 21:45 | NZD | Building Consents (MoM) (Dec) |  |  | 2.8% |
 | 23:00 | KRW | CPI (YoY) (Jan) |  | 2.1% | 2.3% |
 | 23:00 | KRW | CPI (MoM) (Jan) |  | 0.4% | 0.3% |

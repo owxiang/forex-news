@@ -49,8 +49,8 @@
 | 16:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 4.2% | 4.2% | 4.2% |
 | 16:30 | USD | Low | 3-Month Bill Auction | 3.600% |  | 3.580% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 3.525% |  | 3.525% |
-| 11 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 19:00 | USD | Low | Loan Officer Survey |  |  |  |
+| 17:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 42 min | USD | Low | Loan Officer Survey |  |  |  |
 | 21:45 | NZD | Low | Building Consents (MoM) (Dec) |  |  | 2.8% |
 | 23:00 | KRW | Low | CPI (YoY) (Jan) |  | 2.1% | 2.3% |
 | 23:00 | KRW | Low | CPI (MoM) (Jan) |  | 0.4% | 0.3% |
