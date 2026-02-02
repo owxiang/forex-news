@@ -21,16 +21,16 @@
 | 09:00 | ZAR | Manufacturing PMI (Jan) | 48.7 |  | 40.5 |
 | 11:00 | EUR | Car Registration (YoY) (Jan) | 1.10% |  | -2.20% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 11:30 | ZAR | Total Vehicle Sales (YoY) (Jan) | 7.50% |  | 19.20% |
 | 11:45 | GBP | BoE Breeden Speaks |  |  |  |
+| 12:00 | ZAR | Total Vehicle Sales (YoY) (Jan) | 7.50% |  | 19.20% |
 | 12:00 | ZAR | Total Vehicle Sales (Jan) | 50.07K |  | 48.98K |
 | 13:00 | BRL | S&P Global Manufacturing PMI (Jan) | 47.0 |  | 47.6 |
 | 13:00 | SGD | S&P Global Manufacturing PMI (Jan) | 50.5 |  | 50.3 |
 | 14:00 | EUR | French 12-Month BTF Auction | 2.058% |  | 2.084% |
 | 14:00 | EUR | French 3-Month BTF Auction | 2.007% |  | 2.021% |
 | 14:00 | EUR | French 6-Month BTF Auction | 2.036% |  | 2.045% |
-| 10 min | CAD | S&P Global Manufacturing PMI (Jan) |  |  | 48.6 |
-| 40 min | USD | ISM Manufacturing New Orders Index (Jan) |  |  | 47.7 |
+| 14:30 | CAD | S&P Global Manufacturing PMI (Jan) | 50.4 |  | 48.6 |
+| 15:00 | USD | ISM Manufacturing New Orders Index (Jan) | 57.1 |  | 47.4 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 3.580% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 3.525% |
 | 16:30 | EUR | Car Registration (MoM) (Jan) |  |  | 9.40% |

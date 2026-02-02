@@ -32,20 +32,20 @@
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Jan) | 51.8 | 51.6 | 50.6 |
 | 11:00 | EUR | Low | Car Registration (YoY) (Jan) | 1.10% |  | -2.20% |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 11:30 | ZAR | Low | Total Vehicle Sales (YoY) (Jan) | 7.50% |  | 19.20% |
 | 11:45 | GBP | Low | BoE Breeden Speaks |  |  |  |
+| 12:00 | ZAR | Low | Total Vehicle Sales (YoY) (Jan) | 7.50% |  | 19.20% |
 | 12:00 | ZAR | Low | Total Vehicle Sales (Jan) | 50.07K |  | 48.98K |
 | 13:00 | BRL | Low | S&P Global Manufacturing PMI (Jan) | 47.0 |  | 47.6 |
 | 13:00 | SGD | Low | S&P Global Manufacturing PMI (Jan) | 50.5 |  | 50.3 |
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.058% |  | 2.084% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.007% |  | 2.021% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.036% |  | 2.045% |
-| 10 min | CAD | Low | S&P Global Manufacturing PMI (Jan) |  |  | 48.6 |
-| 25 min | USD | High | S&P Global Manufacturing PMI (Jan) |  | 51.9 | 51.8 |
-| 40 min | USD | Moderate | ISM Manufacturing Employment (Jan) |  |  | 44.9 |
-| 40 min | USD | Low | ISM Manufacturing New Orders Index (Jan) |  |  | 47.7 |
-| 40 min | USD | High | ISM Manufacturing PMI (Jan) |  | 48.5 | 47.9 |
-| 40 min | USD | High | ISM Manufacturing Prices (Jan) |  | 59.3 | 58.5 |
+| 14:30 | CAD | Low | S&P Global Manufacturing PMI (Jan) | 50.4 |  | 48.6 |
+| 14:45 | USD | High | S&P Global Manufacturing PMI (Jan) | 52.4 | 51.9 | 51.9 |
+| 15:00 | USD | Moderate | ISM Manufacturing Employment (Jan) | 48.1 | 46.0 | 44.8 |
+| 15:00 | USD | Low | ISM Manufacturing New Orders Index (Jan) | 57.1 |  | 47.4 |
+| 15:00 | USD | High | ISM Manufacturing PMI (Jan) | 52.6 | 48.5 | 47.9 |
+| 15:00 | USD | High | ISM Manufacturing Prices (Jan) | 59.0 | 59.3 | 58.5 |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.580% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.525% |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 4.2% | 4.2% |
