@@ -19,8 +19,8 @@
 | 07:00 | EUR | German Retail Sales (YoY) (Dec) | 1.5% |  | -1.6% |
 | 07:30 | CHF | Retail Sales (YoY) (Dec) | 2.9% | 2.5% | 1.7% |
 | 09:00 | ZAR | Manufacturing PMI (Jan) | 48.7 |  | 40.5 |
-| 11:00 | EUR | Car Registration (YoY) (Jan) |  |  | -2.20% |
-| 11:00 | EUR | Car Registration (MoM) (Jan) |  |  | 9.40% |
+| 38 min | EUR | Car Registration (YoY) (Jan) |  |  | -2.20% |
+| 38 min | EUR | Car Registration (MoM) (Jan) |  |  | 9.40% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 11:45 | GBP | BoE Breeden Speaks |  |  |  |
 | 12:15 | ZAR | Total Vehicle Sales (YoY) |  |  | 19.20% |

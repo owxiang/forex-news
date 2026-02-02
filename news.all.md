@@ -29,9 +29,9 @@
 | 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Jan) | 49.1 | 48.7 | 47.0 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Jan) | 49.5 | 49.4 | 48.8 |
 | 09:00 | ZAR | Low | Manufacturing PMI (Jan) | 48.7 |  | 40.5 |
-| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Jan) |  | 51.6 | 50.6 |
-| 11:00 | EUR | Low | Car Registration (YoY) (Jan) |  |  | -2.20% |
-| 11:00 | EUR | Low | Car Registration (MoM) (Jan) |  |  | 9.40% |
+| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Jan) | 51.8 | 51.6 | 50.6 |
+| 38 min | EUR | Low | Car Registration (YoY) (Jan) |  |  | -2.20% |
+| 38 min | EUR | Low | Car Registration (MoM) (Jan) |  |  | 9.40% |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 11:45 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 12:15 | ZAR | Low | Total Vehicle Sales (YoY) |  |  | 19.20% |
