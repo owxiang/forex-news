@@ -7,7 +7,7 @@
 | 00:30 | AUD | Low | ANZ Job Advertisements (MoM) (Jan) | 4.4% |  | -0.8% |
 | 00:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Jan) | 51.5 | 51.5 | 50.0 |
 | 00:30 | IDR | Low | S&P Global Manufacturing PMI (Jan) | 52.6 |  | 51.2 |
-| 01:45 | CNY | Moderate | Caixin Manufacturing PMI (MoM) (Jan) | 50.3 | 50.1 | 50.1 |
+| 01:45 | CNY | Moderate | RatingDog Manufacturing PMI (MoM) (Jan) | 50.3 | 50.1 | 50.1 |
 | 04:00 | IDR | Low | Export Growth (YoY) (Dec) | 11.64% | -2.40% | -6.60% |
 | 04:00 | IDR | Low | Import Growth (YoY) (Dec) | 10.81% | -0.70% | 0.46% |
 | 04:00 | IDR | Low | Trade Balance (Dec) | 2.52B | 2.45B | 2.66B |
@@ -37,19 +37,19 @@
 | 12:00 | ZAR | Low | Total Vehicle Sales (Jan) | 50.07K |  | 48.98K |
 | 13:00 | BRL | Low | S&P Global Manufacturing PMI (Jan) | 47.0 |  | 47.6 |
 | 13:00 | SGD | Low | S&P Global Manufacturing PMI (Jan) | 50.5 |  | 50.3 |
-| 13:30 | EUR | Low | Car Registration (MoM) (Jan) |  |  | 9.40% |
-| 29 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.084% |
-| 29 min | EUR | Low | French 3-Month BTF Auction |  |  | 2.021% |
-| 29 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.045% |
-| 59 min | CAD | Low | S&P Global Manufacturing PMI (Jan) |  |  | 48.6 |
-| 14:45 | USD | High | S&P Global Manufacturing PMI (Jan) |  | 51.9 | 51.8 |
-| 15:00 | USD | Moderate | ISM Manufacturing Employment (Jan) |  |  | 44.9 |
-| 15:00 | USD | Low | ISM Manufacturing New Orders Index (Jan) |  |  | 47.7 |
-| 15:00 | USD | High | ISM Manufacturing PMI (Jan) |  | 48.5 | 47.9 |
-| 15:00 | USD | High | ISM Manufacturing Prices (Jan) |  | 59.3 | 58.5 |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.058% |  | 2.084% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.007% |  | 2.021% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.036% |  | 2.045% |
+| 10 min | CAD | Low | S&P Global Manufacturing PMI (Jan) |  |  | 48.6 |
+| 25 min | USD | High | S&P Global Manufacturing PMI (Jan) |  | 51.9 | 51.8 |
+| 40 min | USD | Moderate | ISM Manufacturing Employment (Jan) |  |  | 44.9 |
+| 40 min | USD | Low | ISM Manufacturing New Orders Index (Jan) |  |  | 47.7 |
+| 40 min | USD | High | ISM Manufacturing PMI (Jan) |  | 48.5 | 47.9 |
+| 40 min | USD | High | ISM Manufacturing Prices (Jan) |  | 59.3 | 58.5 |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.580% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.525% |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 4.2% | 4.2% |
+| 16:30 | EUR | Low | Car Registration (MoM) (Jan) |  |  | 9.40% |
 | 17:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 19:00 | USD | Low | Loan Officer Survey |  |  |  |
 | 21:45 | NZD | Low | Building Consents (MoM) (Dec) |  |  | 2.8% |

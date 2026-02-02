@@ -26,14 +26,14 @@
 | 12:00 | ZAR | Total Vehicle Sales (Jan) | 50.07K |  | 48.98K |
 | 13:00 | BRL | S&P Global Manufacturing PMI (Jan) | 47.0 |  | 47.6 |
 | 13:00 | SGD | S&P Global Manufacturing PMI (Jan) | 50.5 |  | 50.3 |
-| 13:30 | EUR | Car Registration (MoM) (Jan) |  |  | 9.40% |
-| 29 min | EUR | French 12-Month BTF Auction |  |  | 2.084% |
-| 29 min | EUR | French 3-Month BTF Auction |  |  | 2.021% |
-| 29 min | EUR | French 6-Month BTF Auction |  |  | 2.045% |
-| 59 min | CAD | S&P Global Manufacturing PMI (Jan) |  |  | 48.6 |
-| 15:00 | USD | ISM Manufacturing New Orders Index (Jan) |  |  | 47.7 |
+| 14:00 | EUR | French 12-Month BTF Auction | 2.058% |  | 2.084% |
+| 14:00 | EUR | French 3-Month BTF Auction | 2.007% |  | 2.021% |
+| 14:00 | EUR | French 6-Month BTF Auction | 2.036% |  | 2.045% |
+| 10 min | CAD | S&P Global Manufacturing PMI (Jan) |  |  | 48.6 |
+| 40 min | USD | ISM Manufacturing New Orders Index (Jan) |  |  | 47.7 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 3.580% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 3.525% |
+| 16:30 | EUR | Car Registration (MoM) (Jan) |  |  | 9.40% |
 | 19:00 | USD | Loan Officer Survey |  |  |  |
 | 21:45 | NZD | Building Consents (MoM) (Dec) |  |  | 2.8% |
 | 23:00 | KRW | CPI (YoY) (Jan) |  | 2.1% | 2.3% |

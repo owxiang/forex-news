@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:45 | CNY | Caixin Manufacturing PMI (MoM) (Jan) | 50.3 | 50.1 | 50.1 |
+| 01:45 | CNY | RatingDog Manufacturing PMI (MoM) (Jan) | 50.3 | 50.1 | 50.1 |
 | 07:00 | GBP | Nationwide HPI (MoM) (Jan) | 0.3% | 0.3% | -0.4% |
 | 07:00 | GBP | Nationwide HPI (YoY) (Jan) | 1.0% | 0.7% | 0.6% |
 | 07:00 | EUR | German Retail Sales (MoM) (Dec) | 0.1% | -0.1% | -0.5% |
@@ -13,6 +13,6 @@
 | 08:55 | EUR | HCOB Germany Manufacturing PMI (Jan) | 49.1 | 48.7 | 47.0 |
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Jan) | 49.5 | 49.4 | 48.8 |
 | 09:30 | GBP | S&P Global Manufacturing PMI (Jan) | 51.8 | 51.6 | 50.6 |
-| 15:00 | USD | ISM Manufacturing Employment (Jan) |  |  | 44.9 |
+| 40 min | USD | ISM Manufacturing Employment (Jan) |  |  | 44.9 |
 | 16:30 | USD | Atlanta Fed GDPNow (Q4) |  | 4.2% | 4.2% |
 | 17:30 | USD | FOMC Member Bostic Speaks |  |  |  |
