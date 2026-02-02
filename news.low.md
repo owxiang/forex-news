@@ -17,8 +17,8 @@
 | 05:00 | IDR | Inflation (MoM) (Jan) | -0.15% |  | 0.64% |
 | 05:30 | AUD | Commodity Prices (YoY) (Jan) | 2.6% |  | -3.2% |
 | 07:00 | EUR | German Retail Sales (YoY) (Dec) | 1.5% |  | -1.6% |
-| 3 min | CHF | Retail Sales (YoY) (Dec) |  | 2.5% | 2.3% |
-| 09:00 | ZAR | Manufacturing PMI (Jan) |  |  | 40.5 |
+| 07:30 | CHF | Retail Sales (YoY) (Dec) | 2.9% | 2.5% | 1.7% |
+| 41 min | ZAR | Manufacturing PMI (Jan) |  |  | 40.5 |
 | 11:00 | EUR | Car Registration (YoY) (Jan) |  |  | -2.20% |
 | 11:00 | EUR | Car Registration (MoM) (Jan) |  |  | 9.40% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |

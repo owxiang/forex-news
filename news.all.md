@@ -21,14 +21,14 @@
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Jan) | 1.0% | 0.7% | 0.6% |
 | 07:00 | EUR | Low | German Retail Sales (YoY) (Dec) | 1.5% |  | -1.6% |
 | 07:00 | EUR | Moderate | German Retail Sales (MoM) (Dec) | 0.1% | -0.1% | -0.5% |
-| 3 min | CHF | Low | Retail Sales (YoY) (Dec) |  | 2.5% | 2.3% |
-| 48 min | EUR | Moderate | HCOB Spain Manufacturing PMI (Jan) |  | 49.9 | 49.6 |
-| 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (Jan) |  | 47.2 | 45.8 |
-| 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Jan) |  | 48.5 | 47.9 |
-| 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (Jan) |  | 51.0 | 50.7 |
-| 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Jan) |  | 48.7 | 47.0 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Jan) |  | 49.4 | 48.8 |
-| 09:00 | ZAR | Low | Manufacturing PMI (Jan) |  |  | 40.5 |
+| 07:30 | CHF | Low | Retail Sales (YoY) (Dec) | 2.9% | 2.5% | 1.7% |
+| 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Jan) | 49.2 | 49.9 | 49.6 |
+| 11 min | CHF | Moderate | procure.ch Manufacturing PMI (Jan) |  | 47.2 | 45.8 |
+| 26 min | EUR | Moderate | HCOB Italy Manufacturing PMI (Jan) |  | 48.5 | 47.9 |
+| 31 min | EUR | Moderate | HCOB France Manufacturing PMI (Jan) |  | 51.0 | 50.7 |
+| 36 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Jan) |  | 48.7 | 47.0 |
+| 41 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Jan) |  | 49.4 | 48.8 |
+| 41 min | ZAR | Low | Manufacturing PMI (Jan) |  |  | 40.5 |
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Jan) |  | 51.6 | 50.6 |
 | 11:00 | EUR | Low | Car Registration (YoY) (Jan) |  |  | -2.20% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Jan) |  |  | 9.40% |
