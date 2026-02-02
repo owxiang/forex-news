@@ -7,15 +7,15 @@
 | 00:30 | AUD | ANZ Job Advertisements (MoM) (Jan) | 4.4% |  | -0.8% |
 | 00:30 | JPY | au Jibun Bank Manufacturing PMI (Jan) | 51.5 | 51.5 | 51.5 |
 | 00:30 | IDR | S&P Global Manufacturing PMI (Jan) | 52.6 |  | 51.2 |
-| 04:00 | IDR | Core Inflation (YoY) (Jan) |  | 2.37% | 2.38% |
-| 04:00 | IDR | Export Growth (YoY) (Dec) |  | -2.40% | -6.60% |
-| 04:00 | IDR | Import Growth (YoY) (Dec) |  | -0.70% | 0.46% |
-| 04:00 | IDR | Inflation (YoY) (Jan) |  | 3.80% | 2.92% |
-| 04:00 | IDR | Inflation (MoM) (Jan) |  |  | 0.64% |
-| 04:00 | IDR | Trade Balance (Dec) |  | 2.45B | 2.66B |
-| 05:00 | INR | S&P Global Manufacturing PMI (Jan) |  | 56.8 | 56.8 |
-| 05:00 | SGD | Business Expectations (Q4) |  |  | 8.00 |
-| 05:30 | AUD | Commodity Prices (YoY) (Jan) |  |  | -3.8% |
+| 04:00 | IDR | Export Growth (YoY) (Dec) | 11.64% | -2.40% | -6.60% |
+| 04:00 | IDR | Import Growth (YoY) (Dec) | 10.81% | -0.70% | 0.46% |
+| 04:00 | IDR | Inflation (YoY) (Jan) | 3.55% | 3.80% | 2.92% |
+| 04:00 | IDR | Inflation (MoM) (Jan) | -0.15% |  | 0.64% |
+| 04:00 | IDR | Trade Balance (Dec) | 2.52B | 2.45B | 2.66B |
+| 14 min | INR | S&P Global Manufacturing PMI (Jan) |  | 56.8 | 55.0 |
+| 14 min | SGD | Business Expectations (Q4) |  |  | 8.00 |
+| 14 min | IDR | Core Inflation (YoY) (Jan) |  | 2.37% | 2.38% |
+| 44 min | AUD | Commodity Prices (YoY) (Jan) |  |  | -3.8% |
 | 07:00 | EUR | German Retail Sales (YoY) (Dec) |  |  | 1.1% |
 | 07:30 | CHF | Retail Sales (YoY) (Dec) |  | 2.5% | 2.3% |
 | 09:00 | ZAR | Manufacturing PMI (Jan) |  |  | 40.5 |
