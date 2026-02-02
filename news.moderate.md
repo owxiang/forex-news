@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 4 min | CNY | Caixin Manufacturing PMI (MoM) (Jan) |  | 50.3 | 50.1 |
+| 01:45 | CNY | Caixin Manufacturing PMI (MoM) (Jan) | 50.3 | 50.3 | 50.1 |
 | 07:00 | GBP | Nationwide HPI (MoM) (Jan) |  | 0.3% | -0.4% |
 | 07:00 | GBP | Nationwide HPI (YoY) (Jan) |  | 0.7% | 0.6% |
 | 07:00 | EUR | German Retail Sales (MoM) (Dec) |  | -0.1% | -0.6% |

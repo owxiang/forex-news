@@ -7,7 +7,7 @@
 | 00:30 | AUD | Low | ANZ Job Advertisements (MoM) (Jan) | 4.4% |  | -0.8% |
 | 00:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Jan) | 51.5 | 51.5 | 51.5 |
 | 00:30 | IDR | Low | S&P Global Manufacturing PMI (Jan) | 52.6 |  | 51.2 |
-| 4 min | CNY | Moderate | Caixin Manufacturing PMI (MoM) (Jan) |  | 50.3 | 50.1 |
+| 01:45 | CNY | Moderate | Caixin Manufacturing PMI (MoM) (Jan) | 50.3 | 50.3 | 50.1 |
 | 04:00 | IDR | Low | Core Inflation (YoY) (Jan) |  | 2.37% | 2.38% |
 | 04:00 | IDR | Low | Export Growth (YoY) (Dec) |  | -2.40% | -6.60% |
 | 04:00 | IDR | Low | Import Growth (YoY) (Dec) |  | -0.70% | 0.46% |
