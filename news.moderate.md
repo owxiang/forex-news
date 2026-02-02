@@ -14,5 +14,5 @@
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Jan) | 49.5 | 49.4 | 48.8 |
 | 09:30 | GBP | S&P Global Manufacturing PMI (Jan) | 51.8 | 51.6 | 50.6 |
 | 15:00 | USD | ISM Manufacturing Employment (Jan) | 48.1 | 46.0 | 44.8 |
-| 16:10 | USD | Atlanta Fed GDPNow (Q4) | 4.2% | 4.2% | 4.2% |
-| 17:30 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 16:00 | USD | Atlanta Fed GDPNow (Q4) | 4.2% | 4.2% | 4.2% |
+| 11 min | USD | FOMC Member Bostic Speaks |  |  |  |

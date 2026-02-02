@@ -31,9 +31,8 @@
 | 14:00 | EUR | French 6-Month BTF Auction | 2.036% |  | 2.045% |
 | 14:30 | CAD | S&P Global Manufacturing PMI (Jan) | 50.4 |  | 48.6 |
 | 15:00 | USD | ISM Manufacturing New Orders Index (Jan) | 57.1 |  | 47.4 |
-| 16:30 | USD | 3-Month Bill Auction |  |  | 3.580% |
-| 16:30 | USD | 6-Month Bill Auction |  |  | 3.525% |
-| 16:30 | EUR | Car Registration (MoM) (Jan) |  |  | 9.40% |
+| 16:30 | USD | 3-Month Bill Auction | 3.600% |  | 3.580% |
+| 16:30 | USD | 6-Month Bill Auction | 3.525% |  | 3.525% |
 | 19:00 | USD | Loan Officer Survey |  |  |  |
 | 21:45 | NZD | Building Consents (MoM) (Dec) |  |  | 2.8% |
 | 23:00 | KRW | CPI (YoY) (Jan) |  | 2.1% | 2.3% |

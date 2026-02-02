@@ -19,8 +19,8 @@
 | 05:30 | AUD | Low | Commodity Prices (YoY) (Jan) | 2.6% |  | -3.2% |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Jan) | 0.3% | 0.3% | -0.4% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Jan) | 1.0% | 0.7% | 0.6% |
-| 07:00 | EUR | Low | German Retail Sales (YoY) (Dec) | 1.5% |  | -1.6% |
 | 07:00 | EUR | Moderate | German Retail Sales (MoM) (Dec) | 0.1% | -0.1% | -0.5% |
+| 07:00 | EUR | Low | German Retail Sales (YoY) (Dec) | 1.5% |  | -1.6% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Dec) | 2.9% | 2.5% | 1.7% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Jan) | 49.2 | 49.9 | 49.6 |
 | 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (Jan) | 48.8 | 47.2 | 45.8 |
@@ -46,11 +46,10 @@
 | 15:00 | USD | Low | ISM Manufacturing New Orders Index (Jan) | 57.1 |  | 47.4 |
 | 15:00 | USD | High | ISM Manufacturing PMI (Jan) | 52.6 | 48.5 | 47.9 |
 | 15:00 | USD | High | ISM Manufacturing Prices (Jan) | 59.0 | 59.3 | 58.5 |
-| 16:10 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 4.2% | 4.2% | 4.2% |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.580% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.525% |
-| 16:30 | EUR | Low | Car Registration (MoM) (Jan) |  |  | 9.40% |
-| 17:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 16:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 4.2% | 4.2% | 4.2% |
+| 16:30 | USD | Low | 3-Month Bill Auction | 3.600% |  | 3.580% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 3.525% |  | 3.525% |
+| 11 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 19:00 | USD | Low | Loan Officer Survey |  |  |  |
 | 21:45 | NZD | Low | Building Consents (MoM) (Dec) |  |  | 2.8% |
 | 23:00 | KRW | Low | CPI (YoY) (Jan) |  | 2.1% | 2.3% |
