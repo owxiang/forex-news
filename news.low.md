@@ -19,12 +19,12 @@
 | 07:00 | EUR | German Retail Sales (YoY) (Dec) | 1.5% |  | -1.6% |
 | 07:30 | CHF | Retail Sales (YoY) (Dec) | 2.9% | 2.5% | 1.7% |
 | 09:00 | ZAR | Manufacturing PMI (Jan) | 48.7 |  | 40.5 |
-| 38 min | EUR | Car Registration (YoY) (Jan) |  |  | -2.20% |
-| 38 min | EUR | Car Registration (MoM) (Jan) |  |  | 9.40% |
-| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 11:45 | GBP | BoE Breeden Speaks |  |  |  |
-| 12:15 | ZAR | Total Vehicle Sales (YoY) |  |  | 19.20% |
-| 12:15 | ZAR | Total Vehicle Sales (Jan) |  |  | 48.98K |
+| 6 min | BRL | BCB Focus Market Readout |  |  |  |
+| 11 min | EUR | Car Registration (MoM) (Jan) |  |  | 9.40% |
+| 11 min | EUR | Car Registration (YoY) (Jan) |  |  | -2.20% |
+| 26 min | GBP | BoE Breeden Speaks |  |  |  |
+| 56 min | ZAR | Total Vehicle Sales (YoY) |  |  | 19.20% |
+| 56 min | ZAR | Total Vehicle Sales (Jan) |  |  | 48.98K |
 | 13:00 | BRL | S&P Global Manufacturing PMI (Jan) |  |  | 47.6 |
 | 13:00 | SGD | S&P Global Manufacturing PMI (Jan) |  |  | 50.3 |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.084% |
