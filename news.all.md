@@ -17,11 +17,11 @@
 | 05:00 | IDR | Low | Inflation (YoY) (Jan) | 3.55% | 3.80% | 2.92% |
 | 05:00 | IDR | Low | Inflation (MoM) (Jan) | -0.15% |  | 0.64% |
 | 05:30 | AUD | Low | Commodity Prices (YoY) (Jan) | 2.6% |  | -3.2% |
-| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Jan) |  | 0.3% | -0.4% |
-| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Jan) |  | 0.7% | 0.6% |
-| 07:00 | EUR | Low | German Retail Sales (YoY) (Dec) |  |  | 1.1% |
-| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Dec) |  | -0.1% | -0.6% |
-| 07:30 | CHF | Low | Retail Sales (YoY) (Dec) |  | 2.5% | 2.3% |
+| 29 min | GBP | Moderate | Nationwide HPI (MoM) (Jan) |  | 0.3% | -0.4% |
+| 29 min | GBP | Moderate | Nationwide HPI (YoY) (Jan) |  | 0.7% | 0.6% |
+| 29 min | EUR | Low | German Retail Sales (YoY) (Dec) |  |  | 1.1% |
+| 29 min | EUR | Moderate | German Retail Sales (MoM) (Dec) |  | -0.1% | -0.6% |
+| 59 min | CHF | Low | Retail Sales (YoY) (Dec) |  | 2.5% | 2.3% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Jan) |  | 49.9 | 49.6 |
 | 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (Jan) |  | 47.2 | 45.8 |
 | 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Jan) |  | 48.5 | 47.9 |
@@ -50,7 +50,7 @@
 | 15:00 | USD | High | ISM Manufacturing Prices (Jan) |  | 59.3 | 58.5 |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.580% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.525% |
-| 16:30 | USD | Moderate | Atlanta Fed GDPNow |  | 4.2% | 4.2% |
+| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 4.2% | 4.2% |
 | 17:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 19:00 | USD | Low | Loan Officer Survey |  |  |  |
 | 21:45 | NZD | Low | Building Consents (MoM) (Dec) |  |  | 2.8% |
