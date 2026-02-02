@@ -17,12 +17,12 @@
 | 05:00 | IDR | Low | Inflation (YoY) (Jan) | 3.55% | 3.80% | 2.92% |
 | 05:00 | IDR | Low | Inflation (MoM) (Jan) | -0.15% |  | 0.64% |
 | 05:30 | AUD | Low | Commodity Prices (YoY) (Jan) | 2.6% |  | -3.2% |
-| 29 min | GBP | Moderate | Nationwide HPI (MoM) (Jan) |  | 0.3% | -0.4% |
-| 29 min | GBP | Moderate | Nationwide HPI (YoY) (Jan) |  | 0.7% | 0.6% |
-| 29 min | EUR | Low | German Retail Sales (YoY) (Dec) |  |  | 1.1% |
-| 29 min | EUR | Moderate | German Retail Sales (MoM) (Dec) |  | -0.1% | -0.6% |
-| 59 min | CHF | Low | Retail Sales (YoY) (Dec) |  | 2.5% | 2.3% |
-| 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Jan) |  | 49.9 | 49.6 |
+| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Jan) | 0.3% | 0.3% | -0.4% |
+| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Jan) | 1.0% | 0.7% | 0.6% |
+| 07:00 | EUR | Low | German Retail Sales (YoY) (Dec) | 1.5% |  | -1.6% |
+| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Dec) | 0.1% | -0.1% | -0.5% |
+| 3 min | CHF | Low | Retail Sales (YoY) (Dec) |  | 2.5% | 2.3% |
+| 48 min | EUR | Moderate | HCOB Spain Manufacturing PMI (Jan) |  | 49.9 | 49.6 |
 | 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (Jan) |  | 47.2 | 45.8 |
 | 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Jan) |  | 48.5 | 47.9 |
 | 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (Jan) |  | 51.0 | 50.7 |
@@ -30,9 +30,8 @@
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Jan) |  | 49.4 | 48.8 |
 | 09:00 | ZAR | Low | Manufacturing PMI (Jan) |  |  | 40.5 |
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Jan) |  | 51.6 | 50.6 |
-| 10:00 | USD | Moderate | OPEC Meeting |  |  |  |
-| 11:00 | EUR | Low | Car Registration (MoM) (Jan) |  |  | 9.40% |
 | 11:00 | EUR | Low | Car Registration (YoY) (Jan) |  |  | -2.20% |
+| 11:00 | EUR | Low | Car Registration (MoM) (Jan) |  |  | 9.40% |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 11:45 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 12:15 | ZAR | Low | Total Vehicle Sales (YoY) |  |  | 19.20% |
