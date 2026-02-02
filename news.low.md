@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
+| 00:00 | AUD | MI Inflation Gauge (MoM) (Jan) | 0.2% |  | 1.0% |
 | 00:30 | KRW | S&P Global South Korea Manufacturing PMI (Jan) | 51.2 |  | 50.1 |
-| 00:30 | AUD | ANZ Job Advertisements (MoM) (Jan) |  |  | -0.5% |
-| 00:30 | AUD | MI Inflation Gauge (MoM) (Jan) |  |  | 1.0% |
+| 00:30 | AUD | ANZ Job Advertisements (MoM) (Jan) | 4.4% |  | -0.8% |
 | 00:30 | JPY | au Jibun Bank Manufacturing PMI (Jan) | 51.5 | 51.5 | 51.5 |
 | 00:30 | IDR | S&P Global Manufacturing PMI (Jan) | 52.6 |  | 51.2 |
 | 04:00 | IDR | Core Inflation (YoY) (Jan) |  | 2.37% | 2.38% |
