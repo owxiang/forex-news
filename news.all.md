@@ -5,18 +5,18 @@
 | 00:00 | AUD | Low | MI Inflation Gauge (MoM) (Jan) | 0.2% |  | 1.0% |
 | 00:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Jan) | 51.2 |  | 50.1 |
 | 00:30 | AUD | Low | ANZ Job Advertisements (MoM) (Jan) | 4.4% |  | -0.8% |
-| 00:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Jan) | 51.5 | 51.5 | 51.5 |
+| 00:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Jan) | 51.5 | 51.5 | 50.0 |
 | 00:30 | IDR | Low | S&P Global Manufacturing PMI (Jan) | 52.6 |  | 51.2 |
-| 01:45 | CNY | Moderate | Caixin Manufacturing PMI (MoM) (Jan) | 50.3 | 50.3 | 50.1 |
+| 01:45 | CNY | Moderate | Caixin Manufacturing PMI (MoM) (Jan) | 50.3 | 50.1 | 50.1 |
 | 04:00 | IDR | Low | Export Growth (YoY) (Dec) | 11.64% | -2.40% | -6.60% |
 | 04:00 | IDR | Low | Import Growth (YoY) (Dec) | 10.81% | -0.70% | 0.46% |
-| 04:00 | IDR | Low | Inflation (YoY) (Jan) | 3.55% | 3.80% | 2.92% |
-| 04:00 | IDR | Low | Inflation (MoM) (Jan) | -0.15% |  | 0.64% |
 | 04:00 | IDR | Low | Trade Balance (Dec) | 2.52B | 2.45B | 2.66B |
-| 14 min | INR | Low | S&P Global Manufacturing PMI (Jan) |  | 56.8 | 55.0 |
-| 14 min | SGD | Low | Business Expectations (Q4) |  |  | 8.00 |
-| 14 min | IDR | Low | Core Inflation (YoY) (Jan) |  | 2.37% | 2.38% |
-| 44 min | AUD | Low | Commodity Prices (YoY) (Jan) |  |  | -3.8% |
+| 05:00 | INR | Low | S&P Global Manufacturing PMI (Jan) | 55.4 | 56.8 | 55.0 |
+| 05:00 | SGD | Low | Business Expectations (Q4) | 11.00 |  | 8.00 |
+| 05:00 | IDR | Low | Core Inflation (YoY) (Jan) | 2.45% | 2.37% | 2.38% |
+| 05:00 | IDR | Low | Inflation (YoY) (Jan) | 3.55% | 3.80% | 2.92% |
+| 05:00 | IDR | Low | Inflation (MoM) (Jan) | -0.15% |  | 0.64% |
+| 05:30 | AUD | Low | Commodity Prices (YoY) (Jan) | 2.6% |  | -3.2% |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Jan) |  | 0.3% | -0.4% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Jan) |  | 0.7% | 0.6% |
 | 07:00 | EUR | Low | German Retail Sales (YoY) (Dec) |  |  | 1.1% |
