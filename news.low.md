@@ -1,4 +1,4 @@
-## None - Low Impact Forex News
+## 03 February 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
@@ -16,7 +16,7 @@
 | 11:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
 | 12:00 | BRL | Industrial Production (MoM) (Dec) | -1.2% | -0.8% | -0.2% |
 | 13:00 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 13:55 | USD | Redbook (YoY) |  |  | 7.1% |
+| 23 min | USD | Redbook (YoY) |  |  | 7.1% |
 | 15:00 | MXN | S&P Global Manufacturing PMI (Jan) |  |  | 46.10 |
 | 15:00 | NZD | GlobalDairyTrade Price Index |  |  | 1.5% |
 | 15:00 | USD | Milk Auctions |  |  | 3,615.0 |

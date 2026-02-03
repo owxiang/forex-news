@@ -1,4 +1,4 @@
-## None - All Forex News
+## 03 February 2026 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
@@ -23,10 +23,10 @@
 | 09:40 | EUR | Low | Spanish 6-Month Letras Auction | 1.973% |  | 1.981% |
 | 10:30 | GBP | Low | 10-Year Treasury Gilt Auction | 4.585% |  | 4.456% |
 | 11:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
-| 12:00 | BRL | Moderate | Industrial Production (YoY) (Dec) | 0.4% | 1.0% | -1.2% |
+| 12:00 | BRL | Moderate | Industrial Production (YoY) (Dec) | 0.4% | 1.0% | -1.4% |
 | 12:00 | BRL | Low | Industrial Production (MoM) (Dec) | -1.2% | -0.8% | -0.2% |
 | 13:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 7.1% |
+| 23 min | USD | Low | Redbook (YoY) |  |  | 7.1% |
 | 14:40 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 14:50 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 15:00 | USD | High | JOLTS Job Openings (Dec) |  | 7.230M | 7.146M |

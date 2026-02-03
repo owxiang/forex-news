@@ -1,4 +1,4 @@
-## None - High Impact Forex News
+## 03 February 2026 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
