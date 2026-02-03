@@ -2,14 +2,14 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | AUD | Low | Building Approvals (YoY) (Dec) | 13.30% |  | 4.10% |
+| 00:30 | AUD | Low | Building Approvals (YoY) (Dec) | 0.40% |  | 19.40% |
 | 00:30 | AUD | Moderate | Building Approvals (MoM) (Dec) | -14.9% | -6.2% | 13.1% |
 | 00:30 | AUD | Low | Private House Approvals (Dec) | 0.4% |  | 0.8% |
-| 01:30 | AUD | Low | Business inventories (MoM) (Q4) |  |  | -0.9% |
 | 03:30 | AUD | High | RBA Interest Rate Decision (Feb) |  | 3.85% | 3.60% |
 | 03:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 2.095% |
 | 04:30 | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
 | 04:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
+| 05:00 | AUD | Low | Business inventories (MoM) (Q4) |  |  | -0.9% |
 | 07:45 | EUR | Low | French CPI (YoY) (Jan) |  | 0.6% | 0.8% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Jan) |  | -0.1% | 0.1% |
 | 07:45 | EUR | Low | French Government Budget Balance (Dec) |  |  | -155.4B |

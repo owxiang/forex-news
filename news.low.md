@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Building Approvals (YoY) (Dec) | 13.30% |  | 4.10% |
+| 00:30 | AUD | Building Approvals (YoY) (Dec) | 0.40% |  | 19.40% |
 | 00:30 | AUD | Private House Approvals (Dec) | 0.4% |  | 0.8% |
-| 01:30 | AUD | Business inventories (MoM) (Q4) |  |  | -0.9% |
+| 05:00 | AUD | Business inventories (MoM) (Q4) |  |  | -0.9% |
 | 07:45 | EUR | French CPI (YoY) (Jan) |  | 0.6% | 0.8% |
 | 07:45 | EUR | French Government Budget Balance (Dec) |  |  | -155.4B |
 | 07:45 | EUR | French HICP (YoY) (Jan) |  | 0.6% | 0.7% |
