@@ -1,4 +1,4 @@
-## None - Low Impact Forex News
+## 03 February 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
@@ -25,7 +25,7 @@
 | 21:45 | NZD | Labor Cost Index (YoY) (Q4) | 2.0% | 2.0% | 2.1% |
 | 21:45 | NZD | Participation Rate (Q4) | 70.50% | 70.30% | 70.30% |
 | 21:45 | NZD | Unemployment Rate (Q4) | 5.4% | 5.3% | 5.3% |
-| 22:00 | AUD | AIG Construction Index (Dec) | 5.2 |  | -18.7 |
-| 22:00 | AUD | AIG Manufacturing Index (Dec) | -19.4 |  | -18.0 |
-| 22:00 | AUD | Manufacturing & Services PMI (Jan) | 55.70 | 55.50 | 55.50 |
-| 22:00 | AUD | Judo Bank Services PMI (Jan) | 56.3 | 56.0 | 56.0 |
+| 22:00 | AUD | AIG Construction Index (Dec) | 5.2 |  | -16.9 |
+| 22:00 | AUD | AIG Manufacturing Index (Dec) | -19.4 |  | -18.3 |
+| 22:00 | AUD | Manufacturing & Services PMI (Jan) | 55.70 | 55.50 | 51.00 |
+| 22:00 | AUD | Judo Bank Services PMI (Jan) | 56.3 | 56.0 | 51.1 |
