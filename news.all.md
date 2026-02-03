@@ -19,10 +19,10 @@
 | 08:30 | HKD | Low | Retail Sales (YoY) (Dec) | 6.6% |  | 6.5% |
 | 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Jan) | 0.21% |  | 0.32% |
 | 09:00 | EUR | Low | ECB Bank Lending Survey |  |  |  |
-| 41 min | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
-| 11:30 | EUR | Low | Car Registration (MoM) (Jan) |  |  | 9.40% |
-| 12:00 | BRL | Low | Industrial Production (MoM) (Dec) |  | -0.8% | 0.0% |
-| 12:00 | BRL | Moderate | Industrial Production (YoY) (Dec) |  | 1.0% | -1.2% |
+| 11:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
+| 12 min | EUR | Low | Car Registration (MoM) (Jan) |  |  | 9.40% |
+| 42 min | BRL | Low | Industrial Production (MoM) (Dec) |  | -0.8% | 0.0% |
+| 42 min | BRL | Moderate | Industrial Production (YoY) (Dec) |  | 1.0% | -1.2% |
 | 13:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 7.1% |
 | 14:40 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |

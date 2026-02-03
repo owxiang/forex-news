@@ -10,9 +10,9 @@
 | 08:20 | EUR | French Car Registration (YoY) (Jan) | -6.6% |  | -5.8% |
 | 08:30 | HKD | Retail Sales (YoY) (Dec) | 6.6% |  | 6.5% |
 | 09:00 | EUR | ECB Bank Lending Survey |  |  |  |
-| 41 min | BRL | BCB Copom Meeting Minutes |  |  |  |
-| 11:30 | EUR | Car Registration (MoM) (Jan) |  |  | 9.40% |
-| 12:00 | BRL | Industrial Production (MoM) (Dec) |  | -0.8% | 0.0% |
+| 11:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
+| 12 min | EUR | Car Registration (MoM) (Jan) |  |  | 9.40% |
+| 42 min | BRL | Industrial Production (MoM) (Dec) |  | -0.8% | 0.0% |
 | 13:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 13:55 | USD | Redbook (YoY) |  |  | 7.1% |
 | 15:00 | MXN | S&P Global Manufacturing PMI (Jan) |  |  | 46.10 |
