@@ -23,8 +23,8 @@
 | 09:40 | EUR | Low | Spanish 6-Month Letras Auction | 1.973% |  | 1.981% |
 | 10:30 | GBP | Low | 10-Year Treasury Gilt Auction | 4.585% |  | 4.456% |
 | 11:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
-| 12:00 | BRL | Moderate | Industrial Production (YoY) (Dec) | 0.4% | 1.0% | -1.4% |
 | 12:00 | BRL | Low | Industrial Production (MoM) (Dec) | -1.2% | -0.8% | -0.2% |
+| 12:00 | BRL | Moderate | Industrial Production (YoY) (Dec) | 0.4% | 1.0% | -1.4% |
 | 12:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 1.5% |
 | 12:00 | USD | Low | Milk Auctions |  |  | 3,615.0 |
 | 13:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
@@ -33,7 +33,6 @@
 | 14:50 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 15:00 | MXN | Low | S&P Global Manufacturing PMI (Jan) | 46.30 |  | 46.10 |
 | 15:10 | USD | Low | IBD/TIPP Economic Optimism (Feb) | 48.8 | 47.9 | 47.2 |
-| 36 min | USD | High | JOLTS Job Openings (Dec) |  | 7.230M | 7.146M |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 0.700M | -0.247M |
 | 21:45 | NZD | Low | Employment Change (QoQ) (Q4) |  | 0.3% | 0.0% |
 | 21:45 | NZD | Low | Labor Cost Index (QoQ) (Q4) |  | 0.5% | 0.5% |
