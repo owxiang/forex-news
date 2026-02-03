@@ -1,4 +1,4 @@
-## 03 February 2026 - All Forex News
+## None - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
@@ -9,8 +9,8 @@
 | 03:35 | JPY | Moderate | 10-Year JGB Auction | 2.249% |  | 2.095% |
 | 04:30 | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
 | 04:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
-| 07:45 | EUR | Low | French CPI (YoY) (Jan) | 0.3% | 0.6% | 0.8% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Jan) | -0.3% | -0.1% | 0.1% |
+| 07:45 | EUR | Low | French CPI (YoY) (Jan) | 0.3% | 0.6% | 0.8% |
 | 07:45 | EUR | Low | French Government Budget Balance (Dec) | -124.7B |  | -155.4B |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Jan) | -0.3% |  | 0.1% |
 | 07:45 | EUR | Low | French HICP (YoY) (Jan) | 0.4% | 0.6% | 0.7% |
@@ -19,10 +19,12 @@
 | 08:30 | HKD | Low | Retail Sales (YoY) (Dec) | 6.6% |  | 6.5% |
 | 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Jan) | 0.21% |  | 0.32% |
 | 09:00 | EUR | Low | ECB Bank Lending Survey |  |  |  |
+| 09:40 | EUR | Low | Spanish 12-Month Letras Auction | 2.028% |  | 2.032% |
+| 09:40 | EUR | Low | Spanish 6-Month Letras Auction | 1.973% |  | 1.981% |
+| 10:30 | GBP | Low | 10-Year Treasury Gilt Auction | 4.585% |  | 4.456% |
 | 11:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
-| 12 min | EUR | Low | Car Registration (MoM) (Jan) |  |  | 9.40% |
-| 42 min | BRL | Low | Industrial Production (MoM) (Dec) |  | -0.8% | 0.0% |
-| 42 min | BRL | Moderate | Industrial Production (YoY) (Dec) |  | 1.0% | -1.2% |
+| 12:00 | BRL | Moderate | Industrial Production (YoY) (Dec) | 0.4% | 1.0% | -1.2% |
+| 12:00 | BRL | Low | Industrial Production (MoM) (Dec) | -1.2% | -0.8% | -0.2% |
 | 13:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 7.1% |
 | 14:40 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
@@ -32,7 +34,7 @@
 | 15:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 1.5% |
 | 15:00 | USD | Low | Milk Auctions |  |  | 3,615.0 |
 | 15:10 | USD | Low | IBD/TIPP Economic Optimism (Feb) |  | 47.9 | 47.2 |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -0.247M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 0.700M | -0.247M |
 | 21:45 | NZD | Low | Employment Change (QoQ) (Q4) |  | 0.3% | 0.0% |
 | 21:45 | NZD | Low | Labor Cost Index (QoQ) (Q4) |  | 0.5% | 0.5% |
 | 21:45 | NZD | Low | Labor Cost Index (YoY) (Q4) |  | 2.0% | 2.1% |

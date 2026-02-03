@@ -1,4 +1,4 @@
-## 03 February 2026 - Low Impact Forex News
+## None - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
@@ -10,9 +10,11 @@
 | 08:20 | EUR | French Car Registration (YoY) (Jan) | -6.6% |  | -5.8% |
 | 08:30 | HKD | Retail Sales (YoY) (Dec) | 6.6% |  | 6.5% |
 | 09:00 | EUR | ECB Bank Lending Survey |  |  |  |
+| 09:40 | EUR | Spanish 12-Month Letras Auction | 2.028% |  | 2.032% |
+| 09:40 | EUR | Spanish 6-Month Letras Auction | 1.973% |  | 1.981% |
+| 10:30 | GBP | 10-Year Treasury Gilt Auction | 4.585% |  | 4.456% |
 | 11:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
-| 12 min | EUR | Car Registration (MoM) (Jan) |  |  | 9.40% |
-| 42 min | BRL | Industrial Production (MoM) (Dec) |  | -0.8% | 0.0% |
+| 12:00 | BRL | Industrial Production (MoM) (Dec) | -1.2% | -0.8% | -0.2% |
 | 13:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 13:55 | USD | Redbook (YoY) |  |  | 7.1% |
 | 15:00 | MXN | S&P Global Manufacturing PMI (Jan) |  |  | 46.10 |
