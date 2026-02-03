@@ -7,9 +7,10 @@
 | 07:45 | EUR | French CPI (YoY) (Jan) | 0.3% | 0.6% | 0.8% |
 | 07:45 | EUR | French Government Budget Balance (Dec) | -124.7B |  | -155.4B |
 | 07:45 | EUR | French HICP (YoY) (Jan) | 0.4% | 0.6% | 0.7% |
+| 08:20 | EUR | French Car Registration (YoY) (Jan) | -6.6% |  | -5.8% |
 | 08:30 | HKD | Retail Sales (YoY) (Dec) | 6.6% |  | 6.5% |
 | 09:00 | EUR | ECB Bank Lending Survey |  |  |  |
-| 11:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
+| 41 min | BRL | BCB Copom Meeting Minutes |  |  |  |
 | 11:30 | EUR | Car Registration (MoM) (Jan) |  |  | 9.40% |
 | 12:00 | BRL | Industrial Production (MoM) (Dec) |  | -0.8% | 0.0% |
 | 13:00 | USD | FOMC Member Barkin Speaks |  |  |  |

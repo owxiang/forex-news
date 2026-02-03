@@ -9,16 +9,17 @@
 | 03:35 | JPY | Moderate | 10-Year JGB Auction | 2.249% |  | 2.095% |
 | 04:30 | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
 | 04:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Jan) | -0.3% | -0.1% | 0.1% |
 | 07:45 | EUR | Low | French CPI (YoY) (Jan) | 0.3% | 0.6% | 0.8% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Jan) | -0.3% | -0.1% | 0.1% |
 | 07:45 | EUR | Low | French Government Budget Balance (Dec) | -124.7B |  | -155.4B |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Jan) | -0.3% |  | 0.1% |
 | 07:45 | EUR | Low | French HICP (YoY) (Jan) | 0.4% | 0.6% | 0.7% |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change (Jan) | 30.4K | 13.4K | -16.3K |
+| 08:20 | EUR | Low | French Car Registration (YoY) (Jan) | -6.6% |  | -5.8% |
 | 08:30 | HKD | Low | Retail Sales (YoY) (Dec) | 6.6% |  | 6.5% |
 | 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Jan) | 0.21% |  | 0.32% |
 | 09:00 | EUR | Low | ECB Bank Lending Survey |  |  |  |
-| 11:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
+| 41 min | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
 | 11:30 | EUR | Low | Car Registration (MoM) (Jan) |  |  | 9.40% |
 | 12:00 | BRL | Low | Industrial Production (MoM) (Dec) |  | -0.8% | 0.0% |
 | 12:00 | BRL | Moderate | Industrial Production (YoY) (Dec) |  | 1.0% | -1.2% |
