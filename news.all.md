@@ -1,4 +1,4 @@
-## 03 February 2026 - All Forex News
+## None - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
@@ -9,8 +9,8 @@
 | 03:35 | JPY | Moderate | 10-Year JGB Auction | 2.249% |  | 2.095% |
 | 04:30 | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
 | 04:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
-| 07:45 | EUR | Low | French CPI (YoY) (Jan) | 0.3% | 0.6% | 0.8% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Jan) | -0.3% | -0.1% | 0.1% |
+| 07:45 | EUR | Low | French CPI (YoY) (Jan) | 0.3% | 0.6% | 0.8% |
 | 07:45 | EUR | Low | French Government Budget Balance (Dec) | -124.7B |  | -155.4B |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Jan) | -0.3% |  | 0.1% |
 | 07:45 | EUR | Low | French HICP (YoY) (Jan) | 0.4% | 0.6% | 0.7% |
@@ -23,21 +23,22 @@
 | 09:40 | EUR | Low | Spanish 6-Month Letras Auction | 1.973% |  | 1.981% |
 | 10:30 | GBP | Low | 10-Year Treasury Gilt Auction | 4.585% |  | 4.456% |
 | 11:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
-| 12:00 | BRL | Moderate | Industrial Production (YoY) (Dec) | 0.4% | 1.0% | -1.4% |
 | 12:00 | BRL | Low | Industrial Production (MoM) (Dec) | -1.2% | -0.8% | -0.2% |
+| 12:00 | BRL | Moderate | Industrial Production (YoY) (Dec) | 0.4% | 1.0% | -1.4% |
 | 13:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 13:55 | USD | Low | Redbook (YoY) | 6.7% |  | 7.1% |
 | 14:40 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 14:50 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 15:00 | MXN | Low | S&P Global Manufacturing PMI (Jan) | 46.30 |  | 46.10 |
 | 15:10 | USD | Low | IBD/TIPP Economic Optimism (Feb) | 48.8 | 47.9 | 47.2 |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 0.700M | -0.247M |
-| 21:45 | NZD | Low | Employment Change (QoQ) (Q4) |  | 0.3% | 0.0% |
-| 21:45 | NZD | Low | Labor Cost Index (QoQ) (Q4) |  | 0.5% | 0.5% |
-| 21:45 | NZD | Low | Labor Cost Index (YoY) (Q4) |  | 2.0% | 2.1% |
-| 21:45 | NZD | Low | Participation Rate (Q4) |  | 70.30% | 70.30% |
-| 21:45 | NZD | Low | Unemployment Rate (Q4) |  | 5.3% | 5.3% |
-| 22:00 | AUD | Low | AIG Construction Index (Dec) |  |  | -18.7 |
-| 22:00 | AUD | Low | AIG Manufacturing Index (Dec) |  |  | -18.0 |
-| 22:00 | AUD | Low | Manufacturing & Services PMI (Jan) |  | 55.50 | 55.50 |
-| 22:00 | AUD | Low | Judo Bank Services PMI (Jan) |  | 56.0 | 56.0 |
+| 21:00 | KRW | Low | FX Reserves - USD (Jan) | 425.91B |  | 428.05B |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | -11.100M | 0.700M | -0.247M |
+| 21:45 | NZD | Low | Employment Change (QoQ) (Q4) | 0.5% | 0.3% | 0.0% |
+| 21:45 | NZD | Low | Labor Cost Index (QoQ) (Q4) | 0.4% | 0.5% | 0.5% |
+| 21:45 | NZD | Low | Labor Cost Index (YoY) (Q4) | 2.0% | 2.0% | 2.1% |
+| 21:45 | NZD | Low | Participation Rate (Q4) | 70.50% | 70.30% | 70.30% |
+| 21:45 | NZD | Low | Unemployment Rate (Q4) | 5.4% | 5.3% | 5.3% |
+| 22:00 | AUD | Low | AIG Construction Index (Dec) | 5.2 |  | -18.7 |
+| 22:00 | AUD | Low | AIG Manufacturing Index (Dec) | -19.4 |  | -18.0 |
+| 22:00 | AUD | Low | Manufacturing & Services PMI (Jan) | 55.70 | 55.50 | 55.50 |
+| 22:00 | AUD | Low | Judo Bank Services PMI (Jan) | 56.3 | 56.0 | 56.0 |

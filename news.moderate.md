@@ -1,4 +1,4 @@
-## 03 February 2026 - Moderate Impact Forex News
+## None - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
@@ -13,4 +13,4 @@
 | 12:00 | BRL | Industrial Production (YoY) (Dec) | 0.4% | 1.0% | -1.4% |
 | 14:40 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 14:50 | EUR | German Buba Balz Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock |  | 0.700M | -0.247M |
+| 21:30 | USD | API Weekly Crude Oil Stock | -11.100M | 0.700M | -0.247M |

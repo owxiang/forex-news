@@ -1,4 +1,4 @@
-## 03 February 2026 - Low Impact Forex News
+## None - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
@@ -19,12 +19,13 @@
 | 13:55 | USD | Redbook (YoY) | 6.7% |  | 7.1% |
 | 15:00 | MXN | S&P Global Manufacturing PMI (Jan) | 46.30 |  | 46.10 |
 | 15:10 | USD | IBD/TIPP Economic Optimism (Feb) | 48.8 | 47.9 | 47.2 |
-| 21:45 | NZD | Employment Change (QoQ) (Q4) |  | 0.3% | 0.0% |
-| 21:45 | NZD | Labor Cost Index (QoQ) (Q4) |  | 0.5% | 0.5% |
-| 21:45 | NZD | Labor Cost Index (YoY) (Q4) |  | 2.0% | 2.1% |
-| 21:45 | NZD | Participation Rate (Q4) |  | 70.30% | 70.30% |
-| 21:45 | NZD | Unemployment Rate (Q4) |  | 5.3% | 5.3% |
-| 22:00 | AUD | AIG Construction Index (Dec) |  |  | -18.7 |
-| 22:00 | AUD | AIG Manufacturing Index (Dec) |  |  | -18.0 |
-| 22:00 | AUD | Manufacturing & Services PMI (Jan) |  | 55.50 | 55.50 |
-| 22:00 | AUD | Judo Bank Services PMI (Jan) |  | 56.0 | 56.0 |
+| 21:00 | KRW | FX Reserves - USD (Jan) | 425.91B |  | 428.05B |
+| 21:45 | NZD | Employment Change (QoQ) (Q4) | 0.5% | 0.3% | 0.0% |
+| 21:45 | NZD | Labor Cost Index (QoQ) (Q4) | 0.4% | 0.5% | 0.5% |
+| 21:45 | NZD | Labor Cost Index (YoY) (Q4) | 2.0% | 2.0% | 2.1% |
+| 21:45 | NZD | Participation Rate (Q4) | 70.50% | 70.30% | 70.30% |
+| 21:45 | NZD | Unemployment Rate (Q4) | 5.4% | 5.3% | 5.3% |
+| 22:00 | AUD | AIG Construction Index (Dec) | 5.2 |  | -18.7 |
+| 22:00 | AUD | AIG Manufacturing Index (Dec) | -19.4 |  | -18.0 |
+| 22:00 | AUD | Manufacturing & Services PMI (Jan) | 55.70 | 55.50 | 55.50 |
+| 22:00 | AUD | Judo Bank Services PMI (Jan) | 56.3 | 56.0 | 56.0 |
