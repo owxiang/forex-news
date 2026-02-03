@@ -25,15 +25,15 @@
 | 11:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
 | 12:00 | BRL | Moderate | Industrial Production (YoY) (Dec) | 0.4% | 1.0% | -1.4% |
 | 12:00 | BRL | Low | Industrial Production (MoM) (Dec) | -1.2% | -0.8% | -0.2% |
+| 12:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 1.5% |
+| 12:00 | USD | Low | Milk Auctions |  |  | 3,615.0 |
 | 13:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 23 min | USD | Low | Redbook (YoY) |  |  | 7.1% |
-| 14:40 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 14:50 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 15:00 | USD | High | JOLTS Job Openings (Dec) |  | 7.230M | 7.146M |
-| 15:00 | MXN | Low | S&P Global Manufacturing PMI (Jan) |  |  | 46.10 |
-| 15:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 1.5% |
-| 15:00 | USD | Low | Milk Auctions |  |  | 3,615.0 |
-| 15:10 | USD | Low | IBD/TIPP Economic Optimism (Feb) |  | 47.9 | 47.2 |
+| 13:55 | USD | Low | Redbook (YoY) | 6.7% |  | 7.1% |
+| 17 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 27 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 37 min | USD | High | JOLTS Job Openings (Dec) |  | 7.230M | 7.146M |
+| 37 min | MXN | Low | S&P Global Manufacturing PMI (Jan) |  |  | 46.10 |
+| 47 min | USD | Low | IBD/TIPP Economic Optimism (Feb) |  | 47.9 | 47.2 |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 0.700M | -0.247M |
 | 21:45 | NZD | Low | Employment Change (QoQ) (Q4) |  | 0.3% | 0.0% |
 | 21:45 | NZD | Low | Labor Cost Index (QoQ) (Q4) |  | 0.5% | 0.5% |
@@ -42,5 +42,5 @@
 | 21:45 | NZD | Low | Unemployment Rate (Q4) |  | 5.3% | 5.3% |
 | 22:00 | AUD | Low | AIG Construction Index (Dec) |  |  | -18.7 |
 | 22:00 | AUD | Low | AIG Manufacturing Index (Dec) |  |  | -18.0 |
-| 22:00 | AUD | Low | Manufacturing & Services PMI (Jan) |  | 55.50 | 51.00 |
-| 22:00 | AUD | Low | Judo Bank Services PMI (Jan) |  | 56.0 | 51.1 |
+| 22:00 | AUD | Low | Manufacturing & Services PMI (Jan) |  | 55.50 | 55.50 |
+| 22:00 | AUD | Low | Judo Bank Services PMI (Jan) |  | 56.0 | 56.0 |

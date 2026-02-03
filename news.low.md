@@ -15,12 +15,12 @@
 | 10:30 | GBP | 10-Year Treasury Gilt Auction | 4.585% |  | 4.456% |
 | 11:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
 | 12:00 | BRL | Industrial Production (MoM) (Dec) | -1.2% | -0.8% | -0.2% |
+| 12:00 | NZD | GlobalDairyTrade Price Index |  |  | 1.5% |
+| 12:00 | USD | Milk Auctions |  |  | 3,615.0 |
 | 13:00 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 23 min | USD | Redbook (YoY) |  |  | 7.1% |
-| 15:00 | MXN | S&P Global Manufacturing PMI (Jan) |  |  | 46.10 |
-| 15:00 | NZD | GlobalDairyTrade Price Index |  |  | 1.5% |
-| 15:00 | USD | Milk Auctions |  |  | 3,615.0 |
-| 15:10 | USD | IBD/TIPP Economic Optimism (Feb) |  | 47.9 | 47.2 |
+| 13:55 | USD | Redbook (YoY) | 6.7% |  | 7.1% |
+| 37 min | MXN | S&P Global Manufacturing PMI (Jan) |  |  | 46.10 |
+| 47 min | USD | IBD/TIPP Economic Optimism (Feb) |  | 47.9 | 47.2 |
 | 21:45 | NZD | Employment Change (QoQ) (Q4) |  | 0.3% | 0.0% |
 | 21:45 | NZD | Labor Cost Index (QoQ) (Q4) |  | 0.5% | 0.5% |
 | 21:45 | NZD | Labor Cost Index (YoY) (Q4) |  | 2.0% | 2.1% |
@@ -28,5 +28,5 @@
 | 21:45 | NZD | Unemployment Rate (Q4) |  | 5.3% | 5.3% |
 | 22:00 | AUD | AIG Construction Index (Dec) |  |  | -18.7 |
 | 22:00 | AUD | AIG Manufacturing Index (Dec) |  |  | -18.0 |
-| 22:00 | AUD | Manufacturing & Services PMI (Jan) |  | 55.50 | 51.00 |
-| 22:00 | AUD | Judo Bank Services PMI (Jan) |  | 56.0 | 51.1 |
+| 22:00 | AUD | Manufacturing & Services PMI (Jan) |  | 55.50 | 55.50 |
+| 22:00 | AUD | Judo Bank Services PMI (Jan) |  | 56.0 | 56.0 |
