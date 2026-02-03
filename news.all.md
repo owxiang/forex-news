@@ -1,57 +1,48 @@
-## 02 February 2026 - All Forex News
+## 03 February 2026 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | AUD | Low | MI Inflation Gauge (MoM) (Jan) | 0.2% |  | 1.0% |
-| 00:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Jan) | 51.2 |  | 50.1 |
-| 00:30 | AUD | Low | ANZ Job Advertisements (MoM) (Jan) | 4.4% |  | -0.8% |
-| 00:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Jan) | 51.5 | 51.5 | 50.0 |
-| 00:30 | IDR | Low | S&P Global Manufacturing PMI (Jan) | 52.6 |  | 51.2 |
-| 01:45 | CNY | Moderate | RatingDog Manufacturing PMI (MoM) (Jan) | 50.3 | 50.1 | 50.1 |
-| 04:00 | IDR | Low | Export Growth (YoY) (Dec) | 11.64% | -2.40% | -6.60% |
-| 04:00 | IDR | Low | Import Growth (YoY) (Dec) | 10.81% | -0.70% | 0.46% |
-| 04:00 | IDR | Low | Trade Balance (Dec) | 2.52B | 2.45B | 2.66B |
-| 05:00 | INR | Low | S&P Global Manufacturing PMI (Jan) | 55.4 | 56.8 | 55.0 |
-| 05:00 | SGD | Low | Business Expectations (Q4) | 11.00 |  | 8.00 |
-| 05:00 | IDR | Low | Core Inflation (YoY) (Jan) | 2.45% | 2.37% | 2.38% |
-| 05:00 | IDR | Low | Inflation (YoY) (Jan) | 3.55% | 3.80% | 2.92% |
-| 05:00 | IDR | Low | Inflation (MoM) (Jan) | -0.15% |  | 0.64% |
-| 05:30 | AUD | Low | Commodity Prices (YoY) (Jan) | 2.6% |  | -3.2% |
-| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Jan) | 0.3% | 0.3% | -0.4% |
-| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Jan) | 1.0% | 0.7% | 0.6% |
-| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Dec) | 0.1% | -0.1% | -0.5% |
-| 07:00 | EUR | Low | German Retail Sales (YoY) (Dec) | 1.5% |  | -1.6% |
-| 07:30 | CHF | Low | Retail Sales (YoY) (Dec) | 2.9% | 2.5% | 1.7% |
-| 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Jan) | 49.2 | 49.9 | 49.6 |
-| 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (Jan) | 48.8 | 47.2 | 45.8 |
-| 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Jan) | 48.1 | 48.5 | 47.9 |
-| 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (Jan) | 51.2 | 51.0 | 50.7 |
-| 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Jan) | 49.1 | 48.7 | 47.0 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Jan) | 49.5 | 49.4 | 48.8 |
-| 09:00 | ZAR | Low | Manufacturing PMI (Jan) | 48.7 |  | 40.5 |
-| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Jan) | 51.8 | 51.6 | 50.6 |
-| 11:00 | EUR | Low | Car Registration (YoY) (Jan) | 1.10% |  | -2.20% |
-| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 11:45 | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 12:00 | ZAR | Low | Total Vehicle Sales (YoY) (Jan) | 7.50% |  | 19.20% |
-| 12:00 | ZAR | Low | Total Vehicle Sales (Jan) | 50.07K |  | 48.98K |
-| 13:00 | BRL | Low | S&P Global Manufacturing PMI (Jan) | 47.0 |  | 47.6 |
-| 13:00 | SGD | Low | S&P Global Manufacturing PMI (Jan) | 50.5 |  | 50.3 |
-| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.058% |  | 2.084% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.007% |  | 2.021% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.036% |  | 2.045% |
-| 14:30 | CAD | Low | S&P Global Manufacturing PMI (Jan) | 50.4 |  | 48.6 |
-| 14:45 | USD | High | S&P Global Manufacturing PMI (Jan) | 52.4 | 51.9 | 51.9 |
-| 15:00 | USD | Moderate | ISM Manufacturing Employment (Jan) | 48.1 | 46.0 | 44.8 |
-| 15:00 | USD | Low | ISM Manufacturing New Orders Index (Jan) | 57.1 |  | 47.4 |
-| 15:00 | USD | High | ISM Manufacturing PMI (Jan) | 52.6 | 48.5 | 47.9 |
-| 15:00 | USD | High | ISM Manufacturing Prices (Jan) | 59.0 | 59.3 | 58.5 |
-| 16:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 4.2% | 4.2% | 4.2% |
-| 16:30 | USD | Low | 3-Month Bill Auction | 3.600% |  | 3.580% |
-| 16:30 | USD | Low | 6-Month Bill Auction | 3.525% |  | 3.525% |
-| 17:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 19:00 | USD | Low | Loan Officer Survey |  |  |  |
-| 21:45 | NZD | Low | Building Consents (MoM) (Dec) | -4.6% |  | 2.7% |
-| 23:00 | KRW | Low | CPI (YoY) (Jan) | 2.0% | 2.1% | 2.3% |
-| 23:00 | KRW | Low | CPI (MoM) (Jan) | 0.4% | 0.4% | 0.3% |
-| 39 min | JPY | Low | Monetary Base (YoY) (Jan) |  | -10.2% | -9.8% |
+| 00:30 | AUD | Low | Building Approvals (YoY) (Dec) | 0.40% |  | 19.40% |
+| 00:30 | AUD | Moderate | Building Approvals (MoM) (Dec) | -14.9% | -6.2% | 13.1% |
+| 00:30 | AUD | Low | Private House Approvals (Dec) | 0.4% |  | 1.3% |
+| 49 min | AUD | Low | Business inventories (MoM) (Q4) |  |  | -0.9% |
+| 03:30 | AUD | High | RBA Interest Rate Decision (Feb) |  | 3.85% | 3.60% |
+| 03:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 2.095% |
+| 04:30 | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
+| 04:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
+| 07:45 | EUR | Low | French CPI (YoY) (Jan) |  | 0.6% | 0.8% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Jan) |  | -0.1% | 0.1% |
+| 07:45 | EUR | Low | French Government Budget Balance (Dec) |  |  | -155.4B |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Jan) |  |  | 0.1% |
+| 07:45 | EUR | Low | French HICP (YoY) (Jan) |  | 0.6% | 0.7% |
+| 08:00 | EUR | Moderate | Spanish Unemployment Change (Jan) |  | 10.5K | -16.3K |
+| 08:30 | HKD | Low | GDP (QoQ) (Q4) |  |  | 0.7% |
+| 08:30 | HKD | Low | GDP (YoY) (Q4) |  |  | 3.8% |
+| 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Jan) |  |  | 0.32% |
+| 09:00 | EUR | Low | ECB Bank Lending Survey |  |  |  |
+| 10:00 | HKD | Low | Retail Sales (YoY) (Dec) |  |  | 6.5% |
+| 11:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
+| 11:30 | EUR | Low | Car Registration (MoM) (Jan) |  |  | 9.40% |
+| 12:00 | BRL | Low | Industrial Production (MoM) (Dec) |  |  | 0.0% |
+| 12:00 | BRL | Moderate | Industrial Production (YoY) (Dec) |  |  | -1.2% |
+| 12:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 1.5% |
+| 13:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 13:55 | USD | Low | Redbook (YoY) |  |  | 7.1% |
+| 14:40 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 14:50 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 15:00 | USD | High | JOLTS Job Openings (Dec) |  | 7.210M | 7.146M |
+| 15:00 | MXN | Low | S&P Global Manufacturing PMI (Jan) |  |  | 46.10 |
+| 15:00 | USD | Low | Milk Auctions |  |  | 3,615.0 |
+| 15:10 | USD | Low | IBD/TIPP Economic Optimism (Feb) |  | 47.9 | 47.2 |
+| 17:00 | EUR | Low | Italian Car Registration (YoY) (Jan) |  |  | 2.3% |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -0.247M |
+| 21:45 | NZD | Low | Employment Change (QoQ) (Q4) |  | 0.3% | 0.0% |
+| 21:45 | NZD | Low | Labor Cost Index (QoQ) (Q4) |  | 0.5% | 0.5% |
+| 21:45 | NZD | Low | Labor Cost Index (YoY) (Q4) |  |  | 2.1% |
+| 21:45 | NZD | Low | Participation Rate (Q4) |  |  | 70.30% |
+| 21:45 | NZD | Low | Unemployment Rate (Q4) |  | 5.3% | 5.3% |
+| 22:00 | AUD | Low | AIG Construction Index (Dec) |  |  | -18.7 |
+| 22:00 | AUD | Low | AIG Manufacturing Index (Dec) |  |  | -18.0 |
+| 22:00 | AUD | Low | Manufacturing & Services PMI (Jan) |  |  | 55.50 |
+| 22:00 | AUD | Low | Manufacturing & Services PMI (Jan) |  | 55.50 | 51.00 |
+| 22:00 | AUD | Low | Judo Bank Services PMI (Jan) |  | 56.0 | 56.0 |
