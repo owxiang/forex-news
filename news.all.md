@@ -29,11 +29,11 @@
 | 12:00 | USD | Low | Milk Auctions |  |  | 3,615.0 |
 | 13:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 13:55 | USD | Low | Redbook (YoY) | 6.7% |  | 7.1% |
-| 17 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 27 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 37 min | USD | High | JOLTS Job Openings (Dec) |  | 7.230M | 7.146M |
-| 37 min | MXN | Low | S&P Global Manufacturing PMI (Jan) |  |  | 46.10 |
-| 47 min | USD | Low | IBD/TIPP Economic Optimism (Feb) |  | 47.9 | 47.2 |
+| 14:40 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 14:50 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 15:00 | MXN | Low | S&P Global Manufacturing PMI (Jan) | 46.30 |  | 46.10 |
+| 15:10 | USD | Low | IBD/TIPP Economic Optimism (Feb) | 48.8 | 47.9 | 47.2 |
+| 17:00 | USD | High | JOLTS Job Openings (Dec) |  | 7.230M | 7.146M |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 0.700M | -0.247M |
 | 21:45 | NZD | Low | Employment Change (QoQ) (Q4) |  | 0.3% | 0.0% |
 | 21:45 | NZD | Low | Labor Cost Index (QoQ) (Q4) |  | 0.5% | 0.5% |
