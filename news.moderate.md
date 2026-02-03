@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Building Approvals (MoM) (Dec) | -14.9% | -6.2% | 13.1% |
-| 03:35 | JPY | 10-Year JGB Auction |  |  | 2.095% |
+| 03:35 | JPY | 10-Year JGB Auction | 2.249% |  | 2.095% |
 | 04:30 | AUD | RBA Monetary Policy Statement |  |  |  |
 | 04:30 | AUD | RBA Rate Statement |  |  |  |
 | 07:45 | EUR | French CPI (MoM) (Jan) |  | -0.1% | 0.1% |
