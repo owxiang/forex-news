@@ -9,8 +9,8 @@
 | 03:35 | JPY | Moderate | 10-Year JGB Auction | 2.249% |  | 2.095% |
 | 04:30 | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
 | 04:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Jan) | -0.3% | -0.1% | 0.1% |
 | 07:45 | EUR | Low | French CPI (YoY) (Jan) | 0.3% | 0.6% | 0.8% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Jan) | -0.3% | -0.1% | 0.1% |
 | 07:45 | EUR | Low | French Government Budget Balance (Dec) | -124.7B |  | -155.4B |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Jan) | -0.3% |  | 0.1% |
 | 07:45 | EUR | Low | French HICP (YoY) (Jan) | 0.4% | 0.6% | 0.7% |
@@ -23,10 +23,8 @@
 | 09:40 | EUR | Low | Spanish 6-Month Letras Auction | 1.973% |  | 1.981% |
 | 10:30 | GBP | Low | 10-Year Treasury Gilt Auction | 4.585% |  | 4.456% |
 | 11:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
-| 12:00 | BRL | Low | Industrial Production (MoM) (Dec) | -1.2% | -0.8% | -0.2% |
 | 12:00 | BRL | Moderate | Industrial Production (YoY) (Dec) | 0.4% | 1.0% | -1.4% |
-| 12:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 1.5% |
-| 12:00 | USD | Low | Milk Auctions |  |  | 3,615.0 |
+| 12:00 | BRL | Low | Industrial Production (MoM) (Dec) | -1.2% | -0.8% | -0.2% |
 | 13:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 13:55 | USD | Low | Redbook (YoY) | 6.7% |  | 7.1% |
 | 14:40 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |

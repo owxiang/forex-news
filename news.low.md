@@ -15,8 +15,6 @@
 | 10:30 | GBP | 10-Year Treasury Gilt Auction | 4.585% |  | 4.456% |
 | 11:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
 | 12:00 | BRL | Industrial Production (MoM) (Dec) | -1.2% | -0.8% | -0.2% |
-| 12:00 | NZD | GlobalDairyTrade Price Index |  |  | 1.5% |
-| 12:00 | USD | Milk Auctions |  |  | 3,615.0 |
 | 13:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 13:55 | USD | Redbook (YoY) | 6.7% |  | 7.1% |
 | 15:00 | MXN | S&P Global Manufacturing PMI (Jan) | 46.30 |  | 46.10 |
