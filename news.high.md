@@ -7,5 +7,5 @@
 | 14:00 | USD | JOLTS Job Openings (Dec) |  | 7.230M | 7.146M |
 | 14:45 | USD | S&P Global Services PMI (Jan) |  | 52.5 | 52.5 |
 | 15:00 | USD | ISM Non-Manufacturing PMI (Jan) |  | 53.5 | 54.4 |
-| 15:00 | USD | ISM Non-Manufacturing Prices (Jan) |  |  | 65.1 |
-| 15:30 | USD | Crude Oil Inventories |  |  | -2.295M |
+| 15:00 | USD | ISM Non-Manufacturing Prices (Jan) |  |  | 64.3 |
+| 15:30 | USD | Crude Oil Inventories |  | -2.000M | -2.295M |
