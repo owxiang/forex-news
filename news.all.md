@@ -31,7 +31,7 @@
 | 10:00 | EUR | Low | Core CPI (MoM) (Jan) | 2.3% |  | 0.3% |
 | 10:00 | EUR | High | CPI (YoY) (Jan) | 1.7% | 1.7% | 2.0% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Jan) | -0.5% |  | 0.2% |
-| 10:00 | EUR | Low | CPI, n.s.a (Jan) | 128.89 |  | 129.54 |
+| 10:00 | EUR | Low | CPI, n.s.a (Jan) | 100.08 |  | 100.63 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jan) | 2.2% |  | 2.3% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jan) | 2.3% |  | 0.2% |
 | 10:00 | EUR | Low | PPI (MoM) (Dec) | -0.3% | -0.3% | 0.7% |
@@ -67,7 +67,6 @@
 | 15:30 | USD | Low | Gasoline Inventories |  |  | 0.223M |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | 2.215B |
 | 19:00 | USD | Low | Total Vehicle Sales (Jan) |  | 15.50M | 16.00M |
-| 21:00 | KRW | Low | FX Reserves - USD (Jan) |  |  | 428.05B |
 | 23:30 | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | 177.6B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 328.1B |

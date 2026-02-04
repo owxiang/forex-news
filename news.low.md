@@ -18,7 +18,7 @@
 | 10:00 | EUR | Italian HICP (YoY) (Jan) | 1.0% | 0.9% | 1.2% |
 | 10:00 | NOK | House Price Index (YoY) (Jan) | 4.20% |  | 5.00% |
 | 10:00 | EUR | Core CPI (MoM) (Jan) | 2.3% |  | 0.3% |
-| 10:00 | EUR | CPI, n.s.a (Jan) | 128.89 |  | 129.54 |
+| 10:00 | EUR | CPI, n.s.a (Jan) | 100.08 |  | 100.63 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Jan) | 2.2% |  | 2.3% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Jan) | 2.3% |  | 0.2% |
 | 10:00 | EUR | PPI (MoM) (Dec) | -0.3% | -0.3% | 0.7% |
@@ -45,7 +45,6 @@
 | 15:30 | USD | Gasoline Inventories |  |  | 0.223M |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | 2.215B |
 | 19:00 | USD | Total Vehicle Sales (Jan) |  | 15.50M | 16.00M |
-| 21:00 | KRW | FX Reserves - USD (Jan) |  |  | 428.05B |
 | 23:30 | USD | Fed Governor Cook Speaks |  |  |  |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | 177.6B |
 | 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 328.1B |
