@@ -46,14 +46,14 @@
 | 13:00 | BRL | Low | S&P Global Services PMI (Jan) | 51.3 |  | 53.7 |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Jan) | 22K | 46K | 37K |
 | 13:15 | CAD | Low | Reserve Assets Total (Jan) | 128.7B |  | 127.8B |
-| 59 min | CAD | Low | S&P Global Services PMI (Jan) |  |  | 46.50 |
-| 14:45 | USD | Moderate | S&P Global Composite PMI (Jan) |  | 52.8 | 52.7 |
-| 14:45 | USD | High | S&P Global Services PMI (Jan) |  | 52.5 | 52.5 |
-| 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Jan) |  |  | 56.0 |
-| 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Jan) |  | 52.3 | 52.0 |
-| 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Jan) |  |  | 57.9 |
-| 15:00 | USD | High | ISM Non-Manufacturing PMI (Jan) |  | 53.5 | 54.4 |
-| 15:00 | USD | High | ISM Non-Manufacturing Prices (Jan) |  |  | 64.3 |
+| 9 min | CAD | Low | S&P Global Services PMI (Jan) |  |  | 46.50 |
+| 24 min | USD | Moderate | S&P Global Composite PMI (Jan) |  | 52.8 | 52.7 |
+| 24 min | USD | High | S&P Global Services PMI (Jan) |  | 52.5 | 52.5 |
+| 39 min | USD | Low | ISM Non-Manufacturing Business Activity (Jan) |  |  | 56.0 |
+| 39 min | USD | Moderate | ISM Non-Manufacturing Employment (Jan) |  | 52.3 | 52.0 |
+| 39 min | USD | Low | ISM Non-Manufacturing New Orders (Jan) |  |  | 57.9 |
+| 39 min | USD | High | ISM Non-Manufacturing PMI (Jan) |  | 53.5 | 54.4 |
+| 39 min | USD | High | ISM Non-Manufacturing Prices (Jan) |  |  | 64.3 |
 | 15:30 | USD | High | Crude Oil Inventories |  | -2.000M | -2.295M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.395M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | -1.706M |
