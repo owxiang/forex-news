@@ -11,15 +11,15 @@
 | 05:00 | INR | Low | Manufacturing & Services PMI (Jan) | 58.40 | 59.50 | 57.80 |
 | 05:10 | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
 | 07:15 | ZAR | Low | S&P Global Manufacturing PMI (Jan) | 50.0 |  | 47.7 |
-| 52 min | EUR | Moderate | HCOB Spain Services PMI (Jan) |  | 56.6 | 57.1 |
-| 08:45 | EUR | Low | HCOB Italy Composite PMI (Jan) |  |  | 50.3 |
-| 08:45 | EUR | Moderate | HCOB Italy Services PMI (Jan) |  | 51.3 | 51.5 |
-| 08:50 | EUR | Low | HCOB France Composite PMI (Jan) |  | 48.6 | 50.0 |
-| 08:50 | EUR | Moderate | HCOB France Services PMI (Jan) |  | 47.9 | 50.1 |
-| 08:55 | EUR | Low | HCOB Germany Composite PMI (Jan) |  | 52.5 | 51.3 |
-| 08:55 | EUR | Moderate | HCOB Germany Services PMI (Jan) |  | 53.3 | 52.7 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Jan) |  | 51.5 | 51.5 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Jan) |  | 51.9 | 52.4 |
+| 08:15 | EUR | Moderate | HCOB Spain Services PMI (Jan) | 53.5 | 56.6 | 57.1 |
+| 27 min | EUR | Low | HCOB Italy Composite PMI (Jan) |  |  | 50.3 |
+| 27 min | EUR | Moderate | HCOB Italy Services PMI (Jan) |  | 51.3 | 51.5 |
+| 32 min | EUR | Low | HCOB France Composite PMI (Jan) |  | 48.6 | 50.0 |
+| 32 min | EUR | Moderate | HCOB France Services PMI (Jan) |  | 47.9 | 50.1 |
+| 37 min | EUR | Low | HCOB Germany Composite PMI (Jan) |  | 52.5 | 51.3 |
+| 37 min | EUR | Moderate | HCOB Germany Services PMI (Jan) |  | 53.3 | 52.7 |
+| 42 min | EUR | Moderate | HCOB Eurozone Composite PMI (Jan) |  | 51.5 | 51.5 |
+| 42 min | EUR | Moderate | HCOB Eurozone Services PMI (Jan) |  | 51.9 | 52.4 |
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (Jan) |  | 53.9 | 51.4 |
 | 09:30 | GBP | Moderate | S&P Global Services PMI (Jan) |  | 54.3 | 51.4 |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Jan) |  | 0.4% | 0.2% |

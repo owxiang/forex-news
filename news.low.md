@@ -9,9 +9,9 @@
 | 05:00 | INR | Manufacturing & Services PMI (Jan) | 58.40 | 59.50 | 57.80 |
 | 05:10 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
 | 07:15 | ZAR | S&P Global Manufacturing PMI (Jan) | 50.0 |  | 47.7 |
-| 08:45 | EUR | HCOB Italy Composite PMI (Jan) |  |  | 50.3 |
-| 08:50 | EUR | HCOB France Composite PMI (Jan) |  | 48.6 | 50.0 |
-| 08:55 | EUR | HCOB Germany Composite PMI (Jan) |  | 52.5 | 51.3 |
+| 27 min | EUR | HCOB Italy Composite PMI (Jan) |  |  | 50.3 |
+| 32 min | EUR | HCOB France Composite PMI (Jan) |  | 48.6 | 50.0 |
+| 37 min | EUR | HCOB Germany Composite PMI (Jan) |  | 52.5 | 51.3 |
 | 10:00 | EUR | Italian CPI (MoM) (Jan) |  | 0.4% | 0.2% |
 | 10:00 | EUR | Italian CPI (YoY) (Jan) |  | 1.0% | 1.2% |
 | 10:00 | EUR | Italian HICP (MoM) (Jan) |  | -1.0% | 0.2% |
