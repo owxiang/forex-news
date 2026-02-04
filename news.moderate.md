@@ -1,16 +1,19 @@
-## 03 February 2026 - Moderate Impact Forex News
+## 04 February 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Building Approvals (MoM) (Dec) | -14.9% | -6.2% | 13.1% |
-| 03:35 | JPY | 10-Year JGB Auction | 2.249% |  | 2.095% |
-| 04:30 | AUD | RBA Monetary Policy Statement |  |  |  |
-| 04:30 | AUD | RBA Rate Statement |  |  |  |
-| 07:45 | EUR | French CPI (MoM) (Jan) | -0.3% | -0.1% | 0.1% |
-| 07:45 | EUR | French HICP (MoM) (Jan) | -0.3% |  | 0.1% |
-| 08:00 | EUR | Spanish Unemployment Change (Jan) | 30.4K | 13.4K | -16.3K |
-| 09:00 | BRL | IPC-Fipe Inflation Index (MoM) (Jan) | 0.21% |  | 0.32% |
-| 12:00 | BRL | Industrial Production (YoY) (Dec) | 0.4% | 1.0% | -1.4% |
-| 14:40 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 14:50 | EUR | German Buba Balz Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock | -11.100M | 0.700M | -0.247M |
+| 00:30 | JPY | au Jibun Bank Services PMI (Jan) | 53.7 | 53.4 | 51.6 |
+| 01:45 | CNY | RatingDog Services PMI (Jan) |  | 52.0 | 52.0 |
+| 08:15 | EUR | HCOB Spain Services PMI (Jan) |  | 56.6 | 57.1 |
+| 08:45 | EUR | HCOB Italy Services PMI (Jan) |  | 51.5 | 51.5 |
+| 08:50 | EUR | HCOB France Services PMI (Jan) |  | 47.9 | 47.9 |
+| 08:55 | EUR | HCOB Germany Services PMI (Jan) |  | 53.3 | 53.3 |
+| 09:00 | EUR | HCOB Eurozone Composite PMI (Jan) |  | 51.5 | 51.5 |
+| 09:00 | EUR | HCOB Eurozone Services PMI (Jan) |  | 51.9 | 51.9 |
+| 09:30 | GBP | S&P Global Composite PMI (Jan) |  | 53.9 | 53.9 |
+| 09:30 | GBP | S&P Global Services PMI (Jan) |  | 54.3 | 54.3 |
+| 10:00 | EUR | Core CPI (YoY) (Jan) |  | 2.3% | 2.3% |
+| 10:00 | EUR | CPI (MoM) (Jan) |  |  | 0.2% |
+| 14:45 | USD | S&P Global Composite PMI (Jan) |  | 52.8 | 52.8 |
+| 15:00 | USD | ISM Non-Manufacturing Employment (Jan) |  |  | 52.0 |
+| 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.278M |

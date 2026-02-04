@@ -1,44 +1,76 @@
-## 03 February 2026 - All Forex News
+## 04 February 2026 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | AUD | Low | Building Approvals (YoY) (Dec) | 0.40% |  | 19.40% |
-| 00:30 | AUD | Moderate | Building Approvals (MoM) (Dec) | -14.9% | -6.2% | 13.1% |
-| 00:30 | AUD | Low | Private House Approvals (Dec) | 0.4% |  | 0.8% |
-| 03:30 | AUD | High | RBA Interest Rate Decision (Feb) | 3.85% | 3.85% | 3.60% |
-| 03:35 | JPY | Moderate | 10-Year JGB Auction | 2.249% |  | 2.095% |
-| 04:30 | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
-| 04:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Jan) | -0.3% | -0.1% | 0.1% |
-| 07:45 | EUR | Low | French CPI (YoY) (Jan) | 0.3% | 0.6% | 0.8% |
-| 07:45 | EUR | Low | French Government Budget Balance (Dec) | -124.7B |  | -155.4B |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Jan) | -0.3% |  | 0.1% |
-| 07:45 | EUR | Low | French HICP (YoY) (Jan) | 0.4% | 0.6% | 0.7% |
-| 08:00 | EUR | Moderate | Spanish Unemployment Change (Jan) | 30.4K | 13.4K | -16.3K |
-| 08:20 | EUR | Low | French Car Registration (YoY) (Jan) | -6.6% |  | -5.8% |
-| 08:30 | HKD | Low | Retail Sales (YoY) (Dec) | 6.6% |  | 6.5% |
-| 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Jan) | 0.21% |  | 0.32% |
-| 09:00 | EUR | Low | ECB Bank Lending Survey |  |  |  |
-| 09:40 | EUR | Low | Spanish 12-Month Letras Auction | 2.028% |  | 2.032% |
-| 09:40 | EUR | Low | Spanish 6-Month Letras Auction | 1.973% |  | 1.981% |
-| 10:30 | GBP | Low | 10-Year Treasury Gilt Auction | 4.585% |  | 4.456% |
-| 11:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
-| 12:00 | BRL | Low | Industrial Production (MoM) (Dec) | -1.2% | -0.8% | -0.2% |
-| 12:00 | BRL | Moderate | Industrial Production (YoY) (Dec) | 0.4% | 1.0% | -1.4% |
-| 13:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 13:55 | USD | Low | Redbook (YoY) | 6.7% |  | 7.1% |
-| 14:40 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 14:50 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 15:00 | MXN | Low | S&P Global Manufacturing PMI (Jan) | 46.30 |  | 46.10 |
-| 15:10 | USD | Low | IBD/TIPP Economic Optimism (Feb) | 48.8 | 47.9 | 47.2 |
-| 21:00 | KRW | Low | FX Reserves - USD (Jan) | 425.91B |  | 428.05B |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | -11.100M | 0.700M | -0.247M |
-| 21:45 | NZD | Low | Employment Change (QoQ) (Q4) | 0.5% | 0.3% | 0.0% |
-| 21:45 | NZD | Low | Labor Cost Index (QoQ) (Q4) | 0.4% | 0.5% | 0.5% |
-| 21:45 | NZD | Low | Labor Cost Index (YoY) (Q4) | 2.0% | 2.0% | 2.1% |
-| 21:45 | NZD | Low | Participation Rate (Q4) | 70.50% | 70.30% | 70.30% |
-| 21:45 | NZD | Low | Unemployment Rate (Q4) | 5.4% | 5.3% | 5.3% |
-| 22:00 | AUD | Low | AIG Construction Index (Dec) | 5.2 |  | -16.9 |
-| 22:00 | AUD | Low | AIG Manufacturing Index (Dec) | -19.4 |  | -18.3 |
-| 22:00 | AUD | Low | Manufacturing & Services PMI (Jan) | 55.70 | 55.50 | 51.00 |
-| 22:00 | AUD | Low | Judo Bank Services PMI (Jan) | 56.3 | 56.0 | 51.1 |
+| 00:00 | NZD | Low | ANZ Commodity Price Index (MoM) | 2.0% |  | -2.1% |
+| 00:30 | JPY | Low | Manufacturing & Services PMI (Jan) | 53.10 | 52.80 | 51.10 |
+| 00:30 | JPY | Moderate | au Jibun Bank Services PMI (Jan) | 53.7 | 53.4 | 51.6 |
+| 00:30 | HKD | Low | S&P Global Manufacturing PMI (Jan) | 52.3 |  | 51.9 |
+| 01:45 | CNY | Moderate | RatingDog Services PMI (Jan) |  | 52.0 | 52.0 |
+| 05:00 | INR | Low | S&P Global Services PMI (Jan) |  | 59.3 | 59.3 |
+| 05:00 | INR | Low | Manufacturing & Services PMI (Jan) |  | 59.50 | 59.50 |
+| 05:10 | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
+| 07:15 | ZAR | Low | S&P Global Manufacturing PMI (Jan) |  |  | 47.7 |
+| 08:15 | EUR | Moderate | HCOB Spain Services PMI (Jan) |  | 56.6 | 57.1 |
+| 08:45 | EUR | Low | HCOB Italy Composite PMI (Jan) |  |  | 50.3 |
+| 08:45 | EUR | Moderate | HCOB Italy Services PMI (Jan) |  | 51.5 | 51.5 |
+| 08:50 | EUR | Low | HCOB France Composite PMI (Jan) |  | 48.6 | 48.6 |
+| 08:50 | EUR | Moderate | HCOB France Services PMI (Jan) |  | 47.9 | 47.9 |
+| 08:55 | EUR | Low | HCOB Germany Composite PMI (Jan) |  | 52.5 | 52.5 |
+| 08:55 | EUR | Moderate | HCOB Germany Services PMI (Jan) |  | 53.3 | 53.3 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Jan) |  | 51.5 | 51.5 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Jan) |  | 51.9 | 51.9 |
+| 09:30 | GBP | Moderate | S&P Global Composite PMI (Jan) |  | 53.9 | 53.9 |
+| 09:30 | GBP | Moderate | S&P Global Services PMI (Jan) |  | 54.3 | 54.3 |
+| 10:00 | EUR | Low | Italian CPI (MoM) (Jan) |  | 0.4% | 0.2% |
+| 10:00 | EUR | Low | Italian CPI (YoY) (Jan) |  | 1.0% | 1.2% |
+| 10:00 | EUR | Low | Italian HICP (YoY) (Jan) |  |  | 1.2% |
+| 10:00 | EUR | Low | Italian HICP (MoM) (Jan) |  |  | 0.2% |
+| 10:00 | NOK | Low | House Price Index (YoY) (Jan) |  |  | 5.00% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Jan) |  | 2.3% | 2.3% |
+| 10:00 | EUR | Low | Core CPI (MoM) (Jan) |  |  | 0.3% |
+| 10:00 | EUR | High | CPI (YoY) (Jan) |  | 1.7% | 1.9% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Jan) |  |  | 0.2% |
+| 10:00 | EUR | Low | CPI, n.s.a (Jan) |  |  | 129.54 |
+| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jan) |  |  | 2.3% |
+| 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jan) |  |  | 0.2% |
+| 10:00 | EUR | Low | PPI (YoY) (Dec) |  |  | -1.7% |
+| 10:00 | EUR | Low | PPI (MoM) (Dec) |  | -0.3% | 0.5% |
+| 11:30 | INR | Low | M3 Money Supply |  |  | 10.5% |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.24% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -8.5% |
+| 12:00 | USD | Low | MBA Purchase Index |  |  | 193.3 |
+| 12:00 | USD | Low | Mortgage Market Index |  |  | 363.3 |
+| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 1,332.2 |
+| 12:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 1.5% |
+| 12:00 | USD | Low | Milk Auctions |  |  | 3,615.0 |
+| 13:00 | BRL | Low | S&P Global Composite PMI (Jan) |  |  | 52.1 |
+| 13:00 | BRL | Low | S&P Global Services PMI (Jan) |  |  | 53.7 |
+| 13:15 | USD | High | ADP Nonfarm Employment Change (Jan) |  | 46K | 41K |
+| 13:15 | CAD | Low | Reserve Assets Total (Jan) |  |  | 127.8B |
+| 14:00 | USD | High | JOLTS Job Openings (Dec) |  | 7.230M | 7.146M |
+| 14:30 | CAD | Low | Services PMI (Jan) |  |  | 46.50 |
+| 14:45 | USD | Moderate | S&P Global Composite PMI (Jan) |  | 52.8 | 52.8 |
+| 14:45 | USD | High | S&P Global Services PMI (Jan) |  | 52.5 | 52.5 |
+| 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Jan) |  |  | 55.2 |
+| 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Jan) |  |  | 52.0 |
+| 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Jan) |  |  | 56.5 |
+| 15:00 | USD | High | ISM Non-Manufacturing PMI (Jan) |  | 53.5 | 54.4 |
+| 15:00 | USD | High | ISM Non-Manufacturing Prices (Jan) |  |  | 65.1 |
+| 15:30 | USD | High | Crude Oil Inventories |  |  | -2.295M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.395M |
+| 15:30 | USD | Low | Crude Oil Imports |  |  | -1.706M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.278M |
+| 15:30 | USD | Low | Distillate Fuel Production |  |  | -0.268M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  |  | 0.329M |
+| 15:30 | USD | Low | Gasoline Production |  |  | 0.791M |
+| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.026M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -2.4% |
+| 15:30 | USD | Low | Gasoline Inventories |  |  | 0.223M |
+| 17:00 | EUR | Low | French Car Registration (YoY) (Jan) |  |  | -5.8% |
+| 17:30 | BRL | Low | Foreign Exchange Flows |  |  | 2.215B |
+| 19:00 | USD | Low | Total Vehicle Sales (Jan) |  | 15.50M | 16.00M |
+| 21:00 | KRW | Low | FX Reserves - USD (Jan) |  |  | 428.05B |
+| 23:30 | USD | Low | Fed Governor Cook Speaks |  |  |  |
+| 23:50 | JPY | Low | Foreign Bonds Buying |  |  | 177.6B |
+| 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 328.1B |
