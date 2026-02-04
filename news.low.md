@@ -32,9 +32,9 @@
 | 13:00 | BRL | S&P Global Composite PMI (Jan) | 49.9 |  | 52.1 |
 | 13:00 | BRL | S&P Global Services PMI (Jan) | 51.3 |  | 53.7 |
 | 13:15 | CAD | Reserve Assets Total (Jan) | 128.7B |  | 127.8B |
-| 9 min | CAD | S&P Global Services PMI (Jan) |  |  | 46.50 |
-| 39 min | USD | ISM Non-Manufacturing Business Activity (Jan) |  |  | 56.0 |
-| 39 min | USD | ISM Non-Manufacturing New Orders (Jan) |  |  | 57.9 |
+| 14:30 | CAD | S&P Global Services PMI (Jan) | 45.80 |  | 46.50 |
+| 15:00 | USD | ISM Non-Manufacturing Business Activity (Jan) | 57.4 |  | 55.2 |
+| 15:00 | USD | ISM Non-Manufacturing New Orders (Jan) | 53.1 | 55.0 | 56.5 |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.395M |
 | 15:30 | USD | Crude Oil Imports |  |  | -1.706M |
 | 15:30 | USD | Distillate Fuel Production |  |  | -0.268M |
