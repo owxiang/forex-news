@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | au Jibun Bank Services PMI (Jan) | 53.7 | 53.4 | 51.6 |
-| 5 min | CNY | RatingDog Services PMI (Jan) |  | 52.0 | 52.0 |
+| 01:45 | CNY | RatingDog Services PMI (Jan) | 52.3 | 52.0 | 52.0 |
 | 08:15 | EUR | HCOB Spain Services PMI (Jan) |  | 56.6 | 57.1 |
 | 08:45 | EUR | HCOB Italy Services PMI (Jan) |  | 51.5 | 51.5 |
 | 08:50 | EUR | HCOB France Services PMI (Jan) |  | 47.9 | 47.9 |
