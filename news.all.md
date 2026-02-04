@@ -42,13 +42,11 @@
 | 12:00 | USD | Low | MBA Purchase Index | 165.4 |  | 193.3 |
 | 12:00 | USD | Low | Mortgage Market Index | 330.8 |  | 363.3 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 1,269.7 |  | 1,332.2 |
-| 13:00 | INR | Low | M3 Money Supply |  |  | 10.5% |
-| 13:00 | BRL | Low | S&P Global Composite PMI (Jan) |  |  | 52.1 |
-| 13:00 | BRL | Low | S&P Global Services PMI (Jan) |  |  | 53.7 |
-| 13:15 | USD | High | ADP Nonfarm Employment Change (Jan) |  | 46K | 41K |
-| 13:15 | CAD | Low | Reserve Assets Total (Jan) |  |  | 127.8B |
-| 14:00 | USD | High | JOLTS Job Openings (Dec) |  | 7.230M | 7.146M |
-| 14:30 | CAD | Low | S&P Global Services PMI (Jan) |  |  | 46.50 |
+| 13:00 | BRL | Low | S&P Global Composite PMI (Jan) | 49.9 |  | 52.1 |
+| 13:00 | BRL | Low | S&P Global Services PMI (Jan) | 51.3 |  | 53.7 |
+| 13:15 | USD | High | ADP Nonfarm Employment Change (Jan) | 22K | 46K | 37K |
+| 13:15 | CAD | Low | Reserve Assets Total (Jan) | 128.7B |  | 127.8B |
+| 59 min | CAD | Low | S&P Global Services PMI (Jan) |  |  | 46.50 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Jan) |  | 52.8 | 52.7 |
 | 14:45 | USD | High | S&P Global Services PMI (Jan) |  | 52.5 | 52.5 |
 | 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Jan) |  |  | 56.0 |

@@ -29,11 +29,10 @@
 | 12:00 | USD | MBA Purchase Index | 165.4 |  | 193.3 |
 | 12:00 | USD | Mortgage Market Index | 330.8 |  | 363.3 |
 | 12:00 | USD | Mortgage Refinance Index | 1,269.7 |  | 1,332.2 |
-| 13:00 | INR | M3 Money Supply |  |  | 10.5% |
-| 13:00 | BRL | S&P Global Composite PMI (Jan) |  |  | 52.1 |
-| 13:00 | BRL | S&P Global Services PMI (Jan) |  |  | 53.7 |
-| 13:15 | CAD | Reserve Assets Total (Jan) |  |  | 127.8B |
-| 14:30 | CAD | S&P Global Services PMI (Jan) |  |  | 46.50 |
+| 13:00 | BRL | S&P Global Composite PMI (Jan) | 49.9 |  | 52.1 |
+| 13:00 | BRL | S&P Global Services PMI (Jan) | 51.3 |  | 53.7 |
+| 13:15 | CAD | Reserve Assets Total (Jan) | 128.7B |  | 127.8B |
+| 59 min | CAD | S&P Global Services PMI (Jan) |  |  | 46.50 |
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Jan) |  |  | 56.0 |
 | 15:00 | USD | ISM Non-Manufacturing New Orders (Jan) |  |  | 57.9 |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.395M |
