@@ -6,7 +6,7 @@
 | 00:30 | JPY | Low | Manufacturing & Services PMI (Jan) | 53.10 | 52.80 | 51.10 |
 | 00:30 | JPY | Moderate | au Jibun Bank Services PMI (Jan) | 53.7 | 53.4 | 51.6 |
 | 00:30 | HKD | Low | S&P Global Manufacturing PMI (Jan) | 52.3 |  | 51.9 |
-| 01:45 | CNY | Moderate | RatingDog Services PMI (Jan) |  | 52.0 | 52.0 |
+| 5 min | CNY | Moderate | RatingDog Services PMI (Jan) |  | 52.0 | 52.0 |
 | 05:00 | INR | Low | S&P Global Services PMI (Jan) |  | 59.3 | 59.3 |
 | 05:00 | INR | Low | Manufacturing & Services PMI (Jan) |  | 59.50 | 59.50 |
 | 05:10 | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
