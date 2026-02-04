@@ -23,12 +23,13 @@
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Jan) | 2.3% |  | 0.2% |
 | 10:00 | EUR | PPI (MoM) (Dec) | -0.3% | -0.3% | 0.7% |
 | 10:00 | EUR | PPI (YoY) (Dec) | -2.1% | -2.3% | -1.4% |
-| 11:30 | INR | M3 Money Supply |  |  | 10.5% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.24% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -8.5% |
-| 12:00 | USD | MBA Purchase Index |  |  | 193.3 |
-| 12:00 | USD | Mortgage Market Index |  |  | 363.3 |
-| 12:00 | USD | Mortgage Refinance Index |  |  | 1,332.2 |
+| 11:30 | EUR | German Car Registration (YoY) (Jan) | -6.6% |  | 9.7% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.21% |  | 6.24% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | -8.9% |  | -8.5% |
+| 12:00 | USD | MBA Purchase Index | 165.4 |  | 193.3 |
+| 12:00 | USD | Mortgage Market Index | 330.8 |  | 363.3 |
+| 12:00 | USD | Mortgage Refinance Index | 1,269.7 |  | 1,332.2 |
+| 13:00 | INR | M3 Money Supply |  |  | 10.5% |
 | 13:00 | BRL | S&P Global Composite PMI (Jan) |  |  | 52.1 |
 | 13:00 | BRL | S&P Global Services PMI (Jan) |  |  | 53.7 |
 | 13:15 | CAD | Reserve Assets Total (Jan) |  |  | 127.8B |
