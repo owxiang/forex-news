@@ -49,21 +49,23 @@
 | 14:30 | CAD | Low | S&P Global Services PMI (Jan) | 45.80 |  | 46.50 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Jan) | 53.0 | 52.8 | 52.7 |
 | 14:45 | USD | High | S&P Global Services PMI (Jan) | 52.7 | 52.5 | 52.5 |
+| 15:00 | USD | Low | All Car Sales (Jan) | 2.60M |  | 2.67M |
+| 15:00 | USD | Low | All Truck Sales (Jan) | 12.33M |  | 13.33M |
 | 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Jan) | 57.4 |  | 55.2 |
 | 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Jan) | 50.3 | 52.3 | 51.7 |
 | 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Jan) | 53.1 | 55.0 | 56.5 |
 | 15:00 | USD | High | ISM Non-Manufacturing PMI (Jan) | 53.8 | 53.5 | 53.8 |
 | 15:00 | USD | High | ISM Non-Manufacturing Prices (Jan) | 66.6 | 65.0 | 65.1 |
-| 15:30 | USD | High | Crude Oil Inventories |  | -2.000M | -2.295M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.395M |
-| 15:30 | USD | Low | Crude Oil Imports |  |  | -1.706M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.278M |
-| 15:30 | USD | Low | Distillate Fuel Production |  |  | -0.268M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  |  | 0.329M |
-| 15:30 | USD | Low | Gasoline Production |  |  | 0.791M |
-| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.026M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -2.4% |
-| 15:30 | USD | Low | Gasoline Inventories |  |  | 0.223M |
+| 15:30 | USD | High | Crude Oil Inventories | -3.455M | -2.000M | -2.295M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | -0.180M |  | -0.395M |
+| 15:30 | USD | Low | Crude Oil Imports | 1.101M |  | -1.706M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | -0.743M |  | -0.278M |
+| 15:30 | USD | Low | Distillate Fuel Production | -0.005M |  | -0.268M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks | -5.553M |  | 0.329M |
+| 15:30 | USD | Low | Gasoline Production | -0.565M |  | 0.791M |
+| 15:30 | USD | Low | Heating Oil Stockpiles | -0.160M |  | 0.026M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -0.4% |  | -2.4% |
+| 15:30 | USD | Low | Gasoline Inventories | 0.685M |  | 0.223M |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | 2.215B |
 | 19:00 | USD | Low | Total Vehicle Sales (Jan) |  | 15.50M | 16.00M |
 | 23:30 | USD | Low | Fed Governor Cook Speaks |  |  |  |

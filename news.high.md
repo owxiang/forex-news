@@ -7,4 +7,4 @@
 | 14:45 | USD | S&P Global Services PMI (Jan) | 52.7 | 52.5 | 52.5 |
 | 15:00 | USD | ISM Non-Manufacturing PMI (Jan) | 53.8 | 53.5 | 53.8 |
 | 15:00 | USD | ISM Non-Manufacturing Prices (Jan) | 66.6 | 65.0 | 65.1 |
-| 15:30 | USD | Crude Oil Inventories |  | -2.000M | -2.295M |
+| 15:30 | USD | Crude Oil Inventories | -3.455M | -2.000M | -2.295M |

@@ -16,4 +16,4 @@
 | 10:00 | EUR | CPI (MoM) (Jan) | -0.5% |  | 0.2% |
 | 14:45 | USD | S&P Global Composite PMI (Jan) | 53.0 | 52.8 | 52.7 |
 | 15:00 | USD | ISM Non-Manufacturing Employment (Jan) | 50.3 | 52.3 | 51.7 |
-| 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.278M |
+| 15:30 | USD | Cushing Crude Oil Inventories | -0.743M |  | -0.278M |

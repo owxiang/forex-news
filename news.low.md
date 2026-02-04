@@ -33,16 +33,18 @@
 | 13:00 | BRL | S&P Global Services PMI (Jan) | 51.3 |  | 53.7 |
 | 13:15 | CAD | Reserve Assets Total (Jan) | 128.7B |  | 127.8B |
 | 14:30 | CAD | S&P Global Services PMI (Jan) | 45.80 |  | 46.50 |
+| 15:00 | USD | All Car Sales (Jan) | 2.60M |  | 2.67M |
+| 15:00 | USD | All Truck Sales (Jan) | 12.33M |  | 13.33M |
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Jan) | 57.4 |  | 55.2 |
 | 15:00 | USD | ISM Non-Manufacturing New Orders (Jan) | 53.1 | 55.0 | 56.5 |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.395M |
-| 15:30 | USD | Crude Oil Imports |  |  | -1.706M |
-| 15:30 | USD | Distillate Fuel Production |  |  | -0.268M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | 0.329M |
-| 15:30 | USD | Gasoline Production |  |  | 0.791M |
-| 15:30 | USD | Heating Oil Stockpiles |  |  | 0.026M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -2.4% |
-| 15:30 | USD | Gasoline Inventories |  |  | 0.223M |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) | -0.180M |  | -0.395M |
+| 15:30 | USD | Crude Oil Imports | 1.101M |  | -1.706M |
+| 15:30 | USD | Distillate Fuel Production | -0.005M |  | -0.268M |
+| 15:30 | USD | EIA Weekly Distillates Stocks | -5.553M |  | 0.329M |
+| 15:30 | USD | Gasoline Production | -0.565M |  | 0.791M |
+| 15:30 | USD | Heating Oil Stockpiles | -0.160M |  | 0.026M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.4% |  | -2.4% |
+| 15:30 | USD | Gasoline Inventories | 0.685M |  | 0.223M |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | 2.215B |
 | 19:00 | USD | Total Vehicle Sales (Jan) |  | 15.50M | 16.00M |
 | 23:30 | USD | Fed Governor Cook Speaks |  |  |  |
