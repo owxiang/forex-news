@@ -45,8 +45,8 @@
 | 15:30 | USD | Heating Oil Stockpiles | -0.160M |  | 0.026M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.4% |  | -2.4% |
 | 15:30 | USD | Gasoline Inventories | 0.685M |  | 0.223M |
-| 9 min | BRL | Foreign Exchange Flows |  |  | 2.215B |
-| 19:00 | USD | Total Vehicle Sales (Jan) |  | 15.50M | 16.00M |
+| 16:30 | USD | Total Vehicle Sales (Jan) | 14.90M | 15.50M | 16.00M |
+| 17:30 | BRL | Foreign Exchange Flows | 4.180B |  | 2.215B |
 | 23:30 | USD | Fed Governor Cook Speaks |  |  |  |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | 177.6B |
 | 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 328.1B |
