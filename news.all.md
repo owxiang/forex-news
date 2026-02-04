@@ -7,21 +7,21 @@
 | 00:30 | JPY | Moderate | au Jibun Bank Services PMI (Jan) | 53.7 | 53.4 | 51.6 |
 | 00:30 | HKD | Low | S&P Global Manufacturing PMI (Jan) | 52.3 |  | 51.9 |
 | 01:45 | CNY | Moderate | RatingDog Services PMI (Jan) | 52.3 | 52.0 | 52.0 |
-| 05:00 | INR | Low | S&P Global Services PMI (Jan) |  | 59.3 | 59.3 |
-| 05:00 | INR | Low | Manufacturing & Services PMI (Jan) |  | 59.50 | 59.50 |
-| 05:10 | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
+| 22 min | INR | Low | S&P Global Services PMI (Jan) |  | 59.3 | 58.0 |
+| 22 min | INR | Low | Manufacturing & Services PMI (Jan) |  | 59.50 | 57.80 |
+| 32 min | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
 | 07:15 | ZAR | Low | S&P Global Manufacturing PMI (Jan) |  |  | 47.7 |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Jan) |  | 56.6 | 57.1 |
 | 08:45 | EUR | Low | HCOB Italy Composite PMI (Jan) |  |  | 50.3 |
-| 08:45 | EUR | Moderate | HCOB Italy Services PMI (Jan) |  | 51.5 | 51.5 |
-| 08:50 | EUR | Low | HCOB France Composite PMI (Jan) |  | 48.6 | 48.6 |
-| 08:50 | EUR | Moderate | HCOB France Services PMI (Jan) |  | 47.9 | 47.9 |
-| 08:55 | EUR | Low | HCOB Germany Composite PMI (Jan) |  | 52.5 | 52.5 |
-| 08:55 | EUR | Moderate | HCOB Germany Services PMI (Jan) |  | 53.3 | 53.3 |
+| 08:45 | EUR | Moderate | HCOB Italy Services PMI (Jan) |  | 51.3 | 51.5 |
+| 08:50 | EUR | Low | HCOB France Composite PMI (Jan) |  | 48.6 | 50.0 |
+| 08:50 | EUR | Moderate | HCOB France Services PMI (Jan) |  | 47.9 | 50.1 |
+| 08:55 | EUR | Low | HCOB Germany Composite PMI (Jan) |  | 52.5 | 51.3 |
+| 08:55 | EUR | Moderate | HCOB Germany Services PMI (Jan) |  | 53.3 | 52.7 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Jan) |  | 51.5 | 51.5 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Jan) |  | 51.9 | 51.9 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Jan) |  | 51.9 | 52.4 |
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (Jan) |  | 53.9 | 53.9 |
-| 09:30 | GBP | Moderate | S&P Global Services PMI (Jan) |  | 54.3 | 54.3 |
+| 09:30 | GBP | Moderate | S&P Global Services PMI (Jan) |  | 54.3 | 51.4 |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Jan) |  | 0.4% | 0.2% |
 | 10:00 | EUR | Low | Italian CPI (YoY) (Jan) |  | 1.0% | 1.2% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Jan) |  |  | 1.2% |

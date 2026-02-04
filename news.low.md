@@ -5,13 +5,13 @@
 | 00:00 | NZD | ANZ Commodity Price Index (MoM) | 2.0% |  | -2.1% |
 | 00:30 | JPY | Manufacturing & Services PMI (Jan) | 53.10 | 52.80 | 51.10 |
 | 00:30 | HKD | S&P Global Manufacturing PMI (Jan) | 52.3 |  | 51.9 |
-| 05:00 | INR | S&P Global Services PMI (Jan) |  | 59.3 | 59.3 |
-| 05:00 | INR | Manufacturing & Services PMI (Jan) |  | 59.50 | 59.50 |
-| 05:10 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
+| 22 min | INR | S&P Global Services PMI (Jan) |  | 59.3 | 58.0 |
+| 22 min | INR | Manufacturing & Services PMI (Jan) |  | 59.50 | 57.80 |
+| 32 min | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
 | 07:15 | ZAR | S&P Global Manufacturing PMI (Jan) |  |  | 47.7 |
 | 08:45 | EUR | HCOB Italy Composite PMI (Jan) |  |  | 50.3 |
-| 08:50 | EUR | HCOB France Composite PMI (Jan) |  | 48.6 | 48.6 |
-| 08:55 | EUR | HCOB Germany Composite PMI (Jan) |  | 52.5 | 52.5 |
+| 08:50 | EUR | HCOB France Composite PMI (Jan) |  | 48.6 | 50.0 |
+| 08:55 | EUR | HCOB Germany Composite PMI (Jan) |  | 52.5 | 51.3 |
 | 10:00 | EUR | Italian CPI (MoM) (Jan) |  | 0.4% | 0.2% |
 | 10:00 | EUR | Italian CPI (YoY) (Jan) |  | 1.0% | 1.2% |
 | 10:00 | EUR | Italian HICP (YoY) (Jan) |  |  | 1.2% |
