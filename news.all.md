@@ -20,22 +20,22 @@
 | 08:55 | EUR | Moderate | HCOB Germany Services PMI (Jan) | 52.4 | 53.3 | 52.7 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Jan) | 51.3 | 51.5 | 51.5 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Jan) | 51.6 | 51.9 | 52.4 |
-| 11 min | GBP | Moderate | S&P Global Composite PMI (Jan) |  | 53.9 | 51.4 |
-| 11 min | GBP | Moderate | S&P Global Services PMI (Jan) |  | 54.3 | 51.4 |
-| 41 min | EUR | Low | Italian CPI (MoM) (Jan) |  | 0.4% | 0.2% |
-| 41 min | EUR | Low | Italian CPI (YoY) (Jan) |  | 1.0% | 1.2% |
-| 41 min | EUR | Low | Italian HICP (MoM) (Jan) |  | -1.0% | 0.2% |
-| 41 min | EUR | Low | Italian HICP (YoY) (Jan) |  | 0.9% | 1.2% |
-| 41 min | NOK | Low | House Price Index (YoY) (Jan) |  |  | 5.00% |
-| 41 min | EUR | Moderate | Core CPI (YoY) (Jan) |  | 2.3% | 2.3% |
-| 41 min | EUR | Low | Core CPI (MoM) (Jan) |  |  | 0.3% |
-| 41 min | EUR | High | CPI (YoY) (Jan) |  | 1.7% | 1.9% |
-| 41 min | EUR | Moderate | CPI (MoM) (Jan) |  |  | 0.2% |
-| 41 min | EUR | Low | CPI, n.s.a (Jan) |  |  | 129.54 |
-| 41 min | EUR | Low | HICP ex Energy & Food (YoY) (Jan) |  |  | 2.3% |
-| 41 min | EUR | Low | HICP ex Energy and Food (MoM) (Jan) |  |  | 0.2% |
-| 41 min | EUR | Low | PPI (MoM) (Dec) |  | -0.3% | 0.5% |
-| 41 min | EUR | Low | PPI (YoY) (Dec) |  | -2.3% | -1.7% |
+| 09:30 | GBP | Moderate | S&P Global Composite PMI (Jan) | 53.7 | 53.9 | 51.4 |
+| 09:30 | GBP | Moderate | S&P Global Services PMI (Jan) | 54.0 | 54.3 | 51.4 |
+| 10:00 | EUR | Low | Italian CPI (MoM) (Jan) | 0.4% | 0.4% | 0.2% |
+| 10:00 | EUR | Low | Italian CPI (YoY) (Jan) | 1.0% | 1.0% | 1.2% |
+| 10:00 | EUR | Low | Italian HICP (MoM) (Jan) | -1.0% | -1.0% | 0.2% |
+| 10:00 | EUR | Low | Italian HICP (YoY) (Jan) | 1.0% | 0.9% | 1.2% |
+| 10:00 | NOK | Low | House Price Index (YoY) (Jan) | 4.20% |  | 5.00% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Jan) | 2.2% | 2.3% | 2.3% |
+| 10:00 | EUR | Low | Core CPI (MoM) (Jan) | 2.3% |  | 0.3% |
+| 10:00 | EUR | High | CPI (YoY) (Jan) | 1.7% | 1.7% | 2.0% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Jan) | -0.5% |  | 0.2% |
+| 10:00 | EUR | Low | CPI, n.s.a (Jan) | 128.89 |  | 129.54 |
+| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jan) | 2.2% |  | 2.3% |
+| 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jan) | 2.3% |  | 0.2% |
+| 10:00 | EUR | Low | PPI (MoM) (Dec) | -0.3% | -0.3% | 0.7% |
+| 10:00 | EUR | Low | PPI (YoY) (Dec) | -2.1% | -2.3% | -1.4% |
 | 11:30 | INR | Low | M3 Money Supply |  |  | 10.5% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.24% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -8.5% |

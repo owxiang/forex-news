@@ -12,17 +12,17 @@
 | 08:45 | EUR | HCOB Italy Composite PMI (Jan) | 51.4 |  | 50.3 |
 | 08:50 | EUR | HCOB France Composite PMI (Jan) | 49.1 | 48.6 | 50.0 |
 | 08:55 | EUR | HCOB Germany Composite PMI (Jan) | 52.1 | 52.5 | 51.3 |
-| 41 min | EUR | Italian CPI (MoM) (Jan) |  | 0.4% | 0.2% |
-| 41 min | EUR | Italian CPI (YoY) (Jan) |  | 1.0% | 1.2% |
-| 41 min | EUR | Italian HICP (MoM) (Jan) |  | -1.0% | 0.2% |
-| 41 min | EUR | Italian HICP (YoY) (Jan) |  | 0.9% | 1.2% |
-| 41 min | NOK | House Price Index (YoY) (Jan) |  |  | 5.00% |
-| 41 min | EUR | Core CPI (MoM) (Jan) |  |  | 0.3% |
-| 41 min | EUR | CPI, n.s.a (Jan) |  |  | 129.54 |
-| 41 min | EUR | HICP ex Energy & Food (YoY) (Jan) |  |  | 2.3% |
-| 41 min | EUR | HICP ex Energy and Food (MoM) (Jan) |  |  | 0.2% |
-| 41 min | EUR | PPI (MoM) (Dec) |  | -0.3% | 0.5% |
-| 41 min | EUR | PPI (YoY) (Dec) |  | -2.3% | -1.7% |
+| 10:00 | EUR | Italian CPI (MoM) (Jan) | 0.4% | 0.4% | 0.2% |
+| 10:00 | EUR | Italian CPI (YoY) (Jan) | 1.0% | 1.0% | 1.2% |
+| 10:00 | EUR | Italian HICP (MoM) (Jan) | -1.0% | -1.0% | 0.2% |
+| 10:00 | EUR | Italian HICP (YoY) (Jan) | 1.0% | 0.9% | 1.2% |
+| 10:00 | NOK | House Price Index (YoY) (Jan) | 4.20% |  | 5.00% |
+| 10:00 | EUR | Core CPI (MoM) (Jan) | 2.3% |  | 0.3% |
+| 10:00 | EUR | CPI, n.s.a (Jan) | 128.89 |  | 129.54 |
+| 10:00 | EUR | HICP ex Energy & Food (YoY) (Jan) | 2.2% |  | 2.3% |
+| 10:00 | EUR | HICP ex Energy and Food (MoM) (Jan) | 2.3% |  | 0.2% |
+| 10:00 | EUR | PPI (MoM) (Dec) | -0.3% | -0.3% | 0.7% |
+| 10:00 | EUR | PPI (YoY) (Dec) | -2.1% | -2.3% | -1.4% |
 | 11:30 | INR | M3 Money Supply |  |  | 10.5% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.24% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -8.5% |
