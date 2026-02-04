@@ -8,7 +8,7 @@
 | 05:00 | INR | S&P Global Services PMI (Jan) | 58.5 | 59.3 | 58.0 |
 | 05:00 | INR | Manufacturing & Services PMI (Jan) | 58.40 | 59.50 | 57.80 |
 | 05:10 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
-| 51 min | ZAR | S&P Global Manufacturing PMI (Jan) |  |  | 47.7 |
+| 07:15 | ZAR | S&P Global Manufacturing PMI (Jan) | 50.0 |  | 47.7 |
 | 08:45 | EUR | HCOB Italy Composite PMI (Jan) |  |  | 50.3 |
 | 08:50 | EUR | HCOB France Composite PMI (Jan) |  | 48.6 | 50.0 |
 | 08:55 | EUR | HCOB Germany Composite PMI (Jan) |  | 52.5 | 51.3 |
