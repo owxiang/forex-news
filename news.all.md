@@ -10,7 +10,7 @@
 | 05:00 | INR | Low | S&P Global Services PMI (Jan) | 58.5 | 59.3 | 58.0 |
 | 05:00 | INR | Low | Manufacturing & Services PMI (Jan) | 58.40 | 59.50 | 57.80 |
 | 05:10 | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
-| 07:15 | ZAR | Low | S&P Global Manufacturing PMI (Jan) |  |  | 47.7 |
+| 51 min | ZAR | Low | S&P Global Manufacturing PMI (Jan) |  |  | 47.7 |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Jan) |  | 56.6 | 57.1 |
 | 08:45 | EUR | Low | HCOB Italy Composite PMI (Jan) |  |  | 50.3 |
 | 08:45 | EUR | Moderate | HCOB Italy Services PMI (Jan) |  | 51.3 | 51.5 |
