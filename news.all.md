@@ -2,15 +2,15 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | AUD | Low | Exports (MoM) (Dec) | 1.0% |  | -2.9% |
-| 00:30 | AUD | Low | Imports (MoM) (Dec) | -0.8% |  | 0.2% |
-| 00:30 | AUD | Moderate | Trade Balance (Dec) | 3.373B | 3.420B | 2.936B |
-| 03:35 | JPY | Low | 30-Year JGB Auction |  |  | 3.447% |
-| 04:00 | IDR | Low | GDP (YoY) (Q4) |  | 5.01% | 5.04% |
-| 04:00 | IDR | Low | GDP (QoQ) (Q4) |  | 0.68% | 1.43% |
-| 04:00 | IDR | Low | GDP Annual |  | 5.00% | 5.03% |
-| 05:00 | SGD | Low | Retail Sales (YoY) (Dec) |  |  | 6.3% |
-| 05:00 | SGD | Low | Retail Sales (MoM) (Dec) |  |  | 0.0% |
+| 00:30 | AUD | Low | Exports (MoM) (Dec) | 1.0% |  | -4.0% |
+| 00:30 | AUD | Low | Imports (MoM) (Dec) | -0.8% |  | -0.2% |
+| 00:30 | AUD | Moderate | Trade Balance (Dec) | 3.373B | 3.420B | 2.597B |
+| 03:35 | JPY | Low | 30-Year JGB Auction | 3.615% |  | 3.447% |
+| 04:00 | IDR | Low | GDP (YoY) (Q4) | 5.39% | 5.01% | 5.04% |
+| 04:00 | IDR | Low | GDP (QoQ) (Q4) | 0.86% | 0.68% | 1.42% |
+| 04:00 | IDR | Low | GDP Annual | 5.11% | 5.00% | 5.03% |
+| 21 min | SGD | Low | Retail Sales (YoY) (Dec) |  |  | 6.3% |
+| 21 min | SGD | Low | Retail Sales (MoM) (Dec) |  |  | 0.0% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Dec) |  | -1.8% | 5.6% |
 | 07:45 | EUR | Low | French Industrial Production (MoM) (Dec) |  | 0.2% | -0.1% |
 | 08:00 | CHF | Low | Unemployment Rate n.s.a. (Jan) |  |  | 3.1% |
