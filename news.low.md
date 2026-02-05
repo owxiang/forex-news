@@ -34,7 +34,7 @@
 | 16:30 | USD | 4-Week Bill Auction | 3.630% |  | 3.630% |
 | 16:30 | USD | 8-Week Bill Auction | 3.630% |  | 3.635% |
 | 18:00 | BRL | Trade Balance (Jan) | 4.34B | 4.90B | 9.63B |
-| 17 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.883T |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 2.937T |  | 2.883T |
 | 22:30 | AUD | RBA Gov Bullock Speaks |  |  |  |
-| 23:00 | KRW | Current Account (Dec) |  |  | 12.24B |
-| 23:50 | JPY | Foreign Reserves (USD) (Jan) |  |  | 1,369.8B |
+| 23:00 | KRW | Current Account (Dec) | 18.70B |  | 12.90B |
+| 41 min | JPY | Foreign Reserves (USD) (Jan) |  |  | 1,369.8B |

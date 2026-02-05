@@ -17,6 +17,6 @@
 | 15:50 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 17:25 | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 19:00 | MXN | Interest Rate Decision (Jan) | 7.00% | 7.00% | 7.00% |
-| 17 min | USD | Fed's Balance Sheet |  |  | 6,588B |
-| 23:30 | JPY | Household Spending (YoY) (Dec) |  | -0.5% | 2.9% |
-| 23:30 | JPY | Household Spending (MoM) (Dec) |  | -1.3% | 6.2% |
+| 21:30 | USD | Fed's Balance Sheet | 6,606B |  | 6,588B |
+| 21 min | JPY | Household Spending (YoY) (Dec) |  | -0.5% | 2.9% |
+| 21 min | JPY | Household Spending (MoM) (Dec) |  | -1.3% | 6.2% |

@@ -55,10 +55,10 @@
 | 17:25 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 18:00 | BRL | Low | Trade Balance (Jan) | 4.34B | 4.90B | 9.63B |
 | 19:00 | MXN | Moderate | Interest Rate Decision (Jan) | 7.00% | 7.00% | 7.00% |
-| 17 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,588B |
-| 17 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.883T |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,606B |  | 6,588B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 2.937T |  | 2.883T |
 | 22:30 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
-| 23:00 | KRW | Low | Current Account (Dec) |  |  | 12.24B |
-| 23:30 | JPY | Moderate | Household Spending (YoY) (Dec) |  | -0.5% | 2.9% |
-| 23:30 | JPY | Moderate | Household Spending (MoM) (Dec) |  | -1.3% | 6.2% |
-| 23:50 | JPY | Low | Foreign Reserves (USD) (Jan) |  |  | 1,369.8B |
+| 23:00 | KRW | Low | Current Account (Dec) | 18.70B |  | 12.90B |
+| 21 min | JPY | Moderate | Household Spending (YoY) (Dec) |  | -0.5% | 2.9% |
+| 21 min | JPY | Moderate | Household Spending (MoM) (Dec) |  | -1.3% | 6.2% |
+| 41 min | JPY | Low | Foreign Reserves (USD) (Jan) |  |  | 1,369.8B |
