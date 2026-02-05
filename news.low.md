@@ -33,7 +33,7 @@
 | 15:30 | USD | Natural Gas Storage | -360B | -379B | -242B |
 | 16:30 | USD | 4-Week Bill Auction | 3.630% |  | 3.630% |
 | 16:30 | USD | 8-Week Bill Auction | 3.630% |  | 3.635% |
-| 37 min | BRL | Trade Balance (Jan) |  | 4.90B | 9.63B |
+| 18:00 | BRL | Trade Balance (Jan) | 4.34B | 4.90B | 9.63B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.883T |
 | 22:30 | AUD | RBA Gov Bullock Speaks |  |  |  |
 | 23:00 | KRW | Current Account (Dec) |  |  | 12.24B |

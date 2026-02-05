@@ -52,9 +52,9 @@
 | 15:50 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 16:30 | USD | Low | 4-Week Bill Auction | 3.630% |  | 3.630% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 3.630% |  | 3.635% |
-| 2 min | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
-| 37 min | BRL | Low | Trade Balance (Jan) |  | 4.90B | 9.63B |
-| 19:00 | MXN | Moderate | Interest Rate Decision (Jan) |  | 7.00% | 7.00% |
+| 17:25 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
+| 18:00 | BRL | Low | Trade Balance (Jan) | 4.34B | 4.90B | 9.63B |
+| 37 min | MXN | Moderate | Interest Rate Decision (Jan) |  | 7.00% | 7.00% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,588B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.883T |
 | 22:30 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
