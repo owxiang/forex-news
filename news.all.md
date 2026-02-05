@@ -11,7 +11,7 @@
 | 04:00 | IDR | Low | GDP Annual | 5.11% | 5.00% | 5.03% |
 | 05:00 | SGD | Low | Retail Sales (YoY) (Dec) | 2.7% |  | 6.2% |
 | 05:00 | SGD | Low | Retail Sales (MoM) (Dec) | -5.4% |  | -0.2% |
-| 07:00 | EUR | Moderate | German Factory Orders (MoM) (Dec) |  | -1.8% | 5.6% |
+| 33 min | EUR | Moderate | German Factory Orders (MoM) (Dec) |  | -1.8% | 5.6% |
 | 07:45 | EUR | Low | French Industrial Production (MoM) (Dec) |  | 0.2% | -0.1% |
 | 08:00 | CHF | Low | Unemployment Rate n.s.a. (Jan) |  |  | 3.1% |
 | 08:00 | CHF | Low | Unemployment Rate s.a. (Jan) |  |  | 3.0% |
