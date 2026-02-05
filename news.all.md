@@ -50,10 +50,10 @@
 | 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage | -360B | -379B | -242B |
 | 15:50 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 9 min | USD | Low | 4-Week Bill Auction |  |  | 3.630% |
-| 9 min | USD | Low | 8-Week Bill Auction |  |  | 3.635% |
-| 17:25 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
-| 18:00 | BRL | Low | Trade Balance (Jan) |  | 4.90B | 9.63B |
+| 16:30 | USD | Low | 4-Week Bill Auction | 3.630% |  | 3.630% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 3.630% |  | 3.635% |
+| 2 min | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
+| 37 min | BRL | Low | Trade Balance (Jan) |  | 4.90B | 9.63B |
 | 19:00 | MXN | Moderate | Interest Rate Decision (Jan) |  | 7.00% | 7.00% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,588B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.883T |

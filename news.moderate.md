@@ -15,7 +15,7 @@
 | 13:30 | USD | Continuing Jobless Claims | 1,844K | 1,850K | 1,819K |
 | 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 15:50 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 17:25 | CAD | BoC Gov Macklem Speaks |  |  |  |
+| 2 min | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 19:00 | MXN | Interest Rate Decision (Jan) |  | 7.00% | 7.00% |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,588B |
 | 23:30 | JPY | Household Spending (YoY) (Dec) |  | -0.5% | 2.9% |
