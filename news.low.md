@@ -8,8 +8,8 @@
 | 04:00 | IDR | GDP (YoY) (Q4) | 5.39% | 5.01% | 5.04% |
 | 04:00 | IDR | GDP (QoQ) (Q4) | 0.86% | 0.68% | 1.42% |
 | 04:00 | IDR | GDP Annual | 5.11% | 5.00% | 5.03% |
-| 21 min | SGD | Retail Sales (YoY) (Dec) |  |  | 6.3% |
-| 21 min | SGD | Retail Sales (MoM) (Dec) |  |  | 0.0% |
+| 05:00 | SGD | Retail Sales (YoY) (Dec) | 2.7% |  | 6.2% |
+| 05:00 | SGD | Retail Sales (MoM) (Dec) | -5.4% |  | -0.2% |
 | 07:45 | EUR | French Industrial Production (MoM) (Dec) |  | 0.2% | -0.1% |
 | 08:00 | CHF | Unemployment Rate n.s.a. (Jan) |  |  | 3.1% |
 | 08:00 | CHF | Unemployment Rate s.a. (Jan) |  |  | 3.0% |

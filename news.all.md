@@ -9,8 +9,8 @@
 | 04:00 | IDR | Low | GDP (YoY) (Q4) | 5.39% | 5.01% | 5.04% |
 | 04:00 | IDR | Low | GDP (QoQ) (Q4) | 0.86% | 0.68% | 1.42% |
 | 04:00 | IDR | Low | GDP Annual | 5.11% | 5.00% | 5.03% |
-| 21 min | SGD | Low | Retail Sales (YoY) (Dec) |  |  | 6.3% |
-| 21 min | SGD | Low | Retail Sales (MoM) (Dec) |  |  | 0.0% |
+| 05:00 | SGD | Low | Retail Sales (YoY) (Dec) | 2.7% |  | 6.2% |
+| 05:00 | SGD | Low | Retail Sales (MoM) (Dec) | -5.4% |  | -0.2% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Dec) |  | -1.8% | 5.6% |
 | 07:45 | EUR | Low | French Industrial Production (MoM) (Dec) |  | 0.2% | -0.1% |
 | 08:00 | CHF | Low | Unemployment Rate n.s.a. (Jan) |  |  | 3.1% |
@@ -49,7 +49,7 @@
 | 13:30 | USD | High | Initial Jobless Claims |  | 212K | 209K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 206.25K |
 | 13:45 | EUR | High | ECB Press Conference |  |  |  |
-| 15:00 | USD | High | JOLTS Job Openings (Dec) |  |  | 7.146M |
+| 15:00 | USD | High | JOLTS Job Openings (Dec) |  | 7.200M | 7.146M |
 | 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage |  | -379B | -242B |
 | 15:50 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
