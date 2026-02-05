@@ -48,10 +48,10 @@
 | 13:45 | EUR | High | ECB Press Conference |  |  |  |
 | 15:00 | USD | High | JOLTS Job Openings (Dec) | 6.542M | 7.200M | 6.928M |
 | 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 11 min | USD | Low | Natural Gas Storage |  | -379B | -242B |
-| 31 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.630% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.635% |
+| 15:30 | USD | Low | Natural Gas Storage | -360B | -379B | -242B |
+| 15:50 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 9 min | USD | Low | 4-Week Bill Auction |  |  | 3.630% |
+| 9 min | USD | Low | 8-Week Bill Auction |  |  | 3.635% |
 | 17:25 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 18:00 | BRL | Low | Trade Balance (Jan) |  | 4.90B | 9.63B |
 | 19:00 | MXN | Moderate | Interest Rate Decision (Jan) |  | 7.00% | 7.00% |
