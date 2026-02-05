@@ -27,9 +27,9 @@
 | 10:00 | EUR | Retail Sales (YoY) (Dec) | 1.3% | 1.6% | 2.4% |
 | 12:00 | MXN | Gross Fixed Investments (MoM) (Nov) | 0.40% | 0.50% | 0.90% |
 | 12:00 | MXN | Gross Fixed Investments (YoY) (Nov) | -6.40% | -5.60% | -5.50% |
-| 12:30 | USD | Challenger Job Cuts (YoY) |  |  | -8.3% |
-| 12:30 | USD | Challenger Job Cuts (Jan) |  |  | 35.553K |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 206.25K |
+| 12:30 | USD | Challenger Job Cuts (YoY) | 117.8% |  | -8.3% |
+| 12:30 | USD | Challenger Job Cuts (Jan) | 108.435K |  | 35.553K |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 212.25K |  | 206.25K |
 | 15:30 | USD | Natural Gas Storage |  | -379B | -242B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.630% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 3.635% |

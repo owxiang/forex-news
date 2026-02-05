@@ -36,16 +36,16 @@
 | 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Nov) | 0.40% | 0.50% | 0.90% |
 | 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Nov) | -6.40% | -5.60% | -5.50% |
 | 12:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | -8.3% |
-| 12:30 | USD | Low | Challenger Job Cuts (Jan) |  |  | 35.553K |
-| 13:15 | EUR | High | Deposit Facility Rate (Feb) |  | 2.00% | 2.00% |
-| 13:15 | EUR | Moderate | ECB Marginal Lending Facility |  |  | 2.40% |
+| 12:30 | USD | Low | Challenger Job Cuts (YoY) | 117.8% |  | -8.3% |
+| 12:30 | USD | Low | Challenger Job Cuts (Jan) | 108.435K |  | 35.553K |
+| 13:15 | EUR | High | Deposit Facility Rate (Feb) | 2.00% | 2.00% | 2.00% |
+| 13:15 | EUR | Moderate | ECB Marginal Lending Facility | 2.40% |  | 2.40% |
 | 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
-| 13:15 | EUR | High | ECB Interest Rate Decision (Feb) |  | 2.15% | 2.15% |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,850K | 1,827K |
-| 13:30 | USD | High | Initial Jobless Claims |  | 212K | 209K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 206.25K |
-| 13:45 | EUR | High | ECB Press Conference |  |  |  |
+| 13:15 | EUR | High | ECB Interest Rate Decision (Feb) | 2.15% | 2.15% | 2.15% |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,844K | 1,850K | 1,819K |
+| 13:30 | USD | High | Initial Jobless Claims | 231K | 212K | 209K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 212.25K |  | 206.25K |
+| 13 min | EUR | High | ECB Press Conference |  |  |  |
 | 15:00 | USD | High | JOLTS Job Openings (Dec) |  | 7.200M | 7.146M |
 | 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage |  | -379B | -242B |
