@@ -1,19 +1,22 @@
-## 04 February 2026 - Moderate Impact Forex News
+## 05 February 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | JPY | S&P Global Services PMI (Jan) | 53.7 | 53.4 | 51.6 |
-| 01:45 | CNY | RatingDog Services PMI (Jan) | 52.3 | 52.0 | 52.0 |
-| 08:15 | EUR | HCOB Spain Services PMI (Jan) | 53.5 | 56.6 | 57.1 |
-| 08:45 | EUR | HCOB Italy Services PMI (Jan) | 52.9 | 51.3 | 51.5 |
-| 08:50 | EUR | HCOB France Services PMI (Jan) | 48.4 | 47.9 | 50.1 |
-| 08:55 | EUR | HCOB Germany Services PMI (Jan) | 52.4 | 53.3 | 52.7 |
-| 09:00 | EUR | HCOB Eurozone Composite PMI (Jan) | 51.3 | 51.5 | 51.5 |
-| 09:00 | EUR | HCOB Eurozone Services PMI (Jan) | 51.6 | 51.9 | 52.4 |
-| 09:30 | GBP | S&P Global Composite PMI (Jan) | 53.7 | 53.9 | 51.4 |
-| 09:30 | GBP | S&P Global Services PMI (Jan) | 54.0 | 54.3 | 51.4 |
-| 10:00 | EUR | Core CPI (YoY) (Jan) | 2.2% | 2.3% | 2.3% |
-| 10:00 | EUR | CPI (MoM) (Jan) | -0.5% |  | 0.2% |
-| 14:45 | USD | S&P Global Composite PMI (Jan) | 53.0 | 52.8 | 52.7 |
-| 15:00 | USD | ISM Non-Manufacturing Employment (Jan) | 50.3 | 52.3 | 51.7 |
-| 15:30 | USD | Cushing Crude Oil Inventories | -0.743M |  | -0.278M |
+| 00:30 | AUD | Trade Balance (Dec) | 3.373B | 3.420B | 2.936B |
+| 07:00 | EUR | German Factory Orders (MoM) (Dec) |  | -1.8% | 5.6% |
+| 09:30 | GBP | S&P Global Construction PMI (Jan) |  | 42.2 | 40.1 |
+| 12:00 | GBP | BoE MPC vote cut (Feb) |  | 2 | 5 |
+| 12:00 | GBP | BoE MPC vote hike (Feb) |  | 0 | 0 |
+| 12:00 | GBP | BoE MPC vote unchanged (Feb) |  | 7 | 4 |
+| 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
+| 12:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 13:15 | EUR | ECB Marginal Lending Facility |  |  | 2.40% |
+| 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
+| 13:30 | USD | Continuing Jobless Claims |  | 1,850K | 1,827K |
+| 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 15:50 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 17:25 | CAD | BoC Gov Macklem Speaks |  |  |  |
+| 19:00 | MXN | Interest Rate Decision (Jan) |  | 7.00% | 7.00% |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 6,588B |
+| 23:30 | JPY | Household Spending (YoY) (Dec) |  | -0.5% | 2.9% |
+| 23:30 | JPY | Household Spending (MoM) (Dec) |  | -1.3% | 6.2% |
