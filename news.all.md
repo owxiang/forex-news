@@ -28,13 +28,13 @@
 | 09:50 | EUR | Low | Spanish 7-Year Obligacion Auction | 2.905% |  | 2.938% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Dec) | -0.5% | -0.2% | 0.1% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (Dec) | 1.3% | 1.6% | 2.4% |
-| 12:00 | GBP | Moderate | BoE MPC vote cut (Feb) |  | 2 | 5 |
-| 12:00 | GBP | Moderate | BoE MPC vote hike (Feb) |  | 0 | 0 |
-| 12:00 | GBP | Moderate | BoE MPC vote unchanged (Feb) |  | 7 | 4 |
-| 12:00 | GBP | High | BoE Interest Rate Decision (Feb) |  | 3.75% | 3.75% |
-| 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
-| 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Nov) |  | 0.50% | 0.90% |
-| 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Nov) |  | -5.60% | -5.50% |
+| 42 min | GBP | Moderate | BoE MPC vote cut (Feb) |  | 2 | 5 |
+| 42 min | GBP | Moderate | BoE MPC vote hike (Feb) |  | 0 | 0 |
+| 42 min | GBP | Moderate | BoE MPC vote unchanged (Feb) |  | 7 | 4 |
+| 42 min | GBP | High | BoE Interest Rate Decision (Feb) |  | 3.75% | 3.75% |
+| 42 min | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
+| 42 min | MXN | Low | Gross Fixed Investments (MoM) (Nov) |  | 0.50% | 0.90% |
+| 42 min | MXN | Low | Gross Fixed Investments (YoY) (Nov) |  | -5.60% | -5.50% |
 | 12:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | -8.3% |
 | 12:30 | USD | Low | Challenger Job Cuts (Jan) |  |  | 35.553K |

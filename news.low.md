@@ -25,8 +25,8 @@
 | 09:50 | EUR | Spanish 7-Year Obligacion Auction | 2.905% |  | 2.938% |
 | 10:00 | EUR | Retail Sales (MoM) (Dec) | -0.5% | -0.2% | 0.1% |
 | 10:00 | EUR | Retail Sales (YoY) (Dec) | 1.3% | 1.6% | 2.4% |
-| 12:00 | MXN | Gross Fixed Investments (MoM) (Nov) |  | 0.50% | 0.90% |
-| 12:00 | MXN | Gross Fixed Investments (YoY) (Nov) |  | -5.60% | -5.50% |
+| 42 min | MXN | Gross Fixed Investments (MoM) (Nov) |  | 0.50% | 0.90% |
+| 42 min | MXN | Gross Fixed Investments (YoY) (Nov) |  | -5.60% | -5.50% |
 | 12:30 | USD | Challenger Job Cuts (YoY) |  |  | -8.3% |
 | 12:30 | USD | Challenger Job Cuts (Jan) |  |  | 35.553K |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 206.25K |

@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 12:00 | GBP | BoE Interest Rate Decision (Feb) |  | 3.75% | 3.75% |
+| 42 min | GBP | BoE Interest Rate Decision (Feb) |  | 3.75% | 3.75% |
 | 13:15 | EUR | Deposit Facility Rate (Feb) |  | 2.00% | 2.00% |
 | 13:15 | EUR | ECB Interest Rate Decision (Feb) |  | 2.15% | 2.15% |
 | 13:30 | USD | Initial Jobless Claims |  | 212K | 209K |
