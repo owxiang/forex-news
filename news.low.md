@@ -11,23 +11,21 @@
 | 05:00 | SGD | Retail Sales (YoY) (Dec) | 2.7% |  | 6.2% |
 | 05:00 | SGD | Retail Sales (MoM) (Dec) | -5.4% |  | -0.2% |
 | 07:45 | EUR | French Industrial Production (MoM) (Dec) | -0.7% | 0.2% | 0.1% |
-| 10 min | EUR | HCOB Italy Construction PMI (MoM) (Jan) |  |  | 47.9 |
-| 10 min | EUR | HCOB Germany Construction PMI (Jan) |  |  | 50.3 |
-| 10 min | EUR | HCOB France Construction PMI (MoM) (Jan) |  |  | 43.4 |
-| 10 min | EUR | HCOB Eurozone Construction PMI (MoM) (Jan) |  |  | 47.4 |
-| 40 min | GBP | Car Registration (YoY) (Jan) |  |  | 3.9% |
-| 40 min | GBP | United Kingdom New Passenger Cars Registration (Jan) |  |  | 146,249.0 |
-| 40 min | EUR | Italian Retail Sales (MoM) (Dec) |  | -0.4% | 0.5% |
-| 40 min | EUR | Italian Retail Sales (YoY) (Dec) |  |  | 1.3% |
-| 40 min | CHF | Unemployment Rate n.s.a. (Jan) |  |  | 3.1% |
-| 40 min | CHF | Unemployment Rate s.a. (Jan) |  |  | 3.0% |
-| 09:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.199% |
-| 09:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 2.342% |
-| 09:40 | EUR | Spanish 7-Year Obligacion Auction |  |  | 2.938% |
-| 09:50 | EUR | French 10-Year OAT Auction |  |  | 3.53% |
-| 10:00 | EUR | Spanish Consumer Confidence (Dec) |  |  | 76.0 |
-| 10:00 | EUR | Retail Sales (MoM) (Dec) |  | -0.2% | 0.2% |
-| 10:00 | EUR | Retail Sales (YoY) (Dec) |  | 1.6% | 2.3% |
+| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Jan) | 47.7 |  | 47.9 |
+| 08:30 | EUR | HCOB Germany Construction PMI (Jan) | 44.7 |  | 50.3 |
+| 08:30 | EUR | HCOB France Construction PMI (MoM) (Jan) | 43.5 |  | 43.4 |
+| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Jan) | 45.3 |  | 47.4 |
+| 09:00 | GBP | Car Registration (YoY) (Jan) | 3.4% |  | 3.9% |
+| 09:00 | GBP | United Kingdom New Passenger Cars Registration (Jan) | 144,127.0 |  | 146,249.0 |
+| 09:00 | EUR | Italian Retail Sales (MoM) (Dec) | -0.8% | -0.4% | 0.5% |
+| 09:00 | EUR | Italian Retail Sales (YoY) (Dec) | 0.9% |  | 1.3% |
+| 18 min | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.199% |
+| 18 min | EUR | Spanish 3-Year Bonos Auction |  |  | 2.342% |
+| 18 min | EUR | Spanish 7-Year Obligacion Auction |  |  | 2.938% |
+| 28 min | EUR | French 10-Year OAT Auction |  |  | 3.53% |
+| 38 min | EUR | Spanish Consumer Confidence (Dec) |  |  | 76.0 |
+| 38 min | EUR | Retail Sales (MoM) (Dec) |  | -0.2% | 0.2% |
+| 38 min | EUR | Retail Sales (YoY) (Dec) |  | 1.6% | 2.3% |
 | 12:00 | MXN | Gross Fixed Investments (MoM) (Nov) |  | 0.50% | 0.90% |
 | 12:00 | MXN | Gross Fixed Investments (YoY) (Nov) |  | -5.60% | -5.50% |
 | 12:30 | USD | Challenger Job Cuts (YoY) |  |  | -8.3% |
