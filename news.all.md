@@ -12,17 +12,17 @@
 | 05:00 | SGD | Low | Retail Sales (YoY) (Dec) | 2.7% |  | 6.2% |
 | 05:00 | SGD | Low | Retail Sales (MoM) (Dec) | -5.4% |  | -0.2% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Dec) | 7.8% | -1.8% | 5.7% |
-| 07:45 | EUR | Low | French Industrial Production (MoM) (Dec) |  | 0.2% | -0.1% |
-| 08:00 | CHF | Low | Unemployment Rate n.s.a. (Jan) |  |  | 3.1% |
-| 08:00 | CHF | Low | Unemployment Rate s.a. (Jan) |  |  | 3.0% |
-| 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Jan) |  |  | 47.9 |
-| 08:30 | EUR | Low | HCOB Germany Construction PMI (Jan) |  |  | 50.3 |
-| 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Jan) |  |  | 43.4 |
-| 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Jan) |  |  | 47.4 |
-| 09:00 | GBP | Low | Car Registration (YoY) (Jan) |  |  | 3.9% |
-| 09:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Jan) |  |  | 146,249.0 |
-| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Dec) |  | -0.4% | 0.5% |
-| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Dec) |  |  | 1.3% |
+| 07:45 | EUR | Low | French Industrial Production (MoM) (Dec) | -0.7% | 0.2% | 0.1% |
+| 10 min | EUR | Low | HCOB Italy Construction PMI (MoM) (Jan) |  |  | 47.9 |
+| 10 min | EUR | Low | HCOB Germany Construction PMI (Jan) |  |  | 50.3 |
+| 10 min | EUR | Low | HCOB France Construction PMI (MoM) (Jan) |  |  | 43.4 |
+| 10 min | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Jan) |  |  | 47.4 |
+| 40 min | GBP | Low | Car Registration (YoY) (Jan) |  |  | 3.9% |
+| 40 min | GBP | Low | United Kingdom New Passenger Cars Registration (Jan) |  |  | 146,249.0 |
+| 40 min | EUR | Low | Italian Retail Sales (MoM) (Dec) |  | -0.4% | 0.5% |
+| 40 min | EUR | Low | Italian Retail Sales (YoY) (Dec) |  |  | 1.3% |
+| 40 min | CHF | Low | Unemployment Rate n.s.a. (Jan) |  |  | 3.1% |
+| 40 min | CHF | Low | Unemployment Rate s.a. (Jan) |  |  | 3.0% |
 | 09:30 | GBP | Moderate | S&P Global Construction PMI (Jan) |  | 42.2 | 40.1 |
 | 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.199% |
 | 09:40 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.342% |

@@ -10,17 +10,17 @@
 | 04:00 | IDR | GDP Annual | 5.11% | 5.00% | 5.03% |
 | 05:00 | SGD | Retail Sales (YoY) (Dec) | 2.7% |  | 6.2% |
 | 05:00 | SGD | Retail Sales (MoM) (Dec) | -5.4% |  | -0.2% |
-| 07:45 | EUR | French Industrial Production (MoM) (Dec) |  | 0.2% | -0.1% |
-| 08:00 | CHF | Unemployment Rate n.s.a. (Jan) |  |  | 3.1% |
-| 08:00 | CHF | Unemployment Rate s.a. (Jan) |  |  | 3.0% |
-| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Jan) |  |  | 47.9 |
-| 08:30 | EUR | HCOB Germany Construction PMI (Jan) |  |  | 50.3 |
-| 08:30 | EUR | HCOB France Construction PMI (MoM) (Jan) |  |  | 43.4 |
-| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Jan) |  |  | 47.4 |
-| 09:00 | GBP | Car Registration (YoY) (Jan) |  |  | 3.9% |
-| 09:00 | GBP | United Kingdom New Passenger Cars Registration (Jan) |  |  | 146,249.0 |
-| 09:00 | EUR | Italian Retail Sales (MoM) (Dec) |  | -0.4% | 0.5% |
-| 09:00 | EUR | Italian Retail Sales (YoY) (Dec) |  |  | 1.3% |
+| 07:45 | EUR | French Industrial Production (MoM) (Dec) | -0.7% | 0.2% | 0.1% |
+| 10 min | EUR | HCOB Italy Construction PMI (MoM) (Jan) |  |  | 47.9 |
+| 10 min | EUR | HCOB Germany Construction PMI (Jan) |  |  | 50.3 |
+| 10 min | EUR | HCOB France Construction PMI (MoM) (Jan) |  |  | 43.4 |
+| 10 min | EUR | HCOB Eurozone Construction PMI (MoM) (Jan) |  |  | 47.4 |
+| 40 min | GBP | Car Registration (YoY) (Jan) |  |  | 3.9% |
+| 40 min | GBP | United Kingdom New Passenger Cars Registration (Jan) |  |  | 146,249.0 |
+| 40 min | EUR | Italian Retail Sales (MoM) (Dec) |  | -0.4% | 0.5% |
+| 40 min | EUR | Italian Retail Sales (YoY) (Dec) |  |  | 1.3% |
+| 40 min | CHF | Unemployment Rate n.s.a. (Jan) |  |  | 3.1% |
+| 40 min | CHF | Unemployment Rate s.a. (Jan) |  |  | 3.0% |
 | 09:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.199% |
 | 09:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 2.342% |
 | 09:40 | EUR | Spanish 7-Year Obligacion Auction |  |  | 2.938% |
