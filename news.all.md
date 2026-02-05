@@ -21,14 +21,13 @@
 | 09:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Jan) | 144,127.0 |  | 146,249.0 |
 | 09:00 | EUR | Low | Italian Retail Sales (MoM) (Dec) | -0.8% | -0.4% | 0.5% |
 | 09:00 | EUR | Low | Italian Retail Sales (YoY) (Dec) | 0.9% |  | 1.3% |
-| 8 min | GBP | Moderate | S&P Global Construction PMI (Jan) |  | 42.2 | 40.1 |
-| 18 min | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.199% |
-| 18 min | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.342% |
-| 18 min | EUR | Low | Spanish 7-Year Obligacion Auction |  |  | 2.938% |
-| 28 min | EUR | Low | French 10-Year OAT Auction |  |  | 3.53% |
-| 38 min | EUR | Low | Spanish Consumer Confidence (Dec) |  |  | 76.0 |
-| 38 min | EUR | Low | Retail Sales (MoM) (Dec) |  | -0.2% | 0.2% |
-| 38 min | EUR | Low | Retail Sales (YoY) (Dec) |  | 1.6% | 2.3% |
+| 09:30 | GBP | Moderate | S&P Global Construction PMI (Jan) | 46.4 | 42.2 | 40.1 |
+| 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction | 3.223% |  | 3.199% |
+| 09:50 | EUR | Low | French 10-Year OAT Auction | 3.38% |  | 3.53% |
+| 09:50 | EUR | Low | Spanish 3-Year Bonos Auction | 2.341% |  | 2.342% |
+| 09:50 | EUR | Low | Spanish 7-Year Obligacion Auction | 2.905% |  | 2.938% |
+| 10:00 | EUR | Low | Retail Sales (MoM) (Dec) | -0.5% | -0.2% | 0.1% |
+| 10:00 | EUR | Low | Retail Sales (YoY) (Dec) | 1.3% | 1.6% | 2.4% |
 | 12:00 | GBP | Moderate | BoE MPC vote cut (Feb) |  | 2 | 5 |
 | 12:00 | GBP | Moderate | BoE MPC vote hike (Feb) |  | 0 | 0 |
 | 12:00 | GBP | Moderate | BoE MPC vote unchanged (Feb) |  | 7 | 4 |

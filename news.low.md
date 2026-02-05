@@ -19,13 +19,12 @@
 | 09:00 | GBP | United Kingdom New Passenger Cars Registration (Jan) | 144,127.0 |  | 146,249.0 |
 | 09:00 | EUR | Italian Retail Sales (MoM) (Dec) | -0.8% | -0.4% | 0.5% |
 | 09:00 | EUR | Italian Retail Sales (YoY) (Dec) | 0.9% |  | 1.3% |
-| 18 min | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.199% |
-| 18 min | EUR | Spanish 3-Year Bonos Auction |  |  | 2.342% |
-| 18 min | EUR | Spanish 7-Year Obligacion Auction |  |  | 2.938% |
-| 28 min | EUR | French 10-Year OAT Auction |  |  | 3.53% |
-| 38 min | EUR | Spanish Consumer Confidence (Dec) |  |  | 76.0 |
-| 38 min | EUR | Retail Sales (MoM) (Dec) |  | -0.2% | 0.2% |
-| 38 min | EUR | Retail Sales (YoY) (Dec) |  | 1.6% | 2.3% |
+| 09:40 | EUR | Spanish 10-Year Obligacion Auction | 3.223% |  | 3.199% |
+| 09:50 | EUR | French 10-Year OAT Auction | 3.38% |  | 3.53% |
+| 09:50 | EUR | Spanish 3-Year Bonos Auction | 2.341% |  | 2.342% |
+| 09:50 | EUR | Spanish 7-Year Obligacion Auction | 2.905% |  | 2.938% |
+| 10:00 | EUR | Retail Sales (MoM) (Dec) | -0.5% | -0.2% | 0.1% |
+| 10:00 | EUR | Retail Sales (YoY) (Dec) | 1.3% | 1.6% | 2.4% |
 | 12:00 | MXN | Gross Fixed Investments (MoM) (Nov) |  | 0.50% | 0.90% |
 | 12:00 | MXN | Gross Fixed Investments (YoY) (Nov) |  | -5.60% | -5.50% |
 | 12:30 | USD | Challenger Job Cuts (YoY) |  |  | -8.3% |

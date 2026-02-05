@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Trade Balance (Dec) | 3.373B | 3.420B | 2.597B |
 | 07:00 | EUR | German Factory Orders (MoM) (Dec) | 7.8% | -1.8% | 5.7% |
-| 8 min | GBP | S&P Global Construction PMI (Jan) |  | 42.2 | 40.1 |
+| 09:30 | GBP | S&P Global Construction PMI (Jan) | 46.4 | 42.2 | 40.1 |
 | 12:00 | GBP | BoE MPC vote cut (Feb) |  | 2 | 5 |
 | 12:00 | GBP | BoE MPC vote hike (Feb) |  | 0 | 0 |
 | 12:00 | GBP | BoE MPC vote unchanged (Feb) |  | 7 | 4 |
