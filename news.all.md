@@ -45,9 +45,9 @@
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,844K | 1,850K | 1,819K |
 | 13:30 | USD | High | Initial Jobless Claims | 231K | 212K | 209K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 212.25K |  | 206.25K |
-| 13 min | EUR | High | ECB Press Conference |  |  |  |
-| 15:00 | USD | High | JOLTS Job Openings (Dec) |  | 7.200M | 7.146M |
-| 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 13:45 | EUR | High | ECB Press Conference |  |  |  |
+| 37 min | USD | High | JOLTS Job Openings (Dec) |  | 7.200M | 7.146M |
+| 52 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage |  | -379B | -242B |
 | 15:50 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.630% |
