@@ -7,4 +7,4 @@
 | 13:15 | EUR | ECB Interest Rate Decision (Feb) | 2.15% | 2.15% | 2.15% |
 | 13:30 | USD | Initial Jobless Claims | 231K | 212K | 209K |
 | 13:45 | EUR | ECB Press Conference |  |  |  |
-| 37 min | USD | JOLTS Job Openings (Dec) |  | 7.200M | 7.146M |
+| 15:00 | USD | JOLTS Job Openings (Dec) | 6.542M | 7.200M | 6.928M |
