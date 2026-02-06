@@ -1,4 +1,4 @@
-## 06 February 2026 - All Forex News
+## None - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
@@ -33,16 +33,16 @@
 | 09:30 | GBP | Moderate | Mortgage Rate (GBP) (Jan) | 6.62% |  | 6.77% |
 | 11:00 | CAD | Low | Leading Index (MoM) (Jan) | 0.28% |  | 0.27% |
 | 11:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Jan) | 0.20% |  | 0.10% |
-| 11:30 | INR | Low | Bank Loan Growth |  |  | 13.1% |
-| 11:30 | INR | Low | Deposit Growth |  |  | 10.6% |
 | 11:30 | INR | Low | FX Reserves, USD | 723.77B |  | 709.41B |
 | 12:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 13:30 | CAD | Low | Avg hourly wages Permanent employee (Jan) |  |  | 3.7% |
-| 13:30 | CAD | Moderate | Employment Change (Jan) |  | 5.2K | 8.2K |
-| 13:30 | CAD | Low | Full Employment Change (Jan) |  |  | 50.2K |
-| 13:30 | CAD | Low | Part Time Employment Change (Jan) |  |  | -42.0K |
-| 13:30 | CAD | Low | Participation Rate (Jan) |  |  | 65.4% |
-| 13:30 | CAD | Moderate | Unemployment Rate (Jan) |  | 6.8% | 6.8% |
+| 12:00 | MXN | Low | Consumer Confidence (Jan) | 44.0 |  | 44.6 |
+| 12:00 | MXN | Low | Consumer Confidence n.s.a. (Jan) | 44.3 |  | 44.8 |
+| 13:30 | CAD | Low | Avg hourly wages Permanent employee (Jan) | 3.3% |  | 3.7% |
+| 13:30 | CAD | Moderate | Employment Change (Jan) | -24.8K | 5.2K | 8.2K |
+| 13:30 | CAD | Low | Full Employment Change (Jan) | 44.9K |  | 50.2K |
+| 13:30 | CAD | Low | Part Time Employment Change (Jan) | -69.7K |  | -42.0K |
+| 13:30 | CAD | Low | Participation Rate (Jan) | 65.0% |  | 65.4% |
+| 13:30 | CAD | Moderate | Unemployment Rate (Jan) | 6.5% | 6.8% | 6.8% |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Feb) |  |  | 4.0% |
 | 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Feb) |  |  | 3.3% |
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Feb) |  | 56.7 | 57.0 |

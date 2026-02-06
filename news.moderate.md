@@ -1,4 +1,4 @@
-## 06 February 2026 - Moderate Impact Forex News
+## None - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
@@ -9,8 +9,8 @@
 | 07:00 | EUR | German Trade Balance (Dec) | 17.1B | 14.1B | 13.6B |
 | 09:30 | GBP | Mortgage Rate (GBP) (Jan) | 6.62% |  | 6.77% |
 | 12:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 13:30 | CAD | Employment Change (Jan) |  | 5.2K | 8.2K |
-| 13:30 | CAD | Unemployment Rate (Jan) |  | 6.8% | 6.8% |
+| 13:30 | CAD | Employment Change (Jan) | -24.8K | 5.2K | 8.2K |
+| 13:30 | CAD | Unemployment Rate (Jan) | 6.5% | 6.8% | 6.8% |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Feb) |  |  | 4.0% |
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Feb) |  |  | 3.3% |
 | 15:00 | USD | Michigan Consumer Expectations (Feb) |  | 56.7 | 57.0 |

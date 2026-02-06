@@ -1,4 +1,4 @@
-## 06 February 2026 - Low Impact Forex News
+## None - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
@@ -26,13 +26,13 @@
 | 08:30 | HKD | Foreign Reserves (USD) (Jan) | 435.60B |  | 427.90B |
 | 11:00 | CAD | Leading Index (MoM) (Jan) | 0.28% |  | 0.27% |
 | 11:00 | BRL | IGP-DI Inflation Index (MoM) (Jan) | 0.20% |  | 0.10% |
-| 11:30 | INR | Bank Loan Growth |  |  | 13.1% |
-| 11:30 | INR | Deposit Growth |  |  | 10.6% |
 | 11:30 | INR | FX Reserves, USD | 723.77B |  | 709.41B |
-| 13:30 | CAD | Avg hourly wages Permanent employee (Jan) |  |  | 3.7% |
-| 13:30 | CAD | Full Employment Change (Jan) |  |  | 50.2K |
-| 13:30 | CAD | Part Time Employment Change (Jan) |  |  | -42.0K |
-| 13:30 | CAD | Participation Rate (Jan) |  |  | 65.4% |
+| 12:00 | MXN | Consumer Confidence (Jan) | 44.0 |  | 44.6 |
+| 12:00 | MXN | Consumer Confidence n.s.a. (Jan) | 44.3 |  | 44.8 |
+| 13:30 | CAD | Avg hourly wages Permanent employee (Jan) | 3.3% |  | 3.7% |
+| 13:30 | CAD | Full Employment Change (Jan) | 44.9K |  | 50.2K |
+| 13:30 | CAD | Part Time Employment Change (Jan) | -69.7K |  | -42.0K |
+| 13:30 | CAD | Participation Rate (Jan) | 65.0% |  | 65.4% |
 | 15:00 | USD | Michigan Current Conditions (Feb) |  | 54.9 | 55.4 |
 | 15:00 | CAD | Ivey PMI n.s.a (Jan) |  |  | 43.3 |
 | 17:00 | USD | Fed Governor Jefferson Speaks |  |  |  |
