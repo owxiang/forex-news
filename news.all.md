@@ -52,9 +52,9 @@
 | 15:00 | USD | Low | Michigan Current Conditions (Feb) | 58.3 | 54.9 | 55.4 |
 | 15:00 | CAD | Low | Ivey PMI n.s.a (Jan) | 47.0 |  | 43.3 |
 | 15:00 | CAD | Moderate | Ivey PMI (Jan) | 50.9 | 49.7 | 51.9 |
-| 41 min | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 411 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 546 |
+| 17:00 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
+| 40 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 411 |
+| 40 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 546 |
 | 20:00 | USD | Moderate | Consumer Credit (Dec) |  | 9.00B | 4.23B |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -16.2K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -3.6K |
