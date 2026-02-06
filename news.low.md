@@ -10,19 +10,19 @@
 | 05:00 | JPY | Leading Index (MoM) (Jan) | 0.3% |  | 0.1% |
 | 06:00 | ZAR | Foreign Reserves (USD) (Jan) | 80.19B |  | 75.89B |
 | 06:00 | ZAR | Net FX Reserves (USD) (Jan) | 74.877B |  | 71.144B |
-| 07:00 | EUR | German Exports (MoM) (Dec) |  | 1.0% | -2.5% |
-| 07:00 | EUR | German Imports (MoM) (Dec) |  | 0.2% | 0.8% |
-| 07:00 | EUR | German Industrial Production (YoY) (Dec) |  |  | 0.76% |
-| 07:00 | NOK | Manufacturing Production (MoM) (Dec) |  |  | 2.4% |
-| 07:45 | EUR | French Current Account (Dec) |  |  | -0.80B |
-| 07:45 | EUR | French Exports (Dec) |  |  | 52.2B |
-| 07:45 | EUR | French Imports (Dec) |  |  | 56.4B |
-| 07:45 | EUR | French Reserve Assets Total (Jan) |  |  | 362,743.0M |
-| 07:45 | EUR | French Trade Balance (Dec) |  | -3.8B | -4.2B |
-| 08:00 | CHF | Foreign Reserves (USD) (Jan) |  |  | 725,377.0B |
-| 08:00 | CHF | Unemployment Rate n.s.a. (Jan) |  |  | 3.1% |
-| 08:00 | CHF | Unemployment Rate s.a. (Jan) |  | 3.0% | 3.0% |
-| 08:00 | EUR | Spanish Industrial Production (YoY) (Dec) |  |  | 4.5% |
+| 07:00 | EUR | German Exports (MoM) (Dec) | 4.0% | 1.0% | -2.5% |
+| 07:00 | EUR | German Imports (MoM) (Dec) | 1.4% | 0.2% | 0.7% |
+| 07:00 | EUR | German Industrial Production (YoY) (Dec) | -0.55% |  | 0.43% |
+| 07:00 | NOK | Manufacturing Production (MoM) (Dec) | -0.1% |  | 2.0% |
+| 22 min | EUR | French Current Account (Dec) |  |  | -0.80B |
+| 22 min | EUR | French Exports (Dec) |  |  | 52.2B |
+| 22 min | EUR | French Imports (Dec) |  |  | 56.4B |
+| 22 min | EUR | French Reserve Assets Total (Jan) |  |  | 362,743.0M |
+| 22 min | EUR | French Trade Balance (Dec) |  | -3.8B | -4.2B |
+| 37 min | CHF | Foreign Reserves (USD) (Jan) |  |  | 725,377.0B |
+| 37 min | CHF | Unemployment Rate n.s.a. (Jan) |  |  | 3.1% |
+| 37 min | CHF | Unemployment Rate s.a. (Jan) |  | 3.0% | 3.0% |
+| 37 min | EUR | Spanish Industrial Production (YoY) (Dec) |  |  | 4.5% |
 | 08:30 | HKD | Foreign Reserves (USD) (Jan) |  |  | 427.90B |
 | 11:00 | CAD | Leading Index (MoM) (Jan) |  |  | 0.26% |
 | 11:00 | EUR | German Car Registration (YoY) (Jan) |  |  | 9.7% |

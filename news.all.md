@@ -12,23 +12,23 @@
 | 05:00 | JPY | Low | Leading Index (MoM) (Jan) | 0.3% |  | 0.1% |
 | 06:00 | ZAR | Low | Foreign Reserves (USD) (Jan) | 80.19B |  | 75.89B |
 | 06:00 | ZAR | Low | Net FX Reserves (USD) (Jan) | 74.877B |  | 71.144B |
-| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Jan) |  | 0.1% | -0.6% |
-| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Jan) |  |  | 0.3% |
-| 07:00 | EUR | Low | German Exports (MoM) (Dec) |  | 1.0% | -2.5% |
-| 07:00 | EUR | Low | German Imports (MoM) (Dec) |  | 0.2% | 0.8% |
-| 07:00 | EUR | Moderate | German Industrial Production (MoM) (Dec) |  | -0.2% | 0.8% |
-| 07:00 | EUR | Moderate | German Trade Balance (Dec) |  | 14.1B | 13.1B |
-| 07:00 | EUR | Low | German Industrial Production (YoY) (Dec) |  |  | 0.76% |
-| 07:00 | NOK | Low | Manufacturing Production (MoM) (Dec) |  |  | 2.4% |
-| 07:45 | EUR | Low | French Current Account (Dec) |  |  | -0.80B |
-| 07:45 | EUR | Low | French Exports (Dec) |  |  | 52.2B |
-| 07:45 | EUR | Low | French Imports (Dec) |  |  | 56.4B |
-| 07:45 | EUR | Low | French Reserve Assets Total (Jan) |  |  | 362,743.0M |
-| 07:45 | EUR | Low | French Trade Balance (Dec) |  | -3.8B | -4.2B |
-| 08:00 | CHF | Low | Foreign Reserves (USD) (Jan) |  |  | 725,377.0B |
-| 08:00 | CHF | Low | Unemployment Rate n.s.a. (Jan) |  |  | 3.1% |
-| 08:00 | CHF | Low | Unemployment Rate s.a. (Jan) |  | 3.0% | 3.0% |
-| 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Dec) |  |  | 4.5% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Jan) | 0.7% | 0.1% | -0.5% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Jan) | 1.0% |  | 0.4% |
+| 07:00 | EUR | Low | German Exports (MoM) (Dec) | 4.0% | 1.0% | -2.5% |
+| 07:00 | EUR | Low | German Imports (MoM) (Dec) | 1.4% | 0.2% | 0.7% |
+| 07:00 | EUR | Moderate | German Industrial Production (MoM) (Dec) | -1.9% | -0.2% | 0.2% |
+| 07:00 | EUR | Moderate | German Trade Balance (Dec) | 17.1B | 14.1B | 13.6B |
+| 07:00 | EUR | Low | German Industrial Production (YoY) (Dec) | -0.55% |  | 0.43% |
+| 07:00 | NOK | Low | Manufacturing Production (MoM) (Dec) | -0.1% |  | 2.0% |
+| 22 min | EUR | Low | French Current Account (Dec) |  |  | -0.80B |
+| 22 min | EUR | Low | French Exports (Dec) |  |  | 52.2B |
+| 22 min | EUR | Low | French Imports (Dec) |  |  | 56.4B |
+| 22 min | EUR | Low | French Reserve Assets Total (Jan) |  |  | 362,743.0M |
+| 22 min | EUR | Low | French Trade Balance (Dec) |  | -3.8B | -4.2B |
+| 37 min | CHF | Low | Foreign Reserves (USD) (Jan) |  |  | 725,377.0B |
+| 37 min | CHF | Low | Unemployment Rate n.s.a. (Jan) |  |  | 3.1% |
+| 37 min | CHF | Low | Unemployment Rate s.a. (Jan) |  | 3.0% | 3.0% |
+| 37 min | EUR | Low | Spanish Industrial Production (YoY) (Dec) |  |  | 4.5% |
 | 08:30 | HKD | Low | Foreign Reserves (USD) (Jan) |  |  | 427.90B |
 | 10:00 | GBP | Moderate | Mortgage Rate (GBP) (Jan) |  |  | 6.77% |
 | 11:00 | CAD | Low | Leading Index (MoM) (Jan) |  |  | 0.26% |
