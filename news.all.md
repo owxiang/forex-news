@@ -5,11 +5,11 @@
 | 00:00 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 03:00 | IDR | Low | FX Reserves (USD) (Jan) | 154.60B |  | 156.50B |
 | 04:30 | INR | Low | Cash Reserve Ratio |  | 3.00% | 3.00% |
-| 04:30 | INR | Moderate | Interest Rate Decision |  | 5.25% | 5.25% |
+| 04:30 | INR | Moderate | Interest Rate Decision | 5.25% | 5.25% | 5.25% |
 | 04:30 | INR | Low | Reverse REPO Rate |  |  | 3.35% |
-| 05:00 | JPY | Low | Coincident Indicator (MoM) (Dec) |  |  | -1.0% |
-| 05:00 | JPY | Low | Leading Index (Dec) |  | 109.8 | 109.9 |
-| 05:00 | JPY | Low | Leading Index (MoM) (Dec) |  |  | 0.1% |
+| 21 min | JPY | Low | Coincident Indicator (MoM) (Dec) |  |  | -1.0% |
+| 21 min | JPY | Low | Leading Index (Dec) |  | 109.8 | 109.9 |
+| 21 min | JPY | Low | Leading Index (MoM) (Dec) |  |  | 0.1% |
 | 06:00 | ZAR | Low | Foreign Reserves (USD) (Jan) |  |  | 75.89B |
 | 06:00 | ZAR | Low | Net FX Reserves (USD) (Jan) |  |  | 71.144B |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Jan) |  | 0.1% | -0.6% |
