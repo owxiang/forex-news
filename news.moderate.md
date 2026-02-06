@@ -11,11 +11,11 @@
 | 12:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 13:30 | CAD | Employment Change (Jan) | -24.8K | 5.2K | 10.1K |
 | 13:30 | CAD | Unemployment Rate (Jan) | 6.5% | 6.8% | 6.8% |
-| 39 min | USD | Michigan 1-Year Inflation Expectations (Feb) |  |  | 4.0% |
-| 39 min | USD | Michigan 5-Year Inflation Expectations (Feb) |  |  | 3.3% |
-| 39 min | USD | Michigan Consumer Expectations (Feb) |  | 56.7 | 57.0 |
-| 39 min | USD | Michigan Consumer Sentiment (Feb) |  | 55.0 | 56.4 |
-| 39 min | CAD | Ivey PMI (Jan) |  | 49.7 | 51.9 |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (Feb) | 3.5% |  | 4.0% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (Feb) | 3.4% |  | 3.3% |
+| 15:00 | USD | Michigan Consumer Expectations (Feb) | 56.6 | 56.7 | 57.0 |
+| 15:00 | USD | Michigan Consumer Sentiment (Feb) | 57.3 | 55.0 | 56.4 |
+| 15:00 | CAD | Ivey PMI (Jan) | 50.9 | 49.7 | 51.9 |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 411 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 546 |
 | 20:00 | USD | Consumer Credit (Dec) |  | 9.00B | 4.23B |

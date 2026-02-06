@@ -45,13 +45,13 @@
 | 13:30 | CAD | Low | Part Time Employment Change (Jan) | -69.7K |  | -41.3K |
 | 13:30 | CAD | Low | Participation Rate (Jan) | 65.0% |  | 65.4% |
 | 13:30 | CAD | Moderate | Unemployment Rate (Jan) | 6.5% | 6.8% | 6.8% |
-| 39 min | USD | Moderate | Michigan 1-Year Inflation Expectations (Feb) |  |  | 4.0% |
-| 39 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Feb) |  |  | 3.3% |
-| 39 min | USD | Moderate | Michigan Consumer Expectations (Feb) |  | 56.7 | 57.0 |
-| 39 min | USD | Moderate | Michigan Consumer Sentiment (Feb) |  | 55.0 | 56.4 |
-| 39 min | USD | Low | Michigan Current Conditions (Feb) |  | 54.9 | 55.4 |
-| 39 min | CAD | Low | Ivey PMI n.s.a (Jan) |  |  | 43.3 |
-| 39 min | CAD | Moderate | Ivey PMI (Jan) |  | 49.7 | 51.9 |
+| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Feb) | 3.5% |  | 4.0% |
+| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Feb) | 3.4% |  | 3.3% |
+| 15:00 | USD | Moderate | Michigan Consumer Expectations (Feb) | 56.6 | 56.7 | 57.0 |
+| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Feb) | 57.3 | 55.0 | 56.4 |
+| 15:00 | USD | Low | Michigan Current Conditions (Feb) | 58.3 | 54.9 | 55.4 |
+| 15:00 | CAD | Low | Ivey PMI n.s.a (Jan) | 47.0 |  | 43.3 |
+| 15:00 | CAD | Moderate | Ivey PMI (Jan) | 50.9 | 49.7 | 51.9 |
 | 17:00 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 411 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 546 |

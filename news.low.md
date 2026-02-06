@@ -35,8 +35,8 @@
 | 13:30 | CAD | Full Employment Change (Jan) | 44.9K |  | 50.2K |
 | 13:30 | CAD | Part Time Employment Change (Jan) | -69.7K |  | -41.3K |
 | 13:30 | CAD | Participation Rate (Jan) | 65.0% |  | 65.4% |
-| 39 min | USD | Michigan Current Conditions (Feb) |  | 54.9 | 55.4 |
-| 39 min | CAD | Ivey PMI n.s.a (Jan) |  |  | 43.3 |
+| 15:00 | USD | Michigan Current Conditions (Feb) | 58.3 | 54.9 | 55.4 |
+| 15:00 | CAD | Ivey PMI n.s.a (Jan) | 47.0 |  | 43.3 |
 | 17:00 | USD | Fed Governor Jefferson Speaks |  |  |  |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -3.6K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 48.4K |
