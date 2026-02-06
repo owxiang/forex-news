@@ -37,7 +37,7 @@
 | 13:30 | CAD | Participation Rate (Jan) | 65.0% |  | 65.4% |
 | 15:00 | USD | Michigan Current Conditions (Feb) | 58.3 | 54.9 | 55.4 |
 | 15:00 | CAD | Ivey PMI n.s.a (Jan) | 47.0 |  | 43.3 |
-| 17:00 | USD | Fed Governor Jefferson Speaks |  |  |  |
+| 41 min | USD | Fed Governor Jefferson Speaks |  |  |  |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -3.6K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 48.4K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -31.7K |
