@@ -8,8 +8,8 @@
 | 05:00 | JPY | Coincident Indicator (MoM) (Dec) | -0.4% |  | -1.0% |
 | 05:00 | JPY | Leading Index (Dec) | 110.2 | 109.8 | 109.9 |
 | 05:00 | JPY | Leading Index (MoM) (Jan) | 0.3% |  | 0.1% |
-| 06:00 | ZAR | Foreign Reserves (USD) (Jan) |  |  | 75.89B |
-| 06:00 | ZAR | Net FX Reserves (USD) (Jan) |  |  | 71.144B |
+| 06:00 | ZAR | Foreign Reserves (USD) (Jan) | 80.19B |  | 75.89B |
+| 06:00 | ZAR | Net FX Reserves (USD) (Jan) | 74.877B |  | 71.144B |
 | 07:00 | EUR | German Exports (MoM) (Dec) |  | 1.0% | -2.5% |
 | 07:00 | EUR | German Imports (MoM) (Dec) |  | 0.2% | 0.8% |
 | 07:00 | EUR | German Industrial Production (YoY) (Dec) |  |  | 0.76% |
