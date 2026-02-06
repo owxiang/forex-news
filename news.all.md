@@ -55,7 +55,7 @@
 | 17:00 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 412 |  | 411 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 551 |  | 546 |
-| 20:00 | USD | Moderate | Consumer Credit (Dec) |  | 9.00B | 4.23B |
+| 40 min | USD | Moderate | Consumer Credit (Dec) |  | 9.00B | 4.23B |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -16.2K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -3.6K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 48.4K |

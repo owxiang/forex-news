@@ -18,7 +18,7 @@
 | 15:00 | CAD | Ivey PMI (Jan) | 50.9 | 49.7 | 51.9 |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 412 |  | 411 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count | 551 |  | 546 |
-| 20:00 | USD | Consumer Credit (Dec) |  | 9.00B | 4.23B |
+| 40 min | USD | Consumer Credit (Dec) |  | 9.00B | 4.23B |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -16.2K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 97.0K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 205.4K |
