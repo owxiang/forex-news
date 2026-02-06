@@ -1,40 +1,50 @@
-## 05 February 2026 - Low Impact Forex News
+## None - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Exports (MoM) (Dec) | 1.0% |  | -4.0% |
-| 00:30 | AUD | Imports (MoM) (Dec) | -0.8% |  | -0.2% |
-| 03:35 | JPY | 30-Year JGB Auction | 3.615% |  | 3.447% |
-| 04:00 | IDR | GDP (YoY) (Q4) | 5.39% | 5.01% | 5.04% |
-| 04:00 | IDR | GDP (QoQ) (Q4) | 0.86% | 0.68% | 1.42% |
-| 04:00 | IDR | GDP Annual | 5.11% | 5.00% | 5.03% |
-| 05:00 | SGD | Retail Sales (YoY) (Dec) | 2.7% |  | 6.2% |
-| 05:00 | SGD | Retail Sales (MoM) (Dec) | -5.4% |  | -0.2% |
-| 07:45 | EUR | French Industrial Production (MoM) (Dec) | -0.7% | 0.2% | 0.1% |
-| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Jan) | 47.7 |  | 47.9 |
-| 08:30 | EUR | HCOB Germany Construction PMI (Jan) | 44.7 |  | 50.3 |
-| 08:30 | EUR | HCOB France Construction PMI (MoM) (Jan) | 43.5 |  | 43.4 |
-| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Jan) | 45.3 |  | 47.4 |
-| 09:00 | GBP | Car Registration (YoY) (Jan) | 3.4% |  | 3.9% |
-| 09:00 | GBP | United Kingdom New Passenger Cars Registration (Jan) | 144,127.0 |  | 146,249.0 |
-| 09:00 | EUR | Italian Retail Sales (MoM) (Dec) | -0.8% | -0.4% | 0.5% |
-| 09:00 | EUR | Italian Retail Sales (YoY) (Dec) | 0.9% |  | 1.3% |
-| 09:40 | EUR | Spanish 10-Year Obligacion Auction | 3.223% |  | 3.199% |
-| 09:50 | EUR | French 10-Year OAT Auction | 3.38% |  | 3.53% |
-| 09:50 | EUR | Spanish 3-Year Bonos Auction | 2.341% |  | 2.342% |
-| 09:50 | EUR | Spanish 7-Year Obligacion Auction | 2.905% |  | 2.938% |
-| 10:00 | EUR | Retail Sales (MoM) (Dec) | -0.5% | -0.2% | 0.1% |
-| 10:00 | EUR | Retail Sales (YoY) (Dec) | 1.3% | 1.6% | 2.4% |
-| 12:00 | MXN | Gross Fixed Investments (MoM) (Nov) | 0.40% | 0.50% | 0.90% |
-| 12:00 | MXN | Gross Fixed Investments (YoY) (Nov) | -6.40% | -5.60% | -5.50% |
-| 12:30 | USD | Challenger Job Cuts (YoY) | 117.8% |  | -8.3% |
-| 12:30 | USD | Challenger Job Cuts (Jan) | 108.435K |  | 35.553K |
-| 13:30 | USD | Jobless Claims 4-Week Avg. | 212.25K |  | 206.25K |
-| 15:30 | USD | Natural Gas Storage | -360B | -379B | -242B |
-| 16:30 | USD | 4-Week Bill Auction | 3.630% |  | 3.630% |
-| 16:30 | USD | 8-Week Bill Auction | 3.630% |  | 3.635% |
-| 18:00 | BRL | Trade Balance (Jan) | 4.34B | 4.90B | 9.63B |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 2.937T |  | 2.883T |
-| 22:30 | AUD | RBA Gov Bullock Speaks |  |  |  |
-| 23:00 | KRW | Current Account (Dec) | 18.70B |  | 12.90B |
-| 41 min | JPY | Foreign Reserves (USD) (Jan) |  |  | 1,369.8B |
+| 03:00 | JPY | Leading Index (Dec) |  | 109.8 | 109.9 |
+| 03:00 | IDR | FX Reserves (USD) (Jan) |  |  | 156.50B |
+| 04:30 | INR | Cash Reserve Ratio |  | 3.00% | 3.00% |
+| 04:30 | INR | Reverse REPO Rate |  |  | 3.35% |
+| 05:00 | JPY | Coincident Indicator (MoM) (Dec) |  |  | -1.0% |
+| 05:00 | JPY | Leading Index (MoM) (Dec) |  |  | 0.1% |
+| 06:00 | ZAR | Foreign Reserves (USD) (Jan) |  |  | 75.89B |
+| 06:00 | ZAR | Net FX Reserves (USD) (Jan) |  |  | 71.144B |
+| 07:00 | EUR | German Exports (MoM) (Dec) |  | 1.0% | -2.5% |
+| 07:00 | EUR | German Imports (MoM) (Dec) |  | 0.2% | 0.8% |
+| 07:00 | EUR | German Industrial Production (YoY) (Dec) |  |  | 0.76% |
+| 07:00 | NOK | Manufacturing Production (MoM) (Dec) |  |  | 2.4% |
+| 07:45 | EUR | French Current Account (Dec) |  |  | -0.80B |
+| 07:45 | EUR | French Exports (Dec) |  |  | 52.2B |
+| 07:45 | EUR | French Imports (Dec) |  |  | 56.4B |
+| 07:45 | EUR | French Reserve Assets Total (Jan) |  |  | 362,743.0M |
+| 07:45 | EUR | French Trade Balance (Dec) |  | -3.8B | -4.2B |
+| 08:00 | CHF | Foreign Reserves (USD) (Jan) |  |  | 725,377.0B |
+| 08:00 | CHF | Unemployment Rate n.s.a. (Jan) |  |  | 3.1% |
+| 08:00 | CHF | Unemployment Rate s.a. (Jan) |  | 3.0% | 3.0% |
+| 08:00 | EUR | Spanish Industrial Production (YoY) (Dec) |  |  | 4.5% |
+| 08:30 | HKD | Foreign Reserves (USD) (Jan) |  |  | 427.90B |
+| 11:00 | CAD | Leading Index (MoM) (Jan) |  |  | 0.26% |
+| 11:00 | EUR | German Car Registration (YoY) (Jan) |  |  | 9.7% |
+| 11:00 | BRL | IGP-DI Inflation Index (MoM) (Jan) |  |  | 0.10% |
+| 11:30 | INR | Bank Loan Growth |  |  | 13.1% |
+| 11:30 | INR | Deposit Growth |  |  | 10.6% |
+| 11:30 | INR | FX Reserves, USD |  |  | 709.41B |
+| 13:30 | CAD | Avg hourly wages Permanent employee (Jan) |  |  | 3.7% |
+| 13:30 | CAD | Full Employment Change (Jan) |  |  | 50.2K |
+| 13:30 | CAD | Part Time Employment Change (Jan) |  |  | -42.0K |
+| 13:30 | CAD | Participation Rate (Jan) |  |  | 65.4% |
+| 15:00 | USD | Michigan Current Conditions (Feb) |  | 54.9 | 55.4 |
+| 15:00 | CAD | Ivey PMI n.s.a (Jan) |  |  | 43.3 |
+| 17:00 | USD | Fed Governor Jefferson Speaks |  |  |  |
+| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -3.6K |
+| 20:30 | USD | CFTC Copper speculative net positions |  |  | 48.4K |
+| 20:30 | USD | CFTC Corn speculative net positions |  |  | -31.7K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -163.6K |
+| 20:30 | USD | CFTC Silver speculative net positions |  |  | 23.7K |
+| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 57.4K |
+| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -79.4K |
+| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -16.0K |
+| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 103.1K |
+| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -42.9K |
+| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -47.7K |

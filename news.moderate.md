@@ -1,22 +1,30 @@
-## 05 February 2026 - Moderate Impact Forex News
+## None - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Trade Balance (Dec) | 3.373B | 3.420B | 2.597B |
-| 07:00 | EUR | German Factory Orders (MoM) (Dec) | 7.8% | -1.8% | 5.7% |
-| 09:30 | GBP | S&P Global Construction PMI (Jan) | 46.4 | 42.2 | 40.1 |
-| 12:00 | GBP | BoE MPC vote cut (Feb) | 4 | 2 | 5 |
-| 12:00 | GBP | BoE MPC vote hike (Feb) | 0 | 0 | 0 |
-| 12:00 | GBP | BoE MPC vote unchanged (Feb) | 5 | 7 | 4 |
-| 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
-| 12:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 13:15 | EUR | ECB Marginal Lending Facility | 2.40% |  | 2.40% |
-| 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims | 1,844K | 1,850K | 1,819K |
-| 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 15:50 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 17:25 | CAD | BoC Gov Macklem Speaks |  |  |  |
-| 19:00 | MXN | Interest Rate Decision (Jan) | 7.00% | 7.00% | 7.00% |
-| 21:30 | USD | Fed's Balance Sheet | 6,606B |  | 6,588B |
-| 21 min | JPY | Household Spending (YoY) (Dec) |  | -0.5% | 2.9% |
-| 21 min | JPY | Household Spending (MoM) (Dec) |  | -1.3% | 6.2% |
+| 04:30 | INR | Interest Rate Decision |  | 5.25% | 5.25% |
+| 07:00 | GBP | Halifax House Price Index (MoM) (Jan) |  | 0.1% | -0.6% |
+| 07:00 | GBP | Halifax House Price Index (YoY) (Jan) |  |  | 0.3% |
+| 07:00 | EUR | German Industrial Production (MoM) (Dec) |  | -0.2% | 0.8% |
+| 07:00 | EUR | German Trade Balance (Dec) |  | 14.1B | 13.1B |
+| 10:00 | GBP | Mortgage Rate (GBP) (Jan) |  |  | 6.77% |
+| 12:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 13:30 | CAD | Employment Change (Jan) |  | 5.2K | 8.2K |
+| 13:30 | CAD | Unemployment Rate (Jan) |  | 6.8% | 6.8% |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (Feb) |  |  | 4.0% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (Feb) |  |  | 3.3% |
+| 15:00 | USD | Michigan Consumer Expectations (Feb) |  | 56.7 | 57.0 |
+| 15:00 | USD | Michigan Consumer Sentiment (Feb) |  | 55.0 | 56.4 |
+| 15:00 | CAD | Ivey PMI (Jan) |  | 49.7 | 51.9 |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 411 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 546 |
+| 20:00 | USD | Consumer Credit (Dec) |  | 9.00B | 4.23B |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | -16.2K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 97.0K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 205.4K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 28.2K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -99.8K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | 7.1K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 18.8K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | -33.9K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 132.1K |
