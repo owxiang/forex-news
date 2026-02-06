@@ -7,7 +7,7 @@
 | 07:00 | GBP | Halifax House Price Index (YoY) (Jan) | 1.0% |  | 0.4% |
 | 07:00 | EUR | German Industrial Production (MoM) (Dec) | -1.9% | -0.2% | 0.2% |
 | 07:00 | EUR | German Trade Balance (Dec) | 17.1B | 14.1B | 13.6B |
-| 39 min | GBP | Mortgage Rate (GBP) (Jan) |  |  | 6.77% |
+| 09:30 | GBP | Mortgage Rate (GBP) (Jan) | 6.62% |  | 6.77% |
 | 12:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 13:30 | CAD | Employment Change (Jan) |  | 5.2K | 8.2K |
 | 13:30 | CAD | Unemployment Rate (Jan) |  | 6.8% | 6.8% |
