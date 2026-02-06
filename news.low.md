@@ -1,12 +1,12 @@
-## None - Low Impact Forex News
+## 06 February 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:00 | JPY | Leading Index (Dec) |  | 109.8 | 109.9 |
-| 03:00 | IDR | FX Reserves (USD) (Jan) |  |  | 156.50B |
+| 03:00 | IDR | FX Reserves (USD) (Jan) | 154.60B |  | 156.50B |
 | 04:30 | INR | Cash Reserve Ratio |  | 3.00% | 3.00% |
 | 04:30 | INR | Reverse REPO Rate |  |  | 3.35% |
 | 05:00 | JPY | Coincident Indicator (MoM) (Dec) |  |  | -1.0% |
+| 05:00 | JPY | Leading Index (Dec) |  | 109.8 | 109.9 |
 | 05:00 | JPY | Leading Index (MoM) (Dec) |  |  | 0.1% |
 | 06:00 | ZAR | Foreign Reserves (USD) (Jan) |  |  | 75.89B |
 | 06:00 | ZAR | Net FX Reserves (USD) (Jan) |  |  | 71.144B |
