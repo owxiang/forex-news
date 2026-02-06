@@ -24,10 +24,11 @@
 | 08:00 | CHF | Unemployment Rate s.a. (Jan) | 2.9% | 3.0% | 3.0% |
 | 08:00 | EUR | Spanish Industrial Production (YoY) (Dec) | -0.3% |  | 4.6% |
 | 08:30 | HKD | Foreign Reserves (USD) (Jan) | 435.60B |  | 427.90B |
+| 11:00 | CAD | Leading Index (MoM) (Jan) | 0.28% |  | 0.27% |
 | 11:00 | BRL | IGP-DI Inflation Index (MoM) (Jan) | 0.20% |  | 0.10% |
 | 11:30 | INR | Bank Loan Growth |  |  | 13.1% |
 | 11:30 | INR | Deposit Growth |  |  | 10.6% |
-| 11:30 | INR | FX Reserves, USD |  |  | 709.41B |
+| 11:30 | INR | FX Reserves, USD | 723.77B |  | 709.41B |
 | 13:30 | CAD | Avg hourly wages Permanent employee (Jan) |  |  | 3.7% |
 | 13:30 | CAD | Full Employment Change (Jan) |  |  | 50.2K |
 | 13:30 | CAD | Part Time Employment Change (Jan) |  |  | -42.0K |

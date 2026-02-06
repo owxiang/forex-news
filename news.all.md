@@ -31,10 +31,11 @@
 | 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Dec) | -0.3% |  | 4.6% |
 | 08:30 | HKD | Low | Foreign Reserves (USD) (Jan) | 435.60B |  | 427.90B |
 | 09:30 | GBP | Moderate | Mortgage Rate (GBP) (Jan) | 6.62% |  | 6.77% |
+| 11:00 | CAD | Low | Leading Index (MoM) (Jan) | 0.28% |  | 0.27% |
 | 11:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Jan) | 0.20% |  | 0.10% |
 | 11:30 | INR | Low | Bank Loan Growth |  |  | 13.1% |
 | 11:30 | INR | Low | Deposit Growth |  |  | 10.6% |
-| 11:30 | INR | Low | FX Reserves, USD |  |  | 709.41B |
+| 11:30 | INR | Low | FX Reserves, USD | 723.77B |  | 709.41B |
 | 12:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 13:30 | CAD | Low | Avg hourly wages Permanent employee (Jan) |  |  | 3.7% |
 | 13:30 | CAD | Moderate | Employment Change (Jan) |  | 5.2K | 8.2K |
