@@ -29,8 +29,8 @@
 | 08:00 | CHF | Low | Unemployment Rate n.s.a. (Jan) | 3.2% |  | 3.1% |
 | 08:00 | CHF | Low | Unemployment Rate s.a. (Jan) | 2.9% | 3.0% | 3.0% |
 | 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Dec) | -0.3% |  | 4.6% |
-| 08:30 | HKD | Low | Foreign Reserves (USD) (Jan) |  |  | 427.90B |
-| 10:00 | GBP | Moderate | Mortgage Rate (GBP) (Jan) |  |  | 6.77% |
+| 08:30 | HKD | Low | Foreign Reserves (USD) (Jan) | 435.60B |  | 427.90B |
+| 39 min | GBP | Moderate | Mortgage Rate (GBP) (Jan) |  |  | 6.77% |
 | 11:00 | CAD | Low | Leading Index (MoM) (Jan) |  |  | 0.26% |
 | 11:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Jan) |  |  | 0.10% |
 | 11:30 | INR | Low | Bank Loan Growth |  |  | 13.1% |
