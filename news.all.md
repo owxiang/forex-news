@@ -1,4 +1,4 @@
-## None - All Forex News
+## 06 February 2026 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
@@ -37,19 +37,21 @@
 | 12:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 12:00 | MXN | Low | Consumer Confidence (Jan) | 44.0 |  | 44.6 |
 | 12:00 | MXN | Low | Consumer Confidence n.s.a. (Jan) | 44.3 |  | 44.8 |
+| 13:00 | BRL | Low | Auto Production (MoM) (Jan) | -13.5% |  | -15.8% |
+| 13:00 | BRL | Low | Auto Sales (MoM) (Jan) | -39.0% |  | 17.1% |
 | 13:30 | CAD | Low | Avg hourly wages Permanent employee (Jan) | 3.3% |  | 3.7% |
-| 13:30 | CAD | Moderate | Employment Change (Jan) | -24.8K | 5.2K | 8.2K |
+| 13:30 | CAD | Moderate | Employment Change (Jan) | -24.8K | 5.2K | 10.1K |
 | 13:30 | CAD | Low | Full Employment Change (Jan) | 44.9K |  | 50.2K |
-| 13:30 | CAD | Low | Part Time Employment Change (Jan) | -69.7K |  | -42.0K |
+| 13:30 | CAD | Low | Part Time Employment Change (Jan) | -69.7K |  | -41.3K |
 | 13:30 | CAD | Low | Participation Rate (Jan) | 65.0% |  | 65.4% |
 | 13:30 | CAD | Moderate | Unemployment Rate (Jan) | 6.5% | 6.8% | 6.8% |
-| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Feb) |  |  | 4.0% |
-| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Feb) |  |  | 3.3% |
-| 15:00 | USD | Moderate | Michigan Consumer Expectations (Feb) |  | 56.7 | 57.0 |
-| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Feb) |  | 55.0 | 56.4 |
-| 15:00 | USD | Low | Michigan Current Conditions (Feb) |  | 54.9 | 55.4 |
-| 15:00 | CAD | Low | Ivey PMI n.s.a (Jan) |  |  | 43.3 |
-| 15:00 | CAD | Moderate | Ivey PMI (Jan) |  | 49.7 | 51.9 |
+| 39 min | USD | Moderate | Michigan 1-Year Inflation Expectations (Feb) |  |  | 4.0% |
+| 39 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Feb) |  |  | 3.3% |
+| 39 min | USD | Moderate | Michigan Consumer Expectations (Feb) |  | 56.7 | 57.0 |
+| 39 min | USD | Moderate | Michigan Consumer Sentiment (Feb) |  | 55.0 | 56.4 |
+| 39 min | USD | Low | Michigan Current Conditions (Feb) |  | 54.9 | 55.4 |
+| 39 min | CAD | Low | Ivey PMI n.s.a (Jan) |  |  | 43.3 |
+| 39 min | CAD | Moderate | Ivey PMI (Jan) |  | 49.7 | 51.9 |
 | 17:00 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 411 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 546 |

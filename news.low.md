@@ -1,4 +1,4 @@
-## None - Low Impact Forex News
+## 06 February 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
@@ -29,12 +29,14 @@
 | 11:30 | INR | FX Reserves, USD | 723.77B |  | 709.41B |
 | 12:00 | MXN | Consumer Confidence (Jan) | 44.0 |  | 44.6 |
 | 12:00 | MXN | Consumer Confidence n.s.a. (Jan) | 44.3 |  | 44.8 |
+| 13:00 | BRL | Auto Production (MoM) (Jan) | -13.5% |  | -15.8% |
+| 13:00 | BRL | Auto Sales (MoM) (Jan) | -39.0% |  | 17.1% |
 | 13:30 | CAD | Avg hourly wages Permanent employee (Jan) | 3.3% |  | 3.7% |
 | 13:30 | CAD | Full Employment Change (Jan) | 44.9K |  | 50.2K |
-| 13:30 | CAD | Part Time Employment Change (Jan) | -69.7K |  | -42.0K |
+| 13:30 | CAD | Part Time Employment Change (Jan) | -69.7K |  | -41.3K |
 | 13:30 | CAD | Participation Rate (Jan) | 65.0% |  | 65.4% |
-| 15:00 | USD | Michigan Current Conditions (Feb) |  | 54.9 | 55.4 |
-| 15:00 | CAD | Ivey PMI n.s.a (Jan) |  |  | 43.3 |
+| 39 min | USD | Michigan Current Conditions (Feb) |  | 54.9 | 55.4 |
+| 39 min | CAD | Ivey PMI n.s.a (Jan) |  |  | 43.3 |
 | 17:00 | USD | Fed Governor Jefferson Speaks |  |  |  |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -3.6K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 48.4K |
