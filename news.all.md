@@ -3,7 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 03:00 | IDR | Low | Consumer Confidence (Jan) | 127.0 |  | 123.5 |
-| 05:00 | JPY | Low | Economy Watchers Current Index (Jan) |  | 49.1 | 48.6 |
+| 03:00 | IDR | Low | Motorbike Sales (YoY) (Jan) | 3.10% |  | 14.50% |
+| 13 min | JPY | Low | Economy Watchers Current Index (Jan) |  | 49.1 | 48.6 |
 | 07:00 | NOK | Low | GDP (QoQ) (Q4) |  |  | 1.1% |
 | 07:00 | NOK | Low | GDP Mainland (QoQ) (Q4) |  |  | 0.1% |
 | 07:00 | NOK | Low | PPI (YoY) (Jan) |  |  | -11.4% |
@@ -15,8 +16,8 @@
 | 12:00 | MXN | Moderate | CPI (YoY) (Jan) |  | 3.82% | 3.69% |
 | 12:00 | MXN | Moderate | CPI (MoM) (Jan) |  |  | 0.28% |
 | 12:00 | MXN | Low | Month Core Inflation (YoY) (Jan) |  | 4.49% | 4.33% |
-| 12:00 | MXN | Low | PPI (MoM) (Jan) |  |  | 0.50% |
 | 12:00 | MXN | Low | PPI (YoY) (Jan) |  |  | 2.10% |
+| 12:00 | MXN | Low | PPI (MoM) (Jan) |  |  | 0.50% |
 | 12:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.058% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.007% |
@@ -31,6 +32,5 @@
 | 20:15 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 22:15 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 23:30 | AUD | Low | Westpac Consumer Sentiment (Feb) |  |  | -1.7% |
-| 23:30 | IDR | Low | Motorbike Sales (YoY) (Jan) |  |  | 14.50% |
 | 23:50 | JPY | Low | M2 Money Stock (YoY) |  | 1.8% | 1.7% |
 | 23:50 | JPY | Low | M3 Money Supply (Jan) |  |  | 2,244.5B |
