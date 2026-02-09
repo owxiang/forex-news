@@ -15,9 +15,9 @@
 | 12:00 | MXN | Month Core Inflation (YoY) (Jan) | 4.52% | 4.49% | 4.33% |
 | 12:00 | MXN | PPI (YoY) (Jan) | 1.50% |  | 2.10% |
 | 12:00 | MXN | PPI (MoM) (Jan) | 0.20% |  | 0.50% |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.058% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.007% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.036% |
+| 24 min | EUR | French 12-Month BTF Auction |  |  | 2.058% |
+| 24 min | EUR | French 3-Month BTF Auction |  |  | 2.007% |
+| 24 min | EUR | French 6-Month BTF Auction |  |  | 2.036% |
 | 15:00 | USD | CB Employment Trends Index (Jan) |  |  | 104.27 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 3.600% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 3.525% |

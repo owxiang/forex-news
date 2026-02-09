@@ -19,9 +19,9 @@
 | 12:00 | MXN | Low | PPI (YoY) (Jan) | 1.50% |  | 2.10% |
 | 12:00 | MXN | Low | PPI (MoM) (Jan) | 0.20% |  | 0.50% |
 | 12:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.058% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.007% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.036% |
+| 24 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.058% |
+| 24 min | EUR | Low | French 3-Month BTF Auction |  |  | 2.007% |
+| 24 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.036% |
 | 15:00 | USD | Low | CB Employment Trends Index (Jan) |  |  | 104.27 |
 | 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Jan) |  |  | 3.4% |
 | 16:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
