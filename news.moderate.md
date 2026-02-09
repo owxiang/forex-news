@@ -11,5 +11,5 @@
 | 16:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 18:30 | USD | Fed Waller Speaks |  |  |  |
 | 19:30 | GBP | BoE MPC Member Mann Speaks |  |  |  |
-| 42 min | USD | FOMC Member Bostic Speaks |  |  |  |
+| 20:15 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 22:15 | GBP | BoE MPC Member Mann Speaks |  |  |  |
