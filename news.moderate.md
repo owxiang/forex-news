@@ -12,4 +12,4 @@
 | 18:30 | USD | Fed Waller Speaks |  |  |  |
 | 19:30 | GBP | BoE MPC Member Mann Speaks |  |  |  |
 | 20:15 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 22:15 | GBP | BoE MPC Member Mann Speaks |  |  |  |
+| 57 min | GBP | BoE MPC Member Mann Speaks |  |  |  |
