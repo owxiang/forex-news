@@ -5,9 +5,9 @@
 | 03:00 | IDR | Consumer Confidence (Jan) | 127.0 |  | 123.5 |
 | 03:00 | IDR | Motorbike Sales (YoY) (Jan) | 3.10% |  | 14.50% |
 | 05:00 | JPY | Economy Watchers Current Index (Jan) | 47.6 | 49.1 | 47.7 |
-| 07:00 | NOK | GDP (QoQ) (Q4) |  |  | 1.1% |
-| 07:00 | NOK | GDP Mainland (QoQ) (Q4) |  |  | 0.1% |
-| 07:00 | NOK | PPI (YoY) (Jan) |  |  | -11.4% |
+| 27 min | NOK | GDP (QoQ) (Q4) |  |  | 1.1% |
+| 27 min | NOK | GDP Mainland (QoQ) (Q4) |  |  | 0.1% |
+| 27 min | NOK | PPI (YoY) (Jan) |  |  | -11.4% |
 | 09:00 | SGD | Foreign Reserves USD (MoM) (Jan) |  |  | 409.3B |
 | 09:30 | EUR | Sentix Investor Confidence (Feb) |  | -0.2 | -1.8 |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
