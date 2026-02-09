@@ -8,10 +8,10 @@
 | 07:00 | NOK | GDP (QoQ) (Q4) | -0.3% |  | 1.3% |
 | 07:00 | NOK | GDP Mainland (QoQ) (Q4) | 0.4% |  | 0.1% |
 | 07:00 | NOK | PPI (YoY) (Jan) | -7.8% |  | -11.4% |
-| 09:00 | SGD | Foreign Reserves USD (MoM) (Jan) |  |  | 409.3B |
-| 09:30 | EUR | Sentix Investor Confidence (Feb) |  | -0.2 | -1.8 |
+| 09:00 | SGD | Foreign Reserves USD (MoM) (Jan) | 417.0B |  | 409.3B |
+| 2 min | EUR | Sentix Investor Confidence (Feb) |  | -0.2 | -1.8 |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:00 | MXN | Core CPI (MoM) (Jan) |  |  | 0.41% |
+| 12:00 | MXN | Core CPI (MoM) (Jan) |  | 0.59% | 0.41% |
 | 12:00 | MXN | Month Core Inflation (YoY) (Jan) |  | 4.49% | 4.33% |
 | 12:00 | MXN | PPI (YoY) (Jan) |  |  | 2.10% |
 | 12:00 | MXN | PPI (MoM) (Jan) |  |  | 0.50% |
