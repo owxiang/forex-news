@@ -8,7 +8,7 @@
 | 07:00 | NOK | Low | GDP (QoQ) (Q4) | -0.3% |  | 1.3% |
 | 07:00 | NOK | Low | GDP Mainland (QoQ) (Q4) | 0.4% |  | 0.1% |
 | 07:00 | NOK | Low | PPI (YoY) (Jan) | -7.8% |  | -11.4% |
-| 31 min | CHF | Moderate | SECO Consumer Climate (Q1) |  | -30 | -37 |
+| 08:00 | CHF | Moderate | SECO Consumer Climate (Q1) | -30 | -30 | -37 |
 | 09:00 | SGD | Low | Foreign Reserves USD (MoM) (Jan) |  |  | 409.3B |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Feb) |  | -0.2 | -1.8 |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
