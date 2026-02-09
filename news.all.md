@@ -1,10 +1,36 @@
-## 08 February 2026 - All Forex News
+## 09 February 2026 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 06:40 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 18 min | JPY | Low | Overall wage income of employees (Dec) |  | 3.0% | 1.7% |
-| 18 min | JPY | Low | Overtime Pay (YoY) (Dec) |  |  | 1.20% |
-| 38 min | JPY | Moderate | Adjusted Current Account (Dec) |  | 2.95T | 313.78T |
-| 38 min | JPY | Low | Bank Lending (YoY) (Jan) |  | 4.5% | 4.4% |
-| 38 min | JPY | Moderate | Current Account n.s.a. (Dec) |  | 1.060T | 3.674T |
+| 03:00 | IDR | Low | Consumer Confidence (Jan) |  |  | 123.5 |
+| 05:00 | JPY | Low | Economy Watchers Current Index (Jan) |  | 49.1 | 48.6 |
+| 07:00 | NOK | Low | GDP (QoQ) (Q4) |  |  | 1.1% |
+| 07:00 | NOK | Low | GDP Mainland (QoQ) (Q4) |  |  | 0.1% |
+| 07:00 | NOK | Low | PPI (YoY) (Jan) |  |  | -11.4% |
+| 08:00 | CHF | Moderate | SECO Consumer Climate (Q1) |  | -30 | -37 |
+| 09:00 | SGD | Low | Foreign Reserves USD (MoM) (Jan) |  |  | 409.3B |
+| 09:30 | EUR | Low | Sentix Investor Confidence (Feb) |  | -0.2 | -1.8 |
+| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 12:00 | MXN | Low | Core CPI (MoM) (Jan) |  |  | 0.41% |
+| 12:00 | MXN | Moderate | CPI (YoY) (Jan) |  | 3.82% | 3.69% |
+| 12:00 | MXN | Moderate | CPI (MoM) (Jan) |  |  | 0.28% |
+| 12:00 | MXN | Low | Month Core Inflation (YoY) (Jan) |  | 4.49% | 4.33% |
+| 12:00 | MXN | Low | PPI (MoM) (Jan) |  |  | 0.50% |
+| 12:00 | MXN | Low | PPI (YoY) (Jan) |  |  | 2.10% |
+| 12:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.058% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.007% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.036% |
+| 15:00 | USD | Low | CB Employment Trends Index (Jan) |  |  | 104.27 |
+| 16:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 16:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.600% |
+| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.525% |
+| 18:30 | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 19:30 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
+| 20:15 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 22:15 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
+| 23:30 | AUD | Low | Westpac Consumer Sentiment (Feb) |  |  | -1.7% |
+| 23:30 | IDR | Low | Motorbike Sales (YoY) (Jan) |  |  | 14.50% |
+| 23:50 | JPY | Low | M2 Money Stock (YoY) |  | 1.8% | 1.7% |
+| 23:50 | JPY | Low | M3 Money Supply (Jan) |  |  | 2,244.5B |
