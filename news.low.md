@@ -29,6 +29,6 @@
 | 16:00 | USD | OPEC Crude oil Production UAE (Barrel) | 3.37M |  | 3.38M |
 | 16:30 | USD | 3-Month Bill Auction | 3.600% |  | 3.600% |
 | 16:30 | USD | 6-Month Bill Auction | 3.500% |  | 3.525% |
-| 23:30 | AUD | Westpac Consumer Sentiment (Feb) |  |  | -1.7% |
-| 23:50 | JPY | M2 Money Stock (YoY) |  | 1.8% | 1.7% |
-| 23:50 | JPY | M3 Money Supply (Jan) |  |  | 2,244.5B |
+| 12 min | AUD | Westpac Consumer Sentiment (Feb) |  |  | -1.7% |
+| 32 min | JPY | M2 Money Stock (YoY) |  | 1.8% | 1.7% |
+| 32 min | JPY | M3 Money Supply (Jan) |  |  | 2,244.5B |
