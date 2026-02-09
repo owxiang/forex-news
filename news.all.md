@@ -36,7 +36,7 @@
 | 16:00 | USD | Low | OPEC Crude oil Production UAE (Barrel) | 3.37M |  | 3.38M |
 | 16:30 | USD | Low | 3-Month Bill Auction | 3.600% |  | 3.600% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 3.500% |  | 3.525% |
-| 18:30 | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 6 min | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 19:30 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 20:15 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 22:15 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
