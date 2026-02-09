@@ -10,8 +10,8 @@
 | 07:00 | NOK | Low | PPI (YoY) (Jan) | -7.8% |  | -11.4% |
 | 08:00 | CHF | Moderate | SECO Consumer Climate (Q1) | -30 | -30 | -37 |
 | 09:00 | SGD | Low | Foreign Reserves USD (MoM) (Jan) | 417.0B |  | 409.3B |
-| 2 min | EUR | Low | Sentix Investor Confidence (Feb) |  | -0.2 | -1.8 |
-| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 09:30 | EUR | Low | Sentix Investor Confidence (Feb) | 4.2 | -0.2 | -1.8 |
+| 57 min | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:00 | MXN | Low | Core CPI (MoM) (Jan) |  | 0.59% | 0.41% |
 | 12:00 | MXN | Moderate | CPI (YoY) (Jan) |  | 3.82% | 3.69% |
 | 12:00 | MXN | Moderate | CPI (MoM) (Jan) |  | 0.41% | 0.28% |
