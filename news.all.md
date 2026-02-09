@@ -11,14 +11,14 @@
 | 08:00 | CHF | Moderate | SECO Consumer Climate (Q1) | -30 | -30 | -37 |
 | 09:00 | SGD | Low | Foreign Reserves USD (MoM) (Jan) | 417.0B |  | 409.3B |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Feb) | 4.2 | -0.2 | -1.8 |
-| 3 min | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 38 min | MXN | Low | Core CPI (MoM) (Jan) |  | 0.59% | 0.41% |
-| 38 min | MXN | Moderate | CPI (YoY) (Jan) |  | 3.82% | 3.69% |
-| 38 min | MXN | Moderate | CPI (MoM) (Jan) |  | 0.41% | 0.28% |
-| 38 min | MXN | Low | Month Core Inflation (YoY) (Jan) |  | 4.49% | 4.33% |
-| 38 min | MXN | Low | PPI (YoY) (Jan) |  |  | 2.10% |
-| 38 min | MXN | Low | PPI (MoM) (Jan) |  |  | 0.50% |
-| 38 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 12:00 | MXN | Low | Core CPI (MoM) (Jan) | 0.60% | 0.59% | 0.41% |
+| 12:00 | MXN | Moderate | CPI (YoY) (Jan) | 3.79% | 3.82% | 3.69% |
+| 12:00 | MXN | Moderate | CPI (MoM) (Jan) | 0.38% | 0.41% | 0.28% |
+| 12:00 | MXN | Low | Month Core Inflation (YoY) (Jan) | 4.52% | 4.49% | 4.33% |
+| 12:00 | MXN | Low | PPI (YoY) (Jan) | 1.50% |  | 2.10% |
+| 12:00 | MXN | Low | PPI (MoM) (Jan) | 0.20% |  | 0.50% |
+| 12:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.058% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.007% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.036% |
