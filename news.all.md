@@ -5,10 +5,10 @@
 | 03:00 | IDR | Low | Consumer Confidence (Jan) | 127.0 |  | 123.5 |
 | 03:00 | IDR | Low | Motorbike Sales (YoY) (Jan) | 3.10% |  | 14.50% |
 | 05:00 | JPY | Low | Economy Watchers Current Index (Jan) | 47.6 | 49.1 | 47.7 |
-| 27 min | NOK | Low | GDP (QoQ) (Q4) |  |  | 1.1% |
-| 27 min | NOK | Low | GDP Mainland (QoQ) (Q4) |  |  | 0.1% |
-| 27 min | NOK | Low | PPI (YoY) (Jan) |  |  | -11.4% |
-| 08:00 | CHF | Moderate | SECO Consumer Climate (Q1) |  | -30 | -37 |
+| 07:00 | NOK | Low | GDP (QoQ) (Q4) | -0.3% |  | 1.3% |
+| 07:00 | NOK | Low | GDP Mainland (QoQ) (Q4) | 0.4% |  | 0.1% |
+| 07:00 | NOK | Low | PPI (YoY) (Jan) | -7.8% |  | -11.4% |
+| 31 min | CHF | Moderate | SECO Consumer Climate (Q1) |  | -30 | -37 |
 | 09:00 | SGD | Low | Foreign Reserves USD (MoM) (Jan) |  |  | 409.3B |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Feb) |  | -0.2 | -1.8 |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |

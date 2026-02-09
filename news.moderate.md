@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 08:00 | CHF | SECO Consumer Climate (Q1) |  | -30 | -37 |
+| 31 min | CHF | SECO Consumer Climate (Q1) |  | -30 | -37 |
 | 12:00 | MXN | CPI (YoY) (Jan) |  | 3.82% | 3.69% |
 | 12:00 | MXN | CPI (MoM) (Jan) |  |  | 0.28% |
 | 12:00 | EUR | ECB's Lane Speaks |  |  |  |
