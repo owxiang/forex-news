@@ -22,10 +22,10 @@
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.038% |  | 2.058% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.004% |  | 2.007% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.031% |  | 2.036% |
-| 31 min | USD | Low | CB Employment Trends Index (Jan) |  |  | 104.27 |
-| 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Jan) |  |  | 3.4% |
-| 16:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 16:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 36 min | USD | Low | CB Employment Trends Index (Jan) |  |  | 104.27 |
+| 36 min | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Jan) |  |  | 3.4% |
+| 36 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 36 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.600% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.525% |
 | 18:30 | USD | Moderate | Fed Waller Speaks |  |  |  |
