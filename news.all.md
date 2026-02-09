@@ -39,7 +39,7 @@
 | 18:30 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 19:30 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 20:15 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 57 min | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
+| 22:15 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 23:30 | AUD | Low | Westpac Consumer Sentiment (Feb) |  |  | -1.7% |
 | 23:50 | JPY | Low | M2 Money Stock (YoY) |  | 1.8% | 1.7% |
 | 23:50 | JPY | Low | M3 Money Supply (Jan) |  |  | 2,244.5B |
