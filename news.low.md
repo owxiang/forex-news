@@ -10,11 +10,11 @@
 | 07:00 | NOK | PPI (YoY) (Jan) | -7.8% |  | -11.4% |
 | 09:00 | SGD | Foreign Reserves USD (MoM) (Jan) | 417.0B |  | 409.3B |
 | 09:30 | EUR | Sentix Investor Confidence (Feb) | 4.2 | -0.2 | -1.8 |
-| 57 min | BRL | BCB Focus Market Readout |  |  |  |
-| 12:00 | MXN | Core CPI (MoM) (Jan) |  | 0.59% | 0.41% |
-| 12:00 | MXN | Month Core Inflation (YoY) (Jan) |  | 4.49% | 4.33% |
-| 12:00 | MXN | PPI (YoY) (Jan) |  |  | 2.10% |
-| 12:00 | MXN | PPI (MoM) (Jan) |  |  | 0.50% |
+| 3 min | BRL | BCB Focus Market Readout |  |  |  |
+| 38 min | MXN | Core CPI (MoM) (Jan) |  | 0.59% | 0.41% |
+| 38 min | MXN | Month Core Inflation (YoY) (Jan) |  | 4.49% | 4.33% |
+| 38 min | MXN | PPI (YoY) (Jan) |  |  | 2.10% |
+| 38 min | MXN | PPI (MoM) (Jan) |  |  | 0.50% |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.058% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.007% |
 | 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.036% |
