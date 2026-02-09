@@ -6,6 +6,7 @@
 | 12:00 | MXN | CPI (YoY) (Jan) |  | 3.82% | 3.69% |
 | 12:00 | MXN | CPI (MoM) (Jan) |  |  | 0.28% |
 | 12:00 | EUR | ECB's Lane Speaks |  |  |  |
+| 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Jan) |  |  | 3.4% |
 | 16:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 16:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 18:30 | USD | Fed Waller Speaks |  |  |  |

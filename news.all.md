@@ -4,7 +4,7 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 03:00 | IDR | Low | Consumer Confidence (Jan) | 127.0 |  | 123.5 |
 | 03:00 | IDR | Low | Motorbike Sales (YoY) (Jan) | 3.10% |  | 14.50% |
-| 13 min | JPY | Low | Economy Watchers Current Index (Jan) |  | 49.1 | 48.6 |
+| 05:00 | JPY | Low | Economy Watchers Current Index (Jan) | 47.6 | 49.1 | 47.7 |
 | 07:00 | NOK | Low | GDP (QoQ) (Q4) |  |  | 1.1% |
 | 07:00 | NOK | Low | GDP Mainland (QoQ) (Q4) |  |  | 0.1% |
 | 07:00 | NOK | Low | PPI (YoY) (Jan) |  |  | -11.4% |
@@ -23,6 +23,7 @@
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.007% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.036% |
 | 15:00 | USD | Low | CB Employment Trends Index (Jan) |  |  | 104.27 |
+| 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Jan) |  |  | 3.4% |
 | 16:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 16:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.600% |
