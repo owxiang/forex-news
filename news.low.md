@@ -13,14 +13,22 @@
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:00 | MXN | Core CPI (MoM) (Jan) | 0.60% | 0.59% | 0.41% |
 | 12:00 | MXN | Month Core Inflation (YoY) (Jan) | 4.52% | 4.49% | 4.33% |
-| 12:00 | MXN | PPI (YoY) (Jan) | 1.50% |  | 2.10% |
 | 12:00 | MXN | PPI (MoM) (Jan) | 0.20% |  | 0.50% |
+| 12:00 | MXN | PPI (YoY) (Jan) | 1.50% |  | 2.10% |
 | 14:00 | EUR | French 12-Month BTF Auction | 2.038% |  | 2.058% |
 | 14:00 | EUR | French 3-Month BTF Auction | 2.004% |  | 2.007% |
 | 14:00 | EUR | French 6-Month BTF Auction | 2.031% |  | 2.036% |
-| 36 min | USD | CB Employment Trends Index (Jan) |  |  | 104.27 |
-| 16:30 | USD | 3-Month Bill Auction |  |  | 3.600% |
-| 16:30 | USD | 6-Month Bill Auction |  |  | 3.525% |
+| 16:00 | USD | OPEC Crude Oil Production Algeria (Barrel) | 0.96M |  | 0.96M |
+| 16:00 | USD | OPEC Crude Oil Production Congo (Barrel) | 0.25M |  | 0.25M |
+| 16:00 | USD | OPEC Crude Oil Production Gabon (Barrel) | 0.23M |  | 0.23M |
+| 16:00 | USD | OPEC Crude oil Production Iran (Barrel) | 3.20M |  | 3.24M |
+| 16:00 | USD | OPEC Crude oil Production Iraq (Barrel) | 4.10M |  | 4.05M |
+| 16:00 | USD | OPEC Crude Oil Production Kuwait (Barrel) | 2.55M |  | 2.55M |
+| 16:00 | USD | OPEC Crude Oil Production Libya (Barrel) | 1.25M |  | 1.30M |
+| 16:00 | USD | OPEC Crude Oil Production Nigeria (Barrel) | 1.47M |  | 1.53M |
+| 16:00 | USD | OPEC Crude oil Production UAE (Barrel) | 3.37M |  | 3.38M |
+| 16:30 | USD | 3-Month Bill Auction | 3.600% |  | 3.600% |
+| 16:30 | USD | 6-Month Bill Auction | 3.500% |  | 3.525% |
 | 23:30 | AUD | Westpac Consumer Sentiment (Feb) |  |  | -1.7% |
 | 23:50 | JPY | M2 Money Stock (YoY) |  | 1.8% | 1.7% |
 | 23:50 | JPY | M3 Money Supply (Jan) |  |  | 2,244.5B |
