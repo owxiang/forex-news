@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:00 | IDR | Consumer Confidence (Jan) |  |  | 123.5 |
+| 03:00 | IDR | Consumer Confidence (Jan) | 127.0 |  | 123.5 |
 | 05:00 | JPY | Economy Watchers Current Index (Jan) |  | 49.1 | 48.6 |
 | 07:00 | NOK | GDP (QoQ) (Q4) |  |  | 1.1% |
 | 07:00 | NOK | GDP Mainland (QoQ) (Q4) |  |  | 0.1% |
