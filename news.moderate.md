@@ -12,9 +12,9 @@
 | 13:30 | USD | Import Price Index (MoM) (Dec) | 0.1% | 0.1% | 0.4% |
 | 13:30 | USD | Retail Control (MoM) (Dec) | -0.1% | 0.4% | 0.2% |
 | 15:00 | USD | Business Inventories (MoM) (Nov) | 0.1% | 0.2% | 0.2% |
-| 15:00 | USD | Retail Inventories Ex Auto (Nov) | 0.2% |  | 0.3% |
+| 15:00 | USD | Retail Inventories Ex Auto (Nov) | 0.2% |  | 0.2% |
 | 16:00 | EUR | German Buba Balz Speaks |  |  |  |
-| 16:30 | USD | Atlanta Fed GDPNow (Q4) |  | 4.2% | 4.2% |
-| 31 min | USD | EIA Short-Term Energy Outlook |  |  |  |
-| 18:00 | USD | 3-Year Note Auction |  |  | 3.609% |
+| 17:00 | USD | Atlanta Fed GDPNow (Q4) | 3.7% | 4.2% | 4.2% |
+| 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
+| 33 min | USD | 3-Year Note Auction |  |  | 3.609% |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | -11.100M |
