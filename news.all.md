@@ -12,10 +12,10 @@
 | 03:00 | IDR | Low | Retail Sales (YoY) (Dec) | 3.5% |  | 6.3% |
 | 06:00 | JPY | Low | Machine Tool Orders (YoY) | 25.3% |  | 10.9% |
 | 06:30 | EUR | Low | French Unemployment Rate (Q4) | 7.9% | 7.8% | 7.7% |
-| 28 min | NOK | Low | Core CPI YTD (Jan) |  | 3.0% | 3.1% |
-| 28 min | NOK | Low | Core Inflation (MoM) (Jan) |  |  | 0.1% |
-| 28 min | NOK | Low | CPI (YoY) (Jan) |  | 3.1% | 3.2% |
-| 28 min | NOK | Low | CPI (MoM) (Jan) |  | -0.1% | 0.1% |
+| 07:00 | NOK | Low | Core CPI YTD (Jan) | 3.4% | 3.0% | 3.1% |
+| 07:00 | NOK | Low | Core Inflation (MoM) (Jan) | 0.3% |  | 0.1% |
+| 07:00 | NOK | Low | CPI (YoY) (Jan) | 3.6% | 3.1% | 3.2% |
+| 07:00 | NOK | Low | CPI (MoM) (Jan) | 0.6% | -0.1% | 0.1% |
 | 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 1.954% |
 | 10:30 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 3.821% |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.470% |
@@ -24,20 +24,18 @@
 | 12:00 | BRL | Moderate | CPI (YoY) (Jan) |  | 4.43% | 4.26% |
 | 12:00 | BRL | Low | CPI (MoM) (Jan) |  | 0.32% | 0.33% |
 | 12:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Jan) |  |  | 0.26% |
-| 13:00 | BRL | Low | Auto Production (MoM) (Jan) |  |  | -15.8% |
-| 13:00 | BRL | Low | Auto Sales (MoM) (Jan) |  |  | 17.1% |
 | 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 7.75K |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Dec) |  | 0.3% | 0.5% |
 | 13:30 | USD | Low | Employment Benefits (QoQ) (Q4) |  |  | 0.80% |
 | 13:30 | USD | Moderate | Employment Cost Index (QoQ) (Q4) |  | 0.8% | 0.8% |
 | 13:30 | USD | Low | Employment Wages (QoQ) (Q4) |  |  | 0.80% |
-| 13:30 | USD | Low | Export Price Index (YoY) (Dec) |  |  | 3.3% |
 | 13:30 | USD | Moderate | Export Price Index (MoM) (Dec) |  | 0.1% | 0.5% |
-| 13:30 | USD | Low | Import Price Index (YoY) (Dec) |  | 0.2% | 0.1% |
+| 13:30 | USD | Low | Export Price Index (YoY) (Dec) |  |  | 3.3% |
 | 13:30 | USD | Moderate | Import Price Index (MoM) (Dec) |  | 0.1% | 0.4% |
+| 13:30 | USD | Low | Import Price Index (YoY) (Dec) |  | 0.2% | 0.1% |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Dec) |  | 0.4% | 0.4% |
-| 13:30 | USD | High | Retail Sales (MoM) (Dec) |  | 0.4% | 0.6% |
 | 13:30 | USD | Low | Retail Sales (YoY) (Dec) |  |  | 3.33% |
+| 13:30 | USD | High | Retail Sales (MoM) (Dec) |  | 0.4% | 0.6% |
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Dec) |  |  | 0.4% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 6.7% |
 | 15:00 | USD | Moderate | Business Inventories (MoM) (Nov) |  | 0.2% | 0.3% |

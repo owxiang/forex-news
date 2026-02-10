@@ -9,10 +9,10 @@
 | 03:00 | IDR | Retail Sales (YoY) (Dec) | 3.5% |  | 6.3% |
 | 06:00 | JPY | Machine Tool Orders (YoY) | 25.3% |  | 10.9% |
 | 06:30 | EUR | French Unemployment Rate (Q4) | 7.9% | 7.8% | 7.7% |
-| 28 min | NOK | Core CPI YTD (Jan) |  | 3.0% | 3.1% |
-| 28 min | NOK | Core Inflation (MoM) (Jan) |  |  | 0.1% |
-| 28 min | NOK | CPI (YoY) (Jan) |  | 3.1% | 3.2% |
-| 28 min | NOK | CPI (MoM) (Jan) |  | -0.1% | 0.1% |
+| 07:00 | NOK | Core CPI YTD (Jan) | 3.4% | 3.0% | 3.1% |
+| 07:00 | NOK | Core Inflation (MoM) (Jan) | 0.3% |  | 0.1% |
+| 07:00 | NOK | CPI (YoY) (Jan) | 3.6% | 3.1% | 3.2% |
+| 07:00 | NOK | CPI (MoM) (Jan) | 0.6% | -0.1% | 0.1% |
 | 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 1.954% |
 | 10:30 | GBP | 5-Year Treasury Gilt Auction |  |  | 3.821% |
 | 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.470% |
@@ -20,8 +20,6 @@
 | 12:00 | USD | CB Employment Trends Index (Jan) |  |  | 104.27 |
 | 12:00 | BRL | CPI (MoM) (Jan) |  | 0.32% | 0.33% |
 | 12:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Jan) |  |  | 0.26% |
-| 13:00 | BRL | Auto Production (MoM) (Jan) |  |  | -15.8% |
-| 13:00 | BRL | Auto Sales (MoM) (Jan) |  |  | 17.1% |
 | 13:30 | USD | Employment Benefits (QoQ) (Q4) |  |  | 0.80% |
 | 13:30 | USD | Employment Wages (QoQ) (Q4) |  |  | 0.80% |
 | 13:30 | USD | Export Price Index (YoY) (Dec) |  |  | 3.3% |
