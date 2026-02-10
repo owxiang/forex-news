@@ -10,7 +10,7 @@
 | 13:30 | USD | Employment Cost Index (QoQ) (Q4) |  | 0.8% | 0.8% |
 | 13:30 | USD | Export Price Index (MoM) (Dec) |  | 0.1% | 0.5% |
 | 13:30 | USD | Import Price Index (MoM) (Dec) |  | 0.1% | 0.4% |
-| 13:30 | USD | Retail Control (MoM) (Dec) |  |  | 0.4% |
+| 13:30 | USD | Retail Control (MoM) (Dec) |  | 0.4% | 0.4% |
 | 15:00 | USD | Business Inventories (MoM) (Nov) |  | 0.2% | 0.3% |
 | 15:00 | USD | Retail Inventories Ex Auto (Nov) |  |  | 0.3% |
 | 16:00 | EUR | German Buba Balz Speaks |  |  |  |
