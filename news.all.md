@@ -16,7 +16,7 @@
 | 07:00 | NOK | Low | Core Inflation (MoM) (Jan) | 0.3% |  | 0.1% |
 | 07:00 | NOK | Low | CPI (YoY) (Jan) | 3.6% | 3.1% | 3.2% |
 | 07:00 | NOK | Low | CPI (MoM) (Jan) | 0.6% | -0.1% | 0.1% |
-| 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 1.954% |
+| 14 min | EUR | Low | Spanish 3-Month Letras Auction |  |  | 1.954% |
 | 10:30 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 3.821% |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.470% |
 | 11:00 | USD | Low | NFIB Small Business Optimism (Jan) |  | 99.8 | 99.5 |
