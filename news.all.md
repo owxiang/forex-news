@@ -23,20 +23,20 @@
 | 12:00 | BRL | Moderate | CPI (YoY) (Jan) | 4.44% | 4.43% | 4.26% |
 | 12:00 | BRL | Low | CPI (MoM) (Jan) | 0.33% | 0.32% | 0.33% |
 | 12:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Jan) | 0.33% |  | 0.26% |
-| 49 min | USD | Moderate | ADP Employment Change Weekly |  |  | 7.75K |
-| 13:30 | USD | High | Core Retail Sales (MoM) (Dec) |  | 0.3% | 0.5% |
-| 13:30 | USD | Low | Employment Benefits (QoQ) (Q4) |  |  | 0.80% |
-| 13:30 | USD | Moderate | Employment Cost Index (QoQ) (Q4) |  | 0.8% | 0.8% |
-| 13:30 | USD | Low | Employment Wages (QoQ) (Q4) |  |  | 0.80% |
-| 13:30 | USD | Moderate | Export Price Index (MoM) (Dec) |  | 0.1% | 0.5% |
-| 13:30 | USD | Low | Export Price Index (YoY) (Dec) |  |  | 3.3% |
-| 13:30 | USD | Moderate | Import Price Index (MoM) (Dec) |  | 0.1% | 0.4% |
-| 13:30 | USD | Low | Import Price Index (YoY) (Dec) |  | 0.2% | 0.1% |
-| 13:30 | USD | Moderate | Retail Control (MoM) (Dec) |  | 0.4% | 0.4% |
-| 13:30 | USD | High | Retail Sales (MoM) (Dec) |  | 0.4% | 0.6% |
-| 13:30 | USD | Low | Retail Sales (YoY) (Dec) |  |  | 3.33% |
-| 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Dec) |  |  | 0.4% |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 6.7% |
+| 13:15 | USD | Moderate | ADP Employment Change Weekly | 6.50K |  | 5.00K |
+| 13:30 | USD | High | Core Retail Sales (MoM) (Dec) | 0.0% | 0.3% | 0.4% |
+| 13:30 | USD | Low | Employment Benefits (QoQ) (Q4) | 0.70% |  | 0.80% |
+| 13:30 | USD | Moderate | Employment Cost Index (QoQ) (Q4) | 0.7% | 0.8% | 0.8% |
+| 13:30 | USD | Low | Employment Wages (QoQ) (Q4) | 0.70% |  | 0.80% |
+| 13:30 | USD | Moderate | Export Price Index (MoM) (Dec) | 0.3% | 0.1% | 0.5% |
+| 13:30 | USD | Low | Export Price Index (YoY) (Dec) | 3.1% |  | 3.3% |
+| 13:30 | USD | Moderate | Import Price Index (MoM) (Dec) | 0.1% | 0.1% | 0.4% |
+| 13:30 | USD | Low | Import Price Index (YoY) (Dec) | 0.0% | 0.2% | 0.1% |
+| 13:30 | USD | Moderate | Retail Control (MoM) (Dec) | -0.1% | 0.4% | 0.2% |
+| 13:30 | USD | High | Retail Sales (MoM) (Dec) | 0.0% | 0.4% | 0.6% |
+| 13:30 | USD | Low | Retail Sales (YoY) (Dec) | 2.40% |  | 3.33% |
+| 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Dec) | 0.0% |  | 0.3% |
+| 17 min | USD | Low | Redbook (YoY) |  |  | 6.7% |
 | 15:00 | USD | Moderate | Business Inventories (MoM) (Nov) |  | 0.2% | 0.3% |
 | 15:00 | USD | Moderate | Retail Inventories Ex Auto (Nov) |  |  | 0.3% |
 | 16:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |

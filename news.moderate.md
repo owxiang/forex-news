@@ -6,11 +6,11 @@
 | 00:30 | AUD | Building Approvals (MoM) (Dec) | -14.9% | -14.9% | 15.2% |
 | 00:30 | AUD | NAB Business Confidence (Jan) | 3 |  | 2 |
 | 12:00 | BRL | CPI (YoY) (Jan) | 4.44% | 4.43% | 4.26% |
-| 49 min | USD | ADP Employment Change Weekly |  |  | 7.75K |
-| 13:30 | USD | Employment Cost Index (QoQ) (Q4) |  | 0.8% | 0.8% |
-| 13:30 | USD | Export Price Index (MoM) (Dec) |  | 0.1% | 0.5% |
-| 13:30 | USD | Import Price Index (MoM) (Dec) |  | 0.1% | 0.4% |
-| 13:30 | USD | Retail Control (MoM) (Dec) |  | 0.4% | 0.4% |
+| 13:15 | USD | ADP Employment Change Weekly | 6.50K |  | 5.00K |
+| 13:30 | USD | Employment Cost Index (QoQ) (Q4) | 0.7% | 0.8% | 0.8% |
+| 13:30 | USD | Export Price Index (MoM) (Dec) | 0.3% | 0.1% | 0.5% |
+| 13:30 | USD | Import Price Index (MoM) (Dec) | 0.1% | 0.1% | 0.4% |
+| 13:30 | USD | Retail Control (MoM) (Dec) | -0.1% | 0.4% | 0.2% |
 | 15:00 | USD | Business Inventories (MoM) (Nov) |  | 0.2% | 0.3% |
 | 15:00 | USD | Retail Inventories Ex Auto (Nov) |  |  | 0.3% |
 | 16:00 | EUR | German Buba Balz Speaks |  |  |  |
