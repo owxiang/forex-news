@@ -37,10 +37,10 @@
 | 13:30 | USD | Low | Retail Sales (YoY) (Dec) | 2.43% |  | 3.26% |
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Dec) | 0.0% |  | 0.3% |
 | 13:55 | USD | Low | Redbook (YoY) | 6.5% |  | 6.7% |
-| 25 min | USD | Moderate | Business Inventories (MoM) (Nov) |  | 0.2% | 0.3% |
-| 25 min | USD | Moderate | Retail Inventories Ex Auto (Nov) |  |  | 0.3% |
-| 16:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 4.2% | 4.2% |
+| 15:00 | USD | Moderate | Business Inventories (MoM) (Nov) | 0.1% | 0.2% | 0.2% |
+| 15:00 | USD | Moderate | Retail Inventories Ex Auto (Nov) | 0.2% |  | 0.3% |
+| 29 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 59 min | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 4.2% | 4.2% |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 3.609% |
 | 18:00 | USD | Low | Fed Logan Speaks |  |  |  |
