@@ -7,12 +7,12 @@
 | 00:30 | AUD | NAB Business Survey (Jan) | 7 |  | 9 |
 | 00:30 | AUD | Private House Approvals (Dec) | 0.4% | 0.4% | 1.3% |
 | 03:00 | IDR | Retail Sales (YoY) (Dec) | 3.5% |  | 6.3% |
-| 24 min | JPY | Machine Tool Orders (YoY) |  |  | 10.6% |
-| 54 min | EUR | French Unemployment Rate |  | 7.8% | 7.7% |
-| 07:00 | NOK | Core CPI YTD (Jan) |  | 3.0% | 3.1% |
-| 07:00 | NOK | Core Inflation (MoM) (Jan) |  |  | 0.1% |
-| 07:00 | NOK | CPI (YoY) (Jan) |  | 3.1% | 3.2% |
-| 07:00 | NOK | CPI (MoM) (Jan) |  | -0.1% | 0.1% |
+| 06:00 | JPY | Machine Tool Orders (YoY) | 25.3% |  | 10.9% |
+| 06:30 | EUR | French Unemployment Rate (Q4) | 7.9% | 7.8% | 7.7% |
+| 28 min | NOK | Core CPI YTD (Jan) |  | 3.0% | 3.1% |
+| 28 min | NOK | Core Inflation (MoM) (Jan) |  |  | 0.1% |
+| 28 min | NOK | CPI (YoY) (Jan) |  | 3.1% | 3.2% |
+| 28 min | NOK | CPI (MoM) (Jan) |  | -0.1% | 0.1% |
 | 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 1.954% |
 | 10:30 | GBP | 5-Year Treasury Gilt Auction |  |  | 3.821% |
 | 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.470% |
