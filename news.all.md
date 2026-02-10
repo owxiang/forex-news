@@ -44,5 +44,5 @@
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 18:00 | USD | Moderate | 3-Year Note Auction | 3.518% |  | 3.609% |
 | 18:00 | USD | Low | Fed Logan Speaks |  |  |  |
-| 10 min | USD | Moderate | API Weekly Crude Oil Stock |  |  | -11.100M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | 13.400M |  | -11.100M |
 | 23:00 | KRW | Low | Unemployment Rate (Jan) |  |  | 4.0% |

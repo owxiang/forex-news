@@ -17,4 +17,4 @@
 | 17:00 | USD | Atlanta Fed GDPNow (Q4) | 3.7% | 4.2% | 4.2% |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 18:00 | USD | 3-Year Note Auction | 3.518% |  | 3.609% |
-| 10 min | USD | API Weekly Crude Oil Stock |  |  | -11.100M |
+| 21:30 | USD | API Weekly Crude Oil Stock | 13.400M |  | -11.100M |
