@@ -5,7 +5,7 @@
 | 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Jan) | 2.3% | 1.3% | 1.0% |
 | 00:30 | AUD | Building Approvals (MoM) (Dec) | -14.9% | -14.9% | 15.2% |
 | 00:30 | AUD | NAB Business Confidence (Jan) | 3 |  | 2 |
-| 12:00 | BRL | CPI (YoY) (Jan) |  | 4.43% | 4.26% |
+| 35 min | BRL | CPI (YoY) (Jan) |  | 4.43% | 4.26% |
 | 13:15 | USD | ADP Employment Change Weekly |  |  | 7.75K |
 | 13:30 | USD | Employment Cost Index (QoQ) (Q4) |  | 0.8% | 0.8% |
 | 13:30 | USD | Export Price Index (MoM) (Dec) |  | 0.1% | 0.5% |

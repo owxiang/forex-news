@@ -17,13 +17,13 @@
 | 07:00 | NOK | Low | CPI (YoY) (Jan) | 3.6% | 3.1% | 3.2% |
 | 07:00 | NOK | Low | CPI (MoM) (Jan) | 0.6% | -0.1% | 0.1% |
 | 10:00 | EUR | Low | Spanish 3-Month Letras Auction | 1.939% |  | 1.954% |
-| 6 min | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 3.821% |
-| 6 min | EUR | Low | German 5-Year Bobl Auction |  |  | 2.470% |
-| 36 min | USD | Low | NFIB Small Business Optimism (Jan) |  | 99.8 | 99.5 |
-| 12:00 | USD | Low | CB Employment Trends Index (Jan) |  |  | 104.27 |
-| 12:00 | BRL | Moderate | CPI (YoY) (Jan) |  | 4.43% | 4.26% |
-| 12:00 | BRL | Low | CPI (MoM) (Jan) |  | 0.32% | 0.33% |
-| 12:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Jan) |  |  | 0.26% |
+| 10:30 | GBP | Low | 5-Year Treasury Gilt Auction | 4.001% |  | 3.821% |
+| 10:30 | EUR | Low | German 5-Year Bobl Auction | 2.400% |  | 2.470% |
+| 11:00 | USD | Low | NFIB Small Business Optimism (Jan) | 99.3 | 99.8 | 99.5 |
+| 35 min | USD | Low | CB Employment Trends Index (Jan) |  |  | 104.27 |
+| 35 min | BRL | Moderate | CPI (YoY) (Jan) |  | 4.43% | 4.26% |
+| 35 min | BRL | Low | CPI (MoM) (Jan) |  | 0.32% | 0.33% |
+| 35 min | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Jan) |  |  | 0.26% |
 | 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 7.75K |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Dec) |  | 0.3% | 0.5% |
 | 13:30 | USD | Low | Employment Benefits (QoQ) (Q4) |  |  | 0.80% |

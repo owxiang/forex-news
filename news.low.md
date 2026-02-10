@@ -14,12 +14,12 @@
 | 07:00 | NOK | CPI (YoY) (Jan) | 3.6% | 3.1% | 3.2% |
 | 07:00 | NOK | CPI (MoM) (Jan) | 0.6% | -0.1% | 0.1% |
 | 10:00 | EUR | Spanish 3-Month Letras Auction | 1.939% |  | 1.954% |
-| 6 min | GBP | 5-Year Treasury Gilt Auction |  |  | 3.821% |
-| 6 min | EUR | German 5-Year Bobl Auction |  |  | 2.470% |
-| 36 min | USD | NFIB Small Business Optimism (Jan) |  | 99.8 | 99.5 |
-| 12:00 | USD | CB Employment Trends Index (Jan) |  |  | 104.27 |
-| 12:00 | BRL | CPI (MoM) (Jan) |  | 0.32% | 0.33% |
-| 12:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Jan) |  |  | 0.26% |
+| 10:30 | GBP | 5-Year Treasury Gilt Auction | 4.001% |  | 3.821% |
+| 10:30 | EUR | German 5-Year Bobl Auction | 2.400% |  | 2.470% |
+| 11:00 | USD | NFIB Small Business Optimism (Jan) | 99.3 | 99.8 | 99.5 |
+| 35 min | USD | CB Employment Trends Index (Jan) |  |  | 104.27 |
+| 35 min | BRL | CPI (MoM) (Jan) |  | 0.32% | 0.33% |
+| 35 min | BRL | Brazilian IPCA Inflation Index SA (MoM) (Jan) |  |  | 0.26% |
 | 13:30 | USD | Employment Benefits (QoQ) (Q4) |  |  | 0.80% |
 | 13:30 | USD | Employment Wages (QoQ) (Q4) |  |  | 0.80% |
 | 13:30 | USD | Export Price Index (YoY) (Dec) |  |  | 3.3% |
