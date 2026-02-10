@@ -20,11 +20,10 @@
 | 10:30 | GBP | Low | 5-Year Treasury Gilt Auction | 4.001% |  | 3.821% |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction | 2.400% |  | 2.470% |
 | 11:00 | USD | Low | NFIB Small Business Optimism (Jan) | 99.3 | 99.8 | 99.5 |
-| 35 min | USD | Low | CB Employment Trends Index (Jan) |  |  | 104.27 |
-| 35 min | BRL | Moderate | CPI (YoY) (Jan) |  | 4.43% | 4.26% |
-| 35 min | BRL | Low | CPI (MoM) (Jan) |  | 0.32% | 0.33% |
-| 35 min | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Jan) |  |  | 0.26% |
-| 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 7.75K |
+| 12:00 | BRL | Moderate | CPI (YoY) (Jan) | 4.44% | 4.43% | 4.26% |
+| 12:00 | BRL | Low | CPI (MoM) (Jan) | 0.33% | 0.32% | 0.33% |
+| 12:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Jan) | 0.33% |  | 0.26% |
+| 49 min | USD | Moderate | ADP Employment Change Weekly |  |  | 7.75K |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Dec) |  | 0.3% | 0.5% |
 | 13:30 | USD | Low | Employment Benefits (QoQ) (Q4) |  |  | 0.80% |
 | 13:30 | USD | Moderate | Employment Cost Index (QoQ) (Q4) |  | 0.8% | 0.8% |
@@ -34,8 +33,8 @@
 | 13:30 | USD | Moderate | Import Price Index (MoM) (Dec) |  | 0.1% | 0.4% |
 | 13:30 | USD | Low | Import Price Index (YoY) (Dec) |  | 0.2% | 0.1% |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Dec) |  | 0.4% | 0.4% |
-| 13:30 | USD | Low | Retail Sales (YoY) (Dec) |  |  | 3.33% |
 | 13:30 | USD | High | Retail Sales (MoM) (Dec) |  | 0.4% | 0.6% |
+| 13:30 | USD | Low | Retail Sales (YoY) (Dec) |  |  | 3.33% |
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Dec) |  |  | 0.4% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 6.7% |
 | 15:00 | USD | Moderate | Business Inventories (MoM) (Nov) |  | 0.2% | 0.3% |
