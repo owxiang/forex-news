@@ -42,7 +42,7 @@
 | 16:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 3.7% | 4.2% | 4.2% |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
-| 33 min | USD | Moderate | 3-Year Note Auction |  |  | 3.609% |
-| 33 min | USD | Low | Fed Logan Speaks |  |  |  |
+| 18:00 | USD | Moderate | 3-Year Note Auction | 3.518% |  | 3.609% |
+| 18:00 | USD | Low | Fed Logan Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -11.100M |
 | 23:00 | KRW | Low | Unemployment Rate (Jan) |  |  | 4.0% |

@@ -16,5 +16,5 @@
 | 16:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 17:00 | USD | Atlanta Fed GDPNow (Q4) | 3.7% | 4.2% | 4.2% |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
-| 33 min | USD | 3-Year Note Auction |  |  | 3.609% |
+| 18:00 | USD | 3-Year Note Auction | 3.518% |  | 3.609% |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | -11.100M |
