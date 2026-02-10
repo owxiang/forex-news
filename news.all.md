@@ -1,45 +1,50 @@
-## 09 February 2026 - All Forex News
+## 10 February 2026 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 03:00 | IDR | Low | Consumer Confidence (Jan) | 127.0 |  | 123.5 |
-| 03:00 | IDR | Low | Motorbike Sales (YoY) (Jan) | 3.10% |  | 14.50% |
-| 05:00 | JPY | Low | Economy Watchers Current Index (Jan) | 47.6 | 49.1 | 47.7 |
-| 07:00 | NOK | Low | GDP (QoQ) (Q4) | -0.3% |  | 1.3% |
-| 07:00 | NOK | Low | GDP Mainland (QoQ) (Q4) | 0.4% |  | 0.1% |
-| 07:00 | NOK | Low | PPI (YoY) (Jan) | -7.8% |  | -11.4% |
-| 08:00 | CHF | Moderate | SECO Consumer Climate (Q1) | -30 | -30 | -37 |
-| 09:00 | SGD | Low | Foreign Reserves USD (MoM) (Jan) | 417.0B |  | 409.3B |
-| 09:30 | EUR | Low | Sentix Investor Confidence (Feb) | 4.2 | -0.2 | -1.8 |
-| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 12:00 | MXN | Low | Core CPI (MoM) (Jan) | 0.60% | 0.59% | 0.41% |
-| 12:00 | MXN | Moderate | CPI (MoM) (Jan) | 0.38% | 0.41% | 0.28% |
-| 12:00 | MXN | Moderate | CPI (YoY) (Jan) | 3.79% | 3.82% | 3.69% |
-| 12:00 | MXN | Low | Month Core Inflation (YoY) (Jan) | 4.52% | 4.49% | 4.33% |
-| 12:00 | MXN | Low | PPI (MoM) (Jan) | 0.20% |  | 0.50% |
-| 12:00 | MXN | Low | PPI (YoY) (Jan) | 1.50% |  | 2.10% |
-| 12:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.038% |  | 2.058% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.004% |  | 2.007% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.031% |  | 2.036% |
-| 15:30 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Jan) | 3.1% |  | 3.4% |
-| 16:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 16:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 16:00 | USD | Low | OPEC Crude Oil Production Algeria (Barrel) | 0.96M |  | 0.96M |
-| 16:00 | USD | Low | OPEC Crude Oil Production Congo (Barrel) | 0.25M |  | 0.25M |
-| 16:00 | USD | Low | OPEC Crude Oil Production Gabon (Barrel) | 0.23M |  | 0.23M |
-| 16:00 | USD | Low | OPEC Crude oil Production Iran (Barrel) | 3.20M |  | 3.24M |
-| 16:00 | USD | Low | OPEC Crude oil Production Iraq (Barrel) | 4.10M |  | 4.05M |
-| 16:00 | USD | Low | OPEC Crude Oil Production Kuwait (Barrel) | 2.55M |  | 2.55M |
-| 16:00 | USD | Low | OPEC Crude Oil Production Libya (Barrel) | 1.25M |  | 1.30M |
-| 16:00 | USD | Low | OPEC Crude Oil Production Nigeria (Barrel) | 1.47M |  | 1.53M |
-| 16:00 | USD | Low | OPEC Crude oil Production UAE (Barrel) | 3.37M |  | 3.38M |
-| 16:30 | USD | Low | 3-Month Bill Auction | 3.600% |  | 3.600% |
-| 16:30 | USD | Low | 6-Month Bill Auction | 3.500% |  | 3.525% |
-| 18:30 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 19:30 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
-| 20:15 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 22:15 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
-| 12 min | AUD | Low | Westpac Consumer Sentiment (Feb) |  |  | -1.7% |
-| 32 min | JPY | Low | M2 Money Stock (YoY) |  | 1.8% | 1.7% |
-| 32 min | JPY | Low | M3 Money Supply (Jan) |  |  | 2,244.5B |
+| 00:00 | SGD | Low | GDP (YoY) (Q4) | 6.9% | 5.7% | 4.6% |
+| 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Jan) | 2.3% | 1.3% | 1.0% |
+| 00:30 | AUD | Low | Building Approvals (YoY) (Dec) | 0.40% | 0.40% | 20.20% |
+| 00:30 | AUD | Moderate | Building Approvals (MoM) (Dec) | -14.9% | -14.9% | 15.2% |
+| 00:30 | AUD | Moderate | NAB Business Confidence (Jan) | 3 |  | 2 |
+| 00:30 | AUD | Low | NAB Business Survey (Jan) | 7 |  | 9 |
+| 00:30 | AUD | Low | Private House Approvals (Dec) | 0.4% | 0.4% | 1.3% |
+| 03:00 | IDR | Low | Retail Sales (YoY) (Dec) |  |  | 6.3% |
+| 06:00 | JPY | Low | Machine Tool Orders (YoY) |  |  | 10.6% |
+| 07:00 | NOK | Low | Core CPI YTD (Jan) |  | 3.0% | 3.1% |
+| 07:00 | NOK | Low | Core Inflation (MoM) (Jan) |  |  | 0.1% |
+| 07:00 | NOK | Low | CPI (MoM) (Jan) |  | -0.1% | 0.1% |
+| 07:00 | NOK | Low | CPI (YoY) (Jan) |  | 3.1% | 3.2% |
+| 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 1.954% |
+| 10:30 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 3.821% |
+| 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.470% |
+| 11:00 | USD | Low | NFIB Small Business Optimism (Jan) |  | 99.9 | 99.5 |
+| 12:00 | USD | Low | CB Employment Trends Index (Jan) |  |  | 104.27 |
+| 12:00 | BRL | Moderate | CPI (YoY) (Jan) |  | 4.43% | 4.26% |
+| 12:00 | BRL | Low | CPI (MoM) (Jan) |  | 0.32% | 0.33% |
+| 12:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Jan) |  |  | 0.26% |
+| 13:00 | BRL | Low | Auto Production (MoM) (Jan) |  |  | -15.8% |
+| 13:00 | BRL | Low | Auto Sales (MoM) (Jan) |  |  | 17.1% |
+| 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 7.75K |
+| 13:30 | USD | High | Core Retail Sales (MoM) (Dec) |  | 0.4% | 0.5% |
+| 13:30 | USD | Low | Employment Benefits (QoQ) (Q4) |  |  | 0.80% |
+| 13:30 | USD | Moderate | Employment Cost Index (QoQ) (Q4) |  | 0.8% | 0.8% |
+| 13:30 | USD | Low | Employment Wages (QoQ) (Q4) |  |  | 0.80% |
+| 13:30 | USD | Moderate | Export Price Index (MoM) (Dec) |  | 0.1% | 0.5% |
+| 13:30 | USD | Low | Export Price Index (YoY) (Dec) |  |  | 3.3% |
+| 13:30 | USD | Moderate | Import Price Index (MoM) (Dec) |  | 0.1% | 0.4% |
+| 13:30 | USD | Low | Import Price Index (YoY) (Dec) |  | 0.2% | 0.1% |
+| 13:30 | USD | Moderate | Retail Control (MoM) (Dec) |  |  | 0.4% |
+| 13:30 | USD | Low | Retail Sales (YoY) (Dec) |  |  | 3.33% |
+| 13:30 | USD | High | Retail Sales (MoM) (Dec) |  | 0.4% | 0.6% |
+| 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Dec) |  |  | 0.4% |
+| 13:55 | USD | Low | Redbook (YoY) |  |  | 6.7% |
+| 15:00 | USD | Moderate | Business Inventories (MoM) (Nov) |  | 0.2% | 0.3% |
+| 15:00 | USD | Moderate | Retail Inventories Ex Auto (Nov) |  |  | 0.3% |
+| 16:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 4.2% | 4.2% |
+| 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
+| 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 3.609% |
+| 18:00 | USD | Low | Fed Logan Speaks |  |  |  |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -11.100M |
+| 23:00 | KRW | Low | Unemployment Rate (Jan) |  |  | 4.0% |

@@ -1,15 +1,20 @@
-## 09 February 2026 - Moderate Impact Forex News
+## 10 February 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 08:00 | CHF | SECO Consumer Climate (Q1) | -30 | -30 | -37 |
-| 12:00 | MXN | CPI (MoM) (Jan) | 0.38% | 0.41% | 0.28% |
-| 12:00 | MXN | CPI (YoY) (Jan) | 3.79% | 3.82% | 3.69% |
-| 12:00 | EUR | ECB's Lane Speaks |  |  |  |
-| 15:30 | USD | NY Fed 1-Year Consumer Inflation Expectations (Jan) | 3.1% |  | 3.4% |
-| 16:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 16:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 18:30 | USD | Fed Waller Speaks |  |  |  |
-| 19:30 | GBP | BoE MPC Member Mann Speaks |  |  |  |
-| 20:15 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 22:15 | GBP | BoE MPC Member Mann Speaks |  |  |  |
+| 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Jan) | 2.3% | 1.3% | 1.0% |
+| 00:30 | AUD | Building Approvals (MoM) (Dec) | -14.9% | -14.9% | 15.2% |
+| 00:30 | AUD | NAB Business Confidence (Jan) | 3 |  | 2 |
+| 12:00 | BRL | CPI (YoY) (Jan) |  | 4.43% | 4.26% |
+| 13:15 | USD | ADP Employment Change Weekly |  |  | 7.75K |
+| 13:30 | USD | Employment Cost Index (QoQ) (Q4) |  | 0.8% | 0.8% |
+| 13:30 | USD | Export Price Index (MoM) (Dec) |  | 0.1% | 0.5% |
+| 13:30 | USD | Import Price Index (MoM) (Dec) |  | 0.1% | 0.4% |
+| 13:30 | USD | Retail Control (MoM) (Dec) |  |  | 0.4% |
+| 15:00 | USD | Business Inventories (MoM) (Nov) |  | 0.2% | 0.3% |
+| 15:00 | USD | Retail Inventories Ex Auto (Nov) |  |  | 0.3% |
+| 16:00 | EUR | German Buba Balz Speaks |  |  |  |
+| 16:30 | USD | Atlanta Fed GDPNow (Q4) |  | 4.2% | 4.2% |
+| 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
+| 18:00 | USD | 3-Year Note Auction |  |  | 3.609% |
+| 21:30 | USD | API Weekly Crude Oil Stock |  |  | -11.100M |
