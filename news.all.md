@@ -34,11 +34,11 @@
 | 13:30 | USD | Low | Import Price Index (YoY) (Dec) | 0.0% | 0.2% | 0.1% |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Dec) | -0.1% | 0.4% | 0.2% |
 | 13:30 | USD | High | Retail Sales (MoM) (Dec) | 0.0% | 0.4% | 0.6% |
-| 13:30 | USD | Low | Retail Sales (YoY) (Dec) | 2.40% |  | 3.33% |
+| 13:30 | USD | Low | Retail Sales (YoY) (Dec) | 2.43% |  | 3.26% |
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Dec) | 0.0% |  | 0.3% |
-| 17 min | USD | Low | Redbook (YoY) |  |  | 6.7% |
-| 15:00 | USD | Moderate | Business Inventories (MoM) (Nov) |  | 0.2% | 0.3% |
-| 15:00 | USD | Moderate | Retail Inventories Ex Auto (Nov) |  |  | 0.3% |
+| 13:55 | USD | Low | Redbook (YoY) | 6.5% |  | 6.7% |
+| 25 min | USD | Moderate | Business Inventories (MoM) (Nov) |  | 0.2% | 0.3% |
+| 25 min | USD | Moderate | Retail Inventories Ex Auto (Nov) |  |  | 0.3% |
 | 16:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 4.2% | 4.2% |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |

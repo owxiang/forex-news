@@ -23,8 +23,8 @@
 | 13:30 | USD | Employment Wages (QoQ) (Q4) | 0.70% |  | 0.80% |
 | 13:30 | USD | Export Price Index (YoY) (Dec) | 3.1% |  | 3.3% |
 | 13:30 | USD | Import Price Index (YoY) (Dec) | 0.0% | 0.2% | 0.1% |
-| 13:30 | USD | Retail Sales (YoY) (Dec) | 2.40% |  | 3.33% |
+| 13:30 | USD | Retail Sales (YoY) (Dec) | 2.43% |  | 3.26% |
 | 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Dec) | 0.0% |  | 0.3% |
-| 17 min | USD | Redbook (YoY) |  |  | 6.7% |
+| 13:55 | USD | Redbook (YoY) | 6.5% |  | 6.7% |
 | 18:00 | USD | Fed Logan Speaks |  |  |  |
 | 23:00 | KRW | Unemployment Rate (Jan) |  |  | 4.0% |
