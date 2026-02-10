@@ -27,4 +27,4 @@
 | 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Dec) | 0.0% |  | 0.3% |
 | 13:55 | USD | Redbook (YoY) | 6.5% |  | 6.7% |
 | 18:00 | USD | Fed Logan Speaks |  |  |  |
-| 23:00 | KRW | Unemployment Rate (Jan) |  |  | 4.0% |
+| 23:00 | KRW | Unemployment Rate (Jan) | 3.0% |  | 4.0% |
