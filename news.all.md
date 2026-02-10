@@ -10,8 +10,8 @@
 | 00:30 | AUD | Low | NAB Business Survey (Jan) | 7 |  | 9 |
 | 00:30 | AUD | Low | Private House Approvals (Dec) | 0.4% | 0.4% | 1.3% |
 | 03:00 | IDR | Low | Retail Sales (YoY) (Dec) | 3.5% |  | 6.3% |
-| 06:00 | JPY | Low | Machine Tool Orders (YoY) |  |  | 10.6% |
-| 06:30 | EUR | Low | French Unemployment Rate |  | 7.8% | 7.7% |
+| 24 min | JPY | Low | Machine Tool Orders (YoY) |  |  | 10.6% |
+| 54 min | EUR | Low | French Unemployment Rate |  | 7.8% | 7.7% |
 | 07:00 | NOK | Low | Core CPI YTD (Jan) |  | 3.0% | 3.1% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Jan) |  |  | 0.1% |
 | 07:00 | NOK | Low | CPI (YoY) (Jan) |  | 3.1% | 3.2% |
