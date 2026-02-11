@@ -7,7 +7,7 @@
 | 09:00 | EUR | Italian Industrial Production (YoY) (Dec) | 3.2% |  | 1.4% |
 | 10:00 | EUR | Italian 12-Month BOT Auction | 2.068% |  | 2.112% |
 | 10:30 | EUR | German 30-Year Bund Auction | 3.470% |  | 3.490% |
-| 11:29 | INR | M3 Money Supply | 12.0% |  | 10.7% |
+| 11:30 | INR | M3 Money Supply | 12.0% |  | 10.7% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate | 6.21% |  | 6.21% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) | -0.3% |  | -8.9% |
 | 12:00 | USD | MBA Purchase Index | 161.5 |  | 165.4 |
@@ -19,7 +19,7 @@
 | 13:30 | USD | Average Weekly Hours (Jan) | 34.3 | 34.2 | 34.2 |
 | 13:30 | USD | Government Payrolls (Jan) | -42.0K |  | -16.0K |
 | 13:30 | USD | Manufacturing Payrolls (Jan) | 5K | -5K | -8K |
-| 24 min | USD | Payrolls Benchmark |  |  | -589.00 |
+| 13:30 | USD | Payrolls Benchmark | -898.00 |  | -589.00 |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.180M |
 | 15:30 | USD | Crude Oil Imports |  |  | 1.101M |
 | 15:30 | USD | Distillate Fuel Production |  |  | -0.005M |
