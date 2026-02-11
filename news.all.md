@@ -31,8 +31,8 @@
 | 13:30 | USD | Moderate | U6 Unemployment Rate (Jan) | 8.0% |  | 8.4% |
 | 13:30 | USD | High | Unemployment Rate (Jan) | 4.3% | 4.4% | 4.4% |
 | 13:30 | CAD | Moderate | Building Permits (MoM) (Dec) | 6.8% | 4.9% | -13.2% |
-| 13:35 | USD | Low | Payrolls Benchmark | -898.00 |  | -589.00 |
-| 13:35 | USD | Moderate | Payrolls Benchmark, n.s.a. | -862.00K | -825.00K | -911.00K |
+| 13:35 | USD | Low | Payrolls Benchmark | 584.00K |  | -589.00K |
+| 13:35 | USD | Moderate | Payrolls Benchmark, n.s.a. | 181.00K |  | -911.00K |
 | 15:15 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 15:30 | USD | High | Crude Oil Inventories | 8.530M | -0.200M | -3.455M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | -0.029M |  | -0.180M |
@@ -50,11 +50,11 @@
 | 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 53.27 |  | 54.22 |
 | 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Feb) | 52.68 |  | 55.14 |
 | 17:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 4 min | BRL | Low | Foreign Exchange Flows |  |  | 4.180B |
-| 24 min | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 34 min | USD | High | 10-Year Note Auction |  |  | 4.173% |
-| 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
-| 19:00 | USD | Moderate | Federal Budget Balance (Jan) |  | -94.6B | -145.0B |
+| 17:30 | BRL | Low | Foreign Exchange Flows | -0.294B |  | 4.180B |
+| 17:50 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
+| 18:00 | USD | High | 10-Year Note Auction | 4.177% |  | 4.173% |
+| 2 min | CAD | Low | BOC Summary of Deliberations |  |  |  |
+| 32 min | USD | Moderate | Federal Budget Balance (Jan) |  | -94.6B | -145.0B |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | 713.7B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 494.6B |
 | 23:50 | JPY | Low | PPI (YoY) (Jan) |  | 2.3% | 2.4% |

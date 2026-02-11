@@ -6,4 +6,4 @@
 | 13:30 | USD | Nonfarm Payrolls (Jan) | 130K | 66K | 48K |
 | 13:30 | USD | Unemployment Rate (Jan) | 4.3% | 4.4% | 4.4% |
 | 15:30 | USD | Crude Oil Inventories | 8.530M | -0.200M | -3.455M |
-| 34 min | USD | 10-Year Note Auction |  |  | 4.173% |
+| 18:00 | USD | 10-Year Note Auction | 4.177% |  | 4.173% |
