@@ -11,15 +11,15 @@
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Dec) | 3.2% |  | 1.4% |
 | 10:00 | EUR | Low | Italian 12-Month BOT Auction | 2.068% |  | 2.112% |
 | 10:30 | EUR | Low | German 30-Year Bund Auction | 3.470% |  | 3.490% |
-| 7 min | INR | Low | M3 Money Supply |  |  | 10.5% |
-| 37 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.21% |
-| 37 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -8.9% |
-| 37 min | USD | Low | MBA Purchase Index |  |  | 165.4 |
-| 37 min | USD | Low | Mortgage Market Index |  |  | 330.8 |
-| 37 min | USD | Low | Mortgage Refinance Index |  |  | 1,269.7 |
-| 37 min | MXN | Low | Industrial Production (YoY) (Dec) |  | 1.3% | -0.8% |
-| 37 min | MXN | Low | Industrial Production (MoM) (Dec) |  | -0.2% | 0.6% |
-| 37 min | BRL | Low | Brazilian PPI (MoM) (Dec) |  |  | -0.37% |
+| 11:29 | INR | Low | M3 Money Supply | 12.0% |  | 10.7% |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.21% |  | 6.21% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | -0.3% |  | -8.9% |
+| 12:00 | USD | Low | MBA Purchase Index | 161.5 |  | 165.4 |
+| 12:00 | USD | Low | Mortgage Market Index | 329.9 |  | 330.8 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 1,284.6 |  | 1,269.7 |
+| 12:00 | MXN | Low | Industrial Production (YoY) (Dec) | 2.4% | 1.3% | -0.7% |
+| 12:00 | MXN | Low | Industrial Production (MoM) (Dec) | 0.2% | -0.2% | 0.6% |
+| 12:00 | BRL | Low | Brazilian PPI (MoM) (Dec) | 0.12% |  | -0.37% |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Jan) |  | 0.3% | 0.3% |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jan) |  | 3.6% | 3.8% |
 | 13:30 | USD | Low | Average Weekly Hours (Jan) |  | 34.2 | 34.2 |
