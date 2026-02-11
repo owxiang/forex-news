@@ -11,10 +11,10 @@
 | 13:30 | USD | Payrolls Benchmark, n.s.a. |  |  | -911.00K |
 | 13:30 | USD | Private Nonfarm Payrolls (Jan) |  | 70K | 37K |
 | 13:30 | USD | U6 Unemployment Rate (Jan) |  |  | 8.4% |
-| 13:30 | CAD | Building Permits (MoM) (Dec) |  | 5.0% | -13.1% |
+| 13:30 | CAD | Building Permits (MoM) (Dec) |  | 4.9% | -13.1% |
 | 15:15 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.743M |
 | 15:30 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 17:00 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 17:50 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 19:00 | USD | Federal Budget Balance (Jan) |  | -92.3B | -145.0B |
+| 19:00 | USD | Federal Budget Balance (Jan) |  | -94.6B | -145.0B |

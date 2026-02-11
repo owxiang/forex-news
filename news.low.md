@@ -13,8 +13,8 @@
 | 12:00 | USD | MBA Purchase Index |  |  | 165.4 |
 | 12:00 | USD | Mortgage Market Index |  |  | 330.8 |
 | 12:00 | USD | Mortgage Refinance Index |  |  | 1,269.7 |
-| 12:00 | MXN | Industrial Production (YoY) (Dec) |  |  | -0.8% |
-| 12:00 | MXN | Industrial Production (MoM) (Dec) |  |  | 0.6% |
+| 12:00 | MXN | Industrial Production (YoY) (Dec) |  | 1.3% | -0.8% |
+| 12:00 | MXN | Industrial Production (MoM) (Dec) |  | -0.2% | 0.6% |
 | 12:00 | BRL | Brazilian PPI (MoM) (Dec) |  |  | -0.37% |
 | 13:30 | USD | Average Weekly Hours (Jan) |  | 34.2 | 34.2 |
 | 13:30 | USD | Government Payrolls (Jan) |  |  | 13.0K |

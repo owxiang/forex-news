@@ -17,8 +17,8 @@
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 165.4 |
 | 12:00 | USD | Low | Mortgage Market Index |  |  | 330.8 |
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 1,269.7 |
-| 12:00 | MXN | Low | Industrial Production (YoY) (Dec) |  |  | -0.8% |
-| 12:00 | MXN | Low | Industrial Production (MoM) (Dec) |  |  | 0.6% |
+| 12:00 | MXN | Low | Industrial Production (YoY) (Dec) |  | 1.3% | -0.8% |
+| 12:00 | MXN | Low | Industrial Production (MoM) (Dec) |  | -0.2% | 0.6% |
 | 12:00 | BRL | Low | Brazilian PPI (MoM) (Dec) |  |  | -0.37% |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Jan) |  | 0.3% | 0.3% |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jan) |  | 3.6% | 3.8% |
@@ -32,9 +32,9 @@
 | 13:30 | USD | Moderate | Private Nonfarm Payrolls (Jan) |  | 70K | 37K |
 | 13:30 | USD | Moderate | U6 Unemployment Rate (Jan) |  |  | 8.4% |
 | 13:30 | USD | High | Unemployment Rate (Jan) |  | 4.4% | 4.4% |
-| 13:30 | CAD | Moderate | Building Permits (MoM) (Dec) |  | 5.0% | -13.1% |
+| 13:30 | CAD | Moderate | Building Permits (MoM) (Dec) |  | 4.9% | -13.1% |
 | 15:15 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 15:30 | USD | High | Crude Oil Inventories |  |  | -3.455M |
+| 15:30 | USD | High | Crude Oil Inventories |  | -0.200M | -3.455M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.180M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 1.101M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.743M |
@@ -54,7 +54,7 @@
 | 17:50 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 18:00 | USD | High | 10-Year Note Auction |  |  | 4.173% |
 | 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
-| 19:00 | USD | Moderate | Federal Budget Balance (Jan) |  | -92.3B | -145.0B |
+| 19:00 | USD | Moderate | Federal Budget Balance (Jan) |  | -94.6B | -145.0B |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | 713.7B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 494.6B |
 | 23:50 | JPY | Low | PPI (YoY) (Jan) |  | 2.3% | 2.4% |
