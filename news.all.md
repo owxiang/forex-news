@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | AUD | Moderate | Home Loans (MoM) (Q4) | 10.6% |  | 4.7% |
-| 00:30 | AUD | Low | Invest Housing Finance (MoM) (Q4) | 7.9% |  | 17.6% |
+| 00:30 | AUD | Moderate | Home Loans (MoM) (Q4) | 10.6% |  | 6.2% |
+| 00:30 | AUD | Low | Invest Housing Finance (MoM) (Q4) | 7.9% |  | 9.2% |
 | 01:30 | CNY | Moderate | CPI (YoY) (Jan) | 0.2% | 0.4% | 0.8% |
 | 01:30 | CNY | Moderate | CPI (MoM) (Jan) | 0.2% | 0.3% | 0.2% |
 | 01:30 | CNY | Moderate | PPI (YoY) (Jan) | -1.4% | -1.5% | -1.9% |

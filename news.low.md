@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Invest Housing Finance (MoM) (Q4) | 7.9% |  | 17.6% |
+| 00:30 | AUD | Invest Housing Finance (MoM) (Q4) | 7.9% |  | 9.2% |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Dec) |  | -0.6% | 1.5% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Dec) |  |  | 1.4% |
 | 09:30 | ZAR | Business Confidence (Dec) |  |  | 132.3 |

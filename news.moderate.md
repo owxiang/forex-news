@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Home Loans (MoM) (Q4) | 10.6% |  | 4.7% |
+| 00:30 | AUD | Home Loans (MoM) (Q4) | 10.6% |  | 6.2% |
 | 01:30 | CNY | CPI (YoY) (Jan) | 0.2% | 0.4% | 0.8% |
 | 01:30 | CNY | CPI (MoM) (Jan) | 0.2% | 0.3% | 0.2% |
 | 01:30 | CNY | PPI (YoY) (Jan) | -1.4% | -1.5% | -1.9% |
