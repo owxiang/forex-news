@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | AUD | Moderate | Home Loans (MoM) (Q4) | 10.6% |  | 6.2% |
 | 00:30 | AUD | Low | Invest Housing Finance (MoM) (Q4) | 7.9% |  | 9.2% |
-| 01:30 | CNY | Moderate | CPI (MoM) (Jan) | 0.2% | 0.3% | 0.2% |
 | 01:30 | CNY | Moderate | CPI (YoY) (Jan) | 0.2% | 0.4% | 0.8% |
+| 01:30 | CNY | Moderate | CPI (MoM) (Jan) | 0.2% | 0.3% | 0.2% |
 | 01:30 | CNY | Moderate | PPI (YoY) (Jan) | -1.4% | -1.5% | -1.9% |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Dec) | -0.4% | -0.6% | 1.5% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Dec) | 3.2% |  | 1.4% |
@@ -20,19 +20,19 @@
 | 12:00 | MXN | Low | Industrial Production (YoY) (Dec) | 2.4% | 1.3% | -0.7% |
 | 12:00 | MXN | Low | Industrial Production (MoM) (Dec) | 0.2% | -0.2% | 0.6% |
 | 12:00 | BRL | Low | Brazilian PPI (MoM) (Dec) | 0.12% |  | -0.35% |
-| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jan) | 3.7% | 3.6% | 3.7% |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Jan) | 0.4% | 0.3% | 0.1% |
+| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jan) | 3.7% | 3.6% | 3.7% |
 | 13:30 | USD | Low | Average Weekly Hours (Jan) | 34.3 | 34.2 | 34.2 |
 | 13:30 | USD | Low | Government Payrolls (Jan) | -42.0K |  | -16.0K |
 | 13:30 | USD | Low | Manufacturing Payrolls (Jan) | 5K | -5K | -8K |
 | 13:30 | USD | High | Nonfarm Payrolls (Jan) | 130K | 66K | 48K |
 | 13:30 | USD | Moderate | Participation Rate (Jan) | 62.5% |  | 62.4% |
+| 13:30 | USD | Low | Payrolls Benchmark | 584.00K |  | -589.00K |
+| 13:30 | USD | Moderate | Payrolls Benchmark, n.s.a. | 181.00K |  | -911.00K |
 | 13:30 | USD | Moderate | Private Nonfarm Payrolls (Jan) | 172K | 70K | 64K |
 | 13:30 | USD | Moderate | U6 Unemployment Rate (Jan) | 8.0% |  | 8.4% |
 | 13:30 | USD | High | Unemployment Rate (Jan) | 4.3% | 4.4% | 4.4% |
 | 13:30 | CAD | Moderate | Building Permits (MoM) (Dec) | 6.8% | 4.9% | -13.2% |
-| 13:35 | USD | Low | Payrolls Benchmark | 584.00K |  | -589.00K |
-| 13:35 | USD | Moderate | Payrolls Benchmark, n.s.a. | 181.00K |  | -911.00K |
 | 15:15 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 15:30 | USD | High | Crude Oil Inventories | 8.530M | -0.200M | -3.455M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | -0.029M |  | -0.180M |
@@ -53,8 +53,8 @@
 | 17:30 | BRL | Low | Foreign Exchange Flows | -0.294B |  | 4.180B |
 | 17:50 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 18:00 | USD | High | 10-Year Note Auction | 4.177% |  | 4.173% |
-| 2 min | CAD | Low | BOC Summary of Deliberations |  |  |  |
-| 32 min | USD | Moderate | Federal Budget Balance (Jan) |  | -94.6B | -145.0B |
+| 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
+| 19:00 | USD | Moderate | Federal Budget Balance (Jan) | -95.0B | -94.6B | -145.0B |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | 713.7B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 494.6B |
 | 23:50 | JPY | Low | PPI (YoY) (Jan) |  | 2.3% | 2.4% |
