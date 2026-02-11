@@ -34,7 +34,7 @@
 | 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Feb) | 52.68 |  | 55.14 |
 | 17:30 | BRL | Foreign Exchange Flows | -0.294B |  | 4.180B |
 | 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
-| 23:50 | JPY | Foreign Bonds Buying |  |  | 713.7B |
-| 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 494.6B |
-| 23:50 | JPY | PPI (YoY) (Jan) |  | 2.3% | 2.4% |
-| 23:50 | JPY | PPI (MoM) (Jan) |  | 0.2% | 0.1% |
+| 36 min | JPY | Foreign Bonds Buying |  |  | 713.7B |
+| 36 min | JPY | Foreign Investments in Japanese Stocks |  |  | 494.6B |
+| 36 min | JPY | PPI (YoY) (Jan) |  | 2.3% | 2.4% |
+| 36 min | JPY | PPI (MoM) (Jan) |  | 0.2% | 0.1% |

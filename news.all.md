@@ -55,7 +55,7 @@
 | 18:00 | USD | High | 10-Year Note Auction | 4.177% |  | 4.173% |
 | 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
 | 19:00 | USD | Moderate | Federal Budget Balance (Jan) | -95.0B | -94.6B | -145.0B |
-| 23:50 | JPY | Low | Foreign Bonds Buying |  |  | 713.7B |
-| 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 494.6B |
-| 23:50 | JPY | Low | PPI (YoY) (Jan) |  | 2.3% | 2.4% |
-| 23:50 | JPY | Low | PPI (MoM) (Jan) |  | 0.2% | 0.1% |
+| 36 min | JPY | Low | Foreign Bonds Buying |  |  | 713.7B |
+| 36 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 494.6B |
+| 36 min | JPY | Low | PPI (YoY) (Jan) |  | 2.3% | 2.4% |
+| 36 min | JPY | Low | PPI (MoM) (Jan) |  | 0.2% | 0.1% |
