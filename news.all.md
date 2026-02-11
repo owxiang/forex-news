@@ -1,48 +1,61 @@
-## 10 February 2026 - All Forex News
+## 11 February 2026 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | SGD | Low | GDP (YoY) (Q4) | 6.9% | 5.7% | 4.6% |
-| 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Jan) | 2.3% | 1.3% | 1.0% |
-| 00:30 | AUD | Low | Building Approvals (YoY) (Dec) | 0.40% | 0.40% | 20.20% |
-| 00:30 | AUD | Moderate | Building Approvals (MoM) (Dec) | -14.9% | -14.9% | 15.2% |
-| 00:30 | AUD | Moderate | NAB Business Confidence (Jan) | 3 |  | 2 |
-| 00:30 | AUD | Low | NAB Business Survey (Jan) | 7 |  | 9 |
-| 00:30 | AUD | Low | Private House Approvals (Dec) | 0.4% | 0.4% | 1.3% |
-| 03:00 | IDR | Low | Retail Sales (YoY) (Dec) | 3.5% |  | 6.3% |
-| 06:00 | JPY | Low | Machine Tool Orders (YoY) | 25.3% |  | 10.9% |
-| 06:30 | EUR | Low | French Unemployment Rate (Q4) | 7.9% | 7.8% | 7.7% |
-| 07:00 | NOK | Low | Core CPI YTD (Jan) | 3.4% | 3.0% | 3.1% |
-| 07:00 | NOK | Low | Core Inflation (MoM) (Jan) | 0.3% |  | 0.1% |
-| 07:00 | NOK | Low | CPI (YoY) (Jan) | 3.6% | 3.1% | 3.2% |
-| 07:00 | NOK | Low | CPI (MoM) (Jan) | 0.6% | -0.1% | 0.1% |
-| 10:00 | EUR | Low | Spanish 3-Month Letras Auction | 1.939% |  | 1.954% |
-| 10:30 | GBP | Low | 5-Year Treasury Gilt Auction | 4.001% |  | 3.821% |
-| 10:30 | EUR | Low | German 5-Year Bobl Auction | 2.400% |  | 2.470% |
-| 11:00 | USD | Low | NFIB Small Business Optimism (Jan) | 99.3 | 99.8 | 99.5 |
-| 12:00 | BRL | Moderate | CPI (YoY) (Jan) | 4.44% | 4.43% | 4.26% |
-| 12:00 | BRL | Low | CPI (MoM) (Jan) | 0.33% | 0.32% | 0.33% |
-| 12:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Jan) | 0.33% |  | 0.26% |
-| 13:15 | USD | Moderate | ADP Employment Change Weekly | 6.50K |  | 5.00K |
-| 13:30 | USD | High | Core Retail Sales (MoM) (Dec) | 0.0% | 0.3% | 0.4% |
-| 13:30 | USD | Low | Employment Benefits (QoQ) (Q4) | 0.70% |  | 0.80% |
-| 13:30 | USD | Moderate | Employment Cost Index (QoQ) (Q4) | 0.7% | 0.8% | 0.8% |
-| 13:30 | USD | Low | Employment Wages (QoQ) (Q4) | 0.70% |  | 0.80% |
-| 13:30 | USD | Moderate | Export Price Index (MoM) (Dec) | 0.3% | 0.1% | 0.5% |
-| 13:30 | USD | Low | Export Price Index (YoY) (Dec) | 3.1% |  | 3.3% |
-| 13:30 | USD | Moderate | Import Price Index (MoM) (Dec) | 0.1% | 0.1% | 0.4% |
-| 13:30 | USD | Low | Import Price Index (YoY) (Dec) | 0.0% | 0.2% | 0.1% |
-| 13:30 | USD | Moderate | Retail Control (MoM) (Dec) | -0.1% | 0.4% | 0.2% |
-| 13:30 | USD | High | Retail Sales (MoM) (Dec) | 0.0% | 0.4% | 0.6% |
-| 13:30 | USD | Low | Retail Sales (YoY) (Dec) | 2.43% |  | 3.26% |
-| 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Dec) | 0.0% |  | 0.3% |
-| 13:55 | USD | Low | Redbook (YoY) | 6.5% |  | 6.7% |
-| 15:00 | USD | Moderate | Business Inventories (MoM) (Nov) | 0.1% | 0.2% | 0.2% |
-| 15:00 | USD | Moderate | Retail Inventories Ex Auto (Nov) | 0.2% |  | 0.2% |
-| 16:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 3.7% | 4.2% | 4.2% |
-| 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
-| 18:00 | USD | Moderate | 3-Year Note Auction | 3.518% |  | 3.609% |
-| 18:00 | USD | Low | Fed Logan Speaks |  |  |  |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | 13.400M |  | -11.100M |
-| 23:00 | KRW | Low | Unemployment Rate (Jan) | 3.0% |  | 4.0% |
+| 00:30 | AUD | Moderate | Home Loans (MoM) (Q4) | 10.6% |  | 4.7% |
+| 00:30 | AUD | Low | Invest Housing Finance (MoM) (Q4) | 7.9% |  | 17.6% |
+| 44 min | CNY | Moderate | CPI (YoY) (Jan) |  | 0.4% | 0.8% |
+| 44 min | CNY | Moderate | CPI (MoM) (Jan) |  | 0.2% | 0.2% |
+| 44 min | CNY | Moderate | PPI (YoY) (Jan) |  | -1.5% | -1.9% |
+| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Dec) |  | -0.6% | 1.5% |
+| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Dec) |  |  | 1.4% |
+| 09:30 | ZAR | Low | Business Confidence (Dec) |  |  | 132.3 |
+| 10:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.112% |
+| 11:30 | INR | Low | M3 Money Supply |  |  | 10.5% |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.21% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -8.9% |
+| 12:00 | USD | Low | MBA Purchase Index |  |  | 165.4 |
+| 12:00 | USD | Low | Mortgage Market Index |  |  | 330.8 |
+| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 1,269.7 |
+| 12:00 | MXN | Low | Industrial Production (YoY) (Dec) |  |  | -0.8% |
+| 12:00 | MXN | Low | Industrial Production (MoM) (Dec) |  |  | 0.6% |
+| 12:00 | BRL | Low | Brazilian PPI (MoM) (Dec) |  |  | -0.37% |
+| 13:30 | USD | High | Average Hourly Earnings (MoM) (Jan) |  | 0.3% | 0.3% |
+| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jan) |  | 3.6% | 3.8% |
+| 13:30 | USD | Low | Average Weekly Hours (Jan) |  | 34.2 | 34.2 |
+| 13:30 | USD | Low | Government Payrolls (Jan) |  |  | 13.0K |
+| 13:30 | USD | Low | Manufacturing Payrolls (Jan) |  | -5K | -8K |
+| 13:30 | USD | High | Nonfarm Payrolls (Jan) |  | 66K | 50K |
+| 13:30 | USD | Moderate | Participation Rate (Jan) |  |  | 62.4% |
+| 13:30 | USD | Low | Payrolls Benchmark |  |  | -589.00 |
+| 13:30 | USD | Moderate | Payrolls Benchmark, n.s.a. |  |  | -911.00K |
+| 13:30 | USD | Moderate | Private Nonfarm Payrolls (Jan) |  | 70K | 37K |
+| 13:30 | USD | Moderate | U6 Unemployment Rate (Jan) |  |  | 8.4% |
+| 13:30 | USD | High | Unemployment Rate (Jan) |  | 4.4% | 4.4% |
+| 13:30 | CAD | Moderate | Building Permits (MoM) (Dec) |  | 5.0% | -13.1% |
+| 15:15 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 15:30 | USD | High | Crude Oil Inventories |  |  | -3.455M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.180M |
+| 15:30 | USD | Low | Crude Oil Imports |  |  | 1.101M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.743M |
+| 15:30 | USD | Low | Distillate Fuel Production |  |  | -0.005M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  |  | -5.553M |
+| 15:30 | USD | Low | Gasoline Production |  |  | -0.565M |
+| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | -0.160M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.4% |
+| 15:30 | USD | Low | Gasoline Inventories |  |  | 0.685M |
+| 15:30 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
+| 16:00 | USD | Low | Thomson Reuters IPSOS PCSI (Feb) |  |  | 53.81 |
+| 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Feb) |  |  | 49.28 |
+| 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Feb) |  |  | 54.22 |
+| 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Feb) |  |  | 55.14 |
+| 17:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 17:30 | BRL | Low | Foreign Exchange Flows |  |  | 4.180B |
+| 17:50 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
+| 18:00 | USD | High | 10-Year Note Auction |  |  | 4.173% |
+| 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
+| 19:00 | USD | Moderate | Federal Budget Balance (Jan) |  | -92.3B | -145.0B |
+| 23:50 | JPY | Low | Foreign Bonds Buying |  |  | 713.7B |
+| 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 494.6B |
+| 23:50 | JPY | Low | PPI (YoY) (Jan) |  | 2.3% | 2.4% |
+| 23:50 | JPY | Low | PPI (MoM) (Jan) |  | 0.2% | 0.1% |

@@ -1,20 +1,20 @@
-## 10 February 2026 - Moderate Impact Forex News
+## 11 February 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Jan) | 2.3% | 1.3% | 1.0% |
-| 00:30 | AUD | Building Approvals (MoM) (Dec) | -14.9% | -14.9% | 15.2% |
-| 00:30 | AUD | NAB Business Confidence (Jan) | 3 |  | 2 |
-| 12:00 | BRL | CPI (YoY) (Jan) | 4.44% | 4.43% | 4.26% |
-| 13:15 | USD | ADP Employment Change Weekly | 6.50K |  | 5.00K |
-| 13:30 | USD | Employment Cost Index (QoQ) (Q4) | 0.7% | 0.8% | 0.8% |
-| 13:30 | USD | Export Price Index (MoM) (Dec) | 0.3% | 0.1% | 0.5% |
-| 13:30 | USD | Import Price Index (MoM) (Dec) | 0.1% | 0.1% | 0.4% |
-| 13:30 | USD | Retail Control (MoM) (Dec) | -0.1% | 0.4% | 0.2% |
-| 15:00 | USD | Business Inventories (MoM) (Nov) | 0.1% | 0.2% | 0.2% |
-| 15:00 | USD | Retail Inventories Ex Auto (Nov) | 0.2% |  | 0.2% |
-| 16:00 | EUR | German Buba Balz Speaks |  |  |  |
-| 17:00 | USD | Atlanta Fed GDPNow (Q4) | 3.7% | 4.2% | 4.2% |
-| 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
-| 18:00 | USD | 3-Year Note Auction | 3.518% |  | 3.609% |
-| 21:30 | USD | API Weekly Crude Oil Stock | 13.400M |  | -11.100M |
+| 00:30 | AUD | Home Loans (MoM) (Q4) | 10.6% |  | 4.7% |
+| 44 min | CNY | CPI (YoY) (Jan) |  | 0.4% | 0.8% |
+| 44 min | CNY | CPI (MoM) (Jan) |  | 0.2% | 0.2% |
+| 44 min | CNY | PPI (YoY) (Jan) |  | -1.5% | -1.9% |
+| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Jan) |  | 3.6% | 3.8% |
+| 13:30 | USD | Participation Rate (Jan) |  |  | 62.4% |
+| 13:30 | USD | Payrolls Benchmark, n.s.a. |  |  | -911.00K |
+| 13:30 | USD | Private Nonfarm Payrolls (Jan) |  | 70K | 37K |
+| 13:30 | USD | U6 Unemployment Rate (Jan) |  |  | 8.4% |
+| 13:30 | CAD | Building Permits (MoM) (Dec) |  | 5.0% | -13.1% |
+| 15:15 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.743M |
+| 15:30 | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 17:00 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 17:50 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
+| 19:00 | USD | Federal Budget Balance (Jan) |  | -92.3B | -145.0B |
