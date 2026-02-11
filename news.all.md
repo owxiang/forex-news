@@ -4,9 +4,9 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | AUD | Moderate | Home Loans (MoM) (Q4) | 10.6% |  | 4.7% |
 | 00:30 | AUD | Low | Invest Housing Finance (MoM) (Q4) | 7.9% |  | 17.6% |
-| 44 min | CNY | Moderate | CPI (YoY) (Jan) |  | 0.4% | 0.8% |
-| 44 min | CNY | Moderate | CPI (MoM) (Jan) |  | 0.2% | 0.2% |
-| 44 min | CNY | Moderate | PPI (YoY) (Jan) |  | -1.5% | -1.9% |
+| 01:30 | CNY | Moderate | CPI (YoY) (Jan) | 0.2% | 0.4% | 0.8% |
+| 01:30 | CNY | Moderate | CPI (MoM) (Jan) | 0.2% | 0.3% | 0.2% |
+| 01:30 | CNY | Moderate | PPI (YoY) (Jan) | -1.4% | -1.5% | -1.9% |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Dec) |  | -0.6% | 1.5% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Dec) |  |  | 1.4% |
 | 09:30 | ZAR | Low | Business Confidence (Dec) |  |  | 132.3 |
