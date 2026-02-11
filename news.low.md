@@ -1,12 +1,12 @@
-## None - Low Impact Forex News
+## 11 February 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Invest Housing Finance (MoM) (Q4) | 7.9% |  | 9.2% |
-| 09:00 | EUR | Italian Industrial Production (MoM) (Dec) |  | -0.6% | 1.5% |
-| 09:00 | EUR | Italian Industrial Production (YoY) (Dec) |  |  | 1.4% |
-| 09:30 | ZAR | Business Confidence (Dec) |  |  | 132.3 |
-| 10:10 | EUR | Italian 12-Month BOT Auction |  |  | 2.112% |
+| 09:00 | EUR | Italian Industrial Production (MoM) (Dec) | -0.4% | -0.6% | 1.5% |
+| 09:00 | EUR | Italian Industrial Production (YoY) (Dec) | 3.2% |  | 1.4% |
+| 7 min | ZAR | Business Confidence (Dec) |  |  | 132.3 |
+| 47 min | EUR | Italian 12-Month BOT Auction |  |  | 2.112% |
 | 11:30 | INR | M3 Money Supply |  |  | 10.5% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.21% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -8.9% |

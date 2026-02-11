@@ -1,4 +1,4 @@
-## None - All Forex News
+## 11 February 2026 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
@@ -7,10 +7,10 @@
 | 01:30 | CNY | Moderate | CPI (YoY) (Jan) | 0.2% | 0.4% | 0.8% |
 | 01:30 | CNY | Moderate | CPI (MoM) (Jan) | 0.2% | 0.3% | 0.2% |
 | 01:30 | CNY | Moderate | PPI (YoY) (Jan) | -1.4% | -1.5% | -1.9% |
-| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Dec) |  | -0.6% | 1.5% |
-| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Dec) |  |  | 1.4% |
-| 09:30 | ZAR | Low | Business Confidence (Dec) |  |  | 132.3 |
-| 10:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.112% |
+| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Dec) | -0.4% | -0.6% | 1.5% |
+| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Dec) | 3.2% |  | 1.4% |
+| 7 min | ZAR | Low | Business Confidence (Dec) |  |  | 132.3 |
+| 47 min | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.112% |
 | 11:30 | INR | Low | M3 Money Supply |  |  | 10.5% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.21% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -8.9% |
