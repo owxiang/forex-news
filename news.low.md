@@ -15,11 +15,11 @@
 | 12:00 | USD | Mortgage Refinance Index | 1,284.6 |  | 1,269.7 |
 | 12:00 | MXN | Industrial Production (YoY) (Dec) | 2.4% | 1.3% | -0.7% |
 | 12:00 | MXN | Industrial Production (MoM) (Dec) | 0.2% | -0.2% | 0.6% |
-| 12:00 | BRL | Brazilian PPI (MoM) (Dec) | 0.12% |  | -0.37% |
-| 13:30 | USD | Average Weekly Hours (Jan) |  | 34.2 | 34.2 |
-| 13:30 | USD | Government Payrolls (Jan) |  |  | 13.0K |
-| 13:30 | USD | Manufacturing Payrolls (Jan) |  | -5K | -8K |
-| 13:30 | USD | Payrolls Benchmark |  |  | -589.00 |
+| 12:00 | BRL | Brazilian PPI (MoM) (Dec) | 0.12% |  | -0.35% |
+| 13:30 | USD | Average Weekly Hours (Jan) | 34.3 | 34.2 | 34.2 |
+| 13:30 | USD | Government Payrolls (Jan) | -42.0K |  | -16.0K |
+| 13:30 | USD | Manufacturing Payrolls (Jan) | 5K | -5K | -8K |
+| 24 min | USD | Payrolls Benchmark |  |  | -589.00 |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.180M |
 | 15:30 | USD | Crude Oil Imports |  |  | 1.101M |
 | 15:30 | USD | Distillate Fuel Production |  |  | -0.005M |
