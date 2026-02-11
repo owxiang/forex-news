@@ -9,16 +9,15 @@
 | 01:30 | CNY | Moderate | PPI (YoY) (Jan) | -1.4% | -1.5% | -1.9% |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Dec) | -0.4% | -0.6% | 1.5% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Dec) | 3.2% |  | 1.4% |
-| 7 min | ZAR | Low | Business Confidence (Dec) |  |  | 132.3 |
-| 47 min | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.112% |
+| 10:00 | EUR | Low | Italian 12-Month BOT Auction | 2.068% |  | 2.112% |
 | 11:30 | INR | Low | M3 Money Supply |  |  | 10.5% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.21% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -8.9% |
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 165.4 |
 | 12:00 | USD | Low | Mortgage Market Index |  |  | 330.8 |
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 1,269.7 |
-| 12:00 | MXN | Low | Industrial Production (YoY) (Dec) |  | 1.3% | -0.8% |
 | 12:00 | MXN | Low | Industrial Production (MoM) (Dec) |  | -0.2% | 0.6% |
+| 12:00 | MXN | Low | Industrial Production (YoY) (Dec) |  | 1.3% | -0.8% |
 | 12:00 | BRL | Low | Brazilian PPI (MoM) (Dec) |  |  | -0.37% |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Jan) |  | 0.3% | 0.3% |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jan) |  | 3.6% | 3.8% |

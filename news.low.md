@@ -5,16 +5,15 @@
 | 00:30 | AUD | Invest Housing Finance (MoM) (Q4) | 7.9% |  | 9.2% |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Dec) | -0.4% | -0.6% | 1.5% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Dec) | 3.2% |  | 1.4% |
-| 7 min | ZAR | Business Confidence (Dec) |  |  | 132.3 |
-| 47 min | EUR | Italian 12-Month BOT Auction |  |  | 2.112% |
+| 10:00 | EUR | Italian 12-Month BOT Auction | 2.068% |  | 2.112% |
 | 11:30 | INR | M3 Money Supply |  |  | 10.5% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.21% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -8.9% |
 | 12:00 | USD | MBA Purchase Index |  |  | 165.4 |
 | 12:00 | USD | Mortgage Market Index |  |  | 330.8 |
 | 12:00 | USD | Mortgage Refinance Index |  |  | 1,269.7 |
-| 12:00 | MXN | Industrial Production (YoY) (Dec) |  | 1.3% | -0.8% |
 | 12:00 | MXN | Industrial Production (MoM) (Dec) |  | -0.2% | 0.6% |
+| 12:00 | MXN | Industrial Production (YoY) (Dec) |  | 1.3% | -0.8% |
 | 12:00 | BRL | Brazilian PPI (MoM) (Dec) |  |  | -0.37% |
 | 13:30 | USD | Average Weekly Hours (Jan) |  | 34.2 | 34.2 |
 | 13:30 | USD | Government Payrolls (Jan) |  |  | 13.0K |
