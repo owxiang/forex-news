@@ -20,7 +20,7 @@
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Dec) | 0.1% | 0.2% | -0.1% |
 | 07:00 | GBP | Moderate | Trade Balance (Dec) | -22.72B | -22.30B | -23.58B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Dec) | -10.99B |  | -11.33B |
-| 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
+| 40 min | USD | Moderate | IEA Monthly Report |  |  |  |
 | 09:30 | ZAR | Low | Gold Production (YoY) (Dec) |  |  | -6.0% |
 | 09:30 | ZAR | Low | Mining Production (Dec) |  |  | -2.7% |
 | 10:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 2.48% |
@@ -39,11 +39,11 @@
 | 12:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Dec) |  |  | -0.1% |
 | 12:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Dec) |  |  | 2.5% |
 | 12:30 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 13:00 | EUR | Low | German Current Account Balance n.s.a (Dec) |  |  | 15.1B |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,850K | 1,844K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 222K | 231K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 212.25K |
 | 13:45 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
+| 13:45 | EUR | Low | German Current Account Balance n.s.a (Dec) |  |  | 15.1B |
 | 15:00 | USD | High | Existing Home Sales (Jan) |  | 4.16M | 4.35M |
 | 15:00 | USD | Moderate | Existing Home Sales (MoM) (Jan) |  |  | 5.1% |
 | 15:30 | USD | Low | Natural Gas Storage |  | -256B | -360B |

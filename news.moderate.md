@@ -8,7 +8,7 @@
 | 07:00 | GBP | Monthly GDP 3M/3M Change (Dec) | 0.1% | 0.2% | -0.1% |
 | 07:00 | GBP | Trade Balance (Dec) | -22.72B | -22.30B | -23.58B |
 | 07:00 | GBP | Trade Balance Non-EU (Dec) | -10.99B |  | -11.33B |
-| 09:00 | USD | IEA Monthly Report |  |  |  |
+| 40 min | USD | IEA Monthly Report |  |  |  |
 | 10:30 | INR | CPI (YoY) (Jan) |  | 2.40% | 1.33% |
 | 12:00 | GBP | NIESR Monthly GDP Tracker (Jan) |  |  | -0.1% |
 | 12:30 | EUR | ECB's Schnabel Speaks |  |  |  |

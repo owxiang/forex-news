@@ -26,8 +26,8 @@
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Feb) |  |  | 49.27 |
 | 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Dec) |  |  | -0.1% |
 | 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Dec) |  |  | 2.5% |
-| 13:00 | EUR | German Current Account Balance n.s.a (Dec) |  |  | 15.1B |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 212.25K |
+| 13:45 | EUR | German Current Account Balance n.s.a (Dec) |  |  | 15.1B |
 | 15:30 | USD | Natural Gas Storage |  | -256B | -360B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.630% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 3.630% |
