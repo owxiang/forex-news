@@ -4,20 +4,19 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | USD | Low | Fed Logan Speaks |  |  |  |
 | 00:00 | AUD | Low | MI Inflation Expectations (Feb) | 5.0% |  | 4.6% |
-| 25 min | JPY | Low | Machine Tool Orders (YoY) (Jan) |  |  | 10.6% |
 | 07:00 | GBP | Moderate | Business Investment (QoQ) (Q4) |  | 0.4% | 1.5% |
 | 07:00 | GBP | Low | Business Investment (YoY) (Q4) |  |  | 2.7% |
-| 07:00 | GBP | Low | Construction Output (MoM) (Dec) |  | 0.5% | -1.3% |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (Dec) |  | 0.0% | -1.1% |
-| 07:00 | GBP | High | GDP (QoQ) (Q4) |  | 0.2% | 0.1% |
-| 07:00 | GBP | High | GDP (YoY) (Q4) |  | 1.2% | 1.3% |
+| 07:00 | GBP | Low | Construction Output (MoM) (Dec) |  | 0.5% | -1.3% |
 | 07:00 | GBP | High | GDP (MoM) (Dec) |  | 0.1% | 0.3% |
+| 07:00 | GBP | High | GDP (YoY) (Q4) |  | 1.2% | 1.3% |
+| 07:00 | GBP | High | GDP (QoQ) (Q4) |  | 0.2% | 0.1% |
 | 07:00 | GBP | Low | GDP (YoY) (Dec) |  | 1.1% | 1.4% |
 | 07:00 | GBP | Low | Index of Services |  | 0.2% | 0.2% |
-| 07:00 | GBP | Moderate | Industrial Production (MoM) (Dec) |  | -0.1% | 1.1% |
 | 07:00 | GBP | Low | Industrial Production (YoY) (Dec) |  | 1.5% | 2.3% |
-| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Dec) |  | -0.2% | 2.1% |
+| 07:00 | GBP | Moderate | Industrial Production (MoM) (Dec) |  | -0.1% | 1.1% |
 | 07:00 | GBP | Low | Manufacturing Production (YoY) (Dec) |  | 1.8% | 2.1% |
+| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Dec) |  | -0.2% | 2.1% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Dec) |  | 0.2% | 0.1% |
 | 07:00 | GBP | Moderate | Trade Balance (Dec) |  | -22.30B | -23.71B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Dec) |  |  | -11.46B |
@@ -33,8 +32,8 @@
 | 11:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Feb) |  |  | 46.35 |
 | 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Feb) |  |  | 39.77 |
 | 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Feb) |  |  | 49.23 |
-| 11:00 | ZAR | Low | Manufacturing Production (YoY) (Dec) |  |  | -1.0% |
 | 11:00 | ZAR | Low | Manufacturing Production (MoM) (Dec) |  |  | -1.1% |
+| 11:00 | ZAR | Low | Manufacturing Production (YoY) (Dec) |  |  | -1.0% |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Feb) |  |  | 49.27 |
 | 12:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Jan) |  |  | -0.1% |
 | 12:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Dec) |  |  | -0.1% |

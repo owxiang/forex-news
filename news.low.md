@@ -4,10 +4,9 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | USD | Fed Logan Speaks |  |  |  |
 | 00:00 | AUD | MI Inflation Expectations (Feb) | 5.0% |  | 4.6% |
-| 25 min | JPY | Machine Tool Orders (YoY) (Jan) |  |  | 10.6% |
 | 07:00 | GBP | Business Investment (YoY) (Q4) |  |  | 2.7% |
-| 07:00 | GBP | Construction Output (MoM) (Dec) |  | 0.5% | -1.3% |
 | 07:00 | GBP | U.K. Construction Output (YoY) (Dec) |  | 0.0% | -1.1% |
+| 07:00 | GBP | Construction Output (MoM) (Dec) |  | 0.5% | -1.3% |
 | 07:00 | GBP | GDP (YoY) (Dec) |  | 1.1% | 1.4% |
 | 07:00 | GBP | Index of Services |  | 0.2% | 0.2% |
 | 07:00 | GBP | Industrial Production (YoY) (Dec) |  | 1.5% | 2.3% |
@@ -22,8 +21,8 @@
 | 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Feb) |  |  | 46.35 |
 | 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Feb) |  |  | 39.77 |
 | 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Feb) |  |  | 49.23 |
-| 11:00 | ZAR | Manufacturing Production (YoY) (Dec) |  |  | -1.0% |
 | 11:00 | ZAR | Manufacturing Production (MoM) (Dec) |  |  | -1.1% |
+| 11:00 | ZAR | Manufacturing Production (YoY) (Dec) |  |  | -1.0% |
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Feb) |  |  | 49.27 |
 | 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Dec) |  |  | -0.1% |
 | 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Dec) |  |  | 2.5% |
