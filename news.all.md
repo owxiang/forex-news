@@ -50,15 +50,15 @@
 | 16:30 | USD | Low | 8-Week Bill Auction | 3.630% |  | 3.630% |
 | 18:00 | USD | High | 30-Year Bond Auction | 4.750% |  | 4.825% |
 | 18:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 3 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 21:00 | KRW | Low | Export Price Index (YoY) (Jan) |  |  | 5.5% |
-| 21:00 | KRW | Low | Import Price Index (YoY) (Jan) |  |  | 0.3% |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,606B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.937T |
-| 21:30 | NZD | Moderate | Business NZ PMI (Jan) |  |  | 56.1 |
-| 21:45 | NZD | Low | External Migration & Visitors (Dec) |  |  | 8.20% |
-| 21:45 | NZD | Low | Permanent/Long-Term Migration (Dec) |  |  | 990 |
-| 21:45 | NZD | Low | Visitor Arrivals (MoM) |  |  | 0.8% |
+| 19:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 21:00 | KRW | Low | Export Price Index (YoY) (Jan) | 7.8% |  | 5.0% |
+| 21:00 | KRW | Low | Import Price Index (YoY) (Jan) | -1.2% |  | 0.5% |
+| 16 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,606B |
+| 16 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.937T |
+| 16 min | NZD | Moderate | Business NZ PMI (Jan) |  |  | 56.1 |
+| 31 min | NZD | Low | External Migration & Visitors (Dec) |  |  | 8.20% |
+| 31 min | NZD | Low | Permanent/Long-Term Migration (Dec) |  |  | 990 |
+| 31 min | NZD | Low | Visitor Arrivals (MoM) |  |  | 0.8% |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | 713.7B |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | 713.7B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 494.6B |
