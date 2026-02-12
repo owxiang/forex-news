@@ -49,8 +49,8 @@
 | 16:30 | USD | Low | 4-Week Bill Auction | 3.630% |  | 3.630% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 3.630% |  | 3.630% |
 | 18:00 | USD | High | 30-Year Bond Auction | 4.750% |  | 4.825% |
-| 3 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 19:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 18:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 3 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 21:00 | KRW | Low | Export Price Index (YoY) (Jan) |  |  | 5.5% |
 | 21:00 | KRW | Low | Import Price Index (YoY) (Jan) |  |  | 0.3% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,606B |
