@@ -1,20 +1,20 @@
-## 11 February 2026 - Moderate Impact Forex News
+## 12 February 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Home Loans (MoM) (Q4) | 10.6% |  | 6.2% |
-| 01:30 | CNY | CPI (YoY) (Jan) | 0.2% | 0.4% | 0.8% |
-| 01:30 | CNY | CPI (MoM) (Jan) | 0.2% | 0.3% | 0.2% |
-| 01:30 | CNY | PPI (YoY) (Jan) | -1.4% | -1.5% | -1.9% |
-| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Jan) | 3.7% | 3.6% | 3.7% |
-| 13:30 | USD | Participation Rate (Jan) | 62.5% |  | 62.4% |
-| 13:30 | USD | Payrolls Benchmark, n.s.a. | 181.00K |  | -911.00K |
-| 13:30 | USD | Private Nonfarm Payrolls (Jan) | 172K | 70K | 64K |
-| 13:30 | USD | U6 Unemployment Rate (Jan) | 8.0% |  | 8.4% |
-| 13:30 | CAD | Building Permits (MoM) (Dec) | 6.8% | 4.9% | -13.2% |
-| 15:15 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 15:30 | USD | Cushing Crude Oil Inventories | 1.071M |  | -0.743M |
-| 15:30 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 17:00 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 17:50 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 19:00 | USD | Federal Budget Balance (Jan) | -95.0B | -94.6B | -145.0B |
+| 07:00 | GBP | Business Investment (QoQ) (Q4) |  | 0.4% | 1.5% |
+| 07:00 | GBP | Industrial Production (MoM) (Dec) |  | -0.1% | 1.1% |
+| 07:00 | GBP | Manufacturing Production (MoM) (Dec) |  | -0.2% | 2.1% |
+| 07:00 | GBP | Monthly GDP 3M/3M Change (Dec) |  | 0.2% | 0.1% |
+| 07:00 | GBP | Trade Balance (Dec) |  | -22.30B | -23.71B |
+| 07:00 | GBP | Trade Balance Non-EU (Dec) |  |  | -11.46B |
+| 09:00 | USD | IEA Monthly Report |  |  |  |
+| 10:30 | INR | CPI (YoY) (Jan) |  | 2.40% | 1.33% |
+| 12:00 | GBP | NIESR Monthly GDP Tracker (Jan) |  |  | -0.1% |
+| 13:30 | USD | Continuing Jobless Claims |  | 1,850K | 1,844K |
+| 13:45 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
+| 15:00 | USD | Existing Home Sales (MoM) (Jan) |  |  | 5.1% |
+| 18:30 | EUR | ECB's Lane Speaks |  |  |  |
+| 19:30 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 6,606B |
+| 21:30 | NZD | Business NZ PMI (Jan) |  |  | 56.1 |
