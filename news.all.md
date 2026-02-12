@@ -53,13 +53,13 @@
 | 19:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 21:00 | KRW | Low | Export Price Index (YoY) (Jan) | 7.8% |  | 5.0% |
 | 21:00 | KRW | Low | Import Price Index (YoY) (Jan) | -1.2% |  | 0.5% |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,606B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.937T |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,622B |  | 6,606B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 2.958T |  | 2.937T |
 | 21:30 | NZD | Moderate | Business NZ PMI (Jan) | 55.2 |  | 56.1 |
 | 21:45 | NZD | Low | External Migration & Visitors (Dec) | 7.00% |  | 8.20% |
 | 21:45 | NZD | Low | Permanent/Long-Term Migration (Dec) | 2,870 |  | 1,560 |
 | 21:45 | NZD | Low | Visitor Arrivals (MoM) | 1.7% |  | 0.8% |
-| 23:50 | JPY | Low | Foreign Bonds Buying |  |  | 713.7B |
-| 23:50 | JPY | Low | Foreign Bonds Buying |  |  | 713.7B |
-| 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 494.6B |
-| 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 494.6B |
+| 38 min | JPY | Low | Foreign Bonds Buying |  |  | 713.7B |
+| 38 min | JPY | Low | Foreign Bonds Buying |  |  | 713.7B |
+| 38 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 494.6B |
+| 38 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 494.6B |

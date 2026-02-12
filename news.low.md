@@ -32,11 +32,11 @@
 | 16:30 | USD | 8-Week Bill Auction | 3.630% |  | 3.630% |
 | 21:00 | KRW | Export Price Index (YoY) (Jan) | 7.8% |  | 5.0% |
 | 21:00 | KRW | Import Price Index (YoY) (Jan) | -1.2% |  | 0.5% |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.937T |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 2.958T |  | 2.937T |
 | 21:45 | NZD | External Migration & Visitors (Dec) | 7.00% |  | 8.20% |
 | 21:45 | NZD | Permanent/Long-Term Migration (Dec) | 2,870 |  | 1,560 |
 | 21:45 | NZD | Visitor Arrivals (MoM) | 1.7% |  | 0.8% |
-| 23:50 | JPY | Foreign Bonds Buying |  |  | 713.7B |
-| 23:50 | JPY | Foreign Bonds Buying |  |  | 713.7B |
-| 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 494.6B |
-| 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 494.6B |
+| 38 min | JPY | Foreign Bonds Buying |  |  | 713.7B |
+| 38 min | JPY | Foreign Bonds Buying |  |  | 713.7B |
+| 38 min | JPY | Foreign Investments in Japanese Stocks |  |  | 494.6B |
+| 38 min | JPY | Foreign Investments in Japanese Stocks |  |  | 494.6B |
