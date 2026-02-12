@@ -20,11 +20,11 @@
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Dec) | 0.1% | 0.2% | -0.1% |
 | 07:00 | GBP | Moderate | Trade Balance (Dec) | -22.72B | -22.30B | -23.58B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Dec) | -10.99B |  | -11.33B |
-| 40 min | USD | Moderate | IEA Monthly Report |  |  |  |
-| 09:30 | ZAR | Low | Gold Production (YoY) (Dec) |  |  | -6.0% |
-| 09:30 | ZAR | Low | Mining Production (Dec) |  |  | -2.7% |
-| 10:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 2.48% |
-| 10:10 | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.00% |
+| 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
+| 7 min | ZAR | Low | Gold Production (YoY) (Dec) |  |  | -6.0% |
+| 7 min | ZAR | Low | Mining Production (Dec) |  |  | -2.7% |
+| 47 min | EUR | Low | Italian 3-Year BTP Auction |  |  | 2.48% |
+| 47 min | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.00% |
 | 10:30 | INR | Moderate | CPI (YoY) (Jan) |  | 2.40% | 1.33% |
 | 10:30 | ZAR | Low | Business Confidence (Dec) |  |  | 132.3 |
 | 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Feb) |  |  | 49.2 |

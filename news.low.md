@@ -11,10 +11,10 @@
 | 07:00 | GBP | Index of Services | 0.0% | 0.2% | 0.2% |
 | 07:00 | GBP | Industrial Production (YoY) (Dec) | 0.5% | 1.5% | 2.3% |
 | 07:00 | GBP | Manufacturing Production (YoY) (Dec) | 0.5% | 1.8% | 1.3% |
-| 09:30 | ZAR | Gold Production (YoY) (Dec) |  |  | -6.0% |
-| 09:30 | ZAR | Mining Production (Dec) |  |  | -2.7% |
-| 10:10 | EUR | Italian 3-Year BTP Auction |  |  | 2.48% |
-| 10:10 | EUR | Italian 7-Year BTP Auction |  |  | 3.00% |
+| 7 min | ZAR | Gold Production (YoY) (Dec) |  |  | -6.0% |
+| 7 min | ZAR | Mining Production (Dec) |  |  | -2.7% |
+| 47 min | EUR | Italian 3-Year BTP Auction |  |  | 2.48% |
+| 47 min | EUR | Italian 7-Year BTP Auction |  |  | 3.00% |
 | 10:30 | ZAR | Business Confidence (Dec) |  |  | 132.3 |
 | 11:00 | GBP | Thomson Reuters IPSOS PCSI (Feb) |  |  | 49.2 |
 | 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Feb) |  |  | 47.69 |
