@@ -15,7 +15,7 @@
 | 13:30 | USD | Continuing Jobless Claims | 1,862K | 1,850K | 1,841K |
 | 13:45 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 15:00 | USD | Existing Home Sales (MoM) (Jan) | -8.4% |  | 4.4% |
-| 18:30 | EUR | ECB's Lane Speaks |  |  |  |
+| 3 min | EUR | ECB's Lane Speaks |  |  |  |
 | 19:30 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,606B |
 | 21:30 | NZD | Business NZ PMI (Jan) |  |  | 56.1 |

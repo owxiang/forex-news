@@ -48,8 +48,8 @@
 | 15:30 | USD | Low | Natural Gas Storage | -249B | -256B | -360B |
 | 16:30 | USD | Low | 4-Week Bill Auction | 3.630% |  | 3.630% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 3.630% |  | 3.630% |
-| 34 min | USD | High | 30-Year Bond Auction |  |  | 4.825% |
-| 18:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 18:00 | USD | High | 30-Year Bond Auction | 4.750% |  | 4.825% |
+| 3 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 19:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 21:00 | KRW | Low | Export Price Index (YoY) (Jan) |  |  | 5.5% |
 | 21:00 | KRW | Low | Import Price Index (YoY) (Jan) |  |  | 0.3% |
