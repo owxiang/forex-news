@@ -19,14 +19,14 @@
 | 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Feb) | 48.07 |  | 47.69 |
 | 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Feb) | 47.07 |  | 46.35 |
 | 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Feb) | 41.15 |  | 39.77 |
-| 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 49.99 |  | 49.23 |
+| 11:00 | EUR | Thomson Reuters IPSOS PCSI (Feb) | 49.99 |  | 49.23 |
 | 11:00 | ZAR | Manufacturing Production (MoM) (Dec) | -1.2% |  | -2.1% |
 | 11:00 | ZAR | Manufacturing Production (YoY) (Dec) | -1.4% |  | -2.0% |
-| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 48.57 |  | 49.27 |
+| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (Feb) | 48.57 |  | 49.27 |
 | 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Dec) | -0.4% |  | 0.0% |
 | 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Dec) | 3.4% |  | 2.7% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 212.25K |
-| 13:45 | EUR | German Current Account Balance n.s.a (Dec) |  |  | 15.1B |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 219.50K |  | 212.50K |
+| 9 min | EUR | German Current Account Balance n.s.a (Dec) |  |  | 15.1B |
 | 15:30 | USD | Natural Gas Storage |  | -256B | -360B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.630% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 3.630% |

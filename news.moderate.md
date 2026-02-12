@@ -10,10 +10,10 @@
 | 07:00 | GBP | Trade Balance Non-EU (Dec) | -10.99B |  | -11.33B |
 | 09:00 | USD | IEA Monthly Report |  |  |  |
 | 10:30 | INR | CPI (YoY) (Jan) | 2.75% | 2.40% | 1.33% |
-| 8 min | GBP | NIESR Monthly GDP Tracker (Jan) |  |  | -0.1% |
-| 8 min | EUR | ECB's Schnabel Speaks |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims |  | 1,850K | 1,844K |
-| 13:45 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
+| 12:30 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 13:30 | USD | Continuing Jobless Claims | 1,862K | 1,850K | 1,841K |
+| 9 min | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
+| 24 min | GBP | NIESR Monthly GDP Tracker (Jan) |  |  | -0.1% |
 | 15:00 | USD | Existing Home Sales (MoM) (Jan) |  |  | 5.1% |
 | 18:30 | EUR | ECB's Lane Speaks |  |  |  |
 | 19:30 | EUR | German Buba President Nagel Speaks |  |  |  |
