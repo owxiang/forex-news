@@ -27,9 +27,9 @@
 | 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Dec) | 3.4% |  | 2.7% |
 | 13:00 | EUR | German Current Account Balance n.s.a (Dec) | 16.1B |  | 14.2B |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 219.50K |  | 212.50K |
-| 15:30 | USD | Natural Gas Storage |  | -256B | -360B |
-| 16:30 | USD | 4-Week Bill Auction |  |  | 3.630% |
-| 16:30 | USD | 8-Week Bill Auction |  |  | 3.630% |
+| 15:30 | USD | Natural Gas Storage | -249B | -256B | -360B |
+| 16:30 | USD | 4-Week Bill Auction | 3.630% |  | 3.630% |
+| 16:30 | USD | 8-Week Bill Auction | 3.630% |  | 3.630% |
 | 21:00 | KRW | Export Price Index (YoY) (Jan) |  |  | 5.5% |
 | 21:00 | KRW | Import Price Index (YoY) (Jan) |  |  | 0.3% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.937T |

@@ -43,12 +43,12 @@
 | 13:30 | USD | High | Initial Jobless Claims | 227K | 222K | 232K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 219.50K |  | 212.50K |
 | 13:45 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
-| 34 min | USD | High | Existing Home Sales (Jan) |  | 4.16M | 4.35M |
-| 34 min | USD | Moderate | Existing Home Sales (MoM) (Jan) |  |  | 5.1% |
-| 15:30 | USD | Low | Natural Gas Storage |  | -256B | -360B |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.630% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.630% |
-| 18:01 | USD | High | 30-Year Bond Auction |  |  | 4.825% |
+| 15:00 | USD | High | Existing Home Sales (Jan) | 3.91M | 4.16M | 4.27M |
+| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Jan) | -8.4% |  | 4.4% |
+| 15:30 | USD | Low | Natural Gas Storage | -249B | -256B | -360B |
+| 16:30 | USD | Low | 4-Week Bill Auction | 3.630% |  | 3.630% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 3.630% |  | 3.630% |
+| 34 min | USD | High | 30-Year Bond Auction |  |  | 4.825% |
 | 18:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 19:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 21:00 | KRW | Low | Export Price Index (YoY) (Jan) |  |  | 5.5% |
