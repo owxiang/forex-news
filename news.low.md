@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | USD | Fed Logan Speaks |  |  |  |
 | 00:00 | AUD | MI Inflation Expectations (Feb) | 5.0% |  | 4.6% |
-| 06:00 | JPY | Machine Tool Orders (YoY) (Jan) |  |  | 10.6% |
+| 25 min | JPY | Machine Tool Orders (YoY) (Jan) |  |  | 10.6% |
 | 07:00 | GBP | Business Investment (YoY) (Q4) |  |  | 2.7% |
 | 07:00 | GBP | Construction Output (MoM) (Dec) |  | 0.5% | -1.3% |
 | 07:00 | GBP | U.K. Construction Output (YoY) (Dec) |  | 0.0% | -1.1% |

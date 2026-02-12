@@ -4,7 +4,7 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | USD | Low | Fed Logan Speaks |  |  |  |
 | 00:00 | AUD | Low | MI Inflation Expectations (Feb) | 5.0% |  | 4.6% |
-| 06:00 | JPY | Low | Machine Tool Orders (YoY) (Jan) |  |  | 10.6% |
+| 25 min | JPY | Low | Machine Tool Orders (YoY) (Jan) |  |  | 10.6% |
 | 07:00 | GBP | Moderate | Business Investment (QoQ) (Q4) |  | 0.4% | 1.5% |
 | 07:00 | GBP | Low | Business Investment (YoY) (Q4) |  |  | 2.7% |
 | 07:00 | GBP | Low | Construction Output (MoM) (Dec) |  | 0.5% | -1.3% |
@@ -39,6 +39,7 @@
 | 12:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Jan) |  |  | -0.1% |
 | 12:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Dec) |  |  | -0.1% |
 | 12:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Dec) |  |  | 2.5% |
+| 12:30 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 13:00 | EUR | Low | German Current Account Balance n.s.a (Dec) |  |  | 15.1B |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,850K | 1,844K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 222K | 231K |
