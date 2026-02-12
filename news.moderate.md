@@ -17,5 +17,5 @@
 | 15:00 | USD | Existing Home Sales (MoM) (Jan) | -8.4% |  | 4.4% |
 | 18:30 | EUR | ECB's Lane Speaks |  |  |  |
 | 19:30 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 16 min | USD | Fed's Balance Sheet |  |  | 6,606B |
-| 16 min | NZD | Business NZ PMI (Jan) |  |  | 56.1 |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 6,606B |
+| 21:30 | NZD | Business NZ PMI (Jan) | 55.2 |  | 56.1 |
