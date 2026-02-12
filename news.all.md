@@ -37,14 +37,14 @@
 | 12:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Dec) | -0.4% |  | 0.0% |
 | 12:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Dec) | 3.4% |  | 2.7% |
 | 12:30 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 13:00 | EUR | Low | German Current Account Balance n.s.a (Dec) | 16.1B |  | 14.2B |
+| 13:30 | GBP | Moderate | NIESR Monthly GDP Tracker (Jan) | 0.3% |  | -0.1% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,862K | 1,850K | 1,841K |
 | 13:30 | USD | High | Initial Jobless Claims | 227K | 222K | 232K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 219.50K |  | 212.50K |
-| 9 min | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
-| 9 min | EUR | Low | German Current Account Balance n.s.a (Dec) |  |  | 15.1B |
-| 24 min | GBP | Moderate | NIESR Monthly GDP Tracker (Jan) |  |  | -0.1% |
-| 15:00 | USD | High | Existing Home Sales (Jan) |  | 4.16M | 4.35M |
-| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Jan) |  |  | 5.1% |
+| 13:45 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
+| 34 min | USD | High | Existing Home Sales (Jan) |  | 4.16M | 4.35M |
+| 34 min | USD | Moderate | Existing Home Sales (MoM) (Jan) |  |  | 5.1% |
 | 15:30 | USD | Low | Natural Gas Storage |  | -256B | -360B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.630% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.630% |
