@@ -9,7 +9,7 @@
 | 07:00 | GBP | Trade Balance (Dec) | -22.72B | -22.30B | -23.58B |
 | 07:00 | GBP | Trade Balance Non-EU (Dec) | -10.99B |  | -11.33B |
 | 09:00 | USD | IEA Monthly Report |  |  |  |
-| 10:30 | INR | CPI (YoY) (Jan) |  | 2.40% | 1.33% |
+| 8 min | INR | CPI (YoY) (Jan) |  | 2.40% | 1.33% |
 | 12:00 | GBP | NIESR Monthly GDP Tracker (Jan) |  |  | -0.1% |
 | 12:30 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,850K | 1,844K |

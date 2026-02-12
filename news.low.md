@@ -11,19 +11,19 @@
 | 07:00 | GBP | Index of Services | 0.0% | 0.2% | 0.2% |
 | 07:00 | GBP | Industrial Production (YoY) (Dec) | 0.5% | 1.5% | 2.3% |
 | 07:00 | GBP | Manufacturing Production (YoY) (Dec) | 0.5% | 1.8% | 1.3% |
-| 7 min | ZAR | Gold Production (YoY) (Dec) |  |  | -6.0% |
-| 7 min | ZAR | Mining Production (Dec) |  |  | -2.7% |
-| 47 min | EUR | Italian 3-Year BTP Auction |  |  | 2.48% |
-| 47 min | EUR | Italian 7-Year BTP Auction |  |  | 3.00% |
-| 10:30 | ZAR | Business Confidence (Dec) |  |  | 132.3 |
-| 11:00 | GBP | Thomson Reuters IPSOS PCSI (Feb) |  |  | 49.2 |
-| 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Feb) |  |  | 47.69 |
-| 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Feb) |  |  | 46.35 |
-| 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Feb) |  |  | 39.77 |
-| 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Feb) |  |  | 49.23 |
-| 11:00 | ZAR | Manufacturing Production (MoM) (Dec) |  |  | -1.1% |
-| 11:00 | ZAR | Manufacturing Production (YoY) (Dec) |  |  | -1.0% |
-| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Feb) |  |  | 49.27 |
+| 09:30 | ZAR | Gold Production (YoY) (Dec) | 1.1% |  | -6.0% |
+| 09:30 | ZAR | Mining Production (Dec) | 2.5% |  | -2.4% |
+| 10:20 | EUR | Italian 3-Year BTP Auction | 2.36% |  | 2.48% |
+| 10:20 | EUR | Italian 7-Year BTP Auction | 3.02% |  | 3.00% |
+| 8 min | ZAR | Business Confidence (Dec) |  |  | 132.3 |
+| 38 min | GBP | Thomson Reuters IPSOS PCSI (Feb) |  |  | 49.2 |
+| 38 min | EUR | Italy Thomson Reuters IPSOS PCSI (Feb) |  |  | 47.69 |
+| 38 min | EUR | Germany Thomson Reuters IPSOS PCSI (Feb) |  |  | 46.35 |
+| 38 min | EUR | France Thomson Reuters IPSOS PCSI (Feb) |  |  | 39.77 |
+| 38 min | EUR | Thomson Reuters IPSOS PCSI (MoM) (Feb) |  |  | 49.23 |
+| 38 min | ZAR | Manufacturing Production (MoM) (Dec) |  |  | -1.1% |
+| 38 min | ZAR | Manufacturing Production (YoY) (Dec) |  |  | -1.0% |
+| 38 min | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Feb) |  |  | 49.27 |
 | 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Dec) |  |  | -0.1% |
 | 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Dec) |  |  | 2.5% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 212.25K |

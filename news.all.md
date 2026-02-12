@@ -21,20 +21,20 @@
 | 07:00 | GBP | Moderate | Trade Balance (Dec) | -22.72B | -22.30B | -23.58B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Dec) | -10.99B |  | -11.33B |
 | 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
-| 7 min | ZAR | Low | Gold Production (YoY) (Dec) |  |  | -6.0% |
-| 7 min | ZAR | Low | Mining Production (Dec) |  |  | -2.7% |
-| 47 min | EUR | Low | Italian 3-Year BTP Auction |  |  | 2.48% |
-| 47 min | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.00% |
-| 10:30 | INR | Moderate | CPI (YoY) (Jan) |  | 2.40% | 1.33% |
-| 10:30 | ZAR | Low | Business Confidence (Dec) |  |  | 132.3 |
-| 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Feb) |  |  | 49.2 |
-| 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Feb) |  |  | 47.69 |
-| 11:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Feb) |  |  | 46.35 |
-| 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Feb) |  |  | 39.77 |
-| 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Feb) |  |  | 49.23 |
-| 11:00 | ZAR | Low | Manufacturing Production (MoM) (Dec) |  |  | -1.1% |
-| 11:00 | ZAR | Low | Manufacturing Production (YoY) (Dec) |  |  | -1.0% |
-| 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Feb) |  |  | 49.27 |
+| 09:30 | ZAR | Low | Gold Production (YoY) (Dec) | 1.1% |  | -6.0% |
+| 09:30 | ZAR | Low | Mining Production (Dec) | 2.5% |  | -2.4% |
+| 10:20 | EUR | Low | Italian 3-Year BTP Auction | 2.36% |  | 2.48% |
+| 10:20 | EUR | Low | Italian 7-Year BTP Auction | 3.02% |  | 3.00% |
+| 8 min | INR | Moderate | CPI (YoY) (Jan) |  | 2.40% | 1.33% |
+| 8 min | ZAR | Low | Business Confidence (Dec) |  |  | 132.3 |
+| 38 min | GBP | Low | Thomson Reuters IPSOS PCSI (Feb) |  |  | 49.2 |
+| 38 min | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Feb) |  |  | 47.69 |
+| 38 min | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Feb) |  |  | 46.35 |
+| 38 min | EUR | Low | France Thomson Reuters IPSOS PCSI (Feb) |  |  | 39.77 |
+| 38 min | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Feb) |  |  | 49.23 |
+| 38 min | ZAR | Low | Manufacturing Production (MoM) (Dec) |  |  | -1.1% |
+| 38 min | ZAR | Low | Manufacturing Production (YoY) (Dec) |  |  | -1.0% |
+| 38 min | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Feb) |  |  | 49.27 |
 | 12:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Jan) |  |  | -0.1% |
 | 12:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Dec) |  |  | -0.1% |
 | 12:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Dec) |  |  | 2.5% |
