@@ -34,10 +34,10 @@
 | 11:00 | ZAR | Low | Manufacturing Production (MoM) (Dec) | -1.2% |  | -2.1% |
 | 11:00 | ZAR | Low | Manufacturing Production (YoY) (Dec) | -1.4% |  | -2.0% |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 48.57 |  | 49.27 |
-| 38 min | GBP | Moderate | NIESR Monthly GDP Tracker (Jan) |  |  | -0.1% |
-| 38 min | BRL | Low | Brazilian Service Sector Growth (MoM) (Dec) |  |  | -0.1% |
-| 38 min | BRL | Low | Brazilian Service Sector Growth (YoY) (Dec) |  |  | 2.5% |
-| 12:30 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 12:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Dec) | -0.4% |  | 0.0% |
+| 12:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Dec) | 3.4% |  | 2.7% |
+| 8 min | GBP | Moderate | NIESR Monthly GDP Tracker (Jan) |  |  | -0.1% |
+| 8 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,850K | 1,844K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 222K | 231K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 212.25K |
