@@ -15,17 +15,16 @@
 | 09:30 | ZAR | Mining Production (Dec) | 2.5% |  | -2.4% |
 | 10:20 | EUR | Italian 3-Year BTP Auction | 2.36% |  | 2.48% |
 | 10:20 | EUR | Italian 7-Year BTP Auction | 3.02% |  | 3.00% |
-| 8 min | ZAR | Business Confidence (Dec) |  |  | 132.3 |
-| 38 min | GBP | Thomson Reuters IPSOS PCSI (Feb) |  |  | 49.2 |
-| 38 min | EUR | Italy Thomson Reuters IPSOS PCSI (Feb) |  |  | 47.69 |
-| 38 min | EUR | Germany Thomson Reuters IPSOS PCSI (Feb) |  |  | 46.35 |
-| 38 min | EUR | France Thomson Reuters IPSOS PCSI (Feb) |  |  | 39.77 |
-| 38 min | EUR | Thomson Reuters IPSOS PCSI (MoM) (Feb) |  |  | 49.23 |
-| 38 min | ZAR | Manufacturing Production (MoM) (Dec) |  |  | -1.1% |
-| 38 min | ZAR | Manufacturing Production (YoY) (Dec) |  |  | -1.0% |
-| 38 min | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Feb) |  |  | 49.27 |
-| 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Dec) |  |  | -0.1% |
-| 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Dec) |  |  | 2.5% |
+| 11:00 | GBP | Thomson Reuters IPSOS PCSI (Feb) | 49.0 |  | 49.2 |
+| 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Feb) | 48.07 |  | 47.69 |
+| 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Feb) | 47.07 |  | 46.35 |
+| 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Feb) | 41.15 |  | 39.77 |
+| 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 49.99 |  | 49.23 |
+| 11:00 | ZAR | Manufacturing Production (MoM) (Dec) | -1.2% |  | -2.1% |
+| 11:00 | ZAR | Manufacturing Production (YoY) (Dec) | -1.4% |  | -2.0% |
+| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 48.57 |  | 49.27 |
+| 38 min | BRL | Brazilian Service Sector Growth (MoM) (Dec) |  |  | -0.1% |
+| 38 min | BRL | Brazilian Service Sector Growth (YoY) (Dec) |  |  | 2.5% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 212.25K |
 | 13:45 | EUR | German Current Account Balance n.s.a (Dec) |  |  | 15.1B |
 | 15:30 | USD | Natural Gas Storage |  | -256B | -360B |
