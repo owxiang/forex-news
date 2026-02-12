@@ -4,13 +4,13 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | USD | Fed Logan Speaks |  |  |  |
 | 00:00 | AUD | MI Inflation Expectations (Feb) | 5.0% |  | 4.6% |
-| 07:00 | GBP | Business Investment (YoY) (Q4) |  |  | 2.7% |
-| 07:00 | GBP | U.K. Construction Output (YoY) (Dec) |  | 0.0% | -1.1% |
-| 07:00 | GBP | Construction Output (MoM) (Dec) |  | 0.5% | -1.3% |
-| 07:00 | GBP | GDP (YoY) (Dec) |  | 1.1% | 1.4% |
-| 07:00 | GBP | Index of Services |  | 0.2% | 0.2% |
-| 07:00 | GBP | Industrial Production (YoY) (Dec) |  | 1.5% | 2.3% |
-| 07:00 | GBP | Manufacturing Production (YoY) (Dec) |  | 1.8% | 2.1% |
+| 07:00 | GBP | Business Investment (YoY) (Q4) | 2.0% |  | 2.5% |
+| 07:00 | GBP | U.K. Construction Output (YoY) (Dec) | -0.3% | 0.0% | -0.3% |
+| 07:00 | GBP | Construction Output (MoM) (Dec) | -0.5% | 0.5% | -0.8% |
+| 07:00 | GBP | GDP (YoY) (Dec) | 0.7% | 1.1% | 1.2% |
+| 07:00 | GBP | Index of Services | 0.0% | 0.2% | 0.2% |
+| 07:00 | GBP | Industrial Production (YoY) (Dec) | 0.5% | 1.5% | 2.3% |
+| 07:00 | GBP | Manufacturing Production (YoY) (Dec) | 0.5% | 1.8% | 1.3% |
 | 09:30 | ZAR | Gold Production (YoY) (Dec) |  |  | -6.0% |
 | 09:30 | ZAR | Mining Production (Dec) |  |  | -2.7% |
 | 10:10 | EUR | Italian 3-Year BTP Auction |  |  | 2.48% |

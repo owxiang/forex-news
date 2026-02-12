@@ -4,22 +4,22 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | USD | Low | Fed Logan Speaks |  |  |  |
 | 00:00 | AUD | Low | MI Inflation Expectations (Feb) | 5.0% |  | 4.6% |
-| 07:00 | GBP | Moderate | Business Investment (QoQ) (Q4) |  | 0.4% | 1.5% |
-| 07:00 | GBP | Low | Business Investment (YoY) (Q4) |  |  | 2.7% |
-| 07:00 | GBP | Low | U.K. Construction Output (YoY) (Dec) |  | 0.0% | -1.1% |
-| 07:00 | GBP | Low | Construction Output (MoM) (Dec) |  | 0.5% | -1.3% |
-| 07:00 | GBP | High | GDP (MoM) (Dec) |  | 0.1% | 0.3% |
-| 07:00 | GBP | High | GDP (YoY) (Q4) |  | 1.2% | 1.3% |
-| 07:00 | GBP | High | GDP (QoQ) (Q4) |  | 0.2% | 0.1% |
-| 07:00 | GBP | Low | GDP (YoY) (Dec) |  | 1.1% | 1.4% |
-| 07:00 | GBP | Low | Index of Services |  | 0.2% | 0.2% |
-| 07:00 | GBP | Low | Industrial Production (YoY) (Dec) |  | 1.5% | 2.3% |
-| 07:00 | GBP | Moderate | Industrial Production (MoM) (Dec) |  | -0.1% | 1.1% |
-| 07:00 | GBP | Low | Manufacturing Production (YoY) (Dec) |  | 1.8% | 2.1% |
-| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Dec) |  | -0.2% | 2.1% |
-| 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Dec) |  | 0.2% | 0.1% |
-| 07:00 | GBP | Moderate | Trade Balance (Dec) |  | -22.30B | -23.71B |
-| 07:00 | GBP | Moderate | Trade Balance Non-EU (Dec) |  |  | -11.46B |
+| 07:00 | GBP | Moderate | Business Investment (QoQ) (Q4) | -2.7% | 0.4% | 1.6% |
+| 07:00 | GBP | Low | Business Investment (YoY) (Q4) | 2.0% |  | 2.5% |
+| 07:00 | GBP | Low | U.K. Construction Output (YoY) (Dec) | -0.3% | 0.0% | -0.3% |
+| 07:00 | GBP | Low | Construction Output (MoM) (Dec) | -0.5% | 0.5% | -0.8% |
+| 07:00 | GBP | High | GDP (MoM) (Dec) | 0.1% | 0.1% | 0.2% |
+| 07:00 | GBP | High | GDP (YoY) (Q4) | 1.0% | 1.2% | 1.2% |
+| 07:00 | GBP | High | GDP (QoQ) (Q4) | 0.1% | 0.2% | 0.1% |
+| 07:00 | GBP | Low | GDP (YoY) (Dec) | 0.7% | 1.1% | 1.2% |
+| 07:00 | GBP | Low | Index of Services | 0.0% | 0.2% | 0.2% |
+| 07:00 | GBP | Low | Industrial Production (YoY) (Dec) | 0.5% | 1.5% | 2.3% |
+| 07:00 | GBP | Moderate | Industrial Production (MoM) (Dec) | -0.9% | -0.1% | 1.3% |
+| 07:00 | GBP | Low | Manufacturing Production (YoY) (Dec) | 0.5% | 1.8% | 1.3% |
+| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Dec) | -0.5% | -0.2% | 1.9% |
+| 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Dec) | 0.1% | 0.2% | -0.1% |
+| 07:00 | GBP | Moderate | Trade Balance (Dec) | -22.72B | -22.30B | -23.58B |
+| 07:00 | GBP | Moderate | Trade Balance Non-EU (Dec) | -10.99B |  | -11.33B |
 | 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
 | 09:30 | ZAR | Low | Gold Production (YoY) (Dec) |  |  | -6.0% |
 | 09:30 | ZAR | Low | Mining Production (Dec) |  |  | -2.7% |
