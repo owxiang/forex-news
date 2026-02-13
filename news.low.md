@@ -4,13 +4,13 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | USD | Fed Logan Speaks |  |  |  |
 | 01:30 | CNY | House Prices (YoY) (Jan) | -3.1% |  | -2.7% |
-| 20 min | KRW | Thomson Reuters IPSOS PCSI (Feb) |  |  | 44.81 |
-| 20 min | INR | Thomson Reuters IPSOS PCSI (Feb) |  |  | 60.73 |
-| 20 min | AUD | Thomson Reuters IPSOS PCSI (Feb) |  |  | 53.89 |
-| 20 min | JPY | Thomson Reuters IPSOS PCSI (Feb) |  |  | 41.37 |
-| 20 min | CNY | China Thomson Reuters IPSOS PCSI (Feb) |  |  | 72.75 |
-| 03:00 | KRW | M3 Money Supply (Dec) |  |  | 5,999.3B |
-| 03:00 | KRW | M2 Money supply (Dec) |  |  | 6.80% |
+| 02:00 | KRW | Thomson Reuters IPSOS PCSI (Feb) | 45.89 |  | 44.81 |
+| 02:00 | INR | Thomson Reuters IPSOS PCSI (Feb) | 56.37 |  | 60.73 |
+| 02:00 | AUD | Thomson Reuters IPSOS PCSI (Feb) | 52.46 |  | 53.89 |
+| 02:00 | JPY | Thomson Reuters IPSOS PCSI (Feb) | 41.33 |  | 41.37 |
+| 02:00 | CNY | China Thomson Reuters IPSOS PCSI (Feb) | 72.82 |  | 72.75 |
+| 03:00 | KRW | M3 Money Supply (Dec) | 6,087.0B |  | 5,999.2B |
+| 03:00 | KRW | M2 Money supply (Dec) | 7.30% |  | 6.80% |
 | 03:30 | JPY | BoJ Tamura Speaks |  |  |  |
 | 07:00 | EUR | German WPI (MoM) (Jan) |  | 0.1% | -0.2% |
 | 07:00 | EUR | German WPI (YoY) (Jan) |  |  | 1.2% |

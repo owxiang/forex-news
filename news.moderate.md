@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 20 min | NZD | Inflation Expectations (QoQ) |  |  | 2.3% |
+| 02:00 | NZD | Inflation Expectations (QoQ) | 2.4% |  | 2.3% |
 | 07:30 | CHF | CPI (MoM) (Jan) |  | 0.0% | 0.0% |
 | 08:00 | EUR | Spanish CPI (YoY) (Jan) |  | 2.4% | 2.9% |
 | 08:00 | EUR | Spanish HICP (YoY) (Jan) |  | 2.5% | 3.0% |
