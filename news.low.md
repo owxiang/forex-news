@@ -1,42 +1,44 @@
-## 12 February 2026 - Low Impact Forex News
+## 13 February 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | USD | Fed Logan Speaks |  |  |  |
-| 00:00 | AUD | MI Inflation Expectations (Feb) | 5.0% |  | 4.6% |
-| 07:00 | GBP | Business Investment (YoY) (Q4) | 2.0% |  | 2.5% |
-| 07:00 | GBP | U.K. Construction Output (YoY) (Dec) | -0.3% | 0.0% | -0.3% |
-| 07:00 | GBP | Construction Output (MoM) (Dec) | -0.5% | 0.5% | -0.8% |
-| 07:00 | GBP | GDP (YoY) (Dec) | 0.7% | 1.1% | 1.2% |
-| 07:00 | GBP | Index of Services | 0.0% | 0.2% | 0.2% |
-| 07:00 | GBP | Industrial Production (YoY) (Dec) | 0.5% | 1.5% | 2.3% |
-| 07:00 | GBP | Manufacturing Production (YoY) (Dec) | 0.5% | 1.8% | 1.3% |
-| 09:30 | ZAR | Gold Production (YoY) (Dec) | 1.1% |  | -6.0% |
-| 09:30 | ZAR | Mining Production (Dec) | 2.5% |  | -2.4% |
-| 10:20 | EUR | Italian 3-Year BTP Auction | 2.36% |  | 2.48% |
-| 10:20 | EUR | Italian 7-Year BTP Auction | 3.02% |  | 3.00% |
-| 11:00 | GBP | Thomson Reuters IPSOS PCSI (Feb) | 49.0 |  | 49.2 |
-| 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Feb) | 48.07 |  | 47.69 |
-| 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Feb) | 47.07 |  | 46.35 |
-| 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Feb) | 41.15 |  | 39.77 |
-| 11:00 | EUR | Thomson Reuters IPSOS PCSI (Feb) | 49.99 |  | 49.23 |
-| 11:00 | ZAR | Manufacturing Production (MoM) (Dec) | -1.2% |  | -2.1% |
-| 11:00 | ZAR | Manufacturing Production (YoY) (Dec) | -1.4% |  | -2.0% |
-| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (Feb) | 48.57 |  | 49.27 |
-| 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Dec) | -0.4% |  | 0.0% |
-| 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Dec) | 3.4% |  | 2.7% |
-| 13:00 | EUR | German Current Account Balance n.s.a (Dec) | 16.1B |  | 14.2B |
-| 13:30 | USD | Jobless Claims 4-Week Avg. | 219.50K |  | 212.50K |
-| 15:30 | USD | Natural Gas Storage | -249B | -256B | -360B |
-| 16:30 | USD | 4-Week Bill Auction | 3.630% |  | 3.630% |
-| 16:30 | USD | 8-Week Bill Auction | 3.630% |  | 3.630% |
-| 21:00 | KRW | Export Price Index (YoY) (Jan) | 7.8% |  | 5.0% |
-| 21:00 | KRW | Import Price Index (YoY) (Jan) | -1.2% |  | 0.5% |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 2.958T |  | 2.937T |
-| 21:45 | NZD | External Migration & Visitors (Dec) | 7.00% |  | 8.20% |
-| 21:45 | NZD | Permanent/Long-Term Migration (Dec) | 2,870 |  | 1,560 |
-| 21:45 | NZD | Visitor Arrivals (MoM) | 1.7% |  | 0.8% |
-| 38 min | JPY | Foreign Bonds Buying |  |  | 713.7B |
-| 38 min | JPY | Foreign Bonds Buying |  |  | 713.7B |
-| 38 min | JPY | Foreign Investments in Japanese Stocks |  |  | 494.6B |
-| 38 min | JPY | Foreign Investments in Japanese Stocks |  |  | 494.6B |
+| 01:30 | CNY | House Prices (YoY) (Jan) |  |  | -2.7% |
+| 02:00 | KRW | Thomson Reuters IPSOS PCSI (Feb) |  |  | 44.81 |
+| 02:00 | INR | Thomson Reuters IPSOS PCSI (Feb) |  |  | 60.73 |
+| 02:00 | AUD | Thomson Reuters IPSOS PCSI (Feb) |  |  | 53.89 |
+| 02:00 | JPY | Thomson Reuters IPSOS PCSI (Feb) |  |  | 41.37 |
+| 02:00 | CNY | China Thomson Reuters IPSOS PCSI (Feb) |  |  | 72.75 |
+| 03:00 | KRW | M3 Money Supply (Dec) |  |  | 5,999.3B |
+| 03:00 | KRW | M2 Money supply (Dec) |  |  | 6.80% |
+| 03:30 | JPY | BoJ Tamura Speaks |  |  |  |
+| 07:00 | EUR | German WPI (MoM) (Jan) |  | 0.1% | -0.2% |
+| 07:00 | EUR | German WPI (YoY) (Jan) |  |  | 1.2% |
+| 07:30 | CHF | CPI (YoY) (Jan) |  | 0.1% | 0.1% |
+| 08:00 | EUR | Core CPI (YoY) (Jan) |  | 2.6% | 2.6% |
+| 08:00 | EUR | Spanish CPI (MoM) (Jan) |  | -0.4% | 0.3% |
+| 08:00 | EUR | Spanish HICP (MoM) (Jan) |  | -0.7% | 0.3% |
+| 10:00 | EUR | Employment Change (QoQ) (Q4) |  | 0.1% | 0.2% |
+| 10:00 | EUR | Employment Change (YoY) (Q4) |  | 0.6% | 0.6% |
+| 10:00 | EUR | Employment Overall (Q4) |  |  | 172,210.4K |
+| 11:00 | BRL | IGP-10 Inflation Index (MoM) (Feb) |  |  | 0.3% |
+| 11:30 | INR | Bank Loan Growth |  |  | 13.1% |
+| 11:30 | INR | Deposit Growth |  |  | 10.6% |
+| 11:30 | INR | FX Reserves, USD |  |  | 723.77B |
+| 13:30 | USD | Core CPI Index (Jan) |  |  | 331.86 |
+| 13:30 | USD | CPI Index, n.s.a. (Jan) |  | 325.41 | 324.05 |
+| 13:30 | USD | CPI Index, s.a (Jan) |  |  | 326.03 |
+| 13:30 | USD | CPI, n.s.a (MoM) (Jan) |  |  | -0.02% |
+| 13:30 | USD | Real Earnings (MoM) (Jan) |  |  | -0.3% |
+| 16:00 | USD | Cleveland CPI (MoM) (Jan) |  |  | 0.3% |
+| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -2.9K |
+| 20:30 | USD | CFTC Copper speculative net positions |  |  | 47.8K |
+| 20:30 | USD | CFTC Corn speculative net positions |  |  | -34.7K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -172.3K |
+| 20:30 | USD | CFTC Silver speculative net positions |  |  | 25.9K |
+| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 64.2K |
+| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -65.5K |
+| 20:30 | CAD | CFTC CAD speculative net positions |  |  | 2.1K |
+| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 90.6K |
+| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -40.7K |
+| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -34.3K |
