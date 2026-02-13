@@ -11,10 +11,10 @@
 | 10:00 | EUR | GDP (QoQ) (Q4) | 0.3% | 0.3% | 0.3% |
 | 10:00 | EUR | GDP (YoY) (Q4) | 1.3% | 1.3% | 1.4% |
 | 10:00 | EUR | Trade Balance (Dec) | 12.6B | 11.8B | 9.3B |
-| 12:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 12:00 | BRL | Retail Sales (MoM) (Dec) |  | -0.2% | 1.0% |
-| 12:00 | BRL | Retail Sales (YoY) (Dec) |  | 2.5% | 1.3% |
-| 12:00 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 44 min | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 44 min | BRL | Retail Sales (MoM) (Dec) |  | -0.2% | 1.0% |
+| 44 min | BRL | Retail Sales (YoY) (Dec) |  | 2.5% | 1.3% |
+| 44 min | EUR | ECB's De Guindos Speaks |  |  |  |
 | 13:30 | USD | Core CPI (YoY) (Jan) |  | 2.5% | 2.6% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 412 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 551 |
