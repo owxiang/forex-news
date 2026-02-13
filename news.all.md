@@ -34,13 +34,13 @@
 | 10:00 | EUR | Moderate | GDP (YoY) (Q4) | 1.3% | 1.3% | 1.4% |
 | 10:00 | EUR | Moderate | Trade Balance (Dec) | 12.6B | 11.8B | 9.3B |
 | 11:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Feb) | -0.4% |  | 0.3% |
-| 14 min | INR | Low | Bank Loan Growth |  |  | 13.1% |
-| 14 min | INR | Low | Deposit Growth |  |  | 10.6% |
-| 14 min | INR | Low | FX Reserves, USD |  |  | 723.77B |
-| 44 min | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 44 min | BRL | Moderate | Retail Sales (MoM) (Dec) |  | -0.2% | 1.0% |
-| 44 min | BRL | Moderate | Retail Sales (YoY) (Dec) |  | 2.5% | 1.3% |
-| 44 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 11:30 | INR | Low | Bank Loan Growth | 14.6% |  | 13.1% |
+| 11:30 | INR | Low | Deposit Growth | 12.5% |  | 10.6% |
+| 11:30 | INR | Low | FX Reserves, USD | 717.06B |  | 723.77B |
+| 12:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 12:00 | BRL | Moderate | Retail Sales (MoM) (Dec) | -0.4% | -0.2% | 1.0% |
+| 12:00 | BRL | Moderate | Retail Sales (YoY) (Dec) | 2.3% | 2.5% | 1.5% |
+| 12:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 13:30 | USD | High | Core CPI (MoM) (Jan) |  | 0.3% | 0.2% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Jan) |  | 2.5% | 2.6% |
 | 13:30 | USD | Low | Core CPI Index (Jan) |  |  | 331.86 |

@@ -25,9 +25,9 @@
 | 10:00 | EUR | Employment Change (YoY) (Q4) | 0.7% | 0.6% | 0.6% |
 | 10:00 | EUR | Employment Overall (Q4) | 172,516.6K |  | 172,210.4K |
 | 11:00 | BRL | IGP-10 Inflation Index (MoM) (Feb) | -0.4% |  | 0.3% |
-| 14 min | INR | Bank Loan Growth |  |  | 13.1% |
-| 14 min | INR | Deposit Growth |  |  | 10.6% |
-| 14 min | INR | FX Reserves, USD |  |  | 723.77B |
+| 11:30 | INR | Bank Loan Growth | 14.6% |  | 13.1% |
+| 11:30 | INR | Deposit Growth | 12.5% |  | 10.6% |
+| 11:30 | INR | FX Reserves, USD | 717.06B |  | 723.77B |
 | 13:30 | USD | Core CPI Index (Jan) |  |  | 331.86 |
 | 13:30 | USD | CPI Index, n.s.a. (Jan) |  | 325.41 | 324.05 |
 | 13:30 | USD | CPI Index, s.a (Jan) |  |  | 326.03 |
