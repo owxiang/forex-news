@@ -33,7 +33,7 @@
 | 13:30 | USD | CPI Index, s.a (Jan) | 326.59 |  | 326.03 |
 | 13:30 | USD | CPI, n.s.a (MoM) (Jan) | 0.37% |  | -0.02% |
 | 13:30 | USD | Real Earnings (MoM) (Jan) | 0.5% |  | -0.5% |
-| 18:00 | USD | Cleveland CPI (MoM) (Jan) |  |  | 0.3% |
+| 39 min | USD | Cleveland CPI (MoM) (Jan) |  |  | 0.3% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -2.9K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 47.8K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -34.7K |

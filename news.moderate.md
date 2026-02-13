@@ -16,8 +16,8 @@
 | 12:00 | BRL | Retail Sales (YoY) (Dec) | 2.3% | 2.5% | 1.5% |
 | 12:00 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 13:30 | USD | Core CPI (YoY) (Jan) | 2.5% | 2.5% | 2.6% |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 412 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 551 |
+| 39 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 412 |
+| 39 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 551 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -13.9K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 124.6K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 165.6K |
