@@ -35,14 +35,14 @@
 | 13:30 | USD | Real Earnings (MoM) (Jan) | 0.5% |  | -0.5% |
 | 13:30 | CAD | New Motor Vehicle Sales (MoM) (Dec) | 127.3K |  | 148.7K |
 | 16:00 | USD | Cleveland CPI (MoM) (Jan) | 0.2% |  | 0.3% |
-| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -2.9K |
-| 20:30 | USD | CFTC Copper speculative net positions |  |  | 47.8K |
-| 20:30 | USD | CFTC Corn speculative net positions |  |  | -34.7K |
-| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -172.3K |
-| 20:30 | USD | CFTC Silver speculative net positions |  |  | 25.9K |
-| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 64.2K |
-| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -65.5K |
-| 20:30 | CAD | CFTC CAD speculative net positions |  |  | 2.1K |
-| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 90.6K |
-| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -40.7K |
-| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -34.3K |
+| 14 min | USD | CFTC Aluminium speculative net positions |  |  | -2.9K |
+| 14 min | USD | CFTC Copper speculative net positions |  |  | 47.8K |
+| 14 min | USD | CFTC Corn speculative net positions |  |  | -34.7K |
+| 14 min | USD | CFTC Natural Gas speculative net positions |  |  | -172.3K |
+| 14 min | USD | CFTC Silver speculative net positions |  |  | 25.9K |
+| 14 min | USD | CFTC Soybeans speculative net positions |  |  | 64.2K |
+| 14 min | USD | CFTC Wheat speculative net positions |  |  | -65.5K |
+| 14 min | CAD | CFTC CAD speculative net positions |  |  | 2.1K |
+| 14 min | MXN | CFTC MXN speculative net positions |  |  | 90.6K |
+| 14 min | CHF | CFTC CHF speculative net positions |  |  | -40.7K |
+| 14 min | NZD | CFTC NZD speculative net positions |  |  | -34.3K |
