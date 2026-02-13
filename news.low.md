@@ -12,12 +12,12 @@
 | 03:00 | KRW | M3 Money Supply (Dec) | 6,087.0B |  | 5,999.2B |
 | 03:00 | KRW | M2 Money supply (Dec) | 7.30% |  | 6.80% |
 | 03:30 | JPY | BoJ Tamura Speaks |  |  |  |
-| 32 min | EUR | German WPI (MoM) (Jan) |  | 0.1% | -0.2% |
-| 32 min | EUR | German WPI (YoY) (Jan) |  |  | 1.2% |
-| 07:30 | CHF | CPI (YoY) (Jan) |  | 0.1% | 0.1% |
-| 08:00 | EUR | Core CPI (YoY) (Jan) |  | 2.6% | 2.6% |
-| 08:00 | EUR | Spanish CPI (MoM) (Jan) |  | -0.4% | 0.3% |
-| 08:00 | EUR | Spanish HICP (MoM) (Jan) |  | -0.7% | 0.3% |
+| 07:00 | EUR | German WPI (MoM) (Jan) | 0.9% | 0.1% | -0.2% |
+| 07:00 | EUR | German WPI (YoY) (Jan) | 1.2% |  | 1.2% |
+| 5 min | CHF | CPI (YoY) (Jan) |  | 0.1% | 0.1% |
+| 35 min | EUR | Core CPI (YoY) (Jan) |  | 2.6% | 2.6% |
+| 35 min | EUR | Spanish CPI (MoM) (Jan) |  | -0.4% | 0.3% |
+| 35 min | EUR | Spanish HICP (MoM) (Jan) |  | -0.7% | 0.3% |
 | 10:00 | CNY | M2 Money Stock (YoY) (Jan) |  | 8.3% | 8.5% |
 | 10:00 | CNY | Outstanding Loan Growth (YoY) (Jan) |  | 6.2% | 6.4% |
 | 10:00 | CNY | Chinese Total Social Financing (Jan) |  | 7,050.0B | 2,210.0B |

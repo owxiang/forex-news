@@ -3,9 +3,9 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:00 | NZD | Inflation Expectations (QoQ) | 2.4% |  | 2.3% |
-| 07:30 | CHF | CPI (MoM) (Jan) |  | 0.0% | 0.0% |
-| 08:00 | EUR | Spanish CPI (YoY) (Jan) |  | 2.4% | 2.9% |
-| 08:00 | EUR | Spanish HICP (YoY) (Jan) |  | 2.5% | 3.0% |
+| 5 min | CHF | CPI (MoM) (Jan) |  | 0.0% | 0.0% |
+| 35 min | EUR | Spanish CPI (YoY) (Jan) |  | 2.4% | 2.9% |
+| 35 min | EUR | Spanish HICP (YoY) (Jan) |  | 2.5% | 3.0% |
 | 10:00 | CNY | New Loans (Jan) |  | 5,000.0B | 910.0B |
 | 10:00 | EUR | GDP (QoQ) (Q4) |  | 0.3% | 0.3% |
 | 10:00 | EUR | GDP (YoY) (Q4) |  | 1.3% | 1.3% |
