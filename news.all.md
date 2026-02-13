@@ -3,13 +3,13 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | USD | Low | Fed Logan Speaks |  |  |  |
-| 01:30 | CNY | Low | House Prices (YoY) (Jan) |  |  | -2.7% |
-| 02:00 | KRW | Low | Thomson Reuters IPSOS PCSI (Feb) |  |  | 44.81 |
-| 02:00 | INR | Low | Thomson Reuters IPSOS PCSI (Feb) |  |  | 60.73 |
-| 02:00 | AUD | Low | Thomson Reuters IPSOS PCSI (Feb) |  |  | 53.89 |
-| 02:00 | JPY | Low | Thomson Reuters IPSOS PCSI (Feb) |  |  | 41.37 |
-| 02:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Feb) |  |  | 72.75 |
-| 02:00 | NZD | Moderate | Inflation Expectations (QoQ) |  |  | 2.3% |
+| 01:30 | CNY | Low | House Prices (YoY) (Jan) | -3.1% |  | -2.7% |
+| 20 min | KRW | Low | Thomson Reuters IPSOS PCSI (Feb) |  |  | 44.81 |
+| 20 min | INR | Low | Thomson Reuters IPSOS PCSI (Feb) |  |  | 60.73 |
+| 20 min | AUD | Low | Thomson Reuters IPSOS PCSI (Feb) |  |  | 53.89 |
+| 20 min | JPY | Low | Thomson Reuters IPSOS PCSI (Feb) |  |  | 41.37 |
+| 20 min | CNY | Low | China Thomson Reuters IPSOS PCSI (Feb) |  |  | 72.75 |
+| 20 min | NZD | Moderate | Inflation Expectations (QoQ) |  |  | 2.3% |
 | 03:00 | KRW | Low | M3 Money Supply (Dec) |  |  | 5,999.3B |
 | 03:00 | KRW | Low | M2 Money supply (Dec) |  |  | 6.80% |
 | 03:30 | JPY | Low | BoJ Tamura Speaks |  |  |  |

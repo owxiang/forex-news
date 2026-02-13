@@ -3,12 +3,12 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | USD | Fed Logan Speaks |  |  |  |
-| 01:30 | CNY | House Prices (YoY) (Jan) |  |  | -2.7% |
-| 02:00 | KRW | Thomson Reuters IPSOS PCSI (Feb) |  |  | 44.81 |
-| 02:00 | INR | Thomson Reuters IPSOS PCSI (Feb) |  |  | 60.73 |
-| 02:00 | AUD | Thomson Reuters IPSOS PCSI (Feb) |  |  | 53.89 |
-| 02:00 | JPY | Thomson Reuters IPSOS PCSI (Feb) |  |  | 41.37 |
-| 02:00 | CNY | China Thomson Reuters IPSOS PCSI (Feb) |  |  | 72.75 |
+| 01:30 | CNY | House Prices (YoY) (Jan) | -3.1% |  | -2.7% |
+| 20 min | KRW | Thomson Reuters IPSOS PCSI (Feb) |  |  | 44.81 |
+| 20 min | INR | Thomson Reuters IPSOS PCSI (Feb) |  |  | 60.73 |
+| 20 min | AUD | Thomson Reuters IPSOS PCSI (Feb) |  |  | 53.89 |
+| 20 min | JPY | Thomson Reuters IPSOS PCSI (Feb) |  |  | 41.37 |
+| 20 min | CNY | China Thomson Reuters IPSOS PCSI (Feb) |  |  | 72.75 |
 | 03:00 | KRW | M3 Money Supply (Dec) |  |  | 5,999.3B |
 | 03:00 | KRW | M2 Money supply (Dec) |  |  | 6.80% |
 | 03:30 | JPY | BoJ Tamura Speaks |  |  |  |
