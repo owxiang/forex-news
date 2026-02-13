@@ -50,7 +50,7 @@
 | 13:30 | USD | Low | CPI Index, s.a (Jan) | 326.59 |  | 326.03 |
 | 13:30 | USD | Low | CPI, n.s.a (MoM) (Jan) | 0.37% |  | -0.02% |
 | 13:30 | USD | Low | Real Earnings (MoM) (Jan) | 0.5% |  | -0.5% |
-| 16:00 | USD | Low | Cleveland CPI (MoM) (Jan) |  |  | 0.3% |
+| 40 min | USD | Low | Cleveland CPI (MoM) (Jan) |  |  | 0.3% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 412 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 551 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -13.9K |
