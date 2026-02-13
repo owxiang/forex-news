@@ -18,12 +18,16 @@
 | 07:30 | CHF | Moderate | CPI (MoM) (Jan) |  | 0.0% | 0.0% |
 | 07:30 | CHF | Low | CPI (YoY) (Jan) |  | 0.1% | 0.1% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Jan) |  | 2.6% | 2.6% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jan) |  | 2.4% | 2.9% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Jan) |  | -0.4% | 0.3% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jan) |  | 2.4% | 2.9% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Jan) |  | -0.7% | 0.3% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jan) |  | 2.5% | 3.0% |
-| 10:00 | EUR | Low | Employment Change (QoQ) (Q4) |  | 0.1% | 0.2% |
+| 10:00 | CNY | Low | M2 Money Stock (YoY) (Jan) |  | 8.3% | 8.5% |
+| 10:00 | CNY | Moderate | New Loans (Jan) |  | 5,000.0B | 910.0B |
+| 10:00 | CNY | Low | Outstanding Loan Growth (YoY) (Jan) |  | 6.2% | 6.4% |
+| 10:00 | CNY | Low | Chinese Total Social Financing (Jan) |  | 7,050.0B | 2,210.0B |
 | 10:00 | EUR | Low | Employment Change (YoY) (Q4) |  | 0.6% | 0.6% |
+| 10:00 | EUR | Low | Employment Change (QoQ) (Q4) |  | 0.1% | 0.2% |
 | 10:00 | EUR | Low | Employment Overall (Q4) |  |  | 172,210.4K |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q4) |  | 0.3% | 0.3% |
 | 10:00 | EUR | Moderate | GDP (YoY) (Q4) |  | 1.3% | 1.4% |
@@ -33,8 +37,8 @@
 | 11:30 | INR | Low | Deposit Growth |  |  | 10.6% |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 723.77B |
 | 12:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 12:00 | BRL | Moderate | Retail Sales (YoY) (Dec) |  | 2.5% | 1.3% |
 | 12:00 | BRL | Moderate | Retail Sales (MoM) (Dec) |  | -0.2% | 1.0% |
+| 12:00 | BRL | Moderate | Retail Sales (YoY) (Dec) |  | 2.5% | 1.3% |
 | 12:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 13:30 | USD | High | Core CPI (MoM) (Jan) |  | 0.3% | 0.2% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Jan) |  | 2.5% | 2.6% |
