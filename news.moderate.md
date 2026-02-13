@@ -6,10 +6,10 @@
 | 07:30 | CHF | CPI (MoM) (Jan) | -0.1% | 0.0% | 0.0% |
 | 08:00 | EUR | Spanish CPI (YoY) (Jan) | 2.3% | 2.4% | 2.9% |
 | 08:00 | EUR | Spanish HICP (YoY) (Jan) | 2.4% | 2.5% | 3.0% |
-| 10:00 | CNY | New Loans (Jan) |  | 5,000.0B | 910.0B |
-| 10:00 | EUR | GDP (QoQ) (Q4) |  | 0.3% | 0.3% |
-| 10:00 | EUR | GDP (YoY) (Q4) |  | 1.3% | 1.3% |
-| 10:00 | EUR | Trade Balance (Dec) |  | 11.8B | 9.9B |
+| 09:00 | CNY | New Loans (Jan) | 4,710.0B | 5,000.0B | 910.0B |
+| 39 min | EUR | GDP (QoQ) (Q4) |  | 0.3% | 0.3% |
+| 39 min | EUR | GDP (YoY) (Q4) |  | 1.3% | 1.3% |
+| 39 min | EUR | Trade Balance (Dec) |  | 11.8B | 9.9B |
 | 12:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 12:00 | BRL | Retail Sales (MoM) (Dec) |  | -0.2% | 1.0% |
 | 12:00 | BRL | Retail Sales (YoY) (Dec) |  | 2.5% | 1.3% |
