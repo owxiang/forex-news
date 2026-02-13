@@ -27,4 +27,3 @@
 | 20:30 | BRL | CFTC BRL speculative net positions |  |  | 31.0K |
 | 20:30 | JPY | CFTC JPY speculative net positions |  |  | -19.2K |
 | 20:30 | EUR | CFTC EUR speculative net positions |  |  | 163.4K |
-| 21:30 | NZD | Business NZ PMI (Jan) |  |  | 56.1 |
