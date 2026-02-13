@@ -21,9 +21,9 @@
 | 09:00 | CNY | M2 Money Stock (YoY) (Jan) | 9.0% | 8.3% | 8.5% |
 | 09:00 | CNY | Outstanding Loan Growth (YoY) (Jan) | 6.1% | 6.2% | 6.4% |
 | 09:00 | CNY | Chinese Total Social Financing (Jan) | 7,220.0B | 7,050.0B | 2,210.0B |
-| 39 min | EUR | Employment Change (QoQ) (Q4) |  | 0.1% | 0.2% |
-| 39 min | EUR | Employment Change (YoY) (Q4) |  | 0.6% | 0.6% |
-| 39 min | EUR | Employment Overall (Q4) |  |  | 172,210.4K |
+| 10:00 | EUR | Employment Change (QoQ) (Q4) | 0.2% | 0.1% | 0.2% |
+| 10:00 | EUR | Employment Change (YoY) (Q4) | 0.7% | 0.6% | 0.6% |
+| 10:00 | EUR | Employment Overall (Q4) | 172,516.6K |  | 172,210.4K |
 | 11:00 | BRL | IGP-10 Inflation Index (MoM) (Feb) |  |  | 0.3% |
 | 11:30 | INR | Bank Loan Growth |  |  | 13.1% |
 | 11:30 | INR | Deposit Growth |  |  | 10.6% |

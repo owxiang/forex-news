@@ -26,12 +26,13 @@
 | 09:00 | CNY | Moderate | New Loans (Jan) | 4,710.0B | 5,000.0B | 910.0B |
 | 09:00 | CNY | Low | Outstanding Loan Growth (YoY) (Jan) | 6.1% | 6.2% | 6.4% |
 | 09:00 | CNY | Low | Chinese Total Social Financing (Jan) | 7,220.0B | 7,050.0B | 2,210.0B |
-| 39 min | EUR | Low | Employment Change (QoQ) (Q4) |  | 0.1% | 0.2% |
-| 39 min | EUR | Low | Employment Change (YoY) (Q4) |  | 0.6% | 0.6% |
-| 39 min | EUR | Low | Employment Overall (Q4) |  |  | 172,210.4K |
-| 39 min | EUR | Moderate | GDP (QoQ) (Q4) |  | 0.3% | 0.3% |
-| 39 min | EUR | Moderate | GDP (YoY) (Q4) |  | 1.3% | 1.3% |
-| 39 min | EUR | Moderate | Trade Balance (Dec) |  | 11.8B | 9.9B |
+| 10:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 10:00 | EUR | Low | Employment Change (QoQ) (Q4) | 0.2% | 0.1% | 0.2% |
+| 10:00 | EUR | Low | Employment Change (YoY) (Q4) | 0.7% | 0.6% | 0.6% |
+| 10:00 | EUR | Low | Employment Overall (Q4) | 172,516.6K |  | 172,210.4K |
+| 10:00 | EUR | Moderate | GDP (QoQ) (Q4) | 0.3% | 0.3% | 0.3% |
+| 10:00 | EUR | Moderate | GDP (YoY) (Q4) | 1.3% | 1.3% | 1.4% |
+| 10:00 | EUR | Moderate | Trade Balance (Dec) | 12.6B | 11.8B | 9.3B |
 | 11:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Feb) |  |  | 0.3% |
 | 11:30 | INR | Low | Bank Loan Growth |  |  | 13.1% |
 | 11:30 | INR | Low | Deposit Growth |  |  | 10.6% |
