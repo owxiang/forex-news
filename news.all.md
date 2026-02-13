@@ -15,13 +15,13 @@
 | 03:30 | JPY | Low | BoJ Tamura Speaks |  |  |  |
 | 07:00 | EUR | Low | German WPI (MoM) (Jan) | 0.9% | 0.1% | -0.2% |
 | 07:00 | EUR | Low | German WPI (YoY) (Jan) | 1.2% |  | 1.2% |
-| 5 min | CHF | Moderate | CPI (MoM) (Jan) |  | 0.0% | 0.0% |
-| 5 min | CHF | Low | CPI (YoY) (Jan) |  | 0.1% | 0.1% |
-| 35 min | EUR | Low | Core CPI (YoY) (Jan) |  | 2.6% | 2.6% |
-| 35 min | EUR | Low | Spanish CPI (MoM) (Jan) |  | -0.4% | 0.3% |
-| 35 min | EUR | Moderate | Spanish CPI (YoY) (Jan) |  | 2.4% | 2.9% |
-| 35 min | EUR | Low | Spanish HICP (MoM) (Jan) |  | -0.7% | 0.3% |
-| 35 min | EUR | Moderate | Spanish HICP (YoY) (Jan) |  | 2.5% | 3.0% |
+| 07:30 | CHF | Moderate | CPI (MoM) (Jan) | -0.1% | 0.0% | 0.0% |
+| 07:30 | CHF | Low | CPI (YoY) (Jan) | 0.1% | 0.1% | 0.1% |
+| 08:00 | EUR | Low | Core CPI (YoY) (Jan) | 2.6% | 2.6% | 2.6% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Jan) | -0.4% | -0.4% | 0.3% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jan) | 2.3% | 2.4% | 2.9% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Jan) | -0.8% | -0.7% | 0.3% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jan) | 2.4% | 2.5% | 3.0% |
 | 10:00 | CNY | Low | M2 Money Stock (YoY) (Jan) |  | 8.3% | 8.5% |
 | 10:00 | CNY | Moderate | New Loans (Jan) |  | 5,000.0B | 910.0B |
 | 10:00 | CNY | Low | Outstanding Loan Growth (YoY) (Jan) |  | 6.2% | 6.4% |
