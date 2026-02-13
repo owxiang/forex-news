@@ -13,8 +13,8 @@
 | 03:00 | KRW | Low | M3 Money Supply (Dec) | 6,087.0B |  | 5,999.2B |
 | 03:00 | KRW | Low | M2 Money supply (Dec) | 7.30% |  | 6.80% |
 | 03:30 | JPY | Low | BoJ Tamura Speaks |  |  |  |
-| 07:00 | EUR | Low | German WPI (MoM) (Jan) |  | 0.1% | -0.2% |
-| 07:00 | EUR | Low | German WPI (YoY) (Jan) |  |  | 1.2% |
+| 32 min | EUR | Low | German WPI (MoM) (Jan) |  | 0.1% | -0.2% |
+| 32 min | EUR | Low | German WPI (YoY) (Jan) |  |  | 1.2% |
 | 07:30 | CHF | Moderate | CPI (MoM) (Jan) |  | 0.0% | 0.0% |
 | 07:30 | CHF | Low | CPI (YoY) (Jan) |  | 0.1% | 0.1% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Jan) |  | 2.6% | 2.6% |
@@ -30,7 +30,7 @@
 | 10:00 | EUR | Low | Employment Change (QoQ) (Q4) |  | 0.1% | 0.2% |
 | 10:00 | EUR | Low | Employment Overall (Q4) |  |  | 172,210.4K |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q4) |  | 0.3% | 0.3% |
-| 10:00 | EUR | Moderate | GDP (YoY) (Q4) |  | 1.3% | 1.4% |
+| 10:00 | EUR | Moderate | GDP (YoY) (Q4) |  | 1.3% | 1.3% |
 | 10:00 | EUR | Moderate | Trade Balance (Dec) |  | 11.8B | 9.9B |
 | 11:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Feb) |  |  | 0.3% |
 | 11:30 | INR | Low | Bank Loan Growth |  |  | 13.1% |

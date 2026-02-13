@@ -8,7 +8,7 @@
 | 08:00 | EUR | Spanish HICP (YoY) (Jan) |  | 2.5% | 3.0% |
 | 10:00 | CNY | New Loans (Jan) |  | 5,000.0B | 910.0B |
 | 10:00 | EUR | GDP (QoQ) (Q4) |  | 0.3% | 0.3% |
-| 10:00 | EUR | GDP (YoY) (Q4) |  | 1.3% | 1.4% |
+| 10:00 | EUR | GDP (YoY) (Q4) |  | 1.3% | 1.3% |
 | 10:00 | EUR | Trade Balance (Dec) |  | 11.8B | 9.9B |
 | 12:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 12:00 | BRL | Retail Sales (MoM) (Dec) |  | -0.2% | 1.0% |
