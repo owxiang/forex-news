@@ -47,7 +47,7 @@
 | 13:30 | USD | High | CPI (MoM) (Jan) | 0.2% | 0.3% | 0.3% |
 | 13:30 | USD | High | CPI (YoY) (Jan) | 2.4% | 2.5% | 2.7% |
 | 13:30 | USD | Low | CPI Index, n.s.a. (Jan) | 325.25 | 325.41 | 324.05 |
-| 13:30 | USD | Low | CPI Index, s.a (Jan) |  |  | 326.03 |
+| 13:30 | USD | Low | CPI Index, s.a (Jan) | 326.59 |  | 326.03 |
 | 13:30 | USD | Low | CPI, n.s.a (MoM) (Jan) | 0.37% |  | -0.02% |
 | 13:30 | USD | Low | Real Earnings (MoM) (Jan) | 0.5% |  | -0.5% |
 | 16:00 | USD | Low | Cleveland CPI (MoM) (Jan) |  |  | 0.3% |

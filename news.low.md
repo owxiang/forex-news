@@ -30,7 +30,7 @@
 | 11:30 | INR | FX Reserves, USD | 717.06B |  | 723.77B |
 | 13:30 | USD | Core CPI Index (Jan) | 332.79 |  | 331.81 |
 | 13:30 | USD | CPI Index, n.s.a. (Jan) | 325.25 | 325.41 | 324.05 |
-| 13:30 | USD | CPI Index, s.a (Jan) |  |  | 326.03 |
+| 13:30 | USD | CPI Index, s.a (Jan) | 326.59 |  | 326.03 |
 | 13:30 | USD | CPI, n.s.a (MoM) (Jan) | 0.37% |  | -0.02% |
 | 13:30 | USD | Real Earnings (MoM) (Jan) | 0.5% |  | -0.5% |
 | 16:00 | USD | Cleveland CPI (MoM) (Jan) |  |  | 0.3% |
