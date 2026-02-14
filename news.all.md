@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 19 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 16:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
