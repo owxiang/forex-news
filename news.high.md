@@ -1,3 +1,5 @@
-## 14 February 2026 - High Impact Forex News
+## 15 February 2026 - High Impact Forex News
 
-There is no high impact news today.
+| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 23:50 | JPY | GDP (QoQ) (Q4) |  | 0.4% | -0.6% |
