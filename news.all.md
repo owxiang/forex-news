@@ -11,6 +11,3 @@
 | 23:50 | JPY | Low | GDP External Demand (QoQ) (Q4) |  | 0.1% | -0.2% |
 | 23:50 | JPY | Moderate | GDP Price Index (YoY) (Q4) |  |  | 3.4% |
 | 23:50 | JPY | Low | GDP Private Consumption (QoQ) (Q4) |  | 0.1% | 0.2% |
-| 23:55 | KRW | Low | Exports (YoY) (Jan) |  | 33.9% | 33.9% |
-| 23:55 | KRW | Low | Imports (YoY) (Jan) |  | 11.7% | 11.7% |
-| 23:55 | KRW | Low | Trade Balance (Jan) |  | 8.74B | 8.74B |
