@@ -9,5 +9,5 @@
 | 23:50 | JPY | Moderate | GDP (YoY) (Q4) |  | 1.6% | -2.3% |
 | 23:50 | JPY | Low | GDP Capital Expenditure (QoQ) (Q4) |  | 0.8% | -0.2% |
 | 23:50 | JPY | Low | GDP External Demand (QoQ) (Q4) |  | 0.1% | -0.2% |
-| 23:50 | JPY | Moderate | GDP Price Index (YoY) (Q4) |  |  | 3.4% |
+| 23:50 | JPY | Moderate | GDP Price Index (YoY) (Q4) |  | 3.2% | 3.4% |
 | 23:50 | JPY | Low | GDP Private Consumption (QoQ) (Q4) |  | 0.1% | 0.2% |
