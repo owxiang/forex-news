@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 04:30 | JPY | Industrial Production (MoM) (Dec) |  | -0.1% | -0.1% |
+| 04:30 | JPY | Industrial Production (MoM) (Dec) | -0.1% | -0.1% | -0.1% |
 | 06:30 | INR | WPI Inflation (YoY) (Jan) |  | 1.25% | 0.83% |
 | 08:00 | CHF | GDP (QoQ) (Q4) |  |  | -0.5% |
 | 10:00 | EUR | Eurogroup Meetings |  |  |  |

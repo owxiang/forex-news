@@ -7,7 +7,7 @@
 | 00:30 | SGD | Non-Oil Exports (MoM) (Jan) | 0.70% |  | -8.80% |
 | 00:30 | SGD | Non-Oil Exports (YoY) (Jan) | 9.30% | 13.50% | 6.10% |
 | 00:30 | SGD | Trade Balance (Jan) | 12.534B |  | 4.501B |
-| 04:30 | JPY | Capacity Utilization (MoM) (Dec) |  |  | -5.3% |
+| 04:30 | JPY | Capacity Utilization (MoM) (Dec) | 1.3% |  | -5.3% |
 | 06:30 | INR | WPI Food (YoY) (Jan) |  |  | -0.43% |
 | 06:30 | INR | WPI Fuel (YoY) (Jan) |  |  | -2.31% |
 | 06:30 | INR | WPI Manufacturing Inflation (YoY) (Jan) |  |  | 1.82% |
