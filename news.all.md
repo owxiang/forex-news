@@ -32,4 +32,4 @@
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.004% |  | 2.004% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.026% |  | 2.031% |
 | 17:40 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 35 min | NZD | Low | FPI (MoM) (Jan) |  |  | -0.3% |
+| 21:45 | NZD | Low | FPI (MoM) (Jan) | 2.5% |  | -0.3% |
