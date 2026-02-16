@@ -8,11 +8,11 @@
 | 00:30 | SGD | Low | Non-Oil Exports (YoY) (Jan) | 9.30% | 13.50% | 6.10% |
 | 00:30 | SGD | Low | Trade Balance (Jan) | 12.534B |  | 4.501B |
 | 04:30 | JPY | Low | Capacity Utilization (MoM) (Dec) | 1.3% |  | -5.3% |
-| 04:30 | JPY | Moderate | Industrial Production (MoM) (Dec) | -0.1% | -0.1% | -0.1% |
-| 06:30 | INR | Low | WPI Food (YoY) (Jan) |  |  | -0.43% |
-| 06:30 | INR | Low | WPI Fuel (YoY) (Jan) |  |  | -2.31% |
-| 06:30 | INR | Moderate | WPI Inflation (YoY) (Jan) |  | 1.25% | 0.83% |
-| 06:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Jan) |  |  | 1.82% |
+| 04:30 | JPY | Moderate | Industrial Production (MoM) (Dec) | -0.1% | -0.1% | -2.7% |
+| 55 min | INR | Low | WPI Food (YoY) (Jan) |  |  | -0.43% |
+| 55 min | INR | Low | WPI Fuel (YoY) (Jan) |  |  | -2.31% |
+| 55 min | INR | Moderate | WPI Inflation (YoY) (Jan) |  | 1.25% | 0.83% |
+| 55 min | INR | Low | WPI Manufacturing Inflation (YoY) (Jan) |  |  | 1.82% |
 | 07:00 | NOK | Low | Trade Balance (Jan) |  |  | 42.9B |
 | 08:00 | CHF | Moderate | GDP (QoQ) (Q4) |  |  | -0.5% |
 | 09:00 | INR | Low | Exports (USD) (Jan) |  |  | 38.51B |
