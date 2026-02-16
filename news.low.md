@@ -1,9 +1,35 @@
-## 15 February 2026 - Low Impact Forex News
+## 16 February 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 21:30 | NZD | Performance of Services Index (Jan) | 50.9 |  | 51.7 |
-| 21:45 | NZD | Electronic Card Retail Sales (YoY) (Jan) | 0.4% |  | -0.5% |
-| 40 min | JPY | GDP Capital Expenditure (QoQ) (Q4) |  | 0.8% | -0.2% |
-| 40 min | JPY | GDP External Demand (QoQ) (Q4) |  | 0.1% | -0.2% |
-| 40 min | JPY | GDP Private Consumption (QoQ) (Q4) |  | 0.1% | 0.2% |
+| 00:01 | GBP | Rightmove House Price Index (MoM) | 0.0% |  | 2.8% |
+| 00:01 | GBP | Rightmove House Price Index (YoY) (Feb) | 0.0% |  | 0.5% |
+| 00:30 | SGD | Non-Oil Exports (MoM) (Jan) | 0.70% |  | -8.80% |
+| 00:30 | SGD | Non-Oil Exports (YoY) (Jan) | 9.30% | 13.50% | 6.10% |
+| 00:30 | SGD | Trade Balance (Jan) | 12.534B |  | 4.501B |
+| 18 min | KRW | Exports (YoY) (Jan) |  | 33.9% | 33.9% |
+| 18 min | KRW | Imports (YoY) (Jan) |  | 11.7% | 11.7% |
+| 18 min | KRW | Trade Balance (Jan) |  | 8.74B | 8.74B |
+| 04:30 | JPY | Capacity Utilization (MoM) (Dec) |  |  | -5.3% |
+| 06:30 | INR | WPI Food (YoY) (Jan) |  |  | -0.43% |
+| 06:30 | INR | WPI Fuel (YoY) (Jan) |  |  | -2.31% |
+| 06:30 | INR | WPI Manufacturing Inflation (YoY) (Jan) |  |  | 1.82% |
+| 07:00 | NOK | Trade Balance (Jan) |  |  | 42.9B |
+| 09:00 | INR | Exports (USD) (Jan) |  |  | 38.51B |
+| 09:00 | INR | Imports (USD) (Jan) |  |  | 63.55B |
+| 09:00 | INR | Trade Balance (Jan) |  | -26.14B | -25.04B |
+| 09:00 | CNY | FDI (Jan) |  |  | -9.50% |
+| 10:00 | EUR | Industrial Production (YoY) (Dec) |  | 1.2% | 2.5% |
+| 10:30 | EUR | German 12-Month Bubill Auction |  |  | 2.004% |
+| 10:30 | ZAR | Business Confidence (Dec) |  |  | 132.3 |
+| 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 11:00 | EUR | Reserve Assets Total |  |  | 1,776.14B |
+| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 13:30 | CAD | Common CPI (YoY) (Jan) |  |  | 2.8% |
+| 13:30 | CAD | CPI (YoY) (Jan) |  |  | 2.4% |
+| 13:30 | CAD | Manufacturing Sales (MoM) (Dec) |  | 0.5% | -1.2% |
+| 13:30 | CAD | Trimmed CPI (YoY) (Jan) |  |  | 2.7% |
+| 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.038% |
+| 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.004% |
+| 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.031% |
+| 21:45 | NZD | FPI (MoM) (Jan) |  |  | -0.3% |

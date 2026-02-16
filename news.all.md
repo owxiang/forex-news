@@ -1,14 +1,44 @@
-## 15 February 2026 - All Forex News
+## 16 February 2026 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 09:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 21:30 | NZD | Low | Performance of Services Index (Jan) | 50.9 |  | 51.7 |
-| 21:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Jan) | -1.1% |  | -0.3% |
-| 21:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Jan) | 0.4% |  | -0.5% |
-| 40 min | JPY | High | GDP (QoQ) (Q4) |  | 0.4% | -0.6% |
-| 40 min | JPY | Moderate | GDP (YoY) (Q4) |  | 1.6% | -2.3% |
-| 40 min | JPY | Low | GDP Capital Expenditure (QoQ) (Q4) |  | 0.8% | -0.2% |
-| 40 min | JPY | Low | GDP External Demand (QoQ) (Q4) |  | 0.1% | -0.2% |
-| 40 min | JPY | Moderate | GDP Price Index (YoY) (Q4) |  | 3.2% | 3.4% |
-| 40 min | JPY | Low | GDP Private Consumption (QoQ) (Q4) |  | 0.1% | 0.2% |
+| 00:01 | GBP | Low | Rightmove House Price Index (MoM) | 0.0% |  | 2.8% |
+| 00:01 | GBP | Low | Rightmove House Price Index (YoY) (Feb) | 0.0% |  | 0.5% |
+| 00:30 | SGD | Low | Non-Oil Exports (MoM) (Jan) | 0.70% |  | -8.80% |
+| 00:30 | SGD | Low | Non-Oil Exports (YoY) (Jan) | 9.30% | 13.50% | 6.10% |
+| 00:30 | SGD | Low | Trade Balance (Jan) | 12.534B |  | 4.501B |
+| 18 min | KRW | Low | Exports (YoY) (Jan) |  | 33.9% | 33.9% |
+| 18 min | KRW | Low | Imports (YoY) (Jan) |  | 11.7% | 11.7% |
+| 18 min | KRW | Low | Trade Balance (Jan) |  | 8.74B | 8.74B |
+| 04:30 | JPY | Low | Capacity Utilization (MoM) (Dec) |  |  | -5.3% |
+| 04:30 | JPY | Moderate | Industrial Production (MoM) (Dec) |  | -0.1% | -0.1% |
+| 06:30 | INR | Low | WPI Food (YoY) (Jan) |  |  | -0.43% |
+| 06:30 | INR | Low | WPI Fuel (YoY) (Jan) |  |  | -2.31% |
+| 06:30 | INR | Moderate | WPI Inflation (YoY) (Jan) |  | 1.25% | 0.83% |
+| 06:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Jan) |  |  | 1.82% |
+| 07:00 | NOK | Low | Trade Balance (Jan) |  |  | 42.9B |
+| 08:00 | CHF | Moderate | GDP (QoQ) (Q4) |  |  | -0.5% |
+| 09:00 | INR | Low | Exports (USD) (Jan) |  |  | 38.51B |
+| 09:00 | INR | Low | Imports (USD) (Jan) |  |  | 63.55B |
+| 09:00 | INR | Low | Trade Balance (Jan) |  | -26.14B | -25.04B |
+| 09:00 | CNY | Low | FDI (Jan) |  |  | -9.50% |
+| 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 10:00 | EUR | Moderate | Industrial Production (MoM) (Dec) |  | -1.5% | 0.7% |
+| 10:00 | EUR | Low | Industrial Production (YoY) (Dec) |  | 1.2% | 2.5% |
+| 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 2.004% |
+| 10:30 | ZAR | Low | Business Confidence (Dec) |  |  | 132.3 |
+| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 11:00 | EUR | Low | Reserve Assets Total |  |  | 1,776.14B |
+| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 13:15 | CAD | Moderate | Housing Starts (Jan) |  | 266.0K | 282.4K |
+| 13:25 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 13:30 | CAD | Low | Common CPI (YoY) (Jan) |  |  | 2.8% |
+| 13:30 | CAD | Moderate | CPI (MoM) (Jan) |  |  | -0.2% |
+| 13:30 | CAD | Low | CPI (YoY) (Jan) |  |  | 2.4% |
+| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Dec) |  | 0.5% | -1.2% |
+| 13:30 | CAD | Low | Trimmed CPI (YoY) (Jan) |  |  | 2.7% |
+| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.038% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.004% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.031% |
+| 17:40 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 21:45 | NZD | Low | FPI (MoM) (Jan) |  |  | -0.3% |
