@@ -25,11 +25,11 @@
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | EUR | Low | Reserve Assets Total | 1,987.13B |  | 1,776.14B |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 54 min | CAD | Moderate | Housing Starts (Jan) |  | 266.0K | 282.4K |
+| 13:15 | CAD | Moderate | Housing Starts (Jan) | 238.0K | 266.0K | 280.7K |
 | 13:25 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Dec) |  | -1.2% | -1.0% |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.038% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.004% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.031% |
+| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Dec) | 0.6% | 0.5% | -1.3% |
+| 26 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.038% |
+| 26 min | EUR | Low | French 3-Month BTF Auction |  |  | 2.004% |
+| 26 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.031% |
 | 17:40 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 21:45 | NZD | Low | FPI (MoM) (Jan) |  |  | -0.3% |
