@@ -18,14 +18,13 @@
 | 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 10:00 | EUR | Moderate | Industrial Production (MoM) (Dec) | -1.4% | -1.5% | 0.3% |
 | 10:00 | EUR | Low | Industrial Production (YoY) (Dec) | 1.2% | 1.2% | 2.2% |
-| 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 2.004% |
-| 11:00 | INR | Low | Exports (USD) (Jan) |  |  | 38.51B |
-| 11:00 | INR | Low | Imports (USD) (Jan) |  |  | 63.55B |
-| 11:00 | INR | Low | Trade Balance (Jan) |  | -26.14B | -25.04B |
+| 10:50 | EUR | Low | German 12-Month Bubill Auction | 1.985% |  | 2.004% |
+| 11:00 | INR | Low | Exports (USD) (Jan) | 36.56B |  | 38.51B |
+| 11:00 | INR | Low | Imports (USD) (Jan) | 71.24B |  | 63.55B |
+| 11:00 | INR | Low | Trade Balance (Jan) | -34.68B | -26.14B | -25.04B |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 11:00 | CNY | Low | FDI (Jan) |  |  | -9.50% |
-| 11:00 | EUR | Low | Reserve Assets Total |  |  | 1,776.14B |
-| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 11:00 | EUR | Low | Reserve Assets Total | 1,987.13B |  | 1,776.14B |
+| 4 min | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:15 | CAD | Moderate | Housing Starts (Jan) |  | 266.0K | 282.4K |
 | 13:25 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Dec) |  | -1.2% | -1.0% |

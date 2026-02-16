@@ -13,14 +13,13 @@
 | 06:30 | INR | WPI Manufacturing Inflation (YoY) (Jan) | 2.86% |  | 1.82% |
 | 07:00 | NOK | Trade Balance (Jan) | 75.9B |  | 42.9B |
 | 10:00 | EUR | Industrial Production (YoY) (Dec) | 1.2% | 1.2% | 2.2% |
-| 10:30 | EUR | German 12-Month Bubill Auction |  |  | 2.004% |
-| 11:00 | INR | Exports (USD) (Jan) |  |  | 38.51B |
-| 11:00 | INR | Imports (USD) (Jan) |  |  | 63.55B |
-| 11:00 | INR | Trade Balance (Jan) |  | -26.14B | -25.04B |
+| 10:50 | EUR | German 12-Month Bubill Auction | 1.985% |  | 2.004% |
+| 11:00 | INR | Exports (USD) (Jan) | 36.56B |  | 38.51B |
+| 11:00 | INR | Imports (USD) (Jan) | 71.24B |  | 63.55B |
+| 11:00 | INR | Trade Balance (Jan) | -34.68B | -26.14B | -25.04B |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 11:00 | CNY | FDI (Jan) |  |  | -9.50% |
-| 11:00 | EUR | Reserve Assets Total |  |  | 1,776.14B |
-| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 11:00 | EUR | Reserve Assets Total | 1,987.13B |  | 1,776.14B |
+| 4 min | BRL | BCB Focus Market Readout |  |  |  |
 | 13:30 | CAD | Manufacturing Sales (MoM) (Dec) |  | -1.2% | -1.0% |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.038% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.004% |
