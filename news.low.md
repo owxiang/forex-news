@@ -24,4 +24,4 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 2.040% |  | 2.038% |
 | 14:00 | EUR | French 3-Month BTF Auction | 2.004% |  | 2.004% |
 | 14:00 | EUR | French 6-Month BTF Auction | 2.026% |  | 2.031% |
-| 21:45 | NZD | FPI (MoM) (Jan) |  |  | -0.3% |
+| 35 min | NZD | FPI (MoM) (Jan) |  |  | -0.3% |
