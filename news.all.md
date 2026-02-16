@@ -7,9 +7,6 @@
 | 00:30 | SGD | Low | Non-Oil Exports (MoM) (Jan) | 0.70% |  | -8.80% |
 | 00:30 | SGD | Low | Non-Oil Exports (YoY) (Jan) | 9.30% | 13.50% | 6.10% |
 | 00:30 | SGD | Low | Trade Balance (Jan) | 12.534B |  | 4.501B |
-| 18 min | KRW | Low | Exports (YoY) (Jan) |  | 33.9% | 33.9% |
-| 18 min | KRW | Low | Imports (YoY) (Jan) |  | 11.7% | 11.7% |
-| 18 min | KRW | Low | Trade Balance (Jan) |  | 8.74B | 8.74B |
 | 04:30 | JPY | Low | Capacity Utilization (MoM) (Dec) |  |  | -5.3% |
 | 04:30 | JPY | Moderate | Industrial Production (MoM) (Dec) |  | -0.1% | -0.1% |
 | 06:30 | INR | Low | WPI Food (YoY) (Jan) |  |  | -0.43% |
@@ -23,8 +20,8 @@
 | 09:00 | INR | Low | Trade Balance (Jan) |  | -26.14B | -25.04B |
 | 09:00 | CNY | Low | FDI (Jan) |  |  | -9.50% |
 | 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 10:00 | EUR | Moderate | Industrial Production (MoM) (Dec) |  | -1.5% | 0.7% |
 | 10:00 | EUR | Low | Industrial Production (YoY) (Dec) |  | 1.2% | 2.5% |
+| 10:00 | EUR | Moderate | Industrial Production (MoM) (Dec) |  | -1.5% | 0.7% |
 | 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 2.004% |
 | 10:30 | ZAR | Low | Business Confidence (Dec) |  |  | 132.3 |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
