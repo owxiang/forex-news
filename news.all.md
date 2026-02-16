@@ -15,11 +15,10 @@
 | 06:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Jan) | 2.86% |  | 1.82% |
 | 07:00 | NOK | Low | Trade Balance (Jan) | 75.9B |  | 42.9B |
 | 08:00 | CHF | Moderate | GDP (QoQ) (Q4) | 0.2% |  | -0.5% |
-| 35 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 35 min | EUR | Moderate | Industrial Production (MoM) (Dec) |  | -1.5% | 0.7% |
-| 35 min | EUR | Low | Industrial Production (YoY) (Dec) |  | 1.2% | 2.5% |
+| 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 10:00 | EUR | Moderate | Industrial Production (MoM) (Dec) | -1.4% | -1.5% | 0.3% |
+| 10:00 | EUR | Low | Industrial Production (YoY) (Dec) | 1.2% | 1.2% | 2.2% |
 | 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 2.004% |
-| 10:30 | ZAR | Low | Business Confidence (Dec) |  |  | 132.3 |
 | 11:00 | INR | Low | Exports (USD) (Jan) |  |  | 38.51B |
 | 11:00 | INR | Low | Imports (USD) (Jan) |  |  | 63.55B |
 | 11:00 | INR | Low | Trade Balance (Jan) |  | -26.14B | -25.04B |

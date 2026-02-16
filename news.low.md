@@ -12,9 +12,8 @@
 | 06:30 | INR | WPI Fuel (YoY) (Jan) | -4.01% |  | -2.31% |
 | 06:30 | INR | WPI Manufacturing Inflation (YoY) (Jan) | 2.86% |  | 1.82% |
 | 07:00 | NOK | Trade Balance (Jan) | 75.9B |  | 42.9B |
-| 35 min | EUR | Industrial Production (YoY) (Dec) |  | 1.2% | 2.5% |
+| 10:00 | EUR | Industrial Production (YoY) (Dec) | 1.2% | 1.2% | 2.2% |
 | 10:30 | EUR | German 12-Month Bubill Auction |  |  | 2.004% |
-| 10:30 | ZAR | Business Confidence (Dec) |  |  | 132.3 |
 | 11:00 | INR | Exports (USD) (Jan) |  |  | 38.51B |
 | 11:00 | INR | Imports (USD) (Jan) |  |  | 63.55B |
 | 11:00 | INR | Trade Balance (Jan) |  | -26.14B | -25.04B |
