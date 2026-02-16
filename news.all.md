@@ -28,8 +28,8 @@
 | 13:15 | CAD | Moderate | Housing Starts (Jan) | 238.0K | 266.0K | 280.7K |
 | 13:25 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Dec) | 0.6% | 0.5% | -1.3% |
-| 26 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.038% |
-| 26 min | EUR | Low | French 3-Month BTF Auction |  |  | 2.004% |
-| 26 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.031% |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.040% |  | 2.038% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.004% |  | 2.004% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.026% |  | 2.031% |
 | 17:40 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 21:45 | NZD | Low | FPI (MoM) (Jan) |  |  | -0.3% |

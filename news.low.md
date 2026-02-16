@@ -21,7 +21,7 @@
 | 11:00 | EUR | Reserve Assets Total | 1,987.13B |  | 1,776.14B |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:30 | CAD | Manufacturing Sales (MoM) (Dec) | 0.6% | 0.5% | -1.3% |
-| 26 min | EUR | French 12-Month BTF Auction |  |  | 2.038% |
-| 26 min | EUR | French 3-Month BTF Auction |  |  | 2.004% |
-| 26 min | EUR | French 6-Month BTF Auction |  |  | 2.031% |
+| 14:00 | EUR | French 12-Month BTF Auction | 2.040% |  | 2.038% |
+| 14:00 | EUR | French 3-Month BTF Auction | 2.004% |  | 2.004% |
+| 14:00 | EUR | French 6-Month BTF Auction | 2.026% |  | 2.031% |
 | 21:45 | NZD | FPI (MoM) (Jan) |  |  | -0.3% |
