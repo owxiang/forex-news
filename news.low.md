@@ -19,7 +19,7 @@
 | 11:00 | INR | Trade Balance (Jan) | -34.68B | -26.14B | -25.04B |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 11:00 | EUR | Reserve Assets Total | 1,987.13B |  | 1,776.14B |
-| 4 min | BRL | BCB Focus Market Readout |  |  |  |
+| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:30 | CAD | Manufacturing Sales (MoM) (Dec) |  | -1.2% | -1.0% |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.038% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.004% |

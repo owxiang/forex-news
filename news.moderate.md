@@ -7,6 +7,6 @@
 | 08:00 | CHF | GDP (QoQ) (Q4) | 0.2% |  | -0.5% |
 | 10:00 | EUR | Eurogroup Meetings |  |  |  |
 | 10:00 | EUR | Industrial Production (MoM) (Dec) | -1.4% | -1.5% | 0.3% |
-| 13:15 | CAD | Housing Starts (Jan) |  | 266.0K | 282.4K |
+| 54 min | CAD | Housing Starts (Jan) |  | 266.0K | 282.4K |
 | 13:25 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 17:40 | EUR | German Buba President Nagel Speaks |  |  |  |

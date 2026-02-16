@@ -24,8 +24,8 @@
 | 11:00 | INR | Low | Trade Balance (Jan) | -34.68B | -26.14B | -25.04B |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | EUR | Low | Reserve Assets Total | 1,987.13B |  | 1,776.14B |
-| 4 min | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:15 | CAD | Moderate | Housing Starts (Jan) |  | 266.0K | 282.4K |
+| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 54 min | CAD | Moderate | Housing Starts (Jan) |  | 266.0K | 282.4K |
 | 13:25 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Dec) |  | -1.2% | -1.0% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.038% |
