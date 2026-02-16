@@ -14,14 +14,14 @@
 | 06:30 | INR | Moderate | WPI Inflation (YoY) (Jan) | 1.81% | 1.25% | 0.83% |
 | 06:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Jan) | 2.86% |  | 1.82% |
 | 07:00 | NOK | Low | Trade Balance (Jan) | 75.9B |  | 42.9B |
-| 08:00 | CHF | Moderate | GDP (QoQ) (Q4) |  |  | -0.5% |
+| 08:00 | CHF | Moderate | GDP (QoQ) (Q4) | 0.2% |  | -0.5% |
 | 09:00 | INR | Low | Exports (USD) (Jan) |  |  | 38.51B |
 | 09:00 | INR | Low | Imports (USD) (Jan) |  |  | 63.55B |
 | 09:00 | INR | Low | Trade Balance (Jan) |  | -26.14B | -25.04B |
 | 09:00 | CNY | Low | FDI (Jan) |  |  | -9.50% |
 | 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 10:00 | EUR | Low | Industrial Production (YoY) (Dec) |  | 1.2% | 2.5% |
 | 10:00 | EUR | Moderate | Industrial Production (MoM) (Dec) |  | -1.5% | 0.7% |
+| 10:00 | EUR | Low | Industrial Production (YoY) (Dec) |  | 1.2% | 2.5% |
 | 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 2.004% |
 | 10:30 | ZAR | Low | Business Confidence (Dec) |  |  | 132.3 |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
@@ -29,11 +29,7 @@
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:15 | CAD | Moderate | Housing Starts (Jan) |  | 266.0K | 282.4K |
 | 13:25 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 13:30 | CAD | Low | Common CPI (YoY) (Jan) |  |  | 2.8% |
-| 13:30 | CAD | Moderate | CPI (MoM) (Jan) |  |  | -0.2% |
-| 13:30 | CAD | Low | CPI (YoY) (Jan) |  |  | 2.4% |
-| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Dec) |  | 0.5% | -1.2% |
-| 13:30 | CAD | Low | Trimmed CPI (YoY) (Jan) |  |  | 2.7% |
+| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Dec) |  | -1.2% | -1.0% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.038% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.004% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.031% |
