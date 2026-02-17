@@ -16,15 +16,15 @@
 | 07:00 | EUR | Low | German HICP (YoY) (Jan) | 2.1% | 2.1% | 2.0% |
 | 09:00 | EUR | Low | Italian Trade Balance (Dec) | 6.037B | 4.750B | 5.056B |
 | 09:00 | EUR | Low | Italian Trade Balance EU (Dec) | -2.45B |  | -1.98B |
-| 7 min | GBP | Moderate | Labour Productivity (Q3) |  | -0.6% | 0.7% |
-| 7 min | ZAR | Low | Unemployment Rate (Q4) |  |  | 31.90% |
-| 7 min | ZAR | Low | Unemployment (Q4) |  |  | 8.007M |
-| 37 min | EUR | Moderate | German ZEW Current Conditions (Feb) |  | -65.7 | -72.7 |
-| 37 min | EUR | Moderate | German ZEW Economic Sentiment (Feb) |  | 65.8 | 59.6 |
-| 37 min | EUR | Low | ECOFIN Meetings |  |  |  |
-| 37 min | EUR | Moderate | ZEW Economic Sentiment (Feb) |  | 45.7 | 40.8 |
-| 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 2.140% |
-| 10:30 | ZAR | Low | Business Confidence (Dec) |  |  | 132.3 |
+| 09:30 | GBP | Moderate | Labour Productivity (Q3) | 1.1% | -0.6% | -0.5% |
+| 09:30 | ZAR | Low | Unemployment Rate (Q4) | 31.40% |  | 31.90% |
+| 09:30 | ZAR | Low | Unemployment (Q4) | 7.836M |  | 8.007M |
+| 10:00 | EUR | Moderate | German ZEW Current Conditions (Feb) | -65.9 | -65.7 | -72.7 |
+| 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Feb) | 58.3 | 65.8 | 59.6 |
+| 10:00 | EUR | Low | ECOFIN Meetings |  |  |  |
+| 10:00 | EUR | Moderate | ZEW Economic Sentiment (Feb) | 39.4 | 45.7 | 40.8 |
+| 7 min | EUR | Low | German 2-Year Schatz Auction |  |  | 2.140% |
+| 7 min | ZAR | Low | Business Confidence (Dec) |  |  | 132.3 |
 | 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 6.50K |
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Feb) |  | 6.40 | 7.70 |
 | 13:30 | CAD | Low | Common CPI (YoY) (Jan) |  | 2.7% | 2.8% |
