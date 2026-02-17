@@ -12,13 +12,13 @@
 | 10:00 | EUR | German ZEW Current Conditions (Feb) | -65.9 | -65.7 | -72.7 |
 | 10:00 | EUR | German ZEW Economic Sentiment (Feb) | 58.3 | 65.8 | 59.6 |
 | 10:00 | EUR | ZEW Economic Sentiment (Feb) | 39.4 | 45.7 | 40.8 |
-| 55 min | USD | ADP Employment Change Weekly |  |  | 6.50K |
-| 13:30 | USD | NY Empire State Manufacturing Index (Feb) |  | 6.40 | 7.70 |
-| 13:30 | CAD | Core CPI (MoM) (Jan) |  |  | -0.4% |
-| 13:30 | CAD | Core CPI (YoY) (Jan) |  |  | 2.8% |
-| 13:30 | CAD | CPI (MoM) (Jan) |  | 0.1% | -0.2% |
-| 13:30 | CAD | Foreign Securities Purchases (Dec) |  | 14.27B | 16.33B |
-| 13:30 | CAD | Wholesale Sales (MoM) (Dec) |  | 2.1% | -1.8% |
+| 13:15 | USD | ADP Employment Change Weekly | 10.30K |  | 7.80K |
+| 13:30 | USD | NY Empire State Manufacturing Index (Feb) | 7.10 | 6.40 | 7.70 |
+| 13:30 | CAD | Core CPI (MoM) (Jan) | 0.2% |  | -0.4% |
+| 13:30 | CAD | Core CPI (YoY) (Jan) | 2.6% |  | 2.8% |
+| 13:30 | CAD | CPI (MoM) (Jan) | 0.0% | 0.1% | -0.2% |
+| 13:30 | CAD | Foreign Securities Purchases (Dec) | -5.57B | 14.27B | 15.96B |
+| 13:30 | CAD | Wholesale Sales (MoM) (Dec) | 2.0% | 2.1% | -1.8% |
 | 16:30 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 17:45 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 18:00 | EUR | German Buba Balz Speaks |  |  |  |
