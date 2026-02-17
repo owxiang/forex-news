@@ -43,7 +43,7 @@
 | 16:30 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 17:45 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 18:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 6 min | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
+| 19:30 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 21:45 | NZD | Moderate | PPI Input (QoQ) (Q4) |  | 0.5% | 0.2% |
 | 21:45 | NZD | Low | PPI Output (QoQ) (Q4) |  | 0.7% | 0.6% |
 | 23:00 | JPY | Low | Reuters Tankan Index (Feb) |  |  | 7 |

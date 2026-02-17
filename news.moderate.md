@@ -22,7 +22,7 @@
 | 16:30 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 17:45 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 18:00 | EUR | German Buba Balz Speaks |  |  |  |
-| 6 min | USD | FOMC Member Daly Speaks |  |  |  |
+| 19:30 | USD | FOMC Member Daly Speaks |  |  |  |
 | 21:45 | NZD | PPI Input (QoQ) (Q4) |  | 0.5% | 0.2% |
 | 23:50 | JPY | Adjusted Trade Balance |  | -0.16T | -0.21T |
 | 23:50 | JPY | Exports (YoY) (Jan) |  | 12.0% | 5.1% |
