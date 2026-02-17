@@ -12,8 +12,7 @@
 | 09:30 | ZAR | Unemployment Rate (Q4) | 31.40% |  | 31.90% |
 | 09:30 | ZAR | Unemployment (Q4) | 7.836M |  | 8.007M |
 | 10:00 | EUR | ECOFIN Meetings |  |  |  |
-| 7 min | EUR | German 2-Year Schatz Auction |  |  | 2.140% |
-| 7 min | ZAR | Business Confidence (Dec) |  |  | 132.3 |
+| 10:50 | EUR | German 2-Year Schatz Auction | 2.020% |  | 2.140% |
 | 13:30 | CAD | Common CPI (YoY) (Jan) |  | 2.7% | 2.8% |
 | 13:30 | CAD | CPI (YoY) (Jan) |  | 2.4% | 2.4% |
 | 13:30 | CAD | Foreign Securities Purchases by Canadians (Dec) |  |  | 16.490B |
