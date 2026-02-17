@@ -24,6 +24,6 @@
 | 18:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 19:30 | USD | FOMC Member Daly Speaks |  |  |  |
 | 21:45 | NZD | PPI Input (QoQ) (Q4) | -0.5% | 0.5% | 0.2% |
-| 23:50 | JPY | Adjusted Trade Balance |  | -0.16T | -0.21T |
-| 23:50 | JPY | Exports (YoY) (Jan) |  | 12.0% | 5.1% |
-| 23:50 | JPY | Trade Balance (Jan) |  | -2,142.1B | 105.7B |
+| 38 min | JPY | Adjusted Trade Balance |  | -0.16T | -0.21T |
+| 38 min | JPY | Exports (YoY) (Jan) |  | 12.0% | 5.1% |
+| 38 min | JPY | Trade Balance (Jan) |  | -2,142.1B | 105.7B |

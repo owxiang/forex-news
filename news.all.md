@@ -46,8 +46,8 @@
 | 19:30 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 21:45 | NZD | Moderate | PPI Input (QoQ) (Q4) | -0.5% | 0.5% | 0.2% |
 | 21:45 | NZD | Low | PPI Output (QoQ) (Q4) | 0.1% | 0.7% | 0.6% |
-| 49 min | JPY | Low | Reuters Tankan Index (Feb) |  |  | 7 |
-| 23:50 | JPY | Moderate | Adjusted Trade Balance |  | -0.16T | -0.21T |
-| 23:50 | JPY | Moderate | Exports (YoY) (Jan) |  | 12.0% | 5.1% |
-| 23:50 | JPY | Low | Imports (YoY) (Jan) |  | 3.0% | 5.2% |
-| 23:50 | JPY | Moderate | Trade Balance (Jan) |  | -2,142.1B | 105.7B |
+| 23:00 | JPY | Low | Reuters Tankan Index (Feb) | 13 |  | 7 |
+| 38 min | JPY | Moderate | Adjusted Trade Balance |  | -0.16T | -0.21T |
+| 38 min | JPY | Moderate | Exports (YoY) (Jan) |  | 12.0% | 5.1% |
+| 38 min | JPY | Low | Imports (YoY) (Jan) |  | 3.0% | 5.2% |
+| 38 min | JPY | Moderate | Trade Balance (Jan) |  | -2,142.1B | 105.7B |
