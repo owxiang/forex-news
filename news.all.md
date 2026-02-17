@@ -1,4 +1,4 @@
-## None - All Forex News
+## 17 February 2026 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
@@ -14,8 +14,8 @@
 | 07:00 | EUR | Moderate | German CPI (YoY) (Jan) | 2.1% | 2.1% | 1.8% |
 | 07:00 | EUR | Low | German HICP (MoM) (Jan) | -0.1% | -0.1% | 0.2% |
 | 07:00 | EUR | Low | German HICP (YoY) (Jan) | 2.1% | 2.1% | 2.0% |
-| 09:00 | EUR | Low | Italian Trade Balance (Dec) |  | 4.750B | 5.078B |
-| 09:00 | EUR | Low | Italian Trade Balance EU (Dec) |  |  | -1.96B |
+| 39 min | EUR | Low | Italian Trade Balance (Dec) |  | 4.750B | 5.078B |
+| 39 min | EUR | Low | Italian Trade Balance EU (Dec) |  |  | -1.96B |
 | 09:30 | GBP | Moderate | Labour Productivity (Q3) |  | -0.6% | 0.7% |
 | 09:30 | ZAR | Low | Unemployment Rate (Q4) |  |  | 31.90% |
 | 09:30 | ZAR | Low | Unemployment (Q4) |  |  | 8.007M |
