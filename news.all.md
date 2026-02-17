@@ -36,10 +36,10 @@
 | 13:30 | CAD | Low | Median CPI (YoY) (Jan) | 2.5% | 2.5% | 2.6% |
 | 13:30 | CAD | Low | Trimmed CPI (YoY) (Jan) | 2.4% | 2.6% | 2.7% |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Dec) | 2.0% | 2.1% | -1.8% |
-| 15:00 | USD | Low | CB Employment Trends Index (Jan) |  |  | 104.27 |
-| 15:00 | USD | Low | NAHB Housing Market Index (Feb) |  | 38 | 37 |
-| 15:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 6.7% |
-| 15:00 | USD | Low | Milk Auctions |  |  | 3,830.0 |
+| 36 min | USD | Low | CB Employment Trends Index (Jan) |  |  | 104.27 |
+| 36 min | USD | Low | NAHB Housing Market Index (Feb) |  | 38 | 37 |
+| 36 min | NZD | Low | GlobalDairyTrade Price Index |  |  | 6.7% |
+| 36 min | USD | Low | Milk Auctions |  |  | 3,830.0 |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.600% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.500% |
 | 16:30 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
