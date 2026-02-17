@@ -12,7 +12,7 @@
 | 10:00 | EUR | German ZEW Current Conditions (Feb) | -65.9 | -65.7 | -72.7 |
 | 10:00 | EUR | German ZEW Economic Sentiment (Feb) | 58.3 | 65.8 | 59.6 |
 | 10:00 | EUR | ZEW Economic Sentiment (Feb) | 39.4 | 45.7 | 40.8 |
-| 13:15 | USD | ADP Employment Change Weekly |  |  | 6.50K |
+| 55 min | USD | ADP Employment Change Weekly |  |  | 6.50K |
 | 13:30 | USD | NY Empire State Manufacturing Index (Feb) |  | 6.40 | 7.70 |
 | 13:30 | CAD | Core CPI (MoM) (Jan) |  |  | -0.4% |
 | 13:30 | CAD | Core CPI (YoY) (Jan) |  |  | 2.8% |

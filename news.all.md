@@ -24,7 +24,7 @@
 | 10:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 10:00 | EUR | Moderate | ZEW Economic Sentiment (Feb) | 39.4 | 45.7 | 40.8 |
 | 10:50 | EUR | Low | German 2-Year Schatz Auction | 2.020% |  | 2.140% |
-| 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 6.50K |
+| 55 min | USD | Moderate | ADP Employment Change Weekly |  |  | 6.50K |
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Feb) |  | 6.40 | 7.70 |
 | 13:30 | CAD | Low | Common CPI (YoY) (Jan) |  | 2.7% | 2.8% |
 | 13:30 | CAD | Moderate | Core CPI (MoM) (Jan) |  |  | -0.4% |
