@@ -1,19 +1,19 @@
-## 17 February 2026 - All Forex News
+## None - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
 | 03:35 | JPY | Low | 5-Year JGB Auction | 1.640% |  | 1.639% |
 | 04:30 | JPY | Low | Tertiary Industry Activity Index (Dec) | 8.40 |  | -2.50 |
-| 33 min | GBP | Low | Average Earnings ex Bonus (Dec) |  | 4.2% | 4.5% |
-| 33 min | GBP | Moderate | Average Earnings Index +Bonus (Dec) |  | 4.6% | 4.7% |
-| 33 min | GBP | Moderate | Claimant Count Change (Jan) |  | 22.8K | 17.9K |
-| 33 min | GBP | Moderate | Employment Change 3M/3M (MoM) (Dec) |  |  | 82K |
-| 33 min | GBP | Moderate | Unemployment Rate (Dec) |  | 5.2% | 5.1% |
-| 33 min | EUR | High | German CPI (MoM) (Jan) |  | 0.1% | 0.0% |
-| 33 min | EUR | Moderate | German CPI (YoY) (Jan) |  | 2.1% | 1.8% |
-| 33 min | EUR | Low | German HICP (MoM) (Jan) |  | -0.1% | 0.2% |
-| 33 min | EUR | Low | German HICP (YoY) (Jan) |  | 2.1% | 2.0% |
+| 07:00 | GBP | Low | Average Earnings ex Bonus (Dec) | 4.2% | 4.2% | 4.4% |
+| 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Dec) | 4.2% | 4.6% | 4.6% |
+| 07:00 | GBP | Moderate | Claimant Count Change (Jan) | 28.6K | 22.8K | 2.7K |
+| 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Dec) | 52K |  | 82K |
+| 07:00 | GBP | Moderate | Unemployment Rate (Dec) | 5.2% | 5.2% | 5.1% |
+| 07:00 | EUR | High | German CPI (MoM) (Jan) | 0.1% | 0.1% | 0.0% |
+| 07:00 | EUR | Moderate | German CPI (YoY) (Jan) | 2.1% | 2.1% | 1.8% |
+| 07:00 | EUR | Low | German HICP (MoM) (Jan) | -0.1% | -0.1% | 0.2% |
+| 07:00 | EUR | Low | German HICP (YoY) (Jan) | 2.1% | 2.1% | 2.0% |
 | 09:00 | EUR | Low | Italian Trade Balance (Dec) |  | 4.750B | 5.078B |
 | 09:00 | EUR | Low | Italian Trade Balance EU (Dec) |  |  | -1.96B |
 | 09:30 | GBP | Moderate | Labour Productivity (Q3) |  | -0.6% | 0.7% |
@@ -25,7 +25,6 @@
 | 10:00 | EUR | Moderate | ZEW Economic Sentiment (Feb) |  | 45.7 | 40.8 |
 | 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 2.140% |
 | 10:30 | ZAR | Low | Business Confidence (Dec) |  |  | 132.3 |
-| 11:00 | CNY | Low | FDI (Jan) |  |  | -9.50% |
 | 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 6.50K |
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Feb) |  | 6.40 | 7.70 |
 | 13:30 | CAD | Low | Common CPI (YoY) (Jan) |  | 2.7% | 2.8% |

@@ -1,12 +1,12 @@
-## 17 February 2026 - Low Impact Forex News
+## None - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 03:35 | JPY | 5-Year JGB Auction | 1.640% |  | 1.639% |
 | 04:30 | JPY | Tertiary Industry Activity Index (Dec) | 8.40 |  | -2.50 |
-| 33 min | GBP | Average Earnings ex Bonus (Dec) |  | 4.2% | 4.5% |
-| 33 min | EUR | German HICP (MoM) (Jan) |  | -0.1% | 0.2% |
-| 33 min | EUR | German HICP (YoY) (Jan) |  | 2.1% | 2.0% |
+| 07:00 | GBP | Average Earnings ex Bonus (Dec) | 4.2% | 4.2% | 4.4% |
+| 07:00 | EUR | German HICP (MoM) (Jan) | -0.1% | -0.1% | 0.2% |
+| 07:00 | EUR | German HICP (YoY) (Jan) | 2.1% | 2.1% | 2.0% |
 | 09:00 | EUR | Italian Trade Balance (Dec) |  | 4.750B | 5.078B |
 | 09:00 | EUR | Italian Trade Balance EU (Dec) |  |  | -1.96B |
 | 09:30 | ZAR | Unemployment Rate (Q4) |  |  | 31.90% |
@@ -14,7 +14,6 @@
 | 10:00 | EUR | ECOFIN Meetings |  |  |  |
 | 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.140% |
 | 10:30 | ZAR | Business Confidence (Dec) |  |  | 132.3 |
-| 11:00 | CNY | FDI (Jan) |  |  | -9.50% |
 | 13:30 | CAD | Common CPI (YoY) (Jan) |  | 2.7% | 2.8% |
 | 13:30 | CAD | CPI (YoY) (Jan) |  | 2.4% | 2.4% |
 | 13:30 | CAD | Foreign Securities Purchases by Canadians (Dec) |  |  | 16.490B |

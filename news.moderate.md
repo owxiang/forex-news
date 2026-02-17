@@ -1,13 +1,13 @@
-## 17 February 2026 - Moderate Impact Forex News
+## None - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | RBA Meeting Minutes |  |  |  |
-| 33 min | GBP | Average Earnings Index +Bonus (Dec) |  | 4.6% | 4.7% |
-| 33 min | GBP | Claimant Count Change (Jan) |  | 22.8K | 17.9K |
-| 33 min | GBP | Employment Change 3M/3M (MoM) (Dec) |  |  | 82K |
-| 33 min | GBP | Unemployment Rate (Dec) |  | 5.2% | 5.1% |
-| 33 min | EUR | German CPI (YoY) (Jan) |  | 2.1% | 1.8% |
+| 07:00 | GBP | Average Earnings Index +Bonus (Dec) | 4.2% | 4.6% | 4.6% |
+| 07:00 | GBP | Claimant Count Change (Jan) | 28.6K | 22.8K | 2.7K |
+| 07:00 | GBP | Employment Change 3M/3M (MoM) (Dec) | 52K |  | 82K |
+| 07:00 | GBP | Unemployment Rate (Dec) | 5.2% | 5.2% | 5.1% |
+| 07:00 | EUR | German CPI (YoY) (Jan) | 2.1% | 2.1% | 1.8% |
 | 09:30 | GBP | Labour Productivity (Q3) |  | -0.6% | 0.7% |
 | 10:00 | EUR | German ZEW Current Conditions (Feb) |  | -65.7 | -72.7 |
 | 10:00 | EUR | German ZEW Economic Sentiment (Feb) |  | 65.8 | 59.6 |
