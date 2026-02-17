@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
-| 03:35 | JPY | Low | 5-Year JGB Auction |  |  | 1.639% |
-| 04:30 | JPY | Low | Tertiary Industry Activity Index (Dec) |  |  | -2.40 |
+| 03:35 | JPY | Low | 5-Year JGB Auction | 1.640% |  | 1.639% |
+| 04:30 | JPY | Low | Tertiary Industry Activity Index (Dec) | 8.40 |  | -2.50 |
 | 07:00 | GBP | Low | Average Earnings ex Bonus (Dec) |  | 4.2% | 4.5% |
 | 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Dec) |  | 4.6% | 4.7% |
 | 07:00 | GBP | Moderate | Claimant Count Change (Jan) |  | 22.8K | 17.9K |
