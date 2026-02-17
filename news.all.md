@@ -36,10 +36,8 @@
 | 13:30 | CAD | Low | Median CPI (YoY) (Jan) | 2.5% | 2.5% | 2.6% |
 | 13:30 | CAD | Low | Trimmed CPI (YoY) (Jan) | 2.4% | 2.6% | 2.7% |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Dec) | 2.0% | 2.1% | -1.8% |
-| 36 min | USD | Low | CB Employment Trends Index (Jan) |  |  | 104.27 |
-| 36 min | USD | Low | NAHB Housing Market Index (Feb) |  | 38 | 37 |
-| 36 min | NZD | Low | GlobalDairyTrade Price Index |  |  | 6.7% |
-| 36 min | USD | Low | Milk Auctions |  |  | 3,830.0 |
+| 15:00 | USD | Low | CB Employment Trends Index (Jan) | 105.06 |  | 104.51 |
+| 15:00 | USD | Low | NAHB Housing Market Index (Feb) | 36 | 38 | 37 |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.600% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.500% |
 | 16:30 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
@@ -48,7 +46,8 @@
 | 19:30 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 21:45 | NZD | Moderate | PPI Input (QoQ) (Q4) |  | 0.5% | 0.2% |
 | 21:45 | NZD | Low | PPI Output (QoQ) (Q4) |  | 0.7% | 0.6% |
+| 23:00 | JPY | Low | Reuters Tankan Index (Feb) |  |  | 7 |
 | 23:50 | JPY | Moderate | Adjusted Trade Balance |  | -0.16T | -0.21T |
 | 23:50 | JPY | Moderate | Exports (YoY) (Jan) |  | 12.0% | 5.1% |
-| 23:50 | JPY | Low | Imports (YoY) (Jan) |  | 3.0% | 5.3% |
+| 23:50 | JPY | Low | Imports (YoY) (Jan) |  | 3.0% | 5.2% |
 | 23:50 | JPY | Moderate | Trade Balance (Jan) |  | -2,142.1B | 105.7B |

@@ -18,11 +18,10 @@
 | 13:30 | CAD | Foreign Securities Purchases by Canadians (Dec) | 13.060B |  | 16.950B |
 | 13:30 | CAD | Median CPI (YoY) (Jan) | 2.5% | 2.5% | 2.6% |
 | 13:30 | CAD | Trimmed CPI (YoY) (Jan) | 2.4% | 2.6% | 2.7% |
-| 36 min | USD | CB Employment Trends Index (Jan) |  |  | 104.27 |
-| 36 min | USD | NAHB Housing Market Index (Feb) |  | 38 | 37 |
-| 36 min | NZD | GlobalDairyTrade Price Index |  |  | 6.7% |
-| 36 min | USD | Milk Auctions |  |  | 3,830.0 |
+| 15:00 | USD | CB Employment Trends Index (Jan) | 105.06 |  | 104.51 |
+| 15:00 | USD | NAHB Housing Market Index (Feb) | 36 | 38 | 37 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 3.600% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 3.500% |
 | 21:45 | NZD | PPI Output (QoQ) (Q4) |  | 0.7% | 0.6% |
-| 23:50 | JPY | Imports (YoY) (Jan) |  | 3.0% | 5.3% |
+| 23:00 | JPY | Reuters Tankan Index (Feb) |  |  | 7 |
+| 23:50 | JPY | Imports (YoY) (Jan) |  | 3.0% | 5.2% |
