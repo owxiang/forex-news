@@ -22,6 +22,6 @@
 | 15:00 | USD | NAHB Housing Market Index (Feb) | 36 | 38 | 37 |
 | 16:30 | USD | 3-Month Bill Auction | 3.600% |  | 3.600% |
 | 16:30 | USD | 6-Month Bill Auction | 3.500% |  | 3.500% |
-| 21:45 | NZD | PPI Output (QoQ) (Q4) |  | 0.7% | 0.6% |
+| 30 min | NZD | PPI Output (QoQ) (Q4) |  | 0.7% | 0.6% |
 | 23:00 | JPY | Reuters Tankan Index (Feb) |  |  | 7 |
 | 23:50 | JPY | Imports (YoY) (Jan) |  | 3.0% | 5.2% |
