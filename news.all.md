@@ -38,9 +38,9 @@
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Dec) | 2.0% | 2.1% | -1.8% |
 | 15:00 | USD | Low | CB Employment Trends Index (Jan) | 105.06 |  | 104.51 |
 | 15:00 | USD | Low | NAHB Housing Market Index (Feb) | 36 | 38 | 37 |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.600% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.500% |
-| 16:30 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 6 min | USD | Low | 3-Month Bill Auction |  |  | 3.600% |
+| 6 min | USD | Low | 6-Month Bill Auction |  |  | 3.500% |
+| 6 min | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 17:45 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 18:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 19:30 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |

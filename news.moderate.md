@@ -19,7 +19,7 @@
 | 13:30 | CAD | CPI (MoM) (Jan) | 0.0% | 0.1% | -0.2% |
 | 13:30 | CAD | Foreign Securities Purchases (Dec) | -5.57B | 14.27B | 15.96B |
 | 13:30 | CAD | Wholesale Sales (MoM) (Dec) | 2.0% | 2.1% | -1.8% |
-| 16:30 | EUR | German Buba Mauderer Speaks |  |  |  |
+| 6 min | EUR | German Buba Mauderer Speaks |  |  |  |
 | 17:45 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 18:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 19:30 | USD | FOMC Member Daly Speaks |  |  |  |
