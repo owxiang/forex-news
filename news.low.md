@@ -7,11 +7,11 @@
 | 07:00 | GBP | Average Earnings ex Bonus (Dec) | 4.2% | 4.2% | 4.4% |
 | 07:00 | EUR | German HICP (MoM) (Jan) | -0.1% | -0.1% | 0.2% |
 | 07:00 | EUR | German HICP (YoY) (Jan) | 2.1% | 2.1% | 2.0% |
-| 39 min | EUR | Italian Trade Balance (Dec) |  | 4.750B | 5.078B |
-| 39 min | EUR | Italian Trade Balance EU (Dec) |  |  | -1.96B |
-| 09:30 | ZAR | Unemployment Rate (Q4) |  |  | 31.90% |
-| 09:30 | ZAR | Unemployment (Q4) |  |  | 8.007M |
-| 10:00 | EUR | ECOFIN Meetings |  |  |  |
+| 09:00 | EUR | Italian Trade Balance (Dec) | 6.037B | 4.750B | 5.056B |
+| 09:00 | EUR | Italian Trade Balance EU (Dec) | -2.45B |  | -1.98B |
+| 7 min | ZAR | Unemployment Rate (Q4) |  |  | 31.90% |
+| 7 min | ZAR | Unemployment (Q4) |  |  | 8.007M |
+| 37 min | EUR | ECOFIN Meetings |  |  |  |
 | 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.140% |
 | 10:30 | ZAR | Business Confidence (Dec) |  |  | 132.3 |
 | 13:30 | CAD | Common CPI (YoY) (Jan) |  | 2.7% | 2.8% |
