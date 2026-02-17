@@ -5,15 +5,15 @@
 | 00:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
 | 03:35 | JPY | Low | 5-Year JGB Auction | 1.640% |  | 1.639% |
 | 04:30 | JPY | Low | Tertiary Industry Activity Index (Dec) | 8.40 |  | -2.50 |
-| 07:00 | GBP | Low | Average Earnings ex Bonus (Dec) |  | 4.2% | 4.5% |
-| 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Dec) |  | 4.6% | 4.7% |
-| 07:00 | GBP | Moderate | Claimant Count Change (Jan) |  | 22.8K | 17.9K |
-| 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Dec) |  |  | 82K |
-| 07:00 | GBP | Moderate | Unemployment Rate (Dec) |  | 5.2% | 5.1% |
-| 07:00 | EUR | High | German CPI (MoM) (Jan) |  | 0.1% | 0.0% |
-| 07:00 | EUR | Moderate | German CPI (YoY) (Jan) |  | 2.1% | 1.8% |
-| 07:00 | EUR | Low | German HICP (MoM) (Jan) |  | -0.1% | 0.2% |
-| 07:00 | EUR | Low | German HICP (YoY) (Jan) |  | 2.1% | 2.0% |
+| 33 min | GBP | Low | Average Earnings ex Bonus (Dec) |  | 4.2% | 4.5% |
+| 33 min | GBP | Moderate | Average Earnings Index +Bonus (Dec) |  | 4.6% | 4.7% |
+| 33 min | GBP | Moderate | Claimant Count Change (Jan) |  | 22.8K | 17.9K |
+| 33 min | GBP | Moderate | Employment Change 3M/3M (MoM) (Dec) |  |  | 82K |
+| 33 min | GBP | Moderate | Unemployment Rate (Dec) |  | 5.2% | 5.1% |
+| 33 min | EUR | High | German CPI (MoM) (Jan) |  | 0.1% | 0.0% |
+| 33 min | EUR | Moderate | German CPI (YoY) (Jan) |  | 2.1% | 1.8% |
+| 33 min | EUR | Low | German HICP (MoM) (Jan) |  | -0.1% | 0.2% |
+| 33 min | EUR | Low | German HICP (YoY) (Jan) |  | 2.1% | 2.0% |
 | 09:00 | EUR | Low | Italian Trade Balance (Dec) |  | 4.750B | 5.078B |
 | 09:00 | EUR | Low | Italian Trade Balance EU (Dec) |  |  | -1.96B |
 | 09:30 | GBP | Moderate | Labour Productivity (Q3) |  | -0.6% | 0.7% |

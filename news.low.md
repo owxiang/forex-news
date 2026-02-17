@@ -4,9 +4,9 @@
 |------|----------|-------|--------|----------|----------|
 | 03:35 | JPY | 5-Year JGB Auction | 1.640% |  | 1.639% |
 | 04:30 | JPY | Tertiary Industry Activity Index (Dec) | 8.40 |  | -2.50 |
-| 07:00 | GBP | Average Earnings ex Bonus (Dec) |  | 4.2% | 4.5% |
-| 07:00 | EUR | German HICP (MoM) (Jan) |  | -0.1% | 0.2% |
-| 07:00 | EUR | German HICP (YoY) (Jan) |  | 2.1% | 2.0% |
+| 33 min | GBP | Average Earnings ex Bonus (Dec) |  | 4.2% | 4.5% |
+| 33 min | EUR | German HICP (MoM) (Jan) |  | -0.1% | 0.2% |
+| 33 min | EUR | German HICP (YoY) (Jan) |  | 2.1% | 2.0% |
 | 09:00 | EUR | Italian Trade Balance (Dec) |  | 4.750B | 5.078B |
 | 09:00 | EUR | Italian Trade Balance EU (Dec) |  |  | -1.96B |
 | 09:30 | ZAR | Unemployment Rate (Q4) |  |  | 31.90% |
