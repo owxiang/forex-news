@@ -65,9 +65,9 @@
 | 14:15 | USD | Low | Manufacturing Production (MoM) (Jan) | 0.6% | 0.4% | 0.0% |
 | 16:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 3.6% | 3.7% | 3.7% |
 | 17:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 33 min | USD | Moderate | 20-Year Bond Auction |  |  | 4.846% |
-| 33 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
+| 18:00 | USD | Moderate | 20-Year Bond Auction | 4.664% |  | 4.846% |
+| 18:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 38 min | USD | High | FOMC Meeting Minutes |  |  |  |
 | 21:00 | USD | Low | US Foreign Buying, T-bonds (Dec) |  |  | 85.60B |
 | 21:00 | USD | Low | Overall Net Capital Flow (Dec) |  |  | 212.00B |
 | 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Dec) |  |  | 220.2B |
