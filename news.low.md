@@ -34,14 +34,14 @@
 | 12:00 | USD | MBA Purchase Index | 157.1 |  | 161.5 |
 | 12:00 | USD | Mortgage Market Index | 339.0 |  | 329.9 |
 | 12:00 | USD | Mortgage Refinance Index | 1,375.9 |  | 1,284.6 |
-| 13:25 | USD | Building Permits (MoM) | -1.6% |  | -0.3% |
-| 13:30 | USD | Building Permits (MoM) (Dec) | 4.3% | -0.2% | -0.3% |
+| 13:29 | USD | Building Permits (MoM) (Nov) | -1.6% |  | -0.3% |
+| 13:30 | USD | Building Permits (MoM) (Dec) | 4.3% | -0.2% | -1.6% |
 | 13:30 | USD | Durables Excluding Defense (MoM) (Dec) | -2.5% |  | 6.6% |
 | 13:30 | USD | Durables Excluding Transport (MoM) (Dec) | 0.9% | 0.3% | 0.4% |
 | 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Dec) | 0.6% | 0.5% | 0.8% |
-| 20 min | USD | Redbook (YoY) |  |  | 6.5% |
-| 40 min | USD | Capacity Utilization Rate (Jan) |  | 76.6% | 76.3% |
-| 40 min | USD | Manufacturing Production (MoM) (Jan) |  | 0.4% | 0.2% |
+| 13:55 | USD | Redbook (YoY) | 7.2% |  | 6.5% |
+| 14:15 | USD | Capacity Utilization Rate (Jan) | 76.2% | 76.6% | 75.7% |
+| 14:15 | USD | Manufacturing Production (MoM) (Jan) | 0.6% | 0.4% | 0.0% |
 | 21:00 | USD | US Foreign Buying, T-bonds (Dec) |  |  | 85.60B |
 | 21:00 | USD | Overall Net Capital Flow (Dec) |  |  | 212.00B |
 | 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Dec) |  | 128.60B | 220.20B |
