@@ -25,4 +25,4 @@
 | 18:00 | USD | 20-Year Bond Auction | 4.664% |  | 4.846% |
 | 18:00 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 21:00 | USD | TIC Net Long-Term Transactions (Dec) | 28.0B |  | 206.6B |
-| 12 min | USD | API Weekly Crude Oil Stock |  |  | 13.400M |
+| 21:30 | USD | API Weekly Crude Oil Stock | -0.609M |  | 13.400M |

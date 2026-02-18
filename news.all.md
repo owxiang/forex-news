@@ -72,7 +72,7 @@
 | 21:00 | USD | Low | Overall Net Capital Flow (Dec) | 44.90B |  | 204.40B |
 | 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Dec) | 28.0B |  | 206.6B |
 | 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Dec) | 28.00B | 128.60B | 206.60B |
-| 12 min | USD | Moderate | API Weekly Crude Oil Stock |  |  | 13.400M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | -0.609M |  | 13.400M |
 | 23:50 | JPY | Low | Core Machinery Orders (MoM) (Dec) |  | 5.1% | -11.0% |
 | 23:50 | JPY | Low | Core Machinery Orders (YoY) (Dec) |  | 3.9% | -6.4% |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -365.7B |
