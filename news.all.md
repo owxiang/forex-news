@@ -24,17 +24,15 @@
 | 07:00 | GBP | Low | PPI Output (MoM) (Jan) | 0.0% | 0.2% | -0.1% |
 | 07:00 | GBP | Low | RPI (YoY) (Jan) | 3.8% | 3.8% | 4.2% |
 | 07:00 | GBP | Low | RPI (MoM) (Jan) | -0.5% | -0.4% | 0.7% |
-| 18 min | EUR | Low | French CPI NSA (YoY) (Jan) |  |  | 0.30% |
-| 18 min | EUR | Low | French CPI NSA (MoM) (Jan) |  |  | -0.30% |
-| 18 min | EUR | Low | French CPI (YoY) (Jan) |  | 0.3% | 0.8% |
-| 18 min | EUR | Moderate | French CPI (MoM) (Jan) |  | -0.3% | 0.1% |
-| 18 min | EUR | Low | French HICP (YoY) (Jan) |  | 0.4% | 0.7% |
-| 18 min | EUR | Moderate | French HICP (MoM) (Jan) |  | -0.4% | 0.1% |
-| 18 min | EUR | Low | France Inflation Ex-Tobacco (YoY) (Jan) |  |  | 0.70% |
-| 33 min | ZAR | Low | Core CPI (MoM) (Jan) |  |  | 0.1% |
-| 33 min | ZAR | Low | Core CPI (YoY) (Jan) |  |  | 3.3% |
-| 33 min | ZAR | Low | CPI (MoM) (Jan) |  |  | 0.2% |
-| 33 min | ZAR | Low | CPI (YoY) (Jan) |  |  | 3.6% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Jan) | -0.3% | -0.3% | 0.1% |
+| 07:45 | EUR | Low | French CPI (YoY) (Jan) | 0.3% | 0.3% | 0.8% |
+| 07:45 | EUR | Low | French HICP (YoY) (Jan) | 0.4% | 0.4% | 0.7% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Jan) | -0.4% | -0.4% | 0.1% |
+| 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Jan) | 0.30% |  | 0.70% |
+| 08:00 | ZAR | Low | Core CPI (MoM) (Jan) | 0.3% |  | 0.1% |
+| 08:00 | ZAR | Low | Core CPI (YoY) (Jan) | 3.4% |  | 3.3% |
+| 08:00 | ZAR | Low | CPI (MoM) (Jan) | 0.2% |  | 0.2% |
+| 08:00 | ZAR | Low | CPI (YoY) (Jan) | 3.5% |  | 3.6% |
 | 09:30 | GBP | Low | House Price Index (YoY) |  | 1.8% | 2.5% |
 | 09:30 | ZAR | Low | Business Confidence (Jan) |  |  | 132.3 |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.850% |
@@ -57,8 +55,8 @@
 | 13:30 | USD | Moderate | Housing Starts (MoM) (Dec) |  |  | -4.6% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 6.5% |
 | 14:15 | USD | Low | Capacity Utilization Rate (Jan) |  | 76.6% | 76.3% |
-| 14:15 | USD | Moderate | Industrial Production (YoY) (Jan) |  |  | 1.99% |
 | 14:15 | USD | Moderate | Industrial Production (MoM) (Jan) |  | 0.4% | 0.4% |
+| 14:15 | USD | Moderate | Industrial Production (YoY) (Jan) |  |  | 1.99% |
 | 14:15 | USD | Low | Manufacturing Production (MoM) (Jan) |  | 0.4% | 0.2% |
 | 16:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 3.7% | 3.7% |
 | 17:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
