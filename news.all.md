@@ -2,9 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | AUD | Low | MI Leading Index (MoM) (Jan) | -0.0% |  | 0.1% |
-| 00:30 | AUD | Moderate | Wage Price Index (QoQ) (Q4) | 0.8% | 0.8% | 0.8% |
 | 00:30 | AUD | Low | Wage Price Index (YoY) (Q4) | 3.4% |  | 3.3% |
+| 00:30 | AUD | Moderate | Wage Price Index (QoQ) (Q4) | 0.8% | 0.8% | 0.8% |
 | 01:00 | NZD | High | RBNZ Interest Rate Decision | 2.25% | 2.25% | 2.25% |
 | 01:00 | NZD | Moderate | RBNZ Monetary Policy Statement |  |  |  |
 | 01:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
@@ -12,32 +11,32 @@
 | 02:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
 | 07:00 | GBP | Low | Core CPI (YoY) (Jan) |  | 3.0% | 3.2% |
 | 07:00 | GBP | Low | Core CPI (MoM) (Jan) |  | -0.7% | 0.3% |
-| 07:00 | GBP | Low | Core PPI Output (YoY) (Jan) |  |  | 3.2% |
 | 07:00 | GBP | Low | Core PPI Output (MoM) (Jan) |  |  | -0.1% |
+| 07:00 | GBP | Low | Core PPI Output (YoY) (Jan) |  |  | 3.2% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Jan) |  |  | 4.1% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Jan) |  |  | 0.7% |
-| 07:00 | GBP | Moderate | CPI (MoM) (Jan) |  | -0.5% | 0.4% |
 | 07:00 | GBP | High | CPI (YoY) (Jan) |  | 3.0% | 3.4% |
+| 07:00 | GBP | Moderate | CPI (MoM) (Jan) |  | -0.5% | 0.4% |
 | 07:00 | GBP | Low | CPI, n.s.a (Jan) |  |  | 140.10 |
 | 07:00 | GBP | Moderate | CPIH (YoY) |  |  | 3.6% |
-| 07:00 | GBP | Moderate | PPI Input (MoM) (Jan) |  | 0.4% | -0.2% |
 | 07:00 | GBP | Low | PPI Input (YoY) (Jan) |  |  | 0.8% |
+| 07:00 | GBP | Moderate | PPI Input (MoM) (Jan) |  | 0.4% | -0.2% |
 | 07:00 | GBP | Low | PPI Output (YoY) (Jan) |  |  | 3.4% |
 | 07:00 | GBP | Low | PPI Output (MoM) (Jan) |  | 0.2% | 0.0% |
 | 07:00 | GBP | Low | RPI (YoY) (Jan) |  | 3.8% | 4.2% |
 | 07:00 | GBP | Low | RPI (MoM) (Jan) |  | -0.4% | 0.7% |
-| 07:45 | EUR | Low | French CPI NSA (YoY) (Jan) |  |  | 0.30% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Jan) |  |  | -0.30% |
+| 07:45 | EUR | Low | French CPI NSA (YoY) (Jan) |  |  | 0.30% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Jan) |  | -0.3% | 0.1% |
 | 07:45 | EUR | Low | French CPI (YoY) (Jan) |  | 0.3% | 0.8% |
-| 07:45 | EUR | Low | French HICP (YoY) (Jan) |  | 0.4% | 0.7% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Jan) |  | -0.4% | 0.1% |
+| 07:45 | EUR | Low | French HICP (YoY) (Jan) |  | 0.4% | 0.7% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Jan) |  |  | 0.70% |
 | 08:00 | ZAR | Low | Core CPI (MoM) (Jan) |  |  | 0.1% |
 | 08:00 | ZAR | Low | Core CPI (YoY) (Jan) |  |  | 3.3% |
 | 08:00 | ZAR | Low | CPI (MoM) (Jan) |  |  | 0.2% |
 | 08:00 | ZAR | Low | CPI (YoY) (Jan) |  |  | 3.6% |
-| 09:30 | GBP | Low | House Price Index (YoY) |  | 1.9% | 2.5% |
+| 09:30 | GBP | Low | House Price Index (YoY) |  | 1.8% | 2.5% |
 | 09:30 | ZAR | Low | Business Confidence (Jan) |  |  | 132.3 |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.850% |
 | 11:00 | ZAR | Low | Retail Sales (YoY) (Dec) |  |  | 3.5% |
@@ -53,14 +52,14 @@
 | 13:30 | USD | Moderate | Building Permits (Dec) |  | 1.400M | 1.411M |
 | 13:30 | USD | Low | Building Permits (MoM) (Dec) |  | -0.2% | -0.3% |
 | 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Dec) |  | 0.3% | 0.4% |
-| 13:30 | USD | High | Durable Goods Orders (MoM) (Dec) |  | -1.7% | 5.3% |
+| 13:30 | USD | High | Durable Goods Orders (MoM) (Dec) |  | -1.8% | 5.3% |
 | 13:30 | USD | Low | Durables Excluding Defense (MoM) (Dec) |  |  | 6.5% |
 | 13:30 | USD | Low | Durables Excluding Transport (MoM) (Dec) |  | 0.3% | 0.4% |
 | 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Dec) |  | 0.5% | 0.4% |
 | 13:30 | USD | Moderate | Housing Starts (Dec) |  | 1.310M | 1.246M |
 | 13:30 | USD | Moderate | Housing Starts (MoM) (Dec) |  |  | -4.6% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 6.5% |
-| 14:15 | USD | Low | Capacity Utilization Rate (Jan) |  | 76.5% | 76.3% |
+| 14:15 | USD | Low | Capacity Utilization Rate (Jan) |  | 76.6% | 76.3% |
 | 14:15 | USD | Moderate | Industrial Production (MoM) (Jan) |  | 0.4% | 0.4% |
 | 14:15 | USD | Moderate | Industrial Production (YoY) (Jan) |  |  | 1.99% |
 | 14:15 | USD | Low | Manufacturing Production (MoM) (Jan) |  | 0.4% | 0.2% |
