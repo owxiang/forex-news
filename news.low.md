@@ -25,8 +25,9 @@
 | 08:00 | ZAR | Core CPI (YoY) (Jan) | 3.4% |  | 3.3% |
 | 08:00 | ZAR | CPI (MoM) (Jan) | 0.2% |  | 0.2% |
 | 08:00 | ZAR | CPI (YoY) (Jan) | 3.5% |  | 3.6% |
-| 09:30 | GBP | House Price Index (YoY) |  | 1.8% | 2.5% |
-| 09:30 | ZAR | Business Confidence (Jan) |  |  | 132.3 |
+| 09:30 | GBP | House Price Index (YoY) | 2.4% | 1.8% | 2.5% |
+| 09:30 | ZAR | Business Confidence (Dec) | 133.2 |  | 132.3 |
+| 09:30 | ZAR | Business Confidence (Jan) | 131.4 |  | 133.2 |
 | 11:00 | ZAR | Retail Sales (YoY) (Dec) |  |  | 3.5% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 11:30 | INR | M3 Money Supply |  |  | 12.0% |

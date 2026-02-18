@@ -35,8 +35,9 @@
 | 08:00 | ZAR | Low | Core CPI (YoY) (Jan) | 3.4% |  | 3.3% |
 | 08:00 | ZAR | Low | CPI (MoM) (Jan) | 0.2% |  | 0.2% |
 | 08:00 | ZAR | Low | CPI (YoY) (Jan) | 3.5% |  | 3.6% |
-| 09:30 | GBP | Low | House Price Index (YoY) |  | 1.8% | 2.5% |
-| 09:30 | ZAR | Low | Business Confidence (Jan) |  |  | 132.3 |
+| 09:30 | GBP | Low | House Price Index (YoY) | 2.4% | 1.8% | 2.5% |
+| 09:30 | ZAR | Low | Business Confidence (Dec) | 133.2 |  | 132.3 |
+| 09:30 | ZAR | Low | Business Confidence (Jan) | 131.4 |  | 133.2 |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.850% |
 | 11:00 | ZAR | Low | Retail Sales (YoY) (Dec) |  |  | 3.5% |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
