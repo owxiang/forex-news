@@ -42,9 +42,9 @@
 | 13:55 | USD | Redbook (YoY) | 7.2% |  | 6.5% |
 | 14:15 | USD | Capacity Utilization Rate (Jan) | 76.2% | 76.6% | 75.7% |
 | 14:15 | USD | Manufacturing Production (MoM) (Jan) | 0.6% | 0.4% | 0.0% |
-| 21:00 | USD | US Foreign Buying, T-bonds (Dec) |  |  | 85.60B |
-| 21:00 | USD | Overall Net Capital Flow (Dec) |  |  | 212.00B |
-| 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Dec) |  | 128.60B | 220.20B |
+| 21:00 | USD | US Foreign Buying, T-bonds (Dec) | -41.60B |  | 78.20B |
+| 21:00 | USD | Overall Net Capital Flow (Dec) | 44.90B |  | 204.40B |
+| 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Dec) | 28.00B | 128.60B | 206.60B |
 | 23:50 | JPY | Core Machinery Orders (MoM) (Dec) |  | 5.1% | -11.0% |
 | 23:50 | JPY | Core Machinery Orders (YoY) (Dec) |  | 3.9% | -6.4% |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | -365.7B |

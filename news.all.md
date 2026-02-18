@@ -68,11 +68,11 @@
 | 18:00 | USD | Moderate | 20-Year Bond Auction | 4.664% |  | 4.846% |
 | 18:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
-| 21:00 | USD | Low | US Foreign Buying, T-bonds (Dec) |  |  | 85.60B |
-| 21:00 | USD | Low | Overall Net Capital Flow (Dec) |  |  | 212.00B |
-| 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Dec) |  |  | 220.2B |
-| 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Dec) |  | 128.60B | 220.20B |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 13.400M |
+| 21:00 | USD | Low | US Foreign Buying, T-bonds (Dec) | -41.60B |  | 78.20B |
+| 21:00 | USD | Low | Overall Net Capital Flow (Dec) | 44.90B |  | 204.40B |
+| 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Dec) | 28.0B |  | 206.6B |
+| 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Dec) | 28.00B | 128.60B | 206.60B |
+| 12 min | USD | Moderate | API Weekly Crude Oil Stock |  |  | 13.400M |
 | 23:50 | JPY | Low | Core Machinery Orders (MoM) (Dec) |  | 5.1% | -11.0% |
 | 23:50 | JPY | Low | Core Machinery Orders (YoY) (Dec) |  | 3.9% | -6.4% |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -365.7B |
