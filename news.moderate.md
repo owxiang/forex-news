@@ -11,12 +11,15 @@
 | 07:45 | EUR | French CPI (MoM) (Jan) | -0.3% | -0.3% | 0.1% |
 | 07:45 | EUR | French HICP (MoM) (Jan) | -0.4% | -0.4% | 0.1% |
 | 10:30 | EUR | German 10-Year Bund Auction | 2.730% |  | 2.850% |
-| 13:30 | USD | Building Permits (Dec) |  | 1.400M | 1.411M |
-| 13:30 | USD | Core Durable Goods Orders (MoM) (Dec) |  | 0.3% | 0.4% |
-| 13:30 | USD | Housing Starts (Dec) |  | 1.310M | 1.246M |
-| 13:30 | USD | Housing Starts (MoM) (Dec) |  |  | -4.6% |
-| 14:15 | USD | Industrial Production (YoY) (Jan) |  |  | 1.99% |
-| 14:15 | USD | Industrial Production (MoM) (Jan) |  | 0.4% | 0.4% |
+| 13:25 | USD | Building Permits | 1.388M |  | 1.411M |
+| 13:29 | USD | Housing Starts (Nov) | 1.322M |  | 1.246M |
+| 13:29 | USD | Housing Starts (MoM) (Nov) | 3.9% |  | -4.6% |
+| 13:30 | USD | Building Permits (Dec) | 1.448M | 1.400M | 1.411M |
+| 13:30 | USD | Core Durable Goods Orders (MoM) (Dec) | 0.9% | 0.3% | 0.4% |
+| 13:30 | USD | Housing Starts (Dec) | 1.404M | 1.310M | 1.246M |
+| 13:30 | USD | Housing Starts (MoM) (Dec) | 6.2% |  | -4.2% |
+| 40 min | USD | Industrial Production (MoM) (Jan) |  | 0.4% | 0.4% |
+| 40 min | USD | Industrial Production (YoY) (Jan) |  |  | 1.99% |
 | 16:00 | USD | Atlanta Fed GDPNow (Q4) |  | 3.7% | 3.7% |
 | 17:00 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 18:00 | USD | 20-Year Bond Auction |  |  | 4.846% |

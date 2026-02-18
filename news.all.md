@@ -15,17 +15,17 @@
 | 07:00 | GBP | Low | Core PPI Output (MoM) (Jan) | 0.2% |  | -0.2% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Jan) | 3.7% |  | 4.1% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Jan) | -0.5% |  | 0.7% |
-| 07:00 | GBP | Moderate | CPI (MoM) (Jan) | -0.5% | -0.5% | 0.4% |
 | 07:00 | GBP | High | CPI (YoY) (Jan) | 3.0% | 3.0% | 3.4% |
+| 07:00 | GBP | Moderate | CPI (MoM) (Jan) | -0.5% | -0.5% | 0.4% |
 | 07:00 | GBP | Low | CPI, n.s.a (Jan) | 139.50 |  | 140.10 |
-| 07:00 | GBP | Moderate | PPI Input (MoM) (Jan) | 0.4% | 0.4% | -0.5% |
 | 07:00 | GBP | Low | PPI Input (YoY) (Jan) | -0.2% |  | 0.5% |
-| 07:00 | GBP | Low | PPI Output (YoY) (Jan) | 2.5% |  | 3.1% |
+| 07:00 | GBP | Moderate | PPI Input (MoM) (Jan) | 0.4% | 0.4% | -0.5% |
 | 07:00 | GBP | Low | PPI Output (MoM) (Jan) | 0.0% | 0.2% | -0.1% |
-| 07:00 | GBP | Low | RPI (YoY) (Jan) | 3.8% | 3.8% | 4.2% |
+| 07:00 | GBP | Low | PPI Output (YoY) (Jan) | 2.5% |  | 3.1% |
 | 07:00 | GBP | Low | RPI (MoM) (Jan) | -0.5% | -0.4% | 0.7% |
-| 07:45 | EUR | Low | French CPI NSA (YoY) (Jan) | 0.30% |  | 0.30% |
+| 07:00 | GBP | Low | RPI (YoY) (Jan) | 3.8% | 3.8% | 4.2% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Jan) | -0.30% |  | -0.30% |
+| 07:45 | EUR | Low | French CPI NSA (YoY) (Jan) | 0.30% |  | 0.30% |
 | 07:45 | EUR | Low | French CPI (YoY) (Jan) | 0.3% | 0.3% | 0.8% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Jan) | -0.3% | -0.3% | 0.1% |
 | 07:45 | EUR | Low | French HICP (YoY) (Jan) | 0.4% | 0.4% | 0.7% |
@@ -45,21 +45,24 @@
 | 12:00 | USD | Low | MBA Purchase Index | 157.1 |  | 161.5 |
 | 12:00 | USD | Low | Mortgage Market Index | 339.0 |  | 329.9 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 1,375.9 |  | 1,284.6 |
-| 13:30 | USD | Moderate | Building Permits (Dec) |  | 1.400M | 1.411M |
-| 13:30 | USD | Low | Building Permits (MoM) (Dec) |  | -0.2% | -0.3% |
-| 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Dec) |  | 0.3% | 0.4% |
-| 13:30 | USD | High | Durable Goods Orders (MoM) (Dec) |  | -1.8% | 5.3% |
-| 13:30 | USD | Low | Durables Excluding Defense (MoM) (Dec) |  |  | 6.5% |
-| 13:30 | USD | Low | Durables Excluding Transport (MoM) (Dec) |  | 0.3% | 0.4% |
-| 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Dec) |  | 0.5% | 0.4% |
-| 13:30 | USD | Moderate | Housing Starts (Dec) |  | 1.310M | 1.246M |
-| 13:30 | USD | Moderate | Housing Starts (MoM) (Dec) |  |  | -4.6% |
-| 13:30 | INR | Low | M3 Money Supply |  |  | 12.0% |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 6.5% |
-| 14:15 | USD | Low | Capacity Utilization Rate (Jan) |  | 76.6% | 76.3% |
-| 14:15 | USD | Moderate | Industrial Production (YoY) (Jan) |  |  | 1.99% |
-| 14:15 | USD | Moderate | Industrial Production (MoM) (Jan) |  | 0.4% | 0.4% |
-| 14:15 | USD | Low | Manufacturing Production (MoM) (Jan) |  | 0.4% | 0.2% |
+| 13:25 | USD | Moderate | Building Permits | 1.388M |  | 1.411M |
+| 13:25 | USD | Low | Building Permits (MoM) | -1.6% |  | -0.3% |
+| 13:29 | USD | Moderate | Housing Starts (Nov) | 1.322M |  | 1.246M |
+| 13:29 | USD | Moderate | Housing Starts (MoM) (Nov) | 3.9% |  | -4.6% |
+| 13:30 | USD | Moderate | Building Permits (Dec) | 1.448M | 1.400M | 1.411M |
+| 13:30 | USD | Low | Building Permits (MoM) (Dec) | 4.3% | -0.2% | -0.3% |
+| 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Dec) | 0.9% | 0.3% | 0.4% |
+| 13:30 | USD | High | Durable Goods Orders (MoM) (Dec) | -1.4% | -1.8% | 5.4% |
+| 13:30 | USD | Low | Durables Excluding Defense (MoM) (Dec) | -2.5% |  | 6.6% |
+| 13:30 | USD | Low | Durables Excluding Transport (MoM) (Dec) | 0.9% | 0.3% | 0.4% |
+| 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Dec) | 0.6% | 0.5% | 0.8% |
+| 13:30 | USD | Moderate | Housing Starts (Dec) | 1.404M | 1.310M | 1.246M |
+| 13:30 | USD | Moderate | Housing Starts (MoM) (Dec) | 6.2% |  | -4.2% |
+| 20 min | USD | Low | Redbook (YoY) |  |  | 6.5% |
+| 40 min | USD | Low | Capacity Utilization Rate (Jan) |  | 76.6% | 76.3% |
+| 40 min | USD | Moderate | Industrial Production (MoM) (Jan) |  | 0.4% | 0.4% |
+| 40 min | USD | Moderate | Industrial Production (YoY) (Jan) |  |  | 1.99% |
+| 40 min | USD | Low | Manufacturing Production (MoM) (Jan) |  | 0.4% | 0.2% |
 | 16:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 3.7% | 3.7% |
 | 17:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 18:00 | USD | Moderate | 20-Year Bond Auction |  |  | 4.846% |

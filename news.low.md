@@ -12,12 +12,12 @@
 | 07:00 | GBP | Core RPI (MoM) (Jan) | -0.5% |  | 0.7% |
 | 07:00 | GBP | CPI, n.s.a (Jan) | 139.50 |  | 140.10 |
 | 07:00 | GBP | PPI Input (YoY) (Jan) | -0.2% |  | 0.5% |
-| 07:00 | GBP | PPI Output (YoY) (Jan) | 2.5% |  | 3.1% |
 | 07:00 | GBP | PPI Output (MoM) (Jan) | 0.0% | 0.2% | -0.1% |
-| 07:00 | GBP | RPI (YoY) (Jan) | 3.8% | 3.8% | 4.2% |
+| 07:00 | GBP | PPI Output (YoY) (Jan) | 2.5% |  | 3.1% |
 | 07:00 | GBP | RPI (MoM) (Jan) | -0.5% | -0.4% | 0.7% |
-| 07:45 | EUR | French CPI NSA (YoY) (Jan) | 0.30% |  | 0.30% |
+| 07:00 | GBP | RPI (YoY) (Jan) | 3.8% | 3.8% | 4.2% |
 | 07:45 | EUR | French CPI NSA (MoM) (Jan) | -0.30% |  | -0.30% |
+| 07:45 | EUR | French CPI NSA (YoY) (Jan) | 0.30% |  | 0.30% |
 | 07:45 | EUR | French CPI (YoY) (Jan) | 0.3% | 0.3% | 0.8% |
 | 07:45 | EUR | French HICP (YoY) (Jan) | 0.4% | 0.4% | 0.7% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Jan) | 0.30% |  | 0.70% |
@@ -34,14 +34,14 @@
 | 12:00 | USD | MBA Purchase Index | 157.1 |  | 161.5 |
 | 12:00 | USD | Mortgage Market Index | 339.0 |  | 329.9 |
 | 12:00 | USD | Mortgage Refinance Index | 1,375.9 |  | 1,284.6 |
-| 13:30 | USD | Building Permits (MoM) (Dec) |  | -0.2% | -0.3% |
-| 13:30 | USD | Durables Excluding Defense (MoM) (Dec) |  |  | 6.5% |
-| 13:30 | USD | Durables Excluding Transport (MoM) (Dec) |  | 0.3% | 0.4% |
-| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Dec) |  | 0.5% | 0.4% |
-| 13:30 | INR | M3 Money Supply |  |  | 12.0% |
-| 13:55 | USD | Redbook (YoY) |  |  | 6.5% |
-| 14:15 | USD | Capacity Utilization Rate (Jan) |  | 76.6% | 76.3% |
-| 14:15 | USD | Manufacturing Production (MoM) (Jan) |  | 0.4% | 0.2% |
+| 13:25 | USD | Building Permits (MoM) | -1.6% |  | -0.3% |
+| 13:30 | USD | Building Permits (MoM) (Dec) | 4.3% | -0.2% | -0.3% |
+| 13:30 | USD | Durables Excluding Defense (MoM) (Dec) | -2.5% |  | 6.6% |
+| 13:30 | USD | Durables Excluding Transport (MoM) (Dec) | 0.9% | 0.3% | 0.4% |
+| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Dec) | 0.6% | 0.5% | 0.8% |
+| 20 min | USD | Redbook (YoY) |  |  | 6.5% |
+| 40 min | USD | Capacity Utilization Rate (Jan) |  | 76.6% | 76.3% |
+| 40 min | USD | Manufacturing Production (MoM) (Jan) |  | 0.4% | 0.2% |
 | 21:00 | USD | US Foreign Buying, T-bonds (Dec) |  |  | 85.60B |
 | 21:00 | USD | Overall Net Capital Flow (Dec) |  |  | 212.00B |
 | 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Dec) |  | 128.60B | 220.20B |
