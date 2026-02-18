@@ -6,9 +6,9 @@
 | 01:00 | NZD | RBNZ Monetary Policy Statement |  |  |  |
 | 01:00 | NZD | RBNZ Rate Statement |  |  |  |
 | 02:00 | NZD | RBNZ Press Conference |  |  |  |
-| 07:00 | GBP | CPI (MoM) (Jan) |  | -0.5% | 0.4% |
-| 07:00 | GBP | CPIH (YoY) |  |  | 3.6% |
-| 07:00 | GBP | PPI Input (MoM) (Jan) |  | 0.4% | -0.2% |
+| 29 min | GBP | CPI (MoM) (Jan) |  | -0.5% | 0.4% |
+| 29 min | GBP | CPIH (YoY) |  |  | 3.6% |
+| 29 min | GBP | PPI Input (MoM) (Jan) |  | 0.4% | -0.2% |
 | 07:45 | EUR | French CPI (MoM) (Jan) |  | -0.3% | 0.1% |
 | 07:45 | EUR | French HICP (MoM) (Jan) |  | -0.4% | 0.1% |
 | 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.850% |
