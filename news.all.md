@@ -9,33 +9,32 @@
 | 01:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
 | 02:00 | NZD | Low | RBNZ Offshore Holdings (Jan) | 56.30% |  | 57.50% |
 | 02:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
-| 29 min | GBP | Low | Core CPI (YoY) (Jan) |  | 3.0% | 3.2% |
-| 29 min | GBP | Low | Core CPI (MoM) (Jan) |  | -0.7% | 0.3% |
-| 29 min | GBP | Low | Core PPI Output (YoY) (Jan) |  |  | 3.2% |
-| 29 min | GBP | Low | Core PPI Output (MoM) (Jan) |  |  | -0.1% |
-| 29 min | GBP | Low | Core RPI (YoY) (Jan) |  |  | 4.1% |
-| 29 min | GBP | Low | Core RPI (MoM) (Jan) |  |  | 0.7% |
-| 29 min | GBP | Moderate | CPI (MoM) (Jan) |  | -0.5% | 0.4% |
-| 29 min | GBP | High | CPI (YoY) (Jan) |  | 3.0% | 3.4% |
-| 29 min | GBP | Low | CPI, n.s.a (Jan) |  |  | 140.10 |
-| 29 min | GBP | Moderate | CPIH (YoY) |  |  | 3.6% |
-| 29 min | GBP | Moderate | PPI Input (MoM) (Jan) |  | 0.4% | -0.2% |
-| 29 min | GBP | Low | PPI Input (YoY) (Jan) |  |  | 0.8% |
-| 29 min | GBP | Low | PPI Output (YoY) (Jan) |  |  | 3.4% |
-| 29 min | GBP | Low | PPI Output (MoM) (Jan) |  | 0.2% | 0.0% |
-| 29 min | GBP | Low | RPI (YoY) (Jan) |  | 3.8% | 4.2% |
-| 29 min | GBP | Low | RPI (MoM) (Jan) |  | -0.4% | 0.7% |
-| 07:45 | EUR | Low | French CPI NSA (YoY) (Jan) |  |  | 0.30% |
-| 07:45 | EUR | Low | French CPI NSA (MoM) (Jan) |  |  | -0.30% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Jan) |  | -0.3% | 0.1% |
-| 07:45 | EUR | Low | French CPI (YoY) (Jan) |  | 0.3% | 0.8% |
-| 07:45 | EUR | Low | French HICP (YoY) (Jan) |  | 0.4% | 0.7% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Jan) |  | -0.4% | 0.1% |
-| 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Jan) |  |  | 0.70% |
-| 08:00 | ZAR | Low | Core CPI (MoM) (Jan) |  |  | 0.1% |
-| 08:00 | ZAR | Low | Core CPI (YoY) (Jan) |  |  | 3.3% |
-| 08:00 | ZAR | Low | CPI (MoM) (Jan) |  |  | 0.2% |
-| 08:00 | ZAR | Low | CPI (YoY) (Jan) |  |  | 3.6% |
+| 07:00 | GBP | Low | Core CPI (YoY) (Jan) | 3.1% | 3.0% | 3.2% |
+| 07:00 | GBP | Low | Core CPI (MoM) (Jan) | -0.6% | -0.7% | 0.3% |
+| 07:00 | GBP | Low | Core PPI Output (YoY) (Jan) | 2.9% |  | 3.1% |
+| 07:00 | GBP | Low | Core PPI Output (MoM) (Jan) | 0.2% |  | -0.2% |
+| 07:00 | GBP | Low | Core RPI (YoY) (Jan) | 3.7% |  | 4.1% |
+| 07:00 | GBP | Low | Core RPI (MoM) (Jan) | -0.5% |  | 0.7% |
+| 07:00 | GBP | Moderate | CPI (MoM) (Jan) | -0.5% | -0.5% | 0.4% |
+| 07:00 | GBP | High | CPI (YoY) (Jan) | 3.0% | 3.0% | 3.4% |
+| 07:00 | GBP | Low | CPI, n.s.a (Jan) | 139.50 |  | 140.10 |
+| 07:00 | GBP | Moderate | PPI Input (MoM) (Jan) | 0.4% | 0.4% | -0.5% |
+| 07:00 | GBP | Low | PPI Input (YoY) (Jan) | -0.2% |  | 0.5% |
+| 07:00 | GBP | Low | PPI Output (YoY) (Jan) | 2.5% |  | 3.1% |
+| 07:00 | GBP | Low | PPI Output (MoM) (Jan) | 0.0% | 0.2% | -0.1% |
+| 07:00 | GBP | Low | RPI (YoY) (Jan) | 3.8% | 3.8% | 4.2% |
+| 07:00 | GBP | Low | RPI (MoM) (Jan) | -0.5% | -0.4% | 0.7% |
+| 18 min | EUR | Low | French CPI NSA (YoY) (Jan) |  |  | 0.30% |
+| 18 min | EUR | Low | French CPI NSA (MoM) (Jan) |  |  | -0.30% |
+| 18 min | EUR | Low | French CPI (YoY) (Jan) |  | 0.3% | 0.8% |
+| 18 min | EUR | Moderate | French CPI (MoM) (Jan) |  | -0.3% | 0.1% |
+| 18 min | EUR | Low | French HICP (YoY) (Jan) |  | 0.4% | 0.7% |
+| 18 min | EUR | Moderate | French HICP (MoM) (Jan) |  | -0.4% | 0.1% |
+| 18 min | EUR | Low | France Inflation Ex-Tobacco (YoY) (Jan) |  |  | 0.70% |
+| 33 min | ZAR | Low | Core CPI (MoM) (Jan) |  |  | 0.1% |
+| 33 min | ZAR | Low | Core CPI (YoY) (Jan) |  |  | 3.3% |
+| 33 min | ZAR | Low | CPI (MoM) (Jan) |  |  | 0.2% |
+| 33 min | ZAR | Low | CPI (YoY) (Jan) |  |  | 3.6% |
 | 09:30 | GBP | Low | House Price Index (YoY) |  | 1.8% | 2.5% |
 | 09:30 | ZAR | Low | Business Confidence (Jan) |  |  | 132.3 |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.850% |

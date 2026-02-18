@@ -4,27 +4,27 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Wage Price Index (YoY) (Q4) | 3.4% |  | 3.3% |
 | 02:00 | NZD | RBNZ Offshore Holdings (Jan) | 56.30% |  | 57.50% |
-| 29 min | GBP | Core CPI (YoY) (Jan) |  | 3.0% | 3.2% |
-| 29 min | GBP | Core CPI (MoM) (Jan) |  | -0.7% | 0.3% |
-| 29 min | GBP | Core PPI Output (YoY) (Jan) |  |  | 3.2% |
-| 29 min | GBP | Core PPI Output (MoM) (Jan) |  |  | -0.1% |
-| 29 min | GBP | Core RPI (YoY) (Jan) |  |  | 4.1% |
-| 29 min | GBP | Core RPI (MoM) (Jan) |  |  | 0.7% |
-| 29 min | GBP | CPI, n.s.a (Jan) |  |  | 140.10 |
-| 29 min | GBP | PPI Input (YoY) (Jan) |  |  | 0.8% |
-| 29 min | GBP | PPI Output (YoY) (Jan) |  |  | 3.4% |
-| 29 min | GBP | PPI Output (MoM) (Jan) |  | 0.2% | 0.0% |
-| 29 min | GBP | RPI (YoY) (Jan) |  | 3.8% | 4.2% |
-| 29 min | GBP | RPI (MoM) (Jan) |  | -0.4% | 0.7% |
-| 07:45 | EUR | French CPI NSA (YoY) (Jan) |  |  | 0.30% |
-| 07:45 | EUR | French CPI NSA (MoM) (Jan) |  |  | -0.30% |
-| 07:45 | EUR | French CPI (YoY) (Jan) |  | 0.3% | 0.8% |
-| 07:45 | EUR | French HICP (YoY) (Jan) |  | 0.4% | 0.7% |
-| 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Jan) |  |  | 0.70% |
-| 08:00 | ZAR | Core CPI (MoM) (Jan) |  |  | 0.1% |
-| 08:00 | ZAR | Core CPI (YoY) (Jan) |  |  | 3.3% |
-| 08:00 | ZAR | CPI (MoM) (Jan) |  |  | 0.2% |
-| 08:00 | ZAR | CPI (YoY) (Jan) |  |  | 3.6% |
+| 07:00 | GBP | Core CPI (YoY) (Jan) | 3.1% | 3.0% | 3.2% |
+| 07:00 | GBP | Core CPI (MoM) (Jan) | -0.6% | -0.7% | 0.3% |
+| 07:00 | GBP | Core PPI Output (YoY) (Jan) | 2.9% |  | 3.1% |
+| 07:00 | GBP | Core PPI Output (MoM) (Jan) | 0.2% |  | -0.2% |
+| 07:00 | GBP | Core RPI (YoY) (Jan) | 3.7% |  | 4.1% |
+| 07:00 | GBP | Core RPI (MoM) (Jan) | -0.5% |  | 0.7% |
+| 07:00 | GBP | CPI, n.s.a (Jan) | 139.50 |  | 140.10 |
+| 07:00 | GBP | PPI Input (YoY) (Jan) | -0.2% |  | 0.5% |
+| 07:00 | GBP | PPI Output (YoY) (Jan) | 2.5% |  | 3.1% |
+| 07:00 | GBP | PPI Output (MoM) (Jan) | 0.0% | 0.2% | -0.1% |
+| 07:00 | GBP | RPI (YoY) (Jan) | 3.8% | 3.8% | 4.2% |
+| 07:00 | GBP | RPI (MoM) (Jan) | -0.5% | -0.4% | 0.7% |
+| 18 min | EUR | French CPI NSA (YoY) (Jan) |  |  | 0.30% |
+| 18 min | EUR | French CPI NSA (MoM) (Jan) |  |  | -0.30% |
+| 18 min | EUR | French CPI (YoY) (Jan) |  | 0.3% | 0.8% |
+| 18 min | EUR | French HICP (YoY) (Jan) |  | 0.4% | 0.7% |
+| 18 min | EUR | France Inflation Ex-Tobacco (YoY) (Jan) |  |  | 0.70% |
+| 33 min | ZAR | Core CPI (MoM) (Jan) |  |  | 0.1% |
+| 33 min | ZAR | Core CPI (YoY) (Jan) |  |  | 3.3% |
+| 33 min | ZAR | CPI (MoM) (Jan) |  |  | 0.2% |
+| 33 min | ZAR | CPI (YoY) (Jan) |  |  | 3.6% |
 | 09:30 | GBP | House Price Index (YoY) |  | 1.8% | 2.5% |
 | 09:30 | ZAR | Business Confidence (Jan) |  |  | 132.3 |
 | 11:00 | ZAR | Retail Sales (YoY) (Dec) |  |  | 3.5% |
