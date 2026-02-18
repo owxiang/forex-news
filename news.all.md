@@ -5,9 +5,9 @@
 | 00:00 | AUD | Low | MI Leading Index (MoM) (Jan) | -0.0% |  | 0.1% |
 | 00:30 | AUD | Moderate | Wage Price Index (QoQ) (Q4) | 0.8% | 0.8% | 0.8% |
 | 00:30 | AUD | Low | Wage Price Index (YoY) (Q4) | 3.4% |  | 3.3% |
-| 18 min | NZD | High | RBNZ Interest Rate Decision |  | 2.25% | 2.25% |
-| 18 min | NZD | Moderate | RBNZ Monetary Policy Statement |  |  |  |
-| 18 min | NZD | Moderate | RBNZ Rate Statement |  |  |  |
+| 01:00 | NZD | High | RBNZ Interest Rate Decision | 2.25% | 2.25% | 2.25% |
+| 01:00 | NZD | Moderate | RBNZ Monetary Policy Statement |  |  |  |
+| 01:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
 | 02:00 | NZD | Low | RBNZ Offshore Holdings (Jan) |  |  | 57.50% |
 | 02:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
 | 07:00 | GBP | Low | Core CPI (YoY) (Jan) |  | 3.0% | 3.2% |
