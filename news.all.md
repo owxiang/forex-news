@@ -11,26 +11,26 @@
 | 02:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
 | 07:00 | GBP | Low | Core CPI (YoY) (Jan) |  | 3.0% | 3.2% |
 | 07:00 | GBP | Low | Core CPI (MoM) (Jan) |  | -0.7% | 0.3% |
-| 07:00 | GBP | Low | Core PPI Output (MoM) (Jan) |  |  | -0.1% |
 | 07:00 | GBP | Low | Core PPI Output (YoY) (Jan) |  |  | 3.2% |
+| 07:00 | GBP | Low | Core PPI Output (MoM) (Jan) |  |  | -0.1% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Jan) |  |  | 4.1% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Jan) |  |  | 0.7% |
-| 07:00 | GBP | High | CPI (YoY) (Jan) |  | 3.0% | 3.4% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Jan) |  | -0.5% | 0.4% |
+| 07:00 | GBP | High | CPI (YoY) (Jan) |  | 3.0% | 3.4% |
 | 07:00 | GBP | Low | CPI, n.s.a (Jan) |  |  | 140.10 |
 | 07:00 | GBP | Moderate | CPIH (YoY) |  |  | 3.6% |
-| 07:00 | GBP | Low | PPI Input (YoY) (Jan) |  |  | 0.8% |
 | 07:00 | GBP | Moderate | PPI Input (MoM) (Jan) |  | 0.4% | -0.2% |
+| 07:00 | GBP | Low | PPI Input (YoY) (Jan) |  |  | 0.8% |
 | 07:00 | GBP | Low | PPI Output (YoY) (Jan) |  |  | 3.4% |
 | 07:00 | GBP | Low | PPI Output (MoM) (Jan) |  | 0.2% | 0.0% |
 | 07:00 | GBP | Low | RPI (YoY) (Jan) |  | 3.8% | 4.2% |
 | 07:00 | GBP | Low | RPI (MoM) (Jan) |  | -0.4% | 0.7% |
-| 07:45 | EUR | Low | French CPI NSA (MoM) (Jan) |  |  | -0.30% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Jan) |  |  | 0.30% |
+| 07:45 | EUR | Low | French CPI NSA (MoM) (Jan) |  |  | -0.30% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Jan) |  | -0.3% | 0.1% |
 | 07:45 | EUR | Low | French CPI (YoY) (Jan) |  | 0.3% | 0.8% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Jan) |  | -0.4% | 0.1% |
 | 07:45 | EUR | Low | French HICP (YoY) (Jan) |  | 0.4% | 0.7% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Jan) |  | -0.4% | 0.1% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Jan) |  |  | 0.70% |
 | 08:00 | ZAR | Low | Core CPI (MoM) (Jan) |  |  | 0.1% |
 | 08:00 | ZAR | Low | Core CPI (YoY) (Jan) |  |  | 3.3% |
@@ -47,8 +47,6 @@
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 161.5 |
 | 12:00 | USD | Low | Mortgage Market Index |  |  | 329.9 |
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 1,284.6 |
-| 12:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 6.7% |
-| 12:00 | USD | Low | Milk Auctions |  |  | 3,830.0 |
 | 13:30 | USD | Moderate | Building Permits (Dec) |  | 1.400M | 1.411M |
 | 13:30 | USD | Low | Building Permits (MoM) (Dec) |  | -0.2% | -0.3% |
 | 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Dec) |  | 0.3% | 0.4% |
@@ -60,8 +58,8 @@
 | 13:30 | USD | Moderate | Housing Starts (MoM) (Dec) |  |  | -4.6% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 6.5% |
 | 14:15 | USD | Low | Capacity Utilization Rate (Jan) |  | 76.6% | 76.3% |
-| 14:15 | USD | Moderate | Industrial Production (MoM) (Jan) |  | 0.4% | 0.4% |
 | 14:15 | USD | Moderate | Industrial Production (YoY) (Jan) |  |  | 1.99% |
+| 14:15 | USD | Moderate | Industrial Production (MoM) (Jan) |  | 0.4% | 0.4% |
 | 14:15 | USD | Low | Manufacturing Production (MoM) (Jan) |  | 0.4% | 0.2% |
 | 16:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 3.7% | 3.7% |
 | 17:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |

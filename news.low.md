@@ -6,8 +6,8 @@
 | 02:00 | NZD | RBNZ Offshore Holdings (Jan) | 56.30% |  | 57.50% |
 | 07:00 | GBP | Core CPI (YoY) (Jan) |  | 3.0% | 3.2% |
 | 07:00 | GBP | Core CPI (MoM) (Jan) |  | -0.7% | 0.3% |
-| 07:00 | GBP | Core PPI Output (MoM) (Jan) |  |  | -0.1% |
 | 07:00 | GBP | Core PPI Output (YoY) (Jan) |  |  | 3.2% |
+| 07:00 | GBP | Core PPI Output (MoM) (Jan) |  |  | -0.1% |
 | 07:00 | GBP | Core RPI (YoY) (Jan) |  |  | 4.1% |
 | 07:00 | GBP | Core RPI (MoM) (Jan) |  |  | 0.7% |
 | 07:00 | GBP | CPI, n.s.a (Jan) |  |  | 140.10 |
@@ -16,8 +16,8 @@
 | 07:00 | GBP | PPI Output (MoM) (Jan) |  | 0.2% | 0.0% |
 | 07:00 | GBP | RPI (YoY) (Jan) |  | 3.8% | 4.2% |
 | 07:00 | GBP | RPI (MoM) (Jan) |  | -0.4% | 0.7% |
-| 07:45 | EUR | French CPI NSA (MoM) (Jan) |  |  | -0.30% |
 | 07:45 | EUR | French CPI NSA (YoY) (Jan) |  |  | 0.30% |
+| 07:45 | EUR | French CPI NSA (MoM) (Jan) |  |  | -0.30% |
 | 07:45 | EUR | French CPI (YoY) (Jan) |  | 0.3% | 0.8% |
 | 07:45 | EUR | French HICP (YoY) (Jan) |  | 0.4% | 0.7% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Jan) |  |  | 0.70% |
@@ -35,8 +35,6 @@
 | 12:00 | USD | MBA Purchase Index |  |  | 161.5 |
 | 12:00 | USD | Mortgage Market Index |  |  | 329.9 |
 | 12:00 | USD | Mortgage Refinance Index |  |  | 1,284.6 |
-| 12:00 | NZD | GlobalDairyTrade Price Index |  |  | 6.7% |
-| 12:00 | USD | Milk Auctions |  |  | 3,830.0 |
 | 13:30 | USD | Building Permits (MoM) (Dec) |  | -0.2% | -0.3% |
 | 13:30 | USD | Durables Excluding Defense (MoM) (Dec) |  |  | 6.5% |
 | 13:30 | USD | Durables Excluding Transport (MoM) (Dec) |  | 0.3% | 0.4% |
