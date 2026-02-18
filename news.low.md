@@ -1,27 +1,54 @@
-## 17 February 2026 - Low Impact Forex News
+## 18 February 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:35 | JPY | 5-Year JGB Auction | 1.640% |  | 1.639% |
-| 04:30 | JPY | Tertiary Industry Activity Index (Dec) | 8.40 |  | -2.50 |
-| 07:00 | GBP | Average Earnings ex Bonus (Dec) | 4.2% | 4.2% | 4.4% |
-| 07:00 | EUR | German HICP (MoM) (Jan) | -0.1% | -0.1% | 0.2% |
-| 07:00 | EUR | German HICP (YoY) (Jan) | 2.1% | 2.1% | 2.0% |
-| 09:00 | EUR | Italian Trade Balance (Dec) | 6.037B | 4.750B | 5.056B |
-| 09:00 | EUR | Italian Trade Balance EU (Dec) | -2.45B |  | -1.98B |
-| 09:30 | ZAR | Unemployment Rate (Q4) | 31.40% |  | 31.90% |
-| 09:30 | ZAR | Unemployment (Q4) | 7.836M |  | 8.007M |
-| 10:00 | EUR | ECOFIN Meetings |  |  |  |
-| 10:50 | EUR | German 2-Year Schatz Auction | 2.020% |  | 2.140% |
-| 13:30 | CAD | Common CPI (YoY) (Jan) | 2.7% | 2.7% | 2.8% |
-| 13:30 | CAD | CPI (YoY) (Jan) | 2.3% | 2.4% | 2.4% |
-| 13:30 | CAD | Foreign Securities Purchases by Canadians (Dec) | 13.060B |  | 16.950B |
-| 13:30 | CAD | Median CPI (YoY) (Jan) | 2.5% | 2.5% | 2.6% |
-| 13:30 | CAD | Trimmed CPI (YoY) (Jan) | 2.4% | 2.6% | 2.7% |
-| 15:00 | USD | CB Employment Trends Index (Jan) | 105.06 |  | 104.51 |
-| 15:00 | USD | NAHB Housing Market Index (Feb) | 36 | 38 | 37 |
-| 16:30 | USD | 3-Month Bill Auction | 3.600% |  | 3.600% |
-| 16:30 | USD | 6-Month Bill Auction | 3.500% |  | 3.500% |
-| 21:45 | NZD | PPI Output (QoQ) (Q4) | 0.1% | 0.7% | 0.6% |
-| 23:00 | JPY | Reuters Tankan Index (Feb) | 13 |  | 7 |
-| 38 min | JPY | Imports (YoY) (Jan) |  | 3.0% | 5.2% |
+| 00:00 | AUD | MI Leading Index (MoM) (Jan) | -0.0% |  | 0.1% |
+| 00:30 | AUD | Wage Price Index (YoY) (Q4) | 3.4% |  | 3.3% |
+| 02:00 | NZD | RBNZ Offshore Holdings (Jan) |  |  | 57.50% |
+| 07:00 | GBP | Core CPI (YoY) (Jan) |  | 3.0% | 3.2% |
+| 07:00 | GBP | Core CPI (MoM) (Jan) |  | -0.7% | 0.3% |
+| 07:00 | GBP | Core PPI Output (YoY) (Jan) |  |  | 3.2% |
+| 07:00 | GBP | Core PPI Output (MoM) (Jan) |  |  | -0.1% |
+| 07:00 | GBP | Core RPI (YoY) (Jan) |  |  | 4.1% |
+| 07:00 | GBP | Core RPI (MoM) (Jan) |  |  | 0.7% |
+| 07:00 | GBP | CPI, n.s.a (Jan) |  |  | 140.10 |
+| 07:00 | GBP | PPI Input (YoY) (Jan) |  |  | 0.8% |
+| 07:00 | GBP | PPI Output (YoY) (Jan) |  |  | 3.4% |
+| 07:00 | GBP | PPI Output (MoM) (Jan) |  | 0.2% | 0.0% |
+| 07:00 | GBP | RPI (YoY) (Jan) |  | 3.8% | 4.2% |
+| 07:00 | GBP | RPI (MoM) (Jan) |  | -0.4% | 0.7% |
+| 07:45 | EUR | French CPI NSA (YoY) (Jan) |  |  | 0.30% |
+| 07:45 | EUR | French CPI NSA (MoM) (Jan) |  |  | -0.30% |
+| 07:45 | EUR | French CPI (YoY) (Jan) |  | 0.3% | 0.8% |
+| 07:45 | EUR | French HICP (YoY) (Jan) |  | 0.4% | 0.7% |
+| 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Jan) |  |  | 0.70% |
+| 08:00 | ZAR | Core CPI (MoM) (Jan) |  |  | 0.1% |
+| 08:00 | ZAR | Core CPI (YoY) (Jan) |  |  | 3.3% |
+| 08:00 | ZAR | CPI (MoM) (Jan) |  |  | 0.2% |
+| 08:00 | ZAR | CPI (YoY) (Jan) |  |  | 3.6% |
+| 09:30 | GBP | House Price Index (YoY) |  | 1.9% | 2.5% |
+| 09:30 | ZAR | Business Confidence (Jan) |  |  | 132.3 |
+| 11:00 | ZAR | Retail Sales (YoY) (Dec) |  |  | 3.5% |
+| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 11:30 | INR | M3 Money Supply |  |  | 12.0% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.21% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -0.3% |
+| 12:00 | USD | MBA Purchase Index |  |  | 161.5 |
+| 12:00 | USD | Mortgage Market Index |  |  | 329.9 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 1,284.6 |
+| 12:00 | NZD | GlobalDairyTrade Price Index |  |  | 6.7% |
+| 12:00 | USD | Milk Auctions |  |  | 3,830.0 |
+| 13:30 | USD | Building Permits (MoM) (Dec) |  | -0.2% | -0.3% |
+| 13:30 | USD | Durables Excluding Defense (MoM) (Dec) |  |  | 6.5% |
+| 13:30 | USD | Durables Excluding Transport (MoM) (Dec) |  | 0.3% | 0.4% |
+| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Dec) |  | 0.5% | 0.4% |
+| 13:55 | USD | Redbook (YoY) |  |  | 6.5% |
+| 14:15 | USD | Capacity Utilization Rate (Jan) |  | 76.5% | 76.3% |
+| 14:15 | USD | Manufacturing Production (MoM) (Jan) |  | 0.4% | 0.2% |
+| 21:00 | USD | US Foreign Buying, T-bonds (Dec) |  |  | 85.60B |
+| 21:00 | USD | Overall Net Capital Flow (Dec) |  |  | 212.00B |
+| 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Dec) |  | 128.60B | 220.20B |
+| 23:50 | JPY | Core Machinery Orders (MoM) (Dec) |  | 5.1% | -11.0% |
+| 23:50 | JPY | Core Machinery Orders (YoY) (Dec) |  | 3.9% | -6.4% |
+| 23:50 | JPY | Foreign Bonds Buying |  |  | -365.7B |
+| 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 543.2B |
