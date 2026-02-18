@@ -16,6 +16,8 @@
 | 07:00 | GBP | PPI Output (MoM) (Jan) | 0.0% | 0.2% | -0.1% |
 | 07:00 | GBP | RPI (YoY) (Jan) | 3.8% | 3.8% | 4.2% |
 | 07:00 | GBP | RPI (MoM) (Jan) | -0.5% | -0.4% | 0.7% |
+| 07:45 | EUR | French CPI NSA (YoY) (Jan) | 0.30% |  | 0.30% |
+| 07:45 | EUR | French CPI NSA (MoM) (Jan) | -0.30% |  | -0.30% |
 | 07:45 | EUR | French CPI (YoY) (Jan) | 0.3% | 0.3% | 0.8% |
 | 07:45 | EUR | French HICP (YoY) (Jan) | 0.4% | 0.4% | 0.7% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Jan) | 0.30% |  | 0.70% |
