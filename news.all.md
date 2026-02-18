@@ -67,7 +67,7 @@
 | 17:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 18:00 | USD | Moderate | 20-Year Bond Auction | 4.664% |  | 4.846% |
 | 18:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 38 min | USD | High | FOMC Meeting Minutes |  |  |  |
+| 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
 | 21:00 | USD | Low | US Foreign Buying, T-bonds (Dec) |  |  | 85.60B |
 | 21:00 | USD | Low | Overall Net Capital Flow (Dec) |  |  | 212.00B |
 | 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Dec) |  |  | 220.2B |
