@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | AUD | MI Leading Index (MoM) (Jan) | -0.0% |  | 0.1% |
 | 00:30 | AUD | Wage Price Index (YoY) (Q4) | 3.4% |  | 3.3% |
-| 02:00 | NZD | RBNZ Offshore Holdings (Jan) |  |  | 57.50% |
+| 02:00 | NZD | RBNZ Offshore Holdings (Jan) | 56.30% |  | 57.50% |
 | 07:00 | GBP | Core CPI (YoY) (Jan) |  | 3.0% | 3.2% |
 | 07:00 | GBP | Core CPI (MoM) (Jan) |  | -0.7% | 0.3% |
 | 07:00 | GBP | Core PPI Output (YoY) (Jan) |  |  | 3.2% |

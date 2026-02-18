@@ -8,7 +8,7 @@
 | 01:00 | NZD | High | RBNZ Interest Rate Decision | 2.25% | 2.25% | 2.25% |
 | 01:00 | NZD | Moderate | RBNZ Monetary Policy Statement |  |  |  |
 | 01:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
-| 02:00 | NZD | Low | RBNZ Offshore Holdings (Jan) |  |  | 57.50% |
+| 02:00 | NZD | Low | RBNZ Offshore Holdings (Jan) | 56.30% |  | 57.50% |
 | 02:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
 | 07:00 | GBP | Low | Core CPI (YoY) (Jan) |  | 3.0% | 3.2% |
 | 07:00 | GBP | Low | Core CPI (MoM) (Jan) |  | -0.7% | 0.3% |
