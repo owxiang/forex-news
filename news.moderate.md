@@ -21,8 +21,8 @@
 | 14:15 | USD | Industrial Production (MoM) (Jan) | 0.7% | 0.4% | 0.2% |
 | 14:15 | USD | Industrial Production (YoY) (Jan) | 2.28% |  | 1.30% |
 | 16:00 | USD | Atlanta Fed GDPNow (Q4) | 3.6% | 3.7% | 3.7% |
-| 34 min | EUR | ECB's Schnabel Speaks |  |  |  |
-| 18:00 | USD | 20-Year Bond Auction |  |  | 4.846% |
-| 18:00 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 17:00 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 33 min | USD | 20-Year Bond Auction |  |  | 4.846% |
+| 33 min | USD | FOMC Member Bowman Speaks |  |  |  |
 | 21:00 | USD | TIC Net Long-Term Transactions (Dec) |  |  | 220.2B |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | 13.400M |
