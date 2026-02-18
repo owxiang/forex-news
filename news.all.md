@@ -38,15 +38,15 @@
 | 09:30 | GBP | Low | House Price Index (YoY) | 2.4% | 1.8% | 2.5% |
 | 09:30 | ZAR | Low | Business Confidence (Dec) | 133.2 |  | 132.3 |
 | 09:30 | ZAR | Low | Business Confidence (Jan) | 131.4 |  | 133.2 |
-| 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.850% |
-| 11:00 | ZAR | Low | Retail Sales (YoY) (Dec) |  |  | 3.5% |
-| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 11:30 | INR | Low | M3 Money Supply |  |  | 12.0% |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.21% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -0.3% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 161.5 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 329.9 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 1,284.6 |
+| 10:30 | EUR | Moderate | German 10-Year Bund Auction | 2.730% |  | 2.850% |
+| 11:00 | ZAR | Low | Retail Sales (YoY) (Dec) | 2.6% |  | 3.6% |
+| 5 min | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 10 min | INR | Low | M3 Money Supply |  |  | 12.0% |
+| 40 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.21% |
+| 40 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -0.3% |
+| 40 min | USD | Low | MBA Purchase Index |  |  | 161.5 |
+| 40 min | USD | Low | Mortgage Market Index |  |  | 329.9 |
+| 40 min | USD | Low | Mortgage Refinance Index |  |  | 1,284.6 |
 | 13:30 | USD | Moderate | Building Permits (Dec) |  | 1.400M | 1.411M |
 | 13:30 | USD | Low | Building Permits (MoM) (Dec) |  | -0.2% | -0.3% |
 | 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Dec) |  | 0.3% | 0.4% |

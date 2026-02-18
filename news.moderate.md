@@ -10,7 +10,7 @@
 | 07:00 | GBP | PPI Input (MoM) (Jan) | 0.4% | 0.4% | -0.5% |
 | 07:45 | EUR | French CPI (MoM) (Jan) | -0.3% | -0.3% | 0.1% |
 | 07:45 | EUR | French HICP (MoM) (Jan) | -0.4% | -0.4% | 0.1% |
-| 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.850% |
+| 10:30 | EUR | German 10-Year Bund Auction | 2.730% |  | 2.850% |
 | 13:30 | USD | Building Permits (Dec) |  | 1.400M | 1.411M |
 | 13:30 | USD | Core Durable Goods Orders (MoM) (Dec) |  | 0.3% | 0.4% |
 | 13:30 | USD | Housing Starts (Dec) |  | 1.310M | 1.246M |
