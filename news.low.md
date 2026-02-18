@@ -29,17 +29,16 @@
 | 09:30 | ZAR | Business Confidence (Dec) | 133.2 |  | 132.3 |
 | 09:30 | ZAR | Business Confidence (Jan) | 131.4 |  | 133.2 |
 | 11:00 | ZAR | Retail Sales (YoY) (Dec) | 2.6% |  | 3.6% |
-| 5 min | BRL | BCB Focus Market Readout |  |  |  |
-| 10 min | INR | M3 Money Supply |  |  | 12.0% |
-| 40 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.21% |
-| 40 min | USD | MBA Mortgage Applications (WoW) |  |  | -0.3% |
-| 40 min | USD | MBA Purchase Index |  |  | 161.5 |
-| 40 min | USD | Mortgage Market Index |  |  | 329.9 |
-| 40 min | USD | Mortgage Refinance Index |  |  | 1,284.6 |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.17% |  | 6.21% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | 2.8% |  | -0.3% |
+| 12:00 | USD | MBA Purchase Index | 157.1 |  | 161.5 |
+| 12:00 | USD | Mortgage Market Index | 339.0 |  | 329.9 |
+| 12:00 | USD | Mortgage Refinance Index | 1,375.9 |  | 1,284.6 |
 | 13:30 | USD | Building Permits (MoM) (Dec) |  | -0.2% | -0.3% |
 | 13:30 | USD | Durables Excluding Defense (MoM) (Dec) |  |  | 6.5% |
 | 13:30 | USD | Durables Excluding Transport (MoM) (Dec) |  | 0.3% | 0.4% |
 | 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Dec) |  | 0.5% | 0.4% |
+| 13:30 | INR | M3 Money Supply |  |  | 12.0% |
 | 13:55 | USD | Redbook (YoY) |  |  | 6.5% |
 | 14:15 | USD | Capacity Utilization Rate (Jan) |  | 76.6% | 76.3% |
 | 14:15 | USD | Manufacturing Production (MoM) (Jan) |  | 0.4% | 0.2% |

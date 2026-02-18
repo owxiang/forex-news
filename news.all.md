@@ -40,13 +40,11 @@
 | 09:30 | ZAR | Low | Business Confidence (Jan) | 131.4 |  | 133.2 |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction | 2.730% |  | 2.850% |
 | 11:00 | ZAR | Low | Retail Sales (YoY) (Dec) | 2.6% |  | 3.6% |
-| 5 min | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 10 min | INR | Low | M3 Money Supply |  |  | 12.0% |
-| 40 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.21% |
-| 40 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -0.3% |
-| 40 min | USD | Low | MBA Purchase Index |  |  | 161.5 |
-| 40 min | USD | Low | Mortgage Market Index |  |  | 329.9 |
-| 40 min | USD | Low | Mortgage Refinance Index |  |  | 1,284.6 |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.17% |  | 6.21% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | 2.8% |  | -0.3% |
+| 12:00 | USD | Low | MBA Purchase Index | 157.1 |  | 161.5 |
+| 12:00 | USD | Low | Mortgage Market Index | 339.0 |  | 329.9 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 1,375.9 |  | 1,284.6 |
 | 13:30 | USD | Moderate | Building Permits (Dec) |  | 1.400M | 1.411M |
 | 13:30 | USD | Low | Building Permits (MoM) (Dec) |  | -0.2% | -0.3% |
 | 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Dec) |  | 0.3% | 0.4% |
@@ -56,6 +54,7 @@
 | 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Dec) |  | 0.5% | 0.4% |
 | 13:30 | USD | Moderate | Housing Starts (Dec) |  | 1.310M | 1.246M |
 | 13:30 | USD | Moderate | Housing Starts (MoM) (Dec) |  |  | -4.6% |
+| 13:30 | INR | Low | M3 Money Supply |  |  | 12.0% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 6.5% |
 | 14:15 | USD | Low | Capacity Utilization Rate (Jan) |  | 76.6% | 76.3% |
 | 14:15 | USD | Moderate | Industrial Production (YoY) (Jan) |  |  | 1.99% |
