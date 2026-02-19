@@ -5,8 +5,8 @@
 | 00:30 | AUD | Employment Change (Jan) | 17.8K | 20.0K | 68.5K |
 | 00:30 | AUD | Full Employment Change (Jan) | 50.5K |  | 56.9K |
 | 00:30 | AUD | Unemployment Rate (Jan) | 4.1% | 4.2% | 4.1% |
-| 4 min | IDR | Interest Rate Decision |  | 4.75% | 4.75% |
-| 09:00 | EUR | ECB Economic Bulletin |  |  |  |
+| 07:30 | IDR | Interest Rate Decision | 4.75% | 4.75% | 4.75% |
+| 40 min | EUR | ECB Economic Bulletin |  |  |  |
 | 11:30 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 13:20 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims |  |  | 1,862K |

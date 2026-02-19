@@ -8,13 +8,13 @@
 | 00:30 | AUD | Participation Rate (Jan) | 66.7% | 66.8% | 68.5% |
 | 00:30 | AUD | Reserve Assets Total (Jan) | 112.5B |  | 113.9B |
 | 07:00 | CHF | Trade Balance (Jan) | 3.818B |  | 0.934B |
-| 4 min | CHF | Industrial Production (YoY) (Q4) |  |  | 2.40% |
-| 4 min | IDR | Deposit Facility Rate (Feb) |  | 3.75% | 3.75% |
-| 4 min | IDR | Lending Facility Rate (Feb) |  | 5.50% | 5.50% |
-| 4 min | IDR | Loans (YoY) (Jan) | 9.96% |  | 9.69% |
-| 09:00 | EUR | Spanish Trade Balance (Dec) |  |  | -5.68B |
-| 09:00 | EUR | Current Account (Dec) |  | 9.8B | 8.6B |
-| 09:00 | EUR | Current Account n.s.a. (Dec) |  |  | 12.6B |
+| 07:30 | CHF | Industrial Production (YoY) (Q4) | -0.70% |  | 2.00% |
+| 07:30 | IDR | Deposit Facility Rate (Feb) | 3.75% | 3.75% | 3.75% |
+| 07:30 | IDR | Lending Facility Rate (Feb) | 5.50% | 5.50% | 5.50% |
+| 07:30 | IDR | Loans (YoY) (Jan) | 9.96% |  | 9.69% |
+| 40 min | EUR | Spanish Trade Balance (Dec) |  |  | -5.68B |
+| 40 min | EUR | Current Account (Dec) |  | 9.8B | 8.6B |
+| 40 min | EUR | Current Account n.s.a. (Dec) |  |  | 12.6B |
 | 09:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.223% |
 | 09:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 2.341% |
 | 09:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.512% |
