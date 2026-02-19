@@ -45,13 +45,13 @@
 | 17:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 1.6% |  | -1.1% |
 | 17:00 | USD | Gasoline Inventories | -3.213M | -0.200M | 1.160M |
 | 17:30 | BRL | Foreign Exchange Flows | 1.783B |  | -0.294B |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.958T |
-| 21:45 | NZD | Exports (Jan) |  |  | 7.65B |
-| 21:45 | NZD | Imports (Jan) |  |  | 7.60B |
-| 21:45 | NZD | Trade Balance (MoM) (Jan) |  | -745M | 52M |
-| 21:45 | NZD | Trade Balance (YoY) (Jan) |  |  | -2,200M |
-| 22:00 | AUD | Manufacturing & Services PMI (Feb) |  |  | 55.70 |
-| 22:00 | AUD | Judo Bank Manufacturing PMI (Feb) |  |  | 52.3 |
-| 22:00 | AUD | Judo Bank Services PMI (Feb) |  |  | 56.3 |
+| 16 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.958T |
+| 31 min | NZD | Exports (Jan) |  |  | 7.65B |
+| 31 min | NZD | Imports (Jan) |  |  | 7.60B |
+| 31 min | NZD | Trade Balance (MoM) (Jan) |  | -745M | 52M |
+| 31 min | NZD | Trade Balance (YoY) (Jan) |  |  | -2,200M |
+| 46 min | AUD | Manufacturing & Services PMI (Feb) |  |  | 55.70 |
+| 46 min | AUD | Judo Bank Manufacturing PMI (Feb) |  |  | 52.3 |
+| 46 min | AUD | Judo Bank Services PMI (Feb) |  |  | 56.3 |
 | 23:30 | JPY | CPI, n.s.a (MoM) (Jan) |  |  | -0.2% |
 | 23:30 | JPY | National CPI (YoY) (Jan) |  |  | 2.1% |

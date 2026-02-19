@@ -72,15 +72,15 @@
 | 17:00 | USD | Low | Gasoline Inventories | -3.213M | -0.200M | 1.160M |
 | 17:30 | BRL | Low | Foreign Exchange Flows | 1.783B |  | -0.294B |
 | 18:00 | USD | Moderate | 30-Year TIPS Auction | 2.473% |  | 2.650% |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,622B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.958T |
-| 21:45 | NZD | Low | Exports (Jan) |  |  | 7.65B |
-| 21:45 | NZD | Low | Imports (Jan) |  |  | 7.60B |
-| 21:45 | NZD | Low | Trade Balance (MoM) (Jan) |  | -745M | 52M |
-| 21:45 | NZD | Low | Trade Balance (YoY) (Jan) |  |  | -2,200M |
-| 22:00 | AUD | Low | Manufacturing & Services PMI (Feb) |  |  | 55.70 |
-| 22:00 | AUD | Low | Judo Bank Manufacturing PMI (Feb) |  |  | 52.3 |
-| 22:00 | AUD | Low | Judo Bank Services PMI (Feb) |  |  | 56.3 |
+| 16 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,622B |
+| 16 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.958T |
+| 31 min | NZD | Low | Exports (Jan) |  |  | 7.65B |
+| 31 min | NZD | Low | Imports (Jan) |  |  | 7.60B |
+| 31 min | NZD | Low | Trade Balance (MoM) (Jan) |  | -745M | 52M |
+| 31 min | NZD | Low | Trade Balance (YoY) (Jan) |  |  | -2,200M |
+| 46 min | AUD | Low | Manufacturing & Services PMI (Feb) |  |  | 55.70 |
+| 46 min | AUD | Low | Judo Bank Manufacturing PMI (Feb) |  |  | 52.3 |
+| 46 min | AUD | Low | Judo Bank Services PMI (Feb) |  |  | 56.3 |
 | 23:30 | JPY | Low | CPI, n.s.a (MoM) (Jan) |  |  | -0.2% |
 | 23:30 | JPY | Moderate | National Core CPI (YoY) (Jan) |  | 2.0% | 2.4% |
 | 23:30 | JPY | Low | National CPI (YoY) (Jan) |  |  | 2.1% |

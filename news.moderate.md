@@ -26,6 +26,6 @@
 | 16:00 | USD | Atlanta Fed GDPNow (Q4) | 3.0% | 3.6% | 3.6% |
 | 17:00 | USD | Cushing Crude Oil Inventories | -1.095M |  | 1.071M |
 | 18:00 | USD | 30-Year TIPS Auction | 2.473% |  | 2.650% |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 6,622B |
+| 16 min | USD | Fed's Balance Sheet |  |  | 6,622B |
 | 23:30 | JPY | National Core CPI (YoY) (Jan) |  | 2.0% | 2.4% |
 | 23:30 | JPY | National CPI (MoM) (Jan) |  |  | -0.1% |
