@@ -58,20 +58,20 @@
 | 15:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage | -144B | -148B | -249B |
 | 16:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 3.0% | 3.6% | 3.6% |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.630% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.630% |
-| 17:00 | USD | High | Crude Oil Inventories |  | 1.700M | 8.530M |
-| 17:00 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.029M |
-| 17:00 | USD | Low | Crude Oil Imports |  |  | 0.912M |
-| 17:00 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 1.071M |
-| 17:00 | USD | Low | Distillate Fuel Production |  |  | 0.045M |
-| 17:00 | USD | Low | EIA Weekly Distillates Stocks |  | -1.600M | -2.703M |
-| 17:00 | USD | Low | Gasoline Production |  |  | 0.139M |
-| 17:00 | USD | Low | Heating Oil Stockpiles |  |  | 0.202M |
-| 17:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.1% |
-| 17:00 | USD | Low | Gasoline Inventories |  | -0.200M | 1.160M |
-| 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.294B |
-| 18:00 | USD | Moderate | 30-Year TIPS Auction |  |  | 2.650% |
+| 16:30 | USD | Low | 4-Week Bill Auction | 3.625% |  | 3.630% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 3.630% |  | 3.630% |
+| 17:00 | USD | High | Crude Oil Inventories | -9.014M | 1.700M | 8.530M |
+| 17:00 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.077M |  | -0.029M |
+| 17:00 | USD | Low | Crude Oil Imports | -1.132M |  | 0.912M |
+| 17:00 | USD | Moderate | Cushing Crude Oil Inventories | -1.095M |  | 1.071M |
+| 17:00 | USD | Low | Distillate Fuel Production | 0.028M |  | 0.045M |
+| 17:00 | USD | Low | EIA Weekly Distillates Stocks | -4.566M | -1.600M | -2.703M |
+| 17:00 | USD | Low | Gasoline Production | 0.290M |  | 0.139M |
+| 17:00 | USD | Low | Heating Oil Stockpiles | 0.362M |  | 0.202M |
+| 17:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 1.6% |  | -1.1% |
+| 17:00 | USD | Low | Gasoline Inventories | -3.213M | -0.200M | 1.160M |
+| 6 min | BRL | Low | Foreign Exchange Flows |  |  | -0.294B |
+| 36 min | USD | Moderate | 30-Year TIPS Auction |  |  | 2.650% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,622B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.958T |
 | 21:45 | NZD | Low | Exports (Jan) |  |  | 7.65B |

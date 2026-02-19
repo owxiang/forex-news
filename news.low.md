@@ -34,17 +34,17 @@
 | 15:00 | EUR | Consumer Confidence (Feb) | -12.2 | -12.0 | -12.4 |
 | 15:30 | USD | Fed Goolsbee Speaks |  |  |  |
 | 15:30 | USD | Natural Gas Storage | -144B | -148B | -249B |
-| 16:30 | USD | 4-Week Bill Auction |  |  | 3.630% |
-| 16:30 | USD | 8-Week Bill Auction |  |  | 3.630% |
-| 17:00 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.029M |
-| 17:00 | USD | Crude Oil Imports |  |  | 0.912M |
-| 17:00 | USD | Distillate Fuel Production |  |  | 0.045M |
-| 17:00 | USD | EIA Weekly Distillates Stocks |  | -1.600M | -2.703M |
-| 17:00 | USD | Gasoline Production |  |  | 0.139M |
-| 17:00 | USD | Heating Oil Stockpiles |  |  | 0.202M |
-| 17:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.1% |
-| 17:00 | USD | Gasoline Inventories |  | -0.200M | 1.160M |
-| 17:30 | BRL | Foreign Exchange Flows |  |  | -0.294B |
+| 16:30 | USD | 4-Week Bill Auction | 3.625% |  | 3.630% |
+| 16:30 | USD | 8-Week Bill Auction | 3.630% |  | 3.630% |
+| 17:00 | USD | EIA Refinery Crude Runs (WoW) | 0.077M |  | -0.029M |
+| 17:00 | USD | Crude Oil Imports | -1.132M |  | 0.912M |
+| 17:00 | USD | Distillate Fuel Production | 0.028M |  | 0.045M |
+| 17:00 | USD | EIA Weekly Distillates Stocks | -4.566M | -1.600M | -2.703M |
+| 17:00 | USD | Gasoline Production | 0.290M |  | 0.139M |
+| 17:00 | USD | Heating Oil Stockpiles | 0.362M |  | 0.202M |
+| 17:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 1.6% |  | -1.1% |
+| 17:00 | USD | Gasoline Inventories | -3.213M | -0.200M | 1.160M |
+| 6 min | BRL | Foreign Exchange Flows |  |  | -0.294B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.958T |
 | 21:45 | NZD | Exports (Jan) |  |  | 7.65B |
 | 21:45 | NZD | Imports (Jan) |  |  | 7.60B |
