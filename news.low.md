@@ -21,7 +21,7 @@
 | 10:00 | EUR | Construction Output (MoM) (Dec) | 0.88% |  | -1.54% |
 | 11:00 | GBP | CBI Industrial Trends Orders (Feb) | -28 | -28 | -30 |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 12:00 | BRL | IBC-Br Economic Activity (Dec) |  | -0.45% | 0.70% |
+| 12:00 | BRL | IBC-Br Economic Activity (Dec) | -0.20% | -0.50% | 0.70% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 219.50K |
 | 13:30 | USD | Philly Fed Business Conditions (Feb) |  |  | 25.5 |
 | 13:30 | USD | Philly Fed CAPEX Index (Feb) |  |  | 30.30 |
@@ -30,7 +30,6 @@
 | 13:30 | USD | Wholesale Inventories (MoM) (Dec) |  | 0.2% | 0.2% |
 | 13:30 | CAD | Exports (Dec) |  |  | 65.94B |
 | 13:30 | CAD | Imports (Dec) |  |  | 66.14B |
-| 13:30 | INR | M3 Money Supply |  |  | 12.0% |
 | 15:00 | USD | Pending Home Sales Index (Jan) |  |  | 71.8 |
 | 15:00 | EUR | Consumer Confidence (Feb) |  | -12.0 | -12.4 |
 | 15:30 | USD | Fed Goolsbee Speaks |  |  |  |

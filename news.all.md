@@ -27,12 +27,12 @@
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Feb) | -28 | -28 | -30 |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 12:00 | BRL | Low | IBC-Br Economic Activity (Dec) |  | -0.45% | 0.70% |
-| 13:20 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 12:00 | BRL | Low | IBC-Br Economic Activity (Dec) | -0.20% | -0.50% | 0.70% |
+| 59 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,860K | 1,862K |
 | 13:30 | USD | Moderate | Exports (Dec) |  |  | 292.10B |
 | 13:30 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 13:30 | USD | Moderate | Goods Trade Balance (Dec) |  | -86.00B | -85.50B |
+| 13:30 | USD | Moderate | Goods Trade Balance (Dec) |  | -86.00B | -86.04B |
 | 13:30 | USD | Moderate | Imports (Dec) |  |  | 348.90B |
 | 13:30 | USD | High | Initial Jobless Claims |  | 223K | 227K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 219.50K |
@@ -42,14 +42,13 @@
 | 13:30 | USD | Moderate | Philly Fed Employment (Feb) |  |  | 9.7 |
 | 13:30 | USD | Low | Philly Fed New Orders (Feb) |  |  | 14.4 |
 | 13:30 | USD | Low | Philly Fed Prices Paid (Feb) |  |  | 46.90 |
-| 13:30 | USD | Moderate | Retail Inventories Ex Auto (Dec) |  |  | 0.0% |
+| 13:30 | USD | Moderate | Retail Inventories Ex Auto (Dec) |  |  | 0.2% |
 | 13:30 | USD | Moderate | Trade Balance (Dec) |  | 55.50B | -56.80B |
 | 13:30 | USD | Low | Wholesale Inventories (MoM) (Dec) |  | 0.2% | 0.2% |
 | 13:30 | CAD | Low | Exports (Dec) |  |  | 65.94B |
 | 13:30 | CAD | Low | Imports (Dec) |  |  | 66.14B |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Jan) |  | 0.1% | -0.2% |
 | 13:30 | CAD | Moderate | Trade Balance (Dec) |  | -2.10B | -2.20B |
-| 13:30 | INR | Low | M3 Money Supply |  |  | 12.0% |
 | 14:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 15:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 3.6% | 3.6% |
 | 15:00 | USD | Moderate | Pending Home Sales (MoM) (Jan) |  | 1.4% | -9.3% |
