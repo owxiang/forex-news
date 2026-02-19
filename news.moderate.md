@@ -1,28 +1,31 @@
-## 18 February 2026 - Moderate Impact Forex News
+## 19 February 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Wage Price Index (QoQ) (Q4) | 0.8% | 0.8% | 0.8% |
-| 01:00 | NZD | RBNZ Monetary Policy Statement |  |  |  |
-| 01:00 | NZD | RBNZ Rate Statement |  |  |  |
-| 02:00 | NZD | RBNZ Press Conference |  |  |  |
-| 07:00 | GBP | CPI (MoM) (Jan) | -0.5% | -0.5% | 0.4% |
-| 07:00 | GBP | PPI Input (MoM) (Jan) | 0.4% | 0.4% | -0.5% |
-| 07:45 | EUR | French CPI (MoM) (Jan) | -0.3% | -0.3% | 0.1% |
-| 07:45 | EUR | French HICP (MoM) (Jan) | -0.4% | -0.4% | 0.1% |
-| 10:30 | EUR | German 10-Year Bund Auction | 2.730% |  | 2.850% |
-| 13:29 | USD | Building Permits (Nov) | 1.388M |  | 1.411M |
-| 13:29 | USD | Housing Starts (Nov) | 1.322M |  | 1.246M |
-| 13:29 | USD | Housing Starts (MoM) (Nov) | 3.9% |  | -4.6% |
-| 13:30 | USD | Building Permits (Dec) | 1.448M | 1.400M | 1.388M |
-| 13:30 | USD | Core Durable Goods Orders (MoM) (Dec) | 0.9% | 0.3% | 0.4% |
-| 13:30 | USD | Housing Starts (Dec) | 1.404M | 1.310M | 1.272M |
-| 13:30 | USD | Housing Starts (MoM) (Dec) | 6.2% |  | -4.2% |
-| 14:15 | USD | Industrial Production (MoM) (Jan) | 0.7% | 0.4% | 0.2% |
-| 14:15 | USD | Industrial Production (YoY) (Jan) | 2.28% |  | 1.30% |
-| 16:00 | USD | Atlanta Fed GDPNow (Q4) | 3.6% | 3.7% | 3.7% |
-| 17:00 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 18:00 | USD | 20-Year Bond Auction | 4.664% |  | 4.846% |
-| 18:00 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 21:00 | USD | TIC Net Long-Term Transactions (Dec) | 28.0B |  | 206.6B |
-| 21:30 | USD | API Weekly Crude Oil Stock | -0.609M |  | 13.400M |
+| 00:30 | AUD | Employment Change (Jan) | 17.8K | 20.0K | 68.5K |
+| 00:30 | AUD | Full Employment Change (Jan) | 50.5K |  | 54.8K |
+| 00:30 | AUD | Unemployment Rate (Jan) | 4.1% | 4.2% | 4.1% |
+| 07:30 | IDR | Interest Rate Decision |  | 4.75% | 4.75% |
+| 09:00 | EUR | ECB Economic Bulletin |  |  |  |
+| 11:30 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 13:20 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 13:30 | USD | Continuing Jobless Claims |  |  | 1,862K |
+| 13:30 | USD | Exports (Dec) |  |  | 292.10B |
+| 13:30 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 13:30 | USD | Goods Trade Balance (Dec) |  | -86.00B | -84.72B |
+| 13:30 | USD | Imports (Dec) |  |  | 348.90B |
+| 13:30 | USD | Philly Fed Employment (Feb) |  |  | 9.7 |
+| 13:30 | USD | Retail Inventories Ex Auto (Dec) |  |  | 0.0% |
+| 13:30 | USD | Trade Balance (Dec) |  | 55.50B | -56.80B |
+| 13:30 | CAD | New Housing Price Index (MoM) (Jan) |  | 0.1% | -0.2% |
+| 13:30 | CAD | Trade Balance (Dec) |  | -2.10B | -2.20B |
+| 14:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
+| 15:00 | USD | Atlanta Fed GDPNow (Q4) |  | 3.6% | 3.6% |
+| 15:00 | USD | Pending Home Sales (MoM) (Jan) |  | 1.4% | -9.3% |
+| 15:00 | USD | US Leading Index (MoM) (Dec) |  |  | -0.3% |
+| 15:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
+| 17:00 | USD | Cushing Crude Oil Inventories |  |  | 1.071M |
+| 18:00 | USD | 30-Year TIPS Auction |  |  | 2.650% |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 6,622B |
+| 23:30 | JPY | National Core CPI (YoY) (Jan) |  | 2.0% | 2.4% |
+| 23:30 | JPY | National CPI (MoM) (Jan) |  |  | -0.1% |
