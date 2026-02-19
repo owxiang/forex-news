@@ -10,12 +10,12 @@
 | 00:30 | AUD | Low | Participation Rate (Jan) | 66.7% | 66.8% | 68.5% |
 | 00:30 | AUD | Low | Reserve Assets Total (Jan) | 112.5B |  | 113.9B |
 | 00:30 | AUD | Moderate | Unemployment Rate (Jan) | 4.1% | 4.2% | 4.1% |
-| 31 min | CHF | Low | Trade Balance (Jan) |  |  | 1.036B |
-| 07:30 | CHF | Low | Industrial Production (YoY) (Q4) |  |  | 2.40% |
-| 07:30 | IDR | Moderate | Interest Rate Decision |  | 4.75% | 4.75% |
-| 07:30 | IDR | Low | Deposit Facility Rate (Feb) |  | 3.75% | 3.75% |
-| 07:30 | IDR | Low | Lending Facility Rate (Feb) |  | 5.50% | 5.50% |
-| 07:30 | IDR | Low | Loans (YoY) (Jan) |  |  | 9.69% |
+| 07:00 | CHF | Low | Trade Balance (Jan) | 3.818B |  | 0.934B |
+| 4 min | CHF | Low | Industrial Production (YoY) (Q4) |  |  | 2.40% |
+| 4 min | IDR | Moderate | Interest Rate Decision |  | 4.75% | 4.75% |
+| 4 min | IDR | Low | Deposit Facility Rate (Feb) |  | 3.75% | 3.75% |
+| 4 min | IDR | Low | Lending Facility Rate (Feb) |  | 5.50% | 5.50% |
+| 4 min | IDR | Low | Loans (YoY) (Jan) | 9.96% |  | 9.69% |
 | 09:00 | EUR | Low | Spanish Trade Balance (Dec) |  |  | -5.68B |
 | 09:00 | EUR | Low | Current Account (Dec) |  | 9.8B | 8.6B |
 | 09:00 | EUR | Low | Current Account n.s.a. (Dec) |  |  | 12.6B |

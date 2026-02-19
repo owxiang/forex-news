@@ -7,11 +7,11 @@
 | 00:00 | KRW | Trade Balance (Jan) | 8.72B | 8.74B | 12.17B |
 | 00:30 | AUD | Participation Rate (Jan) | 66.7% | 66.8% | 68.5% |
 | 00:30 | AUD | Reserve Assets Total (Jan) | 112.5B |  | 113.9B |
-| 31 min | CHF | Trade Balance (Jan) |  |  | 1.036B |
-| 07:30 | CHF | Industrial Production (YoY) (Q4) |  |  | 2.40% |
-| 07:30 | IDR | Deposit Facility Rate (Feb) |  | 3.75% | 3.75% |
-| 07:30 | IDR | Lending Facility Rate (Feb) |  | 5.50% | 5.50% |
-| 07:30 | IDR | Loans (YoY) (Jan) |  |  | 9.69% |
+| 07:00 | CHF | Trade Balance (Jan) | 3.818B |  | 0.934B |
+| 4 min | CHF | Industrial Production (YoY) (Q4) |  |  | 2.40% |
+| 4 min | IDR | Deposit Facility Rate (Feb) |  | 3.75% | 3.75% |
+| 4 min | IDR | Lending Facility Rate (Feb) |  | 5.50% | 5.50% |
+| 4 min | IDR | Loans (YoY) (Jan) | 9.96% |  | 9.69% |
 | 09:00 | EUR | Spanish Trade Balance (Dec) |  |  | -5.68B |
 | 09:00 | EUR | Current Account (Dec) |  | 9.8B | 8.6B |
 | 09:00 | EUR | Current Account n.s.a. (Dec) |  |  | 12.6B |
