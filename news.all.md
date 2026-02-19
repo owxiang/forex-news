@@ -50,14 +50,14 @@
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Jan) | -0.4% | 0.1% | -0.2% |
 | 13:30 | CAD | Moderate | Trade Balance (Dec) | -1.31B | -2.10B | -2.59B |
 | 14:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
-| 35 min | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 3.6% | 3.6% |
-| 35 min | USD | Moderate | Pending Home Sales (MoM) (Jan) |  | 1.4% | -9.3% |
-| 35 min | USD | Low | Pending Home Sales Index (Jan) |  |  | 71.8 |
-| 35 min | USD | Moderate | US Leading Index (MoM) (Dec) |  | -0.2% | -0.3% |
-| 35 min | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
-| 35 min | EUR | Low | Consumer Confidence (Feb) |  | -12.0 | -12.4 |
-| 15:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 15:30 | USD | Low | Natural Gas Storage |  | -148B | -249B |
+| 15:00 | USD | Moderate | Pending Home Sales (MoM) (Jan) | -0.8% | 1.4% | -7.4% |
+| 15:00 | USD | Low | Pending Home Sales Index (Jan) | 70.9 |  | 71.5 |
+| 15:00 | USD | Moderate | US Leading Index (MoM) (Dec) | -0.2% | -0.2% | -0.3% |
+| 15:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
+| 15:00 | EUR | Low | Consumer Confidence (Feb) | -12.2 | -12.0 | -12.4 |
+| 8 min | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 8 min | USD | Low | Natural Gas Storage |  | -148B | -249B |
+| 38 min | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 3.6% | 3.6% |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.630% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.630% |
 | 17:00 | USD | High | Crude Oil Inventories |  | 1.700M | 8.530M |
