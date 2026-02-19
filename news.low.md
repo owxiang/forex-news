@@ -21,7 +21,6 @@
 | 10:00 | EUR | Construction Output (MoM) (Dec) |  |  | -1.06% |
 | 11:00 | GBP | CBI Industrial Trends Orders (Feb) |  | -28 | -30 |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:00 | BRL | IBC-Br Economic Activity (Dec) |  | -0.45% | 0.70% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 219.50K |
 | 13:30 | USD | Philly Fed Business Conditions (Feb) |  |  | 25.5 |
@@ -35,7 +34,7 @@
 | 15:00 | USD | Pending Home Sales Index (Jan) |  |  | 71.8 |
 | 15:00 | EUR | Consumer Confidence (Feb) |  | -12.0 | -12.4 |
 | 15:30 | USD | Fed Goolsbee Speaks |  |  |  |
-| 15:30 | USD | Natural Gas Storage |  |  | -249B |
+| 15:30 | USD | Natural Gas Storage |  | -148B | -249B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.630% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 3.630% |
 | 17:00 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.029M |
@@ -50,8 +49,8 @@
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.958T |
 | 21:45 | NZD | Exports (Jan) |  |  | 7.65B |
 | 21:45 | NZD | Imports (Jan) |  |  | 7.60B |
-| 21:45 | NZD | Trade Balance (YoY) (Jan) |  |  | -2,200M |
 | 21:45 | NZD | Trade Balance (MoM) (Jan) |  | -745M | 52M |
+| 21:45 | NZD | Trade Balance (YoY) (Jan) |  |  | -2,200M |
 | 22:00 | AUD | Manufacturing & Services PMI (Feb) |  |  | 55.70 |
 | 22:00 | AUD | Judo Bank Manufacturing PMI (Feb) |  |  | 52.3 |
 | 22:00 | AUD | Judo Bank Services PMI (Feb) |  |  | 56.3 |

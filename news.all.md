@@ -26,14 +26,13 @@
 | 10:00 | EUR | Low | Construction Output (MoM) (Dec) |  |  | -1.06% |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Feb) |  | -28 | -30 |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 11:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 12:00 | BRL | Low | IBC-Br Economic Activity (Dec) |  | -0.45% | 0.70% |
 | 13:20 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,862K |
 | 13:30 | USD | Moderate | Exports (Dec) |  |  | 292.10B |
 | 13:30 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 13:30 | USD | Moderate | Goods Trade Balance (Dec) |  | -86.00B | -84.72B |
+| 13:30 | USD | Moderate | Goods Trade Balance (Dec) |  | -86.00B | -85.50B |
 | 13:30 | USD | Moderate | Imports (Dec) |  |  | 348.90B |
 | 13:30 | USD | High | Initial Jobless Claims |  | 223K | 227K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 219.50K |
@@ -55,14 +54,14 @@
 | 15:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 3.6% | 3.6% |
 | 15:00 | USD | Moderate | Pending Home Sales (MoM) (Jan) |  | 1.4% | -9.3% |
 | 15:00 | USD | Low | Pending Home Sales Index (Jan) |  |  | 71.8 |
-| 15:00 | USD | Moderate | US Leading Index (MoM) (Dec) |  |  | -0.3% |
+| 15:00 | USD | Moderate | US Leading Index (MoM) (Dec) |  | -0.2% | -0.3% |
 | 15:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 15:00 | EUR | Low | Consumer Confidence (Feb) |  | -12.0 | -12.4 |
 | 15:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 15:30 | USD | Low | Natural Gas Storage |  |  | -249B |
+| 15:30 | USD | Low | Natural Gas Storage |  | -148B | -249B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.630% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.630% |
-| 17:00 | USD | High | Crude Oil Inventories |  | 2.300M | 8.530M |
+| 17:00 | USD | High | Crude Oil Inventories |  | 1.700M | 8.530M |
 | 17:00 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.029M |
 | 17:00 | USD | Low | Crude Oil Imports |  |  | 0.912M |
 | 17:00 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 1.071M |
@@ -78,8 +77,8 @@
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.958T |
 | 21:45 | NZD | Low | Exports (Jan) |  |  | 7.65B |
 | 21:45 | NZD | Low | Imports (Jan) |  |  | 7.60B |
-| 21:45 | NZD | Low | Trade Balance (YoY) (Jan) |  |  | -2,200M |
 | 21:45 | NZD | Low | Trade Balance (MoM) (Jan) |  | -745M | 52M |
+| 21:45 | NZD | Low | Trade Balance (YoY) (Jan) |  |  | -2,200M |
 | 22:00 | AUD | Low | Manufacturing & Services PMI (Feb) |  |  | 55.70 |
 | 22:00 | AUD | Low | Judo Bank Manufacturing PMI (Feb) |  |  | 52.3 |
 | 22:00 | AUD | Low | Judo Bank Services PMI (Feb) |  |  | 56.3 |

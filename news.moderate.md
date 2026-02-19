@@ -12,7 +12,7 @@
 | 13:30 | USD | Continuing Jobless Claims |  |  | 1,862K |
 | 13:30 | USD | Exports (Dec) |  |  | 292.10B |
 | 13:30 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 13:30 | USD | Goods Trade Balance (Dec) |  | -86.00B | -84.72B |
+| 13:30 | USD | Goods Trade Balance (Dec) |  | -86.00B | -85.50B |
 | 13:30 | USD | Imports (Dec) |  |  | 348.90B |
 | 13:30 | USD | Philly Fed Employment (Feb) |  |  | 9.7 |
 | 13:30 | USD | Retail Inventories Ex Auto (Dec) |  |  | 0.0% |
@@ -22,7 +22,7 @@
 | 14:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
 | 15:00 | USD | Atlanta Fed GDPNow (Q4) |  | 3.6% | 3.6% |
 | 15:00 | USD | Pending Home Sales (MoM) (Jan) |  | 1.4% | -9.3% |
-| 15:00 | USD | US Leading Index (MoM) (Dec) |  |  | -0.3% |
+| 15:00 | USD | US Leading Index (MoM) (Dec) |  | -0.2% | -0.3% |
 | 15:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
 | 17:00 | USD | Cushing Crude Oil Inventories |  |  | 1.071M |
 | 18:00 | USD | 30-Year TIPS Auction |  |  | 2.650% |
