@@ -16,16 +16,16 @@
 | 07:30 | IDR | Low | Deposit Facility Rate (Feb) | 3.75% | 3.75% | 3.75% |
 | 07:30 | IDR | Low | Lending Facility Rate (Feb) | 5.50% | 5.50% | 5.50% |
 | 07:30 | IDR | Low | Loans (YoY) (Jan) | 9.96% |  | 9.69% |
-| 09:00 | EUR | Low | Spanish Trade Balance (Dec) |  |  | -5.68B |
 | 09:00 | EUR | Low | Current Account (Dec) | 14.6B | 9.8B | 8.9B |
 | 09:00 | EUR | Low | Current Account n.s.a. (Dec) | 34.6B |  | 12.9B |
 | 09:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
-| 18 min | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.223% |
-| 18 min | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.341% |
-| 18 min | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.512% |
-| 38 min | EUR | Low | Construction Output (MoM) (Dec) |  |  | -1.06% |
-| 11:00 | GBP | Low | CBI Industrial Trends Orders (Feb) |  | -28 | -30 |
-| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction | 3.167% |  | 3.223% |
+| 09:40 | EUR | Low | Spanish 5-Year Bonos Auction | 2.577% |  | 2.512% |
+| 10:00 | EUR | Low | Spanish 3-Year Bonos Auction | 2.273% |  | 2.341% |
+| 10:00 | EUR | Low | Spanish Trade Balance (Dec) | -5.57B |  | -5.68B |
+| 10:00 | EUR | Low | Construction Output (MoM) (Dec) | 0.88% |  | -1.54% |
+| 40 min | GBP | Low | CBI Industrial Trends Orders (Feb) |  | -28 | -30 |
+| 40 min | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 12:00 | BRL | Low | IBC-Br Economic Activity (Dec) |  | -0.45% | 0.70% |
 | 13:20 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |

@@ -12,15 +12,15 @@
 | 07:30 | IDR | Deposit Facility Rate (Feb) | 3.75% | 3.75% | 3.75% |
 | 07:30 | IDR | Lending Facility Rate (Feb) | 5.50% | 5.50% | 5.50% |
 | 07:30 | IDR | Loans (YoY) (Jan) | 9.96% |  | 9.69% |
-| 09:00 | EUR | Spanish Trade Balance (Dec) |  |  | -5.68B |
 | 09:00 | EUR | Current Account (Dec) | 14.6B | 9.8B | 8.9B |
 | 09:00 | EUR | Current Account n.s.a. (Dec) | 34.6B |  | 12.9B |
-| 18 min | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.223% |
-| 18 min | EUR | Spanish 3-Year Bonos Auction |  |  | 2.341% |
-| 18 min | EUR | Spanish 5-Year Bonos Auction |  |  | 2.512% |
-| 38 min | EUR | Construction Output (MoM) (Dec) |  |  | -1.06% |
-| 11:00 | GBP | CBI Industrial Trends Orders (Feb) |  | -28 | -30 |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 09:40 | EUR | Spanish 10-Year Obligacion Auction | 3.167% |  | 3.223% |
+| 09:40 | EUR | Spanish 5-Year Bonos Auction | 2.577% |  | 2.512% |
+| 10:00 | EUR | Spanish 3-Year Bonos Auction | 2.273% |  | 2.341% |
+| 10:00 | EUR | Spanish Trade Balance (Dec) | -5.57B |  | -5.68B |
+| 10:00 | EUR | Construction Output (MoM) (Dec) | 0.88% |  | -1.54% |
+| 40 min | GBP | CBI Industrial Trends Orders (Feb) |  | -28 | -30 |
+| 40 min | EUR | German Buba Monthly Report |  |  |  |
 | 12:00 | BRL | IBC-Br Economic Activity (Dec) |  | -0.45% | 0.70% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 219.50K |
 | 13:30 | USD | Philly Fed Business Conditions (Feb) |  |  | 25.5 |
