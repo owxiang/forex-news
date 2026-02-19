@@ -24,8 +24,8 @@
 | 10:00 | EUR | Low | Spanish 3-Year Bonos Auction | 2.273% |  | 2.341% |
 | 10:00 | EUR | Low | Spanish Trade Balance (Dec) | -5.57B |  | -5.68B |
 | 10:00 | EUR | Low | Construction Output (MoM) (Dec) | 0.88% |  | -1.54% |
-| 40 min | GBP | Low | CBI Industrial Trends Orders (Feb) |  | -28 | -30 |
-| 40 min | EUR | Low | German Buba Monthly Report |  |  |  |
+| 11:00 | GBP | Low | CBI Industrial Trends Orders (Feb) | -28 | -28 | -30 |
+| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 12:00 | BRL | Low | IBC-Br Economic Activity (Dec) |  | -0.45% | 0.70% |
 | 13:20 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |

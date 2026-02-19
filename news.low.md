@@ -19,8 +19,8 @@
 | 10:00 | EUR | Spanish 3-Year Bonos Auction | 2.273% |  | 2.341% |
 | 10:00 | EUR | Spanish Trade Balance (Dec) | -5.57B |  | -5.68B |
 | 10:00 | EUR | Construction Output (MoM) (Dec) | 0.88% |  | -1.54% |
-| 40 min | GBP | CBI Industrial Trends Orders (Feb) |  | -28 | -30 |
-| 40 min | EUR | German Buba Monthly Report |  |  |  |
+| 11:00 | GBP | CBI Industrial Trends Orders (Feb) | -28 | -28 | -30 |
+| 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 12:00 | BRL | IBC-Br Economic Activity (Dec) |  | -0.45% | 0.70% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 219.50K |
 | 13:30 | USD | Philly Fed Business Conditions (Feb) |  |  | 25.5 |
