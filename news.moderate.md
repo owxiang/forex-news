@@ -8,18 +8,18 @@
 | 07:30 | IDR | Interest Rate Decision | 4.75% | 4.75% | 4.75% |
 | 09:00 | EUR | ECB Economic Bulletin |  |  |  |
 | 11:30 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 59 min | USD | FOMC Member Bostic Speaks |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims |  | 1,860K | 1,862K |
-| 13:30 | USD | Exports (Dec) |  |  | 292.10B |
+| 13:20 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 13:30 | USD | Continuing Jobless Claims | 1,869K | 1,860K | 1,852K |
+| 13:30 | USD | Exports (Dec) | 287.30B |  | 292.30B |
 | 13:30 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 13:30 | USD | Goods Trade Balance (Dec) |  | -86.00B | -86.04B |
-| 13:30 | USD | Imports (Dec) |  |  | 348.90B |
-| 13:30 | USD | Philly Fed Employment (Feb) |  |  | 9.7 |
-| 13:30 | USD | Retail Inventories Ex Auto (Dec) |  |  | 0.2% |
-| 13:30 | USD | Trade Balance (Dec) |  | 55.50B | -56.80B |
-| 13:30 | CAD | New Housing Price Index (MoM) (Jan) |  | 0.1% | -0.2% |
-| 13:30 | CAD | Trade Balance (Dec) |  | -2.10B | -2.20B |
-| 14:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
+| 13:30 | USD | Goods Trade Balance (Dec) | -98.50B | -86.00B | -82.78B |
+| 13:30 | USD | Imports (Dec) | 357.60B |  | 345.30B |
+| 13:30 | USD | Philly Fed Employment (Feb) | -1.3 |  | 9.7 |
+| 13:30 | USD | Retail Inventories Ex Auto (Dec) | 0.2% |  | -0.2% |
+| 13:30 | USD | Trade Balance (Dec) | -70.30B | 55.50B | -53.00B |
+| 13:30 | CAD | New Housing Price Index (MoM) (Jan) | -0.4% | 0.1% | -0.2% |
+| 13:30 | CAD | Trade Balance (Dec) | -1.31B | -2.10B | -2.59B |
+| 25 min | USD | FOMC Member Kashkari Speaks |  |  |  |
 | 15:00 | USD | Atlanta Fed GDPNow (Q4) |  | 3.6% | 3.6% |
 | 15:00 | USD | Pending Home Sales (MoM) (Jan) |  | 1.4% | -9.3% |
 | 15:00 | USD | US Leading Index (MoM) (Dec) |  | -0.2% | -0.3% |

@@ -28,28 +28,28 @@
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 12:00 | BRL | Low | IBC-Br Economic Activity (Dec) | -0.20% | -0.50% | 0.70% |
-| 59 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,860K | 1,862K |
-| 13:30 | USD | Moderate | Exports (Dec) |  |  | 292.10B |
+| 13:20 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,869K | 1,860K | 1,852K |
+| 13:30 | USD | Moderate | Exports (Dec) | 287.30B |  | 292.30B |
 | 13:30 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 13:30 | USD | Moderate | Goods Trade Balance (Dec) |  | -86.00B | -86.04B |
-| 13:30 | USD | Moderate | Imports (Dec) |  |  | 348.90B |
-| 13:30 | USD | High | Initial Jobless Claims |  | 223K | 227K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 219.50K |
-| 13:30 | USD | High | Philadelphia Fed Manufacturing Index (Feb) |  | 7.5 | 12.6 |
-| 13:30 | USD | Low | Philly Fed Business Conditions (Feb) |  |  | 25.5 |
-| 13:30 | USD | Low | Philly Fed CAPEX Index (Feb) |  |  | 30.30 |
-| 13:30 | USD | Moderate | Philly Fed Employment (Feb) |  |  | 9.7 |
-| 13:30 | USD | Low | Philly Fed New Orders (Feb) |  |  | 14.4 |
-| 13:30 | USD | Low | Philly Fed Prices Paid (Feb) |  |  | 46.90 |
-| 13:30 | USD | Moderate | Retail Inventories Ex Auto (Dec) |  |  | 0.2% |
-| 13:30 | USD | Moderate | Trade Balance (Dec) |  | 55.50B | -56.80B |
-| 13:30 | USD | Low | Wholesale Inventories (MoM) (Dec) |  | 0.2% | 0.2% |
-| 13:30 | CAD | Low | Exports (Dec) |  |  | 65.94B |
-| 13:30 | CAD | Low | Imports (Dec) |  |  | 66.14B |
-| 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Jan) |  | 0.1% | -0.2% |
-| 13:30 | CAD | Moderate | Trade Balance (Dec) |  | -2.10B | -2.20B |
-| 14:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
+| 13:30 | USD | Moderate | Goods Trade Balance (Dec) | -98.50B | -86.00B | -82.78B |
+| 13:30 | USD | Moderate | Imports (Dec) | 357.60B |  | 345.30B |
+| 13:30 | USD | High | Initial Jobless Claims | 206K | 223K | 229K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 219.00K |  | 220.00K |
+| 13:30 | USD | High | Philadelphia Fed Manufacturing Index (Feb) | 16.3 | 7.5 | 12.6 |
+| 13:30 | USD | Low | Philly Fed Business Conditions (Feb) | 42.8 |  | 25.5 |
+| 13:30 | USD | Low | Philly Fed CAPEX Index (Feb) | 14.40 |  | 30.30 |
+| 13:30 | USD | Moderate | Philly Fed Employment (Feb) | -1.3 |  | 9.7 |
+| 13:30 | USD | Low | Philly Fed New Orders (Feb) | 11.7 |  | 14.4 |
+| 13:30 | USD | Low | Philly Fed Prices Paid (Feb) | 38.90 |  | 46.90 |
+| 13:30 | USD | Moderate | Retail Inventories Ex Auto (Dec) | 0.2% |  | -0.2% |
+| 13:30 | USD | Moderate | Trade Balance (Dec) | -70.30B | 55.50B | -53.00B |
+| 13:30 | USD | Low | Wholesale Inventories (MoM) (Dec) | 0.2% | 0.2% | 0.2% |
+| 13:30 | CAD | Low | Exports (Dec) | 65.63B |  | 63.95B |
+| 13:30 | CAD | Low | Imports (Dec) | 66.93B |  | 66.53B |
+| 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Jan) | -0.4% | 0.1% | -0.2% |
+| 13:30 | CAD | Moderate | Trade Balance (Dec) | -1.31B | -2.10B | -2.59B |
+| 25 min | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 15:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 3.6% | 3.6% |
 | 15:00 | USD | Moderate | Pending Home Sales (MoM) (Jan) |  | 1.4% | -9.3% |
 | 15:00 | USD | Low | Pending Home Sales Index (Jan) |  |  | 71.8 |
