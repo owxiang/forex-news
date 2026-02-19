@@ -10,7 +10,7 @@
 | 00:30 | AUD | Low | Participation Rate (Jan) | 66.7% | 66.8% | 68.5% |
 | 00:30 | AUD | Low | Reserve Assets Total (Jan) | 112.5B |  | 113.9B |
 | 00:30 | AUD | Moderate | Unemployment Rate (Jan) | 4.1% | 4.2% | 4.1% |
-| 07:00 | CHF | Low | Trade Balance (Jan) |  |  | 1.036B |
+| 31 min | CHF | Low | Trade Balance (Jan) |  |  | 1.036B |
 | 07:30 | CHF | Low | Industrial Production (YoY) (Q4) |  |  | 2.40% |
 | 07:30 | IDR | Moderate | Interest Rate Decision |  | 4.75% | 4.75% |
 | 07:30 | IDR | Low | Deposit Facility Rate (Feb) |  | 3.75% | 3.75% |
