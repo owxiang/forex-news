@@ -23,7 +23,7 @@
 | 15:00 | USD | Pending Home Sales (MoM) (Jan) | -0.8% | 1.4% | -7.4% |
 | 15:00 | USD | US Leading Index (MoM) (Dec) | -0.2% | -0.2% | -0.3% |
 | 15:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
-| 38 min | USD | Atlanta Fed GDPNow (Q4) |  | 3.6% | 3.6% |
+| 16:00 | USD | Atlanta Fed GDPNow (Q4) | 3.0% | 3.6% | 3.6% |
 | 17:00 | USD | Cushing Crude Oil Inventories |  |  | 1.071M |
 | 18:00 | USD | 30-Year TIPS Auction |  |  | 2.650% |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,622B |

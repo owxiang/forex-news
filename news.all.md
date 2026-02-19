@@ -55,9 +55,9 @@
 | 15:00 | USD | Moderate | US Leading Index (MoM) (Dec) | -0.2% | -0.2% | -0.3% |
 | 15:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 15:00 | EUR | Low | Consumer Confidence (Feb) | -12.2 | -12.0 | -12.4 |
-| 8 min | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 8 min | USD | Low | Natural Gas Storage |  | -148B | -249B |
-| 38 min | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 3.6% | 3.6% |
+| 15:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 15:30 | USD | Low | Natural Gas Storage | -144B | -148B | -249B |
+| 16:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 3.0% | 3.6% | 3.6% |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.630% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.630% |
 | 17:00 | USD | High | Crude Oil Inventories |  | 1.700M | 8.530M |
