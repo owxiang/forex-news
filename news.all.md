@@ -81,7 +81,7 @@
 | 22:00 | AUD | Low | Manufacturing & Services PMI (Feb) | 52.00 |  | 55.70 |
 | 22:00 | AUD | Low | Judo Bank Manufacturing PMI (Feb) | 51.5 |  | 52.3 |
 | 22:00 | AUD | Low | Judo Bank Services PMI (Feb) | 52.2 |  | 56.3 |
-| 23:30 | JPY | Low | CPI, n.s.a (MoM) (Jan) |  |  | -0.2% |
-| 23:30 | JPY | Moderate | National Core CPI (YoY) (Jan) |  | 2.0% | 2.4% |
-| 23:30 | JPY | Low | National CPI (YoY) (Jan) |  |  | 2.1% |
-| 23:30 | JPY | Moderate | National CPI (MoM) (Jan) |  |  | -0.1% |
+| 17 min | JPY | Low | CPI, n.s.a (MoM) (Jan) |  |  | -0.2% |
+| 17 min | JPY | Moderate | National Core CPI (YoY) (Jan) |  | 2.0% | 2.4% |
+| 17 min | JPY | Low | National CPI (YoY) (Jan) |  |  | 2.1% |
+| 17 min | JPY | Moderate | National CPI (MoM) (Jan) |  |  | -0.1% |
