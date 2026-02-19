@@ -5,8 +5,8 @@
 | 00:00 | KRW | Exports (YoY) (Jan) | 33.8% | 33.9% | 13.3% |
 | 00:00 | KRW | Imports (YoY) (Jan) | 11.6% | 11.7% | 4.6% |
 | 00:00 | KRW | Trade Balance (Jan) | 8.72B | 8.74B | 12.17B |
-| 00:30 | AUD | Participation Rate (Jan) | 66.7% | 66.8% | 66.7% |
-| 00:30 | AUD | Reserve Assets Total (Jan) | 112,539.0B |  | 113.9B |
+| 00:30 | AUD | Participation Rate (Jan) | 66.7% | 66.8% | 68.5% |
+| 00:30 | AUD | Reserve Assets Total (Jan) | 112.5B |  | 113.9B |
 | 07:00 | CHF | Trade Balance (Jan) |  |  | 1.036B |
 | 07:30 | CHF | Industrial Production (YoY) (Q4) |  |  | 2.40% |
 | 07:30 | IDR | Deposit Facility Rate (Feb) |  | 3.75% | 3.75% |

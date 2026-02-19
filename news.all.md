@@ -6,9 +6,9 @@
 | 00:00 | KRW | Low | Imports (YoY) (Jan) | 11.6% | 11.7% | 4.6% |
 | 00:00 | KRW | Low | Trade Balance (Jan) | 8.72B | 8.74B | 12.17B |
 | 00:30 | AUD | Moderate | Employment Change (Jan) | 17.8K | 20.0K | 68.5K |
-| 00:30 | AUD | Moderate | Full Employment Change (Jan) | 50.5K |  | 54.8K |
-| 00:30 | AUD | Low | Participation Rate (Jan) | 66.7% | 66.8% | 66.7% |
-| 00:30 | AUD | Low | Reserve Assets Total (Jan) | 112,539.0B |  | 113.9B |
+| 00:30 | AUD | Moderate | Full Employment Change (Jan) | 50.5K |  | 56.9K |
+| 00:30 | AUD | Low | Participation Rate (Jan) | 66.7% | 66.8% | 68.5% |
+| 00:30 | AUD | Low | Reserve Assets Total (Jan) | 112.5B |  | 113.9B |
 | 00:30 | AUD | Moderate | Unemployment Rate (Jan) | 4.1% | 4.2% | 4.1% |
 | 07:00 | CHF | Low | Trade Balance (Jan) |  |  | 1.036B |
 | 07:30 | CHF | Low | Industrial Production (YoY) (Q4) |  |  | 2.40% |
