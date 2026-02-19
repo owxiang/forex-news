@@ -30,8 +30,8 @@
 | 13:30 | USD | Wholesale Inventories (MoM) (Dec) | 0.2% | 0.2% | 0.2% |
 | 13:30 | CAD | Exports (Dec) | 65.63B |  | 63.95B |
 | 13:30 | CAD | Imports (Dec) | 66.93B |  | 66.53B |
-| 15:00 | USD | Pending Home Sales Index (Jan) |  |  | 71.8 |
-| 15:00 | EUR | Consumer Confidence (Feb) |  | -12.0 | -12.4 |
+| 35 min | USD | Pending Home Sales Index (Jan) |  |  | 71.8 |
+| 35 min | EUR | Consumer Confidence (Feb) |  | -12.0 | -12.4 |
 | 15:30 | USD | Fed Goolsbee Speaks |  |  |  |
 | 15:30 | USD | Natural Gas Storage |  | -148B | -249B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.630% |
