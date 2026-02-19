@@ -70,8 +70,8 @@
 | 17:00 | USD | Low | Heating Oil Stockpiles | 0.362M |  | 0.202M |
 | 17:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 1.6% |  | -1.1% |
 | 17:00 | USD | Low | Gasoline Inventories | -3.213M | -0.200M | 1.160M |
-| 6 min | BRL | Low | Foreign Exchange Flows |  |  | -0.294B |
-| 36 min | USD | Moderate | 30-Year TIPS Auction |  |  | 2.650% |
+| 17:30 | BRL | Low | Foreign Exchange Flows | 1.783B |  | -0.294B |
+| 18:00 | USD | Moderate | 30-Year TIPS Auction | 2.473% |  | 2.650% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,622B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.958T |
 | 21:45 | NZD | Low | Exports (Jan) |  |  | 7.65B |
