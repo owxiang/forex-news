@@ -16,9 +16,9 @@
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Feb) | 50.8 | 49.9 | 49.5 |
 | 09:00 | EUR | HCOB Eurozone Composite PMI (Feb) | 51.9 | 51.5 | 51.3 |
 | 09:00 | EUR | HCOB Eurozone Services PMI (Feb) | 51.8 | 51.9 | 51.6 |
-| 11 min | GBP | S&P Global Composite PMI (Feb) |  | 53.3 | 53.7 |
-| 11 min | GBP | S&P Global Manufacturing PMI (Feb) |  | 51.5 | 51.8 |
-| 11 min | GBP | S&P Global Services PMI (Feb) |  | 53.5 | 54.0 |
+| 09:30 | GBP | S&P Global Composite PMI (Feb) | 53.9 | 53.3 | 53.7 |
+| 09:30 | GBP | S&P Global Manufacturing PMI (Feb) | 52.0 | 51.5 | 51.8 |
+| 09:30 | GBP | S&P Global Services PMI (Feb) | 53.9 | 53.5 | 54.0 |
 | 11:30 | INR | RBI MPC Meeting Minutes |  |  |  |
 | 13:30 | USD | Core PCE Prices (Q4) |  | 2.60% | 2.90% |
 | 13:30 | USD | GDP Price Index (QoQ) (Q4) |  | 2.8% | 3.7% |
