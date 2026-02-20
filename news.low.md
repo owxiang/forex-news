@@ -32,7 +32,7 @@
 | 15:00 | USD | Dallas Fed PCE (Dec) | 2.20% |  | 1.50% |
 | 15:00 | USD | Michigan Current Conditions (Feb) | 56.6 | 58.3 | 55.4 |
 | 15:30 | CAD | BoC Senior Loan Officer Survey (Q4) | 2.8 |  | 0.7 |
-| 57 min | USD | Fed Logan Speaks |  |  |  |
+| 18:15 | USD | Fed Logan Speaks |  |  |  |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -3.2K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 45.9K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -18.3K |

@@ -77,9 +77,9 @@
 | 15:00 | USD | High | New Home Sales (Dec) | 745K | 732K | 656K |
 | 15:30 | CAD | Low | BoC Senior Loan Officer Survey (Q4) | 2.8 |  | 0.7 |
 | 16:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 3.1% | 3.0% | 3.0% |
-| 42 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 409 |
-| 42 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 551 |
-| 57 min | USD | Low | Fed Logan Speaks |  |  |  |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 409 |  | 409 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 551 |  | 551 |
+| 18:15 | USD | Low | Fed Logan Speaks |  |  |  |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -25.8K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -3.2K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 45.9K |

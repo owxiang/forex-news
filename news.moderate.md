@@ -40,8 +40,8 @@
 | 15:00 | USD | Michigan Consumer Sentiment (Feb) | 56.6 | 57.3 | 56.4 |
 | 15:00 | USD | New Home Sales (MoM) (Dec) | -1.7% |  | 15.5% |
 | 16:00 | USD | Atlanta Fed GDPNow (Q1) | 3.1% | 3.0% | 3.0% |
-| 42 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 409 |
-| 42 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 551 |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 409 |  | 409 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count | 551 |  | 551 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -25.8K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 117.8K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 160.0K |
