@@ -4,11 +4,11 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 00:30 | JPY | S&P Global Services PMI (Feb) | 53.8 |  | 53.7 |
-| 07:00 | GBP | Core Retail Sales (MoM) (Jan) |  | 0.2% | 0.3% |
-| 07:00 | GBP | Core Retail Sales (YoY) (Jan) |  | 3.6% | 3.1% |
-| 07:00 | GBP | Retail Sales (MoM) (Jan) |  | 0.2% | 0.4% |
-| 07:00 | GBP | Retail Sales (YoY) (Jan) |  | 2.8% | 2.5% |
-| 07:00 | EUR | German PPI (MoM) (Jan) |  | 0.3% | -0.2% |
+| 34 min | GBP | Core Retail Sales (MoM) (Jan) |  | 0.2% | 0.3% |
+| 34 min | GBP | Core Retail Sales (YoY) (Jan) |  | 3.6% | 3.1% |
+| 34 min | GBP | Retail Sales (MoM) (Jan) |  | 0.2% | 0.4% |
+| 34 min | GBP | Retail Sales (YoY) (Jan) |  | 2.8% | 2.5% |
+| 34 min | EUR | German PPI (MoM) (Jan) |  | 0.3% | -0.2% |
 | 08:15 | EUR | HCOB France Manufacturing PMI (Feb) |  | 50.9 | 51.2 |
 | 08:15 | EUR | HCOB France Services PMI (Feb) |  | 49.1 | 48.4 |
 | 08:30 | EUR | HCOB Germany Manufacturing PMI (Feb) |  | 49.6 | 49.1 |

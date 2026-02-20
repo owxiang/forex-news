@@ -11,14 +11,14 @@
 | 05:00 | INR | Low | HSBC India Manufacturing PMI (Feb) | 57.5 |  | 55.4 |
 | 05:00 | INR | Low | HSBC India Services PMI (Feb) | 58.4 |  | 58.5 |
 | 05:00 | INR | Low | Manufacturing & Services PMI (Feb) | 59.30 |  | 58.40 |
-| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Jan) |  | 0.2% | 0.3% |
-| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Jan) |  | 3.6% | 3.1% |
-| 07:00 | GBP | Low | Public Sector Net Borrowing |  | -24.00B | -11.58B |
-| 07:00 | GBP | Low | Public Sector Net Cash Requirement (Jan) |  |  | 16.908B |
-| 07:00 | GBP | Moderate | Retail Sales (MoM) (Jan) |  | 0.2% | 0.4% |
-| 07:00 | GBP | Moderate | Retail Sales (YoY) (Jan) |  | 2.8% | 2.5% |
-| 07:00 | EUR | Low | German PPI (YoY) (Jan) |  | -2.1% | -2.5% |
-| 07:00 | EUR | Moderate | German PPI (MoM) (Jan) |  | 0.3% | -0.2% |
+| 34 min | GBP | Moderate | Core Retail Sales (MoM) (Jan) |  | 0.2% | 0.3% |
+| 34 min | GBP | Moderate | Core Retail Sales (YoY) (Jan) |  | 3.6% | 3.1% |
+| 34 min | GBP | Low | Public Sector Net Borrowing |  | -24.00B | -11.58B |
+| 34 min | GBP | Low | Public Sector Net Cash Requirement (Jan) |  |  | 16.908B |
+| 34 min | GBP | Moderate | Retail Sales (MoM) (Jan) |  | 0.2% | 0.4% |
+| 34 min | GBP | Moderate | Retail Sales (YoY) (Jan) |  | 2.8% | 2.5% |
+| 34 min | EUR | Low | German PPI (YoY) (Jan) |  | -2.1% | -2.5% |
+| 34 min | EUR | Moderate | German PPI (MoM) (Jan) |  | 0.3% | -0.2% |
 | 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Feb) |  | 50.9 | 51.2 |
 | 08:15 | EUR | Low | HCOB France Composite PMI (Feb) |  | 49.7 | 49.1 |
 | 08:15 | EUR | Moderate | HCOB France Services PMI (Feb) |  | 49.1 | 48.4 |
