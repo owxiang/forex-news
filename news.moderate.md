@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 00:30 | JPY | S&P Global Services PMI (Feb) | 53.8 |  | 53.7 |
-| 07:00 | GBP | Core Retail Sales (MoM) (Jan) | 2.0% | 0.2% | 0.3% |
 | 07:00 | GBP | Core Retail Sales (YoY) (Jan) | 5.5% | 3.6% | 2.5% |
+| 07:00 | GBP | Core Retail Sales (MoM) (Jan) | 2.0% | 0.2% | 0.3% |
 | 07:00 | GBP | Retail Sales (MoM) (Jan) | 1.8% | 0.2% | 0.4% |
 | 07:00 | GBP | Retail Sales (YoY) (Jan) | 4.5% | 2.8% | 1.9% |
 | 07:00 | EUR | German PPI (MoM) (Jan) | -0.6% | 0.3% | -0.2% |
@@ -19,7 +19,7 @@
 | 09:30 | GBP | S&P Global Composite PMI (Feb) | 53.9 | 53.3 | 53.7 |
 | 09:30 | GBP | S&P Global Manufacturing PMI (Feb) | 52.0 | 51.5 | 51.8 |
 | 09:30 | GBP | S&P Global Services PMI (Feb) | 53.9 | 53.5 | 54.0 |
-| 14 min | INR | RBI MPC Meeting Minutes |  |  |  |
+| 11:30 | INR | RBI MPC Meeting Minutes |  |  |  |
 | 13:30 | USD | Core PCE Prices (Q4) |  | 2.60% | 2.90% |
 | 13:30 | USD | GDP Price Index (QoQ) (Q4) |  | 2.8% | 3.7% |
 | 13:30 | USD | PCE Price index (YoY) (Dec) |  | 2.8% | 2.8% |

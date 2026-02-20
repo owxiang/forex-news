@@ -15,11 +15,10 @@
 | 08:15 | EUR | HCOB France Composite PMI (Feb) | 49.9 | 49.7 | 49.1 |
 | 08:30 | EUR | HCOB Germany Composite PMI (Feb) | 53.1 | 52.3 | 52.1 |
 | 08:30 | HKD | Unemployment Rate (Jan) | 3.9% |  | 3.8% |
-| 14 min | INR | Bank Loan Growth |  |  | 13.1% |
-| 14 min | INR | Deposit Growth |  |  | 10.6% |
-| 14 min | INR | FX Reserves, USD |  |  | 717.06B |
-| 44 min | MXN | Retail Sales (YoY) (Dec) |  |  | 4.4% |
-| 44 min | MXN | Retail Sales (MoM) (Dec) |  |  | 1.0% |
+| 11:30 | INR | FX Reserves, USD | 725.73B |  | 717.06B |
+| 11:30 | INR | Infrastructure Output (YoY) (Jan) | 4.0% |  | 4.7% |
+| 12:00 | MXN | Retail Sales (YoY) (Dec) | 4.3% |  | 4.4% |
+| 12:00 | MXN | Retail Sales (MoM) (Dec) | -0.1% |  | 1.0% |
 | 13:30 | USD | GDP Sales (Q4) |  |  | 4.5% |
 | 13:30 | USD | PCE Prices (Q4) |  | 2.8% | 2.8% |
 | 13:30 | USD | Personal Income (MoM) (Dec) |  | 0.3% | 0.3% |
