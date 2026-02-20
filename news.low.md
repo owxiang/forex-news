@@ -33,14 +33,14 @@
 | 15:00 | USD | Michigan Current Conditions (Feb) | 56.6 | 58.3 | 55.4 |
 | 15:30 | CAD | BoC Senior Loan Officer Survey (Q4) | 2.8 |  | 0.7 |
 | 18:15 | USD | Fed Logan Speaks |  |  |  |
-| 19 min | USD | CFTC Aluminium speculative net positions |  |  | -3.2K |
-| 19 min | USD | CFTC Copper speculative net positions |  |  | 45.9K |
-| 19 min | USD | CFTC Corn speculative net positions |  |  | -18.3K |
-| 19 min | USD | CFTC Natural Gas speculative net positions |  |  | -171.9K |
-| 19 min | USD | CFTC Silver speculative net positions |  |  | 23.0K |
-| 19 min | USD | CFTC Soybeans speculative net positions |  |  | 146.3K |
-| 19 min | USD | CFTC Wheat speculative net positions |  |  | -71.3K |
-| 19 min | CAD | CFTC CAD speculative net positions |  |  | 13.3K |
-| 19 min | MXN | CFTC MXN speculative net positions |  |  | 85.0K |
-| 19 min | CHF | CFTC CHF speculative net positions |  |  | -42.3K |
-| 19 min | NZD | CFTC NZD speculative net positions |  |  | -34.9K |
+| 20:30 | USD | CFTC Aluminium speculative net positions | -2.7K |  | -3.2K |
+| 20:30 | USD | CFTC Copper speculative net positions | 59.3K |  | 45.9K |
+| 20:30 | USD | CFTC Corn speculative net positions | -7.8K |  | -18.3K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions | -185.8K |  | -171.9K |
+| 20:30 | USD | CFTC Silver speculative net positions | 24.0K |  | 23.0K |
+| 20:30 | USD | CFTC Soybeans speculative net positions | 191.8K |  | 146.3K |
+| 20:30 | USD | CFTC Wheat speculative net positions | -55.1K |  | -71.3K |
+| 20:30 | CAD | CFTC CAD speculative net positions | 25.8K |  | 13.3K |
+| 20:30 | MXN | CFTC MXN speculative net positions | 84.1K |  | 85.0K |
+| 20:30 | CHF | CFTC CHF speculative net positions | -40.9K |  | -42.3K |
+| 20:30 | NZD | CFTC NZD speculative net positions | -35.0K |  | -34.9K |
