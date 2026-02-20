@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 00:30 | JPY | S&P Global Services PMI (Feb) | 53.8 |  | 53.7 |
-| 04:00 | CNY | China Loan Prime Rate 5Y (Feb) |  |  | 3.50% |
+| 54 min | CNY | China Loan Prime Rate 5Y (Feb) |  |  | 3.50% |
 | 07:00 | GBP | Core Retail Sales (MoM) (Jan) |  | 0.2% | 0.3% |
 | 07:00 | GBP | Core Retail Sales (YoY) (Jan) |  | 3.6% | 3.1% |
 | 07:00 | GBP | Retail Sales (MoM) (Jan) |  | 0.2% | 0.4% |
