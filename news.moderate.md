@@ -1,31 +1,51 @@
-## 19 February 2026 - Moderate Impact Forex News
+## 20 February 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Employment Change (Jan) | 17.8K | 20.0K | 68.5K |
-| 00:30 | AUD | Full Employment Change (Jan) | 50.5K |  | 56.9K |
-| 00:30 | AUD | Unemployment Rate (Jan) | 4.1% | 4.2% | 4.1% |
-| 07:30 | IDR | Interest Rate Decision | 4.75% | 4.75% | 4.75% |
-| 09:00 | EUR | ECB Economic Bulletin |  |  |  |
-| 11:30 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 13:20 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims | 1,869K | 1,860K | 1,852K |
-| 13:30 | USD | Exports (Dec) | 287.30B |  | 292.30B |
-| 13:30 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 13:30 | USD | Goods Trade Balance (Dec) | -98.50B | -86.00B | -82.78B |
-| 13:30 | USD | Imports (Dec) | 357.60B |  | 345.30B |
-| 13:30 | USD | Philly Fed Employment (Feb) | -1.3 |  | 9.7 |
-| 13:30 | USD | Retail Inventories Ex Auto (Dec) | 0.2% |  | -0.2% |
-| 13:30 | USD | Trade Balance (Dec) | -70.30B | 55.50B | -53.00B |
-| 13:30 | CAD | New Housing Price Index (MoM) (Jan) | -0.4% | 0.1% | -0.2% |
-| 13:30 | CAD | Trade Balance (Dec) | -1.31B | -2.10B | -2.59B |
-| 14:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
-| 15:00 | USD | Pending Home Sales (MoM) (Jan) | -0.8% | 1.4% | -7.4% |
-| 15:00 | USD | US Leading Index (MoM) (Dec) | -0.2% | -0.2% | -0.3% |
-| 15:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
-| 16:00 | USD | Atlanta Fed GDPNow (Q4) | 3.0% | 3.6% | 3.6% |
-| 17:00 | USD | Cushing Crude Oil Inventories | -1.095M |  | 1.071M |
-| 18:00 | USD | 30-Year TIPS Auction | 2.473% |  | 2.650% |
-| 21:30 | USD | Fed's Balance Sheet | 6,613B |  | 6,622B |
-| 17 min | JPY | National Core CPI (YoY) (Jan) |  | 2.0% | 2.4% |
-| 17 min | JPY | National CPI (MoM) (Jan) |  |  | -0.1% |
+| 00:00 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 00:30 | JPY | S&P Global Services PMI (Feb) | 53.8 |  | 53.7 |
+| 22 min | CNY | China Loan Prime Rate 5Y (Feb) |  |  | 3.50% |
+| 07:00 | GBP | Core Retail Sales (MoM) (Jan) |  | 0.2% | 0.3% |
+| 07:00 | GBP | Core Retail Sales (YoY) (Jan) |  | 3.6% | 3.1% |
+| 07:00 | GBP | Retail Sales (MoM) (Jan) |  | 0.2% | 0.4% |
+| 07:00 | GBP | Retail Sales (YoY) (Jan) |  | 2.8% | 2.5% |
+| 07:00 | EUR | German PPI (MoM) (Jan) |  | 0.3% | -0.2% |
+| 08:15 | EUR | HCOB France Manufacturing PMI (Feb) |  | 50.9 | 51.2 |
+| 08:15 | EUR | HCOB France Services PMI (Feb) |  | 49.1 | 48.4 |
+| 08:30 | EUR | HCOB Germany Manufacturing PMI (Feb) |  | 49.6 | 49.1 |
+| 08:30 | EUR | HCOB Germany Services PMI (Feb) |  | 52.4 | 52.4 |
+| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Feb) |  | 49.9 | 49.5 |
+| 09:00 | EUR | HCOB Eurozone Composite PMI (Feb) |  | 51.5 | 51.3 |
+| 09:00 | EUR | HCOB Eurozone Services PMI (Feb) |  | 51.9 | 51.6 |
+| 09:30 | GBP | S&P Global Composite PMI (Feb) |  | 53.3 | 53.7 |
+| 09:30 | GBP | S&P Global Manufacturing PMI (Feb) |  | 51.5 | 51.8 |
+| 09:30 | GBP | S&P Global Services PMI (Feb) |  | 53.5 | 54.0 |
+| 11:30 | INR | RBI MPC Meeting Minutes |  |  |  |
+| 13:30 | USD | Core PCE Prices (Q4) |  | 2.60% | 2.90% |
+| 13:30 | USD | GDP Price Index (QoQ) (Q4) |  | 3.2% | 3.7% |
+| 13:30 | USD | PCE Price index (YoY) (Dec) |  | 2.8% | 2.8% |
+| 13:30 | USD | PCE price index (MoM) (Dec) |  | 0.4% | 0.2% |
+| 13:30 | USD | Personal Spending (MoM) (Dec) |  | 0.4% | 0.5% |
+| 13:30 | CAD | Core Retail Sales (MoM) (Dec) |  | -0.1% | 1.7% |
+| 13:30 | CAD | Retail Sales (MoM) (Dec) |  |  | 1.3% |
+| 13:30 | CAD | Retail Sales (MoM) (Dec) |  | -0.5% | 1.3% |
+| 13:30 | CAD | RMPI (MoM) (Jan) |  | 0.7% | 0.5% |
+| 14:45 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 14:45 | USD | S&P Global Composite PMI (Feb) |  |  | 53.0 |
+| 15:00 | USD | Atlanta Fed GDPNow (Q1) |  | 3.0% | 3.0% |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (Feb) |  | 3.5% | 4.0% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (Feb) |  | 3.4% | 3.3% |
+| 15:00 | USD | Michigan Consumer Expectations (Feb) |  | 56.6 | 57.0 |
+| 15:00 | USD | Michigan Consumer Sentiment (Feb) |  | 57.3 | 56.4 |
+| 15:00 | USD | New Home Sales (MoM) (Dec) |  |  | -0.1% |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 409 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 551 |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | -25.8K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 117.8K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 160.0K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 13.4K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -105.1K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | 33.2K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 31.6K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | -19.1K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 180.3K |
