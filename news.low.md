@@ -6,9 +6,9 @@
 | 00:30 | JPY | S&P Global Manufacturing PMI (Feb) | 52.8 | 51.3 | 51.5 |
 | 03:00 | IDR | Balance of Payments (EUR) (Q4) | 6.1B |  | -6.4B |
 | 03:00 | IDR | Current Account % of GDP (Q4) | -0.70% |  | 1.10% |
-| 21 min | INR | HSBC India Manufacturing PMI (Feb) |  |  | 55.4 |
-| 21 min | INR | HSBC India Services PMI (Feb) |  |  | 58.5 |
-| 21 min | INR | Manufacturing & Services PMI (Feb) |  |  | 58.40 |
+| 05:00 | INR | HSBC India Manufacturing PMI (Feb) | 57.5 |  | 55.4 |
+| 05:00 | INR | HSBC India Services PMI (Feb) | 58.4 |  | 58.5 |
+| 05:00 | INR | Manufacturing & Services PMI (Feb) | 59.30 |  | 58.40 |
 | 07:00 | GBP | Public Sector Net Borrowing |  | -24.00B | -11.58B |
 | 07:00 | GBP | Public Sector Net Cash Requirement (Jan) |  |  | 16.908B |
 | 07:00 | EUR | German PPI (YoY) (Jan) |  | -2.1% | -2.5% |
@@ -18,8 +18,8 @@
 | 11:30 | INR | Bank Loan Growth |  |  | 13.1% |
 | 11:30 | INR | Deposit Growth |  |  | 10.6% |
 | 11:30 | INR | FX Reserves, USD |  |  | 717.06B |
-| 12:00 | MXN | Retail Sales (MoM) (Dec) |  |  | 1.0% |
 | 12:00 | MXN | Retail Sales (YoY) (Dec) |  |  | 4.4% |
+| 12:00 | MXN | Retail Sales (MoM) (Dec) |  |  | 1.0% |
 | 13:30 | USD | GDP Sales (Q4) |  |  | 4.5% |
 | 13:30 | USD | PCE Prices (Q4) |  |  | 2.8% |
 | 13:30 | USD | Personal Income (MoM) (Dec) |  | 0.3% | 0.3% |

@@ -21,14 +21,14 @@
 | 09:30 | GBP | S&P Global Services PMI (Feb) |  | 53.5 | 54.0 |
 | 11:30 | INR | RBI MPC Meeting Minutes |  |  |  |
 | 13:30 | USD | Core PCE Prices (Q4) |  | 2.60% | 2.90% |
-| 13:30 | USD | GDP Price Index (QoQ) (Q4) |  | 3.2% | 3.7% |
+| 13:30 | USD | GDP Price Index (QoQ) (Q4) |  | 2.8% | 3.7% |
 | 13:30 | USD | PCE Price index (YoY) (Dec) |  | 2.8% | 2.8% |
-| 13:30 | USD | PCE price index (MoM) (Dec) |  | 0.4% | 0.2% |
+| 13:30 | USD | PCE price index (MoM) (Dec) |  | 0.3% | 0.2% |
 | 13:30 | USD | Personal Spending (MoM) (Dec) |  | 0.4% | 0.5% |
 | 13:30 | CAD | Core Retail Sales (MoM) (Dec) |  | -0.1% | 1.7% |
-| 13:30 | CAD | Retail Sales (MoM) (Dec) |  |  | 1.3% |
 | 13:30 | CAD | Retail Sales (MoM) (Dec) |  | -0.5% | 1.3% |
 | 13:30 | CAD | RMPI (MoM) (Jan) |  | 0.7% | 0.5% |
+| 13:31 | CAD | Retail Sales (MoM) (Jan) |  |  |  |
 | 14:45 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 14:45 | USD | S&P Global Composite PMI (Feb) |  |  | 53.0 |
 | 15:00 | USD | Atlanta Fed GDPNow (Q1) |  | 3.0% | 3.0% |

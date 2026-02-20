@@ -8,9 +8,9 @@
 | 00:30 | JPY | Moderate | S&P Global Services PMI (Feb) | 53.8 |  | 53.7 |
 | 03:00 | IDR | Low | Balance of Payments (EUR) (Q4) | 6.1B |  | -6.4B |
 | 03:00 | IDR | Low | Current Account % of GDP (Q4) | -0.70% |  | 1.10% |
-| 21 min | INR | Low | HSBC India Manufacturing PMI (Feb) |  |  | 55.4 |
-| 21 min | INR | Low | HSBC India Services PMI (Feb) |  |  | 58.5 |
-| 21 min | INR | Low | Manufacturing & Services PMI (Feb) |  |  | 58.40 |
+| 05:00 | INR | Low | HSBC India Manufacturing PMI (Feb) | 57.5 |  | 55.4 |
+| 05:00 | INR | Low | HSBC India Services PMI (Feb) | 58.4 |  | 58.5 |
+| 05:00 | INR | Low | Manufacturing & Services PMI (Feb) | 59.30 |  | 58.40 |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Jan) |  | 0.2% | 0.3% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Jan) |  | 3.6% | 3.1% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing |  | -24.00B | -11.58B |
@@ -36,16 +36,16 @@
 | 11:30 | INR | Low | Deposit Growth |  |  | 10.6% |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 717.06B |
 | 11:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
-| 12:00 | MXN | Low | Retail Sales (MoM) (Dec) |  |  | 1.0% |
 | 12:00 | MXN | Low | Retail Sales (YoY) (Dec) |  |  | 4.4% |
-| 13:30 | USD | High | Core PCE Price Index (MoM) (Dec) |  | 0.3% | 0.2% |
+| 12:00 | MXN | Low | Retail Sales (MoM) (Dec) |  |  | 1.0% |
 | 13:30 | USD | High | Core PCE Price Index (YoY) (Dec) |  | 2.9% | 2.8% |
+| 13:30 | USD | High | Core PCE Price Index (MoM) (Dec) |  | 0.3% | 0.2% |
 | 13:30 | USD | Moderate | Core PCE Prices (Q4) |  | 2.60% | 2.90% |
-| 13:30 | USD | High | GDP (QoQ) (Q4) |  | 3.0% | 4.4% |
-| 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q4) |  | 3.2% | 3.7% |
+| 13:30 | USD | High | GDP (QoQ) (Q4) |  | 2.8% | 4.4% |
+| 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q4) |  | 2.8% | 3.7% |
 | 13:30 | USD | Low | GDP Sales (Q4) |  |  | 4.5% |
 | 13:30 | USD | Moderate | PCE Price index (YoY) (Dec) |  | 2.8% | 2.8% |
-| 13:30 | USD | Moderate | PCE price index (MoM) (Dec) |  | 0.4% | 0.2% |
+| 13:30 | USD | Moderate | PCE price index (MoM) (Dec) |  | 0.3% | 0.2% |
 | 13:30 | USD | Low | PCE Prices (Q4) |  |  | 2.8% |
 | 13:30 | USD | Low | Personal Income (MoM) (Dec) |  | 0.3% | 0.3% |
 | 13:30 | USD | Moderate | Personal Spending (MoM) (Dec) |  | 0.4% | 0.5% |
@@ -54,10 +54,10 @@
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Dec) |  | -0.1% | 1.7% |
 | 13:30 | CAD | Low | IPPI (YoY) (Jan) |  |  | 4.9% |
 | 13:30 | CAD | Low | IPPI (MoM) (Jan) |  | 0.2% | -0.6% |
-| 13:30 | CAD | Moderate | Retail Sales (MoM) (Dec) |  |  | 1.3% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Dec) |  | -0.5% | 1.3% |
-| 13:30 | CAD | Low | RMPI (YoY) (Jan) |  |  | 6.4% |
 | 13:30 | CAD | Moderate | RMPI (MoM) (Jan) |  | 0.7% | 0.5% |
+| 13:30 | CAD | Low | RMPI (YoY) (Jan) |  |  | 6.4% |
+| 13:31 | CAD | Moderate | Retail Sales (MoM) (Jan) |  |  |  |
 | 14:45 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 14:45 | USD | High | S&P Global Manufacturing PMI (Feb) |  | 52.4 | 52.4 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Feb) |  |  | 53.0 |
