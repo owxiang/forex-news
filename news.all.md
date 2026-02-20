@@ -19,16 +19,16 @@
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Jan) | 4.5% | 2.8% | 1.9% |
 | 07:00 | EUR | Low | German PPI (YoY) (Jan) | -3.0% | -2.1% | -2.5% |
 | 07:00 | EUR | Moderate | German PPI (MoM) (Jan) | -0.6% | 0.3% | -0.2% |
-| 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Feb) |  | 50.9 | 51.2 |
-| 08:15 | EUR | Low | HCOB France Composite PMI (Feb) |  | 49.7 | 49.1 |
-| 08:15 | EUR | Moderate | HCOB France Services PMI (Feb) |  | 49.1 | 48.4 |
-| 08:30 | EUR | Low | HCOB Germany Composite PMI (Feb) |  | 52.3 | 52.1 |
-| 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Feb) |  | 49.6 | 49.1 |
-| 08:30 | EUR | Moderate | HCOB Germany Services PMI (Feb) |  | 52.4 | 52.4 |
-| 08:30 | HKD | Low | Unemployment Rate (Jan) |  |  | 3.8% |
-| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Feb) |  | 49.9 | 49.5 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Feb) |  | 51.5 | 51.3 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Feb) |  | 51.9 | 51.6 |
+| 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Feb) | 49.9 | 50.9 | 51.2 |
+| 08:15 | EUR | Low | HCOB France Composite PMI (Feb) | 49.9 | 49.7 | 49.1 |
+| 08:15 | EUR | Moderate | HCOB France Services PMI (Feb) | 49.6 | 49.1 | 48.4 |
+| 11 min | EUR | Low | HCOB Germany Composite PMI (Feb) |  | 52.3 | 52.1 |
+| 11 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Feb) |  | 49.6 | 49.1 |
+| 11 min | EUR | Moderate | HCOB Germany Services PMI (Feb) |  | 52.4 | 52.4 |
+| 11 min | HKD | Low | Unemployment Rate (Jan) |  |  | 3.8% |
+| 41 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Feb) |  | 49.9 | 49.5 |
+| 41 min | EUR | Moderate | HCOB Eurozone Composite PMI (Feb) |  | 51.5 | 51.3 |
+| 41 min | EUR | Moderate | HCOB Eurozone Services PMI (Feb) |  | 51.9 | 51.6 |
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (Feb) |  | 53.3 | 53.7 |
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Feb) |  | 51.5 | 51.8 |
 | 09:30 | GBP | Moderate | S&P Global Services PMI (Feb) |  | 53.5 | 54.0 |
