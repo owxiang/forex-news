@@ -10,7 +10,7 @@
 | 03:00 | IDR | Low | Current Account % of GDP (Q4) | -0.70% |  | 1.10% |
 | 05:00 | INR | Low | HSBC India Manufacturing PMI (Feb) | 57.5 |  | 55.4 |
 | 05:00 | INR | Low | HSBC India Services PMI (Feb) | 58.4 |  | 58.5 |
-| 05:00 | INR | Low | Manufacturing & Services PMI (Feb) | 59.30 |  | 58.40 |
+| 05:00 | INR | Low | HSBC Manufacturing & Services PMI (Feb) | 59.30 |  | 58.40 |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Jan) | 2.0% | 0.2% | 0.3% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Jan) | 5.5% | 3.6% | 2.5% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing | -30.40B | -24.00B | -11.58B |
@@ -22,16 +22,16 @@
 | 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Feb) | 49.9 | 50.9 | 51.2 |
 | 08:15 | EUR | Low | HCOB France Composite PMI (Feb) | 49.9 | 49.7 | 49.1 |
 | 08:15 | EUR | Moderate | HCOB France Services PMI (Feb) | 49.6 | 49.1 | 48.4 |
-| 11 min | EUR | Low | HCOB Germany Composite PMI (Feb) |  | 52.3 | 52.1 |
-| 11 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Feb) |  | 49.6 | 49.1 |
-| 11 min | EUR | Moderate | HCOB Germany Services PMI (Feb) |  | 52.4 | 52.4 |
-| 11 min | HKD | Low | Unemployment Rate (Jan) |  |  | 3.8% |
-| 41 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Feb) |  | 49.9 | 49.5 |
-| 41 min | EUR | Moderate | HCOB Eurozone Composite PMI (Feb) |  | 51.5 | 51.3 |
-| 41 min | EUR | Moderate | HCOB Eurozone Services PMI (Feb) |  | 51.9 | 51.6 |
-| 09:30 | GBP | Moderate | S&P Global Composite PMI (Feb) |  | 53.3 | 53.7 |
-| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Feb) |  | 51.5 | 51.8 |
-| 09:30 | GBP | Moderate | S&P Global Services PMI (Feb) |  | 53.5 | 54.0 |
+| 08:30 | EUR | Low | HCOB Germany Composite PMI (Feb) | 53.1 | 52.3 | 52.1 |
+| 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Feb) | 50.7 | 49.6 | 49.1 |
+| 08:30 | EUR | Moderate | HCOB Germany Services PMI (Feb) | 53.4 | 52.4 | 52.4 |
+| 08:30 | HKD | Low | Unemployment Rate (Jan) | 3.9% |  | 3.8% |
+| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Feb) | 50.8 | 49.9 | 49.5 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Feb) | 51.9 | 51.5 | 51.3 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Feb) | 51.8 | 51.9 | 51.6 |
+| 11 min | GBP | Moderate | S&P Global Composite PMI (Feb) |  | 53.3 | 53.7 |
+| 11 min | GBP | Moderate | S&P Global Manufacturing PMI (Feb) |  | 51.5 | 51.8 |
+| 11 min | GBP | Moderate | S&P Global Services PMI (Feb) |  | 53.5 | 54.0 |
 | 11:30 | INR | Low | Bank Loan Growth |  |  | 13.1% |
 | 11:30 | INR | Low | Deposit Growth |  |  | 10.6% |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 717.06B |

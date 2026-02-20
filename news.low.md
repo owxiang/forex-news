@@ -8,13 +8,13 @@
 | 03:00 | IDR | Current Account % of GDP (Q4) | -0.70% |  | 1.10% |
 | 05:00 | INR | HSBC India Manufacturing PMI (Feb) | 57.5 |  | 55.4 |
 | 05:00 | INR | HSBC India Services PMI (Feb) | 58.4 |  | 58.5 |
-| 05:00 | INR | Manufacturing & Services PMI (Feb) | 59.30 |  | 58.40 |
+| 05:00 | INR | HSBC Manufacturing & Services PMI (Feb) | 59.30 |  | 58.40 |
 | 07:00 | GBP | Public Sector Net Borrowing | -30.40B | -24.00B | -11.58B |
 | 07:00 | GBP | Public Sector Net Cash Requirement (Jan) | -59.306B |  | 16.840B |
 | 07:00 | EUR | German PPI (YoY) (Jan) | -3.0% | -2.1% | -2.5% |
 | 08:15 | EUR | HCOB France Composite PMI (Feb) | 49.9 | 49.7 | 49.1 |
-| 11 min | EUR | HCOB Germany Composite PMI (Feb) |  | 52.3 | 52.1 |
-| 11 min | HKD | Unemployment Rate (Jan) |  |  | 3.8% |
+| 08:30 | EUR | HCOB Germany Composite PMI (Feb) | 53.1 | 52.3 | 52.1 |
+| 08:30 | HKD | Unemployment Rate (Jan) | 3.9% |  | 3.8% |
 | 11:30 | INR | Bank Loan Growth |  |  | 13.1% |
 | 11:30 | INR | Deposit Growth |  |  | 10.6% |
 | 11:30 | INR | FX Reserves, USD |  |  | 717.06B |
