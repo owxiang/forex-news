@@ -7,4 +7,5 @@
 | 13:30 | USD | GDP (QoQ) (Q4) | 1.4% | 2.8% | 4.4% |
 | 14:45 | USD | S&P Global Manufacturing PMI (Feb) | 51.2 | 52.4 | 52.4 |
 | 14:45 | USD | S&P Global Services PMI (Feb) | 52.3 | 53.0 | 52.7 |
+| 14:59 | USD | New Home Sales (Nov) | 758K |  | 737K |
 | 15:00 | USD | New Home Sales (Dec) | 745K | 732K | 656K |

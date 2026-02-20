@@ -6,8 +6,8 @@
 | 00:30 | JPY | S&P Global Services PMI (Feb) | 53.8 |  | 53.7 |
 | 07:00 | GBP | Core Retail Sales (MoM) (Jan) | 2.0% | 0.2% | 0.3% |
 | 07:00 | GBP | Core Retail Sales (YoY) (Jan) | 5.5% | 3.6% | 2.5% |
-| 07:00 | GBP | Retail Sales (MoM) (Jan) | 1.8% | 0.2% | 0.4% |
 | 07:00 | GBP | Retail Sales (YoY) (Jan) | 4.5% | 2.8% | 1.9% |
+| 07:00 | GBP | Retail Sales (MoM) (Jan) | 1.8% | 0.2% | 0.4% |
 | 07:00 | EUR | German PPI (MoM) (Jan) | -0.6% | 0.3% | -0.2% |
 | 08:15 | EUR | HCOB France Manufacturing PMI (Feb) | 49.9 | 50.9 | 51.2 |
 | 08:15 | EUR | HCOB France Services PMI (Feb) | 49.6 | 49.1 | 48.4 |
@@ -20,10 +20,12 @@
 | 09:30 | GBP | S&P Global Manufacturing PMI (Feb) | 52.0 | 51.5 | 51.8 |
 | 09:30 | GBP | S&P Global Services PMI (Feb) | 53.9 | 53.5 | 54.0 |
 | 11:30 | INR | RBI MPC Meeting Minutes |  |  |  |
+| 12:59 | USD | Building Permits (Nov) | 1.388M | 1.388M | 1.411M |
+| 13:00 | USD | Building Permits (Dec) | 1.455M | 1.448M | 1.388M |
 | 13:30 | USD | Core PCE Prices (Q4) | 2.70% | 2.60% | 2.90% |
 | 13:30 | USD | GDP Price Index (QoQ) (Q4) | 3.7% | 2.8% | 3.7% |
-| 13:30 | USD | PCE price index (MoM) (Dec) | 0.4% | 0.3% | 0.2% |
 | 13:30 | USD | PCE Price index (YoY) (Dec) | 2.9% | 2.8% | 2.8% |
+| 13:30 | USD | PCE price index (MoM) (Dec) | 0.4% | 0.3% | 0.2% |
 | 13:30 | USD | Personal Spending (MoM) (Dec) | 0.4% | 0.4% | 0.4% |
 | 13:30 | CAD | Core Retail Sales (MoM) (Dec) | 0.1% | -0.1% | 1.6% |
 | 13:30 | CAD | Retail Sales (MoM) (Dec) | -0.4% |  | 1.2% |
@@ -31,14 +33,15 @@
 | 13:30 | CAD | RMPI (MoM) (Jan) | 7.7% | 0.7% | 0.3% |
 | 14:45 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 14:45 | USD | S&P Global Composite PMI (Feb) | 52.3 |  | 53.0 |
+| 14:59 | USD | New Home Sales (MoM) (Nov) | 15.5% |  | -8.8% |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Feb) | 3.4% | 3.5% | 4.0% |
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Feb) | 3.3% | 3.4% | 3.3% |
 | 15:00 | USD | Michigan Consumer Expectations (Feb) | 56.6 | 56.6 | 57.0 |
 | 15:00 | USD | Michigan Consumer Sentiment (Feb) | 56.6 | 57.3 | 56.4 |
-| 15:00 | USD | New Home Sales (MoM) (Dec) | -1.7% |  | -8.8% |
+| 15:00 | USD | New Home Sales (MoM) (Dec) | -1.7% |  | 15.5% |
 | 16:00 | USD | Atlanta Fed GDPNow (Q1) | 3.1% | 3.0% | 3.0% |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 409 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 551 |
+| 42 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 409 |
+| 42 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 551 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -25.8K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 117.8K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 160.0K |

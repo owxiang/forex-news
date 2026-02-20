@@ -19,6 +19,8 @@
 | 11:30 | INR | Infrastructure Output (YoY) (Jan) | 4.0% |  | 4.7% |
 | 12:00 | MXN | Retail Sales (YoY) (Dec) | 4.3% |  | 4.4% |
 | 12:00 | MXN | Retail Sales (MoM) (Dec) | -0.1% |  | 1.0% |
+| 12:59 | USD | Building Permits (MoM) (Nov) | -1.6% |  | -0.3% |
+| 13:00 | USD | Building Permits (MoM) (Dec) | 4.8% |  | -1.6% |
 | 13:30 | USD | GDP Sales (Q4) | 1.2% |  | 4.5% |
 | 13:30 | USD | PCE Prices (Q4) | 2.9% | 2.8% | 2.8% |
 | 13:30 | USD | Personal Income (MoM) (Dec) | 0.3% | 0.3% | 0.4% |
@@ -30,7 +32,7 @@
 | 15:00 | USD | Dallas Fed PCE (Dec) | 2.20% |  | 1.50% |
 | 15:00 | USD | Michigan Current Conditions (Feb) | 56.6 | 58.3 | 55.4 |
 | 15:30 | CAD | BoC Senior Loan Officer Survey (Q4) | 2.8 |  | 0.7 |
-| 18:15 | USD | Fed Logan Speaks |  |  |  |
+| 57 min | USD | Fed Logan Speaks |  |  |  |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -3.2K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 45.9K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -18.3K |
