@@ -6,12 +6,11 @@
 | 00:30 | JPY | Low | Manufacturing & Services PMI (Feb) | 53.80 |  | 53.10 |
 | 00:30 | JPY | Low | S&P Global Manufacturing PMI (Feb) | 52.8 | 51.3 | 51.5 |
 | 00:30 | JPY | Moderate | S&P Global Services PMI (Feb) | 53.8 |  | 53.7 |
-| 03:00 | IDR | Low | Balance of Payments (EUR) (Q4) |  |  | -6.4B |
-| 03:00 | IDR | Low | Current Account % of GDP (Q4) |  |  | 1.10% |
-| 54 min | CNY | Moderate | China Loan Prime Rate 5Y (Feb) |  |  | 3.50% |
-| 05:00 | INR | Low | HSBC India Manufacturing PMI (Feb) |  |  | 55.4 |
-| 05:00 | INR | Low | HSBC India Services PMI (Feb) |  |  | 58.5 |
-| 05:00 | INR | Low | Manufacturing & Services PMI (Feb) |  |  | 58.40 |
+| 03:00 | IDR | Low | Balance of Payments (EUR) (Q4) | 6.1B |  | -6.4B |
+| 03:00 | IDR | Low | Current Account % of GDP (Q4) | -0.70% |  | 1.10% |
+| 21 min | INR | Low | HSBC India Manufacturing PMI (Feb) |  |  | 55.4 |
+| 21 min | INR | Low | HSBC India Services PMI (Feb) |  |  | 58.5 |
+| 21 min | INR | Low | Manufacturing & Services PMI (Feb) |  |  | 58.40 |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Jan) |  | 0.2% | 0.3% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Jan) |  | 3.6% | 3.1% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing |  | -24.00B | -11.58B |

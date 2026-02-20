@@ -4,11 +4,11 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | Manufacturing & Services PMI (Feb) | 53.80 |  | 53.10 |
 | 00:30 | JPY | S&P Global Manufacturing PMI (Feb) | 52.8 | 51.3 | 51.5 |
-| 03:00 | IDR | Balance of Payments (EUR) (Q4) |  |  | -6.4B |
-| 03:00 | IDR | Current Account % of GDP (Q4) |  |  | 1.10% |
-| 05:00 | INR | HSBC India Manufacturing PMI (Feb) |  |  | 55.4 |
-| 05:00 | INR | HSBC India Services PMI (Feb) |  |  | 58.5 |
-| 05:00 | INR | Manufacturing & Services PMI (Feb) |  |  | 58.40 |
+| 03:00 | IDR | Balance of Payments (EUR) (Q4) | 6.1B |  | -6.4B |
+| 03:00 | IDR | Current Account % of GDP (Q4) | -0.70% |  | 1.10% |
+| 21 min | INR | HSBC India Manufacturing PMI (Feb) |  |  | 55.4 |
+| 21 min | INR | HSBC India Services PMI (Feb) |  |  | 58.5 |
+| 21 min | INR | Manufacturing & Services PMI (Feb) |  |  | 58.40 |
 | 07:00 | GBP | Public Sector Net Borrowing |  | -24.00B | -11.58B |
 | 07:00 | GBP | Public Sector Net Cash Requirement (Jan) |  |  | 16.908B |
 | 07:00 | EUR | German PPI (YoY) (Jan) |  | -2.1% | -2.5% |
