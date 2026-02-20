@@ -6,9 +6,9 @@
 | 00:30 | JPY | Low | Manufacturing & Services PMI (Feb) | 53.80 |  | 53.10 |
 | 00:30 | JPY | Low | S&P Global Manufacturing PMI (Feb) | 52.8 | 51.3 | 51.5 |
 | 00:30 | JPY | Moderate | S&P Global Services PMI (Feb) | 53.8 |  | 53.7 |
-| 22 min | CNY | Moderate | China Loan Prime Rate 5Y (Feb) |  |  | 3.50% |
 | 03:00 | IDR | Low | Balance of Payments (EUR) (Q4) |  |  | -6.4B |
 | 03:00 | IDR | Low | Current Account % of GDP (Q4) |  |  | 1.10% |
+| 04:00 | CNY | Moderate | China Loan Prime Rate 5Y (Feb) |  |  | 3.50% |
 | 05:00 | INR | Low | HSBC India Manufacturing PMI (Feb) |  |  | 55.4 |
 | 05:00 | INR | Low | HSBC India Services PMI (Feb) |  |  | 58.5 |
 | 05:00 | INR | Low | Manufacturing & Services PMI (Feb) |  |  | 58.40 |
