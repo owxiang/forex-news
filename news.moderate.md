@@ -27,16 +27,16 @@
 | 13:30 | USD | Personal Spending (MoM) (Dec) | 0.4% | 0.4% | 0.4% |
 | 13:30 | CAD | Core Retail Sales (MoM) (Dec) | 0.1% | -0.1% | 1.6% |
 | 13:30 | CAD | Retail Sales (MoM) (Dec) | -0.4% |  | 1.2% |
-| 13:30 | CAD | Retail Sales (MoM) (Dec) |  | -0.5% | 1.3% |
+| 13:30 | CAD | Retail Sales (MoM) (Dec) | -0.4% | -0.5% | 1.2% |
 | 13:30 | CAD | RMPI (MoM) (Jan) | 7.7% | 0.7% | 0.3% |
-| 14:45 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 14:45 | USD | S&P Global Composite PMI (Feb) |  |  | 53.0 |
-| 15:00 | USD | Atlanta Fed GDPNow (Q1) |  | 3.0% | 3.0% |
-| 15:00 | USD | Michigan 1-Year Inflation Expectations (Feb) |  | 3.5% | 4.0% |
-| 15:00 | USD | Michigan 5-Year Inflation Expectations (Feb) |  | 3.4% | 3.3% |
-| 15:00 | USD | Michigan Consumer Expectations (Feb) |  | 56.6 | 57.0 |
-| 15:00 | USD | Michigan Consumer Sentiment (Feb) |  | 57.3 | 56.4 |
-| 15:00 | USD | New Home Sales (MoM) (Dec) |  |  | -0.1% |
+| 25 min | USD | FOMC Member Bostic Speaks |  |  |  |
+| 25 min | USD | S&P Global Composite PMI (Feb) |  |  | 53.0 |
+| 40 min | USD | Atlanta Fed GDPNow (Q1) |  | 3.0% | 3.0% |
+| 40 min | USD | Michigan 1-Year Inflation Expectations (Feb) |  | 3.5% | 4.0% |
+| 40 min | USD | Michigan 5-Year Inflation Expectations (Feb) |  | 3.4% | 3.3% |
+| 40 min | USD | Michigan Consumer Expectations (Feb) |  | 56.6 | 57.0 |
+| 40 min | USD | Michigan Consumer Sentiment (Feb) |  | 57.3 | 56.4 |
+| 40 min | USD | New Home Sales (MoM) (Dec) |  |  | -0.1% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 409 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 551 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -25.8K |

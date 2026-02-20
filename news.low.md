@@ -27,8 +27,8 @@
 | 13:30 | CAD | IPPI (YoY) (Jan) | 5.4% |  | 4.3% |
 | 13:30 | CAD | IPPI (MoM) (Jan) | 2.7% | 0.2% | -0.9% |
 | 13:30 | CAD | RMPI (YoY) (Jan) | 8.0% |  | 3.5% |
-| 15:00 | USD | Dallas Fed PCE (Dec) |  |  | 1.50% |
-| 15:00 | USD | Michigan Current Conditions (Feb) |  | 58.3 | 55.4 |
+| 40 min | USD | Dallas Fed PCE (Dec) |  |  | 1.50% |
+| 40 min | USD | Michigan Current Conditions (Feb) |  | 58.3 | 55.4 |
 | 15:30 | CAD | BoC Senior Loan Officer Survey (Q4) |  |  | 0.7 |
 | 18:15 | USD | Fed Logan Speaks |  |  |  |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -3.2K |
