@@ -19,14 +19,14 @@
 | 11:30 | INR | Infrastructure Output (YoY) (Jan) | 4.0% |  | 4.7% |
 | 12:00 | MXN | Retail Sales (YoY) (Dec) | 4.3% |  | 4.4% |
 | 12:00 | MXN | Retail Sales (MoM) (Dec) | -0.1% |  | 1.0% |
-| 13:30 | USD | GDP Sales (Q4) |  |  | 4.5% |
-| 13:30 | USD | PCE Prices (Q4) |  | 2.8% | 2.8% |
-| 13:30 | USD | Personal Income (MoM) (Dec) |  | 0.3% | 0.3% |
-| 13:30 | USD | Real Consumer Spending (Q4) |  |  | 3.5% |
-| 13:30 | USD | Real Personal Consumption (MoM) (Dec) |  |  | 0.3% |
-| 13:30 | CAD | IPPI (YoY) (Jan) |  |  | 4.9% |
-| 13:30 | CAD | IPPI (MoM) (Jan) |  | 0.2% | -0.6% |
-| 13:30 | CAD | RMPI (YoY) (Jan) |  |  | 6.4% |
+| 13:30 | USD | GDP Sales (Q4) | 1.2% |  | 4.5% |
+| 13:30 | USD | PCE Prices (Q4) | 2.9% | 2.8% | 2.8% |
+| 13:30 | USD | Personal Income (MoM) (Dec) | 0.3% | 0.3% | 0.4% |
+| 13:30 | USD | Real Consumer Spending (Q4) | 2.4% |  | 3.5% |
+| 13:30 | USD | Real Personal Consumption (MoM) (Dec) | 0.1% |  | 0.2% |
+| 13:30 | CAD | IPPI (YoY) (Jan) | 5.4% |  | 4.3% |
+| 13:30 | CAD | IPPI (MoM) (Jan) | 2.7% | 0.2% | -0.9% |
+| 13:30 | CAD | RMPI (YoY) (Jan) | 8.0% |  | 3.5% |
 | 15:00 | USD | Dallas Fed PCE (Dec) |  |  | 1.50% |
 | 15:00 | USD | Michigan Current Conditions (Feb) |  | 58.3 | 55.4 |
 | 15:30 | CAD | BoC Senior Loan Officer Survey (Q4) |  |  | 0.7 |
