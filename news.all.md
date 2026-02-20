@@ -32,12 +32,12 @@
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (Feb) | 53.9 | 53.3 | 53.7 |
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Feb) | 52.0 | 51.5 | 51.8 |
 | 09:30 | GBP | Moderate | S&P Global Services PMI (Feb) | 53.9 | 53.5 | 54.0 |
-| 11:30 | INR | Low | Bank Loan Growth |  |  | 13.1% |
-| 11:30 | INR | Low | Deposit Growth |  |  | 10.6% |
-| 11:30 | INR | Low | FX Reserves, USD |  |  | 717.06B |
-| 11:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
-| 12:00 | MXN | Low | Retail Sales (YoY) (Dec) |  |  | 4.4% |
-| 12:00 | MXN | Low | Retail Sales (MoM) (Dec) |  |  | 1.0% |
+| 14 min | INR | Low | Bank Loan Growth |  |  | 13.1% |
+| 14 min | INR | Low | Deposit Growth |  |  | 10.6% |
+| 14 min | INR | Low | FX Reserves, USD |  |  | 717.06B |
+| 14 min | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
+| 44 min | MXN | Low | Retail Sales (YoY) (Dec) |  |  | 4.4% |
+| 44 min | MXN | Low | Retail Sales (MoM) (Dec) |  |  | 1.0% |
 | 13:30 | USD | High | Core PCE Price Index (YoY) (Dec) |  | 2.9% | 2.8% |
 | 13:30 | USD | High | Core PCE Price Index (MoM) (Dec) |  | 0.3% | 0.2% |
 | 13:30 | USD | Moderate | Core PCE Prices (Q4) |  | 2.60% | 2.90% |
@@ -46,7 +46,7 @@
 | 13:30 | USD | Low | GDP Sales (Q4) |  |  | 4.5% |
 | 13:30 | USD | Moderate | PCE Price index (YoY) (Dec) |  | 2.8% | 2.8% |
 | 13:30 | USD | Moderate | PCE price index (MoM) (Dec) |  | 0.3% | 0.2% |
-| 13:30 | USD | Low | PCE Prices (Q4) |  |  | 2.8% |
+| 13:30 | USD | Low | PCE Prices (Q4) |  | 2.8% | 2.8% |
 | 13:30 | USD | Low | Personal Income (MoM) (Dec) |  | 0.3% | 0.3% |
 | 13:30 | USD | Moderate | Personal Spending (MoM) (Dec) |  | 0.4% | 0.5% |
 | 13:30 | USD | Low | Real Consumer Spending (Q4) |  |  | 3.5% |
