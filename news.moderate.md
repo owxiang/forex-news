@@ -22,21 +22,21 @@
 | 11:30 | INR | RBI MPC Meeting Minutes |  |  |  |
 | 13:30 | USD | Core PCE Prices (Q4) | 2.70% | 2.60% | 2.90% |
 | 13:30 | USD | GDP Price Index (QoQ) (Q4) | 3.7% | 2.8% | 3.7% |
-| 13:30 | USD | PCE price index (MoM) (Dec) | 0.4% | 0.3% | 0.2% |
 | 13:30 | USD | PCE Price index (YoY) (Dec) | 2.9% | 2.8% | 2.8% |
+| 13:30 | USD | PCE price index (MoM) (Dec) | 0.4% | 0.3% | 0.2% |
 | 13:30 | USD | Personal Spending (MoM) (Dec) | 0.4% | 0.4% | 0.4% |
 | 13:30 | CAD | Core Retail Sales (MoM) (Dec) | 0.1% | -0.1% | 1.6% |
 | 13:30 | CAD | Retail Sales (MoM) (Dec) | -0.4% |  | 1.2% |
 | 13:30 | CAD | Retail Sales (MoM) (Dec) | -0.4% | -0.5% | 1.2% |
 | 13:30 | CAD | RMPI (MoM) (Jan) | 7.7% | 0.7% | 0.3% |
-| 25 min | USD | FOMC Member Bostic Speaks |  |  |  |
-| 25 min | USD | S&P Global Composite PMI (Feb) |  |  | 53.0 |
-| 40 min | USD | Atlanta Fed GDPNow (Q1) |  | 3.0% | 3.0% |
-| 40 min | USD | Michigan 1-Year Inflation Expectations (Feb) |  | 3.5% | 4.0% |
-| 40 min | USD | Michigan 5-Year Inflation Expectations (Feb) |  | 3.4% | 3.3% |
-| 40 min | USD | Michigan Consumer Expectations (Feb) |  | 56.6 | 57.0 |
-| 40 min | USD | Michigan Consumer Sentiment (Feb) |  | 57.3 | 56.4 |
-| 40 min | USD | New Home Sales (MoM) (Dec) |  |  | -0.1% |
+| 14:45 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 14:45 | USD | S&P Global Composite PMI (Feb) | 52.3 |  | 53.0 |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (Feb) | 3.4% | 3.5% | 4.0% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (Feb) | 3.3% | 3.4% | 3.3% |
+| 15:00 | USD | Michigan Consumer Expectations (Feb) | 56.6 | 56.6 | 57.0 |
+| 15:00 | USD | Michigan Consumer Sentiment (Feb) | 56.6 | 57.3 | 56.4 |
+| 15:00 | USD | New Home Sales (MoM) (Dec) | -1.7% |  | -8.8% |
+| 41 min | USD | Atlanta Fed GDPNow (Q1) |  | 3.0% | 3.0% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 409 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 551 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -25.8K |

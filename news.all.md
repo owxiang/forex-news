@@ -43,8 +43,8 @@
 | 13:30 | USD | High | GDP (QoQ) (Q4) | 1.4% | 2.8% | 4.4% |
 | 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q4) | 3.7% | 2.8% | 3.7% |
 | 13:30 | USD | Low | GDP Sales (Q4) | 1.2% |  | 4.5% |
-| 13:30 | USD | Moderate | PCE price index (MoM) (Dec) | 0.4% | 0.3% | 0.2% |
 | 13:30 | USD | Moderate | PCE Price index (YoY) (Dec) | 2.9% | 2.8% | 2.8% |
+| 13:30 | USD | Moderate | PCE price index (MoM) (Dec) | 0.4% | 0.3% | 0.2% |
 | 13:30 | USD | Low | PCE Prices (Q4) | 2.9% | 2.8% | 2.8% |
 | 13:30 | USD | Low | Personal Income (MoM) (Dec) | 0.3% | 0.3% | 0.4% |
 | 13:30 | USD | Moderate | Personal Spending (MoM) (Dec) | 0.4% | 0.4% | 0.4% |
@@ -55,22 +55,21 @@
 | 13:30 | CAD | Low | IPPI (MoM) (Jan) | 2.7% | 0.2% | -0.9% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Dec) | -0.4% |  | 1.2% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Dec) | -0.4% | -0.5% | 1.2% |
-| 13:30 | CAD | Moderate | RMPI (MoM) (Jan) | 7.7% | 0.7% | 0.3% |
 | 13:30 | CAD | Low | RMPI (YoY) (Jan) | 8.0% |  | 3.5% |
-| 25 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 25 min | USD | High | S&P Global Manufacturing PMI (Feb) |  | 52.4 | 52.4 |
-| 25 min | USD | Moderate | S&P Global Composite PMI (Feb) |  |  | 53.0 |
-| 25 min | USD | High | S&P Global Services PMI (Feb) |  | 53.0 | 52.7 |
-| 40 min | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 3.0% | 3.0% |
-| 40 min | USD | Low | Dallas Fed PCE (Dec) |  |  | 1.50% |
-| 40 min | USD | Moderate | Michigan 1-Year Inflation Expectations (Feb) |  | 3.5% | 4.0% |
-| 40 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Feb) |  | 3.4% | 3.3% |
-| 40 min | USD | Moderate | Michigan Consumer Expectations (Feb) |  | 56.6 | 57.0 |
-| 40 min | USD | Moderate | Michigan Consumer Sentiment (Feb) |  | 57.3 | 56.4 |
-| 40 min | USD | Low | Michigan Current Conditions (Feb) |  | 58.3 | 55.4 |
-| 40 min | USD | Moderate | New Home Sales (MoM) (Dec) |  |  | -0.1% |
-| 40 min | USD | High | New Home Sales (Dec) |  | 732K | 737K |
-| 15:30 | CAD | Low | BoC Senior Loan Officer Survey (Q4) |  |  | 0.7 |
+| 13:30 | CAD | Moderate | RMPI (MoM) (Jan) | 7.7% | 0.7% | 0.3% |
+| 14:45 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 14:45 | USD | High | S&P Global Manufacturing PMI (Feb) | 51.2 | 52.4 | 52.4 |
+| 14:45 | USD | Moderate | S&P Global Composite PMI (Feb) | 52.3 |  | 53.0 |
+| 14:45 | USD | High | S&P Global Services PMI (Feb) | 52.3 | 53.0 | 52.7 |
+| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Feb) | 3.4% | 3.5% | 4.0% |
+| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Feb) | 3.3% | 3.4% | 3.3% |
+| 15:00 | USD | Moderate | Michigan Consumer Expectations (Feb) | 56.6 | 56.6 | 57.0 |
+| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Feb) | 56.6 | 57.3 | 56.4 |
+| 15:00 | USD | Low | Michigan Current Conditions (Feb) | 56.6 | 58.3 | 55.4 |
+| 15:00 | USD | High | New Home Sales (Dec) | 745K | 732K | 656K |
+| 15:00 | USD | Moderate | New Home Sales (MoM) (Dec) | -1.7% |  | -8.8% |
+| 11 min | CAD | Low | BoC Senior Loan Officer Survey (Q4) |  |  | 0.7 |
+| 41 min | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 3.0% | 3.0% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 409 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 551 |
 | 18:15 | USD | Low | Fed Logan Speaks |  |  |  |
