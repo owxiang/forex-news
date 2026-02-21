@@ -1,11 +1,3 @@
-## 20 February 2026 - High Impact Forex News
+## 21 February 2026 - High Impact Forex News
 
-| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
-|------|----------|-------|--------|----------|----------|
-| 13:30 | USD | Core PCE Price Index (MoM) (Dec) | 0.4% | 0.3% | 0.2% |
-| 13:30 | USD | Core PCE Price Index (YoY) (Dec) | 3.0% | 2.9% | 2.8% |
-| 13:30 | USD | GDP (QoQ) (Q4) | 1.4% | 2.8% | 4.4% |
-| 14:45 | USD | S&P Global Manufacturing PMI (Feb) | 51.2 | 52.4 | 52.4 |
-| 14:45 | USD | S&P Global Services PMI (Feb) | 52.3 | 53.0 | 52.7 |
-| 14:59 | USD | New Home Sales (Nov) | 758K |  | 737K |
-| 15:00 | USD | New Home Sales (Dec) | 745K | 732K | 656K |
+There is no high impact news today.
