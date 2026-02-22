@@ -2,6 +2,6 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 36 min | NZD | Moderate | Core Retail Sales (QoQ) |  |  | 1.2% |
-| 36 min | NZD | Moderate | Retail Sales (QoQ) (Q4) |  | 0.6% | 1.9% |
-| 36 min | NZD | Low | Retail Sales Quarterly Vs. Year Ago (Q4) |  |  | 4.5% |
+| 21:45 | NZD | Moderate | Core Retail Sales (QoQ) | 1.5% | 0.4% | 1.2% |
+| 21:45 | NZD | Moderate | Retail Sales (QoQ) (Q4) | 0.9% | 0.6% | 1.9% |
+| 21:45 | NZD | Low | Retail Sales Quarterly Vs. Year Ago (Q4) | 4.4% |  | 4.5% |
