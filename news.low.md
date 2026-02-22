@@ -1,3 +1,5 @@
-## 21 February 2026 - Low Impact Forex News
+## 22 February 2026 - Low Impact Forex News
 
-There is no low impact news today.
+| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 21:45 | NZD | Retail Sales Quarterly Vs. Year Ago (Q4) |  |  | 4.5% |
