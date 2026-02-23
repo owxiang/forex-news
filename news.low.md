@@ -20,11 +20,11 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 2.055% |  | 2.040% |
 | 14:00 | EUR | French 3-Month BTF Auction | 2.008% |  | 2.004% |
 | 14:00 | EUR | French 6-Month BTF Auction | 2.027% |  | 2.026% |
-| 35 min | USD | Dallas Fed PCE (Dec) |  |  | 1.50% |
-| 35 min | USD | Durables Excluding Defense (MoM) (Dec) |  | -2.5% | -2.5% |
-| 35 min | USD | Durables Excluding Transport (MoM) (Dec) |  |  | 0.9% |
-| 35 min | USD | Factory orders ex transportation (MoM) (Dec) |  |  | 0.2% |
+| 15:00 | USD | Durables Excluding Defense (MoM) (Dec) | -2.4% | -2.5% | -2.5% |
+| 15:00 | USD | Durables Excluding Transport (MoM) (Dec) | 1.0% |  | 0.9% |
+| 15:00 | USD | Factory orders ex transportation (MoM) (Dec) | 0.4% |  | 0.1% |
 | 15:30 | USD | Dallas Fed Mfg Business Index (Feb) |  |  | -1.2 |
+| 15:30 | USD | Dallas Fed PCE (Dec) |  |  | 1.50% |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 3.600% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 3.500% |
 | 21:00 | KRW | Consumer Confidence (Feb) |  |  | 110.8 |

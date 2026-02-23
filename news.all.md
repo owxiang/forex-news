@@ -30,12 +30,12 @@
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.055% |  | 2.040% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.008% |  | 2.004% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.027% |  | 2.026% |
-| 35 min | USD | Low | Dallas Fed PCE (Dec) |  |  | 1.50% |
-| 35 min | USD | Low | Durables Excluding Defense (MoM) (Dec) |  | -2.5% | -2.5% |
-| 35 min | USD | Low | Durables Excluding Transport (MoM) (Dec) |  |  | 0.9% |
-| 35 min | USD | Moderate | Factory Orders (MoM) (Dec) |  | -0.4% | 2.7% |
-| 35 min | USD | Low | Factory orders ex transportation (MoM) (Dec) |  |  | 0.2% |
+| 15:00 | USD | Low | Durables Excluding Defense (MoM) (Dec) | -2.4% | -2.5% | -2.5% |
+| 15:00 | USD | Low | Durables Excluding Transport (MoM) (Dec) | 1.0% |  | 0.9% |
+| 15:00 | USD | Moderate | Factory Orders (MoM) (Dec) | -0.7% | -0.4% | 2.7% |
+| 15:00 | USD | Low | Factory orders ex transportation (MoM) (Dec) | 0.4% |  | 0.1% |
 | 15:30 | USD | Low | Dallas Fed Mfg Business Index (Feb) |  |  | -1.2 |
+| 15:30 | USD | Low | Dallas Fed PCE (Dec) |  |  | 1.50% |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.600% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.500% |
 | 17:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
