@@ -19,12 +19,12 @@
 | 09:00 | EUR | Moderate | German Current Assessment (Feb) | 86.7 | 86.1 | 85.7 |
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (Feb) | 88.6 | 88.4 | 87.6 |
 | 10:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 35 min | BRL | Low | FGV Consumer confidence (Feb) |  |  | 87.3 |
-| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 12:00 | MXN | Low | Economic Activity (MoM) (Dec) |  | 0.20% | -0.20% |
-| 12:00 | MXN | Low | Economic Activity (YoY) (Dec) |  | 2.60% | -0.10% |
-| 12:00 | MXN | Moderate | GDP (YoY) (Q4) |  | 1.6% | -0.1% |
-| 12:00 | MXN | Moderate | GDP (QoQ) (Q4) |  | 0.8% | -0.3% |
+| 11:00 | BRL | Low | FGV Consumer confidence (Feb) |  |  | 87.3 |
+| 4 min | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 39 min | MXN | Low | Economic Activity (MoM) (Dec) |  | 0.20% | -0.20% |
+| 39 min | MXN | Low | Economic Activity (YoY) (Dec) |  | 2.60% | -0.10% |
+| 39 min | MXN | Moderate | GDP (YoY) (Q4) |  | 1.6% | -0.1% |
+| 39 min | MXN | Moderate | GDP (QoQ) (Q4) |  | 0.8% | -0.3% |
 | 13:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 13:30 | USD | Low | Chicago Fed National Activity (Jan) |  |  | -0.04 |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.040% |

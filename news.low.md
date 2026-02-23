@@ -12,10 +12,10 @@
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Jan) | -17.0% |  | 1.1% |
 | 09:00 | EUR | Italian HICP (YoY) (Jan) | 1.0% | 1.0% | 1.2% |
 | 09:00 | EUR | Italian HICP (MoM) (Jan) | -1.0% | -1.0% | 0.2% |
-| 35 min | BRL | FGV Consumer confidence (Feb) |  |  | 87.3 |
-| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:00 | MXN | Economic Activity (MoM) (Dec) |  | 0.20% | -0.20% |
-| 12:00 | MXN | Economic Activity (YoY) (Dec) |  | 2.60% | -0.10% |
+| 11:00 | BRL | FGV Consumer confidence (Feb) |  |  | 87.3 |
+| 4 min | BRL | BCB Focus Market Readout |  |  |  |
+| 39 min | MXN | Economic Activity (MoM) (Dec) |  | 0.20% | -0.20% |
+| 39 min | MXN | Economic Activity (YoY) (Dec) |  | 2.60% | -0.10% |
 | 13:30 | USD | Chicago Fed National Activity (Jan) |  |  | -0.04 |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.040% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.004% |
