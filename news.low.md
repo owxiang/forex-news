@@ -6,12 +6,12 @@
 | 03:00 | IDR | M2 Money Supply (YoY) (Jan) | 10.00% |  | 9.60% |
 | 05:00 | SGD | CPI (MoM) (Jan) | -0.50% |  | 0.30% |
 | 07:30 | CHF | PPI (YoY) (Jan) | -2.2% |  | -1.8% |
-| 30 min | CHF | M3 Money Supply (Jan) |  |  | 1.2B |
-| 09:00 | EUR | Italian CPI (MoM) (Jan) |  | 0.4% | 0.2% |
-| 09:00 | EUR | Italian CPI (YoY) (Jan) |  | 1.0% | 1.2% |
-| 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Jan) |  |  | 1.1% |
-| 09:00 | EUR | Italian HICP (YoY) (Jan) |  | 1.0% | 1.2% |
-| 09:00 | EUR | Italian HICP (MoM) (Jan) |  | -1.0% | 0.2% |
+| 08:00 | CHF | M3 Money Supply (Jan) | 1.2B |  | 1.2B |
+| 40 min | EUR | Italian CPI (MoM) (Jan) |  | 0.4% | 0.2% |
+| 40 min | EUR | Italian CPI (YoY) (Jan) |  | 1.0% | 1.2% |
+| 40 min | EUR | Italian CPI Ex Tobacco (YoY) (Jan) |  |  | 1.1% |
+| 40 min | EUR | Italian HICP (YoY) (Jan) |  | 1.0% | 1.2% |
+| 40 min | EUR | Italian HICP (MoM) (Jan) |  | -1.0% | 0.2% |
 | 11:00 | BRL | FGV Consumer confidence (Feb) |  |  | 87.3 |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:00 | MXN | Economic Activity (MoM) (Dec) |  |  | -0.20% |

@@ -9,15 +9,15 @@
 | 05:00 | SGD | Moderate | CPI (YoY) (Jan) | 1.4% |  | 1.2% |
 | 07:30 | CHF | Moderate | PPI (MoM) (Jan) | -0.2% | 0.1% | -0.2% |
 | 07:30 | CHF | Low | PPI (YoY) (Jan) | -2.2% |  | -1.8% |
-| 30 min | CHF | Low | M3 Money Supply (Jan) |  |  | 1.2B |
-| 09:00 | EUR | Low | Italian CPI (MoM) (Jan) |  | 0.4% | 0.2% |
-| 09:00 | EUR | Low | Italian CPI (YoY) (Jan) |  | 1.0% | 1.2% |
-| 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Jan) |  |  | 1.1% |
-| 09:00 | EUR | Low | Italian HICP (YoY) (Jan) |  | 1.0% | 1.2% |
-| 09:00 | EUR | Low | Italian HICP (MoM) (Jan) |  | -1.0% | 0.2% |
-| 09:00 | EUR | Moderate | German Business Expectations (Feb) |  | 90.5 | 89.5 |
-| 09:00 | EUR | Moderate | German Current Assessment (Feb) |  | 86.1 | 85.7 |
-| 09:00 | EUR | Moderate | German Ifo Business Climate Index (Feb) |  | 88.4 | 87.6 |
+| 08:00 | CHF | Low | M3 Money Supply (Jan) | 1.2B |  | 1.2B |
+| 40 min | EUR | Low | Italian CPI (MoM) (Jan) |  | 0.4% | 0.2% |
+| 40 min | EUR | Low | Italian CPI (YoY) (Jan) |  | 1.0% | 1.2% |
+| 40 min | EUR | Low | Italian CPI Ex Tobacco (YoY) (Jan) |  |  | 1.1% |
+| 40 min | EUR | Low | Italian HICP (YoY) (Jan) |  | 1.0% | 1.2% |
+| 40 min | EUR | Low | Italian HICP (MoM) (Jan) |  | -1.0% | 0.2% |
+| 40 min | EUR | Moderate | German Business Expectations (Feb) |  | 90.5 | 89.5 |
+| 40 min | EUR | Moderate | German Current Assessment (Feb) |  | 86.1 | 85.7 |
+| 40 min | EUR | Moderate | German Ifo Business Climate Index (Feb) |  | 88.4 | 87.6 |
 | 10:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 11:00 | BRL | Low | FGV Consumer confidence (Feb) |  |  | 87.3 |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
