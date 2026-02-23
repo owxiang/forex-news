@@ -5,7 +5,7 @@
 | 02:00 | NZD | Credit Card Spending (YoY) (Jan) | 1.0% |  | -0.2% |
 | 03:00 | IDR | M2 Money Supply (YoY) (Jan) | 10.00% |  | 9.60% |
 | 05:00 | SGD | CPI (MoM) (Jan) | -0.50% |  | 0.30% |
-| 07:30 | CHF | PPI (YoY) (Jan) |  |  | -1.8% |
+| 58 min | CHF | PPI (YoY) (Jan) |  |  | -1.8% |
 | 08:00 | CHF | M3 Money Supply (Jan) |  |  | 1.2B |
 | 09:00 | EUR | Italian CPI (MoM) (Jan) |  | 0.4% | 0.2% |
 | 09:00 | EUR | Italian CPI (YoY) (Jan) |  | 1.0% | 1.2% |

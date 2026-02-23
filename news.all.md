@@ -7,8 +7,8 @@
 | 05:00 | SGD | Moderate | Core CPI (YoY) (Jan) | 1.00% |  | 1.20% |
 | 05:00 | SGD | Low | CPI (MoM) (Jan) | -0.50% |  | 0.30% |
 | 05:00 | SGD | Moderate | CPI (YoY) (Jan) | 1.4% |  | 1.2% |
-| 07:30 | CHF | Moderate | PPI (MoM) (Jan) |  | 0.1% | -0.2% |
-| 07:30 | CHF | Low | PPI (YoY) (Jan) |  |  | -1.8% |
+| 58 min | CHF | Moderate | PPI (MoM) (Jan) |  | 0.1% | -0.2% |
+| 58 min | CHF | Low | PPI (YoY) (Jan) |  |  | -1.8% |
 | 08:00 | CHF | Low | M3 Money Supply (Jan) |  |  | 1.2B |
 | 09:00 | EUR | Low | Italian CPI (MoM) (Jan) |  | 0.4% | 0.2% |
 | 09:00 | EUR | Low | Italian CPI (YoY) (Jan) |  | 1.0% | 1.2% |
