@@ -15,11 +15,12 @@
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:00 | MXN | Economic Activity (MoM) (Dec) | 0.40% | 0.20% | -0.10% |
 | 12:00 | MXN | Economic Activity (YoY) (Dec) | 3.30% | 2.60% | -0.10% |
-| 38 min | BRL | FGV Consumer confidence (Feb) |  |  | 87.3 |
-| 13:30 | USD | Chicago Fed National Activity (Jan) |  |  | -0.04 |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.040% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.004% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.026% |
+| 13:29 | USD | Chicago Fed National Activity (Dec) | -0.21 |  | -0.04 |
+| 13:30 | USD | Chicago Fed National Activity (Jan) | 0.18 |  | -0.21 |
+| 26 min | EUR | French 12-Month BTF Auction |  |  | 2.040% |
+| 26 min | EUR | French 3-Month BTF Auction |  |  | 2.004% |
+| 26 min | EUR | French 6-Month BTF Auction |  |  | 2.026% |
+| 26 min | BRL | FGV Consumer confidence (Feb) |  |  | 87.3 |
 | 15:00 | USD | Dallas Fed PCE (Dec) |  |  | 1.50% |
 | 15:00 | USD | Durables Excluding Defense (MoM) (Dec) |  | -2.5% | -2.5% |
 | 15:00 | USD | Durables Excluding Transport (MoM) (Dec) |  |  | 0.9% |

@@ -11,6 +11,6 @@
 | 10:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 12:00 | MXN | GDP (QoQ) (Q4) | 0.9% | 0.8% | -0.3% |
 | 12:00 | MXN | GDP (YoY) (Q4) | 1.8% | 1.6% | -0.1% |
-| 38 min | USD | Fed Waller Speaks |  |  |  |
+| 13:00 | USD | Fed Waller Speaks |  |  |  |
 | 15:00 | USD | Factory Orders (MoM) (Dec) |  | -0.4% | 2.7% |
 | 17:30 | EUR | ECB President Lagarde Speaks |  |  |  |

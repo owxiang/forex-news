@@ -24,12 +24,13 @@
 | 12:00 | MXN | Low | Economic Activity (YoY) (Dec) | 3.30% | 2.60% | -0.10% |
 | 12:00 | MXN | Moderate | GDP (QoQ) (Q4) | 0.9% | 0.8% | -0.3% |
 | 12:00 | MXN | Moderate | GDP (YoY) (Q4) | 1.8% | 1.6% | -0.1% |
-| 38 min | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 38 min | BRL | Low | FGV Consumer confidence (Feb) |  |  | 87.3 |
-| 13:30 | USD | Low | Chicago Fed National Activity (Jan) |  |  | -0.04 |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.040% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.004% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.026% |
+| 13:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 13:29 | USD | Low | Chicago Fed National Activity (Dec) | -0.21 |  | -0.04 |
+| 13:30 | USD | Low | Chicago Fed National Activity (Jan) | 0.18 |  | -0.21 |
+| 26 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.040% |
+| 26 min | EUR | Low | French 3-Month BTF Auction |  |  | 2.004% |
+| 26 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.026% |
+| 26 min | BRL | Low | FGV Consumer confidence (Feb) |  |  | 87.3 |
 | 15:00 | USD | Low | Dallas Fed PCE (Dec) |  |  | 1.50% |
 | 15:00 | USD | Low | Durables Excluding Defense (MoM) (Dec) |  | -2.5% | -2.5% |
 | 15:00 | USD | Low | Durables Excluding Transport (MoM) (Dec) |  |  | 0.9% |
