@@ -38,6 +38,6 @@
 | 16:30 | USD | Low | 3-Month Bill Auction | 3.590% |  | 3.600% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 3.525% |  | 3.500% |
 | 17:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 21:00 | KRW | Low | Consumer Confidence (Feb) |  |  | 110.8 |
-| 21:00 | KRW | Low | PPI (MoM) (Jan) |  |  | 0.4% |
-| 21:00 | KRW | Low | PPI (YoY) (Jan) |  |  | 1.9% |
+| 40 min | KRW | Low | Consumer Confidence (Feb) |  |  | 110.8 |
+| 40 min | KRW | Low | PPI (MoM) (Jan) |  |  | 0.4% |
+| 40 min | KRW | Low | PPI (YoY) (Jan) |  |  | 1.9% |
