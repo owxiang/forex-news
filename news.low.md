@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | NZD | Credit Card Spending (YoY) (Jan) |  |  | -0.3% |
+| 20 min | NZD | Credit Card Spending (YoY) (Jan) |  |  | -0.3% |
 | 04:00 | IDR | M2 Money Supply (YoY) (Jan) |  |  | 9.60% |
 | 05:00 | SGD | CPI (MoM) (Jan) |  |  | 0.30% |
 | 07:30 | CHF | PPI (YoY) (Jan) |  |  | -1.8% |
