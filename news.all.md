@@ -12,14 +12,14 @@
 | 08:00 | CHF | Low | M3 Money Supply (Jan) | 1.2B |  | 1.2B |
 | 09:00 | EUR | Low | Italian CPI (MoM) (Jan) | 0.4% | 0.4% | 0.2% |
 | 09:00 | EUR | Low | Italian CPI (YoY) (Jan) | 1.0% | 1.0% | 1.2% |
+| 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Jan) | -17.0% |  | 1.1% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (Jan) | 1.0% | 1.0% | 1.2% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Jan) | -1.0% | -1.0% | 0.2% |
 | 09:00 | EUR | Moderate | German Business Expectations (Feb) | 90.5 | 90.5 | 89.6 |
 | 09:00 | EUR | Moderate | German Current Assessment (Feb) | 86.7 | 86.1 | 85.7 |
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (Feb) | 88.6 | 88.4 | 87.6 |
-| 35 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 11:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Jan) |  |  | 1.1% |
-| 11:00 | BRL | Low | FGV Consumer confidence (Feb) |  |  | 87.3 |
+| 10:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 35 min | BRL | Low | FGV Consumer confidence (Feb) |  |  | 87.3 |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:00 | MXN | Low | Economic Activity (MoM) (Dec) |  | 0.20% | -0.20% |
 | 12:00 | MXN | Low | Economic Activity (YoY) (Dec) |  | 2.60% | -0.10% |
