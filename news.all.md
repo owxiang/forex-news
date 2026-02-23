@@ -9,7 +9,7 @@
 | 05:00 | SGD | Moderate | CPI (YoY) (Jan) | 1.4% |  | 1.2% |
 | 07:30 | CHF | Moderate | PPI (MoM) (Jan) | -0.2% | 0.1% | -0.2% |
 | 07:30 | CHF | Low | PPI (YoY) (Jan) | -2.2% |  | -1.8% |
-| 08:00 | CHF | Low | M3 Money Supply (Jan) | 1.2B |  | 1.2B |
+| 08:00 | CHF | Low | M3 Money Supply (Jan) | 1,212.0B |  | 1,209.0B |
 | 09:00 | EUR | Low | Italian CPI (MoM) (Jan) | 0.4% | 0.4% | 0.2% |
 | 09:00 | EUR | Low | Italian CPI (YoY) (Jan) | 1.0% | 1.0% | 1.2% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Jan) | -17.0% |  | 1.1% |
@@ -19,13 +19,13 @@
 | 09:00 | EUR | Moderate | German Current Assessment (Feb) | 86.7 | 86.1 | 85.7 |
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (Feb) | 88.6 | 88.4 | 87.6 |
 | 10:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 11:00 | BRL | Low | FGV Consumer confidence (Feb) |  |  | 87.3 |
-| 4 min | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 39 min | MXN | Low | Economic Activity (MoM) (Dec) |  | 0.20% | -0.20% |
-| 39 min | MXN | Low | Economic Activity (YoY) (Dec) |  | 2.60% | -0.10% |
-| 39 min | MXN | Moderate | GDP (YoY) (Q4) |  | 1.6% | -0.1% |
-| 39 min | MXN | Moderate | GDP (QoQ) (Q4) |  | 0.8% | -0.3% |
-| 13:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 12:00 | MXN | Low | Economic Activity (MoM) (Dec) | 0.40% | 0.20% | -0.10% |
+| 12:00 | MXN | Low | Economic Activity (YoY) (Dec) | 3.30% | 2.60% | -0.10% |
+| 12:00 | MXN | Moderate | GDP (QoQ) (Q4) | 0.9% | 0.8% | -0.3% |
+| 12:00 | MXN | Moderate | GDP (YoY) (Q4) | 1.8% | 1.6% | -0.1% |
+| 38 min | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 38 min | BRL | Low | FGV Consumer confidence (Feb) |  |  | 87.3 |
 | 13:30 | USD | Low | Chicago Fed National Activity (Jan) |  |  | -0.04 |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.040% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.004% |
