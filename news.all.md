@@ -22,8 +22,8 @@
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:00 | MXN | Low | Economic Activity (MoM) (Dec) | 0.40% | 0.20% | -0.10% |
 | 12:00 | MXN | Low | Economic Activity (YoY) (Dec) | 3.30% | 2.60% | -0.10% |
-| 12:00 | MXN | Moderate | GDP (QoQ) (Q4) | 0.9% | 0.8% | -0.3% |
 | 12:00 | MXN | Moderate | GDP (YoY) (Q4) | 1.8% | 1.6% | -0.1% |
+| 12:00 | MXN | Moderate | GDP (QoQ) (Q4) | 0.9% | 0.8% | -0.3% |
 | 13:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 13:29 | USD | Low | Chicago Fed National Activity (Dec) | -0.21 |  | -0.04 |
 | 13:30 | USD | Low | Chicago Fed National Activity (Jan) | 0.18 |  | -0.15 |
@@ -34,10 +34,9 @@
 | 15:00 | USD | Low | Durables Excluding Transport (MoM) (Dec) | 1.0% |  | 0.9% |
 | 15:00 | USD | Moderate | Factory Orders (MoM) (Dec) | -0.7% | -0.4% | 2.7% |
 | 15:00 | USD | Low | Factory orders ex transportation (MoM) (Dec) | 0.4% |  | 0.1% |
-| 15:30 | USD | Low | Dallas Fed Mfg Business Index (Feb) |  |  | -1.2 |
-| 15:30 | USD | Low | Dallas Fed PCE (Dec) |  |  | 1.50% |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.600% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.500% |
+| 15:30 | USD | Low | Dallas Fed Mfg Business Index (Feb) | 0.2 |  | -1.2 |
+| 6 min | USD | Low | 3-Month Bill Auction |  |  | 3.600% |
+| 6 min | USD | Low | 6-Month Bill Auction |  |  | 3.500% |
 | 17:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 21:00 | KRW | Low | Consumer Confidence (Feb) |  |  | 110.8 |
 | 21:00 | KRW | Low | PPI (MoM) (Jan) |  |  | 0.4% |
