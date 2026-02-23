@@ -16,15 +16,14 @@
 | 12:00 | MXN | Economic Activity (MoM) (Dec) | 0.40% | 0.20% | -0.10% |
 | 12:00 | MXN | Economic Activity (YoY) (Dec) | 3.30% | 2.60% | -0.10% |
 | 13:29 | USD | Chicago Fed National Activity (Dec) | -0.21 |  | -0.04 |
-| 13:30 | USD | Chicago Fed National Activity (Jan) | 0.18 |  | -0.21 |
-| 26 min | EUR | French 12-Month BTF Auction |  |  | 2.040% |
-| 26 min | EUR | French 3-Month BTF Auction |  |  | 2.004% |
-| 26 min | EUR | French 6-Month BTF Auction |  |  | 2.026% |
-| 26 min | BRL | FGV Consumer confidence (Feb) |  |  | 87.3 |
-| 15:00 | USD | Dallas Fed PCE (Dec) |  |  | 1.50% |
-| 15:00 | USD | Durables Excluding Defense (MoM) (Dec) |  | -2.5% | -2.5% |
-| 15:00 | USD | Durables Excluding Transport (MoM) (Dec) |  |  | 0.9% |
-| 15:00 | USD | Factory orders ex transportation (MoM) (Dec) |  |  | 0.2% |
+| 13:30 | USD | Chicago Fed National Activity (Jan) | 0.18 |  | -0.15 |
+| 14:00 | EUR | French 12-Month BTF Auction | 2.055% |  | 2.040% |
+| 14:00 | EUR | French 3-Month BTF Auction | 2.008% |  | 2.004% |
+| 14:00 | EUR | French 6-Month BTF Auction | 2.027% |  | 2.026% |
+| 35 min | USD | Dallas Fed PCE (Dec) |  |  | 1.50% |
+| 35 min | USD | Durables Excluding Defense (MoM) (Dec) |  | -2.5% | -2.5% |
+| 35 min | USD | Durables Excluding Transport (MoM) (Dec) |  |  | 0.9% |
+| 35 min | USD | Factory orders ex transportation (MoM) (Dec) |  |  | 0.2% |
 | 15:30 | USD | Dallas Fed Mfg Business Index (Feb) |  |  | -1.2 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 3.600% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 3.500% |

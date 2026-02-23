@@ -26,16 +26,15 @@
 | 12:00 | MXN | Moderate | GDP (YoY) (Q4) | 1.8% | 1.6% | -0.1% |
 | 13:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 13:29 | USD | Low | Chicago Fed National Activity (Dec) | -0.21 |  | -0.04 |
-| 13:30 | USD | Low | Chicago Fed National Activity (Jan) | 0.18 |  | -0.21 |
-| 26 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.040% |
-| 26 min | EUR | Low | French 3-Month BTF Auction |  |  | 2.004% |
-| 26 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.026% |
-| 26 min | BRL | Low | FGV Consumer confidence (Feb) |  |  | 87.3 |
-| 15:00 | USD | Low | Dallas Fed PCE (Dec) |  |  | 1.50% |
-| 15:00 | USD | Low | Durables Excluding Defense (MoM) (Dec) |  | -2.5% | -2.5% |
-| 15:00 | USD | Low | Durables Excluding Transport (MoM) (Dec) |  |  | 0.9% |
-| 15:00 | USD | Moderate | Factory Orders (MoM) (Dec) |  | -0.4% | 2.7% |
-| 15:00 | USD | Low | Factory orders ex transportation (MoM) (Dec) |  |  | 0.2% |
+| 13:30 | USD | Low | Chicago Fed National Activity (Jan) | 0.18 |  | -0.15 |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.055% |  | 2.040% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.008% |  | 2.004% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.027% |  | 2.026% |
+| 35 min | USD | Low | Dallas Fed PCE (Dec) |  |  | 1.50% |
+| 35 min | USD | Low | Durables Excluding Defense (MoM) (Dec) |  | -2.5% | -2.5% |
+| 35 min | USD | Low | Durables Excluding Transport (MoM) (Dec) |  |  | 0.9% |
+| 35 min | USD | Moderate | Factory Orders (MoM) (Dec) |  | -0.4% | 2.7% |
+| 35 min | USD | Low | Factory orders ex transportation (MoM) (Dec) |  |  | 0.2% |
 | 15:30 | USD | Low | Dallas Fed Mfg Business Index (Feb) |  |  | -1.2 |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.600% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.500% |
