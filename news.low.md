@@ -26,6 +26,6 @@
 | 15:30 | USD | Dallas Fed Mfg Business Index (Feb) | 0.2 |  | -1.2 |
 | 16:30 | USD | 3-Month Bill Auction | 3.590% |  | 3.600% |
 | 16:30 | USD | 6-Month Bill Auction | 3.525% |  | 3.500% |
-| 40 min | KRW | Consumer Confidence (Feb) |  |  | 110.8 |
-| 40 min | KRW | PPI (MoM) (Jan) |  |  | 0.4% |
-| 40 min | KRW | PPI (YoY) (Jan) |  |  | 1.9% |
+| 21:00 | KRW | Consumer Confidence (Feb) | 112.1 |  | 110.8 |
+| 21:00 | KRW | PPI (MoM) (Jan) | 0.6% |  | 0.4% |
+| 21:00 | KRW | PPI (YoY) (Jan) | 1.9% |  | 1.9% |
