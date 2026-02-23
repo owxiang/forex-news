@@ -24,8 +24,8 @@
 | 15:00 | USD | Durables Excluding Transport (MoM) (Dec) | 1.0% |  | 0.9% |
 | 15:00 | USD | Factory orders ex transportation (MoM) (Dec) | 0.4% |  | 0.1% |
 | 15:30 | USD | Dallas Fed Mfg Business Index (Feb) | 0.2 |  | -1.2 |
-| 6 min | USD | 3-Month Bill Auction |  |  | 3.600% |
-| 6 min | USD | 6-Month Bill Auction |  |  | 3.500% |
+| 16:30 | USD | 3-Month Bill Auction | 3.590% |  | 3.600% |
+| 16:30 | USD | 6-Month Bill Auction | 3.525% |  | 3.500% |
 | 21:00 | KRW | Consumer Confidence (Feb) |  |  | 110.8 |
 | 21:00 | KRW | PPI (MoM) (Jan) |  |  | 0.4% |
 | 21:00 | KRW | PPI (YoY) (Jan) |  |  | 1.9% |
