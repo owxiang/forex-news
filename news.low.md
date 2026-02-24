@@ -13,7 +13,7 @@
 | 05:30 | NOK | Consumer Confidence (Q1) | -9.40 |  | -4.70 |
 | 07:00 | NOK | M3 Money Supply (Jan) | 3,474.8B |  | 3,422.1B |
 | 07:00 | NOK | Credit Indicator (YoY) (Jan) | 4.4% |  | 4.5% |
-| 07:00 | ZAR | Leading Indicators (Dec) | 117.20% |  | 118.40% |
+| 07:00 | ZAR | Leading Indicators (Dec) | 117.20% |  | 118.39% |
 | 07:45 | EUR | French Business Survey (Feb) | 102 | 104 | 105 |
 | 11:00 | GBP | CBI Distributive Trades Survey (Feb) |  | -27 | -17 |
 | 11:00 | CNY | FDI (Jan) |  |  | -9.50% |
