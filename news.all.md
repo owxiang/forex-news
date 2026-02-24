@@ -4,15 +4,15 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 01:00 | CNY | Moderate | China Loan Prime Rate 5Y (Feb) | 3.50% | 3.50% | 3.50% |
 | 01:00 | CNY | Moderate | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
-| 05:00 | GBP | Low | Car Registration (MoM) (Jan) |  |  | -3.2% |
-| 05:00 | GBP | Low | Car Registration (YoY) (Jan) |  |  | 3.9% |
-| 05:00 | EUR | Low | Italian Car Registration (MoM) (Jan) |  |  | -13.0% |
-| 05:00 | EUR | Low | Italian Car Registration (YoY) (Jan) |  |  | 2.3% |
-| 05:00 | EUR | Low | German Car Registration (YoY) (Jan) |  |  | 9.7% |
-| 05:00 | EUR | Low | German Car Registration (MoM) (Jan) |  |  | -1.7% |
-| 05:00 | EUR | Low | French Car Registration (MoM) (Jan) |  |  | 30.1% |
-| 05:00 | EUR | Low | French Car Registration (YoY) (Jan) |  |  | -5.8% |
-| 05:30 | NOK | Low | Consumer Confidence (Q1) |  |  | -3.70 |
+| 19 min | GBP | Low | Car Registration (MoM) (Jan) |  |  | -3.2% |
+| 19 min | GBP | Low | Car Registration (YoY) (Jan) |  |  | 3.9% |
+| 19 min | EUR | Low | Italian Car Registration (MoM) (Jan) |  |  | -13.0% |
+| 19 min | EUR | Low | Italian Car Registration (YoY) (Jan) |  |  | 2.3% |
+| 19 min | EUR | Low | German Car Registration (YoY) (Jan) |  |  | 9.7% |
+| 19 min | EUR | Low | German Car Registration (MoM) (Jan) |  |  | -1.7% |
+| 19 min | EUR | Low | French Car Registration (MoM) (Jan) |  |  | 30.1% |
+| 19 min | EUR | Low | French Car Registration (YoY) (Jan) |  |  | -5.8% |
+| 49 min | NOK | Low | Consumer Confidence (Q1) |  |  | -3.70 |
 | 07:00 | NOK | Low | M3 Money Supply (Jan) |  |  | 3,422.1B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Jan) |  |  | 4.4% |
 | 07:00 | ZAR | Low | Leading Indicators (Dec) |  |  | 118.40% |

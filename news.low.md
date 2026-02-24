@@ -2,15 +2,15 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | GBP | Car Registration (MoM) (Jan) |  |  | -3.2% |
-| 05:00 | GBP | Car Registration (YoY) (Jan) |  |  | 3.9% |
-| 05:00 | EUR | Italian Car Registration (MoM) (Jan) |  |  | -13.0% |
-| 05:00 | EUR | Italian Car Registration (YoY) (Jan) |  |  | 2.3% |
-| 05:00 | EUR | German Car Registration (YoY) (Jan) |  |  | 9.7% |
-| 05:00 | EUR | German Car Registration (MoM) (Jan) |  |  | -1.7% |
-| 05:00 | EUR | French Car Registration (MoM) (Jan) |  |  | 30.1% |
-| 05:00 | EUR | French Car Registration (YoY) (Jan) |  |  | -5.8% |
-| 05:30 | NOK | Consumer Confidence (Q1) |  |  | -3.70 |
+| 19 min | GBP | Car Registration (MoM) (Jan) |  |  | -3.2% |
+| 19 min | GBP | Car Registration (YoY) (Jan) |  |  | 3.9% |
+| 19 min | EUR | Italian Car Registration (MoM) (Jan) |  |  | -13.0% |
+| 19 min | EUR | Italian Car Registration (YoY) (Jan) |  |  | 2.3% |
+| 19 min | EUR | German Car Registration (YoY) (Jan) |  |  | 9.7% |
+| 19 min | EUR | German Car Registration (MoM) (Jan) |  |  | -1.7% |
+| 19 min | EUR | French Car Registration (MoM) (Jan) |  |  | 30.1% |
+| 19 min | EUR | French Car Registration (YoY) (Jan) |  |  | -5.8% |
+| 49 min | NOK | Consumer Confidence (Q1) |  |  | -3.70 |
 | 07:00 | NOK | M3 Money Supply (Jan) |  |  | 3,422.1B |
 | 07:00 | NOK | Credit Indicator (YoY) (Jan) |  |  | 4.4% |
 | 07:00 | ZAR | Leading Indicators (Dec) |  |  | 118.40% |
