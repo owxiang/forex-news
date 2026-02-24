@@ -38,8 +38,8 @@
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Dec) | 1.0% |  | 1.4% |
 | 15:30 | USD | Dallas Fed Services Revenues (Feb) | 4.1 |  | 7.8 |
 | 15:30 | USD | Texas Services Sector Outlook (Feb) | -3.2 |  | 2.7 |
-| 3 min | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
-| 33 min | USD | M2 Money Supply (MoM) (Jan) |  |  | 22.40T |
+| 17:30 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
+| 18:00 | USD | M2 Money Supply (MoM) (Jan) | 22.44T |  | 22.40T |
 | 20:15 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 20:20 | USD | Fed Collins Speaks |  |  |  |
 | 23:50 | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 2.6% | 2.6% |
