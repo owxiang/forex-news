@@ -16,7 +16,7 @@
 | 07:00 | NOK | Low | M3 Money Supply (Jan) | 3,474.8B |  | 3,422.1B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Jan) | 4.4% |  | 4.5% |
 | 07:00 | ZAR | Low | Leading Indicators (Dec) | 117.20% |  | 118.40% |
-| 18 min | EUR | Low | French Business Survey (Feb) |  | 104 | 105 |
+| 07:45 | EUR | Low | French Business Survey (Feb) | 102 | 104 | 105 |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Feb) |  | -27 | -17 |
 | 11:00 | CNY | Low | FDI (Jan) |  |  | -9.50% |
 | 11:30 | BRL | Low | Current Account (USD) (Jan) |  | -6.60B | -3.36B |
