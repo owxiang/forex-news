@@ -15,4 +15,4 @@
 | 17:00 | USD | Atlanta Fed GDPNow (Q1) | 3.1% | 3.1% | 3.1% |
 | 17:45 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | 2-Year Note Auction | 3.455% |  | 3.580% |
-| 21:30 | USD | API Weekly Crude Oil Stock |  | 1.850M | -0.609M |
+| 15 min | USD | API Weekly Crude Oil Stock |  | 1.850M | -0.609M |

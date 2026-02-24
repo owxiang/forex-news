@@ -41,5 +41,5 @@
 | 17:30 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 18:00 | USD | M2 Money Supply (MoM) (Jan) | 22.44T |  | 22.40T |
 | 20:15 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 4 min | USD | Fed Collins Speaks |  |  |  |
+| 20:20 | USD | Fed Collins Speaks |  |  |  |
 | 23:50 | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 2.6% | 2.6% |

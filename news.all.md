@@ -55,6 +55,6 @@
 | 18:00 | USD | Moderate | 2-Year Note Auction | 3.455% |  | 3.580% |
 | 18:00 | USD | Low | M2 Money Supply (MoM) (Jan) | 22.44T |  | 22.40T |
 | 20:15 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 4 min | USD | Low | Fed Collins Speaks |  |  |  |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 1.850M | -0.609M |
+| 20:20 | USD | Low | Fed Collins Speaks |  |  |  |
+| 15 min | USD | Moderate | API Weekly Crude Oil Stock |  | 1.850M | -0.609M |
 | 23:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) |  | 2.6% | 2.6% |
