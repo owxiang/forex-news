@@ -11,8 +11,8 @@
 | 14:10 | USD | Fed Waller Speaks |  |  |  |
 | 14:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 14:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 35 min | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 16:30 | USD | Atlanta Fed GDPNow (Q1) |  | 3.1% | 3.1% |
+| 16:00 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
+| 1 min | USD | Atlanta Fed GDPNow (Q1) |  | 3.1% | 3.1% |
 | 17:45 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | 2-Year Note Auction |  |  | 3.580% |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | 1.850M | -0.609M |

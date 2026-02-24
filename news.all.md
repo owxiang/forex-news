@@ -46,10 +46,10 @@
 | 15:00 | USD | Low | Richmond Services Index (Feb) | -8 |  | -3 |
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (Dec) | 0.2% | 0.2% | 0.2% |
 | 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Dec) | 1.0% |  | 1.4% |
-| 5 min | USD | Low | Dallas Fed Services Revenues (Feb) |  |  | 7.8 |
-| 5 min | USD | Low | Texas Services Sector Outlook (Feb) |  |  | 2.7 |
-| 35 min | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 3.1% | 3.1% |
+| 15:30 | USD | Low | Dallas Fed Services Revenues (Feb) | 4.1 |  | 7.8 |
+| 15:30 | USD | Low | Texas Services Sector Outlook (Feb) | -3.2 |  | 2.7 |
+| 16:00 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
+| 1 min | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 3.1% | 3.1% |
 | 17:30 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 17:45 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | Moderate | 2-Year Note Auction |  |  | 3.580% |

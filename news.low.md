@@ -36,8 +36,8 @@
 | 15:00 | USD | Richmond Services Index (Feb) | -8 |  | -3 |
 | 15:00 | USD | Wholesale Inventories (MoM) (Dec) | 0.2% | 0.2% | 0.2% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Dec) | 1.0% |  | 1.4% |
-| 5 min | USD | Dallas Fed Services Revenues (Feb) |  |  | 7.8 |
-| 5 min | USD | Texas Services Sector Outlook (Feb) |  |  | 2.7 |
+| 15:30 | USD | Dallas Fed Services Revenues (Feb) | 4.1 |  | 7.8 |
+| 15:30 | USD | Texas Services Sector Outlook (Feb) | -3.2 |  | 2.7 |
 | 17:30 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 18:00 | USD | M2 Money Supply (MoM) (Jan) |  |  | 22.40T |
 | 20:15 | USD | FOMC Member Barkin Speaks |  |  |  |
