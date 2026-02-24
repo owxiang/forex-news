@@ -49,11 +49,11 @@
 | 15:30 | USD | Low | Dallas Fed Services Revenues (Feb) | 4.1 |  | 7.8 |
 | 15:30 | USD | Low | Texas Services Sector Outlook (Feb) | -3.2 |  | 2.7 |
 | 16:00 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 1 min | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 3.1% | 3.1% |
-| 17:30 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
-| 17:45 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 18:00 | USD | Moderate | 2-Year Note Auction |  |  | 3.580% |
-| 18:00 | USD | Low | M2 Money Supply (MoM) (Jan) |  |  | 22.40T |
+| 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 3.1% | 3.1% | 3.1% |
+| 3 min | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
+| 18 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 33 min | USD | Moderate | 2-Year Note Auction |  |  | 3.580% |
+| 33 min | USD | Low | M2 Money Supply (MoM) (Jan) |  |  | 22.40T |
 | 20:15 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 20:20 | USD | Low | Fed Collins Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 1.850M | -0.609M |
