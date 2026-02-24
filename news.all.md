@@ -25,20 +25,19 @@
 | 13:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 13:00 | BRL | Low | Federal Tax Revenue (Jan) | 325.75B |  | 292.72B |
 | 13:15 | USD | Moderate | ADP Employment Change Weekly | 12.80K |  | 11.50K |
-| 20 min | USD | Low | Redbook (YoY) |  |  | 7.2% |
-| 25 min | USD | Low | Fed Collins Speaks |  |  |  |
-| 25 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 25 min | USD | Low | House Price Index (YoY) (Dec) |  |  | 1.9% |
-| 25 min | USD | Low | House Price Index (MoM) (Dec) |  | 0.3% | 0.6% |
-| 25 min | USD | Low | House Price Index (Dec) |  |  | 439.3 |
-| 25 min | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Dec) |  |  | 0.5% |
-| 25 min | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Dec) |  | 1.3% | 1.4% |
-| 25 min | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Dec) |  |  | 0.0% |
-| 25 min | CAD | Low | Manufacturing Sales (MoM) (Jan) |  |  | 0.6% |
-| 25 min | BRL | Low | FGV Consumer confidence (Feb) |  |  | 87.3 |
-| 35 min | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 40 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 40 min | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Jan) | -3.3% |  | 0.6% |
+| 13:55 | USD | Low | Redbook (YoY) | 6.7% |  | 7.2% |
+| 14:00 | USD | Low | Fed Collins Speaks |  |  |  |
+| 14:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 14:00 | USD | Low | House Price Index (YoY) (Dec) | 1.8% |  | 2.1% |
+| 14:00 | USD | Low | House Price Index (MoM) (Dec) | 0.1% | 0.3% | 0.7% |
+| 14:00 | USD | Low | House Price Index (Dec) | 440.4 |  | 439.7 |
+| 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Dec) | 0.5% |  | 0.5% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Dec) | 1.4% | 1.3% | 1.4% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Dec) | -0.1% |  | 0.0% |
+| 14:10 | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 14:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 14:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 14:35 | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 15:00 | USD | High | CB Consumer Confidence (Feb) |  | 87.4 | 84.5 |
 | 15:00 | USD | Low | Richmond Manufacturing Index (Feb) |  | -8 | -6 |
