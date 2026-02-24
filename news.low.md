@@ -21,15 +21,15 @@
 | 12:00 | MXN | 1st Half-Month Core CPI (Feb) | 0.22% | 0.27% | 0.43% |
 | 12:00 | MXN | 1st Half-Month CPI (Feb) | 0.25% | 0.21% | 0.31% |
 | 13:00 | USD | Fed Goolsbee Speaks |  |  |  |
-| 13:00 | CNY | FDI (Jan) |  |  | -9.50% |
-| 13:30 | CAD | Manufacturing Sales (MoM) (Jan) |  |  | 0.6% |
-| 13:55 | USD | Redbook (YoY) |  |  | 7.2% |
-| 14:00 | USD | Fed Collins Speaks |  |  |  |
-| 14:00 | USD | House Price Index (YoY) (Dec) |  |  | 1.9% |
-| 14:00 | USD | House Price Index (MoM) (Dec) |  | 0.3% | 0.6% |
-| 14:00 | USD | House Price Index (Dec) |  |  | 439.3 |
-| 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Dec) |  |  | 0.5% |
-| 14:00 | BRL | FGV Consumer confidence (Feb) |  |  | 87.3 |
+| 13:00 | BRL | Federal Tax Revenue (Jan) | 325.75B |  | 292.72B |
+| 20 min | USD | Redbook (YoY) |  |  | 7.2% |
+| 25 min | USD | Fed Collins Speaks |  |  |  |
+| 25 min | USD | House Price Index (YoY) (Dec) |  |  | 1.9% |
+| 25 min | USD | House Price Index (MoM) (Dec) |  | 0.3% | 0.6% |
+| 25 min | USD | House Price Index (Dec) |  |  | 439.3 |
+| 25 min | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Dec) |  |  | 0.5% |
+| 25 min | CAD | Manufacturing Sales (MoM) (Jan) |  |  | 0.6% |
+| 25 min | BRL | FGV Consumer confidence (Feb) |  |  | 87.3 |
 | 14:35 | USD | Fed Governor Cook Speaks |  |  |  |
 | 15:00 | USD | Richmond Manufacturing Index (Feb) |  | -8 | -6 |
 | 15:00 | USD | Richmond Manufacturing Shipments (Feb) |  |  | -5 |
