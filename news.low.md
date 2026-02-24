@@ -2,20 +2,20 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 19 min | GBP | Car Registration (MoM) (Jan) |  |  | -3.2% |
-| 19 min | GBP | Car Registration (YoY) (Jan) |  |  | 3.9% |
-| 19 min | EUR | Italian Car Registration (MoM) (Jan) |  |  | -13.0% |
-| 19 min | EUR | Italian Car Registration (YoY) (Jan) |  |  | 2.3% |
-| 19 min | EUR | German Car Registration (YoY) (Jan) |  |  | 9.7% |
-| 19 min | EUR | German Car Registration (MoM) (Jan) |  |  | -1.7% |
-| 19 min | EUR | French Car Registration (MoM) (Jan) |  |  | 30.1% |
-| 19 min | EUR | French Car Registration (YoY) (Jan) |  |  | -5.8% |
-| 49 min | NOK | Consumer Confidence (Q1) |  |  | -3.70 |
+| 05:00 | GBP | Car Registration (MoM) (Jan) | -1.5% |  | -3.2% |
+| 05:00 | GBP | Car Registration (YoY) (Jan) | 3.4% |  | 3.9% |
+| 05:00 | EUR | Italian Car Registration (MoM) (Jan) | 31.4% |  | -13.0% |
+| 05:00 | EUR | Italian Car Registration (YoY) (Jan) | 6.2% |  | 2.3% |
+| 05:00 | EUR | German Car Registration (YoY) (Jan) | -6.6% |  | 9.7% |
+| 05:00 | EUR | German Car Registration (MoM) (Jan) | -21.3% |  | -1.7% |
+| 05:00 | EUR | French Car Registration (MoM) (Jan) | -38.0% |  | 30.1% |
+| 05:00 | EUR | French Car Registration (YoY) (Jan) | -6.6% |  | -5.8% |
+| 05:30 | NOK | Consumer Confidence (Q1) |  |  | -3.70 |
 | 07:00 | NOK | M3 Money Supply (Jan) |  |  | 3,422.1B |
 | 07:00 | NOK | Credit Indicator (YoY) (Jan) |  |  | 4.4% |
 | 07:00 | ZAR | Leading Indicators (Dec) |  |  | 118.40% |
 | 07:45 | EUR | French Business Survey (Feb) |  | 104 | 105 |
-| 11:00 | GBP | CBI Distributive Trades Survey (Feb) |  | -26 | -17 |
+| 11:00 | GBP | CBI Distributive Trades Survey (Feb) |  | -27 | -17 |
 | 11:00 | CNY | FDI (Jan) |  |  | -9.50% |
 | 11:30 | BRL | Current Account (USD) (Jan) |  | -6.60B | -3.36B |
 | 11:30 | BRL | Foreign direct investment (USD) (Jan) |  | 7.00B | -5.25B |
@@ -30,14 +30,14 @@
 | 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Dec) |  |  | 0.5% |
 | 14:00 | BRL | FGV Consumer confidence (Feb) |  |  | 87.3 |
 | 14:35 | USD | Fed Governor Cook Speaks |  |  |  |
-| 15:00 | USD | Richmond Manufacturing Index (Feb) |  | -4 | -6 |
+| 15:00 | USD | Richmond Manufacturing Index (Feb) |  | -8 | -6 |
 | 15:00 | USD | Richmond Manufacturing Shipments (Feb) |  |  | -5 |
 | 15:00 | USD | Richmond Services Index (Feb) |  |  | -3 |
 | 15:00 | USD | Wholesale Inventories (MoM) (Dec) |  | 0.2% | 0.2% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Dec) |  |  | 1.3% |
-| 15:30 | USD | Dallas Fed PCE (Dec) |  |  | 1.50% |
 | 15:30 | USD | Dallas Fed Services Revenues (Feb) |  |  | 7.8 |
 | 15:30 | USD | Texas Services Sector Outlook (Feb) |  |  | 2.7 |
+| 17:30 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 18:00 | USD | M2 Money Supply (MoM) (Jan) |  |  | 22.40T |
 | 20:15 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 20:20 | USD | Fed Collins Speaks |  |  |  |
