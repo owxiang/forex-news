@@ -29,7 +29,7 @@
 | 14:00 | USD | House Price Index (MoM) (Dec) | 0.1% | 0.3% | 0.7% |
 | 14:00 | USD | House Price Index (Dec) | 440.4 |  | 439.7 |
 | 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Dec) | 0.5% |  | 0.5% |
-| 14:00 | EUR | Spanish Consumer Confidence | 80.5 |  | 75.9 |
+| 14:00 | EUR | Spanish Consumer Confidence (Jan) | 80.5 |  | 75.9 |
 | 14:35 | USD | Fed Governor Cook Speaks |  |  |  |
 | 15:00 | USD | Richmond Manufacturing Index (Feb) | -10 | -8 | -6 |
 | 15:00 | USD | Richmond Manufacturing Shipments (Feb) | -13 |  | -5 |

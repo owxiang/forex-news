@@ -35,7 +35,7 @@
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Dec) | 0.5% |  | 0.5% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Dec) | -0.1% |  | 0.0% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Dec) | 1.4% | 1.3% | 1.4% |
-| 14:00 | EUR | Low | Spanish Consumer Confidence | 80.5 |  | 75.9 |
+| 14:00 | EUR | Low | Spanish Consumer Confidence (Jan) | 80.5 |  | 75.9 |
 | 14:10 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 14:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 14:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
@@ -56,5 +56,5 @@
 | 18:00 | USD | Low | M2 Money Supply (MoM) (Jan) | 22.44T |  | 22.40T |
 | 20:15 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 20:20 | USD | Low | Fed Collins Speaks |  |  |  |
-| 15 min | USD | Moderate | API Weekly Crude Oil Stock |  | 1.850M | -0.609M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | 11.400M | 1.850M | -0.609M |
 | 23:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) |  | 2.6% | 2.6% |
