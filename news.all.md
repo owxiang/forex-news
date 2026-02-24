@@ -57,4 +57,4 @@
 | 20:15 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 20:20 | USD | Low | Fed Collins Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock | 11.400M | 1.850M | -0.609M |
-| 23:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) |  | 2.6% | 2.6% |
+| 37 min | JPY | Low | Corporate Services Price Index (CSPI) (YoY) |  | 2.6% | 2.6% |
