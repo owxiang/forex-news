@@ -10,7 +10,7 @@
 | 05:00 | EUR | German Car Registration (MoM) (Jan) | -21.3% |  | -1.7% |
 | 05:00 | EUR | French Car Registration (MoM) (Jan) | -38.0% |  | 30.1% |
 | 05:00 | EUR | French Car Registration (YoY) (Jan) | -6.6% |  | -5.8% |
-| 05:30 | NOK | Consumer Confidence (Q1) |  |  | -3.70 |
+| 05:30 | NOK | Consumer Confidence (Q1) | -9.40 |  | -4.70 |
 | 07:00 | NOK | M3 Money Supply (Jan) |  |  | 3,422.1B |
 | 07:00 | NOK | Credit Indicator (YoY) (Jan) |  |  | 4.4% |
 | 07:00 | ZAR | Leading Indicators (Dec) |  |  | 118.40% |
