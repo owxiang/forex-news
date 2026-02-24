@@ -1,43 +1,59 @@
-## 23 February 2026 - All Forex News
+## 24 February 2026 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 02:00 | NZD | Low | Credit Card Spending (YoY) (Jan) | 1.0% |  | -0.2% |
-| 03:00 | IDR | Low | M2 Money Supply (YoY) (Jan) | 10.00% |  | 9.60% |
-| 05:00 | SGD | Moderate | Core CPI (YoY) (Jan) | 1.00% |  | 1.20% |
-| 05:00 | SGD | Low | CPI (MoM) (Jan) | -0.50% |  | 0.30% |
-| 05:00 | SGD | Moderate | CPI (YoY) (Jan) | 1.4% |  | 1.2% |
-| 07:30 | CHF | Moderate | PPI (MoM) (Jan) | -0.2% | 0.1% | -0.2% |
-| 07:30 | CHF | Low | PPI (YoY) (Jan) | -2.2% |  | -1.8% |
-| 08:00 | CHF | Low | M3 Money Supply (Jan) | 1,212.0B |  | 1,209.0B |
-| 09:00 | EUR | Low | Italian CPI (MoM) (Jan) | 0.4% | 0.4% | 0.2% |
-| 09:00 | EUR | Low | Italian CPI (YoY) (Jan) | 1.0% | 1.0% | 1.2% |
-| 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Jan) | -17.0% |  | 1.1% |
-| 09:00 | EUR | Low | Italian HICP (YoY) (Jan) | 1.0% | 1.0% | 1.2% |
-| 09:00 | EUR | Low | Italian HICP (MoM) (Jan) | -1.0% | -1.0% | 0.2% |
-| 09:00 | EUR | Moderate | German Business Expectations (Feb) | 90.5 | 90.5 | 89.6 |
-| 09:00 | EUR | Moderate | German Current Assessment (Feb) | 86.7 | 86.1 | 85.7 |
-| 09:00 | EUR | Moderate | German Ifo Business Climate Index (Feb) | 88.6 | 88.4 | 87.6 |
-| 10:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 12:00 | MXN | Low | Economic Activity (MoM) (Dec) | 0.40% | 0.20% | -0.10% |
-| 12:00 | MXN | Low | Economic Activity (YoY) (Dec) | 3.30% | 2.60% | -0.10% |
-| 12:00 | MXN | Moderate | GDP (YoY) (Q4) | 1.8% | 1.6% | -0.1% |
-| 12:00 | MXN | Moderate | GDP (QoQ) (Q4) | 0.9% | 0.8% | -0.3% |
-| 13:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 13:29 | USD | Low | Chicago Fed National Activity (Dec) | -0.21 |  | -0.04 |
-| 13:30 | USD | Low | Chicago Fed National Activity (Jan) | 0.18 |  | -0.15 |
-| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.055% |  | 2.040% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.008% |  | 2.004% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.027% |  | 2.026% |
-| 15:00 | USD | Low | Durables Excluding Defense (MoM) (Dec) | -2.4% | -2.5% | -2.5% |
-| 15:00 | USD | Low | Durables Excluding Transport (MoM) (Dec) | 1.0% |  | 0.9% |
-| 15:00 | USD | Moderate | Factory Orders (MoM) (Dec) | -0.7% | -0.4% | 2.7% |
-| 15:00 | USD | Low | Factory orders ex transportation (MoM) (Dec) | 0.4% |  | 0.1% |
-| 15:30 | USD | Low | Dallas Fed Mfg Business Index (Feb) | 0.2 |  | -1.2 |
-| 16:30 | USD | Low | 3-Month Bill Auction | 3.590% |  | 3.600% |
-| 16:30 | USD | Low | 6-Month Bill Auction | 3.525% |  | 3.500% |
-| 17:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 21:00 | KRW | Low | Consumer Confidence (Feb) | 112.1 |  | 110.8 |
-| 21:00 | KRW | Low | PPI (MoM) (Jan) | 0.6% |  | 0.4% |
-| 21:00 | KRW | Low | PPI (YoY) (Jan) | 1.9% |  | 1.9% |
+| 01:00 | CNY | Moderate | China Loan Prime Rate 5Y (Feb) | 3.50% | 3.50% | 3.50% |
+| 01:00 | CNY | Moderate | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
+| 05:00 | GBP | Low | Car Registration (MoM) (Jan) |  |  | -3.2% |
+| 05:00 | GBP | Low | Car Registration (YoY) (Jan) |  |  | 3.9% |
+| 05:00 | EUR | Low | Italian Car Registration (MoM) (Jan) |  |  | -13.0% |
+| 05:00 | EUR | Low | Italian Car Registration (YoY) (Jan) |  |  | 2.3% |
+| 05:00 | EUR | Low | German Car Registration (YoY) (Jan) |  |  | 9.7% |
+| 05:00 | EUR | Low | German Car Registration (MoM) (Jan) |  |  | -1.7% |
+| 05:00 | EUR | Low | French Car Registration (MoM) (Jan) |  |  | 30.1% |
+| 05:00 | EUR | Low | French Car Registration (YoY) (Jan) |  |  | -5.8% |
+| 05:30 | NOK | Low | Consumer Confidence (Q1) |  |  | -3.70 |
+| 07:00 | NOK | Low | M3 Money Supply (Jan) |  |  | 3,422.1B |
+| 07:00 | NOK | Low | Credit Indicator (YoY) (Jan) |  |  | 4.4% |
+| 07:00 | ZAR | Low | Leading Indicators (Dec) |  |  | 118.40% |
+| 07:45 | EUR | Low | French Business Survey (Feb) |  | 104 | 105 |
+| 11:00 | GBP | Low | CBI Distributive Trades Survey (Feb) |  | -26 | -17 |
+| 11:00 | CNY | Low | FDI (Jan) |  |  | -9.50% |
+| 11:30 | BRL | Low | Current Account (USD) (Jan) |  | -6.60B | -3.36B |
+| 11:30 | BRL | Low | Foreign direct investment (USD) (Jan) |  | 7.00B | -5.25B |
+| 12:00 | MXN | Low | 1st Half-Month Core CPI (Feb) |  | 0.27% | 0.43% |
+| 12:00 | MXN | Low | 1st Half-Month CPI (Feb) |  | 0.21% | 0.31% |
+| 13:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 10.30K |
+| 13:55 | USD | Low | Redbook (YoY) |  |  | 7.2% |
+| 14:00 | USD | Low | Fed Collins Speaks |  |  |  |
+| 14:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 14:00 | USD | Low | House Price Index (YoY) (Dec) |  |  | 1.9% |
+| 14:00 | USD | Low | House Price Index (MoM) (Dec) |  | 0.3% | 0.6% |
+| 14:00 | USD | Low | House Price Index (Dec) |  |  | 439.3 |
+| 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Dec) |  |  | 0.5% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Dec) |  |  | 0.0% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Dec) |  | 1.3% | 1.4% |
+| 14:00 | BRL | Low | FGV Consumer confidence (Feb) |  |  | 87.3 |
+| 14:10 | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 14:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 14:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 14:35 | USD | Low | Fed Governor Cook Speaks |  |  |  |
+| 15:00 | USD | High | CB Consumer Confidence (Feb) |  | 87.6 | 84.5 |
+| 15:00 | USD | Low | Richmond Manufacturing Index (Feb) |  | -4 | -6 |
+| 15:00 | USD | Low | Richmond Manufacturing Shipments (Feb) |  |  | -5 |
+| 15:00 | USD | Low | Richmond Services Index (Feb) |  |  | -3 |
+| 15:00 | USD | Low | Wholesale Inventories (MoM) (Dec) |  | 0.2% | 0.2% |
+| 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Dec) |  |  | 1.3% |
+| 15:30 | USD | Low | Dallas Fed PCE (Dec) |  |  | 1.50% |
+| 15:30 | USD | Low | Dallas Fed Services Revenues (Feb) |  |  | 7.8 |
+| 15:30 | USD | Low | Texas Services Sector Outlook (Feb) |  |  | 2.7 |
+| 16:00 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
+| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 3.1% | 3.1% |
+| 17:45 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 18:00 | USD | Moderate | 2-Year Note Auction |  |  | 3.580% |
+| 18:00 | USD | Low | M2 Money Supply (MoM) (Jan) |  |  | 22.40T |
+| 20:15 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 20:20 | USD | Low | Fed Collins Speaks |  |  |  |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -0.609M |
+| 23:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) |  | 2.6% | 2.6% |

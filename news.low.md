@@ -1,31 +1,44 @@
-## 23 February 2026 - Low Impact Forex News
+## 24 February 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | NZD | Credit Card Spending (YoY) (Jan) | 1.0% |  | -0.2% |
-| 03:00 | IDR | M2 Money Supply (YoY) (Jan) | 10.00% |  | 9.60% |
-| 05:00 | SGD | CPI (MoM) (Jan) | -0.50% |  | 0.30% |
-| 07:30 | CHF | PPI (YoY) (Jan) | -2.2% |  | -1.8% |
-| 08:00 | CHF | M3 Money Supply (Jan) | 1,212.0B |  | 1,209.0B |
-| 09:00 | EUR | Italian CPI (MoM) (Jan) | 0.4% | 0.4% | 0.2% |
-| 09:00 | EUR | Italian CPI (YoY) (Jan) | 1.0% | 1.0% | 1.2% |
-| 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Jan) | -17.0% |  | 1.1% |
-| 09:00 | EUR | Italian HICP (YoY) (Jan) | 1.0% | 1.0% | 1.2% |
-| 09:00 | EUR | Italian HICP (MoM) (Jan) | -1.0% | -1.0% | 0.2% |
-| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:00 | MXN | Economic Activity (MoM) (Dec) | 0.40% | 0.20% | -0.10% |
-| 12:00 | MXN | Economic Activity (YoY) (Dec) | 3.30% | 2.60% | -0.10% |
-| 13:29 | USD | Chicago Fed National Activity (Dec) | -0.21 |  | -0.04 |
-| 13:30 | USD | Chicago Fed National Activity (Jan) | 0.18 |  | -0.15 |
-| 14:00 | EUR | French 12-Month BTF Auction | 2.055% |  | 2.040% |
-| 14:00 | EUR | French 3-Month BTF Auction | 2.008% |  | 2.004% |
-| 14:00 | EUR | French 6-Month BTF Auction | 2.027% |  | 2.026% |
-| 15:00 | USD | Durables Excluding Defense (MoM) (Dec) | -2.4% | -2.5% | -2.5% |
-| 15:00 | USD | Durables Excluding Transport (MoM) (Dec) | 1.0% |  | 0.9% |
-| 15:00 | USD | Factory orders ex transportation (MoM) (Dec) | 0.4% |  | 0.1% |
-| 15:30 | USD | Dallas Fed Mfg Business Index (Feb) | 0.2 |  | -1.2 |
-| 16:30 | USD | 3-Month Bill Auction | 3.590% |  | 3.600% |
-| 16:30 | USD | 6-Month Bill Auction | 3.525% |  | 3.500% |
-| 21:00 | KRW | Consumer Confidence (Feb) | 112.1 |  | 110.8 |
-| 21:00 | KRW | PPI (MoM) (Jan) | 0.6% |  | 0.4% |
-| 21:00 | KRW | PPI (YoY) (Jan) | 1.9% |  | 1.9% |
+| 05:00 | GBP | Car Registration (MoM) (Jan) |  |  | -3.2% |
+| 05:00 | GBP | Car Registration (YoY) (Jan) |  |  | 3.9% |
+| 05:00 | EUR | Italian Car Registration (MoM) (Jan) |  |  | -13.0% |
+| 05:00 | EUR | Italian Car Registration (YoY) (Jan) |  |  | 2.3% |
+| 05:00 | EUR | German Car Registration (YoY) (Jan) |  |  | 9.7% |
+| 05:00 | EUR | German Car Registration (MoM) (Jan) |  |  | -1.7% |
+| 05:00 | EUR | French Car Registration (MoM) (Jan) |  |  | 30.1% |
+| 05:00 | EUR | French Car Registration (YoY) (Jan) |  |  | -5.8% |
+| 05:30 | NOK | Consumer Confidence (Q1) |  |  | -3.70 |
+| 07:00 | NOK | M3 Money Supply (Jan) |  |  | 3,422.1B |
+| 07:00 | NOK | Credit Indicator (YoY) (Jan) |  |  | 4.4% |
+| 07:00 | ZAR | Leading Indicators (Dec) |  |  | 118.40% |
+| 07:45 | EUR | French Business Survey (Feb) |  | 104 | 105 |
+| 11:00 | GBP | CBI Distributive Trades Survey (Feb) |  | -26 | -17 |
+| 11:00 | CNY | FDI (Jan) |  |  | -9.50% |
+| 11:30 | BRL | Current Account (USD) (Jan) |  | -6.60B | -3.36B |
+| 11:30 | BRL | Foreign direct investment (USD) (Jan) |  | 7.00B | -5.25B |
+| 12:00 | MXN | 1st Half-Month Core CPI (Feb) |  | 0.27% | 0.43% |
+| 12:00 | MXN | 1st Half-Month CPI (Feb) |  | 0.21% | 0.31% |
+| 13:00 | USD | Fed Goolsbee Speaks |  |  |  |
+| 13:55 | USD | Redbook (YoY) |  |  | 7.2% |
+| 14:00 | USD | Fed Collins Speaks |  |  |  |
+| 14:00 | USD | House Price Index (YoY) (Dec) |  |  | 1.9% |
+| 14:00 | USD | House Price Index (MoM) (Dec) |  | 0.3% | 0.6% |
+| 14:00 | USD | House Price Index (Dec) |  |  | 439.3 |
+| 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Dec) |  |  | 0.5% |
+| 14:00 | BRL | FGV Consumer confidence (Feb) |  |  | 87.3 |
+| 14:35 | USD | Fed Governor Cook Speaks |  |  |  |
+| 15:00 | USD | Richmond Manufacturing Index (Feb) |  | -4 | -6 |
+| 15:00 | USD | Richmond Manufacturing Shipments (Feb) |  |  | -5 |
+| 15:00 | USD | Richmond Services Index (Feb) |  |  | -3 |
+| 15:00 | USD | Wholesale Inventories (MoM) (Dec) |  | 0.2% | 0.2% |
+| 15:00 | USD | Wholesale Trade Sales (MoM) (Dec) |  |  | 1.3% |
+| 15:30 | USD | Dallas Fed PCE (Dec) |  |  | 1.50% |
+| 15:30 | USD | Dallas Fed Services Revenues (Feb) |  |  | 7.8 |
+| 15:30 | USD | Texas Services Sector Outlook (Feb) |  |  | 2.7 |
+| 18:00 | USD | M2 Money Supply (MoM) (Jan) |  |  | 22.40T |
+| 20:15 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 20:20 | USD | Fed Collins Speaks |  |  |  |
+| 23:50 | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 2.6% | 2.6% |

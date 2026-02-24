@@ -1,3 +1,5 @@
-## 23 February 2026 - High Impact Forex News
+## 24 February 2026 - High Impact Forex News
 
-There is no high impact news today.
+| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 15:00 | USD | CB Consumer Confidence (Feb) |  | 87.6 | 84.5 |

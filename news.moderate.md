@@ -1,16 +1,18 @@
-## 23 February 2026 - Moderate Impact Forex News
+## 24 February 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | SGD | Core CPI (YoY) (Jan) | 1.00% |  | 1.20% |
-| 05:00 | SGD | CPI (YoY) (Jan) | 1.4% |  | 1.2% |
-| 07:30 | CHF | PPI (MoM) (Jan) | -0.2% | 0.1% | -0.2% |
-| 09:00 | EUR | German Business Expectations (Feb) | 90.5 | 90.5 | 89.6 |
-| 09:00 | EUR | German Current Assessment (Feb) | 86.7 | 86.1 | 85.7 |
-| 09:00 | EUR | German Ifo Business Climate Index (Feb) | 88.6 | 88.4 | 87.6 |
-| 10:00 | EUR | German Buba Balz Speaks |  |  |  |
-| 12:00 | MXN | GDP (YoY) (Q4) | 1.8% | 1.6% | -0.1% |
-| 12:00 | MXN | GDP (QoQ) (Q4) | 0.9% | 0.8% | -0.3% |
-| 13:00 | USD | Fed Waller Speaks |  |  |  |
-| 15:00 | USD | Factory Orders (MoM) (Dec) | -0.7% | -0.4% | 2.7% |
-| 17:30 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 01:00 | CNY | China Loan Prime Rate 5Y (Feb) | 3.50% | 3.50% | 3.50% |
+| 01:00 | CNY | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
+| 13:15 | USD | ADP Employment Change Weekly |  |  | 10.30K |
+| 14:00 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Dec) |  |  | 0.0% |
+| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Dec) |  | 1.3% | 1.4% |
+| 14:10 | USD | Fed Waller Speaks |  |  |  |
+| 14:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 14:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 16:00 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
+| 16:30 | USD | Atlanta Fed GDPNow (Q1) |  | 3.1% | 3.1% |
+| 17:45 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 18:00 | USD | 2-Year Note Auction |  |  | 3.580% |
+| 21:30 | USD | API Weekly Crude Oil Stock |  |  | -0.609M |
