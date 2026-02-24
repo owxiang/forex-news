@@ -15,13 +15,13 @@
 | 07:00 | NOK | Credit Indicator (YoY) (Jan) | 4.4% |  | 4.5% |
 | 07:00 | ZAR | Leading Indicators (Dec) | 117.20% |  | 118.39% |
 | 07:45 | EUR | French Business Survey (Feb) | 102 | 104 | 105 |
-| 37 min | GBP | CBI Distributive Trades Survey (Feb) |  | -27 | -17 |
-| 37 min | CNY | FDI (Jan) |  |  | -9.50% |
-| 11:30 | BRL | Current Account (USD) (Jan) |  | -6.60B | -3.36B |
-| 11:30 | BRL | Foreign direct investment (USD) (Jan) |  | 7.00B | -5.25B |
-| 12:00 | MXN | 1st Half-Month Core CPI (Feb) |  | 0.27% | 0.43% |
-| 12:00 | MXN | 1st Half-Month CPI (Feb) |  | 0.21% | 0.31% |
+| 11:00 | GBP | CBI Distributive Trades Survey (Feb) | -43 | -27 | -17 |
+| 10 min | BRL | Current Account (USD) (Jan) |  | -6.60B | -3.36B |
+| 10 min | BRL | Foreign direct investment (USD) (Jan) |  | 7.00B | -5.25B |
+| 40 min | MXN | 1st Half-Month Core CPI (Feb) |  | 0.27% | 0.43% |
+| 40 min | MXN | 1st Half-Month CPI (Feb) |  | 0.21% | 0.31% |
 | 13:00 | USD | Fed Goolsbee Speaks |  |  |  |
+| 13:00 | CNY | FDI (Jan) |  |  | -9.50% |
 | 13:30 | CAD | Manufacturing Sales (MoM) (Jan) |  |  | 0.6% |
 | 13:55 | USD | Redbook (YoY) |  |  | 7.2% |
 | 14:00 | USD | Fed Collins Speaks |  |  |  |
