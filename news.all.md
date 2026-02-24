@@ -33,21 +33,22 @@
 | 14:00 | USD | Low | House Price Index (MoM) (Dec) | 0.1% | 0.3% | 0.7% |
 | 14:00 | USD | Low | House Price Index (Dec) | 440.4 |  | 439.7 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Dec) | 0.5% |  | 0.5% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Dec) | 1.4% | 1.3% | 1.4% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Dec) | -0.1% |  | 0.0% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Dec) | 1.4% | 1.3% | 1.4% |
+| 14:00 | EUR | Low | Spanish Consumer Confidence | 80.5 |  | 75.9 |
 | 14:10 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 14:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 14:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 14:35 | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 15:00 | USD | High | CB Consumer Confidence (Feb) |  | 87.4 | 84.5 |
-| 15:00 | USD | Low | Richmond Manufacturing Index (Feb) |  | -8 | -6 |
-| 15:00 | USD | Low | Richmond Manufacturing Shipments (Feb) |  |  | -5 |
-| 15:00 | USD | Low | Richmond Services Index (Feb) |  |  | -3 |
-| 15:00 | USD | Low | Wholesale Inventories (MoM) (Dec) |  | 0.2% | 0.2% |
-| 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Dec) |  |  | 1.3% |
-| 15:30 | USD | Low | Dallas Fed Services Revenues (Feb) |  |  | 7.8 |
-| 15:30 | USD | Low | Texas Services Sector Outlook (Feb) |  |  | 2.7 |
-| 16:00 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
+| 15:00 | USD | High | CB Consumer Confidence (Feb) | 91.2 | 87.4 | 89.0 |
+| 15:00 | USD | Low | Richmond Manufacturing Index (Feb) | -10 | -8 | -6 |
+| 15:00 | USD | Low | Richmond Manufacturing Shipments (Feb) | -13 |  | -5 |
+| 15:00 | USD | Low | Richmond Services Index (Feb) | -8 |  | -3 |
+| 15:00 | USD | Low | Wholesale Inventories (MoM) (Dec) | 0.2% | 0.2% | 0.2% |
+| 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Dec) | 1.0% |  | 1.4% |
+| 5 min | USD | Low | Dallas Fed Services Revenues (Feb) |  |  | 7.8 |
+| 5 min | USD | Low | Texas Services Sector Outlook (Feb) |  |  | 2.7 |
+| 35 min | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 3.1% | 3.1% |
 | 17:30 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 17:45 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |

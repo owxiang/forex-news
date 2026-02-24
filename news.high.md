@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 15:00 | USD | CB Consumer Confidence (Feb) |  | 87.4 | 84.5 |
+| 15:00 | USD | CB Consumer Confidence (Feb) | 91.2 | 87.4 | 89.0 |

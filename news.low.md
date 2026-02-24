@@ -29,14 +29,15 @@
 | 14:00 | USD | House Price Index (MoM) (Dec) | 0.1% | 0.3% | 0.7% |
 | 14:00 | USD | House Price Index (Dec) | 440.4 |  | 439.7 |
 | 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Dec) | 0.5% |  | 0.5% |
+| 14:00 | EUR | Spanish Consumer Confidence | 80.5 |  | 75.9 |
 | 14:35 | USD | Fed Governor Cook Speaks |  |  |  |
-| 15:00 | USD | Richmond Manufacturing Index (Feb) |  | -8 | -6 |
-| 15:00 | USD | Richmond Manufacturing Shipments (Feb) |  |  | -5 |
-| 15:00 | USD | Richmond Services Index (Feb) |  |  | -3 |
-| 15:00 | USD | Wholesale Inventories (MoM) (Dec) |  | 0.2% | 0.2% |
-| 15:00 | USD | Wholesale Trade Sales (MoM) (Dec) |  |  | 1.3% |
-| 15:30 | USD | Dallas Fed Services Revenues (Feb) |  |  | 7.8 |
-| 15:30 | USD | Texas Services Sector Outlook (Feb) |  |  | 2.7 |
+| 15:00 | USD | Richmond Manufacturing Index (Feb) | -10 | -8 | -6 |
+| 15:00 | USD | Richmond Manufacturing Shipments (Feb) | -13 |  | -5 |
+| 15:00 | USD | Richmond Services Index (Feb) | -8 |  | -3 |
+| 15:00 | USD | Wholesale Inventories (MoM) (Dec) | 0.2% | 0.2% | 0.2% |
+| 15:00 | USD | Wholesale Trade Sales (MoM) (Dec) | 1.0% |  | 1.4% |
+| 5 min | USD | Dallas Fed Services Revenues (Feb) |  |  | 7.8 |
+| 5 min | USD | Texas Services Sector Outlook (Feb) |  |  | 2.7 |
 | 17:30 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 18:00 | USD | M2 Money Supply (MoM) (Jan) |  |  | 22.40T |
 | 20:15 | USD | FOMC Member Barkin Speaks |  |  |  |
