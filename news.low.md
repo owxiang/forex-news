@@ -41,5 +41,5 @@
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -2.4% |  | 1.6% |
 | 15:30 | USD | Gasoline Inventories | -1.011M |  | -3.213M |
 | 17:30 | BRL | Foreign Exchange Flows | 1.870B |  | 1.783B |
-| 23:50 | JPY | Foreign Bonds Buying |  |  | -489.5B |
-| 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 1,424.2B |
+| 35 min | JPY | Foreign Bonds Buying |  |  | -489.5B |
+| 35 min | JPY | Foreign Investments in Japanese Stocks |  |  | 1,424.2B |

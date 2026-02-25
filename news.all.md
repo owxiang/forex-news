@@ -57,5 +57,5 @@
 | 17:30 | BRL | Low | Foreign Exchange Flows | 1.870B |  | 1.783B |
 | 18:00 | USD | Moderate | 5-Year Note Auction | 3.615% |  | 3.823% |
 | 18:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -489.5B |
-| 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 1,424.2B |
+| 35 min | JPY | Low | Foreign Bonds Buying |  |  | -489.5B |
+| 35 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 1,424.2B |
