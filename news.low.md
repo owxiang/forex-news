@@ -1,45 +1,50 @@
-## 24 February 2026 - Low Impact Forex News
+## 25 February 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | GBP | Car Registration (MoM) (Jan) | -1.5% |  | -3.2% |
-| 05:00 | GBP | Car Registration (YoY) (Jan) | 3.4% |  | 3.9% |
-| 05:00 | EUR | Italian Car Registration (MoM) (Jan) | 31.4% |  | -13.0% |
-| 05:00 | EUR | Italian Car Registration (YoY) (Jan) | 6.2% |  | 2.3% |
-| 05:00 | EUR | German Car Registration (YoY) (Jan) | -6.6% |  | 9.7% |
-| 05:00 | EUR | German Car Registration (MoM) (Jan) | -21.3% |  | -1.7% |
-| 05:00 | EUR | French Car Registration (MoM) (Jan) | -38.0% |  | 30.1% |
-| 05:00 | EUR | French Car Registration (YoY) (Jan) | -6.6% |  | -5.8% |
-| 05:30 | NOK | Consumer Confidence (Q1) | -9.40 |  | -4.70 |
-| 07:00 | NOK | M3 Money Supply (Jan) | 3,474.8B |  | 3,422.1B |
-| 07:00 | NOK | Credit Indicator (YoY) (Jan) | 4.4% |  | 4.5% |
-| 07:00 | ZAR | Leading Indicators (Dec) | 117.20% |  | 118.39% |
-| 07:45 | EUR | French Business Survey (Feb) | 102 | 104 | 105 |
-| 11:00 | GBP | CBI Distributive Trades Survey (Feb) | -43 | -27 | -17 |
-| 11:30 | BRL | Current Account (USD) (Jan) | -8.36B | -6.60B | -3.36B |
-| 11:30 | BRL | Foreign direct investment (USD) (Jan) | 8.17B | 7.00B | -5.25B |
-| 12:00 | MXN | 1st Half-Month Core CPI (Feb) | 0.22% | 0.27% | 0.43% |
-| 12:00 | MXN | 1st Half-Month CPI (Feb) | 0.25% | 0.21% | 0.31% |
-| 13:00 | USD | Fed Goolsbee Speaks |  |  |  |
-| 13:00 | BRL | Federal Tax Revenue (Jan) | 325.75B |  | 292.72B |
-| 13:30 | CAD | Manufacturing Sales (MoM) (Jan) | -3.3% |  | 0.6% |
-| 13:55 | USD | Redbook (YoY) | 6.7% |  | 7.2% |
-| 14:00 | USD | Fed Collins Speaks |  |  |  |
-| 14:00 | USD | House Price Index (YoY) (Dec) | 1.8% |  | 2.1% |
-| 14:00 | USD | House Price Index (MoM) (Dec) | 0.1% | 0.3% | 0.7% |
-| 14:00 | USD | House Price Index (Dec) | 440.4 |  | 439.7 |
-| 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Dec) | 0.5% |  | 0.5% |
-| 14:00 | EUR | Spanish Consumer Confidence (Jan) | 80.5 |  | 75.9 |
-| 14:35 | USD | Fed Governor Cook Speaks |  |  |  |
-| 15:00 | USD | Richmond Manufacturing Index (Feb) | -10 | -8 | -6 |
-| 15:00 | USD | Richmond Manufacturing Shipments (Feb) | -13 |  | -5 |
-| 15:00 | USD | Richmond Services Index (Feb) | -8 |  | -3 |
-| 15:00 | USD | Wholesale Inventories (MoM) (Dec) | 0.2% | 0.2% | 0.2% |
-| 15:00 | USD | Wholesale Trade Sales (MoM) (Dec) | 1.0% |  | 1.4% |
-| 15:30 | USD | Dallas Fed Services Revenues (Feb) | 4.1 |  | 7.8 |
-| 15:30 | USD | Texas Services Sector Outlook (Feb) | -3.2 |  | 2.7 |
-| 17:30 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
-| 18:00 | USD | M2 Money Supply (MoM) (Jan) | 22.44T |  | 22.40T |
-| 20:15 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 20:20 | USD | Fed Collins Speaks |  |  |  |
-| 37 min | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 2.6% | 2.6% |
+| 00:30 | AUD | CPI Index Number | 101.33 |  | 100.30 |
+| 00:30 | AUD | Trimmed Mean CPI (YoY) (Jan) | 3.4% | 3.3% | 3.4% |
+| 00:30 | AUD | Monthly CPI Indicator (YoY) (Jan) | 3.80% | 3.70% | 3.80% |
+| 00:30 | AUD | Weighted mean CPI (QoQ) (Jan) |  |  | 0.9% |
+| 00:30 | AUD | Weighted mean CPI (YoY) (Jan) | 3.6% |  | 3.2% |
+| 07:00 | NOK | Unemployment Rate (Jan) |  |  | 4.3% |
+| 07:45 | EUR | French Consumer Confidence (Feb) |  | 90 | 90 |
+| 08:00 | EUR | Spanish PPI (YoY) (Jan) |  |  | -3.0% |
+| 08:30 | HKD | CPI (MoM) (Jan) |  |  | 0.30% |
+| 08:30 | HKD | CPI (YoY) (Jan) |  |  | 1.40% |
+| 08:30 | HKD | GDP (QoQ) (Q4) |  | 1.0% | 0.9% |
+| 08:30 | HKD | GDP (YoY) (Q4) |  | 3.8% | 3.7% |
+| 08:40 | AUD | RBA Gov Bullock Speaks |  |  |  |
+| 09:00 | CHF | ZEW Expectations (Feb) |  |  | -4.7 |
+| 10:00 | EUR | Core CPI (MoM) (Jan) |  | 2.3% | 0.3% |
+| 10:00 | EUR | CPI ex Tobacco (MoM) (Jan) |  |  | 0.2% |
+| 10:00 | EUR | CPI ex Tobacco (YoY) (Jan) |  |  | 1.9% |
+| 10:00 | EUR | CPI, n.s.a (Jan) |  | 100.08 | 129.54 |
+| 10:00 | EUR | HICP ex Energy & Food (YoY) (Jan) |  | 2.2% | 2.3% |
+| 10:00 | EUR | HICP ex Energy and Food (MoM) (Jan) |  | 2.3% | 0.2% |
+| 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 2.040% |
+| 11:00 | BRL | FGV Consumer confidence (Feb) |  |  | 87.3 |
+| 11:30 | INR | M3 Money Supply |  |  | 12.0% |
+| 11:30 | BRL | Bank lending (MoM) (Jan) |  |  | 1.8% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.17% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 2.8% |
+| 12:00 | USD | MBA Purchase Index |  |  | 157.1 |
+| 12:00 | USD | Mortgage Market Index |  |  | 339.0 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 1,375.9 |
+| 13:00 | CNY | FDI (Jan) |  |  | -9.50% |
+| 13:30 | CAD | Corporate Profits (QoQ) |  |  | 7.6% |
+| 14:30 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 15:00 | MXN | Current Account (USD) (Q4) |  |  | 2,325M |
+| 15:00 | MXN | Current Account % of GDP (Q4) |  |  | 0.50% |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.077M |
+| 15:30 | USD | Crude Oil Imports |  |  | -1.132M |
+| 15:30 | USD | Distillate Fuel Production |  |  | 0.028M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | -4.566M |
+| 15:30 | USD | Gasoline Production |  |  | 0.290M |
+| 15:30 | USD | Heating Oil Stockpiles |  |  | 0.362M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.6% |
+| 15:30 | USD | Gasoline Inventories |  |  | -3.213M |
+| 17:30 | BRL | Foreign Exchange Flows |  |  | 1.783B |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.960T |
+| 23:50 | JPY | Foreign Bonds Buying |  |  | -489.5B |
+| 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 1,424.2B |

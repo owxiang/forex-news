@@ -1,18 +1,17 @@
-## 24 February 2026 - Moderate Impact Forex News
+## 25 February 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:00 | CNY | China Loan Prime Rate 5Y (Feb) | 3.50% | 3.50% | 3.50% |
-| 01:00 | CNY | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
-| 13:15 | USD | ADP Employment Change Weekly | 12.80K |  | 11.50K |
-| 14:00 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Dec) | -0.1% |  | 0.0% |
-| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Dec) | 1.4% | 1.3% | 1.4% |
-| 14:10 | USD | Fed Waller Speaks |  |  |  |
-| 14:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 14:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 16:00 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 17:00 | USD | Atlanta Fed GDPNow (Q1) | 3.1% | 3.1% | 3.1% |
-| 17:45 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 18:00 | USD | 2-Year Note Auction | 3.455% |  | 3.580% |
-| 21:30 | USD | API Weekly Crude Oil Stock | 11.400M | 1.850M | -0.609M |
+| 00:30 | AUD | Construction Work Done (QoQ) (Q4) | -0.1% | 1.2% | -0.7% |
+| 00:30 | AUD | CPI (QoQ) (Jan) |  |  | 0.6% |
+| 00:30 | AUD | CPI (YoY) (Jan) | 3.8% |  | 3.6% |
+| 00:30 | AUD | Trimmed Mean CPI (QoQ) (Jan) |  |  | 0.9% |
+| 05:00 | JPY | BoJ Core CPI (YoY) |  | 1.8% | 1.9% |
+| 07:00 | EUR | German GDP (YoY) (Q4) |  | 0.4% | 0.3% |
+| 07:00 | EUR | GfK German Consumer Climate (Mar) |  | -23.0 | -24.1 |
+| 08:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
+| 10:00 | EUR | Core CPI (YoY) (Jan) |  | 2.2% | 2.3% |
+| 10:00 | EUR | CPI (MoM) (Jan) |  | -0.5% | 0.2% |
+| 15:30 | USD | Cushing Crude Oil Inventories |  |  | -1.095M |
+| 18:00 | USD | 5-Year Note Auction |  |  | 3.823% |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 6,613B |
