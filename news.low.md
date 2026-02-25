@@ -22,15 +22,16 @@
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Jan) | 2.1% | 2.2% | 2.3% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Jan) | -0.8% | 2.3% | 0.2% |
 | 10:45 | EUR | Italian 6-Month BOT Auction | 2.032% |  | 2.040% |
-| 11:30 | INR | M3 Money Supply |  |  | 12.0% |
-| 11:30 | BRL | Bank lending (MoM) (Jan) |  |  | 1.8% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.17% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 2.8% |
-| 12:00 | USD | MBA Purchase Index |  |  | 157.1 |
-| 12:00 | USD | Mortgage Market Index |  |  | 339.0 |
-| 12:00 | USD | Mortgage Refinance Index |  |  | 1,375.9 |
-| 13:00 | CNY | FDI (Jan) |  |  | -9.50% |
+| 11:00 | BRL | FGV Consumer confidence (Feb) | 86.1 |  | 87.3 |
+| 11:30 | BRL | Bank lending (MoM) (Jan) | -0.2% |  | 1.8% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.09% |  | 6.17% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | 0.4% |  | 2.8% |
+| 12:00 | USD | MBA Purchase Index | 149.7 |  | 157.1 |
+| 12:00 | USD | Mortgage Market Index | 340.2 |  | 339.0 |
+| 12:00 | USD | Mortgage Refinance Index | 1,432.9 |  | 1,375.9 |
+| 37 min | CNY | FDI (Jan) |  |  | -9.50% |
 | 13:30 | CAD | Corporate Profits (QoQ) |  |  | 7.6% |
+| 13:30 | INR | M3 Money Supply |  |  | 12.0% |
 | 14:30 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 15:00 | MXN | Current Account (USD) (Q4) |  | 11,520M | 2,325M |
 | 15:00 | MXN | Current Account % of GDP (Q4) |  |  | 0.50% |
