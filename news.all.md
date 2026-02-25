@@ -44,17 +44,17 @@
 | 14:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 15:00 | MXN | Low | Current Account (USD) (Q4) | 7,702M | 11,520M | 2,325M |
 | 15:00 | MXN | Low | Current Account % of GDP (Q4) | 1.60% |  | 0.50% |
-| 4 min | USD | High | Crude Oil Inventories |  | 1.800M | -9.014M |
-| 4 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.077M |
-| 4 min | USD | Low | Crude Oil Imports |  |  | -1.132M |
-| 4 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -1.095M |
-| 4 min | USD | Low | Distillate Fuel Production |  |  | 0.028M |
-| 4 min | USD | Low | EIA Weekly Distillates Stocks |  |  | -4.566M |
-| 4 min | USD | Low | Gasoline Production |  |  | 0.290M |
-| 4 min | USD | Low | Heating Oil Stockpiles |  |  | 0.362M |
-| 4 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.6% |
-| 4 min | USD | Low | Gasoline Inventories |  |  | -3.213M |
-| 17:30 | BRL | Low | Foreign Exchange Flows |  |  | 1.783B |
+| 15:30 | USD | High | Crude Oil Inventories | 15.989M | 1.800M | -9.014M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | -0.416M |  | 0.077M |
+| 15:30 | USD | Low | Crude Oil Imports | 0.412M |  | -1.132M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | 0.881M |  | -1.095M |
+| 15:30 | USD | Low | Distillate Fuel Production | -0.136M |  | 0.028M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks | 0.252M |  | -4.566M |
+| 15:30 | USD | Low | Gasoline Production | -0.223M |  | 0.290M |
+| 15:30 | USD | Low | Heating Oil Stockpiles | -0.119M |  | 0.362M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -2.4% |  | 1.6% |
+| 15:30 | USD | Low | Gasoline Inventories | -1.011M |  | -3.213M |
+| 59 min | BRL | Low | Foreign Exchange Flows |  |  | 1.783B |
 | 18:00 | USD | Moderate | 5-Year Note Auction |  |  | 3.823% |
 | 18:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,613B |

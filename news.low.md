@@ -32,15 +32,15 @@
 | 14:30 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 15:00 | MXN | Current Account (USD) (Q4) | 7,702M | 11,520M | 2,325M |
 | 15:00 | MXN | Current Account % of GDP (Q4) | 1.60% |  | 0.50% |
-| 4 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.077M |
-| 4 min | USD | Crude Oil Imports |  |  | -1.132M |
-| 4 min | USD | Distillate Fuel Production |  |  | 0.028M |
-| 4 min | USD | EIA Weekly Distillates Stocks |  |  | -4.566M |
-| 4 min | USD | Gasoline Production |  |  | 0.290M |
-| 4 min | USD | Heating Oil Stockpiles |  |  | 0.362M |
-| 4 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.6% |
-| 4 min | USD | Gasoline Inventories |  |  | -3.213M |
-| 17:30 | BRL | Foreign Exchange Flows |  |  | 1.783B |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) | -0.416M |  | 0.077M |
+| 15:30 | USD | Crude Oil Imports | 0.412M |  | -1.132M |
+| 15:30 | USD | Distillate Fuel Production | -0.136M |  | 0.028M |
+| 15:30 | USD | EIA Weekly Distillates Stocks | 0.252M |  | -4.566M |
+| 15:30 | USD | Gasoline Production | -0.223M |  | 0.290M |
+| 15:30 | USD | Heating Oil Stockpiles | -0.119M |  | 0.362M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -2.4% |  | 1.6% |
+| 15:30 | USD | Gasoline Inventories | -1.011M |  | -3.213M |
+| 59 min | BRL | Foreign Exchange Flows |  |  | 1.783B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.960T |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | -489.5B |
 | 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 1,424.2B |
