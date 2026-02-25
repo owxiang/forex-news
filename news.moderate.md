@@ -14,4 +14,3 @@
 | 15:30 | USD | Cushing Crude Oil Inventories | 0.881M |  | -1.095M |
 | 18:00 | USD | 5-Year Note Auction | 3.615% |  | 3.823% |
 | 18:00 | EUR | German Buba Balz Speaks |  |  |  |
-| 14 min | USD | Fed's Balance Sheet |  |  | 6,613B |
