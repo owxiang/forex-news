@@ -8,7 +8,7 @@
 | 00:30 | AUD | Weighted mean CPI (YoY) (Jan) | 3.6% |  | 3.2% |
 | 03:35 | HKD | GDP (QoQ) (Q4) | 1.0% | 1.0% | 0.9% |
 | 03:35 | HKD | GDP (YoY) (Q4) | 3.8% | 3.8% | 3.7% |
-| 07:00 | NOK | Unemployment Rate (Jan) |  |  | 4.3% |
+| 28 min | NOK | Unemployment Rate (Jan) |  |  | 4.3% |
 | 07:45 | EUR | French Consumer Confidence (Feb) |  | 90 | 90 |
 | 08:00 | EUR | Spanish PPI (YoY) (Jan) |  |  | -3.0% |
 | 08:30 | HKD | CPI (MoM) (Jan) |  |  | 0.30% |
