@@ -40,10 +40,10 @@
 | 12:00 | USD | Low | MBA Purchase Index | 149.7 |  | 157.1 |
 | 12:00 | USD | Low | Mortgage Market Index | 340.2 |  | 339.0 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 1,432.9 |  | 1,375.9 |
-| 37 min | CNY | Low | FDI (Jan) |  |  | -9.50% |
-| 13:30 | CAD | Low | Corporate Profits (QoQ) |  |  | 7.6% |
-| 13:30 | INR | Low | M3 Money Supply |  |  | 12.0% |
+| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Jan) | -0.6% |  | 2.0% |
+| 14:00 | INR | Low | M3 Money Supply |  |  | 12.0% |
 | 14:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 14:30 | CAD | Low | Corporate Profits (QoQ) |  |  | 7.6% |
 | 15:00 | MXN | Low | Current Account (USD) (Q4) |  | 11,520M | 2,325M |
 | 15:00 | MXN | Low | Current Account % of GDP (Q4) |  |  | 0.50% |
 | 15:30 | USD | High | Crude Oil Inventories |  | 1.800M | -9.014M |

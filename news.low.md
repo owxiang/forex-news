@@ -29,10 +29,9 @@
 | 12:00 | USD | MBA Purchase Index | 149.7 |  | 157.1 |
 | 12:00 | USD | Mortgage Market Index | 340.2 |  | 339.0 |
 | 12:00 | USD | Mortgage Refinance Index | 1,432.9 |  | 1,375.9 |
-| 37 min | CNY | FDI (Jan) |  |  | -9.50% |
-| 13:30 | CAD | Corporate Profits (QoQ) |  |  | 7.6% |
-| 13:30 | INR | M3 Money Supply |  |  | 12.0% |
+| 14:00 | INR | M3 Money Supply |  |  | 12.0% |
 | 14:30 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 14:30 | CAD | Corporate Profits (QoQ) |  |  | 7.6% |
 | 15:00 | MXN | Current Account (USD) (Q4) |  | 11,520M | 2,325M |
 | 15:00 | MXN | Current Account % of GDP (Q4) |  |  | 0.50% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.077M |
