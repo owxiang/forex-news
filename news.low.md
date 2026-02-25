@@ -9,12 +9,12 @@
 | 03:35 | HKD | GDP (QoQ) (Q4) | 1.0% | 1.0% | 0.9% |
 | 03:35 | HKD | GDP (YoY) (Q4) | 3.8% | 3.8% | 3.7% |
 | 07:00 | NOK | Unemployment Rate (Jan) | 4.6% |  | 4.3% |
-| 18 min | EUR | French Consumer Confidence (Feb) |  | 90 | 90 |
-| 33 min | EUR | Spanish PPI (YoY) (Jan) |  |  | -3.0% |
-| 08:30 | HKD | CPI (MoM) (Jan) |  |  | 0.30% |
-| 08:30 | HKD | CPI (YoY) (Jan) |  | 1.20% | 1.40% |
-| 08:40 | AUD | RBA Gov Bullock Speaks |  |  |  |
-| 09:00 | CHF | ZEW Expectations (Feb) |  |  | -4.7 |
+| 07:45 | EUR | French Consumer Confidence (Feb) | 91 | 90 | 90 |
+| 08:00 | EUR | Spanish PPI (YoY) (Jan) | -2.9% |  | -3.0% |
+| 9 min | HKD | CPI (MoM) (Jan) |  |  | 0.30% |
+| 9 min | HKD | CPI (YoY) (Jan) |  | 1.20% | 1.40% |
+| 19 min | AUD | RBA Gov Bullock Speaks |  |  |  |
+| 39 min | CHF | ZEW Expectations (Feb) |  |  | -4.7 |
 | 10:00 | EUR | Core CPI (MoM) (Jan) |  | 2.3% | 0.3% |
 | 10:00 | EUR | CPI ex Tobacco (MoM) (Jan) |  |  | 0.2% |
 | 10:00 | EUR | CPI ex Tobacco (YoY) (Jan) |  |  | 1.9% |

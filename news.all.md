@@ -16,13 +16,13 @@
 | 07:00 | EUR | Moderate | German GDP (YoY) (Q4) | 0.4% | 0.4% | 0.3% |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Mar) | -24.7 | -23.0 | -24.2 |
 | 07:00 | NOK | Low | Unemployment Rate (Jan) | 4.6% |  | 4.3% |
-| 18 min | EUR | Low | French Consumer Confidence (Feb) |  | 90 | 90 |
-| 33 min | EUR | Low | Spanish PPI (YoY) (Jan) |  |  | -3.0% |
-| 33 min | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
-| 08:30 | HKD | Low | CPI (MoM) (Jan) |  |  | 0.30% |
-| 08:30 | HKD | Low | CPI (YoY) (Jan) |  | 1.20% | 1.40% |
-| 08:40 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
-| 09:00 | CHF | Low | ZEW Expectations (Feb) |  |  | -4.7 |
+| 07:45 | EUR | Low | French Consumer Confidence (Feb) | 91 | 90 | 90 |
+| 08:00 | EUR | Low | Spanish PPI (YoY) (Jan) | -2.9% |  | -3.0% |
+| 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
+| 9 min | HKD | Low | CPI (MoM) (Jan) |  |  | 0.30% |
+| 9 min | HKD | Low | CPI (YoY) (Jan) |  | 1.20% | 1.40% |
+| 19 min | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
+| 39 min | CHF | Low | ZEW Expectations (Feb) |  |  | -4.7 |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Jan) |  | 2.2% | 2.3% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Jan) |  | 2.3% | 0.3% |
 | 10:00 | EUR | High | CPI (YoY) (Jan) |  | 1.7% | 1.9% |
