@@ -11,17 +11,17 @@
 | 07:00 | NOK | Unemployment Rate (Jan) | 4.6% |  | 4.3% |
 | 07:45 | EUR | French Consumer Confidence (Feb) | 91 | 90 | 90 |
 | 08:00 | EUR | Spanish PPI (YoY) (Jan) | -2.9% |  | -3.0% |
-| 9 min | HKD | CPI (MoM) (Jan) |  |  | 0.30% |
-| 9 min | HKD | CPI (YoY) (Jan) |  | 1.20% | 1.40% |
-| 19 min | AUD | RBA Gov Bullock Speaks |  |  |  |
-| 39 min | CHF | ZEW Expectations (Feb) |  |  | -4.7 |
-| 10:00 | EUR | Core CPI (MoM) (Jan) |  | 2.3% | 0.3% |
-| 10:00 | EUR | CPI ex Tobacco (MoM) (Jan) |  |  | 0.2% |
-| 10:00 | EUR | CPI ex Tobacco (YoY) (Jan) |  |  | 1.9% |
-| 10:00 | EUR | CPI, n.s.a (Jan) |  | 100.08 | 129.54 |
-| 10:00 | EUR | HICP ex Energy & Food (YoY) (Jan) |  | 2.2% | 2.3% |
-| 10:00 | EUR | HICP ex Energy and Food (MoM) (Jan) |  | 2.3% | 0.2% |
-| 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 2.040% |
+| 08:30 | HKD | CPI (MoM) (Jan) | 0.20% |  | 0.30% |
+| 08:30 | HKD | CPI (YoY) (Jan) | 1.10% | 1.20% | 1.40% |
+| 08:40 | AUD | RBA Gov Bullock Speaks |  |  |  |
+| 09:00 | CHF | ZEW Expectations (Feb) | 9.8 |  | -4.7 |
+| 37 min | EUR | Core CPI (MoM) (Jan) |  | 2.3% | 0.3% |
+| 37 min | EUR | CPI ex Tobacco (MoM) (Jan) |  |  | 0.2% |
+| 37 min | EUR | CPI ex Tobacco (YoY) (Jan) |  |  | 1.9% |
+| 37 min | EUR | CPI, n.s.a (Jan) |  | 100.08 | 129.54 |
+| 37 min | EUR | HICP ex Energy & Food (YoY) (Jan) |  | 2.2% | 2.3% |
+| 37 min | EUR | HICP ex Energy and Food (MoM) (Jan) |  | 2.3% | 0.2% |
+| 47 min | EUR | Italian 6-Month BOT Auction |  |  | 2.040% |
 | 11:00 | BRL | FGV Consumer confidence (Feb) |  |  | 87.3 |
 | 11:30 | INR | M3 Money Supply |  |  | 12.0% |
 | 11:30 | BRL | Bank lending (MoM) (Jan) |  |  | 1.8% |
