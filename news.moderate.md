@@ -11,7 +11,7 @@
 | 10:00 | EUR | Core CPI (YoY) (Jan) | 2.2% | 2.2% | 2.3% |
 | 10:00 | EUR | CPI (MoM) (Jan) | -0.6% | -0.5% | 0.2% |
 | 13:30 | CAD | Wholesale Sales (MoM) (Jan) | -0.6% |  | 2.0% |
-| 15:30 | USD | Cushing Crude Oil Inventories |  |  | -1.095M |
+| 4 min | USD | Cushing Crude Oil Inventories |  |  | -1.095M |
 | 18:00 | USD | 5-Year Note Auction |  |  | 3.823% |
 | 18:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,613B |
