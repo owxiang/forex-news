@@ -21,8 +21,7 @@
 | 10:00 | EUR | CPI, n.s.a (Jan) | 100.05 | 100.08 | 129.54 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Jan) | 2.1% | 2.2% | 2.3% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Jan) | -0.8% | 2.3% | 0.2% |
-| 7 min | EUR | Italian 6-Month BOT Auction |  |  | 2.040% |
-| 37 min | BRL | FGV Consumer confidence (Feb) |  |  | 87.3 |
+| 10:45 | EUR | Italian 6-Month BOT Auction | 2.032% |  | 2.040% |
 | 11:30 | INR | M3 Money Supply |  |  | 12.0% |
 | 11:30 | BRL | Bank lending (MoM) (Jan) |  |  | 1.8% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.17% |
