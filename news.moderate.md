@@ -8,8 +8,8 @@
 | 07:00 | EUR | German GDP (YoY) (Q4) | 0.4% | 0.4% | 0.3% |
 | 07:00 | EUR | GfK German Consumer Climate (Mar) | -24.7 | -23.0 | -24.2 |
 | 08:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
-| 37 min | EUR | Core CPI (YoY) (Jan) |  | 2.2% | 2.3% |
-| 37 min | EUR | CPI (MoM) (Jan) |  | -0.5% | 0.2% |
+| 10:00 | EUR | Core CPI (YoY) (Jan) | 2.2% | 2.2% | 2.3% |
+| 10:00 | EUR | CPI (MoM) (Jan) | -0.6% | -0.5% | 0.2% |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | -1.095M |
 | 18:00 | USD | 5-Year Note Auction |  |  | 3.823% |
 | 18:00 | EUR | German Buba Balz Speaks |  |  |  |

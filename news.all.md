@@ -23,17 +23,17 @@
 | 08:30 | HKD | Low | CPI (YoY) (Jan) | 1.10% | 1.20% | 1.40% |
 | 08:40 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
 | 09:00 | CHF | Low | ZEW Expectations (Feb) | 9.8 |  | -4.7 |
-| 37 min | EUR | Moderate | Core CPI (YoY) (Jan) |  | 2.2% | 2.3% |
-| 37 min | EUR | Low | Core CPI (MoM) (Jan) |  | 2.3% | 0.3% |
-| 37 min | EUR | High | CPI (YoY) (Jan) |  | 1.7% | 1.9% |
-| 37 min | EUR | Moderate | CPI (MoM) (Jan) |  | -0.5% | 0.2% |
-| 37 min | EUR | Low | CPI ex Tobacco (MoM) (Jan) |  |  | 0.2% |
-| 37 min | EUR | Low | CPI ex Tobacco (YoY) (Jan) |  |  | 1.9% |
-| 37 min | EUR | Low | CPI, n.s.a (Jan) |  | 100.08 | 129.54 |
-| 37 min | EUR | Low | HICP ex Energy & Food (YoY) (Jan) |  | 2.2% | 2.3% |
-| 37 min | EUR | Low | HICP ex Energy and Food (MoM) (Jan) |  | 2.3% | 0.2% |
-| 47 min | EUR | Low | Italian 6-Month BOT Auction |  |  | 2.040% |
-| 11:00 | BRL | Low | FGV Consumer confidence (Feb) |  |  | 87.3 |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Jan) | 2.2% | 2.2% | 2.3% |
+| 10:00 | EUR | Low | Core CPI (MoM) (Jan) | -1.1% | 2.3% | 0.3% |
+| 10:00 | EUR | High | CPI (YoY) (Jan) | 1.7% | 1.7% | 1.9% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Jan) | -0.6% | -0.5% | 0.2% |
+| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Jan) | -0.6% |  | 0.2% |
+| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Jan) | 1.6% |  | 1.9% |
+| 10:00 | EUR | Low | CPI, n.s.a (Jan) | 100.05 | 100.08 | 129.54 |
+| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jan) | 2.1% | 2.2% | 2.3% |
+| 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jan) | -0.8% | 2.3% | 0.2% |
+| 7 min | EUR | Low | Italian 6-Month BOT Auction |  |  | 2.040% |
+| 37 min | BRL | Low | FGV Consumer confidence (Feb) |  |  | 87.3 |
 | 11:30 | INR | Low | M3 Money Supply |  |  | 12.0% |
 | 11:30 | BRL | Low | Bank lending (MoM) (Jan) |  |  | 1.8% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.17% |
