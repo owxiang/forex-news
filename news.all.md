@@ -3,16 +3,15 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | AUD | Moderate | Construction Work Done (QoQ) (Q4) | -0.1% | 1.2% | 0.1% |
-| 00:30 | AUD | Moderate | CPI (QoQ) |  |  | 0.6% |
 | 00:30 | AUD | Moderate | CPI (YoY) (Jan) | 3.8% | 3.7% | 3.8% |
 | 00:30 | AUD | Low | CPI Index Number (Jan) | 101.33 |  | 100.30 |
-| 00:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) |  |  | 0.9% |
 | 00:30 | AUD | Low | Trimmed Mean CPI (YoY) (Jan) | 3.4% | 3.3% | 3.4% |
 | 00:30 | AUD | Low | Monthly CPI Indicator (YoY) (Jan) | 3.80% | 3.70% | 3.80% |
-| 00:30 | AUD | Low | Weighted mean CPI (QoQ) |  |  | 0.9% |
 | 00:30 | AUD | Low | Weighted mean CPI (YoY) (Jan) | 3.6% |  | 3.2% |
 | 02:00 | USD | High | U.S. President Trump Speaks |  |  |  |
-| 05:00 | JPY | Moderate | BoJ Core CPI (YoY) |  | 1.8% | 1.9% |
+| 03:35 | HKD | Low | GDP (QoQ) (Q4) | 1.0% | 1.0% | 0.9% |
+| 03:35 | HKD | Low | GDP (YoY) (Q4) | 3.8% | 3.8% | 3.7% |
+| 05:00 | JPY | Moderate | BoJ Core CPI (YoY) | 1.7% | 1.8% | 1.9% |
 | 07:00 | EUR | High | German GDP (QoQ) (Q4) |  | 0.3% | 0.0% |
 | 07:00 | EUR | Moderate | German GDP (YoY) (Q4) |  | 0.4% | 0.3% |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Mar) |  | -23.0 | -24.1 |
@@ -21,9 +20,7 @@
 | 08:00 | EUR | Low | Spanish PPI (YoY) (Jan) |  |  | -3.0% |
 | 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 08:30 | HKD | Low | CPI (MoM) (Jan) |  |  | 0.30% |
-| 08:30 | HKD | Low | CPI (YoY) (Jan) |  |  | 1.40% |
-| 08:30 | HKD | Low | GDP (QoQ) (Q4) | 1.0% | 1.0% | 0.9% |
-| 08:30 | HKD | Low | GDP (YoY) (Q4) | 3.8% | 3.8% | 3.7% |
+| 08:30 | HKD | Low | CPI (YoY) (Jan) |  | 1.20% | 1.40% |
 | 08:40 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
 | 09:00 | CHF | Low | ZEW Expectations (Feb) |  |  | -4.7 |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Jan) |  | 2.2% | 2.3% |
@@ -47,9 +44,9 @@
 | 13:00 | CNY | Low | FDI (Jan) |  |  | -9.50% |
 | 13:30 | CAD | Low | Corporate Profits (QoQ) |  |  | 7.6% |
 | 14:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 15:00 | MXN | Low | Current Account (USD) (Q4) |  |  | 2,325M |
+| 15:00 | MXN | Low | Current Account (USD) (Q4) |  | 11,520M | 2,325M |
 | 15:00 | MXN | Low | Current Account % of GDP (Q4) |  |  | 0.50% |
-| 15:30 | USD | High | Crude Oil Inventories |  |  | -9.014M |
+| 15:30 | USD | High | Crude Oil Inventories |  | 1.800M | -9.014M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.077M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | -1.132M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -1.095M |
@@ -61,6 +58,7 @@
 | 15:30 | USD | Low | Gasoline Inventories |  |  | -3.213M |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | 1.783B |
 | 18:00 | USD | Moderate | 5-Year Note Auction |  |  | 3.823% |
+| 18:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,613B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.960T |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -489.5B |
