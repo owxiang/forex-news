@@ -2,16 +2,16 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | AUD | Moderate | Construction Work Done (QoQ) (Q4) | -0.1% | 1.2% | -0.7% |
+| 00:30 | AUD | Moderate | Construction Work Done (QoQ) (Q4) | -0.1% | 1.2% | 0.1% |
 | 00:30 | AUD | Moderate | CPI (QoQ) (Jan) |  |  | 0.6% |
-| 00:30 | AUD | Moderate | CPI (YoY) (Jan) | 3.8% |  | 3.6% |
+| 00:30 | AUD | Moderate | CPI (YoY) (Jan) | 3.8% | 3.7% | 3.8% |
 | 00:30 | AUD | Low | CPI Index Number | 101.33 |  | 100.30 |
 | 00:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Jan) |  |  | 0.9% |
 | 00:30 | AUD | Low | Trimmed Mean CPI (YoY) (Jan) | 3.4% | 3.3% | 3.4% |
 | 00:30 | AUD | Low | Monthly CPI Indicator (YoY) (Jan) | 3.80% | 3.70% | 3.80% |
 | 00:30 | AUD | Low | Weighted mean CPI (QoQ) (Jan) |  |  | 0.9% |
 | 00:30 | AUD | Low | Weighted mean CPI (YoY) (Jan) | 3.6% |  | 3.2% |
-| 02:00 | USD | High | U.S. President Trump Speaks |  |  |  |
+| 22 min | USD | High | U.S. President Trump Speaks |  |  |  |
 | 05:00 | JPY | Moderate | BoJ Core CPI (YoY) |  | 1.8% | 1.9% |
 | 07:00 | EUR | High | German GDP (QoQ) (Q4) |  | 0.3% | 0.0% |
 | 07:00 | EUR | Moderate | German GDP (YoY) (Q4) |  | 0.4% | 0.3% |

@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Construction Work Done (QoQ) (Q4) | -0.1% | 1.2% | -0.7% |
+| 00:30 | AUD | Construction Work Done (QoQ) (Q4) | -0.1% | 1.2% | 0.1% |
 | 00:30 | AUD | CPI (QoQ) (Jan) |  |  | 0.6% |
-| 00:30 | AUD | CPI (YoY) (Jan) | 3.8% |  | 3.6% |
+| 00:30 | AUD | CPI (YoY) (Jan) | 3.8% | 3.7% | 3.8% |
 | 00:30 | AUD | Trimmed Mean CPI (QoQ) (Jan) |  |  | 0.9% |
 | 05:00 | JPY | BoJ Core CPI (YoY) |  | 1.8% | 1.9% |
 | 07:00 | EUR | German GDP (YoY) (Q4) |  | 0.4% | 0.3% |
