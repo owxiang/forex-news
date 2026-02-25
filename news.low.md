@@ -29,11 +29,10 @@
 | 12:00 | USD | MBA Purchase Index | 149.7 |  | 157.1 |
 | 12:00 | USD | Mortgage Market Index | 340.2 |  | 339.0 |
 | 12:00 | USD | Mortgage Refinance Index | 1,432.9 |  | 1,375.9 |
-| 14:00 | INR | M3 Money Supply |  |  | 12.0% |
-| 14:30 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 14:30 | CAD | Corporate Profits (QoQ) |  |  | 7.6% |
-| 15:00 | MXN | Current Account (USD) (Q4) |  | 11,520M | 2,325M |
-| 15:00 | MXN | Current Account % of GDP (Q4) |  |  | 0.50% |
+| 4 min | USD | FOMC Member Barkin Speaks |  |  |  |
+| 4 min | CAD | Corporate Profits (QoQ) |  |  | 7.6% |
+| 34 min | MXN | Current Account (USD) (Q4) |  | 11,520M | 2,325M |
+| 34 min | MXN | Current Account % of GDP (Q4) |  |  | 0.50% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.077M |
 | 15:30 | USD | Crude Oil Imports |  |  | -1.132M |
 | 15:30 | USD | Distillate Fuel Production |  |  | 0.028M |
