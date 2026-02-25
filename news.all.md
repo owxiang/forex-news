@@ -54,9 +54,9 @@
 | 15:30 | USD | Low | Heating Oil Stockpiles | -0.119M |  | 0.362M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -2.4% |  | 1.6% |
 | 15:30 | USD | Low | Gasoline Inventories | -1.011M |  | -3.213M |
-| 59 min | BRL | Low | Foreign Exchange Flows |  |  | 1.783B |
-| 18:00 | USD | Moderate | 5-Year Note Auction |  |  | 3.823% |
-| 18:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 2 min | BRL | Low | Foreign Exchange Flows |  |  | 1.783B |
+| 32 min | USD | Moderate | 5-Year Note Auction |  |  | 3.823% |
+| 32 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,613B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.960T |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -489.5B |
