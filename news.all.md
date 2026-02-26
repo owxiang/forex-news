@@ -15,8 +15,8 @@
 | 05:00 | JPY | Low | Leading Index (MoM) (Dec) | 1.1% | 0.3% | 0.1% |
 | 05:00 | SGD | Low | Industrial Production (YoY) (Jan) | 16.6% | 11.0% | 10.9% |
 | 05:00 | SGD | Low | Industrial Production (MoM) (Jan) | 5.3% | 4.5% | -0.3% |
-| 32 min | SGD | Low | GDP (QoQ) (Q4) |  | 1.9% | 2.4% |
 | 07:30 | CHF | Moderate | Employment Level (Q4) |  |  | 5.532M |
+| 31 min | SGD | Low | GDP (QoQ) (Q4) |  | 1.9% | 2.4% |
 | 08:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 09:00 | EUR | Low | Italian Business Confidence (Feb) |  |  | 89.2 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Feb) |  | 97.2 | 96.8 |
@@ -62,8 +62,6 @@
 | 23:30 | JPY | Low | Tokyo CPI (YoY) (Feb) |  |  | 1.5% |
 | 23:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Feb) |  |  | -0.3% |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -489.5B |
-| 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -489.5B |
-| 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 1,424.2B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 1,424.2B |
 | 23:50 | JPY | Moderate | Industrial Production (MoM) (Jan) |  | 5.5% | -0.1% |
 | 23:50 | JPY | Low | Industrial Production forecast 1m ahead (MoM) (Feb) |  |  | 9.3% |

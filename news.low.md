@@ -14,7 +14,7 @@
 | 05:00 | JPY | Leading Index (MoM) (Dec) | 1.1% | 0.3% | 0.1% |
 | 05:00 | SGD | Industrial Production (YoY) (Jan) | 16.6% | 11.0% | 10.9% |
 | 05:00 | SGD | Industrial Production (MoM) (Jan) | 5.3% | 4.5% | -0.3% |
-| 32 min | SGD | GDP (QoQ) (Q4) |  | 1.9% | 2.4% |
+| 31 min | SGD | GDP (QoQ) (Q4) |  | 1.9% | 2.4% |
 | 09:00 | EUR | Italian Business Confidence (Feb) |  |  | 89.2 |
 | 09:00 | EUR | Italian Consumer Confidence (Feb) |  | 97.2 | 96.8 |
 | 09:00 | EUR | M3 Money Supply (YoY) (Jan) |  | 2.9% | 2.8% |
@@ -50,8 +50,6 @@
 | 23:30 | JPY | Tokyo CPI (YoY) (Feb) |  |  | 1.5% |
 | 23:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Feb) |  |  | -0.3% |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | -489.5B |
-| 23:50 | JPY | Foreign Bonds Buying |  |  | -489.5B |
-| 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 1,424.2B |
 | 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 1,424.2B |
 | 23:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Feb) |  |  | 9.3% |
 | 23:50 | JPY | Industrial Production forecast 2m ahead (MoM) (Mar) |  |  | -4.3% |
