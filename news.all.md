@@ -33,14 +33,14 @@
 | 10:00 | EUR | Low | Selling Price Expectations (Feb) | 11.5 |  | 10.3 |
 | 10:00 | EUR | Low | Services Sentiment (Feb) | 5.0 | 7.5 | 7.2 |
 | 10:00 | EUR | Low | Industrial Sentiment (Feb) | -7.1 | -6.1 | -6.8 |
-| 10:30 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 3.44% |
-| 10:30 | EUR | Low | Italian 5-Year BTP Auction |  |  | 2.74% |
-| 11:00 | EUR | Low | Spanish Business Confidence (Feb) |  |  | -3.0 |
-| 11:00 | BRL | Low | IGP-M Inflation Index (MoM) (Feb) |  | -0.60% | 0.41% |
+| 10:10 | EUR | Moderate | Italian 10-Year BTP Auction | 3.31% |  | 3.44% |
+| 10:10 | EUR | Low | Italian 5-Year BTP Auction | 2.62% |  | 2.74% |
+| 11:00 | BRL | Low | IGP-M Inflation Index (MoM) (Feb) | -0.73% | -0.60% | 0.41% |
 | 11:30 | CAD | Low | Corporate Profits (QoQ) |  |  | 7.6% |
 | 12:00 | MXN | Low | Unemployment Rate (Jan) |  |  | 2.60% |
 | 12:00 | MXN | Low | Unemployment Rate n.s.a. (Jan) |  | 2.60% | 2.40% |
 | 12:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
+| 13:00 | EUR | Low | Spanish Business Confidence (Feb) |  |  | -3.0 |
 | 13:00 | CNY | Low | FDI (Jan) |  |  | -9.50% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,860K | 1,869K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 217K | 206K |
