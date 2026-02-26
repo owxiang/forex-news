@@ -44,13 +44,13 @@
 | 16:30 | USD | 4-Week Bill Auction | 3.625% |  | 3.625% |
 | 16:30 | USD | 8-Week Bill Auction | 3.630% |  | 3.630% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.004T |  | 2.960T |
-| 23:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Feb) |  |  | 1.4% |
-| 23:30 | JPY | Tokyo CPI (YoY) (Feb) |  |  | 1.5% |
-| 23:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Feb) |  |  | -0.3% |
-| 23:50 | JPY | Foreign Bonds Buying |  |  | -489.5B |
-| 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 1,424.2B |
-| 23:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Feb) |  |  | 9.3% |
-| 23:50 | JPY | Industrial Production forecast 2m ahead (MoM) (Mar) |  |  | -4.3% |
-| 23:50 | JPY | Large Retailers' Sales (MoM) (Jan) |  |  | -2.0% |
-| 23:50 | JPY | Large Scale Retail Sales YoY (YoY) (Jan) |  |  | 2.0% |
-| 23:50 | JPY | Retail Sales (YoY) (Jan) |  | 0.1% | -0.9% |
+| 17 min | JPY | CPI Tokyo Ex Food & Energy (YoY) (Feb) |  |  | 1.4% |
+| 17 min | JPY | Tokyo CPI (YoY) (Feb) |  |  | 1.5% |
+| 17 min | JPY | CPI Tokyo Ex Food and Energy (MoM) (Feb) |  |  | -0.3% |
+| 37 min | JPY | Foreign Bonds Buying |  |  | -489.5B |
+| 37 min | JPY | Foreign Investments in Japanese Stocks |  |  | 1,424.2B |
+| 37 min | JPY | Industrial Production forecast 1m ahead (MoM) (Feb) |  |  | 9.3% |
+| 37 min | JPY | Industrial Production forecast 2m ahead (MoM) (Mar) |  |  | -4.3% |
+| 37 min | JPY | Large Retailers' Sales (MoM) (Jan) |  |  | -2.0% |
+| 37 min | JPY | Large Scale Retail Sales YoY (YoY) (Jan) |  |  | 2.0% |
+| 37 min | JPY | Retail Sales (YoY) (Jan) |  | 0.1% | -0.9% |

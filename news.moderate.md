@@ -11,5 +11,5 @@
 | 15:00 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 18:00 | USD | 7-Year Note Auction | 3.790% |  | 4.018% |
 | 21:30 | USD | Fed's Balance Sheet | 6,614B |  | 6,613B |
-| 23:30 | JPY | Tokyo Core CPI (YoY) (Feb) |  | 1.7% | 2.0% |
-| 23:50 | JPY | Industrial Production (MoM) (Jan) |  | 5.5% | -0.1% |
+| 17 min | JPY | Tokyo Core CPI (YoY) (Feb) |  | 1.7% | 2.0% |
+| 37 min | JPY | Industrial Production (MoM) (Jan) |  | 5.5% | -0.1% |

@@ -54,15 +54,15 @@
 | 18:00 | USD | Moderate | 7-Year Note Auction | 3.790% |  | 4.018% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet | 6,614B |  | 6,613B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.004T |  | 2.960T |
-| 23:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Feb) |  |  | 1.4% |
-| 23:30 | JPY | Moderate | Tokyo Core CPI (YoY) (Feb) |  | 1.7% | 2.0% |
-| 23:30 | JPY | Low | Tokyo CPI (YoY) (Feb) |  |  | 1.5% |
-| 23:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Feb) |  |  | -0.3% |
-| 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -489.5B |
-| 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 1,424.2B |
-| 23:50 | JPY | Moderate | Industrial Production (MoM) (Jan) |  | 5.5% | -0.1% |
-| 23:50 | JPY | Low | Industrial Production forecast 1m ahead (MoM) (Feb) |  |  | 9.3% |
-| 23:50 | JPY | Low | Industrial Production forecast 2m ahead (MoM) (Mar) |  |  | -4.3% |
-| 23:50 | JPY | Low | Large Retailers' Sales (MoM) (Jan) |  |  | -2.0% |
-| 23:50 | JPY | Low | Large Scale Retail Sales YoY (YoY) (Jan) |  |  | 2.0% |
-| 23:50 | JPY | Low | Retail Sales (YoY) (Jan) |  | 0.1% | -0.9% |
+| 17 min | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Feb) |  |  | 1.4% |
+| 17 min | JPY | Moderate | Tokyo Core CPI (YoY) (Feb) |  | 1.7% | 2.0% |
+| 17 min | JPY | Low | Tokyo CPI (YoY) (Feb) |  |  | 1.5% |
+| 17 min | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Feb) |  |  | -0.3% |
+| 37 min | JPY | Low | Foreign Bonds Buying |  |  | -489.5B |
+| 37 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 1,424.2B |
+| 37 min | JPY | Moderate | Industrial Production (MoM) (Jan) |  | 5.5% | -0.1% |
+| 37 min | JPY | Low | Industrial Production forecast 1m ahead (MoM) (Feb) |  |  | 9.3% |
+| 37 min | JPY | Low | Industrial Production forecast 2m ahead (MoM) (Mar) |  |  | -4.3% |
+| 37 min | JPY | Low | Large Retailers' Sales (MoM) (Jan) |  |  | -2.0% |
+| 37 min | JPY | Low | Large Scale Retail Sales YoY (YoY) (Jan) |  |  | 2.0% |
+| 37 min | JPY | Low | Retail Sales (YoY) (Jan) |  | 0.1% | -0.9% |
