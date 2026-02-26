@@ -1,4 +1,4 @@
-## None - All Forex News
+## 26 February 2026 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
@@ -17,22 +17,22 @@
 | 05:00 | SGD | Low | Industrial Production (MoM) (Jan) | 5.3% | 4.5% | -0.3% |
 | 07:00 | SGD | Low | GDP (QoQ) (Q4) | 2.1% | 1.9% | 2.6% |
 | 07:30 | CHF | Moderate | Employment Level (Q4) | 5.544M |  | 5.532M |
-| 8 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 38 min | EUR | Low | Italian Business Confidence (Feb) |  |  | 89.2 |
-| 38 min | EUR | Low | Italian Consumer Confidence (Feb) |  | 97.2 | 96.8 |
-| 38 min | EUR | Low | M3 Money Supply (YoY) (Jan) |  | 2.9% | 2.8% |
-| 38 min | EUR | Low | M3 Money Supply (Jan) |  |  | 17,230.7B |
-| 38 min | EUR | Low | Loans to Non Financial Corporations (Jan) |  | 3.1% | 3.0% |
-| 38 min | EUR | Low | Private Sector Loans (YoY) (Jan) |  | 3.1% | 3.0% |
-| 09:30 | ZAR | Low | PPI (MoM) (Jan) |  |  | 0.2% |
-| 09:30 | ZAR | Low | PPI (YoY) (Jan) |  |  | 2.9% |
-| 10:00 | EUR | Low | Business and Consumer Survey (Feb) |  | 99.8 | 99.4 |
-| 10:00 | EUR | Low | Business Climate (Feb) |  |  | -0.41 |
-| 10:00 | EUR | Low | Consumer Confidence (Feb) |  | -12.2 | -12.4 |
-| 10:00 | EUR | Low | Consumer Inflation Expectation (Feb) |  |  | 24.1 |
-| 10:00 | EUR | Low | Selling Price Expectations (Feb) |  |  | 10.0 |
-| 10:00 | EUR | Low | Services Sentiment (Feb) |  | 7.5 | 7.2 |
-| 10:00 | EUR | Low | Industrial Sentiment (Feb) |  | -6.1 | -6.8 |
+| 08:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 09:00 | EUR | Low | Italian Business Confidence (Feb) | 88.5 |  | 89.2 |
+| 09:00 | EUR | Low | Italian Consumer Confidence (Feb) | 97.4 | 97.2 | 96.8 |
+| 09:00 | EUR | Low | M3 Money Supply (YoY) (Jan) | 3.3% | 2.9% | 2.8% |
+| 09:00 | EUR | Low | M3 Money Supply (Jan) | 17,344.7B |  | 17,230.7B |
+| 09:00 | EUR | Low | Loans to Non Financial Corporations (Jan) | 2.8% | 3.1% | 3.0% |
+| 09:00 | EUR | Low | Private Sector Loans (YoY) (Jan) | 3.0% | 3.1% | 3.0% |
+| 7 min | ZAR | Low | PPI (MoM) (Jan) |  |  | 0.2% |
+| 7 min | ZAR | Low | PPI (YoY) (Jan) |  |  | 2.9% |
+| 37 min | EUR | Low | Business and Consumer Survey (Feb) |  | 99.8 | 99.4 |
+| 37 min | EUR | Low | Business Climate (Feb) |  |  | -0.41 |
+| 37 min | EUR | Low | Consumer Confidence (Feb) |  | -12.2 | -12.4 |
+| 37 min | EUR | Low | Consumer Inflation Expectation (Feb) |  |  | 24.1 |
+| 37 min | EUR | Low | Selling Price Expectations (Feb) |  |  | 10.0 |
+| 37 min | EUR | Low | Services Sentiment (Feb) |  | 7.5 | 7.2 |
+| 37 min | EUR | Low | Industrial Sentiment (Feb) |  | -6.1 | -6.8 |
 | 10:30 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 3.44% |
 | 10:30 | EUR | Low | Italian 5-Year BTP Auction |  |  | 2.74% |
 | 11:00 | EUR | Low | Spanish Business Confidence (Feb) |  |  | -3.0 |

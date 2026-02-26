@@ -1,4 +1,4 @@
-## None - Low Impact Forex News
+## 26 February 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
@@ -15,21 +15,21 @@
 | 05:00 | SGD | Industrial Production (YoY) (Jan) | 16.6% | 11.0% | 10.9% |
 | 05:00 | SGD | Industrial Production (MoM) (Jan) | 5.3% | 4.5% | -0.3% |
 | 07:00 | SGD | GDP (QoQ) (Q4) | 2.1% | 1.9% | 2.6% |
-| 38 min | EUR | Italian Business Confidence (Feb) |  |  | 89.2 |
-| 38 min | EUR | Italian Consumer Confidence (Feb) |  | 97.2 | 96.8 |
-| 38 min | EUR | M3 Money Supply (YoY) (Jan) |  | 2.9% | 2.8% |
-| 38 min | EUR | M3 Money Supply (Jan) |  |  | 17,230.7B |
-| 38 min | EUR | Loans to Non Financial Corporations (Jan) |  | 3.1% | 3.0% |
-| 38 min | EUR | Private Sector Loans (YoY) (Jan) |  | 3.1% | 3.0% |
-| 09:30 | ZAR | PPI (MoM) (Jan) |  |  | 0.2% |
-| 09:30 | ZAR | PPI (YoY) (Jan) |  |  | 2.9% |
-| 10:00 | EUR | Business and Consumer Survey (Feb) |  | 99.8 | 99.4 |
-| 10:00 | EUR | Business Climate (Feb) |  |  | -0.41 |
-| 10:00 | EUR | Consumer Confidence (Feb) |  | -12.2 | -12.4 |
-| 10:00 | EUR | Consumer Inflation Expectation (Feb) |  |  | 24.1 |
-| 10:00 | EUR | Selling Price Expectations (Feb) |  |  | 10.0 |
-| 10:00 | EUR | Services Sentiment (Feb) |  | 7.5 | 7.2 |
-| 10:00 | EUR | Industrial Sentiment (Feb) |  | -6.1 | -6.8 |
+| 09:00 | EUR | Italian Business Confidence (Feb) | 88.5 |  | 89.2 |
+| 09:00 | EUR | Italian Consumer Confidence (Feb) | 97.4 | 97.2 | 96.8 |
+| 09:00 | EUR | M3 Money Supply (YoY) (Jan) | 3.3% | 2.9% | 2.8% |
+| 09:00 | EUR | M3 Money Supply (Jan) | 17,344.7B |  | 17,230.7B |
+| 09:00 | EUR | Loans to Non Financial Corporations (Jan) | 2.8% | 3.1% | 3.0% |
+| 09:00 | EUR | Private Sector Loans (YoY) (Jan) | 3.0% | 3.1% | 3.0% |
+| 7 min | ZAR | PPI (MoM) (Jan) |  |  | 0.2% |
+| 7 min | ZAR | PPI (YoY) (Jan) |  |  | 2.9% |
+| 37 min | EUR | Business and Consumer Survey (Feb) |  | 99.8 | 99.4 |
+| 37 min | EUR | Business Climate (Feb) |  |  | -0.41 |
+| 37 min | EUR | Consumer Confidence (Feb) |  | -12.2 | -12.4 |
+| 37 min | EUR | Consumer Inflation Expectation (Feb) |  |  | 24.1 |
+| 37 min | EUR | Selling Price Expectations (Feb) |  |  | 10.0 |
+| 37 min | EUR | Services Sentiment (Feb) |  | 7.5 | 7.2 |
+| 37 min | EUR | Industrial Sentiment (Feb) |  | -6.1 | -6.8 |
 | 10:30 | EUR | Italian 5-Year BTP Auction |  |  | 2.74% |
 | 11:00 | EUR | Spanish Business Confidence (Feb) |  |  | -3.0 |
 | 11:00 | BRL | IGP-M Inflation Index (MoM) (Feb) |  | -0.60% | 0.41% |
