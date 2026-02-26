@@ -49,9 +49,9 @@
 | 15:30 | USD | Low | Natural Gas Storage | -52B | -36B | -144B |
 | 16:00 | USD | Low | KC Fed Composite Index (Feb) | 5 |  | 0 |
 | 16:00 | USD | Low | KC Fed Manufacturing Index (Feb) | 10 |  | -2 |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.625% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.630% |
-| 18:00 | USD | Moderate | 7-Year Note Auction |  |  | 4.018% |
+| 16:30 | USD | Low | 4-Week Bill Auction | 3.625% |  | 3.625% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 3.630% |  | 3.630% |
+| 32 min | USD | Moderate | 7-Year Note Auction |  |  | 4.018% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,613B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.960T |
 | 23:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Feb) |  |  | 1.4% |
