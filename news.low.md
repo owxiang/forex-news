@@ -37,7 +37,7 @@
 | 12:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 13:00 | EUR | Spanish Business Confidence (Feb) | -2.6 |  | -3.1 |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 220.25K |  | 219.50K |
-| 13:30 | CAD | Average Weekly Earnings (YoY) (Dec) | 1.90% |  | 2.45% |
+| 13:30 | CAD | Average Weekly Earnings (YoY) (Dec) | 1.94% |  | 2.30% |
 | 15:30 | USD | Natural Gas Storage |  | -36B | -144B |
 | 16:00 | USD | KC Fed Composite Index (Feb) |  |  | 0 |
 | 16:00 | USD | KC Fed Manufacturing Index (Feb) |  |  | -2 |
