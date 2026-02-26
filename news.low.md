@@ -4,17 +4,17 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | NZD | ANZ Business Confidence (Feb) | 59.2 |  | 64.1 |
 | 00:00 | NZD | NBNZ Own Activity (Feb) | 52.6% |  | 51.6% |
-| 00:30 | AUD | Building Capital Expenditure (MoM) (Q4) | 2.3% |  | 2.1% |
+| 00:30 | AUD | Building Capital Expenditure (MoM) (Q4) | 2.3% |  | 2.3% |
 | 00:30 | AUD | Plant/Machinery Capital Expenditure (QoQ) (Q4) | -1.7% |  | 11.2% |
 | 00:30 | AUD | RBA Bulletin |  |  |  |
 | 01:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates |  |  |  |
 | 01:00 | KRW | Interest Rate Decision (Feb) | 2.50% | 2.50% | 2.50% |
-| 55 min | SGD | GDP (QoQ) (Q4) |  | 1.9% | 2.4% |
-| 05:00 | JPY | Coincident Indicator (MoM) (Dec) |  | -0.4% | -1.0% |
-| 05:00 | JPY | Leading Index (Dec) |  | 110.2 | 109.9 |
-| 05:00 | JPY | Leading Index (MoM) (Dec) |  | 0.3% | 0.1% |
-| 05:00 | SGD | Industrial Production (YoY) (Jan) |  | 11.0% | 8.3% |
-| 05:00 | SGD | Industrial Production (MoM) (Jan) |  | 4.5% | -13.3% |
+| 20 min | JPY | Coincident Indicator (MoM) (Dec) |  | -0.4% | -1.0% |
+| 20 min | JPY | Leading Index (Dec) |  | 110.2 | 109.9 |
+| 20 min | JPY | Leading Index (MoM) (Dec) |  | 0.3% | 0.1% |
+| 20 min | SGD | Industrial Production (YoY) (Jan) |  | 11.0% | 8.3% |
+| 20 min | SGD | Industrial Production (MoM) (Jan) |  | 4.5% | -13.3% |
+| 07:00 | SGD | GDP (QoQ) (Q4) |  | 1.9% | 2.4% |
 | 09:00 | EUR | Italian Business Confidence (Feb) |  |  | 89.2 |
 | 09:00 | EUR | Italian Consumer Confidence (Feb) |  | 97.2 | 96.8 |
 | 09:00 | EUR | M3 Money Supply (YoY) (Jan) |  | 2.9% | 2.8% |
