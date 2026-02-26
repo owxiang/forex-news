@@ -6,9 +6,8 @@
 | 07:30 | CHF | Employment Level (Q4) | 5.544M |  | 5.532M |
 | 08:30 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 10:10 | EUR | Italian 10-Year BTP Auction | 3.31% |  | 3.44% |
-| 13:30 | USD | Continuing Jobless Claims |  | 1,860K | 1,869K |
-| 13:30 | CAD | Current Account (Q4) |  | -8.2B | -9.7B |
-| 13:30 | CAD | Wholesale Sales (MoM) (Jan) |  |  | 2.0% |
+| 13:30 | USD | Continuing Jobless Claims | 1,833K | 1,860K | 1,864K |
+| 13:30 | CAD | Current Account (Q4) | -0.7B | -8.2B | -5.3B |
 | 15:00 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 18:00 | USD | 7-Year Note Auction |  |  | 4.018% |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,613B |

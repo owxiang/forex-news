@@ -10,10 +10,10 @@
 | 01:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates |  |  |  |
 | 01:00 | KRW | Interest Rate Decision (Feb) | 2.50% | 2.50% | 2.50% |
 | 05:00 | JPY | Coincident Indicator (MoM) (Dec) | -0.6% | -0.4% | -1.0% |
-| 05:00 | JPY | Leading Index (Dec) | 111.0 | 110.2 | 109.9 |
 | 05:00 | JPY | Leading Index (MoM) (Dec) | 1.1% | 0.3% | 0.1% |
-| 05:00 | SGD | Industrial Production (YoY) (Jan) | 16.6% | 11.0% | 10.9% |
+| 05:00 | JPY | Leading Index (Dec) | 111.0 | 110.2 | 109.9 |
 | 05:00 | SGD | Industrial Production (MoM) (Jan) | 5.3% | 4.5% | -0.3% |
+| 05:00 | SGD | Industrial Production (YoY) (Jan) | 16.6% | 11.0% | 10.9% |
 | 07:00 | SGD | GDP (QoQ) (Q4) | 2.1% | 1.9% | 2.6% |
 | 09:00 | EUR | Italian Business Confidence (Feb) | 88.5 |  | 89.2 |
 | 09:00 | EUR | Italian Consumer Confidence (Feb) | 97.4 | 97.2 | 96.8 |
@@ -35,10 +35,9 @@
 | 12:00 | MXN | Unemployment Rate (Jan) | 2.60% |  | 2.60% |
 | 12:00 | MXN | Unemployment Rate n.s.a. (Jan) | 2.70% | 2.60% | 2.40% |
 | 12:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
-| 37 min | EUR | Spanish Business Confidence (Feb) |  |  | -3.0 |
-| 37 min | CNY | FDI (Jan) |  |  | -9.50% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 219.00K |
-| 13:30 | CAD | Average Weekly Earnings (YoY) (Dec) |  |  | 2.45% |
+| 13:00 | EUR | Spanish Business Confidence (Feb) | -2.6 |  | -3.1 |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 220.25K |  | 219.50K |
+| 13:30 | CAD | Average Weekly Earnings (YoY) (Dec) | 1.90% |  | 2.45% |
 | 15:30 | USD | Natural Gas Storage |  | -36B | -144B |
 | 16:00 | USD | KC Fed Composite Index (Feb) |  |  | 0 |
 | 16:00 | USD | KC Fed Manufacturing Index (Feb) |  |  | -2 |

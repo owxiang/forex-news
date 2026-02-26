@@ -11,10 +11,10 @@
 | 01:00 | KRW | Low | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates |  |  |  |
 | 01:00 | KRW | Low | Interest Rate Decision (Feb) | 2.50% | 2.50% | 2.50% |
 | 05:00 | JPY | Low | Coincident Indicator (MoM) (Dec) | -0.6% | -0.4% | -1.0% |
-| 05:00 | JPY | Low | Leading Index (Dec) | 111.0 | 110.2 | 109.9 |
 | 05:00 | JPY | Low | Leading Index (MoM) (Dec) | 1.1% | 0.3% | 0.1% |
-| 05:00 | SGD | Low | Industrial Production (YoY) (Jan) | 16.6% | 11.0% | 10.9% |
+| 05:00 | JPY | Low | Leading Index (Dec) | 111.0 | 110.2 | 109.9 |
 | 05:00 | SGD | Low | Industrial Production (MoM) (Jan) | 5.3% | 4.5% | -0.3% |
+| 05:00 | SGD | Low | Industrial Production (YoY) (Jan) | 16.6% | 11.0% | 10.9% |
 | 07:00 | SGD | Low | GDP (QoQ) (Q4) | 2.1% | 1.9% | 2.6% |
 | 07:30 | CHF | Moderate | Employment Level (Q4) | 5.544M |  | 5.532M |
 | 08:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
@@ -39,14 +39,12 @@
 | 12:00 | MXN | Low | Unemployment Rate (Jan) | 2.60% |  | 2.60% |
 | 12:00 | MXN | Low | Unemployment Rate n.s.a. (Jan) | 2.70% | 2.60% | 2.40% |
 | 12:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 37 min | EUR | Low | Spanish Business Confidence (Feb) |  |  | -3.0 |
-| 37 min | CNY | Low | FDI (Jan) |  |  | -9.50% |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,860K | 1,869K |
-| 13:30 | USD | High | Initial Jobless Claims |  | 217K | 206K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 219.00K |
-| 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Dec) |  |  | 2.45% |
-| 13:30 | CAD | Moderate | Current Account (Q4) |  | -8.2B | -9.7B |
-| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Jan) |  |  | 2.0% |
+| 13:00 | EUR | Low | Spanish Business Confidence (Feb) | -2.6 |  | -3.1 |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,833K | 1,860K | 1,864K |
+| 13:30 | USD | High | Initial Jobless Claims | 212K | 217K | 208K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 220.25K |  | 219.50K |
+| 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Dec) | 1.90% |  | 2.45% |
+| 13:30 | CAD | Moderate | Current Account (Q4) | -0.7B | -8.2B | -5.3B |
 | 15:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage |  | -36B | -144B |
 | 16:00 | USD | Low | KC Fed Composite Index (Feb) |  |  | 0 |
