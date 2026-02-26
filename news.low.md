@@ -9,11 +9,11 @@
 | 00:30 | AUD | RBA Bulletin |  |  |  |
 | 01:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates |  |  |  |
 | 01:00 | KRW | Interest Rate Decision (Feb) | 2.50% | 2.50% | 2.50% |
-| 20 min | JPY | Coincident Indicator (MoM) (Dec) |  | -0.4% | -1.0% |
-| 20 min | JPY | Leading Index (Dec) |  | 110.2 | 109.9 |
-| 20 min | JPY | Leading Index (MoM) (Dec) |  | 0.3% | 0.1% |
-| 20 min | SGD | Industrial Production (YoY) (Jan) |  | 11.0% | 8.3% |
-| 20 min | SGD | Industrial Production (MoM) (Jan) |  | 4.5% | -13.3% |
+| 05:00 | JPY | Coincident Indicator (MoM) (Dec) | -0.6% | -0.4% | -1.0% |
+| 05:00 | JPY | Leading Index (Dec) | 111.0 | 110.2 | 109.9 |
+| 05:00 | JPY | Leading Index (MoM) (Dec) | 1.1% | 0.3% | 0.1% |
+| 05:00 | SGD | Industrial Production (YoY) (Jan) | 16.6% | 11.0% | 10.9% |
+| 05:00 | SGD | Industrial Production (MoM) (Jan) | 5.3% | 4.5% | -0.3% |
 | 07:00 | SGD | GDP (QoQ) (Q4) |  | 1.9% | 2.4% |
 | 09:00 | EUR | Italian Business Confidence (Feb) |  |  | 89.2 |
 | 09:00 | EUR | Italian Consumer Confidence (Feb) |  | 97.2 | 96.8 |
