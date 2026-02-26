@@ -8,9 +8,9 @@
 | 00:30 | AUD | Low | Plant/Machinery Capital Expenditure (QoQ) (Q4) | -1.7% |  | 11.5% |
 | 00:30 | AUD | Moderate | Private New Capital Expenditure (QoQ) (Q4) | 0.4% | -0.1% | 6.4% |
 | 00:30 | AUD | Low | RBA Bulletin |  |  |  |
-| 22 min | KRW | Low | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates |  |  |  |
-| 22 min | KRW | Low | Interest Rate Decision (Feb) |  | 2.50% | 2.50% |
-| 22 min | SGD | Low | GDP (QoQ) (Q4) |  | 1.9% | 2.4% |
+| 01:00 | KRW | Low | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates |  |  |  |
+| 01:00 | KRW | Low | Interest Rate Decision (Feb) | 2.50% | 2.50% | 2.50% |
+| 01:00 | SGD | Low | GDP (QoQ) (Q4) |  | 1.9% | 2.4% |
 | 05:00 | JPY | Low | Coincident Indicator (MoM) (Dec) |  | -0.4% | -1.0% |
 | 05:00 | JPY | Low | Leading Index (Dec) |  | 110.2 | 109.9 |
 | 05:00 | JPY | Low | Leading Index (MoM) (Dec) |  | 0.3% | 0.1% |
