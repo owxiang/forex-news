@@ -24,15 +24,15 @@
 | 09:00 | EUR | Low | M3 Money Supply (Jan) | 17,344.7B |  | 17,230.7B |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Jan) | 2.8% | 3.1% | 3.0% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) (Jan) | 3.0% | 3.1% | 3.0% |
-| 7 min | ZAR | Low | PPI (MoM) (Jan) |  |  | 0.2% |
-| 7 min | ZAR | Low | PPI (YoY) (Jan) |  |  | 2.9% |
-| 37 min | EUR | Low | Business and Consumer Survey (Feb) |  | 99.8 | 99.4 |
-| 37 min | EUR | Low | Business Climate (Feb) |  |  | -0.41 |
-| 37 min | EUR | Low | Consumer Confidence (Feb) |  | -12.2 | -12.4 |
-| 37 min | EUR | Low | Consumer Inflation Expectation (Feb) |  |  | 24.1 |
-| 37 min | EUR | Low | Selling Price Expectations (Feb) |  |  | 10.0 |
-| 37 min | EUR | Low | Services Sentiment (Feb) |  | 7.5 | 7.2 |
-| 37 min | EUR | Low | Industrial Sentiment (Feb) |  | -6.1 | -6.8 |
+| 09:30 | ZAR | Low | PPI (MoM) (Jan) | -0.2% |  | 0.2% |
+| 09:30 | ZAR | Low | PPI (YoY) (Jan) | 2.2% |  | 2.9% |
+| 10:00 | EUR | Low | Business and Consumer Survey (Feb) | 98.3 | 99.8 | 99.3 |
+| 10:00 | EUR | Low | Business Climate (Feb) | -0.36 |  | -0.38 |
+| 10:00 | EUR | Low | Consumer Confidence (Feb) | -12.2 | -12.2 | -12.4 |
+| 10:00 | EUR | Low | Consumer Inflation Expectation (Feb) | 25.8 |  | 24.2 |
+| 10:00 | EUR | Low | Selling Price Expectations (Feb) | 11.5 |  | 10.3 |
+| 10:00 | EUR | Low | Services Sentiment (Feb) | 5.0 | 7.5 | 7.2 |
+| 10:00 | EUR | Low | Industrial Sentiment (Feb) | -7.1 | -6.1 | -6.8 |
 | 10:30 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 3.44% |
 | 10:30 | EUR | Low | Italian 5-Year BTP Auction |  |  | 2.74% |
 | 11:00 | EUR | Low | Spanish Business Confidence (Feb) |  |  | -3.0 |
