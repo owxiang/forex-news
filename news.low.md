@@ -1,4 +1,4 @@
-## 26 February 2026 - Low Impact Forex News
+## None - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
@@ -14,13 +14,13 @@
 | 05:00 | JPY | Leading Index (MoM) (Dec) | 1.1% | 0.3% | 0.1% |
 | 05:00 | SGD | Industrial Production (YoY) (Jan) | 16.6% | 11.0% | 10.9% |
 | 05:00 | SGD | Industrial Production (MoM) (Jan) | 5.3% | 4.5% | -0.3% |
-| 31 min | SGD | GDP (QoQ) (Q4) |  | 1.9% | 2.4% |
-| 09:00 | EUR | Italian Business Confidence (Feb) |  |  | 89.2 |
-| 09:00 | EUR | Italian Consumer Confidence (Feb) |  | 97.2 | 96.8 |
-| 09:00 | EUR | M3 Money Supply (YoY) (Jan) |  | 2.9% | 2.8% |
-| 09:00 | EUR | M3 Money Supply (Jan) |  |  | 17,230.7B |
-| 09:00 | EUR | Loans to Non Financial Corporations (Jan) |  | 3.1% | 3.0% |
-| 09:00 | EUR | Private Sector Loans (YoY) (Jan) |  | 3.1% | 3.0% |
+| 07:00 | SGD | GDP (QoQ) (Q4) | 2.1% | 1.9% | 2.6% |
+| 38 min | EUR | Italian Business Confidence (Feb) |  |  | 89.2 |
+| 38 min | EUR | Italian Consumer Confidence (Feb) |  | 97.2 | 96.8 |
+| 38 min | EUR | M3 Money Supply (YoY) (Jan) |  | 2.9% | 2.8% |
+| 38 min | EUR | M3 Money Supply (Jan) |  |  | 17,230.7B |
+| 38 min | EUR | Loans to Non Financial Corporations (Jan) |  | 3.1% | 3.0% |
+| 38 min | EUR | Private Sector Loans (YoY) (Jan) |  | 3.1% | 3.0% |
 | 09:30 | ZAR | PPI (MoM) (Jan) |  |  | 0.2% |
 | 09:30 | ZAR | PPI (YoY) (Jan) |  |  | 2.9% |
 | 10:00 | EUR | Business and Consumer Survey (Feb) |  | 99.8 | 99.4 |

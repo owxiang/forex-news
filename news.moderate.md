@@ -1,10 +1,10 @@
-## 26 February 2026 - Moderate Impact Forex News
+## None - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Private New Capital Expenditure (QoQ) (Q4) | 0.4% | -0.1% | 6.4% |
-| 07:30 | CHF | Employment Level (Q4) |  |  | 5.532M |
-| 08:30 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 07:30 | CHF | Employment Level (Q4) | 5.544M |  | 5.532M |
+| 8 min | EUR | ECB President Lagarde Speaks |  |  |  |
 | 10:30 | EUR | Italian 10-Year BTP Auction |  |  | 3.44% |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,860K | 1,869K |
 | 13:30 | CAD | Current Account (Q4) |  | -8.2B | -9.7B |
