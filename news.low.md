@@ -5,11 +5,11 @@
 | 00:00 | NZD | ANZ Business Confidence (Feb) | 59.2 |  | 64.1 |
 | 00:00 | NZD | NBNZ Own Activity (Feb) | 52.6% |  | 51.6% |
 | 00:30 | AUD | Building Capital Expenditure (MoM) (Q4) | 2.3% |  | 2.1% |
-| 00:30 | AUD | Plant/Machinery Capital Expenditure (QoQ) (Q4) | -1.7% |  | 11.5% |
+| 00:30 | AUD | Plant/Machinery Capital Expenditure (QoQ) (Q4) | -1.7% |  | 11.2% |
 | 00:30 | AUD | RBA Bulletin |  |  |  |
 | 01:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates |  |  |  |
 | 01:00 | KRW | Interest Rate Decision (Feb) | 2.50% | 2.50% | 2.50% |
-| 01:00 | SGD | GDP (QoQ) (Q4) |  | 1.9% | 2.4% |
+| 55 min | SGD | GDP (QoQ) (Q4) |  | 1.9% | 2.4% |
 | 05:00 | JPY | Coincident Indicator (MoM) (Dec) |  | -0.4% | -1.0% |
 | 05:00 | JPY | Leading Index (Dec) |  | 110.2 | 109.9 |
 | 05:00 | JPY | Leading Index (MoM) (Dec) |  | 0.3% | 0.1% |
