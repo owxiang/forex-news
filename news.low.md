@@ -38,9 +38,9 @@
 | 13:00 | EUR | Spanish Business Confidence (Feb) | -2.6 |  | -3.1 |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 220.25K |  | 219.50K |
 | 13:30 | CAD | Average Weekly Earnings (YoY) (Dec) | 1.94% |  | 2.30% |
-| 7 min | USD | Natural Gas Storage |  | -36B | -144B |
-| 37 min | USD | KC Fed Composite Index (Feb) |  |  | 0 |
-| 37 min | USD | KC Fed Manufacturing Index (Feb) |  |  | -2 |
+| 15:30 | USD | Natural Gas Storage | -52B | -36B | -144B |
+| 16:00 | USD | KC Fed Composite Index (Feb) | 5 |  | 0 |
+| 16:00 | USD | KC Fed Manufacturing Index (Feb) | 10 |  | -2 |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.625% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 3.630% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.960T |
