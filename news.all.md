@@ -45,10 +45,10 @@
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 220.25K |  | 219.50K |
 | 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Dec) | 1.94% |  | 2.30% |
 | 13:30 | CAD | Moderate | Current Account (Q4) | -0.7B | -8.2B | -5.3B |
-| 35 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 15:30 | USD | Low | Natural Gas Storage |  | -36B | -144B |
-| 16:00 | USD | Low | KC Fed Composite Index (Feb) |  |  | 0 |
-| 16:00 | USD | Low | KC Fed Manufacturing Index (Feb) |  |  | -2 |
+| 15:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 7 min | USD | Low | Natural Gas Storage |  | -36B | -144B |
+| 37 min | USD | Low | KC Fed Composite Index (Feb) |  |  | 0 |
+| 37 min | USD | Low | KC Fed Manufacturing Index (Feb) |  |  | -2 |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.625% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.630% |
 | 18:00 | USD | Moderate | 7-Year Note Auction |  |  | 4.018% |
