@@ -14,7 +14,7 @@
 | 05:00 | JPY | Leading Index (MoM) (Dec) | 1.1% | 0.3% | 0.1% |
 | 05:00 | SGD | Industrial Production (YoY) (Jan) | 16.6% | 11.0% | 10.9% |
 | 05:00 | SGD | Industrial Production (MoM) (Jan) | 5.3% | 4.5% | -0.3% |
-| 07:00 | SGD | GDP (QoQ) (Q4) |  | 1.9% | 2.4% |
+| 32 min | SGD | GDP (QoQ) (Q4) |  | 1.9% | 2.4% |
 | 09:00 | EUR | Italian Business Confidence (Feb) |  |  | 89.2 |
 | 09:00 | EUR | Italian Consumer Confidence (Feb) |  | 97.2 | 96.8 |
 | 09:00 | EUR | M3 Money Supply (YoY) (Jan) |  | 2.9% | 2.8% |
