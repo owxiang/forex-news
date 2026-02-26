@@ -32,12 +32,11 @@
 | 10:00 | EUR | Industrial Sentiment (Feb) | -7.1 | -6.1 | -6.8 |
 | 10:10 | EUR | Italian 5-Year BTP Auction | 2.62% |  | 2.74% |
 | 11:00 | BRL | IGP-M Inflation Index (MoM) (Feb) | -0.73% | -0.60% | 0.41% |
-| 11:30 | CAD | Corporate Profits (QoQ) |  |  | 7.6% |
-| 12:00 | MXN | Unemployment Rate (Jan) |  |  | 2.60% |
-| 12:00 | MXN | Unemployment Rate n.s.a. (Jan) |  | 2.60% | 2.40% |
+| 12:00 | MXN | Unemployment Rate (Jan) | 2.60% |  | 2.60% |
+| 12:00 | MXN | Unemployment Rate n.s.a. (Jan) | 2.70% | 2.60% | 2.40% |
 | 12:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
-| 13:00 | EUR | Spanish Business Confidence (Feb) |  |  | -3.0 |
-| 13:00 | CNY | FDI (Jan) |  |  | -9.50% |
+| 37 min | EUR | Spanish Business Confidence (Feb) |  |  | -3.0 |
+| 37 min | CNY | FDI (Jan) |  |  | -9.50% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 219.00K |
 | 13:30 | CAD | Average Weekly Earnings (YoY) (Dec) |  |  | 2.45% |
 | 15:30 | USD | Natural Gas Storage |  | -36B | -144B |
