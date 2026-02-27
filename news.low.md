@@ -50,9 +50,8 @@
 | 09:00 | EUR | Spanish Current account (Dec) | 1.80B |  | 0.21B |
 | 09:00 | NOK | Central Bank Currency Purchase (Mar) | -600.0M |  | -600.0M |
 | 10:00 | EUR | Italian Trade Balance Non-EU (Jan) | 2.12B |  | 8.39B |
-| 12 min | INR | Federal Fiscal Deficit (Jan) |  |  | 8,558.42B |
-| 12 min | INR | GDP Annual |  |  | 7.4% |
-| 42 min | CNY | FDI (Jan) |  |  | -9.50% |
+| 10:00 | INR | Federal Fiscal Deficit (Jan) | 9,814.07B |  | 8,558.42B |
+| 10:46 | ZAR | Budget Balance (MoM) (Jan) | -69.69B |  | 38.44B |
 | 11:30 | INR | Bank Loan Growth |  |  | 14.6% |
 | 11:30 | INR | Deposit Growth |  |  | 12.5% |
 | 11:30 | INR | FX Reserves, USD |  |  | 725.73B |
@@ -63,8 +62,10 @@
 | 11:30 | BRL | Budget Surplus (Jan) |  |  | 6.251B |
 | 12:00 | MXN | Trade Balance (Jan) |  | -2.200B | 2.430B |
 | 12:00 | MXN | Trade Balance (USD) (Jan) |  |  | -0.860B |
+| 12:00 | INR | GDP Annual | 7.6% |  | 7.4% |
 | 12:00 | BRL | Mid-Month CPI (MoM) (Feb) |  | 0.60% | 0.20% |
 | 12:00 | BRL | Mid-Month CPI (YoY) (Feb) |  | 3.80% | 4.50% |
+| 12:00 | CNY | FDI (Jan) |  |  | -9.50% |
 | 12:00 | ZAR | Trade Balance (Jan) |  |  | 23.18B |
 | 13:00 | EUR | German HICP (MoM) (Feb) |  | 0.5% | -0.1% |
 | 13:00 | EUR | German HICP (YoY) (Feb) |  | 2.1% | 2.1% |
@@ -76,7 +77,6 @@
 | 16:00 | CAD | Budget Balance (Dec) |  |  | -8.02B |
 | 16:00 | CAD | Budget Balance (YoY) (Dec) |  |  | -26.39B |
 | 17:30 | BRL | CAGED Net Payroll Jobs (Jan) |  | 90.00K | -618.16K |
-| 17:37 | ZAR | Budget Balance (MoM) (Jan) |  |  | 38.44B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -2.7K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 59.3K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -7.8K |

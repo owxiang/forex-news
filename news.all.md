@@ -62,11 +62,10 @@
 | 09:00 | EUR | Low | Spanish Current account (Dec) | 1.80B |  | 0.21B |
 | 09:00 | NOK | Low | Central Bank Currency Purchase (Mar) | -600.0M |  | -600.0M |
 | 10:00 | EUR | Low | Italian Trade Balance Non-EU (Jan) | 2.12B |  | 8.39B |
-| 12 min | INR | Low | Federal Fiscal Deficit (Jan) |  |  | 8,558.42B |
-| 12 min | INR | Low | GDP Annual |  |  | 7.4% |
-| 12 min | INR | Moderate | GDP Quarterly (YoY) (Q3) |  | 7.2% | 8.2% |
-| 42 min | EUR | Moderate | France Jobseekers Total (Jan) |  |  | 3,117.4K |
-| 42 min | CNY | Low | FDI (Jan) |  |  | -9.50% |
+| 10:00 | INR | Low | Federal Fiscal Deficit (Jan) | 9,814.07B |  | 8,558.42B |
+| 10:30 | INR | Moderate | GDP Quarterly (YoY) (Q3) | 7.8% | 7.2% | 8.2% |
+| 10:46 | ZAR | Low | Budget Balance (MoM) (Jan) | -69.69B |  | 38.44B |
+| 11:00 | EUR | Moderate | France Jobseekers Total (Jan) | 3,090.5K |  | 3,117.4K |
 | 11:30 | CAD | Moderate | Wholesale Sales (MoM) (Jan) |  |  | 2.0% |
 | 11:30 | INR | Low | Bank Loan Growth |  |  | 14.6% |
 | 11:30 | INR | Low | Deposit Growth |  |  | 12.5% |
@@ -79,9 +78,11 @@
 | 11:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Jan) |  | 79.0% | 78.7% |
 | 12:00 | MXN | Low | Trade Balance (Jan) |  | -2.200B | 2.430B |
 | 12:00 | MXN | Low | Trade Balance (USD) (Jan) |  |  | -0.860B |
+| 12:00 | INR | Low | GDP Annual | 7.6% |  | 7.4% |
 | 12:00 | BRL | Low | Mid-Month CPI (MoM) (Feb) |  | 0.60% | 0.20% |
 | 12:00 | BRL | Low | Mid-Month CPI (YoY) (Feb) |  | 3.80% | 4.50% |
 | 12:00 | BRL | Moderate | Unemployment Rate (Jan) |  |  | 5.1% |
+| 12:00 | CNY | Low | FDI (Jan) |  |  | -9.50% |
 | 12:00 | ZAR | Low | Trade Balance (Jan) |  |  | 23.18B |
 | 13:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 13:00 | EUR | High | German CPI (MoM) (Feb) |  | 0.5% | 0.1% |
@@ -106,7 +107,6 @@
 | 16:00 | CAD | Low | Budget Balance (YoY) (Dec) |  |  | -26.39B |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 3.1% | 3.1% |
 | 17:30 | BRL | Low | CAGED Net Payroll Jobs (Jan) |  | 90.00K | -618.16K |
-| 17:37 | ZAR | Low | Budget Balance (MoM) (Jan) |  |  | 38.44B |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 409 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 551 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -42.4K |
