@@ -94,14 +94,15 @@
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Jan) | 0.3% |  | 0.3% |
 | 13:30 | CAD | Low | GDP Implicit Price (QoQ) (Q4) | 0.70% |  | 0.90% |
 | 13:30 | CAD | Moderate | GDP (MoM) (Dec) | 0.2% | 0.1% | 0.0% |
-| 13:30 | CAD | Moderate | GDP (MoM) (Jan) | 0.0% |  |  |
 | 13:30 | CAD | Moderate | GDP (QoQ) (Q4) | -0.2% |  | 0.6% |
 | 13:30 | CAD | Moderate | GDP (YoY) (Q4) | 0.72% |  | 1.58% |
 | 13:30 | CAD | Moderate | GDP Annualized (QoQ) (Q4) | -0.6% | 0.0% | 2.4% |
-| 26 min | USD | High | Chicago PMI (Feb) |  | 52.0 | 54.0 |
-| 41 min | USD | Moderate | Construction Spending (MoM) (Dec) |  | 0.2% | 0.5% |
-| 16:00 | CAD | Low | Budget Balance (Dec) |  |  | -8.02B |
-| 16:00 | CAD | Low | Budget Balance (YoY) (Dec) |  |  | -26.39B |
+| 13:31 | CAD | Moderate | GDP (MoM) (Jan) | 0.0% |  | 0.2% |
+| 14:45 | USD | High | Chicago PMI (Feb) | 57.7 | 52.0 | 54.0 |
+| 15:00 | USD | Moderate | Construction Spending (MoM) (Nov) | -0.2% |  | 0.5% |
+| 15:01 | USD | Moderate | Construction Spending (MoM) (Dec) | 0.3% | 0.2% | -0.2% |
+| 41 min | CAD | Low | Budget Balance (Dec) |  |  | -8.02B |
+| 41 min | CAD | Low | Budget Balance (YoY) (Dec) |  |  | -26.39B |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 3.1% | 3.1% |
 | 17:30 | BRL | Low | CAGED Net Payroll Jobs (Jan) |  | 90.00K | -618.16K |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 409 |
