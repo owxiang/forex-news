@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 07:45 | EUR | French Consumer Spending (MoM) (Jan) |  | 0.4% | -0.6% |
 | 07:45 | EUR | French CPI (MoM) (Feb) |  | 0.5% | -0.3% |
-| 07:45 | EUR | French GDP (QoQ) (Q4) |  | 0.2% | 0.5% |
+| 07:45 | EUR | French GDP (QoQ) (Q4) |  | 0.2% | 0.2% |
 | 07:45 | EUR | French GDP (YoY) (Q4) |  | 1.1% | 0.9% |
 | 07:45 | EUR | French HICP (MoM) (Feb) |  | 0.5% | -0.3% |
 | 08:00 | CHF | KOF Leading Indicators (Feb) |  | 103.0 | 102.5 |

@@ -10,16 +10,16 @@
 | 03:35 | JPY | Low | 2-Year JGB Auction | 1.244% |  | 1.253% |
 | 05:00 | JPY | Low | Construction Orders (YoY) (Jan) | 5.7% |  | 20.2% |
 | 05:00 | JPY | Low | Housing Starts (YoY) (Jan) | -0.4% | -1.9% | -1.3% |
-| 32 min | ZAR | Low | M3 Money Supply (YoY) (Jan) |  |  | 8.16% |
-| 32 min | ZAR | Low | Private Sector Credit (Jan) |  |  | 8.74% |
-| 07:00 | EUR | Low | German Import Price Index (MoM) (Jan) |  | 0.6% | -0.1% |
-| 07:00 | EUR | Low | German Import Price Index (YoY) (Jan) |  |  | -2.3% |
-| 07:00 | NOK | Low | Unemployment Rate n.s.a. (Feb) |  | 2.20% | 2.30% |
-| 07:00 | NOK | Low | Core Retail Sales (MoM) (Jan) |  |  | -0.7% |
+| 06:00 | ZAR | Low | M3 Money Supply (YoY) (Jan) | 7.44% |  | 8.16% |
+| 06:00 | ZAR | Low | Private Sector Credit (Jan) | 8.83% |  | 8.74% |
+| 36 min | EUR | Low | German Import Price Index (MoM) (Jan) |  | 0.6% | -0.1% |
+| 36 min | EUR | Low | German Import Price Index (YoY) (Jan) |  |  | -2.3% |
+| 36 min | NOK | Low | Unemployment Rate n.s.a. (Feb) |  | 2.20% | 2.30% |
+| 36 min | NOK | Low | Core Retail Sales (MoM) (Jan) |  |  | -0.7% |
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Jan) |  | 0.4% | -0.6% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Feb) |  | 0.5% | -0.3% |
 | 07:45 | EUR | Low | French CPI (YoY) (Feb) |  | 0.8% | 0.3% |
-| 07:45 | EUR | Moderate | French GDP (QoQ) (Q4) |  | 0.2% | 0.5% |
+| 07:45 | EUR | Moderate | French GDP (QoQ) (Q4) |  | 0.2% | 0.2% |
 | 07:45 | EUR | Moderate | French GDP (YoY) (Q4) |  | 1.1% | 0.9% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Feb) |  | 0.5% | -0.3% |
 | 07:45 | EUR | Low | French HICP (YoY) (Feb) |  | 0.7% | 0.4% |

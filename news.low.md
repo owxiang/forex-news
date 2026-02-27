@@ -10,12 +10,12 @@
 | 03:35 | JPY | 2-Year JGB Auction | 1.244% |  | 1.253% |
 | 05:00 | JPY | Construction Orders (YoY) (Jan) | 5.7% |  | 20.2% |
 | 05:00 | JPY | Housing Starts (YoY) (Jan) | -0.4% | -1.9% | -1.3% |
-| 32 min | ZAR | M3 Money Supply (YoY) (Jan) |  |  | 8.16% |
-| 32 min | ZAR | Private Sector Credit (Jan) |  |  | 8.74% |
-| 07:00 | EUR | German Import Price Index (MoM) (Jan) |  | 0.6% | -0.1% |
-| 07:00 | EUR | German Import Price Index (YoY) (Jan) |  |  | -2.3% |
-| 07:00 | NOK | Unemployment Rate n.s.a. (Feb) |  | 2.20% | 2.30% |
-| 07:00 | NOK | Core Retail Sales (MoM) (Jan) |  |  | -0.7% |
+| 06:00 | ZAR | M3 Money Supply (YoY) (Jan) | 7.44% |  | 8.16% |
+| 06:00 | ZAR | Private Sector Credit (Jan) | 8.83% |  | 8.74% |
+| 36 min | EUR | German Import Price Index (MoM) (Jan) |  | 0.6% | -0.1% |
+| 36 min | EUR | German Import Price Index (YoY) (Jan) |  |  | -2.3% |
+| 36 min | NOK | Unemployment Rate n.s.a. (Feb) |  | 2.20% | 2.30% |
+| 36 min | NOK | Core Retail Sales (MoM) (Jan) |  |  | -0.7% |
 | 07:45 | EUR | French CPI (YoY) (Feb) |  | 0.8% | 0.3% |
 | 07:45 | EUR | French HICP (YoY) (Feb) |  | 0.7% | 0.4% |
 | 07:45 | EUR | French Non-Farm Payrolls (QoQ) (Q4) |  | -0.1% | -0.1% |
