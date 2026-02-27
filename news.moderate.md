@@ -1,15 +1,42 @@
-## 26 February 2026 - Moderate Impact Forex News
+## 27 February 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Private New Capital Expenditure (QoQ) (Q4) | 0.4% | -0.1% | 6.4% |
-| 07:30 | CHF | Employment Level (Q4) | 5.544M |  | 5.532M |
-| 08:30 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 10:10 | EUR | Italian 10-Year BTP Auction | 3.31% |  | 3.44% |
-| 13:30 | USD | Continuing Jobless Claims | 1,833K | 1,860K | 1,864K |
-| 13:30 | CAD | Current Account (Q4) | -0.7B | -8.2B | -5.3B |
-| 15:00 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 18:00 | USD | 7-Year Note Auction | 3.790% |  | 4.018% |
-| 21:30 | USD | Fed's Balance Sheet | 6,614B |  | 6,613B |
-| 17 min | JPY | Tokyo Core CPI (YoY) (Feb) |  | 1.7% | 2.0% |
-| 37 min | JPY | Industrial Production (MoM) (Jan) |  | 5.5% | -0.1% |
+| 07:45 | EUR | French Consumer Spending (MoM) (Jan) |  | 0.4% | -0.6% |
+| 07:45 | EUR | French CPI (MoM) (Feb) |  | 0.5% | -0.3% |
+| 07:45 | EUR | French GDP (QoQ) (Q4) |  | 0.2% | 0.5% |
+| 07:45 | EUR | French GDP (YoY) (Q4) |  | 1.1% | 0.9% |
+| 07:45 | EUR | French HICP (MoM) (Feb) |  | 0.5% | -0.3% |
+| 08:00 | CHF | KOF Leading Indicators (Feb) |  | 103.0 | 102.5 |
+| 08:00 | CHF | GDP (QoQ) (Q4) |  | 0.2% | -0.5% |
+| 08:00 | CHF | GDP (YoY) (Q4) |  |  | 0.5% |
+| 08:00 | EUR | Spanish CPI (YoY) (Feb) |  | 2.2% | 2.3% |
+| 08:00 | EUR | Spanish HICP (YoY) (Feb) |  | 2.3% | 2.4% |
+| 08:55 | EUR | German Unemployment Change (Feb) |  | 2K | 0K |
+| 08:55 | EUR | German Unemployment Rate (Feb) |  | 6.3% | 6.3% |
+| 10:30 | INR | GDP Quarterly (YoY) (Q3) |  | 7.2% | 8.2% |
+| 11:00 | EUR | France Jobseekers Total (Jan) |  |  | 3,117.4K |
+| 11:30 | CAD | Wholesale Sales (MoM) (Jan) |  |  | 2.0% |
+| 11:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Jan) |  | 79.0% | 78.7% |
+| 12:00 | BRL | Unemployment Rate (Jan) |  |  | 5.1% |
+| 13:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 13:00 | EUR | German CPI (YoY) (Feb) |  | 2.0% | 2.1% |
+| 13:30 | USD | Core PPI (MoM) (Jan) |  | 0.3% | 0.7% |
+| 13:30 | CAD | GDP (MoM) (Dec) |  | 0.1% | 0.0% |
+| 13:30 | CAD | GDP (QoQ) (Q4) |  |  | 0.6% |
+| 13:30 | CAD | GDP (YoY) (Q4) |  |  | 1.42% |
+| 13:30 | CAD | GDP Annualized (QoQ) (Q4) |  | 0.0% | 2.6% |
+| 13:31 | CAD | GDP (MoM) (Jan) |  |  |  |
+| 15:00 | USD | Construction Spending (MoM) (Dec) |  | 0.2% | 0.5% |
+| 16:30 | USD | Atlanta Fed GDPNow (Q1) |  | 3.1% | 3.1% |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 409 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 551 |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | -42.4K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 141.3K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 159.9K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 24.4K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -177.8K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | 45.9K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 34.7K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | 13.0K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 174.5K |
