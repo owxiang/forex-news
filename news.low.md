@@ -12,19 +12,19 @@
 | 05:00 | JPY | Housing Starts (YoY) (Jan) | -0.4% | -1.9% | -1.3% |
 | 06:00 | ZAR | M3 Money Supply (YoY) (Jan) | 7.44% |  | 8.16% |
 | 06:00 | ZAR | Private Sector Credit (Jan) | 8.83% |  | 8.74% |
-| 36 min | EUR | German Import Price Index (MoM) (Jan) |  | 0.6% | -0.1% |
-| 36 min | EUR | German Import Price Index (YoY) (Jan) |  |  | -2.3% |
-| 36 min | NOK | Unemployment Rate n.s.a. (Feb) |  | 2.20% | 2.30% |
-| 36 min | NOK | Core Retail Sales (MoM) (Jan) |  |  | -0.7% |
-| 07:45 | EUR | French CPI (YoY) (Feb) |  | 0.8% | 0.3% |
-| 07:45 | EUR | French HICP (YoY) (Feb) |  | 0.7% | 0.4% |
-| 07:45 | EUR | French Non-Farm Payrolls (QoQ) (Q4) |  | -0.1% | -0.1% |
-| 07:45 | EUR | French PPI (MoM) (Jan) |  |  | 0.2% |
-| 07:45 | EUR | PPI (YoY) (Jan) |  |  | -2.00% |
-| 08:00 | CHF | Official Reserves Assets (Jan) |  |  | 852.6B |
-| 08:00 | EUR | Core CPI (YoY) (Feb) |  |  | 2.6% |
-| 08:00 | EUR | Spanish CPI (MoM) (Feb) |  |  | -0.4% |
-| 08:00 | EUR | Spanish HICP (MoM) (Feb) |  | 0.3% | -0.8% |
+| 07:00 | EUR | German Import Price Index (MoM) (Jan) | 1.1% | 0.6% | -0.1% |
+| 07:00 | EUR | German Import Price Index (YoY) (Jan) | -2.3% |  | -2.3% |
+| 07:00 | NOK | Unemployment Rate n.s.a. (Feb) | 2.20% | 2.20% | 2.30% |
+| 07:00 | NOK | Core Retail Sales (MoM) (Jan) | 1.1% |  | -0.6% |
+| 21 min | EUR | French CPI (YoY) (Feb) |  | 0.8% | 0.3% |
+| 21 min | EUR | French HICP (YoY) (Feb) |  | 0.7% | 0.4% |
+| 21 min | EUR | French Non-Farm Payrolls (QoQ) (Q4) |  | -0.1% | -0.1% |
+| 21 min | EUR | French PPI (MoM) (Jan) |  |  | 0.2% |
+| 21 min | EUR | PPI (YoY) (Jan) |  |  | -2.00% |
+| 36 min | CHF | Official Reserves Assets (Jan) |  |  | 852.6B |
+| 36 min | EUR | Core CPI (YoY) (Feb) |  |  | 2.6% |
+| 36 min | EUR | Spanish CPI (MoM) (Feb) |  |  | -0.4% |
+| 36 min | EUR | Spanish HICP (MoM) (Feb) |  | 0.3% | -0.8% |
 | 08:30 | HKD | Exports (MoM) (Jan) |  |  | 26.1% |
 | 08:30 | HKD | Imports (MoM) (Jan) |  |  | 30.6% |
 | 08:30 | HKD | M3 Money Supply (Jan) |  |  | 4.2% |

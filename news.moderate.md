@@ -2,16 +2,16 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:45 | EUR | French Consumer Spending (MoM) (Jan) |  | 0.4% | -0.6% |
-| 07:45 | EUR | French CPI (MoM) (Feb) |  | 0.5% | -0.3% |
-| 07:45 | EUR | French GDP (QoQ) (Q4) |  | 0.2% | 0.2% |
-| 07:45 | EUR | French GDP (YoY) (Q4) |  | 1.1% | 0.9% |
-| 07:45 | EUR | French HICP (MoM) (Feb) |  | 0.5% | -0.3% |
-| 08:00 | CHF | KOF Leading Indicators (Feb) |  | 103.0 | 102.5 |
-| 08:00 | CHF | GDP (QoQ) (Q4) |  | 0.2% | -0.5% |
-| 08:00 | CHF | GDP (YoY) (Q4) |  |  | 0.5% |
-| 08:00 | EUR | Spanish CPI (YoY) (Feb) |  | 2.2% | 2.3% |
-| 08:00 | EUR | Spanish HICP (YoY) (Feb) |  | 2.3% | 2.4% |
+| 21 min | EUR | French Consumer Spending (MoM) (Jan) |  | 0.4% | -0.6% |
+| 21 min | EUR | French CPI (MoM) (Feb) |  | 0.5% | -0.3% |
+| 21 min | EUR | French GDP (QoQ) (Q4) |  | 0.2% | 0.2% |
+| 21 min | EUR | French GDP (YoY) (Q4) |  | 1.1% | 0.9% |
+| 21 min | EUR | French HICP (MoM) (Feb) |  | 0.5% | -0.3% |
+| 36 min | CHF | KOF Leading Indicators (Feb) |  | 103.0 | 102.5 |
+| 36 min | CHF | GDP (QoQ) (Q4) |  | 0.2% | -0.5% |
+| 36 min | CHF | GDP (YoY) (Q4) |  |  | 0.5% |
+| 36 min | EUR | Spanish CPI (YoY) (Feb) |  | 2.2% | 2.3% |
+| 36 min | EUR | Spanish HICP (YoY) (Feb) |  | 2.3% | 2.4% |
 | 08:55 | EUR | German Unemployment Change (Feb) |  | 2K | 0K |
 | 08:55 | EUR | German Unemployment Rate (Feb) |  | 6.3% | 6.3% |
 | 10:30 | INR | GDP Quarterly (YoY) (Q3) |  | 7.2% | 8.2% |

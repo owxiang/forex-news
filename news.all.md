@@ -12,29 +12,29 @@
 | 05:00 | JPY | Low | Housing Starts (YoY) (Jan) | -0.4% | -1.9% | -1.3% |
 | 06:00 | ZAR | Low | M3 Money Supply (YoY) (Jan) | 7.44% |  | 8.16% |
 | 06:00 | ZAR | Low | Private Sector Credit (Jan) | 8.83% |  | 8.74% |
-| 36 min | EUR | Low | German Import Price Index (MoM) (Jan) |  | 0.6% | -0.1% |
-| 36 min | EUR | Low | German Import Price Index (YoY) (Jan) |  |  | -2.3% |
-| 36 min | NOK | Low | Unemployment Rate n.s.a. (Feb) |  | 2.20% | 2.30% |
-| 36 min | NOK | Low | Core Retail Sales (MoM) (Jan) |  |  | -0.7% |
-| 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Jan) |  | 0.4% | -0.6% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Feb) |  | 0.5% | -0.3% |
-| 07:45 | EUR | Low | French CPI (YoY) (Feb) |  | 0.8% | 0.3% |
-| 07:45 | EUR | Moderate | French GDP (QoQ) (Q4) |  | 0.2% | 0.2% |
-| 07:45 | EUR | Moderate | French GDP (YoY) (Q4) |  | 1.1% | 0.9% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Feb) |  | 0.5% | -0.3% |
-| 07:45 | EUR | Low | French HICP (YoY) (Feb) |  | 0.7% | 0.4% |
-| 07:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q4) |  | -0.1% | -0.1% |
-| 07:45 | EUR | Low | French PPI (MoM) (Jan) |  |  | 0.2% |
-| 07:45 | EUR | Low | PPI (YoY) (Jan) |  |  | -2.00% |
-| 08:00 | CHF | Moderate | KOF Leading Indicators (Feb) |  | 103.0 | 102.5 |
-| 08:00 | CHF | Low | Official Reserves Assets (Jan) |  |  | 852.6B |
-| 08:00 | CHF | Moderate | GDP (QoQ) (Q4) |  | 0.2% | -0.5% |
-| 08:00 | CHF | Moderate | GDP (YoY) (Q4) |  |  | 0.5% |
-| 08:00 | EUR | Low | Core CPI (YoY) (Feb) |  |  | 2.6% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Feb) |  |  | -0.4% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Feb) |  | 2.2% | 2.3% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Feb) |  | 0.3% | -0.8% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Feb) |  | 2.3% | 2.4% |
+| 07:00 | EUR | Low | German Import Price Index (MoM) (Jan) | 1.1% | 0.6% | -0.1% |
+| 07:00 | EUR | Low | German Import Price Index (YoY) (Jan) | -2.3% |  | -2.3% |
+| 07:00 | NOK | Low | Unemployment Rate n.s.a. (Feb) | 2.20% | 2.20% | 2.30% |
+| 07:00 | NOK | Low | Core Retail Sales (MoM) (Jan) | 1.1% |  | -0.6% |
+| 21 min | EUR | Moderate | French Consumer Spending (MoM) (Jan) |  | 0.4% | -0.6% |
+| 21 min | EUR | Moderate | French CPI (MoM) (Feb) |  | 0.5% | -0.3% |
+| 21 min | EUR | Low | French CPI (YoY) (Feb) |  | 0.8% | 0.3% |
+| 21 min | EUR | Moderate | French GDP (QoQ) (Q4) |  | 0.2% | 0.2% |
+| 21 min | EUR | Moderate | French GDP (YoY) (Q4) |  | 1.1% | 0.9% |
+| 21 min | EUR | Moderate | French HICP (MoM) (Feb) |  | 0.5% | -0.3% |
+| 21 min | EUR | Low | French HICP (YoY) (Feb) |  | 0.7% | 0.4% |
+| 21 min | EUR | Low | French Non-Farm Payrolls (QoQ) (Q4) |  | -0.1% | -0.1% |
+| 21 min | EUR | Low | French PPI (MoM) (Jan) |  |  | 0.2% |
+| 21 min | EUR | Low | PPI (YoY) (Jan) |  |  | -2.00% |
+| 36 min | CHF | Moderate | KOF Leading Indicators (Feb) |  | 103.0 | 102.5 |
+| 36 min | CHF | Low | Official Reserves Assets (Jan) |  |  | 852.6B |
+| 36 min | CHF | Moderate | GDP (QoQ) (Q4) |  | 0.2% | -0.5% |
+| 36 min | CHF | Moderate | GDP (YoY) (Q4) |  |  | 0.5% |
+| 36 min | EUR | Low | Core CPI (YoY) (Feb) |  |  | 2.6% |
+| 36 min | EUR | Low | Spanish CPI (MoM) (Feb) |  |  | -0.4% |
+| 36 min | EUR | Moderate | Spanish CPI (YoY) (Feb) |  | 2.2% | 2.3% |
+| 36 min | EUR | Low | Spanish HICP (MoM) (Feb) |  | 0.3% | -0.8% |
+| 36 min | EUR | Moderate | Spanish HICP (YoY) (Feb) |  | 2.3% | 2.4% |
 | 08:30 | HKD | Low | Exports (MoM) (Jan) |  |  | 26.1% |
 | 08:30 | HKD | Low | Imports (MoM) (Jan) |  |  | 30.6% |
 | 08:30 | HKD | Low | M3 Money Supply (Jan) |  |  | 4.2% |
