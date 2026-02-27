@@ -5,8 +5,8 @@
 | 00:01 | GBP | GfK Consumer Confidence (Feb) | -19 | -15 | -16 |
 | 00:30 | AUD | Housing Credit (Jan) | 0.6% |  | 0.7% |
 | 00:30 | AUD | Private Sector Credit (MoM) (Jan) | 0.5% | 0.7% | 0.8% |
-| 20 min | SGD | Bank Lending (Jan) |  |  | 886.1B |
-| 20 min | NZD | M3 Money Supply (Jan) |  |  | 447.9B |
+| 02:00 | SGD | Bank Lending (Jan) | 887.5B |  | 886.1B |
+| 02:00 | NZD | M3 Money Supply (Jan) | 441.7B |  | 447.9B |
 | 05:00 | JPY | Construction Orders (YoY) (Jan) |  |  | 20.2% |
 | 05:00 | JPY | Housing Starts (YoY) (Jan) |  | -1.9% | -1.3% |
 | 06:00 | ZAR | M3 Money Supply (YoY) (Jan) |  |  | 8.16% |
