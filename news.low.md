@@ -68,11 +68,11 @@
 | 12:00 | ZAR | Trade Balance (Jan) | 9.31B |  | 22.38B |
 | 13:00 | EUR | German HICP (MoM) (Feb) | 0.4% | 0.5% | -0.1% |
 | 13:00 | EUR | German HICP (YoY) (Feb) | 2.0% | 2.1% | 2.1% |
-| 13:30 | USD | Core PPI (YoY) (Jan) |  | 3.0% | 3.3% |
-| 13:30 | USD | PPI (YoY) (Jan) |  | 2.6% | 3.0% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Jan) |  |  | 3.5% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Jan) |  |  | 0.4% |
-| 13:30 | CAD | GDP Implicit Price (QoQ) (Q4) |  |  | 0.80% |
+| 13:30 | USD | Core PPI (YoY) (Jan) | 3.6% | 3.0% | 3.3% |
+| 13:30 | USD | PPI (YoY) (Jan) | 2.9% | 2.6% | 3.0% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Jan) | 3.4% |  | 3.5% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Jan) | 0.3% |  | 0.3% |
+| 13:30 | CAD | GDP Implicit Price (QoQ) (Q4) | 0.70% |  | 0.90% |
 | 16:00 | CAD | Budget Balance (Dec) |  |  | -8.02B |
 | 16:00 | CAD | Budget Balance (YoY) (Dec) |  |  | -26.39B |
 | 17:30 | BRL | CAGED Net Payroll Jobs (Jan) |  | 90.00K | -618.16K |

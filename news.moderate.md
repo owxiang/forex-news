@@ -19,13 +19,13 @@
 | 11:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Jan) | 78.7% | 79.0% | 78.7% |
 | 13:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 13:00 | EUR | German CPI (YoY) (Feb) | 1.9% | 2.0% | 2.1% |
-| 13:30 | USD | Core PPI (MoM) (Jan) |  | 0.3% | 0.7% |
-| 13:30 | CAD | GDP (MoM) (Dec) |  | 0.1% | 0.0% |
-| 13:30 | CAD | GDP (QoQ) (Q4) |  |  | 0.6% |
-| 13:30 | CAD | GDP (YoY) (Q4) |  |  | 1.42% |
-| 13:30 | CAD | GDP Annualized (QoQ) (Q4) |  | 0.0% | 2.6% |
-| 2 min | CAD | GDP (MoM) (Jan) |  |  |  |
-| 15:00 | USD | Construction Spending (MoM) (Dec) |  | 0.2% | 0.5% |
+| 13:30 | USD | Core PPI (MoM) (Jan) | 0.8% | 0.3% | 0.6% |
+| 13:30 | CAD | GDP (MoM) (Dec) | 0.2% | 0.1% | 0.0% |
+| 13:30 | CAD | GDP (MoM) (Jan) | 0.0% |  |  |
+| 13:30 | CAD | GDP (QoQ) (Q4) | -0.2% |  | 0.6% |
+| 13:30 | CAD | GDP (YoY) (Q4) | 0.72% |  | 1.58% |
+| 13:30 | CAD | GDP Annualized (QoQ) (Q4) | -0.6% | 0.0% | 2.4% |
+| 41 min | USD | Construction Spending (MoM) (Dec) |  | 0.2% | 0.5% |
 | 16:30 | USD | Atlanta Fed GDPNow (Q1) |  | 3.1% | 3.1% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 409 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 551 |

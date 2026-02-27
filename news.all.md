@@ -86,20 +86,20 @@
 | 13:00 | EUR | Moderate | German CPI (YoY) (Feb) | 1.9% | 2.0% | 2.1% |
 | 13:00 | EUR | Low | German HICP (MoM) (Feb) | 0.4% | 0.5% | -0.1% |
 | 13:00 | EUR | Low | German HICP (YoY) (Feb) | 2.0% | 2.1% | 2.1% |
-| 13:30 | USD | Moderate | Core PPI (MoM) (Jan) |  | 0.3% | 0.7% |
-| 13:30 | USD | Low | Core PPI (YoY) (Jan) |  | 3.0% | 3.3% |
-| 13:30 | USD | High | PPI (MoM) (Jan) |  | 0.3% | 0.5% |
-| 13:30 | USD | Low | PPI (YoY) (Jan) |  | 2.6% | 3.0% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Jan) |  |  | 3.5% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Jan) |  |  | 0.4% |
-| 13:30 | CAD | Low | GDP Implicit Price (QoQ) (Q4) |  |  | 0.80% |
-| 13:30 | CAD | Moderate | GDP (MoM) (Dec) |  | 0.1% | 0.0% |
-| 13:30 | CAD | Moderate | GDP (QoQ) (Q4) |  |  | 0.6% |
-| 13:30 | CAD | Moderate | GDP (YoY) (Q4) |  |  | 1.42% |
-| 13:30 | CAD | Moderate | GDP Annualized (QoQ) (Q4) |  | 0.0% | 2.6% |
-| 2 min | CAD | Moderate | GDP (MoM) (Jan) |  |  |  |
-| 14:45 | USD | High | Chicago PMI (Feb) |  | 52.0 | 54.0 |
-| 15:00 | USD | Moderate | Construction Spending (MoM) (Dec) |  | 0.2% | 0.5% |
+| 13:30 | USD | Moderate | Core PPI (MoM) (Jan) | 0.8% | 0.3% | 0.6% |
+| 13:30 | USD | Low | Core PPI (YoY) (Jan) | 3.6% | 3.0% | 3.3% |
+| 13:30 | USD | High | PPI (MoM) (Jan) | 0.5% | 0.3% | 0.4% |
+| 13:30 | USD | Low | PPI (YoY) (Jan) | 2.9% | 2.6% | 3.0% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Jan) | 3.4% |  | 3.5% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Jan) | 0.3% |  | 0.3% |
+| 13:30 | CAD | Low | GDP Implicit Price (QoQ) (Q4) | 0.70% |  | 0.90% |
+| 13:30 | CAD | Moderate | GDP (MoM) (Dec) | 0.2% | 0.1% | 0.0% |
+| 13:30 | CAD | Moderate | GDP (MoM) (Jan) | 0.0% |  |  |
+| 13:30 | CAD | Moderate | GDP (QoQ) (Q4) | -0.2% |  | 0.6% |
+| 13:30 | CAD | Moderate | GDP (YoY) (Q4) | 0.72% |  | 1.58% |
+| 13:30 | CAD | Moderate | GDP Annualized (QoQ) (Q4) | -0.6% | 0.0% | 2.4% |
+| 26 min | USD | High | Chicago PMI (Feb) |  | 52.0 | 54.0 |
+| 41 min | USD | Moderate | Construction Spending (MoM) (Dec) |  | 0.2% | 0.5% |
 | 16:00 | CAD | Low | Budget Balance (Dec) |  |  | -8.02B |
 | 16:00 | CAD | Low | Budget Balance (YoY) (Dec) |  |  | -26.39B |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 3.1% | 3.1% |
