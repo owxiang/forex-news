@@ -16,37 +16,37 @@
 | 07:00 | EUR | German Import Price Index (YoY) (Jan) | -2.3% |  | -2.3% |
 | 07:00 | NOK | Unemployment Rate n.s.a. (Feb) | 2.20% | 2.20% | 2.30% |
 | 07:00 | NOK | Core Retail Sales (MoM) (Jan) | 1.1% |  | -0.6% |
-| 21 min | EUR | French CPI (YoY) (Feb) |  | 0.8% | 0.3% |
-| 21 min | EUR | French HICP (YoY) (Feb) |  | 0.7% | 0.4% |
-| 21 min | EUR | French Non-Farm Payrolls (QoQ) (Q4) |  | -0.1% | -0.1% |
-| 21 min | EUR | French PPI (MoM) (Jan) |  |  | 0.2% |
-| 21 min | EUR | PPI (YoY) (Jan) |  |  | -2.00% |
-| 36 min | CHF | Official Reserves Assets (Jan) |  |  | 852.6B |
-| 36 min | EUR | Core CPI (YoY) (Feb) |  |  | 2.6% |
-| 36 min | EUR | Spanish CPI (MoM) (Feb) |  |  | -0.4% |
-| 36 min | EUR | Spanish HICP (MoM) (Feb) |  | 0.3% | -0.8% |
-| 08:30 | HKD | Exports (MoM) (Jan) |  |  | 26.1% |
-| 08:30 | HKD | Imports (MoM) (Jan) |  |  | 30.6% |
-| 08:30 | HKD | M3 Money Supply (Jan) |  |  | 4.2% |
-| 08:30 | HKD | Trade Balance (Jan) |  |  | -63.3B |
-| 08:55 | EUR | German Unemployment (Feb) |  |  | 2.976M |
-| 08:55 | EUR | German Unemployment n.s.a. (Feb) |  |  | 3.085M |
-| 09:00 | EUR | Italian Industrial Sales (MoM) (Dec) |  |  | -0.10% |
-| 09:00 | EUR | Italian Industrial Sales (YoY) (Dec) |  |  | 0.00% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Feb) |  |  | 0.0% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Feb) |  |  | 2.1% |
-| 09:00 | EUR | Bavaria CPI (YoY) (Feb) |  |  | 2.1% |
-| 09:00 | EUR | Bavaria CPI (MoM) (Feb) |  |  | 0.0% |
-| 09:00 | EUR | Brandenburg CPI (YoY) (Feb) |  |  | 2.2% |
-| 09:00 | EUR | Brandenburg CPI (MoM) (Feb) |  |  | 0.0% |
-| 09:00 | EUR | Hesse CPI (MoM) (Feb) |  |  | 0.0% |
-| 09:00 | EUR | Hesse CPI (YoY) (Feb) |  |  | 2.1% |
-| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Feb) |  |  | 0.1% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Feb) |  |  | 2.0% |
-| 09:00 | EUR | Saxony CPI (YoY) (Feb) |  |  | 2.3% |
-| 09:00 | EUR | Saxony CPI (MoM) (Feb) |  |  | 0.0% |
-| 09:00 | EUR | Spanish Current account (Dec) |  |  | 0.21B |
-| 09:00 | NOK | Central Bank Currency Purchase (Mar) |  |  | -600.0M |
+| 07:45 | EUR | French CPI (YoY) (Feb) | 1.0% | 0.8% | 0.3% |
+| 07:45 | EUR | French HICP (YoY) (Feb) | 1.1% | 0.7% | 0.4% |
+| 07:45 | EUR | French Non-Farm Payrolls (QoQ) (Q4) | -0.1% | -0.1% | -0.1% |
+| 07:45 | EUR | French PPI (MoM) (Jan) | 0.5% |  | 0.3% |
+| 07:45 | EUR | PPI (YoY) (Jan) | -2.30% |  | -1.90% |
+| 08:00 | CHF | Official Reserves Assets (Jan) | 853.1B |  | 852.6B |
+| 08:00 | EUR | Core CPI (YoY) (Feb) | 2.7% |  | 2.6% |
+| 08:00 | EUR | Spanish CPI (MoM) (Feb) | 0.4% |  | -0.4% |
+| 08:00 | EUR | Spanish HICP (MoM) (Feb) | 0.4% | 0.3% | -0.8% |
+| 11 min | HKD | Exports (MoM) (Jan) |  |  | 26.1% |
+| 11 min | HKD | Imports (MoM) (Jan) |  |  | 30.6% |
+| 11 min | HKD | M3 Money Supply (Jan) |  |  | 4.2% |
+| 11 min | HKD | Trade Balance (Jan) |  |  | -63.3B |
+| 36 min | EUR | German Unemployment (Feb) |  |  | 2.976M |
+| 36 min | EUR | German Unemployment n.s.a. (Feb) |  |  | 3.085M |
+| 41 min | EUR | Italian Industrial Sales (MoM) (Dec) |  |  | -0.10% |
+| 41 min | EUR | Italian Industrial Sales (YoY) (Dec) |  |  | 0.00% |
+| 41 min | EUR | Baden Wuerttemberg CPI (MoM) (Feb) |  |  | 0.0% |
+| 41 min | EUR | Baden Wuerttemberg CPI (YoY) (Feb) |  |  | 2.1% |
+| 41 min | EUR | Bavaria CPI (YoY) (Feb) |  |  | 2.1% |
+| 41 min | EUR | Bavaria CPI (MoM) (Feb) |  |  | 0.0% |
+| 41 min | EUR | Brandenburg CPI (YoY) (Feb) |  |  | 2.2% |
+| 41 min | EUR | Brandenburg CPI (MoM) (Feb) |  |  | 0.0% |
+| 41 min | EUR | Hesse CPI (MoM) (Feb) |  |  | 0.0% |
+| 41 min | EUR | Hesse CPI (YoY) (Feb) |  |  | 2.1% |
+| 41 min | EUR | North Rhine Westphalia CPI (MoM) (Feb) |  |  | 0.1% |
+| 41 min | EUR | North Rhine Westphalia CPI (YoY) (Feb) |  |  | 2.0% |
+| 41 min | EUR | Saxony CPI (YoY) (Feb) |  |  | 2.3% |
+| 41 min | EUR | Saxony CPI (MoM) (Feb) |  |  | 0.0% |
+| 41 min | EUR | Spanish Current account (Dec) |  |  | 0.21B |
+| 41 min | NOK | Central Bank Currency Purchase (Mar) |  |  | -600.0M |
 | 10:00 | EUR | Italian Trade Balance Non-EU (Jan) |  |  | 8.39B |
 | 10:00 | INR | Federal Fiscal Deficit (Jan) |  |  | 8,558.42B |
 | 10:30 | INR | GDP Annual |  |  | 7.4% |
