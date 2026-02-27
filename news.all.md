@@ -61,12 +61,12 @@
 | 09:00 | EUR | Low | Saxony CPI (MoM) (Feb) | 0.3% |  | 0.0% |
 | 09:00 | EUR | Low | Spanish Current account (Dec) | 1.80B |  | 0.21B |
 | 09:00 | NOK | Low | Central Bank Currency Purchase (Mar) | -600.0M |  | -600.0M |
-| 40 min | EUR | Low | Italian Trade Balance Non-EU (Jan) |  |  | 8.39B |
-| 40 min | INR | Low | Federal Fiscal Deficit (Jan) |  |  | 8,558.42B |
-| 10:30 | INR | Low | GDP Annual |  |  | 7.4% |
-| 10:30 | INR | Moderate | GDP Quarterly (YoY) (Q3) |  | 7.2% | 8.2% |
-| 11:00 | EUR | Moderate | France Jobseekers Total (Jan) |  |  | 3,117.4K |
-| 11:00 | CNY | Low | FDI (Jan) |  |  | -9.50% |
+| 10:00 | EUR | Low | Italian Trade Balance Non-EU (Jan) | 2.12B |  | 8.39B |
+| 12 min | INR | Low | Federal Fiscal Deficit (Jan) |  |  | 8,558.42B |
+| 12 min | INR | Low | GDP Annual |  |  | 7.4% |
+| 12 min | INR | Moderate | GDP Quarterly (YoY) (Q3) |  | 7.2% | 8.2% |
+| 42 min | EUR | Moderate | France Jobseekers Total (Jan) |  |  | 3,117.4K |
+| 42 min | CNY | Low | FDI (Jan) |  |  | -9.50% |
 | 11:30 | CAD | Moderate | Wholesale Sales (MoM) (Jan) |  |  | 2.0% |
 | 11:30 | INR | Low | Bank Loan Growth |  |  | 14.6% |
 | 11:30 | INR | Low | Deposit Growth |  |  | 12.5% |

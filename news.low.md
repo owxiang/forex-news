@@ -49,10 +49,10 @@
 | 09:00 | EUR | Saxony CPI (MoM) (Feb) | 0.3% |  | 0.0% |
 | 09:00 | EUR | Spanish Current account (Dec) | 1.80B |  | 0.21B |
 | 09:00 | NOK | Central Bank Currency Purchase (Mar) | -600.0M |  | -600.0M |
-| 40 min | EUR | Italian Trade Balance Non-EU (Jan) |  |  | 8.39B |
-| 40 min | INR | Federal Fiscal Deficit (Jan) |  |  | 8,558.42B |
-| 10:30 | INR | GDP Annual |  |  | 7.4% |
-| 11:00 | CNY | FDI (Jan) |  |  | -9.50% |
+| 10:00 | EUR | Italian Trade Balance Non-EU (Jan) | 2.12B |  | 8.39B |
+| 12 min | INR | Federal Fiscal Deficit (Jan) |  |  | 8,558.42B |
+| 12 min | INR | GDP Annual |  |  | 7.4% |
+| 42 min | CNY | FDI (Jan) |  |  | -9.50% |
 | 11:30 | INR | Bank Loan Growth |  |  | 14.6% |
 | 11:30 | INR | Deposit Growth |  |  | 12.5% |
 | 11:30 | INR | FX Reserves, USD |  |  | 725.73B |

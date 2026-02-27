@@ -14,8 +14,8 @@
 | 08:00 | EUR | Spanish HICP (YoY) (Feb) | 2.5% | 2.3% | 2.4% |
 | 08:55 | EUR | German Unemployment Change (Feb) | 1K | 2K | 1K |
 | 08:55 | EUR | German Unemployment Rate (Feb) | 6.3% | 6.3% | 6.3% |
-| 10:30 | INR | GDP Quarterly (YoY) (Q3) |  | 7.2% | 8.2% |
-| 11:00 | EUR | France Jobseekers Total (Jan) |  |  | 3,117.4K |
+| 12 min | INR | GDP Quarterly (YoY) (Q3) |  | 7.2% | 8.2% |
+| 42 min | EUR | France Jobseekers Total (Jan) |  |  | 3,117.4K |
 | 11:30 | CAD | Wholesale Sales (MoM) (Jan) |  |  | 2.0% |
 | 11:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Jan) |  | 79.0% | 78.7% |
 | 12:00 | BRL | Unemployment Rate (Jan) |  |  | 5.1% |
