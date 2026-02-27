@@ -73,8 +73,7 @@
 | 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Jan) | 3.4% |  | 3.5% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Jan) | 0.3% |  | 0.3% |
 | 13:30 | CAD | GDP Implicit Price (QoQ) (Q4) | 0.70% |  | 0.90% |
-| 41 min | CAD | Budget Balance (Dec) |  |  | -8.02B |
-| 41 min | CAD | Budget Balance (YoY) (Dec) |  |  | -26.39B |
+| 16:00 | CAD | Budget Balance (Dec) | 0.20B |  | -8.02B |
 | 17:30 | BRL | CAGED Net Payroll Jobs (Jan) |  | 90.00K | -618.16K |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -2.7K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 59.3K |

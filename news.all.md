@@ -99,11 +99,10 @@
 | 13:30 | CAD | Moderate | GDP Annualized (QoQ) (Q4) | -0.6% | 0.0% | 2.4% |
 | 13:31 | CAD | Moderate | GDP (MoM) (Jan) | 0.0% |  | 0.2% |
 | 14:45 | USD | High | Chicago PMI (Feb) | 57.7 | 52.0 | 54.0 |
-| 15:00 | USD | Moderate | Construction Spending (MoM) (Nov) | -0.2% |  | 0.5% |
-| 15:01 | USD | Moderate | Construction Spending (MoM) (Dec) | 0.3% | 0.2% | -0.2% |
-| 41 min | CAD | Low | Budget Balance (Dec) |  |  | -8.02B |
-| 41 min | CAD | Low | Budget Balance (YoY) (Dec) |  |  | -26.39B |
-| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 3.1% | 3.1% |
+| 15:00 | USD | Moderate | Construction Spending (MoM) (Dec) | 0.3% | 0.2% | -0.1% |
+| 15:00 | USD | Moderate | Construction Spending (MoM) (Dec) | 0.3% |  | -0.1% |
+| 16:00 | CAD | Low | Budget Balance (Dec) | 0.20B |  | -8.02B |
+| 14 min | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 3.1% | 3.1% |
 | 17:30 | BRL | Low | CAGED Net Payroll Jobs (Jan) |  | 90.00K | -618.16K |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 409 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 551 |

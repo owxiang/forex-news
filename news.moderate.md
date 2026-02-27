@@ -25,9 +25,9 @@
 | 13:30 | CAD | GDP (YoY) (Q4) | 0.72% |  | 1.58% |
 | 13:30 | CAD | GDP Annualized (QoQ) (Q4) | -0.6% | 0.0% | 2.4% |
 | 13:31 | CAD | GDP (MoM) (Jan) | 0.0% |  | 0.2% |
-| 15:00 | USD | Construction Spending (MoM) (Nov) | -0.2% |  | 0.5% |
-| 15:01 | USD | Construction Spending (MoM) (Dec) | 0.3% | 0.2% | -0.2% |
-| 16:30 | USD | Atlanta Fed GDPNow (Q1) |  | 3.1% | 3.1% |
+| 15:00 | USD | Construction Spending (MoM) (Dec) | 0.3% | 0.2% | -0.1% |
+| 15:00 | USD | Construction Spending (MoM) (Dec) | 0.3% |  | -0.1% |
+| 14 min | USD | Atlanta Fed GDPNow (Q1) |  | 3.1% | 3.1% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 409 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 551 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -42.4K |
