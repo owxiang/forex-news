@@ -102,10 +102,10 @@
 | 15:00 | USD | Moderate | Construction Spending (MoM) (Dec) | 0.3% | 0.2% | -0.1% |
 | 15:00 | USD | Moderate | Construction Spending (MoM) (Dec) | 0.3% |  | -0.1% |
 | 16:00 | CAD | Low | Budget Balance (Dec) | 0.20B |  | -8.02B |
-| 14 min | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 3.1% | 3.1% |
-| 14 min | BRL | Low | CAGED Net Payroll Jobs (Jan) |  | 90.00K | -618.16K |
-| 44 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 409 |
-| 44 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 551 |
+| 17:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 3.0% | 3.1% | 3.1% |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 407 |  | 409 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 550 |  | 551 |
+| 13 min | BRL | Low | CAGED Net Payroll Jobs (Jan) |  | 90.00K | -618.16K |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -42.4K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -2.7K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 59.3K |
