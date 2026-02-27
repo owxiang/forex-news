@@ -16,11 +16,9 @@
 | 08:55 | EUR | German Unemployment Rate (Feb) | 6.3% | 6.3% | 6.3% |
 | 10:30 | INR | GDP Quarterly (YoY) (Q3) | 7.8% | 7.2% | 8.2% |
 | 11:00 | EUR | France Jobseekers Total (Jan) | 3,090.5K |  | 3,117.4K |
-| 11:30 | CAD | Wholesale Sales (MoM) (Jan) |  |  | 2.0% |
-| 11:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Jan) |  | 79.0% | 78.7% |
-| 12:00 | BRL | Unemployment Rate (Jan) |  |  | 5.1% |
-| 13:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 13:00 | EUR | German CPI (YoY) (Feb) |  | 2.0% | 2.1% |
+| 11:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Jan) | 78.7% | 79.0% | 78.7% |
+| 41 min | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 41 min | EUR | German CPI (YoY) (Feb) |  | 2.0% | 2.1% |
 | 13:30 | USD | Core PPI (MoM) (Jan) |  | 0.3% | 0.7% |
 | 13:30 | CAD | GDP (MoM) (Dec) |  | 0.1% | 0.0% |
 | 13:30 | CAD | GDP (QoQ) (Q4) |  |  | 0.6% |

@@ -63,32 +63,29 @@
 | 09:00 | NOK | Low | Central Bank Currency Purchase (Mar) | -600.0M |  | -600.0M |
 | 10:00 | EUR | Low | Italian Trade Balance Non-EU (Jan) | 2.12B |  | 8.39B |
 | 10:00 | INR | Low | Federal Fiscal Deficit (Jan) | 9,814.07B |  | 8,558.42B |
+| 10:30 | INR | Low | GDP Annual | 7.6% |  | 7.4% |
 | 10:30 | INR | Moderate | GDP Quarterly (YoY) (Q3) | 7.8% | 7.2% | 8.2% |
 | 10:46 | ZAR | Low | Budget Balance (MoM) (Jan) | -69.69B |  | 38.44B |
 | 11:00 | EUR | Moderate | France Jobseekers Total (Jan) | 3,090.5K |  | 3,117.4K |
-| 11:30 | CAD | Moderate | Wholesale Sales (MoM) (Jan) |  |  | 2.0% |
-| 11:30 | INR | Low | Bank Loan Growth |  |  | 14.6% |
-| 11:30 | INR | Low | Deposit Growth |  |  | 12.5% |
-| 11:30 | INR | Low | FX Reserves, USD |  |  | 725.73B |
-| 11:30 | INR | Low | Infrastructure Output (YoY) (Jan) |  |  | 3.7% |
+| 11:30 | INR | Low | Bank Loan Growth | 13.6% |  | 14.6% |
+| 11:30 | INR | Low | Deposit Growth | 11.2% |  | 12.5% |
+| 11:30 | INR | Low | FX Reserves, USD | 723.61B |  | 725.73B |
+| 11:30 | INR | Low | M3 Money Supply | 10.9% |  | 12.0% |
 | 11:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
-| 11:30 | BRL | Low | Net Debt-to-GDP ratio (Jan) |  |  | 65.3% |
-| 11:30 | BRL | Low | Budget Balance (Jan) |  | 49.500B | -115.502B |
-| 11:30 | BRL | Low | Budget Surplus (Jan) |  |  | 6.251B |
-| 11:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Jan) |  | 79.0% | 78.7% |
-| 12:00 | MXN | Low | Trade Balance (Jan) |  | -2.200B | 2.430B |
-| 12:00 | MXN | Low | Trade Balance (USD) (Jan) |  |  | -0.860B |
-| 12:00 | INR | Low | GDP Annual | 7.6% |  | 7.4% |
-| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Feb) |  | 0.60% | 0.20% |
-| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Feb) |  | 3.80% | 4.50% |
-| 12:00 | BRL | Moderate | Unemployment Rate (Jan) |  |  | 5.1% |
-| 12:00 | CNY | Low | FDI (Jan) |  |  | -9.50% |
-| 12:00 | ZAR | Low | Trade Balance (Jan) |  |  | 23.18B |
-| 13:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 13:00 | EUR | High | German CPI (MoM) (Feb) |  | 0.5% | 0.1% |
-| 13:00 | EUR | Moderate | German CPI (YoY) (Feb) |  | 2.0% | 2.1% |
-| 13:00 | EUR | Low | German HICP (MoM) (Feb) |  | 0.5% | -0.1% |
-| 13:00 | EUR | Low | German HICP (YoY) (Feb) |  | 2.1% | 2.1% |
+| 11:30 | BRL | Low | Net Debt-to-GDP ratio (Jan) | 65.0% |  | 65.3% |
+| 11:30 | BRL | Low | Budget Balance (Jan) | 40.062B | 49.500B | -115.502B |
+| 11:30 | BRL | Low | Budget Surplus (Jan) | 103.689B |  | 6.251B |
+| 11:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Jan) | 78.7% | 79.0% | 78.7% |
+| 12:00 | MXN | Low | Trade Balance (Jan) | -6.481B | -2.200B | 2.430B |
+| 12:00 | MXN | Low | Trade Balance (USD) (Jan) | -1.248B |  | -1.137B |
+| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Feb) | 0.84% | 0.60% | 0.20% |
+| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Feb) | 4.10% | 3.80% | 4.50% |
+| 12:00 | ZAR | Low | Trade Balance (Jan) | 9.31B |  | 22.38B |
+| 41 min | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 41 min | EUR | High | German CPI (MoM) (Feb) |  | 0.5% | 0.1% |
+| 41 min | EUR | Moderate | German CPI (YoY) (Feb) |  | 2.0% | 2.1% |
+| 41 min | EUR | Low | German HICP (MoM) (Feb) |  | 0.5% | -0.1% |
+| 41 min | EUR | Low | German HICP (YoY) (Feb) |  | 2.1% | 2.1% |
 | 13:30 | USD | Moderate | Core PPI (MoM) (Jan) |  | 0.3% | 0.7% |
 | 13:30 | USD | Low | Core PPI (YoY) (Jan) |  | 3.0% | 3.3% |
 | 13:30 | USD | High | PPI (MoM) (Jan) |  | 0.3% | 0.5% |

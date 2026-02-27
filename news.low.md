@@ -51,24 +51,23 @@
 | 09:00 | NOK | Central Bank Currency Purchase (Mar) | -600.0M |  | -600.0M |
 | 10:00 | EUR | Italian Trade Balance Non-EU (Jan) | 2.12B |  | 8.39B |
 | 10:00 | INR | Federal Fiscal Deficit (Jan) | 9,814.07B |  | 8,558.42B |
+| 10:30 | INR | GDP Annual | 7.6% |  | 7.4% |
 | 10:46 | ZAR | Budget Balance (MoM) (Jan) | -69.69B |  | 38.44B |
-| 11:30 | INR | Bank Loan Growth |  |  | 14.6% |
-| 11:30 | INR | Deposit Growth |  |  | 12.5% |
-| 11:30 | INR | FX Reserves, USD |  |  | 725.73B |
-| 11:30 | INR | Infrastructure Output (YoY) (Jan) |  |  | 3.7% |
+| 11:30 | INR | Bank Loan Growth | 13.6% |  | 14.6% |
+| 11:30 | INR | Deposit Growth | 11.2% |  | 12.5% |
+| 11:30 | INR | FX Reserves, USD | 723.61B |  | 725.73B |
+| 11:30 | INR | M3 Money Supply | 10.9% |  | 12.0% |
 | 11:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
-| 11:30 | BRL | Net Debt-to-GDP ratio (Jan) |  |  | 65.3% |
-| 11:30 | BRL | Budget Balance (Jan) |  | 49.500B | -115.502B |
-| 11:30 | BRL | Budget Surplus (Jan) |  |  | 6.251B |
-| 12:00 | MXN | Trade Balance (Jan) |  | -2.200B | 2.430B |
-| 12:00 | MXN | Trade Balance (USD) (Jan) |  |  | -0.860B |
-| 12:00 | INR | GDP Annual | 7.6% |  | 7.4% |
-| 12:00 | BRL | Mid-Month CPI (MoM) (Feb) |  | 0.60% | 0.20% |
-| 12:00 | BRL | Mid-Month CPI (YoY) (Feb) |  | 3.80% | 4.50% |
-| 12:00 | CNY | FDI (Jan) |  |  | -9.50% |
-| 12:00 | ZAR | Trade Balance (Jan) |  |  | 23.18B |
-| 13:00 | EUR | German HICP (MoM) (Feb) |  | 0.5% | -0.1% |
-| 13:00 | EUR | German HICP (YoY) (Feb) |  | 2.1% | 2.1% |
+| 11:30 | BRL | Net Debt-to-GDP ratio (Jan) | 65.0% |  | 65.3% |
+| 11:30 | BRL | Budget Balance (Jan) | 40.062B | 49.500B | -115.502B |
+| 11:30 | BRL | Budget Surplus (Jan) | 103.689B |  | 6.251B |
+| 12:00 | MXN | Trade Balance (Jan) | -6.481B | -2.200B | 2.430B |
+| 12:00 | MXN | Trade Balance (USD) (Jan) | -1.248B |  | -1.137B |
+| 12:00 | BRL | Mid-Month CPI (MoM) (Feb) | 0.84% | 0.60% | 0.20% |
+| 12:00 | BRL | Mid-Month CPI (YoY) (Feb) | 4.10% | 3.80% | 4.50% |
+| 12:00 | ZAR | Trade Balance (Jan) | 9.31B |  | 22.38B |
+| 41 min | EUR | German HICP (MoM) (Feb) |  | 0.5% | -0.1% |
+| 41 min | EUR | German HICP (YoY) (Feb) |  | 2.1% | 2.1% |
 | 13:30 | USD | Core PPI (YoY) (Jan) |  | 3.0% | 3.3% |
 | 13:30 | USD | PPI (YoY) (Jan) |  | 2.6% | 3.0% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Jan) |  |  | 3.5% |
