@@ -35,32 +35,34 @@
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Feb) | 2.3% | 2.2% | 2.3% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Feb) | 0.4% | 0.3% | -0.8% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Feb) | 2.5% | 2.3% | 2.4% |
-| 11 min | HKD | Low | Exports (MoM) (Jan) |  |  | 26.1% |
-| 11 min | HKD | Low | Imports (MoM) (Jan) |  |  | 30.6% |
-| 11 min | HKD | Low | M3 Money Supply (Jan) |  |  | 4.2% |
-| 11 min | HKD | Low | Trade Balance (Jan) |  |  | -63.3B |
-| 36 min | EUR | Moderate | German Unemployment Change (Feb) |  | 2K | 0K |
-| 36 min | EUR | Moderate | German Unemployment Rate (Feb) |  | 6.3% | 6.3% |
-| 36 min | EUR | Low | German Unemployment (Feb) |  |  | 2.976M |
-| 36 min | EUR | Low | German Unemployment n.s.a. (Feb) |  |  | 3.085M |
-| 41 min | EUR | Low | Italian Industrial Sales (MoM) (Dec) |  |  | -0.10% |
-| 41 min | EUR | Low | Italian Industrial Sales (YoY) (Dec) |  |  | 0.00% |
-| 41 min | EUR | Low | Baden Wuerttemberg CPI (MoM) (Feb) |  |  | 0.0% |
-| 41 min | EUR | Low | Baden Wuerttemberg CPI (YoY) (Feb) |  |  | 2.1% |
-| 41 min | EUR | Low | Bavaria CPI (YoY) (Feb) |  |  | 2.1% |
-| 41 min | EUR | Low | Bavaria CPI (MoM) (Feb) |  |  | 0.0% |
-| 41 min | EUR | Low | Brandenburg CPI (YoY) (Feb) |  |  | 2.2% |
-| 41 min | EUR | Low | Brandenburg CPI (MoM) (Feb) |  |  | 0.0% |
-| 41 min | EUR | Low | Hesse CPI (MoM) (Feb) |  |  | 0.0% |
-| 41 min | EUR | Low | Hesse CPI (YoY) (Feb) |  |  | 2.1% |
-| 41 min | EUR | Low | North Rhine Westphalia CPI (MoM) (Feb) |  |  | 0.1% |
-| 41 min | EUR | Low | North Rhine Westphalia CPI (YoY) (Feb) |  |  | 2.0% |
-| 41 min | EUR | Low | Saxony CPI (YoY) (Feb) |  |  | 2.3% |
-| 41 min | EUR | Low | Saxony CPI (MoM) (Feb) |  |  | 0.0% |
-| 41 min | EUR | Low | Spanish Current account (Dec) |  |  | 0.21B |
-| 41 min | NOK | Low | Central Bank Currency Purchase (Mar) |  |  | -600.0M |
-| 10:00 | EUR | Low | Italian Trade Balance Non-EU (Jan) |  |  | 8.39B |
-| 10:00 | INR | Low | Federal Fiscal Deficit (Jan) |  |  | 8,558.42B |
+| 08:30 | MXN | Low | Current Account (USD) (Q1) | 7,702M | 11,520M | 7,702M |
+| 08:30 | MXN | Low | Current Account % of GDP (Q1) | 1.60% |  | 0.30% |
+| 08:30 | HKD | Low | Exports (MoM) (Jan) | 33.8% |  | 26.1% |
+| 08:30 | HKD | Low | Imports (MoM) (Jan) | 38.1% |  | 30.6% |
+| 08:30 | HKD | Low | M3 Money Supply (Jan) | 3.8% |  | 4.2% |
+| 08:30 | HKD | Low | Trade Balance (Jan) | -14.1B |  | -63.3B |
+| 08:55 | EUR | Moderate | German Unemployment Change (Feb) | 1K | 2K | 1K |
+| 08:55 | EUR | Moderate | German Unemployment Rate (Feb) | 6.3% | 6.3% | 6.3% |
+| 08:55 | EUR | Low | German Unemployment (Feb) | 2.977M |  | 2.976M |
+| 08:55 | EUR | Low | German Unemployment n.s.a. (Feb) | 3.070M |  | 3.085M |
+| 09:00 | EUR | Low | Italian Industrial Sales (MoM) (Dec) | 0.50% |  | -0.20% |
+| 09:00 | EUR | Low | Italian Industrial Sales (YoY) (Dec) | 3.60% |  | -0.20% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Feb) | 0.2% |  | 0.0% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Feb) | 1.8% |  | 2.1% |
+| 09:00 | EUR | Low | Bavaria CPI (YoY) (Feb) | 1.9% |  | 2.1% |
+| 09:00 | EUR | Low | Bavaria CPI (MoM) (Feb) | 0.2% |  | 0.0% |
+| 09:00 | EUR | Low | Brandenburg CPI (YoY) (Feb) | 2.0% |  | 2.2% |
+| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Feb) | 0.4% |  | 0.0% |
+| 09:00 | EUR | Low | Hesse CPI (MoM) (Feb) | 0.4% |  | 0.0% |
+| 09:00 | EUR | Low | Hesse CPI (YoY) (Feb) | 2.2% |  | 2.1% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Feb) | 0.2% |  | 0.1% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Feb) | 1.8% |  | 2.0% |
+| 09:00 | EUR | Low | Saxony CPI (YoY) (Feb) | 2.3% |  | 2.3% |
+| 09:00 | EUR | Low | Saxony CPI (MoM) (Feb) | 0.3% |  | 0.0% |
+| 09:00 | EUR | Low | Spanish Current account (Dec) | 1.80B |  | 0.21B |
+| 09:00 | NOK | Low | Central Bank Currency Purchase (Mar) | -600.0M |  | -600.0M |
+| 40 min | EUR | Low | Italian Trade Balance Non-EU (Jan) |  |  | 8.39B |
+| 40 min | INR | Low | Federal Fiscal Deficit (Jan) |  |  | 8,558.42B |
 | 10:30 | INR | Low | GDP Annual |  |  | 7.4% |
 | 10:30 | INR | Moderate | GDP Quarterly (YoY) (Q3) |  | 7.2% | 8.2% |
 | 11:00 | EUR | Moderate | France Jobseekers Total (Jan) |  |  | 3,117.4K |
@@ -103,6 +105,7 @@
 | 16:00 | CAD | Low | Budget Balance (Dec) |  |  | -8.02B |
 | 16:00 | CAD | Low | Budget Balance (YoY) (Dec) |  |  | -26.39B |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 3.1% | 3.1% |
+| 17:30 | BRL | Low | CAGED Net Payroll Jobs (Jan) |  | 90.00K | -618.16K |
 | 17:37 | ZAR | Low | Budget Balance (MoM) (Jan) |  |  | 38.44B |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 409 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 551 |

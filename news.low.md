@@ -25,30 +25,32 @@
 | 08:00 | EUR | Core CPI (YoY) (Feb) | 2.7% |  | 2.6% |
 | 08:00 | EUR | Spanish CPI (MoM) (Feb) | 0.4% |  | -0.4% |
 | 08:00 | EUR | Spanish HICP (MoM) (Feb) | 0.4% | 0.3% | -0.8% |
-| 11 min | HKD | Exports (MoM) (Jan) |  |  | 26.1% |
-| 11 min | HKD | Imports (MoM) (Jan) |  |  | 30.6% |
-| 11 min | HKD | M3 Money Supply (Jan) |  |  | 4.2% |
-| 11 min | HKD | Trade Balance (Jan) |  |  | -63.3B |
-| 36 min | EUR | German Unemployment (Feb) |  |  | 2.976M |
-| 36 min | EUR | German Unemployment n.s.a. (Feb) |  |  | 3.085M |
-| 41 min | EUR | Italian Industrial Sales (MoM) (Dec) |  |  | -0.10% |
-| 41 min | EUR | Italian Industrial Sales (YoY) (Dec) |  |  | 0.00% |
-| 41 min | EUR | Baden Wuerttemberg CPI (MoM) (Feb) |  |  | 0.0% |
-| 41 min | EUR | Baden Wuerttemberg CPI (YoY) (Feb) |  |  | 2.1% |
-| 41 min | EUR | Bavaria CPI (YoY) (Feb) |  |  | 2.1% |
-| 41 min | EUR | Bavaria CPI (MoM) (Feb) |  |  | 0.0% |
-| 41 min | EUR | Brandenburg CPI (YoY) (Feb) |  |  | 2.2% |
-| 41 min | EUR | Brandenburg CPI (MoM) (Feb) |  |  | 0.0% |
-| 41 min | EUR | Hesse CPI (MoM) (Feb) |  |  | 0.0% |
-| 41 min | EUR | Hesse CPI (YoY) (Feb) |  |  | 2.1% |
-| 41 min | EUR | North Rhine Westphalia CPI (MoM) (Feb) |  |  | 0.1% |
-| 41 min | EUR | North Rhine Westphalia CPI (YoY) (Feb) |  |  | 2.0% |
-| 41 min | EUR | Saxony CPI (YoY) (Feb) |  |  | 2.3% |
-| 41 min | EUR | Saxony CPI (MoM) (Feb) |  |  | 0.0% |
-| 41 min | EUR | Spanish Current account (Dec) |  |  | 0.21B |
-| 41 min | NOK | Central Bank Currency Purchase (Mar) |  |  | -600.0M |
-| 10:00 | EUR | Italian Trade Balance Non-EU (Jan) |  |  | 8.39B |
-| 10:00 | INR | Federal Fiscal Deficit (Jan) |  |  | 8,558.42B |
+| 08:30 | MXN | Current Account (USD) (Q1) | 7,702M | 11,520M | 7,702M |
+| 08:30 | MXN | Current Account % of GDP (Q1) | 1.60% |  | 0.30% |
+| 08:30 | HKD | Exports (MoM) (Jan) | 33.8% |  | 26.1% |
+| 08:30 | HKD | Imports (MoM) (Jan) | 38.1% |  | 30.6% |
+| 08:30 | HKD | M3 Money Supply (Jan) | 3.8% |  | 4.2% |
+| 08:30 | HKD | Trade Balance (Jan) | -14.1B |  | -63.3B |
+| 08:55 | EUR | German Unemployment (Feb) | 2.977M |  | 2.976M |
+| 08:55 | EUR | German Unemployment n.s.a. (Feb) | 3.070M |  | 3.085M |
+| 09:00 | EUR | Italian Industrial Sales (MoM) (Dec) | 0.50% |  | -0.20% |
+| 09:00 | EUR | Italian Industrial Sales (YoY) (Dec) | 3.60% |  | -0.20% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Feb) | 0.2% |  | 0.0% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Feb) | 1.8% |  | 2.1% |
+| 09:00 | EUR | Bavaria CPI (YoY) (Feb) | 1.9% |  | 2.1% |
+| 09:00 | EUR | Bavaria CPI (MoM) (Feb) | 0.2% |  | 0.0% |
+| 09:00 | EUR | Brandenburg CPI (YoY) (Feb) | 2.0% |  | 2.2% |
+| 09:00 | EUR | Brandenburg CPI (MoM) (Feb) | 0.4% |  | 0.0% |
+| 09:00 | EUR | Hesse CPI (MoM) (Feb) | 0.4% |  | 0.0% |
+| 09:00 | EUR | Hesse CPI (YoY) (Feb) | 2.2% |  | 2.1% |
+| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Feb) | 0.2% |  | 0.1% |
+| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Feb) | 1.8% |  | 2.0% |
+| 09:00 | EUR | Saxony CPI (YoY) (Feb) | 2.3% |  | 2.3% |
+| 09:00 | EUR | Saxony CPI (MoM) (Feb) | 0.3% |  | 0.0% |
+| 09:00 | EUR | Spanish Current account (Dec) | 1.80B |  | 0.21B |
+| 09:00 | NOK | Central Bank Currency Purchase (Mar) | -600.0M |  | -600.0M |
+| 40 min | EUR | Italian Trade Balance Non-EU (Jan) |  |  | 8.39B |
+| 40 min | INR | Federal Fiscal Deficit (Jan) |  |  | 8,558.42B |
 | 10:30 | INR | GDP Annual |  |  | 7.4% |
 | 11:00 | CNY | FDI (Jan) |  |  | -9.50% |
 | 11:30 | INR | Bank Loan Growth |  |  | 14.6% |
@@ -73,6 +75,7 @@
 | 13:30 | CAD | GDP Implicit Price (QoQ) (Q4) |  |  | 0.80% |
 | 16:00 | CAD | Budget Balance (Dec) |  |  | -8.02B |
 | 16:00 | CAD | Budget Balance (YoY) (Dec) |  |  | -26.39B |
+| 17:30 | BRL | CAGED Net Payroll Jobs (Jan) |  | 90.00K | -618.16K |
 | 17:37 | ZAR | Budget Balance (MoM) (Jan) |  |  | 38.44B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -2.7K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 59.3K |

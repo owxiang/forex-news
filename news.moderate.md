@@ -12,8 +12,8 @@
 | 08:00 | CHF | GDP (YoY) (Q4) | 0.7% |  | 0.6% |
 | 08:00 | EUR | Spanish CPI (YoY) (Feb) | 2.3% | 2.2% | 2.3% |
 | 08:00 | EUR | Spanish HICP (YoY) (Feb) | 2.5% | 2.3% | 2.4% |
-| 36 min | EUR | German Unemployment Change (Feb) |  | 2K | 0K |
-| 36 min | EUR | German Unemployment Rate (Feb) |  | 6.3% | 6.3% |
+| 08:55 | EUR | German Unemployment Change (Feb) | 1K | 2K | 1K |
+| 08:55 | EUR | German Unemployment Rate (Feb) | 6.3% | 6.3% | 6.3% |
 | 10:30 | INR | GDP Quarterly (YoY) (Q3) |  | 7.2% | 8.2% |
 | 11:00 | EUR | France Jobseekers Total (Jan) |  |  | 3,117.4K |
 | 11:30 | CAD | Wholesale Sales (MoM) (Jan) |  |  | 2.0% |
