@@ -8,10 +8,10 @@
 | 02:00 | SGD | Bank Lending (Jan) | 887.5B |  | 886.1B |
 | 02:00 | NZD | M3 Money Supply (Jan) | 441.7B |  | 447.9B |
 | 03:35 | JPY | 2-Year JGB Auction | 1.244% |  | 1.253% |
-| 21 min | JPY | Construction Orders (YoY) (Jan) |  |  | 20.2% |
-| 21 min | JPY | Housing Starts (YoY) (Jan) |  | -1.9% | -1.3% |
-| 06:00 | ZAR | M3 Money Supply (YoY) (Jan) |  |  | 8.16% |
-| 06:00 | ZAR | Private Sector Credit (Jan) |  |  | 8.74% |
+| 05:00 | JPY | Construction Orders (YoY) (Jan) | 5.7% |  | 20.2% |
+| 05:00 | JPY | Housing Starts (YoY) (Jan) | -0.4% | -1.9% | -1.3% |
+| 32 min | ZAR | M3 Money Supply (YoY) (Jan) |  |  | 8.16% |
+| 32 min | ZAR | Private Sector Credit (Jan) |  |  | 8.74% |
 | 07:00 | EUR | German Import Price Index (MoM) (Jan) |  | 0.6% | -0.1% |
 | 07:00 | EUR | German Import Price Index (YoY) (Jan) |  |  | -2.3% |
 | 07:00 | NOK | Unemployment Rate n.s.a. (Feb) |  | 2.20% | 2.30% |

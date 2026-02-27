@@ -8,10 +8,10 @@
 | 02:00 | SGD | Low | Bank Lending (Jan) | 887.5B |  | 886.1B |
 | 02:00 | NZD | Low | M3 Money Supply (Jan) | 441.7B |  | 447.9B |
 | 03:35 | JPY | Low | 2-Year JGB Auction | 1.244% |  | 1.253% |
-| 21 min | JPY | Low | Construction Orders (YoY) (Jan) |  |  | 20.2% |
-| 21 min | JPY | Low | Housing Starts (YoY) (Jan) |  | -1.9% | -1.3% |
-| 06:00 | ZAR | Low | M3 Money Supply (YoY) (Jan) |  |  | 8.16% |
-| 06:00 | ZAR | Low | Private Sector Credit (Jan) |  |  | 8.74% |
+| 05:00 | JPY | Low | Construction Orders (YoY) (Jan) | 5.7% |  | 20.2% |
+| 05:00 | JPY | Low | Housing Starts (YoY) (Jan) | -0.4% | -1.9% | -1.3% |
+| 32 min | ZAR | Low | M3 Money Supply (YoY) (Jan) |  |  | 8.16% |
+| 32 min | ZAR | Low | Private Sector Credit (Jan) |  |  | 8.74% |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Jan) |  | 0.6% | -0.1% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Jan) |  |  | -2.3% |
 | 07:00 | NOK | Low | Unemployment Rate n.s.a. (Feb) |  | 2.20% | 2.30% |
@@ -98,7 +98,7 @@
 | 13:30 | CAD | Moderate | GDP (YoY) (Q4) |  |  | 1.42% |
 | 13:30 | CAD | Moderate | GDP Annualized (QoQ) (Q4) |  | 0.0% | 2.6% |
 | 13:31 | CAD | Moderate | GDP (MoM) (Jan) |  |  |  |
-| 14:45 | USD | High | Chicago PMI (Feb) |  | 52.2 | 54.0 |
+| 14:45 | USD | High | Chicago PMI (Feb) |  | 52.0 | 54.0 |
 | 15:00 | USD | Moderate | Construction Spending (MoM) (Dec) |  | 0.2% | 0.5% |
 | 16:00 | CAD | Low | Budget Balance (Dec) |  |  | -8.02B |
 | 16:00 | CAD | Low | Budget Balance (YoY) (Dec) |  |  | -26.39B |
