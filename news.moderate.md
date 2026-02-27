@@ -17,14 +17,14 @@
 | 10:30 | INR | GDP Quarterly (YoY) (Q3) | 7.8% | 7.2% | 8.2% |
 | 11:00 | EUR | France Jobseekers Total (Jan) | 3,090.5K |  | 3,117.4K |
 | 11:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Jan) | 78.7% | 79.0% | 78.7% |
-| 41 min | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 41 min | EUR | German CPI (YoY) (Feb) |  | 2.0% | 2.1% |
+| 13:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 13:00 | EUR | German CPI (YoY) (Feb) | 1.9% | 2.0% | 2.1% |
 | 13:30 | USD | Core PPI (MoM) (Jan) |  | 0.3% | 0.7% |
 | 13:30 | CAD | GDP (MoM) (Dec) |  | 0.1% | 0.0% |
 | 13:30 | CAD | GDP (QoQ) (Q4) |  |  | 0.6% |
 | 13:30 | CAD | GDP (YoY) (Q4) |  |  | 1.42% |
 | 13:30 | CAD | GDP Annualized (QoQ) (Q4) |  | 0.0% | 2.6% |
-| 13:31 | CAD | GDP (MoM) (Jan) |  |  |  |
+| 2 min | CAD | GDP (MoM) (Jan) |  |  |  |
 | 15:00 | USD | Construction Spending (MoM) (Dec) |  | 0.2% | 0.5% |
 | 16:30 | USD | Atlanta Fed GDPNow (Q1) |  | 3.1% | 3.1% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 409 |

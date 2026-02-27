@@ -81,11 +81,11 @@
 | 12:00 | BRL | Low | Mid-Month CPI (MoM) (Feb) | 0.84% | 0.60% | 0.20% |
 | 12:00 | BRL | Low | Mid-Month CPI (YoY) (Feb) | 4.10% | 3.80% | 4.50% |
 | 12:00 | ZAR | Low | Trade Balance (Jan) | 9.31B |  | 22.38B |
-| 41 min | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 41 min | EUR | High | German CPI (MoM) (Feb) |  | 0.5% | 0.1% |
-| 41 min | EUR | Moderate | German CPI (YoY) (Feb) |  | 2.0% | 2.1% |
-| 41 min | EUR | Low | German HICP (MoM) (Feb) |  | 0.5% | -0.1% |
-| 41 min | EUR | Low | German HICP (YoY) (Feb) |  | 2.1% | 2.1% |
+| 13:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 13:00 | EUR | High | German CPI (MoM) (Feb) | 0.2% | 0.5% | 0.1% |
+| 13:00 | EUR | Moderate | German CPI (YoY) (Feb) | 1.9% | 2.0% | 2.1% |
+| 13:00 | EUR | Low | German HICP (MoM) (Feb) | 0.4% | 0.5% | -0.1% |
+| 13:00 | EUR | Low | German HICP (YoY) (Feb) | 2.0% | 2.1% | 2.1% |
 | 13:30 | USD | Moderate | Core PPI (MoM) (Jan) |  | 0.3% | 0.7% |
 | 13:30 | USD | Low | Core PPI (YoY) (Jan) |  | 3.0% | 3.3% |
 | 13:30 | USD | High | PPI (MoM) (Jan) |  | 0.3% | 0.5% |
@@ -97,7 +97,7 @@
 | 13:30 | CAD | Moderate | GDP (QoQ) (Q4) |  |  | 0.6% |
 | 13:30 | CAD | Moderate | GDP (YoY) (Q4) |  |  | 1.42% |
 | 13:30 | CAD | Moderate | GDP Annualized (QoQ) (Q4) |  | 0.0% | 2.6% |
-| 13:31 | CAD | Moderate | GDP (MoM) (Jan) |  |  |  |
+| 2 min | CAD | Moderate | GDP (MoM) (Jan) |  |  |  |
 | 14:45 | USD | High | Chicago PMI (Feb) |  | 52.0 | 54.0 |
 | 15:00 | USD | Moderate | Construction Spending (MoM) (Dec) |  | 0.2% | 0.5% |
 | 16:00 | CAD | Low | Budget Balance (Dec) |  |  | -8.02B |

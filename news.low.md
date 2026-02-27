@@ -66,8 +66,8 @@
 | 12:00 | BRL | Mid-Month CPI (MoM) (Feb) | 0.84% | 0.60% | 0.20% |
 | 12:00 | BRL | Mid-Month CPI (YoY) (Feb) | 4.10% | 3.80% | 4.50% |
 | 12:00 | ZAR | Trade Balance (Jan) | 9.31B |  | 22.38B |
-| 41 min | EUR | German HICP (MoM) (Feb) |  | 0.5% | -0.1% |
-| 41 min | EUR | German HICP (YoY) (Feb) |  | 2.1% | 2.1% |
+| 13:00 | EUR | German HICP (MoM) (Feb) | 0.4% | 0.5% | -0.1% |
+| 13:00 | EUR | German HICP (YoY) (Feb) | 2.0% | 2.1% | 2.1% |
 | 13:30 | USD | Core PPI (YoY) (Jan) |  | 3.0% | 3.3% |
 | 13:30 | USD | PPI (YoY) (Jan) |  | 2.6% | 3.0% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Jan) |  |  | 3.5% |
