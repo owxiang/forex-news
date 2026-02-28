@@ -8,5 +8,4 @@
 | 10:00 | USD | Moderate | OPEC Meeting |  |  |  |
 | 15:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 16:00 | CAD | Low | Budget Balance (YoY) (Dec) |  |  | -26.39B |
-| 18:30 | BRL | Low | CAGED Net Payroll Jobs (Jan) |  | 90.00K | -618.16K |
 | 22:00 | AUD | Low | S&P Global Manufacturing PMI (Feb) |  |  | 51.5 |
