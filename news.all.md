@@ -1,8 +1,12 @@
-## 28 February 2026 - All Forex News
+## 01 March 2026 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 10:30 | INR | Low | Cumulative Industrial Production (Jan) |  |  | 3.90% |
-| 10:30 | INR | Low | Federal Fiscal Deficit (Jan) |  |  | 8,558.42B |
-| 10:30 | INR | Low | Industrial Production (YoY) (Jan) |  |  | 7.8% |
-| 10:30 | INR | Low | Manufacturing Output (MoM) (Jan) |  |  | 8.1% |
+| 00:00 | KRW | Low | Exports (YoY) (Feb) |  |  | 33.8% |
+| 00:00 | KRW | Low | Imports (YoY) (Feb) |  |  | 11.6% |
+| 00:00 | KRW | Low | Trade Balance (Feb) |  |  | 8.72B |
+| 10:00 | USD | Moderate | OPEC Meeting |  |  |  |
+| 15:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 16:00 | CAD | Low | Budget Balance (YoY) (Dec) |  |  | -26.39B |
+| 18:30 | BRL | Low | CAGED Net Payroll Jobs (Jan) |  | 90.00K | -618.16K |
+| 22:00 | AUD | Low | S&P Global Manufacturing PMI (Feb) |  |  | 51.5 |
