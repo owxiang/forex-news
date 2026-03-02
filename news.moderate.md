@@ -14,9 +14,9 @@
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Feb) | 50.8 | 50.8 | 49.5 |
 | 09:15 | EUR | ECB's Elderson Speaks |  |  |  |
 | 09:30 | GBP | S&P Global Manufacturing PMI (Feb) | 51.7 | 52.0 | 52.0 |
-| 14:00 | CAD | BoC Deputy Gov Kozicki Speaks |  |  |  |
-| 14:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 14:10 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 29 min | CAD | BoC Deputy Gov Kozicki Speaks |  |  |  |
+| 29 min | EUR | ECB President Lagarde Speaks |  |  |  |
+| 39 min | EUR | German Buba President Nagel Speaks |  |  |  |
 | 15:00 | USD | ISM Manufacturing Employment (Feb) |  |  | 48.1 |
 | 15:30 | GBP | MPC Member Ramsden Speaks |  |  |  |
 | 16:30 | USD | Atlanta Fed GDPNow (Q1) |  | 3.0% | 3.0% |
