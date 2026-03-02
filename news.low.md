@@ -18,8 +18,8 @@
 | 05:00 | INR | HSBC India Manufacturing PMI (Feb) | 56.9 | 57.5 | 55.4 |
 | 05:30 | AUD | Commodity Prices (YoY) (Feb) | 2.7% |  | 2.7% |
 | 07:00 | EUR | German Retail Sales (YoY) (Jan) | 1.2% |  | 4.3% |
-| 3 min | CHF | Retail Sales (YoY) (Jan) |  | 2.7% | 2.9% |
-| 09:00 | ZAR | Manufacturing PMI (Feb) |  |  | 48.7 |
+| 07:30 | CHF | Retail Sales (YoY) (Jan) | -1.1% | 2.7% | 2.8% |
+| 40 min | ZAR | Manufacturing PMI (Feb) |  |  | 48.7 |
 | 09:30 | GBP | BoE Consumer Credit (Jan) |  |  | 1.524B |
 | 09:30 | GBP | M3 Money Supply (Jan) |  |  | 3,212.7B |
 | 09:30 | GBP | M4 Money Supply (MoM) (Jan) |  | 0.2% | 0.3% |

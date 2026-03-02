@@ -6,13 +6,13 @@
 | 07:00 | GBP | Nationwide HPI (MoM) (Feb) | 0.3% | 0.2% | 0.3% |
 | 07:00 | GBP | Nationwide HPI (YoY) (Feb) | 1.0% | 0.7% | 1.0% |
 | 07:00 | EUR | German Retail Sales (MoM) (Jan) | -0.9% | 0.0% | 1.2% |
-| 48 min | EUR | HCOB Spain Manufacturing PMI (Feb) |  | 49.9 | 49.2 |
-| 08:30 | CHF | procure.ch Manufacturing PMI (Feb) |  | 49.8 | 48.8 |
-| 08:45 | EUR | HCOB Italy Manufacturing PMI (Feb) |  | 49.1 | 48.1 |
-| 08:50 | EUR | HCOB France Manufacturing PMI (Feb) |  | 49.9 | 51.2 |
-| 08:55 | EUR | HCOB Germany Manufacturing PMI (Feb) |  | 50.7 | 49.1 |
-| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Feb) |  | 50.8 | 49.5 |
-| 09:15 | EUR | ECB's Elderson Speaks |  |  |  |
+| 08:15 | EUR | HCOB Spain Manufacturing PMI (Feb) | 50.0 | 49.9 | 49.2 |
+| 10 min | CHF | procure.ch Manufacturing PMI (Feb) |  | 49.8 | 48.8 |
+| 25 min | EUR | HCOB Italy Manufacturing PMI (Feb) |  | 49.1 | 48.1 |
+| 30 min | EUR | HCOB France Manufacturing PMI (Feb) |  | 49.9 | 51.2 |
+| 35 min | EUR | HCOB Germany Manufacturing PMI (Feb) |  | 50.7 | 49.1 |
+| 40 min | EUR | HCOB Eurozone Manufacturing PMI (Feb) |  | 50.8 | 49.5 |
+| 55 min | EUR | ECB's Elderson Speaks |  |  |  |
 | 09:30 | GBP | S&P Global Manufacturing PMI (Feb) |  | 52.0 | 52.0 |
 | 14:00 | CAD | BoC Deputy Gov Kozicki Speaks |  |  |  |
 | 14:00 | EUR | ECB President Lagarde Speaks |  |  |  |

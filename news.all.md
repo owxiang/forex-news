@@ -22,15 +22,15 @@
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Feb) | 1.0% | 0.7% | 1.0% |
 | 07:00 | EUR | Low | German Retail Sales (YoY) (Jan) | 1.2% |  | 4.3% |
 | 07:00 | EUR | Moderate | German Retail Sales (MoM) (Jan) | -0.9% | 0.0% | 1.2% |
-| 3 min | CHF | Low | Retail Sales (YoY) (Jan) |  | 2.7% | 2.9% |
-| 48 min | EUR | Moderate | HCOB Spain Manufacturing PMI (Feb) |  | 49.9 | 49.2 |
-| 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (Feb) |  | 49.8 | 48.8 |
-| 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Feb) |  | 49.1 | 48.1 |
-| 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (Feb) |  | 49.9 | 51.2 |
-| 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Feb) |  | 50.7 | 49.1 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Feb) |  | 50.8 | 49.5 |
-| 09:00 | ZAR | Low | Manufacturing PMI (Feb) |  |  | 48.7 |
-| 09:15 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 07:30 | CHF | Low | Retail Sales (YoY) (Jan) | -1.1% | 2.7% | 2.8% |
+| 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Feb) | 50.0 | 49.9 | 49.2 |
+| 10 min | CHF | Moderate | procure.ch Manufacturing PMI (Feb) |  | 49.8 | 48.8 |
+| 25 min | EUR | Moderate | HCOB Italy Manufacturing PMI (Feb) |  | 49.1 | 48.1 |
+| 30 min | EUR | Moderate | HCOB France Manufacturing PMI (Feb) |  | 49.9 | 51.2 |
+| 35 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Feb) |  | 50.7 | 49.1 |
+| 40 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Feb) |  | 50.8 | 49.5 |
+| 40 min | ZAR | Low | Manufacturing PMI (Feb) |  |  | 48.7 |
+| 55 min | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 09:30 | GBP | Low | BoE Consumer Credit (Jan) |  |  | 1.524B |
 | 09:30 | GBP | Low | M3 Money Supply (Jan) |  |  | 3,212.7B |
 | 09:30 | GBP | Low | M4 Money Supply (MoM) (Jan) |  | 0.2% | 0.3% |
