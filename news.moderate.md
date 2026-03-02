@@ -13,7 +13,7 @@
 | 08:55 | EUR | HCOB Germany Manufacturing PMI (Feb) | 50.9 | 50.7 | 49.1 |
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Feb) | 50.8 | 50.8 | 49.5 |
 | 09:15 | EUR | ECB's Elderson Speaks |  |  |  |
-| 7 min | GBP | S&P Global Manufacturing PMI (Feb) |  | 52.0 | 52.0 |
+| 09:30 | GBP | S&P Global Manufacturing PMI (Feb) | 51.7 | 52.0 | 52.0 |
 | 14:00 | CAD | BoC Deputy Gov Kozicki Speaks |  |  |  |
 | 14:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 14:10 | EUR | German Buba President Nagel Speaks |  |  |  |

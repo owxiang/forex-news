@@ -20,15 +20,15 @@
 | 07:00 | EUR | German Retail Sales (YoY) (Jan) | 1.2% |  | 4.3% |
 | 07:30 | CHF | Retail Sales (YoY) (Jan) | -1.1% | 2.7% | 2.8% |
 | 09:00 | ZAR | Manufacturing PMI (Feb) | 47.4 |  | 48.7 |
-| 7 min | GBP | BoE Consumer Credit (Jan) |  |  | 1.524B |
-| 7 min | GBP | M3 Money Supply (Jan) |  |  | 3,212.7B |
-| 7 min | GBP | M4 Money Supply (MoM) (Jan) |  | 0.2% | 0.3% |
-| 7 min | GBP | Mortgage Approvals (Jan) |  | 62.00K | 61.01K |
-| 7 min | GBP | Mortgage Lending (Jan) |  |  | 4.60B |
-| 7 min | GBP | Net Lending to Individuals (Jan) |  | 6.200B | 6.100B |
-| 10:30 | INR | Cumulative Industrial Production (Jan) |  |  | 3.90% |
-| 10:30 | INR | Industrial Production (YoY) (Jan) |  | 6.5% | 7.8% |
-| 10:30 | INR | Manufacturing Output (MoM) (Jan) |  |  | 8.1% |
+| 09:30 | GBP | BoE Consumer Credit (Jan) | 1.812B |  | 1.652B |
+| 09:30 | GBP | M3 Money Supply (Jan) | 3,207.7B |  | 3,212.3B |
+| 09:30 | GBP | M4 Money Supply (MoM) (Jan) | -0.1% | 0.2% | 0.4% |
+| 09:30 | GBP | Mortgage Approvals (Jan) | 60.00K | 62.00K | 61.01K |
+| 09:30 | GBP | Mortgage Lending (Jan) | 4.08B |  | 4.49B |
+| 09:30 | GBP | Net Lending to Individuals (Jan) | 5.900B | 6.200B | 6.100B |
+| 8 min | INR | Cumulative Industrial Production (Jan) |  |  | 3.90% |
+| 8 min | INR | Industrial Production (YoY) (Jan) |  | 6.5% | 7.8% |
+| 8 min | INR | Manufacturing Output (MoM) (Jan) |  |  | 8.1% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:15 | ZAR | Total Vehicle Sales (Feb) |  |  | 50.07K |
 | 13:00 | BRL | S&P Global Manufacturing PMI (Feb) |  |  | 47.0 |
