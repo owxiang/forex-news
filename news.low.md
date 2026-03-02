@@ -35,17 +35,17 @@
 | 11:30 | INR | Balance of Payments (USD) (Q4) | -24.400B |  | 4.500B |
 | 11:30 | INR | Current Account % of GDP (QoQ) (Q4) | -1.30% |  | -0.20% |
 | 11:30 | INR | Current Account (USD) (Q4) | -13.20B |  | -14.10B |
-| 11:30 | INR | Trade Balance (USD) (Q4) | -93.600B |  | -87.400B |
+| 11:30 | INR | Trade Balance (USD) (Q4) | -93.600B |  | -89.100B |
 | 12:00 | ZAR | Total Vehicle Sales (YoY) (Feb) | 11.40% |  | 7.50% |
 | 12:00 | ZAR | Total Vehicle Sales (Feb) | 53.46K |  | 50.52K |
 | 13:00 | BRL | S&P Global Manufacturing PMI (Feb) | 47.3 |  | 47.0 |
 | 13:00 | SGD | S&P Global Manufacturing PMI (Feb) | 50.6 |  | 50.5 |
-| 29 min | EUR | French 12-Month BTF Auction |  |  | 2.055% |
-| 29 min | EUR | French 3-Month BTF Auction |  |  | 2.008% |
-| 29 min | EUR | French 6-Month BTF Auction |  |  | 2.027% |
-| 59 min | CAD | S&P Global Manufacturing PMI (Feb) |  |  | 50.4 |
-| 15:00 | USD | ISM Manufacturing New Orders Index (Feb) |  |  | 57.1 |
-| 15:00 | MXN | S&P Global Manufacturing PMI (Feb) |  |  | 46.30 |
+| 14:00 | EUR | French 12-Month BTF Auction | 2.097% |  | 2.055% |
+| 14:00 | EUR | French 3-Month BTF Auction | 2.030% |  | 2.008% |
+| 14:00 | EUR | French 6-Month BTF Auction | 2.065% |  | 2.027% |
+| 7 min | CAD | S&P Global Manufacturing PMI (Feb) |  |  | 50.4 |
+| 37 min | USD | ISM Manufacturing New Orders Index (Feb) |  |  | 57.1 |
+| 37 min | MXN | S&P Global Manufacturing PMI (Feb) |  |  | 46.30 |
 | 16:00 | CAD | Budget Balance (YoY) (Dec) |  |  | -26.39B |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 3.590% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 3.525% |

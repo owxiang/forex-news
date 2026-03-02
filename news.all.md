@@ -47,24 +47,24 @@
 | 11:30 | INR | Low | Balance of Payments (USD) (Q4) | -24.400B |  | 4.500B |
 | 11:30 | INR | Low | Current Account % of GDP (QoQ) (Q4) | -1.30% |  | -0.20% |
 | 11:30 | INR | Low | Current Account (USD) (Q4) | -13.20B |  | -14.10B |
-| 11:30 | INR | Low | Trade Balance (USD) (Q4) | -93.600B |  | -87.400B |
+| 11:30 | INR | Low | Trade Balance (USD) (Q4) | -93.600B |  | -89.100B |
 | 12:00 | ZAR | Low | Total Vehicle Sales (YoY) (Feb) | 11.40% |  | 7.50% |
 | 12:00 | ZAR | Low | Total Vehicle Sales (Feb) | 53.46K |  | 50.52K |
 | 13:00 | BRL | Low | S&P Global Manufacturing PMI (Feb) | 47.3 |  | 47.0 |
 | 13:00 | SGD | Low | S&P Global Manufacturing PMI (Feb) | 50.6 |  | 50.5 |
-| 29 min | CAD | Moderate | BoC Deputy Gov Kozicki Speaks |  |  |  |
-| 29 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.055% |
-| 29 min | EUR | Low | French 3-Month BTF Auction |  |  | 2.008% |
-| 29 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.027% |
-| 29 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 39 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 59 min | CAD | Low | S&P Global Manufacturing PMI (Feb) |  |  | 50.4 |
-| 14:45 | USD | High | S&P Global Manufacturing PMI (Feb) |  | 51.2 | 52.4 |
-| 15:00 | USD | Moderate | ISM Manufacturing Employment (Feb) |  |  | 48.1 |
-| 15:00 | USD | Low | ISM Manufacturing New Orders Index (Feb) |  |  | 57.1 |
-| 15:00 | USD | High | ISM Manufacturing PMI (Feb) |  | 51.7 | 52.6 |
-| 15:00 | USD | High | ISM Manufacturing Prices (Feb) |  | 60.6 | 59.0 |
-| 15:00 | MXN | Low | S&P Global Manufacturing PMI (Feb) |  |  | 46.30 |
+| 14:00 | CAD | Moderate | BoC Deputy Gov Kozicki Speaks |  |  |  |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.097% |  | 2.055% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.030% |  | 2.008% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.065% |  | 2.027% |
+| 14:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 14:10 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 7 min | CAD | Low | S&P Global Manufacturing PMI (Feb) |  |  | 50.4 |
+| 22 min | USD | High | S&P Global Manufacturing PMI (Feb) |  | 51.2 | 52.4 |
+| 37 min | USD | Moderate | ISM Manufacturing Employment (Feb) |  |  | 48.1 |
+| 37 min | USD | Low | ISM Manufacturing New Orders Index (Feb) |  |  | 57.1 |
+| 37 min | USD | High | ISM Manufacturing PMI (Feb) |  | 51.7 | 52.6 |
+| 37 min | USD | High | ISM Manufacturing Prices (Feb) |  | 60.6 | 59.0 |
+| 37 min | MXN | Low | S&P Global Manufacturing PMI (Feb) |  |  | 46.30 |
 | 15:30 | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
 | 16:00 | CAD | Low | Budget Balance (YoY) (Dec) |  |  | -26.39B |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.590% |
