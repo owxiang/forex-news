@@ -24,20 +24,20 @@
 | 07:00 | EUR | Moderate | German Retail Sales (MoM) (Jan) | -0.9% | 0.0% | 1.2% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Jan) | -1.1% | 2.7% | 2.8% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Feb) | 50.0 | 49.9 | 49.2 |
-| 10 min | CHF | Moderate | procure.ch Manufacturing PMI (Feb) |  | 49.8 | 48.8 |
-| 25 min | EUR | Moderate | HCOB Italy Manufacturing PMI (Feb) |  | 49.1 | 48.1 |
-| 30 min | EUR | Moderate | HCOB France Manufacturing PMI (Feb) |  | 49.9 | 51.2 |
-| 35 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Feb) |  | 50.7 | 49.1 |
-| 40 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Feb) |  | 50.8 | 49.5 |
-| 40 min | ZAR | Low | Manufacturing PMI (Feb) |  |  | 48.7 |
-| 55 min | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 09:30 | GBP | Low | BoE Consumer Credit (Jan) |  |  | 1.524B |
-| 09:30 | GBP | Low | M3 Money Supply (Jan) |  |  | 3,212.7B |
-| 09:30 | GBP | Low | M4 Money Supply (MoM) (Jan) |  | 0.2% | 0.3% |
-| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Feb) |  | 52.0 | 52.0 |
-| 09:30 | GBP | Low | Mortgage Approvals (Jan) |  | 62.00K | 61.01K |
-| 09:30 | GBP | Low | Mortgage Lending (Jan) |  |  | 4.60B |
-| 09:30 | GBP | Low | Net Lending to Individuals (Jan) |  | 6.200B | 6.100B |
+| 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (Feb) | 47.4 | 49.8 | 48.8 |
+| 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Feb) | 50.6 | 49.1 | 48.1 |
+| 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (Feb) | 50.1 | 49.9 | 51.2 |
+| 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Feb) | 50.9 | 50.7 | 49.1 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Feb) | 50.8 | 50.8 | 49.5 |
+| 09:00 | ZAR | Low | Manufacturing PMI (Feb) | 47.4 |  | 48.7 |
+| 09:15 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 7 min | GBP | Low | BoE Consumer Credit (Jan) |  |  | 1.524B |
+| 7 min | GBP | Low | M3 Money Supply (Jan) |  |  | 3,212.7B |
+| 7 min | GBP | Low | M4 Money Supply (MoM) (Jan) |  | 0.2% | 0.3% |
+| 7 min | GBP | Moderate | S&P Global Manufacturing PMI (Feb) |  | 52.0 | 52.0 |
+| 7 min | GBP | Low | Mortgage Approvals (Jan) |  | 62.00K | 61.01K |
+| 7 min | GBP | Low | Mortgage Lending (Jan) |  |  | 4.60B |
+| 7 min | GBP | Low | Net Lending to Individuals (Jan) |  | 6.200B | 6.100B |
 | 10:30 | INR | Low | Cumulative Industrial Production (Jan) |  |  | 3.90% |
 | 10:30 | INR | Low | Industrial Production (YoY) (Jan) |  | 6.5% | 7.8% |
 | 10:30 | INR | Low | Manufacturing Output (MoM) (Jan) |  |  | 8.1% |
