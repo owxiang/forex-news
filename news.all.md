@@ -17,11 +17,11 @@
 | 04:00 | IDR | Low | Inflation (MoM) (Feb) | 0.68% |  | -0.15% |
 | 04:00 | IDR | Low | Trade Balance (Jan) | 0.96B | 2.76B | 2.52B |
 | 05:00 | INR | Low | HSBC India Manufacturing PMI (Feb) | 56.9 | 57.5 | 55.4 |
-| 2 min | AUD | Low | Commodity Prices (YoY) (Feb) |  |  | 2.6% |
-| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Feb) |  | 0.2% | 0.3% |
-| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Feb) |  | 0.7% | 1.0% |
-| 07:00 | EUR | Low | German Retail Sales (YoY) (Jan) |  |  | 1.5% |
-| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Jan) |  | 0.0% | 0.1% |
+| 05:30 | AUD | Low | Commodity Prices (YoY) (Feb) | 2.7% |  | 2.6% |
+| 33 min | GBP | Moderate | Nationwide HPI (MoM) (Feb) |  | 0.2% | 0.3% |
+| 33 min | GBP | Moderate | Nationwide HPI (YoY) (Feb) |  | 0.7% | 1.0% |
+| 33 min | EUR | Low | German Retail Sales (YoY) (Jan) |  |  | 1.5% |
+| 33 min | EUR | Moderate | German Retail Sales (MoM) (Jan) |  | 0.0% | 0.1% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Jan) |  | 2.7% | 2.9% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Feb) |  | 49.9 | 49.2 |
 | 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (Feb) |  | 49.8 | 48.8 |
