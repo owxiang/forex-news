@@ -43,10 +43,10 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 2.097% |  | 2.055% |
 | 14:00 | EUR | French 3-Month BTF Auction | 2.030% |  | 2.008% |
 | 14:00 | EUR | French 6-Month BTF Auction | 2.065% |  | 2.027% |
-| 7 min | CAD | S&P Global Manufacturing PMI (Feb) |  |  | 50.4 |
-| 37 min | USD | ISM Manufacturing New Orders Index (Feb) |  |  | 57.1 |
-| 37 min | MXN | S&P Global Manufacturing PMI (Feb) |  |  | 46.30 |
-| 16:00 | CAD | Budget Balance (YoY) (Dec) |  |  | -26.39B |
+| 14:30 | CAD | S&P Global Manufacturing PMI (Feb) | 51.0 |  | 50.4 |
+| 15:00 | USD | ISM Manufacturing New Orders Index (Feb) | 55.8 | 53.3 | 57.1 |
+| 15:00 | MXN | S&P Global Manufacturing PMI (Feb) | 47.10 |  | 46.30 |
+| 40 min | CAD | Budget Balance (YoY) (Dec) |  |  | -26.39B |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 3.590% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 3.525% |
 | 19:00 | MXN | Fiscal Balance (Jan) |  |  | -414.44B |

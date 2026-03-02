@@ -58,15 +58,15 @@
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.065% |  | 2.027% |
 | 14:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 14:10 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 7 min | CAD | Low | S&P Global Manufacturing PMI (Feb) |  |  | 50.4 |
-| 22 min | USD | High | S&P Global Manufacturing PMI (Feb) |  | 51.2 | 52.4 |
-| 37 min | USD | Moderate | ISM Manufacturing Employment (Feb) |  |  | 48.1 |
-| 37 min | USD | Low | ISM Manufacturing New Orders Index (Feb) |  |  | 57.1 |
-| 37 min | USD | High | ISM Manufacturing PMI (Feb) |  | 51.7 | 52.6 |
-| 37 min | USD | High | ISM Manufacturing Prices (Feb) |  | 60.6 | 59.0 |
-| 37 min | MXN | Low | S&P Global Manufacturing PMI (Feb) |  |  | 46.30 |
-| 15:30 | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
-| 16:00 | CAD | Low | Budget Balance (YoY) (Dec) |  |  | -26.39B |
+| 14:30 | CAD | Low | S&P Global Manufacturing PMI (Feb) | 51.0 |  | 50.4 |
+| 14:45 | USD | High | S&P Global Manufacturing PMI (Feb) | 51.6 | 51.2 | 51.2 |
+| 15:00 | USD | Moderate | ISM Manufacturing Employment (Feb) | 48.8 | 48.3 | 48.1 |
+| 15:00 | USD | Low | ISM Manufacturing New Orders Index (Feb) | 55.8 | 53.3 | 57.1 |
+| 15:00 | USD | High | ISM Manufacturing PMI (Feb) | 52.4 | 51.7 | 52.6 |
+| 15:00 | USD | High | ISM Manufacturing Prices (Feb) | 70.5 | 60.6 | 59.0 |
+| 15:00 | MXN | Low | S&P Global Manufacturing PMI (Feb) | 47.10 |  | 46.30 |
+| 10 min | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
+| 40 min | CAD | Low | Budget Balance (YoY) (Dec) |  |  | -26.39B |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.590% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.525% |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 3.0% | 3.0% |
