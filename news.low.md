@@ -48,7 +48,7 @@
 | 15:00 | MXN | S&P Global Manufacturing PMI (Feb) | 47.10 |  | 46.30 |
 | 16:30 | USD | 3-Month Bill Auction | 3.610% |  | 3.590% |
 | 16:30 | USD | 6-Month Bill Auction | 3.535% |  | 3.525% |
-| 21:10 | AUD | RBA Gov Bullock Speaks |  |  |  |
+| 57 min | AUD | RBA Gov Bullock Speaks |  |  |  |
 | 21:45 | NZD | Building Consents (MoM) (Jan) |  |  | -4.6% |
 | 23:30 | JPY | Jobs/applications ratio (Jan) |  | 1.19 | 1.19 |
 | 23:30 | JPY | Unemployment Rate (Jan) |  | 2.6% | 2.6% |
