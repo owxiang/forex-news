@@ -46,9 +46,8 @@
 | 14:30 | CAD | S&P Global Manufacturing PMI (Feb) | 51.0 |  | 50.4 |
 | 15:00 | USD | ISM Manufacturing New Orders Index (Feb) | 55.8 | 53.3 | 57.1 |
 | 15:00 | MXN | S&P Global Manufacturing PMI (Feb) | 47.10 |  | 46.30 |
-| 40 min | CAD | Budget Balance (YoY) (Dec) |  |  | -26.39B |
-| 16:30 | USD | 3-Month Bill Auction |  |  | 3.590% |
-| 16:30 | USD | 6-Month Bill Auction |  |  | 3.525% |
+| 12 min | USD | 3-Month Bill Auction |  |  | 3.590% |
+| 12 min | USD | 6-Month Bill Auction |  |  | 3.525% |
 | 19:00 | MXN | Fiscal Balance (Jan) |  |  | -414.44B |
 | 21:10 | AUD | RBA Gov Bullock Speaks |  |  |  |
 | 21:45 | NZD | Building Consents (MoM) (Jan) |  |  | -4.6% |

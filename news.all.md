@@ -65,11 +65,10 @@
 | 15:00 | USD | High | ISM Manufacturing PMI (Feb) | 52.4 | 51.7 | 52.6 |
 | 15:00 | USD | High | ISM Manufacturing Prices (Feb) | 70.5 | 60.6 | 59.0 |
 | 15:00 | MXN | Low | S&P Global Manufacturing PMI (Feb) | 47.10 |  | 46.30 |
-| 10 min | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
-| 40 min | CAD | Low | Budget Balance (YoY) (Dec) |  |  | -26.39B |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.590% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.525% |
-| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 3.0% | 3.0% |
+| 15:30 | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
+| 12 min | USD | Low | 3-Month Bill Auction |  |  | 3.590% |
+| 12 min | USD | Low | 6-Month Bill Auction |  |  | 3.525% |
+| 12 min | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 3.0% | 3.0% |
 | 19:00 | MXN | Low | Fiscal Balance (Jan) |  |  | -414.44B |
 | 21:10 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
 | 21:45 | NZD | Low | Building Consents (MoM) (Jan) |  |  | -4.6% |

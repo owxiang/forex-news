@@ -18,6 +18,6 @@
 | 14:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 14:10 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 15:00 | USD | ISM Manufacturing Employment (Feb) | 48.8 | 48.3 | 48.1 |
-| 10 min | GBP | MPC Member Ramsden Speaks |  |  |  |
-| 16:30 | USD | Atlanta Fed GDPNow (Q1) |  | 3.0% | 3.0% |
+| 15:30 | GBP | MPC Member Ramsden Speaks |  |  |  |
+| 12 min | USD | Atlanta Fed GDPNow (Q1) |  | 3.0% | 3.0% |
 | 23:50 | JPY | Capital Spending (YoY) (Q4) |  | 3.1% | 2.9% |
