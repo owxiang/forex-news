@@ -18,8 +18,8 @@
 | 04:00 | IDR | Low | Trade Balance (Jan) | 0.96B | 2.76B | 2.52B |
 | 05:00 | INR | Low | HSBC India Manufacturing PMI (Feb) | 56.9 | 57.5 | 55.4 |
 | 05:30 | AUD | Low | Commodity Prices (YoY) (Feb) | 2.7% |  | 2.7% |
-| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Feb) | 0.3% | 0.2% | 0.3% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Feb) | 1.0% | 0.7% | 1.0% |
+| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Feb) | 0.3% | 0.2% | 0.3% |
 | 07:00 | EUR | Low | German Retail Sales (YoY) (Jan) | 1.2% |  | 4.3% |
 | 07:00 | EUR | Moderate | German Retail Sales (MoM) (Jan) | -0.9% | 0.0% | 1.2% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Jan) | -1.1% | 2.7% | 2.8% |
@@ -41,10 +41,14 @@
 | 10:30 | INR | Low | Cumulative Industrial Production (Jan) | 4.00% |  | 3.90% |
 | 10:30 | INR | Low | Industrial Production (YoY) (Jan) | 4.8% | 6.5% | 7.8% |
 | 10:30 | INR | Low | Manufacturing Output (MoM) (Jan) | 4.8% |  | 8.1% |
-| 6 min | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 56 min | ZAR | Low | Total Vehicle Sales (Feb) |  |  | 50.07K |
-| 13:00 | BRL | Low | S&P Global Manufacturing PMI (Feb) |  |  | 47.0 |
-| 13:00 | SGD | Low | S&P Global Manufacturing PMI (Feb) |  |  | 50.5 |
+| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 11:30 | INR | Low | Balance of Payments (USD) (Q4) | -24.400B |  | 4.500B |
+| 11:30 | INR | Low | Current Account % of GDP (QoQ) (Q3) | -1.30% |  | -0.20% |
+| 11:30 | INR | Low | Current Account (USD) (Q3) | -13.20B |  | -2.70B |
+| 11:30 | INR | Low | Trade Balance (USD) (Q3) | -93.600B |  | -87.400B |
+| 12:15 | ZAR | Low | Total Vehicle Sales (Feb) |  |  | 50.07K |
+| 41 min | BRL | Low | S&P Global Manufacturing PMI (Feb) |  |  | 47.0 |
+| 41 min | SGD | Low | S&P Global Manufacturing PMI (Feb) |  |  | 50.5 |
 | 14:00 | CAD | Moderate | BoC Deputy Gov Kozicki Speaks |  |  |  |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.055% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.008% |

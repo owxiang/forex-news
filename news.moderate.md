@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Company Gross Operating Profits (QoQ) (Q4) | 5.8% | 1.8% | 1.5% |
-| 07:00 | GBP | Nationwide HPI (MoM) (Feb) | 0.3% | 0.2% | 0.3% |
 | 07:00 | GBP | Nationwide HPI (YoY) (Feb) | 1.0% | 0.7% | 1.0% |
+| 07:00 | GBP | Nationwide HPI (MoM) (Feb) | 0.3% | 0.2% | 0.3% |
 | 07:00 | EUR | German Retail Sales (MoM) (Jan) | -0.9% | 0.0% | 1.2% |
 | 08:15 | EUR | HCOB Spain Manufacturing PMI (Feb) | 50.0 | 49.9 | 49.2 |
 | 08:30 | CHF | procure.ch Manufacturing PMI (Feb) | 47.4 | 49.8 | 48.8 |
