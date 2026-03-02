@@ -70,8 +70,9 @@
 | 16:30 | USD | Low | 3-Month Bill Auction | 3.610% |  | 3.590% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 3.535% |  | 3.525% |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 3.0% | 3.0% | 3.0% |
-| 57 min | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
-| 21:45 | NZD | Low | Building Consents (MoM) (Jan) |  |  | -4.6% |
+| 19:00 | MXN | Low | Fiscal Balance (Jan) | -19.32B |  | -414.44B |
+| 21:10 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
+| 31 min | NZD | Low | Building Consents (MoM) (Jan) |  |  | -4.6% |
 | 23:30 | JPY | Low | Jobs/applications ratio (Jan) |  | 1.19 | 1.19 |
 | 23:30 | JPY | Low | Unemployment Rate (Jan) |  | 2.6% | 2.6% |
 | 23:50 | JPY | Moderate | Capital Spending (YoY) (Q4) |  | 3.1% | 2.9% |
