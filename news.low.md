@@ -3,11 +3,11 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | AUD | MI Inflation Gauge (MoM) (Feb) | -0.2% |  | 0.2% |
+| 00:30 | AUD | ANZ Job Advertisements (MoM) (Feb) | 3.2% |  | 5.2% |
 | 00:30 | AUD | Business inventories (MoM) (Q4) | -0.1% |  | -0.8% |
 | 00:30 | AUD | Company Profits Pre-Tax (QoQ) (Q4) | 1.6% |  | 0.4% |
 | 00:30 | JPY | S&P Global Manufacturing PMI (Feb) | 53.0 | 52.8 | 51.5 |
 | 00:30 | IDR | S&P Global Manufacturing PMI (Feb) | 53.8 |  | 52.6 |
-| 50 min | AUD | ANZ Job Advertisements (MoM) (Feb) |  |  | 4.4% |
 | 04:00 | IDR | Core Inflation (YoY) (Feb) |  |  | 2.45% |
 | 04:00 | IDR | Export Growth (YoY) (Jan) |  | 11.07% | 11.64% |
 | 04:00 | IDR | Import Growth (YoY) (Jan) |  | 13.23% | 10.81% |
