@@ -9,18 +9,19 @@
 | 00:30 | AUD | Low | Company Profits Pre-Tax (QoQ) (Q4) | 1.6% |  | 0.4% |
 | 00:30 | JPY | Low | S&P Global Manufacturing PMI (Feb) | 53.0 | 52.8 | 51.5 |
 | 00:30 | IDR | Low | S&P Global Manufacturing PMI (Feb) | 53.8 |  | 52.6 |
-| 04:00 | IDR | Low | Core Inflation (YoY) (Feb) |  |  | 2.45% |
-| 04:00 | IDR | Low | Export Growth (YoY) (Jan) |  | 11.07% | 11.64% |
-| 04:00 | IDR | Low | Import Growth (YoY) (Jan) |  | 13.23% | 10.81% |
-| 04:00 | IDR | Low | Inflation (MoM) (Feb) |  |  | -0.15% |
-| 04:00 | IDR | Low | Inflation (YoY) (Feb) |  |  | 3.55% |
-| 04:00 | IDR | Low | Trade Balance (Jan) |  | 2.76B | 2.52B |
+| 01:44 | CNY | Low | FDI (Jan) | -5.70% |  | -9.50% |
+| 54 min | IDR | Low | Core Inflation (YoY) (Feb) |  |  | 2.45% |
+| 54 min | IDR | Low | Export Growth (YoY) (Jan) |  | 11.07% | 11.64% |
+| 54 min | IDR | Low | Import Growth (YoY) (Jan) |  | 13.23% | 10.81% |
+| 54 min | IDR | Low | Inflation (YoY) (Feb) |  |  | 3.55% |
+| 54 min | IDR | Low | Inflation (MoM) (Feb) |  |  | -0.15% |
+| 54 min | IDR | Low | Trade Balance (Jan) |  | 2.76B | 2.52B |
 | 05:00 | INR | Low | HSBC India Manufacturing PMI (Feb) |  | 57.5 | 57.5 |
 | 05:30 | AUD | Low | Commodity Prices (YoY) (Feb) |  |  | 2.6% |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Feb) |  | 0.2% | 0.3% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Feb) |  | 0.7% | 1.0% |
-| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Jan) |  | 0.0% | 0.1% |
 | 07:00 | EUR | Low | German Retail Sales (YoY) (Jan) |  |  | 1.5% |
+| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Jan) |  | 0.0% | 0.1% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Jan) |  | 2.7% | 2.9% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Feb) |  |  | 49.2 |
 | 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (Feb) |  | 50.1 | 48.8 |

@@ -8,12 +8,13 @@
 | 00:30 | AUD | Company Profits Pre-Tax (QoQ) (Q4) | 1.6% |  | 0.4% |
 | 00:30 | JPY | S&P Global Manufacturing PMI (Feb) | 53.0 | 52.8 | 51.5 |
 | 00:30 | IDR | S&P Global Manufacturing PMI (Feb) | 53.8 |  | 52.6 |
-| 04:00 | IDR | Core Inflation (YoY) (Feb) |  |  | 2.45% |
-| 04:00 | IDR | Export Growth (YoY) (Jan) |  | 11.07% | 11.64% |
-| 04:00 | IDR | Import Growth (YoY) (Jan) |  | 13.23% | 10.81% |
-| 04:00 | IDR | Inflation (MoM) (Feb) |  |  | -0.15% |
-| 04:00 | IDR | Inflation (YoY) (Feb) |  |  | 3.55% |
-| 04:00 | IDR | Trade Balance (Jan) |  | 2.76B | 2.52B |
+| 01:44 | CNY | FDI (Jan) | -5.70% |  | -9.50% |
+| 54 min | IDR | Core Inflation (YoY) (Feb) |  |  | 2.45% |
+| 54 min | IDR | Export Growth (YoY) (Jan) |  | 11.07% | 11.64% |
+| 54 min | IDR | Import Growth (YoY) (Jan) |  | 13.23% | 10.81% |
+| 54 min | IDR | Inflation (YoY) (Feb) |  |  | 3.55% |
+| 54 min | IDR | Inflation (MoM) (Feb) |  |  | -0.15% |
+| 54 min | IDR | Trade Balance (Jan) |  | 2.76B | 2.52B |
 | 05:00 | INR | HSBC India Manufacturing PMI (Feb) |  | 57.5 | 57.5 |
 | 05:30 | AUD | Commodity Prices (YoY) (Feb) |  |  | 2.6% |
 | 07:00 | EUR | German Retail Sales (YoY) (Jan) |  |  | 1.5% |
