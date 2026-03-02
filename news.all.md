@@ -72,7 +72,7 @@
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 3.0% | 3.0% | 3.0% |
 | 19:00 | MXN | Low | Fiscal Balance (Jan) | -19.32B |  | -414.44B |
 | 21:10 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
-| 31 min | NZD | Low | Building Consents (MoM) (Jan) |  |  | -4.6% |
+| 21:45 | NZD | Low | Building Consents (MoM) (Jan) | 1.9% |  | -4.5% |
 | 23:30 | JPY | Low | Jobs/applications ratio (Jan) |  | 1.19 | 1.19 |
 | 23:30 | JPY | Low | Unemployment Rate (Jan) |  | 2.6% | 2.6% |
 | 23:50 | JPY | Moderate | Capital Spending (YoY) (Q4) |  | 3.1% | 2.9% |
