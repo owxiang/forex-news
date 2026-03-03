@@ -37,8 +37,8 @@
 | 12:30 | EUR | Low | Italian Car Registration (YoY) (Feb) | 14.0% |  | 6.2% |
 | 12:30 | EUR | Low | French Car Registration (YoY) (Feb) | -14.7% |  | -6.6% |
 | 13:55 | USD | Low | Redbook (YoY) | 7.0% |  | 6.7% |
-| 34 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 49 min | USD | Low | IBD/TIPP Economic Optimism |  | 50.1 | 48.8 |
+| 14:55 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 15:10 | USD | Low | IBD/TIPP Economic Optimism | 47.5 | 50.1 | 48.8 |
 | 16:45 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 17:30 | BRL | Low | CAGED Net Payroll Jobs (Jan) |  | 90.00K | -618.16K |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 2.200M | 11.400M |

@@ -25,7 +25,7 @@
 | 12:30 | EUR | Italian Car Registration (YoY) (Feb) | 14.0% |  | 6.2% |
 | 12:30 | EUR | French Car Registration (YoY) (Feb) | -14.7% |  | -6.6% |
 | 13:55 | USD | Redbook (YoY) | 7.0% |  | 6.7% |
-| 49 min | USD | IBD/TIPP Economic Optimism |  | 50.1 | 48.8 |
+| 15:10 | USD | IBD/TIPP Economic Optimism | 47.5 | 50.1 | 48.8 |
 | 17:30 | BRL | CAGED Net Payroll Jobs (Jan) |  | 90.00K | -618.16K |
 | 21:45 | NZD | Terms of Trade - Exports Prices (Q4) |  | 0.5% | -1.6% |
 | 21:45 | NZD | Terms of Trade - Exports Volume (QoQ) (Q4) |  |  | 3.4% |
