@@ -9,9 +9,9 @@
 | 10:00 | BRL | IPC-Fipe Inflation Index (MoM) (Feb) | 0.25% |  | 0.21% |
 | 10:00 | EUR | Core CPI (YoY) (Feb) | 2.4% | 2.2% | 2.2% |
 | 10:00 | EUR | CPI (MoM) (Feb) | 0.7% |  | -0.6% |
-| 44 min | BRL | GDP (QoQ) (Q4) |  | 0.1% | 0.1% |
-| 44 min | BRL | GDP (YoY) (Q4) |  | 1.8% | 1.8% |
-| 12:30 | GBP | Spring Statement |  |  |  |
+| 12:00 | BRL | GDP (QoQ) (Q4) | 0.1% | 0.1% | 0.0% |
+| 12:00 | BRL | GDP (YoY) (Q4) | 1.8% | 1.8% | 1.8% |
+| 11 min | GBP | Spring Statement |  |  |  |
 | 14:55 | USD | FOMC Member Williams Speaks |  |  |  |
 | 16:45 | USD | FOMC Member Kashkari Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | 2.200M | 11.400M |

@@ -29,9 +29,9 @@
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Feb) | 2.3% |  | 2.2% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Feb) | 0.7% |  | -0.8% |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction | 2.430% |  | 2.400% |
-| 44 min | BRL | Moderate | GDP (QoQ) (Q4) |  | 0.1% | 0.1% |
-| 44 min | BRL | Moderate | GDP (YoY) (Q4) |  | 1.8% | 1.8% |
-| 12:30 | GBP | Moderate | Spring Statement |  |  |  |
+| 12:00 | BRL | Moderate | GDP (QoQ) (Q4) | 0.1% | 0.1% | 0.0% |
+| 12:00 | BRL | Moderate | GDP (YoY) (Q4) | 1.8% | 1.8% | 1.8% |
+| 11 min | GBP | Moderate | Spring Statement |  |  |  |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 6.7% |
 | 14:55 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 15:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 3.6% |
