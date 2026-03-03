@@ -11,8 +11,8 @@
 | 00:30 | AUD | Low | Private House Approvals (Jan) | 1.1% |  | 1.2% |
 | 03:35 | JPY | Moderate | 10-Year JGB Auction | 2.122% |  | 2.249% |
 | 04:00 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
-| 22 min | EUR | Low | French Government Budget Balance (Jan) |  |  | -124.7B |
-| 37 min | EUR | Moderate | Spanish Unemployment Change (Feb) |  | 26.7K | 30.4K |
+| 07:45 | EUR | Low | French Government Budget Balance (Jan) | -9.7B |  | -124.7B |
+| 08:00 | EUR | Moderate | Spanish Unemployment Change (Feb) | 3.6K | 26.7K | 30.4K |
 | 09:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.028% |
 | 09:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 1.973% |
 | 10:00 | GBP | High | Spring Forecast Statement |  |  |  |
