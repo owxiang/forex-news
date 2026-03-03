@@ -7,19 +7,19 @@
 | 00:30 | AUD | Low | Building Approvals (YoY) (Jan) | 8.10% |  | 16.40% |
 | 00:30 | AUD | Moderate | Building Approvals (MoM) (Jan) | -7.2% | 5.4% | -14.9% |
 | 00:30 | AUD | Moderate | Current Account (Q4) | -21.1B | -16.8B | -18.3B |
-| 00:30 | AUD | Low | Net Exports Contribution (Q4) | -0.1% |  | -0.1% |
-| 00:30 | AUD | Low | Private House Approvals (Jan) | 1.1% |  | 0.4% |
-| 03:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 2.249% |
+| 00:30 | AUD | Low | Net Exports Contribution (Q4) | -0.1% | -0.3% | -0.1% |
+| 00:30 | AUD | Low | Private House Approvals (Jan) | 1.1% |  | 1.2% |
+| 03:35 | JPY | Moderate | 10-Year JGB Auction | 2.122% |  | 2.249% |
 | 04:00 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
 | 07:45 | EUR | Low | French Government Budget Balance (Jan) |  |  | -124.7B |
-| 08:00 | EUR | Moderate | Spanish Unemployment Change (Feb) |  | 37.5K | 30.4K |
+| 08:00 | EUR | Moderate | Spanish Unemployment Change (Feb) |  | 26.7K | 30.4K |
 | 09:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.028% |
 | 09:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 1.973% |
 | 10:00 | GBP | High | Spring Forecast Statement |  |  |  |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Feb) |  | 0.3% | 0.4% |
 | 10:00 | EUR | Low | Italian CPI (YoY) (Feb) |  |  | 1.0% |
-| 10:00 | EUR | Low | Italian HICP (MoM) (Feb) |  |  | -1.0% |
-| 10:00 | EUR | Low | Italian HICP (YoY) (Feb) |  |  | 1.0% |
+| 10:00 | EUR | Low | Italian HICP (MoM) (Feb) |  | 0.1% | -1.0% |
+| 10:00 | EUR | Low | Italian HICP (YoY) (Feb) |  | 1.1% | 1.0% |
 | 10:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Feb) |  |  | 0.21% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Feb) |  | 2.2% | 2.2% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Feb) |  |  | -1.1% |
@@ -29,25 +29,25 @@
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Feb) |  |  | 2.1% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Feb) |  |  | -0.8% |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.400% |
-| 12:00 | EUR | Low | Car Registration (YoY) (Feb) |  |  | 1.10% |
-| 12:00 | BRL | Moderate | GDP (YoY) (Q4) |  |  | 1.8% |
-| 12:00 | BRL | Moderate | GDP (QoQ) (Q4) |  |  | 0.1% |
+| 12:00 | BRL | Moderate | GDP (YoY) (Q4) |  | 1.8% | 1.8% |
+| 12:00 | BRL | Moderate | GDP (QoQ) (Q4) |  | 0.1% | 0.1% |
 | 12:00 | CNY | Low | FDI (Jan) |  |  | -9.50% |
-| 12:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 3.6% |
-| 12:00 | USD | Low | Milk Auctions |  |  | 4,028.0 |
 | 12:30 | GBP | Moderate | Spring Statement |  |  |  |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 6.7% |
 | 14:55 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 15:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 3.6% |
+| 15:00 | USD | Low | Milk Auctions |  |  | 4,028.0 |
 | 15:10 | USD | Low | IBD/TIPP Economic Optimism |  | 50.1 | 48.8 |
 | 16:45 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 17:00 | EUR | Low | Italian Car Registration (YoY) (Feb) |  |  | 6.2% |
+| 17:00 | EUR | Low | French Car Registration (YoY) (Feb) |  |  | -6.6% |
 | 17:30 | BRL | Low | CAGED Net Payroll Jobs (Jan) |  | 90.00K | -618.16K |
 | 19:00 | MXN | Low | Fiscal Balance (Jan) |  |  | -414.44B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 11.400M |
 | 21:45 | NZD | Low | Terms of Trade - Exports Prices (Q4) |  |  | -1.6% |
 | 21:45 | NZD | Low | Terms of Trade - Exports Volume (QoQ) (Q4) |  |  | 3.4% |
 | 21:45 | NZD | Low | Terms of Trade - Imports Prices (Q4) |  |  | 0.5% |
-| 21:45 | NZD | Low | Terms of Trade Index (QoQ) (Q4) |  | -0.2% | -2.1% |
+| 21:45 | NZD | Low | Terms of Trade Index (QoQ) (Q4) |  | -0.1% | -2.1% |
 | 22:00 | AUD | Low | AIG Construction Index (Feb) |  |  | 5.2 |
 | 22:00 | AUD | Low | AIG Manufacturing Index (Feb) |  |  | -19.4 |
 | 22:00 | AUD | Low | S&P Global Manufacturing & Services PMI (Feb) |  | 52.00 | 55.70 |
