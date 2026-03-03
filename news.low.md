@@ -20,12 +20,12 @@
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Feb) | 2.3% |  | 2.2% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Feb) | 0.7% |  | -0.8% |
 | 10:30 | EUR | German 5-Year Bobl Auction | 2.430% |  | 2.400% |
-| 12:00 | NZD | GlobalDairyTrade Price Index |  |  | 3.6% |
-| 12:00 | USD | Milk Auctions |  |  | 4,028.0 |
 | 12:30 | EUR | Italian Car Registration (YoY) (Feb) | 14.0% |  | 6.2% |
 | 12:30 | EUR | French Car Registration (YoY) (Feb) | -14.7% |  | -6.6% |
 | 13:55 | USD | Redbook (YoY) | 7.0% |  | 6.7% |
 | 15:10 | USD | IBD/TIPP Economic Optimism | 47.5 | 50.1 | 48.8 |
+| 15:30 | NZD | GlobalDairyTrade Price Index | 5.7% |  | 3.6% |
+| 15:30 | USD | Milk Auctions | 4,301.0 |  | 4,028.0 |
 | 17:30 | BRL | CAGED Net Payroll Jobs (Jan) |  | 90.00K | -618.16K |
 | 21:45 | NZD | Terms of Trade - Exports Prices (Q4) |  | 0.5% | -1.6% |
 | 21:45 | NZD | Terms of Trade - Exports Volume (QoQ) (Q4) |  |  | 3.4% |

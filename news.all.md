@@ -31,15 +31,15 @@
 | 10:30 | EUR | Low | German 5-Year Bobl Auction | 2.430% |  | 2.400% |
 | 12:00 | BRL | Moderate | GDP (QoQ) (Q4) | 0.1% | 0.1% | 0.0% |
 | 12:00 | BRL | Moderate | GDP (YoY) (Q4) | 1.8% | 1.8% | 1.8% |
-| 12:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 3.6% |
-| 12:00 | USD | Low | Milk Auctions |  |  | 4,028.0 |
 | 12:30 | GBP | Moderate | Spring Statement |  |  |  |
 | 12:30 | EUR | Low | Italian Car Registration (YoY) (Feb) | 14.0% |  | 6.2% |
 | 12:30 | EUR | Low | French Car Registration (YoY) (Feb) | -14.7% |  | -6.6% |
 | 13:55 | USD | Low | Redbook (YoY) | 7.0% |  | 6.7% |
 | 14:55 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 15:10 | USD | Low | IBD/TIPP Economic Optimism | 47.5 | 50.1 | 48.8 |
-| 16:45 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
+| 15:30 | NZD | Low | GlobalDairyTrade Price Index | 5.7% |  | 3.6% |
+| 15:30 | USD | Low | Milk Auctions | 4,301.0 |  | 4,028.0 |
+| 23 min | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 17:30 | BRL | Low | CAGED Net Payroll Jobs (Jan) |  | 90.00K | -618.16K |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 2.200M | 11.400M |
 | 21:45 | NZD | Low | Terms of Trade - Exports Prices (Q4) |  | 0.5% | -1.6% |
