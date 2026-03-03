@@ -6,7 +6,7 @@
 | 00:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Feb) | 51.1 |  | 51.2 |
 | 00:30 | AUD | Low | Building Approvals (YoY) (Jan) | 8.10% |  | 16.40% |
 | 00:30 | AUD | Moderate | Building Approvals (MoM) (Jan) | -7.2% | 5.4% | -14.9% |
-| 00:30 | AUD | Moderate | Current Account (Q4) | -21.1B | -16.8B | -16.6B |
+| 00:30 | AUD | Moderate | Current Account (Q4) | -21.1B | -16.8B | -18.3B |
 | 00:30 | AUD | Low | Net Exports Contribution (Q4) | -0.1% |  | -0.1% |
 | 00:30 | AUD | Low | Private House Approvals (Jan) | 1.1% |  | 0.4% |
 | 03:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 2.249% |

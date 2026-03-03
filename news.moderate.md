@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Building Approvals (MoM) (Jan) | -7.2% | 5.4% | -14.9% |
-| 00:30 | AUD | Current Account (Q4) | -21.1B | -16.8B | -16.6B |
+| 00:30 | AUD | Current Account (Q4) | -21.1B | -16.8B | -18.3B |
 | 03:35 | JPY | 10-Year JGB Auction |  |  | 2.249% |
 | 08:00 | EUR | Spanish Unemployment Change (Feb) |  | 37.5K | 30.4K |
 | 10:00 | BRL | IPC-Fipe Inflation Index (MoM) (Feb) |  |  | 0.21% |
