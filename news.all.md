@@ -34,6 +34,7 @@
 | 12:30 | GBP | Moderate | Spring Statement |  |  |  |
 | 12:30 | EUR | Low | Italian Car Registration (YoY) (Feb) | 14.0% |  | 6.2% |
 | 12:30 | EUR | Low | French Car Registration (YoY) (Feb) | -14.7% |  | -6.6% |
+| 13:30 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 13:55 | USD | Low | Redbook (YoY) | 7.0% |  | 6.7% |
 | 14:55 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 15:10 | USD | Low | IBD/TIPP Economic Optimism | 47.5 | 50.1 | 48.8 |
@@ -41,15 +42,15 @@
 | 15:30 | USD | Low | Milk Auctions | 4,301.0 |  | 4,028.0 |
 | 16:45 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 17:30 | BRL | Low | CAGED Net Payroll Jobs (Jan) | 112.33K | 90.00K | -618.16K |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 2.200M | 11.400M |
-| 21:45 | NZD | Low | Terms of Trade - Exports Prices (Q4) |  | 0.5% | -1.6% |
-| 21:45 | NZD | Low | Terms of Trade - Exports Volume (QoQ) (Q4) |  |  | 3.4% |
-| 21:45 | NZD | Low | Terms of Trade - Imports Prices (Q4) |  | 0.8% | 0.5% |
-| 21:45 | NZD | Low | Terms of Trade Index (QoQ) (Q4) |  | -0.1% | -2.1% |
-| 22:00 | AUD | Low | AIG Construction Index (Feb) |  |  | 5.2 |
-| 22:00 | AUD | Low | AIG Manufacturing Index (Feb) |  |  | -19.4 |
-| 22:00 | AUD | Low | S&P Global Manufacturing & Services PMI (Feb) |  | 52.00 | 52.00 |
-| 22:00 | AUD | Low | S&P Global Services PMI (Feb) |  | 52.2 | 52.2 |
+| 16 min | USD | Moderate | API Weekly Crude Oil Stock |  | 2.200M | 11.400M |
+| 31 min | NZD | Low | Terms of Trade - Exports Prices (Q4) |  | 0.5% | -1.6% |
+| 31 min | NZD | Low | Terms of Trade - Exports Volume (QoQ) (Q4) |  |  | 3.4% |
+| 31 min | NZD | Low | Terms of Trade - Imports Prices (Q4) |  | 0.8% | 0.5% |
+| 31 min | NZD | Low | Terms of Trade Index (QoQ) (Q4) |  | -0.1% | -2.1% |
+| 46 min | AUD | Low | AIG Construction Index (Feb) |  |  | 5.2 |
+| 46 min | AUD | Low | AIG Manufacturing Index (Feb) |  |  | -19.4 |
+| 46 min | AUD | Low | S&P Global Manufacturing & Services PMI (Feb) |  | 52.00 | 52.00 |
+| 46 min | AUD | Low | S&P Global Services PMI (Feb) |  | 52.2 | 52.2 |
 | 23:00 | KRW | Low | Industrial Production (YoY) (Jan) |  | 2.2% | -0.3% |
 | 23:00 | KRW | Low | Industrial Production (MoM) (Jan) |  | 0.5% | 1.7% |
 | 23:00 | KRW | Low | Retail Sales (MoM) (Jan) |  |  | 0.9% |

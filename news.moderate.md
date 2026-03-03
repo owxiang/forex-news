@@ -12,6 +12,7 @@
 | 12:00 | BRL | GDP (QoQ) (Q4) | 0.1% | 0.1% | 0.0% |
 | 12:00 | BRL | GDP (YoY) (Q4) | 1.8% | 1.8% | 1.8% |
 | 12:30 | GBP | Spring Statement |  |  |  |
+| 13:30 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 14:55 | USD | FOMC Member Williams Speaks |  |  |  |
 | 16:45 | USD | FOMC Member Kashkari Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock |  | 2.200M | 11.400M |
+| 16 min | USD | API Weekly Crude Oil Stock |  | 2.200M | 11.400M |
