@@ -13,22 +13,22 @@
 | 04:00 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
 | 07:45 | EUR | Low | French Government Budget Balance (Jan) | -9.7B |  | -124.7B |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change (Feb) | 3.6K | 26.7K | 30.4K |
-| 20 min | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.028% |
-| 20 min | EUR | Low | Spanish 6-Month Letras Auction |  |  | 1.973% |
-| 40 min | GBP | High | Spring Forecast Statement |  |  |  |
-| 40 min | EUR | Low | Italian CPI (MoM) (Feb) |  | 0.3% | 0.4% |
-| 40 min | EUR | Low | Italian CPI (YoY) (Feb) |  |  | 1.0% |
-| 40 min | EUR | Low | Italian HICP (YoY) (Feb) |  | 1.1% | 1.0% |
-| 40 min | EUR | Low | Italian HICP (MoM) (Feb) |  | 0.1% | -1.0% |
-| 40 min | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Feb) |  |  | 0.21% |
-| 40 min | EUR | Moderate | Core CPI (YoY) (Feb) |  | 2.2% | 2.2% |
-| 40 min | EUR | Low | Core CPI (MoM) (Feb) |  |  | -1.1% |
-| 40 min | EUR | Moderate | CPI (MoM) (Feb) |  |  | -0.6% |
-| 40 min | EUR | High | CPI (YoY) (Feb) |  | 1.7% | 1.7% |
-| 40 min | EUR | Low | CPI, n.s.a (Feb) |  |  | 100.05 |
-| 40 min | EUR | Low | HICP ex Energy & Food (YoY) (Feb) |  |  | 2.1% |
-| 40 min | EUR | Low | HICP ex Energy and Food (MoM) (Feb) |  |  | -0.8% |
-| 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.400% |
+| 09:40 | EUR | Low | Spanish 12-Month Letras Auction | 2.121% |  | 2.028% |
+| 10:00 | GBP | High | Spring Forecast Statement |  |  |  |
+| 10:00 | EUR | Low | Italian CPI (MoM) (Feb) | 0.8% | 0.3% | 0.4% |
+| 10:00 | EUR | Low | Italian CPI (YoY) (Feb) | 1.6% |  | 1.0% |
+| 10:00 | EUR | Low | Italian HICP (YoY) (Feb) | 1.6% | 1.1% | 1.0% |
+| 10:00 | EUR | Low | Italian HICP (MoM) (Feb) | 0.6% | 0.1% | -1.0% |
+| 10:00 | EUR | Low | Spanish 6-Month Letras Auction | 2.059% |  | 1.973% |
+| 10:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Feb) | 0.25% |  | 0.21% |
+| 10:00 | EUR | Low | Core CPI (MoM) (Feb) | 0.8% |  | -1.1% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Feb) | 2.4% | 2.2% | 2.2% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Feb) | 0.7% |  | -0.6% |
+| 10:00 | EUR | High | CPI (YoY) (Feb) | 1.9% | 1.7% | 1.7% |
+| 10:00 | EUR | Low | CPI, n.s.a (Feb) | 100.72 |  | 100.06 |
+| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Feb) | 2.3% |  | 2.2% |
+| 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Feb) | 0.7% |  | -0.8% |
+| 12 min | EUR | Low | German 5-Year Bobl Auction |  |  | 2.400% |
 | 12:00 | BRL | Moderate | GDP (QoQ) (Q4) |  | 0.1% | 0.1% |
 | 12:00 | BRL | Moderate | GDP (YoY) (Q4) |  | 1.8% | 1.8% |
 | 12:30 | GBP | Moderate | Spring Statement |  |  |  |

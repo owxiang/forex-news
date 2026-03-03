@@ -9,17 +9,17 @@
 | 00:30 | AUD | Private House Approvals (Jan) | 1.1% |  | 1.2% |
 | 04:00 | JPY | BOJ Gov Ueda Speaks |  |  |  |
 | 07:45 | EUR | French Government Budget Balance (Jan) | -9.7B |  | -124.7B |
-| 20 min | EUR | Spanish 12-Month Letras Auction |  |  | 2.028% |
-| 20 min | EUR | Spanish 6-Month Letras Auction |  |  | 1.973% |
-| 40 min | EUR | Italian CPI (MoM) (Feb) |  | 0.3% | 0.4% |
-| 40 min | EUR | Italian CPI (YoY) (Feb) |  |  | 1.0% |
-| 40 min | EUR | Italian HICP (YoY) (Feb) |  | 1.1% | 1.0% |
-| 40 min | EUR | Italian HICP (MoM) (Feb) |  | 0.1% | -1.0% |
-| 40 min | EUR | Core CPI (MoM) (Feb) |  |  | -1.1% |
-| 40 min | EUR | CPI, n.s.a (Feb) |  |  | 100.05 |
-| 40 min | EUR | HICP ex Energy & Food (YoY) (Feb) |  |  | 2.1% |
-| 40 min | EUR | HICP ex Energy and Food (MoM) (Feb) |  |  | -0.8% |
-| 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.400% |
+| 09:40 | EUR | Spanish 12-Month Letras Auction | 2.121% |  | 2.028% |
+| 10:00 | EUR | Italian CPI (MoM) (Feb) | 0.8% | 0.3% | 0.4% |
+| 10:00 | EUR | Italian CPI (YoY) (Feb) | 1.6% |  | 1.0% |
+| 10:00 | EUR | Italian HICP (YoY) (Feb) | 1.6% | 1.1% | 1.0% |
+| 10:00 | EUR | Italian HICP (MoM) (Feb) | 0.6% | 0.1% | -1.0% |
+| 10:00 | EUR | Spanish 6-Month Letras Auction | 2.059% |  | 1.973% |
+| 10:00 | EUR | Core CPI (MoM) (Feb) | 0.8% |  | -1.1% |
+| 10:00 | EUR | CPI, n.s.a (Feb) | 100.72 |  | 100.06 |
+| 10:00 | EUR | HICP ex Energy & Food (YoY) (Feb) | 2.3% |  | 2.2% |
+| 10:00 | EUR | HICP ex Energy and Food (MoM) (Feb) | 0.7% |  | -0.8% |
+| 12 min | EUR | German 5-Year Bobl Auction |  |  | 2.400% |
 | 13:55 | USD | Redbook (YoY) |  |  | 6.7% |
 | 15:00 | NZD | GlobalDairyTrade Price Index |  |  | 3.6% |
 | 15:00 | USD | Milk Auctions |  |  | 4,028.0 |
