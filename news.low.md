@@ -20,12 +20,12 @@
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Feb) | 2.3% |  | 2.2% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Feb) | 0.7% |  | -0.8% |
 | 10:30 | EUR | German 5-Year Bobl Auction | 2.430% |  | 2.400% |
+| 12:00 | NZD | GlobalDairyTrade Price Index |  |  | 3.6% |
+| 12:00 | USD | Milk Auctions |  |  | 4,028.0 |
 | 12:30 | EUR | Italian Car Registration (YoY) (Feb) | 14.0% |  | 6.2% |
 | 12:30 | EUR | French Car Registration (YoY) (Feb) | -14.7% |  | -6.6% |
-| 26 min | USD | Redbook (YoY) |  |  | 6.7% |
-| 15:00 | NZD | GlobalDairyTrade Price Index |  |  | 3.6% |
-| 15:00 | USD | Milk Auctions |  |  | 4,028.0 |
-| 15:10 | USD | IBD/TIPP Economic Optimism |  | 50.1 | 48.8 |
+| 13:55 | USD | Redbook (YoY) | 7.0% |  | 6.7% |
+| 49 min | USD | IBD/TIPP Economic Optimism |  | 50.1 | 48.8 |
 | 17:30 | BRL | CAGED Net Payroll Jobs (Jan) |  | 90.00K | -618.16K |
 | 21:45 | NZD | Terms of Trade - Exports Prices (Q4) |  | 0.5% | -1.6% |
 | 21:45 | NZD | Terms of Trade - Exports Volume (QoQ) (Q4) |  |  | 3.4% |
@@ -33,8 +33,8 @@
 | 21:45 | NZD | Terms of Trade Index (QoQ) (Q4) |  | -0.1% | -2.1% |
 | 22:00 | AUD | AIG Construction Index (Feb) |  |  | 5.2 |
 | 22:00 | AUD | AIG Manufacturing Index (Feb) |  |  | -19.4 |
-| 22:00 | AUD | S&P Global Manufacturing & Services PMI (Feb) |  | 52.00 | 55.70 |
-| 22:00 | AUD | S&P Global Services PMI (Feb) |  | 52.2 | 56.3 |
+| 22:00 | AUD | S&P Global Manufacturing & Services PMI (Feb) |  | 52.00 | 52.00 |
+| 22:00 | AUD | S&P Global Services PMI (Feb) |  | 52.2 | 52.2 |
 | 23:00 | KRW | Industrial Production (YoY) (Jan) |  | 2.2% | -0.3% |
 | 23:00 | KRW | Industrial Production (MoM) (Jan) |  | 0.5% | 1.7% |
 | 23:00 | KRW | Retail Sales (MoM) (Jan) |  |  | 0.9% |

@@ -31,14 +31,14 @@
 | 10:30 | EUR | Low | German 5-Year Bobl Auction | 2.430% |  | 2.400% |
 | 12:00 | BRL | Moderate | GDP (QoQ) (Q4) | 0.1% | 0.1% | 0.0% |
 | 12:00 | BRL | Moderate | GDP (YoY) (Q4) | 1.8% | 1.8% | 1.8% |
+| 12:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 3.6% |
+| 12:00 | USD | Low | Milk Auctions |  |  | 4,028.0 |
 | 12:30 | GBP | Moderate | Spring Statement |  |  |  |
 | 12:30 | EUR | Low | Italian Car Registration (YoY) (Feb) | 14.0% |  | 6.2% |
 | 12:30 | EUR | Low | French Car Registration (YoY) (Feb) | -14.7% |  | -6.6% |
-| 26 min | USD | Low | Redbook (YoY) |  |  | 6.7% |
-| 14:55 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 15:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 3.6% |
-| 15:00 | USD | Low | Milk Auctions |  |  | 4,028.0 |
-| 15:10 | USD | Low | IBD/TIPP Economic Optimism |  | 50.1 | 48.8 |
+| 13:55 | USD | Low | Redbook (YoY) | 7.0% |  | 6.7% |
+| 34 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 49 min | USD | Low | IBD/TIPP Economic Optimism |  | 50.1 | 48.8 |
 | 16:45 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 17:30 | BRL | Low | CAGED Net Payroll Jobs (Jan) |  | 90.00K | -618.16K |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 2.200M | 11.400M |
@@ -48,8 +48,8 @@
 | 21:45 | NZD | Low | Terms of Trade Index (QoQ) (Q4) |  | -0.1% | -2.1% |
 | 22:00 | AUD | Low | AIG Construction Index (Feb) |  |  | 5.2 |
 | 22:00 | AUD | Low | AIG Manufacturing Index (Feb) |  |  | -19.4 |
-| 22:00 | AUD | Low | S&P Global Manufacturing & Services PMI (Feb) |  | 52.00 | 55.70 |
-| 22:00 | AUD | Low | S&P Global Services PMI (Feb) |  | 52.2 | 56.3 |
+| 22:00 | AUD | Low | S&P Global Manufacturing & Services PMI (Feb) |  | 52.00 | 52.00 |
+| 22:00 | AUD | Low | S&P Global Services PMI (Feb) |  | 52.2 | 52.2 |
 | 23:00 | KRW | Low | Industrial Production (YoY) (Jan) |  | 2.2% | -0.3% |
 | 23:00 | KRW | Low | Industrial Production (MoM) (Jan) |  | 0.5% | 1.7% |
 | 23:00 | KRW | Low | Retail Sales (MoM) (Jan) |  |  | 0.9% |
