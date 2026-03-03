@@ -28,9 +28,9 @@
 | 10:00 | EUR | Low | CPI, n.s.a (Feb) | 100.72 |  | 100.06 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Feb) | 2.3% |  | 2.2% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Feb) | 0.7% |  | -0.8% |
-| 12 min | EUR | Low | German 5-Year Bobl Auction |  |  | 2.400% |
-| 12:00 | BRL | Moderate | GDP (QoQ) (Q4) |  | 0.1% | 0.1% |
-| 12:00 | BRL | Moderate | GDP (YoY) (Q4) |  | 1.8% | 1.8% |
+| 10:30 | EUR | Low | German 5-Year Bobl Auction | 2.430% |  | 2.400% |
+| 44 min | BRL | Moderate | GDP (QoQ) (Q4) |  | 0.1% | 0.1% |
+| 44 min | BRL | Moderate | GDP (YoY) (Q4) |  | 1.8% | 1.8% |
 | 12:30 | GBP | Moderate | Spring Statement |  |  |  |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 6.7% |
 | 14:55 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
@@ -42,7 +42,7 @@
 | 17:00 | EUR | Low | French Car Registration (YoY) (Feb) |  |  | -6.6% |
 | 17:30 | BRL | Low | CAGED Net Payroll Jobs (Jan) |  | 90.00K | -618.16K |
 | 19:00 | MXN | Low | Fiscal Balance (Jan) |  |  | -414.44B |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 11.400M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 2.200M | 11.400M |
 | 21:45 | NZD | Low | Terms of Trade - Exports Prices (Q4) |  |  | -1.6% |
 | 21:45 | NZD | Low | Terms of Trade - Exports Volume (QoQ) (Q4) |  |  | 3.4% |
 | 21:45 | NZD | Low | Terms of Trade - Imports Prices (Q4) |  |  | 0.5% |

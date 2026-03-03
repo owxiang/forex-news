@@ -19,7 +19,7 @@
 | 10:00 | EUR | CPI, n.s.a (Feb) | 100.72 |  | 100.06 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Feb) | 2.3% |  | 2.2% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Feb) | 0.7% |  | -0.8% |
-| 12 min | EUR | German 5-Year Bobl Auction |  |  | 2.400% |
+| 10:30 | EUR | German 5-Year Bobl Auction | 2.430% |  | 2.400% |
 | 13:55 | USD | Redbook (YoY) |  |  | 6.7% |
 | 15:00 | NZD | GlobalDairyTrade Price Index |  |  | 3.6% |
 | 15:00 | USD | Milk Auctions |  |  | 4,028.0 |
