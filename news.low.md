@@ -35,7 +35,7 @@
 | 22:00 | AUD | AIG Manufacturing Index (Feb) | -15.6 |  | -19.0 |
 | 22:00 | AUD | S&P Global Manufacturing & Services PMI (Feb) | 52.40 | 52.00 | 52.00 |
 | 22:00 | AUD | S&P Global Services PMI (Feb) | 52.8 | 52.2 | 52.2 |
-| 48 min | KRW | Industrial Production (YoY) (Jan) |  | 2.2% | -0.3% |
-| 48 min | KRW | Industrial Production (MoM) (Jan) |  | 0.5% | 1.7% |
-| 48 min | KRW | Retail Sales (MoM) (Jan) |  |  | 0.9% |
-| 48 min | KRW | Service Sector Output (MoM) (Jan) |  |  | 1.1% |
+| 23:00 | KRW | Industrial Production (YoY) (Jan) | 7.1% | 2.2% | 1.4% |
+| 23:00 | KRW | Industrial Production (MoM) (Jan) | -1.9% | 0.5% | 1.5% |
+| 23:00 | KRW | Retail Sales (MoM) (Jan) | 2.3% |  | 0.6% |
+| 23:00 | KRW | Service Sector Output (MoM) (Jan) | 0.0% |  | 0.5% |

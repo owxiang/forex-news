@@ -15,4 +15,4 @@
 | 13:30 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 14:55 | USD | FOMC Member Williams Speaks |  |  |  |
 | 16:45 | USD | FOMC Member Kashkari Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock |  | 2.200M | 11.400M |
+| 21:30 | USD | API Weekly Crude Oil Stock | 5.600M | 2.200M | 11.400M |

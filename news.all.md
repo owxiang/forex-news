@@ -42,7 +42,7 @@
 | 15:30 | USD | Low | Milk Auctions | 4,301.0 |  | 4,028.0 |
 | 16:45 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 17:30 | BRL | Low | CAGED Net Payroll Jobs (Jan) | 112.33K | 90.00K | -618.16K |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 2.200M | 11.400M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | 5.600M | 2.200M | 11.400M |
 | 21:45 | NZD | Low | Terms of Trade - Exports Prices (Q4) | 5.3% | 0.5% | -1.6% |
 | 21:45 | NZD | Low | Terms of Trade - Exports Volume (QoQ) (Q4) | -3.2% |  | 3.4% |
 | 21:45 | NZD | Low | Terms of Trade - Imports Prices (Q4) | 1.5% | 0.8% | 0.5% |
@@ -51,7 +51,7 @@
 | 22:00 | AUD | Low | AIG Manufacturing Index (Feb) | -15.6 |  | -19.0 |
 | 22:00 | AUD | Low | S&P Global Manufacturing & Services PMI (Feb) | 52.40 | 52.00 | 52.00 |
 | 22:00 | AUD | Low | S&P Global Services PMI (Feb) | 52.8 | 52.2 | 52.2 |
-| 48 min | KRW | Low | Industrial Production (YoY) (Jan) |  | 2.2% | -0.3% |
-| 48 min | KRW | Low | Industrial Production (MoM) (Jan) |  | 0.5% | 1.7% |
-| 48 min | KRW | Low | Retail Sales (MoM) (Jan) |  |  | 0.9% |
-| 48 min | KRW | Low | Service Sector Output (MoM) (Jan) |  |  | 1.1% |
+| 23:00 | KRW | Low | Industrial Production (YoY) (Jan) | 7.1% | 2.2% | 1.4% |
+| 23:00 | KRW | Low | Industrial Production (MoM) (Jan) | -1.9% | 0.5% | 1.5% |
+| 23:00 | KRW | Low | Retail Sales (MoM) (Jan) | 2.3% |  | 0.6% |
+| 23:00 | KRW | Low | Service Sector Output (MoM) (Jan) | 0.0% |  | 0.5% |
