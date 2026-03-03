@@ -8,7 +8,7 @@
 | 00:30 | AUD | Net Exports Contribution (Q4) | -0.1% | -0.3% | -0.1% |
 | 00:30 | AUD | Private House Approvals (Jan) | 1.1% |  | 1.2% |
 | 04:00 | JPY | BOJ Gov Ueda Speaks |  |  |  |
-| 07:45 | EUR | French Government Budget Balance (Jan) |  |  | -124.7B |
+| 22 min | EUR | French Government Budget Balance (Jan) |  |  | -124.7B |
 | 09:40 | EUR | Spanish 12-Month Letras Auction |  |  | 2.028% |
 | 09:40 | EUR | Spanish 6-Month Letras Auction |  |  | 1.973% |
 | 10:00 | EUR | Italian CPI (MoM) (Feb) |  | 0.3% | 0.4% |
