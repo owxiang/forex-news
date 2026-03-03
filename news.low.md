@@ -26,7 +26,7 @@
 | 15:10 | USD | IBD/TIPP Economic Optimism | 47.5 | 50.1 | 48.8 |
 | 15:30 | NZD | GlobalDairyTrade Price Index | 5.7% |  | 3.6% |
 | 15:30 | USD | Milk Auctions | 4,301.0 |  | 4,028.0 |
-| 16:00 | BRL | CAGED Net Payroll Jobs (Jan) | 112.33K | 90.00K | -618.16K |
+| 17:30 | BRL | CAGED Net Payroll Jobs (Jan) | 112.33K | 90.00K | -618.16K |
 | 21:45 | NZD | Terms of Trade - Exports Prices (Q4) |  | 0.5% | -1.6% |
 | 21:45 | NZD | Terms of Trade - Exports Volume (QoQ) (Q4) |  |  | 3.4% |
 | 21:45 | NZD | Terms of Trade - Imports Prices (Q4) |  | 0.8% | 0.5% |

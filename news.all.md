@@ -39,8 +39,8 @@
 | 15:10 | USD | Low | IBD/TIPP Economic Optimism | 47.5 | 50.1 | 48.8 |
 | 15:30 | NZD | Low | GlobalDairyTrade Price Index | 5.7% |  | 3.6% |
 | 15:30 | USD | Low | Milk Auctions | 4,301.0 |  | 4,028.0 |
-| 16:00 | BRL | Low | CAGED Net Payroll Jobs (Jan) | 112.33K | 90.00K | -618.16K |
 | 16:45 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
+| 17:30 | BRL | Low | CAGED Net Payroll Jobs (Jan) | 112.33K | 90.00K | -618.16K |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 2.200M | 11.400M |
 | 21:45 | NZD | Low | Terms of Trade - Exports Prices (Q4) |  | 0.5% | -1.6% |
 | 21:45 | NZD | Low | Terms of Trade - Exports Volume (QoQ) (Q4) |  |  | 3.4% |
