@@ -48,5 +48,5 @@
 | 15:30 | USD | Gasoline Inventories | -1.704M | -1.000M | -1.011M |
 | 17:30 | BRL | Foreign Exchange Flows | 2.071B |  | 1.870B |
 | 21:00 | KRW | FX Reserves - USD (Feb) | 427.62B |  | 425.91B |
-| 23:50 | JPY | Foreign Bonds Buying |  |  | -1,898.8B |
-| 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 402.0B |
+| 38 min | JPY | Foreign Bonds Buying |  |  | -1,898.8B |
+| 38 min | JPY | Foreign Investments in Japanese Stocks |  |  | 402.0B |
