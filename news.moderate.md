@@ -26,5 +26,5 @@
 | 15:00 | USD | ISM Non-Manufacturing Employment (Feb) | 51.8 |  | 50.3 |
 | 15:30 | USD | Cushing Crude Oil Inventories | 1.564M |  | 0.881M |
 | 15:30 | CAD | BoC Gov Macklem Speaks |  |  |  |
-| 42 min | EUR | German Buba Balz Speaks |  |  |  |
+| 17:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 19:00 | USD | Beige Book |  |  |  |
