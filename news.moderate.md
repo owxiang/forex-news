@@ -1,18 +1,31 @@
-## 03 March 2026 - Moderate Impact Forex News
+## 04 March 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Building Approvals (MoM) (Jan) | -7.2% | 5.4% | -14.9% |
-| 00:30 | AUD | Current Account (Q4) | -21.1B | -16.8B | -18.3B |
-| 03:35 | JPY | 10-Year JGB Auction | 2.122% |  | 2.249% |
-| 08:00 | EUR | Spanish Unemployment Change (Feb) | 3.6K | 26.7K | 30.4K |
-| 10:00 | BRL | IPC-Fipe Inflation Index (MoM) (Feb) | 0.25% |  | 0.21% |
-| 10:00 | EUR | Core CPI (YoY) (Feb) | 2.4% | 2.2% | 2.2% |
-| 10:00 | EUR | CPI (MoM) (Feb) | 0.7% |  | -0.6% |
-| 12:00 | BRL | GDP (QoQ) (Q4) | 0.1% | 0.1% | 0.0% |
-| 12:00 | BRL | GDP (YoY) (Q4) | 1.8% | 1.8% | 1.8% |
-| 12:30 | GBP | Spring Statement |  |  |  |
-| 13:30 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 14:55 | USD | FOMC Member Williams Speaks |  |  |  |
-| 16:45 | USD | FOMC Member Kashkari Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock | 5.600M | 2.200M | 11.400M |
+| 00:30 | AUD | GDP (QoQ) (Q4) | 0.8% | 0.7% | 0.4% |
+| 00:30 | AUD | GDP (YoY) (Q4) | 2.6% | 2.1% | 2.1% |
+| 00:30 | JPY | S&P Global Services PMI (Feb) | 53.8 | 53.8 | 53.8 |
+| 51 min | CNY | Chinese Composite PMI (Feb) |  |  | 49.8 |
+| 51 min | CNY | Non-Manufacturing PMI (Feb) |  | 49.7 | 49.4 |
+| 01:45 | CNY | RatingDog Manufacturing PMI (MoM) (Feb) |  | 50.1 | 50.3 |
+| 01:45 | CNY | RatingDog Services PMI (Feb) |  | 52.3 | 52.3 |
+| 07:30 | CHF | CPI (MoM) (Feb) |  | 0.5% | -0.1% |
+| 08:15 | EUR | HCOB Spain Services PMI (Feb) |  | 52.9 | 53.5 |
+| 08:45 | EUR | HCOB Italy Services PMI (Feb) |  | 52.6 | 52.9 |
+| 08:50 | EUR | HCOB France Services PMI (Feb) |  | 49.6 | 49.6 |
+| 08:55 | EUR | HCOB Germany Services PMI (Feb) |  | 53.4 | 53.4 |
+| 09:00 | EUR | HCOB Eurozone Composite PMI (Feb) |  | 51.9 | 51.9 |
+| 09:00 | EUR | HCOB Eurozone Services PMI (Feb) |  | 51.8 | 51.8 |
+| 09:30 | GBP | S&P Global Composite PMI (Feb) |  | 53.9 | 53.9 |
+| 09:30 | GBP | S&P Global Services PMI (Feb) |  | 53.9 | 53.9 |
+| 09:30 | CHF | SNB Press Conference |  |  |  |
+| 09:30 | ZAR | GDP Annualized (QoQ) (Q4) |  |  | 0.5% |
+| 10:00 | EUR | Unemployment Rate (Jan) |  | 6.2% | 6.2% |
+| 13:30 | CAD | Labor Productivity (QoQ) (Q4) |  | -0.1% | 0.9% |
+| 13:30 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 14:45 | USD | S&P Global Composite PMI (Feb) |  | 52.3 | 52.3 |
+| 15:00 | USD | ISM Non-Manufacturing Employment (Feb) |  |  | 50.3 |
+| 15:30 | USD | Cushing Crude Oil Inventories |  |  | 0.881M |
+| 15:30 | CAD | BoC Gov Macklem Speaks |  |  |  |
+| 17:00 | EUR | German Buba Balz Speaks |  |  |  |
+| 19:00 | USD | Beige Book |  |  |  |

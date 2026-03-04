@@ -1,41 +1,53 @@
-## 03 March 2026 - Low Impact Forex News
+## 04 March 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | BRC Shop Price Index (YoY) (Feb) | 1.1% | 1.4% | 1.5% |
-| 00:30 | KRW | S&P Global South Korea Manufacturing PMI (Feb) | 51.1 |  | 51.2 |
-| 00:30 | AUD | Building Approvals (YoY) (Jan) | 8.10% |  | 16.40% |
-| 00:30 | AUD | Net Exports Contribution (Q4) | -0.1% | -0.3% | -0.1% |
-| 00:30 | AUD | Private House Approvals (Jan) | 1.1% |  | 1.2% |
-| 04:00 | JPY | BOJ Gov Ueda Speaks |  |  |  |
-| 07:45 | EUR | French Government Budget Balance (Jan) | -9.7B |  | -124.7B |
-| 09:40 | EUR | Spanish 12-Month Letras Auction | 2.121% |  | 2.028% |
-| 10:00 | EUR | Italian CPI (MoM) (Feb) | 0.8% | 0.3% | 0.4% |
-| 10:00 | EUR | Italian CPI (YoY) (Feb) | 1.6% |  | 1.0% |
-| 10:00 | EUR | Italian HICP (YoY) (Feb) | 1.6% | 1.1% | 1.0% |
-| 10:00 | EUR | Italian HICP (MoM) (Feb) | 0.6% | 0.1% | -1.0% |
-| 10:00 | EUR | Spanish 6-Month Letras Auction | 2.059% |  | 1.973% |
-| 10:00 | EUR | Core CPI (MoM) (Feb) | 0.8% |  | -1.1% |
-| 10:00 | EUR | CPI, n.s.a (Feb) | 100.72 |  | 100.06 |
-| 10:00 | EUR | HICP ex Energy & Food (YoY) (Feb) | 2.3% |  | 2.2% |
-| 10:00 | EUR | HICP ex Energy and Food (MoM) (Feb) | 0.7% |  | -0.8% |
-| 10:30 | EUR | German 5-Year Bobl Auction | 2.430% |  | 2.400% |
-| 12:30 | EUR | Italian Car Registration (YoY) (Feb) | 14.0% |  | 6.2% |
-| 12:30 | EUR | French Car Registration (YoY) (Feb) | -14.7% |  | -6.6% |
-| 13:55 | USD | Redbook (YoY) | 7.0% |  | 6.7% |
-| 15:10 | USD | IBD/TIPP Economic Optimism | 47.5 | 50.1 | 48.8 |
-| 15:30 | NZD | GlobalDairyTrade Price Index | 5.7% |  | 3.6% |
-| 15:30 | USD | Milk Auctions | 4,301.0 |  | 4,028.0 |
-| 17:30 | BRL | CAGED Net Payroll Jobs (Jan) | 112.33K | 90.00K | -618.16K |
-| 21:45 | NZD | Terms of Trade - Exports Prices (Q4) | 5.3% | 0.5% | -1.6% |
-| 21:45 | NZD | Terms of Trade - Exports Volume (QoQ) (Q4) | -3.2% |  | 3.4% |
-| 21:45 | NZD | Terms of Trade - Imports Prices (Q4) | 1.5% | 0.8% | 0.5% |
-| 21:45 | NZD | Terms of Trade Index (QoQ) (Q4) | 3.7% | -0.1% | -2.1% |
-| 22:00 | AUD | AIG Construction Index (Feb) | -8.2 |  | 4.6 |
-| 22:00 | AUD | AIG Manufacturing Index (Feb) | -15.6 |  | -19.0 |
-| 22:00 | AUD | S&P Global Manufacturing & Services PMI (Feb) | 52.40 | 52.00 | 52.00 |
-| 22:00 | AUD | S&P Global Services PMI (Feb) | 52.8 | 52.2 | 52.2 |
-| 23:00 | KRW | Industrial Production (YoY) (Jan) | 7.1% | 2.2% | 1.4% |
-| 23:00 | KRW | Industrial Production (MoM) (Jan) | -1.9% | 0.5% | 1.5% |
-| 23:00 | KRW | Retail Sales (MoM) (Jan) | 2.3% |  | 0.6% |
-| 23:00 | KRW | Service Sector Output (MoM) (Jan) | 0.0% |  | 0.5% |
+| 00:00 | NZD | ANZ Commodity Price Index (MoM) | 4.2% |  | 2.0% |
+| 00:30 | AUD | GDP Capital Expenditure (Q4) | 0.7% |  | 3.0% |
+| 00:30 | AUD | GDP Chain Price Index (Q4) | 1.4% |  | 0.8% |
+| 00:30 | AUD | GDP Final Consumption (Q4) | 0.5% |  | 0.6% |
+| 00:30 | JPY | Manufacturing & Services PMI (Feb) | 53.90 | 53.80 | 53.80 |
+| 00:30 | HKD | S&P Global Manufacturing PMI (Feb) | 53.3 |  | 52.3 |
+| 05:00 | INR | HSBC India Services PMI (Feb) |  | 58.4 | 58.4 |
+| 05:00 | INR | HSBC Manufacturing & Services PMI (Feb) |  | 59.30 | 59.30 |
+| 05:00 | JPY | Household Confidence (Feb) |  | 38.2 | 37.9 |
+| 07:00 | NOK | Current Account (Q4) |  |  | 174.5B |
+| 07:15 | ZAR | S&P Global Manufacturing PMI (Feb) |  |  | 50.0 |
+| 07:30 | CHF | CPI (YoY) (Feb) |  | -0.1% | 0.1% |
+| 08:30 | HKD | Retail Sales (YoY) (Jan) |  |  | 6.6% |
+| 08:45 | EUR | HCOB Italy Composite PMI (Feb) |  |  | 51.4 |
+| 08:50 | EUR | HCOB France Composite PMI (Feb) |  | 49.9 | 49.9 |
+| 08:55 | EUR | HCOB Germany Composite PMI (Feb) |  | 53.1 | 53.1 |
+| 09:00 | EUR | Italian Monthly Unemployment Rate (Jan) |  | 5.6% | 5.6% |
+| 09:30 | ZAR | GDP (YoY) (Q4) |  |  | 2.1% |
+| 10:00 | EUR | Italian GDP (QoQ) (Q4) |  | 0.3% | 0.3% |
+| 10:00 | EUR | Italian GDP (YoY) (Q4) |  | 0.8% | 0.8% |
+| 10:00 | NOK | House Price Index (YoY) (Feb) |  |  | 4.20% |
+| 10:00 | EUR | PPI (YoY) (Jan) |  | -2.7% | -2.1% |
+| 10:00 | EUR | PPI (MoM) (Jan) |  | 0.2% | -0.3% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.09% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 0.4% |
+| 12:00 | USD | MBA Purchase Index |  |  | 149.7 |
+| 12:00 | USD | Mortgage Market Index |  |  | 340.2 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 1,432.9 |
+| 12:00 | BRL | Brazilian PPI (MoM) (Jan) |  |  | 0.12% |
+| 13:00 | BRL | S&P Global Composite PMI (Feb) |  |  | 49.9 |
+| 13:00 | BRL | S&P Global Services PMI (Feb) |  |  | 51.3 |
+| 13:15 | CAD | Reserve Assets Total (Feb) |  |  | 128.7B |
+| 14:00 | INR | M3 Money Supply |  |  | 12.0% |
+| 14:30 | CAD | S&P Global Services PMI (Feb) |  |  | 45.80 |
+| 15:00 | USD | ISM Non-Manufacturing Business Activity (Feb) |  |  | 57.4 |
+| 15:00 | USD | ISM Non-Manufacturing New Orders (Feb) |  |  | 53.1 |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.416M |
+| 15:30 | USD | Crude Oil Imports |  |  | 0.412M |
+| 15:30 | USD | Distillate Fuel Production |  |  | -0.136M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | 0.252M |
+| 15:30 | USD | Gasoline Production |  |  | -0.223M |
+| 15:30 | USD | Heating Oil Stockpiles |  |  | -0.119M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -2.4% |
+| 15:30 | USD | Gasoline Inventories |  |  | -1.011M |
+| 17:30 | BRL | Foreign Exchange Flows |  |  | 1.870B |
+| 19:00 | USD | Total Vehicle Sales (Feb) |  | 15.20M | 14.90M |
+| 21:00 | KRW | FX Reserves - USD (Feb) |  |  | 425.91B |
+| 23:50 | JPY | Foreign Bonds Buying |  |  | -1,898.8B |
+| 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 402.0B |
