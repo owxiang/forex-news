@@ -65,18 +65,18 @@
 | 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Feb) | 58.6 | 53.5 | 53.1 |
 | 15:00 | USD | High | ISM Non-Manufacturing PMI (Feb) | 56.1 | 53.5 | 53.8 |
 | 15:00 | USD | High | ISM Non-Manufacturing Prices (Feb) | 63.0 | 68.3 | 66.6 |
-| 12 min | USD | High | Crude Oil Inventories |  | 3.000M | 15.989M |
-| 12 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.416M |
-| 12 min | USD | Low | Crude Oil Imports |  |  | 0.412M |
-| 12 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.881M |
-| 12 min | USD | Low | Distillate Fuel Production |  |  | -0.136M |
-| 12 min | USD | Low | EIA Weekly Distillates Stocks |  | -2.600M | 0.252M |
-| 12 min | USD | Low | Gasoline Production |  |  | -0.223M |
-| 12 min | USD | Low | Heating Oil Stockpiles |  |  | -0.119M |
-| 12 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -2.4% |
-| 12 min | USD | Low | Gasoline Inventories |  | -1.000M | -1.011M |
-| 12 min | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
-| 17:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 15:30 | USD | High | Crude Oil Inventories | 3.475M | 3.000M | 15.989M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.180M |  | -0.416M |
+| 15:30 | USD | Low | Crude Oil Imports | -0.019M |  | 0.412M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | 1.564M |  | 0.881M |
+| 15:30 | USD | Low | Distillate Fuel Production | 0.061M |  | -0.136M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks | 0.429M | -2.600M | 0.252M |
+| 15:30 | USD | Low | Gasoline Production | 0.119M |  | -0.223M |
+| 15:30 | USD | Low | Heating Oil Stockpiles | 0.355M |  | -0.119M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 0.6% |  | -2.4% |
+| 15:30 | USD | Low | Gasoline Inventories | -1.704M | -1.000M | -1.011M |
+| 15:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
+| 42 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | 1.870B |
 | 19:00 | USD | Moderate | Beige Book |  |  |  |
 | 21:00 | KRW | Low | FX Reserves - USD (Feb) |  |  | 425.91B |

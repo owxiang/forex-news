@@ -38,14 +38,14 @@
 | 15:00 | USD | All Truck Sales (Feb) | 13.07M |  | 12.22M |
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Feb) | 59.9 |  | 57.4 |
 | 15:00 | USD | ISM Non-Manufacturing New Orders (Feb) | 58.6 | 53.5 | 53.1 |
-| 12 min | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.416M |
-| 12 min | USD | Crude Oil Imports |  |  | 0.412M |
-| 12 min | USD | Distillate Fuel Production |  |  | -0.136M |
-| 12 min | USD | EIA Weekly Distillates Stocks |  | -2.600M | 0.252M |
-| 12 min | USD | Gasoline Production |  |  | -0.223M |
-| 12 min | USD | Heating Oil Stockpiles |  |  | -0.119M |
-| 12 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -2.4% |
-| 12 min | USD | Gasoline Inventories |  | -1.000M | -1.011M |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) | 0.180M |  | -0.416M |
+| 15:30 | USD | Crude Oil Imports | -0.019M |  | 0.412M |
+| 15:30 | USD | Distillate Fuel Production | 0.061M |  | -0.136M |
+| 15:30 | USD | EIA Weekly Distillates Stocks | 0.429M | -2.600M | 0.252M |
+| 15:30 | USD | Gasoline Production | 0.119M |  | -0.223M |
+| 15:30 | USD | Heating Oil Stockpiles | 0.355M |  | -0.119M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.6% |  | -2.4% |
+| 15:30 | USD | Gasoline Inventories | -1.704M | -1.000M | -1.011M |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | 1.870B |
 | 21:00 | KRW | FX Reserves - USD (Feb) |  |  | 425.91B |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | -1,898.8B |
