@@ -52,29 +52,31 @@
 | 13:00 | BRL | Low | S&P Global Composite PMI (Feb) | 51.3 |  | 49.9 |
 | 13:00 | BRL | Low | S&P Global Services PMI (Feb) | 53.1 |  | 51.3 |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Feb) | 63K | 50K | 11K |
+| 13:15 | CAD | Low | Reserve Assets Total (Feb) | 128.1B |  | 128.7B |
 | 13:30 | CAD | Moderate | Labor Productivity (QoQ) (Q4) | -0.1% | -0.1% | 1.1% |
 | 13:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 10 min | CAD | Low | S&P Global Services PMI (Feb) |  |  | 45.80 |
-| 25 min | USD | Moderate | S&P Global Composite PMI (Feb) |  | 52.3 | 52.3 |
-| 25 min | USD | High | S&P Global Services PMI (Feb) |  | 52.3 | 52.3 |
-| 40 min | USD | Low | ISM Non-Manufacturing Business Activity (Feb) |  |  | 57.4 |
-| 40 min | USD | Moderate | ISM Non-Manufacturing Employment (Feb) |  |  | 50.3 |
-| 40 min | USD | Low | ISM Non-Manufacturing New Orders (Feb) |  |  | 53.1 |
-| 40 min | USD | High | ISM Non-Manufacturing PMI (Feb) |  | 53.5 | 53.8 |
-| 40 min | USD | High | ISM Non-Manufacturing Prices (Feb) |  |  | 66.6 |
-| 15:30 | USD | High | Crude Oil Inventories |  | 3.000M | 15.989M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.416M |
-| 15:30 | USD | Low | Crude Oil Imports |  |  | 0.412M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.881M |
-| 15:30 | USD | Low | Distillate Fuel Production |  |  | -0.136M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | -2.600M | 0.252M |
-| 15:30 | USD | Low | Gasoline Production |  |  | -0.223M |
-| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | -0.119M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -2.4% |
-| 15:30 | USD | Low | Gasoline Inventories |  | -1.000M | -1.011M |
-| 15:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
+| 14:30 | CAD | Low | S&P Global Services PMI (Feb) | 46.50 |  | 45.80 |
+| 14:45 | USD | Moderate | S&P Global Composite PMI (Feb) | 51.9 | 52.3 | 53.0 |
+| 14:45 | USD | High | S&P Global Services PMI (Feb) | 51.7 | 52.3 | 52.7 |
+| 15:00 | USD | Low | All Car Sales (Feb) | 2.68M |  | 2.60M |
+| 15:00 | USD | Low | All Truck Sales (Feb) | 13.07M |  | 12.22M |
+| 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Feb) | 59.9 |  | 57.4 |
+| 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Feb) | 51.8 |  | 50.3 |
+| 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Feb) | 58.6 | 53.5 | 53.1 |
+| 15:00 | USD | High | ISM Non-Manufacturing PMI (Feb) | 56.1 | 53.5 | 53.8 |
+| 15:00 | USD | High | ISM Non-Manufacturing Prices (Feb) | 63.0 | 68.3 | 66.6 |
+| 12 min | USD | High | Crude Oil Inventories |  | 3.000M | 15.989M |
+| 12 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.416M |
+| 12 min | USD | Low | Crude Oil Imports |  |  | 0.412M |
+| 12 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.881M |
+| 12 min | USD | Low | Distillate Fuel Production |  |  | -0.136M |
+| 12 min | USD | Low | EIA Weekly Distillates Stocks |  | -2.600M | 0.252M |
+| 12 min | USD | Low | Gasoline Production |  |  | -0.223M |
+| 12 min | USD | Low | Heating Oil Stockpiles |  |  | -0.119M |
+| 12 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -2.4% |
+| 12 min | USD | Low | Gasoline Inventories |  | -1.000M | -1.011M |
+| 12 min | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 17:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 17:30 | CAD | Low | Reserve Assets Total (Feb) |  |  | 128.7B |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | 1.870B |
 | 19:00 | USD | Moderate | Beige Book |  |  |  |
 | 21:00 | KRW | Low | FX Reserves - USD (Feb) |  |  | 425.91B |

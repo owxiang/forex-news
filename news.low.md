@@ -32,18 +32,20 @@
 | 12:00 | BRL | Brazilian PPI (MoM) (Jan) | 0.34% |  | 0.14% |
 | 13:00 | BRL | S&P Global Composite PMI (Feb) | 51.3 |  | 49.9 |
 | 13:00 | BRL | S&P Global Services PMI (Feb) | 53.1 |  | 51.3 |
-| 10 min | CAD | S&P Global Services PMI (Feb) |  |  | 45.80 |
-| 40 min | USD | ISM Non-Manufacturing Business Activity (Feb) |  |  | 57.4 |
-| 40 min | USD | ISM Non-Manufacturing New Orders (Feb) |  |  | 53.1 |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.416M |
-| 15:30 | USD | Crude Oil Imports |  |  | 0.412M |
-| 15:30 | USD | Distillate Fuel Production |  |  | -0.136M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  | -2.600M | 0.252M |
-| 15:30 | USD | Gasoline Production |  |  | -0.223M |
-| 15:30 | USD | Heating Oil Stockpiles |  |  | -0.119M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -2.4% |
-| 15:30 | USD | Gasoline Inventories |  | -1.000M | -1.011M |
-| 17:30 | CAD | Reserve Assets Total (Feb) |  |  | 128.7B |
+| 13:15 | CAD | Reserve Assets Total (Feb) | 128.1B |  | 128.7B |
+| 14:30 | CAD | S&P Global Services PMI (Feb) | 46.50 |  | 45.80 |
+| 15:00 | USD | All Car Sales (Feb) | 2.68M |  | 2.60M |
+| 15:00 | USD | All Truck Sales (Feb) | 13.07M |  | 12.22M |
+| 15:00 | USD | ISM Non-Manufacturing Business Activity (Feb) | 59.9 |  | 57.4 |
+| 15:00 | USD | ISM Non-Manufacturing New Orders (Feb) | 58.6 | 53.5 | 53.1 |
+| 12 min | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.416M |
+| 12 min | USD | Crude Oil Imports |  |  | 0.412M |
+| 12 min | USD | Distillate Fuel Production |  |  | -0.136M |
+| 12 min | USD | EIA Weekly Distillates Stocks |  | -2.600M | 0.252M |
+| 12 min | USD | Gasoline Production |  |  | -0.223M |
+| 12 min | USD | Heating Oil Stockpiles |  |  | -0.119M |
+| 12 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -2.4% |
+| 12 min | USD | Gasoline Inventories |  | -1.000M | -1.011M |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | 1.870B |
 | 21:00 | KRW | FX Reserves - USD (Feb) |  |  | 425.91B |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | -1,898.8B |

@@ -22,9 +22,9 @@
 | 10:00 | EUR | Unemployment Rate (Jan) | 6.1% | 6.2% | 6.2% |
 | 13:30 | CAD | Labor Productivity (QoQ) (Q4) | -0.1% | -0.1% | 1.1% |
 | 13:30 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 25 min | USD | S&P Global Composite PMI (Feb) |  | 52.3 | 52.3 |
-| 40 min | USD | ISM Non-Manufacturing Employment (Feb) |  |  | 50.3 |
-| 15:30 | USD | Cushing Crude Oil Inventories |  |  | 0.881M |
-| 15:30 | CAD | BoC Gov Macklem Speaks |  |  |  |
+| 14:45 | USD | S&P Global Composite PMI (Feb) | 51.9 | 52.3 | 53.0 |
+| 15:00 | USD | ISM Non-Manufacturing Employment (Feb) | 51.8 |  | 50.3 |
+| 12 min | USD | Cushing Crude Oil Inventories |  |  | 0.881M |
+| 12 min | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 17:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 19:00 | USD | Beige Book |  |  |  |
