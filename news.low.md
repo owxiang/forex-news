@@ -30,9 +30,9 @@
 | 12:00 | USD | Mortgage Market Index | 377.5 |  | 340.2 |
 | 12:00 | USD | Mortgage Refinance Index | 1,637.5 |  | 1,432.9 |
 | 12:00 | BRL | Brazilian PPI (MoM) (Jan) | 0.34% |  | 0.14% |
-| 13:00 | BRL | S&P Global Composite PMI (Feb) |  |  | 49.9 |
-| 13:00 | BRL | S&P Global Services PMI (Feb) |  |  | 51.3 |
-| 13:15 | CAD | Reserve Assets Total (Feb) |  |  | 128.7B |
+| 13:00 | BRL | S&P Global Composite PMI (Feb) | 51.3 |  | 49.9 |
+| 13:00 | BRL | S&P Global Services PMI (Feb) | 53.1 |  | 51.3 |
+| 1 min | CAD | Reserve Assets Total (Feb) |  |  | 128.7B |
 | 14:30 | CAD | S&P Global Services PMI (Feb) |  |  | 45.80 |
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Feb) |  |  | 57.4 |
 | 15:00 | USD | ISM Non-Manufacturing New Orders (Feb) |  |  | 53.1 |

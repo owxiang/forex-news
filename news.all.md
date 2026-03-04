@@ -49,12 +49,12 @@
 | 12:00 | USD | Low | Mortgage Market Index | 377.5 |  | 340.2 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 1,637.5 |  | 1,432.9 |
 | 12:00 | BRL | Low | Brazilian PPI (MoM) (Jan) | 0.34% |  | 0.14% |
-| 13:00 | BRL | Low | S&P Global Composite PMI (Feb) |  |  | 49.9 |
-| 13:00 | BRL | Low | S&P Global Services PMI (Feb) |  |  | 51.3 |
-| 13:15 | USD | High | ADP Nonfarm Employment Change (Feb) |  | 50K | 22K |
-| 13:15 | CAD | Low | Reserve Assets Total (Feb) |  |  | 128.7B |
-| 13:30 | CAD | Moderate | Labor Productivity (QoQ) (Q4) |  | -0.1% | 0.9% |
-| 13:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 13:00 | BRL | Low | S&P Global Composite PMI (Feb) | 51.3 |  | 49.9 |
+| 13:00 | BRL | Low | S&P Global Services PMI (Feb) | 53.1 |  | 51.3 |
+| 13:15 | USD | High | ADP Nonfarm Employment Change (Feb) | 63K | 50K | 11K |
+| 1 min | CAD | Moderate | Labor Productivity (QoQ) (Q4) |  | -0.1% | 0.9% |
+| 1 min | CAD | Low | Reserve Assets Total (Feb) |  |  | 128.7B |
+| 1 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 14:30 | CAD | Low | S&P Global Services PMI (Feb) |  |  | 45.80 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Feb) |  | 52.3 | 52.3 |
 | 14:45 | USD | High | S&P Global Services PMI (Feb) |  | 52.3 | 52.3 |
