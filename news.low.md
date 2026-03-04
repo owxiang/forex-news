@@ -18,9 +18,9 @@
 | 08:45 | EUR | HCOB Italy Composite PMI (Feb) | 52.1 |  | 51.4 |
 | 08:50 | EUR | HCOB France Composite PMI (Feb) | 49.9 | 49.9 | 49.9 |
 | 08:55 | EUR | HCOB Germany Composite PMI (Feb) | 53.2 | 53.1 | 53.1 |
+| 09:00 | EUR | Italian GDP (QoQ) (Q4) | 0.3% | 0.3% | 0.2% |
+| 09:00 | EUR | Italian GDP (YoY) (Q4) | 0.8% | 0.8% | 0.7% |
 | 09:00 | EUR | Italian Monthly Unemployment Rate (Jan) | 5.1% | 5.6% | 5.5% |
-| 10:00 | EUR | Italian GDP (QoQ) (Q4) | 0.3% | 0.3% | 0.3% |
-| 10:00 | EUR | Italian GDP (YoY) (Q4) | 0.8% | 0.8% | 0.8% |
 | 10:00 | NOK | House Price Index (YoY) (Feb) | 3.00% |  | 4.20% |
 | 10:00 | EUR | PPI (YoY) (Jan) | -2.1% | -2.7% | -2.0% |
 | 10:00 | EUR | PPI (MoM) (Jan) | 0.7% | 0.2% | -0.3% |
