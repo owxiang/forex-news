@@ -77,8 +77,8 @@
 | 15:30 | USD | Low | Gasoline Inventories | -1.704M | -1.000M | -1.011M |
 | 15:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 17:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 11 min | BRL | Low | Foreign Exchange Flows |  |  | 1.870B |
-| 19:00 | USD | Moderate | Beige Book |  |  |  |
+| 17:30 | BRL | Low | Foreign Exchange Flows | 2.071B |  | 1.870B |
+| 39 min | USD | Moderate | Beige Book |  |  |  |
 | 21:00 | KRW | Low | FX Reserves - USD (Feb) |  |  | 425.91B |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -1,898.8B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 402.0B |
