@@ -13,12 +13,12 @@
 | 05:00 | JPY | Household Confidence (Feb) | 40.0 | 38.2 | 37.9 |
 | 07:00 | NOK | Current Account (Q4) | 153.1B |  | 177.4B |
 | 07:15 | ZAR | S&P Global Manufacturing PMI (Feb) | 50.0 |  | 50.0 |
-| 9 min | CHF | CPI (YoY) (Feb) |  | -0.1% | 0.1% |
-| 08:30 | HKD | Retail Sales (YoY) (Jan) |  |  | 6.6% |
-| 08:45 | EUR | HCOB Italy Composite PMI (Feb) |  |  | 51.4 |
-| 08:50 | EUR | HCOB France Composite PMI (Feb) |  | 49.9 | 49.9 |
-| 08:55 | EUR | HCOB Germany Composite PMI (Feb) |  | 53.1 | 53.1 |
-| 09:00 | EUR | Italian Monthly Unemployment Rate (Jan) |  | 5.6% | 5.6% |
+| 07:30 | CHF | CPI (YoY) (Feb) | 0.1% | -0.1% | 0.1% |
+| 15 min | HKD | Retail Sales (YoY) (Jan) |  |  | 6.6% |
+| 30 min | EUR | HCOB Italy Composite PMI (Feb) |  |  | 51.4 |
+| 35 min | EUR | HCOB France Composite PMI (Feb) |  | 49.9 | 49.9 |
+| 40 min | EUR | HCOB Germany Composite PMI (Feb) |  | 53.1 | 53.1 |
+| 45 min | EUR | Italian Monthly Unemployment Rate (Jan) |  | 5.6% | 5.6% |
 | 09:30 | ZAR | GDP (YoY) (Q4) |  |  | 2.1% |
 | 10:00 | EUR | Italian GDP (YoY) (Q4) |  | 0.8% | 0.8% |
 | 10:00 | EUR | Italian GDP (QoQ) (Q4) |  | 0.3% | 0.3% |
