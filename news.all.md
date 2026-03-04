@@ -19,28 +19,28 @@
 | 05:00 | INR | Low | HSBC India Services PMI (Feb) | 58.1 | 58.4 | 58.5 |
 | 05:00 | INR | Low | HSBC Manufacturing & Services PMI (Feb) | 58.90 | 59.30 | 58.40 |
 | 05:00 | JPY | Low | Household Confidence (Feb) | 40.0 | 38.2 | 37.9 |
-| 07:00 | NOK | Low | Current Account (Q4) |  |  | 174.5B |
-| 07:15 | ZAR | Low | S&P Global Manufacturing PMI (Feb) |  |  | 50.0 |
+| 38 min | NOK | Low | Current Account (Q4) |  |  | 174.5B |
+| 53 min | ZAR | Low | S&P Global Manufacturing PMI (Feb) |  |  | 50.0 |
 | 07:30 | CHF | Low | CPI (YoY) (Feb) |  | -0.1% | 0.1% |
 | 07:30 | CHF | Moderate | CPI (MoM) (Feb) |  | 0.5% | -0.1% |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Feb) |  | 52.9 | 53.5 |
 | 08:30 | HKD | Low | Retail Sales (YoY) (Jan) |  |  | 6.6% |
 | 08:45 | EUR | Low | HCOB Italy Composite PMI (Feb) |  |  | 51.4 |
 | 08:45 | EUR | Moderate | HCOB Italy Services PMI (Feb) |  | 52.6 | 52.9 |
-| 08:50 | EUR | Low | HCOB France Composite PMI (Feb) |  | 49.9 | 49.1 |
-| 08:50 | EUR | Moderate | HCOB France Services PMI (Feb) |  | 49.6 | 48.4 |
-| 08:55 | EUR | Low | HCOB Germany Composite PMI (Feb) |  | 53.1 | 52.1 |
-| 08:55 | EUR | Moderate | HCOB Germany Services PMI (Feb) |  | 53.4 | 52.4 |
+| 08:50 | EUR | Low | HCOB France Composite PMI (Feb) |  | 49.9 | 49.9 |
+| 08:50 | EUR | Moderate | HCOB France Services PMI (Feb) |  | 49.6 | 49.6 |
+| 08:55 | EUR | Low | HCOB Germany Composite PMI (Feb) |  | 53.1 | 53.1 |
+| 08:55 | EUR | Moderate | HCOB Germany Services PMI (Feb) |  | 53.4 | 53.4 |
 | 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Jan) |  | 5.6% | 5.6% |
-| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Feb) |  | 51.9 | 51.3 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Feb) |  | 51.8 | 51.6 |
-| 09:30 | GBP | Moderate | S&P Global Composite PMI (Feb) |  | 53.9 | 53.7 |
-| 09:30 | GBP | Moderate | S&P Global Services PMI (Feb) |  | 53.9 | 54.0 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Feb) |  | 51.9 | 51.9 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Feb) |  | 51.8 | 51.8 |
+| 09:30 | GBP | Moderate | S&P Global Composite PMI (Feb) |  | 53.9 | 53.9 |
+| 09:30 | GBP | Moderate | S&P Global Services PMI (Feb) |  | 53.9 | 53.9 |
 | 09:30 | CHF | Moderate | SNB Press Conference |  |  |  |
 | 09:30 | ZAR | Moderate | GDP Annualized (QoQ) (Q4) |  |  | 0.5% |
 | 09:30 | ZAR | Low | GDP (YoY) (Q4) |  |  | 2.1% |
-| 10:00 | EUR | Low | Italian GDP (YoY) (Q4) |  | 0.8% | 0.6% |
-| 10:00 | EUR | Low | Italian GDP (QoQ) (Q4) |  | 0.3% | 0.1% |
+| 10:00 | EUR | Low | Italian GDP (YoY) (Q4) |  | 0.8% | 0.8% |
+| 10:00 | EUR | Low | Italian GDP (QoQ) (Q4) |  | 0.3% | 0.3% |
 | 10:00 | NOK | Low | House Price Index (YoY) (Feb) |  |  | 4.20% |
 | 10:00 | EUR | Low | PPI (YoY) (Jan) |  | -2.7% | -2.1% |
 | 10:00 | EUR | Low | PPI (MoM) (Jan) |  | 0.2% | -0.3% |
@@ -59,8 +59,8 @@
 | 13:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 14:00 | INR | Low | M3 Money Supply |  |  | 12.0% |
 | 14:30 | CAD | Low | S&P Global Services PMI (Feb) |  |  | 45.80 |
-| 14:45 | USD | Moderate | S&P Global Composite PMI (Feb) |  | 52.3 | 53.0 |
-| 14:45 | USD | High | S&P Global Services PMI (Feb) |  | 52.3 | 52.7 |
+| 14:45 | USD | Moderate | S&P Global Composite PMI (Feb) |  | 52.3 | 52.3 |
+| 14:45 | USD | High | S&P Global Services PMI (Feb) |  | 52.3 | 52.3 |
 | 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Feb) |  |  | 57.4 |
 | 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Feb) |  |  | 50.3 |
 | 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Feb) |  |  | 53.1 |
