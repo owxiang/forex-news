@@ -8,20 +8,20 @@
 | 00:30 | AUD | GDP Final Consumption (Q4) | 0.5% |  | 0.7% |
 | 00:30 | JPY | Manufacturing & Services PMI (Feb) | 53.90 | 53.80 | 53.10 |
 | 00:30 | HKD | S&P Global Manufacturing PMI (Feb) | 53.3 |  | 52.3 |
-| 22 min | INR | HSBC India Services PMI (Feb) |  | 58.4 | 58.4 |
-| 22 min | INR | HSBC Manufacturing & Services PMI (Feb) |  | 59.30 | 59.30 |
-| 22 min | JPY | Household Confidence (Feb) |  | 38.2 | 37.9 |
+| 05:00 | INR | HSBC India Services PMI (Feb) | 58.1 | 58.4 | 58.5 |
+| 05:00 | INR | HSBC Manufacturing & Services PMI (Feb) | 58.90 | 59.30 | 58.40 |
+| 05:00 | JPY | Household Confidence (Feb) | 40.0 | 38.2 | 37.9 |
 | 07:00 | NOK | Current Account (Q4) |  |  | 174.5B |
 | 07:15 | ZAR | S&P Global Manufacturing PMI (Feb) |  |  | 50.0 |
 | 07:30 | CHF | CPI (YoY) (Feb) |  | -0.1% | 0.1% |
 | 08:30 | HKD | Retail Sales (YoY) (Jan) |  |  | 6.6% |
 | 08:45 | EUR | HCOB Italy Composite PMI (Feb) |  |  | 51.4 |
-| 08:50 | EUR | HCOB France Composite PMI (Feb) |  | 49.9 | 49.9 |
-| 08:55 | EUR | HCOB Germany Composite PMI (Feb) |  | 53.1 | 53.1 |
+| 08:50 | EUR | HCOB France Composite PMI (Feb) |  | 49.9 | 49.1 |
+| 08:55 | EUR | HCOB Germany Composite PMI (Feb) |  | 53.1 | 52.1 |
 | 09:00 | EUR | Italian Monthly Unemployment Rate (Jan) |  | 5.6% | 5.6% |
 | 09:30 | ZAR | GDP (YoY) (Q4) |  |  | 2.1% |
-| 10:00 | EUR | Italian GDP (QoQ) (Q4) |  | 0.3% | 0.3% |
-| 10:00 | EUR | Italian GDP (YoY) (Q4) |  | 0.8% | 0.8% |
+| 10:00 | EUR | Italian GDP (YoY) (Q4) |  | 0.8% | 0.6% |
+| 10:00 | EUR | Italian GDP (QoQ) (Q4) |  | 0.3% | 0.1% |
 | 10:00 | NOK | House Price Index (YoY) (Feb) |  |  | 4.20% |
 | 10:00 | EUR | PPI (YoY) (Jan) |  | -2.7% | -2.1% |
 | 10:00 | EUR | PPI (MoM) (Jan) |  | 0.2% | -0.3% |
@@ -41,13 +41,12 @@
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.416M |
 | 15:30 | USD | Crude Oil Imports |  |  | 0.412M |
 | 15:30 | USD | Distillate Fuel Production |  |  | -0.136M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | 0.252M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  | -2.600M | 0.252M |
 | 15:30 | USD | Gasoline Production |  |  | -0.223M |
 | 15:30 | USD | Heating Oil Stockpiles |  |  | -0.119M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -2.4% |
-| 15:30 | USD | Gasoline Inventories |  |  | -1.011M |
+| 15:30 | USD | Gasoline Inventories |  | -1.000M | -1.011M |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | 1.870B |
-| 19:00 | USD | Total Vehicle Sales (Feb) |  | 15.20M | 14.90M |
 | 21:00 | KRW | FX Reserves - USD (Feb) |  |  | 425.91B |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | -1,898.8B |
 | 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 402.0B |
