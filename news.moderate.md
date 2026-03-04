@@ -7,8 +7,8 @@
 | 00:30 | JPY | S&P Global Services PMI (Feb) | 53.8 | 53.8 | 53.8 |
 | 01:30 | CNY | Chinese Composite PMI (Feb) | 49.5 |  | 49.8 |
 | 01:30 | CNY | Non-Manufacturing PMI (Feb) | 49.5 | 49.7 | 49.4 |
-| 6 min | CNY | RatingDog Manufacturing PMI (MoM) (Feb) |  | 50.1 | 50.3 |
-| 6 min | CNY | RatingDog Services PMI (Feb) |  | 52.3 | 52.3 |
+| 01:45 | CNY | RatingDog Manufacturing PMI (MoM) (Feb) | 52.1 | 50.1 | 50.3 |
+| 01:45 | CNY | RatingDog Services PMI (Feb) | 56.7 | 52.3 | 52.3 |
 | 07:30 | CHF | CPI (MoM) (Feb) |  | 0.5% | -0.1% |
 | 08:15 | EUR | HCOB Spain Services PMI (Feb) |  | 52.9 | 53.5 |
 | 08:45 | EUR | HCOB Italy Services PMI (Feb) |  | 52.6 | 52.9 |
