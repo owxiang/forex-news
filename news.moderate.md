@@ -16,11 +16,10 @@
 | 08:55 | EUR | HCOB Germany Services PMI (Feb) | 53.5 | 53.4 | 53.4 |
 | 09:00 | EUR | HCOB Eurozone Composite PMI (Feb) | 51.9 | 51.9 | 51.9 |
 | 09:00 | EUR | HCOB Eurozone Services PMI (Feb) | 51.9 | 51.8 | 51.8 |
-| 12 min | GBP | S&P Global Composite PMI (Feb) |  | 53.9 | 53.9 |
-| 12 min | GBP | S&P Global Services PMI (Feb) |  | 53.9 | 53.9 |
-| 12 min | CHF | SNB Press Conference |  |  |  |
-| 12 min | ZAR | GDP Annualized (QoQ) (Q4) |  |  | 0.5% |
-| 42 min | EUR | Unemployment Rate (Jan) |  | 6.2% | 6.2% |
+| 09:30 | GBP | S&P Global Composite PMI (Feb) | 53.7 | 53.9 | 53.9 |
+| 09:30 | GBP | S&P Global Services PMI (Feb) | 53.9 | 53.9 | 53.9 |
+| 09:30 | CHF | SNB Press Conference |  |  |  |
+| 10:00 | EUR | Unemployment Rate (Jan) | 6.1% | 6.2% | 6.2% |
 | 13:30 | CAD | Labor Productivity (QoQ) (Q4) |  | -0.1% | 0.9% |
 | 13:30 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 14:45 | USD | S&P Global Composite PMI (Feb) |  | 52.3 | 52.3 |

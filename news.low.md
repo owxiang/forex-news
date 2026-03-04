@@ -19,12 +19,11 @@
 | 08:50 | EUR | HCOB France Composite PMI (Feb) | 49.9 | 49.9 | 49.9 |
 | 08:55 | EUR | HCOB Germany Composite PMI (Feb) | 53.2 | 53.1 | 53.1 |
 | 09:00 | EUR | Italian Monthly Unemployment Rate (Jan) | 5.1% | 5.6% | 5.5% |
-| 12 min | ZAR | GDP (YoY) (Q4) |  |  | 2.1% |
-| 42 min | EUR | Italian GDP (YoY) (Q4) |  | 0.8% | 0.8% |
-| 42 min | EUR | Italian GDP (QoQ) (Q4) |  | 0.3% | 0.3% |
-| 42 min | NOK | House Price Index (YoY) (Feb) |  |  | 4.20% |
-| 42 min | EUR | PPI (YoY) (Jan) |  | -2.7% | -2.1% |
-| 42 min | EUR | PPI (MoM) (Jan) |  | 0.2% | -0.3% |
+| 10:00 | EUR | Italian GDP (QoQ) (Q4) | 0.3% | 0.3% | 0.3% |
+| 10:00 | EUR | Italian GDP (YoY) (Q4) | 0.8% | 0.8% | 0.8% |
+| 10:00 | NOK | House Price Index (YoY) (Feb) | 3.00% |  | 4.20% |
+| 10:00 | EUR | PPI (YoY) (Jan) | -2.1% | -2.7% | -2.0% |
+| 10:00 | EUR | PPI (MoM) (Jan) | 0.7% | 0.2% | -0.3% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.09% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 0.4% |
 | 12:00 | USD | MBA Purchase Index |  |  | 149.7 |
