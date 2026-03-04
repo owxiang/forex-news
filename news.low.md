@@ -6,11 +6,11 @@
 | 00:30 | AUD | GDP Capital Expenditure (Q4) | 0.7% |  | 3.2% |
 | 00:30 | AUD | GDP Chain Price Index (Q4) | 1.4% |  | 0.8% |
 | 00:30 | AUD | GDP Final Consumption (Q4) | 0.5% |  | 0.7% |
-| 00:30 | JPY | Manufacturing & Services PMI (Feb) | 53.90 | 53.80 | 53.80 |
+| 00:30 | JPY | Manufacturing & Services PMI (Feb) | 53.90 | 53.80 | 53.10 |
 | 00:30 | HKD | S&P Global Manufacturing PMI (Feb) | 53.3 |  | 52.3 |
-| 05:00 | INR | HSBC India Services PMI (Feb) |  | 58.4 | 58.4 |
-| 05:00 | INR | HSBC Manufacturing & Services PMI (Feb) |  | 59.30 | 59.30 |
-| 05:00 | JPY | Household Confidence (Feb) |  | 38.2 | 37.9 |
+| 22 min | INR | HSBC India Services PMI (Feb) |  | 58.4 | 58.4 |
+| 22 min | INR | HSBC Manufacturing & Services PMI (Feb) |  | 59.30 | 59.30 |
+| 22 min | JPY | Household Confidence (Feb) |  | 38.2 | 37.9 |
 | 07:00 | NOK | Current Account (Q4) |  |  | 174.5B |
 | 07:15 | ZAR | S&P Global Manufacturing PMI (Feb) |  |  | 50.0 |
 | 07:30 | CHF | CPI (YoY) (Feb) |  | -0.1% | 0.1% |

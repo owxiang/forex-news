@@ -3,10 +3,10 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | GDP (QoQ) (Q4) | 0.8% | 0.7% | 0.5% |
-| 00:30 | AUD | GDP (YoY) (Q4) | 2.6% | 2.1% | 2.1% |
-| 00:30 | JPY | S&P Global Services PMI (Feb) | 53.8 | 53.8 | 53.8 |
+| 00:30 | AUD | GDP (YoY) (Q4) | 2.6% | 2.2% | 2.1% |
+| 00:30 | JPY | S&P Global Services PMI (Feb) | 53.8 | 53.8 | 53.7 |
 | 01:30 | CNY | Chinese Composite PMI (Feb) | 49.5 |  | 49.8 |
-| 01:30 | CNY | Non-Manufacturing PMI (Feb) | 49.5 | 49.7 | 49.4 |
+| 01:30 | CNY | Non-Manufacturing PMI (Feb) | 49.5 | 49.8 | 49.4 |
 | 01:45 | CNY | RatingDog Manufacturing PMI (MoM) (Feb) | 52.1 | 50.1 | 50.3 |
 | 01:45 | CNY | RatingDog Services PMI (Feb) | 56.7 | 52.3 | 52.3 |
 | 07:30 | CHF | CPI (MoM) (Feb) |  | 0.5% | -0.1% |
