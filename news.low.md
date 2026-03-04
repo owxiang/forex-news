@@ -3,9 +3,9 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | NZD | ANZ Commodity Price Index (MoM) | 4.2% |  | 2.0% |
-| 00:30 | AUD | GDP Capital Expenditure (Q4) | 0.7% |  | 3.0% |
+| 00:30 | AUD | GDP Capital Expenditure (Q4) | 0.7% |  | 3.2% |
 | 00:30 | AUD | GDP Chain Price Index (Q4) | 1.4% |  | 0.8% |
-| 00:30 | AUD | GDP Final Consumption (Q4) | 0.5% |  | 0.6% |
+| 00:30 | AUD | GDP Final Consumption (Q4) | 0.5% |  | 0.7% |
 | 00:30 | JPY | Manufacturing & Services PMI (Feb) | 53.90 | 53.80 | 53.80 |
 | 00:30 | HKD | S&P Global Manufacturing PMI (Feb) | 53.3 |  | 52.3 |
 | 05:00 | INR | HSBC India Services PMI (Feb) |  | 58.4 | 58.4 |

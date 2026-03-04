@@ -3,19 +3,19 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | NZD | Low | ANZ Commodity Price Index (MoM) | 4.2% |  | 2.0% |
-| 00:30 | AUD | Moderate | GDP (QoQ) (Q4) | 0.8% | 0.7% | 0.4% |
+| 00:30 | AUD | Moderate | GDP (QoQ) (Q4) | 0.8% | 0.7% | 0.5% |
 | 00:30 | AUD | Moderate | GDP (YoY) (Q4) | 2.6% | 2.1% | 2.1% |
-| 00:30 | AUD | Low | GDP Capital Expenditure (Q4) | 0.7% |  | 3.0% |
+| 00:30 | AUD | Low | GDP Capital Expenditure (Q4) | 0.7% |  | 3.2% |
 | 00:30 | AUD | Low | GDP Chain Price Index (Q4) | 1.4% |  | 0.8% |
-| 00:30 | AUD | Low | GDP Final Consumption (Q4) | 0.5% |  | 0.6% |
+| 00:30 | AUD | Low | GDP Final Consumption (Q4) | 0.5% |  | 0.7% |
 | 00:30 | JPY | Low | Manufacturing & Services PMI (Feb) | 53.90 | 53.80 | 53.80 |
 | 00:30 | JPY | Moderate | S&P Global Services PMI (Feb) | 53.8 | 53.8 | 53.8 |
 | 00:30 | HKD | Low | S&P Global Manufacturing PMI (Feb) | 53.3 |  | 52.3 |
-| 51 min | CNY | Moderate | Chinese Composite PMI (Feb) |  |  | 49.8 |
-| 51 min | CNY | High | Manufacturing PMI (Feb) |  | 49.2 | 49.3 |
-| 51 min | CNY | Moderate | Non-Manufacturing PMI (Feb) |  | 49.7 | 49.4 |
-| 01:45 | CNY | Moderate | RatingDog Manufacturing PMI (MoM) (Feb) |  | 50.1 | 50.3 |
-| 01:45 | CNY | Moderate | RatingDog Services PMI (Feb) |  | 52.3 | 52.3 |
+| 01:30 | CNY | Moderate | Chinese Composite PMI (Feb) | 49.5 |  | 49.8 |
+| 01:30 | CNY | High | Manufacturing PMI (Feb) | 49.0 | 49.2 | 49.3 |
+| 01:30 | CNY | Moderate | Non-Manufacturing PMI (Feb) | 49.5 | 49.7 | 49.4 |
+| 6 min | CNY | Moderate | RatingDog Manufacturing PMI (MoM) (Feb) |  | 50.1 | 50.3 |
+| 6 min | CNY | Moderate | RatingDog Services PMI (Feb) |  | 52.3 | 52.3 |
 | 05:00 | INR | Low | HSBC India Services PMI (Feb) |  | 58.4 | 58.4 |
 | 05:00 | INR | Low | HSBC Manufacturing & Services PMI (Feb) |  | 59.30 | 59.30 |
 | 05:00 | JPY | Low | Household Confidence (Feb) |  | 38.2 | 37.9 |
