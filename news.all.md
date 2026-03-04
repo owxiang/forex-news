@@ -19,11 +19,11 @@
 | 05:00 | INR | Low | HSBC India Services PMI (Feb) | 58.1 | 58.4 | 58.5 |
 | 05:00 | INR | Low | HSBC Manufacturing & Services PMI (Feb) | 58.90 | 59.30 | 58.40 |
 | 05:00 | JPY | Low | Household Confidence (Feb) | 40.0 | 38.2 | 37.9 |
-| 38 min | NOK | Low | Current Account (Q4) |  |  | 174.5B |
-| 53 min | ZAR | Low | S&P Global Manufacturing PMI (Feb) |  |  | 50.0 |
-| 07:30 | CHF | Low | CPI (YoY) (Feb) |  | -0.1% | 0.1% |
-| 07:30 | CHF | Moderate | CPI (MoM) (Feb) |  | 0.5% | -0.1% |
-| 08:15 | EUR | Moderate | HCOB Spain Services PMI (Feb) |  | 52.9 | 53.5 |
+| 07:00 | NOK | Low | Current Account (Q4) | 153.1B |  | 177.4B |
+| 07:15 | ZAR | Low | S&P Global Manufacturing PMI (Feb) | 50.0 |  | 50.0 |
+| 9 min | CHF | Low | CPI (YoY) (Feb) |  | -0.1% | 0.1% |
+| 9 min | CHF | Moderate | CPI (MoM) (Feb) |  | 0.5% | -0.1% |
+| 54 min | EUR | Moderate | HCOB Spain Services PMI (Feb) |  | 52.9 | 53.5 |
 | 08:30 | HKD | Low | Retail Sales (YoY) (Jan) |  |  | 6.6% |
 | 08:45 | EUR | Low | HCOB Italy Composite PMI (Feb) |  |  | 51.4 |
 | 08:45 | EUR | Moderate | HCOB Italy Services PMI (Feb) |  | 52.6 | 52.9 |
