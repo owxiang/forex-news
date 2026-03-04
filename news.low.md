@@ -24,16 +24,15 @@
 | 10:00 | NOK | House Price Index (YoY) (Feb) | 3.00% |  | 4.20% |
 | 10:00 | EUR | PPI (YoY) (Jan) | -2.1% | -2.7% | -2.0% |
 | 10:00 | EUR | PPI (MoM) (Jan) | 0.7% | 0.2% | -0.3% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.09% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 0.4% |
-| 12:00 | USD | MBA Purchase Index |  |  | 149.7 |
-| 12:00 | USD | Mortgage Market Index |  |  | 340.2 |
-| 12:00 | USD | Mortgage Refinance Index |  |  | 1,432.9 |
-| 12:00 | BRL | Brazilian PPI (MoM) (Jan) |  |  | 0.12% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.09% |  | 6.09% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | 11.0% |  | 0.4% |
+| 12:00 | USD | MBA Purchase Index | 158.9 |  | 149.7 |
+| 12:00 | USD | Mortgage Market Index | 377.5 |  | 340.2 |
+| 12:00 | USD | Mortgage Refinance Index | 1,637.5 |  | 1,432.9 |
+| 12:00 | BRL | Brazilian PPI (MoM) (Jan) | 0.34% |  | 0.14% |
 | 13:00 | BRL | S&P Global Composite PMI (Feb) |  |  | 49.9 |
 | 13:00 | BRL | S&P Global Services PMI (Feb) |  |  | 51.3 |
 | 13:15 | CAD | Reserve Assets Total (Feb) |  |  | 128.7B |
-| 14:00 | INR | M3 Money Supply |  |  | 12.0% |
 | 14:30 | CAD | S&P Global Services PMI (Feb) |  |  | 45.80 |
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Feb) |  |  | 57.4 |
 | 15:00 | USD | ISM Non-Manufacturing New Orders (Feb) |  |  | 53.1 |

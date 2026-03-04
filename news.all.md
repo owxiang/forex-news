@@ -43,19 +43,18 @@
 | 10:00 | EUR | Low | PPI (YoY) (Jan) | -2.1% | -2.7% | -2.0% |
 | 10:00 | EUR | Low | PPI (MoM) (Jan) | 0.7% | 0.2% | -0.3% |
 | 10:00 | EUR | Moderate | Unemployment Rate (Jan) | 6.1% | 6.2% | 6.2% |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.09% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 0.4% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 149.7 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 340.2 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 1,432.9 |
-| 12:00 | BRL | Low | Brazilian PPI (MoM) (Jan) |  |  | 0.12% |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.09% |  | 6.09% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | 11.0% |  | 0.4% |
+| 12:00 | USD | Low | MBA Purchase Index | 158.9 |  | 149.7 |
+| 12:00 | USD | Low | Mortgage Market Index | 377.5 |  | 340.2 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 1,637.5 |  | 1,432.9 |
+| 12:00 | BRL | Low | Brazilian PPI (MoM) (Jan) | 0.34% |  | 0.14% |
 | 13:00 | BRL | Low | S&P Global Composite PMI (Feb) |  |  | 49.9 |
 | 13:00 | BRL | Low | S&P Global Services PMI (Feb) |  |  | 51.3 |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Feb) |  | 50K | 22K |
 | 13:15 | CAD | Low | Reserve Assets Total (Feb) |  |  | 128.7B |
 | 13:30 | CAD | Moderate | Labor Productivity (QoQ) (Q4) |  | -0.1% | 0.9% |
 | 13:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 14:00 | INR | Low | M3 Money Supply |  |  | 12.0% |
 | 14:30 | CAD | Low | S&P Global Services PMI (Feb) |  |  | 45.80 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Feb) |  | 52.3 | 52.3 |
 | 14:45 | USD | High | S&P Global Services PMI (Feb) |  | 52.3 | 52.3 |
