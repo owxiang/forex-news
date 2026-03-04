@@ -20,10 +20,10 @@
 | 09:30 | GBP | S&P Global Services PMI (Feb) | 53.9 | 53.9 | 53.9 |
 | 09:30 | CHF | SNB Press Conference |  |  |  |
 | 10:00 | EUR | Unemployment Rate (Jan) | 6.1% | 6.2% | 6.2% |
-| 1 min | CAD | Labor Productivity (QoQ) (Q4) |  | -0.1% | 0.9% |
-| 1 min | EUR | ECB's De Guindos Speaks |  |  |  |
-| 14:45 | USD | S&P Global Composite PMI (Feb) |  | 52.3 | 52.3 |
-| 15:00 | USD | ISM Non-Manufacturing Employment (Feb) |  |  | 50.3 |
+| 13:30 | CAD | Labor Productivity (QoQ) (Q4) | -0.1% | -0.1% | 1.1% |
+| 13:30 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 25 min | USD | S&P Global Composite PMI (Feb) |  | 52.3 | 52.3 |
+| 40 min | USD | ISM Non-Manufacturing Employment (Feb) |  |  | 50.3 |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | 0.881M |
 | 15:30 | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 17:00 | EUR | German Buba Balz Speaks |  |  |  |
