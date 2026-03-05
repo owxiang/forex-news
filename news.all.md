@@ -52,9 +52,9 @@
 | 17:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | BRL | Low | Trade Balance (Feb) | 4.21B | 4.23B | 3.82B |
 | 18:15 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 16 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,614B |
-| 16 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.004T |
-| 23:00 | KRW | Low | CPI (YoY) (Feb) |  | 2.1% | 2.0% |
-| 23:00 | KRW | Low | CPI (MoM) (Feb) |  | 0.4% | 0.4% |
-| 23:00 | KRW | Low | Current Account (Jan) |  |  | 18.70B |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,629B |  | 6,614B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.014T |  | 3.004T |
+| 49 min | KRW | Low | CPI (YoY) (Feb) |  | 2.1% | 2.0% |
+| 49 min | KRW | Low | CPI (MoM) (Feb) |  | 0.4% | 0.4% |
+| 49 min | KRW | Low | Current Account (Jan) |  |  | 18.70B |
 | 23:50 | JPY | Low | Foreign Reserves (USD) (Feb) |  |  | 1,394.8B |

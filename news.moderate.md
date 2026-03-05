@@ -17,4 +17,4 @@
 | 16:30 | EUR | German Buba Balz Speaks |  |  |  |
 | 17:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 18:15 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 16 min | USD | Fed's Balance Sheet |  |  | 6,614B |
+| 21:30 | USD | Fed's Balance Sheet | 6,629B |  | 6,614B |
