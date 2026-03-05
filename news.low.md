@@ -4,9 +4,9 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Exports (MoM) (Jan) | -0.9% |  | 0.9% |
 | 00:30 | AUD | Imports (MoM) (Jan) | 0.8% |  | -1.8% |
-| 31 min | JPY | 30-Year JGB Auction |  |  | 3.615% |
-| 05:00 | SGD | Retail Sales (YoY) (Jan) |  |  | 2.7% |
-| 05:00 | SGD | Retail Sales (MoM) (Jan) |  |  | -5.4% |
+| 03:35 | JPY | 30-Year JGB Auction | 3.398% |  | 3.615% |
+| 21 min | SGD | Retail Sales (YoY) (Jan) |  |  | 2.7% |
+| 21 min | SGD | Retail Sales (MoM) (Jan) |  |  | -5.4% |
 | 07:45 | EUR | French Industrial Production (MoM) (Jan) |  | 0.4% | -0.7% |
 | 08:00 | CHF | Unemployment Rate n.s.a. (Feb) |  |  | 3.2% |
 | 08:00 | CHF | Unemployment Rate s.a. (Feb) |  | 2.9% | 2.9% |
