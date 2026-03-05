@@ -54,7 +54,7 @@
 | 18:15 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet | 6,629B |  | 6,614B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.014T |  | 3.004T |
-| 49 min | KRW | Low | CPI (YoY) (Feb) |  | 2.1% | 2.0% |
-| 49 min | KRW | Low | CPI (MoM) (Feb) |  | 0.4% | 0.4% |
-| 49 min | KRW | Low | Current Account (Jan) |  |  | 18.70B |
-| 23:50 | JPY | Low | Foreign Reserves (USD) (Feb) |  |  | 1,394.8B |
+| 23:00 | KRW | Low | CPI (YoY) (Feb) | 2.0% | 2.1% | 2.0% |
+| 23:00 | KRW | Low | CPI (MoM) (Feb) | 0.3% | 0.4% | 0.4% |
+| 23:00 | KRW | Low | Current Account (Jan) | 13.26B |  | 18.70B |
+| 23 min | JPY | Low | Foreign Reserves (USD) (Feb) |  |  | 1,394.8B |
