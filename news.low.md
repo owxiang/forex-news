@@ -4,6 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Exports (MoM) (Jan) | -0.9% |  | 0.9% |
 | 00:30 | AUD | Imports (MoM) (Jan) | 0.8% |  | -1.8% |
+| 31 min | JPY | 30-Year JGB Auction |  |  | 3.615% |
 | 05:00 | SGD | Retail Sales (YoY) (Jan) |  |  | 2.7% |
 | 05:00 | SGD | Retail Sales (MoM) (Jan) |  |  | -5.4% |
 | 07:45 | EUR | French Industrial Production (MoM) (Jan) |  | 0.4% | -0.7% |
@@ -25,8 +26,8 @@
 | 10:00 | EUR | Retail Sales (YoY) (Jan) |  | 1.7% | 1.3% |
 | 12:00 | MXN | Gross Fixed Investments (MoM) (Dec) |  | 0.70% | 0.40% |
 | 12:00 | MXN | Gross Fixed Investments (YoY) (Dec) |  | -2.80% | -6.40% |
-| 12:30 | USD | Challenger Job Cuts (Feb) |  |  | 108.435K |
 | 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 117.8% |
+| 12:30 | USD | Challenger Job Cuts (Feb) |  |  | 108.435K |
 | 13:30 | USD | Export Price Index (YoY) (Jan) |  |  | 3.1% |
 | 13:30 | USD | Import Price Index (YoY) (Jan) |  |  | 0.0% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 220.25K |

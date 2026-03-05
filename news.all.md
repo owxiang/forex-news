@@ -5,6 +5,7 @@
 | 00:30 | AUD | Low | Exports (MoM) (Jan) | -0.9% |  | 0.9% |
 | 00:30 | AUD | Low | Imports (MoM) (Jan) | 0.8% |  | -1.8% |
 | 00:30 | AUD | Moderate | Trade Balance (Jan) | 2.631B | 3.780B | 3.373B |
+| 31 min | JPY | Low | 30-Year JGB Auction |  |  | 3.615% |
 | 05:00 | SGD | Low | Retail Sales (YoY) (Jan) |  |  | 2.7% |
 | 05:00 | SGD | Low | Retail Sales (MoM) (Jan) |  |  | -5.4% |
 | 07:45 | EUR | Low | French Industrial Production (MoM) (Jan) |  | 0.4% | -0.7% |
@@ -31,8 +32,8 @@
 | 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Dec) |  | 0.70% | 0.40% |
 | 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Dec) |  | -2.80% | -6.40% |
 | 12:00 | BRL | Moderate | Unemployment Rate (Jan) |  | 5.4% | 5.1% |
-| 12:30 | USD | Low | Challenger Job Cuts (Feb) |  |  | 108.435K |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 117.8% |
+| 12:30 | USD | Low | Challenger Job Cuts (Feb) |  |  | 108.435K |
 | 12:30 | USD | Moderate | Trade Balance (Jan) |  |  | -70.30B |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,850K | 1,833K |
