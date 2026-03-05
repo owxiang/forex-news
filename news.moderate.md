@@ -7,7 +7,7 @@
 | 09:30 | GBP | S&P Global Construction PMI (Feb) | 44.5 | 47.0 | 46.4 |
 | 09:50 | EUR | Spanish 15-Year Obligacion Auction | 3.605% |  | 3.670% |
 | 10:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 12:00 | BRL | Unemployment Rate (Jan) |  | 5.4% | 5.1% |
+| 43 min | BRL | Unemployment Rate (Jan) |  | 5.4% | 5.1% |
 | 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,850K | 1,833K |
 | 13:30 | USD | Export Price Index (MoM) (Jan) |  | 0.3% | 0.3% |
