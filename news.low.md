@@ -7,17 +7,17 @@
 | 03:35 | JPY | 30-Year JGB Auction | 3.398% |  | 3.615% |
 | 05:00 | SGD | Retail Sales (YoY) (Jan) | -0.4% |  | 2.5% |
 | 05:00 | SGD | Retail Sales (MoM) (Jan) | 6.1% |  | -2.7% |
-| 23 min | EUR | French Industrial Production (MoM) (Jan) |  | 0.4% | -0.7% |
-| 38 min | CHF | Unemployment Rate n.s.a. (Feb) |  |  | 3.2% |
-| 38 min | CHF | Unemployment Rate s.a. (Feb) |  | 2.9% | 2.9% |
-| 38 min | EUR | Spanish Industrial Production (YoY) (Jan) |  | 1.7% | -0.3% |
-| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Feb) |  |  | 47.7 |
-| 08:30 | EUR | HCOB Germany Construction PMI (Feb) |  |  | 44.7 |
-| 08:30 | EUR | HCOB France Construction PMI (MoM) (Feb) |  |  | 43.5 |
-| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Feb) |  |  | 45.3 |
-| 09:00 | GBP | United Kingdom New Passenger Cars Registration (Feb) |  |  | 144,127.0 |
-| 09:00 | EUR | Italian Retail Sales (YoY) (Jan) |  |  | 0.9% |
-| 09:00 | EUR | Italian Retail Sales (MoM) (Jan) |  | -0.1% | -0.8% |
+| 07:45 | EUR | French Industrial Production (MoM) (Jan) | 0.5% | 0.4% | 0.5% |
+| 08:00 | CHF | Unemployment Rate n.s.a. (Feb) | 3.2% |  | 3.2% |
+| 08:00 | CHF | Unemployment Rate s.a. (Feb) | 3.0% | 2.9% | 2.9% |
+| 08:00 | EUR | Spanish Industrial Production (YoY) (Jan) | 0.3% | 1.7% | -0.3% |
+| 13 min | EUR | HCOB Italy Construction PMI (MoM) (Feb) |  |  | 47.7 |
+| 13 min | EUR | HCOB Germany Construction PMI (Feb) |  |  | 44.7 |
+| 13 min | EUR | HCOB France Construction PMI (MoM) (Feb) |  |  | 43.5 |
+| 13 min | EUR | HCOB Eurozone Construction PMI (MoM) (Feb) |  |  | 45.3 |
+| 43 min | GBP | United Kingdom New Passenger Cars Registration (Feb) |  |  | 144,127.0 |
+| 43 min | EUR | Italian Retail Sales (YoY) (Jan) |  |  | 0.9% |
+| 43 min | EUR | Italian Retail Sales (MoM) (Jan) |  | -0.1% | -0.8% |
 | 09:30 | GBP | Car Registration (YoY) (Feb) |  |  | 3.4% |
 | 09:50 | EUR | French 10-Year OAT Auction |  |  | 3.45% |
 | 09:50 | EUR | Spanish 3-Year Bonos Auction |  |  | 2.273% |

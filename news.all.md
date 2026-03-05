@@ -8,18 +8,18 @@
 | 03:35 | JPY | Low | 30-Year JGB Auction | 3.398% |  | 3.615% |
 | 05:00 | SGD | Low | Retail Sales (YoY) (Jan) | -0.4% |  | 2.5% |
 | 05:00 | SGD | Low | Retail Sales (MoM) (Jan) | 6.1% |  | -2.7% |
-| 23 min | EUR | Low | French Industrial Production (MoM) (Jan) |  | 0.4% | -0.7% |
-| 38 min | CHF | Low | Unemployment Rate n.s.a. (Feb) |  |  | 3.2% |
-| 38 min | CHF | Low | Unemployment Rate s.a. (Feb) |  | 2.9% | 2.9% |
-| 38 min | EUR | Low | Spanish Industrial Production (YoY) (Jan) |  | 1.7% | -0.3% |
-| 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Feb) |  |  | 47.7 |
-| 08:30 | EUR | Low | HCOB Germany Construction PMI (Feb) |  |  | 44.7 |
-| 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Feb) |  |  | 43.5 |
-| 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Feb) |  |  | 45.3 |
-| 08:50 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 09:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Feb) |  |  | 144,127.0 |
-| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Jan) |  |  | 0.9% |
-| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Jan) |  | -0.1% | -0.8% |
+| 07:45 | EUR | Low | French Industrial Production (MoM) (Jan) | 0.5% | 0.4% | 0.5% |
+| 08:00 | CHF | Low | Unemployment Rate n.s.a. (Feb) | 3.2% |  | 3.2% |
+| 08:00 | CHF | Low | Unemployment Rate s.a. (Feb) | 3.0% | 2.9% | 2.9% |
+| 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Jan) | 0.3% | 1.7% | -0.3% |
+| 13 min | EUR | Low | HCOB Italy Construction PMI (MoM) (Feb) |  |  | 47.7 |
+| 13 min | EUR | Low | HCOB Germany Construction PMI (Feb) |  |  | 44.7 |
+| 13 min | EUR | Low | HCOB France Construction PMI (MoM) (Feb) |  |  | 43.5 |
+| 13 min | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Feb) |  |  | 45.3 |
+| 33 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 43 min | GBP | Low | United Kingdom New Passenger Cars Registration (Feb) |  |  | 144,127.0 |
+| 43 min | EUR | Low | Italian Retail Sales (YoY) (Jan) |  |  | 0.9% |
+| 43 min | EUR | Low | Italian Retail Sales (MoM) (Jan) |  | -0.1% | -0.8% |
 | 09:30 | GBP | Low | Car Registration (YoY) (Feb) |  |  | 3.4% |
 | 09:30 | GBP | Moderate | S&P Global Construction PMI (Feb) |  | 47.0 | 46.4 |
 | 09:50 | EUR | Low | French 10-Year OAT Auction |  |  | 3.45% |
