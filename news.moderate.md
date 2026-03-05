@@ -14,7 +14,7 @@
 | 13:30 | USD | Import Price Index (MoM) (Jan) | 0.2% | 0.3% | 0.2% |
 | 13:30 | USD | Nonfarm Productivity (QoQ) (Q4) | 2.8% | 1.9% | 5.2% |
 | 13:30 | USD | Unit Labor Costs (QoQ) (Q4) | 2.8% | 2.0% | -1.8% |
-| 38 min | USD | Factory Orders (MoM) (Jan) |  |  | -0.7% |
+| 37 min | USD | Factory Orders (MoM) (Jan) |  |  | -0.7% |
 | 16:30 | EUR | German Buba Balz Speaks |  |  |  |
 | 17:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 18:15 | USD | FOMC Member Bowman Speaks |  |  |  |
