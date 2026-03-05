@@ -12,23 +12,23 @@
 | 08:00 | CHF | Low | Unemployment Rate n.s.a. (Feb) | 3.2% |  | 3.2% |
 | 08:00 | CHF | Low | Unemployment Rate s.a. (Feb) | 3.0% | 2.9% | 2.9% |
 | 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Jan) | 0.3% | 1.7% | -0.3% |
-| 13 min | EUR | Low | HCOB Italy Construction PMI (MoM) (Feb) |  |  | 47.7 |
-| 13 min | EUR | Low | HCOB Germany Construction PMI (Feb) |  |  | 44.7 |
-| 13 min | EUR | Low | HCOB France Construction PMI (MoM) (Feb) |  |  | 43.5 |
-| 13 min | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Feb) |  |  | 45.3 |
-| 33 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 43 min | GBP | Low | United Kingdom New Passenger Cars Registration (Feb) |  |  | 144,127.0 |
-| 43 min | EUR | Low | Italian Retail Sales (YoY) (Jan) |  |  | 0.9% |
-| 43 min | EUR | Low | Italian Retail Sales (MoM) (Jan) |  | -0.1% | -0.8% |
-| 09:30 | GBP | Low | Car Registration (YoY) (Feb) |  |  | 3.4% |
-| 09:30 | GBP | Moderate | S&P Global Construction PMI (Feb) |  | 47.0 | 46.4 |
-| 09:50 | EUR | Low | French 10-Year OAT Auction |  |  | 3.45% |
-| 09:50 | EUR | Moderate | Spanish 15-Year Obligacion Auction |  |  | 3.670% |
-| 09:50 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.273% |
-| 09:50 | EUR | Low | Spanish 7-Year Obligacion Auction |  |  | 2.905% |
-| 10:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 10:00 | EUR | Low | Retail Sales (MoM) (Jan) |  | 0.3% | -0.5% |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Jan) |  | 1.7% | 1.3% |
+| 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Feb) | 50.4 |  | 47.7 |
+| 08:30 | EUR | Low | HCOB Germany Construction PMI (Feb) | 43.7 |  | 44.7 |
+| 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Feb) | 43.9 |  | 43.5 |
+| 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Feb) | 46.0 |  | 45.3 |
+| 08:50 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Jan) | 2.3% |  | 1.1% |
+| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Jan) | 0.6% | -0.1% | -0.7% |
+| 10 min | GBP | Low | Car Registration (YoY) (Feb) |  |  | 3.4% |
+| 10 min | GBP | Moderate | S&P Global Construction PMI (Feb) |  | 47.0 | 46.4 |
+| 10 min | GBP | Low | United Kingdom New Passenger Cars Registration (Feb) |  |  | 144,127.0 |
+| 30 min | EUR | Low | French 10-Year OAT Auction |  |  | 3.45% |
+| 30 min | EUR | Moderate | Spanish 15-Year Obligacion Auction |  |  | 3.670% |
+| 30 min | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.273% |
+| 30 min | EUR | Low | Spanish 7-Year Obligacion Auction |  |  | 2.905% |
+| 40 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 40 min | EUR | Low | Retail Sales (MoM) (Jan) |  | 0.3% | -0.5% |
+| 40 min | EUR | Low | Retail Sales (YoY) (Jan) |  | 1.7% | 1.3% |
 | 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Dec) |  | -2.80% | -6.40% |
 | 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Dec) |  | 0.70% | 0.40% |
 | 12:00 | BRL | Moderate | Unemployment Rate (Jan) |  | 5.4% | 5.1% |

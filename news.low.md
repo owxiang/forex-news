@@ -11,19 +11,19 @@
 | 08:00 | CHF | Unemployment Rate n.s.a. (Feb) | 3.2% |  | 3.2% |
 | 08:00 | CHF | Unemployment Rate s.a. (Feb) | 3.0% | 2.9% | 2.9% |
 | 08:00 | EUR | Spanish Industrial Production (YoY) (Jan) | 0.3% | 1.7% | -0.3% |
-| 13 min | EUR | HCOB Italy Construction PMI (MoM) (Feb) |  |  | 47.7 |
-| 13 min | EUR | HCOB Germany Construction PMI (Feb) |  |  | 44.7 |
-| 13 min | EUR | HCOB France Construction PMI (MoM) (Feb) |  |  | 43.5 |
-| 13 min | EUR | HCOB Eurozone Construction PMI (MoM) (Feb) |  |  | 45.3 |
-| 43 min | GBP | United Kingdom New Passenger Cars Registration (Feb) |  |  | 144,127.0 |
-| 43 min | EUR | Italian Retail Sales (YoY) (Jan) |  |  | 0.9% |
-| 43 min | EUR | Italian Retail Sales (MoM) (Jan) |  | -0.1% | -0.8% |
-| 09:30 | GBP | Car Registration (YoY) (Feb) |  |  | 3.4% |
-| 09:50 | EUR | French 10-Year OAT Auction |  |  | 3.45% |
-| 09:50 | EUR | Spanish 3-Year Bonos Auction |  |  | 2.273% |
-| 09:50 | EUR | Spanish 7-Year Obligacion Auction |  |  | 2.905% |
-| 10:00 | EUR | Retail Sales (MoM) (Jan) |  | 0.3% | -0.5% |
-| 10:00 | EUR | Retail Sales (YoY) (Jan) |  | 1.7% | 1.3% |
+| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Feb) | 50.4 |  | 47.7 |
+| 08:30 | EUR | HCOB Germany Construction PMI (Feb) | 43.7 |  | 44.7 |
+| 08:30 | EUR | HCOB France Construction PMI (MoM) (Feb) | 43.9 |  | 43.5 |
+| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Feb) | 46.0 |  | 45.3 |
+| 09:00 | EUR | Italian Retail Sales (YoY) (Jan) | 2.3% |  | 1.1% |
+| 09:00 | EUR | Italian Retail Sales (MoM) (Jan) | 0.6% | -0.1% | -0.7% |
+| 10 min | GBP | Car Registration (YoY) (Feb) |  |  | 3.4% |
+| 10 min | GBP | United Kingdom New Passenger Cars Registration (Feb) |  |  | 144,127.0 |
+| 30 min | EUR | French 10-Year OAT Auction |  |  | 3.45% |
+| 30 min | EUR | Spanish 3-Year Bonos Auction |  |  | 2.273% |
+| 30 min | EUR | Spanish 7-Year Obligacion Auction |  |  | 2.905% |
+| 40 min | EUR | Retail Sales (MoM) (Jan) |  | 0.3% | -0.5% |
+| 40 min | EUR | Retail Sales (YoY) (Jan) |  | 1.7% | 1.3% |
 | 12:00 | MXN | Gross Fixed Investments (YoY) (Dec) |  | -2.80% | -6.40% |
 | 12:00 | MXN | Gross Fixed Investments (MoM) (Dec) |  | 0.70% | 0.40% |
 | 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 117.8% |

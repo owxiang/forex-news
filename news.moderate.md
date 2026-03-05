@@ -3,10 +3,10 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Trade Balance (Jan) | 2.631B | 3.780B | 3.373B |
-| 33 min | EUR | ECB's De Guindos Speaks |  |  |  |
-| 09:30 | GBP | S&P Global Construction PMI (Feb) |  | 47.0 | 46.4 |
-| 09:50 | EUR | Spanish 15-Year Obligacion Auction |  |  | 3.670% |
-| 10:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 08:50 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 10 min | GBP | S&P Global Construction PMI (Feb) |  | 47.0 | 46.4 |
+| 30 min | EUR | Spanish 15-Year Obligacion Auction |  |  | 3.670% |
+| 40 min | EUR | German Buba President Nagel Speaks |  |  |  |
 | 12:00 | BRL | Unemployment Rate (Jan) |  | 5.4% | 5.1% |
 | 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,850K | 1,833K |
