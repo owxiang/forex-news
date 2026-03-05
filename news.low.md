@@ -1,52 +1,42 @@
-## 04 March 2026 - Low Impact Forex News
+## 05 March 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | NZD | ANZ Commodity Price Index (MoM) | 4.2% |  | 2.0% |
-| 00:30 | AUD | GDP Capital Expenditure (Q4) | 0.7% |  | 3.2% |
-| 00:30 | AUD | GDP Chain Price Index (Q4) | 1.4% |  | 0.8% |
-| 00:30 | AUD | GDP Final Consumption (Q4) | 0.5% |  | 0.7% |
-| 00:30 | JPY | Manufacturing & Services PMI (Feb) | 53.90 | 53.80 | 53.10 |
-| 00:30 | HKD | S&P Global Manufacturing PMI (Feb) | 53.3 |  | 52.3 |
-| 05:00 | INR | HSBC India Services PMI (Feb) | 58.1 | 58.4 | 58.5 |
-| 05:00 | INR | HSBC Manufacturing & Services PMI (Feb) | 58.90 | 59.30 | 58.40 |
-| 05:00 | JPY | Household Confidence (Feb) | 40.0 | 38.2 | 37.9 |
-| 07:00 | NOK | Current Account (Q4) | 153.1B |  | 177.4B |
-| 07:15 | ZAR | S&P Global Manufacturing PMI (Feb) | 50.0 |  | 50.0 |
-| 07:30 | CHF | CPI (YoY) (Feb) | 0.1% | -0.1% | 0.1% |
-| 08:30 | HKD | Retail Sales (YoY) (Jan) | 5.5% |  | 6.6% |
-| 08:45 | EUR | HCOB Italy Composite PMI (Feb) | 52.1 |  | 51.4 |
-| 08:50 | EUR | HCOB France Composite PMI (Feb) | 49.9 | 49.9 | 49.9 |
-| 08:55 | EUR | HCOB Germany Composite PMI (Feb) | 53.2 | 53.1 | 53.1 |
-| 09:00 | EUR | Italian GDP (QoQ) (Q4) | 0.3% | 0.3% | 0.2% |
-| 09:00 | EUR | Italian GDP (YoY) (Q4) | 0.8% | 0.8% | 0.7% |
-| 09:00 | EUR | Italian Monthly Unemployment Rate (Jan) | 5.1% | 5.6% | 5.5% |
-| 10:00 | NOK | House Price Index (YoY) (Feb) | 3.00% |  | 4.20% |
-| 10:00 | EUR | PPI (YoY) (Jan) | -2.1% | -2.7% | -2.0% |
-| 10:00 | EUR | PPI (MoM) (Jan) | 0.7% | 0.2% | -0.3% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.09% |  | 6.09% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) | 11.0% |  | 0.4% |
-| 12:00 | USD | MBA Purchase Index | 158.9 |  | 149.7 |
-| 12:00 | USD | Mortgage Market Index | 377.5 |  | 340.2 |
-| 12:00 | USD | Mortgage Refinance Index | 1,637.5 |  | 1,432.9 |
-| 12:00 | BRL | Brazilian PPI (MoM) (Jan) | 0.34% |  | 0.14% |
-| 13:00 | BRL | S&P Global Composite PMI (Feb) | 51.3 |  | 49.9 |
-| 13:00 | BRL | S&P Global Services PMI (Feb) | 53.1 |  | 51.3 |
-| 13:15 | CAD | Reserve Assets Total (Feb) | 128.1B |  | 128.7B |
-| 14:30 | CAD | S&P Global Services PMI (Feb) | 46.50 |  | 45.80 |
-| 15:00 | USD | All Car Sales (Feb) | 2.68M |  | 2.60M |
-| 15:00 | USD | All Truck Sales (Feb) | 13.07M |  | 12.22M |
-| 15:00 | USD | ISM Non-Manufacturing Business Activity (Feb) | 59.9 |  | 57.4 |
-| 15:00 | USD | ISM Non-Manufacturing New Orders (Feb) | 58.6 | 53.5 | 53.1 |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) | 0.180M |  | -0.416M |
-| 15:30 | USD | Crude Oil Imports | -0.019M |  | 0.412M |
-| 15:30 | USD | Distillate Fuel Production | 0.061M |  | -0.136M |
-| 15:30 | USD | EIA Weekly Distillates Stocks | 0.429M | -2.600M | 0.252M |
-| 15:30 | USD | Gasoline Production | 0.119M |  | -0.223M |
-| 15:30 | USD | Heating Oil Stockpiles | 0.355M |  | -0.119M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.6% |  | -2.4% |
-| 15:30 | USD | Gasoline Inventories | -1.704M | -1.000M | -1.011M |
-| 17:30 | BRL | Foreign Exchange Flows | 2.071B |  | 1.870B |
-| 21:00 | KRW | FX Reserves - USD (Feb) | 427.62B |  | 425.91B |
-| 38 min | JPY | Foreign Bonds Buying |  |  | -1,898.8B |
-| 38 min | JPY | Foreign Investments in Japanese Stocks |  |  | 402.0B |
+| 00:30 | AUD | Exports (MoM) (Jan) | -0.9% |  | 0.9% |
+| 00:30 | AUD | Imports (MoM) (Jan) | 0.8% |  | -1.8% |
+| 05:00 | SGD | Retail Sales (YoY) (Jan) |  |  | 2.7% |
+| 05:00 | SGD | Retail Sales (MoM) (Jan) |  |  | -5.4% |
+| 07:45 | EUR | French Industrial Production (MoM) (Jan) |  | 0.4% | -0.7% |
+| 08:00 | CHF | Unemployment Rate n.s.a. (Feb) |  |  | 3.2% |
+| 08:00 | CHF | Unemployment Rate s.a. (Feb) |  | 2.9% | 2.9% |
+| 08:00 | EUR | Spanish Industrial Production (YoY) (Jan) |  | 1.7% | -0.3% |
+| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Feb) |  |  | 47.7 |
+| 08:30 | EUR | HCOB Germany Construction PMI (Feb) |  |  | 44.7 |
+| 08:30 | EUR | HCOB France Construction PMI (MoM) (Feb) |  |  | 43.5 |
+| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Feb) |  |  | 45.3 |
+| 09:00 | GBP | United Kingdom New Passenger Cars Registration (Feb) |  |  | 144,127.0 |
+| 09:00 | EUR | Italian Retail Sales (YoY) (Jan) |  |  | 0.9% |
+| 09:00 | EUR | Italian Retail Sales (MoM) (Jan) |  | -0.1% | -0.8% |
+| 09:30 | GBP | Car Registration (YoY) (Feb) |  |  | 3.4% |
+| 09:50 | EUR | French 10-Year OAT Auction |  |  | 3.45% |
+| 09:50 | EUR | Spanish 3-Year Bonos Auction |  |  | 2.273% |
+| 09:50 | EUR | Spanish 7-Year Obligacion Auction |  |  | 2.905% |
+| 10:00 | EUR | Retail Sales (MoM) (Jan) |  | 0.3% | -0.5% |
+| 10:00 | EUR | Retail Sales (YoY) (Jan) |  | 1.7% | 1.3% |
+| 12:00 | MXN | Gross Fixed Investments (MoM) (Dec) |  | 0.70% | 0.40% |
+| 12:00 | MXN | Gross Fixed Investments (YoY) (Dec) |  | -2.80% | -6.40% |
+| 12:30 | USD | Challenger Job Cuts (Feb) |  |  | 108.435K |
+| 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 117.8% |
+| 13:30 | USD | Export Price Index (YoY) (Jan) |  |  | 3.1% |
+| 13:30 | USD | Import Price Index (YoY) (Jan) |  |  | 0.0% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 220.25K |
+| 15:00 | USD | Factory orders ex transportation (MoM) (Jan) |  |  | 0.4% |
+| 15:30 | USD | Natural Gas Storage |  | -122B | -52B |
+| 16:30 | USD | 4-Week Bill Auction |  |  | 3.625% |
+| 16:30 | USD | 8-Week Bill Auction |  |  | 3.630% |
+| 18:00 | BRL | Trade Balance (Feb) |  | 4.23B | 4.34B |
+| 20:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.004T |
+| 23:00 | KRW | CPI (YoY) (Feb) |  | 2.1% | 2.0% |
+| 23:00 | KRW | CPI (MoM) (Feb) |  | 0.4% | 0.4% |
+| 23:00 | KRW | Current Account (Jan) |  |  | 18.70B |
+| 23:50 | JPY | Foreign Reserves (USD) (Feb) |  |  | 1,394.8B |
