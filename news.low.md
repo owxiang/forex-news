@@ -25,10 +25,10 @@
 | 10:00 | EUR | Retail Sales (MoM) (Jan) | -0.1% | 0.3% | 0.2% |
 | 10:00 | EUR | Retail Sales (YoY) (Jan) | 2.0% | 1.7% | 1.8% |
 | 10:30 | GBP | 5-Year Treasury Gilt Auction | 3.810% |  | 4.001% |
-| 43 min | MXN | Gross Fixed Investments (YoY) (Dec) |  | -2.80% | -6.40% |
-| 43 min | MXN | Gross Fixed Investments (MoM) (Dec) |  | 0.70% | 0.40% |
-| 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 117.8% |
-| 12:30 | USD | Challenger Job Cuts (Feb) |  |  | 108.435K |
+| 12:00 | MXN | Gross Fixed Investments (YoY) (Dec) | 0.00% | -2.80% | -6.40% |
+| 12:00 | MXN | Gross Fixed Investments (MoM) (Dec) | 0.50% | 0.70% | 0.40% |
+| 10 min | USD | Challenger Job Cuts (YoY) |  |  | 117.8% |
+| 10 min | USD | Challenger Job Cuts (Feb) |  |  | 108.435K |
 | 13:30 | USD | Export Price Index (YoY) (Jan) |  |  | 3.1% |
 | 13:30 | USD | Import Price Index (YoY) (Jan) |  |  | 0.0% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 220.25K |

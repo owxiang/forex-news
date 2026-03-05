@@ -30,12 +30,12 @@
 | 10:00 | EUR | Low | Retail Sales (MoM) (Jan) | -0.1% | 0.3% | 0.2% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (Jan) | 2.0% | 1.7% | 1.8% |
 | 10:30 | GBP | Low | 5-Year Treasury Gilt Auction | 3.810% |  | 4.001% |
-| 43 min | MXN | Low | Gross Fixed Investments (YoY) (Dec) |  | -2.80% | -6.40% |
-| 43 min | MXN | Low | Gross Fixed Investments (MoM) (Dec) |  | 0.70% | 0.40% |
-| 43 min | BRL | Moderate | Unemployment Rate (Jan) |  | 5.4% | 5.1% |
-| 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 117.8% |
-| 12:30 | USD | Low | Challenger Job Cuts (Feb) |  |  | 108.435K |
-| 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Dec) | 0.00% | -2.80% | -6.40% |
+| 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Dec) | 0.50% | 0.70% | 0.40% |
+| 12:00 | BRL | Moderate | Unemployment Rate (Jan) | 5.4% | 5.4% | 5.1% |
+| 10 min | USD | Low | Challenger Job Cuts (YoY) |  |  | 117.8% |
+| 10 min | USD | Low | Challenger Job Cuts (Feb) |  |  | 108.435K |
+| 10 min | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,850K | 1,833K |
 | 13:30 | USD | Moderate | Export Price Index (MoM) (Jan) |  | 0.3% | 0.3% |
 | 13:30 | USD | Low | Export Price Index (YoY) (Jan) |  |  | 3.1% |
