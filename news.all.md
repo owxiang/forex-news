@@ -46,12 +46,12 @@
 | 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q4) | 2.8% | 1.9% | 5.2% |
 | 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q4) | 2.8% | 2.0% | -1.8% |
 | 15:30 | USD | Low | Natural Gas Storage | -132B | -122B | -52B |
-| 7 min | USD | Low | 4-Week Bill Auction |  |  | 3.625% |
-| 7 min | USD | Low | 8-Week Bill Auction |  |  | 3.630% |
-| 7 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 37 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 18:00 | BRL | Low | Trade Balance (Feb) |  | 4.23B | 4.34B |
-| 18:15 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 16:30 | USD | Low | 4-Week Bill Auction | 3.640% |  | 3.625% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 3.630% |  | 3.630% |
+| 16:30 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 17:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 14 min | BRL | Low | Trade Balance (Feb) |  | 4.23B | 4.34B |
+| 29 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 20:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.004T |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,614B |
 | 23:00 | KRW | Low | CPI (YoY) (Feb) |  | 2.1% | 2.0% |
