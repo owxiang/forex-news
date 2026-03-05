@@ -29,20 +29,17 @@
 | 10:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Jan) |  | 0.3% | -0.5% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (Jan) |  | 1.7% | 1.3% |
-| 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Dec) |  | 0.70% | 0.40% |
 | 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Dec) |  | -2.80% | -6.40% |
+| 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Dec) |  | 0.70% | 0.40% |
 | 12:00 | BRL | Moderate | Unemployment Rate (Jan) |  | 5.4% | 5.1% |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 117.8% |
 | 12:30 | USD | Low | Challenger Job Cuts (Feb) |  |  | 108.435K |
-| 12:30 | USD | Moderate | Trade Balance (Jan) |  |  | -70.30B |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,850K | 1,833K |
 | 13:30 | USD | Moderate | Export Price Index (MoM) (Jan) |  | 0.3% | 0.3% |
 | 13:30 | USD | Low | Export Price Index (YoY) (Jan) |  |  | 3.1% |
-| 13:30 | USD | Moderate | Exports (Jan) |  |  | 287.30B |
 | 13:30 | USD | Moderate | Import Price Index (MoM) (Jan) |  | 0.3% | 0.1% |
 | 13:30 | USD | Low | Import Price Index (YoY) (Jan) |  |  | 0.0% |
-| 13:30 | USD | Moderate | Imports (Jan) |  |  | 357.60B |
 | 13:30 | USD | High | Initial Jobless Claims |  | 215K | 212K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 220.25K |
 | 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q4) |  | 1.9% | 4.9% |
