@@ -33,18 +33,18 @@
 | 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Dec) | 0.00% | -2.80% | -6.40% |
 | 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Dec) | 0.50% | 0.70% | 0.40% |
 | 12:00 | BRL | Moderate | Unemployment Rate (Jan) | 5.4% | 5.4% | 5.1% |
-| 10 min | USD | Low | Challenger Job Cuts (YoY) |  |  | 117.8% |
-| 10 min | USD | Low | Challenger Job Cuts (Feb) |  |  | 108.435K |
-| 10 min | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,850K | 1,833K |
-| 13:30 | USD | Moderate | Export Price Index (MoM) (Jan) |  | 0.3% | 0.3% |
-| 13:30 | USD | Low | Export Price Index (YoY) (Jan) |  |  | 3.1% |
-| 13:30 | USD | Moderate | Import Price Index (MoM) (Jan) |  | 0.3% | 0.1% |
-| 13:30 | USD | Low | Import Price Index (YoY) (Jan) |  |  | 0.0% |
-| 13:30 | USD | High | Initial Jobless Claims |  | 215K | 212K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 220.25K |
-| 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q4) |  | 1.9% | 4.9% |
-| 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q4) |  | 2.0% | -1.9% |
+| 12:30 | USD | Low | Challenger Job Cuts (YoY) | -71.9% |  | 117.8% |
+| 12:30 | USD | Low | Challenger Job Cuts (Feb) | 48.307K |  | 108.435K |
+| 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,868K | 1,850K | 1,822K |
+| 13:30 | USD | Moderate | Export Price Index (MoM) (Jan) | 0.6% | 0.3% | 0.6% |
+| 13:30 | USD | Low | Export Price Index (YoY) (Jan) | 2.6% |  | 3.1% |
+| 13:30 | USD | Moderate | Import Price Index (MoM) (Jan) | 0.2% | 0.3% | 0.2% |
+| 13:30 | USD | Low | Import Price Index (YoY) (Jan) | -0.1% |  | 0.0% |
+| 13:30 | USD | High | Initial Jobless Claims | 213K | 215K | 213K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 215.75K |  | 220.50K |
+| 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q4) | 2.8% | 1.9% | 5.2% |
+| 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q4) | 2.8% | 2.0% | -1.8% |
 | 15:00 | USD | Moderate | Factory Orders (MoM) (Jan) |  |  | -0.7% |
 | 15:00 | USD | Low | Factory orders ex transportation (MoM) (Jan) |  |  | 0.4% |
 | 15:30 | USD | Low | Natural Gas Storage |  | -122B | -52B |

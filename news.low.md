@@ -27,11 +27,11 @@
 | 10:30 | GBP | 5-Year Treasury Gilt Auction | 3.810% |  | 4.001% |
 | 12:00 | MXN | Gross Fixed Investments (YoY) (Dec) | 0.00% | -2.80% | -6.40% |
 | 12:00 | MXN | Gross Fixed Investments (MoM) (Dec) | 0.50% | 0.70% | 0.40% |
-| 10 min | USD | Challenger Job Cuts (YoY) |  |  | 117.8% |
-| 10 min | USD | Challenger Job Cuts (Feb) |  |  | 108.435K |
-| 13:30 | USD | Export Price Index (YoY) (Jan) |  |  | 3.1% |
-| 13:30 | USD | Import Price Index (YoY) (Jan) |  |  | 0.0% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 220.25K |
+| 12:30 | USD | Challenger Job Cuts (YoY) | -71.9% |  | 117.8% |
+| 12:30 | USD | Challenger Job Cuts (Feb) | 48.307K |  | 108.435K |
+| 13:30 | USD | Export Price Index (YoY) (Jan) | 2.6% |  | 3.1% |
+| 13:30 | USD | Import Price Index (YoY) (Jan) | -0.1% |  | 0.0% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 215.75K |  | 220.50K |
 | 15:00 | USD | Factory orders ex transportation (MoM) (Jan) |  |  | 0.4% |
 | 15:30 | USD | Natural Gas Storage |  | -122B | -52B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.625% |
