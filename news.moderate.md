@@ -16,5 +16,5 @@
 | 13:30 | USD | Unit Labor Costs (QoQ) (Q4) | 2.8% | 2.0% | -1.8% |
 | 16:30 | EUR | German Buba Balz Speaks |  |  |  |
 | 17:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 29 min | USD | FOMC Member Bowman Speaks |  |  |  |
+| 18:15 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,614B |
