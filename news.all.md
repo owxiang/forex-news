@@ -8,10 +8,10 @@
 | 03:35 | JPY | Low | 30-Year JGB Auction | 3.398% |  | 3.615% |
 | 05:00 | SGD | Low | Retail Sales (YoY) (Jan) | -0.4% |  | 2.5% |
 | 05:00 | SGD | Low | Retail Sales (MoM) (Jan) | 6.1% |  | -2.7% |
-| 07:45 | EUR | Low | French Industrial Production (MoM) (Jan) |  | 0.4% | -0.7% |
-| 08:00 | CHF | Low | Unemployment Rate n.s.a. (Feb) |  |  | 3.2% |
-| 08:00 | CHF | Low | Unemployment Rate s.a. (Feb) |  | 2.9% | 2.9% |
-| 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Jan) |  | 1.7% | -0.3% |
+| 23 min | EUR | Low | French Industrial Production (MoM) (Jan) |  | 0.4% | -0.7% |
+| 38 min | CHF | Low | Unemployment Rate n.s.a. (Feb) |  |  | 3.2% |
+| 38 min | CHF | Low | Unemployment Rate s.a. (Feb) |  | 2.9% | 2.9% |
+| 38 min | EUR | Low | Spanish Industrial Production (YoY) (Jan) |  | 1.7% | -0.3% |
 | 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Feb) |  |  | 47.7 |
 | 08:30 | EUR | Low | HCOB Germany Construction PMI (Feb) |  |  | 44.7 |
 | 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Feb) |  |  | 43.5 |
