@@ -36,7 +36,7 @@
 | 16:30 | USD | 4-Week Bill Auction | 3.640% |  | 3.625% |
 | 16:30 | USD | 8-Week Bill Auction | 3.630% |  | 3.630% |
 | 18:00 | BRL | Trade Balance (Feb) | 4.21B | 4.23B | 3.82B |
-| 59 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.004T |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.004T |
 | 23:00 | KRW | CPI (YoY) (Feb) |  | 2.1% | 2.0% |
 | 23:00 | KRW | CPI (MoM) (Feb) |  | 0.4% | 0.4% |
 | 23:00 | KRW | Current Account (Jan) |  |  | 18.70B |
