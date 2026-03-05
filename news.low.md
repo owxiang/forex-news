@@ -17,25 +17,24 @@
 | 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Feb) | 46.0 |  | 45.3 |
 | 09:00 | GBP | Car Registration (YoY) (Feb) | 7.2% |  | 3.4% |
 | 09:00 | GBP | United Kingdom New Passenger Cars Registration (Feb) | 90,100.0 |  | 144,127.0 |
-| 09:00 | EUR | Italian Retail Sales (YoY) (Jan) | 2.3% |  | 1.1% |
 | 09:00 | EUR | Italian Retail Sales (MoM) (Jan) | 0.6% | -0.1% | -0.7% |
+| 09:00 | EUR | Italian Retail Sales (YoY) (Jan) | 2.3% |  | 1.1% |
 | 09:50 | EUR | French 10-Year OAT Auction | 3.46% |  | 3.45% |
 | 09:50 | EUR | Spanish 3-Year Bonos Auction | 2.404% |  | 2.273% |
 | 09:50 | EUR | Spanish 7-Year Obligacion Auction | 2.863% |  | 2.905% |
 | 10:00 | EUR | Retail Sales (MoM) (Jan) | -0.1% | 0.3% | 0.2% |
 | 10:00 | EUR | Retail Sales (YoY) (Jan) | 2.0% | 1.7% | 1.8% |
 | 10:30 | GBP | 5-Year Treasury Gilt Auction | 3.810% |  | 4.001% |
-| 12:00 | MXN | Gross Fixed Investments (YoY) (Dec) | 0.00% | -2.80% | -6.40% |
 | 12:00 | MXN | Gross Fixed Investments (MoM) (Dec) | 0.50% | 0.70% | 0.40% |
-| 12:30 | USD | Challenger Job Cuts (YoY) | -71.9% |  | 117.8% |
+| 12:00 | MXN | Gross Fixed Investments (YoY) (Dec) | 0.00% | -2.80% | -6.40% |
 | 12:30 | USD | Challenger Job Cuts (Feb) | 48.307K |  | 108.435K |
-| 13:30 | USD | Export Price Index (YoY) (Jan) | 2.6% |  | 3.1% |
+| 12:30 | USD | Challenger Job Cuts (YoY) | -71.9% |  | 117.8% |
+| 13:30 | USD | Export Price Index (YoY) (Jan) | 2.6% |  | 3.4% |
 | 13:30 | USD | Import Price Index (YoY) (Jan) | -0.1% |  | 0.0% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 215.75K |  | 220.50K |
-| 7 min | USD | Natural Gas Storage |  | -122B | -52B |
-| 37 min | USD | Factory orders ex transportation (MoM) (Jan) |  |  | 0.4% |
-| 16:30 | USD | 4-Week Bill Auction |  |  | 3.625% |
-| 16:30 | USD | 8-Week Bill Auction |  |  | 3.630% |
+| 15:30 | USD | Natural Gas Storage | -132B | -122B | -52B |
+| 7 min | USD | 4-Week Bill Auction |  |  | 3.625% |
+| 7 min | USD | 8-Week Bill Auction |  |  | 3.630% |
 | 18:00 | BRL | Trade Balance (Feb) |  | 4.23B | 4.34B |
 | 20:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.004T |
 | 23:00 | KRW | CPI (YoY) (Feb) |  | 2.1% | 2.0% |
