@@ -45,8 +45,8 @@
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 215.75K |  | 220.50K |
 | 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q4) | 2.8% | 1.9% | 5.2% |
 | 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q4) | 2.8% | 2.0% | -1.8% |
-| 15:00 | USD | Moderate | Factory Orders (MoM) (Jan) |  |  | -0.7% |
-| 15:00 | USD | Low | Factory orders ex transportation (MoM) (Jan) |  |  | 0.4% |
+| 38 min | USD | Moderate | Factory Orders (MoM) (Jan) |  |  | -0.7% |
+| 38 min | USD | Low | Factory orders ex transportation (MoM) (Jan) |  |  | 0.4% |
 | 15:30 | USD | Low | Natural Gas Storage |  | -122B | -52B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.625% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.630% |

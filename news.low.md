@@ -32,7 +32,7 @@
 | 13:30 | USD | Export Price Index (YoY) (Jan) | 2.6% |  | 3.1% |
 | 13:30 | USD | Import Price Index (YoY) (Jan) | -0.1% |  | 0.0% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 215.75K |  | 220.50K |
-| 15:00 | USD | Factory orders ex transportation (MoM) (Jan) |  |  | 0.4% |
+| 38 min | USD | Factory orders ex transportation (MoM) (Jan) |  |  | 0.4% |
 | 15:30 | USD | Natural Gas Storage |  | -122B | -52B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.625% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 3.630% |
