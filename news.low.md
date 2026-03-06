@@ -1,43 +1,45 @@
-## 05 March 2026 - Low Impact Forex News
+## 06 March 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Exports (MoM) (Jan) | -0.9% |  | 0.9% |
-| 00:30 | AUD | Imports (MoM) (Jan) | 0.8% |  | -1.8% |
-| 03:35 | JPY | 30-Year JGB Auction | 3.398% |  | 3.615% |
-| 05:00 | SGD | Retail Sales (YoY) (Jan) | -0.4% |  | 2.5% |
-| 05:00 | SGD | Retail Sales (MoM) (Jan) | 6.1% |  | -2.7% |
-| 07:45 | EUR | French Industrial Production (MoM) (Jan) | 0.5% | 0.4% | 0.5% |
-| 08:00 | CHF | Unemployment Rate n.s.a. (Feb) | 3.2% |  | 3.2% |
-| 08:00 | CHF | Unemployment Rate s.a. (Feb) | 3.0% | 2.9% | 2.9% |
-| 08:00 | EUR | Spanish Industrial Production (YoY) (Jan) | 0.3% | 1.7% | -0.3% |
-| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Feb) | 50.4 |  | 47.7 |
-| 08:30 | EUR | HCOB Germany Construction PMI (Feb) | 43.7 |  | 44.7 |
-| 08:30 | EUR | HCOB France Construction PMI (MoM) (Feb) | 43.9 |  | 43.5 |
-| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Feb) | 46.0 |  | 45.3 |
-| 09:00 | GBP | Car Registration (YoY) (Feb) | 7.2% |  | 3.4% |
-| 09:00 | GBP | United Kingdom New Passenger Cars Registration (Feb) | 90,100.0 |  | 144,127.0 |
-| 09:00 | EUR | Italian Retail Sales (MoM) (Jan) | 0.6% | -0.1% | -0.7% |
-| 09:00 | EUR | Italian Retail Sales (YoY) (Jan) | 2.3% |  | 1.1% |
-| 09:50 | EUR | French 10-Year OAT Auction | 3.46% |  | 3.45% |
-| 09:50 | EUR | Spanish 3-Year Bonos Auction | 2.404% |  | 2.273% |
-| 09:50 | EUR | Spanish 7-Year Obligacion Auction | 2.863% |  | 2.905% |
-| 10:00 | EUR | Retail Sales (MoM) (Jan) | -0.1% | 0.3% | 0.2% |
-| 10:00 | EUR | Retail Sales (YoY) (Jan) | 2.0% | 1.7% | 1.8% |
-| 10:30 | GBP | 5-Year Treasury Gilt Auction | 3.810% |  | 4.001% |
-| 12:00 | MXN | Gross Fixed Investments (MoM) (Dec) | 0.50% | 0.70% | 0.40% |
-| 12:00 | MXN | Gross Fixed Investments (YoY) (Dec) | 0.00% | -2.80% | -6.40% |
-| 12:30 | USD | Challenger Job Cuts (Feb) | 48.307K |  | 108.435K |
-| 12:30 | USD | Challenger Job Cuts (YoY) | -71.9% |  | 117.8% |
-| 13:30 | USD | Export Price Index (YoY) (Jan) | 2.6% |  | 3.4% |
-| 13:30 | USD | Import Price Index (YoY) (Jan) | -0.1% |  | 0.0% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. | 215.75K |  | 220.50K |
-| 15:30 | USD | Natural Gas Storage | -132B | -122B | -52B |
-| 16:30 | USD | 4-Week Bill Auction | 3.640% |  | 3.625% |
-| 16:30 | USD | 8-Week Bill Auction | 3.630% |  | 3.630% |
-| 18:00 | BRL | Trade Balance (Feb) | 4.21B | 4.23B | 3.82B |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.014T |  | 3.004T |
-| 23:00 | KRW | CPI (YoY) (Feb) | 2.0% | 2.1% | 2.0% |
-| 23:00 | KRW | CPI (MoM) (Feb) | 0.3% | 0.4% | 0.4% |
-| 23:00 | KRW | Current Account (Jan) | 13.26B |  | 18.70B |
-| 23 min | JPY | Foreign Reserves (USD) (Feb) |  |  | 1,394.8B |
+| 00:00 | USD | Fed Goolsbee Speaks |  |  |  |
+| 03:00 | IDR | FX Reserves (USD) (Feb) |  |  | 154.60B |
+| 06:00 | ZAR | Foreign Reserves (USD) (Feb) |  |  | 80.19B |
+| 06:00 | ZAR | Net FX Reserves (USD) (Feb) |  |  | 74.877B |
+| 07:00 | NOK | Manufacturing Production (MoM) (Jan) |  |  | -0.1% |
+| 07:45 | EUR | French Reserve Assets Total (Feb) |  |  | 409,263.0M |
+| 08:00 | CHF | Foreign Reserves (USD) (Feb) |  |  | 711,981.0B |
+| 08:30 | HKD | Foreign Reserves (USD) (Feb) |  |  | 435.60B |
+| 10:00 | EUR | Employment Change (QoQ) (Q4) |  | 0.2% | 0.2% |
+| 10:00 | EUR | Employment Change (YoY) (Q4) |  | 0.7% | 0.6% |
+| 10:00 | EUR | Employment Overall (Q4) |  | 172,516.6K | 170,411.4K |
+| 11:00 | CAD | Leading Index (MoM) (Feb) |  |  | 0.28% |
+| 11:00 | EUR | German Car Registration (YoY) (Feb) |  |  | -6.6% |
+| 11:00 | BRL | IGP-DI Inflation Index (MoM) (Feb) |  |  | 0.20% |
+| 11:30 | USD | Factory orders ex transportation (MoM) (Jan) |  |  | 0.4% |
+| 11:30 | INR | Bank Loan Growth |  |  |  |
+| 11:30 | INR | Deposit Growth |  |  |  |
+| 11:30 | INR | FX Reserves, USD |  |  | 723.61B |
+| 12:00 | BRL | Industrial Production (MoM) (Jan) |  | 0.7% | -1.2% |
+| 13:00 | BRL | Auto Production (MoM) (Feb) |  |  | -13.5% |
+| 13:00 | BRL | Auto Sales (MoM) (Feb) |  |  | -39.0% |
+| 13:30 | USD | Average Weekly Hours (Feb) |  | 34.3 | 34.3 |
+| 13:30 | USD | Government Payrolls (Feb) |  |  | -42.0K |
+| 13:30 | USD | Manufacturing Payrolls (Feb) |  |  | 5K |
+| 13:30 | USD | Retail Sales (YoY) (Jan) |  |  | 2.43% |
+| 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Jan) |  | 0.0% | 0.0% |
+| 15:00 | USD | Wholesale Inventories (MoM) (Jan) |  |  | 0.2% |
+| 15:00 | CAD | Ivey PMI n.s.a (Feb) |  |  | 47.0 |
+| 18:20 | USD | Fed Collins Speaks |  |  |  |
+| 18:30 | GBP | BoE Hauser Speaks |  |  |  |
+| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -2.9K |
+| 20:30 | USD | CFTC Copper speculative net positions |  |  | 58.4K |
+| 20:30 | USD | CFTC Corn speculative net positions |  |  | 8.8K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -198.5K |
+| 20:30 | USD | CFTC Silver speculative net positions |  |  | 22.3K |
+| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 210.3K |
+| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -16.1K |
+| 20:30 | CAD | CFTC CAD speculative net positions |  |  | 27.6K |
+| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 82.9K |
+| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -41.2K |
+| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -29.6K |

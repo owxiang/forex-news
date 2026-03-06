@@ -1,20 +1,35 @@
-## 05 March 2026 - Moderate Impact Forex News
+## 06 March 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Trade Balance (Jan) | 2.631B | 3.780B | 3.373B |
-| 08:50 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 09:30 | GBP | S&P Global Construction PMI (Feb) | 44.5 | 47.0 | 46.4 |
-| 09:50 | EUR | Spanish 15-Year Obligacion Auction | 3.605% |  | 3.670% |
-| 10:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 12:00 | BRL | Unemployment Rate (Jan) | 5.4% | 5.4% | 5.1% |
-| 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims | 1,868K | 1,850K | 1,822K |
-| 13:30 | USD | Export Price Index (MoM) (Jan) | 0.6% | 0.3% | 0.6% |
-| 13:30 | USD | Import Price Index (MoM) (Jan) | 0.2% | 0.3% | 0.2% |
-| 13:30 | USD | Nonfarm Productivity (QoQ) (Q4) | 2.8% | 1.9% | 5.2% |
-| 13:30 | USD | Unit Labor Costs (QoQ) (Q4) | 2.8% | 2.0% | -1.8% |
-| 16:30 | EUR | German Buba Balz Speaks |  |  |  |
-| 17:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 18:15 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 21:30 | USD | Fed's Balance Sheet | 6,629B |  | 6,614B |
+| 07:00 | GBP | Halifax House Price Index (MoM) (Feb) |  | 0.3% | 0.7% |
+| 07:00 | GBP | Halifax House Price Index (YoY) (Feb) |  | 0.9% | 1.0% |
+| 10:00 | GBP | Mortgage Rate (GBP) (Feb) |  |  | 6.62% |
+| 10:00 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 10:00 | EUR | GDP (YoY) (Q4) |  | 1.3% | 1.4% |
+| 10:00 | EUR | GDP (QoQ) (Q4) |  | 0.3% | 0.3% |
+| 11:30 | USD | Factory Orders (MoM) (Jan) |  |  | -0.7% |
+| 12:00 | BRL | Industrial Production (YoY) (Jan) |  | -0.7% | 0.4% |
+| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Feb) |  | 3.7% | 3.7% |
+| 13:30 | USD | Participation Rate (Feb) |  |  | 62.5% |
+| 13:30 | USD | Private Nonfarm Payrolls (Feb) |  | 65K | 172K |
+| 13:30 | USD | Retail Control (MoM) (Jan) |  | 0.2% | -0.1% |
+| 13:30 | USD | U6 Unemployment Rate (Feb) |  |  | 8.0% |
+| 15:00 | USD | Business Inventories (MoM) (Dec) |  | 0.1% | 0.1% |
+| 15:00 | USD | Retail Inventories Ex Auto (Dec) |  | 0.2% | 0.2% |
+| 15:00 | CAD | Ivey PMI (Feb) |  | 51.1 | 50.9 |
+| 15:15 | USD | FOMC Member Daly Speaks |  |  |  |
+| 17:00 | USD | Atlanta Fed GDPNow (Q1) |  | 3.0% | 3.0% |
+| 17:00 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 407 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 550 |
+| 20:00 | USD | Consumer Credit (Jan) |  | 12.40B | 24.05B |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | -57.1K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 172.7K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 159.2K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 10.8K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -193.5K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | 52.6K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 36.7K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | 11.5K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 156.9K |
