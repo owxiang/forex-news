@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 03:00 | IDR | Low | FX Reserves (USD) (Feb) |  |  | 154.60B |
+| 03:00 | IDR | Low | FX Reserves (USD) (Feb) | 151.90B |  | 154.60B |
 | 06:00 | ZAR | Low | Foreign Reserves (USD) (Feb) |  |  | 80.19B |
 | 06:00 | ZAR | Low | Net FX Reserves (USD) (Feb) |  |  | 74.877B |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Feb) |  | 0.3% | 0.7% |

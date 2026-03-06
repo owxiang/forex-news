@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | USD | Fed Goolsbee Speaks |  |  |  |
-| 03:00 | IDR | FX Reserves (USD) (Feb) |  |  | 154.60B |
+| 03:00 | IDR | FX Reserves (USD) (Feb) | 151.90B |  | 154.60B |
 | 06:00 | ZAR | Foreign Reserves (USD) (Feb) |  |  | 80.19B |
 | 06:00 | ZAR | Net FX Reserves (USD) (Feb) |  |  | 74.877B |
 | 07:00 | NOK | Manufacturing Production (MoM) (Jan) |  |  | -0.1% |
