@@ -9,10 +9,10 @@
 | 07:00 | NOK | Manufacturing Production (MoM) (Jan) | -0.3% |  | -0.2% |
 | 07:45 | EUR | French Reserve Assets Total (Feb) | 421,573.0M |  | 409,263.0M |
 | 08:00 | CHF | Foreign Reserves (USD) (Feb) | 710.0B |  | 712.0B |
-| 15 min | HKD | Foreign Reserves (USD) (Feb) |  |  | 435.60B |
-| 10:00 | EUR | Employment Change (QoQ) (Q4) |  | 0.2% | 0.2% |
-| 10:00 | EUR | Employment Change (YoY) (Q4) |  | 0.7% | 0.6% |
-| 10:00 | EUR | Employment Overall (Q4) |  | 172,516.6K | 170,411.4K |
+| 08:30 | HKD | Foreign Reserves (USD) (Feb) | 439.20B |  | 435.60B |
+| 43 min | EUR | Employment Change (QoQ) (Q4) |  | 0.2% | 0.2% |
+| 43 min | EUR | Employment Change (YoY) (Q4) |  | 0.7% | 0.6% |
+| 43 min | EUR | Employment Overall (Q4) |  | 172,516.6K | 170,411.4K |
 | 11:00 | CAD | Leading Index (MoM) (Feb) |  |  | 0.28% |
 | 11:00 | EUR | German Car Registration (YoY) (Feb) |  |  | -6.6% |
 | 11:00 | BRL | IGP-DI Inflation Index (MoM) (Feb) |  |  | 0.20% |
@@ -21,13 +21,13 @@
 | 11:30 | INR | Deposit Growth |  |  | 11.2% |
 | 11:30 | INR | FX Reserves, USD |  |  | 723.61B |
 | 12:00 | BRL | Industrial Production (MoM) (Jan) |  | 0.7% | -1.2% |
-| 13:00 | BRL | Auto Production (MoM) (Feb) |  |  | -13.5% |
-| 13:00 | BRL | Auto Sales (MoM) (Feb) |  |  | -39.0% |
 | 13:30 | USD | Average Weekly Hours (Feb) |  | 34.3 | 34.3 |
 | 13:30 | USD | Government Payrolls (Feb) |  |  | -42.0K |
 | 13:30 | USD | Manufacturing Payrolls (Feb) |  | 3K | 5K |
 | 13:30 | USD | Retail Sales (YoY) (Jan) |  |  | 2.43% |
 | 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Jan) |  | 0.0% | 0.0% |
+| 14:00 | BRL | Auto Production (MoM) (Feb) |  |  | -13.5% |
+| 14:00 | BRL | Auto Sales (MoM) (Feb) |  |  | -39.0% |
 | 14:50 | USD | Fed Goolsbee Speaks |  |  |  |
 | 15:00 | USD | Wholesale Inventories (MoM) (Jan) |  |  | 0.2% |
 | 15:00 | CAD | Ivey PMI n.s.a (Feb) |  |  | 47.0 |

@@ -11,14 +11,14 @@
 | 07:00 | NOK | Low | Manufacturing Production (MoM) (Jan) | -0.3% |  | -0.2% |
 | 07:45 | EUR | Low | French Reserve Assets Total (Feb) | 421,573.0M |  | 409,263.0M |
 | 08:00 | CHF | Low | Foreign Reserves (USD) (Feb) | 710.0B |  | 712.0B |
-| 15 min | HKD | Low | Foreign Reserves (USD) (Feb) |  |  | 435.60B |
-| 10:00 | GBP | Moderate | Mortgage Rate (GBP) (Feb) |  |  | 6.62% |
-| 10:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 10:00 | EUR | Low | Employment Change (QoQ) (Q4) |  | 0.2% | 0.2% |
-| 10:00 | EUR | Low | Employment Change (YoY) (Q4) |  | 0.7% | 0.6% |
-| 10:00 | EUR | Low | Employment Overall (Q4) |  | 172,516.6K | 170,411.4K |
-| 10:00 | EUR | Moderate | GDP (QoQ) (Q4) |  | 0.3% | 0.3% |
-| 10:00 | EUR | Moderate | GDP (YoY) (Q4) |  | 1.3% | 1.4% |
+| 08:30 | HKD | Low | Foreign Reserves (USD) (Feb) | 439.20B |  | 435.60B |
+| 43 min | GBP | Moderate | Mortgage Rate (GBP) (Feb) |  |  | 6.62% |
+| 43 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 43 min | EUR | Low | Employment Change (QoQ) (Q4) |  | 0.2% | 0.2% |
+| 43 min | EUR | Low | Employment Change (YoY) (Q4) |  | 0.7% | 0.6% |
+| 43 min | EUR | Low | Employment Overall (Q4) |  | 172,516.6K | 170,411.4K |
+| 43 min | EUR | Moderate | GDP (QoQ) (Q4) |  | 0.3% | 0.3% |
+| 43 min | EUR | Moderate | GDP (YoY) (Q4) |  | 1.3% | 1.4% |
 | 11:00 | CAD | Low | Leading Index (MoM) (Feb) |  |  | 0.28% |
 | 11:00 | EUR | Low | German Car Registration (YoY) (Feb) |  |  | -6.6% |
 | 11:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Feb) |  |  | 0.20% |
@@ -30,8 +30,6 @@
 | 12:00 | BRL | Moderate | Industrial Production (YoY) (Jan) |  | -0.7% | 0.4% |
 | 12:00 | BRL | Low | Industrial Production (MoM) (Jan) |  | 0.7% | -1.2% |
 | 12:30 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 13:00 | BRL | Low | Auto Production (MoM) (Feb) |  |  | -13.5% |
-| 13:00 | BRL | Low | Auto Sales (MoM) (Feb) |  |  | -39.0% |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Feb) |  | 0.3% | 0.4% |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Feb) |  | 3.7% | 3.7% |
 | 13:30 | USD | Low | Average Weekly Hours (Feb) |  | 34.3 | 34.3 |
@@ -47,6 +45,8 @@
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Jan) |  | 0.0% | 0.0% |
 | 13:30 | USD | Moderate | U6 Unemployment Rate (Feb) |  |  | 8.0% |
 | 13:30 | USD | High | Unemployment Rate (Feb) |  | 4.3% | 4.3% |
+| 14:00 | BRL | Low | Auto Production (MoM) (Feb) |  |  | -13.5% |
+| 14:00 | BRL | Low | Auto Sales (MoM) (Feb) |  |  | -39.0% |
 | 14:50 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 15:00 | USD | Moderate | Business Inventories (MoM) (Dec) |  | 0.1% | 0.1% |
 | 15:00 | USD | Moderate | Retail Inventories Ex Auto (Dec) |  | 0.2% | 0.2% |
