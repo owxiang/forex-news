@@ -9,7 +9,7 @@
 | 10:00 | EUR | GDP (QoQ) (Q4) | 0.2% | 0.3% | 0.3% |
 | 10:00 | EUR | GDP (YoY) (Q4) | 1.2% | 1.3% | 1.4% |
 | 12:00 | BRL | Industrial Production (YoY) (Jan) | 0.2% | -0.7% | -0.1% |
-| 13 min | USD | Fed Waller Speaks |  |  |  |
+| 12:30 | USD | Fed Waller Speaks |  |  |  |
 | 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Feb) |  | 3.7% | 3.7% |
 | 13:30 | USD | Participation Rate (Feb) |  |  | 62.5% |
 | 13:30 | USD | Private Nonfarm Payrolls (Feb) |  | 65K | 172K |

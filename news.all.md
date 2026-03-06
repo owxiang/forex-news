@@ -14,8 +14,8 @@
 | 08:30 | HKD | Low | Foreign Reserves (USD) (Feb) | 439.20B |  | 435.60B |
 | 09:30 | GBP | Moderate | Mortgage Rate (GBP) (Feb) | 6.59% |  | 6.62% |
 | 10:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 10:00 | EUR | Low | Employment Change (YoY) (Q4) | 0.7% | 0.7% | 0.6% |
 | 10:00 | EUR | Low | Employment Change (QoQ) (Q4) | 0.2% | 0.2% | 0.2% |
+| 10:00 | EUR | Low | Employment Change (YoY) (Q4) | 0.7% | 0.7% | 0.6% |
 | 10:00 | EUR | Low | Employment Overall (Q4) | 172,571.6K | 172,516.6K | 170,411.4K |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q4) | 0.2% | 0.3% | 0.3% |
 | 10:00 | EUR | Moderate | GDP (YoY) (Q4) | 1.2% | 1.3% | 1.4% |
@@ -24,10 +24,9 @@
 | 11:30 | INR | Low | FX Reserves, USD | 728.49B |  | 723.61B |
 | 12:00 | BRL | Moderate | Industrial Production (YoY) (Jan) | 0.2% | -0.7% | -0.1% |
 | 12:00 | BRL | Low | Industrial Production (MoM) (Jan) | 1.8% | 0.7% | -1.9% |
-| 13 min | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 43 min | CAD | Low | Leading Index (MoM) (Feb) |  |  | 0.28% |
-| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Feb) |  | 3.7% | 3.7% |
+| 12:30 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Feb) |  | 0.3% | 0.4% |
+| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Feb) |  | 3.7% | 3.7% |
 | 13:30 | USD | Low | Average Weekly Hours (Feb) |  | 34.3 | 34.3 |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Jan) |  | 0.1% | 0.0% |
 | 13:30 | USD | Low | Government Payrolls (Feb) |  |  | -42.0K |
@@ -36,8 +35,8 @@
 | 13:30 | USD | Moderate | Participation Rate (Feb) |  |  | 62.5% |
 | 13:30 | USD | Moderate | Private Nonfarm Payrolls (Feb) |  | 65K | 172K |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Jan) |  | 0.2% | -0.1% |
-| 13:30 | USD | High | Retail Sales (MoM) (Jan) |  | -0.3% | 0.0% |
 | 13:30 | USD | Low | Retail Sales (YoY) (Jan) |  |  | 2.43% |
+| 13:30 | USD | High | Retail Sales (MoM) (Jan) |  | -0.3% | 0.0% |
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Jan) |  | 0.0% | 0.0% |
 | 13:30 | USD | Moderate | U6 Unemployment Rate (Feb) |  |  | 8.0% |
 | 13:30 | USD | High | Unemployment Rate (Feb) |  | 4.3% | 4.3% |
