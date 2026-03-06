@@ -23,13 +23,13 @@
 | 17:00 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 411 |  | 407 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count | 551 |  | 550 |
-| 42 min | USD | Consumer Credit (Jan) |  | 12.40B | 24.05B |
-| 20:30 | GBP | CFTC GBP speculative net positions |  |  | -57.1K |
-| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 172.7K |
-| 20:30 | USD | CFTC Gold speculative net positions |  |  | 159.2K |
-| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 10.8K |
-| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -193.5K |
-| 20:30 | AUD | CFTC AUD speculative net positions |  |  | 52.6K |
-| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 36.7K |
-| 20:30 | JPY | CFTC JPY speculative net positions |  |  | 11.5K |
-| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 156.9K |
+| 20:00 | USD | Consumer Credit (Jan) | 8.05B | 12.40B | 25.20B |
+| 18 min | GBP | CFTC GBP speculative net positions |  |  | -57.1K |
+| 18 min | USD | CFTC Crude Oil speculative net positions |  |  | 172.7K |
+| 18 min | USD | CFTC Gold speculative net positions |  |  | 159.2K |
+| 18 min | USD | CFTC Nasdaq 100 speculative net positions |  |  | 10.8K |
+| 18 min | USD | CFTC S&P 500 speculative net positions |  |  | -193.5K |
+| 18 min | AUD | CFTC AUD speculative net positions |  |  | 52.6K |
+| 18 min | BRL | CFTC BRL speculative net positions |  |  | 36.7K |
+| 18 min | JPY | CFTC JPY speculative net positions |  |  | 11.5K |
+| 18 min | EUR | CFTC EUR speculative net positions |  |  | 156.9K |

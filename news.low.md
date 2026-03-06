@@ -37,14 +37,14 @@
 | 15:00 | CAD | Ivey PMI n.s.a (Feb) | 56.3 |  | 47.0 |
 | 18:20 | USD | Fed Collins Speaks |  |  |  |
 | 18:30 | GBP | BoE Hauser Speaks |  |  |  |
-| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -2.9K |
-| 20:30 | USD | CFTC Copper speculative net positions |  |  | 58.4K |
-| 20:30 | USD | CFTC Corn speculative net positions |  |  | 8.8K |
-| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -198.5K |
-| 20:30 | USD | CFTC Silver speculative net positions |  |  | 22.3K |
-| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 210.3K |
-| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -16.1K |
-| 20:30 | CAD | CFTC CAD speculative net positions |  |  | 27.6K |
-| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 82.9K |
-| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -41.2K |
-| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -29.6K |
+| 18 min | USD | CFTC Aluminium speculative net positions |  |  | -2.9K |
+| 18 min | USD | CFTC Copper speculative net positions |  |  | 58.4K |
+| 18 min | USD | CFTC Corn speculative net positions |  |  | 8.8K |
+| 18 min | USD | CFTC Natural Gas speculative net positions |  |  | -198.5K |
+| 18 min | USD | CFTC Silver speculative net positions |  |  | 22.3K |
+| 18 min | USD | CFTC Soybeans speculative net positions |  |  | 210.3K |
+| 18 min | USD | CFTC Wheat speculative net positions |  |  | -16.1K |
+| 18 min | CAD | CFTC CAD speculative net positions |  |  | 27.6K |
+| 18 min | MXN | CFTC MXN speculative net positions |  |  | 82.9K |
+| 18 min | CHF | CFTC CHF speculative net positions |  |  | -41.2K |
+| 18 min | NZD | CFTC NZD speculative net positions |  |  | -29.6K |
