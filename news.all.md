@@ -57,8 +57,8 @@
 | 15:00 | CAD | Low | Ivey PMI n.s.a (Feb) | 56.3 |  | 47.0 |
 | 15:00 | CAD | Moderate | Ivey PMI (Feb) | 56.6 | 51.1 | 50.9 |
 | 15:15 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
-| 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 3.0% | 3.0% |
-| 17:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 44 min | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 3.0% | 3.0% |
+| 44 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 407 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 550 |
 | 18:20 | USD | Low | Fed Collins Speaks |  |  |  |
