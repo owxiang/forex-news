@@ -9,9 +9,9 @@
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Feb) | 0.3% | 0.3% | 0.8% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Feb) | 1.3% | 0.9% | 1.1% |
 | 07:00 | NOK | Low | Manufacturing Production (MoM) (Jan) | -0.3% |  | -0.2% |
-| 24 min | EUR | Low | French Reserve Assets Total (Feb) |  |  | 409,263.0M |
-| 39 min | CHF | Low | Foreign Reserves (USD) (Feb) |  |  | 712.0B |
-| 08:30 | HKD | Low | Foreign Reserves (USD) (Feb) |  |  | 435.60B |
+| 07:45 | EUR | Low | French Reserve Assets Total (Feb) | 421,573.0M |  | 409,263.0M |
+| 08:00 | CHF | Low | Foreign Reserves (USD) (Feb) | 710.0B |  | 712.0B |
+| 15 min | HKD | Low | Foreign Reserves (USD) (Feb) |  |  | 435.60B |
 | 10:00 | GBP | Moderate | Mortgage Rate (GBP) (Feb) |  |  | 6.62% |
 | 10:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 10:00 | EUR | Low | Employment Change (QoQ) (Q4) |  | 0.2% | 0.2% |
