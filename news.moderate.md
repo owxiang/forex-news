@@ -23,7 +23,7 @@
 | 17:00 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 411 |  | 407 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count | 551 |  | 550 |
-| 20:00 | USD | Consumer Credit (Jan) |  | 12.40B | 24.05B |
+| 42 min | USD | Consumer Credit (Jan) |  | 12.40B | 24.05B |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -57.1K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 172.7K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 159.2K |

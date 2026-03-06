@@ -35,8 +35,8 @@
 | 14:30 | USD | OPEC Crude oil Production UAE (Barrel) | 3.39M |  | 3.37M |
 | 14:50 | USD | Fed Goolsbee Speaks |  |  |  |
 | 15:00 | CAD | Ivey PMI n.s.a (Feb) | 56.3 |  | 47.0 |
-| 2 min | USD | Fed Collins Speaks |  |  |  |
-| 12 min | GBP | BoE Hauser Speaks |  |  |  |
+| 18:20 | USD | Fed Collins Speaks |  |  |  |
+| 18:30 | GBP | BoE Hauser Speaks |  |  |  |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -2.9K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 58.4K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 8.8K |
