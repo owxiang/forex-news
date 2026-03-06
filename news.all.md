@@ -59,10 +59,10 @@
 | 15:15 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 2.1% | 3.0% | 3.0% |
 | 17:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 43 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 407 |
-| 43 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 550 |
-| 18:20 | USD | Low | Fed Collins Speaks |  |  |  |
-| 18:30 | GBP | Low | BoE Hauser Speaks |  |  |  |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 411 |  | 407 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 551 |  | 550 |
+| 2 min | USD | Low | Fed Collins Speaks |  |  |  |
+| 12 min | GBP | Low | BoE Hauser Speaks |  |  |  |
 | 20:00 | USD | Moderate | Consumer Credit (Jan) |  | 12.40B | 24.05B |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -57.1K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -2.9K |
