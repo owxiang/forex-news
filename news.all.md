@@ -25,29 +25,37 @@
 | 12:00 | BRL | Moderate | Industrial Production (YoY) (Jan) | 0.2% | -0.7% | -0.1% |
 | 12:00 | BRL | Low | Industrial Production (MoM) (Jan) | 1.8% | 0.7% | -1.9% |
 | 12:30 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 13:30 | USD | High | Average Hourly Earnings (MoM) (Feb) |  | 0.3% | 0.4% |
-| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Feb) |  | 3.7% | 3.7% |
-| 13:30 | USD | Low | Average Weekly Hours (Feb) |  | 34.3 | 34.3 |
-| 13:30 | USD | High | Core Retail Sales (MoM) (Jan) |  | 0.1% | 0.0% |
-| 13:30 | USD | Low | Government Payrolls (Feb) |  |  | -42.0K |
-| 13:30 | USD | Low | Manufacturing Payrolls (Feb) |  | 3K | 5K |
-| 13:30 | USD | High | Nonfarm Payrolls (Feb) |  | 58K | 130K |
-| 13:30 | USD | Moderate | Participation Rate (Feb) |  |  | 62.5% |
-| 13:30 | USD | Moderate | Private Nonfarm Payrolls (Feb) |  | 65K | 172K |
-| 13:30 | USD | Moderate | Retail Control (MoM) (Jan) |  | 0.2% | -0.1% |
-| 13:30 | USD | Low | Retail Sales (YoY) (Jan) |  |  | 2.43% |
-| 13:30 | USD | High | Retail Sales (MoM) (Jan) |  | -0.3% | 0.0% |
-| 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Jan) |  | 0.0% | 0.0% |
-| 13:30 | USD | Moderate | U6 Unemployment Rate (Feb) |  |  | 8.0% |
-| 13:30 | USD | High | Unemployment Rate (Feb) |  | 4.3% | 4.3% |
-| 14:00 | BRL | Low | Auto Production (MoM) (Feb) |  |  | -13.5% |
-| 14:00 | BRL | Low | Auto Sales (MoM) (Feb) |  |  | -39.0% |
+| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Feb) | 3.8% | 3.7% | 3.7% |
+| 13:30 | USD | High | Average Hourly Earnings (MoM) (Feb) | 0.4% | 0.3% | 0.4% |
+| 13:30 | USD | Low | Average Weekly Hours (Feb) | 34.3 | 34.3 | 34.3 |
+| 13:30 | USD | High | Core Retail Sales (MoM) (Jan) | 0.0% | 0.1% | 0.0% |
+| 13:30 | USD | Low | Government Payrolls (Feb) | -6.0K |  | -20.0K |
+| 13:30 | USD | Low | Manufacturing Payrolls (Feb) | -12K | 3K | 5K |
+| 13:30 | USD | High | Nonfarm Payrolls (Feb) | -92K | 58K | 126K |
+| 13:30 | USD | Moderate | Participation Rate (Feb) | 62.0% |  | 62.1% |
+| 13:30 | USD | Moderate | Private Nonfarm Payrolls (Feb) | -86K | 65K | 146K |
+| 13:30 | USD | Moderate | Retail Control (MoM) (Jan) | 0.3% | 0.2% | 0.0% |
+| 13:30 | USD | High | Retail Sales (MoM) (Jan) | -0.2% | -0.3% | 0.0% |
+| 13:30 | USD | Low | Retail Sales (YoY) (Jan) | 3.16% |  | 2.43% |
+| 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Jan) | 0.3% | 0.0% | 0.1% |
+| 13:30 | USD | Moderate | U6 Unemployment Rate (Feb) | 7.9% |  | 8.1% |
+| 13:30 | USD | High | Unemployment Rate (Feb) | 4.4% | 4.3% | 4.3% |
+| 14:00 | BRL | Low | Auto Production (MoM) (Feb) | 24.9% |  | -13.5% |
+| 14:00 | BRL | Low | Auto Sales (MoM) (Feb) | 8.6% |  | -39.0% |
+| 14:30 | USD | Low | OPEC Crude Oil Production Algeria (Barrel) | 0.96M |  | 0.96M |
+| 14:30 | USD | Low | OPEC Crude Oil Production Congo (Barrel) | 0.26M |  | 0.25M |
+| 14:30 | USD | Low | OPEC Crude Oil Production Gabon (Barrel) | 0.23M |  | 0.23M |
+| 14:30 | USD | Low | OPEC Crude oil Production Iran (Barrel) | 3.30M |  | 3.20M |
+| 14:30 | USD | Low | OPEC Crude oil Production Iraq (Barrel) | 4.15M |  | 4.10M |
+| 14:30 | USD | Low | OPEC Crude Oil Production Kuwait (Barrel) | 2.56M |  | 2.55M |
+| 14:30 | USD | Low | OPEC Crude Oil Production Libya (Barrel) | 1.27M |  | 1.25M |
+| 14:30 | USD | Low | OPEC Crude Oil Production Nigeria (Barrel) | 1.53M |  | 1.47M |
+| 14:30 | USD | Low | OPEC Crude oil Production UAE (Barrel) | 3.39M |  | 3.37M |
 | 14:50 | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 15:00 | USD | Moderate | Business Inventories (MoM) (Dec) |  | 0.1% | 0.1% |
-| 15:00 | USD | Moderate | Retail Inventories Ex Auto (Dec) |  | 0.2% | 0.2% |
-| 15:00 | USD | Low | Wholesale Inventories (MoM) (Jan) |  |  | 0.2% |
-| 15:00 | CAD | Low | Ivey PMI n.s.a (Feb) |  |  | 47.0 |
-| 15:00 | CAD | Moderate | Ivey PMI (Feb) |  | 51.1 | 50.9 |
+| 15:00 | USD | Moderate | Business Inventories (MoM) (Dec) | 0.1% | 0.1% | 0.0% |
+| 15:00 | USD | Moderate | Retail Inventories Ex Auto (Dec) | 0.4% | 0.2% | 0.2% |
+| 15:00 | CAD | Low | Ivey PMI n.s.a (Feb) | 56.3 |  | 47.0 |
+| 15:00 | CAD | Moderate | Ivey PMI (Feb) | 56.6 | 51.1 | 50.9 |
 | 15:15 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 3.0% | 3.0% |
 | 17:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |

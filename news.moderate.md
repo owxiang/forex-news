@@ -10,14 +10,14 @@
 | 10:00 | EUR | GDP (YoY) (Q4) | 1.2% | 1.3% | 1.4% |
 | 12:00 | BRL | Industrial Production (YoY) (Jan) | 0.2% | -0.7% | -0.1% |
 | 12:30 | USD | Fed Waller Speaks |  |  |  |
-| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Feb) |  | 3.7% | 3.7% |
-| 13:30 | USD | Participation Rate (Feb) |  |  | 62.5% |
-| 13:30 | USD | Private Nonfarm Payrolls (Feb) |  | 65K | 172K |
-| 13:30 | USD | Retail Control (MoM) (Jan) |  | 0.2% | -0.1% |
-| 13:30 | USD | U6 Unemployment Rate (Feb) |  |  | 8.0% |
-| 15:00 | USD | Business Inventories (MoM) (Dec) |  | 0.1% | 0.1% |
-| 15:00 | USD | Retail Inventories Ex Auto (Dec) |  | 0.2% | 0.2% |
-| 15:00 | CAD | Ivey PMI (Feb) |  | 51.1 | 50.9 |
+| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Feb) | 3.8% | 3.7% | 3.7% |
+| 13:30 | USD | Participation Rate (Feb) | 62.0% |  | 62.1% |
+| 13:30 | USD | Private Nonfarm Payrolls (Feb) | -86K | 65K | 146K |
+| 13:30 | USD | Retail Control (MoM) (Jan) | 0.3% | 0.2% | 0.0% |
+| 13:30 | USD | U6 Unemployment Rate (Feb) | 7.9% |  | 8.1% |
+| 15:00 | USD | Business Inventories (MoM) (Dec) | 0.1% | 0.1% | 0.0% |
+| 15:00 | USD | Retail Inventories Ex Auto (Dec) | 0.4% | 0.2% | 0.2% |
+| 15:00 | CAD | Ivey PMI (Feb) | 56.6 | 51.1 | 50.9 |
 | 15:15 | USD | FOMC Member Daly Speaks |  |  |  |
 | 17:00 | USD | Atlanta Fed GDPNow (Q1) |  | 3.0% | 3.0% |
 | 17:00 | EUR | ECB's Schnabel Speaks |  |  |  |
