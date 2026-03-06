@@ -13,14 +13,13 @@
 | 10:00 | EUR | Employment Change (QoQ) (Q4) | 0.2% | 0.2% | 0.2% |
 | 10:00 | EUR | Employment Change (YoY) (Q4) | 0.7% | 0.7% | 0.6% |
 | 10:00 | EUR | Employment Overall (Q4) | 172,571.6K | 172,516.6K | 170,411.4K |
-| 44 min | CAD | Leading Index (MoM) (Feb) |  |  | 0.28% |
-| 44 min | EUR | German Car Registration (YoY) (Feb) |  |  | -6.6% |
-| 44 min | BRL | IGP-DI Inflation Index (MoM) (Feb) |  |  | 0.20% |
-| 11:30 | USD | Factory orders ex transportation (MoM) (Jan) |  |  | 0.4% |
-| 11:30 | INR | Bank Loan Growth |  |  | 13.6% |
-| 11:30 | INR | Deposit Growth |  |  | 11.2% |
-| 11:30 | INR | FX Reserves, USD |  |  | 723.61B |
-| 12:00 | BRL | Industrial Production (MoM) (Jan) |  | 0.7% | -1.2% |
+| 11:00 | EUR | German Car Registration (YoY) (Feb) | 3.8% |  | -6.6% |
+| 11:00 | BRL | IGP-DI Inflation Index (MoM) (Feb) | -0.84% |  | 0.20% |
+| 18 min | CAD | Leading Index (MoM) (Feb) |  |  | 0.28% |
+| 18 min | INR | Bank Loan Growth |  |  | 13.6% |
+| 18 min | INR | Deposit Growth |  |  | 11.2% |
+| 18 min | INR | FX Reserves, USD |  |  | 723.61B |
+| 48 min | BRL | Industrial Production (MoM) (Jan) |  | 0.7% | -1.2% |
 | 13:30 | USD | Average Weekly Hours (Feb) |  | 34.3 | 34.3 |
 | 13:30 | USD | Government Payrolls (Feb) |  |  | -42.0K |
 | 13:30 | USD | Manufacturing Payrolls (Feb) |  | 3K | 5K |

@@ -19,19 +19,17 @@
 | 10:00 | EUR | Low | Employment Overall (Q4) | 172,571.6K | 172,516.6K | 170,411.4K |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q4) | 0.2% | 0.3% | 0.3% |
 | 10:00 | EUR | Moderate | GDP (YoY) (Q4) | 1.2% | 1.3% | 1.4% |
-| 44 min | CAD | Low | Leading Index (MoM) (Feb) |  |  | 0.28% |
-| 44 min | EUR | Low | German Car Registration (YoY) (Feb) |  |  | -6.6% |
-| 44 min | BRL | Low | IGP-DI Inflation Index (MoM) (Feb) |  |  | 0.20% |
-| 11:30 | USD | Moderate | Factory Orders (MoM) (Jan) |  |  | -0.7% |
-| 11:30 | USD | Low | Factory orders ex transportation (MoM) (Jan) |  |  | 0.4% |
-| 11:30 | INR | Low | Bank Loan Growth |  |  | 13.6% |
-| 11:30 | INR | Low | Deposit Growth |  |  | 11.2% |
-| 11:30 | INR | Low | FX Reserves, USD |  |  | 723.61B |
-| 12:00 | BRL | Moderate | Industrial Production (YoY) (Jan) |  | -0.7% | 0.4% |
-| 12:00 | BRL | Low | Industrial Production (MoM) (Jan) |  | 0.7% | -1.2% |
+| 11:00 | EUR | Low | German Car Registration (YoY) (Feb) | 3.8% |  | -6.6% |
+| 11:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Feb) | -0.84% |  | 0.20% |
+| 18 min | CAD | Low | Leading Index (MoM) (Feb) |  |  | 0.28% |
+| 18 min | INR | Low | Bank Loan Growth |  |  | 13.6% |
+| 18 min | INR | Low | Deposit Growth |  |  | 11.2% |
+| 18 min | INR | Low | FX Reserves, USD |  |  | 723.61B |
+| 48 min | BRL | Moderate | Industrial Production (YoY) (Jan) |  | -0.7% | 0.4% |
+| 48 min | BRL | Low | Industrial Production (MoM) (Jan) |  | 0.7% | -1.2% |
 | 12:30 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 13:30 | USD | High | Average Hourly Earnings (MoM) (Feb) |  | 0.3% | 0.4% |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Feb) |  | 3.7% | 3.7% |
+| 13:30 | USD | High | Average Hourly Earnings (MoM) (Feb) |  | 0.3% | 0.4% |
 | 13:30 | USD | Low | Average Weekly Hours (Feb) |  | 34.3 | 34.3 |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Jan) |  | 0.1% | 0.0% |
 | 13:30 | USD | Low | Government Payrolls (Feb) |  |  | -42.0K |
