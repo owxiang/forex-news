@@ -19,10 +19,10 @@
 | 15:00 | USD | Retail Inventories Ex Auto (Dec) | 0.4% | 0.2% | 0.2% |
 | 15:00 | CAD | Ivey PMI (Feb) | 56.6 | 51.1 | 50.9 |
 | 15:15 | USD | FOMC Member Daly Speaks |  |  |  |
-| 44 min | USD | Atlanta Fed GDPNow (Q1) |  | 3.0% | 3.0% |
-| 44 min | EUR | ECB's Schnabel Speaks |  |  |  |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 407 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 550 |
+| 16:30 | USD | Atlanta Fed GDPNow (Q1) | 2.1% | 3.0% | 3.0% |
+| 17:00 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 43 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 407 |
+| 43 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 550 |
 | 20:00 | USD | Consumer Credit (Jan) |  | 12.40B | 24.05B |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -57.1K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 172.7K |
