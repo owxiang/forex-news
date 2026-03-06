@@ -4,12 +4,12 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 03:00 | IDR | Low | FX Reserves (USD) (Feb) | 151.90B |  | 154.60B |
-| 36 min | ZAR | Low | Foreign Reserves (USD) (Feb) |  |  | 80.19B |
-| 36 min | ZAR | Low | Net FX Reserves (USD) (Feb) |  |  | 74.877B |
-| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Feb) |  | 0.3% | 0.7% |
-| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Feb) |  | 0.9% | 1.0% |
-| 07:00 | EUR | Moderate | German Factory Orders (MoM) (Jan) |  | -4.3% | 7.8% |
-| 07:00 | NOK | Low | Manufacturing Production (MoM) (Jan) |  |  | -0.1% |
+| 06:00 | ZAR | Low | Foreign Reserves (USD) (Feb) | 81.06B |  | 80.19B |
+| 06:00 | ZAR | Low | Net FX Reserves (USD) (Feb) | 75.835B |  | 74.877B |
+| 38 min | GBP | Moderate | Halifax House Price Index (MoM) (Feb) |  | 0.3% | 0.7% |
+| 38 min | GBP | Moderate | Halifax House Price Index (YoY) (Feb) |  | 0.9% | 1.0% |
+| 38 min | EUR | Moderate | German Factory Orders (MoM) (Jan) |  | -4.3% | 7.8% |
+| 38 min | NOK | Low | Manufacturing Production (MoM) (Jan) |  |  | -0.1% |
 | 07:45 | EUR | Low | French Reserve Assets Total (Feb) |  |  | 409,263.0M |
 | 08:00 | CHF | Low | Foreign Reserves (USD) (Feb) |  |  | 712.0B |
 | 08:30 | HKD | Low | Foreign Reserves (USD) (Feb) |  |  | 435.60B |
