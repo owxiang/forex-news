@@ -6,9 +6,9 @@
 | 03:00 | IDR | FX Reserves (USD) (Feb) | 151.90B |  | 154.60B |
 | 06:00 | ZAR | Foreign Reserves (USD) (Feb) | 81.06B |  | 80.19B |
 | 06:00 | ZAR | Net FX Reserves (USD) (Feb) | 75.835B |  | 74.877B |
-| 38 min | NOK | Manufacturing Production (MoM) (Jan) |  |  | -0.1% |
-| 07:45 | EUR | French Reserve Assets Total (Feb) |  |  | 409,263.0M |
-| 08:00 | CHF | Foreign Reserves (USD) (Feb) |  |  | 712.0B |
+| 07:00 | NOK | Manufacturing Production (MoM) (Jan) | -0.3% |  | -0.2% |
+| 24 min | EUR | French Reserve Assets Total (Feb) |  |  | 409,263.0M |
+| 39 min | CHF | Foreign Reserves (USD) (Feb) |  |  | 712.0B |
 | 08:30 | HKD | Foreign Reserves (USD) (Feb) |  |  | 435.60B |
 | 10:00 | EUR | Employment Change (QoQ) (Q4) |  | 0.2% | 0.2% |
 | 10:00 | EUR | Employment Change (YoY) (Q4) |  | 0.7% | 0.6% |

@@ -2,9 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 38 min | GBP | Halifax House Price Index (MoM) (Feb) |  | 0.3% | 0.7% |
-| 38 min | GBP | Halifax House Price Index (YoY) (Feb) |  | 0.9% | 1.0% |
-| 38 min | EUR | German Factory Orders (MoM) (Jan) |  | -4.3% | 7.8% |
+| 07:00 | GBP | Halifax House Price Index (MoM) (Feb) | 0.3% | 0.3% | 0.8% |
+| 07:00 | GBP | Halifax House Price Index (YoY) (Feb) | 1.3% | 0.9% | 1.1% |
 | 10:00 | GBP | Mortgage Rate (GBP) (Feb) |  |  | 6.62% |
 | 10:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 10:00 | EUR | GDP (QoQ) (Q4) |  | 0.3% | 0.3% |
