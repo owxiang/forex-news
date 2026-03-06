@@ -4,31 +4,33 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 03:00 | IDR | Low | FX Reserves (USD) (Feb) | 151.90B |  | 154.60B |
-| 06:00 | ZAR | Low | Foreign Reserves (USD) (Feb) |  |  | 80.19B |
-| 06:00 | ZAR | Low | Net FX Reserves (USD) (Feb) |  |  | 74.877B |
+| 36 min | ZAR | Low | Foreign Reserves (USD) (Feb) |  |  | 80.19B |
+| 36 min | ZAR | Low | Net FX Reserves (USD) (Feb) |  |  | 74.877B |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Feb) |  | 0.3% | 0.7% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Feb) |  | 0.9% | 1.0% |
+| 07:00 | EUR | Moderate | German Factory Orders (MoM) (Jan) |  | -4.3% | 7.8% |
 | 07:00 | NOK | Low | Manufacturing Production (MoM) (Jan) |  |  | -0.1% |
 | 07:45 | EUR | Low | French Reserve Assets Total (Feb) |  |  | 409,263.0M |
-| 08:00 | CHF | Low | Foreign Reserves (USD) (Feb) |  |  | 711,981.0B |
+| 08:00 | CHF | Low | Foreign Reserves (USD) (Feb) |  |  | 712.0B |
 | 08:30 | HKD | Low | Foreign Reserves (USD) (Feb) |  |  | 435.60B |
 | 10:00 | GBP | Moderate | Mortgage Rate (GBP) (Feb) |  |  | 6.62% |
 | 10:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 10:00 | EUR | Low | Employment Change (QoQ) (Q4) |  | 0.2% | 0.2% |
 | 10:00 | EUR | Low | Employment Change (YoY) (Q4) |  | 0.7% | 0.6% |
 | 10:00 | EUR | Low | Employment Overall (Q4) |  | 172,516.6K | 170,411.4K |
-| 10:00 | EUR | Moderate | GDP (YoY) (Q4) |  | 1.3% | 1.4% |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q4) |  | 0.3% | 0.3% |
+| 10:00 | EUR | Moderate | GDP (YoY) (Q4) |  | 1.3% | 1.4% |
 | 11:00 | CAD | Low | Leading Index (MoM) (Feb) |  |  | 0.28% |
 | 11:00 | EUR | Low | German Car Registration (YoY) (Feb) |  |  | -6.6% |
 | 11:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Feb) |  |  | 0.20% |
 | 11:30 | USD | Moderate | Factory Orders (MoM) (Jan) |  |  | -0.7% |
 | 11:30 | USD | Low | Factory orders ex transportation (MoM) (Jan) |  |  | 0.4% |
-| 11:30 | INR | Low | Bank Loan Growth |  |  |  |
-| 11:30 | INR | Low | Deposit Growth |  |  |  |
+| 11:30 | INR | Low | Bank Loan Growth |  |  | 13.6% |
+| 11:30 | INR | Low | Deposit Growth |  |  | 11.2% |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 723.61B |
 | 12:00 | BRL | Moderate | Industrial Production (YoY) (Jan) |  | -0.7% | 0.4% |
 | 12:00 | BRL | Low | Industrial Production (MoM) (Jan) |  | 0.7% | -1.2% |
+| 12:30 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 13:00 | BRL | Low | Auto Production (MoM) (Feb) |  |  | -13.5% |
 | 13:00 | BRL | Low | Auto Sales (MoM) (Feb) |  |  | -39.0% |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Feb) |  | 0.3% | 0.4% |
@@ -36,7 +38,7 @@
 | 13:30 | USD | Low | Average Weekly Hours (Feb) |  | 34.3 | 34.3 |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Jan) |  | 0.1% | 0.0% |
 | 13:30 | USD | Low | Government Payrolls (Feb) |  |  | -42.0K |
-| 13:30 | USD | Low | Manufacturing Payrolls (Feb) |  |  | 5K |
+| 13:30 | USD | Low | Manufacturing Payrolls (Feb) |  | 3K | 5K |
 | 13:30 | USD | High | Nonfarm Payrolls (Feb) |  | 58K | 130K |
 | 13:30 | USD | Moderate | Participation Rate (Feb) |  |  | 62.5% |
 | 13:30 | USD | Moderate | Private Nonfarm Payrolls (Feb) |  | 65K | 172K |
@@ -46,6 +48,7 @@
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Jan) |  | 0.0% | 0.0% |
 | 13:30 | USD | Moderate | U6 Unemployment Rate (Feb) |  |  | 8.0% |
 | 13:30 | USD | High | Unemployment Rate (Feb) |  | 4.3% | 4.3% |
+| 14:50 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 15:00 | USD | Moderate | Business Inventories (MoM) (Dec) |  | 0.1% | 0.1% |
 | 15:00 | USD | Moderate | Retail Inventories Ex Auto (Dec) |  | 0.2% | 0.2% |
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (Jan) |  |  | 0.2% |
