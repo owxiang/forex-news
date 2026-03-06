@@ -4,10 +4,10 @@
 |------|----------|-------|--------|----------|----------|
 | 07:00 | GBP | Halifax House Price Index (MoM) (Feb) | 0.3% | 0.3% | 0.8% |
 | 07:00 | GBP | Halifax House Price Index (YoY) (Feb) | 1.3% | 0.9% | 1.1% |
-| 43 min | GBP | Mortgage Rate (GBP) (Feb) |  |  | 6.62% |
-| 43 min | EUR | ECB President Lagarde Speaks |  |  |  |
-| 43 min | EUR | GDP (QoQ) (Q4) |  | 0.3% | 0.3% |
-| 43 min | EUR | GDP (YoY) (Q4) |  | 1.3% | 1.4% |
+| 09:30 | GBP | Mortgage Rate (GBP) (Feb) | 6.59% |  | 6.62% |
+| 10:00 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 10:00 | EUR | GDP (QoQ) (Q4) | 0.2% | 0.3% | 0.3% |
+| 10:00 | EUR | GDP (YoY) (Q4) | 1.2% | 1.3% | 1.4% |
 | 11:30 | USD | Factory Orders (MoM) (Jan) |  |  | -0.7% |
 | 12:00 | BRL | Industrial Production (YoY) (Jan) |  | -0.7% | 0.4% |
 | 12:30 | USD | Fed Waller Speaks |  |  |  |
