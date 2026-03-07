@@ -1,35 +1,3 @@
-## 06 March 2026 - Moderate Impact Forex News
+## 07 March 2026 - Moderate Impact Forex News
 
-| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
-|------|----------|-------|--------|----------|----------|
-| 07:00 | GBP | Halifax House Price Index (MoM) (Feb) | 0.3% | 0.3% | 0.8% |
-| 07:00 | GBP | Halifax House Price Index (YoY) (Feb) | 1.3% | 0.9% | 1.1% |
-| 09:30 | GBP | Mortgage Rate (GBP) (Feb) | 6.59% |  | 6.62% |
-| 10:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 10:00 | EUR | GDP (QoQ) (Q4) | 0.2% | 0.3% | 0.3% |
-| 10:00 | EUR | GDP (YoY) (Q4) | 1.2% | 1.3% | 1.4% |
-| 12:00 | BRL | Industrial Production (YoY) (Jan) | 0.2% | -0.7% | -0.1% |
-| 12:30 | USD | Fed Waller Speaks |  |  |  |
-| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Feb) | 3.8% | 3.7% | 3.7% |
-| 13:30 | USD | Participation Rate (Feb) | 62.0% |  | 62.1% |
-| 13:30 | USD | Private Nonfarm Payrolls (Feb) | -86K | 65K | 146K |
-| 13:30 | USD | Retail Control (MoM) (Jan) | 0.3% | 0.2% | 0.0% |
-| 13:30 | USD | U6 Unemployment Rate (Feb) | 7.9% |  | 8.1% |
-| 15:00 | USD | Business Inventories (MoM) (Dec) | 0.1% | 0.1% | 0.0% |
-| 15:00 | USD | Retail Inventories Ex Auto (Dec) | 0.4% | 0.2% | 0.2% |
-| 15:00 | CAD | Ivey PMI (Feb) | 56.6 | 51.1 | 50.9 |
-| 15:15 | USD | FOMC Member Daly Speaks |  |  |  |
-| 16:30 | USD | Atlanta Fed GDPNow (Q1) | 2.1% | 3.0% | 3.0% |
-| 17:00 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 411 |  | 407 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count | 551 |  | 550 |
-| 20:00 | USD | Consumer Credit (Jan) | 8.05B | 12.40B | 25.20B |
-| 20:30 | GBP | CFTC GBP speculative net positions | -72.7K |  | -57.1K |
-| 20:30 | USD | CFTC Crude Oil speculative net positions | 172.2K |  | 172.7K |
-| 20:30 | USD | CFTC Gold speculative net positions | 160.1K |  | 159.2K |
-| 20:30 | USD | CFTC Nasdaq 100 speculative net positions | 2.4K |  | 10.8K |
-| 20:30 | USD | CFTC S&P 500 speculative net positions | -168.2K |  | -193.5K |
-| 20:30 | AUD | CFTC AUD speculative net positions | 67.8K |  | 52.6K |
-| 20:30 | BRL | CFTC BRL speculative net positions | 45.0K |  | 36.7K |
-| 20:30 | JPY | CFTC JPY speculative net positions | -16.6K |  | 11.5K |
-| 20:30 | EUR | CFTC EUR speculative net positions | 136.5K |  | 156.9K |
+There is no moderate impact news today.
