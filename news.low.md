@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 08:00 | CNY | FX Reserves (USD) (Feb) |  |  | 3.399T |
+| 46 min | CNY | FX Reserves (USD) (Feb) |  |  | 3.399T |
