@@ -5,14 +5,15 @@
 | 01:30 | CNY | Moderate | CPI (YoY) (Feb) | 1.3% | 0.9% | 0.2% |
 | 01:30 | CNY | Moderate | CPI (MoM) (Feb) | 1.0% |  | 0.2% |
 | 01:30 | CNY | Moderate | PPI (YoY) (Feb) | -0.9% | -1.1% | -1.4% |
-| 03:00 | IDR | Low | Consumer Confidence (Feb) |  |  | 127.0 |
-| 05:00 | JPY | Low | Coincident Indicator (MoM) (Jan) |  |  | -0.6% |
-| 05:00 | JPY | Low | Leading Index (Jan) |  | 113.2 | 111.0 |
-| 05:00 | JPY | Low | Leading Index (MoM) (Jan) |  |  | 1.1% |
+| 03:40 | IDR | Low | Motorbike Sales (YoY) (Feb) | 1.00% |  | 3.10% |
+| 19 min | JPY | Low | Coincident Indicator (MoM) (Jan) |  |  | -0.6% |
+| 19 min | JPY | Low | Leading Index (Jan) |  | 113.0 | 111.0 |
+| 19 min | JPY | Low | Leading Index (MoM) (Jan) |  |  | 1.1% |
 | 06:00 | JPY | Low | Economy Watchers Current Index (Feb) |  | 48.1 | 47.6 |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Jan) |  | -4.2% | 7.8% |
 | 07:00 | EUR | Moderate | German Industrial Production (MoM) (Jan) |  | 1.0% | -1.9% |
 | 07:00 | EUR | Low | German Industrial Production (YoY) (Jan) |  |  | -0.55% |
+| 07:00 | IDR | Low | Consumer Confidence (Feb) |  |  | 127.0 |
 | 07:00 | NOK | Low | PPI (YoY) (Feb) |  |  | -7.8% |
 | 08:00 | CHF | Moderate | SECO Consumer Climate (Feb) |  | -29 | -30 |
 | 09:00 | SGD | Low | Foreign Reserves USD (MoM) (Feb) |  |  | 417.0B |
@@ -24,8 +25,8 @@
 | 12:00 | MXN | Moderate | CPI (YoY) (Feb) |  |  | 3.79% |
 | 12:00 | MXN | Moderate | CPI (MoM) (Feb) |  |  | 0.38% |
 | 12:00 | MXN | Low | Month Core Inflation (YoY) (Feb) |  |  | 4.52% |
-| 12:00 | MXN | Low | PPI (YoY) (Feb) |  |  | 1.50% |
 | 12:00 | MXN | Low | PPI (MoM) (Feb) |  |  | 0.10% |
+| 12:00 | MXN | Low | PPI (YoY) (Feb) |  |  | 1.50% |
 | 14:00 | USD | Low | CB Employment Trends Index (Feb) |  |  | 105.06 |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.097% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.030% |
@@ -39,7 +40,6 @@
 | 23:30 | JPY | Low | Average Cash Earnings (YoY) (Jan) |  | 2.5% | 1.5% |
 | 23:30 | JPY | Moderate | Household Spending (YoY) (Jan) |  | 2.3% | -2.6% |
 | 23:30 | JPY | Moderate | Household Spending (MoM) (Jan) |  | 0.8% | -2.9% |
-| 23:30 | IDR | Low | Motorbike Sales (YoY) (Feb) |  |  | 3.10% |
 | 23:50 | JPY | High | GDP (QoQ) (Q4) |  | 0.3% | 0.1% |
 | 23:50 | JPY | Moderate | GDP Annualized (QoQ) (Q4) |  | 1.2% | 0.2% |
 | 23:50 | JPY | Low | GDP Capital Expenditure (QoQ) (Q4) |  | 0.2% | 0.2% |
