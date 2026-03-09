@@ -10,12 +10,12 @@
 | 05:00 | JPY | Low | Leading Index (Jan) | 112.4 | 113.0 | 110.3 |
 | 05:00 | JPY | Low | Leading Index (MoM) (Jan) | 2.1% |  | 1.1% |
 | 06:00 | JPY | Low | Economy Watchers Current Index (Feb) | 48.9 | 48.1 | 47.6 |
-| 31 min | EUR | Moderate | German Factory Orders (MoM) (Jan) |  | -4.2% | 7.8% |
-| 31 min | EUR | Moderate | German Industrial Production (MoM) (Jan) |  | 1.0% | -1.9% |
-| 31 min | EUR | Low | German Industrial Production (YoY) (Jan) |  |  | -0.55% |
-| 31 min | IDR | Low | Consumer Confidence (Feb) |  |  | 127.0 |
-| 31 min | NOK | Low | PPI (YoY) (Feb) |  |  | -7.8% |
-| 08:00 | CHF | Moderate | SECO Consumer Climate (Feb) |  | -29 | -30 |
+| 06:25 | IDR | Low | Consumer Confidence (Feb) | 125.2 |  | 127.0 |
+| 07:00 | EUR | Moderate | German Factory Orders (MoM) (Jan) | -11.1% | -4.2% | 6.4% |
+| 07:00 | EUR | Moderate | German Industrial Production (MoM) (Jan) | -0.5% | 1.0% | -1.0% |
+| 07:00 | EUR | Low | German Industrial Production (YoY) (Jan) | -1.20% |  | 0.40% |
+| 07:00 | NOK | Low | PPI (YoY) (Feb) | -9.4% |  | -7.8% |
+| 32 min | CHF | Moderate | SECO Consumer Climate (Feb) |  | -29 | -30 |
 | 09:00 | SGD | Low | Foreign Reserves USD (MoM) (Feb) |  |  | 417.0B |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Mar) |  | -3.1 | 4.2 |
 | 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
