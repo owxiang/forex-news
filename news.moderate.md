@@ -10,8 +10,8 @@
 | 08:00 | CHF | SECO Consumer Climate (Feb) | -30 | -29 | -30 |
 | 10:00 | EUR | Eurogroup Meetings |  |  |  |
 | 10:30 | EUR | ECB's Elderson Speaks |  |  |  |
-| 41 min | MXN | CPI (YoY) (Feb) |  | 3.94% | 3.79% |
-| 41 min | MXN | CPI (MoM) (Feb) |  | 0.43% | 0.38% |
+| 12:00 | MXN | CPI (YoY) (Feb) | 4.02% | 3.94% | 3.79% |
+| 12:00 | MXN | CPI (MoM) (Feb) | 0.50% | 0.43% | 0.38% |
 | 15:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Feb) |  |  | 3.1% |
 | 23:30 | JPY | Household Spending (YoY) (Jan) |  | 2.3% | -2.6% |
 | 23:30 | JPY | Household Spending (MoM) (Jan) |  | 0.8% | -2.9% |

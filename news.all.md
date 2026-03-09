@@ -20,13 +20,13 @@
 | 09:30 | EUR | Low | Sentix Investor Confidence (Mar) | -3.1 | -3.1 | 4.2 |
 | 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 10:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 6 min | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 41 min | MXN | Low | Core CPI (MoM) (Feb) |  | 0.47% | 0.60% |
-| 41 min | MXN | Moderate | CPI (YoY) (Feb) |  | 3.94% | 3.79% |
-| 41 min | MXN | Moderate | CPI (MoM) (Feb) |  | 0.43% | 0.38% |
-| 41 min | MXN | Low | Month Core Inflation (YoY) (Feb) |  | 4.50% | 4.52% |
-| 41 min | MXN | Low | PPI (MoM) (Feb) |  |  | 0.20% |
-| 41 min | MXN | Low | PPI (YoY) (Feb) |  |  | 1.50% |
+| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 12:00 | MXN | Low | Core CPI (MoM) (Feb) | 0.46% | 0.47% | 0.60% |
+| 12:00 | MXN | Moderate | CPI (YoY) (Feb) | 4.02% | 3.94% | 3.79% |
+| 12:00 | MXN | Moderate | CPI (MoM) (Feb) | 0.50% | 0.43% | 0.38% |
+| 12:00 | MXN | Low | Month Core Inflation (YoY) (Feb) | 4.50% | 4.50% | 4.52% |
+| 12:00 | MXN | Low | PPI (MoM) (Feb) | 0.20% |  | 0.10% |
+| 12:00 | MXN | Low | PPI (YoY) (Feb) | 1.10% |  | 1.50% |
 | 14:00 | USD | Low | CB Employment Trends Index (Feb) |  |  | 105.06 |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.097% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.030% |
