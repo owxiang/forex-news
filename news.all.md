@@ -13,10 +13,10 @@
 | 06:25 | IDR | Low | Consumer Confidence (Feb) | 125.2 |  | 127.0 |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Jan) | -11.1% | -4.2% | 6.4% |
 | 07:00 | EUR | Moderate | German Industrial Production (MoM) (Jan) | -0.5% | 1.0% | -1.0% |
-| 07:00 | EUR | Low | German Industrial Production (YoY) (Jan) | -1.20% |  | 0.40% |
+| 07:00 | EUR | Low | German Industrial Production (YoY) (Jan) | -1.09% |  | 0.44% |
 | 07:00 | NOK | Low | PPI (YoY) (Feb) | -9.4% |  | -7.8% |
-| 32 min | CHF | Moderate | SECO Consumer Climate (Feb) |  | -29 | -30 |
-| 09:00 | SGD | Low | Foreign Reserves USD (MoM) (Feb) |  |  | 417.0B |
+| 08:00 | CHF | Moderate | SECO Consumer Climate (Feb) | -30 | -29 | -30 |
+| 40 min | SGD | Low | Foreign Reserves USD (MoM) (Feb) |  |  | 417.0B |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Mar) |  | -3.1 | 4.2 |
 | 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 10:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
