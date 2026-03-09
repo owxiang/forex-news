@@ -12,11 +12,11 @@
 | 07:00 | NOK | PPI (YoY) (Feb) | -9.4% |  | -7.8% |
 | 09:00 | SGD | Foreign Reserves USD (MoM) (Feb) | 416.1B |  | 417.0B |
 | 09:30 | EUR | Sentix Investor Confidence (Mar) | -3.1 | -3.1 | 4.2 |
-| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:00 | MXN | Core CPI (MoM) (Feb) |  | 0.47% | 0.60% |
-| 12:00 | MXN | Month Core Inflation (YoY) (Feb) |  | 4.50% | 4.52% |
-| 12:00 | MXN | PPI (MoM) (Feb) |  |  | 0.20% |
-| 12:00 | MXN | PPI (YoY) (Feb) |  |  | 1.50% |
+| 6 min | BRL | BCB Focus Market Readout |  |  |  |
+| 41 min | MXN | Core CPI (MoM) (Feb) |  | 0.47% | 0.60% |
+| 41 min | MXN | Month Core Inflation (YoY) (Feb) |  | 4.50% | 4.52% |
+| 41 min | MXN | PPI (MoM) (Feb) |  |  | 0.20% |
+| 41 min | MXN | PPI (YoY) (Feb) |  |  | 1.50% |
 | 14:00 | USD | CB Employment Trends Index (Feb) |  |  | 105.06 |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.097% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.030% |
