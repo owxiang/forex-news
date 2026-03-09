@@ -5,8 +5,8 @@
 | 01:30 | CNY | CPI (YoY) (Feb) | 1.3% | 0.9% | 0.2% |
 | 01:30 | CNY | CPI (MoM) (Feb) | 1.0% |  | 0.2% |
 | 01:30 | CNY | PPI (YoY) (Feb) | -0.9% | -1.1% | -1.4% |
-| 07:00 | EUR | German Factory Orders (MoM) (Jan) |  | -4.2% | 7.8% |
-| 07:00 | EUR | German Industrial Production (MoM) (Jan) |  | 1.0% | -1.9% |
+| 31 min | EUR | German Factory Orders (MoM) (Jan) |  | -4.2% | 7.8% |
+| 31 min | EUR | German Industrial Production (MoM) (Jan) |  | 1.0% | -1.9% |
 | 08:00 | CHF | SECO Consumer Climate (Feb) |  | -29 | -30 |
 | 10:00 | EUR | Eurogroup Meetings |  |  |  |
 | 10:30 | EUR | ECB's Elderson Speaks |  |  |  |
