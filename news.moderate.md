@@ -15,5 +15,5 @@
 | 15:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Feb) |  |  | 3.1% |
 | 23:30 | JPY | Household Spending (YoY) (Jan) |  | 2.3% | -2.6% |
 | 23:30 | JPY | Household Spending (MoM) (Jan) |  | 0.8% | -2.9% |
-| 23:50 | JPY | GDP Annualized (QoQ) (Q4) |  | 1.2% | 0.2% |
+| 23:50 | JPY | GDP Annualized (QoQ) (Q4) |  | 0.2% | -2.3% |
 | 23:50 | JPY | GDP Price Index (YoY) (Q4) |  | 3.4% | 3.4% |

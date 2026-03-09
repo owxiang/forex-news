@@ -6,10 +6,10 @@
 | 01:30 | CNY | Moderate | CPI (MoM) (Feb) | 1.0% |  | 0.2% |
 | 01:30 | CNY | Moderate | PPI (YoY) (Feb) | -0.9% | -1.1% | -1.4% |
 | 03:40 | IDR | Low | Motorbike Sales (YoY) (Feb) | 1.00% |  | 3.10% |
-| 19 min | JPY | Low | Coincident Indicator (MoM) (Jan) |  |  | -0.6% |
-| 19 min | JPY | Low | Leading Index (Jan) |  | 113.0 | 111.0 |
-| 19 min | JPY | Low | Leading Index (MoM) (Jan) |  |  | 1.1% |
-| 06:00 | JPY | Low | Economy Watchers Current Index (Feb) |  | 48.1 | 47.6 |
+| 05:00 | JPY | Low | Coincident Indicator (MoM) (Jan) | 2.5% |  | -0.5% |
+| 05:00 | JPY | Low | Leading Index (Jan) | 112.4 | 113.0 | 110.3 |
+| 05:00 | JPY | Low | Leading Index (MoM) (Jan) | 2.1% |  | 1.1% |
+| 29 min | JPY | Low | Economy Watchers Current Index (Feb) |  | 48.1 | 47.6 |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Jan) |  | -4.2% | 7.8% |
 | 07:00 | EUR | Moderate | German Industrial Production (MoM) (Jan) |  | 1.0% | -1.9% |
 | 07:00 | EUR | Low | German Industrial Production (YoY) (Jan) |  |  | -0.55% |
@@ -40,11 +40,11 @@
 | 23:30 | JPY | Low | Average Cash Earnings (YoY) (Jan) |  | 2.5% | 1.5% |
 | 23:30 | JPY | Moderate | Household Spending (YoY) (Jan) |  | 2.3% | -2.6% |
 | 23:30 | JPY | Moderate | Household Spending (MoM) (Jan) |  | 0.8% | -2.9% |
-| 23:50 | JPY | High | GDP (QoQ) (Q4) |  | 0.3% | 0.1% |
-| 23:50 | JPY | Moderate | GDP Annualized (QoQ) (Q4) |  | 1.2% | 0.2% |
-| 23:50 | JPY | Low | GDP Capital Expenditure (QoQ) (Q4) |  | 0.2% | 0.2% |
-| 23:50 | JPY | Low | GDP External Demand (QoQ) (Q4) |  | 0.0% | 0.0% |
+| 23:50 | JPY | High | GDP (QoQ) (Q4) |  | 0.1% | -0.6% |
+| 23:50 | JPY | Moderate | GDP Annualized (QoQ) (Q4) |  | 0.2% | -2.3% |
+| 23:50 | JPY | Low | GDP Capital Expenditure (QoQ) (Q4) |  | 0.2% | -0.2% |
+| 23:50 | JPY | Low | GDP External Demand (QoQ) (Q4) |  | 0.0% | -0.2% |
 | 23:50 | JPY | Moderate | GDP Price Index (YoY) (Q4) |  | 3.4% | 3.4% |
-| 23:50 | JPY | Low | GDP Private Consumption (QoQ) (Q4) |  | 0.1% | 0.1% |
+| 23:50 | JPY | Low | GDP Private Consumption (QoQ) (Q4) |  | 0.1% | 0.2% |
 | 23:50 | JPY | Low | M2 Money Stock (YoY) |  | 1.5% | 1.6% |
 | 23:50 | JPY | Low | M3 Money Supply (Feb) |  |  | 2,244.9B |
