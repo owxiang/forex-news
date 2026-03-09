@@ -13,7 +13,7 @@
 | 12:00 | MXN | CPI (YoY) (Feb) | 4.02% | 3.94% | 3.79% |
 | 12:00 | MXN | CPI (MoM) (Feb) | 0.50% | 0.43% | 0.38% |
 | 15:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Feb) | 3.0% |  | 3.1% |
-| 23:30 | JPY | Household Spending (YoY) (Jan) |  | 2.3% | -2.6% |
-| 23:30 | JPY | Household Spending (MoM) (Jan) |  | 0.8% | -2.9% |
-| 23:50 | JPY | GDP Annualized (QoQ) (Q4) |  | 0.2% | -2.3% |
-| 23:50 | JPY | GDP Price Index (YoY) (Q4) |  | 3.4% | 3.4% |
+| 19 min | JPY | Household Spending (YoY) (Jan) |  | 2.3% | -2.6% |
+| 19 min | JPY | Household Spending (MoM) (Jan) |  | 0.8% | -2.9% |
+| 39 min | JPY | GDP Annualized (QoQ) (Q4) |  | 0.2% | -2.3% |
+| 39 min | JPY | GDP Price Index (YoY) (Q4) |  | 3.4% | 3.4% |

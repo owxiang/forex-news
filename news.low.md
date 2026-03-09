@@ -23,12 +23,12 @@
 | 14:00 | EUR | French 6-Month BTF Auction | 2.217% |  | 2.065% |
 | 15:30 | USD | 3-Month Bill Auction | 3.605% |  | 3.610% |
 | 15:30 | USD | 6-Month Bill Auction | 3.535% |  | 3.535% |
-| 49 min | KRW | GDP (QoQ) (Q1) |  | -0.3% | 1.3% |
-| 49 min | KRW | GDP (YoY) (Q1) |  | 1.7% | 1.8% |
-| 23:30 | AUD | Westpac Consumer Sentiment (Mar) |  |  | -2.6% |
-| 23:30 | JPY | Average Cash Earnings (YoY) (Jan) |  | 2.5% | 1.5% |
-| 23:50 | JPY | GDP Capital Expenditure (QoQ) (Q4) |  | 0.2% | -0.2% |
-| 23:50 | JPY | GDP External Demand (QoQ) (Q4) |  | 0.0% | -0.2% |
-| 23:50 | JPY | GDP Private Consumption (QoQ) (Q4) |  | 0.1% | 0.2% |
-| 23:50 | JPY | M2 Money Stock (YoY) |  | 1.5% | 1.6% |
-| 23:50 | JPY | M3 Money Supply (Feb) |  |  | 2,244.9B |
+| 23:00 | KRW | GDP (QoQ) (Q1) | -0.2% | -0.3% | 1.3% |
+| 23:00 | KRW | GDP (YoY) (Q1) | 1.6% | 1.7% | 1.8% |
+| 19 min | AUD | Westpac Consumer Sentiment (Mar) |  |  | -2.6% |
+| 19 min | JPY | Average Cash Earnings (YoY) (Jan) |  | 2.5% | 1.5% |
+| 39 min | JPY | GDP Capital Expenditure (QoQ) (Q4) |  | 0.2% | -0.2% |
+| 39 min | JPY | GDP External Demand (QoQ) (Q4) |  | 0.0% | -0.2% |
+| 39 min | JPY | GDP Private Consumption (QoQ) (Q4) |  | 0.1% | 0.2% |
+| 39 min | JPY | M2 Money Stock (YoY) |  | 1.5% | 1.6% |
+| 39 min | JPY | M3 Money Supply (Feb) |  |  | 2,244.9B |
