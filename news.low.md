@@ -21,8 +21,8 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 2.339% |  | 2.097% |
 | 14:00 | EUR | French 3-Month BTF Auction | 2.097% |  | 2.030% |
 | 14:00 | EUR | French 6-Month BTF Auction | 2.217% |  | 2.065% |
-| 4 min | USD | 3-Month Bill Auction |  |  | 3.610% |
-| 4 min | USD | 6-Month Bill Auction |  |  | 3.535% |
+| 15:30 | USD | 3-Month Bill Auction | 3.605% |  | 3.610% |
+| 15:30 | USD | 6-Month Bill Auction | 3.535% |  | 3.535% |
 | 23:00 | KRW | GDP (QoQ) (Q1) |  | -0.3% | 1.3% |
 | 23:00 | KRW | GDP (YoY) (Q1) |  | 1.7% | 1.8% |
 | 23:30 | AUD | Westpac Consumer Sentiment (Mar) |  |  | -2.6% |
