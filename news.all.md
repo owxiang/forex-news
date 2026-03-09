@@ -31,9 +31,9 @@
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.339% |  | 2.097% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.097% |  | 2.030% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.217% |  | 2.065% |
-| 34 min | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Feb) |  |  | 3.1% |
-| 15:30 | USD | Low | 3-Month Bill Auction |  |  | 3.610% |
-| 15:30 | USD | Low | 6-Month Bill Auction |  |  | 3.535% |
+| 15:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Feb) | 3.0% |  | 3.1% |
+| 4 min | USD | Low | 3-Month Bill Auction |  |  | 3.610% |
+| 4 min | USD | Low | 6-Month Bill Auction |  |  | 3.535% |
 | 23:00 | KRW | Low | GDP (QoQ) (Q1) |  | -0.3% | 1.3% |
 | 23:00 | KRW | Low | GDP (YoY) (Q1) |  | 1.7% | 1.8% |
 | 23:30 | AUD | Low | Westpac Consumer Sentiment (Mar) |  |  | -2.6% |
