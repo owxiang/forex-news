@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 50 min | CNY | Moderate | CPI (YoY) (Feb) |  | 0.9% | 0.2% |
-| 50 min | CNY | Moderate | CPI (MoM) (Feb) |  |  | 0.2% |
-| 50 min | CNY | Moderate | PPI (YoY) (Feb) |  | -1.1% | -1.4% |
+| 01:30 | CNY | Moderate | CPI (YoY) (Feb) | 1.3% | 0.9% | 0.2% |
+| 01:30 | CNY | Moderate | CPI (MoM) (Feb) | 1.0% |  | 0.2% |
+| 01:30 | CNY | Moderate | PPI (YoY) (Feb) | -0.9% | -1.1% | -1.4% |
 | 03:00 | IDR | Low | Consumer Confidence (Feb) |  |  | 127.0 |
 | 05:00 | JPY | Low | Coincident Indicator (MoM) (Jan) |  |  | -0.6% |
 | 05:00 | JPY | Low | Leading Index (Jan) |  | 113.2 | 111.0 |

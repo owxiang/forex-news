@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 50 min | CNY | CPI (YoY) (Feb) |  | 0.9% | 0.2% |
-| 50 min | CNY | CPI (MoM) (Feb) |  |  | 0.2% |
-| 50 min | CNY | PPI (YoY) (Feb) |  | -1.1% | -1.4% |
+| 01:30 | CNY | CPI (YoY) (Feb) | 1.3% | 0.9% | 0.2% |
+| 01:30 | CNY | CPI (MoM) (Feb) | 1.0% |  | 0.2% |
+| 01:30 | CNY | PPI (YoY) (Feb) | -0.9% | -1.1% | -1.4% |
 | 07:00 | EUR | German Factory Orders (MoM) (Jan) |  | -4.2% | 7.8% |
 | 07:00 | EUR | German Industrial Production (MoM) (Jan) |  | 1.0% | -1.9% |
 | 08:00 | CHF | SECO Consumer Climate (Feb) |  | -29 | -30 |
