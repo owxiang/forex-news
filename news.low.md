@@ -17,10 +17,10 @@
 | 12:00 | MXN | Month Core Inflation (YoY) (Feb) | 4.50% | 4.50% | 4.52% |
 | 12:00 | MXN | PPI (MoM) (Feb) | 0.20% |  | 0.10% |
 | 12:00 | MXN | PPI (YoY) (Feb) | 1.10% |  | 1.50% |
-| 25 min | USD | CB Employment Trends Index (Feb) |  |  | 105.06 |
-| 25 min | EUR | French 12-Month BTF Auction |  |  | 2.097% |
-| 25 min | EUR | French 3-Month BTF Auction |  |  | 2.030% |
-| 25 min | EUR | French 6-Month BTF Auction |  |  | 2.065% |
+| 14:00 | USD | CB Employment Trends Index (Feb) | 105.37 |  | 105.18 |
+| 14:00 | EUR | French 12-Month BTF Auction | 2.339% |  | 2.097% |
+| 14:00 | EUR | French 3-Month BTF Auction | 2.097% |  | 2.030% |
+| 14:00 | EUR | French 6-Month BTF Auction | 2.217% |  | 2.065% |
 | 15:30 | USD | 3-Month Bill Auction |  |  | 3.610% |
 | 15:30 | USD | 6-Month Bill Auction |  |  | 3.535% |
 | 23:00 | KRW | GDP (QoQ) (Q1) |  | -0.3% | 1.3% |

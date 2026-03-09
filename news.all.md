@@ -27,11 +27,11 @@
 | 12:00 | MXN | Low | Month Core Inflation (YoY) (Feb) | 4.50% | 4.50% | 4.52% |
 | 12:00 | MXN | Low | PPI (MoM) (Feb) | 0.20% |  | 0.10% |
 | 12:00 | MXN | Low | PPI (YoY) (Feb) | 1.10% |  | 1.50% |
-| 25 min | USD | Low | CB Employment Trends Index (Feb) |  |  | 105.06 |
-| 25 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.097% |
-| 25 min | EUR | Low | French 3-Month BTF Auction |  |  | 2.030% |
-| 25 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.065% |
-| 15:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Feb) |  |  | 3.1% |
+| 14:00 | USD | Low | CB Employment Trends Index (Feb) | 105.37 |  | 105.18 |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.339% |  | 2.097% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.097% |  | 2.030% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.217% |  | 2.065% |
+| 34 min | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Feb) |  |  | 3.1% |
 | 15:30 | USD | Low | 3-Month Bill Auction |  |  | 3.610% |
 | 15:30 | USD | Low | 6-Month Bill Auction |  |  | 3.535% |
 | 23:00 | KRW | Low | GDP (QoQ) (Q1) |  | -0.3% | 1.3% |
