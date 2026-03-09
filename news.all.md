@@ -17,14 +17,14 @@
 | 07:00 | NOK | Low | PPI (YoY) (Feb) | -9.4% |  | -7.8% |
 | 08:00 | CHF | Moderate | SECO Consumer Climate (Feb) | -30 | -29 | -30 |
 | 09:00 | SGD | Low | Foreign Reserves USD (MoM) (Feb) | 416.1B |  | 417.0B |
-| 7 min | EUR | Low | Sentix Investor Confidence (Mar) |  | -3.1 | 4.2 |
-| 37 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 10:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 09:30 | EUR | Low | Sentix Investor Confidence (Mar) | -3.1 | -3.1 | 4.2 |
+| 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 8 min | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 12:00 | MXN | Low | Core CPI (MoM) (Feb) |  |  | 0.60% |
-| 12:00 | MXN | Moderate | CPI (YoY) (Feb) |  |  | 3.79% |
-| 12:00 | MXN | Moderate | CPI (MoM) (Feb) |  |  | 0.38% |
-| 12:00 | MXN | Low | Month Core Inflation (YoY) (Feb) |  |  | 4.52% |
+| 12:00 | MXN | Low | Core CPI (MoM) (Feb) |  | 0.47% | 0.60% |
+| 12:00 | MXN | Moderate | CPI (YoY) (Feb) |  | 3.94% | 3.79% |
+| 12:00 | MXN | Moderate | CPI (MoM) (Feb) |  | 0.43% | 0.38% |
+| 12:00 | MXN | Low | Month Core Inflation (YoY) (Feb) |  | 4.50% | 4.52% |
 | 12:00 | MXN | Low | PPI (MoM) (Feb) |  |  | 0.20% |
 | 12:00 | MXN | Low | PPI (YoY) (Feb) |  |  | 1.50% |
 | 14:00 | USD | Low | CB Employment Trends Index (Feb) |  |  | 105.06 |
