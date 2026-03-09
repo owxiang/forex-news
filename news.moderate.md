@@ -8,7 +8,7 @@
 | 07:00 | EUR | German Factory Orders (MoM) (Jan) | -11.1% | -4.2% | 6.4% |
 | 07:00 | EUR | German Industrial Production (MoM) (Jan) | -0.5% | 1.0% | -1.0% |
 | 08:00 | CHF | SECO Consumer Climate (Feb) | -30 | -29 | -30 |
-| 10:00 | EUR | Eurogroup Meetings |  |  |  |
+| 37 min | EUR | Eurogroup Meetings |  |  |  |
 | 10:30 | EUR | ECB's Elderson Speaks |  |  |  |
 | 12:00 | MXN | CPI (YoY) (Feb) |  |  | 3.79% |
 | 12:00 | MXN | CPI (MoM) (Feb) |  |  | 0.38% |

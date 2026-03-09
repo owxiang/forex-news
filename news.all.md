@@ -16,9 +16,9 @@
 | 07:00 | EUR | Low | German Industrial Production (YoY) (Jan) | -1.09% |  | 0.44% |
 | 07:00 | NOK | Low | PPI (YoY) (Feb) | -9.4% |  | -7.8% |
 | 08:00 | CHF | Moderate | SECO Consumer Climate (Feb) | -30 | -29 | -30 |
-| 40 min | SGD | Low | Foreign Reserves USD (MoM) (Feb) |  |  | 417.0B |
-| 09:30 | EUR | Low | Sentix Investor Confidence (Mar) |  | -3.1 | 4.2 |
-| 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 09:00 | SGD | Low | Foreign Reserves USD (MoM) (Feb) | 416.1B |  | 417.0B |
+| 7 min | EUR | Low | Sentix Investor Confidence (Mar) |  | -3.1 | 4.2 |
+| 37 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 10:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:00 | MXN | Low | Core CPI (MoM) (Feb) |  |  | 0.60% |
