@@ -1,3 +1,5 @@
-## 08 March 2026 - High Impact Forex News
+## 09 March 2026 - High Impact Forex News
 
-There is no high impact news today.
+| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 23:50 | JPY | GDP (QoQ) (Q4) |  | 0.3% | 0.1% |
