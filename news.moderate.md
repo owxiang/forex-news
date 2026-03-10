@@ -1,19 +1,17 @@
-## 09 March 2026 - Moderate Impact Forex News
+## 10 March 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | CNY | CPI (YoY) (Feb) | 1.3% | 0.9% | 0.2% |
-| 01:30 | CNY | CPI (MoM) (Feb) | 1.0% |  | 0.2% |
-| 01:30 | CNY | PPI (YoY) (Feb) | -0.9% | -1.1% | -1.4% |
-| 07:00 | EUR | German Factory Orders (MoM) (Jan) | -11.1% | -4.2% | 6.4% |
-| 07:00 | EUR | German Industrial Production (MoM) (Jan) | -0.5% | 1.0% | -1.0% |
-| 08:00 | CHF | SECO Consumer Climate (Feb) | -30 | -29 | -30 |
-| 10:00 | EUR | Eurogroup Meetings |  |  |  |
-| 10:30 | EUR | ECB's Elderson Speaks |  |  |  |
-| 12:00 | MXN | CPI (YoY) (Feb) | 4.02% | 3.94% | 3.79% |
-| 12:00 | MXN | CPI (MoM) (Feb) | 0.50% | 0.43% | 0.38% |
-| 15:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Feb) | 3.0% |  | 3.1% |
-| 19 min | JPY | Household Spending (YoY) (Jan) |  | 2.3% | -2.6% |
-| 19 min | JPY | Household Spending (MoM) (Jan) |  | 0.8% | -2.9% |
-| 39 min | JPY | GDP Annualized (QoQ) (Q4) |  | 0.2% | -2.3% |
-| 39 min | JPY | GDP Price Index (YoY) (Q4) |  | 3.4% | 3.4% |
+| 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Feb) | 0.7% | 2.1% | 2.3% |
+| 00:30 | AUD | Building Approvals (MoM) (Jan) | -7.2% | -7.2% | -14.9% |
+| 00:30 | AUD | NAB Business Confidence (Feb) | -1 |  | 4 |
+| 03:00 | CNY | Exports (YoY) (Feb) |  |  | 6.6% |
+| 03:00 | CNY | Imports (YoY) (Feb) |  |  | 5.7% |
+| 03:00 | CNY | Trade Balance (USD) (Feb) |  | 175.00B | 114.10B |
+| 07:00 | EUR | German Trade Balance (Jan) |  | 15.6B | 17.1B |
+| 09:30 | ZAR | GDP Annualized (QoQ) (Q4) |  |  | 0.5% |
+| 12:15 | USD | ADP Employment Change Weekly |  |  | 12.80K |
+| 14:00 | USD | Existing Home Sales (MoM) (Feb) |  |  | -8.4% |
+| 16:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
+| 17:00 | USD | 3-Year Note Auction |  |  | 3.518% |
+| 20:30 | USD | API Weekly Crude Oil Stock |  |  | 5.600M |

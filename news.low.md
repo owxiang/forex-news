@@ -1,34 +1,32 @@
-## 09 March 2026 - Low Impact Forex News
+## 10 March 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:40 | IDR | Motorbike Sales (YoY) (Feb) | 1.00% |  | 3.10% |
-| 05:00 | JPY | Coincident Indicator (MoM) (Jan) | 2.5% |  | -0.5% |
-| 05:00 | JPY | Leading Index (Jan) | 112.4 | 113.0 | 110.3 |
-| 05:00 | JPY | Leading Index (MoM) (Jan) | 2.1% |  | 1.1% |
-| 06:00 | JPY | Economy Watchers Current Index (Feb) | 48.9 | 48.1 | 47.6 |
-| 06:25 | IDR | Consumer Confidence (Feb) | 125.2 |  | 127.0 |
-| 07:00 | EUR | German Industrial Production (YoY) (Jan) | -1.09% |  | 0.44% |
-| 07:00 | NOK | PPI (YoY) (Feb) | -9.4% |  | -7.8% |
-| 09:00 | SGD | Foreign Reserves USD (MoM) (Feb) | 416.1B |  | 417.0B |
-| 09:30 | EUR | Sentix Investor Confidence (Mar) | -3.1 | -3.1 | 4.2 |
-| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:00 | MXN | Core CPI (MoM) (Feb) | 0.46% | 0.47% | 0.60% |
-| 12:00 | MXN | Month Core Inflation (YoY) (Feb) | 4.50% | 4.50% | 4.52% |
-| 12:00 | MXN | PPI (MoM) (Feb) | 0.20% |  | 0.10% |
-| 12:00 | MXN | PPI (YoY) (Feb) | 1.10% |  | 1.50% |
-| 14:00 | USD | CB Employment Trends Index (Feb) | 105.37 |  | 105.18 |
-| 14:00 | EUR | French 12-Month BTF Auction | 2.339% |  | 2.097% |
-| 14:00 | EUR | French 3-Month BTF Auction | 2.097% |  | 2.030% |
-| 14:00 | EUR | French 6-Month BTF Auction | 2.217% |  | 2.065% |
-| 15:30 | USD | 3-Month Bill Auction | 3.605% |  | 3.610% |
-| 15:30 | USD | 6-Month Bill Auction | 3.535% |  | 3.535% |
-| 23:00 | KRW | GDP (QoQ) (Q1) | -0.2% | -0.3% | 1.3% |
-| 23:00 | KRW | GDP (YoY) (Q1) | 1.6% | 1.7% | 1.8% |
-| 19 min | AUD | Westpac Consumer Sentiment (Mar) |  |  | -2.6% |
-| 19 min | JPY | Average Cash Earnings (YoY) (Jan) |  | 2.5% | 1.5% |
-| 39 min | JPY | GDP Capital Expenditure (QoQ) (Q4) |  | 0.2% | -0.2% |
-| 39 min | JPY | GDP External Demand (QoQ) (Q4) |  | 0.0% | -0.2% |
-| 39 min | JPY | GDP Private Consumption (QoQ) (Q4) |  | 0.1% | 0.2% |
-| 39 min | JPY | M2 Money Stock (YoY) |  | 1.5% | 1.6% |
-| 39 min | JPY | M3 Money Supply (Feb) |  |  | 2,244.9B |
+| 00:30 | AUD | Building Approvals (YoY) (Jan) |  |  | 8.10% |
+| 00:30 | AUD | NAB Business Survey (Feb) | 7 |  | 7 |
+| 00:30 | AUD | Private House Approvals (Jan) |  | 1.1% | 0.4% |
+| 03:00 | CNY | Exports (Feb) |  |  | 5.20M |
+| 03:00 | CNY | Imports (Feb) |  |  | 4.40M |
+| 03:00 | CNY | Trade Balance (Feb) |  | 950.00B | 808.80B |
+| 03:00 | IDR | Retail Sales (YoY) (Jan) |  |  | 3.5% |
+| 04:00 | IDR | Car Sales (YoY) (Feb) | 12.20% |  | 7.00% |
+| 07:00 | EUR | German Exports (MoM) (Jan) |  | -2.0% | 4.0% |
+| 07:00 | EUR | German Imports (MoM) (Jan) |  |  | 1.4% |
+| 07:00 | NOK | Core CPI YTD (Feb) |  |  | 3.4% |
+| 07:00 | NOK | Core Inflation (MoM) (Feb) |  |  | 0.3% |
+| 07:00 | NOK | CPI (MoM) (Feb) |  |  | 0.6% |
+| 07:00 | NOK | CPI (YoY) (Feb) |  |  | 3.6% |
+| 07:45 | EUR | French Current Account (Jan) |  |  | -0.60B |
+| 07:45 | EUR | French Exports (Jan) |  |  | 53.1B |
+| 07:45 | EUR | French Imports (Jan) |  |  | 57.9B |
+| 07:45 | EUR | French Trade Balance (Jan) |  | -4.6B | -4.8B |
+| 09:00 | EUR | Italian PPI (YoY) (Jan) |  |  | -1.4% |
+| 09:00 | EUR | Italian PPI (MoM) (Jan) |  |  | -0.7% |
+| 09:30 | ZAR | GDP (YoY) (Q4) |  |  | 2.1% |
+| 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 1.939% |
+| 10:00 | USD | NFIB Small Business Optimism (Feb) |  | 99.8 | 99.3 |
+| 10:00 | EUR | ECOFIN Meetings |  |  |  |
+| 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.020% |
+| 12:55 | USD | Redbook (YoY) |  |  | 7.0% |
+| 23:50 | JPY | PPI (YoY) (Feb) |  | 2.2% | 2.3% |
+| 23:50 | JPY | PPI (MoM) (Feb) |  | 0.1% | 0.2% |
