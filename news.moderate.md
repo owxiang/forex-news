@@ -12,6 +12,6 @@
 | 09:30 | ZAR | GDP Annualized (QoQ) (Q4) | 0.4% |  | 0.5% |
 | 12:15 | USD | ADP Employment Change Weekly | 15.50K |  | 12.80K |
 | 14:00 | USD | Existing Home Sales (MoM) (Feb) | 1.7% |  | -5.9% |
-| 35 min | USD | EIA Short-Term Energy Outlook |  |  |  |
-| 17:00 | USD | 3-Year Note Auction |  |  | 3.518% |
+| 16:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
+| 32 min | USD | 3-Year Note Auction |  |  | 3.518% |
 | 20:30 | USD | API Weekly Crude Oil Stock |  | 1.400M | 5.600M |

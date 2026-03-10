@@ -40,8 +40,8 @@
 | 12:55 | USD | Low | Redbook (YoY) | 6.2% |  | 7.0% |
 | 14:00 | USD | High | Existing Home Sales (Feb) | 4.09M | 3.89M | 4.02M |
 | 14:00 | USD | Moderate | Existing Home Sales (MoM) (Feb) | 1.7% |  | -5.9% |
-| 35 min | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
-| 17:00 | USD | Moderate | 3-Year Note Auction |  |  | 3.518% |
+| 16:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
+| 32 min | USD | Moderate | 3-Year Note Auction |  |  | 3.518% |
 | 20:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 1.400M | 5.600M |
 | 23:50 | JPY | Low | PPI (YoY) (Feb) |  | 2.2% | 2.3% |
 | 23:50 | JPY | Low | PPI (MoM) (Feb) |  | 0.1% | 0.2% |
