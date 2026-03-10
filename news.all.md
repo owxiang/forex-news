@@ -17,17 +17,17 @@
 | 03:30 | IDR | Low | Retail Sales (YoY) (Jan) | 5.7% |  | 3.5% |
 | 04:00 | IDR | Low | Car Sales (YoY) (Feb) | 12.20% |  | 7.00% |
 | 06:00 | JPY | Low | Machine Tool Orders (YoY) (Feb) | 24.2% | 25.3% | 10.6% |
-| 38 min | EUR | Low | German Exports (MoM) (Jan) |  | -2.0% | 4.0% |
-| 38 min | EUR | Low | German Imports (MoM) (Jan) |  |  | 1.4% |
-| 38 min | EUR | Moderate | German Trade Balance (Jan) |  | 15.4B | 17.1B |
-| 38 min | NOK | Low | Core CPI YTD (Feb) |  |  | 3.4% |
-| 38 min | NOK | Low | Core Inflation (MoM) (Feb) |  |  | 0.3% |
-| 38 min | NOK | Low | CPI (MoM) (Feb) |  |  | 0.6% |
-| 38 min | NOK | Low | CPI (YoY) (Feb) |  |  | 3.6% |
-| 07:45 | EUR | Low | French Current Account (Jan) |  |  | -0.60B |
-| 07:45 | EUR | Low | French Exports (Jan) |  |  | 53.1B |
-| 07:45 | EUR | Low | French Imports (Jan) |  |  | 57.9B |
-| 07:45 | EUR | Low | French Trade Balance (Jan) |  | -5.2B | -4.8B |
+| 07:00 | EUR | Low | German Exports (MoM) (Jan) | -2.3% | -2.0% | 3.9% |
+| 07:00 | EUR | Low | German Imports (MoM) (Jan) | -5.9% |  | 1.3% |
+| 07:00 | EUR | Moderate | German Trade Balance (Jan) | 21.2B | 15.4B | 17.4B |
+| 07:00 | NOK | Low | Core CPI YTD (Feb) | 3.0% |  | 3.4% |
+| 07:00 | NOK | Low | Core Inflation (MoM) (Feb) | 0.7% |  | 0.3% |
+| 07:00 | NOK | Low | CPI (MoM) (Feb) | 0.6% |  | 0.6% |
+| 07:00 | NOK | Low | CPI (YoY) (Feb) | 2.7% |  | 3.6% |
+| 24 min | EUR | Low | French Current Account (Jan) |  |  | -0.60B |
+| 24 min | EUR | Low | French Exports (Jan) |  |  | 53.1B |
+| 24 min | EUR | Low | French Imports (Jan) |  |  | 57.9B |
+| 24 min | EUR | Low | French Trade Balance (Jan) |  | -5.2B | -4.8B |
 | 09:00 | EUR | Low | Italian PPI (MoM) (Jan) |  |  | -0.7% |
 | 09:00 | EUR | Low | Italian PPI (YoY) (Jan) |  |  | -1.4% |
 | 09:30 | ZAR | Moderate | GDP Annualized (QoQ) (Q4) |  |  | 0.5% |
