@@ -15,7 +15,7 @@
 | 03:00 | CNY | Moderate | Imports (YoY) (Feb) |  |  | 5.7% |
 | 03:00 | CNY | Moderate | Trade Balance (USD) (Feb) |  | 175.00B | 114.10B |
 | 03:00 | IDR | Low | Retail Sales (YoY) (Jan) |  |  | 3.5% |
-| 04:00 | IDR | Low | Car Sales (YoY) (Feb) | 12.20% |  | 7.00% |
+| 57 min | IDR | Low | Car Sales (YoY) (Feb) | 12.20% |  | 7.00% |
 | 07:00 | EUR | Low | German Exports (MoM) (Jan) |  | -2.0% | 4.0% |
 | 07:00 | EUR | Low | German Imports (MoM) (Jan) |  |  | 1.4% |
 | 07:00 | EUR | Moderate | German Trade Balance (Jan) |  | 15.6B | 17.1B |

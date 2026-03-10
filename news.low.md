@@ -9,7 +9,7 @@
 | 03:00 | CNY | Imports (Feb) |  |  | 4.40M |
 | 03:00 | CNY | Trade Balance (Feb) |  | 950.00B | 808.80B |
 | 03:00 | IDR | Retail Sales (YoY) (Jan) |  |  | 3.5% |
-| 04:00 | IDR | Car Sales (YoY) (Feb) | 12.20% |  | 7.00% |
+| 57 min | IDR | Car Sales (YoY) (Feb) | 12.20% |  | 7.00% |
 | 07:00 | EUR | German Exports (MoM) (Jan) |  | -2.0% | 4.0% |
 | 07:00 | EUR | German Imports (MoM) (Jan) |  |  | 1.4% |
 | 07:00 | NOK | Core CPI YTD (Feb) |  |  | 3.4% |
