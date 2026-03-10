@@ -42,6 +42,6 @@
 | 14:00 | USD | Moderate | Existing Home Sales (MoM) (Feb) | 1.7% |  | -5.9% |
 | 16:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 17:00 | USD | Moderate | 3-Year Note Auction | 3.579% |  | 3.518% |
-| 17 min | USD | Moderate | API Weekly Crude Oil Stock |  | 1.400M | 5.600M |
+| 20:30 | USD | Moderate | API Weekly Crude Oil Stock | -1.700M | 1.400M | 5.600M |
 | 23:50 | JPY | Low | PPI (YoY) (Feb) |  | 2.2% | 2.3% |
 | 23:50 | JPY | Low | PPI (MoM) (Feb) |  | 0.1% | 0.2% |
