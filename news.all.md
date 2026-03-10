@@ -16,7 +16,7 @@
 | 04:20 | CNY | Moderate | Exports (YoY) (Feb) | 39.6% | 7.1% | 6.6% |
 | 04:20 | CNY | Moderate | Imports (YoY) (Feb) | 13.8% | 6.3% | 5.7% |
 | 04:20 | CNY | Moderate | Trade Balance (USD) (Feb) | 90.98B | 177.40B | 114.11B |
-| 06:00 | JPY | Low | Machine Tool Orders (YoY) (Feb) |  | 25.3% | 25.3% |
+| 35 min | JPY | Low | Machine Tool Orders (YoY) (Feb) |  | 25.3% | 25.3% |
 | 07:00 | EUR | Low | German Exports (MoM) (Jan) |  | -2.0% | 4.0% |
 | 07:00 | EUR | Low | German Imports (MoM) (Jan) |  |  | 1.4% |
 | 07:00 | EUR | Moderate | German Trade Balance (Jan) |  | 15.4B | 17.1B |
@@ -27,7 +27,7 @@
 | 07:45 | EUR | Low | French Current Account (Jan) |  |  | -0.60B |
 | 07:45 | EUR | Low | French Exports (Jan) |  |  | 53.1B |
 | 07:45 | EUR | Low | French Imports (Jan) |  |  | 57.9B |
-| 07:45 | EUR | Low | French Trade Balance (Jan) |  | -4.6B | -4.8B |
+| 07:45 | EUR | Low | French Trade Balance (Jan) |  | -5.2B | -4.8B |
 | 09:00 | EUR | Low | Italian PPI (MoM) (Jan) |  |  | -0.7% |
 | 09:00 | EUR | Low | Italian PPI (YoY) (Jan) |  |  | -1.4% |
 | 09:30 | ZAR | Moderate | GDP Annualized (QoQ) (Q4) |  |  | 0.5% |

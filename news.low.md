@@ -10,7 +10,7 @@
 | 03:00 | CNY | Trade Balance (Feb) | 1,503.49B | 1,250.00B | 808.80B |
 | 03:30 | IDR | Retail Sales (YoY) (Jan) | 5.7% |  | 3.5% |
 | 04:00 | IDR | Car Sales (YoY) (Feb) | 12.20% |  | 7.00% |
-| 06:00 | JPY | Machine Tool Orders (YoY) (Feb) |  | 25.3% | 25.3% |
+| 35 min | JPY | Machine Tool Orders (YoY) (Feb) |  | 25.3% | 25.3% |
 | 07:00 | EUR | German Exports (MoM) (Jan) |  | -2.0% | 4.0% |
 | 07:00 | EUR | German Imports (MoM) (Jan) |  |  | 1.4% |
 | 07:00 | NOK | Core CPI YTD (Feb) |  |  | 3.4% |
@@ -20,7 +20,7 @@
 | 07:45 | EUR | French Current Account (Jan) |  |  | -0.60B |
 | 07:45 | EUR | French Exports (Jan) |  |  | 53.1B |
 | 07:45 | EUR | French Imports (Jan) |  |  | 57.9B |
-| 07:45 | EUR | French Trade Balance (Jan) |  | -4.6B | -4.8B |
+| 07:45 | EUR | French Trade Balance (Jan) |  | -5.2B | -4.8B |
 | 09:00 | EUR | Italian PPI (MoM) (Jan) |  |  | -0.7% |
 | 09:00 | EUR | Italian PPI (YoY) (Jan) |  |  | -1.4% |
 | 09:30 | ZAR | GDP (YoY) (Q4) |  |  | 2.1% |
