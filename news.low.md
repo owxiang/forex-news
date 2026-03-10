@@ -17,12 +17,12 @@
 | 07:00 | NOK | Core Inflation (MoM) (Feb) | 0.7% |  | 0.3% |
 | 07:00 | NOK | CPI (MoM) (Feb) | 0.6% |  | 0.6% |
 | 07:00 | NOK | CPI (YoY) (Feb) | 2.7% |  | 3.6% |
-| 24 min | EUR | French Current Account (Jan) |  |  | -0.60B |
-| 24 min | EUR | French Exports (Jan) |  |  | 53.1B |
-| 24 min | EUR | French Imports (Jan) |  |  | 57.9B |
-| 24 min | EUR | French Trade Balance (Jan) |  | -5.2B | -4.8B |
-| 09:00 | EUR | Italian PPI (MoM) (Jan) |  |  | -0.7% |
-| 09:00 | EUR | Italian PPI (YoY) (Jan) |  |  | -1.4% |
+| 07:45 | EUR | French Current Account (Jan) | 2.10B |  | 0.10B |
+| 07:45 | EUR | French Exports (Jan) | 53.4B |  | 53.0B |
+| 07:45 | EUR | French Imports (Jan) | 55.3B |  | 57.3B |
+| 07:45 | EUR | French Trade Balance (Jan) | -1.8B | -5.2B | -4.3B |
+| 42 min | EUR | Italian PPI (MoM) (Jan) |  |  | -0.7% |
+| 42 min | EUR | Italian PPI (YoY) (Jan) |  |  | -1.4% |
 | 09:30 | ZAR | GDP (YoY) (Q4) |  |  | 2.1% |
 | 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 1.939% |
 | 10:00 | USD | NFIB Small Business Optimism (Feb) |  | 99.6 | 99.3 |

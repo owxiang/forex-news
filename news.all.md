@@ -24,12 +24,12 @@
 | 07:00 | NOK | Low | Core Inflation (MoM) (Feb) | 0.7% |  | 0.3% |
 | 07:00 | NOK | Low | CPI (MoM) (Feb) | 0.6% |  | 0.6% |
 | 07:00 | NOK | Low | CPI (YoY) (Feb) | 2.7% |  | 3.6% |
-| 24 min | EUR | Low | French Current Account (Jan) |  |  | -0.60B |
-| 24 min | EUR | Low | French Exports (Jan) |  |  | 53.1B |
-| 24 min | EUR | Low | French Imports (Jan) |  |  | 57.9B |
-| 24 min | EUR | Low | French Trade Balance (Jan) |  | -5.2B | -4.8B |
-| 09:00 | EUR | Low | Italian PPI (MoM) (Jan) |  |  | -0.7% |
-| 09:00 | EUR | Low | Italian PPI (YoY) (Jan) |  |  | -1.4% |
+| 07:45 | EUR | Low | French Current Account (Jan) | 2.10B |  | 0.10B |
+| 07:45 | EUR | Low | French Exports (Jan) | 53.4B |  | 53.0B |
+| 07:45 | EUR | Low | French Imports (Jan) | 55.3B |  | 57.3B |
+| 07:45 | EUR | Low | French Trade Balance (Jan) | -1.8B | -5.2B | -4.3B |
+| 42 min | EUR | Low | Italian PPI (MoM) (Jan) |  |  | -0.7% |
+| 42 min | EUR | Low | Italian PPI (YoY) (Jan) |  |  | -1.4% |
 | 09:30 | ZAR | Moderate | GDP Annualized (QoQ) (Q4) |  |  | 0.5% |
 | 09:30 | ZAR | Low | GDP (YoY) (Q4) |  |  | 2.1% |
 | 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 1.939% |
