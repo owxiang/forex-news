@@ -10,13 +10,13 @@
 | 03:00 | CNY | Trade Balance (Feb) | 1,503.49B | 1,250.00B | 808.80B |
 | 03:30 | IDR | Retail Sales (YoY) (Jan) | 5.7% |  | 3.5% |
 | 04:00 | IDR | Car Sales (YoY) (Feb) | 12.20% |  | 7.00% |
-| 35 min | JPY | Machine Tool Orders (YoY) (Feb) |  | 25.3% | 25.3% |
-| 07:00 | EUR | German Exports (MoM) (Jan) |  | -2.0% | 4.0% |
-| 07:00 | EUR | German Imports (MoM) (Jan) |  |  | 1.4% |
-| 07:00 | NOK | Core CPI YTD (Feb) |  |  | 3.4% |
-| 07:00 | NOK | Core Inflation (MoM) (Feb) |  |  | 0.3% |
-| 07:00 | NOK | CPI (MoM) (Feb) |  |  | 0.6% |
-| 07:00 | NOK | CPI (YoY) (Feb) |  |  | 3.6% |
+| 06:00 | JPY | Machine Tool Orders (YoY) (Feb) | 24.2% | 25.3% | 10.6% |
+| 38 min | EUR | German Exports (MoM) (Jan) |  | -2.0% | 4.0% |
+| 38 min | EUR | German Imports (MoM) (Jan) |  |  | 1.4% |
+| 38 min | NOK | Core CPI YTD (Feb) |  |  | 3.4% |
+| 38 min | NOK | Core Inflation (MoM) (Feb) |  |  | 0.3% |
+| 38 min | NOK | CPI (MoM) (Feb) |  |  | 0.6% |
+| 38 min | NOK | CPI (YoY) (Feb) |  |  | 3.6% |
 | 07:45 | EUR | French Current Account (Jan) |  |  | -0.60B |
 | 07:45 | EUR | French Exports (Jan) |  |  | 53.1B |
 | 07:45 | EUR | French Imports (Jan) |  |  | 57.9B |
