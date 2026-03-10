@@ -14,4 +14,4 @@
 | 14:00 | USD | Existing Home Sales (MoM) (Feb) | 1.7% |  | -5.9% |
 | 16:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 17:00 | USD | 3-Year Note Auction | 3.579% |  | 3.518% |
-| 20:30 | USD | API Weekly Crude Oil Stock |  | 1.400M | 5.600M |
+| 17 min | USD | API Weekly Crude Oil Stock |  | 1.400M | 5.600M |
