@@ -8,12 +8,6 @@
 | 00:30 | AUD | Moderate | NAB Business Confidence (Feb) | -1 |  | 4 |
 | 00:30 | AUD | Low | NAB Business Survey (Feb) | 7 |  | 7 |
 | 00:30 | AUD | Low | Private House Approvals (Jan) | 1.1% | 1.1% | 0.4% |
-| 03:00 | CNY | Low | Exports (Feb) | 36.10M |  | 5.20M |
-| 03:00 | CNY | Low | Imports (Feb) | 10.90M |  | 4.40M |
-| 03:00 | CNY | Low | Trade Balance (Feb) | 1,503.49B | 1,250.00B | 808.80B |
-| 03:00 | CNY | Moderate | Exports (YoY) (Feb) | 21.8% | 7.1% | 6.6% |
-| 03:00 | CNY | Moderate | Imports (YoY) (Feb) | 19.8% | 6.3% | 5.7% |
-| 03:00 | CNY | Moderate | Trade Balance (USD) (Feb) | 213.62B | 177.40B | 114.11B |
 | 03:30 | IDR | Low | Retail Sales (YoY) (Jan) | 5.7% |  | 3.5% |
 | 04:00 | IDR | Low | Car Sales (YoY) (Feb) | 12.20% |  | 7.00% |
 | 06:00 | JPY | Low | Machine Tool Orders (YoY) (Feb) | 24.2% | 25.3% | 10.6% |
@@ -22,19 +16,25 @@
 | 07:00 | EUR | Moderate | German Trade Balance (Jan) | 21.2B | 15.4B | 17.4B |
 | 07:00 | NOK | Low | Core CPI YTD (Feb) | 3.0% |  | 3.4% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Feb) | 0.7% |  | 0.3% |
-| 07:00 | NOK | Low | CPI (MoM) (Feb) | 0.6% |  | 0.6% |
 | 07:00 | NOK | Low | CPI (YoY) (Feb) | 2.7% |  | 3.6% |
+| 07:00 | NOK | Low | CPI (MoM) (Feb) | 0.6% |  | 0.6% |
 | 07:45 | EUR | Low | French Current Account (Jan) | 2.10B |  | 0.10B |
 | 07:45 | EUR | Low | French Exports (Jan) | 53.4B |  | 53.0B |
 | 07:45 | EUR | Low | French Imports (Jan) | 55.3B |  | 57.3B |
 | 07:45 | EUR | Low | French Trade Balance (Jan) | -1.8B | -5.2B | -4.3B |
-| 42 min | EUR | Low | Italian PPI (MoM) (Jan) |  |  | -0.7% |
-| 42 min | EUR | Low | Italian PPI (YoY) (Jan) |  |  | -1.4% |
-| 09:30 | ZAR | Moderate | GDP Annualized (QoQ) (Q4) |  |  | 0.5% |
-| 09:30 | ZAR | Low | GDP (YoY) (Q4) |  |  | 2.1% |
-| 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 1.939% |
-| 10:00 | USD | Low | NFIB Small Business Optimism (Feb) |  | 99.6 | 99.3 |
-| 10:00 | EUR | Low | ECOFIN Meetings |  |  |  |
+| 09:00 | EUR | Low | Italian PPI (YoY) (Jan) | -1.6% |  | -1.4% |
+| 09:00 | EUR | Low | Italian PPI (MoM) (Jan) | 1.5% |  | -0.7% |
+| 09:12 | CNY | Moderate | Exports (YoY) (Feb) | 21.8% | 7.1% | 6.6% |
+| 09:13 | CNY | Moderate | Imports (YoY) (Feb) | 19.8% | 6.3% | 5.7% |
+| 09:13 | CNY | Moderate | Trade Balance (USD) (Feb) | 213.62B | 177.40B | 114.11B |
+| 09:13 | CNY | Low | Exports (Feb) | 13.10M |  | 5.20M |
+| 09:13 | CNY | Low | Imports (Feb) | 10.90M |  | 4.40M |
+| 09:13 | CNY | Low | Trade Balance (Feb) | 1.50B | 1,250.00B | 808.55B |
+| 9 min | ZAR | Moderate | GDP Annualized (QoQ) (Q4) |  |  | 0.5% |
+| 9 min | ZAR | Low | GDP (YoY) (Q4) |  |  | 2.1% |
+| 19 min | EUR | Low | Spanish 3-Month Letras Auction |  |  | 1.939% |
+| 39 min | USD | Low | NFIB Small Business Optimism (Feb) |  | 99.6 | 99.3 |
+| 39 min | EUR | Low | ECOFIN Meetings |  |  |  |
 | 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 2.020% |
 | 12:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 12.80K |
 | 12:55 | USD | Low | Redbook (YoY) |  |  | 7.0% |
