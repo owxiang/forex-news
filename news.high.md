@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 27 min | USD | Existing Home Sales (Feb) |  | 3.89M | 3.91M |
+| 14:00 | USD | Existing Home Sales (Feb) | 4.09M | 3.89M | 4.02M |

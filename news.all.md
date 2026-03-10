@@ -38,8 +38,8 @@
 | 10:30 | EUR | Low | German 2-Year Schatz Auction | 2.270% |  | 2.020% |
 | 12:15 | USD | Moderate | ADP Employment Change Weekly | 15.50K |  | 12.80K |
 | 12:55 | USD | Low | Redbook (YoY) | 6.2% |  | 7.0% |
-| 27 min | USD | High | Existing Home Sales (Feb) |  | 3.89M | 3.91M |
-| 27 min | USD | Moderate | Existing Home Sales (MoM) (Feb) |  |  | -8.4% |
+| 14:00 | USD | High | Existing Home Sales (Feb) | 4.09M | 3.89M | 4.02M |
+| 14:00 | USD | Moderate | Existing Home Sales (MoM) (Feb) | 1.7% |  | -5.9% |
 | 16:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 17:00 | USD | Moderate | 3-Year Note Auction |  |  | 3.518% |
 | 20:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 1.400M | 5.600M |
