@@ -10,8 +10,8 @@
 | 03:00 | CNY | Trade Balance (USD) (Feb) | 213.62B | 177.40B | 114.11B |
 | 07:00 | EUR | German Trade Balance (Jan) | 21.2B | 15.4B | 17.4B |
 | 09:30 | ZAR | GDP Annualized (QoQ) (Q4) | 0.4% |  | 0.5% |
-| 12:15 | USD | ADP Employment Change Weekly |  |  | 12.80K |
-| 14:00 | USD | Existing Home Sales (MoM) (Feb) |  |  | -8.4% |
+| 12:15 | USD | ADP Employment Change Weekly | 15.50K |  | 12.80K |
+| 27 min | USD | Existing Home Sales (MoM) (Feb) |  |  | -8.4% |
 | 16:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 17:00 | USD | 3-Year Note Auction |  |  | 3.518% |
-| 20:30 | USD | API Weekly Crude Oil Stock |  |  | 5.600M |
+| 20:30 | USD | API Weekly Crude Oil Stock |  | 1.400M | 5.600M |

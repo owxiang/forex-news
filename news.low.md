@@ -28,6 +28,6 @@
 | 10:00 | USD | NFIB Small Business Optimism (Feb) | 98.8 | 99.6 | 99.3 |
 | 10:00 | EUR | ECOFIN Meetings |  |  |  |
 | 10:30 | EUR | German 2-Year Schatz Auction | 2.270% |  | 2.020% |
-| 35 min | USD | Redbook (YoY) |  |  | 7.0% |
+| 12:55 | USD | Redbook (YoY) | 6.2% |  | 7.0% |
 | 23:50 | JPY | PPI (YoY) (Feb) |  | 2.2% | 2.3% |
 | 23:50 | JPY | PPI (MoM) (Feb) |  | 0.1% | 0.2% |
