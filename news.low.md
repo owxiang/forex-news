@@ -20,14 +20,14 @@
 | 07:45 | EUR | French Trade Balance (Jan) | -1.8B | -5.2B | -4.3B |
 | 09:00 | EUR | Italian PPI (YoY) (Jan) | -1.6% |  | -1.4% |
 | 09:00 | EUR | Italian PPI (MoM) (Jan) | 1.5% |  | -0.7% |
-| 09:13 | CNY | Exports (Feb) | 13.10M |  | 5.20M |
-| 09:13 | CNY | Imports (Feb) | 10.90M |  | 4.40M |
-| 09:13 | CNY | Trade Balance (Feb) | 1.50B | 1,250.00B | 808.55B |
-| 9 min | ZAR | GDP (YoY) (Q4) |  |  | 2.1% |
-| 19 min | EUR | Spanish 3-Month Letras Auction |  |  | 1.939% |
-| 39 min | USD | NFIB Small Business Optimism (Feb) |  | 99.6 | 99.3 |
-| 39 min | EUR | ECOFIN Meetings |  |  |  |
-| 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.020% |
+| 09:22 | CNY | Imports (Feb) | 10.90M |  | 4.40M |
+| 09:25 | CNY | Exports (Feb) | 36.10M |  | 5.20M |
+| 09:26 | CNY | Trade Balance (Feb) | 637.55B | 1,250.00B | 808.55B |
+| 09:30 | ZAR | GDP (YoY) (Q4) | 0.8% |  | 2.1% |
+| 09:40 | EUR | Spanish 3-Month Letras Auction | 1.964% |  | 1.939% |
+| 10:00 | USD | NFIB Small Business Optimism (Feb) | 98.8 | 99.6 | 99.3 |
+| 10:00 | EUR | ECOFIN Meetings |  |  |  |
+| 12 min | EUR | German 2-Year Schatz Auction |  |  | 2.020% |
 | 12:55 | USD | Redbook (YoY) |  |  | 7.0% |
 | 23:50 | JPY | PPI (YoY) (Feb) |  | 2.2% | 2.3% |
 | 23:50 | JPY | PPI (MoM) (Feb) |  | 0.1% | 0.2% |

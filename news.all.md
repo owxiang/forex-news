@@ -24,18 +24,18 @@
 | 07:45 | EUR | Low | French Trade Balance (Jan) | -1.8B | -5.2B | -4.3B |
 | 09:00 | EUR | Low | Italian PPI (YoY) (Jan) | -1.6% |  | -1.4% |
 | 09:00 | EUR | Low | Italian PPI (MoM) (Jan) | 1.5% |  | -0.7% |
-| 09:12 | CNY | Moderate | Exports (YoY) (Feb) | 21.8% | 7.1% | 6.6% |
-| 09:13 | CNY | Moderate | Imports (YoY) (Feb) | 19.8% | 6.3% | 5.7% |
-| 09:13 | CNY | Moderate | Trade Balance (USD) (Feb) | 213.62B | 177.40B | 114.11B |
-| 09:13 | CNY | Low | Exports (Feb) | 13.10M |  | 5.20M |
-| 09:13 | CNY | Low | Imports (Feb) | 10.90M |  | 4.40M |
-| 09:13 | CNY | Low | Trade Balance (Feb) | 1.50B | 1,250.00B | 808.55B |
-| 9 min | ZAR | Moderate | GDP Annualized (QoQ) (Q4) |  |  | 0.5% |
-| 9 min | ZAR | Low | GDP (YoY) (Q4) |  |  | 2.1% |
-| 19 min | EUR | Low | Spanish 3-Month Letras Auction |  |  | 1.939% |
-| 39 min | USD | Low | NFIB Small Business Optimism (Feb) |  | 99.6 | 99.3 |
-| 39 min | EUR | Low | ECOFIN Meetings |  |  |  |
-| 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 2.020% |
+| 09:22 | CNY | Low | Imports (Feb) | 10.90M |  | 4.40M |
+| 09:24 | CNY | Moderate | Exports (YoY) (Feb) | 39.6% | 7.1% | 6.6% |
+| 09:25 | CNY | Moderate | Imports (YoY) (Feb) | 13.8% | 6.3% | 5.7% |
+| 09:25 | CNY | Moderate | Trade Balance (USD) (Feb) | 90.98B | 177.40B | 114.11B |
+| 09:25 | CNY | Low | Exports (Feb) | 36.10M |  | 5.20M |
+| 09:26 | CNY | Low | Trade Balance (Feb) | 637.55B | 1,250.00B | 808.55B |
+| 09:30 | ZAR | Moderate | GDP Annualized (QoQ) (Q4) | 0.4% |  | 0.5% |
+| 09:30 | ZAR | Low | GDP (YoY) (Q4) | 0.8% |  | 2.1% |
+| 09:40 | EUR | Low | Spanish 3-Month Letras Auction | 1.964% |  | 1.939% |
+| 10:00 | USD | Low | NFIB Small Business Optimism (Feb) | 98.8 | 99.6 | 99.3 |
+| 10:00 | EUR | Low | ECOFIN Meetings |  |  |  |
+| 12 min | EUR | Low | German 2-Year Schatz Auction |  |  | 2.020% |
 | 12:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 12.80K |
 | 12:55 | USD | Low | Redbook (YoY) |  |  | 7.0% |
 | 14:00 | USD | High | Existing Home Sales (Feb) |  | 3.89M | 3.91M |
