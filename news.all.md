@@ -36,8 +36,8 @@
 | 10:00 | USD | Low | NFIB Small Business Optimism (Feb) | 98.8 | 99.6 | 99.3 |
 | 10:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 10:30 | EUR | Low | German 2-Year Schatz Auction | 2.270% |  | 2.020% |
-| 59 min | USD | Moderate | ADP Employment Change Weekly |  |  | 12.80K |
-| 12:55 | USD | Low | Redbook (YoY) |  |  | 7.0% |
+| 12:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 12.80K |
+| 35 min | USD | Low | Redbook (YoY) |  |  | 7.0% |
 | 14:00 | USD | High | Existing Home Sales (Feb) |  | 3.89M | 3.91M |
 | 14:00 | USD | Moderate | Existing Home Sales (MoM) (Feb) |  |  | -8.4% |
 | 16:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
