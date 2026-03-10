@@ -29,5 +29,5 @@
 | 10:00 | EUR | ECOFIN Meetings |  |  |  |
 | 10:30 | EUR | German 2-Year Schatz Auction | 2.270% |  | 2.020% |
 | 12:55 | USD | Redbook (YoY) | 6.2% |  | 7.0% |
-| 23:50 | JPY | PPI (YoY) (Feb) |  | 2.2% | 2.3% |
-| 23:50 | JPY | PPI (MoM) (Feb) |  | 0.1% | 0.2% |
+| 40 min | JPY | PPI (YoY) (Feb) |  | 2.2% | 2.3% |
+| 40 min | JPY | PPI (MoM) (Feb) |  | 0.1% | 0.2% |

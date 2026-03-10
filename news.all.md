@@ -43,5 +43,5 @@
 | 16:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 17:00 | USD | Moderate | 3-Year Note Auction | 3.579% |  | 3.518% |
 | 20:30 | USD | Moderate | API Weekly Crude Oil Stock | -1.700M | 1.400M | 5.600M |
-| 23:50 | JPY | Low | PPI (YoY) (Feb) |  | 2.2% | 2.3% |
-| 23:50 | JPY | Low | PPI (MoM) (Feb) |  | 0.1% | 0.2% |
+| 40 min | JPY | Low | PPI (YoY) (Feb) |  | 2.2% | 2.3% |
+| 40 min | JPY | Low | PPI (MoM) (Feb) |  | 0.1% | 0.2% |
