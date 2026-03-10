@@ -3,11 +3,11 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Feb) | 0.7% | 2.1% | 2.3% |
-| 00:30 | AUD | Low | Building Approvals (YoY) (Jan) |  |  | 8.10% |
+| 00:30 | AUD | Low | Building Approvals (YoY) (Jan) | -15.70% | 8.10% | 0.40% |
 | 00:30 | AUD | Moderate | Building Approvals (MoM) (Jan) | -7.2% | -7.2% | -14.9% |
 | 00:30 | AUD | Moderate | NAB Business Confidence (Feb) | -1 |  | 4 |
 | 00:30 | AUD | Low | NAB Business Survey (Feb) | 7 |  | 7 |
-| 00:30 | AUD | Low | Private House Approvals (Jan) |  | 1.1% | 0.4% |
+| 00:30 | AUD | Low | Private House Approvals (Jan) | 1.1% | 1.1% | 0.4% |
 | 03:00 | CNY | Low | Exports (Feb) |  |  | 5.20M |
 | 03:00 | CNY | Low | Imports (Feb) |  |  | 4.40M |
 | 03:00 | CNY | Low | Trade Balance (Feb) |  | 950.00B | 808.80B |

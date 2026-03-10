@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Building Approvals (YoY) (Jan) |  |  | 8.10% |
+| 00:30 | AUD | Building Approvals (YoY) (Jan) | -15.70% | 8.10% | 0.40% |
 | 00:30 | AUD | NAB Business Survey (Feb) | 7 |  | 7 |
-| 00:30 | AUD | Private House Approvals (Jan) |  | 1.1% | 0.4% |
+| 00:30 | AUD | Private House Approvals (Jan) | 1.1% | 1.1% | 0.4% |
 | 03:00 | CNY | Exports (Feb) |  |  | 5.20M |
 | 03:00 | CNY | Imports (Feb) |  |  | 4.40M |
 | 03:00 | CNY | Trade Balance (Feb) |  | 950.00B | 808.80B |
