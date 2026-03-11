@@ -6,8 +6,8 @@
 | 07:00 | EUR | German HICP (MoM) (Feb) | 0.4% | 0.4% | -0.1% |
 | 07:00 | EUR | German HICP (YoY) (Feb) | 2.0% | 2.0% | 2.1% |
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Jan) | 4.0% |  | 2.8% |
-| 10:00 | GBP | BoE Breeden Speaks |  |  |  |
-| 10:10 | EUR | Italian 12-Month BOT Auction |  |  | 2.068% |
+| 40 min | GBP | BoE Breeden Speaks |  |  |  |
+| 50 min | EUR | Italian 12-Month BOT Auction |  |  | 2.068% |
 | 11:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.09% |
 | 11:00 | USD | MBA Mortgage Applications (WoW) |  |  | 11.0% |
 | 11:00 | USD | MBA Purchase Index |  |  | 158.9 |
