@@ -48,7 +48,7 @@
 | 15:00 | MXN | Low | Thomson Reuters IPSOS PCSI (Mar) | 53.05 |  | 53.27 |
 | 15:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Mar) | 52.24 |  | 52.68 |
 | 15:10 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 17:00 | USD | High | 10-Year Note Auction |  |  | 4.177% |
+| 37 min | USD | High | 10-Year Note Auction |  |  | 4.177% |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | 2.071B |
 | 18:00 | USD | Moderate | Federal Budget Balance (Feb) |  | -304.4B | -95.0B |
 | 21:45 | NZD | Low | Manufacturing Sales Volume (QoQ) (Q4) |  |  | 1.1% |
