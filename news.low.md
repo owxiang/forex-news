@@ -32,7 +32,7 @@
 | 15:00 | CAD | Thomson Reuters IPSOS PCSI (Mar) | 49.37 |  | 47.46 |
 | 15:00 | MXN | Thomson Reuters IPSOS PCSI (Mar) | 53.05 |  | 53.27 |
 | 15:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Mar) | 52.24 |  | 52.68 |
-| 17:30 | BRL | Foreign Exchange Flows |  |  | 2.071B |
+| 8 min | BRL | Foreign Exchange Flows |  |  | 2.071B |
 | 21:45 | NZD | Manufacturing Sales Volume (QoQ) (Q4) |  |  | 1.1% |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | -673.1B |
 | 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 973.9B |
