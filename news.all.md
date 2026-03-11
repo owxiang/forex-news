@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 03:35 | JPY | Low | 5-Year JGB Auction |  |  | 1.640% |
+| 32 min | JPY | Low | 5-Year JGB Auction |  |  | 1.640% |
 | 07:00 | EUR | High | German CPI (MoM) (Feb) |  | 0.2% | 0.1% |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Feb) |  | 1.9% | 2.1% |
 | 07:00 | EUR | Low | German HICP (MoM) (Feb) |  | 0.4% | -0.1% |
