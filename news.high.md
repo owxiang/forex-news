@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | EUR | German CPI (MoM) (Feb) |  | 0.2% | 0.1% |
+| 36 min | EUR | German CPI (MoM) (Feb) |  | 0.2% | 0.1% |
 | 12:30 | USD | Core CPI (MoM) (Feb) |  | 0.2% | 0.3% |
 | 12:30 | USD | CPI (MoM) (Feb) |  | 0.3% | 0.2% |
 | 12:30 | USD | CPI (YoY) (Feb) |  | 2.4% | 2.4% |

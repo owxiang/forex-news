@@ -3,10 +3,10 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 03:35 | JPY | Low | 5-Year JGB Auction | 1.633% |  | 1.640% |
-| 07:00 | EUR | High | German CPI (MoM) (Feb) |  | 0.2% | 0.1% |
-| 07:00 | EUR | Moderate | German CPI (YoY) (Feb) |  | 1.9% | 2.1% |
-| 07:00 | EUR | Low | German HICP (MoM) (Feb) |  | 0.4% | -0.1% |
-| 07:00 | EUR | Low | German HICP (YoY) (Feb) |  | 2.0% | 2.1% |
+| 36 min | EUR | High | German CPI (MoM) (Feb) |  | 0.2% | 0.1% |
+| 36 min | EUR | Moderate | German CPI (YoY) (Feb) |  | 1.9% | 2.1% |
+| 36 min | EUR | Low | German HICP (MoM) (Feb) |  | 0.4% | -0.1% |
+| 36 min | EUR | Low | German HICP (YoY) (Feb) |  | 2.0% | 2.1% |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Jan) |  |  | 2.9% |
 | 08:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 10:00 | GBP | Low | BoE Breeden Speaks |  |  |  |
