@@ -52,6 +52,6 @@
 | 17:30 | BRL | Low | Foreign Exchange Flows | -3.897B |  | 2.071B |
 | 18:00 | USD | Moderate | Federal Budget Balance (Feb) | -308.0B | -304.4B | -95.0B |
 | 21:45 | NZD | Low | Manufacturing Sales Volume (QoQ) (Q4) | -0.5% |  | 1.1% |
-| 23:50 | JPY | Moderate | BSI Large Manufacturing Conditions (Q1) |  | 5.3 | 4.7 |
-| 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -673.1B |
-| 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 973.9B |
+| 40 min | JPY | Moderate | BSI Large Manufacturing Conditions (Q1) |  | 5.3 | 4.7 |
+| 40 min | JPY | Low | Foreign Bonds Buying |  |  | -673.1B |
+| 40 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 973.9B |
