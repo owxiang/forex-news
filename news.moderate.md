@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 36 min | EUR | German CPI (YoY) (Feb) |  | 1.9% | 2.1% |
+| 07:00 | EUR | German CPI (YoY) (Feb) | 1.9% | 1.9% | 2.1% |
 | 08:30 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 10:00 | USD | OPEC Monthly Report |  |  |  |
 | 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.730% |
