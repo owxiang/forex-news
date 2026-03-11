@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 32 min | JPY | Low | 5-Year JGB Auction |  |  | 1.640% |
+| 03:35 | JPY | Low | 5-Year JGB Auction | 1.633% |  | 1.640% |
 | 07:00 | EUR | High | German CPI (MoM) (Feb) |  | 0.2% | 0.1% |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Feb) |  | 1.9% | 2.1% |
 | 07:00 | EUR | Low | German HICP (MoM) (Feb) |  | 0.4% | -0.1% |
@@ -32,7 +32,7 @@
 | 12:30 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 12:30 | USD | Low | Real Earnings (MoM) (Feb) |  |  | 0.5% |
 | 12:30 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 14:30 | USD | High | Crude Oil Inventories |  |  | 3.475M |
+| 14:30 | USD | High | Crude Oil Inventories |  | 2.800M | 3.475M |
 | 14:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.180M |
 | 14:30 | USD | Low | Crude Oil Imports |  |  | -0.019M |
 | 14:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 1.564M |

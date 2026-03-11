@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 32 min | JPY | 5-Year JGB Auction |  |  | 1.640% |
+| 03:35 | JPY | 5-Year JGB Auction | 1.633% |  | 1.640% |
 | 07:00 | EUR | German HICP (MoM) (Feb) |  | 0.4% | -0.1% |
 | 07:00 | EUR | German HICP (YoY) (Feb) |  | 2.0% | 2.1% |
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Jan) |  |  | 2.9% |
