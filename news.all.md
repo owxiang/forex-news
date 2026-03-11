@@ -7,8 +7,8 @@
 | 07:00 | EUR | Moderate | German CPI (YoY) (Feb) | 1.9% | 1.9% | 2.1% |
 | 07:00 | EUR | Low | German HICP (MoM) (Feb) | 0.4% | 0.4% | -0.1% |
 | 07:00 | EUR | Low | German HICP (YoY) (Feb) | 2.0% | 2.0% | 2.1% |
-| 37 min | EUR | Low | Spanish Retail Sales (YoY) (Jan) |  |  | 2.9% |
-| 08:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Jan) | 4.0% |  | 2.8% |
+| 12 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 10:00 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 10:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 10:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.068% |
