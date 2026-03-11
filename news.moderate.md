@@ -1,17 +1,17 @@
-## 10 March 2026 - Moderate Impact Forex News
+## 11 March 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Feb) | 0.7% | 2.0% | 2.3% |
-| 00:30 | AUD | Building Approvals (MoM) (Jan) | -7.2% | -7.2% | -14.9% |
-| 00:30 | AUD | NAB Business Confidence (Feb) | -1 |  | 4 |
-| 03:00 | CNY | Exports (YoY) (Feb) | 21.8% | 7.1% | 6.6% |
-| 03:00 | CNY | Imports (YoY) (Feb) | 19.8% | 6.3% | 5.7% |
-| 03:00 | CNY | Trade Balance (USD) (Feb) | 213.62B | 177.40B | 114.11B |
-| 07:00 | EUR | German Trade Balance (Jan) | 21.2B | 15.4B | 17.4B |
-| 09:30 | ZAR | GDP Annualized (QoQ) (Q4) | 0.4% |  | 0.5% |
-| 12:15 | USD | ADP Employment Change Weekly | 15.50K |  | 12.80K |
-| 14:00 | USD | Existing Home Sales (MoM) (Feb) | 1.7% |  | -5.9% |
-| 16:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
-| 17:00 | USD | 3-Year Note Auction | 3.579% |  | 3.518% |
-| 20:30 | USD | API Weekly Crude Oil Stock | -1.700M | 1.400M | 5.600M |
+| 07:00 | EUR | German CPI (YoY) (Feb) |  | 1.9% | 2.1% |
+| 08:30 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 10:00 | USD | OPEC Monthly Report |  |  |  |
+| 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.730% |
+| 12:00 | BRL | Retail Sales (YoY) (Jan) |  | 1.8% | 2.3% |
+| 12:00 | BRL | Retail Sales (MoM) (Jan) |  | -0.1% | -0.4% |
+| 12:30 | USD | Core CPI (YoY) (Feb) |  | 2.5% | 2.5% |
+| 12:30 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 12:30 | EUR | German Buba Mauderer Speaks |  |  |  |
+| 14:30 | USD | Cushing Crude Oil Inventories |  |  | 1.564M |
+| 15:10 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 18:00 | USD | Federal Budget Balance (Feb) |  | -304.4B | -95.0B |
+| 23:50 | JPY | BSI Large Manufacturing Conditions (Q1) |  | 5.3 | 4.7 |

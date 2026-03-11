@@ -1,47 +1,57 @@
-## 10 March 2026 - All Forex News
+## 11 March 2026 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Feb) | 0.7% | 2.0% | 2.3% |
-| 00:30 | AUD | Low | Building Approvals (YoY) (Jan) | -15.70% | 8.10% | 0.40% |
-| 00:30 | AUD | Moderate | Building Approvals (MoM) (Jan) | -7.2% | -7.2% | -14.9% |
-| 00:30 | AUD | Moderate | NAB Business Confidence (Feb) | -1 |  | 4 |
-| 00:30 | AUD | Low | NAB Business Survey (Feb) | 7 |  | 7 |
-| 00:30 | AUD | Low | Private House Approvals (Jan) | 1.1% | 1.1% | 0.4% |
-| 03:00 | CNY | Low | Exports (Feb) | 36.10M |  | 5.20M |
-| 03:00 | CNY | Low | Imports (Feb) | 10.90M |  | 4.40M |
-| 03:00 | CNY | Low | Trade Balance (Feb) | 637.55B | 1,250.00B | 808.55B |
-| 03:00 | CNY | Moderate | Exports (YoY) (Feb) | 21.8% | 7.1% | 6.6% |
-| 03:00 | CNY | Moderate | Imports (YoY) (Feb) | 19.8% | 6.3% | 5.7% |
-| 03:00 | CNY | Moderate | Trade Balance (USD) (Feb) | 213.62B | 177.40B | 114.11B |
-| 03:30 | IDR | Low | Retail Sales (YoY) (Jan) | 5.7% |  | 3.5% |
-| 04:00 | IDR | Low | Car Sales (YoY) (Feb) | 12.20% |  | 7.00% |
-| 06:00 | JPY | Low | Machine Tool Orders (YoY) (Feb) | 24.2% | 25.3% | 10.6% |
-| 07:00 | EUR | Low | German Exports (MoM) (Jan) | -2.3% | -2.0% | 3.9% |
-| 07:00 | EUR | Low | German Imports (MoM) (Jan) | -5.9% |  | 1.3% |
-| 07:00 | EUR | Moderate | German Trade Balance (Jan) | 21.2B | 15.4B | 17.4B |
-| 07:00 | NOK | Low | Core CPI YTD (Feb) | 3.0% |  | 3.4% |
-| 07:00 | NOK | Low | Core Inflation (MoM) (Feb) | 0.7% |  | 0.3% |
-| 07:00 | NOK | Low | CPI (MoM) (Feb) | 0.6% |  | 0.6% |
-| 07:00 | NOK | Low | CPI (YoY) (Feb) | 2.7% |  | 3.6% |
-| 07:45 | EUR | Low | French Current Account (Jan) | 2.10B |  | 0.10B |
-| 07:45 | EUR | Low | French Exports (Jan) | 53.4B |  | 53.0B |
-| 07:45 | EUR | Low | French Imports (Jan) | 55.3B |  | 57.3B |
-| 07:45 | EUR | Low | French Trade Balance (Jan) | -1.8B | -5.2B | -4.3B |
-| 09:00 | EUR | Low | Italian PPI (MoM) (Jan) | 1.5% |  | -0.7% |
-| 09:00 | EUR | Low | Italian PPI (YoY) (Jan) | -1.6% |  | -1.4% |
-| 09:30 | ZAR | Moderate | GDP Annualized (QoQ) (Q4) | 0.4% |  | 0.5% |
-| 09:30 | ZAR | Low | GDP (YoY) (Q4) | 0.8% |  | 2.1% |
-| 09:40 | EUR | Low | Spanish 3-Month Letras Auction | 1.964% |  | 1.939% |
-| 10:00 | USD | Low | NFIB Small Business Optimism (Feb) | 98.8 | 99.6 | 99.3 |
-| 10:00 | EUR | Low | ECOFIN Meetings |  |  |  |
-| 10:30 | EUR | Low | German 2-Year Schatz Auction | 2.270% |  | 2.020% |
-| 12:15 | USD | Moderate | ADP Employment Change Weekly | 15.50K |  | 12.80K |
-| 12:55 | USD | Low | Redbook (YoY) | 6.2% |  | 7.0% |
-| 14:00 | USD | High | Existing Home Sales (Feb) | 4.09M | 3.89M | 4.02M |
-| 14:00 | USD | Moderate | Existing Home Sales (MoM) (Feb) | 1.7% |  | -5.9% |
-| 16:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
-| 17:00 | USD | Moderate | 3-Year Note Auction | 3.579% |  | 3.518% |
-| 20:30 | USD | Moderate | API Weekly Crude Oil Stock | -1.700M | 1.400M | 5.600M |
-| 40 min | JPY | Low | PPI (YoY) (Feb) |  | 2.2% | 2.3% |
-| 40 min | JPY | Low | PPI (MoM) (Feb) |  | 0.1% | 0.2% |
+| 03:35 | JPY | Low | 5-Year JGB Auction |  |  | 1.640% |
+| 07:00 | EUR | High | German CPI (MoM) (Feb) |  | 0.2% | 0.1% |
+| 07:00 | EUR | Moderate | German CPI (YoY) (Feb) |  | 1.9% | 2.1% |
+| 07:00 | EUR | Low | German HICP (MoM) (Feb) |  | 0.4% | -0.1% |
+| 07:00 | EUR | Low | German HICP (YoY) (Feb) |  | 2.0% | 2.1% |
+| 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Jan) |  |  | 2.9% |
+| 08:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 10:00 | GBP | Low | BoE Breeden Speaks |  |  |  |
+| 10:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
+| 10:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.068% |
+| 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.730% |
+| 11:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.09% |
+| 11:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 11.0% |
+| 11:00 | USD | Low | MBA Purchase Index |  |  | 158.9 |
+| 11:00 | USD | Low | Mortgage Market Index |  |  | 377.5 |
+| 11:00 | USD | Low | Mortgage Refinance Index |  |  | 1,637.5 |
+| 11:30 | INR | Low | M3 Money Supply |  |  | 10.9% |
+| 12:00 | BRL | Moderate | Retail Sales (YoY) (Jan) |  | 1.8% | 2.3% |
+| 12:00 | BRL | Moderate | Retail Sales (MoM) (Jan) |  | -0.1% | -0.4% |
+| 12:30 | USD | High | Core CPI (MoM) (Feb) |  | 0.2% | 0.3% |
+| 12:30 | USD | Moderate | Core CPI (YoY) (Feb) |  | 2.5% | 2.5% |
+| 12:30 | USD | Low | Core CPI Index (Feb) |  |  | 332.79 |
+| 12:30 | USD | High | CPI (MoM) (Feb) |  | 0.3% | 0.2% |
+| 12:30 | USD | High | CPI (YoY) (Feb) |  | 2.4% | 2.4% |
+| 12:30 | USD | Low | CPI Index, n.s.a. (Feb) |  | 326.79 | 325.25 |
+| 12:30 | USD | Low | CPI Index, s.a (Feb) |  |  | 326.59 |
+| 12:30 | USD | Low | CPI, n.s.a (MoM) (Feb) |  |  | 0.37% |
+| 12:30 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 12:30 | USD | Low | Real Earnings (MoM) (Feb) |  |  | 0.5% |
+| 12:30 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 14:30 | USD | High | Crude Oil Inventories |  |  | 3.475M |
+| 14:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.180M |
+| 14:30 | USD | Low | Crude Oil Imports |  |  | -0.019M |
+| 14:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 1.564M |
+| 14:30 | USD | Low | Distillate Fuel Production |  |  | 0.061M |
+| 14:30 | USD | Low | EIA Weekly Distillates Stocks |  |  | 0.429M |
+| 14:30 | USD | Low | Gasoline Production |  |  | 0.119M |
+| 14:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.355M |
+| 14:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.6% |
+| 14:30 | USD | Low | Gasoline Inventories |  |  | -1.704M |
+| 15:00 | USD | Low | Cleveland CPI (MoM) (Feb) |  |  | 0.2% |
+| 15:00 | USD | Low | Thomson Reuters IPSOS PCSI (Mar) |  |  | 53.80 |
+| 15:00 | CAD | Low | Thomson Reuters IPSOS PCSI (Mar) |  |  | 47.46 |
+| 15:00 | MXN | Low | Thomson Reuters IPSOS PCSI (Mar) |  |  | 53.27 |
+| 15:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Mar) |  |  | 52.68 |
+| 15:10 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 17:00 | USD | High | 10-Year Note Auction |  |  | 4.177% |
+| 17:30 | BRL | Low | Foreign Exchange Flows |  |  | 2.071B |
+| 18:00 | USD | Moderate | Federal Budget Balance (Feb) |  | -304.4B | -95.0B |
+| 21:45 | NZD | Low | Manufacturing Sales Volume (QoQ) (Q4) |  |  | 1.1% |
+| 23:50 | JPY | Moderate | BSI Large Manufacturing Conditions (Q1) |  | 5.3 | 4.7 |
+| 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -673.1B |
+| 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 973.9B |

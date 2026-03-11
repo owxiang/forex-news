@@ -1,33 +1,38 @@
-## 10 March 2026 - Low Impact Forex News
+## 11 March 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Building Approvals (YoY) (Jan) | -15.70% | 8.10% | 0.40% |
-| 00:30 | AUD | NAB Business Survey (Feb) | 7 |  | 7 |
-| 00:30 | AUD | Private House Approvals (Jan) | 1.1% | 1.1% | 0.4% |
-| 03:00 | CNY | Exports (Feb) | 36.10M |  | 5.20M |
-| 03:00 | CNY | Imports (Feb) | 10.90M |  | 4.40M |
-| 03:00 | CNY | Trade Balance (Feb) | 637.55B | 1,250.00B | 808.55B |
-| 03:30 | IDR | Retail Sales (YoY) (Jan) | 5.7% |  | 3.5% |
-| 04:00 | IDR | Car Sales (YoY) (Feb) | 12.20% |  | 7.00% |
-| 06:00 | JPY | Machine Tool Orders (YoY) (Feb) | 24.2% | 25.3% | 10.6% |
-| 07:00 | EUR | German Exports (MoM) (Jan) | -2.3% | -2.0% | 3.9% |
-| 07:00 | EUR | German Imports (MoM) (Jan) | -5.9% |  | 1.3% |
-| 07:00 | NOK | Core CPI YTD (Feb) | 3.0% |  | 3.4% |
-| 07:00 | NOK | Core Inflation (MoM) (Feb) | 0.7% |  | 0.3% |
-| 07:00 | NOK | CPI (MoM) (Feb) | 0.6% |  | 0.6% |
-| 07:00 | NOK | CPI (YoY) (Feb) | 2.7% |  | 3.6% |
-| 07:45 | EUR | French Current Account (Jan) | 2.10B |  | 0.10B |
-| 07:45 | EUR | French Exports (Jan) | 53.4B |  | 53.0B |
-| 07:45 | EUR | French Imports (Jan) | 55.3B |  | 57.3B |
-| 07:45 | EUR | French Trade Balance (Jan) | -1.8B | -5.2B | -4.3B |
-| 09:00 | EUR | Italian PPI (MoM) (Jan) | 1.5% |  | -0.7% |
-| 09:00 | EUR | Italian PPI (YoY) (Jan) | -1.6% |  | -1.4% |
-| 09:30 | ZAR | GDP (YoY) (Q4) | 0.8% |  | 2.1% |
-| 09:40 | EUR | Spanish 3-Month Letras Auction | 1.964% |  | 1.939% |
-| 10:00 | USD | NFIB Small Business Optimism (Feb) | 98.8 | 99.6 | 99.3 |
-| 10:00 | EUR | ECOFIN Meetings |  |  |  |
-| 10:30 | EUR | German 2-Year Schatz Auction | 2.270% |  | 2.020% |
-| 12:55 | USD | Redbook (YoY) | 6.2% |  | 7.0% |
-| 40 min | JPY | PPI (YoY) (Feb) |  | 2.2% | 2.3% |
-| 40 min | JPY | PPI (MoM) (Feb) |  | 0.1% | 0.2% |
+| 03:35 | JPY | 5-Year JGB Auction |  |  | 1.640% |
+| 07:00 | EUR | German HICP (MoM) (Feb) |  | 0.4% | -0.1% |
+| 07:00 | EUR | German HICP (YoY) (Feb) |  | 2.0% | 2.1% |
+| 08:00 | EUR | Spanish Retail Sales (YoY) (Jan) |  |  | 2.9% |
+| 10:00 | GBP | BoE Breeden Speaks |  |  |  |
+| 10:10 | EUR | Italian 12-Month BOT Auction |  |  | 2.068% |
+| 11:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.09% |
+| 11:00 | USD | MBA Mortgage Applications (WoW) |  |  | 11.0% |
+| 11:00 | USD | MBA Purchase Index |  |  | 158.9 |
+| 11:00 | USD | Mortgage Market Index |  |  | 377.5 |
+| 11:00 | USD | Mortgage Refinance Index |  |  | 1,637.5 |
+| 11:30 | INR | M3 Money Supply |  |  | 10.9% |
+| 12:30 | USD | Core CPI Index (Feb) |  |  | 332.79 |
+| 12:30 | USD | CPI Index, n.s.a. (Feb) |  | 326.79 | 325.25 |
+| 12:30 | USD | CPI Index, s.a (Feb) |  |  | 326.59 |
+| 12:30 | USD | CPI, n.s.a (MoM) (Feb) |  |  | 0.37% |
+| 12:30 | USD | Real Earnings (MoM) (Feb) |  |  | 0.5% |
+| 14:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.180M |
+| 14:30 | USD | Crude Oil Imports |  |  | -0.019M |
+| 14:30 | USD | Distillate Fuel Production |  |  | 0.061M |
+| 14:30 | USD | EIA Weekly Distillates Stocks |  |  | 0.429M |
+| 14:30 | USD | Gasoline Production |  |  | 0.119M |
+| 14:30 | USD | Heating Oil Stockpiles |  |  | 0.355M |
+| 14:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.6% |
+| 14:30 | USD | Gasoline Inventories |  |  | -1.704M |
+| 15:00 | USD | Cleveland CPI (MoM) (Feb) |  |  | 0.2% |
+| 15:00 | USD | Thomson Reuters IPSOS PCSI (Mar) |  |  | 53.80 |
+| 15:00 | CAD | Thomson Reuters IPSOS PCSI (Mar) |  |  | 47.46 |
+| 15:00 | MXN | Thomson Reuters IPSOS PCSI (Mar) |  |  | 53.27 |
+| 15:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Mar) |  |  | 52.68 |
+| 17:30 | BRL | Foreign Exchange Flows |  |  | 2.071B |
+| 21:45 | NZD | Manufacturing Sales Volume (QoQ) (Q4) |  |  | 1.1% |
+| 23:50 | JPY | Foreign Bonds Buying |  |  | -673.1B |
+| 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 973.9B |
