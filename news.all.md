@@ -32,22 +32,22 @@
 | 12:30 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 12:30 | USD | Low | Real Earnings (MoM) (Feb) | 0.1% |  | 0.5% |
 | 12:30 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 57 min | USD | High | Crude Oil Inventories |  | 2.800M | 3.475M |
-| 57 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.180M |
-| 57 min | USD | Low | Crude Oil Imports |  |  | -0.019M |
-| 57 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 1.564M |
-| 57 min | USD | Low | Distillate Fuel Production |  |  | 0.061M |
-| 57 min | USD | Low | EIA Weekly Distillates Stocks |  | -0.700M | 0.429M |
-| 57 min | USD | Low | Gasoline Production |  |  | 0.119M |
-| 57 min | USD | Low | Heating Oil Stockpiles |  |  | 0.355M |
-| 57 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.6% |
-| 57 min | USD | Low | Gasoline Inventories |  | -2.600M | -1.704M |
-| 15:00 | USD | Low | Cleveland CPI (MoM) (Feb) |  |  | 0.2% |
-| 15:00 | USD | Low | Thomson Reuters IPSOS PCSI (Mar) |  |  | 53.80 |
-| 15:00 | CAD | Low | Thomson Reuters IPSOS PCSI (Mar) |  |  | 47.46 |
-| 15:00 | MXN | Low | Thomson Reuters IPSOS PCSI (Mar) |  |  | 53.27 |
-| 15:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Mar) |  |  | 52.68 |
-| 15:10 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 7 min | USD | High | Crude Oil Inventories |  | 2.800M | 3.475M |
+| 7 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.180M |
+| 7 min | USD | Low | Crude Oil Imports |  |  | -0.019M |
+| 7 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 1.564M |
+| 7 min | USD | Low | Distillate Fuel Production |  |  | 0.061M |
+| 7 min | USD | Low | EIA Weekly Distillates Stocks |  | -0.700M | 0.429M |
+| 7 min | USD | Low | Gasoline Production |  |  | 0.119M |
+| 7 min | USD | Low | Heating Oil Stockpiles |  |  | 0.355M |
+| 7 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.6% |
+| 7 min | USD | Low | Gasoline Inventories |  | -2.600M | -1.704M |
+| 37 min | USD | Low | Cleveland CPI (MoM) (Feb) |  |  | 0.2% |
+| 37 min | USD | Low | Thomson Reuters IPSOS PCSI (Mar) |  |  | 53.80 |
+| 37 min | CAD | Low | Thomson Reuters IPSOS PCSI (Mar) |  |  | 47.46 |
+| 37 min | MXN | Low | Thomson Reuters IPSOS PCSI (Mar) |  |  | 53.27 |
+| 37 min | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Mar) |  |  | 52.68 |
+| 47 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 17:00 | USD | High | 10-Year Note Auction |  |  | 4.177% |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | 2.071B |
 | 18:00 | USD | Moderate | Federal Budget Balance (Feb) |  | -304.4B | -95.0B |
