@@ -13,5 +13,5 @@
 | 12:30 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 14:30 | USD | Cushing Crude Oil Inventories | 0.117M |  | 1.564M |
 | 15:10 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 38 min | USD | Federal Budget Balance (Feb) |  | -304.4B | -95.0B |
+| 18:00 | USD | Federal Budget Balance (Feb) | -308.0B | -304.4B | -95.0B |
 | 23:50 | JPY | BSI Large Manufacturing Conditions (Q1) |  | 5.3 | 4.7 |

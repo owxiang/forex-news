@@ -49,8 +49,8 @@
 | 15:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Mar) | 52.24 |  | 52.68 |
 | 15:10 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 17:00 | USD | High | 10-Year Note Auction | 4.217% |  | 4.177% |
-| 8 min | BRL | Low | Foreign Exchange Flows |  |  | 2.071B |
-| 38 min | USD | Moderate | Federal Budget Balance (Feb) |  | -304.4B | -95.0B |
+| 17:30 | BRL | Low | Foreign Exchange Flows | -3.897B |  | 2.071B |
+| 18:00 | USD | Moderate | Federal Budget Balance (Feb) | -308.0B | -304.4B | -95.0B |
 | 21:45 | NZD | Low | Manufacturing Sales Volume (QoQ) (Q4) |  |  | 1.1% |
 | 23:50 | JPY | Moderate | BSI Large Manufacturing Conditions (Q1) |  | 5.3 | 4.7 |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -673.1B |
