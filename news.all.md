@@ -12,15 +12,15 @@
 | 10:00 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 10:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 10:10 | EUR | Low | Italian 12-Month BOT Auction | 2.372% |  | 2.068% |
-| 12 min | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.730% |
-| 42 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.09% |
-| 42 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | 11.0% |
-| 42 min | USD | Low | MBA Purchase Index |  |  | 158.9 |
-| 42 min | USD | Low | Mortgage Market Index |  |  | 377.5 |
-| 42 min | USD | Low | Mortgage Refinance Index |  |  | 1,637.5 |
-| 11:30 | INR | Low | M3 Money Supply |  |  | 10.9% |
-| 12:00 | BRL | Moderate | Retail Sales (YoY) (Jan) |  | 1.8% | 2.3% |
-| 12:00 | BRL | Moderate | Retail Sales (MoM) (Jan) |  | -0.1% | -0.4% |
+| 10:30 | EUR | Moderate | German 10-Year Bund Auction | 2.890% |  | 2.730% |
+| 11:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.19% |  | 6.09% |
+| 11:00 | USD | Low | MBA Mortgage Applications (WoW) | 3.2% |  | 11.0% |
+| 11:00 | USD | Low | MBA Purchase Index | 171.3 |  | 158.9 |
+| 11:00 | USD | Low | Mortgage Market Index | 389.6 |  | 377.5 |
+| 11:00 | USD | Low | Mortgage Refinance Index | 1,646.3 |  | 1,637.5 |
+| 14 min | INR | Low | M3 Money Supply |  |  | 10.9% |
+| 44 min | BRL | Moderate | Retail Sales (YoY) (Jan) |  | 1.8% | 2.3% |
+| 44 min | BRL | Moderate | Retail Sales (MoM) (Jan) |  | -0.1% | -0.4% |
 | 12:30 | USD | High | Core CPI (MoM) (Feb) |  | 0.2% | 0.3% |
 | 12:30 | USD | Moderate | Core CPI (YoY) (Feb) |  | 2.5% | 2.5% |
 | 12:30 | USD | Low | Core CPI Index (Feb) |  |  | 332.79 |
