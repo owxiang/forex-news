@@ -6,13 +6,13 @@
 | 07:00 | EUR | German HICP (MoM) (Feb) | 0.4% | 0.4% | -0.1% |
 | 07:00 | EUR | German HICP (YoY) (Feb) | 2.0% | 2.0% | 2.1% |
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Jan) | 4.0% |  | 2.8% |
-| 40 min | GBP | BoE Breeden Speaks |  |  |  |
-| 50 min | EUR | Italian 12-Month BOT Auction |  |  | 2.068% |
-| 11:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.09% |
-| 11:00 | USD | MBA Mortgage Applications (WoW) |  |  | 11.0% |
-| 11:00 | USD | MBA Purchase Index |  |  | 158.9 |
-| 11:00 | USD | Mortgage Market Index |  |  | 377.5 |
-| 11:00 | USD | Mortgage Refinance Index |  |  | 1,637.5 |
+| 10:00 | GBP | BoE Breeden Speaks |  |  |  |
+| 10:10 | EUR | Italian 12-Month BOT Auction | 2.372% |  | 2.068% |
+| 42 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.09% |
+| 42 min | USD | MBA Mortgage Applications (WoW) |  |  | 11.0% |
+| 42 min | USD | MBA Purchase Index |  |  | 158.9 |
+| 42 min | USD | Mortgage Market Index |  |  | 377.5 |
+| 42 min | USD | Mortgage Refinance Index |  |  | 1,637.5 |
 | 11:30 | INR | M3 Money Supply |  |  | 10.9% |
 | 12:30 | USD | Core CPI Index (Feb) |  |  | 332.79 |
 | 12:30 | USD | CPI Index, n.s.a. (Feb) |  | 326.79 | 325.25 |

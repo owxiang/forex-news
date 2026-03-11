@@ -9,15 +9,15 @@
 | 07:00 | EUR | Low | German HICP (YoY) (Feb) | 2.0% | 2.0% | 2.1% |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Jan) | 4.0% |  | 2.8% |
 | 08:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 40 min | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 40 min | USD | Moderate | OPEC Monthly Report |  |  |  |
-| 50 min | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.068% |
-| 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.730% |
-| 11:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.09% |
-| 11:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 11.0% |
-| 11:00 | USD | Low | MBA Purchase Index |  |  | 158.9 |
-| 11:00 | USD | Low | Mortgage Market Index |  |  | 377.5 |
-| 11:00 | USD | Low | Mortgage Refinance Index |  |  | 1,637.5 |
+| 10:00 | GBP | Low | BoE Breeden Speaks |  |  |  |
+| 10:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
+| 10:10 | EUR | Low | Italian 12-Month BOT Auction | 2.372% |  | 2.068% |
+| 12 min | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.730% |
+| 42 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.09% |
+| 42 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | 11.0% |
+| 42 min | USD | Low | MBA Purchase Index |  |  | 158.9 |
+| 42 min | USD | Low | Mortgage Market Index |  |  | 377.5 |
+| 42 min | USD | Low | Mortgage Refinance Index |  |  | 1,637.5 |
 | 11:30 | INR | Low | M3 Money Supply |  |  | 10.9% |
 | 12:00 | BRL | Moderate | Retail Sales (YoY) (Jan) |  | 1.8% | 2.3% |
 | 12:00 | BRL | Moderate | Retail Sales (MoM) (Jan) |  | -0.1% | -0.4% |

@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 07:00 | EUR | German CPI (YoY) (Feb) | 1.9% | 1.9% | 2.1% |
 | 08:30 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 40 min | USD | OPEC Monthly Report |  |  |  |
-| 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.730% |
+| 10:00 | USD | OPEC Monthly Report |  |  |  |
+| 12 min | EUR | German 10-Year Bund Auction |  |  | 2.730% |
 | 12:00 | BRL | Retail Sales (YoY) (Jan) |  | 1.8% | 2.3% |
 | 12:00 | BRL | Retail Sales (MoM) (Jan) |  | -0.1% | -0.4% |
 | 12:30 | USD | Core CPI (YoY) (Feb) |  | 2.5% | 2.5% |
