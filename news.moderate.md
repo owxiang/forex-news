@@ -20,4 +20,4 @@
 | 15:00 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 15:30 | USD | Atlanta Fed GDPNow (Q1) | 2.7% | 2.1% | 2.1% |
 | 20:30 | USD | Fed's Balance Sheet | 6,646B |  | 6,629B |
-| 16 min | NZD | Business NZ PMI (Feb) |  |  | 55.2 |
+| 21:30 | NZD | Business NZ PMI (Feb) | 55.0 |  | 55.1 |

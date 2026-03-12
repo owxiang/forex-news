@@ -48,7 +48,7 @@
 | 17:00 | USD | High | 30-Year Bond Auction | 4.871% |  | 4.750% |
 | 20:30 | USD | Moderate | Fed's Balance Sheet | 6,646B |  | 6,629B |
 | 20:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.073T |  | 3.014T |
-| 16 min | NZD | Moderate | Business NZ PMI (Feb) |  |  | 55.2 |
-| 31 min | NZD | Low | External Migration & Visitors (Jan) |  |  | 7.00% |
-| 31 min | NZD | Low | Permanent/Long-Term Migration (Jan) |  |  | 2,870 |
-| 31 min | NZD | Low | Visitor Arrivals (MoM) |  |  | 1.7% |
+| 21:30 | NZD | Moderate | Business NZ PMI (Feb) | 55.0 |  | 55.1 |
+| 21:45 | NZD | Low | External Migration & Visitors (Jan) | 4.10% |  | 7.00% |
+| 21:45 | NZD | Low | Permanent/Long-Term Migration (Jan) | 4,460 |  | 3,600 |
+| 21:45 | NZD | Low | Visitor Arrivals (MoM) | 0.9% |  | 1.6% |
