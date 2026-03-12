@@ -3,10 +3,10 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | AUD | Low | MI Inflation Expectations (Mar) | 5.2% |  | 5.0% |
-| 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
-| 09:00 | EUR | Low | Italian Quarterly Unemployment Rate |  | 6.1% | 6.1% |
-| 09:00 | ZAR | Low | Current Account (Q4) |  |  | -57.0B |
-| 09:00 | ZAR | Low | Current Account % of GDP (Q4) |  |  | -0.70% |
+| 41 min | USD | Moderate | IEA Monthly Report |  |  |  |
+| 41 min | EUR | Low | Italian Quarterly Unemployment Rate |  | 6.1% | 6.1% |
+| 41 min | ZAR | Low | Current Account (Q4) |  |  | -57.0B |
+| 41 min | ZAR | Low | Current Account % of GDP (Q4) |  |  | -0.70% |
 | 09:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 09:30 | ZAR | Low | Gold Production (YoY) (Jan) |  |  | 1.1% |
 | 09:30 | ZAR | Low | Mining Production (Jan) |  |  | 2.5% |

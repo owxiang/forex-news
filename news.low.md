@@ -3,9 +3,9 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | AUD | MI Inflation Expectations (Mar) | 5.2% |  | 5.0% |
-| 09:00 | EUR | Italian Quarterly Unemployment Rate |  | 6.1% | 6.1% |
-| 09:00 | ZAR | Current Account (Q4) |  |  | -57.0B |
-| 09:00 | ZAR | Current Account % of GDP (Q4) |  |  | -0.70% |
+| 41 min | EUR | Italian Quarterly Unemployment Rate |  | 6.1% | 6.1% |
+| 41 min | ZAR | Current Account (Q4) |  |  | -57.0B |
+| 41 min | ZAR | Current Account % of GDP (Q4) |  |  | -0.70% |
 | 09:30 | ZAR | Gold Production (YoY) (Jan) |  |  | 1.1% |
 | 09:30 | ZAR | Mining Production (Jan) |  |  | 2.5% |
 | 10:10 | EUR | Italian 15-Year BTP Auction |  |  | 4.03% |
