@@ -40,9 +40,8 @@
 | 12:30 | CAD | Low | Imports (Jan) | 66.13B |  | 66.85B |
 | 12:30 | CAD | Moderate | Trade Balance (Jan) | -3.65B | -1.10B | -1.30B |
 | 12:30 | CAD | Moderate | Wholesale Sales (MoM) (Jan) | -1.0% | -0.6% | 1.8% |
-| 13:30 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Feb) |  |  | 0.33% |
-| 58 min | USD | Low | Natural Gas Storage |  | -42B | -132B |
-| 15:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 7 min | USD | Low | Natural Gas Storage |  | -42B | -132B |
+| 37 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 15:30 | USD | Low | 4-Week Bill Auction |  |  | 3.640% |
 | 15:30 | USD | Low | 8-Week Bill Auction |  |  | 3.630% |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 2.1% | 2.1% |
