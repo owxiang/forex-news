@@ -46,9 +46,9 @@
 | 15:30 | USD | Low | 8-Week Bill Auction | 3.625% |  | 3.630% |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 2.7% | 2.1% | 2.1% |
 | 17:00 | USD | High | 30-Year Bond Auction | 4.871% |  | 4.750% |
-| 17 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,629B |
-| 17 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.014T |
-| 21:30 | NZD | Moderate | Business NZ PMI (Feb) |  |  | 55.2 |
-| 21:45 | NZD | Low | External Migration & Visitors (Jan) |  |  | 7.00% |
-| 21:45 | NZD | Low | Permanent/Long-Term Migration (Jan) |  |  | 2,870 |
-| 21:45 | NZD | Low | Visitor Arrivals (MoM) |  |  | 1.7% |
+| 20:30 | USD | Moderate | Fed's Balance Sheet | 6,646B |  | 6,629B |
+| 20:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.073T |  | 3.014T |
+| 16 min | NZD | Moderate | Business NZ PMI (Feb) |  |  | 55.2 |
+| 31 min | NZD | Low | External Migration & Visitors (Jan) |  |  | 7.00% |
+| 31 min | NZD | Low | Permanent/Long-Term Migration (Jan) |  |  | 2,870 |
+| 31 min | NZD | Low | Visitor Arrivals (MoM) |  |  | 1.7% |

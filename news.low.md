@@ -27,7 +27,7 @@
 | 14:30 | USD | Natural Gas Storage | -38B | -42B | -132B |
 | 15:30 | USD | 4-Week Bill Auction | 3.640% |  | 3.640% |
 | 15:30 | USD | 8-Week Bill Auction | 3.625% |  | 3.630% |
-| 17 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.014T |
-| 21:45 | NZD | External Migration & Visitors (Jan) |  |  | 7.00% |
-| 21:45 | NZD | Permanent/Long-Term Migration (Jan) |  |  | 2,870 |
-| 21:45 | NZD | Visitor Arrivals (MoM) |  |  | 1.7% |
+| 20:30 | USD | Reserve Balances with Federal Reserve Banks | 3.073T |  | 3.014T |
+| 31 min | NZD | External Migration & Visitors (Jan) |  |  | 7.00% |
+| 31 min | NZD | Permanent/Long-Term Migration (Jan) |  |  | 2,870 |
+| 31 min | NZD | Visitor Arrivals (MoM) |  |  | 1.7% |
