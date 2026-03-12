@@ -7,21 +7,21 @@
 | 09:00 | EUR | Low | Italian Quarterly Unemployment Rate | 5.6% | 6.1% | 6.1% |
 | 09:00 | ZAR | Low | Current Account (Q4) | 50.2B |  | -72.0B |
 | 09:00 | ZAR | Low | Current Account % of GDP (Q4) | 0.60% |  | -0.90% |
-| 9 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 9 min | ZAR | Low | Gold Production (YoY) (Jan) |  |  | 1.1% |
-| 9 min | ZAR | Low | Mining Production (Jan) |  |  | 2.5% |
-| 49 min | EUR | Low | Italian 15-Year BTP Auction |  |  | 4.03% |
-| 49 min | EUR | Low | Italian 3-Year BTP Auction |  |  | 2.36% |
-| 49 min | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.02% |
-| 10:30 | INR | Moderate | CPI (YoY) (Feb) |  | 3.10% | 2.75% |
-| 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Mar) |  |  | 49.0 |
-| 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Mar) |  |  | 48.07 |
-| 11:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Mar) |  |  | 47.07 |
-| 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Mar) |  |  | 41.15 |
-| 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (Mar) |  |  | 49.99 |
-| 11:00 | ZAR | Low | Manufacturing Production (MoM) (Jan) |  |  | -1.2% |
-| 11:00 | ZAR | Low | Manufacturing Production (YoY) (Jan) |  |  | -1.4% |
-| 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (Mar) |  |  | 48.57 |
+| 09:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 09:30 | ZAR | Low | Gold Production (YoY) (Jan) | 0.7% |  | 2.0% |
+| 09:30 | ZAR | Low | Mining Production (Jan) | 4.6% |  | 2.8% |
+| 10:10 | EUR | Low | Italian 15-Year BTP Auction | 3.85% |  | 4.03% |
+| 10:10 | EUR | Low | Italian 3-Year BTP Auction | 2.75% |  | 2.36% |
+| 10:10 | EUR | Low | Italian 7-Year BTP Auction | 3.34% |  | 3.02% |
+| 11 min | INR | Moderate | CPI (YoY) (Feb) |  | 3.10% | 2.75% |
+| 41 min | GBP | Low | Thomson Reuters IPSOS PCSI (Mar) |  |  | 49.0 |
+| 41 min | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Mar) |  |  | 48.07 |
+| 41 min | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Mar) |  |  | 47.07 |
+| 41 min | EUR | Low | France Thomson Reuters IPSOS PCSI (Mar) |  |  | 41.15 |
+| 41 min | EUR | Low | Thomson Reuters IPSOS PCSI (Mar) |  |  | 49.99 |
+| 41 min | ZAR | Low | Manufacturing Production (MoM) (Jan) |  |  | -1.2% |
+| 41 min | ZAR | Low | Manufacturing Production (YoY) (Jan) |  |  | -1.4% |
+| 41 min | ZAR | Low | Thomson Reuters IPSOS PCSI (Mar) |  |  | 48.57 |
 | 12:00 | BRL | Low | CPI (MoM) (Feb) |  | 0.65% | 0.33% |
 | 12:00 | BRL | Moderate | CPI (YoY) (Feb) |  | 3.77% | 4.44% |
 | 12:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Feb) |  |  | 0.33% |

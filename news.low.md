@@ -6,19 +6,19 @@
 | 09:00 | EUR | Italian Quarterly Unemployment Rate | 5.6% | 6.1% | 6.1% |
 | 09:00 | ZAR | Current Account (Q4) | 50.2B |  | -72.0B |
 | 09:00 | ZAR | Current Account % of GDP (Q4) | 0.60% |  | -0.90% |
-| 9 min | ZAR | Gold Production (YoY) (Jan) |  |  | 1.1% |
-| 9 min | ZAR | Mining Production (Jan) |  |  | 2.5% |
-| 49 min | EUR | Italian 15-Year BTP Auction |  |  | 4.03% |
-| 49 min | EUR | Italian 3-Year BTP Auction |  |  | 2.36% |
-| 49 min | EUR | Italian 7-Year BTP Auction |  |  | 3.02% |
-| 11:00 | GBP | Thomson Reuters IPSOS PCSI (Mar) |  |  | 49.0 |
-| 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Mar) |  |  | 48.07 |
-| 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Mar) |  |  | 47.07 |
-| 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Mar) |  |  | 41.15 |
-| 11:00 | EUR | Thomson Reuters IPSOS PCSI (Mar) |  |  | 49.99 |
-| 11:00 | ZAR | Manufacturing Production (MoM) (Jan) |  |  | -1.2% |
-| 11:00 | ZAR | Manufacturing Production (YoY) (Jan) |  |  | -1.4% |
-| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (Mar) |  |  | 48.57 |
+| 09:30 | ZAR | Gold Production (YoY) (Jan) | 0.7% |  | 2.0% |
+| 09:30 | ZAR | Mining Production (Jan) | 4.6% |  | 2.8% |
+| 10:10 | EUR | Italian 15-Year BTP Auction | 3.85% |  | 4.03% |
+| 10:10 | EUR | Italian 3-Year BTP Auction | 2.75% |  | 2.36% |
+| 10:10 | EUR | Italian 7-Year BTP Auction | 3.34% |  | 3.02% |
+| 41 min | GBP | Thomson Reuters IPSOS PCSI (Mar) |  |  | 49.0 |
+| 41 min | EUR | Italy Thomson Reuters IPSOS PCSI (Mar) |  |  | 48.07 |
+| 41 min | EUR | Germany Thomson Reuters IPSOS PCSI (Mar) |  |  | 47.07 |
+| 41 min | EUR | France Thomson Reuters IPSOS PCSI (Mar) |  |  | 41.15 |
+| 41 min | EUR | Thomson Reuters IPSOS PCSI (Mar) |  |  | 49.99 |
+| 41 min | ZAR | Manufacturing Production (MoM) (Jan) |  |  | -1.2% |
+| 41 min | ZAR | Manufacturing Production (YoY) (Jan) |  |  | -1.4% |
+| 41 min | ZAR | Thomson Reuters IPSOS PCSI (Mar) |  |  | 48.57 |
 | 12:00 | BRL | CPI (MoM) (Feb) |  | 0.65% | 0.33% |
 | 12:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Feb) |  |  | 0.33% |
 | 12:30 | USD | Building Permits (MoM) (Jan) |  |  | 4.8% |
