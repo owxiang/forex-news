@@ -42,10 +42,10 @@
 | 12:30 | CAD | Moderate | Wholesale Sales (MoM) (Jan) | -1.0% | -0.6% | 1.8% |
 | 14:30 | USD | Low | Natural Gas Storage | -38B | -42B | -132B |
 | 15:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 5 min | USD | Low | 4-Week Bill Auction |  |  | 3.640% |
-| 5 min | USD | Low | 8-Week Bill Auction |  |  | 3.630% |
-| 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 2.1% | 2.1% |
-| 17:01 | USD | High | 30-Year Bond Auction |  |  | 4.750% |
+| 15:30 | USD | Low | 4-Week Bill Auction | 3.640% |  | 3.640% |
+| 15:30 | USD | Low | 8-Week Bill Auction | 3.625% |  | 3.630% |
+| 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 2.7% | 2.1% | 2.1% |
+| 31 min | USD | High | 30-Year Bond Auction |  |  | 4.750% |
 | 20:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,629B |
 | 20:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.014T |
 | 21:30 | NZD | Moderate | Business NZ PMI (Feb) |  |  | 55.2 |

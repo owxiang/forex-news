@@ -25,8 +25,8 @@
 | 12:30 | CAD | Exports (Jan) | 62.48B |  | 65.55B |
 | 12:30 | CAD | Imports (Jan) | 66.13B |  | 66.85B |
 | 14:30 | USD | Natural Gas Storage | -38B | -42B | -132B |
-| 5 min | USD | 4-Week Bill Auction |  |  | 3.640% |
-| 5 min | USD | 8-Week Bill Auction |  |  | 3.630% |
+| 15:30 | USD | 4-Week Bill Auction | 3.640% |  | 3.640% |
+| 15:30 | USD | 8-Week Bill Auction | 3.625% |  | 3.630% |
 | 20:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.014T |
 | 21:45 | NZD | External Migration & Visitors (Jan) |  |  | 7.00% |
 | 21:45 | NZD | Permanent/Long-Term Migration (Jan) |  |  | 2,870 |

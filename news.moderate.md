@@ -18,6 +18,6 @@
 | 12:30 | CAD | Trade Balance (Jan) | -3.65B | -1.10B | -1.30B |
 | 12:30 | CAD | Wholesale Sales (MoM) (Jan) | -1.0% | -0.6% | 1.8% |
 | 15:00 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 17:00 | USD | Atlanta Fed GDPNow (Q1) |  | 2.1% | 2.1% |
+| 15:30 | USD | Atlanta Fed GDPNow (Q1) | 2.7% | 2.1% | 2.1% |
 | 20:30 | USD | Fed's Balance Sheet |  |  | 6,629B |
 | 21:30 | NZD | Business NZ PMI (Feb) |  |  | 55.2 |
