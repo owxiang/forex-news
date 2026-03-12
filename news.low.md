@@ -24,9 +24,9 @@
 | 12:30 | USD | Jobless Claims 4-Week Avg. | 212.00K | 215.00K | 216.00K |
 | 12:30 | CAD | Exports (Jan) | 62.48B |  | 65.55B |
 | 12:30 | CAD | Imports (Jan) | 66.13B |  | 66.85B |
-| 7 min | USD | Natural Gas Storage |  | -42B | -132B |
-| 15:30 | USD | 4-Week Bill Auction |  |  | 3.640% |
-| 15:30 | USD | 8-Week Bill Auction |  |  | 3.630% |
+| 14:30 | USD | Natural Gas Storage | -38B | -42B | -132B |
+| 5 min | USD | 4-Week Bill Auction |  |  | 3.640% |
+| 5 min | USD | 8-Week Bill Auction |  |  | 3.630% |
 | 20:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.014T |
 | 21:45 | NZD | External Migration & Visitors (Jan) |  |  | 7.00% |
 | 21:45 | NZD | Permanent/Long-Term Migration (Jan) |  |  | 2,870 |
