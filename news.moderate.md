@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 09:00 | USD | IEA Monthly Report |  |  |  |
 | 09:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 11 min | INR | CPI (YoY) (Feb) |  | 3.10% | 2.75% |
-| 12:00 | BRL | CPI (YoY) (Feb) |  | 3.77% | 4.44% |
+| 10:30 | INR | CPI (YoY) (Feb) | 3.21% | 3.10% | 2.73% |
+| 44 min | BRL | CPI (YoY) (Feb) |  | 3.77% | 4.44% |
 | 12:30 | USD | Building Permits (Jan) |  | 1.420M | 1.455M |
 | 12:30 | USD | Continuing Jobless Claims |  | 1,850K | 1,868K |
 | 12:30 | USD | Exports |  |  | 287.30B |

@@ -13,18 +13,18 @@
 | 10:10 | EUR | Low | Italian 15-Year BTP Auction | 3.85% |  | 4.03% |
 | 10:10 | EUR | Low | Italian 3-Year BTP Auction | 2.75% |  | 2.36% |
 | 10:10 | EUR | Low | Italian 7-Year BTP Auction | 3.34% |  | 3.02% |
-| 11 min | INR | Moderate | CPI (YoY) (Feb) |  | 3.10% | 2.75% |
-| 41 min | GBP | Low | Thomson Reuters IPSOS PCSI (Mar) |  |  | 49.0 |
-| 41 min | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Mar) |  |  | 48.07 |
-| 41 min | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Mar) |  |  | 47.07 |
-| 41 min | EUR | Low | France Thomson Reuters IPSOS PCSI (Mar) |  |  | 41.15 |
-| 41 min | EUR | Low | Thomson Reuters IPSOS PCSI (Mar) |  |  | 49.99 |
-| 41 min | ZAR | Low | Manufacturing Production (MoM) (Jan) |  |  | -1.2% |
-| 41 min | ZAR | Low | Manufacturing Production (YoY) (Jan) |  |  | -1.4% |
-| 41 min | ZAR | Low | Thomson Reuters IPSOS PCSI (Mar) |  |  | 48.57 |
-| 12:00 | BRL | Low | CPI (MoM) (Feb) |  | 0.65% | 0.33% |
-| 12:00 | BRL | Moderate | CPI (YoY) (Feb) |  | 3.77% | 4.44% |
-| 12:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Feb) |  |  | 0.33% |
+| 10:30 | INR | Moderate | CPI (YoY) (Feb) | 3.21% | 3.10% | 2.73% |
+| 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Mar) | 46.0 |  | 49.0 |
+| 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Mar) | 47.53 |  | 48.07 |
+| 11:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Mar) | 44.73 |  | 47.07 |
+| 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Mar) | 42.03 |  | 41.15 |
+| 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (Mar) | 51.21 |  | 49.99 |
+| 11:00 | ZAR | Low | Manufacturing Production (MoM) (Jan) | 1.5% |  | -1.3% |
+| 11:00 | ZAR | Low | Manufacturing Production (YoY) (Jan) | -0.7% |  | -1.5% |
+| 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (Mar) | 47.51 |  | 48.57 |
+| 44 min | BRL | Low | CPI (MoM) (Feb) |  | 0.65% | 0.33% |
+| 44 min | BRL | Moderate | CPI (YoY) (Feb) |  | 3.77% | 4.44% |
+| 44 min | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Feb) |  |  | 0.33% |
 | 12:30 | USD | Moderate | Building Permits (Jan) |  | 1.420M | 1.455M |
 | 12:30 | USD | Low | Building Permits (MoM) (Jan) |  |  | 4.8% |
 | 12:30 | USD | Moderate | Continuing Jobless Claims |  | 1,850K | 1,868K |
