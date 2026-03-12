@@ -22,27 +22,26 @@
 | 11:00 | ZAR | Low | Manufacturing Production (MoM) (Jan) | 1.5% |  | -1.3% |
 | 11:00 | ZAR | Low | Manufacturing Production (YoY) (Jan) | -0.7% |  | -1.5% |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (Mar) | 47.51 |  | 48.57 |
-| 12:00 | BRL | Low | CPI (MoM) (Feb) | 0.70% | 0.65% | 0.33% |
 | 12:00 | BRL | Moderate | CPI (YoY) (Feb) | 3.81% | 3.77% | 4.44% |
-| 11 min | USD | Moderate | Building Permits (Jan) |  | 1.420M | 1.455M |
-| 11 min | USD | Low | Building Permits (MoM) (Jan) |  |  | 4.8% |
-| 11 min | USD | Moderate | Continuing Jobless Claims |  | 1,850K | 1,868K |
-| 11 min | USD | Moderate | Exports |  |  | 287.30B |
-| 11 min | USD | Moderate | Goods Trade Balance |  |  | -98.50B |
-| 11 min | USD | Moderate | Housing Starts (Jan) |  | 1.340M | 1.404M |
-| 11 min | USD | Moderate | Housing Starts (MoM) (Jan) |  |  | 6.2% |
-| 11 min | USD | Moderate | Imports |  |  | 357.60B |
-| 11 min | USD | High | Initial Jobless Claims |  | 214K | 213K |
-| 11 min | USD | Low | Jobless Claims 4-Week Avg. |  | 215.00K | 215.75K |
-| 11 min | USD | Moderate | Trade Balance (Jan) |  | -66.60B | -70.30B |
-| 11 min | CAD | Moderate | Building Permits (MoM) (Jan) |  | -2.0% | 6.8% |
-| 11 min | CAD | Low | Exports (Jan) |  |  | 65.63B |
-| 11 min | CAD | Low | Imports (Jan) |  |  | 66.93B |
-| 11 min | CAD | Low | New Motor Vehicle Sales (MoM) (Jan) |  |  | 127.3K |
-| 11 min | CAD | Moderate | Trade Balance (Jan) |  | -1.10B | -1.31B |
-| 11 min | CAD | Moderate | Wholesale Sales (MoM) (Jan) |  | -0.6% | 2.0% |
-| 11 min | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Feb) |  |  | 0.33% |
-| 14:30 | USD | Low | Natural Gas Storage |  | -42B | -132B |
+| 12:00 | BRL | Low | CPI (MoM) (Feb) | 0.70% | 0.65% | 0.33% |
+| 12:30 | USD | Moderate | Building Permits (Jan) | 1.376M | 1.420M | 1.455M |
+| 12:30 | USD | Low | Building Permits (MoM) (Jan) | -5.4% |  | 4.8% |
+| 12:30 | USD | Moderate | Continuing Jobless Claims | 1,850K | 1,850K | 1,871K |
+| 12:30 | USD | Moderate | Exports | 302.10B |  | 286.30B |
+| 12:30 | USD | Moderate | Goods Trade Balance | -80.80B |  | -98.50B |
+| 12:30 | USD | Moderate | Housing Starts (Jan) | 1.487M | 1.340M | 1.387M |
+| 12:30 | USD | Moderate | Housing Starts (MoM) (Jan) | 7.2% |  | 4.8% |
+| 12:30 | USD | Moderate | Imports | 356.60B |  | 359.20B |
+| 12:30 | USD | High | Initial Jobless Claims | 213K | 214K | 214K |
+| 12:30 | USD | Low | Jobless Claims 4-Week Avg. | 212.00K | 215.00K | 216.00K |
+| 12:30 | USD | Moderate | Trade Balance (Jan) | -54.50B | -66.60B | -72.90B |
+| 12:30 | CAD | Moderate | Building Permits (MoM) (Jan) | 4.8% | -2.0% | 6.1% |
+| 12:30 | CAD | Low | Exports (Jan) | 62.48B |  | 65.55B |
+| 12:30 | CAD | Low | Imports (Jan) | 66.13B |  | 66.85B |
+| 12:30 | CAD | Moderate | Trade Balance (Jan) | -3.65B | -1.10B | -1.30B |
+| 12:30 | CAD | Moderate | Wholesale Sales (MoM) (Jan) | -1.0% | -0.6% | 1.8% |
+| 13:30 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Feb) |  |  | 0.33% |
+| 58 min | USD | Low | Natural Gas Storage |  | -42B | -132B |
 | 15:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 15:30 | USD | Low | 4-Week Bill Auction |  |  | 3.640% |
 | 15:30 | USD | Low | 8-Week Bill Auction |  |  | 3.630% |

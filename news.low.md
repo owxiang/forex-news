@@ -20,13 +20,12 @@
 | 11:00 | ZAR | Manufacturing Production (YoY) (Jan) | -0.7% |  | -1.5% |
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (Mar) | 47.51 |  | 48.57 |
 | 12:00 | BRL | CPI (MoM) (Feb) | 0.70% | 0.65% | 0.33% |
-| 11 min | USD | Building Permits (MoM) (Jan) |  |  | 4.8% |
-| 11 min | USD | Jobless Claims 4-Week Avg. |  | 215.00K | 215.75K |
-| 11 min | CAD | Exports (Jan) |  |  | 65.63B |
-| 11 min | CAD | Imports (Jan) |  |  | 66.93B |
-| 11 min | CAD | New Motor Vehicle Sales (MoM) (Jan) |  |  | 127.3K |
-| 11 min | BRL | Brazilian IPCA Inflation Index SA (MoM) (Feb) |  |  | 0.33% |
-| 14:30 | USD | Natural Gas Storage |  | -42B | -132B |
+| 12:30 | USD | Building Permits (MoM) (Jan) | -5.4% |  | 4.8% |
+| 12:30 | USD | Jobless Claims 4-Week Avg. | 212.00K | 215.00K | 216.00K |
+| 12:30 | CAD | Exports (Jan) | 62.48B |  | 65.55B |
+| 12:30 | CAD | Imports (Jan) | 66.13B |  | 66.85B |
+| 13:30 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Feb) |  |  | 0.33% |
+| 58 min | USD | Natural Gas Storage |  | -42B | -132B |
 | 15:30 | USD | 4-Week Bill Auction |  |  | 3.640% |
 | 15:30 | USD | 8-Week Bill Auction |  |  | 3.630% |
 | 20:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.014T |
