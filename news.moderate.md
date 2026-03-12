@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 41 min | USD | IEA Monthly Report |  |  |  |
-| 09:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 09:00 | USD | IEA Monthly Report |  |  |  |
+| 9 min | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 10:30 | INR | CPI (YoY) (Feb) |  | 3.10% | 2.75% |
 | 12:00 | BRL | CPI (YoY) (Feb) |  | 3.77% | 4.44% |
 | 12:30 | USD | Building Permits (Jan) |  | 1.420M | 1.455M |

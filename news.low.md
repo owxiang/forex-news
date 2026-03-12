@@ -3,14 +3,14 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | AUD | MI Inflation Expectations (Mar) | 5.2% |  | 5.0% |
-| 41 min | EUR | Italian Quarterly Unemployment Rate |  | 6.1% | 6.1% |
-| 41 min | ZAR | Current Account (Q4) |  |  | -57.0B |
-| 41 min | ZAR | Current Account % of GDP (Q4) |  |  | -0.70% |
-| 09:30 | ZAR | Gold Production (YoY) (Jan) |  |  | 1.1% |
-| 09:30 | ZAR | Mining Production (Jan) |  |  | 2.5% |
-| 10:10 | EUR | Italian 15-Year BTP Auction |  |  | 4.03% |
-| 10:10 | EUR | Italian 3-Year BTP Auction |  |  | 2.36% |
-| 10:10 | EUR | Italian 7-Year BTP Auction |  |  | 3.02% |
+| 09:00 | EUR | Italian Quarterly Unemployment Rate | 5.6% | 6.1% | 6.1% |
+| 09:00 | ZAR | Current Account (Q4) | 50.2B |  | -72.0B |
+| 09:00 | ZAR | Current Account % of GDP (Q4) | 0.60% |  | -0.90% |
+| 9 min | ZAR | Gold Production (YoY) (Jan) |  |  | 1.1% |
+| 9 min | ZAR | Mining Production (Jan) |  |  | 2.5% |
+| 49 min | EUR | Italian 15-Year BTP Auction |  |  | 4.03% |
+| 49 min | EUR | Italian 3-Year BTP Auction |  |  | 2.36% |
+| 49 min | EUR | Italian 7-Year BTP Auction |  |  | 3.02% |
 | 11:00 | GBP | Thomson Reuters IPSOS PCSI (Mar) |  |  | 49.0 |
 | 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Mar) |  |  | 48.07 |
 | 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Mar) |  |  | 47.07 |

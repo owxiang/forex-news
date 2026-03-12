@@ -3,16 +3,16 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | AUD | Low | MI Inflation Expectations (Mar) | 5.2% |  | 5.0% |
-| 41 min | USD | Moderate | IEA Monthly Report |  |  |  |
-| 41 min | EUR | Low | Italian Quarterly Unemployment Rate |  | 6.1% | 6.1% |
-| 41 min | ZAR | Low | Current Account (Q4) |  |  | -57.0B |
-| 41 min | ZAR | Low | Current Account % of GDP (Q4) |  |  | -0.70% |
-| 09:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 09:30 | ZAR | Low | Gold Production (YoY) (Jan) |  |  | 1.1% |
-| 09:30 | ZAR | Low | Mining Production (Jan) |  |  | 2.5% |
-| 10:10 | EUR | Low | Italian 15-Year BTP Auction |  |  | 4.03% |
-| 10:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 2.36% |
-| 10:10 | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.02% |
+| 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
+| 09:00 | EUR | Low | Italian Quarterly Unemployment Rate | 5.6% | 6.1% | 6.1% |
+| 09:00 | ZAR | Low | Current Account (Q4) | 50.2B |  | -72.0B |
+| 09:00 | ZAR | Low | Current Account % of GDP (Q4) | 0.60% |  | -0.90% |
+| 9 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 9 min | ZAR | Low | Gold Production (YoY) (Jan) |  |  | 1.1% |
+| 9 min | ZAR | Low | Mining Production (Jan) |  |  | 2.5% |
+| 49 min | EUR | Low | Italian 15-Year BTP Auction |  |  | 4.03% |
+| 49 min | EUR | Low | Italian 3-Year BTP Auction |  |  | 2.36% |
+| 49 min | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.02% |
 | 10:30 | INR | Moderate | CPI (YoY) (Feb) |  | 3.10% | 2.75% |
 | 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Mar) |  |  | 49.0 |
 | 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Mar) |  |  | 48.07 |
