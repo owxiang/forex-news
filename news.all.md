@@ -86,8 +86,8 @@
 | 14:00 | USD | Moderate | Michigan Consumer Sentiment (Mar) | 55.5 | 55.0 | 56.6 |
 | 14:00 | USD | Low | Michigan Current Conditions (Mar) | 57.8 | 54.9 | 56.6 |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 2.7% | 2.7% | 2.7% |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 411 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 551 |
+| 17:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 412 |  | 411 |
+| 17:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 553 |  | 551 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -72.7K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -2.3K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 57.7K |
