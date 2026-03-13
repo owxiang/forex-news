@@ -7,7 +7,7 @@
 | 02:00 | AUD | Thomson Reuters IPSOS PCSI (Mar) | 50.63 |  | 52.46 |
 | 02:00 | JPY | Thomson Reuters IPSOS PCSI (Mar) | 42.42 |  | 41.33 |
 | 02:00 | CNY | China Thomson Reuters IPSOS PCSI (Mar) | 72.46 |  | 72.82 |
-| 03:00 | KRW | M3 Money Supply (Jan) |  |  | 6,087.0B |
+| 03:00 | KRW | M3 Money Supply (Jan) | 6,102.1B |  | 6,090.4B |
 | 03:00 | KRW | M2 Money supply (Jan) | 7.10% |  | 7.40% |
 | 07:00 | GBP | Construction Output (MoM) (Jan) |  | 0.0% | -0.5% |
 | 07:00 | GBP | U.K. Construction Output (YoY) (Jan) |  | -0.1% | -0.3% |
