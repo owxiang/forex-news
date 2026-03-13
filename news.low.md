@@ -32,28 +32,28 @@
 | 09:00 | CNY | Outstanding Loan Growth (YoY) (Feb) | 6.0% | 6.0% | 6.1% |
 | 09:00 | CNY | Chinese Total Social Financing (Feb) | 2,380.0B | 2,130.0B | 7,220.0B |
 | 10:00 | EUR | Industrial Production (YoY) (Jan) | -1.2% | 1.4% | 2.2% |
-| 15 min | INR | Bank Loan Growth |  |  | 13.6% |
-| 15 min | INR | Deposit Growth |  |  | 11.2% |
-| 15 min | INR | FX Reserves, USD |  |  | 728.49B |
-| 15 min | BRL | Brazilian IPCA Inflation Index SA (MoM) (Feb) |  |  | 0.33% |
-| 15 min | HKD | PPI (YoY) (Q4) |  |  | 7.70% |
-| 45 min | MXN | Industrial Production (YoY) (Jan) |  | 1.7% | 2.4% |
-| 45 min | MXN | Industrial Production (MoM) (Jan) |  | 0.0% | 0.2% |
-| 45 min | BRL | Brazilian Service Sector Growth (MoM) (Jan) |  |  | -0.4% |
-| 45 min | BRL | Brazilian Service Sector Growth (YoY) (Jan) |  |  | 3.4% |
-| 12:30 | USD | Durables Excluding Defense (MoM) (Jan) |  |  | -2.4% |
-| 12:30 | USD | GDP Sales (Q4) |  | 1.2% | 4.5% |
-| 12:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Jan) |  | 0.5% | 0.6% |
-| 12:30 | USD | PCE Prices (Q4) |  | 2.9% | 2.8% |
-| 12:30 | USD | Personal Income (MoM) (Jan) |  | 0.5% | 0.3% |
-| 12:30 | USD | Real Consumer Spending (Q4) |  | 2.4% | 3.5% |
-| 12:30 | USD | Real Personal Consumption (MoM) (Jan) |  |  | 0.1% |
-| 12:30 | CAD | Avg hourly wages Permanent employee (Feb) |  |  | 3.3% |
-| 12:30 | CAD | Capacity Utilization Rate (Q4) |  | 78.4% | 78.5% |
-| 12:30 | CAD | Full Employment Change (Feb) |  |  | 44.9K |
-| 12:30 | CAD | Manufacturing Sales (MoM) (Jan) |  | -3.3% | 0.6% |
-| 12:30 | CAD | Part Time Employment Change (Feb) |  |  | -69.7K |
-| 12:30 | CAD | Participation Rate (Feb) |  |  | 65.0% |
+| 11:30 | INR | Bank Loan Growth | 14.5% |  | 13.6% |
+| 11:30 | INR | Deposit Growth | 11.9% |  | 11.2% |
+| 11:30 | INR | FX Reserves, USD | 716.81B |  | 728.49B |
+| 12:00 | MXN | Industrial Production (YoY) (Jan) | -1.1% | 1.7% | 2.4% |
+| 12:00 | MXN | Industrial Production (MoM) (Jan) | -1.1% | 0.0% | 0.1% |
+| 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Jan) | 0.3% |  | -0.2% |
+| 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Jan) | 3.3% |  | 3.6% |
+| 11 min | USD | Durables Excluding Defense (MoM) (Jan) |  |  | -2.4% |
+| 11 min | USD | GDP Sales (Q4) |  | 1.2% | 4.5% |
+| 11 min | USD | Goods Orders Non Defense Ex Air (MoM) (Jan) |  | 0.5% | 0.6% |
+| 11 min | USD | PCE Prices (Q4) |  | 2.9% | 2.8% |
+| 11 min | USD | Personal Income (MoM) (Jan) |  | 0.5% | 0.3% |
+| 11 min | USD | Real Consumer Spending (Q4) |  | 2.4% | 3.5% |
+| 11 min | USD | Real Personal Consumption (MoM) (Jan) |  |  | 0.1% |
+| 11 min | CAD | Avg hourly wages Permanent employee (Feb) |  |  | 3.3% |
+| 11 min | CAD | Capacity Utilization Rate (Q4) |  | 78.4% | 78.5% |
+| 11 min | CAD | Full Employment Change (Feb) |  |  | 44.9K |
+| 11 min | CAD | Manufacturing Sales (MoM) (Jan) |  | -3.3% | 0.6% |
+| 11 min | CAD | Part Time Employment Change (Feb) |  |  | -69.7K |
+| 11 min | CAD | Participation Rate (Feb) |  |  | 65.0% |
+| 13:30 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Feb) |  |  | 0.33% |
+| 13:30 | HKD | PPI (YoY) (Q4) |  |  | 7.70% |
 | 13:45 | EUR | German Current Account Balance n.s.a (Jan) |  |  | 16.1B |
 | 14:00 | USD | Dallas Fed PCE (Jan) |  |  | 2.20% |
 | 14:00 | USD | Michigan Current Conditions (Mar) |  |  | 56.6 |

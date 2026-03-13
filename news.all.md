@@ -44,41 +44,41 @@
 | 09:00 | CNY | Low | Chinese Total Social Financing (Feb) | 2,380.0B | 2,130.0B | 7,220.0B |
 | 10:00 | EUR | Moderate | Industrial Production (MoM) (Jan) | -1.5% | 0.6% | -0.6% |
 | 10:00 | EUR | Low | Industrial Production (YoY) (Jan) | -1.2% | 1.4% | 2.2% |
-| 15 min | INR | Low | Bank Loan Growth |  |  | 13.6% |
-| 15 min | INR | Low | Deposit Growth |  |  | 11.2% |
-| 15 min | INR | Low | FX Reserves, USD |  |  | 728.49B |
-| 15 min | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Feb) |  |  | 0.33% |
-| 15 min | HKD | Low | PPI (YoY) (Q4) |  |  | 7.70% |
-| 45 min | GBP | Moderate | NIESR Monthly GDP Tracker (Feb) |  |  | 0.3% |
-| 45 min | MXN | Low | Industrial Production (YoY) (Jan) |  | 1.7% | 2.4% |
-| 45 min | MXN | Low | Industrial Production (MoM) (Jan) |  | 0.0% | 0.2% |
-| 45 min | BRL | Low | Brazilian Service Sector Growth (MoM) (Jan) |  |  | -0.4% |
-| 45 min | BRL | Low | Brazilian Service Sector Growth (YoY) (Jan) |  |  | 3.4% |
-| 12:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Jan) |  | 0.5% | 0.9% |
-| 12:30 | USD | High | Core PCE Price Index (MoM) (Jan) |  | 0.4% | 0.4% |
-| 12:30 | USD | High | Core PCE Price Index (YoY) (Jan) |  | 3.1% | 3.0% |
-| 12:30 | USD | Moderate | Core PCE Prices (Q4) |  | 2.70% | 2.90% |
-| 12:30 | USD | High | Durable Goods Orders (MoM) (Jan) |  | 1.1% | -1.4% |
-| 12:30 | USD | Low | Durables Excluding Defense (MoM) (Jan) |  |  | -2.4% |
-| 12:30 | USD | High | GDP (QoQ) (Q4) |  | 1.4% | 4.4% |
-| 12:30 | USD | Moderate | GDP Price Index (QoQ) (Q4) |  | 3.7% | 3.7% |
-| 12:30 | USD | Low | GDP Sales (Q4) |  | 1.2% | 4.5% |
-| 12:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Jan) |  | 0.5% | 0.6% |
-| 12:30 | USD | Moderate | PCE price index (MoM) (Jan) |  | 0.3% | 0.4% |
-| 12:30 | USD | Moderate | PCE Price index (YoY) (Jan) |  | 2.9% | 2.9% |
-| 12:30 | USD | Low | PCE Prices (Q4) |  | 2.9% | 2.8% |
-| 12:30 | USD | Low | Personal Income (MoM) (Jan) |  | 0.5% | 0.3% |
-| 12:30 | USD | Moderate | Personal Spending (MoM) (Jan) |  | 0.3% | 0.4% |
-| 12:30 | USD | Low | Real Consumer Spending (Q4) |  | 2.4% | 3.5% |
-| 12:30 | USD | Low | Real Personal Consumption (MoM) (Jan) |  |  | 0.1% |
-| 12:30 | CAD | Low | Avg hourly wages Permanent employee (Feb) |  |  | 3.3% |
-| 12:30 | CAD | Low | Capacity Utilization Rate (Q4) |  | 78.4% | 78.5% |
-| 12:30 | CAD | Moderate | Employment Change (Feb) |  | 10.3K | -24.8K |
-| 12:30 | CAD | Low | Full Employment Change (Feb) |  |  | 44.9K |
-| 12:30 | CAD | Low | Manufacturing Sales (MoM) (Jan) |  | -3.3% | 0.6% |
-| 12:30 | CAD | Low | Part Time Employment Change (Feb) |  |  | -69.7K |
-| 12:30 | CAD | Low | Participation Rate (Feb) |  |  | 65.0% |
-| 12:30 | CAD | Moderate | Unemployment Rate (Feb) |  | 6.6% | 6.5% |
+| 11:30 | INR | Low | Bank Loan Growth | 14.5% |  | 13.6% |
+| 11:30 | INR | Low | Deposit Growth | 11.9% |  | 11.2% |
+| 11:30 | INR | Low | FX Reserves, USD | 716.81B |  | 728.49B |
+| 12:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Feb) |  |  | 0.3% |
+| 12:00 | MXN | Low | Industrial Production (YoY) (Jan) | -1.1% | 1.7% | 2.4% |
+| 12:00 | MXN | Low | Industrial Production (MoM) (Jan) | -1.1% | 0.0% | 0.1% |
+| 12:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Jan) | 0.3% |  | -0.2% |
+| 12:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Jan) | 3.3% |  | 3.6% |
+| 11 min | USD | Moderate | Core Durable Goods Orders (MoM) (Jan) |  | 0.5% | 0.9% |
+| 11 min | USD | High | Core PCE Price Index (MoM) (Jan) |  | 0.4% | 0.4% |
+| 11 min | USD | High | Core PCE Price Index (YoY) (Jan) |  | 3.1% | 3.0% |
+| 11 min | USD | Moderate | Core PCE Prices (Q4) |  | 2.70% | 2.90% |
+| 11 min | USD | High | Durable Goods Orders (MoM) (Jan) |  | 1.1% | -1.4% |
+| 11 min | USD | Low | Durables Excluding Defense (MoM) (Jan) |  |  | -2.4% |
+| 11 min | USD | High | GDP (QoQ) (Q4) |  | 1.4% | 4.4% |
+| 11 min | USD | Moderate | GDP Price Index (QoQ) (Q4) |  | 3.7% | 3.7% |
+| 11 min | USD | Low | GDP Sales (Q4) |  | 1.2% | 4.5% |
+| 11 min | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Jan) |  | 0.5% | 0.6% |
+| 11 min | USD | Moderate | PCE price index (MoM) (Jan) |  | 0.3% | 0.4% |
+| 11 min | USD | Moderate | PCE Price index (YoY) (Jan) |  | 2.9% | 2.9% |
+| 11 min | USD | Low | PCE Prices (Q4) |  | 2.9% | 2.8% |
+| 11 min | USD | Low | Personal Income (MoM) (Jan) |  | 0.5% | 0.3% |
+| 11 min | USD | Moderate | Personal Spending (MoM) (Jan) |  | 0.3% | 0.4% |
+| 11 min | USD | Low | Real Consumer Spending (Q4) |  | 2.4% | 3.5% |
+| 11 min | USD | Low | Real Personal Consumption (MoM) (Jan) |  |  | 0.1% |
+| 11 min | CAD | Low | Avg hourly wages Permanent employee (Feb) |  |  | 3.3% |
+| 11 min | CAD | Low | Capacity Utilization Rate (Q4) |  | 78.4% | 78.5% |
+| 11 min | CAD | Moderate | Employment Change (Feb) |  | 10.3K | -24.8K |
+| 11 min | CAD | Low | Full Employment Change (Feb) |  |  | 44.9K |
+| 11 min | CAD | Low | Manufacturing Sales (MoM) (Jan) |  | -3.3% | 0.6% |
+| 11 min | CAD | Low | Part Time Employment Change (Feb) |  |  | -69.7K |
+| 11 min | CAD | Low | Participation Rate (Feb) |  |  | 65.0% |
+| 11 min | CAD | Moderate | Unemployment Rate (Feb) |  | 6.6% | 6.5% |
+| 13:30 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Feb) |  |  | 0.33% |
+| 13:30 | HKD | Low | PPI (YoY) (Q4) |  |  | 7.70% |
 | 13:45 | EUR | Low | German Current Account Balance n.s.a (Jan) |  |  | 16.1B |
 | 14:00 | USD | Low | Dallas Fed PCE (Jan) |  |  | 2.20% |
 | 14:00 | USD | High | JOLTS Job Openings (Jan) |  | 6.760M | 6.542M |
