@@ -9,14 +9,14 @@
 | 02:00 | CNY | China Thomson Reuters IPSOS PCSI (Mar) | 72.46 |  | 72.82 |
 | 03:00 | KRW | M3 Money Supply (Jan) | 6,102.1B |  | 6,090.4B |
 | 03:00 | KRW | M2 Money supply (Jan) | 7.10% |  | 7.40% |
-| 07:00 | GBP | Construction Output (MoM) (Jan) |  | 0.0% | -0.5% |
-| 07:00 | GBP | U.K. Construction Output (YoY) (Jan) |  | -0.1% | -0.3% |
-| 07:00 | GBP | GDP (YoY) (Jan) |  | 0.9% | 0.7% |
-| 07:00 | GBP | Index of Services |  | 0.3% | 0.0% |
-| 07:00 | GBP | Industrial Production (YoY) (Jan) |  | 0.6% | 0.5% |
-| 07:00 | GBP | Manufacturing Production (YoY) (Jan) |  | 1.5% | 0.5% |
-| 07:00 | EUR | German WPI (MoM) (Feb) |  | 0.3% | 0.9% |
-| 07:00 | EUR | German WPI (YoY) (Feb) |  |  | 1.2% |
+| 36 min | GBP | Construction Output (MoM) (Jan) |  | 0.0% | -0.5% |
+| 36 min | GBP | U.K. Construction Output (YoY) (Jan) |  | -0.1% | -0.3% |
+| 36 min | GBP | GDP (YoY) (Jan) |  | 0.9% | 0.7% |
+| 36 min | GBP | Index of Services |  | 0.3% | 0.0% |
+| 36 min | GBP | Industrial Production (YoY) (Jan) |  | 0.6% | 0.5% |
+| 36 min | GBP | Manufacturing Production (YoY) (Jan) |  | 1.5% | 0.5% |
+| 36 min | EUR | German WPI (MoM) (Feb) |  | 0.3% | 0.9% |
+| 36 min | EUR | German WPI (YoY) (Feb) |  |  | 1.2% |
 | 07:45 | EUR | French CPI NSA (MoM) (Feb) |  |  | 0.70% |
 | 07:45 | EUR | French CPI NSA (YoY) (Feb) |  |  | 1.00% |
 | 07:45 | EUR | French CPI (YoY) (Feb) |  | 1.0% | 0.3% |
