@@ -40,8 +40,8 @@
 | 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Jan) |  |  | 3.4% |
 | 12:30 | USD | Durables Excluding Defense (MoM) (Jan) |  |  | -2.4% |
 | 12:30 | USD | GDP Sales (Q4) |  | 1.2% | 4.5% |
-| 12:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Jan) |  | 0.5% | 0.8% |
-| 12:30 | USD | PCE Prices (Q4) |  | 2.9% | 2.9% |
+| 12:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Jan) |  | 0.5% | 0.6% |
+| 12:30 | USD | PCE Prices (Q4) |  | 2.9% | 2.8% |
 | 12:30 | USD | Personal Income (MoM) (Jan) |  | 0.5% | 0.3% |
 | 12:30 | USD | Real Consumer Spending (Q4) |  | 2.4% | 3.5% |
 | 12:30 | USD | Real Personal Consumption (MoM) (Jan) |  |  | 0.1% |

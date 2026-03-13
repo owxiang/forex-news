@@ -27,14 +27,14 @@
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Feb) |  |  | 1.00% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Feb) |  | 0.7% | -0.3% |
 | 07:45 | EUR | Low | French CPI (YoY) (Feb) |  | 1.0% | 0.3% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Feb) |  | 0.4% | 0.8% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Feb) |  | 0.4% | -0.4% |
 | 07:45 | EUR | Low | French HICP (YoY) (Feb) |  | 1.1% | 0.4% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Feb) |  |  | 0.30% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Feb) |  | 2.7% | 2.6% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Feb) |  | 0.4% | -0.4% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Feb) |  | 2.3% | 2.3% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Feb) |  | 0.4% | -0.8% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Feb) |  | 2.5% | 2.5% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Feb) |  | 2.5% | 2.4% |
 | 08:30 | HKD | Low | Industrial Production (YoY) (Q4) |  |  | 5.50% |
 | 08:30 | HKD | Low | PPI (YoY) (Q4) |  |  | 7.70% |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Jan) |  | 0.4% | -0.4% |
@@ -53,16 +53,16 @@
 | 12:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Jan) |  | 0.5% | 0.9% |
 | 12:30 | USD | High | Core PCE Price Index (MoM) (Jan) |  | 0.4% | 0.4% |
 | 12:30 | USD | High | Core PCE Price Index (YoY) (Jan) |  | 3.1% | 3.0% |
-| 12:30 | USD | Moderate | Core PCE Prices (Q4) |  | 2.70% | 2.70% |
+| 12:30 | USD | Moderate | Core PCE Prices (Q4) |  | 2.70% | 2.90% |
 | 12:30 | USD | High | Durable Goods Orders (MoM) (Jan) |  | 1.1% | -1.4% |
 | 12:30 | USD | Low | Durables Excluding Defense (MoM) (Jan) |  |  | -2.4% |
-| 12:30 | USD | High | GDP (QoQ) (Q4) |  | 1.4% | 1.4% |
+| 12:30 | USD | High | GDP (QoQ) (Q4) |  | 1.4% | 4.4% |
 | 12:30 | USD | Moderate | GDP Price Index (QoQ) (Q4) |  | 3.7% | 3.7% |
 | 12:30 | USD | Low | GDP Sales (Q4) |  | 1.2% | 4.5% |
-| 12:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Jan) |  | 0.5% | 0.8% |
+| 12:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Jan) |  | 0.5% | 0.6% |
 | 12:30 | USD | Moderate | PCE price index (MoM) (Jan) |  | 0.3% | 0.4% |
-| 12:30 | USD | Moderate | PCE Price index (YoY) (Jan) |  | 2.9% | 2.8% |
-| 12:30 | USD | Low | PCE Prices (Q4) |  | 2.9% | 2.9% |
+| 12:30 | USD | Moderate | PCE Price index (YoY) (Jan) |  | 2.9% | 2.9% |
+| 12:30 | USD | Low | PCE Prices (Q4) |  | 2.9% | 2.8% |
 | 12:30 | USD | Low | Personal Income (MoM) (Jan) |  | 0.5% | 0.3% |
 | 12:30 | USD | Moderate | Personal Spending (MoM) (Jan) |  | 0.3% | 0.4% |
 | 12:30 | USD | Low | Real Consumer Spending (Q4) |  | 2.4% | 3.5% |

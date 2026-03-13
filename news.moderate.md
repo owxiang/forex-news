@@ -8,16 +8,16 @@
 | 07:00 | GBP | Trade Balance (Jan) |  | -22.20B | -22.72B |
 | 07:00 | GBP | Trade Balance Non-EU (Jan) |  |  | -10.99B |
 | 07:45 | EUR | French CPI (MoM) (Feb) |  | 0.7% | -0.3% |
-| 07:45 | EUR | French HICP (MoM) (Feb) |  | 0.4% | 0.8% |
+| 07:45 | EUR | French HICP (MoM) (Feb) |  | 0.4% | -0.4% |
 | 08:00 | EUR | Spanish CPI (YoY) (Feb) |  | 2.3% | 2.3% |
-| 08:00 | EUR | Spanish HICP (YoY) (Feb) |  | 2.5% | 2.5% |
+| 08:00 | EUR | Spanish HICP (YoY) (Feb) |  | 2.5% | 2.4% |
 | 10:00 | EUR | Industrial Production (MoM) (Jan) |  | 0.6% | -1.4% |
 | 12:00 | GBP | NIESR Monthly GDP Tracker (Feb) |  |  | 0.3% |
 | 12:30 | USD | Core Durable Goods Orders (MoM) (Jan) |  | 0.5% | 0.9% |
-| 12:30 | USD | Core PCE Prices (Q4) |  | 2.70% | 2.70% |
+| 12:30 | USD | Core PCE Prices (Q4) |  | 2.70% | 2.90% |
 | 12:30 | USD | GDP Price Index (QoQ) (Q4) |  | 3.7% | 3.7% |
 | 12:30 | USD | PCE price index (MoM) (Jan) |  | 0.3% | 0.4% |
-| 12:30 | USD | PCE Price index (YoY) (Jan) |  | 2.9% | 2.8% |
+| 12:30 | USD | PCE Price index (YoY) (Jan) |  | 2.9% | 2.9% |
 | 12:30 | USD | Personal Spending (MoM) (Jan) |  | 0.3% | 0.4% |
 | 12:30 | CAD | Employment Change (Feb) |  | 10.3K | -24.8K |
 | 12:30 | CAD | Unemployment Rate (Feb) |  | 6.6% | 6.5% |
