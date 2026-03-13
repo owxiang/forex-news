@@ -47,7 +47,7 @@
 | 11:30 | INR | Low | Bank Loan Growth | 14.5% |  | 13.6% |
 | 11:30 | INR | Low | Deposit Growth | 11.9% |  | 11.2% |
 | 11:30 | INR | Low | FX Reserves, USD | 716.81B |  | 728.49B |
-| 12:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Feb) |  |  | 0.3% |
+| 12:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Feb) | 0.3% |  | 0.2% |
 | 12:00 | MXN | Low | Industrial Production (YoY) (Jan) | -1.1% | 1.7% | 2.4% |
 | 12:00 | MXN | Low | Industrial Production (MoM) (Jan) | -1.1% | 0.0% | 0.1% |
 | 12:00 | EUR | Low | German Current Account Balance n.s.a (Jan) | 17.1B |  | 17.4B |
@@ -88,23 +88,23 @@
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 2.7% | 2.7% | 2.7% |
 | 17:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 412 |  | 411 |
 | 17:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 553 |  | 551 |
-| 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -72.7K |
-| 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -2.3K |
-| 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 57.7K |
-| 20:30 | USD | Low | CFTC Corn speculative net positions |  |  | 90.1K |
-| 20:30 | USD | Moderate | CFTC Crude Oil speculative net positions |  |  | 172.2K |
-| 20:30 | USD | Moderate | CFTC Gold speculative net positions |  |  | 160.1K |
-| 20:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions |  |  | 2.4K |
-| 20:30 | USD | Low | CFTC Natural Gas speculative net positions |  |  | -206.4K |
-| 20:30 | USD | Moderate | CFTC S&P 500 speculative net positions |  |  | -168.2K |
-| 20:30 | USD | Low | CFTC Silver speculative net positions |  |  | 23.3K |
-| 20:30 | USD | Low | CFTC Soybeans speculative net positions |  |  | 221.9K |
-| 20:30 | USD | Low | CFTC Wheat speculative net positions |  |  | -26.0K |
-| 20:30 | CAD | Low | CFTC CAD speculative net positions |  |  | 21.1K |
-| 20:30 | MXN | Low | CFTC MXN speculative net positions |  |  | 77.0K |
-| 20:30 | CHF | Low | CFTC CHF speculative net positions |  |  | -41.3K |
-| 20:30 | AUD | Moderate | CFTC AUD speculative net positions |  |  | 67.8K |
-| 20:30 | BRL | Moderate | CFTC BRL speculative net positions |  |  | 45.0K |
-| 20:30 | JPY | Moderate | CFTC JPY speculative net positions |  |  | -16.6K |
-| 20:30 | NZD | Low | CFTC NZD speculative net positions |  |  | -34.3K |
-| 20:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | 136.5K |
+| 19:30 | GBP | Moderate | CFTC GBP speculative net positions | -84.2K |  | -72.7K |
+| 19:30 | USD | Low | CFTC Aluminium speculative net positions | -1.6K |  | -2.3K |
+| 19:30 | USD | Low | CFTC Copper speculative net positions | 51.7K |  | 57.7K |
+| 19:30 | USD | Low | CFTC Corn speculative net positions | 257.8K |  | 90.1K |
+| 19:30 | USD | Moderate | CFTC Crude Oil speculative net positions | 228.0K |  | 172.2K |
+| 19:30 | USD | Moderate | CFTC Gold speculative net positions | 163.1K |  | 160.1K |
+| 19:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions | 24.9K |  | 2.4K |
+| 19:30 | USD | Low | CFTC Natural Gas speculative net positions | -186.9K |  | -206.4K |
+| 19:30 | USD | Moderate | CFTC S&P 500 speculative net positions | -134.5K |  | -168.2K |
+| 19:30 | USD | Low | CFTC Silver speculative net positions | 24.6K |  | 23.3K |
+| 19:30 | USD | Low | CFTC Soybeans speculative net positions | 230.3K |  | 221.9K |
+| 19:30 | USD | Low | CFTC Wheat speculative net positions | -29.2K |  | -26.0K |
+| 19:30 | CAD | Low | CFTC CAD speculative net positions | 36.2K |  | 21.1K |
+| 19:30 | MXN | Low | CFTC MXN speculative net positions | 73.8K |  | 77.0K |
+| 19:30 | CHF | Low | CFTC CHF speculative net positions | -41.1K |  | -41.3K |
+| 19:30 | AUD | Moderate | CFTC AUD speculative net positions | 54.2K |  | 67.8K |
+| 19:30 | BRL | Moderate | CFTC BRL speculative net positions | 51.0K |  | 45.0K |
+| 19:30 | JPY | Moderate | CFTC JPY speculative net positions | -41.4K |  | -16.6K |
+| 19:30 | NZD | Low | CFTC NZD speculative net positions | -37.1K |  | -34.3K |
+| 19:30 | EUR | Moderate | CFTC EUR speculative net positions | 105.1K |  | 136.5K |

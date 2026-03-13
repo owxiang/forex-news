@@ -55,14 +55,14 @@
 | 12:30 | CAD | Participation Rate (Feb) | 64.9% |  | 65.0% |
 | 14:00 | USD | Dallas Fed PCE (Jan) | 2.70% |  | 2.20% |
 | 14:00 | USD | Michigan Current Conditions (Mar) | 57.8 | 54.9 | 56.6 |
-| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -2.3K |
-| 20:30 | USD | CFTC Copper speculative net positions |  |  | 57.7K |
-| 20:30 | USD | CFTC Corn speculative net positions |  |  | 90.1K |
-| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -206.4K |
-| 20:30 | USD | CFTC Silver speculative net positions |  |  | 23.3K |
-| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 221.9K |
-| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -26.0K |
-| 20:30 | CAD | CFTC CAD speculative net positions |  |  | 21.1K |
-| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 77.0K |
-| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -41.3K |
-| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -34.3K |
+| 19:30 | USD | CFTC Aluminium speculative net positions | -1.6K |  | -2.3K |
+| 19:30 | USD | CFTC Copper speculative net positions | 51.7K |  | 57.7K |
+| 19:30 | USD | CFTC Corn speculative net positions | 257.8K |  | 90.1K |
+| 19:30 | USD | CFTC Natural Gas speculative net positions | -186.9K |  | -206.4K |
+| 19:30 | USD | CFTC Silver speculative net positions | 24.6K |  | 23.3K |
+| 19:30 | USD | CFTC Soybeans speculative net positions | 230.3K |  | 221.9K |
+| 19:30 | USD | CFTC Wheat speculative net positions | -29.2K |  | -26.0K |
+| 19:30 | CAD | CFTC CAD speculative net positions | 36.2K |  | 21.1K |
+| 19:30 | MXN | CFTC MXN speculative net positions | 73.8K |  | 77.0K |
+| 19:30 | CHF | CFTC CHF speculative net positions | -41.1K |  | -41.3K |
+| 19:30 | NZD | CFTC NZD speculative net positions | -37.1K |  | -34.3K |
