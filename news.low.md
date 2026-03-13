@@ -31,7 +31,7 @@
 | 09:02 | CNY | Outstanding Loan Growth (YoY) (Feb) | 6.0% |  | 6.1% |
 | 09:02 | CNY | Chinese Total Social Financing (Feb) | 2,380.0B |  | 7,220.0B |
 | 09:02 | CNY | M2 Money Stock (YoY) (Feb) | 9.0% |  | 9.0% |
-| 42 min | EUR | Industrial Production (YoY) (Jan) |  | 1.4% | 1.2% |
+| 10:00 | EUR | Industrial Production (YoY) (Jan) | -1.2% | 1.4% | 2.2% |
 | 11:30 | INR | Bank Loan Growth |  |  | 13.6% |
 | 11:30 | INR | Deposit Growth |  |  | 11.2% |
 | 11:30 | INR | FX Reserves, USD |  |  | 728.49B |

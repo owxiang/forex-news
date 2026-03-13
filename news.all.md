@@ -42,8 +42,8 @@
 | 09:02 | CNY | Low | Outstanding Loan Growth (YoY) (Feb) | 6.0% |  | 6.1% |
 | 09:02 | CNY | Low | Chinese Total Social Financing (Feb) | 2,380.0B |  | 7,220.0B |
 | 09:02 | CNY | Low | M2 Money Stock (YoY) (Feb) | 9.0% |  | 9.0% |
-| 42 min | EUR | Moderate | Industrial Production (MoM) (Jan) |  | 0.6% | -1.4% |
-| 42 min | EUR | Low | Industrial Production (YoY) (Jan) |  | 1.4% | 1.2% |
+| 10:00 | EUR | Moderate | Industrial Production (MoM) (Jan) | -1.5% | 0.6% | -0.6% |
+| 10:00 | EUR | Low | Industrial Production (YoY) (Jan) | -1.2% | 1.4% | 2.2% |
 | 11:30 | INR | Low | Bank Loan Growth |  |  | 13.6% |
 | 11:30 | INR | Low | Deposit Growth |  |  | 11.2% |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 728.49B |

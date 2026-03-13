@@ -12,7 +12,7 @@
 | 08:00 | EUR | Spanish CPI (YoY) (Feb) | 2.3% | 2.3% | 2.3% |
 | 08:00 | EUR | Spanish HICP (YoY) (Feb) | 2.5% | 2.5% | 2.4% |
 | 09:02 | CNY | New Loans (Feb) | 900.0B |  | 4,710.0B |
-| 42 min | EUR | Industrial Production (MoM) (Jan) |  | 0.6% | -1.4% |
+| 10:00 | EUR | Industrial Production (MoM) (Jan) | -1.5% | 0.6% | -0.6% |
 | 12:00 | GBP | NIESR Monthly GDP Tracker (Feb) |  |  | 0.3% |
 | 12:30 | USD | Core Durable Goods Orders (MoM) (Jan) |  | 0.5% | 0.9% |
 | 12:30 | USD | Core PCE Prices (Q4) |  | 2.70% | 2.90% |
