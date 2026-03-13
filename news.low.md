@@ -25,15 +25,18 @@
 | 08:00 | EUR | Core CPI (YoY) (Feb) | 2.7% | 2.7% | 2.6% |
 | 08:00 | EUR | Spanish CPI (MoM) (Feb) | 0.4% | 0.4% | -0.4% |
 | 08:00 | EUR | Spanish HICP (MoM) (Feb) | 0.4% | 0.4% | -0.8% |
-| 13 min | HKD | Industrial Production (YoY) (Q4) |  |  | 5.50% |
-| 13 min | HKD | PPI (YoY) (Q4) |  |  | 7.70% |
-| 43 min | EUR | Italian Industrial Production (MoM) (Jan) |  | 0.4% | -0.4% |
-| 43 min | EUR | Italian Industrial Production (YoY) (Jan) |  | 0.8% | 3.2% |
-| 10:00 | EUR | Industrial Production (YoY) (Jan) |  | 1.4% | 1.2% |
+| 08:30 | HKD | Industrial Production (YoY) (Q4) | 5.70% |  | 5.40% |
+| 09:00 | EUR | Italian Industrial Production (MoM) (Jan) | -0.6% | 0.4% | -0.5% |
+| 09:00 | EUR | Italian Industrial Production (YoY) (Jan) | -0.6% | 0.8% | 2.7% |
+| 09:02 | CNY | Outstanding Loan Growth (YoY) (Feb) | 6.0% |  | 6.1% |
+| 09:02 | CNY | Chinese Total Social Financing (Feb) | 2,380.0B |  | 7,220.0B |
+| 09:02 | CNY | M2 Money Stock (YoY) (Feb) | 9.0% |  | 9.0% |
+| 42 min | EUR | Industrial Production (YoY) (Jan) |  | 1.4% | 1.2% |
 | 11:30 | INR | Bank Loan Growth |  |  | 13.6% |
 | 11:30 | INR | Deposit Growth |  |  | 11.2% |
 | 11:30 | INR | FX Reserves, USD |  |  | 728.49B |
 | 11:30 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Feb) |  |  | 0.33% |
+| 11:30 | HKD | PPI (YoY) (Q4) |  |  | 7.70% |
 | 12:00 | MXN | Industrial Production (YoY) (Jan) |  | 1.7% | 2.4% |
 | 12:00 | MXN | Industrial Production (MoM) (Jan) |  | 0.0% | 0.2% |
 | 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Jan) |  |  | -0.4% |

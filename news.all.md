@@ -35,16 +35,20 @@
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Feb) | 2.3% | 2.3% | 2.3% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Feb) | 0.4% | 0.4% | -0.8% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Feb) | 2.5% | 2.5% | 2.4% |
-| 13 min | HKD | Low | Industrial Production (YoY) (Q4) |  |  | 5.50% |
-| 13 min | HKD | Low | PPI (YoY) (Q4) |  |  | 7.70% |
-| 43 min | EUR | Low | Italian Industrial Production (MoM) (Jan) |  | 0.4% | -0.4% |
-| 43 min | EUR | Low | Italian Industrial Production (YoY) (Jan) |  | 0.8% | 3.2% |
-| 10:00 | EUR | Moderate | Industrial Production (MoM) (Jan) |  | 0.6% | -1.4% |
-| 10:00 | EUR | Low | Industrial Production (YoY) (Jan) |  | 1.4% | 1.2% |
+| 08:30 | HKD | Low | Industrial Production (YoY) (Q4) | 5.70% |  | 5.40% |
+| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Jan) | -0.6% | 0.4% | -0.5% |
+| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Jan) | -0.6% | 0.8% | 2.7% |
+| 09:02 | CNY | Moderate | New Loans (Feb) | 900.0B |  | 4,710.0B |
+| 09:02 | CNY | Low | Outstanding Loan Growth (YoY) (Feb) | 6.0% |  | 6.1% |
+| 09:02 | CNY | Low | Chinese Total Social Financing (Feb) | 2,380.0B |  | 7,220.0B |
+| 09:02 | CNY | Low | M2 Money Stock (YoY) (Feb) | 9.0% |  | 9.0% |
+| 42 min | EUR | Moderate | Industrial Production (MoM) (Jan) |  | 0.6% | -1.4% |
+| 42 min | EUR | Low | Industrial Production (YoY) (Jan) |  | 1.4% | 1.2% |
 | 11:30 | INR | Low | Bank Loan Growth |  |  | 13.6% |
 | 11:30 | INR | Low | Deposit Growth |  |  | 11.2% |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 728.49B |
 | 11:30 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Feb) |  |  | 0.33% |
+| 11:30 | HKD | Low | PPI (YoY) (Q4) |  |  | 7.70% |
 | 12:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Feb) |  |  | 0.3% |
 | 12:00 | MXN | Low | Industrial Production (YoY) (Jan) |  | 1.7% | 2.4% |
 | 12:00 | MXN | Low | Industrial Production (MoM) (Jan) |  | 0.0% | 0.2% |
