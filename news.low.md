@@ -9,22 +9,22 @@
 | 02:00 | CNY | China Thomson Reuters IPSOS PCSI (Mar) | 72.46 |  | 72.82 |
 | 03:00 | KRW | M3 Money Supply (Jan) | 6,102.1B |  | 6,090.4B |
 | 03:00 | KRW | M2 Money supply (Jan) | 7.10% |  | 7.40% |
-| 36 min | GBP | Construction Output (MoM) (Jan) |  | 0.0% | -0.5% |
-| 36 min | GBP | U.K. Construction Output (YoY) (Jan) |  | -0.1% | -0.3% |
-| 36 min | GBP | GDP (YoY) (Jan) |  | 0.9% | 0.7% |
-| 36 min | GBP | Index of Services |  | 0.3% | 0.0% |
-| 36 min | GBP | Industrial Production (YoY) (Jan) |  | 0.6% | 0.5% |
-| 36 min | GBP | Manufacturing Production (YoY) (Jan) |  | 1.5% | 0.5% |
-| 36 min | EUR | German WPI (MoM) (Feb) |  | 0.3% | 0.9% |
-| 36 min | EUR | German WPI (YoY) (Feb) |  |  | 1.2% |
-| 07:45 | EUR | French CPI NSA (MoM) (Feb) |  |  | 0.70% |
-| 07:45 | EUR | French CPI NSA (YoY) (Feb) |  |  | 1.00% |
-| 07:45 | EUR | French CPI (YoY) (Feb) |  | 1.0% | 0.3% |
-| 07:45 | EUR | French HICP (YoY) (Feb) |  | 1.1% | 0.4% |
-| 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Feb) |  |  | 0.30% |
-| 08:00 | EUR | Core CPI (YoY) (Feb) |  | 2.7% | 2.6% |
-| 08:00 | EUR | Spanish CPI (MoM) (Feb) |  | 0.4% | -0.4% |
-| 08:00 | EUR | Spanish HICP (MoM) (Feb) |  | 0.4% | -0.8% |
+| 07:00 | GBP | Construction Output (MoM) (Jan) | 0.2% | 0.0% | -0.5% |
+| 07:00 | GBP | U.K. Construction Output (YoY) (Jan) | -0.2% | -0.1% | -0.3% |
+| 07:00 | GBP | GDP (YoY) (Jan) | 0.8% | 0.9% | 0.7% |
+| 07:00 | GBP | Index of Services | 0.2% | 0.3% | 0.0% |
+| 07:00 | GBP | Industrial Production (YoY) (Jan) | 0.4% | 0.6% | 0.5% |
+| 07:00 | GBP | Manufacturing Production (YoY) (Jan) | 1.3% | 1.5% | 0.5% |
+| 07:00 | EUR | German WPI (MoM) (Feb) | 0.6% | 0.3% | 0.9% |
+| 07:00 | EUR | German WPI (YoY) (Feb) | 1.2% |  | 1.2% |
+| 22 min | EUR | French CPI NSA (MoM) (Feb) |  |  | 0.70% |
+| 22 min | EUR | French CPI NSA (YoY) (Feb) |  |  | 1.00% |
+| 22 min | EUR | French CPI (YoY) (Feb) |  | 1.0% | 0.3% |
+| 22 min | EUR | French HICP (YoY) (Feb) |  | 1.1% | 0.4% |
+| 22 min | EUR | France Inflation Ex-Tobacco (YoY) (Feb) |  |  | 0.30% |
+| 37 min | EUR | Core CPI (YoY) (Feb) |  | 2.7% | 2.6% |
+| 37 min | EUR | Spanish CPI (MoM) (Feb) |  | 0.4% | -0.4% |
+| 37 min | EUR | Spanish HICP (MoM) (Feb) |  | 0.4% | -0.8% |
 | 08:30 | HKD | Industrial Production (YoY) (Q4) |  |  | 5.50% |
 | 08:30 | HKD | PPI (YoY) (Q4) |  |  | 7.70% |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Jan) |  | 0.4% | -0.4% |

@@ -9,32 +9,32 @@
 | 02:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Mar) | 72.46 |  | 72.82 |
 | 03:00 | KRW | Low | M3 Money Supply (Jan) | 6,102.1B |  | 6,090.4B |
 | 03:00 | KRW | Low | M2 Money supply (Jan) | 7.10% |  | 7.40% |
-| 36 min | GBP | Low | Construction Output (MoM) (Jan) |  | 0.0% | -0.5% |
-| 36 min | GBP | Low | U.K. Construction Output (YoY) (Jan) |  | -0.1% | -0.3% |
-| 36 min | GBP | High | GDP (MoM) (Jan) |  | 0.2% | 0.1% |
-| 36 min | GBP | Low | GDP (YoY) (Jan) |  | 0.9% | 0.7% |
-| 36 min | GBP | Low | Index of Services |  | 0.3% | 0.0% |
-| 36 min | GBP | Moderate | Industrial Production (MoM) (Jan) |  | 0.3% | -0.9% |
-| 36 min | GBP | Low | Industrial Production (YoY) (Jan) |  | 0.6% | 0.5% |
-| 36 min | GBP | Moderate | Manufacturing Production (MoM) (Jan) |  | 0.2% | -0.5% |
-| 36 min | GBP | Low | Manufacturing Production (YoY) (Jan) |  | 1.5% | 0.5% |
-| 36 min | GBP | Moderate | Monthly GDP 3M/3M Change (Jan) |  | 0.2% | 0.1% |
-| 36 min | GBP | Moderate | Trade Balance (Jan) |  | -22.20B | -22.72B |
-| 36 min | GBP | Moderate | Trade Balance Non-EU (Jan) |  |  | -10.99B |
-| 36 min | EUR | Low | German WPI (MoM) (Feb) |  | 0.3% | 0.9% |
-| 36 min | EUR | Low | German WPI (YoY) (Feb) |  |  | 1.2% |
-| 07:45 | EUR | Low | French CPI NSA (MoM) (Feb) |  |  | 0.70% |
-| 07:45 | EUR | Low | French CPI NSA (YoY) (Feb) |  |  | 1.00% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Feb) |  | 0.7% | -0.3% |
-| 07:45 | EUR | Low | French CPI (YoY) (Feb) |  | 1.0% | 0.3% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Feb) |  | 0.4% | -0.4% |
-| 07:45 | EUR | Low | French HICP (YoY) (Feb) |  | 1.1% | 0.4% |
-| 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Feb) |  |  | 0.30% |
-| 08:00 | EUR | Low | Core CPI (YoY) (Feb) |  | 2.7% | 2.6% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Feb) |  | 0.4% | -0.4% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Feb) |  | 2.3% | 2.3% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Feb) |  | 0.4% | -0.8% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Feb) |  | 2.5% | 2.4% |
+| 07:00 | GBP | Low | Construction Output (MoM) (Jan) | 0.2% | 0.0% | -0.5% |
+| 07:00 | GBP | Low | U.K. Construction Output (YoY) (Jan) | -0.2% | -0.1% | -0.3% |
+| 07:00 | GBP | High | GDP (MoM) (Jan) | 0.0% | 0.2% | 0.1% |
+| 07:00 | GBP | Low | GDP (YoY) (Jan) | 0.8% | 0.9% | 0.7% |
+| 07:00 | GBP | Low | Index of Services | 0.2% | 0.3% | 0.0% |
+| 07:00 | GBP | Moderate | Industrial Production (MoM) (Jan) | -0.1% | 0.3% | -0.9% |
+| 07:00 | GBP | Low | Industrial Production (YoY) (Jan) | 0.4% | 0.6% | 0.5% |
+| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Jan) | 0.1% | 0.2% | -0.5% |
+| 07:00 | GBP | Low | Manufacturing Production (YoY) (Jan) | 1.3% | 1.5% | 0.5% |
+| 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Jan) | 0.2% | 0.2% | 0.1% |
+| 07:00 | GBP | Moderate | Trade Balance (Jan) | -14.45B | -22.20B | -22.72B |
+| 07:00 | GBP | Moderate | Trade Balance Non-EU (Jan) | -3.46B |  | -10.99B |
+| 07:00 | EUR | Low | German WPI (MoM) (Feb) | 0.6% | 0.3% | 0.9% |
+| 07:00 | EUR | Low | German WPI (YoY) (Feb) | 1.2% |  | 1.2% |
+| 22 min | EUR | Low | French CPI NSA (MoM) (Feb) |  |  | 0.70% |
+| 22 min | EUR | Low | French CPI NSA (YoY) (Feb) |  |  | 1.00% |
+| 22 min | EUR | Moderate | French CPI (MoM) (Feb) |  | 0.7% | -0.3% |
+| 22 min | EUR | Low | French CPI (YoY) (Feb) |  | 1.0% | 0.3% |
+| 22 min | EUR | Moderate | French HICP (MoM) (Feb) |  | 0.4% | -0.4% |
+| 22 min | EUR | Low | French HICP (YoY) (Feb) |  | 1.1% | 0.4% |
+| 22 min | EUR | Low | France Inflation Ex-Tobacco (YoY) (Feb) |  |  | 0.30% |
+| 37 min | EUR | Low | Core CPI (YoY) (Feb) |  | 2.7% | 2.6% |
+| 37 min | EUR | Low | Spanish CPI (MoM) (Feb) |  | 0.4% | -0.4% |
+| 37 min | EUR | Moderate | Spanish CPI (YoY) (Feb) |  | 2.3% | 2.3% |
+| 37 min | EUR | Low | Spanish HICP (MoM) (Feb) |  | 0.4% | -0.8% |
+| 37 min | EUR | Moderate | Spanish HICP (YoY) (Feb) |  | 2.5% | 2.4% |
 | 08:30 | HKD | Low | Industrial Production (YoY) (Q4) |  |  | 5.50% |
 | 08:30 | HKD | Low | PPI (YoY) (Q4) |  |  | 7.70% |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Jan) |  | 0.4% | -0.4% |

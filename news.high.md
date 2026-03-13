@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 36 min | GBP | GDP (MoM) (Jan) |  | 0.2% | 0.1% |
+| 07:00 | GBP | GDP (MoM) (Jan) | 0.0% | 0.2% | 0.1% |
 | 12:30 | USD | Core PCE Price Index (MoM) (Jan) |  | 0.4% | 0.4% |
 | 12:30 | USD | Core PCE Price Index (YoY) (Jan) |  | 3.1% | 3.0% |
 | 12:30 | USD | Durable Goods Orders (MoM) (Jan) |  | 1.1% | -1.4% |
