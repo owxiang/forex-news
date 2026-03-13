@@ -78,13 +78,14 @@
 | 12:30 | CAD | Low | Part Time Employment Change (Feb) | 24.5K |  | -69.7K |
 | 12:30 | CAD | Low | Participation Rate (Feb) | 64.9% |  | 65.0% |
 | 12:30 | CAD | Moderate | Unemployment Rate (Feb) | 6.7% | 6.6% | 6.5% |
+| 14:00 | USD | Low | Dallas Fed PCE (Jan) | 2.70% |  | 2.20% |
 | 14:00 | USD | High | JOLTS Job Openings (Jan) | 6.946M | 6.760M | 6.550M |
 | 14:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Mar) | 3.4% | 3.6% | 3.4% |
 | 14:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Mar) | 3.2% | 3.4% | 3.3% |
 | 14:00 | USD | Moderate | Michigan Consumer Expectations (Mar) | 54.1 | 54.5 | 56.6 |
 | 14:00 | USD | Moderate | Michigan Consumer Sentiment (Mar) | 55.5 | 55.0 | 56.6 |
 | 14:00 | USD | Low | Michigan Current Conditions (Mar) | 57.8 | 54.9 | 56.6 |
-| 9 min | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 2.7% | 2.7% |
+| 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 2.7% | 2.7% | 2.7% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 411 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 551 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -72.7K |

@@ -53,6 +53,7 @@
 | 12:30 | CAD | Manufacturing Sales (MoM) (Jan) | -3.0% | -3.3% | 0.4% |
 | 12:30 | CAD | Part Time Employment Change (Feb) | 24.5K |  | -69.7K |
 | 12:30 | CAD | Participation Rate (Feb) | 64.9% |  | 65.0% |
+| 14:00 | USD | Dallas Fed PCE (Jan) | 2.70% |  | 2.20% |
 | 14:00 | USD | Michigan Current Conditions (Mar) | 57.8 | 54.9 | 56.6 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -2.3K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 57.7K |
