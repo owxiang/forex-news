@@ -38,22 +38,22 @@
 | 08:30 | HKD | Low | Industrial Production (YoY) (Q4) | 5.70% |  | 5.40% |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Jan) | -0.6% | 0.4% | -0.5% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Jan) | -0.6% | 0.8% | 2.7% |
-| 09:02 | CNY | Moderate | New Loans (Feb) | 900.0B |  | 4,710.0B |
-| 09:02 | CNY | Low | Outstanding Loan Growth (YoY) (Feb) | 6.0% |  | 6.1% |
-| 09:02 | CNY | Low | Chinese Total Social Financing (Feb) | 2,380.0B |  | 7,220.0B |
-| 09:02 | CNY | Low | M2 Money Stock (YoY) (Feb) | 9.0% |  | 9.0% |
+| 09:00 | CNY | Low | M2 Money Stock (YoY) (Feb) | 9.0% | 8.9% | 9.0% |
+| 09:00 | CNY | Moderate | New Loans (Feb) | 900.0B | 865.0B | 4,710.0B |
+| 09:00 | CNY | Low | Outstanding Loan Growth (YoY) (Feb) | 6.0% | 6.0% | 6.1% |
+| 09:00 | CNY | Low | Chinese Total Social Financing (Feb) | 2,380.0B | 2,130.0B | 7,220.0B |
 | 10:00 | EUR | Moderate | Industrial Production (MoM) (Jan) | -1.5% | 0.6% | -0.6% |
 | 10:00 | EUR | Low | Industrial Production (YoY) (Jan) | -1.2% | 1.4% | 2.2% |
-| 11:30 | INR | Low | Bank Loan Growth |  |  | 13.6% |
-| 11:30 | INR | Low | Deposit Growth |  |  | 11.2% |
-| 11:30 | INR | Low | FX Reserves, USD |  |  | 728.49B |
-| 11:30 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Feb) |  |  | 0.33% |
-| 11:30 | HKD | Low | PPI (YoY) (Q4) |  |  | 7.70% |
-| 12:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Feb) |  |  | 0.3% |
-| 12:00 | MXN | Low | Industrial Production (YoY) (Jan) |  | 1.7% | 2.4% |
-| 12:00 | MXN | Low | Industrial Production (MoM) (Jan) |  | 0.0% | 0.2% |
-| 12:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Jan) |  |  | -0.4% |
-| 12:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Jan) |  |  | 3.4% |
+| 15 min | INR | Low | Bank Loan Growth |  |  | 13.6% |
+| 15 min | INR | Low | Deposit Growth |  |  | 11.2% |
+| 15 min | INR | Low | FX Reserves, USD |  |  | 728.49B |
+| 15 min | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Feb) |  |  | 0.33% |
+| 15 min | HKD | Low | PPI (YoY) (Q4) |  |  | 7.70% |
+| 45 min | GBP | Moderate | NIESR Monthly GDP Tracker (Feb) |  |  | 0.3% |
+| 45 min | MXN | Low | Industrial Production (YoY) (Jan) |  | 1.7% | 2.4% |
+| 45 min | MXN | Low | Industrial Production (MoM) (Jan) |  | 0.0% | 0.2% |
+| 45 min | BRL | Low | Brazilian Service Sector Growth (MoM) (Jan) |  |  | -0.4% |
+| 45 min | BRL | Low | Brazilian Service Sector Growth (YoY) (Jan) |  |  | 3.4% |
 | 12:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Jan) |  | 0.5% | 0.9% |
 | 12:30 | USD | High | Core PCE Price Index (MoM) (Jan) |  | 0.4% | 0.4% |
 | 12:30 | USD | High | Core PCE Price Index (YoY) (Jan) |  | 3.1% | 3.0% |

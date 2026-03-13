@@ -28,19 +28,19 @@
 | 08:30 | HKD | Industrial Production (YoY) (Q4) | 5.70% |  | 5.40% |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Jan) | -0.6% | 0.4% | -0.5% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Jan) | -0.6% | 0.8% | 2.7% |
-| 09:02 | CNY | Outstanding Loan Growth (YoY) (Feb) | 6.0% |  | 6.1% |
-| 09:02 | CNY | Chinese Total Social Financing (Feb) | 2,380.0B |  | 7,220.0B |
-| 09:02 | CNY | M2 Money Stock (YoY) (Feb) | 9.0% |  | 9.0% |
+| 09:00 | CNY | M2 Money Stock (YoY) (Feb) | 9.0% | 8.9% | 9.0% |
+| 09:00 | CNY | Outstanding Loan Growth (YoY) (Feb) | 6.0% | 6.0% | 6.1% |
+| 09:00 | CNY | Chinese Total Social Financing (Feb) | 2,380.0B | 2,130.0B | 7,220.0B |
 | 10:00 | EUR | Industrial Production (YoY) (Jan) | -1.2% | 1.4% | 2.2% |
-| 11:30 | INR | Bank Loan Growth |  |  | 13.6% |
-| 11:30 | INR | Deposit Growth |  |  | 11.2% |
-| 11:30 | INR | FX Reserves, USD |  |  | 728.49B |
-| 11:30 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Feb) |  |  | 0.33% |
-| 11:30 | HKD | PPI (YoY) (Q4) |  |  | 7.70% |
-| 12:00 | MXN | Industrial Production (YoY) (Jan) |  | 1.7% | 2.4% |
-| 12:00 | MXN | Industrial Production (MoM) (Jan) |  | 0.0% | 0.2% |
-| 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Jan) |  |  | -0.4% |
-| 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Jan) |  |  | 3.4% |
+| 15 min | INR | Bank Loan Growth |  |  | 13.6% |
+| 15 min | INR | Deposit Growth |  |  | 11.2% |
+| 15 min | INR | FX Reserves, USD |  |  | 728.49B |
+| 15 min | BRL | Brazilian IPCA Inflation Index SA (MoM) (Feb) |  |  | 0.33% |
+| 15 min | HKD | PPI (YoY) (Q4) |  |  | 7.70% |
+| 45 min | MXN | Industrial Production (YoY) (Jan) |  | 1.7% | 2.4% |
+| 45 min | MXN | Industrial Production (MoM) (Jan) |  | 0.0% | 0.2% |
+| 45 min | BRL | Brazilian Service Sector Growth (MoM) (Jan) |  |  | -0.4% |
+| 45 min | BRL | Brazilian Service Sector Growth (YoY) (Jan) |  |  | 3.4% |
 | 12:30 | USD | Durables Excluding Defense (MoM) (Jan) |  |  | -2.4% |
 | 12:30 | USD | GDP Sales (Q4) |  | 1.2% | 4.5% |
 | 12:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Jan) |  | 0.5% | 0.6% |
