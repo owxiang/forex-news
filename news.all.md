@@ -1,54 +1,109 @@
-## 12 March 2026 - All Forex News
+## 13 March 2026 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | AUD | Low | MI Inflation Expectations (Mar) | 5.2% |  | 5.0% |
-| 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
-| 09:00 | EUR | Low | Italian Quarterly Unemployment Rate | 5.6% | 6.1% | 6.1% |
-| 09:00 | ZAR | Low | Current Account (Q4) | 50.2B |  | -72.0B |
-| 09:00 | ZAR | Low | Current Account % of GDP (Q4) | 0.60% |  | -0.90% |
-| 09:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 09:30 | ZAR | Low | Gold Production (YoY) (Jan) | 0.7% |  | 2.0% |
-| 09:30 | ZAR | Low | Mining Production (Jan) | 4.6% |  | 2.8% |
-| 10:10 | EUR | Low | Italian 15-Year BTP Auction | 3.85% |  | 4.03% |
-| 10:10 | EUR | Low | Italian 3-Year BTP Auction | 2.75% |  | 2.36% |
-| 10:10 | EUR | Low | Italian 7-Year BTP Auction | 3.34% |  | 3.02% |
-| 10:30 | INR | Moderate | CPI (YoY) (Feb) | 3.21% | 3.10% | 2.73% |
-| 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Mar) | 46.0 |  | 49.0 |
-| 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Mar) | 47.53 |  | 48.07 |
-| 11:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Mar) | 44.73 |  | 47.07 |
-| 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Mar) | 42.03 |  | 41.15 |
-| 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (Mar) | 51.21 |  | 49.99 |
-| 11:00 | ZAR | Low | Manufacturing Production (MoM) (Jan) | 1.5% |  | -1.3% |
-| 11:00 | ZAR | Low | Manufacturing Production (YoY) (Jan) | -0.7% |  | -1.5% |
-| 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (Mar) | 47.51 |  | 48.57 |
-| 12:00 | BRL | Moderate | CPI (YoY) (Feb) | 3.81% | 3.77% | 4.44% |
-| 12:00 | BRL | Low | CPI (MoM) (Feb) | 0.70% | 0.65% | 0.33% |
-| 12:30 | USD | Moderate | Building Permits (Jan) | 1.376M | 1.420M | 1.455M |
-| 12:30 | USD | Low | Building Permits (MoM) (Jan) | -5.4% |  | 4.8% |
-| 12:30 | USD | Moderate | Continuing Jobless Claims | 1,850K | 1,850K | 1,871K |
-| 12:30 | USD | Moderate | Exports | 302.10B |  | 286.30B |
-| 12:30 | USD | Moderate | Goods Trade Balance | -80.80B |  | -98.50B |
-| 12:30 | USD | Moderate | Housing Starts (Jan) | 1.487M | 1.340M | 1.387M |
-| 12:30 | USD | Moderate | Housing Starts (MoM) (Jan) | 7.2% |  | 4.8% |
-| 12:30 | USD | Moderate | Imports | 356.60B |  | 359.20B |
-| 12:30 | USD | High | Initial Jobless Claims | 213K | 214K | 214K |
-| 12:30 | USD | Low | Jobless Claims 4-Week Avg. | 212.00K | 215.00K | 216.00K |
-| 12:30 | USD | Moderate | Trade Balance (Jan) | -54.50B | -66.60B | -72.90B |
-| 12:30 | CAD | Moderate | Building Permits (MoM) (Jan) | 4.8% | -2.0% | 6.1% |
-| 12:30 | CAD | Low | Exports (Jan) | 62.48B |  | 65.55B |
-| 12:30 | CAD | Low | Imports (Jan) | 66.13B |  | 66.85B |
-| 12:30 | CAD | Moderate | Trade Balance (Jan) | -3.65B | -1.10B | -1.30B |
-| 12:30 | CAD | Moderate | Wholesale Sales (MoM) (Jan) | -1.0% | -0.6% | 1.8% |
-| 14:30 | USD | Low | Natural Gas Storage | -38B | -42B | -132B |
-| 15:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 15:30 | USD | Low | 4-Week Bill Auction | 3.640% |  | 3.640% |
-| 15:30 | USD | Low | 8-Week Bill Auction | 3.625% |  | 3.630% |
-| 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 2.7% | 2.1% | 2.1% |
-| 17:00 | USD | High | 30-Year Bond Auction | 4.871% |  | 4.750% |
-| 20:30 | USD | Moderate | Fed's Balance Sheet | 6,646B |  | 6,629B |
-| 20:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.073T |  | 3.014T |
-| 21:30 | NZD | Moderate | Business NZ PMI (Feb) | 55.0 |  | 55.1 |
-| 21:45 | NZD | Low | External Migration & Visitors (Jan) | 4.10% |  | 7.00% |
-| 21:45 | NZD | Low | Permanent/Long-Term Migration (Jan) | 4,460 |  | 3,600 |
-| 21:45 | NZD | Low | Visitor Arrivals (MoM) | 0.9% |  | 1.6% |
+| 02:00 | KRW | Low | Thomson Reuters IPSOS PCSI (Mar) |  |  | 45.89 |
+| 02:00 | INR | Low | Thomson Reuters IPSOS PCSI (Mar) |  |  | 56.37 |
+| 02:00 | AUD | Low | Thomson Reuters IPSOS PCSI (Mar) |  |  | 52.46 |
+| 02:00 | JPY | Low | Thomson Reuters IPSOS PCSI (Mar) |  |  | 41.33 |
+| 02:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Mar) |  |  | 72.82 |
+| 02:30 | SGD | Low | Unemployment Rate (Q4) |  | 2.0% | 2.0% |
+| 03:00 | KRW | Low | M3 Money Supply (Jan) |  |  | 6,087.0B |
+| 03:00 | KRW | Low | M2 Money supply (Jan) |  |  | 7.30% |
+| 07:00 | GBP | Low | Construction Output (MoM) (Jan) |  | 0.0% | -0.5% |
+| 07:00 | GBP | Low | U.K. Construction Output (YoY) (Jan) |  | -0.1% | -0.3% |
+| 07:00 | GBP | High | GDP (MoM) (Jan) |  | 0.2% | 0.1% |
+| 07:00 | GBP | Low | GDP (YoY) (Jan) |  | 0.9% | 0.7% |
+| 07:00 | GBP | Low | Index of Services |  | 0.3% | 0.0% |
+| 07:00 | GBP | Moderate | Industrial Production (MoM) (Jan) |  | 0.3% | -0.9% |
+| 07:00 | GBP | Low | Industrial Production (YoY) (Jan) |  | 0.6% | 0.5% |
+| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Jan) |  | 0.2% | -0.5% |
+| 07:00 | GBP | Low | Manufacturing Production (YoY) (Jan) |  | 1.5% | 0.5% |
+| 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Jan) |  | 0.2% | 0.1% |
+| 07:00 | GBP | Moderate | Trade Balance (Jan) |  | -22.20B | -22.72B |
+| 07:00 | GBP | Moderate | Trade Balance Non-EU (Jan) |  |  | -10.99B |
+| 07:00 | EUR | Low | German WPI (MoM) (Feb) |  | 0.3% | 0.9% |
+| 07:00 | EUR | Low | German WPI (YoY) (Feb) |  |  | 1.2% |
+| 07:45 | EUR | Low | French CPI NSA (MoM) (Feb) |  |  | 0.70% |
+| 07:45 | EUR | Low | French CPI NSA (YoY) (Feb) |  |  | 1.00% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Feb) |  | 0.7% | -0.3% |
+| 07:45 | EUR | Low | French CPI (YoY) (Feb) |  | 1.0% | 0.3% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Feb) |  | 0.4% | 0.8% |
+| 07:45 | EUR | Low | French HICP (YoY) (Feb) |  | 1.1% | 0.4% |
+| 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Feb) |  |  | 0.30% |
+| 08:00 | EUR | Low | Core CPI (YoY) (Feb) |  | 2.7% | 2.6% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Feb) |  | 0.4% | -0.4% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Feb) |  | 2.3% | 2.3% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Feb) |  | 0.4% | -0.8% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Feb) |  | 2.5% | 2.5% |
+| 08:30 | HKD | Low | Industrial Production (YoY) (Q4) |  |  | 5.50% |
+| 08:30 | HKD | Low | PPI (YoY) (Q4) |  |  | 7.70% |
+| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Jan) |  | 0.4% | -0.4% |
+| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Jan) |  | 0.8% | 3.2% |
+| 10:00 | EUR | Moderate | Industrial Production (MoM) (Jan) |  | 0.6% | -1.4% |
+| 10:00 | EUR | Low | Industrial Production (YoY) (Jan) |  | 1.4% | 1.2% |
+| 11:30 | INR | Low | Bank Loan Growth |  |  | 13.6% |
+| 11:30 | INR | Low | Deposit Growth |  |  | 11.2% |
+| 11:30 | INR | Low | FX Reserves, USD |  |  | 728.49B |
+| 11:30 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Feb) |  |  | 0.33% |
+| 12:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Feb) |  |  | 0.3% |
+| 12:00 | MXN | Low | Industrial Production (YoY) (Jan) |  | 1.7% | 2.4% |
+| 12:00 | MXN | Low | Industrial Production (MoM) (Jan) |  | 0.0% | 0.2% |
+| 12:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Jan) |  |  | -0.4% |
+| 12:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Jan) |  |  | 3.4% |
+| 12:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Jan) |  | 0.5% | 0.9% |
+| 12:30 | USD | High | Core PCE Price Index (MoM) (Jan) |  | 0.4% | 0.4% |
+| 12:30 | USD | High | Core PCE Price Index (YoY) (Jan) |  | 3.1% | 3.0% |
+| 12:30 | USD | Moderate | Core PCE Prices (Q4) |  | 2.70% | 2.70% |
+| 12:30 | USD | High | Durable Goods Orders (MoM) (Jan) |  | 1.1% | -1.4% |
+| 12:30 | USD | Low | Durables Excluding Defense (MoM) (Jan) |  |  | -2.4% |
+| 12:30 | USD | High | GDP (QoQ) (Q4) |  | 1.4% | 1.4% |
+| 12:30 | USD | Moderate | GDP Price Index (QoQ) (Q4) |  | 3.7% | 3.7% |
+| 12:30 | USD | Low | GDP Sales (Q4) |  | 1.2% | 4.5% |
+| 12:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Jan) |  | 0.5% | 0.8% |
+| 12:30 | USD | Moderate | PCE price index (MoM) (Jan) |  | 0.3% | 0.4% |
+| 12:30 | USD | Moderate | PCE Price index (YoY) (Jan) |  | 2.9% | 2.8% |
+| 12:30 | USD | Low | PCE Prices (Q4) |  | 2.9% | 2.9% |
+| 12:30 | USD | Low | Personal Income (MoM) (Jan) |  | 0.5% | 0.3% |
+| 12:30 | USD | Moderate | Personal Spending (MoM) (Jan) |  | 0.3% | 0.4% |
+| 12:30 | USD | Low | Real Consumer Spending (Q4) |  | 2.4% | 3.5% |
+| 12:30 | USD | Low | Real Personal Consumption (MoM) (Jan) |  |  | 0.1% |
+| 12:30 | CAD | Low | Avg hourly wages Permanent employee (Feb) |  |  | 3.3% |
+| 12:30 | CAD | Low | Capacity Utilization Rate (Q4) |  | 78.4% | 78.5% |
+| 12:30 | CAD | Moderate | Employment Change (Feb) |  | 10.3K | -24.8K |
+| 12:30 | CAD | Low | Full Employment Change (Feb) |  |  | 44.9K |
+| 12:30 | CAD | Low | Manufacturing Sales (MoM) (Jan) |  | -3.3% | 0.6% |
+| 12:30 | CAD | Low | Part Time Employment Change (Feb) |  |  | -69.7K |
+| 12:30 | CAD | Low | Participation Rate (Feb) |  |  | 65.0% |
+| 12:30 | CAD | Moderate | Unemployment Rate (Feb) |  | 6.6% | 6.5% |
+| 13:45 | EUR | Low | German Current Account Balance n.s.a (Jan) |  |  | 16.1B |
+| 14:00 | USD | Low | Dallas Fed PCE (Jan) |  |  | 2.20% |
+| 14:00 | USD | High | JOLTS Job Openings (Jan) |  | 6.760M | 6.542M |
+| 14:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Mar) |  |  | 3.4% |
+| 14:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Mar) |  |  | 3.3% |
+| 14:00 | USD | Moderate | Michigan Consumer Expectations (Mar) |  |  | 56.6 |
+| 14:00 | USD | Moderate | Michigan Consumer Sentiment (Mar) |  | 55.0 | 56.6 |
+| 14:00 | USD | Low | Michigan Current Conditions (Mar) |  |  | 56.6 |
+| 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 2.7% | 2.7% |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 411 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 551 |
+| 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -72.7K |
+| 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -2.3K |
+| 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 57.7K |
+| 20:30 | USD | Low | CFTC Corn speculative net positions |  |  | 90.1K |
+| 20:30 | USD | Moderate | CFTC Crude Oil speculative net positions |  |  | 172.2K |
+| 20:30 | USD | Moderate | CFTC Gold speculative net positions |  |  | 160.1K |
+| 20:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions |  |  | 2.4K |
+| 20:30 | USD | Low | CFTC Natural Gas speculative net positions |  |  | -206.4K |
+| 20:30 | USD | Moderate | CFTC S&P 500 speculative net positions |  |  | -168.2K |
+| 20:30 | USD | Low | CFTC Silver speculative net positions |  |  | 23.3K |
+| 20:30 | USD | Low | CFTC Soybeans speculative net positions |  |  | 221.9K |
+| 20:30 | USD | Low | CFTC Wheat speculative net positions |  |  | -26.0K |
+| 20:30 | CAD | Low | CFTC CAD speculative net positions |  |  | 21.1K |
+| 20:30 | MXN | Low | CFTC MXN speculative net positions |  |  | 77.0K |
+| 20:30 | CHF | Low | CFTC CHF speculative net positions |  |  | -41.3K |
+| 20:30 | AUD | Moderate | CFTC AUD speculative net positions |  |  | 67.8K |
+| 20:30 | BRL | Moderate | CFTC BRL speculative net positions |  |  | 45.0K |
+| 20:30 | JPY | Moderate | CFTC JPY speculative net positions |  |  | -16.6K |
+| 20:30 | NZD | Low | CFTC NZD speculative net positions |  |  | -34.3K |
+| 20:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | 136.5K |

@@ -1,23 +1,39 @@
-## 12 March 2026 - Moderate Impact Forex News
+## 13 March 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 09:00 | USD | IEA Monthly Report |  |  |  |
-| 09:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 10:30 | INR | CPI (YoY) (Feb) | 3.21% | 3.10% | 2.73% |
-| 12:00 | BRL | CPI (YoY) (Feb) | 3.81% | 3.77% | 4.44% |
-| 12:30 | USD | Building Permits (Jan) | 1.376M | 1.420M | 1.455M |
-| 12:30 | USD | Continuing Jobless Claims | 1,850K | 1,850K | 1,871K |
-| 12:30 | USD | Exports | 302.10B |  | 286.30B |
-| 12:30 | USD | Goods Trade Balance | -80.80B |  | -98.50B |
-| 12:30 | USD | Housing Starts (Jan) | 1.487M | 1.340M | 1.387M |
-| 12:30 | USD | Housing Starts (MoM) (Jan) | 7.2% |  | 4.8% |
-| 12:30 | USD | Imports | 356.60B |  | 359.20B |
-| 12:30 | USD | Trade Balance (Jan) | -54.50B | -66.60B | -72.90B |
-| 12:30 | CAD | Building Permits (MoM) (Jan) | 4.8% | -2.0% | 6.1% |
-| 12:30 | CAD | Trade Balance (Jan) | -3.65B | -1.10B | -1.30B |
-| 12:30 | CAD | Wholesale Sales (MoM) (Jan) | -1.0% | -0.6% | 1.8% |
-| 15:00 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 15:30 | USD | Atlanta Fed GDPNow (Q1) | 2.7% | 2.1% | 2.1% |
-| 20:30 | USD | Fed's Balance Sheet | 6,646B |  | 6,629B |
-| 21:30 | NZD | Business NZ PMI (Feb) | 55.0 |  | 55.1 |
+| 07:00 | GBP | Industrial Production (MoM) (Jan) |  | 0.3% | -0.9% |
+| 07:00 | GBP | Manufacturing Production (MoM) (Jan) |  | 0.2% | -0.5% |
+| 07:00 | GBP | Monthly GDP 3M/3M Change (Jan) |  | 0.2% | 0.1% |
+| 07:00 | GBP | Trade Balance (Jan) |  | -22.20B | -22.72B |
+| 07:00 | GBP | Trade Balance Non-EU (Jan) |  |  | -10.99B |
+| 07:45 | EUR | French CPI (MoM) (Feb) |  | 0.7% | -0.3% |
+| 07:45 | EUR | French HICP (MoM) (Feb) |  | 0.4% | 0.8% |
+| 08:00 | EUR | Spanish CPI (YoY) (Feb) |  | 2.3% | 2.3% |
+| 08:00 | EUR | Spanish HICP (YoY) (Feb) |  | 2.5% | 2.5% |
+| 10:00 | EUR | Industrial Production (MoM) (Jan) |  | 0.6% | -1.4% |
+| 12:00 | GBP | NIESR Monthly GDP Tracker (Feb) |  |  | 0.3% |
+| 12:30 | USD | Core Durable Goods Orders (MoM) (Jan) |  | 0.5% | 0.9% |
+| 12:30 | USD | Core PCE Prices (Q4) |  | 2.70% | 2.70% |
+| 12:30 | USD | GDP Price Index (QoQ) (Q4) |  | 3.7% | 3.7% |
+| 12:30 | USD | PCE price index (MoM) (Jan) |  | 0.3% | 0.4% |
+| 12:30 | USD | PCE Price index (YoY) (Jan) |  | 2.9% | 2.8% |
+| 12:30 | USD | Personal Spending (MoM) (Jan) |  | 0.3% | 0.4% |
+| 12:30 | CAD | Employment Change (Feb) |  | 10.3K | -24.8K |
+| 12:30 | CAD | Unemployment Rate (Feb) |  | 6.6% | 6.5% |
+| 14:00 | USD | Michigan 1-Year Inflation Expectations (Mar) |  |  | 3.4% |
+| 14:00 | USD | Michigan 5-Year Inflation Expectations (Mar) |  |  | 3.3% |
+| 14:00 | USD | Michigan Consumer Expectations (Mar) |  |  | 56.6 |
+| 14:00 | USD | Michigan Consumer Sentiment (Mar) |  | 55.0 | 56.6 |
+| 15:30 | USD | Atlanta Fed GDPNow (Q1) |  | 2.7% | 2.7% |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 411 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 551 |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | -72.7K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 172.2K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 160.1K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 2.4K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -168.2K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | 67.8K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 45.0K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | -16.6K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 136.5K |
