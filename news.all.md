@@ -52,41 +52,41 @@
 | 12:00 | MXN | Low | Industrial Production (MoM) (Jan) | -1.1% | 0.0% | 0.1% |
 | 12:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Jan) | 0.3% |  | -0.2% |
 | 12:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Jan) | 3.3% |  | 3.6% |
-| 11 min | USD | Moderate | Core Durable Goods Orders (MoM) (Jan) |  | 0.5% | 0.9% |
-| 11 min | USD | High | Core PCE Price Index (MoM) (Jan) |  | 0.4% | 0.4% |
-| 11 min | USD | High | Core PCE Price Index (YoY) (Jan) |  | 3.1% | 3.0% |
-| 11 min | USD | Moderate | Core PCE Prices (Q4) |  | 2.70% | 2.90% |
-| 11 min | USD | High | Durable Goods Orders (MoM) (Jan) |  | 1.1% | -1.4% |
-| 11 min | USD | Low | Durables Excluding Defense (MoM) (Jan) |  |  | -2.4% |
-| 11 min | USD | High | GDP (QoQ) (Q4) |  | 1.4% | 4.4% |
-| 11 min | USD | Moderate | GDP Price Index (QoQ) (Q4) |  | 3.7% | 3.7% |
-| 11 min | USD | Low | GDP Sales (Q4) |  | 1.2% | 4.5% |
-| 11 min | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Jan) |  | 0.5% | 0.6% |
-| 11 min | USD | Moderate | PCE price index (MoM) (Jan) |  | 0.3% | 0.4% |
-| 11 min | USD | Moderate | PCE Price index (YoY) (Jan) |  | 2.9% | 2.9% |
-| 11 min | USD | Low | PCE Prices (Q4) |  | 2.9% | 2.8% |
-| 11 min | USD | Low | Personal Income (MoM) (Jan) |  | 0.5% | 0.3% |
-| 11 min | USD | Moderate | Personal Spending (MoM) (Jan) |  | 0.3% | 0.4% |
-| 11 min | USD | Low | Real Consumer Spending (Q4) |  | 2.4% | 3.5% |
-| 11 min | USD | Low | Real Personal Consumption (MoM) (Jan) |  |  | 0.1% |
-| 11 min | CAD | Low | Avg hourly wages Permanent employee (Feb) |  |  | 3.3% |
-| 11 min | CAD | Low | Capacity Utilization Rate (Q4) |  | 78.4% | 78.5% |
-| 11 min | CAD | Moderate | Employment Change (Feb) |  | 10.3K | -24.8K |
-| 11 min | CAD | Low | Full Employment Change (Feb) |  |  | 44.9K |
-| 11 min | CAD | Low | Manufacturing Sales (MoM) (Jan) |  | -3.3% | 0.6% |
-| 11 min | CAD | Low | Part Time Employment Change (Feb) |  |  | -69.7K |
-| 11 min | CAD | Low | Participation Rate (Feb) |  |  | 65.0% |
-| 11 min | CAD | Moderate | Unemployment Rate (Feb) |  | 6.6% | 6.5% |
+| 12:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Jan) | 0.4% | 0.5% | 1.3% |
+| 12:30 | USD | High | Core PCE Price Index (MoM) (Jan) | 0.4% | 0.4% | 0.4% |
+| 12:30 | USD | High | Core PCE Price Index (YoY) (Jan) | 3.1% | 3.1% | 3.0% |
+| 12:30 | USD | Moderate | Core PCE Prices (Q4) | 2.70% | 2.70% | 2.90% |
+| 12:30 | USD | High | Durable Goods Orders (MoM) (Jan) | 0.0% | 1.1% | -0.9% |
+| 12:30 | USD | Low | Durables Excluding Defense (MoM) (Jan) | 0.5% |  | -1.9% |
+| 12:30 | USD | High | GDP (QoQ) (Q4) | 0.7% | 1.4% | 4.4% |
+| 12:30 | USD | Moderate | GDP Price Index (QoQ) (Q4) | 3.8% | 3.7% | 3.7% |
+| 12:30 | USD | Low | GDP Sales (Q4) | 0.4% | 1.2% | 4.5% |
+| 12:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Jan) | 0.0% | 0.5% | 0.6% |
+| 12:30 | USD | Moderate | PCE price index (MoM) (Jan) | 0.3% | 0.3% | 0.4% |
+| 12:30 | USD | Moderate | PCE Price index (YoY) (Jan) | 2.8% | 2.9% | 2.9% |
+| 12:30 | USD | Low | PCE Prices (Q4) | 2.9% | 2.9% | 2.8% |
+| 12:30 | USD | Low | Personal Income (MoM) (Jan) | 0.4% | 0.5% | 0.3% |
+| 12:30 | USD | Moderate | Personal Spending (MoM) (Jan) | 0.4% | 0.3% | 0.4% |
+| 12:30 | USD | Low | Real Consumer Spending (Q4) | 2.0% | 2.4% | 3.5% |
+| 12:30 | USD | Low | Real Personal Consumption (MoM) (Jan) | 0.1% |  | 0.1% |
+| 12:30 | CAD | Low | Avg hourly wages Permanent employee (Feb) | 4.2% |  | 3.3% |
+| 12:30 | CAD | Low | Capacity Utilization Rate (Q4) | 78.5% | 78.4% | 78.9% |
+| 12:30 | CAD | Moderate | Employment Change (Feb) | -83.9K | 10.3K | -24.8K |
+| 12:30 | CAD | Low | Full Employment Change (Feb) | -108.4K |  | 44.9K |
+| 12:30 | CAD | Low | Manufacturing Sales (MoM) (Jan) | -3.0% | -3.3% | 0.4% |
+| 12:30 | CAD | Low | Part Time Employment Change (Feb) | 24.5K |  | -69.7K |
+| 12:30 | CAD | Low | Participation Rate (Feb) | 64.9% |  | 65.0% |
+| 12:30 | CAD | Moderate | Unemployment Rate (Feb) | 6.7% | 6.6% | 6.5% |
 | 13:30 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Feb) |  |  | 0.33% |
 | 13:30 | HKD | Low | PPI (YoY) (Q4) |  |  | 7.70% |
-| 13:45 | EUR | Low | German Current Account Balance n.s.a (Jan) |  |  | 16.1B |
-| 14:00 | USD | Low | Dallas Fed PCE (Jan) |  |  | 2.20% |
-| 14:00 | USD | High | JOLTS Job Openings (Jan) |  | 6.760M | 6.542M |
-| 14:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Mar) |  |  | 3.4% |
-| 14:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Mar) |  |  | 3.3% |
-| 14:00 | USD | Moderate | Michigan Consumer Expectations (Mar) |  |  | 56.6 |
-| 14:00 | USD | Moderate | Michigan Consumer Sentiment (Mar) |  | 55.0 | 56.6 |
-| 14:00 | USD | Low | Michigan Current Conditions (Mar) |  |  | 56.6 |
+| 15 min | EUR | Low | German Current Account Balance n.s.a (Jan) |  |  | 16.1B |
+| 30 min | USD | Low | Dallas Fed PCE (Jan) |  |  | 2.20% |
+| 30 min | USD | High | JOLTS Job Openings (Jan) |  | 6.760M | 6.542M |
+| 30 min | USD | Moderate | Michigan 1-Year Inflation Expectations (Mar) |  |  | 3.4% |
+| 30 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Mar) |  |  | 3.3% |
+| 30 min | USD | Moderate | Michigan Consumer Expectations (Mar) |  |  | 56.6 |
+| 30 min | USD | Moderate | Michigan Consumer Sentiment (Mar) |  | 55.0 | 56.6 |
+| 30 min | USD | Low | Michigan Current Conditions (Mar) |  |  | 56.6 |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 2.7% | 2.7% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 411 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 551 |

@@ -39,24 +39,24 @@
 | 12:00 | MXN | Industrial Production (MoM) (Jan) | -1.1% | 0.0% | 0.1% |
 | 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Jan) | 0.3% |  | -0.2% |
 | 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Jan) | 3.3% |  | 3.6% |
-| 11 min | USD | Durables Excluding Defense (MoM) (Jan) |  |  | -2.4% |
-| 11 min | USD | GDP Sales (Q4) |  | 1.2% | 4.5% |
-| 11 min | USD | Goods Orders Non Defense Ex Air (MoM) (Jan) |  | 0.5% | 0.6% |
-| 11 min | USD | PCE Prices (Q4) |  | 2.9% | 2.8% |
-| 11 min | USD | Personal Income (MoM) (Jan) |  | 0.5% | 0.3% |
-| 11 min | USD | Real Consumer Spending (Q4) |  | 2.4% | 3.5% |
-| 11 min | USD | Real Personal Consumption (MoM) (Jan) |  |  | 0.1% |
-| 11 min | CAD | Avg hourly wages Permanent employee (Feb) |  |  | 3.3% |
-| 11 min | CAD | Capacity Utilization Rate (Q4) |  | 78.4% | 78.5% |
-| 11 min | CAD | Full Employment Change (Feb) |  |  | 44.9K |
-| 11 min | CAD | Manufacturing Sales (MoM) (Jan) |  | -3.3% | 0.6% |
-| 11 min | CAD | Part Time Employment Change (Feb) |  |  | -69.7K |
-| 11 min | CAD | Participation Rate (Feb) |  |  | 65.0% |
+| 12:30 | USD | Durables Excluding Defense (MoM) (Jan) | 0.5% |  | -1.9% |
+| 12:30 | USD | GDP Sales (Q4) | 0.4% | 1.2% | 4.5% |
+| 12:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Jan) | 0.0% | 0.5% | 0.6% |
+| 12:30 | USD | PCE Prices (Q4) | 2.9% | 2.9% | 2.8% |
+| 12:30 | USD | Personal Income (MoM) (Jan) | 0.4% | 0.5% | 0.3% |
+| 12:30 | USD | Real Consumer Spending (Q4) | 2.0% | 2.4% | 3.5% |
+| 12:30 | USD | Real Personal Consumption (MoM) (Jan) | 0.1% |  | 0.1% |
+| 12:30 | CAD | Avg hourly wages Permanent employee (Feb) | 4.2% |  | 3.3% |
+| 12:30 | CAD | Capacity Utilization Rate (Q4) | 78.5% | 78.4% | 78.9% |
+| 12:30 | CAD | Full Employment Change (Feb) | -108.4K |  | 44.9K |
+| 12:30 | CAD | Manufacturing Sales (MoM) (Jan) | -3.0% | -3.3% | 0.4% |
+| 12:30 | CAD | Part Time Employment Change (Feb) | 24.5K |  | -69.7K |
+| 12:30 | CAD | Participation Rate (Feb) | 64.9% |  | 65.0% |
 | 13:30 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Feb) |  |  | 0.33% |
 | 13:30 | HKD | PPI (YoY) (Q4) |  |  | 7.70% |
-| 13:45 | EUR | German Current Account Balance n.s.a (Jan) |  |  | 16.1B |
-| 14:00 | USD | Dallas Fed PCE (Jan) |  |  | 2.20% |
-| 14:00 | USD | Michigan Current Conditions (Mar) |  |  | 56.6 |
+| 15 min | EUR | German Current Account Balance n.s.a (Jan) |  |  | 16.1B |
+| 30 min | USD | Dallas Fed PCE (Jan) |  |  | 2.20% |
+| 30 min | USD | Michigan Current Conditions (Mar) |  |  | 56.6 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -2.3K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 57.7K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 90.1K |

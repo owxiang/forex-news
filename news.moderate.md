@@ -14,18 +14,18 @@
 | 09:00 | CNY | New Loans (Feb) | 900.0B | 865.0B | 4,710.0B |
 | 10:00 | EUR | Industrial Production (MoM) (Jan) | -1.5% | 0.6% | -0.6% |
 | 12:00 | GBP | NIESR Monthly GDP Tracker (Feb) |  |  | 0.3% |
-| 11 min | USD | Core Durable Goods Orders (MoM) (Jan) |  | 0.5% | 0.9% |
-| 11 min | USD | Core PCE Prices (Q4) |  | 2.70% | 2.90% |
-| 11 min | USD | GDP Price Index (QoQ) (Q4) |  | 3.7% | 3.7% |
-| 11 min | USD | PCE price index (MoM) (Jan) |  | 0.3% | 0.4% |
-| 11 min | USD | PCE Price index (YoY) (Jan) |  | 2.9% | 2.9% |
-| 11 min | USD | Personal Spending (MoM) (Jan) |  | 0.3% | 0.4% |
-| 11 min | CAD | Employment Change (Feb) |  | 10.3K | -24.8K |
-| 11 min | CAD | Unemployment Rate (Feb) |  | 6.6% | 6.5% |
-| 14:00 | USD | Michigan 1-Year Inflation Expectations (Mar) |  |  | 3.4% |
-| 14:00 | USD | Michigan 5-Year Inflation Expectations (Mar) |  |  | 3.3% |
-| 14:00 | USD | Michigan Consumer Expectations (Mar) |  |  | 56.6 |
-| 14:00 | USD | Michigan Consumer Sentiment (Mar) |  | 55.0 | 56.6 |
+| 12:30 | USD | Core Durable Goods Orders (MoM) (Jan) | 0.4% | 0.5% | 1.3% |
+| 12:30 | USD | Core PCE Prices (Q4) | 2.70% | 2.70% | 2.90% |
+| 12:30 | USD | GDP Price Index (QoQ) (Q4) | 3.8% | 3.7% | 3.7% |
+| 12:30 | USD | PCE price index (MoM) (Jan) | 0.3% | 0.3% | 0.4% |
+| 12:30 | USD | PCE Price index (YoY) (Jan) | 2.8% | 2.9% | 2.9% |
+| 12:30 | USD | Personal Spending (MoM) (Jan) | 0.4% | 0.3% | 0.4% |
+| 12:30 | CAD | Employment Change (Feb) | -83.9K | 10.3K | -24.8K |
+| 12:30 | CAD | Unemployment Rate (Feb) | 6.7% | 6.6% | 6.5% |
+| 30 min | USD | Michigan 1-Year Inflation Expectations (Mar) |  |  | 3.4% |
+| 30 min | USD | Michigan 5-Year Inflation Expectations (Mar) |  |  | 3.3% |
+| 30 min | USD | Michigan Consumer Expectations (Mar) |  |  | 56.6 |
+| 30 min | USD | Michigan Consumer Sentiment (Mar) |  | 55.0 | 56.6 |
 | 15:30 | USD | Atlanta Fed GDPNow (Q1) |  | 2.7% | 2.7% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 411 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 551 |
