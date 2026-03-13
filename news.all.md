@@ -2,12 +2,12 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 02:00 | KRW | Low | Thomson Reuters IPSOS PCSI (Mar) |  |  | 45.89 |
-| 02:00 | INR | Low | Thomson Reuters IPSOS PCSI (Mar) |  |  | 56.37 |
-| 02:00 | AUD | Low | Thomson Reuters IPSOS PCSI (Mar) |  |  | 52.46 |
-| 02:00 | JPY | Low | Thomson Reuters IPSOS PCSI (Mar) |  |  | 41.33 |
-| 02:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Mar) |  |  | 72.82 |
-| 02:30 | SGD | Low | Unemployment Rate (Q4) |  | 2.0% | 2.0% |
+| 22 min | KRW | Low | Thomson Reuters IPSOS PCSI (Mar) |  |  | 45.89 |
+| 22 min | INR | Low | Thomson Reuters IPSOS PCSI (Mar) |  |  | 56.37 |
+| 22 min | AUD | Low | Thomson Reuters IPSOS PCSI (Mar) |  |  | 52.46 |
+| 22 min | JPY | Low | Thomson Reuters IPSOS PCSI (Mar) |  |  | 41.33 |
+| 22 min | CNY | Low | China Thomson Reuters IPSOS PCSI (Mar) |  |  | 72.82 |
+| 52 min | SGD | Low | Unemployment Rate (Q4) |  | 2.0% | 2.0% |
 | 03:00 | KRW | Low | M3 Money Supply (Jan) |  |  | 6,087.0B |
 | 03:00 | KRW | Low | M2 Money supply (Jan) |  |  | 7.30% |
 | 07:00 | GBP | Low | Construction Output (MoM) (Jan) |  | 0.0% | -0.5% |
