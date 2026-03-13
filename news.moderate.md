@@ -22,10 +22,10 @@
 | 12:30 | USD | Personal Spending (MoM) (Jan) | 0.4% | 0.3% | 0.4% |
 | 12:30 | CAD | Employment Change (Feb) | -83.9K | 10.3K | -24.8K |
 | 12:30 | CAD | Unemployment Rate (Feb) | 6.7% | 6.6% | 6.5% |
-| 30 min | USD | Michigan 1-Year Inflation Expectations (Mar) |  |  | 3.4% |
-| 30 min | USD | Michigan 5-Year Inflation Expectations (Mar) |  |  | 3.3% |
-| 30 min | USD | Michigan Consumer Expectations (Mar) |  |  | 56.6 |
-| 30 min | USD | Michigan Consumer Sentiment (Mar) |  | 55.0 | 56.6 |
+| 14:00 | USD | Michigan 1-Year Inflation Expectations (Mar) | 3.4% | 3.6% | 3.4% |
+| 14:00 | USD | Michigan 5-Year Inflation Expectations (Mar) | 3.2% | 3.4% | 3.3% |
+| 14:00 | USD | Michigan Consumer Expectations (Mar) | 54.1 | 54.5 | 56.6 |
+| 14:00 | USD | Michigan Consumer Sentiment (Mar) | 55.5 | 55.0 | 56.6 |
 | 15:30 | USD | Atlanta Fed GDPNow (Q1) |  | 2.7% | 2.7% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 411 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 551 |
