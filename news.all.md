@@ -23,22 +23,22 @@
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Jan) | -3.46B |  | -10.99B |
 | 07:00 | EUR | Low | German WPI (MoM) (Feb) | 0.6% | 0.3% | 0.9% |
 | 07:00 | EUR | Low | German WPI (YoY) (Feb) | 1.2% |  | 1.2% |
-| 22 min | EUR | Low | French CPI NSA (MoM) (Feb) |  |  | 0.70% |
-| 22 min | EUR | Low | French CPI NSA (YoY) (Feb) |  |  | 1.00% |
-| 22 min | EUR | Moderate | French CPI (MoM) (Feb) |  | 0.7% | -0.3% |
-| 22 min | EUR | Low | French CPI (YoY) (Feb) |  | 1.0% | 0.3% |
-| 22 min | EUR | Moderate | French HICP (MoM) (Feb) |  | 0.4% | -0.4% |
-| 22 min | EUR | Low | French HICP (YoY) (Feb) |  | 1.1% | 0.4% |
-| 22 min | EUR | Low | France Inflation Ex-Tobacco (YoY) (Feb) |  |  | 0.30% |
-| 37 min | EUR | Low | Core CPI (YoY) (Feb) |  | 2.7% | 2.6% |
-| 37 min | EUR | Low | Spanish CPI (MoM) (Feb) |  | 0.4% | -0.4% |
-| 37 min | EUR | Moderate | Spanish CPI (YoY) (Feb) |  | 2.3% | 2.3% |
-| 37 min | EUR | Low | Spanish HICP (MoM) (Feb) |  | 0.4% | -0.8% |
-| 37 min | EUR | Moderate | Spanish HICP (YoY) (Feb) |  | 2.5% | 2.4% |
-| 08:30 | HKD | Low | Industrial Production (YoY) (Q4) |  |  | 5.50% |
-| 08:30 | HKD | Low | PPI (YoY) (Q4) |  |  | 7.70% |
-| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Jan) |  | 0.4% | -0.4% |
-| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Jan) |  | 0.8% | 3.2% |
+| 07:45 | EUR | Low | French CPI NSA (MoM) (Feb) | 0.60% |  | 0.70% |
+| 07:45 | EUR | Low | French CPI NSA (YoY) (Feb) | 0.90% |  | 1.00% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Feb) | 0.6% | 0.7% | -0.4% |
+| 07:45 | EUR | Low | French CPI (YoY) (Feb) | 0.9% | 1.0% | 0.3% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Feb) | 0.7% | 0.4% | -0.4% |
+| 07:45 | EUR | Low | French HICP (YoY) (Feb) | 1.1% | 1.1% | 0.4% |
+| 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Feb) | 0.90% |  | 0.30% |
+| 08:00 | EUR | Low | Core CPI (YoY) (Feb) | 2.7% | 2.7% | 2.6% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Feb) | 0.4% | 0.4% | -0.4% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Feb) | 2.3% | 2.3% | 2.3% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Feb) | 0.4% | 0.4% | -0.8% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Feb) | 2.5% | 2.5% | 2.4% |
+| 13 min | HKD | Low | Industrial Production (YoY) (Q4) |  |  | 5.50% |
+| 13 min | HKD | Low | PPI (YoY) (Q4) |  |  | 7.70% |
+| 43 min | EUR | Low | Italian Industrial Production (MoM) (Jan) |  | 0.4% | -0.4% |
+| 43 min | EUR | Low | Italian Industrial Production (YoY) (Jan) |  | 0.8% | 3.2% |
 | 10:00 | EUR | Moderate | Industrial Production (MoM) (Jan) |  | 0.6% | -1.4% |
 | 10:00 | EUR | Low | Industrial Production (YoY) (Jan) |  | 1.4% | 1.2% |
 | 11:30 | INR | Low | Bank Loan Growth |  |  | 13.6% |

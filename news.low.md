@@ -17,18 +17,18 @@
 | 07:00 | GBP | Manufacturing Production (YoY) (Jan) | 1.3% | 1.5% | 0.5% |
 | 07:00 | EUR | German WPI (MoM) (Feb) | 0.6% | 0.3% | 0.9% |
 | 07:00 | EUR | German WPI (YoY) (Feb) | 1.2% |  | 1.2% |
-| 22 min | EUR | French CPI NSA (MoM) (Feb) |  |  | 0.70% |
-| 22 min | EUR | French CPI NSA (YoY) (Feb) |  |  | 1.00% |
-| 22 min | EUR | French CPI (YoY) (Feb) |  | 1.0% | 0.3% |
-| 22 min | EUR | French HICP (YoY) (Feb) |  | 1.1% | 0.4% |
-| 22 min | EUR | France Inflation Ex-Tobacco (YoY) (Feb) |  |  | 0.30% |
-| 37 min | EUR | Core CPI (YoY) (Feb) |  | 2.7% | 2.6% |
-| 37 min | EUR | Spanish CPI (MoM) (Feb) |  | 0.4% | -0.4% |
-| 37 min | EUR | Spanish HICP (MoM) (Feb) |  | 0.4% | -0.8% |
-| 08:30 | HKD | Industrial Production (YoY) (Q4) |  |  | 5.50% |
-| 08:30 | HKD | PPI (YoY) (Q4) |  |  | 7.70% |
-| 09:00 | EUR | Italian Industrial Production (MoM) (Jan) |  | 0.4% | -0.4% |
-| 09:00 | EUR | Italian Industrial Production (YoY) (Jan) |  | 0.8% | 3.2% |
+| 07:45 | EUR | French CPI NSA (MoM) (Feb) | 0.60% |  | 0.70% |
+| 07:45 | EUR | French CPI NSA (YoY) (Feb) | 0.90% |  | 1.00% |
+| 07:45 | EUR | French CPI (YoY) (Feb) | 0.9% | 1.0% | 0.3% |
+| 07:45 | EUR | French HICP (YoY) (Feb) | 1.1% | 1.1% | 0.4% |
+| 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Feb) | 0.90% |  | 0.30% |
+| 08:00 | EUR | Core CPI (YoY) (Feb) | 2.7% | 2.7% | 2.6% |
+| 08:00 | EUR | Spanish CPI (MoM) (Feb) | 0.4% | 0.4% | -0.4% |
+| 08:00 | EUR | Spanish HICP (MoM) (Feb) | 0.4% | 0.4% | -0.8% |
+| 13 min | HKD | Industrial Production (YoY) (Q4) |  |  | 5.50% |
+| 13 min | HKD | PPI (YoY) (Q4) |  |  | 7.70% |
+| 43 min | EUR | Italian Industrial Production (MoM) (Jan) |  | 0.4% | -0.4% |
+| 43 min | EUR | Italian Industrial Production (YoY) (Jan) |  | 0.8% | 3.2% |
 | 10:00 | EUR | Industrial Production (YoY) (Jan) |  | 1.4% | 1.2% |
 | 11:30 | INR | Bank Loan Growth |  |  | 13.6% |
 | 11:30 | INR | Deposit Growth |  |  | 11.2% |
