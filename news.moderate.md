@@ -1,40 +1,5 @@
-## 13 March 2026 - Moderate Impact Forex News
+## 15 March 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | GBP | Industrial Production (MoM) (Jan) | -0.1% | 0.3% | -0.9% |
-| 07:00 | GBP | Manufacturing Production (MoM) (Jan) | 0.1% | 0.2% | -0.5% |
-| 07:00 | GBP | Monthly GDP 3M/3M Change (Jan) | 0.2% | 0.2% | 0.1% |
-| 07:00 | GBP | Trade Balance (Jan) | -14.45B | -22.20B | -22.72B |
-| 07:00 | GBP | Trade Balance Non-EU (Jan) | -3.46B |  | -10.99B |
-| 07:45 | EUR | French CPI (MoM) (Feb) | 0.6% | 0.7% | -0.4% |
-| 07:45 | EUR | French HICP (MoM) (Feb) | 0.7% | 0.4% | -0.4% |
-| 08:00 | EUR | Spanish CPI (YoY) (Feb) | 2.3% | 2.3% | 2.3% |
-| 08:00 | EUR | Spanish HICP (YoY) (Feb) | 2.5% | 2.5% | 2.4% |
-| 09:00 | CNY | New Loans (Feb) | 900.0B | 865.0B | 4,710.0B |
-| 10:00 | EUR | Industrial Production (MoM) (Jan) | -1.5% | 0.6% | -0.6% |
-| 12:00 | GBP | NIESR Monthly GDP Tracker (Feb) | 0.3% |  | 0.2% |
-| 12:30 | USD | Core Durable Goods Orders (MoM) (Jan) | 0.4% | 0.5% | 1.3% |
-| 12:30 | USD | Core PCE Prices (Q4) | 2.70% | 2.70% | 2.90% |
-| 12:30 | USD | GDP Price Index (QoQ) (Q4) | 3.8% | 3.7% | 3.7% |
-| 12:30 | USD | PCE price index (MoM) (Jan) | 0.3% | 0.3% | 0.4% |
-| 12:30 | USD | PCE Price index (YoY) (Jan) | 2.8% | 2.9% | 2.9% |
-| 12:30 | USD | Personal Spending (MoM) (Jan) | 0.4% | 0.3% | 0.4% |
-| 12:30 | CAD | Employment Change (Feb) | -83.9K | 10.3K | -24.8K |
-| 12:30 | CAD | Unemployment Rate (Feb) | 6.7% | 6.6% | 6.5% |
-| 14:00 | USD | Michigan 1-Year Inflation Expectations (Mar) | 3.4% | 3.6% | 3.4% |
-| 14:00 | USD | Michigan 5-Year Inflation Expectations (Mar) | 3.2% | 3.4% | 3.3% |
-| 14:00 | USD | Michigan Consumer Expectations (Mar) | 54.1 | 54.5 | 56.6 |
-| 14:00 | USD | Michigan Consumer Sentiment (Mar) | 55.5 | 55.0 | 56.6 |
-| 15:30 | USD | Atlanta Fed GDPNow (Q1) | 2.7% | 2.7% | 2.7% |
-| 17:00 | USD | U.S. Baker Hughes Oil Rig Count | 412 |  | 411 |
-| 17:00 | USD | U.S. Baker Hughes Total Rig Count | 553 |  | 551 |
-| 19:30 | GBP | CFTC GBP speculative net positions | -84.2K |  | -72.7K |
-| 19:30 | USD | CFTC Crude Oil speculative net positions | 228.0K |  | 172.2K |
-| 19:30 | USD | CFTC Gold speculative net positions | 163.1K |  | 160.1K |
-| 19:30 | USD | CFTC Nasdaq 100 speculative net positions | 24.9K |  | 2.4K |
-| 19:30 | USD | CFTC S&P 500 speculative net positions | -134.5K |  | -168.2K |
-| 19:30 | AUD | CFTC AUD speculative net positions | 54.2K |  | 67.8K |
-| 19:30 | BRL | CFTC BRL speculative net positions | 51.0K |  | 45.0K |
-| 19:30 | JPY | CFTC JPY speculative net positions | -41.4K |  | -16.6K |
-| 19:30 | EUR | CFTC EUR speculative net positions | 105.1K |  | 136.5K |
+| 21:45 | NZD | Electronic Card Retail Sales (MoM) (Feb) |  |  | -1.1% |
