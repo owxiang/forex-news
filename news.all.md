@@ -1,10 +1,7 @@
-## 15 March 2026 - All Forex News
+## 14 March 2026 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | Exports (YoY) (Feb) |  | 29.0% | 29.0% |
-| 00:00 | KRW | Low | Imports (YoY) (Feb) |  | 7.5% | 7.5% |
-| 00:00 | KRW | Low | Trade Balance (Feb) |  | 15.51B | 15.51B |
-| 21:30 | NZD | Low | Performance of Services Index (Feb) |  |  | 50.9 |
-| 21:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Feb) |  |  | -1.1% |
-| 21:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Feb) |  |  | 0.4% |
+| 23:55 | KRW | Low | Exports (YoY) (Feb) |  |  | 29.0% |
+| 23:55 | KRW | Low | Imports (YoY) (Feb) |  |  | 7.5% |
+| 23:55 | KRW | Low | Trade Balance (Feb) |  |  | 15.51B |
