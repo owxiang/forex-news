@@ -1,3 +1,5 @@
-## 14 March 2026 - Moderate Impact Forex News
+## 15 March 2026 - Moderate Impact Forex News
 
-There is no moderate impact news today.
+| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 21:45 | NZD | Electronic Card Retail Sales (MoM) (Feb) |  |  | -1.1% |
