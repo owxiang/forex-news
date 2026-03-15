@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 34 min | NZD | Electronic Card Retail Sales (MoM) (Feb) |  |  | -1.1% |
+| 21:45 | NZD | Electronic Card Retail Sales (MoM) (Feb) | 1.4% |  | -1.1% |
