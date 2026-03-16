@@ -31,8 +31,8 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 2.353% |  | 2.339% |
 | 14:00 | EUR | French 3-Month BTF Auction | 2.108% |  | 2.097% |
 | 14:00 | EUR | French 6-Month BTF Auction | 2.199% |  | 2.217% |
-| 1 min | USD | 3-Month Bill Auction |  |  | 3.605% |
-| 1 min | USD | 6-Month Bill Auction |  |  | 3.535% |
+| 15:30 | USD | 3-Month Bill Auction | 3.610% |  | 3.605% |
+| 15:30 | USD | 6-Month Bill Auction | 3.570% |  | 3.535% |
 | 21:00 | KRW | Export Price Index (YoY) (Feb) |  |  | 7.8% |
 | 21:00 | KRW | Import Price Index (YoY) (Feb) |  |  | -1.2% |
 | 21:45 | NZD | FPI (MoM) (Feb) |  |  | 2.5% |
