@@ -12,10 +12,10 @@
 | 02:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Feb) | 2.80% |  | 2.73% |
 | 02:00 | CNY | Moderate | Chinese Unemployment Rate (Feb) | 5.3% | 5.1% | 5.1% |
 | 02:00 | CNY | Moderate | NBS Press Conference |  |  |  |
-| 06:30 | INR | Low | WPI Food (YoY) (Feb) |  |  | 1.55% |
-| 06:30 | INR | Low | WPI Fuel (YoY) (Feb) |  |  | -4.01% |
-| 06:30 | INR | Moderate | WPI Inflation (YoY) (Feb) |  | 2.00% | 1.81% |
-| 06:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Feb) |  |  | 2.86% |
+| 47 min | INR | Low | WPI Food (YoY) (Feb) |  |  | 1.55% |
+| 47 min | INR | Low | WPI Fuel (YoY) (Feb) |  |  | -4.01% |
+| 47 min | INR | Moderate | WPI Inflation (YoY) (Feb) |  | 2.00% | 1.81% |
+| 47 min | INR | Low | WPI Manufacturing Inflation (YoY) (Feb) |  |  | 2.86% |
 | 07:00 | NOK | Low | Trade Balance (Feb) |  |  | 75.9B |
 | 09:00 | INR | Low | Exports (USD) (Feb) |  |  | 36.56B |
 | 09:00 | INR | Low | Imports (USD) (Feb) |  |  | 71.24B |
