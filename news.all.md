@@ -20,12 +20,12 @@
 | 08:00 | INR | Low | Exports (USD) (Feb) | 36.61B |  | 36.56B |
 | 08:00 | INR | Low | Imports (USD) (Feb) | 63.71B |  | 71.24B |
 | 08:00 | INR | Low | Trade Balance (Feb) | -27.10B | -28.00B | -34.68B |
-| 29 min | CNY | Low | FDI (Feb) |  |  | -5.70% |
-| 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 1.985% |
-| 10:30 | EUR | Low | German 6-Month Bubill Auction |  |  | 1.986% |
+| 59 min | EUR | Low | German 12-Month Bubill Auction |  |  | 1.985% |
+| 59 min | EUR | Low | German 6-Month Bubill Auction |  |  | 1.986% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:00 | BRL | Low | IBC-Br Economic Activity (Jan) |  |  | -0.20% |
+| 12:00 | CNY | Low | FDI (Feb) |  |  | -5.70% |
 | 12:15 | CAD | Moderate | Housing Starts (Feb) |  | 243.0K | 238.0K |
 | 12:30 | USD | Moderate | NY Empire State Manufacturing Index (Mar) |  | 4.00 | 7.10 |
 | 12:30 | CAD | Low | Common CPI (YoY) (Feb) |  | 2.6% | 2.7% |
