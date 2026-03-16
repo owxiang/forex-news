@@ -14,11 +14,11 @@
 | 08:00 | INR | Exports (USD) (Feb) | 36.61B |  | 36.56B |
 | 08:00 | INR | Imports (USD) (Feb) | 63.71B |  | 71.24B |
 | 08:00 | INR | Trade Balance (Feb) | -27.10B | -28.00B | -34.68B |
-| 59 min | EUR | German 12-Month Bubill Auction |  |  | 1.985% |
-| 59 min | EUR | German 6-Month Bubill Auction |  |  | 1.986% |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:00 | BRL | IBC-Br Economic Activity (Jan) |  |  | -0.20% |
+| 2 min | EUR | German 12-Month Bubill Auction |  |  | 1.985% |
+| 2 min | EUR | German 6-Month Bubill Auction |  |  | 1.986% |
+| 32 min | EUR | German Buba Monthly Report |  |  |  |
+| 57 min | BRL | BCB Focus Market Readout |  |  |  |
+| 12:00 | BRL | IBC-Br Economic Activity (Jan) |  | 0.85% | -0.20% |
 | 12:00 | CNY | FDI (Feb) |  |  | -5.70% |
 | 12:30 | CAD | Common CPI (YoY) (Feb) |  | 2.6% | 2.7% |
 | 12:30 | CAD | CPI (YoY) (Feb) |  |  | 2.3% |
@@ -26,7 +26,7 @@
 | 12:30 | CAD | New Motor Vehicle Sales (MoM) (Jan) |  |  | 127.3K |
 | 12:30 | CAD | Trimmed CPI (YoY) (Feb) |  | 2.4% | 2.4% |
 | 13:15 | USD | Capacity Utilization Rate (Feb) |  | 76.2% | 76.2% |
-| 13:15 | USD | Manufacturing Production (MoM) (Feb) |  |  | 0.6% |
+| 13:15 | USD | Manufacturing Production (MoM) (Feb) |  | 0.1% | 0.6% |
 | 14:00 | USD | NAHB Housing Market Index (Mar) |  | 37 | 36 |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.339% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.097% |
