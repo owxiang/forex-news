@@ -11,10 +11,10 @@
 | 06:30 | INR | WPI Fuel (YoY) (Feb) | -3.78% |  | -4.01% |
 | 06:30 | INR | WPI Manufacturing Inflation (YoY) (Feb) | 2.92% |  | 2.86% |
 | 07:00 | NOK | Trade Balance (Feb) | 44.8B |  | 75.8B |
-| 09:00 | INR | Exports (USD) (Feb) |  |  | 36.56B |
-| 09:00 | INR | Imports (USD) (Feb) |  |  | 71.24B |
-| 09:00 | INR | Trade Balance (Feb) |  | -28.00B | -34.68B |
-| 09:00 | CNY | FDI (Feb) |  |  | -5.70% |
+| 08:00 | INR | Exports (USD) (Feb) | 36.61B |  | 36.56B |
+| 08:00 | INR | Imports (USD) (Feb) | 63.71B |  | 71.24B |
+| 08:00 | INR | Trade Balance (Feb) | -27.10B | -28.00B | -34.68B |
+| 29 min | CNY | FDI (Feb) |  |  | -5.70% |
 | 10:30 | EUR | German 12-Month Bubill Auction |  |  | 1.985% |
 | 10:30 | EUR | German 6-Month Bubill Auction |  |  | 1.986% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |

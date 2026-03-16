@@ -17,10 +17,10 @@
 | 06:30 | INR | Moderate | WPI Inflation (YoY) (Feb) | 2.13% | 2.00% | 1.81% |
 | 06:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Feb) | 2.92% |  | 2.86% |
 | 07:00 | NOK | Low | Trade Balance (Feb) | 44.8B |  | 75.8B |
-| 09:00 | INR | Low | Exports (USD) (Feb) |  |  | 36.56B |
-| 09:00 | INR | Low | Imports (USD) (Feb) |  |  | 71.24B |
-| 09:00 | INR | Low | Trade Balance (Feb) |  | -28.00B | -34.68B |
-| 09:00 | CNY | Low | FDI (Feb) |  |  | -5.70% |
+| 08:00 | INR | Low | Exports (USD) (Feb) | 36.61B |  | 36.56B |
+| 08:00 | INR | Low | Imports (USD) (Feb) | 63.71B |  | 71.24B |
+| 08:00 | INR | Low | Trade Balance (Feb) | -27.10B | -28.00B | -34.68B |
+| 29 min | CNY | Low | FDI (Feb) |  |  | -5.70% |
 | 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 1.985% |
 | 10:30 | EUR | Low | German 6-Month Bubill Auction |  |  | 1.986% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
