@@ -40,15 +40,15 @@
 | 13:15 | USD | Moderate | Industrial Production (MoM) (Feb) | 0.2% | 0.1% | 0.7% |
 | 13:15 | USD | Moderate | Industrial Production (YoY) (Feb) | 1.44% |  | 2.33% |
 | 13:15 | USD | Low | Manufacturing Production (MoM) (Feb) | 0.2% | 0.1% | 0.8% |
-| 23 min | USD | Low | NAHB Housing Market Index (Mar) |  | 37 | 36 |
-| 23 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.339% |
-| 23 min | EUR | Low | French 3-Month BTF Auction |  |  | 2.097% |
-| 23 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.217% |
-| 53 min | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Feb) |  |  | 0.33% |
-| 53 min | HKD | Low | PPI (YoY) (Q4) |  |  | 7.70% |
-| 15:00 | USD | Low | Dallas Fed PCE (Jan) |  |  | 2.20% |
-| 15:30 | USD | Low | 3-Month Bill Auction |  |  | 3.605% |
-| 15:30 | USD | Low | 6-Month Bill Auction |  |  | 3.535% |
+| 14:00 | USD | Low | NAHB Housing Market Index (Mar) | 38 | 37 | 37 |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.353% |  | 2.339% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.108% |  | 2.097% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.199% |  | 2.217% |
+| 14:30 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Feb) |  |  | 0.33% |
+| 14:30 | HKD | Low | PPI (YoY) (Q4) |  |  | 7.70% |
+| 26 min | USD | Low | Dallas Fed PCE (Jan) |  |  | 2.20% |
+| 56 min | USD | Low | 3-Month Bill Auction |  |  | 3.605% |
+| 56 min | USD | Low | 6-Month Bill Auction |  |  | 3.535% |
 | 21:00 | KRW | Low | Export Price Index (YoY) (Feb) |  |  | 7.8% |
 | 21:00 | KRW | Low | Import Price Index (YoY) (Feb) |  |  | -1.2% |
 | 21:45 | NZD | Low | FPI (MoM) (Feb) |  |  | 2.5% |

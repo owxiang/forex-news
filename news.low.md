@@ -27,15 +27,15 @@
 | 12:30 | CAD | Trimmed CPI (YoY) (Feb) | 2.3% | 2.4% | 2.4% |
 | 13:15 | USD | Capacity Utilization Rate (Feb) | 76.3% | 76.2% | 76.3% |
 | 13:15 | USD | Manufacturing Production (MoM) (Feb) | 0.2% | 0.1% | 0.8% |
-| 23 min | USD | NAHB Housing Market Index (Mar) |  | 37 | 36 |
-| 23 min | EUR | French 12-Month BTF Auction |  |  | 2.339% |
-| 23 min | EUR | French 3-Month BTF Auction |  |  | 2.097% |
-| 23 min | EUR | French 6-Month BTF Auction |  |  | 2.217% |
-| 53 min | BRL | Brazilian IPCA Inflation Index SA (MoM) (Feb) |  |  | 0.33% |
-| 53 min | HKD | PPI (YoY) (Q4) |  |  | 7.70% |
-| 15:00 | USD | Dallas Fed PCE (Jan) |  |  | 2.20% |
-| 15:30 | USD | 3-Month Bill Auction |  |  | 3.605% |
-| 15:30 | USD | 6-Month Bill Auction |  |  | 3.535% |
+| 14:00 | USD | NAHB Housing Market Index (Mar) | 38 | 37 | 37 |
+| 14:00 | EUR | French 12-Month BTF Auction | 2.353% |  | 2.339% |
+| 14:00 | EUR | French 3-Month BTF Auction | 2.108% |  | 2.097% |
+| 14:00 | EUR | French 6-Month BTF Auction | 2.199% |  | 2.217% |
+| 14:30 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Feb) |  |  | 0.33% |
+| 14:30 | HKD | PPI (YoY) (Q4) |  |  | 7.70% |
+| 26 min | USD | Dallas Fed PCE (Jan) |  |  | 2.20% |
+| 56 min | USD | 3-Month Bill Auction |  |  | 3.605% |
+| 56 min | USD | 6-Month Bill Auction |  |  | 3.535% |
 | 21:00 | KRW | Export Price Index (YoY) (Feb) |  |  | 7.8% |
 | 21:00 | KRW | Import Price Index (YoY) (Feb) |  |  | -1.2% |
 | 21:45 | NZD | FPI (MoM) (Feb) |  |  | 2.5% |
