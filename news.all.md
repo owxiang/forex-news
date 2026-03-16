@@ -29,8 +29,8 @@
 | 12:15 | CAD | Moderate | Housing Starts (Feb) | 250.9K | 243.0K | 240.1K |
 | 12:30 | USD | Moderate | NY Empire State Manufacturing Index (Mar) | -0.20 | 4.00 | 7.10 |
 | 12:30 | CAD | Low | Common CPI (YoY) (Feb) | 2.4% | 2.6% | 2.7% |
-| 12:30 | CAD | Moderate | Core CPI (MoM) (Feb) | 0.4% |  | 0.2% |
 | 12:30 | CAD | Moderate | Core CPI (YoY) (Feb) | 2.3% |  | 2.6% |
+| 12:30 | CAD | Moderate | Core CPI (MoM) (Feb) | 0.4% |  | 0.2% |
 | 12:30 | CAD | Moderate | CPI (MoM) (Feb) | 0.5% | 0.7% | 0.0% |
 | 12:30 | CAD | Low | CPI (YoY) (Feb) | 1.8% |  | 2.3% |
 | 12:30 | CAD | Low | Median CPI (YoY) (Feb) | 2.3% | 2.4% | 2.5% |
@@ -46,6 +46,7 @@
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.199% |  | 2.217% |
 | 15:30 | USD | Low | 3-Month Bill Auction | 3.610% |  | 3.605% |
 | 15:30 | USD | Low | 6-Month Bill Auction | 3.570% |  | 3.535% |
+| 15:30 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 21:00 | KRW | Low | Export Price Index (YoY) (Feb) |  |  | 7.8% |
 | 21:00 | KRW | Low | Import Price Index (YoY) (Feb) |  |  | -1.2% |
 | 21:45 | NZD | Low | FPI (MoM) (Feb) |  |  | 2.5% |
