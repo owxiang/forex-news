@@ -19,15 +19,14 @@
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 11:00 | EUR | Reserve Assets Total | 2,046.00B |  | 1,987.13B |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 36 min | BRL | IBC-Br Economic Activity (Jan) |  | 0.85% | -0.20% |
-| 36 min | CNY | FDI (Feb) |  |  | -5.70% |
-| 12:30 | CAD | Common CPI (YoY) (Feb) |  | 2.6% | 2.7% |
-| 12:30 | CAD | CPI (YoY) (Feb) |  |  | 2.3% |
-| 12:30 | CAD | Median CPI (YoY) (Feb) |  | 2.4% | 2.5% |
-| 12:30 | CAD | New Motor Vehicle Sales (MoM) (Jan) |  |  | 127.3K |
-| 12:30 | CAD | Trimmed CPI (YoY) (Feb) |  | 2.4% | 2.4% |
-| 13:15 | USD | Capacity Utilization Rate (Feb) |  | 76.2% | 76.2% |
-| 13:15 | USD | Manufacturing Production (MoM) (Feb) |  | 0.1% | 0.6% |
+| 12:00 | BRL | IBC-Br Economic Activity (Jan) | 0.80% | 0.85% | -0.20% |
+| 4 min | CAD | Common CPI (YoY) (Feb) |  | 2.6% | 2.7% |
+| 4 min | CAD | CPI (YoY) (Feb) |  |  | 2.3% |
+| 4 min | CAD | Median CPI (YoY) (Feb) |  | 2.4% | 2.5% |
+| 4 min | CAD | New Motor Vehicle Sales (MoM) (Jan) |  |  | 127.3K |
+| 4 min | CAD | Trimmed CPI (YoY) (Feb) |  | 2.4% | 2.4% |
+| 49 min | USD | Capacity Utilization Rate (Feb) |  | 76.2% | 76.2% |
+| 49 min | USD | Manufacturing Production (MoM) (Feb) |  | 0.1% | 0.6% |
 | 14:00 | USD | NAHB Housing Market Index (Mar) |  | 37 | 36 |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.339% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.097% |

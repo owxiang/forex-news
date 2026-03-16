@@ -25,22 +25,21 @@
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | EUR | Low | Reserve Assets Total | 2,046.00B |  | 1,987.13B |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 36 min | BRL | Low | IBC-Br Economic Activity (Jan) |  | 0.85% | -0.20% |
-| 36 min | CNY | Low | FDI (Feb) |  |  | -5.70% |
-| 51 min | CAD | Moderate | Housing Starts (Feb) |  | 243.0K | 238.0K |
-| 12:30 | USD | Moderate | NY Empire State Manufacturing Index (Mar) |  | 4.00 | 7.10 |
-| 12:30 | CAD | Low | Common CPI (YoY) (Feb) |  | 2.6% | 2.7% |
-| 12:30 | CAD | Moderate | Core CPI (YoY) (Feb) |  |  | 2.6% |
-| 12:30 | CAD | Moderate | Core CPI (MoM) (Feb) |  |  | 0.2% |
-| 12:30 | CAD | Moderate | CPI (MoM) (Feb) |  | 0.7% | 0.0% |
-| 12:30 | CAD | Low | CPI (YoY) (Feb) |  |  | 2.3% |
-| 12:30 | CAD | Low | Median CPI (YoY) (Feb) |  | 2.4% | 2.5% |
-| 12:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Jan) |  |  | 127.3K |
-| 12:30 | CAD | Low | Trimmed CPI (YoY) (Feb) |  | 2.4% | 2.4% |
-| 13:15 | USD | Low | Capacity Utilization Rate (Feb) |  | 76.2% | 76.2% |
-| 13:15 | USD | Moderate | Industrial Production (YoY) (Feb) |  |  | 2.28% |
-| 13:15 | USD | Moderate | Industrial Production (MoM) (Feb) |  | 0.1% | 0.7% |
-| 13:15 | USD | Low | Manufacturing Production (MoM) (Feb) |  | 0.1% | 0.6% |
+| 12:00 | BRL | Low | IBC-Br Economic Activity (Jan) | 0.80% | 0.85% | -0.20% |
+| 12:15 | CAD | Moderate | Housing Starts (Feb) | 250.9K | 243.0K | 240.1K |
+| 4 min | USD | Moderate | NY Empire State Manufacturing Index (Mar) |  | 4.00 | 7.10 |
+| 4 min | CAD | Low | Common CPI (YoY) (Feb) |  | 2.6% | 2.7% |
+| 4 min | CAD | Moderate | Core CPI (MoM) (Feb) |  |  | 0.2% |
+| 4 min | CAD | Moderate | Core CPI (YoY) (Feb) |  |  | 2.6% |
+| 4 min | CAD | Moderate | CPI (MoM) (Feb) |  | 0.7% | 0.0% |
+| 4 min | CAD | Low | CPI (YoY) (Feb) |  |  | 2.3% |
+| 4 min | CAD | Low | Median CPI (YoY) (Feb) |  | 2.4% | 2.5% |
+| 4 min | CAD | Low | New Motor Vehicle Sales (MoM) (Jan) |  |  | 127.3K |
+| 4 min | CAD | Low | Trimmed CPI (YoY) (Feb) |  | 2.4% | 2.4% |
+| 49 min | USD | Low | Capacity Utilization Rate (Feb) |  | 76.2% | 76.2% |
+| 49 min | USD | Moderate | Industrial Production (MoM) (Feb) |  | 0.1% | 0.7% |
+| 49 min | USD | Moderate | Industrial Production (YoY) (Feb) |  |  | 2.28% |
+| 49 min | USD | Low | Manufacturing Production (MoM) (Feb) |  | 0.1% | 0.6% |
 | 14:00 | USD | Low | NAHB Housing Market Index (Mar) |  | 37 | 36 |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.339% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.097% |
