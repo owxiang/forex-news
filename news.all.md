@@ -49,4 +49,4 @@
 | 15:30 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 21:00 | KRW | Low | Export Price Index (YoY) (Feb) | 10.7% |  | 7.8% |
 | 21:00 | KRW | Low | Import Price Index (YoY) (Feb) | 1.2% |  | -0.9% |
-| 28 min | NZD | Low | FPI (MoM) (Feb) |  |  | 2.5% |
+| 21:45 | NZD | Low | FPI (MoM) (Feb) | -0.1% |  | 2.1% |

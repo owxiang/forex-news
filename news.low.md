@@ -35,4 +35,4 @@
 | 15:30 | USD | 6-Month Bill Auction | 3.570% |  | 3.535% |
 | 21:00 | KRW | Export Price Index (YoY) (Feb) | 10.7% |  | 7.8% |
 | 21:00 | KRW | Import Price Index (YoY) (Feb) | 1.2% |  | -0.9% |
-| 28 min | NZD | FPI (MoM) (Feb) |  |  | 2.5% |
+| 21:45 | NZD | FPI (MoM) (Feb) | -0.1% |  | 2.1% |
