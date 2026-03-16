@@ -9,9 +9,9 @@
 | 02:00 | CNY | NBS Press Conference |  |  |  |
 | 06:30 | INR | WPI Inflation (YoY) (Feb) | 2.13% | 2.00% | 1.81% |
 | 12:15 | CAD | Housing Starts (Feb) | 250.9K | 243.0K | 240.1K |
-| 4 min | USD | NY Empire State Manufacturing Index (Mar) |  | 4.00 | 7.10 |
-| 4 min | CAD | Core CPI (MoM) (Feb) |  |  | 0.2% |
-| 4 min | CAD | Core CPI (YoY) (Feb) |  |  | 2.6% |
-| 4 min | CAD | CPI (MoM) (Feb) |  | 0.7% | 0.0% |
-| 49 min | USD | Industrial Production (MoM) (Feb) |  | 0.1% | 0.7% |
-| 49 min | USD | Industrial Production (YoY) (Feb) |  |  | 2.28% |
+| 12:30 | USD | NY Empire State Manufacturing Index (Mar) | -0.20 | 4.00 | 7.10 |
+| 12:30 | CAD | Core CPI (MoM) (Feb) | 0.4% |  | 0.2% |
+| 12:30 | CAD | Core CPI (YoY) (Feb) | 2.3% |  | 2.6% |
+| 12:30 | CAD | CPI (MoM) (Feb) | 0.5% | 0.7% | 0.0% |
+| 13:15 | USD | Industrial Production (MoM) (Feb) | 0.2% | 0.1% | 0.7% |
+| 13:15 | USD | Industrial Production (YoY) (Feb) | 1.44% |  | 2.33% |

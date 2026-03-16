@@ -27,25 +27,25 @@
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:00 | BRL | Low | IBC-Br Economic Activity (Jan) | 0.80% | 0.85% | -0.20% |
 | 12:15 | CAD | Moderate | Housing Starts (Feb) | 250.9K | 243.0K | 240.1K |
-| 4 min | USD | Moderate | NY Empire State Manufacturing Index (Mar) |  | 4.00 | 7.10 |
-| 4 min | CAD | Low | Common CPI (YoY) (Feb) |  | 2.6% | 2.7% |
-| 4 min | CAD | Moderate | Core CPI (MoM) (Feb) |  |  | 0.2% |
-| 4 min | CAD | Moderate | Core CPI (YoY) (Feb) |  |  | 2.6% |
-| 4 min | CAD | Moderate | CPI (MoM) (Feb) |  | 0.7% | 0.0% |
-| 4 min | CAD | Low | CPI (YoY) (Feb) |  |  | 2.3% |
-| 4 min | CAD | Low | Median CPI (YoY) (Feb) |  | 2.4% | 2.5% |
-| 4 min | CAD | Low | New Motor Vehicle Sales (MoM) (Jan) |  |  | 127.3K |
-| 4 min | CAD | Low | Trimmed CPI (YoY) (Feb) |  | 2.4% | 2.4% |
-| 49 min | USD | Low | Capacity Utilization Rate (Feb) |  | 76.2% | 76.2% |
-| 49 min | USD | Moderate | Industrial Production (MoM) (Feb) |  | 0.1% | 0.7% |
-| 49 min | USD | Moderate | Industrial Production (YoY) (Feb) |  |  | 2.28% |
-| 49 min | USD | Low | Manufacturing Production (MoM) (Feb) |  | 0.1% | 0.6% |
-| 14:00 | USD | Low | NAHB Housing Market Index (Mar) |  | 37 | 36 |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.339% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.097% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.217% |
-| 14:30 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Feb) |  |  | 0.33% |
-| 14:30 | HKD | Low | PPI (YoY) (Q4) |  |  | 7.70% |
+| 12:30 | USD | Moderate | NY Empire State Manufacturing Index (Mar) | -0.20 | 4.00 | 7.10 |
+| 12:30 | CAD | Low | Common CPI (YoY) (Feb) | 2.4% | 2.6% | 2.7% |
+| 12:30 | CAD | Moderate | Core CPI (MoM) (Feb) | 0.4% |  | 0.2% |
+| 12:30 | CAD | Moderate | Core CPI (YoY) (Feb) | 2.3% |  | 2.6% |
+| 12:30 | CAD | Moderate | CPI (MoM) (Feb) | 0.5% | 0.7% | 0.0% |
+| 12:30 | CAD | Low | CPI (YoY) (Feb) | 1.8% |  | 2.3% |
+| 12:30 | CAD | Low | Median CPI (YoY) (Feb) | 2.3% | 2.4% | 2.5% |
+| 12:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Jan) | 114.4K |  | 127.3K |
+| 12:30 | CAD | Low | Trimmed CPI (YoY) (Feb) | 2.3% | 2.4% | 2.4% |
+| 13:15 | USD | Low | Capacity Utilization Rate (Feb) | 76.3% | 76.2% | 76.3% |
+| 13:15 | USD | Moderate | Industrial Production (MoM) (Feb) | 0.2% | 0.1% | 0.7% |
+| 13:15 | USD | Moderate | Industrial Production (YoY) (Feb) | 1.44% |  | 2.33% |
+| 13:15 | USD | Low | Manufacturing Production (MoM) (Feb) | 0.2% | 0.1% | 0.8% |
+| 23 min | USD | Low | NAHB Housing Market Index (Mar) |  | 37 | 36 |
+| 23 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.339% |
+| 23 min | EUR | Low | French 3-Month BTF Auction |  |  | 2.097% |
+| 23 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.217% |
+| 53 min | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Feb) |  |  | 0.33% |
+| 53 min | HKD | Low | PPI (YoY) (Q4) |  |  | 7.70% |
 | 15:00 | USD | Low | Dallas Fed PCE (Jan) |  |  | 2.20% |
 | 15:30 | USD | Low | 3-Month Bill Auction |  |  | 3.605% |
 | 15:30 | USD | Low | 6-Month Bill Auction |  |  | 3.535% |
