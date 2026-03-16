@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | CNY | Fixed Asset Investment (YoY) (Feb) |  | -5.0% | -3.8% |
-| 02:00 | CNY | Industrial Production (YoY) (Feb) |  | 5.3% | 5.2% |
-| 02:00 | CNY | Chinese Industrial Production YTD (YoY) (Feb) |  |  | 5.9% |
-| 02:00 | CNY | Chinese Unemployment Rate (Feb) |  | 5.1% | 5.1% |
-| 02:00 | CNY | NBS Press Conference |  |  |  |
+| 20 min | CNY | Fixed Asset Investment (YoY) (Feb) |  | -5.0% | -3.8% |
+| 20 min | CNY | Industrial Production (YoY) (Feb) |  | 5.3% | 5.2% |
+| 20 min | CNY | Chinese Industrial Production YTD (YoY) (Feb) |  |  | 5.9% |
+| 20 min | CNY | Chinese Unemployment Rate (Feb) |  | 5.1% | 5.1% |
+| 20 min | CNY | NBS Press Conference |  |  |  |
 | 06:30 | INR | WPI Inflation (YoY) (Feb) |  | 2.00% | 1.81% |
 | 12:15 | CAD | Housing Starts (Feb) |  | 243.0K | 238.0K |
 | 12:30 | USD | NY Empire State Manufacturing Index (Mar) |  | 4.00 | 7.10 |

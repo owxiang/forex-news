@@ -4,9 +4,9 @@
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | Rightmove House Price Index (MoM) | 0.8% |  | 0.0% |
 | 00:01 | GBP | Rightmove House Price Index (YoY) (Mar) | -0.2% |  | 0.0% |
-| 44 min | CNY | House Prices (YoY) (Feb) |  |  | -3.1% |
-| 02:00 | CNY | Retail Sales (YoY) (Feb) |  | 2.6% | 0.9% |
-| 02:00 | CNY | Chinese Retail Sales YTD (YoY) (Feb) |  |  | 2.73% |
+| 01:30 | CNY | House Prices (YoY) (Feb) | -3.2% |  | -3.1% |
+| 20 min | CNY | Retail Sales (YoY) (Feb) |  | 2.6% | 0.9% |
+| 20 min | CNY | Chinese Retail Sales YTD (YoY) (Feb) |  |  | 2.73% |
 | 06:30 | INR | WPI Food (YoY) (Feb) |  |  | 1.55% |
 | 06:30 | INR | WPI Fuel (YoY) (Feb) |  |  | -4.01% |
 | 06:30 | INR | WPI Manufacturing Inflation (YoY) (Feb) |  |  | 2.86% |
