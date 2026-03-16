@@ -7,10 +7,10 @@
 | 01:30 | CNY | House Prices (YoY) (Feb) | -3.2% |  | -3.1% |
 | 02:00 | CNY | Retail Sales (YoY) (Feb) | 2.8% | 2.6% | 0.9% |
 | 02:00 | CNY | Chinese Retail Sales YTD (YoY) (Feb) | 2.80% |  | 2.73% |
-| 47 min | INR | WPI Food (YoY) (Feb) |  |  | 1.55% |
-| 47 min | INR | WPI Fuel (YoY) (Feb) |  |  | -4.01% |
-| 47 min | INR | WPI Manufacturing Inflation (YoY) (Feb) |  |  | 2.86% |
-| 07:00 | NOK | Trade Balance (Feb) |  |  | 75.9B |
+| 06:30 | INR | WPI Food (YoY) (Feb) | 1.85% |  | 1.55% |
+| 06:30 | INR | WPI Fuel (YoY) (Feb) | -3.78% |  | -4.01% |
+| 06:30 | INR | WPI Manufacturing Inflation (YoY) (Feb) | 2.92% |  | 2.86% |
+| 19 min | NOK | Trade Balance (Feb) |  |  | 75.9B |
 | 09:00 | INR | Exports (USD) (Feb) |  |  | 36.56B |
 | 09:00 | INR | Imports (USD) (Feb) |  |  | 71.24B |
 | 09:00 | INR | Trade Balance (Feb) |  | -28.00B | -34.68B |
