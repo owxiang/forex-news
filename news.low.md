@@ -14,12 +14,13 @@
 | 08:00 | INR | Exports (USD) (Feb) | 36.61B |  | 36.56B |
 | 08:00 | INR | Imports (USD) (Feb) | 63.71B |  | 71.24B |
 | 08:00 | INR | Trade Balance (Feb) | -27.10B | -28.00B | -34.68B |
-| 2 min | EUR | German 12-Month Bubill Auction |  |  | 1.985% |
-| 2 min | EUR | German 6-Month Bubill Auction |  |  | 1.986% |
-| 32 min | EUR | German Buba Monthly Report |  |  |  |
-| 57 min | BRL | BCB Focus Market Readout |  |  |  |
-| 12:00 | BRL | IBC-Br Economic Activity (Jan) |  | 0.85% | -0.20% |
-| 12:00 | CNY | FDI (Feb) |  |  | -5.70% |
+| 10:30 | EUR | German 12-Month Bubill Auction | 2.270% |  | 1.985% |
+| 10:30 | EUR | German 6-Month Bubill Auction | 2.121% |  | 1.986% |
+| 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 11:00 | EUR | Reserve Assets Total | 2,046.00B |  | 1,987.13B |
+| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 36 min | BRL | IBC-Br Economic Activity (Jan) |  | 0.85% | -0.20% |
+| 36 min | CNY | FDI (Feb) |  |  | -5.70% |
 | 12:30 | CAD | Common CPI (YoY) (Feb) |  | 2.6% | 2.7% |
 | 12:30 | CAD | CPI (YoY) (Feb) |  |  | 2.3% |
 | 12:30 | CAD | Median CPI (YoY) (Feb) |  | 2.4% | 2.5% |
