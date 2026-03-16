@@ -47,6 +47,6 @@
 | 15:30 | USD | Low | 3-Month Bill Auction | 3.610% |  | 3.605% |
 | 15:30 | USD | Low | 6-Month Bill Auction | 3.570% |  | 3.535% |
 | 15:30 | USD | High | U.S. President Trump Speaks |  |  |  |
-| 21:00 | KRW | Low | Export Price Index (YoY) (Feb) |  |  | 7.8% |
-| 21:00 | KRW | Low | Import Price Index (YoY) (Feb) |  |  | -1.2% |
+| 44 min | KRW | Low | Export Price Index (YoY) (Feb) |  |  | 7.8% |
+| 44 min | KRW | Low | Import Price Index (YoY) (Feb) |  |  | -1.2% |
 | 21:45 | NZD | Low | FPI (MoM) (Feb) |  |  | 2.5% |
