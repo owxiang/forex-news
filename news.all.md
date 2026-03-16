@@ -5,13 +5,13 @@
 | 00:01 | GBP | Low | Rightmove House Price Index (MoM) | 0.8% |  | 0.0% |
 | 00:01 | GBP | Low | Rightmove House Price Index (YoY) (Mar) | -0.2% |  | 0.0% |
 | 01:30 | CNY | Low | House Prices (YoY) (Feb) | -3.2% |  | -3.1% |
-| 20 min | CNY | Moderate | Fixed Asset Investment (YoY) (Feb) |  | -5.0% | -3.8% |
-| 20 min | CNY | Moderate | Industrial Production (YoY) (Feb) |  | 5.3% | 5.2% |
-| 20 min | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Feb) |  |  | 5.9% |
-| 20 min | CNY | Low | Retail Sales (YoY) (Feb) |  | 2.6% | 0.9% |
-| 20 min | CNY | Low | Chinese Retail Sales YTD (YoY) (Feb) |  |  | 2.73% |
-| 20 min | CNY | Moderate | Chinese Unemployment Rate (Feb) |  | 5.1% | 5.1% |
-| 20 min | CNY | Moderate | NBS Press Conference |  |  |  |
+| 02:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Feb) | 1.8% | -5.0% | -3.8% |
+| 02:00 | CNY | Moderate | Industrial Production (YoY) (Feb) | 6.3% | 5.3% | 5.2% |
+| 02:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Feb) | 6.3% |  | 5.9% |
+| 02:00 | CNY | Low | Retail Sales (YoY) (Feb) | 2.8% | 2.6% | 0.9% |
+| 02:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Feb) | 2.80% |  | 2.73% |
+| 02:00 | CNY | Moderate | Chinese Unemployment Rate (Feb) | 5.3% | 5.1% | 5.1% |
+| 02:00 | CNY | Moderate | NBS Press Conference |  |  |  |
 | 06:30 | INR | Low | WPI Food (YoY) (Feb) |  |  | 1.55% |
 | 06:30 | INR | Low | WPI Fuel (YoY) (Feb) |  |  | -4.01% |
 | 06:30 | INR | Moderate | WPI Inflation (YoY) (Feb) |  | 2.00% | 1.81% |
