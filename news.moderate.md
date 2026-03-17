@@ -12,7 +12,7 @@
 | 14:00 | USD | Pending Home Sales (MoM) (Feb) | 1.8% | -0.6% | -1.0% |
 | 15:15 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 17:00 | USD | 20-Year Bond Auction | 4.817% |  | 4.664% |
-| 32 min | EUR | ECB President Lagarde Speaks |  |  |  |
+| 18:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 20:30 | USD | API Weekly Crude Oil Stock |  | -0.600M | -1.700M |
 | 21:45 | NZD | Current Account (QoQ) (Q4) |  | -4.78B | -8.37B |
 | 21:45 | NZD | Current Account (YoY) (Q4) |  |  | -15.37B |

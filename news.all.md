@@ -36,7 +36,7 @@
 | 15:30 | USD | Low | 52-Week Bill Auction | 3.485% |  | 3.390% |
 | 15:30 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 17:00 | USD | Moderate | 20-Year Bond Auction | 4.817% |  | 4.664% |
-| 32 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 18:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 20:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -0.600M | -1.700M |
 | 21:45 | NZD | Moderate | Current Account (QoQ) (Q4) |  | -4.78B | -8.37B |
 | 21:45 | NZD | Moderate | Current Account (YoY) (Q4) |  |  | -15.37B |
