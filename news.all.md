@@ -9,12 +9,12 @@
 | 03:30 | AUD | High | RBA Interest Rate Decision (Mar) | 4.10% | 4.10% | 3.85% |
 | 03:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
 | 04:30 | JPY | Low | Tertiary Industry Activity Index (Jan) | -9.20 |  | 8.00 |
-| 07:30 | CHF | Moderate | PPI (MoM) (Feb) |  | 0.0% | -0.2% |
-| 07:30 | CHF | Low | PPI (YoY) (Feb) |  |  | -2.2% |
-| 07:30 | IDR | Moderate | Interest Rate Decision |  | 4.75% | 4.75% |
-| 07:30 | IDR | Low | Deposit Facility Rate (Mar) |  | 3.75% | 3.75% |
-| 07:30 | IDR | Low | Lending Facility Rate (Mar) |  | 5.50% | 5.50% |
-| 07:30 | IDR | Low | Loans (YoY) (Feb) |  |  | 9.96% |
+| 3 min | CHF | Moderate | PPI (MoM) (Feb) |  | 0.0% | -0.2% |
+| 3 min | CHF | Low | PPI (YoY) (Feb) |  |  | -2.2% |
+| 3 min | IDR | Moderate | Interest Rate Decision |  | 4.75% | 4.75% |
+| 3 min | IDR | Low | Deposit Facility Rate (Mar) |  | 3.75% | 3.75% |
+| 3 min | IDR | Low | Lending Facility Rate (Mar) |  | 5.50% | 5.50% |
+| 3 min | IDR | Low | Loans (YoY) (Feb) | 9.37% |  | 9.96% |
 | 09:00 | EUR | Low | Italian CPI (YoY) (Feb) |  | 1.6% | 1.0% |
 | 09:00 | EUR | Low | Italian CPI (MoM) (Feb) |  | 0.8% | 0.4% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Feb) |  |  | 0.8% |
