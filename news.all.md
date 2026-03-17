@@ -15,8 +15,8 @@
 | 07:30 | IDR | Low | Deposit Facility Rate (Mar) | 3.75% | 3.75% | 3.75% |
 | 07:30 | IDR | Low | Lending Facility Rate (Mar) | 5.50% | 5.50% | 5.50% |
 | 07:30 | IDR | Low | Loans (YoY) (Feb) | 9.37% |  | 9.96% |
-| 09:00 | EUR | Low | Italian CPI (YoY) (Feb) | 1.5% | 1.6% | 1.0% |
 | 09:00 | EUR | Low | Italian CPI (MoM) (Feb) | 0.7% | 0.8% | 0.4% |
+| 09:00 | EUR | Low | Italian CPI (YoY) (Feb) | 1.5% | 1.6% | 1.0% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Feb) | 1.1% |  | 0.8% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Feb) | 0.5% | 0.6% | -1.0% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (Feb) | 1.5% | 1.6% | 1.0% |
@@ -25,16 +25,12 @@
 | 10:00 | EUR | Moderate | ZEW Economic Sentiment (Mar) | -8.5 | 26.5 | 39.4 |
 | 10:30 | GBP | Low | 5-Year Treasury Gilt Auction | 4.228% |  | 3.810% |
 | 11:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Mar) | -0.2% |  | -0.4% |
-| 9 min | USD | Low | Chicago Fed President Evans Speaks |  |  |  |
-| 39 min | CNY | Low | FDI (Feb) |  |  | -5.70% |
-| 54 min | USD | Moderate | ADP Employment Change Weekly |  |  | 15.50K |
-| 12:30 | USD | Low | Dallas Fed PCE (Jan) |  |  | 2.20% |
-| 12:30 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Feb) |  |  | 0.33% |
-| 12:30 | HKD | Low | PPI (YoY) (Q4) |  |  | 7.70% |
-| 12:55 | USD | Low | Redbook (YoY) |  |  | 6.2% |
-| 14:00 | USD | Low | NAHB Housing Market Index (Mar) |  |  | 36 |
-| 14:00 | USD | Moderate | Pending Home Sales (MoM) (Feb) |  | -0.6% | -0.8% |
-| 14:00 | USD | Low | Pending Home Sales Index (Feb) |  |  | 70.9 |
+| 11:30 | USD | Low | Chicago Fed President Evans Speaks |  |  |  |
+| 12:15 | USD | Moderate | ADP Employment Change Weekly | 9.00K |  | 15.50K |
+| 12:55 | USD | Low | Redbook (YoY) | 6.4% |  | 6.2% |
+| 24 min | USD | Low | NAHB Housing Market Index (Mar) |  |  | 36 |
+| 24 min | USD | Moderate | Pending Home Sales (MoM) (Feb) |  | -0.6% | -0.8% |
+| 24 min | USD | Low | Pending Home Sales Index (Feb) |  |  | 70.9 |
 | 15:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 5.7% |
 | 15:00 | USD | Low | Milk Auctions |  |  | 4,301.0 |
 | 15:15 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
