@@ -28,13 +28,12 @@
 | 11:30 | USD | Low | Chicago Fed President Evans Speaks |  |  |  |
 | 12:15 | USD | Moderate | ADP Employment Change Weekly | 9.00K |  | 15.50K |
 | 12:55 | USD | Low | Redbook (YoY) | 6.4% |  | 6.2% |
-| 24 min | USD | Low | NAHB Housing Market Index (Mar) |  |  | 36 |
-| 24 min | USD | Moderate | Pending Home Sales (MoM) (Feb) |  | -0.6% | -0.8% |
-| 24 min | USD | Low | Pending Home Sales Index (Feb) |  |  | 70.9 |
-| 15:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 5.7% |
-| 15:00 | USD | Low | Milk Auctions |  |  | 4,301.0 |
-| 15:15 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 15:30 | USD | Low | 52-Week Bill Auction |  |  | 3.390% |
+| 14:00 | USD | Moderate | Pending Home Sales (MoM) (Feb) | 1.8% | -0.6% | -1.0% |
+| 14:00 | USD | Low | Pending Home Sales Index (Feb) | 72.1 |  | 70.8 |
+| 29 min | NZD | Low | GlobalDairyTrade Price Index |  |  | 5.7% |
+| 29 min | USD | Low | Milk Auctions |  |  | 4,301.0 |
+| 44 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 59 min | USD | Low | 52-Week Bill Auction |  |  | 3.390% |
 | 17:00 | USD | Moderate | 20-Year Bond Auction |  |  | 4.664% |
 | 18:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 20:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -0.600M | -1.700M |
