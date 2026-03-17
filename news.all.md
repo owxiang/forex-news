@@ -38,10 +38,10 @@
 | 17:00 | USD | Moderate | 20-Year Bond Auction | 4.817% |  | 4.664% |
 | 18:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 20:00 | NZD | Moderate | Westpac Consumer Sentiment (Q1) | 94.7 |  | 96.5 |
-| 13 min | USD | Moderate | API Weekly Crude Oil Stock |  | -0.600M | -1.700M |
-| 21:45 | NZD | Moderate | Current Account (QoQ) (Q4) |  | -4.78B | -8.37B |
-| 21:45 | NZD | Moderate | Current Account (YoY) (Q4) |  |  | -15.37B |
-| 21:45 | NZD | Low | Current Account % of GDP (Q4) |  |  | -3.50% |
+| 20:30 | USD | Moderate | API Weekly Crude Oil Stock | 6.600M | -0.600M | -1.700M |
+| 27 min | NZD | Moderate | Current Account (QoQ) (Q4) |  | -4.78B | -8.37B |
+| 27 min | NZD | Moderate | Current Account (YoY) (Q4) |  |  | -15.37B |
+| 27 min | NZD | Low | Current Account % of GDP (Q4) |  |  | -3.50% |
 | 23:00 | KRW | Low | Unemployment Rate (Feb) |  |  | 3.0% |
 | 23:00 | JPY | Low | Reuters Tankan Index (Mar) |  |  | 13 |
 | 23:30 | AUD | Low | MI Leading Index (MoM) |  |  | -0.1% |
