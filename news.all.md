@@ -42,10 +42,10 @@
 | 21:45 | NZD | Moderate | Current Account (QoQ) (Q4) | -5.98B | -4.78B | -8.36B |
 | 21:45 | NZD | Moderate | Current Account (YoY) (Q4) | -16.35B |  | -15.37B |
 | 21:45 | NZD | Low | Current Account % of GDP (Q4) | -3.70% |  | -3.50% |
-| 46 min | KRW | Low | Unemployment Rate (Feb) |  |  | 3.0% |
-| 46 min | JPY | Low | Reuters Tankan Index (Mar) |  |  | 13 |
-| 23:30 | AUD | Low | MI Leading Index (MoM) |  |  | -0.1% |
-| 23:50 | JPY | Moderate | Adjusted Trade Balance |  | -0.63T | 0.46T |
-| 23:50 | JPY | Moderate | Exports (YoY) (Feb) |  | 1.6% | 16.8% |
-| 23:50 | JPY | Low | Imports (YoY) (Feb) |  | 11.5% | -2.5% |
-| 23:50 | JPY | Moderate | Trade Balance (Feb) |  | -485.0B | -1,152.7B |
+| 23:00 | KRW | Low | Unemployment Rate (Feb) | 2.9% |  | 3.0% |
+| 23:00 | JPY | Low | Reuters Tankan Index (Mar) | 18 |  | 13 |
+| 16 min | AUD | Low | MI Leading Index (MoM) |  |  | -0.1% |
+| 36 min | JPY | Moderate | Adjusted Trade Balance |  | -0.63T | 0.46T |
+| 36 min | JPY | Moderate | Exports (YoY) (Feb) |  | 1.6% | 16.8% |
+| 36 min | JPY | Low | Imports (YoY) (Feb) |  | 11.5% | -2.5% |
+| 36 min | JPY | Moderate | Trade Balance (Feb) |  | -485.0B | -1,152.7B |
