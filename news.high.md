@@ -1,5 +1,5 @@
-## 16 March 2026 - High Impact Forex News
+## 17 March 2026 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 15:30 | USD | U.S. President Trump Speaks |  |  |  |
+| 03:30 | AUD | RBA Interest Rate Decision (Mar) |  | 4.10% | 3.85% |

@@ -1,38 +1,35 @@
-## 16 March 2026 - Low Impact Forex News
+## 17 March 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | Rightmove House Price Index (MoM) | 0.8% |  | 0.0% |
-| 00:01 | GBP | Rightmove House Price Index (YoY) (Mar) | -0.2% |  | 0.0% |
-| 01:30 | CNY | House Prices (YoY) (Feb) | -3.2% |  | -3.1% |
-| 02:00 | CNY | Retail Sales (YoY) (Feb) | 2.8% | 2.6% | 0.9% |
-| 02:00 | CNY | Chinese Retail Sales YTD (YoY) (Feb) | 2.80% |  | 2.73% |
-| 06:30 | INR | WPI Food (YoY) (Feb) | 2.19% |  | 1.55% |
-| 06:30 | INR | WPI Fuel (YoY) (Feb) | -3.78% |  | -4.01% |
-| 06:30 | INR | WPI Manufacturing Inflation (YoY) (Feb) | 2.92% |  | 2.86% |
-| 07:00 | NOK | Trade Balance (Feb) | 44.8B |  | 75.8B |
-| 08:00 | INR | Exports (USD) (Feb) | 36.61B |  | 36.56B |
-| 08:00 | INR | Imports (USD) (Feb) | 63.71B |  | 71.24B |
-| 08:00 | INR | Trade Balance (Feb) | -27.10B | -28.00B | -34.68B |
-| 10:30 | EUR | German 12-Month Bubill Auction | 2.270% |  | 1.985% |
-| 10:30 | EUR | German 6-Month Bubill Auction | 2.121% |  | 1.986% |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 11:00 | EUR | Reserve Assets Total | 2,046.00B |  | 1,987.13B |
-| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:00 | BRL | IBC-Br Economic Activity (Jan) | 0.80% | 0.85% | -0.20% |
-| 12:30 | CAD | Common CPI (YoY) (Feb) | 2.4% | 2.6% | 2.7% |
-| 12:30 | CAD | CPI (YoY) (Feb) | 1.8% |  | 2.3% |
-| 12:30 | CAD | Median CPI (YoY) (Feb) | 2.3% | 2.4% | 2.5% |
-| 12:30 | CAD | New Motor Vehicle Sales (MoM) (Jan) | 114.4K |  | 127.3K |
-| 12:30 | CAD | Trimmed CPI (YoY) (Feb) | 2.3% | 2.4% | 2.4% |
-| 13:15 | USD | Capacity Utilization Rate (Feb) | 76.3% | 76.2% | 76.3% |
-| 13:15 | USD | Manufacturing Production (MoM) (Feb) | 0.2% | 0.1% | 0.8% |
-| 14:00 | USD | NAHB Housing Market Index (Mar) | 38 | 37 | 37 |
-| 14:00 | EUR | French 12-Month BTF Auction | 2.353% |  | 2.339% |
-| 14:00 | EUR | French 3-Month BTF Auction | 2.108% |  | 2.097% |
-| 14:00 | EUR | French 6-Month BTF Auction | 2.199% |  | 2.217% |
-| 15:30 | USD | 3-Month Bill Auction | 3.610% |  | 3.605% |
-| 15:30 | USD | 6-Month Bill Auction | 3.570% |  | 3.535% |
-| 21:00 | KRW | Export Price Index (YoY) (Feb) | 10.7% |  | 7.8% |
-| 21:00 | KRW | Import Price Index (YoY) (Feb) | 1.2% |  | -0.9% |
-| 21:45 | NZD | FPI (MoM) (Feb) | -0.1% |  | 2.1% |
+| 00:30 | SGD | Non-Oil Exports (YoY) (Feb) | 4.00% | 4.90% | 9.20% |
+| 21 min | SGD | Non-Oil Exports (MoM) (Feb) |  |  | 0.70% |
+| 21 min | SGD | Trade Balance (Feb) | 4.548B |  | 12.516B |
+| 02:00 | NZD | RBNZ Offshore Holdings (Feb) |  |  | 56.30% |
+| 04:30 | JPY | Tertiary Industry Activity Index (Jan) |  |  | 8.40 |
+| 07:30 | CHF | PPI (YoY) (Feb) |  |  | -2.2% |
+| 07:30 | IDR | Deposit Facility Rate (Mar) |  | 3.75% | 3.75% |
+| 07:30 | IDR | Lending Facility Rate (Mar) |  | 5.50% | 5.50% |
+| 07:30 | IDR | Loans (YoY) (Feb) |  |  | 9.96% |
+| 09:00 | EUR | Italian CPI (YoY) (Feb) |  | 1.6% | 1.0% |
+| 09:00 | EUR | Italian CPI (MoM) (Feb) |  | 0.8% | 0.4% |
+| 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Feb) |  |  | 0.8% |
+| 09:00 | EUR | Italian HICP (MoM) (Feb) |  | 0.6% | -1.0% |
+| 09:00 | EUR | Italian HICP (YoY) (Feb) |  | 1.6% | 1.6% |
+| 11:00 | BRL | IGP-10 Inflation Index (MoM) (Mar) |  |  | -0.4% |
+| 11:30 | USD | Chicago Fed President Evans Speaks |  |  |  |
+| 12:00 | CNY | FDI (Feb) |  |  | -5.70% |
+| 12:30 | USD | Dallas Fed PCE (Jan) |  |  | 2.20% |
+| 12:30 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Feb) |  |  | 0.33% |
+| 12:30 | HKD | PPI (YoY) (Q4) |  |  | 7.70% |
+| 12:55 | USD | Redbook (YoY) |  |  | 6.2% |
+| 14:00 | USD | NAHB Housing Market Index (Mar) |  |  | 36 |
+| 14:00 | USD | Pending Home Sales Index (Feb) |  |  | 70.9 |
+| 15:00 | NZD | GlobalDairyTrade Price Index |  |  | 5.7% |
+| 15:00 | USD | Milk Auctions |  |  | 4,301.0 |
+| 15:30 | USD | 52-Week Bill Auction |  |  | 3.390% |
+| 21:45 | NZD | Current Account % of GDP (Q4) |  |  | -3.50% |
+| 23:00 | KRW | Unemployment Rate (Feb) |  |  | 3.0% |
+| 23:00 | JPY | Reuters Tankan Index (Mar) |  |  | 13 |
+| 23:30 | AUD | MI Leading Index (MoM) |  |  | -0.1% |
+| 23:50 | JPY | Imports (YoY) (Feb) |  | 11.5% | -2.6% |

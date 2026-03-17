@@ -1,17 +1,20 @@
-## 16 March 2026 - Moderate Impact Forex News
+## 17 March 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | CNY | Fixed Asset Investment (YoY) (Feb) | 1.8% | -5.0% | -3.8% |
-| 02:00 | CNY | Industrial Production (YoY) (Feb) | 6.3% | 5.3% | 5.2% |
-| 02:00 | CNY | Chinese Industrial Production YTD (YoY) (Feb) | 6.3% |  | 5.9% |
-| 02:00 | CNY | Chinese Unemployment Rate (Feb) | 5.3% | 5.1% | 5.1% |
-| 02:00 | CNY | NBS Press Conference |  |  |  |
-| 06:30 | INR | WPI Inflation (YoY) (Feb) | 2.13% | 2.00% | 1.81% |
-| 12:15 | CAD | Housing Starts (Feb) | 250.9K | 243.0K | 240.1K |
-| 12:30 | USD | NY Empire State Manufacturing Index (Mar) | -0.20 | 4.00 | 7.10 |
-| 12:30 | CAD | Core CPI (YoY) (Feb) | 2.3% |  | 2.6% |
-| 12:30 | CAD | Core CPI (MoM) (Feb) | 0.4% |  | 0.2% |
-| 12:30 | CAD | CPI (MoM) (Feb) | 0.5% | 0.7% | 0.0% |
-| 13:15 | USD | Industrial Production (MoM) (Feb) | 0.2% | 0.1% | 0.7% |
-| 13:15 | USD | Industrial Production (YoY) (Feb) | 1.44% |  | 2.33% |
+| 03:30 | AUD | RBA Rate Statement |  |  |  |
+| 07:30 | CHF | PPI (MoM) (Feb) |  | 0.0% | -0.2% |
+| 07:30 | IDR | Interest Rate Decision |  | 4.75% | 4.75% |
+| 10:00 | EUR | German ZEW Current Conditions (Mar) |  | -67.1 | -65.9 |
+| 10:00 | EUR | German ZEW Economic Sentiment (Mar) |  | 38.9 | 58.3 |
+| 10:00 | EUR | ZEW Economic Sentiment (Mar) |  | 24.0 | 39.4 |
+| 12:15 | USD | ADP Employment Change Weekly |  |  | 15.50K |
+| 14:00 | USD | Pending Home Sales (MoM) (Feb) |  | -1.2% | -0.8% |
+| 15:15 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 17:00 | USD | 20-Year Bond Auction |  |  | 4.664% |
+| 20:30 | USD | API Weekly Crude Oil Stock |  |  | -1.700M |
+| 21:45 | NZD | Current Account (QoQ) (Q4) |  | -4.75B | -8.37B |
+| 21:45 | NZD | Current Account (YoY) (Q4) |  |  | -15.37B |
+| 23:50 | JPY | Adjusted Trade Balance |  | -0.63T | 0.46T |
+| 23:50 | JPY | Exports (YoY) (Feb) |  | 1.6% | 16.8% |
+| 23:50 | JPY | Trade Balance (Feb) |  | -485.0B | -1,152.7B |
