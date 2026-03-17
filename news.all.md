@@ -15,14 +15,14 @@
 | 07:30 | IDR | Low | Deposit Facility Rate (Mar) | 3.75% | 3.75% | 3.75% |
 | 07:30 | IDR | Low | Lending Facility Rate (Mar) | 5.50% | 5.50% | 5.50% |
 | 07:30 | IDR | Low | Loans (YoY) (Feb) | 9.37% |  | 9.96% |
-| 38 min | EUR | Low | Italian CPI (YoY) (Feb) |  | 1.6% | 1.0% |
-| 38 min | EUR | Low | Italian CPI (MoM) (Feb) |  | 0.8% | 0.4% |
-| 38 min | EUR | Low | Italian CPI Ex Tobacco (YoY) (Feb) |  |  | 0.8% |
-| 38 min | EUR | Low | Italian HICP (MoM) (Feb) |  | 0.6% | -1.0% |
-| 38 min | EUR | Low | Italian HICP (YoY) (Feb) |  | 1.6% | 1.0% |
-| 10:00 | EUR | Moderate | German ZEW Current Conditions (Mar) |  | -67.1 | -65.9 |
-| 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Mar) |  | 39.0 | 58.3 |
-| 10:00 | EUR | Moderate | ZEW Economic Sentiment (Mar) |  | 26.5 | 39.4 |
+| 09:00 | EUR | Low | Italian CPI (YoY) (Feb) | 1.5% | 1.6% | 1.0% |
+| 09:00 | EUR | Low | Italian CPI (MoM) (Feb) | 0.7% | 0.8% | 0.4% |
+| 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Feb) | 1.1% |  | 0.8% |
+| 09:00 | EUR | Low | Italian HICP (MoM) (Feb) | 0.5% | 0.6% | -1.0% |
+| 09:00 | EUR | Low | Italian HICP (YoY) (Feb) | 1.5% | 1.6% | 1.0% |
+| 36 min | EUR | Moderate | German ZEW Current Conditions (Mar) |  | -67.1 | -65.9 |
+| 36 min | EUR | Moderate | German ZEW Economic Sentiment (Mar) |  | 39.0 | 58.3 |
+| 36 min | EUR | Moderate | ZEW Economic Sentiment (Mar) |  | 26.5 | 39.4 |
 | 10:30 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 3.810% |
 | 11:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Mar) |  |  | -0.4% |
 | 11:30 | USD | Low | Chicago Fed President Evans Speaks |  |  |  |
@@ -41,7 +41,7 @@
 | 15:30 | USD | Low | 52-Week Bill Auction |  |  | 3.390% |
 | 17:00 | USD | Moderate | 20-Year Bond Auction |  |  | 4.664% |
 | 18:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 20:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -1.700M |
+| 20:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -0.600M | -1.700M |
 | 21:45 | NZD | Moderate | Current Account (QoQ) (Q4) |  | -4.78B | -8.37B |
 | 21:45 | NZD | Moderate | Current Account (YoY) (Q4) |  |  | -15.37B |
 | 21:45 | NZD | Low | Current Account % of GDP (Q4) |  |  | -3.50% |

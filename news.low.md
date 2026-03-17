@@ -11,11 +11,11 @@
 | 07:30 | IDR | Deposit Facility Rate (Mar) | 3.75% | 3.75% | 3.75% |
 | 07:30 | IDR | Lending Facility Rate (Mar) | 5.50% | 5.50% | 5.50% |
 | 07:30 | IDR | Loans (YoY) (Feb) | 9.37% |  | 9.96% |
-| 38 min | EUR | Italian CPI (YoY) (Feb) |  | 1.6% | 1.0% |
-| 38 min | EUR | Italian CPI (MoM) (Feb) |  | 0.8% | 0.4% |
-| 38 min | EUR | Italian CPI Ex Tobacco (YoY) (Feb) |  |  | 0.8% |
-| 38 min | EUR | Italian HICP (MoM) (Feb) |  | 0.6% | -1.0% |
-| 38 min | EUR | Italian HICP (YoY) (Feb) |  | 1.6% | 1.0% |
+| 09:00 | EUR | Italian CPI (YoY) (Feb) | 1.5% | 1.6% | 1.0% |
+| 09:00 | EUR | Italian CPI (MoM) (Feb) | 0.7% | 0.8% | 0.4% |
+| 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Feb) | 1.1% |  | 0.8% |
+| 09:00 | EUR | Italian HICP (MoM) (Feb) | 0.5% | 0.6% | -1.0% |
+| 09:00 | EUR | Italian HICP (YoY) (Feb) | 1.5% | 1.6% | 1.0% |
 | 10:30 | GBP | 5-Year Treasury Gilt Auction |  |  | 3.810% |
 | 11:00 | BRL | IGP-10 Inflation Index (MoM) (Mar) |  |  | -0.4% |
 | 11:30 | USD | Chicago Fed President Evans Speaks |  |  |  |
