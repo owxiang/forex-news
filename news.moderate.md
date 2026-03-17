@@ -6,14 +6,15 @@
 | 07:30 | CHF | PPI (MoM) (Feb) |  | 0.0% | -0.2% |
 | 07:30 | IDR | Interest Rate Decision |  | 4.75% | 4.75% |
 | 10:00 | EUR | German ZEW Current Conditions (Mar) |  | -67.1 | -65.9 |
-| 10:00 | EUR | German ZEW Economic Sentiment (Mar) |  | 38.9 | 58.3 |
-| 10:00 | EUR | ZEW Economic Sentiment (Mar) |  | 24.0 | 39.4 |
+| 10:00 | EUR | German ZEW Economic Sentiment (Mar) |  | 39.0 | 58.3 |
+| 10:00 | EUR | ZEW Economic Sentiment (Mar) |  | 26.5 | 39.4 |
 | 12:15 | USD | ADP Employment Change Weekly |  |  | 15.50K |
-| 14:00 | USD | Pending Home Sales (MoM) (Feb) |  | -1.2% | -0.8% |
+| 14:00 | USD | Pending Home Sales (MoM) (Feb) |  | -0.6% | -0.8% |
 | 15:15 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 17:00 | USD | 20-Year Bond Auction |  |  | 4.664% |
+| 18:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 20:30 | USD | API Weekly Crude Oil Stock |  |  | -1.700M |
-| 21:45 | NZD | Current Account (QoQ) (Q4) |  | -4.75B | -8.37B |
+| 21:45 | NZD | Current Account (QoQ) (Q4) |  | -4.78B | -8.37B |
 | 21:45 | NZD | Current Account (YoY) (Q4) |  |  | -15.37B |
 | 23:50 | JPY | Adjusted Trade Balance |  | -0.63T | 0.46T |
 | 23:50 | JPY | Exports (YoY) (Feb) |  | 1.6% | 16.8% |

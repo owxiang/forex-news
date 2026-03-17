@@ -15,7 +15,8 @@
 | 09:00 | EUR | Italian CPI (MoM) (Feb) |  | 0.8% | 0.4% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Feb) |  |  | 0.8% |
 | 09:00 | EUR | Italian HICP (MoM) (Feb) |  | 0.6% | -1.0% |
-| 09:00 | EUR | Italian HICP (YoY) (Feb) |  | 1.6% | 1.6% |
+| 09:00 | EUR | Italian HICP (YoY) (Feb) |  | 1.6% | 1.0% |
+| 10:30 | GBP | 5-Year Treasury Gilt Auction |  |  | 3.810% |
 | 11:00 | BRL | IGP-10 Inflation Index (MoM) (Mar) |  |  | -0.4% |
 | 11:30 | USD | Chicago Fed President Evans Speaks |  |  |  |
 | 12:00 | CNY | FDI (Feb) |  |  | -5.70% |
@@ -32,4 +33,4 @@
 | 23:00 | KRW | Unemployment Rate (Feb) |  |  | 3.0% |
 | 23:00 | JPY | Reuters Tankan Index (Mar) |  |  | 13 |
 | 23:30 | AUD | MI Leading Index (MoM) |  |  | -0.1% |
-| 23:50 | JPY | Imports (YoY) (Feb) |  | 11.5% | -2.6% |
+| 23:50 | JPY | Imports (YoY) (Feb) |  | 11.5% | -2.5% |

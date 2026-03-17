@@ -19,10 +19,11 @@
 | 09:00 | EUR | Low | Italian CPI (MoM) (Feb) |  | 0.8% | 0.4% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Feb) |  |  | 0.8% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Feb) |  | 0.6% | -1.0% |
-| 09:00 | EUR | Low | Italian HICP (YoY) (Feb) |  | 1.6% | 1.6% |
+| 09:00 | EUR | Low | Italian HICP (YoY) (Feb) |  | 1.6% | 1.0% |
 | 10:00 | EUR | Moderate | German ZEW Current Conditions (Mar) |  | -67.1 | -65.9 |
-| 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Mar) |  | 38.9 | 58.3 |
-| 10:00 | EUR | Moderate | ZEW Economic Sentiment (Mar) |  | 24.0 | 39.4 |
+| 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Mar) |  | 39.0 | 58.3 |
+| 10:00 | EUR | Moderate | ZEW Economic Sentiment (Mar) |  | 26.5 | 39.4 |
+| 10:30 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 3.810% |
 | 11:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Mar) |  |  | -0.4% |
 | 11:30 | USD | Low | Chicago Fed President Evans Speaks |  |  |  |
 | 12:00 | CNY | Low | FDI (Feb) |  |  | -5.70% |
@@ -32,15 +33,16 @@
 | 12:30 | HKD | Low | PPI (YoY) (Q4) |  |  | 7.70% |
 | 12:55 | USD | Low | Redbook (YoY) |  |  | 6.2% |
 | 14:00 | USD | Low | NAHB Housing Market Index (Mar) |  |  | 36 |
-| 14:00 | USD | Moderate | Pending Home Sales (MoM) (Feb) |  | -1.2% | -0.8% |
+| 14:00 | USD | Moderate | Pending Home Sales (MoM) (Feb) |  | -0.6% | -0.8% |
 | 14:00 | USD | Low | Pending Home Sales Index (Feb) |  |  | 70.9 |
 | 15:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 5.7% |
 | 15:00 | USD | Low | Milk Auctions |  |  | 4,301.0 |
 | 15:15 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 15:30 | USD | Low | 52-Week Bill Auction |  |  | 3.390% |
 | 17:00 | USD | Moderate | 20-Year Bond Auction |  |  | 4.664% |
+| 18:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 20:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -1.700M |
-| 21:45 | NZD | Moderate | Current Account (QoQ) (Q4) |  | -4.75B | -8.37B |
+| 21:45 | NZD | Moderate | Current Account (QoQ) (Q4) |  | -4.78B | -8.37B |
 | 21:45 | NZD | Moderate | Current Account (YoY) (Q4) |  |  | -15.37B |
 | 21:45 | NZD | Low | Current Account % of GDP (Q4) |  |  | -3.50% |
 | 23:00 | KRW | Low | Unemployment Rate (Feb) |  |  | 3.0% |
@@ -48,5 +50,5 @@
 | 23:30 | AUD | Low | MI Leading Index (MoM) |  |  | -0.1% |
 | 23:50 | JPY | Moderate | Adjusted Trade Balance |  | -0.63T | 0.46T |
 | 23:50 | JPY | Moderate | Exports (YoY) (Feb) |  | 1.6% | 16.8% |
-| 23:50 | JPY | Low | Imports (YoY) (Feb) |  | 11.5% | -2.6% |
+| 23:50 | JPY | Low | Imports (YoY) (Feb) |  | 11.5% | -2.5% |
 | 23:50 | JPY | Moderate | Trade Balance (Feb) |  | -485.0B | -1,152.7B |
