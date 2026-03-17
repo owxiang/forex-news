@@ -8,7 +8,7 @@
 | 10:00 | EUR | German ZEW Current Conditions (Mar) | -62.9 | -67.1 | -65.9 |
 | 10:00 | EUR | German ZEW Economic Sentiment (Mar) | -0.5 | 39.0 | 58.3 |
 | 10:00 | EUR | ZEW Economic Sentiment (Mar) | -8.5 | 26.5 | 39.4 |
-| 12:15 | USD | ADP Employment Change Weekly |  |  | 15.50K |
+| 54 min | USD | ADP Employment Change Weekly |  |  | 15.50K |
 | 14:00 | USD | Pending Home Sales (MoM) (Feb) |  | -0.6% | -0.8% |
 | 15:15 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 17:00 | USD | 20-Year Bond Auction |  |  | 4.664% |

@@ -16,10 +16,10 @@
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Feb) | 1.1% |  | 0.8% |
 | 09:00 | EUR | Italian HICP (MoM) (Feb) | 0.5% | 0.6% | -1.0% |
 | 09:00 | EUR | Italian HICP (YoY) (Feb) | 1.5% | 1.6% | 1.0% |
-| 7 min | GBP | 5-Year Treasury Gilt Auction |  |  | 3.810% |
-| 37 min | BRL | IGP-10 Inflation Index (MoM) (Mar) |  |  | -0.4% |
-| 11:30 | USD | Chicago Fed President Evans Speaks |  |  |  |
-| 12:00 | CNY | FDI (Feb) |  |  | -5.70% |
+| 10:30 | GBP | 5-Year Treasury Gilt Auction | 4.228% |  | 3.810% |
+| 11:00 | BRL | IGP-10 Inflation Index (MoM) (Mar) | -0.2% |  | -0.4% |
+| 9 min | USD | Chicago Fed President Evans Speaks |  |  |  |
+| 39 min | CNY | FDI (Feb) |  |  | -5.70% |
 | 12:30 | USD | Dallas Fed PCE (Jan) |  |  | 2.20% |
 | 12:30 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Feb) |  |  | 0.33% |
 | 12:30 | HKD | PPI (YoY) (Q4) |  |  | 7.70% |

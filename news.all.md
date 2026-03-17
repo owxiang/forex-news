@@ -23,11 +23,11 @@
 | 10:00 | EUR | Moderate | German ZEW Current Conditions (Mar) | -62.9 | -67.1 | -65.9 |
 | 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Mar) | -0.5 | 39.0 | 58.3 |
 | 10:00 | EUR | Moderate | ZEW Economic Sentiment (Mar) | -8.5 | 26.5 | 39.4 |
-| 7 min | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 3.810% |
-| 37 min | BRL | Low | IGP-10 Inflation Index (MoM) (Mar) |  |  | -0.4% |
-| 11:30 | USD | Low | Chicago Fed President Evans Speaks |  |  |  |
-| 12:00 | CNY | Low | FDI (Feb) |  |  | -5.70% |
-| 12:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 15.50K |
+| 10:30 | GBP | Low | 5-Year Treasury Gilt Auction | 4.228% |  | 3.810% |
+| 11:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Mar) | -0.2% |  | -0.4% |
+| 9 min | USD | Low | Chicago Fed President Evans Speaks |  |  |  |
+| 39 min | CNY | Low | FDI (Feb) |  |  | -5.70% |
+| 54 min | USD | Moderate | ADP Employment Change Weekly |  |  | 15.50K |
 | 12:30 | USD | Low | Dallas Fed PCE (Jan) |  |  | 2.20% |
 | 12:30 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Feb) |  |  | 0.33% |
 | 12:30 | HKD | Low | PPI (YoY) (Q4) |  |  | 7.70% |
