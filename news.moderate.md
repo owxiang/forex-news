@@ -13,7 +13,8 @@
 | 15:15 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 17:00 | USD | 20-Year Bond Auction | 4.817% |  | 4.664% |
 | 18:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 20:30 | USD | API Weekly Crude Oil Stock |  | -0.600M | -1.700M |
+| 20:00 | NZD | Westpac Consumer Sentiment (Q1) | 94.7 |  | 96.5 |
+| 13 min | USD | API Weekly Crude Oil Stock |  | -0.600M | -1.700M |
 | 21:45 | NZD | Current Account (QoQ) (Q4) |  | -4.78B | -8.37B |
 | 21:45 | NZD | Current Account (YoY) (Q4) |  |  | -15.37B |
 | 23:50 | JPY | Adjusted Trade Balance |  | -0.63T | 0.46T |
