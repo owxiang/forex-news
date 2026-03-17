@@ -33,8 +33,9 @@
 | 15:00 | NZD | Low | GlobalDairyTrade Price Index | 0.1% |  | 5.7% |
 | 15:00 | USD | Low | Milk Auctions | 4,330.0 |  | 4,301.0 |
 | 15:15 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 1 min | USD | Low | 52-Week Bill Auction |  |  | 3.390% |
-| 17:00 | USD | Moderate | 20-Year Bond Auction |  |  | 4.664% |
+| 15:30 | USD | Low | 52-Week Bill Auction | 3.485% |  | 3.390% |
+| 15:30 | USD | High | U.S. President Trump Speaks |  |  |  |
+| 30 min | USD | Moderate | 20-Year Bond Auction |  |  | 4.664% |
 | 18:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 20:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -0.600M | -1.700M |
 | 21:45 | NZD | Moderate | Current Account (QoQ) (Q4) |  | -4.78B | -8.37B |

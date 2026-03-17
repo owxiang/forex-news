@@ -11,7 +11,7 @@
 | 12:15 | USD | ADP Employment Change Weekly | 9.00K |  | 15.50K |
 | 14:00 | USD | Pending Home Sales (MoM) (Feb) | 1.8% | -0.6% | -1.0% |
 | 15:15 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 17:00 | USD | 20-Year Bond Auction |  |  | 4.664% |
+| 30 min | USD | 20-Year Bond Auction |  |  | 4.664% |
 | 18:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 20:30 | USD | API Weekly Crude Oil Stock |  | -0.600M | -1.700M |
 | 21:45 | NZD | Current Account (QoQ) (Q4) |  | -4.78B | -8.37B |
