@@ -21,9 +21,9 @@
 | 11:30 | USD | Chicago Fed President Evans Speaks |  |  |  |
 | 12:55 | USD | Redbook (YoY) | 6.4% |  | 6.2% |
 | 14:00 | USD | Pending Home Sales Index (Feb) | 72.1 |  | 70.8 |
-| 29 min | NZD | GlobalDairyTrade Price Index |  |  | 5.7% |
-| 29 min | USD | Milk Auctions |  |  | 4,301.0 |
-| 59 min | USD | 52-Week Bill Auction |  |  | 3.390% |
+| 15:00 | NZD | GlobalDairyTrade Price Index | 0.1% |  | 5.7% |
+| 15:00 | USD | Milk Auctions | 4,330.0 |  | 4,301.0 |
+| 1 min | USD | 52-Week Bill Auction |  |  | 3.390% |
 | 21:45 | NZD | Current Account % of GDP (Q4) |  |  | -3.50% |
 | 23:00 | KRW | Unemployment Rate (Feb) |  |  | 3.0% |
 | 23:00 | JPY | Reuters Tankan Index (Mar) |  |  | 13 |

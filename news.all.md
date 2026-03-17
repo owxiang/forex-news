@@ -30,10 +30,10 @@
 | 12:55 | USD | Low | Redbook (YoY) | 6.4% |  | 6.2% |
 | 14:00 | USD | Moderate | Pending Home Sales (MoM) (Feb) | 1.8% | -0.6% | -1.0% |
 | 14:00 | USD | Low | Pending Home Sales Index (Feb) | 72.1 |  | 70.8 |
-| 29 min | NZD | Low | GlobalDairyTrade Price Index |  |  | 5.7% |
-| 29 min | USD | Low | Milk Auctions |  |  | 4,301.0 |
-| 44 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 59 min | USD | Low | 52-Week Bill Auction |  |  | 3.390% |
+| 15:00 | NZD | Low | GlobalDairyTrade Price Index | 0.1% |  | 5.7% |
+| 15:00 | USD | Low | Milk Auctions | 4,330.0 |  | 4,301.0 |
+| 15:15 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 1 min | USD | Low | 52-Week Bill Auction |  |  | 3.390% |
 | 17:00 | USD | Moderate | 20-Year Bond Auction |  |  | 4.664% |
 | 18:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 20:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -0.600M | -1.700M |

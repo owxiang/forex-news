@@ -10,7 +10,7 @@
 | 10:00 | EUR | ZEW Economic Sentiment (Mar) | -8.5 | 26.5 | 39.4 |
 | 12:15 | USD | ADP Employment Change Weekly | 9.00K |  | 15.50K |
 | 14:00 | USD | Pending Home Sales (MoM) (Feb) | 1.8% | -0.6% | -1.0% |
-| 44 min | EUR | German Buba President Nagel Speaks |  |  |  |
+| 15:15 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 17:00 | USD | 20-Year Bond Auction |  |  | 4.664% |
 | 18:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 20:30 | USD | API Weekly Crude Oil Stock |  | -0.600M | -1.700M |
