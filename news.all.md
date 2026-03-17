@@ -20,11 +20,11 @@
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Feb) | 1.1% |  | 0.8% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Feb) | 0.5% | 0.6% | -1.0% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (Feb) | 1.5% | 1.6% | 1.0% |
-| 36 min | EUR | Moderate | German ZEW Current Conditions (Mar) |  | -67.1 | -65.9 |
-| 36 min | EUR | Moderate | German ZEW Economic Sentiment (Mar) |  | 39.0 | 58.3 |
-| 36 min | EUR | Moderate | ZEW Economic Sentiment (Mar) |  | 26.5 | 39.4 |
-| 10:30 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 3.810% |
-| 11:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Mar) |  |  | -0.4% |
+| 10:00 | EUR | Moderate | German ZEW Current Conditions (Mar) | -62.9 | -67.1 | -65.9 |
+| 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Mar) | -0.5 | 39.0 | 58.3 |
+| 10:00 | EUR | Moderate | ZEW Economic Sentiment (Mar) | -8.5 | 26.5 | 39.4 |
+| 7 min | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 3.810% |
+| 37 min | BRL | Low | IGP-10 Inflation Index (MoM) (Mar) |  |  | -0.4% |
 | 11:30 | USD | Low | Chicago Fed President Evans Speaks |  |  |  |
 | 12:00 | CNY | Low | FDI (Feb) |  |  | -5.70% |
 | 12:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 15.50K |

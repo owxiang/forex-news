@@ -5,9 +5,9 @@
 | 03:30 | AUD | RBA Rate Statement |  |  |  |
 | 07:30 | CHF | PPI (MoM) (Feb) | -0.3% | 0.0% | -0.2% |
 | 07:30 | IDR | Interest Rate Decision | 4.75% | 4.75% | 4.75% |
-| 36 min | EUR | German ZEW Current Conditions (Mar) |  | -67.1 | -65.9 |
-| 36 min | EUR | German ZEW Economic Sentiment (Mar) |  | 39.0 | 58.3 |
-| 36 min | EUR | ZEW Economic Sentiment (Mar) |  | 26.5 | 39.4 |
+| 10:00 | EUR | German ZEW Current Conditions (Mar) | -62.9 | -67.1 | -65.9 |
+| 10:00 | EUR | German ZEW Economic Sentiment (Mar) | -0.5 | 39.0 | 58.3 |
+| 10:00 | EUR | ZEW Economic Sentiment (Mar) | -8.5 | 26.5 | 39.4 |
 | 12:15 | USD | ADP Employment Change Weekly |  |  | 15.50K |
 | 14:00 | USD | Pending Home Sales (MoM) (Feb) |  | -0.6% | -0.8% |
 | 15:15 | EUR | German Buba President Nagel Speaks |  |  |  |
