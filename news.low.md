@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
+| 00:30 | SGD | Non-Oil Exports (MoM) (Feb) | -1.80% |  | 2.90% |
 | 00:30 | SGD | Non-Oil Exports (YoY) (Feb) | 4.00% | 4.90% | 9.20% |
-| 21 min | SGD | Non-Oil Exports (MoM) (Feb) |  |  | 0.70% |
-| 21 min | SGD | Trade Balance (Feb) | 4.548B |  | 12.516B |
-| 02:00 | NZD | RBNZ Offshore Holdings (Feb) |  |  | 56.30% |
+| 00:30 | SGD | Trade Balance (Feb) | 4.548B |  | 12.516B |
+| 21 min | NZD | RBNZ Offshore Holdings (Feb) |  |  | 56.30% |
 | 04:30 | JPY | Tertiary Industry Activity Index (Jan) |  |  | 8.40 |
 | 07:30 | CHF | PPI (YoY) (Feb) |  |  | -2.2% |
 | 07:30 | IDR | Deposit Facility Rate (Mar) |  | 3.75% | 3.75% |

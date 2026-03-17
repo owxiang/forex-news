@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
+| 00:30 | SGD | Low | Non-Oil Exports (MoM) (Feb) | -1.80% |  | 2.90% |
 | 00:30 | SGD | Low | Non-Oil Exports (YoY) (Feb) | 4.00% | 4.90% | 9.20% |
-| 21 min | SGD | Low | Non-Oil Exports (MoM) (Feb) |  |  | 0.70% |
-| 21 min | SGD | Low | Trade Balance (Feb) | 4.548B |  | 12.516B |
-| 02:00 | NZD | Low | RBNZ Offshore Holdings (Feb) |  |  | 56.30% |
+| 00:30 | SGD | Low | Trade Balance (Feb) | 4.548B |  | 12.516B |
+| 21 min | NZD | Low | RBNZ Offshore Holdings (Feb) |  |  | 56.30% |
 | 03:30 | AUD | High | RBA Interest Rate Decision (Mar) |  | 4.10% | 3.85% |
 | 03:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
 | 04:30 | JPY | Low | Tertiary Industry Activity Index (Jan) |  |  | 8.40 |
