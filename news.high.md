@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 24 min | AUD | RBA Interest Rate Decision (Mar) |  | 4.10% | 3.85% |
+| 03:30 | AUD | RBA Interest Rate Decision (Mar) | 4.10% | 4.10% | 3.85% |

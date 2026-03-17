@@ -6,9 +6,9 @@
 | 00:30 | SGD | Low | Non-Oil Exports (YoY) (Feb) | 4.00% | 4.90% | 9.20% |
 | 00:30 | SGD | Low | Trade Balance (Feb) | 4.548B |  | 12.516B |
 | 02:00 | NZD | Low | RBNZ Offshore Holdings (Feb) | 57.20% |  | 56.30% |
-| 24 min | AUD | High | RBA Interest Rate Decision (Mar) |  | 4.10% | 3.85% |
-| 24 min | AUD | Moderate | RBA Rate Statement |  |  |  |
-| 04:30 | JPY | Low | Tertiary Industry Activity Index (Jan) |  |  | 8.40 |
+| 03:30 | AUD | High | RBA Interest Rate Decision (Mar) | 4.10% | 4.10% | 3.85% |
+| 03:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
+| 04:30 | JPY | Low | Tertiary Industry Activity Index (Jan) | -9.20 |  | 8.00 |
 | 07:30 | CHF | Moderate | PPI (MoM) (Feb) |  | 0.0% | -0.2% |
 | 07:30 | CHF | Low | PPI (YoY) (Feb) |  |  | -2.2% |
 | 07:30 | IDR | Moderate | Interest Rate Decision |  | 4.75% | 4.75% |

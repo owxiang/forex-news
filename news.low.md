@@ -6,7 +6,7 @@
 | 00:30 | SGD | Non-Oil Exports (YoY) (Feb) | 4.00% | 4.90% | 9.20% |
 | 00:30 | SGD | Trade Balance (Feb) | 4.548B |  | 12.516B |
 | 02:00 | NZD | RBNZ Offshore Holdings (Feb) | 57.20% |  | 56.30% |
-| 04:30 | JPY | Tertiary Industry Activity Index (Jan) |  |  | 8.40 |
+| 04:30 | JPY | Tertiary Industry Activity Index (Jan) | -9.20 |  | 8.00 |
 | 07:30 | CHF | PPI (YoY) (Feb) |  |  | -2.2% |
 | 07:30 | IDR | Deposit Facility Rate (Mar) |  | 3.75% | 3.75% |
 | 07:30 | IDR | Lending Facility Rate (Mar) |  | 5.50% | 5.50% |
