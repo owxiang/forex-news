@@ -8,16 +8,16 @@
 | 08:00 | ZAR | Low | Core CPI (YoY) (Feb) | 3.0% |  | 3.4% |
 | 08:00 | ZAR | Low | CPI (MoM) (Feb) | 0.4% |  | 0.2% |
 | 08:00 | ZAR | Low | CPI (YoY) (Feb) | 3.0% |  | 3.5% |
-| 9 min | HKD | Low | Unemployment Rate (Feb) |  |  | 3.9% |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Feb) |  | 2.4% | 2.2% |
-| 10:00 | EUR | Low | Core CPI (MoM) (Feb) |  | 0.8% | -1.1% |
-| 10:00 | EUR | High | CPI (YoY) (Feb) |  | 1.9% | 1.7% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Feb) |  | 0.7% | -0.6% |
-| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Feb) |  |  | -0.6% |
-| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Feb) |  |  | 1.6% |
-| 10:00 | EUR | Low | CPI, n.s.a (Feb) |  | 100.72 | 100.05 |
-| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Feb) |  | 2.3% | 2.1% |
-| 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Feb) |  | 0.7% | -0.8% |
+| 08:30 | HKD | Low | Unemployment Rate (Feb) | 3.8% |  | 3.9% |
+| 35 min | EUR | Moderate | Core CPI (YoY) (Feb) |  | 2.4% | 2.2% |
+| 35 min | EUR | Low | Core CPI (MoM) (Feb) |  | 0.8% | -1.1% |
+| 35 min | EUR | High | CPI (YoY) (Feb) |  | 1.9% | 1.7% |
+| 35 min | EUR | Moderate | CPI (MoM) (Feb) |  | 0.7% | -0.6% |
+| 35 min | EUR | Low | CPI ex Tobacco (MoM) (Feb) |  |  | -0.6% |
+| 35 min | EUR | Low | CPI ex Tobacco (YoY) (Feb) |  |  | 1.6% |
+| 35 min | EUR | Low | CPI, n.s.a (Feb) |  | 100.72 | 100.05 |
+| 35 min | EUR | Low | HICP ex Energy & Food (YoY) (Feb) |  | 2.3% | 2.1% |
+| 35 min | EUR | Low | HICP ex Energy and Food (MoM) (Feb) |  | 0.7% | -0.8% |
 | 10:30 | EUR | Low | German 30-Year Bund Auction |  |  | 3.470% |
 | 11:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.19% |
 | 11:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 3.2% |
@@ -46,11 +46,11 @@
 | 14:30 | USD | Low | Crude Oil Imports |  |  | 0.661M |
 | 14:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.117M |
 | 14:30 | USD | Low | Distillate Fuel Production |  |  | 0.132M |
-| 14:30 | USD | Low | EIA Weekly Distillates Stocks |  |  | -1.349M |
+| 14:30 | USD | Low | EIA Weekly Distillates Stocks |  | -1.500M | -1.349M |
 | 14:30 | USD | Low | Gasoline Production |  |  | 0.554M |
 | 14:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.228M |
 | 14:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.6% |
-| 14:30 | USD | Low | Gasoline Inventories |  |  | -3.654M |
+| 14:30 | USD | Low | Gasoline Inventories |  | -1.600M | -3.654M |
 | 14:30 | CAD | Moderate | BOC Press Conference |  |  |  |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -3.897B |
 | 18:00 | USD | Moderate | Interest Rate Projection - 1st Yr (Q1) |  |  | 3.4% |

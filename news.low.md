@@ -8,13 +8,13 @@
 | 08:00 | ZAR | Core CPI (YoY) (Feb) | 3.0% |  | 3.4% |
 | 08:00 | ZAR | CPI (MoM) (Feb) | 0.4% |  | 0.2% |
 | 08:00 | ZAR | CPI (YoY) (Feb) | 3.0% |  | 3.5% |
-| 9 min | HKD | Unemployment Rate (Feb) |  |  | 3.9% |
-| 10:00 | EUR | Core CPI (MoM) (Feb) |  | 0.8% | -1.1% |
-| 10:00 | EUR | CPI ex Tobacco (MoM) (Feb) |  |  | -0.6% |
-| 10:00 | EUR | CPI ex Tobacco (YoY) (Feb) |  |  | 1.6% |
-| 10:00 | EUR | CPI, n.s.a (Feb) |  | 100.72 | 100.05 |
-| 10:00 | EUR | HICP ex Energy & Food (YoY) (Feb) |  | 2.3% | 2.1% |
-| 10:00 | EUR | HICP ex Energy and Food (MoM) (Feb) |  | 0.7% | -0.8% |
+| 08:30 | HKD | Unemployment Rate (Feb) | 3.8% |  | 3.9% |
+| 35 min | EUR | Core CPI (MoM) (Feb) |  | 0.8% | -1.1% |
+| 35 min | EUR | CPI ex Tobacco (MoM) (Feb) |  |  | -0.6% |
+| 35 min | EUR | CPI ex Tobacco (YoY) (Feb) |  |  | 1.6% |
+| 35 min | EUR | CPI, n.s.a (Feb) |  | 100.72 | 100.05 |
+| 35 min | EUR | HICP ex Energy & Food (YoY) (Feb) |  | 2.3% | 2.1% |
+| 35 min | EUR | HICP ex Energy and Food (MoM) (Feb) |  | 0.7% | -0.8% |
 | 10:30 | EUR | German 30-Year Bund Auction |  |  | 3.470% |
 | 11:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.19% |
 | 11:00 | USD | MBA Mortgage Applications (WoW) |  |  | 3.2% |
@@ -34,11 +34,11 @@
 | 14:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.328M |
 | 14:30 | USD | Crude Oil Imports |  |  | 0.661M |
 | 14:30 | USD | Distillate Fuel Production |  |  | 0.132M |
-| 14:30 | USD | EIA Weekly Distillates Stocks |  |  | -1.349M |
+| 14:30 | USD | EIA Weekly Distillates Stocks |  | -1.500M | -1.349M |
 | 14:30 | USD | Gasoline Production |  |  | 0.554M |
 | 14:30 | USD | Heating Oil Stockpiles |  |  | 0.228M |
 | 14:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.6% |
-| 14:30 | USD | Gasoline Inventories |  |  | -3.654M |
+| 14:30 | USD | Gasoline Inventories |  | -1.600M | -3.654M |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | -3.897B |
 | 20:00 | USD | US Foreign Buying, T-bonds (Jan) |  |  | -41.60B |
 | 20:00 | USD | Overall Net Capital Flow (Jan) |  |  | 44.90B |
