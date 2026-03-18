@@ -70,7 +70,7 @@
 | 21:45 | NZD | Low | GDP (YoY) (Q4) | 1.3% | 1.7% | 1.1% |
 | 21:45 | NZD | Low | GDP Annual Average (Q4) | 0.2% |  | -0.6% |
 | 21:45 | NZD | Low | GDP Expenditure (QoQ) (Q4) | 0.1% |  | 0.9% |
-| 23:50 | JPY | Low | Core Machinery Orders (MoM) (Jan) |  | -9.6% | 19.1% |
-| 23:50 | JPY | Low | Core Machinery Orders (YoY) (Jan) |  | 10.5% | 16.8% |
-| 23:50 | JPY | Low | Foreign Bonds Buying |  |  | 399.8B |
-| 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 385.5B |
+| 37 min | JPY | Low | Core Machinery Orders (MoM) (Jan) |  | -9.6% | 19.1% |
+| 37 min | JPY | Low | Core Machinery Orders (YoY) (Jan) |  | 10.5% | 16.8% |
+| 37 min | JPY | Low | Foreign Bonds Buying |  |  | 399.8B |
+| 37 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 385.5B |
