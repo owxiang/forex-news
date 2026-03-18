@@ -39,9 +39,9 @@
 | 14:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.6% |  | 1.6% |
 | 14:30 | USD | Gasoline Inventories | -5.436M | -1.600M | -3.654M |
 | 17:30 | BRL | Foreign Exchange Flows | -0.708B |  | -3.897B |
-| 36 min | USD | US Foreign Buying, T-bonds (Jan) |  |  | -41.60B |
-| 36 min | USD | Overall Net Capital Flow (Jan) |  |  | 44.90B |
-| 36 min | USD | TIC Net Long-Term Transactions including Swaps (Jan) |  |  | 28.00B |
+| 20:00 | USD | US Foreign Buying, T-bonds (Jan) | 49.90B |  | -27.00B |
+| 20:00 | USD | Overall Net Capital Flow (Jan) | -25.00B |  | 113.90B |
+| 20:00 | USD | TIC Net Long-Term Transactions including Swaps (Jan) | 15.50B |  | 96.50B |
 | 21:45 | NZD | GDP (YoY) (Q4) |  | 1.7% | 1.3% |
 | 21:45 | NZD | GDP Annual Average (Q4) |  |  | -0.5% |
 | 21:45 | NZD | GDP Expenditure (QoQ) (Q4) |  |  | 1.3% |
