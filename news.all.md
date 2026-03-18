@@ -18,14 +18,14 @@
 | 10:00 | EUR | Low | CPI, n.s.a (Feb) | 100.71 | 100.72 | 100.05 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Feb) | 2.3% | 2.3% | 2.1% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Feb) | 0.6% | 0.7% | -0.8% |
-| 6 min | EUR | Low | German 30-Year Bund Auction |  |  | 3.470% |
-| 36 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.19% |
-| 36 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | 3.2% |
-| 36 min | USD | Low | MBA Purchase Index |  |  | 171.3 |
-| 36 min | USD | Low | Mortgage Market Index |  |  | 389.6 |
-| 36 min | USD | Low | Mortgage Refinance Index |  |  | 1,646.3 |
-| 36 min | ZAR | Low | Retail Sales (YoY) (Jan) |  |  | 2.6% |
-| 12:00 | CNY | Low | FDI (Feb) |  |  | -5.70% |
+| 10:30 | EUR | Low | German 30-Year Bund Auction | 3.450% |  | 3.470% |
+| 11:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.30% |  | 6.19% |
+| 11:00 | USD | Low | MBA Mortgage Applications (WoW) | -10.9% |  | 3.2% |
+| 11:00 | USD | Low | MBA Purchase Index | 172.9 |  | 171.3 |
+| 11:00 | USD | Low | Mortgage Market Index | 347.1 |  | 389.6 |
+| 11:00 | USD | Low | Mortgage Refinance Index | 1,341.0 |  | 1,646.3 |
+| 11:00 | ZAR | Low | Retail Sales (YoY) (Jan) | 4.2% |  | 2.5% |
+| 38 min | CNY | Low | FDI (Feb) |  |  | -5.70% |
 | 12:30 | USD | Moderate | Core PPI (MoM) (Feb) |  | 0.3% | 0.8% |
 | 12:30 | USD | Low | Core PPI (YoY) (Feb) |  | 3.7% | 3.6% |
 | 12:30 | USD | High | PPI (MoM) (Feb) |  | 0.3% | 0.5% |
