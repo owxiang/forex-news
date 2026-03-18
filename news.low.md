@@ -22,15 +22,15 @@
 | 11:00 | USD | Mortgage Market Index | 347.1 |  | 389.6 |
 | 11:00 | USD | Mortgage Refinance Index | 1,341.0 |  | 1,646.3 |
 | 11:00 | ZAR | Retail Sales (YoY) (Jan) | 4.2% |  | 2.5% |
-| 38 min | CNY | FDI (Feb) |  |  | -5.70% |
-| 12:30 | USD | Core PPI (YoY) (Feb) |  | 3.7% | 3.6% |
-| 12:30 | USD | PPI (YoY) (Feb) |  | 2.9% | 2.9% |
-| 12:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Feb) |  |  | 3.4% |
-| 12:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Feb) |  |  | 0.3% |
-| 12:30 | CAD | Foreign Securities Purchases by Canadians (Jan) |  |  | 13.060B |
+| 4 min | USD | Core PPI (YoY) (Feb) |  | 3.7% | 3.6% |
+| 4 min | USD | PPI (YoY) (Feb) |  | 2.9% | 2.9% |
+| 4 min | USD | PPI ex. Food/Energy/Transport (YoY) (Feb) |  |  | 3.4% |
+| 4 min | USD | PPI ex. Food/Energy/Transport (MoM) (Feb) |  |  | 0.3% |
+| 4 min | CAD | Foreign Securities Purchases by Canadians (Jan) |  |  | 13.060B |
 | 14:00 | USD | Durables Excluding Defense (MoM) (Jan) |  |  | 0.5% |
 | 14:00 | USD | Durables Excluding Transport (MoM) (Jan) |  |  | 0.4% |
 | 14:00 | USD | Factory orders ex transportation (MoM) (Jan) |  |  | 0.4% |
+| 14:00 | CNY | FDI (Feb) |  |  | -5.70% |
 | 14:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.328M |
 | 14:30 | USD | Crude Oil Imports |  |  | 0.661M |
 | 14:30 | USD | Distillate Fuel Production |  |  | 0.132M |

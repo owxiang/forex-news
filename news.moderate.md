@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 10:00 | EUR | Core CPI (YoY) (Feb) | 2.4% | 2.4% | 2.2% |
 | 10:00 | EUR | CPI (MoM) (Feb) | 0.6% | 0.7% | -0.6% |
-| 12:30 | USD | Core PPI (MoM) (Feb) |  | 0.3% | 0.8% |
-| 12:30 | CAD | Foreign Securities Purchases (Jan) |  | 4.72B | -5.57B |
+| 4 min | USD | Core PPI (MoM) (Feb) |  | 0.3% | 0.8% |
+| 4 min | CAD | Foreign Securities Purchases (Jan) |  | 4.72B | -5.57B |
 | 13:30 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 13:45 | CAD | BoC Rate Statement |  |  |  |
 | 14:00 | USD | Factory Orders (MoM) (Jan) |  | 0.1% | -0.7% |

@@ -25,15 +25,14 @@
 | 11:00 | USD | Low | Mortgage Market Index | 347.1 |  | 389.6 |
 | 11:00 | USD | Low | Mortgage Refinance Index | 1,341.0 |  | 1,646.3 |
 | 11:00 | ZAR | Low | Retail Sales (YoY) (Jan) | 4.2% |  | 2.5% |
-| 38 min | CNY | Low | FDI (Feb) |  |  | -5.70% |
-| 12:30 | USD | Moderate | Core PPI (MoM) (Feb) |  | 0.3% | 0.8% |
-| 12:30 | USD | Low | Core PPI (YoY) (Feb) |  | 3.7% | 3.6% |
-| 12:30 | USD | High | PPI (MoM) (Feb) |  | 0.3% | 0.5% |
-| 12:30 | USD | Low | PPI (YoY) (Feb) |  | 2.9% | 2.9% |
-| 12:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Feb) |  |  | 3.4% |
-| 12:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Feb) |  |  | 0.3% |
-| 12:30 | CAD | Moderate | Foreign Securities Purchases (Jan) |  | 4.72B | -5.57B |
-| 12:30 | CAD | Low | Foreign Securities Purchases by Canadians (Jan) |  |  | 13.060B |
+| 4 min | USD | Moderate | Core PPI (MoM) (Feb) |  | 0.3% | 0.8% |
+| 4 min | USD | Low | Core PPI (YoY) (Feb) |  | 3.7% | 3.6% |
+| 4 min | USD | High | PPI (MoM) (Feb) |  | 0.3% | 0.5% |
+| 4 min | USD | Low | PPI (YoY) (Feb) |  | 2.9% | 2.9% |
+| 4 min | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Feb) |  |  | 3.4% |
+| 4 min | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Feb) |  |  | 0.3% |
+| 4 min | CAD | Moderate | Foreign Securities Purchases (Jan) |  | 4.72B | -5.57B |
+| 4 min | CAD | Low | Foreign Securities Purchases by Canadians (Jan) |  |  | 13.060B |
 | 13:30 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 13:45 | CAD | Moderate | BoC Rate Statement |  |  |  |
 | 13:45 | CAD | High | BoC Interest Rate Decision |  | 2.25% | 2.25% |
@@ -41,6 +40,7 @@
 | 14:00 | USD | Low | Durables Excluding Transport (MoM) (Jan) |  |  | 0.4% |
 | 14:00 | USD | Moderate | Factory Orders (MoM) (Jan) |  | 0.1% | -0.7% |
 | 14:00 | USD | Low | Factory orders ex transportation (MoM) (Jan) |  |  | 0.4% |
+| 14:00 | CNY | Low | FDI (Feb) |  |  | -5.70% |
 | 14:30 | USD | High | Crude Oil Inventories |  | -1.500M | 3.824M |
 | 14:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.328M |
 | 14:30 | USD | Low | Crude Oil Imports |  |  | 0.661M |
