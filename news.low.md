@@ -9,19 +9,19 @@
 | 08:00 | ZAR | CPI (MoM) (Feb) | 0.4% |  | 0.2% |
 | 08:00 | ZAR | CPI (YoY) (Feb) | 3.0% |  | 3.5% |
 | 08:30 | HKD | Unemployment Rate (Feb) | 3.8% |  | 3.9% |
-| 35 min | EUR | Core CPI (MoM) (Feb) |  | 0.8% | -1.1% |
-| 35 min | EUR | CPI ex Tobacco (MoM) (Feb) |  |  | -0.6% |
-| 35 min | EUR | CPI ex Tobacco (YoY) (Feb) |  |  | 1.6% |
-| 35 min | EUR | CPI, n.s.a (Feb) |  | 100.72 | 100.05 |
-| 35 min | EUR | HICP ex Energy & Food (YoY) (Feb) |  | 2.3% | 2.1% |
-| 35 min | EUR | HICP ex Energy and Food (MoM) (Feb) |  | 0.7% | -0.8% |
-| 10:30 | EUR | German 30-Year Bund Auction |  |  | 3.470% |
-| 11:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.19% |
-| 11:00 | USD | MBA Mortgage Applications (WoW) |  |  | 3.2% |
-| 11:00 | USD | MBA Purchase Index |  |  | 171.3 |
-| 11:00 | USD | Mortgage Market Index |  |  | 389.6 |
-| 11:00 | USD | Mortgage Refinance Index |  |  | 1,646.3 |
-| 11:00 | ZAR | Retail Sales (YoY) (Jan) |  |  | 2.6% |
+| 10:00 | EUR | Core CPI (MoM) (Feb) | 0.8% | 0.8% | -1.1% |
+| 10:00 | EUR | CPI ex Tobacco (MoM) (Feb) | 0.6% |  | -0.6% |
+| 10:00 | EUR | CPI ex Tobacco (YoY) (Feb) | 1.8% |  | 1.6% |
+| 10:00 | EUR | CPI, n.s.a (Feb) | 100.71 | 100.72 | 100.05 |
+| 10:00 | EUR | HICP ex Energy & Food (YoY) (Feb) | 2.3% | 2.3% | 2.1% |
+| 10:00 | EUR | HICP ex Energy and Food (MoM) (Feb) | 0.6% | 0.7% | -0.8% |
+| 6 min | EUR | German 30-Year Bund Auction |  |  | 3.470% |
+| 36 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.19% |
+| 36 min | USD | MBA Mortgage Applications (WoW) |  |  | 3.2% |
+| 36 min | USD | MBA Purchase Index |  |  | 171.3 |
+| 36 min | USD | Mortgage Market Index |  |  | 389.6 |
+| 36 min | USD | Mortgage Refinance Index |  |  | 1,646.3 |
+| 36 min | ZAR | Retail Sales (YoY) (Jan) |  |  | 2.6% |
 | 12:00 | CNY | FDI (Feb) |  |  | -5.70% |
 | 12:30 | USD | Core PPI (YoY) (Feb) |  | 3.7% | 3.6% |
 | 12:30 | USD | PPI (YoY) (Feb) |  | 2.9% | 2.9% |

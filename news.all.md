@@ -9,22 +9,22 @@
 | 08:00 | ZAR | Low | CPI (MoM) (Feb) | 0.4% |  | 0.2% |
 | 08:00 | ZAR | Low | CPI (YoY) (Feb) | 3.0% |  | 3.5% |
 | 08:30 | HKD | Low | Unemployment Rate (Feb) | 3.8% |  | 3.9% |
-| 35 min | EUR | Moderate | Core CPI (YoY) (Feb) |  | 2.4% | 2.2% |
-| 35 min | EUR | Low | Core CPI (MoM) (Feb) |  | 0.8% | -1.1% |
-| 35 min | EUR | High | CPI (YoY) (Feb) |  | 1.9% | 1.7% |
-| 35 min | EUR | Moderate | CPI (MoM) (Feb) |  | 0.7% | -0.6% |
-| 35 min | EUR | Low | CPI ex Tobacco (MoM) (Feb) |  |  | -0.6% |
-| 35 min | EUR | Low | CPI ex Tobacco (YoY) (Feb) |  |  | 1.6% |
-| 35 min | EUR | Low | CPI, n.s.a (Feb) |  | 100.72 | 100.05 |
-| 35 min | EUR | Low | HICP ex Energy & Food (YoY) (Feb) |  | 2.3% | 2.1% |
-| 35 min | EUR | Low | HICP ex Energy and Food (MoM) (Feb) |  | 0.7% | -0.8% |
-| 10:30 | EUR | Low | German 30-Year Bund Auction |  |  | 3.470% |
-| 11:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.19% |
-| 11:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 3.2% |
-| 11:00 | USD | Low | MBA Purchase Index |  |  | 171.3 |
-| 11:00 | USD | Low | Mortgage Market Index |  |  | 389.6 |
-| 11:00 | USD | Low | Mortgage Refinance Index |  |  | 1,646.3 |
-| 11:00 | ZAR | Low | Retail Sales (YoY) (Jan) |  |  | 2.6% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Feb) | 2.4% | 2.4% | 2.2% |
+| 10:00 | EUR | Low | Core CPI (MoM) (Feb) | 0.8% | 0.8% | -1.1% |
+| 10:00 | EUR | High | CPI (YoY) (Feb) | 1.9% | 1.9% | 1.7% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Feb) | 0.6% | 0.7% | -0.6% |
+| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Feb) | 0.6% |  | -0.6% |
+| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Feb) | 1.8% |  | 1.6% |
+| 10:00 | EUR | Low | CPI, n.s.a (Feb) | 100.71 | 100.72 | 100.05 |
+| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Feb) | 2.3% | 2.3% | 2.1% |
+| 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Feb) | 0.6% | 0.7% | -0.8% |
+| 6 min | EUR | Low | German 30-Year Bund Auction |  |  | 3.470% |
+| 36 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.19% |
+| 36 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | 3.2% |
+| 36 min | USD | Low | MBA Purchase Index |  |  | 171.3 |
+| 36 min | USD | Low | Mortgage Market Index |  |  | 389.6 |
+| 36 min | USD | Low | Mortgage Refinance Index |  |  | 1,646.3 |
+| 36 min | ZAR | Low | Retail Sales (YoY) (Jan) |  |  | 2.6% |
 | 12:00 | CNY | Low | FDI (Feb) |  |  | -5.70% |
 | 12:30 | USD | Moderate | Core PPI (MoM) (Feb) |  | 0.3% | 0.8% |
 | 12:30 | USD | Low | Core PPI (YoY) (Feb) |  | 3.7% | 3.6% |

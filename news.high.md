@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 35 min | EUR | CPI (YoY) (Feb) |  | 1.9% | 1.7% |
+| 10:00 | EUR | CPI (YoY) (Feb) | 1.9% | 1.9% | 1.7% |
 | 12:30 | USD | PPI (MoM) (Feb) |  | 0.3% | 0.5% |
 | 13:45 | CAD | BoC Interest Rate Decision |  | 2.25% | 2.25% |
 | 14:30 | USD | Crude Oil Inventories |  | -1.500M | 3.824M |

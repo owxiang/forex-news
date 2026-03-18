@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 35 min | EUR | Core CPI (YoY) (Feb) |  | 2.4% | 2.2% |
-| 35 min | EUR | CPI (MoM) (Feb) |  | 0.7% | -0.6% |
+| 10:00 | EUR | Core CPI (YoY) (Feb) | 2.4% | 2.4% | 2.2% |
+| 10:00 | EUR | CPI (MoM) (Feb) | 0.6% | 0.7% | -0.6% |
 | 12:30 | USD | Core PPI (MoM) (Feb) |  | 0.3% | 0.8% |
 | 12:30 | CAD | Foreign Securities Purchases (Jan) |  | 4.72B | -5.57B |
 | 13:30 | EUR | German Buba Vice President Buch Speaks |  |  |  |
