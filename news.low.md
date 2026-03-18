@@ -42,9 +42,9 @@
 | 20:00 | USD | US Foreign Buying, T-bonds (Jan) | 49.90B |  | -27.00B |
 | 20:00 | USD | Overall Net Capital Flow (Jan) | -25.00B |  | 113.90B |
 | 20:00 | USD | TIC Net Long-Term Transactions including Swaps (Jan) | 15.50B |  | 96.50B |
-| 28 min | NZD | GDP (YoY) (Q4) |  | 1.7% | 1.3% |
-| 28 min | NZD | GDP Annual Average (Q4) |  |  | -0.5% |
-| 28 min | NZD | GDP Expenditure (QoQ) (Q4) |  |  | 1.3% |
+| 21:45 | NZD | GDP (YoY) (Q4) | 1.3% | 1.7% | 1.1% |
+| 21:45 | NZD | GDP Annual Average (Q4) | 0.2% |  | -0.6% |
+| 21:45 | NZD | GDP Expenditure (QoQ) (Q4) | 0.1% |  | 0.9% |
 | 23:50 | JPY | Core Machinery Orders (MoM) (Jan) |  | -9.6% | 19.1% |
 | 23:50 | JPY | Core Machinery Orders (YoY) (Jan) |  | 10.5% | 16.8% |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | 399.8B |

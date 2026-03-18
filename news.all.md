@@ -65,11 +65,11 @@
 | 20:00 | USD | Moderate | TIC Net Long-Term Transactions (Jan) | 15.5B | 71.6B | 96.5B |
 | 20:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Jan) | 15.50B |  | 96.50B |
 | 20:00 | NZD | Moderate | Westpac Consumer Sentiment (Q1) | 94.7 |  | 96.5 |
-| 13 min | BRL | Moderate | Interest Rate Decision |  | 14.50% | 15.00% |
-| 28 min | NZD | Moderate | GDP (QoQ) (Q4) |  | 0.5% | 1.1% |
-| 28 min | NZD | Low | GDP (YoY) (Q4) |  | 1.7% | 1.3% |
-| 28 min | NZD | Low | GDP Annual Average (Q4) |  |  | -0.5% |
-| 28 min | NZD | Low | GDP Expenditure (QoQ) (Q4) |  |  | 1.3% |
+| 21:30 | BRL | Moderate | Interest Rate Decision | 14.75% | 14.50% | 15.00% |
+| 21:45 | NZD | Moderate | GDP (QoQ) (Q4) | 0.2% | 0.5% | 0.9% |
+| 21:45 | NZD | Low | GDP (YoY) (Q4) | 1.3% | 1.7% | 1.1% |
+| 21:45 | NZD | Low | GDP Annual Average (Q4) | 0.2% |  | -0.6% |
+| 21:45 | NZD | Low | GDP Expenditure (QoQ) (Q4) | 0.1% |  | 0.9% |
 | 23:50 | JPY | Low | Core Machinery Orders (MoM) (Jan) |  | -9.6% | 19.1% |
 | 23:50 | JPY | Low | Core Machinery Orders (YoY) (Jan) |  | 10.5% | 16.8% |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | 399.8B |
