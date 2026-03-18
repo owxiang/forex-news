@@ -51,15 +51,14 @@
 | 14:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 0.6% |  | 1.6% |
 | 14:30 | USD | Low | Gasoline Inventories | -5.436M | -1.600M | -3.654M |
 | 14:30 | CAD | Moderate | BOC Press Conference |  |  |  |
-| 31 min | CNY | Low | FDI (Feb) |  |  | -5.70% |
-| 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -3.897B |
-| 18:00 | USD | Moderate | Interest Rate Projection - 1st Yr (Q1) |  |  | 3.4% |
-| 18:00 | USD | Moderate | Interest Rate Projection - 2nd Yr (Q1) |  |  | 3.1% |
-| 18:00 | USD | Moderate | Interest Rate Projection - Current (Q1) |  |  | 3.6% |
-| 18:00 | USD | Moderate | Interest Rate Projection - Longer (Q1) |  |  | 3.0% |
-| 18:00 | USD | High | FOMC Economic Projections |  |  |  |
-| 18:00 | USD | High | FOMC Statement |  |  |  |
-| 18:00 | USD | High | Fed Interest Rate Decision |  | 3.75% | 3.75% |
+| 3 min | BRL | Low | Foreign Exchange Flows |  |  | -3.897B |
+| 33 min | USD | Moderate | Interest Rate Projection - 1st Yr (Q1) |  |  | 3.4% |
+| 33 min | USD | Moderate | Interest Rate Projection - 2nd Yr (Q1) |  |  | 3.1% |
+| 33 min | USD | Moderate | Interest Rate Projection - Current (Q1) |  |  | 3.6% |
+| 33 min | USD | Moderate | Interest Rate Projection - Longer (Q1) |  |  | 3.0% |
+| 33 min | USD | High | FOMC Economic Projections |  |  |  |
+| 33 min | USD | High | FOMC Statement |  |  |  |
+| 33 min | USD | High | Fed Interest Rate Decision |  | 3.75% | 3.75% |
 | 18:30 | USD | High | FOMC Press Conference |  |  |  |
 | 20:00 | USD | Low | US Foreign Buying, T-bonds (Jan) |  |  | -41.60B |
 | 20:00 | USD | Low | Overall Net Capital Flow (Jan) |  |  | 44.90B |
