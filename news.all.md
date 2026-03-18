@@ -18,6 +18,7 @@
 | 10:00 | EUR | Low | CPI, n.s.a (Feb) |  | 100.72 | 100.05 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Feb) |  | 2.3% | 2.1% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Feb) |  | 0.7% | -0.8% |
+| 10:30 | EUR | Low | German 30-Year Bund Auction |  |  | 3.470% |
 | 11:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.19% |
 | 11:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 3.2% |
 | 11:00 | USD | Low | MBA Purchase Index |  |  | 171.3 |
@@ -40,7 +41,7 @@
 | 14:00 | USD | Low | Durables Excluding Transport (MoM) (Jan) |  |  | 0.4% |
 | 14:00 | USD | Moderate | Factory Orders (MoM) (Jan) |  | 0.1% | -0.7% |
 | 14:00 | USD | Low | Factory orders ex transportation (MoM) (Jan) |  |  | 0.4% |
-| 14:30 | USD | High | Crude Oil Inventories |  | 0.400M | 3.824M |
+| 14:30 | USD | High | Crude Oil Inventories |  | -1.500M | 3.824M |
 | 14:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.328M |
 | 14:30 | USD | Low | Crude Oil Imports |  |  | 0.661M |
 | 14:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.117M |
@@ -65,8 +66,8 @@
 | 20:00 | USD | Moderate | TIC Net Long-Term Transactions (Jan) |  | 71.6B | 28.0B |
 | 20:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Jan) |  |  | 28.00B |
 | 20:00 | NZD | Moderate | Westpac Consumer Sentiment (Q1) |  |  | 96.5 |
-| 21:30 | BRL | Moderate | Interest Rate Decision |  | 14.75% | 15.00% |
-| 21:45 | NZD | Moderate | GDP (QoQ) (Q4) |  | 0.4% | 1.1% |
+| 21:30 | BRL | Moderate | Interest Rate Decision |  | 14.50% | 15.00% |
+| 21:45 | NZD | Moderate | GDP (QoQ) (Q4) |  | 0.5% | 1.1% |
 | 21:45 | NZD | Low | GDP (YoY) (Q4) |  | 1.7% | 1.3% |
 | 21:45 | NZD | Low | GDP Annual Average (Q4) |  |  | -0.5% |
 | 21:45 | NZD | Low | GDP Expenditure (QoQ) (Q4) |  |  | 1.3% |

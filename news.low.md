@@ -15,6 +15,7 @@
 | 10:00 | EUR | CPI, n.s.a (Feb) |  | 100.72 | 100.05 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Feb) |  | 2.3% | 2.1% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Feb) |  | 0.7% | -0.8% |
+| 10:30 | EUR | German 30-Year Bund Auction |  |  | 3.470% |
 | 11:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.19% |
 | 11:00 | USD | MBA Mortgage Applications (WoW) |  |  | 3.2% |
 | 11:00 | USD | MBA Purchase Index |  |  | 171.3 |
