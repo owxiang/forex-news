@@ -11,10 +11,10 @@
 | 14:00 | USD | Factory Orders (MoM) (Jan) | 0.1% | 0.1% | -0.4% |
 | 14:30 | USD | Cushing Crude Oil Inventories | 0.944M |  | 0.117M |
 | 14:30 | CAD | BOC Press Conference |  |  |  |
-| 33 min | USD | Interest Rate Projection - 1st Yr (Q1) |  |  | 3.4% |
-| 33 min | USD | Interest Rate Projection - 2nd Yr (Q1) |  |  | 3.1% |
-| 33 min | USD | Interest Rate Projection - Current (Q1) |  |  | 3.6% |
-| 33 min | USD | Interest Rate Projection - Longer (Q1) |  |  | 3.0% |
+| 18:00 | USD | Interest Rate Projection - 1st Yr (Q1) | 3.1% |  | 3.4% |
+| 18:00 | USD | Interest Rate Projection - 2nd Yr (Q1) | 3.1% |  | 3.1% |
+| 18:00 | USD | Interest Rate Projection - Current (Q1) | 3.4% |  | 3.6% |
+| 18:00 | USD | Interest Rate Projection - Longer (Q1) | 3.1% |  | 3.0% |
 | 20:00 | USD | TIC Net Long-Term Transactions (Jan) |  | 71.6B | 28.0B |
 | 20:00 | NZD | Westpac Consumer Sentiment (Q1) |  |  | 96.5 |
 | 21:30 | BRL | Interest Rate Decision |  | 14.50% | 15.00% |
