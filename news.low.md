@@ -3,12 +3,12 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | RBA Chart Pack Release |  |  |  |
-| 32 min | CHF | SECO Economic Forecasts |  |  |  |
-| 32 min | ZAR | Core CPI (MoM) (Feb) |  |  | 0.3% |
-| 32 min | ZAR | Core CPI (YoY) (Feb) |  |  | 3.4% |
-| 32 min | ZAR | CPI (MoM) (Feb) |  |  | 0.2% |
-| 32 min | ZAR | CPI (YoY) (Feb) |  |  | 3.5% |
-| 08:30 | HKD | Unemployment Rate (Feb) |  |  | 3.9% |
+| 08:00 | CHF | SECO Economic Forecasts |  |  |  |
+| 08:00 | ZAR | Core CPI (MoM) (Feb) | 0.7% |  | 0.3% |
+| 08:00 | ZAR | Core CPI (YoY) (Feb) | 3.0% |  | 3.4% |
+| 08:00 | ZAR | CPI (MoM) (Feb) | 0.4% |  | 0.2% |
+| 08:00 | ZAR | CPI (YoY) (Feb) | 3.0% |  | 3.5% |
+| 9 min | HKD | Unemployment Rate (Feb) |  |  | 3.9% |
 | 10:00 | EUR | Core CPI (MoM) (Feb) |  | 0.8% | -1.1% |
 | 10:00 | EUR | CPI ex Tobacco (MoM) (Feb) |  |  | -0.6% |
 | 10:00 | EUR | CPI ex Tobacco (YoY) (Feb) |  |  | 1.6% |

@@ -3,12 +3,12 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
-| 32 min | CHF | Low | SECO Economic Forecasts |  |  |  |
-| 32 min | ZAR | Low | Core CPI (MoM) (Feb) |  |  | 0.3% |
-| 32 min | ZAR | Low | Core CPI (YoY) (Feb) |  |  | 3.4% |
-| 32 min | ZAR | Low | CPI (MoM) (Feb) |  |  | 0.2% |
-| 32 min | ZAR | Low | CPI (YoY) (Feb) |  |  | 3.5% |
-| 08:30 | HKD | Low | Unemployment Rate (Feb) |  |  | 3.9% |
+| 08:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
+| 08:00 | ZAR | Low | Core CPI (MoM) (Feb) | 0.7% |  | 0.3% |
+| 08:00 | ZAR | Low | Core CPI (YoY) (Feb) | 3.0% |  | 3.4% |
+| 08:00 | ZAR | Low | CPI (MoM) (Feb) | 0.4% |  | 0.2% |
+| 08:00 | ZAR | Low | CPI (YoY) (Feb) | 3.0% |  | 3.5% |
+| 9 min | HKD | Low | Unemployment Rate (Feb) |  |  | 3.9% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Feb) |  | 2.4% | 2.2% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Feb) |  | 0.8% | -1.1% |
 | 10:00 | EUR | High | CPI (YoY) (Feb) |  | 1.9% | 1.7% |
