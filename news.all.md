@@ -51,7 +51,7 @@
 | 14:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 0.6% |  | 1.6% |
 | 14:30 | USD | Low | Gasoline Inventories | -5.436M | -1.600M | -3.654M |
 | 14:30 | CAD | Moderate | BOC Press Conference |  |  |  |
-| 17:00 | CNY | Low | FDI (Feb) |  |  | -5.70% |
+| 31 min | CNY | Low | FDI (Feb) |  |  | -5.70% |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -3.897B |
 | 18:00 | USD | Moderate | Interest Rate Projection - 1st Yr (Q1) |  |  | 3.4% |
 | 18:00 | USD | Moderate | Interest Rate Projection - 2nd Yr (Q1) |  |  | 3.1% |

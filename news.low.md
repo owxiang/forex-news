@@ -38,7 +38,7 @@
 | 14:30 | USD | Heating Oil Stockpiles | -0.081M |  | 0.228M |
 | 14:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.6% |  | 1.6% |
 | 14:30 | USD | Gasoline Inventories | -5.436M | -1.600M | -3.654M |
-| 17:00 | CNY | FDI (Feb) |  |  | -5.70% |
+| 31 min | CNY | FDI (Feb) |  |  | -5.70% |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | -3.897B |
 | 20:00 | USD | US Foreign Buying, T-bonds (Jan) |  |  | -41.60B |
 | 20:00 | USD | Overall Net Capital Flow (Jan) |  |  | 44.90B |
