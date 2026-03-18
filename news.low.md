@@ -27,18 +27,18 @@
 | 12:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Feb) | 3.5% |  | 3.4% |
 | 12:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Feb) | 0.5% |  | 0.4% |
 | 12:30 | CAD | Foreign Securities Purchases by Canadians (Jan) | 11.390B |  | 13.060B |
-| 23 min | USD | Durables Excluding Defense (MoM) (Jan) |  |  | 0.5% |
-| 23 min | USD | Durables Excluding Transport (MoM) (Jan) |  |  | 0.4% |
-| 23 min | USD | Factory orders ex transportation (MoM) (Jan) |  |  | 0.4% |
-| 23 min | CNY | FDI (Feb) |  |  | -5.70% |
-| 53 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.328M |
-| 53 min | USD | Crude Oil Imports |  |  | 0.661M |
-| 53 min | USD | Distillate Fuel Production |  |  | 0.132M |
-| 53 min | USD | EIA Weekly Distillates Stocks |  | -1.500M | -1.349M |
-| 53 min | USD | Gasoline Production |  |  | 0.554M |
-| 53 min | USD | Heating Oil Stockpiles |  |  | 0.228M |
-| 53 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.6% |
-| 53 min | USD | Gasoline Inventories |  | -1.600M | -3.654M |
+| 14:00 | USD | Durables Excluding Defense (MoM) (Jan) | 0.5% |  | 0.5% |
+| 14:00 | USD | Durables Excluding Transport (MoM) (Jan) | 0.4% |  | 0.4% |
+| 14:00 | USD | Factory orders ex transportation (MoM) (Jan) | 0.4% |  | 0.6% |
+| 14:30 | USD | EIA Refinery Crude Runs (WoW) | 0.063M |  | 0.328M |
+| 14:30 | USD | Crude Oil Imports | -0.692M |  | 0.661M |
+| 14:30 | USD | Distillate Fuel Production | -0.075M |  | 0.132M |
+| 14:30 | USD | EIA Weekly Distillates Stocks | -2.527M | -1.500M | -1.349M |
+| 14:30 | USD | Gasoline Production | -0.462M |  | 0.554M |
+| 14:30 | USD | Heating Oil Stockpiles | -0.081M |  | 0.228M |
+| 14:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.6% |  | 1.6% |
+| 14:30 | USD | Gasoline Inventories | -5.436M | -1.600M | -3.654M |
+| 17:00 | CNY | FDI (Feb) |  |  | -5.70% |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | -3.897B |
 | 20:00 | USD | US Foreign Buying, T-bonds (Jan) |  |  | -41.60B |
 | 20:00 | USD | Overall Net Capital Flow (Jan) |  |  | 44.90B |

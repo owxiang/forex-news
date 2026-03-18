@@ -7,10 +7,10 @@
 | 12:30 | USD | Core PPI (MoM) (Feb) | 0.5% | 0.3% | 0.8% |
 | 12:30 | CAD | Foreign Securities Purchases (Jan) | 46.73B | 4.72B | -5.84B |
 | 13:30 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 8 min | CAD | BoC Rate Statement |  |  |  |
-| 23 min | USD | Factory Orders (MoM) (Jan) |  | 0.1% | -0.7% |
-| 53 min | USD | Cushing Crude Oil Inventories |  |  | 0.117M |
-| 53 min | CAD | BOC Press Conference |  |  |  |
+| 13:45 | CAD | BoC Rate Statement |  |  |  |
+| 14:00 | USD | Factory Orders (MoM) (Jan) | 0.1% | 0.1% | -0.4% |
+| 14:30 | USD | Cushing Crude Oil Inventories | 0.944M |  | 0.117M |
+| 14:30 | CAD | BOC Press Conference |  |  |  |
 | 18:00 | USD | Interest Rate Projection - 1st Yr (Q1) |  |  | 3.4% |
 | 18:00 | USD | Interest Rate Projection - 2nd Yr (Q1) |  |  | 3.1% |
 | 18:00 | USD | Interest Rate Projection - Current (Q1) |  |  | 3.6% |
