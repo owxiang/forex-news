@@ -59,12 +59,12 @@
 | 18:00 | USD | High | FOMC Economic Projections |  |  |  |
 | 18:00 | USD | High | FOMC Statement |  |  |  |
 | 18:00 | USD | High | Fed Interest Rate Decision | 3.75% | 3.75% | 3.75% |
-| 3 min | USD | High | FOMC Press Conference |  |  |  |
-| 20:00 | USD | Low | US Foreign Buying, T-bonds (Jan) |  |  | -41.60B |
-| 20:00 | USD | Low | Overall Net Capital Flow (Jan) |  |  | 44.90B |
-| 20:00 | USD | Moderate | TIC Net Long-Term Transactions (Jan) |  | 71.6B | 28.0B |
-| 20:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Jan) |  |  | 28.00B |
-| 20:00 | NZD | Moderate | Westpac Consumer Sentiment (Q1) |  |  | 96.5 |
+| 18:30 | USD | High | FOMC Press Conference |  |  |  |
+| 36 min | USD | Low | US Foreign Buying, T-bonds (Jan) |  |  | -41.60B |
+| 36 min | USD | Low | Overall Net Capital Flow (Jan) |  |  | 44.90B |
+| 36 min | USD | Moderate | TIC Net Long-Term Transactions (Jan) |  | 71.6B | 28.0B |
+| 36 min | USD | Low | TIC Net Long-Term Transactions including Swaps (Jan) |  |  | 28.00B |
+| 36 min | NZD | Moderate | Westpac Consumer Sentiment (Q1) |  |  | 96.5 |
 | 21:30 | BRL | Moderate | Interest Rate Decision |  | 14.50% | 15.00% |
 | 21:45 | NZD | Moderate | GDP (QoQ) (Q4) |  | 0.5% | 1.1% |
 | 21:45 | NZD | Low | GDP (YoY) (Q4) |  | 1.7% | 1.3% |
