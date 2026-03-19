@@ -65,7 +65,7 @@
 | 17:00 | USD | Moderate | 10-Year TIPS Auction | 1.896% |  | 1.940% |
 | 20:30 | USD | Moderate | Fed's Balance Sheet | 6,656B |  | 6,646B |
 | 20:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 2.999T |  | 3.073T |
-| 30 min | NZD | Low | Exports (Feb) |  |  | 6.21B |
-| 30 min | NZD | Low | Imports (Feb) |  |  | 6.73B |
-| 30 min | NZD | Low | Trade Balance (MoM) (Feb) |  | -740M | -519M |
-| 30 min | NZD | Low | Trade Balance (YoY) (Feb) |  |  | -2,310M |
+| 21:45 | NZD | Low | Exports (Feb) | 6.63B |  | 6.10B |
+| 21:45 | NZD | Low | Imports (Feb) | 6.89B |  | 6.73B |
+| 21:45 | NZD | Low | Trade Balance (MoM) (Feb) | -257M | -740M | -627M |
+| 21:45 | NZD | Low | Trade Balance (YoY) (Feb) | -3,000M |  | -2,300M |
