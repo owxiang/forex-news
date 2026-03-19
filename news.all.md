@@ -23,13 +23,13 @@
 | 08:30 | CHF | High | SNB Interest Rate Decision (Q1) | 0.00% | 0.00% | 0.00% |
 | 08:30 | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
 | 09:00 | CHF | Moderate | SNB Press Conference |  |  |  |
-| 19 min | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.167% |
-| 19 min | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.577% |
-| 19 min | EUR | Low | Spanish 7-Year Obligacion Auction |  |  | 2.863% |
-| 39 min | EUR | Low | Construction Output (MoM) (Jan) |  |  | 0.88% |
-| 39 min | EUR | Moderate | Euro Summit |  |  |  |
-| 39 min | EUR | Moderate | Wages in euro zone (YoY) (Q4) |  |  | 3.00% |
-| 39 min | EUR | Low | Labor Cost Index (YoY) (Q4) |  |  | 3.30% |
+| 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction | 3.476% |  | 3.167% |
+| 09:40 | EUR | Low | Spanish 5-Year Bonos Auction | 2.934% |  | 2.577% |
+| 09:40 | EUR | Low | Spanish 7-Year Obligacion Auction | 3.079% |  | 2.863% |
+| 10:00 | EUR | Low | Construction Output (MoM) (Jan) | -0.09% |  | 0.67% |
+| 10:00 | EUR | Moderate | Euro Summit |  |  |  |
+| 10:00 | EUR | Moderate | Wages in euro zone (YoY) (Q4) | 3.00% |  | 3.20% |
+| 10:00 | EUR | Low | Labor Cost Index (YoY) (Q4) | 3.30% |  | 3.40% |
 | 12:00 | GBP | Moderate | BOE Inflation Letter |  |  |  |
 | 12:00 | GBP | Moderate | BoE MPC vote cut (Mar) |  | 2 | 4 |
 | 12:00 | GBP | Moderate | BoE MPC vote hike (Mar) |  | 0 | 0 |
@@ -38,7 +38,6 @@
 | 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
 | 12:00 | USD | Moderate | Building Permits (Jan) |  | 1.376M | 1.455M |
 | 12:00 | USD | Low | Building Permits (MoM) (Jan) |  |  | 4.8% |
-| 12:00 | CNY | Low | FDI (Feb) |  |  | -5.70% |
 | 12:30 | USD | Moderate | Continuing Jobless Claims |  | 1,850K | 1,850K |
 | 12:30 | USD | High | Initial Jobless Claims |  | 215K | 213K |
 | 12:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 212.00K |
@@ -53,11 +52,12 @@
 | 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
 | 13:15 | EUR | High | ECB Interest Rate Decision (Mar) |  | 2.15% | 2.15% |
 | 13:45 | EUR | High | ECB Press Conference |  |  |  |
-| 14:00 | USD | Moderate | New Home Sales (MoM) (Jan) |  |  | -1.7% |
 | 14:00 | USD | High | New Home Sales (Jan) |  | 722K | 745K |
+| 14:00 | USD | Moderate | New Home Sales (MoM) (Jan) |  |  | -1.7% |
 | 14:00 | USD | Moderate | US Leading Index (MoM) (Jan) |  | -0.1% | -0.2% |
 | 14:00 | USD | Low | Wholesale Inventories (MoM) (Jan) |  | 0.2% | 0.2% |
 | 14:00 | USD | Low | Wholesale Trade Sales (MoM) (Jan) |  |  | 1.0% |
+| 14:00 | CNY | Low | FDI (Feb) |  |  | -5.70% |
 | 14:30 | USD | Low | Natural Gas Storage |  | 39B | -38B |
 | 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 15:30 | USD | Low | 4-Week Bill Auction |  |  | 3.640% |

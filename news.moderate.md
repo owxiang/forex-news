@@ -15,8 +15,8 @@
 | 07:00 | GBP | Unemployment Rate (Jan) | 5.2% | 5.3% | 5.2% |
 | 08:30 | CHF | SNB Monetary Policy Assessment |  |  |  |
 | 09:00 | CHF | SNB Press Conference |  |  |  |
-| 39 min | EUR | Euro Summit |  |  |  |
-| 39 min | EUR | Wages in euro zone (YoY) (Q4) |  |  | 3.00% |
+| 10:00 | EUR | Euro Summit |  |  |  |
+| 10:00 | EUR | Wages in euro zone (YoY) (Q4) | 3.00% |  | 3.20% |
 | 12:00 | GBP | BOE Inflation Letter |  |  |  |
 | 12:00 | GBP | BoE MPC vote cut (Mar) |  | 2 | 4 |
 | 12:00 | GBP | BoE MPC vote hike (Mar) |  | 0 | 0 |

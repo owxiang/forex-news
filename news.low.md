@@ -8,13 +8,12 @@
 | 04:30 | JPY | Capacity Utilization (MoM) (Jan) | 2.9% |  | 0.5% |
 | 07:00 | GBP | Average Earnings ex Bonus (Jan) | 3.8% | 4.0% | 4.1% |
 | 07:00 | CHF | Trade Balance (Feb) | 4.204B |  | 3.752B |
-| 19 min | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.167% |
-| 19 min | EUR | Spanish 5-Year Bonos Auction |  |  | 2.577% |
-| 19 min | EUR | Spanish 7-Year Obligacion Auction |  |  | 2.863% |
-| 39 min | EUR | Construction Output (MoM) (Jan) |  |  | 0.88% |
-| 39 min | EUR | Labor Cost Index (YoY) (Q4) |  |  | 3.30% |
+| 09:40 | EUR | Spanish 10-Year Obligacion Auction | 3.476% |  | 3.167% |
+| 09:40 | EUR | Spanish 5-Year Bonos Auction | 2.934% |  | 2.577% |
+| 09:40 | EUR | Spanish 7-Year Obligacion Auction | 3.079% |  | 2.863% |
+| 10:00 | EUR | Construction Output (MoM) (Jan) | -0.09% |  | 0.67% |
+| 10:00 | EUR | Labor Cost Index (YoY) (Q4) | 3.30% |  | 3.40% |
 | 12:00 | USD | Building Permits (MoM) (Jan) |  |  | 4.8% |
-| 12:00 | CNY | FDI (Feb) |  |  | -5.70% |
 | 12:30 | USD | Jobless Claims 4-Week Avg. |  |  | 212.00K |
 | 12:30 | USD | Philly Fed Business Conditions (Mar) |  |  | 42.8 |
 | 12:30 | USD | Philly Fed CAPEX Index (Mar) |  |  | 14.40 |
@@ -22,6 +21,7 @@
 | 12:30 | USD | Philly Fed Prices Paid (Mar) |  |  | 38.90 |
 | 14:00 | USD | Wholesale Inventories (MoM) (Jan) |  | 0.2% | 0.2% |
 | 14:00 | USD | Wholesale Trade Sales (MoM) (Jan) |  |  | 1.0% |
+| 14:00 | CNY | FDI (Feb) |  |  | -5.70% |
 | 14:30 | USD | Natural Gas Storage |  | 39B | -38B |
 | 15:30 | USD | 4-Week Bill Auction |  |  | 3.640% |
 | 15:30 | USD | 8-Week Bill Auction |  |  | 3.625% |
