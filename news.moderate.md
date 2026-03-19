@@ -3,10 +3,10 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Employment Change (Feb) | 48.9K | 20.8K | 26.1K |
-| 00:30 | AUD | Full Employment Change (Feb) | -30.5K |  | 50.5K |
+| 00:30 | AUD | Full Employment Change (Feb) | -30.5K |  | 54.6K |
 | 00:30 | AUD | RBA Financial Stability Review |  |  |  |
 | 00:30 | AUD | Unemployment Rate (Feb) | 4.3% | 4.1% | 4.1% |
-| 50 min | JPY | BoJ Monetary Policy Statement |  |  |  |
+| 02:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
 | 04:30 | JPY | Industrial Production (MoM) (Jan) |  | 2.2% | -0.1% |
 | 06:30 | JPY | BoJ Press Conference |  |  |  |
 | 07:00 | GBP | Average Earnings Index +Bonus (Jan) |  | 3.9% | 4.2% |

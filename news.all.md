@@ -3,14 +3,14 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | AUD | Moderate | Employment Change (Feb) | 48.9K | 20.8K | 26.1K |
-| 00:30 | AUD | Moderate | Full Employment Change (Feb) | -30.5K |  | 50.5K |
+| 00:30 | AUD | Moderate | Full Employment Change (Feb) | -30.5K |  | 54.6K |
 | 00:30 | AUD | Low | Participation Rate (Feb) | 66.9% | 66.7% | 66.7% |
 | 00:30 | AUD | Moderate | RBA Financial Stability Review |  |  |  |
 | 00:30 | AUD | Low | Reserve Assets Total (Feb) | 111.7B |  | 112.5B |
 | 00:30 | AUD | Moderate | Unemployment Rate (Feb) | 4.3% | 4.1% | 4.1% |
-| 50 min | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
-| 50 min | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
-| 03:00 | JPY | High | BoJ Interest Rate Decision |  | 0.75% | 0.75% |
+| 02:30 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
+| 02:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
+| 02:30 | JPY | High | BoJ Interest Rate Decision | 0.75% | 0.75% | 0.75% |
 | 04:30 | JPY | Low | Capacity Utilization (MoM) (Jan) |  |  | 1.3% |
 | 04:30 | JPY | Moderate | Industrial Production (MoM) (Jan) |  | 2.2% | -0.1% |
 | 06:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
