@@ -8,8 +8,8 @@
 | 00:30 | AUD | Moderate | RBA Financial Stability Review |  |  |  |
 | 00:30 | AUD | Low | Reserve Assets Total (Feb) | 111.7B |  | 112.5B |
 | 00:30 | AUD | Moderate | Unemployment Rate (Feb) | 4.3% | 4.1% | 4.1% |
-| 02:30 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
-| 02:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
+| 50 min | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
+| 50 min | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
 | 03:00 | JPY | High | BoJ Interest Rate Decision |  | 0.75% | 0.75% |
 | 04:30 | JPY | Low | Capacity Utilization (MoM) (Jan) |  |  | 1.3% |
 | 04:30 | JPY | Moderate | Industrial Production (MoM) (Jan) |  | 2.2% | -0.1% |

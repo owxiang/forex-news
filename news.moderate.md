@@ -6,7 +6,7 @@
 | 00:30 | AUD | Full Employment Change (Feb) | -30.5K |  | 50.5K |
 | 00:30 | AUD | RBA Financial Stability Review |  |  |  |
 | 00:30 | AUD | Unemployment Rate (Feb) | 4.3% | 4.1% | 4.1% |
-| 02:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
+| 50 min | JPY | BoJ Monetary Policy Statement |  |  |  |
 | 04:30 | JPY | Industrial Production (MoM) (Jan) |  | 2.2% | -0.1% |
 | 06:30 | JPY | BoJ Press Conference |  |  |  |
 | 07:00 | GBP | Average Earnings Index +Bonus (Jan) |  | 3.9% | 4.2% |
