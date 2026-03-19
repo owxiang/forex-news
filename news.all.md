@@ -62,8 +62,8 @@
 | 15:30 | USD | Low | 4-Week Bill Auction | 3.615% |  | 3.640% |
 | 15:30 | USD | Low | 8-Week Bill Auction | 3.635% |  | 3.625% |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 2.3% | 2.7% | 2.7% |
-| 17:00 | USD | Moderate | 10-Year TIPS Auction |  |  | 1.940% |
-| 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -3.897B |
+| 17:00 | USD | Moderate | 10-Year TIPS Auction | 1.896% |  | 1.940% |
+| 5 min | BRL | Low | Foreign Exchange Flows |  |  | -3.897B |
 | 20:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,646B |
 | 20:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.073T |
 | 21:45 | NZD | Low | Exports (Feb) |  |  | 6.21B |
