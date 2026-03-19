@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:30 | JPY | BoJ Interest Rate Decision | 0.75% | 0.75% | 0.75% |
-| 10 min | CHF | SNB Interest Rate Decision (Q1) |  | 0.00% | 0.00% |
+| 08:30 | CHF | SNB Interest Rate Decision (Q1) | 0.00% | 0.00% | 0.00% |
 | 12:00 | GBP | BoE Interest Rate Decision (Mar) |  | 3.75% | 3.75% |
 | 12:30 | USD | Initial Jobless Claims |  | 215K | 213K |
 | 12:30 | USD | Philadelphia Fed Manufacturing Index (Mar) |  | 8.3 | 16.3 |

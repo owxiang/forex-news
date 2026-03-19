@@ -13,10 +13,10 @@
 | 07:00 | GBP | Claimant Count Change (Feb) | 24.7K | 25.8K | 4.7K |
 | 07:00 | GBP | Employment Change 3M/3M (MoM) (Jan) | 84K | -4K | 52K |
 | 07:00 | GBP | Unemployment Rate (Jan) | 5.2% | 5.3% | 5.2% |
-| 10 min | CHF | SNB Monetary Policy Assessment |  |  |  |
-| 40 min | CHF | SNB Press Conference |  |  |  |
-| 10:00 | EUR | Euro Summit |  |  |  |
-| 10:00 | EUR | Wages in euro zone (YoY) (Q4) |  |  | 3.00% |
+| 08:30 | CHF | SNB Monetary Policy Assessment |  |  |  |
+| 09:00 | CHF | SNB Press Conference |  |  |  |
+| 39 min | EUR | Euro Summit |  |  |  |
+| 39 min | EUR | Wages in euro zone (YoY) (Q4) |  |  | 3.00% |
 | 12:00 | GBP | BOE Inflation Letter |  |  |  |
 | 12:00 | GBP | BoE MPC vote cut (Mar) |  | 2 | 4 |
 | 12:00 | GBP | BoE MPC vote hike (Mar) |  | 0 | 0 |

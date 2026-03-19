@@ -20,16 +20,16 @@
 | 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Jan) | 84K | -4K | 52K |
 | 07:00 | GBP | Moderate | Unemployment Rate (Jan) | 5.2% | 5.3% | 5.2% |
 | 07:00 | CHF | Low | Trade Balance (Feb) | 4.204B |  | 3.752B |
-| 10 min | CHF | High | SNB Interest Rate Decision (Q1) |  | 0.00% | 0.00% |
-| 10 min | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
-| 40 min | CHF | Moderate | SNB Press Conference |  |  |  |
-| 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.167% |
-| 09:40 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.577% |
-| 09:40 | EUR | Low | Spanish 7-Year Obligacion Auction |  |  | 2.863% |
-| 10:00 | EUR | Low | Construction Output (MoM) (Jan) |  |  | 0.88% |
-| 10:00 | EUR | Moderate | Euro Summit |  |  |  |
-| 10:00 | EUR | Moderate | Wages in euro zone (YoY) (Q4) |  |  | 3.00% |
-| 10:00 | EUR | Low | Labor Cost Index (YoY) (Q4) |  |  | 3.30% |
+| 08:30 | CHF | High | SNB Interest Rate Decision (Q1) | 0.00% | 0.00% | 0.00% |
+| 08:30 | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
+| 09:00 | CHF | Moderate | SNB Press Conference |  |  |  |
+| 19 min | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.167% |
+| 19 min | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.577% |
+| 19 min | EUR | Low | Spanish 7-Year Obligacion Auction |  |  | 2.863% |
+| 39 min | EUR | Low | Construction Output (MoM) (Jan) |  |  | 0.88% |
+| 39 min | EUR | Moderate | Euro Summit |  |  |  |
+| 39 min | EUR | Moderate | Wages in euro zone (YoY) (Q4) |  |  | 3.00% |
+| 39 min | EUR | Low | Labor Cost Index (YoY) (Q4) |  |  | 3.30% |
 | 12:00 | GBP | Moderate | BOE Inflation Letter |  |  |  |
 | 12:00 | GBP | Moderate | BoE MPC vote cut (Mar) |  | 2 | 4 |
 | 12:00 | GBP | Moderate | BoE MPC vote hike (Mar) |  | 0 | 0 |
