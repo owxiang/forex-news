@@ -13,7 +13,7 @@
 | 09:40 | EUR | Spanish 7-Year Obligacion Auction | 3.079% |  | 2.863% |
 | 10:00 | EUR | Construction Output (MoM) (Jan) | -0.09% |  | 0.67% |
 | 10:00 | EUR | Labor Cost Index (YoY) (Q4) | 3.30% |  | 3.40% |
-| 12:00 | USD | Building Permits (MoM) (Jan) |  |  | 4.8% |
+| 43 min | USD | Building Permits (MoM) (Jan) |  |  | 4.8% |
 | 12:30 | USD | Jobless Claims 4-Week Avg. |  |  | 212.00K |
 | 12:30 | USD | Philly Fed Business Conditions (Mar) |  |  | 42.8 |
 | 12:30 | USD | Philly Fed CAPEX Index (Mar) |  |  | 14.40 |

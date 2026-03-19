@@ -17,12 +17,12 @@
 | 09:00 | CHF | SNB Press Conference |  |  |  |
 | 10:00 | EUR | Euro Summit |  |  |  |
 | 10:00 | EUR | Wages in euro zone (YoY) (Q4) | 3.00% |  | 3.20% |
-| 12:00 | GBP | BOE Inflation Letter |  |  |  |
-| 12:00 | GBP | BoE MPC vote cut (Mar) |  | 2 | 4 |
-| 12:00 | GBP | BoE MPC vote hike (Mar) |  | 0 | 0 |
-| 12:00 | GBP | BoE MPC vote unchanged (Mar) |  | 7 | 5 |
-| 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
-| 12:00 | USD | Building Permits (Jan) |  | 1.376M | 1.455M |
+| 43 min | GBP | BOE Inflation Letter |  |  |  |
+| 43 min | GBP | BoE MPC vote cut (Mar) |  | 2 | 4 |
+| 43 min | GBP | BoE MPC vote hike (Mar) |  | 0 | 0 |
+| 43 min | GBP | BoE MPC vote unchanged (Mar) |  | 7 | 5 |
+| 43 min | GBP | BoE MPC Meeting Minutes |  |  |  |
+| 43 min | USD | Building Permits (Jan) |  | 1.376M | 1.455M |
 | 12:30 | USD | Continuing Jobless Claims |  | 1,850K | 1,850K |
 | 12:30 | USD | Philly Fed Employment (Mar) |  |  | -1.3 |
 | 13:15 | EUR | ECB Marginal Lending Facility |  |  | 2.40% |

@@ -30,14 +30,14 @@
 | 10:00 | EUR | Moderate | Euro Summit |  |  |  |
 | 10:00 | EUR | Moderate | Wages in euro zone (YoY) (Q4) | 3.00% |  | 3.20% |
 | 10:00 | EUR | Low | Labor Cost Index (YoY) (Q4) | 3.30% |  | 3.40% |
-| 12:00 | GBP | Moderate | BOE Inflation Letter |  |  |  |
-| 12:00 | GBP | Moderate | BoE MPC vote cut (Mar) |  | 2 | 4 |
-| 12:00 | GBP | Moderate | BoE MPC vote hike (Mar) |  | 0 | 0 |
-| 12:00 | GBP | Moderate | BoE MPC vote unchanged (Mar) |  | 7 | 5 |
-| 12:00 | GBP | High | BoE Interest Rate Decision (Mar) |  | 3.75% | 3.75% |
-| 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
-| 12:00 | USD | Moderate | Building Permits (Jan) |  | 1.376M | 1.455M |
-| 12:00 | USD | Low | Building Permits (MoM) (Jan) |  |  | 4.8% |
+| 43 min | GBP | Moderate | BOE Inflation Letter |  |  |  |
+| 43 min | GBP | Moderate | BoE MPC vote cut (Mar) |  | 2 | 4 |
+| 43 min | GBP | Moderate | BoE MPC vote hike (Mar) |  | 0 | 0 |
+| 43 min | GBP | Moderate | BoE MPC vote unchanged (Mar) |  | 7 | 5 |
+| 43 min | GBP | High | BoE Interest Rate Decision (Mar) |  | 3.75% | 3.75% |
+| 43 min | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
+| 43 min | USD | Moderate | Building Permits (Jan) |  | 1.376M | 1.455M |
+| 43 min | USD | Low | Building Permits (MoM) (Jan) |  |  | 4.8% |
 | 12:30 | USD | Moderate | Continuing Jobless Claims |  | 1,850K | 1,850K |
 | 12:30 | USD | High | Initial Jobless Claims |  | 215K | 213K |
 | 12:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 212.00K |
