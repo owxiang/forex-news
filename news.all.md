@@ -13,13 +13,13 @@
 | 02:30 | JPY | High | BoJ Interest Rate Decision | 0.75% | 0.75% | 0.75% |
 | 04:30 | JPY | Low | Capacity Utilization (MoM) (Jan) | 2.9% |  | 0.5% |
 | 04:30 | JPY | Moderate | Industrial Production (MoM) (Jan) | 4.3% | 2.2% | 0.6% |
-| 57 min | JPY | Moderate | BoJ Press Conference |  |  |  |
-| 07:00 | GBP | Low | Average Earnings ex Bonus (Jan) |  | 4.0% | 4.2% |
-| 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Jan) |  | 3.9% | 4.2% |
-| 07:00 | GBP | Moderate | Claimant Count Change (Feb) |  | 25.8K | 28.6K |
-| 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Jan) |  | -4K | 52K |
-| 07:00 | GBP | Moderate | Unemployment Rate (Jan) |  | 5.3% | 5.2% |
-| 07:00 | CHF | Low | Trade Balance (Feb) |  |  | 3.818B |
+| 2 min | JPY | Moderate | BoJ Press Conference |  |  |  |
+| 32 min | GBP | Low | Average Earnings ex Bonus (Jan) |  | 4.0% | 4.2% |
+| 32 min | GBP | Moderate | Average Earnings Index +Bonus (Jan) |  | 3.9% | 4.2% |
+| 32 min | GBP | Moderate | Claimant Count Change (Feb) |  | 25.8K | 28.6K |
+| 32 min | GBP | Moderate | Employment Change 3M/3M (MoM) (Jan) |  | -4K | 52K |
+| 32 min | GBP | Moderate | Unemployment Rate (Jan) |  | 5.3% | 5.2% |
+| 32 min | CHF | Low | Trade Balance (Feb) |  |  | 3.818B |
 | 08:30 | CHF | High | SNB Interest Rate Decision (Q1) |  | 0.00% | 0.00% |
 | 08:30 | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
 | 09:00 | CHF | Moderate | SNB Press Conference |  |  |  |
