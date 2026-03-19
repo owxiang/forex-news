@@ -52,8 +52,8 @@
 | 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
 | 13:15 | EUR | High | ECB Interest Rate Decision (Mar) | 2.15% | 2.15% | 2.15% |
 | 13:45 | EUR | High | ECB Press Conference |  |  |  |
-| 14:00 | USD | High | New Home Sales (Jan) | 587K | 722K | 712K |
 | 14:00 | USD | Moderate | New Home Sales (MoM) (Jan) | -17.6% |  | -6.8% |
+| 14:00 | USD | High | New Home Sales (Jan) | 587K | 722K | 712K |
 | 14:00 | USD | Moderate | US Leading Index (MoM) (Jan) | -0.1% | -0.1% | -0.2% |
 | 14:00 | USD | Low | Wholesale Inventories (MoM) (Jan) | -0.5% | 0.2% | 0.2% |
 | 14:00 | USD | Low | Wholesale Trade Sales (MoM) (Jan) | 0.5% |  | 1.3% |
@@ -63,7 +63,6 @@
 | 15:30 | USD | Low | 8-Week Bill Auction | 3.635% |  | 3.625% |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 2.3% | 2.7% | 2.7% |
 | 17:00 | USD | Moderate | 10-Year TIPS Auction | 1.896% |  | 1.940% |
-| 5 min | BRL | Low | Foreign Exchange Flows |  |  | -3.897B |
 | 20:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,646B |
 | 20:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.073T |
 | 21:45 | NZD | Low | Exports (Feb) |  |  | 6.21B |
