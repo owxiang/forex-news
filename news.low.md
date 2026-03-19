@@ -5,7 +5,7 @@
 | 00:30 | AUD | Participation Rate (Feb) | 66.9% | 66.7% | 66.7% |
 | 00:30 | AUD | Reserve Assets Total (Feb) | 111.7B |  | 112.5B |
 | 02:30 | JPY | BOJ Gov Ueda Speaks |  |  |  |
-| 04:30 | JPY | Capacity Utilization (MoM) (Jan) |  |  | 1.3% |
+| 04:30 | JPY | Capacity Utilization (MoM) (Jan) | 2.9% |  | 0.5% |
 | 07:00 | GBP | Average Earnings ex Bonus (Jan) |  | 4.0% | 4.2% |
 | 07:00 | CHF | Trade Balance (Feb) |  |  | 3.818B |
 | 09:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.167% |

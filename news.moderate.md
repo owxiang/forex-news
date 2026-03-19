@@ -7,13 +7,13 @@
 | 00:30 | AUD | RBA Financial Stability Review |  |  |  |
 | 00:30 | AUD | Unemployment Rate (Feb) | 4.3% | 4.1% | 4.1% |
 | 02:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
-| 04:30 | JPY | Industrial Production (MoM) (Jan) |  | 2.2% | -0.1% |
-| 06:30 | JPY | BoJ Press Conference |  |  |  |
+| 04:30 | JPY | Industrial Production (MoM) (Jan) | 4.3% | 2.2% | 0.6% |
+| 57 min | JPY | BoJ Press Conference |  |  |  |
 | 07:00 | GBP | Average Earnings Index +Bonus (Jan) |  | 3.9% | 4.2% |
 | 07:00 | GBP | Claimant Count Change (Feb) |  | 25.8K | 28.6K |
 | 07:00 | GBP | Employment Change 3M/3M (MoM) (Jan) |  | -4K | 52K |
 | 07:00 | GBP | Unemployment Rate (Jan) |  | 5.3% | 5.2% |
-| 09:00 | CHF | SNB Monetary Policy Assessment |  |  |  |
+| 08:30 | CHF | SNB Monetary Policy Assessment |  |  |  |
 | 09:00 | CHF | SNB Press Conference |  |  |  |
 | 10:00 | EUR | Euro Summit |  |  |  |
 | 10:00 | EUR | Wages in euro zone (YoY) (Q4) |  |  | 3.00% |
@@ -29,4 +29,6 @@
 | 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
 | 14:00 | USD | New Home Sales (MoM) (Jan) |  |  | -1.7% |
 | 14:00 | USD | US Leading Index (MoM) (Jan) |  | -0.1% | -0.2% |
+| 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 17:00 | USD | 10-Year TIPS Auction |  |  | 1.940% |
 | 17:00 | USD | Atlanta Fed GDPNow (Q1) |  | 2.7% | 2.7% |

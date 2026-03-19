@@ -11,9 +11,9 @@
 | 02:30 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
 | 02:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
 | 02:30 | JPY | High | BoJ Interest Rate Decision | 0.75% | 0.75% | 0.75% |
-| 04:30 | JPY | Low | Capacity Utilization (MoM) (Jan) |  |  | 1.3% |
-| 04:30 | JPY | Moderate | Industrial Production (MoM) (Jan) |  | 2.2% | -0.1% |
-| 06:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
+| 04:30 | JPY | Low | Capacity Utilization (MoM) (Jan) | 2.9% |  | 0.5% |
+| 04:30 | JPY | Moderate | Industrial Production (MoM) (Jan) | 4.3% | 2.2% | 0.6% |
+| 57 min | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 07:00 | GBP | Low | Average Earnings ex Bonus (Jan) |  | 4.0% | 4.2% |
 | 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Jan) |  | 3.9% | 4.2% |
 | 07:00 | GBP | Moderate | Claimant Count Change (Feb) |  | 25.8K | 28.6K |
@@ -21,7 +21,7 @@
 | 07:00 | GBP | Moderate | Unemployment Rate (Jan) |  | 5.3% | 5.2% |
 | 07:00 | CHF | Low | Trade Balance (Feb) |  |  | 3.818B |
 | 08:30 | CHF | High | SNB Interest Rate Decision (Q1) |  | 0.00% | 0.00% |
-| 09:00 | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
+| 08:30 | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
 | 09:00 | CHF | Moderate | SNB Press Conference |  |  |  |
 | 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.167% |
 | 09:40 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.577% |
@@ -36,8 +36,8 @@
 | 12:00 | GBP | Moderate | BoE MPC vote unchanged (Mar) |  | 7 | 5 |
 | 12:00 | GBP | High | BoE Interest Rate Decision (Mar) |  | 3.75% | 3.75% |
 | 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
-| 12:00 | USD | Low | Building Permits (MoM) (Jan) |  |  | 4.8% |
 | 12:00 | USD | Moderate | Building Permits (Jan) |  | 1.376M | 1.455M |
+| 12:00 | USD | Low | Building Permits (MoM) (Jan) |  |  | 4.8% |
 | 12:00 | CNY | Low | FDI (Feb) |  |  | -5.70% |
 | 12:30 | USD | Moderate | Continuing Jobless Claims |  | 1,850K | 1,850K |
 | 12:30 | USD | High | Initial Jobless Claims |  | 215K | 213K |
@@ -59,8 +59,10 @@
 | 14:00 | USD | Low | Wholesale Inventories (MoM) (Jan) |  | 0.2% | 0.2% |
 | 14:00 | USD | Low | Wholesale Trade Sales (MoM) (Jan) |  |  | 1.0% |
 | 14:30 | USD | Low | Natural Gas Storage |  | 39B | -38B |
+| 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 15:30 | USD | Low | 4-Week Bill Auction |  |  | 3.640% |
 | 15:30 | USD | Low | 8-Week Bill Auction |  |  | 3.625% |
+| 17:00 | USD | Moderate | 10-Year TIPS Auction |  |  | 1.940% |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 2.7% | 2.7% |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -3.897B |
 | 21:45 | NZD | Low | Exports (Feb) |  |  | 6.21B |
