@@ -6,8 +6,8 @@
 | 00:30 | AUD | Reserve Assets Total (Feb) | 111.7B |  | 112.5B |
 | 02:30 | JPY | BOJ Gov Ueda Speaks |  |  |  |
 | 04:30 | JPY | Capacity Utilization (MoM) (Jan) | 2.9% |  | 0.5% |
-| 32 min | GBP | Average Earnings ex Bonus (Jan) |  | 4.0% | 4.2% |
-| 32 min | CHF | Trade Balance (Feb) |  |  | 3.818B |
+| 07:00 | GBP | Average Earnings ex Bonus (Jan) | 3.8% | 4.0% | 4.1% |
+| 07:00 | CHF | Trade Balance (Feb) | 4.204B |  | 3.752B |
 | 09:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.167% |
 | 09:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.577% |
 | 09:40 | EUR | Spanish 7-Year Obligacion Auction |  |  | 2.863% |
@@ -26,6 +26,7 @@
 | 15:30 | USD | 4-Week Bill Auction |  |  | 3.640% |
 | 15:30 | USD | 8-Week Bill Auction |  |  | 3.625% |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | -3.897B |
+| 20:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.073T |
 | 21:45 | NZD | Exports (Feb) |  |  | 6.21B |
 | 21:45 | NZD | Imports (Feb) |  |  | 6.73B |
 | 21:45 | NZD | Trade Balance (MoM) (Feb) |  | -740M | -519M |

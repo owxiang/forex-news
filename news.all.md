@@ -13,13 +13,13 @@
 | 02:30 | JPY | High | BoJ Interest Rate Decision | 0.75% | 0.75% | 0.75% |
 | 04:30 | JPY | Low | Capacity Utilization (MoM) (Jan) | 2.9% |  | 0.5% |
 | 04:30 | JPY | Moderate | Industrial Production (MoM) (Jan) | 4.3% | 2.2% | 0.6% |
-| 2 min | JPY | Moderate | BoJ Press Conference |  |  |  |
-| 32 min | GBP | Low | Average Earnings ex Bonus (Jan) |  | 4.0% | 4.2% |
-| 32 min | GBP | Moderate | Average Earnings Index +Bonus (Jan) |  | 3.9% | 4.2% |
-| 32 min | GBP | Moderate | Claimant Count Change (Feb) |  | 25.8K | 28.6K |
-| 32 min | GBP | Moderate | Employment Change 3M/3M (MoM) (Jan) |  | -4K | 52K |
-| 32 min | GBP | Moderate | Unemployment Rate (Jan) |  | 5.3% | 5.2% |
-| 32 min | CHF | Low | Trade Balance (Feb) |  |  | 3.818B |
+| 06:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
+| 07:00 | GBP | Low | Average Earnings ex Bonus (Jan) | 3.8% | 4.0% | 4.1% |
+| 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Jan) | 3.9% | 3.9% | 4.2% |
+| 07:00 | GBP | Moderate | Claimant Count Change (Feb) | 24.7K | 25.8K | 4.7K |
+| 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Jan) | 84K | -4K | 52K |
+| 07:00 | GBP | Moderate | Unemployment Rate (Jan) | 5.2% | 5.3% | 5.2% |
+| 07:00 | CHF | Low | Trade Balance (Feb) | 4.204B |  | 3.752B |
 | 08:30 | CHF | High | SNB Interest Rate Decision (Q1) |  | 0.00% | 0.00% |
 | 08:30 | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
 | 09:00 | CHF | Moderate | SNB Press Conference |  |  |  |
@@ -53,8 +53,8 @@
 | 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
 | 13:15 | EUR | High | ECB Interest Rate Decision (Mar) |  | 2.15% | 2.15% |
 | 13:45 | EUR | High | ECB Press Conference |  |  |  |
-| 14:00 | USD | High | New Home Sales (Jan) |  | 722K | 745K |
 | 14:00 | USD | Moderate | New Home Sales (MoM) (Jan) |  |  | -1.7% |
+| 14:00 | USD | High | New Home Sales (Jan) |  | 722K | 745K |
 | 14:00 | USD | Moderate | US Leading Index (MoM) (Jan) |  | -0.1% | -0.2% |
 | 14:00 | USD | Low | Wholesale Inventories (MoM) (Jan) |  | 0.2% | 0.2% |
 | 14:00 | USD | Low | Wholesale Trade Sales (MoM) (Jan) |  |  | 1.0% |
@@ -65,6 +65,8 @@
 | 17:00 | USD | Moderate | 10-Year TIPS Auction |  |  | 1.940% |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 2.7% | 2.7% |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -3.897B |
+| 20:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,646B |
+| 20:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.073T |
 | 21:45 | NZD | Low | Exports (Feb) |  |  | 6.21B |
 | 21:45 | NZD | Low | Imports (Feb) |  |  | 6.73B |
 | 21:45 | NZD | Low | Trade Balance (MoM) (Feb) |  | -740M | -519M |
