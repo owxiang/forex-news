@@ -1,12 +1,13 @@
-## 18 March 2026 - High Impact Forex News
+## 19 March 2026 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 10:00 | EUR | CPI (YoY) (Feb) | 1.9% | 1.9% | 1.7% |
-| 12:30 | USD | PPI (MoM) (Feb) | 0.7% | 0.3% | 0.5% |
-| 13:45 | CAD | BoC Interest Rate Decision | 2.25% | 2.25% | 2.25% |
-| 14:30 | USD | Crude Oil Inventories | 6.156M | -1.500M | 3.824M |
-| 18:00 | USD | FOMC Economic Projections |  |  |  |
-| 18:00 | USD | FOMC Statement |  |  |  |
-| 18:00 | USD | Fed Interest Rate Decision | 3.75% | 3.75% | 3.75% |
-| 18:30 | USD | FOMC Press Conference |  |  |  |
+| 03:00 | JPY | BoJ Interest Rate Decision |  | 0.75% | 0.75% |
+| 08:30 | CHF | SNB Interest Rate Decision (Q1) |  | 0.00% | 0.00% |
+| 12:00 | GBP | BoE Interest Rate Decision (Mar) |  | 3.75% | 3.75% |
+| 12:30 | USD | Initial Jobless Claims |  | 215K | 213K |
+| 12:30 | USD | Philadelphia Fed Manufacturing Index (Mar) |  | 8.3 | 16.3 |
+| 13:15 | EUR | Deposit Facility Rate (Mar) |  | 2.00% | 2.00% |
+| 13:15 | EUR | ECB Interest Rate Decision (Mar) |  | 2.15% | 2.15% |
+| 13:45 | EUR | ECB Press Conference |  |  |  |
+| 14:00 | USD | New Home Sales (Jan) |  | 722K | 745K |

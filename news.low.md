@@ -1,51 +1,32 @@
-## 18 March 2026 - Low Impact Forex News
+## 19 March 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | RBA Chart Pack Release |  |  |  |
-| 08:00 | CHF | SECO Economic Forecasts |  |  |  |
-| 08:00 | ZAR | Core CPI (MoM) (Feb) | 0.7% |  | 0.3% |
-| 08:00 | ZAR | Core CPI (YoY) (Feb) | 3.0% |  | 3.4% |
-| 08:00 | ZAR | CPI (MoM) (Feb) | 0.4% |  | 0.2% |
-| 08:00 | ZAR | CPI (YoY) (Feb) | 3.0% |  | 3.5% |
-| 08:30 | HKD | Unemployment Rate (Feb) | 3.8% |  | 3.9% |
-| 10:00 | EUR | Core CPI (MoM) (Feb) | 0.8% | 0.8% | -1.1% |
-| 10:00 | EUR | CPI ex Tobacco (MoM) (Feb) | 0.6% |  | -0.6% |
-| 10:00 | EUR | CPI ex Tobacco (YoY) (Feb) | 1.8% |  | 1.6% |
-| 10:00 | EUR | CPI, n.s.a (Feb) | 100.71 | 100.72 | 100.05 |
-| 10:00 | EUR | HICP ex Energy & Food (YoY) (Feb) | 2.3% | 2.3% | 2.1% |
-| 10:00 | EUR | HICP ex Energy and Food (MoM) (Feb) | 0.6% | 0.7% | -0.8% |
-| 10:30 | EUR | German 30-Year Bund Auction | 3.450% |  | 3.470% |
-| 11:00 | USD | MBA 30-Year Mortgage Rate | 6.30% |  | 6.19% |
-| 11:00 | USD | MBA Mortgage Applications (WoW) | -10.9% |  | 3.2% |
-| 11:00 | USD | MBA Purchase Index | 172.9 |  | 171.3 |
-| 11:00 | USD | Mortgage Market Index | 347.1 |  | 389.6 |
-| 11:00 | USD | Mortgage Refinance Index | 1,341.0 |  | 1,646.3 |
-| 11:00 | ZAR | Retail Sales (YoY) (Jan) | 4.2% |  | 2.5% |
-| 12:30 | USD | Core PPI (YoY) (Feb) | 3.9% | 3.7% | 3.5% |
-| 12:30 | USD | PPI (YoY) (Feb) | 3.4% | 2.9% | 2.9% |
-| 12:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Feb) | 3.5% |  | 3.4% |
-| 12:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Feb) | 0.5% |  | 0.4% |
-| 12:30 | CAD | Foreign Securities Purchases by Canadians (Jan) | 11.390B |  | 13.060B |
-| 14:00 | USD | Durables Excluding Defense (MoM) (Jan) | 0.5% |  | 0.5% |
-| 14:00 | USD | Durables Excluding Transport (MoM) (Jan) | 0.4% |  | 0.4% |
-| 14:00 | USD | Factory orders ex transportation (MoM) (Jan) | 0.4% |  | 0.6% |
-| 14:30 | USD | EIA Refinery Crude Runs (WoW) | 0.063M |  | 0.328M |
-| 14:30 | USD | Crude Oil Imports | -0.692M |  | 0.661M |
-| 14:30 | USD | Distillate Fuel Production | -0.075M |  | 0.132M |
-| 14:30 | USD | EIA Weekly Distillates Stocks | -2.527M | -1.500M | -1.349M |
-| 14:30 | USD | Gasoline Production | -0.462M |  | 0.554M |
-| 14:30 | USD | Heating Oil Stockpiles | -0.081M |  | 0.228M |
-| 14:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.6% |  | 1.6% |
-| 14:30 | USD | Gasoline Inventories | -5.436M | -1.600M | -3.654M |
-| 17:30 | BRL | Foreign Exchange Flows | -0.708B |  | -3.897B |
-| 20:00 | USD | US Foreign Buying, T-bonds (Jan) | 49.90B |  | -27.00B |
-| 20:00 | USD | Overall Net Capital Flow (Jan) | -25.00B |  | 113.90B |
-| 20:00 | USD | TIC Net Long-Term Transactions including Swaps (Jan) | 15.50B |  | 96.50B |
-| 21:45 | NZD | GDP (YoY) (Q4) | 1.3% | 1.7% | 1.1% |
-| 21:45 | NZD | GDP Annual Average (Q4) | 0.2% |  | -0.6% |
-| 21:45 | NZD | GDP Expenditure (QoQ) (Q4) | 0.1% |  | 0.9% |
-| 37 min | JPY | Core Machinery Orders (MoM) (Jan) |  | -9.6% | 19.1% |
-| 37 min | JPY | Core Machinery Orders (YoY) (Jan) |  | 10.5% | 16.8% |
-| 37 min | JPY | Foreign Bonds Buying |  |  | 399.8B |
-| 37 min | JPY | Foreign Investments in Japanese Stocks |  |  | 385.5B |
+| 00:30 | AUD | Participation Rate (Feb) | 66.9% | 66.7% | 66.7% |
+| 00:30 | AUD | Reserve Assets Total (Feb) | 111.7B |  | 112.5B |
+| 02:30 | JPY | BOJ Gov Ueda Speaks |  |  |  |
+| 04:30 | JPY | Capacity Utilization (MoM) (Jan) |  |  | 1.3% |
+| 07:00 | GBP | Average Earnings ex Bonus (Jan) |  | 4.0% | 4.2% |
+| 07:00 | CHF | Trade Balance (Feb) |  |  | 3.818B |
+| 09:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.167% |
+| 09:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.577% |
+| 09:40 | EUR | Spanish 7-Year Obligacion Auction |  |  | 2.863% |
+| 10:00 | EUR | Construction Output (MoM) (Jan) |  |  | 0.88% |
+| 10:00 | EUR | Labor Cost Index (YoY) (Q4) |  |  | 3.30% |
+| 12:00 | USD | Building Permits (MoM) (Jan) |  |  | 4.8% |
+| 12:00 | CNY | FDI (Feb) |  |  | -5.70% |
+| 12:30 | USD | Jobless Claims 4-Week Avg. |  |  | 212.00K |
+| 12:30 | USD | Philly Fed Business Conditions (Mar) |  |  | 42.8 |
+| 12:30 | USD | Philly Fed CAPEX Index (Mar) |  |  | 14.40 |
+| 12:30 | USD | Philly Fed New Orders (Mar) |  |  | 11.7 |
+| 12:30 | USD | Philly Fed Prices Paid (Mar) |  |  | 38.90 |
+| 14:00 | USD | Wholesale Inventories (MoM) (Jan) |  | 0.2% | 0.2% |
+| 14:00 | USD | Wholesale Trade Sales (MoM) (Jan) |  |  | 1.0% |
+| 14:30 | USD | Natural Gas Storage |  | 39B | -38B |
+| 15:30 | USD | 4-Week Bill Auction |  |  | 3.640% |
+| 15:30 | USD | 8-Week Bill Auction |  |  | 3.625% |
+| 17:30 | BRL | Foreign Exchange Flows |  |  | -3.897B |
+| 21:45 | NZD | Exports (Feb) |  |  | 6.21B |
+| 21:45 | NZD | Imports (Feb) |  |  | 6.73B |
+| 21:45 | NZD | Trade Balance (MoM) (Feb) |  | -740M | -519M |
+| 21:45 | NZD | Trade Balance (YoY) (Feb) |  |  | -2,310M |

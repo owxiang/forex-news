@@ -1,21 +1,32 @@
-## 18 March 2026 - Moderate Impact Forex News
+## 19 March 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 10:00 | EUR | Core CPI (YoY) (Feb) | 2.4% | 2.4% | 2.2% |
-| 10:00 | EUR | CPI (MoM) (Feb) | 0.6% | 0.7% | -0.6% |
-| 12:30 | USD | Core PPI (MoM) (Feb) | 0.5% | 0.3% | 0.8% |
-| 12:30 | CAD | Foreign Securities Purchases (Jan) | 46.73B | 4.72B | -5.84B |
-| 13:30 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 13:45 | CAD | BoC Rate Statement |  |  |  |
-| 14:00 | USD | Factory Orders (MoM) (Jan) | 0.1% | 0.1% | -0.4% |
-| 14:30 | USD | Cushing Crude Oil Inventories | 0.944M |  | 0.117M |
-| 14:30 | CAD | BOC Press Conference |  |  |  |
-| 18:00 | USD | Interest Rate Projection - 1st Yr (Q1) | 3.1% |  | 3.4% |
-| 18:00 | USD | Interest Rate Projection - 2nd Yr (Q1) | 3.1% |  | 3.1% |
-| 18:00 | USD | Interest Rate Projection - Current (Q1) | 3.4% |  | 3.6% |
-| 18:00 | USD | Interest Rate Projection - Longer (Q1) | 3.1% |  | 3.0% |
-| 20:00 | USD | TIC Net Long-Term Transactions (Jan) | 15.5B | 71.6B | 96.5B |
-| 20:00 | NZD | Westpac Consumer Sentiment (Q1) | 94.7 |  | 96.5 |
-| 21:30 | BRL | Interest Rate Decision | 14.75% | 14.50% | 15.00% |
-| 21:45 | NZD | GDP (QoQ) (Q4) | 0.2% | 0.5% | 0.9% |
+| 00:30 | AUD | Employment Change (Feb) | 48.9K | 20.8K | 26.1K |
+| 00:30 | AUD | Full Employment Change (Feb) | -30.5K |  | 50.5K |
+| 00:30 | AUD | RBA Financial Stability Review |  |  |  |
+| 00:30 | AUD | Unemployment Rate (Feb) | 4.3% | 4.1% | 4.1% |
+| 02:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
+| 04:30 | JPY | Industrial Production (MoM) (Jan) |  | 2.2% | -0.1% |
+| 06:30 | JPY | BoJ Press Conference |  |  |  |
+| 07:00 | GBP | Average Earnings Index +Bonus (Jan) |  | 3.9% | 4.2% |
+| 07:00 | GBP | Claimant Count Change (Feb) |  | 25.8K | 28.6K |
+| 07:00 | GBP | Employment Change 3M/3M (MoM) (Jan) |  | -4K | 52K |
+| 07:00 | GBP | Unemployment Rate (Jan) |  | 5.3% | 5.2% |
+| 09:00 | CHF | SNB Monetary Policy Assessment |  |  |  |
+| 09:00 | CHF | SNB Press Conference |  |  |  |
+| 10:00 | EUR | Euro Summit |  |  |  |
+| 10:00 | EUR | Wages in euro zone (YoY) (Q4) |  |  | 3.00% |
+| 12:00 | GBP | BOE Inflation Letter |  |  |  |
+| 12:00 | GBP | BoE MPC vote cut (Mar) |  | 2 | 4 |
+| 12:00 | GBP | BoE MPC vote hike (Mar) |  | 0 | 0 |
+| 12:00 | GBP | BoE MPC vote unchanged (Mar) |  | 7 | 5 |
+| 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
+| 12:00 | USD | Building Permits (Jan) |  | 1.376M | 1.455M |
+| 12:30 | USD | Continuing Jobless Claims |  | 1,850K | 1,850K |
+| 12:30 | USD | Philly Fed Employment (Mar) |  |  | -1.3 |
+| 13:15 | EUR | ECB Marginal Lending Facility |  |  | 2.40% |
+| 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
+| 14:00 | USD | New Home Sales (MoM) (Jan) |  |  | -1.7% |
+| 14:00 | USD | US Leading Index (MoM) (Jan) |  | -0.1% | -0.2% |
+| 17:00 | USD | Atlanta Fed GDPNow (Q1) |  | 2.7% | 2.7% |
