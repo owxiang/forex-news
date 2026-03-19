@@ -51,17 +51,17 @@
 | 13:15 | EUR | Moderate | ECB Marginal Lending Facility | 2.40% |  | 2.40% |
 | 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
 | 13:15 | EUR | High | ECB Interest Rate Decision (Mar) | 2.15% | 2.15% | 2.15% |
-| 10 min | EUR | High | ECB Press Conference |  |  |  |
-| 25 min | USD | High | New Home Sales (Jan) |  | 722K | 745K |
-| 25 min | USD | Moderate | New Home Sales (MoM) (Jan) |  |  | -1.7% |
-| 25 min | USD | Moderate | US Leading Index (MoM) (Jan) |  | -0.1% | -0.2% |
-| 25 min | USD | Low | Wholesale Inventories (MoM) (Jan) |  | 0.2% | 0.2% |
-| 25 min | USD | Low | Wholesale Trade Sales (MoM) (Jan) |  |  | 1.0% |
-| 25 min | CNY | Low | FDI (Feb) |  |  | -5.70% |
-| 55 min | USD | Low | Natural Gas Storage |  | 39B | -38B |
+| 13:45 | EUR | High | ECB Press Conference |  |  |  |
+| 14:00 | USD | High | New Home Sales (Jan) | 587K | 722K | 712K |
+| 14:00 | USD | Moderate | New Home Sales (MoM) (Jan) | -17.6% |  | -6.8% |
+| 14:00 | USD | Moderate | US Leading Index (MoM) (Jan) | -0.1% | -0.1% | -0.2% |
+| 14:00 | USD | Low | Wholesale Inventories (MoM) (Jan) | -0.5% | 0.2% | 0.2% |
+| 14:00 | USD | Low | Wholesale Trade Sales (MoM) (Jan) | 0.5% |  | 1.3% |
+| 14:30 | USD | Low | Natural Gas Storage | 35B | 39B | -38B |
 | 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 15:30 | USD | Low | 4-Week Bill Auction |  |  | 3.640% |
-| 15:30 | USD | Low | 8-Week Bill Auction |  |  | 3.625% |
+| 9 min | USD | Low | 4-Week Bill Auction |  |  | 3.640% |
+| 9 min | USD | Low | 8-Week Bill Auction |  |  | 3.625% |
+| 39 min | CNY | Low | FDI (Feb) |  |  | -5.70% |
 | 17:00 | USD | Moderate | 10-Year TIPS Auction |  |  | 1.940% |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 2.7% | 2.7% |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -3.897B |

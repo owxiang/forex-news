@@ -19,12 +19,12 @@
 | 12:30 | USD | Philly Fed CAPEX Index (Mar) | 25.80 |  | 14.40 |
 | 12:30 | USD | Philly Fed New Orders (Mar) | 8.6 |  | 11.7 |
 | 12:30 | USD | Philly Fed Prices Paid (Mar) | 44.70 |  | 38.90 |
-| 25 min | USD | Wholesale Inventories (MoM) (Jan) |  | 0.2% | 0.2% |
-| 25 min | USD | Wholesale Trade Sales (MoM) (Jan) |  |  | 1.0% |
-| 25 min | CNY | FDI (Feb) |  |  | -5.70% |
-| 55 min | USD | Natural Gas Storage |  | 39B | -38B |
-| 15:30 | USD | 4-Week Bill Auction |  |  | 3.640% |
-| 15:30 | USD | 8-Week Bill Auction |  |  | 3.625% |
+| 14:00 | USD | Wholesale Inventories (MoM) (Jan) | -0.5% | 0.2% | 0.2% |
+| 14:00 | USD | Wholesale Trade Sales (MoM) (Jan) | 0.5% |  | 1.3% |
+| 14:30 | USD | Natural Gas Storage | 35B | 39B | -38B |
+| 9 min | USD | 4-Week Bill Auction |  |  | 3.640% |
+| 9 min | USD | 8-Week Bill Auction |  |  | 3.625% |
+| 39 min | CNY | FDI (Feb) |  |  | -5.70% |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | -3.897B |
 | 20:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.073T |
 | 21:45 | NZD | Exports (Feb) |  |  | 6.21B |

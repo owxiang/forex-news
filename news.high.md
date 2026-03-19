@@ -9,5 +9,5 @@
 | 12:30 | USD | Philadelphia Fed Manufacturing Index (Mar) | 18.1 | 8.3 | 16.3 |
 | 13:15 | EUR | Deposit Facility Rate (Mar) | 2.00% | 2.00% | 2.00% |
 | 13:15 | EUR | ECB Interest Rate Decision (Mar) | 2.15% | 2.15% | 2.15% |
-| 10 min | EUR | ECB Press Conference |  |  |  |
-| 25 min | USD | New Home Sales (Jan) |  | 722K | 745K |
+| 13:45 | EUR | ECB Press Conference |  |  |  |
+| 14:00 | USD | New Home Sales (Jan) | 587K | 722K | 712K |

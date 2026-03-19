@@ -27,8 +27,8 @@
 | 12:30 | USD | Philly Fed Employment (Mar) | 0.8 |  | -1.3 |
 | 13:15 | EUR | ECB Marginal Lending Facility | 2.40% |  | 2.40% |
 | 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
-| 25 min | USD | New Home Sales (MoM) (Jan) |  |  | -1.7% |
-| 25 min | USD | US Leading Index (MoM) (Jan) |  | -0.1% | -0.2% |
+| 14:00 | USD | New Home Sales (MoM) (Jan) | -17.6% |  | -6.8% |
+| 14:00 | USD | US Leading Index (MoM) (Jan) | -0.1% | -0.1% | -0.2% |
 | 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 17:00 | USD | 10-Year TIPS Auction |  |  | 1.940% |
 | 17:00 | USD | Atlanta Fed GDPNow (Q1) |  | 2.7% | 2.7% |
