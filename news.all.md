@@ -59,11 +59,10 @@
 | 14:00 | USD | Low | Wholesale Trade Sales (MoM) (Jan) | 0.5% |  | 1.3% |
 | 14:30 | USD | Low | Natural Gas Storage | 35B | 39B | -38B |
 | 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 9 min | USD | Low | 4-Week Bill Auction |  |  | 3.640% |
-| 9 min | USD | Low | 8-Week Bill Auction |  |  | 3.625% |
-| 39 min | CNY | Low | FDI (Feb) |  |  | -5.70% |
+| 15:30 | USD | Low | 4-Week Bill Auction | 3.615% |  | 3.640% |
+| 15:30 | USD | Low | 8-Week Bill Auction | 3.635% |  | 3.625% |
+| 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 2.3% | 2.7% | 2.7% |
 | 17:00 | USD | Moderate | 10-Year TIPS Auction |  |  | 1.940% |
-| 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 2.7% | 2.7% |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -3.897B |
 | 20:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,646B |
 | 20:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.073T |

@@ -22,9 +22,8 @@
 | 14:00 | USD | Wholesale Inventories (MoM) (Jan) | -0.5% | 0.2% | 0.2% |
 | 14:00 | USD | Wholesale Trade Sales (MoM) (Jan) | 0.5% |  | 1.3% |
 | 14:30 | USD | Natural Gas Storage | 35B | 39B | -38B |
-| 9 min | USD | 4-Week Bill Auction |  |  | 3.640% |
-| 9 min | USD | 8-Week Bill Auction |  |  | 3.625% |
-| 39 min | CNY | FDI (Feb) |  |  | -5.70% |
+| 15:30 | USD | 4-Week Bill Auction | 3.615% |  | 3.640% |
+| 15:30 | USD | 8-Week Bill Auction | 3.635% |  | 3.625% |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | -3.897B |
 | 20:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.073T |
 | 21:45 | NZD | Exports (Feb) |  |  | 6.21B |
