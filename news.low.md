@@ -14,15 +14,15 @@
 | 10:00 | EUR | Construction Output (MoM) (Jan) | -0.09% |  | 0.67% |
 | 10:00 | EUR | Labor Cost Index (YoY) (Q4) | 3.30% |  | 3.40% |
 | 12:00 | USD | Building Permits (MoM) (Jan) | -4.7% |  | 4.8% |
-| 10 min | USD | Jobless Claims 4-Week Avg. |  |  | 212.00K |
-| 10 min | USD | Philly Fed Business Conditions (Mar) |  |  | 42.8 |
-| 10 min | USD | Philly Fed CAPEX Index (Mar) |  |  | 14.40 |
-| 10 min | USD | Philly Fed New Orders (Mar) |  |  | 11.7 |
-| 10 min | USD | Philly Fed Prices Paid (Mar) |  |  | 38.90 |
-| 14:00 | USD | Wholesale Inventories (MoM) (Jan) |  | 0.2% | 0.2% |
-| 14:00 | USD | Wholesale Trade Sales (MoM) (Jan) |  |  | 1.0% |
-| 14:00 | CNY | FDI (Feb) |  |  | -5.70% |
-| 14:30 | USD | Natural Gas Storage |  | 39B | -38B |
+| 12:30 | USD | Jobless Claims 4-Week Avg. | 210.75K |  | 211.50K |
+| 12:30 | USD | Philly Fed Business Conditions (Mar) | 40.0 |  | 42.8 |
+| 12:30 | USD | Philly Fed CAPEX Index (Mar) | 25.80 |  | 14.40 |
+| 12:30 | USD | Philly Fed New Orders (Mar) | 8.6 |  | 11.7 |
+| 12:30 | USD | Philly Fed Prices Paid (Mar) | 44.70 |  | 38.90 |
+| 25 min | USD | Wholesale Inventories (MoM) (Jan) |  | 0.2% | 0.2% |
+| 25 min | USD | Wholesale Trade Sales (MoM) (Jan) |  |  | 1.0% |
+| 25 min | CNY | FDI (Feb) |  |  | -5.70% |
+| 55 min | USD | Natural Gas Storage |  | 39B | -38B |
 | 15:30 | USD | 4-Week Bill Auction |  |  | 3.640% |
 | 15:30 | USD | 8-Week Bill Auction |  |  | 3.625% |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | -3.897B |

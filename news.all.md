@@ -38,27 +38,27 @@
 | 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
 | 12:00 | USD | Moderate | Building Permits (Jan) | 1.386M | 1.376M | 1.455M |
 | 12:00 | USD | Low | Building Permits (MoM) (Jan) | -4.7% |  | 4.8% |
-| 10 min | USD | Moderate | Continuing Jobless Claims |  | 1,850K | 1,850K |
-| 10 min | USD | High | Initial Jobless Claims |  | 215K | 213K |
-| 10 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 212.00K |
-| 10 min | USD | High | Philadelphia Fed Manufacturing Index (Mar) |  | 8.3 | 16.3 |
-| 10 min | USD | Low | Philly Fed Business Conditions (Mar) |  |  | 42.8 |
-| 10 min | USD | Low | Philly Fed CAPEX Index (Mar) |  |  | 14.40 |
-| 10 min | USD | Moderate | Philly Fed Employment (Mar) |  |  | -1.3 |
-| 10 min | USD | Low | Philly Fed New Orders (Mar) |  |  | 11.7 |
-| 10 min | USD | Low | Philly Fed Prices Paid (Mar) |  |  | 38.90 |
-| 55 min | EUR | High | Deposit Facility Rate (Mar) |  | 2.00% | 2.00% |
-| 55 min | EUR | Moderate | ECB Marginal Lending Facility |  |  | 2.40% |
-| 55 min | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
-| 55 min | EUR | High | ECB Interest Rate Decision (Mar) |  | 2.15% | 2.15% |
-| 13:45 | EUR | High | ECB Press Conference |  |  |  |
-| 14:00 | USD | High | New Home Sales (Jan) |  | 722K | 745K |
-| 14:00 | USD | Moderate | New Home Sales (MoM) (Jan) |  |  | -1.7% |
-| 14:00 | USD | Moderate | US Leading Index (MoM) (Jan) |  | -0.1% | -0.2% |
-| 14:00 | USD | Low | Wholesale Inventories (MoM) (Jan) |  | 0.2% | 0.2% |
-| 14:00 | USD | Low | Wholesale Trade Sales (MoM) (Jan) |  |  | 1.0% |
-| 14:00 | CNY | Low | FDI (Feb) |  |  | -5.70% |
-| 14:30 | USD | Low | Natural Gas Storage |  | 39B | -38B |
+| 12:30 | USD | Moderate | Continuing Jobless Claims | 1,857K | 1,850K | 1,847K |
+| 12:30 | USD | High | Initial Jobless Claims | 205K | 215K | 213K |
+| 12:30 | USD | Low | Jobless Claims 4-Week Avg. | 210.75K |  | 211.50K |
+| 12:30 | USD | High | Philadelphia Fed Manufacturing Index (Mar) | 18.1 | 8.3 | 16.3 |
+| 12:30 | USD | Low | Philly Fed Business Conditions (Mar) | 40.0 |  | 42.8 |
+| 12:30 | USD | Low | Philly Fed CAPEX Index (Mar) | 25.80 |  | 14.40 |
+| 12:30 | USD | Moderate | Philly Fed Employment (Mar) | 0.8 |  | -1.3 |
+| 12:30 | USD | Low | Philly Fed New Orders (Mar) | 8.6 |  | 11.7 |
+| 12:30 | USD | Low | Philly Fed Prices Paid (Mar) | 44.70 |  | 38.90 |
+| 13:15 | EUR | High | Deposit Facility Rate (Mar) | 2.00% | 2.00% | 2.00% |
+| 13:15 | EUR | Moderate | ECB Marginal Lending Facility | 2.40% |  | 2.40% |
+| 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
+| 13:15 | EUR | High | ECB Interest Rate Decision (Mar) | 2.15% | 2.15% | 2.15% |
+| 10 min | EUR | High | ECB Press Conference |  |  |  |
+| 25 min | USD | High | New Home Sales (Jan) |  | 722K | 745K |
+| 25 min | USD | Moderate | New Home Sales (MoM) (Jan) |  |  | -1.7% |
+| 25 min | USD | Moderate | US Leading Index (MoM) (Jan) |  | -0.1% | -0.2% |
+| 25 min | USD | Low | Wholesale Inventories (MoM) (Jan) |  | 0.2% | 0.2% |
+| 25 min | USD | Low | Wholesale Trade Sales (MoM) (Jan) |  |  | 1.0% |
+| 25 min | CNY | Low | FDI (Feb) |  |  | -5.70% |
+| 55 min | USD | Low | Natural Gas Storage |  | 39B | -38B |
 | 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 15:30 | USD | Low | 4-Week Bill Auction |  |  | 3.640% |
 | 15:30 | USD | Low | 8-Week Bill Auction |  |  | 3.625% |

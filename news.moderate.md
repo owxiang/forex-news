@@ -23,12 +23,12 @@
 | 12:00 | GBP | BoE MPC vote unchanged (Mar) | 9 | 7 | 5 |
 | 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
 | 12:00 | USD | Building Permits (Jan) | 1.386M | 1.376M | 1.455M |
-| 10 min | USD | Continuing Jobless Claims |  | 1,850K | 1,850K |
-| 10 min | USD | Philly Fed Employment (Mar) |  |  | -1.3 |
-| 55 min | EUR | ECB Marginal Lending Facility |  |  | 2.40% |
-| 55 min | EUR | ECB Monetary Policy Statement |  |  |  |
-| 14:00 | USD | New Home Sales (MoM) (Jan) |  |  | -1.7% |
-| 14:00 | USD | US Leading Index (MoM) (Jan) |  | -0.1% | -0.2% |
+| 12:30 | USD | Continuing Jobless Claims | 1,857K | 1,850K | 1,847K |
+| 12:30 | USD | Philly Fed Employment (Mar) | 0.8 |  | -1.3 |
+| 13:15 | EUR | ECB Marginal Lending Facility | 2.40% |  | 2.40% |
+| 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
+| 25 min | USD | New Home Sales (MoM) (Jan) |  |  | -1.7% |
+| 25 min | USD | US Leading Index (MoM) (Jan) |  | -0.1% | -0.2% |
 | 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 17:00 | USD | 10-Year TIPS Auction |  |  | 1.940% |
 | 17:00 | USD | Atlanta Fed GDPNow (Q1) |  | 2.7% | 2.7% |
