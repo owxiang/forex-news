@@ -24,8 +24,8 @@
 | 14:30 | USD | Natural Gas Storage | 35B | 39B | -38B |
 | 15:30 | USD | 4-Week Bill Auction | 3.615% |  | 3.640% |
 | 15:30 | USD | 8-Week Bill Auction | 3.635% |  | 3.625% |
-| 14 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.073T |
-| 21:45 | NZD | Exports (Feb) |  |  | 6.21B |
-| 21:45 | NZD | Imports (Feb) |  |  | 6.73B |
-| 21:45 | NZD | Trade Balance (MoM) (Feb) |  | -740M | -519M |
-| 21:45 | NZD | Trade Balance (YoY) (Feb) |  |  | -2,310M |
+| 20:30 | USD | Reserve Balances with Federal Reserve Banks | 2.999T |  | 3.073T |
+| 30 min | NZD | Exports (Feb) |  |  | 6.21B |
+| 30 min | NZD | Imports (Feb) |  |  | 6.73B |
+| 30 min | NZD | Trade Balance (MoM) (Feb) |  | -740M | -519M |
+| 30 min | NZD | Trade Balance (YoY) (Feb) |  |  | -2,310M |
