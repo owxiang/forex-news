@@ -30,27 +30,27 @@
 | 10:00 | EUR | Moderate | Euro Summit |  |  |  |
 | 10:00 | EUR | Moderate | Wages in euro zone (YoY) (Q4) | 3.00% |  | 3.20% |
 | 10:00 | EUR | Low | Labor Cost Index (YoY) (Q4) | 3.30% |  | 3.40% |
-| 43 min | GBP | Moderate | BOE Inflation Letter |  |  |  |
-| 43 min | GBP | Moderate | BoE MPC vote cut (Mar) |  | 2 | 4 |
-| 43 min | GBP | Moderate | BoE MPC vote hike (Mar) |  | 0 | 0 |
-| 43 min | GBP | Moderate | BoE MPC vote unchanged (Mar) |  | 7 | 5 |
-| 43 min | GBP | High | BoE Interest Rate Decision (Mar) |  | 3.75% | 3.75% |
-| 43 min | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
-| 43 min | USD | Moderate | Building Permits (Jan) |  | 1.376M | 1.455M |
-| 43 min | USD | Low | Building Permits (MoM) (Jan) |  |  | 4.8% |
-| 12:30 | USD | Moderate | Continuing Jobless Claims |  | 1,850K | 1,850K |
-| 12:30 | USD | High | Initial Jobless Claims |  | 215K | 213K |
-| 12:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 212.00K |
-| 12:30 | USD | High | Philadelphia Fed Manufacturing Index (Mar) |  | 8.3 | 16.3 |
-| 12:30 | USD | Low | Philly Fed Business Conditions (Mar) |  |  | 42.8 |
-| 12:30 | USD | Low | Philly Fed CAPEX Index (Mar) |  |  | 14.40 |
-| 12:30 | USD | Moderate | Philly Fed Employment (Mar) |  |  | -1.3 |
-| 12:30 | USD | Low | Philly Fed New Orders (Mar) |  |  | 11.7 |
-| 12:30 | USD | Low | Philly Fed Prices Paid (Mar) |  |  | 38.90 |
-| 13:15 | EUR | High | Deposit Facility Rate (Mar) |  | 2.00% | 2.00% |
-| 13:15 | EUR | Moderate | ECB Marginal Lending Facility |  |  | 2.40% |
-| 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
-| 13:15 | EUR | High | ECB Interest Rate Decision (Mar) |  | 2.15% | 2.15% |
+| 12:00 | GBP | Moderate | BOE Inflation Letter |  |  |  |
+| 12:00 | GBP | Moderate | BoE MPC vote cut (Mar) | 0 | 2 | 4 |
+| 12:00 | GBP | Moderate | BoE MPC vote hike (Mar) | 0 | 0 | 0 |
+| 12:00 | GBP | Moderate | BoE MPC vote unchanged (Mar) | 9 | 7 | 5 |
+| 12:00 | GBP | High | BoE Interest Rate Decision (Mar) | 3.75% | 3.75% | 3.75% |
+| 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
+| 12:00 | USD | Moderate | Building Permits (Jan) | 1.386M | 1.376M | 1.455M |
+| 12:00 | USD | Low | Building Permits (MoM) (Jan) | -4.7% |  | 4.8% |
+| 10 min | USD | Moderate | Continuing Jobless Claims |  | 1,850K | 1,850K |
+| 10 min | USD | High | Initial Jobless Claims |  | 215K | 213K |
+| 10 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 212.00K |
+| 10 min | USD | High | Philadelphia Fed Manufacturing Index (Mar) |  | 8.3 | 16.3 |
+| 10 min | USD | Low | Philly Fed Business Conditions (Mar) |  |  | 42.8 |
+| 10 min | USD | Low | Philly Fed CAPEX Index (Mar) |  |  | 14.40 |
+| 10 min | USD | Moderate | Philly Fed Employment (Mar) |  |  | -1.3 |
+| 10 min | USD | Low | Philly Fed New Orders (Mar) |  |  | 11.7 |
+| 10 min | USD | Low | Philly Fed Prices Paid (Mar) |  |  | 38.90 |
+| 55 min | EUR | High | Deposit Facility Rate (Mar) |  | 2.00% | 2.00% |
+| 55 min | EUR | Moderate | ECB Marginal Lending Facility |  |  | 2.40% |
+| 55 min | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
+| 55 min | EUR | High | ECB Interest Rate Decision (Mar) |  | 2.15% | 2.15% |
 | 13:45 | EUR | High | ECB Press Conference |  |  |  |
 | 14:00 | USD | High | New Home Sales (Jan) |  | 722K | 745K |
 | 14:00 | USD | Moderate | New Home Sales (MoM) (Jan) |  |  | -1.7% |

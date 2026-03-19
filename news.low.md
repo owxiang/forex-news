@@ -13,12 +13,12 @@
 | 09:40 | EUR | Spanish 7-Year Obligacion Auction | 3.079% |  | 2.863% |
 | 10:00 | EUR | Construction Output (MoM) (Jan) | -0.09% |  | 0.67% |
 | 10:00 | EUR | Labor Cost Index (YoY) (Q4) | 3.30% |  | 3.40% |
-| 43 min | USD | Building Permits (MoM) (Jan) |  |  | 4.8% |
-| 12:30 | USD | Jobless Claims 4-Week Avg. |  |  | 212.00K |
-| 12:30 | USD | Philly Fed Business Conditions (Mar) |  |  | 42.8 |
-| 12:30 | USD | Philly Fed CAPEX Index (Mar) |  |  | 14.40 |
-| 12:30 | USD | Philly Fed New Orders (Mar) |  |  | 11.7 |
-| 12:30 | USD | Philly Fed Prices Paid (Mar) |  |  | 38.90 |
+| 12:00 | USD | Building Permits (MoM) (Jan) | -4.7% |  | 4.8% |
+| 10 min | USD | Jobless Claims 4-Week Avg. |  |  | 212.00K |
+| 10 min | USD | Philly Fed Business Conditions (Mar) |  |  | 42.8 |
+| 10 min | USD | Philly Fed CAPEX Index (Mar) |  |  | 14.40 |
+| 10 min | USD | Philly Fed New Orders (Mar) |  |  | 11.7 |
+| 10 min | USD | Philly Fed Prices Paid (Mar) |  |  | 38.90 |
 | 14:00 | USD | Wholesale Inventories (MoM) (Jan) |  | 0.2% | 0.2% |
 | 14:00 | USD | Wholesale Trade Sales (MoM) (Jan) |  |  | 1.0% |
 | 14:00 | CNY | FDI (Feb) |  |  | -5.70% |
