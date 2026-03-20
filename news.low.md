@@ -7,12 +7,12 @@
 | 07:00 | GBP | Public Sector Net Borrowing | 14.30B | 8.70B | -31.90B |
 | 07:00 | GBP | Public Sector Net Cash Requirement (Feb) | 7.610B |  | -59.402B |
 | 07:00 | EUR | German PPI (YoY) (Feb) | -3.3% | -2.7% | -3.0% |
-| 12 min | HKD | CPI (MoM) (Feb) |  |  | 0.20% |
-| 12 min | HKD | CPI (YoY) (Feb) |  | 1.60% | 1.10% |
-| 42 min | EUR | Italian Trade Balance (Jan) |  | 5.650B | 6.037B |
-| 42 min | EUR | Italian Trade Balance EU (Jan) |  |  | -2.45B |
-| 42 min | EUR | Current Account (Jan) |  | 17.2B | 14.6B |
-| 42 min | EUR | Current Account n.s.a. (Jan) |  |  | 34.6B |
+| 08:30 | HKD | CPI (MoM) (Feb) | 0.50% |  | 0.20% |
+| 08:30 | HKD | CPI (YoY) (Feb) | 1.70% | 1.60% | 1.10% |
+| 09:00 | EUR | Italian Trade Balance (Jan) | 1.089B | 5.650B | 5.993B |
+| 09:00 | EUR | Italian Trade Balance EU (Jan) | -1.14B |  | -2.49B |
+| 09:00 | EUR | Current Account (Jan) | 37.9B | 17.2B | 14.6B |
+| 09:00 | EUR | Current Account n.s.a. (Jan) | 13.0B |  | 34.6B |
 | 11:00 | GBP | CBI Industrial Trends Orders (Mar) |  | -30 | -28 |
 | 11:30 | INR | Bank Loan Growth |  |  | 13.6% |
 | 11:30 | INR | Deposit Growth |  |  |  |

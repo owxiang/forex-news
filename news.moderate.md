@@ -5,8 +5,8 @@
 | 01:00 | CNY | China Loan Prime Rate 5Y (Mar) | 3.50% | 3.50% | 3.50% |
 | 01:00 | CNY | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
 | 07:00 | EUR | German PPI (MoM) (Feb) | -0.5% | 0.3% | -0.6% |
-| 10:00 | EUR | Euro Summit |  |  |  |
-| 10:00 | EUR | Trade Balance (Jan) |  | 12.8B | 12.6B |
+| 41 min | EUR | Euro Summit |  |  |  |
+| 41 min | EUR | Trade Balance (Jan) |  | 12.8B | 12.6B |
 | 12:30 | CAD | Core Retail Sales (MoM) (Jan) |  | 1.2% | 0.1% |
 | 12:30 | CAD | New Housing Price Index (MoM) (Feb) |  | -0.2% | -0.4% |
 | 12:30 | CAD | Retail Sales (MoM) (Jan) |  | -0.4% | -0.4% |
