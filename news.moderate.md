@@ -1,35 +1,26 @@
-## 19 March 2026 - Moderate Impact Forex News
+## 20 March 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Employment Change (Feb) | 48.9K | 20.8K | 26.1K |
-| 00:30 | AUD | Full Employment Change (Feb) | -30.5K |  | 54.6K |
-| 00:30 | AUD | RBA Financial Stability Review |  |  |  |
-| 00:30 | AUD | Unemployment Rate (Feb) | 4.3% | 4.1% | 4.1% |
-| 02:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
-| 04:30 | JPY | Industrial Production (MoM) (Jan) | 4.3% | 2.2% | 0.6% |
-| 06:30 | JPY | BoJ Press Conference |  |  |  |
-| 07:00 | GBP | Average Earnings Index +Bonus (Jan) | 3.9% | 3.9% | 4.2% |
-| 07:00 | GBP | Claimant Count Change (Feb) | 24.7K | 25.8K | 4.7K |
-| 07:00 | GBP | Employment Change 3M/3M (MoM) (Jan) | 84K | -4K | 52K |
-| 07:00 | GBP | Unemployment Rate (Jan) | 5.2% | 5.3% | 5.2% |
-| 08:30 | CHF | SNB Monetary Policy Assessment |  |  |  |
-| 09:00 | CHF | SNB Press Conference |  |  |  |
+| 20 min | CNY | China Loan Prime Rate 5Y (Mar) |  | 3.50% | 3.50% |
+| 35 min | CNY | PBoC Loan Prime Rate |  | 3.00% | 3.00% |
+| 07:00 | EUR | German PPI (MoM) (Feb) |  | 0.3% | -0.6% |
 | 10:00 | EUR | Euro Summit |  |  |  |
-| 10:00 | EUR | Wages in euro zone (YoY) (Q4) | 3.00% |  | 3.20% |
-| 12:00 | GBP | BOE Inflation Letter |  |  |  |
-| 12:00 | GBP | BoE MPC vote cut (Mar) | 0 | 2 | 4 |
-| 12:00 | GBP | BoE MPC vote hike (Mar) | 0 | 0 | 0 |
-| 12:00 | GBP | BoE MPC vote unchanged (Mar) | 9 | 7 | 5 |
-| 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
-| 12:00 | USD | Building Permits (Jan) | 1.386M | 1.376M | 1.455M |
-| 12:30 | USD | Continuing Jobless Claims | 1,857K | 1,850K | 1,847K |
-| 12:30 | USD | Philly Fed Employment (Mar) | 0.8 |  | -1.3 |
-| 13:15 | EUR | ECB Marginal Lending Facility | 2.40% |  | 2.40% |
-| 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
-| 14:00 | USD | New Home Sales (MoM) (Jan) | -17.6% |  | -6.8% |
-| 14:00 | USD | US Leading Index (MoM) (Jan) | -0.1% | -0.1% | -0.2% |
-| 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 15:30 | USD | Atlanta Fed GDPNow (Q1) | 2.3% | 2.7% | 2.7% |
-| 17:00 | USD | 10-Year TIPS Auction | 1.896% |  | 1.940% |
-| 20:30 | USD | Fed's Balance Sheet | 6,656B |  | 6,646B |
+| 10:00 | EUR | Trade Balance (Jan) |  | 12.8B | 12.6B |
+| 12:30 | CAD | Core Retail Sales (MoM) (Jan) |  | 1.2% | 0.1% |
+| 12:30 | CAD | New Housing Price Index (MoM) (Feb) |  | -0.2% | -0.4% |
+| 12:30 | CAD | Retail Sales (MoM) (Jan) |  | -0.4% | -0.4% |
+| 12:30 | CAD | RMPI (MoM) (Feb) |  | 2.4% | 7.7% |
+| 12:31 | CAD | Retail Sales (MoM) (Feb) |  |  |  |
+| 17:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 412 |
+| 17:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 553 |
+| 17:30 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | -84.2K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 228.0K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 163.1K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 24.9K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -134.5K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | 54.2K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 51.0K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | -41.4K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 105.1K |

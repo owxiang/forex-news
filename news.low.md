@@ -1,31 +1,41 @@
-## 19 March 2026 - Low Impact Forex News
+## 20 March 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Participation Rate (Feb) | 66.9% | 66.7% | 66.7% |
-| 00:30 | AUD | Reserve Assets Total (Feb) | 111.7B |  | 112.5B |
-| 02:30 | JPY | BOJ Gov Ueda Speaks |  |  |  |
-| 04:30 | JPY | Capacity Utilization (MoM) (Jan) | 2.9% |  | 0.5% |
-| 07:00 | GBP | Average Earnings ex Bonus (Jan) | 3.8% | 4.0% | 4.1% |
-| 07:00 | CHF | Trade Balance (Feb) | 4.204B |  | 3.752B |
-| 09:40 | EUR | Spanish 10-Year Obligacion Auction | 3.476% |  | 3.167% |
-| 09:40 | EUR | Spanish 5-Year Bonos Auction | 2.934% |  | 2.577% |
-| 09:40 | EUR | Spanish 7-Year Obligacion Auction | 3.079% |  | 2.863% |
-| 10:00 | EUR | Construction Output (MoM) (Jan) | -0.09% |  | 0.67% |
-| 10:00 | EUR | Labor Cost Index (YoY) (Q4) | 3.30% |  | 3.40% |
-| 12:00 | USD | Building Permits (MoM) (Jan) | -4.7% |  | 4.8% |
-| 12:30 | USD | Jobless Claims 4-Week Avg. | 210.75K |  | 211.50K |
-| 12:30 | USD | Philly Fed Business Conditions (Mar) | 40.0 |  | 42.8 |
-| 12:30 | USD | Philly Fed CAPEX Index (Mar) | 25.80 |  | 14.40 |
-| 12:30 | USD | Philly Fed New Orders (Mar) | 8.6 |  | 11.7 |
-| 12:30 | USD | Philly Fed Prices Paid (Mar) | 44.70 |  | 38.90 |
-| 14:00 | USD | Wholesale Inventories (MoM) (Jan) | -0.5% | 0.2% | 0.2% |
-| 14:00 | USD | Wholesale Trade Sales (MoM) (Jan) | 0.5% |  | 1.3% |
-| 14:30 | USD | Natural Gas Storage | 35B | 39B | -38B |
-| 15:30 | USD | 4-Week Bill Auction | 3.615% |  | 3.640% |
-| 15:30 | USD | 8-Week Bill Auction | 3.635% |  | 3.625% |
-| 20:30 | USD | Reserve Balances with Federal Reserve Banks | 2.999T |  | 3.073T |
-| 21:45 | NZD | Exports (Feb) | 6.63B |  | 6.10B |
-| 21:45 | NZD | Imports (Feb) | 6.89B |  | 6.73B |
-| 21:45 | NZD | Trade Balance (MoM) (Feb) | -257M | -740M | -627M |
-| 21:45 | NZD | Trade Balance (YoY) (Feb) | -3,000M |  | -2,300M |
+| 02:00 | NZD | Credit Card Spending (YoY) (Feb) |  |  | 1.0% |
+| 02:30 | SGD | Unemployment Rate (Q4) |  | 2.0% | 2.0% |
+| 02:30 | SGD | Unemployment Rate (Q4) |  |  | 2.0% |
+| 07:00 | GBP | Public Sector Net Borrowing |  | 8.70B | -30.40B |
+| 07:00 | GBP | Public Sector Net Cash Requirement (Feb) |  |  | -59.306B |
+| 07:00 | EUR | German PPI (YoY) (Feb) |  | -2.7% | -3.0% |
+| 08:30 | HKD | CPI (MoM) (Feb) |  |  | 0.20% |
+| 08:30 | HKD | CPI (YoY) (Feb) |  | 1.60% | 1.10% |
+| 09:00 | EUR | Italian Trade Balance (Jan) |  | 5.650B | 6.037B |
+| 09:00 | EUR | Italian Trade Balance EU (Jan) |  |  | -2.45B |
+| 09:00 | EUR | Current Account (Jan) |  | 17.2B | 14.6B |
+| 09:00 | EUR | Current Account n.s.a. (Jan) |  |  | 34.6B |
+| 10:00 | EUR | Spanish Consumer Confidence (Feb) |  |  | 80.5 |
+| 11:00 | GBP | CBI Industrial Trends Orders (Mar) |  | -30 | -28 |
+| 11:30 | INR | Bank Loan Growth |  |  | 13.6% |
+| 11:30 | INR | Deposit Growth |  |  |  |
+| 11:30 | INR | FX Reserves, USD |  |  | 716.81B |
+| 11:30 | INR | Infrastructure Output (YoY) |  |  | 4.0% |
+| 12:00 | MXN | Aggregate Demand (QoQ) (Q4) |  |  | 0.70% |
+| 12:00 | MXN | Aggregate Demand (YoY) (Q4) |  |  | 1.10% |
+| 12:00 | MXN | Private Spending (QoQ) (Q4) |  |  | 1.10% |
+| 12:00 | MXN | Private Spending (YoY) (Q4) |  |  | 1.60% |
+| 12:00 | CNY | FDI (Feb) |  |  | -5.70% |
+| 12:30 | CAD | IPPI (MoM) (Feb) |  | 1.1% | 2.7% |
+| 12:30 | CAD | IPPI (YoY) (Feb) |  |  | 5.4% |
+| 12:30 | CAD | RMPI (YoY) (Feb) |  |  | 8.0% |
+| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -1.6K |
+| 20:30 | USD | CFTC Copper speculative net positions |  |  | 51.7K |
+| 20:30 | USD | CFTC Corn speculative net positions |  |  | 257.8K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -186.9K |
+| 20:30 | USD | CFTC Silver speculative net positions |  |  | 24.6K |
+| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 230.3K |
+| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -29.2K |
+| 20:30 | CAD | CFTC CAD speculative net positions |  |  | 36.2K |
+| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 73.8K |
+| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -41.1K |
+| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -37.1K |
