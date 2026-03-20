@@ -14,15 +14,15 @@
 | 09:00 | EUR | Current Account (Jan) | 37.9B | 17.2B | 14.6B |
 | 09:00 | EUR | Current Account n.s.a. (Jan) | 13.0B |  | 34.6B |
 | 09:40 | CNY | FDI (Feb) | -5.70% |  | -5.70% |
-| 43 min | GBP | CBI Industrial Trends Orders (Mar) |  | -30 | -28 |
-| 11:30 | INR | Bank Loan Growth |  |  | 13.6% |
-| 11:30 | INR | Deposit Growth |  |  |  |
-| 11:30 | INR | FX Reserves, USD |  |  | 716.81B |
-| 11:30 | INR | Infrastructure Output (YoY) |  |  | 4.0% |
-| 12:00 | MXN | Aggregate Demand (QoQ) (Q4) |  |  | 0.70% |
-| 12:00 | MXN | Aggregate Demand (YoY) (Q4) |  |  | 1.10% |
-| 12:00 | MXN | Private Spending (QoQ) (Q4) |  |  | 1.10% |
-| 12:00 | MXN | Private Spending (YoY) (Q4) |  |  | 1.60% |
+| 11:00 | GBP | CBI Industrial Trends Orders (Mar) | -27 | -30 | -28 |
+| 15 min | INR | Bank Loan Growth |  |  | 13.6% |
+| 15 min | INR | Deposit Growth |  |  |  |
+| 15 min | INR | FX Reserves, USD |  |  | 716.81B |
+| 15 min | INR | Infrastructure Output (YoY) |  |  | 4.0% |
+| 45 min | MXN | Aggregate Demand (QoQ) (Q4) |  |  | 0.70% |
+| 45 min | MXN | Aggregate Demand (YoY) (Q4) |  |  | 1.10% |
+| 45 min | MXN | Private Spending (QoQ) (Q4) |  |  | 1.10% |
+| 45 min | MXN | Private Spending (YoY) (Q4) |  |  | 1.60% |
 | 12:30 | CAD | IPPI (MoM) (Feb) |  | 1.1% | 2.7% |
 | 12:30 | CAD | IPPI (YoY) (Feb) |  |  | 5.4% |
 | 12:30 | CAD | RMPI (YoY) (Feb) |  |  | 8.0% |

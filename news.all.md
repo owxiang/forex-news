@@ -19,15 +19,15 @@
 | 09:40 | CNY | Low | FDI (Feb) | -5.70% |  | -5.70% |
 | 10:00 | EUR | Moderate | Euro Summit |  |  |  |
 | 10:00 | EUR | Moderate | Trade Balance (Jan) | -1.9B | 12.8B | 11.2B |
-| 43 min | GBP | Low | CBI Industrial Trends Orders (Mar) |  | -30 | -28 |
-| 11:30 | INR | Low | Bank Loan Growth |  |  | 13.6% |
-| 11:30 | INR | Low | Deposit Growth |  |  |  |
-| 11:30 | INR | Low | FX Reserves, USD |  |  | 716.81B |
-| 11:30 | INR | Low | Infrastructure Output (YoY) |  |  | 4.0% |
-| 12:00 | MXN | Low | Aggregate Demand (QoQ) (Q4) |  |  | 0.70% |
-| 12:00 | MXN | Low | Aggregate Demand (YoY) (Q4) |  |  | 1.10% |
-| 12:00 | MXN | Low | Private Spending (QoQ) (Q4) |  |  | 1.10% |
-| 12:00 | MXN | Low | Private Spending (YoY) (Q4) |  |  | 1.60% |
+| 11:00 | GBP | Low | CBI Industrial Trends Orders (Mar) | -27 | -30 | -28 |
+| 15 min | INR | Low | Bank Loan Growth |  |  | 13.6% |
+| 15 min | INR | Low | Deposit Growth |  |  |  |
+| 15 min | INR | Low | FX Reserves, USD |  |  | 716.81B |
+| 15 min | INR | Low | Infrastructure Output (YoY) |  |  | 4.0% |
+| 45 min | MXN | Low | Aggregate Demand (QoQ) (Q4) |  |  | 0.70% |
+| 45 min | MXN | Low | Aggregate Demand (YoY) (Q4) |  |  | 1.10% |
+| 45 min | MXN | Low | Private Spending (QoQ) (Q4) |  |  | 1.10% |
+| 45 min | MXN | Low | Private Spending (YoY) (Q4) |  |  | 1.60% |
 | 12:30 | CAD | Moderate | Core Retail Sales (MoM) (Jan) |  | 1.2% | 0.1% |
 | 12:30 | CAD | Low | IPPI (MoM) (Feb) |  | 1.1% | 2.7% |
 | 12:30 | CAD | Low | IPPI (YoY) (Feb) |  |  | 5.4% |
