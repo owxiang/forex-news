@@ -21,9 +21,9 @@
 | 12:00 | MXN | Aggregate Demand (YoY) (Q4) | 4.50% |  | 1.10% |
 | 12:00 | MXN | Private Spending (QoQ) (Q4) | 1.00% |  | 1.10% |
 | 12:00 | MXN | Private Spending (YoY) (Q4) | 4.00% |  | 1.60% |
-| 11 min | CAD | IPPI (MoM) (Feb) |  | 1.1% | 2.7% |
-| 11 min | CAD | IPPI (YoY) (Feb) |  |  | 5.4% |
-| 11 min | CAD | RMPI (YoY) (Feb) |  |  | 8.0% |
+| 12:30 | CAD | IPPI (MoM) (Feb) | 0.4% | 1.1% | 2.8% |
+| 12:30 | CAD | IPPI (YoY) (Feb) | 5.4% |  | 5.6% |
+| 12:30 | CAD | RMPI (YoY) (Feb) | 8.6% |  | 8.0% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -1.6K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 51.7K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 257.8K |

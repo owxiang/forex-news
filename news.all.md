@@ -26,14 +26,14 @@
 | 12:00 | MXN | Low | Aggregate Demand (YoY) (Q4) | 4.50% |  | 1.10% |
 | 12:00 | MXN | Low | Private Spending (QoQ) (Q4) | 1.00% |  | 1.10% |
 | 12:00 | MXN | Low | Private Spending (YoY) (Q4) | 4.00% |  | 1.60% |
-| 11 min | CAD | Moderate | Core Retail Sales (MoM) (Jan) |  | 1.2% | 0.1% |
-| 11 min | CAD | Low | IPPI (MoM) (Feb) |  | 1.1% | 2.7% |
-| 11 min | CAD | Low | IPPI (YoY) (Feb) |  |  | 5.4% |
-| 11 min | CAD | Moderate | New Housing Price Index (MoM) (Feb) |  | -0.2% | -0.4% |
-| 11 min | CAD | Moderate | Retail Sales (MoM) (Jan) |  | -0.4% | -0.4% |
-| 11 min | CAD | Low | RMPI (YoY) (Feb) |  |  | 8.0% |
-| 11 min | CAD | Moderate | RMPI (MoM) (Feb) |  | 2.4% | 7.7% |
-| 12 min | CAD | Moderate | Retail Sales (MoM) (Feb) |  |  |  |
+| 12:30 | CAD | Moderate | Core Retail Sales (MoM) (Jan) | 0.8% | 1.2% | 0.0% |
+| 12:30 | CAD | Low | IPPI (MoM) (Feb) | 0.4% | 1.1% | 2.8% |
+| 12:30 | CAD | Low | IPPI (YoY) (Feb) | 5.4% |  | 5.6% |
+| 12:30 | CAD | Moderate | New Housing Price Index (MoM) (Feb) | 0.3% | -0.2% | -0.4% |
+| 12:30 | CAD | Moderate | Retail Sales (MoM) (Jan) | 1.1% | -0.4% | -0.4% |
+| 12:30 | CAD | Low | RMPI (YoY) (Feb) | 8.6% |  | 8.0% |
+| 12:30 | CAD | Moderate | RMPI (MoM) (Feb) | 0.6% | 2.4% | 7.7% |
+| 12:31 | CAD | Moderate | Retail Sales (MoM) (Feb) | 0.9% |  | 1.1% |
 | 17:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 412 |
 | 17:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 553 |
 | 17:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
