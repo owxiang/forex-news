@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 20 min | CNY | Moderate | China Loan Prime Rate 5Y (Mar) |  | 3.50% | 3.50% |
-| 35 min | CNY | Moderate | PBoC Loan Prime Rate |  | 3.00% | 3.00% |
-| 02:00 | NZD | Low | Credit Card Spending (YoY) (Feb) |  |  | 1.0% |
-| 02:30 | SGD | Low | Unemployment Rate (Q4) |  | 2.0% | 2.0% |
-| 02:30 | SGD | Low | Unemployment Rate (Q4) |  |  | 2.0% |
+| 01:00 | CNY | Moderate | China Loan Prime Rate 5Y (Mar) | 3.50% | 3.50% | 3.50% |
+| 01:00 | CNY | Moderate | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
+| 20 min | NZD | Low | Credit Card Spending (YoY) (Feb) |  |  | 1.0% |
+| 50 min | SGD | Low | Unemployment Rate (Q4) |  | 2.0% | 2.0% |
+| 50 min | SGD | Low | Unemployment Rate (Q4) |  |  | 2.0% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing |  | 8.70B | -30.40B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Feb) |  |  | -59.306B |
 | 07:00 | EUR | Moderate | German PPI (MoM) (Feb) |  | 0.3% | -0.6% |

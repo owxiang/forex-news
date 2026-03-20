@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | NZD | Credit Card Spending (YoY) (Feb) |  |  | 1.0% |
-| 02:30 | SGD | Unemployment Rate (Q4) |  | 2.0% | 2.0% |
-| 02:30 | SGD | Unemployment Rate (Q4) |  |  | 2.0% |
+| 20 min | NZD | Credit Card Spending (YoY) (Feb) |  |  | 1.0% |
+| 50 min | SGD | Unemployment Rate (Q4) |  | 2.0% | 2.0% |
+| 50 min | SGD | Unemployment Rate (Q4) |  |  | 2.0% |
 | 07:00 | GBP | Public Sector Net Borrowing |  | 8.70B | -30.40B |
 | 07:00 | GBP | Public Sector Net Cash Requirement (Feb) |  |  | -59.306B |
 | 07:00 | EUR | German PPI (YoY) (Feb) |  | -2.7% | -3.0% |

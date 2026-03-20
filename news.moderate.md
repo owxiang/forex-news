@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 20 min | CNY | China Loan Prime Rate 5Y (Mar) |  | 3.50% | 3.50% |
-| 35 min | CNY | PBoC Loan Prime Rate |  | 3.00% | 3.00% |
+| 01:00 | CNY | China Loan Prime Rate 5Y (Mar) | 3.50% | 3.50% | 3.50% |
+| 01:00 | CNY | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
 | 07:00 | EUR | German PPI (MoM) (Feb) |  | 0.3% | -0.6% |
 | 10:00 | EUR | Euro Summit |  |  |  |
 | 10:00 | EUR | Trade Balance (Jan) |  | 12.8B | 12.6B |
