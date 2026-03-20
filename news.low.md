@@ -13,7 +13,8 @@
 | 09:00 | EUR | Italian Trade Balance EU (Jan) | -1.14B |  | -2.49B |
 | 09:00 | EUR | Current Account (Jan) | 37.9B | 17.2B | 14.6B |
 | 09:00 | EUR | Current Account n.s.a. (Jan) | 13.0B |  | 34.6B |
-| 11:00 | GBP | CBI Industrial Trends Orders (Mar) |  | -30 | -28 |
+| 09:40 | CNY | FDI (Feb) | -5.70% |  | -5.70% |
+| 43 min | GBP | CBI Industrial Trends Orders (Mar) |  | -30 | -28 |
 | 11:30 | INR | Bank Loan Growth |  |  | 13.6% |
 | 11:30 | INR | Deposit Growth |  |  |  |
 | 11:30 | INR | FX Reserves, USD |  |  | 716.81B |
@@ -25,7 +26,6 @@
 | 12:30 | CAD | IPPI (MoM) (Feb) |  | 1.1% | 2.7% |
 | 12:30 | CAD | IPPI (YoY) (Feb) |  |  | 5.4% |
 | 12:30 | CAD | RMPI (YoY) (Feb) |  |  | 8.0% |
-| 14:00 | CNY | FDI (Feb) |  |  | -5.70% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -1.6K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 51.7K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 257.8K |

@@ -16,9 +16,10 @@
 | 09:00 | EUR | Low | Italian Trade Balance EU (Jan) | -1.14B |  | -2.49B |
 | 09:00 | EUR | Low | Current Account (Jan) | 37.9B | 17.2B | 14.6B |
 | 09:00 | EUR | Low | Current Account n.s.a. (Jan) | 13.0B |  | 34.6B |
-| 41 min | EUR | Moderate | Euro Summit |  |  |  |
-| 41 min | EUR | Moderate | Trade Balance (Jan) |  | 12.8B | 12.6B |
-| 11:00 | GBP | Low | CBI Industrial Trends Orders (Mar) |  | -30 | -28 |
+| 09:40 | CNY | Low | FDI (Feb) | -5.70% |  | -5.70% |
+| 10:00 | EUR | Moderate | Euro Summit |  |  |  |
+| 10:00 | EUR | Moderate | Trade Balance (Jan) | -1.9B | 12.8B | 11.2B |
+| 43 min | GBP | Low | CBI Industrial Trends Orders (Mar) |  | -30 | -28 |
 | 11:30 | INR | Low | Bank Loan Growth |  |  | 13.6% |
 | 11:30 | INR | Low | Deposit Growth |  |  |  |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 716.81B |
@@ -35,7 +36,6 @@
 | 12:30 | CAD | Low | RMPI (YoY) (Feb) |  |  | 8.0% |
 | 12:30 | CAD | Moderate | RMPI (MoM) (Feb) |  | 2.4% | 7.7% |
 | 12:31 | CAD | Moderate | Retail Sales (MoM) (Feb) |  |  |  |
-| 14:00 | CNY | Low | FDI (Feb) |  |  | -5.70% |
 | 17:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 412 |
 | 17:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 553 |
 | 17:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
