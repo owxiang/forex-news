@@ -15,17 +15,15 @@
 | 09:00 | EUR | Current Account n.s.a. (Jan) | 13.0B |  | 34.6B |
 | 09:40 | CNY | FDI (Feb) | -5.70% |  | -5.70% |
 | 11:00 | GBP | CBI Industrial Trends Orders (Mar) | -27 | -30 | -28 |
-| 15 min | INR | Bank Loan Growth |  |  | 13.6% |
-| 15 min | INR | Deposit Growth |  |  |  |
-| 15 min | INR | FX Reserves, USD |  |  | 716.81B |
-| 15 min | INR | Infrastructure Output (YoY) |  |  | 4.0% |
-| 45 min | MXN | Aggregate Demand (QoQ) (Q4) |  |  | 0.70% |
-| 45 min | MXN | Aggregate Demand (YoY) (Q4) |  |  | 1.10% |
-| 45 min | MXN | Private Spending (QoQ) (Q4) |  |  | 1.10% |
-| 45 min | MXN | Private Spending (YoY) (Q4) |  |  | 1.60% |
-| 12:30 | CAD | IPPI (MoM) (Feb) |  | 1.1% | 2.7% |
-| 12:30 | CAD | IPPI (YoY) (Feb) |  |  | 5.4% |
-| 12:30 | CAD | RMPI (YoY) (Feb) |  |  | 8.0% |
+| 11:30 | INR | FX Reserves, USD | 709.76B |  | 716.81B |
+| 11:30 | INR | Infrastructure Output (YoY) (Feb) | 2.3% |  | 4.7% |
+| 12:00 | MXN | Aggregate Demand (QoQ) (Q4) | 2.40% |  | 0.70% |
+| 12:00 | MXN | Aggregate Demand (YoY) (Q4) | 4.50% |  | 1.10% |
+| 12:00 | MXN | Private Spending (QoQ) (Q4) | 1.00% |  | 1.10% |
+| 12:00 | MXN | Private Spending (YoY) (Q4) | 4.00% |  | 1.60% |
+| 11 min | CAD | IPPI (MoM) (Feb) |  | 1.1% | 2.7% |
+| 11 min | CAD | IPPI (YoY) (Feb) |  |  | 5.4% |
+| 11 min | CAD | RMPI (YoY) (Feb) |  |  | 8.0% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -1.6K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 51.7K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 257.8K |

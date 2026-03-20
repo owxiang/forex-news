@@ -7,11 +7,11 @@
 | 07:00 | EUR | German PPI (MoM) (Feb) | -0.5% | 0.3% | -0.6% |
 | 10:00 | EUR | Euro Summit |  |  |  |
 | 10:00 | EUR | Trade Balance (Jan) | -1.9B | 12.8B | 11.2B |
-| 12:30 | CAD | Core Retail Sales (MoM) (Jan) |  | 1.2% | 0.1% |
-| 12:30 | CAD | New Housing Price Index (MoM) (Feb) |  | -0.2% | -0.4% |
-| 12:30 | CAD | Retail Sales (MoM) (Jan) |  | -0.4% | -0.4% |
-| 12:30 | CAD | RMPI (MoM) (Feb) |  | 2.4% | 7.7% |
-| 12:31 | CAD | Retail Sales (MoM) (Feb) |  |  |  |
+| 11 min | CAD | Core Retail Sales (MoM) (Jan) |  | 1.2% | 0.1% |
+| 11 min | CAD | New Housing Price Index (MoM) (Feb) |  | -0.2% | -0.4% |
+| 11 min | CAD | Retail Sales (MoM) (Jan) |  | -0.4% | -0.4% |
+| 11 min | CAD | RMPI (MoM) (Feb) |  | 2.4% | 7.7% |
+| 12 min | CAD | Retail Sales (MoM) (Feb) |  |  |  |
 | 17:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 412 |
 | 17:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 553 |
 | 17:30 | EUR | German Buba President Nagel Speaks |  |  |  |

@@ -20,22 +20,20 @@
 | 10:00 | EUR | Moderate | Euro Summit |  |  |  |
 | 10:00 | EUR | Moderate | Trade Balance (Jan) | -1.9B | 12.8B | 11.2B |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Mar) | -27 | -30 | -28 |
-| 15 min | INR | Low | Bank Loan Growth |  |  | 13.6% |
-| 15 min | INR | Low | Deposit Growth |  |  |  |
-| 15 min | INR | Low | FX Reserves, USD |  |  | 716.81B |
-| 15 min | INR | Low | Infrastructure Output (YoY) |  |  | 4.0% |
-| 45 min | MXN | Low | Aggregate Demand (QoQ) (Q4) |  |  | 0.70% |
-| 45 min | MXN | Low | Aggregate Demand (YoY) (Q4) |  |  | 1.10% |
-| 45 min | MXN | Low | Private Spending (QoQ) (Q4) |  |  | 1.10% |
-| 45 min | MXN | Low | Private Spending (YoY) (Q4) |  |  | 1.60% |
-| 12:30 | CAD | Moderate | Core Retail Sales (MoM) (Jan) |  | 1.2% | 0.1% |
-| 12:30 | CAD | Low | IPPI (MoM) (Feb) |  | 1.1% | 2.7% |
-| 12:30 | CAD | Low | IPPI (YoY) (Feb) |  |  | 5.4% |
-| 12:30 | CAD | Moderate | New Housing Price Index (MoM) (Feb) |  | -0.2% | -0.4% |
-| 12:30 | CAD | Moderate | Retail Sales (MoM) (Jan) |  | -0.4% | -0.4% |
-| 12:30 | CAD | Low | RMPI (YoY) (Feb) |  |  | 8.0% |
-| 12:30 | CAD | Moderate | RMPI (MoM) (Feb) |  | 2.4% | 7.7% |
-| 12:31 | CAD | Moderate | Retail Sales (MoM) (Feb) |  |  |  |
+| 11:30 | INR | Low | FX Reserves, USD | 709.76B |  | 716.81B |
+| 11:30 | INR | Low | Infrastructure Output (YoY) (Feb) | 2.3% |  | 4.7% |
+| 12:00 | MXN | Low | Aggregate Demand (QoQ) (Q4) | 2.40% |  | 0.70% |
+| 12:00 | MXN | Low | Aggregate Demand (YoY) (Q4) | 4.50% |  | 1.10% |
+| 12:00 | MXN | Low | Private Spending (QoQ) (Q4) | 1.00% |  | 1.10% |
+| 12:00 | MXN | Low | Private Spending (YoY) (Q4) | 4.00% |  | 1.60% |
+| 11 min | CAD | Moderate | Core Retail Sales (MoM) (Jan) |  | 1.2% | 0.1% |
+| 11 min | CAD | Low | IPPI (MoM) (Feb) |  | 1.1% | 2.7% |
+| 11 min | CAD | Low | IPPI (YoY) (Feb) |  |  | 5.4% |
+| 11 min | CAD | Moderate | New Housing Price Index (MoM) (Feb) |  | -0.2% | -0.4% |
+| 11 min | CAD | Moderate | Retail Sales (MoM) (Jan) |  | -0.4% | -0.4% |
+| 11 min | CAD | Low | RMPI (YoY) (Feb) |  |  | 8.0% |
+| 11 min | CAD | Moderate | RMPI (MoM) (Feb) |  | 2.4% | 7.7% |
+| 12 min | CAD | Moderate | Retail Sales (MoM) (Feb) |  |  |  |
 | 17:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 412 |
 | 17:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 553 |
 | 17:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
