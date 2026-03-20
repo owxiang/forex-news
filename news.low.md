@@ -4,9 +4,9 @@
 |------|----------|-------|--------|----------|----------|
 | 02:00 | NZD | Credit Card Spending (YoY) (Feb) | -1.1% |  | 0.9% |
 | 02:30 | SGD | Unemployment Rate (Q4) | 2.0% | 2.0% | 2.0% |
-| 07:00 | GBP | Public Sector Net Borrowing |  | 8.70B | -30.40B |
-| 07:00 | GBP | Public Sector Net Cash Requirement (Feb) |  |  | -59.306B |
-| 07:00 | EUR | German PPI (YoY) (Feb) |  | -2.7% | -3.0% |
+| 34 min | GBP | Public Sector Net Borrowing |  | 8.70B | -30.40B |
+| 34 min | GBP | Public Sector Net Cash Requirement (Feb) |  |  | -59.306B |
+| 34 min | EUR | German PPI (YoY) (Feb) |  | -2.7% | -3.0% |
 | 08:30 | HKD | CPI (MoM) (Feb) |  |  | 0.20% |
 | 08:30 | HKD | CPI (YoY) (Feb) |  | 1.60% | 1.10% |
 | 09:00 | EUR | Italian Trade Balance (Jan) |  | 5.650B | 6.037B |
