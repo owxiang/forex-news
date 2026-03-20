@@ -12,8 +12,8 @@
 | 12:30 | CAD | Retail Sales (MoM) (Jan) | 1.1% | -0.4% | -0.4% |
 | 12:30 | CAD | RMPI (MoM) (Feb) | 0.6% | 2.4% | 7.7% |
 | 12:31 | CAD | Retail Sales (MoM) (Feb) | 0.9% |  | 1.1% |
-| 17:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 412 |
-| 17:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 553 |
+| 41 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 412 |
+| 41 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 553 |
 | 17:30 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -84.2K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 228.0K |
