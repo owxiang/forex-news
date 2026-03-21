@@ -1,37 +1,3 @@
-## 20 March 2026 - Low Impact Forex News
+## 21 March 2026 - Low Impact Forex News
 
-| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
-|------|----------|-------|--------|----------|----------|
-| 02:00 | NZD | Credit Card Spending (YoY) (Feb) | -1.1% |  | 0.9% |
-| 02:30 | SGD | Unemployment Rate (Q4) | 2.0% | 2.0% | 2.0% |
-| 07:00 | GBP | Public Sector Net Borrowing | 14.30B | 8.70B | -31.90B |
-| 07:00 | GBP | Public Sector Net Cash Requirement (Feb) | 7.610B |  | -59.402B |
-| 07:00 | EUR | German PPI (YoY) (Feb) | -3.3% | -2.7% | -3.0% |
-| 08:30 | HKD | CPI (MoM) (Feb) | 0.50% |  | 0.20% |
-| 08:30 | HKD | CPI (YoY) (Feb) | 1.70% | 1.60% | 1.10% |
-| 09:00 | EUR | Italian Trade Balance (Jan) | 1.089B | 5.650B | 5.993B |
-| 09:00 | EUR | Italian Trade Balance EU (Jan) | -1.14B |  | -2.49B |
-| 09:00 | EUR | Current Account (Jan) | 37.9B | 17.2B | 14.6B |
-| 09:00 | EUR | Current Account n.s.a. (Jan) | 13.0B |  | 34.6B |
-| 09:40 | CNY | FDI (Feb) | -5.70% |  | -5.70% |
-| 11:00 | GBP | CBI Industrial Trends Orders (Mar) | -27 | -30 | -28 |
-| 11:30 | INR | FX Reserves, USD | 709.76B |  | 716.81B |
-| 11:30 | INR | Infrastructure Output (YoY) (Feb) | 2.3% |  | 4.7% |
-| 12:00 | MXN | Aggregate Demand (QoQ) (Q4) | 2.40% |  | 0.70% |
-| 12:00 | MXN | Aggregate Demand (YoY) (Q4) | 4.50% |  | 1.10% |
-| 12:00 | MXN | Private Spending (QoQ) (Q4) | 1.00% |  | 1.10% |
-| 12:00 | MXN | Private Spending (YoY) (Q4) | 4.00% |  | 1.60% |
-| 12:30 | CAD | IPPI (MoM) (Feb) | 0.4% | 1.1% | 2.8% |
-| 12:30 | CAD | IPPI (YoY) (Feb) | 5.4% |  | 5.6% |
-| 12:30 | CAD | RMPI (YoY) (Feb) | 8.6% |  | 8.0% |
-| 19:30 | USD | CFTC Aluminium speculative net positions | -0.7K |  | -1.6K |
-| 19:30 | USD | CFTC Copper speculative net positions | 48.0K |  | 51.7K |
-| 19:30 | USD | CFTC Corn speculative net positions | 312.3K |  | 257.8K |
-| 19:30 | USD | CFTC Natural Gas speculative net positions | -178.0K |  | -186.9K |
-| 19:30 | USD | CFTC Silver speculative net positions | 21.9K |  | 24.6K |
-| 19:30 | USD | CFTC Soybeans speculative net positions | 221.1K |  | 230.3K |
-| 19:30 | USD | CFTC Wheat speculative net positions | -25.7K |  | -29.2K |
-| 19:30 | CAD | CFTC CAD speculative net positions | 0.9K |  | 36.2K |
-| 19:30 | MXN | CFTC MXN speculative net positions | 68.5K |  | 73.8K |
-| 19:30 | CHF | CFTC CHF speculative net positions | -25.2K |  | -41.1K |
-| 19:30 | NZD | CFTC NZD speculative net positions | -23.1K |  | -37.1K |
+There is no low impact news today.
