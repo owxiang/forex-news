@@ -22,10 +22,10 @@
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.226% |  | 2.108% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.412% |  | 2.199% |
 | 15:00 | EUR | Low | Consumer Confidence (Mar) | -16.3 | -15.0 | -12.3 |
-| 2 min | USD | Low | 3-Month Bill Auction |  |  | 3.610% |
-| 2 min | USD | Low | 6-Month Bill Auction |  |  | 3.570% |
-| 32 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 2.3% | 2.3% |
+| 15:30 | USD | Low | 3-Month Bill Auction | 3.635% |  | 3.610% |
+| 15:30 | USD | Low | 6-Month Bill Auction | 3.630% |  | 3.570% |
+| 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 2.0% | 2.3% | 2.3% |
+| 16:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 21:00 | KRW | Low | PPI (MoM) (Feb) |  |  | 0.6% |
 | 21:00 | KRW | Low | PPI (YoY) (Feb) |  |  | 1.9% |
 | 22:00 | AUD | Low | S&P Global Manufacturing & Services PMI (Mar) |  |  | 52.40 |
