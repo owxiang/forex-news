@@ -26,8 +26,8 @@
 | 15:30 | USD | Low | 6-Month Bill Auction | 3.630% |  | 3.570% |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 2.0% | 2.3% | 2.3% |
 | 16:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 21:00 | KRW | Low | PPI (MoM) (Feb) |  |  | 0.6% |
-| 21:00 | KRW | Low | PPI (YoY) (Feb) |  |  | 1.9% |
+| 42 min | KRW | Low | PPI (MoM) (Feb) |  |  | 0.6% |
+| 42 min | KRW | Low | PPI (YoY) (Feb) |  |  | 1.9% |
 | 22:00 | AUD | Low | S&P Global Manufacturing & Services PMI (Mar) |  |  | 52.40 |
 | 22:00 | AUD | Low | S&P Global Manufacturing PMI (Mar) |  |  | 51.0 |
 | 22:00 | AUD | Low | S&P Global Services PMI (Mar) |  |  | 52.8 |
