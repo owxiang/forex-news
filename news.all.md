@@ -7,9 +7,9 @@
 | 05:00 | SGD | Moderate | CPI (YoY) (Feb) | 1.2% |  | 1.4% |
 | 07:00 | NOK | Low | M3 Money Supply (Feb) | 3,498.8B |  | 3,474.8B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Feb) | 4.6% |  | 4.5% |
-| 33 min | CHF | Low | M3 Money Supply (Feb) |  |  | 1,212.6B |
-| 33 min | EUR | Low | Spanish Trade Balance (Jan) |  |  | -5.57B |
-| 43 min | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 08:00 | CHF | Low | M3 Money Supply (Feb) | 1,216.0B |  | 1,215.2B |
+| 09:00 | EUR | Low | Spanish Trade Balance (Jan) | -4.00B |  | -5.57B |
+| 09:10 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | JPY | Moderate | BoJ Monthly Report |  |  |  |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
