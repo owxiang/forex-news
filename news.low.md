@@ -5,8 +5,8 @@
 | 05:00 | SGD | CPI (MoM) (Feb) | 0.60% |  | -0.50% |
 | 07:00 | NOK | M3 Money Supply (Feb) | 3,498.8B |  | 3,474.8B |
 | 07:00 | NOK | Credit Indicator (YoY) (Feb) | 4.6% |  | 4.5% |
-| 24 min | CHF | M3 Money Supply (Feb) |  |  | 1,212.6B |
-| 09:00 | EUR | Spanish Trade Balance (Jan) |  |  | -5.57B |
+| 33 min | CHF | M3 Money Supply (Feb) |  |  | 1,212.6B |
+| 33 min | EUR | Spanish Trade Balance (Jan) |  |  | -5.57B |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:00 | MXN | Retail Sales (YoY) (Jan) |  |  | 4.3% |
