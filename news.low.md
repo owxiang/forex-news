@@ -8,10 +8,10 @@
 | 08:00 | CHF | M3 Money Supply (Feb) | 1,216.0B |  | 1,215.2B |
 | 09:00 | EUR | Spanish Trade Balance (Jan) | -4.00B |  | -5.57B |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 4 min | BRL | BCB Focus Market Readout |  |  |  |
-| 39 min | MXN | Retail Sales (YoY) (Jan) |  | 3.1% | 4.3% |
-| 39 min | MXN | Retail Sales (MoM) (Jan) |  |  | -0.1% |
-| 12:30 | USD | Chicago Fed National Activity (Feb) |  |  | 0.18 |
+| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 12:00 | MXN | Retail Sales (YoY) (Jan) | 5.0% | 3.1% | 4.3% |
+| 12:00 | MXN | Retail Sales (MoM) (Jan) | 1.0% |  | -0.1% |
+| 6 min | USD | Chicago Fed National Activity (Feb) |  |  | 0.18 |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.353% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.108% |
 | 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.199% |

@@ -12,10 +12,10 @@
 | 09:10 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | JPY | Moderate | BoJ Monthly Report |  |  |  |
-| 4 min | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 39 min | MXN | Low | Retail Sales (YoY) (Jan) |  | 3.1% | 4.3% |
-| 39 min | MXN | Low | Retail Sales (MoM) (Jan) |  |  | -0.1% |
-| 12:30 | USD | Low | Chicago Fed National Activity (Feb) |  |  | 0.18 |
+| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 12:00 | MXN | Low | Retail Sales (YoY) (Jan) | 5.0% | 3.1% | 4.3% |
+| 12:00 | MXN | Low | Retail Sales (MoM) (Jan) | 1.0% |  | -0.1% |
+| 6 min | USD | Low | Chicago Fed National Activity (Feb) |  |  | 0.18 |
 | 14:00 | USD | Moderate | Construction Spending (MoM) (Jan) |  | 0.1% | 0.3% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.353% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.108% |
