@@ -15,9 +15,9 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 2.585% |  | 2.353% |
 | 14:00 | EUR | French 3-Month BTF Auction | 2.226% |  | 2.108% |
 | 14:00 | EUR | French 6-Month BTF Auction | 2.412% |  | 2.199% |
-| 30 min | EUR | Consumer Confidence (Mar) |  | -15.0 | -12.2 |
-| 15:30 | USD | 3-Month Bill Auction |  |  | 3.610% |
-| 15:30 | USD | 6-Month Bill Auction |  |  | 3.570% |
+| 15:00 | EUR | Consumer Confidence (Mar) | -16.3 | -15.0 | -12.3 |
+| 2 min | USD | 3-Month Bill Auction |  |  | 3.610% |
+| 2 min | USD | 6-Month Bill Auction |  |  | 3.570% |
 | 21:00 | KRW | PPI (MoM) (Feb) |  |  | 0.6% |
 | 21:00 | KRW | PPI (YoY) (Feb) |  |  | 1.9% |
 | 22:00 | AUD | S&P Global Manufacturing & Services PMI (Mar) |  |  | 52.40 |
