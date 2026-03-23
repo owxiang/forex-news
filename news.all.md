@@ -28,9 +28,9 @@
 | 16:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 21:00 | KRW | Low | PPI (MoM) (Feb) | 0.6% |  | 0.7% |
 | 21:00 | KRW | Low | PPI (YoY) (Feb) | 2.4% |  | 1.9% |
-| 44 min | AUD | Low | S&P Global Manufacturing & Services PMI (Mar) |  |  | 52.40 |
-| 44 min | AUD | Low | S&P Global Manufacturing PMI (Mar) |  |  | 51.0 |
-| 44 min | AUD | Low | S&P Global Services PMI (Mar) |  |  | 52.8 |
+| 22:00 | AUD | Low | S&P Global Manufacturing & Services PMI (Mar) | 47.00 |  | 52.40 |
+| 22:00 | AUD | Low | S&P Global Manufacturing PMI (Mar) | 50.1 |  | 51.0 |
+| 22:00 | AUD | Low | S&P Global Services PMI (Mar) | 46.6 |  | 52.8 |
 | 23:30 | JPY | Low | CPI, n.s.a (MoM) (Feb) |  |  | -0.1% |
 | 23:30 | JPY | Moderate | National Core CPI (YoY) (Feb) |  | 1.7% | 2.0% |
 | 23:30 | JPY | Low | National CPI (YoY) (Feb) |  |  | 1.5% |

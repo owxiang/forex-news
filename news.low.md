@@ -20,8 +20,8 @@
 | 15:30 | USD | 6-Month Bill Auction | 3.630% |  | 3.570% |
 | 21:00 | KRW | PPI (MoM) (Feb) | 0.6% |  | 0.7% |
 | 21:00 | KRW | PPI (YoY) (Feb) | 2.4% |  | 1.9% |
-| 44 min | AUD | S&P Global Manufacturing & Services PMI (Mar) |  |  | 52.40 |
-| 44 min | AUD | S&P Global Manufacturing PMI (Mar) |  |  | 51.0 |
-| 44 min | AUD | S&P Global Services PMI (Mar) |  |  | 52.8 |
+| 22:00 | AUD | S&P Global Manufacturing & Services PMI (Mar) | 47.00 |  | 52.40 |
+| 22:00 | AUD | S&P Global Manufacturing PMI (Mar) | 50.1 |  | 51.0 |
+| 22:00 | AUD | S&P Global Services PMI (Mar) | 46.6 |  | 52.8 |
 | 23:30 | JPY | CPI, n.s.a (MoM) (Feb) |  |  | -0.1% |
 | 23:30 | JPY | National CPI (YoY) (Feb) |  |  | 1.5% |
