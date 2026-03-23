@@ -23,5 +23,5 @@
 | 22:00 | AUD | S&P Global Manufacturing & Services PMI (Mar) | 47.00 |  | 52.40 |
 | 22:00 | AUD | S&P Global Manufacturing PMI (Mar) | 50.1 |  | 51.0 |
 | 22:00 | AUD | S&P Global Services PMI (Mar) | 46.6 |  | 52.8 |
-| 23:30 | JPY | CPI, n.s.a (MoM) (Feb) |  |  | -0.1% |
-| 23:30 | JPY | National CPI (YoY) (Feb) |  |  | 1.5% |
+| 17 min | JPY | CPI, n.s.a (MoM) (Feb) |  |  | -0.1% |
+| 17 min | JPY | National CPI (YoY) (Feb) |  |  | 1.5% |

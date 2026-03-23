@@ -31,7 +31,7 @@
 | 22:00 | AUD | Low | S&P Global Manufacturing & Services PMI (Mar) | 47.00 |  | 52.40 |
 | 22:00 | AUD | Low | S&P Global Manufacturing PMI (Mar) | 50.1 |  | 51.0 |
 | 22:00 | AUD | Low | S&P Global Services PMI (Mar) | 46.6 |  | 52.8 |
-| 23:30 | JPY | Low | CPI, n.s.a (MoM) (Feb) |  |  | -0.1% |
-| 23:30 | JPY | Moderate | National Core CPI (YoY) (Feb) |  | 1.7% | 2.0% |
-| 23:30 | JPY | Low | National CPI (YoY) (Feb) |  |  | 1.5% |
-| 23:30 | JPY | Moderate | National CPI (MoM) (Feb) |  |  | -0.2% |
+| 17 min | JPY | Low | CPI, n.s.a (MoM) (Feb) |  |  | -0.1% |
+| 17 min | JPY | Moderate | National Core CPI (YoY) (Feb) |  | 1.7% | 2.0% |
+| 17 min | JPY | Low | National CPI (YoY) (Feb) |  |  | 1.5% |
+| 17 min | JPY | Moderate | National CPI (MoM) (Feb) |  |  | -0.2% |
