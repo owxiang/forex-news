@@ -16,11 +16,12 @@
 | 12:00 | MXN | Low | Retail Sales (YoY) (Jan) | 5.0% | 3.1% | 4.3% |
 | 12:00 | MXN | Low | Retail Sales (MoM) (Jan) | 1.0% |  | -0.1% |
 | 12:30 | USD | Low | Chicago Fed National Activity (Feb) | -0.11 |  | 0.20 |
-| 22 min | USD | Moderate | Construction Spending (MoM) (Jan) |  | 0.1% | 0.3% |
-| 22 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.353% |
-| 22 min | EUR | Low | French 3-Month BTF Auction |  |  | 2.108% |
-| 22 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.199% |
-| 15:00 | EUR | Low | Consumer Confidence (Mar) |  | -15.0 | -12.2 |
+| 13:30 | USD | High | U.S. President Trump Speaks |  |  |  |
+| 14:00 | USD | Moderate | Construction Spending (MoM) (Jan) | -0.3% | 0.1% | 0.8% |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.585% |  | 2.353% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.226% |  | 2.108% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.412% |  | 2.199% |
+| 30 min | EUR | Low | Consumer Confidence (Mar) |  | -15.0 | -12.2 |
 | 15:30 | USD | Low | 3-Month Bill Auction |  |  | 3.610% |
 | 15:30 | USD | Low | 6-Month Bill Auction |  |  | 3.570% |
 | 16:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
