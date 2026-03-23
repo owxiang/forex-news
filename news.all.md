@@ -10,10 +10,10 @@
 | 08:00 | CHF | Low | M3 Money Supply (Feb) | 1,216.0B |  | 1,215.2B |
 | 09:00 | EUR | Low | Spanish Trade Balance (Jan) | -4.00B |  | -5.57B |
 | 09:10 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 11:00 | JPY | Moderate | BoJ Monthly Report |  |  |  |
-| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 12:00 | MXN | Low | Retail Sales (YoY) (Jan) |  |  | 4.3% |
+| 33 min | EUR | Low | German Buba Monthly Report |  |  |  |
+| 33 min | JPY | Moderate | BoJ Monthly Report |  |  |  |
+| 58 min | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 12:00 | MXN | Low | Retail Sales (YoY) (Jan) |  | 3.1% | 4.3% |
 | 12:00 | MXN | Low | Retail Sales (MoM) (Jan) |  |  | -0.1% |
 | 12:30 | USD | Low | Chicago Fed National Activity (Feb) |  |  | 0.18 |
 | 14:00 | USD | Moderate | Construction Spending (MoM) (Jan) |  | 0.1% | 0.3% |
