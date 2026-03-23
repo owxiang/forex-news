@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 10 min | SGD | Core CPI (YoY) (Feb) |  |  | 1.00% |
-| 10 min | SGD | CPI (YoY) (Feb) |  |  | 1.4% |
+| 05:00 | SGD | Core CPI (YoY) (Feb) | 1.40% |  | 1.00% |
+| 05:00 | SGD | CPI (YoY) (Feb) | 1.2% |  | 1.4% |
 | 09:10 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 11:00 | JPY | BoJ Monthly Report |  |  |  |
 | 14:00 | USD | Construction Spending (MoM) (Jan) |  | 0.1% | 0.3% |

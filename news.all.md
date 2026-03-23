@@ -2,14 +2,15 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 10 min | SGD | Moderate | Core CPI (YoY) (Feb) |  |  | 1.00% |
-| 10 min | SGD | Low | CPI (MoM) (Feb) |  |  | -0.50% |
-| 10 min | SGD | Moderate | CPI (YoY) (Feb) |  |  | 1.4% |
+| 05:00 | SGD | Moderate | Core CPI (YoY) (Feb) | 1.40% |  | 1.00% |
+| 05:00 | SGD | Low | CPI (MoM) (Feb) | 0.60% |  | -0.50% |
+| 05:00 | SGD | Moderate | CPI (YoY) (Feb) | 1.2% |  | 1.4% |
 | 07:00 | NOK | Low | M3 Money Supply (Feb) |  |  | 3,474.8B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Feb) |  |  | 4.4% |
-| 08:00 | CHF | Low | M3 Money Supply (Feb) |  |  | 1,212,594.0B |
+| 08:00 | CHF | Low | M3 Money Supply (Feb) |  |  | 1,212.6B |
 | 09:00 | EUR | Low | Spanish Trade Balance (Jan) |  |  | -5.57B |
 | 09:10 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | JPY | Moderate | BoJ Monthly Report |  |  |  |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:00 | MXN | Low | Retail Sales (YoY) (Jan) |  |  | 4.3% |
