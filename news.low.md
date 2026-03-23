@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | SGD | CPI (MoM) (Feb) |  |  | -0.50% |
+| 10 min | SGD | CPI (MoM) (Feb) |  |  | -0.50% |
 | 07:00 | NOK | M3 Money Supply (Feb) |  |  | 3,474.8B |
 | 07:00 | NOK | Credit Indicator (YoY) (Feb) |  |  | 4.4% |
 | 08:00 | CHF | M3 Money Supply (Feb) |  |  | 1,212,594.0B |

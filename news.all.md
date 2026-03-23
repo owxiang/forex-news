@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 05:00 | SGD | Moderate | Core CPI (YoY) (Feb) |  |  | 1.00% |
-| 05:00 | SGD | Low | CPI (MoM) (Feb) |  |  | -0.50% |
-| 05:00 | SGD | Moderate | CPI (YoY) (Feb) |  |  | 1.4% |
+| 10 min | SGD | Moderate | Core CPI (YoY) (Feb) |  |  | 1.00% |
+| 10 min | SGD | Low | CPI (MoM) (Feb) |  |  | -0.50% |
+| 10 min | SGD | Moderate | CPI (YoY) (Feb) |  |  | 1.4% |
 | 07:00 | NOK | Low | M3 Money Supply (Feb) |  |  | 3,474.8B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Feb) |  |  | 4.4% |
 | 08:00 | CHF | Low | M3 Money Supply (Feb) |  |  | 1,212,594.0B |
