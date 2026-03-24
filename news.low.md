@@ -35,4 +35,4 @@
 | 14:00 | USD | Richmond Services Index (Mar) | 9 |  | -8 |
 | 17:00 | USD | M2 Money Supply (MoM) (Feb) | 22.65T |  | 22.44T |
 | 17:00 | CHF | SNB Chairman Schlegel Speaks |  |  |  |
-| 21:00 | KRW | Consumer Confidence (Mar) |  |  | 112.1 |
+| 43 min | KRW | Consumer Confidence (Mar) |  |  | 112.1 |

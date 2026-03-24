@@ -22,6 +22,6 @@
 | 15:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 15:45 | EUR | ECB's Lane Speaks |  |  |  |
 | 17:00 | USD | 2-Year Note Auction | 3.936% |  | 3.455% |
-| 20:30 | USD | API Weekly Crude Oil Stock |  | -1.300M | 6.600M |
+| 13 min | USD | API Weekly Crude Oil Stock |  | -1.300M | 6.600M |
 | 22:30 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 23:50 | JPY | Monetary Policy Meeting Minutes |  |  |  |

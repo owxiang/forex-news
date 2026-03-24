@@ -57,7 +57,7 @@
 | 17:00 | USD | Moderate | 2-Year Note Auction | 3.936% |  | 3.455% |
 | 17:00 | USD | Low | M2 Money Supply (MoM) (Feb) | 22.65T |  | 22.44T |
 | 17:00 | CHF | Low | SNB Chairman Schlegel Speaks |  |  |  |
-| 20:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.300M | 6.600M |
-| 21:00 | KRW | Low | Consumer Confidence (Mar) |  |  | 112.1 |
+| 13 min | USD | Moderate | API Weekly Crude Oil Stock |  | -1.300M | 6.600M |
+| 43 min | KRW | Low | Consumer Confidence (Mar) |  |  | 112.1 |
 | 22:30 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 23:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
