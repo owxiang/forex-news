@@ -40,23 +40,23 @@
 | 12:00 | MXN | Low | Economic Activity (YoY) (Jan) | -0.30% | 1.70% | 3.30% |
 | 12:00 | MXN | Low | Economic Activity (MoM) (Jan) | -0.90% | -0.40% | 0.20% |
 | 12:15 | USD | Moderate | ADP Employment Change Weekly | 10.00K |  | 9.00K |
-| 5 min | USD | Moderate | Nonfarm Productivity (QoQ) (Q4) |  | 2.8% | 2.8% |
-| 5 min | USD | Moderate | Unit Labor Costs (QoQ) (Q4) |  | 2.8% | 2.8% |
-| 5 min | CAD | Low | Manufacturing Sales (MoM) (Feb) |  |  | -3.0% |
-| 30 min | USD | Low | Redbook (YoY) |  |  | 6.4% |
+| 12:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q4) | 1.8% | 2.8% | 4.9% |
+| 12:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q4) | 4.4% | 2.8% | 1.0% |
+| 12:30 | CAD | Low | Manufacturing Sales (MoM) (Feb) | 3.8% |  | -3.0% |
+| 12:55 | USD | Low | Redbook (YoY) | 6.7% |  | 6.4% |
 | 13:25 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 13:45 | USD | High | S&P Global Manufacturing PMI (Mar) |  | 51.5 | 51.6 |
-| 13:45 | USD | Moderate | S&P Global Composite PMI (Mar) |  |  | 51.9 |
-| 13:45 | USD | High | S&P Global Services PMI (Mar) |  | 52.0 | 51.7 |
-| 14:00 | USD | Low | Richmond Manufacturing Index (Mar) |  | -8 | -10 |
-| 14:00 | USD | Low | Richmond Manufacturing Shipments (Mar) |  |  | -13 |
-| 14:00 | USD | Low | Richmond Services Index (Mar) |  |  | -8 |
+| 8 min | USD | High | S&P Global Manufacturing PMI (Mar) |  | 51.5 | 51.6 |
+| 8 min | USD | Moderate | S&P Global Composite PMI (Mar) |  |  | 51.9 |
+| 8 min | USD | High | S&P Global Services PMI (Mar) |  | 52.0 | 51.7 |
+| 23 min | USD | Low | Richmond Manufacturing Index (Mar) |  | -8 | -10 |
+| 23 min | USD | Low | Richmond Manufacturing Shipments (Mar) |  |  | -13 |
+| 23 min | USD | Low | Richmond Services Index (Mar) |  |  | -8 |
 | 15:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 15:45 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 17:00 | USD | Moderate | 2-Year Note Auction |  |  | 3.455% |
 | 17:00 | USD | Low | M2 Money Supply (MoM) (Feb) |  |  | 22.44T |
 | 17:00 | CHF | Low | SNB Chairman Schlegel Speaks |  |  |  |
-| 20:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 6.600M |
+| 20:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.300M | 6.600M |
 | 21:00 | KRW | Low | Consumer Confidence (Mar) |  |  | 112.1 |
 | 22:30 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 23:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
