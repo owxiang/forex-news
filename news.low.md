@@ -19,14 +19,14 @@
 | 08:15 | EUR | HCOB France Composite PMI (Mar) | 48.3 |  | 49.9 |
 | 08:30 | EUR | HCOB Germany Composite PMI (Mar) | 51.9 | 51.8 | 53.2 |
 | 10:10 | GBP | 10-Year Treasury Gilt Auction | 4.911% |  | 4.585% |
-| 8 min | EUR | German 5-Year Bobl Auction |  |  | 2.430% |
-| 38 min | GBP | CBI Distributive Trades Survey (Mar) |  | -40 | -43 |
-| 38 min | EUR | German Buba Monthly Report |  |  |  |
-| 38 min | BRL | BCB Copom Meeting Minutes |  |  |  |
-| 12:00 | MXN | 1st Half-Month Core CPI (Mar) |  | 0.23% | 0.22% |
-| 12:00 | MXN | 1st Half-Month CPI (Mar) |  | 0.35% | 0.25% |
-| 12:00 | MXN | Economic Activity (YoY) (Jan) |  | 1.70% | 3.30% |
-| 12:00 | MXN | Economic Activity (MoM) (Jan) |  | -0.40% | 0.40% |
+| 10:30 | EUR | German 5-Year Bobl Auction | 2.720% |  | 2.430% |
+| 11:00 | GBP | CBI Distributive Trades Survey (Mar) | -52 | -40 | -43 |
+| 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 11:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
+| 39 min | MXN | 1st Half-Month Core CPI (Mar) |  | 0.23% | 0.22% |
+| 39 min | MXN | 1st Half-Month CPI (Mar) |  | 0.35% | 0.25% |
+| 39 min | MXN | Economic Activity (YoY) (Jan) |  | 1.70% | 3.30% |
+| 39 min | MXN | Economic Activity (MoM) (Jan) |  | -0.40% | 0.40% |
 | 12:30 | CAD | Manufacturing Sales (MoM) (Feb) |  |  | -3.0% |
 | 12:55 | USD | Redbook (YoY) |  |  | 6.4% |
 | 14:00 | USD | Richmond Manufacturing Index (Mar) |  | -8 | -10 |

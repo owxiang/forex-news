@@ -31,15 +31,15 @@
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Mar) | 51.4 | 50.0 | 51.7 |
 | 09:30 | GBP | Moderate | S&P Global Services PMI (Mar) | 51.2 | 52.8 | 53.9 |
 | 10:10 | GBP | Low | 10-Year Treasury Gilt Auction | 4.911% |  | 4.585% |
-| 8 min | EUR | Low | German 5-Year Bobl Auction |  |  | 2.430% |
-| 38 min | GBP | Low | CBI Distributive Trades Survey (Mar) |  | -40 | -43 |
-| 38 min | EUR | Low | German Buba Monthly Report |  |  |  |
-| 38 min | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
-| 12:00 | MXN | Low | 1st Half-Month Core CPI (Mar) |  | 0.23% | 0.22% |
-| 12:00 | MXN | Low | 1st Half-Month CPI (Mar) |  | 0.35% | 0.25% |
-| 12:00 | MXN | Low | Economic Activity (YoY) (Jan) |  | 1.70% | 3.30% |
-| 12:00 | MXN | Low | Economic Activity (MoM) (Jan) |  | -0.40% | 0.40% |
-| 12:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 9.00K |
+| 10:30 | EUR | Low | German 5-Year Bobl Auction | 2.720% |  | 2.430% |
+| 11:00 | GBP | Low | CBI Distributive Trades Survey (Mar) | -52 | -40 | -43 |
+| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 11:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
+| 39 min | MXN | Low | 1st Half-Month Core CPI (Mar) |  | 0.23% | 0.22% |
+| 39 min | MXN | Low | 1st Half-Month CPI (Mar) |  | 0.35% | 0.25% |
+| 39 min | MXN | Low | Economic Activity (YoY) (Jan) |  | 1.70% | 3.30% |
+| 39 min | MXN | Low | Economic Activity (MoM) (Jan) |  | -0.40% | 0.40% |
+| 54 min | USD | Moderate | ADP Employment Change Weekly |  |  | 9.00K |
 | 12:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q4) |  | 2.8% | 4.9% |
 | 12:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q4) |  | 2.8% | -1.9% |
 | 12:30 | CAD | Low | Manufacturing Sales (MoM) (Feb) |  |  | -3.0% |
