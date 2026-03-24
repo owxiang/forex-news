@@ -16,17 +16,17 @@
 | 05:00 | EUR | Low | German Car Registration (YoY) (Feb) | 3.8% |  | -6.6% |
 | 05:00 | EUR | Low | French Car Registration (MoM) (Feb) | 12.7% |  | -38.0% |
 | 05:00 | EUR | Low | French Car Registration (YoY) (Feb) | -14.7% |  | -6.6% |
-| 07:00 | ZAR | Low | Leading Indicators (Jan) |  |  | 117.20% |
+| 07:00 | ZAR | Low | Leading Indicators (Jan) | 118.20% |  | 117.71% |
 | 08:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Mar) |  | 49.4 | 50.1 |
-| 08:15 | EUR | Low | HCOB France Composite PMI (Mar) |  |  | 49.9 |
-| 08:15 | EUR | Moderate | HCOB France Services PMI (Mar) |  | 49.2 | 49.6 |
-| 08:30 | EUR | Low | HCOB Germany Composite PMI (Mar) |  | 51.8 | 53.2 |
-| 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Mar) |  | 49.6 | 50.9 |
-| 08:30 | EUR | Moderate | HCOB Germany Services PMI (Mar) |  | 52.5 | 53.5 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Mar) |  | 49.4 | 50.8 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Mar) |  | 51.0 | 51.9 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Mar) |  | 51.1 | 51.9 |
+| 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Mar) | 50.2 | 49.4 | 50.1 |
+| 08:15 | EUR | Low | HCOB France Composite PMI (Mar) | 48.3 |  | 49.9 |
+| 08:15 | EUR | Moderate | HCOB France Services PMI (Mar) | 48.3 | 49.2 | 49.6 |
+| 8 min | EUR | Low | HCOB Germany Composite PMI (Mar) |  | 51.8 | 53.2 |
+| 8 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Mar) |  | 49.6 | 50.9 |
+| 8 min | EUR | Moderate | HCOB Germany Services PMI (Mar) |  | 52.5 | 53.5 |
+| 38 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Mar) |  | 49.4 | 50.8 |
+| 38 min | EUR | Moderate | HCOB Eurozone Composite PMI (Mar) |  | 51.0 | 51.9 |
+| 38 min | EUR | Moderate | HCOB Eurozone Services PMI (Mar) |  | 51.1 | 51.9 |
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (Mar) |  | 52.8 | 53.7 |
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Mar) |  | 50.0 | 51.7 |
 | 09:30 | GBP | Moderate | S&P Global Services PMI (Mar) |  | 52.8 | 53.9 |
@@ -40,15 +40,15 @@
 | 12:00 | MXN | Low | Economic Activity (YoY) (Jan) |  | 1.70% | 3.30% |
 | 12:00 | MXN | Low | Economic Activity (MoM) (Jan) |  | -0.40% | 0.40% |
 | 12:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 9.00K |
-| 12:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q4) |  | 2.4% | 4.9% |
-| 12:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q4) |  | 3.4% | -1.9% |
+| 12:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q4) |  | 2.8% | 4.9% |
+| 12:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q4) |  | 2.8% | -1.9% |
 | 12:30 | CAD | Low | Manufacturing Sales (MoM) (Feb) |  |  | -3.0% |
 | 12:55 | USD | Low | Redbook (YoY) |  |  | 6.4% |
-| 13:45 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 13:45 | USD | High | S&P Global Manufacturing PMI (Mar) |  | 51.0 | 51.6 |
+| 13:25 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 13:45 | USD | High | S&P Global Manufacturing PMI (Mar) |  | 51.5 | 51.6 |
 | 13:45 | USD | Moderate | S&P Global Composite PMI (Mar) |  |  | 51.9 |
-| 13:45 | USD | High | S&P Global Services PMI (Mar) |  | 51.7 | 51.7 |
-| 14:00 | USD | Low | Richmond Manufacturing Index (Mar) |  | -5 | -10 |
+| 13:45 | USD | High | S&P Global Services PMI (Mar) |  | 52.0 | 51.7 |
+| 14:00 | USD | Low | Richmond Manufacturing Index (Mar) |  | -8 | -10 |
 | 14:00 | USD | Low | Richmond Manufacturing Shipments (Mar) |  |  | -13 |
 | 14:00 | USD | Low | Richmond Services Index (Mar) |  |  | -8 |
 | 15:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |

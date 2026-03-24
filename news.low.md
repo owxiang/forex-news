@@ -15,9 +15,9 @@
 | 05:00 | EUR | German Car Registration (YoY) (Feb) | 3.8% |  | -6.6% |
 | 05:00 | EUR | French Car Registration (MoM) (Feb) | 12.7% |  | -38.0% |
 | 05:00 | EUR | French Car Registration (YoY) (Feb) | -14.7% |  | -6.6% |
-| 07:00 | ZAR | Leading Indicators (Jan) |  |  | 117.20% |
-| 08:15 | EUR | HCOB France Composite PMI (Mar) |  |  | 49.9 |
-| 08:30 | EUR | HCOB Germany Composite PMI (Mar) |  | 51.8 | 53.2 |
+| 07:00 | ZAR | Leading Indicators (Jan) | 118.20% |  | 117.71% |
+| 08:15 | EUR | HCOB France Composite PMI (Mar) | 48.3 |  | 49.9 |
+| 8 min | EUR | HCOB Germany Composite PMI (Mar) |  | 51.8 | 53.2 |
 | 10:30 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.585% |
 | 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.430% |
 | 11:00 | GBP | CBI Distributive Trades Survey (Mar) |  | -40 | -43 |
@@ -29,7 +29,7 @@
 | 12:00 | MXN | Economic Activity (MoM) (Jan) |  | -0.40% | 0.40% |
 | 12:30 | CAD | Manufacturing Sales (MoM) (Feb) |  |  | -3.0% |
 | 12:55 | USD | Redbook (YoY) |  |  | 6.4% |
-| 14:00 | USD | Richmond Manufacturing Index (Mar) |  | -5 | -10 |
+| 14:00 | USD | Richmond Manufacturing Index (Mar) |  | -8 | -10 |
 | 14:00 | USD | Richmond Manufacturing Shipments (Mar) |  |  | -13 |
 | 14:00 | USD | Richmond Services Index (Mar) |  |  | -8 |
 | 17:00 | USD | M2 Money Supply (MoM) (Feb) |  |  | 22.44T |
