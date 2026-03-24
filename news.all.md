@@ -52,8 +52,8 @@
 | 14:00 | USD | Low | Richmond Manufacturing Index (Mar) | 0 | -8 | -10 |
 | 14:00 | USD | Low | Richmond Manufacturing Shipments (Mar) | -2 |  | -13 |
 | 14:00 | USD | Low | Richmond Services Index (Mar) | 9 |  | -8 |
-| 28 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 15:45 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 15:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 15 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 17:00 | USD | Moderate | 2-Year Note Auction |  |  | 3.455% |
 | 17:00 | USD | Low | M2 Money Supply (MoM) (Feb) |  |  | 22.44T |
 | 17:00 | CHF | Low | SNB Chairman Schlegel Speaks |  |  |  |

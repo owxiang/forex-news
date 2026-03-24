@@ -19,8 +19,8 @@
 | 12:30 | USD | Unit Labor Costs (QoQ) (Q4) | 4.4% | 2.8% | 1.0% |
 | 13:25 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 13:45 | USD | S&P Global Composite PMI (Mar) | 51.4 |  | 51.9 |
-| 28 min | EUR | German Buba President Nagel Speaks |  |  |  |
-| 15:45 | EUR | ECB's Lane Speaks |  |  |  |
+| 15:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 15 min | EUR | ECB's Lane Speaks |  |  |  |
 | 17:00 | USD | 2-Year Note Auction |  |  | 3.455% |
 | 20:30 | USD | API Weekly Crude Oil Stock |  | -1.300M | 6.600M |
 | 22:30 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
