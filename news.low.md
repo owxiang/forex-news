@@ -23,12 +23,12 @@
 | 11:00 | GBP | CBI Distributive Trades Survey (Mar) | -52 | -40 | -43 |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 11:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
-| 39 min | MXN | 1st Half-Month Core CPI (Mar) |  | 0.23% | 0.22% |
-| 39 min | MXN | 1st Half-Month CPI (Mar) |  | 0.35% | 0.25% |
-| 39 min | MXN | Economic Activity (YoY) (Jan) |  | 1.70% | 3.30% |
-| 39 min | MXN | Economic Activity (MoM) (Jan) |  | -0.40% | 0.40% |
-| 12:30 | CAD | Manufacturing Sales (MoM) (Feb) |  |  | -3.0% |
-| 12:55 | USD | Redbook (YoY) |  |  | 6.4% |
+| 12:00 | MXN | 1st Half-Month Core CPI (Mar) | 0.22% | 0.23% | 0.22% |
+| 12:00 | MXN | 1st Half-Month CPI (Mar) | 0.62% | 0.35% | 0.25% |
+| 12:00 | MXN | Economic Activity (YoY) (Jan) | -0.30% | 1.70% | 3.30% |
+| 12:00 | MXN | Economic Activity (MoM) (Jan) | -0.90% | -0.40% | 0.20% |
+| 5 min | CAD | Manufacturing Sales (MoM) (Feb) |  |  | -3.0% |
+| 30 min | USD | Redbook (YoY) |  |  | 6.4% |
 | 14:00 | USD | Richmond Manufacturing Index (Mar) |  | -8 | -10 |
 | 14:00 | USD | Richmond Manufacturing Shipments (Mar) |  |  | -13 |
 | 14:00 | USD | Richmond Services Index (Mar) |  |  | -8 |
