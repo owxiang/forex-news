@@ -21,15 +21,15 @@
 | 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Mar) | 50.2 | 49.4 | 50.1 |
 | 08:15 | EUR | Low | HCOB France Composite PMI (Mar) | 48.3 |  | 49.9 |
 | 08:15 | EUR | Moderate | HCOB France Services PMI (Mar) | 48.3 | 49.2 | 49.6 |
-| 8 min | EUR | Low | HCOB Germany Composite PMI (Mar) |  | 51.8 | 53.2 |
-| 8 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Mar) |  | 49.6 | 50.9 |
-| 8 min | EUR | Moderate | HCOB Germany Services PMI (Mar) |  | 52.5 | 53.5 |
-| 38 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Mar) |  | 49.4 | 50.8 |
-| 38 min | EUR | Moderate | HCOB Eurozone Composite PMI (Mar) |  | 51.0 | 51.9 |
-| 38 min | EUR | Moderate | HCOB Eurozone Services PMI (Mar) |  | 51.1 | 51.9 |
-| 09:30 | GBP | Moderate | S&P Global Composite PMI (Mar) |  | 52.8 | 53.7 |
-| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Mar) |  | 50.0 | 51.7 |
-| 09:30 | GBP | Moderate | S&P Global Services PMI (Mar) |  | 52.8 | 53.9 |
+| 08:30 | EUR | Low | HCOB Germany Composite PMI (Mar) | 51.9 | 51.8 | 53.2 |
+| 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Mar) | 51.7 | 49.6 | 50.9 |
+| 08:30 | EUR | Moderate | HCOB Germany Services PMI (Mar) | 51.2 | 52.5 | 53.5 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Mar) | 51.4 | 49.4 | 50.8 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Mar) | 50.5 | 51.0 | 51.9 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Mar) | 50.1 | 51.1 | 51.9 |
+| 6 min | GBP | Moderate | S&P Global Composite PMI (Mar) |  | 52.8 | 53.7 |
+| 6 min | GBP | Moderate | S&P Global Manufacturing PMI (Mar) |  | 50.0 | 51.7 |
+| 6 min | GBP | Moderate | S&P Global Services PMI (Mar) |  | 52.8 | 53.9 |
 | 10:30 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.585% |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.430% |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Mar) |  | -40 | -43 |

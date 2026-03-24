@@ -17,7 +17,7 @@
 | 05:00 | EUR | French Car Registration (YoY) (Feb) | -14.7% |  | -6.6% |
 | 07:00 | ZAR | Leading Indicators (Jan) | 118.20% |  | 117.71% |
 | 08:15 | EUR | HCOB France Composite PMI (Mar) | 48.3 |  | 49.9 |
-| 8 min | EUR | HCOB Germany Composite PMI (Mar) |  | 51.8 | 53.2 |
+| 08:30 | EUR | HCOB Germany Composite PMI (Mar) | 51.9 | 51.8 | 53.2 |
 | 10:30 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.585% |
 | 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.430% |
 | 11:00 | GBP | CBI Distributive Trades Survey (Mar) |  | -40 | -43 |

@@ -6,14 +6,14 @@
 | 08:00 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 08:15 | EUR | HCOB France Manufacturing PMI (Mar) | 50.2 | 49.4 | 50.1 |
 | 08:15 | EUR | HCOB France Services PMI (Mar) | 48.3 | 49.2 | 49.6 |
-| 8 min | EUR | HCOB Germany Manufacturing PMI (Mar) |  | 49.6 | 50.9 |
-| 8 min | EUR | HCOB Germany Services PMI (Mar) |  | 52.5 | 53.5 |
-| 38 min | EUR | HCOB Eurozone Manufacturing PMI (Mar) |  | 49.4 | 50.8 |
-| 38 min | EUR | HCOB Eurozone Composite PMI (Mar) |  | 51.0 | 51.9 |
-| 38 min | EUR | HCOB Eurozone Services PMI (Mar) |  | 51.1 | 51.9 |
-| 09:30 | GBP | S&P Global Composite PMI (Mar) |  | 52.8 | 53.7 |
-| 09:30 | GBP | S&P Global Manufacturing PMI (Mar) |  | 50.0 | 51.7 |
-| 09:30 | GBP | S&P Global Services PMI (Mar) |  | 52.8 | 53.9 |
+| 08:30 | EUR | HCOB Germany Manufacturing PMI (Mar) | 51.7 | 49.6 | 50.9 |
+| 08:30 | EUR | HCOB Germany Services PMI (Mar) | 51.2 | 52.5 | 53.5 |
+| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Mar) | 51.4 | 49.4 | 50.8 |
+| 09:00 | EUR | HCOB Eurozone Composite PMI (Mar) | 50.5 | 51.0 | 51.9 |
+| 09:00 | EUR | HCOB Eurozone Services PMI (Mar) | 50.1 | 51.1 | 51.9 |
+| 6 min | GBP | S&P Global Composite PMI (Mar) |  | 52.8 | 53.7 |
+| 6 min | GBP | S&P Global Manufacturing PMI (Mar) |  | 50.0 | 51.7 |
+| 6 min | GBP | S&P Global Services PMI (Mar) |  | 52.8 | 53.9 |
 | 12:15 | USD | ADP Employment Change Weekly |  |  | 9.00K |
 | 12:30 | USD | Nonfarm Productivity (QoQ) (Q4) |  | 2.8% | 4.9% |
 | 12:30 | USD | Unit Labor Costs (QoQ) (Q4) |  | 2.8% | -1.9% |
