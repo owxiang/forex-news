@@ -33,6 +33,6 @@
 | 14:00 | USD | Richmond Manufacturing Index (Mar) | 0 | -8 | -10 |
 | 14:00 | USD | Richmond Manufacturing Shipments (Mar) | -2 |  | -13 |
 | 14:00 | USD | Richmond Services Index (Mar) | 9 |  | -8 |
-| 31 min | USD | M2 Money Supply (MoM) (Feb) |  |  | 22.44T |
-| 31 min | CHF | SNB Chairman Schlegel Speaks |  |  |  |
+| 17:00 | USD | M2 Money Supply (MoM) (Feb) | 22.65T |  | 22.44T |
+| 17:00 | CHF | SNB Chairman Schlegel Speaks |  |  |  |
 | 21:00 | KRW | Consumer Confidence (Mar) |  |  | 112.1 |

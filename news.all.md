@@ -54,9 +54,9 @@
 | 14:00 | USD | Low | Richmond Services Index (Mar) | 9 |  | -8 |
 | 15:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 15:45 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 31 min | USD | Moderate | 2-Year Note Auction |  |  | 3.455% |
-| 31 min | USD | Low | M2 Money Supply (MoM) (Feb) |  |  | 22.44T |
-| 31 min | CHF | Low | SNB Chairman Schlegel Speaks |  |  |  |
+| 17:00 | USD | Moderate | 2-Year Note Auction | 3.936% |  | 3.455% |
+| 17:00 | USD | Low | M2 Money Supply (MoM) (Feb) | 22.65T |  | 22.44T |
+| 17:00 | CHF | Low | SNB Chairman Schlegel Speaks |  |  |  |
 | 20:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.300M | 6.600M |
 | 21:00 | KRW | Low | Consumer Confidence (Mar) |  |  | 112.1 |
 | 22:30 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
