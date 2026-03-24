@@ -1,37 +1,62 @@
-## 23 March 2026 - All Forex News
+## 24 March 2026 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 05:00 | SGD | Moderate | Core CPI (YoY) (Feb) | 1.40% |  | 1.00% |
-| 05:00 | SGD | Low | CPI (MoM) (Feb) | 0.60% |  | -0.50% |
-| 05:00 | SGD | Moderate | CPI (YoY) (Feb) | 1.2% |  | 1.4% |
-| 07:00 | NOK | Low | M3 Money Supply (Feb) | 3,498.8B |  | 3,474.8B |
-| 07:00 | NOK | Low | Credit Indicator (YoY) (Feb) | 4.6% |  | 4.5% |
-| 08:00 | CHF | Low | M3 Money Supply (Feb) | 1,216.0B |  | 1,215.2B |
-| 09:00 | EUR | Low | Spanish Trade Balance (Jan) | -4.00B |  | -5.57B |
-| 09:10 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 00:30 | JPY | Low | Manufacturing & Services PMI (Mar) | 52.50 |  | 53.90 |
+| 00:30 | JPY | Low | S&P Global Manufacturing PMI (Mar) | 51.4 | 53.2 | 53.0 |
+| 00:30 | JPY | Moderate | S&P Global Services PMI (Mar) | 52.8 |  | 53.8 |
+| 05:00 | GBP | Low | Car Registration (MoM) (Feb) |  |  | -1.5% |
+| 05:00 | GBP | Low | Car Registration (YoY) (Feb) |  |  | 3.4% |
+| 05:00 | EUR | Low | Italian Car Registration (MoM) (Feb) |  |  | 31.4% |
+| 05:00 | EUR | Low | Italian Car Registration (YoY) (Feb) |  |  | 6.2% |
+| 05:00 | INR | Low | HSBC India Manufacturing PMI (Mar) |  | 56.8 | 56.9 |
+| 05:00 | INR | Low | HSBC India Services PMI (Mar) |  | 58.3 | 58.1 |
+| 05:00 | INR | Low | HSBC Manufacturing & Services PMI (Mar) |  | 58.70 | 58.90 |
+| 05:00 | EUR | Low | German Car Registration (MoM) (Feb) |  |  | -21.3% |
+| 05:00 | EUR | Low | German Car Registration (YoY) (Feb) |  |  | -6.6% |
+| 05:00 | EUR | Low | French Car Registration (MoM) (Feb) |  |  | -38.0% |
+| 05:00 | EUR | Low | French Car Registration (YoY) (Feb) |  |  | -6.6% |
+| 07:00 | ZAR | Low | Leading Indicators (Jan) |  |  | 117.20% |
+| 08:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Mar) |  | 49.0 | 50.1 |
+| 08:15 | EUR | Low | HCOB France Composite PMI (Mar) |  |  | 49.9 |
+| 08:15 | EUR | Moderate | HCOB France Services PMI (Mar) |  | 49.2 | 49.6 |
+| 08:30 | EUR | Low | HCOB Germany Composite PMI (Mar) |  | 51.8 | 53.2 |
+| 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Mar) |  | 49.8 | 50.9 |
+| 08:30 | EUR | Moderate | HCOB Germany Services PMI (Mar) |  | 52.5 | 53.5 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Mar) |  | 49.5 | 50.8 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Mar) |  | 51.1 | 51.9 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Mar) |  | 50.8 | 51.9 |
+| 09:30 | GBP | Moderate | S&P Global Composite PMI (Mar) |  | 52.8 | 53.7 |
+| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Mar) |  | 51.1 | 51.7 |
+| 09:30 | GBP | Moderate | S&P Global Services PMI (Mar) |  | 53.0 | 53.9 |
+| 10:30 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.585% |
+| 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.430% |
+| 11:00 | GBP | Low | CBI Distributive Trades Survey (Mar) |  | -40 | -43 |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 11:00 | JPY | Moderate | BoJ Monthly Report |  |  |  |
-| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 12:00 | MXN | Low | Retail Sales (YoY) (Jan) | 5.0% | 3.1% | 4.3% |
-| 12:00 | MXN | Low | Retail Sales (MoM) (Jan) | 1.0% |  | -0.1% |
-| 12:30 | USD | Low | Chicago Fed National Activity (Feb) | -0.11 |  | 0.20 |
-| 13:30 | USD | High | U.S. President Trump Speaks |  |  |  |
-| 14:00 | USD | Moderate | Construction Spending (MoM) (Jan) | -0.3% | 0.1% | 0.8% |
-| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.585% |  | 2.353% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.226% |  | 2.108% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.412% |  | 2.199% |
-| 15:00 | EUR | Low | Consumer Confidence (Mar) | -16.3 | -15.0 | -12.3 |
-| 15:30 | USD | Low | 3-Month Bill Auction | 3.635% |  | 3.610% |
-| 15:30 | USD | Low | 6-Month Bill Auction | 3.630% |  | 3.570% |
-| 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 2.0% | 2.3% | 2.3% |
-| 16:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 21:00 | KRW | Low | PPI (MoM) (Feb) | 0.6% |  | 0.7% |
-| 21:00 | KRW | Low | PPI (YoY) (Feb) | 2.4% |  | 1.9% |
-| 22:00 | AUD | Low | S&P Global Manufacturing & Services PMI (Mar) | 47.00 |  | 52.40 |
-| 22:00 | AUD | Low | S&P Global Manufacturing PMI (Mar) | 50.1 |  | 51.0 |
-| 22:00 | AUD | Low | S&P Global Services PMI (Mar) | 46.6 |  | 52.8 |
-| 17 min | JPY | Low | CPI, n.s.a (MoM) (Feb) |  |  | -0.1% |
-| 17 min | JPY | Moderate | National Core CPI (YoY) (Feb) |  | 1.7% | 2.0% |
-| 17 min | JPY | Low | National CPI (YoY) (Feb) |  |  | 1.5% |
-| 17 min | JPY | Moderate | National CPI (MoM) (Feb) |  |  | -0.2% |
+| 11:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
+| 12:00 | MXN | Low | 1st Half-Month Core CPI (Mar) |  | 0.23% | 0.22% |
+| 12:00 | MXN | Low | 1st Half-Month CPI (Mar) |  | 0.35% | 0.25% |
+| 12:00 | MXN | Low | Economic Activity (YoY) (Jan) |  | 1.70% | 3.30% |
+| 12:00 | MXN | Low | Economic Activity (MoM) (Jan) |  | -0.40% | 0.40% |
+| 12:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 9.00K |
+| 12:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q4) |  | 2.4% | 2.8% |
+| 12:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q4) |  | 3.4% | 2.8% |
+| 12:30 | CAD | Low | Manufacturing Sales (MoM) (Feb) |  |  | -3.0% |
+| 12:55 | USD | Low | Redbook (YoY) |  |  | 6.4% |
+| 13:45 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 13:45 | USD | High | S&P Global Manufacturing PMI (Mar) |  | 51.0 | 51.6 |
+| 13:45 | USD | Moderate | S&P Global Composite PMI (Mar) |  |  | 51.9 |
+| 13:45 | USD | High | S&P Global Services PMI (Mar) |  | 51.7 | 51.7 |
+| 14:00 | USD | Low | Richmond Manufacturing Index (Mar) |  | -5 | -10 |
+| 14:00 | USD | Low | Richmond Manufacturing Shipments (Mar) |  |  | -13 |
+| 14:00 | USD | Low | Richmond Services Index (Mar) |  |  | -8 |
+| 15:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 15:45 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 17:00 | USD | Moderate | 2-Year Note Auction |  |  | 3.455% |
+| 17:00 | USD | Low | M2 Money Supply (MoM) (Feb) |  |  | 22.44T |
+| 17:00 | CHF | Low | SNB Chairman Schlegel Speaks |  |  |  |
+| 20:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 6.600M |
+| 21:00 | KRW | Low | Consumer Confidence (Mar) |  |  | 112.1 |
+| 22:30 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 23:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |

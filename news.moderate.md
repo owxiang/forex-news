@@ -1,13 +1,27 @@
-## 23 March 2026 - Moderate Impact Forex News
+## 24 March 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | SGD | Core CPI (YoY) (Feb) | 1.40% |  | 1.00% |
-| 05:00 | SGD | CPI (YoY) (Feb) | 1.2% |  | 1.4% |
-| 09:10 | EUR | German Buba Mauderer Speaks |  |  |  |
-| 11:00 | JPY | BoJ Monthly Report |  |  |  |
-| 14:00 | USD | Construction Spending (MoM) (Jan) | -0.3% | 0.1% | 0.8% |
-| 15:30 | USD | Atlanta Fed GDPNow (Q1) | 2.0% | 2.3% | 2.3% |
-| 16:00 | EUR | ECB's Lane Speaks |  |  |  |
-| 17 min | JPY | National Core CPI (YoY) (Feb) |  | 1.7% | 2.0% |
-| 17 min | JPY | National CPI (MoM) (Feb) |  |  | -0.2% |
+| 00:30 | JPY | S&P Global Services PMI (Mar) | 52.8 |  | 53.8 |
+| 08:00 | EUR | German Buba Mauderer Speaks |  |  |  |
+| 08:15 | EUR | HCOB France Manufacturing PMI (Mar) |  | 49.0 | 50.1 |
+| 08:15 | EUR | HCOB France Services PMI (Mar) |  | 49.2 | 49.6 |
+| 08:30 | EUR | HCOB Germany Manufacturing PMI (Mar) |  | 49.8 | 50.9 |
+| 08:30 | EUR | HCOB Germany Services PMI (Mar) |  | 52.5 | 53.5 |
+| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Mar) |  | 49.5 | 50.8 |
+| 09:00 | EUR | HCOB Eurozone Composite PMI (Mar) |  | 51.1 | 51.9 |
+| 09:00 | EUR | HCOB Eurozone Services PMI (Mar) |  | 50.8 | 51.9 |
+| 09:30 | GBP | S&P Global Composite PMI (Mar) |  | 52.8 | 53.7 |
+| 09:30 | GBP | S&P Global Manufacturing PMI (Mar) |  | 51.1 | 51.7 |
+| 09:30 | GBP | S&P Global Services PMI (Mar) |  | 53.0 | 53.9 |
+| 12:15 | USD | ADP Employment Change Weekly |  |  | 9.00K |
+| 12:30 | USD | Nonfarm Productivity (QoQ) (Q4) |  | 2.4% | 2.8% |
+| 12:30 | USD | Unit Labor Costs (QoQ) (Q4) |  | 3.4% | 2.8% |
+| 13:45 | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 13:45 | USD | S&P Global Composite PMI (Mar) |  |  | 51.9 |
+| 15:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 15:45 | EUR | ECB's Lane Speaks |  |  |  |
+| 17:00 | USD | 2-Year Note Auction |  |  | 3.455% |
+| 20:30 | USD | API Weekly Crude Oil Stock |  |  | 6.600M |
+| 22:30 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 23:50 | JPY | Monetary Policy Meeting Minutes |  |  |  |
