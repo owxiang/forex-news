@@ -59,5 +59,5 @@
 | 17:00 | CHF | Low | SNB Chairman Schlegel Speaks |  |  |  |
 | 20:30 | USD | Moderate | API Weekly Crude Oil Stock | 2.300M | -1.300M | 6.600M |
 | 21:00 | KRW | Low | Consumer Confidence (Mar) | 107.0 |  | 112.1 |
-| 17 min | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 23:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
+| 22:30 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 37 min | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
