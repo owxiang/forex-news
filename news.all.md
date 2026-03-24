@@ -5,17 +5,17 @@
 | 00:30 | JPY | Low | Manufacturing & Services PMI (Mar) | 52.50 |  | 53.90 |
 | 00:30 | JPY | Low | S&P Global Manufacturing PMI (Mar) | 51.4 | 53.2 | 53.0 |
 | 00:30 | JPY | Moderate | S&P Global Services PMI (Mar) | 52.8 |  | 53.8 |
-| 05:00 | GBP | Low | Car Registration (MoM) (Feb) |  |  | -1.5% |
-| 05:00 | GBP | Low | Car Registration (YoY) (Feb) |  |  | 3.4% |
-| 05:00 | EUR | Low | Italian Car Registration (MoM) (Feb) |  |  | 31.4% |
-| 05:00 | EUR | Low | Italian Car Registration (YoY) (Feb) |  |  | 6.2% |
-| 05:00 | INR | Low | HSBC India Manufacturing PMI (Mar) |  | 56.8 | 56.9 |
-| 05:00 | INR | Low | HSBC India Services PMI (Mar) |  | 58.3 | 58.1 |
-| 05:00 | INR | Low | HSBC Manufacturing & Services PMI (Mar) |  | 58.70 | 58.90 |
-| 05:00 | EUR | Low | German Car Registration (MoM) (Feb) |  |  | -21.3% |
-| 05:00 | EUR | Low | German Car Registration (YoY) (Feb) |  |  | -6.6% |
-| 05:00 | EUR | Low | French Car Registration (MoM) (Feb) |  |  | -38.0% |
-| 05:00 | EUR | Low | French Car Registration (YoY) (Feb) |  |  | -6.6% |
+| 18 min | GBP | Low | Car Registration (MoM) (Feb) |  |  | -1.5% |
+| 18 min | GBP | Low | Car Registration (YoY) (Feb) |  |  | 3.4% |
+| 18 min | EUR | Low | Italian Car Registration (MoM) (Feb) |  |  | 31.4% |
+| 18 min | EUR | Low | Italian Car Registration (YoY) (Feb) |  |  | 6.2% |
+| 18 min | INR | Low | HSBC India Manufacturing PMI (Mar) |  | 56.8 | 56.9 |
+| 18 min | INR | Low | HSBC India Services PMI (Mar) |  | 58.3 | 58.1 |
+| 18 min | INR | Low | HSBC Manufacturing & Services PMI (Mar) |  | 58.70 | 58.90 |
+| 18 min | EUR | Low | German Car Registration (MoM) (Feb) |  |  | -21.3% |
+| 18 min | EUR | Low | German Car Registration (YoY) (Feb) |  |  | -6.6% |
+| 18 min | EUR | Low | French Car Registration (MoM) (Feb) |  |  | -38.0% |
+| 18 min | EUR | Low | French Car Registration (YoY) (Feb) |  |  | -6.6% |
 | 07:00 | ZAR | Low | Leading Indicators (Jan) |  |  | 117.20% |
 | 08:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Mar) |  | 49.0 | 50.1 |

@@ -4,17 +4,17 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | Manufacturing & Services PMI (Mar) | 52.50 |  | 53.90 |
 | 00:30 | JPY | S&P Global Manufacturing PMI (Mar) | 51.4 | 53.2 | 53.0 |
-| 05:00 | GBP | Car Registration (MoM) (Feb) |  |  | -1.5% |
-| 05:00 | GBP | Car Registration (YoY) (Feb) |  |  | 3.4% |
-| 05:00 | EUR | Italian Car Registration (MoM) (Feb) |  |  | 31.4% |
-| 05:00 | EUR | Italian Car Registration (YoY) (Feb) |  |  | 6.2% |
-| 05:00 | INR | HSBC India Manufacturing PMI (Mar) |  | 56.8 | 56.9 |
-| 05:00 | INR | HSBC India Services PMI (Mar) |  | 58.3 | 58.1 |
-| 05:00 | INR | HSBC Manufacturing & Services PMI (Mar) |  | 58.70 | 58.90 |
-| 05:00 | EUR | German Car Registration (MoM) (Feb) |  |  | -21.3% |
-| 05:00 | EUR | German Car Registration (YoY) (Feb) |  |  | -6.6% |
-| 05:00 | EUR | French Car Registration (MoM) (Feb) |  |  | -38.0% |
-| 05:00 | EUR | French Car Registration (YoY) (Feb) |  |  | -6.6% |
+| 18 min | GBP | Car Registration (MoM) (Feb) |  |  | -1.5% |
+| 18 min | GBP | Car Registration (YoY) (Feb) |  |  | 3.4% |
+| 18 min | EUR | Italian Car Registration (MoM) (Feb) |  |  | 31.4% |
+| 18 min | EUR | Italian Car Registration (YoY) (Feb) |  |  | 6.2% |
+| 18 min | INR | HSBC India Manufacturing PMI (Mar) |  | 56.8 | 56.9 |
+| 18 min | INR | HSBC India Services PMI (Mar) |  | 58.3 | 58.1 |
+| 18 min | INR | HSBC Manufacturing & Services PMI (Mar) |  | 58.70 | 58.90 |
+| 18 min | EUR | German Car Registration (MoM) (Feb) |  |  | -21.3% |
+| 18 min | EUR | German Car Registration (YoY) (Feb) |  |  | -6.6% |
+| 18 min | EUR | French Car Registration (MoM) (Feb) |  |  | -38.0% |
+| 18 min | EUR | French Car Registration (YoY) (Feb) |  |  | -6.6% |
 | 07:00 | ZAR | Leading Indicators (Jan) |  |  | 117.20% |
 | 08:15 | EUR | HCOB France Composite PMI (Mar) |  |  | 49.9 |
 | 08:30 | EUR | HCOB Germany Composite PMI (Mar) |  | 51.8 | 53.2 |
