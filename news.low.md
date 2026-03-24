@@ -27,11 +27,12 @@
 | 12:00 | MXN | 1st Half-Month CPI (Mar) | 0.62% | 0.35% | 0.25% |
 | 12:00 | MXN | Economic Activity (YoY) (Jan) | -0.30% | 1.70% | 3.30% |
 | 12:00 | MXN | Economic Activity (MoM) (Jan) | -0.90% | -0.40% | 0.20% |
+| 12:00 | BRL | Federal Tax Revenue (Feb) | 222.12B |  | 325.75B |
 | 12:30 | CAD | Manufacturing Sales (MoM) (Feb) | 3.8% |  | -3.0% |
 | 12:55 | USD | Redbook (YoY) | 6.7% |  | 6.4% |
-| 23 min | USD | Richmond Manufacturing Index (Mar) |  | -8 | -10 |
-| 23 min | USD | Richmond Manufacturing Shipments (Mar) |  |  | -13 |
-| 23 min | USD | Richmond Services Index (Mar) |  |  | -8 |
+| 14:00 | USD | Richmond Manufacturing Index (Mar) | 0 | -8 | -10 |
+| 14:00 | USD | Richmond Manufacturing Shipments (Mar) | -2 |  | -13 |
+| 14:00 | USD | Richmond Services Index (Mar) | 9 |  | -8 |
 | 17:00 | USD | M2 Money Supply (MoM) (Feb) |  |  | 22.44T |
 | 17:00 | CHF | SNB Chairman Schlegel Speaks |  |  |  |
 | 21:00 | KRW | Consumer Confidence (Mar) |  |  | 112.1 |

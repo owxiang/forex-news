@@ -2,5 +2,5 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 8 min | USD | S&P Global Manufacturing PMI (Mar) |  | 51.5 | 51.6 |
-| 8 min | USD | S&P Global Services PMI (Mar) |  | 52.0 | 51.7 |
+| 13:45 | USD | S&P Global Manufacturing PMI (Mar) | 52.4 | 51.5 | 51.6 |
+| 13:45 | USD | S&P Global Services PMI (Mar) | 51.1 | 52.0 | 51.7 |

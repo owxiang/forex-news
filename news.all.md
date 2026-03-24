@@ -39,19 +39,20 @@
 | 12:00 | MXN | Low | 1st Half-Month CPI (Mar) | 0.62% | 0.35% | 0.25% |
 | 12:00 | MXN | Low | Economic Activity (YoY) (Jan) | -0.30% | 1.70% | 3.30% |
 | 12:00 | MXN | Low | Economic Activity (MoM) (Jan) | -0.90% | -0.40% | 0.20% |
+| 12:00 | BRL | Low | Federal Tax Revenue (Feb) | 222.12B |  | 325.75B |
 | 12:15 | USD | Moderate | ADP Employment Change Weekly | 10.00K |  | 9.00K |
 | 12:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q4) | 1.8% | 2.8% | 4.9% |
 | 12:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q4) | 4.4% | 2.8% | 1.0% |
 | 12:30 | CAD | Low | Manufacturing Sales (MoM) (Feb) | 3.8% |  | -3.0% |
 | 12:55 | USD | Low | Redbook (YoY) | 6.7% |  | 6.4% |
 | 13:25 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 8 min | USD | High | S&P Global Manufacturing PMI (Mar) |  | 51.5 | 51.6 |
-| 8 min | USD | Moderate | S&P Global Composite PMI (Mar) |  |  | 51.9 |
-| 8 min | USD | High | S&P Global Services PMI (Mar) |  | 52.0 | 51.7 |
-| 23 min | USD | Low | Richmond Manufacturing Index (Mar) |  | -8 | -10 |
-| 23 min | USD | Low | Richmond Manufacturing Shipments (Mar) |  |  | -13 |
-| 23 min | USD | Low | Richmond Services Index (Mar) |  |  | -8 |
-| 15:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 13:45 | USD | High | S&P Global Manufacturing PMI (Mar) | 52.4 | 51.5 | 51.6 |
+| 13:45 | USD | Moderate | S&P Global Composite PMI (Mar) | 51.4 |  | 51.9 |
+| 13:45 | USD | High | S&P Global Services PMI (Mar) | 51.1 | 52.0 | 51.7 |
+| 14:00 | USD | Low | Richmond Manufacturing Index (Mar) | 0 | -8 | -10 |
+| 14:00 | USD | Low | Richmond Manufacturing Shipments (Mar) | -2 |  | -13 |
+| 14:00 | USD | Low | Richmond Services Index (Mar) | 9 |  | -8 |
+| 28 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 15:45 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 17:00 | USD | Moderate | 2-Year Note Auction |  |  | 3.455% |
 | 17:00 | USD | Low | M2 Money Supply (MoM) (Feb) |  |  | 22.44T |
