@@ -23,5 +23,5 @@
 | 15:45 | EUR | ECB's Lane Speaks |  |  |  |
 | 17:00 | USD | 2-Year Note Auction | 3.936% |  | 3.455% |
 | 20:30 | USD | API Weekly Crude Oil Stock | 2.300M | -1.300M | 6.600M |
-| 22:30 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 17 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 23:50 | JPY | Monetary Policy Meeting Minutes |  |  |  |
