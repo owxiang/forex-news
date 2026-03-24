@@ -18,11 +18,11 @@
 | 07:00 | ZAR | Leading Indicators (Jan) | 118.20% |  | 117.71% |
 | 08:15 | EUR | HCOB France Composite PMI (Mar) | 48.3 |  | 49.9 |
 | 08:30 | EUR | HCOB Germany Composite PMI (Mar) | 51.9 | 51.8 | 53.2 |
-| 10:30 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.585% |
-| 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.430% |
-| 11:00 | GBP | CBI Distributive Trades Survey (Mar) |  | -40 | -43 |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 11:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
+| 10:10 | GBP | 10-Year Treasury Gilt Auction | 4.911% |  | 4.585% |
+| 8 min | EUR | German 5-Year Bobl Auction |  |  | 2.430% |
+| 38 min | GBP | CBI Distributive Trades Survey (Mar) |  | -40 | -43 |
+| 38 min | EUR | German Buba Monthly Report |  |  |  |
+| 38 min | BRL | BCB Copom Meeting Minutes |  |  |  |
 | 12:00 | MXN | 1st Half-Month Core CPI (Mar) |  | 0.23% | 0.22% |
 | 12:00 | MXN | 1st Half-Month CPI (Mar) |  | 0.35% | 0.25% |
 | 12:00 | MXN | Economic Activity (YoY) (Jan) |  | 1.70% | 3.30% |

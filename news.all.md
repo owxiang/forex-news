@@ -27,14 +27,14 @@
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Mar) | 51.4 | 49.4 | 50.8 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Mar) | 50.5 | 51.0 | 51.9 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Mar) | 50.1 | 51.1 | 51.9 |
-| 6 min | GBP | Moderate | S&P Global Composite PMI (Mar) |  | 52.8 | 53.7 |
-| 6 min | GBP | Moderate | S&P Global Manufacturing PMI (Mar) |  | 50.0 | 51.7 |
-| 6 min | GBP | Moderate | S&P Global Services PMI (Mar) |  | 52.8 | 53.9 |
-| 10:30 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.585% |
-| 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.430% |
-| 11:00 | GBP | Low | CBI Distributive Trades Survey (Mar) |  | -40 | -43 |
-| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 11:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
+| 09:30 | GBP | Moderate | S&P Global Composite PMI (Mar) | 51.0 | 52.8 | 53.7 |
+| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Mar) | 51.4 | 50.0 | 51.7 |
+| 09:30 | GBP | Moderate | S&P Global Services PMI (Mar) | 51.2 | 52.8 | 53.9 |
+| 10:10 | GBP | Low | 10-Year Treasury Gilt Auction | 4.911% |  | 4.585% |
+| 8 min | EUR | Low | German 5-Year Bobl Auction |  |  | 2.430% |
+| 38 min | GBP | Low | CBI Distributive Trades Survey (Mar) |  | -40 | -43 |
+| 38 min | EUR | Low | German Buba Monthly Report |  |  |  |
+| 38 min | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
 | 12:00 | MXN | Low | 1st Half-Month Core CPI (Mar) |  | 0.23% | 0.22% |
 | 12:00 | MXN | Low | 1st Half-Month CPI (Mar) |  | 0.35% | 0.25% |
 | 12:00 | MXN | Low | Economic Activity (YoY) (Jan) |  | 1.70% | 3.30% |

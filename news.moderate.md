@@ -11,9 +11,9 @@
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Mar) | 51.4 | 49.4 | 50.8 |
 | 09:00 | EUR | HCOB Eurozone Composite PMI (Mar) | 50.5 | 51.0 | 51.9 |
 | 09:00 | EUR | HCOB Eurozone Services PMI (Mar) | 50.1 | 51.1 | 51.9 |
-| 6 min | GBP | S&P Global Composite PMI (Mar) |  | 52.8 | 53.7 |
-| 6 min | GBP | S&P Global Manufacturing PMI (Mar) |  | 50.0 | 51.7 |
-| 6 min | GBP | S&P Global Services PMI (Mar) |  | 52.8 | 53.9 |
+| 09:30 | GBP | S&P Global Composite PMI (Mar) | 51.0 | 52.8 | 53.7 |
+| 09:30 | GBP | S&P Global Manufacturing PMI (Mar) | 51.4 | 50.0 | 51.7 |
+| 09:30 | GBP | S&P Global Services PMI (Mar) | 51.2 | 52.8 | 53.9 |
 | 12:15 | USD | ADP Employment Change Weekly |  |  | 9.00K |
 | 12:30 | USD | Nonfarm Productivity (QoQ) (Q4) |  | 2.8% | 4.9% |
 | 12:30 | USD | Unit Labor Costs (QoQ) (Q4) |  | 2.8% | -1.9% |
