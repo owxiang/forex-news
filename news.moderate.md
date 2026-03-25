@@ -9,9 +9,9 @@
 | 09:00 | EUR | German Current Assessment (Mar) | 86.7 | 86.0 | 86.7 |
 | 09:00 | EUR | German Ifo Business Climate Index (Mar) | 86.4 | 86.2 | 88.4 |
 | 09:15 | EUR | ECB's Lane Speaks |  |  |  |
-| 12:30 | USD | Current Account (Q4) |  | -211.0B | -226.4B |
-| 12:30 | USD | Export Price Index (MoM) (Feb) |  | 0.5% | 0.6% |
-| 12:30 | USD | Import Price Index (MoM) (Feb) |  | 0.6% | 0.2% |
+| 6 min | USD | Current Account (Q4) |  | -211.0B | -226.4B |
+| 6 min | USD | Export Price Index (MoM) (Feb) |  | 0.5% | 0.6% |
+| 6 min | USD | Import Price Index (MoM) (Feb) |  | 0.6% | 0.2% |
 | 14:30 | USD | Cushing Crude Oil Inventories |  |  | 0.944M |
 | 14:30 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 17:00 | USD | 5-Year Note Auction |  |  | 3.615% |
