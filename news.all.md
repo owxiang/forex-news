@@ -60,8 +60,8 @@
 | 14:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 1.5% |  | 0.6% |
 | 14:30 | USD | Low | Gasoline Inventories | -2.593M | -2.100M | -5.436M |
 | 14:30 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 28 min | USD | Moderate | 5-Year Note Auction |  |  | 3.615% |
-| 58 min | BRL | Low | Foreign Exchange Flows |  |  | -0.708B |
+| 17:00 | USD | Moderate | 5-Year Note Auction | 3.980% |  | 3.615% |
+| 3 min | BRL | Low | Foreign Exchange Flows |  |  | -0.708B |
 | 22:15 | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
 | 23:20 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 23:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) |  | 2.6% | 2.6% |

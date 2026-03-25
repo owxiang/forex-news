@@ -46,7 +46,7 @@
 | 14:30 | USD | Heating Oil Stockpiles | -0.241M |  | -0.081M |
 | 14:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 1.5% |  | 0.6% |
 | 14:30 | USD | Gasoline Inventories | -2.593M | -2.100M | -5.436M |
-| 58 min | BRL | Foreign Exchange Flows |  |  | -0.708B |
+| 3 min | BRL | Foreign Exchange Flows |  |  | -0.708B |
 | 23:50 | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 2.6% | 2.6% |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | -992.0B |
 | 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -1,772.6B |

@@ -14,5 +14,5 @@
 | 12:30 | USD | Import Price Index (MoM) (Feb) | 1.3% | 0.6% | 0.6% |
 | 14:30 | USD | Cushing Crude Oil Inventories | 3.421M |  | 0.944M |
 | 14:30 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 28 min | USD | 5-Year Note Auction |  |  | 3.615% |
+| 17:00 | USD | 5-Year Note Auction | 3.980% |  | 3.615% |
 | 22:15 | AUD | RBA Assist Gov Kent Speaks |  |  |  |
