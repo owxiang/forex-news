@@ -12,7 +12,7 @@
 | 12:30 | USD | Current Account (Q4) | -190.7B | -211.0B | -239.1B |
 | 12:30 | USD | Export Price Index (MoM) (Feb) | 1.5% | 0.5% | 0.6% |
 | 12:30 | USD | Import Price Index (MoM) (Feb) | 1.3% | 0.6% | 0.6% |
-| 54 min | USD | Cushing Crude Oil Inventories |  |  | 0.944M |
-| 54 min | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
+| 14:30 | USD | Cushing Crude Oil Inventories | 3.421M |  | 0.944M |
+| 14:30 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 17:00 | USD | 5-Year Note Auction |  |  | 3.615% |
 | 22:15 | AUD | RBA Assist Gov Kent Speaks |  |  |  |

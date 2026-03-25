@@ -37,15 +37,15 @@
 | 11:30 | INR | M3 Money Supply | 10.7% |  | 11.5% |
 | 12:30 | USD | Export Price Index (YoY) (Feb) | 3.5% |  | 2.6% |
 | 12:30 | USD | Import Price Index (YoY) (Feb) | 1.3% |  | -0.1% |
-| 24 min | CHF | SNB Quarterly Bulletin |  |  |  |
-| 54 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.063M |
-| 54 min | USD | Crude Oil Imports |  |  | -0.692M |
-| 54 min | USD | Distillate Fuel Production |  |  | -0.075M |
-| 54 min | USD | EIA Weekly Distillates Stocks |  | -1.300M | -2.527M |
-| 54 min | USD | Gasoline Production |  |  | -0.462M |
-| 54 min | USD | Heating Oil Stockpiles |  |  | -0.081M |
-| 54 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.6% |
-| 54 min | USD | Gasoline Inventories |  | -2.100M | -5.436M |
+| 14:00 | CHF | SNB Quarterly Bulletin |  |  |  |
+| 14:30 | USD | EIA Refinery Crude Runs (WoW) | 0.366M |  | 0.063M |
+| 14:30 | USD | Crude Oil Imports | 0.846M |  | -0.692M |
+| 14:30 | USD | Distillate Fuel Production | 0.157M |  | -0.075M |
+| 14:30 | USD | EIA Weekly Distillates Stocks | 3.032M | -1.300M | -2.527M |
+| 14:30 | USD | Gasoline Production | 0.309M |  | -0.462M |
+| 14:30 | USD | Heating Oil Stockpiles | -0.241M |  | -0.081M |
+| 14:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 1.5% |  | 0.6% |
+| 14:30 | USD | Gasoline Inventories | -2.593M | -2.100M | -5.436M |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | -0.708B |
 | 23:50 | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 2.6% | 2.6% |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | -992.0B |
