@@ -15,4 +15,4 @@
 | 14:30 | USD | Cushing Crude Oil Inventories | 3.421M |  | 0.944M |
 | 14:30 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 17:00 | USD | 5-Year Note Auction | 3.980% |  | 3.615% |
-| 59 min | AUD | RBA Assist Gov Kent Speaks |  |  |  |
+| 22:15 | AUD | RBA Assist Gov Kent Speaks |  |  |  |

@@ -47,6 +47,6 @@
 | 14:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 1.5% |  | 0.6% |
 | 14:30 | USD | Gasoline Inventories | -2.593M | -2.100M | -5.436M |
 | 17:30 | BRL | Foreign Exchange Flows | -0.119B |  | -0.708B |
-| 23:50 | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 2.6% | 2.6% |
-| 23:50 | JPY | Foreign Bonds Buying |  |  | -992.0B |
-| 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -1,772.6B |
+| 35 min | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 2.6% | 2.6% |
+| 35 min | JPY | Foreign Bonds Buying |  |  | -992.0B |
+| 35 min | JPY | Foreign Investments in Japanese Stocks |  |  | -1,772.6B |
