@@ -1,38 +1,49 @@
-## 24 March 2026 - Low Impact Forex News
+## 25 March 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | JPY | Manufacturing & Services PMI (Mar) | 52.50 |  | 53.90 |
-| 00:30 | JPY | S&P Global Manufacturing PMI (Mar) | 51.4 | 53.2 | 53.0 |
-| 05:00 | GBP | Car Registration (MoM) (Feb) | -37.5% |  | -1.5% |
-| 05:00 | GBP | Car Registration (YoY) (Feb) | 7.2% |  | 3.4% |
-| 05:00 | EUR | Italian Car Registration (MoM) (Feb) | 10.7% |  | 31.4% |
-| 05:00 | EUR | Italian Car Registration (YoY) (Feb) | 14.0% |  | 6.2% |
-| 05:00 | INR | HSBC India Manufacturing PMI (Mar) | 53.8 | 56.8 | 56.9 |
-| 05:00 | INR | HSBC India Services PMI (Mar) | 57.2 | 58.3 | 58.1 |
-| 05:00 | INR | HSBC Manufacturing & Services PMI (Mar) | 56.50 | 58.70 | 58.90 |
-| 05:00 | EUR | German Car Registration (MoM) (Feb) | 8.9% |  | -21.3% |
-| 05:00 | EUR | German Car Registration (YoY) (Feb) | 3.8% |  | -6.6% |
-| 05:00 | EUR | French Car Registration (MoM) (Feb) | 12.7% |  | -38.0% |
-| 05:00 | EUR | French Car Registration (YoY) (Feb) | -14.7% |  | -6.6% |
-| 07:00 | ZAR | Leading Indicators (Jan) | 118.20% |  | 117.71% |
-| 08:15 | EUR | HCOB France Composite PMI (Mar) | 48.3 |  | 49.9 |
-| 08:30 | EUR | HCOB Germany Composite PMI (Mar) | 51.9 | 51.8 | 53.2 |
-| 10:10 | GBP | 10-Year Treasury Gilt Auction | 4.911% |  | 4.585% |
-| 10:30 | EUR | German 5-Year Bobl Auction | 2.720% |  | 2.430% |
-| 11:00 | GBP | CBI Distributive Trades Survey (Mar) | -52 | -40 | -43 |
+| 00:30 | AUD | CPI Index Number (Feb) | 101.31 |  | 101.33 |
+| 00:30 | AUD | Trimmed Mean CPI (YoY) (Feb) | 3.3% | 3.4% | 3.4% |
+| 00:30 | AUD | Monthly CPI Indicator (YoY) (Feb) |  | 3.80% | 3.80% |
+| 00:30 | AUD | Weighted mean CPI (YoY) (Feb) | 3.5% |  | 3.6% |
+| 00:30 | AUD | Weighted mean CPI (QoQ) (Jan) |  |  | 0.9% |
+| 02:40 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
+| 07:00 | GBP | Core CPI (YoY) (Feb) |  | 3.1% | 3.1% |
+| 07:00 | GBP | Core CPI (MoM) (Feb) |  |  | -0.6% |
+| 07:00 | GBP | Core PPI Output (YoY) (Feb) |  |  | 2.9% |
+| 07:00 | GBP | Core PPI Output (MoM) (Feb) |  |  | 0.2% |
+| 07:00 | GBP | Core RPI (YoY) (Feb) |  |  | 3.7% |
+| 07:00 | GBP | Core RPI (MoM) (Feb) |  |  | -0.5% |
+| 07:00 | GBP | CPI, n.s.a (Feb) |  |  | 139.50 |
+| 07:00 | GBP | PPI Input (YoY) (Feb) |  |  | -0.2% |
+| 07:00 | GBP | PPI Output (YoY) (Feb) |  |  | 2.5% |
+| 07:00 | GBP | PPI Output (MoM) (Feb) |  | 0.3% | 0.0% |
+| 07:00 | GBP | RPI (MoM) (Feb) |  | 0.6% | -0.5% |
+| 07:00 | GBP | RPI (YoY) (Feb) |  | 3.7% | 3.8% |
+| 08:00 | CHF | ZEW Expectations (Mar) |  |  | 9.8 |
+| 08:00 | EUR | Spanish PPI (YoY) (Feb) |  |  | -2.9% |
+| 09:30 | GBP | House Price Index (YoY) |  | 1.7% | 2.4% |
+| 10:30 | EUR | Italian 2-Year CTZ Auction |  |  | 2.150% |
+| 11:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.30% |
+| 11:00 | USD | MBA Mortgage Applications (WoW) |  |  | -10.9% |
+| 11:00 | USD | MBA Purchase Index |  |  | 172.9 |
+| 11:00 | USD | Mortgage Market Index |  |  | 347.1 |
+| 11:00 | USD | Mortgage Refinance Index |  |  | 1,341.0 |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 11:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
-| 12:00 | MXN | 1st Half-Month Core CPI (Mar) | 0.22% | 0.23% | 0.22% |
-| 12:00 | MXN | 1st Half-Month CPI (Mar) | 0.62% | 0.35% | 0.25% |
-| 12:00 | MXN | Economic Activity (YoY) (Jan) | -0.30% | 1.70% | 3.30% |
-| 12:00 | MXN | Economic Activity (MoM) (Jan) | -0.90% | -0.40% | 0.20% |
-| 12:00 | BRL | Federal Tax Revenue (Feb) | 222.12B |  | 325.75B |
-| 12:30 | CAD | Manufacturing Sales (MoM) (Feb) | 3.8% |  | -3.0% |
-| 12:55 | USD | Redbook (YoY) | 6.7% |  | 6.4% |
-| 14:00 | USD | Richmond Manufacturing Index (Mar) | 0 | -8 | -10 |
-| 14:00 | USD | Richmond Manufacturing Shipments (Mar) | -2 |  | -13 |
-| 14:00 | USD | Richmond Services Index (Mar) | 9 |  | -8 |
-| 17:00 | USD | M2 Money Supply (MoM) (Feb) | 22.65T |  | 22.44T |
-| 17:00 | CHF | SNB Chairman Schlegel Speaks |  |  |  |
-| 21:00 | KRW | Consumer Confidence (Mar) | 107.0 |  | 112.1 |
+| 11:00 | BRL | FGV Consumer confidence (Mar) |  |  | 86.1 |
+| 11:30 | INR | M3 Money Supply |  |  | 11.5% |
+| 12:30 | USD | Export Price Index (YoY) (Feb) |  |  | 2.6% |
+| 12:30 | USD | Import Price Index (YoY) (Feb) |  |  | -0.1% |
+| 14:00 | CHF | SNB Quarterly Bulletin |  |  |  |
+| 14:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.063M |
+| 14:30 | USD | Crude Oil Imports |  |  | -0.692M |
+| 14:30 | USD | Distillate Fuel Production |  |  | -0.075M |
+| 14:30 | USD | EIA Weekly Distillates Stocks |  |  | -2.527M |
+| 14:30 | USD | Gasoline Production |  |  | -0.462M |
+| 14:30 | USD | Heating Oil Stockpiles |  |  | -0.081M |
+| 14:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.6% |
+| 14:30 | USD | Gasoline Inventories |  |  | -5.436M |
+| 17:30 | BRL | Foreign Exchange Flows |  |  | -0.708B |
+| 23:50 | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 2.6% | 2.6% |
+| 23:50 | JPY | Foreign Bonds Buying |  |  | -992.0B |
+| 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -1,772.6B |

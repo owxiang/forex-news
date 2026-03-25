@@ -1,6 +1,6 @@
-## 24 March 2026 - High Impact Forex News
+## 25 March 2026 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:45 | USD | S&P Global Manufacturing PMI (Mar) | 52.4 | 51.5 | 51.6 |
-| 13:45 | USD | S&P Global Services PMI (Mar) | 51.1 | 52.0 | 51.7 |
+| 07:00 | GBP | CPI (YoY) (Feb) |  | 3.0% | 3.0% |
+| 14:30 | USD | Crude Oil Inventories |  | -1.400M | 6.156M |
