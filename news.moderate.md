@@ -2,14 +2,11 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 46 min | AUD | CPI (QoQ) (Q1) |  |  | 0.6% |
-| 46 min | AUD | CPI (YoY) (Q1) |  |  | 3.8% |
-| 46 min | AUD | Trimmed Mean CPI (QoQ) (Jan) |  |  | 0.9% |
 | 07:00 | GBP | CPI (MoM) (Feb) |  | 0.4% | -0.5% |
 | 07:00 | GBP | PPI Input (MoM) (Feb) |  | 0.5% | 0.4% |
 | 08:45 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 09:00 | EUR | German Business Expectations (Mar) |  | 85.8 | 90.5 |
-| 09:00 | EUR | German Current Assessment (Mar) |  | 85.6 | 86.7 |
+| 09:00 | EUR | German Business Expectations (Mar) |  | 86.0 | 90.5 |
+| 09:00 | EUR | German Current Assessment (Mar) |  | 86.0 | 86.7 |
 | 09:00 | EUR | German Ifo Business Climate Index (Mar) |  | 86.2 | 88.6 |
 | 09:15 | EUR | ECB's Lane Speaks |  |  |  |
 | 12:30 | USD | Current Account (Q4) |  | -211.0B | -226.4B |
