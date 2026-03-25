@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 29 min | GBP | CPI (MoM) (Feb) |  | 0.4% | -0.5% |
-| 29 min | GBP | PPI Input (MoM) (Feb) |  | 0.5% | 0.4% |
+| 07:00 | GBP | CPI (MoM) (Feb) | 0.4% | 0.4% | -0.5% |
+| 07:00 | GBP | PPI Input (MoM) (Feb) | 0.8% | 0.5% | 0.3% |
 | 08:45 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 09:00 | EUR | German Business Expectations (Mar) |  | 86.0 | 90.5 |
 | 09:00 | EUR | German Current Assessment (Mar) |  | 86.0 | 86.7 |
