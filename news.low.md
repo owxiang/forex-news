@@ -21,16 +21,16 @@
 | 07:00 | GBP | RPI (YoY) (Feb) | 3.6% | 3.7% | 3.8% |
 | 08:00 | EUR | Spanish PPI (YoY) (Feb) | -7.0% |  | -2.9% |
 | 09:00 | CHF | ZEW Expectations (Mar) | -35.0 |  | 9.8 |
-| 7 min | GBP | House Price Index (YoY) |  | 1.7% | 2.4% |
-| 10:30 | EUR | Italian 2-Year CTZ Auction |  |  | 2.150% |
-| 10:30 | EUR | German 30-Year Bund Auction |  |  | 3.450% |
-| 11:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.30% |
-| 11:00 | USD | MBA Mortgage Applications (WoW) |  |  | -10.9% |
-| 11:00 | USD | MBA Purchase Index |  |  | 172.9 |
-| 11:00 | USD | Mortgage Market Index |  |  | 347.1 |
-| 11:00 | USD | Mortgage Refinance Index |  |  | 1,341.0 |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 11:00 | BRL | FGV Consumer confidence (Mar) |  |  | 86.1 |
+| 09:30 | GBP | House Price Index (YoY) | 1.3% | 1.7% | 1.9% |
+| 8 min | EUR | Italian 2-Year CTZ Auction |  |  | 2.150% |
+| 8 min | EUR | German 30-Year Bund Auction |  |  | 3.450% |
+| 38 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.30% |
+| 38 min | USD | MBA Mortgage Applications (WoW) |  |  | -10.9% |
+| 38 min | USD | MBA Purchase Index |  |  | 172.9 |
+| 38 min | USD | Mortgage Market Index |  |  | 347.1 |
+| 38 min | USD | Mortgage Refinance Index |  |  | 1,341.0 |
+| 38 min | EUR | German Buba Monthly Report |  |  |  |
+| 38 min | BRL | FGV Consumer confidence (Mar) |  |  | 86.1 |
 | 11:30 | INR | M3 Money Supply |  |  | 11.5% |
 | 12:30 | USD | Export Price Index (YoY) (Feb) |  |  | 2.6% |
 | 12:30 | USD | Import Price Index (YoY) (Feb) |  |  | -0.1% |
