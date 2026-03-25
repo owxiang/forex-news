@@ -43,23 +43,23 @@
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | BRL | Low | FGV Consumer confidence (Mar) | 88.1 |  | 86.1 |
 | 11:30 | INR | Low | M3 Money Supply | 10.7% |  | 11.5% |
-| 6 min | USD | Moderate | Current Account (Q4) |  | -211.0B | -226.4B |
-| 6 min | USD | Moderate | Export Price Index (MoM) (Feb) |  | 0.5% | 0.6% |
-| 6 min | USD | Low | Export Price Index (YoY) (Feb) |  |  | 2.6% |
-| 6 min | USD | Low | Import Price Index (YoY) (Feb) |  |  | -0.1% |
-| 6 min | USD | Moderate | Import Price Index (MoM) (Feb) |  | 0.6% | 0.2% |
-| 14:00 | CHF | Low | SNB Quarterly Bulletin |  |  |  |
-| 14:30 | USD | High | Crude Oil Inventories |  | -1.300M | 6.156M |
-| 14:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.063M |
-| 14:30 | USD | Low | Crude Oil Imports |  |  | -0.692M |
-| 14:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.944M |
-| 14:30 | USD | Low | Distillate Fuel Production |  |  | -0.075M |
-| 14:30 | USD | Low | EIA Weekly Distillates Stocks |  | -1.300M | -2.527M |
-| 14:30 | USD | Low | Gasoline Production |  |  | -0.462M |
-| 14:30 | USD | Low | Heating Oil Stockpiles |  |  | -0.081M |
-| 14:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.6% |
-| 14:30 | USD | Low | Gasoline Inventories |  | -2.100M | -5.436M |
-| 14:30 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
+| 12:30 | USD | Moderate | Current Account (Q4) | -190.7B | -211.0B | -239.1B |
+| 12:30 | USD | Moderate | Export Price Index (MoM) (Feb) | 1.5% | 0.5% | 0.6% |
+| 12:30 | USD | Low | Export Price Index (YoY) (Feb) | 3.5% |  | 2.6% |
+| 12:30 | USD | Low | Import Price Index (YoY) (Feb) | 1.3% |  | -0.1% |
+| 12:30 | USD | Moderate | Import Price Index (MoM) (Feb) | 1.3% | 0.6% | 0.6% |
+| 24 min | CHF | Low | SNB Quarterly Bulletin |  |  |  |
+| 54 min | USD | High | Crude Oil Inventories |  | -1.300M | 6.156M |
+| 54 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.063M |
+| 54 min | USD | Low | Crude Oil Imports |  |  | -0.692M |
+| 54 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.944M |
+| 54 min | USD | Low | Distillate Fuel Production |  |  | -0.075M |
+| 54 min | USD | Low | EIA Weekly Distillates Stocks |  | -1.300M | -2.527M |
+| 54 min | USD | Low | Gasoline Production |  |  | -0.462M |
+| 54 min | USD | Low | Heating Oil Stockpiles |  |  | -0.081M |
+| 54 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.6% |
+| 54 min | USD | Low | Gasoline Inventories |  | -2.100M | -5.436M |
+| 54 min | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 17:00 | USD | Moderate | 5-Year Note Auction |  |  | 3.615% |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.708B |
 | 22:15 | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
