@@ -7,18 +7,18 @@
 | 00:30 | AUD | Monthly CPI Indicator (YoY) (Feb) | 3.70% | 3.80% | 3.80% |
 | 00:30 | AUD | Weighted mean CPI (YoY) (Feb) | 3.5% |  | 3.6% |
 | 02:40 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
-| 07:00 | GBP | Core CPI (YoY) (Feb) |  | 3.1% | 3.1% |
-| 07:00 | GBP | Core CPI (MoM) (Feb) |  | 0.5% | -0.6% |
-| 07:00 | GBP | Core PPI Output (YoY) (Feb) |  |  | 2.9% |
-| 07:00 | GBP | Core PPI Output (MoM) (Feb) |  |  | 0.2% |
-| 07:00 | GBP | Core RPI (YoY) (Feb) |  |  | 3.7% |
-| 07:00 | GBP | Core RPI (MoM) (Feb) |  |  | -0.5% |
-| 07:00 | GBP | CPI, n.s.a (Feb) |  |  | 139.50 |
-| 07:00 | GBP | PPI Input (YoY) (Feb) |  | 0.4% | -0.2% |
-| 07:00 | GBP | PPI Output (MoM) (Feb) |  | 0.3% | 0.0% |
-| 07:00 | GBP | PPI Output (YoY) (Feb) |  | 2.6% | 2.5% |
-| 07:00 | GBP | RPI (MoM) (Feb) |  | 0.5% | -0.5% |
-| 07:00 | GBP | RPI (YoY) (Feb) |  | 3.7% | 3.8% |
+| 29 min | GBP | Core CPI (YoY) (Feb) |  | 3.1% | 3.1% |
+| 29 min | GBP | Core CPI (MoM) (Feb) |  | 0.5% | -0.6% |
+| 29 min | GBP | Core PPI Output (YoY) (Feb) |  |  | 2.9% |
+| 29 min | GBP | Core PPI Output (MoM) (Feb) |  |  | 0.2% |
+| 29 min | GBP | Core RPI (YoY) (Feb) |  |  | 3.7% |
+| 29 min | GBP | Core RPI (MoM) (Feb) |  |  | -0.5% |
+| 29 min | GBP | CPI, n.s.a (Feb) |  |  | 139.50 |
+| 29 min | GBP | PPI Input (YoY) (Feb) |  | 0.4% | -0.2% |
+| 29 min | GBP | PPI Output (MoM) (Feb) |  | 0.3% | 0.0% |
+| 29 min | GBP | PPI Output (YoY) (Feb) |  | 2.6% | 2.5% |
+| 29 min | GBP | RPI (MoM) (Feb) |  | 0.5% | -0.5% |
+| 29 min | GBP | RPI (YoY) (Feb) |  | 3.7% | 3.8% |
 | 08:00 | CHF | ZEW Expectations (Mar) |  |  | 9.8 |
 | 08:00 | EUR | Spanish PPI (YoY) (Feb) |  |  | -2.9% |
 | 09:30 | GBP | House Price Index (YoY) |  | 1.7% | 2.4% |
