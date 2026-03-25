@@ -23,13 +23,13 @@
 | 07:00 | GBP | Low | RPI (MoM) (Feb) | 0.4% | 0.5% | -0.5% |
 | 07:00 | GBP | Low | RPI (YoY) (Feb) | 3.6% | 3.7% | 3.8% |
 | 08:00 | EUR | Low | Spanish PPI (YoY) (Feb) | -7.0% |  | -2.9% |
-| 24 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 39 min | CHF | Low | ZEW Expectations (Mar) |  |  | 9.8 |
-| 39 min | EUR | Moderate | German Business Expectations (Mar) |  | 86.0 | 90.5 |
-| 39 min | EUR | Moderate | German Current Assessment (Mar) |  | 86.0 | 86.7 |
-| 39 min | EUR | Moderate | German Ifo Business Climate Index (Mar) |  | 86.2 | 88.6 |
-| 54 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 09:30 | GBP | Low | House Price Index (YoY) |  | 1.7% | 2.4% |
+| 08:45 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 09:00 | CHF | Low | ZEW Expectations (Mar) | -35.0 |  | 9.8 |
+| 09:00 | EUR | Moderate | German Business Expectations (Mar) | 86.0 | 86.0 | 90.2 |
+| 09:00 | EUR | Moderate | German Current Assessment (Mar) | 86.7 | 86.0 | 86.7 |
+| 09:00 | EUR | Moderate | German Ifo Business Climate Index (Mar) | 86.4 | 86.2 | 88.4 |
+| 09:15 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 7 min | GBP | Low | House Price Index (YoY) |  | 1.7% | 2.4% |
 | 10:30 | EUR | Low | Italian 2-Year CTZ Auction |  |  | 2.150% |
 | 10:30 | EUR | Low | German 30-Year Bund Auction |  |  | 3.450% |
 | 11:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.30% |

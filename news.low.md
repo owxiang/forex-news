@@ -20,8 +20,8 @@
 | 07:00 | GBP | RPI (MoM) (Feb) | 0.4% | 0.5% | -0.5% |
 | 07:00 | GBP | RPI (YoY) (Feb) | 3.6% | 3.7% | 3.8% |
 | 08:00 | EUR | Spanish PPI (YoY) (Feb) | -7.0% |  | -2.9% |
-| 39 min | CHF | ZEW Expectations (Mar) |  |  | 9.8 |
-| 09:30 | GBP | House Price Index (YoY) |  | 1.7% | 2.4% |
+| 09:00 | CHF | ZEW Expectations (Mar) | -35.0 |  | 9.8 |
+| 7 min | GBP | House Price Index (YoY) |  | 1.7% | 2.4% |
 | 10:30 | EUR | Italian 2-Year CTZ Auction |  |  | 2.150% |
 | 10:30 | EUR | German 30-Year Bund Auction |  |  | 3.450% |
 | 11:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.30% |
