@@ -30,16 +30,16 @@
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (Mar) | 86.4 | 86.2 | 88.4 |
 | 09:15 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 09:30 | GBP | Low | House Price Index (YoY) | 1.3% | 1.7% | 1.9% |
-| 8 min | EUR | Low | Italian 2-Year CTZ Auction |  |  | 2.150% |
-| 8 min | EUR | Low | German 30-Year Bund Auction |  |  | 3.450% |
-| 38 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.30% |
-| 38 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -10.9% |
-| 38 min | USD | Low | MBA Purchase Index |  |  | 172.9 |
-| 38 min | USD | Low | Mortgage Market Index |  |  | 347.1 |
-| 38 min | USD | Low | Mortgage Refinance Index |  |  | 1,341.0 |
-| 38 min | EUR | Low | German Buba Monthly Report |  |  |  |
-| 38 min | BRL | Low | FGV Consumer confidence (Mar) |  |  | 86.1 |
-| 11:30 | INR | Low | M3 Money Supply |  |  | 11.5% |
+| 10:30 | EUR | Low | Italian 2-Year CTZ Auction | 2.890% |  | 2.150% |
+| 10:50 | EUR | Low | German 30-Year Bund Auction | 3.420% |  | 3.450% |
+| 11:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.43% |  | 6.30% |
+| 11:00 | USD | Low | MBA Mortgage Applications (WoW) | -10.5% |  | -10.9% |
+| 11:00 | USD | Low | MBA Purchase Index | 163.6 |  | 172.9 |
+| 11:00 | USD | Low | Mortgage Market Index | 310.7 |  | 347.1 |
+| 11:00 | USD | Low | Mortgage Refinance Index | 1,145.0 |  | 1,341.0 |
+| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 11:00 | BRL | Low | FGV Consumer confidence (Mar) | 88.1 |  | 86.1 |
+| 10 min | INR | Low | M3 Money Supply |  |  | 11.5% |
 | 12:30 | USD | Moderate | Current Account (Q4) |  | -211.0B | -226.4B |
 | 12:30 | USD | Moderate | Export Price Index (MoM) (Feb) |  | 0.5% | 0.6% |
 | 12:30 | USD | Low | Export Price Index (YoY) (Feb) |  |  | 2.6% |
