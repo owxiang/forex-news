@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | CPI (YoY) (Feb) | 3.7% | 3.8% | 3.8% |
-| 04:30 | AUD | CPI (QoQ) (Q1) |  |  | 0.6% |
-| 04:30 | AUD | Trimmed Mean CPI (QoQ) (Jan) |  |  | 0.9% |
+| 46 min | AUD | CPI (QoQ) (Q1) |  |  | 0.6% |
+| 46 min | AUD | CPI (YoY) (Q1) |  |  | 3.8% |
+| 46 min | AUD | Trimmed Mean CPI (QoQ) (Jan) |  |  | 0.9% |
 | 07:00 | GBP | CPI (MoM) (Feb) |  | 0.4% | -0.5% |
 | 07:00 | GBP | PPI Input (MoM) (Feb) |  | 0.5% | 0.4% |
 | 08:45 | EUR | ECB President Lagarde Speaks |  |  |  |

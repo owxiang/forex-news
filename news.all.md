@@ -2,15 +2,15 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | AUD | Moderate | CPI (YoY) (Feb) | 3.7% | 3.8% | 3.8% |
 | 00:30 | AUD | Low | CPI Index Number (Feb) | 101.31 |  | 101.33 |
 | 00:30 | AUD | Low | Trimmed Mean CPI (YoY) (Feb) | 3.3% | 3.4% | 3.4% |
+| 00:30 | AUD | Low | Monthly CPI Indicator (YoY) (Feb) | 3.70% | 3.80% | 3.80% |
 | 00:30 | AUD | Low | Weighted mean CPI (YoY) (Feb) | 3.5% |  | 3.6% |
 | 02:40 | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
-| 04:30 | AUD | Moderate | CPI (QoQ) (Q1) |  |  | 0.6% |
-| 04:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Jan) |  |  | 0.9% |
-| 04:30 | AUD | Low | Monthly CPI Indicator (YoY) (Feb) |  | 3.80% | 3.80% |
-| 04:30 | AUD | Low | Weighted mean CPI (QoQ) (Jan) |  |  | 0.9% |
+| 46 min | AUD | Moderate | CPI (QoQ) (Q1) |  |  | 0.6% |
+| 46 min | AUD | Moderate | CPI (YoY) (Q1) |  |  | 3.8% |
+| 46 min | AUD | Moderate | Trimmed Mean CPI (QoQ) (Jan) |  |  | 0.9% |
+| 46 min | AUD | Low | Weighted mean CPI (QoQ) (Jan) |  |  | 0.9% |
 | 07:00 | GBP | Low | Core CPI (YoY) (Feb) |  | 3.1% | 3.1% |
 | 07:00 | GBP | Low | Core CPI (MoM) (Feb) |  |  | -0.6% |
 | 07:00 | GBP | Low | Core PPI Output (MoM) (Feb) |  |  | 0.2% |

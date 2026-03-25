@@ -4,10 +4,10 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | CPI Index Number (Feb) | 101.31 |  | 101.33 |
 | 00:30 | AUD | Trimmed Mean CPI (YoY) (Feb) | 3.3% | 3.4% | 3.4% |
+| 00:30 | AUD | Monthly CPI Indicator (YoY) (Feb) | 3.70% | 3.80% | 3.80% |
 | 00:30 | AUD | Weighted mean CPI (YoY) (Feb) | 3.5% |  | 3.6% |
 | 02:40 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
-| 04:30 | AUD | Monthly CPI Indicator (YoY) (Feb) |  | 3.80% | 3.80% |
-| 04:30 | AUD | Weighted mean CPI (QoQ) (Jan) |  |  | 0.9% |
+| 46 min | AUD | Weighted mean CPI (QoQ) (Jan) |  |  | 0.9% |
 | 07:00 | GBP | Core CPI (YoY) (Feb) |  | 3.1% | 3.1% |
 | 07:00 | GBP | Core CPI (MoM) (Feb) |  |  | -0.6% |
 | 07:00 | GBP | Core PPI Output (MoM) (Feb) |  |  | 0.2% |
