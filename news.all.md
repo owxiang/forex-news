@@ -2,28 +2,28 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | AUD | Moderate | CPI (QoQ) (Q1) |  |  | 0.6% |
 | 00:30 | AUD | Moderate | CPI (YoY) (Feb) | 3.7% | 3.8% | 3.8% |
 | 00:30 | AUD | Low | CPI Index Number (Feb) | 101.31 |  | 101.33 |
-| 00:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Jan) |  |  | 0.9% |
 | 00:30 | AUD | Low | Trimmed Mean CPI (YoY) (Feb) | 3.3% | 3.4% | 3.4% |
-| 00:30 | AUD | Low | Monthly CPI Indicator (YoY) (Feb) |  | 3.80% | 3.80% |
 | 00:30 | AUD | Low | Weighted mean CPI (YoY) (Feb) | 3.5% |  | 3.6% |
-| 00:30 | AUD | Low | Weighted mean CPI (QoQ) (Jan) |  |  | 0.9% |
 | 02:40 | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
+| 04:30 | AUD | Moderate | CPI (QoQ) (Q1) |  |  | 0.6% |
+| 04:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Jan) |  |  | 0.9% |
+| 04:30 | AUD | Low | Monthly CPI Indicator (YoY) (Feb) |  | 3.80% | 3.80% |
+| 04:30 | AUD | Low | Weighted mean CPI (QoQ) (Jan) |  |  | 0.9% |
 | 07:00 | GBP | Low | Core CPI (YoY) (Feb) |  | 3.1% | 3.1% |
 | 07:00 | GBP | Low | Core CPI (MoM) (Feb) |  |  | -0.6% |
-| 07:00 | GBP | Low | Core PPI Output (YoY) (Feb) |  |  | 2.9% |
 | 07:00 | GBP | Low | Core PPI Output (MoM) (Feb) |  |  | 0.2% |
+| 07:00 | GBP | Low | Core PPI Output (YoY) (Feb) |  |  | 2.9% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Feb) |  |  | 3.7% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Feb) |  |  | -0.5% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Feb) |  | 0.4% | -0.5% |
 | 07:00 | GBP | High | CPI (YoY) (Feb) |  | 3.0% | 3.0% |
 | 07:00 | GBP | Low | CPI, n.s.a (Feb) |  |  | 139.50 |
-| 07:00 | GBP | Low | PPI Input (YoY) (Feb) |  |  | -0.2% |
 | 07:00 | GBP | Moderate | PPI Input (MoM) (Feb) |  | 0.5% | 0.4% |
-| 07:00 | GBP | Low | PPI Output (YoY) (Feb) |  |  | 2.5% |
+| 07:00 | GBP | Low | PPI Input (YoY) (Feb) |  |  | -0.2% |
 | 07:00 | GBP | Low | PPI Output (MoM) (Feb) |  | 0.3% | 0.0% |
+| 07:00 | GBP | Low | PPI Output (YoY) (Feb) |  |  | 2.5% |
 | 07:00 | GBP | Low | RPI (MoM) (Feb) |  | 0.6% | -0.5% |
 | 07:00 | GBP | Low | RPI (YoY) (Feb) |  | 3.7% | 3.8% |
 | 08:00 | CHF | Low | ZEW Expectations (Mar) |  |  | 9.8 |

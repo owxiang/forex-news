@@ -4,20 +4,20 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | CPI Index Number (Feb) | 101.31 |  | 101.33 |
 | 00:30 | AUD | Trimmed Mean CPI (YoY) (Feb) | 3.3% | 3.4% | 3.4% |
-| 00:30 | AUD | Monthly CPI Indicator (YoY) (Feb) |  | 3.80% | 3.80% |
 | 00:30 | AUD | Weighted mean CPI (YoY) (Feb) | 3.5% |  | 3.6% |
-| 00:30 | AUD | Weighted mean CPI (QoQ) (Jan) |  |  | 0.9% |
 | 02:40 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
+| 04:30 | AUD | Monthly CPI Indicator (YoY) (Feb) |  | 3.80% | 3.80% |
+| 04:30 | AUD | Weighted mean CPI (QoQ) (Jan) |  |  | 0.9% |
 | 07:00 | GBP | Core CPI (YoY) (Feb) |  | 3.1% | 3.1% |
 | 07:00 | GBP | Core CPI (MoM) (Feb) |  |  | -0.6% |
-| 07:00 | GBP | Core PPI Output (YoY) (Feb) |  |  | 2.9% |
 | 07:00 | GBP | Core PPI Output (MoM) (Feb) |  |  | 0.2% |
+| 07:00 | GBP | Core PPI Output (YoY) (Feb) |  |  | 2.9% |
 | 07:00 | GBP | Core RPI (YoY) (Feb) |  |  | 3.7% |
 | 07:00 | GBP | Core RPI (MoM) (Feb) |  |  | -0.5% |
 | 07:00 | GBP | CPI, n.s.a (Feb) |  |  | 139.50 |
 | 07:00 | GBP | PPI Input (YoY) (Feb) |  |  | -0.2% |
-| 07:00 | GBP | PPI Output (YoY) (Feb) |  |  | 2.5% |
 | 07:00 | GBP | PPI Output (MoM) (Feb) |  | 0.3% | 0.0% |
+| 07:00 | GBP | PPI Output (YoY) (Feb) |  |  | 2.5% |
 | 07:00 | GBP | RPI (MoM) (Feb) |  | 0.6% | -0.5% |
 | 07:00 | GBP | RPI (YoY) (Feb) |  | 3.7% | 3.8% |
 | 08:00 | CHF | ZEW Expectations (Mar) |  |  | 9.8 |
