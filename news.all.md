@@ -62,7 +62,7 @@
 | 14:30 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 17:00 | USD | Moderate | 5-Year Note Auction | 3.980% |  | 3.615% |
 | 17:30 | BRL | Low | Foreign Exchange Flows | -0.119B |  | -0.708B |
-| 22:15 | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
+| 59 min | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
 | 23:20 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 23:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) |  | 2.6% | 2.6% |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -992.0B |
