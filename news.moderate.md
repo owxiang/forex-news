@@ -1,18 +1,17 @@
-## 25 March 2026 - Moderate Impact Forex News
+## 26 March 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | GBP | CPI (MoM) (Feb) | 0.4% | 0.4% | -0.5% |
-| 07:00 | GBP | PPI Input (MoM) (Feb) | 0.8% | 0.5% | 0.3% |
-| 08:45 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 09:00 | EUR | German Business Expectations (Mar) | 86.0 | 86.0 | 90.2 |
-| 09:00 | EUR | German Current Assessment (Mar) | 86.7 | 86.0 | 86.7 |
-| 09:00 | EUR | German Ifo Business Climate Index (Mar) | 86.4 | 86.2 | 88.4 |
-| 09:15 | EUR | ECB's Lane Speaks |  |  |  |
-| 12:30 | USD | Current Account (Q4) | -190.7B | -211.0B | -239.1B |
-| 12:30 | USD | Export Price Index (MoM) (Feb) | 1.5% | 0.5% | 0.6% |
-| 12:30 | USD | Import Price Index (MoM) (Feb) | 1.3% | 0.6% | 0.6% |
-| 14:30 | USD | Cushing Crude Oil Inventories | 3.421M |  | 0.944M |
-| 14:30 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 17:00 | USD | 5-Year Note Auction | 3.980% |  | 3.615% |
-| 22:15 | AUD | RBA Assist Gov Kent Speaks |  |  |  |
+| 05:00 | JPY | BoJ Core CPI (YoY) |  | 1.6% | 1.7% |
+| 07:00 | EUR | GfK German Consumer Climate (Apr) |  | -27.3 | -24.7 |
+| 08:00 | EUR | Spanish GDP (QoQ) (Q4) |  | 0.8% | 0.6% |
+| 09:00 | NOK | Interest Rate Decision |  | 4.00% | 4.00% |
+| 09:00 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 12:30 | USD | Continuing Jobless Claims |  | 1,860K | 1,857K |
+| 12:30 | CAD | Wholesale Sales (MoM) (Feb) |  |  | -1.0% |
+| 13:00 | ZAR | Interest Rate Decision (Mar) |  | 6.75% | 6.75% |
+| 16:00 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
+| 17:00 | USD | 7-Year Note Auction |  |  | 3.790% |
+| 19:00 | MXN | Interest Rate Decision (Mar) |  | 7.00% | 7.00% |
+| 20:30 | USD | Fed's Balance Sheet |  |  | 6,656B |
+| 23:10 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
