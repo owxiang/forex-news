@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 8 min | JPY | BoJ Core CPI (YoY) |  | 1.6% | 1.7% |
+| 05:00 | JPY | BoJ Core CPI (YoY) | 2.2% | 1.6% | 2.3% |
 | 07:00 | EUR | GfK German Consumer Climate (Apr) |  | -27.3 | -24.7 |
 | 08:00 | EUR | Spanish GDP (QoQ) (Q4) |  | 0.8% | 0.6% |
 | 09:00 | NOK | Interest Rate Decision |  | 4.00% | 4.00% |
