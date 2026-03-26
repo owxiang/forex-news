@@ -20,12 +20,13 @@
 | 09:30 | GBP | BoE Breeden Speaks |  |  |  |
 | 09:30 | ZAR | PPI (MoM) (Feb) | 0.0% |  | -0.2% |
 | 09:30 | ZAR | PPI (YoY) (Feb) | 1.8% |  | 2.2% |
-| 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 2.032% |
-| 35 min | EUR | German Buba Monthly Report |  |  |  |
-| 35 min | BRL | BCB Inflation Report |  |  |  |
-| 12:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
-| 12:00 | BRL | Mid-Month CPI (MoM) (Mar) |  | 0.29% | 0.84% |
-| 12:00 | BRL | Mid-Month CPI (YoY) (Mar) |  | 3.74% | 4.10% |
+| 10:00 | GBP | 30-Year Treasury Gilt Auction | 5.520% |  | 5.290% |
+| 10:30 | EUR | Italian 6-Month BOT Auction | 2.482% |  | 2.032% |
+| 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 11:00 | BRL | BCB Inflation Report |  |  |  |
+| 37 min | BRL | BCB National Monetary Council Meeting |  |  |  |
+| 37 min | BRL | Mid-Month CPI (MoM) (Mar) |  | 0.29% | 0.84% |
+| 37 min | BRL | Mid-Month CPI (YoY) (Mar) |  | 3.74% | 4.10% |
 | 12:30 | USD | Jobless Claims 4-Week Avg. |  |  | 210.75K |
 | 12:30 | CAD | Average Weekly Earnings (YoY) (Jan) |  |  | 1.94% |
 | 13:00 | ZAR | Prime Rate (Mar) |  |  | 10.25% |

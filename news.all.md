@@ -25,12 +25,13 @@
 | 09:30 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 09:30 | ZAR | Low | PPI (MoM) (Feb) | 0.0% |  | -0.2% |
 | 09:30 | ZAR | Low | PPI (YoY) (Feb) | 1.8% |  | 2.2% |
-| 10:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 2.032% |
-| 35 min | EUR | Low | German Buba Monthly Report |  |  |  |
-| 35 min | BRL | Low | BCB Inflation Report |  |  |  |
-| 12:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Mar) |  | 0.29% | 0.84% |
-| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Mar) |  | 3.74% | 4.10% |
+| 10:00 | GBP | Low | 30-Year Treasury Gilt Auction | 5.520% |  | 5.290% |
+| 10:30 | EUR | Low | Italian 6-Month BOT Auction | 2.482% |  | 2.032% |
+| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 11:00 | BRL | Low | BCB Inflation Report |  |  |  |
+| 37 min | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
+| 37 min | BRL | Low | Mid-Month CPI (MoM) (Mar) |  | 0.29% | 0.84% |
+| 37 min | BRL | Low | Mid-Month CPI (YoY) (Mar) |  | 3.74% | 4.10% |
 | 12:30 | USD | Moderate | Continuing Jobless Claims |  | 1,860K | 1,857K |
 | 12:30 | USD | High | Initial Jobless Claims |  | 211K | 205K |
 | 12:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 210.75K |
