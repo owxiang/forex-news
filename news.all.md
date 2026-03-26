@@ -29,16 +29,16 @@
 | 10:30 | EUR | Low | Italian 6-Month BOT Auction | 2.482% |  | 2.032% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | BRL | Low | BCB Inflation Report |  |  |  |
-| 37 min | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 37 min | BRL | Low | Mid-Month CPI (MoM) (Mar) |  | 0.29% | 0.84% |
-| 37 min | BRL | Low | Mid-Month CPI (YoY) (Mar) |  | 3.74% | 4.10% |
-| 12:30 | USD | Moderate | Continuing Jobless Claims |  | 1,860K | 1,857K |
-| 12:30 | USD | High | Initial Jobless Claims |  | 211K | 205K |
-| 12:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 210.75K |
-| 12:30 | CAD | Low | Average Weekly Earnings (YoY) (Jan) |  |  | 1.94% |
-| 12:30 | CAD | Moderate | Wholesale Sales (MoM) (Feb) |  |  | -1.0% |
-| 13:00 | ZAR | Moderate | Interest Rate Decision (Mar) |  | 6.75% | 6.75% |
-| 13:00 | ZAR | Low | Prime Rate (Mar) |  |  | 10.25% |
+| 12:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
+| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Mar) | 0.44% | 0.29% | 0.84% |
+| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Mar) | 3.90% | 3.74% | 4.10% |
+| 2 min | USD | Moderate | Continuing Jobless Claims |  | 1,860K | 1,857K |
+| 2 min | USD | High | Initial Jobless Claims |  | 211K | 205K |
+| 2 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 210.75K |
+| 2 min | CAD | Low | Average Weekly Earnings (YoY) (Jan) |  |  | 1.94% |
+| 2 min | CAD | Moderate | Wholesale Sales (MoM) (Feb) |  |  | -1.0% |
+| 32 min | ZAR | Moderate | Interest Rate Decision (Mar) |  | 6.75% | 6.75% |
+| 32 min | ZAR | Low | Prime Rate (Mar) |  |  | 10.25% |
 | 14:30 | USD | Low | Natural Gas Storage |  | -49B | 35B |
 | 15:00 | USD | Low | KC Fed Composite Index (Mar) |  |  | 5 |
 | 15:00 | USD | Low | KC Fed Manufacturing Index (Mar) |  |  | 10 |
@@ -48,6 +48,7 @@
 | 17:00 | USD | Moderate | 7-Year Note Auction |  |  | 3.790% |
 | 19:00 | MXN | Moderate | Interest Rate Decision (Mar) |  | 7.00% | 7.00% |
 | 20:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |
+| 20:00 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 20:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,656B |
 | 20:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.999T |
 | 23:00 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |

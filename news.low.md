@@ -24,12 +24,12 @@
 | 10:30 | EUR | Italian 6-Month BOT Auction | 2.482% |  | 2.032% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 11:00 | BRL | BCB Inflation Report |  |  |  |
-| 37 min | BRL | BCB National Monetary Council Meeting |  |  |  |
-| 37 min | BRL | Mid-Month CPI (MoM) (Mar) |  | 0.29% | 0.84% |
-| 37 min | BRL | Mid-Month CPI (YoY) (Mar) |  | 3.74% | 4.10% |
-| 12:30 | USD | Jobless Claims 4-Week Avg. |  |  | 210.75K |
-| 12:30 | CAD | Average Weekly Earnings (YoY) (Jan) |  |  | 1.94% |
-| 13:00 | ZAR | Prime Rate (Mar) |  |  | 10.25% |
+| 12:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
+| 12:00 | BRL | Mid-Month CPI (MoM) (Mar) | 0.44% | 0.29% | 0.84% |
+| 12:00 | BRL | Mid-Month CPI (YoY) (Mar) | 3.90% | 3.74% | 4.10% |
+| 2 min | USD | Jobless Claims 4-Week Avg. |  |  | 210.75K |
+| 2 min | CAD | Average Weekly Earnings (YoY) (Jan) |  |  | 1.94% |
+| 32 min | ZAR | Prime Rate (Mar) |  |  | 10.25% |
 | 14:30 | USD | Natural Gas Storage |  | -49B | 35B |
 | 15:00 | USD | KC Fed Composite Index (Mar) |  |  | 5 |
 | 15:00 | USD | KC Fed Manufacturing Index (Mar) |  |  | 10 |
