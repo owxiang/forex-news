@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | SGD | Industrial Production (MoM) (Feb) |  |  | 5.3% |
-| 05:00 | SGD | Industrial Production (YoY) (Feb) |  |  | 16.6% |
+| 8 min | SGD | Industrial Production (MoM) (Feb) |  |  | 5.3% |
+| 8 min | SGD | Industrial Production (YoY) (Feb) |  |  | 16.6% |
 | 07:00 | NOK | Unemployment Rate (Feb) |  |  | 4.6% |
 | 07:45 | EUR | French Business Survey (Mar) |  | 100 | 102 |
 | 07:45 | EUR | French Consumer Confidence (Mar) |  | 89 | 91 |

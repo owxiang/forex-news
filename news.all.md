@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 05:00 | JPY | Moderate | BoJ Core CPI (YoY) |  | 1.6% | 1.7% |
-| 05:00 | SGD | Low | Industrial Production (MoM) (Feb) |  |  | 5.3% |
-| 05:00 | SGD | Low | Industrial Production (YoY) (Feb) |  |  | 16.6% |
+| 8 min | JPY | Moderate | BoJ Core CPI (YoY) |  | 1.6% | 1.7% |
+| 8 min | SGD | Low | Industrial Production (MoM) (Feb) |  |  | 5.3% |
+| 8 min | SGD | Low | Industrial Production (YoY) (Feb) |  |  | 16.6% |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Apr) |  | -27.3 | -24.7 |
 | 07:00 | NOK | Low | Unemployment Rate (Feb) |  |  | 4.6% |
 | 07:45 | EUR | Low | French Business Survey (Mar) |  | 100 | 102 |
