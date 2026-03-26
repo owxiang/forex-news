@@ -10,7 +10,7 @@
 | 12:30 | USD | Continuing Jobless Claims | 1,819K | 1,860K | 1,851K |
 | 13:00 | ZAR | Interest Rate Decision (Mar) | 6.75% | 6.75% | 6.75% |
 | 16:00 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
-| 28 min | USD | 7-Year Note Auction |  |  | 3.790% |
+| 17:00 | USD | 7-Year Note Auction | 4.255% |  | 3.790% |
 | 19:00 | MXN | Interest Rate Decision (Mar) |  | 7.00% | 7.00% |
 | 20:30 | USD | Fed's Balance Sheet |  |  | 6,656B |
 | 23:10 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |

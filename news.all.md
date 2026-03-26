@@ -44,7 +44,7 @@
 | 15:30 | USD | Low | 4-Week Bill Auction | 3.620% |  | 3.615% |
 | 15:30 | USD | Low | 8-Week Bill Auction | 3.630% |  | 3.635% |
 | 16:00 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
-| 28 min | USD | Moderate | 7-Year Note Auction |  |  | 3.790% |
+| 17:00 | USD | Moderate | 7-Year Note Auction | 4.255% |  | 3.790% |
 | 19:00 | MXN | Moderate | Interest Rate Decision (Mar) |  | 7.00% | 7.00% |
 | 20:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 20:00 | USD | High | U.S. President Trump Speaks |  |  |  |
