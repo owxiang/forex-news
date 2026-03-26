@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 05:00 | JPY | BoJ Core CPI (YoY) | 2.2% | 1.6% | 2.3% |
-| 27 min | EUR | GfK German Consumer Climate (Apr) |  | -27.3 | -24.7 |
-| 08:00 | EUR | Spanish GDP (QoQ) (Q4) |  | 0.8% | 0.6% |
+| 07:00 | EUR | GfK German Consumer Climate (Apr) | -28.0 | -27.3 | -24.8 |
+| 27 min | EUR | Spanish GDP (QoQ) (Q4) |  | 0.8% | 0.6% |
 | 09:00 | NOK | Interest Rate Decision |  | 4.00% | 4.00% |
 | 09:00 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 12:30 | USD | Continuing Jobless Claims |  | 1,860K | 1,857K |

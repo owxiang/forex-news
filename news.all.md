@@ -3,17 +3,17 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 05:00 | JPY | Moderate | BoJ Core CPI (YoY) | 2.2% | 1.6% | 2.3% |
-| 05:00 | SGD | Low | Industrial Production (MoM) (Feb) | -7.1% |  | 2.0% |
-| 05:00 | SGD | Low | Industrial Production (YoY) (Feb) | -0.1% |  | 13.0% |
-| 27 min | EUR | Moderate | GfK German Consumer Climate (Apr) |  | -27.3 | -24.7 |
-| 27 min | NOK | Low | Unemployment Rate (Feb) |  |  | 4.6% |
-| 07:45 | EUR | Low | French Business Survey (Mar) |  | 100 | 102 |
-| 07:45 | EUR | Low | French Consumer Confidence (Mar) |  | 89 | 91 |
-| 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q4) |  | 0.8% | 0.6% |
-| 08:00 | EUR | Low | Spanish GDP (YoY) (Q4) |  | 2.6% | 2.7% |
-| 08:30 | HKD | Low | Exports (MoM) (Feb) |  |  | 33.8% |
-| 08:30 | HKD | Low | Imports (MoM) (Feb) |  |  | 38.1% |
-| 08:30 | HKD | Low | Trade Balance (Feb) |  |  | -14.1B |
+| 05:00 | SGD | Low | Industrial Production (MoM) (Feb) | -7.2% |  | 2.0% |
+| 05:00 | SGD | Low | Industrial Production (YoY) (Feb) | -0.1% |  | 12.9% |
+| 07:00 | EUR | Moderate | GfK German Consumer Climate (Apr) | -28.0 | -27.3 | -24.8 |
+| 07:00 | NOK | Low | Unemployment Rate (Feb) | 4.9% |  | 4.6% |
+| 12 min | EUR | Low | French Business Survey (Mar) |  | 100 | 102 |
+| 12 min | EUR | Low | French Consumer Confidence (Mar) |  | 89 | 91 |
+| 27 min | EUR | Moderate | Spanish GDP (QoQ) (Q4) |  | 0.8% | 0.6% |
+| 27 min | EUR | Low | Spanish GDP (YoY) (Q4) |  | 2.6% | 2.7% |
+| 57 min | HKD | Low | Exports (MoM) (Feb) |  |  | 33.8% |
+| 57 min | HKD | Low | Imports (MoM) (Feb) |  |  | 38.1% |
+| 57 min | HKD | Low | Trade Balance (Feb) |  |  | -14.1B |
 | 09:00 | EUR | Low | Italian Business Confidence (Mar) |  |  | 88.5 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Mar) |  |  | 97.4 |
 | 09:00 | NOK | Moderate | Interest Rate Decision |  | 4.00% | 4.00% |
