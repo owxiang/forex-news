@@ -50,5 +50,5 @@
 | 20:00 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 20:30 | USD | Moderate | Fed's Balance Sheet | 6,657B |  | 6,656B |
 | 20:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.036T |  | 2.999T |
-| 23:00 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
+| 50 min | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
 | 23:10 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |

@@ -37,4 +37,4 @@
 | 15:30 | USD | 8-Week Bill Auction | 3.630% |  | 3.635% |
 | 20:00 | USD | Fed Governor Cook Speaks |  |  |  |
 | 20:30 | USD | Reserve Balances with Federal Reserve Banks | 3.036T |  | 2.999T |
-| 23:00 | USD | Fed Governor Jefferson Speaks |  |  |  |
+| 50 min | USD | Fed Governor Jefferson Speaks |  |  |  |
