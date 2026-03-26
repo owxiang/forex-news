@@ -17,12 +17,12 @@
 | 09:00 | EUR | M3 Money Supply (Feb) | 17,369.5B |  | 17,344.7B |
 | 09:00 | EUR | Loans to Non Financial Corporations (Feb) | 2.9% |  | 2.8% |
 | 09:00 | EUR | Private Sector Loans (YoY) (Feb) | 3.0% | 3.1% | 3.0% |
-| 2 min | GBP | BoE Breeden Speaks |  |  |  |
-| 2 min | ZAR | PPI (MoM) (Feb) |  |  | -0.2% |
-| 2 min | ZAR | PPI (YoY) (Feb) |  |  | 2.2% |
-| 42 min | EUR | Italian 6-Month BOT Auction |  |  | 2.032% |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 11:00 | BRL | BCB Inflation Report |  |  |  |
+| 09:30 | GBP | BoE Breeden Speaks |  |  |  |
+| 09:30 | ZAR | PPI (MoM) (Feb) | 0.0% |  | -0.2% |
+| 09:30 | ZAR | PPI (YoY) (Feb) | 1.8% |  | 2.2% |
+| 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 2.032% |
+| 35 min | EUR | German Buba Monthly Report |  |  |  |
+| 35 min | BRL | BCB Inflation Report |  |  |  |
 | 12:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 12:00 | BRL | Mid-Month CPI (MoM) (Mar) |  | 0.29% | 0.84% |
 | 12:00 | BRL | Mid-Month CPI (YoY) (Mar) |  | 3.74% | 4.10% |
