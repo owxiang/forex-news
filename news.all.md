@@ -38,11 +38,11 @@
 | 12:30 | CAD | Low | Average Weekly Earnings (YoY) (Jan) | 2.02% |  | 1.93% |
 | 13:00 | ZAR | Moderate | Interest Rate Decision (Mar) | 6.75% | 6.75% | 6.75% |
 | 13:00 | ZAR | Low | Prime Rate (Mar) | 10.25% |  | 10.25% |
-| 54 min | USD | Low | Natural Gas Storage |  | -49B | 35B |
-| 15:00 | USD | Low | KC Fed Composite Index (Mar) |  |  | 5 |
-| 15:00 | USD | Low | KC Fed Manufacturing Index (Mar) |  |  | 10 |
-| 15:30 | USD | Low | 4-Week Bill Auction |  |  | 3.615% |
-| 15:30 | USD | Low | 8-Week Bill Auction |  |  | 3.635% |
+| 14:30 | USD | Low | Natural Gas Storage | -54B | -49B | 35B |
+| 22 min | USD | Low | KC Fed Composite Index (Mar) |  |  | 5 |
+| 22 min | USD | Low | KC Fed Manufacturing Index (Mar) |  |  | 10 |
+| 52 min | USD | Low | 4-Week Bill Auction |  |  | 3.615% |
+| 52 min | USD | Low | 8-Week Bill Auction |  |  | 3.635% |
 | 16:00 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 17:00 | USD | Moderate | 7-Year Note Auction |  |  | 3.790% |
 | 19:00 | MXN | Moderate | Interest Rate Decision (Mar) |  | 7.00% | 7.00% |

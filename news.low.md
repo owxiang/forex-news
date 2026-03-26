@@ -30,11 +30,11 @@
 | 12:30 | USD | Jobless Claims 4-Week Avg. | 210.50K |  | 210.75K |
 | 12:30 | CAD | Average Weekly Earnings (YoY) (Jan) | 2.02% |  | 1.93% |
 | 13:00 | ZAR | Prime Rate (Mar) | 10.25% |  | 10.25% |
-| 54 min | USD | Natural Gas Storage |  | -49B | 35B |
-| 15:00 | USD | KC Fed Composite Index (Mar) |  |  | 5 |
-| 15:00 | USD | KC Fed Manufacturing Index (Mar) |  |  | 10 |
-| 15:30 | USD | 4-Week Bill Auction |  |  | 3.615% |
-| 15:30 | USD | 8-Week Bill Auction |  |  | 3.635% |
+| 14:30 | USD | Natural Gas Storage | -54B | -49B | 35B |
+| 22 min | USD | KC Fed Composite Index (Mar) |  |  | 5 |
+| 22 min | USD | KC Fed Manufacturing Index (Mar) |  |  | 10 |
+| 52 min | USD | 4-Week Bill Auction |  |  | 3.615% |
+| 52 min | USD | 8-Week Bill Auction |  |  | 3.635% |
 | 20:00 | USD | Fed Governor Cook Speaks |  |  |  |
 | 20:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.999T |
 | 23:00 | USD | Fed Governor Jefferson Speaks |  |  |  |
