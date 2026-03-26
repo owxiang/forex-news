@@ -46,9 +46,9 @@
 | 16:00 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 17:00 | USD | Moderate | 7-Year Note Auction | 4.255% |  | 3.790% |
 | 19:00 | MXN | Moderate | Interest Rate Decision (Mar) | 6.75% | 7.00% | 7.00% |
-| 31 min | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 31 min | USD | High | U.S. President Trump Speaks |  |  |  |
-| 20:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,656B |
-| 20:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.999T |
+| 20:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |
+| 20:00 | USD | High | U.S. President Trump Speaks |  |  |  |
+| 15 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,656B |
+| 15 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.999T |
 | 23:00 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
 | 23:10 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
