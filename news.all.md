@@ -7,21 +7,21 @@
 | 05:00 | SGD | Low | Industrial Production (YoY) (Feb) | -0.1% |  | 12.9% |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Apr) | -28.0 | -27.3 | -24.8 |
 | 07:00 | NOK | Low | Unemployment Rate (Feb) | 4.9% |  | 4.6% |
-| 12 min | EUR | Low | French Business Survey (Mar) |  | 100 | 102 |
-| 12 min | EUR | Low | French Consumer Confidence (Mar) |  | 89 | 91 |
-| 27 min | EUR | Moderate | Spanish GDP (QoQ) (Q4) |  | 0.8% | 0.6% |
-| 27 min | EUR | Low | Spanish GDP (YoY) (Q4) |  | 2.6% | 2.7% |
-| 57 min | HKD | Low | Exports (MoM) (Feb) |  |  | 33.8% |
-| 57 min | HKD | Low | Imports (MoM) (Feb) |  |  | 38.1% |
-| 57 min | HKD | Low | Trade Balance (Feb) |  |  | -14.1B |
-| 09:00 | EUR | Low | Italian Business Confidence (Mar) |  |  | 88.5 |
-| 09:00 | EUR | Low | Italian Consumer Confidence (Mar) |  |  | 97.4 |
-| 09:00 | NOK | Moderate | Interest Rate Decision |  | 4.00% | 4.00% |
-| 09:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 09:00 | EUR | Low | M3 Money Supply (YoY) (Feb) |  | 3.3% | 3.3% |
-| 09:00 | EUR | Low | M3 Money Supply (Feb) |  |  | 17,344.7B |
-| 09:00 | EUR | Low | Loans to Non Financial Corporations (Feb) |  |  | 2.8% |
-| 09:00 | EUR | Low | Private Sector Loans (YoY) (Feb) |  | 3.1% | 3.0% |
+| 07:45 | EUR | Low | French Business Survey (Mar) | 99 | 100 | 102 |
+| 07:45 | EUR | Low | French Consumer Confidence (Mar) | 89 | 89 | 91 |
+| 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q4) | 0.8% | 0.8% | 0.6% |
+| 08:00 | EUR | Low | Spanish GDP (YoY) (Q4) | 2.7% | 2.6% | 2.7% |
+| 6 min | HKD | Low | Exports (MoM) (Feb) |  |  | 33.8% |
+| 6 min | HKD | Low | Imports (MoM) (Feb) |  |  | 38.1% |
+| 6 min | HKD | Low | Trade Balance (Feb) |  |  | -14.1B |
+| 36 min | EUR | Low | Italian Business Confidence (Mar) |  |  | 88.5 |
+| 36 min | EUR | Low | Italian Consumer Confidence (Mar) |  |  | 97.4 |
+| 36 min | NOK | Moderate | Interest Rate Decision |  | 4.00% | 4.00% |
+| 36 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 36 min | EUR | Low | M3 Money Supply (YoY) (Feb) |  | 3.3% | 3.3% |
+| 36 min | EUR | Low | M3 Money Supply (Feb) |  |  | 17,344.7B |
+| 36 min | EUR | Low | Loans to Non Financial Corporations (Feb) |  |  | 2.8% |
+| 36 min | EUR | Low | Private Sector Loans (YoY) (Feb) |  | 3.1% | 3.0% |
 | 09:30 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 09:30 | ZAR | Low | PPI (MoM) (Feb) |  |  | -0.2% |
 | 09:30 | ZAR | Low | PPI (YoY) (Feb) |  |  | 2.2% |

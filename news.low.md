@@ -5,18 +5,18 @@
 | 05:00 | SGD | Industrial Production (MoM) (Feb) | -7.2% |  | 2.0% |
 | 05:00 | SGD | Industrial Production (YoY) (Feb) | -0.1% |  | 12.9% |
 | 07:00 | NOK | Unemployment Rate (Feb) | 4.9% |  | 4.6% |
-| 12 min | EUR | French Business Survey (Mar) |  | 100 | 102 |
-| 12 min | EUR | French Consumer Confidence (Mar) |  | 89 | 91 |
-| 27 min | EUR | Spanish GDP (YoY) (Q4) |  | 2.6% | 2.7% |
-| 57 min | HKD | Exports (MoM) (Feb) |  |  | 33.8% |
-| 57 min | HKD | Imports (MoM) (Feb) |  |  | 38.1% |
-| 57 min | HKD | Trade Balance (Feb) |  |  | -14.1B |
-| 09:00 | EUR | Italian Business Confidence (Mar) |  |  | 88.5 |
-| 09:00 | EUR | Italian Consumer Confidence (Mar) |  |  | 97.4 |
-| 09:00 | EUR | M3 Money Supply (YoY) (Feb) |  | 3.3% | 3.3% |
-| 09:00 | EUR | M3 Money Supply (Feb) |  |  | 17,344.7B |
-| 09:00 | EUR | Loans to Non Financial Corporations (Feb) |  |  | 2.8% |
-| 09:00 | EUR | Private Sector Loans (YoY) (Feb) |  | 3.1% | 3.0% |
+| 07:45 | EUR | French Business Survey (Mar) | 99 | 100 | 102 |
+| 07:45 | EUR | French Consumer Confidence (Mar) | 89 | 89 | 91 |
+| 08:00 | EUR | Spanish GDP (YoY) (Q4) | 2.7% | 2.6% | 2.7% |
+| 6 min | HKD | Exports (MoM) (Feb) |  |  | 33.8% |
+| 6 min | HKD | Imports (MoM) (Feb) |  |  | 38.1% |
+| 6 min | HKD | Trade Balance (Feb) |  |  | -14.1B |
+| 36 min | EUR | Italian Business Confidence (Mar) |  |  | 88.5 |
+| 36 min | EUR | Italian Consumer Confidence (Mar) |  |  | 97.4 |
+| 36 min | EUR | M3 Money Supply (YoY) (Feb) |  | 3.3% | 3.3% |
+| 36 min | EUR | M3 Money Supply (Feb) |  |  | 17,344.7B |
+| 36 min | EUR | Loans to Non Financial Corporations (Feb) |  |  | 2.8% |
+| 36 min | EUR | Private Sector Loans (YoY) (Feb) |  | 3.1% | 3.0% |
 | 09:30 | GBP | BoE Breeden Speaks |  |  |  |
 | 09:30 | ZAR | PPI (MoM) (Feb) |  |  | -0.2% |
 | 09:30 | ZAR | PPI (YoY) (Feb) |  |  | 2.2% |
