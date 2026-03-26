@@ -11,21 +11,21 @@
 | 07:45 | EUR | Low | French Consumer Confidence (Mar) | 89 | 89 | 91 |
 | 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q4) | 0.8% | 0.8% | 0.6% |
 | 08:00 | EUR | Low | Spanish GDP (YoY) (Q4) | 2.7% | 2.6% | 2.7% |
-| 6 min | HKD | Low | Exports (MoM) (Feb) |  |  | 33.8% |
-| 6 min | HKD | Low | Imports (MoM) (Feb) |  |  | 38.1% |
-| 6 min | HKD | Low | Trade Balance (Feb) |  |  | -14.1B |
-| 36 min | EUR | Low | Italian Business Confidence (Mar) |  |  | 88.5 |
-| 36 min | EUR | Low | Italian Consumer Confidence (Mar) |  |  | 97.4 |
-| 36 min | NOK | Moderate | Interest Rate Decision |  | 4.00% | 4.00% |
-| 36 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 36 min | EUR | Low | M3 Money Supply (YoY) (Feb) |  | 3.3% | 3.3% |
-| 36 min | EUR | Low | M3 Money Supply (Feb) |  |  | 17,344.7B |
-| 36 min | EUR | Low | Loans to Non Financial Corporations (Feb) |  |  | 2.8% |
-| 36 min | EUR | Low | Private Sector Loans (YoY) (Feb) |  | 3.1% | 3.0% |
-| 09:30 | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 09:30 | ZAR | Low | PPI (MoM) (Feb) |  |  | -0.2% |
-| 09:30 | ZAR | Low | PPI (YoY) (Feb) |  |  | 2.2% |
-| 10:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 2.032% |
+| 08:30 | HKD | Low | Exports (MoM) (Feb) | 24.7% |  | 33.8% |
+| 08:30 | HKD | Low | Imports (MoM) (Feb) | 29.9% |  | 38.1% |
+| 08:30 | HKD | Low | Trade Balance (Feb) | -64.2B |  | -14.1B |
+| 09:00 | EUR | Low | Italian Business Confidence (Mar) | 88.8 |  | 88.5 |
+| 09:00 | EUR | Low | Italian Consumer Confidence (Mar) | 92.6 |  | 97.4 |
+| 09:00 | NOK | Moderate | Interest Rate Decision | 4.00% | 4.00% | 4.00% |
+| 09:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 09:00 | EUR | Low | M3 Money Supply (YoY) (Feb) | 3.0% | 3.3% | 3.3% |
+| 09:00 | EUR | Low | M3 Money Supply (Feb) | 17,369.5B |  | 17,344.7B |
+| 09:00 | EUR | Low | Loans to Non Financial Corporations (Feb) | 2.9% |  | 2.8% |
+| 09:00 | EUR | Low | Private Sector Loans (YoY) (Feb) | 3.0% | 3.1% | 3.0% |
+| 2 min | GBP | Low | BoE Breeden Speaks |  |  |  |
+| 2 min | ZAR | Low | PPI (MoM) (Feb) |  |  | -0.2% |
+| 2 min | ZAR | Low | PPI (YoY) (Feb) |  |  | 2.2% |
+| 42 min | EUR | Low | Italian 6-Month BOT Auction |  |  | 2.032% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | BRL | Low | BCB Inflation Report |  |  |  |
 | 12:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
