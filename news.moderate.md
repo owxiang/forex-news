@@ -7,9 +7,8 @@
 | 08:00 | EUR | Spanish GDP (QoQ) (Q4) | 0.8% | 0.8% | 0.6% |
 | 09:00 | NOK | Interest Rate Decision | 4.00% | 4.00% | 4.00% |
 | 09:00 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 2 min | USD | Continuing Jobless Claims |  | 1,860K | 1,857K |
-| 2 min | CAD | Wholesale Sales (MoM) (Feb) |  |  | -1.0% |
-| 32 min | ZAR | Interest Rate Decision (Mar) |  | 6.75% | 6.75% |
+| 12:30 | USD | Continuing Jobless Claims | 1,819K | 1,860K | 1,851K |
+| 13:00 | ZAR | Interest Rate Decision (Mar) | 6.75% | 6.75% | 6.75% |
 | 16:00 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 17:00 | USD | 7-Year Note Auction |  |  | 3.790% |
 | 19:00 | MXN | Interest Rate Decision (Mar) |  | 7.00% | 7.00% |

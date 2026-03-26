@@ -27,10 +27,10 @@
 | 12:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 12:00 | BRL | Mid-Month CPI (MoM) (Mar) | 0.44% | 0.29% | 0.84% |
 | 12:00 | BRL | Mid-Month CPI (YoY) (Mar) | 3.90% | 3.74% | 4.10% |
-| 2 min | USD | Jobless Claims 4-Week Avg. |  |  | 210.75K |
-| 2 min | CAD | Average Weekly Earnings (YoY) (Jan) |  |  | 1.94% |
-| 32 min | ZAR | Prime Rate (Mar) |  |  | 10.25% |
-| 14:30 | USD | Natural Gas Storage |  | -49B | 35B |
+| 12:30 | USD | Jobless Claims 4-Week Avg. | 210.50K |  | 210.75K |
+| 12:30 | CAD | Average Weekly Earnings (YoY) (Jan) | 2.02% |  | 1.93% |
+| 13:00 | ZAR | Prime Rate (Mar) | 10.25% |  | 10.25% |
+| 54 min | USD | Natural Gas Storage |  | -49B | 35B |
 | 15:00 | USD | KC Fed Composite Index (Mar) |  |  | 5 |
 | 15:00 | USD | KC Fed Manufacturing Index (Mar) |  |  | 10 |
 | 15:30 | USD | 4-Week Bill Auction |  |  | 3.615% |

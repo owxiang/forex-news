@@ -32,14 +32,13 @@
 | 12:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
 | 12:00 | BRL | Low | Mid-Month CPI (MoM) (Mar) | 0.44% | 0.29% | 0.84% |
 | 12:00 | BRL | Low | Mid-Month CPI (YoY) (Mar) | 3.90% | 3.74% | 4.10% |
-| 2 min | USD | Moderate | Continuing Jobless Claims |  | 1,860K | 1,857K |
-| 2 min | USD | High | Initial Jobless Claims |  | 211K | 205K |
-| 2 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 210.75K |
-| 2 min | CAD | Low | Average Weekly Earnings (YoY) (Jan) |  |  | 1.94% |
-| 2 min | CAD | Moderate | Wholesale Sales (MoM) (Feb) |  |  | -1.0% |
-| 32 min | ZAR | Moderate | Interest Rate Decision (Mar) |  | 6.75% | 6.75% |
-| 32 min | ZAR | Low | Prime Rate (Mar) |  |  | 10.25% |
-| 14:30 | USD | Low | Natural Gas Storage |  | -49B | 35B |
+| 12:30 | USD | Moderate | Continuing Jobless Claims | 1,819K | 1,860K | 1,851K |
+| 12:30 | USD | High | Initial Jobless Claims | 210K | 211K | 205K |
+| 12:30 | USD | Low | Jobless Claims 4-Week Avg. | 210.50K |  | 210.75K |
+| 12:30 | CAD | Low | Average Weekly Earnings (YoY) (Jan) | 2.02% |  | 1.93% |
+| 13:00 | ZAR | Moderate | Interest Rate Decision (Mar) | 6.75% | 6.75% | 6.75% |
+| 13:00 | ZAR | Low | Prime Rate (Mar) | 10.25% |  | 10.25% |
+| 54 min | USD | Low | Natural Gas Storage |  | -49B | 35B |
 | 15:00 | USD | Low | KC Fed Composite Index (Mar) |  |  | 5 |
 | 15:00 | USD | Low | KC Fed Manufacturing Index (Mar) |  |  | 10 |
 | 15:30 | USD | Low | 4-Week Bill Auction |  |  | 3.615% |
