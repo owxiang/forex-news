@@ -26,7 +26,6 @@
 | 15:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 15:00 | CAD | Budget Balance (Jan) | -5.07B |  | 0.25B |
 | 15:00 | CAD | Budget Balance (YoY) (Jan) | -31.21B |  | -26.14B |
-| 36 min | USD | Wholesale Inventories (MoM) (Feb) |  |  | 0.2% |
 | 19:30 | USD | CFTC Aluminium speculative net positions |  |  | -0.7K |
 | 19:30 | USD | CFTC Copper speculative net positions |  |  | 48.0K |
 | 19:30 | USD | CFTC Corn speculative net positions |  |  | 312.3K |

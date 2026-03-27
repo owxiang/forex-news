@@ -44,10 +44,8 @@
 | 15:00 | CAD | Low | Budget Balance (YoY) (Jan) | -31.21B |  | -26.14B |
 | 15:30 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 16:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 36 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 414 |
-| 36 min | USD | Moderate | Retail Inventories Ex Auto (Feb) |  |  | 0.4% |
-| 36 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 552 |
-| 36 min | USD | Low | Wholesale Inventories (MoM) (Feb) |  |  | 0.2% |
+| 17:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 409 |  | 414 |
+| 17:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 543 |  | 552 |
 | 19:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -65.5K |
 | 19:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -0.7K |
 | 19:30 | USD | Low | CFTC Copper speculative net positions |  |  | 48.0K |

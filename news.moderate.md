@@ -20,9 +20,8 @@
 | 14:00 | USD | Michigan Consumer Sentiment (Mar) | 53.3 | 55.5 | 56.6 |
 | 15:30 | USD | FOMC Member Daly Speaks |  |  |  |
 | 16:00 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 36 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 414 |
-| 36 min | USD | Retail Inventories Ex Auto (Feb) |  |  | 0.4% |
-| 36 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 552 |
+| 17:00 | USD | U.S. Baker Hughes Oil Rig Count | 409 |  | 414 |
+| 17:00 | USD | U.S. Baker Hughes Total Rig Count | 543 |  | 552 |
 | 19:30 | GBP | CFTC GBP speculative net positions |  |  | -65.5K |
 | 19:30 | USD | CFTC Crude Oil speculative net positions |  |  | 218.7K |
 | 19:30 | USD | CFTC Gold speculative net positions |  |  | 159.9K |
