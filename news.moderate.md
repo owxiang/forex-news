@@ -2,14 +2,15 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | GBP | Core Retail Sales (MoM) (Feb) |  |  | 2.0% |
-| 07:00 | GBP | Core Retail Sales (YoY) (Feb) |  |  | 5.5% |
+| 07:00 | GBP | Core Retail Sales (MoM) (Feb) |  | -0.8% | 2.0% |
+| 07:00 | GBP | Core Retail Sales (YoY) (Feb) |  | 2.9% | 5.5% |
 | 07:00 | GBP | Retail Sales (MoM) (Feb) |  | -0.6% | 1.8% |
 | 07:00 | GBP | Retail Sales (YoY) (Feb) |  | 2.1% | 4.5% |
 | 07:45 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 08:00 | EUR | Spanish CPI (YoY) (Mar) |  | 3.6% | 2.3% |
-| 08:00 | EUR | Spanish HICP (YoY) (Mar) |  | 2.6% | 2.5% |
+| 08:00 | EUR | Spanish HICP (YoY) (Mar) |  | 3.9% | 2.5% |
 | 10:00 | EUR | Eurogroup Meetings |  |  |  |
+| 10:10 | EUR | Italian 10-Year BTP Auction |  |  | 3.31% |
 | 11:00 | EUR | France Jobseekers Total |  |  | 3,090.5K |
 | 12:00 | BRL | Unemployment Rate (Feb) |  | 5.7% | 5.4% |
 | 12:30 | USD | Retail Inventories Ex Auto (Feb) |  |  | 0.4% |

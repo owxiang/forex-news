@@ -4,20 +4,22 @@
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | GfK Consumer Confidence (Mar) | -21 | -24 | -19 |
 | 01:30 | CNY | Chinese Industrial profit YTD (Feb) | 15.2% |  | 0.6% |
-| 03:00 | IDR | M2 Money Supply (YoY) (Feb) |  |  | 10.00% |
-| 07:00 | NOK | Unemployment Rate n.s.a. (Mar) |  |  | 2.20% |
+| 03:00 | IDR | M2 Money Supply (YoY) (Feb) | 8.70% |  | 10.00% |
+| 07:00 | NOK | Unemployment Rate n.s.a. (Mar) |  | 2.10% | 2.20% |
 | 07:00 | NOK | Core Retail Sales (MoM) (Feb) |  |  | 1.1% |
 | 08:00 | EUR | Core CPI (YoY) (Mar) |  |  | 2.7% |
-| 08:00 | EUR | Spanish CPI (MoM) (Mar) |  |  | 0.4% |
-| 08:00 | EUR | Spanish HICP (MoM) (Mar) |  |  | 0.4% |
+| 08:00 | EUR | Spanish CPI (MoM) (Mar) |  | 1.2% | 0.4% |
+| 08:00 | EUR | Spanish HICP (MoM) (Mar) |  | 2.1% | 0.4% |
 | 09:00 | EUR | Italian Trade Balance Non-EU (Feb) |  |  | 2.12B |
 | 10:00 | EUR | ECOFIN Meetings |  |  |  |
+| 10:10 | EUR | Italian 5-Year BTP Auction |  |  | 2.62% |
+| 11:00 | BRL | IGP-M Inflation Index (MoM) (Mar) |  |  | -0.73% |
 | 11:30 | INR | Bank Loan Growth |  |  | 14.5% |
 | 11:30 | INR | Deposit Growth |  |  | 11.9% |
 | 11:30 | INR | FX Reserves, USD |  |  | 709.76B |
 | 11:30 | BRL | Current Account (USD) (Feb) |  | -5.40B | -8.36B |
-| 11:30 | BRL | Foreign direct investment (USD) (Feb) |  | 7.42B | 8.17B |
-| 12:00 | MXN | Trade Balance (Feb) |  |  | -6.481B |
+| 11:30 | BRL | Foreign direct investment (USD) (Feb) |  | 7.60B | 8.17B |
+| 12:00 | MXN | Trade Balance (Feb) |  | 1.200B | -6.481B |
 | 12:00 | MXN | Trade Balance (USD) (Feb) |  |  | -1.248B |
 | 12:00 | MXN | Unemployment Rate (Feb) |  |  | 2.60% |
 | 12:00 | MXN | Unemployment Rate n.s.a. (Feb) |  | 2.60% | 2.70% |

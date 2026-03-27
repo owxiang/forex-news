@@ -4,29 +4,32 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | GfK Consumer Confidence (Mar) | -21 | -24 | -19 |
 | 01:30 | CNY | Low | Chinese Industrial profit YTD (Feb) | 15.2% |  | 0.6% |
-| 03:00 | IDR | Low | M2 Money Supply (YoY) (Feb) |  |  | 10.00% |
-| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Feb) |  |  | 2.0% |
-| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Feb) |  |  | 5.5% |
+| 03:00 | IDR | Low | M2 Money Supply (YoY) (Feb) | 8.70% |  | 10.00% |
+| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Feb) |  | -0.8% | 2.0% |
+| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Feb) |  | 2.9% | 5.5% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Feb) |  | -0.6% | 1.8% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Feb) |  | 2.1% | 4.5% |
-| 07:00 | NOK | Low | Unemployment Rate n.s.a. (Mar) |  |  | 2.20% |
+| 07:00 | NOK | Low | Unemployment Rate n.s.a. (Mar) |  | 2.10% | 2.20% |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Feb) |  |  | 1.1% |
 | 07:45 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 08:00 | EUR | Low | Core CPI (YoY) (Mar) |  |  | 2.7% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Mar) |  |  | 0.4% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Mar) |  | 1.2% | 0.4% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Mar) |  | 3.6% | 2.3% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Mar) |  |  | 0.4% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Mar) |  | 2.6% | 2.5% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Mar) |  | 2.1% | 0.4% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Mar) |  | 3.9% | 2.5% |
 | 09:00 | EUR | Low | Italian Trade Balance Non-EU (Feb) |  |  | 2.12B |
 | 10:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 10:10 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 3.31% |
+| 10:10 | EUR | Low | Italian 5-Year BTP Auction |  |  | 2.62% |
 | 11:00 | EUR | Moderate | France Jobseekers Total |  |  | 3,090.5K |
+| 11:00 | BRL | Low | IGP-M Inflation Index (MoM) (Mar) |  |  | -0.73% |
 | 11:30 | INR | Low | Bank Loan Growth |  |  | 14.5% |
 | 11:30 | INR | Low | Deposit Growth |  |  | 11.9% |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 709.76B |
 | 11:30 | BRL | Low | Current Account (USD) (Feb) |  | -5.40B | -8.36B |
-| 11:30 | BRL | Low | Foreign direct investment (USD) (Feb) |  | 7.42B | 8.17B |
-| 12:00 | MXN | Low | Trade Balance (Feb) |  |  | -6.481B |
+| 11:30 | BRL | Low | Foreign direct investment (USD) (Feb) |  | 7.60B | 8.17B |
+| 12:00 | MXN | Low | Trade Balance (Feb) |  | 1.200B | -6.481B |
 | 12:00 | MXN | Low | Trade Balance (USD) (Feb) |  |  | -1.248B |
 | 12:00 | MXN | Low | Unemployment Rate (Feb) |  |  | 2.60% |
 | 12:00 | MXN | Low | Unemployment Rate n.s.a. (Feb) |  | 2.60% | 2.70% |
