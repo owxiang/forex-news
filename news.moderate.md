@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | GBP | Core Retail Sales (MoM) (Feb) |  | -0.8% | 2.0% |
-| 07:00 | GBP | Core Retail Sales (YoY) (Feb) |  | 2.9% | 5.5% |
-| 07:00 | GBP | Retail Sales (MoM) (Feb) |  | -0.6% | 1.8% |
-| 07:00 | GBP | Retail Sales (YoY) (Feb) |  | 2.1% | 4.5% |
+| 25 min | GBP | Core Retail Sales (MoM) (Feb) |  | -0.8% | 2.0% |
+| 25 min | GBP | Core Retail Sales (YoY) (Feb) |  | 2.9% | 5.5% |
+| 25 min | GBP | Retail Sales (MoM) (Feb) |  | -0.6% | 1.8% |
+| 25 min | GBP | Retail Sales (YoY) (Feb) |  | 2.1% | 4.5% |
 | 07:45 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 08:00 | EUR | Spanish CPI (YoY) (Mar) |  | 3.6% | 2.3% |
 | 08:00 | EUR | Spanish HICP (YoY) (Mar) |  | 3.9% | 2.5% |

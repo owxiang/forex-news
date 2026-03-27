@@ -5,12 +5,12 @@
 | 00:01 | GBP | Low | GfK Consumer Confidence (Mar) | -21 | -24 | -19 |
 | 01:30 | CNY | Low | Chinese Industrial profit YTD (Feb) | 15.2% |  | 0.6% |
 | 03:00 | IDR | Low | M2 Money Supply (YoY) (Feb) | 8.70% |  | 10.00% |
-| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Feb) |  | -0.8% | 2.0% |
-| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Feb) |  | 2.9% | 5.5% |
-| 07:00 | GBP | Moderate | Retail Sales (MoM) (Feb) |  | -0.6% | 1.8% |
-| 07:00 | GBP | Moderate | Retail Sales (YoY) (Feb) |  | 2.1% | 4.5% |
-| 07:00 | NOK | Low | Unemployment Rate n.s.a. (Mar) |  | 2.10% | 2.20% |
-| 07:00 | NOK | Low | Core Retail Sales (MoM) (Feb) |  |  | 1.1% |
+| 25 min | GBP | Moderate | Core Retail Sales (MoM) (Feb) |  | -0.8% | 2.0% |
+| 25 min | GBP | Moderate | Core Retail Sales (YoY) (Feb) |  | 2.9% | 5.5% |
+| 25 min | GBP | Moderate | Retail Sales (MoM) (Feb) |  | -0.6% | 1.8% |
+| 25 min | GBP | Moderate | Retail Sales (YoY) (Feb) |  | 2.1% | 4.5% |
+| 25 min | NOK | Low | Unemployment Rate n.s.a. (Mar) |  | 2.10% | 2.20% |
+| 25 min | NOK | Low | Core Retail Sales (MoM) (Feb) |  |  | 1.1% |
 | 07:45 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 08:00 | EUR | Low | Core CPI (YoY) (Mar) |  |  | 2.7% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Mar) |  | 1.2% | 0.4% |
