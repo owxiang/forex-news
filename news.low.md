@@ -5,11 +5,11 @@
 | 00:01 | GBP | GfK Consumer Confidence (Mar) | -21 | -24 | -19 |
 | 01:30 | CNY | Chinese Industrial profit YTD (Feb) | 15.2% |  | 0.6% |
 | 03:00 | IDR | M2 Money Supply (YoY) (Feb) | 8.70% |  | 10.00% |
-| 25 min | NOK | Unemployment Rate n.s.a. (Mar) |  | 2.10% | 2.20% |
-| 25 min | NOK | Core Retail Sales (MoM) (Feb) |  |  | 1.1% |
-| 08:00 | EUR | Core CPI (YoY) (Mar) |  |  | 2.7% |
-| 08:00 | EUR | Spanish CPI (MoM) (Mar) |  | 1.2% | 0.4% |
-| 08:00 | EUR | Spanish HICP (MoM) (Mar) |  | 2.1% | 0.4% |
+| 07:00 | NOK | Unemployment Rate n.s.a. (Mar) | 2.20% | 2.10% | 2.20% |
+| 07:00 | NOK | Core Retail Sales (MoM) (Feb) | -1.1% |  | 0.9% |
+| 28 min | EUR | Core CPI (YoY) (Mar) |  |  | 2.7% |
+| 28 min | EUR | Spanish CPI (MoM) (Mar) |  | 1.2% | 0.4% |
+| 28 min | EUR | Spanish HICP (MoM) (Mar) |  | 2.1% | 0.4% |
 | 09:00 | EUR | Italian Trade Balance Non-EU (Feb) |  |  | 2.12B |
 | 10:00 | EUR | ECOFIN Meetings |  |  |  |
 | 10:10 | EUR | Italian 5-Year BTP Auction |  |  | 2.62% |
