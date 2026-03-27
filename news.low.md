@@ -22,8 +22,8 @@
 | 12:00 | MXN | Trade Balance (USD) (Feb) | -1.090B |  | -1.463B |
 | 12:00 | MXN | Unemployment Rate (Feb) | 2.70% |  | 2.60% |
 | 12:00 | MXN | Unemployment Rate n.s.a. (Feb) | 2.60% | 2.60% | 2.70% |
-| 8 min | USD | Wholesale Inventories (MoM) (Feb) |  |  | 0.2% |
-| 14:00 | USD | Michigan Current Conditions (Mar) |  | 57.8 | 56.6 |
+| 25 min | USD | Michigan Current Conditions (Mar) |  | 57.8 | 56.6 |
+| 25 min | USD | Wholesale Inventories (MoM) (Feb) |  |  | 0.2% |
 | 15:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 15:00 | CAD | Budget Balance (Jan) |  |  | 0.25B |
 | 15:00 | CAD | Budget Balance (YoY) (Jan) |  |  | -26.14B |

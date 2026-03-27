@@ -33,14 +33,14 @@
 | 12:00 | MXN | Low | Unemployment Rate (Feb) | 2.70% |  | 2.60% |
 | 12:00 | MXN | Low | Unemployment Rate n.s.a. (Feb) | 2.60% | 2.60% | 2.70% |
 | 12:00 | BRL | Moderate | Unemployment Rate (Feb) | 5.8% | 5.7% | 5.4% |
-| 8 min | USD | Moderate | Retail Inventories Ex Auto (Feb) |  |  | 0.4% |
-| 8 min | USD | Low | Wholesale Inventories (MoM) (Feb) |  |  | 0.2% |
-| 8 min | CAD | Moderate | Wholesale Sales (MoM) (Feb) |  |  | -1.0% |
-| 14:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Mar) |  | 3.4% | 3.4% |
-| 14:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Mar) |  | 3.2% | 3.3% |
-| 14:00 | USD | Moderate | Michigan Consumer Expectations (Mar) |  | 54.1 | 56.6 |
-| 14:00 | USD | Moderate | Michigan Consumer Sentiment (Mar) |  | 55.5 | 56.6 |
-| 14:00 | USD | Low | Michigan Current Conditions (Mar) |  | 57.8 | 56.6 |
+| 12:30 | CAD | Moderate | Wholesale Sales (MoM) (Feb) | 2.3% |  | -1.0% |
+| 25 min | USD | Moderate | Michigan 1-Year Inflation Expectations (Mar) |  | 3.4% | 3.4% |
+| 25 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Mar) |  | 3.2% | 3.3% |
+| 25 min | USD | Moderate | Michigan Consumer Expectations (Mar) |  | 54.1 | 56.6 |
+| 25 min | USD | Moderate | Michigan Consumer Sentiment (Mar) |  | 55.5 | 56.6 |
+| 25 min | USD | Low | Michigan Current Conditions (Mar) |  | 57.8 | 56.6 |
+| 25 min | USD | Moderate | Retail Inventories Ex Auto (Feb) |  |  | 0.4% |
+| 25 min | USD | Low | Wholesale Inventories (MoM) (Feb) |  |  | 0.2% |
 | 15:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 15:00 | CAD | Low | Budget Balance (Jan) |  |  | 0.25B |
 | 15:00 | CAD | Low | Budget Balance (YoY) (Jan) |  |  | -26.14B |
