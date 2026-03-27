@@ -11,8 +11,8 @@
 | 08:00 | EUR | Spanish CPI (MoM) (Mar) | 1.0% | 1.2% | 0.4% |
 | 08:00 | EUR | Spanish HICP (MoM) (Mar) | 1.5% | 2.1% | 0.4% |
 | 09:00 | EUR | Italian Trade Balance Non-EU (Feb) | 5.53B |  | 2.23B |
-| 47 min | EUR | Italian 5-Year BTP Auction |  |  | 2.62% |
-| 11:00 | BRL | IGP-M Inflation Index (MoM) (Mar) |  |  | -0.73% |
+| 10:20 | EUR | Italian 5-Year BTP Auction |  |  | 2.62% |
+| 39 min | BRL | IGP-M Inflation Index (MoM) (Mar) |  |  | -0.73% |
 | 11:30 | INR | Bank Loan Growth |  |  | 14.5% |
 | 11:30 | INR | Deposit Growth |  |  | 11.9% |
 | 11:30 | INR | FX Reserves, USD |  |  | 709.76B |
