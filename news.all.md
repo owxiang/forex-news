@@ -19,20 +19,20 @@
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Mar) | 3.3% | 3.9% | 2.5% |
 | 09:00 | EUR | Low | Italian Trade Balance Non-EU (Feb) | 5.53B |  | 2.23B |
 | 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 10:20 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 3.31% |
-| 10:20 | EUR | Low | Italian 5-Year BTP Auction |  |  | 2.62% |
-| 39 min | EUR | Moderate | France Jobseekers Total |  |  | 3,090.5K |
-| 39 min | BRL | Low | IGP-M Inflation Index (MoM) (Mar) |  |  | -0.73% |
-| 11:30 | INR | Low | Bank Loan Growth |  |  | 14.5% |
-| 11:30 | INR | Low | Deposit Growth |  |  | 11.9% |
-| 11:30 | INR | Low | FX Reserves, USD |  |  | 709.76B |
-| 11:30 | BRL | Low | Current Account (USD) (Feb) |  | -5.40B | -8.36B |
-| 11:30 | BRL | Low | Foreign direct investment (USD) (Feb) |  | 7.60B | 8.17B |
-| 12:00 | MXN | Low | Trade Balance (Feb) |  | 1.200B | -6.481B |
-| 12:00 | MXN | Low | Trade Balance (USD) (Feb) |  |  | -1.248B |
-| 12:00 | MXN | Low | Unemployment Rate (Feb) |  |  | 2.60% |
-| 12:00 | MXN | Low | Unemployment Rate n.s.a. (Feb) |  | 2.60% | 2.70% |
-| 12:00 | BRL | Moderate | Unemployment Rate (Feb) |  | 5.7% | 5.4% |
+| 10:20 | EUR | Moderate | Italian 10-Year BTP Auction | 4.09% |  | 3.31% |
+| 10:20 | EUR | Low | Italian 5-Year BTP Auction | 3.48% |  | 2.62% |
+| 11:00 | EUR | Moderate | France Jobseekers Total | 3,108.2K |  | 3,090.5K |
+| 11:00 | BRL | Low | IGP-M Inflation Index (MoM) (Mar) |  |  | -0.73% |
+| 10 min | INR | Low | Bank Loan Growth |  |  | 14.5% |
+| 10 min | INR | Low | Deposit Growth |  |  | 11.9% |
+| 10 min | INR | Low | FX Reserves, USD |  |  | 709.76B |
+| 10 min | BRL | Low | Current Account (USD) (Feb) |  | -5.40B | -8.36B |
+| 10 min | BRL | Low | Foreign direct investment (USD) (Feb) |  | 7.60B | 8.17B |
+| 40 min | MXN | Low | Trade Balance (Feb) |  | 1.200B | -6.481B |
+| 40 min | MXN | Low | Trade Balance (USD) (Feb) |  |  | -1.248B |
+| 40 min | MXN | Low | Unemployment Rate (Feb) |  |  | 2.60% |
+| 40 min | MXN | Low | Unemployment Rate n.s.a. (Feb) |  | 2.60% | 2.70% |
+| 40 min | BRL | Moderate | Unemployment Rate (Feb) |  | 5.7% | 5.4% |
 | 12:30 | USD | Moderate | Retail Inventories Ex Auto (Feb) |  |  | 0.4% |
 | 12:30 | CAD | Moderate | Wholesale Sales (MoM) (Feb) |  |  | -1.0% |
 | 14:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Mar) |  | 3.4% | 3.4% |

@@ -10,9 +10,9 @@
 | 08:00 | EUR | Spanish CPI (YoY) (Mar) | 3.3% | 3.6% | 2.3% |
 | 08:00 | EUR | Spanish HICP (YoY) (Mar) | 3.3% | 3.9% | 2.5% |
 | 10:00 | EUR | Eurogroup Meetings |  |  |  |
-| 10:20 | EUR | Italian 10-Year BTP Auction |  |  | 3.31% |
-| 39 min | EUR | France Jobseekers Total |  |  | 3,090.5K |
-| 12:00 | BRL | Unemployment Rate (Feb) |  | 5.7% | 5.4% |
+| 10:20 | EUR | Italian 10-Year BTP Auction | 4.09% |  | 3.31% |
+| 11:00 | EUR | France Jobseekers Total | 3,108.2K |  | 3,090.5K |
+| 40 min | BRL | Unemployment Rate (Feb) |  | 5.7% | 5.4% |
 | 12:30 | USD | Retail Inventories Ex Auto (Feb) |  |  | 0.4% |
 | 12:30 | CAD | Wholesale Sales (MoM) (Feb) |  |  | -1.0% |
 | 14:00 | USD | Michigan 1-Year Inflation Expectations (Mar) |  | 3.4% | 3.4% |

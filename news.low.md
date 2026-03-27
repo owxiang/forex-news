@@ -11,17 +11,17 @@
 | 08:00 | EUR | Spanish CPI (MoM) (Mar) | 1.0% | 1.2% | 0.4% |
 | 08:00 | EUR | Spanish HICP (MoM) (Mar) | 1.5% | 2.1% | 0.4% |
 | 09:00 | EUR | Italian Trade Balance Non-EU (Feb) | 5.53B |  | 2.23B |
-| 10:20 | EUR | Italian 5-Year BTP Auction |  |  | 2.62% |
-| 39 min | BRL | IGP-M Inflation Index (MoM) (Mar) |  |  | -0.73% |
-| 11:30 | INR | Bank Loan Growth |  |  | 14.5% |
-| 11:30 | INR | Deposit Growth |  |  | 11.9% |
-| 11:30 | INR | FX Reserves, USD |  |  | 709.76B |
-| 11:30 | BRL | Current Account (USD) (Feb) |  | -5.40B | -8.36B |
-| 11:30 | BRL | Foreign direct investment (USD) (Feb) |  | 7.60B | 8.17B |
-| 12:00 | MXN | Trade Balance (Feb) |  | 1.200B | -6.481B |
-| 12:00 | MXN | Trade Balance (USD) (Feb) |  |  | -1.248B |
-| 12:00 | MXN | Unemployment Rate (Feb) |  |  | 2.60% |
-| 12:00 | MXN | Unemployment Rate n.s.a. (Feb) |  | 2.60% | 2.70% |
+| 10:20 | EUR | Italian 5-Year BTP Auction | 3.48% |  | 2.62% |
+| 11:00 | BRL | IGP-M Inflation Index (MoM) (Mar) |  |  | -0.73% |
+| 10 min | INR | Bank Loan Growth |  |  | 14.5% |
+| 10 min | INR | Deposit Growth |  |  | 11.9% |
+| 10 min | INR | FX Reserves, USD |  |  | 709.76B |
+| 10 min | BRL | Current Account (USD) (Feb) |  | -5.40B | -8.36B |
+| 10 min | BRL | Foreign direct investment (USD) (Feb) |  | 7.60B | 8.17B |
+| 40 min | MXN | Trade Balance (Feb) |  | 1.200B | -6.481B |
+| 40 min | MXN | Trade Balance (USD) (Feb) |  |  | -1.248B |
+| 40 min | MXN | Unemployment Rate (Feb) |  |  | 2.60% |
+| 40 min | MXN | Unemployment Rate n.s.a. (Feb) |  | 2.60% | 2.70% |
 | 14:00 | USD | Michigan Current Conditions (Mar) |  | 57.8 | 56.6 |
 | 14:00 | USD | Wholesale Inventories (MoM) (Feb) |  |  | 0.2% |
 | 15:00 | USD | FOMC Member Barkin Speaks |  |  |  |
