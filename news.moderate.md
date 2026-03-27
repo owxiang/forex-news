@@ -14,11 +14,11 @@
 | 11:00 | EUR | France Jobseekers Total | 3,108.2K |  | 3,090.5K |
 | 12:00 | BRL | Unemployment Rate (Feb) | 5.8% | 5.7% | 5.4% |
 | 12:30 | CAD | Wholesale Sales (MoM) (Feb) | 2.3% |  | -1.0% |
-| 25 min | USD | Michigan 1-Year Inflation Expectations (Mar) |  | 3.4% | 3.4% |
-| 25 min | USD | Michigan 5-Year Inflation Expectations (Mar) |  | 3.2% | 3.3% |
-| 25 min | USD | Michigan Consumer Expectations (Mar) |  | 54.1 | 56.6 |
-| 25 min | USD | Michigan Consumer Sentiment (Mar) |  | 55.5 | 56.6 |
-| 25 min | USD | Retail Inventories Ex Auto (Feb) |  |  | 0.4% |
+| 14:00 | USD | Michigan 1-Year Inflation Expectations (Mar) | 3.8% | 3.4% | 3.4% |
+| 14:00 | USD | Michigan 5-Year Inflation Expectations (Mar) | 3.2% | 3.2% | 3.3% |
+| 14:00 | USD | Michigan Consumer Expectations (Mar) | 51.7 | 54.1 | 56.6 |
+| 14:00 | USD | Michigan Consumer Sentiment (Mar) | 53.3 | 55.5 | 56.6 |
+| 34 min | USD | Retail Inventories Ex Auto (Feb) |  |  | 0.4% |
 | 15:30 | USD | FOMC Member Daly Speaks |  |  |  |
 | 16:00 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 17:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 414 |
