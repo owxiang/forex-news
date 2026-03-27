@@ -9,8 +9,8 @@
 | 07:45 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 08:00 | EUR | Spanish CPI (YoY) (Mar) | 3.3% | 3.6% | 2.3% |
 | 08:00 | EUR | Spanish HICP (YoY) (Mar) | 3.3% | 3.9% | 2.5% |
-| 10:00 | EUR | Eurogroup Meetings |  |  |  |
-| 10:10 | EUR | Italian 10-Year BTP Auction |  |  | 3.31% |
+| 37 min | EUR | Eurogroup Meetings |  |  |  |
+| 47 min | EUR | Italian 10-Year BTP Auction |  |  | 3.31% |
 | 11:00 | EUR | France Jobseekers Total |  |  | 3,090.5K |
 | 12:00 | BRL | Unemployment Rate (Feb) |  | 5.7% | 5.4% |
 | 12:30 | USD | Retail Inventories Ex Auto (Feb) |  |  | 0.4% |

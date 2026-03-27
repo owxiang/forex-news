@@ -17,10 +17,10 @@
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Mar) | 3.3% | 3.6% | 2.3% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Mar) | 1.5% | 2.1% | 0.4% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Mar) | 3.3% | 3.9% | 2.5% |
-| 38 min | EUR | Low | Italian Trade Balance Non-EU (Feb) |  |  | 2.12B |
-| 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 10:10 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 3.31% |
-| 10:10 | EUR | Low | Italian 5-Year BTP Auction |  |  | 2.62% |
+| 09:00 | EUR | Low | Italian Trade Balance Non-EU (Feb) | 5.53B |  | 2.23B |
+| 37 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 47 min | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 3.31% |
+| 47 min | EUR | Low | Italian 5-Year BTP Auction |  |  | 2.62% |
 | 11:00 | EUR | Moderate | France Jobseekers Total |  |  | 3,090.5K |
 | 11:00 | BRL | Low | IGP-M Inflation Index (MoM) (Mar) |  |  | -0.73% |
 | 11:30 | INR | Low | Bank Loan Growth |  |  | 14.5% |
