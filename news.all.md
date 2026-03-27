@@ -39,15 +39,15 @@
 | 14:00 | USD | Moderate | Michigan Consumer Expectations (Mar) | 51.7 | 54.1 | 56.6 |
 | 14:00 | USD | Moderate | Michigan Consumer Sentiment (Mar) | 53.3 | 55.5 | 56.6 |
 | 14:00 | USD | Low | Michigan Current Conditions (Mar) | 55.8 | 57.8 | 56.6 |
-| 34 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 34 min | USD | Moderate | Retail Inventories Ex Auto (Feb) |  |  | 0.4% |
-| 34 min | USD | Low | Wholesale Inventories (MoM) (Feb) |  |  | 0.2% |
-| 34 min | CAD | Low | Budget Balance (Jan) |  |  | 0.25B |
-| 34 min | CAD | Low | Budget Balance (YoY) (Jan) |  |  | -26.14B |
-| 15:30 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
-| 16:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 15:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 15:00 | CAD | Low | Budget Balance (Jan) | -5.07B |  | 0.25B |
+| 15:00 | CAD | Low | Budget Balance (YoY) (Jan) | -31.21B |  | -26.14B |
+| 8 min | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
+| 38 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 17:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 414 |
+| 17:00 | USD | Moderate | Retail Inventories Ex Auto (Feb) |  |  | 0.4% |
 | 17:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 552 |
+| 17:00 | USD | Low | Wholesale Inventories (MoM) (Feb) |  |  | 0.2% |
 | 19:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -65.5K |
 | 19:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -0.7K |
 | 19:30 | USD | Low | CFTC Copper speculative net positions |  |  | 48.0K |
