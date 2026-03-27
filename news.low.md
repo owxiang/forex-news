@@ -26,14 +26,14 @@
 | 15:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 15:00 | CAD | Budget Balance (Jan) | -5.07B |  | 0.25B |
 | 15:00 | CAD | Budget Balance (YoY) (Jan) | -31.21B |  | -26.14B |
-| 10 min | USD | CFTC Aluminium speculative net positions |  |  | -0.7K |
-| 10 min | USD | CFTC Copper speculative net positions |  |  | 48.0K |
-| 10 min | USD | CFTC Corn speculative net positions |  |  | 312.3K |
-| 10 min | USD | CFTC Natural Gas speculative net positions |  |  | -178.0K |
-| 10 min | USD | CFTC Silver speculative net positions |  |  | 21.9K |
-| 10 min | USD | CFTC Soybeans speculative net positions |  |  | 221.1K |
-| 10 min | USD | CFTC Wheat speculative net positions |  |  | -25.7K |
-| 10 min | CAD | CFTC CAD speculative net positions |  |  | 0.9K |
-| 10 min | MXN | CFTC MXN speculative net positions |  |  | 68.5K |
-| 10 min | CHF | CFTC CHF speculative net positions |  |  | -25.2K |
-| 10 min | NZD | CFTC NZD speculative net positions |  |  | -23.1K |
+| 19:30 | USD | CFTC Aluminium speculative net positions | -0.7K |  | -0.7K |
+| 19:30 | USD | CFTC Copper speculative net positions | 37.5K |  | 48.0K |
+| 19:30 | USD | CFTC Corn speculative net positions | 375.4K |  | 312.3K |
+| 19:30 | USD | CFTC Natural Gas speculative net positions | -172.6K |  | -178.0K |
+| 19:30 | USD | CFTC Silver speculative net positions | 24.7K |  | 21.9K |
+| 19:30 | USD | CFTC Soybeans speculative net positions | 215.2K |  | 221.1K |
+| 19:30 | USD | CFTC Wheat speculative net positions | -17.1K |  | -25.7K |
+| 19:30 | CAD | CFTC CAD speculative net positions | -1.6K |  | 0.9K |
+| 19:30 | MXN | CFTC MXN speculative net positions | 74.1K |  | 68.5K |
+| 19:30 | CHF | CFTC CHF speculative net positions | -27.1K |  | -25.2K |
+| 19:30 | NZD | CFTC NZD speculative net positions | -27.0K |  | -23.1K |
