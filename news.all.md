@@ -23,27 +23,27 @@
 | 10:20 | EUR | Low | Italian 5-Year BTP Auction | 3.48% |  | 2.62% |
 | 11:00 | EUR | Moderate | France Jobseekers Total | 3,108.2K |  | 3,090.5K |
 | 11:00 | BRL | Low | IGP-M Inflation Index (MoM) (Mar) |  |  | -0.73% |
-| 10 min | INR | Low | Bank Loan Growth |  |  | 14.5% |
-| 10 min | INR | Low | Deposit Growth |  |  | 11.9% |
-| 10 min | INR | Low | FX Reserves, USD |  |  | 709.76B |
-| 10 min | BRL | Low | Current Account (USD) (Feb) |  | -5.40B | -8.36B |
-| 10 min | BRL | Low | Foreign direct investment (USD) (Feb) |  | 7.60B | 8.17B |
-| 40 min | MXN | Low | Trade Balance (Feb) |  | 1.200B | -6.481B |
-| 40 min | MXN | Low | Trade Balance (USD) (Feb) |  |  | -1.248B |
-| 40 min | MXN | Low | Unemployment Rate (Feb) |  |  | 2.60% |
-| 40 min | MXN | Low | Unemployment Rate n.s.a. (Feb) |  | 2.60% | 2.70% |
-| 40 min | BRL | Moderate | Unemployment Rate (Feb) |  | 5.7% | 5.4% |
-| 12:30 | USD | Moderate | Retail Inventories Ex Auto (Feb) |  |  | 0.4% |
-| 12:30 | CAD | Moderate | Wholesale Sales (MoM) (Feb) |  |  | -1.0% |
+| 11:30 | INR | Low | Bank Loan Growth | 13.8% |  | 14.5% |
+| 11:30 | INR | Low | Deposit Growth | 10.8% |  | 11.9% |
+| 11:30 | INR | Low | FX Reserves, USD | 698.35B |  | 709.76B |
+| 11:30 | BRL | Low | Current Account (USD) (Feb) | -5.61B | -5.40B | -8.36B |
+| 11:30 | BRL | Low | Foreign direct investment (USD) (Feb) | 6.75B | 7.60B | 8.17B |
+| 12:00 | MXN | Low | Trade Balance (Feb) | -0.463B | 1.200B | -6.481B |
+| 12:00 | MXN | Low | Trade Balance (USD) (Feb) | -1.090B |  | -1.463B |
+| 12:00 | MXN | Low | Unemployment Rate (Feb) | 2.70% |  | 2.60% |
+| 12:00 | MXN | Low | Unemployment Rate n.s.a. (Feb) | 2.60% | 2.60% | 2.70% |
+| 12:00 | BRL | Moderate | Unemployment Rate (Feb) | 5.8% | 5.7% | 5.4% |
+| 8 min | USD | Moderate | Retail Inventories Ex Auto (Feb) |  |  | 0.4% |
+| 8 min | USD | Low | Wholesale Inventories (MoM) (Feb) |  |  | 0.2% |
+| 8 min | CAD | Moderate | Wholesale Sales (MoM) (Feb) |  |  | -1.0% |
 | 14:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Mar) |  | 3.4% | 3.4% |
 | 14:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Mar) |  | 3.2% | 3.3% |
 | 14:00 | USD | Moderate | Michigan Consumer Expectations (Mar) |  | 54.1 | 56.6 |
 | 14:00 | USD | Moderate | Michigan Consumer Sentiment (Mar) |  | 55.5 | 56.6 |
 | 14:00 | USD | Low | Michigan Current Conditions (Mar) |  | 57.8 | 56.6 |
-| 14:00 | USD | Low | Wholesale Inventories (MoM) (Feb) |  |  | 0.2% |
 | 15:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 15:00 | CAD | Low | Budget Balance (YoY) (Jan) |  |  | -26.14B |
 | 15:00 | CAD | Low | Budget Balance (Jan) |  |  | 0.25B |
+| 15:00 | CAD | Low | Budget Balance (YoY) (Jan) |  |  | -26.14B |
 | 15:30 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 16:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 17:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 414 |

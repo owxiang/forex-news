@@ -13,20 +13,20 @@
 | 09:00 | EUR | Italian Trade Balance Non-EU (Feb) | 5.53B |  | 2.23B |
 | 10:20 | EUR | Italian 5-Year BTP Auction | 3.48% |  | 2.62% |
 | 11:00 | BRL | IGP-M Inflation Index (MoM) (Mar) |  |  | -0.73% |
-| 10 min | INR | Bank Loan Growth |  |  | 14.5% |
-| 10 min | INR | Deposit Growth |  |  | 11.9% |
-| 10 min | INR | FX Reserves, USD |  |  | 709.76B |
-| 10 min | BRL | Current Account (USD) (Feb) |  | -5.40B | -8.36B |
-| 10 min | BRL | Foreign direct investment (USD) (Feb) |  | 7.60B | 8.17B |
-| 40 min | MXN | Trade Balance (Feb) |  | 1.200B | -6.481B |
-| 40 min | MXN | Trade Balance (USD) (Feb) |  |  | -1.248B |
-| 40 min | MXN | Unemployment Rate (Feb) |  |  | 2.60% |
-| 40 min | MXN | Unemployment Rate n.s.a. (Feb) |  | 2.60% | 2.70% |
+| 11:30 | INR | Bank Loan Growth | 13.8% |  | 14.5% |
+| 11:30 | INR | Deposit Growth | 10.8% |  | 11.9% |
+| 11:30 | INR | FX Reserves, USD | 698.35B |  | 709.76B |
+| 11:30 | BRL | Current Account (USD) (Feb) | -5.61B | -5.40B | -8.36B |
+| 11:30 | BRL | Foreign direct investment (USD) (Feb) | 6.75B | 7.60B | 8.17B |
+| 12:00 | MXN | Trade Balance (Feb) | -0.463B | 1.200B | -6.481B |
+| 12:00 | MXN | Trade Balance (USD) (Feb) | -1.090B |  | -1.463B |
+| 12:00 | MXN | Unemployment Rate (Feb) | 2.70% |  | 2.60% |
+| 12:00 | MXN | Unemployment Rate n.s.a. (Feb) | 2.60% | 2.60% | 2.70% |
+| 8 min | USD | Wholesale Inventories (MoM) (Feb) |  |  | 0.2% |
 | 14:00 | USD | Michigan Current Conditions (Mar) |  | 57.8 | 56.6 |
-| 14:00 | USD | Wholesale Inventories (MoM) (Feb) |  |  | 0.2% |
 | 15:00 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 15:00 | CAD | Budget Balance (YoY) (Jan) |  |  | -26.14B |
 | 15:00 | CAD | Budget Balance (Jan) |  |  | 0.25B |
+| 15:00 | CAD | Budget Balance (YoY) (Jan) |  |  | -26.14B |
 | 19:30 | USD | CFTC Aluminium speculative net positions |  |  | -0.7K |
 | 19:30 | USD | CFTC Copper speculative net positions |  |  | 48.0K |
 | 19:30 | USD | CFTC Corn speculative net positions |  |  | 312.3K |
