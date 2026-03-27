@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | GfK Consumer Confidence (Mar) | -21 | -24 | -19 |
-| 45 min | CNY | Low | Chinese Industrial profit YTD (Feb) |  |  | 0.6% |
+| 01:30 | CNY | Low | Chinese Industrial profit YTD (Feb) | 15.2% |  | 0.6% |
 | 03:00 | IDR | Low | M2 Money Supply (YoY) (Feb) |  |  | 10.00% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Feb) |  |  | 2.0% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Feb) |  |  | 5.5% |
