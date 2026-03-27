@@ -1,16 +1,33 @@
-## 26 March 2026 - Moderate Impact Forex News
+## 27 March 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | JPY | BoJ Core CPI (YoY) | 2.2% | 1.6% | 2.3% |
-| 07:00 | EUR | GfK German Consumer Climate (Apr) | -28.0 | -27.3 | -24.8 |
-| 08:00 | EUR | Spanish GDP (QoQ) (Q4) | 0.8% | 0.8% | 0.6% |
-| 09:00 | NOK | Interest Rate Decision | 4.00% | 4.00% | 4.00% |
-| 09:00 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 12:30 | USD | Continuing Jobless Claims | 1,819K | 1,860K | 1,851K |
-| 13:00 | ZAR | Interest Rate Decision (Mar) | 6.75% | 6.75% | 6.75% |
-| 16:00 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
-| 17:00 | USD | 7-Year Note Auction | 4.255% |  | 3.790% |
-| 19:00 | MXN | Interest Rate Decision (Mar) | 6.75% | 7.00% | 7.00% |
-| 20:30 | USD | Fed's Balance Sheet | 6,657B |  | 6,656B |
-| 23:10 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 07:00 | GBP | Core Retail Sales (MoM) (Feb) |  |  | 2.0% |
+| 07:00 | GBP | Core Retail Sales (YoY) (Feb) |  |  | 5.5% |
+| 07:00 | GBP | Retail Sales (MoM) (Feb) |  | -0.6% | 1.8% |
+| 07:00 | GBP | Retail Sales (YoY) (Feb) |  | 2.1% | 4.5% |
+| 07:45 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
+| 08:00 | EUR | Spanish CPI (YoY) (Mar) |  | 3.6% | 2.3% |
+| 08:00 | EUR | Spanish HICP (YoY) (Mar) |  | 2.6% | 2.5% |
+| 10:00 | EUR | Eurogroup Meetings |  |  |  |
+| 11:00 | EUR | France Jobseekers Total |  |  | 3,090.5K |
+| 12:00 | BRL | Unemployment Rate (Feb) |  | 5.7% | 5.4% |
+| 12:30 | USD | Retail Inventories Ex Auto (Feb) |  |  | 0.4% |
+| 12:30 | CAD | Wholesale Sales (MoM) (Feb) |  |  | -1.0% |
+| 14:00 | USD | Michigan 1-Year Inflation Expectations (Mar) |  | 3.4% | 3.4% |
+| 14:00 | USD | Michigan 5-Year Inflation Expectations (Mar) |  | 3.2% | 3.3% |
+| 14:00 | USD | Michigan Consumer Expectations (Mar) |  | 54.1 | 56.6 |
+| 14:00 | USD | Michigan Consumer Sentiment (Mar) |  | 55.5 | 56.6 |
+| 15:30 | USD | FOMC Member Daly Speaks |  |  |  |
+| 16:00 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 17:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 414 |
+| 17:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 552 |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | -65.5K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 218.7K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 159.9K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 24.1K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -113.1K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | 69.1K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 49.3K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | -67.8K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 21.1K |

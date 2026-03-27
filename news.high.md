@@ -1,6 +1,3 @@
-## 26 March 2026 - High Impact Forex News
+## 27 March 2026 - High Impact Forex News
 
-| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
-|------|----------|-------|--------|----------|----------|
-| 12:30 | USD | Initial Jobless Claims | 210K | 211K | 205K |
-| 20:00 | USD | U.S. President Trump Speaks |  |  |  |
+There is no high impact news today.

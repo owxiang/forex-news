@@ -1,40 +1,39 @@
-## 26 March 2026 - Low Impact Forex News
+## 27 March 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | SGD | Industrial Production (MoM) (Feb) | -7.2% |  | 2.0% |
-| 05:00 | SGD | Industrial Production (YoY) (Feb) | -0.1% |  | 12.9% |
-| 07:00 | NOK | Unemployment Rate (Feb) | 4.9% |  | 4.6% |
-| 07:45 | EUR | French Business Survey (Mar) | 99 | 100 | 102 |
-| 07:45 | EUR | French Consumer Confidence (Mar) | 89 | 89 | 91 |
-| 08:00 | EUR | Spanish GDP (YoY) (Q4) | 2.7% | 2.6% | 2.7% |
-| 08:30 | HKD | Exports (MoM) (Feb) | 24.7% |  | 33.8% |
-| 08:30 | HKD | Imports (MoM) (Feb) | 29.9% |  | 38.1% |
-| 08:30 | HKD | Trade Balance (Feb) | -64.2B |  | -14.1B |
-| 09:00 | EUR | Italian Business Confidence (Mar) | 88.8 |  | 88.5 |
-| 09:00 | EUR | Italian Consumer Confidence (Mar) | 92.6 |  | 97.4 |
-| 09:00 | EUR | M3 Money Supply (YoY) (Feb) | 3.0% | 3.3% | 3.3% |
-| 09:00 | EUR | M3 Money Supply (Feb) | 17,369.5B |  | 17,344.7B |
-| 09:00 | EUR | Loans to Non Financial Corporations (Feb) | 2.9% |  | 2.8% |
-| 09:00 | EUR | Private Sector Loans (YoY) (Feb) | 3.0% | 3.1% | 3.0% |
-| 09:30 | GBP | BoE Breeden Speaks |  |  |  |
-| 09:30 | ZAR | PPI (MoM) (Feb) | 0.0% |  | -0.2% |
-| 09:30 | ZAR | PPI (YoY) (Feb) | 1.8% |  | 2.2% |
-| 10:00 | GBP | 30-Year Treasury Gilt Auction | 5.520% |  | 5.290% |
-| 10:30 | EUR | Italian 6-Month BOT Auction | 2.482% |  | 2.032% |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 11:00 | BRL | BCB Inflation Report |  |  |  |
-| 12:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
-| 12:00 | BRL | Mid-Month CPI (MoM) (Mar) | 0.44% | 0.29% | 0.84% |
-| 12:00 | BRL | Mid-Month CPI (YoY) (Mar) | 3.90% | 3.74% | 4.10% |
-| 12:30 | USD | Jobless Claims 4-Week Avg. | 210.50K |  | 210.75K |
-| 12:30 | CAD | Average Weekly Earnings (YoY) (Jan) | 2.02% |  | 1.93% |
-| 13:00 | ZAR | Prime Rate (Mar) | 10.25% |  | 10.25% |
-| 14:30 | USD | Natural Gas Storage | -54B | -49B | 35B |
-| 15:00 | USD | KC Fed Composite Index (Mar) | 11 |  | 5 |
-| 15:00 | USD | KC Fed Manufacturing Index (Mar) | 11 |  | 10 |
-| 15:30 | USD | 4-Week Bill Auction | 3.620% |  | 3.615% |
-| 15:30 | USD | 8-Week Bill Auction | 3.630% |  | 3.635% |
-| 20:00 | USD | Fed Governor Cook Speaks |  |  |  |
-| 20:30 | USD | Reserve Balances with Federal Reserve Banks | 3.036T |  | 2.999T |
-| 50 min | USD | Fed Governor Jefferson Speaks |  |  |  |
+| 00:01 | GBP | GfK Consumer Confidence (Mar) | -21 | -24 | -19 |
+| 45 min | CNY | Chinese Industrial profit YTD (Feb) |  |  | 0.6% |
+| 03:00 | IDR | M2 Money Supply (YoY) (Feb) |  |  | 10.00% |
+| 07:00 | NOK | Unemployment Rate n.s.a. (Mar) |  |  | 2.20% |
+| 07:00 | NOK | Core Retail Sales (MoM) (Feb) |  |  | 1.1% |
+| 08:00 | EUR | Core CPI (YoY) (Mar) |  |  | 2.7% |
+| 08:00 | EUR | Spanish CPI (MoM) (Mar) |  |  | 0.4% |
+| 08:00 | EUR | Spanish HICP (MoM) (Mar) |  |  | 0.4% |
+| 09:00 | EUR | Italian Trade Balance Non-EU (Feb) |  |  | 2.12B |
+| 10:00 | EUR | ECOFIN Meetings |  |  |  |
+| 11:30 | INR | Bank Loan Growth |  |  | 14.5% |
+| 11:30 | INR | Deposit Growth |  |  | 11.9% |
+| 11:30 | INR | FX Reserves, USD |  |  | 709.76B |
+| 11:30 | BRL | Current Account (USD) (Feb) |  | -5.40B | -8.36B |
+| 11:30 | BRL | Foreign direct investment (USD) (Feb) |  | 7.42B | 8.17B |
+| 12:00 | MXN | Trade Balance (Feb) |  |  | -6.481B |
+| 12:00 | MXN | Trade Balance (USD) (Feb) |  |  | -1.248B |
+| 12:00 | MXN | Unemployment Rate (Feb) |  |  | 2.60% |
+| 12:00 | MXN | Unemployment Rate n.s.a. (Feb) |  | 2.60% | 2.70% |
+| 14:00 | USD | Michigan Current Conditions (Mar) |  | 57.8 | 56.6 |
+| 14:00 | USD | Wholesale Inventories (MoM) (Feb) |  |  | 0.2% |
+| 15:00 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 15:00 | CAD | Budget Balance (Jan) |  |  | 0.25B |
+| 15:00 | CAD | Budget Balance (YoY) (Jan) |  |  | -26.14B |
+| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -0.7K |
+| 20:30 | USD | CFTC Copper speculative net positions |  |  | 48.0K |
+| 20:30 | USD | CFTC Corn speculative net positions |  |  | 312.3K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -178.0K |
+| 20:30 | USD | CFTC Silver speculative net positions |  |  | 21.9K |
+| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 221.1K |
+| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -25.7K |
+| 20:30 | CAD | CFTC CAD speculative net positions |  |  | 0.9K |
+| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 68.5K |
+| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -25.2K |
+| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -23.1K |
