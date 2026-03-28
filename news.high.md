@@ -1,3 +1,3 @@
-## 27 March 2026 - High Impact Forex News
+## 28 March 2026 - High Impact Forex News
 
 There is no high impact news today.
