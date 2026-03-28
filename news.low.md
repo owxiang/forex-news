@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 10:00 | EUR | ECOFIN Meetings |  |  |  |
+| 42 min | EUR | ECOFIN Meetings |  |  |  |
