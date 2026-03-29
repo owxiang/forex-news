@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 23:30 | USD | High | U.S. President Trump Speaks |  |  |  |
+| 19 min | USD | High | U.S. President Trump Speaks |  |  |  |
