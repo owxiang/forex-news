@@ -43,8 +43,8 @@
 | 12:30 | BRL | Low | Bank lending (MoM) (Feb) | 0.4% |  | -0.2% |
 | 12:45 | ZAR | Low | Budget Balance (MoM) (Feb) | 27.28B |  | -69.69B |
 | 13:00 | INR | Low | Foreign Debt (USD) (Q4) | 765.5B |  | 746.0B |
-| 13:00 | EUR | Moderate | German CPI (YoY) (Mar) | 2.7% | 2.7% | 1.9% |
 | 13:00 | EUR | High | German CPI (MoM) (Mar) | 1.1% | 1.1% | 0.2% |
+| 13:00 | EUR | Moderate | German CPI (YoY) (Mar) | 2.7% | 2.7% | 1.9% |
 | 13:00 | EUR | Low | German HICP (MoM) (Mar) | 1.2% | 1.2% | 0.4% |
 | 13:00 | EUR | Low | German HICP (YoY) (Mar) | 2.8% | 2.8% | 2.0% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.660% |  | 2.585% |
@@ -54,6 +54,5 @@
 | 15:30 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 16:30 | USD | Low | 3-Month Bill Auction | 3.620% |  | 3.635% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 3.605% |  | 3.630% |
-| 18:30 | BRL | Low | CAGED Net Payroll Jobs (Feb) |  | 270.00K | 112.33K |
 | 20:00 | MXN | Low | Fiscal Balance (Feb) |  |  | -19.32B |
 | 21:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |

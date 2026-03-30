@@ -50,5 +50,4 @@
 | 15:30 | USD | Dallas Fed Mfg Business Index (Mar) | -0.2 |  | 0.2 |
 | 16:30 | USD | 3-Month Bill Auction | 3.620% |  | 3.635% |
 | 16:30 | USD | 6-Month Bill Auction | 3.605% |  | 3.630% |
-| 18:30 | BRL | CAGED Net Payroll Jobs (Feb) |  | 270.00K | 112.33K |
 | 20:00 | MXN | Fiscal Balance (Feb) |  |  | -19.32B |
