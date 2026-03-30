@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 37 min | JPY | Low | BoJ Summary of Opinions |  |  |  |
+| 00:50 | JPY | Low | BoJ Summary of Opinions |  |  |  |
 | 06:00 | JPY | Low | Housing Starts (YoY) (Feb) |  | -4.7% | -0.4% |
 | 07:00 | ZAR | Low | M3 Money Supply (YoY) (Feb) |  |  | 7.44% |
 | 07:00 | ZAR | Low | Private Sector Credit (Feb) |  |  | 8.83% |
