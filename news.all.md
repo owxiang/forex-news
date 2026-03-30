@@ -9,12 +9,12 @@
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Feb) | 2.2% | 3.8% | 3.8% |
 | 09:00 | EUR | Low | Italian PPI (MoM) (Feb) | -0.4% |  | 1.5% |
 | 09:00 | EUR | Low | Italian PPI (YoY) (Feb) | -2.7% |  | -1.6% |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Mar) | 2.5% |  | 1.8% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Mar) | 0.9% |  | 0.2% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Mar) | 2.5% |  | 1.8% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Mar) | 2.8% |  | 1.9% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Mar) | 1.2% |  | 0.2% |
-| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Mar) | 1.1% |  | 0.4% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Mar) | 2.8% |  | 2.0% |
+| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Mar) | 1.1% |  | 0.4% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Mar) | 2.9% |  | 2.2% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Mar) | 1.1% |  | 0.4% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Mar) | 2.7% |  | 1.8% |
@@ -37,16 +37,16 @@
 | 11:30 | INR | Low | Cumulative Industrial Production (Feb) | 4.10% |  | 4.00% |
 | 11:30 | INR | Low | Industrial Production (YoY) (Feb) | 5.2% | 4.7% | 4.8% |
 | 11:30 | INR | Low | Manufacturing Output (MoM) (Feb) | 6.0% |  | 4.8% |
-| 25 min | EUR | Low | Spanish Business Confidence (Mar) |  |  | -2.6 |
-| 25 min | BRL | Low | IGP-M Inflation Index (MoM) (Mar) |  |  | -0.73% |
-| 50 min | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 55 min | BRL | Low | Bank lending (MoM) (Feb) |  |  | -0.2% |
-| 55 min | EUR | Low | Business Climate (Mar) |  |  | -0.36 |
-| 13:00 | INR | Low | Foreign Debt (USD) (Q4) |  |  | 746.0B |
-| 13:00 | EUR | Moderate | German CPI (YoY) (Mar) |  | 2.7% | 1.9% |
-| 13:00 | EUR | High | German CPI (MoM) (Mar) |  | 1.1% | 0.2% |
-| 13:00 | EUR | Low | German HICP (MoM) (Mar) |  | 1.2% | 0.4% |
-| 13:00 | EUR | Low | German HICP (YoY) (Mar) |  | 2.8% | 2.0% |
+| 12:00 | BRL | Low | IGP-M Inflation Index (MoM) (Mar) | 0.52% |  | -0.73% |
+| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 3 min | EUR | Low | Spanish Business Confidence (Mar) |  |  | -2.6 |
+| 3 min | BRL | Low | Bank lending (MoM) (Feb) |  |  | -0.2% |
+| 3 min | EUR | Low | Business Climate (Mar) |  |  | -0.36 |
+| 33 min | INR | Low | Foreign Debt (USD) (Q4) | 765.5B |  | 746.0B |
+| 33 min | EUR | High | German CPI (MoM) (Mar) |  | 1.1% | 0.2% |
+| 33 min | EUR | Moderate | German CPI (YoY) (Mar) |  | 2.7% | 1.9% |
+| 33 min | EUR | Low | German HICP (YoY) (Mar) |  | 2.8% | 2.0% |
+| 33 min | EUR | Low | German HICP (MoM) (Mar) |  | 1.2% | 0.4% |
 | 14:00 | USD | Moderate | Retail Inventories Ex Auto (Feb) |  |  | 0.4% |
 | 14:00 | USD | Low | Wholesale Inventories (MoM) (Feb) |  |  | 0.2% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.585% |
@@ -57,5 +57,6 @@
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.635% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.630% |
 | 16:48 | ZAR | Low | Budget Balance (MoM) (Feb) |  |  | -69.69B |
+| 18:30 | BRL | Low | CAGED Net Payroll Jobs (Feb) |  | 270.00K | 112.33K |
 | 20:00 | MXN | Low | Fiscal Balance (Feb) |  |  | -19.32B |
 | 21:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
