@@ -32,14 +32,15 @@
 | 10:00 | EUR | Selling Price Expectations (Mar) | 19.7 |  | 12.3 |
 | 10:00 | EUR | Services Sentiment (Mar) | 4.9 | 4.0 | 5.0 |
 | 10:00 | EUR | Industrial Sentiment (Mar) | -7.0 | -9.0 | -7.2 |
-| 21 min | EUR | Business Climate (Mar) |  |  | -0.36 |
-| 51 min | INR | Cumulative Industrial Production (Feb) |  |  | 4.00% |
-| 51 min | INR | Industrial Production (YoY) (Feb) |  | 4.7% | 4.8% |
-| 51 min | INR | Manufacturing Output (MoM) (Feb) |  |  | 4.8% |
-| 12:00 | EUR | Spanish Business Confidence (Mar) |  |  | -2.6 |
-| 12:00 | BRL | IGP-M Inflation Index (MoM) (Mar) |  |  | -0.73% |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:30 | BRL | Bank lending (MoM) (Feb) |  |  | -0.2% |
+| 11:00 | INR | Federal Fiscal Deficit (Feb) | 12,526.49B |  | 9,814.07B |
+| 11:30 | INR | Cumulative Industrial Production (Feb) | 4.10% |  | 4.00% |
+| 11:30 | INR | Industrial Production (YoY) (Feb) | 5.2% | 4.7% | 4.8% |
+| 11:30 | INR | Manufacturing Output (MoM) (Feb) | 6.0% |  | 4.8% |
+| 25 min | EUR | Spanish Business Confidence (Mar) |  |  | -2.6 |
+| 25 min | BRL | IGP-M Inflation Index (MoM) (Mar) |  |  | -0.73% |
+| 50 min | BRL | BCB Focus Market Readout |  |  |  |
+| 55 min | BRL | Bank lending (MoM) (Feb) |  |  | -0.2% |
+| 55 min | EUR | Business Climate (Mar) |  |  | -0.36 |
 | 13:00 | INR | Foreign Debt (USD) (Q4) |  |  | 746.0B |
 | 13:00 | EUR | German HICP (MoM) (Mar) |  | 1.2% | 0.4% |
 | 13:00 | EUR | German HICP (YoY) (Mar) |  | 2.8% | 2.0% |
