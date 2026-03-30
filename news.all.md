@@ -50,10 +50,10 @@
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.660% |  | 2.585% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.238% |  | 2.226% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.407% |  | 2.412% |
-| 50 min | USD | Low | Dallas Fed Mfg Business Index (Mar) |  |  | 0.2 |
-| 50 min | USD | High | Fed Chair Powell Speaks |  |  |  |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.635% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.630% |
+| 15:30 | USD | Low | Dallas Fed Mfg Business Index (Mar) | -0.2 |  | 0.2 |
+| 15:30 | USD | High | Fed Chair Powell Speaks |  |  |  |
+| 52 min | USD | Low | 3-Month Bill Auction |  |  | 3.635% |
+| 52 min | USD | Low | 6-Month Bill Auction |  |  | 3.630% |
 | 18:30 | BRL | Low | CAGED Net Payroll Jobs (Feb) |  | 270.00K | 112.33K |
 | 20:00 | MXN | Low | Fiscal Balance (Feb) |  |  | -19.32B |
 | 21:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
