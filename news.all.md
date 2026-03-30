@@ -54,4 +54,4 @@
 | 15:30 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 16:30 | USD | Low | 3-Month Bill Auction | 3.620% |  | 3.635% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 3.605% |  | 3.630% |
-| 33 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 21:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |

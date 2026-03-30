@@ -4,4 +4,4 @@
 |------|----------|-------|--------|----------|----------|
 | 08:00 | CHF | KOF Leading Indicators (Mar) | 96.1 | 101.1 | 103.8 |
 | 13:00 | EUR | German CPI (YoY) (Mar) | 2.7% | 2.7% | 1.9% |
-| 33 min | USD | FOMC Member Williams Speaks |  |  |  |
+| 21:00 | USD | FOMC Member Williams Speaks |  |  |  |
