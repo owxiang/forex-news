@@ -8,16 +8,16 @@
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Feb) | 2.2% | 3.8% | 3.8% |
 | 09:00 | EUR | Italian PPI (MoM) (Feb) | -0.4% |  | 1.5% |
 | 09:00 | EUR | Italian PPI (YoY) (Feb) | -2.7% |  | -1.6% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Mar) | 0.9% |  | 0.2% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Mar) | 2.5% |  | 1.8% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Mar) | 0.9% |  | 0.2% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Mar) | 2.8% |  | 1.9% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Mar) | 1.2% |  | 0.2% |
-| 09:00 | EUR | Brandenburg CPI (YoY) (Mar) | 2.8% |  | 2.0% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Mar) | 1.1% |  | 0.4% |
+| 09:00 | EUR | Brandenburg CPI (YoY) (Mar) | 2.8% |  | 2.0% |
 | 09:00 | EUR | Hesse CPI (YoY) (Mar) | 2.9% |  | 2.2% |
 | 09:00 | EUR | Hesse CPI (MoM) (Mar) | 1.1% |  | 0.4% |
-| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Mar) | 1.2% |  | 0.2% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Mar) | 2.7% |  | 1.8% |
+| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Mar) | 1.2% |  | 0.2% |
 | 09:00 | EUR | Saxony CPI (YoY) (Mar) | 2.8% |  | 2.3% |
 | 09:00 | EUR | Saxony CPI (MoM) (Mar) | 1.1% |  | 0.3% |
 | 09:30 | GBP | BoE Consumer Credit (Feb) | 1.935B | 1.600B | 1.828B |
@@ -26,16 +26,16 @@
 | 09:30 | GBP | Mortgage Approvals (Feb) | 62.58K | 61.00K | 60.25K |
 | 09:30 | GBP | Mortgage Lending (Feb) | 4.84B | 4.10B | 4.21B |
 | 09:30 | GBP | Net Lending to Individuals (Feb) | 6.800B | 5.600B | 5.900B |
-| 20 min | EUR | Business and Consumer Survey (Mar) |  | 96.5 | 98.3 |
-| 20 min | EUR | Business Climate (Mar) |  |  | -0.36 |
-| 20 min | EUR | Consumer Confidence (Mar) |  | -16.3 | -16.3 |
-| 20 min | EUR | Consumer Inflation Expectation (Mar) |  |  | 25.8 |
-| 20 min | EUR | Selling Price Expectations (Mar) |  |  | 11.5 |
-| 20 min | EUR | Services Sentiment (Mar) |  | 4.0 | 5.0 |
-| 20 min | EUR | Industrial Sentiment (Mar) |  | -9.0 | -7.1 |
-| 11:30 | INR | Cumulative Industrial Production (Feb) |  |  | 4.00% |
-| 11:30 | INR | Industrial Production (YoY) (Feb) |  | 4.7% | 4.8% |
-| 11:30 | INR | Manufacturing Output (MoM) (Feb) |  |  | 4.8% |
+| 10:00 | EUR | Business and Consumer Survey (Mar) | 96.6 | 96.5 | 98.2 |
+| 10:00 | EUR | Consumer Confidence (Mar) | -16.3 | -16.3 | -16.3 |
+| 10:00 | EUR | Consumer Inflation Expectation (Mar) | 43.4 |  | 26.2 |
+| 10:00 | EUR | Selling Price Expectations (Mar) | 19.7 |  | 12.3 |
+| 10:00 | EUR | Services Sentiment (Mar) | 4.9 | 4.0 | 5.0 |
+| 10:00 | EUR | Industrial Sentiment (Mar) | -7.0 | -9.0 | -7.2 |
+| 21 min | EUR | Business Climate (Mar) |  |  | -0.36 |
+| 51 min | INR | Cumulative Industrial Production (Feb) |  |  | 4.00% |
+| 51 min | INR | Industrial Production (YoY) (Feb) |  | 4.7% | 4.8% |
+| 51 min | INR | Manufacturing Output (MoM) (Feb) |  |  | 4.8% |
 | 12:00 | EUR | Spanish Business Confidence (Mar) |  |  | -2.6 |
 | 12:00 | BRL | IGP-M Inflation Index (MoM) (Mar) |  |  | -0.73% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
