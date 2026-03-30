@@ -10,8 +10,8 @@
 | 09:00 | EUR | Italian PPI (YoY) (Feb) |  |  | -1.6% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Mar) |  |  | 0.2% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Mar) |  |  | 1.9% |
-| 09:00 | EUR | Brandenburg CPI (YoY) (Mar) |  |  | 2.0% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Mar) |  |  | 0.4% |
+| 09:00 | EUR | Brandenburg CPI (YoY) (Mar) |  |  | 2.0% |
 | 09:00 | EUR | Hesse CPI (MoM) (Mar) |  |  | 0.4% |
 | 09:00 | EUR | Hesse CPI (YoY) (Mar) |  |  | 2.2% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Mar) |  |  | 1.8% |

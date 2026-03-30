@@ -11,8 +11,8 @@
 | 09:00 | EUR | Low | Italian PPI (YoY) (Feb) |  |  | -1.6% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Mar) |  |  | 0.2% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Mar) |  |  | 1.9% |
-| 09:00 | EUR | Low | Brandenburg CPI (YoY) (Mar) |  |  | 2.0% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Mar) |  |  | 0.4% |
+| 09:00 | EUR | Low | Brandenburg CPI (YoY) (Mar) |  |  | 2.0% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Mar) |  |  | 0.4% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Mar) |  |  | 2.2% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Mar) |  |  | 1.8% |
@@ -59,3 +59,4 @@
 | 16:48 | ZAR | Low | Budget Balance (MoM) (Feb) |  |  | -69.69B |
 | 20:00 | MXN | Low | Fiscal Balance (Feb) |  |  | -19.32B |
 | 21:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 23:30 | USD | High | U.S. President Trump Speaks |  |  |  |
