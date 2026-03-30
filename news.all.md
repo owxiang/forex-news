@@ -3,16 +3,15 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:50 | JPY | Low | BoJ Summary of Opinions |  |  |  |
-| 06:00 | JPY | Low | Housing Starts (YoY) (Feb) |  | -4.7% | -0.4% |
-| 57 min | ZAR | Low | M3 Money Supply (YoY) (Feb) |  |  | 7.44% |
-| 57 min | ZAR | Low | Private Sector Credit (Feb) |  |  | 8.83% |
-| 08:00 | CHF | Moderate | KOF Leading Indicators (Mar) |  | 101.1 | 104.2 |
+| 07:00 | ZAR | Low | M3 Money Supply (YoY) (Feb) | 8.39% |  | 7.44% |
+| 07:00 | ZAR | Low | Private Sector Credit (Feb) | 10.50% |  | 8.83% |
+| 14 min | CHF | Moderate | KOF Leading Indicators (Mar) |  | 101.1 | 104.2 |
 | 09:00 | EUR | Low | Italian PPI (MoM) (Feb) |  |  | 1.5% |
 | 09:00 | EUR | Low | Italian PPI (YoY) (Feb) |  |  | -1.6% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Mar) |  |  | 0.2% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Mar) |  |  | 1.9% |
-| 09:00 | EUR | Low | Brandenburg CPI (YoY) (Mar) |  |  | 2.0% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Mar) |  |  | 0.4% |
+| 09:00 | EUR | Low | Brandenburg CPI (YoY) (Mar) |  |  | 2.0% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Mar) |  |  | 0.4% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Mar) |  |  | 2.2% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Mar) |  |  | 1.8% |
@@ -43,10 +42,10 @@
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:30 | BRL | Low | Bank lending (MoM) (Feb) |  |  | -0.2% |
 | 13:00 | INR | Low | Foreign Debt (USD) (Q4) |  |  | 746.0B |
-| 13:00 | EUR | High | German CPI (MoM) (Mar) |  | 0.9% | 0.2% |
+| 13:00 | EUR | High | German CPI (MoM) (Mar) |  | 1.1% | 0.2% |
 | 13:00 | EUR | Moderate | German CPI (YoY) (Mar) |  |  | 1.9% |
-| 13:00 | EUR | Low | German HICP (MoM) (Mar) |  |  | 0.4% |
 | 13:00 | EUR | Low | German HICP (YoY) (Mar) |  |  | 2.0% |
+| 13:00 | EUR | Low | German HICP (MoM) (Mar) |  |  | 0.4% |
 | 14:00 | USD | Moderate | Retail Inventories Ex Auto (Feb) |  |  | 0.4% |
 | 14:00 | USD | Low | Wholesale Inventories (MoM) (Feb) |  |  | 0.2% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.585% |

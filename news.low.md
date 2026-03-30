@@ -3,15 +3,14 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | BoJ Summary of Opinions |  |  |  |
-| 06:00 | JPY | Housing Starts (YoY) (Feb) |  | -4.7% | -0.4% |
-| 57 min | ZAR | M3 Money Supply (YoY) (Feb) |  |  | 7.44% |
-| 57 min | ZAR | Private Sector Credit (Feb) |  |  | 8.83% |
+| 07:00 | ZAR | M3 Money Supply (YoY) (Feb) | 8.39% |  | 7.44% |
+| 07:00 | ZAR | Private Sector Credit (Feb) | 10.50% |  | 8.83% |
 | 09:00 | EUR | Italian PPI (MoM) (Feb) |  |  | 1.5% |
 | 09:00 | EUR | Italian PPI (YoY) (Feb) |  |  | -1.6% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Mar) |  |  | 0.2% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Mar) |  |  | 1.9% |
-| 09:00 | EUR | Brandenburg CPI (YoY) (Mar) |  |  | 2.0% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Mar) |  |  | 0.4% |
+| 09:00 | EUR | Brandenburg CPI (YoY) (Mar) |  |  | 2.0% |
 | 09:00 | EUR | Hesse CPI (MoM) (Mar) |  |  | 0.4% |
 | 09:00 | EUR | Hesse CPI (YoY) (Mar) |  |  | 2.2% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Mar) |  |  | 1.8% |
@@ -42,8 +41,8 @@
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:30 | BRL | Bank lending (MoM) (Feb) |  |  | -0.2% |
 | 13:00 | INR | Foreign Debt (USD) (Q4) |  |  | 746.0B |
-| 13:00 | EUR | German HICP (MoM) (Mar) |  |  | 0.4% |
 | 13:00 | EUR | German HICP (YoY) (Mar) |  |  | 2.0% |
+| 13:00 | EUR | German HICP (MoM) (Mar) |  |  | 0.4% |
 | 14:00 | USD | Wholesale Inventories (MoM) (Feb) |  |  | 0.2% |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.585% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.226% |
