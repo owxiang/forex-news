@@ -44,10 +44,10 @@
 | 13:00 | INR | Foreign Debt (USD) (Q4) | 765.5B |  | 746.0B |
 | 13:00 | EUR | German HICP (MoM) (Mar) | 1.2% | 1.2% | 0.4% |
 | 13:00 | EUR | German HICP (YoY) (Mar) | 2.8% | 2.8% | 2.0% |
-| 32 min | EUR | French 12-Month BTF Auction |  |  | 2.585% |
-| 32 min | EUR | French 3-Month BTF Auction |  |  | 2.226% |
-| 32 min | EUR | French 6-Month BTF Auction |  |  | 2.412% |
-| 15:30 | USD | Dallas Fed Mfg Business Index (Mar) |  |  | 0.2 |
+| 14:00 | EUR | French 12-Month BTF Auction | 2.660% |  | 2.585% |
+| 14:00 | EUR | French 3-Month BTF Auction | 2.238% |  | 2.226% |
+| 14:00 | EUR | French 6-Month BTF Auction | 2.407% |  | 2.412% |
+| 50 min | USD | Dallas Fed Mfg Business Index (Mar) |  |  | 0.2 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 3.635% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 3.630% |
 | 18:30 | BRL | CAGED Net Payroll Jobs (Feb) |  | 270.00K | 112.33K |
