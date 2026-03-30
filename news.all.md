@@ -15,8 +15,8 @@
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Mar) | 1.2% |  | 0.2% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Mar) | 2.8% |  | 2.0% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Mar) | 1.1% |  | 0.4% |
-| 09:00 | EUR | Low | Hesse CPI (MoM) (Mar) | 1.1% |  | 0.4% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Mar) | 2.9% |  | 2.2% |
+| 09:00 | EUR | Low | Hesse CPI (MoM) (Mar) | 1.1% |  | 0.4% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Mar) | 2.7% |  | 1.8% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Mar) | 1.2% |  | 0.2% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Mar) | 2.8% |  | 2.3% |
@@ -54,5 +54,4 @@
 | 15:30 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 16:30 | USD | Low | 3-Month Bill Auction | 3.620% |  | 3.635% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 3.605% |  | 3.630% |
-| 20:00 | MXN | Low | Fiscal Balance (Feb) |  |  | -19.32B |
-| 21:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 33 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |

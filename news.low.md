@@ -14,8 +14,8 @@
 | 09:00 | EUR | Bavaria CPI (MoM) (Mar) | 1.2% |  | 0.2% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Mar) | 2.8% |  | 2.0% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Mar) | 1.1% |  | 0.4% |
-| 09:00 | EUR | Hesse CPI (MoM) (Mar) | 1.1% |  | 0.4% |
 | 09:00 | EUR | Hesse CPI (YoY) (Mar) | 2.9% |  | 2.2% |
+| 09:00 | EUR | Hesse CPI (MoM) (Mar) | 1.1% |  | 0.4% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Mar) | 2.7% |  | 1.8% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Mar) | 1.2% |  | 0.2% |
 | 09:00 | EUR | Saxony CPI (YoY) (Mar) | 2.8% |  | 2.3% |
@@ -50,4 +50,3 @@
 | 15:30 | USD | Dallas Fed Mfg Business Index (Mar) | -0.2 |  | 0.2 |
 | 16:30 | USD | 3-Month Bill Auction | 3.620% |  | 3.635% |
 | 16:30 | USD | 6-Month Bill Auction | 3.605% |  | 3.630% |
-| 20:00 | MXN | Fiscal Balance (Feb) |  |  | -19.32B |
