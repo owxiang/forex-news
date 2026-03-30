@@ -4,15 +4,15 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:50 | JPY | Low | BoJ Summary of Opinions |  |  |  |
 | 06:00 | JPY | Low | Housing Starts (YoY) (Feb) |  | -4.7% | -0.4% |
-| 07:00 | ZAR | Low | M3 Money Supply (YoY) (Feb) |  |  | 7.44% |
-| 07:00 | ZAR | Low | Private Sector Credit (Feb) |  |  | 8.83% |
+| 57 min | ZAR | Low | M3 Money Supply (YoY) (Feb) |  |  | 7.44% |
+| 57 min | ZAR | Low | Private Sector Credit (Feb) |  |  | 8.83% |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Mar) |  | 101.1 | 104.2 |
 | 09:00 | EUR | Low | Italian PPI (MoM) (Feb) |  |  | 1.5% |
 | 09:00 | EUR | Low | Italian PPI (YoY) (Feb) |  |  | -1.6% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Mar) |  |  | 0.2% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Mar) |  |  | 1.9% |
-| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Mar) |  |  | 0.4% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Mar) |  |  | 2.0% |
+| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Mar) |  |  | 0.4% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Mar) |  |  | 0.4% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Mar) |  |  | 2.2% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Mar) |  |  | 1.8% |
@@ -59,4 +59,3 @@
 | 16:48 | ZAR | Low | Budget Balance (MoM) (Feb) |  |  | -69.69B |
 | 20:00 | MXN | Low | Fiscal Balance (Feb) |  |  | -19.32B |
 | 21:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 23:30 | USD | High | U.S. President Trump Speaks |  |  |  |
