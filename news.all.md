@@ -21,15 +21,15 @@
 | 00:50 | JPY | Low | Retail Sales (YoY) (Feb) | -0.2% | 0.9% | 1.8% |
 | 01:00 | NZD | Low | ANZ Business Confidence (Mar) | 32.5 |  | 59.2 |
 | 01:00 | NZD | Low | NBNZ Own Activity (Mar) | 39.3% |  | 52.6% |
-| 01:30 | AUD | Low | Housing Credit (Feb) | 0.6% |  | 0.6% |
 | 01:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
-| 01:30 | AUD | Low | Private Sector Credit (MoM) (Feb) | 0.6% | 0.6% | 0.5% |
+| 02:30 | AUD | Low | Housing Credit (Mar) | 0.6% |  | 0.6% |
+| 02:30 | AUD | Low | Private Sector Credit (MoM) (Mar) | 0.6% | 0.6% | 0.6% |
 | 02:30 | CNY | Moderate | Chinese Composite PMI (Mar) | 50.5 |  | 49.5 |
 | 02:30 | CNY | High | Manufacturing PMI (Mar) | 50.4 | 50.1 | 49.0 |
 | 02:30 | CNY | Moderate | Non-Manufacturing PMI (Mar) | 50.1 | 49.9 | 49.5 |
-| 20 min | SGD | Low | Bank Lending (Feb) |  |  | 887.5B |
-| 20 min | NZD | Low | M3 Money Supply (Feb) |  |  | 441.7B |
-| 04:35 | JPY | Low | 2-Year JGB Auction |  |  | 1.244% |
+| 03:00 | SGD | Low | Bank Lending (Feb) | 893.6B |  | 887.5B |
+| 03:00 | NZD | Low | M3 Money Supply (Feb) | 445.9B |  | 441.7B |
+| 23 min | JPY | Low | 2-Year JGB Auction |  |  | 1.244% |
 | 06:00 | JPY | Low | Construction Orders (YoY) (Feb) |  |  | 5.7% |
 | 06:00 | JPY | Low | Housing Starts (YoY) (Feb) |  | -4.6% | -0.4% |
 | 07:00 | GBP | Moderate | Business Investment (QoQ) (Q4) |  | -2.7% | 1.6% |
