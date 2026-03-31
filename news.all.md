@@ -112,9 +112,9 @@
 | 17:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 18:30 | BRL | Low | CAGED Net Payroll Jobs (Feb) | 255.32K | 270.00K | 112.33K |
 | 20:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.300M | 2.300M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | 10.263M | -1.300M | 2.300M |
 | 22:10 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 27 min | NZD | Low | Building Consents (MoM) (Feb) |  |  | 1.9% |
-| 42 min | AUD | Low | AIG Construction Index (Mar) |  |  | -8.2 |
-| 42 min | AUD | Low | AIG Manufacturing Index (Mar) |  |  | -15.6 |
-| 42 min | AUD | Low | S&P Global Manufacturing PMI (Mar) |  | 50.1 | 51.0 |
+| 22:45 | NZD | Low | Building Consents (MoM) (Feb) | 2.7% |  | 2.0% |
+| 23:00 | AUD | Low | AIG Construction Index (Mar) | -31.4 |  | -8.2 |
+| 23:00 | AUD | Low | AIG Manufacturing Index (Mar) | -27.9 |  | -15.6 |
+| 23:00 | AUD | Low | S&P Global Manufacturing PMI (Mar) | 49.8 | 50.1 | 51.0 |
