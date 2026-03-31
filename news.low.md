@@ -24,12 +24,12 @@
 | 03:00 | SGD | Bank Lending (Feb) | 893.6B |  | 887.5B |
 | 03:00 | NZD | M3 Money Supply (Feb) | 445.9B |  | 441.7B |
 | 04:35 | JPY | 2-Year JGB Auction | 1.370% |  | 1.244% |
-| 6 min | JPY | Construction Orders (YoY) (Feb) |  |  | 5.7% |
-| 6 min | JPY | Housing Starts (YoY) (Feb) |  | -4.5% | -0.4% |
-| 07:00 | GBP | Business Investment (YoY) (Q4) |  | 2.0% | 2.5% |
-| 07:00 | EUR | German Import Price Index (MoM) (Feb) |  | 0.7% | 1.1% |
-| 07:00 | EUR | German Import Price Index (YoY) (Feb) |  |  | -2.3% |
-| 07:00 | EUR | German Retail Sales (YoY) (Feb) |  | 1.0% | 1.2% |
+| 06:00 | JPY | Construction Orders (YoY) (Feb) | 42.7% |  | 5.7% |
+| 06:00 | JPY | Housing Starts (YoY) (Feb) | -4.9% | -4.5% | -0.4% |
+| 22 min | GBP | Business Investment (YoY) (Q4) |  | 2.0% | 2.5% |
+| 22 min | EUR | German Import Price Index (MoM) (Feb) |  | 0.7% | 1.1% |
+| 22 min | EUR | German Import Price Index (YoY) (Feb) |  |  | -2.3% |
+| 22 min | EUR | German Retail Sales (YoY) (Feb) |  | 1.0% | 1.2% |
 | 07:45 | EUR | French CPI (YoY) (Mar) |  | 1.6% | 0.9% |
 | 07:45 | EUR | French HICP (YoY) (Mar) |  | 1.9% | 1.1% |
 | 07:45 | EUR | French PPI (MoM) (Feb) |  | -0.2% | 0.5% |

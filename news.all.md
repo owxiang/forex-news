@@ -30,19 +30,19 @@
 | 03:00 | SGD | Low | Bank Lending (Feb) | 893.6B |  | 887.5B |
 | 03:00 | NZD | Low | M3 Money Supply (Feb) | 445.9B |  | 441.7B |
 | 04:35 | JPY | Low | 2-Year JGB Auction | 1.370% |  | 1.244% |
-| 6 min | JPY | Low | Construction Orders (YoY) (Feb) |  |  | 5.7% |
-| 6 min | JPY | Low | Housing Starts (YoY) (Feb) |  | -4.5% | -0.4% |
-| 07:00 | GBP | Moderate | Business Investment (QoQ) (Q4) |  | -2.7% | 1.6% |
-| 07:00 | GBP | Low | Business Investment (YoY) (Q4) |  | 2.0% | 2.5% |
-| 07:00 | GBP | Moderate | Current Account (Q4) |  | -24.0B | -12.1B |
-| 07:00 | GBP | High | GDP (QoQ) (Q4) |  | 0.1% | 0.1% |
-| 07:00 | GBP | High | GDP (YoY) (Q4) |  | 1.0% | 1.2% |
-| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Mar) |  | 0.0% | 0.3% |
-| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Mar) |  |  | 1.0% |
-| 07:00 | EUR | Low | German Import Price Index (MoM) (Feb) |  | 0.7% | 1.1% |
-| 07:00 | EUR | Low | German Import Price Index (YoY) (Feb) |  |  | -2.3% |
-| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Feb) |  | 0.3% | -0.9% |
-| 07:00 | EUR | Low | German Retail Sales (YoY) (Feb) |  | 1.0% | 1.2% |
+| 06:00 | JPY | Low | Construction Orders (YoY) (Feb) | 42.7% |  | 5.7% |
+| 06:00 | JPY | Low | Housing Starts (YoY) (Feb) | -4.9% | -4.5% | -0.4% |
+| 22 min | GBP | Moderate | Business Investment (QoQ) (Q4) |  | -2.7% | 1.6% |
+| 22 min | GBP | Low | Business Investment (YoY) (Q4) |  | 2.0% | 2.5% |
+| 22 min | GBP | Moderate | Current Account (Q4) |  | -24.0B | -12.1B |
+| 22 min | GBP | High | GDP (QoQ) (Q4) |  | 0.1% | 0.1% |
+| 22 min | GBP | High | GDP (YoY) (Q4) |  | 1.0% | 1.2% |
+| 22 min | GBP | Moderate | Nationwide HPI (MoM) (Mar) |  | 0.0% | 0.3% |
+| 22 min | GBP | Moderate | Nationwide HPI (YoY) (Mar) |  |  | 1.0% |
+| 22 min | EUR | Low | German Import Price Index (MoM) (Feb) |  | 0.7% | 1.1% |
+| 22 min | EUR | Low | German Import Price Index (YoY) (Feb) |  |  | -2.3% |
+| 22 min | EUR | Moderate | German Retail Sales (MoM) (Feb) |  | 0.3% | -0.9% |
+| 22 min | EUR | Low | German Retail Sales (YoY) (Feb) |  | 1.0% | 1.2% |
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Feb) |  | -0.3% | 0.5% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Mar) |  | 0.9% | 0.6% |
 | 07:45 | EUR | Low | French CPI (YoY) (Mar) |  | 1.6% | 0.9% |
