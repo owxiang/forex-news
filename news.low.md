@@ -53,10 +53,9 @@
 | 10:00 | EUR | CPI, n.s.a (Mar) | 101.96 |  | 100.71 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Mar) | 2.2% |  | 2.3% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Mar) | 0.7% |  | 0.6% |
-| 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.270% |
-| 11:00 | EUR | Italian Industrial Sales (MoM) (Jan) |  |  | 0.50% |
-| 11:00 | EUR | Italian Industrial Sales (YoY) (Jan) |  |  | 3.60% |
-| 11:00 | INR | Federal Fiscal Deficit (Feb) |  |  | 9,814.07B |
+| 10:30 | EUR | German 2-Year Schatz Auction | 2.620% |  | 2.270% |
+| 11:00 | EUR | Italian Industrial Sales (MoM) (Jan) | -0.30% |  | 0.60% |
+| 11:00 | EUR | Italian Industrial Sales (YoY) (Jan) | -1.00% |  | 3.50% |
 | 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
 | 12:30 | BRL | Net Debt-to-GDP ratio (Feb) |  |  | 65.0% |
 | 12:30 | BRL | Budget Balance (Feb) |  |  | 40.062B |

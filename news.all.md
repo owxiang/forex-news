@@ -74,10 +74,9 @@
 | 10:00 | EUR | Low | CPI, n.s.a (Mar) | 101.96 |  | 100.71 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Mar) | 2.2% |  | 2.3% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Mar) | 0.7% |  | 0.6% |
-| 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 2.270% |
-| 11:00 | EUR | Low | Italian Industrial Sales (MoM) (Jan) |  |  | 0.50% |
-| 11:00 | EUR | Low | Italian Industrial Sales (YoY) (Jan) |  |  | 3.60% |
-| 11:00 | INR | Low | Federal Fiscal Deficit (Feb) |  |  | 9,814.07B |
+| 10:30 | EUR | Low | German 2-Year Schatz Auction | 2.620% |  | 2.270% |
+| 11:00 | EUR | Low | Italian Industrial Sales (MoM) (Jan) | -0.30% |  | 0.60% |
+| 11:00 | EUR | Low | Italian Industrial Sales (YoY) (Jan) | -1.00% |  | 3.50% |
 | 12:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
 | 12:30 | BRL | Low | Net Debt-to-GDP ratio (Feb) |  |  | 65.0% |
 | 12:30 | BRL | Low | Budget Balance (Feb) |  |  | 40.062B |
@@ -105,7 +104,7 @@
 | 18:30 | BRL | Low | CAGED Net Payroll Jobs (Feb) |  | 270.00K | 112.33K |
 | 20:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 20:00 | MXN | Low | Fiscal Balance (Feb) |  |  | -19.32B |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 2.300M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.300M | 2.300M |
 | 22:10 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 22:45 | NZD | Low | Building Consents (MoM) (Feb) |  |  | 1.9% |
 | 23:00 | AUD | Low | AIG Construction Index (Mar) |  |  | -8.2 |
