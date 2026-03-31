@@ -55,18 +55,18 @@
 | 08:00 | INR | Low | Current Account % of GDP (QoQ) (Q4) | -1.30% |  | -1.30% |
 | 08:00 | INR | Low | Current Account (USD) (Q4) | -13.20B |  | -13.20B |
 | 08:00 | INR | Low | Trade Balance (USD) (Q3) | -87.400B |  | -93.600B |
-| 08:55 | EUR | Moderate | German Unemployment Change (Mar) |  | 2K | 1K |
-| 08:55 | EUR | Moderate | German Unemployment Rate (Mar) |  | 6.3% | 6.3% |
-| 08:55 | EUR | Low | German Unemployment (Mar) |  |  | 2.977M |
-| 08:55 | EUR | Low | German Unemployment n.s.a. (Mar) |  |  | 3.070M |
+| 08:55 | EUR | Moderate | German Unemployment Change (Mar) | 0K | 2K | 1K |
+| 08:55 | EUR | Moderate | German Unemployment Rate (Mar) | 6.3% | 6.3% | 6.3% |
+| 08:55 | EUR | Low | German Unemployment (Mar) | 2.977M |  | 2.977M |
+| 08:55 | EUR | Low | German Unemployment n.s.a. (Mar) | 3.021M |  | 3.070M |
+| 09:00 | EUR | Low | Spanish Current account (Jan) | 2.73B |  | 1.80B |
+| 09:00 | NOK | Low | Central Bank Currency Purchase (Apr) | -50.0M |  | -600.0M |
 | 09:00 | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
-| 09:30 | HKD | Low | M3 Money Supply (Feb) |  |  | 3.8% |
+| 09:30 | HKD | Low | M3 Money Supply (Feb) | 2.1% |  | 3.8% |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Mar) |  | 0.6% | 0.7% |
 | 10:00 | EUR | Low | Italian CPI (YoY) (Mar) |  |  | 1.5% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Mar) |  |  | 0.5% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Mar) |  |  | 1.5% |
-| 10:00 | EUR | Low | Spanish Current account (Jan) |  |  | 1.80B |
-| 10:00 | NOK | Low | Central Bank Currency Purchase (Apr) |  |  | -600.0M |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Mar) |  | 2.4% | 2.4% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Mar) |  |  | 0.8% |
 | 10:00 | EUR | High | CPI (YoY) (Mar) |  | 2.6% | 1.9% |

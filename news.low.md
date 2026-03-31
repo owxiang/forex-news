@@ -39,16 +39,16 @@
 | 08:00 | INR | Current Account % of GDP (QoQ) (Q4) | -1.30% |  | -1.30% |
 | 08:00 | INR | Current Account (USD) (Q4) | -13.20B |  | -13.20B |
 | 08:00 | INR | Trade Balance (USD) (Q3) | -87.400B |  | -93.600B |
-| 08:55 | EUR | German Unemployment (Mar) |  |  | 2.977M |
-| 08:55 | EUR | German Unemployment n.s.a. (Mar) |  |  | 3.070M |
+| 08:55 | EUR | German Unemployment (Mar) | 2.977M |  | 2.977M |
+| 08:55 | EUR | German Unemployment n.s.a. (Mar) | 3.021M |  | 3.070M |
+| 09:00 | EUR | Spanish Current account (Jan) | 2.73B |  | 1.80B |
+| 09:00 | NOK | Central Bank Currency Purchase (Apr) | -50.0M |  | -600.0M |
 | 09:00 | ZAR | SARB Quarterly Bulletin |  |  |  |
-| 09:30 | HKD | M3 Money Supply (Feb) |  |  | 3.8% |
+| 09:30 | HKD | M3 Money Supply (Feb) | 2.1% |  | 3.8% |
 | 10:00 | EUR | Italian CPI (MoM) (Mar) |  | 0.6% | 0.7% |
 | 10:00 | EUR | Italian CPI (YoY) (Mar) |  |  | 1.5% |
 | 10:00 | EUR | Italian HICP (MoM) (Mar) |  |  | 0.5% |
 | 10:00 | EUR | Italian HICP (YoY) (Mar) |  |  | 1.5% |
-| 10:00 | EUR | Spanish Current account (Jan) |  |  | 1.80B |
-| 10:00 | NOK | Central Bank Currency Purchase (Apr) |  |  | -600.0M |
 | 10:00 | EUR | Core CPI (MoM) (Mar) |  |  | 0.8% |
 | 10:00 | EUR | CPI, n.s.a (Mar) |  |  | 100.71 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Mar) |  |  | 2.3% |

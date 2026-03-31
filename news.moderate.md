@@ -15,8 +15,8 @@
 | 07:45 | EUR | French Consumer Spending (MoM) (Feb) | -1.4% | -0.3% | 0.4% |
 | 07:45 | EUR | French CPI (MoM) (Mar) | 0.9% | 0.9% | 0.6% |
 | 07:45 | EUR | French HICP (MoM) (Mar) | 1.1% |  | 0.7% |
-| 08:55 | EUR | German Unemployment Change (Mar) |  | 2K | 1K |
-| 08:55 | EUR | German Unemployment Rate (Mar) |  | 6.3% | 6.3% |
+| 08:55 | EUR | German Unemployment Change (Mar) | 0K | 2K | 1K |
+| 08:55 | EUR | German Unemployment Rate (Mar) | 6.3% | 6.3% | 6.3% |
 | 10:00 | EUR | Core CPI (YoY) (Mar) |  | 2.4% | 2.4% |
 | 10:00 | EUR | CPI (MoM) (Mar) |  |  | 0.6% |
 | 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Feb) |  |  | 78.7% |
