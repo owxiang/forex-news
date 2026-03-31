@@ -56,14 +56,14 @@
 | 10:30 | EUR | German 2-Year Schatz Auction | 2.620% |  | 2.270% |
 | 11:00 | EUR | Italian Industrial Sales (MoM) (Jan) | -0.30% |  | 0.60% |
 | 11:00 | EUR | Italian Industrial Sales (YoY) (Jan) | -1.00% |  | 3.50% |
-| 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
-| 12:30 | BRL | Net Debt-to-GDP ratio (Feb) |  |  | 65.0% |
-| 12:30 | BRL | Budget Balance (Feb) |  |  | 40.062B |
-| 12:30 | BRL | Budget Surplus (Feb) |  |  | 103.689B |
-| 13:00 | INR | Foreign Debt (USD) (Q4) |  |  | 746.0B |
-| 13:00 | BRL | Long Term Interest Rate TJLP (Q2) |  |  | 9.19% |
-| 13:00 | BRL | Brazilian PPI (MoM) (Feb) |  |  | 0.34% |
-| 13:00 | ZAR | Trade Balance (Feb) |  |  | 9.31B |
+| 7 min | INR | RBI Monetary and Credit Information Review |  |  |  |
+| 7 min | BRL | Net Debt-to-GDP ratio (Feb) |  |  | 65.0% |
+| 7 min | BRL | Budget Balance (Feb) |  |  | 40.062B |
+| 7 min | BRL | Budget Surplus (Feb) |  |  | 103.689B |
+| 37 min | INR | Foreign Debt (USD) (Q4) |  |  | 746.0B |
+| 37 min | BRL | Long Term Interest Rate TJLP (Q2) |  |  | 9.19% |
+| 37 min | BRL | Brazilian PPI (MoM) (Feb) |  |  | 0.34% |
+| 37 min | ZAR | Trade Balance (Feb) |  |  | 9.31B |
 | 13:55 | USD | Redbook (YoY) |  |  | 6.7% |
 | 14:00 | USD | House Price Index (MoM) (Jan) |  | 0.1% | 0.1% |
 | 14:00 | USD | House Price Index (YoY) (Jan) |  |  | 1.8% |
