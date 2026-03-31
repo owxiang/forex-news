@@ -94,11 +94,11 @@
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Jan) | 0.2% |  | 0.5% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jan) | 1.2% | 1.4% | 1.4% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jan) | -0.1% |  | -0.1% |
-| 7 min | USD | High | Chicago PMI (Mar) |  | 54.8 | 57.7 |
-| 22 min | USD | High | CB Consumer Confidence (Mar) |  | 87.8 | 91.2 |
-| 22 min | USD | High | JOLTS Job Openings (Feb) |  | 6.890M | 6.946M |
-| 52 min | USD | Low | Dallas Fed Services Revenues (Mar) |  |  | 4.1 |
-| 52 min | USD | Low | Texas Services Sector Outlook (Mar) |  |  | -3.2 |
+| 14:45 | USD | High | Chicago PMI (Mar) | 52.8 | 54.8 | 57.7 |
+| 15:00 | USD | High | CB Consumer Confidence (Mar) | 91.8 | 87.8 | 91.0 |
+| 15:00 | USD | High | JOLTS Job Openings (Feb) | 6.882M | 6.890M | 7.240M |
+| 15:30 | USD | Low | Dallas Fed Services Revenues (Mar) | 1.3 |  | 4.1 |
+| 15:30 | USD | Low | Texas Services Sector Outlook (Mar) | -13.3 |  | -3.2 |
 | 17:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 18:30 | BRL | Low | CAGED Net Payroll Jobs (Feb) |  | 270.00K | 112.33K |
 | 20:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |

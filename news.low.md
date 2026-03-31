@@ -68,8 +68,8 @@
 | 14:00 | USD | House Price Index (YoY) (Jan) | 1.6% |  | 1.9% |
 | 14:00 | USD | House Price Index (Jan) | 441.0 |  | 440.7 |
 | 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Jan) | 0.2% |  | 0.5% |
-| 52 min | USD | Dallas Fed Services Revenues (Mar) |  |  | 4.1 |
-| 52 min | USD | Texas Services Sector Outlook (Mar) |  |  | -3.2 |
+| 15:30 | USD | Dallas Fed Services Revenues (Mar) | 1.3 |  | 4.1 |
+| 15:30 | USD | Texas Services Sector Outlook (Mar) | -13.3 |  | -3.2 |
 | 17:00 | USD | Fed Goolsbee Speaks |  |  |  |
 | 18:30 | BRL | CAGED Net Payroll Jobs (Feb) |  | 270.00K | 112.33K |
 | 20:00 | MXN | Fiscal Balance (Feb) |  |  | -19.32B |
