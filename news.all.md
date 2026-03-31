@@ -99,6 +99,16 @@
 | 15:00 | USD | High | JOLTS Job Openings (Feb) | 6.882M | 6.890M | 7.240M |
 | 15:30 | USD | Low | Dallas Fed Services Revenues (Mar) | 1.3 |  | 4.1 |
 | 15:30 | USD | Low | Texas Services Sector Outlook (Mar) | -13.3 |  | -3.2 |
+| 16:00 | USD | Low | OPEC Crude Oil Production Algeria (Barrel) | 0.96M |  | 0.96M |
+| 16:00 | USD | Low | OPEC Crude Oil Production Congo (Barrel) | 0.26M |  | 0.26M |
+| 16:00 | USD | Low | OPEC Crude Oil Production Gabon (Barrel) | 0.23M |  | 0.23M |
+| 16:00 | USD | Low | OPEC Crude oil Production Iran (Barrel) | 3.10M |  | 3.30M |
+| 16:00 | USD | Low | OPEC Crude oil Production Iraq (Barrel) | 1.40M |  | 4.15M |
+| 16:00 | USD | Low | OPEC Crude Oil Production Kuwait (Barrel) | 1.20M |  | 2.56M |
+| 16:00 | USD | Low | OPEC Crude Oil Production Libya (Barrel) | 1.22M |  | 1.27M |
+| 16:00 | USD | Low | OPEC Crude Oil Production Nigeria (Barrel) | 1.57M |  | 1.53M |
+| 16:00 | USD | Low | OPEC Crude oil Production UAE (Barrel) | 2.10M |  | 3.39M |
+| 16:00 | USD | Low | OPEC Crude oil Production Venezuela (Barrel) | 0.98M |  | 0.88M |
 | 17:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 18:30 | BRL | Low | CAGED Net Payroll Jobs (Feb) |  | 270.00K | 112.33K |
 | 20:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
