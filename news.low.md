@@ -82,7 +82,7 @@
 | 16:00 | USD | OPEC Crude oil Production Venezuela (Barrel) | 0.98M |  | 0.88M |
 | 17:00 | USD | Fed Goolsbee Speaks |  |  |  |
 | 18:30 | BRL | CAGED Net Payroll Jobs (Feb) | 255.32K | 270.00K | 112.33K |
-| 22:45 | NZD | Building Consents (MoM) (Feb) |  |  | 1.9% |
-| 23:00 | AUD | AIG Construction Index (Mar) |  |  | -8.2 |
-| 23:00 | AUD | AIG Manufacturing Index (Mar) |  |  | -15.6 |
-| 23:00 | AUD | S&P Global Manufacturing PMI (Mar) |  | 50.1 | 51.0 |
+| 27 min | NZD | Building Consents (MoM) (Feb) |  |  | 1.9% |
+| 42 min | AUD | AIG Construction Index (Mar) |  |  | -8.2 |
+| 42 min | AUD | AIG Manufacturing Index (Mar) |  |  | -15.6 |
+| 42 min | AUD | S&P Global Manufacturing PMI (Mar) |  | 50.1 | 51.0 |
