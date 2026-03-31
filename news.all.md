@@ -1,120 +1,85 @@
-## 31 March 2026 - All Forex News
+## 01 April 2026 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | Industrial Production (YoY) (Feb) | -2.2% | 6.0% | 6.8% |
-| 00:00 | KRW | Low | Industrial Production (MoM) (Feb) | 5.4% | 1.8% | -2.4% |
-| 00:00 | KRW | Low | Retail Sales (MoM) (Feb) | 0.0% |  | 2.9% |
-| 00:00 | KRW | Low | Service Sector Output (MoM) (Feb) | 0.5% |  | -0.2% |
-| 00:01 | GBP | Low | BRC Shop Price Index (YoY) (Mar) | 1.2% | 1.2% | 1.1% |
-| 00:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Mar) | 1.4% |  | 1.5% |
-| 00:30 | JPY | Low | Jobs/applications ratio (Feb) | 1.19 | 1.18 | 1.18 |
-| 00:30 | JPY | Moderate | Tokyo Core CPI (YoY) (Mar) | 1.7% | 1.8% | 1.8% |
-| 00:30 | JPY | Low | Tokyo CPI (YoY) (Mar) | 1.4% |  | 1.6% |
-| 00:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Mar) | 0.4% |  | 0.3% |
-| 00:30 | JPY | Low | Unemployment Rate (Feb) | 2.6% | 2.7% | 2.7% |
-| 00:50 | JPY | Moderate | Industrial Production (MoM) (Feb) | -2.1% | -2.1% | 4.3% |
-| 00:50 | JPY | Low | Industrial Production forecast 1m ahead (MoM) (Mar) | 3.8% |  | -0.5% |
-| 00:50 | JPY | Low | Industrial Production forecast 2m ahead (MoM) (Apr) | 3.3% |  | -2.6% |
-| 00:50 | JPY | Low | Large Retailers' Sales (MoM) (Feb) | -2.0% |  | 3.0% |
-| 00:50 | JPY | Low | Large Scale Retail Sales YoY (YoY) (Feb) | 3.0% |  | 3.0% |
-| 00:50 | JPY | Low | Retail Sales (YoY) (Feb) | -0.2% | 0.9% | 1.8% |
-| 01:00 | NZD | Low | ANZ Business Confidence (Mar) | 32.5 |  | 59.2 |
-| 01:00 | NZD | Low | NBNZ Own Activity (Mar) | 39.3% |  | 52.6% |
-| 01:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
-| 02:30 | AUD | Low | Housing Credit (Mar) | 0.6% |  | 0.6% |
-| 02:30 | AUD | Low | Private Sector Credit (MoM) (Mar) | 0.6% | 0.6% | 0.5% |
-| 02:30 | CNY | Moderate | Chinese Composite PMI (Mar) | 50.5 |  | 49.5 |
-| 02:30 | CNY | High | Manufacturing PMI (Mar) | 50.4 | 50.1 | 49.0 |
-| 02:30 | CNY | Moderate | Non-Manufacturing PMI (Mar) | 50.1 | 49.9 | 49.5 |
-| 03:00 | SGD | Low | Bank Lending (Feb) | 893.6B |  | 887.5B |
-| 03:00 | NZD | Low | M3 Money Supply (Feb) | 445.9B |  | 441.7B |
-| 04:35 | JPY | Low | 2-Year JGB Auction | 1.370% |  | 1.244% |
-| 06:00 | JPY | Low | Construction Orders (YoY) (Feb) | 42.7% |  | 5.7% |
-| 06:00 | JPY | Low | Housing Starts (YoY) (Feb) | -4.9% | -4.5% | -0.4% |
-| 07:00 | GBP | Moderate | Business Investment (QoQ) (Q4) | -2.5% | -2.7% | 1.1% |
-| 07:00 | GBP | Low | Business Investment (YoY) (Q4) | 2.0% | 2.0% | 3.5% |
-| 07:00 | GBP | Moderate | Current Account (Q4) | -18.4B | -24.0B | -10.7B |
-| 07:00 | GBP | High | GDP (QoQ) (Q4) | 0.1% | 0.1% | 0.1% |
-| 07:00 | GBP | High | GDP (YoY) (Q4) | 1.0% | 1.0% | 1.2% |
-| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Mar) | 0.9% | 0.0% | 0.3% |
-| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Mar) | 2.2% |  | 1.0% |
-| 07:00 | EUR | Low | German Import Price Index (MoM) (Feb) | 0.3% | 0.7% | 1.1% |
-| 07:00 | EUR | Low | German Import Price Index (YoY) (Feb) | -2.3% |  | -2.3% |
-| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Feb) | -0.6% | 0.3% | -1.1% |
-| 07:00 | EUR | Low | German Retail Sales (YoY) (Feb) | 0.7% | 1.0% | 0.9% |
-| 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Feb) | -1.4% | -0.3% | 0.4% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Mar) | 0.9% | 0.9% | 0.6% |
-| 07:45 | EUR | Low | French CPI (YoY) (Mar) | 1.7% | 1.6% | 0.9% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Mar) | 1.1% |  | 0.7% |
-| 07:45 | EUR | Low | French HICP (YoY) (Mar) | 1.9% | 1.9% | 1.1% |
-| 07:45 | EUR | Low | French PPI (MoM) (Feb) | -0.2% | -0.2% | 0.5% |
-| 07:45 | EUR | Low | PPI (YoY) (Feb) | -2.40% |  | -2.30% |
-| 08:00 | CHF | Low | Official Reserves Assets (Feb) | 856.0B |  | 853.1B |
-| 08:00 | INR | Low | Balance of Payments (USD) (Q4) | -24.400B |  | -24.400B |
-| 08:00 | INR | Low | Current Account % of GDP (QoQ) (Q4) | -1.30% |  | -1.30% |
-| 08:00 | INR | Low | Current Account (USD) (Q4) | -13.20B |  | -13.20B |
-| 08:00 | INR | Low | Trade Balance (USD) (Q3) | -87.400B |  | -93.600B |
-| 08:55 | EUR | Moderate | German Unemployment Change (Mar) | 0K | 2K | 1K |
-| 08:55 | EUR | Moderate | German Unemployment Rate (Mar) | 6.3% | 6.3% | 6.3% |
-| 08:55 | EUR | Low | German Unemployment (Mar) | 2.977M |  | 2.977M |
-| 08:55 | EUR | Low | German Unemployment n.s.a. (Mar) | 3.021M |  | 3.070M |
-| 09:00 | EUR | Low | Spanish Current account (Jan) | 2.73B |  | 1.80B |
-| 09:00 | NOK | Low | Central Bank Currency Purchase (Apr) | -50.0M |  | -600.0M |
-| 09:00 | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
-| 09:30 | HKD | Low | M3 Money Supply (Feb) | 2.1% |  | 3.8% |
-| 10:00 | EUR | Low | Italian CPI (MoM) (Mar) | 0.5% | 0.6% | 0.7% |
-| 10:00 | EUR | Low | Italian CPI (YoY) (Mar) | 1.7% |  | 1.5% |
-| 10:00 | EUR | Low | Italian HICP (MoM) (Mar) | 1.6% |  | 0.5% |
-| 10:00 | EUR | Low | Italian HICP (YoY) (Mar) | 1.5% |  | 1.5% |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Mar) | 2.3% | 2.4% | 2.4% |
-| 10:00 | EUR | Low | Core CPI (MoM) (Mar) | 0.8% |  | 0.8% |
-| 10:00 | EUR | High | CPI (YoY) (Mar) | 2.5% | 2.6% | 1.9% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Mar) | 1.2% |  | 0.6% |
-| 10:00 | EUR | Low | CPI, n.s.a (Mar) | 101.96 |  | 100.71 |
-| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Mar) | 2.2% |  | 2.3% |
-| 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Mar) | 0.7% |  | 0.6% |
-| 10:30 | EUR | Low | German 2-Year Schatz Auction | 2.620% |  | 2.270% |
-| 11:00 | EUR | Low | Italian Industrial Sales (MoM) (Jan) | -0.30% |  | 0.60% |
-| 11:00 | EUR | Low | Italian Industrial Sales (YoY) (Jan) | -1.00% |  | 3.50% |
-| 12:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
-| 12:30 | BRL | Low | Net Debt-to-GDP ratio (Feb) | 65.5% |  | 65.0% |
-| 12:30 | BRL | Low | Budget Balance (Feb) | -100.589B |  | 40.062B |
-| 12:30 | BRL | Low | Budget Surplus (Feb) | -16.388B |  | 103.689B |
-| 12:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Feb) | 79.2% |  | 78.7% |
-| 13:00 | BRL | Low | Long Term Interest Rate TJLP (Q2) | 9.13% |  | 9.19% |
-| 13:00 | BRL | Low | Brazilian PPI (MoM) (Feb) | -0.25% |  | 0.32% |
-| 13:00 | ZAR | Low | Trade Balance (Feb) | 36.92B |  | 8.50B |
-| 13:30 | CAD | Moderate | GDP (MoM) (Jan) | 0.1% | 0.0% | 0.2% |
-| 13:31 | CAD | Moderate | GDP (MoM) (Feb) | 0.2% |  | 0.1% |
-| 13:55 | USD | Low | Redbook (YoY) | 6.9% |  | 6.7% |
-| 14:00 | USD | Low | House Price Index (MoM) (Jan) | 0.1% | 0.1% | 0.3% |
-| 14:00 | USD | Low | House Price Index (YoY) (Jan) | 1.6% |  | 1.9% |
-| 14:00 | USD | Low | House Price Index (Jan) | 441.0 |  | 440.7 |
-| 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Jan) | 0.2% |  | 0.5% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jan) | 1.2% | 1.4% | 1.4% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jan) | -0.1% |  | -0.1% |
-| 14:45 | USD | High | Chicago PMI (Mar) | 52.8 | 54.8 | 57.7 |
-| 15:00 | USD | High | CB Consumer Confidence (Mar) | 91.8 | 87.8 | 91.0 |
-| 15:00 | USD | High | JOLTS Job Openings (Feb) | 6.882M | 6.890M | 7.240M |
-| 15:30 | USD | Low | Dallas Fed Services Revenues (Mar) | 1.3 |  | 4.1 |
-| 15:30 | USD | Low | Texas Services Sector Outlook (Mar) | -13.3 |  | -3.2 |
-| 16:00 | USD | Low | OPEC Crude Oil Production Algeria (Barrel) | 0.96M |  | 0.96M |
-| 16:00 | USD | Low | OPEC Crude Oil Production Congo (Barrel) | 0.26M |  | 0.26M |
-| 16:00 | USD | Low | OPEC Crude Oil Production Gabon (Barrel) | 0.23M |  | 0.23M |
-| 16:00 | USD | Low | OPEC Crude oil Production Iran (Barrel) | 3.10M |  | 3.30M |
-| 16:00 | USD | Low | OPEC Crude oil Production Iraq (Barrel) | 1.40M |  | 4.15M |
-| 16:00 | USD | Low | OPEC Crude Oil Production Kuwait (Barrel) | 1.20M |  | 2.56M |
-| 16:00 | USD | Low | OPEC Crude Oil Production Libya (Barrel) | 1.22M |  | 1.27M |
-| 16:00 | USD | Low | OPEC Crude Oil Production Nigeria (Barrel) | 1.57M |  | 1.53M |
-| 16:00 | USD | Low | OPEC Crude oil Production UAE (Barrel) | 2.10M |  | 3.39M |
-| 16:00 | USD | Low | OPEC Crude oil Production Venezuela (Barrel) | 0.98M |  | 0.88M |
-| 17:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 18:30 | BRL | Low | CAGED Net Payroll Jobs (Feb) | 255.32K | 270.00K | 112.33K |
-| 20:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | 10.263M | -1.300M | 2.300M |
-| 22:10 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 22:45 | NZD | Low | Building Consents (MoM) (Feb) | 2.7% |  | 2.0% |
-| 23:00 | AUD | Low | AIG Construction Index (Mar) | -31.4 |  | -8.2 |
-| 23:00 | AUD | Low | AIG Manufacturing Index (Mar) | -27.9 |  | -15.6 |
-| 23:00 | AUD | Low | S&P Global Manufacturing PMI (Mar) | 49.8 | 50.1 | 51.0 |
+| 00:50 | JPY | Moderate | Tankan All Big Industry CAPEX (Q1) |  |  | 12.6% |
+| 00:50 | JPY | Low | Tankan All Small Industry CAPEX (Q1) |  |  | 0.1% |
+| 00:50 | JPY | Moderate | Tankan Big Manufacturing Outlook Index (Q1) |  | 13 | 15 |
+| 00:50 | JPY | Moderate | Tankan Large Manufacturers Index (Q1) |  | 16 | 15 |
+| 00:50 | JPY | Low | Tankan Large Non-Manufacturers Diffusion Index (Q1) |  | 28 | 28 |
+| 00:50 | JPY | Moderate | Tankan Large Non-Manufacturers Index (Q1) |  | 33 | 34 |
+| 00:50 | JPY | Low | Tankan Small Manufacturers Diffusion Index (Q1) |  |  | 2 |
+| 00:50 | JPY | Low | Tankan Small Manufacturing Index (Q1) |  | 7 | 6 |
+| 00:50 | JPY | Low | Tankan Small Non-Manufacturers Diffusion Index (Q1) |  |  | 10 |
+| 00:50 | JPY | Low | Tankan Small Non-Manufacturing Index (Q1) |  |  | 15 |
+| 01:00 | KRW | Low | Exports (YoY) (Mar) |  | 44.9% | 28.7% |
+| 01:00 | KRW | Low | Imports (YoY) (Mar) |  | 18.0% | 7.5% |
+| 01:00 | KRW | Low | Trade Balance (Mar) |  | 21.20B | 15.38B |
+| 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Mar) |  |  | 51.1 |
+| 01:30 | AUD | Low | Building Approvals (YoY) (Feb) |  |  | -15.70% |
+| 01:30 | AUD | Moderate | Building Approvals (MoM) (Feb) |  | 6.0% | -7.2% |
+| 01:30 | AUD | Low | Private House Approvals (Feb) |  |  | 1.1% |
+| 01:30 | JPY | Low | S&P Global Manufacturing PMI (Mar) |  | 51.4 | 53.0 |
+| 01:30 | SGD | Low | URA Property Index (QoQ) (Q1) |  |  | 0.60% |
+| 01:30 | IDR | Low | S&P Global Manufacturing PMI (Mar) |  |  | 53.8 |
+| 02:45 | CNY | Moderate | RatingDog Manufacturing PMI (MoM) (Mar) |  | 51.6 | 52.1 |
+| 05:00 | IDR | Low | Core Inflation (YoY) (Mar) |  |  | 2.63% |
+| 05:00 | IDR | Low | Export Growth (YoY) (Feb) |  | 1.00% | 3.39% |
+| 05:00 | IDR | Low | Import Growth (YoY) (Feb) |  | 8.93% | 18.21% |
+| 05:00 | IDR | Low | Inflation (MoM) (Mar) |  |  | 0.68% |
+| 05:00 | IDR | Low | Inflation (YoY) (Mar) |  |  | 4.76% |
+| 05:00 | IDR | Low | Trade Balance (Feb) |  | 1.80B | 0.96B |
+| 06:30 | AUD | Low | Commodity Prices (YoY) |  |  | 2.7% |
+| 07:30 | CHF | Low | Retail Sales (YoY) (Feb) |  | 1.5% | -1.1% |
+| 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Mar) |  | 50.5 | 50.0 |
+| 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (Mar) |  | 47.2 | 47.4 |
+| 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Mar) |  | 50.9 | 50.6 |
+| 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (Mar) |  | 50.2 | 50.2 |
+| 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Mar) |  | 51.7 | 50.9 |
+| 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Feb) |  | 5.2% | 5.1% |
+| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Mar) |  | 51.4 | 50.8 |
+| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Mar) |  | 51.4 | 51.7 |
+| 09:30 | GBP | Moderate | Mortgage Rate (GBP) (Mar) |  |  | 6.59% |
+| 09:30 | HKD | Low | Retail Sales (YoY) (Feb) |  |  | 5.5% |
+| 10:00 | EUR | Moderate | Unemployment Rate (Feb) |  | 6.1% | 6.1% |
+| 10:00 | ZAR | Low | Manufacturing PMI (Mar) |  |  | 47.4 |
+| 10:30 | GBP | Low | BoE FPC Meeting Minutes |  |  |  |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.43% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -10.5% |
+| 12:00 | USD | Low | MBA Purchase Index |  |  | 163.6 |
+| 12:00 | USD | Low | Mortgage Market Index |  |  | 310.7 |
+| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 1,145.0 |
+| 12:00 | EUR | Low | Car Registration (MoM) (Mar) |  |  | 32.80% |
+| 12:00 | EUR | Low | Car Registration (YoY) (Mar) |  |  | 7.50% |
+| 13:15 | USD | High | ADP Nonfarm Employment Change (Mar) |  | 41K | 63K |
+| 13:15 | ZAR | Low | Total Vehicle Sales (YoY) (Mar) |  |  | 11.40% |
+| 13:15 | ZAR | Low | Total Vehicle Sales (Mar) |  |  | 53.46K |
+| 13:30 | USD | High | Core Retail Sales (MoM) (Feb) |  | 0.3% | 0.0% |
+| 13:30 | USD | Moderate | Retail Control (MoM) (Feb) |  | 0.3% | 0.3% |
+| 13:30 | USD | High | Retail Sales (MoM) (Feb) |  | 0.5% | -0.2% |
+| 13:30 | USD | Low | Retail Sales (YoY) (Feb) |  |  | 3.16% |
+| 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Feb) |  |  | 0.3% |
+| 14:00 | BRL | Low | S&P Global Manufacturing PMI (Mar) |  |  | 47.3 |
+| 14:10 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 14:30 | CAD | Low | S&P Global Manufacturing PMI (Mar) |  |  | 51.0 |
+| 14:45 | USD | High | S&P Global Manufacturing PMI (Mar) |  | 52.4 | 51.6 |
+| 15:00 | USD | Moderate | Business Inventories (MoM) (Jan) |  | 0.0% | 0.1% |
+| 15:00 | USD | Moderate | ISM Manufacturing Employment (Mar) |  |  | 48.8 |
+| 15:00 | USD | Low | ISM Manufacturing New Orders Index (Mar) |  |  | 55.8 |
+| 15:00 | USD | High | ISM Manufacturing PMI (Mar) |  | 52.3 | 52.4 |
+| 15:00 | USD | High | ISM Manufacturing Prices (Mar) |  | 73.8 | 70.5 |
+| 15:00 | USD | Moderate | Retail Inventories Ex Auto (Jan) |  |  | 0.4% |
+| 15:30 | USD | High | Crude Oil Inventories |  | -1.300M | 6.926M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.366M |
+| 15:30 | USD | Low | Crude Oil Imports |  |  | 0.846M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 3.421M |
+| 15:30 | USD | Low | Distillate Fuel Production |  |  | 0.157M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  |  | 3.032M |
+| 15:30 | USD | Low | Gasoline Production |  |  | 0.309M |
+| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | -0.241M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.5% |
+| 15:30 | USD | Low | Gasoline Inventories |  |  | -2.593M |
+| 16:00 | MXN | Low | S&P Global Manufacturing PMI (Mar) |  |  | 47.10 |
+| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 2.0% | 2.0% |
+| 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
+| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.119B |

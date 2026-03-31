@@ -1,11 +1,11 @@
-## 31 March 2026 - High Impact Forex News
+## 01 April 2026 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | CNY | Manufacturing PMI (Mar) | 50.4 | 50.1 | 49.0 |
-| 07:00 | GBP | GDP (QoQ) (Q4) | 0.1% | 0.1% | 0.1% |
-| 07:00 | GBP | GDP (YoY) (Q4) | 1.0% | 1.0% | 1.2% |
-| 10:00 | EUR | CPI (YoY) (Mar) | 2.5% | 2.6% | 1.9% |
-| 14:45 | USD | Chicago PMI (Mar) | 52.8 | 54.8 | 57.7 |
-| 15:00 | USD | CB Consumer Confidence (Mar) | 91.8 | 87.8 | 91.0 |
-| 15:00 | USD | JOLTS Job Openings (Feb) | 6.882M | 6.890M | 7.240M |
+| 13:15 | USD | ADP Nonfarm Employment Change (Mar) |  | 41K | 63K |
+| 13:30 | USD | Core Retail Sales (MoM) (Feb) |  | 0.3% | 0.0% |
+| 13:30 | USD | Retail Sales (MoM) (Feb) |  | 0.5% | -0.2% |
+| 14:45 | USD | S&P Global Manufacturing PMI (Mar) |  | 52.4 | 51.6 |
+| 15:00 | USD | ISM Manufacturing PMI (Mar) |  | 52.3 | 52.4 |
+| 15:00 | USD | ISM Manufacturing Prices (Mar) |  | 73.8 | 70.5 |
+| 15:30 | USD | Crude Oil Inventories |  | -1.300M | 6.926M |
