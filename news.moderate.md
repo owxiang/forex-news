@@ -17,8 +17,8 @@
 | 07:45 | EUR | French HICP (MoM) (Mar) | 1.1% |  | 0.7% |
 | 08:55 | EUR | German Unemployment Change (Mar) | 0K | 2K | 1K |
 | 08:55 | EUR | German Unemployment Rate (Mar) | 6.3% | 6.3% | 6.3% |
-| 10:00 | EUR | Core CPI (YoY) (Mar) |  | 2.4% | 2.4% |
-| 10:00 | EUR | CPI (MoM) (Mar) |  |  | 0.6% |
+| 10:00 | EUR | Core CPI (YoY) (Mar) | 2.3% | 2.4% | 2.4% |
+| 10:00 | EUR | CPI (MoM) (Mar) | 1.2% |  | 0.6% |
 | 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Feb) |  |  | 78.7% |
 | 13:30 | CAD | GDP (MoM) (Jan) |  | 0.0% | 0.2% |
 | 13:31 | CAD | GDP (MoM) (Feb) |  |  |  |

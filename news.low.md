@@ -45,14 +45,14 @@
 | 09:00 | NOK | Central Bank Currency Purchase (Apr) | -50.0M |  | -600.0M |
 | 09:00 | ZAR | SARB Quarterly Bulletin |  |  |  |
 | 09:30 | HKD | M3 Money Supply (Feb) | 2.1% |  | 3.8% |
-| 10:00 | EUR | Italian CPI (MoM) (Mar) |  | 0.6% | 0.7% |
-| 10:00 | EUR | Italian CPI (YoY) (Mar) |  |  | 1.5% |
-| 10:00 | EUR | Italian HICP (MoM) (Mar) |  |  | 0.5% |
-| 10:00 | EUR | Italian HICP (YoY) (Mar) |  |  | 1.5% |
-| 10:00 | EUR | Core CPI (MoM) (Mar) |  |  | 0.8% |
-| 10:00 | EUR | CPI, n.s.a (Mar) |  |  | 100.71 |
-| 10:00 | EUR | HICP ex Energy & Food (YoY) (Mar) |  |  | 2.3% |
-| 10:00 | EUR | HICP ex Energy and Food (MoM) (Mar) |  |  | 0.6% |
+| 10:00 | EUR | Italian CPI (MoM) (Mar) | 0.5% | 0.6% | 0.7% |
+| 10:00 | EUR | Italian CPI (YoY) (Mar) | 1.7% |  | 1.5% |
+| 10:00 | EUR | Italian HICP (MoM) (Mar) | 1.6% |  | 0.5% |
+| 10:00 | EUR | Italian HICP (YoY) (Mar) | 1.5% |  | 1.5% |
+| 10:00 | EUR | Core CPI (MoM) (Mar) | 0.8% |  | 0.8% |
+| 10:00 | EUR | CPI, n.s.a (Mar) | 101.96 |  | 100.71 |
+| 10:00 | EUR | HICP ex Energy & Food (YoY) (Mar) | 2.2% |  | 2.3% |
+| 10:00 | EUR | HICP ex Energy and Food (MoM) (Mar) | 0.7% |  | 0.6% |
 | 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.270% |
 | 11:00 | EUR | Italian Industrial Sales (MoM) (Jan) |  |  | 0.50% |
 | 11:00 | EUR | Italian Industrial Sales (YoY) (Jan) |  |  | 3.60% |
