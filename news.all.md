@@ -23,28 +23,28 @@
 | 01:00 | NZD | Low | NBNZ Own Activity (Mar) | 39.3% |  | 52.6% |
 | 01:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
 | 02:30 | AUD | Low | Housing Credit (Mar) | 0.6% |  | 0.6% |
-| 02:30 | AUD | Low | Private Sector Credit (MoM) (Mar) | 0.6% | 0.6% | 0.6% |
+| 02:30 | AUD | Low | Private Sector Credit (MoM) (Mar) | 0.6% | 0.6% | 0.5% |
 | 02:30 | CNY | Moderate | Chinese Composite PMI (Mar) | 50.5 |  | 49.5 |
 | 02:30 | CNY | High | Manufacturing PMI (Mar) | 50.4 | 50.1 | 49.0 |
 | 02:30 | CNY | Moderate | Non-Manufacturing PMI (Mar) | 50.1 | 49.9 | 49.5 |
 | 03:00 | SGD | Low | Bank Lending (Feb) | 893.6B |  | 887.5B |
 | 03:00 | NZD | Low | M3 Money Supply (Feb) | 445.9B |  | 441.7B |
-| 23 min | JPY | Low | 2-Year JGB Auction |  |  | 1.244% |
-| 06:00 | JPY | Low | Construction Orders (YoY) (Feb) |  |  | 5.7% |
-| 06:00 | JPY | Low | Housing Starts (YoY) (Feb) |  | -4.6% | -0.4% |
+| 04:35 | JPY | Low | 2-Year JGB Auction | 1.370% |  | 1.244% |
+| 6 min | JPY | Low | Construction Orders (YoY) (Feb) |  |  | 5.7% |
+| 6 min | JPY | Low | Housing Starts (YoY) (Feb) |  | -4.5% | -0.4% |
 | 07:00 | GBP | Moderate | Business Investment (QoQ) (Q4) |  | -2.7% | 1.6% |
 | 07:00 | GBP | Low | Business Investment (YoY) (Q4) |  | 2.0% | 2.5% |
-| 07:00 | GBP | Moderate | Current Account (Q4) |  | -23.9B | -12.1B |
+| 07:00 | GBP | Moderate | Current Account (Q4) |  | -24.0B | -12.1B |
 | 07:00 | GBP | High | GDP (QoQ) (Q4) |  | 0.1% | 0.1% |
 | 07:00 | GBP | High | GDP (YoY) (Q4) |  | 1.0% | 1.2% |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Mar) |  | 0.0% | 0.3% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Mar) |  |  | 1.0% |
-| 07:00 | EUR | Low | German Import Price Index (MoM) (Feb) |  | 0.2% | 1.1% |
+| 07:00 | EUR | Low | German Import Price Index (MoM) (Feb) |  | 0.7% | 1.1% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Feb) |  |  | -2.3% |
 | 07:00 | EUR | Moderate | German Retail Sales (MoM) (Feb) |  | 0.3% | -0.9% |
 | 07:00 | EUR | Low | German Retail Sales (YoY) (Feb) |  | 1.0% | 1.2% |
-| 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Feb) |  | -0.4% | 0.5% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Mar) |  | 0.8% | 0.6% |
+| 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Feb) |  | -0.3% | 0.5% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Mar) |  | 0.9% | 0.6% |
 | 07:45 | EUR | Low | French CPI (YoY) (Mar) |  | 1.6% | 0.9% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Mar) |  |  | 0.7% |
 | 07:45 | EUR | Low | French HICP (YoY) (Mar) |  | 1.9% | 1.1% |
@@ -65,7 +65,7 @@
 | 10:00 | NOK | Low | Central Bank Currency Purchase (Apr) |  |  | -600.0M |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Mar) |  | 2.4% | 2.4% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Mar) |  |  | 0.8% |
-| 10:00 | EUR | High | CPI (YoY) (Mar) |  | 2.5% | 1.9% |
+| 10:00 | EUR | High | CPI (YoY) (Mar) |  | 2.6% | 1.9% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Mar) |  |  | 0.6% |
 | 10:00 | EUR | Low | CPI, n.s.a (Mar) |  |  | 100.71 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Mar) |  |  | 2.3% |
@@ -79,7 +79,6 @@
 | 12:30 | INR | Low | Current Account (USD) (Q4) |  |  | -13.20B |
 | 12:30 | INR | Low | Trade Balance (USD) (Q3) |  |  | -93.600B |
 | 12:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
-| 12:30 | EUR | Low | Spanish Business Confidence (Mar) |  |  | -2.6 |
 | 12:30 | BRL | Low | Net Debt-to-GDP ratio (Feb) |  |  | 65.0% |
 | 12:30 | BRL | Low | Budget Balance (Feb) |  |  | 40.062B |
 | 12:30 | BRL | Low | Budget Surplus (Feb) |  |  | 103.689B |
@@ -97,9 +96,9 @@
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Jan) |  |  | 0.5% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jan) |  | 1.4% | 1.4% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jan) |  |  | -0.1% |
-| 14:45 | USD | High | Chicago PMI (Mar) |  | 54.5 | 57.7 |
-| 15:00 | USD | High | CB Consumer Confidence (Mar) |  | 88.0 | 91.2 |
-| 15:00 | USD | High | JOLTS Job Openings (Feb) |  | 6.900M | 6.946M |
+| 14:45 | USD | High | Chicago PMI (Mar) |  | 54.8 | 57.7 |
+| 15:00 | USD | High | CB Consumer Confidence (Mar) |  | 87.8 | 91.2 |
+| 15:00 | USD | High | JOLTS Job Openings (Feb) |  | 6.890M | 6.946M |
 | 15:30 | USD | Low | Dallas Fed Services Revenues (Mar) |  |  | 4.1 |
 | 15:30 | USD | Low | Texas Services Sector Outlook (Mar) |  |  | -3.2 |
 | 17:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |

@@ -20,14 +20,14 @@
 | 01:00 | NZD | ANZ Business Confidence (Mar) | 32.5 |  | 59.2 |
 | 01:00 | NZD | NBNZ Own Activity (Mar) | 39.3% |  | 52.6% |
 | 02:30 | AUD | Housing Credit (Mar) | 0.6% |  | 0.6% |
-| 02:30 | AUD | Private Sector Credit (MoM) (Mar) | 0.6% | 0.6% | 0.6% |
+| 02:30 | AUD | Private Sector Credit (MoM) (Mar) | 0.6% | 0.6% | 0.5% |
 | 03:00 | SGD | Bank Lending (Feb) | 893.6B |  | 887.5B |
 | 03:00 | NZD | M3 Money Supply (Feb) | 445.9B |  | 441.7B |
-| 23 min | JPY | 2-Year JGB Auction |  |  | 1.244% |
-| 06:00 | JPY | Construction Orders (YoY) (Feb) |  |  | 5.7% |
-| 06:00 | JPY | Housing Starts (YoY) (Feb) |  | -4.6% | -0.4% |
+| 04:35 | JPY | 2-Year JGB Auction | 1.370% |  | 1.244% |
+| 6 min | JPY | Construction Orders (YoY) (Feb) |  |  | 5.7% |
+| 6 min | JPY | Housing Starts (YoY) (Feb) |  | -4.5% | -0.4% |
 | 07:00 | GBP | Business Investment (YoY) (Q4) |  | 2.0% | 2.5% |
-| 07:00 | EUR | German Import Price Index (MoM) (Feb) |  | 0.2% | 1.1% |
+| 07:00 | EUR | German Import Price Index (MoM) (Feb) |  | 0.7% | 1.1% |
 | 07:00 | EUR | German Import Price Index (YoY) (Feb) |  |  | -2.3% |
 | 07:00 | EUR | German Retail Sales (YoY) (Feb) |  | 1.0% | 1.2% |
 | 07:45 | EUR | French CPI (YoY) (Mar) |  | 1.6% | 0.9% |
@@ -58,7 +58,6 @@
 | 12:30 | INR | Current Account (USD) (Q4) |  |  | -13.20B |
 | 12:30 | INR | Trade Balance (USD) (Q3) |  |  | -93.600B |
 | 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
-| 12:30 | EUR | Spanish Business Confidence (Mar) |  |  | -2.6 |
 | 12:30 | BRL | Net Debt-to-GDP ratio (Feb) |  |  | 65.0% |
 | 12:30 | BRL | Budget Balance (Feb) |  |  | 40.062B |
 | 12:30 | BRL | Budget Surplus (Feb) |  |  | 103.689B |
