@@ -81,8 +81,8 @@
 | 16:00 | USD | OPEC Crude oil Production UAE (Barrel) | 2.10M |  | 3.39M |
 | 16:00 | USD | OPEC Crude oil Production Venezuela (Barrel) | 0.98M |  | 0.88M |
 | 17:00 | USD | Fed Goolsbee Speaks |  |  |  |
-| 4 min | BRL | CAGED Net Payroll Jobs (Feb) |  | 270.00K | 112.33K |
-| 20:00 | MXN | Fiscal Balance (Feb) |  |  | -19.32B |
+| 18:30 | BRL | CAGED Net Payroll Jobs (Feb) | 255.32K | 270.00K | 112.33K |
+| 33 min | MXN | Fiscal Balance (Feb) |  |  | -19.32B |
 | 22:45 | NZD | Building Consents (MoM) (Feb) |  |  | 1.9% |
 | 23:00 | AUD | AIG Construction Index (Mar) |  |  | -8.2 |
 | 23:00 | AUD | AIG Manufacturing Index (Mar) |  |  | -15.6 |

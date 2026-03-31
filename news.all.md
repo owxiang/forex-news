@@ -110,9 +110,9 @@
 | 16:00 | USD | Low | OPEC Crude oil Production UAE (Barrel) | 2.10M |  | 3.39M |
 | 16:00 | USD | Low | OPEC Crude oil Production Venezuela (Barrel) | 0.98M |  | 0.88M |
 | 17:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 4 min | BRL | Low | CAGED Net Payroll Jobs (Feb) |  | 270.00K | 112.33K |
-| 20:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 20:00 | MXN | Low | Fiscal Balance (Feb) |  |  | -19.32B |
+| 18:30 | BRL | Low | CAGED Net Payroll Jobs (Feb) | 255.32K | 270.00K | 112.33K |
+| 33 min | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 33 min | MXN | Low | Fiscal Balance (Feb) |  |  | -19.32B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.300M | 2.300M |
 | 22:10 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 22:45 | NZD | Low | Building Consents (MoM) (Feb) |  |  | 1.9% |
