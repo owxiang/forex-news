@@ -77,16 +77,15 @@
 | 10:30 | EUR | Low | German 2-Year Schatz Auction | 2.620% |  | 2.270% |
 | 11:00 | EUR | Low | Italian Industrial Sales (MoM) (Jan) | -0.30% |  | 0.60% |
 | 11:00 | EUR | Low | Italian Industrial Sales (YoY) (Jan) | -1.00% |  | 3.50% |
-| 7 min | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
-| 7 min | BRL | Low | Net Debt-to-GDP ratio (Feb) |  |  | 65.0% |
-| 7 min | BRL | Low | Budget Balance (Feb) |  |  | 40.062B |
-| 7 min | BRL | Low | Budget Surplus (Feb) |  |  | 103.689B |
-| 7 min | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Feb) |  |  | 78.7% |
-| 37 min | INR | Low | Foreign Debt (USD) (Q4) |  |  | 746.0B |
-| 37 min | BRL | Low | Long Term Interest Rate TJLP (Q2) |  |  | 9.19% |
-| 37 min | BRL | Low | Brazilian PPI (MoM) (Feb) |  |  | 0.34% |
-| 37 min | ZAR | Low | Trade Balance (Feb) |  |  | 9.31B |
+| 12:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
+| 12:30 | BRL | Low | Net Debt-to-GDP ratio (Feb) | 65.5% |  | 65.0% |
+| 12:30 | BRL | Low | Budget Balance (Feb) | -100.589B |  | 40.062B |
+| 12:30 | BRL | Low | Budget Surplus (Feb) | -16.388B |  | 103.689B |
+| 12:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Feb) | 79.2% |  | 78.7% |
+| 13:00 | BRL | Low | Brazilian PPI (MoM) (Feb) | -0.25% |  | 0.32% |
+| 13:00 | ZAR | Low | Trade Balance (Feb) | 36.92B |  | 8.50B |
 | 13:30 | CAD | Moderate | GDP (MoM) (Jan) |  | 0.0% | 0.2% |
+| 13:30 | BRL | Low | Long Term Interest Rate TJLP (Q2) |  |  | 9.19% |
 | 13:31 | CAD | Moderate | GDP (MoM) (Feb) |  |  |  |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 6.7% |
 | 14:00 | USD | Low | House Price Index (MoM) (Jan) |  | 0.1% | 0.1% |
