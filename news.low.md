@@ -7,22 +7,22 @@
 | 00:00 | KRW | Retail Sales (MoM) (Feb) | 0.0% |  | 2.9% |
 | 00:00 | KRW | Service Sector Output (MoM) (Feb) | 0.5% |  | -0.2% |
 | 00:01 | GBP | BRC Shop Price Index (YoY) (Mar) | 1.2% | 1.2% | 1.1% |
-| 14 min | JPY | CPI Tokyo Ex Food & Energy (YoY) (Mar) |  |  | 1.5% |
-| 14 min | JPY | Jobs/applications ratio (Feb) |  | 1.18 | 1.18 |
-| 14 min | JPY | Tokyo CPI (YoY) (Mar) |  |  | 1.6% |
-| 14 min | JPY | CPI Tokyo Ex Food and Energy (MoM) (Mar) |  |  | 0.3% |
-| 14 min | JPY | Unemployment Rate (Feb) |  | 2.7% | 2.7% |
-| 34 min | JPY | Industrial Production forecast 1m ahead (MoM) (Mar) |  |  | -0.5% |
-| 34 min | JPY | Industrial Production forecast 2m ahead (MoM) (Apr) |  |  | -2.6% |
-| 34 min | JPY | Large Retailers' Sales (MoM) (Feb) |  |  | 4.1% |
-| 34 min | JPY | Large Scale Retail Sales YoY (YoY) (Feb) |  |  | 3.0% |
-| 34 min | JPY | Retail Sales (YoY) (Feb) |  | 0.9% | 1.8% |
-| 44 min | NZD | ANZ Business Confidence (Mar) |  |  | 59.2 |
-| 44 min | NZD | NBNZ Own Activity (Mar) |  |  | 52.6% |
-| 01:30 | AUD | Housing Credit (Feb) |  |  | 0.6% |
-| 01:30 | AUD | Private Sector Credit (MoM) (Feb) |  | 0.6% | 0.5% |
+| 00:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Mar) | 1.4% |  | 1.5% |
+| 00:30 | JPY | Jobs/applications ratio (Feb) | 1.19 | 1.18 | 1.18 |
+| 00:30 | JPY | Tokyo CPI (YoY) (Mar) | 1.4% |  | 1.6% |
+| 00:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Mar) | 0.4% |  | 0.3% |
+| 00:30 | JPY | Unemployment Rate (Feb) | 2.6% | 2.7% | 2.7% |
+| 00:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Mar) | 3.8% |  | -0.5% |
+| 00:50 | JPY | Industrial Production forecast 2m ahead (MoM) (Apr) | 3.3% |  | -2.6% |
+| 00:50 | JPY | Large Retailers' Sales (MoM) (Feb) | -2.0% |  | 3.0% |
+| 00:50 | JPY | Large Scale Retail Sales YoY (YoY) (Feb) | 3.0% |  | 3.0% |
+| 00:50 | JPY | Retail Sales (YoY) (Feb) | -0.2% | 0.9% | 1.8% |
+| 01:00 | NZD | ANZ Business Confidence (Mar) | 32.5 |  | 59.2 |
+| 01:00 | NZD | NBNZ Own Activity (Mar) | 39.3% |  | 52.6% |
+| 01:30 | AUD | Housing Credit (Feb) | 0.6% |  | 0.6% |
+| 01:30 | AUD | Private Sector Credit (MoM) (Feb) | 0.6% | 0.6% | 0.5% |
 | 03:00 | SGD | Bank Lending (Feb) |  |  | 887.5B |
-| 03:00 | NZD | M3 Money Supply (Feb) |  |  | 441,739.0B |
+| 03:00 | NZD | M3 Money Supply (Feb) |  |  | 441.7B |
 | 04:35 | JPY | 2-Year JGB Auction |  |  | 1.244% |
 | 06:00 | JPY | Construction Orders (YoY) (Feb) |  |  | 5.7% |
 | 06:00 | JPY | Housing Starts (YoY) (Feb) |  | -4.6% | -0.4% |

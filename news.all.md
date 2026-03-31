@@ -7,28 +7,28 @@
 | 00:00 | KRW | Low | Retail Sales (MoM) (Feb) | 0.0% |  | 2.9% |
 | 00:00 | KRW | Low | Service Sector Output (MoM) (Feb) | 0.5% |  | -0.2% |
 | 00:01 | GBP | Low | BRC Shop Price Index (YoY) (Mar) | 1.2% | 1.2% | 1.1% |
-| 14 min | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Mar) |  |  | 1.5% |
-| 14 min | JPY | Low | Jobs/applications ratio (Feb) |  | 1.18 | 1.18 |
-| 14 min | JPY | Moderate | Tokyo Core CPI (YoY) (Mar) |  | 1.8% | 1.8% |
-| 14 min | JPY | Low | Tokyo CPI (YoY) (Mar) |  |  | 1.6% |
-| 14 min | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Mar) |  |  | 0.3% |
-| 14 min | JPY | Low | Unemployment Rate (Feb) |  | 2.7% | 2.7% |
-| 34 min | JPY | Moderate | Industrial Production (MoM) (Feb) |  | -2.0% | 4.3% |
-| 34 min | JPY | Low | Industrial Production forecast 1m ahead (MoM) (Mar) |  |  | -0.5% |
-| 34 min | JPY | Low | Industrial Production forecast 2m ahead (MoM) (Apr) |  |  | -2.6% |
-| 34 min | JPY | Low | Large Retailers' Sales (MoM) (Feb) |  |  | 4.1% |
-| 34 min | JPY | Low | Large Scale Retail Sales YoY (YoY) (Feb) |  |  | 3.0% |
-| 34 min | JPY | Low | Retail Sales (YoY) (Feb) |  | 0.9% | 1.8% |
-| 44 min | NZD | Low | ANZ Business Confidence (Mar) |  |  | 59.2 |
-| 44 min | NZD | Low | NBNZ Own Activity (Mar) |  |  | 52.6% |
-| 01:30 | AUD | Low | Housing Credit (Feb) |  |  | 0.6% |
+| 00:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Mar) | 1.4% |  | 1.5% |
+| 00:30 | JPY | Low | Jobs/applications ratio (Feb) | 1.19 | 1.18 | 1.18 |
+| 00:30 | JPY | Moderate | Tokyo Core CPI (YoY) (Mar) | 1.7% | 1.8% | 1.8% |
+| 00:30 | JPY | Low | Tokyo CPI (YoY) (Mar) | 1.4% |  | 1.6% |
+| 00:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Mar) | 0.4% |  | 0.3% |
+| 00:30 | JPY | Low | Unemployment Rate (Feb) | 2.6% | 2.7% | 2.7% |
+| 00:50 | JPY | Moderate | Industrial Production (MoM) (Feb) | -2.1% | -2.1% | 4.3% |
+| 00:50 | JPY | Low | Industrial Production forecast 1m ahead (MoM) (Mar) | 3.8% |  | -0.5% |
+| 00:50 | JPY | Low | Industrial Production forecast 2m ahead (MoM) (Apr) | 3.3% |  | -2.6% |
+| 00:50 | JPY | Low | Large Retailers' Sales (MoM) (Feb) | -2.0% |  | 3.0% |
+| 00:50 | JPY | Low | Large Scale Retail Sales YoY (YoY) (Feb) | 3.0% |  | 3.0% |
+| 00:50 | JPY | Low | Retail Sales (YoY) (Feb) | -0.2% | 0.9% | 1.8% |
+| 01:00 | NZD | Low | ANZ Business Confidence (Mar) | 32.5 |  | 59.2 |
+| 01:00 | NZD | Low | NBNZ Own Activity (Mar) | 39.3% |  | 52.6% |
+| 01:30 | AUD | Low | Housing Credit (Feb) | 0.6% |  | 0.6% |
 | 01:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
-| 01:30 | AUD | Low | Private Sector Credit (MoM) (Feb) |  | 0.6% | 0.5% |
-| 02:30 | CNY | Moderate | Chinese Composite PMI (Mar) |  |  | 49.5 |
-| 02:30 | CNY | High | Manufacturing PMI (Mar) |  | 50.2 | 49.0 |
-| 02:30 | CNY | Moderate | Non-Manufacturing PMI (Mar) |  | 49.9 | 49.5 |
+| 01:30 | AUD | Low | Private Sector Credit (MoM) (Feb) | 0.6% | 0.6% | 0.5% |
+| 45 min | CNY | Moderate | Chinese Composite PMI (Mar) |  |  | 49.5 |
+| 45 min | CNY | High | Manufacturing PMI (Mar) |  | 50.1 | 49.0 |
+| 45 min | CNY | Moderate | Non-Manufacturing PMI (Mar) |  | 49.9 | 49.5 |
 | 03:00 | SGD | Low | Bank Lending (Feb) |  |  | 887.5B |
-| 03:00 | NZD | Low | M3 Money Supply (Feb) |  |  | 441,739.0B |
+| 03:00 | NZD | Low | M3 Money Supply (Feb) |  |  | 441.7B |
 | 04:35 | JPY | Low | 2-Year JGB Auction |  |  | 1.244% |
 | 06:00 | JPY | Low | Construction Orders (YoY) (Feb) |  |  | 5.7% |
 | 06:00 | JPY | Low | Housing Starts (YoY) (Feb) |  | -4.6% | -0.4% |
