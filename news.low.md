@@ -27,14 +27,18 @@
 | 06:00 | JPY | Construction Orders (YoY) (Feb) | 42.7% |  | 5.7% |
 | 06:00 | JPY | Housing Starts (YoY) (Feb) | -4.9% | -4.5% | -0.4% |
 | 07:00 | GBP | Business Investment (YoY) (Q4) | 2.0% | 2.0% | 3.5% |
+| 07:00 | EUR | German Import Price Index (MoM) (Feb) | 0.3% | 0.7% | 1.1% |
+| 07:00 | EUR | German Import Price Index (YoY) (Feb) | -2.3% |  | -2.3% |
 | 07:00 | EUR | German Retail Sales (YoY) (Feb) | 0.7% | 1.0% | 0.9% |
-| 8 min | EUR | French CPI (YoY) (Mar) |  | 1.6% | 0.9% |
-| 8 min | EUR | French HICP (YoY) (Mar) |  | 1.9% | 1.1% |
-| 8 min | EUR | French PPI (MoM) (Feb) |  | -0.2% | 0.5% |
-| 8 min | EUR | PPI (YoY) (Feb) |  |  | -2.30% |
-| 23 min | CHF | Official Reserves Assets (Feb) |  |  | 853.1B |
-| 23 min | EUR | German Import Price Index (MoM) (Feb) | 0.3% | 0.7% | 1.1% |
-| 23 min | EUR | German Import Price Index (YoY) (Feb) | -2.3% |  | -2.3% |
+| 07:45 | EUR | French CPI (YoY) (Mar) | 1.7% | 1.6% | 0.9% |
+| 07:45 | EUR | French HICP (YoY) (Mar) | 1.9% | 1.9% | 1.1% |
+| 07:45 | EUR | French PPI (MoM) (Feb) | -0.2% | -0.2% | 0.5% |
+| 07:45 | EUR | PPI (YoY) (Feb) | -2.40% |  | -2.30% |
+| 08:00 | CHF | Official Reserves Assets (Feb) | 856.0B |  | 853.1B |
+| 08:00 | INR | Balance of Payments (USD) (Q4) | -24.400B |  | -24.400B |
+| 08:00 | INR | Current Account % of GDP (QoQ) (Q4) | -1.30% |  | -1.30% |
+| 08:00 | INR | Current Account (USD) (Q4) | -13.20B |  | -13.20B |
+| 08:00 | INR | Trade Balance (USD) (Q3) | -87.400B |  | -93.600B |
 | 08:55 | EUR | German Unemployment (Mar) |  |  | 2.977M |
 | 08:55 | EUR | German Unemployment n.s.a. (Mar) |  |  | 3.070M |
 | 09:00 | ZAR | SARB Quarterly Bulletin |  |  |  |
@@ -53,10 +57,6 @@
 | 11:00 | EUR | Italian Industrial Sales (MoM) (Jan) |  |  | 0.50% |
 | 11:00 | EUR | Italian Industrial Sales (YoY) (Jan) |  |  | 3.60% |
 | 11:00 | INR | Federal Fiscal Deficit (Feb) |  |  | 9,814.07B |
-| 12:30 | INR | Balance of Payments (USD) (Q4) |  |  | -24.400B |
-| 12:30 | INR | Current Account % of GDP (QoQ) (Q4) |  |  | -1.30% |
-| 12:30 | INR | Current Account (USD) (Q4) |  |  | -13.20B |
-| 12:30 | INR | Trade Balance (USD) (Q3) |  |  | -93.600B |
 | 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
 | 12:30 | BRL | Net Debt-to-GDP ratio (Feb) |  |  | 65.0% |
 | 12:30 | BRL | Budget Balance (Feb) |  |  | 40.062B |

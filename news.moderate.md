@@ -12,9 +12,9 @@
 | 07:00 | GBP | Nationwide HPI (MoM) (Mar) | 0.9% | 0.0% | 0.3% |
 | 07:00 | GBP | Nationwide HPI (YoY) (Mar) | 2.2% |  | 1.0% |
 | 07:00 | EUR | German Retail Sales (MoM) (Feb) | -0.6% | 0.3% | -1.1% |
-| 8 min | EUR | French Consumer Spending (MoM) (Feb) |  | -0.3% | 0.5% |
-| 8 min | EUR | French CPI (MoM) (Mar) |  | 0.9% | 0.6% |
-| 8 min | EUR | French HICP (MoM) (Mar) |  |  | 0.7% |
+| 07:45 | EUR | French Consumer Spending (MoM) (Feb) | -1.4% | -0.3% | 0.4% |
+| 07:45 | EUR | French CPI (MoM) (Mar) | 0.9% | 0.9% | 0.6% |
+| 07:45 | EUR | French HICP (MoM) (Mar) | 1.1% |  | 0.7% |
 | 08:55 | EUR | German Unemployment Change (Mar) |  | 2K | 1K |
 | 08:55 | EUR | German Unemployment Rate (Mar) |  | 6.3% | 6.3% |
 | 10:00 | EUR | Core CPI (YoY) (Mar) |  | 2.4% | 2.4% |

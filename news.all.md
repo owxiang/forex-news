@@ -39,18 +39,22 @@
 | 07:00 | GBP | High | GDP (YoY) (Q4) | 1.0% | 1.0% | 1.2% |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Mar) | 0.9% | 0.0% | 0.3% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Mar) | 2.2% |  | 1.0% |
+| 07:00 | EUR | Low | German Import Price Index (MoM) (Feb) | 0.3% | 0.7% | 1.1% |
+| 07:00 | EUR | Low | German Import Price Index (YoY) (Feb) | -2.3% |  | -2.3% |
 | 07:00 | EUR | Moderate | German Retail Sales (MoM) (Feb) | -0.6% | 0.3% | -1.1% |
 | 07:00 | EUR | Low | German Retail Sales (YoY) (Feb) | 0.7% | 1.0% | 0.9% |
-| 8 min | EUR | Moderate | French Consumer Spending (MoM) (Feb) |  | -0.3% | 0.5% |
-| 8 min | EUR | Moderate | French CPI (MoM) (Mar) |  | 0.9% | 0.6% |
-| 8 min | EUR | Low | French CPI (YoY) (Mar) |  | 1.6% | 0.9% |
-| 8 min | EUR | Moderate | French HICP (MoM) (Mar) |  |  | 0.7% |
-| 8 min | EUR | Low | French HICP (YoY) (Mar) |  | 1.9% | 1.1% |
-| 8 min | EUR | Low | French PPI (MoM) (Feb) |  | -0.2% | 0.5% |
-| 8 min | EUR | Low | PPI (YoY) (Feb) |  |  | -2.30% |
-| 23 min | CHF | Low | Official Reserves Assets (Feb) |  |  | 853.1B |
-| 23 min | EUR | Low | German Import Price Index (MoM) (Feb) | 0.3% | 0.7% | 1.1% |
-| 23 min | EUR | Low | German Import Price Index (YoY) (Feb) | -2.3% |  | -2.3% |
+| 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Feb) | -1.4% | -0.3% | 0.4% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Mar) | 0.9% | 0.9% | 0.6% |
+| 07:45 | EUR | Low | French CPI (YoY) (Mar) | 1.7% | 1.6% | 0.9% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Mar) | 1.1% |  | 0.7% |
+| 07:45 | EUR | Low | French HICP (YoY) (Mar) | 1.9% | 1.9% | 1.1% |
+| 07:45 | EUR | Low | French PPI (MoM) (Feb) | -0.2% | -0.2% | 0.5% |
+| 07:45 | EUR | Low | PPI (YoY) (Feb) | -2.40% |  | -2.30% |
+| 08:00 | CHF | Low | Official Reserves Assets (Feb) | 856.0B |  | 853.1B |
+| 08:00 | INR | Low | Balance of Payments (USD) (Q4) | -24.400B |  | -24.400B |
+| 08:00 | INR | Low | Current Account % of GDP (QoQ) (Q4) | -1.30% |  | -1.30% |
+| 08:00 | INR | Low | Current Account (USD) (Q4) | -13.20B |  | -13.20B |
+| 08:00 | INR | Low | Trade Balance (USD) (Q3) | -87.400B |  | -93.600B |
 | 08:55 | EUR | Moderate | German Unemployment Change (Mar) |  | 2K | 1K |
 | 08:55 | EUR | Moderate | German Unemployment Rate (Mar) |  | 6.3% | 6.3% |
 | 08:55 | EUR | Low | German Unemployment (Mar) |  |  | 2.977M |
@@ -74,10 +78,6 @@
 | 11:00 | EUR | Low | Italian Industrial Sales (MoM) (Jan) |  |  | 0.50% |
 | 11:00 | EUR | Low | Italian Industrial Sales (YoY) (Jan) |  |  | 3.60% |
 | 11:00 | INR | Low | Federal Fiscal Deficit (Feb) |  |  | 9,814.07B |
-| 12:30 | INR | Low | Balance of Payments (USD) (Q4) |  |  | -24.400B |
-| 12:30 | INR | Low | Current Account % of GDP (QoQ) (Q4) |  |  | -1.30% |
-| 12:30 | INR | Low | Current Account (USD) (Q4) |  |  | -13.20B |
-| 12:30 | INR | Low | Trade Balance (USD) (Q3) |  |  | -93.600B |
 | 12:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
 | 12:30 | BRL | Low | Net Debt-to-GDP ratio (Feb) |  |  | 65.0% |
 | 12:30 | BRL | Low | Budget Balance (Feb) |  |  | 40.062B |
