@@ -60,16 +60,16 @@
 | 12:30 | BRL | Net Debt-to-GDP ratio (Feb) | 65.5% |  | 65.0% |
 | 12:30 | BRL | Budget Balance (Feb) | -100.589B |  | 40.062B |
 | 12:30 | BRL | Budget Surplus (Feb) | -16.388B |  | 103.689B |
+| 13:00 | BRL | Long Term Interest Rate TJLP (Q2) | 9.13% |  | 9.19% |
 | 13:00 | BRL | Brazilian PPI (MoM) (Feb) | -0.25% |  | 0.32% |
 | 13:00 | ZAR | Trade Balance (Feb) | 36.92B |  | 8.50B |
-| 13:30 | BRL | Long Term Interest Rate TJLP (Q2) |  |  | 9.19% |
-| 13:55 | USD | Redbook (YoY) |  |  | 6.7% |
-| 14:00 | USD | House Price Index (MoM) (Jan) |  | 0.1% | 0.1% |
-| 14:00 | USD | House Price Index (YoY) (Jan) |  |  | 1.8% |
-| 14:00 | USD | House Price Index (Jan) |  |  | 440.4 |
-| 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Jan) |  |  | 0.5% |
-| 15:30 | USD | Dallas Fed Services Revenues (Mar) |  |  | 4.1 |
-| 15:30 | USD | Texas Services Sector Outlook (Mar) |  |  | -3.2 |
+| 13:55 | USD | Redbook (YoY) | 6.9% |  | 6.7% |
+| 14:00 | USD | House Price Index (MoM) (Jan) | 0.1% | 0.1% | 0.3% |
+| 14:00 | USD | House Price Index (YoY) (Jan) | 1.6% |  | 1.9% |
+| 14:00 | USD | House Price Index (Jan) | 441.0 |  | 440.7 |
+| 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Jan) | 0.2% |  | 0.5% |
+| 52 min | USD | Dallas Fed Services Revenues (Mar) |  |  | 4.1 |
+| 52 min | USD | Texas Services Sector Outlook (Mar) |  |  | -3.2 |
 | 17:00 | USD | Fed Goolsbee Speaks |  |  |  |
 | 18:30 | BRL | CAGED Net Payroll Jobs (Feb) |  | 270.00K | 112.33K |
 | 20:00 | MXN | Fiscal Balance (Feb) |  |  | -19.32B |

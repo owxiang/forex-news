@@ -82,23 +82,23 @@
 | 12:30 | BRL | Low | Budget Balance (Feb) | -100.589B |  | 40.062B |
 | 12:30 | BRL | Low | Budget Surplus (Feb) | -16.388B |  | 103.689B |
 | 12:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Feb) | 79.2% |  | 78.7% |
+| 13:00 | BRL | Low | Long Term Interest Rate TJLP (Q2) | 9.13% |  | 9.19% |
 | 13:00 | BRL | Low | Brazilian PPI (MoM) (Feb) | -0.25% |  | 0.32% |
 | 13:00 | ZAR | Low | Trade Balance (Feb) | 36.92B |  | 8.50B |
-| 13:30 | CAD | Moderate | GDP (MoM) (Jan) |  | 0.0% | 0.2% |
-| 13:30 | BRL | Low | Long Term Interest Rate TJLP (Q2) |  |  | 9.19% |
-| 13:31 | CAD | Moderate | GDP (MoM) (Feb) |  |  |  |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 6.7% |
-| 14:00 | USD | Low | House Price Index (MoM) (Jan) |  | 0.1% | 0.1% |
-| 14:00 | USD | Low | House Price Index (YoY) (Jan) |  |  | 1.8% |
-| 14:00 | USD | Low | House Price Index (Jan) |  |  | 440.4 |
-| 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Jan) |  |  | 0.5% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jan) |  | 1.4% | 1.4% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jan) |  |  | -0.1% |
-| 14:45 | USD | High | Chicago PMI (Mar) |  | 54.8 | 57.7 |
-| 15:00 | USD | High | CB Consumer Confidence (Mar) |  | 87.8 | 91.2 |
-| 15:00 | USD | High | JOLTS Job Openings (Feb) |  | 6.890M | 6.946M |
-| 15:30 | USD | Low | Dallas Fed Services Revenues (Mar) |  |  | 4.1 |
-| 15:30 | USD | Low | Texas Services Sector Outlook (Mar) |  |  | -3.2 |
+| 13:30 | CAD | Moderate | GDP (MoM) (Jan) | 0.1% | 0.0% | 0.2% |
+| 13:31 | CAD | Moderate | GDP (MoM) (Feb) | 0.2% |  | 0.1% |
+| 13:55 | USD | Low | Redbook (YoY) | 6.9% |  | 6.7% |
+| 14:00 | USD | Low | House Price Index (MoM) (Jan) | 0.1% | 0.1% | 0.3% |
+| 14:00 | USD | Low | House Price Index (YoY) (Jan) | 1.6% |  | 1.9% |
+| 14:00 | USD | Low | House Price Index (Jan) | 441.0 |  | 440.7 |
+| 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Jan) | 0.2% |  | 0.5% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jan) | 1.2% | 1.4% | 1.4% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jan) | -0.1% |  | -0.1% |
+| 7 min | USD | High | Chicago PMI (Mar) |  | 54.8 | 57.7 |
+| 22 min | USD | High | CB Consumer Confidence (Mar) |  | 87.8 | 91.2 |
+| 22 min | USD | High | JOLTS Job Openings (Feb) |  | 6.890M | 6.946M |
+| 52 min | USD | Low | Dallas Fed Services Revenues (Mar) |  |  | 4.1 |
+| 52 min | USD | Low | Texas Services Sector Outlook (Mar) |  |  | -3.2 |
 | 17:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 18:30 | BRL | Low | CAGED Net Payroll Jobs (Feb) |  | 270.00K | 112.33K |
 | 20:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
