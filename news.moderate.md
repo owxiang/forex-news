@@ -24,6 +24,6 @@
 | 13:31 | CAD | GDP (MoM) (Feb) | 0.2% |  | 0.1% |
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jan) | 1.2% | 1.4% | 1.4% |
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jan) | -0.1% |  | -0.1% |
-| 33 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 20:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | -1.300M | 2.300M |
 | 22:10 | USD | FOMC Member Bowman Speaks |  |  |  |
