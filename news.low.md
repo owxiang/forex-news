@@ -26,15 +26,15 @@
 | 04:35 | JPY | 2-Year JGB Auction | 1.370% |  | 1.244% |
 | 06:00 | JPY | Construction Orders (YoY) (Feb) | 42.7% |  | 5.7% |
 | 06:00 | JPY | Housing Starts (YoY) (Feb) | -4.9% | -4.5% | -0.4% |
-| 22 min | GBP | Business Investment (YoY) (Q4) |  | 2.0% | 2.5% |
-| 22 min | EUR | German Import Price Index (MoM) (Feb) |  | 0.7% | 1.1% |
-| 22 min | EUR | German Import Price Index (YoY) (Feb) |  |  | -2.3% |
-| 22 min | EUR | German Retail Sales (YoY) (Feb) |  | 1.0% | 1.2% |
-| 07:45 | EUR | French CPI (YoY) (Mar) |  | 1.6% | 0.9% |
-| 07:45 | EUR | French HICP (YoY) (Mar) |  | 1.9% | 1.1% |
-| 07:45 | EUR | French PPI (MoM) (Feb) |  | -0.2% | 0.5% |
-| 07:45 | EUR | PPI (YoY) (Feb) |  |  | -2.30% |
-| 08:00 | CHF | Official Reserves Assets (Feb) |  |  | 853.1B |
+| 07:00 | GBP | Business Investment (YoY) (Q4) | 2.0% | 2.0% | 3.5% |
+| 07:00 | EUR | German Retail Sales (YoY) (Feb) | 0.7% | 1.0% | 0.9% |
+| 8 min | EUR | French CPI (YoY) (Mar) |  | 1.6% | 0.9% |
+| 8 min | EUR | French HICP (YoY) (Mar) |  | 1.9% | 1.1% |
+| 8 min | EUR | French PPI (MoM) (Feb) |  | -0.2% | 0.5% |
+| 8 min | EUR | PPI (YoY) (Feb) |  |  | -2.30% |
+| 23 min | CHF | Official Reserves Assets (Feb) |  |  | 853.1B |
+| 23 min | EUR | German Import Price Index (MoM) (Feb) | 0.3% | 0.7% | 1.1% |
+| 23 min | EUR | German Import Price Index (YoY) (Feb) | -2.3% |  | -2.3% |
 | 08:55 | EUR | German Unemployment (Mar) |  |  | 2.977M |
 | 08:55 | EUR | German Unemployment n.s.a. (Mar) |  |  | 3.070M |
 | 09:00 | ZAR | SARB Quarterly Bulletin |  |  |  |

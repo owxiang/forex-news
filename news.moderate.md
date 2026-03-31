@@ -7,14 +7,14 @@
 | 01:30 | AUD | RBA Meeting Minutes |  |  |  |
 | 02:30 | CNY | Chinese Composite PMI (Mar) | 50.5 |  | 49.5 |
 | 02:30 | CNY | Non-Manufacturing PMI (Mar) | 50.1 | 49.9 | 49.5 |
-| 22 min | GBP | Business Investment (QoQ) (Q4) |  | -2.7% | 1.6% |
-| 22 min | GBP | Current Account (Q4) |  | -24.0B | -12.1B |
-| 22 min | GBP | Nationwide HPI (MoM) (Mar) |  | 0.0% | 0.3% |
-| 22 min | GBP | Nationwide HPI (YoY) (Mar) |  |  | 1.0% |
-| 22 min | EUR | German Retail Sales (MoM) (Feb) |  | 0.3% | -0.9% |
-| 07:45 | EUR | French Consumer Spending (MoM) (Feb) |  | -0.3% | 0.5% |
-| 07:45 | EUR | French CPI (MoM) (Mar) |  | 0.9% | 0.6% |
-| 07:45 | EUR | French HICP (MoM) (Mar) |  |  | 0.7% |
+| 07:00 | GBP | Business Investment (QoQ) (Q4) | -2.5% | -2.7% | 1.1% |
+| 07:00 | GBP | Current Account (Q4) | -18.4B | -24.0B | -10.7B |
+| 07:00 | GBP | Nationwide HPI (MoM) (Mar) | 0.9% | 0.0% | 0.3% |
+| 07:00 | GBP | Nationwide HPI (YoY) (Mar) | 2.2% |  | 1.0% |
+| 07:00 | EUR | German Retail Sales (MoM) (Feb) | -0.6% | 0.3% | -1.1% |
+| 8 min | EUR | French Consumer Spending (MoM) (Feb) |  | -0.3% | 0.5% |
+| 8 min | EUR | French CPI (MoM) (Mar) |  | 0.9% | 0.6% |
+| 8 min | EUR | French HICP (MoM) (Mar) |  |  | 0.7% |
 | 08:55 | EUR | German Unemployment Change (Mar) |  | 2K | 1K |
 | 08:55 | EUR | German Unemployment Rate (Mar) |  | 6.3% | 6.3% |
 | 10:00 | EUR | Core CPI (YoY) (Mar) |  | 2.4% | 2.4% |
