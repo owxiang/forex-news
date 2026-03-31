@@ -21,8 +21,8 @@
 | 01:00 | NZD | NBNZ Own Activity (Mar) | 39.3% |  | 52.6% |
 | 01:30 | AUD | Housing Credit (Feb) | 0.6% |  | 0.6% |
 | 01:30 | AUD | Private Sector Credit (MoM) (Feb) | 0.6% | 0.6% | 0.5% |
-| 03:00 | SGD | Bank Lending (Feb) |  |  | 887.5B |
-| 03:00 | NZD | M3 Money Supply (Feb) |  |  | 441.7B |
+| 20 min | SGD | Bank Lending (Feb) |  |  | 887.5B |
+| 20 min | NZD | M3 Money Supply (Feb) |  |  | 441.7B |
 | 04:35 | JPY | 2-Year JGB Auction |  |  | 1.244% |
 | 06:00 | JPY | Construction Orders (YoY) (Feb) |  |  | 5.7% |
 | 06:00 | JPY | Housing Starts (YoY) (Feb) |  | -4.6% | -0.4% |

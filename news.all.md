@@ -24,11 +24,11 @@
 | 01:30 | AUD | Low | Housing Credit (Feb) | 0.6% |  | 0.6% |
 | 01:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
 | 01:30 | AUD | Low | Private Sector Credit (MoM) (Feb) | 0.6% | 0.6% | 0.5% |
-| 45 min | CNY | Moderate | Chinese Composite PMI (Mar) |  |  | 49.5 |
-| 45 min | CNY | High | Manufacturing PMI (Mar) |  | 50.1 | 49.0 |
-| 45 min | CNY | Moderate | Non-Manufacturing PMI (Mar) |  | 49.9 | 49.5 |
-| 03:00 | SGD | Low | Bank Lending (Feb) |  |  | 887.5B |
-| 03:00 | NZD | Low | M3 Money Supply (Feb) |  |  | 441.7B |
+| 02:30 | CNY | Moderate | Chinese Composite PMI (Mar) | 50.5 |  | 49.5 |
+| 02:30 | CNY | High | Manufacturing PMI (Mar) | 50.4 | 50.1 | 49.0 |
+| 02:30 | CNY | Moderate | Non-Manufacturing PMI (Mar) | 50.1 | 49.9 | 49.5 |
+| 20 min | SGD | Low | Bank Lending (Feb) |  |  | 887.5B |
+| 20 min | NZD | Low | M3 Money Supply (Feb) |  |  | 441.7B |
 | 04:35 | JPY | Low | 2-Year JGB Auction |  |  | 1.244% |
 | 06:00 | JPY | Low | Construction Orders (YoY) (Feb) |  |  | 5.7% |
 | 06:00 | JPY | Low | Housing Starts (YoY) (Feb) |  | -4.6% | -0.4% |

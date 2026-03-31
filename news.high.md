@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 45 min | CNY | Manufacturing PMI (Mar) |  | 50.1 | 49.0 |
+| 02:30 | CNY | Manufacturing PMI (Mar) | 50.4 | 50.1 | 49.0 |
 | 07:00 | GBP | GDP (QoQ) (Q4) |  | 0.1% | 0.1% |
 | 07:00 | GBP | GDP (YoY) (Q4) |  | 1.0% | 1.2% |
 | 10:00 | EUR | CPI (YoY) (Mar) |  | 2.5% | 1.9% |

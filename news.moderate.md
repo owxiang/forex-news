@@ -5,8 +5,8 @@
 | 00:30 | JPY | Tokyo Core CPI (YoY) (Mar) | 1.7% | 1.8% | 1.8% |
 | 00:50 | JPY | Industrial Production (MoM) (Feb) | -2.1% | -2.1% | 4.3% |
 | 01:30 | AUD | RBA Meeting Minutes |  |  |  |
-| 45 min | CNY | Chinese Composite PMI (Mar) |  |  | 49.5 |
-| 45 min | CNY | Non-Manufacturing PMI (Mar) |  | 49.9 | 49.5 |
+| 02:30 | CNY | Chinese Composite PMI (Mar) | 50.5 |  | 49.5 |
+| 02:30 | CNY | Non-Manufacturing PMI (Mar) | 50.1 | 49.9 | 49.5 |
 | 07:00 | GBP | Business Investment (QoQ) (Q4) |  | -2.7% | 1.6% |
 | 07:00 | GBP | Current Account (Q4) |  | -23.9B | -12.1B |
 | 07:00 | GBP | Nationwide HPI (MoM) (Mar) |  | 0.0% | 0.3% |
