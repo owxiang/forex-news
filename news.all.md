@@ -29,17 +29,17 @@
 | 05:00 | IDR | Low | Inflation (MoM) (Mar) | 0.41% | 0.46% | 0.68% |
 | 05:00 | IDR | Low | Inflation (YoY) (Mar) | 3.48% | 3.60% | 4.76% |
 | 05:00 | IDR | Low | Trade Balance (Feb) | 1.28B | 1.55B | 0.96B |
-| 06:30 | AUD | Low | Commodity Prices (YoY) | 12.8% |  | 3.4% |
+| 06:30 | AUD | Low | Commodity Prices (YoY) | 12.8% |  | 4.9% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Feb) | 0.9% | 1.5% | -0.6% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Mar) | 48.7 | 50.5 | 50.0 |
 | 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (Mar) | 53.3 | 47.2 | 47.4 |
-| 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Mar) |  | 50.9 | 50.6 |
-| 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (Mar) |  | 50.2 | 50.2 |
-| 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Mar) |  | 51.7 | 50.9 |
-| 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Feb) |  | 5.2% | 5.1% |
-| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Mar) |  | 51.4 | 50.8 |
-| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Mar) |  | 51.4 | 51.7 |
-| 09:30 | HKD | Low | Retail Sales (YoY) (Feb) |  |  | 5.5% |
+| 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Mar) | 51.3 | 50.9 | 50.6 |
+| 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (Mar) | 50.0 | 50.2 | 50.2 |
+| 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Mar) | 52.2 | 51.7 | 50.9 |
+| 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Feb) | 5.3% | 5.2% | 5.2% |
+| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Mar) | 51.6 | 51.4 | 50.8 |
+| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Mar) | 51.0 | 51.4 | 51.7 |
+| 09:30 | HKD | Low | Retail Sales (YoY) (Feb) | 19.3% |  | 5.5% |
 | 10:00 | EUR | Moderate | Unemployment Rate (Feb) |  | 6.1% | 6.1% |
 | 10:00 | ZAR | Low | Manufacturing PMI (Mar) |  |  | 47.4 |
 | 10:30 | GBP | Low | BoE FPC Meeting Minutes |  |  |  |

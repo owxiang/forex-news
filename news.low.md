@@ -23,10 +23,10 @@
 | 05:00 | IDR | Inflation (MoM) (Mar) | 0.41% | 0.46% | 0.68% |
 | 05:00 | IDR | Inflation (YoY) (Mar) | 3.48% | 3.60% | 4.76% |
 | 05:00 | IDR | Trade Balance (Feb) | 1.28B | 1.55B | 0.96B |
-| 06:30 | AUD | Commodity Prices (YoY) | 12.8% |  | 3.4% |
+| 06:30 | AUD | Commodity Prices (YoY) | 12.8% |  | 4.9% |
 | 07:30 | CHF | Retail Sales (YoY) (Feb) | 0.9% | 1.5% | -0.6% |
-| 09:00 | EUR | Italian Monthly Unemployment Rate (Feb) |  | 5.2% | 5.1% |
-| 09:30 | HKD | Retail Sales (YoY) (Feb) |  |  | 5.5% |
+| 09:00 | EUR | Italian Monthly Unemployment Rate (Feb) | 5.3% | 5.2% | 5.2% |
+| 09:30 | HKD | Retail Sales (YoY) (Feb) | 19.3% |  | 5.5% |
 | 10:00 | ZAR | Manufacturing PMI (Mar) |  |  | 47.4 |
 | 10:30 | GBP | BoE FPC Meeting Minutes |  |  |  |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.43% |
