@@ -52,5 +52,5 @@
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.8% |  | 1.5% |
 | 15:30 | USD | Gasoline Inventories | -0.586M | -1.900M | -2.593M |
 | 16:00 | MXN | S&P Global Manufacturing PMI (Mar) | 48.90 |  | 47.10 |
-| 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
-| 18:30 | BRL | Foreign Exchange Flows |  |  | -0.119B |
+| 6 min | CAD | BOC Summary of Deliberations |  |  |  |
+| 6 min | BRL | Foreign Exchange Flows |  |  | -0.119B |
