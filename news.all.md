@@ -29,8 +29,8 @@
 | 05:00 | IDR | Low | Inflation (MoM) (Mar) | 0.41% | 0.46% | 0.68% |
 | 05:00 | IDR | Low | Inflation (YoY) (Mar) | 3.48% | 3.60% | 4.76% |
 | 05:00 | IDR | Low | Trade Balance (Feb) | 1.28B | 1.55B | 0.96B |
-| 06:30 | AUD | Low | Commodity Prices (YoY) |  |  | 2.7% |
-| 07:30 | CHF | Low | Retail Sales (YoY) (Feb) |  | 1.5% | -1.1% |
+| 06:30 | AUD | Low | Commodity Prices (YoY) | 12.8% |  | 3.4% |
+| 07:30 | CHF | Low | Retail Sales (YoY) (Feb) | 0.9% | 1.5% | -0.6% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Mar) |  | 50.5 | 50.0 |
 | 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (Mar) |  | 47.2 | 47.4 |
 | 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Mar) |  | 50.9 | 50.6 |
