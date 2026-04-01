@@ -16,13 +16,13 @@
 | 01:00 | KRW | Low | Imports (YoY) (Mar) | 13.2% | 18.0% | 7.5% |
 | 01:00 | KRW | Low | Trade Balance (Mar) | 25.74B | 21.20B | 15.38B |
 | 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Mar) | 52.6 |  | 51.1 |
-| 01:30 | AUD | Low | Building Approvals (YoY) (Feb) | 10.80% |  | 8.80% |
+| 01:30 | AUD | Low | Building Approvals (YoY) (Feb) | 14.00% |  | -15.70% |
 | 01:30 | AUD | Moderate | Building Approvals (MoM) (Feb) | 29.7% | 5.8% | -7.2% |
 | 01:30 | AUD | Low | Private House Approvals (Feb) | 0.2% |  | 1.7% |
 | 01:30 | JPY | Low | S&P Global Manufacturing PMI (Mar) | 51.6 | 51.6 | 51.4 |
 | 01:30 | SGD | Low | URA Property Index (QoQ) (Q1) | 0.30% |  | 0.60% |
 | 01:30 | IDR | Low | S&P Global Manufacturing PMI (Mar) | 50.1 |  | 53.8 |
-| 5 min | CNY | Moderate | RatingDog Manufacturing PMI (MoM) (Mar) |  | 51.6 | 52.1 |
+| 02:45 | CNY | Moderate | RatingDog Manufacturing PMI (MoM) (Mar) | 50.8 | 51.6 | 52.1 |
 | 05:00 | IDR | Low | Core Inflation (YoY) (Mar) |  |  | 2.63% |
 | 05:00 | IDR | Low | Export Growth (YoY) (Feb) |  | 1.00% | 3.39% |
 | 05:00 | IDR | Low | Import Growth (YoY) (Feb) |  | 8.93% | 18.21% |

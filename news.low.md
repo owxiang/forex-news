@@ -12,7 +12,7 @@
 | 01:00 | KRW | Imports (YoY) (Mar) | 13.2% | 18.0% | 7.5% |
 | 01:00 | KRW | Trade Balance (Mar) | 25.74B | 21.20B | 15.38B |
 | 01:30 | KRW | S&P Global South Korea Manufacturing PMI (Mar) | 52.6 |  | 51.1 |
-| 01:30 | AUD | Building Approvals (YoY) (Feb) | 10.80% |  | 8.80% |
+| 01:30 | AUD | Building Approvals (YoY) (Feb) | 14.00% |  | -15.70% |
 | 01:30 | AUD | Private House Approvals (Feb) | 0.2% |  | 1.7% |
 | 01:30 | JPY | S&P Global Manufacturing PMI (Mar) | 51.6 | 51.6 | 51.4 |
 | 01:30 | SGD | URA Property Index (QoQ) (Q1) | 0.30% |  | 0.60% |
