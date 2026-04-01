@@ -79,6 +79,6 @@
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -0.8% |  | 1.5% |
 | 15:30 | USD | Low | Gasoline Inventories | -0.586M | -1.900M | -2.593M |
 | 16:00 | MXN | Low | S&P Global Manufacturing PMI (Mar) | 48.90 |  | 47.10 |
-| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 2.0% | 2.0% |
+| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 1.9% | 2.0% | 2.0% |
 | 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.119B |

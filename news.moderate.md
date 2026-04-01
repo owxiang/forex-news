@@ -22,4 +22,4 @@
 | 15:00 | USD | ISM Manufacturing Employment (Mar) | 48.7 | 49.0 | 48.8 |
 | 15:00 | USD | Retail Inventories Ex Auto (Jan) | 0.3% |  | 0.4% |
 | 15:30 | USD | Cushing Crude Oil Inventories | 0.520M |  | 3.421M |
-| 16:30 | USD | Atlanta Fed GDPNow (Q1) |  | 2.0% | 2.0% |
+| 16:30 | USD | Atlanta Fed GDPNow (Q1) | 1.9% | 2.0% | 2.0% |
