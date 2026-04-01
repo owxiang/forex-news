@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Tankan All Big Industry CAPEX (Q1) | 3.3% |  | 12.6% |
 | 00:50 | JPY | Tankan Big Manufacturing Outlook Index (Q1) | 14 | 13 | 15 |
-| 00:50 | JPY | Tankan Large Manufacturers Index (Q1) | 17 | 16 | 15 |
+| 00:50 | JPY | Tankan Large Manufacturers Index (Q1) | 17 | 16 | 16 |
 | 00:50 | JPY | Tankan Large Non-Manufacturers Index (Q1) | 36 | 33 | 34 |
 | 01:30 | AUD | Building Approvals (MoM) (Feb) | 29.7% | 5.8% | -7.2% |
 | 02:45 | CNY | RatingDog Manufacturing PMI (MoM) (Mar) | 50.8 | 51.6 | 52.1 |

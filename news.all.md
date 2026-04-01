@@ -5,7 +5,7 @@
 | 00:50 | JPY | Moderate | Tankan All Big Industry CAPEX (Q1) | 3.3% |  | 12.6% |
 | 00:50 | JPY | Low | Tankan All Small Industry CAPEX (Q1) | -8.1% |  | 0.1% |
 | 00:50 | JPY | Moderate | Tankan Big Manufacturing Outlook Index (Q1) | 14 | 13 | 15 |
-| 00:50 | JPY | Moderate | Tankan Large Manufacturers Index (Q1) | 17 | 16 | 15 |
+| 00:50 | JPY | Moderate | Tankan Large Manufacturers Index (Q1) | 17 | 16 | 16 |
 | 00:50 | JPY | Low | Tankan Large Non-Manufacturers Diffusion Index (Q1) | 29 | 28 | 28 |
 | 00:50 | JPY | Moderate | Tankan Large Non-Manufacturers Index (Q1) | 36 | 33 | 34 |
 | 00:50 | JPY | Low | Tankan Small Manufacturers Diffusion Index (Q1) | 4 |  | 2 |
@@ -23,12 +23,12 @@
 | 01:30 | SGD | Low | URA Property Index (QoQ) (Q1) | 0.30% |  | 0.60% |
 | 01:30 | IDR | Low | S&P Global Manufacturing PMI (Mar) | 50.1 |  | 53.8 |
 | 02:45 | CNY | Moderate | RatingDog Manufacturing PMI (MoM) (Mar) | 50.8 | 51.6 | 52.1 |
-| 05:00 | IDR | Low | Core Inflation (YoY) (Mar) |  |  | 2.63% |
-| 05:00 | IDR | Low | Export Growth (YoY) (Feb) |  | 1.00% | 3.39% |
-| 05:00 | IDR | Low | Import Growth (YoY) (Feb) |  | 8.93% | 18.21% |
-| 05:00 | IDR | Low | Inflation (MoM) (Mar) |  |  | 0.68% |
-| 05:00 | IDR | Low | Inflation (YoY) (Mar) |  |  | 4.76% |
-| 05:00 | IDR | Low | Trade Balance (Feb) |  | 1.80B | 0.96B |
+| 05:00 | IDR | Low | Core Inflation (YoY) (Mar) | 2.52% | 2.63% | 2.63% |
+| 05:00 | IDR | Low | Export Growth (YoY) (Feb) | 1.01% | 3.20% | 3.39% |
+| 05:00 | IDR | Low | Import Growth (YoY) (Feb) | 10.85% | 11.20% | 18.21% |
+| 05:00 | IDR | Low | Inflation (MoM) (Mar) | 0.41% | 0.46% | 0.68% |
+| 05:00 | IDR | Low | Inflation (YoY) (Mar) | 3.48% | 3.60% | 4.76% |
+| 05:00 | IDR | Low | Trade Balance (Feb) | 1.28B | 1.55B | 0.96B |
 | 06:30 | AUD | Low | Commodity Prices (YoY) |  |  | 2.7% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Feb) |  | 1.5% | -1.1% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Mar) |  | 50.5 | 50.0 |
@@ -67,9 +67,9 @@
 | 15:00 | USD | Moderate | ISM Manufacturing Employment (Mar) |  |  | 48.8 |
 | 15:00 | USD | Low | ISM Manufacturing New Orders Index (Mar) |  |  | 55.8 |
 | 15:00 | USD | High | ISM Manufacturing PMI (Mar) |  | 52.3 | 52.4 |
-| 15:00 | USD | High | ISM Manufacturing Prices (Mar) |  | 73.8 | 70.5 |
+| 15:00 | USD | High | ISM Manufacturing Prices (Mar) |  | 74.0 | 70.5 |
 | 15:00 | USD | Moderate | Retail Inventories Ex Auto (Jan) |  |  | 0.4% |
-| 15:30 | USD | High | Crude Oil Inventories |  | -1.300M | 6.926M |
+| 15:30 | USD | High | Crude Oil Inventories |  | 2.000M | 6.926M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.366M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 0.846M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 3.421M |

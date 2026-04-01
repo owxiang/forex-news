@@ -17,12 +17,12 @@
 | 01:30 | JPY | S&P Global Manufacturing PMI (Mar) | 51.6 | 51.6 | 51.4 |
 | 01:30 | SGD | URA Property Index (QoQ) (Q1) | 0.30% |  | 0.60% |
 | 01:30 | IDR | S&P Global Manufacturing PMI (Mar) | 50.1 |  | 53.8 |
-| 05:00 | IDR | Core Inflation (YoY) (Mar) |  |  | 2.63% |
-| 05:00 | IDR | Export Growth (YoY) (Feb) |  | 1.00% | 3.39% |
-| 05:00 | IDR | Import Growth (YoY) (Feb) |  | 8.93% | 18.21% |
-| 05:00 | IDR | Inflation (MoM) (Mar) |  |  | 0.68% |
-| 05:00 | IDR | Inflation (YoY) (Mar) |  |  | 4.76% |
-| 05:00 | IDR | Trade Balance (Feb) |  | 1.80B | 0.96B |
+| 05:00 | IDR | Core Inflation (YoY) (Mar) | 2.52% | 2.63% | 2.63% |
+| 05:00 | IDR | Export Growth (YoY) (Feb) | 1.01% | 3.20% | 3.39% |
+| 05:00 | IDR | Import Growth (YoY) (Feb) | 10.85% | 11.20% | 18.21% |
+| 05:00 | IDR | Inflation (MoM) (Mar) | 0.41% | 0.46% | 0.68% |
+| 05:00 | IDR | Inflation (YoY) (Mar) | 3.48% | 3.60% | 4.76% |
+| 05:00 | IDR | Trade Balance (Feb) | 1.28B | 1.55B | 0.96B |
 | 06:30 | AUD | Commodity Prices (YoY) |  |  | 2.7% |
 | 07:30 | CHF | Retail Sales (YoY) (Feb) |  | 1.5% | -1.1% |
 | 09:00 | EUR | Italian Monthly Unemployment Rate (Feb) |  | 5.2% | 5.1% |
