@@ -40,8 +40,8 @@
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Mar) | 51.6 | 51.4 | 50.8 |
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Mar) | 51.0 | 51.4 | 51.7 |
 | 09:30 | HKD | Low | Retail Sales (YoY) (Feb) | 19.3% |  | 5.5% |
-| 10:00 | EUR | Moderate | Unemployment Rate (Feb) |  | 6.1% | 6.1% |
-| 10:00 | ZAR | Low | Manufacturing PMI (Mar) |  |  | 47.4 |
+| 10:00 | EUR | Moderate | Unemployment Rate (Feb) | 6.2% | 6.1% | 6.1% |
+| 10:00 | ZAR | Low | Manufacturing PMI (Mar) | 49.0 |  | 47.4 |
 | 10:30 | GBP | Low | BoE FPC Meeting Minutes |  |  |  |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.43% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -10.5% |
