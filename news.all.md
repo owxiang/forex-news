@@ -43,16 +43,16 @@
 | 10:00 | EUR | Moderate | Unemployment Rate (Feb) | 6.2% | 6.1% | 6.1% |
 | 10:00 | ZAR | Low | Manufacturing PMI (Mar) | 49.0 |  | 47.4 |
 | 10:30 | GBP | Low | BoE FPC Meeting Minutes |  |  |  |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.43% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -10.5% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 163.6 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 310.7 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 1,145.0 |
+| 10:45 | EUR | Low | Car Registration (YoY) (Mar) | 11.50% |  | 7.50% |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.57% |  | 6.43% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | -10.4% |  | -10.5% |
+| 12:00 | USD | Low | MBA Purchase Index | 159.4 |  | 163.6 |
+| 12:00 | USD | Low | Mortgage Market Index | 278.3 |  | 310.7 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 946.4 |  | 1,145.0 |
 | 12:00 | EUR | Low | Car Registration (MoM) (Mar) |  |  | 32.80% |
-| 12:00 | EUR | Low | Car Registration (YoY) (Mar) |  |  | 7.50% |
-| 13:15 | USD | High | ADP Nonfarm Employment Change (Mar) |  | 41K | 63K |
-| 13:15 | ZAR | Low | Total Vehicle Sales (YoY) (Mar) |  |  | 11.40% |
-| 13:15 | ZAR | Low | Total Vehicle Sales (Mar) |  |  | 53.46K |
+| 50 min | USD | High | ADP Nonfarm Employment Change (Mar) |  | 41K | 63K |
+| 50 min | ZAR | Low | Total Vehicle Sales (YoY) (Mar) |  |  | 11.40% |
+| 50 min | ZAR | Low | Total Vehicle Sales (Mar) |  |  | 53.46K |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Feb) |  | 0.3% | 0.0% |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Feb) |  | 0.3% | 0.3% |
 | 13:30 | USD | High | Retail Sales (MoM) (Feb) |  | 0.5% | -0.2% |

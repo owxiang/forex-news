@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:15 | USD | ADP Nonfarm Employment Change (Mar) |  | 41K | 63K |
+| 50 min | USD | ADP Nonfarm Employment Change (Mar) |  | 41K | 63K |
 | 13:30 | USD | Core Retail Sales (MoM) (Feb) |  | 0.3% | 0.0% |
 | 13:30 | USD | Retail Sales (MoM) (Feb) |  | 0.5% | -0.2% |
 | 14:45 | USD | S&P Global Manufacturing PMI (Mar) |  | 52.4 | 51.6 |

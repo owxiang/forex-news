@@ -29,15 +29,15 @@
 | 09:30 | HKD | Retail Sales (YoY) (Feb) | 19.3% |  | 5.5% |
 | 10:00 | ZAR | Manufacturing PMI (Mar) | 49.0 |  | 47.4 |
 | 10:30 | GBP | BoE FPC Meeting Minutes |  |  |  |
-| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.43% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -10.5% |
-| 12:00 | USD | MBA Purchase Index |  |  | 163.6 |
-| 12:00 | USD | Mortgage Market Index |  |  | 310.7 |
-| 12:00 | USD | Mortgage Refinance Index |  |  | 1,145.0 |
+| 10:45 | EUR | Car Registration (YoY) (Mar) | 11.50% |  | 7.50% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.57% |  | 6.43% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | -10.4% |  | -10.5% |
+| 12:00 | USD | MBA Purchase Index | 159.4 |  | 163.6 |
+| 12:00 | USD | Mortgage Market Index | 278.3 |  | 310.7 |
+| 12:00 | USD | Mortgage Refinance Index | 946.4 |  | 1,145.0 |
 | 12:00 | EUR | Car Registration (MoM) (Mar) |  |  | 32.80% |
-| 12:00 | EUR | Car Registration (YoY) (Mar) |  |  | 7.50% |
-| 13:15 | ZAR | Total Vehicle Sales (YoY) (Mar) |  |  | 11.40% |
-| 13:15 | ZAR | Total Vehicle Sales (Mar) |  |  | 53.46K |
+| 50 min | ZAR | Total Vehicle Sales (YoY) (Mar) |  |  | 11.40% |
+| 50 min | ZAR | Total Vehicle Sales (Mar) |  |  | 53.46K |
 | 13:30 | USD | Retail Sales (YoY) (Feb) |  |  | 3.16% |
 | 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Feb) |  |  | 0.3% |
 | 14:00 | BRL | S&P Global Manufacturing PMI (Mar) |  |  | 47.3 |
