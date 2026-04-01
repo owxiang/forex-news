@@ -68,7 +68,7 @@
 | 15:00 | USD | High | ISM Manufacturing PMI (Mar) | 52.7 | 52.3 | 52.4 |
 | 15:00 | USD | High | ISM Manufacturing Prices (Mar) | 78.3 | 74.0 | 70.5 |
 | 15:00 | USD | Moderate | Retail Inventories Ex Auto (Jan) | 0.3% |  | 0.4% |
-| 15:30 | USD | High | Crude Oil Inventories | 5.451M | 2.000M | 6.926M |
+| 15:30 | USD | High | Crude Oil Inventories | 5.451M | 1.800M | 6.926M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | -0.219M |  | 0.366M |
 | 15:30 | USD | Low | Crude Oil Imports | -0.209M |  | 0.846M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories | 0.520M |  | 3.421M |
@@ -77,8 +77,8 @@
 | 15:30 | USD | Low | Gasoline Production | -0.152M |  | 0.309M |
 | 15:30 | USD | Low | Heating Oil Stockpiles | -0.809M |  | -0.241M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -0.8% |  | 1.5% |
-| 15:30 | USD | Low | Gasoline Inventories | -0.586M |  | -2.593M |
-| 22 min | MXN | Low | S&P Global Manufacturing PMI (Mar) |  |  | 47.10 |
-| 52 min | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 2.0% | 2.0% |
+| 15:30 | USD | Low | Gasoline Inventories | -0.586M | -1.900M | -2.593M |
+| 16:00 | MXN | Low | S&P Global Manufacturing PMI (Mar) | 48.90 |  | 47.10 |
+| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 2.0% | 2.0% |
 | 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.119B |

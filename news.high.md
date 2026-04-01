@@ -8,4 +8,4 @@
 | 14:45 | USD | S&P Global Manufacturing PMI (Mar) | 52.3 | 52.4 | 51.6 |
 | 15:00 | USD | ISM Manufacturing PMI (Mar) | 52.7 | 52.3 | 52.4 |
 | 15:00 | USD | ISM Manufacturing Prices (Mar) | 78.3 | 74.0 | 70.5 |
-| 15:30 | USD | Crude Oil Inventories | 5.451M | 2.000M | 6.926M |
+| 15:30 | USD | Crude Oil Inventories | 5.451M | 1.800M | 6.926M |
