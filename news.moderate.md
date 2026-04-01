@@ -8,14 +8,13 @@
 | 00:50 | JPY | Tankan Large Non-Manufacturers Index (Q1) | 36 | 33 | 34 |
 | 01:30 | AUD | Building Approvals (MoM) (Feb) | 29.7% | 5.8% | -7.2% |
 | 02:45 | CNY | RatingDog Manufacturing PMI (MoM) (Mar) | 50.8 | 51.6 | 52.1 |
-| 08:15 | EUR | HCOB Spain Manufacturing PMI (Mar) |  | 50.5 | 50.0 |
-| 08:30 | CHF | procure.ch Manufacturing PMI (Mar) |  | 47.2 | 47.4 |
+| 08:15 | EUR | HCOB Spain Manufacturing PMI (Mar) | 48.7 | 50.5 | 50.0 |
+| 08:30 | CHF | procure.ch Manufacturing PMI (Mar) | 53.3 | 47.2 | 47.4 |
 | 08:45 | EUR | HCOB Italy Manufacturing PMI (Mar) |  | 50.9 | 50.6 |
 | 08:50 | EUR | HCOB France Manufacturing PMI (Mar) |  | 50.2 | 50.2 |
 | 08:55 | EUR | HCOB Germany Manufacturing PMI (Mar) |  | 51.7 | 50.9 |
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Mar) |  | 51.4 | 50.8 |
 | 09:30 | GBP | S&P Global Manufacturing PMI (Mar) |  | 51.4 | 51.7 |
-| 09:30 | GBP | Mortgage Rate (GBP) (Mar) |  |  | 6.59% |
 | 10:00 | EUR | Unemployment Rate (Feb) |  | 6.1% | 6.1% |
 | 13:30 | USD | Retail Control (MoM) (Feb) |  | 0.3% | 0.3% |
 | 14:10 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
