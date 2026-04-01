@@ -50,16 +50,14 @@
 | 12:00 | USD | Low | Mortgage Market Index | 278.3 |  | 310.7 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 946.4 |  | 1,145.0 |
 | 12:00 | EUR | Low | Car Registration (MoM) (Mar) |  |  | 32.80% |
-| 50 min | USD | High | ADP Nonfarm Employment Change (Mar) |  | 41K | 63K |
-| 50 min | ZAR | Low | Total Vehicle Sales (YoY) (Mar) |  |  | 11.40% |
-| 50 min | ZAR | Low | Total Vehicle Sales (Mar) |  |  | 53.46K |
-| 13:30 | USD | High | Core Retail Sales (MoM) (Feb) |  | 0.3% | 0.0% |
-| 13:30 | USD | Moderate | Retail Control (MoM) (Feb) |  | 0.3% | 0.3% |
-| 13:30 | USD | High | Retail Sales (MoM) (Feb) |  | 0.5% | -0.2% |
-| 13:30 | USD | Low | Retail Sales (YoY) (Feb) |  |  | 3.16% |
-| 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Feb) |  |  | 0.3% |
-| 14:00 | BRL | Low | S&P Global Manufacturing PMI (Mar) |  |  | 47.3 |
-| 14:10 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 13:15 | USD | High | ADP Nonfarm Employment Change (Mar) | 62K | 41K | 66K |
+| 1 min | USD | High | Core Retail Sales (MoM) (Feb) |  | 0.3% | 0.0% |
+| 1 min | USD | Moderate | Retail Control (MoM) (Feb) |  | 0.3% | 0.3% |
+| 1 min | USD | High | Retail Sales (MoM) (Feb) |  | 0.5% | -0.2% |
+| 1 min | USD | Low | Retail Sales (YoY) (Feb) |  |  | 3.16% |
+| 1 min | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Feb) |  |  | 0.3% |
+| 31 min | BRL | Low | S&P Global Manufacturing PMI (Mar) |  |  | 47.3 |
+| 41 min | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 14:30 | CAD | Low | S&P Global Manufacturing PMI (Mar) |  |  | 51.0 |
 | 14:45 | USD | High | S&P Global Manufacturing PMI (Mar) |  | 52.4 | 51.6 |
 | 15:00 | USD | Moderate | Business Inventories (MoM) (Jan) |  | 0.0% | 0.1% |
@@ -68,6 +66,8 @@
 | 15:00 | USD | High | ISM Manufacturing PMI (Mar) |  | 52.3 | 52.4 |
 | 15:00 | USD | High | ISM Manufacturing Prices (Mar) |  | 74.0 | 70.5 |
 | 15:00 | USD | Moderate | Retail Inventories Ex Auto (Jan) |  |  | 0.4% |
+| 15:15 | ZAR | Low | Total Vehicle Sales (YoY) (Mar) |  |  | 11.40% |
+| 15:15 | ZAR | Low | Total Vehicle Sales (Mar) |  |  | 53.46K |
 | 15:30 | USD | High | Crude Oil Inventories |  | 2.000M | 6.926M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.366M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 0.846M |
