@@ -1,56 +1,31 @@
-## 01 April 2026 - Low Impact Forex News
+## 02 April 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Tankan All Small Industry CAPEX (Q1) | -8.1% |  | 0.1% |
-| 00:50 | JPY | Tankan Large Non-Manufacturers Diffusion Index (Q1) | 29 | 28 | 28 |
-| 00:50 | JPY | Tankan Small Manufacturers Diffusion Index (Q1) | 4 |  | 2 |
-| 00:50 | JPY | Tankan Small Manufacturing Index (Q1) | 7 | 7 | 6 |
-| 00:50 | JPY | Tankan Small Non-Manufacturers Diffusion Index (Q1) | 8 |  | 10 |
-| 00:50 | JPY | Tankan Small Non-Manufacturing Index (Q1) | 16 |  | 15 |
-| 01:00 | KRW | Exports (YoY) (Mar) | 48.3% | 44.9% | 28.7% |
-| 01:00 | KRW | Imports (YoY) (Mar) | 13.2% | 18.0% | 7.5% |
-| 01:00 | KRW | Trade Balance (Mar) | 25.74B | 21.20B | 15.38B |
-| 01:30 | KRW | S&P Global South Korea Manufacturing PMI (Mar) | 52.6 |  | 51.1 |
-| 01:30 | AUD | Building Approvals (YoY) (Feb) | 14.00% |  | -15.70% |
-| 01:30 | AUD | Private House Approvals (Feb) | 0.2% |  | 1.7% |
-| 01:30 | JPY | S&P Global Manufacturing PMI (Mar) | 51.6 | 51.6 | 51.4 |
-| 01:30 | SGD | URA Property Index (QoQ) (Q1) | 0.30% |  | 0.60% |
-| 01:30 | IDR | S&P Global Manufacturing PMI (Mar) | 50.1 |  | 53.8 |
-| 05:00 | IDR | Core Inflation (YoY) (Mar) | 2.52% | 2.63% | 2.63% |
-| 05:00 | IDR | Export Growth (YoY) (Feb) | 1.01% | 3.20% | 3.39% |
-| 05:00 | IDR | Import Growth (YoY) (Feb) | 10.85% | 11.20% | 18.21% |
-| 05:00 | IDR | Inflation (MoM) (Mar) | 0.41% | 0.46% | 0.68% |
-| 05:00 | IDR | Inflation (YoY) (Mar) | 3.48% | 3.60% | 4.76% |
-| 05:00 | IDR | Trade Balance (Feb) | 1.28B | 1.55B | 0.96B |
-| 06:30 | AUD | Commodity Prices (YoY) | 12.8% |  | 4.9% |
-| 07:30 | CHF | Retail Sales (YoY) (Feb) | 0.9% | 1.5% | -0.6% |
-| 09:00 | EUR | Italian Monthly Unemployment Rate (Feb) | 5.3% | 5.2% | 5.2% |
-| 09:30 | HKD | Retail Sales (YoY) (Feb) | 19.3% |  | 5.5% |
-| 10:00 | ZAR | Manufacturing PMI (Mar) | 49.0 |  | 47.4 |
-| 10:30 | GBP | BoE FPC Meeting Minutes |  |  |  |
-| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.57% |  | 6.43% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) | -10.4% |  | -10.5% |
-| 12:00 | USD | MBA Purchase Index | 159.4 |  | 163.6 |
-| 12:00 | USD | Mortgage Market Index | 278.3 |  | 310.7 |
-| 12:00 | USD | Mortgage Refinance Index | 946.4 |  | 1,145.0 |
-| 12:00 | EUR | Car Registration (MoM) (Mar) | 34.30% |  | 32.80% |
-| 12:00 | EUR | Car Registration (YoY) (Mar) | 11.70% |  | 7.50% |
-| 13:00 | ZAR | Total Vehicle Sales (YoY) (Mar) | 17.30% |  | 11.40% |
-| 13:00 | ZAR | Total Vehicle Sales (Mar) | 58.06K |  | 53.38K |
-| 13:30 | USD | Retail Sales (YoY) (Feb) | 3.71% |  | 3.19% |
-| 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Feb) | 0.4% |  | 0.2% |
-| 14:00 | BRL | S&P Global Manufacturing PMI (Mar) | 49.0 |  | 47.3 |
-| 14:30 | CAD | S&P Global Manufacturing PMI (Mar) | 50.0 |  | 51.0 |
-| 15:00 | USD | ISM Manufacturing New Orders Index (Mar) | 53.5 | 54.5 | 55.8 |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) | -0.219M |  | 0.366M |
-| 15:30 | USD | Crude Oil Imports | -0.209M |  | 0.846M |
-| 15:30 | USD | Distillate Fuel Production | 0.000M |  | 0.157M |
-| 15:30 | USD | EIA Weekly Distillates Stocks | -2.111M |  | 3.032M |
-| 15:30 | USD | Gasoline Production | -0.152M |  | 0.309M |
-| 15:30 | USD | Heating Oil Stockpiles | -0.809M |  | -0.241M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.8% |  | 1.5% |
-| 15:30 | USD | Gasoline Inventories | -0.586M | -1.900M | -2.593M |
-| 16:00 | MXN | S&P Global Manufacturing PMI (Mar) | 48.90 |  | 47.10 |
-| 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
-| 18:30 | BRL | Foreign Exchange Flows | 1.596B |  | -0.119B |
+| 00:00 | KRW | CPI (MoM) (Mar) | 0.3% | 0.6% | 0.3% |
+| 00:00 | KRW | CPI (YoY) (Mar) | 2.2% | 2.4% | 2.0% |
+| 34 min | JPY | Foreign Bonds Buying |  |  | -635.3B |
+| 34 min | JPY | Foreign Investments in Japanese Stocks |  |  | -2,509.7B |
+| 34 min | JPY | Monetary Base (YoY) (Mar) |  | -10.8% | -10.6% |
+| 01:30 | AUD | Exports (MoM) (Feb) |  |  | -0.9% |
+| 01:30 | AUD | Imports (MoM) (Feb) |  |  | 0.8% |
+| 06:00 | INR | HSBC India Manufacturing PMI (Mar) |  | 53.8 | 56.9 |
+| 07:30 | CHF | CPI (YoY) (Mar) |  | 0.5% | 0.1% |
+| 07:45 | EUR | French Government Budget Balance (Feb) |  |  | -9.7B |
+| 10:00 | EUR | Italian Retail Sales (YoY) (Feb) |  |  | 2.3% |
+| 10:00 | EUR | Italian Retail Sales (MoM) (Feb) |  | 0.3% | 0.6% |
+| 12:30 | USD | Challenger Job Cuts (YoY) |  |  | -71.9% |
+| 12:30 | USD | Challenger Job Cuts (Mar) |  |  | 48.307K |
+| 12:45 | EUR | Italian Car Registration (YoY) (Mar) |  |  | 14.0% |
+| 13:00 | BRL | Industrial Production (MoM) (Feb) |  | 0.7% | 1.8% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 210.50K |
+| 13:30 | CAD | Exports (Feb) |  |  | 62.48B |
+| 13:30 | CAD | Imports (Feb) |  |  | 66.13B |
+| 14:00 | SGD | S&P Global Manufacturing PMI (Mar) |  |  | 50.6 |
+| 15:30 | USD | Natural Gas Storage |  | 38B | -54B |
+| 16:00 | USD | Fed Logan Speaks |  |  |  |
+| 16:30 | USD | 4-Week Bill Auction |  |  | 3.620% |
+| 16:30 | USD | 8-Week Bill Auction |  |  | 3.630% |
+| 17:00 | EUR | French Car Registration (YoY) (Mar) |  |  | -14.7% |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.036T |
+| 22:00 | KRW | FX Reserves - USD (Mar) |  |  | 427.62B |

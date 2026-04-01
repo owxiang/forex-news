@@ -1,25 +1,21 @@
-## 01 April 2026 - Moderate Impact Forex News
+## 02 April 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Tankan All Big Industry CAPEX (Q1) | 3.3% |  | 12.6% |
-| 00:50 | JPY | Tankan Big Manufacturing Outlook Index (Q1) | 14 | 13 | 15 |
-| 00:50 | JPY | Tankan Large Manufacturers Index (Q1) | 17 | 16 | 16 |
-| 00:50 | JPY | Tankan Large Non-Manufacturers Index (Q1) | 36 | 33 | 34 |
-| 01:30 | AUD | Building Approvals (MoM) (Feb) | 29.7% | 5.8% | -7.2% |
-| 02:45 | CNY | RatingDog Manufacturing PMI (MoM) (Mar) | 50.8 | 51.6 | 52.1 |
-| 08:15 | EUR | HCOB Spain Manufacturing PMI (Mar) | 48.7 | 50.5 | 50.0 |
-| 08:30 | CHF | procure.ch Manufacturing PMI (Mar) | 53.3 | 47.2 | 47.4 |
-| 08:45 | EUR | HCOB Italy Manufacturing PMI (Mar) | 51.3 | 50.9 | 50.6 |
-| 08:50 | EUR | HCOB France Manufacturing PMI (Mar) | 50.0 | 50.2 | 50.2 |
-| 08:55 | EUR | HCOB Germany Manufacturing PMI (Mar) | 52.2 | 51.7 | 50.9 |
-| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Mar) | 51.6 | 51.4 | 50.8 |
-| 09:30 | GBP | S&P Global Manufacturing PMI (Mar) | 51.0 | 51.4 | 51.7 |
-| 10:00 | EUR | Unemployment Rate (Feb) | 6.2% | 6.1% | 6.1% |
-| 13:30 | USD | Retail Control (MoM) (Feb) | 0.5% | 0.3% | 0.2% |
-| 14:10 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 15:00 | USD | Business Inventories (MoM) (Jan) | -0.1% | 0.0% | 0.0% |
-| 15:00 | USD | ISM Manufacturing Employment (Mar) | 48.7 | 49.0 | 48.8 |
-| 15:00 | USD | Retail Inventories Ex Auto (Jan) | 0.3% |  | 0.4% |
-| 15:30 | USD | Cushing Crude Oil Inventories | 0.520M |  | 3.421M |
-| 16:30 | USD | Atlanta Fed GDPNow (Q1) | 1.9% | 2.0% | 2.0% |
+| 01:30 | AUD | Trade Balance (Feb) |  | 2.810B | 2.631B |
+| 04:35 | JPY | 10-Year JGB Auction |  |  | 2.122% |
+| 07:30 | CHF | CPI (MoM) (Mar) |  | 0.5% | 0.6% |
+| 09:00 | EUR | ECB Economic Bulletin |  |  |  |
+| 10:00 | BRL | IPC-Fipe Inflation Index (MoM) (Mar) |  |  | 0.25% |
+| 13:00 | BRL | Industrial Production (YoY) (Feb) |  | -1.0% | 0.2% |
+| 13:30 | USD | Continuing Jobless Claims |  | 1,840K | 1,819K |
+| 13:30 | USD | Exports (Feb) |  |  | 302.10B |
+| 13:30 | USD | Goods Trade Balance (Feb) |  |  | -80.80B |
+| 13:30 | USD | Imports (Feb) |  |  | 356.60B |
+| 13:30 | USD | Trade Balance (Feb) |  | -60.50B | -54.50B |
+| 13:30 | CAD | Trade Balance (Feb) |  | -2.50B | -3.65B |
+| 16:30 | USD | Atlanta Fed GDPNow (Q1) |  | 1.9% | 1.9% |
+| 17:45 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 409 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 543 |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 6,657B |
