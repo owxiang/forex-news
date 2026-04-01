@@ -16,8 +16,8 @@
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Mar) | 51.6 | 51.4 | 50.8 |
 | 09:30 | GBP | S&P Global Manufacturing PMI (Mar) | 51.0 | 51.4 | 51.7 |
 | 10:00 | EUR | Unemployment Rate (Feb) | 6.2% | 6.1% | 6.1% |
-| 1 min | USD | Retail Control (MoM) (Feb) |  | 0.3% | 0.3% |
-| 41 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 13:30 | USD | Retail Control (MoM) (Feb) | 0.5% | 0.3% | 0.2% |
+| 14:10 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 15:00 | USD | Business Inventories (MoM) (Jan) |  | 0.0% | 0.1% |
 | 15:00 | USD | ISM Manufacturing Employment (Mar) |  |  | 48.8 |
 | 15:00 | USD | Retail Inventories Ex Auto (Jan) |  |  | 0.4% |

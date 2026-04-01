@@ -36,13 +36,13 @@
 | 12:00 | USD | Mortgage Market Index | 278.3 |  | 310.7 |
 | 12:00 | USD | Mortgage Refinance Index | 946.4 |  | 1,145.0 |
 | 12:00 | EUR | Car Registration (MoM) (Mar) |  |  | 32.80% |
-| 1 min | USD | Retail Sales (YoY) (Feb) |  |  | 3.16% |
-| 1 min | USD | Retail Sales Ex Gas/Autos (MoM) (Feb) |  |  | 0.3% |
-| 31 min | BRL | S&P Global Manufacturing PMI (Mar) |  |  | 47.3 |
-| 14:30 | CAD | S&P Global Manufacturing PMI (Mar) |  |  | 51.0 |
+| 13:00 | ZAR | Total Vehicle Sales (YoY) (Mar) | 17.30% |  | 11.40% |
+| 13:00 | ZAR | Total Vehicle Sales (Mar) | 58.06K |  | 53.46K |
+| 13:30 | USD | Retail Sales (YoY) (Feb) | 3.71% |  | 3.19% |
+| 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Feb) | 0.4% |  | 0.2% |
+| 14:00 | BRL | S&P Global Manufacturing PMI (Mar) | 49.0 |  | 47.3 |
+| 14:30 | CAD | S&P Global Manufacturing PMI (Mar) | 50.0 |  | 51.0 |
 | 15:00 | USD | ISM Manufacturing New Orders Index (Mar) |  |  | 55.8 |
-| 15:15 | ZAR | Total Vehicle Sales (YoY) (Mar) |  |  | 11.40% |
-| 15:15 | ZAR | Total Vehicle Sales (Mar) |  |  | 53.46K |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.366M |
 | 15:30 | USD | Crude Oil Imports |  |  | 0.846M |
 | 15:30 | USD | Distillate Fuel Production |  |  | 0.157M |
