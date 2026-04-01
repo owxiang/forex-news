@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Tankan All Big Industry CAPEX (Q1) |  |  | 12.6% |
-| 00:50 | JPY | Tankan Big Manufacturing Outlook Index (Q1) |  | 13 | 15 |
-| 00:50 | JPY | Tankan Large Manufacturers Index (Q1) |  | 16 | 15 |
-| 00:50 | JPY | Tankan Large Non-Manufacturers Index (Q1) |  | 33 | 34 |
-| 01:30 | AUD | Building Approvals (MoM) (Feb) |  | 6.0% | -7.2% |
+| 00:50 | JPY | Tankan All Big Industry CAPEX (Q1) | 3.3% |  | 12.6% |
+| 00:50 | JPY | Tankan Big Manufacturing Outlook Index (Q1) | 14 | 13 | 15 |
+| 00:50 | JPY | Tankan Large Manufacturers Index (Q1) | 17 | 16 | 15 |
+| 00:50 | JPY | Tankan Large Non-Manufacturers Index (Q1) | 36 | 33 | 34 |
+| 01:30 | AUD | Building Approvals (MoM) (Feb) | 29.7% | 5.8% | -7.2% |
 | 02:45 | CNY | RatingDog Manufacturing PMI (MoM) (Mar) |  | 51.6 | 52.1 |
 | 08:15 | EUR | HCOB Spain Manufacturing PMI (Mar) |  | 50.5 | 50.0 |
 | 08:30 | CHF | procure.ch Manufacturing PMI (Mar) |  | 47.2 | 47.4 |

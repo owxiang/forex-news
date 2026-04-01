@@ -2,21 +2,21 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Tankan All Small Industry CAPEX (Q1) |  |  | 0.1% |
-| 00:50 | JPY | Tankan Large Non-Manufacturers Diffusion Index (Q1) |  | 28 | 28 |
-| 00:50 | JPY | Tankan Small Manufacturers Diffusion Index (Q1) |  |  | 2 |
-| 00:50 | JPY | Tankan Small Manufacturing Index (Q1) |  | 7 | 6 |
-| 00:50 | JPY | Tankan Small Non-Manufacturers Diffusion Index (Q1) |  |  | 10 |
-| 00:50 | JPY | Tankan Small Non-Manufacturing Index (Q1) |  |  | 15 |
-| 01:00 | KRW | Exports (YoY) (Mar) |  | 44.9% | 28.7% |
-| 01:00 | KRW | Imports (YoY) (Mar) |  | 18.0% | 7.5% |
-| 01:00 | KRW | Trade Balance (Mar) |  | 21.20B | 15.38B |
-| 01:30 | KRW | S&P Global South Korea Manufacturing PMI (Mar) |  |  | 51.1 |
-| 01:30 | AUD | Building Approvals (YoY) (Feb) |  |  | -15.70% |
-| 01:30 | AUD | Private House Approvals (Feb) |  |  | 1.1% |
-| 01:30 | JPY | S&P Global Manufacturing PMI (Mar) |  | 51.4 | 53.0 |
-| 01:30 | SGD | URA Property Index (QoQ) (Q1) |  |  | 0.60% |
-| 01:30 | IDR | S&P Global Manufacturing PMI (Mar) |  |  | 53.8 |
+| 00:50 | JPY | Tankan All Small Industry CAPEX (Q1) | -8.1% |  | 0.1% |
+| 00:50 | JPY | Tankan Large Non-Manufacturers Diffusion Index (Q1) | 29 | 28 | 28 |
+| 00:50 | JPY | Tankan Small Manufacturers Diffusion Index (Q1) | 4 |  | 2 |
+| 00:50 | JPY | Tankan Small Manufacturing Index (Q1) | 7 | 7 | 6 |
+| 00:50 | JPY | Tankan Small Non-Manufacturers Diffusion Index (Q1) | 8 |  | 10 |
+| 00:50 | JPY | Tankan Small Non-Manufacturing Index (Q1) | 16 |  | 15 |
+| 01:00 | KRW | Exports (YoY) (Mar) | 48.3% | 44.9% | 28.7% |
+| 01:00 | KRW | Imports (YoY) (Mar) | 13.2% | 18.0% | 7.5% |
+| 01:00 | KRW | Trade Balance (Mar) | 25.74B | 21.20B | 15.38B |
+| 01:30 | KRW | S&P Global South Korea Manufacturing PMI (Mar) | 52.6 |  | 51.1 |
+| 01:30 | AUD | Building Approvals (YoY) (Feb) | 10.80% |  | 8.80% |
+| 01:30 | AUD | Private House Approvals (Feb) | 0.2% |  | 1.7% |
+| 01:30 | JPY | S&P Global Manufacturing PMI (Mar) | 51.6 | 51.6 | 51.4 |
+| 01:30 | SGD | URA Property Index (QoQ) (Q1) | 0.30% |  | 0.60% |
+| 01:30 | IDR | S&P Global Manufacturing PMI (Mar) | 50.1 |  | 53.8 |
 | 05:00 | IDR | Core Inflation (YoY) (Mar) |  |  | 2.63% |
 | 05:00 | IDR | Export Growth (YoY) (Feb) |  | 1.00% | 3.39% |
 | 05:00 | IDR | Import Growth (YoY) (Feb) |  | 8.93% | 18.21% |

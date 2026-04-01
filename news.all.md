@@ -2,26 +2,26 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:50 | JPY | Moderate | Tankan All Big Industry CAPEX (Q1) |  |  | 12.6% |
-| 00:50 | JPY | Low | Tankan All Small Industry CAPEX (Q1) |  |  | 0.1% |
-| 00:50 | JPY | Moderate | Tankan Big Manufacturing Outlook Index (Q1) |  | 13 | 15 |
-| 00:50 | JPY | Moderate | Tankan Large Manufacturers Index (Q1) |  | 16 | 15 |
-| 00:50 | JPY | Low | Tankan Large Non-Manufacturers Diffusion Index (Q1) |  | 28 | 28 |
-| 00:50 | JPY | Moderate | Tankan Large Non-Manufacturers Index (Q1) |  | 33 | 34 |
-| 00:50 | JPY | Low | Tankan Small Manufacturers Diffusion Index (Q1) |  |  | 2 |
-| 00:50 | JPY | Low | Tankan Small Manufacturing Index (Q1) |  | 7 | 6 |
-| 00:50 | JPY | Low | Tankan Small Non-Manufacturers Diffusion Index (Q1) |  |  | 10 |
-| 00:50 | JPY | Low | Tankan Small Non-Manufacturing Index (Q1) |  |  | 15 |
-| 01:00 | KRW | Low | Exports (YoY) (Mar) |  | 44.9% | 28.7% |
-| 01:00 | KRW | Low | Imports (YoY) (Mar) |  | 18.0% | 7.5% |
-| 01:00 | KRW | Low | Trade Balance (Mar) |  | 21.20B | 15.38B |
-| 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Mar) |  |  | 51.1 |
-| 01:30 | AUD | Low | Building Approvals (YoY) (Feb) |  |  | -15.70% |
-| 01:30 | AUD | Moderate | Building Approvals (MoM) (Feb) |  | 6.0% | -7.2% |
-| 01:30 | AUD | Low | Private House Approvals (Feb) |  |  | 1.1% |
-| 01:30 | JPY | Low | S&P Global Manufacturing PMI (Mar) |  | 51.4 | 53.0 |
-| 01:30 | SGD | Low | URA Property Index (QoQ) (Q1) |  |  | 0.60% |
-| 01:30 | IDR | Low | S&P Global Manufacturing PMI (Mar) |  |  | 53.8 |
+| 00:50 | JPY | Moderate | Tankan All Big Industry CAPEX (Q1) | 3.3% |  | 12.6% |
+| 00:50 | JPY | Low | Tankan All Small Industry CAPEX (Q1) | -8.1% |  | 0.1% |
+| 00:50 | JPY | Moderate | Tankan Big Manufacturing Outlook Index (Q1) | 14 | 13 | 15 |
+| 00:50 | JPY | Moderate | Tankan Large Manufacturers Index (Q1) | 17 | 16 | 15 |
+| 00:50 | JPY | Low | Tankan Large Non-Manufacturers Diffusion Index (Q1) | 29 | 28 | 28 |
+| 00:50 | JPY | Moderate | Tankan Large Non-Manufacturers Index (Q1) | 36 | 33 | 34 |
+| 00:50 | JPY | Low | Tankan Small Manufacturers Diffusion Index (Q1) | 4 |  | 2 |
+| 00:50 | JPY | Low | Tankan Small Manufacturing Index (Q1) | 7 | 7 | 6 |
+| 00:50 | JPY | Low | Tankan Small Non-Manufacturers Diffusion Index (Q1) | 8 |  | 10 |
+| 00:50 | JPY | Low | Tankan Small Non-Manufacturing Index (Q1) | 16 |  | 15 |
+| 01:00 | KRW | Low | Exports (YoY) (Mar) | 48.3% | 44.9% | 28.7% |
+| 01:00 | KRW | Low | Imports (YoY) (Mar) | 13.2% | 18.0% | 7.5% |
+| 01:00 | KRW | Low | Trade Balance (Mar) | 25.74B | 21.20B | 15.38B |
+| 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Mar) | 52.6 |  | 51.1 |
+| 01:30 | AUD | Low | Building Approvals (YoY) (Feb) | 10.80% |  | 8.80% |
+| 01:30 | AUD | Moderate | Building Approvals (MoM) (Feb) | 29.7% | 5.8% | -7.2% |
+| 01:30 | AUD | Low | Private House Approvals (Feb) | 0.2% |  | 1.7% |
+| 01:30 | JPY | Low | S&P Global Manufacturing PMI (Mar) | 51.6 | 51.6 | 51.4 |
+| 01:30 | SGD | Low | URA Property Index (QoQ) (Q1) | 0.30% |  | 0.60% |
+| 01:30 | IDR | Low | S&P Global Manufacturing PMI (Mar) | 50.1 |  | 53.8 |
 | 02:45 | CNY | Moderate | RatingDog Manufacturing PMI (MoM) (Mar) |  | 51.6 | 52.1 |
 | 05:00 | IDR | Low | Core Inflation (YoY) (Mar) |  |  | 2.63% |
 | 05:00 | IDR | Low | Export Growth (YoY) (Feb) |  | 1.00% | 3.39% |
