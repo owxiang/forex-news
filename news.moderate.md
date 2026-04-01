@@ -7,7 +7,7 @@
 | 00:50 | JPY | Tankan Large Manufacturers Index (Q1) | 17 | 16 | 15 |
 | 00:50 | JPY | Tankan Large Non-Manufacturers Index (Q1) | 36 | 33 | 34 |
 | 01:30 | AUD | Building Approvals (MoM) (Feb) | 29.7% | 5.8% | -7.2% |
-| 02:45 | CNY | RatingDog Manufacturing PMI (MoM) (Mar) |  | 51.6 | 52.1 |
+| 5 min | CNY | RatingDog Manufacturing PMI (MoM) (Mar) |  | 51.6 | 52.1 |
 | 08:15 | EUR | HCOB Spain Manufacturing PMI (Mar) |  | 50.5 | 50.0 |
 | 08:30 | CHF | procure.ch Manufacturing PMI (Mar) |  | 47.2 | 47.4 |
 | 08:45 | EUR | HCOB Italy Manufacturing PMI (Mar) |  | 50.9 | 50.6 |

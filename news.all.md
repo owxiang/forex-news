@@ -22,7 +22,7 @@
 | 01:30 | JPY | Low | S&P Global Manufacturing PMI (Mar) | 51.6 | 51.6 | 51.4 |
 | 01:30 | SGD | Low | URA Property Index (QoQ) (Q1) | 0.30% |  | 0.60% |
 | 01:30 | IDR | Low | S&P Global Manufacturing PMI (Mar) | 50.1 |  | 53.8 |
-| 02:45 | CNY | Moderate | RatingDog Manufacturing PMI (MoM) (Mar) |  | 51.6 | 52.1 |
+| 5 min | CNY | Moderate | RatingDog Manufacturing PMI (MoM) (Mar) |  | 51.6 | 52.1 |
 | 05:00 | IDR | Low | Core Inflation (YoY) (Mar) |  |  | 2.63% |
 | 05:00 | IDR | Low | Export Growth (YoY) (Feb) |  | 1.00% | 3.39% |
 | 05:00 | IDR | Low | Import Growth (YoY) (Feb) |  | 8.93% | 18.21% |
