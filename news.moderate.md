@@ -18,8 +18,8 @@
 | 10:00 | EUR | Unemployment Rate (Feb) | 6.2% | 6.1% | 6.1% |
 | 13:30 | USD | Retail Control (MoM) (Feb) | 0.5% | 0.3% | 0.2% |
 | 14:10 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 15:00 | USD | Business Inventories (MoM) (Jan) |  | 0.0% | 0.1% |
-| 15:00 | USD | ISM Manufacturing Employment (Mar) |  |  | 48.8 |
-| 15:00 | USD | Retail Inventories Ex Auto (Jan) |  |  | 0.4% |
-| 15:30 | USD | Cushing Crude Oil Inventories |  |  | 3.421M |
-| 16:30 | USD | Atlanta Fed GDPNow (Q1) |  | 2.0% | 2.0% |
+| 15:00 | USD | Business Inventories (MoM) (Jan) | -0.1% | 0.0% | 0.0% |
+| 15:00 | USD | ISM Manufacturing Employment (Mar) | 48.7 | 49.0 | 48.8 |
+| 15:00 | USD | Retail Inventories Ex Auto (Jan) | 0.3% |  | 0.4% |
+| 15:30 | USD | Cushing Crude Oil Inventories | 0.520M |  | 3.421M |
+| 52 min | USD | Atlanta Fed GDPNow (Q1) |  | 2.0% | 2.0% |

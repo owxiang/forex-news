@@ -43,15 +43,15 @@
 | 10:00 | EUR | Moderate | Unemployment Rate (Feb) | 6.2% | 6.1% | 6.1% |
 | 10:00 | ZAR | Low | Manufacturing PMI (Mar) | 49.0 |  | 47.4 |
 | 10:30 | GBP | Low | BoE FPC Meeting Minutes |  |  |  |
-| 10:45 | EUR | Low | Car Registration (YoY) (Mar) | 11.50% |  | 7.50% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.57% |  | 6.43% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) | -10.4% |  | -10.5% |
 | 12:00 | USD | Low | MBA Purchase Index | 159.4 |  | 163.6 |
 | 12:00 | USD | Low | Mortgage Market Index | 278.3 |  | 310.7 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 946.4 |  | 1,145.0 |
-| 12:00 | EUR | Low | Car Registration (MoM) (Mar) |  |  | 32.80% |
+| 12:00 | EUR | Low | Car Registration (MoM) (Mar) | 34.30% |  | 32.80% |
+| 12:00 | EUR | Low | Car Registration (YoY) (Mar) | 11.70% |  | 7.50% |
 | 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (Mar) | 17.30% |  | 11.40% |
-| 13:00 | ZAR | Low | Total Vehicle Sales (Mar) | 58.06K |  | 53.46K |
+| 13:00 | ZAR | Low | Total Vehicle Sales (Mar) | 58.06K |  | 53.38K |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Mar) | 62K | 41K | 66K |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Feb) | 0.5% | 0.3% | 0.0% |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Feb) | 0.5% | 0.3% | 0.2% |
@@ -61,24 +61,24 @@
 | 14:00 | BRL | Low | S&P Global Manufacturing PMI (Mar) | 49.0 |  | 47.3 |
 | 14:10 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 14:30 | CAD | Low | S&P Global Manufacturing PMI (Mar) | 50.0 |  | 51.0 |
-| 14:45 | USD | High | S&P Global Manufacturing PMI (Mar) |  | 52.4 | 51.6 |
-| 15:00 | USD | Moderate | Business Inventories (MoM) (Jan) |  | 0.0% | 0.1% |
-| 15:00 | USD | Moderate | ISM Manufacturing Employment (Mar) |  |  | 48.8 |
-| 15:00 | USD | Low | ISM Manufacturing New Orders Index (Mar) |  |  | 55.8 |
-| 15:00 | USD | High | ISM Manufacturing PMI (Mar) |  | 52.3 | 52.4 |
-| 15:00 | USD | High | ISM Manufacturing Prices (Mar) |  | 74.0 | 70.5 |
-| 15:00 | USD | Moderate | Retail Inventories Ex Auto (Jan) |  |  | 0.4% |
-| 15:30 | USD | High | Crude Oil Inventories |  | 2.000M | 6.926M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.366M |
-| 15:30 | USD | Low | Crude Oil Imports |  |  | 0.846M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 3.421M |
-| 15:30 | USD | Low | Distillate Fuel Production |  |  | 0.157M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  |  | 3.032M |
-| 15:30 | USD | Low | Gasoline Production |  |  | 0.309M |
-| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | -0.241M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.5% |
-| 15:30 | USD | Low | Gasoline Inventories |  |  | -2.593M |
-| 16:00 | MXN | Low | S&P Global Manufacturing PMI (Mar) |  |  | 47.10 |
-| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 2.0% | 2.0% |
+| 14:45 | USD | High | S&P Global Manufacturing PMI (Mar) | 52.3 | 52.4 | 51.6 |
+| 15:00 | USD | Moderate | Business Inventories (MoM) (Jan) | -0.1% | 0.0% | 0.0% |
+| 15:00 | USD | Moderate | ISM Manufacturing Employment (Mar) | 48.7 | 49.0 | 48.8 |
+| 15:00 | USD | Low | ISM Manufacturing New Orders Index (Mar) | 53.5 | 54.5 | 55.8 |
+| 15:00 | USD | High | ISM Manufacturing PMI (Mar) | 52.7 | 52.3 | 52.4 |
+| 15:00 | USD | High | ISM Manufacturing Prices (Mar) | 78.3 | 74.0 | 70.5 |
+| 15:00 | USD | Moderate | Retail Inventories Ex Auto (Jan) | 0.3% |  | 0.4% |
+| 15:30 | USD | High | Crude Oil Inventories | 5.451M | 2.000M | 6.926M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | -0.219M |  | 0.366M |
+| 15:30 | USD | Low | Crude Oil Imports | -0.209M |  | 0.846M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | 0.520M |  | 3.421M |
+| 15:30 | USD | Low | Distillate Fuel Production | 0.000M |  | 0.157M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks | -2.111M |  | 3.032M |
+| 15:30 | USD | Low | Gasoline Production | -0.152M |  | 0.309M |
+| 15:30 | USD | Low | Heating Oil Stockpiles | -0.809M |  | -0.241M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -0.8% |  | 1.5% |
+| 15:30 | USD | Low | Gasoline Inventories | -0.586M |  | -2.593M |
+| 22 min | MXN | Low | S&P Global Manufacturing PMI (Mar) |  |  | 47.10 |
+| 52 min | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 2.0% | 2.0% |
 | 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.119B |
