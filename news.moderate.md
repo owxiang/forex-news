@@ -18,4 +18,4 @@
 | 17:45 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 411 |  | 409 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count | 548 |  | 543 |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 6,657B |
+| 21:30 | USD | Fed's Balance Sheet | 6,675B |  | 6,657B |
