@@ -44,9 +44,8 @@
 | 16:30 | USD | Low | 8-Week Bill Auction | 3.620% |  | 3.630% |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 1.6% | 1.9% | 1.9% |
 | 17:45 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 409 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 543 |
-| 19:00 | EUR | Low | French Car Registration (YoY) (Mar) |  |  | -14.7% |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 411 |  | 409 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 548 |  | 543 |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,657B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.036T |
 | 22:00 | KRW | Low | FX Reserves - USD (Mar) |  |  | 427.62B |

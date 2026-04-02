@@ -16,6 +16,6 @@
 | 13:30 | CAD | Trade Balance (Feb) | -5.74B | -2.50B | -4.18B |
 | 17:00 | USD | Atlanta Fed GDPNow (Q1) | 1.6% | 1.9% | 1.9% |
 | 17:45 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 409 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 543 |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 411 |  | 409 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count | 548 |  | 543 |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,657B |

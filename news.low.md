@@ -28,6 +28,5 @@
 | 16:00 | USD | Fed Logan Speaks |  |  |  |
 | 16:30 | USD | 4-Week Bill Auction | 3.620% |  | 3.620% |
 | 16:30 | USD | 8-Week Bill Auction | 3.620% |  | 3.630% |
-| 19:00 | EUR | French Car Registration (YoY) (Mar) |  |  | -14.7% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.036T |
 | 22:00 | KRW | FX Reserves - USD (Mar) |  |  | 427.62B |
