@@ -11,7 +11,7 @@
 | 01:30 | AUD | Low | Imports (MoM) (Feb) | -3.2% |  | 1.0% |
 | 01:30 | AUD | Moderate | Trade Balance (Feb) | 5.686B | 2.810B | 2.258B |
 | 02:00 | USD | High | U.S. President Trump Speaks |  |  |  |
-| 04:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 2.122% |
+| 24 min | JPY | Moderate | 10-Year JGB Auction |  |  | 2.122% |
 | 06:00 | INR | Low | HSBC India Manufacturing PMI (Mar) |  | 53.8 | 56.9 |
 | 07:30 | CHF | Moderate | CPI (MoM) (Mar) |  | 0.5% | 0.6% |
 | 07:30 | CHF | Low | CPI (YoY) (Mar) |  | 0.5% | 0.1% |
