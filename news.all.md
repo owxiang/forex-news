@@ -36,7 +36,7 @@
 | 13:30 | CAD | Low | Imports (Feb) | 72.05B |  | 66.50B |
 | 13:30 | CAD | Moderate | Trade Balance (Feb) | -5.74B | -2.50B | -4.18B |
 | 14:00 | SGD | Low | S&P Global Manufacturing PMI (Mar) | 50.5 |  | 50.6 |
-| 15:30 | USD | Low | Natural Gas Storage |  | 38B | -54B |
+| 15:30 | USD | Low | Natural Gas Storage | 36B | 38B | -54B |
 | 16:00 | USD | Low | Fed Logan Speaks |  |  |  |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.620% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.630% |

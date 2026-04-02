@@ -22,7 +22,7 @@
 | 13:30 | CAD | Exports (Feb) | 66.31B |  | 62.32B |
 | 13:30 | CAD | Imports (Feb) | 72.05B |  | 66.50B |
 | 14:00 | SGD | S&P Global Manufacturing PMI (Mar) | 50.5 |  | 50.6 |
-| 15:30 | USD | Natural Gas Storage |  | 38B | -54B |
+| 15:30 | USD | Natural Gas Storage | 36B | 38B | -54B |
 | 16:00 | USD | Fed Logan Speaks |  |  |  |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.620% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 3.630% |
