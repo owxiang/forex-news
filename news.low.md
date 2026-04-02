@@ -15,10 +15,9 @@
 | 09:50 | EUR | French 10-Year OAT Auction | 3.73% |  | 3.46% |
 | 10:00 | EUR | Italian Retail Sales (MoM) (Feb) | 0.0% | 0.3% | 0.6% |
 | 10:00 | EUR | Italian Retail Sales (YoY) (Feb) | 1.6% |  | 2.5% |
-| 12:30 | USD | Challenger Job Cuts (YoY) |  |  | -71.9% |
-| 12:30 | USD | Challenger Job Cuts (Mar) |  |  | 48.307K |
-| 12:45 | EUR | Italian Car Registration (YoY) (Mar) |  |  | 14.0% |
-| 13:00 | BRL | Industrial Production (MoM) (Feb) |  | 0.7% | 1.8% |
+| 9 min | USD | Challenger Job Cuts (YoY) |  |  | -71.9% |
+| 9 min | USD | Challenger Job Cuts (Mar) |  |  | 48.307K |
+| 39 min | BRL | Industrial Production (MoM) (Feb) |  | 0.7% | 1.8% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 210.50K |
 | 13:30 | CAD | Exports (Feb) |  |  | 62.48B |
 | 13:30 | CAD | Imports (Feb) |  |  | 66.13B |
