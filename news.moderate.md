@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:30 | AUD | Trade Balance (Feb) | 5.686B | 2.810B | 2.258B |
-| 24 min | JPY | 10-Year JGB Auction |  |  | 2.122% |
+| 04:35 | JPY | 10-Year JGB Auction | 2.350% |  | 2.122% |
 | 07:30 | CHF | CPI (MoM) (Mar) |  | 0.5% | 0.6% |
 | 09:00 | EUR | ECB Economic Bulletin |  |  |  |
 | 10:00 | BRL | IPC-Fipe Inflation Index (MoM) (Mar) |  |  | 0.25% |
