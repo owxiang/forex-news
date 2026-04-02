@@ -17,10 +17,10 @@
 | 07:30 | CHF | Moderate | CPI (MoM) (Mar) | 0.2% | 0.5% | 0.6% |
 | 07:45 | EUR | Low | French Government Budget Balance (Feb) | -32.1B |  | -9.7B |
 | 09:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
-| 21 min | EUR | Low | French 10-Year OAT Auction |  |  | 3.46% |
-| 31 min | EUR | Low | Italian Retail Sales (MoM) (Feb) |  | 0.3% | 0.6% |
-| 31 min | EUR | Low | Italian Retail Sales (YoY) (Feb) |  |  | 2.3% |
-| 31 min | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Mar) | 0.59% |  | 0.25% |
+| 09:50 | EUR | Low | French 10-Year OAT Auction | 3.73% |  | 3.46% |
+| 10:00 | EUR | Low | Italian Retail Sales (MoM) (Feb) | 0.0% | 0.3% | 0.6% |
+| 10:00 | EUR | Low | Italian Retail Sales (YoY) (Feb) | 1.6% |  | 2.5% |
+| 10:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Mar) | 0.59% |  | 0.25% |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | -71.9% |
 | 12:30 | USD | Low | Challenger Job Cuts (Mar) |  |  | 48.307K |
 | 12:45 | EUR | Low | Italian Car Registration (YoY) (Mar) |  |  | 14.0% |
