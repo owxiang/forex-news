@@ -18,10 +18,10 @@
 | 12:30 | USD | Challenger Job Cuts (YoY) | -78.0% |  | -71.9% |
 | 12:30 | USD | Challenger Job Cuts (Mar) | 60.620K |  | 48.307K |
 | 13:00 | BRL | Industrial Production (MoM) (Feb) | 0.9% | 0.7% | 2.1% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 210.50K |
-| 13:30 | CAD | Exports (Feb) |  |  | 62.48B |
-| 13:30 | CAD | Imports (Feb) |  |  | 66.13B |
-| 14:00 | SGD | S&P Global Manufacturing PMI (Mar) |  |  | 50.6 |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 207.75K |  | 210.75K |
+| 13:30 | CAD | Exports (Feb) | 66.31B |  | 62.32B |
+| 13:30 | CAD | Imports (Feb) | 72.05B |  | 66.50B |
+| 14:00 | SGD | S&P Global Manufacturing PMI (Mar) | 50.5 |  | 50.6 |
 | 15:30 | USD | Natural Gas Storage |  | 38B | -54B |
 | 16:00 | USD | Fed Logan Speaks |  |  |  |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.620% |

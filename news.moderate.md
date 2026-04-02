@@ -8,12 +8,12 @@
 | 09:00 | EUR | ECB Economic Bulletin |  |  |  |
 | 10:00 | BRL | IPC-Fipe Inflation Index (MoM) (Mar) | 0.59% |  | 0.25% |
 | 13:00 | BRL | Industrial Production (YoY) (Feb) | -0.7% | -1.0% | 0.2% |
-| 13:30 | USD | Continuing Jobless Claims |  | 1,840K | 1,819K |
-| 13:30 | USD | Exports (Feb) |  |  | 302.10B |
-| 13:30 | USD | Goods Trade Balance (Feb) |  |  | -80.80B |
-| 13:30 | USD | Imports (Feb) |  |  | 356.60B |
-| 13:30 | USD | Trade Balance (Feb) |  | -60.50B | -54.50B |
-| 13:30 | CAD | Trade Balance (Feb) |  | -2.50B | -3.65B |
+| 13:30 | USD | Continuing Jobless Claims | 1,841K | 1,840K | 1,816K |
+| 13:30 | USD | Exports (Feb) | 314.80B |  | 302.20B |
+| 13:30 | USD | Goods Trade Balance (Feb) | -84.60B |  | -81.80B |
+| 13:30 | USD | Imports (Feb) | 372.10B |  | 356.90B |
+| 13:30 | USD | Trade Balance (Feb) | -57.30B | -60.50B | -54.70B |
+| 13:30 | CAD | Trade Balance (Feb) | -5.74B | -2.50B | -4.18B |
 | 16:30 | USD | Atlanta Fed GDPNow (Q1) |  | 1.9% | 1.9% |
 | 17:45 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 409 |

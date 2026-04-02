@@ -25,17 +25,17 @@
 | 12:30 | USD | Low | Challenger Job Cuts (Mar) | 60.620K |  | 48.307K |
 | 13:00 | BRL | Moderate | Industrial Production (YoY) (Feb) | -0.7% | -1.0% | 0.2% |
 | 13:00 | BRL | Low | Industrial Production (MoM) (Feb) | 0.9% | 0.7% | 2.1% |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,840K | 1,819K |
-| 13:30 | USD | Moderate | Exports (Feb) |  |  | 302.10B |
-| 13:30 | USD | Moderate | Goods Trade Balance (Feb) |  |  | -80.80B |
-| 13:30 | USD | Moderate | Imports (Feb) |  |  | 356.60B |
-| 13:30 | USD | High | Initial Jobless Claims |  | 212K | 210K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 210.50K |
-| 13:30 | USD | Moderate | Trade Balance (Feb) |  | -60.50B | -54.50B |
-| 13:30 | CAD | Low | Exports (Feb) |  |  | 62.48B |
-| 13:30 | CAD | Low | Imports (Feb) |  |  | 66.13B |
-| 13:30 | CAD | Moderate | Trade Balance (Feb) |  | -2.50B | -3.65B |
-| 14:00 | SGD | Low | S&P Global Manufacturing PMI (Mar) |  |  | 50.6 |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,841K | 1,840K | 1,816K |
+| 13:30 | USD | Moderate | Exports (Feb) | 314.80B |  | 302.20B |
+| 13:30 | USD | Moderate | Goods Trade Balance (Feb) | -84.60B |  | -81.80B |
+| 13:30 | USD | Moderate | Imports (Feb) | 372.10B |  | 356.90B |
+| 13:30 | USD | High | Initial Jobless Claims | 202K | 212K | 211K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 207.75K |  | 210.75K |
+| 13:30 | USD | Moderate | Trade Balance (Feb) | -57.30B | -60.50B | -54.70B |
+| 13:30 | CAD | Low | Exports (Feb) | 66.31B |  | 62.32B |
+| 13:30 | CAD | Low | Imports (Feb) | 72.05B |  | 66.50B |
+| 13:30 | CAD | Moderate | Trade Balance (Feb) | -5.74B | -2.50B | -4.18B |
+| 14:00 | SGD | Low | S&P Global Manufacturing PMI (Mar) | 50.5 |  | 50.6 |
 | 15:30 | USD | Low | Natural Gas Storage |  | 38B | -54B |
 | 16:00 | USD | Low | Fed Logan Speaks |  |  |  |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.620% |

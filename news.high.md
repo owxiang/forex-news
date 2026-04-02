@@ -3,4 +3,4 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:00 | USD | U.S. President Trump Speaks |  |  |  |
-| 13:30 | USD | Initial Jobless Claims |  | 212K | 210K |
+| 13:30 | USD | Initial Jobless Claims | 202K | 212K | 211K |
