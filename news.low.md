@@ -1,33 +1,24 @@
-## 02 April 2026 - Low Impact Forex News
+## 03 April 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | CPI (MoM) (Mar) | 0.3% | 0.6% | 0.3% |
-| 00:00 | KRW | CPI (YoY) (Mar) | 2.2% | 2.4% | 2.0% |
-| 00:50 | JPY | Foreign Bonds Buying | -945.4B |  | -635.1B |
-| 00:50 | JPY | Foreign Investments in Japanese Stocks | -4,448.1B |  | -2,511.0B |
-| 00:50 | JPY | Monetary Base (YoY) (Mar) | -11.6% | -10.8% | -10.6% |
-| 01:30 | AUD | Exports (MoM) (Feb) | 4.9% |  | -1.6% |
-| 01:30 | AUD | Imports (MoM) (Feb) | -3.2% |  | 1.0% |
-| 06:00 | INR | HSBC India Manufacturing PMI (Mar) | 53.9 | 53.8 | 56.9 |
-| 07:30 | CHF | CPI (YoY) (Mar) | 0.3% | 0.5% | 0.1% |
-| 07:45 | EUR | French Government Budget Balance (Feb) | -32.1B |  | -9.7B |
-| 09:50 | EUR | French 10-Year OAT Auction | 3.73% |  | 3.46% |
-| 10:00 | EUR | Italian Retail Sales (MoM) (Feb) | 0.0% | 0.3% | 0.6% |
-| 10:00 | EUR | Italian Retail Sales (YoY) (Feb) | 1.6% |  | 2.5% |
-| 12:30 | USD | Challenger Job Cuts (YoY) | -78.0% |  | -71.9% |
-| 12:30 | USD | Challenger Job Cuts (Mar) | 60.620K |  | 48.307K |
-| 13:00 | BRL | Industrial Production (MoM) (Feb) | 0.9% | 0.7% | 2.1% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. | 207.75K |  | 210.75K |
-| 13:30 | CAD | Exports (Feb) | 66.31B |  | 62.32B |
-| 13:30 | CAD | Imports (Feb) | 72.05B |  | 66.50B |
-| 14:00 | SGD | S&P Global Manufacturing PMI (Mar) | 50.5 |  | 50.6 |
-| 15:00 | USD | All Car Sales (Mar) | 2.70M |  | 2.68M |
-| 15:00 | USD | All Truck Sales (Mar) | 13.65M |  | 13.08M |
-| 15:30 | USD | Natural Gas Storage | 36B | 38B | -54B |
-| 16:00 | USD | Fed Logan Speaks |  |  |  |
-| 16:30 | USD | 4-Week Bill Auction | 3.620% |  | 3.620% |
-| 16:30 | USD | 8-Week Bill Auction | 3.620% |  | 3.630% |
-| 19:00 | EUR | French Car Registration (YoY) (Mar) | 12.9% |  | -14.7% |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.064T |  | 3.036T |
-| 22:00 | KRW | FX Reserves - USD (Mar) | 423.66B |  | 427.62B |
+| 01:30 | JPY | Manufacturing & Services PMI (Mar) |  | 52.50 | 53.90 |
+| 07:45 | EUR | French Industrial Production (MoM) (Feb) |  | -0.1% | 0.5% |
+| 10:00 | EUR | Italian Public Deficit (Q4) |  |  | 3.4% |
+| 12:30 | INR | Bank Loan Growth |  |  |  |
+| 12:30 | INR | Deposit Growth |  |  |  |
+| 12:30 | INR | FX Reserves, USD |  |  | 698.35B |
+| 13:30 | USD | Average Weekly Hours (Mar) |  | 34.3 | 34.3 |
+| 13:30 | USD | Government Payrolls (Mar) |  |  | -6.0K |
+| 13:30 | USD | Manufacturing Payrolls (Mar) |  | -5K | -12K |
+| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -0.7K |
+| 20:30 | USD | CFTC Copper speculative net positions |  |  | 37.5K |
+| 20:30 | USD | CFTC Corn speculative net positions |  |  | 375.4K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -172.6K |
+| 20:30 | USD | CFTC Silver speculative net positions |  |  | 24.7K |
+| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 215.2K |
+| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -17.1K |
+| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -1.6K |
+| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 74.1K |
+| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -27.1K |
+| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -27.0K |
