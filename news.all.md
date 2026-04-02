@@ -12,19 +12,20 @@
 | 01:30 | AUD | Moderate | Trade Balance (Feb) | 5.686B | 2.810B | 2.258B |
 | 02:00 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 04:35 | JPY | Moderate | 10-Year JGB Auction | 2.350% |  | 2.122% |
-| 06:00 | INR | Low | HSBC India Manufacturing PMI (Mar) |  | 53.8 | 56.9 |
-| 07:30 | CHF | Moderate | CPI (MoM) (Mar) |  | 0.5% | 0.6% |
-| 07:30 | CHF | Low | CPI (YoY) (Mar) |  | 0.5% | 0.1% |
+| 06:00 | INR | Low | HSBC India Manufacturing PMI (Mar) | 53.9 | 53.8 | 56.9 |
+| 53 min | CHF | Low | CPI (YoY) (Mar) |  | 0.5% | 0.1% |
+| 53 min | CHF | Moderate | CPI (MoM) (Mar) |  | 0.5% | 0.6% |
 | 07:45 | EUR | Low | French Government Budget Balance (Feb) |  |  | -9.7B |
 | 09:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
-| 10:00 | EUR | Low | Italian Retail Sales (YoY) (Feb) |  |  | 2.3% |
+| 09:50 | EUR | Low | French 10-Year OAT Auction |  |  | 3.46% |
 | 10:00 | EUR | Low | Italian Retail Sales (MoM) (Feb) |  | 0.3% | 0.6% |
+| 10:00 | EUR | Low | Italian Retail Sales (YoY) (Feb) |  |  | 2.3% |
 | 10:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Mar) |  |  | 0.25% |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | -71.9% |
 | 12:30 | USD | Low | Challenger Job Cuts (Mar) |  |  | 48.307K |
 | 12:45 | EUR | Low | Italian Car Registration (YoY) (Mar) |  |  | 14.0% |
-| 13:00 | BRL | Moderate | Industrial Production (YoY) (Feb) |  | -1.0% | 0.2% |
 | 13:00 | BRL | Low | Industrial Production (MoM) (Feb) |  | 0.7% | 1.8% |
+| 13:00 | BRL | Moderate | Industrial Production (YoY) (Feb) |  | -1.0% | 0.2% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,840K | 1,819K |
 | 13:30 | USD | Moderate | Exports (Feb) |  |  | 302.10B |
 | 13:30 | USD | Moderate | Goods Trade Balance (Feb) |  |  | -80.80B |
