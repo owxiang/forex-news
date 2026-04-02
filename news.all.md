@@ -13,8 +13,8 @@
 | 02:00 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 04:35 | JPY | Moderate | 10-Year JGB Auction | 2.350% |  | 2.122% |
 | 06:00 | INR | Low | HSBC India Manufacturing PMI (Mar) | 53.9 | 53.8 | 56.9 |
-| 53 min | CHF | Low | CPI (YoY) (Mar) |  | 0.5% | 0.1% |
-| 53 min | CHF | Moderate | CPI (MoM) (Mar) |  | 0.5% | 0.6% |
+| 07:30 | CHF | Low | CPI (YoY) (Mar) | 0.3% | 0.5% | 0.1% |
+| 07:30 | CHF | Moderate | CPI (MoM) (Mar) | 0.2% | 0.5% | 0.6% |
 | 07:45 | EUR | Low | French Government Budget Balance (Feb) |  |  | -9.7B |
 | 09:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
 | 09:50 | EUR | Low | French 10-Year OAT Auction |  |  | 3.46% |

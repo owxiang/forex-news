@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 01:30 | AUD | Trade Balance (Feb) | 5.686B | 2.810B | 2.258B |
 | 04:35 | JPY | 10-Year JGB Auction | 2.350% |  | 2.122% |
-| 53 min | CHF | CPI (MoM) (Mar) |  | 0.5% | 0.6% |
+| 07:30 | CHF | CPI (MoM) (Mar) | 0.2% | 0.5% | 0.6% |
 | 09:00 | EUR | ECB Economic Bulletin |  |  |  |
 | 10:00 | BRL | IPC-Fipe Inflation Index (MoM) (Mar) |  |  | 0.25% |
 | 13:00 | BRL | Industrial Production (YoY) (Feb) |  | -1.0% | 0.2% |
