@@ -4,11 +4,11 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | KRW | CPI (MoM) (Mar) | 0.3% | 0.6% | 0.3% |
 | 00:00 | KRW | CPI (YoY) (Mar) | 2.2% | 2.4% | 2.0% |
-| 34 min | JPY | Foreign Bonds Buying |  |  | -635.3B |
-| 34 min | JPY | Foreign Investments in Japanese Stocks |  |  | -2,509.7B |
-| 34 min | JPY | Monetary Base (YoY) (Mar) |  | -10.8% | -10.6% |
-| 01:30 | AUD | Exports (MoM) (Feb) |  |  | -0.9% |
-| 01:30 | AUD | Imports (MoM) (Feb) |  |  | 0.8% |
+| 00:50 | JPY | Foreign Bonds Buying | -945.4B |  | -635.1B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks | -4,448.1B |  | -2,511.0B |
+| 00:50 | JPY | Monetary Base (YoY) (Mar) | -11.6% | -10.8% | -10.6% |
+| 01:30 | AUD | Exports (MoM) (Feb) | 4.9% |  | -1.6% |
+| 01:30 | AUD | Imports (MoM) (Feb) | -3.2% |  | 1.0% |
 | 06:00 | INR | HSBC India Manufacturing PMI (Mar) |  | 53.8 | 56.9 |
 | 07:30 | CHF | CPI (YoY) (Mar) |  | 0.5% | 0.1% |
 | 07:45 | EUR | French Government Budget Balance (Feb) |  |  | -9.7B |

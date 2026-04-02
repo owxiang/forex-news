@@ -4,13 +4,13 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | KRW | Low | CPI (MoM) (Mar) | 0.3% | 0.6% | 0.3% |
 | 00:00 | KRW | Low | CPI (YoY) (Mar) | 2.2% | 2.4% | 2.0% |
-| 34 min | JPY | Low | Foreign Bonds Buying |  |  | -635.3B |
-| 34 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -2,509.7B |
-| 34 min | JPY | Low | Monetary Base (YoY) (Mar) |  | -10.8% | -10.6% |
-| 01:30 | AUD | Low | Exports (MoM) (Feb) |  |  | -0.9% |
-| 01:30 | AUD | Low | Imports (MoM) (Feb) |  |  | 0.8% |
-| 01:30 | AUD | Moderate | Trade Balance (Feb) |  | 2.810B | 2.631B |
-| 02:00 | USD | High | U.S. President Trump Speaks |  |  |  |
+| 00:50 | JPY | Low | Foreign Bonds Buying | -945.4B |  | -635.1B |
+| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -4,448.1B |  | -2,511.0B |
+| 00:50 | JPY | Low | Monetary Base (YoY) (Mar) | -11.6% | -10.8% | -10.6% |
+| 01:30 | AUD | Low | Exports (MoM) (Feb) | 4.9% |  | -1.6% |
+| 01:30 | AUD | Low | Imports (MoM) (Feb) | -3.2% |  | 1.0% |
+| 01:30 | AUD | Moderate | Trade Balance (Feb) | 5.686B | 2.810B | 2.258B |
+| 18 min | USD | High | U.S. President Trump Speaks |  |  |  |
 | 04:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 2.122% |
 | 06:00 | INR | Low | HSBC India Manufacturing PMI (Mar) |  | 53.8 | 56.9 |
 | 07:30 | CHF | Moderate | CPI (MoM) (Mar) |  | 0.5% | 0.6% |
