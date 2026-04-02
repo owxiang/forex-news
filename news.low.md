@@ -12,9 +12,9 @@
 | 06:00 | INR | HSBC India Manufacturing PMI (Mar) | 53.9 | 53.8 | 56.9 |
 | 07:30 | CHF | CPI (YoY) (Mar) | 0.3% | 0.5% | 0.1% |
 | 07:45 | EUR | French Government Budget Balance (Feb) | -32.1B |  | -9.7B |
-| 09:50 | EUR | French 10-Year OAT Auction |  |  | 3.46% |
-| 10:00 | EUR | Italian Retail Sales (MoM) (Feb) |  | 0.3% | 0.6% |
-| 10:00 | EUR | Italian Retail Sales (YoY) (Feb) |  |  | 2.3% |
+| 21 min | EUR | French 10-Year OAT Auction |  |  | 3.46% |
+| 31 min | EUR | Italian Retail Sales (MoM) (Feb) |  | 0.3% | 0.6% |
+| 31 min | EUR | Italian Retail Sales (YoY) (Feb) |  |  | 2.3% |
 | 12:30 | USD | Challenger Job Cuts (YoY) |  |  | -71.9% |
 | 12:30 | USD | Challenger Job Cuts (Mar) |  |  | 48.307K |
 | 12:45 | EUR | Italian Car Registration (YoY) (Mar) |  |  | 14.0% |
