@@ -21,10 +21,10 @@
 | 10:00 | EUR | Low | Italian Retail Sales (MoM) (Feb) | 0.0% | 0.3% | 0.6% |
 | 10:00 | EUR | Low | Italian Retail Sales (YoY) (Feb) | 1.6% |  | 2.5% |
 | 10:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Mar) | 0.59% |  | 0.25% |
-| 9 min | USD | Low | Challenger Job Cuts (YoY) |  |  | -71.9% |
-| 9 min | USD | Low | Challenger Job Cuts (Mar) |  |  | 48.307K |
-| 39 min | BRL | Moderate | Industrial Production (YoY) (Feb) |  | -1.0% | 0.2% |
-| 39 min | BRL | Low | Industrial Production (MoM) (Feb) |  | 0.7% | 1.8% |
+| 12:30 | USD | Low | Challenger Job Cuts (YoY) | -78.0% |  | -71.9% |
+| 12:30 | USD | Low | Challenger Job Cuts (Mar) | 60.620K |  | 48.307K |
+| 13:00 | BRL | Moderate | Industrial Production (YoY) (Feb) | -0.7% | -1.0% | 0.2% |
+| 13:00 | BRL | Low | Industrial Production (MoM) (Feb) | 0.9% | 0.7% | 2.1% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,840K | 1,819K |
 | 13:30 | USD | Moderate | Exports (Feb) |  |  | 302.10B |
 | 13:30 | USD | Moderate | Goods Trade Balance (Feb) |  |  | -80.80B |

@@ -7,7 +7,7 @@
 | 07:30 | CHF | CPI (MoM) (Mar) | 0.2% | 0.5% | 0.6% |
 | 09:00 | EUR | ECB Economic Bulletin |  |  |  |
 | 10:00 | BRL | IPC-Fipe Inflation Index (MoM) (Mar) | 0.59% |  | 0.25% |
-| 39 min | BRL | Industrial Production (YoY) (Feb) |  | -1.0% | 0.2% |
+| 13:00 | BRL | Industrial Production (YoY) (Feb) | -0.7% | -1.0% | 0.2% |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,840K | 1,819K |
 | 13:30 | USD | Exports (Feb) |  |  | 302.10B |
 | 13:30 | USD | Goods Trade Balance (Feb) |  |  | -80.80B |
