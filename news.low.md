@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 01:00 | USD | Total Vehicle Sales (Mar) | 16.30M |  | 15.80M |
 | 01:30 | JPY | Manufacturing & Services PMI (Mar) | 53.00 | 52.50 | 53.90 |
-| 07:45 | EUR | French Industrial Production (MoM) (Feb) |  | -0.1% | 0.5% |
+| 07:45 | EUR | French Industrial Production (MoM) (Feb) | -0.7% | -0.1% | 0.2% |
 | 10:00 | EUR | Italian Public Deficit (Q4) |  |  | 3.4% |
 | 12:30 | INR | Bank Loan Growth |  |  |  |
 | 12:30 | INR | Deposit Growth |  |  |  |
