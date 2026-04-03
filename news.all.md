@@ -2,6 +2,7 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
+| 01:00 | USD | Low | Total Vehicle Sales (Mar) | 16.30M |  | 15.80M |
 | 01:30 | JPY | Low | Manufacturing & Services PMI (Mar) | 53.00 | 52.50 | 53.90 |
 | 01:30 | JPY | Moderate | S&P Global Services PMI (Mar) | 53.4 | 52.8 | 53.8 |
 | 02:45 | CNY | Moderate | RatingDog Services PMI (Mar) |  | 53.6 | 56.7 |
