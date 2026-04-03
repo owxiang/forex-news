@@ -9,16 +9,16 @@
 | 07:45 | EUR | Low | French Industrial Production (MoM) (Feb) | -0.7% | -0.1% | 0.2% |
 | 10:00 | EUR | Low | Italian Public Deficit (Q4) | -1.4% |  | 3.2% |
 | 12:30 | INR | Low | FX Reserves, USD | 688.06B |  | 698.35B |
-| 8 min | USD | High | Average Hourly Earnings (MoM) (Mar) |  | 0.3% | 0.4% |
-| 8 min | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Mar) |  | 3.7% | 3.8% |
-| 8 min | USD | Low | Average Weekly Hours (Mar) |  | 34.3 | 34.3 |
-| 8 min | USD | Low | Government Payrolls (Mar) |  |  | -6.0K |
-| 8 min | USD | Low | Manufacturing Payrolls (Mar) |  | -5K | -12K |
-| 8 min | USD | High | Nonfarm Payrolls (Mar) |  | 65K | -92K |
-| 8 min | USD | Moderate | Participation Rate (Mar) |  |  | 62.0% |
-| 8 min | USD | Moderate | Private Nonfarm Payrolls (Mar) |  | 70K | -86K |
-| 8 min | USD | Moderate | U6 Unemployment Rate (Mar) |  |  | 7.9% |
-| 8 min | USD | High | Unemployment Rate (Mar) |  | 4.4% | 4.4% |
+| 13:30 | USD | High | Average Hourly Earnings (MoM) (Mar) | 0.2% | 0.3% | 0.4% |
+| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Mar) | 3.5% | 3.7% | 3.8% |
+| 13:30 | USD | Low | Average Weekly Hours (Mar) | 34.2 | 34.3 | 34.3 |
+| 13:30 | USD | Low | Government Payrolls (Mar) | -8.0K |  | -4.0K |
+| 13:30 | USD | Low | Manufacturing Payrolls (Mar) | 15K | -5K | -6K |
+| 13:30 | USD | High | Nonfarm Payrolls (Mar) | 178K | 65K | -133K |
+| 13:30 | USD | Moderate | Participation Rate (Mar) | 61.9% |  | 62.0% |
+| 13:30 | USD | Moderate | Private Nonfarm Payrolls (Mar) | 186K | 70K | -129K |
+| 13:30 | USD | Moderate | U6 Unemployment Rate (Mar) | 8.0% |  | 7.9% |
+| 13:30 | USD | High | Unemployment Rate (Mar) | 4.3% | 4.4% | 4.4% |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Mar) |  | 51.4 | 51.9 |
 | 14:45 | USD | High | S&P Global Services PMI (Mar) |  | 51.1 | 51.7 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -58.4K |
