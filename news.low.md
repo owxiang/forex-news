@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | JPY | Manufacturing & Services PMI (Mar) |  | 52.50 | 53.90 |
+| 01:30 | JPY | Manufacturing & Services PMI (Mar) | 53.00 | 52.50 | 53.90 |
 | 07:45 | EUR | French Industrial Production (MoM) (Feb) |  | -0.1% | 0.5% |
 | 10:00 | EUR | Italian Public Deficit (Q4) |  |  | 3.4% |
 | 12:30 | INR | Bank Loan Growth |  |  |  |

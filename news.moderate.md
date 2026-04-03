@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | JPY | S&P Global Services PMI (Mar) |  | 52.8 | 53.8 |
+| 01:30 | JPY | S&P Global Services PMI (Mar) | 53.4 | 52.8 | 53.8 |
 | 02:45 | CNY | RatingDog Services PMI (Mar) |  | 53.6 | 56.7 |
 | 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Mar) |  | 3.8% | 3.8% |
 | 13:30 | USD | Participation Rate (Mar) |  |  | 62.0% |
