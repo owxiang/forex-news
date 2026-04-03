@@ -7,7 +7,7 @@
 | 01:30 | JPY | Moderate | S&P Global Services PMI (Mar) | 53.4 | 52.8 | 53.8 |
 | 02:45 | CNY | Moderate | RatingDog Services PMI (Mar) | 52.1 | 53.6 | 56.7 |
 | 07:45 | EUR | Low | French Industrial Production (MoM) (Feb) | -0.7% | -0.1% | 0.2% |
-| 10:00 | EUR | Low | Italian Public Deficit (Q4) |  |  | 3.4% |
+| 36 min | EUR | Low | Italian Public Deficit (Q4) |  |  | 3.4% |
 | 12:30 | INR | Low | Bank Loan Growth |  |  |  |
 | 12:30 | INR | Low | Deposit Growth |  |  |  |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 698.35B |
