@@ -8,7 +8,7 @@
 | 13:30 | USD | Participation Rate (Mar) | 61.9% |  | 62.0% |
 | 13:30 | USD | Private Nonfarm Payrolls (Mar) | 186K | 70K | -129K |
 | 13:30 | USD | U6 Unemployment Rate (Mar) | 8.0% |  | 7.9% |
-| 14:45 | USD | S&P Global Composite PMI (Mar) |  | 51.4 | 51.9 |
+| 14:45 | USD | S&P Global Composite PMI (Mar) | 50.3 | 51.4 | 51.9 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -58.4K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 233.6K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 168.3K |

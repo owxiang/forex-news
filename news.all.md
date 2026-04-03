@@ -19,8 +19,8 @@
 | 13:30 | USD | Moderate | Private Nonfarm Payrolls (Mar) | 186K | 70K | -129K |
 | 13:30 | USD | Moderate | U6 Unemployment Rate (Mar) | 8.0% |  | 7.9% |
 | 13:30 | USD | High | Unemployment Rate (Mar) | 4.3% | 4.4% | 4.4% |
-| 14:45 | USD | Moderate | S&P Global Composite PMI (Mar) |  | 51.4 | 51.9 |
-| 14:45 | USD | High | S&P Global Services PMI (Mar) |  | 51.1 | 51.7 |
+| 14:45 | USD | Moderate | S&P Global Composite PMI (Mar) | 50.3 | 51.4 | 51.9 |
+| 14:45 | USD | High | S&P Global Services PMI (Mar) | 49.8 | 51.1 | 51.7 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -58.4K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -0.7K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 37.5K |
