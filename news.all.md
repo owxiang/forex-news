@@ -12,13 +12,13 @@
 | 12:30 | INR | Low | Deposit Growth |  |  |  |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 698.35B |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Mar) |  | 0.3% | 0.4% |
-| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Mar) |  | 3.8% | 3.8% |
+| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Mar) |  | 3.7% | 3.8% |
 | 13:30 | USD | Low | Average Weekly Hours (Mar) |  | 34.3 | 34.3 |
 | 13:30 | USD | Low | Government Payrolls (Mar) |  |  | -6.0K |
 | 13:30 | USD | Low | Manufacturing Payrolls (Mar) |  | -5K | -12K |
 | 13:30 | USD | High | Nonfarm Payrolls (Mar) |  | 65K | -92K |
 | 13:30 | USD | Moderate | Participation Rate (Mar) |  |  | 62.0% |
-| 13:30 | USD | Moderate | Private Nonfarm Payrolls (Mar) |  | 73K | -86K |
+| 13:30 | USD | Moderate | Private Nonfarm Payrolls (Mar) |  | 70K | -86K |
 | 13:30 | USD | Moderate | U6 Unemployment Rate (Mar) |  |  | 7.9% |
 | 13:30 | USD | High | Unemployment Rate (Mar) |  | 4.4% | 4.4% |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Mar) |  | 51.4 | 51.9 |

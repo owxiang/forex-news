@@ -4,9 +4,9 @@
 |------|----------|-------|--------|----------|----------|
 | 01:30 | JPY | S&P Global Services PMI (Mar) | 53.4 | 52.8 | 53.8 |
 | 02:45 | CNY | RatingDog Services PMI (Mar) | 52.1 | 53.6 | 56.7 |
-| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Mar) |  | 3.8% | 3.8% |
+| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Mar) |  | 3.7% | 3.8% |
 | 13:30 | USD | Participation Rate (Mar) |  |  | 62.0% |
-| 13:30 | USD | Private Nonfarm Payrolls (Mar) |  | 73K | -86K |
+| 13:30 | USD | Private Nonfarm Payrolls (Mar) |  | 70K | -86K |
 | 13:30 | USD | U6 Unemployment Rate (Mar) |  |  | 7.9% |
 | 14:45 | USD | S&P Global Composite PMI (Mar) |  | 51.4 | 51.9 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -58.4K |
