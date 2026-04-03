@@ -10,14 +10,14 @@
 | 13:30 | USD | Average Weekly Hours (Mar) | 34.2 | 34.3 | 34.3 |
 | 13:30 | USD | Government Payrolls (Mar) | -8.0K |  | -4.0K |
 | 13:30 | USD | Manufacturing Payrolls (Mar) | 15K | -5K | -6K |
-| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -0.7K |
-| 20:30 | USD | CFTC Copper speculative net positions |  |  | 37.5K |
-| 20:30 | USD | CFTC Corn speculative net positions |  |  | 375.4K |
-| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -172.6K |
-| 20:30 | USD | CFTC Silver speculative net positions |  |  | 24.7K |
-| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 215.2K |
-| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -17.1K |
-| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -1.6K |
-| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 74.1K |
-| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -27.1K |
-| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -27.0K |
+| 11 min | USD | CFTC Aluminium speculative net positions |  |  | -0.7K |
+| 11 min | USD | CFTC Copper speculative net positions |  |  | 37.5K |
+| 11 min | USD | CFTC Corn speculative net positions |  |  | 375.4K |
+| 11 min | USD | CFTC Natural Gas speculative net positions |  |  | -172.6K |
+| 11 min | USD | CFTC Silver speculative net positions |  |  | 24.7K |
+| 11 min | USD | CFTC Soybeans speculative net positions |  |  | 215.2K |
+| 11 min | USD | CFTC Wheat speculative net positions |  |  | -17.1K |
+| 11 min | CAD | CFTC CAD speculative net positions |  |  | -1.6K |
+| 11 min | MXN | CFTC MXN speculative net positions |  |  | 74.1K |
+| 11 min | CHF | CFTC CHF speculative net positions |  |  | -27.1K |
+| 11 min | NZD | CFTC NZD speculative net positions |  |  | -27.0K |
