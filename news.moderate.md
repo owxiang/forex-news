@@ -9,12 +9,12 @@
 | 13:30 | USD | Private Nonfarm Payrolls (Mar) | 186K | 70K | -129K |
 | 13:30 | USD | U6 Unemployment Rate (Mar) | 8.0% |  | 7.9% |
 | 14:45 | USD | S&P Global Composite PMI (Mar) | 50.3 | 51.4 | 51.9 |
-| 11 min | GBP | CFTC GBP speculative net positions |  |  | -58.4K |
-| 11 min | USD | CFTC Crude Oil speculative net positions |  |  | 233.6K |
-| 11 min | USD | CFTC Gold speculative net positions |  |  | 168.3K |
-| 11 min | USD | CFTC Nasdaq 100 speculative net positions |  |  | 6.6K |
-| 11 min | USD | CFTC S&P 500 speculative net positions |  |  | -80.9K |
-| 11 min | AUD | CFTC AUD speculative net positions |  |  | 70.9K |
-| 11 min | BRL | CFTC BRL speculative net positions |  |  | 49.2K |
-| 11 min | JPY | CFTC JPY speculative net positions |  |  | -62.8K |
-| 11 min | EUR | CFTC EUR speculative net positions |  |  | 9.3K |
+| 20:30 | GBP | CFTC GBP speculative net positions | -52.7K |  | -58.4K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions | 213.5K |  | 233.6K |
+| 20:30 | USD | CFTC Gold speculative net positions | 163.2K |  | 168.3K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions | 20.6K |  | 6.6K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions | -42.5K |  | -80.9K |
+| 20:30 | AUD | CFTC AUD speculative net positions | 81.5K |  | 70.9K |
+| 20:30 | BRL | CFTC BRL speculative net positions | 52.7K |  | 49.2K |
+| 20:30 | JPY | CFTC JPY speculative net positions | -72.9K |  | -62.8K |
+| 20:30 | EUR | CFTC EUR speculative net positions | 0.5K |  | 9.3K |
