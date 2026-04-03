@@ -5,7 +5,7 @@
 | 01:00 | USD | Low | Total Vehicle Sales (Mar) | 16.30M |  | 15.80M |
 | 01:30 | JPY | Low | Manufacturing & Services PMI (Mar) | 53.00 | 52.50 | 53.90 |
 | 01:30 | JPY | Moderate | S&P Global Services PMI (Mar) | 53.4 | 52.8 | 53.8 |
-| 02:45 | CNY | Moderate | RatingDog Services PMI (Mar) |  | 53.6 | 56.7 |
+| 02:45 | CNY | Moderate | RatingDog Services PMI (Mar) | 52.1 | 53.6 | 56.7 |
 | 07:45 | EUR | Low | French Industrial Production (MoM) (Feb) |  | -0.1% | 0.5% |
 | 10:00 | EUR | Low | Italian Public Deficit (Q4) |  |  | 3.4% |
 | 12:30 | INR | Low | Bank Loan Growth |  |  |  |
