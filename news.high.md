@@ -1,3 +1,6 @@
-## 04 April 2026 - High Impact Forex News
+## 06 April 2026 - High Impact Forex News
 
-There is no high impact news today.
+| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 15:00 | USD | ISM Non-Manufacturing PMI (Mar) |  | 54.8 | 56.1 |
+| 15:00 | USD | ISM Non-Manufacturing Prices (Mar) |  |  | 63.0 |

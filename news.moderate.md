@@ -1,5 +1,6 @@
-## 04 April 2026 - Moderate Impact Forex News
+## 06 April 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 11:00 | USD | OPEC Meeting |  |  |  |
+| 08:00 | EUR | Spanish Unemployment Change (Mar) |  | 10.3K | 3.6K |
+| 15:00 | USD | ISM Non-Manufacturing Employment (Mar) |  |  | 51.8 |
