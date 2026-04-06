@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 06:00 | INR | HSBC India Services PMI (Mar) |  | 57.2 | 57.2 |
-| 06:00 | INR | HSBC Manufacturing & Services PMI (Mar) |  | 56.50 | 56.50 |
-| 06:00 | SGD | Retail Sales (MoM) (Feb) |  |  | 6.1% |
-| 06:00 | SGD | Retail Sales (YoY) (Feb) |  |  | -0.4% |
+| 06:00 | INR | HSBC India Services PMI (Mar) | 57.5 | 57.2 | 57.2 |
+| 06:00 | INR | HSBC Manufacturing & Services PMI (Mar) | 57.00 | 56.50 | 56.50 |
+| 06:00 | SGD | Retail Sales (MoM) (Feb) | -4.1% |  | 6.0% |
+| 06:00 | SGD | Retail Sales (YoY) (Feb) | 8.3% |  | -0.5% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:00 | MXN | Gross Fixed Investments (MoM) (Jan) |  |  | 0.50% |
 | 13:00 | MXN | Gross Fixed Investments (YoY) (Jan) |  |  | 0.00% |
