@@ -19,5 +19,6 @@
 | 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Mar) | 60.6 | 56.8 | 58.6 |
 | 15:00 | USD | High | ISM Non-Manufacturing PMI (Mar) | 54.0 | 54.8 | 56.1 |
 | 15:00 | USD | High | ISM Non-Manufacturing Prices (Mar) | 70.7 | 67.0 | 63.0 |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.620% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.605% |
+| 8 min | USD | Low | 3-Month Bill Auction |  |  | 3.620% |
+| 8 min | USD | Low | 6-Month Bill Auction |  |  | 3.605% |
+| 18:00 | USD | High | U.S. President Trump Speaks |  |  |  |
