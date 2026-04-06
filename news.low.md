@@ -1,19 +1,41 @@
-## 06 April 2026 - Low Impact Forex News
+## 07 April 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 06:00 | INR | HSBC India Services PMI (Mar) | 57.5 | 57.2 | 57.2 |
-| 06:00 | INR | HSBC Manufacturing & Services PMI (Mar) | 57.00 | 56.50 | 56.50 |
-| 06:00 | SGD | Retail Sales (MoM) (Feb) | -4.1% |  | 6.0% |
-| 06:00 | SGD | Retail Sales (YoY) (Feb) | 8.3% |  | -0.5% |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | MXN | Gross Fixed Investments (MoM) (Jan) | -1.10% | -0.80% | 0.50% |
-| 13:00 | MXN | Gross Fixed Investments (YoY) (Jan) | -3.30% | -2.10% | 0.00% |
-| 14:00 | BRL | S&P Global Composite PMI (Mar) | 49.9 |  | 51.3 |
-| 14:00 | BRL | S&P Global Services PMI (Mar) | 50.1 |  | 53.1 |
-| 14:30 | CAD | S&P Global Services PMI (Mar) | 47.20 |  | 46.50 |
-| 15:00 | USD | CB Employment Trends Index (Mar) | 105.72 |  | 105.84 |
-| 15:00 | USD | ISM Non-Manufacturing Business Activity (Mar) | 53.9 |  | 59.9 |
-| 15:00 | USD | ISM Non-Manufacturing New Orders (Mar) | 60.6 | 56.8 | 58.6 |
-| 16:30 | USD | 3-Month Bill Auction | 3.635% |  | 3.620% |
-| 16:30 | USD | 6-Month Bill Auction | 3.615% |  | 3.605% |
+| 00:00 | AUD | S&P Global Manufacturing & Services PMI (Mar) | 46.60 | 47.00 | 52.40 |
+| 00:00 | AUD | S&P Global Services PMI (Mar) | 46.3 | 46.6 | 52.8 |
+| 14 min | JPY | Average Cash Earnings (YoY) (Feb) |  | 2.7% | 3.0% |
+| 34 min | JPY | Foreign Reserves (USD) (Mar) |  |  | 1,410.7B |
+| 02:00 | AUD | MI Inflation Gauge (MoM) (Mar) |  |  | -0.2% |
+| 02:00 | NZD | ANZ Commodity Price Index (MoM) |  |  | 4.2% |
+| 02:30 | AUD | ANZ Job Advertisements (MoM) (Mar) |  |  | 3.2% |
+| 04:35 | JPY | 30-Year JGB Auction |  |  | 3.398% |
+| 06:00 | JPY | Coincident Indicator (MoM) (Feb) |  |  | 3.4% |
+| 06:00 | JPY | Leading Index (Feb) |  | 112.3 | 112.1 |
+| 06:00 | JPY | Leading Index (MoM) (Feb) |  |  | 1.7% |
+| 08:00 | CHF | Foreign Reserves (USD) (Mar) |  |  | 710,029.0B |
+| 08:15 | ZAR | S&P Global Manufacturing PMI (Mar) |  |  | 50.0 |
+| 08:45 | EUR | HCOB Italy Composite PMI (Mar) |  |  | 52.1 |
+| 08:50 | EUR | HCOB France Composite PMI (Mar) |  | 48.3 | 49.9 |
+| 08:55 | EUR | HCOB Germany Composite PMI (Mar) |  | 51.9 | 53.2 |
+| 09:00 | GBP | Car Registration (YoY) (Mar) |  |  | 7.2% |
+| 09:00 | GBP | United Kingdom New Passenger Cars Registration (Mar) |  |  | 90,100.0 |
+| 09:00 | CNY | FX Reserves (USD) (Mar) |  | 3.400T | 3.428T |
+| 09:30 | EUR | Sentix Investor Confidence (Apr) |  | -7.5 | -3.1 |
+| 09:40 | EUR | Spanish 12-Month Letras Auction |  |  | 2.121% |
+| 09:40 | EUR | Spanish 6-Month Letras Auction |  |  | 2.059% |
+| 10:00 | SGD | Foreign Reserves USD (MoM) (Mar) |  |  | 416.1B |
+| 13:00 | NZD | GlobalDairyTrade Price Index |  |  | 0.1% |
+| 13:00 | USD | Milk Auctions |  |  | 4,330.0 |
+| 13:15 | CAD | Reserve Assets Total (Mar) |  |  | 128.1B |
+| 13:30 | USD | Durables Excluding Defense (MoM) (Feb) |  |  | 0.5% |
+| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Feb) |  |  | 0.1% |
+| 13:55 | USD | Redbook (YoY) |  |  | 6.9% |
+| 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.660% |
+| 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.238% |
+| 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.407% |
+| 15:00 | CAD | Ivey PMI n.s.a (Mar) |  |  | 56.3 |
+| 15:10 | USD | IBD/TIPP Economic Optimism (Apr) |  | 48.1 | 47.5 |
+| 17:35 | USD | Fed Goolsbee Speaks |  |  |  |
+| 19:00 | BRL | Trade Balance (Mar) |  | 7.40B | 4.21B |
+| 22:50 | USD | Fed Governor Jefferson Speaks |  |  |  |

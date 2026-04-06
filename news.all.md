@@ -1,24 +1,61 @@
-## 06 April 2026 - All Forex News
+## 07 April 2026 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 06:00 | INR | Low | HSBC India Services PMI (Mar) | 57.5 | 57.2 | 57.2 |
-| 06:00 | INR | Low | HSBC Manufacturing & Services PMI (Mar) | 57.00 | 56.50 | 56.50 |
-| 06:00 | SGD | Low | Retail Sales (MoM) (Feb) | -4.1% |  | 6.0% |
-| 06:00 | SGD | Low | Retail Sales (YoY) (Feb) | 8.3% |  | -0.5% |
-| 08:00 | EUR | Moderate | Spanish Unemployment Change (Mar) | -22.9K | 10.3K | 3.6K |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Jan) | -1.10% | -0.80% | 0.50% |
-| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jan) | -3.30% | -2.10% | 0.00% |
-| 14:00 | BRL | Low | S&P Global Composite PMI (Mar) | 49.9 |  | 51.3 |
-| 14:00 | BRL | Low | S&P Global Services PMI (Mar) | 50.1 |  | 53.1 |
-| 14:30 | CAD | Low | S&P Global Services PMI (Mar) | 47.20 |  | 46.50 |
-| 15:00 | USD | Low | CB Employment Trends Index (Mar) | 105.72 |  | 105.84 |
-| 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Mar) | 53.9 |  | 59.9 |
-| 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Mar) | 45.2 | 51.0 | 51.8 |
-| 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Mar) | 60.6 | 56.8 | 58.6 |
-| 15:00 | USD | High | ISM Non-Manufacturing PMI (Mar) | 54.0 | 54.8 | 56.1 |
-| 15:00 | USD | High | ISM Non-Manufacturing Prices (Mar) | 70.7 | 67.0 | 63.0 |
-| 16:30 | USD | Low | 3-Month Bill Auction | 3.635% |  | 3.620% |
-| 16:30 | USD | Low | 6-Month Bill Auction | 3.615% |  | 3.605% |
-| 18:00 | USD | High | U.S. President Trump Speaks |  |  |  |
+| 00:00 | AUD | Low | S&P Global Manufacturing & Services PMI (Mar) | 46.60 | 47.00 | 52.40 |
+| 00:00 | AUD | Low | S&P Global Services PMI (Mar) | 46.3 | 46.6 | 52.8 |
+| 14 min | JPY | Low | Average Cash Earnings (YoY) (Feb) |  | 2.7% | 3.0% |
+| 14 min | JPY | Moderate | Household Spending (YoY) (Feb) |  | -0.8% | -1.0% |
+| 14 min | JPY | Moderate | Household Spending (MoM) (Feb) |  | 2.6% | -2.5% |
+| 34 min | JPY | Low | Foreign Reserves (USD) (Mar) |  |  | 1,410.7B |
+| 02:00 | AUD | Low | MI Inflation Gauge (MoM) (Mar) |  |  | -0.2% |
+| 02:00 | NZD | Low | ANZ Commodity Price Index (MoM) |  |  | 4.2% |
+| 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (Mar) |  |  | 3.2% |
+| 04:35 | JPY | Low | 30-Year JGB Auction |  |  | 3.398% |
+| 06:00 | JPY | Low | Coincident Indicator (MoM) (Feb) |  |  | 3.4% |
+| 06:00 | JPY | Low | Leading Index (Feb) |  | 112.3 | 112.1 |
+| 06:00 | JPY | Low | Leading Index (MoM) (Feb) |  |  | 1.7% |
+| 08:00 | CHF | Low | Foreign Reserves (USD) (Mar) |  |  | 710,029.0B |
+| 08:15 | EUR | Moderate | HCOB Spain Services PMI (Mar) |  | 50.5 | 51.9 |
+| 08:15 | ZAR | Low | S&P Global Manufacturing PMI (Mar) |  |  | 50.0 |
+| 08:45 | EUR | Low | HCOB Italy Composite PMI (Mar) |  |  | 52.1 |
+| 08:45 | EUR | Moderate | HCOB Italy Services PMI (Mar) |  | 50.8 | 52.3 |
+| 08:50 | EUR | Low | HCOB France Composite PMI (Mar) |  | 48.3 | 49.9 |
+| 08:50 | EUR | Moderate | HCOB France Services PMI (Mar) |  | 48.3 | 49.6 |
+| 08:55 | EUR | Low | HCOB Germany Composite PMI (Mar) |  | 51.9 | 53.2 |
+| 08:55 | EUR | Moderate | HCOB Germany Services PMI (Mar) |  | 51.2 | 53.5 |
+| 09:00 | GBP | Low | Car Registration (YoY) (Mar) |  |  | 7.2% |
+| 09:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Mar) |  |  | 90,100.0 |
+| 09:00 | CNY | Low | FX Reserves (USD) (Mar) |  | 3.400T | 3.428T |
+| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Mar) |  | 50.5 | 51.9 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Mar) |  | 50.1 | 51.9 |
+| 09:30 | GBP | Moderate | S&P Global Composite PMI (Mar) |  | 51.0 | 53.7 |
+| 09:30 | GBP | Moderate | S&P Global Services PMI (Mar) |  | 51.2 | 53.9 |
+| 09:30 | EUR | Low | Sentix Investor Confidence (Apr) |  | -7.5 | -3.1 |
+| 09:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.121% |
+| 09:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 2.059% |
+| 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Mar) |  |  | 416.1B |
+| 13:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 0.1% |
+| 13:00 | USD | Low | Milk Auctions |  |  | 4,330.0 |
+| 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 10.00K |
+| 13:15 | CAD | Low | Reserve Assets Total (Mar) |  |  | 128.1B |
+| 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Feb) |  | 0.5% | 0.4% |
+| 13:30 | USD | High | Durable Goods Orders (MoM) (Feb) |  | -1.0% | 0.0% |
+| 13:30 | USD | Low | Durables Excluding Defense (MoM) (Feb) |  |  | 0.5% |
+| 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Feb) |  |  | 0.1% |
+| 13:55 | USD | Low | Redbook (YoY) |  |  | 6.9% |
+| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.660% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.238% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.407% |
+| 15:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 1.6% | 1.6% |
+| 15:00 | CAD | Low | Ivey PMI n.s.a (Mar) |  |  | 56.3 |
+| 15:00 | CAD | Moderate | Ivey PMI (Mar) |  | 57.2 | 56.6 |
+| 15:10 | USD | Low | IBD/TIPP Economic Optimism (Apr) |  | 48.1 | 47.5 |
+| 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations |  |  | 3.0% |
+| 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
+| 17:35 | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 3.579% |
+| 19:00 | BRL | Low | Trade Balance (Mar) |  | 7.40B | 4.21B |
+| 20:00 | USD | Moderate | Consumer Credit (Feb) |  | 11.40B | 8.05B |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 10.263M |
+| 22:50 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
