@@ -12,8 +12,8 @@
 | 14:00 | BRL | S&P Global Composite PMI (Mar) | 49.9 |  | 51.3 |
 | 14:00 | BRL | S&P Global Services PMI (Mar) | 50.1 |  | 53.1 |
 | 14:30 | CAD | S&P Global Services PMI (Mar) | 47.20 |  | 46.50 |
-| 15:00 | USD | CB Employment Trends Index (Mar) |  |  | 105.37 |
-| 15:00 | USD | ISM Non-Manufacturing Business Activity (Mar) |  |  | 59.9 |
-| 15:00 | USD | ISM Non-Manufacturing New Orders (Mar) |  |  | 58.6 |
+| 15:00 | USD | CB Employment Trends Index (Mar) | 105.72 |  | 105.84 |
+| 15:00 | USD | ISM Non-Manufacturing Business Activity (Mar) | 53.9 |  | 59.9 |
+| 15:00 | USD | ISM Non-Manufacturing New Orders (Mar) | 60.6 | 56.8 | 58.6 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 3.620% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 3.605% |
