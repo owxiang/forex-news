@@ -7,7 +7,7 @@
 | 06:00 | SGD | Low | Retail Sales (MoM) (Feb) | -4.1% |  | 6.0% |
 | 06:00 | SGD | Low | Retail Sales (YoY) (Feb) | 8.3% |  | -0.5% |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change (Mar) | -22.9K | 10.3K | 3.6K |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 55 min | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Jan) |  |  | 0.50% |
 | 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jan) |  |  | 0.00% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.660% |
