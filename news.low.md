@@ -15,5 +15,5 @@
 | 15:00 | USD | CB Employment Trends Index (Mar) | 105.72 |  | 105.84 |
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Mar) | 53.9 |  | 59.9 |
 | 15:00 | USD | ISM Non-Manufacturing New Orders (Mar) | 60.6 | 56.8 | 58.6 |
-| 8 min | USD | 3-Month Bill Auction |  |  | 3.620% |
-| 8 min | USD | 6-Month Bill Auction |  |  | 3.605% |
+| 16:30 | USD | 3-Month Bill Auction | 3.635% |  | 3.620% |
+| 16:30 | USD | 6-Month Bill Auction | 3.615% |  | 3.605% |
