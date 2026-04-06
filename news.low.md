@@ -6,11 +6,11 @@
 | 06:00 | INR | HSBC Manufacturing & Services PMI (Mar) | 57.00 | 56.50 | 56.50 |
 | 06:00 | SGD | Retail Sales (MoM) (Feb) | -4.1% |  | 6.0% |
 | 06:00 | SGD | Retail Sales (YoY) (Feb) | 8.3% |  | -0.5% |
-| 2 min | BRL | BCB Focus Market Readout |  |  |  |
-| 37 min | MXN | Gross Fixed Investments (MoM) (Jan) |  |  | 0.50% |
-| 37 min | MXN | Gross Fixed Investments (YoY) (Jan) |  |  | 0.00% |
-| 14:00 | BRL | S&P Global Composite PMI (Mar) |  |  | 51.3 |
-| 14:00 | BRL | S&P Global Services PMI (Mar) |  |  | 53.1 |
+| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 13:00 | MXN | Gross Fixed Investments (MoM) (Jan) | -1.10% |  | 0.50% |
+| 13:00 | MXN | Gross Fixed Investments (YoY) (Jan) | -3.30% |  | 0.00% |
+| 33 min | BRL | S&P Global Composite PMI (Mar) |  |  | 51.3 |
+| 33 min | BRL | S&P Global Services PMI (Mar) |  |  | 53.1 |
 | 14:30 | CAD | S&P Global Services PMI (Mar) |  |  | 46.50 |
 | 15:00 | USD | CB Employment Trends Index (Mar) |  |  | 105.37 |
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Mar) |  |  | 59.9 |
