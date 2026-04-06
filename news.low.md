@@ -7,11 +7,11 @@
 | 06:00 | SGD | Retail Sales (MoM) (Feb) | -4.1% |  | 6.0% |
 | 06:00 | SGD | Retail Sales (YoY) (Feb) | 8.3% |  | -0.5% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | MXN | Gross Fixed Investments (MoM) (Jan) | -1.10% |  | 0.50% |
-| 13:00 | MXN | Gross Fixed Investments (YoY) (Jan) | -3.30% |  | 0.00% |
-| 33 min | BRL | S&P Global Composite PMI (Mar) |  |  | 51.3 |
-| 33 min | BRL | S&P Global Services PMI (Mar) |  |  | 53.1 |
-| 14:30 | CAD | S&P Global Services PMI (Mar) |  |  | 46.50 |
+| 13:00 | MXN | Gross Fixed Investments (MoM) (Jan) | -1.10% | -0.80% | 0.50% |
+| 13:00 | MXN | Gross Fixed Investments (YoY) (Jan) | -3.30% | -2.10% | 0.00% |
+| 14:00 | BRL | S&P Global Composite PMI (Mar) | 49.9 |  | 51.3 |
+| 14:00 | BRL | S&P Global Services PMI (Mar) | 50.1 |  | 53.1 |
+| 14:30 | CAD | S&P Global Services PMI (Mar) | 47.20 |  | 46.50 |
 | 15:00 | USD | CB Employment Trends Index (Mar) |  |  | 105.37 |
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Mar) |  |  | 59.9 |
 | 15:00 | USD | ISM Non-Manufacturing New Orders (Mar) |  |  | 58.6 |
