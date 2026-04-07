@@ -36,4 +36,5 @@
 | 15:00 | CAD | Ivey PMI n.s.a (Mar) | 56.5 |  | 56.3 |
 | 15:10 | USD | IBD/TIPP Economic Optimism (Apr) | 42.8 | 48.1 | 47.5 |
 | 17:35 | USD | Fed Goolsbee Speaks |  |  |  |
+| 19:00 | BRL | Trade Balance (Mar) | 6.41B |  | 4.21B |
 | 22:50 | USD | Fed Governor Jefferson Speaks |  |  |  |

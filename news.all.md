@@ -54,6 +54,7 @@
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 17:35 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 18:00 | USD | Moderate | 3-Year Note Auction | 3.897% |  | 3.579% |
+| 19:00 | BRL | Low | Trade Balance (Mar) | 6.41B |  | 4.21B |
 | 20:00 | USD | Moderate | Consumer Credit (Feb) |  | 10.50B | 8.05B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 10.263M |
 | 22:50 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
