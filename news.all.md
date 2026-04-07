@@ -14,30 +14,26 @@
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Feb) | -1.6% |  | 3.4% |
 | 06:00 | JPY | Low | Leading Index (Feb) | 112.4 | 112.4 | 112.1 |
 | 06:00 | JPY | Low | Leading Index (MoM) (Feb) | 0.3% |  | 1.7% |
-| 21 min | CHF | Low | Foreign Reserves (USD) (Mar) |  |  | 710.0B |
-| 36 min | EUR | Moderate | HCOB Spain Services PMI (Mar) |  | 50.7 | 51.9 |
-| 36 min | ZAR | Low | S&P Global Manufacturing PMI (Mar) |  |  | 50.0 |
-| 08:45 | EUR | Low | HCOB Italy Composite PMI (Mar) |  |  | 52.1 |
-| 08:45 | EUR | Moderate | HCOB Italy Services PMI (Mar) |  | 51.0 | 52.3 |
-| 08:50 | EUR | Low | HCOB France Composite PMI (Mar) |  | 48.3 | 49.9 |
-| 08:50 | EUR | Moderate | HCOB France Services PMI (Mar) |  | 48.3 | 49.6 |
-| 08:55 | EUR | Low | HCOB Germany Composite PMI (Mar) |  | 51.9 | 53.2 |
-| 08:55 | EUR | Moderate | HCOB Germany Services PMI (Mar) |  | 51.2 | 53.5 |
-| 09:00 | GBP | Low | Car Registration (YoY) (Mar) |  |  | 7.2% |
-| 09:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Mar) |  |  | 90,100.0 |
-| 09:00 | CNY | Low | FX Reserves (USD) (Mar) |  | 3.400T | 3.428T |
-| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Mar) |  | 50.5 | 51.9 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Mar) |  | 50.1 | 51.9 |
-| 09:30 | GBP | Moderate | S&P Global Composite PMI (Mar) |  | 51.0 | 53.7 |
-| 09:30 | GBP | Moderate | S&P Global Services PMI (Mar) |  | 51.2 | 53.9 |
-| 09:30 | EUR | Low | Sentix Investor Confidence (Apr) |  | -7.5 | -3.1 |
+| 08:00 | CHF | Low | Foreign Reserves (USD) (Mar) | 721.2B |  | 710.1B |
+| 08:15 | EUR | Moderate | HCOB Spain Services PMI (Mar) | 53.3 | 50.7 | 51.9 |
+| 08:15 | ZAR | Low | S&P Global Manufacturing PMI (Mar) | 50.8 |  | 50.0 |
+| 8 min | EUR | Low | HCOB Italy Composite PMI (Mar) |  |  | 52.1 |
+| 8 min | EUR | Moderate | HCOB Italy Services PMI (Mar) |  | 51.0 | 52.3 |
+| 13 min | EUR | Low | HCOB France Composite PMI (Mar) |  | 48.3 | 49.9 |
+| 13 min | EUR | Moderate | HCOB France Services PMI (Mar) |  | 48.3 | 49.6 |
+| 18 min | EUR | Low | HCOB Germany Composite PMI (Mar) |  | 51.9 | 53.2 |
+| 18 min | EUR | Moderate | HCOB Germany Services PMI (Mar) |  | 51.2 | 53.5 |
+| 23 min | GBP | Low | Car Registration (YoY) (Mar) |  |  | 7.2% |
+| 23 min | GBP | Low | United Kingdom New Passenger Cars Registration (Mar) |  |  | 90,100.0 |
+| 23 min | CNY | Low | FX Reserves (USD) (Mar) |  | 3.400T | 3.428T |
+| 23 min | EUR | Moderate | HCOB Eurozone Composite PMI (Mar) |  | 50.5 | 51.9 |
+| 23 min | EUR | Moderate | HCOB Eurozone Services PMI (Mar) |  | 50.1 | 51.9 |
+| 53 min | GBP | Moderate | S&P Global Composite PMI (Mar) |  | 51.0 | 53.7 |
+| 53 min | GBP | Moderate | S&P Global Services PMI (Mar) |  | 51.2 | 53.9 |
+| 53 min | EUR | Low | Sentix Investor Confidence (Apr) |  | -7.5 | -3.1 |
 | 09:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.121% |
-| 09:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.121% |
-| 09:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 2.059% |
 | 09:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 2.059% |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Mar) |  |  | 416.1B |
-| 13:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 0.1% |
-| 13:00 | USD | Low | Milk Auctions |  |  | 4,330.0 |
 | 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 10.00K |
 | 13:15 | CAD | Low | Reserve Assets Total (Mar) |  |  | 128.1B |
 | 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Feb) |  | 0.5% | 0.4% |
@@ -55,6 +51,8 @@
 | 15:00 | BRL | Low | Auto Sales (MoM) |  |  | 8.6% |
 | 15:10 | USD | Low | IBD/TIPP Economic Optimism (Apr) |  | 48.1 | 47.5 |
 | 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations |  |  | 3.0% |
+| 16:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 0.1% |
+| 16:00 | USD | Low | Milk Auctions |  |  | 4,330.0 |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 17:35 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 3.579% |

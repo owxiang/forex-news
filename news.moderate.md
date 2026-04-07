@@ -4,14 +4,14 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | Household Spending (YoY) (Feb) | -1.8% | -0.8% | -1.0% |
 | 00:30 | JPY | Household Spending (MoM) (Feb) | 1.5% | 2.6% | -2.5% |
-| 36 min | EUR | HCOB Spain Services PMI (Mar) |  | 50.7 | 51.9 |
-| 08:45 | EUR | HCOB Italy Services PMI (Mar) |  | 51.0 | 52.3 |
-| 08:50 | EUR | HCOB France Services PMI (Mar) |  | 48.3 | 49.6 |
-| 08:55 | EUR | HCOB Germany Services PMI (Mar) |  | 51.2 | 53.5 |
-| 09:00 | EUR | HCOB Eurozone Composite PMI (Mar) |  | 50.5 | 51.9 |
-| 09:00 | EUR | HCOB Eurozone Services PMI (Mar) |  | 50.1 | 51.9 |
-| 09:30 | GBP | S&P Global Composite PMI (Mar) |  | 51.0 | 53.7 |
-| 09:30 | GBP | S&P Global Services PMI (Mar) |  | 51.2 | 53.9 |
+| 08:15 | EUR | HCOB Spain Services PMI (Mar) | 53.3 | 50.7 | 51.9 |
+| 8 min | EUR | HCOB Italy Services PMI (Mar) |  | 51.0 | 52.3 |
+| 13 min | EUR | HCOB France Services PMI (Mar) |  | 48.3 | 49.6 |
+| 18 min | EUR | HCOB Germany Services PMI (Mar) |  | 51.2 | 53.5 |
+| 23 min | EUR | HCOB Eurozone Composite PMI (Mar) |  | 50.5 | 51.9 |
+| 23 min | EUR | HCOB Eurozone Services PMI (Mar) |  | 50.1 | 51.9 |
+| 53 min | GBP | S&P Global Composite PMI (Mar) |  | 51.0 | 53.7 |
+| 53 min | GBP | S&P Global Services PMI (Mar) |  | 51.2 | 53.9 |
 | 13:15 | USD | ADP Employment Change Weekly |  |  | 10.00K |
 | 13:30 | USD | Core Durable Goods Orders (MoM) (Feb) |  | 0.5% | 0.4% |
 | 15:00 | USD | Atlanta Fed GDPNow (Q1) |  | 1.6% | 1.6% |

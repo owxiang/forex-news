@@ -12,22 +12,18 @@
 | 06:00 | JPY | Coincident Indicator (MoM) (Feb) | -1.6% |  | 3.4% |
 | 06:00 | JPY | Leading Index (Feb) | 112.4 | 112.4 | 112.1 |
 | 06:00 | JPY | Leading Index (MoM) (Feb) | 0.3% |  | 1.7% |
-| 21 min | CHF | Foreign Reserves (USD) (Mar) |  |  | 710.0B |
-| 36 min | ZAR | S&P Global Manufacturing PMI (Mar) |  |  | 50.0 |
-| 08:45 | EUR | HCOB Italy Composite PMI (Mar) |  |  | 52.1 |
-| 08:50 | EUR | HCOB France Composite PMI (Mar) |  | 48.3 | 49.9 |
-| 08:55 | EUR | HCOB Germany Composite PMI (Mar) |  | 51.9 | 53.2 |
-| 09:00 | GBP | Car Registration (YoY) (Mar) |  |  | 7.2% |
-| 09:00 | GBP | United Kingdom New Passenger Cars Registration (Mar) |  |  | 90,100.0 |
-| 09:00 | CNY | FX Reserves (USD) (Mar) |  | 3.400T | 3.428T |
-| 09:30 | EUR | Sentix Investor Confidence (Apr) |  | -7.5 | -3.1 |
+| 08:00 | CHF | Foreign Reserves (USD) (Mar) | 721.2B |  | 710.1B |
+| 08:15 | ZAR | S&P Global Manufacturing PMI (Mar) | 50.8 |  | 50.0 |
+| 8 min | EUR | HCOB Italy Composite PMI (Mar) |  |  | 52.1 |
+| 13 min | EUR | HCOB France Composite PMI (Mar) |  | 48.3 | 49.9 |
+| 18 min | EUR | HCOB Germany Composite PMI (Mar) |  | 51.9 | 53.2 |
+| 23 min | GBP | Car Registration (YoY) (Mar) |  |  | 7.2% |
+| 23 min | GBP | United Kingdom New Passenger Cars Registration (Mar) |  |  | 90,100.0 |
+| 23 min | CNY | FX Reserves (USD) (Mar) |  | 3.400T | 3.428T |
+| 53 min | EUR | Sentix Investor Confidence (Apr) |  | -7.5 | -3.1 |
 | 09:40 | EUR | Spanish 12-Month Letras Auction |  |  | 2.121% |
-| 09:40 | EUR | Spanish 12-Month Letras Auction |  |  | 2.121% |
-| 09:40 | EUR | Spanish 6-Month Letras Auction |  |  | 2.059% |
 | 09:40 | EUR | Spanish 6-Month Letras Auction |  |  | 2.059% |
 | 10:00 | SGD | Foreign Reserves USD (MoM) (Mar) |  |  | 416.1B |
-| 13:00 | NZD | GlobalDairyTrade Price Index |  |  | 0.1% |
-| 13:00 | USD | Milk Auctions |  |  | 4,330.0 |
 | 13:15 | CAD | Reserve Assets Total (Mar) |  |  | 128.1B |
 | 13:30 | USD | Durables Excluding Defense (MoM) (Feb) |  |  | 0.5% |
 | 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Feb) |  |  | 0.1% |
@@ -39,6 +35,8 @@
 | 15:00 | BRL | Auto Production (MoM) |  |  | 24.9% |
 | 15:00 | BRL | Auto Sales (MoM) |  |  | 8.6% |
 | 15:10 | USD | IBD/TIPP Economic Optimism (Apr) |  | 48.1 | 47.5 |
+| 16:00 | NZD | GlobalDairyTrade Price Index |  |  | 0.1% |
+| 16:00 | USD | Milk Auctions |  |  | 4,330.0 |
 | 17:35 | USD | Fed Goolsbee Speaks |  |  |  |
 | 19:00 | BRL | Trade Balance (Mar) |  | 7.40B | 4.21B |
 | 22:50 | USD | Fed Governor Jefferson Speaks |  |  |  |
