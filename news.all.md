@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | AUD | Low | S&P Global Manufacturing & Services PMI (Mar) | 46.60 | 47.00 | 52.40 |
 | 00:00 | AUD | Low | S&P Global Services PMI (Mar) | 46.3 | 46.6 | 52.8 |
-| 00:30 | JPY | Moderate | Household Spending (YoY) (Feb) | -1.8% | -0.8% | -1.0% |
 | 00:30 | JPY | Moderate | Household Spending (MoM) (Feb) | 1.5% | 2.6% | -2.5% |
+| 00:30 | JPY | Moderate | Household Spending (YoY) (Feb) | -1.8% | -0.8% | -1.0% |
 | 00:50 | JPY | Low | Foreign Reserves (USD) (Mar) | 1,374.7B |  | 1,410.7B |
 | 02:00 | AUD | Low | MI Inflation Gauge (MoM) (Mar) | 1.3% |  | -0.2% |
 | 02:00 | NZD | Low | ANZ Commodity Price Index (MoM) | 4.1% |  | 4.2% |
@@ -52,11 +52,8 @@
 | 15:10 | USD | Low | IBD/TIPP Economic Optimism (Apr) | 42.8 | 48.1 | 47.5 |
 | 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations | 3.4% |  | 3.0% |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
-| 7 min | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 32 min | USD | Moderate | 3-Year Note Auction |  |  | 3.579% |
-| 32 min | BRL | Low | Auto Production (MoM) |  |  | 24.9% |
-| 32 min | BRL | Low | Auto Sales (MoM) |  |  | 8.6% |
-| 19:00 | BRL | Low | Trade Balance (Mar) |  | 7.40B | 4.21B |
+| 17:35 | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 18:00 | USD | Moderate | 3-Year Note Auction | 3.897% |  | 3.579% |
 | 20:00 | USD | Moderate | Consumer Credit (Feb) |  | 10.50B | 8.05B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 10.263M |
 | 22:50 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
