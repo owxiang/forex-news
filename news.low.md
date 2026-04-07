@@ -4,11 +4,10 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | AUD | S&P Global Manufacturing & Services PMI (Mar) | 46.60 | 47.00 | 52.40 |
 | 00:00 | AUD | S&P Global Services PMI (Mar) | 46.3 | 46.6 | 52.8 |
-| 14 min | JPY | Average Cash Earnings (YoY) (Feb) |  | 2.7% | 3.0% |
-| 34 min | JPY | Foreign Reserves (USD) (Mar) |  |  | 1,410.7B |
-| 02:00 | AUD | MI Inflation Gauge (MoM) (Mar) |  |  | -0.2% |
-| 02:00 | NZD | ANZ Commodity Price Index (MoM) |  |  | 4.2% |
-| 02:30 | AUD | ANZ Job Advertisements (MoM) (Mar) |  |  | 3.2% |
+| 00:50 | JPY | Foreign Reserves (USD) (Mar) | 1,374.7B |  | 1,410.7B |
+| 14 min | AUD | MI Inflation Gauge (MoM) (Mar) |  |  | -0.2% |
+| 14 min | NZD | ANZ Commodity Price Index (MoM) |  |  | 4.2% |
+| 44 min | AUD | ANZ Job Advertisements (MoM) (Mar) |  |  | 3.2% |
 | 04:35 | JPY | 30-Year JGB Auction |  |  | 3.398% |
 | 06:00 | JPY | Coincident Indicator (MoM) (Feb) |  |  | 3.4% |
 | 06:00 | JPY | Leading Index (Feb) |  | 112.3 | 112.1 |

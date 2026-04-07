@@ -4,13 +4,12 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | AUD | Low | S&P Global Manufacturing & Services PMI (Mar) | 46.60 | 47.00 | 52.40 |
 | 00:00 | AUD | Low | S&P Global Services PMI (Mar) | 46.3 | 46.6 | 52.8 |
-| 14 min | JPY | Low | Average Cash Earnings (YoY) (Feb) |  | 2.7% | 3.0% |
-| 14 min | JPY | Moderate | Household Spending (YoY) (Feb) |  | -0.8% | -1.0% |
-| 14 min | JPY | Moderate | Household Spending (MoM) (Feb) |  | 2.6% | -2.5% |
-| 34 min | JPY | Low | Foreign Reserves (USD) (Mar) |  |  | 1,410.7B |
-| 02:00 | AUD | Low | MI Inflation Gauge (MoM) (Mar) |  |  | -0.2% |
-| 02:00 | NZD | Low | ANZ Commodity Price Index (MoM) |  |  | 4.2% |
-| 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (Mar) |  |  | 3.2% |
+| 00:30 | JPY | Moderate | Household Spending (MoM) (Feb) | 1.5% | 2.6% | -2.5% |
+| 00:30 | JPY | Moderate | Household Spending (YoY) (Feb) | -1.8% | -0.8% | -1.0% |
+| 00:50 | JPY | Low | Foreign Reserves (USD) (Mar) | 1,374.7B |  | 1,410.7B |
+| 14 min | AUD | Low | MI Inflation Gauge (MoM) (Mar) |  |  | -0.2% |
+| 14 min | NZD | Low | ANZ Commodity Price Index (MoM) |  |  | 4.2% |
+| 44 min | AUD | Low | ANZ Job Advertisements (MoM) (Mar) |  |  | 3.2% |
 | 04:35 | JPY | Low | 30-Year JGB Auction |  |  | 3.398% |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Feb) |  |  | 3.4% |
 | 06:00 | JPY | Low | Leading Index (Feb) |  | 112.3 | 112.1 |

@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 14 min | JPY | Household Spending (YoY) (Feb) |  | -0.8% | -1.0% |
-| 14 min | JPY | Household Spending (MoM) (Feb) |  | 2.6% | -2.5% |
+| 00:30 | JPY | Household Spending (MoM) (Feb) | 1.5% | 2.6% | -2.5% |
+| 00:30 | JPY | Household Spending (YoY) (Feb) | -1.8% | -0.8% | -1.0% |
 | 08:15 | EUR | HCOB Spain Services PMI (Mar) |  | 50.5 | 51.9 |
 | 08:45 | EUR | HCOB Italy Services PMI (Mar) |  | 50.8 | 52.3 |
 | 08:50 | EUR | HCOB France Services PMI (Mar) |  | 48.3 | 49.6 |
