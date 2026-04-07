@@ -12,7 +12,7 @@
 | 09:00 | EUR | HCOB Eurozone Services PMI (Mar) | 50.2 | 50.1 | 51.9 |
 | 09:30 | GBP | S&P Global Composite PMI (Mar) | 50.3 | 51.0 | 53.7 |
 | 09:30 | GBP | S&P Global Services PMI (Mar) | 50.5 | 51.2 | 53.9 |
-| 51 min | USD | ADP Employment Change Weekly |  |  | 10.00K |
+| 13:15 | USD | ADP Employment Change Weekly | 26.00K |  | 15.25K |
 | 13:30 | USD | Core Durable Goods Orders (MoM) (Feb) |  | 0.5% | 0.4% |
 | 15:00 | USD | Atlanta Fed GDPNow (Q1) |  | 1.6% | 1.6% |
 | 15:00 | CAD | Ivey PMI (Mar) |  | 55.9 | 56.6 |

@@ -24,13 +24,13 @@
 | 09:40 | EUR | Spanish 12-Month Letras Auction | 2.611% |  | 2.121% |
 | 09:40 | EUR | Spanish 6-Month Letras Auction | 2.362% |  | 2.059% |
 | 10:00 | SGD | Foreign Reserves USD (MoM) (Mar) | 419.2B |  | 416.1B |
-| 51 min | CAD | Reserve Assets Total (Mar) |  |  | 128.1B |
+| 13:15 | CAD | Reserve Assets Total (Mar) | 126.8B |  | 128.1B |
 | 13:30 | USD | Durables Excluding Defense (MoM) (Feb) |  |  | 0.5% |
 | 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Feb) |  |  | 0.1% |
-| 13:55 | USD | Redbook (YoY) |  |  | 6.9% |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.660% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.238% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.407% |
+| 26 min | USD | Redbook (YoY) |  |  | 6.9% |
+| 31 min | EUR | French 12-Month BTF Auction |  |  | 2.660% |
+| 31 min | EUR | French 3-Month BTF Auction |  |  | 2.238% |
+| 31 min | EUR | French 6-Month BTF Auction |  |  | 2.407% |
 | 15:00 | CAD | Ivey PMI n.s.a (Mar) |  |  | 56.3 |
 | 15:00 | BRL | Auto Production (MoM) |  |  | 24.9% |
 | 15:00 | BRL | Auto Sales (MoM) |  |  | 8.6% |

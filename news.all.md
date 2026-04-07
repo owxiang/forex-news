@@ -34,16 +34,16 @@
 | 09:40 | EUR | Low | Spanish 12-Month Letras Auction | 2.611% |  | 2.121% |
 | 09:40 | EUR | Low | Spanish 6-Month Letras Auction | 2.362% |  | 2.059% |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Mar) | 419.2B |  | 416.1B |
-| 51 min | USD | Moderate | ADP Employment Change Weekly |  |  | 10.00K |
-| 51 min | CAD | Low | Reserve Assets Total (Mar) |  |  | 128.1B |
+| 13:15 | USD | Moderate | ADP Employment Change Weekly | 26.00K |  | 15.25K |
+| 13:15 | CAD | Low | Reserve Assets Total (Mar) | 126.8B |  | 128.1B |
 | 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Feb) |  | 0.5% | 0.4% |
 | 13:30 | USD | High | Durable Goods Orders (MoM) (Feb) |  | -1.1% | 0.0% |
 | 13:30 | USD | Low | Durables Excluding Defense (MoM) (Feb) |  |  | 0.5% |
 | 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Feb) |  |  | 0.1% |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 6.9% |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.660% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.238% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.407% |
+| 26 min | USD | Low | Redbook (YoY) |  |  | 6.9% |
+| 31 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.660% |
+| 31 min | EUR | Low | French 3-Month BTF Auction |  |  | 2.238% |
+| 31 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.407% |
 | 15:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 1.6% | 1.6% |
 | 15:00 | CAD | Low | Ivey PMI n.s.a (Mar) |  |  | 56.3 |
 | 15:00 | CAD | Moderate | Ivey PMI (Mar) |  | 55.9 | 56.6 |
