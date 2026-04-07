@@ -36,20 +36,20 @@
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Mar) | 419.2B |  | 416.1B |
 | 13:15 | USD | Moderate | ADP Employment Change Weekly | 26.00K |  | 15.25K |
 | 13:15 | CAD | Low | Reserve Assets Total (Mar) | 126.8B |  | 128.1B |
-| 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Feb) |  | 0.5% | 0.4% |
-| 13:30 | USD | High | Durable Goods Orders (MoM) (Feb) |  | -1.1% | 0.0% |
-| 13:30 | USD | Low | Durables Excluding Defense (MoM) (Feb) |  |  | 0.5% |
-| 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Feb) |  |  | 0.1% |
-| 26 min | USD | Low | Redbook (YoY) |  |  | 6.9% |
-| 31 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.660% |
-| 31 min | EUR | Low | French 3-Month BTF Auction |  |  | 2.238% |
-| 31 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.407% |
-| 15:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 1.6% | 1.6% |
-| 15:00 | CAD | Low | Ivey PMI n.s.a (Mar) |  |  | 56.3 |
-| 15:00 | CAD | Moderate | Ivey PMI (Mar) |  | 55.9 | 56.6 |
-| 15:00 | BRL | Low | Auto Production (MoM) |  |  | 24.9% |
-| 15:00 | BRL | Low | Auto Sales (MoM) |  |  | 8.6% |
-| 15:10 | USD | Low | IBD/TIPP Economic Optimism (Apr) |  | 48.1 | 47.5 |
+| 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Feb) | 0.8% | 0.5% | 0.3% |
+| 13:30 | USD | High | Durable Goods Orders (MoM) (Feb) | -1.4% | -1.1% | -0.5% |
+| 13:30 | USD | Low | Durables Excluding Defense (MoM) (Feb) | -1.2% |  | 0.2% |
+| 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Feb) | 0.6% |  | -0.4% |
+| 13:55 | USD | Low | Redbook (YoY) | 7.6% |  | 6.9% |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.694% |  | 2.660% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.253% |  | 2.238% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.509% |  | 2.407% |
+| 23 min | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 1.6% | 1.6% |
+| 23 min | CAD | Low | Ivey PMI n.s.a (Mar) |  |  | 56.3 |
+| 23 min | CAD | Moderate | Ivey PMI (Mar) |  | 55.9 | 56.6 |
+| 23 min | BRL | Low | Auto Production (MoM) |  |  | 24.9% |
+| 23 min | BRL | Low | Auto Sales (MoM) |  |  | 8.6% |
+| 33 min | USD | Low | IBD/TIPP Economic Optimism (Apr) |  | 48.1 | 47.5 |
 | 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations |  |  | 3.0% |
 | 16:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 0.1% |
 | 16:00 | USD | Low | Milk Auctions |  |  | 4,330.0 |

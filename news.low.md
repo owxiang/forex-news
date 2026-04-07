@@ -25,16 +25,16 @@
 | 09:40 | EUR | Spanish 6-Month Letras Auction | 2.362% |  | 2.059% |
 | 10:00 | SGD | Foreign Reserves USD (MoM) (Mar) | 419.2B |  | 416.1B |
 | 13:15 | CAD | Reserve Assets Total (Mar) | 126.8B |  | 128.1B |
-| 13:30 | USD | Durables Excluding Defense (MoM) (Feb) |  |  | 0.5% |
-| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Feb) |  |  | 0.1% |
-| 26 min | USD | Redbook (YoY) |  |  | 6.9% |
-| 31 min | EUR | French 12-Month BTF Auction |  |  | 2.660% |
-| 31 min | EUR | French 3-Month BTF Auction |  |  | 2.238% |
-| 31 min | EUR | French 6-Month BTF Auction |  |  | 2.407% |
-| 15:00 | CAD | Ivey PMI n.s.a (Mar) |  |  | 56.3 |
-| 15:00 | BRL | Auto Production (MoM) |  |  | 24.9% |
-| 15:00 | BRL | Auto Sales (MoM) |  |  | 8.6% |
-| 15:10 | USD | IBD/TIPP Economic Optimism (Apr) |  | 48.1 | 47.5 |
+| 13:30 | USD | Durables Excluding Defense (MoM) (Feb) | -1.2% |  | 0.2% |
+| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Feb) | 0.6% |  | -0.4% |
+| 13:55 | USD | Redbook (YoY) | 7.6% |  | 6.9% |
+| 14:00 | EUR | French 12-Month BTF Auction | 2.694% |  | 2.660% |
+| 14:00 | EUR | French 3-Month BTF Auction | 2.253% |  | 2.238% |
+| 14:00 | EUR | French 6-Month BTF Auction | 2.509% |  | 2.407% |
+| 23 min | CAD | Ivey PMI n.s.a (Mar) |  |  | 56.3 |
+| 23 min | BRL | Auto Production (MoM) |  |  | 24.9% |
+| 23 min | BRL | Auto Sales (MoM) |  |  | 8.6% |
+| 33 min | USD | IBD/TIPP Economic Optimism (Apr) |  | 48.1 | 47.5 |
 | 16:00 | NZD | GlobalDairyTrade Price Index |  |  | 0.1% |
 | 16:00 | USD | Milk Auctions |  |  | 4,330.0 |
 | 17:35 | USD | Fed Goolsbee Speaks |  |  |  |
