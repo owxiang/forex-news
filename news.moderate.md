@@ -19,5 +19,5 @@
 | 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations | 3.4% |  | 3.0% |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 18:00 | USD | 3-Year Note Auction | 3.897% |  | 3.579% |
-| 20:00 | USD | Consumer Credit (Feb) |  | 10.50B | 8.05B |
+| 20:00 | USD | Consumer Credit (Feb) | 9.48B | 10.50B | 7.67B |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | 10.263M |
