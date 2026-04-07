@@ -8,7 +8,7 @@
 | 02:00 | AUD | MI Inflation Gauge (MoM) (Mar) | 1.3% |  | -0.2% |
 | 02:00 | NZD | ANZ Commodity Price Index (MoM) | 4.1% |  | 4.2% |
 | 02:30 | AUD | ANZ Job Advertisements (MoM) (Mar) | -3.1% |  | 3.2% |
-| 04:35 | JPY | 30-Year JGB Auction |  |  | 3.398% |
+| 24 min | JPY | 30-Year JGB Auction |  |  | 3.398% |
 | 06:00 | JPY | Coincident Indicator (MoM) (Feb) |  |  | 3.4% |
 | 06:00 | JPY | Leading Index (Feb) |  | 112.3 | 112.1 |
 | 06:00 | JPY | Leading Index (MoM) (Feb) |  |  | 1.7% |
