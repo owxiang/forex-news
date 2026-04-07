@@ -21,9 +21,9 @@
 | 09:00 | GBP | United Kingdom New Passenger Cars Registration (Mar) | 380,627.0 |  | 90,100.0 |
 | 09:00 | CNY | FX Reserves (USD) (Mar) | 3.342T | 3.400T | 3.428T |
 | 09:30 | EUR | Sentix Investor Confidence (Apr) | -19.2 | -7.5 | -3.1 |
-| 09:40 | EUR | Spanish 12-Month Letras Auction |  |  | 2.121% |
-| 09:40 | EUR | Spanish 6-Month Letras Auction |  |  | 2.059% |
-| 10:00 | SGD | Foreign Reserves USD (MoM) (Mar) |  |  | 416.1B |
+| 09:40 | EUR | Spanish 12-Month Letras Auction | 2.611% |  | 2.121% |
+| 09:40 | EUR | Spanish 6-Month Letras Auction | 2.362% |  | 2.059% |
+| 10:00 | SGD | Foreign Reserves USD (MoM) (Mar) | 419.2B |  | 416.1B |
 | 13:15 | CAD | Reserve Assets Total (Mar) |  |  | 128.1B |
 | 13:30 | USD | Durables Excluding Defense (MoM) (Feb) |  |  | 0.5% |
 | 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Feb) |  |  | 0.1% |

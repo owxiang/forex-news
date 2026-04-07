@@ -31,9 +31,9 @@
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (Mar) | 50.3 | 51.0 | 53.7 |
 | 09:30 | GBP | Moderate | S&P Global Services PMI (Mar) | 50.5 | 51.2 | 53.9 |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Apr) | -19.2 | -7.5 | -3.1 |
-| 09:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.121% |
-| 09:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 2.059% |
-| 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Mar) |  |  | 416.1B |
+| 09:40 | EUR | Low | Spanish 12-Month Letras Auction | 2.611% |  | 2.121% |
+| 09:40 | EUR | Low | Spanish 6-Month Letras Auction | 2.362% |  | 2.059% |
+| 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Mar) | 419.2B |  | 416.1B |
 | 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 10.00K |
 | 13:15 | CAD | Low | Reserve Assets Total (Mar) |  |  | 128.1B |
 | 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Feb) |  | 0.5% | 0.4% |
