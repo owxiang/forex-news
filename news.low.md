@@ -35,8 +35,8 @@
 | 14:00 | EUR | French 6-Month BTF Auction | 2.509% |  | 2.407% |
 | 15:00 | CAD | Ivey PMI n.s.a (Mar) | 56.5 |  | 56.3 |
 | 15:10 | USD | IBD/TIPP Economic Optimism (Apr) | 42.8 | 48.1 | 47.5 |
-| 17:00 | BRL | Auto Production (MoM) |  |  | 24.9% |
-| 17:00 | BRL | Auto Sales (MoM) |  |  | 8.6% |
-| 17:35 | USD | Fed Goolsbee Speaks |  |  |  |
+| 24 min | BRL | Auto Production (MoM) |  |  | 24.9% |
+| 24 min | BRL | Auto Sales (MoM) |  |  | 8.6% |
+| 59 min | USD | Fed Goolsbee Speaks |  |  |  |
 | 19:00 | BRL | Trade Balance (Mar) |  | 7.40B | 4.21B |
 | 22:50 | USD | Fed Governor Jefferson Speaks |  |  |  |

@@ -50,11 +50,11 @@
 | 15:00 | CAD | Low | Ivey PMI n.s.a (Mar) | 56.5 |  | 56.3 |
 | 15:00 | CAD | Moderate | Ivey PMI (Mar) | 49.7 | 55.9 | 56.6 |
 | 15:10 | USD | Low | IBD/TIPP Economic Optimism (Apr) | 42.8 | 48.1 | 47.5 |
-| 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations |  |  | 3.0% |
-| 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
-| 17:00 | BRL | Low | Auto Production (MoM) |  |  | 24.9% |
-| 17:00 | BRL | Low | Auto Sales (MoM) |  |  | 8.6% |
-| 17:35 | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations | 3.4% |  | 3.0% |
+| 24 min | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
+| 24 min | BRL | Low | Auto Production (MoM) |  |  | 24.9% |
+| 24 min | BRL | Low | Auto Sales (MoM) |  |  | 8.6% |
+| 59 min | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 3.579% |
 | 19:00 | BRL | Low | Trade Balance (Mar) |  | 7.40B | 4.21B |
 | 20:00 | USD | Moderate | Consumer Credit (Feb) |  | 10.50B | 8.05B |
