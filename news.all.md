@@ -57,4 +57,4 @@
 | 19:00 | BRL | Low | Trade Balance (Mar) | 6.41B |  | 4.04B |
 | 20:00 | USD | Moderate | Consumer Credit (Feb) | 9.48B | 10.50B | 7.67B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock | 3.719M |  | 10.263M |
-| 29 min | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
+| 22:50 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |

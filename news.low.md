@@ -37,4 +37,4 @@
 | 15:10 | USD | IBD/TIPP Economic Optimism (Apr) | 42.8 | 48.1 | 47.5 |
 | 17:35 | USD | Fed Goolsbee Speaks |  |  |  |
 | 19:00 | BRL | Trade Balance (Mar) | 6.41B |  | 4.04B |
-| 29 min | USD | Fed Governor Jefferson Speaks |  |  |  |
+| 22:50 | USD | Fed Governor Jefferson Speaks |  |  |  |
