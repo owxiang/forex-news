@@ -14,13 +14,13 @@
 | 06:00 | JPY | Leading Index (MoM) (Feb) | 0.3% |  | 1.7% |
 | 08:00 | CHF | Foreign Reserves (USD) (Mar) | 721.2B |  | 710.1B |
 | 08:15 | ZAR | S&P Global Manufacturing PMI (Mar) | 50.8 |  | 50.0 |
-| 8 min | EUR | HCOB Italy Composite PMI (Mar) |  |  | 52.1 |
-| 13 min | EUR | HCOB France Composite PMI (Mar) |  | 48.3 | 49.9 |
-| 18 min | EUR | HCOB Germany Composite PMI (Mar) |  | 51.9 | 53.2 |
-| 23 min | GBP | Car Registration (YoY) (Mar) |  |  | 7.2% |
-| 23 min | GBP | United Kingdom New Passenger Cars Registration (Mar) |  |  | 90,100.0 |
-| 23 min | CNY | FX Reserves (USD) (Mar) |  | 3.400T | 3.428T |
-| 53 min | EUR | Sentix Investor Confidence (Apr) |  | -7.5 | -3.1 |
+| 08:45 | EUR | HCOB Italy Composite PMI (Mar) | 49.2 |  | 52.1 |
+| 08:50 | EUR | HCOB France Composite PMI (Mar) | 48.8 | 48.3 | 49.9 |
+| 08:55 | EUR | HCOB Germany Composite PMI (Mar) | 51.9 | 51.9 | 53.2 |
+| 09:00 | GBP | Car Registration (YoY) (Mar) | 6.6% |  | 7.2% |
+| 09:00 | GBP | United Kingdom New Passenger Cars Registration (Mar) | 380,627.0 |  | 90,100.0 |
+| 09:00 | CNY | FX Reserves (USD) (Mar) | 3.342T | 3.400T | 3.428T |
+| 09:30 | EUR | Sentix Investor Confidence (Apr) | -19.2 | -7.5 | -3.1 |
 | 09:40 | EUR | Spanish 12-Month Letras Auction |  |  | 2.121% |
 | 09:40 | EUR | Spanish 6-Month Letras Auction |  |  | 2.059% |
 | 10:00 | SGD | Foreign Reserves USD (MoM) (Mar) |  |  | 416.1B |

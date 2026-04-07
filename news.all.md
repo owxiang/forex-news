@@ -17,20 +17,20 @@
 | 08:00 | CHF | Low | Foreign Reserves (USD) (Mar) | 721.2B |  | 710.1B |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Mar) | 53.3 | 50.7 | 51.9 |
 | 08:15 | ZAR | Low | S&P Global Manufacturing PMI (Mar) | 50.8 |  | 50.0 |
-| 8 min | EUR | Low | HCOB Italy Composite PMI (Mar) |  |  | 52.1 |
-| 8 min | EUR | Moderate | HCOB Italy Services PMI (Mar) |  | 51.0 | 52.3 |
-| 13 min | EUR | Low | HCOB France Composite PMI (Mar) |  | 48.3 | 49.9 |
-| 13 min | EUR | Moderate | HCOB France Services PMI (Mar) |  | 48.3 | 49.6 |
-| 18 min | EUR | Low | HCOB Germany Composite PMI (Mar) |  | 51.9 | 53.2 |
-| 18 min | EUR | Moderate | HCOB Germany Services PMI (Mar) |  | 51.2 | 53.5 |
-| 23 min | GBP | Low | Car Registration (YoY) (Mar) |  |  | 7.2% |
-| 23 min | GBP | Low | United Kingdom New Passenger Cars Registration (Mar) |  |  | 90,100.0 |
-| 23 min | CNY | Low | FX Reserves (USD) (Mar) |  | 3.400T | 3.428T |
-| 23 min | EUR | Moderate | HCOB Eurozone Composite PMI (Mar) |  | 50.5 | 51.9 |
-| 23 min | EUR | Moderate | HCOB Eurozone Services PMI (Mar) |  | 50.1 | 51.9 |
-| 53 min | GBP | Moderate | S&P Global Composite PMI (Mar) |  | 51.0 | 53.7 |
-| 53 min | GBP | Moderate | S&P Global Services PMI (Mar) |  | 51.2 | 53.9 |
-| 53 min | EUR | Low | Sentix Investor Confidence (Apr) |  | -7.5 | -3.1 |
+| 08:45 | EUR | Low | HCOB Italy Composite PMI (Mar) | 49.2 |  | 52.1 |
+| 08:45 | EUR | Moderate | HCOB Italy Services PMI (Mar) | 48.8 | 51.0 | 52.3 |
+| 08:50 | EUR | Low | HCOB France Composite PMI (Mar) | 48.8 | 48.3 | 49.9 |
+| 08:50 | EUR | Moderate | HCOB France Services PMI (Mar) | 48.8 | 48.3 | 49.6 |
+| 08:55 | EUR | Low | HCOB Germany Composite PMI (Mar) | 51.9 | 51.9 | 53.2 |
+| 08:55 | EUR | Moderate | HCOB Germany Services PMI (Mar) | 50.9 | 51.2 | 53.5 |
+| 09:00 | GBP | Low | Car Registration (YoY) (Mar) | 6.6% |  | 7.2% |
+| 09:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Mar) | 380,627.0 |  | 90,100.0 |
+| 09:00 | CNY | Low | FX Reserves (USD) (Mar) | 3.342T | 3.400T | 3.428T |
+| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Mar) | 50.7 | 50.5 | 51.9 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Mar) | 50.2 | 50.1 | 51.9 |
+| 09:30 | GBP | Moderate | S&P Global Composite PMI (Mar) | 50.3 | 51.0 | 53.7 |
+| 09:30 | GBP | Moderate | S&P Global Services PMI (Mar) | 50.5 | 51.2 | 53.9 |
+| 09:30 | EUR | Low | Sentix Investor Confidence (Apr) | -19.2 | -7.5 | -3.1 |
 | 09:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.121% |
 | 09:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 2.059% |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Mar) |  |  | 416.1B |
