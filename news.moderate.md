@@ -1,23 +1,17 @@
-## 07 April 2026 - Moderate Impact Forex News
+## 08 April 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | JPY | Household Spending (MoM) (Feb) | 1.5% | 2.6% | -2.5% |
-| 00:30 | JPY | Household Spending (YoY) (Feb) | -1.8% | -0.8% | -1.0% |
-| 08:15 | EUR | HCOB Spain Services PMI (Mar) | 53.3 | 50.7 | 51.9 |
-| 08:45 | EUR | HCOB Italy Services PMI (Mar) | 48.8 | 51.0 | 52.3 |
-| 08:50 | EUR | HCOB France Services PMI (Mar) | 48.8 | 48.3 | 49.6 |
-| 08:55 | EUR | HCOB Germany Services PMI (Mar) | 50.9 | 51.2 | 53.5 |
-| 09:00 | EUR | HCOB Eurozone Composite PMI (Mar) | 50.7 | 50.5 | 51.9 |
-| 09:00 | EUR | HCOB Eurozone Services PMI (Mar) | 50.2 | 50.1 | 51.9 |
-| 09:30 | GBP | S&P Global Composite PMI (Mar) | 50.3 | 51.0 | 53.7 |
-| 09:30 | GBP | S&P Global Services PMI (Mar) | 50.5 | 51.2 | 53.9 |
-| 13:15 | USD | ADP Employment Change Weekly | 26.00K |  | 15.25K |
-| 13:30 | USD | Core Durable Goods Orders (MoM) (Feb) | 0.8% | 0.5% | 0.3% |
-| 15:00 | USD | Atlanta Fed GDPNow (Q1) | 1.3% | 1.6% | 1.6% |
-| 15:00 | CAD | Ivey PMI (Mar) | 49.7 | 55.9 | 56.6 |
-| 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations | 3.4% |  | 3.0% |
-| 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
-| 18:00 | USD | 3-Year Note Auction | 3.897% |  | 3.579% |
-| 20:00 | USD | Consumer Credit (Feb) | 9.48B | 10.50B | 7.67B |
-| 21:30 | USD | API Weekly Crude Oil Stock | 3.719M |  | 10.263M |
+| 31 min | JPY | Adjusted Current Account (Feb) |  | 2.40T | 3.15T |
+| 31 min | JPY | Current Account n.s.a. (Feb) |  | 3.549T | 0.942T |
+| 03:00 | NZD | RBNZ Rate Statement |  |  |  |
+| 04:00 | NZD | RBNZ Press Conference |  |  |  |
+| 05:30 | INR | Interest Rate Decision |  | 5.25% | 5.25% |
+| 07:00 | GBP | Halifax House Price Index (MoM) (Mar) |  | 0.1% | 0.3% |
+| 07:00 | GBP | Halifax House Price Index (YoY) (Mar) |  | 1.5% | 1.3% |
+| 07:00 | EUR | German Factory Orders (MoM) (Feb) |  | 3.0% | -11.1% |
+| 08:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
+| 09:30 | GBP | S&P Global Construction PMI (Mar) |  | 43.6 | 44.5 |
+| 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.890% |
+| 15:30 | USD | Cushing Crude Oil Inventories |  |  | 0.520M |
+| 19:35 | USD | Fed Waller Speaks |  |  |  |
