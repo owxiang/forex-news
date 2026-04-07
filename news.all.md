@@ -14,9 +14,9 @@
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Feb) | -1.6% |  | 3.4% |
 | 06:00 | JPY | Low | Leading Index (Feb) | 112.4 | 112.4 | 112.1 |
 | 06:00 | JPY | Low | Leading Index (MoM) (Feb) | 0.3% |  | 1.7% |
-| 08:00 | CHF | Low | Foreign Reserves (USD) (Mar) |  |  | 710.0B |
-| 08:15 | EUR | Moderate | HCOB Spain Services PMI (Mar) |  | 50.7 | 51.9 |
-| 08:15 | ZAR | Low | S&P Global Manufacturing PMI (Mar) |  |  | 50.0 |
+| 21 min | CHF | Low | Foreign Reserves (USD) (Mar) |  |  | 710.0B |
+| 36 min | EUR | Moderate | HCOB Spain Services PMI (Mar) |  | 50.7 | 51.9 |
+| 36 min | ZAR | Low | S&P Global Manufacturing PMI (Mar) |  |  | 50.0 |
 | 08:45 | EUR | Low | HCOB Italy Composite PMI (Mar) |  |  | 52.1 |
 | 08:45 | EUR | Moderate | HCOB Italy Services PMI (Mar) |  | 51.0 | 52.3 |
 | 08:50 | EUR | Low | HCOB France Composite PMI (Mar) |  | 48.3 | 49.9 |

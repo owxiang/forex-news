@@ -12,8 +12,8 @@
 | 06:00 | JPY | Coincident Indicator (MoM) (Feb) | -1.6% |  | 3.4% |
 | 06:00 | JPY | Leading Index (Feb) | 112.4 | 112.4 | 112.1 |
 | 06:00 | JPY | Leading Index (MoM) (Feb) | 0.3% |  | 1.7% |
-| 08:00 | CHF | Foreign Reserves (USD) (Mar) |  |  | 710.0B |
-| 08:15 | ZAR | S&P Global Manufacturing PMI (Mar) |  |  | 50.0 |
+| 21 min | CHF | Foreign Reserves (USD) (Mar) |  |  | 710.0B |
+| 36 min | ZAR | S&P Global Manufacturing PMI (Mar) |  |  | 50.0 |
 | 08:45 | EUR | HCOB Italy Composite PMI (Mar) |  |  | 52.1 |
 | 08:50 | EUR | HCOB France Composite PMI (Mar) |  | 48.3 | 49.9 |
 | 08:55 | EUR | HCOB Germany Composite PMI (Mar) |  | 51.9 | 53.2 |
