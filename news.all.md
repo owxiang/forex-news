@@ -34,6 +34,8 @@
 | 09:40 | EUR | Low | Spanish 12-Month Letras Auction | 2.611% |  | 2.121% |
 | 09:40 | EUR | Low | Spanish 6-Month Letras Auction | 2.362% |  | 2.059% |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Mar) | 419.2B |  | 416.1B |
+| 13:00 | NZD | Low | GlobalDairyTrade Price Index | -3.4% |  | 0.1% |
+| 13:00 | USD | Low | Milk Auctions | 4,228.0 |  | 4,330.0 |
 | 13:15 | USD | Moderate | ADP Employment Change Weekly | 26.00K |  | 15.25K |
 | 13:15 | CAD | Low | Reserve Assets Total (Mar) | 126.8B |  | 128.1B |
 | 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Feb) | 0.8% | 0.5% | 0.3% |
@@ -44,16 +46,14 @@
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.694% |  | 2.660% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.253% |  | 2.238% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.509% |  | 2.407% |
-| 23 min | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 1.6% | 1.6% |
-| 23 min | CAD | Low | Ivey PMI n.s.a (Mar) |  |  | 56.3 |
-| 23 min | CAD | Moderate | Ivey PMI (Mar) |  | 55.9 | 56.6 |
-| 23 min | BRL | Low | Auto Production (MoM) |  |  | 24.9% |
-| 23 min | BRL | Low | Auto Sales (MoM) |  |  | 8.6% |
-| 33 min | USD | Low | IBD/TIPP Economic Optimism (Apr) |  | 48.1 | 47.5 |
+| 15:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 1.3% | 1.6% | 1.6% |
+| 15:00 | CAD | Low | Ivey PMI n.s.a (Mar) | 56.5 |  | 56.3 |
+| 15:00 | CAD | Moderate | Ivey PMI (Mar) | 49.7 | 55.9 | 56.6 |
+| 15:10 | USD | Low | IBD/TIPP Economic Optimism (Apr) | 42.8 | 48.1 | 47.5 |
 | 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations |  |  | 3.0% |
-| 16:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 0.1% |
-| 16:00 | USD | Low | Milk Auctions |  |  | 4,330.0 |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
+| 17:00 | BRL | Low | Auto Production (MoM) |  |  | 24.9% |
+| 17:00 | BRL | Low | Auto Sales (MoM) |  |  | 8.6% |
 | 17:35 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 3.579% |
 | 19:00 | BRL | Low | Trade Balance (Mar) |  | 7.40B | 4.21B |
