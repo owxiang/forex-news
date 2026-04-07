@@ -34,8 +34,8 @@
 | 09:40 | EUR | Low | Spanish 12-Month Letras Auction | 2.611% |  | 2.121% |
 | 09:40 | EUR | Low | Spanish 6-Month Letras Auction | 2.362% |  | 2.059% |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Mar) | 419.2B |  | 416.1B |
-| 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 10.00K |
-| 13:15 | CAD | Low | Reserve Assets Total (Mar) |  |  | 128.1B |
+| 51 min | USD | Moderate | ADP Employment Change Weekly |  |  | 10.00K |
+| 51 min | CAD | Low | Reserve Assets Total (Mar) |  |  | 128.1B |
 | 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Feb) |  | 0.5% | 0.4% |
 | 13:30 | USD | High | Durable Goods Orders (MoM) (Feb) |  | -1.1% | 0.0% |
 | 13:30 | USD | Low | Durables Excluding Defense (MoM) (Feb) |  |  | 0.5% |

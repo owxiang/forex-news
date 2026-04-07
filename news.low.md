@@ -24,7 +24,7 @@
 | 09:40 | EUR | Spanish 12-Month Letras Auction | 2.611% |  | 2.121% |
 | 09:40 | EUR | Spanish 6-Month Letras Auction | 2.362% |  | 2.059% |
 | 10:00 | SGD | Foreign Reserves USD (MoM) (Mar) | 419.2B |  | 416.1B |
-| 13:15 | CAD | Reserve Assets Total (Mar) |  |  | 128.1B |
+| 51 min | CAD | Reserve Assets Total (Mar) |  |  | 128.1B |
 | 13:30 | USD | Durables Excluding Defense (MoM) (Feb) |  |  | 0.5% |
 | 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Feb) |  |  | 0.1% |
 | 13:55 | USD | Redbook (YoY) |  |  | 6.9% |
