@@ -8,11 +8,11 @@
 | 02:00 | AUD | MI Inflation Gauge (MoM) (Mar) | 1.3% |  | -0.2% |
 | 02:00 | NZD | ANZ Commodity Price Index (MoM) | 4.1% |  | 4.2% |
 | 02:30 | AUD | ANZ Job Advertisements (MoM) (Mar) | -3.1% |  | 3.2% |
-| 24 min | JPY | 30-Year JGB Auction |  |  | 3.398% |
+| 04:35 | JPY | 30-Year JGB Auction | 3.697% |  | 3.398% |
 | 06:00 | JPY | Coincident Indicator (MoM) (Feb) |  |  | 3.4% |
-| 06:00 | JPY | Leading Index (Feb) |  | 112.3 | 112.1 |
+| 06:00 | JPY | Leading Index (Feb) |  | 112.4 | 112.1 |
 | 06:00 | JPY | Leading Index (MoM) (Feb) |  |  | 1.7% |
-| 08:00 | CHF | Foreign Reserves (USD) (Mar) |  |  | 710,029.0B |
+| 08:00 | CHF | Foreign Reserves (USD) (Mar) |  |  | 710.0B |
 | 08:15 | ZAR | S&P Global Manufacturing PMI (Mar) |  |  | 50.0 |
 | 08:45 | EUR | HCOB Italy Composite PMI (Mar) |  |  | 52.1 |
 | 08:50 | EUR | HCOB France Composite PMI (Mar) |  | 48.3 | 49.9 |
@@ -22,6 +22,8 @@
 | 09:00 | CNY | FX Reserves (USD) (Mar) |  | 3.400T | 3.428T |
 | 09:30 | EUR | Sentix Investor Confidence (Apr) |  | -7.5 | -3.1 |
 | 09:40 | EUR | Spanish 12-Month Letras Auction |  |  | 2.121% |
+| 09:40 | EUR | Spanish 12-Month Letras Auction |  |  | 2.121% |
+| 09:40 | EUR | Spanish 6-Month Letras Auction |  |  | 2.059% |
 | 09:40 | EUR | Spanish 6-Month Letras Auction |  |  | 2.059% |
 | 10:00 | SGD | Foreign Reserves USD (MoM) (Mar) |  |  | 416.1B |
 | 13:00 | NZD | GlobalDairyTrade Price Index |  |  | 0.1% |
@@ -34,6 +36,8 @@
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.238% |
 | 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.407% |
 | 15:00 | CAD | Ivey PMI n.s.a (Mar) |  |  | 56.3 |
+| 15:00 | BRL | Auto Production (MoM) |  |  | 24.9% |
+| 15:00 | BRL | Auto Sales (MoM) |  |  | 8.6% |
 | 15:10 | USD | IBD/TIPP Economic Optimism (Apr) |  | 48.1 | 47.5 |
 | 17:35 | USD | Fed Goolsbee Speaks |  |  |  |
 | 19:00 | BRL | Trade Balance (Mar) |  | 7.40B | 4.21B |
