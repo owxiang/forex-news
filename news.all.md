@@ -11,9 +11,9 @@
 | 02:00 | NZD | Low | ANZ Commodity Price Index (MoM) | 4.1% |  | 4.2% |
 | 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (Mar) | -3.1% |  | 3.2% |
 | 04:35 | JPY | Low | 30-Year JGB Auction | 3.697% |  | 3.398% |
-| 06:00 | JPY | Low | Coincident Indicator (MoM) (Feb) |  |  | 3.4% |
-| 06:00 | JPY | Low | Leading Index (Feb) |  | 112.4 | 112.1 |
-| 06:00 | JPY | Low | Leading Index (MoM) (Feb) |  |  | 1.7% |
+| 06:00 | JPY | Low | Coincident Indicator (MoM) (Feb) | -1.6% |  | 3.4% |
+| 06:00 | JPY | Low | Leading Index (Feb) | 112.4 | 112.4 | 112.1 |
+| 06:00 | JPY | Low | Leading Index (MoM) (Feb) | 0.3% |  | 1.7% |
 | 08:00 | CHF | Low | Foreign Reserves (USD) (Mar) |  |  | 710.0B |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Mar) |  | 50.7 | 51.9 |
 | 08:15 | ZAR | Low | S&P Global Manufacturing PMI (Mar) |  |  | 50.0 |
