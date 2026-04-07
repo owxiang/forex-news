@@ -17,7 +17,7 @@
 | 15:00 | USD | Atlanta Fed GDPNow (Q1) | 1.3% | 1.6% | 1.6% |
 | 15:00 | CAD | Ivey PMI (Mar) | 49.7 | 55.9 | 56.6 |
 | 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations | 3.4% |  | 3.0% |
-| 24 min | USD | EIA Short-Term Energy Outlook |  |  |  |
-| 18:00 | USD | 3-Year Note Auction |  |  | 3.579% |
+| 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
+| 32 min | USD | 3-Year Note Auction |  |  | 3.579% |
 | 20:00 | USD | Consumer Credit (Feb) |  | 10.50B | 8.05B |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | 10.263M |
