@@ -46,19 +46,19 @@
 | 12:00 | USD | Low | Mortgage Market Index | 276.0 |  | 278.3 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 919.9 |  | 946.4 |
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Mar) | 1.14% |  | -0.84% |
+| 12:30 | INR | Low | M3 Money Supply |  |  | 10.7% |
 | 13:00 | MXN | Low | Consumer Confidence (Mar) | 44.1 |  | 44.4 |
 | 13:00 | MXN | Low | Consumer Confidence n.s.a. (Mar) | 44.1 |  | 44.5 |
-| 15:00 | INR | Low | M3 Money Supply |  |  | 10.7% |
-| 15:30 | USD | High | Crude Oil Inventories |  | -1.000M | 5.451M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.219M |
-| 15:30 | USD | Low | Crude Oil Imports |  |  | -0.209M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.520M |
-| 15:30 | USD | Low | Distillate Fuel Production |  |  | 0.000M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | -1.500M | -2.111M |
-| 15:30 | USD | Low | Gasoline Production |  |  | -0.152M |
-| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | -0.809M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.8% |
-| 15:30 | USD | Low | Gasoline Inventories |  | -1.400M | -0.586M |
+| 52 min | USD | High | Crude Oil Inventories |  | -1.000M | 5.451M |
+| 52 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.219M |
+| 52 min | USD | Low | Crude Oil Imports |  |  | -0.209M |
+| 52 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.520M |
+| 52 min | USD | Low | Distillate Fuel Production |  |  | 0.000M |
+| 52 min | USD | Low | EIA Weekly Distillates Stocks |  | -1.500M | -2.111M |
+| 52 min | USD | Low | Gasoline Production |  |  | -0.152M |
+| 52 min | USD | Low | Heating Oil Stockpiles |  |  | -0.809M |
+| 52 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.8% |
+| 52 min | USD | Low | Gasoline Inventories |  | -1.400M | -0.586M |
 | 16:00 | USD | Low | Thomson Reuters IPSOS PCSI (Apr) |  |  | 53.33 |
 | 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (Apr) |  |  | 49.37 |
 | 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (Apr) |  |  | 53.05 |
