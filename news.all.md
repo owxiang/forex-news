@@ -32,13 +32,13 @@
 | 08:30 | EUR | Low | HCOB Germany Construction PMI (Mar) | 48.0 |  | 43.7 |
 | 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Mar) | 38.4 |  | 43.9 |
 | 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Mar) | 44.6 |  | 46.0 |
-| 09:30 | GBP | Moderate | S&P Global Construction PMI (Mar) |  | 43.6 | 44.5 |
-| 10:00 | NOK | Low | House Price Index (YoY) (Mar) |  |  | 3.00% |
-| 10:00 | EUR | Low | PPI (MoM) (Feb) |  | -0.6% | 0.7% |
-| 10:00 | EUR | Low | PPI (YoY) (Feb) |  | -3.0% | -2.1% |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Feb) |  | 1.6% | 2.0% |
-| 10:00 | EUR | Low | Retail Sales (MoM) (Feb) |  | -0.2% | -0.1% |
-| 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.890% |
+| 09:30 | GBP | Moderate | S&P Global Construction PMI (Mar) | 45.6 | 43.6 | 44.5 |
+| 27 min | NOK | Low | House Price Index (YoY) (Mar) |  |  | 3.00% |
+| 27 min | EUR | Low | PPI (MoM) (Feb) |  | -0.6% | 0.7% |
+| 27 min | EUR | Low | PPI (YoY) (Feb) |  | -3.0% | -2.1% |
+| 27 min | EUR | Low | Retail Sales (YoY) (Feb) |  | 1.6% | 2.0% |
+| 27 min | EUR | Low | Retail Sales (MoM) (Feb) |  | -0.2% | -0.1% |
+| 57 min | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.890% |
 | 11:00 | CAD | Low | Leading Index (MoM) (Mar) |  |  | 0.25% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.57% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -10.4% |
