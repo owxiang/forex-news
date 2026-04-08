@@ -36,6 +36,8 @@
 | 12:00 | BRL | IGP-DI Inflation Index (MoM) (Mar) | 1.14% |  | -0.84% |
 | 13:00 | MXN | Consumer Confidence (Mar) | 44.1 |  | 44.4 |
 | 13:00 | MXN | Consumer Confidence n.s.a. (Mar) | 44.1 |  | 44.5 |
+| 15:00 | BRL | Auto Production (MoM) | 27.6% |  | 24.9% |
+| 15:00 | BRL | Auto Sales (MoM) | 45.5% |  | 8.6% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) | -0.129M |  | -0.219M |
 | 15:30 | USD | Crude Oil Imports | -0.758M |  | -0.209M |
 | 15:30 | USD | Distillate Fuel Production | 0.009M |  | 0.000M |
@@ -48,6 +50,4 @@
 | 16:00 | CAD | Thomson Reuters IPSOS PCSI (Apr) | 45.59 |  | 49.37 |
 | 16:00 | MXN | Thomson Reuters IPSOS PCSI (Apr) | 54.00 |  | 53.05 |
 | 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Apr) | 49.22 |  | 52.24 |
-| 27 min | BRL | Auto Production (MoM) |  |  | 24.9% |
-| 27 min | BRL | Auto Sales (MoM) |  |  | 8.6% |
-| 57 min | BRL | Foreign Exchange Flows |  |  | 1.596B |
+| 18:30 | BRL | Foreign Exchange Flows |  |  | 1.596B |
