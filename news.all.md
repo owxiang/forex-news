@@ -62,10 +62,10 @@
 | 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (Apr) | 45.59 |  | 49.37 |
 | 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (Apr) | 54.00 |  | 53.05 |
 | 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Apr) | 49.22 |  | 52.24 |
-| 18:00 | USD | High | 10-Year Note Auction |  |  | 4.217% |
-| 18:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
-| 18:00 | BRL | Low | Auto Production (MoM) |  |  | 24.9% |
-| 18:00 | BRL | Low | Auto Sales (MoM) |  |  | 8.6% |
-| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 1.596B |
+| 27 min | USD | High | 10-Year Note Auction |  |  | 4.217% |
+| 27 min | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
+| 27 min | BRL | Low | Auto Production (MoM) |  |  | 24.9% |
+| 27 min | BRL | Low | Auto Sales (MoM) |  |  | 8.6% |
+| 57 min | BRL | Low | Foreign Exchange Flows |  |  | 1.596B |
 | 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
 | 19:35 | USD | Moderate | Fed Waller Speaks |  |  |  |

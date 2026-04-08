@@ -14,5 +14,5 @@
 | 09:30 | GBP | S&P Global Construction PMI (Mar) | 45.6 | 43.6 | 44.5 |
 | 10:30 | EUR | German 10-Year Bund Auction | 2.920% |  | 2.890% |
 | 15:30 | USD | Cushing Crude Oil Inventories | 0.024M |  | 0.520M |
-| 18:00 | USD | FOMC Member Daly Speaks |  |  |  |
+| 27 min | USD | FOMC Member Daly Speaks |  |  |  |
 | 19:35 | USD | Fed Waller Speaks |  |  |  |

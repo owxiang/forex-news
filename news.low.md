@@ -48,6 +48,6 @@
 | 16:00 | CAD | Thomson Reuters IPSOS PCSI (Apr) | 45.59 |  | 49.37 |
 | 16:00 | MXN | Thomson Reuters IPSOS PCSI (Apr) | 54.00 |  | 53.05 |
 | 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Apr) | 49.22 |  | 52.24 |
-| 18:00 | BRL | Auto Production (MoM) |  |  | 24.9% |
-| 18:00 | BRL | Auto Sales (MoM) |  |  | 8.6% |
-| 18:30 | BRL | Foreign Exchange Flows |  |  | 1.596B |
+| 27 min | BRL | Auto Production (MoM) |  |  | 24.9% |
+| 27 min | BRL | Auto Sales (MoM) |  |  | 8.6% |
+| 57 min | BRL | Foreign Exchange Flows |  |  | 1.596B |
