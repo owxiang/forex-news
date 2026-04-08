@@ -11,17 +11,17 @@
 | 05:30 | INR | Cash Reserve Ratio | 3.00% |  | 3.00% |
 | 05:30 | INR | Reverse REPO Rate | 3.35% |  | 3.35% |
 | 06:00 | JPY | Economy Watchers Current Index (Mar) | 42.2 | 48.0 | 48.9 |
-| 51 min | CHF | Unemployment Rate n.s.a. (Mar) |  | 3.2% | 3.2% |
-| 51 min | CHF | Unemployment Rate s.a. (Mar) |  | 3.0% | 3.0% |
-| 07:45 | EUR | French Current Account (Feb) |  |  | 2.10B |
-| 07:45 | EUR | French Exports (Feb) |  |  | 53.4B |
-| 07:45 | EUR | French Imports (Feb) |  |  | 55.3B |
-| 07:45 | EUR | French Reserve Assets Total (Mar) |  |  | 421,573.0M |
-| 07:45 | EUR | French Trade Balance (Feb) |  | -2.4B | -1.8B |
-| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Mar) |  |  | 50.4 |
-| 08:30 | EUR | HCOB Germany Construction PMI (Mar) |  |  | 43.7 |
-| 08:30 | EUR | HCOB France Construction PMI (MoM) (Mar) |  |  | 43.9 |
-| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Mar) |  |  | 46.0 |
+| 4 min | EUR | French Current Account (Feb) |  |  | 2.10B |
+| 4 min | EUR | French Exports (Feb) |  |  | 53.4B |
+| 4 min | EUR | French Imports (Feb) |  |  | 55.3B |
+| 4 min | EUR | French Reserve Assets Total (Mar) |  |  | 421,573.0M |
+| 4 min | EUR | French Trade Balance (Feb) |  | -2.4B | -1.8B |
+| 19 min | CHF | Unemployment Rate n.s.a. (Mar) |  | 3.2% | 3.2% |
+| 19 min | CHF | Unemployment Rate s.a. (Mar) |  | 3.0% | 3.0% |
+| 49 min | EUR | HCOB Italy Construction PMI (MoM) (Mar) |  |  | 50.4 |
+| 49 min | EUR | HCOB Germany Construction PMI (Mar) |  |  | 43.7 |
+| 49 min | EUR | HCOB France Construction PMI (MoM) (Mar) |  |  | 43.9 |
+| 49 min | EUR | HCOB Eurozone Construction PMI (MoM) (Mar) |  |  | 46.0 |
 | 10:00 | NOK | House Price Index (YoY) (Mar) |  |  | 3.00% |
 | 10:00 | EUR | PPI (MoM) (Feb) |  | -0.6% | 0.7% |
 | 10:00 | EUR | PPI (YoY) (Feb) |  | -3.0% | -2.1% |
