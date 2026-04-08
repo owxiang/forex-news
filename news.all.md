@@ -12,12 +12,12 @@
 | 03:00 | NZD | High | RBNZ Interest Rate Decision | 2.25% | 2.25% | 2.25% |
 | 03:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
 | 04:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
-| 04:30 | IDR | Low | FX Reserves (USD) (Mar) |  |  | 151.90B |
-| 05:30 | INR | Low | Cash Reserve Ratio |  |  | 3.00% |
-| 05:30 | INR | Moderate | Interest Rate Decision |  | 5.25% | 5.25% |
-| 05:30 | INR | Low | Reverse REPO Rate |  |  | 3.35% |
+| 04:30 | IDR | Low | FX Reserves (USD) (Mar) | 148.20B |  | 151.90B |
+| 05:30 | INR | Moderate | Interest Rate Decision | 5.25% | 5.25% | 5.25% |
 | 06:00 | JPY | Low | Economy Watchers Current Index (Mar) |  | 48.0 | 48.9 |
-| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Mar) |  | 0.1% | 0.3% |
+| 06:30 | INR | Low | Cash Reserve Ratio |  |  | 3.00% |
+| 06:30 | INR | Low | Reverse REPO Rate |  |  | 3.35% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Mar) |  | 0.2% | 0.3% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Mar) |  | 1.5% | 1.3% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Feb) |  | 3.0% | -11.1% |
 | 07:30 | CHF | Low | Unemployment Rate n.s.a. (Mar) |  | 3.2% | 3.2% |
@@ -26,7 +26,7 @@
 | 07:45 | EUR | Low | French Exports (Feb) |  |  | 53.4B |
 | 07:45 | EUR | Low | French Imports (Feb) |  |  | 55.3B |
 | 07:45 | EUR | Low | French Reserve Assets Total (Mar) |  |  | 421,573.0M |
-| 07:45 | EUR | Low | French Trade Balance (Feb) |  | -2.3B | -1.8B |
+| 07:45 | EUR | Low | French Trade Balance (Feb) |  | -2.4B | -1.8B |
 | 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Mar) |  |  | 50.4 |
 | 08:30 | EUR | Low | HCOB Germany Construction PMI (Mar) |  |  | 43.7 |
@@ -49,7 +49,7 @@
 | 12:30 | INR | Low | M3 Money Supply |  |  | 10.7% |
 | 13:00 | MXN | Low | Consumer Confidence (Mar) |  |  | 44.4 |
 | 13:00 | MXN | Low | Consumer Confidence n.s.a. (Mar) |  |  | 44.5 |
-| 15:30 | USD | High | Crude Oil Inventories |  |  | 5.451M |
+| 15:30 | USD | High | Crude Oil Inventories |  | -1.000M | 5.451M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.219M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | -0.209M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.520M |
@@ -64,9 +64,9 @@
 | 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (Apr) |  |  | 53.05 |
 | 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Apr) |  |  | 52.24 |
 | 18:00 | USD | High | 10-Year Note Auction |  |  | 4.217% |
+| 18:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 18:00 | BRL | Low | Auto Production (MoM) |  |  | 24.9% |
 | 18:00 | BRL | Low | Auto Sales (MoM) |  |  | 8.6% |
-| 18:00 | BRL | Low | Trade Balance (Mar) |  | 7.40B | 4.21B |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 1.596B |
 | 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
 | 19:35 | USD | Moderate | Fed Waller Speaks |  |  |  |

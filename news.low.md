@@ -7,17 +7,17 @@
 | 00:30 | JPY | Overall wage income of employees (Feb) | 3.3% | 2.7% | 2.5% |
 | 00:30 | JPY | Overtime Pay (YoY) (Feb) | 3.30% |  | 3.20% |
 | 01:30 | HKD | S&P Global Manufacturing PMI (Mar) | 49.3 |  | 53.3 |
-| 04:30 | IDR | FX Reserves (USD) (Mar) |  |  | 151.90B |
-| 05:30 | INR | Cash Reserve Ratio |  |  | 3.00% |
-| 05:30 | INR | Reverse REPO Rate |  |  | 3.35% |
+| 04:30 | IDR | FX Reserves (USD) (Mar) | 148.20B |  | 151.90B |
 | 06:00 | JPY | Economy Watchers Current Index (Mar) |  | 48.0 | 48.9 |
+| 06:30 | INR | Cash Reserve Ratio |  |  | 3.00% |
+| 06:30 | INR | Reverse REPO Rate |  |  | 3.35% |
 | 07:30 | CHF | Unemployment Rate n.s.a. (Mar) |  | 3.2% | 3.2% |
 | 07:30 | CHF | Unemployment Rate s.a. (Mar) |  | 3.0% | 3.0% |
 | 07:45 | EUR | French Current Account (Feb) |  |  | 2.10B |
 | 07:45 | EUR | French Exports (Feb) |  |  | 53.4B |
 | 07:45 | EUR | French Imports (Feb) |  |  | 55.3B |
 | 07:45 | EUR | French Reserve Assets Total (Mar) |  |  | 421,573.0M |
-| 07:45 | EUR | French Trade Balance (Feb) |  | -2.3B | -1.8B |
+| 07:45 | EUR | French Trade Balance (Feb) |  | -2.4B | -1.8B |
 | 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Mar) |  |  | 50.4 |
 | 08:30 | EUR | HCOB Germany Construction PMI (Mar) |  |  | 43.7 |
 | 08:30 | EUR | HCOB France Construction PMI (MoM) (Mar) |  |  | 43.9 |
@@ -51,5 +51,4 @@
 | 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Apr) |  |  | 52.24 |
 | 18:00 | BRL | Auto Production (MoM) |  |  | 24.9% |
 | 18:00 | BRL | Auto Sales (MoM) |  |  | 8.6% |
-| 18:00 | BRL | Trade Balance (Mar) |  | 7.40B | 4.21B |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | 1.596B |
