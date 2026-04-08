@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 31 min | JPY | Adjusted Current Account (Feb) |  | 2.40T | 3.15T |
-| 31 min | JPY | Current Account n.s.a. (Feb) |  | 3.549T | 0.942T |
+| 00:50 | JPY | Adjusted Current Account (Feb) | 2.71T | 2.40T | 3.13T |
+| 00:50 | JPY | Current Account n.s.a. (Feb) | 3.933T | 3.549T | 0.931T |
 | 03:00 | NZD | RBNZ Rate Statement |  |  |  |
 | 04:00 | NZD | RBNZ Press Conference |  |  |  |
 | 05:30 | INR | Interest Rate Decision |  | 5.25% | 5.25% |

@@ -3,12 +3,12 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | KRW | Low | Current Account (Feb) | 23.19B |  | 13.26B |
-| 11 min | JPY | Low | Overall wage income of employees (Feb) |  | 2.7% | 3.0% |
-| 11 min | JPY | Low | Overtime Pay (YoY) (Feb) |  |  | 3.30% |
-| 31 min | JPY | Moderate | Adjusted Current Account (Feb) |  | 2.40T | 3.15T |
-| 31 min | JPY | Moderate | Current Account n.s.a. (Feb) |  | 3.549T | 0.942T |
-| 41 min | JPY | Low | Average Cash Earnings (YoY) (Feb) |  | 2.7% | 3.0% |
-| 01:30 | HKD | Low | S&P Global Manufacturing PMI (Mar) |  |  | 53.3 |
+| 00:30 | JPY | Low | Average Cash Earnings (YoY) (Feb) | 3.3% | 2.7% | 2.5% |
+| 00:30 | JPY | Low | Overall wage income of employees (Feb) | 3.3% | 2.7% | 2.5% |
+| 00:30 | JPY | Low | Overtime Pay (YoY) (Feb) | 3.30% |  | 3.20% |
+| 00:50 | JPY | Moderate | Adjusted Current Account (Feb) | 2.71T | 2.40T | 3.13T |
+| 00:50 | JPY | Moderate | Current Account n.s.a. (Feb) | 3.933T | 3.549T | 0.931T |
+| 01:30 | HKD | Low | S&P Global Manufacturing PMI (Mar) | 49.3 |  | 53.3 |
 | 03:00 | NZD | High | RBNZ Interest Rate Decision |  | 2.25% | 2.25% |
 | 03:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
 | 04:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
