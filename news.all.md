@@ -13,15 +13,15 @@
 | 03:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
 | 04:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
 | 04:30 | IDR | Low | FX Reserves (USD) (Mar) | 148.20B |  | 151.90B |
+| 05:30 | INR | Low | Cash Reserve Ratio | 3.00% |  | 3.00% |
 | 05:30 | INR | Moderate | Interest Rate Decision | 5.25% | 5.25% | 5.25% |
-| 06:00 | JPY | Low | Economy Watchers Current Index (Mar) |  | 48.0 | 48.9 |
-| 06:30 | INR | Low | Cash Reserve Ratio |  |  | 3.00% |
-| 06:30 | INR | Low | Reverse REPO Rate |  |  | 3.35% |
-| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Mar) |  | 0.2% | 0.3% |
-| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Mar) |  | 1.5% | 1.3% |
-| 07:00 | EUR | Moderate | German Factory Orders (MoM) (Feb) |  | 3.0% | -11.1% |
-| 07:30 | CHF | Low | Unemployment Rate n.s.a. (Mar) |  | 3.2% | 3.2% |
-| 07:30 | CHF | Low | Unemployment Rate s.a. (Mar) |  | 3.0% | 3.0% |
+| 05:30 | INR | Low | Reverse REPO Rate | 3.35% |  | 3.35% |
+| 06:00 | JPY | Low | Economy Watchers Current Index (Mar) | 42.2 | 48.0 | 48.9 |
+| 21 min | GBP | Moderate | Halifax House Price Index (MoM) (Mar) |  | 0.2% | 0.3% |
+| 21 min | GBP | Moderate | Halifax House Price Index (YoY) (Mar) |  | 1.5% | 1.3% |
+| 21 min | EUR | Moderate | German Factory Orders (MoM) (Feb) |  | 3.0% | -11.1% |
+| 51 min | CHF | Low | Unemployment Rate n.s.a. (Mar) |  | 3.2% | 3.2% |
+| 51 min | CHF | Low | Unemployment Rate s.a. (Mar) |  | 3.0% | 3.0% |
 | 07:45 | EUR | Low | French Current Account (Feb) |  |  | 2.10B |
 | 07:45 | EUR | Low | French Exports (Feb) |  |  | 53.4B |
 | 07:45 | EUR | Low | French Imports (Feb) |  |  | 55.3B |
