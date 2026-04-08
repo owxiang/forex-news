@@ -12,7 +12,7 @@
 | 07:00 | EUR | German Factory Orders (MoM) (Feb) | 0.9% | 3.0% | -11.1% |
 | 08:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 09:30 | GBP | S&P Global Construction PMI (Mar) | 45.6 | 43.6 | 44.5 |
-| 57 min | EUR | German 10-Year Bund Auction |  |  | 2.890% |
+| 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.890% |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | 0.520M |
 | 18:00 | USD | FOMC Member Daly Speaks |  |  |  |
 | 19:35 | USD | Fed Waller Speaks |  |  |  |

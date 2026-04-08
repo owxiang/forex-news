@@ -22,11 +22,11 @@
 | 08:30 | EUR | HCOB Germany Construction PMI (Mar) | 48.0 |  | 43.7 |
 | 08:30 | EUR | HCOB France Construction PMI (MoM) (Mar) | 38.4 |  | 43.9 |
 | 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Mar) | 44.6 |  | 46.0 |
-| 27 min | NOK | House Price Index (YoY) (Mar) |  |  | 3.00% |
-| 27 min | EUR | PPI (MoM) (Feb) |  | -0.6% | 0.7% |
-| 27 min | EUR | PPI (YoY) (Feb) |  | -3.0% | -2.1% |
-| 27 min | EUR | Retail Sales (YoY) (Feb) |  | 1.6% | 2.0% |
-| 27 min | EUR | Retail Sales (MoM) (Feb) |  | -0.2% | -0.1% |
+| 10:00 | NOK | House Price Index (YoY) (Mar) | 3.00% |  | 3.00% |
+| 10:00 | EUR | PPI (MoM) (Feb) | -0.7% | -0.6% | 0.8% |
+| 10:00 | EUR | PPI (YoY) (Feb) | -3.0% | -3.0% | -2.0% |
+| 10:00 | EUR | Retail Sales (YoY) (Feb) | 1.7% | 1.6% | 2.1% |
+| 10:00 | EUR | Retail Sales (MoM) (Feb) | -0.2% | -0.2% | 0.0% |
 | 11:00 | CAD | Leading Index (MoM) (Mar) |  |  | 0.25% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.57% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -10.4% |
