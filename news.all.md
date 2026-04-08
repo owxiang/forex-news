@@ -9,8 +9,8 @@
 | 00:50 | JPY | Moderate | Adjusted Current Account (Feb) | 2.71T | 2.40T | 3.13T |
 | 00:50 | JPY | Moderate | Current Account n.s.a. (Feb) | 3.933T | 3.549T | 0.931T |
 | 01:30 | HKD | Low | S&P Global Manufacturing PMI (Mar) | 49.3 |  | 53.3 |
-| 03:00 | NZD | High | RBNZ Interest Rate Decision |  | 2.25% | 2.25% |
-| 03:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
+| 19 min | NZD | High | RBNZ Interest Rate Decision |  | 2.25% | 2.25% |
+| 19 min | NZD | Moderate | RBNZ Rate Statement |  |  |  |
 | 04:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
 | 04:00 | IDR | Low | FX Reserves (USD) (Mar) |  |  | 151.90B |
 | 05:30 | INR | Low | Cash Reserve Ratio |  |  | 3.00% |
