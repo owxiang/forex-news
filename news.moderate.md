@@ -10,7 +10,7 @@
 | 07:00 | GBP | Halifax House Price Index (MoM) (Mar) | -0.5% | 0.2% | 0.3% |
 | 07:00 | GBP | Halifax House Price Index (YoY) (Mar) | 0.8% | 1.5% | 1.2% |
 | 07:00 | EUR | German Factory Orders (MoM) (Feb) | 0.9% | 3.0% | -11.1% |
-| 19 min | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
+| 08:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 09:30 | GBP | S&P Global Construction PMI (Mar) |  | 43.6 | 44.5 |
 | 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.890% |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | 0.520M |

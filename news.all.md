@@ -20,18 +20,18 @@
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Mar) | -0.5% | 0.2% | 0.3% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Mar) | 0.8% | 1.5% | 1.2% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Feb) | 0.9% | 3.0% | -11.1% |
-| 4 min | EUR | Low | French Current Account (Feb) |  |  | 2.10B |
-| 4 min | EUR | Low | French Exports (Feb) |  |  | 53.4B |
-| 4 min | EUR | Low | French Imports (Feb) |  |  | 55.3B |
-| 4 min | EUR | Low | French Reserve Assets Total (Mar) |  |  | 421,573.0M |
-| 4 min | EUR | Low | French Trade Balance (Feb) |  | -2.4B | -1.8B |
-| 19 min | CHF | Low | Unemployment Rate n.s.a. (Mar) |  | 3.2% | 3.2% |
-| 19 min | CHF | Low | Unemployment Rate s.a. (Mar) |  | 3.0% | 3.0% |
-| 19 min | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
-| 49 min | EUR | Low | HCOB Italy Construction PMI (MoM) (Mar) |  |  | 50.4 |
-| 49 min | EUR | Low | HCOB Germany Construction PMI (Mar) |  |  | 43.7 |
-| 49 min | EUR | Low | HCOB France Construction PMI (MoM) (Mar) |  |  | 43.9 |
-| 49 min | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Mar) |  |  | 46.0 |
+| 07:45 | EUR | Low | French Current Account (Feb) | -1.80B |  | 2.30B |
+| 07:45 | EUR | Low | French Exports (Feb) | 52.0B |  | 53.2B |
+| 07:45 | EUR | Low | French Imports (Feb) | 57.8B |  | 55.2B |
+| 07:45 | EUR | Low | French Reserve Assets Total (Mar) | 390,629.0M |  | 421,573.0M |
+| 07:45 | EUR | Low | French Trade Balance (Feb) | -5.8B | -2.4B | -2.0B |
+| 08:00 | CHF | Low | Unemployment Rate n.s.a. (Mar) | 3.1% | 3.2% | 3.2% |
+| 08:00 | CHF | Low | Unemployment Rate s.a. (Mar) | 3.0% | 3.0% | 3.0% |
+| 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
+| 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Mar) | 46.8 |  | 50.4 |
+| 08:30 | EUR | Low | HCOB Germany Construction PMI (Mar) | 48.0 |  | 43.7 |
+| 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Mar) | 38.4 |  | 43.9 |
+| 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Mar) | 44.6 |  | 46.0 |
 | 09:30 | GBP | Moderate | S&P Global Construction PMI (Mar) |  | 43.6 | 44.5 |
 | 10:00 | NOK | Low | House Price Index (YoY) (Mar) |  |  | 3.00% |
 | 10:00 | EUR | Low | PPI (MoM) (Feb) |  | -0.6% | 0.7% |
