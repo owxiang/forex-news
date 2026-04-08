@@ -38,14 +38,14 @@
 | 10:00 | EUR | Low | PPI (YoY) (Feb) | -3.0% | -3.0% | -2.0% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (Feb) | 1.7% | 1.6% | 2.1% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Feb) | -0.2% | -0.2% | 0.0% |
-| 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.890% |
-| 11:00 | CAD | Low | Leading Index (MoM) (Mar) |  |  | 0.25% |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.57% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -10.4% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 159.4 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 278.3 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 946.4 |
-| 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Mar) |  |  | -0.84% |
+| 10:30 | EUR | Moderate | German 10-Year Bund Auction | 2.920% |  | 2.890% |
+| 32 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.57% |
+| 32 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -10.4% |
+| 32 min | USD | Low | MBA Purchase Index |  |  | 159.4 |
+| 32 min | USD | Low | Mortgage Market Index |  |  | 278.3 |
+| 32 min | USD | Low | Mortgage Refinance Index |  |  | 946.4 |
+| 32 min | CAD | Low | Leading Index (MoM) (Mar) |  |  | 0.25% |
+| 32 min | BRL | Low | IGP-DI Inflation Index (MoM) (Mar) |  |  | -0.84% |
 | 12:30 | INR | Low | M3 Money Supply |  |  | 10.7% |
 | 13:00 | MXN | Low | Consumer Confidence (Mar) |  |  | 44.4 |
 | 13:00 | MXN | Low | Consumer Confidence n.s.a. (Mar) |  |  | 44.5 |
