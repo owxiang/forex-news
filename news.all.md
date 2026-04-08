@@ -39,13 +39,13 @@
 | 10:00 | EUR | Low | Retail Sales (YoY) (Feb) | 1.7% | 1.6% | 2.1% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Feb) | -0.2% | -0.2% | 0.0% |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction | 2.920% |  | 2.890% |
-| 32 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.57% |
-| 32 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -10.4% |
-| 32 min | USD | Low | MBA Purchase Index |  |  | 159.4 |
-| 32 min | USD | Low | Mortgage Market Index |  |  | 278.3 |
-| 32 min | USD | Low | Mortgage Refinance Index |  |  | 946.4 |
-| 32 min | CAD | Low | Leading Index (MoM) (Mar) |  |  | 0.25% |
-| 32 min | BRL | Low | IGP-DI Inflation Index (MoM) (Mar) |  |  | -0.84% |
+| 11:00 | CAD | Low | Leading Index (MoM) (Mar) | 0.07% |  | 0.11% |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.51% |  | 6.57% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | -0.8% |  | -10.4% |
+| 12:00 | USD | Low | MBA Purchase Index | 161.1 |  | 159.4 |
+| 12:00 | USD | Low | Mortgage Market Index | 276.0 |  | 278.3 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 919.9 |  | 946.4 |
+| 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Mar) | 1.14% |  | -0.84% |
 | 12:30 | INR | Low | M3 Money Supply |  |  | 10.7% |
 | 13:00 | MXN | Low | Consumer Confidence (Mar) |  |  | 44.4 |
 | 13:00 | MXN | Low | Consumer Confidence n.s.a. (Mar) |  |  | 44.5 |
@@ -54,11 +54,11 @@
 | 15:30 | USD | Low | Crude Oil Imports |  |  | -0.209M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.520M |
 | 15:30 | USD | Low | Distillate Fuel Production |  |  | 0.000M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  |  | -2.111M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | -1.500M | -2.111M |
 | 15:30 | USD | Low | Gasoline Production |  |  | -0.152M |
 | 15:30 | USD | Low | Heating Oil Stockpiles |  |  | -0.809M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.8% |
-| 15:30 | USD | Low | Gasoline Inventories |  |  | -0.586M |
+| 15:30 | USD | Low | Gasoline Inventories |  | -1.400M | -0.586M |
 | 16:00 | USD | Low | Thomson Reuters IPSOS PCSI (Apr) |  |  | 53.33 |
 | 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (Apr) |  |  | 49.37 |
 | 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (Apr) |  |  | 53.05 |

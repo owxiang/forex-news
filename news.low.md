@@ -27,24 +27,24 @@
 | 10:00 | EUR | PPI (YoY) (Feb) | -3.0% | -3.0% | -2.0% |
 | 10:00 | EUR | Retail Sales (YoY) (Feb) | 1.7% | 1.6% | 2.1% |
 | 10:00 | EUR | Retail Sales (MoM) (Feb) | -0.2% | -0.2% | 0.0% |
-| 32 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.57% |
-| 32 min | USD | MBA Mortgage Applications (WoW) |  |  | -10.4% |
-| 32 min | USD | MBA Purchase Index |  |  | 159.4 |
-| 32 min | USD | Mortgage Market Index |  |  | 278.3 |
-| 32 min | USD | Mortgage Refinance Index |  |  | 946.4 |
-| 32 min | CAD | Leading Index (MoM) (Mar) |  |  | 0.25% |
-| 32 min | BRL | IGP-DI Inflation Index (MoM) (Mar) |  |  | -0.84% |
+| 11:00 | CAD | Leading Index (MoM) (Mar) | 0.07% |  | 0.11% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.51% |  | 6.57% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | -0.8% |  | -10.4% |
+| 12:00 | USD | MBA Purchase Index | 161.1 |  | 159.4 |
+| 12:00 | USD | Mortgage Market Index | 276.0 |  | 278.3 |
+| 12:00 | USD | Mortgage Refinance Index | 919.9 |  | 946.4 |
+| 12:00 | BRL | IGP-DI Inflation Index (MoM) (Mar) | 1.14% |  | -0.84% |
 | 12:30 | INR | M3 Money Supply |  |  | 10.7% |
 | 13:00 | MXN | Consumer Confidence (Mar) |  |  | 44.4 |
 | 13:00 | MXN | Consumer Confidence n.s.a. (Mar) |  |  | 44.5 |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.219M |
 | 15:30 | USD | Crude Oil Imports |  |  | -0.209M |
 | 15:30 | USD | Distillate Fuel Production |  |  | 0.000M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | -2.111M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  | -1.500M | -2.111M |
 | 15:30 | USD | Gasoline Production |  |  | -0.152M |
 | 15:30 | USD | Heating Oil Stockpiles |  |  | -0.809M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.8% |
-| 15:30 | USD | Gasoline Inventories |  |  | -0.586M |
+| 15:30 | USD | Gasoline Inventories |  | -1.400M | -0.586M |
 | 16:00 | USD | Thomson Reuters IPSOS PCSI (Apr) |  |  | 53.33 |
 | 16:00 | CAD | Thomson Reuters IPSOS PCSI (Apr) |  |  | 49.37 |
 | 16:00 | MXN | Thomson Reuters IPSOS PCSI (Apr) |  |  | 53.05 |
