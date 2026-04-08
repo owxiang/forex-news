@@ -50,4 +50,4 @@
 | 16:00 | CAD | Thomson Reuters IPSOS PCSI (Apr) | 45.59 |  | 49.37 |
 | 16:00 | MXN | Thomson Reuters IPSOS PCSI (Apr) | 54.00 |  | 53.05 |
 | 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Apr) | 49.22 |  | 52.24 |
-| 18:30 | BRL | Foreign Exchange Flows |  |  | 1.596B |
+| 18:30 | BRL | Foreign Exchange Flows | -2.654B |  | 1.596B |

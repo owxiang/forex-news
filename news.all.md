@@ -66,6 +66,6 @@
 | 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Apr) | 49.22 |  | 52.24 |
 | 18:00 | USD | High | 10-Year Note Auction | 4.282% |  | 4.217% |
 | 18:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
-| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 1.596B |
-| 31 min | USD | High | FOMC Meeting Minutes |  |  |  |
-| 19:35 | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 18:30 | BRL | Low | Foreign Exchange Flows | -2.654B |  | 1.596B |
+| 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
+| undefined min | USD | Moderate | Fed Waller Speaks |  |  |  |
