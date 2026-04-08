@@ -23,8 +23,8 @@
 | 08:30 | EUR | HCOB France Construction PMI (MoM) (Mar) | 38.4 |  | 43.9 |
 | 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Mar) | 44.6 |  | 46.0 |
 | 10:00 | NOK | House Price Index (YoY) (Mar) | 3.00% |  | 3.00% |
-| 10:00 | EUR | PPI (MoM) (Feb) | -0.7% | -0.6% | 0.8% |
 | 10:00 | EUR | PPI (YoY) (Feb) | -3.0% | -3.0% | -2.0% |
+| 10:00 | EUR | PPI (MoM) (Feb) | -0.7% | -0.6% | 0.8% |
 | 10:00 | EUR | Retail Sales (YoY) (Feb) | 1.7% | 1.6% | 2.1% |
 | 10:00 | EUR | Retail Sales (MoM) (Feb) | -0.2% | -0.2% | 0.0% |
 | 11:00 | CAD | Leading Index (MoM) (Mar) | 0.07% |  | 0.11% |
@@ -34,17 +34,16 @@
 | 12:00 | USD | Mortgage Market Index | 276.0 |  | 278.3 |
 | 12:00 | USD | Mortgage Refinance Index | 919.9 |  | 946.4 |
 | 12:00 | BRL | IGP-DI Inflation Index (MoM) (Mar) | 1.14% |  | -0.84% |
-| 12:30 | INR | M3 Money Supply |  |  | 10.7% |
 | 13:00 | MXN | Consumer Confidence (Mar) | 44.1 |  | 44.4 |
 | 13:00 | MXN | Consumer Confidence n.s.a. (Mar) | 44.1 |  | 44.5 |
-| 52 min | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.219M |
-| 52 min | USD | Crude Oil Imports |  |  | -0.209M |
-| 52 min | USD | Distillate Fuel Production |  |  | 0.000M |
-| 52 min | USD | EIA Weekly Distillates Stocks |  | -1.500M | -2.111M |
-| 52 min | USD | Gasoline Production |  |  | -0.152M |
-| 52 min | USD | Heating Oil Stockpiles |  |  | -0.809M |
-| 52 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.8% |
-| 52 min | USD | Gasoline Inventories |  | -1.400M | -0.586M |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) | -0.129M |  | -0.219M |
+| 15:30 | USD | Crude Oil Imports | -0.758M |  | -0.209M |
+| 15:30 | USD | Distillate Fuel Production | 0.009M |  | 0.000M |
+| 15:30 | USD | EIA Weekly Distillates Stocks | -3.144M | -1.500M | -2.111M |
+| 15:30 | USD | Gasoline Production | -0.214M |  | -0.152M |
+| 15:30 | USD | Heating Oil Stockpiles | 0.233M |  | -0.809M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.1% |  | -0.8% |
+| 15:30 | USD | Gasoline Inventories | -1.589M | -1.400M | -0.586M |
 | 16:00 | USD | Thomson Reuters IPSOS PCSI (Apr) |  |  | 53.33 |
 | 16:00 | CAD | Thomson Reuters IPSOS PCSI (Apr) |  |  | 49.37 |
 | 16:00 | MXN | Thomson Reuters IPSOS PCSI (Apr) |  |  | 53.05 |

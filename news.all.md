@@ -17,8 +17,8 @@
 | 05:30 | INR | Moderate | Interest Rate Decision | 5.25% | 5.25% | 5.25% |
 | 05:30 | INR | Low | Reverse REPO Rate | 3.35% |  | 3.35% |
 | 06:00 | JPY | Low | Economy Watchers Current Index (Mar) | 42.2 | 48.0 | 48.9 |
-| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Mar) | -0.5% | 0.2% | 0.3% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Mar) | 0.8% | 1.5% | 1.2% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Mar) | -0.5% | 0.2% | 0.3% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Feb) | 0.9% | 3.0% | -11.1% |
 | 07:45 | EUR | Low | French Current Account (Feb) | -1.80B |  | 2.30B |
 | 07:45 | EUR | Low | French Exports (Feb) | 52.0B |  | 53.2B |
@@ -34,8 +34,8 @@
 | 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Mar) | 44.6 |  | 46.0 |
 | 09:30 | GBP | Moderate | S&P Global Construction PMI (Mar) | 45.6 | 43.6 | 44.5 |
 | 10:00 | NOK | Low | House Price Index (YoY) (Mar) | 3.00% |  | 3.00% |
-| 10:00 | EUR | Low | PPI (MoM) (Feb) | -0.7% | -0.6% | 0.8% |
 | 10:00 | EUR | Low | PPI (YoY) (Feb) | -3.0% | -3.0% | -2.0% |
+| 10:00 | EUR | Low | PPI (MoM) (Feb) | -0.7% | -0.6% | 0.8% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (Feb) | 1.7% | 1.6% | 2.1% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Feb) | -0.2% | -0.2% | 0.0% |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction | 2.920% |  | 2.890% |
@@ -46,19 +46,18 @@
 | 12:00 | USD | Low | Mortgage Market Index | 276.0 |  | 278.3 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 919.9 |  | 946.4 |
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Mar) | 1.14% |  | -0.84% |
-| 12:30 | INR | Low | M3 Money Supply |  |  | 10.7% |
 | 13:00 | MXN | Low | Consumer Confidence (Mar) | 44.1 |  | 44.4 |
 | 13:00 | MXN | Low | Consumer Confidence n.s.a. (Mar) | 44.1 |  | 44.5 |
-| 52 min | USD | High | Crude Oil Inventories |  | -1.000M | 5.451M |
-| 52 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.219M |
-| 52 min | USD | Low | Crude Oil Imports |  |  | -0.209M |
-| 52 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.520M |
-| 52 min | USD | Low | Distillate Fuel Production |  |  | 0.000M |
-| 52 min | USD | Low | EIA Weekly Distillates Stocks |  | -1.500M | -2.111M |
-| 52 min | USD | Low | Gasoline Production |  |  | -0.152M |
-| 52 min | USD | Low | Heating Oil Stockpiles |  |  | -0.809M |
-| 52 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.8% |
-| 52 min | USD | Low | Gasoline Inventories |  | -1.400M | -0.586M |
+| 15:30 | USD | High | Crude Oil Inventories | 3.081M | -1.000M | 5.451M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | -0.129M |  | -0.219M |
+| 15:30 | USD | Low | Crude Oil Imports | -0.758M |  | -0.209M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | 0.024M |  | 0.520M |
+| 15:30 | USD | Low | Distillate Fuel Production | 0.009M |  | 0.000M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks | -3.144M | -1.500M | -2.111M |
+| 15:30 | USD | Low | Gasoline Production | -0.214M |  | -0.152M |
+| 15:30 | USD | Low | Heating Oil Stockpiles | 0.233M |  | -0.809M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -0.1% |  | -0.8% |
+| 15:30 | USD | Low | Gasoline Inventories | -1.589M | -1.400M | -0.586M |
 | 16:00 | USD | Low | Thomson Reuters IPSOS PCSI (Apr) |  |  | 53.33 |
 | 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (Apr) |  |  | 49.37 |
 | 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (Apr) |  |  | 53.05 |
