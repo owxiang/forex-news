@@ -7,7 +7,7 @@
 | 00:30 | JPY | Overall wage income of employees (Feb) | 3.3% | 2.7% | 2.5% |
 | 00:30 | JPY | Overtime Pay (YoY) (Feb) | 3.30% |  | 3.20% |
 | 01:30 | HKD | S&P Global Manufacturing PMI (Mar) | 49.3 |  | 53.3 |
-| 04:00 | IDR | FX Reserves (USD) (Mar) |  |  | 151.90B |
+| 04:30 | IDR | FX Reserves (USD) (Mar) |  |  | 151.90B |
 | 05:30 | INR | Cash Reserve Ratio |  |  | 3.00% |
 | 05:30 | INR | Reverse REPO Rate |  |  | 3.35% |
 | 06:00 | JPY | Economy Watchers Current Index (Mar) |  | 48.0 | 48.9 |
