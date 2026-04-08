@@ -34,9 +34,9 @@
 | 12:00 | USD | Mortgage Market Index | 276.0 |  | 278.3 |
 | 12:00 | USD | Mortgage Refinance Index | 919.9 |  | 946.4 |
 | 12:00 | BRL | IGP-DI Inflation Index (MoM) (Mar) | 1.14% |  | -0.84% |
-| 12:30 | INR | M3 Money Supply |  |  | 10.7% |
-| 13:00 | MXN | Consumer Confidence (Mar) |  |  | 44.4 |
-| 13:00 | MXN | Consumer Confidence n.s.a. (Mar) |  |  | 44.5 |
+| 13:00 | MXN | Consumer Confidence (Mar) | 44.1 |  | 44.4 |
+| 13:00 | MXN | Consumer Confidence n.s.a. (Mar) | 44.1 |  | 44.5 |
+| 15:00 | INR | M3 Money Supply |  |  | 10.7% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.219M |
 | 15:30 | USD | Crude Oil Imports |  |  | -0.209M |
 | 15:30 | USD | Distillate Fuel Production |  |  | 0.000M |
