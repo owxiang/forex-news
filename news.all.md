@@ -58,10 +58,10 @@
 | 15:30 | USD | Low | Heating Oil Stockpiles | 0.233M |  | -0.809M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -0.1% |  | -0.8% |
 | 15:30 | USD | Low | Gasoline Inventories | -1.589M | -1.400M | -0.586M |
-| 16:00 | USD | Low | Thomson Reuters IPSOS PCSI (Apr) |  |  | 53.33 |
-| 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (Apr) |  |  | 49.37 |
-| 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (Apr) |  |  | 53.05 |
-| 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Apr) |  |  | 52.24 |
+| 16:00 | USD | Low | Thomson Reuters IPSOS PCSI (Apr) | 49.95 |  | 53.33 |
+| 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (Apr) | 45.59 |  | 49.37 |
+| 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (Apr) | 54.00 |  | 53.05 |
+| 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Apr) | 49.22 |  | 52.24 |
 | 18:00 | USD | High | 10-Year Note Auction |  |  | 4.217% |
 | 18:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 18:00 | BRL | Low | Auto Production (MoM) |  |  | 24.9% |

@@ -44,10 +44,10 @@
 | 15:30 | USD | Heating Oil Stockpiles | 0.233M |  | -0.809M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.1% |  | -0.8% |
 | 15:30 | USD | Gasoline Inventories | -1.589M | -1.400M | -0.586M |
-| 16:00 | USD | Thomson Reuters IPSOS PCSI (Apr) |  |  | 53.33 |
-| 16:00 | CAD | Thomson Reuters IPSOS PCSI (Apr) |  |  | 49.37 |
-| 16:00 | MXN | Thomson Reuters IPSOS PCSI (Apr) |  |  | 53.05 |
-| 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Apr) |  |  | 52.24 |
+| 16:00 | USD | Thomson Reuters IPSOS PCSI (Apr) | 49.95 |  | 53.33 |
+| 16:00 | CAD | Thomson Reuters IPSOS PCSI (Apr) | 45.59 |  | 49.37 |
+| 16:00 | MXN | Thomson Reuters IPSOS PCSI (Apr) | 54.00 |  | 53.05 |
+| 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Apr) | 49.22 |  | 52.24 |
 | 18:00 | BRL | Auto Production (MoM) |  |  | 24.9% |
 | 18:00 | BRL | Auto Sales (MoM) |  |  | 8.6% |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | 1.596B |
