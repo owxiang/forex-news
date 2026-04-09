@@ -2,7 +2,6 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | RICS House Price Balance (Mar) | -23% |  | -14% |
 | 07:00 | EUR | German Industrial Production (MoM) (Feb) |  | 0.6% | -0.5% |
 | 07:00 | EUR | German Trade Balance (Feb) |  | 18.1B | 21.2B |
 | 09:30 | GBP | BOE Credit Conditions Survey |  |  |  |
@@ -12,8 +11,8 @@
 | 13:00 | BRL | Retail Sales (YoY) (Feb) |  |  | 2.8% |
 | 13:00 | BRL | Retail Sales (MoM) (Feb) |  |  | 0.4% |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,840K | 1,841K |
-| 13:30 | USD | Core PCE Prices (Q4) |  | 2.70% | 2.70% |
-| 13:30 | USD | GDP Price Index (QoQ) (Q4) |  | 3.8% | 3.8% |
+| 13:30 | USD | Core PCE Prices (Q4) |  | 2.70% | 2.90% |
+| 13:30 | USD | GDP Price Index (QoQ) (Q4) |  | 3.8% | 3.7% |
 | 13:30 | USD | PCE price index (MoM) (Feb) |  | 0.4% | 0.3% |
 | 13:30 | USD | PCE Price index (YoY) (Feb) |  | 2.8% | 2.8% |
 | 13:30 | USD | Personal Spending (MoM) (Feb) |  | 0.6% | 0.4% |

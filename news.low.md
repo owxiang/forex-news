@@ -5,8 +5,8 @@
 | 00:50 | JPY | Foreign Bonds Buying | -2,462.4B |  | -945.5B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 2,959.6B |  | -4,448.1B |
 | 04:00 | IDR | Motorbike Sales (YoY) (Mar) | -17.10% |  | 1.00% |
-| 24 min | JPY | 5-Year JGB Auction |  |  | 1.633% |
-| 06:00 | JPY | Household Confidence (Mar) |  | 38.3 | 40.0 |
+| 04:35 | JPY | 5-Year JGB Auction | 1.826% |  | 1.633% |
+| 7 min | JPY | Household Confidence (Mar) |  | 38.3 | 40.0 |
 | 07:00 | EUR | German Exports (MoM) (Feb) |  | 1.0% | -2.3% |
 | 07:00 | EUR | German Imports (MoM) (Feb) |  | 4.0% | -5.9% |
 | 07:00 | EUR | German Industrial Production (YoY) (Feb) |  |  | -1.09% |
@@ -35,11 +35,11 @@
 | 13:00 | MXN | PPI (MoM) (Mar) |  |  | 0.30% |
 | 13:00 | MXN | PPI (YoY) (Mar) |  |  | 1.10% |
 | 13:30 | USD | Corporate Profits (QoQ) (Q4) |  |  | 4.7% |
-| 13:30 | USD | GDP Sales (Q4) |  | 0.4% | 0.4% |
+| 13:30 | USD | GDP Sales (Q4) |  | 0.4% | 4.5% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 207.75K |
-| 13:30 | USD | PCE Prices (Q4) |  | 2.9% | 2.9% |
+| 13:30 | USD | PCE Prices (Q4) |  | 2.9% | 2.8% |
 | 13:30 | USD | Personal Income (MoM) (Feb) |  | 0.3% | 0.4% |
-| 13:30 | USD | Real Consumer Spending (Q4) |  | 2.0% | 2.0% |
+| 13:30 | USD | Real Consumer Spending (Q4) |  | 2.0% | 3.5% |
 | 13:30 | USD | Real Personal Consumption (MoM) (Feb) |  |  | 0.1% |
 | 15:00 | USD | Dallas Fed PCE (Feb) |  |  | 2.70% |
 | 15:00 | USD | Wholesale Inventories (MoM) (Feb) |  | -0.5% | 0.2% |

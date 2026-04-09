@@ -2,12 +2,11 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:01 | GBP | Moderate | RICS House Price Balance (Mar) | -23% |  | -14% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | -2,462.4B |  | -945.5B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 2,959.6B |  | -4,448.1B |
 | 04:00 | IDR | Low | Motorbike Sales (YoY) (Mar) | -17.10% |  | 1.00% |
-| 24 min | JPY | Low | 5-Year JGB Auction |  |  | 1.633% |
-| 06:00 | JPY | Low | Household Confidence (Mar) |  | 38.3 | 40.0 |
+| 04:35 | JPY | Low | 5-Year JGB Auction | 1.826% |  | 1.633% |
+| 7 min | JPY | Low | Household Confidence (Mar) |  | 38.3 | 40.0 |
 | 07:00 | EUR | Low | German Exports (MoM) (Feb) |  | 1.0% | -2.3% |
 | 07:00 | EUR | Low | German Imports (MoM) (Feb) |  | 4.0% | -5.9% |
 | 07:00 | EUR | Moderate | German Industrial Production (MoM) (Feb) |  | 0.6% | -0.5% |
@@ -46,19 +45,19 @@
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,840K | 1,841K |
 | 13:30 | USD | High | Core PCE Price Index (MoM) (Feb) |  | 0.4% | 0.4% |
 | 13:30 | USD | High | Core PCE Price Index (YoY) (Feb) |  | 3.0% | 3.1% |
-| 13:30 | USD | Moderate | Core PCE Prices (Q4) |  | 2.70% | 2.70% |
+| 13:30 | USD | Moderate | Core PCE Prices (Q4) |  | 2.70% | 2.90% |
 | 13:30 | USD | Low | Corporate Profits (QoQ) (Q4) |  |  | 4.7% |
-| 13:30 | USD | High | GDP (QoQ) (Q4) |  | 0.7% | 0.7% |
-| 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q4) |  | 3.8% | 3.8% |
-| 13:30 | USD | Low | GDP Sales (Q4) |  | 0.4% | 0.4% |
+| 13:30 | USD | High | GDP (QoQ) (Q4) |  | 0.7% | 4.4% |
+| 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q4) |  | 3.8% | 3.7% |
+| 13:30 | USD | Low | GDP Sales (Q4) |  | 0.4% | 4.5% |
 | 13:30 | USD | High | Initial Jobless Claims |  | 210K | 202K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 207.75K |
 | 13:30 | USD | Moderate | PCE price index (MoM) (Feb) |  | 0.4% | 0.3% |
 | 13:30 | USD | Moderate | PCE Price index (YoY) (Feb) |  | 2.8% | 2.8% |
-| 13:30 | USD | Low | PCE Prices (Q4) |  | 2.9% | 2.9% |
+| 13:30 | USD | Low | PCE Prices (Q4) |  | 2.9% | 2.8% |
 | 13:30 | USD | Low | Personal Income (MoM) (Feb) |  | 0.3% | 0.4% |
 | 13:30 | USD | Moderate | Personal Spending (MoM) (Feb) |  | 0.6% | 0.4% |
-| 13:30 | USD | Low | Real Consumer Spending (Q4) |  | 2.0% | 2.0% |
+| 13:30 | USD | Low | Real Consumer Spending (Q4) |  | 2.0% | 3.5% |
 | 13:30 | USD | Low | Real Personal Consumption (MoM) (Feb) |  |  | 0.1% |
 | 15:00 | USD | Low | Dallas Fed PCE (Feb) |  |  | 2.70% |
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (Feb) |  | -0.5% | 0.2% |
