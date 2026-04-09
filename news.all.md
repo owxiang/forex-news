@@ -24,9 +24,6 @@
 | 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction | 3.435% |  | 3.476% |
 | 09:40 | EUR | Low | Spanish 3-Year Bonos Auction | 2.734% |  | 2.404% |
 | 09:40 | EUR | Low | Spanish 5-Year Bonos Auction | 3.476% |  | 2.934% |
-| 10:10 | EUR | Low | Italian 15-Year BTP Auction |  |  | 3.87% |
-| 10:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 2.75% |
-| 10:10 | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.34% |
 | 10:20 | EUR | Low | Italian 12-Month BOT Auction | 2.604% |  | 2.372% |
 | 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Apr) | 43.3 |  | 46.0 |
 | 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Apr) | 43.12 |  | 47.53 |
@@ -37,40 +34,39 @@
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (Apr) | 48.49 |  | 47.51 |
 | 12:00 | ZAR | Low | Manufacturing Production (MoM) (Feb) | -2.2% |  | 1.9% |
 | 12:00 | ZAR | Low | Manufacturing Production (YoY) (Feb) | -2.8% |  | -0.1% |
-| 34 min | MXN | Low | Core CPI (MoM) (Mar) |  | 0.40% | 0.46% |
-| 34 min | MXN | Moderate | CPI (YoY) (Mar) |  | 4.61% | 4.02% |
-| 34 min | MXN | Moderate | CPI (MoM) (Mar) |  | 0.88% | 0.50% |
-| 34 min | MXN | Low | Month Core Inflation (YoY) (Mar) |  | 4.46% | 4.50% |
-| 34 min | MXN | Low | PPI (YoY) (Mar) |  |  | 1.10% |
-| 34 min | MXN | Low | PPI (MoM) (Mar) |  |  | 0.30% |
-| 34 min | BRL | Moderate | Retail Sales (MoM) (Feb) |  |  | 0.4% |
-| 34 min | BRL | Moderate | Retail Sales (YoY) (Feb) |  |  | 2.8% |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,840K | 1,841K |
-| 13:30 | USD | High | Core PCE Price Index (MoM) (Feb) |  | 0.4% | 0.4% |
-| 13:30 | USD | High | Core PCE Price Index (YoY) (Feb) |  | 3.0% | 3.1% |
-| 13:30 | USD | Moderate | Core PCE Prices (Q4) |  | 2.70% | 2.90% |
-| 13:30 | USD | Low | Corporate Profits (QoQ) (Q4) |  |  | 4.7% |
-| 13:30 | USD | High | GDP (QoQ) (Q4) |  | 0.7% | 4.4% |
-| 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q4) |  | 3.8% | 3.7% |
-| 13:30 | USD | Low | GDP Sales (Q4) |  | 0.4% | 4.5% |
-| 13:30 | USD | High | Initial Jobless Claims |  | 210K | 202K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 207.75K |
-| 13:30 | USD | Moderate | PCE price index (MoM) (Feb) |  | 0.4% | 0.3% |
-| 13:30 | USD | Moderate | PCE Price index (YoY) (Feb) |  | 2.8% | 2.8% |
-| 13:30 | USD | Low | PCE Prices (Q4) |  | 2.9% | 2.8% |
-| 13:30 | USD | Low | Personal Income (MoM) (Feb) |  | 0.3% | 0.4% |
-| 13:30 | USD | Moderate | Personal Spending (MoM) (Feb) |  | 0.6% | 0.4% |
-| 13:30 | USD | Low | Real Consumer Spending (Q4) |  | 2.0% | 3.5% |
-| 13:30 | USD | Low | Real Personal Consumption (MoM) (Feb) |  |  | 0.1% |
+| 13:00 | MXN | Low | Core CPI (MoM) (Mar) | 0.38% | 0.40% | 0.46% |
+| 13:00 | MXN | Moderate | CPI (YoY) (Mar) | 4.59% | 4.61% | 4.02% |
+| 13:00 | MXN | Moderate | CPI (MoM) (Mar) | 0.86% | 0.88% | 0.50% |
+| 13:00 | MXN | Low | Month Core Inflation (YoY) (Mar) | 4.45% | 4.46% | 4.50% |
+| 13:00 | MXN | Low | PPI (YoY) (Mar) | 2.80% |  | 1.10% |
+| 13:00 | MXN | Low | PPI (MoM) (Mar) | 1.70% |  | 0.20% |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,794K | 1,840K | 1,832K |
+| 13:30 | USD | High | Core PCE Price Index (MoM) (Feb) | 0.4% | 0.4% | 0.4% |
+| 13:30 | USD | High | Core PCE Price Index (YoY) (Feb) | 3.0% | 3.0% | 3.1% |
+| 13:30 | USD | Moderate | Core PCE Prices (Q4) | 2.70% | 2.70% | 2.90% |
+| 13:30 | USD | Low | Corporate Profits (QoQ) (Q4) | 5.7% |  | 4.7% |
+| 13:30 | USD | High | GDP (QoQ) (Q4) | 0.5% | 0.7% | 4.4% |
+| 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q4) | 3.7% | 3.8% | 3.7% |
+| 13:30 | USD | Low | GDP Sales (Q4) | 0.3% | 0.4% | 4.5% |
+| 13:30 | USD | High | Initial Jobless Claims | 219K | 210K | 203K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 209.50K |  | 208.00K |
+| 13:30 | USD | Moderate | PCE Price index (YoY) (Feb) | 2.8% | 2.8% | 2.8% |
+| 13:30 | USD | Moderate | PCE price index (MoM) (Feb) | 0.4% | 0.4% | 0.3% |
+| 13:30 | USD | Low | PCE Prices (Q4) | 2.9% | 2.9% | 2.8% |
+| 13:30 | USD | Low | Personal Income (MoM) (Feb) | -0.1% | 0.3% | 0.4% |
+| 13:30 | USD | Moderate | Personal Spending (MoM) (Feb) | 0.5% | 0.6% | 0.3% |
+| 13:30 | USD | Low | Real Consumer Spending (Q4) | 1.9% | 2.0% | 3.5% |
+| 13:30 | USD | Low | Real Personal Consumption (MoM) (Feb) | 0.1% |  | 0.0% |
 | 15:00 | USD | Low | Dallas Fed PCE (Feb) |  |  | 2.70% |
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (Feb) |  | -0.5% | 0.2% |
 | 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Feb) |  |  | 0.5% |
+| 15:00 | BRL | Moderate | Retail Sales (YoY) (Feb) |  |  | 2.8% |
+| 15:00 | BRL | Moderate | Retail Sales (MoM) (Feb) |  |  | 0.4% |
 | 15:30 | USD | Low | Natural Gas Storage |  | 41B | 36B |
 | 16:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.620% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.620% |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 1.3% | 1.3% |
-| 16:30 | INR | Low | M3 Money Supply |  |  | 10.7% |
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |
 | 18:00 | USD | High | 30-Year Bond Auction |  |  | 4.871% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,675B |
