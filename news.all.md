@@ -21,10 +21,10 @@
 | 09:30 | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
 | 09:30 | GBP | Moderate | Mortgage Rate (GBP) (Mar) | 6.60% |  | 6.59% |
 | 09:30 | HKD | Low | Foreign Reserves (USD) (Mar) | 430.80B |  | 439.30B |
-| 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.476% |
-| 09:40 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.404% |
-| 09:40 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.934% |
-| 31 min | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.372% |
+| 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction | 3.435% |  | 3.476% |
+| 09:40 | EUR | Low | Spanish 3-Year Bonos Auction | 2.734% |  | 2.404% |
+| 09:40 | EUR | Low | Spanish 5-Year Bonos Auction | 3.476% |  | 2.934% |
+| 10:20 | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.372% |
 | 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Apr) |  |  | 46.0 |
 | 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Apr) |  |  | 47.53 |
 | 11:00 | EUR | Low | German Car Registration (YoY) |  |  | 3.8% |

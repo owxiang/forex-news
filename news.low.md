@@ -17,10 +17,10 @@
 | 08:00 | EUR | Spanish Industrial Production (YoY) (Feb) | -1.1% | 1.5% | -0.2% |
 | 09:00 | CHF | SNB Chairman Schlegel Speaks |  |  |  |
 | 09:30 | HKD | Foreign Reserves (USD) (Mar) | 430.80B |  | 439.30B |
-| 09:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.476% |
-| 09:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 2.404% |
-| 09:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.934% |
-| 31 min | EUR | Italian 12-Month BOT Auction |  |  | 2.372% |
+| 09:40 | EUR | Spanish 10-Year Obligacion Auction | 3.435% |  | 3.476% |
+| 09:40 | EUR | Spanish 3-Year Bonos Auction | 2.734% |  | 2.404% |
+| 09:40 | EUR | Spanish 5-Year Bonos Auction | 3.476% |  | 2.934% |
+| 10:20 | EUR | Italian 12-Month BOT Auction |  |  | 2.372% |
 | 11:00 | GBP | Thomson Reuters IPSOS PCSI (Apr) |  |  | 46.0 |
 | 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Apr) |  |  | 47.53 |
 | 11:00 | EUR | German Car Registration (YoY) |  |  | 3.8% |
