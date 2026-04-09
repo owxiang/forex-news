@@ -1,21 +1,34 @@
-## 09 April 2026 - Moderate Impact Forex News
+## 10 April 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | EUR | German Industrial Production (MoM) (Feb) | -0.3% | 0.6% | 0.0% |
-| 07:00 | EUR | German Trade Balance (Feb) | 19.8B | 18.1B | 20.3B |
-| 09:30 | GBP | BOE Credit Conditions Survey |  |  |  |
-| 09:30 | GBP | Mortgage Rate (GBP) (Mar) | 6.60% |  | 6.59% |
-| 13:00 | MXN | CPI (YoY) (Mar) | 4.59% | 4.61% | 4.02% |
-| 13:00 | MXN | CPI (MoM) (Mar) | 0.86% | 0.88% | 0.50% |
-| 13:30 | USD | Continuing Jobless Claims | 1,794K | 1,840K | 1,832K |
-| 13:30 | USD | Core PCE Prices (Q4) | 2.70% | 2.70% | 2.90% |
-| 13:30 | USD | GDP Price Index (QoQ) (Q4) | 3.7% | 3.8% | 3.7% |
-| 13:30 | USD | PCE price index (MoM) (Feb) | 0.4% | 0.4% | 0.3% |
-| 13:30 | USD | PCE Price index (YoY) (Feb) | 2.8% | 2.8% | 2.8% |
-| 13:30 | USD | Personal Spending (MoM) (Feb) | 0.5% | 0.6% | 0.3% |
-| 16:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
-| 16:30 | USD | Atlanta Fed GDPNow (Q1) | 1.3% | 1.3% | 1.3% |
-| 17:00 | USD | WASDE Report |  |  |  |
-| 21:30 | USD | Fed's Balance Sheet | 6,694B |  | 6,675B |
-| 11 min | NZD | Business NZ PMI (Mar) |  |  | 55.0 |
+| 02:30 | AUD | Building Approvals (MoM) (Feb) |  | 29.7% | -7.2% |
+| 02:30 | CNY | CPI (YoY) (Mar) |  | 1.2% | 1.3% |
+| 02:30 | CNY | CPI (MoM) (Mar) |  | -0.2% | 1.0% |
+| 02:30 | CNY | PPI (YoY) (Mar) |  | 0.4% | -0.9% |
+| 07:00 | EUR | German CPI (YoY) (Mar) |  | 2.7% | 1.9% |
+| 08:00 | CHF | SECO Consumer Climate (Mar) |  | -32 | -30 |
+| 11:00 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 12:00 | BRL | Retail Sales (YoY) (Feb) |  |  | 2.8% |
+| 12:00 | BRL | Retail Sales (MoM) (Feb) |  |  | 0.4% |
+| 13:00 | BRL | CPI (YoY) (Mar) |  | 4.04% | 3.81% |
+| 13:30 | USD | Core CPI (YoY) (Mar) |  | 2.7% | 2.5% |
+| 13:30 | CAD | Employment Change (Mar) |  | 14.5K | -83.9K |
+| 13:30 | CAD | Unemployment Rate (Mar) |  | 6.8% | 6.7% |
+| 15:00 | USD | Factory Orders (MoM) (Feb) |  | -0.3% | 0.1% |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (Apr) |  |  | 3.8% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (Apr) |  |  | 3.2% |
+| 15:00 | USD | Michigan Consumer Expectations (Apr) |  |  | 51.7 |
+| 15:00 | USD | Michigan Consumer Sentiment (Apr) |  | 51.6 | 53.3 |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 411 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 548 |
+| 19:00 | USD | Federal Budget Balance (Mar) |  | -153.3B | -308.0B |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | -52.7K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 213.5K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 163.2K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 20.6K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -42.5K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | 81.5K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 52.7K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | -72.9K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 0.5K |
