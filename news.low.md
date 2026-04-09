@@ -10,7 +10,7 @@
 | 07:00 | EUR | German Exports (MoM) (Feb) | 3.6% | 1.0% | -1.5% |
 | 07:00 | EUR | German Imports (MoM) (Feb) | 4.7% | 4.0% | -5.1% |
 | 07:00 | EUR | German Industrial Production (YoY) (Feb) | 0.00% |  | -0.65% |
-| 07:00 | JPY | Machine Tool Orders (YoY) | 28.1% |  | 24.2% |
+| 07:00 | JPY | Machine Tool Orders (YoY) (Mar) | 28.1% |  | 24.2% |
 | 07:00 | NOK | PPI (YoY) (Mar) | 16.9% |  | -9.4% |
 | 07:00 | ZAR | Foreign Reserves (USD) (Mar) | 77.76B |  | 81.06B |
 | 07:00 | ZAR | Net FX Reserves (USD) (Mar) | 73.187B |  | 75.835B |
@@ -23,7 +23,7 @@
 | 10:20 | EUR | Italian 12-Month BOT Auction | 2.604% |  | 2.372% |
 | 11:00 | GBP | Thomson Reuters IPSOS PCSI (Apr) | 43.3 |  | 46.0 |
 | 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Apr) | 43.12 |  | 47.53 |
-| 11:00 | EUR | German Car Registration (YoY) | 16.0% |  | 3.8% |
+| 11:00 | EUR | German Car Registration (YoY) (Mar) | 16.0% |  | 3.8% |
 | 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Apr) | 41.80 |  | 44.73 |
 | 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Apr) | 38.08 |  | 42.03 |
 | 11:00 | EUR | Thomson Reuters IPSOS PCSI (Apr) | 47.16 |  | 51.21 |
@@ -47,4 +47,4 @@
 | 15:30 | USD | Natural Gas Storage | 50B | 41B | 36B |
 | 16:30 | USD | 4-Week Bill Auction | 3.560% |  | 3.620% |
 | 16:30 | USD | 8-Week Bill Auction | 3.575% |  | 3.620% |
-| 8 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.064T |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.184T |  | 3.064T |

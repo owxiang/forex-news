@@ -12,7 +12,7 @@
 | 07:00 | EUR | Moderate | German Industrial Production (MoM) (Feb) | -0.3% | 0.6% | 0.0% |
 | 07:00 | EUR | Moderate | German Trade Balance (Feb) | 19.8B | 18.1B | 20.3B |
 | 07:00 | EUR | Low | German Industrial Production (YoY) (Feb) | 0.00% |  | -0.65% |
-| 07:00 | JPY | Low | Machine Tool Orders (YoY) | 28.1% |  | 24.2% |
+| 07:00 | JPY | Low | Machine Tool Orders (YoY) (Mar) | 28.1% |  | 24.2% |
 | 07:00 | NOK | Low | PPI (YoY) (Mar) | 16.9% |  | -9.4% |
 | 07:00 | ZAR | Low | Foreign Reserves (USD) (Mar) | 77.76B |  | 81.06B |
 | 07:00 | ZAR | Low | Net FX Reserves (USD) (Mar) | 73.187B |  | 75.835B |
@@ -27,7 +27,7 @@
 | 10:20 | EUR | Low | Italian 12-Month BOT Auction | 2.604% |  | 2.372% |
 | 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Apr) | 43.3 |  | 46.0 |
 | 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Apr) | 43.12 |  | 47.53 |
-| 11:00 | EUR | Low | German Car Registration (YoY) | 16.0% |  | 3.8% |
+| 11:00 | EUR | Low | German Car Registration (YoY) (Mar) | 16.0% |  | 3.8% |
 | 11:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Apr) | 41.80 |  | 44.73 |
 | 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Apr) | 38.08 |  | 42.03 |
 | 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (Apr) | 47.16 |  | 51.21 |
@@ -67,6 +67,6 @@
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 1.3% | 1.3% | 1.3% |
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |
 | 18:00 | USD | High | 30-Year Bond Auction | 4.876% |  | 4.871% |
-| 8 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,675B |
-| 8 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.064T |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,694B |  | 6,675B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.184T |  | 3.064T |
 | 23:30 | NZD | Moderate | Business NZ PMI (Mar) |  |  | 55.0 |

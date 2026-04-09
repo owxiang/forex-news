@@ -17,5 +17,5 @@
 | 16:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
 | 16:30 | USD | Atlanta Fed GDPNow (Q1) | 1.3% | 1.3% | 1.3% |
 | 17:00 | USD | WASDE Report |  |  |  |
-| 8 min | USD | Fed's Balance Sheet |  |  | 6,675B |
+| 21:30 | USD | Fed's Balance Sheet | 6,694B |  | 6,675B |
 | 23:30 | NZD | Business NZ PMI (Mar) |  |  | 55.0 |
