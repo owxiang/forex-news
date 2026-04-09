@@ -6,10 +6,10 @@
 | 07:00 | EUR | German Trade Balance (Feb) | 19.8B | 18.1B | 20.3B |
 | 09:30 | GBP | BOE Credit Conditions Survey |  |  |  |
 | 09:30 | GBP | Mortgage Rate (GBP) (Mar) | 6.60% |  | 6.59% |
-| 13:00 | MXN | CPI (MoM) (Mar) |  | 0.88% | 0.50% |
-| 13:00 | MXN | CPI (YoY) (Mar) |  | 4.61% | 4.02% |
-| 13:00 | BRL | Retail Sales (YoY) (Feb) |  |  | 2.8% |
-| 13:00 | BRL | Retail Sales (MoM) (Feb) |  |  | 0.4% |
+| 34 min | MXN | CPI (YoY) (Mar) |  | 4.61% | 4.02% |
+| 34 min | MXN | CPI (MoM) (Mar) |  | 0.88% | 0.50% |
+| 34 min | BRL | Retail Sales (MoM) (Feb) |  |  | 0.4% |
+| 34 min | BRL | Retail Sales (YoY) (Feb) |  |  | 2.8% |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,840K | 1,841K |
 | 13:30 | USD | Core PCE Prices (Q4) |  | 2.70% | 2.90% |
 | 13:30 | USD | GDP Price Index (QoQ) (Q4) |  | 3.8% | 3.7% |

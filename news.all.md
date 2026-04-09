@@ -24,6 +24,9 @@
 | 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction | 3.435% |  | 3.476% |
 | 09:40 | EUR | Low | Spanish 3-Year Bonos Auction | 2.734% |  | 2.404% |
 | 09:40 | EUR | Low | Spanish 5-Year Bonos Auction | 3.476% |  | 2.934% |
+| 10:10 | EUR | Low | Italian 15-Year BTP Auction |  |  | 3.87% |
+| 10:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 2.75% |
+| 10:10 | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.34% |
 | 10:20 | EUR | Low | Italian 12-Month BOT Auction | 2.604% |  | 2.372% |
 | 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Apr) | 43.3 |  | 46.0 |
 | 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Apr) | 43.12 |  | 47.53 |
@@ -32,16 +35,16 @@
 | 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Apr) | 38.08 |  | 42.03 |
 | 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (Apr) | 47.16 |  | 51.21 |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (Apr) | 48.49 |  | 47.51 |
-| 29 min | ZAR | Low | Manufacturing Production (MoM) (Feb) |  |  | 1.5% |
-| 29 min | ZAR | Low | Manufacturing Production (YoY) (Feb) |  |  | -0.7% |
-| 13:00 | MXN | Low | Core CPI (MoM) (Mar) |  | 0.40% | 0.46% |
-| 13:00 | MXN | Moderate | CPI (MoM) (Mar) |  | 0.88% | 0.50% |
-| 13:00 | MXN | Moderate | CPI (YoY) (Mar) |  | 4.61% | 4.02% |
-| 13:00 | MXN | Low | Month Core Inflation (YoY) (Mar) |  | 4.46% | 4.50% |
-| 13:00 | MXN | Low | PPI (MoM) (Mar) |  |  | 0.30% |
-| 13:00 | MXN | Low | PPI (YoY) (Mar) |  |  | 1.10% |
-| 13:00 | BRL | Moderate | Retail Sales (YoY) (Feb) |  |  | 2.8% |
-| 13:00 | BRL | Moderate | Retail Sales (MoM) (Feb) |  |  | 0.4% |
+| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Feb) | -2.2% |  | 1.9% |
+| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Feb) | -2.8% |  | -0.1% |
+| 34 min | MXN | Low | Core CPI (MoM) (Mar) |  | 0.40% | 0.46% |
+| 34 min | MXN | Moderate | CPI (YoY) (Mar) |  | 4.61% | 4.02% |
+| 34 min | MXN | Moderate | CPI (MoM) (Mar) |  | 0.88% | 0.50% |
+| 34 min | MXN | Low | Month Core Inflation (YoY) (Mar) |  | 4.46% | 4.50% |
+| 34 min | MXN | Low | PPI (YoY) (Mar) |  |  | 1.10% |
+| 34 min | MXN | Low | PPI (MoM) (Mar) |  |  | 0.30% |
+| 34 min | BRL | Moderate | Retail Sales (MoM) (Feb) |  |  | 0.4% |
+| 34 min | BRL | Moderate | Retail Sales (YoY) (Feb) |  |  | 2.8% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,840K | 1,841K |
 | 13:30 | USD | High | Core PCE Price Index (MoM) (Feb) |  | 0.4% | 0.4% |
 | 13:30 | USD | High | Core PCE Price Index (YoY) (Feb) |  | 3.0% | 3.1% |

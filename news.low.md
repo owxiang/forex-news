@@ -20,6 +20,9 @@
 | 09:40 | EUR | Spanish 10-Year Obligacion Auction | 3.435% |  | 3.476% |
 | 09:40 | EUR | Spanish 3-Year Bonos Auction | 2.734% |  | 2.404% |
 | 09:40 | EUR | Spanish 5-Year Bonos Auction | 3.476% |  | 2.934% |
+| 10:10 | EUR | Italian 15-Year BTP Auction |  |  | 3.87% |
+| 10:10 | EUR | Italian 3-Year BTP Auction |  |  | 2.75% |
+| 10:10 | EUR | Italian 7-Year BTP Auction |  |  | 3.34% |
 | 10:20 | EUR | Italian 12-Month BOT Auction | 2.604% |  | 2.372% |
 | 11:00 | GBP | Thomson Reuters IPSOS PCSI (Apr) | 43.3 |  | 46.0 |
 | 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Apr) | 43.12 |  | 47.53 |
@@ -28,12 +31,12 @@
 | 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Apr) | 38.08 |  | 42.03 |
 | 11:00 | EUR | Thomson Reuters IPSOS PCSI (Apr) | 47.16 |  | 51.21 |
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (Apr) | 48.49 |  | 47.51 |
-| 29 min | ZAR | Manufacturing Production (MoM) (Feb) |  |  | 1.5% |
-| 29 min | ZAR | Manufacturing Production (YoY) (Feb) |  |  | -0.7% |
-| 13:00 | MXN | Core CPI (MoM) (Mar) |  | 0.40% | 0.46% |
-| 13:00 | MXN | Month Core Inflation (YoY) (Mar) |  | 4.46% | 4.50% |
-| 13:00 | MXN | PPI (MoM) (Mar) |  |  | 0.30% |
-| 13:00 | MXN | PPI (YoY) (Mar) |  |  | 1.10% |
+| 12:00 | ZAR | Manufacturing Production (MoM) (Feb) | -2.2% |  | 1.9% |
+| 12:00 | ZAR | Manufacturing Production (YoY) (Feb) | -2.8% |  | -0.1% |
+| 34 min | MXN | Core CPI (MoM) (Mar) |  | 0.40% | 0.46% |
+| 34 min | MXN | Month Core Inflation (YoY) (Mar) |  | 4.46% | 4.50% |
+| 34 min | MXN | PPI (YoY) (Mar) |  |  | 1.10% |
+| 34 min | MXN | PPI (MoM) (Mar) |  |  | 0.30% |
 | 13:30 | USD | Corporate Profits (QoQ) (Q4) |  |  | 4.7% |
 | 13:30 | USD | GDP Sales (Q4) |  | 0.4% | 4.5% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 207.75K |
