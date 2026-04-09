@@ -14,9 +14,9 @@
 | 07:00 | NOK | PPI (YoY) (Mar) | 16.9% |  | -9.4% |
 | 07:00 | ZAR | Foreign Reserves (USD) (Mar) | 77.76B |  | 81.06B |
 | 07:00 | ZAR | Net FX Reserves (USD) (Mar) | 73.187B |  | 75.835B |
-| 19 min | EUR | Spanish Industrial Production (YoY) (Feb) |  | 1.5% | 0.3% |
-| 09:00 | CHF | SNB Chairman Schlegel Speaks |  |  |  |
-| 09:30 | HKD | Foreign Reserves (USD) (Mar) |  |  | 439.20B |
+| 08:00 | EUR | Spanish Industrial Production (YoY) (Feb) | -1.1% | 1.5% | -0.2% |
+| 22 min | CHF | SNB Chairman Schlegel Speaks |  |  |  |
+| 52 min | HKD | Foreign Reserves (USD) (Mar) |  |  | 439.20B |
 | 09:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.476% |
 | 09:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 2.404% |
 | 09:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.934% |
