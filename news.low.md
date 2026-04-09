@@ -4,7 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Foreign Bonds Buying | -2,462.4B |  | -945.5B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 2,959.6B |  | -4,448.1B |
-| 04:35 | JPY | 5-Year JGB Auction |  |  | 1.633% |
+| 04:00 | IDR | Motorbike Sales (YoY) (Mar) | -17.10% |  | 1.00% |
+| 24 min | JPY | 5-Year JGB Auction |  |  | 1.633% |
 | 06:00 | JPY | Household Confidence (Mar) |  | 38.3 | 40.0 |
 | 07:00 | EUR | German Exports (MoM) (Feb) |  | 1.0% | -2.3% |
 | 07:00 | EUR | German Imports (MoM) (Feb) |  | 4.0% | -5.9% |
