@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 07:00 | EUR | German Industrial Production (MoM) (Feb) | -0.3% | 0.6% | 0.0% |
 | 07:00 | EUR | German Trade Balance (Feb) | 19.8B | 18.1B | 20.3B |
-| 52 min | GBP | BOE Credit Conditions Survey |  |  |  |
-| 10:00 | GBP | Mortgage Rate (GBP) |  |  | 6.59% |
+| 09:30 | GBP | BOE Credit Conditions Survey |  |  |  |
+| 09:30 | GBP | Mortgage Rate (GBP) (Mar) | 6.60% |  | 6.59% |
 | 13:00 | MXN | CPI (MoM) (Mar) |  | 0.88% | 0.50% |
 | 13:00 | MXN | CPI (YoY) (Mar) |  | 4.61% | 4.02% |
 | 13:00 | BRL | Retail Sales (YoY) (Feb) |  |  | 2.8% |

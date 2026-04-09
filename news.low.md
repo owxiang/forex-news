@@ -15,12 +15,12 @@
 | 07:00 | ZAR | Foreign Reserves (USD) (Mar) | 77.76B |  | 81.06B |
 | 07:00 | ZAR | Net FX Reserves (USD) (Mar) | 73.187B |  | 75.835B |
 | 08:00 | EUR | Spanish Industrial Production (YoY) (Feb) | -1.1% | 1.5% | -0.2% |
-| 22 min | CHF | SNB Chairman Schlegel Speaks |  |  |  |
-| 52 min | HKD | Foreign Reserves (USD) (Mar) |  |  | 439.20B |
+| 09:00 | CHF | SNB Chairman Schlegel Speaks |  |  |  |
+| 09:30 | HKD | Foreign Reserves (USD) (Mar) | 430.80B |  | 439.30B |
 | 09:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.476% |
 | 09:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 2.404% |
 | 09:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.934% |
-| 10:10 | EUR | Italian 12-Month BOT Auction |  |  | 2.372% |
+| 31 min | EUR | Italian 12-Month BOT Auction |  |  | 2.372% |
 | 11:00 | GBP | Thomson Reuters IPSOS PCSI (Apr) |  |  | 46.0 |
 | 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Apr) |  |  | 47.53 |
 | 11:00 | EUR | German Car Registration (YoY) |  |  | 3.8% |

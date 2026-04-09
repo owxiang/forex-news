@@ -17,14 +17,14 @@
 | 07:00 | ZAR | Low | Foreign Reserves (USD) (Mar) | 77.76B |  | 81.06B |
 | 07:00 | ZAR | Low | Net FX Reserves (USD) (Mar) | 73.187B |  | 75.835B |
 | 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Feb) | -1.1% | 1.5% | -0.2% |
-| 22 min | CHF | Low | SNB Chairman Schlegel Speaks |  |  |  |
-| 52 min | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
-| 52 min | HKD | Low | Foreign Reserves (USD) (Mar) |  |  | 439.20B |
+| 09:00 | CHF | Low | SNB Chairman Schlegel Speaks |  |  |  |
+| 09:30 | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
+| 09:30 | GBP | Moderate | Mortgage Rate (GBP) (Mar) | 6.60% |  | 6.59% |
+| 09:30 | HKD | Low | Foreign Reserves (USD) (Mar) | 430.80B |  | 439.30B |
 | 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.476% |
 | 09:40 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.404% |
 | 09:40 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.934% |
-| 10:00 | GBP | Moderate | Mortgage Rate (GBP) |  |  | 6.59% |
-| 10:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.372% |
+| 31 min | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.372% |
 | 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Apr) |  |  | 46.0 |
 | 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Apr) |  |  | 47.53 |
 | 11:00 | EUR | Low | German Car Registration (YoY) |  |  | 3.8% |
