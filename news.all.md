@@ -24,16 +24,16 @@
 | 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction | 3.435% |  | 3.476% |
 | 09:40 | EUR | Low | Spanish 3-Year Bonos Auction | 2.734% |  | 2.404% |
 | 09:40 | EUR | Low | Spanish 5-Year Bonos Auction | 3.476% |  | 2.934% |
-| 10:20 | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.372% |
-| 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Apr) |  |  | 46.0 |
-| 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Apr) |  |  | 47.53 |
-| 11:00 | EUR | Low | German Car Registration (YoY) |  |  | 3.8% |
-| 11:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Apr) |  |  | 44.73 |
-| 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Apr) |  |  | 42.03 |
-| 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (Apr) |  |  | 51.21 |
-| 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (Apr) |  |  | 47.51 |
-| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Feb) |  |  | 1.5% |
-| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Feb) |  |  | -0.7% |
+| 10:20 | EUR | Low | Italian 12-Month BOT Auction | 2.604% |  | 2.372% |
+| 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Apr) | 43.3 |  | 46.0 |
+| 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Apr) | 43.12 |  | 47.53 |
+| 11:00 | EUR | Low | German Car Registration (YoY) | 16.0% |  | 3.8% |
+| 11:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Apr) | 41.80 |  | 44.73 |
+| 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Apr) | 38.08 |  | 42.03 |
+| 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (Apr) | 47.16 |  | 51.21 |
+| 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (Apr) | 48.49 |  | 47.51 |
+| 29 min | ZAR | Low | Manufacturing Production (MoM) (Feb) |  |  | 1.5% |
+| 29 min | ZAR | Low | Manufacturing Production (YoY) (Feb) |  |  | -0.7% |
 | 13:00 | MXN | Low | Core CPI (MoM) (Mar) |  | 0.40% | 0.46% |
 | 13:00 | MXN | Moderate | CPI (MoM) (Mar) |  | 0.88% | 0.50% |
 | 13:00 | MXN | Moderate | CPI (YoY) (Mar) |  | 4.61% | 4.02% |
