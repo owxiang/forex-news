@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 32 min | JPY | Foreign Bonds Buying |  |  | -945.4B |
-| 32 min | JPY | Foreign Investments in Japanese Stocks |  |  | -4,448.1B |
+| 00:50 | JPY | Foreign Bonds Buying | -2,462.4B |  | -945.5B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks | 2,959.6B |  | -4,448.1B |
 | 04:35 | JPY | 5-Year JGB Auction |  |  | 1.633% |
 | 06:00 | JPY | Household Confidence (Mar) |  | 38.3 | 40.0 |
 | 07:00 | EUR | German Exports (MoM) (Feb) |  | 1.0% | -2.3% |
