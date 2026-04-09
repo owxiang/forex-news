@@ -6,16 +6,16 @@
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 2,959.6B |  | -4,448.1B |
 | 04:00 | IDR | Low | Motorbike Sales (YoY) (Mar) | -17.10% |  | 1.00% |
 | 04:35 | JPY | Low | 5-Year JGB Auction | 1.826% |  | 1.633% |
-| 7 min | JPY | Low | Household Confidence (Mar) |  | 38.3 | 40.0 |
-| 07:00 | EUR | Low | German Exports (MoM) (Feb) |  | 1.0% | -2.3% |
-| 07:00 | EUR | Low | German Imports (MoM) (Feb) |  | 4.0% | -5.9% |
-| 07:00 | EUR | Moderate | German Industrial Production (MoM) (Feb) |  | 0.6% | -0.5% |
-| 07:00 | EUR | Moderate | German Trade Balance (Feb) |  | 18.1B | 21.2B |
-| 07:00 | EUR | Low | German Industrial Production (YoY) (Feb) |  |  | -1.09% |
-| 07:00 | JPY | Low | Machine Tool Orders (YoY) |  |  | 24.2% |
-| 07:00 | NOK | Low | PPI (YoY) (Mar) |  |  | -9.4% |
-| 07:00 | ZAR | Low | Foreign Reserves (USD) (Mar) |  |  | 81.06B |
-| 07:00 | ZAR | Low | Net FX Reserves (USD) (Mar) |  |  | 75.835B |
+| 06:00 | JPY | Low | Household Confidence (Mar) | 33.3 | 38.3 | 39.7 |
+| 20 min | EUR | Low | German Exports (MoM) (Feb) |  | 1.0% | -2.3% |
+| 20 min | EUR | Low | German Imports (MoM) (Feb) |  | 4.0% | -5.9% |
+| 20 min | EUR | Moderate | German Industrial Production (MoM) (Feb) |  | 0.6% | -0.5% |
+| 20 min | EUR | Moderate | German Trade Balance (Feb) |  | 18.1B | 21.2B |
+| 20 min | EUR | Low | German Industrial Production (YoY) (Feb) |  |  | -1.09% |
+| 20 min | JPY | Low | Machine Tool Orders (YoY) |  |  | 24.2% |
+| 20 min | NOK | Low | PPI (YoY) (Mar) |  |  | -9.4% |
+| 20 min | ZAR | Low | Foreign Reserves (USD) (Mar) |  |  | 81.06B |
+| 20 min | ZAR | Low | Net FX Reserves (USD) (Mar) |  |  | 75.835B |
 | 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Feb) |  | 1.5% | 0.3% |
 | 09:00 | CHF | Low | SNB Chairman Schlegel Speaks |  |  |  |
 | 09:30 | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
