@@ -7,14 +7,14 @@
 | 04:00 | IDR | Motorbike Sales (YoY) (Mar) | -17.10% |  | 1.00% |
 | 04:35 | JPY | 5-Year JGB Auction | 1.826% |  | 1.633% |
 | 06:00 | JPY | Household Confidence (Mar) | 33.3 | 38.3 | 39.7 |
-| 20 min | EUR | German Exports (MoM) (Feb) |  | 1.0% | -2.3% |
-| 20 min | EUR | German Imports (MoM) (Feb) |  | 4.0% | -5.9% |
-| 20 min | EUR | German Industrial Production (YoY) (Feb) |  |  | -1.09% |
-| 20 min | JPY | Machine Tool Orders (YoY) |  |  | 24.2% |
-| 20 min | NOK | PPI (YoY) (Mar) |  |  | -9.4% |
-| 20 min | ZAR | Foreign Reserves (USD) (Mar) |  |  | 81.06B |
-| 20 min | ZAR | Net FX Reserves (USD) (Mar) |  |  | 75.835B |
-| 08:00 | EUR | Spanish Industrial Production (YoY) (Feb) |  | 1.5% | 0.3% |
+| 07:00 | EUR | German Exports (MoM) (Feb) | 3.6% | 1.0% | -1.5% |
+| 07:00 | EUR | German Imports (MoM) (Feb) | 4.7% | 4.0% | -5.1% |
+| 07:00 | EUR | German Industrial Production (YoY) (Feb) | 0.00% |  | -0.65% |
+| 07:00 | JPY | Machine Tool Orders (YoY) | 28.1% |  | 24.2% |
+| 07:00 | NOK | PPI (YoY) (Mar) | 16.9% |  | -9.4% |
+| 07:00 | ZAR | Foreign Reserves (USD) (Mar) | 77.76B |  | 81.06B |
+| 07:00 | ZAR | Net FX Reserves (USD) (Mar) | 73.187B |  | 75.835B |
+| 19 min | EUR | Spanish Industrial Production (YoY) (Feb) |  | 1.5% | 0.3% |
 | 09:00 | CHF | SNB Chairman Schlegel Speaks |  |  |  |
 | 09:30 | HKD | Foreign Reserves (USD) (Mar) |  |  | 439.20B |
 | 09:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.476% |

@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 20 min | EUR | German Industrial Production (MoM) (Feb) |  | 0.6% | -0.5% |
-| 20 min | EUR | German Trade Balance (Feb) |  | 18.1B | 21.2B |
+| 07:00 | EUR | German Industrial Production (MoM) (Feb) | -0.3% | 0.6% | 0.0% |
+| 07:00 | EUR | German Trade Balance (Feb) | 19.8B | 18.1B | 20.3B |
 | 09:30 | GBP | BOE Credit Conditions Survey |  |  |  |
 | 10:00 | GBP | Mortgage Rate (GBP) |  |  | 6.59% |
 | 13:00 | MXN | CPI (MoM) (Mar) |  | 0.88% | 0.50% |
