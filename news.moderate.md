@@ -14,8 +14,8 @@
 | 13:30 | USD | PCE price index (MoM) (Feb) | 0.4% | 0.4% | 0.3% |
 | 13:30 | USD | PCE Price index (YoY) (Feb) | 2.8% | 2.8% | 2.8% |
 | 13:30 | USD | Personal Spending (MoM) (Feb) | 0.5% | 0.6% | 0.3% |
-| 18 min | MXN | Monetary Policy Meeting Minutes |  |  |  |
-| 48 min | USD | Atlanta Fed GDPNow (Q1) |  | 1.3% | 1.3% |
+| 16:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
+| 16:30 | USD | Atlanta Fed GDPNow (Q1) | 1.3% | 1.3% | 1.3% |
 | 17:00 | USD | WASDE Report |  |  |  |
 | 17:00 | BRL | Retail Sales (YoY) (Feb) |  |  | 2.8% |
 | 17:00 | BRL | Retail Sales (MoM) (Feb) |  |  | 0.4% |

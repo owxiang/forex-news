@@ -57,13 +57,13 @@
 | 13:30 | USD | Moderate | Personal Spending (MoM) (Feb) | 0.5% | 0.6% | 0.3% |
 | 13:30 | USD | Low | Real Consumer Spending (Q4) | 1.9% | 2.0% | 3.5% |
 | 13:30 | USD | Low | Real Personal Consumption (MoM) (Feb) | 0.1% |  | 0.0% |
-| 15:00 | USD | Low | Wholesale Inventories (MoM) (Feb) | 0.8% | -0.5% | 0.2% |
+| 15:00 | USD | Low | Wholesale Inventories (MoM) (Feb) | 0.8% | -0.5% | -0.3% |
 | 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Feb) | 2.7% |  | 1.1% |
 | 15:30 | USD | Low | Natural Gas Storage | 50B | 41B | 36B |
-| 18 min | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
-| 48 min | USD | Low | 4-Week Bill Auction |  |  | 3.620% |
-| 48 min | USD | Low | 8-Week Bill Auction |  |  | 3.620% |
-| 48 min | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 1.3% | 1.3% |
+| 16:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
+| 16:30 | USD | Low | 4-Week Bill Auction | 3.560% |  | 3.620% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 3.575% |  | 3.620% |
+| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 1.3% | 1.3% | 1.3% |
 | 17:00 | USD | Low | Dallas Fed PCE (Feb) |  |  | 2.70% |
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |
 | 17:00 | BRL | Moderate | Retail Sales (YoY) (Feb) |  |  | 2.8% |
