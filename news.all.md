@@ -66,7 +66,7 @@
 | 16:30 | USD | Low | 8-Week Bill Auction | 3.575% |  | 3.620% |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 1.3% | 1.3% | 1.3% |
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |
-| 18:00 | USD | High | 30-Year Bond Auction |  |  | 4.871% |
+| 18:00 | USD | High | 30-Year Bond Auction | 4.876% |  | 4.871% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,675B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.064T |
 | 23:30 | NZD | Moderate | Business NZ PMI (Mar) |  |  | 55.0 |
