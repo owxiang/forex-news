@@ -38,8 +38,8 @@
 | 13:00 | MXN | Moderate | CPI (YoY) (Mar) | 4.59% | 4.61% | 4.02% |
 | 13:00 | MXN | Moderate | CPI (MoM) (Mar) | 0.86% | 0.88% | 0.50% |
 | 13:00 | MXN | Low | Month Core Inflation (YoY) (Mar) | 4.45% | 4.46% | 4.50% |
-| 13:00 | MXN | Low | PPI (YoY) (Mar) | 2.80% |  | 1.10% |
 | 13:00 | MXN | Low | PPI (MoM) (Mar) | 1.70% |  | 0.20% |
+| 13:00 | MXN | Low | PPI (YoY) (Mar) | 2.80% |  | 1.10% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,794K | 1,840K | 1,832K |
 | 13:30 | USD | High | Core PCE Price Index (MoM) (Feb) | 0.4% | 0.4% | 0.4% |
 | 13:30 | USD | High | Core PCE Price Index (YoY) (Feb) | 3.0% | 3.0% | 3.1% |
@@ -57,6 +57,7 @@
 | 13:30 | USD | Moderate | Personal Spending (MoM) (Feb) | 0.5% | 0.6% | 0.3% |
 | 13:30 | USD | Low | Real Consumer Spending (Q4) | 1.9% | 2.0% | 3.5% |
 | 13:30 | USD | Low | Real Personal Consumption (MoM) (Feb) | 0.1% |  | 0.0% |
+| 15:00 | USD | Low | Dallas Fed PCE (Feb) | 1.80% |  | 2.70% |
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (Feb) | 0.8% | -0.5% | -0.3% |
 | 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Feb) | 2.7% |  | 1.1% |
 | 15:30 | USD | Low | Natural Gas Storage | 50B | 41B | 36B |
@@ -64,10 +65,7 @@
 | 16:30 | USD | Low | 4-Week Bill Auction | 3.560% |  | 3.620% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 3.575% |  | 3.620% |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 1.3% | 1.3% | 1.3% |
-| 17:00 | USD | Low | Dallas Fed PCE (Feb) |  |  | 2.70% |
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |
-| 17:00 | BRL | Moderate | Retail Sales (YoY) (Feb) |  |  | 2.8% |
-| 17:00 | BRL | Moderate | Retail Sales (MoM) (Feb) |  |  | 0.4% |
 | 18:00 | USD | High | 30-Year Bond Auction |  |  | 4.871% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,675B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.064T |
