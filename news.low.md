@@ -41,10 +41,10 @@
 | 13:30 | USD | Personal Income (MoM) (Feb) | -0.1% | 0.3% | 0.4% |
 | 13:30 | USD | Real Consumer Spending (Q4) | 1.9% | 2.0% | 3.5% |
 | 13:30 | USD | Real Personal Consumption (MoM) (Feb) | 0.1% |  | 0.0% |
-| 15:00 | USD | Dallas Fed PCE (Feb) |  |  | 2.70% |
-| 15:00 | USD | Wholesale Inventories (MoM) (Feb) |  | -0.5% | 0.2% |
-| 15:00 | USD | Wholesale Trade Sales (MoM) (Feb) |  |  | 0.5% |
-| 15:30 | USD | Natural Gas Storage |  | 41B | 36B |
-| 16:30 | USD | 4-Week Bill Auction |  |  | 3.620% |
-| 16:30 | USD | 8-Week Bill Auction |  |  | 3.620% |
+| 15:00 | USD | Wholesale Inventories (MoM) (Feb) | 0.8% | -0.5% | 0.2% |
+| 15:00 | USD | Wholesale Trade Sales (MoM) (Feb) | 2.7% |  | 1.1% |
+| 15:30 | USD | Natural Gas Storage | 50B | 41B | 36B |
+| 48 min | USD | 4-Week Bill Auction |  |  | 3.620% |
+| 48 min | USD | 8-Week Bill Auction |  |  | 3.620% |
+| 17:00 | USD | Dallas Fed PCE (Feb) |  |  | 2.70% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.064T |
