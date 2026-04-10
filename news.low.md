@@ -48,7 +48,7 @@
 | 15:00 | USD | Durables Excluding Transport (MoM) (Feb) | 0.9% |  | 0.8% |
 | 15:00 | USD | Factory orders ex transportation (MoM) (Feb) | 1.2% |  | 0.5% |
 | 15:00 | USD | Michigan Current Conditions (Apr) | 50.1 |  | 55.8 |
-| 16:00 | USD | Cleveland CPI (MoM) (Mar) |  |  | 0.2% |
+| 16:00 | USD | Cleveland CPI (MoM) (Mar) | 0.2% |  | 0.2% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -0.9K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 40.1K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 334.8K |
