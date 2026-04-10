@@ -23,11 +23,11 @@
 | 07:00 | NOK | Core Inflation (MoM) (Mar) | 0.1% | 0.2% | 0.7% |
 | 07:00 | NOK | CPI (MoM) (Mar) | 0.2% | 0.2% | 0.6% |
 | 07:00 | NOK | CPI (YoY) (Mar) | 3.6% | 3.6% | 2.7% |
-| 09:00 | EUR | Italian Industrial Production (YoY) (Feb) |  | 0.5% | -0.6% |
-| 09:00 | EUR | Italian Industrial Production (MoM) (Feb) |  | 0.5% | -0.6% |
-| 10:10 | EUR | Italian 15-Year BTP Auction |  |  | 3.87% |
-| 10:10 | EUR | Italian 3-Year BTP Auction |  |  | 2.75% |
-| 10:10 | EUR | Italian 7-Year BTP Auction |  |  | 3.34% |
+| 09:00 | EUR | Italian Industrial Production (YoY) (Feb) | 0.5% | 0.5% | -0.6% |
+| 09:00 | EUR | Italian Industrial Production (MoM) (Feb) | 0.1% | 0.5% | -0.6% |
+| 31 min | EUR | Italian 15-Year BTP Auction |  |  | 3.87% |
+| 31 min | EUR | Italian 3-Year BTP Auction |  |  | 2.75% |
+| 31 min | EUR | Italian 7-Year BTP Auction |  |  | 3.34% |
 | 12:30 | INR | Bank Loan Growth |  |  | 13.8% |
 | 12:30 | INR | Deposit Growth |  |  | 10.8% |
 | 12:30 | INR | FX Reserves, USD |  |  | 688.06B |
