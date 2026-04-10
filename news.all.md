@@ -32,10 +32,10 @@
 | 08:00 | CHF | Moderate | SECO Consumer Climate (Mar) | -43 | -32 | -30 |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Feb) | 0.5% | 0.5% | -0.6% |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Feb) | 0.1% | 0.5% | -0.6% |
-| 31 min | EUR | Low | Italian 15-Year BTP Auction |  |  | 3.87% |
-| 31 min | EUR | Low | Italian 3-Year BTP Auction |  |  | 2.75% |
-| 31 min | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.34% |
-| 11:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 10:10 | EUR | Low | Italian 15-Year BTP Auction | 4.27% |  | 3.87% |
+| 10:10 | EUR | Low | Italian 3-Year BTP Auction | 2.91% |  | 2.75% |
+| 10:10 | EUR | Low | Italian 7-Year BTP Auction | 3.51% |  | 3.34% |
+| 26 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 13.8% |
 | 12:30 | INR | Low | Deposit Growth |  |  | 10.8% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 688.06B |
