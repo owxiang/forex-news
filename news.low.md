@@ -23,8 +23,8 @@
 | 07:00 | NOK | Core Inflation (MoM) (Mar) | 0.1% | 0.2% | 0.7% |
 | 07:00 | NOK | CPI (MoM) (Mar) | 0.2% | 0.2% | 0.6% |
 | 07:00 | NOK | CPI (YoY) (Mar) | 3.6% | 3.6% | 2.7% |
-| 09:00 | EUR | Italian Industrial Production (MoM) (Feb) |  | 0.5% | -0.6% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Feb) |  | 0.5% | -0.6% |
+| 09:00 | EUR | Italian Industrial Production (MoM) (Feb) |  | 0.5% | -0.6% |
 | 10:10 | EUR | Italian 15-Year BTP Auction |  |  | 3.87% |
 | 10:10 | EUR | Italian 3-Year BTP Auction |  |  | 2.75% |
 | 10:10 | EUR | Italian 7-Year BTP Auction |  |  | 3.34% |
@@ -32,8 +32,8 @@
 | 12:30 | INR | Deposit Growth |  |  | 10.8% |
 | 12:30 | INR | FX Reserves, USD |  |  | 688.06B |
 | 12:30 | INR | M3 Money Supply |  |  | 10.7% |
-| 13:00 | MXN | Industrial Production (MoM) (Feb) |  | -0.7% | -1.1% |
 | 13:00 | MXN | Industrial Production (YoY) (Feb) |  | 0.6% | -1.1% |
+| 13:00 | MXN | Industrial Production (MoM) (Feb) |  | -0.7% | -1.1% |
 | 13:00 | BRL | CPI (MoM) (Mar) |  | 0.77% | 0.70% |
 | 13:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Mar) |  |  | 0.70% |
 | 13:30 | USD | Core CPI Index (Mar) |  |  | 333.51 |

@@ -29,21 +29,19 @@
 | 07:00 | NOK | Low | Core Inflation (MoM) (Mar) | 0.1% | 0.2% | 0.7% |
 | 07:00 | NOK | Low | CPI (MoM) (Mar) | 0.2% | 0.2% | 0.6% |
 | 07:00 | NOK | Low | CPI (YoY) (Mar) | 3.6% | 3.6% | 2.7% |
-| 14 min | CHF | Moderate | SECO Consumer Climate (Mar) |  | -32 | -30 |
-| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Feb) |  | 0.5% | -0.6% |
+| 08:00 | CHF | Moderate | SECO Consumer Climate (Mar) | -43 | -32 | -30 |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Feb) |  | 0.5% | -0.6% |
+| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Feb) |  | 0.5% | -0.6% |
 | 10:10 | EUR | Low | Italian 15-Year BTP Auction |  |  | 3.87% |
 | 10:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 2.75% |
 | 10:10 | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.34% |
 | 11:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 12:00 | BRL | Moderate | Retail Sales (YoY) (Feb) |  |  | 2.8% |
-| 12:00 | BRL | Moderate | Retail Sales (MoM) (Feb) |  |  | 0.4% |
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 13.8% |
 | 12:30 | INR | Low | Deposit Growth |  |  | 10.8% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 688.06B |
 | 12:30 | INR | Low | M3 Money Supply |  |  | 10.7% |
-| 13:00 | MXN | Low | Industrial Production (MoM) (Feb) |  | -0.7% | -1.1% |
 | 13:00 | MXN | Low | Industrial Production (YoY) (Feb) |  | 0.6% | -1.1% |
+| 13:00 | MXN | Low | Industrial Production (MoM) (Feb) |  | -0.7% | -1.1% |
 | 13:00 | BRL | Moderate | CPI (YoY) (Mar) |  | 4.00% | 3.81% |
 | 13:00 | BRL | Low | CPI (MoM) (Mar) |  | 0.77% | 0.70% |
 | 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Mar) |  |  | 0.70% |
