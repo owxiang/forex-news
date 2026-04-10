@@ -13,11 +13,11 @@
 | 13:30 | USD | Core CPI (YoY) (Mar) | 2.6% | 2.7% | 2.5% |
 | 13:30 | CAD | Employment Change (Mar) | 14.1K | 14.5K | -83.9K |
 | 13:30 | CAD | Unemployment Rate (Mar) | 6.7% | 6.8% | 6.7% |
-| 15:00 | USD | Factory Orders (MoM) (Feb) |  | -0.3% | 0.1% |
-| 15:00 | USD | Michigan 1-Year Inflation Expectations (Apr) |  |  | 3.8% |
-| 15:00 | USD | Michigan 5-Year Inflation Expectations (Apr) |  |  | 3.2% |
-| 15:00 | USD | Michigan Consumer Expectations (Apr) |  |  | 51.7 |
-| 15:00 | USD | Michigan Consumer Sentiment (Apr) |  | 51.6 | 53.3 |
+| 15:00 | USD | Factory Orders (MoM) (Feb) | 0.0% | -0.3% | 0.0% |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (Apr) | 4.8% | 4.2% | 3.8% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (Apr) | 3.4% | 3.4% | 3.2% |
+| 15:00 | USD | Michigan Consumer Expectations (Apr) | 46.1 |  | 51.7 |
+| 15:00 | USD | Michigan Consumer Sentiment (Apr) | 47.6 | 51.6 | 53.3 |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 411 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 548 |
 | 19:00 | USD | Federal Budget Balance (Mar) |  | -157.8B | -308.0B |

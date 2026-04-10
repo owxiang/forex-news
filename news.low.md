@@ -16,22 +16,23 @@
 | 03:00 | CNY | China Thomson Reuters IPSOS PCSI (Apr) | 74.60 |  | 72.46 |
 | 04:00 | IDR | Consumer Confidence (Mar) | 122.9 |  | 125.2 |
 | 05:00 | IDR | Car Sales (YoY) (Mar) | -13.80% |  | 12.20% |
-| 07:00 | EUR | German HICP (MoM) (Mar) | 1.2% | 1.2% | 0.4% |
 | 07:00 | EUR | German HICP (YoY) (Mar) | 2.8% | 2.8% | 2.0% |
+| 07:00 | EUR | German HICP (MoM) (Mar) | 1.2% | 1.2% | 0.4% |
 | 07:00 | NOK | Manufacturing Production (MoM) (Feb) | -0.4% |  | -0.2% |
 | 07:00 | NOK | Core CPI YTD (Mar) | 3.0% | 3.1% | 3.0% |
 | 07:00 | NOK | Core Inflation (MoM) (Mar) | 0.1% | 0.2% | 0.7% |
 | 07:00 | NOK | CPI (MoM) (Mar) | 0.2% | 0.2% | 0.6% |
 | 07:00 | NOK | CPI (YoY) (Mar) | 3.6% | 3.6% | 2.7% |
-| 09:00 | EUR | Italian Industrial Production (YoY) (Feb) | 0.5% | 0.5% | -0.6% |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Feb) | 0.1% | 0.5% | -0.6% |
+| 09:00 | EUR | Italian Industrial Production (YoY) (Feb) | 0.5% | 0.5% | -0.6% |
 | 10:10 | EUR | Italian 15-Year BTP Auction | 4.27% |  | 3.87% |
 | 10:10 | EUR | Italian 3-Year BTP Auction | 2.91% |  | 2.75% |
 | 10:10 | EUR | Italian 7-Year BTP Auction | 3.51% |  | 3.34% |
 | 12:30 | INR | FX Reserves, USD | 697.12B |  | 688.06B |
-| 13:00 | MXN | Industrial Production (YoY) (Feb) | -1.3% | 0.6% | -1.1% |
 | 13:00 | MXN | Industrial Production (MoM) (Feb) | 0.4% | -0.7% | -1.1% |
+| 13:00 | MXN | Industrial Production (YoY) (Feb) | -1.3% | 0.6% | -1.1% |
 | 13:00 | INR | M3 Money Supply | 13.0% |  | 10.7% |
+| 13:00 | EUR | German Current Account Balance n.s.a (Feb) | 22.0B |  | 18.1B |
 | 13:00 | BRL | CPI (MoM) (Mar) | 0.88% | 0.77% | 0.70% |
 | 13:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Mar) | 0.82% |  | 0.70% |
 | 13:30 | USD | Core CPI Index (Mar) | 334.17 |  | 333.51 |
@@ -43,11 +44,10 @@
 | 13:30 | CAD | Full Employment Change (Mar) | -1.1K |  | -108.4K |
 | 13:30 | CAD | Part Time Employment Change (Mar) | 15.2K |  | 24.5K |
 | 13:30 | CAD | Participation Rate (Mar) | 64.9% |  | 64.9% |
-| 13:45 | EUR | German Current Account Balance n.s.a (Feb) | 22.0B |  | 18.1B |
-| 15:00 | USD | Durables Excluding Defense (MoM) (Feb) |  |  | -1.2% |
-| 15:00 | USD | Durables Excluding Transport (MoM) (Feb) |  |  | 0.8% |
-| 15:00 | USD | Factory orders ex transportation (MoM) (Feb) |  |  | 0.4% |
-| 15:00 | USD | Michigan Current Conditions (Apr) |  |  | 55.8 |
+| 15:00 | USD | Durables Excluding Defense (MoM) (Feb) | -1.1% |  | -1.2% |
+| 15:00 | USD | Durables Excluding Transport (MoM) (Feb) | 0.9% |  | 0.8% |
+| 15:00 | USD | Factory orders ex transportation (MoM) (Feb) | 1.2% |  | 0.5% |
+| 15:00 | USD | Michigan Current Conditions (Apr) | 50.1 |  | 55.8 |
 | 16:00 | USD | Cleveland CPI (MoM) (Mar) |  |  | 0.2% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -0.9K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 40.1K |
