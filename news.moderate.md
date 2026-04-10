@@ -10,9 +10,9 @@
 | 08:00 | CHF | SECO Consumer Climate (Mar) | -43 | -32 | -30 |
 | 11:00 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 13:00 | BRL | CPI (YoY) (Mar) | 4.14% | 4.00% | 3.81% |
-| 6 min | USD | Core CPI (YoY) (Mar) |  | 2.7% | 2.5% |
-| 6 min | CAD | Employment Change (Mar) |  | 14.5K | -83.9K |
-| 6 min | CAD | Unemployment Rate (Mar) |  | 6.8% | 6.7% |
+| 13:30 | USD | Core CPI (YoY) (Mar) | 2.6% | 2.7% | 2.5% |
+| 13:30 | CAD | Employment Change (Mar) | 14.1K | 14.5K | -83.9K |
+| 13:30 | CAD | Unemployment Rate (Mar) | 6.7% | 6.8% | 6.7% |
 | 15:00 | USD | Factory Orders (MoM) (Feb) |  | -0.3% | 0.1% |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Apr) |  |  | 3.8% |
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Apr) |  |  | 3.2% |
