@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Bank Lending (YoY) (Mar) |  | 4.4% | 4.5% |
-| 00:50 | JPY | PPI (YoY) (Mar) |  | 2.4% | 2.0% |
-| 00:50 | JPY | PPI (MoM) (Mar) |  | 0.9% | -0.1% |
+| 00:50 | JPY | Bank Lending (YoY) (Mar) | 4.8% | 4.4% | 4.5% |
+| 00:50 | JPY | PPI (YoY) (Mar) | 2.6% | 2.4% | 2.1% |
+| 00:50 | JPY | PPI (MoM) (Mar) | 0.8% | 0.9% | 0.1% |
 | 02:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates |  |  |  |
 | 02:00 | KRW | Interest Rate Decision (Mar) |  | 2.50% | 2.50% |
 | 02:30 | AUD | Building Approvals (YoY) (Feb) |  | 14.00% | -15.70% |
