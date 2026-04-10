@@ -20,16 +20,16 @@
 | 03:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Apr) | 74.60 |  | 72.46 |
 | 04:00 | IDR | Low | Consumer Confidence (Mar) | 122.9 |  | 125.2 |
 | 05:00 | IDR | Low | Car Sales (YoY) (Mar) | -13.80% |  | 12.20% |
-| 56 min | EUR | High | German CPI (MoM) (Mar) |  | 1.1% | 0.2% |
-| 56 min | EUR | Moderate | German CPI (YoY) (Mar) |  | 2.7% | 1.9% |
-| 56 min | EUR | Low | German HICP (YoY) (Mar) |  | 2.8% | 2.0% |
-| 56 min | EUR | Low | German HICP (MoM) (Mar) |  | 1.2% | 0.4% |
-| 56 min | NOK | Low | Manufacturing Production (MoM) (Feb) |  |  | -0.3% |
-| 56 min | NOK | Low | Core CPI YTD (Mar) |  | 3.1% | 3.0% |
-| 56 min | NOK | Low | Core Inflation (MoM) (Mar) |  | 0.2% | 0.7% |
-| 56 min | NOK | Low | CPI (MoM) (Mar) |  | 0.2% | 0.6% |
-| 56 min | NOK | Low | CPI (YoY) (Mar) |  | 3.6% | 2.7% |
-| 08:00 | CHF | Moderate | SECO Consumer Climate (Mar) |  | -32 | -30 |
+| 07:00 | EUR | High | German CPI (MoM) (Mar) | 1.1% | 1.1% | 0.2% |
+| 07:00 | EUR | Moderate | German CPI (YoY) (Mar) | 2.7% | 2.7% | 1.9% |
+| 07:00 | EUR | Low | German HICP (YoY) (Mar) | 2.8% | 2.8% | 2.0% |
+| 07:00 | EUR | Low | German HICP (MoM) (Mar) | 1.2% | 1.2% | 0.4% |
+| 07:00 | NOK | Low | Manufacturing Production (MoM) (Feb) | -0.4% |  | -0.2% |
+| 07:00 | NOK | Low | Core CPI YTD (Mar) | 3.0% | 3.1% | 3.0% |
+| 07:00 | NOK | Low | Core Inflation (MoM) (Mar) | 0.1% | 0.2% | 0.7% |
+| 07:00 | NOK | Low | CPI (MoM) (Mar) | 0.2% | 0.2% | 0.6% |
+| 07:00 | NOK | Low | CPI (YoY) (Mar) | 3.6% | 3.6% | 2.7% |
+| 14 min | CHF | Moderate | SECO Consumer Climate (Mar) |  | -32 | -30 |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Feb) |  | 0.5% | -0.6% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Feb) |  | 0.5% | -0.6% |
 | 10:10 | EUR | Low | Italian 15-Year BTP Auction |  |  | 3.87% |

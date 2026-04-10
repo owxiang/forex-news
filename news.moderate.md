@@ -6,8 +6,8 @@
 | 02:30 | CNY | CPI (YoY) (Mar) | 1.0% | 1.2% | 1.3% |
 | 02:30 | CNY | CPI (MoM) (Mar) | -0.7% | -0.2% | 1.0% |
 | 02:30 | CNY | PPI (YoY) (Mar) | 0.5% | 0.4% | -0.9% |
-| 56 min | EUR | German CPI (YoY) (Mar) |  | 2.7% | 1.9% |
-| 08:00 | CHF | SECO Consumer Climate (Mar) |  | -32 | -30 |
+| 07:00 | EUR | German CPI (YoY) (Mar) | 2.7% | 2.7% | 1.9% |
+| 14 min | CHF | SECO Consumer Climate (Mar) |  | -32 | -30 |
 | 11:00 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 12:00 | BRL | Retail Sales (YoY) (Feb) |  |  | 2.8% |
 | 12:00 | BRL | Retail Sales (MoM) (Feb) |  |  | 0.4% |

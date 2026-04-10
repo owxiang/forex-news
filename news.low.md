@@ -16,13 +16,13 @@
 | 03:00 | CNY | China Thomson Reuters IPSOS PCSI (Apr) | 74.60 |  | 72.46 |
 | 04:00 | IDR | Consumer Confidence (Mar) | 122.9 |  | 125.2 |
 | 05:00 | IDR | Car Sales (YoY) (Mar) | -13.80% |  | 12.20% |
-| 56 min | EUR | German HICP (YoY) (Mar) |  | 2.8% | 2.0% |
-| 56 min | EUR | German HICP (MoM) (Mar) |  | 1.2% | 0.4% |
-| 56 min | NOK | Manufacturing Production (MoM) (Feb) |  |  | -0.3% |
-| 56 min | NOK | Core CPI YTD (Mar) |  | 3.1% | 3.0% |
-| 56 min | NOK | Core Inflation (MoM) (Mar) |  | 0.2% | 0.7% |
-| 56 min | NOK | CPI (MoM) (Mar) |  | 0.2% | 0.6% |
-| 56 min | NOK | CPI (YoY) (Mar) |  | 3.6% | 2.7% |
+| 07:00 | EUR | German HICP (YoY) (Mar) | 2.8% | 2.8% | 2.0% |
+| 07:00 | EUR | German HICP (MoM) (Mar) | 1.2% | 1.2% | 0.4% |
+| 07:00 | NOK | Manufacturing Production (MoM) (Feb) | -0.4% |  | -0.2% |
+| 07:00 | NOK | Core CPI YTD (Mar) | 3.0% | 3.1% | 3.0% |
+| 07:00 | NOK | Core Inflation (MoM) (Mar) | 0.1% | 0.2% | 0.7% |
+| 07:00 | NOK | CPI (MoM) (Mar) | 0.2% | 0.2% | 0.6% |
+| 07:00 | NOK | CPI (YoY) (Mar) | 3.6% | 3.6% | 2.7% |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Feb) |  | 0.5% | -0.6% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Feb) |  | 0.5% | -0.6% |
 | 10:10 | EUR | Italian 15-Year BTP Auction |  |  | 3.87% |
