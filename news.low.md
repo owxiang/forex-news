@@ -49,14 +49,14 @@
 | 15:00 | USD | Factory orders ex transportation (MoM) (Feb) | 1.2% |  | 0.5% |
 | 15:00 | USD | Michigan Current Conditions (Apr) | 50.1 |  | 55.8 |
 | 16:00 | USD | Cleveland CPI (MoM) (Mar) | 0.2% |  | 0.2% |
-| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -0.9K |
-| 20:30 | USD | CFTC Copper speculative net positions |  |  | 40.1K |
-| 20:30 | USD | CFTC Corn speculative net positions |  |  | 334.8K |
-| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -167.5K |
-| 20:30 | USD | CFTC Silver speculative net positions |  |  | 23.9K |
-| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 227.8K |
-| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -9.4K |
-| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -32.7K |
-| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 57.7K |
-| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -29.9K |
-| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -28.6K |
+| 20:30 | USD | CFTC Aluminium speculative net positions | 0.3K |  | -0.9K |
+| 20:30 | USD | CFTC Copper speculative net positions | 40.2K |  | 40.1K |
+| 20:30 | USD | CFTC Corn speculative net positions | 290.8K |  | 334.8K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions | -184.0K |  | -167.5K |
+| 20:30 | USD | CFTC Silver speculative net positions | 23.4K |  | 23.9K |
+| 20:30 | USD | CFTC Soybeans speculative net positions | 208.5K |  | 227.8K |
+| 20:30 | USD | CFTC Wheat speculative net positions | -18.7K |  | -9.4K |
+| 20:30 | CAD | CFTC CAD speculative net positions | -55.6K |  | -32.7K |
+| 20:30 | MXN | CFTC MXN speculative net positions | 57.5K |  | 57.7K |
+| 20:30 | CHF | CFTC CHF speculative net positions | -30.7K |  | -29.9K |
+| 20:30 | NZD | CFTC NZD speculative net positions | -36.1K |  | -28.6K |
