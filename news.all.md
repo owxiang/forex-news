@@ -6,18 +6,18 @@
 | 00:50 | JPY | Low | PPI (YoY) (Mar) | 2.6% | 2.4% | 2.1% |
 | 00:50 | JPY | Low | PPI (MoM) (Mar) | 0.8% | 0.9% | 0.1% |
 | 02:00 | KRW | Low | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates |  |  |  |
-| 02:00 | KRW | Low | Interest Rate Decision (Mar) |  | 2.50% | 2.50% |
+| 02:00 | KRW | Low | Interest Rate Decision (Mar) | 2.50% | 2.50% | 2.50% |
 | 02:30 | AUD | Low | Building Approvals (YoY) (Feb) |  | 14.00% | -15.70% |
 | 02:30 | AUD | Moderate | Building Approvals (MoM) (Feb) |  | 29.7% | -7.2% |
 | 02:30 | AUD | Low | Private House Approvals (Feb) |  | 0.2% | 1.1% |
-| 02:30 | CNY | Moderate | CPI (YoY) (Mar) |  | 1.2% | 1.3% |
-| 02:30 | CNY | Moderate | CPI (MoM) (Mar) |  | -0.2% | 1.0% |
-| 02:30 | CNY | Moderate | PPI (YoY) (Mar) |  | 0.4% | -0.9% |
-| 03:00 | KRW | Low | Thomson Reuters IPSOS PCSI (Apr) |  |  | 49.99 |
-| 03:00 | INR | Low | Thomson Reuters IPSOS PCSI (Apr) |  |  | 57.26 |
-| 03:00 | AUD | Low | Thomson Reuters IPSOS PCSI (Apr) |  |  | 50.63 |
-| 03:00 | JPY | Low | Thomson Reuters IPSOS PCSI (Apr) |  |  | 42.42 |
-| 03:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Apr) |  |  | 72.46 |
+| 02:30 | CNY | Moderate | CPI (YoY) (Mar) | 1.0% | 1.2% | 1.3% |
+| 02:30 | CNY | Moderate | CPI (MoM) (Mar) | -0.7% | -0.2% | 1.0% |
+| 02:30 | CNY | Moderate | PPI (YoY) (Mar) | 0.5% | 0.4% | -0.9% |
+| 19 min | KRW | Low | Thomson Reuters IPSOS PCSI (Apr) |  |  | 49.99 |
+| 19 min | INR | Low | Thomson Reuters IPSOS PCSI (Apr) |  |  | 57.26 |
+| 19 min | AUD | Low | Thomson Reuters IPSOS PCSI (Apr) |  |  | 50.63 |
+| 19 min | JPY | Low | Thomson Reuters IPSOS PCSI (Apr) |  |  | 42.42 |
+| 19 min | CNY | Low | China Thomson Reuters IPSOS PCSI (Apr) |  |  | 72.46 |
 | 04:00 | IDR | Low | Consumer Confidence (Mar) |  |  | 125.2 |
 | 07:00 | EUR | High | German CPI (MoM) (Mar) |  | 1.1% | 0.2% |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Mar) |  | 2.7% | 1.9% |
