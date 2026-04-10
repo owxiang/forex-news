@@ -69,9 +69,9 @@
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Apr) | 47.6 | 51.6 | 53.3 |
 | 15:00 | USD | Low | Michigan Current Conditions (Apr) | 50.1 |  | 55.8 |
 | 16:00 | USD | Low | Cleveland CPI (MoM) (Mar) | 0.2% |  | 0.2% |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 411 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 548 |
-| 19:00 | USD | Moderate | Federal Budget Balance (Mar) |  | -157.8B | -308.0B |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 411 |  | 411 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 545 |  | 548 |
+| 38 min | USD | Moderate | Federal Budget Balance (Mar) |  | -157.8B | -308.0B |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -52.7K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -0.9K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 40.1K |
