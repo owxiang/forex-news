@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Building Approvals (MoM) (Feb) |  | 29.7% | -7.2% |
+| 02:30 | AUD | Building Approvals (MoM) (Feb) | 29.7% | 29.7% | -7.2% |
 | 02:30 | CNY | CPI (YoY) (Mar) | 1.0% | 1.2% | 1.3% |
 | 02:30 | CNY | CPI (MoM) (Mar) | -0.7% | -0.2% | 1.0% |
 | 02:30 | CNY | PPI (YoY) (Mar) | 0.5% | 0.4% | -0.9% |

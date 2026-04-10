@@ -6,15 +6,15 @@
 | 00:50 | JPY | PPI (YoY) (Mar) | 2.6% | 2.4% | 2.1% |
 | 00:50 | JPY | PPI (MoM) (Mar) | 0.8% | 0.9% | 0.1% |
 | 02:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates |  |  |  |
-| 02:00 | KRW | Interest Rate Decision (Mar) | 2.50% | 2.50% | 2.50% |
-| 02:30 | AUD | Building Approvals (YoY) (Feb) |  | 14.00% | -15.70% |
-| 02:30 | AUD | Private House Approvals (Feb) |  | 0.2% | 1.1% |
-| 19 min | KRW | Thomson Reuters IPSOS PCSI (Apr) |  |  | 49.99 |
-| 19 min | INR | Thomson Reuters IPSOS PCSI (Apr) |  |  | 57.26 |
-| 19 min | AUD | Thomson Reuters IPSOS PCSI (Apr) |  |  | 50.63 |
-| 19 min | JPY | Thomson Reuters IPSOS PCSI (Apr) |  |  | 42.42 |
-| 19 min | CNY | China Thomson Reuters IPSOS PCSI (Apr) |  |  | 72.46 |
-| 04:00 | IDR | Consumer Confidence (Mar) |  |  | 125.2 |
+| 02:00 | KRW | Interest Rate Decision (Apr) | 2.50% | 2.50% | 2.50% |
+| 02:30 | AUD | Building Approvals (YoY) (Feb) | 14.00% | 14.00% | -15.70% |
+| 02:30 | AUD | Private House Approvals (Feb) | 0.2% | 0.2% | 1.1% |
+| 03:00 | KRW | Thomson Reuters IPSOS PCSI (Apr) | 44.86 |  | 49.99 |
+| 03:00 | INR | Thomson Reuters IPSOS PCSI (Apr) | 66.17 |  | 57.26 |
+| 03:00 | AUD | Thomson Reuters IPSOS PCSI (Apr) | 46.04 |  | 50.63 |
+| 03:00 | JPY | Thomson Reuters IPSOS PCSI (Apr) | 37.70 |  | 42.42 |
+| 03:00 | CNY | China Thomson Reuters IPSOS PCSI (Apr) | 74.60 |  | 72.46 |
+| 04:00 | IDR | Consumer Confidence (Mar) | 122.9 |  | 125.2 |
 | 07:00 | EUR | German HICP (MoM) (Mar) |  | 1.2% | 0.4% |
 | 07:00 | EUR | German HICP (YoY) (Mar) |  | 2.8% | 2.0% |
 | 07:00 | IDR | Car Sales (YoY) (Mar) |  |  | 12.20% |
