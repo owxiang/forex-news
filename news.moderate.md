@@ -8,7 +8,7 @@
 | 02:30 | CNY | PPI (YoY) (Mar) | 0.5% | 0.4% | -0.9% |
 | 07:00 | EUR | German CPI (YoY) (Mar) | 2.7% | 2.7% | 1.9% |
 | 08:00 | CHF | SECO Consumer Climate (Mar) | -43 | -32 | -30 |
-| 26 min | EUR | ECB's De Guindos Speaks |  |  |  |
+| 11:00 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 13:00 | BRL | CPI (YoY) (Mar) |  | 4.00% | 3.81% |
 | 13:30 | USD | Core CPI (YoY) (Mar) |  | 2.7% | 2.5% |
 | 13:30 | CAD | Employment Change (Mar) |  | 14.5K | -83.9K |
