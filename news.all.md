@@ -1,5 +1,31 @@
-## 12 April 2026 - All Forex News
+## 13 April 2026 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 23:30 | NZD | Low | Performance of Services Index |  |  | 48.0 |
+| 34 min | JPY | Low | M2 Money Stock (YoY) |  | 1.6% | 1.7% |
+| 34 min | JPY | Low | M3 Money Supply (Mar) |  |  | 2,275.3B |
+| 04:00 | IDR | Low | Retail Sales (YoY) (Feb) |  |  | 5.7% |
+| 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 2.270% |
+| 10:30 | EUR | Low | German 6-Month Bubill Auction |  |  | 2.121% |
+| 10:30 | CNY | Low | M2 Money Stock (YoY) (Mar) |  | 8.9% | 9.0% |
+| 10:30 | CNY | Moderate | New Loans (Mar) |  | 3,465.0B | 900.0B |
+| 10:30 | CNY | Low | Outstanding Loan Growth (YoY) (Mar) |  | 5.9% | 6.0% |
+| 10:30 | CNY | Low | Chinese Total Social Financing (Mar) |  | 5,400.0B | 2,380.0B |
+| 11:00 | USD | Low | IMF Meetings |  |  |  |
+| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 11:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 11:30 | INR | Moderate | CPI (YoY) (Mar) |  | 3.48% | 3.21% |
+| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 13:15 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 13:30 | CAD | Moderate | Building Permits (MoM) (Feb) |  | -0.4% | 4.8% |
+| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.694% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.253% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.509% |
+| 15:00 | USD | High | Existing Home Sales (Mar) |  | 4.07M | 4.09M |
+| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Mar) |  |  | 1.7% |
+| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.635% |
+| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.615% |
+| 17:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 23:45 | NZD | Low | External Migration & Visitors (Feb) |  |  | 4.10% |
+| 23:45 | NZD | Low | Permanent/Long-Term Migration (Feb) |  |  | 4,460 |
+| 23:45 | NZD | Low | Visitor Arrivals (MoM) |  |  | 0.9% |

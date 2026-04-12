@@ -1,3 +1,11 @@
-## 12 April 2026 - Moderate Impact Forex News
+## 13 April 2026 - Moderate Impact Forex News
 
-There is no moderate impact news today.
+| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 10:30 | CNY | New Loans (Mar) |  | 3,465.0B | 900.0B |
+| 11:00 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 11:30 | INR | CPI (YoY) (Mar) |  | 3.48% | 3.21% |
+| 13:15 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 13:30 | CAD | Building Permits (MoM) (Feb) |  | -0.4% | 4.8% |
+| 15:00 | USD | Existing Home Sales (MoM) (Mar) |  |  | 1.7% |
+| 17:00 | EUR | German Buba Balz Speaks |  |  |  |
