@@ -24,9 +24,9 @@
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.448% |  | 2.509% |
 | 15:00 | USD | High | Existing Home Sales (Mar) | 3.98M | 4.07M | 4.13M |
 | 15:00 | USD | Moderate | Existing Home Sales (MoM) (Mar) | -3.6% |  | 2.7% |
-| 50 min | USD | Low | 3-Month Bill Auction |  |  | 3.635% |
-| 50 min | USD | Low | 6-Month Bill Auction |  |  | 3.615% |
-| 17:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 16:30 | USD | Low | 3-Month Bill Auction | 3.620% |  | 3.635% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 3.610% |  | 3.615% |
+| 24 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 23:45 | NZD | Low | External Migration & Visitors (Feb) |  |  | 4.10% |
 | 23:45 | NZD | Low | Permanent/Long-Term Migration (Feb) |  |  | 4,460 |
 | 23:45 | NZD | Low | Visitor Arrivals (MoM) |  |  | 0.9% |

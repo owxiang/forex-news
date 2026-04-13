@@ -16,8 +16,8 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 2.634% |  | 2.694% |
 | 14:00 | EUR | French 3-Month BTF Auction | 2.248% |  | 2.253% |
 | 14:00 | EUR | French 6-Month BTF Auction | 2.448% |  | 2.509% |
-| 50 min | USD | 3-Month Bill Auction |  |  | 3.635% |
-| 50 min | USD | 6-Month Bill Auction |  |  | 3.615% |
+| 16:30 | USD | 3-Month Bill Auction | 3.620% |  | 3.635% |
+| 16:30 | USD | 6-Month Bill Auction | 3.610% |  | 3.615% |
 | 23:45 | NZD | External Migration & Visitors (Feb) |  |  | 4.10% |
 | 23:45 | NZD | Permanent/Long-Term Migration (Feb) |  |  | 4,460 |
 | 23:45 | NZD | Visitor Arrivals (MoM) |  |  | 0.9% |
