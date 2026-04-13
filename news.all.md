@@ -5,12 +5,12 @@
 | 00:50 | JPY | Low | M2 Money Stock (YoY) | 2.0% | 1.6% | 1.7% |
 | 00:50 | JPY | Low | M3 Money Supply (Mar) | 2,280.3B |  | 2,274.5B |
 | 04:00 | IDR | Low | Retail Sales (YoY) (Feb) | 6.5% |  | 5.7% |
-| 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 2.270% |
-| 10:30 | EUR | Low | German 6-Month Bubill Auction |  |  | 2.121% |
-| 10:30 | CNY | Low | M2 Money Stock (YoY) (Mar) |  | 8.9% | 9.0% |
-| 10:30 | CNY | Moderate | New Loans (Mar) |  | 3,465.0B | 900.0B |
-| 10:30 | CNY | Low | Outstanding Loan Growth (YoY) (Mar) |  | 5.9% | 6.0% |
-| 10:30 | CNY | Low | Chinese Total Social Financing (Mar) |  | 5,400.0B | 2,380.0B |
+| 40 min | EUR | Low | German 12-Month Bubill Auction |  |  | 2.270% |
+| 40 min | EUR | Low | German 6-Month Bubill Auction |  |  | 2.121% |
+| 40 min | CNY | Low | M2 Money Stock (YoY) (Mar) |  | 8.9% | 9.0% |
+| 40 min | CNY | Moderate | New Loans (Mar) |  | 3,465.0B | 900.0B |
+| 40 min | CNY | Low | Outstanding Loan Growth (YoY) (Mar) |  | 5.9% | 6.0% |
+| 40 min | CNY | Low | Chinese Total Social Financing (Mar) |  | 5,400.0B | 2,380.0B |
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
 | 11:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
