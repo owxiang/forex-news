@@ -1,12 +1,23 @@
-## 13 April 2026 - Moderate Impact Forex News
+## 14 April 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 10:00 | CNY | New Loans (Mar) | 2,990.0B | 3,465.0B | 900.0B |
-| 11:00 | USD | OPEC Monthly Report |  |  |  |
-| 11:00 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 11:30 | INR | CPI (YoY) (Mar) | 3.40% | 3.48% | 3.21% |
-| 13:15 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 13:30 | CAD | Building Permits (MoM) (Feb) | -8.4% | -0.4% | 3.5% |
-| 15:00 | USD | Existing Home Sales (MoM) (Mar) | -3.6% |  | 2.7% |
-| 17:00 | EUR | German Buba Balz Speaks |  |  |  |
+| 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Mar) | 3.1% | 0.9% | 0.7% |
+| 02:30 | AUD | NAB Business Confidence (Mar) |  |  | -1 |
+| 04:00 | CNY | Exports (YoY) (Mar) |  | 8.3% | 21.8% |
+| 04:00 | CNY | Imports (YoY) (Mar) |  | 11.1% | 19.8% |
+| 04:00 | CNY | Trade Balance (USD) (Mar) |  | 107.50B | 213.62B |
+| 05:30 | JPY | Industrial Production (MoM) (Feb) |  | -2.1% | -2.1% |
+| 07:30 | INR | WPI Inflation (YoY) (Mar) |  | 3.00% | 2.13% |
+| 08:00 | EUR | Spanish CPI (YoY) (Mar) |  | 3.3% | 2.3% |
+| 08:00 | EUR | Spanish HICP (YoY) (Mar) |  | 3.3% | 2.5% |
+| 09:50 | GBP | BoE MPC Member Mann Speaks |  |  |  |
+| 10:00 | USD | IEA Monthly Report |  |  |  |
+| 13:15 | USD | ADP Employment Change Weekly |  |  | 26.00K |
+| 13:30 | USD | Core PPI (MoM) (Mar) |  | 0.5% | 0.5% |
+| 16:30 | EUR | ECB's Lane Speaks |  |  |  |
+| 17:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 17:45 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 18:00 | EUR | German Buba Balz Speaks |  |  |  |
+| 21:30 | USD | API Weekly Crude Oil Stock |  |  | 3.719M |
+| 22:00 | EUR | ECB President Lagarde Speaks |  |  |  |

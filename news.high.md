@@ -1,5 +1,5 @@
-## 13 April 2026 - High Impact Forex News
+## 14 April 2026 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 15:00 | USD | Existing Home Sales (Mar) | 3.98M | 4.07M | 4.13M |
+| 13:30 | USD | PPI (MoM) (Mar) |  | 1.2% | 0.7% |
