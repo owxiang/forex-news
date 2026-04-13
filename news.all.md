@@ -9,14 +9,14 @@
 | 10:00 | CNY | Moderate | New Loans (Mar) | 2,990.0B | 3,465.0B | 900.0B |
 | 10:00 | CNY | Low | Outstanding Loan Growth (YoY) (Mar) | 5.8% | 5.9% | 6.0% |
 | 10:00 | CNY | Low | Chinese Total Social Financing (Mar) | 5,230.0B | 5,400.0B | 2,380.0B |
-| 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 2.270% |
-| 10:30 | EUR | Low | German 6-Month Bubill Auction |  |  | 2.121% |
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
 | 11:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 11:30 | INR | Moderate | CPI (YoY) (Mar) |  | 3.48% | 3.21% |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 11:05 | EUR | Low | German 12-Month Bubill Auction | 2.517% |  | 2.270% |
+| 11:05 | EUR | Low | German 6-Month Bubill Auction | 2.310% |  | 2.121% |
+| 11:30 | INR | Moderate | CPI (YoY) (Mar) | 3.40% | 3.48% | 3.21% |
+| 46 min | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:15 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 13:30 | CAD | Moderate | Building Permits (MoM) (Feb) |  | -0.4% | 4.8% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.694% |

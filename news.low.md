@@ -8,11 +8,11 @@
 | 10:00 | CNY | M2 Money Stock (YoY) (Mar) | 8.5% | 8.9% | 9.0% |
 | 10:00 | CNY | Outstanding Loan Growth (YoY) (Mar) | 5.8% | 5.9% | 6.0% |
 | 10:00 | CNY | Chinese Total Social Financing (Mar) | 5,230.0B | 5,400.0B | 2,380.0B |
-| 10:30 | EUR | German 12-Month Bubill Auction |  |  | 2.270% |
-| 10:30 | EUR | German 6-Month Bubill Auction |  |  | 2.121% |
 | 11:00 | USD | IMF Meetings |  |  |  |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 11:05 | EUR | German 12-Month Bubill Auction | 2.517% |  | 2.270% |
+| 11:05 | EUR | German 6-Month Bubill Auction | 2.310% |  | 2.121% |
+| 46 min | BRL | BCB Focus Market Readout |  |  |  |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.694% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.253% |
 | 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.509% |
