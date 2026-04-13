@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 34 min | JPY | Low | M2 Money Stock (YoY) |  | 1.6% | 1.7% |
-| 34 min | JPY | Low | M3 Money Supply (Mar) |  |  | 2,275.3B |
+| 00:50 | JPY | Low | M2 Money Stock (YoY) | 2.0% | 1.6% | 1.7% |
+| 00:50 | JPY | Low | M3 Money Supply (Mar) | 2,280.3B |  | 2,274.5B |
 | 04:00 | IDR | Low | Retail Sales (YoY) (Feb) |  |  | 5.7% |
 | 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 2.270% |
 | 10:30 | EUR | Low | German 6-Month Bubill Auction |  |  | 2.121% |
