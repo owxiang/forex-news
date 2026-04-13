@@ -12,6 +12,7 @@
 | 10:30 | CNY | Low | Outstanding Loan Growth (YoY) (Mar) |  | 5.9% | 6.0% |
 | 10:30 | CNY | Low | Chinese Total Social Financing (Mar) |  | 5,400.0B | 2,380.0B |
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
+| 11:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 11:30 | INR | Moderate | CPI (YoY) (Mar) |  | 3.48% | 3.21% |
