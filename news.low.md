@@ -13,9 +13,9 @@
 | 11:05 | EUR | German 12-Month Bubill Auction | 2.517% |  | 2.270% |
 | 11:05 | EUR | German 6-Month Bubill Auction | 2.310% |  | 2.121% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 28 min | EUR | French 12-Month BTF Auction |  |  | 2.694% |
-| 28 min | EUR | French 3-Month BTF Auction |  |  | 2.253% |
-| 28 min | EUR | French 6-Month BTF Auction |  |  | 2.509% |
+| 14:00 | EUR | French 12-Month BTF Auction | 2.634% |  | 2.694% |
+| 14:00 | EUR | French 3-Month BTF Auction | 2.248% |  | 2.253% |
+| 14:00 | EUR | French 6-Month BTF Auction | 2.448% |  | 2.509% |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 3.635% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 3.615% |
 | 23:45 | NZD | External Migration & Visitors (Feb) |  |  | 4.10% |

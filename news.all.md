@@ -19,9 +19,9 @@
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:15 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 13:30 | CAD | Moderate | Building Permits (MoM) (Feb) | -8.4% | -0.4% | 3.5% |
-| 28 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.694% |
-| 28 min | EUR | Low | French 3-Month BTF Auction |  |  | 2.253% |
-| 28 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.509% |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.634% |  | 2.694% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.248% |  | 2.253% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.448% |  | 2.509% |
 | 15:00 | USD | High | Existing Home Sales (Mar) |  | 4.07M | 4.09M |
 | 15:00 | USD | Moderate | Existing Home Sales (MoM) (Mar) |  |  | 1.7% |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.635% |
