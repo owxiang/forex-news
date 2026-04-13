@@ -8,5 +8,5 @@
 | 11:30 | INR | CPI (YoY) (Mar) | 3.40% | 3.48% | 3.21% |
 | 13:15 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 13:30 | CAD | Building Permits (MoM) (Feb) | -8.4% | -0.4% | 3.5% |
-| 15:00 | USD | Existing Home Sales (MoM) (Mar) |  |  | 1.7% |
+| 15:00 | USD | Existing Home Sales (MoM) (Mar) | -3.6% |  | 2.7% |
 | 17:00 | EUR | German Buba Balz Speaks |  |  |  |
