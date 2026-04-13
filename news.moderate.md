@@ -6,7 +6,7 @@
 | 11:00 | USD | OPEC Monthly Report |  |  |  |
 | 11:00 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 11:30 | INR | CPI (YoY) (Mar) | 3.40% | 3.48% | 3.21% |
-| 42 min | EUR | ECB's De Guindos Speaks |  |  |  |
-| 57 min | CAD | Building Permits (MoM) (Feb) |  | -0.4% | 4.8% |
+| 13:15 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 13:30 | CAD | Building Permits (MoM) (Feb) | -8.4% | -0.4% | 3.5% |
 | 15:00 | USD | Existing Home Sales (MoM) (Mar) |  |  | 1.7% |
 | 17:00 | EUR | German Buba Balz Speaks |  |  |  |
