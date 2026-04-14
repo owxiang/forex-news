@@ -51,8 +51,8 @@
 | 18:00 | USD | Low | Fed Collins Speaks |  |  |  |
 | 18:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 18:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 21:10 | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.300M | 3.719M |
+| 36 min | GBP | Low | BoE Breeden Speaks |  |  |  |
+| 56 min | USD | Moderate | API Weekly Crude Oil Stock |  | -1.300M | 3.719M |
 | 22:00 | KRW | Low | Export Price Index (YoY) (Mar) |  |  | 10.7% |
 | 22:00 | KRW | Low | Import Price Index (YoY) (Mar) |  |  | 1.2% |
 | 22:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
