@@ -27,7 +27,7 @@
 | 13:30 | USD | PPI (YoY) (Mar) | 4.0% | 4.6% | 3.4% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Mar) | 3.6% |  | 3.5% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Mar) | 0.2% |  | 0.5% |
-| 13:55 | USD | Redbook (YoY) |  |  | 7.6% |
+| 13:55 | USD | Redbook (YoY) | 7.0% |  | 7.6% |
 | 14:45 | USD | Fed Goolsbee Speaks |  |  |  |
 | 15:15 | USD | Fed Goolsbee Speaks |  |  |  |
 | 17:10 | USD | Fed Goolsbee Speaks |  |  |  |
