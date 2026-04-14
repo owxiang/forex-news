@@ -16,8 +16,8 @@
 | 13:30 | USD | Core PPI (MoM) (Mar) | 0.1% | 0.4% | 0.3% |
 | 15:00 | EUR | ECB's Lane Speaks |  |  |  |
 | 16:30 | EUR | ECB's Lane Speaks |  |  |  |
-| 29 min | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 17:45 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 18:00 | EUR | German Buba Balz Speaks |  |  |  |
+| 17:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 13 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 28 min | EUR | German Buba Balz Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | -1.300M | 3.719M |
 | 22:00 | EUR | ECB President Lagarde Speaks |  |  |  |
