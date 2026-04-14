@@ -1,38 +1,52 @@
-## 14 April 2026 - Low Impact Forex News
+## 15 April 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:00 | SGD | GDP (YoY) (Q1) | 4.6% | 5.4% | 5.7% |
-| 01:00 | SGD | GDP (QoQ) (Q1) | -1.3% | -0.5% | 1.3% |
-| 01:30 | AUD | Westpac Consumer Sentiment (Apr) | -12.5% |  | 1.2% |
-| 02:30 | AUD | NAB Business Survey (Mar) | 6 |  | 6 |
-| 04:00 | CNY | Exports (Mar) | -0.70M |  | 36.10M |
-| 04:00 | CNY | Imports (Mar) | 23.80M |  | 17.10M |
-| 04:00 | CNY | Trade Balance (Mar) | 354.75B | 760.00B | 1,503.00B |
-| 05:30 | JPY | Capacity Utilization (MoM) (Feb) | -0.1% |  | 2.9% |
-| 07:00 | EUR | German WPI (MoM) (Mar) | 2.7% | 0.4% | 0.6% |
-| 07:00 | EUR | German WPI (YoY) (Mar) | 4.1% |  | 1.2% |
-| 08:00 | EUR | Core CPI (YoY) (Mar) | 2.9% | 2.7% | 2.7% |
-| 08:00 | EUR | Spanish CPI (MoM) (Mar) | 1.2% | 1.0% | 0.4% |
-| 08:00 | EUR | Spanish HICP (MoM) (Mar) | 1.7% | 1.5% | 0.4% |
-| 09:40 | EUR | Spanish 3-Month Letras Auction | 2.111% |  | 1.964% |
-| 10:30 | ZAR | Gold Production (YoY) (Feb) | 12.8% |  | 0.7% |
-| 10:30 | ZAR | Mining Production (Feb) | 9.7% |  | 5.0% |
+| 00:00 | KRW | Unemployment Rate (Mar) | 2.7% |  | 2.9% |
+| 00:00 | JPY | Reuters Tankan Index (Apr) | 7 |  | 18 |
+| 29 min | JPY | Core Machinery Orders (YoY) (Feb) |  | 8.5% | 13.7% |
+| 29 min | JPY | Core Machinery Orders (MoM) (Feb) |  | -1.1% | -5.5% |
+| 39 min | KRW | Exports (YoY) (Mar) |  | 48.3% | 48.3% |
+| 39 min | KRW | Imports (YoY) (Mar) |  | 13.2% | 13.2% |
+| 39 min | KRW | Trade Balance (Mar) |  | 25.74B | 25.74B |
+| 04:00 | KRW | M3 Money Supply (Feb) |  |  | 6,102.1B |
+| 04:00 | KRW | M2 Money supply (Feb) |  |  | 7.10% |
+| 07:00 | NOK | Trade Balance (Mar) |  |  | 44.8B |
+| 07:30 | INR | WPI Food (YoY) (Mar) |  |  | 2.19% |
+| 07:30 | INR | WPI Fuel (YoY) (Mar) |  |  | -3.78% |
+| 07:30 | INR | WPI Manufacturing Inflation (YoY) (Mar) |  |  | 2.92% |
+| 07:45 | EUR | French CPI NSA (MoM) (Mar) |  |  | 0.90% |
+| 07:45 | EUR | French CPI NSA (YoY) (Mar) |  |  | 1.70% |
+| 07:45 | EUR | French CPI (YoY) (Mar) |  | 1.7% | 0.9% |
+| 07:45 | EUR | French HICP (YoY) (Mar) |  | 1.9% | 1.9% |
+| 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Mar) |  |  | 0.90% |
+| 10:00 | INR | Exports (USD) (Mar) |  |  | 36.61B |
+| 10:00 | INR | Imports (USD) (Mar) |  |  | 63.71B |
+| 10:00 | INR | Trade Balance (Mar) |  | -32.75B | -27.10B |
+| 10:00 | EUR | Industrial Production (YoY) (Feb) |  | -1.4% | -1.2% |
+| 10:30 | EUR | German 30-Year Bund Auction |  |  | 3.420% |
 | 11:00 | USD | IMF Meetings |  |  |  |
-| 11:00 | USD | NFIB Small Business Optimism (Mar) | 95.8 | 97.8 | 98.8 |
-| 11:00 | EUR | German 5-Year Bobl Auction | 2.740% |  | 2.720% |
-| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Feb) | 0.5% |  | 3.2% |
-| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Feb) | 0.1% |  | 0.2% |
-| 13:30 | USD | Core PPI (YoY) (Mar) | 3.8% | 4.2% | 3.8% |
-| 13:30 | USD | PPI (YoY) (Mar) | 4.0% | 4.6% | 3.4% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Mar) | 3.6% |  | 3.5% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Mar) | 0.2% |  | 0.5% |
-| 13:55 | USD | Redbook (YoY) | 7.0% |  | 7.6% |
-| 14:45 | USD | Fed Goolsbee Speaks |  |  |  |
-| 15:15 | USD | Fed Goolsbee Speaks |  |  |  |
-| 17:10 | USD | Fed Goolsbee Speaks |  |  |  |
-| 18:00 | USD | Fed Collins Speaks |  |  |  |
-| 18:00 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 21:10 | GBP | BoE Breeden Speaks |  |  |  |
-| 22:00 | KRW | Export Price Index (YoY) (Mar) | 28.7% |  | 11.1% |
-| 22:00 | KRW | Import Price Index (YoY) (Mar) | 18.4% |  | 1.6% |
+| 11:00 | EUR | Reserve Assets Total (Mar) |  |  | 2,046.00B |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.51% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -0.8% |
+| 12:00 | USD | MBA Purchase Index |  |  | 161.1 |
+| 12:00 | USD | Mortgage Market Index |  |  | 276.0 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 919.9 |
+| 12:00 | BRL | IGP-10 Inflation Index (MoM) (Apr) |  |  | -0.2% |
+| 13:30 | USD | Export Price Index (YoY) (Mar) |  |  | 3.5% |
+| 13:30 | USD | Import Price Index (YoY) (Mar) |  |  | 1.3% |
+| 13:30 | CAD | Manufacturing Sales (MoM) (Feb) |  | 3.8% | -3.0% |
+| 15:00 | USD | NAHB Housing Market Index (Apr) |  | 37 | 38 |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.129M |
+| 15:30 | USD | Crude Oil Imports |  |  | -0.758M |
+| 15:30 | USD | Distillate Fuel Production |  |  | 0.009M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | -3.144M |
+| 15:30 | USD | Gasoline Production |  |  | -0.214M |
+| 15:30 | USD | Heating Oil Stockpiles |  |  | 0.233M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.1% |
+| 15:30 | USD | Gasoline Inventories |  |  | -1.589M |
+| 18:00 | CHF | SNB Chairman Schlegel Speaks |  |  |  |
+| 18:30 | BRL | Foreign Exchange Flows |  |  | -2.654B |
+| 21:00 | USD | US Foreign Buying, T-bonds (Feb) |  |  | 49.90B |
+| 21:00 | USD | Overall Net Capital Flow (Feb) |  |  | -25.00B |
+| 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Feb) |  |  | 15.50B |
