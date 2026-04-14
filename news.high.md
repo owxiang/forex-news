@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:30 | USD | PPI (MoM) (Mar) |  | 1.2% | 0.7% |
+| 13:30 | USD | PPI (MoM) (Mar) |  | 1.1% | 0.7% |
