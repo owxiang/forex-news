@@ -12,12 +12,12 @@
 | 08:00 | EUR | Spanish HICP (YoY) (Mar) | 3.4% | 3.3% | 2.5% |
 | 09:50 | GBP | BoE MPC Member Mann Speaks |  |  |  |
 | 10:00 | USD | IEA Monthly Report |  |  |  |
-| 47 min | USD | ADP Employment Change Weekly |  |  | 26.00K |
-| 13:30 | USD | Core PPI (MoM) (Mar) |  | 0.4% | 0.5% |
+| 13:15 | USD | ADP Employment Change Weekly | 39.30K |  | 26.00K |
+| 13:30 | USD | Core PPI (MoM) (Mar) | 0.1% | 0.4% | 0.3% |
 | 15:00 | EUR | ECB's Lane Speaks |  |  |  |
 | 16:30 | EUR | ECB's Lane Speaks |  |  |  |
 | 17:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 17:45 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 18:00 | EUR | German Buba Balz Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock |  |  | 3.719M |
+| 21:30 | USD | API Weekly Crude Oil Stock |  | -1.300M | 3.719M |
 | 22:00 | EUR | ECB President Lagarde Speaks |  |  |  |

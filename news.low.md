@@ -21,14 +21,15 @@
 | 11:00 | USD | IMF Meetings |  |  |  |
 | 11:00 | USD | NFIB Small Business Optimism (Mar) | 95.8 | 97.8 | 98.8 |
 | 11:00 | EUR | German 5-Year Bobl Auction | 2.740% |  | 2.720% |
-| 32 min | BRL | Brazilian Service Sector Growth (MoM) (Feb) |  |  | 0.3% |
-| 32 min | BRL | Brazilian Service Sector Growth (YoY) (Feb) |  |  | 3.3% |
-| 13:30 | USD | Core PPI (YoY) (Mar) |  | 4.2% | 3.9% |
-| 13:30 | USD | PPI (YoY) (Mar) |  | 4.6% | 3.4% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Mar) |  |  | 3.5% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Mar) |  |  | 0.5% |
+| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Feb) | 0.5% |  | 3.2% |
+| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Feb) | 0.1% |  | 0.2% |
+| 13:30 | USD | Core PPI (YoY) (Mar) | 3.8% | 4.2% | 3.8% |
+| 13:30 | USD | PPI (YoY) (Mar) | 4.0% | 4.6% | 3.4% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Mar) | 3.6% |  | 3.5% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Mar) | 0.2% |  | 0.5% |
 | 13:55 | USD | Redbook (YoY) |  |  | 7.6% |
 | 14:45 | USD | Fed Goolsbee Speaks |  |  |  |
+| 15:15 | USD | Fed Goolsbee Speaks |  |  |  |
 | 17:10 | USD | Fed Goolsbee Speaks |  |  |  |
 | 18:00 | USD | Fed Collins Speaks |  |  |  |
 | 18:00 | USD | FOMC Member Barkin Speaks |  |  |  |

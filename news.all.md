@@ -31,18 +31,19 @@
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
 | 11:00 | USD | Low | NFIB Small Business Optimism (Mar) | 95.8 | 97.8 | 98.8 |
 | 11:00 | EUR | Low | German 5-Year Bobl Auction | 2.740% |  | 2.720% |
-| 32 min | BRL | Low | Brazilian Service Sector Growth (MoM) (Feb) |  |  | 0.3% |
-| 32 min | BRL | Low | Brazilian Service Sector Growth (YoY) (Feb) |  |  | 3.3% |
-| 47 min | USD | Moderate | ADP Employment Change Weekly |  |  | 26.00K |
-| 13:30 | USD | Moderate | Core PPI (MoM) (Mar) |  | 0.4% | 0.5% |
-| 13:30 | USD | Low | Core PPI (YoY) (Mar) |  | 4.2% | 3.9% |
-| 13:30 | USD | High | PPI (MoM) (Mar) |  | 1.1% | 0.7% |
-| 13:30 | USD | Low | PPI (YoY) (Mar) |  | 4.6% | 3.4% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Mar) |  |  | 3.5% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Mar) |  |  | 0.5% |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Feb) | 0.5% |  | 3.2% |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Feb) | 0.1% |  | 0.2% |
+| 13:15 | USD | Moderate | ADP Employment Change Weekly | 39.30K |  | 26.00K |
+| 13:30 | USD | Moderate | Core PPI (MoM) (Mar) | 0.1% | 0.4% | 0.3% |
+| 13:30 | USD | Low | Core PPI (YoY) (Mar) | 3.8% | 4.2% | 3.8% |
+| 13:30 | USD | High | PPI (MoM) (Mar) | 0.5% | 1.1% | 0.5% |
+| 13:30 | USD | Low | PPI (YoY) (Mar) | 4.0% | 4.6% | 3.4% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Mar) | 3.6% |  | 3.5% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Mar) | 0.2% |  | 0.5% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 7.6% |
 | 14:45 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 15:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 15:15 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 16:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 17:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 17:10 | USD | Low | Fed Goolsbee Speaks |  |  |  |
@@ -51,7 +52,7 @@
 | 18:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 18:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 21:10 | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 3.719M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.300M | 3.719M |
 | 22:00 | KRW | Low | Export Price Index (YoY) (Mar) |  |  | 10.7% |
 | 22:00 | KRW | Low | Import Price Index (YoY) (Mar) |  |  | 1.2% |
 | 22:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
