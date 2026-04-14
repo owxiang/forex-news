@@ -5,10 +5,10 @@
 | 01:00 | SGD | GDP (YoY) (Q1) | 4.6% | 5.4% | 6.9% |
 | 01:00 | SGD | GDP (QoQ) (Q1) | -1.3% | -0.5% | 2.1% |
 | 01:30 | AUD | Westpac Consumer Sentiment (Apr) | -12.5% |  | 1.2% |
-| 02:30 | AUD | NAB Business Survey (Mar) | 6 |  | 7 |
-| 04:00 | CNY | Exports (Mar) |  |  | 36.10M |
+| 02:30 | AUD | NAB Business Survey (Mar) | 6 |  | 6 |
+| 03:55 | CNY | Exports (Mar) | 23.80M |  | 36.10M |
+| 03:56 | CNY | Trade Balance (Mar) | 354.75B | 780.00B | 1,503.00B |
 | 04:00 | CNY | Imports (Mar) |  |  | 10.90M |
-| 04:00 | CNY | Trade Balance (Mar) |  | 780.00B | 1,503.00B |
 | 05:30 | JPY | Capacity Utilization (MoM) (Feb) |  |  | 2.9% |
 | 07:00 | EUR | German WPI (YoY) (Mar) |  |  | 1.2% |
 | 07:00 | EUR | German WPI (MoM) (Mar) |  | 0.4% | 0.6% |
