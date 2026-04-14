@@ -8,8 +8,8 @@
 | 04:00 | CNY | Imports (YoY) (Mar) | 27.8% | 11.1% | 19.8% |
 | 04:00 | CNY | Trade Balance (USD) (Mar) | 51.13B | 107.20B | 213.62B |
 | 05:30 | JPY | Industrial Production (MoM) (Feb) | -2.0% | -2.1% | 4.3% |
-| 08:00 | EUR | Spanish CPI (YoY) (Mar) |  | 3.3% | 2.3% |
-| 08:00 | EUR | Spanish HICP (YoY) (Mar) |  | 3.3% | 2.5% |
+| 08:00 | EUR | Spanish CPI (YoY) (Mar) | 3.4% | 3.3% | 2.3% |
+| 08:00 | EUR | Spanish HICP (YoY) (Mar) | 3.4% | 3.3% | 2.5% |
 | 09:50 | GBP | BoE MPC Member Mann Speaks |  |  |  |
 | 10:00 | USD | IEA Monthly Report |  |  |  |
 | 13:15 | USD | ADP Employment Change Weekly |  |  | 26.00K |

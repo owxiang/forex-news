@@ -18,11 +18,11 @@
 | 05:30 | JPY | Moderate | Industrial Production (MoM) (Feb) | -2.0% | -2.1% | 4.3% |
 | 07:00 | EUR | Low | German WPI (YoY) (Mar) | 4.1% |  | 1.2% |
 | 07:00 | EUR | Low | German WPI (MoM) (Mar) | 2.7% | 0.4% | 0.6% |
-| 08:00 | EUR | Low | Core CPI (YoY) (Mar) |  | 2.7% | 2.7% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Mar) |  | 1.0% | 0.4% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Mar) |  | 3.3% | 2.3% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Mar) |  | 1.5% | 0.4% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Mar) |  | 3.3% | 2.5% |
+| 08:00 | EUR | Low | Core CPI (YoY) (Mar) | 2.9% | 2.7% | 2.7% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Mar) | 1.2% | 1.0% | 0.4% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Mar) | 3.4% | 3.3% | 2.3% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Mar) | 1.7% | 1.5% | 0.4% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Mar) | 3.4% | 3.3% | 2.5% |
 | 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 1.964% |
 | 09:50 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 10:00 | USD | Moderate | IEA Monthly Report |  |  |  |

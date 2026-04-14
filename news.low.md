@@ -12,9 +12,9 @@
 | 05:30 | JPY | Capacity Utilization (MoM) (Feb) | -0.1% |  | 2.9% |
 | 07:00 | EUR | German WPI (YoY) (Mar) | 4.1% |  | 1.2% |
 | 07:00 | EUR | German WPI (MoM) (Mar) | 2.7% | 0.4% | 0.6% |
-| 08:00 | EUR | Core CPI (YoY) (Mar) |  | 2.7% | 2.7% |
-| 08:00 | EUR | Spanish CPI (MoM) (Mar) |  | 1.0% | 0.4% |
-| 08:00 | EUR | Spanish HICP (MoM) (Mar) |  | 1.5% | 0.4% |
+| 08:00 | EUR | Core CPI (YoY) (Mar) | 2.9% | 2.7% | 2.7% |
+| 08:00 | EUR | Spanish CPI (MoM) (Mar) | 1.2% | 1.0% | 0.4% |
+| 08:00 | EUR | Spanish HICP (MoM) (Mar) | 1.7% | 1.5% | 0.4% |
 | 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 1.964% |
 | 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.720% |
 | 10:30 | ZAR | Business Confidence (Feb) |  |  | 131.4 |
