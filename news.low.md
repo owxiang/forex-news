@@ -31,8 +31,8 @@
 | 14:45 | USD | Fed Goolsbee Speaks |  |  |  |
 | 15:15 | USD | Fed Goolsbee Speaks |  |  |  |
 | 17:10 | USD | Fed Goolsbee Speaks |  |  |  |
-| 28 min | USD | Fed Collins Speaks |  |  |  |
-| 28 min | USD | FOMC Member Barkin Speaks |  |  |  |
+| 18:00 | USD | Fed Collins Speaks |  |  |  |
+| 18:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 21:10 | GBP | BoE Breeden Speaks |  |  |  |
 | 22:00 | KRW | Export Price Index (YoY) (Mar) |  |  | 10.7% |
 | 22:00 | KRW | Import Price Index (YoY) (Mar) |  |  | 1.2% |
