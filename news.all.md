@@ -45,8 +45,8 @@
 | 15:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 15:15 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 16:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 17:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 17:10 | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 29 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 39 min | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 17:45 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 18:00 | USD | Low | Fed Collins Speaks |  |  |  |
 | 18:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |

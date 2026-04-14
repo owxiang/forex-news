@@ -30,7 +30,7 @@
 | 13:55 | USD | Redbook (YoY) | 7.0% |  | 7.6% |
 | 14:45 | USD | Fed Goolsbee Speaks |  |  |  |
 | 15:15 | USD | Fed Goolsbee Speaks |  |  |  |
-| 17:10 | USD | Fed Goolsbee Speaks |  |  |  |
+| 39 min | USD | Fed Goolsbee Speaks |  |  |  |
 | 18:00 | USD | Fed Collins Speaks |  |  |  |
 | 18:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 21:10 | GBP | BoE Breeden Speaks |  |  |  |
