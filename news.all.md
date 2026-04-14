@@ -16,8 +16,8 @@
 | 04:00 | CNY | Moderate | Trade Balance (USD) (Mar) | 51.13B | 107.20B | 213.62B |
 | 05:30 | JPY | Low | Capacity Utilization (MoM) (Feb) | -0.1% |  | 2.9% |
 | 05:30 | JPY | Moderate | Industrial Production (MoM) (Feb) | -2.0% | -2.1% | 4.3% |
-| 07:00 | EUR | Low | German WPI (YoY) (Mar) | 4.1% |  | 1.2% |
 | 07:00 | EUR | Low | German WPI (MoM) (Mar) | 2.7% | 0.4% | 0.6% |
+| 07:00 | EUR | Low | German WPI (YoY) (Mar) | 4.1% |  | 1.2% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Mar) | 2.9% | 2.7% | 2.7% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Mar) | 1.2% | 1.0% | 0.4% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Mar) | 3.4% | 3.3% | 2.3% |
@@ -26,15 +26,13 @@
 | 09:40 | EUR | Low | Spanish 3-Month Letras Auction | 2.111% |  | 1.964% |
 | 09:50 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 10:00 | USD | Moderate | IEA Monthly Report |  |  |  |
-| 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.720% |
-| 10:30 | ZAR | Low | Business Confidence (Feb) |  |  | 131.4 |
 | 10:30 | ZAR | Low | Gold Production (YoY) (Feb) | 12.8% |  | 0.7% |
 | 10:30 | ZAR | Low | Mining Production (Feb) | 9.7% |  | 5.0% |
-| 10:31 | ZAR | Low | Business Confidence (Mar) |  |  |  |
-| 21 min | USD | Low | IMF Meetings |  |  |  |
-| 21 min | USD | Low | NFIB Small Business Optimism (Mar) |  | 97.8 | 98.8 |
-| 12:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Feb) |  |  | 0.3% |
-| 12:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Feb) |  |  | 3.3% |
+| 11:00 | USD | Low | IMF Meetings |  |  |  |
+| 11:00 | USD | Low | NFIB Small Business Optimism (Mar) | 95.8 | 97.8 | 98.8 |
+| 11:00 | EUR | Low | German 5-Year Bobl Auction | 2.740% |  | 2.720% |
+| 25 min | BRL | Low | Brazilian Service Sector Growth (MoM) (Feb) |  |  | 0.3% |
+| 25 min | BRL | Low | Brazilian Service Sector Growth (YoY) (Feb) |  |  | 3.3% |
 | 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 26.00K |
 | 13:30 | USD | Moderate | Core PPI (MoM) (Mar) |  | 0.4% | 0.5% |
 | 13:30 | USD | Low | Core PPI (YoY) (Mar) |  | 4.2% | 3.9% |
@@ -42,7 +40,6 @@
 | 13:30 | USD | Low | PPI (YoY) (Mar) |  | 4.6% | 3.4% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Mar) |  |  | 3.5% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Mar) |  |  | 0.5% |
-| 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Feb) |  |  | 114.4K |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 7.6% |
 | 14:45 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 15:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
