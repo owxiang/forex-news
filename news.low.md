@@ -21,8 +21,8 @@
 | 11:00 | USD | IMF Meetings |  |  |  |
 | 11:00 | USD | NFIB Small Business Optimism (Mar) | 95.8 | 97.8 | 98.8 |
 | 11:00 | EUR | German 5-Year Bobl Auction | 2.740% |  | 2.720% |
-| 25 min | BRL | Brazilian Service Sector Growth (MoM) (Feb) |  |  | 0.3% |
-| 25 min | BRL | Brazilian Service Sector Growth (YoY) (Feb) |  |  | 3.3% |
+| 32 min | BRL | Brazilian Service Sector Growth (MoM) (Feb) |  |  | 0.3% |
+| 32 min | BRL | Brazilian Service Sector Growth (YoY) (Feb) |  |  | 3.3% |
 | 13:30 | USD | Core PPI (YoY) (Mar) |  | 4.2% | 3.9% |
 | 13:30 | USD | PPI (YoY) (Mar) |  | 4.6% | 3.4% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Mar) |  |  | 3.5% |

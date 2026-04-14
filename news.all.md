@@ -31,9 +31,9 @@
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
 | 11:00 | USD | Low | NFIB Small Business Optimism (Mar) | 95.8 | 97.8 | 98.8 |
 | 11:00 | EUR | Low | German 5-Year Bobl Auction | 2.740% |  | 2.720% |
-| 25 min | BRL | Low | Brazilian Service Sector Growth (MoM) (Feb) |  |  | 0.3% |
-| 25 min | BRL | Low | Brazilian Service Sector Growth (YoY) (Feb) |  |  | 3.3% |
-| 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 26.00K |
+| 32 min | BRL | Low | Brazilian Service Sector Growth (MoM) (Feb) |  |  | 0.3% |
+| 32 min | BRL | Low | Brazilian Service Sector Growth (YoY) (Feb) |  |  | 3.3% |
+| 47 min | USD | Moderate | ADP Employment Change Weekly |  |  | 26.00K |
 | 13:30 | USD | Moderate | Core PPI (MoM) (Mar) |  | 0.4% | 0.5% |
 | 13:30 | USD | Low | Core PPI (YoY) (Mar) |  | 4.2% | 3.9% |
 | 13:30 | USD | High | PPI (MoM) (Mar) |  | 1.1% | 0.7% |
