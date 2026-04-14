@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:00 | SGD | GDP (YoY) (Q1) | 4.6% | 5.4% | 6.9% |
-| 01:00 | SGD | GDP (QoQ) (Q1) | -1.3% | -0.5% | 2.1% |
+| 01:00 | SGD | GDP (YoY) (Q1) | 4.6% | 5.4% | 5.7% |
+| 01:00 | SGD | GDP (QoQ) (Q1) | -1.3% | -0.5% | 1.3% |
 | 01:30 | AUD | Westpac Consumer Sentiment (Apr) | -12.5% |  | 1.2% |
 | 02:30 | AUD | NAB Business Survey (Mar) | 6 |  | 6 |
 | 04:00 | CNY | Exports (Mar) | -0.70M |  | 36.10M |
@@ -15,14 +15,14 @@
 | 08:00 | EUR | Core CPI (YoY) (Mar) | 2.9% | 2.7% | 2.7% |
 | 08:00 | EUR | Spanish CPI (MoM) (Mar) | 1.2% | 1.0% | 0.4% |
 | 08:00 | EUR | Spanish HICP (MoM) (Mar) | 1.7% | 1.5% | 0.4% |
-| 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 1.964% |
-| 48 min | EUR | German 5-Year Bobl Auction |  |  | 2.720% |
-| 48 min | ZAR | Business Confidence (Feb) |  |  | 131.4 |
-| 48 min | ZAR | Gold Production (YoY) (Feb) |  |  | 0.7% |
-| 48 min | ZAR | Mining Production (Feb) |  |  | 4.6% |
-| 49 min | ZAR | Business Confidence (Mar) |  |  |  |
-| 11:00 | USD | IMF Meetings |  |  |  |
-| 11:00 | USD | NFIB Small Business Optimism (Mar) |  | 97.8 | 98.8 |
+| 09:40 | EUR | Spanish 3-Month Letras Auction | 2.111% |  | 1.964% |
+| 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.720% |
+| 10:30 | ZAR | Business Confidence (Feb) |  |  | 131.4 |
+| 10:30 | ZAR | Gold Production (YoY) (Feb) | 12.8% |  | 0.7% |
+| 10:30 | ZAR | Mining Production (Feb) | 9.7% |  | 5.0% |
+| 10:31 | ZAR | Business Confidence (Mar) |  |  |  |
+| 21 min | USD | IMF Meetings |  |  |  |
+| 21 min | USD | NFIB Small Business Optimism (Mar) |  | 97.8 | 98.8 |
 | 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Feb) |  |  | 0.3% |
 | 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Feb) |  |  | 3.3% |
 | 13:30 | USD | Core PPI (YoY) (Mar) |  | 4.2% | 3.9% |

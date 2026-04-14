@@ -10,8 +10,8 @@
 | 05:30 | JPY | Industrial Production (MoM) (Feb) | -2.0% | -2.1% | 4.3% |
 | 08:00 | EUR | Spanish CPI (YoY) (Mar) | 3.4% | 3.3% | 2.3% |
 | 08:00 | EUR | Spanish HICP (YoY) (Mar) | 3.4% | 3.3% | 2.5% |
-| 8 min | GBP | BoE MPC Member Mann Speaks |  |  |  |
-| 18 min | USD | IEA Monthly Report |  |  |  |
+| 09:50 | GBP | BoE MPC Member Mann Speaks |  |  |  |
+| 10:00 | USD | IEA Monthly Report |  |  |  |
 | 13:15 | USD | ADP Employment Change Weekly |  |  | 26.00K |
 | 13:30 | USD | Core PPI (MoM) (Mar) |  | 0.4% | 0.5% |
 | 15:00 | EUR | ECB's Lane Speaks |  |  |  |

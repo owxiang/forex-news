@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Mar) | 3.1% | 0.9% | 0.7% |
-| 01:00 | SGD | Low | GDP (YoY) (Q1) | 4.6% | 5.4% | 6.9% |
-| 01:00 | SGD | Low | GDP (QoQ) (Q1) | -1.3% | -0.5% | 2.1% |
+| 01:00 | SGD | Low | GDP (YoY) (Q1) | 4.6% | 5.4% | 5.7% |
+| 01:00 | SGD | Low | GDP (QoQ) (Q1) | -1.3% | -0.5% | 1.3% |
 | 01:30 | AUD | Low | Westpac Consumer Sentiment (Apr) | -12.5% |  | 1.2% |
 | 02:30 | AUD | Moderate | NAB Business Confidence (Mar) | -29 |  | 0 |
 | 02:30 | AUD | Low | NAB Business Survey (Mar) | 6 |  | 6 |
@@ -23,16 +23,16 @@
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Mar) | 3.4% | 3.3% | 2.3% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Mar) | 1.7% | 1.5% | 0.4% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Mar) | 3.4% | 3.3% | 2.5% |
-| 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 1.964% |
-| 8 min | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
-| 18 min | USD | Moderate | IEA Monthly Report |  |  |  |
-| 48 min | EUR | Low | German 5-Year Bobl Auction |  |  | 2.720% |
-| 48 min | ZAR | Low | Business Confidence (Feb) |  |  | 131.4 |
-| 48 min | ZAR | Low | Gold Production (YoY) (Feb) |  |  | 0.7% |
-| 48 min | ZAR | Low | Mining Production (Feb) |  |  | 4.6% |
-| 49 min | ZAR | Low | Business Confidence (Mar) |  |  |  |
-| 11:00 | USD | Low | IMF Meetings |  |  |  |
-| 11:00 | USD | Low | NFIB Small Business Optimism (Mar) |  | 97.8 | 98.8 |
+| 09:40 | EUR | Low | Spanish 3-Month Letras Auction | 2.111% |  | 1.964% |
+| 09:50 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
+| 10:00 | USD | Moderate | IEA Monthly Report |  |  |  |
+| 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.720% |
+| 10:30 | ZAR | Low | Business Confidence (Feb) |  |  | 131.4 |
+| 10:30 | ZAR | Low | Gold Production (YoY) (Feb) | 12.8% |  | 0.7% |
+| 10:30 | ZAR | Low | Mining Production (Feb) | 9.7% |  | 5.0% |
+| 10:31 | ZAR | Low | Business Confidence (Mar) |  |  |  |
+| 21 min | USD | Low | IMF Meetings |  |  |  |
+| 21 min | USD | Low | NFIB Small Business Optimism (Mar) |  | 97.8 | 98.8 |
 | 12:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Feb) |  |  | 0.3% |
 | 12:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Feb) |  |  | 3.3% |
 | 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 26.00K |
