@@ -4,10 +4,10 @@
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Mar) | 3.1% | 0.9% | 0.7% |
 | 02:30 | AUD | NAB Business Confidence (Mar) | -29 |  | 0 |
-| 03:55 | CNY | Imports (YoY) (Mar) | 27.8% | 11.1% | 19.8% |
-| 03:55 | CNY | Trade Balance (USD) (Mar) | 51.13B | 107.50B | 213.62B |
-| 04:05 | CNY | Exports (YoY) (Mar) | 2.5% | 8.3% | 21.8% |
-| 05:30 | JPY | Industrial Production (MoM) (Feb) |  | -2.1% | -2.1% |
+| 04:00 | CNY | Exports (YoY) (Mar) | 2.5% | 8.3% | 21.8% |
+| 04:00 | CNY | Imports (YoY) (Mar) | 27.8% | 11.1% | 19.8% |
+| 04:00 | CNY | Trade Balance (USD) (Mar) | 51.13B | 107.50B | 213.62B |
+| 05:30 | JPY | Industrial Production (MoM) (Feb) | -2.0% | -2.1% | 4.3% |
 | 07:30 | INR | WPI Inflation (YoY) (Mar) |  | 3.00% | 2.13% |
 | 08:00 | EUR | Spanish CPI (YoY) (Mar) |  | 3.3% | 2.3% |
 | 08:00 | EUR | Spanish HICP (YoY) (Mar) |  | 3.3% | 2.5% |
