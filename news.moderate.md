@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Mar) | 3.1% | 0.9% | 0.7% |
-| 02:30 | AUD | NAB Business Confidence (Mar) |  |  | -1 |
+| 39 min | AUD | NAB Business Confidence (Mar) |  |  | -1 |
 | 04:00 | CNY | Exports (YoY) (Mar) |  | 8.3% | 21.8% |
 | 04:00 | CNY | Imports (YoY) (Mar) |  | 11.1% | 19.8% |
 | 04:00 | CNY | Trade Balance (USD) (Mar) |  | 107.50B | 213.62B |

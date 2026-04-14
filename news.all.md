@@ -3,11 +3,11 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Mar) | 3.1% | 0.9% | 0.7% |
-| 39 min | SGD | Low | GDP (YoY) (Q1) |  | 5.4% | 6.9% |
-| 39 min | SGD | Low | GDP (QoQ) (Q1) |  | -0.5% | 2.1% |
-| 01:30 | AUD | Low | Westpac Consumer Sentiment (Apr) |  |  | 1.2% |
-| 02:30 | AUD | Moderate | NAB Business Confidence (Mar) |  |  | -1 |
-| 02:30 | AUD | Low | NAB Business Survey (Mar) |  |  | 7 |
+| 01:00 | SGD | Low | GDP (YoY) (Q1) | 4.6% | 5.4% | 6.9% |
+| 01:00 | SGD | Low | GDP (QoQ) (Q1) | -1.3% | -0.5% | 2.1% |
+| 01:30 | AUD | Low | Westpac Consumer Sentiment (Apr) | -12.5% |  | 1.2% |
+| 39 min | AUD | Moderate | NAB Business Confidence (Mar) |  |  | -1 |
+| 39 min | AUD | Low | NAB Business Survey (Mar) |  |  | 7 |
 | 04:00 | CNY | Low | Exports (Mar) |  |  | 36.10M |
 | 04:00 | CNY | Low | Imports (Mar) |  |  | 10.90M |
 | 04:00 | CNY | Low | Trade Balance (Mar) |  | 780.00B | 1,503.00B |
