@@ -34,5 +34,5 @@
 | 18:00 | USD | Fed Collins Speaks |  |  |  |
 | 18:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 21:10 | GBP | BoE Breeden Speaks |  |  |  |
-| 35 min | KRW | Export Price Index (YoY) (Mar) |  |  | 10.7% |
-| 35 min | KRW | Import Price Index (YoY) (Mar) |  |  | 1.2% |
+| 22:00 | KRW | Export Price Index (YoY) (Mar) | 28.7% |  | 11.1% |
+| 22:00 | KRW | Import Price Index (YoY) (Mar) | 18.4% |  | 1.6% |

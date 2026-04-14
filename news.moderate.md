@@ -19,5 +19,5 @@
 | 17:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 17:45 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 18:00 | EUR | German Buba Balz Speaks |  |  |  |
-| 5 min | USD | API Weekly Crude Oil Stock |  | -1.300M | 3.719M |
-| 35 min | EUR | ECB President Lagarde Speaks |  |  |  |
+| 21:30 | USD | API Weekly Crude Oil Stock | 6.100M | -1.300M | 3.719M |
+| 22:00 | EUR | ECB President Lagarde Speaks |  |  |  |
