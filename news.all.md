@@ -24,13 +24,13 @@
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Mar) | 1.7% | 1.5% | 0.4% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Mar) | 3.4% | 3.3% | 2.5% |
 | 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 1.964% |
-| 09:50 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
-| 10:00 | USD | Moderate | IEA Monthly Report |  |  |  |
-| 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.720% |
-| 10:30 | ZAR | Low | Business Confidence (Feb) |  |  | 131.4 |
-| 10:30 | ZAR | Low | Gold Production (YoY) (Feb) |  |  | 0.7% |
-| 10:30 | ZAR | Low | Mining Production (Feb) |  |  | 4.6% |
-| 10:31 | ZAR | Low | Business Confidence (Mar) |  |  |  |
+| 8 min | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
+| 18 min | USD | Moderate | IEA Monthly Report |  |  |  |
+| 48 min | EUR | Low | German 5-Year Bobl Auction |  |  | 2.720% |
+| 48 min | ZAR | Low | Business Confidence (Feb) |  |  | 131.4 |
+| 48 min | ZAR | Low | Gold Production (YoY) (Feb) |  |  | 0.7% |
+| 48 min | ZAR | Low | Mining Production (Feb) |  |  | 4.6% |
+| 49 min | ZAR | Low | Business Confidence (Mar) |  |  |  |
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
 | 11:00 | USD | Low | NFIB Small Business Optimism (Mar) |  | 97.8 | 98.8 |
 | 12:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Feb) |  |  | 0.3% |

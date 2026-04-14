@@ -16,11 +16,11 @@
 | 08:00 | EUR | Spanish CPI (MoM) (Mar) | 1.2% | 1.0% | 0.4% |
 | 08:00 | EUR | Spanish HICP (MoM) (Mar) | 1.7% | 1.5% | 0.4% |
 | 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 1.964% |
-| 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.720% |
-| 10:30 | ZAR | Business Confidence (Feb) |  |  | 131.4 |
-| 10:30 | ZAR | Gold Production (YoY) (Feb) |  |  | 0.7% |
-| 10:30 | ZAR | Mining Production (Feb) |  |  | 4.6% |
-| 10:31 | ZAR | Business Confidence (Mar) |  |  |  |
+| 48 min | EUR | German 5-Year Bobl Auction |  |  | 2.720% |
+| 48 min | ZAR | Business Confidence (Feb) |  |  | 131.4 |
+| 48 min | ZAR | Gold Production (YoY) (Feb) |  |  | 0.7% |
+| 48 min | ZAR | Mining Production (Feb) |  |  | 4.6% |
+| 49 min | ZAR | Business Confidence (Mar) |  |  |  |
 | 11:00 | USD | IMF Meetings |  |  |  |
 | 11:00 | USD | NFIB Small Business Optimism (Mar) |  | 97.8 | 98.8 |
 | 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Feb) |  |  | 0.3% |
