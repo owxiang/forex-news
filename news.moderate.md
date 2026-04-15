@@ -19,5 +19,5 @@
 | 19:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 19:00 | USD | Beige Book |  |  |  |
 | 20:30 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 21:00 | USD | TIC Net Long-Term Transactions (Feb) |  | 36.6B | 15.5B |
-| 21:00 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 25 min | USD | TIC Net Long-Term Transactions (Feb) |  | 36.6B | 15.5B |
+| 25 min | EUR | ECB's Schnabel Speaks |  |  |  |
