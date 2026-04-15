@@ -60,10 +60,10 @@
 | 15:30 | USD | Low | Gasoline Inventories | -6.328M | -2.100M | -1.589M |
 | 16:50 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 18:00 | CHF | Low | SNB Chairman Schlegel Speaks |  |  |  |
-| 1 min | BRL | Low | Foreign Exchange Flows |  |  | -2.654B |
-| 17 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 32 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 32 min | USD | Moderate | Beige Book |  |  |  |
+| 18:30 | BRL | Low | Foreign Exchange Flows | -1.303B |  | -2.654B |
+| 18:45 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 19:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 19:00 | USD | Moderate | Beige Book |  |  |  |
 | 20:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 21:00 | USD | Low | US Foreign Buying, T-bonds (Feb) |  |  | 49.90B |
 | 21:00 | USD | Low | Overall Net Capital Flow (Feb) |  |  | -25.00B |

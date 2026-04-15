@@ -15,9 +15,9 @@
 | 13:30 | CAD | Wholesale Sales (MoM) (Feb) | 2.0% | 2.3% | -1.1% |
 | 15:30 | USD | Cushing Crude Oil Inventories | -1.727M |  | 0.024M |
 | 16:50 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 17 min | USD | FOMC Member Bowman Speaks |  |  |  |
-| 32 min | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 32 min | USD | Beige Book |  |  |  |
+| 18:45 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 19:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 19:00 | USD | Beige Book |  |  |  |
 | 20:30 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 21:00 | USD | TIC Net Long-Term Transactions (Feb) |  | 36.6B | 15.5B |
 | 21:00 | EUR | ECB's Schnabel Speaks |  |  |  |
