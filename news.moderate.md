@@ -1,23 +1,39 @@
-## 15 April 2026 - Moderate Impact Forex News
+## 16 April 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:30 | INR | WPI Inflation (YoY) (Mar) | 3.88% | 3.00% | 2.13% |
-| 07:45 | EUR | French CPI (MoM) (Mar) | 1.0% | 0.9% | 0.6% |
-| 07:45 | EUR | French HICP (MoM) (Mar) | 1.1% | 1.1% | 0.7% |
-| 10:00 | EUR | Industrial Production (MoM) (Feb) | 0.4% | 0.3% | -0.8% |
-| 13:00 | BRL | Retail Sales (YoY) (Feb) | 0.2% | 1.2% | 2.7% |
-| 13:00 | BRL | Retail Sales (MoM) (Feb) | 0.6% | 1.0% | 0.4% |
-| 13:30 | USD | Export Price Index (MoM) (Mar) | 1.6% | 1.5% | 1.9% |
-| 13:30 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 13:30 | USD | Import Price Index (MoM) (Mar) | 0.8% | 2.3% | 0.9% |
-| 13:30 | USD | NY Empire State Manufacturing Index (Apr) | 11.00 | 0.30 | -0.20 |
-| 13:30 | CAD | Wholesale Sales (MoM) (Feb) | 2.0% | 2.3% | -1.1% |
-| 15:30 | USD | Cushing Crude Oil Inventories | -1.727M |  | 0.024M |
-| 16:50 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 18:45 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 19:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 19:00 | USD | Beige Book |  |  |  |
-| 20:30 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 21:00 | USD | TIC Net Long-Term Transactions (Feb) | 58.6B | 36.6B | 2.4B |
-| 21:00 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 02:30 | AUD | Employment Change (Mar) |  | 19.1K | 48.9K |
+| 02:30 | AUD | Full Employment Change (Mar) |  |  | -30.5K |
+| 02:30 | AUD | Unemployment Rate (Mar) |  | 4.3% | 4.3% |
+| 03:00 | CNY | Fixed Asset Investment (YoY) (Mar) |  | 1.9% | 1.8% |
+| 03:00 | CNY | GDP (QoQ) (Q1) |  | 1.4% | 1.2% |
+| 03:00 | CNY | Chinese GDP YTD (YoY) (Q1) |  |  | 5.0% |
+| 03:00 | CNY | Industrial Production (YoY) (Mar) |  | 5.4% | 6.3% |
+| 03:00 | CNY | Chinese Industrial Production YTD (YoY) (Mar) |  |  | 6.3% |
+| 03:00 | CNY | Chinese Unemployment Rate (Mar) |  | 5.2% | 5.3% |
+| 03:00 | CNY | NBS Press Conference |  |  |  |
+| 04:40 | EUR | ECB's Lane Speaks |  |  |  |
+| 07:00 | GBP | Industrial Production (MoM) (Feb) |  | 0.3% | -0.1% |
+| 07:00 | GBP | Manufacturing Production (MoM) (Feb) |  | 0.3% | 0.1% |
+| 07:00 | GBP | Monthly GDP 3M/3M Change (Feb) |  | 0.2% | 0.2% |
+| 07:00 | GBP | Trade Balance (Feb) |  | -19.40B | -14.45B |
+| 07:00 | GBP | Trade Balance Non-EU (Feb) |  |  | -3.46B |
+| 07:30 | CHF | PPI (MoM) (Mar) |  | 0.5% | -0.3% |
+| 08:30 | CHF | SNB Monetary Policy Assessment |  |  |  |
+| 10:00 | EUR | Core CPI (YoY) (Mar) |  | 2.3% | 2.4% |
+| 10:00 | EUR | CPI (MoM) (Mar) |  | 1.2% | 0.6% |
+| 10:15 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
+| 11:45 | EUR | German Buba Mauderer Speaks |  |  |  |
+| 12:00 | GBP | NIESR Monthly GDP Tracker (Mar) |  |  | 0.3% |
+| 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 13:30 | USD | Continuing Jobless Claims |  |  | 1,794K |
+| 13:30 | USD | Philly Fed Employment (Apr) |  |  | 0.8 |
+| 13:35 | USD | FOMC Member Williams Speaks |  |  |  |
+| 14:00 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 14:15 | USD | Industrial Production (MoM) (Mar) |  | 0.1% | 0.2% |
+| 14:15 | USD | Industrial Production (YoY) (Mar) |  |  | 1.44% |
+| 16:40 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
+| 17:45 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 19:30 | EUR | ECB's Lane Speaks |  |  |  |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 6,694B |
+| 23:45 | NZD | Electronic Card Retail Sales (MoM) (Mar) |  |  | 1.4% |
