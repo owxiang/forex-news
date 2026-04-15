@@ -9,8 +9,8 @@
 | 01:00 | KRW | Low | Exports (YoY) (Mar) | 49.2% | 48.3% | 48.3% |
 | 01:00 | KRW | Low | Imports (YoY) (Mar) | 13.2% | 13.2% | 13.2% |
 | 01:00 | KRW | Low | Trade Balance (Mar) | 26.24B | 25.74B | 25.74B |
-| 04:00 | KRW | Low | M3 Money Supply (Feb) |  |  | 6,102.1B |
-| 04:00 | KRW | Low | M2 Money supply (Feb) |  |  | 7.10% |
+| 04:00 | KRW | Low | M3 Money Supply (Feb) | 6,160.5B |  | 6,107.3B |
+| 04:00 | KRW | Low | M2 Money supply (Feb) | 8.00% |  | 7.30% |
 | 07:00 | NOK | Low | Trade Balance (Mar) |  |  | 44.8B |
 | 07:30 | INR | Low | WPI Food (YoY) (Mar) |  |  | 2.19% |
 | 07:30 | INR | Low | WPI Fuel (YoY) (Mar) |  |  | -3.78% |
