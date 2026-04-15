@@ -58,8 +58,8 @@
 | 15:30 | USD | Low | Heating Oil Stockpiles | -0.463M |  | 0.233M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -2.4% |  | -0.1% |
 | 15:30 | USD | Low | Gasoline Inventories | -6.328M | -2.100M | -1.589M |
-| 17 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 18:00 | CHF | Low | SNB Chairman Schlegel Speaks |  |  |  |
+| 16:50 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 31 min | CHF | Low | SNB Chairman Schlegel Speaks |  |  |  |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -2.654B |
 | 18:45 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 19:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |

@@ -14,7 +14,7 @@
 | 13:30 | USD | NY Empire State Manufacturing Index (Apr) | 11.00 | 0.30 | -0.20 |
 | 13:30 | CAD | Wholesale Sales (MoM) (Feb) | 2.0% | 2.3% | -1.1% |
 | 15:30 | USD | Cushing Crude Oil Inventories | -1.727M |  | 0.024M |
-| 17 min | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 16:50 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 18:45 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 19:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 19:00 | USD | Beige Book |  |  |  |
