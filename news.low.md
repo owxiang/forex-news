@@ -36,15 +36,15 @@
 | 13:30 | USD | Export Price Index (YoY) (Mar) | 5.6% |  | 3.5% |
 | 13:30 | USD | Import Price Index (YoY) (Mar) | 2.1% | 2.0% | 1.3% |
 | 13:30 | CAD | Manufacturing Sales (MoM) (Feb) | 3.6% | 3.8% | -3.1% |
-| 21 min | USD | NAHB Housing Market Index (Apr) |  | 37 | 38 |
-| 51 min | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.129M |
-| 51 min | USD | Crude Oil Imports |  |  | -0.758M |
-| 51 min | USD | Distillate Fuel Production |  |  | 0.009M |
-| 51 min | USD | EIA Weekly Distillates Stocks |  | -2.400M | -3.144M |
-| 51 min | USD | Gasoline Production |  |  | -0.214M |
-| 51 min | USD | Heating Oil Stockpiles |  |  | 0.233M |
-| 51 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.1% |
-| 51 min | USD | Gasoline Inventories |  | -2.100M | -1.589M |
+| 15:00 | USD | NAHB Housing Market Index (Apr) | 34 | 37 | 38 |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) | -0.208M |  | -0.129M |
+| 15:30 | USD | Crude Oil Imports | -2.109M |  | -0.758M |
+| 15:30 | USD | Distillate Fuel Production | -0.169M |  | 0.009M |
+| 15:30 | USD | EIA Weekly Distillates Stocks | -3.122M | -2.400M | -3.144M |
+| 15:30 | USD | Gasoline Production | 0.392M |  | -0.214M |
+| 15:30 | USD | Heating Oil Stockpiles | -0.463M |  | 0.233M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -2.4% |  | -0.1% |
+| 15:30 | USD | Gasoline Inventories | -6.328M | -2.100M | -1.589M |
 | 18:00 | CHF | SNB Chairman Schlegel Speaks |  |  |  |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | -2.654B |
 | 21:00 | USD | US Foreign Buying, T-bonds (Feb) |  |  | 49.90B |
