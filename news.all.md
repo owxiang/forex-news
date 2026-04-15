@@ -16,12 +16,12 @@
 | 07:30 | INR | Low | WPI Fuel (YoY) (Mar) | 1.05% |  | -3.78% |
 | 07:30 | INR | Moderate | WPI Inflation (YoY) (Mar) | 3.88% | 3.00% | 2.13% |
 | 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Mar) | 3.39% |  | 2.92% |
-| 07:45 | EUR | Low | French CPI NSA (YoY) (Mar) | 1.70% |  | 1.70% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Mar) | 1.00% |  | 0.90% |
-| 07:45 | EUR | Low | French CPI (YoY) (Mar) | 1.7% | 1.7% | 0.9% |
+| 07:45 | EUR | Low | French CPI NSA (YoY) (Mar) | 1.70% |  | 1.70% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Mar) | 1.0% | 0.9% | 0.6% |
-| 07:45 | EUR | Low | French HICP (YoY) (Mar) | 2.0% | 1.9% | 1.1% |
+| 07:45 | EUR | Low | French CPI (YoY) (Mar) | 1.7% | 1.7% | 0.9% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Mar) | 1.1% | 1.1% | 0.7% |
+| 07:45 | EUR | Low | French HICP (YoY) (Mar) | 2.0% | 1.9% | 1.1% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Mar) | 1.70% |  | 0.90% |
 | 10:00 | INR | Low | Exports (USD) (Mar) |  |  | 36.61B |
 | 10:00 | INR | Low | Imports (USD) (Mar) |  |  | 63.71B |
@@ -31,20 +31,19 @@
 | 10:30 | EUR | Low | German 30-Year Bund Auction |  |  | 3.420% |
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
 | 11:00 | EUR | Low | Reserve Assets Total (Mar) |  |  | 2,046.00B |
-| 11:30 | INR | Moderate | CPI (YoY) (Mar) |  | 3.48% | 3.21% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.51% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -0.8% |
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 161.1 |
 | 12:00 | USD | Low | Mortgage Market Index |  |  | 276.0 |
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 919.9 |
 | 12:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Apr) |  |  | -0.2% |
-| 13:00 | BRL | Moderate | Retail Sales (YoY) (Feb) |  | 1.2% | 2.8% |
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (Feb) |  | 1.0% | 0.4% |
-| 13:30 | USD | Moderate | Export Price Index (MoM) (Mar) |  | 1.5% | 1.5% |
+| 13:00 | BRL | Moderate | Retail Sales (YoY) (Feb) |  | 1.2% | 2.8% |
 | 13:30 | USD | Low | Export Price Index (YoY) (Mar) |  |  | 3.5% |
+| 13:30 | USD | Moderate | Export Price Index (MoM) (Mar) |  | 1.5% | 1.5% |
 | 13:30 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 13:30 | USD | Moderate | Import Price Index (MoM) (Mar) |  | 2.3% | 1.3% |
 | 13:30 | USD | Low | Import Price Index (YoY) (Mar) |  | 2.0% | 1.3% |
+| 13:30 | USD | Moderate | Import Price Index (MoM) (Mar) |  | 2.3% | 1.3% |
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Apr) |  | 0.30 | -0.20 |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Feb) |  | 3.8% | -3.0% |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Feb) |  | 2.3% | -1.0% |

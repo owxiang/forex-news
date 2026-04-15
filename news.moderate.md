@@ -6,9 +6,8 @@
 | 07:45 | EUR | French CPI (MoM) (Mar) | 1.0% | 0.9% | 0.6% |
 | 07:45 | EUR | French HICP (MoM) (Mar) | 1.1% | 1.1% | 0.7% |
 | 10:00 | EUR | Industrial Production (MoM) (Feb) |  | 0.3% | -1.5% |
-| 11:30 | INR | CPI (YoY) (Mar) |  | 3.48% | 3.21% |
-| 13:00 | BRL | Retail Sales (YoY) (Feb) |  | 1.2% | 2.8% |
 | 13:00 | BRL | Retail Sales (MoM) (Feb) |  | 1.0% | 0.4% |
+| 13:00 | BRL | Retail Sales (YoY) (Feb) |  | 1.2% | 2.8% |
 | 13:30 | USD | Export Price Index (MoM) (Mar) |  | 1.5% | 1.5% |
 | 13:30 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 13:30 | USD | Import Price Index (MoM) (Mar) |  | 2.3% | 1.3% |
