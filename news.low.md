@@ -20,10 +20,10 @@
 | 07:45 | EUR | French CPI (YoY) (Mar) | 1.7% | 1.7% | 0.9% |
 | 07:45 | EUR | French HICP (YoY) (Mar) | 2.0% | 1.9% | 1.1% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Mar) | 1.70% |  | 0.90% |
-| 10:00 | INR | Exports (USD) (Mar) |  |  | 36.61B |
-| 10:00 | INR | Imports (USD) (Mar) |  |  | 63.71B |
-| 10:00 | INR | Trade Balance (Mar) |  | -32.75B | -27.10B |
-| 10:00 | EUR | Industrial Production (YoY) (Feb) |  | -1.0% | -1.2% |
+| 10:00 | INR | Exports (USD) (Mar) | 38.92B |  | 36.61B |
+| 10:00 | INR | Imports (USD) (Mar) | 59.59B |  | 63.71B |
+| 10:00 | INR | Trade Balance (Mar) | -20.67B | -32.75B | -27.10B |
+| 10:00 | EUR | Industrial Production (YoY) (Feb) | -0.6% | -1.0% | -0.6% |
 | 10:30 | EUR | German 30-Year Bund Auction |  |  | 3.420% |
 | 11:00 | USD | IMF Meetings |  |  |  |
 | 11:00 | EUR | Reserve Assets Total (Mar) |  |  | 2,046.00B |
