@@ -13,7 +13,7 @@
 | 13:30 | USD | Import Price Index (MoM) (Mar) | 0.8% | 2.3% | 0.9% |
 | 13:30 | USD | NY Empire State Manufacturing Index (Apr) | 11.00 | 0.30 | -0.20 |
 | 13:30 | CAD | Wholesale Sales (MoM) (Feb) | 2.0% | 2.3% | -1.1% |
-| 15:30 | USD | Cushing Crude Oil Inventories |  |  | 0.024M |
+| 51 min | USD | Cushing Crude Oil Inventories |  |  | 0.024M |
 | 16:50 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 18:45 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 19:00 | GBP | BoE Gov Bailey Speaks |  |  |  |

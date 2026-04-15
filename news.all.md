@@ -39,25 +39,25 @@
 | 12:30 | INR | Low | Trade Balance (Mar) | -20.67B | -32.75B | -27.10B |
 | 13:00 | BRL | Moderate | Retail Sales (YoY) (Feb) | 0.2% | 1.2% | 2.7% |
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (Feb) | 0.6% | 1.0% | 0.4% |
-| 13:30 | USD | Low | Export Price Index (YoY) (Mar) |  |  | 3.5% |
+| 13:30 | USD | Low | Export Price Index (YoY) (Mar) | 5.6% |  | 3.5% |
 | 13:30 | USD | Moderate | Export Price Index (MoM) (Mar) | 1.6% | 1.5% | 1.9% |
 | 13:30 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 13:30 | USD | Low | Import Price Index (YoY) (Mar) |  | 2.0% | 1.3% |
+| 13:30 | USD | Low | Import Price Index (YoY) (Mar) | 2.1% | 2.0% | 1.3% |
 | 13:30 | USD | Moderate | Import Price Index (MoM) (Mar) | 0.8% | 2.3% | 0.9% |
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Apr) | 11.00 | 0.30 | -0.20 |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Feb) | 3.6% | 3.8% | -3.1% |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Feb) | 2.0% | 2.3% | -1.1% |
-| 15:00 | USD | Low | NAHB Housing Market Index (Apr) |  | 37 | 38 |
-| 15:30 | USD | High | Crude Oil Inventories |  | 2.100M | 3.081M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.129M |
-| 15:30 | USD | Low | Crude Oil Imports |  |  | -0.758M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.024M |
-| 15:30 | USD | Low | Distillate Fuel Production |  |  | 0.009M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | -2.400M | -3.144M |
-| 15:30 | USD | Low | Gasoline Production |  |  | -0.214M |
-| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.233M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.1% |
-| 15:30 | USD | Low | Gasoline Inventories |  | -2.100M | -1.589M |
+| 21 min | USD | Low | NAHB Housing Market Index (Apr) |  | 37 | 38 |
+| 51 min | USD | High | Crude Oil Inventories |  | 2.100M | 3.081M |
+| 51 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.129M |
+| 51 min | USD | Low | Crude Oil Imports |  |  | -0.758M |
+| 51 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.024M |
+| 51 min | USD | Low | Distillate Fuel Production |  |  | 0.009M |
+| 51 min | USD | Low | EIA Weekly Distillates Stocks |  | -2.400M | -3.144M |
+| 51 min | USD | Low | Gasoline Production |  |  | -0.214M |
+| 51 min | USD | Low | Heating Oil Stockpiles |  |  | 0.233M |
+| 51 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.1% |
+| 51 min | USD | Low | Gasoline Inventories |  | -2.100M | -1.589M |
 | 16:50 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 18:00 | CHF | Low | SNB Chairman Schlegel Speaks |  |  |  |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -2.654B |
