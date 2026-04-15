@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | KRW | Low | Unemployment Rate (Mar) | 2.7% |  | 2.9% |
 | 00:00 | JPY | Low | Reuters Tankan Index (Apr) | 7 |  | 18 |
-| 00:50 | JPY | Low | Core Machinery Orders (YoY) (Feb) | 24.7% | 8.5% | 13.7% |
 | 00:50 | JPY | Low | Core Machinery Orders (MoM) (Feb) | 13.6% | -1.1% | -5.5% |
+| 00:50 | JPY | Low | Core Machinery Orders (YoY) (Feb) | 24.7% | 8.5% | 13.7% |
 | 01:00 | KRW | Low | Exports (YoY) (Mar) | 49.2% | 48.3% | 28.7% |
 | 01:00 | KRW | Low | Imports (YoY) (Mar) | 13.2% | 13.2% | 7.5% |
 | 01:00 | KRW | Low | Trade Balance (Mar) | 26.24B | 25.74B | 15.38B |
@@ -16,16 +16,13 @@
 | 07:30 | INR | Low | WPI Fuel (YoY) (Mar) | 1.05% |  | -3.78% |
 | 07:30 | INR | Moderate | WPI Inflation (YoY) (Mar) | 3.88% | 3.00% | 2.13% |
 | 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Mar) | 3.39% |  | 2.92% |
-| 07:45 | EUR | Low | French CPI NSA (MoM) (Mar) | 1.00% |  | 0.90% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Mar) | 1.70% |  | 1.70% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Mar) | 1.0% | 0.9% | 0.6% |
+| 07:45 | EUR | Low | French CPI NSA (MoM) (Mar) | 1.00% |  | 0.90% |
 | 07:45 | EUR | Low | French CPI (YoY) (Mar) | 1.7% | 1.7% | 0.9% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Mar) | 1.1% | 1.1% | 0.7% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Mar) | 1.0% | 0.9% | 0.6% |
 | 07:45 | EUR | Low | French HICP (YoY) (Mar) | 2.0% | 1.9% | 1.1% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Mar) | 1.1% | 1.1% | 0.7% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Mar) | 1.70% |  | 0.90% |
-| 10:00 | INR | Low | Exports (USD) (Mar) | 38.92B |  | 36.61B |
-| 10:00 | INR | Low | Imports (USD) (Mar) | 59.59B |  | 63.71B |
-| 10:00 | INR | Low | Trade Balance (Mar) | -20.67B | -32.75B | -27.10B |
 | 10:00 | EUR | Moderate | Industrial Production (MoM) (Feb) | 0.4% | 0.3% | -0.8% |
 | 10:00 | EUR | Low | Industrial Production (YoY) (Feb) | -0.6% | -1.0% | -0.6% |
 | 10:30 | EUR | Low | German 30-Year Bund Auction | 3.570% |  | 3.420% |
@@ -37,27 +34,30 @@
 | 12:00 | USD | Low | Mortgage Market Index | 281.0 |  | 276.0 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 966.8 |  | 919.9 |
 | 12:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Apr) | 2.9% |  | -0.2% |
-| 33 min | BRL | Moderate | Retail Sales (MoM) (Feb) |  | 1.0% | 0.4% |
-| 33 min | BRL | Moderate | Retail Sales (YoY) (Feb) |  | 1.2% | 2.8% |
+| 12:30 | INR | Low | Exports (USD) (Mar) | 38.92B |  | 36.61B |
+| 12:30 | INR | Low | Imports (USD) (Mar) | 59.59B |  | 63.71B |
+| 12:30 | INR | Low | Trade Balance (Mar) | -20.67B | -32.75B | -27.10B |
+| 13:00 | BRL | Moderate | Retail Sales (YoY) (Feb) | 0.2% | 1.2% | 2.7% |
+| 13:00 | BRL | Moderate | Retail Sales (MoM) (Feb) | 0.6% | 1.0% | 0.4% |
 | 13:30 | USD | Low | Export Price Index (YoY) (Mar) |  |  | 3.5% |
-| 13:30 | USD | Moderate | Export Price Index (MoM) (Mar) |  | 1.5% | 1.5% |
+| 13:30 | USD | Moderate | Export Price Index (MoM) (Mar) | 1.6% | 1.5% | 1.9% |
 | 13:30 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 13:30 | USD | Low | Import Price Index (YoY) (Mar) |  | 2.0% | 1.3% |
-| 13:30 | USD | Moderate | Import Price Index (MoM) (Mar) |  | 2.3% | 1.3% |
-| 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Apr) |  | 0.30 | -0.20 |
-| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Feb) |  | 3.8% | -3.0% |
-| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Feb) |  | 2.3% | -1.0% |
+| 13:30 | USD | Moderate | Import Price Index (MoM) (Mar) | 0.8% | 2.3% | 0.9% |
+| 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Apr) | 11.00 | 0.30 | -0.20 |
+| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Feb) | 3.6% | 3.8% | -3.1% |
+| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Feb) | 2.0% | 2.3% | -1.1% |
 | 15:00 | USD | Low | NAHB Housing Market Index (Apr) |  | 37 | 38 |
 | 15:30 | USD | High | Crude Oil Inventories |  | 2.100M | 3.081M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.129M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | -0.758M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.024M |
 | 15:30 | USD | Low | Distillate Fuel Production |  |  | 0.009M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  |  | -3.144M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | -2.400M | -3.144M |
 | 15:30 | USD | Low | Gasoline Production |  |  | -0.214M |
 | 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.233M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.1% |
-| 15:30 | USD | Low | Gasoline Inventories |  |  | -1.589M |
+| 15:30 | USD | Low | Gasoline Inventories |  | -2.100M | -1.589M |
 | 16:50 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 18:00 | CHF | Low | SNB Chairman Schlegel Speaks |  |  |  |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -2.654B |
