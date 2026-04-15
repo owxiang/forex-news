@@ -65,8 +65,8 @@
 | 19:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 19:00 | USD | Moderate | Beige Book |  |  |  |
 | 20:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 25 min | USD | Low | US Foreign Buying, T-bonds (Feb) |  |  | 49.90B |
-| 25 min | USD | Low | Overall Net Capital Flow (Feb) |  |  | -25.00B |
-| 25 min | USD | Moderate | TIC Net Long-Term Transactions (Feb) |  | 36.6B | 15.5B |
-| 25 min | USD | Low | TIC Net Long-Term Transactions including Swaps (Feb) |  |  | 15.50B |
-| 25 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 21:00 | USD | Low | US Foreign Buying, T-bonds (Feb) | 2.00B |  | 49.90B |
+| 21:00 | USD | Low | Overall Net Capital Flow (Feb) | 184.50B |  | -38.40B |
+| 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Feb) | 58.6B | 36.6B | 2.4B |
+| 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Feb) | 58.60B |  | 2.40B |
+| 21:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |

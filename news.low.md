@@ -47,6 +47,6 @@
 | 15:30 | USD | Gasoline Inventories | -6.328M | -2.100M | -1.589M |
 | 18:00 | CHF | SNB Chairman Schlegel Speaks |  |  |  |
 | 18:30 | BRL | Foreign Exchange Flows | -1.303B |  | -2.654B |
-| 25 min | USD | US Foreign Buying, T-bonds (Feb) |  |  | 49.90B |
-| 25 min | USD | Overall Net Capital Flow (Feb) |  |  | -25.00B |
-| 25 min | USD | TIC Net Long-Term Transactions including Swaps (Feb) |  |  | 15.50B |
+| 21:00 | USD | US Foreign Buying, T-bonds (Feb) | 2.00B |  | 49.90B |
+| 21:00 | USD | Overall Net Capital Flow (Feb) | 184.50B |  | -38.40B |
+| 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Feb) | 58.60B |  | 2.40B |
