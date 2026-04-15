@@ -24,15 +24,15 @@
 | 10:00 | INR | Imports (USD) (Mar) | 59.59B |  | 63.71B |
 | 10:00 | INR | Trade Balance (Mar) | -20.67B | -32.75B | -27.10B |
 | 10:00 | EUR | Industrial Production (YoY) (Feb) | -0.6% | -1.0% | -0.6% |
-| 10:30 | EUR | German 30-Year Bund Auction |  |  | 3.420% |
+| 10:30 | EUR | German 30-Year Bund Auction | 3.570% |  | 3.420% |
 | 11:00 | USD | IMF Meetings |  |  |  |
-| 11:00 | EUR | Reserve Assets Total (Mar) |  |  | 2,046.00B |
-| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.51% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -0.8% |
-| 12:00 | USD | MBA Purchase Index |  |  | 161.1 |
-| 12:00 | USD | Mortgage Market Index |  |  | 276.0 |
-| 12:00 | USD | Mortgage Refinance Index |  |  | 919.9 |
-| 12:00 | BRL | IGP-10 Inflation Index (MoM) (Apr) |  |  | -0.2% |
+| 11:00 | EUR | Reserve Assets Total (Mar) | 1,908.13B |  | 2,045.81B |
+| 27 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.51% |
+| 27 min | USD | MBA Mortgage Applications (WoW) |  |  | -0.8% |
+| 27 min | USD | MBA Purchase Index |  |  | 161.1 |
+| 27 min | USD | Mortgage Market Index |  |  | 276.0 |
+| 27 min | USD | Mortgage Refinance Index |  |  | 919.9 |
+| 27 min | BRL | IGP-10 Inflation Index (MoM) (Apr) |  |  | -0.2% |
 | 13:30 | USD | Export Price Index (YoY) (Mar) |  |  | 3.5% |
 | 13:30 | USD | Import Price Index (YoY) (Mar) |  | 2.0% | 1.3% |
 | 13:30 | CAD | Manufacturing Sales (MoM) (Feb) |  | 3.8% | -3.0% |

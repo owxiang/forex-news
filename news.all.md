@@ -28,15 +28,15 @@
 | 10:00 | INR | Low | Trade Balance (Mar) | -20.67B | -32.75B | -27.10B |
 | 10:00 | EUR | Moderate | Industrial Production (MoM) (Feb) | 0.4% | 0.3% | -0.8% |
 | 10:00 | EUR | Low | Industrial Production (YoY) (Feb) | -0.6% | -1.0% | -0.6% |
-| 10:30 | EUR | Low | German 30-Year Bund Auction |  |  | 3.420% |
+| 10:30 | EUR | Low | German 30-Year Bund Auction | 3.570% |  | 3.420% |
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
-| 11:00 | EUR | Low | Reserve Assets Total (Mar) |  |  | 2,046.00B |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.51% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -0.8% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 161.1 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 276.0 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 919.9 |
-| 12:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Apr) |  |  | -0.2% |
+| 11:00 | EUR | Low | Reserve Assets Total (Mar) | 1,908.13B |  | 2,045.81B |
+| 27 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.51% |
+| 27 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -0.8% |
+| 27 min | USD | Low | MBA Purchase Index |  |  | 161.1 |
+| 27 min | USD | Low | Mortgage Market Index |  |  | 276.0 |
+| 27 min | USD | Low | Mortgage Refinance Index |  |  | 919.9 |
+| 27 min | BRL | Low | IGP-10 Inflation Index (MoM) (Apr) |  |  | -0.2% |
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (Feb) |  | 1.0% | 0.4% |
 | 13:00 | BRL | Moderate | Retail Sales (YoY) (Feb) |  | 1.2% | 2.8% |
 | 13:30 | USD | Low | Export Price Index (YoY) (Mar) |  |  | 3.5% |
