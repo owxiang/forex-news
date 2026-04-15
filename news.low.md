@@ -45,8 +45,8 @@
 | 15:30 | USD | Heating Oil Stockpiles | -0.463M |  | 0.233M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -2.4% |  | -0.1% |
 | 15:30 | USD | Gasoline Inventories | -6.328M | -2.100M | -1.589M |
-| 31 min | CHF | SNB Chairman Schlegel Speaks |  |  |  |
-| 18:30 | BRL | Foreign Exchange Flows |  |  | -2.654B |
+| 18:00 | CHF | SNB Chairman Schlegel Speaks |  |  |  |
+| 1 min | BRL | Foreign Exchange Flows |  |  | -2.654B |
 | 21:00 | USD | US Foreign Buying, T-bonds (Feb) |  |  | 49.90B |
 | 21:00 | USD | Overall Net Capital Flow (Feb) |  |  | -25.00B |
 | 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Feb) |  |  | 15.50B |
