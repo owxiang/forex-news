@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 07:30 | INR | WPI Inflation (YoY) (Mar) |  | 3.00% | 2.13% |
 | 07:45 | EUR | French CPI (MoM) (Mar) |  | 0.9% | 0.6% |
-| 07:45 | EUR | French HICP (MoM) (Mar) |  | 1.1% | 1.1% |
+| 07:45 | EUR | French HICP (MoM) (Mar) |  | 1.1% | 0.7% |
 | 10:00 | EUR | Industrial Production (MoM) (Feb) |  | 0.3% | -1.5% |
 | 11:30 | INR | CPI (YoY) (Mar) |  | 3.48% | 3.21% |
 | 13:00 | BRL | Retail Sales (MoM) (Feb) |  | 1.0% | 0.4% |

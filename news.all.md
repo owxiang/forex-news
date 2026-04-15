@@ -20,8 +20,8 @@
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Mar) |  |  | 1.70% |
 | 07:45 | EUR | Low | French CPI (YoY) (Mar) |  | 1.7% | 0.9% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Mar) |  | 0.9% | 0.6% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Mar) |  | 1.1% | 1.1% |
-| 07:45 | EUR | Low | French HICP (YoY) (Mar) |  | 1.9% | 1.9% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Mar) |  | 1.1% | 0.7% |
+| 07:45 | EUR | Low | French HICP (YoY) (Mar) |  | 1.9% | 1.1% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Mar) |  |  | 0.90% |
 | 10:00 | INR | Low | Exports (USD) (Mar) |  |  | 36.61B |
 | 10:00 | INR | Low | Imports (USD) (Mar) |  |  | 63.71B |

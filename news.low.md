@@ -18,7 +18,7 @@
 | 07:45 | EUR | French CPI NSA (MoM) (Mar) |  |  | 0.90% |
 | 07:45 | EUR | French CPI NSA (YoY) (Mar) |  |  | 1.70% |
 | 07:45 | EUR | French CPI (YoY) (Mar) |  | 1.7% | 0.9% |
-| 07:45 | EUR | French HICP (YoY) (Mar) |  | 1.9% | 1.9% |
+| 07:45 | EUR | French HICP (YoY) (Mar) |  | 1.9% | 1.1% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Mar) |  |  | 0.90% |
 | 10:00 | INR | Exports (USD) (Mar) |  |  | 36.61B |
 | 10:00 | INR | Imports (USD) (Mar) |  |  | 63.71B |
