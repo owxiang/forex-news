@@ -4,11 +4,11 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | KRW | Unemployment Rate (Mar) | 2.7% |  | 2.9% |
 | 00:00 | JPY | Reuters Tankan Index (Apr) | 7 |  | 18 |
-| 29 min | JPY | Core Machinery Orders (YoY) (Feb) |  | 8.5% | 13.7% |
-| 29 min | JPY | Core Machinery Orders (MoM) (Feb) |  | -1.1% | -5.5% |
-| 39 min | KRW | Exports (YoY) (Mar) |  | 48.3% | 48.3% |
-| 39 min | KRW | Imports (YoY) (Mar) |  | 13.2% | 13.2% |
-| 39 min | KRW | Trade Balance (Mar) |  | 25.74B | 25.74B |
+| 00:50 | JPY | Core Machinery Orders (YoY) (Feb) | 24.7% | 8.5% | 13.7% |
+| 00:50 | JPY | Core Machinery Orders (MoM) (Feb) | 13.6% | -1.1% | -5.5% |
+| 01:00 | KRW | Exports (YoY) (Mar) | 49.2% | 48.3% | 48.3% |
+| 01:00 | KRW | Imports (YoY) (Mar) | 13.2% | 13.2% | 13.2% |
+| 01:00 | KRW | Trade Balance (Mar) | 26.24B | 25.74B | 25.74B |
 | 04:00 | KRW | M3 Money Supply (Feb) |  |  | 6,102.1B |
 | 04:00 | KRW | M2 Money supply (Feb) |  |  | 7.10% |
 | 07:00 | NOK | Trade Balance (Mar) |  |  | 44.8B |
