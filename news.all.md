@@ -16,9 +16,9 @@
 | 07:30 | INR | Low | WPI Fuel (YoY) (Mar) | 1.05% |  | -3.78% |
 | 07:30 | INR | Moderate | WPI Inflation (YoY) (Mar) | 3.88% | 3.00% | 2.13% |
 | 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Mar) | 3.39% |  | 2.92% |
-| 07:45 | EUR | Low | French CPI NSA (YoY) (Mar) |  |  | 1.70% |
-| 07:45 | EUR | Low | French CPI NSA (MoM) (Mar) |  |  | 0.90% |
-| 07:45 | EUR | Low | French CPI (YoY) (Mar) |  | 1.7% | 0.9% |
+| 07:45 | EUR | Low | French CPI NSA (YoY) (Mar) | 1.70% |  | 1.70% |
+| 07:45 | EUR | Low | French CPI NSA (MoM) (Mar) | 1.00% |  | 0.90% |
+| 07:45 | EUR | Low | French CPI (YoY) (Mar) | 1.7% | 1.7% | 0.9% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Mar) | 1.0% | 0.9% | 0.6% |
 | 07:45 | EUR | Low | French HICP (YoY) (Mar) | 2.0% | 1.9% | 1.1% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Mar) | 1.1% | 1.1% | 0.7% |
