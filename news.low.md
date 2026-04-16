@@ -32,7 +32,7 @@
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Mar) | 0.7% | 0.7% | 0.6% |
 | 11:00 | USD | IMF Meetings |  |  |  |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 13:00 | BRL | IBC-Br Economic Activity (Feb) |  | 0.50% | 0.80% |
+| 31 min | BRL | IBC-Br Economic Activity (Feb) |  | 0.50% | 0.80% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 209.50K |
 | 13:30 | USD | Philly Fed Business Conditions (Apr) |  |  | 40.0 |
 | 13:30 | USD | Philly Fed CAPEX Index (Apr) |  |  | 25.80 |

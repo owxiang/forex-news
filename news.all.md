@@ -57,10 +57,10 @@
 | 10:15 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 10 min | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 25 min | GBP | Moderate | NIESR Monthly GDP Tracker (Mar) |  |  | 0.3% |
-| 55 min | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:00 | BRL | Low | IBC-Br Economic Activity (Feb) |  | 0.50% | 0.80% |
+| 11:45 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 1 min | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 31 min | GBP | Moderate | NIESR Monthly GDP Tracker (Mar) |  |  | 0.3% |
+| 31 min | BRL | Low | IBC-Br Economic Activity (Feb) |  | 0.50% | 0.80% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,810K | 1,794K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 213K | 219K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 209.50K |
