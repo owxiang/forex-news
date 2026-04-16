@@ -12,8 +12,8 @@
 | 02:30 | AUD | Moderate | Unemployment Rate (Mar) | 4.3% | 4.3% | 4.3% |
 | 02:30 | CNY | Low | House Prices (YoY) (Mar) | -3.4% |  | -3.2% |
 | 03:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Mar) | 1.7% | 1.9% | 1.8% |
-| 03:00 | CNY | Moderate | GDP (QoQ) (Q1) | 1.3% | 1.4% | 1.2% |
 | 03:00 | CNY | High | GDP (YoY) (Q1) | 5.0% | 4.8% | 4.5% |
+| 03:00 | CNY | Moderate | GDP (QoQ) (Q1) | 1.3% | 1.3% | 1.2% |
 | 03:00 | CNY | Moderate | Chinese GDP YTD (YoY) (Q1) | 5.0% |  | 5.0% |
 | 03:00 | CNY | Moderate | Industrial Production (YoY) (Mar) | 5.7% | 5.4% | 6.3% |
 | 03:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Mar) | 6.1% |  | 6.3% |
@@ -21,16 +21,16 @@
 | 03:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Mar) | 2.43% |  | 2.80% |
 | 03:00 | CNY | Moderate | Chinese Unemployment Rate (Mar) | 5.4% | 5.2% | 5.3% |
 | 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
-| 28 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 07:00 | GBP | Low | U.K. Construction Output (YoY) (Feb) |  | -0.4% | -0.2% |
+| 04:40 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 07:00 | GBP | Low | Construction Output (MoM) (Feb) |  | -0.4% | 0.2% |
+| 07:00 | GBP | Low | U.K. Construction Output (YoY) (Feb) |  | -0.4% | -0.2% |
 | 07:00 | GBP | High | GDP (MoM) (Feb) |  | 0.1% | 0.0% |
-| 07:00 | GBP | Low | GDP (YoY) (Feb) |  |  | 0.8% |
+| 07:00 | GBP | Low | GDP (YoY) (Feb) |  | 0.6% | 0.8% |
 | 07:00 | GBP | Low | Index of Services |  | 0.3% | 0.2% |
 | 07:00 | GBP | Moderate | Industrial Production (MoM) (Feb) |  | 0.3% | -0.1% |
 | 07:00 | GBP | Low | Industrial Production (YoY) (Feb) |  | -0.9% | 0.4% |
-| 07:00 | GBP | Low | Manufacturing Production (YoY) (Feb) |  | -0.3% | 1.3% |
 | 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Feb) |  | 0.3% | 0.1% |
+| 07:00 | GBP | Low | Manufacturing Production (YoY) (Feb) |  | -0.3% | 1.3% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Feb) |  | 0.2% | 0.2% |
 | 07:00 | GBP | Moderate | Trade Balance (Feb) |  | -19.40B | -14.45B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Feb) |  |  | -3.46B |
@@ -42,11 +42,14 @@
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Mar) |  |  | 1.1% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Mar) |  | 1.6% | 0.5% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (Mar) |  | 1.5% | 1.5% |
+| 09:40 | EUR | Moderate | Spanish 15-Year Obligacion Auction |  |  | 3.605% |
+| 09:40 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.915% |
+| 09:40 | EUR | Low | Spanish 7-Year Obligacion Auction |  |  | 3.079% |
 | 10:00 | CNY | Low | FDI (Mar) |  |  | -5.70% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Mar) |  | 0.8% | 0.8% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Mar) |  | 2.3% | 2.4% |
-| 10:00 | EUR | High | CPI (YoY) (Mar) |  | 2.5% | 1.9% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Mar) |  | 1.2% | 0.6% |
+| 10:00 | EUR | High | CPI (YoY) (Mar) |  | 2.5% | 1.9% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Mar) |  |  | 0.6% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Mar) |  |  | 1.8% |
 | 10:00 | EUR | Low | CPI, n.s.a (Mar) |  | 101.96 | 100.71 |
@@ -60,8 +63,8 @@
 | 11:45 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 12:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Mar) |  |  | 0.3% |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:00 | BRL | Low | IBC-Br Economic Activity (Feb) |  | 0.40% | 0.80% |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,794K |
+| 13:00 | BRL | Low | IBC-Br Economic Activity (Feb) |  | 0.50% | 0.80% |
+| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,810K | 1,794K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 213K | 219K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 209.50K |
 | 13:30 | USD | High | Philadelphia Fed Manufacturing Index (Apr) |  | 10.3 | 18.1 |

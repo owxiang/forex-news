@@ -10,9 +10,9 @@
 | 02:30 | CNY | House Prices (YoY) (Mar) | -3.4% |  | -3.2% |
 | 03:00 | CNY | Retail Sales (YoY) (Mar) | 1.7% | 2.4% | 2.8% |
 | 03:00 | CNY | Chinese Retail Sales YTD (YoY) (Mar) | 2.43% |  | 2.80% |
-| 07:00 | GBP | U.K. Construction Output (YoY) (Feb) |  | -0.4% | -0.2% |
 | 07:00 | GBP | Construction Output (MoM) (Feb) |  | -0.4% | 0.2% |
-| 07:00 | GBP | GDP (YoY) (Feb) |  |  | 0.8% |
+| 07:00 | GBP | U.K. Construction Output (YoY) (Feb) |  | -0.4% | -0.2% |
+| 07:00 | GBP | GDP (YoY) (Feb) |  | 0.6% | 0.8% |
 | 07:00 | GBP | Index of Services |  | 0.3% | 0.2% |
 | 07:00 | GBP | Industrial Production (YoY) (Feb) |  | -0.9% | 0.4% |
 | 07:00 | GBP | Manufacturing Production (YoY) (Feb) |  | -0.3% | 1.3% |
@@ -22,6 +22,8 @@
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Mar) |  |  | 1.1% |
 | 09:00 | EUR | Italian HICP (MoM) (Mar) |  | 1.6% | 0.5% |
 | 09:00 | EUR | Italian HICP (YoY) (Mar) |  | 1.5% | 1.5% |
+| 09:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.915% |
+| 09:40 | EUR | Spanish 7-Year Obligacion Auction |  |  | 3.079% |
 | 10:00 | CNY | FDI (Mar) |  |  | -5.70% |
 | 10:00 | EUR | Core CPI (MoM) (Mar) |  | 0.8% | 0.8% |
 | 10:00 | EUR | CPI ex Tobacco (MoM) (Mar) |  |  | 0.6% |
@@ -33,7 +35,7 @@
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 11:00 | ZAR | Business Confidence (Feb) |  |  | 131.4 |
 | 11:01 | ZAR | Business Confidence (Mar) |  |  |  |
-| 13:00 | BRL | IBC-Br Economic Activity (Feb) |  | 0.40% | 0.80% |
+| 13:00 | BRL | IBC-Br Economic Activity (Feb) |  | 0.50% | 0.80% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 209.50K |
 | 13:30 | USD | Philly Fed Business Conditions (Apr) |  |  | 40.0 |
 | 13:30 | USD | Philly Fed CAPEX Index (Apr) |  |  | 25.80 |

@@ -6,13 +6,13 @@
 | 02:30 | AUD | Full Employment Change (Mar) | 52.5K |  | -27.7K |
 | 02:30 | AUD | Unemployment Rate (Mar) | 4.3% | 4.3% | 4.3% |
 | 03:00 | CNY | Fixed Asset Investment (YoY) (Mar) | 1.7% | 1.9% | 1.8% |
-| 03:00 | CNY | GDP (QoQ) (Q1) | 1.3% | 1.4% | 1.2% |
+| 03:00 | CNY | GDP (QoQ) (Q1) | 1.3% | 1.3% | 1.2% |
 | 03:00 | CNY | Chinese GDP YTD (YoY) (Q1) | 5.0% |  | 5.0% |
 | 03:00 | CNY | Industrial Production (YoY) (Mar) | 5.7% | 5.4% | 6.3% |
 | 03:00 | CNY | Chinese Industrial Production YTD (YoY) (Mar) | 6.1% |  | 6.3% |
 | 03:00 | CNY | Chinese Unemployment Rate (Mar) | 5.4% | 5.2% | 5.3% |
 | 03:00 | CNY | NBS Press Conference |  |  |  |
-| 28 min | EUR | ECB's Lane Speaks |  |  |  |
+| 04:40 | EUR | ECB's Lane Speaks |  |  |  |
 | 07:00 | GBP | Industrial Production (MoM) (Feb) |  | 0.3% | -0.1% |
 | 07:00 | GBP | Manufacturing Production (MoM) (Feb) |  | 0.3% | 0.1% |
 | 07:00 | GBP | Monthly GDP 3M/3M Change (Feb) |  | 0.2% | 0.2% |
@@ -20,13 +20,14 @@
 | 07:00 | GBP | Trade Balance Non-EU (Feb) |  |  | -3.46B |
 | 07:30 | CHF | PPI (MoM) (Mar) |  | 0.5% | -0.3% |
 | 08:30 | CHF | SNB Monetary Policy Assessment |  |  |  |
+| 09:40 | EUR | Spanish 15-Year Obligacion Auction |  |  | 3.605% |
 | 10:00 | EUR | Core CPI (YoY) (Mar) |  | 2.3% | 2.4% |
 | 10:00 | EUR | CPI (MoM) (Mar) |  | 1.2% | 0.6% |
 | 10:15 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 11:45 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 12:00 | GBP | NIESR Monthly GDP Tracker (Mar) |  |  | 0.3% |
 | 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims |  |  | 1,794K |
+| 13:30 | USD | Continuing Jobless Claims |  | 1,810K | 1,794K |
 | 13:30 | USD | Philly Fed Employment (Apr) |  |  | 0.8 |
 | 13:35 | USD | FOMC Member Williams Speaks |  |  |  |
 | 14:00 | EUR | ECB's Schnabel Speaks |  |  |  |
