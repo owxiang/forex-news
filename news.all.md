@@ -78,9 +78,9 @@
 | 14:15 | USD | Low | Manufacturing Production (MoM) (Mar) | -0.1% | 0.1% | 0.4% |
 | 14:30 | GBP | Moderate | NIESR Monthly GDP Tracker (Mar) | 0.6% |  | 0.5% |
 | 15:30 | USD | Low | Natural Gas Storage | 59B | 55B | 50B |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.560% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.575% |
-| 16:40 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
+| 16:30 | USD | Low | 4-Week Bill Auction | 3.595% |  | 3.560% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 3.615% |  | 3.575% |
+| 2 min | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
 | 17:45 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 19:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,694B |
