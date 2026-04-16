@@ -32,15 +32,15 @@
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Mar) | 0.7% | 0.7% | 0.6% |
 | 11:00 | USD | IMF Meetings |  |  |  |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 31 min | BRL | IBC-Br Economic Activity (Feb) |  | 0.50% | 0.80% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 209.50K |
-| 13:30 | USD | Philly Fed Business Conditions (Apr) |  |  | 40.0 |
-| 13:30 | USD | Philly Fed CAPEX Index (Apr) |  |  | 25.80 |
-| 13:30 | USD | Philly Fed New Orders (Apr) |  |  | 8.6 |
-| 13:30 | USD | Philly Fed Prices Paid (Apr) |  |  | 44.70 |
+| 13:00 | BRL | IBC-Br Economic Activity (Feb) | 0.60% | 0.50% | 0.80% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 209.75K |  | 209.25K |
+| 13:30 | USD | Philly Fed Business Conditions (Apr) | 40.8 |  | 40.0 |
+| 13:30 | USD | Philly Fed CAPEX Index (Apr) | 35.20 |  | 25.80 |
+| 13:30 | USD | Philly Fed New Orders (Apr) | 33.0 |  | 8.6 |
+| 13:30 | USD | Philly Fed Prices Paid (Apr) | 59.30 |  | 44.70 |
 | 13:30 | CAD | New Motor Vehicle Sales (MoM) (Feb) |  |  | 114.4K |
-| 14:15 | USD | Capacity Utilization Rate (Mar) |  | 76.3% | 76.3% |
-| 14:15 | USD | Manufacturing Production (MoM) (Mar) |  | 0.1% | 0.2% |
+| 42 min | USD | Capacity Utilization Rate (Mar) |  | 76.3% | 76.3% |
+| 42 min | USD | Manufacturing Production (MoM) (Mar) |  | 0.1% | 0.2% |
 | 15:30 | USD | Natural Gas Storage |  | 55B | 50B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.560% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 3.575% |
