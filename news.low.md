@@ -38,9 +38,9 @@
 | 13:30 | USD | Philly Fed CAPEX Index (Apr) | 35.20 |  | 25.80 |
 | 13:30 | USD | Philly Fed New Orders (Apr) | 33.0 |  | 8.6 |
 | 13:30 | USD | Philly Fed Prices Paid (Apr) | 59.30 |  | 44.70 |
-| 13:30 | CAD | New Motor Vehicle Sales (MoM) (Feb) |  |  | 114.4K |
-| 42 min | USD | Capacity Utilization Rate (Mar) |  | 76.3% | 76.3% |
-| 42 min | USD | Manufacturing Production (MoM) (Mar) |  | 0.1% | 0.2% |
+| 13:30 | CAD | New Motor Vehicle Sales (MoM) (Feb) | 124.0K |  | 114.4K |
+| 14:15 | USD | Capacity Utilization Rate (Mar) | 75.7% | 76.3% | 76.1% |
+| 14:15 | USD | Manufacturing Production (MoM) (Mar) | -0.1% | 0.1% | 0.4% |
 | 15:30 | USD | Natural Gas Storage |  | 55B | 50B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.560% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 3.575% |

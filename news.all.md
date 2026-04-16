@@ -69,14 +69,14 @@
 | 13:30 | USD | Moderate | Philly Fed Employment (Apr) | -5.1 |  | 0.8 |
 | 13:30 | USD | Low | Philly Fed New Orders (Apr) | 33.0 |  | 8.6 |
 | 13:30 | USD | Low | Philly Fed Prices Paid (Apr) | 59.30 |  | 44.70 |
-| 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Feb) |  |  | 114.4K |
-| 2 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 27 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 42 min | USD | Low | Capacity Utilization Rate (Mar) |  | 76.3% | 76.3% |
-| 42 min | USD | Moderate | Industrial Production (MoM) (Mar) |  | 0.1% | 0.2% |
-| 42 min | USD | Moderate | Industrial Production (YoY) (Mar) |  |  | 1.44% |
-| 42 min | USD | Low | Manufacturing Production (MoM) (Mar) |  | 0.1% | 0.2% |
-| 57 min | GBP | Moderate | NIESR Monthly GDP Tracker (Mar) |  |  | 0.3% |
+| 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Feb) | 124.0K |  | 114.4K |
+| 13:35 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 14:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 14:15 | USD | Low | Capacity Utilization Rate (Mar) | 75.7% | 76.3% | 76.1% |
+| 14:15 | USD | Moderate | Industrial Production (MoM) (Mar) | -0.5% | 0.1% | 0.7% |
+| 14:15 | USD | Moderate | Industrial Production (YoY) (Mar) | 0.74% |  | 1.23% |
+| 14:15 | USD | Low | Manufacturing Production (MoM) (Mar) | -0.1% | 0.1% | 0.4% |
+| 15:30 | GBP | Moderate | NIESR Monthly GDP Tracker (Mar) |  |  | 0.3% |
 | 15:30 | USD | Low | Natural Gas Storage |  | 55B | 50B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.560% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.575% |

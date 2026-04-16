@@ -28,11 +28,11 @@
 | 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims | 1,818K | 1,810K | 1,787K |
 | 13:30 | USD | Philly Fed Employment (Apr) | -5.1 |  | 0.8 |
-| 2 min | USD | FOMC Member Williams Speaks |  |  |  |
-| 27 min | EUR | ECB's Schnabel Speaks |  |  |  |
-| 42 min | USD | Industrial Production (MoM) (Mar) |  | 0.1% | 0.2% |
-| 42 min | USD | Industrial Production (YoY) (Mar) |  |  | 1.44% |
-| 57 min | GBP | NIESR Monthly GDP Tracker (Mar) |  |  | 0.3% |
+| 13:35 | USD | FOMC Member Williams Speaks |  |  |  |
+| 14:00 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 14:15 | USD | Industrial Production (MoM) (Mar) | -0.5% | 0.1% | 0.7% |
+| 14:15 | USD | Industrial Production (YoY) (Mar) | 0.74% |  | 1.23% |
+| 15:30 | GBP | NIESR Monthly GDP Tracker (Mar) |  |  | 0.3% |
 | 16:40 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
 | 17:45 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 19:30 | EUR | ECB's Lane Speaks |  |  |  |
