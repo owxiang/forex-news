@@ -24,15 +24,15 @@
 | 10:00 | EUR | Core CPI (YoY) (Mar) | 2.3% | 2.3% | 2.4% |
 | 10:00 | EUR | CPI (MoM) (Mar) | 1.3% | 1.2% | 0.6% |
 | 10:15 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 11:45 | EUR | German Buba Mauderer Speaks |  |  |  |
-| 12:00 | GBP | NIESR Monthly GDP Tracker (Mar) |  |  | 0.3% |
-| 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 10 min | EUR | German Buba Mauderer Speaks |  |  |  |
+| 25 min | GBP | NIESR Monthly GDP Tracker (Mar) |  |  | 0.3% |
+| 55 min | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,810K | 1,794K |
 | 13:30 | USD | Philly Fed Employment (Apr) |  |  | 0.8 |
 | 13:35 | USD | FOMC Member Williams Speaks |  |  |  |
 | 14:00 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 14:15 | USD | Industrial Production (YoY) (Mar) |  |  | 1.44% |
 | 14:15 | USD | Industrial Production (MoM) (Mar) |  | 0.1% | 0.2% |
+| 14:15 | USD | Industrial Production (YoY) (Mar) |  |  | 1.44% |
 | 16:40 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
 | 17:45 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 19:30 | EUR | ECB's Lane Speaks |  |  |  |

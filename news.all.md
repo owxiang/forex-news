@@ -57,10 +57,9 @@
 | 10:15 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 11:00 | CNY | Low | FDI (Mar) |  |  | -5.70% |
-| 11:45 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 12:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Mar) |  |  | 0.3% |
-| 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 10 min | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 25 min | GBP | Moderate | NIESR Monthly GDP Tracker (Mar) |  |  | 0.3% |
+| 55 min | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:00 | BRL | Low | IBC-Br Economic Activity (Feb) |  | 0.50% | 0.80% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,810K | 1,794K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 213K | 219K |
@@ -75,8 +74,8 @@
 | 13:35 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 14:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 14:15 | USD | Low | Capacity Utilization Rate (Mar) |  | 76.3% | 76.3% |
-| 14:15 | USD | Moderate | Industrial Production (YoY) (Mar) |  |  | 1.44% |
 | 14:15 | USD | Moderate | Industrial Production (MoM) (Mar) |  | 0.1% | 0.2% |
+| 14:15 | USD | Moderate | Industrial Production (YoY) (Mar) |  |  | 1.44% |
 | 14:15 | USD | Low | Manufacturing Production (MoM) (Mar) |  | 0.1% | 0.2% |
 | 15:30 | USD | Low | Natural Gas Storage |  | 55B | 50B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.560% |
