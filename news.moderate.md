@@ -2,16 +2,16 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Employment Change (Mar) |  | 19.1K | 48.9K |
-| 02:30 | AUD | Full Employment Change (Mar) |  |  | -30.5K |
-| 02:30 | AUD | Unemployment Rate (Mar) |  | 4.3% | 4.3% |
-| 03:00 | CNY | Fixed Asset Investment (YoY) (Mar) |  | 1.9% | 1.8% |
-| 03:00 | CNY | GDP (QoQ) (Q1) |  | 1.4% | 1.2% |
-| 03:00 | CNY | Chinese GDP YTD (YoY) (Q1) |  |  | 5.0% |
-| 03:00 | CNY | Industrial Production (YoY) (Mar) |  | 5.4% | 6.3% |
-| 03:00 | CNY | Chinese Industrial Production YTD (YoY) (Mar) |  |  | 6.3% |
-| 03:00 | CNY | Chinese Unemployment Rate (Mar) |  | 5.2% | 5.3% |
-| 03:00 | CNY | NBS Press Conference |  |  |  |
+| 02:30 | AUD | Employment Change (Mar) | 17.9K | 19.1K | 48.9K |
+| 02:30 | AUD | Full Employment Change (Mar) | 52.5K |  | -30.5K |
+| 02:30 | AUD | Unemployment Rate (Mar) | 4.3% | 4.3% | 4.3% |
+| 20 min | CNY | Fixed Asset Investment (YoY) (Mar) |  | 1.9% | 1.8% |
+| 20 min | CNY | GDP (QoQ) (Q1) |  | 1.4% | 1.2% |
+| 20 min | CNY | Chinese GDP YTD (YoY) (Q1) |  |  | 5.0% |
+| 20 min | CNY | Industrial Production (YoY) (Mar) |  | 5.4% | 6.3% |
+| 20 min | CNY | Chinese Industrial Production YTD (YoY) (Mar) |  |  | 6.3% |
+| 20 min | CNY | Chinese Unemployment Rate (Mar) |  | 5.2% | 5.3% |
+| 20 min | CNY | NBS Press Conference |  |  |  |
 | 04:40 | EUR | ECB's Lane Speaks |  |  |  |
 | 07:00 | GBP | Industrial Production (MoM) (Feb) |  | 0.3% | -0.1% |
 | 07:00 | GBP | Manufacturing Production (MoM) (Feb) |  | 0.3% | 0.1% |

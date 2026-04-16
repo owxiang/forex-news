@@ -4,12 +4,12 @@
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Foreign Bonds Buying | 696.2B |  | -2,480.9B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 3,943.3B |  | 2,951.8B |
-| 02:00 | AUD | MI Inflation Expectations (Apr) |  |  | 5.2% |
-| 02:30 | AUD | Participation Rate (Mar) |  |  | 66.9% |
-| 02:30 | AUD | Reserve Assets Total (Mar) |  |  | 111,675.0B |
-| 02:30 | CNY | House Prices (YoY) (Mar) |  |  | -3.2% |
-| 03:00 | CNY | Retail Sales (YoY) (Mar) |  | 2.4% | 2.8% |
-| 03:00 | CNY | Chinese Retail Sales YTD (YoY) (Mar) |  |  | 2.80% |
+| 02:00 | AUD | MI Inflation Expectations (Apr) | 5.9% |  | 5.2% |
+| 02:30 | AUD | Participation Rate (Mar) | 66.8% |  | 66.9% |
+| 02:30 | AUD | Reserve Assets Total (Mar) | 116.0B |  | 111.7B |
+| 02:30 | CNY | House Prices (YoY) (Mar) | -3.4% |  | -3.2% |
+| 20 min | CNY | Retail Sales (YoY) (Mar) |  | 2.4% | 2.8% |
+| 20 min | CNY | Chinese Retail Sales YTD (YoY) (Mar) |  |  | 2.80% |
 | 07:00 | GBP | U.K. Construction Output (YoY) (Feb) |  | -0.4% | -0.2% |
 | 07:00 | GBP | Construction Output (MoM) (Feb) |  | -0.4% | 0.2% |
 | 07:00 | GBP | GDP (YoY) (Feb) |  |  | 0.8% |
