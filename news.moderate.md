@@ -37,4 +37,4 @@
 | 17:45 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 19:30 | EUR | ECB's Lane Speaks |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet | 6,706B |  | 6,694B |
-| 23:45 | NZD | Electronic Card Retail Sales (MoM) (Mar) |  |  | 1.4% |
+| 26 min | NZD | Electronic Card Retail Sales (MoM) (Mar) |  |  | 1.4% |

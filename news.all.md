@@ -85,6 +85,6 @@
 | 19:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet | 6,706B |  | 6,694B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 2.980T |  | 3.184T |
-| 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Mar) |  |  | 1.4% |
-| 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Mar) |  |  | 1.5% |
-| 23:45 | NZD | Low | FPI (MoM) (Mar) |  |  | -0.1% |
+| 26 min | NZD | Moderate | Electronic Card Retail Sales (MoM) (Mar) |  |  | 1.4% |
+| 26 min | NZD | Low | Electronic Card Retail Sales (YoY) (Mar) |  |  | 1.5% |
+| 26 min | NZD | Low | FPI (MoM) (Mar) |  |  | -0.1% |
