@@ -22,20 +22,20 @@
 | 03:00 | CNY | Moderate | Chinese Unemployment Rate (Mar) | 5.4% | 5.2% | 5.3% |
 | 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
 | 04:40 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 07:00 | GBP | Low | Construction Output (MoM) (Feb) |  | -0.4% | 0.2% |
-| 07:00 | GBP | Low | U.K. Construction Output (YoY) (Feb) |  | -0.4% | -0.2% |
-| 07:00 | GBP | High | GDP (MoM) (Feb) |  | 0.1% | 0.0% |
-| 07:00 | GBP | Low | GDP (YoY) (Feb) |  | 0.6% | 0.8% |
-| 07:00 | GBP | Low | Index of Services |  | 0.3% | 0.2% |
-| 07:00 | GBP | Moderate | Industrial Production (MoM) (Feb) |  | 0.3% | -0.1% |
-| 07:00 | GBP | Low | Industrial Production (YoY) (Feb) |  | -0.9% | 0.4% |
-| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Feb) |  | 0.3% | 0.1% |
-| 07:00 | GBP | Low | Manufacturing Production (YoY) (Feb) |  | -0.3% | 1.3% |
-| 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Feb) |  | 0.2% | 0.2% |
-| 07:00 | GBP | Moderate | Trade Balance (Feb) |  | -19.40B | -14.45B |
-| 07:00 | GBP | Moderate | Trade Balance Non-EU (Feb) |  |  | -3.46B |
-| 07:30 | CHF | Moderate | PPI (MoM) (Mar) |  | 0.5% | -0.3% |
-| 07:30 | CHF | Low | PPI (YoY) (Mar) |  |  | -2.7% |
+| 07:00 | GBP | Low | Construction Output (MoM) (Feb) | 1.0% | -0.4% | 0.5% |
+| 07:00 | GBP | Low | U.K. Construction Output (YoY) (Feb) | -1.0% | -0.4% | -1.9% |
+| 07:00 | GBP | High | GDP (MoM) (Feb) | 0.5% | 0.1% | 0.1% |
+| 07:00 | GBP | Low | GDP (YoY) (Feb) | 1.0% | 0.6% | 0.7% |
+| 07:00 | GBP | Low | Index of Services | 0.5% | 0.3% | 0.2% |
+| 07:00 | GBP | Moderate | Industrial Production (MoM) (Feb) | 0.5% | 0.3% | -0.1% |
+| 07:00 | GBP | Low | Industrial Production (YoY) (Feb) | -0.4% | -0.9% | 0.5% |
+| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Feb) | -0.1% | 0.3% | 0.2% |
+| 07:00 | GBP | Low | Manufacturing Production (YoY) (Feb) | -0.5% | -0.3% | 1.3% |
+| 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Feb) | 0.5% | 0.2% | 0.3% |
+| 07:00 | GBP | Moderate | Trade Balance (Feb) | -18.79B | -19.40B | -15.08B |
+| 07:00 | GBP | Moderate | Trade Balance Non-EU (Feb) | -7.10B |  | -4.11B |
+| 07:30 | CHF | Moderate | PPI (MoM) (Mar) | 0.2% | 0.5% | -0.3% |
+| 07:30 | CHF | Low | PPI (YoY) (Mar) | -2.7% |  | -2.7% |
 | 08:30 | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
 | 09:00 | EUR | Low | Italian CPI (MoM) (Mar) |  | 0.5% | 0.7% |
 | 09:00 | EUR | Low | Italian CPI (YoY) (Mar) |  | 1.7% | 1.5% |

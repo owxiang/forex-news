@@ -10,13 +10,13 @@
 | 02:30 | CNY | House Prices (YoY) (Mar) | -3.4% |  | -3.2% |
 | 03:00 | CNY | Retail Sales (YoY) (Mar) | 1.7% | 2.4% | 2.8% |
 | 03:00 | CNY | Chinese Retail Sales YTD (YoY) (Mar) | 2.43% |  | 2.80% |
-| 07:00 | GBP | Construction Output (MoM) (Feb) |  | -0.4% | 0.2% |
-| 07:00 | GBP | U.K. Construction Output (YoY) (Feb) |  | -0.4% | -0.2% |
-| 07:00 | GBP | GDP (YoY) (Feb) |  | 0.6% | 0.8% |
-| 07:00 | GBP | Index of Services |  | 0.3% | 0.2% |
-| 07:00 | GBP | Industrial Production (YoY) (Feb) |  | -0.9% | 0.4% |
-| 07:00 | GBP | Manufacturing Production (YoY) (Feb) |  | -0.3% | 1.3% |
-| 07:30 | CHF | PPI (YoY) (Mar) |  |  | -2.7% |
+| 07:00 | GBP | Construction Output (MoM) (Feb) | 1.0% | -0.4% | 0.5% |
+| 07:00 | GBP | U.K. Construction Output (YoY) (Feb) | -1.0% | -0.4% | -1.9% |
+| 07:00 | GBP | GDP (YoY) (Feb) | 1.0% | 0.6% | 0.7% |
+| 07:00 | GBP | Index of Services | 0.5% | 0.3% | 0.2% |
+| 07:00 | GBP | Industrial Production (YoY) (Feb) | -0.4% | -0.9% | 0.5% |
+| 07:00 | GBP | Manufacturing Production (YoY) (Feb) | -0.5% | -0.3% | 1.3% |
+| 07:30 | CHF | PPI (YoY) (Mar) | -2.7% |  | -2.7% |
 | 09:00 | EUR | Italian CPI (MoM) (Mar) |  | 0.5% | 0.7% |
 | 09:00 | EUR | Italian CPI (YoY) (Mar) |  | 1.7% | 1.5% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Mar) |  |  | 1.1% |

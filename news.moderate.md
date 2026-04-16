@@ -13,12 +13,12 @@
 | 03:00 | CNY | Chinese Unemployment Rate (Mar) | 5.4% | 5.2% | 5.3% |
 | 03:00 | CNY | NBS Press Conference |  |  |  |
 | 04:40 | EUR | ECB's Lane Speaks |  |  |  |
-| 07:00 | GBP | Industrial Production (MoM) (Feb) |  | 0.3% | -0.1% |
-| 07:00 | GBP | Manufacturing Production (MoM) (Feb) |  | 0.3% | 0.1% |
-| 07:00 | GBP | Monthly GDP 3M/3M Change (Feb) |  | 0.2% | 0.2% |
-| 07:00 | GBP | Trade Balance (Feb) |  | -19.40B | -14.45B |
-| 07:00 | GBP | Trade Balance Non-EU (Feb) |  |  | -3.46B |
-| 07:30 | CHF | PPI (MoM) (Mar) |  | 0.5% | -0.3% |
+| 07:00 | GBP | Industrial Production (MoM) (Feb) | 0.5% | 0.3% | -0.1% |
+| 07:00 | GBP | Manufacturing Production (MoM) (Feb) | -0.1% | 0.3% | 0.2% |
+| 07:00 | GBP | Monthly GDP 3M/3M Change (Feb) | 0.5% | 0.2% | 0.3% |
+| 07:00 | GBP | Trade Balance (Feb) | -18.79B | -19.40B | -15.08B |
+| 07:00 | GBP | Trade Balance Non-EU (Feb) | -7.10B |  | -4.11B |
+| 07:30 | CHF | PPI (MoM) (Mar) | 0.2% | 0.5% | -0.3% |
 | 08:30 | CHF | SNB Monetary Policy Assessment |  |  |  |
 | 09:40 | EUR | Spanish 15-Year Obligacion Auction |  |  | 3.605% |
 | 10:00 | EUR | Core CPI (YoY) (Mar) |  | 2.3% | 2.4% |
