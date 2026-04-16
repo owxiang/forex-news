@@ -80,8 +80,8 @@
 | 15:30 | USD | Low | Natural Gas Storage | 59B | 55B | 50B |
 | 16:30 | USD | Low | 4-Week Bill Auction | 3.595% |  | 3.560% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 3.615% |  | 3.575% |
-| 2 min | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
-| 17:45 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 16:40 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
+| 6 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 19:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,694B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.184T |
