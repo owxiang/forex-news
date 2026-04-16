@@ -34,7 +34,7 @@
 | 14:15 | USD | Industrial Production (YoY) (Mar) | 0.74% |  | 1.23% |
 | 14:30 | GBP | NIESR Monthly GDP Tracker (Mar) | 0.6% |  | 0.5% |
 | 16:40 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
-| 6 min | EUR | German Buba President Nagel Speaks |  |  |  |
-| 19:30 | EUR | ECB's Lane Speaks |  |  |  |
+| 17:45 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 55 min | EUR | ECB's Lane Speaks |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,694B |
 | 23:45 | NZD | Electronic Card Retail Sales (MoM) (Mar) |  |  | 1.4% |
