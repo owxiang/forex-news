@@ -21,9 +21,9 @@
 | 07:30 | CHF | PPI (MoM) (Mar) | 0.2% | 0.5% | -0.3% |
 | 08:30 | CHF | SNB Monetary Policy Assessment |  |  |  |
 | 09:40 | EUR | Spanish 15-Year Obligacion Auction |  |  | 3.605% |
-| 10:00 | EUR | Core CPI (YoY) (Mar) |  | 2.3% | 2.4% |
-| 10:00 | EUR | CPI (MoM) (Mar) |  | 1.2% | 0.6% |
-| 10:15 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
+| 18 min | EUR | Core CPI (YoY) (Mar) |  | 2.3% | 2.4% |
+| 18 min | EUR | CPI (MoM) (Mar) |  | 1.2% | 0.6% |
+| 33 min | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 11:45 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 12:00 | GBP | NIESR Monthly GDP Tracker (Mar) |  |  | 0.3% |
 | 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |

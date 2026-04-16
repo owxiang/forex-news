@@ -17,24 +17,22 @@
 | 07:00 | GBP | Industrial Production (YoY) (Feb) | -0.4% | -0.9% | 0.5% |
 | 07:00 | GBP | Manufacturing Production (YoY) (Feb) | -0.5% | -0.3% | 1.3% |
 | 07:30 | CHF | PPI (YoY) (Mar) | -2.7% |  | -2.7% |
-| 09:00 | EUR | Italian CPI (MoM) (Mar) |  | 0.5% | 0.7% |
-| 09:00 | EUR | Italian CPI (YoY) (Mar) |  | 1.7% | 1.5% |
-| 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Mar) |  |  | 1.1% |
-| 09:00 | EUR | Italian HICP (MoM) (Mar) |  | 1.6% | 0.5% |
-| 09:00 | EUR | Italian HICP (YoY) (Mar) |  | 1.5% | 1.5% |
+| 09:00 | EUR | Italian CPI (MoM) (Mar) | 0.5% | 0.5% | 0.7% |
+| 09:00 | EUR | Italian CPI (YoY) (Mar) | 1.7% | 1.7% | 1.5% |
+| 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Mar) | 1.5% |  | 1.1% |
+| 09:00 | EUR | Italian HICP (MoM) (Mar) | 1.7% | 1.6% | 0.5% |
+| 09:00 | EUR | Italian HICP (YoY) (Mar) | 1.6% | 1.5% | 1.5% |
 | 09:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.915% |
 | 09:40 | EUR | Spanish 7-Year Obligacion Auction |  |  | 3.079% |
-| 10:00 | CNY | FDI (Mar) |  |  | -5.70% |
-| 10:00 | EUR | Core CPI (MoM) (Mar) |  | 0.8% | 0.8% |
-| 10:00 | EUR | CPI ex Tobacco (MoM) (Mar) |  |  | 0.6% |
-| 10:00 | EUR | CPI ex Tobacco (YoY) (Mar) |  |  | 1.8% |
-| 10:00 | EUR | CPI, n.s.a (Mar) |  | 101.96 | 100.71 |
-| 10:00 | EUR | HICP ex Energy & Food (YoY) (Mar) |  | 2.2% | 2.3% |
-| 10:00 | EUR | HICP ex Energy and Food (MoM) (Mar) |  | 0.7% | 0.6% |
+| 18 min | CNY | FDI (Mar) |  |  | -5.70% |
+| 18 min | EUR | Core CPI (MoM) (Mar) |  | 0.8% | 0.8% |
+| 18 min | EUR | CPI ex Tobacco (MoM) (Mar) |  |  | 0.6% |
+| 18 min | EUR | CPI ex Tobacco (YoY) (Mar) |  |  | 1.8% |
+| 18 min | EUR | CPI, n.s.a (Mar) |  | 101.96 | 100.71 |
+| 18 min | EUR | HICP ex Energy & Food (YoY) (Mar) |  | 2.2% | 2.3% |
+| 18 min | EUR | HICP ex Energy and Food (MoM) (Mar) |  | 0.7% | 0.6% |
 | 11:00 | USD | IMF Meetings |  |  |  |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 11:00 | ZAR | Business Confidence (Feb) |  |  | 131.4 |
-| 11:01 | ZAR | Business Confidence (Mar) |  |  |  |
 | 13:00 | BRL | IBC-Br Economic Activity (Feb) |  | 0.50% | 0.80% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 209.50K |
 | 13:30 | USD | Philly Fed Business Conditions (Apr) |  |  | 40.0 |
