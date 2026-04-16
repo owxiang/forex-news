@@ -5,23 +5,23 @@
 | 00:50 | JPY | Low | Foreign Bonds Buying | 696.2B |  | -2,480.9B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 3,943.3B |  | 2,951.8B |
 | 02:00 | AUD | Low | MI Inflation Expectations (Apr) | 5.9% |  | 5.2% |
-| 02:30 | AUD | Moderate | Employment Change (Mar) | 17.9K | 19.1K | 48.9K |
-| 02:30 | AUD | Moderate | Full Employment Change (Mar) | 52.5K |  | -30.5K |
-| 02:30 | AUD | Low | Participation Rate (Mar) | 66.8% |  | 66.9% |
+| 02:30 | AUD | Moderate | Employment Change (Mar) | 17.9K | 19.1K | 49.7K |
+| 02:30 | AUD | Moderate | Full Employment Change (Mar) | 52.5K |  | -27.7K |
+| 02:30 | AUD | Low | Participation Rate (Mar) | 66.8% | 66.9% | 66.9% |
 | 02:30 | AUD | Low | Reserve Assets Total (Mar) | 116.0B |  | 111.7B |
 | 02:30 | AUD | Moderate | Unemployment Rate (Mar) | 4.3% | 4.3% | 4.3% |
 | 02:30 | CNY | Low | House Prices (YoY) (Mar) | -3.4% |  | -3.2% |
-| 20 min | CNY | Moderate | Fixed Asset Investment (YoY) (Mar) |  | 1.9% | 1.8% |
-| 20 min | CNY | Moderate | GDP (QoQ) (Q1) |  | 1.4% | 1.2% |
-| 20 min | CNY | High | GDP (YoY) (Q1) |  | 4.8% | 4.5% |
-| 20 min | CNY | Moderate | Chinese GDP YTD (YoY) (Q1) |  |  | 5.0% |
-| 20 min | CNY | Moderate | Industrial Production (YoY) (Mar) |  | 5.4% | 6.3% |
-| 20 min | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Mar) |  |  | 6.3% |
-| 20 min | CNY | Low | Retail Sales (YoY) (Mar) |  | 2.4% | 2.8% |
-| 20 min | CNY | Low | Chinese Retail Sales YTD (YoY) (Mar) |  |  | 2.80% |
-| 20 min | CNY | Moderate | Chinese Unemployment Rate (Mar) |  | 5.2% | 5.3% |
-| 20 min | CNY | Moderate | NBS Press Conference |  |  |  |
-| 04:40 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 03:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Mar) | 1.7% | 1.9% | 1.8% |
+| 03:00 | CNY | Moderate | GDP (QoQ) (Q1) | 1.3% | 1.4% | 1.2% |
+| 03:00 | CNY | High | GDP (YoY) (Q1) | 5.0% | 4.8% | 4.5% |
+| 03:00 | CNY | Moderate | Chinese GDP YTD (YoY) (Q1) | 5.0% |  | 5.0% |
+| 03:00 | CNY | Moderate | Industrial Production (YoY) (Mar) | 5.7% | 5.4% | 6.3% |
+| 03:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Mar) | 6.1% |  | 6.3% |
+| 03:00 | CNY | Low | Retail Sales (YoY) (Mar) | 1.7% | 2.4% | 2.8% |
+| 03:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Mar) | 2.43% |  | 2.80% |
+| 03:00 | CNY | Moderate | Chinese Unemployment Rate (Mar) | 5.4% | 5.2% | 5.3% |
+| 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
+| 28 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (Feb) |  | -0.4% | -0.2% |
 | 07:00 | GBP | Low | Construction Output (MoM) (Feb) |  | -0.4% | 0.2% |
 | 07:00 | GBP | High | GDP (MoM) (Feb) |  | 0.1% | 0.0% |

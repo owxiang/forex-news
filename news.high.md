@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 20 min | CNY | GDP (YoY) (Q1) |  | 4.8% | 4.5% |
+| 03:00 | CNY | GDP (YoY) (Q1) | 5.0% | 4.8% | 4.5% |
 | 07:00 | GBP | GDP (MoM) (Feb) |  | 0.1% | 0.0% |
 | 10:00 | EUR | CPI (YoY) (Mar) |  | 2.5% | 1.9% |
 | 13:30 | USD | Initial Jobless Claims |  | 213K | 219K |
