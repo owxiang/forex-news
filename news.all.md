@@ -42,22 +42,22 @@
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Mar) | 1.5% |  | 1.1% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Mar) | 1.7% | 1.6% | 0.5% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (Mar) | 1.6% | 1.5% | 1.5% |
-| 09:40 | EUR | Moderate | Spanish 15-Year Obligacion Auction |  |  | 3.605% |
-| 09:40 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.915% |
-| 09:40 | EUR | Low | Spanish 7-Year Obligacion Auction |  |  | 3.079% |
-| 18 min | CNY | Low | FDI (Mar) |  |  | -5.70% |
-| 18 min | EUR | Moderate | Core CPI (YoY) (Mar) |  | 2.3% | 2.4% |
-| 18 min | EUR | Low | Core CPI (MoM) (Mar) |  | 0.8% | 0.8% |
-| 18 min | EUR | High | CPI (YoY) (Mar) |  | 2.5% | 1.9% |
-| 18 min | EUR | Moderate | CPI (MoM) (Mar) |  | 1.2% | 0.6% |
-| 18 min | EUR | Low | CPI ex Tobacco (MoM) (Mar) |  |  | 0.6% |
-| 18 min | EUR | Low | CPI ex Tobacco (YoY) (Mar) |  |  | 1.8% |
-| 18 min | EUR | Low | CPI, n.s.a (Mar) |  | 101.96 | 100.71 |
-| 18 min | EUR | Low | HICP ex Energy & Food (YoY) (Mar) |  | 2.2% | 2.3% |
-| 18 min | EUR | Low | HICP ex Energy and Food (MoM) (Mar) |  | 0.7% | 0.6% |
-| 33 min | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
+| 09:40 | EUR | Moderate | Spanish 15-Year Obligacion Auction | 3.845% |  | 3.605% |
+| 09:40 | EUR | Low | Spanish 5-Year Bonos Auction | 2.911% |  | 2.915% |
+| 09:40 | EUR | Low | Spanish 7-Year Obligacion Auction | 3.107% |  | 3.079% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Mar) | 2.3% | 2.3% | 2.4% |
+| 10:00 | EUR | Low | Core CPI (MoM) (Mar) | 0.8% | 0.8% | 0.8% |
+| 10:00 | EUR | High | CPI (YoY) (Mar) | 2.6% | 2.5% | 1.9% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Mar) | 1.3% | 1.2% | 0.6% |
+| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Mar) | 1.3% |  | 0.6% |
+| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Mar) | 2.5% |  | 1.8% |
+| 10:00 | EUR | Low | CPI, n.s.a (Mar) | 101.99 | 101.96 | 100.71 |
+| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Mar) | 2.2% | 2.2% | 2.3% |
+| 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Mar) | 0.7% | 0.7% | 0.6% |
+| 10:15 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 11:00 | CNY | Low | FDI (Mar) |  |  | -5.70% |
 | 11:45 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 12:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Mar) |  |  | 0.3% |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
@@ -75,8 +75,8 @@
 | 13:35 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 14:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 14:15 | USD | Low | Capacity Utilization Rate (Mar) |  | 76.3% | 76.3% |
-| 14:15 | USD | Moderate | Industrial Production (MoM) (Mar) |  | 0.1% | 0.2% |
 | 14:15 | USD | Moderate | Industrial Production (YoY) (Mar) |  |  | 1.44% |
+| 14:15 | USD | Moderate | Industrial Production (MoM) (Mar) |  | 0.1% | 0.2% |
 | 14:15 | USD | Low | Manufacturing Production (MoM) (Mar) |  | 0.1% | 0.2% |
 | 15:30 | USD | Low | Natural Gas Storage |  | 55B | 50B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.560% |
