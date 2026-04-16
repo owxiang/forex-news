@@ -2,10 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 29 min | JPY | Core Machinery Orders (MoM) (Feb) |  |  | -5.5% |
-| 29 min | JPY | Core Machinery Orders (YoY) (Feb) |  |  | 13.7% |
-| 29 min | JPY | Foreign Bonds Buying |  |  | -2,462.4B |
-| 29 min | JPY | Foreign Investments in Japanese Stocks |  |  | 2,959.6B |
+| 00:50 | JPY | Foreign Bonds Buying | 696.2B |  | -2,480.9B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks | 3,943.3B |  | 2,951.8B |
 | 02:00 | AUD | MI Inflation Expectations (Apr) |  |  | 5.2% |
 | 02:30 | AUD | Participation Rate (Mar) |  |  | 66.9% |
 | 02:30 | AUD | Reserve Assets Total (Mar) |  |  | 111,675.0B |

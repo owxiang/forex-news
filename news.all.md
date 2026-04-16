@@ -2,10 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 29 min | JPY | Low | Core Machinery Orders (MoM) (Feb) |  |  | -5.5% |
-| 29 min | JPY | Low | Core Machinery Orders (YoY) (Feb) |  |  | 13.7% |
-| 29 min | JPY | Low | Foreign Bonds Buying |  |  | -2,462.4B |
-| 29 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 2,959.6B |
+| 00:50 | JPY | Low | Foreign Bonds Buying | 696.2B |  | -2,480.9B |
+| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 3,943.3B |  | 2,951.8B |
 | 02:00 | AUD | Low | MI Inflation Expectations (Apr) |  |  | 5.2% |
 | 02:30 | AUD | Moderate | Employment Change (Mar) |  | 19.1K | 48.9K |
 | 02:30 | AUD | Moderate | Full Employment Change (Mar) |  |  | -30.5K |
@@ -45,8 +43,8 @@
 | 09:00 | EUR | Low | Italian HICP (MoM) (Mar) |  | 1.6% | 0.5% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (Mar) |  | 1.5% | 1.5% |
 | 10:00 | CNY | Low | FDI (Mar) |  |  | -5.70% |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Mar) |  | 2.3% | 2.4% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Mar) |  | 0.8% | 0.8% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Mar) |  | 2.3% | 2.4% |
 | 10:00 | EUR | High | CPI (YoY) (Mar) |  | 2.5% | 1.9% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Mar) |  | 1.2% | 0.6% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Mar) |  |  | 0.6% |
