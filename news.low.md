@@ -41,7 +41,7 @@
 | 13:30 | CAD | New Motor Vehicle Sales (MoM) (Feb) | 124.0K |  | 114.4K |
 | 14:15 | USD | Capacity Utilization Rate (Mar) | 75.7% | 76.3% | 76.1% |
 | 14:15 | USD | Manufacturing Production (MoM) (Mar) | -0.1% | 0.1% | 0.4% |
-| 15:30 | USD | Natural Gas Storage |  | 55B | 50B |
+| 15:30 | USD | Natural Gas Storage | 59B | 55B | 50B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.560% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 3.575% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.184T |

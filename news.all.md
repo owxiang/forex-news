@@ -76,8 +76,8 @@
 | 14:15 | USD | Moderate | Industrial Production (MoM) (Mar) | -0.5% | 0.1% | 0.7% |
 | 14:15 | USD | Moderate | Industrial Production (YoY) (Mar) | 0.74% |  | 1.23% |
 | 14:15 | USD | Low | Manufacturing Production (MoM) (Mar) | -0.1% | 0.1% | 0.4% |
-| 15:30 | GBP | Moderate | NIESR Monthly GDP Tracker (Mar) |  |  | 0.3% |
-| 15:30 | USD | Low | Natural Gas Storage |  | 55B | 50B |
+| 14:30 | GBP | Moderate | NIESR Monthly GDP Tracker (Mar) | 0.6% |  | 0.5% |
+| 15:30 | USD | Low | Natural Gas Storage | 59B | 55B | 50B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.560% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.575% |
 | 16:40 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
