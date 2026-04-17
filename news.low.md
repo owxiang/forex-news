@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | SGD | Non-Oil Exports (MoM) (Mar) |  |  | 3.90% |
-| 01:30 | SGD | Non-Oil Exports (YoY) (Mar) |  |  | 4.00% |
-| 01:30 | SGD | Trade Balance (Mar) |  |  | 4.548B |
+| 01:30 | SGD | Non-Oil Exports (MoM) (Mar) | 3.00% |  | 3.90% |
+| 01:30 | SGD | Non-Oil Exports (YoY) (Mar) | 15.30% |  | 4.00% |
+| 01:30 | SGD | Trade Balance (Mar) | 11.218B |  | 4.573B |
 | 09:00 | EUR | Italian Trade Balance (Feb) |  | 3.830B | 1.089B |
 | 09:00 | EUR | Italian Trade Balance EU (Feb) |  |  | -1.14B |
 | 09:00 | EUR | Current Account (Feb) |  | 29.8B | 37.9B |
