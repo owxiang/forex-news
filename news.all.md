@@ -6,15 +6,14 @@
 | 01:30 | SGD | Low | Non-Oil Exports (MoM) (Mar) | 3.00% |  | 3.90% |
 | 01:30 | SGD | Low | Non-Oil Exports (YoY) (Mar) | 15.30% |  | 4.00% |
 | 01:30 | SGD | Low | Trade Balance (Mar) | 11.218B |  | 4.573B |
-| 09:00 | EUR | Low | Italian Trade Balance (Feb) |  | 3.830B | 1.089B |
-| 09:00 | EUR | Low | Italian Trade Balance EU (Feb) |  |  | -1.14B |
-| 09:00 | EUR | Low | Current Account (Feb) |  | 29.8B | 37.9B |
-| 09:00 | EUR | Low | Current Account n.s.a. (Feb) |  |  | 13.0B |
+| 09:00 | EUR | Low | Italian Trade Balance (Feb) | 4.944B | 3.830B | 1.129B |
+| 09:00 | EUR | Low | Italian Trade Balance EU (Feb) | -0.65B |  | -1.10B |
+| 09:00 | EUR | Low | Current Account (Feb) | 24.9B | 29.8B | 40.4B |
+| 09:00 | EUR | Low | Current Account n.s.a. (Feb) | 21.1B |  | 15.4B |
 | 10:00 | EUR | Moderate | Trade Balance (Feb) |  | 11.7B | -1.9B |
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
 | 11:00 | CNY | Low | FDI (Mar) |  |  | -5.70% |
 | 11:00 | ZAR | Low | Business Confidence (Feb) |  |  | 131.4 |
-| 11:01 | ZAR | Low | Business Confidence (Mar) |  |  |  |
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 13.8% |
 | 12:30 | INR | Low | Deposit Growth |  |  | 10.8% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 697.12B |

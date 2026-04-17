@@ -5,14 +5,13 @@
 | 01:30 | SGD | Non-Oil Exports (MoM) (Mar) | 3.00% |  | 3.90% |
 | 01:30 | SGD | Non-Oil Exports (YoY) (Mar) | 15.30% |  | 4.00% |
 | 01:30 | SGD | Trade Balance (Mar) | 11.218B |  | 4.573B |
-| 09:00 | EUR | Italian Trade Balance (Feb) |  | 3.830B | 1.089B |
-| 09:00 | EUR | Italian Trade Balance EU (Feb) |  |  | -1.14B |
-| 09:00 | EUR | Current Account (Feb) |  | 29.8B | 37.9B |
-| 09:00 | EUR | Current Account n.s.a. (Feb) |  |  | 13.0B |
+| 09:00 | EUR | Italian Trade Balance (Feb) | 4.944B | 3.830B | 1.129B |
+| 09:00 | EUR | Italian Trade Balance EU (Feb) | -0.65B |  | -1.10B |
+| 09:00 | EUR | Current Account (Feb) | 24.9B | 29.8B | 40.4B |
+| 09:00 | EUR | Current Account n.s.a. (Feb) | 21.1B |  | 15.4B |
 | 11:00 | USD | IMF Meetings |  |  |  |
 | 11:00 | CNY | FDI (Mar) |  |  | -5.70% |
 | 11:00 | ZAR | Business Confidence (Feb) |  |  | 131.4 |
-| 11:01 | ZAR | Business Confidence (Mar) |  |  |  |
 | 12:30 | INR | Bank Loan Growth |  |  | 13.8% |
 | 12:30 | INR | Deposit Growth |  |  | 10.8% |
 | 12:30 | INR | FX Reserves, USD |  |  | 697.12B |
