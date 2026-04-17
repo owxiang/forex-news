@@ -3,3 +3,4 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | USD | U.S. President Trump Speaks |  |  |  |
+| 19:00 | USD | U.S. President Trump Speaks |  |  |  |
