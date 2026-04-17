@@ -19,7 +19,6 @@
 | 13:15 | CAD | Moderate | Housing Starts (Mar) | 235.9K | 258.0K | 251.0K |
 | 13:30 | CAD | Moderate | Foreign Securities Purchases (Feb) | 6.17B | 23.81B | 46.79B |
 | 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Feb) | 25.360B |  | 11.420B |
-| 15:00 | CNY | Low | FDI (Mar) |  |  | -5.70% |
 | 15:30 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 16:30 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 17:15 | USD | Low | FOMC Member Barkin Speaks |  |  |  |

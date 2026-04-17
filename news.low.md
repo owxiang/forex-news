@@ -14,7 +14,6 @@
 | 12:30 | INR | Deposit Growth | 13.5% |  | 10.8% |
 | 12:30 | INR | FX Reserves, USD | 700.95B |  | 697.12B |
 | 13:30 | CAD | Foreign Securities Purchases by Canadians (Feb) | 25.360B |  | 11.420B |
-| 15:00 | CNY | FDI (Mar) |  |  | -5.70% |
 | 17:15 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.3K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 40.2K |
