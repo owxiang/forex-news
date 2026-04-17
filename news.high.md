@@ -1,6 +1,3 @@
-## 17 April 2026 - High Impact Forex News
+## 18 April 2026 - High Impact Forex News
 
-| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
-|------|----------|-------|--------|----------|----------|
-| 00:00 | USD | U.S. President Trump Speaks |  |  |  |
-| 19:00 | USD | U.S. President Trump Speaks |  |  |  |
+There is no high impact news today.
