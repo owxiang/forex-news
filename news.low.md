@@ -15,14 +15,14 @@
 | 12:30 | INR | FX Reserves, USD | 700.95B |  | 697.12B |
 | 13:30 | CAD | Foreign Securities Purchases by Canadians (Feb) | 25.360B |  | 11.420B |
 | 17:15 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.3K |
-| 20:30 | USD | CFTC Copper speculative net positions |  |  | 40.2K |
-| 20:30 | USD | CFTC Corn speculative net positions |  |  | 290.8K |
-| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -184.0K |
-| 20:30 | USD | CFTC Silver speculative net positions |  |  | 23.4K |
-| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 208.5K |
-| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -18.7K |
-| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -55.6K |
-| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 57.5K |
-| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -30.7K |
-| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -36.1K |
+| 20:30 | USD | CFTC Aluminium speculative net positions | 0.5K |  | 0.3K |
+| 20:30 | USD | CFTC Copper speculative net positions | 55.1K |  | 40.2K |
+| 20:30 | USD | CFTC Corn speculative net positions | 248.9K |  | 290.8K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions | -186.9K |  | -184.0K |
+| 20:30 | USD | CFTC Silver speculative net positions | 23.6K |  | 23.4K |
+| 20:30 | USD | CFTC Soybeans speculative net positions | 201.7K |  | 208.5K |
+| 20:30 | USD | CFTC Wheat speculative net positions | -18.4K |  | -18.7K |
+| 20:30 | CAD | CFTC CAD speculative net positions | -78.3K |  | -55.6K |
+| 20:30 | MXN | CFTC MXN speculative net positions | 59.0K |  | 57.5K |
+| 20:30 | CHF | CFTC CHF speculative net positions | -34.1K |  | -30.7K |
+| 20:30 | NZD | CFTC NZD speculative net positions | -42.3K |  | -36.1K |
