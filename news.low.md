@@ -10,12 +10,10 @@
 | 09:00 | EUR | Current Account (Feb) | 24.9B | 29.8B | 40.4B |
 | 09:00 | EUR | Current Account n.s.a. (Feb) | 21.1B |  | 15.4B |
 | 11:00 | USD | IMF Meetings |  |  |  |
-| 11:00 | CNY | FDI (Mar) |  |  | -5.70% |
-| 11:00 | ZAR | Business Confidence (Feb) |  |  | 131.4 |
 | 12:30 | INR | Bank Loan Growth |  |  | 13.8% |
 | 12:30 | INR | Deposit Growth |  |  | 10.8% |
-| 12:30 | INR | FX Reserves, USD |  |  | 697.12B |
 | 13:30 | CAD | Foreign Securities Purchases by Canadians (Feb) |  |  | 11.390B |
+| 15:00 | CNY | FDI (Mar) |  |  | -5.70% |
 | 17:15 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.3K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 40.2K |

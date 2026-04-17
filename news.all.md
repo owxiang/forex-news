@@ -12,15 +12,13 @@
 | 09:00 | EUR | Low | Current Account n.s.a. (Feb) | 21.1B |  | 15.4B |
 | 10:00 | EUR | Moderate | Trade Balance (Feb) | 11.5B | 11.7B | -1.0B |
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
-| 11:00 | CNY | Low | FDI (Mar) |  |  | -5.70% |
-| 11:00 | ZAR | Low | Business Confidence (Feb) |  |  | 131.4 |
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 13.8% |
 | 12:30 | INR | Low | Deposit Growth |  |  | 10.8% |
-| 12:30 | INR | Low | FX Reserves, USD |  |  | 697.12B |
 | 13:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 13:15 | CAD | Moderate | Housing Starts (Mar) |  | 258.0K | 250.9K |
 | 13:30 | CAD | Moderate | Foreign Securities Purchases (Feb) |  | 23.81B | 46.73B |
 | 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Feb) |  |  | 11.390B |
+| 15:00 | CNY | Low | FDI (Mar) |  |  | -5.70% |
 | 15:30 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 16:30 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 17:15 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
