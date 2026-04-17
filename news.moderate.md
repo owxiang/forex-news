@@ -8,9 +8,9 @@
 | 13:30 | CAD | Foreign Securities Purchases (Feb) | 6.17B | 23.81B | 46.79B |
 | 15:30 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 16:30 | USD | FOMC Member Daly Speaks |  |  |  |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 411 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 545 |
-| 19:00 | USD | Fed Waller Speaks |  |  |  |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 410 |  | 411 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count | 543 |  | 545 |
+| 38 min | USD | Fed Waller Speaks |  |  |  |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -56.4K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 202.2K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 156.3K |

@@ -22,10 +22,10 @@
 | 15:30 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 16:30 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 17:15 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 411 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 545 |
-| 19:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 19:00 | USD | High | U.S. President Trump Speaks |  |  |  |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 410 |  | 411 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 543 |  | 545 |
+| 38 min | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 38 min | USD | High | U.S. President Trump Speaks |  |  |  |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -56.4K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 0.3K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 40.2K |
