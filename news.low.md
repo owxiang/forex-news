@@ -10,8 +10,9 @@
 | 09:00 | EUR | Current Account (Feb) | 24.9B | 29.8B | 40.4B |
 | 09:00 | EUR | Current Account n.s.a. (Feb) | 21.1B |  | 15.4B |
 | 11:00 | USD | IMF Meetings |  |  |  |
-| 12:30 | INR | Bank Loan Growth |  |  | 13.8% |
-| 12:30 | INR | Deposit Growth |  |  | 10.8% |
+| 12:30 | INR | Bank Loan Growth | 16.1% |  | 13.8% |
+| 12:30 | INR | Deposit Growth | 13.5% |  | 10.8% |
+| 12:30 | INR | FX Reserves, USD | 700.95B |  | 697.12B |
 | 13:30 | CAD | Foreign Securities Purchases by Canadians (Feb) |  |  | 11.390B |
 | 15:00 | CNY | FDI (Mar) |  |  | -5.70% |
 | 17:15 | USD | FOMC Member Barkin Speaks |  |  |  |
