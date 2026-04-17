@@ -10,7 +10,7 @@
 | 09:00 | EUR | Low | Italian Trade Balance EU (Feb) | -0.65B |  | -1.10B |
 | 09:00 | EUR | Low | Current Account (Feb) | 24.9B | 29.8B | 40.4B |
 | 09:00 | EUR | Low | Current Account n.s.a. (Feb) | 21.1B |  | 15.4B |
-| 10:00 | EUR | Moderate | Trade Balance (Feb) |  | 11.7B | -1.9B |
+| 10:00 | EUR | Moderate | Trade Balance (Feb) | 11.5B | 11.7B | -1.0B |
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
 | 11:00 | CNY | Low | FDI (Mar) |  |  | -5.70% |
 | 11:00 | ZAR | Low | Business Confidence (Feb) |  |  | 131.4 |

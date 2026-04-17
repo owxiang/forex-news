@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 10:00 | EUR | Trade Balance (Feb) |  | 11.7B | -1.9B |
+| 10:00 | EUR | Trade Balance (Feb) | 11.5B | 11.7B | -1.0B |
 | 13:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 13:15 | CAD | Housing Starts (Mar) |  | 258.0K | 250.9K |
 | 13:30 | CAD | Foreign Securities Purchases (Feb) |  | 23.81B | 46.73B |
