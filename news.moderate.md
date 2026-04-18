@@ -1,3 +1,3 @@
-## 18 April 2026 - Moderate Impact Forex News
+## 19 April 2026 - Moderate Impact Forex News
 
 There is no moderate impact news today.
