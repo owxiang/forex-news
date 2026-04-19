@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 23:45 | NZD | Exports (Mar) |  |  | 6.63B |
-| 23:45 | NZD | Imports (Mar) |  |  | 6.89B |
-| 23:45 | NZD | Trade Balance (MoM) (Mar) |  | 175M | -257M |
-| 23:45 | NZD | Trade Balance (YoY) (Mar) |  |  | -3,000M |
+| 32 min | NZD | Exports (Mar) |  |  | 6.63B |
+| 32 min | NZD | Imports (Mar) |  |  | 6.89B |
+| 32 min | NZD | Trade Balance (MoM) (Mar) |  | 175M | -257M |
+| 32 min | NZD | Trade Balance (YoY) (Mar) |  |  | -3,000M |
