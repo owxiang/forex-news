@@ -1,23 +1,21 @@
-## 20 April 2026 - Low Impact Forex News
+## 21 April 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | Rightmove House Price Index (MoM) (Apr) | 0.8% |  | 0.8% |
-| 00:01 | GBP | Rightmove House Price Index (YoY) (Apr) | -0.9% |  | -0.2% |
-| 04:00 | NZD | RBNZ Offshore Holdings (Mar) | 56.70% |  | 57.20% |
-| 05:30 | JPY | Tertiary Industry Activity Index (Feb) | -0.70 |  | -8.70 |
-| 07:00 | EUR | German PPI (YoY) (Mar) | -0.2% |  | -3.3% |
-| 10:00 | EUR | Construction Output (MoM) (Feb) | -1.90% |  | -1.33% |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 12:00 | INR | Infrastructure Output (YoY) (Mar) | -0.4% |  | 2.3% |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:30 | CAD | Common CPI (YoY) (Mar) | 2.6% | 2.6% | 2.4% |
-| 13:30 | CAD | CPI (YoY) (Mar) | 2.4% | 2.5% | 1.8% |
-| 13:30 | CAD | Median CPI (YoY) (Mar) | 2.3% | 2.4% | 2.3% |
-| 13:30 | CAD | Trimmed CPI (YoY) (Mar) | 2.2% | 2.3% | 2.3% |
-| 14:00 | EUR | French 12-Month BTF Auction | 2.476% |  | 2.634% |
-| 14:00 | EUR | French 3-Month BTF Auction | 2.159% |  | 2.248% |
-| 14:00 | EUR | French 6-Month BTF Auction | 2.319% |  | 2.448% |
-| 16:30 | USD | 3-Month Bill Auction | 3.610% |  | 3.620% |
-| 16:30 | USD | 6-Month Bill Auction | 3.590% |  | 3.610% |
-| 23:00 | NZD | NZIER QSBO Capacity Utilization (Q1) | 91.2% |  | 89.8% |
+| 07:00 | GBP | Average Earnings ex Bonus (Feb) |  | 3.5% | 3.8% |
+| 07:00 | CHF | Trade Balance (Mar) |  |  | 4.204B |
+| 08:00 | CHF | M3 Money Supply (Mar) |  |  | 1,216,014.0B |
+| 09:00 | EUR | Spanish Trade Balance (Feb) |  |  | -4.00B |
+| 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.620% |
+| 10:30 | ZAR | Business Confidence (Mar) |  |  | 131.4 |
+| 11:00 | ZAR | Business Confidence (Feb) |  |  | 131.4 |
+| 13:00 | NZD | GlobalDairyTrade Price Index |  |  | -3.4% |
+| 13:00 | USD | Milk Auctions |  |  | 4,228.0 |
+| 13:30 | USD | Retail Sales (YoY) (Mar) |  |  | 3.71% |
+| 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Mar) |  |  | 0.4% |
+| 13:55 | USD | Redbook (YoY) |  |  | 7.0% |
+| 15:00 | USD | Pending Home Sales Index (Mar) |  |  | 72.1 |
+| 15:00 | CNY | FDI (Mar) |  |  | -5.70% |
+| 17:00 | ZAR | SARB Monetary Policy Review |  |  |  |
+| 22:00 | KRW | PPI (MoM) (Mar) |  |  | 0.6% |
+| 22:00 | KRW | PPI (YoY) (Mar) |  |  | 2.4% |
