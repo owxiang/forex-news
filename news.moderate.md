@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 02:00 | CNY | China Loan Prime Rate 5Y (Apr) | 3.50% | 3.50% | 3.50% |
 | 02:00 | CNY | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
-| 51 min | EUR | German PPI (MoM) (Mar) |  | 1.4% | -0.5% |
+| 07:00 | EUR | German PPI (MoM) (Mar) | 2.5% | 1.4% | -0.5% |
 | 13:30 | CAD | Core CPI (YoY) (Mar) |  |  | 2.3% |
 | 13:30 | CAD | Core CPI (MoM) (Mar) |  |  | 0.4% |
 | 13:30 | CAD | CPI (MoM) (Mar) |  | 1.1% | 0.5% |

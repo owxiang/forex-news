@@ -6,7 +6,7 @@
 | 00:01 | GBP | Rightmove House Price Index (YoY) (Apr) | -0.9% |  | -0.2% |
 | 04:00 | NZD | RBNZ Offshore Holdings (Mar) | 56.70% |  | 57.20% |
 | 05:30 | JPY | Tertiary Industry Activity Index (Feb) | -0.70 |  | -8.70 |
-| 51 min | EUR | German PPI (YoY) (Mar) |  |  | -3.3% |
+| 07:00 | EUR | German PPI (YoY) (Mar) | -0.2% |  | -3.3% |
 | 10:00 | EUR | Construction Output (MoM) (Feb) |  |  | -0.09% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 11:00 | ZAR | Business Confidence (Feb) |  |  | 131.4 |

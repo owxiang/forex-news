@@ -8,8 +8,8 @@
 | 02:00 | CNY | Moderate | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
 | 04:00 | NZD | Low | RBNZ Offshore Holdings (Mar) | 56.70% |  | 57.20% |
 | 05:30 | JPY | Low | Tertiary Industry Activity Index (Feb) | -0.70 |  | -8.70 |
-| 51 min | EUR | Moderate | German PPI (MoM) (Mar) |  | 1.4% | -0.5% |
-| 51 min | EUR | Low | German PPI (YoY) (Mar) |  |  | -3.3% |
+| 07:00 | EUR | Moderate | German PPI (MoM) (Mar) | 2.5% | 1.4% | -0.5% |
+| 07:00 | EUR | Low | German PPI (YoY) (Mar) | -0.2% |  | -3.3% |
 | 10:00 | EUR | Low | Construction Output (MoM) (Feb) |  |  | -0.09% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | ZAR | Low | Business Confidence (Feb) |  |  | 131.4 |
