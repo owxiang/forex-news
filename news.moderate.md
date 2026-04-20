@@ -8,7 +8,7 @@
 | 13:30 | CAD | Core CPI (YoY) (Mar) | 2.5% |  | 2.3% |
 | 13:30 | CAD | Core CPI (MoM) (Mar) | 0.2% |  | 0.4% |
 | 13:30 | CAD | CPI (MoM) (Mar) | 0.9% | 1.1% | 0.5% |
-| 15:30 | CAD | BoC Business Outlook Survey |  |  |  |
+| 51 min | CAD | BoC Business Outlook Survey |  |  |  |
 | 16:30 | CAD | BoC Business Outlook Survey |  |  |  |
 | 17:40 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 23:00 | NZD | NZIER Business Confidence (Q1) |  |  | 48% |

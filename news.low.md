@@ -15,10 +15,10 @@
 | 13:30 | CAD | CPI (YoY) (Mar) | 2.4% | 2.5% | 1.8% |
 | 13:30 | CAD | Median CPI (YoY) (Mar) | 2.3% | 2.4% | 2.3% |
 | 13:30 | CAD | Trimmed CPI (YoY) (Mar) | 2.2% | 2.3% | 2.3% |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.634% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.248% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.448% |
-| 15:00 | CNY | FDI (Mar) |  |  | -5.70% |
+| 14:00 | EUR | French 12-Month BTF Auction | 2.476% |  | 2.634% |
+| 14:00 | EUR | French 3-Month BTF Auction | 2.159% |  | 2.248% |
+| 14:00 | EUR | French 6-Month BTF Auction | 2.319% |  | 2.448% |
+| 21 min | CNY | FDI (Mar) |  |  | -5.70% |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 3.620% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 3.610% |
 | 23:00 | NZD | NZIER QSBO Capacity Utilization (Q1) |  |  | 89.8% |

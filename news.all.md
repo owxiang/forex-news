@@ -21,11 +21,11 @@
 | 13:30 | CAD | Moderate | CPI (MoM) (Mar) | 0.9% | 1.1% | 0.5% |
 | 13:30 | CAD | Low | Median CPI (YoY) (Mar) | 2.3% | 2.4% | 2.3% |
 | 13:30 | CAD | Low | Trimmed CPI (YoY) (Mar) | 2.2% | 2.3% | 2.3% |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.634% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.248% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.448% |
-| 15:00 | CNY | Low | FDI (Mar) |  |  | -5.70% |
-| 15:30 | CAD | Moderate | BoC Business Outlook Survey |  |  |  |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.476% |  | 2.634% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.159% |  | 2.248% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.319% |  | 2.448% |
+| 21 min | CNY | Low | FDI (Mar) |  |  | -5.70% |
+| 51 min | CAD | Moderate | BoC Business Outlook Survey |  |  |  |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.620% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.610% |
 | 16:30 | CAD | Moderate | BoC Business Outlook Survey |  |  |  |
