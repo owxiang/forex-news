@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | Rightmove House Price Index (YoY) (Apr) | 0.8% |  | 0.8% |
-| 02:00 | CNY | Moderate | China Loan Prime Rate 5Y (Apr) |  | 3.50% | 3.50% |
-| 02:15 | CNY | Moderate | PBoC Loan Prime Rate |  | 3.00% | 3.00% |
+| 02:00 | CNY | Moderate | China Loan Prime Rate 5Y (Apr) | 3.50% | 3.50% | 3.50% |
+| 02:00 | CNY | Moderate | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
 | 04:00 | NZD | Low | RBNZ Offshore Holdings (Mar) |  |  | 57.20% |
 | 05:30 | JPY | Low | Tertiary Industry Activity Index (Feb) |  |  | -9.20 |
 | 07:00 | EUR | Moderate | German PPI (MoM) (Mar) |  | 1.4% | -0.5% |
