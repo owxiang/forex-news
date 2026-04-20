@@ -7,9 +7,8 @@
 | 04:00 | NZD | RBNZ Offshore Holdings (Mar) | 56.70% |  | 57.20% |
 | 05:30 | JPY | Tertiary Industry Activity Index (Feb) | -0.70 |  | -8.70 |
 | 07:00 | EUR | German PPI (YoY) (Mar) | -0.2% |  | -3.3% |
-| 6 min | EUR | Construction Output (MoM) (Feb) |  |  | -0.09% |
+| 10:00 | EUR | Construction Output (MoM) (Feb) | -0.20% |  | -1.30% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 11:00 | ZAR | Business Confidence (Feb) |  |  | 131.4 |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:30 | INR | Infrastructure Output (YoY) (Mar) |  |  | 2.3% |
 | 13:30 | CAD | Common CPI (YoY) (Mar) |  | 2.6% | 2.4% |
