@@ -10,7 +10,7 @@
 | 05:30 | JPY | Low | Tertiary Industry Activity Index (Feb) | -0.70 |  | -8.70 |
 | 07:00 | EUR | Moderate | German PPI (MoM) (Mar) | 2.5% | 1.4% | -0.5% |
 | 07:00 | EUR | Low | German PPI (YoY) (Mar) | -0.2% |  | -3.3% |
-| 10:00 | EUR | Low | Construction Output (MoM) (Feb) | -0.20% |  | -1.30% |
+| 10:00 | EUR | Low | Construction Output (MoM) (Feb) | -1.90% |  | -1.33% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:30 | INR | Low | Infrastructure Output (YoY) (Mar) |  |  | 2.3% |
