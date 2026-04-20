@@ -14,13 +14,13 @@
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 12:00 | INR | Low | Infrastructure Output (YoY) (Mar) | -0.4% |  | 2.3% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 55 min | CAD | Low | Common CPI (YoY) (Mar) |  | 2.6% | 2.4% |
-| 55 min | CAD | Moderate | Core CPI (YoY) (Mar) |  |  | 2.3% |
-| 55 min | CAD | Moderate | Core CPI (MoM) (Mar) |  |  | 0.4% |
-| 55 min | CAD | Low | CPI (YoY) (Mar) |  | 2.5% | 1.8% |
-| 55 min | CAD | Moderate | CPI (MoM) (Mar) |  | 1.1% | 0.5% |
-| 55 min | CAD | Low | Median CPI (YoY) (Mar) |  | 2.4% | 2.3% |
-| 55 min | CAD | Low | Trimmed CPI (YoY) (Mar) |  | 2.3% | 2.3% |
+| 13:30 | CAD | Low | Common CPI (YoY) (Mar) | 2.6% | 2.6% | 2.4% |
+| 13:30 | CAD | Moderate | Core CPI (YoY) (Mar) | 2.5% |  | 2.3% |
+| 13:30 | CAD | Moderate | Core CPI (MoM) (Mar) | 0.2% |  | 0.4% |
+| 13:30 | CAD | Low | CPI (YoY) (Mar) | 2.4% | 2.5% | 1.8% |
+| 13:30 | CAD | Moderate | CPI (MoM) (Mar) | 0.9% | 1.1% | 0.5% |
+| 13:30 | CAD | Low | Median CPI (YoY) (Mar) | 2.3% | 2.4% | 2.3% |
+| 13:30 | CAD | Low | Trimmed CPI (YoY) (Mar) | 2.2% | 2.3% | 2.3% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.634% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.248% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.448% |

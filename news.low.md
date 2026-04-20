@@ -11,10 +11,10 @@
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 12:00 | INR | Infrastructure Output (YoY) (Mar) | -0.4% |  | 2.3% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 55 min | CAD | Common CPI (YoY) (Mar) |  | 2.6% | 2.4% |
-| 55 min | CAD | CPI (YoY) (Mar) |  | 2.5% | 1.8% |
-| 55 min | CAD | Median CPI (YoY) (Mar) |  | 2.4% | 2.3% |
-| 55 min | CAD | Trimmed CPI (YoY) (Mar) |  | 2.3% | 2.3% |
+| 13:30 | CAD | Common CPI (YoY) (Mar) | 2.6% | 2.6% | 2.4% |
+| 13:30 | CAD | CPI (YoY) (Mar) | 2.4% | 2.5% | 1.8% |
+| 13:30 | CAD | Median CPI (YoY) (Mar) | 2.3% | 2.4% | 2.3% |
+| 13:30 | CAD | Trimmed CPI (YoY) (Mar) | 2.2% | 2.3% | 2.3% |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.634% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.248% |
 | 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.448% |
