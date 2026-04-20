@@ -25,8 +25,8 @@
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.159% |  | 2.248% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.319% |  | 2.448% |
 | 15:30 | CAD | Moderate | BoC Business Outlook Survey |  |  |  |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.620% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.610% |
+| 16:30 | USD | Low | 3-Month Bill Auction | 3.610% |  | 3.620% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 3.590% |  | 3.610% |
 | 16:30 | CAD | Moderate | BoC Business Outlook Survey |  |  |  |
 | 17:40 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 23:00 | NZD | Moderate | NZIER Business Confidence (Q1) |  |  | 48% |
