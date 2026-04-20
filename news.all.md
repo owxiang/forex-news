@@ -29,7 +29,7 @@
 | 16:30 | USD | Low | 6-Month Bill Auction | 3.590% |  | 3.610% |
 | 16:30 | CAD | Moderate | BoC Business Outlook Survey |  |  |  |
 | 17:40 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 23:00 | NZD | Moderate | NZIER Business Confidence (Q1) |  |  | 48% |
-| 23:00 | NZD | Low | NZIER QSBO Capacity Utilization (Q1) |  |  | 89.8% |
+| 23:00 | NZD | Moderate | NZIER Business Confidence (Q1) | -4% |  | 48% |
+| 23:00 | NZD | Low | NZIER QSBO Capacity Utilization (Q1) | 91.2% |  | 89.8% |
 | 23:45 | NZD | Moderate | CPI (QoQ) (Q1) |  | 0.8% | 0.6% |
 | 23:45 | NZD | Moderate | CPI (YoY) (Q1) |  | 2.9% | 3.1% |

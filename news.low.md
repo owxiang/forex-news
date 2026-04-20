@@ -20,4 +20,4 @@
 | 14:00 | EUR | French 6-Month BTF Auction | 2.319% |  | 2.448% |
 | 16:30 | USD | 3-Month Bill Auction | 3.610% |  | 3.620% |
 | 16:30 | USD | 6-Month Bill Auction | 3.590% |  | 3.610% |
-| 23:00 | NZD | NZIER QSBO Capacity Utilization (Q1) |  |  | 89.8% |
+| 23:00 | NZD | NZIER QSBO Capacity Utilization (Q1) | 91.2% |  | 89.8% |
