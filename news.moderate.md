@@ -8,9 +8,9 @@
 | 07:00 | GBP | Unemployment Rate (Feb) | 4.9% | 5.2% | 5.2% |
 | 07:30 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 08:00 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 15 min | EUR | German ZEW Current Conditions (Apr) |  | -70.0 | -62.9 |
-| 15 min | EUR | German ZEW Economic Sentiment (Apr) |  | -6.7 | -0.5 |
-| 15 min | EUR | ZEW Economic Sentiment (Apr) |  | -10.3 | -8.5 |
+| 10:00 | EUR | German ZEW Current Conditions (Apr) | -73.7 | -70.0 | -62.9 |
+| 10:00 | EUR | German ZEW Economic Sentiment (Apr) | -17.2 | -6.7 | -0.5 |
+| 10:00 | EUR | ZEW Economic Sentiment (Apr) | -20.4 | -12.7 | -8.5 |
 | 13:15 | USD | ADP Employment Change Weekly |  |  | 39.30K |
 | 13:30 | USD | Retail Control (MoM) (Mar) |  | 0.2% | 0.5% |
 | 15:00 | USD | Business Inventories (MoM) (Feb) |  | 0.3% | -0.1% |
