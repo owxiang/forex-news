@@ -2,15 +2,15 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 07:00 | GBP | Low | Average Earnings ex Bonus (Feb) |  | 3.5% | 3.8% |
-| 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Feb) |  | 3.6% | 3.9% |
-| 07:00 | GBP | Moderate | Claimant Count Change (Mar) |  | 21.4K | 24.7K |
-| 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Feb) |  |  | 84K |
-| 07:00 | GBP | Moderate | Unemployment Rate (Feb) |  | 5.2% | 5.2% |
-| 07:00 | CHF | Low | Trade Balance (Mar) |  |  | 4.204B |
+| 07:00 | GBP | Low | Average Earnings ex Bonus (Feb) | 3.6% | 3.5% | 3.8% |
+| 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Feb) | 3.8% | 3.6% | 4.1% |
+| 07:00 | GBP | Moderate | Claimant Count Change (Mar) | 26.8K | 21.4K | 17.1K |
+| 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Feb) | 25K |  | 84K |
+| 07:00 | GBP | Moderate | Unemployment Rate (Feb) | 4.9% | 5.2% | 5.2% |
+| 07:00 | CHF | Low | Trade Balance (Mar) | 3.177B |  | 4.105B |
 | 07:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 08:00 | CHF | Low | M3 Money Supply (Mar) |  |  | 1,216,014.0B |
-| 08:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 12 min | CHF | Low | M3 Money Supply (Mar) |  |  | 1,216.0B |
+| 12 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 09:00 | EUR | Low | Spanish Trade Balance (Feb) |  |  | -4.00B |
 | 10:00 | EUR | Moderate | German ZEW Current Conditions (Apr) |  | -70.0 | -62.9 |
 | 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Apr) |  | -6.7 | -0.5 |

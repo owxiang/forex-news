@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | GBP | Average Earnings ex Bonus (Feb) |  | 3.5% | 3.8% |
-| 07:00 | CHF | Trade Balance (Mar) |  |  | 4.204B |
-| 08:00 | CHF | M3 Money Supply (Mar) |  |  | 1,216,014.0B |
+| 07:00 | GBP | Average Earnings ex Bonus (Feb) | 3.6% | 3.5% | 3.8% |
+| 07:00 | CHF | Trade Balance (Mar) | 3.177B |  | 4.105B |
+| 12 min | CHF | M3 Money Supply (Mar) |  |  | 1,216.0B |
 | 09:00 | EUR | Spanish Trade Balance (Feb) |  |  | -4.00B |
 | 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.620% |
 | 10:30 | ZAR | Business Confidence (Mar) |  |  | 131.4 |

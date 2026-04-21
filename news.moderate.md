@@ -2,12 +2,12 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | GBP | Average Earnings Index +Bonus (Feb) |  | 3.6% | 3.9% |
-| 07:00 | GBP | Claimant Count Change (Mar) |  | 21.4K | 24.7K |
-| 07:00 | GBP | Employment Change 3M/3M (MoM) (Feb) |  |  | 84K |
-| 07:00 | GBP | Unemployment Rate (Feb) |  | 5.2% | 5.2% |
+| 07:00 | GBP | Average Earnings Index +Bonus (Feb) | 3.8% | 3.6% | 4.1% |
+| 07:00 | GBP | Claimant Count Change (Mar) | 26.8K | 21.4K | 17.1K |
+| 07:00 | GBP | Employment Change 3M/3M (MoM) (Feb) | 25K |  | 84K |
+| 07:00 | GBP | Unemployment Rate (Feb) | 4.9% | 5.2% | 5.2% |
 | 07:30 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 08:00 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 12 min | EUR | ECB's De Guindos Speaks |  |  |  |
 | 10:00 | EUR | German ZEW Current Conditions (Apr) |  | -70.0 | -62.9 |
 | 10:00 | EUR | German ZEW Economic Sentiment (Apr) |  | -6.7 | -0.5 |
 | 10:00 | EUR | ZEW Economic Sentiment (Apr) |  | -10.3 | -8.5 |
