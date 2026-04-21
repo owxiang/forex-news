@@ -11,8 +11,8 @@
 | 10:00 | EUR | German ZEW Current Conditions (Apr) | -73.7 | -70.0 | -62.9 |
 | 10:00 | EUR | German ZEW Economic Sentiment (Apr) | -17.2 | -6.7 | -0.5 |
 | 10:00 | EUR | ZEW Economic Sentiment (Apr) | -20.4 | -12.7 | -8.5 |
-| 13:15 | USD | ADP Employment Change Weekly |  |  | 39.30K |
-| 13:30 | USD | Retail Control (MoM) (Mar) |  | 0.2% | 0.5% |
+| 13:15 | USD | ADP Employment Change Weekly | 54.75K |  | 39.30K |
+| 13:30 | USD | Retail Control (MoM) (Mar) | 0.7% | 0.2% | 0.6% |
 | 15:00 | USD | Business Inventories (MoM) (Feb) |  | 0.3% | -0.1% |
 | 15:00 | USD | Pending Home Sales (MoM) (Mar) |  | 0.0% | 1.8% |
 | 15:00 | USD | Retail Inventories Ex Auto (Feb) |  | 0.3% | 0.4% |

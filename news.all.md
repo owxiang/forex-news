@@ -18,20 +18,21 @@
 | 10:30 | EUR | Low | German 2-Year Schatz Auction | 2.470% |  | 2.620% |
 | 10:30 | ZAR | Low | Business Confidence (Feb) | 134.6 |  | 133.2 |
 | 10:30 | ZAR | Low | Business Confidence (Mar) | 131.3 |  | 134.6 |
-| 13:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -3.4% |
-| 13:00 | USD | Low | Milk Auctions |  |  | 4,228.0 |
-| 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 39.30K |
-| 13:30 | USD | High | Core Retail Sales (MoM) (Mar) |  | 1.3% | 0.5% |
-| 13:30 | USD | Moderate | Retail Control (MoM) (Mar) |  | 0.2% | 0.5% |
-| 13:30 | USD | High | Retail Sales (MoM) (Mar) |  | 1.4% | 0.6% |
+| 13:15 | USD | Moderate | ADP Employment Change Weekly | 54.75K |  | 39.30K |
+| 13:30 | USD | High | Core Retail Sales (MoM) (Mar) | 1.9% | 1.4% | 0.7% |
+| 13:30 | USD | Moderate | Retail Control (MoM) (Mar) | 0.7% | 0.2% | 0.6% |
+| 13:30 | USD | High | Retail Sales (MoM) (Mar) | 1.7% | 1.4% | 0.7% |
 | 13:30 | USD | Low | Retail Sales (YoY) (Mar) |  |  | 3.71% |
-| 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Mar) |  |  | 0.4% |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 7.0% |
+| 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Mar) | 0.6% |  | 0.6% |
+| 13:30 | USD | High | U.S. President Trump Speaks |  |  |  |
+| 23 min | USD | Low | Redbook (YoY) |  |  | 7.0% |
 | 15:00 | USD | Moderate | Business Inventories (MoM) (Feb) |  | 0.3% | -0.1% |
 | 15:00 | USD | Moderate | Pending Home Sales (MoM) (Mar) |  | 0.0% | 1.8% |
 | 15:00 | USD | Low | Pending Home Sales Index (Mar) |  |  | 72.1 |
 | 15:00 | USD | Moderate | Retail Inventories Ex Auto (Feb) |  | 0.3% | 0.4% |
 | 15:00 | CNY | Low | FDI (Mar) |  |  | -5.70% |
+| 16:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -3.4% |
+| 16:00 | USD | Low | Milk Auctions |  |  | 4,228.0 |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 1.3% | 1.3% |
 | 17:00 | ZAR | Low | SARB Monetary Policy Review |  |  |  |
 | 19:30 | USD | Moderate | Fed Waller Speaks |  |  |  |

@@ -9,13 +9,13 @@
 | 10:30 | EUR | German 2-Year Schatz Auction | 2.470% |  | 2.620% |
 | 10:30 | ZAR | Business Confidence (Feb) | 134.6 |  | 133.2 |
 | 10:30 | ZAR | Business Confidence (Mar) | 131.3 |  | 134.6 |
-| 13:00 | NZD | GlobalDairyTrade Price Index |  |  | -3.4% |
-| 13:00 | USD | Milk Auctions |  |  | 4,228.0 |
 | 13:30 | USD | Retail Sales (YoY) (Mar) |  |  | 3.71% |
-| 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Mar) |  |  | 0.4% |
-| 13:55 | USD | Redbook (YoY) |  |  | 7.0% |
+| 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Mar) | 0.6% |  | 0.6% |
+| 23 min | USD | Redbook (YoY) |  |  | 7.0% |
 | 15:00 | USD | Pending Home Sales Index (Mar) |  |  | 72.1 |
 | 15:00 | CNY | FDI (Mar) |  |  | -5.70% |
+| 16:00 | NZD | GlobalDairyTrade Price Index |  |  | -3.4% |
+| 16:00 | USD | Milk Auctions |  |  | 4,228.0 |
 | 17:00 | ZAR | SARB Monetary Policy Review |  |  |  |
 | 22:00 | KRW | PPI (MoM) (Mar) |  |  | 0.6% |
 | 22:00 | KRW | PPI (YoY) (Mar) |  |  | 2.4% |
