@@ -4,11 +4,11 @@
 |------|----------|-------|--------|----------|----------|
 | 07:00 | GBP | Average Earnings ex Bonus (Feb) | 3.6% | 3.5% | 3.8% |
 | 07:00 | CHF | Trade Balance (Mar) | 3.177B |  | 4.105B |
-| 08:00 | CHF | M3 Money Supply (Mar) | 1,221,317.0B |  | 1,215,324.0B |
+| 08:00 | CHF | M3 Money Supply (Mar) | 1,221.3B |  | 1,215.3B |
+| 08:30 | EUR | Spanish Trade Balance (Feb) | -3.30B |  | -4.00B |
 | 10:30 | EUR | German 2-Year Schatz Auction | 2.470% |  | 2.620% |
 | 10:30 | ZAR | Business Confidence (Feb) | 134.6 |  | 133.2 |
 | 10:30 | ZAR | Business Confidence (Mar) | 131.3 |  | 134.6 |
-| 22 min | EUR | Spanish Trade Balance (Feb) |  |  | -4.00B |
 | 13:00 | NZD | GlobalDairyTrade Price Index |  |  | -3.4% |
 | 13:00 | USD | Milk Auctions |  |  | 4,228.0 |
 | 13:30 | USD | Retail Sales (YoY) (Mar) |  |  | 3.71% |

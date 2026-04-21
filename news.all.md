@@ -9,15 +9,15 @@
 | 07:00 | GBP | Moderate | Unemployment Rate (Feb) | 4.9% | 5.2% | 5.2% |
 | 07:00 | CHF | Low | Trade Balance (Mar) | 3.177B |  | 4.105B |
 | 07:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 08:00 | CHF | Low | M3 Money Supply (Mar) | 1,221,317.0B |  | 1,215,324.0B |
+| 08:00 | CHF | Low | M3 Money Supply (Mar) | 1,221.3B |  | 1,215.3B |
 | 08:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 08:30 | EUR | Low | Spanish Trade Balance (Feb) | -3.30B |  | -4.00B |
 | 10:00 | EUR | Moderate | German ZEW Current Conditions (Apr) | -73.7 | -70.0 | -62.9 |
 | 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Apr) | -17.2 | -6.7 | -0.5 |
 | 10:00 | EUR | Moderate | ZEW Economic Sentiment (Apr) | -20.4 | -12.7 | -8.5 |
 | 10:30 | EUR | Low | German 2-Year Schatz Auction | 2.470% |  | 2.620% |
 | 10:30 | ZAR | Low | Business Confidence (Feb) | 134.6 |  | 133.2 |
 | 10:30 | ZAR | Low | Business Confidence (Mar) | 131.3 |  | 134.6 |
-| 22 min | EUR | Low | Spanish Trade Balance (Feb) |  |  | -4.00B |
 | 13:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -3.4% |
 | 13:00 | USD | Low | Milk Auctions |  |  | 4,228.0 |
 | 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 39.30K |
