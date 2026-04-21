@@ -1,21 +1,19 @@
-## 21 April 2026 - Moderate Impact Forex News
+## 22 April 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | GBP | Average Earnings Index +Bonus (Feb) | 3.8% | 3.6% | 4.1% |
-| 07:00 | GBP | Claimant Count Change (Mar) | 26.8K | 21.4K | 17.1K |
-| 07:00 | GBP | Employment Change 3M/3M (MoM) (Feb) | 25K |  | 84K |
-| 07:00 | GBP | Unemployment Rate (Feb) | 4.9% | 5.2% | 5.2% |
-| 07:30 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 08:00 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 10:00 | EUR | German ZEW Current Conditions (Apr) | -73.7 | -70.0 | -62.9 |
-| 10:00 | EUR | German ZEW Economic Sentiment (Apr) | -17.2 | -6.7 | -0.5 |
-| 10:00 | EUR | ZEW Economic Sentiment (Apr) | -20.4 | -12.7 | -8.5 |
-| 13:15 | USD | ADP Employment Change Weekly | 54.75K |  | 39.30K |
-| 13:30 | USD | Retail Control (MoM) (Mar) | 0.7% | 0.2% | 0.6% |
-| 15:00 | USD | Business Inventories (MoM) (Feb) | 0.4% | 0.3% | 0.0% |
-| 15:00 | USD | Pending Home Sales (MoM) (Mar) | 1.5% | 0.0% | 2.5% |
-| 15:00 | USD | Retail Inventories Ex Auto (Feb) | 0.3% | 0.3% | 0.4% |
-| 17:00 | USD | Atlanta Fed GDPNow (Q1) | 1.2% | 1.3% | 1.3% |
-| 19:30 | USD | Fed Waller Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock | -4.400M | -1.000M | 6.100M |
+| 00:50 | JPY | Adjusted Trade Balance |  | 0.20T | -0.37T |
+| 00:50 | JPY | Exports (YoY) (Mar) |  | 11.0% | 4.0% |
+| 00:50 | JPY | Trade Balance (Mar) |  | 1,106.0B | 44.3B |
+| 07:00 | GBP | CPI (MoM) (Mar) |  | 0.6% | 0.4% |
+| 07:00 | GBP | PPI Input (MoM) (Mar) |  | 2.8% | 0.8% |
+| 08:00 | EUR | ECB's Elderson Speaks |  |  |  |
+| 08:30 | IDR | Interest Rate Decision |  | 4.75% | 4.75% |
+| 08:40 | EUR | ECB's Lane Speaks |  |  |  |
+| 12:30 | INR | RBI MPC Meeting Minutes |  |  |  |
+| 13:30 | CAD | New Housing Price Index (MoM) (Mar) |  | 0.2% | 0.3% |
+| 14:15 | EUR | ECB's Lane Speaks |  |  |  |
+| 15:30 | USD | Cushing Crude Oil Inventories |  |  | -1.727M |
+| 18:00 | USD | 20-Year Bond Auction |  |  | 4.817% |
+| 18:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 18:30 | EUR | ECB President Lagarde Speaks |  |  |  |
