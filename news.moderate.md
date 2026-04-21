@@ -13,9 +13,9 @@
 | 10:00 | EUR | ZEW Economic Sentiment (Apr) | -20.4 | -12.7 | -8.5 |
 | 13:15 | USD | ADP Employment Change Weekly | 54.75K |  | 39.30K |
 | 13:30 | USD | Retail Control (MoM) (Mar) | 0.7% | 0.2% | 0.6% |
-| 15:00 | USD | Business Inventories (MoM) (Feb) |  | 0.3% | -0.1% |
-| 15:00 | USD | Pending Home Sales (MoM) (Mar) |  | 0.0% | 1.8% |
-| 15:00 | USD | Retail Inventories Ex Auto (Feb) |  | 0.3% | 0.4% |
+| 15:00 | USD | Business Inventories (MoM) (Feb) | 0.4% | 0.3% | 0.0% |
+| 15:00 | USD | Pending Home Sales (MoM) (Mar) | 1.5% | 0.0% | 2.5% |
+| 15:00 | USD | Retail Inventories Ex Auto (Feb) | 0.3% | 0.3% | 0.4% |
 | 16:30 | USD | Atlanta Fed GDPNow (Q1) |  | 1.3% | 1.3% |
 | 19:30 | USD | Fed Waller Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | -1.000M | 6.100M |

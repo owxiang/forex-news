@@ -12,8 +12,7 @@
 | 13:30 | USD | Retail Sales (YoY) (Mar) | 3.97% |  | 3.96% |
 | 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Mar) | 0.6% |  | 0.6% |
 | 13:55 | USD | Redbook (YoY) | 6.7% |  | 7.0% |
-| 15:00 | USD | Pending Home Sales Index (Mar) |  |  | 72.1 |
-| 15:00 | CNY | FDI (Mar) |  |  | -5.70% |
+| 15:00 | USD | Pending Home Sales Index (Mar) | 73.7 |  | 72.6 |
 | 16:00 | NZD | GlobalDairyTrade Price Index |  |  | -3.4% |
 | 16:00 | USD | Milk Auctions |  |  | 4,228.0 |
 | 17:00 | ZAR | SARB Monetary Policy Review |  |  |  |

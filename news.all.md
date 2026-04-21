@@ -26,11 +26,10 @@
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Mar) | 0.6% |  | 0.6% |
 | 13:30 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 13:55 | USD | Low | Redbook (YoY) | 6.7% |  | 7.0% |
-| 15:00 | USD | Moderate | Business Inventories (MoM) (Feb) |  | 0.3% | -0.1% |
-| 15:00 | USD | Moderate | Pending Home Sales (MoM) (Mar) |  | 0.0% | 1.8% |
-| 15:00 | USD | Low | Pending Home Sales Index (Mar) |  |  | 72.1 |
-| 15:00 | USD | Moderate | Retail Inventories Ex Auto (Feb) |  | 0.3% | 0.4% |
-| 15:00 | CNY | Low | FDI (Mar) |  |  | -5.70% |
+| 15:00 | USD | Moderate | Business Inventories (MoM) (Feb) | 0.4% | 0.3% | 0.0% |
+| 15:00 | USD | Moderate | Pending Home Sales (MoM) (Mar) | 1.5% | 0.0% | 2.5% |
+| 15:00 | USD | Low | Pending Home Sales Index (Mar) | 73.7 |  | 72.6 |
+| 15:00 | USD | Moderate | Retail Inventories Ex Auto (Feb) | 0.3% | 0.3% | 0.4% |
 | 16:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -3.4% |
 | 16:00 | USD | Low | Milk Auctions |  |  | 4,228.0 |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 1.3% | 1.3% |
