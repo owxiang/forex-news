@@ -30,10 +30,8 @@
 | 15:00 | USD | Moderate | Pending Home Sales (MoM) (Mar) | 1.5% | 0.0% | 2.5% |
 | 15:00 | USD | Low | Pending Home Sales Index (Mar) | 73.7 |  | 72.6 |
 | 15:00 | USD | Moderate | Retail Inventories Ex Auto (Feb) | 0.3% | 0.3% | 0.4% |
-| 16:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -3.4% |
-| 16:00 | USD | Low | Milk Auctions |  |  | 4,228.0 |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 1.3% | 1.3% |
-| 17:00 | ZAR | Low | SARB Monetary Policy Review |  |  |  |
+| 25 min | ZAR | Low | SARB Monetary Policy Review |  |  |  |
 | 19:30 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.000M | 6.100M |
 | 22:00 | KRW | Low | PPI (MoM) (Mar) |  |  | 0.6% |
