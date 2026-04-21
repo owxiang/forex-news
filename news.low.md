@@ -13,6 +13,8 @@
 | 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Mar) | 0.6% |  | 0.6% |
 | 13:55 | USD | Redbook (YoY) | 6.7% |  | 7.0% |
 | 15:00 | USD | Pending Home Sales Index (Mar) | 73.7 |  | 72.6 |
-| 25 min | ZAR | SARB Monetary Policy Review |  |  |  |
+| 16:00 | NZD | GlobalDairyTrade Price Index | -2.7% |  | -3.4% |
+| 16:00 | USD | Milk Auctions | 4,143.0 |  | 4,228.0 |
+| 17:00 | ZAR | SARB Monetary Policy Review |  |  |  |
 | 22:00 | KRW | PPI (MoM) (Mar) |  |  | 0.6% |
 | 22:00 | KRW | PPI (YoY) (Mar) |  |  | 2.4% |

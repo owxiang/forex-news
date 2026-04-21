@@ -16,6 +16,6 @@
 | 15:00 | USD | Business Inventories (MoM) (Feb) | 0.4% | 0.3% | 0.0% |
 | 15:00 | USD | Pending Home Sales (MoM) (Mar) | 1.5% | 0.0% | 2.5% |
 | 15:00 | USD | Retail Inventories Ex Auto (Feb) | 0.3% | 0.3% | 0.4% |
-| 16:30 | USD | Atlanta Fed GDPNow (Q1) |  | 1.3% | 1.3% |
+| 17:00 | USD | Atlanta Fed GDPNow (Q1) | 1.2% | 1.3% | 1.3% |
 | 19:30 | USD | Fed Waller Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | -1.000M | 6.100M |
