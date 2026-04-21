@@ -22,10 +22,10 @@
 | 13:30 | USD | High | Core Retail Sales (MoM) (Mar) | 1.9% | 1.4% | 0.7% |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Mar) | 0.7% | 0.2% | 0.6% |
 | 13:30 | USD | High | Retail Sales (MoM) (Mar) | 1.7% | 1.4% | 0.7% |
-| 13:30 | USD | Low | Retail Sales (YoY) (Mar) |  |  | 3.71% |
+| 13:30 | USD | Low | Retail Sales (YoY) (Mar) | 3.97% |  | 3.96% |
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Mar) | 0.6% |  | 0.6% |
 | 13:30 | USD | High | U.S. President Trump Speaks |  |  |  |
-| 23 min | USD | Low | Redbook (YoY) |  |  | 7.0% |
+| 13:55 | USD | Low | Redbook (YoY) | 6.7% |  | 7.0% |
 | 15:00 | USD | Moderate | Business Inventories (MoM) (Feb) |  | 0.3% | -0.1% |
 | 15:00 | USD | Moderate | Pending Home Sales (MoM) (Mar) |  | 0.0% | 1.8% |
 | 15:00 | USD | Low | Pending Home Sales Index (Mar) |  |  | 72.1 |

@@ -9,9 +9,9 @@
 | 10:30 | EUR | German 2-Year Schatz Auction | 2.470% |  | 2.620% |
 | 10:30 | ZAR | Business Confidence (Feb) | 134.6 |  | 133.2 |
 | 10:30 | ZAR | Business Confidence (Mar) | 131.3 |  | 134.6 |
-| 13:30 | USD | Retail Sales (YoY) (Mar) |  |  | 3.71% |
+| 13:30 | USD | Retail Sales (YoY) (Mar) | 3.97% |  | 3.96% |
 | 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Mar) | 0.6% |  | 0.6% |
-| 23 min | USD | Redbook (YoY) |  |  | 7.0% |
+| 13:55 | USD | Redbook (YoY) | 6.7% |  | 7.0% |
 | 15:00 | USD | Pending Home Sales Index (Mar) |  |  | 72.1 |
 | 15:00 | CNY | FDI (Mar) |  |  | -5.70% |
 | 16:00 | NZD | GlobalDairyTrade Price Index |  |  | -3.4% |
