@@ -7,7 +7,7 @@
 | 07:00 | GBP | Employment Change 3M/3M (MoM) (Feb) | 25K |  | 84K |
 | 07:00 | GBP | Unemployment Rate (Feb) | 4.9% | 5.2% | 5.2% |
 | 07:30 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 12 min | EUR | ECB's De Guindos Speaks |  |  |  |
+| 08:00 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 10:00 | EUR | German ZEW Current Conditions (Apr) |  | -70.0 | -62.9 |
 | 10:00 | EUR | German ZEW Economic Sentiment (Apr) |  | -6.7 | -0.5 |
 | 10:00 | EUR | ZEW Economic Sentiment (Apr) |  | -10.3 | -8.5 |

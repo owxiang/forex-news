@@ -9,9 +9,9 @@
 | 07:00 | GBP | Moderate | Unemployment Rate (Feb) | 4.9% | 5.2% | 5.2% |
 | 07:00 | CHF | Low | Trade Balance (Mar) | 3.177B |  | 4.105B |
 | 07:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 12 min | CHF | Low | M3 Money Supply (Mar) |  |  | 1,216.0B |
-| 12 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 09:00 | EUR | Low | Spanish Trade Balance (Feb) |  |  | -4.00B |
+| 08:00 | CHF | Low | M3 Money Supply (Mar) | 1,221,317.0B |  | 1,215,324.0B |
+| 08:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 20 min | EUR | Low | Spanish Trade Balance (Feb) |  |  | -4.00B |
 | 10:00 | EUR | Moderate | German ZEW Current Conditions (Apr) |  | -70.0 | -62.9 |
 | 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Apr) |  | -6.7 | -0.5 |
 | 10:00 | EUR | Moderate | ZEW Economic Sentiment (Apr) |  | -10.3 | -8.5 |
