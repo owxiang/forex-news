@@ -35,6 +35,6 @@
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 1.2% | 1.3% | 1.3% |
 | 17:00 | ZAR | Low | SARB Monetary Policy Review |  |  |  |
 | 19:30 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.000M | 6.100M |
-| 22:00 | KRW | Low | PPI (MoM) (Mar) |  |  | 0.6% |
-| 22:00 | KRW | Low | PPI (YoY) (Mar) |  |  | 2.4% |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | -4.400M | -1.000M | 6.100M |
+| 22:00 | KRW | Low | PPI (MoM) (Mar) | 1.6% |  | 0.6% |
+| 22:00 | KRW | Low | PPI (YoY) (Mar) | 4.1% |  | 2.5% |

@@ -16,5 +16,5 @@
 | 16:00 | NZD | GlobalDairyTrade Price Index | -2.7% |  | -3.4% |
 | 16:00 | USD | Milk Auctions | 4,143.0 |  | 4,228.0 |
 | 17:00 | ZAR | SARB Monetary Policy Review |  |  |  |
-| 22:00 | KRW | PPI (MoM) (Mar) |  |  | 0.6% |
-| 22:00 | KRW | PPI (YoY) (Mar) |  |  | 2.4% |
+| 22:00 | KRW | PPI (MoM) (Mar) | 1.6% |  | 0.6% |
+| 22:00 | KRW | PPI (YoY) (Mar) | 4.1% |  | 2.5% |
