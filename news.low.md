@@ -32,17 +32,17 @@
 | 12:00 | USD | MBA Purchase Index | 175.6 |  | 159.5 |
 | 12:00 | USD | Mortgage Market Index | 303.3 |  | 281.0 |
 | 12:00 | USD | Mortgage Refinance Index | 1,023.1 |  | 966.8 |
-| 12:00 | ZAR | Retail Sales (YoY) (Feb) | 1.6% |  | 4.4% |
-| 12:30 | INR | M3 Money Supply |  |  | 13.0% |
+| 12:00 | ZAR | Retail Sales (YoY) (Feb) | 1.6% | 4.8% | 4.4% |
+| 13:30 | INR | M3 Money Supply |  |  | 13.0% |
 | 15:00 | CNY | FDI (Mar) |  |  | -5.70% |
 | 15:00 | EUR | Consumer Confidence (Apr) |  | -17.0 | -16.3 |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.208M |
 | 15:30 | USD | Crude Oil Imports |  |  | -2.109M |
 | 15:30 | USD | Distillate Fuel Production |  |  | -0.169M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | -3.122M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  | -2.500M | -3.122M |
 | 15:30 | USD | Gasoline Production |  |  | 0.392M |
 | 15:30 | USD | Heating Oil Stockpiles |  |  | -0.463M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -2.4% |
-| 15:30 | USD | Gasoline Inventories |  |  | -6.328M |
+| 15:30 | USD | Gasoline Inventories |  | -1.500M | -6.328M |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | -1.303B |
 | 22:00 | KRW | Consumer Confidence (Apr) |  |  | 107.0 |

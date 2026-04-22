@@ -11,7 +11,7 @@
 | 08:30 | IDR | Interest Rate Decision | 4.75% | 4.75% | 4.75% |
 | 08:40 | EUR | ECB's Lane Speaks |  |  |  |
 | 12:30 | INR | RBI MPC Meeting Minutes |  |  |  |
-| 13:30 | CAD | New Housing Price Index (MoM) (Mar) |  | 0.2% | 0.3% |
+| 13:30 | CAD | New Housing Price Index (MoM) (Mar) | -0.2% | 0.2% | 0.3% |
 | 14:15 | EUR | ECB's Lane Speaks |  |  |  |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | -1.727M |
 | 18:00 | USD | 20-Year Bond Auction |  |  | 4.817% |
