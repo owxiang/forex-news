@@ -60,4 +60,4 @@
 | 18:00 | USD | Moderate | 20-Year Bond Auction | 4.883% |  | 4.817% |
 | 18:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 18:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 22:00 | KRW | Low | Consumer Confidence (Apr) |  |  | 107.0 |
+| 34 min | KRW | Low | Consumer Confidence (Apr) |  |  | 107.0 |
