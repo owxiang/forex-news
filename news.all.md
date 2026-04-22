@@ -1,63 +1,82 @@
-## 22 April 2026 - All Forex News
+## 23 April 2026 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:50 | JPY | Moderate | Adjusted Trade Balance | 0.09T | 0.23T | -0.37T |
-| 00:50 | JPY | Moderate | Exports (YoY) (Mar) | 11.7% | 11.0% | 4.0% |
-| 00:50 | JPY | Low | Imports (YoY) (Mar) | 10.9% | 7.1% | 10.3% |
-| 00:50 | JPY | Moderate | Trade Balance (Mar) | 667.0B | 1,106.0B | 44.3B |
-| 02:00 | AUD | Low | MI Leading Index (MoM) (Mar) | -0.1% |  | -0.1% |
-| 07:00 | GBP | Low | Core CPI (YoY) (Mar) | 3.1% | 3.2% | 3.2% |
-| 07:00 | GBP | Low | Core CPI (MoM) (Mar) | 0.4% | 0.5% | 0.6% |
-| 07:00 | GBP | Low | Core PPI Output (YoY) (Mar) | 2.0% |  | 2.0% |
-| 07:00 | GBP | Low | Core PPI Output (MoM) (Mar) | 0.2% |  | -0.7% |
-| 07:00 | GBP | Low | Core RPI (YoY) (Mar) | 4.0% |  | 3.5% |
-| 07:00 | GBP | Low | Core RPI (MoM) (Mar) | 0.8% |  | 0.4% |
-| 07:00 | GBP | Moderate | CPI (MoM) (Mar) | 0.7% | 0.6% | 0.4% |
-| 07:00 | GBP | High | CPI (YoY) (Mar) | 3.3% | 3.3% | 3.0% |
-| 07:00 | GBP | Low | CPI, n.s.a (Mar) | 141.00 |  | 140.10 |
-| 07:00 | GBP | Moderate | PPI Input (MoM) (Mar) | 4.4% | 2.9% | 0.9% |
-| 07:00 | GBP | Low | PPI Input (YoY) (Mar) | 5.4% |  | 0.7% |
-| 07:00 | GBP | Low | PPI Output (MoM) (Mar) | 0.9% | 1.0% | -0.5% |
-| 07:00 | GBP | Low | PPI Output (YoY) (Mar) | 2.6% |  | 1.8% |
-| 07:00 | GBP | Low | RPI (MoM) (Mar) | 0.8% | 0.7% | 0.4% |
-| 07:00 | GBP | Low | RPI (YoY) (Mar) | 4.1% | 3.9% | 3.6% |
-| 08:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 08:30 | IDR | Moderate | Interest Rate Decision | 4.75% | 4.75% | 4.75% |
-| 08:30 | IDR | Low | Deposit Facility Rate (Apr) | 3.75% |  | 3.75% |
-| 08:30 | IDR | Low | Lending Facility Rate (Apr) | 5.50% |  | 5.50% |
-| 08:30 | IDR | Low | Loans (YoY) (Mar) | 9.49% |  | 9.37% |
-| 08:40 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 09:00 | ZAR | Low | Core CPI (YoY) (Mar) | 3.2% |  | 3.0% |
-| 09:00 | ZAR | Low | Core CPI (MoM) (Mar) | 0.8% |  | 0.7% |
-| 09:00 | ZAR | Low | CPI (MoM) (Mar) | 0.6% |  | 0.4% |
-| 09:00 | ZAR | Low | CPI (YoY) (Mar) | 3.1% | 3.1% | 3.0% |
-| 09:05 | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 09:30 | GBP | Low | House Price Index (YoY) | 1.2% | 0.9% | 1.0% |
-| 10:00 | EUR | Low | Government Budget to GDP | -2.9% |  | -3.0% |
-| 10:00 | EUR | Low | Government Debt to GDP | 87.8% |  | 87.0% |
-| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.35% |  | 6.42% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | 7.9% |  | 1.8% |
-| 12:00 | USD | Low | MBA Purchase Index | 175.6 |  | 159.5 |
-| 12:00 | USD | Low | Mortgage Market Index | 303.3 |  | 281.0 |
-| 12:00 | USD | Low | Mortgage Refinance Index | 1,023.1 |  | 966.8 |
-| 12:00 | ZAR | Low | Retail Sales (YoY) (Feb) | 1.6% | 4.8% | 4.4% |
-| 12:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
-| 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Mar) | -0.2% | 0.2% | 0.3% |
-| 14:15 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 15:00 | EUR | Low | Consumer Confidence (Apr) | -20.6 | -18.0 | -16.4 |
-| 15:30 | USD | High | Crude Oil Inventories | 1.925M | -1.900M | -0.913M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | -0.055M |  | -0.208M |
-| 15:30 | USD | Low | Crude Oil Imports | 1.214M |  | -2.109M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | 0.806M |  | -1.727M |
-| 15:30 | USD | Low | Distillate Fuel Production | 0.087M |  | -0.169M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks | -3.427M | -2.500M | -3.122M |
-| 15:30 | USD | Low | Gasoline Production | 0.315M |  | 0.392M |
-| 15:30 | USD | Low | Heating Oil Stockpiles | -0.328M |  | -0.463M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -0.5% |  | -2.4% |
-| 15:30 | USD | Low | Gasoline Inventories | -4.570M | -1.500M | -6.328M |
-| 18:00 | USD | Moderate | 20-Year Bond Auction | 4.883% |  | 4.817% |
-| 18:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 18:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 22:00 | KRW | Low | Consumer Confidence (Apr) | 99.2 |  | 107.0 |
+| 00:00 | KRW | Low | GDP (YoY) (Q1) | 3.6% | 2.7% | 1.6% |
+| 00:00 | KRW | Low | GDP (QoQ) (Q1) | 1.7% | 0.9% | -0.2% |
+| 00:00 | AUD | Low | S&P Global Manufacturing & Services PMI (Apr) | 50.10 |  | 46.60 |
+| 00:00 | AUD | Low | S&P Global Manufacturing PMI (Apr) | 51.0 |  | 49.8 |
+| 00:00 | AUD | Low | S&P Global Services PMI (Apr) | 50.3 |  | 46.3 |
+| 00:50 | JPY | Low | Foreign Bonds Buying |  |  | 696.2B |
+| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 3,943.3B |
+| 01:30 | JPY | Low | Manufacturing & Services PMI (Apr) |  |  | 53.00 |
+| 01:30 | JPY | Low | S&P Global Manufacturing PMI (Apr) |  | 51.2 | 51.6 |
+| 01:30 | JPY | Moderate | S&P Global Services PMI (Apr) |  |  | 53.4 |
+| 02:30 | AUD | Moderate | Unemployment Rate (Mar) |  |  | 4.3% |
+| 04:00 | NZD | Low | Credit Card Spending (YoY) (Mar) |  |  | -1.1% |
+| 04:00 | IDR | Low | M2 Money Supply (YoY) (Mar) |  |  | 8.70% |
+| 05:00 | GBP | Low | Car Registration (YoY) (Mar) |  |  | 7.2% |
+| 05:00 | GBP | Low | Car Registration (MoM) (Mar) |  |  | -37.5% |
+| 05:00 | EUR | Low | Italian Car Registration (YoY) (Mar) |  |  | 14.0% |
+| 05:00 | EUR | Low | Italian Car Registration (MoM) (Mar) |  |  | 10.7% |
+| 05:00 | EUR | Low | German Car Registration (YoY) (Mar) |  |  | 3.8% |
+| 05:00 | EUR | Low | German Car Registration (MoM) (Mar) |  |  | 8.9% |
+| 05:00 | EUR | Low | French Car Registration (MoM) (Mar) |  |  | 12.7% |
+| 05:00 | EUR | Low | French Car Registration (YoY) (Mar) |  |  | -14.7% |
+| 06:00 | INR | Low | HSBC India Manufacturing PMI (Apr) |  |  | 53.9 |
+| 06:00 | INR | Low | HSBC India Services PMI (Apr) |  |  | 57.5 |
+| 06:00 | INR | Low | HSBC Manufacturing & Services PMI (Apr) |  |  | 57.00 |
+| 06:00 | SGD | Moderate | Core CPI (YoY) (Mar) |  |  | 1.40% |
+| 06:00 | SGD | Low | CPI (MoM) (Mar) |  |  | 0.60% |
+| 06:00 | SGD | Moderate | CPI (YoY) (Mar) |  |  | 1.2% |
+| 07:00 | GBP | Low | Public Sector Net Borrowing |  | 10.30B | 14.30B |
+| 07:00 | GBP | Low | Public Sector Net Cash Requirement (Mar) |  |  | 7.610B |
+| 07:00 | NOK | Low | Industrial Confidence (Q1) |  |  | 2.6 |
+| 07:00 | NOK | Low | Unemployment Rate (Mar) |  |  | 4.9% |
+| 07:45 | EUR | Low | French Business Survey (Apr) |  | 98 | 99 |
+| 08:00 | CHF | Low | M3 Money Supply (Mar) |  |  | 1,216.0B |
+| 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
+| 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Apr) |  | 49.5 | 50.0 |
+| 08:15 | EUR | Low | HCOB France Composite PMI (Apr) |  |  | 48.8 |
+| 08:15 | EUR | Moderate | HCOB France Services PMI (Apr) |  | 48.5 | 48.8 |
+| 08:30 | EUR | Low | HCOB Germany Composite PMI (Apr) |  |  | 51.9 |
+| 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Apr) |  | 51.3 | 52.2 |
+| 08:30 | EUR | Moderate | HCOB Germany Services PMI (Apr) |  | 50.4 | 50.9 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Apr) |  | 50.7 | 51.6 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Apr) |  |  | 50.7 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Apr) |  | 49.8 | 50.2 |
+| 09:30 | GBP | Moderate | S&P Global Composite PMI (Apr) |  |  | 50.3 |
+| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Apr) |  | 50.2 | 51.0 |
+| 09:30 | GBP | Moderate | S&P Global Services PMI (Apr) |  | 50.0 | 50.5 |
+| 09:30 | HKD | Low | CPI (MoM) (Mar) |  |  | 0.50% |
+| 09:30 | HKD | Low | CPI (YoY) (Mar) |  |  | 1.70% |
+| 09:30 | HKD | Low | Unemployment Rate (Mar) |  |  | 3.8% |
+| 11:00 | GBP | Low | CBI Industrial Trends Orders (Apr) |  | -34 | -27 |
+| 13:00 | MXN | Low | 1st Half-Month Core CPI (Apr) |  |  | 0.22% |
+| 13:00 | MXN | Low | 1st Half-Month CPI (Apr) |  |  | 0.62% |
+| 13:00 | MXN | Low | Retail Sales (YoY) (Feb) |  |  | 5.0% |
+| 13:00 | MXN | Low | Retail Sales (MoM) (Feb) |  |  | 1.0% |
+| 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
+| 13:30 | USD | Low | Chicago Fed National Activity (Mar) |  |  | -0.11 |
+| 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,818K |
+| 13:30 | USD | High | Initial Jobless Claims |  | 212K | 207K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 209.75K |
+| 13:30 | CAD | Low | IPPI (MoM) (Mar) |  | 1.8% | 0.4% |
+| 13:30 | CAD | Low | IPPI (YoY) (Mar) |  |  | 5.4% |
+| 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Mar) |  |  | 0.3% |
+| 13:30 | CAD | Low | RMPI (YoY) (Mar) |  |  | 8.6% |
+| 13:30 | CAD | Moderate | RMPI (MoM) (Mar) |  | 9.5% | 0.6% |
+| 13:30 | INR | Low | M3 Money Supply |  |  | 13.0% |
+| 14:45 | USD | High | S&P Global Manufacturing PMI (Apr) |  | 52.5 | 52.3 |
+| 14:45 | USD | Moderate | S&P Global Composite PMI (Apr) |  |  | 50.3 |
+| 14:45 | USD | High | S&P Global Services PMI (Apr) |  | 50.1 | 49.8 |
+| 15:00 | CNY | Low | FDI (Mar) |  |  | -5.70% |
+| 15:30 | USD | Low | Natural Gas Storage |  |  | 59B |
+| 15:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 16:00 | USD | Low | KC Fed Composite Index (Apr) |  |  | 11 |
+| 16:00 | USD | Low | KC Fed Manufacturing Index (Apr) |  |  | 11 |
+| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.595% |
+| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.615% |
+| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -1.303B |
+| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,706B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.980T |

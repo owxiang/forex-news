@@ -1,6 +1,7 @@
-## 22 April 2026 - High Impact Forex News
+## 23 April 2026 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | GBP | CPI (YoY) (Mar) | 3.3% | 3.3% | 3.0% |
-| 15:30 | USD | Crude Oil Inventories | 1.925M | -1.900M | -0.913M |
+| 13:30 | USD | Initial Jobless Claims |  | 212K | 207K |
+| 14:45 | USD | S&P Global Manufacturing PMI (Apr) |  | 52.5 | 52.3 |
+| 14:45 | USD | S&P Global Services PMI (Apr) |  | 50.1 | 49.8 |
