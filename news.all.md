@@ -11,8 +11,8 @@
 | 07:00 | GBP | Low | Core CPI (MoM) (Mar) | 0.4% | 0.5% | 0.6% |
 | 07:00 | GBP | Low | Core PPI Output (YoY) (Mar) | 2.0% |  | 2.0% |
 | 07:00 | GBP | Low | Core PPI Output (MoM) (Mar) | 0.2% |  | -0.7% |
-| 07:00 | GBP | Low | Core RPI (YoY) (Mar) | 4.0% |  | 3.5% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Mar) | 0.8% |  | 0.4% |
+| 07:00 | GBP | Low | Core RPI (YoY) (Mar) | 4.0% |  | 3.5% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Mar) | 0.7% | 0.6% | 0.4% |
 | 07:00 | GBP | High | CPI (YoY) (Mar) | 3.3% | 3.3% | 3.0% |
 | 07:00 | GBP | Low | CPI, n.s.a (Mar) | 141.00 |  | 140.10 |
@@ -28,12 +28,11 @@
 | 08:30 | IDR | Low | Lending Facility Rate (Apr) | 5.50% |  | 5.50% |
 | 08:30 | IDR | Low | Loans (YoY) (Mar) | 9.49% |  | 9.37% |
 | 08:40 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 09:00 | ZAR | Low | Core CPI (MoM) (Mar) |  |  | 0.7% |
-| 09:00 | ZAR | Low | Core CPI (YoY) (Mar) |  |  | 3.0% |
-| 09:00 | ZAR | Low | CPI (MoM) (Mar) |  |  | 0.4% |
-| 09:00 | ZAR | Low | CPI (YoY) (Mar) |  |  | 3.0% |
+| 09:00 | ZAR | Low | Core CPI (MoM) (Mar) | 0.8% |  | 0.7% |
+| 09:00 | ZAR | Low | Core CPI (YoY) (Mar) | 3.2% |  | 3.0% |
+| 09:00 | ZAR | Low | CPI (MoM) (Mar) | 0.6% |  | 0.4% |
+| 09:00 | ZAR | Low | CPI (YoY) (Mar) | 3.1% | 3.1% | 3.0% |
 | 09:05 | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 09:30 | GBP | Low | House Price Index (YoY) |  | 1.5% | 1.3% |
 | 10:00 | EUR | Low | Government Budget to GDP |  |  | -3.1% |
 | 10:00 | EUR | Low | Government Debt to GDP |  |  | 87.4% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |

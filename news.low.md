@@ -8,8 +8,8 @@
 | 07:00 | GBP | Core CPI (MoM) (Mar) | 0.4% | 0.5% | 0.6% |
 | 07:00 | GBP | Core PPI Output (YoY) (Mar) | 2.0% |  | 2.0% |
 | 07:00 | GBP | Core PPI Output (MoM) (Mar) | 0.2% |  | -0.7% |
-| 07:00 | GBP | Core RPI (YoY) (Mar) | 4.0% |  | 3.5% |
 | 07:00 | GBP | Core RPI (MoM) (Mar) | 0.8% |  | 0.4% |
+| 07:00 | GBP | Core RPI (YoY) (Mar) | 4.0% |  | 3.5% |
 | 07:00 | GBP | CPI, n.s.a (Mar) | 141.00 |  | 140.10 |
 | 07:00 | GBP | PPI Input (YoY) (Mar) | 5.4% |  | 0.7% |
 | 07:00 | GBP | PPI Output (YoY) (Mar) | 2.6% |  | 1.8% |
@@ -19,12 +19,11 @@
 | 08:30 | IDR | Deposit Facility Rate (Apr) | 3.75% |  | 3.75% |
 | 08:30 | IDR | Lending Facility Rate (Apr) | 5.50% |  | 5.50% |
 | 08:30 | IDR | Loans (YoY) (Mar) | 9.49% |  | 9.37% |
-| 09:00 | ZAR | Core CPI (MoM) (Mar) |  |  | 0.7% |
-| 09:00 | ZAR | Core CPI (YoY) (Mar) |  |  | 3.0% |
-| 09:00 | ZAR | CPI (MoM) (Mar) |  |  | 0.4% |
-| 09:00 | ZAR | CPI (YoY) (Mar) |  |  | 3.0% |
+| 09:00 | ZAR | Core CPI (MoM) (Mar) | 0.8% |  | 0.7% |
+| 09:00 | ZAR | Core CPI (YoY) (Mar) | 3.2% |  | 3.0% |
+| 09:00 | ZAR | CPI (MoM) (Mar) | 0.6% |  | 0.4% |
+| 09:00 | ZAR | CPI (YoY) (Mar) | 3.1% | 3.1% | 3.0% |
 | 09:05 | GBP | BoE Breeden Speaks |  |  |  |
-| 09:30 | GBP | House Price Index (YoY) |  | 1.5% | 1.3% |
 | 10:00 | EUR | Government Budget to GDP |  |  | -3.1% |
 | 10:00 | EUR | Government Debt to GDP |  |  | 87.4% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
