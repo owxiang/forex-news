@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Imports (YoY) (Mar) | 10.9% | 7.1% | 10.3% |
-| 01:30 | AUD | MI Leading Index (MoM) (Mar) | -0.1% |  | -0.1% |
+| 02:00 | AUD | MI Leading Index (MoM) (Mar) | -0.1% |  | -0.1% |
 | 07:00 | GBP | Core CPI (YoY) (Mar) |  | 3.2% | 3.2% |
 | 07:00 | GBP | Core CPI (MoM) (Mar) |  | 0.5% | 0.6% |
 | 07:00 | GBP | Core PPI Output (YoY) (Mar) |  |  | 1.9% |
