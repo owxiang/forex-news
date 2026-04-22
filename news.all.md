@@ -57,7 +57,7 @@
 | 15:30 | USD | Low | Heating Oil Stockpiles | -0.328M |  | -0.463M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -0.5% |  | -2.4% |
 | 15:30 | USD | Low | Gasoline Inventories | -4.570M | -1.500M | -6.328M |
-| 18:00 | USD | Moderate | 20-Year Bond Auction |  |  | 4.817% |
+| 18:00 | USD | Moderate | 20-Year Bond Auction | 4.883% |  | 4.817% |
 | 18:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 18:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 22:00 | KRW | Low | Consumer Confidence (Apr) |  |  | 107.0 |
