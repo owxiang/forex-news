@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:50 | JPY | Moderate | Adjusted Trade Balance |  | 0.20T | -0.37T |
-| 00:50 | JPY | Moderate | Exports (YoY) (Mar) |  | 11.0% | 4.0% |
-| 00:50 | JPY | Low | Imports (YoY) (Mar) |  | 7.1% | 10.3% |
-| 00:50 | JPY | Moderate | Trade Balance (Mar) |  | 1,106.0B | 44.3B |
-| 02:00 | AUD | Low | MI Leading Index (MoM) (Mar) |  |  | -0.1% |
+| 00:50 | JPY | Moderate | Adjusted Trade Balance | 0.09T | 0.23T | -0.37T |
+| 00:50 | JPY | Moderate | Exports (YoY) (Mar) | 11.7% | 11.0% | 4.0% |
+| 00:50 | JPY | Low | Imports (YoY) (Mar) | 10.9% | 7.1% | 10.3% |
+| 00:50 | JPY | Moderate | Trade Balance (Mar) | 667.0B | 1,106.0B | 44.3B |
+| 01:30 | AUD | Low | MI Leading Index (MoM) (Mar) | -0.1% |  | -0.1% |
 | 07:00 | GBP | Low | Core CPI (YoY) (Mar) |  | 3.2% | 3.2% |
 | 07:00 | GBP | Low | Core CPI (MoM) (Mar) |  | 0.5% | 0.6% |
 | 07:00 | GBP | Low | Core PPI Output (YoY) (Mar) |  |  | 1.9% |

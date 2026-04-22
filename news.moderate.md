@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Adjusted Trade Balance |  | 0.20T | -0.37T |
-| 00:50 | JPY | Exports (YoY) (Mar) |  | 11.0% | 4.0% |
-| 00:50 | JPY | Trade Balance (Mar) |  | 1,106.0B | 44.3B |
+| 00:50 | JPY | Adjusted Trade Balance | 0.09T | 0.23T | -0.37T |
+| 00:50 | JPY | Exports (YoY) (Mar) | 11.7% | 11.0% | 4.0% |
+| 00:50 | JPY | Trade Balance (Mar) | 667.0B | 1,106.0B | 44.3B |
 | 07:00 | GBP | CPI (MoM) (Mar) |  | 0.6% | 0.4% |
 | 07:00 | GBP | PPI Input (MoM) (Mar) |  | 2.8% | 0.8% |
 | 08:00 | EUR | ECB's Elderson Speaks |  |  |  |
