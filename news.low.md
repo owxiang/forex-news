@@ -16,9 +16,9 @@
 | 07:00 | GBP | PPI Output (MoM) (Mar) | 0.9% | 1.0% | -0.5% |
 | 07:00 | GBP | RPI (YoY) (Mar) | 4.1% | 3.9% | 3.6% |
 | 07:00 | GBP | RPI (MoM) (Mar) | 0.8% | 0.7% | 0.4% |
-| 42 min | IDR | Deposit Facility Rate (Apr) |  |  | 3.75% |
-| 42 min | IDR | Lending Facility Rate (Apr) |  |  | 5.50% |
-| 42 min | IDR | Loans (YoY) (Mar) |  |  | 9.37% |
+| 08:30 | IDR | Deposit Facility Rate (Apr) | 3.75% |  | 3.75% |
+| 08:30 | IDR | Lending Facility Rate (Apr) | 5.50% |  | 5.50% |
+| 08:30 | IDR | Loans (YoY) (Mar) | 9.49% |  | 9.37% |
 | 09:00 | ZAR | Core CPI (MoM) (Mar) |  |  | 0.7% |
 | 09:00 | ZAR | Core CPI (YoY) (Mar) |  |  | 3.0% |
 | 09:00 | ZAR | CPI (MoM) (Mar) |  |  | 0.4% |

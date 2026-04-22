@@ -22,12 +22,12 @@
 | 07:00 | GBP | Low | PPI Output (MoM) (Mar) | 0.9% | 1.0% | -0.5% |
 | 07:00 | GBP | Low | RPI (YoY) (Mar) | 4.1% | 3.9% | 3.6% |
 | 07:00 | GBP | Low | RPI (MoM) (Mar) | 0.8% | 0.7% | 0.4% |
-| 12 min | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 42 min | IDR | Moderate | Interest Rate Decision |  | 4.75% | 4.75% |
-| 42 min | IDR | Low | Deposit Facility Rate (Apr) |  |  | 3.75% |
-| 42 min | IDR | Low | Lending Facility Rate (Apr) |  |  | 5.50% |
-| 42 min | IDR | Low | Loans (YoY) (Mar) |  |  | 9.37% |
-| 52 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 08:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 08:30 | IDR | Moderate | Interest Rate Decision | 4.75% | 4.75% | 4.75% |
+| 08:30 | IDR | Low | Deposit Facility Rate (Apr) | 3.75% |  | 3.75% |
+| 08:30 | IDR | Low | Lending Facility Rate (Apr) | 5.50% |  | 5.50% |
+| 08:30 | IDR | Low | Loans (YoY) (Mar) | 9.49% |  | 9.37% |
+| 08:40 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 09:00 | ZAR | Low | Core CPI (MoM) (Mar) |  |  | 0.7% |
 | 09:00 | ZAR | Low | Core CPI (YoY) (Mar) |  |  | 3.0% |
 | 09:00 | ZAR | Low | CPI (MoM) (Mar) |  |  | 0.4% |
