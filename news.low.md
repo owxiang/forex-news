@@ -27,12 +27,12 @@
 | 10:00 | EUR | Government Budget to GDP | -2.9% |  | -3.0% |
 | 10:00 | EUR | Government Debt to GDP | 87.8% |  | 87.0% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.42% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 1.8% |
-| 12:00 | USD | MBA Purchase Index |  |  | 159.5 |
-| 12:00 | USD | Mortgage Market Index |  |  | 281.0 |
-| 12:00 | USD | Mortgage Refinance Index |  |  | 966.8 |
-| 12:00 | ZAR | Retail Sales (YoY) (Feb) |  |  | 4.2% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.35% |  | 6.42% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | 7.9% |  | 1.8% |
+| 12:00 | USD | MBA Purchase Index | 175.6 |  | 159.5 |
+| 12:00 | USD | Mortgage Market Index | 303.3 |  | 281.0 |
+| 12:00 | USD | Mortgage Refinance Index | 1,023.1 |  | 966.8 |
+| 12:00 | ZAR | Retail Sales (YoY) (Feb) | 1.6% |  | 4.4% |
 | 12:30 | INR | M3 Money Supply |  |  | 13.0% |
 | 15:00 | CNY | FDI (Mar) |  |  | -5.70% |
 | 15:00 | EUR | Consumer Confidence (Apr) |  | -17.0 | -16.3 |

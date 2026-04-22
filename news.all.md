@@ -36,12 +36,12 @@
 | 10:00 | EUR | Low | Government Budget to GDP | -2.9% |  | -3.0% |
 | 10:00 | EUR | Low | Government Debt to GDP | 87.8% |  | 87.0% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.42% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 1.8% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 159.5 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 281.0 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 966.8 |
-| 12:00 | ZAR | Low | Retail Sales (YoY) (Feb) |  |  | 4.2% |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.35% |  | 6.42% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | 7.9% |  | 1.8% |
+| 12:00 | USD | Low | MBA Purchase Index | 175.6 |  | 159.5 |
+| 12:00 | USD | Low | Mortgage Market Index | 303.3 |  | 281.0 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 1,023.1 |  | 966.8 |
+| 12:00 | ZAR | Low | Retail Sales (YoY) (Feb) | 1.6% |  | 4.4% |
 | 12:30 | INR | Low | M3 Money Supply |  |  | 13.0% |
 | 12:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Mar) |  | 0.2% | 0.3% |
