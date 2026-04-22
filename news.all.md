@@ -11,28 +11,29 @@
 | 07:00 | GBP | Low | Core CPI (MoM) (Mar) | 0.4% | 0.5% | 0.6% |
 | 07:00 | GBP | Low | Core PPI Output (YoY) (Mar) | 2.0% |  | 2.0% |
 | 07:00 | GBP | Low | Core PPI Output (MoM) (Mar) | 0.2% |  | -0.7% |
-| 07:00 | GBP | Low | Core RPI (MoM) (Mar) | 0.8% |  | 0.4% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Mar) | 4.0% |  | 3.5% |
+| 07:00 | GBP | Low | Core RPI (MoM) (Mar) | 0.8% |  | 0.4% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Mar) | 0.7% | 0.6% | 0.4% |
 | 07:00 | GBP | High | CPI (YoY) (Mar) | 3.3% | 3.3% | 3.0% |
 | 07:00 | GBP | Low | CPI, n.s.a (Mar) | 141.00 |  | 140.10 |
-| 07:00 | GBP | Moderate | PPI Input (MoM) (Mar) | 4.4% | 2.8% | 0.9% |
+| 07:00 | GBP | Moderate | PPI Input (MoM) (Mar) | 4.4% | 2.9% | 0.9% |
 | 07:00 | GBP | Low | PPI Input (YoY) (Mar) | 5.4% |  | 0.7% |
-| 07:00 | GBP | Low | PPI Output (YoY) (Mar) | 2.6% |  | 1.8% |
 | 07:00 | GBP | Low | PPI Output (MoM) (Mar) | 0.9% | 1.0% | -0.5% |
-| 07:00 | GBP | Low | RPI (YoY) (Mar) | 4.1% | 3.9% | 3.6% |
+| 07:00 | GBP | Low | PPI Output (YoY) (Mar) | 2.6% |  | 1.8% |
 | 07:00 | GBP | Low | RPI (MoM) (Mar) | 0.8% | 0.7% | 0.4% |
+| 07:00 | GBP | Low | RPI (YoY) (Mar) | 4.1% | 3.9% | 3.6% |
 | 08:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 08:30 | IDR | Moderate | Interest Rate Decision | 4.75% | 4.75% | 4.75% |
 | 08:30 | IDR | Low | Deposit Facility Rate (Apr) | 3.75% |  | 3.75% |
 | 08:30 | IDR | Low | Lending Facility Rate (Apr) | 5.50% |  | 5.50% |
 | 08:30 | IDR | Low | Loans (YoY) (Mar) | 9.49% |  | 9.37% |
 | 08:40 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 09:00 | ZAR | Low | Core CPI (MoM) (Mar) | 0.8% |  | 0.7% |
 | 09:00 | ZAR | Low | Core CPI (YoY) (Mar) | 3.2% |  | 3.0% |
+| 09:00 | ZAR | Low | Core CPI (MoM) (Mar) | 0.8% |  | 0.7% |
 | 09:00 | ZAR | Low | CPI (MoM) (Mar) | 0.6% |  | 0.4% |
 | 09:00 | ZAR | Low | CPI (YoY) (Mar) | 3.1% | 3.1% | 3.0% |
 | 09:05 | GBP | Low | BoE Breeden Speaks |  |  |  |
+| 09:30 | GBP | Low | House Price Index (YoY) | 1.2% | 0.9% | 1.0% |
 | 10:00 | EUR | Low | Government Budget to GDP | -2.9% |  | -3.0% |
 | 10:00 | EUR | Low | Government Debt to GDP | 87.8% |  | 87.0% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
@@ -44,22 +45,19 @@
 | 12:00 | ZAR | Low | Retail Sales (YoY) (Feb) | 1.6% | 4.8% | 4.4% |
 | 12:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Mar) | -0.2% | 0.2% | 0.3% |
-| 13:30 | INR | Low | M3 Money Supply |  |  | 13.0% |
 | 14:15 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 15:00 | CNY | Low | FDI (Mar) |  |  | -5.70% |
-| 15:00 | EUR | Low | Consumer Confidence (Apr) |  | -17.0 | -16.3 |
-| 15:30 | USD | High | Crude Oil Inventories |  | -1.900M | -0.913M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.208M |
-| 15:30 | USD | Low | Crude Oil Imports |  |  | -2.109M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -1.727M |
-| 15:30 | USD | Low | Distillate Fuel Production |  |  | -0.169M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | -2.500M | -3.122M |
-| 15:30 | USD | Low | Gasoline Production |  |  | 0.392M |
-| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | -0.463M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -2.4% |
-| 15:30 | USD | Low | Gasoline Inventories |  | -1.500M | -6.328M |
+| 22 min | EUR | Low | Consumer Confidence (Apr) |  | -18.0 | -16.3 |
+| 52 min | USD | High | Crude Oil Inventories |  | -1.900M | -0.913M |
+| 52 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.208M |
+| 52 min | USD | Low | Crude Oil Imports |  |  | -2.109M |
+| 52 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -1.727M |
+| 52 min | USD | Low | Distillate Fuel Production |  |  | -0.169M |
+| 52 min | USD | Low | EIA Weekly Distillates Stocks |  | -2.500M | -3.122M |
+| 52 min | USD | Low | Gasoline Production |  |  | 0.392M |
+| 52 min | USD | Low | Heating Oil Stockpiles |  |  | -0.463M |
+| 52 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -2.4% |
+| 52 min | USD | Low | Gasoline Inventories |  | -1.500M | -6.328M |
 | 18:00 | USD | Moderate | 20-Year Bond Auction |  |  | 4.817% |
 | 18:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -1.303B |
 | 18:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 22:00 | KRW | Low | Consumer Confidence (Apr) |  |  | 107.0 |
