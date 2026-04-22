@@ -7,27 +7,27 @@
 | 00:50 | JPY | Low | Imports (YoY) (Mar) | 10.9% | 7.1% | 10.3% |
 | 00:50 | JPY | Moderate | Trade Balance (Mar) | 667.0B | 1,106.0B | 44.3B |
 | 02:00 | AUD | Low | MI Leading Index (MoM) (Mar) | -0.1% |  | -0.1% |
-| 07:00 | GBP | Low | Core CPI (YoY) (Mar) |  | 3.2% | 3.2% |
-| 07:00 | GBP | Low | Core CPI (MoM) (Mar) |  | 0.5% | 0.6% |
-| 07:00 | GBP | Low | Core PPI Output (YoY) (Mar) |  |  | 1.9% |
-| 07:00 | GBP | Low | Core PPI Output (MoM) (Mar) |  |  | -0.8% |
-| 07:00 | GBP | Low | Core RPI (YoY) (Mar) |  |  | 3.5% |
-| 07:00 | GBP | Low | Core RPI (MoM) (Mar) |  |  | 0.4% |
-| 07:00 | GBP | Moderate | CPI (MoM) (Mar) |  | 0.6% | 0.4% |
-| 07:00 | GBP | High | CPI (YoY) (Mar) |  | 3.3% | 3.0% |
-| 07:00 | GBP | Low | CPI, n.s.a (Mar) |  |  | 140.10 |
-| 07:00 | GBP | Moderate | PPI Input (MoM) (Mar) |  | 2.8% | 0.8% |
-| 07:00 | GBP | Low | PPI Input (YoY) (Mar) |  |  | 0.5% |
-| 07:00 | GBP | Low | PPI Output (YoY) (Mar) |  |  | 1.7% |
-| 07:00 | GBP | Low | PPI Output (MoM) (Mar) |  | 1.0% | -0.5% |
-| 07:00 | GBP | Low | RPI (YoY) (Mar) |  | 3.9% | 3.6% |
-| 07:00 | GBP | Low | RPI (MoM) (Mar) |  | 0.7% | 0.4% |
-| 08:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 08:30 | IDR | Moderate | Interest Rate Decision |  | 4.75% | 4.75% |
-| 08:30 | IDR | Low | Deposit Facility Rate (Apr) |  |  | 3.75% |
-| 08:30 | IDR | Low | Lending Facility Rate (Apr) |  |  | 5.50% |
-| 08:30 | IDR | Low | Loans (YoY) (Mar) |  |  | 9.37% |
-| 08:40 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 07:00 | GBP | Low | Core CPI (YoY) (Mar) | 3.1% | 3.2% | 3.2% |
+| 07:00 | GBP | Low | Core CPI (MoM) (Mar) | 0.4% | 0.5% | 0.6% |
+| 07:00 | GBP | Low | Core PPI Output (YoY) (Mar) | 2.0% |  | 2.0% |
+| 07:00 | GBP | Low | Core PPI Output (MoM) (Mar) | 0.2% |  | -0.7% |
+| 07:00 | GBP | Low | Core RPI (YoY) (Mar) | 4.0% |  | 3.5% |
+| 07:00 | GBP | Low | Core RPI (MoM) (Mar) | 0.8% |  | 0.4% |
+| 07:00 | GBP | Moderate | CPI (MoM) (Mar) | 0.7% | 0.6% | 0.4% |
+| 07:00 | GBP | High | CPI (YoY) (Mar) | 3.3% | 3.3% | 3.0% |
+| 07:00 | GBP | Low | CPI, n.s.a (Mar) | 141.00 |  | 140.10 |
+| 07:00 | GBP | Moderate | PPI Input (MoM) (Mar) | 4.4% | 2.8% | 0.9% |
+| 07:00 | GBP | Low | PPI Input (YoY) (Mar) | 5.4% |  | 0.7% |
+| 07:00 | GBP | Low | PPI Output (YoY) (Mar) | 2.6% |  | 1.8% |
+| 07:00 | GBP | Low | PPI Output (MoM) (Mar) | 0.9% | 1.0% | -0.5% |
+| 07:00 | GBP | Low | RPI (YoY) (Mar) | 4.1% | 3.9% | 3.6% |
+| 07:00 | GBP | Low | RPI (MoM) (Mar) | 0.8% | 0.7% | 0.4% |
+| 12 min | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 42 min | IDR | Moderate | Interest Rate Decision |  | 4.75% | 4.75% |
+| 42 min | IDR | Low | Deposit Facility Rate (Apr) |  |  | 3.75% |
+| 42 min | IDR | Low | Lending Facility Rate (Apr) |  |  | 5.50% |
+| 42 min | IDR | Low | Loans (YoY) (Mar) |  |  | 9.37% |
+| 52 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 09:00 | ZAR | Low | Core CPI (MoM) (Mar) |  |  | 0.7% |
 | 09:00 | ZAR | Low | Core CPI (YoY) (Mar) |  |  | 3.0% |
 | 09:00 | ZAR | Low | CPI (MoM) (Mar) |  |  | 0.4% |

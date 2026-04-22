@@ -4,21 +4,21 @@
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Imports (YoY) (Mar) | 10.9% | 7.1% | 10.3% |
 | 02:00 | AUD | MI Leading Index (MoM) (Mar) | -0.1% |  | -0.1% |
-| 07:00 | GBP | Core CPI (YoY) (Mar) |  | 3.2% | 3.2% |
-| 07:00 | GBP | Core CPI (MoM) (Mar) |  | 0.5% | 0.6% |
-| 07:00 | GBP | Core PPI Output (YoY) (Mar) |  |  | 1.9% |
-| 07:00 | GBP | Core PPI Output (MoM) (Mar) |  |  | -0.8% |
-| 07:00 | GBP | Core RPI (YoY) (Mar) |  |  | 3.5% |
-| 07:00 | GBP | Core RPI (MoM) (Mar) |  |  | 0.4% |
-| 07:00 | GBP | CPI, n.s.a (Mar) |  |  | 140.10 |
-| 07:00 | GBP | PPI Input (YoY) (Mar) |  |  | 0.5% |
-| 07:00 | GBP | PPI Output (YoY) (Mar) |  |  | 1.7% |
-| 07:00 | GBP | PPI Output (MoM) (Mar) |  | 1.0% | -0.5% |
-| 07:00 | GBP | RPI (YoY) (Mar) |  | 3.9% | 3.6% |
-| 07:00 | GBP | RPI (MoM) (Mar) |  | 0.7% | 0.4% |
-| 08:30 | IDR | Deposit Facility Rate (Apr) |  |  | 3.75% |
-| 08:30 | IDR | Lending Facility Rate (Apr) |  |  | 5.50% |
-| 08:30 | IDR | Loans (YoY) (Mar) |  |  | 9.37% |
+| 07:00 | GBP | Core CPI (YoY) (Mar) | 3.1% | 3.2% | 3.2% |
+| 07:00 | GBP | Core CPI (MoM) (Mar) | 0.4% | 0.5% | 0.6% |
+| 07:00 | GBP | Core PPI Output (YoY) (Mar) | 2.0% |  | 2.0% |
+| 07:00 | GBP | Core PPI Output (MoM) (Mar) | 0.2% |  | -0.7% |
+| 07:00 | GBP | Core RPI (YoY) (Mar) | 4.0% |  | 3.5% |
+| 07:00 | GBP | Core RPI (MoM) (Mar) | 0.8% |  | 0.4% |
+| 07:00 | GBP | CPI, n.s.a (Mar) | 141.00 |  | 140.10 |
+| 07:00 | GBP | PPI Input (YoY) (Mar) | 5.4% |  | 0.7% |
+| 07:00 | GBP | PPI Output (YoY) (Mar) | 2.6% |  | 1.8% |
+| 07:00 | GBP | PPI Output (MoM) (Mar) | 0.9% | 1.0% | -0.5% |
+| 07:00 | GBP | RPI (YoY) (Mar) | 4.1% | 3.9% | 3.6% |
+| 07:00 | GBP | RPI (MoM) (Mar) | 0.8% | 0.7% | 0.4% |
+| 42 min | IDR | Deposit Facility Rate (Apr) |  |  | 3.75% |
+| 42 min | IDR | Lending Facility Rate (Apr) |  |  | 5.50% |
+| 42 min | IDR | Loans (YoY) (Mar) |  |  | 9.37% |
 | 09:00 | ZAR | Core CPI (MoM) (Mar) |  |  | 0.7% |
 | 09:00 | ZAR | Core CPI (YoY) (Mar) |  |  | 3.0% |
 | 09:00 | ZAR | CPI (MoM) (Mar) |  |  | 0.4% |
