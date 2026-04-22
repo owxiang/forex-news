@@ -43,4 +43,4 @@
 | 15:30 | USD | Heating Oil Stockpiles | -0.328M |  | -0.463M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.5% |  | -2.4% |
 | 15:30 | USD | Gasoline Inventories | -4.570M | -1.500M | -6.328M |
-| 34 min | KRW | Consumer Confidence (Apr) |  |  | 107.0 |
+| 22:00 | KRW | Consumer Confidence (Apr) | 99.2 |  | 107.0 |
