@@ -33,8 +33,8 @@
 | 09:00 | ZAR | Low | CPI (MoM) (Mar) | 0.6% |  | 0.4% |
 | 09:00 | ZAR | Low | CPI (YoY) (Mar) | 3.1% | 3.1% | 3.0% |
 | 09:05 | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 10:00 | EUR | Low | Government Budget to GDP |  |  | -3.1% |
-| 10:00 | EUR | Low | Government Debt to GDP |  |  | 87.4% |
+| 10:00 | EUR | Low | Government Budget to GDP | -2.9% |  | -3.0% |
+| 10:00 | EUR | Low | Government Debt to GDP | 87.8% |  | 87.0% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.42% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 1.8% |
