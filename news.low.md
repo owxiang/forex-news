@@ -34,13 +34,13 @@
 | 12:00 | USD | Mortgage Market Index | 303.3 |  | 281.0 |
 | 12:00 | USD | Mortgage Refinance Index | 1,023.1 |  | 966.8 |
 | 12:00 | ZAR | Retail Sales (YoY) (Feb) | 1.6% | 4.8% | 4.4% |
-| 22 min | EUR | Consumer Confidence (Apr) |  | -18.0 | -16.3 |
-| 52 min | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.208M |
-| 52 min | USD | Crude Oil Imports |  |  | -2.109M |
-| 52 min | USD | Distillate Fuel Production |  |  | -0.169M |
-| 52 min | USD | EIA Weekly Distillates Stocks |  | -2.500M | -3.122M |
-| 52 min | USD | Gasoline Production |  |  | 0.392M |
-| 52 min | USD | Heating Oil Stockpiles |  |  | -0.463M |
-| 52 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -2.4% |
-| 52 min | USD | Gasoline Inventories |  | -1.500M | -6.328M |
+| 15:00 | EUR | Consumer Confidence (Apr) | -20.6 | -18.0 | -16.4 |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) | -0.055M |  | -0.208M |
+| 15:30 | USD | Crude Oil Imports | 1.214M |  | -2.109M |
+| 15:30 | USD | Distillate Fuel Production | 0.087M |  | -0.169M |
+| 15:30 | USD | EIA Weekly Distillates Stocks | -3.427M | -2.500M | -3.122M |
+| 15:30 | USD | Gasoline Production | 0.315M |  | 0.392M |
+| 15:30 | USD | Heating Oil Stockpiles | -0.328M |  | -0.463M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.5% |  | -2.4% |
+| 15:30 | USD | Gasoline Inventories | -4.570M | -1.500M | -6.328M |
 | 22:00 | KRW | Consumer Confidence (Apr) |  |  | 107.0 |

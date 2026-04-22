@@ -13,7 +13,7 @@
 | 12:30 | INR | RBI MPC Meeting Minutes |  |  |  |
 | 13:30 | CAD | New Housing Price Index (MoM) (Mar) | -0.2% | 0.2% | 0.3% |
 | 14:15 | EUR | ECB's Lane Speaks |  |  |  |
-| 52 min | USD | Cushing Crude Oil Inventories |  |  | -1.727M |
+| 15:30 | USD | Cushing Crude Oil Inventories | 0.806M |  | -1.727M |
 | 18:00 | USD | 20-Year Bond Auction |  |  | 4.817% |
 | 18:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 18:30 | EUR | ECB President Lagarde Speaks |  |  |  |

@@ -46,17 +46,17 @@
 | 12:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Mar) | -0.2% | 0.2% | 0.3% |
 | 14:15 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 22 min | EUR | Low | Consumer Confidence (Apr) |  | -18.0 | -16.3 |
-| 52 min | USD | High | Crude Oil Inventories |  | -1.900M | -0.913M |
-| 52 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.208M |
-| 52 min | USD | Low | Crude Oil Imports |  |  | -2.109M |
-| 52 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -1.727M |
-| 52 min | USD | Low | Distillate Fuel Production |  |  | -0.169M |
-| 52 min | USD | Low | EIA Weekly Distillates Stocks |  | -2.500M | -3.122M |
-| 52 min | USD | Low | Gasoline Production |  |  | 0.392M |
-| 52 min | USD | Low | Heating Oil Stockpiles |  |  | -0.463M |
-| 52 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -2.4% |
-| 52 min | USD | Low | Gasoline Inventories |  | -1.500M | -6.328M |
+| 15:00 | EUR | Low | Consumer Confidence (Apr) | -20.6 | -18.0 | -16.4 |
+| 15:30 | USD | High | Crude Oil Inventories | 1.925M | -1.900M | -0.913M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | -0.055M |  | -0.208M |
+| 15:30 | USD | Low | Crude Oil Imports | 1.214M |  | -2.109M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | 0.806M |  | -1.727M |
+| 15:30 | USD | Low | Distillate Fuel Production | 0.087M |  | -0.169M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks | -3.427M | -2.500M | -3.122M |
+| 15:30 | USD | Low | Gasoline Production | 0.315M |  | 0.392M |
+| 15:30 | USD | Low | Heating Oil Stockpiles | -0.328M |  | -0.463M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -0.5% |  | -2.4% |
+| 15:30 | USD | Low | Gasoline Inventories | -4.570M | -1.500M | -6.328M |
 | 18:00 | USD | Moderate | 20-Year Bond Auction |  |  | 4.817% |
 | 18:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 18:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
