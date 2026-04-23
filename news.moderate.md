@@ -5,11 +5,11 @@
 | 01:30 | JPY | S&P Global Services PMI (Apr) | 51.2 |  | 53.4 |
 | 06:00 | SGD | Core CPI (YoY) (Mar) | 1.70% |  | 1.40% |
 | 06:00 | SGD | CPI (YoY) (Mar) | 1.8% |  | 1.2% |
-| 08:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
-| 08:15 | EUR | HCOB France Manufacturing PMI (Apr) |  | 49.5 | 50.0 |
-| 08:15 | EUR | HCOB France Services PMI (Apr) |  | 48.5 | 48.8 |
-| 08:30 | EUR | HCOB Germany Manufacturing PMI (Apr) |  | 51.4 | 52.2 |
-| 08:30 | EUR | HCOB Germany Services PMI (Apr) |  | 50.4 | 50.9 |
+| 12 min | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
+| 27 min | EUR | HCOB France Manufacturing PMI (Apr) |  | 49.5 | 50.0 |
+| 27 min | EUR | HCOB France Services PMI (Apr) |  | 48.5 | 48.8 |
+| 42 min | EUR | HCOB Germany Manufacturing PMI (Apr) |  | 51.4 | 52.2 |
+| 42 min | EUR | HCOB Germany Services PMI (Apr) |  | 50.4 | 50.9 |
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Apr) |  | 50.9 | 51.6 |
 | 09:00 | EUR | HCOB Eurozone Composite PMI (Apr) |  | 50.2 | 50.7 |
 | 09:00 | EUR | HCOB Eurozone Services PMI (Apr) |  | 49.8 | 50.2 |

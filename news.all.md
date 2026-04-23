@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | KRW | Low | GDP (YoY) (Q1) | 3.6% | 2.7% | 1.6% |
-| 00:00 | KRW | Low | GDP (QoQ) (Q1) | 1.7% | 0.9% | -0.2% |
+| 00:00 | KRW | Low | GDP (QoQ) (Q1) | 1.7% | 1.0% | -0.2% |
 | 00:00 | AUD | Low | S&P Global Manufacturing & Services PMI (Apr) | 50.10 |  | 46.60 |
 | 00:00 | AUD | Low | S&P Global Manufacturing PMI (Apr) | 51.0 |  | 49.8 |
 | 00:00 | AUD | Low | S&P Global Services PMI (Apr) | 50.3 |  | 46.3 |
@@ -28,19 +28,19 @@
 | 06:00 | SGD | Moderate | Core CPI (YoY) (Mar) | 1.70% |  | 1.40% |
 | 06:00 | SGD | Low | CPI (MoM) (Mar) | 0.50% |  | 0.60% |
 | 06:00 | SGD | Moderate | CPI (YoY) (Mar) | 1.8% |  | 1.2% |
-| 07:00 | GBP | Low | Public Sector Net Borrowing |  | 10.40B | 14.30B |
-| 07:00 | GBP | Low | Public Sector Net Cash Requirement (Mar) |  |  | 7.610B |
-| 07:00 | NOK | Low | Industrial Confidence (Q1) |  |  | 2.6 |
-| 07:00 | NOK | Low | Unemployment Rate (Mar) |  |  | 4.9% |
-| 07:45 | EUR | Low | French Business Survey (Apr) |  | 99 | 99 |
-| 08:00 | CHF | Low | M3 Money Supply (Mar) |  |  | 1,216.0B |
-| 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
-| 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Apr) |  | 49.5 | 50.0 |
-| 08:15 | EUR | Low | HCOB France Composite PMI (Apr) |  | 48.6 | 48.8 |
-| 08:15 | EUR | Moderate | HCOB France Services PMI (Apr) |  | 48.5 | 48.8 |
-| 08:30 | EUR | Low | HCOB Germany Composite PMI (Apr) |  | 51.1 | 51.9 |
-| 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Apr) |  | 51.4 | 52.2 |
-| 08:30 | EUR | Moderate | HCOB Germany Services PMI (Apr) |  | 50.4 | 50.9 |
+| 07:00 | GBP | Low | Public Sector Net Borrowing | 12.60B | 10.40B | 14.30B |
+| 07:00 | GBP | Low | Public Sector Net Cash Requirement (Mar) | 28.519B |  | 7.543B |
+| 07:00 | NOK | Low | Industrial Confidence (Q1) | 1.2 |  | 2.6 |
+| 07:00 | NOK | Low | Unemployment Rate (Mar) | 4.9% |  | 4.9% |
+| 07:45 | EUR | Low | French Business Survey (Apr) | 100 | 99 | 99 |
+| 12 min | CHF | Low | M3 Money Supply (Mar) |  |  | 1,216.0B |
+| 12 min | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
+| 27 min | EUR | Moderate | HCOB France Manufacturing PMI (Apr) |  | 49.5 | 50.0 |
+| 27 min | EUR | Low | HCOB France Composite PMI (Apr) |  | 48.6 | 48.8 |
+| 27 min | EUR | Moderate | HCOB France Services PMI (Apr) |  | 48.5 | 48.8 |
+| 42 min | EUR | Low | HCOB Germany Composite PMI (Apr) |  | 51.1 | 51.9 |
+| 42 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Apr) |  | 51.4 | 52.2 |
+| 42 min | EUR | Moderate | HCOB Germany Services PMI (Apr) |  | 50.4 | 50.9 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Apr) |  | 50.9 | 51.6 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Apr) |  | 50.2 | 50.7 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Apr) |  | 49.8 | 50.2 |

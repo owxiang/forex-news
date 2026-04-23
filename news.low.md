@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | KRW | GDP (YoY) (Q1) | 3.6% | 2.7% | 1.6% |
-| 00:00 | KRW | GDP (QoQ) (Q1) | 1.7% | 0.9% | -0.2% |
+| 00:00 | KRW | GDP (QoQ) (Q1) | 1.7% | 1.0% | -0.2% |
 | 00:00 | AUD | S&P Global Manufacturing & Services PMI (Apr) | 50.10 |  | 46.60 |
 | 00:00 | AUD | S&P Global Manufacturing PMI (Apr) | 51.0 |  | 49.8 |
 | 00:00 | AUD | S&P Global Services PMI (Apr) | 50.3 |  | 46.3 |
@@ -25,14 +25,14 @@
 | 06:00 | INR | HSBC India Services PMI (Apr) | 57.9 |  | 57.5 |
 | 06:00 | INR | HSBC Manufacturing & Services PMI (Apr) | 58.30 |  | 57.00 |
 | 06:00 | SGD | CPI (MoM) (Mar) | 0.50% |  | 0.60% |
-| 07:00 | GBP | Public Sector Net Borrowing |  | 10.40B | 14.30B |
-| 07:00 | GBP | Public Sector Net Cash Requirement (Mar) |  |  | 7.610B |
-| 07:00 | NOK | Industrial Confidence (Q1) |  |  | 2.6 |
-| 07:00 | NOK | Unemployment Rate (Mar) |  |  | 4.9% |
-| 07:45 | EUR | French Business Survey (Apr) |  | 99 | 99 |
-| 08:00 | CHF | M3 Money Supply (Mar) |  |  | 1,216.0B |
-| 08:15 | EUR | HCOB France Composite PMI (Apr) |  | 48.6 | 48.8 |
-| 08:30 | EUR | HCOB Germany Composite PMI (Apr) |  | 51.1 | 51.9 |
+| 07:00 | GBP | Public Sector Net Borrowing | 12.60B | 10.40B | 14.30B |
+| 07:00 | GBP | Public Sector Net Cash Requirement (Mar) | 28.519B |  | 7.543B |
+| 07:00 | NOK | Industrial Confidence (Q1) | 1.2 |  | 2.6 |
+| 07:00 | NOK | Unemployment Rate (Mar) | 4.9% |  | 4.9% |
+| 07:45 | EUR | French Business Survey (Apr) | 100 | 99 | 99 |
+| 12 min | CHF | M3 Money Supply (Mar) |  |  | 1,216.0B |
+| 27 min | EUR | HCOB France Composite PMI (Apr) |  | 48.6 | 48.8 |
+| 42 min | EUR | HCOB Germany Composite PMI (Apr) |  | 51.1 | 51.9 |
 | 09:30 | HKD | CPI (MoM) (Mar) |  |  | 0.50% |
 | 09:30 | HKD | CPI (YoY) (Mar) |  |  | 1.70% |
 | 09:30 | HKD | Unemployment Rate (Mar) |  |  | 3.8% |
