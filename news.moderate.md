@@ -17,9 +17,9 @@
 | 09:30 | GBP | S&P Global Manufacturing PMI (Apr) | 53.6 | 50.3 | 51.0 |
 | 09:30 | GBP | S&P Global Services PMI (Apr) | 52.0 | 50.0 | 50.5 |
 | 11:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims |  | 1,820K | 1,818K |
+| 13:30 | USD | Continuing Jobless Claims | 1,821K | 1,820K | 1,809K |
 | 13:30 | CAD | New Housing Price Index (MoM) (Mar) |  |  | 0.3% |
-| 13:30 | CAD | RMPI (MoM) (Mar) |  | 9.3% | 0.6% |
+| 13:30 | CAD | RMPI (MoM) (Mar) | 12.0% | 9.3% | 0.6% |
 | 14:45 | USD | S&P Global Composite PMI (Apr) |  |  | 50.3 |
 | 15:30 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,706B |

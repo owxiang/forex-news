@@ -15,12 +15,12 @@
 | 04:00 | IDR | M2 Money Supply (YoY) (Mar) | 9.70% |  | 8.70% |
 | 05:00 | GBP | Car Registration (YoY) (Mar) | 6.6% |  | 7.2% |
 | 05:00 | GBP | Car Registration (MoM) (Mar) | 322.4% |  | -37.5% |
-| 05:00 | EUR | Italian Car Registration (MoM) (Mar) | 17.8% |  | 10.7% |
 | 05:00 | EUR | Italian Car Registration (YoY) (Mar) | 7.6% |  | 14.0% |
-| 05:00 | EUR | German Car Registration (MoM) (Mar) | 39.2% |  | 8.9% |
+| 05:00 | EUR | Italian Car Registration (MoM) (Mar) | 17.8% |  | 10.7% |
 | 05:00 | EUR | German Car Registration (YoY) (Mar) | 16.0% |  | 3.8% |
-| 05:00 | EUR | French Car Registration (YoY) (Mar) | 12.9% |  | -14.7% |
+| 05:00 | EUR | German Car Registration (MoM) (Mar) | 39.2% |  | 8.9% |
 | 05:00 | EUR | French Car Registration (MoM) (Mar) | 43.8% |  | 12.7% |
+| 05:00 | EUR | French Car Registration (YoY) (Mar) | 12.9% |  | -14.7% |
 | 06:00 | INR | HSBC India Manufacturing PMI (Apr) | 55.9 |  | 53.9 |
 | 06:00 | INR | HSBC India Services PMI (Apr) | 57.9 |  | 57.5 |
 | 06:00 | INR | HSBC Manufacturing & Services PMI (Apr) | 58.30 |  | 57.00 |
@@ -36,17 +36,16 @@
 | 09:30 | HKD | CPI (YoY) (Mar) | 1.70% |  | 1.70% |
 | 09:30 | HKD | Unemployment Rate (Mar) | 3.7% |  | 3.8% |
 | 11:00 | GBP | CBI Industrial Trends Orders (Apr) | -38 | -34 | -27 |
-| 13:00 | MXN | 1st Half-Month Core CPI (Apr) |  | 0.20% | 0.22% |
-| 13:00 | MXN | 1st Half-Month CPI (Apr) |  | 0.08% | 0.62% |
-| 13:00 | MXN | Retail Sales (YoY) (Feb) |  | 4.1% | 5.0% |
-| 13:00 | MXN | Retail Sales (MoM) (Feb) |  | -0.1% | 1.0% |
+| 13:00 | MXN | 1st Half-Month Core CPI (Apr) | 0.18% | 0.20% | 0.22% |
+| 13:00 | MXN | 1st Half-Month CPI (Apr) | 0.11% | 0.08% | 0.62% |
+| 13:00 | MXN | Retail Sales (YoY) (Feb) | 3.1% | 4.1% | 5.0% |
+| 13:00 | MXN | Retail Sales (MoM) (Feb) | -0.9% | -0.1% | 1.0% |
 | 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
-| 13:30 | USD | Chicago Fed National Activity (Mar) |  |  | -0.11 |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 209.75K |
-| 13:30 | CAD | IPPI (MoM) (Mar) |  | 1.6% | 0.4% |
-| 13:30 | CAD | IPPI (YoY) (Mar) |  |  | 5.4% |
-| 13:30 | CAD | RMPI (YoY) (Mar) |  |  | 8.6% |
-| 15:00 | CNY | FDI (Mar) |  |  | -5.70% |
+| 13:30 | USD | Chicago Fed National Activity (Mar) | -0.20 |  | 0.03 |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 210.75K |  | 210.00K |
+| 13:30 | CAD | IPPI (MoM) (Mar) | 2.4% | 1.6% | 0.4% |
+| 13:30 | CAD | IPPI (YoY) (Mar) | 7.8% |  | 5.4% |
+| 13:30 | CAD | RMPI (YoY) (Mar) | 23.6% |  | 8.6% |
 | 15:30 | USD | Natural Gas Storage |  | 96B | 59B |
 | 16:00 | USD | KC Fed Composite Index (Apr) |  |  | 11 |
 | 16:00 | USD | KC Fed Manufacturing Index (Apr) |  |  | 11 |

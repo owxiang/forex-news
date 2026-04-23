@@ -16,12 +16,12 @@
 | 04:00 | IDR | Low | M2 Money Supply (YoY) (Mar) | 9.70% |  | 8.70% |
 | 05:00 | GBP | Low | Car Registration (YoY) (Mar) | 6.6% |  | 7.2% |
 | 05:00 | GBP | Low | Car Registration (MoM) (Mar) | 322.4% |  | -37.5% |
-| 05:00 | EUR | Low | Italian Car Registration (MoM) (Mar) | 17.8% |  | 10.7% |
 | 05:00 | EUR | Low | Italian Car Registration (YoY) (Mar) | 7.6% |  | 14.0% |
-| 05:00 | EUR | Low | German Car Registration (MoM) (Mar) | 39.2% |  | 8.9% |
+| 05:00 | EUR | Low | Italian Car Registration (MoM) (Mar) | 17.8% |  | 10.7% |
 | 05:00 | EUR | Low | German Car Registration (YoY) (Mar) | 16.0% |  | 3.8% |
-| 05:00 | EUR | Low | French Car Registration (YoY) (Mar) | 12.9% |  | -14.7% |
+| 05:00 | EUR | Low | German Car Registration (MoM) (Mar) | 39.2% |  | 8.9% |
 | 05:00 | EUR | Low | French Car Registration (MoM) (Mar) | 43.8% |  | 12.7% |
+| 05:00 | EUR | Low | French Car Registration (YoY) (Mar) | 12.9% |  | -14.7% |
 | 06:00 | INR | Low | HSBC India Manufacturing PMI (Apr) | 55.9 |  | 53.9 |
 | 06:00 | INR | Low | HSBC India Services PMI (Apr) | 57.9 |  | 57.5 |
 | 06:00 | INR | Low | HSBC Manufacturing & Services PMI (Apr) | 58.30 |  | 57.00 |
@@ -51,24 +51,23 @@
 | 09:30 | HKD | Low | Unemployment Rate (Mar) | 3.7% |  | 3.8% |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Apr) | -38 | -34 | -27 |
 | 11:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
-| 13:00 | MXN | Low | 1st Half-Month Core CPI (Apr) |  | 0.20% | 0.22% |
-| 13:00 | MXN | Low | 1st Half-Month CPI (Apr) |  | 0.08% | 0.62% |
-| 13:00 | MXN | Low | Retail Sales (YoY) (Feb) |  | 4.1% | 5.0% |
-| 13:00 | MXN | Low | Retail Sales (MoM) (Feb) |  | -0.1% | 1.0% |
+| 13:00 | MXN | Low | 1st Half-Month Core CPI (Apr) | 0.18% | 0.20% | 0.22% |
+| 13:00 | MXN | Low | 1st Half-Month CPI (Apr) | 0.11% | 0.08% | 0.62% |
+| 13:00 | MXN | Low | Retail Sales (YoY) (Feb) | 3.1% | 4.1% | 5.0% |
+| 13:00 | MXN | Low | Retail Sales (MoM) (Feb) | -0.9% | -0.1% | 1.0% |
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 13:30 | USD | Low | Chicago Fed National Activity (Mar) |  |  | -0.11 |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,820K | 1,818K |
-| 13:30 | USD | High | Initial Jobless Claims |  | 211K | 207K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 209.75K |
-| 13:30 | CAD | Low | IPPI (MoM) (Mar) |  | 1.6% | 0.4% |
-| 13:30 | CAD | Low | IPPI (YoY) (Mar) |  |  | 5.4% |
+| 13:30 | USD | Low | Chicago Fed National Activity (Mar) | -0.20 |  | 0.03 |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,821K | 1,820K | 1,809K |
+| 13:30 | USD | High | Initial Jobless Claims | 214K | 211K | 208K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 210.75K |  | 210.00K |
+| 13:30 | CAD | Low | IPPI (MoM) (Mar) | 2.4% | 1.6% | 0.4% |
+| 13:30 | CAD | Low | IPPI (YoY) (Mar) | 7.8% |  | 5.4% |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Mar) |  |  | 0.3% |
-| 13:30 | CAD | Low | RMPI (YoY) (Mar) |  |  | 8.6% |
-| 13:30 | CAD | Moderate | RMPI (MoM) (Mar) |  | 9.3% | 0.6% |
+| 13:30 | CAD | Low | RMPI (YoY) (Mar) | 23.6% |  | 8.6% |
+| 13:30 | CAD | Moderate | RMPI (MoM) (Mar) | 12.0% | 9.3% | 0.6% |
 | 14:45 | USD | High | S&P Global Manufacturing PMI (Apr) |  | 52.5 | 52.3 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Apr) |  |  | 50.3 |
 | 14:45 | USD | High | S&P Global Services PMI (Apr) |  | 50.5 | 49.8 |
-| 15:00 | CNY | Low | FDI (Mar) |  |  | -5.70% |
 | 15:30 | USD | Low | Natural Gas Storage |  | 96B | 59B |
 | 15:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 16:00 | USD | Low | KC Fed Composite Index (Apr) |  |  | 11 |
