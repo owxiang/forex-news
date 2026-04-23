@@ -3,7 +3,6 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:30 | JPY | S&P Global Services PMI (Apr) | 51.2 |  | 53.4 |
-| 02:30 | AUD | Unemployment Rate (Mar) |  |  | 4.3% |
 | 06:00 | SGD | Core CPI (YoY) (Mar) |  |  | 1.40% |
 | 06:00 | SGD | CPI (YoY) (Mar) |  |  | 1.2% |
 | 08:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |

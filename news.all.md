@@ -12,7 +12,6 @@
 | 01:30 | JPY | Low | Manufacturing & Services PMI (Apr) | 52.40 |  | 53.00 |
 | 01:30 | JPY | Low | S&P Global Manufacturing PMI (Apr) | 54.9 | 51.1 | 51.6 |
 | 01:30 | JPY | Moderate | S&P Global Services PMI (Apr) | 51.2 |  | 53.4 |
-| 02:30 | AUD | Moderate | Unemployment Rate (Mar) |  |  | 4.3% |
 | 04:00 | NZD | Low | Credit Card Spending (YoY) (Mar) |  |  | -1.1% |
 | 04:00 | IDR | Low | M2 Money Supply (YoY) (Mar) |  |  | 8.70% |
 | 05:00 | GBP | Low | Car Registration (YoY) (Mar) |  |  | 7.2% |
