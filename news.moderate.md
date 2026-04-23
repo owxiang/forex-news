@@ -16,7 +16,7 @@
 | 09:30 | GBP | S&P Global Composite PMI (Apr) | 52.0 | 49.8 | 50.3 |
 | 09:30 | GBP | S&P Global Manufacturing PMI (Apr) | 53.6 | 50.3 | 51.0 |
 | 09:30 | GBP | S&P Global Services PMI (Apr) | 52.0 | 50.0 | 50.5 |
-| 20 min | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
+| 11:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,820K | 1,818K |
 | 13:30 | CAD | New Housing Price Index (MoM) (Mar) |  |  | 0.3% |
 | 13:30 | CAD | RMPI (MoM) (Mar) |  | 9.3% | 0.6% |
