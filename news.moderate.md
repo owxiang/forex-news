@@ -21,4 +21,4 @@
 | 13:30 | CAD | RMPI (MoM) (Mar) | 12.0% | 9.3% | 0.9% |
 | 14:45 | USD | S&P Global Composite PMI (Apr) | 52.0 | 50.6 | 50.3 |
 | 15:30 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 4 min | USD | Fed's Balance Sheet |  |  | 6,706B |
+| 21:30 | USD | Fed's Balance Sheet | 6,707B |  | 6,706B |
