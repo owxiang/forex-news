@@ -35,7 +35,7 @@
 | 09:30 | HKD | CPI (MoM) (Mar) | 0.00% |  | 0.50% |
 | 09:30 | HKD | CPI (YoY) (Mar) | 1.70% |  | 1.70% |
 | 09:30 | HKD | Unemployment Rate (Mar) | 3.7% |  | 3.8% |
-| 11:00 | GBP | CBI Industrial Trends Orders (Apr) |  | -34 | -27 |
+| 20 min | GBP | CBI Industrial Trends Orders (Apr) |  | -34 | -27 |
 | 13:00 | MXN | 1st Half-Month Core CPI (Apr) |  | 0.20% | 0.22% |
 | 13:00 | MXN | 1st Half-Month CPI (Apr) |  | 0.08% | 0.62% |
 | 13:00 | MXN | Retail Sales (YoY) (Feb) |  | 4.1% | 5.0% |

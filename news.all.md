@@ -49,8 +49,8 @@
 | 09:30 | HKD | Low | CPI (MoM) (Mar) | 0.00% |  | 0.50% |
 | 09:30 | HKD | Low | CPI (YoY) (Mar) | 1.70% |  | 1.70% |
 | 09:30 | HKD | Low | Unemployment Rate (Mar) | 3.7% |  | 3.8% |
-| 11:00 | GBP | Low | CBI Industrial Trends Orders (Apr) |  | -34 | -27 |
-| 11:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
+| 20 min | GBP | Low | CBI Industrial Trends Orders (Apr) |  | -34 | -27 |
+| 20 min | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 13:00 | MXN | Low | 1st Half-Month Core CPI (Apr) |  | 0.20% | 0.22% |
 | 13:00 | MXN | Low | 1st Half-Month CPI (Apr) |  | 0.08% | 0.62% |
 | 13:00 | MXN | Low | Retail Sales (YoY) (Feb) |  | 4.1% | 5.0% |
