@@ -1,55 +1,36 @@
-## 23 April 2026 - Low Impact Forex News
+## 24 April 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | GDP (YoY) (Q1) | 3.6% | 2.7% | 1.6% |
-| 00:00 | KRW | GDP (QoQ) (Q1) | 1.7% | 1.0% | -0.2% |
-| 00:00 | AUD | S&P Global Manufacturing & Services PMI (Apr) | 50.10 |  | 46.60 |
-| 00:00 | AUD | S&P Global Manufacturing PMI (Apr) | 51.0 |  | 49.8 |
-| 00:00 | AUD | S&P Global Services PMI (Apr) | 50.3 |  | 46.3 |
-| 00:50 | JPY | Foreign Bonds Buying | -12.8B |  | 698.2B |
-| 00:50 | JPY | Foreign Investments in Japanese Stocks | 2,380.9B |  | 3,941.4B |
-| 01:30 | JPY | Manufacturing & Services PMI (Apr) | 52.40 |  | 53.00 |
-| 01:30 | JPY | S&P Global Manufacturing PMI (Apr) | 54.9 | 51.1 | 51.6 |
-| 04:00 | NZD | Credit Card Spending (YoY) (Mar) | 2.1% |  | 1.1% |
-| 04:00 | IDR | M2 Money Supply (YoY) (Mar) | 9.70% |  | 8.70% |
-| 05:00 | GBP | Car Registration (YoY) (Mar) | 6.6% |  | 7.2% |
-| 05:00 | GBP | Car Registration (MoM) (Mar) | 322.4% |  | -37.5% |
-| 05:00 | EUR | Italian Car Registration (YoY) (Mar) | 7.6% |  | 14.0% |
-| 05:00 | EUR | Italian Car Registration (MoM) (Mar) | 17.8% |  | 10.7% |
-| 05:00 | EUR | German Car Registration (YoY) (Mar) | 16.0% |  | 3.8% |
-| 05:00 | EUR | German Car Registration (MoM) (Mar) | 39.2% |  | 8.9% |
-| 05:00 | EUR | French Car Registration (MoM) (Mar) | 43.8% |  | 12.7% |
-| 05:00 | EUR | French Car Registration (YoY) (Mar) | 12.9% |  | -14.7% |
-| 06:00 | INR | HSBC India Manufacturing PMI (Apr) | 55.9 |  | 53.9 |
-| 06:00 | INR | HSBC India Services PMI (Apr) | 57.9 |  | 57.5 |
-| 06:00 | INR | HSBC Manufacturing & Services PMI (Apr) | 58.30 |  | 57.00 |
-| 06:00 | SGD | CPI (MoM) (Mar) | 0.50% |  | 0.60% |
-| 07:00 | GBP | Public Sector Net Borrowing | 12.60B | 10.40B | -12.80B |
-| 07:00 | GBP | Public Sector Net Cash Requirement (Mar) | 28.519B |  | 7.543B |
-| 07:00 | NOK | Industrial Confidence (Q1) | 1.2 |  | 2.6 |
-| 07:00 | NOK | Unemployment Rate (Mar) | 4.9% |  | 4.9% |
-| 07:45 | EUR | French Business Survey (Apr) | 100 | 99 | 99 |
-| 08:15 | EUR | HCOB France Composite PMI (Apr) | 47.6 | 48.6 | 48.8 |
-| 08:30 | EUR | HCOB Germany Composite PMI (Apr) | 48.3 | 51.1 | 51.9 |
-| 09:30 | HKD | CPI (MoM) (Mar) | 0.00% |  | 0.50% |
-| 09:30 | HKD | CPI (YoY) (Mar) | 1.70% |  | 1.70% |
-| 09:30 | HKD | Unemployment Rate (Mar) | 3.7% |  | 3.8% |
-| 11:00 | GBP | CBI Industrial Trends Orders (Apr) | -38 | -34 | -27 |
-| 13:00 | MXN | 1st Half-Month Core CPI (Apr) | 0.18% | 0.20% | 0.22% |
-| 13:00 | MXN | 1st Half-Month CPI (Apr) | 0.11% | 0.08% | 0.62% |
-| 13:00 | MXN | Retail Sales (YoY) (Feb) | 3.1% | 4.1% | 5.0% |
-| 13:00 | MXN | Retail Sales (MoM) (Feb) | -0.9% | -0.1% | 1.0% |
-| 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
-| 13:30 | USD | Chicago Fed National Activity (Mar) | -0.20 |  | 0.03 |
-| 13:30 | USD | Jobless Claims 4-Week Avg. | 210.75K |  | 210.00K |
-| 13:30 | CAD | IPPI (MoM) (Mar) | 2.4% | 1.6% | 0.6% |
-| 13:30 | CAD | IPPI (YoY) (Mar) | 7.8% |  | 5.6% |
-| 13:30 | CAD | RMPI (YoY) (Mar) | 23.6% |  | 9.1% |
-| 15:30 | USD | Natural Gas Storage | 103B | 96B | 59B |
-| 16:00 | USD | KC Fed Composite Index (Apr) | 10 |  | 11 |
-| 16:00 | USD | KC Fed Manufacturing Index (Apr) | 10 |  | 11 |
-| 16:30 | USD | 4-Week Bill Auction | 3.595% |  | 3.595% |
-| 16:30 | USD | 8-Week Bill Auction | 3.605% |  | 3.615% |
-| 18:30 | BRL | Foreign Exchange Flows | -2.450B |  | -1.303B |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 2.915T |  | 2.980T |
+| 00:30 | JPY | CPI, n.s.a (MoM) (Mar) |  |  | -0.6% |
+| 00:30 | JPY | National CPI (YoY) (Mar) |  |  | 1.3% |
+| 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 3.0% | 2.7% |
+| 01:30 | SGD | URA Property Index (QoQ) (Q1) |  | 0.30% | 0.30% |
+| 07:45 | EUR | French Consumer Confidence (Apr) |  | 88 | 89 |
+| 08:00 | EUR | Spanish PPI (YoY) |  |  | -7.0% |
+| 09:00 | CHF | SNB Chairman Schlegel Speaks |  |  |  |
+| 11:00 | EUR | Spanish Consumer Confidence (Mar) |  |  | 83.9 |
+| 12:00 | BRL | FGV Consumer confidence (Apr) |  |  | 88.1 |
+| 12:30 | INR | FX Reserves, USD |  |  | 700.95B |
+| 12:30 | BRL | Current Account (USD) (Mar) |  | -5.65B | -5.61B |
+| 12:30 | BRL | Foreign direct investment (USD) (Mar) |  | 6.50B | 6.75B |
+| 13:00 | MXN | Economic Activity (YoY) (Feb) |  | 0.70% | -0.30% |
+| 13:00 | MXN | Economic Activity (MoM) (Feb) |  | 0.50% | -0.90% |
+| 13:00 | MXN | Unemployment Rate (Mar) |  |  | 2.70% |
+| 13:00 | MXN | Unemployment Rate n.s.a. (Mar) |  | 2.50% | 2.60% |
+| 15:00 | USD | Michigan Current Conditions (Apr) |  | 50.1 | 55.8 |
+| 15:00 | CNY | FDI (Mar) |  |  | -5.70% |
+| 16:00 | CAD | Budget Balance (Feb) |  |  | -5.07B |
+| 16:00 | CAD | Budget Balance (YoY) (Feb) |  |  | -31.21B |
+| 18:30 | BRL | Foreign Exchange Flows |  |  | -1.303B |
+| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.5K |
+| 20:30 | USD | CFTC Copper speculative net positions |  |  | 55.1K |
+| 20:30 | USD | CFTC Corn speculative net positions |  |  | 248.9K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -186.9K |
+| 20:30 | USD | CFTC Silver speculative net positions |  |  | 23.6K |
+| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 201.7K |
+| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -18.4K |
+| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -78.3K |
+| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 59.0K |
+| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -34.1K |
+| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -42.3K |
