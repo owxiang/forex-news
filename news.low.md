@@ -13,14 +13,14 @@
 | 01:30 | JPY | S&P Global Manufacturing PMI (Apr) | 54.9 | 51.1 | 51.6 |
 | 04:00 | NZD | Credit Card Spending (YoY) (Mar) | 2.1% |  | 1.1% |
 | 04:00 | IDR | M2 Money Supply (YoY) (Mar) | 9.70% |  | 8.70% |
-| 05:00 | GBP | Car Registration (MoM) (Mar) | 322.4% |  | -37.5% |
 | 05:00 | GBP | Car Registration (YoY) (Mar) | 6.6% |  | 7.2% |
+| 05:00 | GBP | Car Registration (MoM) (Mar) | 322.4% |  | -37.5% |
 | 05:00 | EUR | Italian Car Registration (MoM) (Mar) | 17.8% |  | 10.7% |
 | 05:00 | EUR | Italian Car Registration (YoY) (Mar) | 7.6% |  | 14.0% |
 | 05:00 | EUR | German Car Registration (MoM) (Mar) | 39.2% |  | 8.9% |
 | 05:00 | EUR | German Car Registration (YoY) (Mar) | 16.0% |  | 3.8% |
-| 05:00 | EUR | French Car Registration (MoM) (Mar) | 43.8% |  | 12.7% |
 | 05:00 | EUR | French Car Registration (YoY) (Mar) | 12.9% |  | -14.7% |
+| 05:00 | EUR | French Car Registration (MoM) (Mar) | 43.8% |  | 12.7% |
 | 06:00 | INR | HSBC India Manufacturing PMI (Apr) | 55.9 |  | 53.9 |
 | 06:00 | INR | HSBC India Services PMI (Apr) | 57.9 |  | 57.5 |
 | 06:00 | INR | HSBC Manufacturing & Services PMI (Apr) | 58.30 |  | 57.00 |
@@ -30,12 +30,11 @@
 | 07:00 | NOK | Industrial Confidence (Q1) | 1.2 |  | 2.6 |
 | 07:00 | NOK | Unemployment Rate (Mar) | 4.9% |  | 4.9% |
 | 07:45 | EUR | French Business Survey (Apr) | 100 | 99 | 99 |
-| 12 min | CHF | M3 Money Supply (Mar) |  |  | 1,216.0B |
-| 27 min | EUR | HCOB France Composite PMI (Apr) |  | 48.6 | 48.8 |
-| 42 min | EUR | HCOB Germany Composite PMI (Apr) |  | 51.1 | 51.9 |
-| 09:30 | HKD | CPI (MoM) (Mar) |  |  | 0.50% |
-| 09:30 | HKD | CPI (YoY) (Mar) |  |  | 1.70% |
-| 09:30 | HKD | Unemployment Rate (Mar) |  |  | 3.8% |
+| 08:15 | EUR | HCOB France Composite PMI (Apr) | 47.6 | 48.6 | 48.8 |
+| 08:30 | EUR | HCOB Germany Composite PMI (Apr) | 48.3 | 51.1 | 51.9 |
+| 50 min | HKD | CPI (MoM) (Mar) |  |  | 0.50% |
+| 50 min | HKD | CPI (YoY) (Mar) |  |  | 1.70% |
+| 50 min | HKD | Unemployment Rate (Mar) |  |  | 3.8% |
 | 11:00 | GBP | CBI Industrial Trends Orders (Apr) |  | -34 | -27 |
 | 13:00 | MXN | 1st Half-Month Core CPI (Apr) |  | 0.20% | 0.22% |
 | 13:00 | MXN | 1st Half-Month CPI (Apr) |  | 0.08% | 0.62% |

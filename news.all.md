@@ -14,14 +14,14 @@
 | 01:30 | JPY | Moderate | S&P Global Services PMI (Apr) | 51.2 |  | 53.4 |
 | 04:00 | NZD | Low | Credit Card Spending (YoY) (Mar) | 2.1% |  | 1.1% |
 | 04:00 | IDR | Low | M2 Money Supply (YoY) (Mar) | 9.70% |  | 8.70% |
-| 05:00 | GBP | Low | Car Registration (MoM) (Mar) | 322.4% |  | -37.5% |
 | 05:00 | GBP | Low | Car Registration (YoY) (Mar) | 6.6% |  | 7.2% |
+| 05:00 | GBP | Low | Car Registration (MoM) (Mar) | 322.4% |  | -37.5% |
 | 05:00 | EUR | Low | Italian Car Registration (MoM) (Mar) | 17.8% |  | 10.7% |
 | 05:00 | EUR | Low | Italian Car Registration (YoY) (Mar) | 7.6% |  | 14.0% |
 | 05:00 | EUR | Low | German Car Registration (MoM) (Mar) | 39.2% |  | 8.9% |
 | 05:00 | EUR | Low | German Car Registration (YoY) (Mar) | 16.0% |  | 3.8% |
-| 05:00 | EUR | Low | French Car Registration (MoM) (Mar) | 43.8% |  | 12.7% |
 | 05:00 | EUR | Low | French Car Registration (YoY) (Mar) | 12.9% |  | -14.7% |
+| 05:00 | EUR | Low | French Car Registration (MoM) (Mar) | 43.8% |  | 12.7% |
 | 06:00 | INR | Low | HSBC India Manufacturing PMI (Apr) | 55.9 |  | 53.9 |
 | 06:00 | INR | Low | HSBC India Services PMI (Apr) | 57.9 |  | 57.5 |
 | 06:00 | INR | Low | HSBC Manufacturing & Services PMI (Apr) | 58.30 |  | 57.00 |
@@ -33,23 +33,22 @@
 | 07:00 | NOK | Low | Industrial Confidence (Q1) | 1.2 |  | 2.6 |
 | 07:00 | NOK | Low | Unemployment Rate (Mar) | 4.9% |  | 4.9% |
 | 07:45 | EUR | Low | French Business Survey (Apr) | 100 | 99 | 99 |
-| 12 min | CHF | Low | M3 Money Supply (Mar) |  |  | 1,216.0B |
-| 12 min | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
-| 27 min | EUR | Moderate | HCOB France Manufacturing PMI (Apr) |  | 49.5 | 50.0 |
-| 27 min | EUR | Low | HCOB France Composite PMI (Apr) |  | 48.6 | 48.8 |
-| 27 min | EUR | Moderate | HCOB France Services PMI (Apr) |  | 48.5 | 48.8 |
-| 42 min | EUR | Low | HCOB Germany Composite PMI (Apr) |  | 51.1 | 51.9 |
-| 42 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Apr) |  | 51.4 | 52.2 |
-| 42 min | EUR | Moderate | HCOB Germany Services PMI (Apr) |  | 50.4 | 50.9 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Apr) |  | 50.9 | 51.6 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Apr) |  | 50.2 | 50.7 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Apr) |  | 49.8 | 50.2 |
-| 09:30 | GBP | Moderate | S&P Global Composite PMI (Apr) |  | 49.8 | 50.3 |
-| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Apr) |  | 50.3 | 51.0 |
-| 09:30 | GBP | Moderate | S&P Global Services PMI (Apr) |  | 50.0 | 50.5 |
-| 09:30 | HKD | Low | CPI (MoM) (Mar) |  |  | 0.50% |
-| 09:30 | HKD | Low | CPI (YoY) (Mar) |  |  | 1.70% |
-| 09:30 | HKD | Low | Unemployment Rate (Mar) |  |  | 3.8% |
+| 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
+| 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Apr) | 52.8 | 49.5 | 50.0 |
+| 08:15 | EUR | Low | HCOB France Composite PMI (Apr) | 47.6 | 48.6 | 48.8 |
+| 08:15 | EUR | Moderate | HCOB France Services PMI (Apr) | 46.5 | 48.5 | 48.8 |
+| 08:30 | EUR | Low | HCOB Germany Composite PMI (Apr) | 48.3 | 51.1 | 51.9 |
+| 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Apr) | 51.2 | 51.4 | 52.2 |
+| 08:30 | EUR | Moderate | HCOB Germany Services PMI (Apr) | 46.9 | 50.4 | 50.9 |
+| 20 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Apr) |  | 50.9 | 51.6 |
+| 20 min | EUR | Moderate | HCOB Eurozone Composite PMI (Apr) |  | 50.2 | 50.7 |
+| 20 min | EUR | Moderate | HCOB Eurozone Services PMI (Apr) |  | 49.8 | 50.2 |
+| 50 min | GBP | Moderate | S&P Global Composite PMI (Apr) |  | 49.8 | 50.3 |
+| 50 min | GBP | Moderate | S&P Global Manufacturing PMI (Apr) |  | 50.3 | 51.0 |
+| 50 min | GBP | Moderate | S&P Global Services PMI (Apr) |  | 50.0 | 50.5 |
+| 50 min | HKD | Low | CPI (MoM) (Mar) |  |  | 0.50% |
+| 50 min | HKD | Low | CPI (YoY) (Mar) |  |  | 1.70% |
+| 50 min | HKD | Low | Unemployment Rate (Mar) |  |  | 3.8% |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Apr) |  | -34 | -27 |
 | 11:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 13:00 | MXN | Low | 1st Half-Month Core CPI (Apr) |  | 0.20% | 0.22% |
