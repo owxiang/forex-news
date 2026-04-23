@@ -28,7 +28,7 @@
 | 06:00 | SGD | Moderate | Core CPI (YoY) (Mar) | 1.70% |  | 1.40% |
 | 06:00 | SGD | Low | CPI (MoM) (Mar) | 0.50% |  | 0.60% |
 | 06:00 | SGD | Moderate | CPI (YoY) (Mar) | 1.8% |  | 1.2% |
-| 07:00 | GBP | Low | Public Sector Net Borrowing | 12.60B | 10.40B | 14.30B |
+| 07:00 | GBP | Low | Public Sector Net Borrowing | 12.60B | 10.40B | -12.80B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Mar) | 28.519B |  | 7.543B |
 | 07:00 | NOK | Low | Industrial Confidence (Q1) | 1.2 |  | 2.6 |
 | 07:00 | NOK | Low | Unemployment Rate (Mar) | 4.9% |  | 4.9% |
@@ -40,15 +40,15 @@
 | 08:30 | EUR | Low | HCOB Germany Composite PMI (Apr) | 48.3 | 51.1 | 51.9 |
 | 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Apr) | 51.2 | 51.4 | 52.2 |
 | 08:30 | EUR | Moderate | HCOB Germany Services PMI (Apr) | 46.9 | 50.4 | 50.9 |
-| 20 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Apr) |  | 50.9 | 51.6 |
-| 20 min | EUR | Moderate | HCOB Eurozone Composite PMI (Apr) |  | 50.2 | 50.7 |
-| 20 min | EUR | Moderate | HCOB Eurozone Services PMI (Apr) |  | 49.8 | 50.2 |
-| 50 min | GBP | Moderate | S&P Global Composite PMI (Apr) |  | 49.8 | 50.3 |
-| 50 min | GBP | Moderate | S&P Global Manufacturing PMI (Apr) |  | 50.3 | 51.0 |
-| 50 min | GBP | Moderate | S&P Global Services PMI (Apr) |  | 50.0 | 50.5 |
-| 50 min | HKD | Low | CPI (MoM) (Mar) |  |  | 0.50% |
-| 50 min | HKD | Low | CPI (YoY) (Mar) |  |  | 1.70% |
-| 50 min | HKD | Low | Unemployment Rate (Mar) |  |  | 3.8% |
+| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Apr) | 52.2 | 50.9 | 51.6 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Apr) | 48.6 | 50.2 | 50.7 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Apr) | 47.4 | 49.8 | 50.2 |
+| 09:30 | GBP | Moderate | S&P Global Composite PMI (Apr) | 52.0 | 49.8 | 50.3 |
+| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Apr) | 53.6 | 50.3 | 51.0 |
+| 09:30 | GBP | Moderate | S&P Global Services PMI (Apr) | 52.0 | 50.0 | 50.5 |
+| 09:30 | HKD | Low | CPI (MoM) (Mar) | 0.00% |  | 0.50% |
+| 09:30 | HKD | Low | CPI (YoY) (Mar) | 1.70% |  | 1.70% |
+| 09:30 | HKD | Low | Unemployment Rate (Mar) | 3.7% |  | 3.8% |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Apr) |  | -34 | -27 |
 | 11:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 13:00 | MXN | Low | 1st Half-Month Core CPI (Apr) |  | 0.20% | 0.22% |
@@ -65,7 +65,6 @@
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Mar) |  |  | 0.3% |
 | 13:30 | CAD | Low | RMPI (YoY) (Mar) |  |  | 8.6% |
 | 13:30 | CAD | Moderate | RMPI (MoM) (Mar) |  | 9.3% | 0.6% |
-| 13:30 | INR | Low | M3 Money Supply |  |  | 13.0% |
 | 14:45 | USD | High | S&P Global Manufacturing PMI (Apr) |  | 52.5 | 52.3 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Apr) |  |  | 50.3 |
 | 14:45 | USD | High | S&P Global Services PMI (Apr) |  | 50.5 | 49.8 |

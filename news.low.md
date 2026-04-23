@@ -25,16 +25,16 @@
 | 06:00 | INR | HSBC India Services PMI (Apr) | 57.9 |  | 57.5 |
 | 06:00 | INR | HSBC Manufacturing & Services PMI (Apr) | 58.30 |  | 57.00 |
 | 06:00 | SGD | CPI (MoM) (Mar) | 0.50% |  | 0.60% |
-| 07:00 | GBP | Public Sector Net Borrowing | 12.60B | 10.40B | 14.30B |
+| 07:00 | GBP | Public Sector Net Borrowing | 12.60B | 10.40B | -12.80B |
 | 07:00 | GBP | Public Sector Net Cash Requirement (Mar) | 28.519B |  | 7.543B |
 | 07:00 | NOK | Industrial Confidence (Q1) | 1.2 |  | 2.6 |
 | 07:00 | NOK | Unemployment Rate (Mar) | 4.9% |  | 4.9% |
 | 07:45 | EUR | French Business Survey (Apr) | 100 | 99 | 99 |
 | 08:15 | EUR | HCOB France Composite PMI (Apr) | 47.6 | 48.6 | 48.8 |
 | 08:30 | EUR | HCOB Germany Composite PMI (Apr) | 48.3 | 51.1 | 51.9 |
-| 50 min | HKD | CPI (MoM) (Mar) |  |  | 0.50% |
-| 50 min | HKD | CPI (YoY) (Mar) |  |  | 1.70% |
-| 50 min | HKD | Unemployment Rate (Mar) |  |  | 3.8% |
+| 09:30 | HKD | CPI (MoM) (Mar) | 0.00% |  | 0.50% |
+| 09:30 | HKD | CPI (YoY) (Mar) | 1.70% |  | 1.70% |
+| 09:30 | HKD | Unemployment Rate (Mar) | 3.7% |  | 3.8% |
 | 11:00 | GBP | CBI Industrial Trends Orders (Apr) |  | -34 | -27 |
 | 13:00 | MXN | 1st Half-Month Core CPI (Apr) |  | 0.20% | 0.22% |
 | 13:00 | MXN | 1st Half-Month CPI (Apr) |  | 0.08% | 0.62% |
@@ -46,7 +46,6 @@
 | 13:30 | CAD | IPPI (MoM) (Mar) |  | 1.6% | 0.4% |
 | 13:30 | CAD | IPPI (YoY) (Mar) |  |  | 5.4% |
 | 13:30 | CAD | RMPI (YoY) (Mar) |  |  | 8.6% |
-| 13:30 | INR | M3 Money Supply |  |  | 13.0% |
 | 15:00 | CNY | FDI (Mar) |  |  | -5.70% |
 | 15:30 | USD | Natural Gas Storage |  | 96B | 59B |
 | 16:00 | USD | KC Fed Composite Index (Apr) |  |  | 11 |
