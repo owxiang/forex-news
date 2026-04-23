@@ -43,10 +43,10 @@
 | 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 13:30 | USD | Chicago Fed National Activity (Mar) | -0.20 |  | 0.03 |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 210.75K |  | 210.00K |
-| 13:30 | CAD | IPPI (MoM) (Mar) | 2.4% | 1.6% | 0.4% |
-| 13:30 | CAD | IPPI (YoY) (Mar) | 7.8% |  | 5.4% |
-| 13:30 | CAD | RMPI (YoY) (Mar) | 23.6% |  | 8.6% |
-| 15:30 | USD | Natural Gas Storage |  | 96B | 59B |
+| 13:30 | CAD | IPPI (MoM) (Mar) | 2.4% | 1.6% | 0.6% |
+| 13:30 | CAD | IPPI (YoY) (Mar) | 7.8% |  | 5.6% |
+| 13:30 | CAD | RMPI (YoY) (Mar) | 23.6% |  | 9.1% |
+| 51 min | USD | Natural Gas Storage |  | 96B | 59B |
 | 16:00 | USD | KC Fed Composite Index (Apr) |  |  | 11 |
 | 16:00 | USD | KC Fed Manufacturing Index (Apr) |  |  | 11 |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.595% |

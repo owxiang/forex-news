@@ -60,16 +60,15 @@
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,821K | 1,820K | 1,809K |
 | 13:30 | USD | High | Initial Jobless Claims | 214K | 211K | 208K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 210.75K |  | 210.00K |
-| 13:30 | CAD | Low | IPPI (MoM) (Mar) | 2.4% | 1.6% | 0.4% |
-| 13:30 | CAD | Low | IPPI (YoY) (Mar) | 7.8% |  | 5.4% |
-| 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Mar) |  |  | 0.3% |
-| 13:30 | CAD | Low | RMPI (YoY) (Mar) | 23.6% |  | 8.6% |
-| 13:30 | CAD | Moderate | RMPI (MoM) (Mar) | 12.0% | 9.3% | 0.6% |
-| 14:45 | USD | High | S&P Global Manufacturing PMI (Apr) |  | 52.5 | 52.3 |
-| 14:45 | USD | Moderate | S&P Global Composite PMI (Apr) |  |  | 50.3 |
-| 14:45 | USD | High | S&P Global Services PMI (Apr) |  | 50.5 | 49.8 |
-| 15:30 | USD | Low | Natural Gas Storage |  | 96B | 59B |
-| 15:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 13:30 | CAD | Low | IPPI (MoM) (Mar) | 2.4% | 1.6% | 0.6% |
+| 13:30 | CAD | Low | IPPI (YoY) (Mar) | 7.8% |  | 5.6% |
+| 13:30 | CAD | Moderate | RMPI (MoM) (Mar) | 12.0% | 9.3% | 0.9% |
+| 13:30 | CAD | Low | RMPI (YoY) (Mar) | 23.6% |  | 9.1% |
+| 6 min | USD | High | S&P Global Manufacturing PMI (Apr) |  | 52.5 | 52.3 |
+| 6 min | USD | Moderate | S&P Global Composite PMI (Apr) |  |  | 50.3 |
+| 6 min | USD | High | S&P Global Services PMI (Apr) |  | 50.5 | 49.8 |
+| 51 min | USD | Low | Natural Gas Storage |  | 96B | 59B |
+| 51 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 16:00 | USD | Low | KC Fed Composite Index (Apr) |  |  | 11 |
 | 16:00 | USD | Low | KC Fed Manufacturing Index (Apr) |  |  | 11 |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.595% |
