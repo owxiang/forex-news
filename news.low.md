@@ -12,7 +12,7 @@
 | 01:30 | JPY | Manufacturing & Services PMI (Apr) | 52.40 |  | 53.00 |
 | 01:30 | JPY | S&P Global Manufacturing PMI (Apr) | 54.9 | 51.1 | 51.6 |
 | 04:00 | NZD | Credit Card Spending (YoY) (Mar) |  |  | -1.1% |
-| 04:00 | IDR | M2 Money Supply (YoY) (Mar) |  |  | 8.70% |
+| 04:00 | IDR | M2 Money Supply (YoY) (Mar) | 9.70% |  | 8.70% |
 | 05:00 | GBP | Car Registration (YoY) (Mar) |  |  | 7.2% |
 | 05:00 | GBP | Car Registration (MoM) (Mar) |  |  | -37.5% |
 | 05:00 | EUR | Italian Car Registration (YoY) (Mar) |  |  | 14.0% |
