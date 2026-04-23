@@ -7,10 +7,10 @@
 | 00:00 | AUD | S&P Global Manufacturing & Services PMI (Apr) | 50.10 |  | 46.60 |
 | 00:00 | AUD | S&P Global Manufacturing PMI (Apr) | 51.0 |  | 49.8 |
 | 00:00 | AUD | S&P Global Services PMI (Apr) | 50.3 |  | 46.3 |
-| 00:50 | JPY | Foreign Bonds Buying |  |  | 696.2B |
-| 00:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 3,943.3B |
-| 01:30 | JPY | Manufacturing & Services PMI (Apr) |  |  | 53.00 |
-| 01:30 | JPY | S&P Global Manufacturing PMI (Apr) |  | 51.2 | 51.6 |
+| 00:50 | JPY | Foreign Bonds Buying | -12.8B |  | 698.2B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks | 2,380.9B |  | 3,941.4B |
+| 01:30 | JPY | Manufacturing & Services PMI (Apr) | 52.40 |  | 53.00 |
+| 01:30 | JPY | S&P Global Manufacturing PMI (Apr) | 54.9 | 51.1 | 51.6 |
 | 04:00 | NZD | Credit Card Spending (YoY) (Mar) |  |  | -1.1% |
 | 04:00 | IDR | M2 Money Supply (YoY) (Mar) |  |  | 8.70% |
 | 05:00 | GBP | Car Registration (YoY) (Mar) |  |  | 7.2% |
