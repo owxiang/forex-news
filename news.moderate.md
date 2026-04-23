@@ -19,6 +19,6 @@
 | 11:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims | 1,821K | 1,820K | 1,809K |
 | 13:30 | CAD | RMPI (MoM) (Mar) | 12.0% | 9.3% | 0.9% |
-| 6 min | USD | S&P Global Composite PMI (Apr) |  |  | 50.3 |
-| 51 min | EUR | German Buba President Nagel Speaks |  |  |  |
+| 14:45 | USD | S&P Global Composite PMI (Apr) | 52.0 | 50.6 | 50.3 |
+| 15:30 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,706B |

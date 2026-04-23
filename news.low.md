@@ -46,10 +46,10 @@
 | 13:30 | CAD | IPPI (MoM) (Mar) | 2.4% | 1.6% | 0.6% |
 | 13:30 | CAD | IPPI (YoY) (Mar) | 7.8% |  | 5.6% |
 | 13:30 | CAD | RMPI (YoY) (Mar) | 23.6% |  | 9.1% |
-| 51 min | USD | Natural Gas Storage |  | 96B | 59B |
-| 16:00 | USD | KC Fed Composite Index (Apr) |  |  | 11 |
-| 16:00 | USD | KC Fed Manufacturing Index (Apr) |  |  | 11 |
-| 16:30 | USD | 4-Week Bill Auction |  |  | 3.595% |
-| 16:30 | USD | 8-Week Bill Auction |  |  | 3.615% |
+| 15:30 | USD | Natural Gas Storage | 103B | 96B | 59B |
+| 8 min | USD | KC Fed Composite Index (Apr) |  |  | 11 |
+| 8 min | USD | KC Fed Manufacturing Index (Apr) |  |  | 11 |
+| 38 min | USD | 4-Week Bill Auction |  |  | 3.595% |
+| 38 min | USD | 8-Week Bill Auction |  |  | 3.615% |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | -1.303B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.980T |

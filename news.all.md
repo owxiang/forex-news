@@ -64,15 +64,15 @@
 | 13:30 | CAD | Low | IPPI (YoY) (Mar) | 7.8% |  | 5.6% |
 | 13:30 | CAD | Moderate | RMPI (MoM) (Mar) | 12.0% | 9.3% | 0.9% |
 | 13:30 | CAD | Low | RMPI (YoY) (Mar) | 23.6% |  | 9.1% |
-| 6 min | USD | High | S&P Global Manufacturing PMI (Apr) |  | 52.5 | 52.3 |
-| 6 min | USD | Moderate | S&P Global Composite PMI (Apr) |  |  | 50.3 |
-| 6 min | USD | High | S&P Global Services PMI (Apr) |  | 50.5 | 49.8 |
-| 51 min | USD | Low | Natural Gas Storage |  | 96B | 59B |
-| 51 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 16:00 | USD | Low | KC Fed Composite Index (Apr) |  |  | 11 |
-| 16:00 | USD | Low | KC Fed Manufacturing Index (Apr) |  |  | 11 |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.595% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.615% |
+| 14:45 | USD | High | S&P Global Manufacturing PMI (Apr) | 54.0 | 52.5 | 52.3 |
+| 14:45 | USD | Moderate | S&P Global Composite PMI (Apr) | 52.0 | 50.6 | 50.3 |
+| 14:45 | USD | High | S&P Global Services PMI (Apr) | 51.3 | 50.5 | 49.8 |
+| 15:30 | USD | Low | Natural Gas Storage | 103B | 96B | 59B |
+| 15:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 8 min | USD | Low | KC Fed Composite Index (Apr) |  |  | 11 |
+| 8 min | USD | Low | KC Fed Manufacturing Index (Apr) |  |  | 11 |
+| 38 min | USD | Low | 4-Week Bill Auction |  |  | 3.595% |
+| 38 min | USD | Low | 8-Week Bill Auction |  |  | 3.615% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -1.303B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,706B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.980T |
