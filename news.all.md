@@ -73,6 +73,6 @@
 | 16:00 | USD | Low | KC Fed Manufacturing Index (Apr) | 10 |  | 11 |
 | 16:30 | USD | Low | 4-Week Bill Auction | 3.595% |  | 3.595% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 3.605% |  | 3.615% |
-| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -1.303B |
+| 50 min | BRL | Low | Foreign Exchange Flows |  |  | -1.303B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,706B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.980T |
