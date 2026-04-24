@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | JPY | National Core CPI (YoY) (Mar) |  | 1.7% | 1.6% |
-| 00:30 | JPY | National CPI (MoM) (Mar) |  |  | -0.2% |
+| 00:30 | JPY | National Core CPI (YoY) (Mar) | 1.8% | 1.7% | 1.6% |
+| 00:30 | JPY | National CPI (MoM) (Mar) | 0.4% |  | -0.2% |
 | 07:00 | GBP | Core Retail Sales (MoM) (Mar) |  | 0.2% | -0.4% |
 | 07:00 | GBP | Core Retail Sales (YoY) (Mar) |  | 2.0% | 3.4% |
 | 07:00 | GBP | Retail Sales (MoM) (Mar) |  | 0.0% | -0.4% |

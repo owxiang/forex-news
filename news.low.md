@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | JPY | CPI, n.s.a (MoM) (Mar) |  |  | -0.6% |
-| 00:30 | JPY | National CPI (YoY) (Mar) |  |  | 1.3% |
-| 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 3.0% | 2.7% |
-| 01:30 | SGD | URA Property Index (QoQ) (Q1) |  | 0.30% | 0.30% |
+| 00:30 | JPY | CPI, n.s.a (MoM) (Mar) | 0.4% |  | -0.6% |
+| 00:30 | JPY | National CPI (YoY) (Mar) | 1.5% |  | 1.3% |
+| 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) | 3.1% | 3.0% | 2.7% |
+| 01:30 | SGD | URA Property Index (QoQ) (Q1) | 0.90% | 0.30% | 0.60% |
 | 07:45 | EUR | French Consumer Confidence (Apr) |  | 88 | 89 |
 | 08:00 | EUR | Spanish PPI (YoY) |  |  | -7.0% |
 | 09:00 | CHF | SNB Chairman Schlegel Speaks |  |  |  |

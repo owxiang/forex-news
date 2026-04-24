@@ -2,12 +2,12 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | JPY | Low | CPI, n.s.a (MoM) (Mar) |  |  | -0.6% |
-| 00:30 | JPY | Moderate | National Core CPI (YoY) (Mar) |  | 1.7% | 1.6% |
-| 00:30 | JPY | Low | National CPI (YoY) (Mar) |  |  | 1.3% |
-| 00:30 | JPY | Moderate | National CPI (MoM) (Mar) |  |  | -0.2% |
-| 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) |  | 3.0% | 2.7% |
-| 01:30 | SGD | Low | URA Property Index (QoQ) (Q1) |  | 0.30% | 0.30% |
+| 00:30 | JPY | Low | CPI, n.s.a (MoM) (Mar) | 0.4% |  | -0.6% |
+| 00:30 | JPY | Moderate | National Core CPI (YoY) (Mar) | 1.8% | 1.7% | 1.6% |
+| 00:30 | JPY | Low | National CPI (YoY) (Mar) | 1.5% |  | 1.3% |
+| 00:30 | JPY | Moderate | National CPI (MoM) (Mar) | 0.4% |  | -0.2% |
+| 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 3.1% | 3.0% | 2.7% |
+| 01:30 | SGD | Low | URA Property Index (QoQ) (Q1) | 0.90% | 0.30% | 0.60% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Mar) |  | 0.2% | -0.4% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Mar) |  | 2.0% | 3.4% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Mar) |  | 0.0% | -0.4% |
