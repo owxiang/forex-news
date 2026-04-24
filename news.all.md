@@ -33,13 +33,13 @@
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Feb) | 0.5% | 0.8% | 1.0% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Feb) | 0.7% | 0.9% | 1.2% |
 | 13:31 | CAD | Moderate | Retail Sales (MoM) (Mar) | 0.6% |  | 0.7% |
-| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Apr) |  | 4.8% | 3.8% |
-| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Apr) |  | 3.4% | 3.2% |
-| 15:00 | USD | Moderate | Michigan Consumer Expectations (Apr) |  | 46.1 | 51.7 |
-| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Apr) |  | 47.6 | 53.3 |
-| 15:00 | USD | Low | Michigan Current Conditions (Apr) |  | 50.1 | 55.8 |
-| 16:00 | CAD | Low | Budget Balance (Feb) |  |  | -5.07B |
-| 16:00 | CAD | Low | Budget Balance (YoY) (Feb) |  |  | -31.21B |
+| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Apr) | 4.7% | 4.8% | 3.8% |
+| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Apr) | 3.5% | 3.4% | 3.2% |
+| 15:00 | USD | Moderate | Michigan Consumer Expectations (Apr) | 48.1 | 46.1 | 51.7 |
+| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Apr) | 49.8 | 47.6 | 53.3 |
+| 15:00 | USD | Low | Michigan Current Conditions (Apr) | 52.5 | 50.1 | 55.8 |
+| 21 min | CAD | Low | Budget Balance (Feb) |  |  | -5.07B |
+| 21 min | CAD | Low | Budget Balance (YoY) (Feb) |  |  | -31.21B |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 410 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 543 |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -1.303B |

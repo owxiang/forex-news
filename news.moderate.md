@@ -14,10 +14,10 @@
 | 13:30 | CAD | Core Retail Sales (MoM) (Feb) | 0.5% | 0.8% | 1.0% |
 | 13:30 | CAD | Retail Sales (MoM) (Feb) | 0.7% | 0.9% | 1.2% |
 | 13:31 | CAD | Retail Sales (MoM) (Mar) | 0.6% |  | 0.7% |
-| 15:00 | USD | Michigan 1-Year Inflation Expectations (Apr) |  | 4.8% | 3.8% |
-| 15:00 | USD | Michigan 5-Year Inflation Expectations (Apr) |  | 3.4% | 3.2% |
-| 15:00 | USD | Michigan Consumer Expectations (Apr) |  | 46.1 | 51.7 |
-| 15:00 | USD | Michigan Consumer Sentiment (Apr) |  | 47.6 | 53.3 |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (Apr) | 4.7% | 4.8% | 3.8% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (Apr) | 3.5% | 3.4% | 3.2% |
+| 15:00 | USD | Michigan Consumer Expectations (Apr) | 48.1 | 46.1 | 51.7 |
+| 15:00 | USD | Michigan Consumer Sentiment (Apr) | 49.8 | 47.6 | 53.3 |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 410 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 543 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -54.7K |

@@ -21,9 +21,9 @@
 | 13:00 | MXN | Economic Activity (MoM) (Feb) | 0.10% | 0.50% | -0.70% |
 | 13:00 | MXN | Unemployment Rate (Mar) | 2.80% |  | 2.70% |
 | 13:00 | MXN | Unemployment Rate n.s.a. (Mar) | 2.40% | 2.50% | 2.60% |
-| 15:00 | USD | Michigan Current Conditions (Apr) |  | 50.1 | 55.8 |
-| 16:00 | CAD | Budget Balance (Feb) |  |  | -5.07B |
-| 16:00 | CAD | Budget Balance (YoY) (Feb) |  |  | -31.21B |
+| 15:00 | USD | Michigan Current Conditions (Apr) | 52.5 | 50.1 | 55.8 |
+| 21 min | CAD | Budget Balance (Feb) |  |  | -5.07B |
+| 21 min | CAD | Budget Balance (YoY) (Feb) |  |  | -31.21B |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | -1.303B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.5K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 55.1K |
