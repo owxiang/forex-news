@@ -7,14 +7,13 @@
 | 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) | 3.1% | 3.0% | 2.7% |
 | 01:30 | SGD | URA Property Index (QoQ) (Q1) | 0.90% | 0.30% | 0.60% |
 | 07:45 | EUR | French Consumer Confidence (Apr) | 84 | 88 | 89 |
-| 08:00 | EUR | Spanish PPI (YoY) (Mar) | 3.4% |  | -7.0% |
+| 08:00 | EUR | Spanish PPI (YoY) (Mar) | 3.4% |  | -6.9% |
 | 09:00 | CHF | SNB Chairman Schlegel Speaks |  |  |  |
-| 10:01 | CNY | FDI (Mar) | -7.30% |  | -5.70% |
-| 11:00 | EUR | Spanish Consumer Confidence (Mar) |  |  | 83.9 |
-| 12:00 | BRL | FGV Consumer confidence (Apr) |  |  | 88.1 |
-| 12:30 | INR | FX Reserves, USD |  |  | 700.95B |
-| 12:30 | BRL | Current Account (USD) (Mar) |  | -5.65B | -5.61B |
-| 12:30 | BRL | Foreign direct investment (USD) (Mar) |  | 6.50B | 6.75B |
+| 10:00 | CNY | FDI (Mar) | -7.30% |  | -5.70% |
+| 23 min | BRL | FGV Consumer confidence (Apr) |  |  | 88.1 |
+| 53 min | INR | FX Reserves, USD |  |  | 700.95B |
+| 53 min | BRL | Current Account (USD) (Mar) |  | -5.65B | -5.61B |
+| 53 min | BRL | Foreign direct investment (USD) (Mar) |  | 6.50B | 6.75B |
 | 13:00 | MXN | Economic Activity (YoY) (Feb) |  | 0.70% | -0.30% |
 | 13:00 | MXN | Economic Activity (MoM) (Feb) |  | 0.50% | -0.90% |
 | 13:00 | MXN | Unemployment Rate (Mar) |  |  | 2.70% |
