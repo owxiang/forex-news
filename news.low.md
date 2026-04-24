@@ -9,6 +9,7 @@
 | 07:45 | EUR | French Consumer Confidence (Apr) | 84 | 88 | 89 |
 | 08:00 | EUR | Spanish PPI (YoY) (Mar) | 3.4% |  | -7.0% |
 | 09:00 | CHF | SNB Chairman Schlegel Speaks |  |  |  |
+| 10:01 | CNY | FDI (Mar) | -7.30% |  | -5.70% |
 | 11:00 | EUR | Spanish Consumer Confidence (Mar) |  |  | 83.9 |
 | 12:00 | BRL | FGV Consumer confidence (Apr) |  |  | 88.1 |
 | 12:30 | INR | FX Reserves, USD |  |  | 700.95B |
@@ -19,7 +20,6 @@
 | 13:00 | MXN | Unemployment Rate (Mar) |  |  | 2.70% |
 | 13:00 | MXN | Unemployment Rate n.s.a. (Mar) |  | 2.50% | 2.60% |
 | 15:00 | USD | Michigan Current Conditions (Apr) |  | 50.1 | 55.8 |
-| 15:00 | CNY | FDI (Mar) |  |  | -5.70% |
 | 16:00 | CAD | Budget Balance (Feb) |  |  | -5.07B |
 | 16:00 | CAD | Budget Balance (YoY) (Feb) |  |  | -31.21B |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | -1.303B |

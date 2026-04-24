@@ -18,6 +18,7 @@
 | 09:00 | EUR | Moderate | German Business Expectations (Apr) | 83.3 | 85.0 | 85.9 |
 | 09:00 | EUR | Moderate | German Current Assessment (Apr) | 85.4 | 86.2 | 86.7 |
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (Apr) | 84.4 | 85.7 | 86.3 |
+| 10:01 | CNY | Low | FDI (Mar) | -7.30% |  | -5.70% |
 | 11:00 | EUR | Low | Spanish Consumer Confidence (Mar) |  |  | 83.9 |
 | 12:00 | BRL | Low | FGV Consumer confidence (Apr) |  |  | 88.1 |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 700.95B |
@@ -35,7 +36,6 @@
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Apr) |  | 46.1 | 51.7 |
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Apr) |  | 47.6 | 53.3 |
 | 15:00 | USD | Low | Michigan Current Conditions (Apr) |  | 50.1 | 55.8 |
-| 15:00 | CNY | Low | FDI (Mar) |  |  | -5.70% |
 | 16:00 | CAD | Low | Budget Balance (Feb) |  |  | -5.07B |
 | 16:00 | CAD | Low | Budget Balance (YoY) (Feb) |  |  | -31.21B |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 410 |
