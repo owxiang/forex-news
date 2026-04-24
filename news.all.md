@@ -19,10 +19,10 @@
 | 09:00 | EUR | Moderate | German Current Assessment (Apr) | 85.4 | 86.2 | 86.7 |
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (Apr) | 84.4 | 85.7 | 86.3 |
 | 10:00 | CNY | Low | FDI (Mar) | -7.30% |  | -5.70% |
-| 23 min | BRL | Low | FGV Consumer confidence (Apr) |  |  | 88.1 |
-| 53 min | INR | Low | FX Reserves, USD |  |  | 700.95B |
-| 53 min | BRL | Low | Current Account (USD) (Mar) |  | -5.65B | -5.61B |
-| 53 min | BRL | Low | Foreign direct investment (USD) (Mar) |  | 6.50B | 6.75B |
+| 12:00 | BRL | Low | FGV Consumer confidence (Apr) | 89.1 |  | 88.1 |
+| 12:30 | INR | Low | FX Reserves, USD | 703.31B |  | 700.95B |
+| 12:30 | BRL | Low | Current Account (USD) (Mar) |  | -5.65B | -5.61B |
+| 12:30 | BRL | Low | Foreign direct investment (USD) (Mar) |  | 6.50B | 6.75B |
 | 13:00 | MXN | Low | Economic Activity (YoY) (Feb) |  | 0.70% | -0.30% |
 | 13:00 | MXN | Low | Economic Activity (MoM) (Feb) |  | 0.50% | -0.90% |
 | 13:00 | MXN | Low | Unemployment Rate (Mar) |  |  | 2.70% |
