@@ -10,14 +10,17 @@
 | 08:00 | EUR | Spanish PPI (YoY) (Mar) | 3.4% |  | -6.9% |
 | 09:00 | CHF | SNB Chairman Schlegel Speaks |  |  |  |
 | 10:00 | CNY | FDI (Mar) | -7.30% |  | -5.70% |
+| 12:00 | INR | M3 Money Supply | 11.9% |  | 13.0% |
 | 12:00 | BRL | FGV Consumer confidence (Apr) | 89.1 |  | 88.1 |
+| 12:30 | INR | Bank Loan Growth | 15.0% |  | 16.1% |
+| 12:30 | INR | Deposit Growth | 12.2% |  | 13.5% |
 | 12:30 | INR | FX Reserves, USD | 703.31B |  | 700.95B |
-| 12:30 | BRL | Current Account (USD) (Mar) |  | -5.65B | -5.61B |
-| 12:30 | BRL | Foreign direct investment (USD) (Mar) |  | 6.50B | 6.75B |
-| 13:00 | MXN | Economic Activity (YoY) (Feb) |  | 0.70% | -0.30% |
-| 13:00 | MXN | Economic Activity (MoM) (Feb) |  | 0.50% | -0.90% |
-| 13:00 | MXN | Unemployment Rate (Mar) |  |  | 2.70% |
-| 13:00 | MXN | Unemployment Rate n.s.a. (Mar) |  | 2.50% | 2.60% |
+| 12:30 | BRL | Current Account (USD) (Mar) | -6.04B | -5.65B | -5.61B |
+| 12:30 | BRL | Foreign direct investment (USD) (Mar) | 6.04B | 6.50B | 6.75B |
+| 13:00 | MXN | Economic Activity (YoY) (Feb) | -0.30% | 0.70% | -0.30% |
+| 13:00 | MXN | Economic Activity (MoM) (Feb) | 0.10% | 0.50% | -0.70% |
+| 13:00 | MXN | Unemployment Rate (Mar) | 2.80% |  | 2.70% |
+| 13:00 | MXN | Unemployment Rate n.s.a. (Mar) | 2.40% | 2.50% | 2.60% |
 | 15:00 | USD | Michigan Current Conditions (Apr) |  | 50.1 | 55.8 |
 | 16:00 | CAD | Budget Balance (Feb) |  |  | -5.07B |
 | 16:00 | CAD | Budget Balance (YoY) (Feb) |  |  | -31.21B |

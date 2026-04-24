@@ -19,17 +19,20 @@
 | 09:00 | EUR | Moderate | German Current Assessment (Apr) | 85.4 | 86.2 | 86.7 |
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (Apr) | 84.4 | 85.7 | 86.3 |
 | 10:00 | CNY | Low | FDI (Mar) | -7.30% |  | -5.70% |
+| 12:00 | INR | Low | M3 Money Supply | 11.9% |  | 13.0% |
 | 12:00 | BRL | Low | FGV Consumer confidence (Apr) | 89.1 |  | 88.1 |
+| 12:30 | INR | Low | Bank Loan Growth | 15.0% |  | 16.1% |
+| 12:30 | INR | Low | Deposit Growth | 12.2% |  | 13.5% |
 | 12:30 | INR | Low | FX Reserves, USD | 703.31B |  | 700.95B |
-| 12:30 | BRL | Low | Current Account (USD) (Mar) |  | -5.65B | -5.61B |
-| 12:30 | BRL | Low | Foreign direct investment (USD) (Mar) |  | 6.50B | 6.75B |
-| 13:00 | MXN | Low | Economic Activity (YoY) (Feb) |  | 0.70% | -0.30% |
-| 13:00 | MXN | Low | Economic Activity (MoM) (Feb) |  | 0.50% | -0.90% |
-| 13:00 | MXN | Low | Unemployment Rate (Mar) |  |  | 2.70% |
-| 13:00 | MXN | Low | Unemployment Rate n.s.a. (Mar) |  | 2.50% | 2.60% |
-| 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Feb) |  | 0.8% | 0.8% |
+| 12:30 | BRL | Low | Current Account (USD) (Mar) | -6.04B | -5.65B | -5.61B |
+| 12:30 | BRL | Low | Foreign direct investment (USD) (Mar) | 6.04B | 6.50B | 6.75B |
+| 13:00 | MXN | Low | Economic Activity (YoY) (Feb) | -0.30% | 0.70% | -0.30% |
+| 13:00 | MXN | Low | Economic Activity (MoM) (Feb) | 0.10% | 0.50% | -0.70% |
+| 13:00 | MXN | Low | Unemployment Rate (Mar) | 2.80% |  | 2.70% |
+| 13:00 | MXN | Low | Unemployment Rate n.s.a. (Mar) | 2.40% | 2.50% | 2.60% |
+| 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Feb) | 0.5% | 0.8% | 1.0% |
+| 13:30 | CAD | Moderate | Retail Sales (MoM) (Feb) | 0.7% |  | 1.2% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Feb) |  | 0.9% | 1.1% |
-| 13:31 | CAD | Moderate | Retail Sales (MoM) (Mar) |  |  |  |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Apr) |  | 4.8% | 3.8% |
 | 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Apr) |  | 3.4% | 3.2% |
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Apr) |  | 46.1 | 51.7 |
