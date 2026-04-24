@@ -15,9 +15,9 @@
 | 07:45 | EUR | Low | French Consumer Confidence (Apr) | 84 | 88 | 89 |
 | 08:00 | EUR | Low | Spanish PPI (YoY) (Mar) | 3.4% |  | -7.0% |
 | 09:00 | CHF | Low | SNB Chairman Schlegel Speaks |  |  |  |
-| 09:00 | EUR | Moderate | German Business Expectations (Apr) |  | 85.0 | 86.0 |
-| 09:00 | EUR | Moderate | German Current Assessment (Apr) |  | 86.2 | 86.7 |
-| 09:00 | EUR | Moderate | German Ifo Business Climate Index (Apr) |  | 85.7 | 86.4 |
+| 09:00 | EUR | Moderate | German Business Expectations (Apr) | 83.3 | 85.0 | 85.9 |
+| 09:00 | EUR | Moderate | German Current Assessment (Apr) | 85.4 | 86.2 | 86.7 |
+| 09:00 | EUR | Moderate | German Ifo Business Climate Index (Apr) | 84.4 | 85.7 | 86.3 |
 | 11:00 | EUR | Low | Spanish Consumer Confidence (Mar) |  |  | 83.9 |
 | 12:00 | BRL | Low | FGV Consumer confidence (Apr) |  |  | 88.1 |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 700.95B |
