@@ -31,8 +31,8 @@
 | 13:00 | MXN | Low | Unemployment Rate (Mar) | 2.80% |  | 2.70% |
 | 13:00 | MXN | Low | Unemployment Rate n.s.a. (Mar) | 2.40% | 2.50% | 2.60% |
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Feb) | 0.5% | 0.8% | 1.0% |
-| 13:30 | CAD | Moderate | Retail Sales (MoM) (Feb) | 0.7% |  | 1.2% |
-| 13:30 | CAD | Moderate | Retail Sales (MoM) (Feb) |  | 0.9% | 1.1% |
+| 13:30 | CAD | Moderate | Retail Sales (MoM) (Feb) | 0.7% | 0.9% | 1.2% |
+| 13:31 | CAD | Moderate | Retail Sales (MoM) (Mar) | 0.6% |  | 0.7% |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Apr) |  | 4.8% | 3.8% |
 | 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Apr) |  | 3.4% | 3.2% |
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Apr) |  | 46.1 | 51.7 |
