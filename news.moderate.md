@@ -4,10 +4,10 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | National Core CPI (YoY) (Mar) | 1.8% | 1.7% | 1.6% |
 | 00:30 | JPY | National CPI (MoM) (Mar) | 0.4% |  | -0.2% |
-| 07:00 | GBP | Core Retail Sales (MoM) (Mar) |  | 0.2% | -0.4% |
-| 07:00 | GBP | Core Retail Sales (YoY) (Mar) |  | 2.0% | 3.4% |
-| 07:00 | GBP | Retail Sales (MoM) (Mar) |  | 0.0% | -0.4% |
-| 07:00 | GBP | Retail Sales (YoY) (Mar) |  | 1.3% | 2.5% |
+| 07:00 | GBP | Core Retail Sales (MoM) (Mar) | 0.2% | 0.2% | -0.6% |
+| 07:00 | GBP | Core Retail Sales (YoY) (Mar) | 1.7% | 2.0% | 2.7% |
+| 07:00 | GBP | Retail Sales (MoM) (Mar) | 0.7% | 0.0% | -0.6% |
+| 07:00 | GBP | Retail Sales (YoY) (Mar) | 1.7% | 1.3% | 1.8% |
 | 09:00 | EUR | German Business Expectations (Apr) |  | 85.0 | 86.0 |
 | 09:00 | EUR | German Current Assessment (Apr) |  | 86.2 | 86.7 |
 | 09:00 | EUR | German Ifo Business Climate Index (Apr) |  | 85.7 | 86.4 |

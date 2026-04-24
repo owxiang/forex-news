@@ -8,11 +8,11 @@
 | 00:30 | JPY | Moderate | National CPI (MoM) (Mar) | 0.4% |  | -0.2% |
 | 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 3.1% | 3.0% | 2.7% |
 | 01:30 | SGD | Low | URA Property Index (QoQ) (Q1) | 0.90% | 0.30% | 0.60% |
-| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Mar) |  | 0.2% | -0.4% |
-| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Mar) |  | 2.0% | 3.4% |
-| 07:00 | GBP | Moderate | Retail Sales (MoM) (Mar) |  | 0.0% | -0.4% |
-| 07:00 | GBP | Moderate | Retail Sales (YoY) (Mar) |  | 1.3% | 2.5% |
-| 07:45 | EUR | Low | French Consumer Confidence (Apr) |  | 88 | 89 |
+| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Mar) | 0.2% | 0.2% | -0.6% |
+| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Mar) | 1.7% | 2.0% | 2.7% |
+| 07:00 | GBP | Moderate | Retail Sales (MoM) (Mar) | 0.7% | 0.0% | -0.6% |
+| 07:00 | GBP | Moderate | Retail Sales (YoY) (Mar) | 1.7% | 1.3% | 1.8% |
+| 07:45 | EUR | Low | French Consumer Confidence (Apr) | 84 | 88 | 89 |
 | 08:00 | EUR | Low | Spanish PPI (YoY) |  |  | -7.0% |
 | 09:00 | CHF | Low | SNB Chairman Schlegel Speaks |  |  |  |
 | 09:00 | EUR | Moderate | German Business Expectations (Apr) |  | 85.0 | 86.0 |
