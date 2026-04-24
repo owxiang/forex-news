@@ -26,11 +26,11 @@
 | 16:00 | CAD | Budget Balance (YoY) (Feb) | -25.55B |  | -31.21B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.5K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 55.1K |
-| 20:30 | USD | CFTC Corn speculative net positions |  |  | 248.9K |
+| 20:30 | USD | CFTC Corn speculative net positions | 263.7K |  | 248.9K |
 | 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -186.9K |
 | 20:30 | USD | CFTC Silver speculative net positions |  |  | 23.6K |
-| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 201.7K |
-| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -18.4K |
+| 20:30 | USD | CFTC Soybeans speculative net positions | 211.1K |  | 201.7K |
+| 20:30 | USD | CFTC Wheat speculative net positions | -25.5K |  | -18.4K |
 | 20:30 | CAD | CFTC CAD speculative net positions |  |  | -78.3K |
 | 20:30 | MXN | CFTC MXN speculative net positions |  |  | 59.0K |
 | 20:30 | CHF | CFTC CHF speculative net positions |  |  | -34.1K |
