@@ -24,7 +24,6 @@
 | 15:00 | USD | Michigan Current Conditions (Apr) | 52.5 | 50.1 | 55.8 |
 | 16:00 | CAD | Budget Balance (Feb) | 5.66B |  | -5.07B |
 | 16:00 | CAD | Budget Balance (YoY) (Feb) | -25.55B |  | -31.21B |
-| 18:30 | BRL | Foreign Exchange Flows |  |  | -1.303B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.5K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 55.1K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 248.9K |
