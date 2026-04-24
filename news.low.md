@@ -7,7 +7,7 @@
 | 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) | 3.1% | 3.0% | 2.7% |
 | 01:30 | SGD | URA Property Index (QoQ) (Q1) | 0.90% | 0.30% | 0.60% |
 | 07:45 | EUR | French Consumer Confidence (Apr) | 84 | 88 | 89 |
-| 08:00 | EUR | Spanish PPI (YoY) |  |  | -7.0% |
+| 08:00 | EUR | Spanish PPI (YoY) (Mar) | 3.4% |  | -7.0% |
 | 09:00 | CHF | SNB Chairman Schlegel Speaks |  |  |  |
 | 11:00 | EUR | Spanish Consumer Confidence (Mar) |  |  | 83.9 |
 | 12:00 | BRL | FGV Consumer confidence (Apr) |  |  | 88.1 |

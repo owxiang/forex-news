@@ -13,7 +13,7 @@
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Mar) | 0.7% | 0.0% | -0.6% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Mar) | 1.7% | 1.3% | 1.8% |
 | 07:45 | EUR | Low | French Consumer Confidence (Apr) | 84 | 88 | 89 |
-| 08:00 | EUR | Low | Spanish PPI (YoY) |  |  | -7.0% |
+| 08:00 | EUR | Low | Spanish PPI (YoY) (Mar) | 3.4% |  | -7.0% |
 | 09:00 | CHF | Low | SNB Chairman Schlegel Speaks |  |  |  |
 | 09:00 | EUR | Moderate | German Business Expectations (Apr) |  | 85.0 | 86.0 |
 | 09:00 | EUR | Moderate | German Current Assessment (Apr) |  | 86.2 | 86.7 |
@@ -29,7 +29,7 @@
 | 13:00 | MXN | Low | Unemployment Rate n.s.a. (Mar) |  | 2.50% | 2.60% |
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Feb) |  | 0.8% | 0.8% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Feb) |  | 0.9% | 1.1% |
-| 13:30 | CAD | Moderate | Retail Sales (MoM) (Feb) |  |  | 1.1% |
+| 13:31 | CAD | Moderate | Retail Sales (MoM) (Mar) |  |  |  |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Apr) |  | 4.8% | 3.8% |
 | 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Apr) |  | 3.4% | 3.2% |
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Apr) |  | 46.1 | 51.7 |

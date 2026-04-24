@@ -13,7 +13,7 @@
 | 09:00 | EUR | German Ifo Business Climate Index (Apr) |  | 85.7 | 86.4 |
 | 13:30 | CAD | Core Retail Sales (MoM) (Feb) |  | 0.8% | 0.8% |
 | 13:30 | CAD | Retail Sales (MoM) (Feb) |  | 0.9% | 1.1% |
-| 13:30 | CAD | Retail Sales (MoM) (Feb) |  |  | 1.1% |
+| 13:31 | CAD | Retail Sales (MoM) (Mar) |  |  |  |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Apr) |  | 4.8% | 3.8% |
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Apr) |  | 3.4% | 3.2% |
 | 15:00 | USD | Michigan Consumer Expectations (Apr) |  | 46.1 | 51.7 |
