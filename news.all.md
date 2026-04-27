@@ -15,13 +15,13 @@
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Mar) | 4.4% |  | 4.6% |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Apr) | -68 | -42 | -52 |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 12:30 | BRL | Low | Bank lending (MoM) (Mar) | 0.9% |  | 0.4% |
+| 12:30 | BRL | Low | Bank lending (MoM) (Mar) | 0.9% |  | 0.3% |
 | 13:00 | MXN | Low | Trade Balance (Mar) | 5.932B | 0.700B | -0.463B |
 | 13:00 | MXN | Low | Trade Balance (USD) (Mar) | 2.499B |  | -0.980B |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.476% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.159% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.319% |
-| 15:30 | USD | Low | Dallas Fed Mfg Business Index (Apr) |  |  | -0.2 |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.551% |  | 2.476% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.192% |  | 2.159% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.342% |  | 2.319% |
+| 51 min | USD | Low | Dallas Fed Mfg Business Index (Apr) |  |  | -0.2 |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.610% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.590% |
 | 18:00 | USD | Moderate | 2-Year Note Auction |  |  | 3.936% |
