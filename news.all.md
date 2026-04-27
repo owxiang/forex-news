@@ -16,7 +16,7 @@
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Apr) |  | -42 | -52 |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:30 | BRL | Low | Bank lending (MoM) (Mar) |  |  | 0.4% |
-| 13:00 | MXN | Low | Trade Balance (Mar) |  |  | -0.463B |
+| 13:00 | MXN | Low | Trade Balance (Mar) |  | 0.700B | -0.463B |
 | 13:00 | MXN | Low | Trade Balance (USD) (Mar) |  |  | -1.090B |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.476% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.159% |
