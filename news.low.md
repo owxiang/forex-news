@@ -7,10 +7,10 @@
 | 06:00 | JPY | Coincident Indicator (MoM) (Feb) | -1.8% | -1.6% | 3.4% |
 | 06:00 | JPY | Leading Index (Feb) | 113.3 | 112.4 | 112.0 |
 | 06:00 | JPY | Leading Index (MoM) (Feb) | 1.3% | 0.3% | 1.7% |
-| 06:00 | SGD | Industrial Production (YoY) (Mar) | 10.1% |  | -0.1% |
-| 06:00 | SGD | Industrial Production (MoM) (Mar) | 4.7% |  | -7.2% |
-| 07:00 | NOK | M3 Money Supply (Mar) |  |  | 3,498.8B |
-| 07:00 | NOK | Credit Indicator (YoY) (Mar) |  |  | 4.6% |
+| 06:00 | SGD | Industrial Production (YoY) (Mar) | 10.1% |  | 3.3% |
+| 06:00 | SGD | Industrial Production (MoM) (Mar) | 4.7% |  | -1.2% |
+| 07:00 | NOK | M3 Money Supply (Mar) | 3,566.8B |  | 3,498.8B |
+| 07:00 | NOK | Credit Indicator (YoY) (Mar) | 4.4% |  | 4.6% |
 | 11:00 | GBP | CBI Distributive Trades Survey (Apr) |  | -42 | -52 |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:30 | BRL | Bank lending (MoM) (Mar) |  |  | 0.4% |
