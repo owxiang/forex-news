@@ -1,24 +1,36 @@
-## 27 April 2026 - Low Impact Forex News
+## 28 April 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | CNY | Chinese Industrial profit YTD (Mar) | 15.5% |  | 15.2% |
-| 05:00 | IDR | Foreign Direct Investment (YoY) (Q1) | 8.50% |  | 4.30% |
-| 06:00 | JPY | Coincident Indicator (MoM) (Feb) | -1.8% | -1.6% | 3.4% |
-| 06:00 | JPY | Leading Index (Feb) | 113.3 | 112.4 | 112.0 |
-| 06:00 | JPY | Leading Index (MoM) (Feb) | 1.3% | 0.3% | 1.7% |
-| 06:00 | SGD | Industrial Production (YoY) (Mar) | 10.1% |  | 3.3% |
-| 06:00 | SGD | Industrial Production (MoM) (Mar) | 4.7% |  | -1.2% |
-| 07:00 | NOK | M3 Money Supply (Mar) | 3,566.8B |  | 3,498.8B |
-| 07:00 | NOK | Credit Indicator (YoY) (Mar) | 4.4% |  | 4.6% |
-| 11:00 | GBP | CBI Distributive Trades Survey (Apr) | -68 | -42 | -52 |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:30 | BRL | Bank lending (MoM) (Mar) | 0.9% |  | 0.3% |
-| 13:00 | MXN | Trade Balance (Mar) | 5.932B | 0.700B | -0.463B |
-| 13:00 | MXN | Trade Balance (USD) (Mar) | 2.499B |  | -0.980B |
-| 14:00 | EUR | French 12-Month BTF Auction | 2.551% |  | 2.476% |
-| 14:00 | EUR | French 3-Month BTF Auction | 2.192% |  | 2.159% |
-| 14:00 | EUR | French 6-Month BTF Auction | 2.342% |  | 2.319% |
-| 15:30 | USD | Dallas Fed Mfg Business Index (Apr) | -2.3 |  | -0.2 |
-| 16:30 | USD | 6-Month Bill Auction | 3.590% |  | 3.590% |
-| 18:00 | USD | 3-Month Bill Auction | 3.590% |  | 3.610% |
+| 00:01 | GBP | BRC Shop Price Index (YoY) (Apr) | 1.0% | 1.4% | 1.2% |
+| 00:30 | JPY | Jobs/applications ratio (Mar) |  | 1.18 | 1.19 |
+| 00:30 | JPY | Unemployment Rate (Mar) |  | 2.6% | 2.6% |
+| 08:00 | EUR | Spanish Retail Sales (YoY) (Mar) |  |  | 2.2% |
+| 08:00 | EUR | Spanish Unemployment Rate (Q1) |  | 9.80% | 9.93% |
+| 08:00 | ZAR | Leading Indicators (Feb) |  |  | 118.20% |
+| 09:00 | EUR | Italian Industrial Sales (YoY) (Feb) |  |  | -1.00% |
+| 09:00 | EUR | Italian Industrial Sales (MoM) (Feb) |  |  | -0.30% |
+| 09:00 | EUR | ECB Bank Lending Survey |  |  |  |
+| 09:30 | HKD | Exports (MoM) (Mar) |  |  | 24.7% |
+| 09:30 | HKD | Imports (MoM) (Mar) |  |  | 29.9% |
+| 09:30 | HKD | Trade Balance (Mar) |  |  | -64.2B |
+| 10:00 | EUR | Italian PPI (MoM) (Mar) |  |  | -0.4% |
+| 10:00 | EUR | Italian PPI (YoY) (Mar) |  |  | -2.7% |
+| 10:10 | EUR | Italian 3-Month BOT Auction |  |  | 0.509% |
+| 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 2.482% |
+| 11:30 | INR | Cumulative Industrial Production (Mar) |  |  | 4.10% |
+| 11:30 | INR | Industrial Production (YoY) (Mar) |  | 4.0% | 5.2% |
+| 11:30 | INR | Manufacturing Output (MoM) (Mar) |  |  | 6.0% |
+| 13:00 | BRL | Mid-Month CPI (MoM) (Apr) |  | 1.00% | 0.44% |
+| 13:00 | BRL | Mid-Month CPI (YoY) (Apr) |  | 4.48% | 3.90% |
+| 13:55 | USD | Redbook (YoY) |  |  | 6.7% |
+| 14:00 | USD | House Price Index (MoM) (Feb) |  | 0.1% | 0.1% |
+| 14:00 | USD | House Price Index (YoY) (Feb) |  |  | 1.6% |
+| 14:00 | USD | House Price Index (Feb) |  |  | 441.0 |
+| 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Feb) |  |  | 0.2% |
+| 15:00 | USD | Richmond Manufacturing Index (Apr) |  | -4 | 0 |
+| 15:00 | USD | Richmond Manufacturing Shipments (Apr) |  |  | -2 |
+| 15:00 | USD | Richmond Services Index (Apr) |  |  | 9 |
+| 15:30 | USD | Dallas Fed Services Revenues (Apr) |  |  | 1.3 |
+| 15:30 | USD | Texas Services Sector Outlook (Apr) |  |  | -13.3 |
+| 18:00 | USD | M2 Money Supply (MoM) (Mar) |  |  | 22.65T |

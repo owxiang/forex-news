@@ -1,5 +1,6 @@
-## 27 April 2026 - High Impact Forex News
+## 28 April 2026 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | USD | U.S. President Trump Speaks |  |  |  |
+| 04:00 | JPY | BoJ Interest Rate Decision |  | 0.75% | 0.75% |
+| 15:00 | USD | CB Consumer Confidence (Apr) |  | 89.4 | 91.8 |
