@@ -2,12 +2,14 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
+| 00:00 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 02:30 | CNY | Low | Chinese Industrial profit YTD (Mar) | 15.5% |  | 15.2% |
-| 06:00 | JPY | Low | Coincident Indicator (MoM) (Feb) |  | -1.6% | 3.4% |
-| 06:00 | JPY | Low | Leading Index (Feb) |  | 112.4 | 112.1 |
-| 06:00 | JPY | Low | Leading Index (MoM) (Feb) |  | 0.3% | 1.7% |
-| 06:00 | SGD | Low | Industrial Production (YoY) (Mar) |  |  | -0.1% |
-| 06:00 | SGD | Low | Industrial Production (MoM) (Mar) |  |  | -7.2% |
+| 05:00 | IDR | Low | Foreign Direct Investment (YoY) (Q1) | 8.50% |  | 4.30% |
+| 06:00 | JPY | Low | Coincident Indicator (MoM) (Feb) | -1.8% | -1.6% | 3.4% |
+| 06:00 | JPY | Low | Leading Index (Feb) | 113.3 | 112.4 | 112.0 |
+| 06:00 | JPY | Low | Leading Index (MoM) (Feb) | 1.3% | 0.3% | 1.7% |
+| 06:00 | SGD | Low | Industrial Production (YoY) (Mar) | 10.1% |  | -0.1% |
+| 06:00 | SGD | Low | Industrial Production (MoM) (Mar) | 4.7% |  | -7.2% |
 | 07:00 | NOK | Low | M3 Money Supply (Mar) |  |  | 3,498.8B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Mar) |  |  | 4.6% |
 | 08:00 | EUR | Moderate | GfK German Consumer Climate (May) |  | -30.2 | -28.0 |
