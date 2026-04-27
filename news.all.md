@@ -22,8 +22,8 @@
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.192% |  | 2.159% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.342% |  | 2.319% |
 | 15:30 | USD | Low | Dallas Fed Mfg Business Index (Apr) | -2.3 |  | -0.2 |
+| 16:30 | USD | Moderate | 2-Year Note Auction | 3.812% |  | 3.936% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 3.590% |  | 3.590% |
-| 50 min | USD | Low | 3-Month Bill Auction |  |  | 3.610% |
-| 18:00 | USD | Moderate | 2-Year Note Auction | 3.812% |  | 3.936% |
-| 18:00 | USD | Moderate | 5-Year Note Auction |  |  | 3.980% |
-| 18:30 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 17:30 | USD | Low | 3-Month Bill Auction |  |  | 3.610% |
+| 21 min | USD | Moderate | 5-Year Note Auction |  |  | 3.980% |
+| 51 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
