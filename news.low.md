@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | CNY | Chinese Industrial profit YTD (Mar) |  |  | 15.2% |
+| 02:30 | CNY | Chinese Industrial profit YTD (Mar) | 15.5% |  | 15.2% |
 | 06:00 | JPY | Coincident Indicator (MoM) (Feb) |  | -1.6% | 3.4% |
 | 06:00 | JPY | Leading Index (Feb) |  | 112.4 | 112.1 |
 | 06:00 | JPY | Leading Index (MoM) (Feb) |  | 0.3% | 1.7% |
