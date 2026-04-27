@@ -13,7 +13,7 @@
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (May) | -33.3 | -30.2 | -28.1 |
 | 07:00 | NOK | Low | M3 Money Supply (Mar) | 3,566.8B |  | 3,498.8B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Mar) | 4.4% |  | 4.6% |
-| 11:00 | GBP | Low | CBI Distributive Trades Survey (Apr) |  | -42 | -52 |
+| 11:00 | GBP | Low | CBI Distributive Trades Survey (Apr) | -68 | -42 | -52 |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:30 | BRL | Low | Bank lending (MoM) (Mar) |  |  | 0.4% |
 | 13:00 | MXN | Low | Trade Balance (Mar) |  | 0.700B | -0.463B |

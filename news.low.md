@@ -11,7 +11,7 @@
 | 06:00 | SGD | Industrial Production (MoM) (Mar) | 4.7% |  | -1.2% |
 | 07:00 | NOK | M3 Money Supply (Mar) | 3,566.8B |  | 3,498.8B |
 | 07:00 | NOK | Credit Indicator (YoY) (Mar) | 4.4% |  | 4.6% |
-| 11:00 | GBP | CBI Distributive Trades Survey (Apr) |  | -42 | -52 |
+| 11:00 | GBP | CBI Distributive Trades Survey (Apr) | -68 | -42 | -52 |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:30 | BRL | Bank lending (MoM) (Mar) |  |  | 0.4% |
 | 13:00 | MXN | Trade Balance (Mar) |  | 0.700B | -0.463B |
