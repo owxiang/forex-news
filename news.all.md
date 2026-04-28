@@ -23,10 +23,10 @@
 | 10:00 | EUR | Low | Italian PPI (YoY) (Mar) | 4.2% |  | -2.7% |
 | 10:10 | EUR | Low | Italian 3-Month BOT Auction | 2.161% |  | 0.509% |
 | 10:40 | EUR | Low | Italian 6-Month BOT Auction | 2.161% |  | 2.482% |
-| 11:00 | EUR | Moderate | France Jobseekers Total (Mar) | 3,109.1K |  | 3,108.2K |
+| 11:00 | EUR | Moderate | France Jobseekers Total (Mar) | 3,109.1K |  | 3,073.5K |
 | 11:30 | INR | Low | Cumulative Industrial Production (Mar) | 4.10% |  | 4.10% |
-| 11:30 | INR | Low | Industrial Production (YoY) (Mar) | 4.1% | 4.0% | 5.2% |
-| 11:30 | INR | Low | Manufacturing Output (MoM) (Mar) | 4.3% |  | 6.0% |
+| 11:30 | INR | Low | Industrial Production (YoY) (Mar) | 4.1% | 3.7% | 5.1% |
+| 11:30 | INR | Low | Manufacturing Output (MoM) (Mar) | 4.3% |  | 5.9% |
 | 13:00 | BRL | Low | Mid-Month CPI (MoM) (Apr) |  | 1.00% | 0.44% |
 | 13:00 | BRL | Low | Mid-Month CPI (YoY) (Apr) |  | 4.48% | 3.90% |
 | 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 54.75K |
