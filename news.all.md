@@ -12,17 +12,17 @@
 | 07:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Mar) | 4.1% |  | 2.3% |
 | 08:00 | EUR | Low | Spanish Unemployment Rate (Q1) | 10.83% | 9.80% | 9.93% |
-| 08:00 | ZAR | Low | Leading Indicators (Feb) | 120.20% |  | 119.60% |
-| 56 min | EUR | Low | Italian Industrial Sales (YoY) (Feb) |  |  | -1.00% |
-| 56 min | EUR | Low | Italian Industrial Sales (MoM) (Feb) |  |  | -0.30% |
-| 56 min | EUR | Low | ECB Bank Lending Survey |  |  |  |
-| 09:30 | HKD | Low | Exports (MoM) (Mar) |  |  | 24.7% |
-| 09:30 | HKD | Low | Imports (MoM) (Mar) |  |  | 29.9% |
-| 09:30 | HKD | Low | Trade Balance (Mar) |  |  | -64.2B |
-| 10:00 | EUR | Low | Italian PPI (MoM) (Mar) |  |  | -0.4% |
-| 10:00 | EUR | Low | Italian PPI (YoY) (Mar) |  |  | -2.7% |
-| 10:10 | EUR | Low | Italian 3-Month BOT Auction |  |  | 0.509% |
-| 10:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 2.482% |
+| 08:00 | ZAR | Low | Leading Indicators (Feb) | 120.20% |  | 119.61% |
+| 09:00 | EUR | Low | Italian Industrial Sales (YoY) (Feb) | 0.50% |  | -0.80% |
+| 09:00 | EUR | Low | Italian Industrial Sales (MoM) (Feb) | 0.60% |  | -0.20% |
+| 09:00 | EUR | Low | ECB Bank Lending Survey |  |  |  |
+| 09:30 | HKD | Low | Exports (MoM) (Mar) | 35.8% |  | 24.7% |
+| 09:30 | HKD | Low | Imports (MoM) (Mar) | 41.2% |  | 29.9% |
+| 09:30 | HKD | Low | Trade Balance (Mar) | -89.1B |  | -64.2B |
+| 3 min | EUR | Low | Italian PPI (MoM) (Mar) |  |  | -0.4% |
+| 3 min | EUR | Low | Italian PPI (YoY) (Mar) |  |  | -2.7% |
+| 13 min | EUR | Low | Italian 3-Month BOT Auction |  |  | 0.509% |
+| 13 min | EUR | Low | Italian 6-Month BOT Auction |  |  | 2.482% |
 | 11:00 | EUR | Moderate | France Jobseekers Total (Mar) |  |  | 3,108.2K |
 | 11:30 | INR | Low | Cumulative Industrial Production (Mar) |  |  | 4.10% |
 | 11:30 | INR | Low | Industrial Production (YoY) (Mar) |  | 4.0% | 5.2% |

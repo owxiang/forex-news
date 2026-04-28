@@ -7,17 +7,17 @@
 | 00:30 | JPY | Unemployment Rate (Mar) | 2.7% | 2.6% | 2.6% |
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Mar) | 4.1% |  | 2.3% |
 | 08:00 | EUR | Spanish Unemployment Rate (Q1) | 10.83% | 9.80% | 9.93% |
-| 08:00 | ZAR | Leading Indicators (Feb) | 120.20% |  | 119.60% |
-| 56 min | EUR | Italian Industrial Sales (YoY) (Feb) |  |  | -1.00% |
-| 56 min | EUR | Italian Industrial Sales (MoM) (Feb) |  |  | -0.30% |
-| 56 min | EUR | ECB Bank Lending Survey |  |  |  |
-| 09:30 | HKD | Exports (MoM) (Mar) |  |  | 24.7% |
-| 09:30 | HKD | Imports (MoM) (Mar) |  |  | 29.9% |
-| 09:30 | HKD | Trade Balance (Mar) |  |  | -64.2B |
-| 10:00 | EUR | Italian PPI (MoM) (Mar) |  |  | -0.4% |
-| 10:00 | EUR | Italian PPI (YoY) (Mar) |  |  | -2.7% |
-| 10:10 | EUR | Italian 3-Month BOT Auction |  |  | 0.509% |
-| 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 2.482% |
+| 08:00 | ZAR | Leading Indicators (Feb) | 120.20% |  | 119.61% |
+| 09:00 | EUR | Italian Industrial Sales (YoY) (Feb) | 0.50% |  | -0.80% |
+| 09:00 | EUR | Italian Industrial Sales (MoM) (Feb) | 0.60% |  | -0.20% |
+| 09:00 | EUR | ECB Bank Lending Survey |  |  |  |
+| 09:30 | HKD | Exports (MoM) (Mar) | 35.8% |  | 24.7% |
+| 09:30 | HKD | Imports (MoM) (Mar) | 41.2% |  | 29.9% |
+| 09:30 | HKD | Trade Balance (Mar) | -89.1B |  | -64.2B |
+| 3 min | EUR | Italian PPI (MoM) (Mar) |  |  | -0.4% |
+| 3 min | EUR | Italian PPI (YoY) (Mar) |  |  | -2.7% |
+| 13 min | EUR | Italian 3-Month BOT Auction |  |  | 0.509% |
+| 13 min | EUR | Italian 6-Month BOT Auction |  |  | 2.482% |
 | 11:30 | INR | Cumulative Industrial Production (Mar) |  |  | 4.10% |
 | 11:30 | INR | Industrial Production (YoY) (Mar) |  | 4.0% | 5.2% |
 | 11:30 | INR | Manufacturing Output (MoM) (Mar) |  |  | 6.0% |
