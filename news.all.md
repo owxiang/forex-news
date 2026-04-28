@@ -10,12 +10,12 @@
 | 04:00 | JPY | High | BoJ Interest Rate Decision | 0.75% | 0.75% | 0.75% |
 | 06:00 | JPY | Moderate | BoJ Core CPI (YoY) | 2.5% |  | 2.2% |
 | 07:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
-| 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Mar) |  |  | 2.2% |
-| 08:00 | EUR | Low | Spanish Unemployment Rate (Q1) |  | 9.80% | 9.93% |
-| 08:00 | ZAR | Low | Leading Indicators (Feb) |  |  | 118.20% |
-| 09:00 | EUR | Low | Italian Industrial Sales (YoY) (Feb) |  |  | -1.00% |
-| 09:00 | EUR | Low | Italian Industrial Sales (MoM) (Feb) |  |  | -0.30% |
-| 09:00 | EUR | Low | ECB Bank Lending Survey |  |  |  |
+| 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Mar) | 4.1% |  | 2.3% |
+| 08:00 | EUR | Low | Spanish Unemployment Rate (Q1) | 10.83% | 9.80% | 9.93% |
+| 08:00 | ZAR | Low | Leading Indicators (Feb) | 120.20% |  | 119.60% |
+| 56 min | EUR | Low | Italian Industrial Sales (YoY) (Feb) |  |  | -1.00% |
+| 56 min | EUR | Low | Italian Industrial Sales (MoM) (Feb) |  |  | -0.30% |
+| 56 min | EUR | Low | ECB Bank Lending Survey |  |  |  |
 | 09:30 | HKD | Low | Exports (MoM) (Mar) |  |  | 24.7% |
 | 09:30 | HKD | Low | Imports (MoM) (Mar) |  |  | 29.9% |
 | 09:30 | HKD | Low | Trade Balance (Mar) |  |  | -64.2B |

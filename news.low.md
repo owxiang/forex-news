@@ -5,12 +5,12 @@
 | 00:01 | GBP | BRC Shop Price Index (YoY) (Apr) | 1.0% | 1.4% | 1.2% |
 | 00:30 | JPY | Jobs/applications ratio (Mar) | 1.18 | 1.18 | 1.19 |
 | 00:30 | JPY | Unemployment Rate (Mar) | 2.7% | 2.6% | 2.6% |
-| 08:00 | EUR | Spanish Retail Sales (YoY) (Mar) |  |  | 2.2% |
-| 08:00 | EUR | Spanish Unemployment Rate (Q1) |  | 9.80% | 9.93% |
-| 08:00 | ZAR | Leading Indicators (Feb) |  |  | 118.20% |
-| 09:00 | EUR | Italian Industrial Sales (YoY) (Feb) |  |  | -1.00% |
-| 09:00 | EUR | Italian Industrial Sales (MoM) (Feb) |  |  | -0.30% |
-| 09:00 | EUR | ECB Bank Lending Survey |  |  |  |
+| 08:00 | EUR | Spanish Retail Sales (YoY) (Mar) | 4.1% |  | 2.3% |
+| 08:00 | EUR | Spanish Unemployment Rate (Q1) | 10.83% | 9.80% | 9.93% |
+| 08:00 | ZAR | Leading Indicators (Feb) | 120.20% |  | 119.60% |
+| 56 min | EUR | Italian Industrial Sales (YoY) (Feb) |  |  | -1.00% |
+| 56 min | EUR | Italian Industrial Sales (MoM) (Feb) |  |  | -0.30% |
+| 56 min | EUR | ECB Bank Lending Survey |  |  |  |
 | 09:30 | HKD | Exports (MoM) (Mar) |  |  | 24.7% |
 | 09:30 | HKD | Imports (MoM) (Mar) |  |  | 29.9% |
 | 09:30 | HKD | Trade Balance (Mar) |  |  | -64.2B |
