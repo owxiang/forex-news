@@ -1,15 +1,26 @@
-## 28 April 2026 - Moderate Impact Forex News
+## 29 April 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
-| 04:00 | JPY | BoJ Outlook Report (YoY) |  |  |  |
-| 06:00 | JPY | BoJ Core CPI (YoY) | 2.5% |  | 2.2% |
-| 07:30 | JPY | BoJ Press Conference |  |  |  |
-| 11:00 | EUR | France Jobseekers Total (Mar) | 3,109.1K |  | 3,073.5K |
-| 13:15 | USD | ADP Employment Change Weekly | 39.30K |  | 40.25K |
-| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Feb) | 0.4% |  | -0.1% |
-| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Feb) | 0.9% | 1.1% | 1.2% |
-| 18:00 | USD | 7-Year Note Auction | 4.175% |  | 4.255% |
-| 18:30 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock | -1.790M | 0.300M | -4.400M |
+| 02:30 | AUD | CPI (YoY) (Q1) |  |  | 3.6% |
+| 02:30 | AUD | CPI (QoQ) (Q1) |  | 1.4% | 0.6% |
+| 02:30 | AUD | Trimmed Mean CPI (QoQ) (Q1) |  | 0.9% | 0.9% |
+| 07:00 | EUR | German Buba Balz Speaks |  |  |  |
+| 08:00 | EUR | Spanish CPI (YoY) (Apr) |  | 3.5% | 3.4% |
+| 08:00 | EUR | Spanish HICP (YoY) (Apr) |  | 3.5% | 3.4% |
+| 10:30 | EUR | Italian 10-Year BTP Auction |  |  | 4.09% |
+| 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.920% |
+| 13:00 | EUR | German CPI (YoY) (Apr) |  | 3.0% | 2.7% |
+| 13:30 | USD | Building Permits (Mar) |  | 1.390M | 1.386M |
+| 13:30 | USD | Core Durable Goods Orders (MoM) (Mar) |  | 0.4% | 0.8% |
+| 13:30 | USD | Goods Trade Balance (Mar) |  | -87.50B | -83.50B |
+| 13:30 | USD | Housing Starts (Mar) |  | 1.380M | 1.487M |
+| 13:30 | USD | Housing Starts (MoM) (Mar) |  |  | 7.2% |
+| 13:30 | USD | Retail Inventories Ex Auto (Mar) |  |  | 0.4% |
+| 14:45 | CAD | BoC Monetary Policy Report |  |  |  |
+| 14:45 | CAD | BoC Rate Statement |  |  |  |
+| 15:00 | USD | Atlanta Fed GDPNow (Q1) |  | 1.2% | 1.2% |
+| 15:30 | USD | Cushing Crude Oil Inventories |  |  | 0.806M |
+| 15:30 | CAD | BOC Press Conference |  |  |  |
+| 16:30 | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 22:30 | BRL | Interest Rate Decision |  | 14.75% | 14.75% |
