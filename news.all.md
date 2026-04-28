@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | BRC Shop Price Index (YoY) (Apr) | 1.0% | 1.4% | 1.2% |
-| 00:30 | JPY | Low | Jobs/applications ratio (Mar) |  | 1.18 | 1.19 |
-| 00:30 | JPY | Low | Unemployment Rate (Mar) |  | 2.6% | 2.6% |
+| 00:30 | JPY | Low | Jobs/applications ratio (Mar) | 1.18 | 1.18 | 1.19 |
+| 00:30 | JPY | Low | Unemployment Rate (Mar) | 2.7% | 2.6% | 2.6% |
 | 03:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
 | 04:00 | JPY | Moderate | BoJ Outlook Report (YoY) |  |  |  |
 | 04:00 | JPY | High | BoJ Interest Rate Decision |  | 0.75% | 0.75% |

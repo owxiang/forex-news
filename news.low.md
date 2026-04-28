@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | BRC Shop Price Index (YoY) (Apr) | 1.0% | 1.4% | 1.2% |
-| 00:30 | JPY | Jobs/applications ratio (Mar) |  | 1.18 | 1.19 |
-| 00:30 | JPY | Unemployment Rate (Mar) |  | 2.6% | 2.6% |
+| 00:30 | JPY | Jobs/applications ratio (Mar) | 1.18 | 1.18 | 1.19 |
+| 00:30 | JPY | Unemployment Rate (Mar) | 2.7% | 2.6% | 2.6% |
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Mar) |  |  | 2.2% |
 | 08:00 | EUR | Spanish Unemployment Rate (Q1) |  | 9.80% | 9.93% |
 | 08:00 | ZAR | Leading Indicators (Feb) |  |  | 118.20% |
