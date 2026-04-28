@@ -44,6 +44,6 @@
 | 15:30 | USD | Low | Dallas Fed Services Revenues (Apr) | 4.3 |  | 1.3 |
 | 15:30 | USD | Low | Texas Services Sector Outlook (Apr) | -9.9 |  | -13.3 |
 | 18:00 | USD | Moderate | 7-Year Note Auction | 4.175% |  | 4.255% |
-| 18:00 | USD | Low | M2 Money Supply (MoM) (Mar) | 22.69T |  | 22.65T |
+| 18:00 | USD | Low | M2 Money Supply (MoM) (Mar) | 22.69T |  | 22.63T |
 | 18:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 54 min | USD | Moderate | API Weekly Crude Oil Stock |  | 0.300M | -4.400M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 0.300M | -4.400M |
