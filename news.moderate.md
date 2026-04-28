@@ -8,8 +8,8 @@
 | 07:30 | JPY | BoJ Press Conference |  |  |  |
 | 11:00 | EUR | France Jobseekers Total (Mar) | 3,109.1K |  | 3,073.5K |
 | 13:15 | USD | ADP Employment Change Weekly | 39.30K |  | 40.25K |
-| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Feb) |  |  | -0.1% |
-| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Feb) |  | 1.1% | 1.2% |
+| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Feb) | 0.4% |  | -0.1% |
+| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Feb) | 0.9% | 1.1% | 1.2% |
 | 18:00 | USD | 7-Year Note Auction |  |  | 4.255% |
 | 18:30 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | -4.400M |

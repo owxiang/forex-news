@@ -21,28 +21,28 @@
 | 09:30 | HKD | Low | Trade Balance (Mar) | -89.1B |  | -64.2B |
 | 10:00 | EUR | Low | Italian PPI (MoM) (Mar) | 4.4% |  | -0.4% |
 | 10:00 | EUR | Low | Italian PPI (YoY) (Mar) | 4.2% |  | -2.7% |
-| 10:10 | EUR | Low | Italian 3-Month BOT Auction | 2.161% |  | 0.509% |
 | 10:40 | EUR | Low | Italian 6-Month BOT Auction | 2.161% |  | 2.482% |
 | 11:00 | EUR | Moderate | France Jobseekers Total (Mar) | 3,109.1K |  | 3,073.5K |
 | 11:30 | INR | Low | Cumulative Industrial Production (Mar) | 4.10% |  | 4.10% |
 | 11:30 | INR | Low | Industrial Production (YoY) (Mar) | 4.1% | 3.7% | 5.1% |
 | 11:30 | INR | Low | Manufacturing Output (MoM) (Mar) | 4.3% |  | 5.9% |
+| 13:00 | BRL | Low | Federal Tax Revenue (Mar) | 229.25B |  | 222.12B |
 | 13:00 | BRL | Low | Mid-Month CPI (MoM) (Apr) | 0.89% | 1.00% | 0.44% |
 | 13:00 | BRL | Low | Mid-Month CPI (YoY) (Apr) | 4.37% | 4.48% | 3.90% |
 | 13:15 | USD | Moderate | ADP Employment Change Weekly | 39.30K |  | 40.25K |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 6.7% |
-| 14:00 | USD | Low | House Price Index (MoM) (Feb) |  | 0.1% | 0.1% |
-| 14:00 | USD | Low | House Price Index (YoY) (Feb) |  |  | 1.6% |
-| 14:00 | USD | Low | House Price Index (Feb) |  |  | 441.0 |
-| 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Feb) |  |  | 0.2% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Feb) |  |  | -0.1% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Feb) |  | 1.1% | 1.2% |
-| 15:00 | USD | High | CB Consumer Confidence (Apr) |  | 89.0 | 91.8 |
-| 15:00 | USD | Low | Richmond Manufacturing Index (Apr) |  | 2 | 0 |
-| 15:00 | USD | Low | Richmond Manufacturing Shipments (Apr) |  |  | -2 |
-| 15:00 | USD | Low | Richmond Services Index (Apr) |  |  | 9 |
-| 15:30 | USD | Low | Dallas Fed Services Revenues (Apr) |  |  | 1.3 |
-| 15:30 | USD | Low | Texas Services Sector Outlook (Apr) |  |  | -13.3 |
+| 13:55 | USD | Low | Redbook (YoY) | 7.7% |  | 6.7% |
+| 14:00 | USD | Low | House Price Index (MoM) (Feb) | 0.0% | 0.1% | 0.2% |
+| 14:00 | USD | Low | House Price Index (YoY) (Feb) | 1.7% |  | 1.8% |
+| 14:00 | USD | Low | House Price Index (Feb) | 441.4 |  | 441.5 |
+| 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Feb) | -0.1% |  | 0.2% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Feb) | 0.4% |  | -0.1% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Feb) | 0.9% | 1.1% | 1.2% |
+| 15:00 | USD | High | CB Consumer Confidence (Apr) | 92.8 | 89.0 | 92.2 |
+| 15:00 | USD | Low | Richmond Manufacturing Index (Apr) | 3 | 2 | 0 |
+| 15:00 | USD | Low | Richmond Manufacturing Shipments (Apr) | -2 |  | -2 |
+| 15:00 | USD | Low | Richmond Services Index (Apr) | 9 |  | 9 |
+| 15:30 | USD | Low | Dallas Fed Services Revenues (Apr) | 4.3 |  | 1.3 |
+| 15:30 | USD | Low | Texas Services Sector Outlook (Apr) | -9.9 |  | -13.3 |
 | 18:00 | USD | Moderate | 7-Year Note Auction |  |  | 4.255% |
 | 18:00 | USD | Low | M2 Money Supply (MoM) (Mar) |  |  | 22.65T |
 | 18:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |

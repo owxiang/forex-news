@@ -16,21 +16,21 @@
 | 09:30 | HKD | Trade Balance (Mar) | -89.1B |  | -64.2B |
 | 10:00 | EUR | Italian PPI (MoM) (Mar) | 4.4% |  | -0.4% |
 | 10:00 | EUR | Italian PPI (YoY) (Mar) | 4.2% |  | -2.7% |
-| 10:10 | EUR | Italian 3-Month BOT Auction | 2.161% |  | 0.509% |
 | 10:40 | EUR | Italian 6-Month BOT Auction | 2.161% |  | 2.482% |
 | 11:30 | INR | Cumulative Industrial Production (Mar) | 4.10% |  | 4.10% |
 | 11:30 | INR | Industrial Production (YoY) (Mar) | 4.1% | 3.7% | 5.1% |
 | 11:30 | INR | Manufacturing Output (MoM) (Mar) | 4.3% |  | 5.9% |
+| 13:00 | BRL | Federal Tax Revenue (Mar) | 229.25B |  | 222.12B |
 | 13:00 | BRL | Mid-Month CPI (MoM) (Apr) | 0.89% | 1.00% | 0.44% |
 | 13:00 | BRL | Mid-Month CPI (YoY) (Apr) | 4.37% | 4.48% | 3.90% |
-| 13:55 | USD | Redbook (YoY) |  |  | 6.7% |
-| 14:00 | USD | House Price Index (MoM) (Feb) |  | 0.1% | 0.1% |
-| 14:00 | USD | House Price Index (YoY) (Feb) |  |  | 1.6% |
-| 14:00 | USD | House Price Index (Feb) |  |  | 441.0 |
-| 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Feb) |  |  | 0.2% |
-| 15:00 | USD | Richmond Manufacturing Index (Apr) |  | 2 | 0 |
-| 15:00 | USD | Richmond Manufacturing Shipments (Apr) |  |  | -2 |
-| 15:00 | USD | Richmond Services Index (Apr) |  |  | 9 |
-| 15:30 | USD | Dallas Fed Services Revenues (Apr) |  |  | 1.3 |
-| 15:30 | USD | Texas Services Sector Outlook (Apr) |  |  | -13.3 |
+| 13:55 | USD | Redbook (YoY) | 7.7% |  | 6.7% |
+| 14:00 | USD | House Price Index (MoM) (Feb) | 0.0% | 0.1% | 0.2% |
+| 14:00 | USD | House Price Index (YoY) (Feb) | 1.7% |  | 1.8% |
+| 14:00 | USD | House Price Index (Feb) | 441.4 |  | 441.5 |
+| 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Feb) | -0.1% |  | 0.2% |
+| 15:00 | USD | Richmond Manufacturing Index (Apr) | 3 | 2 | 0 |
+| 15:00 | USD | Richmond Manufacturing Shipments (Apr) | -2 |  | -2 |
+| 15:00 | USD | Richmond Services Index (Apr) | 9 |  | 9 |
+| 15:30 | USD | Dallas Fed Services Revenues (Apr) | 4.3 |  | 1.3 |
+| 15:30 | USD | Texas Services Sector Outlook (Apr) | -9.9 |  | -13.3 |
 | 18:00 | USD | M2 Money Supply (MoM) (Mar) |  |  | 22.65T |

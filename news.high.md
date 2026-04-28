@@ -3,4 +3,4 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 04:00 | JPY | BoJ Interest Rate Decision | 0.75% | 0.75% | 0.75% |
-| 15:00 | USD | CB Consumer Confidence (Apr) |  | 89.0 | 91.8 |
+| 15:00 | USD | CB Consumer Confidence (Apr) | 92.8 | 89.0 | 92.2 |
