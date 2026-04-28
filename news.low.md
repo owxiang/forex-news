@@ -33,4 +33,4 @@
 | 15:00 | USD | Richmond Services Index (Apr) | 9 |  | 9 |
 | 15:30 | USD | Dallas Fed Services Revenues (Apr) | 4.3 |  | 1.3 |
 | 15:30 | USD | Texas Services Sector Outlook (Apr) | -9.9 |  | -13.3 |
-| 18:00 | USD | M2 Money Supply (MoM) (Mar) |  |  | 22.65T |
+| 18:00 | USD | M2 Money Supply (MoM) (Mar) | 22.69T |  | 22.65T |
