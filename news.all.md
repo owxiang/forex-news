@@ -7,7 +7,7 @@
 | 00:30 | JPY | Low | Unemployment Rate (Mar) | 2.7% | 2.6% | 2.6% |
 | 03:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
 | 04:00 | JPY | Moderate | BoJ Outlook Report (YoY) |  |  |  |
-| 04:00 | JPY | High | BoJ Interest Rate Decision |  | 0.75% | 0.75% |
+| 04:00 | JPY | High | BoJ Interest Rate Decision | 0.75% | 0.75% | 0.75% |
 | 06:00 | JPY | Moderate | BoJ Core CPI (YoY) |  |  | 2.2% |
 | 07:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Mar) |  |  | 2.2% |
