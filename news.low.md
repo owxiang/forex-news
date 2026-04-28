@@ -28,7 +28,7 @@
 | 14:00 | USD | House Price Index (YoY) (Feb) |  |  | 1.6% |
 | 14:00 | USD | House Price Index (Feb) |  |  | 441.0 |
 | 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Feb) |  |  | 0.2% |
-| 15:00 | USD | Richmond Manufacturing Index (Apr) |  | -4 | 0 |
+| 15:00 | USD | Richmond Manufacturing Index (Apr) |  | 2 | 0 |
 | 15:00 | USD | Richmond Manufacturing Shipments (Apr) |  |  | -2 |
 | 15:00 | USD | Richmond Services Index (Apr) |  |  | 9 |
 | 15:30 | USD | Dallas Fed Services Revenues (Apr) |  |  | 1.3 |

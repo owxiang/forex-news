@@ -8,7 +8,7 @@
 | 03:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
 | 04:00 | JPY | Moderate | BoJ Outlook Report (YoY) |  |  |  |
 | 04:00 | JPY | High | BoJ Interest Rate Decision | 0.75% | 0.75% | 0.75% |
-| 06:00 | JPY | Moderate | BoJ Core CPI (YoY) |  |  | 2.2% |
+| 06:00 | JPY | Moderate | BoJ Core CPI (YoY) | 2.5% |  | 2.2% |
 | 07:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Mar) |  |  | 2.2% |
 | 08:00 | EUR | Low | Spanish Unemployment Rate (Q1) |  | 9.80% | 9.93% |
@@ -36,9 +36,9 @@
 | 14:00 | USD | Low | House Price Index (Feb) |  |  | 441.0 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Feb) |  |  | 0.2% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Feb) |  |  | -0.1% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Feb) |  | 1.0% | 1.2% |
-| 15:00 | USD | High | CB Consumer Confidence (Apr) |  | 89.4 | 91.8 |
-| 15:00 | USD | Low | Richmond Manufacturing Index (Apr) |  | -4 | 0 |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Feb) |  | 1.1% | 1.2% |
+| 15:00 | USD | High | CB Consumer Confidence (Apr) |  | 89.0 | 91.8 |
+| 15:00 | USD | Low | Richmond Manufacturing Index (Apr) |  | 2 | 0 |
 | 15:00 | USD | Low | Richmond Manufacturing Shipments (Apr) |  |  | -2 |
 | 15:00 | USD | Low | Richmond Services Index (Apr) |  |  | 9 |
 | 15:30 | USD | Low | Dallas Fed Services Revenues (Apr) |  |  | 1.3 |
