@@ -27,9 +27,9 @@
 | 11:30 | INR | Low | Cumulative Industrial Production (Mar) | 4.10% |  | 4.10% |
 | 11:30 | INR | Low | Industrial Production (YoY) (Mar) | 4.1% | 3.7% | 5.1% |
 | 11:30 | INR | Low | Manufacturing Output (MoM) (Mar) | 4.3% |  | 5.9% |
-| 13:00 | BRL | Low | Mid-Month CPI (MoM) (Apr) |  | 1.00% | 0.44% |
-| 13:00 | BRL | Low | Mid-Month CPI (YoY) (Apr) |  | 4.48% | 3.90% |
-| 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 54.75K |
+| 13:00 | BRL | Low | Mid-Month CPI (MoM) (Apr) | 0.89% | 1.00% | 0.44% |
+| 13:00 | BRL | Low | Mid-Month CPI (YoY) (Apr) | 4.37% | 4.48% | 3.90% |
+| 13:15 | USD | Moderate | ADP Employment Change Weekly | 39.30K |  | 40.25K |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 6.7% |
 | 14:00 | USD | Low | House Price Index (MoM) (Feb) |  | 0.1% | 0.1% |
 | 14:00 | USD | Low | House Price Index (YoY) (Feb) |  |  | 1.6% |

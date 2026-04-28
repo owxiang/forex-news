@@ -21,8 +21,8 @@
 | 11:30 | INR | Cumulative Industrial Production (Mar) | 4.10% |  | 4.10% |
 | 11:30 | INR | Industrial Production (YoY) (Mar) | 4.1% | 3.7% | 5.1% |
 | 11:30 | INR | Manufacturing Output (MoM) (Mar) | 4.3% |  | 5.9% |
-| 13:00 | BRL | Mid-Month CPI (MoM) (Apr) |  | 1.00% | 0.44% |
-| 13:00 | BRL | Mid-Month CPI (YoY) (Apr) |  | 4.48% | 3.90% |
+| 13:00 | BRL | Mid-Month CPI (MoM) (Apr) | 0.89% | 1.00% | 0.44% |
+| 13:00 | BRL | Mid-Month CPI (YoY) (Apr) | 4.37% | 4.48% | 3.90% |
 | 13:55 | USD | Redbook (YoY) |  |  | 6.7% |
 | 14:00 | USD | House Price Index (MoM) (Feb) |  | 0.1% | 0.1% |
 | 14:00 | USD | House Price Index (YoY) (Feb) |  |  | 1.6% |
