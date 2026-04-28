@@ -18,9 +18,9 @@
 | 10:00 | EUR | Italian PPI (YoY) (Mar) | 4.2% |  | -2.7% |
 | 10:10 | EUR | Italian 3-Month BOT Auction | 2.161% |  | 0.509% |
 | 10:40 | EUR | Italian 6-Month BOT Auction | 2.161% |  | 2.482% |
-| 11:30 | INR | Cumulative Industrial Production (Mar) |  |  | 4.10% |
-| 11:30 | INR | Industrial Production (YoY) (Mar) |  | 4.0% | 5.2% |
-| 11:30 | INR | Manufacturing Output (MoM) (Mar) |  |  | 6.0% |
+| 11:30 | INR | Cumulative Industrial Production (Mar) | 4.10% |  | 4.10% |
+| 11:30 | INR | Industrial Production (YoY) (Mar) | 4.1% | 4.0% | 5.2% |
+| 11:30 | INR | Manufacturing Output (MoM) (Mar) | 4.3% |  | 6.0% |
 | 13:00 | BRL | Mid-Month CPI (MoM) (Apr) |  | 1.00% | 0.44% |
 | 13:00 | BRL | Mid-Month CPI (YoY) (Apr) |  | 4.48% | 3.90% |
 | 13:55 | USD | Redbook (YoY) |  |  | 6.7% |
