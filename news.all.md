@@ -46,4 +46,4 @@
 | 18:00 | USD | Moderate | 7-Year Note Auction | 4.175% |  | 4.255% |
 | 18:00 | USD | Low | M2 Money Supply (MoM) (Mar) | 22.69T |  | 22.65T |
 | 18:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 0.300M | -4.400M |
+| 54 min | USD | Moderate | API Weekly Crude Oil Stock |  | 0.300M | -4.400M |
