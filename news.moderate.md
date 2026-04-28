@@ -12,4 +12,4 @@
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Feb) | 0.9% | 1.1% | 1.2% |
 | 18:00 | USD | 7-Year Note Auction | 4.175% |  | 4.255% |
 | 18:30 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock |  | 0.300M | -4.400M |
+| 21:30 | USD | API Weekly Crude Oil Stock | -1.790M | 0.300M | -4.400M |
