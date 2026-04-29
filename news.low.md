@@ -5,8 +5,8 @@
 | 02:30 | AUD | CPI Index Number (Q1) | 101.70 |  | 100.32 |
 | 02:30 | AUD | Trimmed Mean CPI (YoY) (Q1) | 3.5% | 3.5% | 3.4% |
 | 02:30 | AUD | Monthly CPI Indicator (YoY) (Mar) | 4.60% | 4.80% | 3.70% |
-| 02:30 | AUD | Weighted mean CPI (YoY) (Q1) | 3.5% |  | 3.2% |
 | 02:30 | AUD | Weighted mean CPI (QoQ) (Q1) | 0.8% |  | 0.9% |
+| 02:30 | AUD | Weighted mean CPI (YoY) (Q1) | 3.5% |  | 3.2% |
 | 07:00 | NOK | Core Retail Sales (MoM) (Mar) | -0.1% |  | -1.1% |
 | 08:00 | EUR | Core CPI (YoY) (Apr) | 2.8% |  | 2.9% |
 | 08:00 | EUR | Spanish CPI (MoM) (Apr) | 0.4% | 0.6% | 1.2% |
@@ -39,15 +39,15 @@
 | 10:00 | EUR | Industrial Sentiment (Apr) | -7.7 | -7.2 | -7.0 |
 | 10:30 | EUR | Italian 15-Year BTP Auction | 3.77% |  | 4.27% |
 | 10:30 | EUR | Italian 5-Year BTP Auction | 3.32% |  | 3.48% |
-| 12 min | EUR | Italian Trade Balance EU |  |  | -0.65B |
-| 12 min | EUR | Italian Trade Balance Non-EU (Mar) |  |  | 5.53B |
-| 12 min | EUR | Spanish Business Confidence (Apr) |  |  | -4.2 |
-| 12 min | EUR | Spanish Consumer Confidence (Mar) |  |  | 83.9 |
+| 11:00 | EUR | Italian Trade Balance Non-EU (Mar) | 5.64B |  | 5.60B |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.35% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 7.9% |
 | 12:00 | USD | MBA Purchase Index |  |  | 175.6 |
 | 12:00 | USD | Mortgage Market Index |  |  | 303.3 |
 | 12:00 | USD | Mortgage Refinance Index |  |  | 1,023.1 |
+| 12:00 | EUR | Italian Trade Balance EU |  |  | -0.65B |
+| 12:00 | EUR | Spanish Business Confidence (Apr) |  |  | -4.2 |
+| 12:00 | EUR | Spanish Consumer Confidence (Mar) |  |  | 83.9 |
 | 12:00 | BRL | IGP-M Inflation Index (MoM) (Apr) |  | 2.50% | 0.52% |
 | 12:30 | INR | M3 Money Supply |  |  | 13.0% |
 | 13:00 | EUR | German HICP (MoM) (Apr) |  | 0.8% | 1.2% |
