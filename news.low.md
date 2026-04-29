@@ -8,7 +8,7 @@
 | 02:30 | AUD | Weighted mean CPI (QoQ) (Q1) | 0.8% |  | 0.9% |
 | 02:30 | AUD | Weighted mean CPI (YoY) (Q1) | 3.5% |  | 3.2% |
 | 06:00 | JPY | Housing Starts (YoY) (Mar) |  | -28.5% | -4.9% |
-| 07:00 | NOK | Core Retail Sales (MoM) (Mar) |  |  | -1.1% |
+| 49 min | NOK | Core Retail Sales (MoM) (Mar) |  |  | -1.1% |
 | 08:00 | EUR | Core CPI (YoY) (Apr) |  |  | 2.9% |
 | 08:00 | EUR | Spanish CPI (MoM) (Apr) |  | 0.6% | 1.2% |
 | 08:00 | EUR | Spanish HICP (MoM) (Apr) |  | 0.6% | 1.7% |
@@ -31,7 +31,7 @@
 | 09:00 | EUR | M3 Money Supply (Mar) |  |  | 17,369.5B |
 | 09:00 | EUR | Loans to Non Financial Corporations (Mar) |  |  | 2.9% |
 | 09:00 | EUR | Private Sector Loans (YoY) (Mar) |  | 3.1% | 3.0% |
-| 10:00 | EUR | Business and Consumer Survey (Apr) |  | 95.5 | 96.6 |
+| 10:00 | EUR | Business and Consumer Survey (Apr) |  | 95.2 | 96.6 |
 | 10:00 | EUR | Business Climate (Apr) |  |  | -0.27 |
 | 10:00 | EUR | Consumer Confidence (Apr) |  | -20.6 | -16.3 |
 | 10:00 | EUR | Consumer Inflation Expectation (Apr) |  |  | 43.4 |
