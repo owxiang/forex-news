@@ -17,25 +17,25 @@
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Apr) | 3.2% | 3.5% | 3.4% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Apr) | 0.7% | 0.6% | 1.7% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Apr) | 3.5% | 3.5% | 3.4% |
-| 09:00 | EUR | Low | Italian Business Confidence (Apr) |  | 88.0 | 88.8 |
-| 09:00 | EUR | Low | Italian Consumer Confidence (Apr) |  | 91.2 | 92.6 |
-| 09:00 | CHF | Low | ZEW Expectations (Apr) |  |  | -35.0 |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Apr) |  |  | 2.5% |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Apr) |  |  | 0.9% |
-| 09:00 | EUR | Low | Bavaria CPI (MoM) (Apr) |  |  | 1.2% |
-| 09:00 | EUR | Low | Bavaria CPI (YoY) (Apr) |  |  | 2.8% |
-| 09:00 | EUR | Low | Brandenburg CPI (YoY) (Apr) |  |  | 2.8% |
-| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Apr) |  |  | 1.1% |
-| 09:00 | EUR | Low | Hesse CPI (MoM) (Apr) |  |  | 1.1% |
-| 09:00 | EUR | Low | Hesse CPI (YoY) (Apr) |  |  | 2.9% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Apr) |  |  | 1.2% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Apr) |  |  | 2.7% |
-| 09:00 | EUR | Low | Saxony CPI (YoY) (Apr) |  |  | 2.8% |
-| 09:00 | EUR | Low | Saxony CPI (MoM) (Apr) |  |  | 1.1% |
-| 09:00 | EUR | Low | M3 Money Supply (YoY) (Mar) |  | 3.1% | 3.0% |
-| 09:00 | EUR | Low | M3 Money Supply (Mar) |  |  | 17,369.5B |
-| 09:00 | EUR | Low | Loans to Non Financial Corporations (Mar) |  |  | 2.9% |
-| 09:00 | EUR | Low | Private Sector Loans (YoY) (Mar) |  | 3.1% | 3.0% |
+| 09:00 | EUR | Low | Italian Business Confidence (Apr) | 87.9 | 88.0 | 88.7 |
+| 09:00 | EUR | Low | Italian Consumer Confidence (Apr) | 90.8 | 91.2 | 92.6 |
+| 09:00 | CHF | Low | ZEW Expectations (Apr) | -30.3 |  | -35.0 |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Apr) | 2.6% |  | 2.5% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Apr) | 0.6% |  | 0.9% |
+| 09:00 | EUR | Low | Bavaria CPI (MoM) (Apr) | 0.5% |  | 1.2% |
+| 09:00 | EUR | Low | Bavaria CPI (YoY) (Apr) | 2.9% |  | 2.8% |
+| 09:00 | EUR | Low | Brandenburg CPI (YoY) (Apr) | 2.9% |  | 2.8% |
+| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Apr) | 0.6% |  | 1.1% |
+| 09:00 | EUR | Low | Hesse CPI (MoM) (Apr) | 0.4% |  | 1.1% |
+| 09:00 | EUR | Low | Hesse CPI (YoY) (Apr) | 2.8% |  | 2.9% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Apr) | 0.4% |  | 1.2% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Apr) | 2.7% |  | 2.7% |
+| 09:00 | EUR | Low | Saxony CPI (YoY) (Apr) | 2.9% |  | 2.8% |
+| 09:00 | EUR | Low | Saxony CPI (MoM) (Apr) | 0.6% |  | 1.1% |
+| 09:00 | EUR | Low | M3 Money Supply (YoY) (Mar) | 3.2% | 3.1% | 3.0% |
+| 09:00 | EUR | Low | M3 Money Supply (Mar) | 17,446.5B |  | 17,369.5B |
+| 09:00 | EUR | Low | Loans to Non Financial Corporations (Mar) | 3.2% |  | 2.9% |
+| 09:00 | EUR | Low | Private Sector Loans (YoY) (Mar) | 3.0% | 3.1% | 3.0% |
 | 10:00 | EUR | Low | Business and Consumer Survey (Apr) |  | 95.2 | 96.6 |
 | 10:00 | EUR | Low | Business Climate (Apr) |  |  | -0.27 |
 | 10:00 | EUR | Low | Consumer Confidence (Apr) |  | -20.6 | -16.3 |
