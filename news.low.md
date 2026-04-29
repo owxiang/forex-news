@@ -5,10 +5,9 @@
 | 02:30 | AUD | CPI Index Number (Q1) | 101.70 |  | 100.32 |
 | 02:30 | AUD | Trimmed Mean CPI (YoY) (Q1) | 3.5% | 3.5% | 3.4% |
 | 02:30 | AUD | Monthly CPI Indicator (YoY) (Mar) | 4.60% | 4.80% | 3.70% |
-| 02:30 | AUD | Weighted mean CPI (QoQ) (Q1) | 0.8% |  | 0.9% |
 | 02:30 | AUD | Weighted mean CPI (YoY) (Q1) | 3.5% |  | 3.2% |
-| 06:00 | JPY | Housing Starts (YoY) (Mar) |  | -28.5% | -4.9% |
-| 49 min | NOK | Core Retail Sales (MoM) (Mar) |  |  | -1.1% |
+| 02:30 | AUD | Weighted mean CPI (QoQ) (Q1) | 0.8% |  | 0.9% |
+| 07:00 | NOK | Core Retail Sales (MoM) (Mar) | -0.1% |  | -1.1% |
 | 08:00 | EUR | Core CPI (YoY) (Apr) |  |  | 2.9% |
 | 08:00 | EUR | Spanish CPI (MoM) (Apr) |  | 0.6% | 1.2% |
 | 08:00 | EUR | Spanish HICP (MoM) (Apr) |  | 0.6% | 1.7% |
@@ -19,12 +18,12 @@
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Apr) |  |  | 0.9% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Apr) |  |  | 1.2% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Apr) |  |  | 2.8% |
-| 09:00 | EUR | Brandenburg CPI (MoM) (Apr) |  |  | 1.1% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Apr) |  |  | 2.8% |
+| 09:00 | EUR | Brandenburg CPI (MoM) (Apr) |  |  | 1.1% |
 | 09:00 | EUR | Hesse CPI (MoM) (Apr) |  |  | 1.1% |
 | 09:00 | EUR | Hesse CPI (YoY) (Apr) |  |  | 2.9% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Apr) |  |  | 2.7% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Apr) |  |  | 1.2% |
+| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Apr) |  |  | 2.7% |
 | 09:00 | EUR | Saxony CPI (YoY) (Apr) |  |  | 2.8% |
 | 09:00 | EUR | Saxony CPI (MoM) (Apr) |  |  | 1.1% |
 | 09:00 | EUR | M3 Money Supply (YoY) (Mar) |  | 3.1% | 3.0% |

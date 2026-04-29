@@ -2,17 +2,16 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 02:30 | AUD | Moderate | CPI (YoY) (Q1) | 4.1% | 4.2% | 3.6% |
 | 02:30 | AUD | Moderate | CPI (QoQ) (Q1) | 1.4% | 1.4% | 0.6% |
+| 02:30 | AUD | Moderate | CPI (YoY) (Q1) | 4.1% | 4.2% | 3.6% |
 | 02:30 | AUD | Low | CPI Index Number (Q1) | 101.70 |  | 100.32 |
 | 02:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q1) | 0.8% | 0.9% | 0.9% |
 | 02:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q1) | 3.5% | 3.5% | 3.4% |
 | 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (Mar) | 4.60% | 4.80% | 3.70% |
-| 02:30 | AUD | Low | Weighted mean CPI (QoQ) (Q1) | 0.8% |  | 0.9% |
 | 02:30 | AUD | Low | Weighted mean CPI (YoY) (Q1) | 3.5% |  | 3.2% |
-| 06:00 | JPY | Low | Housing Starts (YoY) (Mar) |  | -28.5% | -4.9% |
-| 49 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 49 min | NOK | Low | Core Retail Sales (MoM) (Mar) |  |  | -1.1% |
+| 02:30 | AUD | Low | Weighted mean CPI (QoQ) (Q1) | 0.8% |  | 0.9% |
+| 07:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 07:00 | NOK | Low | Core Retail Sales (MoM) (Mar) | -0.1% |  | -1.1% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Apr) |  |  | 2.9% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Apr) |  | 0.6% | 1.2% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Apr) |  | 3.5% | 3.4% |
@@ -25,12 +24,12 @@
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Apr) |  |  | 0.9% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Apr) |  |  | 1.2% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Apr) |  |  | 2.8% |
-| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Apr) |  |  | 1.1% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Apr) |  |  | 2.8% |
+| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Apr) |  |  | 1.1% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Apr) |  |  | 1.1% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Apr) |  |  | 2.9% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Apr) |  |  | 2.7% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Apr) |  |  | 1.2% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Apr) |  |  | 2.7% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Apr) |  |  | 2.8% |
 | 09:00 | EUR | Low | Saxony CPI (MoM) (Apr) |  |  | 1.1% |
 | 09:00 | EUR | Low | M3 Money Supply (YoY) (Mar) |  | 3.1% | 3.0% |
@@ -58,8 +57,8 @@
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 1,023.1 |
 | 12:00 | BRL | Low | IGP-M Inflation Index (MoM) (Apr) |  | 2.50% | 0.52% |
 | 12:30 | INR | Low | M3 Money Supply |  |  | 13.0% |
-| 13:00 | EUR | High | German CPI (MoM) (Apr) |  | 0.7% | 1.1% |
 | 13:00 | EUR | Moderate | German CPI (YoY) (Apr) |  | 3.0% | 2.7% |
+| 13:00 | EUR | High | German CPI (MoM) (Apr) |  | 0.7% | 1.1% |
 | 13:00 | EUR | Low | German HICP (MoM) (Apr) |  | 0.8% | 1.2% |
 | 13:00 | EUR | Low | German HICP (YoY) (Apr) |  | 3.1% | 2.8% |
 | 13:00 | BRL | Low | Brazilian PPI (MoM) (Mar) |  |  | -0.25% |
