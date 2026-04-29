@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | CPI Index Number (Q1) | 102.44 |  | 100.32 |
+| 02:30 | AUD | CPI Index Number (Q1) | 101.70 |  | 100.32 |
 | 02:30 | AUD | Trimmed Mean CPI (YoY) (Q1) | 3.5% | 3.5% | 3.4% |
-| 02:30 | AUD | Monthly CPI Indicator (YoY) (Mar) |  | 4.80% | 3.70% |
+| 02:30 | AUD | Monthly CPI Indicator (YoY) (Mar) | 4.60% | 4.80% | 3.70% |
 | 02:30 | AUD | Weighted mean CPI (QoQ) (Q1) | 0.8% |  | 0.9% |
 | 02:30 | AUD | Weighted mean CPI (YoY) (Q1) | 3.5% |  | 3.2% |
 | 06:00 | JPY | Housing Starts (YoY) (Mar) |  | -28.5% | -4.9% |
