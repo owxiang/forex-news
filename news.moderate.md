@@ -25,4 +25,4 @@
 | 15:30 | CAD | BOC Press Conference |  |  |  |
 | 16:30 | USD | Atlanta Fed GDPNow (Q1) | 1.2% | 1.2% | 1.2% |
 | 16:30 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 22:30 | BRL | Interest Rate Decision |  | 14.75% | 14.75% |
+| 1 min | BRL | Interest Rate Decision |  | 14.75% | 14.75% |
