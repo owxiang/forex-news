@@ -30,18 +30,19 @@
 | 09:00 | EUR | M3 Money Supply (Mar) | 17,446.5B |  | 17,369.5B |
 | 09:00 | EUR | Loans to Non Financial Corporations (Mar) | 3.2% |  | 2.9% |
 | 09:00 | EUR | Private Sector Loans (YoY) (Mar) | 3.0% | 3.1% | 3.0% |
-| 10:00 | EUR | Business and Consumer Survey (Apr) |  | 95.2 | 96.6 |
-| 10:00 | EUR | Business Climate (Apr) |  |  | -0.27 |
-| 10:00 | EUR | Consumer Confidence (Apr) |  | -20.6 | -16.3 |
-| 10:00 | EUR | Consumer Inflation Expectation (Apr) |  |  | 43.4 |
-| 10:00 | EUR | Selling Price Expectations (Apr) |  |  | 19.7 |
-| 10:00 | EUR | Services Sentiment (Apr) |  | 3.5 | 4.9 |
-| 10:00 | EUR | Industrial Sentiment (Apr) |  | -7.2 | -7.0 |
-| 10:30 | EUR | Italian 5-Year BTP Auction |  |  | 3.48% |
-| 11:00 | EUR | Italian Trade Balance EU |  |  | -0.65B |
-| 11:00 | EUR | Italian Trade Balance Non-EU (Mar) |  |  | 5.53B |
-| 11:00 | EUR | Spanish Business Confidence (Apr) |  |  | -4.2 |
-| 11:00 | EUR | Spanish Consumer Confidence (Mar) |  |  | 83.9 |
+| 10:00 | EUR | Business and Consumer Survey (Apr) | 93.0 | 95.2 | 96.2 |
+| 10:00 | EUR | Business Climate (Apr) | -0.28 |  | -0.27 |
+| 10:00 | EUR | Consumer Confidence (Apr) | -20.6 | -20.6 | -16.3 |
+| 10:00 | EUR | Consumer Inflation Expectation (Apr) | 49.1 |  | 43.5 |
+| 10:00 | EUR | Selling Price Expectations (Apr) | 31.1 |  | 20.8 |
+| 10:00 | EUR | Services Sentiment (Apr) | 0.9 | 3.5 | 4.1 |
+| 10:00 | EUR | Industrial Sentiment (Apr) | -7.7 | -7.2 | -7.0 |
+| 10:30 | EUR | Italian 15-Year BTP Auction | 3.77% |  | 4.27% |
+| 10:30 | EUR | Italian 5-Year BTP Auction | 3.32% |  | 3.48% |
+| 12 min | EUR | Italian Trade Balance EU |  |  | -0.65B |
+| 12 min | EUR | Italian Trade Balance Non-EU (Mar) |  |  | 5.53B |
+| 12 min | EUR | Spanish Business Confidence (Apr) |  |  | -4.2 |
+| 12 min | EUR | Spanish Consumer Confidence (Mar) |  |  | 83.9 |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.35% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 7.9% |
 | 12:00 | USD | MBA Purchase Index |  |  | 175.6 |

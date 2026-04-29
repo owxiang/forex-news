@@ -8,8 +8,7 @@
 | 07:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 08:00 | EUR | Spanish CPI (YoY) (Apr) | 3.2% | 3.5% | 3.4% |
 | 08:00 | EUR | Spanish HICP (YoY) (Apr) | 3.5% | 3.5% | 3.4% |
-| 10:30 | EUR | Italian 10-Year BTP Auction |  |  | 4.09% |
-| 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.920% |
+| 10:30 | EUR | German 10-Year Bund Auction | 3.080% |  | 2.920% |
 | 13:00 | EUR | German CPI (YoY) (Apr) |  | 3.0% | 2.7% |
 | 13:30 | USD | Building Permits (Mar) |  | 1.390M | 1.386M |
 | 13:30 | USD | Core Durable Goods Orders (MoM) (Mar) |  | 0.4% | 0.8% |

@@ -36,20 +36,20 @@
 | 09:00 | EUR | Low | M3 Money Supply (Mar) | 17,446.5B |  | 17,369.5B |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Mar) | 3.2% |  | 2.9% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) (Mar) | 3.0% | 3.1% | 3.0% |
-| 10:00 | EUR | Low | Business and Consumer Survey (Apr) |  | 95.2 | 96.6 |
-| 10:00 | EUR | Low | Business Climate (Apr) |  |  | -0.27 |
-| 10:00 | EUR | Low | Consumer Confidence (Apr) |  | -20.6 | -16.3 |
-| 10:00 | EUR | Low | Consumer Inflation Expectation (Apr) |  |  | 43.4 |
-| 10:00 | EUR | Low | Selling Price Expectations (Apr) |  |  | 19.7 |
-| 10:00 | EUR | Low | Services Sentiment (Apr) |  | 3.5 | 4.9 |
-| 10:00 | EUR | Low | Industrial Sentiment (Apr) |  | -7.2 | -7.0 |
-| 10:30 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 4.09% |
-| 10:30 | EUR | Low | Italian 5-Year BTP Auction |  |  | 3.48% |
-| 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.920% |
-| 11:00 | EUR | Low | Italian Trade Balance EU |  |  | -0.65B |
-| 11:00 | EUR | Low | Italian Trade Balance Non-EU (Mar) |  |  | 5.53B |
-| 11:00 | EUR | Low | Spanish Business Confidence (Apr) |  |  | -4.2 |
-| 11:00 | EUR | Low | Spanish Consumer Confidence (Mar) |  |  | 83.9 |
+| 10:00 | EUR | Low | Business and Consumer Survey (Apr) | 93.0 | 95.2 | 96.2 |
+| 10:00 | EUR | Low | Business Climate (Apr) | -0.28 |  | -0.27 |
+| 10:00 | EUR | Low | Consumer Confidence (Apr) | -20.6 | -20.6 | -16.3 |
+| 10:00 | EUR | Low | Consumer Inflation Expectation (Apr) | 49.1 |  | 43.5 |
+| 10:00 | EUR | Low | Selling Price Expectations (Apr) | 31.1 |  | 20.8 |
+| 10:00 | EUR | Low | Services Sentiment (Apr) | 0.9 | 3.5 | 4.1 |
+| 10:00 | EUR | Low | Industrial Sentiment (Apr) | -7.7 | -7.2 | -7.0 |
+| 10:30 | EUR | Low | Italian 15-Year BTP Auction | 3.77% |  | 4.27% |
+| 10:30 | EUR | Low | Italian 5-Year BTP Auction | 3.32% |  | 3.48% |
+| 10:30 | EUR | Moderate | German 10-Year Bund Auction | 3.080% |  | 2.920% |
+| 12 min | EUR | Low | Italian Trade Balance EU |  |  | -0.65B |
+| 12 min | EUR | Low | Italian Trade Balance Non-EU (Mar) |  |  | 5.53B |
+| 12 min | EUR | Low | Spanish Business Confidence (Apr) |  |  | -4.2 |
+| 12 min | EUR | Low | Spanish Consumer Confidence (Mar) |  |  | 83.9 |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.35% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 7.9% |
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 175.6 |
