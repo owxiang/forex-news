@@ -16,14 +16,14 @@
 | 09:00 | CHF | ZEW Expectations (Apr) | -30.3 |  | -35.0 |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Apr) | 2.6% |  | 2.5% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Apr) | 0.6% |  | 0.9% |
-| 09:00 | EUR | Bavaria CPI (MoM) (Apr) | 0.5% |  | 1.2% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Apr) | 2.9% |  | 2.8% |
-| 09:00 | EUR | Brandenburg CPI (MoM) (Apr) | 0.6% |  | 1.1% |
+| 09:00 | EUR | Bavaria CPI (MoM) (Apr) | 0.5% |  | 1.2% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Apr) | 2.9% |  | 2.8% |
+| 09:00 | EUR | Brandenburg CPI (MoM) (Apr) | 0.6% |  | 1.1% |
 | 09:00 | EUR | Hesse CPI (MoM) (Apr) | 0.4% |  | 1.1% |
 | 09:00 | EUR | Hesse CPI (YoY) (Apr) | 2.8% |  | 2.9% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Apr) | 2.7% |  | 2.7% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Apr) | 0.4% |  | 1.2% |
+| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Apr) | 2.7% |  | 2.7% |
 | 09:00 | EUR | Saxony CPI (YoY) (Apr) | 2.9% |  | 2.8% |
 | 09:00 | EUR | Saxony CPI (MoM) (Apr) | 0.6% |  | 1.1% |
 | 09:00 | EUR | M3 Money Supply (YoY) (Mar) | 3.2% | 3.1% | 3.0% |
@@ -47,14 +47,14 @@
 | 12:00 | USD | Mortgage Refinance Index | 977.9 |  | 1,023.1 |
 | 12:00 | EUR | Spanish Business Confidence (Apr) | -5.0 |  | -4.3 |
 | 12:00 | BRL | IGP-M Inflation Index (MoM) (Apr) | 2.73% | 2.50% | 0.52% |
-| 12:30 | INR | M3 Money Supply |  |  | 13.0% |
-| 13:00 | EUR | German HICP (MoM) (Apr) |  | 0.8% | 1.2% |
-| 13:00 | EUR | German HICP (YoY) (Apr) |  | 3.1% | 2.8% |
-| 13:00 | BRL | Brazilian PPI (MoM) (Mar) |  |  | -0.25% |
-| 13:30 | USD | Building Permits (MoM) (Mar) |  |  | -4.7% |
-| 13:30 | USD | Durables Excluding Defense (MoM) (Mar) |  |  | -1.1% |
-| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Mar) |  | 0.5% | 0.6% |
-| 13:30 | USD | Wholesale Inventories (MoM) (Mar) |  | 0.4% | 0.8% |
+| 13:00 | EUR | German HICP (MoM) (Apr) | 0.5% | 0.8% | 1.2% |
+| 13:00 | EUR | German HICP (YoY) (Apr) | 2.9% | 3.1% | 2.8% |
+| 13:00 | BRL | Brazilian PPI (MoM) (Mar) | 2.37% |  | -0.16% |
+| 13:29 | USD | Building Permits (MoM) (Feb) | 10.9% |  | -4.7% |
+| 13:30 | USD | Building Permits (MoM) (Mar) | -10.8% | 10.9% | -4.7% |
+| 13:30 | USD | Durables Excluding Defense (MoM) (Mar) | -0.3% |  | -1.2% |
+| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Mar) | 3.3% | 0.5% | 1.6% |
+| 13:30 | USD | Wholesale Inventories (MoM) (Mar) | 1.4% | 0.4% | 0.9% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.055M |
 | 15:30 | USD | Crude Oil Imports |  |  | 1.214M |
 | 15:30 | USD | Distillate Fuel Production |  |  | 0.087M |

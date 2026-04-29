@@ -13,8 +13,8 @@
 | 07:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Mar) | -0.1% |  | -1.1% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Apr) | 2.8% |  | 2.9% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Apr) | 0.4% | 0.6% | 1.2% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Apr) | 3.2% | 3.5% | 3.4% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Apr) | 0.4% | 0.6% | 1.2% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Apr) | 0.7% | 0.6% | 1.7% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Apr) | 3.5% | 3.5% | 3.4% |
 | 09:00 | EUR | Low | Italian Business Confidence (Apr) | 87.9 | 88.0 | 88.7 |
@@ -22,14 +22,14 @@
 | 09:00 | CHF | Low | ZEW Expectations (Apr) | -30.3 |  | -35.0 |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Apr) | 2.6% |  | 2.5% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Apr) | 0.6% |  | 0.9% |
-| 09:00 | EUR | Low | Bavaria CPI (MoM) (Apr) | 0.5% |  | 1.2% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Apr) | 2.9% |  | 2.8% |
-| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Apr) | 0.6% |  | 1.1% |
+| 09:00 | EUR | Low | Bavaria CPI (MoM) (Apr) | 0.5% |  | 1.2% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Apr) | 2.9% |  | 2.8% |
+| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Apr) | 0.6% |  | 1.1% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Apr) | 0.4% |  | 1.1% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Apr) | 2.8% |  | 2.9% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Apr) | 2.7% |  | 2.7% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Apr) | 0.4% |  | 1.2% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Apr) | 2.7% |  | 2.7% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Apr) | 2.9% |  | 2.8% |
 | 09:00 | EUR | Low | Saxony CPI (MoM) (Apr) | 0.6% |  | 1.1% |
 | 09:00 | EUR | Low | M3 Money Supply (YoY) (Mar) | 3.2% | 3.1% | 3.0% |
@@ -54,23 +54,26 @@
 | 12:00 | USD | Low | Mortgage Refinance Index | 977.9 |  | 1,023.1 |
 | 12:00 | EUR | Low | Spanish Business Confidence (Apr) | -5.0 |  | -4.3 |
 | 12:00 | BRL | Low | IGP-M Inflation Index (MoM) (Apr) | 2.73% | 2.50% | 0.52% |
-| 12:30 | INR | Low | M3 Money Supply |  |  | 13.0% |
-| 13:00 | EUR | High | German CPI (MoM) (Apr) |  | 0.7% | 1.1% |
-| 13:00 | EUR | Moderate | German CPI (YoY) (Apr) |  | 3.0% | 2.7% |
-| 13:00 | EUR | Low | German HICP (MoM) (Apr) |  | 0.8% | 1.2% |
-| 13:00 | EUR | Low | German HICP (YoY) (Apr) |  | 3.1% | 2.8% |
-| 13:00 | BRL | Low | Brazilian PPI (MoM) (Mar) |  |  | -0.25% |
-| 13:30 | USD | Moderate | Building Permits (Mar) |  | 1.390M | 1.386M |
-| 13:30 | USD | Low | Building Permits (MoM) (Mar) |  |  | -4.7% |
-| 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Mar) |  | 0.4% | 0.8% |
-| 13:30 | USD | High | Durable Goods Orders (MoM) (Mar) |  | 0.4% | -1.3% |
-| 13:30 | USD | Low | Durables Excluding Defense (MoM) (Mar) |  |  | -1.1% |
-| 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Mar) |  | 0.5% | 0.6% |
-| 13:30 | USD | Moderate | Goods Trade Balance (Mar) |  | -87.50B | -83.50B |
-| 13:30 | USD | Moderate | Housing Starts (Mar) |  | 1.380M | 1.487M |
-| 13:30 | USD | Moderate | Housing Starts (MoM) (Mar) |  |  | 7.2% |
-| 13:30 | USD | Moderate | Retail Inventories Ex Auto (Mar) |  |  | 0.4% |
-| 13:30 | USD | Low | Wholesale Inventories (MoM) (Mar) |  | 0.4% | 0.8% |
+| 13:00 | EUR | High | German CPI (MoM) (Apr) | 0.6% | 0.7% | 1.1% |
+| 13:00 | EUR | Moderate | German CPI (YoY) (Apr) | 2.9% | 3.0% | 2.7% |
+| 13:00 | EUR | Low | German HICP (MoM) (Apr) | 0.5% | 0.8% | 1.2% |
+| 13:00 | EUR | Low | German HICP (YoY) (Apr) | 2.9% | 3.1% | 2.8% |
+| 13:00 | BRL | Low | Brazilian PPI (MoM) (Mar) | 2.37% |  | -0.16% |
+| 13:29 | USD | Moderate | Building Permits (Feb) | 1.538M |  | 1.386M |
+| 13:29 | USD | Low | Building Permits (MoM) (Feb) | 10.9% |  | -4.7% |
+| 13:29 | USD | Moderate | Housing Starts (Feb) | 1.356M |  | 1.398M |
+| 13:29 | USD | Moderate | Housing Starts (MoM) (Feb) | -3.0% |  | 7.2% |
+| 13:30 | USD | Moderate | Building Permits (Mar) | 1.372M | 1.390M | 1.386M |
+| 13:30 | USD | Low | Building Permits (MoM) (Mar) | -10.8% | 10.9% | -4.7% |
+| 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Mar) | 0.9% | 0.4% | 1.2% |
+| 13:30 | USD | High | Durable Goods Orders (MoM) (Mar) | 0.8% | 0.4% | -1.2% |
+| 13:30 | USD | Low | Durables Excluding Defense (MoM) (Mar) | -0.3% |  | -1.2% |
+| 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Mar) | 3.3% | 0.5% | 1.6% |
+| 13:30 | USD | Moderate | Goods Trade Balance (Mar) | -87.87B | -87.50B | -83.50B |
+| 13:30 | USD | Moderate | Housing Starts (Mar) | 1.502M | 1.380M | 1.398M |
+| 13:30 | USD | Moderate | Housing Starts (MoM) (Mar) | 10.8% |  | 1.8% |
+| 13:30 | USD | Moderate | Retail Inventories Ex Auto (Mar) | 0.5% |  | 0.4% |
+| 13:30 | USD | Low | Wholesale Inventories (MoM) (Mar) | 1.4% | 0.4% | 0.9% |
 | 14:45 | CAD | Moderate | BoC Monetary Policy Report |  |  |  |
 | 14:45 | CAD | Moderate | BoC Rate Statement |  |  |  |
 | 14:45 | CAD | High | BoC Interest Rate Decision |  | 2.25% | 2.25% |
