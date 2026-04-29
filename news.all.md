@@ -13,8 +13,8 @@
 | 07:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Mar) | -0.1% |  | -1.1% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Apr) | 2.8% |  | 2.9% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Apr) | 3.2% | 3.5% | 3.4% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Apr) | 0.4% | 0.6% | 1.2% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Apr) | 3.2% | 3.5% | 3.4% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Apr) | 0.7% | 0.6% | 1.7% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Apr) | 3.5% | 3.5% | 3.4% |
 | 09:00 | EUR | Low | Italian Business Confidence (Apr) | 87.9 | 88.0 | 88.7 |
@@ -24,12 +24,12 @@
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Apr) | 0.6% |  | 0.9% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Apr) | 0.5% |  | 1.2% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Apr) | 2.9% |  | 2.8% |
-| 09:00 | EUR | Low | Brandenburg CPI (YoY) (Apr) | 2.9% |  | 2.8% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Apr) | 0.6% |  | 1.1% |
+| 09:00 | EUR | Low | Brandenburg CPI (YoY) (Apr) | 2.9% |  | 2.8% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Apr) | 0.4% |  | 1.1% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Apr) | 2.8% |  | 2.9% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Apr) | 0.4% |  | 1.2% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Apr) | 2.7% |  | 2.7% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Apr) | 0.4% |  | 1.2% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Apr) | 2.9% |  | 2.8% |
 | 09:00 | EUR | Low | Saxony CPI (MoM) (Apr) | 0.6% |  | 1.1% |
 | 09:00 | EUR | Low | M3 Money Supply (YoY) (Mar) | 3.2% | 3.1% | 3.0% |
@@ -47,15 +47,13 @@
 | 10:30 | EUR | Low | Italian 5-Year BTP Auction | 3.32% |  | 3.48% |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction | 3.080% |  | 2.920% |
 | 11:00 | EUR | Low | Italian Trade Balance Non-EU (Mar) | 5.64B |  | 5.60B |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.35% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 7.9% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 175.6 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 303.3 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 1,023.1 |
-| 12:00 | EUR | Low | Italian Trade Balance EU |  |  | -0.65B |
-| 12:00 | EUR | Low | Spanish Business Confidence (Apr) |  |  | -4.2 |
-| 12:00 | EUR | Low | Spanish Consumer Confidence (Mar) |  |  | 83.9 |
-| 12:00 | BRL | Low | IGP-M Inflation Index (MoM) (Apr) |  | 2.50% | 0.52% |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.37% |  | 6.35% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | -1.6% |  | 7.9% |
+| 12:00 | USD | Low | MBA Purchase Index | 177.7 |  | 175.6 |
+| 12:00 | USD | Low | Mortgage Market Index | 298.5 |  | 303.3 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 977.9 |  | 1,023.1 |
+| 12:00 | EUR | Low | Spanish Business Confidence (Apr) | -5.0 |  | -4.3 |
+| 12:00 | BRL | Low | IGP-M Inflation Index (MoM) (Apr) | 2.73% | 2.50% | 0.52% |
 | 12:30 | INR | Low | M3 Money Supply |  |  | 13.0% |
 | 13:00 | EUR | High | German CPI (MoM) (Apr) |  | 0.7% | 1.1% |
 | 13:00 | EUR | Moderate | German CPI (YoY) (Apr) |  | 3.0% | 2.7% |

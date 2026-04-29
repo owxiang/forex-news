@@ -18,12 +18,12 @@
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Apr) | 0.6% |  | 0.9% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Apr) | 0.5% |  | 1.2% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Apr) | 2.9% |  | 2.8% |
-| 09:00 | EUR | Brandenburg CPI (YoY) (Apr) | 2.9% |  | 2.8% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Apr) | 0.6% |  | 1.1% |
+| 09:00 | EUR | Brandenburg CPI (YoY) (Apr) | 2.9% |  | 2.8% |
 | 09:00 | EUR | Hesse CPI (MoM) (Apr) | 0.4% |  | 1.1% |
 | 09:00 | EUR | Hesse CPI (YoY) (Apr) | 2.8% |  | 2.9% |
-| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Apr) | 0.4% |  | 1.2% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Apr) | 2.7% |  | 2.7% |
+| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Apr) | 0.4% |  | 1.2% |
 | 09:00 | EUR | Saxony CPI (YoY) (Apr) | 2.9% |  | 2.8% |
 | 09:00 | EUR | Saxony CPI (MoM) (Apr) | 0.6% |  | 1.1% |
 | 09:00 | EUR | M3 Money Supply (YoY) (Mar) | 3.2% | 3.1% | 3.0% |
@@ -40,15 +40,13 @@
 | 10:30 | EUR | Italian 15-Year BTP Auction | 3.77% |  | 4.27% |
 | 10:30 | EUR | Italian 5-Year BTP Auction | 3.32% |  | 3.48% |
 | 11:00 | EUR | Italian Trade Balance Non-EU (Mar) | 5.64B |  | 5.60B |
-| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.35% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 7.9% |
-| 12:00 | USD | MBA Purchase Index |  |  | 175.6 |
-| 12:00 | USD | Mortgage Market Index |  |  | 303.3 |
-| 12:00 | USD | Mortgage Refinance Index |  |  | 1,023.1 |
-| 12:00 | EUR | Italian Trade Balance EU |  |  | -0.65B |
-| 12:00 | EUR | Spanish Business Confidence (Apr) |  |  | -4.2 |
-| 12:00 | EUR | Spanish Consumer Confidence (Mar) |  |  | 83.9 |
-| 12:00 | BRL | IGP-M Inflation Index (MoM) (Apr) |  | 2.50% | 0.52% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.37% |  | 6.35% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | -1.6% |  | 7.9% |
+| 12:00 | USD | MBA Purchase Index | 177.7 |  | 175.6 |
+| 12:00 | USD | Mortgage Market Index | 298.5 |  | 303.3 |
+| 12:00 | USD | Mortgage Refinance Index | 977.9 |  | 1,023.1 |
+| 12:00 | EUR | Spanish Business Confidence (Apr) | -5.0 |  | -4.3 |
+| 12:00 | BRL | IGP-M Inflation Index (MoM) (Apr) | 2.73% | 2.50% | 0.52% |
 | 12:30 | INR | M3 Money Supply |  |  | 13.0% |
 | 13:00 | EUR | German HICP (MoM) (Apr) |  | 0.8% | 1.2% |
 | 13:00 | EUR | German HICP (YoY) (Apr) |  | 3.1% | 2.8% |
