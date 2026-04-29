@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 33 min | AUD | CPI Index Number (Q1) |  |  | 100.32 |
-| 33 min | AUD | Trimmed Mean CPI (YoY) (Q1) |  | 3.5% | 3.4% |
-| 33 min | AUD | Monthly CPI Indicator (YoY) (Mar) |  | 4.80% | 3.70% |
-| 33 min | AUD | Weighted mean CPI (QoQ) (Q1) |  |  | 0.9% |
-| 33 min | AUD | Weighted mean CPI (YoY) (Q1) |  |  | 3.2% |
+| 02:30 | AUD | CPI Index Number (Q1) | 102.44 |  | 100.32 |
+| 02:30 | AUD | Trimmed Mean CPI (YoY) (Q1) | 3.5% | 3.5% | 3.4% |
+| 02:30 | AUD | Monthly CPI Indicator (YoY) (Mar) |  | 4.80% | 3.70% |
+| 02:30 | AUD | Weighted mean CPI (QoQ) (Q1) | 0.8% |  | 0.9% |
+| 02:30 | AUD | Weighted mean CPI (YoY) (Q1) | 3.5% |  | 3.2% |
 | 06:00 | JPY | Housing Starts (YoY) (Mar) |  | -28.5% | -4.9% |
 | 07:00 | NOK | Core Retail Sales (MoM) (Mar) |  |  | -1.1% |
 | 08:00 | EUR | Core CPI (YoY) (Apr) |  |  | 2.9% |
