@@ -1,28 +1,50 @@
-## 29 April 2026 - Moderate Impact Forex News
+## 30 April 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | CPI (QoQ) (Q1) | 1.4% | 1.4% | 0.6% |
-| 02:30 | AUD | CPI (YoY) (Q1) | 4.1% | 4.2% | 3.6% |
-| 02:30 | AUD | Trimmed Mean CPI (QoQ) (Q1) | 0.8% | 0.9% | 0.9% |
-| 07:00 | EUR | German Buba Balz Speaks |  |  |  |
-| 08:00 | EUR | Spanish CPI (YoY) (Apr) | 3.2% | 3.5% | 3.4% |
-| 08:00 | EUR | Spanish HICP (YoY) (Apr) | 3.5% | 3.5% | 3.4% |
-| 10:30 | EUR | German 10-Year Bund Auction | 3.080% |  | 2.920% |
-| 13:00 | EUR | German CPI (YoY) (Apr) | 2.9% | 3.0% | 2.7% |
-| 13:29 | USD | Building Permits (Feb) | 1.538M |  | 1.386M |
-| 13:29 | USD | Housing Starts (Feb) | 1.356M |  | 1.398M |
-| 13:29 | USD | Housing Starts (MoM) (Feb) | -3.0% |  | 7.2% |
-| 13:30 | USD | Building Permits (Mar) | 1.372M | 1.390M | 1.386M |
-| 13:30 | USD | Core Durable Goods Orders (MoM) (Mar) | 0.9% | 0.4% | 1.2% |
-| 13:30 | USD | Goods Trade Balance (Mar) | -87.87B | -87.50B | -83.50B |
-| 13:30 | USD | Housing Starts (Mar) | 1.502M | 1.380M | 1.398M |
-| 13:30 | USD | Housing Starts (MoM) (Mar) | 10.8% |  | 1.8% |
-| 13:30 | USD | Retail Inventories Ex Auto (Mar) | 0.5% |  | 0.4% |
-| 14:45 | CAD | BoC Monetary Policy Report |  |  |  |
-| 14:45 | CAD | BoC Rate Statement |  |  |  |
-| 15:30 | USD | Cushing Crude Oil Inventories | -0.796M |  | 0.806M |
-| 15:30 | CAD | BOC Press Conference |  |  |  |
-| 16:30 | USD | Atlanta Fed GDPNow (Q1) | 1.2% | 1.2% | 1.2% |
-| 16:30 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 22:30 | BRL | Interest Rate Decision | 14.50% | 14.75% | 14.75% |
+| 00:50 | JPY | Industrial Production (MoM) (Mar) |  | 1.0% | -2.0% |
+| 02:30 | CNY | Chinese Composite PMI (Apr) |  |  | 50.5 |
+| 02:30 | CNY | Non-Manufacturing PMI (Apr) |  | 49.9 | 50.1 |
+| 02:45 | CNY | RatingDog Manufacturing PMI (MoM) (Apr) |  | 50.9 | 50.8 |
+| 06:30 | EUR | French Consumer Spending (MoM) (Mar) |  | 0.7% | -1.4% |
+| 06:30 | EUR | French GDP (QoQ) (Q1) |  | 0.2% | 0.2% |
+| 06:30 | EUR | French GDP (YoY) (Q1) |  |  | 1.2% |
+| 07:00 | EUR | German Retail Sales (MoM) (Mar) |  | -0.3% | -0.6% |
+| 07:45 | EUR | French CPI (MoM) (Apr) |  | 1.0% | 1.0% |
+| 07:45 | EUR | French HICP (MoM) (Apr) |  | 0.9% | 1.1% |
+| 08:00 | CHF | KOF Leading Indicators (Apr) |  | 95.8 | 96.1 |
+| 08:00 | EUR | Spanish GDP (QoQ) (Q1) |  | 0.5% | 0.8% |
+| 08:55 | EUR | German Unemployment Change (Apr) |  | 4K | 0K |
+| 08:55 | EUR | German Unemployment Rate (Apr) |  | 6.3% | 6.3% |
+| 09:00 | EUR | German GDP (YoY) (Q1) |  | 0.3% | 0.4% |
+| 10:00 | EUR | Core CPI (YoY) (Apr) |  | 2.2% | 2.3% |
+| 10:00 | EUR | CPI (MoM) (Apr) |  |  | 1.3% |
+| 10:00 | EUR | GDP (QoQ) (Q1) |  | 0.2% | 0.2% |
+| 10:00 | EUR | GDP (YoY) (Q1) |  | 0.9% | 1.2% |
+| 10:00 | EUR | Unemployment Rate (Mar) |  | 6.2% | 6.2% |
+| 12:00 | GBP | BoE MPC vote cut (Apr) |  | 0 | 0 |
+| 12:00 | GBP | BoE MPC vote hike (Apr) |  | 1 | 0 |
+| 12:00 | GBP | BoE MPC vote unchanged (Apr) |  | 8 | 9 |
+| 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
+| 12:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Mar) |  | 79.6% | 79.2% |
+| 13:00 | GBP | BOE Inflation Letter |  |  |  |
+| 13:00 | MXN | GDP (YoY) (Q1) |  | 0.8% | 1.8% |
+| 13:00 | MXN | GDP (QoQ) (Q1) |  | -0.5% | 0.9% |
+| 13:00 | BRL | Unemployment Rate (Mar) |  | 6.1% | 5.8% |
+| 13:15 | EUR | ECB Marginal Lending Facility |  |  | 2.40% |
+| 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
+| 13:30 | USD | Continuing Jobless Claims |  | 1,820K | 1,821K |
+| 13:30 | USD | Core PCE Prices (Q1) |  | 4.10% | 2.70% |
+| 13:30 | USD | Employment Cost Index (QoQ) (Q1) |  | 0.8% | 0.7% |
+| 13:30 | USD | GDP Price Index (QoQ) (Q1) |  | 3.8% | 3.7% |
+| 13:30 | USD | PCE price index (MoM) (Mar) |  | 0.7% | 0.4% |
+| 13:30 | USD | PCE Price index (YoY) (Mar) |  | 3.5% | 2.8% |
+| 13:30 | USD | Personal Spending (MoM) (Mar) |  | 0.9% | 0.5% |
+| 13:30 | CAD | GDP (MoM) (Feb) |  | 0.2% | 0.1% |
+| 13:31 | CAD | GDP (MoM) (Mar) |  |  |  |
+| 14:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 15:00 | USD | Atlanta Fed GDPNow (Q2) |  |  |  |
+| 15:00 | USD | US Leading Index (MoM) (Feb) |  | -0.2% | -0.1% |
+| 16:15 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 6,707B |

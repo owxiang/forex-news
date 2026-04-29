@@ -1,67 +1,84 @@
-## 29 April 2026 - Low Impact Forex News
+## 30 April 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | CPI Index Number (Q1) | 101.70 |  | 100.32 |
-| 02:30 | AUD | Trimmed Mean CPI (YoY) (Q1) | 3.5% | 3.5% | 3.4% |
-| 02:30 | AUD | Monthly CPI Indicator (YoY) (Mar) | 4.60% | 4.80% | 3.70% |
-| 02:30 | AUD | Weighted mean CPI (YoY) (Q1) | 3.5% |  | 3.2% |
-| 02:30 | AUD | Weighted mean CPI (QoQ) (Q1) | 0.8% |  | 0.9% |
-| 07:00 | NOK | Core Retail Sales (MoM) (Mar) | -0.1% |  | -1.1% |
-| 08:00 | EUR | Core CPI (YoY) (Apr) | 2.8% |  | 2.9% |
-| 08:00 | EUR | Spanish CPI (MoM) (Apr) | 0.4% | 0.6% | 1.2% |
-| 08:00 | EUR | Spanish HICP (MoM) (Apr) | 0.7% | 0.6% | 1.7% |
-| 09:00 | EUR | Italian Business Confidence (Apr) | 87.9 | 88.0 | 88.7 |
-| 09:00 | EUR | Italian Consumer Confidence (Apr) | 90.8 | 91.2 | 92.6 |
-| 09:00 | CHF | ZEW Expectations (Apr) | -30.3 |  | -35.0 |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Apr) | 2.6% |  | 2.5% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Apr) | 0.6% |  | 0.9% |
-| 09:00 | EUR | Bavaria CPI (MoM) (Apr) | 0.5% |  | 1.2% |
-| 09:00 | EUR | Bavaria CPI (YoY) (Apr) | 2.9% |  | 2.8% |
-| 09:00 | EUR | Brandenburg CPI (YoY) (Apr) | 2.9% |  | 2.8% |
-| 09:00 | EUR | Brandenburg CPI (MoM) (Apr) | 0.6% |  | 1.1% |
-| 09:00 | EUR | Hesse CPI (MoM) (Apr) | 0.4% |  | 1.1% |
-| 09:00 | EUR | Hesse CPI (YoY) (Apr) | 2.8% |  | 2.9% |
-| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Apr) | 0.4% |  | 1.2% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Apr) | 2.7% |  | 2.7% |
-| 09:00 | EUR | Saxony CPI (YoY) (Apr) | 2.9% |  | 2.8% |
-| 09:00 | EUR | Saxony CPI (MoM) (Apr) | 0.6% |  | 1.1% |
-| 09:00 | EUR | M3 Money Supply (YoY) (Mar) | 3.2% | 3.1% | 3.0% |
-| 09:00 | EUR | M3 Money Supply (Mar) | 17,446.5B |  | 17,369.5B |
-| 09:00 | EUR | Loans to Non Financial Corporations (Mar) | 3.2% |  | 2.9% |
-| 09:00 | EUR | Private Sector Loans (YoY) (Mar) | 3.0% | 3.1% | 3.0% |
-| 10:00 | EUR | Business and Consumer Survey (Apr) | 93.0 | 95.2 | 96.2 |
-| 10:00 | EUR | Business Climate (Apr) | -0.28 |  | -0.27 |
-| 10:00 | EUR | Consumer Confidence (Apr) | -20.6 | -20.6 | -16.3 |
-| 10:00 | EUR | Consumer Inflation Expectation (Apr) | 49.1 |  | 43.5 |
-| 10:00 | EUR | Selling Price Expectations (Apr) | 31.1 |  | 20.8 |
-| 10:00 | EUR | Services Sentiment (Apr) | 0.9 | 3.5 | 4.1 |
-| 10:00 | EUR | Industrial Sentiment (Apr) | -7.7 | -7.2 | -7.0 |
-| 10:30 | EUR | Italian 15-Year BTP Auction | 3.77% |  | 4.27% |
-| 10:30 | EUR | Italian 5-Year BTP Auction | 3.32% |  | 3.48% |
-| 11:00 | EUR | Italian Trade Balance Non-EU (Mar) | 5.64B |  | 5.60B |
-| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.37% |  | 6.35% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) | -1.6% |  | 7.9% |
-| 12:00 | USD | MBA Purchase Index | 177.7 |  | 175.6 |
-| 12:00 | USD | Mortgage Market Index | 298.5 |  | 303.3 |
-| 12:00 | USD | Mortgage Refinance Index | 977.9 |  | 1,023.1 |
-| 12:00 | EUR | Spanish Business Confidence (Apr) | -5.0 |  | -4.3 |
-| 12:00 | BRL | IGP-M Inflation Index (MoM) (Apr) | 2.73% | 2.50% | 0.52% |
-| 13:00 | EUR | German HICP (MoM) (Apr) | 0.5% | 0.8% | 1.2% |
-| 13:00 | EUR | German HICP (YoY) (Apr) | 2.9% | 3.1% | 2.8% |
-| 13:00 | BRL | Brazilian PPI (MoM) (Mar) | 2.37% |  | -0.16% |
-| 13:29 | USD | Building Permits (MoM) (Feb) | 10.9% |  | -4.7% |
-| 13:30 | USD | Building Permits (MoM) (Mar) | -10.8% | 10.9% | -4.7% |
-| 13:30 | USD | Durables Excluding Defense (MoM) (Mar) | -0.3% |  | -1.2% |
-| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Mar) | 3.3% | 0.5% | 1.6% |
-| 13:30 | USD | Wholesale Inventories (MoM) (Mar) | 1.4% | 0.4% | 0.9% |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) | 0.084M |  | -0.055M |
-| 15:30 | USD | Crude Oil Imports | -1.968M |  | 1.214M |
-| 15:30 | USD | Distillate Fuel Production | -0.013M |  | 0.087M |
-| 15:30 | USD | EIA Weekly Distillates Stocks | -4.494M | -2.200M | -3.427M |
-| 15:30 | USD | Gasoline Production | -0.238M |  | 0.315M |
-| 15:30 | USD | Heating Oil Stockpiles | -0.625M |  | -0.328M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.5% |  | -0.5% |
-| 15:30 | USD | Gasoline Inventories | -6.075M | -2.100M | -4.570M |
-| 18:30 | BRL | CAGED Net Payroll Jobs (Mar) | 228.21K |  | 255.32K |
-| 18:30 | BRL | Foreign Exchange Flows | 9.184B |  | -2.450B |
+| 00:00 | KRW | Industrial Production (YoY) (Mar) | 3.6% | 3.8% | -2.3% |
+| 00:00 | KRW | Industrial Production (MoM) (Mar) | 0.3% | 0.2% | 5.3% |
+| 00:00 | KRW | Retail Sales (MoM) (Mar) | 1.8% |  | -0.3% |
+| 00:00 | KRW | Service Sector Output (MoM) (Mar) | 1.4% |  | 0.3% |
+| 00:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Apr) |  |  | 3.8% |
+| 00:50 | JPY | Industrial Production forecast 2m ahead (MoM) (May) |  |  | 3.3% |
+| 00:50 | JPY | Large Retailers' Sales (MoM) (Mar) |  | 0.8% | -2.0% |
+| 00:50 | JPY | Large Scale Retail Sales YoY (YoY) (Mar) |  |  | 2.0% |
+| 00:50 | JPY | Retail Sales (YoY) (Mar) |  | 0.9% | -0.2% |
+| 02:00 | NZD | ANZ Business Confidence (Apr) |  |  | 32.5 |
+| 02:00 | NZD | NBNZ Own Activity (Apr) |  |  | 39.3% |
+| 02:30 | AUD | Export Price Index (QoQ) (Q1) |  |  | 3.2% |
+| 02:30 | AUD | Housing Credit (Mar) |  |  | 0.6% |
+| 02:30 | AUD | Import Price Index (QoQ) (Q1) |  | 0.4% | 0.9% |
+| 02:30 | AUD | Private Sector Credit (MoM) (Mar) |  | 0.6% | 0.6% |
+| 03:00 | SGD | Bank Lending (Mar) |  |  | 893.6B |
+| 03:30 | SGD | Unemployment Rate (Q1) |  |  | 2.0% |
+| 04:00 | NZD | M3 Money Supply (Mar) |  |  | 445,894.0B |
+| 04:35 | JPY | 2-Year JGB Auction |  |  | 1.370% |
+| 06:00 | JPY | Construction Orders (YoY) (Mar) |  |  | 42.7% |
+| 06:00 | JPY | Household Confidence (Apr) |  | 32.8 | 33.3 |
+| 06:00 | JPY | Housing Starts (YoY) (Mar) |  | -28.7% | -4.9% |
+| 06:00 | SGD | Business Expectations (Q1) |  |  | 11.00 |
+| 07:00 | EUR | German Import Price Index (MoM) (Mar) |  | 3.6% | 0.3% |
+| 07:00 | EUR | German Import Price Index (YoY) (Mar) |  | 1.6% | -2.3% |
+| 07:00 | EUR | German Retail Sales (YoY) (Mar) |  |  | 0.7% |
+| 07:00 | NOK | Unemployment Rate n.s.a. (Apr) |  | 2.20% | 2.20% |
+| 07:00 | ZAR | M3 Money Supply (YoY) (Mar) |  |  | 8.39% |
+| 07:00 | ZAR | Private Sector Credit (Mar) |  |  | 10.50% |
+| 07:45 | EUR | French CPI (YoY) (Apr) |  | 2.0% | 1.7% |
+| 07:45 | EUR | French HICP (YoY) (Apr) |  | 2.3% | 2.0% |
+| 07:45 | EUR | French Non-Farm Payrolls (QoQ) (Q1) |  | -0.1% | -0.1% |
+| 07:45 | EUR | French PPI (MoM) (Mar) |  |  | -0.2% |
+| 07:45 | EUR | PPI (YoY) (Mar) |  |  | -2.40% |
+| 08:00 | CHF | Official Reserves Assets (Mar) |  |  | 856.0B |
+| 08:00 | EUR | Spanish GDP (YoY) (Q1) |  | 2.7% | 2.7% |
+| 08:55 | EUR | German Unemployment (Apr) |  |  | 2.977M |
+| 08:55 | EUR | German Unemployment n.s.a. (Apr) |  |  | 3.021M |
+| 09:00 | EUR | Italian GDP (QoQ) (Q1) |  | 0.1% | 0.3% |
+| 09:00 | EUR | Italian GDP (YoY) (Q1) |  | 0.6% | 0.8% |
+| 09:00 | EUR | Spanish Current account (Feb) |  |  | 2.73B |
+| 09:30 | EUR | Italian Monthly Unemployment Rate (Mar) |  | 5.3% | 5.3% |
+| 09:30 | HKD | M3 Money Supply (Mar) |  |  | 2.1% |
+| 10:00 | EUR | Italian CPI (MoM) (Apr) |  | 0.9% | 0.5% |
+| 10:00 | EUR | Italian CPI (YoY) (Apr) |  | 2.6% | 1.7% |
+| 10:00 | EUR | Italian HICP (MoM) (Apr) |  | 1.3% | 1.7% |
+| 10:00 | EUR | Italian HICP (YoY) (Apr) |  | 2.5% | 1.6% |
+| 10:00 | NOK | Central Bank Currency Purchase (May) |  |  | -50.0M |
+| 10:00 | EUR | Core CPI (MoM) (Apr) |  |  | 0.8% |
+| 10:00 | EUR | CPI, n.s.a (Apr) |  |  | 101.99 |
+| 10:00 | EUR | HICP ex Energy & Food (YoY) (Apr) |  |  | 2.2% |
+| 10:00 | EUR | HICP ex Energy and Food (MoM) (Apr) |  |  | 0.7% |
+| 10:30 | ZAR | PPI (MoM) (Mar) |  |  | 0.0% |
+| 10:30 | ZAR | PPI (YoY) (Mar) |  |  | 1.8% |
+| 11:00 | INR | Federal Fiscal Deficit (Mar) |  |  | 12,526.49B |
+| 12:00 | EUR | Spanish Consumer Confidence (Mar) |  |  | 83.9 |
+| 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
+| 12:30 | BRL | Net Debt-to-GDP ratio (Mar) |  |  | 65.5% |
+| 12:30 | BRL | Budget Balance (Mar) |  | -148.000B | -100.589B |
+| 12:30 | BRL | Budget Surplus (Mar) |  |  | -16.388B |
+| 13:00 | ZAR | Trade Balance (Mar) |  |  | 36.92B |
+| 13:30 | USD | Employment Benefits (QoQ) (Q1) |  |  | 0.70% |
+| 13:30 | USD | Employment Wages (QoQ) (Q1) |  |  | 0.70% |
+| 13:30 | USD | GDP Sales (Q1) |  |  | 0.3% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 210.75K |
+| 13:30 | USD | PCE Prices (Q1) |  |  | 2.9% |
+| 13:30 | USD | Personal Income (MoM) (Mar) |  | 0.3% | -0.1% |
+| 13:30 | USD | Real Consumer Spending (Q1) |  |  | 1.9% |
+| 13:30 | USD | Real Personal Consumption (MoM) (Mar) |  |  | 0.1% |
+| 13:30 | CAD | Average Weekly Earnings (YoY) (Feb) |  |  | 2.02% |
+| 15:00 | USD | Dallas Fed PCE (Mar) |  |  | 1.80% |
+| 15:30 | USD | Natural Gas Storage |  | 83B | 103B |
+| 16:30 | USD | 4-Week Bill Auction |  |  | 3.595% |
+| 16:30 | USD | 8-Week Bill Auction |  |  | 3.605% |
+| 18:21 | ZAR | Budget Balance (MoM) (Mar) |  |  | 27.28B |
+| 18:30 | BRL | CAGED Net Payroll Jobs (Mar) |  | 150.00K | 255.32K |
+| 18:30 | BRL | Foreign Exchange Flows |  |  | -2.450B |
+| 20:00 | MXN | Fiscal Balance (Mar) |  |  | -50.73B |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.915T |
+| 23:45 | NZD | Building Consents (MoM) (Mar) |  |  | 2.7% |
