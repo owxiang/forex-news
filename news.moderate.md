@@ -21,8 +21,8 @@
 | 13:30 | USD | Retail Inventories Ex Auto (Mar) | 0.5% |  | 0.4% |
 | 14:45 | CAD | BoC Monetary Policy Report |  |  |  |
 | 14:45 | CAD | BoC Rate Statement |  |  |  |
-| 15:00 | USD | Atlanta Fed GDPNow (Q1) |  | 1.2% | 1.2% |
-| 15:30 | USD | Cushing Crude Oil Inventories |  |  | 0.806M |
+| 15:30 | USD | Cushing Crude Oil Inventories | -0.796M |  | 0.806M |
 | 15:30 | CAD | BOC Press Conference |  |  |  |
+| 16:00 | USD | Atlanta Fed GDPNow (Q1) |  | 1.2% | 1.2% |
 | 16:30 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 22:30 | BRL | Interest Rate Decision |  | 14.75% | 14.75% |

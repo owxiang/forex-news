@@ -76,19 +76,19 @@
 | 13:30 | USD | Low | Wholesale Inventories (MoM) (Mar) | 1.4% | 0.4% | 0.9% |
 | 14:45 | CAD | Moderate | BoC Monetary Policy Report |  |  |  |
 | 14:45 | CAD | Moderate | BoC Rate Statement |  |  |  |
-| 14:45 | CAD | High | BoC Interest Rate Decision |  | 2.25% | 2.25% |
-| 15:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 1.2% | 1.2% |
-| 15:30 | USD | High | Crude Oil Inventories |  | 0.300M | 1.925M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.055M |
-| 15:30 | USD | Low | Crude Oil Imports |  |  | 1.214M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.806M |
-| 15:30 | USD | Low | Distillate Fuel Production |  |  | 0.087M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  |  | -3.427M |
-| 15:30 | USD | Low | Gasoline Production |  |  | 0.315M |
-| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | -0.328M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.5% |
-| 15:30 | USD | Low | Gasoline Inventories |  |  | -4.570M |
+| 14:45 | CAD | High | BoC Interest Rate Decision | 2.25% | 2.25% | 2.25% |
+| 15:30 | USD | High | Crude Oil Inventories | -6.234M | 0.300M | 1.925M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.084M |  | -0.055M |
+| 15:30 | USD | Low | Crude Oil Imports | -1.968M |  | 1.214M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | -0.796M |  | 0.806M |
+| 15:30 | USD | Low | Distillate Fuel Production | -0.013M |  | 0.087M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks | -4.494M | -2.200M | -3.427M |
+| 15:30 | USD | Low | Gasoline Production | -0.238M |  | 0.315M |
+| 15:30 | USD | Low | Heating Oil Stockpiles | -0.625M |  | -0.328M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 0.5% |  | -0.5% |
+| 15:30 | USD | Low | Gasoline Inventories | -6.075M | -2.100M | -4.570M |
 | 15:30 | CAD | Moderate | BOC Press Conference |  |  |  |
+| 16:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 1.2% | 1.2% |
 | 16:30 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -2.450B |
 | 19:00 | USD | High | FOMC Statement |  |  |  |

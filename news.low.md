@@ -55,12 +55,12 @@
 | 13:30 | USD | Durables Excluding Defense (MoM) (Mar) | -0.3% |  | -1.2% |
 | 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Mar) | 3.3% | 0.5% | 1.6% |
 | 13:30 | USD | Wholesale Inventories (MoM) (Mar) | 1.4% | 0.4% | 0.9% |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.055M |
-| 15:30 | USD | Crude Oil Imports |  |  | 1.214M |
-| 15:30 | USD | Distillate Fuel Production |  |  | 0.087M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | -3.427M |
-| 15:30 | USD | Gasoline Production |  |  | 0.315M |
-| 15:30 | USD | Heating Oil Stockpiles |  |  | -0.328M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.5% |
-| 15:30 | USD | Gasoline Inventories |  |  | -4.570M |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) | 0.084M |  | -0.055M |
+| 15:30 | USD | Crude Oil Imports | -1.968M |  | 1.214M |
+| 15:30 | USD | Distillate Fuel Production | -0.013M |  | 0.087M |
+| 15:30 | USD | EIA Weekly Distillates Stocks | -4.494M | -2.200M | -3.427M |
+| 15:30 | USD | Gasoline Production | -0.238M |  | 0.315M |
+| 15:30 | USD | Heating Oil Stockpiles | -0.625M |  | -0.328M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.5% |  | -0.5% |
+| 15:30 | USD | Gasoline Inventories | -6.075M | -2.100M | -4.570M |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | -2.450B |
