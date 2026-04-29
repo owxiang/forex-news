@@ -5,8 +5,8 @@
 | 02:30 | AUD | CPI Index Number (Q1) | 101.70 |  | 100.32 |
 | 02:30 | AUD | Trimmed Mean CPI (YoY) (Q1) | 3.5% | 3.5% | 3.4% |
 | 02:30 | AUD | Monthly CPI Indicator (YoY) (Mar) | 4.60% | 4.80% | 3.70% |
-| 02:30 | AUD | Weighted mean CPI (QoQ) (Q1) | 0.8% |  | 0.9% |
 | 02:30 | AUD | Weighted mean CPI (YoY) (Q1) | 3.5% |  | 3.2% |
+| 02:30 | AUD | Weighted mean CPI (QoQ) (Q1) | 0.8% |  | 0.9% |
 | 07:00 | NOK | Core Retail Sales (MoM) (Mar) | -0.1% |  | -1.1% |
 | 08:00 | EUR | Core CPI (YoY) (Apr) | 2.8% |  | 2.9% |
 | 08:00 | EUR | Spanish CPI (MoM) (Apr) | 0.4% | 0.6% | 1.2% |
@@ -16,8 +16,8 @@
 | 09:00 | CHF | ZEW Expectations (Apr) | -30.3 |  | -35.0 |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Apr) | 2.6% |  | 2.5% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Apr) | 0.6% |  | 0.9% |
-| 09:00 | EUR | Bavaria CPI (YoY) (Apr) | 2.9% |  | 2.8% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Apr) | 0.5% |  | 1.2% |
+| 09:00 | EUR | Bavaria CPI (YoY) (Apr) | 2.9% |  | 2.8% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Apr) | 2.9% |  | 2.8% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Apr) | 0.6% |  | 1.1% |
 | 09:00 | EUR | Hesse CPI (MoM) (Apr) | 0.4% |  | 1.1% |
@@ -63,4 +63,5 @@
 | 15:30 | USD | Heating Oil Stockpiles | -0.625M |  | -0.328M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.5% |  | -0.5% |
 | 15:30 | USD | Gasoline Inventories | -6.075M | -2.100M | -4.570M |
-| 18:30 | BRL | Foreign Exchange Flows |  |  | -2.450B |
+| 18:30 | BRL | CAGED Net Payroll Jobs (Mar) | 228.21K |  | 255.32K |
+| 18:30 | BRL | Foreign Exchange Flows | 9.184B |  | -2.450B |

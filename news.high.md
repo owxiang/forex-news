@@ -7,5 +7,5 @@
 | 14:45 | CAD | BoC Interest Rate Decision | 2.25% | 2.25% | 2.25% |
 | 15:30 | USD | Crude Oil Inventories | -6.234M | 0.300M | 1.925M |
 | 19:00 | USD | FOMC Statement |  |  |  |
-| 19:00 | USD | Fed Interest Rate Decision |  | 3.75% | 3.75% |
+| 19:00 | USD | Fed Interest Rate Decision | 3.75% | 3.75% | 3.75% |
 | 19:30 | USD | FOMC Press Conference |  |  |  |

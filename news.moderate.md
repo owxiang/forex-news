@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | CPI (YoY) (Q1) | 4.1% | 4.2% | 3.6% |
 | 02:30 | AUD | CPI (QoQ) (Q1) | 1.4% | 1.4% | 0.6% |
+| 02:30 | AUD | CPI (YoY) (Q1) | 4.1% | 4.2% | 3.6% |
 | 02:30 | AUD | Trimmed Mean CPI (QoQ) (Q1) | 0.8% | 0.9% | 0.9% |
 | 07:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 08:00 | EUR | Spanish CPI (YoY) (Apr) | 3.2% | 3.5% | 3.4% |

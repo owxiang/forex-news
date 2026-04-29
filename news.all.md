@@ -2,19 +2,19 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 02:30 | AUD | Moderate | CPI (YoY) (Q1) | 4.1% | 4.2% | 3.6% |
 | 02:30 | AUD | Moderate | CPI (QoQ) (Q1) | 1.4% | 1.4% | 0.6% |
+| 02:30 | AUD | Moderate | CPI (YoY) (Q1) | 4.1% | 4.2% | 3.6% |
 | 02:30 | AUD | Low | CPI Index Number (Q1) | 101.70 |  | 100.32 |
 | 02:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q1) | 0.8% | 0.9% | 0.9% |
 | 02:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q1) | 3.5% | 3.5% | 3.4% |
 | 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (Mar) | 4.60% | 4.80% | 3.70% |
-| 02:30 | AUD | Low | Weighted mean CPI (QoQ) (Q1) | 0.8% |  | 0.9% |
 | 02:30 | AUD | Low | Weighted mean CPI (YoY) (Q1) | 3.5% |  | 3.2% |
+| 02:30 | AUD | Low | Weighted mean CPI (QoQ) (Q1) | 0.8% |  | 0.9% |
 | 07:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Mar) | -0.1% |  | -1.1% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Apr) | 2.8% |  | 2.9% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Apr) | 3.2% | 3.5% | 3.4% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Apr) | 0.4% | 0.6% | 1.2% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Apr) | 3.2% | 3.5% | 3.4% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Apr) | 0.7% | 0.6% | 1.7% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Apr) | 3.5% | 3.5% | 3.4% |
 | 09:00 | EUR | Low | Italian Business Confidence (Apr) | 87.9 | 88.0 | 88.7 |
@@ -22,8 +22,8 @@
 | 09:00 | CHF | Low | ZEW Expectations (Apr) | -30.3 |  | -35.0 |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Apr) | 2.6% |  | 2.5% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Apr) | 0.6% |  | 0.9% |
-| 09:00 | EUR | Low | Bavaria CPI (YoY) (Apr) | 2.9% |  | 2.8% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Apr) | 0.5% |  | 1.2% |
+| 09:00 | EUR | Low | Bavaria CPI (YoY) (Apr) | 2.9% |  | 2.8% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Apr) | 2.9% |  | 2.8% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Apr) | 0.6% |  | 1.1% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Apr) | 0.4% |  | 1.1% |
@@ -90,8 +90,9 @@
 | 15:30 | CAD | Moderate | BOC Press Conference |  |  |  |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 1.2% | 1.2% | 1.2% |
 | 16:30 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -2.450B |
+| 18:30 | BRL | Low | CAGED Net Payroll Jobs (Mar) | 228.21K |  | 255.32K |
+| 18:30 | BRL | Low | Foreign Exchange Flows | 9.184B |  | -2.450B |
 | 19:00 | USD | High | FOMC Statement |  |  |  |
-| 19:00 | USD | High | Fed Interest Rate Decision |  | 3.75% | 3.75% |
+| 19:00 | USD | High | Fed Interest Rate Decision | 3.75% | 3.75% | 3.75% |
 | 19:30 | USD | High | FOMC Press Conference |  |  |  |
 | 22:30 | BRL | Moderate | Interest Rate Decision |  | 14.75% | 14.75% |
