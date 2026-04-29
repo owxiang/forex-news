@@ -88,7 +88,7 @@
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 0.5% |  | -0.5% |
 | 15:30 | USD | Low | Gasoline Inventories | -6.075M | -2.100M | -4.570M |
 | 15:30 | CAD | Moderate | BOC Press Conference |  |  |  |
-| 16:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 1.2% | 1.2% |
+| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 1.2% | 1.2% | 1.2% |
 | 16:30 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -2.450B |
 | 19:00 | USD | High | FOMC Statement |  |  |  |
