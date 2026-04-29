@@ -6,8 +6,8 @@
 | 02:30 | AUD | CPI (YoY) (Q1) | 4.1% | 4.2% | 3.6% |
 | 02:30 | AUD | Trimmed Mean CPI (QoQ) (Q1) | 0.8% | 0.9% | 0.9% |
 | 07:00 | EUR | German Buba Balz Speaks |  |  |  |
-| 08:00 | EUR | Spanish CPI (YoY) (Apr) |  | 3.5% | 3.4% |
-| 08:00 | EUR | Spanish HICP (YoY) (Apr) |  | 3.5% | 3.4% |
+| 08:00 | EUR | Spanish CPI (YoY) (Apr) | 3.2% | 3.5% | 3.4% |
+| 08:00 | EUR | Spanish HICP (YoY) (Apr) | 3.5% | 3.5% | 3.4% |
 | 10:30 | EUR | Italian 10-Year BTP Auction |  |  | 4.09% |
 | 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.920% |
 | 13:00 | EUR | German CPI (YoY) (Apr) |  | 3.0% | 2.7% |

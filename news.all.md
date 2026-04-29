@@ -12,11 +12,11 @@
 | 02:30 | AUD | Low | Weighted mean CPI (QoQ) (Q1) | 0.8% |  | 0.9% |
 | 07:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Mar) | -0.1% |  | -1.1% |
-| 08:00 | EUR | Low | Core CPI (YoY) (Apr) |  |  | 2.9% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Apr) |  | 0.6% | 1.2% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Apr) |  | 3.5% | 3.4% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Apr) |  | 0.6% | 1.7% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Apr) |  | 3.5% | 3.4% |
+| 08:00 | EUR | Low | Core CPI (YoY) (Apr) | 2.8% |  | 2.9% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Apr) | 0.4% | 0.6% | 1.2% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Apr) | 3.2% | 3.5% | 3.4% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Apr) | 0.7% | 0.6% | 1.7% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Apr) | 3.5% | 3.5% | 3.4% |
 | 09:00 | EUR | Low | Italian Business Confidence (Apr) |  | 88.0 | 88.8 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Apr) |  | 91.2 | 92.6 |
 | 09:00 | CHF | Low | ZEW Expectations (Apr) |  |  | -35.0 |

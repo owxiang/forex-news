@@ -8,9 +8,9 @@
 | 02:30 | AUD | Weighted mean CPI (YoY) (Q1) | 3.5% |  | 3.2% |
 | 02:30 | AUD | Weighted mean CPI (QoQ) (Q1) | 0.8% |  | 0.9% |
 | 07:00 | NOK | Core Retail Sales (MoM) (Mar) | -0.1% |  | -1.1% |
-| 08:00 | EUR | Core CPI (YoY) (Apr) |  |  | 2.9% |
-| 08:00 | EUR | Spanish CPI (MoM) (Apr) |  | 0.6% | 1.2% |
-| 08:00 | EUR | Spanish HICP (MoM) (Apr) |  | 0.6% | 1.7% |
+| 08:00 | EUR | Core CPI (YoY) (Apr) | 2.8% |  | 2.9% |
+| 08:00 | EUR | Spanish CPI (MoM) (Apr) | 0.4% | 0.6% | 1.2% |
+| 08:00 | EUR | Spanish HICP (MoM) (Apr) | 0.7% | 0.6% | 1.7% |
 | 09:00 | EUR | Italian Business Confidence (Apr) |  | 88.0 | 88.8 |
 | 09:00 | EUR | Italian Consumer Confidence (Apr) |  | 91.2 | 92.6 |
 | 09:00 | CHF | ZEW Expectations (Apr) |  |  | -35.0 |
