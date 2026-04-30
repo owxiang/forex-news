@@ -6,17 +6,17 @@
 | 02:30 | CNY | Chinese Composite PMI (Apr) | 50.1 |  | 50.5 |
 | 02:30 | CNY | Non-Manufacturing PMI (Apr) | 49.4 | 49.9 | 50.1 |
 | 02:45 | CNY | RatingDog Manufacturing PMI (MoM) (Apr) | 52.2 | 50.9 | 50.8 |
-| 06:30 | EUR | French Consumer Spending (MoM) (Mar) |  | 0.7% | -1.4% |
-| 06:30 | EUR | French GDP (QoQ) (Q1) |  | 0.2% | 0.2% |
-| 06:30 | EUR | French GDP (YoY) (Q1) |  |  | 1.2% |
-| 07:00 | EUR | German Retail Sales (MoM) (Mar) |  | -0.3% | -0.6% |
-| 07:45 | EUR | French CPI (MoM) (Apr) |  | 0.9% | 1.0% |
-| 07:45 | EUR | French HICP (MoM) (Apr) |  | 0.9% | 1.1% |
-| 08:00 | CHF | KOF Leading Indicators (Apr) |  | 95.8 | 96.1 |
-| 08:00 | EUR | Spanish GDP (QoQ) (Q1) |  | 0.5% | 0.8% |
-| 08:55 | EUR | German Unemployment Change (Apr) |  | 4K | 0K |
-| 08:55 | EUR | German Unemployment Rate (Apr) |  | 6.3% | 6.3% |
-| 09:00 | EUR | German GDP (YoY) (Q1) |  | 0.3% | 0.4% |
+| 06:30 | EUR | French Consumer Spending (MoM) (Mar) | 0.7% | 0.7% | -1.4% |
+| 06:30 | EUR | French GDP (QoQ) (Q1) | 0.0% | 0.2% | 0.2% |
+| 06:30 | EUR | French GDP (YoY) (Q1) | 1.1% |  | 1.3% |
+| 07:00 | EUR | German Retail Sales (MoM) (Mar) | -2.0% | -0.3% | -0.3% |
+| 07:45 | EUR | French CPI (MoM) (Apr) | 1.0% | 0.9% | 1.0% |
+| 07:45 | EUR | French HICP (MoM) (Apr) | 1.2% | 0.9% | 1.1% |
+| 08:00 | CHF | KOF Leading Indicators (Apr) | 97.9 | 95.8 | 95.6 |
+| 08:00 | EUR | Spanish GDP (QoQ) (Q1) | 0.6% | 0.5% | 0.8% |
+| 53 min | EUR | German Unemployment Change (Apr) |  | 4K | 0K |
+| 53 min | EUR | German Unemployment Rate (Apr) |  | 6.3% | 6.3% |
+| 58 min | EUR | German GDP (YoY) (Q1) |  | 0.3% | 0.4% |
 | 10:00 | EUR | Core CPI (YoY) (Apr) |  | 2.2% | 2.3% |
 | 10:00 | EUR | CPI (MoM) (Apr) |  |  | 1.3% |
 | 10:00 | EUR | GDP (QoQ) (Q1) |  | 0.2% | 0.2% |

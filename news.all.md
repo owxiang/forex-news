@@ -30,36 +30,36 @@
 | 06:00 | JPY | Low | Household Confidence (Apr) | 32.2 | 32.8 | 33.3 |
 | 06:00 | JPY | Low | Housing Starts (YoY) (Mar) | -29.3% | -28.7% | -4.9% |
 | 06:00 | SGD | Low | Business Expectations (Q1) | 17.00 |  | 11.00 |
-| 06:30 | EUR | Moderate | French Consumer Spending (MoM) (Mar) |  | 0.7% | -1.4% |
-| 06:30 | EUR | Moderate | French GDP (QoQ) (Q1) |  | 0.2% | 0.2% |
-| 06:30 | EUR | Moderate | French GDP (YoY) (Q1) |  |  | 1.2% |
-| 07:00 | EUR | Low | German Import Price Index (MoM) (Mar) |  | 3.6% | 0.3% |
-| 07:00 | EUR | Low | German Import Price Index (YoY) (Mar) |  | 1.6% | -2.3% |
-| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Mar) |  | -0.3% | -0.6% |
-| 07:00 | EUR | Low | German Retail Sales (YoY) (Mar) |  | 0.5% | 0.7% |
-| 07:00 | NOK | Low | Unemployment Rate n.s.a. (Apr) |  | 2.20% | 2.20% |
-| 07:00 | ZAR | Low | M3 Money Supply (YoY) (Mar) |  |  | 8.39% |
-| 07:00 | ZAR | Low | Private Sector Credit (Mar) |  |  | 10.50% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Apr) |  | 0.9% | 1.0% |
-| 07:45 | EUR | Low | French CPI (YoY) (Apr) |  | 2.0% | 1.7% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Apr) |  | 0.9% | 1.1% |
-| 07:45 | EUR | Low | French HICP (YoY) (Apr) |  | 2.3% | 2.0% |
-| 07:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q1) |  | -0.1% | -0.1% |
-| 07:45 | EUR | Low | French PPI (MoM) (Mar) |  |  | -0.2% |
-| 07:45 | EUR | Low | PPI (YoY) (Mar) |  |  | -2.40% |
-| 08:00 | CHF | Moderate | KOF Leading Indicators (Apr) |  | 95.8 | 96.1 |
+| 06:30 | EUR | Moderate | French Consumer Spending (MoM) (Mar) | 0.7% | 0.7% | -1.4% |
+| 06:30 | EUR | Moderate | French GDP (QoQ) (Q1) | 0.0% | 0.2% | 0.2% |
+| 06:30 | EUR | Moderate | French GDP (YoY) (Q1) | 1.1% |  | 1.3% |
+| 07:00 | EUR | Low | German Import Price Index (MoM) (Mar) | 3.6% | 3.6% | 0.3% |
+| 07:00 | EUR | Low | German Import Price Index (YoY) (Mar) | 2.3% | 1.6% | -2.3% |
+| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Mar) | -2.0% | -0.3% | -0.3% |
+| 07:00 | EUR | Low | German Retail Sales (YoY) (Mar) | -2.0% | 0.5% | 0.9% |
+| 07:00 | NOK | Low | Unemployment Rate n.s.a. (Apr) | 2.10% | 2.20% | 2.20% |
+| 07:00 | ZAR | Low | M3 Money Supply (YoY) (Mar) | 8.96% |  | 8.38% |
+| 07:00 | ZAR | Low | Private Sector Credit (Mar) | 8.50% |  | 10.50% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Apr) | 1.0% | 0.9% | 1.0% |
+| 07:45 | EUR | Low | French CPI (YoY) (Apr) | 2.2% | 2.0% | 1.7% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Apr) | 1.2% | 0.9% | 1.1% |
+| 07:45 | EUR | Low | French HICP (YoY) (Apr) | 2.5% | 2.3% | 2.0% |
+| 07:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q1) | -0.1% | -0.1% | -0.1% |
+| 07:45 | EUR | Low | French PPI (MoM) (Mar) | 2.0% |  | -0.3% |
+| 07:45 | EUR | Low | PPI (YoY) (Mar) | 0.20% |  | -2.40% |
+| 08:00 | CHF | Moderate | KOF Leading Indicators (Apr) | 97.9 | 95.8 | 95.6 |
 | 08:00 | CHF | Low | Official Reserves Assets (Mar) |  |  | 856.0B |
-| 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q1) |  | 0.5% | 0.8% |
-| 08:00 | EUR | Low | Spanish GDP (YoY) (Q1) |  | 2.7% | 2.7% |
-| 08:55 | EUR | Moderate | German Unemployment Change (Apr) |  | 4K | 0K |
-| 08:55 | EUR | Moderate | German Unemployment Rate (Apr) |  | 6.3% | 6.3% |
-| 08:55 | EUR | Low | German Unemployment (Apr) |  |  | 2.977M |
-| 08:55 | EUR | Low | German Unemployment n.s.a. (Apr) |  |  | 3.021M |
-| 09:00 | EUR | Low | Italian GDP (QoQ) (Q1) |  | 0.1% | 0.3% |
-| 09:00 | EUR | Low | Italian GDP (YoY) (Q1) |  | 0.6% | 0.8% |
-| 09:00 | EUR | High | German GDP (QoQ) (Q1) |  | 0.1% | 0.3% |
-| 09:00 | EUR | Moderate | German GDP (YoY) (Q1) |  | 0.3% | 0.4% |
-| 09:00 | EUR | Low | Spanish Current account (Feb) |  |  | 2.73B |
+| 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q1) | 0.6% | 0.5% | 0.8% |
+| 08:00 | EUR | Low | Spanish GDP (YoY) (Q1) | 2.7% | 2.7% | 2.7% |
+| 53 min | EUR | Moderate | German Unemployment Change (Apr) |  | 4K | 0K |
+| 53 min | EUR | Moderate | German Unemployment Rate (Apr) |  | 6.3% | 6.3% |
+| 53 min | EUR | Low | German Unemployment (Apr) |  |  | 2.977M |
+| 53 min | EUR | Low | German Unemployment n.s.a. (Apr) |  |  | 3.021M |
+| 58 min | EUR | Low | Italian GDP (QoQ) (Q1) |  | 0.1% | 0.3% |
+| 58 min | EUR | Low | Italian GDP (YoY) (Q1) |  | 0.6% | 0.8% |
+| 58 min | EUR | High | German GDP (QoQ) (Q1) |  | 0.1% | 0.3% |
+| 58 min | EUR | Moderate | German GDP (YoY) (Q1) |  | 0.3% | 0.4% |
+| 58 min | EUR | Low | Spanish Current account (Feb) |  |  | 2.73B |
 | 09:30 | EUR | Low | Italian Monthly Unemployment Rate (Mar) |  | 5.3% | 5.3% |
 | 09:30 | HKD | Low | M3 Money Supply (Mar) |  |  | 2.1% |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Apr) |  | 0.9% | 0.5% |

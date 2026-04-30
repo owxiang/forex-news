@@ -25,24 +25,24 @@
 | 06:00 | JPY | Household Confidence (Apr) | 32.2 | 32.8 | 33.3 |
 | 06:00 | JPY | Housing Starts (YoY) (Mar) | -29.3% | -28.7% | -4.9% |
 | 06:00 | SGD | Business Expectations (Q1) | 17.00 |  | 11.00 |
-| 07:00 | EUR | German Import Price Index (MoM) (Mar) |  | 3.6% | 0.3% |
-| 07:00 | EUR | German Import Price Index (YoY) (Mar) |  | 1.6% | -2.3% |
-| 07:00 | EUR | German Retail Sales (YoY) (Mar) |  | 0.5% | 0.7% |
-| 07:00 | NOK | Unemployment Rate n.s.a. (Apr) |  | 2.20% | 2.20% |
-| 07:00 | ZAR | M3 Money Supply (YoY) (Mar) |  |  | 8.39% |
-| 07:00 | ZAR | Private Sector Credit (Mar) |  |  | 10.50% |
-| 07:45 | EUR | French CPI (YoY) (Apr) |  | 2.0% | 1.7% |
-| 07:45 | EUR | French HICP (YoY) (Apr) |  | 2.3% | 2.0% |
-| 07:45 | EUR | French Non-Farm Payrolls (QoQ) (Q1) |  | -0.1% | -0.1% |
-| 07:45 | EUR | French PPI (MoM) (Mar) |  |  | -0.2% |
-| 07:45 | EUR | PPI (YoY) (Mar) |  |  | -2.40% |
+| 07:00 | EUR | German Import Price Index (MoM) (Mar) | 3.6% | 3.6% | 0.3% |
+| 07:00 | EUR | German Import Price Index (YoY) (Mar) | 2.3% | 1.6% | -2.3% |
+| 07:00 | EUR | German Retail Sales (YoY) (Mar) | -2.0% | 0.5% | 0.9% |
+| 07:00 | NOK | Unemployment Rate n.s.a. (Apr) | 2.10% | 2.20% | 2.20% |
+| 07:00 | ZAR | M3 Money Supply (YoY) (Mar) | 8.96% |  | 8.38% |
+| 07:00 | ZAR | Private Sector Credit (Mar) | 8.50% |  | 10.50% |
+| 07:45 | EUR | French CPI (YoY) (Apr) | 2.2% | 2.0% | 1.7% |
+| 07:45 | EUR | French HICP (YoY) (Apr) | 2.5% | 2.3% | 2.0% |
+| 07:45 | EUR | French Non-Farm Payrolls (QoQ) (Q1) | -0.1% | -0.1% | -0.1% |
+| 07:45 | EUR | French PPI (MoM) (Mar) | 2.0% |  | -0.3% |
+| 07:45 | EUR | PPI (YoY) (Mar) | 0.20% |  | -2.40% |
 | 08:00 | CHF | Official Reserves Assets (Mar) |  |  | 856.0B |
-| 08:00 | EUR | Spanish GDP (YoY) (Q1) |  | 2.7% | 2.7% |
-| 08:55 | EUR | German Unemployment (Apr) |  |  | 2.977M |
-| 08:55 | EUR | German Unemployment n.s.a. (Apr) |  |  | 3.021M |
-| 09:00 | EUR | Italian GDP (QoQ) (Q1) |  | 0.1% | 0.3% |
-| 09:00 | EUR | Italian GDP (YoY) (Q1) |  | 0.6% | 0.8% |
-| 09:00 | EUR | Spanish Current account (Feb) |  |  | 2.73B |
+| 08:00 | EUR | Spanish GDP (YoY) (Q1) | 2.7% | 2.7% | 2.7% |
+| 53 min | EUR | German Unemployment (Apr) |  |  | 2.977M |
+| 53 min | EUR | German Unemployment n.s.a. (Apr) |  |  | 3.021M |
+| 58 min | EUR | Italian GDP (QoQ) (Q1) |  | 0.1% | 0.3% |
+| 58 min | EUR | Italian GDP (YoY) (Q1) |  | 0.6% | 0.8% |
+| 58 min | EUR | Spanish Current account (Feb) |  |  | 2.73B |
 | 09:30 | EUR | Italian Monthly Unemployment Rate (Mar) |  | 5.3% | 5.3% |
 | 09:30 | HKD | M3 Money Supply (Mar) |  |  | 2.1% |
 | 10:00 | EUR | Italian CPI (MoM) (Apr) |  | 0.9% | 0.5% |
