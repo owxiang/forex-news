@@ -47,17 +47,17 @@
 | 09:15 | ZAR | Budget Balance (MoM) (Mar) | -45.61B |  | 27.28B |
 | 09:30 | EUR | Italian Monthly Unemployment Rate (Mar) | 5.2% | 5.3% | 5.4% |
 | 09:30 | HKD | M3 Money Supply (Mar) | 1.2% |  | 2.1% |
-| 6 min | EUR | Italian CPI (MoM) (Apr) |  | 0.9% | 0.5% |
-| 6 min | EUR | Italian CPI (YoY) (Apr) |  | 2.6% | 1.7% |
-| 6 min | EUR | Italian HICP (MoM) (Apr) |  | 1.3% | 1.7% |
-| 6 min | EUR | Italian HICP (YoY) (Apr) |  | 2.5% | 1.6% |
-| 6 min | EUR | Core CPI (MoM) (Apr) |  |  | 0.8% |
-| 6 min | EUR | CPI, n.s.a (Apr) |  |  | 101.99 |
-| 6 min | EUR | HICP ex Energy & Food (YoY) (Apr) |  |  | 2.2% |
-| 6 min | EUR | HICP ex Energy and Food (MoM) (Apr) |  |  | 0.7% |
-| 36 min | ZAR | PPI (MoM) (Mar) |  |  | 0.0% |
-| 36 min | ZAR | PPI (YoY) (Mar) |  |  | 1.8% |
-| 11:00 | INR | Federal Fiscal Deficit (Mar) |  |  | 12,526.49B |
+| 10:00 | EUR | Italian CPI (MoM) (Apr) | 1.2% | 0.9% | 0.5% |
+| 10:00 | EUR | Italian CPI (YoY) (Apr) | 2.8% | 2.6% | 1.7% |
+| 10:00 | EUR | Italian HICP (MoM) (Apr) | 1.7% | 1.3% | 1.7% |
+| 10:00 | EUR | Italian HICP (YoY) (Apr) | 2.9% | 2.5% | 1.6% |
+| 10:00 | EUR | Core CPI (MoM) (Apr) | 0.9% |  | 0.8% |
+| 10:00 | EUR | CPI, n.s.a (Apr) | 103.05 |  | 101.99 |
+| 10:00 | EUR | HICP ex Energy & Food (YoY) (Apr) | 2.1% |  | 2.2% |
+| 10:00 | EUR | HICP ex Energy and Food (MoM) (Apr) | 0.8% |  | 0.7% |
+| 10:30 | ZAR | PPI (MoM) (Mar) | 1.1% |  | 0.0% |
+| 10:30 | ZAR | PPI (YoY) (Mar) | 2.3% |  | 1.8% |
+| 13 min | INR | Federal Fiscal Deficit (Mar) |  |  | 12,526.49B |
 | 12:00 | EUR | Spanish Consumer Confidence (Mar) |  |  | 83.9 |
 | 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
 | 12:30 | BRL | Net Debt-to-GDP ratio (Mar) |  |  | 65.5% |

@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 02:30 | CNY | Manufacturing PMI (Apr) | 50.3 | 50.1 | 50.4 |
 | 09:00 | EUR | German GDP (QoQ) (Q1) | 0.3% | 0.1% | 0.3% |
-| 6 min | EUR | CPI (YoY) (Apr) |  | 3.0% | 2.6% |
+| 10:00 | EUR | CPI (YoY) (Apr) | 3.0% | 3.0% | 2.6% |
 | 12:00 | GBP | BoE Interest Rate Decision (Apr) |  | 3.75% | 3.75% |
 | 13:15 | EUR | Deposit Facility Rate (Apr) |  | 2.00% | 2.00% |
 | 13:15 | EUR | ECB Interest Rate Decision (Apr) |  | 2.15% | 2.15% |
