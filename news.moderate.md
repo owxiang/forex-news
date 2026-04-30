@@ -29,21 +29,21 @@
 | 12:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 12:30 | GBP | BOE Inflation Letter |  |  |  |
 | 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Mar) | 80.1% | 79.6% | 79.2% |
-| 13:00 | MXN | GDP (YoY) (Q1) |  | 0.8% | 1.8% |
-| 13:00 | MXN | GDP (QoQ) (Q1) |  | -0.5% | 0.9% |
-| 13:00 | BRL | Unemployment Rate (Mar) |  | 6.1% | 5.8% |
-| 13:15 | EUR | ECB Marginal Lending Facility |  |  | 2.40% |
+| 13:00 | MXN | GDP (YoY) (Q1) | 0.1% | 0.8% | 1.8% |
+| 13:00 | MXN | GDP (QoQ) (Q1) | -0.8% | -0.5% | 0.9% |
+| 13:00 | BRL | Unemployment Rate (Mar) | 6.1% | 6.1% | 5.8% |
+| 13:15 | EUR | ECB Marginal Lending Facility | 2.40% |  | 2.40% |
 | 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims |  | 1,820K | 1,821K |
-| 13:30 | USD | Core PCE Prices (Q1) |  | 4.10% | 2.70% |
-| 13:30 | USD | Employment Cost Index (QoQ) (Q1) |  | 0.8% | 0.7% |
-| 13:30 | USD | GDP Price Index (QoQ) (Q1) |  | 3.8% | 3.7% |
-| 13:30 | USD | PCE price index (MoM) (Mar) |  | 0.7% | 0.4% |
-| 13:30 | USD | PCE Price index (YoY) (Mar) |  | 3.5% | 2.8% |
-| 13:30 | USD | Personal Spending (MoM) (Mar) |  | 0.9% | 0.5% |
-| 13:30 | CAD | GDP (MoM) (Feb) |  | 0.2% | 0.1% |
-| 13:31 | CAD | GDP (MoM) (Mar) |  |  |  |
-| 14:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 13:30 | USD | Continuing Jobless Claims | 1,785K | 1,820K | 1,808K |
+| 13:30 | USD | Core PCE Prices (Q1) | 4.30% | 4.10% | 2.70% |
+| 13:30 | USD | Employment Cost Index (QoQ) (Q1) | 0.9% | 0.8% | 0.7% |
+| 13:30 | USD | GDP Price Index (QoQ) (Q1) | 3.6% | 3.8% | 3.7% |
+| 13:30 | USD | PCE price index (MoM) (Mar) | 0.7% | 0.7% | 0.4% |
+| 13:30 | USD | PCE Price index (YoY) (Mar) | 3.5% | 3.5% | 2.8% |
+| 13:30 | USD | Personal Spending (MoM) (Mar) | 0.9% | 0.9% | 0.6% |
+| 13:30 | CAD | GDP (MoM) (Feb) | 0.2% | 0.2% | 0.1% |
+| 13:31 | CAD | GDP (MoM) (Mar) | 0.4% |  | 0.2% |
+| 32 min | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 15:00 | USD | Atlanta Fed GDPNow (Q2) |  |  |  |
 | 15:00 | USD | US Leading Index (MoM) (Feb) |  | -0.2% | -0.1% |
 | 16:15 | EUR | ECB President Lagarde Speaks |  |  |  |

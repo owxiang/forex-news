@@ -57,7 +57,7 @@
 | 08:55 | EUR | Low | German Unemployment n.s.a. (Apr) | 3.008M |  | 3.021M |
 | 09:00 | EUR | Low | Italian GDP (QoQ) (Q1) | 0.2% | 0.1% | 0.3% |
 | 09:00 | EUR | Low | Italian GDP (YoY) (Q1) | 0.7% | 0.6% | 0.8% |
-| 09:00 | EUR | High | German GDP (QoQ) (Q1) | 0.3% | 0.1% | 0.3% |
+| 09:00 | EUR | High | German GDP (QoQ) (Q1) | 0.3% | 0.1% | 0.2% |
 | 09:00 | EUR | Moderate | German GDP (YoY) (Q1) | 0.3% | 0.3% | 0.4% |
 | 09:00 | EUR | Low | Spanish Current account (Feb) | 4.04B |  | 2.73B |
 | 09:00 | NOK | Low | Central Bank Currency Purchase (May) | -100.0M |  | -50.0M |
@@ -93,39 +93,38 @@
 | 12:30 | BRL | Low | Budget Balance (Mar) | -199.539B | -148.000B | -100.589B |
 | 12:30 | BRL | Low | Budget Surplus (Mar) | -80.676B |  | -16.388B |
 | 12:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Mar) | 80.1% | 79.6% | 79.2% |
-| 13:00 | MXN | Moderate | GDP (YoY) (Q1) |  | 0.8% | 1.8% |
-| 13:00 | MXN | Moderate | GDP (QoQ) (Q1) |  | -0.5% | 0.9% |
-| 13:00 | BRL | Moderate | Unemployment Rate (Mar) |  | 6.1% | 5.8% |
-| 13:00 | ZAR | Low | Trade Balance (Mar) |  |  | 36.92B |
-| 13:15 | EUR | High | Deposit Facility Rate (Apr) |  | 2.00% | 2.00% |
-| 13:15 | EUR | Moderate | ECB Marginal Lending Facility |  |  | 2.40% |
+| 13:00 | MXN | Moderate | GDP (YoY) (Q1) | 0.1% | 0.8% | 1.8% |
+| 13:00 | MXN | Moderate | GDP (QoQ) (Q1) | -0.8% | -0.5% | 0.9% |
+| 13:00 | BRL | Moderate | Unemployment Rate (Mar) | 6.1% | 6.1% | 5.8% |
+| 13:00 | ZAR | Low | Trade Balance (Mar) | 31.87B |  | 35.86B |
+| 13:15 | EUR | High | Deposit Facility Rate (Apr) | 2.00% | 2.00% | 2.00% |
+| 13:15 | EUR | Moderate | ECB Marginal Lending Facility | 2.40% |  | 2.40% |
 | 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
-| 13:15 | EUR | High | ECB Interest Rate Decision (Apr) |  | 2.15% | 2.15% |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,820K | 1,821K |
-| 13:30 | USD | High | Core PCE Price Index (MoM) (Mar) |  | 0.3% | 0.4% |
-| 13:30 | USD | High | Core PCE Price Index (YoY) (Mar) |  | 3.2% | 3.0% |
-| 13:30 | USD | Moderate | Core PCE Prices (Q1) |  | 4.10% | 2.70% |
-| 13:30 | USD | Low | Employment Benefits (QoQ) (Q1) |  |  | 0.70% |
-| 13:30 | USD | Moderate | Employment Cost Index (QoQ) (Q1) |  | 0.8% | 0.7% |
-| 13:30 | USD | Low | Employment Wages (QoQ) (Q1) |  |  | 0.70% |
-| 13:30 | USD | High | GDP (QoQ) (Q1) |  | 2.2% | 0.5% |
-| 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q1) |  | 3.8% | 3.7% |
-| 13:30 | USD | Low | GDP Sales (Q1) |  |  | 0.3% |
-| 13:30 | USD | High | Initial Jobless Claims |  | 213K | 214K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 210.75K |
-| 13:30 | USD | Moderate | PCE price index (MoM) (Mar) |  | 0.7% | 0.4% |
-| 13:30 | USD | Moderate | PCE Price index (YoY) (Mar) |  | 3.5% | 2.8% |
-| 13:30 | USD | Low | PCE Prices (Q1) |  |  | 2.9% |
-| 13:30 | USD | Low | Personal Income (MoM) (Mar) |  | 0.3% | -0.1% |
-| 13:30 | USD | Moderate | Personal Spending (MoM) (Mar) |  | 0.9% | 0.5% |
-| 13:30 | USD | Low | Real Consumer Spending (Q1) |  |  | 1.9% |
-| 13:30 | USD | Low | Real Personal Consumption (MoM) (Mar) |  |  | 0.1% |
-| 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Feb) |  |  | 2.02% |
-| 13:30 | CAD | Moderate | GDP (MoM) (Feb) |  | 0.2% | 0.1% |
-| 13:31 | CAD | Moderate | GDP (MoM) (Mar) |  |  |  |
-| 13:45 | EUR | High | ECB Press Conference |  |  |  |
-| 14:00 | INR | Low | Federal Fiscal Deficit (Mar) |  |  | 12,526.49B |
-| 14:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 13:15 | EUR | High | ECB Interest Rate Decision (Apr) | 2.15% | 2.15% | 2.15% |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,785K | 1,820K | 1,808K |
+| 13:30 | USD | High | Core PCE Price Index (MoM) (Mar) | 0.3% | 0.3% | 0.4% |
+| 13:30 | USD | High | Core PCE Price Index (YoY) (Mar) | 3.2% | 3.2% | 3.0% |
+| 13:30 | USD | Moderate | Core PCE Prices (Q1) | 4.30% | 4.10% | 2.70% |
+| 13:30 | USD | Low | Employment Benefits (QoQ) (Q1) | 1.20% |  | 0.80% |
+| 13:30 | USD | Moderate | Employment Cost Index (QoQ) (Q1) | 0.9% | 0.8% | 0.7% |
+| 13:30 | USD | Low | Employment Wages (QoQ) (Q1) | 0.80% |  | 0.70% |
+| 13:30 | USD | High | GDP (QoQ) (Q1) | 2.0% | 2.2% | 0.5% |
+| 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q1) | 3.6% | 3.8% | 3.7% |
+| 13:30 | USD | Low | GDP Sales (Q1) | 1.6% |  | 0.3% |
+| 13:30 | USD | High | Initial Jobless Claims | 189K | 213K | 215K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 207.50K |  | 211.00K |
+| 13:30 | USD | Moderate | PCE price index (MoM) (Mar) | 0.7% | 0.7% | 0.4% |
+| 13:30 | USD | Moderate | PCE Price index (YoY) (Mar) | 3.5% | 3.5% | 2.8% |
+| 13:30 | USD | Low | PCE Prices (Q1) | 4.5% |  | 2.9% |
+| 13:30 | USD | Low | Personal Income (MoM) (Mar) | 0.6% | 0.3% | 0.0% |
+| 13:30 | USD | Moderate | Personal Spending (MoM) (Mar) | 0.9% | 0.9% | 0.6% |
+| 13:30 | USD | Low | Real Consumer Spending (Q1) | 1.6% |  | 1.9% |
+| 13:30 | USD | Low | Real Personal Consumption (MoM) (Mar) | 0.2% |  | 0.3% |
+| 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Feb) | 3.40% |  | 2.02% |
+| 13:30 | CAD | Moderate | GDP (MoM) (Feb) | 0.2% | 0.2% | 0.1% |
+| 13:31 | CAD | Moderate | GDP (MoM) (Mar) | 0.4% |  | 0.2% |
+| 2 min | EUR | High | ECB Press Conference |  |  |  |
+| 32 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 14:45 | USD | High | Chicago PMI (Apr) |  | 54.8 | 52.8 |
 | 15:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  |  |  |
 | 15:00 | USD | Low | Dallas Fed PCE (Mar) |  |  | 1.80% |
