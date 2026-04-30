@@ -47,4 +47,4 @@
 | 15:00 | USD | US Leading Index (MoM) (Mar) | -0.6% | -0.2% | 0.0% |
 | 16:15 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 16:30 | USD | Atlanta Fed GDPNow (Q2) | 3.7% |  |  |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 6,707B |
+| 21:30 | USD | Fed's Balance Sheet | 6,700B |  | 6,707B |

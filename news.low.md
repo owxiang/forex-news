@@ -77,5 +77,5 @@
 | 16:30 | USD | 4-Week Bill Auction | 3.600% |  | 3.595% |
 | 16:30 | USD | 8-Week Bill Auction | 3.620% |  | 3.605% |
 | 20:00 | MXN | Fiscal Balance (Mar) | -110.10B |  | -50.73B |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.915T |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 2.919T |  | 2.915T |
 | 23:45 | NZD | Building Consents (MoM) (Mar) |  |  | 2.7% |
