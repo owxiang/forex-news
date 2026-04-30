@@ -120,11 +120,11 @@
 | 13:30 | USD | Moderate | Personal Spending (MoM) (Mar) | 0.9% | 0.9% | 0.6% |
 | 13:30 | USD | Low | Real Consumer Spending (Q1) | 1.6% |  | 1.9% |
 | 13:30 | USD | Low | Real Personal Consumption (MoM) (Mar) | 0.2% |  | 0.3% |
-| 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Feb) | 3.40% |  | 2.02% |
+| 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Feb) | 3.36% |  | 1.93% |
 | 13:30 | CAD | Moderate | GDP (MoM) (Feb) | 0.2% | 0.2% | 0.1% |
 | 13:31 | CAD | Moderate | GDP (MoM) (Mar) | 0.4% |  | 0.2% |
-| 2 min | EUR | High | ECB Press Conference |  |  |  |
-| 32 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 13:45 | EUR | High | ECB Press Conference |  |  |  |
+| 14:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 14:45 | USD | High | Chicago PMI (Apr) |  | 54.8 | 52.8 |
 | 15:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  |  |  |
 | 15:00 | USD | Low | Dallas Fed PCE (Mar) |  |  | 1.80% |

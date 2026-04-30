@@ -71,7 +71,7 @@
 | 13:30 | USD | Personal Income (MoM) (Mar) | 0.6% | 0.3% | 0.0% |
 | 13:30 | USD | Real Consumer Spending (Q1) | 1.6% |  | 1.9% |
 | 13:30 | USD | Real Personal Consumption (MoM) (Mar) | 0.2% |  | 0.3% |
-| 13:30 | CAD | Average Weekly Earnings (YoY) (Feb) | 3.40% |  | 2.02% |
+| 13:30 | CAD | Average Weekly Earnings (YoY) (Feb) | 3.36% |  | 1.93% |
 | 15:00 | USD | Dallas Fed PCE (Mar) |  |  | 1.80% |
 | 15:30 | USD | Natural Gas Storage |  | 83B | 103B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.595% |

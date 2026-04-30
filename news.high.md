@@ -12,5 +12,5 @@
 | 13:30 | USD | Core PCE Price Index (YoY) (Mar) | 3.2% | 3.2% | 3.0% |
 | 13:30 | USD | GDP (QoQ) (Q1) | 2.0% | 2.2% | 0.5% |
 | 13:30 | USD | Initial Jobless Claims | 189K | 213K | 215K |
-| 2 min | EUR | ECB Press Conference |  |  |  |
+| 13:45 | EUR | ECB Press Conference |  |  |  |
 | 14:45 | USD | Chicago PMI (Apr) |  | 54.8 | 52.8 |

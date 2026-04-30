@@ -43,7 +43,7 @@
 | 13:30 | USD | Personal Spending (MoM) (Mar) | 0.9% | 0.9% | 0.6% |
 | 13:30 | CAD | GDP (MoM) (Feb) | 0.2% | 0.2% | 0.1% |
 | 13:31 | CAD | GDP (MoM) (Mar) | 0.4% |  | 0.2% |
-| 32 min | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 14:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 15:00 | USD | Atlanta Fed GDPNow (Q2) |  |  |  |
 | 15:00 | USD | US Leading Index (MoM) (Feb) |  | -0.2% | -0.1% |
 | 16:15 | EUR | ECB President Lagarde Speaks |  |  |  |
