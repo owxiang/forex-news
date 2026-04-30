@@ -22,13 +22,13 @@
 | 10:00 | EUR | GDP (QoQ) (Q1) | 0.1% | 0.2% | 0.2% |
 | 10:00 | EUR | GDP (YoY) (Q1) | 0.8% | 0.9% | 1.2% |
 | 10:00 | EUR | Unemployment Rate (Mar) | 6.2% | 6.2% | 6.3% |
-| 12:00 | GBP | BoE MPC vote cut (Apr) |  | 0 | 0 |
-| 12:00 | GBP | BoE MPC vote hike (Apr) |  | 1 | 0 |
-| 12:00 | GBP | BoE MPC vote unchanged (Apr) |  | 8 | 9 |
+| 12:00 | GBP | BoE MPC vote cut (Apr) | 0 | 0 | 0 |
+| 12:00 | GBP | BoE MPC vote hike (Apr) | 1 | 1 | 0 |
+| 12:00 | GBP | BoE MPC vote unchanged (Apr) | 8 | 8 | 9 |
 | 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
 | 12:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 12:30 | GBP | BOE Inflation Letter |  |  |  |
-| 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Mar) |  | 79.6% | 79.2% |
+| 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Mar) | 80.1% | 79.6% | 79.2% |
 | 13:00 | MXN | GDP (YoY) (Q1) |  | 0.8% | 1.8% |
 | 13:00 | MXN | GDP (QoQ) (Q1) |  | -0.5% | 0.9% |
 | 13:00 | BRL | Unemployment Rate (Mar) |  | 6.1% | 5.8% |

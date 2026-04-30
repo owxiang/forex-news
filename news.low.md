@@ -58,11 +58,10 @@
 | 10:30 | ZAR | PPI (MoM) (Mar) | 1.1% |  | 0.0% |
 | 10:30 | ZAR | PPI (YoY) (Mar) | 2.3% |  | 1.8% |
 | 11:00 | EUR | Spanish Consumer Confidence (Mar) | 66.9 |  | 83.9 |
-| 12:00 | INR | Federal Fiscal Deficit (Mar) |  |  | 12,526.49B |
 | 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
-| 12:30 | BRL | Net Debt-to-GDP ratio (Mar) |  |  | 65.5% |
-| 12:30 | BRL | Budget Balance (Mar) |  | -148.000B | -100.589B |
-| 12:30 | BRL | Budget Surplus (Mar) |  |  | -16.388B |
+| 12:30 | BRL | Net Debt-to-GDP ratio (Mar) | 66.8% |  | 65.5% |
+| 12:30 | BRL | Budget Balance (Mar) | -199.539B | -148.000B | -100.589B |
+| 12:30 | BRL | Budget Surplus (Mar) | -80.676B |  | -16.388B |
 | 13:00 | ZAR | Trade Balance (Mar) |  |  | 36.92B |
 | 13:30 | USD | Employment Benefits (QoQ) (Q1) |  |  | 0.70% |
 | 13:30 | USD | Employment Wages (QoQ) (Q1) |  |  | 0.70% |
@@ -73,6 +72,7 @@
 | 13:30 | USD | Real Consumer Spending (Q1) |  |  | 1.9% |
 | 13:30 | USD | Real Personal Consumption (MoM) (Mar) |  |  | 0.1% |
 | 13:30 | CAD | Average Weekly Earnings (YoY) (Feb) |  |  | 2.02% |
+| 14:00 | INR | Federal Fiscal Deficit (Mar) |  |  | 12,526.49B |
 | 15:00 | USD | Dallas Fed PCE (Mar) |  |  | 1.80% |
 | 15:30 | USD | Natural Gas Storage |  | 83B | 103B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.595% |

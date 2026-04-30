@@ -81,19 +81,18 @@
 | 10:30 | ZAR | Low | PPI (MoM) (Mar) | 1.1% |  | 0.0% |
 | 10:30 | ZAR | Low | PPI (YoY) (Mar) | 2.3% |  | 1.8% |
 | 11:00 | EUR | Low | Spanish Consumer Confidence (Mar) | 66.9 |  | 83.9 |
-| 12:00 | GBP | Moderate | BoE MPC vote cut (Apr) |  | 0 | 0 |
-| 12:00 | GBP | Moderate | BoE MPC vote hike (Apr) |  | 1 | 0 |
-| 12:00 | GBP | Moderate | BoE MPC vote unchanged (Apr) |  | 8 | 9 |
-| 12:00 | GBP | High | BoE Interest Rate Decision (Apr) |  | 3.75% | 3.75% |
+| 12:00 | GBP | Moderate | BoE MPC vote cut (Apr) | 0 | 0 | 0 |
+| 12:00 | GBP | Moderate | BoE MPC vote hike (Apr) | 1 | 1 | 0 |
+| 12:00 | GBP | Moderate | BoE MPC vote unchanged (Apr) | 8 | 8 | 9 |
+| 12:00 | GBP | High | BoE Interest Rate Decision (Apr) | 3.75% | 3.75% | 3.75% |
 | 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
-| 12:00 | INR | Low | Federal Fiscal Deficit (Mar) |  |  | 12,526.49B |
 | 12:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 12:30 | GBP | Moderate | BOE Inflation Letter |  |  |  |
 | 12:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
-| 12:30 | BRL | Low | Net Debt-to-GDP ratio (Mar) |  |  | 65.5% |
-| 12:30 | BRL | Low | Budget Balance (Mar) |  | -148.000B | -100.589B |
-| 12:30 | BRL | Low | Budget Surplus (Mar) |  |  | -16.388B |
-| 12:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Mar) |  | 79.6% | 79.2% |
+| 12:30 | BRL | Low | Net Debt-to-GDP ratio (Mar) | 66.8% |  | 65.5% |
+| 12:30 | BRL | Low | Budget Balance (Mar) | -199.539B | -148.000B | -100.589B |
+| 12:30 | BRL | Low | Budget Surplus (Mar) | -80.676B |  | -16.388B |
+| 12:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Mar) | 80.1% | 79.6% | 79.2% |
 | 13:00 | MXN | Moderate | GDP (YoY) (Q1) |  | 0.8% | 1.8% |
 | 13:00 | MXN | Moderate | GDP (QoQ) (Q1) |  | -0.5% | 0.9% |
 | 13:00 | BRL | Moderate | Unemployment Rate (Mar) |  | 6.1% | 5.8% |
@@ -125,6 +124,7 @@
 | 13:30 | CAD | Moderate | GDP (MoM) (Feb) |  | 0.2% | 0.1% |
 | 13:31 | CAD | Moderate | GDP (MoM) (Mar) |  |  |  |
 | 13:45 | EUR | High | ECB Press Conference |  |  |  |
+| 14:00 | INR | Low | Federal Fiscal Deficit (Mar) |  |  | 12,526.49B |
 | 14:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 14:45 | USD | High | Chicago PMI (Apr) |  | 54.8 | 52.8 |
 | 15:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  |  |  |
