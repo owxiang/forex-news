@@ -6,22 +6,22 @@
 | 00:00 | KRW | Low | Industrial Production (MoM) (Mar) | 0.3% | 0.2% | 5.3% |
 | 00:00 | KRW | Low | Retail Sales (MoM) (Mar) | 1.8% |  | -0.3% |
 | 00:00 | KRW | Low | Service Sector Output (MoM) (Mar) | 1.4% |  | 0.3% |
-| 00:50 | JPY | Moderate | Industrial Production (MoM) (Mar) |  | 1.0% | -2.0% |
-| 00:50 | JPY | Low | Industrial Production forecast 1m ahead (MoM) (Apr) |  |  | 3.8% |
-| 00:50 | JPY | Low | Industrial Production forecast 2m ahead (MoM) (May) |  |  | 3.3% |
-| 00:50 | JPY | Low | Large Retailers' Sales (MoM) (Mar) |  | 0.8% | -2.0% |
-| 00:50 | JPY | Low | Large Scale Retail Sales YoY (YoY) (Mar) |  |  | 2.0% |
-| 00:50 | JPY | Low | Retail Sales (YoY) (Mar) |  | 0.9% | -0.2% |
-| 02:00 | NZD | Low | ANZ Business Confidence (Apr) |  |  | 32.5 |
-| 02:00 | NZD | Low | NBNZ Own Activity (Apr) |  |  | 39.3% |
-| 02:30 | AUD | Low | Export Price Index (QoQ) (Q1) |  |  | 3.2% |
-| 02:30 | AUD | Low | Housing Credit (Mar) |  |  | 0.6% |
-| 02:30 | AUD | Low | Import Price Index (QoQ) (Q1) |  | 0.4% | 0.9% |
-| 02:30 | AUD | Low | Private Sector Credit (MoM) (Mar) |  | 0.6% | 0.6% |
-| 02:30 | CNY | Moderate | Chinese Composite PMI (Apr) |  |  | 50.5 |
-| 02:30 | CNY | High | Manufacturing PMI (Apr) |  | 50.1 | 50.4 |
-| 02:30 | CNY | Moderate | Non-Manufacturing PMI (Apr) |  | 49.9 | 50.1 |
-| 02:45 | CNY | Moderate | RatingDog Manufacturing PMI (MoM) (Apr) |  | 50.9 | 50.8 |
+| 00:50 | JPY | Moderate | Industrial Production (MoM) (Mar) | -0.5% | 1.0% | -2.0% |
+| 00:50 | JPY | Low | Industrial Production forecast 1m ahead (MoM) (Apr) | 2.1% |  | 3.8% |
+| 00:50 | JPY | Low | Industrial Production forecast 2m ahead (MoM) (May) | 2.2% |  | 3.3% |
+| 00:50 | JPY | Low | Large Retailers' Sales (MoM) (Mar) | 1.3% | 0.8% | -2.0% |
+| 00:50 | JPY | Low | Large Scale Retail Sales YoY (YoY) (Mar) | 2.0% |  | 2.0% |
+| 00:50 | JPY | Low | Retail Sales (YoY) (Mar) | 1.7% | 0.9% | -0.1% |
+| 3 min | NZD | Low | ANZ Business Confidence (Apr) |  |  | 32.5 |
+| 3 min | NZD | Low | NBNZ Own Activity (Apr) |  |  | 39.3% |
+| 33 min | AUD | Low | Export Price Index (QoQ) (Q1) |  |  | 3.2% |
+| 33 min | AUD | Low | Housing Credit (Mar) |  |  | 0.6% |
+| 33 min | AUD | Low | Import Price Index (QoQ) (Q1) |  | 0.4% | 0.9% |
+| 33 min | AUD | Low | Private Sector Credit (MoM) (Mar) |  | 0.6% | 0.6% |
+| 33 min | CNY | Moderate | Chinese Composite PMI (Apr) |  |  | 50.5 |
+| 33 min | CNY | High | Manufacturing PMI (Apr) |  | 50.1 | 50.4 |
+| 33 min | CNY | Moderate | Non-Manufacturing PMI (Apr) |  | 49.9 | 50.1 |
+| 48 min | CNY | Moderate | RatingDog Manufacturing PMI (MoM) (Apr) |  | 50.9 | 50.8 |
 | 03:00 | SGD | Low | Bank Lending (Mar) |  |  | 893.6B |
 | 03:30 | SGD | Low | Unemployment Rate (Q1) |  |  | 2.0% |
 | 04:00 | NZD | Low | M3 Money Supply (Mar) |  |  | 445,894.0B |

@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Industrial Production (MoM) (Mar) |  | 1.0% | -2.0% |
-| 02:30 | CNY | Chinese Composite PMI (Apr) |  |  | 50.5 |
-| 02:30 | CNY | Non-Manufacturing PMI (Apr) |  | 49.9 | 50.1 |
-| 02:45 | CNY | RatingDog Manufacturing PMI (MoM) (Apr) |  | 50.9 | 50.8 |
+| 00:50 | JPY | Industrial Production (MoM) (Mar) | -0.5% | 1.0% | -2.0% |
+| 33 min | CNY | Chinese Composite PMI (Apr) |  |  | 50.5 |
+| 33 min | CNY | Non-Manufacturing PMI (Apr) |  | 49.9 | 50.1 |
+| 48 min | CNY | RatingDog Manufacturing PMI (MoM) (Apr) |  | 50.9 | 50.8 |
 | 06:30 | EUR | French Consumer Spending (MoM) (Mar) |  | 0.7% | -1.4% |
 | 06:30 | EUR | French GDP (QoQ) (Q1) |  | 0.2% | 0.2% |
 | 06:30 | EUR | French GDP (YoY) (Q1) |  |  | 1.2% |
