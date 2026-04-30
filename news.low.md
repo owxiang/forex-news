@@ -11,15 +11,15 @@
 | 00:50 | JPY | Large Retailers' Sales (MoM) (Mar) | 1.3% | 0.8% | -2.0% |
 | 00:50 | JPY | Large Scale Retail Sales YoY (YoY) (Mar) | 2.0% |  | 2.0% |
 | 00:50 | JPY | Retail Sales (YoY) (Mar) | 1.7% | 0.9% | -0.1% |
-| 3 min | NZD | ANZ Business Confidence (Apr) |  |  | 32.5 |
-| 3 min | NZD | NBNZ Own Activity (Apr) |  |  | 39.3% |
-| 33 min | AUD | Export Price Index (QoQ) (Q1) |  |  | 3.2% |
-| 33 min | AUD | Housing Credit (Mar) |  |  | 0.6% |
-| 33 min | AUD | Import Price Index (QoQ) (Q1) |  | 0.4% | 0.9% |
-| 33 min | AUD | Private Sector Credit (MoM) (Mar) |  | 0.6% | 0.6% |
+| 02:00 | NZD | ANZ Business Confidence (Apr) | -10.6 |  | 32.5 |
+| 02:00 | NZD | NBNZ Own Activity (Apr) | 19.6% |  | 39.3% |
+| 02:30 | AUD | Export Price Index (QoQ) (Q1) | 0.5% |  | 3.2% |
+| 02:30 | AUD | Housing Credit (Mar) | 0.6% |  | 0.6% |
+| 02:30 | AUD | Import Price Index (QoQ) (Q1) | 0.1% | 0.4% | 0.9% |
+| 02:30 | AUD | Private Sector Credit (MoM) (Mar) | 0.7% | 0.6% | 0.6% |
 | 03:00 | SGD | Bank Lending (Mar) |  |  | 893.6B |
 | 03:30 | SGD | Unemployment Rate (Q1) |  |  | 2.0% |
-| 04:00 | NZD | M3 Money Supply (Mar) |  |  | 445,894.0B |
+| 04:00 | NZD | M3 Money Supply (Mar) |  |  | 445.9B |
 | 04:35 | JPY | 2-Year JGB Auction |  |  | 1.370% |
 | 06:00 | JPY | Construction Orders (YoY) (Mar) |  |  | 42.7% |
 | 06:00 | JPY | Household Confidence (Apr) |  | 32.8 | 33.3 |
