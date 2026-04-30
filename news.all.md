@@ -21,10 +21,10 @@
 | 02:30 | CNY | Moderate | Chinese Composite PMI (Apr) | 50.1 |  | 50.5 |
 | 02:30 | CNY | High | Manufacturing PMI (Apr) | 50.3 | 50.1 | 50.4 |
 | 02:30 | CNY | Moderate | Non-Manufacturing PMI (Apr) | 49.4 | 49.9 | 50.1 |
-| 02:45 | CNY | Moderate | RatingDog Manufacturing PMI (MoM) (Apr) |  | 50.9 | 50.8 |
-| 03:00 | SGD | Low | Bank Lending (Mar) |  |  | 893.6B |
-| 03:30 | SGD | Low | Unemployment Rate (Q1) |  |  | 2.0% |
-| 04:00 | NZD | Low | M3 Money Supply (Mar) |  |  | 445.9B |
+| 02:45 | CNY | Moderate | RatingDog Manufacturing PMI (MoM) (Apr) | 52.2 | 50.9 | 50.8 |
+| 03:00 | SGD | Low | Bank Lending (Mar) | 902.3B |  | 893.6B |
+| 03:30 | SGD | Low | Unemployment Rate (Q1) | 2.1% |  | 2.0% |
+| 04:00 | NZD | Low | M3 Money Supply (Mar) | 455.6B |  | 445.9B |
 | 04:35 | JPY | Low | 2-Year JGB Auction |  |  | 1.370% |
 | 06:00 | JPY | Low | Construction Orders (YoY) (Mar) |  |  | 42.7% |
 | 06:00 | JPY | Low | Household Confidence (Apr) |  | 32.8 | 33.3 |

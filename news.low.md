@@ -17,9 +17,9 @@
 | 02:30 | AUD | Housing Credit (Mar) | 0.6% |  | 0.6% |
 | 02:30 | AUD | Import Price Index (QoQ) (Q1) | 0.1% | 0.4% | 0.9% |
 | 02:30 | AUD | Private Sector Credit (MoM) (Mar) | 0.7% | 0.6% | 0.6% |
-| 03:00 | SGD | Bank Lending (Mar) |  |  | 893.6B |
-| 03:30 | SGD | Unemployment Rate (Q1) |  |  | 2.0% |
-| 04:00 | NZD | M3 Money Supply (Mar) |  |  | 445.9B |
+| 03:00 | SGD | Bank Lending (Mar) | 902.3B |  | 893.6B |
+| 03:30 | SGD | Unemployment Rate (Q1) | 2.1% |  | 2.0% |
+| 04:00 | NZD | M3 Money Supply (Mar) | 455.6B |  | 445.9B |
 | 04:35 | JPY | 2-Year JGB Auction |  |  | 1.370% |
 | 06:00 | JPY | Construction Orders (YoY) (Mar) |  |  | 42.7% |
 | 06:00 | JPY | Household Confidence (Apr) |  | 32.8 | 33.3 |
