@@ -45,6 +45,6 @@
 | 13:31 | CAD | GDP (MoM) (Mar) | 0.4% |  | 0.2% |
 | 14:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 15:00 | USD | US Leading Index (MoM) (Mar) | -0.6% | -0.2% | 0.0% |
-| 27 min | EUR | ECB President Lagarde Speaks |  |  |  |
+| 16:15 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 17:00 | USD | Atlanta Fed GDPNow (Q2) |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,707B |
