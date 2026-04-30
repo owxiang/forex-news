@@ -48,37 +48,38 @@
 | 07:45 | EUR | Low | French PPI (MoM) (Mar) | 2.0% |  | -0.3% |
 | 07:45 | EUR | Low | PPI (YoY) (Mar) | 0.20% |  | -2.40% |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Apr) | 97.9 | 95.8 | 95.6 |
-| 08:00 | CHF | Low | Official Reserves Assets (Mar) |  |  | 856.0B |
+| 08:00 | CHF | Low | Official Reserves Assets (Mar) | 858.6B |  | 856.0B |
 | 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q1) | 0.6% | 0.5% | 0.8% |
 | 08:00 | EUR | Low | Spanish GDP (YoY) (Q1) | 2.7% | 2.7% | 2.7% |
-| 53 min | EUR | Moderate | German Unemployment Change (Apr) |  | 4K | 0K |
-| 53 min | EUR | Moderate | German Unemployment Rate (Apr) |  | 6.3% | 6.3% |
-| 53 min | EUR | Low | German Unemployment (Apr) |  |  | 2.977M |
-| 53 min | EUR | Low | German Unemployment n.s.a. (Apr) |  |  | 3.021M |
-| 58 min | EUR | Low | Italian GDP (QoQ) (Q1) |  | 0.1% | 0.3% |
-| 58 min | EUR | Low | Italian GDP (YoY) (Q1) |  | 0.6% | 0.8% |
-| 58 min | EUR | High | German GDP (QoQ) (Q1) |  | 0.1% | 0.3% |
-| 58 min | EUR | Moderate | German GDP (YoY) (Q1) |  | 0.3% | 0.4% |
-| 58 min | EUR | Low | Spanish Current account (Feb) |  |  | 2.73B |
-| 09:30 | EUR | Low | Italian Monthly Unemployment Rate (Mar) |  | 5.3% | 5.3% |
-| 09:30 | HKD | Low | M3 Money Supply (Mar) |  |  | 2.1% |
-| 10:00 | EUR | Low | Italian CPI (MoM) (Apr) |  | 0.9% | 0.5% |
-| 10:00 | EUR | Low | Italian CPI (YoY) (Apr) |  | 2.6% | 1.7% |
-| 10:00 | EUR | Low | Italian HICP (MoM) (Apr) |  | 1.3% | 1.7% |
-| 10:00 | EUR | Low | Italian HICP (YoY) (Apr) |  | 2.5% | 1.6% |
-| 10:00 | NOK | Low | Central Bank Currency Purchase (May) |  |  | -50.0M |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Apr) |  | 2.2% | 2.3% |
-| 10:00 | EUR | Low | Core CPI (MoM) (Apr) |  |  | 0.8% |
-| 10:00 | EUR | High | CPI (YoY) (Apr) |  | 3.0% | 2.6% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Apr) |  |  | 1.3% |
-| 10:00 | EUR | Low | CPI, n.s.a (Apr) |  |  | 101.99 |
-| 10:00 | EUR | Moderate | GDP (QoQ) (Q1) |  | 0.2% | 0.2% |
-| 10:00 | EUR | Moderate | GDP (YoY) (Q1) |  | 0.9% | 1.2% |
-| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Apr) |  |  | 2.2% |
-| 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Apr) |  |  | 0.7% |
-| 10:00 | EUR | Moderate | Unemployment Rate (Mar) |  | 6.2% | 6.2% |
-| 10:30 | ZAR | Low | PPI (MoM) (Mar) |  |  | 0.0% |
-| 10:30 | ZAR | Low | PPI (YoY) (Mar) |  |  | 1.8% |
+| 08:55 | EUR | Moderate | German Unemployment Change (Apr) | 20K | 4K | 0K |
+| 08:55 | EUR | Moderate | German Unemployment Rate (Apr) | 6.4% | 6.3% | 6.4% |
+| 08:55 | EUR | Low | German Unemployment (Apr) | 3.006M |  | 2.977M |
+| 08:55 | EUR | Low | German Unemployment n.s.a. (Apr) | 3.008M |  | 3.021M |
+| 09:00 | EUR | Low | Italian GDP (QoQ) (Q1) | 0.2% | 0.1% | 0.3% |
+| 09:00 | EUR | Low | Italian GDP (YoY) (Q1) | 0.7% | 0.6% | 0.8% |
+| 09:00 | EUR | High | German GDP (QoQ) (Q1) | 0.3% | 0.1% | 0.3% |
+| 09:00 | EUR | Moderate | German GDP (YoY) (Q1) | 0.3% | 0.3% | 0.4% |
+| 09:00 | EUR | Low | Spanish Current account (Feb) | 4.04B |  | 2.73B |
+| 09:00 | NOK | Low | Central Bank Currency Purchase (May) | -100.0M |  | -50.0M |
+| 09:15 | ZAR | Low | Budget Balance (MoM) (Mar) | -45.61B |  | 27.28B |
+| 09:30 | EUR | Low | Italian Monthly Unemployment Rate (Mar) | 5.2% | 5.3% | 5.4% |
+| 09:30 | HKD | Low | M3 Money Supply (Mar) | 1.2% |  | 2.1% |
+| 6 min | EUR | Low | Italian CPI (MoM) (Apr) |  | 0.9% | 0.5% |
+| 6 min | EUR | Low | Italian CPI (YoY) (Apr) |  | 2.6% | 1.7% |
+| 6 min | EUR | Low | Italian HICP (MoM) (Apr) |  | 1.3% | 1.7% |
+| 6 min | EUR | Low | Italian HICP (YoY) (Apr) |  | 2.5% | 1.6% |
+| 6 min | EUR | Moderate | Core CPI (YoY) (Apr) |  | 2.2% | 2.3% |
+| 6 min | EUR | Low | Core CPI (MoM) (Apr) |  |  | 0.8% |
+| 6 min | EUR | High | CPI (YoY) (Apr) |  | 3.0% | 2.6% |
+| 6 min | EUR | Moderate | CPI (MoM) (Apr) |  |  | 1.3% |
+| 6 min | EUR | Low | CPI, n.s.a (Apr) |  |  | 101.99 |
+| 6 min | EUR | Moderate | GDP (QoQ) (Q1) |  | 0.2% | 0.2% |
+| 6 min | EUR | Moderate | GDP (YoY) (Q1) |  | 0.9% | 1.2% |
+| 6 min | EUR | Low | HICP ex Energy & Food (YoY) (Apr) |  |  | 2.2% |
+| 6 min | EUR | Low | HICP ex Energy and Food (MoM) (Apr) |  |  | 0.7% |
+| 6 min | EUR | Moderate | Unemployment Rate (Mar) |  | 6.2% | 6.2% |
+| 36 min | ZAR | Low | PPI (MoM) (Mar) |  |  | 0.0% |
+| 36 min | ZAR | Low | PPI (YoY) (Mar) |  |  | 1.8% |
 | 11:00 | INR | Low | Federal Fiscal Deficit (Mar) |  |  | 12,526.49B |
 | 12:00 | GBP | Moderate | BoE MPC vote cut (Apr) |  | 0 | 0 |
 | 12:00 | GBP | Moderate | BoE MPC vote hike (Apr) |  | 1 | 0 |
@@ -133,7 +134,6 @@
 | 16:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.595% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.605% |
-| 18:21 | ZAR | Low | Budget Balance (MoM) (Mar) |  |  | 27.28B |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -2.450B |
 | 20:00 | MXN | Low | Fiscal Balance (Mar) |  |  | -50.73B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,707B |

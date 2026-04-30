@@ -14,14 +14,14 @@
 | 07:45 | EUR | French HICP (MoM) (Apr) | 1.2% | 0.9% | 1.1% |
 | 08:00 | CHF | KOF Leading Indicators (Apr) | 97.9 | 95.8 | 95.6 |
 | 08:00 | EUR | Spanish GDP (QoQ) (Q1) | 0.6% | 0.5% | 0.8% |
-| 53 min | EUR | German Unemployment Change (Apr) |  | 4K | 0K |
-| 53 min | EUR | German Unemployment Rate (Apr) |  | 6.3% | 6.3% |
-| 58 min | EUR | German GDP (YoY) (Q1) |  | 0.3% | 0.4% |
-| 10:00 | EUR | Core CPI (YoY) (Apr) |  | 2.2% | 2.3% |
-| 10:00 | EUR | CPI (MoM) (Apr) |  |  | 1.3% |
-| 10:00 | EUR | GDP (QoQ) (Q1) |  | 0.2% | 0.2% |
-| 10:00 | EUR | GDP (YoY) (Q1) |  | 0.9% | 1.2% |
-| 10:00 | EUR | Unemployment Rate (Mar) |  | 6.2% | 6.2% |
+| 08:55 | EUR | German Unemployment Change (Apr) | 20K | 4K | 0K |
+| 08:55 | EUR | German Unemployment Rate (Apr) | 6.4% | 6.3% | 6.4% |
+| 09:00 | EUR | German GDP (YoY) (Q1) | 0.3% | 0.3% | 0.4% |
+| 6 min | EUR | Core CPI (YoY) (Apr) |  | 2.2% | 2.3% |
+| 6 min | EUR | CPI (MoM) (Apr) |  |  | 1.3% |
+| 6 min | EUR | GDP (QoQ) (Q1) |  | 0.2% | 0.2% |
+| 6 min | EUR | GDP (YoY) (Q1) |  | 0.9% | 1.2% |
+| 6 min | EUR | Unemployment Rate (Mar) |  | 6.2% | 6.2% |
 | 12:00 | GBP | BoE MPC vote cut (Apr) |  | 0 | 0 |
 | 12:00 | GBP | BoE MPC vote hike (Apr) |  | 1 | 0 |
 | 12:00 | GBP | BoE MPC vote unchanged (Apr) |  | 8 | 9 |
