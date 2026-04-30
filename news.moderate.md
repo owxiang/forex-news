@@ -10,7 +10,7 @@
 | 06:30 | EUR | French GDP (QoQ) (Q1) |  | 0.2% | 0.2% |
 | 06:30 | EUR | French GDP (YoY) (Q1) |  |  | 1.2% |
 | 07:00 | EUR | German Retail Sales (MoM) (Mar) |  | -0.3% | -0.6% |
-| 07:45 | EUR | French CPI (MoM) (Apr) |  | 1.0% | 1.0% |
+| 07:45 | EUR | French CPI (MoM) (Apr) |  | 0.9% | 1.0% |
 | 07:45 | EUR | French HICP (MoM) (Apr) |  | 0.9% | 1.1% |
 | 08:00 | CHF | KOF Leading Indicators (Apr) |  | 95.8 | 96.1 |
 | 08:00 | EUR | Spanish GDP (QoQ) (Q1) |  | 0.5% | 0.8% |
@@ -27,8 +27,8 @@
 | 12:00 | GBP | BoE MPC vote unchanged (Apr) |  | 8 | 9 |
 | 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
 | 12:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 12:30 | GBP | BOE Inflation Letter |  |  |  |
 | 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Mar) |  | 79.6% | 79.2% |
-| 13:00 | GBP | BOE Inflation Letter |  |  |  |
 | 13:00 | MXN | GDP (YoY) (Q1) |  | 0.8% | 1.8% |
 | 13:00 | MXN | GDP (QoQ) (Q1) |  | -0.5% | 0.9% |
 | 13:00 | BRL | Unemployment Rate (Mar) |  | 6.1% | 5.8% |

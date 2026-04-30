@@ -25,22 +25,22 @@
 | 03:00 | SGD | Low | Bank Lending (Mar) | 902.3B |  | 893.6B |
 | 03:30 | SGD | Low | Unemployment Rate (Q1) | 2.1% |  | 2.0% |
 | 04:00 | NZD | Low | M3 Money Supply (Mar) | 455.6B |  | 445.9B |
-| 04:35 | JPY | Low | 2-Year JGB Auction |  |  | 1.370% |
-| 06:00 | JPY | Low | Construction Orders (YoY) (Mar) |  |  | 42.7% |
-| 06:00 | JPY | Low | Household Confidence (Apr) |  | 32.8 | 33.3 |
-| 06:00 | JPY | Low | Housing Starts (YoY) (Mar) |  | -28.7% | -4.9% |
-| 06:00 | SGD | Low | Business Expectations (Q1) |  |  | 11.00 |
+| 04:35 | JPY | Low | 2-Year JGB Auction | 1.407% |  | 1.370% |
+| 06:00 | JPY | Low | Construction Orders (YoY) (Mar) | -14.4% |  | 42.7% |
+| 06:00 | JPY | Low | Household Confidence (Apr) | 32.2 | 32.8 | 33.3 |
+| 06:00 | JPY | Low | Housing Starts (YoY) (Mar) | -29.3% | -28.7% | -4.9% |
+| 06:00 | SGD | Low | Business Expectations (Q1) | 17.00 |  | 11.00 |
 | 06:30 | EUR | Moderate | French Consumer Spending (MoM) (Mar) |  | 0.7% | -1.4% |
 | 06:30 | EUR | Moderate | French GDP (QoQ) (Q1) |  | 0.2% | 0.2% |
 | 06:30 | EUR | Moderate | French GDP (YoY) (Q1) |  |  | 1.2% |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Mar) |  | 3.6% | 0.3% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Mar) |  | 1.6% | -2.3% |
 | 07:00 | EUR | Moderate | German Retail Sales (MoM) (Mar) |  | -0.3% | -0.6% |
-| 07:00 | EUR | Low | German Retail Sales (YoY) (Mar) |  |  | 0.7% |
+| 07:00 | EUR | Low | German Retail Sales (YoY) (Mar) |  | 0.5% | 0.7% |
 | 07:00 | NOK | Low | Unemployment Rate n.s.a. (Apr) |  | 2.20% | 2.20% |
 | 07:00 | ZAR | Low | M3 Money Supply (YoY) (Mar) |  |  | 8.39% |
 | 07:00 | ZAR | Low | Private Sector Credit (Mar) |  |  | 10.50% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Apr) |  | 1.0% | 1.0% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Apr) |  | 0.9% | 1.0% |
 | 07:45 | EUR | Low | French CPI (YoY) (Apr) |  | 2.0% | 1.7% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Apr) |  | 0.9% | 1.1% |
 | 07:45 | EUR | Low | French HICP (YoY) (Apr) |  | 2.3% | 2.0% |
@@ -87,12 +87,12 @@
 | 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
 | 12:00 | EUR | Low | Spanish Consumer Confidence (Mar) |  |  | 83.9 |
 | 12:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 12:30 | GBP | Moderate | BOE Inflation Letter |  |  |  |
 | 12:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
 | 12:30 | BRL | Low | Net Debt-to-GDP ratio (Mar) |  |  | 65.5% |
 | 12:30 | BRL | Low | Budget Balance (Mar) |  | -148.000B | -100.589B |
 | 12:30 | BRL | Low | Budget Surplus (Mar) |  |  | -16.388B |
 | 12:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Mar) |  | 79.6% | 79.2% |
-| 13:00 | GBP | Moderate | BOE Inflation Letter |  |  |  |
 | 13:00 | MXN | Moderate | GDP (YoY) (Q1) |  | 0.8% | 1.8% |
 | 13:00 | MXN | Moderate | GDP (QoQ) (Q1) |  | -0.5% | 0.9% |
 | 13:00 | BRL | Moderate | Unemployment Rate (Mar) |  | 6.1% | 5.8% |
@@ -134,7 +134,6 @@
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.595% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.605% |
 | 18:21 | ZAR | Low | Budget Balance (MoM) (Mar) |  |  | 27.28B |
-| 18:30 | BRL | Low | CAGED Net Payroll Jobs (Mar) |  | 150.00K | 255.32K |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -2.450B |
 | 20:00 | MXN | Low | Fiscal Balance (Mar) |  |  | -50.73B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,707B |

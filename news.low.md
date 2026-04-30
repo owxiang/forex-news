@@ -20,14 +20,14 @@
 | 03:00 | SGD | Bank Lending (Mar) | 902.3B |  | 893.6B |
 | 03:30 | SGD | Unemployment Rate (Q1) | 2.1% |  | 2.0% |
 | 04:00 | NZD | M3 Money Supply (Mar) | 455.6B |  | 445.9B |
-| 04:35 | JPY | 2-Year JGB Auction |  |  | 1.370% |
-| 06:00 | JPY | Construction Orders (YoY) (Mar) |  |  | 42.7% |
-| 06:00 | JPY | Household Confidence (Apr) |  | 32.8 | 33.3 |
-| 06:00 | JPY | Housing Starts (YoY) (Mar) |  | -28.7% | -4.9% |
-| 06:00 | SGD | Business Expectations (Q1) |  |  | 11.00 |
+| 04:35 | JPY | 2-Year JGB Auction | 1.407% |  | 1.370% |
+| 06:00 | JPY | Construction Orders (YoY) (Mar) | -14.4% |  | 42.7% |
+| 06:00 | JPY | Household Confidence (Apr) | 32.2 | 32.8 | 33.3 |
+| 06:00 | JPY | Housing Starts (YoY) (Mar) | -29.3% | -28.7% | -4.9% |
+| 06:00 | SGD | Business Expectations (Q1) | 17.00 |  | 11.00 |
 | 07:00 | EUR | German Import Price Index (MoM) (Mar) |  | 3.6% | 0.3% |
 | 07:00 | EUR | German Import Price Index (YoY) (Mar) |  | 1.6% | -2.3% |
-| 07:00 | EUR | German Retail Sales (YoY) (Mar) |  |  | 0.7% |
+| 07:00 | EUR | German Retail Sales (YoY) (Mar) |  | 0.5% | 0.7% |
 | 07:00 | NOK | Unemployment Rate n.s.a. (Apr) |  | 2.20% | 2.20% |
 | 07:00 | ZAR | M3 Money Supply (YoY) (Mar) |  |  | 8.39% |
 | 07:00 | ZAR | Private Sector Credit (Mar) |  |  | 10.50% |
@@ -77,7 +77,6 @@
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.595% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 3.605% |
 | 18:21 | ZAR | Budget Balance (MoM) (Mar) |  |  | 27.28B |
-| 18:30 | BRL | CAGED Net Payroll Jobs (Mar) |  | 150.00K | 255.32K |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | -2.450B |
 | 20:00 | MXN | Fiscal Balance (Mar) |  |  | -50.73B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.915T |
