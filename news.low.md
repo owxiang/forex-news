@@ -1,81 +1,39 @@
-## 30 April 2026 - Low Impact Forex News
+## 01 May 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Industrial Production (YoY) (Mar) | 3.6% | 3.8% | -2.3% |
-| 00:00 | KRW | Industrial Production (MoM) (Mar) | 0.3% | 0.2% | 5.3% |
-| 00:00 | KRW | Retail Sales (MoM) (Mar) | 1.8% |  | -0.3% |
-| 00:00 | KRW | Service Sector Output (MoM) (Mar) | 1.4% |  | 0.3% |
-| 00:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Apr) | 2.1% |  | 3.8% |
-| 00:50 | JPY | Industrial Production forecast 2m ahead (MoM) (May) | 2.2% |  | 3.3% |
-| 00:50 | JPY | Large Retailers' Sales (MoM) (Mar) | 1.3% | 0.8% | -2.0% |
-| 00:50 | JPY | Large Scale Retail Sales YoY (YoY) (Mar) | 2.0% |  | 2.0% |
-| 00:50 | JPY | Retail Sales (YoY) (Mar) | 1.7% | 0.9% | -0.1% |
-| 02:00 | NZD | ANZ Business Confidence (Apr) | -10.6 |  | 32.5 |
-| 02:00 | NZD | NBNZ Own Activity (Apr) | 19.6% |  | 39.3% |
-| 02:30 | AUD | Export Price Index (QoQ) (Q1) | 0.5% |  | 3.2% |
-| 02:30 | AUD | Housing Credit (Mar) | 0.6% |  | 0.6% |
-| 02:30 | AUD | Import Price Index (QoQ) (Q1) | 0.1% | 0.4% | 0.9% |
-| 02:30 | AUD | Private Sector Credit (MoM) (Mar) | 0.7% | 0.6% | 0.6% |
-| 03:00 | SGD | Bank Lending (Mar) | 902.3B |  | 893.6B |
-| 03:30 | SGD | Unemployment Rate (Q1) | 2.1% |  | 2.0% |
-| 04:00 | NZD | M3 Money Supply (Mar) | 455.6B |  | 445.9B |
-| 04:35 | JPY | 2-Year JGB Auction | 1.407% |  | 1.370% |
-| 06:00 | JPY | Construction Orders (YoY) (Mar) | -14.4% |  | 42.7% |
-| 06:00 | JPY | Household Confidence (Apr) | 32.2 | 32.8 | 33.3 |
-| 06:00 | JPY | Housing Starts (YoY) (Mar) | -29.3% | -28.7% | -4.9% |
-| 06:00 | SGD | Business Expectations (Q1) | 17.00 |  | 11.00 |
-| 07:00 | EUR | German Import Price Index (MoM) (Mar) | 3.6% | 3.6% | 0.3% |
-| 07:00 | EUR | German Import Price Index (YoY) (Mar) | 2.3% | 1.6% | -2.3% |
-| 07:00 | EUR | German Retail Sales (YoY) (Mar) | -2.0% | 0.5% | 0.9% |
-| 07:00 | NOK | Unemployment Rate n.s.a. (Apr) | 2.10% | 2.20% | 2.20% |
-| 07:00 | ZAR | M3 Money Supply (YoY) (Mar) | 8.96% |  | 8.38% |
-| 07:00 | ZAR | Private Sector Credit (Mar) | 8.50% |  | 10.50% |
-| 07:45 | EUR | French CPI (YoY) (Apr) | 2.2% | 2.0% | 1.7% |
-| 07:45 | EUR | French HICP (YoY) (Apr) | 2.5% | 2.3% | 2.0% |
-| 07:45 | EUR | French Non-Farm Payrolls (QoQ) (Q1) | -0.1% | -0.1% | -0.1% |
-| 07:45 | EUR | French PPI (MoM) (Mar) | 2.0% |  | -0.3% |
-| 07:45 | EUR | PPI (YoY) (Mar) | 0.20% |  | -2.40% |
-| 08:00 | CHF | Official Reserves Assets (Mar) | 858.6B |  | 856.0B |
-| 08:00 | EUR | Spanish GDP (YoY) (Q1) | 2.7% | 2.7% | 2.7% |
-| 08:55 | EUR | German Unemployment (Apr) | 3.006M |  | 2.977M |
-| 08:55 | EUR | German Unemployment n.s.a. (Apr) | 3.008M |  | 3.021M |
-| 09:00 | EUR | Italian GDP (QoQ) (Q1) | 0.2% | 0.1% | 0.3% |
-| 09:00 | EUR | Italian GDP (YoY) (Q1) | 0.7% | 0.6% | 0.8% |
-| 09:00 | EUR | Spanish Current account (Feb) | 4.04B |  | 2.73B |
-| 09:00 | NOK | Central Bank Currency Purchase (May) | -100.0M |  | -50.0M |
-| 09:15 | ZAR | Budget Balance (MoM) (Mar) | -45.61B |  | 27.28B |
-| 09:30 | EUR | Italian Monthly Unemployment Rate (Mar) | 5.2% | 5.3% | 5.4% |
-| 09:30 | HKD | M3 Money Supply (Mar) | 1.2% |  | 2.1% |
-| 10:00 | EUR | Italian CPI (MoM) (Apr) | 1.2% | 0.9% | 0.5% |
-| 10:00 | EUR | Italian CPI (YoY) (Apr) | 2.8% | 2.6% | 1.7% |
-| 10:00 | EUR | Italian HICP (MoM) (Apr) | 1.7% | 1.3% | 1.7% |
-| 10:00 | EUR | Italian HICP (YoY) (Apr) | 2.9% | 2.5% | 1.6% |
-| 10:00 | EUR | Core CPI (MoM) (Apr) | 0.9% |  | 0.8% |
-| 10:00 | EUR | CPI, n.s.a (Apr) | 103.05 |  | 101.99 |
-| 10:00 | EUR | HICP ex Energy & Food (YoY) (Apr) | 2.1% |  | 2.2% |
-| 10:00 | EUR | HICP ex Energy and Food (MoM) (Apr) | 0.8% |  | 0.7% |
-| 10:30 | ZAR | PPI (MoM) (Mar) | 1.1% |  | 0.0% |
-| 10:30 | ZAR | PPI (YoY) (Mar) | 2.3% |  | 1.8% |
-| 11:00 | EUR | Spanish Consumer Confidence (Mar) | 66.9 |  | 83.9 |
-| 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
-| 12:30 | BRL | Net Debt-to-GDP ratio (Mar) | 66.8% |  | 65.5% |
-| 12:30 | BRL | Budget Balance (Mar) | -199.539B | -148.000B | -100.589B |
-| 12:30 | BRL | Budget Surplus (Mar) | -80.676B |  | -16.388B |
-| 13:00 | ZAR | Trade Balance (Mar) | 31.87B |  | 35.86B |
-| 13:30 | USD | Employment Benefits (QoQ) (Q1) | 1.20% |  | 0.80% |
-| 13:30 | USD | Employment Wages (QoQ) (Q1) | 0.80% |  | 0.70% |
-| 13:30 | USD | GDP Sales (Q1) | 1.6% |  | 0.3% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. | 207.50K |  | 211.00K |
-| 13:30 | USD | PCE Prices (Q1) | 4.5% |  | 2.9% |
-| 13:30 | USD | Personal Income (MoM) (Mar) | 0.6% | 0.3% | 0.0% |
-| 13:30 | USD | Real Consumer Spending (Q1) | 1.6% |  | 1.9% |
-| 13:30 | USD | Real Personal Consumption (MoM) (Mar) | 0.2% |  | 0.3% |
-| 13:30 | CAD | Average Weekly Earnings (YoY) (Feb) | 3.36% |  | 1.93% |
-| 15:00 | USD | Dallas Fed PCE (Mar) | 2.90% |  | 1.80% |
-| 15:30 | USD | Natural Gas Storage | 79B | 83B | 103B |
-| 16:30 | USD | 4-Week Bill Auction | 3.600% |  | 3.595% |
-| 16:30 | USD | 8-Week Bill Auction | 3.620% |  | 3.605% |
-| 20:00 | MXN | Fiscal Balance (Mar) | -110.10B |  | -50.73B |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 2.919T |  | 2.915T |
-| 23:45 | NZD | Building Consents (MoM) (Mar) |  |  | 2.7% |
+| 00:00 | AUD | S&P Global Manufacturing PMI (Apr) | 51.3 |  | 51.0 |
+| 00:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Apr) |  |  | 1.4% |
+| 00:30 | JPY | Tokyo CPI (YoY) (Apr) |  |  | 1.4% |
+| 00:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Apr) |  |  | 0.4% |
+| 00:50 | JPY | Foreign Bonds Buying |  |  | -12.8B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 2,380.9B |
+| 01:00 | KRW | Exports (YoY) (Apr) |  | 44.9% | 49.2% |
+| 01:00 | KRW | Imports (YoY) (Apr) |  | 13.1% | 13.2% |
+| 01:00 | KRW | Trade Balance (Apr) |  | 23.00B | 26.24B |
+| 01:30 | JPY | S&P Global Manufacturing PMI (Apr) |  | 54.9 | 51.6 |
+| 07:30 | CHF | Retail Sales (YoY) (Mar) |  | 0.6% | 0.9% |
+| 07:30 | AUD | Commodity Prices (YoY) (Apr) |  |  | 12.8% |
+| 09:30 | GBP | BoE Consumer Credit (Mar) |  | 1.800B | 1.935B |
+| 09:30 | GBP | M3 Money Supply (Mar) |  |  | 3,228.4B |
+| 09:30 | GBP | M4 Money Supply (MoM) (Mar) |  | 0.5% | 0.6% |
+| 09:30 | GBP | Mortgage Approvals (Mar) |  | 60.00K | 62.58K |
+| 09:30 | GBP | Mortgage Lending (Mar) |  | 4.20B | 4.84B |
+| 09:30 | GBP | Net Lending to Individuals (Mar) |  | 5.900B | 6.800B |
+| 12:00 | MXN | Fiscal Balance (Mar) |  |  | -50.73B |
+| 12:30 | INR | Bank Loan Growth |  |  | 16.1% |
+| 12:30 | INR | Deposit Growth |  |  | 13.5% |
+| 12:30 | INR | FX Reserves, USD |  |  | 703.31B |
+| 14:30 | CAD | S&P Global Manufacturing PMI (Apr) |  |  | 50.0 |
+| 15:00 | USD | ISM Manufacturing New Orders Index (Apr) |  |  | 53.5 |
+| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.4K |
+| 20:30 | USD | CFTC Copper speculative net positions |  |  | 59.2K |
+| 20:30 | USD | CFTC Corn speculative net positions |  |  | 263.7K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -168.3K |
+| 20:30 | USD | CFTC Silver speculative net positions |  |  | 23.7K |
+| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 211.1K |
+| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -25.5K |
+| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -58.8K |
+| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 67.7K |
+| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -33.3K |
+| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -48.5K |
