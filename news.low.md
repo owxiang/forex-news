@@ -72,10 +72,10 @@
 | 13:30 | USD | Real Consumer Spending (Q1) | 1.6% |  | 1.9% |
 | 13:30 | USD | Real Personal Consumption (MoM) (Mar) | 0.2% |  | 0.3% |
 | 13:30 | CAD | Average Weekly Earnings (YoY) (Feb) | 3.36% |  | 1.93% |
-| 15:00 | USD | Dallas Fed PCE (Mar) |  |  | 1.80% |
-| 15:30 | USD | Natural Gas Storage |  | 83B | 103B |
-| 16:30 | USD | 4-Week Bill Auction |  |  | 3.595% |
-| 16:30 | USD | 8-Week Bill Auction |  |  | 3.605% |
+| 15:00 | USD | Dallas Fed PCE (Mar) | 2.90% |  | 1.80% |
+| 15:30 | USD | Natural Gas Storage | 79B | 83B | 103B |
+| 42 min | USD | 4-Week Bill Auction |  |  | 3.595% |
+| 42 min | USD | 8-Week Bill Auction |  |  | 3.605% |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | -2.450B |
 | 20:00 | MXN | Fiscal Balance (Mar) |  |  | -50.73B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.915T |

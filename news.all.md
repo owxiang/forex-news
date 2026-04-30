@@ -125,14 +125,14 @@
 | 13:31 | CAD | Moderate | GDP (MoM) (Mar) | 0.4% |  | 0.2% |
 | 13:45 | EUR | High | ECB Press Conference |  |  |  |
 | 14:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 14:45 | USD | High | Chicago PMI (Apr) |  | 54.8 | 52.8 |
-| 15:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  |  |  |
-| 15:00 | USD | Low | Dallas Fed PCE (Mar) |  |  | 1.80% |
-| 15:00 | USD | Moderate | US Leading Index (MoM) (Feb) |  | -0.2% | -0.1% |
-| 15:30 | USD | Low | Natural Gas Storage |  | 83B | 103B |
-| 16:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.595% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.605% |
+| 14:45 | USD | High | Chicago PMI (Apr) | 49.2 | 54.8 | 52.8 |
+| 15:00 | USD | Low | Dallas Fed PCE (Mar) | 2.90% |  | 1.80% |
+| 15:00 | USD | Moderate | US Leading Index (MoM) (Mar) | -0.6% | -0.2% | 0.0% |
+| 15:30 | USD | Low | Natural Gas Storage | 79B | 83B | 103B |
+| 27 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 42 min | USD | Low | 4-Week Bill Auction |  |  | 3.595% |
+| 42 min | USD | Low | 8-Week Bill Auction |  |  | 3.605% |
+| 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  |  |  |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -2.450B |
 | 20:00 | MXN | Low | Fiscal Balance (Mar) |  |  | -50.73B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,707B |
