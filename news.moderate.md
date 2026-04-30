@@ -14,7 +14,7 @@
 | 07:45 | EUR | French HICP (MoM) (Apr) | 1.2% | 0.9% | 1.1% |
 | 08:00 | CHF | KOF Leading Indicators (Apr) | 97.9 | 95.8 | 95.6 |
 | 08:00 | EUR | Spanish GDP (QoQ) (Q1) | 0.6% | 0.5% | 0.8% |
-| 08:55 | EUR | German Unemployment Change (Apr) | 20K | 4K | 0K |
+| 08:55 | EUR | German Unemployment Change (Apr) | 20K | 4K | 3K |
 | 08:55 | EUR | German Unemployment Rate (Apr) | 6.4% | 6.3% | 6.4% |
 | 09:00 | EUR | German GDP (YoY) (Q1) | 0.3% | 0.3% | 0.4% |
 | 10:00 | EUR | Core CPI (YoY) (Apr) | 2.2% | 2.2% | 2.3% |

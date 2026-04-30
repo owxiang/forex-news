@@ -51,7 +51,7 @@
 | 08:00 | CHF | Low | Official Reserves Assets (Mar) | 858.6B |  | 856.0B |
 | 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q1) | 0.6% | 0.5% | 0.8% |
 | 08:00 | EUR | Low | Spanish GDP (YoY) (Q1) | 2.7% | 2.7% | 2.7% |
-| 08:55 | EUR | Moderate | German Unemployment Change (Apr) | 20K | 4K | 0K |
+| 08:55 | EUR | Moderate | German Unemployment Change (Apr) | 20K | 4K | 3K |
 | 08:55 | EUR | Moderate | German Unemployment Rate (Apr) | 6.4% | 6.3% | 6.4% |
 | 08:55 | EUR | Low | German Unemployment (Apr) | 3.006M |  | 2.977M |
 | 08:55 | EUR | Low | German Unemployment n.s.a. (Apr) | 3.008M |  | 3.021M |
@@ -80,13 +80,13 @@
 | 10:00 | EUR | Moderate | Unemployment Rate (Mar) | 6.2% | 6.2% | 6.3% |
 | 10:30 | ZAR | Low | PPI (MoM) (Mar) | 1.1% |  | 0.0% |
 | 10:30 | ZAR | Low | PPI (YoY) (Mar) | 2.3% |  | 1.8% |
-| 13 min | INR | Low | Federal Fiscal Deficit (Mar) |  |  | 12,526.49B |
+| 11:00 | EUR | Low | Spanish Consumer Confidence (Mar) | 66.9 |  | 83.9 |
 | 12:00 | GBP | Moderate | BoE MPC vote cut (Apr) |  | 0 | 0 |
 | 12:00 | GBP | Moderate | BoE MPC vote hike (Apr) |  | 1 | 0 |
 | 12:00 | GBP | Moderate | BoE MPC vote unchanged (Apr) |  | 8 | 9 |
 | 12:00 | GBP | High | BoE Interest Rate Decision (Apr) |  | 3.75% | 3.75% |
 | 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
-| 12:00 | EUR | Low | Spanish Consumer Confidence (Mar) |  |  | 83.9 |
+| 12:00 | INR | Low | Federal Fiscal Deficit (Mar) |  |  | 12,526.49B |
 | 12:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 12:30 | GBP | Moderate | BOE Inflation Letter |  |  |  |
 | 12:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |

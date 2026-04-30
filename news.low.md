@@ -57,8 +57,8 @@
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Apr) | 0.8% |  | 0.7% |
 | 10:30 | ZAR | PPI (MoM) (Mar) | 1.1% |  | 0.0% |
 | 10:30 | ZAR | PPI (YoY) (Mar) | 2.3% |  | 1.8% |
-| 13 min | INR | Federal Fiscal Deficit (Mar) |  |  | 12,526.49B |
-| 12:00 | EUR | Spanish Consumer Confidence (Mar) |  |  | 83.9 |
+| 11:00 | EUR | Spanish Consumer Confidence (Mar) | 66.9 |  | 83.9 |
+| 12:00 | INR | Federal Fiscal Deficit (Mar) |  |  | 12,526.49B |
 | 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
 | 12:30 | BRL | Net Debt-to-GDP ratio (Mar) |  |  | 65.5% |
 | 12:30 | BRL | Budget Balance (Mar) |  | -148.000B | -100.589B |
