@@ -36,7 +36,7 @@
 | 15:00 | USD | Low | ISM Manufacturing New Orders Index (Apr) | 54.1 | 54.5 | 53.5 |
 | 15:00 | USD | High | ISM Manufacturing PMI (Apr) | 52.7 | 53.1 | 52.7 |
 | 15:00 | USD | High | ISM Manufacturing Prices (Apr) | 84.6 | 80.0 | 78.3 |
-| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 3.7% | 3.7% |
+| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 3.5% | 3.7% | 3.7% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 407 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 544 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -52.0K |
