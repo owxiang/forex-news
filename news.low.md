@@ -8,8 +8,8 @@
 | 00:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Apr) | 0.2% |  | 0.3% |
 | 00:50 | JPY | Foreign Bonds Buying | -887.7B |  | -8.8B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 807.9B |  | 2,380.6B |
-| 01:00 | KRW | Exports (YoY) (Apr) | 48.0% | 44.9% | 49.2% |
-| 01:00 | KRW | Imports (YoY) (Apr) | 16.7% | 13.1% | 13.2% |
+| 01:00 | KRW | Exports (YoY) (Apr) | 48.0% | 45.3% | 49.2% |
+| 01:00 | KRW | Imports (YoY) (Apr) | 16.7% | 14.5% | 13.2% |
 | 01:00 | KRW | Trade Balance (Apr) | 23.77B | 23.00B | 26.24B |
 | 01:30 | JPY | S&P Global Manufacturing PMI (Apr) | 55.1 | 54.9 | 51.6 |
 | 07:30 | CHF | Retail Sales (YoY) (Mar) |  | 0.6% | 0.9% |
