@@ -20,8 +20,8 @@
 | 09:30 | GBP | Mortgage Approvals (Mar) | 63.53K | 60.00K | 62.71K |
 | 09:30 | GBP | Mortgage Lending (Mar) | 6.15B | 4.20B | 5.22B |
 | 09:30 | GBP | Net Lending to Individuals (Mar) | 8.000B | 5.900B | 6.800B |
-| 12:30 | INR | Bank Loan Growth |  |  | 16.1% |
-| 12:30 | INR | Deposit Growth |  |  | 13.5% |
+| 12:30 | INR | Bank Loan Growth | 15.0% |  | 16.1% |
+| 12:30 | INR | Deposit Growth | 12.2% |  | 13.5% |
 | 12:30 | INR | FX Reserves, USD | 698.49B |  | 703.31B |
 | 14:30 | CAD | S&P Global Manufacturing PMI (Apr) |  |  | 50.0 |
 | 15:00 | USD | ISM Manufacturing New Orders Index (Apr) |  |  | 53.5 |
