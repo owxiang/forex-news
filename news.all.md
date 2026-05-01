@@ -30,7 +30,7 @@
 | 12:30 | INR | Low | Bank Loan Growth | 15.0% |  | 16.1% |
 | 12:30 | INR | Low | Deposit Growth | 12.2% |  | 13.5% |
 | 12:30 | INR | Low | FX Reserves, USD | 698.49B |  | 703.31B |
-| 14:30 | CAD | Low | S&P Global Manufacturing PMI (Apr) |  |  | 50.0 |
+| 14:30 | CAD | Low | S&P Global Manufacturing PMI (Apr) | 53.3 |  | 50.0 |
 | 14:45 | USD | High | S&P Global Manufacturing PMI (Apr) |  | 54.0 | 54.0 |
 | 15:00 | USD | Moderate | ISM Manufacturing Employment (Apr) |  | 49.0 | 48.7 |
 | 15:00 | USD | Low | ISM Manufacturing New Orders Index (Apr) |  |  | 53.5 |
