@@ -15,10 +15,10 @@
 | 01:30 | JPY | Low | S&P Global Manufacturing PMI (Apr) | 55.1 | 54.9 | 51.6 |
 | 02:30 | AUD | Moderate | PPI (QoQ) (Q1) | 0.4% | 0.9% | 0.8% |
 | 02:30 | AUD | Moderate | PPI (YoY) (Q1) | 3.0% |  | 3.5% |
-| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Apr) |  | -0.3% | 0.9% |
-| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Apr) |  | 2.2% | 2.2% |
-| 07:30 | CHF | Low | Retail Sales (YoY) (Mar) |  | 0.6% | 0.9% |
-| 07:30 | AUD | Low | Commodity Prices (YoY) (Apr) |  |  | 12.8% |
+| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Apr) | 0.4% | -0.3% | 0.9% |
+| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Apr) | 3.0% | 2.2% | 2.2% |
+| 07:30 | CHF | Low | Retail Sales (YoY) (Mar) | 0.5% | 0.6% | 0.4% |
+| 07:30 | AUD | Low | Commodity Prices (YoY) (Apr) | 15.7% |  | 12.7% |
 | 09:30 | GBP | Low | BoE Consumer Credit (Mar) |  | 1.800B | 1.935B |
 | 09:30 | GBP | Low | M3 Money Supply (Mar) |  |  | 3,228.4B |
 | 09:30 | GBP | Low | M4 Money Supply (MoM) (Mar) |  | 0.5% | 0.6% |

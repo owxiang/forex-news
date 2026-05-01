@@ -5,8 +5,8 @@
 | 00:30 | JPY | Tokyo Core CPI (YoY) (Apr) | 1.5% | 1.8% | 1.7% |
 | 02:30 | AUD | PPI (QoQ) (Q1) | 0.4% | 0.9% | 0.8% |
 | 02:30 | AUD | PPI (YoY) (Q1) | 3.0% |  | 3.5% |
-| 07:00 | GBP | Nationwide HPI (MoM) (Apr) |  | -0.3% | 0.9% |
-| 07:00 | GBP | Nationwide HPI (YoY) (Apr) |  | 2.2% | 2.2% |
+| 07:00 | GBP | Nationwide HPI (MoM) (Apr) | 0.4% | -0.3% | 0.9% |
+| 07:00 | GBP | Nationwide HPI (YoY) (Apr) | 3.0% | 2.2% | 2.2% |
 | 09:30 | GBP | S&P Global Manufacturing PMI (Apr) |  | 53.6 | 51.0 |
 | 12:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 15:00 | USD | ISM Manufacturing Employment (Apr) |  | 49.0 | 48.7 |

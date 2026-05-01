@@ -12,8 +12,8 @@
 | 01:00 | KRW | Imports (YoY) (Apr) | 16.7% | 14.5% | 13.2% |
 | 01:00 | KRW | Trade Balance (Apr) | 23.77B | 23.00B | 26.24B |
 | 01:30 | JPY | S&P Global Manufacturing PMI (Apr) | 55.1 | 54.9 | 51.6 |
-| 07:30 | CHF | Retail Sales (YoY) (Mar) |  | 0.6% | 0.9% |
-| 07:30 | AUD | Commodity Prices (YoY) (Apr) |  |  | 12.8% |
+| 07:30 | CHF | Retail Sales (YoY) (Mar) | 0.5% | 0.6% | 0.4% |
+| 07:30 | AUD | Commodity Prices (YoY) (Apr) | 15.7% |  | 12.7% |
 | 09:30 | GBP | BoE Consumer Credit (Mar) |  | 1.800B | 1.935B |
 | 09:30 | GBP | M3 Money Supply (Mar) |  |  | 3,228.4B |
 | 09:30 | GBP | M4 Money Supply (MoM) (Mar) |  | 0.5% | 0.6% |
