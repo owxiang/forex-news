@@ -3,16 +3,16 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | AUD | Low | S&P Global Manufacturing PMI (Apr) | 51.3 |  | 51.0 |
-| 00:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Apr) |  |  | 1.4% |
-| 00:30 | JPY | Moderate | Tokyo Core CPI (YoY) (Apr) |  | 1.8% | 1.7% |
-| 00:30 | JPY | Low | Tokyo CPI (YoY) (Apr) |  |  | 1.4% |
-| 00:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Apr) |  |  | 0.4% |
-| 00:50 | JPY | Low | Foreign Bonds Buying |  |  | -12.8B |
-| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 2,380.9B |
-| 01:00 | KRW | Low | Exports (YoY) (Apr) |  | 44.9% | 49.2% |
-| 01:00 | KRW | Low | Imports (YoY) (Apr) |  | 13.1% | 13.2% |
-| 01:00 | KRW | Low | Trade Balance (Apr) |  | 23.00B | 26.24B |
-| 01:30 | JPY | Low | S&P Global Manufacturing PMI (Apr) |  | 54.9 | 51.6 |
+| 00:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Apr) | 0.9% |  | 1.4% |
+| 00:30 | JPY | Moderate | Tokyo Core CPI (YoY) (Apr) | 1.5% | 1.8% | 1.7% |
+| 00:30 | JPY | Low | Tokyo CPI (YoY) (Apr) | 1.5% |  | 1.4% |
+| 00:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Apr) | 0.2% |  | 0.3% |
+| 00:50 | JPY | Low | Foreign Bonds Buying | -887.7B |  | -8.8B |
+| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 807.9B |  | 2,380.6B |
+| 01:00 | KRW | Low | Exports (YoY) (Apr) | 48.0% | 44.9% | 49.2% |
+| 01:00 | KRW | Low | Imports (YoY) (Apr) | 16.7% | 13.1% | 13.2% |
+| 01:00 | KRW | Low | Trade Balance (Apr) | 23.77B | 23.00B | 26.24B |
+| 01:30 | JPY | Low | S&P Global Manufacturing PMI (Apr) | 55.1 | 54.9 | 51.6 |
 | 02:30 | AUD | Moderate | PPI (QoQ) (Q1) |  | 0.9% | 0.8% |
 | 02:30 | AUD | Moderate | PPI (YoY) (Q1) |  |  | 3.5% |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Apr) |  | -0.3% | 0.9% |
