@@ -19,13 +19,13 @@
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Apr) | 3.0% | 2.2% | 2.2% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Mar) | 0.5% | 0.6% | 0.4% |
 | 07:30 | AUD | Low | Commodity Prices (YoY) (Apr) | 15.7% |  | 12.7% |
-| 09:30 | GBP | Low | BoE Consumer Credit (Mar) |  | 1.800B | 1.935B |
-| 09:30 | GBP | Low | M3 Money Supply (Mar) |  |  | 3,228.4B |
-| 09:30 | GBP | Low | M4 Money Supply (MoM) (Mar) |  | 0.5% | 0.6% |
-| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Apr) |  | 53.6 | 51.0 |
-| 09:30 | GBP | Low | Mortgage Approvals (Mar) |  | 60.00K | 62.58K |
-| 09:30 | GBP | Low | Mortgage Lending (Mar) |  | 4.20B | 4.84B |
-| 09:30 | GBP | Low | Net Lending to Individuals (Mar) |  | 5.900B | 6.800B |
+| 09:30 | GBP | Low | BoE Consumer Credit (Mar) | 1.895B | 1.800B | 1.975B |
+| 09:30 | GBP | Low | M3 Money Supply (Mar) | 3,270.1B |  | 3,244.1B |
+| 09:30 | GBP | Low | M4 Money Supply (MoM) (Mar) | 0.8% | 0.5% | 0.7% |
+| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Apr) | 53.7 | 53.6 | 51.0 |
+| 09:30 | GBP | Low | Mortgage Approvals (Mar) | 63.53K | 60.00K | 62.71K |
+| 09:30 | GBP | Low | Mortgage Lending (Mar) | 6.15B | 4.20B | 5.22B |
+| 09:30 | GBP | Low | Net Lending to Individuals (Mar) | 8.000B | 5.900B | 6.800B |
 | 12:00 | MXN | Low | Fiscal Balance (Mar) |  |  | -50.73B |
 | 12:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 16.1% |

@@ -7,7 +7,7 @@
 | 02:30 | AUD | PPI (YoY) (Q1) | 3.0% |  | 3.5% |
 | 07:00 | GBP | Nationwide HPI (MoM) (Apr) | 0.4% | -0.3% | 0.9% |
 | 07:00 | GBP | Nationwide HPI (YoY) (Apr) | 3.0% | 2.2% | 2.2% |
-| 09:30 | GBP | S&P Global Manufacturing PMI (Apr) |  | 53.6 | 51.0 |
+| 09:30 | GBP | S&P Global Manufacturing PMI (Apr) | 53.7 | 53.6 | 51.0 |
 | 12:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 15:00 | USD | ISM Manufacturing Employment (Apr) |  | 49.0 | 48.7 |
 | 16:30 | USD | Atlanta Fed GDPNow (Q2) |  | 3.7% | 3.7% |
