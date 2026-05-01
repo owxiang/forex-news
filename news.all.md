@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | AUD | Low | S&P Global Manufacturing PMI (Apr) | 51.3 |  | 51.0 |
+| 00:00 | AUD | Low | S&P Global Manufacturing PMI (Apr) | 51.3 | 51.0 | 49.8 |
 | 00:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Apr) | 0.9% |  | 1.4% |
 | 00:30 | JPY | Moderate | Tokyo Core CPI (YoY) (Apr) | 1.5% | 1.8% | 1.7% |
 | 00:30 | JPY | Low | Tokyo CPI (YoY) (Apr) | 1.5% |  | 1.4% |
@@ -13,8 +13,8 @@
 | 01:00 | KRW | Low | Imports (YoY) (Apr) | 16.7% | 13.1% | 13.2% |
 | 01:00 | KRW | Low | Trade Balance (Apr) | 23.77B | 23.00B | 26.24B |
 | 01:30 | JPY | Low | S&P Global Manufacturing PMI (Apr) | 55.1 | 54.9 | 51.6 |
-| 02:30 | AUD | Moderate | PPI (QoQ) (Q1) |  | 0.9% | 0.8% |
-| 02:30 | AUD | Moderate | PPI (YoY) (Q1) |  |  | 3.5% |
+| 02:30 | AUD | Moderate | PPI (QoQ) (Q1) | 0.4% | 0.9% | 0.8% |
+| 02:30 | AUD | Moderate | PPI (YoY) (Q1) | 3.0% |  | 3.5% |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Apr) |  | -0.3% | 0.9% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Apr) |  | 2.2% | 2.2% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Mar) |  | 0.6% | 0.9% |

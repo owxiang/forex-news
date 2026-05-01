@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | AUD | S&P Global Manufacturing PMI (Apr) | 51.3 |  | 51.0 |
+| 00:00 | AUD | S&P Global Manufacturing PMI (Apr) | 51.3 | 51.0 | 49.8 |
 | 00:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Apr) | 0.9% |  | 1.4% |
 | 00:30 | JPY | Tokyo CPI (YoY) (Apr) | 1.5% |  | 1.4% |
 | 00:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Apr) | 0.2% |  | 0.3% |

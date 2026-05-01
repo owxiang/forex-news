@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | Tokyo Core CPI (YoY) (Apr) | 1.5% | 1.8% | 1.7% |
-| 02:30 | AUD | PPI (QoQ) (Q1) |  | 0.9% | 0.8% |
-| 02:30 | AUD | PPI (YoY) (Q1) |  |  | 3.5% |
+| 02:30 | AUD | PPI (QoQ) (Q1) | 0.4% | 0.9% | 0.8% |
+| 02:30 | AUD | PPI (YoY) (Q1) | 3.0% |  | 3.5% |
 | 07:00 | GBP | Nationwide HPI (MoM) (Apr) |  | -0.3% | 0.9% |
 | 07:00 | GBP | Nationwide HPI (YoY) (Apr) |  | 2.2% | 2.2% |
 | 09:30 | GBP | S&P Global Manufacturing PMI (Apr) |  | 53.6 | 51.0 |
