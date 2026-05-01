@@ -11,8 +11,8 @@
 | 12:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 15:00 | USD | ISM Manufacturing Employment (Apr) | 46.4 | 49.0 | 48.7 |
 | 16:30 | USD | Atlanta Fed GDPNow (Q2) | 3.5% | 3.7% | 3.7% |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 407 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 544 |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 408 |  | 407 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count | 547 |  | 544 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -52.0K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 192.3K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 164.0K |
