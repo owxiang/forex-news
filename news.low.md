@@ -22,7 +22,7 @@
 | 09:30 | GBP | Net Lending to Individuals (Mar) | 8.000B | 5.900B | 6.800B |
 | 12:30 | INR | Bank Loan Growth |  |  | 16.1% |
 | 12:30 | INR | Deposit Growth |  |  | 13.5% |
-| 12:30 | INR | FX Reserves, USD |  |  | 703.31B |
+| 12:30 | INR | FX Reserves, USD | 698.49B |  | 703.31B |
 | 14:30 | CAD | S&P Global Manufacturing PMI (Apr) |  |  | 50.0 |
 | 15:00 | USD | ISM Manufacturing New Orders Index (Apr) |  |  | 53.5 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.4K |
