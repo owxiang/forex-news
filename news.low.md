@@ -25,14 +25,14 @@
 | 12:30 | INR | FX Reserves, USD | 698.49B |  | 703.31B |
 | 14:30 | CAD | S&P Global Manufacturing PMI (Apr) | 53.3 |  | 50.0 |
 | 15:00 | USD | ISM Manufacturing New Orders Index (Apr) | 54.1 | 54.5 | 53.5 |
-| 59 min | USD | CFTC Aluminium speculative net positions |  |  | 0.4K |
-| 59 min | USD | CFTC Copper speculative net positions |  |  | 59.2K |
-| 59 min | USD | CFTC Corn speculative net positions |  |  | 263.7K |
-| 59 min | USD | CFTC Natural Gas speculative net positions |  |  | -168.3K |
-| 59 min | USD | CFTC Silver speculative net positions |  |  | 23.7K |
-| 59 min | USD | CFTC Soybeans speculative net positions |  |  | 211.1K |
-| 59 min | USD | CFTC Wheat speculative net positions |  |  | -25.5K |
-| 59 min | CAD | CFTC CAD speculative net positions |  |  | -58.8K |
-| 59 min | MXN | CFTC MXN speculative net positions |  |  | 67.7K |
-| 59 min | CHF | CFTC CHF speculative net positions |  |  | -33.3K |
-| 59 min | NZD | CFTC NZD speculative net positions |  |  | -48.5K |
+| 20:30 | USD | CFTC Aluminium speculative net positions | -0.0K |  | 0.4K |
+| 20:30 | USD | CFTC Copper speculative net positions | 63.3K |  | 59.2K |
+| 20:30 | USD | CFTC Corn speculative net positions | 340.7K |  | 263.7K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions | -166.3K |  | -168.3K |
+| 20:30 | USD | CFTC Silver speculative net positions | 24.2K |  | 23.7K |
+| 20:30 | USD | CFTC Soybeans speculative net positions | 193.9K |  | 211.1K |
+| 20:30 | USD | CFTC Wheat speculative net positions | 0.9K |  | -25.5K |
+| 20:30 | CAD | CFTC CAD speculative net positions | -38.5K |  | -58.8K |
+| 20:30 | MXN | CFTC MXN speculative net positions | 67.8K |  | 67.7K |
+| 20:30 | CHF | CFTC CHF speculative net positions | -35.2K |  | -33.3K |
+| 20:30 | NZD | CFTC NZD speculative net positions | -46.3K |  | -48.5K |
