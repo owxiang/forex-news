@@ -26,7 +26,6 @@
 | 09:30 | GBP | Low | Mortgage Approvals (Mar) | 63.53K | 60.00K | 62.71K |
 | 09:30 | GBP | Low | Mortgage Lending (Mar) | 6.15B | 4.20B | 5.22B |
 | 09:30 | GBP | Low | Net Lending to Individuals (Mar) | 8.000B | 5.900B | 6.800B |
-| 12:00 | MXN | Low | Fiscal Balance (Mar) |  |  | -50.73B |
 | 12:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 16.1% |
 | 12:30 | INR | Low | Deposit Growth |  |  | 13.5% |
