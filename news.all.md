@@ -31,11 +31,11 @@
 | 12:30 | INR | Low | Deposit Growth | 12.2% |  | 13.5% |
 | 12:30 | INR | Low | FX Reserves, USD | 698.49B |  | 703.31B |
 | 14:30 | CAD | Low | S&P Global Manufacturing PMI (Apr) | 53.3 |  | 50.0 |
-| 14:45 | USD | High | S&P Global Manufacturing PMI (Apr) |  | 54.0 | 54.0 |
-| 15:00 | USD | Moderate | ISM Manufacturing Employment (Apr) |  | 49.0 | 48.7 |
-| 15:00 | USD | Low | ISM Manufacturing New Orders Index (Apr) |  |  | 53.5 |
-| 15:00 | USD | High | ISM Manufacturing PMI (Apr) |  | 53.1 | 52.7 |
-| 15:00 | USD | High | ISM Manufacturing Prices (Apr) |  | 80.0 | 78.3 |
+| 14:45 | USD | High | S&P Global Manufacturing PMI (Apr) | 54.5 | 54.0 | 54.0 |
+| 15:00 | USD | Moderate | ISM Manufacturing Employment (Apr) | 46.4 | 49.0 | 48.7 |
+| 15:00 | USD | Low | ISM Manufacturing New Orders Index (Apr) | 54.1 | 54.5 | 53.5 |
+| 15:00 | USD | High | ISM Manufacturing PMI (Apr) | 52.7 | 53.1 | 52.7 |
+| 15:00 | USD | High | ISM Manufacturing Prices (Apr) | 84.6 | 80.0 | 78.3 |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 3.7% | 3.7% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 407 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 544 |

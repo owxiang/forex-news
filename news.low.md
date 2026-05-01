@@ -24,7 +24,7 @@
 | 12:30 | INR | Deposit Growth | 12.2% |  | 13.5% |
 | 12:30 | INR | FX Reserves, USD | 698.49B |  | 703.31B |
 | 14:30 | CAD | S&P Global Manufacturing PMI (Apr) | 53.3 |  | 50.0 |
-| 15:00 | USD | ISM Manufacturing New Orders Index (Apr) |  |  | 53.5 |
+| 15:00 | USD | ISM Manufacturing New Orders Index (Apr) | 54.1 | 54.5 | 53.5 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.4K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 59.2K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 263.7K |
