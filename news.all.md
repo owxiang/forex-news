@@ -39,6 +39,7 @@
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 3.5% | 3.7% | 3.7% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 408 |  | 407 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 547 |  | 544 |
+| 20:00 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions | -60.6K |  | -52.0K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions | -0.0K |  | 0.4K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions | 63.3K |  | 59.2K |
