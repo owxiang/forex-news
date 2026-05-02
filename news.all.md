@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 14:00 | SGD | Low | S&P Global Manufacturing PMI (Apr) |  |  | 50.5 |
+| 34 min | SGD | Low | S&P Global Manufacturing PMI (Apr) |  |  | 50.5 |
