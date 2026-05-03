@@ -1,5 +1,37 @@
-## 02 May 2026 - Low Impact Forex News
+## 04 May 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 14:00 | SGD | S&P Global Manufacturing PMI (Apr) | 50.7 |  | 50.5 |
+| 01:30 | KRW | S&P Global South Korea Manufacturing PMI (Apr) |  |  | 52.6 |
+| 01:30 | IDR | S&P Global Manufacturing PMI (Apr) |  |  | 50.1 |
+| 02:00 | AUD | MI Inflation Gauge (MoM) (Apr) |  |  | 1.3% |
+| 02:30 | AUD | ANZ Job Advertisements (MoM) (Apr) |  |  | -3.1% |
+| 02:30 | AUD | Building Approvals (YoY) (Mar) |  |  | 10.80% |
+| 02:30 | AUD | Private House Approvals (Mar) |  |  | 0.2% |
+| 05:00 | IDR | Core Inflation (YoY) (Apr) |  |  | 2.52% |
+| 05:00 | IDR | Export Growth (YoY) (Mar) |  |  | 1.01% |
+| 05:00 | IDR | Import Growth (YoY) (Mar) |  |  | 10.85% |
+| 05:00 | IDR | Inflation (MoM) (Apr) |  |  | 0.41% |
+| 05:00 | IDR | Inflation (YoY) (Apr) |  |  | 3.48% |
+| 05:00 | IDR | Trade Balance (Mar) |  |  | 1.28B |
+| 06:00 | INR | HSBC India Manufacturing PMI (Apr) |  | 55.9 | 55.9 |
+| 09:30 | EUR | Sentix Investor Confidence (May) |  | -20.9 | -19.2 |
+| 10:00 | ZAR | Manufacturing PMI (Apr) |  |  | 49.0 |
+| 12:00 | EUR | Car Registration (YoY) (Apr) |  |  | 11.70% |
+| 12:00 | EUR | Car Registration (MoM) (Apr) |  |  | 34.30% |
+| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 13:00 | ZAR | Total Vehicle Sales (YoY) (Apr) |  |  | 17.30% |
+| 13:00 | ZAR | Total Vehicle Sales (Apr) |  |  | 58.06K |
+| 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.551% |
+| 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.192% |
+| 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.342% |
+| 14:00 | BRL | S&P Global Manufacturing PMI (Apr) |  |  | 49.0 |
+| 15:00 | USD | Durables Excluding Defense (MoM) (Mar) |  | -0.3% | -0.3% |
+| 15:00 | USD | Durables Excluding Transport (MoM) (Mar) |  |  | 0.9% |
+| 15:00 | USD | Factory orders ex transportation (MoM) (Mar) |  |  | 1.2% |
+| 16:00 | MXN | S&P Global Manufacturing PMI (Apr) |  |  | 48.90 |
+| 16:30 | USD | 3-Month Bill Auction |  |  | 3.590% |
+| 16:30 | USD | 6-Month Bill Auction |  |  | 3.590% |
+| 17:15 | EUR | Italian Car Registration (YoY) (Apr) |  |  | 7.6% |
+| 19:00 | USD | Loan Officer Survey |  |  |  |
+| 19:00 | USD | Total Vehicle Sales (Apr) |  | 16.00M | 16.30M |
