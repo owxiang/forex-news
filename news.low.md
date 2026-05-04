@@ -2,12 +2,12 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | KRW | S&P Global South Korea Manufacturing PMI (Apr) |  |  | 52.6 |
-| 01:30 | IDR | S&P Global Manufacturing PMI (Apr) |  |  | 50.1 |
-| 02:00 | AUD | MI Inflation Gauge (MoM) (Apr) |  |  | 1.3% |
-| 02:30 | AUD | ANZ Job Advertisements (MoM) (Apr) |  |  | -3.1% |
-| 02:30 | AUD | Building Approvals (YoY) (Mar) |  |  | 10.80% |
-| 02:30 | AUD | Private House Approvals (Mar) |  |  | 0.2% |
+| 01:30 | KRW | S&P Global South Korea Manufacturing PMI (Apr) | 53.6 |  | 52.6 |
+| 01:30 | IDR | S&P Global Manufacturing PMI (Apr) | 49.1 |  | 50.1 |
+| 3 min | AUD | MI Inflation Gauge (MoM) (Apr) |  |  | 1.3% |
+| 33 min | AUD | ANZ Job Advertisements (MoM) (Apr) |  |  | -3.1% |
+| 33 min | AUD | Building Approvals (YoY) (Mar) |  |  | 10.80% |
+| 33 min | AUD | Private House Approvals (Mar) |  |  | 0.2% |
 | 05:00 | IDR | Core Inflation (YoY) (Apr) |  |  | 2.52% |
 | 05:00 | IDR | Export Growth (YoY) (Mar) |  |  | 1.01% |
 | 05:00 | IDR | Import Growth (YoY) (Mar) |  |  | 10.85% |

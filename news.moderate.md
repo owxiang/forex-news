@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Building Approvals (MoM) (Mar) |  | -10.2% | 29.7% |
+| 33 min | AUD | Building Approvals (MoM) (Mar) |  | -10.2% | 29.7% |
 | 08:15 | EUR | HCOB Spain Manufacturing PMI (Apr) |  | 49.5 | 48.7 |
 | 08:30 | CHF | procure.ch Manufacturing PMI (Apr) |  | 52.0 | 53.3 |
 | 08:45 | EUR | HCOB Italy Manufacturing PMI (Apr) |  | 51.6 | 51.3 |
