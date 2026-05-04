@@ -45,7 +45,7 @@
 | 16:00 | MXN | Low | S&P Global Manufacturing PMI (Apr) | 47.70 |  | 48.90 |
 | 16:30 | USD | Low | 3-Month Bill Auction | 3.610% |  | 3.590% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 3.610% |  | 3.590% |
-| 28 min | EUR | Low | Italian Car Registration (YoY) (Apr) |  |  | 7.6% |
+| 17:30 | EUR | Low | Italian Car Registration (YoY) (Apr) | 11.6% |  | 7.6% |
 | 17:50 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 18:05 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 19:00 | USD | Low | Loan Officer Survey |  |  |  |
