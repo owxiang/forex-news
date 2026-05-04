@@ -27,11 +27,13 @@
 | 14:00 | EUR | French 3-Month BTF Auction | 2.219% |  | 2.192% |
 | 14:00 | EUR | French 6-Month BTF Auction | 2.476% |  | 2.342% |
 | 14:00 | BRL | S&P Global Manufacturing PMI (Apr) | 52.6 |  | 49.0 |
+| 15:00 | USD | All Car Sales (Apr) | 2.60M |  | 2.64M |
+| 15:00 | USD | All Truck Sales (Apr) | 13.32M |  | 13.53M |
 | 15:00 | USD | Durables Excluding Defense (MoM) (Mar) | -0.3% | -0.3% | -0.3% |
 | 15:00 | USD | Durables Excluding Transport (MoM) (Mar) | 0.9% |  | 0.9% |
 | 15:00 | USD | Factory orders ex transportation (MoM) (Mar) | 1.6% |  | 1.6% |
-| 10 min | MXN | S&P Global Manufacturing PMI (Apr) |  |  | 48.90 |
-| 40 min | USD | 3-Month Bill Auction |  |  | 3.590% |
-| 40 min | USD | 6-Month Bill Auction |  |  | 3.590% |
-| 17:15 | EUR | Italian Car Registration (YoY) (Apr) |  |  | 7.6% |
+| 16:00 | MXN | S&P Global Manufacturing PMI (Apr) | 47.70 |  | 48.90 |
+| 16:30 | USD | 3-Month Bill Auction | 3.610% |  | 3.590% |
+| 16:30 | USD | 6-Month Bill Auction | 3.610% |  | 3.590% |
+| 28 min | EUR | Italian Car Registration (YoY) (Apr) |  |  | 7.6% |
 | 19:00 | USD | Loan Officer Survey |  |  |  |
