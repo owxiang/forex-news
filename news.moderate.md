@@ -14,4 +14,4 @@
 | 15:00 | USD | Factory Orders (MoM) (Mar) | 1.5% | 0.5% | 0.3% |
 | 17:50 | USD | FOMC Member Williams Speaks |  |  |  |
 | 18:05 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 20:30 | CAD | BoC Gov Macklem Speaks |  |  |  |
+| 49 min | CAD | BoC Gov Macklem Speaks |  |  |  |
