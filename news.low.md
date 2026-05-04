@@ -18,10 +18,11 @@
 | 09:30 | EUR | Sentix Investor Confidence (May) | -16.4 | -20.9 | -19.2 |
 | 10:00 | ZAR | Manufacturing PMI (Apr) | 52.6 |  | 49.0 |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 21 min | EUR | Car Registration (MoM) (Apr) |  |  | 34.30% |
-| 21 min | EUR | Car Registration (YoY) (Apr) |  |  | 11.70% |
-| 21 min | ZAR | Total Vehicle Sales (Apr) |  |  | 58.06K |
-| 21 min | ZAR | Total Vehicle Sales (YoY) (Apr) |  |  | 17.30% |
+| 12:30 | EUR | Car Registration (YoY) (Apr) | 8.40% |  | 11.70% |
+| 12:30 | EUR | Car Registration (MoM) (Apr) | -18.00% |  | 34.30% |
+| 13:00 | USD | Total Vehicle Sales (Apr) | 15.90M | 16.00M | 16.30M |
+| 13:00 | ZAR | Total Vehicle Sales (YoY) (Apr) | 13.00% |  | 17.30% |
+| 13:00 | ZAR | Total Vehicle Sales (Apr) | 47.98K |  | 58.06K |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.551% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.192% |
 | 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.342% |
@@ -34,4 +35,3 @@
 | 16:30 | USD | 6-Month Bill Auction |  |  | 3.590% |
 | 17:15 | EUR | Italian Car Registration (YoY) (Apr) |  |  | 7.6% |
 | 19:00 | USD | Loan Officer Survey |  |  |  |
-| 19:00 | USD | Total Vehicle Sales (Apr) |  | 16.00M | 16.30M |

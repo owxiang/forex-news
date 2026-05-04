@@ -26,11 +26,12 @@
 | 10:00 | ZAR | Low | Manufacturing PMI (Apr) | 52.6 |  | 49.0 |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 21 min | EUR | Low | Car Registration (MoM) (Apr) |  |  | 34.30% |
-| 21 min | EUR | Low | Car Registration (YoY) (Apr) |  |  | 11.70% |
-| 21 min | ZAR | Low | Total Vehicle Sales (Apr) |  |  | 58.06K |
-| 21 min | ZAR | Low | Total Vehicle Sales (YoY) (Apr) |  |  | 17.30% |
-| 51 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 12:30 | EUR | Low | Car Registration (YoY) (Apr) | 8.40% |  | 11.70% |
+| 12:30 | EUR | Low | Car Registration (MoM) (Apr) | -18.00% |  | 34.30% |
+| 13:00 | USD | Low | Total Vehicle Sales (Apr) | 15.90M | 16.00M | 16.30M |
+| 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (Apr) | 13.00% |  | 17.30% |
+| 13:00 | ZAR | Low | Total Vehicle Sales (Apr) | 47.98K |  | 58.06K |
+| 13:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.551% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.192% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.342% |
@@ -46,5 +47,4 @@
 | 17:50 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 18:05 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 19:00 | USD | Low | Loan Officer Survey |  |  |  |
-| 19:00 | USD | Low | Total Vehicle Sales (Apr) |  | 16.00M | 16.30M |
 | 20:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
