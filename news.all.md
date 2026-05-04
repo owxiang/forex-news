@@ -36,13 +36,13 @@
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.219% |  | 2.192% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.476% |  | 2.342% |
 | 14:00 | BRL | Low | S&P Global Manufacturing PMI (Apr) | 52.6 |  | 49.0 |
-| 19 min | USD | Low | Durables Excluding Defense (MoM) (Mar) |  | -0.3% | -0.3% |
-| 19 min | USD | Low | Durables Excluding Transport (MoM) (Mar) |  |  | 0.9% |
-| 19 min | USD | Moderate | Factory Orders (MoM) (Mar) |  | 0.5% | 0.0% |
-| 19 min | USD | Low | Factory orders ex transportation (MoM) (Mar) |  |  | 1.2% |
-| 16:00 | MXN | Low | S&P Global Manufacturing PMI (Apr) |  |  | 48.90 |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.590% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.590% |
+| 15:00 | USD | Low | Durables Excluding Defense (MoM) (Mar) | -0.3% | -0.3% | -0.3% |
+| 15:00 | USD | Low | Durables Excluding Transport (MoM) (Mar) | 0.9% |  | 0.9% |
+| 15:00 | USD | Moderate | Factory Orders (MoM) (Mar) | 1.5% | 0.5% | 0.3% |
+| 15:00 | USD | Low | Factory orders ex transportation (MoM) (Mar) | 1.6% |  | 1.6% |
+| 10 min | MXN | Low | S&P Global Manufacturing PMI (Apr) |  |  | 48.90 |
+| 40 min | USD | Low | 3-Month Bill Auction |  |  | 3.590% |
+| 40 min | USD | Low | 6-Month Bill Auction |  |  | 3.590% |
 | 17:15 | EUR | Low | Italian Car Registration (YoY) (Apr) |  |  | 7.6% |
 | 17:50 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 18:05 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |

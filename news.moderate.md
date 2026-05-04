@@ -11,7 +11,7 @@
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Apr) | 52.2 | 52.2 | 51.6 |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 13:30 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 19 min | USD | Factory Orders (MoM) (Mar) |  | 0.5% | 0.0% |
+| 15:00 | USD | Factory Orders (MoM) (Mar) | 1.5% | 0.5% | 0.3% |
 | 17:50 | USD | FOMC Member Williams Speaks |  |  |  |
 | 18:05 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 20:30 | CAD | BoC Gov Macklem Speaks |  |  |  |
