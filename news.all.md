@@ -49,4 +49,4 @@
 | 17:50 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 18:05 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 19:00 | USD | Low | Loan Officer Survey |  |  |  |
-| 49 min | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
+| 20:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
