@@ -15,8 +15,8 @@
 | 05:00 | IDR | Inflation (MoM) (Apr) | 0.13% |  | 0.41% |
 | 05:00 | IDR | Trade Balance (Mar) | 3.32B |  | 1.28B |
 | 06:00 | INR | HSBC India Manufacturing PMI (Apr) | 54.7 | 55.9 | 53.9 |
-| 09:30 | EUR | Sentix Investor Confidence (May) |  | -20.9 | -19.2 |
-| 10:00 | ZAR | Manufacturing PMI (Apr) |  |  | 49.0 |
+| 09:30 | EUR | Sentix Investor Confidence (May) | -16.4 | -20.9 | -19.2 |
+| 2 min | ZAR | Manufacturing PMI (Apr) |  |  | 49.0 |
 | 12:00 | EUR | Car Registration (MoM) (Apr) |  |  | 34.30% |
 | 12:00 | EUR | Car Registration (YoY) (Apr) |  |  | 11.70% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
