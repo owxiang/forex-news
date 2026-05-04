@@ -25,12 +25,12 @@
 | 09:30 | EUR | Low | Sentix Investor Confidence (May) | -16.4 | -20.9 | -19.2 |
 | 10:00 | ZAR | Low | Manufacturing PMI (Apr) | 52.6 |  | 49.0 |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 12:00 | EUR | Low | Car Registration (MoM) (Apr) |  |  | 34.30% |
-| 12:00 | EUR | Low | Car Registration (YoY) (Apr) |  |  | 11.70% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (Apr) |  |  | 17.30% |
-| 13:00 | ZAR | Low | Total Vehicle Sales (Apr) |  |  | 58.06K |
-| 13:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 21 min | EUR | Low | Car Registration (MoM) (Apr) |  |  | 34.30% |
+| 21 min | EUR | Low | Car Registration (YoY) (Apr) |  |  | 11.70% |
+| 21 min | ZAR | Low | Total Vehicle Sales (Apr) |  |  | 58.06K |
+| 21 min | ZAR | Low | Total Vehicle Sales (YoY) (Apr) |  |  | 17.30% |
+| 51 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.551% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.192% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.342% |

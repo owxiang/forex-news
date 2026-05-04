@@ -17,11 +17,11 @@
 | 06:00 | INR | HSBC India Manufacturing PMI (Apr) | 54.7 | 55.9 | 53.9 |
 | 09:30 | EUR | Sentix Investor Confidence (May) | -16.4 | -20.9 | -19.2 |
 | 10:00 | ZAR | Manufacturing PMI (Apr) | 52.6 |  | 49.0 |
-| 12:00 | EUR | Car Registration (MoM) (Apr) |  |  | 34.30% |
-| 12:00 | EUR | Car Registration (YoY) (Apr) |  |  | 11.70% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | ZAR | Total Vehicle Sales (YoY) (Apr) |  |  | 17.30% |
-| 13:00 | ZAR | Total Vehicle Sales (Apr) |  |  | 58.06K |
+| 21 min | EUR | Car Registration (MoM) (Apr) |  |  | 34.30% |
+| 21 min | EUR | Car Registration (YoY) (Apr) |  |  | 11.70% |
+| 21 min | ZAR | Total Vehicle Sales (Apr) |  |  | 58.06K |
+| 21 min | ZAR | Total Vehicle Sales (YoY) (Apr) |  |  | 17.30% |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.551% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.192% |
 | 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.342% |
