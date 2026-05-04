@@ -1,39 +1,38 @@
-## 04 May 2026 - Low Impact Forex News
+## 05 May 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | KRW | S&P Global South Korea Manufacturing PMI (Apr) | 53.6 |  | 52.6 |
-| 01:30 | IDR | S&P Global Manufacturing PMI (Apr) | 49.1 |  | 50.1 |
-| 02:00 | AUD | MI Inflation Gauge (MoM) (Apr) | 0.6% |  | 1.3% |
-| 02:30 | AUD | ANZ Job Advertisements (MoM) (Apr) | -0.8% |  | -3.2% |
-| 02:30 | AUD | Building Approvals (YoY) (Mar) | 9.00% |  | 16.10% |
-| 02:30 | AUD | Private House Approvals (Mar) | 0.9% |  | 2.0% |
-| 05:00 | IDR | Core Inflation (YoY) (Apr) | 2.44% |  | 2.52% |
-| 05:00 | IDR | Export Growth (YoY) (Mar) | -3.10% |  | 1.01% |
-| 05:00 | IDR | Import Growth (YoY) (Mar) | 1.51% |  | 10.85% |
-| 05:00 | IDR | Inflation (YoY) (Apr) | 2.42% |  | 3.48% |
-| 05:00 | IDR | Inflation (MoM) (Apr) | 0.13% |  | 0.41% |
-| 05:00 | IDR | Trade Balance (Mar) | 3.32B |  | 1.28B |
-| 06:00 | INR | HSBC India Manufacturing PMI (Apr) | 54.7 | 55.9 | 53.9 |
-| 09:30 | EUR | Sentix Investor Confidence (May) | -16.4 | -20.9 | -19.2 |
-| 10:00 | ZAR | Manufacturing PMI (Apr) | 52.6 |  | 49.0 |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:30 | EUR | Car Registration (YoY) (Apr) | 8.40% |  | 11.70% |
-| 13:00 | USD | Total Vehicle Sales (Apr) | 15.90M | 16.00M | 16.30M |
-| 13:00 | EUR | Car Registration (MoM) (Apr) | -18.00% |  | 34.30% |
-| 13:00 | ZAR | Total Vehicle Sales (YoY) (Apr) | 13.00% |  | 17.30% |
-| 13:00 | ZAR | Total Vehicle Sales (Apr) | 47.98K |  | 58.06K |
-| 14:00 | EUR | French 12-Month BTF Auction | 2.670% |  | 2.551% |
-| 14:00 | EUR | French 3-Month BTF Auction | 2.219% |  | 2.192% |
-| 14:00 | EUR | French 6-Month BTF Auction | 2.476% |  | 2.342% |
-| 14:00 | BRL | S&P Global Manufacturing PMI (Apr) | 52.6 |  | 49.0 |
-| 15:00 | USD | All Car Sales (Apr) | 2.60M |  | 2.64M |
-| 15:00 | USD | All Truck Sales (Apr) | 13.32M |  | 13.53M |
-| 15:00 | USD | Durables Excluding Defense (MoM) (Mar) | -0.3% | -0.3% | -0.3% |
-| 15:00 | USD | Durables Excluding Transport (MoM) (Mar) | 0.9% |  | 0.9% |
-| 15:00 | USD | Factory orders ex transportation (MoM) (Mar) | 1.6% |  | 1.6% |
-| 16:00 | MXN | S&P Global Manufacturing PMI (Apr) | 47.70 |  | 48.90 |
-| 16:30 | USD | 3-Month Bill Auction | 3.610% |  | 3.590% |
-| 16:30 | USD | 6-Month Bill Auction | 3.610% |  | 3.590% |
-| 17:30 | EUR | Italian Car Registration (YoY) (Apr) | 11.6% |  | 7.6% |
-| 19:00 | USD | Loan Officer Survey |  |  |  |
+| 00:00 | AUD | S&P Global Manufacturing & Services PMI (Apr) | 50.40 | 50.10 | 46.60 |
+| 00:00 | AUD | S&P Global Services PMI (Apr) | 50.7 | 50.3 | 46.3 |
+| 02:00 | NZD | ANZ Commodity Price Index (MoM) |  |  | 4.1% |
+| 05:00 | IDR | GDP (YoY) (Q1) |  | 5.30% | 5.39% |
+| 05:00 | IDR | GDP (QoQ) (Q1) |  | -0.97% | 0.86% |
+| 06:00 | SGD | Retail Sales (YoY) (Mar) |  |  | 8.3% |
+| 06:00 | SGD | Retail Sales (MoM) (Mar) |  |  | -4.1% |
+| 07:30 | CHF | CPI (YoY) (Apr) |  |  | 0.3% |
+| 07:45 | EUR | French Government Budget Balance (Mar) |  |  | -32.1B |
+| 09:00 | GBP | Car Registration (YoY) (Apr) |  |  | 6.6% |
+| 09:00 | GBP | United Kingdom New Passenger Cars Registration (Apr) |  |  | 380,627.0 |
+| 09:30 | HKD | GDP (QoQ) (Q1) |  |  | 1.0% |
+| 09:30 | HKD | GDP (YoY) (Q1) |  | 3.5% | 3.8% |
+| 09:50 | EUR | Spanish 12-Month Letras Auction |  |  | 2.611% |
+| 09:50 | EUR | Spanish 6-Month Letras Auction |  |  | 2.362% |
+| 11:00 | EUR | ECOFIN Meetings |  |  |  |
+| 12:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
+| 13:00 | USD | Building Permits (MoM) |  |  | -10.8% |
+| 13:00 | NZD | GlobalDairyTrade Price Index |  |  | -2.7% |
+| 13:00 | USD | Milk Auctions |  |  | 4,143.0 |
+| 13:15 | CAD | Reserve Assets Total (Apr) |  |  | 126.8B |
+| 13:30 | CAD | Exports (Mar) |  |  | 66.31B |
+| 13:30 | CAD | Imports (Mar) |  |  | 72.05B |
+| 13:55 | USD | Redbook (YoY) |  |  | 7.7% |
+| 14:30 | CAD | S&P Global Services PMI (Apr) |  |  | 47.20 |
+| 15:00 | USD | ISM Non-Manufacturing Business Activity (Apr) |  |  | 53.9 |
+| 15:00 | USD | ISM Non-Manufacturing New Orders (Apr) |  |  | 60.6 |
+| 15:10 | USD | IBD/TIPP Economic Optimism (May) |  | 42.0 | 42.8 |
+| 17:00 | EUR | French Car Registration (YoY) (Apr) |  |  | 12.9% |
+| 23:45 | NZD | Employment Change (QoQ) (Q1) |  | 0.3% | 0.5% |
+| 23:45 | NZD | Labor Cost Index (QoQ) (Q1) |  | 0.4% | 0.4% |
+| 23:45 | NZD | Labor Cost Index (YoY) (Q1) |  | 2.0% | 2.0% |
+| 23:45 | NZD | Participation Rate (Q1) |  | 70.50% | 70.50% |
+| 23:45 | NZD | Unemployment Rate (Q1) |  | 5.4% | 5.4% |

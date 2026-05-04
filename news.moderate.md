@@ -1,17 +1,26 @@
-## 04 May 2026 - Moderate Impact Forex News
+## 05 May 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Building Approvals (MoM) (Mar) | -10.5% | -10.2% | 31.0% |
-| 08:15 | EUR | HCOB Spain Manufacturing PMI (Apr) | 51.7 | 49.5 | 48.7 |
-| 08:30 | CHF | procure.ch Manufacturing PMI (Apr) | 54.5 | 52.0 | 53.3 |
-| 08:45 | EUR | HCOB Italy Manufacturing PMI (Apr) | 52.1 | 51.6 | 51.3 |
-| 08:50 | EUR | HCOB France Manufacturing PMI (Apr) | 52.8 | 52.8 | 50.0 |
-| 08:55 | EUR | HCOB Germany Manufacturing PMI (Apr) | 51.4 | 51.2 | 52.2 |
-| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Apr) | 52.2 | 52.2 | 51.6 |
-| 11:00 | EUR | Eurogroup Meetings |  |  |  |
+| 05:30 | AUD | RBA Monetary Policy Statement |  |  |  |
+| 05:30 | AUD | RBA Rate Statement |  |  |  |
+| 07:30 | CHF | CPI (MoM) (Apr) |  | 0.3% | 0.2% |
+| 08:00 | EUR | Spanish Unemployment Change (Apr) |  | -18.6K | -22.9K |
+| 10:00 | BRL | IPC-Fipe Inflation Index (MoM) (Apr) |  |  | 0.59% |
+| 13:00 | USD | Building Permits |  |  | 1.372M |
+| 13:30 | USD | Exports (Mar) |  |  | 314.80B |
+| 13:30 | USD | Imports (Mar) |  |  | 372.10B |
+| 13:30 | USD | Trade Balance (Mar) |  | -59.00B | -57.30B |
+| 13:30 | CAD | Trade Balance (Mar) |  | -2.10B | -5.74B |
+| 13:30 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 13:30 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 15:00 | USD | Factory Orders (MoM) (Mar) | 1.5% | 0.5% | 0.3% |
-| 17:50 | USD | FOMC Member Williams Speaks |  |  |  |
-| 18:05 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 20:30 | CAD | BoC Gov Macklem Speaks |  |  |  |
+| 14:45 | USD | S&P Global Composite PMI (Apr) |  | 52.0 | 52.0 |
+| 15:00 | USD | ISM Non-Manufacturing Employment (Apr) |  |  | 45.2 |
+| 15:00 | USD | New Home Sales (MoM) (Mar) |  |  | -17.6% |
+| 16:30 | USD | Atlanta Fed GDPNow (Q2) |  | 3.5% | 3.5% |
+| 16:40 | EUR | ECB's Lane Speaks |  |  |  |
+| 17:30 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
+| 17:30 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 17:30 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 21:30 | USD | API Weekly Crude Oil Stock |  |  | -1.790M |
+| 22:00 | NZD | RBNZ Financial Stability Report |  |  |  |
