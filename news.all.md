@@ -4,11 +4,11 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Apr) | 53.6 |  | 52.6 |
 | 01:30 | IDR | Low | S&P Global Manufacturing PMI (Apr) | 49.1 |  | 50.1 |
-| 3 min | AUD | Low | MI Inflation Gauge (MoM) (Apr) |  |  | 1.3% |
-| 33 min | AUD | Low | ANZ Job Advertisements (MoM) (Apr) |  |  | -3.1% |
-| 33 min | AUD | Low | Building Approvals (YoY) (Mar) |  |  | 10.80% |
-| 33 min | AUD | Moderate | Building Approvals (MoM) (Mar) |  | -10.2% | 29.7% |
-| 33 min | AUD | Low | Private House Approvals (Mar) |  |  | 0.2% |
+| 02:00 | AUD | Low | MI Inflation Gauge (MoM) (Apr) | 0.6% |  | 1.3% |
+| 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (Apr) | -0.8% |  | -3.2% |
+| 02:30 | AUD | Low | Building Approvals (YoY) (Mar) | 19.70% |  | 13.80% |
+| 02:30 | AUD | Moderate | Building Approvals (MoM) (Mar) | -10.5% | -10.2% | 31.0% |
+| 02:30 | AUD | Low | Private House Approvals (Mar) | 0.9% |  | 0.2% |
 | 05:00 | IDR | Low | Core Inflation (YoY) (Apr) |  |  | 2.52% |
 | 05:00 | IDR | Low | Export Growth (YoY) (Mar) |  |  | 1.01% |
 | 05:00 | IDR | Low | Import Growth (YoY) (Mar) |  |  | 10.85% |
