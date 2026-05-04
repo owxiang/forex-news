@@ -24,7 +24,7 @@
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Apr) | 52.2 | 52.2 | 51.6 |
 | 09:30 | EUR | Low | Sentix Investor Confidence (May) | -16.4 | -20.9 | -19.2 |
 | 10:00 | ZAR | Low | Manufacturing PMI (Apr) | 52.6 |  | 49.0 |
-| 4 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:00 | EUR | Low | Car Registration (MoM) (Apr) |  |  | 34.30% |
 | 12:00 | EUR | Low | Car Registration (YoY) (Apr) |  |  | 11.70% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
