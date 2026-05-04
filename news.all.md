@@ -16,12 +16,12 @@
 | 05:00 | IDR | Low | Inflation (MoM) (Apr) | 0.13% |  | 0.41% |
 | 05:00 | IDR | Low | Trade Balance (Mar) | 3.32B |  | 1.28B |
 | 06:00 | INR | Low | HSBC India Manufacturing PMI (Apr) | 54.7 | 55.9 | 53.9 |
-| 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Apr) |  | 49.5 | 48.7 |
-| 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (Apr) |  | 52.0 | 53.3 |
-| 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Apr) |  | 51.6 | 51.3 |
-| 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (Apr) |  | 52.8 | 50.0 |
-| 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Apr) |  | 51.2 | 52.2 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Apr) |  | 52.2 | 51.6 |
+| 2 min | EUR | Moderate | HCOB Spain Manufacturing PMI (Apr) |  | 49.5 | 48.7 |
+| 17 min | CHF | Moderate | procure.ch Manufacturing PMI (Apr) |  | 52.0 | 53.3 |
+| 32 min | EUR | Moderate | HCOB Italy Manufacturing PMI (Apr) |  | 51.6 | 51.3 |
+| 37 min | EUR | Moderate | HCOB France Manufacturing PMI (Apr) |  | 52.8 | 50.0 |
+| 42 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Apr) |  | 51.2 | 52.2 |
+| 47 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Apr) |  | 52.2 | 51.6 |
 | 09:30 | EUR | Low | Sentix Investor Confidence (May) |  | -20.9 | -19.2 |
 | 10:00 | ZAR | Low | Manufacturing PMI (Apr) |  |  | 49.0 |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
