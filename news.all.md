@@ -27,19 +27,19 @@
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:30 | EUR | Low | Car Registration (YoY) (Apr) | 8.40% |  | 11.70% |
-| 12:30 | EUR | Low | Car Registration (MoM) (Apr) | -18.00% |  | 34.30% |
 | 13:00 | USD | Low | Total Vehicle Sales (Apr) | 15.90M | 16.00M | 16.30M |
+| 13:00 | EUR | Low | Car Registration (MoM) (Apr) | -18.00% |  | 34.30% |
 | 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (Apr) | 13.00% |  | 17.30% |
 | 13:00 | ZAR | Low | Total Vehicle Sales (Apr) | 47.98K |  | 58.06K |
 | 13:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.551% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.192% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.342% |
-| 14:00 | BRL | Low | S&P Global Manufacturing PMI (Apr) |  |  | 49.0 |
-| 15:00 | USD | Low | Durables Excluding Defense (MoM) (Mar) |  | -0.3% | -0.3% |
-| 15:00 | USD | Low | Durables Excluding Transport (MoM) (Mar) |  |  | 0.9% |
-| 15:00 | USD | Moderate | Factory Orders (MoM) (Mar) |  | 0.5% | 0.0% |
-| 15:00 | USD | Low | Factory orders ex transportation (MoM) (Mar) |  |  | 1.2% |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.670% |  | 2.551% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.219% |  | 2.192% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.476% |  | 2.342% |
+| 14:00 | BRL | Low | S&P Global Manufacturing PMI (Apr) | 52.6 |  | 49.0 |
+| 19 min | USD | Low | Durables Excluding Defense (MoM) (Mar) |  | -0.3% | -0.3% |
+| 19 min | USD | Low | Durables Excluding Transport (MoM) (Mar) |  |  | 0.9% |
+| 19 min | USD | Moderate | Factory Orders (MoM) (Mar) |  | 0.5% | 0.0% |
+| 19 min | USD | Low | Factory orders ex transportation (MoM) (Mar) |  |  | 1.2% |
 | 16:00 | MXN | Low | S&P Global Manufacturing PMI (Apr) |  |  | 48.90 |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.590% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.590% |
