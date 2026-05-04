@@ -6,7 +6,7 @@
 | 01:30 | IDR | Low | S&P Global Manufacturing PMI (Apr) | 49.1 |  | 50.1 |
 | 02:00 | AUD | Low | MI Inflation Gauge (MoM) (Apr) | 0.6% |  | 1.3% |
 | 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (Apr) | -0.8% |  | -3.2% |
-| 02:30 | AUD | Low | Building Approvals (YoY) (Mar) | 19.70% |  | 13.80% |
+| 02:30 | AUD | Low | Building Approvals (YoY) (Mar) | 9.00% |  | 14.00% |
 | 02:30 | AUD | Moderate | Building Approvals (MoM) (Mar) | -10.5% | -10.2% | 31.0% |
 | 02:30 | AUD | Low | Private House Approvals (Mar) | 0.9% |  | 0.2% |
 | 05:00 | IDR | Low | Core Inflation (YoY) (Apr) |  |  | 2.52% |
