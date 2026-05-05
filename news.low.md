@@ -28,8 +28,8 @@
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Apr) | 55.9 |  | 53.9 |
 | 15:00 | USD | ISM Non-Manufacturing New Orders (Apr) | 53.5 | 57.3 | 60.6 |
 | 15:10 | USD | IBD/TIPP Economic Optimism (May) | 42.6 | 42.0 | 42.8 |
-| 18 min | NZD | GlobalDairyTrade Price Index |  |  | -2.7% |
-| 18 min | USD | Milk Auctions |  |  | 4,143.0 |
+| 17:00 | NZD | GlobalDairyTrade Price Index | 1.5% |  | -2.7% |
+| 17:00 | USD | Milk Auctions | 4,127.0 |  | 4,143.0 |
 | 23:45 | NZD | Employment Change (QoQ) (Q1) |  | 0.3% | 0.5% |
 | 23:45 | NZD | Labor Cost Index (QoQ) (Q1) |  | 0.4% | 0.4% |
 | 23:45 | NZD | Labor Cost Index (YoY) (Q1) |  | 2.0% | 2.0% |

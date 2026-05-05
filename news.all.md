@@ -54,11 +54,11 @@
 | 15:00 | USD | Moderate | New Home Sales (MoM) (Mar) | 7.4% |  | -19.9% |
 | 15:10 | USD | Low | IBD/TIPP Economic Optimism (May) | 42.6 | 42.0 | 42.8 |
 | 16:40 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 18 min | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 3.5% | 3.5% |
-| 18 min | NZD | Low | GlobalDairyTrade Price Index |  |  | -2.7% |
-| 18 min | USD | Low | Milk Auctions |  |  | 4,143.0 |
-| 48 min | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
-| 48 min | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 3.7% | 3.5% | 3.5% |
+| 17:00 | NZD | Low | GlobalDairyTrade Price Index | 1.5% |  | -2.7% |
+| 17:00 | USD | Low | Milk Auctions | 4,127.0 |  | 4,143.0 |
+| 17:30 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
+| 17:30 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.800M | -1.790M |
 | 22:00 | NZD | Moderate | RBNZ Financial Stability Report |  |  |  |
 | 23:45 | NZD | Low | Employment Change (QoQ) (Q1) |  | 0.3% | 0.5% |
