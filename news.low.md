@@ -12,18 +12,19 @@
 | 07:30 | CHF | CPI (YoY) (Apr) | 0.6% |  | 0.3% |
 | 09:00 | GBP | Car Registration (YoY) (Apr) | 24.0% |  | 6.6% |
 | 09:00 | GBP | United Kingdom New Passenger Cars Registration (Apr) | 149,247.0 |  | 380,627.0 |
-| 09:30 | HKD | GDP (QoQ) (Q1) | 2.9% |  | 1.0% |
 | 09:30 | HKD | GDP (YoY) (Q1) | 5.9% | 3.5% | 3.8% |
+| 09:30 | HKD | GDP (QoQ) (Q1) | 2.9% |  | 1.0% |
 | 09:50 | EUR | Spanish 12-Month Letras Auction | 2.635% |  | 2.611% |
 | 09:50 | EUR | Spanish 6-Month Letras Auction | 2.357% |  | 2.362% |
 | 11:00 | EUR | ECOFIN Meetings |  |  |  |
 | 12:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
-| 13:00 | USD | Building Permits (MoM) (Feb) |  | 10.9% | -4.7% |
-| 13:15 | CAD | Reserve Assets Total (Apr) |  |  | 126.8B |
-| 13:30 | CAD | Exports (Mar) |  |  | 66.31B |
-| 13:30 | CAD | Imports (Mar) |  |  | 72.05B |
-| 13:55 | USD | Redbook (YoY) |  |  | 7.7% |
-| 14:30 | CAD | S&P Global Services PMI (Apr) |  |  | 47.20 |
+| 13:30 | USD | Building Permits (MoM) (Feb) | 11.0% | 10.9% | -4.7% |
+| 13:30 | CAD | Exports (Mar) | 72.77B |  | 67.06B |
+| 13:30 | CAD | Imports (Mar) | 70.99B |  | 72.17B |
+| 13:31 | USD | Building Permits (MoM) (Mar) | -11.4% |  | 11.0% |
+| 20 min | USD | Redbook (YoY) |  |  | 7.7% |
+| 40 min | CAD | Reserve Assets Total (Apr) |  |  | 126.8B |
+| 55 min | CAD | S&P Global Services PMI (Apr) |  |  | 47.20 |
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Apr) |  |  | 53.9 |
 | 15:00 | USD | ISM Non-Manufacturing New Orders (Apr) |  |  | 60.6 |
 | 15:00 | NZD | GlobalDairyTrade Price Index |  |  | -2.7% |

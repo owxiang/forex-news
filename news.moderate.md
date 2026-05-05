@@ -7,13 +7,14 @@
 | 07:30 | CHF | CPI (MoM) (Apr) | 0.3% | 0.3% | 0.2% |
 | 08:00 | EUR | Spanish Unemployment Change (Apr) | -62.7K | -18.6K | -22.9K |
 | 10:00 | BRL | IPC-Fipe Inflation Index (MoM) (Apr) | 0.40% |  | 0.59% |
-| 13:00 | USD | Building Permits (Feb) |  | 1.538M | 1.386M |
-| 13:30 | USD | Exports (Mar) |  |  | 314.80B |
-| 13:30 | USD | Imports (Mar) |  |  | 372.10B |
-| 13:30 | USD | Trade Balance (Mar) |  | -61.00B | -57.30B |
-| 13:30 | CAD | Trade Balance (Mar) |  | -2.40B | -5.74B |
+| 13:30 | USD | Building Permits (Feb) | 1.538M | 1.538M | 1.386M |
+| 13:30 | USD | Exports (Mar) | 320.90B |  | 314.80B |
+| 13:30 | USD | Imports (Mar) | 381.20B |  | 372.10B |
+| 13:30 | USD | Trade Balance (Mar) | -60.30B | -61.00B | -57.80B |
+| 13:30 | CAD | Trade Balance (Mar) | 1.78B | -2.40B | -5.11B |
 | 13:30 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 13:30 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 13:31 | USD | Building Permits (Mar) | 1.363M | 1.372M | 1.538M |
 | 14:45 | USD | S&P Global Composite PMI (Apr) |  | 52.0 | 50.3 |
 | 15:00 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 15:00 | USD | ISM Non-Manufacturing Employment (Apr) |  |  | 45.2 |
