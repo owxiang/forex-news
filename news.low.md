@@ -14,12 +14,12 @@
 | 09:00 | GBP | United Kingdom New Passenger Cars Registration (Apr) | 149,247.0 |  | 380,627.0 |
 | 09:30 | HKD | GDP (QoQ) (Q1) | 2.9% |  | 1.0% |
 | 09:30 | HKD | GDP (YoY) (Q1) | 5.9% | 3.5% | 3.8% |
-| 09:50 | EUR | Spanish 12-Month Letras Auction |  |  | 2.611% |
-| 09:50 | EUR | Spanish 6-Month Letras Auction |  |  | 2.362% |
-| 10:00 | EUR | French Government Budget Balance (Mar) |  |  | -32.1B |
-| 11:00 | EUR | ECOFIN Meetings |  |  |  |
+| 09:50 | EUR | Spanish 12-Month Letras Auction | 2.635% |  | 2.611% |
+| 09:50 | EUR | Spanish 6-Month Letras Auction | 2.357% |  | 2.362% |
+| 17 min | EUR | ECOFIN Meetings |  |  |  |
 | 12:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
 | 13:00 | USD | Building Permits (MoM) (Feb) |  | 10.9% | -4.7% |
+| 13:00 | EUR | French Government Budget Balance (Mar) |  |  | -32.1B |
 | 13:15 | CAD | Reserve Assets Total (Apr) |  |  | 126.8B |
 | 13:30 | CAD | Exports (Mar) |  |  | 66.31B |
 | 13:30 | CAD | Imports (Mar) |  |  | 72.05B |
