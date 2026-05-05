@@ -22,11 +22,10 @@
 | 09:50 | EUR | Low | Spanish 12-Month Letras Auction | 2.635% |  | 2.611% |
 | 09:50 | EUR | Low | Spanish 6-Month Letras Auction | 2.357% |  | 2.362% |
 | 10:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Apr) | 0.40% |  | 0.59% |
-| 17 min | EUR | Low | ECOFIN Meetings |  |  |  |
-| 12:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
+| 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
+| 22 min | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
 | 13:00 | USD | Moderate | Building Permits (Feb) |  | 1.538M | 1.386M |
 | 13:00 | USD | Low | Building Permits (MoM) (Feb) |  | 10.9% | -4.7% |
-| 13:00 | EUR | Low | French Government Budget Balance (Mar) |  |  | -32.1B |
 | 13:15 | CAD | Low | Reserve Assets Total (Apr) |  |  | 126.8B |
 | 13:30 | USD | Moderate | Exports (Mar) |  |  | 314.80B |
 | 13:30 | USD | Moderate | Imports (Mar) |  |  | 372.10B |
@@ -48,7 +47,7 @@
 | 15:00 | USD | High | ISM Non-Manufacturing Prices (Apr) |  |  | 70.7 |
 | 15:00 | USD | High | JOLTS Job Openings (Mar) |  | 6.860M | 6.882M |
 | 15:00 | USD | Moderate | New Home Sales (MoM) (Mar) |  |  | -17.6% |
-| 15:00 | USD | High | New Home Sales (Mar) |  | 1K | 587K |
+| 15:00 | USD | High | New Home Sales (Mar) |  | 652K | 587K |
 | 15:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -2.7% |
 | 15:00 | USD | Low | Milk Auctions |  |  | 4,143.0 |
 | 15:10 | USD | Low | IBD/TIPP Economic Optimism (May) |  | 42.0 | 42.8 |

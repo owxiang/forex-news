@@ -7,4 +7,4 @@
 | 15:00 | USD | ISM Non-Manufacturing PMI (Apr) |  | 53.7 | 54.0 |
 | 15:00 | USD | ISM Non-Manufacturing Prices (Apr) |  |  | 70.7 |
 | 15:00 | USD | JOLTS Job Openings (Mar) |  | 6.860M | 6.882M |
-| 15:00 | USD | New Home Sales (Mar) |  | 1K | 587K |
+| 15:00 | USD | New Home Sales (Mar) |  | 652K | 587K |
