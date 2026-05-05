@@ -59,8 +59,8 @@
 | 17:00 | USD | Low | Milk Auctions | 4,127.0 |  | 4,143.0 |
 | 17:30 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
 | 17:30 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 52 min | USD | Moderate | API Weekly Crude Oil Stock |  | -2.800M | -1.790M |
-| 22:00 | NZD | Moderate | RBNZ Financial Stability Report |  |  |  |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.800M | -1.790M |
+| 29 min | NZD | Moderate | RBNZ Financial Stability Report |  |  |  |
 | 23:45 | NZD | Low | Employment Change (QoQ) (Q1) |  | 0.3% | 0.5% |
 | 23:45 | NZD | Low | Labor Cost Index (QoQ) (Q1) |  | 0.4% | 0.4% |
 | 23:45 | NZD | Low | Labor Cost Index (YoY) (Q1) |  | 2.0% | 2.0% |
