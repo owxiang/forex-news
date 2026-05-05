@@ -41,8 +41,8 @@
 | 14:30 | CAD | Low | S&P Global Services PMI (Apr) | 49.20 |  | 47.20 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Apr) | 51.7 | 52.0 | 50.3 |
 | 14:45 | USD | High | S&P Global Services PMI (Apr) | 51.0 | 51.3 | 49.8 |
-| 14:59 | USD | High | New Home Sales (Feb) | 635K |  | 587K |
-| 14:59 | USD | Moderate | New Home Sales (MoM) (Feb) | 8.9% |  | -17.6% |
+| 14:59 | USD | High | New Home Sales (Feb) | 635K |  | 583K |
+| 14:59 | USD | Moderate | New Home Sales (MoM) (Feb) | 8.9% |  | -19.9% |
 | 15:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Apr) | 55.9 |  | 53.9 |
 | 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Apr) | 48.0 | 48.3 | 45.2 |
@@ -50,8 +50,8 @@
 | 15:00 | USD | High | ISM Non-Manufacturing PMI (Apr) | 53.6 | 53.7 | 54.0 |
 | 15:00 | USD | High | ISM Non-Manufacturing Prices (Apr) | 70.7 | 73.7 | 70.7 |
 | 15:00 | USD | High | JOLTS Job Openings (Mar) | 6.866M | 6.860M | 6.922M |
-| 15:00 | USD | High | New Home Sales (Mar) | 682K | 652K | 583K |
-| 15:00 | USD | Moderate | New Home Sales (MoM) (Mar) | 7.4% |  | -19.9% |
+| 15:00 | USD | High | New Home Sales (Mar) | 682K | 652K | 635K |
+| 15:00 | USD | Moderate | New Home Sales (MoM) (Mar) | 7.4% |  | 8.9% |
 | 15:10 | USD | Low | IBD/TIPP Economic Optimism (May) | 42.6 | 42.0 | 42.8 |
 | 16:40 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 3.7% | 3.5% | 3.5% |
@@ -59,8 +59,8 @@
 | 17:00 | USD | Low | Milk Auctions | 4,127.0 |  | 4,143.0 |
 | 17:30 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
 | 17:30 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.800M | -1.790M |
-| 29 min | NZD | Moderate | RBNZ Financial Stability Report |  |  |  |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | -8.100M | -2.800M | -1.790M |
+| 22:00 | NZD | Moderate | RBNZ Financial Stability Report |  |  |  |
 | 23:45 | NZD | Low | Employment Change (QoQ) (Q1) |  | 0.3% | 0.5% |
 | 23:45 | NZD | Low | Labor Cost Index (QoQ) (Q1) |  | 0.4% | 0.4% |
 | 23:45 | NZD | Low | Labor Cost Index (YoY) (Q1) |  | 2.0% | 2.0% |
