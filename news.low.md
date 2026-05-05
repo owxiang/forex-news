@@ -30,8 +30,8 @@
 | 15:10 | USD | IBD/TIPP Economic Optimism (May) | 42.6 | 42.0 | 42.8 |
 | 17:00 | NZD | GlobalDairyTrade Price Index | 1.5% |  | -2.7% |
 | 17:00 | USD | Milk Auctions | 4,127.0 |  | 4,143.0 |
-| 23:45 | NZD | Employment Change (QoQ) (Q1) |  | 0.3% | 0.5% |
-| 23:45 | NZD | Labor Cost Index (QoQ) (Q1) |  | 0.4% | 0.4% |
-| 23:45 | NZD | Labor Cost Index (YoY) (Q1) |  | 2.0% | 2.0% |
-| 23:45 | NZD | Participation Rate (Q1) |  | 70.50% | 70.50% |
-| 23:45 | NZD | Unemployment Rate (Q1) |  | 5.4% | 5.4% |
+| 20 min | NZD | Employment Change (QoQ) (Q1) |  | 0.3% | 0.5% |
+| 20 min | NZD | Labor Cost Index (QoQ) (Q1) |  | 0.4% | 0.4% |
+| 20 min | NZD | Labor Cost Index (YoY) (Q1) |  | 2.0% | 2.0% |
+| 20 min | NZD | Participation Rate (Q1) |  | 70.50% | 70.50% |
+| 20 min | NZD | Unemployment Rate (Q1) |  | 5.4% | 5.4% |
