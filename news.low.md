@@ -9,7 +9,7 @@
 | 05:00 | IDR | GDP (QoQ) (Q1) | -0.77% | -0.97% | 0.86% |
 | 06:00 | SGD | Retail Sales (YoY) (Mar) | 4.8% |  | 8.3% |
 | 06:00 | SGD | Retail Sales (MoM) (Mar) | 3.7% |  | -4.3% |
-| 07:30 | CHF | CPI (YoY) (Apr) |  |  | 0.3% |
+| 07:30 | CHF | CPI (YoY) (Apr) | 0.6% |  | 0.3% |
 | 07:45 | EUR | French Government Budget Balance (Mar) |  |  | -32.1B |
 | 09:00 | GBP | Car Registration (YoY) (Apr) |  |  | 6.6% |
 | 09:00 | GBP | United Kingdom New Passenger Cars Registration (Apr) |  |  | 380,627.0 |
@@ -19,9 +19,7 @@
 | 09:50 | EUR | Spanish 6-Month Letras Auction |  |  | 2.362% |
 | 11:00 | EUR | ECOFIN Meetings |  |  |  |
 | 12:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
-| 13:00 | USD | Building Permits (MoM) |  |  | -10.8% |
-| 13:00 | NZD | GlobalDairyTrade Price Index |  |  | -2.7% |
-| 13:00 | USD | Milk Auctions |  |  | 4,143.0 |
+| 13:00 | USD | Building Permits (MoM) (Feb) |  |  | -4.7% |
 | 13:15 | CAD | Reserve Assets Total (Apr) |  |  | 126.8B |
 | 13:30 | CAD | Exports (Mar) |  |  | 66.31B |
 | 13:30 | CAD | Imports (Mar) |  |  | 72.05B |
@@ -29,6 +27,8 @@
 | 14:30 | CAD | S&P Global Services PMI (Apr) |  |  | 47.20 |
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Apr) |  |  | 53.9 |
 | 15:00 | USD | ISM Non-Manufacturing New Orders (Apr) |  |  | 60.6 |
+| 15:00 | NZD | GlobalDairyTrade Price Index |  |  | -2.7% |
+| 15:00 | USD | Milk Auctions |  |  | 4,143.0 |
 | 15:10 | USD | IBD/TIPP Economic Optimism (May) |  | 42.0 | 42.8 |
 | 17:00 | EUR | French Car Registration (YoY) (Apr) |  |  | 12.9% |
 | 23:45 | NZD | Employment Change (QoQ) (Q1) |  | 0.3% | 0.5% |

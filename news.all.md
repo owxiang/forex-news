@@ -12,8 +12,8 @@
 | 05:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
 | 06:00 | SGD | Low | Retail Sales (YoY) (Mar) | 4.8% |  | 8.3% |
 | 06:00 | SGD | Low | Retail Sales (MoM) (Mar) | 3.7% |  | -4.3% |
-| 07:30 | CHF | Moderate | CPI (MoM) (Apr) |  | 0.3% | 0.2% |
-| 07:30 | CHF | Low | CPI (YoY) (Apr) |  |  | 0.3% |
+| 07:30 | CHF | Moderate | CPI (MoM) (Apr) | 0.3% | 0.3% | 0.2% |
+| 07:30 | CHF | Low | CPI (YoY) (Apr) | 0.6% |  | 0.3% |
 | 07:45 | EUR | Low | French Government Budget Balance (Mar) |  |  | -32.1B |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change (Apr) |  | -18.6K | -22.9K |
 | 09:00 | GBP | Low | Car Registration (YoY) (Apr) |  |  | 6.6% |
@@ -25,10 +25,8 @@
 | 10:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Apr) |  |  | 0.59% |
 | 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 12:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
-| 13:00 | USD | Moderate | Building Permits |  |  | 1.372M |
-| 13:00 | USD | Low | Building Permits (MoM) |  |  | -10.8% |
-| 13:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -2.7% |
-| 13:00 | USD | Low | Milk Auctions |  |  | 4,143.0 |
+| 13:00 | USD | Moderate | Building Permits (Feb) |  |  | 1.386M |
+| 13:00 | USD | Low | Building Permits (MoM) (Feb) |  |  | -4.7% |
 | 13:15 | CAD | Low | Reserve Assets Total (Apr) |  |  | 126.8B |
 | 13:30 | USD | Moderate | Exports (Mar) |  |  | 314.80B |
 | 13:30 | USD | Moderate | Imports (Mar) |  |  | 372.10B |
@@ -51,6 +49,8 @@
 | 15:00 | USD | High | JOLTS Job Openings (Mar) |  | 6.860M | 6.882M |
 | 15:00 | USD | High | New Home Sales (Mar) |  | 1K | 587K |
 | 15:00 | USD | Moderate | New Home Sales (MoM) (Mar) |  |  | -17.6% |
+| 15:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -2.7% |
+| 15:00 | USD | Low | Milk Auctions |  |  | 4,143.0 |
 | 15:10 | USD | Low | IBD/TIPP Economic Optimism (May) |  | 42.0 | 42.8 |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 3.5% | 3.5% |
 | 16:40 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
