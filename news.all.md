@@ -23,7 +23,7 @@
 | 09:50 | EUR | Low | Spanish 6-Month Letras Auction | 2.357% |  | 2.362% |
 | 10:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Apr) | 0.40% |  | 0.59% |
 | 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
-| 22 min | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
+| 12:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
 | 13:00 | USD | Moderate | Building Permits (Feb) |  | 1.538M | 1.386M |
 | 13:00 | USD | Low | Building Permits (MoM) (Feb) |  | 10.9% | -4.7% |
 | 13:15 | CAD | Low | Reserve Assets Total (Apr) |  |  | 126.8B |

@@ -17,7 +17,7 @@
 | 09:50 | EUR | Spanish 12-Month Letras Auction | 2.635% |  | 2.611% |
 | 09:50 | EUR | Spanish 6-Month Letras Auction | 2.357% |  | 2.362% |
 | 11:00 | EUR | ECOFIN Meetings |  |  |  |
-| 22 min | BRL | BCB Copom Meeting Minutes |  |  |  |
+| 12:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
 | 13:00 | USD | Building Permits (MoM) (Feb) |  | 10.9% | -4.7% |
 | 13:15 | CAD | Reserve Assets Total (Apr) |  |  | 126.8B |
 | 13:30 | CAD | Exports (Mar) |  |  | 66.31B |
