@@ -7,7 +7,7 @@
 | 07:30 | CHF | CPI (MoM) (Apr) | 0.3% | 0.3% | 0.2% |
 | 08:00 | EUR | Spanish Unemployment Change (Apr) | -62.7K | -18.6K | -22.9K |
 | 10:00 | BRL | IPC-Fipe Inflation Index (MoM) (Apr) |  |  | 0.59% |
-| 13:00 | USD | Building Permits (Feb) |  |  | 1.386M |
+| 13:00 | USD | Building Permits (Feb) |  | 1.538M | 1.386M |
 | 13:30 | USD | Exports (Mar) |  |  | 314.80B |
 | 13:30 | USD | Imports (Mar) |  |  | 372.10B |
 | 13:30 | USD | Trade Balance (Mar) |  | -61.00B | -57.30B |
@@ -22,5 +22,5 @@
 | 16:40 | EUR | ECB's Lane Speaks |  |  |  |
 | 17:30 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
 | 17:30 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock |  |  | -1.790M |
+| 21:30 | USD | API Weekly Crude Oil Stock |  | -2.800M | -1.790M |
 | 22:00 | NZD | RBNZ Financial Stability Report |  |  |  |
