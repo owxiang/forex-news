@@ -8,20 +8,21 @@
 | 08:00 | EUR | Spanish Unemployment Change (Apr) | -62.7K | -18.6K | -22.9K |
 | 10:00 | BRL | IPC-Fipe Inflation Index (MoM) (Apr) | 0.40% |  | 0.59% |
 | 13:30 | USD | Building Permits (Feb) | 1.538M | 1.538M | 1.386M |
-| 13:30 | USD | Exports (Mar) | 320.90B |  | 314.80B |
-| 13:30 | USD | Imports (Mar) | 381.20B |  | 372.10B |
+| 13:30 | USD | Exports (Mar) | 320.90B |  | 314.70B |
+| 13:30 | USD | Imports (Mar) | 381.20B |  | 372.40B |
 | 13:30 | USD | Trade Balance (Mar) | -60.30B | -61.00B | -57.80B |
 | 13:30 | CAD | Trade Balance (Mar) | 1.78B | -2.40B | -5.11B |
 | 13:30 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 13:30 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 13:31 | USD | Building Permits (Mar) | 1.363M | 1.372M | 1.538M |
-| 14:45 | USD | S&P Global Composite PMI (Apr) |  | 52.0 | 50.3 |
+| 14:45 | USD | S&P Global Composite PMI (Apr) | 51.7 | 52.0 | 50.3 |
+| 14:59 | USD | New Home Sales (MoM) (Feb) | 8.9% |  | -17.6% |
 | 15:00 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 15:00 | USD | ISM Non-Manufacturing Employment (Apr) |  |  | 45.2 |
-| 15:00 | USD | New Home Sales (MoM) (Mar) |  |  | -17.6% |
-| 16:30 | USD | Atlanta Fed GDPNow (Q2) |  | 3.5% | 3.5% |
+| 15:00 | USD | ISM Non-Manufacturing Employment (Apr) | 48.0 | 48.3 | 45.2 |
+| 15:00 | USD | New Home Sales (MoM) (Mar) | 7.4% |  | -19.9% |
 | 16:40 | EUR | ECB's Lane Speaks |  |  |  |
-| 17:30 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
-| 17:30 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 18 min | USD | Atlanta Fed GDPNow (Q2) |  | 3.5% | 3.5% |
+| 48 min | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
+| 48 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | -2.800M | -1.790M |
 | 22:00 | NZD | RBNZ Financial Stability Report |  |  |  |

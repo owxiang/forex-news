@@ -17,17 +17,18 @@
 | 08:00 | EUR | Moderate | Spanish Unemployment Change (Apr) | -62.7K | -18.6K | -22.9K |
 | 09:00 | GBP | Low | Car Registration (YoY) (Apr) | 24.0% |  | 6.6% |
 | 09:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Apr) | 149,247.0 |  | 380,627.0 |
-| 09:30 | HKD | Low | GDP (YoY) (Q1) | 5.9% | 3.5% | 3.8% |
 | 09:30 | HKD | Low | GDP (QoQ) (Q1) | 2.9% |  | 1.0% |
+| 09:30 | HKD | Low | GDP (YoY) (Q1) | 5.9% | 3.5% | 3.8% |
 | 09:50 | EUR | Low | Spanish 12-Month Letras Auction | 2.635% |  | 2.611% |
 | 09:50 | EUR | Low | Spanish 6-Month Letras Auction | 2.357% |  | 2.362% |
 | 10:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Apr) | 0.40% |  | 0.59% |
 | 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 12:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
+| 13:15 | CAD | Low | Reserve Assets Total (Apr) | 126.7B |  | 126.8B |
 | 13:30 | USD | Moderate | Building Permits (Feb) | 1.538M | 1.538M | 1.386M |
 | 13:30 | USD | Low | Building Permits (MoM) (Feb) | 11.0% | 10.9% | -4.7% |
-| 13:30 | USD | Moderate | Exports (Mar) | 320.90B |  | 314.80B |
-| 13:30 | USD | Moderate | Imports (Mar) | 381.20B |  | 372.10B |
+| 13:30 | USD | Moderate | Exports (Mar) | 320.90B |  | 314.70B |
+| 13:30 | USD | Moderate | Imports (Mar) | 381.20B |  | 372.40B |
 | 13:30 | USD | Moderate | Trade Balance (Mar) | -60.30B | -61.00B | -57.80B |
 | 13:30 | CAD | Low | Exports (Mar) | 72.77B |  | 67.06B |
 | 13:30 | CAD | Low | Imports (Mar) | 70.99B |  | 72.17B |
@@ -35,28 +36,29 @@
 | 13:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 13:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 13:31 | USD | Moderate | Building Permits (Mar) | 1.363M | 1.372M | 1.538M |
-| 13:31 | USD | Low | Building Permits (MoM) (Mar) | -11.4% |  | 11.0% |
-| 20 min | USD | Low | Redbook (YoY) |  |  | 7.7% |
-| 40 min | CAD | Low | Reserve Assets Total (Apr) |  |  | 126.8B |
-| 55 min | CAD | Low | S&P Global Services PMI (Apr) |  |  | 47.20 |
-| 14:45 | USD | Moderate | S&P Global Composite PMI (Apr) |  | 52.0 | 50.3 |
-| 14:45 | USD | High | S&P Global Services PMI (Apr) |  | 51.3 | 49.8 |
+| 13:31 | USD | Low | Building Permits (MoM) (Mar) | -11.4% | -10.8% | 11.0% |
+| 13:55 | USD | Low | Redbook (YoY) | 7.8% |  | 7.7% |
+| 14:30 | CAD | Low | S&P Global Services PMI (Apr) | 49.20 |  | 47.20 |
+| 14:45 | USD | Moderate | S&P Global Composite PMI (Apr) | 51.7 | 52.0 | 50.3 |
+| 14:45 | USD | High | S&P Global Services PMI (Apr) | 51.0 | 51.3 | 49.8 |
+| 14:59 | USD | High | New Home Sales (Feb) | 635K |  | 587K |
+| 14:59 | USD | Moderate | New Home Sales (MoM) (Feb) | 8.9% |  | -17.6% |
 | 15:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Apr) |  |  | 53.9 |
-| 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Apr) |  |  | 45.2 |
-| 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Apr) |  |  | 60.6 |
-| 15:00 | USD | High | ISM Non-Manufacturing PMI (Apr) |  | 53.7 | 54.0 |
-| 15:00 | USD | High | ISM Non-Manufacturing Prices (Apr) |  |  | 70.7 |
-| 15:00 | USD | High | JOLTS Job Openings (Mar) |  | 6.860M | 6.882M |
-| 15:00 | USD | High | New Home Sales (Mar) |  | 652K | 587K |
-| 15:00 | USD | Moderate | New Home Sales (MoM) (Mar) |  |  | -17.6% |
-| 15:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -2.7% |
-| 15:00 | USD | Low | Milk Auctions |  |  | 4,143.0 |
-| 15:10 | USD | Low | IBD/TIPP Economic Optimism (May) |  | 42.0 | 42.8 |
-| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 3.5% | 3.5% |
+| 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Apr) | 55.9 |  | 53.9 |
+| 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Apr) | 48.0 | 48.3 | 45.2 |
+| 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Apr) | 53.5 | 57.3 | 60.6 |
+| 15:00 | USD | High | ISM Non-Manufacturing PMI (Apr) | 53.6 | 53.7 | 54.0 |
+| 15:00 | USD | High | ISM Non-Manufacturing Prices (Apr) | 70.7 | 73.7 | 70.7 |
+| 15:00 | USD | High | JOLTS Job Openings (Mar) | 6.866M | 6.860M | 6.922M |
+| 15:00 | USD | High | New Home Sales (Mar) | 682K | 652K | 583K |
+| 15:00 | USD | Moderate | New Home Sales (MoM) (Mar) | 7.4% |  | -19.9% |
+| 15:10 | USD | Low | IBD/TIPP Economic Optimism (May) | 42.6 | 42.0 | 42.8 |
 | 16:40 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 17:30 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
-| 17:30 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 18 min | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 3.5% | 3.5% |
+| 18 min | NZD | Low | GlobalDairyTrade Price Index |  |  | -2.7% |
+| 18 min | USD | Low | Milk Auctions |  |  | 4,143.0 |
+| 48 min | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
+| 48 min | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.800M | -1.790M |
 | 22:00 | NZD | Moderate | RBNZ Financial Stability Report |  |  |  |
 | 23:45 | NZD | Low | Employment Change (QoQ) (Q1) |  | 0.3% | 0.5% |
