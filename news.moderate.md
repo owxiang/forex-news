@@ -24,5 +24,5 @@
 | 17:00 | USD | Atlanta Fed GDPNow (Q2) | 3.7% | 3.5% | 3.5% |
 | 17:30 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
 | 17:30 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock |  | -2.800M | -1.790M |
+| 52 min | USD | API Weekly Crude Oil Stock |  | -2.800M | -1.790M |
 | 22:00 | NZD | RBNZ Financial Stability Report |  |  |  |
