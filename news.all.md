@@ -5,8 +5,8 @@
 | 00:00 | AUD | Low | S&P Global Manufacturing & Services PMI (Apr) | 50.40 | 50.10 | 46.60 |
 | 00:00 | AUD | Low | S&P Global Services PMI (Apr) | 50.7 | 50.3 | 46.3 |
 | 02:00 | NZD | Low | ANZ Commodity Price Index (MoM) | -0.8% |  | 4.2% |
-| 05:00 | IDR | Low | GDP (YoY) (Q1) |  | 5.30% | 5.39% |
-| 05:00 | IDR | Low | GDP (QoQ) (Q1) |  | -0.97% | 0.86% |
+| 46 min | IDR | Low | GDP (YoY) (Q1) |  | 5.30% | 5.39% |
+| 46 min | IDR | Low | GDP (QoQ) (Q1) |  | -0.97% | 0.86% |
 | 05:30 | AUD | High | RBA Interest Rate Decision (May) |  | 4.35% | 4.10% |
 | 05:30 | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
 | 05:30 | AUD | Moderate | RBA Rate Statement |  |  |  |

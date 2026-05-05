@@ -5,8 +5,8 @@
 | 00:00 | AUD | S&P Global Manufacturing & Services PMI (Apr) | 50.40 | 50.10 | 46.60 |
 | 00:00 | AUD | S&P Global Services PMI (Apr) | 50.7 | 50.3 | 46.3 |
 | 02:00 | NZD | ANZ Commodity Price Index (MoM) | -0.8% |  | 4.2% |
-| 05:00 | IDR | GDP (YoY) (Q1) |  | 5.30% | 5.39% |
-| 05:00 | IDR | GDP (QoQ) (Q1) |  | -0.97% | 0.86% |
+| 46 min | IDR | GDP (YoY) (Q1) |  | 5.30% | 5.39% |
+| 46 min | IDR | GDP (QoQ) (Q1) |  | -0.97% | 0.86% |
 | 06:00 | SGD | Retail Sales (YoY) (Mar) |  |  | 8.3% |
 | 06:00 | SGD | Retail Sales (MoM) (Mar) |  |  | -4.1% |
 | 07:30 | CHF | CPI (YoY) (Apr) |  |  | 0.3% |
