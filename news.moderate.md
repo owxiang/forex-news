@@ -1,28 +1,21 @@
-## 05 May 2026 - Moderate Impact Forex News
+## 06 May 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:30 | AUD | RBA Monetary Policy Statement |  |  |  |
-| 05:30 | AUD | RBA Rate Statement |  |  |  |
-| 07:30 | CHF | CPI (MoM) (Apr) | 0.3% | 0.3% | 0.2% |
-| 08:00 | EUR | Spanish Unemployment Change (Apr) | -62.7K | -18.6K | -22.9K |
-| 10:00 | BRL | IPC-Fipe Inflation Index (MoM) (Apr) | 0.40% |  | 0.59% |
-| 13:30 | USD | Building Permits (Feb) | 1.538M | 1.538M | 1.386M |
-| 13:30 | USD | Exports (Mar) | 320.90B |  | 314.70B |
-| 13:30 | USD | Imports (Mar) | 381.20B |  | 372.40B |
-| 13:30 | USD | Trade Balance (Mar) | -60.30B | -61.00B | -57.80B |
-| 13:30 | CAD | Trade Balance (Mar) | 1.78B | -2.40B | -5.11B |
-| 13:30 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 13:30 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 13:31 | USD | Building Permits (Mar) | 1.363M | 1.372M | 1.538M |
-| 14:45 | USD | S&P Global Composite PMI (Apr) | 51.7 | 52.0 | 50.3 |
-| 14:59 | USD | New Home Sales (MoM) (Feb) | 8.9% |  | -19.9% |
-| 15:00 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 15:00 | USD | ISM Non-Manufacturing Employment (Apr) | 48.0 | 48.3 | 45.2 |
-| 15:00 | USD | New Home Sales (MoM) (Mar) | 7.4% |  | 8.9% |
-| 16:40 | EUR | ECB's Lane Speaks |  |  |  |
-| 17:00 | USD | Atlanta Fed GDPNow (Q2) | 3.7% | 3.5% | 3.5% |
-| 17:30 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
-| 17:30 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock | -8.100M | -2.800M | -1.790M |
-| 22:00 | NZD | RBNZ Financial Stability Report |  |  |  |
+| 00:00 | NZD | RBNZ Gov Orr Speaks |  |  |  |
+| 02:45 | CNY | RatingDog Services PMI (Apr) |  | 52.0 | 52.1 |
+| 08:15 | EUR | HCOB Spain Services PMI (Apr) |  | 51.9 | 53.3 |
+| 08:30 | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 08:45 | EUR | HCOB Italy Services PMI (Apr) |  | 47.9 | 48.8 |
+| 08:50 | EUR | HCOB France Services PMI (Apr) |  | 46.5 | 48.8 |
+| 08:55 | EUR | HCOB Germany Services PMI (Apr) |  | 46.9 | 50.9 |
+| 09:00 | EUR | HCOB Eurozone Composite PMI (Apr) |  | 48.6 | 50.7 |
+| 09:00 | EUR | HCOB Eurozone Services PMI (Apr) |  | 47.4 | 50.2 |
+| 09:30 | GBP | S&P Global Composite PMI (Apr) |  | 52.0 | 50.3 |
+| 09:30 | GBP | S&P Global Services PMI (Apr) |  | 52.0 | 50.5 |
+| 10:45 | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 15:00 | CAD | Ivey PMI (Apr) |  | 49.9 | 49.7 |
+| 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.796M |
+| 16:30 | EUR | ECB's Lane Speaks |  |  |  |
+| 21:15 | CAD | BoC Gov Macklem Speaks |  |  |  |
+| 21:20 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
