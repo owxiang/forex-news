@@ -5,7 +5,7 @@
 | 05:30 | AUD | RBA Monetary Policy Statement |  |  |  |
 | 05:30 | AUD | RBA Rate Statement |  |  |  |
 | 07:30 | CHF | CPI (MoM) (Apr) | 0.3% | 0.3% | 0.2% |
-| 08:00 | EUR | Spanish Unemployment Change (Apr) |  | -18.6K | -22.9K |
+| 08:00 | EUR | Spanish Unemployment Change (Apr) | -62.7K | -18.6K | -22.9K |
 | 10:00 | BRL | IPC-Fipe Inflation Index (MoM) (Apr) |  |  | 0.59% |
 | 13:00 | USD | Building Permits (Feb) |  |  | 1.386M |
 | 13:30 | USD | Exports (Mar) |  |  | 314.80B |

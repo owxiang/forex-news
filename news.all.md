@@ -14,12 +14,12 @@
 | 06:00 | SGD | Low | Retail Sales (MoM) (Mar) | 3.7% |  | -4.3% |
 | 07:30 | CHF | Moderate | CPI (MoM) (Apr) | 0.3% | 0.3% | 0.2% |
 | 07:30 | CHF | Low | CPI (YoY) (Apr) | 0.6% |  | 0.3% |
-| 07:45 | EUR | Low | French Government Budget Balance (Mar) |  |  | -32.1B |
-| 08:00 | EUR | Moderate | Spanish Unemployment Change (Apr) |  | -18.6K | -22.9K |
-| 09:00 | GBP | Low | Car Registration (YoY) (Apr) |  |  | 6.6% |
-| 09:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Apr) |  |  | 380,627.0 |
-| 09:30 | HKD | Low | GDP (QoQ) (Q1) |  |  | 1.0% |
-| 09:30 | HKD | Low | GDP (YoY) (Q1) |  | 3.5% | 3.8% |
+| 08:00 | EUR | Moderate | Spanish Unemployment Change (Apr) | -62.7K | -18.6K | -22.9K |
+| 15 min | GBP | Low | Car Registration (YoY) (Apr) |  |  | 6.6% |
+| 15 min | GBP | Low | United Kingdom New Passenger Cars Registration (Apr) |  |  | 380,627.0 |
+| 15 min | EUR | Low | French Government Budget Balance (Mar) |  |  | -32.1B |
+| 45 min | HKD | Low | GDP (QoQ) (Q1) |  |  | 1.0% |
+| 45 min | HKD | Low | GDP (YoY) (Q1) |  | 3.5% | 3.8% |
 | 09:50 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.611% |
 | 09:50 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 2.362% |
 | 10:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Apr) |  |  | 0.59% |

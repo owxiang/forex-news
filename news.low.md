@@ -10,11 +10,11 @@
 | 06:00 | SGD | Retail Sales (YoY) (Mar) | 4.8% |  | 8.3% |
 | 06:00 | SGD | Retail Sales (MoM) (Mar) | 3.7% |  | -4.3% |
 | 07:30 | CHF | CPI (YoY) (Apr) | 0.6% |  | 0.3% |
-| 07:45 | EUR | French Government Budget Balance (Mar) |  |  | -32.1B |
-| 09:00 | GBP | Car Registration (YoY) (Apr) |  |  | 6.6% |
-| 09:00 | GBP | United Kingdom New Passenger Cars Registration (Apr) |  |  | 380,627.0 |
-| 09:30 | HKD | GDP (QoQ) (Q1) |  |  | 1.0% |
-| 09:30 | HKD | GDP (YoY) (Q1) |  | 3.5% | 3.8% |
+| 15 min | GBP | Car Registration (YoY) (Apr) |  |  | 6.6% |
+| 15 min | GBP | United Kingdom New Passenger Cars Registration (Apr) |  |  | 380,627.0 |
+| 15 min | EUR | French Government Budget Balance (Mar) |  |  | -32.1B |
+| 45 min | HKD | GDP (QoQ) (Q1) |  |  | 1.0% |
+| 45 min | HKD | GDP (YoY) (Q1) |  | 3.5% | 3.8% |
 | 09:50 | EUR | Spanish 12-Month Letras Auction |  |  | 2.611% |
 | 09:50 | EUR | Spanish 6-Month Letras Auction |  |  | 2.362% |
 | 11:00 | EUR | ECOFIN Meetings |  |  |  |
