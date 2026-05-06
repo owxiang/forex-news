@@ -16,5 +16,5 @@
 | 10:45 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 15:00 | CAD | Ivey PMI (Apr) | 57.7 | 49.9 | 49.7 |
 | 15:30 | USD | Cushing Crude Oil Inventories | -0.648M |  | -0.796M |
-| 30 min | EUR | ECB's Lane Speaks |  |  |  |
+| 16:30 | EUR | ECB's Lane Speaks |  |  |  |
 | 21:15 | CAD | BoC Gov Macklem Speaks |  |  |  |

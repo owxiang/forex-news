@@ -55,8 +55,8 @@
 | 15:30 | USD | Low | Heating Oil Stockpiles | -0.038M |  | -0.625M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 0.5% |  | 0.5% |
 | 15:30 | USD | Low | Gasoline Inventories | -2.504M | -1.700M | -6.075M |
-| 30 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 17:00 | EUR | Low | German Car Registration (YoY) (Apr) |  |  | 16.0% |
+| 16:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 9 min | EUR | Low | German Car Registration (YoY) (Apr) |  |  | 16.0% |
 | 18:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 9.184B |
 | 21:15 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
