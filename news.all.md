@@ -13,26 +13,26 @@
 | 06:00 | INR | Low | HSBC India Services PMI (Apr) | 58.8 | 57.9 | 57.5 |
 | 06:00 | INR | Low | HSBC Manufacturing & Services PMI (Apr) | 58.20 | 58.30 | 57.00 |
 | 07:45 | EUR | Low | French Industrial Production (MoM) (Mar) | 1.0% | 0.5% | -0.9% |
-| 10 min | EUR | Moderate | HCOB Spain Services PMI (Apr) |  | 51.9 | 53.3 |
-| 10 min | ZAR | Low | S&P Global Manufacturing PMI (Apr) |  |  | 50.8 |
-| 25 min | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 40 min | EUR | Low | HCOB Italy Composite PMI (Apr) |  |  | 49.2 |
-| 40 min | EUR | Moderate | HCOB Italy Services PMI (Apr) |  | 47.9 | 48.8 |
-| 45 min | EUR | Low | HCOB France Composite PMI (Apr) |  | 47.6 | 48.8 |
-| 45 min | EUR | Moderate | HCOB France Services PMI (Apr) |  | 46.5 | 48.8 |
-| 50 min | EUR | Low | HCOB Germany Composite PMI (Apr) |  | 48.3 | 51.9 |
-| 50 min | EUR | Moderate | HCOB Germany Services PMI (Apr) |  | 46.9 | 50.9 |
-| 55 min | EUR | Low | Italian Retail Sales (MoM) (Mar) |  | -0.4% | 0.0% |
-| 55 min | EUR | Low | Italian Retail Sales (YoY) (Mar) |  |  | 1.6% |
-| 55 min | EUR | Moderate | HCOB Eurozone Composite PMI (Apr) |  | 48.6 | 50.7 |
-| 55 min | EUR | Moderate | HCOB Eurozone Services PMI (Apr) |  | 47.4 | 50.2 |
-| 09:30 | GBP | Moderate | S&P Global Composite PMI (Apr) |  | 52.0 | 50.3 |
-| 09:30 | GBP | Moderate | S&P Global Services PMI (Apr) |  | 52.0 | 50.5 |
-| 09:30 | HKD | Low | Retail Sales (YoY) (Mar) |  |  | 19.3% |
-| 10:00 | NOK | Low | House Price Index (YoY) (Apr) |  |  | 3.00% |
-| 10:00 | EUR | Low | PPI (MoM) (Mar) |  | 3.3% | -0.7% |
-| 10:00 | EUR | Low | PPI (YoY) (Mar) |  | 1.8% | -3.0% |
-| 10:45 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
+| 08:15 | EUR | Moderate | HCOB Spain Services PMI (Apr) | 47.9 | 51.9 | 53.3 |
+| 08:15 | ZAR | Low | S&P Global Manufacturing PMI (Apr) | 51.6 |  | 50.8 |
+| 08:30 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
+| 08:45 | EUR | Low | HCOB Italy Composite PMI (Apr) | 50.5 |  | 49.2 |
+| 08:45 | EUR | Moderate | HCOB Italy Services PMI (Apr) | 49.8 | 47.9 | 48.8 |
+| 08:50 | EUR | Low | HCOB France Composite PMI (Apr) | 47.6 | 47.6 | 48.8 |
+| 08:50 | EUR | Moderate | HCOB France Services PMI (Apr) | 46.5 | 46.5 | 48.8 |
+| 08:55 | EUR | Low | HCOB Germany Composite PMI (Apr) | 48.4 | 48.3 | 51.9 |
+| 08:55 | EUR | Moderate | HCOB Germany Services PMI (Apr) | 46.9 | 46.9 | 50.9 |
+| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Mar) | 0.8% | -0.4% | -0.1% |
+| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Mar) | 3.7% |  | 1.6% |
+| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Apr) | 48.8 | 48.6 | 50.7 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Apr) | 47.6 | 47.4 | 50.2 |
+| 09:30 | GBP | Moderate | S&P Global Composite PMI (Apr) | 52.6 | 52.0 | 50.3 |
+| 09:30 | GBP | Moderate | S&P Global Services PMI (Apr) | 52.7 | 52.0 | 50.5 |
+| 09:30 | HKD | Low | Retail Sales (YoY) (Mar) | 12.8% |  | 19.3% |
+| 3 min | NOK | Low | House Price Index (YoY) (Apr) |  |  | 3.00% |
+| 3 min | EUR | Low | PPI (MoM) (Mar) |  | 3.3% | -0.7% |
+| 3 min | EUR | Low | PPI (YoY) (Mar) |  | 1.8% | -3.0% |
+| 48 min | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 11:00 | EUR | Low | German Car Registration (YoY) (Apr) |  |  | 16.0% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.37% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -1.6% |

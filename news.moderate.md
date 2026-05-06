@@ -4,16 +4,16 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | NZD | RBNZ Gov Orr Speaks |  |  |  |
 | 02:45 | CNY | RatingDog Services PMI (Apr) | 52.6 | 52.0 | 52.1 |
-| 10 min | EUR | HCOB Spain Services PMI (Apr) |  | 51.9 | 53.3 |
-| 25 min | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 40 min | EUR | HCOB Italy Services PMI (Apr) |  | 47.9 | 48.8 |
-| 45 min | EUR | HCOB France Services PMI (Apr) |  | 46.5 | 48.8 |
-| 50 min | EUR | HCOB Germany Services PMI (Apr) |  | 46.9 | 50.9 |
-| 55 min | EUR | HCOB Eurozone Composite PMI (Apr) |  | 48.6 | 50.7 |
-| 55 min | EUR | HCOB Eurozone Services PMI (Apr) |  | 47.4 | 50.2 |
-| 09:30 | GBP | S&P Global Composite PMI (Apr) |  | 52.0 | 50.3 |
-| 09:30 | GBP | S&P Global Services PMI (Apr) |  | 52.0 | 50.5 |
-| 10:45 | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 08:15 | EUR | HCOB Spain Services PMI (Apr) | 47.9 | 51.9 | 53.3 |
+| 08:30 | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 08:45 | EUR | HCOB Italy Services PMI (Apr) | 49.8 | 47.9 | 48.8 |
+| 08:50 | EUR | HCOB France Services PMI (Apr) | 46.5 | 46.5 | 48.8 |
+| 08:55 | EUR | HCOB Germany Services PMI (Apr) | 46.9 | 46.9 | 50.9 |
+| 09:00 | EUR | HCOB Eurozone Composite PMI (Apr) | 48.8 | 48.6 | 50.7 |
+| 09:00 | EUR | HCOB Eurozone Services PMI (Apr) | 47.6 | 47.4 | 50.2 |
+| 09:30 | GBP | S&P Global Composite PMI (Apr) | 52.6 | 52.0 | 50.3 |
+| 09:30 | GBP | S&P Global Services PMI (Apr) | 52.7 | 52.0 | 50.5 |
+| 48 min | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 15:00 | CAD | Ivey PMI (Apr) |  | 49.9 | 49.7 |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.796M |
 | 16:30 | EUR | ECB's Lane Speaks |  |  |  |
