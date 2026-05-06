@@ -1,44 +1,38 @@
-## 06 May 2026 - Low Impact Forex News
+## 07 May 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | CPI (YoY) (Apr) | 2.6% | 2.6% | 2.2% |
-| 00:00 | KRW | CPI (MoM) (Apr) | 0.5% | 0.5% | 0.3% |
-| 00:00 | AUD | AIG Construction Index (Apr) | -19.3 |  | -57.1 |
-| 00:00 | AUD | AIG Manufacturing Index (Apr) | -27.9 |  | -28.6 |
-| 01:30 | HKD | S&P Global Manufacturing PMI (Apr) | 48.6 |  | 49.3 |
-| 02:30 | AUD | RBA Chart Pack Release |  |  |  |
-| 06:00 | INR | HSBC India Services PMI (Apr) | 58.8 | 57.9 | 57.5 |
-| 06:00 | INR | HSBC Manufacturing & Services PMI (Apr) | 58.20 | 58.30 | 57.00 |
-| 07:45 | EUR | French Industrial Production (MoM) (Mar) | 1.0% | 0.5% | -0.9% |
-| 08:15 | ZAR | S&P Global Manufacturing PMI (Apr) | 51.6 |  | 50.8 |
-| 08:45 | EUR | HCOB Italy Composite PMI (Apr) | 50.5 |  | 49.2 |
-| 08:50 | EUR | HCOB France Composite PMI (Apr) | 47.6 | 47.6 | 48.8 |
-| 08:55 | EUR | HCOB Germany Composite PMI (Apr) | 48.4 | 48.3 | 51.9 |
-| 09:00 | EUR | Italian Retail Sales (MoM) (Mar) | 0.8% | -0.4% | -0.1% |
-| 09:00 | EUR | Italian Retail Sales (YoY) (Mar) | 3.7% |  | 1.6% |
-| 09:30 | HKD | Retail Sales (YoY) (Mar) | 12.8% |  | 19.3% |
-| 10:00 | NOK | House Price Index (YoY) (Apr) | 3.80% |  | 3.00% |
-| 10:00 | EUR | PPI (MoM) (Mar) | 3.4% | 3.3% | -0.6% |
-| 10:00 | EUR | PPI (YoY) (Mar) | 2.1% | 1.8% | -3.0% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.45% |  | 6.37% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) | -4.4% |  | -1.6% |
-| 12:00 | USD | MBA Purchase Index | 171.1 |  | 177.7 |
-| 12:00 | USD | Mortgage Market Index | 285.3 |  | 298.5 |
-| 12:00 | USD | Mortgage Refinance Index | 928.6 |  | 977.9 |
-| 13:00 | MXN | Gross Fixed Investments (MoM) (Feb) | -0.80% | -0.30% | -1.10% |
-| 13:00 | MXN | Gross Fixed Investments (YoY) (Feb) | -4.20% | -2.10% | -3.30% |
-| 14:00 | BRL | S&P Global Composite PMI (Apr) | 52.4 |  | 49.9 |
-| 14:00 | BRL | S&P Global Services PMI (Apr) | 52.3 |  | 50.1 |
-| 15:00 | CAD | Ivey PMI n.s.a (Apr) | 61.5 |  | 56.5 |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) | -0.042M |  | 0.084M |
-| 15:30 | USD | Crude Oil Imports | 1.415M |  | -1.968M |
-| 15:30 | USD | Distillate Fuel Production | -0.024M |  | -0.013M |
-| 15:30 | USD | EIA Weekly Distillates Stocks | -1.294M | -2.000M | -4.494M |
-| 15:30 | USD | Gasoline Production | -0.275M |  | -0.238M |
-| 15:30 | USD | Heating Oil Stockpiles | -0.038M |  | -0.625M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.5% |  | 0.5% |
-| 15:30 | USD | Gasoline Inventories | -2.504M | -1.700M | -6.075M |
-| 18:00 | USD | Fed Goolsbee Speaks |  |  |  |
-| 18:30 | BRL | Foreign Exchange Flows | 3.307B |  | 9.184B |
-| 22:00 | KRW | FX Reserves - USD (Apr) | 427.88B |  | 423.66B |
+| 27 min | JPY | Monetary Base (YoY) (Apr) |  | -10.5% | -11.6% |
+| 02:30 | AUD | Exports (MoM) (Mar) |  |  | 4.9% |
+| 02:30 | AUD | Imports (MoM) (Mar) |  |  | -3.2% |
+| 07:45 | EUR | French Current Account (Mar) |  |  | -1.80B |
+| 07:45 | EUR | French Exports (Mar) |  |  | 52.0B |
+| 07:45 | EUR | French Imports (Mar) |  |  | 57.8B |
+| 07:45 | EUR | French Non-Farm Payrolls (QoQ) (Q2) |  |  | -0.1% |
+| 07:45 | EUR | French Trade Balance (Mar) |  | -6.7B | -5.8B |
+| 07:45 | HKD | Foreign Reserves (USD) (Apr) |  |  | 430.80B |
+| 08:00 | CHF | Foreign Reserves (USD) (Apr) |  |  | 721,218.0B |
+| 08:00 | CHF | Unemployment Rate n.s.a. (Apr) |  |  | 3.1% |
+| 08:00 | CHF | Unemployment Rate s.a. (Apr) |  | 3.0% | 3.0% |
+| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Apr) |  |  | 46.8 |
+| 08:30 | EUR | HCOB Germany Construction PMI (Apr) |  |  | 48.0 |
+| 08:30 | EUR | HCOB France Construction PMI (MoM) (Apr) |  |  | 38.4 |
+| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Apr) |  |  | 44.6 |
+| 09:00 | CNY | FX Reserves (USD) (Apr) |  |  | 3.342T |
+| 10:00 | SGD | Foreign Reserves USD (MoM) (Apr) |  |  | 419.2B |
+| 10:00 | EUR | Retail Sales (MoM) (Mar) |  | -0.3% | -0.2% |
+| 10:00 | EUR | Retail Sales (YoY) (Mar) |  | 1.0% | 1.7% |
+| 10:30 | USD | Challenger Job Cuts (Apr) |  |  | 60.620K |
+| 11:00 | CAD | Leading Index (MoM) (Apr) |  |  | 0.07% |
+| 13:00 | MXN | Core CPI (MoM) (Apr) |  | 0.31% | 0.38% |
+| 13:00 | MXN | Month Core Inflation (YoY) (Apr) |  | 4.27% | 4.45% |
+| 13:00 | MXN | PPI (YoY) (Apr) |  |  | 2.80% |
+| 13:00 | MXN | PPI (MoM) (Apr) |  |  | 1.70% |
+| 13:00 | BRL | Industrial Production (MoM) (Mar) |  | -0.2% | 0.9% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 207.50K |
+| 15:30 | USD | Natural Gas Storage |  | 72B | 79B |
+| 16:30 | USD | 4-Week Bill Auction |  |  | 3.600% |
+| 16:30 | USD | 8-Week Bill Auction |  |  | 3.620% |
+| 18:00 | EUR | German Car Registration (YoY) (Apr) |  |  | 16.0% |
+| 19:00 | BRL | Trade Balance (Apr) |  | 10.90B | 6.41B |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.919T |

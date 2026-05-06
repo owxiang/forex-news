@@ -1,20 +1,27 @@
-## 06 May 2026 - Moderate Impact Forex News
+## 07 May 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | NZD | RBNZ Gov Orr Speaks |  |  |  |
-| 02:45 | CNY | RatingDog Services PMI (Apr) | 52.6 | 52.0 | 52.1 |
-| 08:15 | EUR | HCOB Spain Services PMI (Apr) | 47.9 | 51.9 | 53.3 |
-| 08:30 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 08:45 | EUR | HCOB Italy Services PMI (Apr) | 49.8 | 47.9 | 48.8 |
-| 08:50 | EUR | HCOB France Services PMI (Apr) | 46.5 | 46.5 | 48.8 |
-| 08:55 | EUR | HCOB Germany Services PMI (Apr) | 46.9 | 46.9 | 50.9 |
-| 09:00 | EUR | HCOB Eurozone Composite PMI (Apr) | 48.8 | 48.6 | 50.7 |
-| 09:00 | EUR | HCOB Eurozone Services PMI (Apr) | 47.6 | 47.4 | 50.2 |
-| 09:30 | GBP | S&P Global Composite PMI (Apr) | 52.6 | 52.0 | 50.3 |
-| 09:30 | GBP | S&P Global Services PMI (Apr) | 52.7 | 52.0 | 50.5 |
-| 10:45 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 15:00 | CAD | Ivey PMI (Apr) | 57.7 | 49.9 | 49.7 |
-| 15:30 | USD | Cushing Crude Oil Inventories | -0.648M |  | -0.796M |
-| 16:30 | EUR | ECB's Lane Speaks |  |  |  |
-| 21:15 | CAD | BoC Gov Macklem Speaks |  |  |  |
+| 27 min | JPY | Monetary Policy Meeting Minutes |  |  |  |
+| 02:30 | AUD | Trade Balance (Mar) |  | 4.380B | 5.686B |
+| 07:00 | EUR | German Factory Orders (MoM) (Mar) |  | 1.0% | 0.9% |
+| 08:15 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 09:00 | NOK | Interest Rate Decision |  | 4.00% | 4.00% |
+| 09:00 | EUR | ECB's Lane Speaks |  |  |  |
+| 09:30 | GBP | S&P Global Construction PMI (Apr) |  | 45.8 | 45.6 |
+| 13:00 | MXN | CPI (YoY) (Apr) |  | 4.50% | 4.59% |
+| 13:00 | MXN | CPI (MoM) (Apr) |  | 0.25% | 0.86% |
+| 13:00 | BRL | Industrial Production (YoY) (Mar) |  | 3.5% | -0.7% |
+| 13:00 | EUR | ECB's Elderson Speaks |  |  |  |
+| 13:30 | USD | Continuing Jobless Claims |  | 1,800K | 1,785K |
+| 13:30 | USD | Nonfarm Productivity (QoQ) (Q1) |  | 0.7% | 1.8% |
+| 13:30 | USD | Unit Labor Costs (QoQ) (Q1) |  | 2.6% | 4.4% |
+| 13:40 | EUR | ECB's Lane Speaks |  |  |  |
+| 15:00 | USD | Construction Spending (MoM) (Mar) |  | 0.3% | -0.3% |
+| 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Apr) |  |  | 3.4% |
+| 16:30 | USD | Atlanta Fed GDPNow (Q2) |  | 3.7% | 3.7% |
+| 18:00 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 20:00 | USD | Consumer Credit (Mar) |  | 12.50B | 9.48B |
+| 20:00 | MXN | Interest Rate Decision (May) |  | 6.50% | 6.75% |
+| 20:30 | USD | FOMC Member Williams Speaks |  |  |  |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 6,700B |
