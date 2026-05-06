@@ -7,9 +7,9 @@
 | 00:00 | AUD | Low | AIG Construction Index (Apr) | -19.3 |  | -31.4 |
 | 00:00 | AUD | Low | AIG Manufacturing Index (Apr) | -27.9 |  | -28.6 |
 | 00:00 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
-| 01:30 | HKD | Low | S&P Global Manufacturing PMI (Apr) |  |  | 49.3 |
-| 02:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
-| 02:45 | CNY | Moderate | RatingDog Services PMI (Apr) |  | 52.0 | 52.1 |
+| 01:30 | HKD | Low | S&P Global Manufacturing PMI (Apr) | 48.6 |  | 49.3 |
+| 37 min | AUD | Low | RBA Chart Pack Release |  |  |  |
+| 52 min | CNY | Moderate | RatingDog Services PMI (Apr) |  | 52.0 | 52.1 |
 | 06:00 | INR | Low | HSBC India Services PMI (Apr) |  | 57.9 | 57.5 |
 | 06:00 | INR | Low | HSBC Manufacturing & Services PMI (Apr) |  | 58.30 | 57.00 |
 | 07:45 | EUR | Low | French Industrial Production (MoM) (Mar) |  | 0.5% | -0.7% |

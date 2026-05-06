@@ -6,8 +6,8 @@
 | 00:00 | KRW | CPI (MoM) (Apr) | 0.5% | 0.5% | 0.3% |
 | 00:00 | AUD | AIG Construction Index (Apr) | -19.3 |  | -31.4 |
 | 00:00 | AUD | AIG Manufacturing Index (Apr) | -27.9 |  | -28.6 |
-| 01:30 | HKD | S&P Global Manufacturing PMI (Apr) |  |  | 49.3 |
-| 02:30 | AUD | RBA Chart Pack Release |  |  |  |
+| 01:30 | HKD | S&P Global Manufacturing PMI (Apr) | 48.6 |  | 49.3 |
+| 37 min | AUD | RBA Chart Pack Release |  |  |  |
 | 06:00 | INR | HSBC India Services PMI (Apr) |  | 57.9 | 57.5 |
 | 06:00 | INR | HSBC Manufacturing & Services PMI (Apr) |  | 58.30 | 57.00 |
 | 07:45 | EUR | French Industrial Production (MoM) (Mar) |  | 0.5% | -0.7% |
