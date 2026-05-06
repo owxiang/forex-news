@@ -17,4 +17,4 @@
 | 15:00 | CAD | Ivey PMI (Apr) | 57.7 | 49.9 | 49.7 |
 | 15:30 | USD | Cushing Crude Oil Inventories | -0.648M |  | -0.796M |
 | 16:30 | EUR | ECB's Lane Speaks |  |  |  |
-| 36 min | CAD | BoC Gov Macklem Speaks |  |  |  |
+| 21:15 | CAD | BoC Gov Macklem Speaks |  |  |  |

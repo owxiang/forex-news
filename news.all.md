@@ -58,5 +58,5 @@
 | 16:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 18:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 18:30 | BRL | Low | Foreign Exchange Flows | 3.307B |  | 9.184B |
-| 36 min | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
-| 22:00 | KRW | Low | FX Reserves - USD (Apr) |  |  | 423.66B |
+| 21:15 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
+| 24 min | KRW | Low | FX Reserves - USD (Apr) |  |  | 423.66B |
