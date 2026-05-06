@@ -10,14 +10,13 @@
 | 02:30 | AUD | RBA Chart Pack Release |  |  |  |
 | 06:00 | INR | HSBC India Services PMI (Apr) | 58.8 | 57.9 | 57.5 |
 | 06:00 | INR | HSBC Manufacturing & Services PMI (Apr) | 58.20 | 58.30 | 57.00 |
-| 07:45 | EUR | French Industrial Production (MoM) (Mar) |  | 0.5% | -0.7% |
-| 08:00 | EUR | French Government Budget Balance (Mar) |  |  | -32.1B |
-| 08:15 | ZAR | S&P Global Manufacturing PMI (Apr) |  |  | 50.8 |
-| 08:45 | EUR | HCOB Italy Composite PMI (Apr) |  |  | 49.2 |
-| 08:50 | EUR | HCOB France Composite PMI (Apr) |  | 47.6 | 48.8 |
-| 08:55 | EUR | HCOB Germany Composite PMI (Apr) |  | 48.3 | 51.9 |
-| 09:00 | EUR | Italian Retail Sales (MoM) (Mar) |  | -0.4% | 0.0% |
-| 09:00 | EUR | Italian Retail Sales (YoY) (Mar) |  |  | 1.6% |
+| 07:45 | EUR | French Industrial Production (MoM) (Mar) | 1.0% | 0.5% | -0.9% |
+| 10 min | ZAR | S&P Global Manufacturing PMI (Apr) |  |  | 50.8 |
+| 40 min | EUR | HCOB Italy Composite PMI (Apr) |  |  | 49.2 |
+| 45 min | EUR | HCOB France Composite PMI (Apr) |  | 47.6 | 48.8 |
+| 50 min | EUR | HCOB Germany Composite PMI (Apr) |  | 48.3 | 51.9 |
+| 55 min | EUR | Italian Retail Sales (MoM) (Mar) |  | -0.4% | 0.0% |
+| 55 min | EUR | Italian Retail Sales (YoY) (Mar) |  |  | 1.6% |
 | 09:30 | HKD | Retail Sales (YoY) (Mar) |  |  | 19.3% |
 | 10:00 | NOK | House Price Index (YoY) (Apr) |  |  | 3.00% |
 | 10:00 | EUR | PPI (MoM) (Mar) |  | 3.3% | -0.7% |
