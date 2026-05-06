@@ -39,7 +39,7 @@
 | 15:30 | USD | Heating Oil Stockpiles | -0.038M |  | -0.625M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.5% |  | 0.5% |
 | 15:30 | USD | Gasoline Inventories | -2.504M | -1.700M | -6.075M |
-| 9 min | EUR | German Car Registration (YoY) (Apr) |  |  | 16.0% |
-| 18:00 | USD | Fed Goolsbee Speaks |  |  |  |
-| 18:30 | BRL | Foreign Exchange Flows |  |  | 9.184B |
+| 22 min | USD | Fed Goolsbee Speaks |  |  |  |
+| 22 min | EUR | German Car Registration (YoY) (Apr) |  |  | 16.0% |
+| 52 min | BRL | Foreign Exchange Flows |  |  | 9.184B |
 | 22:00 | KRW | FX Reserves - USD (Apr) |  |  | 423.66B |
