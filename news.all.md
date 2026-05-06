@@ -38,13 +38,12 @@
 | 12:00 | USD | Low | MBA Purchase Index | 171.1 |  | 177.7 |
 | 12:00 | USD | Low | Mortgage Market Index | 285.3 |  | 298.5 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 928.6 |  | 977.9 |
-| 12:30 | INR | Low | M3 Money Supply |  |  | 11.9% |
-| 22 min | MXN | Low | Gross Fixed Investments (MoM) (Feb) |  | -0.30% | -1.10% |
-| 22 min | MXN | Low | Gross Fixed Investments (YoY) (Feb) |  | -2.10% | -3.30% |
-| 22 min | EUR | Low | German Car Registration (YoY) (Apr) |  |  | 16.0% |
-| 37 min | USD | High | ADP Nonfarm Employment Change (Apr) |  | 118K | 62K |
-| 14:00 | BRL | Low | S&P Global Composite PMI (Apr) |  |  | 49.9 |
-| 14:00 | BRL | Low | S&P Global Services PMI (Apr) |  |  | 50.1 |
+| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Feb) | -0.80% | -0.30% | -1.10% |
+| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Feb) | -4.20% | -2.10% | -3.30% |
+| 13:15 | USD | High | ADP Nonfarm Employment Change (Apr) | 109K | 118K | 61K |
+| 13 min | EUR | Low | German Car Registration (YoY) (Apr) |  |  | 16.0% |
+| 13 min | BRL | Low | S&P Global Composite PMI (Apr) |  |  | 49.9 |
+| 13 min | BRL | Low | S&P Global Services PMI (Apr) |  |  | 50.1 |
 | 15:00 | CAD | Low | Ivey PMI n.s.a (Apr) |  |  | 56.5 |
 | 15:00 | CAD | Moderate | Ivey PMI (Apr) |  | 49.9 | 49.7 |
 | 15:30 | USD | High | Crude Oil Inventories |  | -3.400M | -6.234M |

@@ -2,5 +2,5 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 37 min | USD | ADP Nonfarm Employment Change (Apr) |  | 118K | 62K |
+| 13:15 | USD | ADP Nonfarm Employment Change (Apr) | 109K | 118K | 61K |
 | 15:30 | USD | Crude Oil Inventories |  | -3.400M | -6.234M |
