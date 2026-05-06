@@ -14,7 +14,7 @@
 | 09:30 | GBP | S&P Global Composite PMI (Apr) | 52.6 | 52.0 | 50.3 |
 | 09:30 | GBP | S&P Global Services PMI (Apr) | 52.7 | 52.0 | 50.5 |
 | 10:45 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 19 min | CAD | Ivey PMI (Apr) |  | 49.9 | 49.7 |
-| 49 min | USD | Cushing Crude Oil Inventories |  |  | -0.796M |
-| 16:30 | EUR | ECB's Lane Speaks |  |  |  |
+| 15:00 | CAD | Ivey PMI (Apr) | 57.7 | 49.9 | 49.7 |
+| 15:30 | USD | Cushing Crude Oil Inventories | -0.648M |  | -0.796M |
+| 30 min | EUR | ECB's Lane Speaks |  |  |  |
 | 21:15 | CAD | BoC Gov Macklem Speaks |  |  |  |

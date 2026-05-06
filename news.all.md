@@ -43,20 +43,20 @@
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Apr) | 109K | 118K | 61K |
 | 14:00 | BRL | Low | S&P Global Composite PMI (Apr) | 52.4 |  | 49.9 |
 | 14:00 | BRL | Low | S&P Global Services PMI (Apr) | 52.3 |  | 50.1 |
-| 19 min | CAD | Low | Ivey PMI n.s.a (Apr) |  |  | 56.5 |
-| 19 min | CAD | Moderate | Ivey PMI (Apr) |  | 49.9 | 49.7 |
-| 19 min | EUR | Low | German Car Registration (YoY) (Apr) |  |  | 16.0% |
-| 49 min | USD | High | Crude Oil Inventories |  | -3.400M | -6.234M |
-| 49 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.084M |
-| 49 min | USD | Low | Crude Oil Imports |  |  | -1.968M |
-| 49 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.796M |
-| 49 min | USD | Low | Distillate Fuel Production |  |  | -0.013M |
-| 49 min | USD | Low | EIA Weekly Distillates Stocks |  | -2.000M | -4.494M |
-| 49 min | USD | Low | Gasoline Production |  |  | -0.238M |
-| 49 min | USD | Low | Heating Oil Stockpiles |  |  | -0.625M |
-| 49 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.5% |
-| 49 min | USD | Low | Gasoline Inventories |  | -1.700M | -6.075M |
-| 16:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 15:00 | CAD | Low | Ivey PMI n.s.a (Apr) | 61.5 |  | 56.5 |
+| 15:00 | CAD | Moderate | Ivey PMI (Apr) | 57.7 | 49.9 | 49.7 |
+| 15:30 | USD | High | Crude Oil Inventories | -2.313M | -3.400M | -6.234M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | -0.042M |  | 0.084M |
+| 15:30 | USD | Low | Crude Oil Imports | 1.415M |  | -1.968M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | -0.648M |  | -0.796M |
+| 15:30 | USD | Low | Distillate Fuel Production | -0.024M |  | -0.013M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks | -1.294M | -2.000M | -4.494M |
+| 15:30 | USD | Low | Gasoline Production | -0.275M |  | -0.238M |
+| 15:30 | USD | Low | Heating Oil Stockpiles | -0.038M |  | -0.625M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 0.5% |  | 0.5% |
+| 15:30 | USD | Low | Gasoline Inventories | -2.504M | -1.700M | -6.075M |
+| 30 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 17:00 | EUR | Low | German Car Registration (YoY) (Apr) |  |  | 16.0% |
 | 18:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 9.184B |
 | 21:15 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
