@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | NZD | RBNZ Gov Orr Speaks |  |  |  |
-| 4 min | CNY | RatingDog Services PMI (Apr) |  | 52.0 | 52.1 |
+| 02:45 | CNY | RatingDog Services PMI (Apr) | 52.6 | 52.0 | 52.1 |
 | 08:15 | EUR | HCOB Spain Services PMI (Apr) |  | 51.9 | 53.3 |
 | 08:30 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 08:45 | EUR | HCOB Italy Services PMI (Apr) |  | 47.9 | 48.8 |
