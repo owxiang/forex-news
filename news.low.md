@@ -28,18 +28,18 @@
 | 12:00 | USD | Mortgage Refinance Index | 928.6 |  | 977.9 |
 | 13:00 | MXN | Gross Fixed Investments (MoM) (Feb) | -0.80% | -0.30% | -1.10% |
 | 13:00 | MXN | Gross Fixed Investments (YoY) (Feb) | -4.20% | -2.10% | -3.30% |
-| 13 min | EUR | German Car Registration (YoY) (Apr) |  |  | 16.0% |
-| 13 min | BRL | S&P Global Composite PMI (Apr) |  |  | 49.9 |
-| 13 min | BRL | S&P Global Services PMI (Apr) |  |  | 50.1 |
-| 15:00 | CAD | Ivey PMI n.s.a (Apr) |  |  | 56.5 |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.084M |
-| 15:30 | USD | Crude Oil Imports |  |  | -1.968M |
-| 15:30 | USD | Distillate Fuel Production |  |  | -0.013M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  | -2.000M | -4.494M |
-| 15:30 | USD | Gasoline Production |  |  | -0.238M |
-| 15:30 | USD | Heating Oil Stockpiles |  |  | -0.625M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.5% |
-| 15:30 | USD | Gasoline Inventories |  | -1.700M | -6.075M |
+| 14:00 | BRL | S&P Global Composite PMI (Apr) | 52.4 |  | 49.9 |
+| 14:00 | BRL | S&P Global Services PMI (Apr) | 52.3 |  | 50.1 |
+| 19 min | CAD | Ivey PMI n.s.a (Apr) |  |  | 56.5 |
+| 19 min | EUR | German Car Registration (YoY) (Apr) |  |  | 16.0% |
+| 49 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.084M |
+| 49 min | USD | Crude Oil Imports |  |  | -1.968M |
+| 49 min | USD | Distillate Fuel Production |  |  | -0.013M |
+| 49 min | USD | EIA Weekly Distillates Stocks |  | -2.000M | -4.494M |
+| 49 min | USD | Gasoline Production |  |  | -0.238M |
+| 49 min | USD | Heating Oil Stockpiles |  |  | -0.625M |
+| 49 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.5% |
+| 49 min | USD | Gasoline Inventories |  | -1.700M | -6.075M |
 | 18:00 | USD | Fed Goolsbee Speaks |  |  |  |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | 9.184B |
 | 22:00 | KRW | FX Reserves - USD (Apr) |  |  | 423.66B |
