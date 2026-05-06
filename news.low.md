@@ -21,15 +21,15 @@
 | 10:00 | NOK | House Price Index (YoY) (Apr) | 3.80% |  | 3.00% |
 | 10:00 | EUR | PPI (MoM) (Mar) | 3.4% | 3.3% | -0.6% |
 | 10:00 | EUR | PPI (YoY) (Mar) | 2.1% | 1.8% | -3.0% |
-| 14 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.37% |
-| 14 min | USD | MBA Mortgage Applications (WoW) |  |  | -1.6% |
-| 14 min | USD | MBA Purchase Index |  |  | 177.7 |
-| 14 min | USD | Mortgage Market Index |  |  | 298.5 |
-| 14 min | USD | Mortgage Refinance Index |  |  | 977.9 |
-| 14 min | EUR | German Car Registration (YoY) (Apr) |  |  | 16.0% |
-| 44 min | INR | M3 Money Supply |  |  | 11.9% |
-| 13:00 | MXN | Gross Fixed Investments (MoM) (Feb) |  | -0.30% | -1.10% |
-| 13:00 | MXN | Gross Fixed Investments (YoY) (Feb) |  | -2.10% | -3.30% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.45% |  | 6.37% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | -4.4% |  | -1.6% |
+| 12:00 | USD | MBA Purchase Index | 171.1 |  | 177.7 |
+| 12:00 | USD | Mortgage Market Index | 285.3 |  | 298.5 |
+| 12:00 | USD | Mortgage Refinance Index | 928.6 |  | 977.9 |
+| 12:30 | INR | M3 Money Supply |  |  | 11.9% |
+| 22 min | MXN | Gross Fixed Investments (MoM) (Feb) |  | -0.30% | -1.10% |
+| 22 min | MXN | Gross Fixed Investments (YoY) (Feb) |  | -2.10% | -3.30% |
+| 22 min | EUR | German Car Registration (YoY) (Apr) |  |  | 16.0% |
 | 14:00 | BRL | S&P Global Composite PMI (Apr) |  |  | 49.9 |
 | 14:00 | BRL | S&P Global Services PMI (Apr) |  |  | 50.1 |
 | 15:00 | CAD | Ivey PMI n.s.a (Apr) |  |  | 56.5 |
