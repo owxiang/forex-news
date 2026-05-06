@@ -18,4 +18,3 @@
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.796M |
 | 16:30 | EUR | ECB's Lane Speaks |  |  |  |
 | 21:15 | CAD | BoC Gov Macklem Speaks |  |  |  |
-| 21:20 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |

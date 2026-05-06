@@ -33,13 +33,13 @@
 | 10:00 | EUR | Low | PPI (MoM) (Mar) | 3.4% | 3.3% | -0.6% |
 | 10:00 | EUR | Low | PPI (YoY) (Mar) | 2.1% | 1.8% | -3.0% |
 | 10:45 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 5 min | EUR | Low | German Car Registration (YoY) (Apr) |  |  | 16.0% |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.37% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -1.6% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 177.7 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 298.5 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 977.9 |
-| 12:30 | INR | Low | M3 Money Supply |  |  | 11.9% |
+| 14 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.37% |
+| 14 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -1.6% |
+| 14 min | USD | Low | MBA Purchase Index |  |  | 177.7 |
+| 14 min | USD | Low | Mortgage Market Index |  |  | 298.5 |
+| 14 min | USD | Low | Mortgage Refinance Index |  |  | 977.9 |
+| 14 min | EUR | Low | German Car Registration (YoY) (Apr) |  |  | 16.0% |
+| 44 min | INR | Low | M3 Money Supply |  |  | 11.9% |
 | 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Feb) |  | -0.30% | -1.10% |
 | 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Feb) |  | -2.10% | -3.30% |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Apr) |  | 118K | 62K |
@@ -61,5 +61,4 @@
 | 18:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 9.184B |
 | 21:15 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
-| 21:20 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 22:00 | KRW | Low | FX Reserves - USD (Apr) |  |  | 423.66B |
