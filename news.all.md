@@ -29,11 +29,11 @@
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (Apr) | 52.6 | 52.0 | 50.3 |
 | 09:30 | GBP | Moderate | S&P Global Services PMI (Apr) | 52.7 | 52.0 | 50.5 |
 | 09:30 | HKD | Low | Retail Sales (YoY) (Mar) | 12.8% |  | 19.3% |
-| 3 min | NOK | Low | House Price Index (YoY) (Apr) |  |  | 3.00% |
-| 3 min | EUR | Low | PPI (MoM) (Mar) |  | 3.3% | -0.7% |
-| 3 min | EUR | Low | PPI (YoY) (Mar) |  | 1.8% | -3.0% |
-| 48 min | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 11:00 | EUR | Low | German Car Registration (YoY) (Apr) |  |  | 16.0% |
+| 10:00 | NOK | Low | House Price Index (YoY) (Apr) | 3.80% |  | 3.00% |
+| 10:00 | EUR | Low | PPI (MoM) (Mar) | 3.4% | 3.3% | -0.6% |
+| 10:00 | EUR | Low | PPI (YoY) (Mar) | 2.1% | 1.8% | -3.0% |
+| 10:45 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
+| 5 min | EUR | Low | German Car Registration (YoY) (Apr) |  |  | 16.0% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.37% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -1.6% |
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 177.7 |

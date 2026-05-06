@@ -18,10 +18,10 @@
 | 09:00 | EUR | Italian Retail Sales (MoM) (Mar) | 0.8% | -0.4% | -0.1% |
 | 09:00 | EUR | Italian Retail Sales (YoY) (Mar) | 3.7% |  | 1.6% |
 | 09:30 | HKD | Retail Sales (YoY) (Mar) | 12.8% |  | 19.3% |
-| 3 min | NOK | House Price Index (YoY) (Apr) |  |  | 3.00% |
-| 3 min | EUR | PPI (MoM) (Mar) |  | 3.3% | -0.7% |
-| 3 min | EUR | PPI (YoY) (Mar) |  | 1.8% | -3.0% |
-| 11:00 | EUR | German Car Registration (YoY) (Apr) |  |  | 16.0% |
+| 10:00 | NOK | House Price Index (YoY) (Apr) | 3.80% |  | 3.00% |
+| 10:00 | EUR | PPI (MoM) (Mar) | 3.4% | 3.3% | -0.6% |
+| 10:00 | EUR | PPI (YoY) (Mar) | 2.1% | 1.8% | -3.0% |
+| 5 min | EUR | German Car Registration (YoY) (Apr) |  |  | 16.0% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.37% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -1.6% |
 | 12:00 | USD | MBA Purchase Index |  |  | 177.7 |

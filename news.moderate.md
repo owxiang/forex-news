@@ -13,7 +13,7 @@
 | 09:00 | EUR | HCOB Eurozone Services PMI (Apr) | 47.6 | 47.4 | 50.2 |
 | 09:30 | GBP | S&P Global Composite PMI (Apr) | 52.6 | 52.0 | 50.3 |
 | 09:30 | GBP | S&P Global Services PMI (Apr) | 52.7 | 52.0 | 50.5 |
-| 48 min | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 10:45 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 15:00 | CAD | Ivey PMI (Apr) |  | 49.9 | 49.7 |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.796M |
 | 16:30 | EUR | ECB's Lane Speaks |  |  |  |
