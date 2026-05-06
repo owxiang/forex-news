@@ -41,4 +41,4 @@
 | 15:30 | USD | Gasoline Inventories | -2.504M | -1.700M | -6.075M |
 | 18:00 | USD | Fed Goolsbee Speaks |  |  |  |
 | 18:30 | BRL | Foreign Exchange Flows | 3.307B |  | 9.184B |
-| 24 min | KRW | FX Reserves - USD (Apr) |  |  | 423.66B |
+| 22:00 | KRW | FX Reserves - USD (Apr) | 427.88B |  | 423.66B |
