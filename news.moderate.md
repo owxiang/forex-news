@@ -5,10 +5,10 @@
 | 00:50 | JPY | Monetary Policy Meeting Minutes |  |  |  |
 | 02:30 | AUD | Trade Balance (Mar) | -1.841B | 4.380B | 5.026B |
 | 07:00 | EUR | German Factory Orders (MoM) (Mar) | 5.0% | 1.0% | 1.4% |
-| 5 min | EUR | ECB's De Guindos Speaks |  |  |  |
-| 50 min | NOK | Interest Rate Decision |  | 4.00% | 4.00% |
-| 50 min | EUR | ECB's Lane Speaks |  |  |  |
-| 09:30 | GBP | S&P Global Construction PMI (Apr) |  | 45.8 | 45.6 |
+| 08:15 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 09:00 | NOK | Interest Rate Decision | 4.25% | 4.00% | 4.00% |
+| 09:00 | EUR | ECB's Lane Speaks |  |  |  |
+| 09:30 | GBP | S&P Global Construction PMI (Apr) | 39.7 | 45.8 | 45.6 |
 | 13:00 | MXN | CPI (YoY) (Apr) |  | 4.50% | 4.59% |
 | 13:00 | MXN | CPI (MoM) (Apr) |  | 0.25% | 0.86% |
 | 13:00 | BRL | Industrial Production (YoY) (Mar) |  | 3.5% | -0.7% |

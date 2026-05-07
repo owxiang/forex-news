@@ -15,22 +15,23 @@
 | 08:00 | CHF | Low | Foreign Reserves (USD) (Apr) | 715.7B |  | 721.0B |
 | 08:00 | CHF | Low | Unemployment Rate n.s.a. (Apr) | 3.0% |  | 3.1% |
 | 08:00 | CHF | Low | Unemployment Rate s.a. (Apr) | 3.0% | 3.0% | 3.0% |
-| 5 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 20 min | EUR | Low | HCOB Italy Construction PMI (MoM) (Apr) |  |  | 46.8 |
-| 20 min | EUR | Low | HCOB Germany Construction PMI (Apr) |  |  | 48.0 |
-| 20 min | EUR | Low | HCOB France Construction PMI (MoM) (Apr) |  |  | 38.4 |
-| 20 min | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Apr) |  |  | 44.6 |
-| 50 min | CNY | Low | FX Reserves (USD) (Apr) |  |  | 3.342T |
-| 50 min | NOK | Moderate | Interest Rate Decision |  | 4.00% | 4.00% |
-| 50 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 09:30 | GBP | Moderate | S&P Global Construction PMI (Apr) |  | 45.8 | 45.6 |
-| 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.435% |
-| 09:40 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.734% |
-| 09:50 | EUR | Low | French 10-Year OAT Auction |  |  | 3.73% |
-| 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Apr) |  |  | 419.2B |
-| 10:00 | EUR | Low | Retail Sales (MoM) (Mar) |  | -0.3% | -0.2% |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Mar) |  | 1.0% | 1.7% |
-| 11:00 | CAD | Low | Leading Index (MoM) (Apr) |  |  | 0.07% |
+| 08:15 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Apr) | 44.8 |  | 46.8 |
+| 08:30 | EUR | Low | HCOB Germany Construction PMI (Apr) | 42.1 |  | 48.0 |
+| 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Apr) | 38.1 |  | 38.4 |
+| 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Apr) | 41.7 |  | 44.6 |
+| 09:00 | CNY | Low | FX Reserves (USD) (Apr) | 3.411T |  | 3.342T |
+| 09:00 | NOK | Moderate | Interest Rate Decision | 4.25% | 4.00% | 4.00% |
+| 09:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 09:30 | GBP | Moderate | S&P Global Construction PMI (Apr) | 39.7 | 45.8 | 45.6 |
+| 09:30 | HKD | Low | Foreign Reserves (USD) (Apr) | 442.10B |  | 430.80B |
+| 09:50 | EUR | Low | French 10-Year OAT Auction | 3.61% |  | 3.73% |
+| 10:00 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.435% |
+| 10:00 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.734% |
+| 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Apr) | 427.3B |  | 419.2B |
+| 10:00 | EUR | Low | Retail Sales (MoM) (Mar) | -0.1% | -0.3% | -0.3% |
+| 10:00 | EUR | Low | Retail Sales (YoY) (Mar) | 1.2% | 1.0% | 1.3% |
+| 57 min | CAD | Low | Leading Index (MoM) (Apr) |  |  | 0.07% |
 | 12:30 | USD | Low | Challenger Job Cuts (Apr) |  |  | 60.620K |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | -78.0% |
 | 13:00 | MXN | Low | Core CPI (MoM) (Apr) |  | 0.31% | 0.38% |
