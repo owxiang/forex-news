@@ -34,8 +34,8 @@
 | 13:00 | MXN | PPI (YoY) (Apr) | 2.60% |  | 2.80% |
 | 13:00 | BRL | Industrial Production (MoM) (Mar) | 0.1% | -0.2% | 0.9% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 203.25K |  | 207.75K |
-| 50 min | USD | Natural Gas Storage |  | 72B | 79B |
-| 16:30 | USD | 4-Week Bill Auction |  |  | 3.600% |
-| 16:30 | USD | 8-Week Bill Auction |  |  | 3.620% |
+| 15:30 | USD | Natural Gas Storage | 63B | 72B | 79B |
+| 29 min | USD | 4-Week Bill Auction |  |  | 3.600% |
+| 29 min | USD | 8-Week Bill Auction |  |  | 3.620% |
 | 19:00 | BRL | Trade Balance (Apr) |  | 10.90B | 6.41B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.919T |

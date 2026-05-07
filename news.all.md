@@ -50,12 +50,13 @@
 | 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q1) | 0.8% | 0.7% | 1.6% |
 | 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q1) | 2.3% | 2.6% | 4.6% |
 | 13:40 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 20 min | USD | Moderate | Construction Spending (MoM) (Mar) |  | 0.3% | -0.3% |
-| 50 min | USD | Low | Natural Gas Storage |  | 72B | 79B |
+| 14:59 | USD | Moderate | Construction Spending (MoM) (Feb) | -0.2% |  | -1.9% |
+| 15:00 | USD | Moderate | Construction Spending (MoM) (Mar) | 0.6% | 0.3% | -1.9% |
+| 15:30 | USD | Low | Natural Gas Storage | 63B | 72B | 79B |
 | 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Apr) |  |  | 3.4% |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.600% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.620% |
-| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 3.7% | 3.7% |
+| 29 min | USD | Low | 4-Week Bill Auction |  |  | 3.600% |
+| 29 min | USD | Low | 8-Week Bill Auction |  |  | 3.620% |
+| 29 min | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 3.7% | 3.7% |
 | 18:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 19:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 19:00 | BRL | Low | Trade Balance (Apr) |  | 10.90B | 6.41B |
