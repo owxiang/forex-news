@@ -26,4 +26,4 @@
 | 20:00 | USD | Consumer Credit (Mar) | 24.86B | 12.50B | 8.85B |
 | 20:00 | MXN | Interest Rate Decision (May) | 6.50% | 6.50% | 6.75% |
 | 20:30 | USD | FOMC Member Williams Speaks |  |  |  |
-| 55 min | USD | Fed's Balance Sheet |  |  | 6,700B |
+| 21:30 | USD | Fed's Balance Sheet | 6,710B |  | 6,700B |

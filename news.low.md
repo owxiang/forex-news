@@ -37,5 +37,5 @@
 | 15:30 | USD | Natural Gas Storage | 63B | 72B | 79B |
 | 16:30 | USD | 4-Week Bill Auction | 3.610% |  | 3.600% |
 | 16:30 | USD | 8-Week Bill Auction | 3.595% |  | 3.620% |
-| 19:00 | BRL | Trade Balance (Apr) | 10.54B | 10.90B | 6.41B |
-| 55 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.919T |
+| 19:00 | BRL | Trade Balance (Apr) | 10.54B | 10.90B | 6.50B |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.051T |  | 2.919T |
