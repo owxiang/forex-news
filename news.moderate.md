@@ -1,29 +1,39 @@
-## 07 May 2026 - Moderate Impact Forex News
+## 08 May 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Monetary Policy Meeting Minutes |  |  |  |
-| 02:30 | AUD | Trade Balance (Mar) | -1.841B | 4.380B | 5.026B |
-| 07:00 | EUR | German Factory Orders (MoM) (Mar) | 5.0% | 1.0% | 1.4% |
-| 08:15 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 09:00 | NOK | Interest Rate Decision | 4.25% | 4.00% | 4.00% |
-| 09:00 | EUR | ECB's Lane Speaks |  |  |  |
-| 09:30 | GBP | S&P Global Construction PMI (Apr) | 39.7 | 45.8 | 45.6 |
-| 13:00 | MXN | CPI (YoY) (Apr) | 4.45% | 4.50% | 4.59% |
-| 13:00 | MXN | CPI (MoM) (Apr) | 0.20% | 0.25% | 0.86% |
-| 13:00 | BRL | Industrial Production (YoY) (Mar) | 4.3% | 3.5% | -0.7% |
-| 13:00 | EUR | ECB's Elderson Speaks |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims | 1,766K | 1,800K | 1,776K |
-| 13:30 | USD | Nonfarm Productivity (QoQ) (Q1) | 0.8% | 0.7% | 1.6% |
-| 13:30 | USD | Unit Labor Costs (QoQ) (Q1) | 2.3% | 2.6% | 4.6% |
-| 13:40 | EUR | ECB's Lane Speaks |  |  |  |
-| 14:59 | USD | Construction Spending (MoM) (Feb) | -0.2% |  | -1.9% |
-| 15:00 | USD | Construction Spending (MoM) (Mar) | 0.6% | 0.3% | -1.9% |
-| 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Apr) | 3.6% |  | 3.4% |
-| 17:10 | USD | Atlanta Fed GDPNow (Q2) | 3.7% | 3.7% | 3.7% |
-| 18:00 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 19:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
-| 20:00 | USD | Consumer Credit (Mar) | 24.86B | 12.50B | 8.85B |
-| 20:00 | MXN | Interest Rate Decision (May) | 6.50% | 6.50% | 6.75% |
-| 20:30 | USD | FOMC Member Williams Speaks |  |  |  |
-| 21:30 | USD | Fed's Balance Sheet | 6,710B |  | 6,700B |
+| 01:30 | JPY | S&P Global Services PMI (Apr) |  | 51.2 | 53.4 |
+| 07:00 | GBP | Halifax House Price Index (MoM) (Apr) |  | 0.0% | -0.5% |
+| 07:00 | GBP | Halifax House Price Index (YoY) (Apr) |  |  | 0.8% |
+| 07:00 | EUR | German Industrial Production (MoM) (Mar) |  | 0.4% | -0.3% |
+| 07:00 | EUR | German Trade Balance (Mar) |  | 17.8B | 19.8B |
+| 08:00 | CHF | SECO Consumer Climate (Q2) |  | -46 | -30 |
+| 08:00 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 08:05 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 10:00 | GBP | Mortgage Rate (GBP) (Apr) |  |  | 6.60% |
+| 12:30 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 13:20 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Apr) |  | 3.8% | 3.5% |
+| 13:30 | USD | Participation Rate (Apr) |  |  | 61.9% |
+| 13:30 | USD | Private Nonfarm Payrolls (Apr) |  | 73K | 186K |
+| 13:30 | USD | U6 Unemployment Rate (Apr) |  |  | 8.0% |
+| 13:30 | CAD | Employment Change (Apr) |  | 12.9K | 14.1K |
+| 13:30 | CAD | Unemployment Rate (Apr) |  | 6.7% | 6.7% |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (May) |  |  | 4.7% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (May) |  |  | 3.5% |
+| 15:00 | USD | Michigan Consumer Expectations (May) |  |  | 48.1 |
+| 15:00 | USD | Michigan Consumer Sentiment (May) |  | 49.7 | 49.8 |
+| 16:30 | USD | Atlanta Fed GDPNow (Q2) |  | 3.7% | 3.7% |
+| 17:00 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 17:15 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 408 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 547 |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | -60.6K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 191.9K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 159.6K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | -2.3K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -101.4K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | 71.9K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 46.4K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | -102.1K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 35.7K |

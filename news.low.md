@@ -1,41 +1,46 @@
-## 07 May 2026 - Low Impact Forex News
+## 08 May 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Monetary Base (YoY) (Apr) | -11.3% | -10.5% | -11.6% |
-| 02:30 | AUD | Exports (MoM) (Mar) | -2.7% |  | 4.2% |
-| 02:30 | AUD | Imports (MoM) (Mar) | 14.1% |  | -2.7% |
-| 07:45 | EUR | French Current Account (Mar) | -8.20B |  | -1.50B |
-| 07:45 | EUR | French Exports (Mar) | 52.5B |  | 52.0B |
-| 07:45 | EUR | French Imports (Mar) | 59.3B |  | 57.5B |
-| 07:45 | EUR | French Trade Balance (Mar) | -6.9B | -6.7B | -5.5B |
-| 08:00 | CHF | Foreign Reserves (USD) (Apr) | 715.7B |  | 721.0B |
-| 08:00 | CHF | Unemployment Rate n.s.a. (Apr) | 3.0% |  | 3.1% |
-| 08:00 | CHF | Unemployment Rate s.a. (Apr) | 3.0% | 3.0% | 3.0% |
-| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Apr) | 44.8 |  | 46.8 |
-| 08:30 | EUR | HCOB Germany Construction PMI (Apr) | 42.1 |  | 48.0 |
-| 08:30 | EUR | HCOB France Construction PMI (MoM) (Apr) | 38.1 |  | 38.4 |
-| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Apr) | 41.7 |  | 44.6 |
-| 09:00 | CNY | FX Reserves (USD) (Apr) | 3.411T |  | 3.342T |
-| 09:30 | HKD | Foreign Reserves (USD) (Apr) | 442.10B |  | 430.80B |
-| 09:50 | EUR | French 10-Year OAT Auction | 3.61% |  | 3.73% |
-| 10:00 | SGD | Foreign Reserves USD (MoM) (Apr) | 427.3B |  | 419.2B |
-| 10:00 | EUR | Retail Sales (MoM) (Mar) | -0.1% | -0.3% | -0.3% |
-| 10:00 | EUR | Retail Sales (YoY) (Mar) | 1.2% | 1.0% | 1.3% |
-| 10:10 | EUR | Spanish 10-Year Obligacion Auction | 3.392% |  | 3.435% |
-| 10:10 | EUR | Spanish 3-Year Bonos Auction | 2.675% |  | 2.734% |
-| 10:30 | USD | Challenger Job Cuts (YoY) | -20.9% |  | -78.0% |
-| 10:30 | USD | Challenger Job Cuts (Apr) | 83.387K |  | 60.620K |
-| 11:00 | CAD | Leading Index (MoM) (Apr) | 0.06% |  | 0.09% |
-| 11:00 | EUR | German Car Registration (YoY) (Apr) | 2.7% |  | 16.0% |
-| 13:00 | MXN | Core CPI (MoM) (Apr) | 0.31% | 0.31% | 0.38% |
-| 13:00 | MXN | Month Core Inflation (YoY) (Apr) | 4.26% | 4.27% | 4.45% |
-| 13:00 | MXN | PPI (MoM) (Apr) | 0.00% |  | 1.70% |
-| 13:00 | MXN | PPI (YoY) (Apr) | 2.60% |  | 2.80% |
-| 13:00 | BRL | Industrial Production (MoM) (Mar) | 0.1% | -0.2% | 0.9% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. | 203.25K |  | 207.75K |
-| 15:30 | USD | Natural Gas Storage | 63B | 72B | 79B |
-| 16:30 | USD | 4-Week Bill Auction | 3.610% |  | 3.600% |
-| 16:30 | USD | 8-Week Bill Auction | 3.595% |  | 3.620% |
-| 19:00 | BRL | Trade Balance (Apr) | 10.54B | 10.90B | 6.50B |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.051T |  | 2.919T |
+| 00:00 | KRW | Current Account (Mar) | 37.33B |  | 23.19B |
+| 7 min | JPY | Overall wage income of employees (Mar) |  | 3.2% | 3.3% |
+| 7 min | JPY | Overtime Pay (YoY) (Mar) |  |  | 3.30% |
+| 01:30 | JPY | Manufacturing & Services PMI (Apr) |  | 52.40 | 53.00 |
+| 04:00 | IDR | FX Reserves (USD) (Apr) |  |  | 148.20B |
+| 07:00 | EUR | German Exports (MoM) (Mar) |  | -1.9% | 3.6% |
+| 07:00 | EUR | German Imports (MoM) (Mar) |  |  | 4.7% |
+| 07:00 | EUR | German Industrial Production (YoY) (Mar) |  |  | 0.00% |
+| 07:00 | IDR | Car Sales (YoY) (Apr) |  |  | -13.80% |
+| 07:00 | NOK | Manufacturing Production (MoM) (Mar) |  |  | -0.4% |
+| 07:00 | ZAR | Foreign Reserves (USD) (Apr) |  |  | 77.76B |
+| 07:00 | ZAR | Net FX Reserves (USD) (Apr) |  |  | 73.187B |
+| 08:00 | EUR | Spanish Industrial Production (YoY) (Mar) |  |  | -1.1% |
+| 09:30 | HKD | Foreign Reserves (USD) (Apr) |  |  | 430.80B |
+| 10:45 | USD | Fed Governor Cook Speaks |  |  |  |
+| 12:00 | BRL | IGP-DI Inflation Index (MoM) (Apr) |  |  | 1.14% |
+| 12:30 | INR | FX Reserves, USD |  |  | 698.49B |
+| 13:00 | MXN | Consumer Confidence (Apr) |  |  | 44.1 |
+| 13:00 | MXN | Consumer Confidence n.s.a. (Apr) |  |  | 44.1 |
+| 13:30 | USD | Average Weekly Hours (Apr) |  |  | 34.2 |
+| 13:30 | USD | Government Payrolls (Apr) |  |  | -8.0K |
+| 13:30 | USD | Manufacturing Payrolls (Apr) |  | 5K | 15K |
+| 13:30 | CAD | Avg hourly wages Permanent employee (Apr) |  |  | 5.1% |
+| 13:30 | CAD | Full Employment Change (Apr) |  |  | -1.1K |
+| 13:30 | CAD | Part Time Employment Change (Apr) |  |  | 15.2K |
+| 13:30 | CAD | Participation Rate (Apr) |  |  | 64.9% |
+| 14:00 | BRL | Auto Production (MoM) (Apr) |  |  | 27.6% |
+| 14:00 | BRL | Auto Sales (MoM) (Apr) |  |  | 45.5% |
+| 15:00 | USD | Michigan Current Conditions (May) |  |  | 52.5 |
+| 15:00 | USD | Wholesale Inventories (MoM) (Mar) |  | 1.4% | 0.8% |
+| 15:00 | USD | Wholesale Trade Sales (MoM) (Mar) |  |  | 2.7% |
+| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -0.0K |
+| 20:30 | USD | CFTC Copper speculative net positions |  |  | 63.3K |
+| 20:30 | USD | CFTC Corn speculative net positions |  |  | 340.7K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -166.3K |
+| 20:30 | USD | CFTC Silver speculative net positions |  |  | 24.2K |
+| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 193.9K |
+| 20:30 | USD | CFTC Wheat speculative net positions |  |  | 0.9K |
+| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -38.5K |
+| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 67.8K |
+| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -35.2K |
+| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -46.3K |
