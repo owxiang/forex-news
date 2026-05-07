@@ -4,9 +4,9 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:50 | JPY | Low | Monetary Base (YoY) (Apr) | -11.3% | -10.5% | -11.6% |
 | 00:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
-| 34 min | AUD | Low | Exports (MoM) (Mar) |  |  | 4.9% |
-| 34 min | AUD | Low | Imports (MoM) (Mar) |  |  | -3.2% |
-| 34 min | AUD | Moderate | Trade Balance (Mar) |  | 4.380B | 5.686B |
+| 02:30 | AUD | Low | Exports (MoM) (Mar) | -2.7% |  | 4.2% |
+| 02:30 | AUD | Low | Imports (MoM) (Mar) | 14.1% |  | -2.7% |
+| 02:30 | AUD | Moderate | Trade Balance (Mar) | -1.841B | 4.250B | 5.026B |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Mar) |  | 1.0% | 0.9% |
 | 07:45 | EUR | Low | French Current Account (Mar) |  |  | -1.80B |
 | 07:45 | EUR | Low | French Exports (Mar) |  |  | 52.0B |

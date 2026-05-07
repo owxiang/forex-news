@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Monetary Policy Meeting Minutes |  |  |  |
-| 34 min | AUD | Trade Balance (Mar) |  | 4.380B | 5.686B |
+| 02:30 | AUD | Trade Balance (Mar) | -1.841B | 4.250B | 5.026B |
 | 07:00 | EUR | German Factory Orders (MoM) (Mar) |  | 1.0% | 0.9% |
 | 08:15 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 09:00 | NOK | Interest Rate Decision |  | 4.00% | 4.00% |
