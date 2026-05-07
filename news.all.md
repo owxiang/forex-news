@@ -53,11 +53,11 @@
 | 14:59 | USD | Moderate | Construction Spending (MoM) (Feb) | -0.2% |  | -1.9% |
 | 15:00 | USD | Moderate | Construction Spending (MoM) (Mar) | 0.6% | 0.3% | -1.9% |
 | 15:30 | USD | Low | Natural Gas Storage | 63B | 72B | 79B |
-| 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Apr) |  |  | 3.4% |
-| 29 min | USD | Low | 4-Week Bill Auction |  |  | 3.600% |
-| 29 min | USD | Low | 8-Week Bill Auction |  |  | 3.620% |
-| 29 min | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 3.7% | 3.7% |
-| 18:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Apr) | 3.6% |  | 3.4% |
+| 16:30 | USD | Low | 4-Week Bill Auction | 3.610% |  | 3.600% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 3.595% |  | 3.620% |
+| 17:10 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 3.7% | 3.7% | 3.7% |
+| 20 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 19:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 19:00 | BRL | Low | Trade Balance (Apr) |  | 10.90B | 6.41B |
 | 20:00 | USD | Moderate | Consumer Credit (Mar) |  | 12.50B | 9.48B |

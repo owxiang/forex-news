@@ -19,9 +19,9 @@
 | 13:40 | EUR | ECB's Lane Speaks |  |  |  |
 | 14:59 | USD | Construction Spending (MoM) (Feb) | -0.2% |  | -1.9% |
 | 15:00 | USD | Construction Spending (MoM) (Mar) | 0.6% | 0.3% | -1.9% |
-| 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Apr) |  |  | 3.4% |
-| 29 min | USD | Atlanta Fed GDPNow (Q2) |  | 3.7% | 3.7% |
-| 18:00 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Apr) | 3.6% |  | 3.4% |
+| 17:10 | USD | Atlanta Fed GDPNow (Q2) | 3.7% | 3.7% | 3.7% |
+| 20 min | EUR | ECB's Schnabel Speaks |  |  |  |
 | 19:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
 | 20:00 | USD | Consumer Credit (Mar) |  | 12.50B | 9.48B |
 | 20:00 | MXN | Interest Rate Decision (May) |  | 6.50% | 6.75% |
