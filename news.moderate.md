@@ -17,7 +17,7 @@
 | 13:30 | USD | Nonfarm Productivity (QoQ) (Q1) | 0.8% | 0.7% | 1.6% |
 | 13:30 | USD | Unit Labor Costs (QoQ) (Q1) | 2.3% | 2.6% | 4.6% |
 | 13:40 | EUR | ECB's Lane Speaks |  |  |  |
-| 15:00 | USD | Construction Spending (MoM) (Mar) |  | 0.3% | -0.3% |
+| 20 min | USD | Construction Spending (MoM) (Mar) |  | 0.3% | -0.3% |
 | 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Apr) |  |  | 3.4% |
 | 16:30 | USD | Atlanta Fed GDPNow (Q2) |  | 3.7% | 3.7% |
 | 18:00 | EUR | ECB's Schnabel Speaks |  |  |  |

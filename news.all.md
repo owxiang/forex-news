@@ -50,8 +50,8 @@
 | 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q1) | 0.8% | 0.7% | 1.6% |
 | 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q1) | 2.3% | 2.6% | 4.6% |
 | 13:40 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 15:00 | USD | Moderate | Construction Spending (MoM) (Mar) |  | 0.3% | -0.3% |
-| 15:30 | USD | Low | Natural Gas Storage |  | 72B | 79B |
+| 20 min | USD | Moderate | Construction Spending (MoM) (Mar) |  | 0.3% | -0.3% |
+| 50 min | USD | Low | Natural Gas Storage |  | 72B | 79B |
 | 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Apr) |  |  | 3.4% |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.600% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.620% |
