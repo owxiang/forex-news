@@ -5,20 +5,18 @@
 | 00:50 | JPY | Monetary Base (YoY) (Apr) | -11.3% | -10.5% | -11.6% |
 | 02:30 | AUD | Exports (MoM) (Mar) | -2.7% |  | 4.2% |
 | 02:30 | AUD | Imports (MoM) (Mar) | 14.1% |  | -2.7% |
-| 07:45 | EUR | French Current Account (Mar) |  |  | -1.80B |
-| 07:45 | EUR | French Exports (Mar) |  |  | 52.0B |
-| 07:45 | EUR | French Imports (Mar) |  |  | 57.8B |
-| 07:45 | EUR | French Non-Farm Payrolls (QoQ) (Q2) |  |  | -0.1% |
-| 07:45 | EUR | French Trade Balance (Mar) |  | -6.7B | -5.8B |
-| 07:45 | HKD | Foreign Reserves (USD) (Apr) |  |  | 430.80B |
-| 08:00 | CHF | Foreign Reserves (USD) (Apr) |  |  | 721,218.0B |
-| 08:00 | CHF | Unemployment Rate n.s.a. (Apr) |  |  | 3.1% |
-| 08:00 | CHF | Unemployment Rate s.a. (Apr) |  | 3.0% | 3.0% |
-| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Apr) |  |  | 46.8 |
-| 08:30 | EUR | HCOB Germany Construction PMI (Apr) |  |  | 48.0 |
-| 08:30 | EUR | HCOB France Construction PMI (MoM) (Apr) |  |  | 38.4 |
-| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Apr) |  |  | 44.6 |
-| 09:00 | CNY | FX Reserves (USD) (Apr) |  |  | 3.342T |
+| 07:45 | EUR | French Current Account (Mar) | -8.20B |  | -1.50B |
+| 07:45 | EUR | French Exports (Mar) | 52.5B |  | 52.0B |
+| 07:45 | EUR | French Imports (Mar) | 59.3B |  | 57.5B |
+| 07:45 | EUR | French Trade Balance (Mar) | -6.9B | -6.7B | -5.5B |
+| 08:00 | CHF | Foreign Reserves (USD) (Apr) | 715.7B |  | 721.0B |
+| 08:00 | CHF | Unemployment Rate n.s.a. (Apr) | 3.0% |  | 3.1% |
+| 08:00 | CHF | Unemployment Rate s.a. (Apr) | 3.0% | 3.0% | 3.0% |
+| 20 min | EUR | HCOB Italy Construction PMI (MoM) (Apr) |  |  | 46.8 |
+| 20 min | EUR | HCOB Germany Construction PMI (Apr) |  |  | 48.0 |
+| 20 min | EUR | HCOB France Construction PMI (MoM) (Apr) |  |  | 38.4 |
+| 20 min | EUR | HCOB Eurozone Construction PMI (MoM) (Apr) |  |  | 44.6 |
+| 50 min | CNY | FX Reserves (USD) (Apr) |  |  | 3.342T |
 | 09:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.435% |
 | 09:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 2.734% |
 | 09:50 | EUR | French 10-Year OAT Auction |  |  | 3.73% |
@@ -26,8 +24,8 @@
 | 10:00 | EUR | Retail Sales (MoM) (Mar) |  | -0.3% | -0.2% |
 | 10:00 | EUR | Retail Sales (YoY) (Mar) |  | 1.0% | 1.7% |
 | 11:00 | CAD | Leading Index (MoM) (Apr) |  |  | 0.07% |
-| 12:30 | USD | Challenger Job Cuts (YoY) |  |  | -78.0% |
 | 12:30 | USD | Challenger Job Cuts (Apr) |  |  | 60.620K |
+| 12:30 | USD | Challenger Job Cuts (YoY) |  |  | -78.0% |
 | 13:00 | MXN | Core CPI (MoM) (Apr) |  | 0.31% | 0.38% |
 | 13:00 | MXN | Month Core Inflation (YoY) (Apr) |  | 4.27% | 4.45% |
 | 13:00 | MXN | PPI (MoM) (Apr) |  |  | 1.70% |
