@@ -33,22 +33,22 @@
 | 10:10 | EUR | Low | Spanish 3-Year Bonos Auction | 2.675% |  | 2.734% |
 | 10:30 | USD | Low | Challenger Job Cuts (YoY) | -20.9% |  | -78.0% |
 | 10:30 | USD | Low | Challenger Job Cuts (Apr) | 83.387K |  | 60.620K |
+| 11:00 | CAD | Low | Leading Index (MoM) (Apr) | 0.06% |  | 0.09% |
 | 11:00 | EUR | Low | German Car Registration (YoY) (Apr) | 2.7% |  | 16.0% |
-| 22 min | CAD | Low | Leading Index (MoM) (Apr) |  |  | 0.07% |
-| 22 min | MXN | Low | Core CPI (MoM) (Apr) |  | 0.31% | 0.38% |
-| 22 min | MXN | Moderate | CPI (YoY) (Apr) |  | 4.50% | 4.59% |
-| 22 min | MXN | Moderate | CPI (MoM) (Apr) |  | 0.25% | 0.86% |
-| 22 min | MXN | Low | Month Core Inflation (YoY) (Apr) |  | 4.27% | 4.45% |
-| 22 min | MXN | Low | PPI (MoM) (Apr) |  |  | 1.70% |
-| 22 min | MXN | Low | PPI (YoY) (Apr) |  |  | 2.80% |
-| 22 min | BRL | Low | Industrial Production (MoM) (Mar) |  | -0.2% | 0.9% |
-| 22 min | BRL | Moderate | Industrial Production (YoY) (Mar) |  | 3.5% | -0.7% |
-| 22 min | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 52 min | USD | Moderate | Continuing Jobless Claims |  | 1,800K | 1,785K |
-| 52 min | USD | High | Initial Jobless Claims |  | 205K | 189K |
-| 52 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 207.50K |
-| 52 min | USD | Moderate | Nonfarm Productivity (QoQ) (Q1) |  | 0.7% | 1.8% |
-| 52 min | USD | Moderate | Unit Labor Costs (QoQ) (Q1) |  | 2.6% | 4.4% |
+| 13:00 | MXN | Low | Core CPI (MoM) (Apr) | 0.31% | 0.31% | 0.38% |
+| 13:00 | MXN | Moderate | CPI (YoY) (Apr) | 4.45% | 4.50% | 4.59% |
+| 13:00 | MXN | Moderate | CPI (MoM) (Apr) | 0.20% | 0.25% | 0.86% |
+| 13:00 | MXN | Low | Month Core Inflation (YoY) (Apr) | 4.26% | 4.27% | 4.45% |
+| 13:00 | MXN | Low | PPI (MoM) (Apr) | 0.00% |  | 1.70% |
+| 13:00 | MXN | Low | PPI (YoY) (Apr) | 2.60% |  | 2.80% |
+| 13:00 | BRL | Low | Industrial Production (MoM) (Mar) | 0.1% | -0.2% | 0.9% |
+| 13:00 | BRL | Moderate | Industrial Production (YoY) (Mar) | 4.3% | 3.5% | -0.7% |
+| 13:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,766K | 1,800K | 1,776K |
+| 13:30 | USD | High | Initial Jobless Claims | 200K | 205K | 190K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 203.25K |  | 207.75K |
+| 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q1) | 0.8% | 0.7% | 1.6% |
+| 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q1) | 2.3% | 2.6% | 4.6% |
 | 13:40 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 15:00 | USD | Moderate | Construction Spending (MoM) (Mar) |  | 0.3% | -0.3% |
 | 15:30 | USD | Low | Natural Gas Storage |  | 72B | 79B |

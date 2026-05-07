@@ -26,14 +26,14 @@
 | 10:10 | EUR | Spanish 3-Year Bonos Auction | 2.675% |  | 2.734% |
 | 10:30 | USD | Challenger Job Cuts (YoY) | -20.9% |  | -78.0% |
 | 10:30 | USD | Challenger Job Cuts (Apr) | 83.387K |  | 60.620K |
+| 11:00 | CAD | Leading Index (MoM) (Apr) | 0.06% |  | 0.09% |
 | 11:00 | EUR | German Car Registration (YoY) (Apr) | 2.7% |  | 16.0% |
-| 22 min | CAD | Leading Index (MoM) (Apr) |  |  | 0.07% |
-| 22 min | MXN | Core CPI (MoM) (Apr) |  | 0.31% | 0.38% |
-| 22 min | MXN | Month Core Inflation (YoY) (Apr) |  | 4.27% | 4.45% |
-| 22 min | MXN | PPI (MoM) (Apr) |  |  | 1.70% |
-| 22 min | MXN | PPI (YoY) (Apr) |  |  | 2.80% |
-| 22 min | BRL | Industrial Production (MoM) (Mar) |  | -0.2% | 0.9% |
-| 52 min | USD | Jobless Claims 4-Week Avg. |  |  | 207.50K |
+| 13:00 | MXN | Core CPI (MoM) (Apr) | 0.31% | 0.31% | 0.38% |
+| 13:00 | MXN | Month Core Inflation (YoY) (Apr) | 4.26% | 4.27% | 4.45% |
+| 13:00 | MXN | PPI (MoM) (Apr) | 0.00% |  | 1.70% |
+| 13:00 | MXN | PPI (YoY) (Apr) | 2.60% |  | 2.80% |
+| 13:00 | BRL | Industrial Production (MoM) (Mar) | 0.1% | -0.2% | 0.9% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 203.25K |  | 207.75K |
 | 15:30 | USD | Natural Gas Storage |  | 72B | 79B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.600% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 3.620% |
