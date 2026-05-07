@@ -58,10 +58,10 @@
 | 16:30 | USD | Low | 8-Week Bill Auction | 3.595% |  | 3.620% |
 | 17:10 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 3.7% | 3.7% | 3.7% |
 | 18:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 22 min | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
-| 22 min | BRL | Low | Trade Balance (Apr) |  | 10.90B | 6.41B |
-| 20:00 | USD | Moderate | Consumer Credit (Mar) |  | 12.50B | 9.48B |
-| 20:00 | MXN | Moderate | Interest Rate Decision (May) |  | 6.50% | 6.75% |
-| 20:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 19:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
+| 19:00 | BRL | Low | Trade Balance (Apr) | 10.54B | 10.90B | 6.41B |
+| 18 min | USD | Moderate | Consumer Credit (Mar) |  | 12.50B | 9.48B |
+| 18 min | MXN | Moderate | Interest Rate Decision (May) |  | 6.50% | 6.75% |
+| 48 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,700B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.919T |
