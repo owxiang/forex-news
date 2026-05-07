@@ -9,13 +9,13 @@
 | 09:00 | NOK | Interest Rate Decision | 4.25% | 4.00% | 4.00% |
 | 09:00 | EUR | ECB's Lane Speaks |  |  |  |
 | 09:30 | GBP | S&P Global Construction PMI (Apr) | 39.7 | 45.8 | 45.6 |
-| 13:00 | MXN | CPI (YoY) (Apr) |  | 4.50% | 4.59% |
-| 13:00 | MXN | CPI (MoM) (Apr) |  | 0.25% | 0.86% |
-| 13:00 | BRL | Industrial Production (YoY) (Mar) |  | 3.5% | -0.7% |
-| 13:00 | EUR | ECB's Elderson Speaks |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims |  | 1,800K | 1,785K |
-| 13:30 | USD | Nonfarm Productivity (QoQ) (Q1) |  | 0.7% | 1.8% |
-| 13:30 | USD | Unit Labor Costs (QoQ) (Q1) |  | 2.6% | 4.4% |
+| 22 min | MXN | CPI (YoY) (Apr) |  | 4.50% | 4.59% |
+| 22 min | MXN | CPI (MoM) (Apr) |  | 0.25% | 0.86% |
+| 22 min | BRL | Industrial Production (YoY) (Mar) |  | 3.5% | -0.7% |
+| 22 min | EUR | ECB's Elderson Speaks |  |  |  |
+| 52 min | USD | Continuing Jobless Claims |  | 1,800K | 1,785K |
+| 52 min | USD | Nonfarm Productivity (QoQ) (Q1) |  | 0.7% | 1.8% |
+| 52 min | USD | Unit Labor Costs (QoQ) (Q1) |  | 2.6% | 4.4% |
 | 13:40 | EUR | ECB's Lane Speaks |  |  |  |
 | 15:00 | USD | Construction Spending (MoM) (Mar) |  | 0.3% | -0.3% |
 | 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Apr) |  |  | 3.4% |

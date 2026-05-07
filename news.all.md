@@ -33,21 +33,22 @@
 | 10:10 | EUR | Low | Spanish 3-Year Bonos Auction | 2.675% |  | 2.734% |
 | 10:30 | USD | Low | Challenger Job Cuts (YoY) | -20.9% |  | -78.0% |
 | 10:30 | USD | Low | Challenger Job Cuts (Apr) | 83.387K |  | 60.620K |
-| 13 min | CAD | Low | Leading Index (MoM) (Apr) |  |  | 0.07% |
-| 13:00 | MXN | Low | Core CPI (MoM) (Apr) |  | 0.31% | 0.38% |
-| 13:00 | MXN | Moderate | CPI (YoY) (Apr) |  | 4.50% | 4.59% |
-| 13:00 | MXN | Moderate | CPI (MoM) (Apr) |  | 0.25% | 0.86% |
-| 13:00 | MXN | Low | Month Core Inflation (YoY) (Apr) |  | 4.27% | 4.45% |
-| 13:00 | MXN | Low | PPI (MoM) (Apr) |  |  | 1.70% |
-| 13:00 | MXN | Low | PPI (YoY) (Apr) |  |  | 2.80% |
-| 13:00 | BRL | Low | Industrial Production (MoM) (Mar) |  | -0.2% | 0.9% |
-| 13:00 | BRL | Moderate | Industrial Production (YoY) (Mar) |  | 3.5% | -0.7% |
-| 13:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,800K | 1,785K |
-| 13:30 | USD | High | Initial Jobless Claims |  | 205K | 189K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 207.50K |
-| 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q1) |  | 0.7% | 1.8% |
-| 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q1) |  | 2.6% | 4.4% |
+| 11:00 | EUR | Low | German Car Registration (YoY) (Apr) | 2.7% |  | 16.0% |
+| 22 min | CAD | Low | Leading Index (MoM) (Apr) |  |  | 0.07% |
+| 22 min | MXN | Low | Core CPI (MoM) (Apr) |  | 0.31% | 0.38% |
+| 22 min | MXN | Moderate | CPI (YoY) (Apr) |  | 4.50% | 4.59% |
+| 22 min | MXN | Moderate | CPI (MoM) (Apr) |  | 0.25% | 0.86% |
+| 22 min | MXN | Low | Month Core Inflation (YoY) (Apr) |  | 4.27% | 4.45% |
+| 22 min | MXN | Low | PPI (MoM) (Apr) |  |  | 1.70% |
+| 22 min | MXN | Low | PPI (YoY) (Apr) |  |  | 2.80% |
+| 22 min | BRL | Low | Industrial Production (MoM) (Mar) |  | -0.2% | 0.9% |
+| 22 min | BRL | Moderate | Industrial Production (YoY) (Mar) |  | 3.5% | -0.7% |
+| 22 min | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 52 min | USD | Moderate | Continuing Jobless Claims |  | 1,800K | 1,785K |
+| 52 min | USD | High | Initial Jobless Claims |  | 205K | 189K |
+| 52 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 207.50K |
+| 52 min | USD | Moderate | Nonfarm Productivity (QoQ) (Q1) |  | 0.7% | 1.8% |
+| 52 min | USD | Moderate | Unit Labor Costs (QoQ) (Q1) |  | 2.6% | 4.4% |
 | 13:40 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 15:00 | USD | Moderate | Construction Spending (MoM) (Mar) |  | 0.3% | -0.3% |
 | 15:30 | USD | Low | Natural Gas Storage |  | 72B | 79B |
@@ -55,7 +56,6 @@
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.600% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.620% |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 3.7% | 3.7% |
-| 18:00 | EUR | Low | German Car Registration (YoY) (Apr) |  |  | 16.0% |
 | 18:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 19:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 19:00 | BRL | Low | Trade Balance (Apr) |  | 10.90B | 6.41B |
