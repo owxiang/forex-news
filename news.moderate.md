@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Monetary Policy Meeting Minutes |  |  |  |
-| 02:30 | AUD | Trade Balance (Mar) | -1.841B | 4.250B | 5.026B |
-| 07:00 | EUR | German Factory Orders (MoM) (Mar) |  | 1.0% | 0.9% |
+| 02:30 | AUD | Trade Balance (Mar) | -1.841B | 4.380B | 5.026B |
+| 46 min | EUR | German Factory Orders (MoM) (Mar) |  | 1.0% | 0.9% |
 | 08:15 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 09:00 | NOK | Interest Rate Decision |  | 4.00% | 4.00% |
 | 09:00 | EUR | ECB's Lane Speaks |  |  |  |
@@ -21,6 +21,7 @@
 | 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Apr) |  |  | 3.4% |
 | 16:30 | USD | Atlanta Fed GDPNow (Q2) |  | 3.7% | 3.7% |
 | 18:00 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 19:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
 | 20:00 | USD | Consumer Credit (Mar) |  | 12.50B | 9.48B |
 | 20:00 | MXN | Interest Rate Decision (May) |  | 6.50% | 6.75% |
 | 20:30 | USD | FOMC Member Williams Speaks |  |  |  |
