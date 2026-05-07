@@ -38,4 +38,4 @@
 | 16:30 | USD | 4-Week Bill Auction | 3.610% |  | 3.600% |
 | 16:30 | USD | 8-Week Bill Auction | 3.595% |  | 3.620% |
 | 19:00 | BRL | Trade Balance (Apr) | 10.54B | 10.90B | 6.41B |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.919T |
+| 55 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.919T |
