@@ -26,22 +26,22 @@
 | 09:30 | GBP | Moderate | S&P Global Construction PMI (Apr) | 39.7 | 45.8 | 45.6 |
 | 09:30 | HKD | Low | Foreign Reserves (USD) (Apr) | 442.10B |  | 430.80B |
 | 09:50 | EUR | Low | French 10-Year OAT Auction | 3.61% |  | 3.73% |
-| 10:00 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.435% |
-| 10:00 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.734% |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Apr) | 427.3B |  | 419.2B |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Mar) | -0.1% | -0.3% | -0.3% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (Mar) | 1.2% | 1.0% | 1.3% |
-| 57 min | CAD | Low | Leading Index (MoM) (Apr) |  |  | 0.07% |
-| 12:30 | USD | Low | Challenger Job Cuts (Apr) |  |  | 60.620K |
-| 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | -78.0% |
+| 10:10 | EUR | Low | Spanish 10-Year Obligacion Auction | 3.392% |  | 3.435% |
+| 10:10 | EUR | Low | Spanish 3-Year Bonos Auction | 2.675% |  | 2.734% |
+| 10:30 | USD | Low | Challenger Job Cuts (YoY) | -20.9% |  | -78.0% |
+| 10:30 | USD | Low | Challenger Job Cuts (Apr) | 83.387K |  | 60.620K |
+| 13 min | CAD | Low | Leading Index (MoM) (Apr) |  |  | 0.07% |
 | 13:00 | MXN | Low | Core CPI (MoM) (Apr) |  | 0.31% | 0.38% |
 | 13:00 | MXN | Moderate | CPI (YoY) (Apr) |  | 4.50% | 4.59% |
 | 13:00 | MXN | Moderate | CPI (MoM) (Apr) |  | 0.25% | 0.86% |
 | 13:00 | MXN | Low | Month Core Inflation (YoY) (Apr) |  | 4.27% | 4.45% |
 | 13:00 | MXN | Low | PPI (MoM) (Apr) |  |  | 1.70% |
 | 13:00 | MXN | Low | PPI (YoY) (Apr) |  |  | 2.80% |
-| 13:00 | BRL | Moderate | Industrial Production (YoY) (Mar) |  | 3.5% | -0.7% |
 | 13:00 | BRL | Low | Industrial Production (MoM) (Mar) |  | -0.2% | 0.9% |
+| 13:00 | BRL | Moderate | Industrial Production (YoY) (Mar) |  | 3.5% | -0.7% |
 | 13:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,800K | 1,785K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 205K | 189K |

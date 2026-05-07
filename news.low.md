@@ -19,14 +19,14 @@
 | 09:00 | CNY | FX Reserves (USD) (Apr) | 3.411T |  | 3.342T |
 | 09:30 | HKD | Foreign Reserves (USD) (Apr) | 442.10B |  | 430.80B |
 | 09:50 | EUR | French 10-Year OAT Auction | 3.61% |  | 3.73% |
-| 10:00 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.435% |
-| 10:00 | EUR | Spanish 3-Year Bonos Auction |  |  | 2.734% |
 | 10:00 | SGD | Foreign Reserves USD (MoM) (Apr) | 427.3B |  | 419.2B |
 | 10:00 | EUR | Retail Sales (MoM) (Mar) | -0.1% | -0.3% | -0.3% |
 | 10:00 | EUR | Retail Sales (YoY) (Mar) | 1.2% | 1.0% | 1.3% |
-| 57 min | CAD | Leading Index (MoM) (Apr) |  |  | 0.07% |
-| 12:30 | USD | Challenger Job Cuts (Apr) |  |  | 60.620K |
-| 12:30 | USD | Challenger Job Cuts (YoY) |  |  | -78.0% |
+| 10:10 | EUR | Spanish 10-Year Obligacion Auction | 3.392% |  | 3.435% |
+| 10:10 | EUR | Spanish 3-Year Bonos Auction | 2.675% |  | 2.734% |
+| 10:30 | USD | Challenger Job Cuts (YoY) | -20.9% |  | -78.0% |
+| 10:30 | USD | Challenger Job Cuts (Apr) | 83.387K |  | 60.620K |
+| 13 min | CAD | Leading Index (MoM) (Apr) |  |  | 0.07% |
 | 13:00 | MXN | Core CPI (MoM) (Apr) |  | 0.31% | 0.38% |
 | 13:00 | MXN | Month Core Inflation (YoY) (Apr) |  | 4.27% | 4.45% |
 | 13:00 | MXN | PPI (MoM) (Apr) |  |  | 1.70% |
