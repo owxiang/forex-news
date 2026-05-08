@@ -8,21 +8,21 @@
 | 01:30 | JPY | Low | Manufacturing & Services PMI (Apr) | 52.20 | 52.40 | 53.00 |
 | 01:30 | JPY | Moderate | S&P Global Services PMI (Apr) | 51.0 | 51.2 | 53.4 |
 | 04:00 | IDR | Low | FX Reserves (USD) (Apr) | 146.20B |  | 148.20B |
-| 54 min | GBP | Moderate | Halifax House Price Index (MoM) (Apr) |  | 0.0% | -0.5% |
-| 54 min | GBP | Moderate | Halifax House Price Index (YoY) (Apr) |  | 0.6% | 0.8% |
-| 54 min | EUR | Low | German Exports (MoM) (Mar) |  | -1.7% | 3.6% |
-| 54 min | EUR | Low | German Imports (MoM) (Mar) |  | 0.8% | 4.7% |
-| 54 min | EUR | Moderate | German Industrial Production (MoM) (Mar) |  | 0.4% | -0.3% |
-| 54 min | EUR | Moderate | German Trade Balance (Mar) |  | 17.8B | 19.8B |
-| 54 min | EUR | Low | German Industrial Production (YoY) (Mar) |  |  | 0.00% |
-| 54 min | IDR | Low | Car Sales (YoY) (Apr) |  |  | -13.80% |
-| 54 min | NOK | Low | Manufacturing Production (MoM) (Mar) |  |  | -0.4% |
-| 54 min | ZAR | Low | Foreign Reserves (USD) (Apr) |  |  | 77.76B |
-| 54 min | ZAR | Low | Net FX Reserves (USD) (Apr) |  |  | 73.187B |
-| 08:00 | CHF | Moderate | SECO Consumer Climate (Q2) |  | -46 | -30 |
-| 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Mar) |  |  | -1.1% |
-| 08:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 08:05 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Apr) | -0.1% | 0.0% | -0.5% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Apr) | 0.4% | 0.6% | 0.8% |
+| 07:00 | EUR | Low | German Exports (MoM) (Mar) | 0.5% | -1.7% | 3.6% |
+| 07:00 | EUR | Low | German Imports (MoM) (Mar) | 5.1% | 0.8% | 4.9% |
+| 07:00 | EUR | Moderate | German Industrial Production (MoM) (Mar) | -0.7% | 0.4% | -0.5% |
+| 07:00 | EUR | Moderate | German Trade Balance (Mar) | 14.3B | 17.8B | 19.5B |
+| 07:00 | EUR | Low | German Industrial Production (YoY) (Mar) | -2.80% |  | -0.20% |
+| 07:00 | NOK | Low | Manufacturing Production (MoM) (Mar) | 2.0% |  | -0.4% |
+| 07:00 | ZAR | Low | Foreign Reserves (USD) (Apr) | 77.09B |  | 77.76B |
+| 07:00 | ZAR | Low | Net FX Reserves (USD) (Apr) | 73.757B |  | 73.187B |
+| 07:30 | IDR | Low | Car Sales (YoY) (Apr) |  |  | -13.80% |
+| 15 min | CHF | Moderate | SECO Consumer Climate (Q2) |  | -46 | -30 |
+| 15 min | EUR | Low | Spanish Industrial Production (YoY) (Mar) |  |  | -1.1% |
+| 15 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 20 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 09:30 | HKD | Low | Foreign Reserves (USD) (Apr) |  |  | 430.80B |
 | 10:00 | GBP | Moderate | Mortgage Rate (GBP) (Apr) |  |  | 6.60% |
 | 10:45 | USD | Low | Fed Governor Cook Speaks |  |  |  |

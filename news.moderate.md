@@ -3,13 +3,13 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:30 | JPY | S&P Global Services PMI (Apr) | 51.0 | 51.2 | 53.4 |
-| 54 min | GBP | Halifax House Price Index (MoM) (Apr) |  | 0.0% | -0.5% |
-| 54 min | GBP | Halifax House Price Index (YoY) (Apr) |  | 0.6% | 0.8% |
-| 54 min | EUR | German Industrial Production (MoM) (Mar) |  | 0.4% | -0.3% |
-| 54 min | EUR | German Trade Balance (Mar) |  | 17.8B | 19.8B |
-| 08:00 | CHF | SECO Consumer Climate (Q2) |  | -46 | -30 |
-| 08:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 08:05 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 07:00 | GBP | Halifax House Price Index (MoM) (Apr) | -0.1% | 0.0% | -0.5% |
+| 07:00 | GBP | Halifax House Price Index (YoY) (Apr) | 0.4% | 0.6% | 0.8% |
+| 07:00 | EUR | German Industrial Production (MoM) (Mar) | -0.7% | 0.4% | -0.5% |
+| 07:00 | EUR | German Trade Balance (Mar) | 14.3B | 17.8B | 19.5B |
+| 15 min | CHF | SECO Consumer Climate (Q2) |  | -46 | -30 |
+| 15 min | EUR | ECB President Lagarde Speaks |  |  |  |
+| 20 min | EUR | ECB's De Guindos Speaks |  |  |  |
 | 10:00 | GBP | Mortgage Rate (GBP) (Apr) |  |  | 6.60% |
 | 12:30 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 13:20 | GBP | BoE Gov Bailey Speaks |  |  |  |

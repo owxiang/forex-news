@@ -7,14 +7,14 @@
 | 00:30 | JPY | Overtime Pay (YoY) (Mar) | 1.90% |  | 3.40% |
 | 01:30 | JPY | Manufacturing & Services PMI (Apr) | 52.20 | 52.40 | 53.00 |
 | 04:00 | IDR | FX Reserves (USD) (Apr) | 146.20B |  | 148.20B |
-| 54 min | EUR | German Exports (MoM) (Mar) |  | -1.7% | 3.6% |
-| 54 min | EUR | German Imports (MoM) (Mar) |  | 0.8% | 4.7% |
-| 54 min | EUR | German Industrial Production (YoY) (Mar) |  |  | 0.00% |
-| 54 min | IDR | Car Sales (YoY) (Apr) |  |  | -13.80% |
-| 54 min | NOK | Manufacturing Production (MoM) (Mar) |  |  | -0.4% |
-| 54 min | ZAR | Foreign Reserves (USD) (Apr) |  |  | 77.76B |
-| 54 min | ZAR | Net FX Reserves (USD) (Apr) |  |  | 73.187B |
-| 08:00 | EUR | Spanish Industrial Production (YoY) (Mar) |  |  | -1.1% |
+| 07:00 | EUR | German Exports (MoM) (Mar) | 0.5% | -1.7% | 3.6% |
+| 07:00 | EUR | German Imports (MoM) (Mar) | 5.1% | 0.8% | 4.9% |
+| 07:00 | EUR | German Industrial Production (YoY) (Mar) | -2.80% |  | -0.20% |
+| 07:00 | NOK | Manufacturing Production (MoM) (Mar) | 2.0% |  | -0.4% |
+| 07:00 | ZAR | Foreign Reserves (USD) (Apr) | 77.09B |  | 77.76B |
+| 07:00 | ZAR | Net FX Reserves (USD) (Apr) | 73.757B |  | 73.187B |
+| 07:30 | IDR | Car Sales (YoY) (Apr) |  |  | -13.80% |
+| 15 min | EUR | Spanish Industrial Production (YoY) (Mar) |  |  | -1.1% |
 | 09:30 | HKD | Foreign Reserves (USD) (Apr) |  |  | 430.80B |
 | 10:45 | USD | Fed Governor Cook Speaks |  |  |  |
 | 12:00 | BRL | IGP-DI Inflation Index (MoM) (Apr) |  |  | 1.14% |
