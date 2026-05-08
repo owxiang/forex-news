@@ -62,8 +62,8 @@
 | 17:00 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 17:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 17:15 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 23 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 408 |
-| 23 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 547 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 410 |  | 408 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 548 |  | 547 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -60.6K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -0.0K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 63.3K |

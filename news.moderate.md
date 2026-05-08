@@ -26,8 +26,8 @@
 | 16:50 | USD | Atlanta Fed GDPNow (Q2) | 3.7% | 3.7% | 3.7% |
 | 17:00 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 17:15 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 23 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 408 |
-| 23 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 547 |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 410 |  | 408 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count | 548 |  | 547 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -60.6K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 191.9K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 159.6K |
