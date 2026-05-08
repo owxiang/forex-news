@@ -1,39 +1,10 @@
-## 08 May 2026 - Moderate Impact Forex News
+## 09 May 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | JPY | S&P Global Services PMI (Apr) | 51.0 | 51.2 | 53.4 |
-| 07:00 | GBP | Halifax House Price Index (MoM) (Apr) | -0.1% | 0.0% | -0.5% |
-| 07:00 | GBP | Halifax House Price Index (YoY) (Apr) | 0.4% | 0.6% | 0.8% |
-| 07:00 | EUR | German Industrial Production (MoM) (Mar) | -0.7% | 0.4% | -0.5% |
-| 07:00 | EUR | German Trade Balance (Mar) | 14.3B | 17.8B | 19.5B |
-| 08:00 | CHF | SECO Consumer Climate (Q2) | -40 | -46 | -30 |
-| 08:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 08:05 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 09:30 | GBP | Mortgage Rate (GBP) (Apr) | 6.60% |  | 6.60% |
-| 12:30 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 13:20 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Apr) | 3.6% | 3.8% | 3.4% |
-| 13:30 | USD | Participation Rate (Apr) | 61.8% |  | 61.9% |
-| 13:30 | USD | Private Nonfarm Payrolls (Apr) | 123K | 75K | 190K |
-| 13:30 | USD | U6 Unemployment Rate (Apr) | 8.2% |  | 8.0% |
-| 13:30 | CAD | Employment Change (Apr) | -17.7K | 12.9K | 14.1K |
-| 13:30 | CAD | Unemployment Rate (Apr) | 6.9% | 6.7% | 6.7% |
-| 15:00 | USD | Michigan 1-Year Inflation Expectations (May) | 4.5% | 4.8% | 4.7% |
-| 15:00 | USD | Michigan 5-Year Inflation Expectations (May) | 3.4% | 3.5% | 3.5% |
-| 15:00 | USD | Michigan Consumer Expectations (May) | 48.5 | 48.1 | 48.1 |
-| 15:00 | USD | Michigan Consumer Sentiment (May) | 48.2 | 49.7 | 49.8 |
-| 16:50 | USD | Atlanta Fed GDPNow (Q2) | 3.7% | 3.7% | 3.7% |
-| 17:00 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 17:15 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 410 |  | 408 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count | 548 |  | 547 |
-| 20:30 | GBP | CFTC GBP speculative net positions | -63.9K |  | -60.6K |
-| 20:30 | USD | CFTC Crude Oil speculative net positions | 178.8K |  | 191.9K |
-| 20:30 | USD | CFTC Gold speculative net positions | 163.3K |  | 159.6K |
-| 20:30 | USD | CFTC Nasdaq 100 speculative net positions | 1.2K |  | -2.3K |
-| 20:30 | USD | CFTC S&P 500 speculative net positions | -103.9K |  | -101.4K |
-| 20:30 | AUD | CFTC AUD speculative net positions | 78.7K |  | 71.9K |
-| 20:30 | BRL | CFTC BRL speculative net positions | 66.8K |  | 46.4K |
-| 20:30 | JPY | CFTC JPY speculative net positions | -61.7K |  | -102.1K |
-| 20:30 | EUR | CFTC EUR speculative net positions | 32.2K |  | 35.7K |
+| 5 min | USD | Fed Waller Speaks |  |  |  |
+| 5 min | USD | FOMC Member Bowman Speaks |  |  |  |
+| 5 min | USD | FOMC Member Daly Speaks |  |  |  |
+| 18:21 | CNY | Exports (YoY) (Apr) |  |  | 2.5% |
+| 18:21 | CNY | Imports (YoY) (Apr) |  |  | 27.8% |
+| 18:21 | CNY | Trade Balance (USD) (Apr) |  | 82.40B | 51.13B |
