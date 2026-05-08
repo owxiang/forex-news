@@ -6,23 +6,22 @@
 | 00:30 | JPY | Overall wage income of employees (Mar) | 2.7% | 3.2% | 3.4% |
 | 00:30 | JPY | Overtime Pay (YoY) (Mar) | 1.90% |  | 3.40% |
 | 01:30 | JPY | Manufacturing & Services PMI (Apr) | 52.20 | 52.40 | 53.00 |
-| 04:00 | IDR | FX Reserves (USD) (Apr) |  |  | 148.20B |
-| 07:00 | EUR | German Exports (MoM) (Mar) |  | -1.9% | 3.6% |
-| 07:00 | EUR | German Imports (MoM) (Mar) |  |  | 4.7% |
-| 07:00 | EUR | German Industrial Production (YoY) (Mar) |  |  | 0.00% |
-| 07:00 | IDR | Car Sales (YoY) (Apr) |  |  | -13.80% |
-| 07:00 | NOK | Manufacturing Production (MoM) (Mar) |  |  | -0.4% |
-| 07:00 | ZAR | Foreign Reserves (USD) (Apr) |  |  | 77.76B |
-| 07:00 | ZAR | Net FX Reserves (USD) (Apr) |  |  | 73.187B |
+| 04:00 | IDR | FX Reserves (USD) (Apr) | 146.20B |  | 148.20B |
+| 54 min | EUR | German Exports (MoM) (Mar) |  | -1.7% | 3.6% |
+| 54 min | EUR | German Imports (MoM) (Mar) |  | 0.8% | 4.7% |
+| 54 min | EUR | German Industrial Production (YoY) (Mar) |  |  | 0.00% |
+| 54 min | IDR | Car Sales (YoY) (Apr) |  |  | -13.80% |
+| 54 min | NOK | Manufacturing Production (MoM) (Mar) |  |  | -0.4% |
+| 54 min | ZAR | Foreign Reserves (USD) (Apr) |  |  | 77.76B |
+| 54 min | ZAR | Net FX Reserves (USD) (Apr) |  |  | 73.187B |
 | 08:00 | EUR | Spanish Industrial Production (YoY) (Mar) |  |  | -1.1% |
 | 09:30 | HKD | Foreign Reserves (USD) (Apr) |  |  | 430.80B |
 | 10:45 | USD | Fed Governor Cook Speaks |  |  |  |
 | 12:00 | BRL | IGP-DI Inflation Index (MoM) (Apr) |  |  | 1.14% |
-| 12:30 | INR | Deposit Growth |  |  | 12.2% |
 | 12:30 | INR | FX Reserves, USD |  |  | 698.49B |
 | 13:00 | MXN | Consumer Confidence (Apr) |  |  | 44.1 |
 | 13:00 | MXN | Consumer Confidence n.s.a. (Apr) |  |  | 44.1 |
-| 13:30 | USD | Average Weekly Hours (Apr) |  |  | 34.2 |
+| 13:30 | USD | Average Weekly Hours (Apr) |  | 34.2 | 34.2 |
 | 13:30 | USD | Government Payrolls (Apr) |  |  | -8.0K |
 | 13:30 | USD | Manufacturing Payrolls (Apr) |  | 5K | 15K |
 | 13:30 | CAD | Avg hourly wages Permanent employee (Apr) |  |  | 5.1% |
@@ -31,7 +30,7 @@
 | 13:30 | CAD | Participation Rate (Apr) |  |  | 64.9% |
 | 14:00 | BRL | Auto Production (MoM) (Apr) |  |  | 27.6% |
 | 14:00 | BRL | Auto Sales (MoM) (Apr) |  |  | 45.5% |
-| 15:00 | USD | Michigan Current Conditions (May) |  |  | 52.5 |
+| 15:00 | USD | Michigan Current Conditions (May) |  | 52.0 | 52.5 |
 | 15:00 | USD | Wholesale Inventories (MoM) (Mar) |  | 1.4% | 0.8% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Mar) |  |  | 2.7% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -0.0K |

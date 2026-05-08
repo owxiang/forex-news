@@ -7,18 +7,18 @@
 | 00:30 | JPY | Low | Overtime Pay (YoY) (Mar) | 1.90% |  | 3.40% |
 | 01:30 | JPY | Low | Manufacturing & Services PMI (Apr) | 52.20 | 52.40 | 53.00 |
 | 01:30 | JPY | Moderate | S&P Global Services PMI (Apr) | 51.0 | 51.2 | 53.4 |
-| 04:00 | IDR | Low | FX Reserves (USD) (Apr) |  |  | 148.20B |
-| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Apr) |  |  | 0.8% |
-| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Apr) |  | 0.0% | -0.5% |
-| 07:00 | EUR | Low | German Exports (MoM) (Mar) |  | -1.9% | 3.6% |
-| 07:00 | EUR | Low | German Imports (MoM) (Mar) |  |  | 4.7% |
-| 07:00 | EUR | Moderate | German Industrial Production (MoM) (Mar) |  | 0.4% | -0.3% |
-| 07:00 | EUR | Moderate | German Trade Balance (Mar) |  | 17.8B | 19.8B |
-| 07:00 | EUR | Low | German Industrial Production (YoY) (Mar) |  |  | 0.00% |
-| 07:00 | IDR | Low | Car Sales (YoY) (Apr) |  |  | -13.80% |
-| 07:00 | NOK | Low | Manufacturing Production (MoM) (Mar) |  |  | -0.4% |
-| 07:00 | ZAR | Low | Foreign Reserves (USD) (Apr) |  |  | 77.76B |
-| 07:00 | ZAR | Low | Net FX Reserves (USD) (Apr) |  |  | 73.187B |
+| 04:00 | IDR | Low | FX Reserves (USD) (Apr) | 146.20B |  | 148.20B |
+| 54 min | GBP | Moderate | Halifax House Price Index (MoM) (Apr) |  | 0.0% | -0.5% |
+| 54 min | GBP | Moderate | Halifax House Price Index (YoY) (Apr) |  | 0.6% | 0.8% |
+| 54 min | EUR | Low | German Exports (MoM) (Mar) |  | -1.7% | 3.6% |
+| 54 min | EUR | Low | German Imports (MoM) (Mar) |  | 0.8% | 4.7% |
+| 54 min | EUR | Moderate | German Industrial Production (MoM) (Mar) |  | 0.4% | -0.3% |
+| 54 min | EUR | Moderate | German Trade Balance (Mar) |  | 17.8B | 19.8B |
+| 54 min | EUR | Low | German Industrial Production (YoY) (Mar) |  |  | 0.00% |
+| 54 min | IDR | Low | Car Sales (YoY) (Apr) |  |  | -13.80% |
+| 54 min | NOK | Low | Manufacturing Production (MoM) (Mar) |  |  | -0.4% |
+| 54 min | ZAR | Low | Foreign Reserves (USD) (Apr) |  |  | 77.76B |
+| 54 min | ZAR | Low | Net FX Reserves (USD) (Apr) |  |  | 73.187B |
 | 08:00 | CHF | Moderate | SECO Consumer Climate (Q2) |  | -46 | -30 |
 | 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Mar) |  |  | -1.1% |
 | 08:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
@@ -28,19 +28,18 @@
 | 10:45 | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Apr) |  |  | 1.14% |
 | 12:30 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 12:30 | INR | Low | Deposit Growth |  |  | 12.2% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 698.49B |
 | 13:00 | MXN | Low | Consumer Confidence (Apr) |  |  | 44.1 |
 | 13:00 | MXN | Low | Consumer Confidence n.s.a. (Apr) |  |  | 44.1 |
 | 13:20 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Apr) |  | 0.3% | 0.2% |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Apr) |  | 3.8% | 3.5% |
-| 13:30 | USD | Low | Average Weekly Hours (Apr) |  |  | 34.2 |
+| 13:30 | USD | Low | Average Weekly Hours (Apr) |  | 34.2 | 34.2 |
 | 13:30 | USD | Low | Government Payrolls (Apr) |  |  | -8.0K |
 | 13:30 | USD | Low | Manufacturing Payrolls (Apr) |  | 5K | 15K |
 | 13:30 | USD | High | Nonfarm Payrolls (Apr) |  | 65K | 178K |
 | 13:30 | USD | Moderate | Participation Rate (Apr) |  |  | 61.9% |
-| 13:30 | USD | Moderate | Private Nonfarm Payrolls (Apr) |  | 73K | 186K |
+| 13:30 | USD | Moderate | Private Nonfarm Payrolls (Apr) |  | 75K | 186K |
 | 13:30 | USD | Moderate | U6 Unemployment Rate (Apr) |  |  | 8.0% |
 | 13:30 | USD | High | Unemployment Rate (Apr) |  | 4.3% | 4.3% |
 | 13:30 | CAD | Low | Avg hourly wages Permanent employee (Apr) |  |  | 5.1% |
@@ -53,9 +52,9 @@
 | 14:00 | BRL | Low | Auto Sales (MoM) (Apr) |  |  | 45.5% |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (May) |  |  | 4.7% |
 | 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (May) |  |  | 3.5% |
-| 15:00 | USD | Moderate | Michigan Consumer Expectations (May) |  |  | 48.1 |
+| 15:00 | USD | Moderate | Michigan Consumer Expectations (May) |  | 48.1 | 48.1 |
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (May) |  | 49.7 | 49.8 |
-| 15:00 | USD | Low | Michigan Current Conditions (May) |  |  | 52.5 |
+| 15:00 | USD | Low | Michigan Current Conditions (May) |  | 52.0 | 52.5 |
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (Mar) |  | 1.4% | 0.8% |
 | 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Mar) |  |  | 2.7% |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 3.7% | 3.7% |
