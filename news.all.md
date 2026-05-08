@@ -22,10 +22,9 @@
 | 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Mar) | 1.8% |  | -0.9% |
 | 08:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 08:05 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 09:30 | HKD | Low | Foreign Reserves (USD) (Apr) |  |  | 430.80B |
-| 10:30 | GBP | Moderate | Mortgage Rate (GBP) (Apr) | 6.60% |  | 6.60% |
-| 10:45 | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 11:00 | IDR | Low | Car Sales (YoY) (Apr) |  |  | -13.80% |
+| 09:30 | GBP | Moderate | Mortgage Rate (GBP) (Apr) | 6.60% |  | 6.60% |
+| 5 min | USD | Low | Fed Governor Cook Speaks |  |  |  |
+| 20 min | IDR | Low | Car Sales (YoY) (Apr) |  |  | -13.80% |
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Apr) |  |  | 1.14% |
 | 12:30 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 698.49B |
