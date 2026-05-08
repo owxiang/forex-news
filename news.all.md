@@ -49,16 +49,16 @@
 | 13:30 | CAD | Low | Part Time Employment Change (Apr) | 29.0K |  | 15.2K |
 | 13:30 | CAD | Low | Participation Rate (Apr) | 65.0% |  | 64.9% |
 | 13:30 | CAD | Moderate | Unemployment Rate (Apr) | 6.9% | 6.7% | 6.7% |
-| 20 min | USD | Moderate | Michigan 1-Year Inflation Expectations (May) |  |  | 4.7% |
-| 20 min | USD | Moderate | Michigan 5-Year Inflation Expectations (May) |  |  | 3.5% |
-| 20 min | USD | Moderate | Michigan Consumer Expectations (May) |  | 48.1 | 48.1 |
-| 20 min | USD | Moderate | Michigan Consumer Sentiment (May) |  | 49.7 | 49.8 |
-| 20 min | USD | Low | Michigan Current Conditions (May) |  | 52.0 | 52.5 |
-| 20 min | USD | Low | Wholesale Inventories (MoM) (Mar) |  | 1.4% | 0.8% |
-| 20 min | USD | Low | Wholesale Trade Sales (MoM) (Mar) |  |  | 2.7% |
-| 20 min | BRL | Low | Auto Production (MoM) (Apr) |  |  | 27.6% |
-| 20 min | BRL | Low | Auto Sales (MoM) (Apr) |  |  | 45.5% |
-| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 3.7% | 3.7% |
+| 14:00 | BRL | Low | Auto Production (MoM) (Apr) | -9.5% |  | 27.6% |
+| 14:00 | BRL | Low | Auto Sales (MoM) (Apr) | -7.8% |  | 45.5% |
+| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (May) | 4.5% | 4.8% | 4.7% |
+| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (May) | 3.4% | 3.5% | 3.5% |
+| 15:00 | USD | Moderate | Michigan Consumer Expectations (May) | 48.5 | 48.1 | 48.1 |
+| 15:00 | USD | Moderate | Michigan Consumer Sentiment (May) | 48.2 | 49.7 | 49.8 |
+| 15:00 | USD | Low | Michigan Current Conditions (May) | 47.8 | 52.0 | 52.5 |
+| 15:00 | USD | Low | Wholesale Inventories (MoM) (Mar) | 1.3% | 1.4% | 0.8% |
+| 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Mar) | 2.8% |  | 2.6% |
+| 49 min | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 3.7% | 3.7% |
 | 17:00 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 17:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 17:15 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
