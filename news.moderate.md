@@ -11,7 +11,7 @@
 | 08:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 08:05 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 09:30 | GBP | Mortgage Rate (GBP) (Apr) | 6.60% |  | 6.60% |
-| 12:30 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 52 min | USD | FOMC Member Bowman Speaks |  |  |  |
 | 13:20 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Apr) |  | 3.8% | 3.5% |
 | 13:30 | USD | Participation Rate (Apr) |  |  | 61.9% |

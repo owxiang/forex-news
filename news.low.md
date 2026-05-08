@@ -14,10 +14,10 @@
 | 07:00 | ZAR | Foreign Reserves (USD) (Apr) | 77.09B |  | 77.76B |
 | 07:00 | ZAR | Net FX Reserves (USD) (Apr) | 73.757B |  | 73.187B |
 | 08:00 | EUR | Spanish Industrial Production (YoY) (Mar) | 1.8% |  | -0.9% |
-| 5 min | USD | Fed Governor Cook Speaks |  |  |  |
-| 20 min | IDR | Car Sales (YoY) (Apr) |  |  | -13.80% |
-| 12:00 | BRL | IGP-DI Inflation Index (MoM) (Apr) |  |  | 1.14% |
-| 12:30 | INR | FX Reserves, USD |  |  | 698.49B |
+| 10:45 | USD | Fed Governor Cook Speaks |  |  |  |
+| 22 min | BRL | IGP-DI Inflation Index (MoM) (Apr) |  |  | 1.14% |
+| 22 min | IDR | Car Sales (YoY) (Apr) |  |  | -13.80% |
+| 52 min | INR | FX Reserves, USD |  |  | 698.49B |
 | 13:00 | MXN | Consumer Confidence (Apr) |  |  | 44.1 |
 | 13:00 | MXN | Consumer Confidence n.s.a. (Apr) |  |  | 44.1 |
 | 13:30 | USD | Average Weekly Hours (Apr) |  | 34.2 | 34.2 |
