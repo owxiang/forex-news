@@ -24,29 +24,31 @@
 | 08:05 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 09:30 | GBP | Moderate | Mortgage Rate (GBP) (Apr) | 6.60% |  | 6.60% |
 | 10:45 | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 22 min | BRL | Low | IGP-DI Inflation Index (MoM) (Apr) |  |  | 1.14% |
-| 22 min | IDR | Low | Car Sales (YoY) (Apr) |  |  | -13.80% |
-| 52 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 52 min | INR | Low | FX Reserves, USD |  |  | 698.49B |
-| 13:00 | MXN | Low | Consumer Confidence (Apr) |  |  | 44.1 |
-| 13:00 | MXN | Low | Consumer Confidence n.s.a. (Apr) |  |  | 44.1 |
-| 13:20 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 13:30 | USD | High | Average Hourly Earnings (MoM) (Apr) |  | 0.3% | 0.2% |
-| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Apr) |  | 3.8% | 3.5% |
-| 13:30 | USD | Low | Average Weekly Hours (Apr) |  | 34.2 | 34.2 |
-| 13:30 | USD | Low | Government Payrolls (Apr) |  |  | -8.0K |
-| 13:30 | USD | Low | Manufacturing Payrolls (Apr) |  | 5K | 15K |
-| 13:30 | USD | High | Nonfarm Payrolls (Apr) |  | 65K | 178K |
-| 13:30 | USD | Moderate | Participation Rate (Apr) |  |  | 61.9% |
-| 13:30 | USD | Moderate | Private Nonfarm Payrolls (Apr) |  | 75K | 186K |
-| 13:30 | USD | Moderate | U6 Unemployment Rate (Apr) |  |  | 8.0% |
-| 13:30 | USD | High | Unemployment Rate (Apr) |  | 4.3% | 4.3% |
-| 13:30 | CAD | Low | Avg hourly wages Permanent employee (Apr) |  |  | 5.1% |
-| 13:30 | CAD | Moderate | Employment Change (Apr) |  | 12.9K | 14.1K |
-| 13:30 | CAD | Low | Full Employment Change (Apr) |  |  | -1.1K |
-| 13:30 | CAD | Low | Part Time Employment Change (Apr) |  |  | 15.2K |
-| 13:30 | CAD | Low | Participation Rate (Apr) |  |  | 64.9% |
-| 13:30 | CAD | Moderate | Unemployment Rate (Apr) |  | 6.7% | 6.7% |
+| 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Apr) | 2.41% |  | 1.14% |
+| 12:30 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 12:30 | INR | Low | Bank Loan Growth | 16.0% |  | 15.0% |
+| 12:30 | INR | Low | Deposit Growth | 12.3% |  | 12.2% |
+| 12:30 | INR | Low | FX Reserves, USD | 690.69B |  | 698.49B |
+| 12:30 | INR | Low | M3 Money Supply | 12.0% |  | 11.9% |
+| 24 min | MXN | Low | Consumer Confidence (Apr) |  |  | 44.1 |
+| 24 min | MXN | Low | Consumer Confidence n.s.a. (Apr) |  |  | 44.1 |
+| 44 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 54 min | USD | High | Average Hourly Earnings (MoM) (Apr) |  | 0.3% | 0.2% |
+| 54 min | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Apr) |  | 3.8% | 3.5% |
+| 54 min | USD | Low | Average Weekly Hours (Apr) |  | 34.2 | 34.2 |
+| 54 min | USD | Low | Government Payrolls (Apr) |  |  | -8.0K |
+| 54 min | USD | Low | Manufacturing Payrolls (Apr) |  | 5K | 15K |
+| 54 min | USD | High | Nonfarm Payrolls (Apr) |  | 65K | 178K |
+| 54 min | USD | Moderate | Participation Rate (Apr) |  |  | 61.9% |
+| 54 min | USD | Moderate | Private Nonfarm Payrolls (Apr) |  | 75K | 186K |
+| 54 min | USD | Moderate | U6 Unemployment Rate (Apr) |  |  | 8.0% |
+| 54 min | USD | High | Unemployment Rate (Apr) |  | 4.3% | 4.3% |
+| 54 min | CAD | Low | Avg hourly wages Permanent employee (Apr) |  |  | 5.1% |
+| 54 min | CAD | Moderate | Employment Change (Apr) |  | 12.9K | 14.1K |
+| 54 min | CAD | Low | Full Employment Change (Apr) |  |  | -1.1K |
+| 54 min | CAD | Low | Part Time Employment Change (Apr) |  |  | 15.2K |
+| 54 min | CAD | Low | Participation Rate (Apr) |  |  | 64.9% |
+| 54 min | CAD | Moderate | Unemployment Rate (Apr) |  | 6.7% | 6.7% |
 | 14:00 | BRL | Low | Auto Production (MoM) (Apr) |  |  | 27.6% |
 | 14:00 | BRL | Low | Auto Sales (MoM) (Apr) |  |  | 45.5% |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (May) |  |  | 4.7% |
@@ -57,6 +59,7 @@
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (Mar) |  | 1.4% | 0.8% |
 | 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Mar) |  |  | 2.7% |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 3.7% | 3.7% |
+| 17:00 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 17:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 17:15 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 408 |

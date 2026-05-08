@@ -15,18 +15,20 @@
 | 07:00 | ZAR | Net FX Reserves (USD) (Apr) | 73.757B |  | 73.187B |
 | 08:00 | EUR | Spanish Industrial Production (YoY) (Mar) | 1.8% |  | -0.9% |
 | 10:45 | USD | Fed Governor Cook Speaks |  |  |  |
-| 22 min | BRL | IGP-DI Inflation Index (MoM) (Apr) |  |  | 1.14% |
-| 22 min | IDR | Car Sales (YoY) (Apr) |  |  | -13.80% |
-| 52 min | INR | FX Reserves, USD |  |  | 698.49B |
-| 13:00 | MXN | Consumer Confidence (Apr) |  |  | 44.1 |
-| 13:00 | MXN | Consumer Confidence n.s.a. (Apr) |  |  | 44.1 |
-| 13:30 | USD | Average Weekly Hours (Apr) |  | 34.2 | 34.2 |
-| 13:30 | USD | Government Payrolls (Apr) |  |  | -8.0K |
-| 13:30 | USD | Manufacturing Payrolls (Apr) |  | 5K | 15K |
-| 13:30 | CAD | Avg hourly wages Permanent employee (Apr) |  |  | 5.1% |
-| 13:30 | CAD | Full Employment Change (Apr) |  |  | -1.1K |
-| 13:30 | CAD | Part Time Employment Change (Apr) |  |  | 15.2K |
-| 13:30 | CAD | Participation Rate (Apr) |  |  | 64.9% |
+| 12:00 | BRL | IGP-DI Inflation Index (MoM) (Apr) | 2.41% |  | 1.14% |
+| 12:30 | INR | Bank Loan Growth | 16.0% |  | 15.0% |
+| 12:30 | INR | Deposit Growth | 12.3% |  | 12.2% |
+| 12:30 | INR | FX Reserves, USD | 690.69B |  | 698.49B |
+| 12:30 | INR | M3 Money Supply | 12.0% |  | 11.9% |
+| 24 min | MXN | Consumer Confidence (Apr) |  |  | 44.1 |
+| 24 min | MXN | Consumer Confidence n.s.a. (Apr) |  |  | 44.1 |
+| 54 min | USD | Average Weekly Hours (Apr) |  | 34.2 | 34.2 |
+| 54 min | USD | Government Payrolls (Apr) |  |  | -8.0K |
+| 54 min | USD | Manufacturing Payrolls (Apr) |  | 5K | 15K |
+| 54 min | CAD | Avg hourly wages Permanent employee (Apr) |  |  | 5.1% |
+| 54 min | CAD | Full Employment Change (Apr) |  |  | -1.1K |
+| 54 min | CAD | Part Time Employment Change (Apr) |  |  | 15.2K |
+| 54 min | CAD | Participation Rate (Apr) |  |  | 64.9% |
 | 14:00 | BRL | Auto Production (MoM) (Apr) |  |  | 27.6% |
 | 14:00 | BRL | Auto Sales (MoM) (Apr) |  |  | 45.5% |
 | 15:00 | USD | Michigan Current Conditions (May) |  | 52.0 | 52.5 |
