@@ -10,7 +10,7 @@
 | 08:00 | CHF | SECO Consumer Climate (Q2) | -40 | -46 | -30 |
 | 08:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 08:05 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 10:00 | GBP | Mortgage Rate (GBP) (Apr) |  |  | 6.60% |
+| 10:30 | GBP | Mortgage Rate (GBP) (Apr) | 6.60% |  | 6.60% |
 | 12:30 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 13:20 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Apr) |  | 3.8% | 3.5% |
