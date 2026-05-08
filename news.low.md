@@ -29,11 +29,11 @@
 | 13:30 | CAD | Full Employment Change (Apr) | -46.7K |  | -1.1K |
 | 13:30 | CAD | Part Time Employment Change (Apr) | 29.0K |  | 15.2K |
 | 13:30 | CAD | Participation Rate (Apr) | 65.0% |  | 64.9% |
+| 20 min | USD | Michigan Current Conditions (May) |  | 52.0 | 52.5 |
+| 20 min | USD | Wholesale Inventories (MoM) (Mar) |  | 1.4% | 0.8% |
+| 20 min | USD | Wholesale Trade Sales (MoM) (Mar) |  |  | 2.7% |
 | 20 min | BRL | Auto Production (MoM) (Apr) |  |  | 27.6% |
 | 20 min | BRL | Auto Sales (MoM) (Apr) |  |  | 45.5% |
-| 15:00 | USD | Michigan Current Conditions (May) |  | 52.0 | 52.5 |
-| 15:00 | USD | Wholesale Inventories (MoM) (Mar) |  | 1.4% | 0.8% |
-| 15:00 | USD | Wholesale Trade Sales (MoM) (Mar) |  |  | 2.7% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -0.0K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 63.3K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 340.7K |
