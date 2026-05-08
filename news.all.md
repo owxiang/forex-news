@@ -30,27 +30,27 @@
 | 12:30 | INR | Low | Deposit Growth | 12.3% |  | 12.2% |
 | 12:30 | INR | Low | FX Reserves, USD | 690.69B |  | 698.49B |
 | 12:30 | INR | Low | M3 Money Supply | 12.0% |  | 11.9% |
-| 24 min | MXN | Low | Consumer Confidence (Apr) |  |  | 44.1 |
-| 24 min | MXN | Low | Consumer Confidence n.s.a. (Apr) |  |  | 44.1 |
-| 44 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 54 min | USD | High | Average Hourly Earnings (MoM) (Apr) |  | 0.3% | 0.2% |
-| 54 min | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Apr) |  | 3.8% | 3.5% |
-| 54 min | USD | Low | Average Weekly Hours (Apr) |  | 34.2 | 34.2 |
-| 54 min | USD | Low | Government Payrolls (Apr) |  |  | -8.0K |
-| 54 min | USD | Low | Manufacturing Payrolls (Apr) |  | 5K | 15K |
-| 54 min | USD | High | Nonfarm Payrolls (Apr) |  | 65K | 178K |
-| 54 min | USD | Moderate | Participation Rate (Apr) |  |  | 61.9% |
-| 54 min | USD | Moderate | Private Nonfarm Payrolls (Apr) |  | 75K | 186K |
-| 54 min | USD | Moderate | U6 Unemployment Rate (Apr) |  |  | 8.0% |
-| 54 min | USD | High | Unemployment Rate (Apr) |  | 4.3% | 4.3% |
-| 54 min | CAD | Low | Avg hourly wages Permanent employee (Apr) |  |  | 5.1% |
-| 54 min | CAD | Moderate | Employment Change (Apr) |  | 12.9K | 14.1K |
-| 54 min | CAD | Low | Full Employment Change (Apr) |  |  | -1.1K |
-| 54 min | CAD | Low | Part Time Employment Change (Apr) |  |  | 15.2K |
-| 54 min | CAD | Low | Participation Rate (Apr) |  |  | 64.9% |
-| 54 min | CAD | Moderate | Unemployment Rate (Apr) |  | 6.7% | 6.7% |
-| 14:00 | BRL | Low | Auto Production (MoM) (Apr) |  |  | 27.6% |
-| 14:00 | BRL | Low | Auto Sales (MoM) (Apr) |  |  | 45.5% |
+| 13:00 | MXN | Low | Consumer Confidence (Apr) | 44.4 |  | 44.1 |
+| 13:00 | MXN | Low | Consumer Confidence n.s.a. (Apr) | 44.3 |  | 44.1 |
+| 13:20 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 13:30 | USD | High | Average Hourly Earnings (MoM) (Apr) | 0.2% | 0.3% | 0.2% |
+| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Apr) | 3.6% | 3.8% | 3.4% |
+| 13:30 | USD | Low | Average Weekly Hours (Apr) | 34.3 | 34.2 | 34.2 |
+| 13:30 | USD | Low | Government Payrolls (Apr) | -8.0K |  | -5.0K |
+| 13:30 | USD | Low | Manufacturing Payrolls (Apr) | -2K | 5K | 15K |
+| 13:30 | USD | High | Nonfarm Payrolls (Apr) | 115K | 65K | 185K |
+| 13:30 | USD | Moderate | Participation Rate (Apr) | 61.8% |  | 61.9% |
+| 13:30 | USD | Moderate | Private Nonfarm Payrolls (Apr) | 123K | 75K | 190K |
+| 13:30 | USD | Moderate | U6 Unemployment Rate (Apr) | 8.2% |  | 8.0% |
+| 13:30 | USD | High | Unemployment Rate (Apr) | 4.3% | 4.3% | 4.3% |
+| 13:30 | CAD | Low | Avg hourly wages Permanent employee (Apr) | 4.8% |  | 5.1% |
+| 13:30 | CAD | Moderate | Employment Change (Apr) | -17.7K | 12.9K | 14.1K |
+| 13:30 | CAD | Low | Full Employment Change (Apr) | -46.7K |  | -1.1K |
+| 13:30 | CAD | Low | Part Time Employment Change (Apr) | 29.0K |  | 15.2K |
+| 13:30 | CAD | Low | Participation Rate (Apr) | 65.0% |  | 64.9% |
+| 13:30 | CAD | Moderate | Unemployment Rate (Apr) | 6.9% | 6.7% | 6.7% |
+| 20 min | BRL | Low | Auto Production (MoM) (Apr) |  |  | 27.6% |
+| 20 min | BRL | Low | Auto Sales (MoM) (Apr) |  |  | 45.5% |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (May) |  |  | 4.7% |
 | 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (May) |  |  | 3.5% |
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (May) |  | 48.1 | 48.1 |

@@ -12,13 +12,13 @@
 | 08:05 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 09:30 | GBP | Mortgage Rate (GBP) (Apr) | 6.60% |  | 6.60% |
 | 12:30 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 44 min | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 54 min | USD | Average Hourly Earnings (YoY) (YoY) (Apr) |  | 3.8% | 3.5% |
-| 54 min | USD | Participation Rate (Apr) |  |  | 61.9% |
-| 54 min | USD | Private Nonfarm Payrolls (Apr) |  | 75K | 186K |
-| 54 min | USD | U6 Unemployment Rate (Apr) |  |  | 8.0% |
-| 54 min | CAD | Employment Change (Apr) |  | 12.9K | 14.1K |
-| 54 min | CAD | Unemployment Rate (Apr) |  | 6.7% | 6.7% |
+| 13:20 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Apr) | 3.6% | 3.8% | 3.4% |
+| 13:30 | USD | Participation Rate (Apr) | 61.8% |  | 61.9% |
+| 13:30 | USD | Private Nonfarm Payrolls (Apr) | 123K | 75K | 190K |
+| 13:30 | USD | U6 Unemployment Rate (Apr) | 8.2% |  | 8.0% |
+| 13:30 | CAD | Employment Change (Apr) | -17.7K | 12.9K | 14.1K |
+| 13:30 | CAD | Unemployment Rate (Apr) | 6.9% | 6.7% | 6.7% |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (May) |  |  | 4.7% |
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (May) |  |  | 3.5% |
 | 15:00 | USD | Michigan Consumer Expectations (May) |  | 48.1 | 48.1 |

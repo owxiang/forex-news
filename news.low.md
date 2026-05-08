@@ -20,17 +20,17 @@
 | 12:30 | INR | Deposit Growth | 12.3% |  | 12.2% |
 | 12:30 | INR | FX Reserves, USD | 690.69B |  | 698.49B |
 | 12:30 | INR | M3 Money Supply | 12.0% |  | 11.9% |
-| 24 min | MXN | Consumer Confidence (Apr) |  |  | 44.1 |
-| 24 min | MXN | Consumer Confidence n.s.a. (Apr) |  |  | 44.1 |
-| 54 min | USD | Average Weekly Hours (Apr) |  | 34.2 | 34.2 |
-| 54 min | USD | Government Payrolls (Apr) |  |  | -8.0K |
-| 54 min | USD | Manufacturing Payrolls (Apr) |  | 5K | 15K |
-| 54 min | CAD | Avg hourly wages Permanent employee (Apr) |  |  | 5.1% |
-| 54 min | CAD | Full Employment Change (Apr) |  |  | -1.1K |
-| 54 min | CAD | Part Time Employment Change (Apr) |  |  | 15.2K |
-| 54 min | CAD | Participation Rate (Apr) |  |  | 64.9% |
-| 14:00 | BRL | Auto Production (MoM) (Apr) |  |  | 27.6% |
-| 14:00 | BRL | Auto Sales (MoM) (Apr) |  |  | 45.5% |
+| 13:00 | MXN | Consumer Confidence (Apr) | 44.4 |  | 44.1 |
+| 13:00 | MXN | Consumer Confidence n.s.a. (Apr) | 44.3 |  | 44.1 |
+| 13:30 | USD | Average Weekly Hours (Apr) | 34.3 | 34.2 | 34.2 |
+| 13:30 | USD | Government Payrolls (Apr) | -8.0K |  | -5.0K |
+| 13:30 | USD | Manufacturing Payrolls (Apr) | -2K | 5K | 15K |
+| 13:30 | CAD | Avg hourly wages Permanent employee (Apr) | 4.8% |  | 5.1% |
+| 13:30 | CAD | Full Employment Change (Apr) | -46.7K |  | -1.1K |
+| 13:30 | CAD | Part Time Employment Change (Apr) | 29.0K |  | 15.2K |
+| 13:30 | CAD | Participation Rate (Apr) | 65.0% |  | 64.9% |
+| 20 min | BRL | Auto Production (MoM) (Apr) |  |  | 27.6% |
+| 20 min | BRL | Auto Sales (MoM) (Apr) |  |  | 45.5% |
 | 15:00 | USD | Michigan Current Conditions (May) |  | 52.0 | 52.5 |
 | 15:00 | USD | Wholesale Inventories (MoM) (Mar) |  | 1.4% | 0.8% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Mar) |  |  | 2.7% |
