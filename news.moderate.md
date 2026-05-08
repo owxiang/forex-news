@@ -23,11 +23,11 @@
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (May) | 3.4% | 3.5% | 3.5% |
 | 15:00 | USD | Michigan Consumer Expectations (May) | 48.5 | 48.1 | 48.1 |
 | 15:00 | USD | Michigan Consumer Sentiment (May) | 48.2 | 49.7 | 49.8 |
-| 22 min | USD | Atlanta Fed GDPNow (Q2) |  | 3.7% | 3.7% |
-| 22 min | EUR | ECB's Schnabel Speaks |  |  |  |
-| 37 min | EUR | German Buba President Nagel Speaks |  |  |  |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 408 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 547 |
+| 16:50 | USD | Atlanta Fed GDPNow (Q2) | 3.7% | 3.7% | 3.7% |
+| 17:00 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 17:15 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 23 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 408 |
+| 23 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 547 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -60.6K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 191.9K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 159.6K |

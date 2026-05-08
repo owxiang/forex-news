@@ -58,12 +58,12 @@
 | 15:00 | USD | Low | Michigan Current Conditions (May) | 47.8 | 52.0 | 52.5 |
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (Mar) | 1.3% | 1.4% | 0.8% |
 | 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Mar) | 2.8% |  | 2.6% |
-| 22 min | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 3.7% | 3.7% |
-| 22 min | USD | High | U.S. President Trump Speaks |  |  |  |
-| 22 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 37 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 408 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 547 |
+| 16:50 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 3.7% | 3.7% | 3.7% |
+| 17:00 | USD | High | U.S. President Trump Speaks |  |  |  |
+| 17:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 17:15 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 23 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 408 |
+| 23 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 547 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -60.6K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -0.0K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 63.3K |
