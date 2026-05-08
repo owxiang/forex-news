@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | JPY | S&P Global Services PMI (Apr) |  | 51.2 | 53.4 |
-| 07:00 | GBP | Halifax House Price Index (MoM) (Apr) |  | 0.0% | -0.5% |
+| 01:30 | JPY | S&P Global Services PMI (Apr) | 51.0 | 51.2 | 53.4 |
 | 07:00 | GBP | Halifax House Price Index (YoY) (Apr) |  |  | 0.8% |
+| 07:00 | GBP | Halifax House Price Index (MoM) (Apr) |  | 0.0% | -0.5% |
 | 07:00 | EUR | German Industrial Production (MoM) (Mar) |  | 0.4% | -0.3% |
 | 07:00 | EUR | German Trade Balance (Mar) |  | 17.8B | 19.8B |
 | 08:00 | CHF | SECO Consumer Climate (Q2) |  | -46 | -30 |

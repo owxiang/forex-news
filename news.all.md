@@ -3,13 +3,13 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | KRW | Low | Current Account (Mar) | 37.33B |  | 23.19B |
-| 7 min | JPY | Low | Overall wage income of employees (Mar) |  | 3.2% | 3.3% |
-| 7 min | JPY | Low | Overtime Pay (YoY) (Mar) |  |  | 3.30% |
-| 01:30 | JPY | Low | Manufacturing & Services PMI (Apr) |  | 52.40 | 53.00 |
-| 01:30 | JPY | Moderate | S&P Global Services PMI (Apr) |  | 51.2 | 53.4 |
+| 00:30 | JPY | Low | Overall wage income of employees (Mar) | 2.7% | 3.2% | 3.4% |
+| 00:30 | JPY | Low | Overtime Pay (YoY) (Mar) | 1.90% |  | 3.40% |
+| 01:30 | JPY | Low | Manufacturing & Services PMI (Apr) | 52.20 | 52.40 | 53.00 |
+| 01:30 | JPY | Moderate | S&P Global Services PMI (Apr) | 51.0 | 51.2 | 53.4 |
 | 04:00 | IDR | Low | FX Reserves (USD) (Apr) |  |  | 148.20B |
-| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Apr) |  | 0.0% | -0.5% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Apr) |  |  | 0.8% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Apr) |  | 0.0% | -0.5% |
 | 07:00 | EUR | Low | German Exports (MoM) (Mar) |  | -1.9% | 3.6% |
 | 07:00 | EUR | Low | German Imports (MoM) (Mar) |  |  | 4.7% |
 | 07:00 | EUR | Moderate | German Industrial Production (MoM) (Mar) |  | 0.4% | -0.3% |
@@ -28,6 +28,7 @@
 | 10:45 | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Apr) |  |  | 1.14% |
 | 12:30 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 12:30 | INR | Low | Deposit Growth |  |  | 12.2% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 698.49B |
 | 13:00 | MXN | Low | Consumer Confidence (Apr) |  |  | 44.1 |
 | 13:00 | MXN | Low | Consumer Confidence n.s.a. (Apr) |  |  | 44.1 |

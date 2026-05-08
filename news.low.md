@@ -3,9 +3,9 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | KRW | Current Account (Mar) | 37.33B |  | 23.19B |
-| 7 min | JPY | Overall wage income of employees (Mar) |  | 3.2% | 3.3% |
-| 7 min | JPY | Overtime Pay (YoY) (Mar) |  |  | 3.30% |
-| 01:30 | JPY | Manufacturing & Services PMI (Apr) |  | 52.40 | 53.00 |
+| 00:30 | JPY | Overall wage income of employees (Mar) | 2.7% | 3.2% | 3.4% |
+| 00:30 | JPY | Overtime Pay (YoY) (Mar) | 1.90% |  | 3.40% |
+| 01:30 | JPY | Manufacturing & Services PMI (Apr) | 52.20 | 52.40 | 53.00 |
 | 04:00 | IDR | FX Reserves (USD) (Apr) |  |  | 148.20B |
 | 07:00 | EUR | German Exports (MoM) (Mar) |  | -1.9% | 3.6% |
 | 07:00 | EUR | German Imports (MoM) (Mar) |  |  | 4.7% |
@@ -18,6 +18,7 @@
 | 09:30 | HKD | Foreign Reserves (USD) (Apr) |  |  | 430.80B |
 | 10:45 | USD | Fed Governor Cook Speaks |  |  |  |
 | 12:00 | BRL | IGP-DI Inflation Index (MoM) (Apr) |  |  | 1.14% |
+| 12:30 | INR | Deposit Growth |  |  | 12.2% |
 | 12:30 | INR | FX Reserves, USD |  |  | 698.49B |
 | 13:00 | MXN | Consumer Confidence (Apr) |  |  | 44.1 |
 | 13:00 | MXN | Consumer Confidence n.s.a. (Apr) |  |  | 44.1 |
