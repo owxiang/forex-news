@@ -9,13 +9,13 @@
 | 04:00 | IDR | FX Reserves (USD) (Apr) | 146.20B |  | 148.20B |
 | 07:00 | EUR | German Exports (MoM) (Mar) | 0.5% | -1.7% | 3.6% |
 | 07:00 | EUR | German Imports (MoM) (Mar) | 5.1% | 0.8% | 4.9% |
-| 07:00 | EUR | German Industrial Production (YoY) (Mar) | -2.80% |  | -0.20% |
+| 07:00 | EUR | German Industrial Production (YoY) (Mar) | -3.00% |  | -0.33% |
 | 07:00 | NOK | Manufacturing Production (MoM) (Mar) | 2.0% |  | -0.4% |
 | 07:00 | ZAR | Foreign Reserves (USD) (Apr) | 77.09B |  | 77.76B |
 | 07:00 | ZAR | Net FX Reserves (USD) (Apr) | 73.757B |  | 73.187B |
-| 07:30 | IDR | Car Sales (YoY) (Apr) |  |  | -13.80% |
-| 15 min | EUR | Spanish Industrial Production (YoY) (Mar) |  |  | -1.1% |
-| 09:30 | HKD | Foreign Reserves (USD) (Apr) |  |  | 430.80B |
+| 08:00 | EUR | Spanish Industrial Production (YoY) (Mar) | 1.8% |  | -0.9% |
+| 22 min | IDR | Car Sales (YoY) (Apr) |  |  | -13.80% |
+| 52 min | HKD | Foreign Reserves (USD) (Apr) |  |  | 430.80B |
 | 10:45 | USD | Fed Governor Cook Speaks |  |  |  |
 | 12:00 | BRL | IGP-DI Inflation Index (MoM) (Apr) |  |  | 1.14% |
 | 12:30 | INR | FX Reserves, USD |  |  | 698.49B |
