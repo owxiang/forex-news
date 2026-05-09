@@ -6,9 +6,9 @@
 | 00:30 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 00:30 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 00:30 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
-| 18:21 | CNY | Low | Exports (Apr) |  |  | -0.70M |
-| 18:21 | CNY | Low | Imports (Apr) |  |  | 23.80M |
-| 18:21 | CNY | Low | Trade Balance (Apr) |  | 570.00B | 354.75B |
-| 18:21 | CNY | Moderate | Exports (YoY) (Apr) |  |  | 2.5% |
-| 18:21 | CNY | Moderate | Imports (YoY) (Apr) |  |  | 27.8% |
-| 18:21 | CNY | Moderate | Trade Balance (USD) (Apr) |  | 82.40B | 51.13B |
+| 03:45 | CNY | Moderate | Trade Balance (USD) (Apr) | 84.80B | 82.40B | 51.13B |
+| 04:04 | CNY | Moderate | Exports (YoY) (Apr) | 14.1% |  | 2.5% |
+| 04:04 | CNY | Moderate | Imports (YoY) (Apr) | 25.3% |  | 27.8% |
+| 04:04 | CNY | Low | Exports (Apr) | 9.80M |  | -0.70M |
+| 04:04 | CNY | Low | Imports (Apr) | 20.60M |  | 23.80M |
+| 04:04 | CNY | Low | Trade Balance (Apr) | 585.60B | 570.00B | 354.75B |
