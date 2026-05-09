@@ -6,4 +6,3 @@
 | 04:00 | CNY | Exports (Apr) | 9.80M |  | -0.70M |
 | 04:00 | CNY | Imports (Apr) | 20.60M |  | 23.80M |
 | 04:00 | CNY | Trade Balance (Apr) | 585.60B | 575.00B | 354.75B |
-| 19:20 | USD | Fed Goolsbee Speaks |  |  |  |

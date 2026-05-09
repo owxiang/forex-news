@@ -12,4 +12,3 @@
 | 04:00 | CNY | Moderate | Exports (YoY) (Apr) | 14.1% | 7.9% | 2.5% |
 | 04:00 | CNY | Moderate | Imports (YoY) (Apr) | 25.3% | 15.2% | 27.8% |
 | 04:00 | CNY | Moderate | Trade Balance (USD) (Apr) | 84.80B | 83.10B | 51.13B |
-| 19:20 | USD | Low | Fed Goolsbee Speaks |  |  |  |
