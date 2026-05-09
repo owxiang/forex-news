@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 5 min | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 5 min | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 5 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 5 min | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
+| 00:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 00:30 | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 00:30 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 00:30 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 18:21 | CNY | Low | Exports (Apr) |  |  | -0.70M |
 | 18:21 | CNY | Low | Imports (Apr) |  |  | 23.80M |
 | 18:21 | CNY | Low | Trade Balance (Apr) |  | 570.00B | 354.75B |
