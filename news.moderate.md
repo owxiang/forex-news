@@ -1,10 +1,12 @@
-## 09 May 2026 - Moderate Impact Forex News
+## 11 May 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | USD | Fed Waller Speaks |  |  |  |
-| 00:30 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 00:30 | USD | FOMC Member Daly Speaks |  |  |  |
-| 04:00 | CNY | Exports (YoY) (Apr) | 14.1% | 7.9% | 2.5% |
-| 04:00 | CNY | Imports (YoY) (Apr) | 25.3% | 15.2% | 27.8% |
-| 04:00 | CNY | Trade Balance (USD) (Apr) | 84.80B | 83.10B | 51.13B |
+| 02:30 | AUD | Building Approvals (MoM) (Mar) |  | -10.5% | 29.7% |
+| 02:30 | CNY | CPI (YoY) (Apr) |  | 0.9% | 1.0% |
+| 02:30 | CNY | CPI (MoM) (Apr) |  | -0.1% | -0.7% |
+| 02:30 | CNY | PPI (YoY) (Apr) |  | 1.7% | 0.5% |
+| 15:00 | USD | Existing Home Sales (MoM) (Apr) |  |  | -3.6% |
+| 15:40 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
+| 17:15 | EUR | German Buba Mauderer Speaks |  |  |  |
+| 18:00 | USD | 3-Year Note Auction |  |  | 3.897% |
