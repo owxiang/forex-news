@@ -2,13 +2,13 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 29 min | AUD | Low | Building Approvals (YoY) (Mar) |  | 9.00% | 14.00% |
-| 29 min | AUD | Moderate | Building Approvals (MoM) (Mar) |  | -10.5% | 29.7% |
-| 29 min | AUD | Low | Private House Approvals (Mar) |  | 0.9% | 0.2% |
-| 29 min | CNY | Moderate | CPI (YoY) (Apr) |  | 0.9% | 1.0% |
-| 29 min | CNY | Moderate | CPI (MoM) (Apr) |  | -0.1% | -0.7% |
-| 29 min | CNY | Moderate | PPI (YoY) (Apr) |  | 1.7% | 0.5% |
-| 04:00 | IDR | Low | Consumer Confidence (Apr) |  |  | 122.9 |
+| 02:30 | AUD | Low | Building Approvals (YoY) (Mar) | 9.00% | 9.00% | 16.10% |
+| 02:30 | AUD | Moderate | Building Approvals (MoM) (Mar) | -10.5% | -10.5% | 31.0% |
+| 02:30 | AUD | Low | Private House Approvals (Mar) | 0.9% | 0.9% | 2.0% |
+| 02:30 | CNY | Moderate | CPI (YoY) (Apr) | 1.2% | 0.9% | 1.0% |
+| 02:30 | CNY | Moderate | CPI (MoM) (Apr) | 0.3% | -0.1% | -0.7% |
+| 02:30 | CNY | Moderate | PPI (YoY) (Apr) | 2.8% | 1.7% | 0.5% |
+| 04:00 | IDR | Low | Consumer Confidence (Apr) | 123.0 |  | 122.9 |
 | 07:00 | NOK | Low | Core CPI YTD (Apr) |  |  | 3.0% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Apr) |  |  | 0.1% |
 | 07:00 | NOK | Low | CPI (MoM) (Apr) |  |  | 0.2% |

@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 29 min | AUD | Building Approvals (YoY) (Mar) |  | 9.00% | 14.00% |
-| 29 min | AUD | Private House Approvals (Mar) |  | 0.9% | 0.2% |
-| 04:00 | IDR | Consumer Confidence (Apr) |  |  | 122.9 |
+| 02:30 | AUD | Building Approvals (YoY) (Mar) | 9.00% | 9.00% | 16.10% |
+| 02:30 | AUD | Private House Approvals (Mar) | 0.9% | 0.9% | 2.0% |
+| 04:00 | IDR | Consumer Confidence (Apr) | 123.0 |  | 122.9 |
 | 07:00 | NOK | Core CPI YTD (Apr) |  |  | 3.0% |
 | 07:00 | NOK | Core Inflation (MoM) (Apr) |  |  | 0.1% |
 | 07:00 | NOK | CPI (MoM) (Apr) |  |  | 0.2% |
