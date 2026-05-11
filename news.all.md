@@ -16,11 +16,10 @@
 | 07:00 | NOK | Low | CPI (YoY) (Apr) | 3.4% |  | 3.6% |
 | 07:00 | NOK | Low | PPI (YoY) (Apr) | 22.7% |  | 16.9% |
 | 08:45 | EUR | Low | French Reserve Assets Total (Apr) | 386,898.0M |  | 390,629.0M |
-| 10 min | EUR | Low | German 12-Month Bubill Auction |  |  | 2.517% |
-| 10 min | EUR | Low | German 6-Month Bubill Auction |  |  | 2.310% |
-| 40 min | EUR | Low | German Buba Monthly Report |  |  |  |
-| 12:00 | BRL | Low | IGP-10 Inflation Index (MoM) (May) |  |  | 2.9% |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 10:50 | EUR | Low | German 12-Month Bubill Auction | 2.482% |  | 2.517% |
+| 10:50 | EUR | Low | German 6-Month Bubill Auction | 2.257% |  | 2.310% |
+| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 15 min | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.670% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.219% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.476% |
