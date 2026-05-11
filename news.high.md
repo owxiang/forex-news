@@ -1,5 +1,9 @@
-## 11 May 2026 - High Impact Forex News
+## 12 May 2026 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 15:00 | USD | Existing Home Sales (Apr) | 4.02M | 4.05M | 4.01M |
+| 07:00 | EUR | German CPI (MoM) (Apr) |  | 0.6% | 0.6% |
+| 13:30 | USD | Core CPI (MoM) (Apr) |  | 0.3% | 0.2% |
+| 13:30 | USD | CPI (MoM) (Apr) |  | 0.6% | 0.9% |
+| 13:30 | USD | CPI (YoY) (Apr) |  | 3.7% | 3.3% |
+| 18:00 | USD | 10-Year Note Auction |  |  | 4.282% |

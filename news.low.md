@@ -1,36 +1,39 @@
-## 11 May 2026 - Low Impact Forex News
+## 12 May 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Building Approvals (YoY) (Mar) | 9.00% | 9.00% | 16.10% |
-| 02:30 | AUD | Private House Approvals (Mar) | 0.9% | 0.9% | 2.0% |
-| 04:00 | IDR | Consumer Confidence (Apr) | 123.0 |  | 122.9 |
-| 04:50 | IDR | Motorbike Sales (YoY) (Apr) | 28.10% |  | -17.10% |
-| 07:00 | NOK | Core CPI YTD (Apr) | 3.2% |  | 3.0% |
-| 07:00 | NOK | Core Inflation (MoM) (Apr) | 0.7% |  | 0.1% |
-| 07:00 | NOK | CPI (MoM) (Apr) | 0.4% |  | 0.2% |
-| 07:00 | NOK | CPI (YoY) (Apr) | 3.4% |  | 3.6% |
-| 07:00 | NOK | PPI (YoY) (Apr) | 22.7% |  | 16.9% |
-| 08:45 | EUR | French Reserve Assets Total (Apr) | 386,898.0M |  | 390,629.0M |
-| 10:50 | EUR | German 12-Month Bubill Auction | 2.482% |  | 2.517% |
-| 10:50 | EUR | German 6-Month Bubill Auction | 2.257% |  | 2.310% |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 14:00 | EUR | French 12-Month BTF Auction | 2.613% |  | 2.670% |
-| 14:00 | EUR | French 3-Month BTF Auction | 2.234% |  | 2.219% |
-| 14:00 | EUR | French 6-Month BTF Auction | 2.421% |  | 2.476% |
-| 15:00 | USD | CB Employment Trends Index (Apr) | 105.77 |  | 105.52 |
-| 15:15 | USD | OPEC Crude Oil Production Algeria (Barrel) | 0.97M |  | 0.96M |
-| 15:15 | USD | OPEC Crude Oil Production Congo (Barrel) | 0.26M |  | 0.26M |
-| 15:15 | USD | OPEC Crude Oil Production Gabon (Barrel) | 0.23M |  | 0.23M |
-| 15:15 | USD | OPEC Crude Oil Production Guinea (Barrel) | 0.05M |  | 0.05M |
-| 15:15 | USD | OPEC Crude oil Production Iran (Barrel) | 3.00M |  | 3.10M |
-| 15:15 | USD | OPEC Crude oil Production Iraq (Barrel) | 1.40M |  | 1.40M |
-| 15:15 | USD | OPEC Crude Oil Production Kuwait (Barrel) | 0.56M |  | 1.20M |
-| 15:15 | USD | OPEC Crude Oil Production Libya (Barrel) | 1.27M |  | 1.22M |
-| 15:15 | USD | OPEC Crude Oil Production Nigeria (Barrel) | 1.55M |  | 1.57M |
-| 15:15 | USD | OPEC Crude oil Production UAE (Barrel) | 2.00M |  | 2.10M |
-| 15:15 | USD | OPEC Crude oil Production Venezuela (Barrel) | 1.10M |  | 0.98M |
-| 16:30 | USD | 3-Month Bill Auction | 3.610% |  | 3.610% |
-| 16:30 | USD | 6-Month Bill Auction | 3.615% |  | 3.610% |
-| 20:25 | USD | OPEC Crude oil Production Saudi Arabia (Barrel) | 7.65M |  | 9.95M |
+| 26 min | JPY | BoJ Summary of Opinions |  |  |  |
+| 26 min | JPY | Foreign Reserves (USD) (Apr) |  |  | 1,374.7B |
+| 01:30 | AUD | Westpac Consumer Sentiment (May) |  |  | -12.5% |
+| 02:30 | AUD | NAB Business Survey (Apr) |  |  | 6 |
+| 04:00 | IDR | Retail Sales (YoY) (Mar) |  |  | 6.5% |
+| 05:30 | NOK | Consumer Confidence (Q2) |  |  | -9.40 |
+| 06:00 | JPY | Coincident Indicator (MoM) (Mar) |  |  | -1.8% |
+| 06:00 | JPY | Leading Index (Mar) |  | 114.4 | 113.3 |
+| 06:00 | JPY | Leading Index (MoM) (Mar) |  |  | 1.3% |
+| 07:00 | EUR | German HICP (MoM) (Apr) |  | 0.5% | 0.5% |
+| 07:00 | EUR | German HICP (YoY) (Apr) |  | 2.9% | 2.9% |
+| 07:30 | CHF | PPI (YoY) (Apr) |  |  | -2.7% |
+| 09:00 | EUR | Italian Industrial Production (MoM) (Mar) |  | 0.2% | 0.1% |
+| 09:00 | EUR | Italian Industrial Production (YoY) (Mar) |  |  | 0.5% |
+| 09:50 | EUR | Spanish 3-Month Letras Auction |  |  | 2.111% |
+| 10:00 | ZAR | Unemployment Rate (Q1) |  |  | 31.40% |
+| 10:00 | ZAR | Unemployment (Q1) |  |  | 7.836M |
+| 10:10 | EUR | Italian 12-Month BOT Auction |  |  | 2.604% |
+| 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.470% |
+| 11:00 | USD | NFIB Small Business Optimism (Apr) |  | 96.0 | 95.8 |
+| 12:00 | ZAR | Manufacturing Production (MoM) (Mar) |  |  | -2.2% |
+| 12:00 | ZAR | Manufacturing Production (YoY) (Mar) |  |  | -2.8% |
+| 13:00 | MXN | Industrial Production (YoY) (Mar) |  | -1.5% | -1.3% |
+| 13:00 | MXN | Industrial Production (MoM) (Mar) |  | -0.2% | 0.4% |
+| 13:00 | BRL | CPI (MoM) (Apr) |  | 0.70% | 0.88% |
+| 13:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Apr) |  |  | 0.82% |
+| 13:30 | USD | Core CPI Index (Apr) |  |  | 334.17 |
+| 13:30 | USD | CPI Index, n.s.a. (Apr) |  |  | 330.21 |
+| 13:30 | USD | CPI Index, s.a (Apr) |  |  | 330.29 |
+| 13:30 | USD | CPI, n.s.a (MoM) (Apr) |  |  | 1.05% |
+| 13:30 | USD | Real Earnings (MoM) (Apr) |  |  | -0.9% |
+| 13:55 | USD | Redbook (YoY) |  |  | 7.8% |
+| 16:00 | USD | Cleveland CPI (MoM) (Apr) |  |  | 0.2% |
+| 16:30 | USD | 52-Week Bill Auction |  |  | 3.485% |
+| 18:00 | USD | Fed Goolsbee Speaks |  |  |  |

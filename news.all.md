@@ -1,45 +1,65 @@
-## 11 May 2026 - All Forex News
+## 12 May 2026 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 02:30 | AUD | Low | Building Approvals (YoY) (Mar) | 9.00% | 9.00% | 16.10% |
-| 02:30 | AUD | Moderate | Building Approvals (MoM) (Mar) | -10.5% | -10.5% | 31.0% |
-| 02:30 | AUD | Low | Private House Approvals (Mar) | 0.9% | 0.9% | 2.0% |
-| 02:30 | CNY | Moderate | CPI (YoY) (Apr) | 1.2% | 0.9% | 1.0% |
-| 02:30 | CNY | Moderate | CPI (MoM) (Apr) | 0.3% | -0.1% | -0.7% |
-| 02:30 | CNY | Moderate | PPI (YoY) (Apr) | 2.8% | 1.7% | 0.5% |
-| 04:00 | IDR | Low | Consumer Confidence (Apr) | 123.0 |  | 122.9 |
-| 04:50 | IDR | Low | Motorbike Sales (YoY) (Apr) | 28.10% |  | -17.10% |
-| 07:00 | NOK | Low | Core CPI YTD (Apr) | 3.2% |  | 3.0% |
-| 07:00 | NOK | Low | Core Inflation (MoM) (Apr) | 0.7% |  | 0.1% |
-| 07:00 | NOK | Low | CPI (MoM) (Apr) | 0.4% |  | 0.2% |
-| 07:00 | NOK | Low | CPI (YoY) (Apr) | 3.4% |  | 3.6% |
-| 07:00 | NOK | Low | PPI (YoY) (Apr) | 22.7% |  | 16.9% |
-| 08:45 | EUR | Low | French Reserve Assets Total (Apr) | 386,898.0M |  | 390,629.0M |
-| 10:50 | EUR | Low | German 12-Month Bubill Auction | 2.482% |  | 2.517% |
-| 10:50 | EUR | Low | German 6-Month Bubill Auction | 2.257% |  | 2.310% |
-| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.613% |  | 2.670% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.234% |  | 2.219% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.421% |  | 2.476% |
-| 15:00 | USD | Low | CB Employment Trends Index (Apr) | 105.77 |  | 105.52 |
-| 15:00 | USD | High | Existing Home Sales (Apr) | 4.02M | 4.05M | 4.01M |
-| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Apr) | 0.2% |  | -2.9% |
-| 15:15 | USD | Low | OPEC Crude Oil Production Algeria (Barrel) | 0.97M |  | 0.96M |
-| 15:15 | USD | Low | OPEC Crude Oil Production Congo (Barrel) | 0.26M |  | 0.26M |
-| 15:15 | USD | Low | OPEC Crude Oil Production Gabon (Barrel) | 0.23M |  | 0.23M |
-| 15:15 | USD | Low | OPEC Crude Oil Production Guinea (Barrel) | 0.05M |  | 0.05M |
-| 15:15 | USD | Low | OPEC Crude oil Production Iran (Barrel) | 3.00M |  | 3.10M |
-| 15:15 | USD | Low | OPEC Crude oil Production Iraq (Barrel) | 1.40M |  | 1.40M |
-| 15:15 | USD | Low | OPEC Crude Oil Production Kuwait (Barrel) | 0.56M |  | 1.20M |
-| 15:15 | USD | Low | OPEC Crude Oil Production Libya (Barrel) | 1.27M |  | 1.22M |
-| 15:15 | USD | Low | OPEC Crude Oil Production Nigeria (Barrel) | 1.55M |  | 1.57M |
-| 15:15 | USD | Low | OPEC Crude oil Production UAE (Barrel) | 2.00M |  | 2.10M |
-| 15:15 | USD | Low | OPEC Crude oil Production Venezuela (Barrel) | 1.10M |  | 0.98M |
-| 15:40 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
-| 16:30 | USD | Low | 3-Month Bill Auction | 3.610% |  | 3.610% |
-| 16:30 | USD | Low | 6-Month Bill Auction | 3.615% |  | 3.610% |
-| 17:15 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 18:00 | USD | Moderate | 3-Year Note Auction | 3.965% |  | 3.897% |
-| 20:25 | USD | Low | OPEC Crude oil Production Saudi Arabia (Barrel) | 7.65M |  | 9.95M |
+| 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Apr) | -3.4% | 0.7% | 3.1% |
+| 6 min | JPY | Moderate | Household Spending (YoY) (Mar) |  | -1.4% | -1.8% |
+| 6 min | JPY | Moderate | Household Spending (MoM) (Mar) |  | 0.6% | 1.5% |
+| 26 min | JPY | Low | BoJ Summary of Opinions |  |  |  |
+| 26 min | JPY | Low | Foreign Reserves (USD) (Apr) |  |  | 1,374.7B |
+| 01:30 | AUD | Low | Westpac Consumer Sentiment (May) |  |  | -12.5% |
+| 02:30 | AUD | Moderate | NAB Business Confidence (Apr) |  |  | -29 |
+| 02:30 | AUD | Low | NAB Business Survey (Apr) |  |  | 6 |
+| 04:00 | IDR | Low | Retail Sales (YoY) (Mar) |  |  | 6.5% |
+| 04:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 2.350% |
+| 05:30 | NOK | Low | Consumer Confidence (Q2) |  |  | -9.40 |
+| 06:00 | JPY | Low | Coincident Indicator (MoM) (Mar) |  |  | -1.8% |
+| 06:00 | JPY | Low | Leading Index (Mar) |  | 114.4 | 113.3 |
+| 06:00 | JPY | Low | Leading Index (MoM) (Mar) |  |  | 1.3% |
+| 07:00 | EUR | High | German CPI (MoM) (Apr) |  | 0.6% | 0.6% |
+| 07:00 | EUR | Moderate | German CPI (YoY) (Apr) |  | 2.9% | 2.9% |
+| 07:00 | EUR | Low | German HICP (MoM) (Apr) |  | 0.5% | 0.5% |
+| 07:00 | EUR | Low | German HICP (YoY) (Apr) |  | 2.9% | 2.9% |
+| 07:30 | CHF | Moderate | PPI (MoM) (Apr) |  | 0.1% | 0.2% |
+| 07:30 | CHF | Low | PPI (YoY) (Apr) |  |  | -2.7% |
+| 08:15 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Mar) |  | 0.2% | 0.1% |
+| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Mar) |  |  | 0.5% |
+| 09:50 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 2.111% |
+| 10:00 | EUR | Moderate | German ZEW Current Conditions (May) |  | -77.5 | -73.7 |
+| 10:00 | EUR | Moderate | German ZEW Economic Sentiment (May) |  | -19.1 | -17.2 |
+| 10:00 | EUR | Moderate | ZEW Economic Sentiment (May) |  | -21.6 | -20.4 |
+| 10:00 | ZAR | Low | Unemployment Rate (Q1) |  |  | 31.40% |
+| 10:00 | ZAR | Low | Unemployment (Q1) |  |  | 7.836M |
+| 10:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.604% |
+| 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 2.470% |
+| 11:00 | USD | Low | NFIB Small Business Optimism (Apr) |  | 96.0 | 95.8 |
+| 11:30 | INR | Moderate | CPI (YoY) (Apr) |  | 3.80% | 3.40% |
+| 11:40 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Mar) |  |  | -2.2% |
+| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Mar) |  |  | -2.8% |
+| 13:00 | MXN | Low | Industrial Production (YoY) (Mar) |  | -1.5% | -1.3% |
+| 13:00 | MXN | Low | Industrial Production (MoM) (Mar) |  | -0.2% | 0.4% |
+| 13:00 | BRL | Moderate | CPI (YoY) (Apr) |  | 4.41% | 4.14% |
+| 13:00 | BRL | Low | CPI (MoM) (Apr) |  | 0.70% | 0.88% |
+| 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Apr) |  |  | 0.82% |
+| 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 39.30K |
+| 13:30 | USD | High | Core CPI (MoM) (Apr) |  | 0.3% | 0.2% |
+| 13:30 | USD | Moderate | Core CPI (YoY) (Apr) |  | 2.7% | 2.6% |
+| 13:30 | USD | Low | Core CPI Index (Apr) |  |  | 334.17 |
+| 13:30 | USD | High | CPI (MoM) (Apr) |  | 0.6% | 0.9% |
+| 13:30 | USD | High | CPI (YoY) (Apr) |  | 3.7% | 3.3% |
+| 13:30 | USD | Low | CPI Index, n.s.a. (Apr) |  |  | 330.21 |
+| 13:30 | USD | Low | CPI Index, s.a (Apr) |  |  | 330.29 |
+| 13:30 | USD | Low | CPI, n.s.a (MoM) (Apr) |  |  | 1.05% |
+| 13:30 | USD | Low | Real Earnings (MoM) (Apr) |  |  | -0.9% |
+| 13:55 | USD | Low | Redbook (YoY) |  |  | 7.8% |
+| 16:00 | USD | Low | Cleveland CPI (MoM) (Apr) |  |  | 0.2% |
+| 16:30 | USD | Low | 52-Week Bill Auction |  |  | 3.485% |
+| 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
+| 17:00 | USD | Moderate | WASDE Report |  |  |  |
+| 18:00 | USD | High | 10-Year Note Auction |  |  | 4.282% |
+| 18:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 18:30 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
+| 19:00 | USD | Moderate | Federal Budget Balance (Apr) |  | 37.5B | -164.0B |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -8.100M |
