@@ -42,3 +42,4 @@
 | 16:30 | USD | Low | 6-Month Bill Auction | 3.615% |  | 3.610% |
 | 17:15 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 18:00 | USD | Moderate | 3-Year Note Auction | 3.965% |  | 3.897% |
+| 20:25 | USD | Low | OPEC Crude oil Production Saudi Arabia (Barrel) | 7.65M |  | 9.95M |

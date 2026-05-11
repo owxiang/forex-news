@@ -33,3 +33,4 @@
 | 15:15 | USD | OPEC Crude oil Production Venezuela (Barrel) | 1.10M |  | 0.98M |
 | 16:30 | USD | 3-Month Bill Auction | 3.610% |  | 3.610% |
 | 16:30 | USD | 6-Month Bill Auction | 3.615% |  | 3.610% |
+| 20:25 | USD | OPEC Crude oil Production Saudi Arabia (Barrel) | 7.65M |  | 9.95M |
