@@ -23,11 +23,22 @@
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.613% |  | 2.670% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.234% |  | 2.219% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.421% |  | 2.476% |
-| 49 min | USD | Low | CB Employment Trends Index (Apr) |  |  | 105.72 |
-| 49 min | USD | High | Existing Home Sales (Apr) |  | 4.05M | 3.98M |
-| 49 min | USD | Moderate | Existing Home Sales (MoM) (Apr) |  |  | -3.6% |
+| 15:00 | USD | Low | CB Employment Trends Index (Apr) | 105.77 |  | 105.52 |
+| 15:00 | USD | High | Existing Home Sales (Apr) | 4.02M | 4.05M | 4.01M |
+| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Apr) | 0.2% |  | -2.9% |
+| 15:15 | USD | Low | OPEC Crude Oil Production Algeria (Barrel) | 0.97M |  | 0.96M |
+| 15:15 | USD | Low | OPEC Crude Oil Production Congo (Barrel) | 0.26M |  | 0.26M |
+| 15:15 | USD | Low | OPEC Crude Oil Production Gabon (Barrel) | 0.23M |  | 0.23M |
+| 15:15 | USD | Low | OPEC Crude Oil Production Guinea (Barrel) | 0.05M |  | 0.05M |
+| 15:15 | USD | Low | OPEC Crude oil Production Iran (Barrel) | 3.00M |  | 3.10M |
+| 15:15 | USD | Low | OPEC Crude oil Production Iraq (Barrel) | 1.40M |  | 1.40M |
+| 15:15 | USD | Low | OPEC Crude Oil Production Kuwait (Barrel) | 0.56M |  | 1.20M |
+| 15:15 | USD | Low | OPEC Crude Oil Production Libya (Barrel) | 1.27M |  | 1.22M |
+| 15:15 | USD | Low | OPEC Crude Oil Production Nigeria (Barrel) | 1.55M |  | 1.57M |
+| 15:15 | USD | Low | OPEC Crude oil Production UAE (Barrel) | 2.00M |  | 2.10M |
+| 15:15 | USD | Low | OPEC Crude oil Production Venezuela (Barrel) | 1.10M |  | 0.98M |
 | 15:40 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.610% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.610% |
+| 21 min | USD | Low | 3-Month Bill Auction |  |  | 3.610% |
+| 21 min | USD | Low | 6-Month Bill Auction |  |  | 3.610% |
 | 17:15 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 3.897% |

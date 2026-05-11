@@ -6,7 +6,7 @@
 | 02:30 | CNY | CPI (YoY) (Apr) | 1.2% | 0.9% | 1.0% |
 | 02:30 | CNY | CPI (MoM) (Apr) | 0.3% | -0.1% | -0.7% |
 | 02:30 | CNY | PPI (YoY) (Apr) | 2.8% | 1.7% | 0.5% |
-| 49 min | USD | Existing Home Sales (MoM) (Apr) |  |  | -3.6% |
+| 15:00 | USD | Existing Home Sales (MoM) (Apr) | 0.2% |  | -2.9% |
 | 15:40 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
 | 17:15 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 18:00 | USD | 3-Year Note Auction |  |  | 3.897% |

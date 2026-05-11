@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 49 min | USD | Existing Home Sales (Apr) |  | 4.05M | 3.98M |
+| 15:00 | USD | Existing Home Sales (Apr) | 4.02M | 4.05M | 4.01M |
