@@ -9,4 +9,4 @@
 | 15:00 | USD | Existing Home Sales (MoM) (Apr) | 0.2% |  | -2.9% |
 | 15:40 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
 | 17:15 | EUR | German Buba Mauderer Speaks |  |  |  |
-| 18:00 | USD | 3-Year Note Auction |  |  | 3.897% |
+| 18:00 | USD | 3-Year Note Auction | 3.965% |  | 3.897% |
