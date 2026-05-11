@@ -38,7 +38,7 @@
 | 15:15 | USD | Low | OPEC Crude oil Production UAE (Barrel) | 2.00M |  | 2.10M |
 | 15:15 | USD | Low | OPEC Crude oil Production Venezuela (Barrel) | 1.10M |  | 0.98M |
 | 15:40 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
-| 21 min | USD | Low | 3-Month Bill Auction |  |  | 3.610% |
-| 21 min | USD | Low | 6-Month Bill Auction |  |  | 3.610% |
+| 16:30 | USD | Low | 3-Month Bill Auction | 3.610% |  | 3.610% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 3.615% |  | 3.610% |
 | 17:15 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 3.897% |

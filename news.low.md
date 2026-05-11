@@ -31,5 +31,5 @@
 | 15:15 | USD | OPEC Crude Oil Production Nigeria (Barrel) | 1.55M |  | 1.57M |
 | 15:15 | USD | OPEC Crude oil Production UAE (Barrel) | 2.00M |  | 2.10M |
 | 15:15 | USD | OPEC Crude oil Production Venezuela (Barrel) | 1.10M |  | 0.98M |
-| 21 min | USD | 3-Month Bill Auction |  |  | 3.610% |
-| 21 min | USD | 6-Month Bill Auction |  |  | 3.610% |
+| 16:30 | USD | 3-Month Bill Auction | 3.610% |  | 3.610% |
+| 16:30 | USD | 6-Month Bill Auction | 3.615% |  | 3.610% |
