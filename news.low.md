@@ -5,14 +5,13 @@
 | 00:50 | JPY | BoJ Summary of Opinions |  |  |  |
 | 00:50 | JPY | Foreign Reserves (USD) (Apr) | 1,383.0B |  | 1,374.7B |
 | 02:30 | AUD | NAB Business Survey (Apr) | 3 |  | 6 |
-| 02:30 | AUD | Westpac Consumer Sentiment (May) |  |  | -12.5% |
 | 04:00 | IDR | Retail Sales (YoY) (Mar) |  |  | 6.5% |
 | 05:30 | NOK | Consumer Confidence (Q2) |  |  | -9.40 |
 | 06:00 | JPY | Coincident Indicator (MoM) (Mar) |  |  | -1.8% |
 | 06:00 | JPY | Leading Index (Mar) |  | 114.4 | 113.3 |
 | 06:00 | JPY | Leading Index (MoM) (Mar) |  |  | 1.3% |
-| 07:00 | EUR | German HICP (MoM) (Apr) |  | 0.5% | 0.5% |
 | 07:00 | EUR | German HICP (YoY) (Apr) |  | 2.9% | 2.9% |
+| 07:00 | EUR | German HICP (MoM) (Apr) |  | 0.5% | 0.5% |
 | 07:30 | CHF | PPI (YoY) (Apr) |  |  | -2.7% |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Mar) |  | 0.2% | 0.1% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Mar) |  |  | 0.5% |

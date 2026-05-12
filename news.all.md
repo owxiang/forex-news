@@ -9,17 +9,16 @@
 | 00:50 | JPY | Low | Foreign Reserves (USD) (Apr) | 1,383.0B |  | 1,374.7B |
 | 02:30 | AUD | Moderate | NAB Business Confidence (Apr) | -24 |  | -29 |
 | 02:30 | AUD | Low | NAB Business Survey (Apr) | 3 |  | 6 |
-| 02:30 | AUD | Low | Westpac Consumer Sentiment (May) |  |  | -12.5% |
 | 04:00 | IDR | Low | Retail Sales (YoY) (Mar) |  |  | 6.5% |
-| 04:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 2.350% |
+| 19 min | JPY | Moderate | 10-Year JGB Auction |  |  | 2.350% |
 | 05:30 | NOK | Low | Consumer Confidence (Q2) |  |  | -9.40 |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Mar) |  |  | -1.8% |
 | 06:00 | JPY | Low | Leading Index (Mar) |  | 114.4 | 113.3 |
 | 06:00 | JPY | Low | Leading Index (MoM) (Mar) |  |  | 1.3% |
 | 07:00 | EUR | High | German CPI (MoM) (Apr) |  | 0.6% | 0.6% |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Apr) |  | 2.9% | 2.9% |
-| 07:00 | EUR | Low | German HICP (MoM) (Apr) |  | 0.5% | 0.5% |
 | 07:00 | EUR | Low | German HICP (YoY) (Apr) |  | 2.9% | 2.9% |
+| 07:00 | EUR | Low | German HICP (MoM) (Apr) |  | 0.5% | 0.5% |
 | 07:30 | CHF | Moderate | PPI (MoM) (Apr) |  | 0.1% | 0.2% |
 | 07:30 | CHF | Low | PPI (YoY) (Apr) |  |  | -2.7% |
 | 08:15 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
