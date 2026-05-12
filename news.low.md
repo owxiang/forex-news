@@ -35,5 +35,5 @@
 | 13:30 | USD | Real Earnings (MoM) (Apr) | -0.2% |  | -0.9% |
 | 13:55 | USD | Redbook (YoY) | 9.6% |  | 7.8% |
 | 16:00 | USD | Cleveland CPI (MoM) (Apr) |  |  | 0.2% |
-| 16:30 | USD | 52-Week Bill Auction |  |  | 3.485% |
+| 27 min | USD | 52-Week Bill Auction |  |  | 3.485% |
 | 18:00 | USD | Fed Goolsbee Speaks |  |  |  |
