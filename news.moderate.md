@@ -1,26 +1,26 @@
-## 12 May 2026 - Moderate Impact Forex News
+## 13 May 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Apr) | -3.4% | 0.7% | 3.1% |
-| 00:30 | JPY | Household Spending (YoY) (Mar) | -2.9% | -1.4% | -1.8% |
-| 00:30 | JPY | Household Spending (MoM) (Mar) | -1.3% | 0.6% | 1.5% |
-| 02:30 | AUD | NAB Business Confidence (Apr) | -24 |  | -29 |
-| 04:35 | JPY | 10-Year JGB Auction | 2.540% |  | 2.350% |
-| 07:00 | EUR | German CPI (YoY) (Apr) | 2.9% | 2.9% | 2.7% |
-| 07:30 | CHF | PPI (MoM) (Apr) | 0.8% | 0.4% | 0.2% |
-| 08:15 | USD | FOMC Member Williams Speaks |  |  |  |
-| 08:15 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 10:00 | EUR | German ZEW Current Conditions (May) | -77.8 | -77.5 | -73.7 |
-| 10:00 | EUR | German ZEW Economic Sentiment (May) | -10.2 | -19.2 | -17.2 |
-| 10:00 | EUR | ZEW Economic Sentiment (May) | -9.1 | -21.6 | -20.4 |
-| 11:30 | INR | CPI (YoY) (Apr) | 3.48% | 3.80% | 3.40% |
-| 11:40 | EUR | ECB's Elderson Speaks |  |  |  |
-| 13:00 | BRL | CPI (YoY) (Apr) | 4.39% | 4.41% | 4.14% |
-| 13:15 | USD | ADP Employment Change Weekly | 33.00K |  | 39.25K |
-| 13:30 | USD | Core CPI (YoY) (Apr) | 2.8% | 2.7% | 2.6% |
-| 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
-| 17:00 | USD | WASDE Report |  |  |  |
-| 18:30 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
-| 19:00 | USD | Federal Budget Balance (Apr) | 215.0B | 157.2B | -164.0B |
-| 21:30 | USD | API Weekly Crude Oil Stock | -2.188M | -1.650M | -8.100M |
+| 22 min | JPY | Adjusted Current Account (Mar) |  | 2.95T | 270.90T |
+| 22 min | JPY | Current Account n.s.a. (Mar) |  | 3.879T | 3.933T |
+| 02:30 | AUD | Home Loans (MoM) (Q1) |  |  | 10.6% |
+| 02:30 | AUD | Wage Price Index (QoQ) (Q1) |  | 0.8% | 0.8% |
+| 04:00 | NZD | Inflation Expectations (QoQ) (Q2) |  |  | 2.4% |
+| 07:45 | EUR | French CPI (MoM) (Apr) |  | 1.0% | 1.0% |
+| 07:45 | EUR | French HICP (MoM) (Apr) |  | 1.2% | 1.2% |
+| 10:00 | USD | IEA Monthly Report |  |  |  |
+| 10:00 | EUR | GDP (QoQ) (Q1) |  | 0.1% | 0.1% |
+| 10:00 | EUR | GDP (YoY) (Q1) |  | 0.8% | 0.8% |
+| 10:00 | EUR | Industrial Production (MoM) (Mar) |  | 0.2% | 0.4% |
+| 11:00 | USD | OPEC Monthly Report |  |  |  |
+| 13:00 | BRL | Retail Sales (YoY) (Mar) |  | 2.8% | 0.2% |
+| 13:00 | BRL | Retail Sales (MoM) (Mar) |  | 0.0% | 0.6% |
+| 13:15 | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 13:30 | USD | Core PPI (MoM) (Apr) |  | 0.3% | 0.1% |
+| 15:00 | GBP | BoE MPC Member Mann Speaks |  |  |  |
+| 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.648M |
+| 18:00 | GBP | BoE MPC Member Mann Speaks |  |  |  |
+| 18:15 | USD | FOMC Member Kashkari Speaks |  |  |  |
+| 20:00 | EUR | ECB's Lane Speaks |  |  |  |
+| 20:15 | EUR | ECB President Lagarde Speaks |  |  |  |
