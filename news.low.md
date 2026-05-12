@@ -10,11 +10,11 @@
 | 06:00 | JPY | Coincident Indicator (MoM) (Mar) | 0.3% |  | -1.7% |
 | 06:00 | JPY | Leading Index (Mar) | 114.5 | 114.4 | 113.2 |
 | 06:00 | JPY | Leading Index (MoM) (Mar) | 1.3% |  | 1.3% |
-| 40 min | EUR | German HICP (YoY) (Apr) |  | 2.9% | 2.8% |
-| 40 min | EUR | German HICP (MoM) (Apr) |  | 0.5% | 1.2% |
-| 07:30 | CHF | PPI (YoY) (Apr) |  |  | -2.7% |
-| 09:00 | EUR | Italian Industrial Production (MoM) (Mar) |  | 0.2% | 0.1% |
-| 09:00 | EUR | Italian Industrial Production (YoY) (Mar) |  |  | 0.5% |
+| 07:00 | EUR | German HICP (YoY) (Apr) | 2.9% | 2.9% | 2.8% |
+| 07:00 | EUR | German HICP (MoM) (Apr) | 0.5% | 0.5% | 1.2% |
+| 07:30 | CHF | PPI (YoY) (Apr) | -2.0% |  | -2.7% |
+| 51 min | EUR | Italian Industrial Production (MoM) (Mar) |  | 0.2% | 0.1% |
+| 51 min | EUR | Italian Industrial Production (YoY) (Mar) |  |  | 0.5% |
 | 09:50 | EUR | Spanish 3-Month Letras Auction |  |  | 2.111% |
 | 10:00 | ZAR | Unemployment Rate (Q1) |  |  | 31.40% |
 | 10:00 | ZAR | Unemployment (Q1) |  |  | 7.836M |

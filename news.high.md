@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 40 min | EUR | German CPI (MoM) (Apr) |  | 0.6% | 1.1% |
+| 07:00 | EUR | German CPI (MoM) (Apr) | 0.6% | 0.6% | 1.1% |
 | 13:30 | USD | Core CPI (MoM) (Apr) |  | 0.3% | 0.2% |
 | 13:30 | USD | CPI (YoY) (Apr) |  | 3.7% | 3.3% |
 | 13:30 | USD | CPI (MoM) (Apr) |  | 0.6% | 0.9% |

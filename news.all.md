@@ -15,16 +15,16 @@
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Mar) | 0.3% |  | -1.7% |
 | 06:00 | JPY | Low | Leading Index (Mar) | 114.5 | 114.4 | 113.2 |
 | 06:00 | JPY | Low | Leading Index (MoM) (Mar) | 1.3% |  | 1.3% |
-| 40 min | EUR | High | German CPI (MoM) (Apr) |  | 0.6% | 1.1% |
-| 40 min | EUR | Moderate | German CPI (YoY) (Apr) |  | 2.9% | 2.7% |
-| 40 min | EUR | Low | German HICP (YoY) (Apr) |  | 2.9% | 2.8% |
-| 40 min | EUR | Low | German HICP (MoM) (Apr) |  | 0.5% | 1.2% |
-| 07:30 | CHF | Moderate | PPI (MoM) (Apr) |  | 0.4% | 0.2% |
-| 07:30 | CHF | Low | PPI (YoY) (Apr) |  |  | -2.7% |
-| 08:15 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 08:15 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Mar) |  | 0.2% | 0.1% |
-| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Mar) |  |  | 0.5% |
+| 07:00 | EUR | High | German CPI (MoM) (Apr) | 0.6% | 0.6% | 1.1% |
+| 07:00 | EUR | Moderate | German CPI (YoY) (Apr) | 2.9% | 2.9% | 2.7% |
+| 07:00 | EUR | Low | German HICP (YoY) (Apr) | 2.9% | 2.9% | 2.8% |
+| 07:00 | EUR | Low | German HICP (MoM) (Apr) | 0.5% | 0.5% | 1.2% |
+| 07:30 | CHF | Moderate | PPI (MoM) (Apr) | 0.8% | 0.4% | 0.2% |
+| 07:30 | CHF | Low | PPI (YoY) (Apr) | -2.0% |  | -2.7% |
+| 6 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 6 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 51 min | EUR | Low | Italian Industrial Production (MoM) (Mar) |  | 0.2% | 0.1% |
+| 51 min | EUR | Low | Italian Industrial Production (YoY) (Mar) |  |  | 0.5% |
 | 09:50 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 2.111% |
 | 10:00 | EUR | Moderate | German ZEW Current Conditions (May) |  | -77.5 | -73.7 |
 | 10:00 | EUR | Moderate | German ZEW Economic Sentiment (May) |  | -19.2 | -17.2 |
