@@ -23,4 +23,4 @@
 | 17:00 | USD | WASDE Report |  |  |  |
 | 18:30 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
 | 19:00 | USD | Federal Budget Balance (Apr) | 215.0B | 157.2B | -164.0B |
-| 21:30 | USD | API Weekly Crude Oil Stock |  | -1.650M | -8.100M |
+| 21:30 | USD | API Weekly Crude Oil Stock | -2.188M | -1.650M | -8.100M |
