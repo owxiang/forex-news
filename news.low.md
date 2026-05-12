@@ -36,4 +36,4 @@
 | 13:55 | USD | Redbook (YoY) | 9.6% |  | 7.8% |
 | 16:00 | USD | Cleveland CPI (MoM) (Apr) | 0.4% |  | 0.2% |
 | 16:30 | USD | 52-Week Bill Auction | 3.650% |  | 3.485% |
-| 10 min | USD | Fed Goolsbee Speaks |  |  |  |
+| 18:00 | USD | Fed Goolsbee Speaks |  |  |  |

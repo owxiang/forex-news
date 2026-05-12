@@ -21,6 +21,6 @@
 | 13:30 | USD | Core CPI (YoY) (Apr) | 2.8% | 2.7% | 2.6% |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 17:00 | USD | WASDE Report |  |  |  |
-| 40 min | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
-| 19:00 | USD | Federal Budget Balance (Apr) |  | 157.2B | -164.0B |
-| 21:30 | USD | API Weekly Crude Oil Stock |  |  | -8.100M |
+| 18:30 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
+| 15 min | USD | Federal Budget Balance (Apr) |  | 157.2B | -164.0B |
+| 21:30 | USD | API Weekly Crude Oil Stock |  | -1.650M | -8.100M |

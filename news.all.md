@@ -59,8 +59,8 @@
 | 16:30 | USD | Low | 52-Week Bill Auction | 3.650% |  | 3.485% |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |
-| 10 min | USD | High | 10-Year Note Auction |  |  | 4.282% |
-| 10 min | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 40 min | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
-| 19:00 | USD | Moderate | Federal Budget Balance (Apr) |  | 157.2B | -164.0B |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -8.100M |
+| 18:00 | USD | High | 10-Year Note Auction | 4.468% |  | 4.282% |
+| 18:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 18:30 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
+| 15 min | USD | Moderate | Federal Budget Balance (Apr) |  | 157.2B | -164.0B |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.650M | -8.100M |
