@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | BoJ Summary of Opinions |  |  |  |
 | 00:50 | JPY | Foreign Reserves (USD) (Apr) | 1,383.0B |  | 1,374.7B |
-| 35 min | AUD | NAB Business Survey (Apr) |  |  | 6 |
-| 35 min | AUD | Westpac Consumer Sentiment (May) |  |  | -12.5% |
+| 02:30 | AUD | NAB Business Survey (Apr) | 3 |  | 6 |
+| 02:30 | AUD | Westpac Consumer Sentiment (May) |  |  | -12.5% |
 | 04:00 | IDR | Retail Sales (YoY) (Mar) |  |  | 6.5% |
 | 05:30 | NOK | Consumer Confidence (Q2) |  |  | -9.40 |
 | 06:00 | JPY | Coincident Indicator (MoM) (Mar) |  |  | -1.8% |

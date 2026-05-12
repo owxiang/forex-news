@@ -5,7 +5,7 @@
 | 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Apr) | -3.4% | 0.7% | 3.1% |
 | 00:30 | JPY | Household Spending (YoY) (Mar) | -2.9% | -1.4% | -1.8% |
 | 00:30 | JPY | Household Spending (MoM) (Mar) | -1.3% | 0.6% | 1.5% |
-| 35 min | AUD | NAB Business Confidence (Apr) |  |  | -29 |
+| 02:30 | AUD | NAB Business Confidence (Apr) | -24 |  | -29 |
 | 04:35 | JPY | 10-Year JGB Auction |  |  | 2.350% |
 | 07:00 | EUR | German CPI (YoY) (Apr) |  | 2.9% | 2.9% |
 | 07:30 | CHF | PPI (MoM) (Apr) |  | 0.1% | 0.2% |
