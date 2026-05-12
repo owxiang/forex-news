@@ -63,4 +63,4 @@
 | 18:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 18:30 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
 | 19:00 | USD | Moderate | Federal Budget Balance (Apr) | 215.0B | 157.2B | -164.0B |
-| 54 min | USD | Moderate | API Weekly Crude Oil Stock |  | -1.650M | -8.100M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.650M | -8.100M |
