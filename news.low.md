@@ -33,7 +33,7 @@
 | 13:30 | USD | CPI Index, s.a (Apr) | 332.41 |  | 330.29 |
 | 13:30 | USD | CPI, n.s.a (MoM) (Apr) | 0.85% |  | 1.05% |
 | 13:30 | USD | Real Earnings (MoM) (Apr) | -0.2% |  | -0.9% |
-| 3 min | USD | Redbook (YoY) |  |  | 7.8% |
+| 13:55 | USD | Redbook (YoY) | 9.6% |  | 7.8% |
 | 16:00 | USD | Cleveland CPI (MoM) (Apr) |  |  | 0.2% |
 | 16:30 | USD | 52-Week Bill Auction |  |  | 3.485% |
 | 18:00 | USD | Fed Goolsbee Speaks |  |  |  |

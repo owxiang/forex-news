@@ -54,7 +54,7 @@
 | 13:30 | USD | Low | CPI Index, s.a (Apr) | 332.41 |  | 330.29 |
 | 13:30 | USD | Low | CPI, n.s.a (MoM) (Apr) | 0.85% |  | 1.05% |
 | 13:30 | USD | Low | Real Earnings (MoM) (Apr) | -0.2% |  | -0.9% |
-| 3 min | USD | Low | Redbook (YoY) |  |  | 7.8% |
+| 13:55 | USD | Low | Redbook (YoY) | 9.6% |  | 7.8% |
 | 16:00 | USD | Low | Cleveland CPI (MoM) (Apr) |  |  | 0.2% |
 | 16:30 | USD | Low | 52-Week Bill Auction |  |  | 3.485% |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
