@@ -6,4 +6,4 @@
 | 13:30 | USD | Core CPI (MoM) (Apr) | 0.4% | 0.3% | 0.2% |
 | 13:30 | USD | CPI (YoY) (Apr) | 3.8% | 3.7% | 3.3% |
 | 13:30 | USD | CPI (MoM) (Apr) | 0.6% | 0.6% | 0.9% |
-| 18:00 | USD | 10-Year Note Auction |  |  | 4.282% |
+| 10 min | USD | 10-Year Note Auction |  |  | 4.282% |

@@ -19,8 +19,8 @@
 | 13:00 | BRL | CPI (YoY) (Apr) | 4.39% | 4.41% | 4.14% |
 | 13:15 | USD | ADP Employment Change Weekly | 33.00K |  | 39.25K |
 | 13:30 | USD | Core CPI (YoY) (Apr) | 2.8% | 2.7% | 2.6% |
-| 57 min | USD | EIA Short-Term Energy Outlook |  |  |  |
-| 57 min | USD | WASDE Report |  |  |  |
-| 18:30 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
+| 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
+| 17:00 | USD | WASDE Report |  |  |  |
+| 40 min | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
 | 19:00 | USD | Federal Budget Balance (Apr) |  | 157.2B | -164.0B |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | -8.100M |
