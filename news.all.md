@@ -37,24 +37,24 @@
 | 11:00 | USD | Low | NFIB Small Business Optimism (Apr) | 95.9 | 96.1 | 95.8 |
 | 11:30 | INR | Moderate | CPI (YoY) (Apr) | 3.48% | 3.80% | 3.40% |
 | 11:40 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 7 min | ZAR | Low | Manufacturing Production (MoM) (Mar) |  |  | -2.2% |
-| 7 min | ZAR | Low | Manufacturing Production (YoY) (Mar) |  |  | -2.8% |
-| 13:00 | MXN | Low | Industrial Production (YoY) (Mar) |  | -1.5% | -1.3% |
-| 13:00 | MXN | Low | Industrial Production (MoM) (Mar) |  | -0.2% | 0.4% |
-| 13:00 | BRL | Moderate | CPI (YoY) (Apr) |  | 4.41% | 4.14% |
-| 13:00 | BRL | Low | CPI (MoM) (Apr) |  | 0.70% | 0.88% |
-| 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Apr) |  |  | 0.82% |
-| 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 39.30K |
-| 13:30 | USD | Moderate | Core CPI (YoY) (Apr) |  | 2.7% | 2.6% |
-| 13:30 | USD | High | Core CPI (MoM) (Apr) |  | 0.3% | 0.2% |
-| 13:30 | USD | Low | Core CPI Index (Apr) |  |  | 334.17 |
-| 13:30 | USD | High | CPI (YoY) (Apr) |  | 3.7% | 3.3% |
-| 13:30 | USD | High | CPI (MoM) (Apr) |  | 0.6% | 0.9% |
-| 13:30 | USD | Low | CPI Index, n.s.a. (Apr) |  |  | 330.21 |
-| 13:30 | USD | Low | CPI Index, s.a (Apr) |  |  | 330.29 |
-| 13:30 | USD | Low | CPI, n.s.a (MoM) (Apr) |  |  | 1.05% |
-| 13:30 | USD | Low | Real Earnings (MoM) (Apr) |  |  | -0.9% |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 7.8% |
+| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Mar) | 0.8% |  | -1.8% |
+| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Mar) | 0.9% |  | -2.3% |
+| 13:00 | MXN | Low | Industrial Production (YoY) (Mar) | -1.3% | -1.5% | -1.2% |
+| 13:00 | MXN | Low | Industrial Production (MoM) (Mar) | -0.6% | -0.2% | 0.4% |
+| 13:00 | BRL | Moderate | CPI (YoY) (Apr) | 4.39% | 4.41% | 4.14% |
+| 13:00 | BRL | Low | CPI (MoM) (Apr) | 0.67% | 0.70% | 0.88% |
+| 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Apr) | 0.63% |  | 0.82% |
+| 13:15 | USD | Moderate | ADP Employment Change Weekly | 33.00K |  | 39.25K |
+| 13:30 | USD | Moderate | Core CPI (YoY) (Apr) | 2.8% | 2.7% | 2.6% |
+| 13:30 | USD | High | Core CPI (MoM) (Apr) | 0.4% | 0.3% | 0.2% |
+| 13:30 | USD | Low | Core CPI Index (Apr) | 335.42 |  | 334.17 |
+| 13:30 | USD | High | CPI (YoY) (Apr) | 3.8% | 3.7% | 3.3% |
+| 13:30 | USD | High | CPI (MoM) (Apr) | 0.6% | 0.6% | 0.9% |
+| 13:30 | USD | Low | CPI Index, n.s.a. (Apr) | 333.02 |  | 330.21 |
+| 13:30 | USD | Low | CPI Index, s.a (Apr) | 332.41 |  | 330.29 |
+| 13:30 | USD | Low | CPI, n.s.a (MoM) (Apr) | 0.85% |  | 1.05% |
+| 13:30 | USD | Low | Real Earnings (MoM) (Apr) | -0.2% |  | -0.9% |
+| 3 min | USD | Low | Redbook (YoY) |  |  | 7.8% |
 | 16:00 | USD | Low | Cleveland CPI (MoM) (Apr) |  |  | 0.2% |
 | 16:30 | USD | Low | 52-Week Bill Auction |  |  | 3.485% |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |

@@ -16,9 +16,9 @@
 | 10:00 | EUR | ZEW Economic Sentiment (May) | -9.1 | -21.6 | -20.4 |
 | 11:30 | INR | CPI (YoY) (Apr) | 3.48% | 3.80% | 3.40% |
 | 11:40 | EUR | ECB's Elderson Speaks |  |  |  |
-| 13:00 | BRL | CPI (YoY) (Apr) |  | 4.41% | 4.14% |
-| 13:15 | USD | ADP Employment Change Weekly |  |  | 39.30K |
-| 13:30 | USD | Core CPI (YoY) (Apr) |  | 2.7% | 2.6% |
+| 13:00 | BRL | CPI (YoY) (Apr) | 4.39% | 4.41% | 4.14% |
+| 13:15 | USD | ADP Employment Change Weekly | 33.00K |  | 39.25K |
+| 13:30 | USD | Core CPI (YoY) (Apr) | 2.8% | 2.7% | 2.6% |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 17:00 | USD | WASDE Report |  |  |  |
 | 18:30 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
