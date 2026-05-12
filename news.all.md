@@ -21,20 +21,20 @@
 | 07:00 | EUR | Low | German HICP (MoM) (Apr) | 0.5% | 0.5% | 1.2% |
 | 07:30 | CHF | Moderate | PPI (MoM) (Apr) | 0.8% | 0.4% | 0.2% |
 | 07:30 | CHF | Low | PPI (YoY) (Apr) | -2.0% |  | -2.7% |
-| 6 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 6 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 51 min | EUR | Low | Italian Industrial Production (MoM) (Mar) |  | 0.2% | 0.1% |
-| 51 min | EUR | Low | Italian Industrial Production (YoY) (Mar) |  |  | 0.5% |
-| 09:50 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 2.111% |
-| 10:00 | EUR | Moderate | German ZEW Current Conditions (May) |  | -77.5 | -73.7 |
-| 10:00 | EUR | Moderate | German ZEW Economic Sentiment (May) |  | -19.2 | -17.2 |
-| 10:00 | EUR | Moderate | ZEW Economic Sentiment (May) |  | -21.6 | -20.4 |
-| 10:00 | ZAR | Low | Unemployment Rate (Q1) |  |  | 31.40% |
-| 10:00 | ZAR | Low | Unemployment (Q1) |  |  | 7.836M |
-| 10:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.604% |
-| 10:30 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.228% |
-| 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 2.470% |
-| 11:00 | USD | Low | NFIB Small Business Optimism (Apr) |  | 96.1 | 95.8 |
+| 08:15 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 08:15 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Mar) | 0.7% | 0.2% | 0.2% |
+| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Mar) | 1.5% |  | 0.4% |
+| 09:50 | EUR | Low | Spanish 3-Month Letras Auction | 2.154% |  | 2.111% |
+| 10:00 | EUR | Moderate | German ZEW Current Conditions (May) | -77.8 | -77.5 | -73.7 |
+| 10:00 | EUR | Moderate | German ZEW Economic Sentiment (May) | -10.2 | -19.2 | -17.2 |
+| 10:00 | EUR | Moderate | ZEW Economic Sentiment (May) | -9.1 | -21.6 | -20.4 |
+| 10:00 | ZAR | Low | Unemployment Rate (Q1) | 32.70% |  | 31.40% |
+| 10:00 | ZAR | Low | Unemployment (Q1) | 8.137M |  | 7.836M |
+| 4 min | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.604% |
+| 24 min | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.228% |
+| 24 min | EUR | Low | German 2-Year Schatz Auction |  |  | 2.470% |
+| 54 min | USD | Low | NFIB Small Business Optimism (Apr) |  | 96.1 | 95.8 |
 | 11:30 | INR | Moderate | CPI (YoY) (Apr) |  | 3.80% | 3.40% |
 | 11:40 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 12:00 | ZAR | Low | Manufacturing Production (MoM) (Mar) |  |  | -2.2% |

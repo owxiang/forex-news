@@ -13,15 +13,15 @@
 | 07:00 | EUR | German HICP (YoY) (Apr) | 2.9% | 2.9% | 2.8% |
 | 07:00 | EUR | German HICP (MoM) (Apr) | 0.5% | 0.5% | 1.2% |
 | 07:30 | CHF | PPI (YoY) (Apr) | -2.0% |  | -2.7% |
-| 51 min | EUR | Italian Industrial Production (MoM) (Mar) |  | 0.2% | 0.1% |
-| 51 min | EUR | Italian Industrial Production (YoY) (Mar) |  |  | 0.5% |
-| 09:50 | EUR | Spanish 3-Month Letras Auction |  |  | 2.111% |
-| 10:00 | ZAR | Unemployment Rate (Q1) |  |  | 31.40% |
-| 10:00 | ZAR | Unemployment (Q1) |  |  | 7.836M |
-| 10:10 | EUR | Italian 12-Month BOT Auction |  |  | 2.604% |
-| 10:30 | GBP | 5-Year Treasury Gilt Auction |  |  | 4.228% |
-| 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.470% |
-| 11:00 | USD | NFIB Small Business Optimism (Apr) |  | 96.1 | 95.8 |
+| 09:00 | EUR | Italian Industrial Production (MoM) (Mar) | 0.7% | 0.2% | 0.2% |
+| 09:00 | EUR | Italian Industrial Production (YoY) (Mar) | 1.5% |  | 0.4% |
+| 09:50 | EUR | Spanish 3-Month Letras Auction | 2.154% |  | 2.111% |
+| 10:00 | ZAR | Unemployment Rate (Q1) | 32.70% |  | 31.40% |
+| 10:00 | ZAR | Unemployment (Q1) | 8.137M |  | 7.836M |
+| 4 min | EUR | Italian 12-Month BOT Auction |  |  | 2.604% |
+| 24 min | GBP | 5-Year Treasury Gilt Auction |  |  | 4.228% |
+| 24 min | EUR | German 2-Year Schatz Auction |  |  | 2.470% |
+| 54 min | USD | NFIB Small Business Optimism (Apr) |  | 96.1 | 95.8 |
 | 12:00 | ZAR | Manufacturing Production (MoM) (Mar) |  |  | -2.2% |
 | 12:00 | ZAR | Manufacturing Production (YoY) (Mar) |  |  | -2.8% |
 | 13:00 | MXN | Industrial Production (YoY) (Mar) |  | -1.5% | -1.3% |
