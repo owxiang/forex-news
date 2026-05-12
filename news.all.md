@@ -62,5 +62,5 @@
 | 18:00 | USD | High | 10-Year Note Auction | 4.468% |  | 4.282% |
 | 18:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 18:30 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
-| 15 min | USD | Moderate | Federal Budget Balance (Apr) |  | 157.2B | -164.0B |
+| 19:00 | USD | Moderate | Federal Budget Balance (Apr) | 215.0B | 157.2B | -164.0B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.650M | -8.100M |
