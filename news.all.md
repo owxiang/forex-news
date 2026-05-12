@@ -3,13 +3,13 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Apr) | -3.4% | 0.7% | 3.1% |
-| 6 min | JPY | Moderate | Household Spending (YoY) (Mar) |  | -1.4% | -1.8% |
-| 6 min | JPY | Moderate | Household Spending (MoM) (Mar) |  | 0.6% | 1.5% |
-| 26 min | JPY | Low | BoJ Summary of Opinions |  |  |  |
-| 26 min | JPY | Low | Foreign Reserves (USD) (Apr) |  |  | 1,374.7B |
-| 01:30 | AUD | Low | Westpac Consumer Sentiment (May) |  |  | -12.5% |
-| 02:30 | AUD | Moderate | NAB Business Confidence (Apr) |  |  | -29 |
-| 02:30 | AUD | Low | NAB Business Survey (Apr) |  |  | 6 |
+| 00:30 | JPY | Moderate | Household Spending (YoY) (Mar) | -2.9% | -1.4% | -1.8% |
+| 00:30 | JPY | Moderate | Household Spending (MoM) (Mar) | -1.3% | 0.6% | 1.5% |
+| 00:50 | JPY | Low | BoJ Summary of Opinions |  |  |  |
+| 00:50 | JPY | Low | Foreign Reserves (USD) (Apr) | 1,383.0B |  | 1,374.7B |
+| 35 min | AUD | Moderate | NAB Business Confidence (Apr) |  |  | -29 |
+| 35 min | AUD | Low | NAB Business Survey (Apr) |  |  | 6 |
+| 35 min | AUD | Low | Westpac Consumer Sentiment (May) |  |  | -12.5% |
 | 04:00 | IDR | Low | Retail Sales (YoY) (Mar) |  |  | 6.5% |
 | 04:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 2.350% |
 | 05:30 | NOK | Low | Consumer Confidence (Q2) |  |  | -9.40 |
