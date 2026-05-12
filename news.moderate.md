@@ -14,7 +14,7 @@
 | 10:00 | EUR | German ZEW Current Conditions (May) | -77.8 | -77.5 | -73.7 |
 | 10:00 | EUR | German ZEW Economic Sentiment (May) | -10.2 | -19.2 | -17.2 |
 | 10:00 | EUR | ZEW Economic Sentiment (May) | -9.1 | -21.6 | -20.4 |
-| 11:30 | INR | CPI (YoY) (Apr) |  | 3.80% | 3.40% |
+| 11:30 | INR | CPI (YoY) (Apr) | 3.48% | 3.80% | 3.40% |
 | 11:40 | EUR | ECB's Elderson Speaks |  |  |  |
 | 13:00 | BRL | CPI (YoY) (Apr) |  | 4.41% | 4.14% |
 | 13:15 | USD | ADP Employment Change Weekly |  |  | 39.30K |

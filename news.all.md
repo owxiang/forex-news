@@ -31,14 +31,14 @@
 | 10:00 | EUR | Moderate | ZEW Economic Sentiment (May) | -9.1 | -21.6 | -20.4 |
 | 10:00 | ZAR | Low | Unemployment Rate (Q1) | 32.70% |  | 31.40% |
 | 10:00 | ZAR | Low | Unemployment (Q1) | 8.137M |  | 7.836M |
-| 4 min | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.604% |
-| 24 min | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.228% |
-| 24 min | EUR | Low | German 2-Year Schatz Auction |  |  | 2.470% |
-| 54 min | USD | Low | NFIB Small Business Optimism (Apr) |  | 96.1 | 95.8 |
-| 11:30 | INR | Moderate | CPI (YoY) (Apr) |  | 3.80% | 3.40% |
+| 10:20 | EUR | Low | Italian 12-Month BOT Auction | 2.699% |  | 2.604% |
+| 10:30 | GBP | Low | 5-Year Treasury Gilt Auction | 4.651% |  | 4.228% |
+| 10:30 | EUR | Low | German 2-Year Schatz Auction | 2.700% |  | 2.470% |
+| 11:00 | USD | Low | NFIB Small Business Optimism (Apr) | 95.9 | 96.1 | 95.8 |
+| 11:30 | INR | Moderate | CPI (YoY) (Apr) | 3.48% | 3.80% | 3.40% |
 | 11:40 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Mar) |  |  | -2.2% |
-| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Mar) |  |  | -2.8% |
+| 7 min | ZAR | Low | Manufacturing Production (MoM) (Mar) |  |  | -2.2% |
+| 7 min | ZAR | Low | Manufacturing Production (YoY) (Mar) |  |  | -2.8% |
 | 13:00 | MXN | Low | Industrial Production (YoY) (Mar) |  | -1.5% | -1.3% |
 | 13:00 | MXN | Low | Industrial Production (MoM) (Mar) |  | -0.2% | 0.4% |
 | 13:00 | BRL | Moderate | CPI (YoY) (Apr) |  | 4.41% | 4.14% |

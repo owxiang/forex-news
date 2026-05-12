@@ -18,12 +18,12 @@
 | 09:50 | EUR | Spanish 3-Month Letras Auction | 2.154% |  | 2.111% |
 | 10:00 | ZAR | Unemployment Rate (Q1) | 32.70% |  | 31.40% |
 | 10:00 | ZAR | Unemployment (Q1) | 8.137M |  | 7.836M |
-| 4 min | EUR | Italian 12-Month BOT Auction |  |  | 2.604% |
-| 24 min | GBP | 5-Year Treasury Gilt Auction |  |  | 4.228% |
-| 24 min | EUR | German 2-Year Schatz Auction |  |  | 2.470% |
-| 54 min | USD | NFIB Small Business Optimism (Apr) |  | 96.1 | 95.8 |
-| 12:00 | ZAR | Manufacturing Production (MoM) (Mar) |  |  | -2.2% |
-| 12:00 | ZAR | Manufacturing Production (YoY) (Mar) |  |  | -2.8% |
+| 10:20 | EUR | Italian 12-Month BOT Auction | 2.699% |  | 2.604% |
+| 10:30 | GBP | 5-Year Treasury Gilt Auction | 4.651% |  | 4.228% |
+| 10:30 | EUR | German 2-Year Schatz Auction | 2.700% |  | 2.470% |
+| 11:00 | USD | NFIB Small Business Optimism (Apr) | 95.9 | 96.1 | 95.8 |
+| 7 min | ZAR | Manufacturing Production (MoM) (Mar) |  |  | -2.2% |
+| 7 min | ZAR | Manufacturing Production (YoY) (Mar) |  |  | -2.8% |
 | 13:00 | MXN | Industrial Production (YoY) (Mar) |  | -1.5% | -1.3% |
 | 13:00 | MXN | Industrial Production (MoM) (Mar) |  | -0.2% | 0.4% |
 | 13:00 | BRL | CPI (MoM) (Apr) |  | 0.70% | 0.88% |
