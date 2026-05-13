@@ -10,8 +10,8 @@
 | 07:45 | EUR | French CPI (MoM) (Apr) | 1.0% | 1.0% | 1.0% |
 | 07:45 | EUR | French HICP (MoM) (Apr) | 1.2% | 1.2% | 1.1% |
 | 10:00 | USD | IEA Monthly Report |  |  |  |
-| 10:00 | EUR | GDP (YoY) (Q1) | 0.8% | 0.8% | 1.2% |
 | 10:00 | EUR | GDP (QoQ) (Q1) | 0.1% | 0.1% | 0.2% |
+| 10:00 | EUR | GDP (YoY) (Q1) | 0.8% | 0.8% | 1.2% |
 | 10:00 | EUR | Industrial Production (MoM) (Mar) | 0.2% | 0.3% | 0.2% |
 | 11:00 | USD | OPEC Monthly Report |  |  |  |
 | 13:00 | BRL | Retail Sales (YoY) (Mar) | 4.0% | 2.8% | 0.4% |
@@ -20,7 +20,7 @@
 | 13:30 | USD | Core PPI (MoM) (Apr) | 1.0% | 0.3% | 0.2% |
 | 15:00 | GBP | BoE MPC Member Mann Speaks |  |  |  |
 | 15:30 | USD | Cushing Crude Oil Inventories | -1.702M |  | -0.648M |
-| 18:00 | GBP | BoE MPC Member Mann Speaks |  |  |  |
-| 18:15 | USD | FOMC Member Kashkari Speaks |  |  |  |
+| 6 min | GBP | BoE MPC Member Mann Speaks |  |  |  |
+| 21 min | USD | FOMC Member Kashkari Speaks |  |  |  |
 | 20:00 | EUR | ECB's Lane Speaks |  |  |  |
 | 20:15 | EUR | ECB President Lagarde Speaks |  |  |  |

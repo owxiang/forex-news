@@ -11,8 +11,8 @@
 | 06:30 | EUR | French Unemployment Rate (Q1) | 8.1% | 7.8% | 7.9% |
 | 07:00 | EUR | German WPI (MoM) (Apr) | 2.0% | 1.7% | 2.7% |
 | 07:00 | EUR | German WPI (YoY) (Apr) | 6.3% |  | 4.1% |
-| 07:45 | EUR | French CPI NSA (YoY) (Apr) | 2.20% |  | 1.70% |
 | 07:45 | EUR | French CPI NSA (MoM) (Apr) | 1.00% |  | 1.00% |
+| 07:45 | EUR | French CPI NSA (YoY) (Apr) | 2.20% |  | 1.70% |
 | 07:45 | EUR | French CPI (YoY) (Apr) | 2.2% | 2.2% | 1.7% |
 | 07:45 | EUR | French HICP (YoY) (Apr) | 2.5% | 2.5% | 2.0% |
 | 10:00 | EUR | Employment Change (QoQ) (Q1) | 0.1% | 0.0% | 0.2% |
@@ -40,14 +40,13 @@
 | 15:30 | USD | Heating Oil Stockpiles | 0.153M |  | -0.038M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 1.6% |  | 0.5% |
 | 15:30 | USD | Gasoline Inventories | -4.084M | -2.850M | -2.504M |
-| 16:00 | USD | Cleveland CPI (MoM) (Apr) |  |  | 0.2% |
 | 16:00 | USD | Thomson Reuters IPSOS PCSI (May) | 49.65 |  | 49.95 |
 | 16:00 | CAD | Thomson Reuters IPSOS PCSI (May) | 47.58 |  | 45.59 |
 | 16:00 | MXN | Thomson Reuters IPSOS PCSI (May) | 50.97 |  | 54.00 |
 | 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (May) | 52.35 |  | 49.22 |
-| 23 min | USD | Fed Collins Speaks |  |  |  |
-| 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
-| 18:30 | BRL | Foreign Exchange Flows |  |  | 3.307B |
+| 16:30 | USD | Fed Collins Speaks |  |  |  |
+| 36 min | CAD | BOC Summary of Deliberations |  |  |  |
+| 36 min | BRL | Foreign Exchange Flows |  |  | 3.307B |
 | 23:45 | NZD | External Migration & Visitors (Mar) |  |  | 15.20% |
 | 23:45 | NZD | Permanent/Long-Term Migration (Mar) |  |  | 3,970 |
 | 23:45 | NZD | Visitor Arrivals (MoM) |  |  | 1.7% |
