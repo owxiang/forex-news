@@ -20,7 +20,7 @@
 | 13:30 | USD | Core PPI (MoM) (Apr) | 1.0% | 0.3% | 0.2% |
 | 15:00 | GBP | BoE MPC Member Mann Speaks |  |  |  |
 | 15:30 | USD | Cushing Crude Oil Inventories | -1.702M |  | -0.648M |
-| 6 min | GBP | BoE MPC Member Mann Speaks |  |  |  |
-| 21 min | USD | FOMC Member Kashkari Speaks |  |  |  |
+| 18:00 | GBP | BoE MPC Member Mann Speaks |  |  |  |
+| 18:15 | USD | FOMC Member Kashkari Speaks |  |  |  |
 | 20:00 | EUR | ECB's Lane Speaks |  |  |  |
 | 20:15 | EUR | ECB President Lagarde Speaks |  |  |  |

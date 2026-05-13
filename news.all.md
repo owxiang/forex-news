@@ -65,11 +65,11 @@
 | 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (May) | 50.97 |  | 54.00 |
 | 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (May) | 52.35 |  | 49.22 |
 | 16:30 | USD | Low | Fed Collins Speaks |  |  |  |
-| 6 min | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
-| 6 min | USD | High | 30-Year Bond Auction |  |  | 4.876% |
-| 21 min | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
-| 36 min | CAD | Low | BOC Summary of Deliberations |  |  |  |
-| 36 min | BRL | Low | Foreign Exchange Flows |  |  | 3.307B |
+| 18:00 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
+| 18:00 | USD | High | 30-Year Bond Auction | 5.050% |  | 4.876% |
+| 18:15 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
+| 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
+| 18:30 | BRL | Low | Foreign Exchange Flows | -1.438B |  | 3.307B |
 | 20:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 20:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 23:45 | NZD | Low | External Migration & Visitors (Mar) |  |  | 15.20% |
