@@ -70,8 +70,8 @@
 | 18:15 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
 | 18:30 | BRL | Low | Foreign Exchange Flows | -1.438B |  | 3.307B |
-| 14 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 29 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 20:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 20:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 23:45 | NZD | Low | External Migration & Visitors (Mar) |  |  | 15.20% |
 | 23:45 | NZD | Low | Permanent/Long-Term Migration (Mar) |  |  | 3,970 |
 | 23:45 | NZD | Low | Visitor Arrivals (MoM) |  |  | 1.7% |
