@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | KRW | Unemployment Rate (Apr) | 2.8% |  | 2.7% |
 | 00:50 | JPY | Bank Lending (YoY) (Apr) | 5.4% | 4.6% | 4.8% |
-| 30 min | AUD | Wage Price Index (YoY) (Q1) |  | 3.3% | 3.4% |
-| 30 min | AUD | Westpac Consumer Sentiment (May) |  |  | -12.5% |
+| 02:30 | AUD | Wage Price Index (YoY) (Q1) | 3.3% | 3.3% | 3.4% |
+| 02:30 | AUD | Westpac Consumer Sentiment (May) |  |  | -12.5% |
 | 04:00 | KRW | M3 Money Supply (Mar) |  |  | 6,160.5B |
 | 04:00 | KRW | M2 Money supply (Mar) |  |  | 8.00% |
 | 06:00 | JPY | Economy Watchers Current Index (Apr) |  | 41.5 | 42.2 |
