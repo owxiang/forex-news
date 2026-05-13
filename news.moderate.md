@@ -8,11 +8,11 @@
 | 02:30 | AUD | Wage Price Index (QoQ) (Q1) | 0.8% | 0.8% | 0.8% |
 | 04:00 | NZD | Inflation Expectations (QoQ) (Q2) | 2.5% |  | 2.4% |
 | 07:45 | EUR | French CPI (MoM) (Apr) |  | 1.0% | 1.0% |
-| 07:45 | EUR | French HICP (MoM) (Apr) |  | 1.2% | 1.2% |
+| 07:45 | EUR | French HICP (MoM) (Apr) |  | 1.2% | 1.1% |
 | 10:00 | USD | IEA Monthly Report |  |  |  |
-| 10:00 | EUR | GDP (YoY) (Q1) |  | 0.8% | 0.8% |
-| 10:00 | EUR | GDP (QoQ) (Q1) |  | 0.1% | 0.1% |
-| 10:00 | EUR | Industrial Production (MoM) (Mar) |  | 0.2% | 0.4% |
+| 10:00 | EUR | GDP (YoY) (Q1) |  | 0.8% | 1.2% |
+| 10:00 | EUR | GDP (QoQ) (Q1) |  | 0.1% | 0.2% |
+| 10:00 | EUR | Industrial Production (MoM) (Mar) |  | 0.3% | 0.4% |
 | 11:00 | USD | OPEC Monthly Report |  |  |  |
 | 13:00 | BRL | Retail Sales (MoM) (Mar) |  | 0.0% | 0.6% |
 | 13:00 | BRL | Retail Sales (YoY) (Mar) |  | 2.8% | 0.2% |

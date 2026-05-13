@@ -12,25 +12,25 @@
 | 04:00 | KRW | Low | M3 Money Supply (Mar) | 6,142.5B |  | 6,171.3B |
 | 04:00 | KRW | Low | M2 Money supply (Mar) | 7.20% |  | 8.20% |
 | 04:00 | NZD | Moderate | Inflation Expectations (QoQ) (Q2) | 2.5% |  | 2.4% |
-| 06:00 | JPY | Low | Economy Watchers Current Index (Apr) |  | 41.5 | 42.2 |
-| 06:30 | EUR | Low | French Unemployment Rate (Q1) |  | 7.8% | 7.9% |
-| 07:00 | EUR | Low | German WPI (MoM) (Apr) |  | 1.8% | 2.7% |
-| 07:00 | EUR | Low | German WPI (YoY) (Apr) |  |  | 4.1% |
+| 06:00 | JPY | Low | Economy Watchers Current Index (Apr) | 40.8 | 41.5 | 42.2 |
+| 6 min | EUR | Low | French Unemployment Rate (Q1) |  | 7.8% | 7.9% |
+| 36 min | EUR | Low | German WPI (MoM) (Apr) |  | 1.7% | 2.7% |
+| 36 min | EUR | Low | German WPI (YoY) (Apr) |  |  | 4.1% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Apr) |  |  | 2.20% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Apr) |  |  | 1.00% |
 | 07:45 | EUR | Low | French CPI (YoY) (Apr) |  | 2.2% | 1.7% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Apr) |  | 1.0% | 1.0% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Apr) |  | 1.2% | 1.2% |
-| 07:45 | EUR | Low | French HICP (YoY) (Apr) |  | 2.5% | 2.5% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Apr) |  | 1.2% | 1.1% |
+| 07:45 | EUR | Low | French HICP (YoY) (Apr) |  | 2.5% | 2.0% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Apr) |  |  | 1.70% |
 | 10:00 | USD | Moderate | IEA Monthly Report |  |  |  |
 | 10:00 | EUR | Low | Employment Change (YoY) (Q1) |  |  | 0.7% |
-| 10:00 | EUR | Low | Employment Change (QoQ) (Q1) |  | 0.1% | 0.2% |
+| 10:00 | EUR | Low | Employment Change (QoQ) (Q1) |  | 0.0% | 0.2% |
 | 10:00 | EUR | Low | Employment Overall (Q1) |  |  | 172,571.6K |
-| 10:00 | EUR | Moderate | GDP (YoY) (Q1) |  | 0.8% | 0.8% |
-| 10:00 | EUR | Moderate | GDP (QoQ) (Q1) |  | 0.1% | 0.1% |
-| 10:00 | EUR | Moderate | Industrial Production (MoM) (Mar) |  | 0.2% | 0.4% |
-| 10:00 | EUR | Low | Industrial Production (YoY) (Mar) |  | -1.8% | -0.6% |
+| 10:00 | EUR | Moderate | GDP (YoY) (Q1) |  | 0.8% | 1.2% |
+| 10:00 | EUR | Moderate | GDP (QoQ) (Q1) |  | 0.1% | 0.2% |
+| 10:00 | EUR | Moderate | Industrial Production (MoM) (Mar) |  | 0.3% | 0.4% |
+| 10:00 | EUR | Low | Industrial Production (YoY) (Mar) |  | -1.7% | -0.6% |
 | 10:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 2.91% |
 | 10:10 | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.51% |
 | 10:30 | EUR | Low | German 30-Year Bund Auction |  |  | 3.570% |
@@ -52,16 +52,16 @@
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Apr) |  |  | 0.2% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Apr) |  |  | 3.6% |
 | 15:00 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
-| 15:30 | USD | High | Crude Oil Inventories |  | -1.600M | -2.313M |
+| 15:30 | USD | High | Crude Oil Inventories |  | -2.000M | -2.313M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.042M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 1.415M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.648M |
 | 15:30 | USD | Low | Distillate Fuel Production |  |  | -0.024M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  |  | -1.294M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | -2.990M | -1.294M |
 | 15:30 | USD | Low | Gasoline Production |  |  | -0.275M |
 | 15:30 | USD | Low | Heating Oil Stockpiles |  |  | -0.038M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.5% |
-| 15:30 | USD | Low | Gasoline Inventories |  |  | -2.504M |
+| 15:30 | USD | Low | Gasoline Inventories |  | -2.550M | -2.504M |
 | 16:00 | USD | Low | Cleveland CPI (MoM) (Apr) |  |  | 0.2% |
 | 16:00 | USD | Low | Thomson Reuters IPSOS PCSI (May) |  |  | 49.95 |
 | 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (May) |  |  | 45.59 |

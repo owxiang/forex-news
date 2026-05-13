@@ -7,19 +7,19 @@
 | 02:30 | AUD | Wage Price Index (YoY) (Q1) | 3.3% | 3.3% | 3.4% |
 | 04:00 | KRW | M3 Money Supply (Mar) | 6,142.5B |  | 6,171.3B |
 | 04:00 | KRW | M2 Money supply (Mar) | 7.20% |  | 8.20% |
-| 06:00 | JPY | Economy Watchers Current Index (Apr) |  | 41.5 | 42.2 |
-| 06:30 | EUR | French Unemployment Rate (Q1) |  | 7.8% | 7.9% |
-| 07:00 | EUR | German WPI (MoM) (Apr) |  | 1.8% | 2.7% |
-| 07:00 | EUR | German WPI (YoY) (Apr) |  |  | 4.1% |
+| 06:00 | JPY | Economy Watchers Current Index (Apr) | 40.8 | 41.5 | 42.2 |
+| 6 min | EUR | French Unemployment Rate (Q1) |  | 7.8% | 7.9% |
+| 36 min | EUR | German WPI (MoM) (Apr) |  | 1.7% | 2.7% |
+| 36 min | EUR | German WPI (YoY) (Apr) |  |  | 4.1% |
 | 07:45 | EUR | French CPI NSA (YoY) (Apr) |  |  | 2.20% |
 | 07:45 | EUR | French CPI NSA (MoM) (Apr) |  |  | 1.00% |
 | 07:45 | EUR | French CPI (YoY) (Apr) |  | 2.2% | 1.7% |
-| 07:45 | EUR | French HICP (YoY) (Apr) |  | 2.5% | 2.5% |
+| 07:45 | EUR | French HICP (YoY) (Apr) |  | 2.5% | 2.0% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Apr) |  |  | 1.70% |
 | 10:00 | EUR | Employment Change (YoY) (Q1) |  |  | 0.7% |
-| 10:00 | EUR | Employment Change (QoQ) (Q1) |  | 0.1% | 0.2% |
+| 10:00 | EUR | Employment Change (QoQ) (Q1) |  | 0.0% | 0.2% |
 | 10:00 | EUR | Employment Overall (Q1) |  |  | 172,571.6K |
-| 10:00 | EUR | Industrial Production (YoY) (Mar) |  | -1.8% | -0.6% |
+| 10:00 | EUR | Industrial Production (YoY) (Mar) |  | -1.7% | -0.6% |
 | 10:10 | EUR | Italian 3-Year BTP Auction |  |  | 2.91% |
 | 10:10 | EUR | Italian 7-Year BTP Auction |  |  | 3.51% |
 | 10:30 | EUR | German 30-Year Bund Auction |  |  | 3.570% |
@@ -37,11 +37,11 @@
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.042M |
 | 15:30 | USD | Crude Oil Imports |  |  | 1.415M |
 | 15:30 | USD | Distillate Fuel Production |  |  | -0.024M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | -1.294M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  | -2.990M | -1.294M |
 | 15:30 | USD | Gasoline Production |  |  | -0.275M |
 | 15:30 | USD | Heating Oil Stockpiles |  |  | -0.038M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.5% |
-| 15:30 | USD | Gasoline Inventories |  |  | -2.504M |
+| 15:30 | USD | Gasoline Inventories |  | -2.550M | -2.504M |
 | 16:00 | USD | Cleveland CPI (MoM) (Apr) |  |  | 0.2% |
 | 16:00 | USD | Thomson Reuters IPSOS PCSI (May) |  |  | 49.95 |
 | 16:00 | CAD | Thomson Reuters IPSOS PCSI (May) |  |  | 45.59 |
