@@ -8,16 +8,16 @@
 | 04:00 | KRW | M3 Money Supply (Mar) | 6,142.5B |  | 6,171.3B |
 | 04:00 | KRW | M2 Money supply (Mar) | 7.20% |  | 8.20% |
 | 06:00 | JPY | Economy Watchers Current Index (Apr) | 40.8 | 41.5 | 42.2 |
-| 6 min | EUR | French Unemployment Rate (Q1) |  | 7.8% | 7.9% |
-| 36 min | EUR | German WPI (MoM) (Apr) |  | 1.7% | 2.7% |
-| 36 min | EUR | German WPI (YoY) (Apr) |  |  | 4.1% |
-| 07:45 | EUR | French CPI NSA (YoY) (Apr) |  |  | 2.20% |
-| 07:45 | EUR | French CPI NSA (MoM) (Apr) |  |  | 1.00% |
-| 07:45 | EUR | French CPI (YoY) (Apr) |  | 2.2% | 1.7% |
-| 07:45 | EUR | French HICP (YoY) (Apr) |  | 2.5% | 2.0% |
-| 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Apr) |  |  | 1.70% |
-| 10:00 | EUR | Employment Change (YoY) (Q1) |  |  | 0.7% |
+| 06:30 | EUR | French Unemployment Rate (Q1) | 8.1% | 7.8% | 7.9% |
+| 07:00 | EUR | German WPI (MoM) (Apr) | 2.0% | 1.7% | 2.7% |
+| 07:00 | EUR | German WPI (YoY) (Apr) | 6.3% |  | 4.1% |
+| 07:45 | EUR | French CPI NSA (MoM) (Apr) | 1.00% |  | 1.00% |
+| 07:45 | EUR | French CPI NSA (YoY) (Apr) | 2.20% |  | 1.70% |
+| 07:45 | EUR | French CPI (YoY) (Apr) | 2.2% | 2.2% | 1.7% |
+| 07:45 | EUR | French HICP (YoY) (Apr) | 2.5% | 2.5% | 2.0% |
+| 10:00 | EUR | France Inflation Ex-Tobacco (YoY) (Apr) |  |  | 1.70% |
 | 10:00 | EUR | Employment Change (QoQ) (Q1) |  | 0.0% | 0.2% |
+| 10:00 | EUR | Employment Change (YoY) (Q1) |  |  | 0.7% |
 | 10:00 | EUR | Employment Overall (Q1) |  |  | 172,571.6K |
 | 10:00 | EUR | Industrial Production (YoY) (Mar) |  | -1.7% | -0.6% |
 | 10:10 | EUR | Italian 3-Year BTP Auction |  |  | 2.91% |

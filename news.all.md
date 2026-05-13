@@ -13,24 +13,24 @@
 | 04:00 | KRW | Low | M2 Money supply (Mar) | 7.20% |  | 8.20% |
 | 04:00 | NZD | Moderate | Inflation Expectations (QoQ) (Q2) | 2.5% |  | 2.4% |
 | 06:00 | JPY | Low | Economy Watchers Current Index (Apr) | 40.8 | 41.5 | 42.2 |
-| 6 min | EUR | Low | French Unemployment Rate (Q1) |  | 7.8% | 7.9% |
-| 36 min | EUR | Low | German WPI (MoM) (Apr) |  | 1.7% | 2.7% |
-| 36 min | EUR | Low | German WPI (YoY) (Apr) |  |  | 4.1% |
-| 07:45 | EUR | Low | French CPI NSA (YoY) (Apr) |  |  | 2.20% |
-| 07:45 | EUR | Low | French CPI NSA (MoM) (Apr) |  |  | 1.00% |
-| 07:45 | EUR | Low | French CPI (YoY) (Apr) |  | 2.2% | 1.7% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Apr) |  | 1.0% | 1.0% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Apr) |  | 1.2% | 1.1% |
-| 07:45 | EUR | Low | French HICP (YoY) (Apr) |  | 2.5% | 2.0% |
-| 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Apr) |  |  | 1.70% |
+| 06:30 | EUR | Low | French Unemployment Rate (Q1) | 8.1% | 7.8% | 7.9% |
+| 07:00 | EUR | Low | German WPI (MoM) (Apr) | 2.0% | 1.7% | 2.7% |
+| 07:00 | EUR | Low | German WPI (YoY) (Apr) | 6.3% |  | 4.1% |
+| 07:45 | EUR | Low | French CPI NSA (MoM) (Apr) | 1.00% |  | 1.00% |
+| 07:45 | EUR | Low | French CPI NSA (YoY) (Apr) | 2.20% |  | 1.70% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Apr) | 1.0% | 1.0% | 1.0% |
+| 07:45 | EUR | Low | French CPI (YoY) (Apr) | 2.2% | 2.2% | 1.7% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Apr) | 1.2% | 1.2% | 1.1% |
+| 07:45 | EUR | Low | French HICP (YoY) (Apr) | 2.5% | 2.5% | 2.0% |
 | 10:00 | USD | Moderate | IEA Monthly Report |  |  |  |
-| 10:00 | EUR | Low | Employment Change (YoY) (Q1) |  |  | 0.7% |
+| 10:00 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Apr) |  |  | 1.70% |
 | 10:00 | EUR | Low | Employment Change (QoQ) (Q1) |  | 0.0% | 0.2% |
+| 10:00 | EUR | Low | Employment Change (YoY) (Q1) |  |  | 0.7% |
 | 10:00 | EUR | Low | Employment Overall (Q1) |  |  | 172,571.6K |
 | 10:00 | EUR | Moderate | GDP (YoY) (Q1) |  | 0.8% | 1.2% |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q1) |  | 0.1% | 0.2% |
-| 10:00 | EUR | Moderate | Industrial Production (MoM) (Mar) |  | 0.3% | 0.4% |
 | 10:00 | EUR | Low | Industrial Production (YoY) (Mar) |  | -1.7% | -0.6% |
+| 10:00 | EUR | Moderate | Industrial Production (MoM) (Mar) |  | 0.3% | 0.4% |
 | 10:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 2.91% |
 | 10:10 | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.51% |
 | 10:30 | EUR | Low | German 30-Year Bund Auction |  |  | 3.570% |
