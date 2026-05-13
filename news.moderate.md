@@ -1,26 +1,28 @@
-## 13 May 2026 - Moderate Impact Forex News
+## 14 May 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Adjusted Current Account (Mar) | 3.90T | 2.95T | 2.70T |
-| 00:50 | JPY | Current Account n.s.a. (Mar) | 4.682T | 3.879T | 3.933T |
-| 02:30 | AUD | Home Loans (MoM) (Q1) | -4.3% |  | 9.4% |
-| 02:30 | AUD | Wage Price Index (QoQ) (Q1) | 0.8% | 0.8% | 0.8% |
-| 04:00 | NZD | Inflation Expectations (QoQ) (Q2) | 2.5% |  | 2.4% |
-| 07:45 | EUR | French CPI (MoM) (Apr) | 1.0% | 1.0% | 1.0% |
-| 07:45 | EUR | French HICP (MoM) (Apr) | 1.2% | 1.2% | 1.1% |
-| 10:00 | USD | IEA Monthly Report |  |  |  |
-| 10:00 | EUR | GDP (QoQ) (Q1) | 0.1% | 0.1% | 0.2% |
-| 10:00 | EUR | GDP (YoY) (Q1) | 0.8% | 0.8% | 1.2% |
-| 10:00 | EUR | Industrial Production (MoM) (Mar) | 0.2% | 0.3% | 0.2% |
-| 11:00 | USD | OPEC Monthly Report |  |  |  |
-| 13:00 | BRL | Retail Sales (YoY) (Mar) | 4.0% | 2.8% | 0.4% |
-| 13:00 | BRL | Retail Sales (MoM) (Mar) | 0.5% | 0.0% | 0.7% |
-| 13:15 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 13:30 | USD | Core PPI (MoM) (Apr) | 1.0% | 0.3% | 0.2% |
-| 15:00 | GBP | BoE MPC Member Mann Speaks |  |  |  |
-| 15:30 | USD | Cushing Crude Oil Inventories | -1.702M |  | -0.648M |
-| 18:00 | GBP | BoE MPC Member Mann Speaks |  |  |  |
-| 18:15 | USD | FOMC Member Kashkari Speaks |  |  |  |
-| 20:00 | EUR | ECB's Lane Speaks |  |  |  |
-| 20:15 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 07:00 | GBP | Business Investment (QoQ) (Q1) |  | 1.1% | -2.5% |
+| 07:00 | GBP | Industrial Production (MoM) (Mar) |  | -0.2% | 0.5% |
+| 07:00 | GBP | Manufacturing Production (MoM) (Mar) |  | -0.1% | -0.1% |
+| 07:00 | GBP | Monthly GDP 3M/3M Change (Mar) |  | 0.6% | 0.5% |
+| 07:00 | GBP | Trade Balance (Mar) |  | -19.80B | -18.79B |
+| 07:00 | GBP | Trade Balance Non-EU (Mar) |  |  | -7.10B |
+| 07:30 | INR | WPI Inflation (YoY) (Apr) |  | 4.40% | 3.88% |
+| 08:00 | EUR | Spanish CPI (YoY) (Apr) |  | 3.2% | 3.2% |
+| 08:00 | EUR | Spanish HICP (YoY) (Apr) |  | 3.5% | 3.5% |
+| 10:00 | CNY | New Loans (Apr) |  | 300.0B | 2,990.0B |
+| 10:15 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 12:00 | GBP | NIESR Monthly GDP Tracker (Apr) |  |  | 0.6% |
+| 13:30 | USD | Continuing Jobless Claims |  | 1,790K | 1,766K |
+| 13:30 | USD | Export Price Index (MoM) (Apr) |  | 1.1% | 1.6% |
+| 13:30 | USD | Import Price Index (MoM) (Apr) |  | 1.0% | 0.8% |
+| 13:30 | USD | Retail Control (MoM) (Apr) |  | 0.4% | 0.7% |
+| 13:30 | CAD | Wholesale Sales (MoM) (Mar) |  | 1.3% | 2.0% |
+| 15:00 | USD | Business Inventories (MoM) (Mar) |  | 0.8% | 0.4% |
+| 15:00 | USD | Retail Inventories Ex Auto (Mar) |  | 0.5% | 0.5% |
+| 16:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 16:30 | USD | Atlanta Fed GDPNow (Q2) |  |  |  |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 6,710B |
+| 22:45 | USD | FOMC Member Williams Speaks |  |  |  |
+| 23:30 | NZD | Business NZ PMI (Apr) |  |  | 53.2 |
