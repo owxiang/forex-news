@@ -47,6 +47,6 @@
 | 16:30 | USD | Fed Collins Speaks |  |  |  |
 | 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
 | 18:30 | BRL | Foreign Exchange Flows | -1.438B |  | 3.307B |
-| 23:45 | NZD | External Migration & Visitors (Mar) |  |  | 15.20% |
-| 23:45 | NZD | Permanent/Long-Term Migration (Mar) |  |  | 3,970 |
-| 23:45 | NZD | Visitor Arrivals (MoM) |  |  | 1.7% |
+| 13 min | NZD | External Migration & Visitors (Mar) |  |  | 15.20% |
+| 13 min | NZD | Permanent/Long-Term Migration (Mar) |  |  | 3,970 |
+| 13 min | NZD | Visitor Arrivals (MoM) |  |  | 1.7% |

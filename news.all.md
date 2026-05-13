@@ -72,6 +72,6 @@
 | 18:30 | BRL | Low | Foreign Exchange Flows | -1.438B |  | 3.307B |
 | 20:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 20:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 23:45 | NZD | Low | External Migration & Visitors (Mar) |  |  | 15.20% |
-| 23:45 | NZD | Low | Permanent/Long-Term Migration (Mar) |  |  | 3,970 |
-| 23:45 | NZD | Low | Visitor Arrivals (MoM) |  |  | 1.7% |
+| 13 min | NZD | Low | External Migration & Visitors (Mar) |  |  | 15.20% |
+| 13 min | NZD | Low | Permanent/Long-Term Migration (Mar) |  |  | 3,970 |
+| 13 min | NZD | Low | Visitor Arrivals (MoM) |  |  | 1.7% |
