@@ -32,20 +32,20 @@
 | 13:30 | USD | PPI (YoY) (Apr) | 6.0% | 4.9% | 4.3% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Apr) | 4.4% |  | 3.7% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Apr) | 0.6% |  | 0.2% |
-| 42 min | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.042M |
-| 42 min | USD | Crude Oil Imports |  |  | 1.415M |
-| 42 min | USD | Distillate Fuel Production |  |  | -0.024M |
-| 42 min | USD | EIA Weekly Distillates Stocks |  | -2.990M | -1.294M |
-| 42 min | USD | Gasoline Production |  |  | -0.275M |
-| 42 min | USD | Heating Oil Stockpiles |  |  | -0.038M |
-| 42 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.5% |
-| 42 min | USD | Gasoline Inventories |  | -2.550M | -2.504M |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) | 0.370M |  | -0.042M |
+| 15:30 | USD | Crude Oil Imports | -0.318M |  | 1.415M |
+| 15:30 | USD | Distillate Fuel Production | -0.124M |  | -0.024M |
+| 15:30 | USD | EIA Weekly Distillates Stocks | 0.190M | -2.830M | -1.294M |
+| 15:30 | USD | Gasoline Production | 0.222M |  | -0.275M |
+| 15:30 | USD | Heating Oil Stockpiles | 0.153M |  | -0.038M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 1.6% |  | 0.5% |
+| 15:30 | USD | Gasoline Inventories | -4.084M | -2.850M | -2.504M |
 | 16:00 | USD | Cleveland CPI (MoM) (Apr) |  |  | 0.2% |
-| 16:00 | USD | Thomson Reuters IPSOS PCSI (May) |  |  | 49.95 |
-| 16:00 | CAD | Thomson Reuters IPSOS PCSI (May) |  |  | 45.59 |
-| 16:00 | MXN | Thomson Reuters IPSOS PCSI (May) |  |  | 54.00 |
-| 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (May) |  |  | 49.22 |
-| 16:30 | USD | Fed Collins Speaks |  |  |  |
+| 16:00 | USD | Thomson Reuters IPSOS PCSI (May) | 49.65 |  | 49.95 |
+| 16:00 | CAD | Thomson Reuters IPSOS PCSI (May) | 47.58 |  | 45.59 |
+| 16:00 | MXN | Thomson Reuters IPSOS PCSI (May) | 50.97 |  | 54.00 |
+| 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (May) | 52.35 |  | 49.22 |
+| 23 min | USD | Fed Collins Speaks |  |  |  |
 | 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | 3.307B |
 | 23:45 | NZD | External Migration & Visitors (Mar) |  |  | 15.20% |

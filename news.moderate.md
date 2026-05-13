@@ -18,8 +18,8 @@
 | 13:00 | BRL | Retail Sales (MoM) (Mar) | 0.5% | 0.0% | 0.7% |
 | 13:15 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 13:30 | USD | Core PPI (MoM) (Apr) | 1.0% | 0.3% | 0.2% |
-| 12 min | GBP | BoE MPC Member Mann Speaks |  |  |  |
-| 42 min | USD | Cushing Crude Oil Inventories |  |  | -0.648M |
+| 15:00 | GBP | BoE MPC Member Mann Speaks |  |  |  |
+| 15:30 | USD | Cushing Crude Oil Inventories | -1.702M |  | -0.648M |
 | 18:00 | GBP | BoE MPC Member Mann Speaks |  |  |  |
 | 18:15 | USD | FOMC Member Kashkari Speaks |  |  |  |
 | 20:00 | EUR | ECB's Lane Speaks |  |  |  |

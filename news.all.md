@@ -49,23 +49,23 @@
 | 13:30 | USD | Low | PPI (YoY) (Apr) | 6.0% | 4.9% | 4.3% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Apr) | 4.4% |  | 3.7% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Apr) | 0.6% |  | 0.2% |
-| 12 min | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
-| 42 min | USD | High | Crude Oil Inventories |  | -2.000M | -2.313M |
-| 42 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.042M |
-| 42 min | USD | Low | Crude Oil Imports |  |  | 1.415M |
-| 42 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.648M |
-| 42 min | USD | Low | Distillate Fuel Production |  |  | -0.024M |
-| 42 min | USD | Low | EIA Weekly Distillates Stocks |  | -2.990M | -1.294M |
-| 42 min | USD | Low | Gasoline Production |  |  | -0.275M |
-| 42 min | USD | Low | Heating Oil Stockpiles |  |  | -0.038M |
-| 42 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.5% |
-| 42 min | USD | Low | Gasoline Inventories |  | -2.550M | -2.504M |
+| 15:00 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
+| 15:30 | USD | High | Crude Oil Inventories | -4.306M | -2.100M | -2.313M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.370M |  | -0.042M |
+| 15:30 | USD | Low | Crude Oil Imports | -0.318M |  | 1.415M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | -1.702M |  | -0.648M |
+| 15:30 | USD | Low | Distillate Fuel Production | -0.124M |  | -0.024M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks | 0.190M | -2.830M | -1.294M |
+| 15:30 | USD | Low | Gasoline Production | 0.222M |  | -0.275M |
+| 15:30 | USD | Low | Heating Oil Stockpiles | 0.153M |  | -0.038M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 1.6% |  | 0.5% |
+| 15:30 | USD | Low | Gasoline Inventories | -4.084M | -2.850M | -2.504M |
 | 16:00 | USD | Low | Cleveland CPI (MoM) (Apr) |  |  | 0.2% |
-| 16:00 | USD | Low | Thomson Reuters IPSOS PCSI (May) |  |  | 49.95 |
-| 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (May) |  |  | 45.59 |
-| 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (May) |  |  | 54.00 |
-| 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (May) |  |  | 49.22 |
-| 16:30 | USD | Low | Fed Collins Speaks |  |  |  |
+| 16:00 | USD | Low | Thomson Reuters IPSOS PCSI (May) | 49.65 |  | 49.95 |
+| 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (May) | 47.58 |  | 45.59 |
+| 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (May) | 50.97 |  | 54.00 |
+| 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (May) | 52.35 |  | 49.22 |
+| 23 min | USD | Low | Fed Collins Speaks |  |  |  |
 | 18:00 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 18:00 | USD | High | 30-Year Bond Auction |  |  | 4.876% |
 | 18:15 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
