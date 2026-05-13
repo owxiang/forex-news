@@ -11,8 +11,8 @@
 | 06:30 | EUR | French Unemployment Rate (Q1) | 8.1% | 7.8% | 7.9% |
 | 07:00 | EUR | German WPI (MoM) (Apr) | 2.0% | 1.7% | 2.7% |
 | 07:00 | EUR | German WPI (YoY) (Apr) | 6.3% |  | 4.1% |
-| 07:45 | EUR | French CPI NSA (YoY) (Apr) | 2.20% |  | 1.70% |
 | 07:45 | EUR | French CPI NSA (MoM) (Apr) | 1.00% |  | 1.00% |
+| 07:45 | EUR | French CPI NSA (YoY) (Apr) | 2.20% |  | 1.70% |
 | 07:45 | EUR | French CPI (YoY) (Apr) | 2.2% | 2.2% | 1.7% |
 | 07:45 | EUR | French HICP (YoY) (Apr) | 2.5% | 2.5% | 2.0% |
 | 10:00 | EUR | Employment Change (QoQ) (Q1) | 0.1% | 0.0% | 0.2% |
@@ -27,11 +27,11 @@
 | 12:00 | USD | MBA Purchase Index | 177.7 |  | 171.1 |
 | 12:00 | USD | Mortgage Market Index | 290.1 |  | 285.3 |
 | 12:00 | USD | Mortgage Refinance Index | 921.1 |  | 928.6 |
-| 12 min | EUR | German Current Account Balance n.s.a (Mar) |  |  | 22.0B |
-| 42 min | USD | Core PPI (YoY) (Apr) |  | 4.3% | 3.8% |
-| 42 min | USD | PPI (YoY) (Apr) |  | 4.9% | 4.0% |
-| 42 min | USD | PPI ex. Food/Energy/Transport (YoY) (Apr) |  |  | 3.6% |
-| 42 min | USD | PPI ex. Food/Energy/Transport (MoM) (Apr) |  |  | 0.2% |
+| 13:30 | USD | Core PPI (YoY) (Apr) | 5.2% | 4.3% | 4.0% |
+| 13:30 | USD | PPI (YoY) (Apr) | 6.0% | 4.9% | 4.3% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Apr) | 4.4% |  | 3.7% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Apr) | 0.6% |  | 0.2% |
+| 13:30 | EUR | German Current Account Balance n.s.a (Mar) | 23.6B |  | 20.5B |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.042M |
 | 15:30 | USD | Crude Oil Imports |  |  | 1.415M |
 | 15:30 | USD | Distillate Fuel Production |  |  | -0.024M |

@@ -2,6 +2,6 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 42 min | USD | PPI (MoM) (Apr) |  | 0.5% | 0.5% |
+| 13:30 | USD | PPI (MoM) (Apr) | 1.4% | 0.5% | 0.7% |
 | 15:30 | USD | Crude Oil Inventories |  | -2.000M | -2.313M |
 | 18:00 | USD | 30-Year Bond Auction |  |  | 4.876% |

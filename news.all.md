@@ -16,10 +16,10 @@
 | 06:30 | EUR | Low | French Unemployment Rate (Q1) | 8.1% | 7.8% | 7.9% |
 | 07:00 | EUR | Low | German WPI (MoM) (Apr) | 2.0% | 1.7% | 2.7% |
 | 07:00 | EUR | Low | German WPI (YoY) (Apr) | 6.3% |  | 4.1% |
-| 07:45 | EUR | Low | French CPI NSA (YoY) (Apr) | 2.20% |  | 1.70% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Apr) | 1.00% |  | 1.00% |
-| 07:45 | EUR | Low | French CPI (YoY) (Apr) | 2.2% | 2.2% | 1.7% |
+| 07:45 | EUR | Low | French CPI NSA (YoY) (Apr) | 2.20% |  | 1.70% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Apr) | 1.0% | 1.0% | 1.0% |
+| 07:45 | EUR | Low | French CPI (YoY) (Apr) | 2.2% | 2.2% | 1.7% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Apr) | 1.2% | 1.2% | 1.1% |
 | 07:45 | EUR | Low | French HICP (YoY) (Apr) | 2.5% | 2.5% | 2.0% |
 | 10:00 | USD | Moderate | IEA Monthly Report |  |  |  |
@@ -28,8 +28,8 @@
 | 10:00 | EUR | Low | Employment Overall (Q1) | 176,412.0K |  | 172,613.0K |
 | 10:00 | EUR | Moderate | GDP (YoY) (Q1) | 0.8% | 0.8% | 1.2% |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q1) | 0.1% | 0.1% | 0.2% |
-| 10:00 | EUR | Low | Industrial Production (YoY) (Mar) | -2.1% | -1.7% | -0.8% |
 | 10:00 | EUR | Moderate | Industrial Production (MoM) (Mar) | 0.2% | 0.3% | 0.2% |
+| 10:00 | EUR | Low | Industrial Production (YoY) (Mar) | -2.1% | -1.7% | -0.8% |
 | 10:30 | EUR | Low | Italian 3-Year BTP Auction | 2.98% |  | 2.91% |
 | 10:30 | EUR | Low | Italian 7-Year BTP Auction | 3.55% |  | 3.51% |
 | 10:40 | EUR | Low | German 30-Year Bund Auction | 3.620% |  | 3.570% |
@@ -39,16 +39,16 @@
 | 12:00 | USD | Low | MBA Purchase Index | 177.7 |  | 171.1 |
 | 12:00 | USD | Low | Mortgage Market Index | 290.1 |  | 285.3 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 921.1 |  | 928.6 |
-| 12 min | EUR | Low | German Current Account Balance n.s.a (Mar) |  |  | 22.0B |
-| 12 min | BRL | Moderate | Retail Sales (YoY) (Mar) |  | 2.8% | 0.2% |
-| 12 min | BRL | Moderate | Retail Sales (MoM) (Mar) |  | 0.0% | 0.6% |
-| 27 min | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 42 min | USD | Moderate | Core PPI (MoM) (Apr) |  | 0.3% | 0.1% |
-| 42 min | USD | Low | Core PPI (YoY) (Apr) |  | 4.3% | 3.8% |
-| 42 min | USD | High | PPI (MoM) (Apr) |  | 0.5% | 0.5% |
-| 42 min | USD | Low | PPI (YoY) (Apr) |  | 4.9% | 4.0% |
-| 42 min | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Apr) |  |  | 3.6% |
-| 42 min | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Apr) |  |  | 0.2% |
+| 13:00 | BRL | Moderate | Retail Sales (YoY) (Mar) | 4.0% | 2.8% | 0.4% |
+| 13:00 | BRL | Moderate | Retail Sales (MoM) (Mar) | 0.5% | 0.0% | 0.7% |
+| 13:15 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
+| 13:30 | USD | Moderate | Core PPI (MoM) (Apr) | 1.0% | 0.3% | 0.2% |
+| 13:30 | USD | Low | Core PPI (YoY) (Apr) | 5.2% | 4.3% | 4.0% |
+| 13:30 | USD | High | PPI (MoM) (Apr) | 1.4% | 0.5% | 0.7% |
+| 13:30 | USD | Low | PPI (YoY) (Apr) | 6.0% | 4.9% | 4.3% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Apr) | 4.4% |  | 3.7% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Apr) | 0.6% |  | 0.2% |
+| 13:30 | EUR | Low | German Current Account Balance n.s.a (Mar) | 23.6B |  | 20.5B |
 | 15:00 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 15:30 | USD | High | Crude Oil Inventories |  | -2.000M | -2.313M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.042M |
