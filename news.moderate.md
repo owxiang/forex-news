@@ -14,10 +14,10 @@
 | 10:00 | EUR | GDP (QoQ) (Q1) | 0.1% | 0.1% | 0.2% |
 | 10:00 | EUR | Industrial Production (MoM) (Mar) | 0.2% | 0.3% | 0.2% |
 | 11:00 | USD | OPEC Monthly Report |  |  |  |
-| 13:00 | BRL | Retail Sales (MoM) (Mar) |  | 0.0% | 0.6% |
-| 13:00 | BRL | Retail Sales (YoY) (Mar) |  | 2.8% | 0.2% |
-| 13:15 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 13:30 | USD | Core PPI (MoM) (Apr) |  | 0.3% | 0.1% |
+| 12 min | BRL | Retail Sales (YoY) (Mar) |  | 2.8% | 0.2% |
+| 12 min | BRL | Retail Sales (MoM) (Mar) |  | 0.0% | 0.6% |
+| 27 min | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 42 min | USD | Core PPI (MoM) (Apr) |  | 0.3% | 0.1% |
 | 15:00 | GBP | BoE MPC Member Mann Speaks |  |  |  |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.648M |
 | 18:00 | GBP | BoE MPC Member Mann Speaks |  |  |  |
