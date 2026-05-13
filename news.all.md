@@ -24,17 +24,17 @@
 | 07:45 | EUR | Low | French HICP (YoY) (Apr) | 2.5% | 2.5% | 2.0% |
 | 10:00 | USD | Moderate | IEA Monthly Report |  |  |  |
 | 10:00 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Apr) |  |  | 1.70% |
-| 10:00 | EUR | Low | Employment Change (QoQ) (Q1) |  | 0.0% | 0.2% |
-| 10:00 | EUR | Low | Employment Change (YoY) (Q1) |  |  | 0.7% |
-| 10:00 | EUR | Low | Employment Overall (Q1) |  |  | 172,571.6K |
-| 10:00 | EUR | Moderate | GDP (YoY) (Q1) |  | 0.8% | 1.2% |
-| 10:00 | EUR | Moderate | GDP (QoQ) (Q1) |  | 0.1% | 0.2% |
-| 10:00 | EUR | Low | Industrial Production (YoY) (Mar) |  | -1.7% | -0.6% |
-| 10:00 | EUR | Moderate | Industrial Production (MoM) (Mar) |  | 0.3% | 0.4% |
+| 10:00 | EUR | Low | Employment Change (QoQ) (Q1) | 0.1% | 0.0% | 0.2% |
+| 10:00 | EUR | Low | Employment Change (YoY) (Q1) | 0.5% |  | 0.7% |
+| 10:00 | EUR | Low | Employment Overall (Q1) | 176,412.0K |  | 172,613.0K |
+| 10:00 | EUR | Moderate | GDP (YoY) (Q1) | 0.8% | 0.8% | 1.2% |
+| 10:00 | EUR | Moderate | GDP (QoQ) (Q1) | 0.1% | 0.1% | 0.2% |
+| 10:00 | EUR | Low | Industrial Production (YoY) (Mar) | -2.1% | -1.7% | -0.8% |
+| 10:00 | EUR | Moderate | Industrial Production (MoM) (Mar) | 0.2% | 0.3% | 0.2% |
 | 10:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 2.91% |
 | 10:10 | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.51% |
-| 10:30 | EUR | Low | German 30-Year Bund Auction |  |  | 3.570% |
-| 11:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
+| 19 min | EUR | Low | German 30-Year Bund Auction |  |  | 3.570% |
+| 49 min | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.45% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -4.4% |
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 171.1 |

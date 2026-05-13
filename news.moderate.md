@@ -10,10 +10,10 @@
 | 07:45 | EUR | French CPI (MoM) (Apr) | 1.0% | 1.0% | 1.0% |
 | 07:45 | EUR | French HICP (MoM) (Apr) | 1.2% | 1.2% | 1.1% |
 | 10:00 | USD | IEA Monthly Report |  |  |  |
-| 10:00 | EUR | GDP (YoY) (Q1) |  | 0.8% | 1.2% |
-| 10:00 | EUR | GDP (QoQ) (Q1) |  | 0.1% | 0.2% |
-| 10:00 | EUR | Industrial Production (MoM) (Mar) |  | 0.3% | 0.4% |
-| 11:00 | USD | OPEC Monthly Report |  |  |  |
+| 10:00 | EUR | GDP (YoY) (Q1) | 0.8% | 0.8% | 1.2% |
+| 10:00 | EUR | GDP (QoQ) (Q1) | 0.1% | 0.1% | 0.2% |
+| 10:00 | EUR | Industrial Production (MoM) (Mar) | 0.2% | 0.3% | 0.2% |
+| 49 min | USD | OPEC Monthly Report |  |  |  |
 | 13:00 | BRL | Retail Sales (MoM) (Mar) |  | 0.0% | 0.6% |
 | 13:00 | BRL | Retail Sales (YoY) (Mar) |  | 2.8% | 0.2% |
 | 13:15 | EUR | German Buba Vice President Buch Speaks |  |  |  |
