@@ -22,5 +22,5 @@
 | 15:30 | USD | Cushing Crude Oil Inventories | -1.702M |  | -0.648M |
 | 18:00 | GBP | BoE MPC Member Mann Speaks |  |  |  |
 | 18:15 | USD | FOMC Member Kashkari Speaks |  |  |  |
-| 20:00 | EUR | ECB's Lane Speaks |  |  |  |
-| 20:15 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 14 min | EUR | ECB's Lane Speaks |  |  |  |
+| 29 min | EUR | ECB President Lagarde Speaks |  |  |  |
