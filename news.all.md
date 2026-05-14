@@ -14,9 +14,9 @@
 | 07:00 | GBP | Low | Business Investment (YoY) (Q1) | -1.8% |  | 1.8% |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (Mar) | -0.3% | -2.5% | -1.6% |
 | 07:00 | GBP | Low | Construction Output (MoM) (Mar) | 1.5% | -0.5% | 0.5% |
-| 07:00 | GBP | High | GDP (MoM) (Mar) | 0.3% | -0.1% | 0.4% |
 | 07:00 | GBP | High | GDP (YoY) (Q1) | 1.1% | 0.8% | 1.0% |
 | 07:00 | GBP | High | GDP (QoQ) (Q1) | 0.6% | 0.6% | 0.2% |
+| 07:00 | GBP | High | GDP (MoM) (Mar) | 0.3% | -0.1% | 0.4% |
 | 07:00 | GBP | Low | GDP (YoY) (Mar) | 1.2% | 0.7% | 1.0% |
 | 07:00 | GBP | Low | Index of Services | 0.8% | 0.6% | 0.5% |
 | 07:00 | GBP | Low | Industrial Production (YoY) (Mar) | 0.0% | 0.2% | -0.5% |
@@ -49,8 +49,8 @@
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (May) | 48.71 |  | 48.49 |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,782K | 1,790K | 1,758K |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Apr) | 0.7% | 0.7% | 1.9% |
-| 13:30 | USD | Low | Export Price Index (YoY) (Apr) | 8.8% |  | 5.6% |
 | 13:30 | USD | Moderate | Export Price Index (MoM) (Apr) | 3.3% | 1.1% | 1.5% |
+| 13:30 | USD | Low | Export Price Index (YoY) (Apr) | 8.8% |  | 5.6% |
 | 13:30 | USD | Low | Import Price Index (YoY) (Apr) | 4.2% |  | 2.3% |
 | 13:30 | USD | Moderate | Import Price Index (MoM) (Apr) | 1.9% | 1.0% | 0.9% |
 | 13:30 | USD | High | Initial Jobless Claims | 211K | 205K | 199K |
@@ -68,11 +68,10 @@
 | 16:30 | USD | Low | 4-Week Bill Auction | 3.605% |  | 3.610% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 3.610% |  | 3.595% |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 4.0% | 3.7% | 3.7% |
-| 54 min | GBP | Moderate | NIESR Monthly GDP Tracker (Apr) |  |  | 0.6% |
-| 54 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,710B |
-| 54 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.051T |
-| 22:00 | KRW | Low | Export Price Index (YoY) (Apr) |  |  | 28.7% |
-| 22:00 | KRW | Low | Import Price Index (YoY) (Apr) |  |  | 18.4% |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,729B |  | 6,710B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.117T |  | 3.051T |
+| 24 min | KRW | Low | Export Price Index (YoY) (Apr) |  |  | 28.7% |
+| 24 min | KRW | Low | Import Price Index (YoY) (Apr) |  |  | 18.4% |
 | 22:45 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 23:30 | NZD | Moderate | Business NZ PMI (Apr) |  |  | 53.2 |
 | 23:45 | NZD | Low | FPI (MoM) (Apr) |  |  | -0.6% |
