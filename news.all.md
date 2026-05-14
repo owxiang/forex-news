@@ -47,21 +47,21 @@
 | 11:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (May) | 40.67 |  | 41.80 |
 | 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (May) | 46.62 |  | 47.16 |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (May) | 48.71 |  | 48.49 |
-| 21 min | GBP | Moderate | NIESR Monthly GDP Tracker (Apr) |  |  | 0.6% |
-| 51 min | USD | Moderate | Continuing Jobless Claims |  | 1,790K | 1,766K |
-| 51 min | USD | High | Core Retail Sales (MoM) (Apr) |  | 0.7% | 1.9% |
-| 51 min | USD | Moderate | Export Price Index (MoM) (Apr) |  | 1.1% | 1.6% |
-| 51 min | USD | Low | Export Price Index (YoY) (Apr) |  |  | 5.6% |
-| 51 min | USD | Low | Import Price Index (YoY) (Apr) |  |  | 2.1% |
-| 51 min | USD | Moderate | Import Price Index (MoM) (Apr) |  | 1.0% | 0.8% |
-| 51 min | USD | High | Initial Jobless Claims |  | 205K | 200K |
-| 51 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 203.25K |
-| 51 min | USD | Moderate | Retail Control (MoM) (Apr) |  | 0.4% | 0.7% |
-| 51 min | USD | High | Retail Sales (MoM) (Apr) |  | 0.5% | 1.7% |
-| 51 min | USD | Low | Retail Sales (YoY) (Apr) |  |  | 3.97% |
-| 51 min | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Apr) |  |  | 0.6% |
-| 51 min | CAD | Low | New Motor Vehicle Sales (MoM) (Mar) |  |  | 124.0K |
-| 51 min | CAD | Moderate | Wholesale Sales (MoM) (Mar) |  | 1.3% | 2.0% |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,782K | 1,790K | 1,758K |
+| 13:30 | USD | High | Core Retail Sales (MoM) (Apr) | 0.7% | 0.7% | 1.9% |
+| 13:30 | USD | Low | Export Price Index (YoY) (Apr) | 8.8% |  | 5.6% |
+| 13:30 | USD | Moderate | Export Price Index (MoM) (Apr) | 3.3% | 1.1% | 1.5% |
+| 13:30 | USD | Low | Import Price Index (YoY) (Apr) | 4.2% |  | 2.3% |
+| 13:30 | USD | Moderate | Import Price Index (MoM) (Apr) | 1.9% | 1.0% | 0.9% |
+| 13:30 | USD | High | Initial Jobless Claims | 211K | 205K | 199K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 203.75K |  | 203.00K |
+| 13:30 | USD | Moderate | Retail Control (MoM) (Apr) | 0.5% | 0.4% | 0.8% |
+| 13:30 | USD | High | Retail Sales (MoM) (Apr) | 0.5% | 0.5% | 1.6% |
+| 13:30 | USD | Low | Retail Sales (YoY) (Apr) | 4.87% |  | 4.15% |
+| 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Apr) | 0.5% |  | 0.7% |
+| 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Mar) | 176.5K |  | 124.0K |
+| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Mar) | 1.9% | 1.3% | 2.4% |
+| 15:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Apr) |  |  | 0.6% |
 | 15:00 | USD | Moderate | Business Inventories (MoM) (Mar) |  | 0.8% | 0.4% |
 | 15:00 | USD | Moderate | Retail Inventories Ex Auto (Mar) |  | 0.5% | 0.3% |
 | 15:30 | USD | Low | Natural Gas Storage |  | 86B | 63B |

@@ -33,12 +33,12 @@
 | 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (May) | 40.67 |  | 41.80 |
 | 11:00 | EUR | Thomson Reuters IPSOS PCSI (May) | 46.62 |  | 47.16 |
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (May) | 48.71 |  | 48.49 |
-| 51 min | USD | Export Price Index (YoY) (Apr) |  |  | 5.6% |
-| 51 min | USD | Import Price Index (YoY) (Apr) |  |  | 2.1% |
-| 51 min | USD | Jobless Claims 4-Week Avg. |  |  | 203.25K |
-| 51 min | USD | Retail Sales (YoY) (Apr) |  |  | 3.97% |
-| 51 min | USD | Retail Sales Ex Gas/Autos (MoM) (Apr) |  |  | 0.6% |
-| 51 min | CAD | New Motor Vehicle Sales (MoM) (Mar) |  |  | 124.0K |
+| 13:30 | USD | Export Price Index (YoY) (Apr) | 8.8% |  | 5.6% |
+| 13:30 | USD | Import Price Index (YoY) (Apr) | 4.2% |  | 2.3% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 203.75K |  | 203.00K |
+| 13:30 | USD | Retail Sales (YoY) (Apr) | 4.87% |  | 4.15% |
+| 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Apr) | 0.5% |  | 0.7% |
+| 13:30 | CAD | New Motor Vehicle Sales (MoM) (Mar) | 176.5K |  | 124.0K |
 | 15:30 | USD | Natural Gas Storage |  | 86B | 63B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.610% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 3.595% |
