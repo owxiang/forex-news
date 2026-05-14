@@ -72,6 +72,6 @@
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.117T |  | 3.051T |
 | 22:00 | KRW | Low | Export Price Index (YoY) (Apr) | 40.8% |  | 29.5% |
 | 22:00 | KRW | Low | Import Price Index (YoY) (Apr) | 20.2% |  | 20.4% |
-| 14 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 59 min | NZD | Moderate | Business NZ PMI (Apr) |  |  | 53.2 |
-| 23:45 | NZD | Low | FPI (MoM) (Apr) |  |  | -0.6% |
+| 22:45 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 23:30 | NZD | Moderate | Business NZ PMI (Apr) |  |  | 53.2 |
+| 16 min | NZD | Low | FPI (MoM) (Apr) |  |  | -0.6% |

@@ -45,4 +45,4 @@
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.117T |  | 3.051T |
 | 22:00 | KRW | Export Price Index (YoY) (Apr) | 40.8% |  | 29.5% |
 | 22:00 | KRW | Import Price Index (YoY) (Apr) | 20.2% |  | 20.4% |
-| 23:45 | NZD | FPI (MoM) (Apr) |  |  | -0.6% |
+| 16 min | NZD | FPI (MoM) (Apr) |  |  | -0.6% |
