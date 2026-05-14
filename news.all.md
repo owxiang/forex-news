@@ -2,26 +2,26 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 21 min | JPY | Low | Foreign Bonds Buying |  |  | -887.7B |
-| 21 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 807.9B |
-| 21 min | JPY | Low | M2 Money Stock (YoY) |  | 1.9% | 2.0% |
-| 21 min | JPY | Low | M3 Money Supply (Apr) |  |  | 2,280.3B |
-| 02:00 | AUD | Low | MI Inflation Expectations (May) |  |  | 5.9% |
-| 02:30 | AUD | Low | Westpac Consumer Sentiment (May) |  |  | -12.5% |
-| 04:35 | JPY | Low | 30-Year JGB Auction |  |  | 3.697% |
+| 00:50 | JPY | Low | Foreign Bonds Buying | 2,406.4B |  | -887.7B |
+| 00:50 | JPY | Low | Foreign Bonds Buying | 1,640.7B |  | 2,406.4B |
+| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 1,437.5B |  | 811.7B |
+| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 1,437.5B |  | 301.5B |
+| 00:50 | JPY | Low | M2 Money Stock (YoY) | 2.3% | 1.9% | 2.0% |
+| 00:50 | JPY | Low | M3 Money Supply (Apr) | 2,282.6B |  | 2,280.1B |
+| 20 min | JPY | Low | 30-Year JGB Auction |  |  | 3.697% |
 | 07:00 | GBP | Moderate | Business Investment (QoQ) (Q1) |  | 1.1% | -2.5% |
 | 07:00 | GBP | Low | Business Investment (YoY) (Q1) |  |  | 2.0% |
-| 07:00 | GBP | Low | U.K. Construction Output (YoY) (Mar) |  | -2.5% | -1.0% |
 | 07:00 | GBP | Low | Construction Output (MoM) (Mar) |  | -0.5% | 1.0% |
-| 07:00 | GBP | High | GDP (MoM) (Mar) |  | -0.1% | 0.5% |
-| 07:00 | GBP | High | GDP (YoY) (Q1) |  | 0.8% | 1.0% |
+| 07:00 | GBP | Low | U.K. Construction Output (YoY) (Mar) |  | -2.5% | -1.0% |
 | 07:00 | GBP | High | GDP (QoQ) (Q1) |  | 0.6% | 0.1% |
+| 07:00 | GBP | High | GDP (YoY) (Q1) |  | 0.8% | 1.0% |
+| 07:00 | GBP | High | GDP (MoM) (Mar) |  | -0.1% | 0.5% |
 | 07:00 | GBP | Low | GDP (YoY) (Mar) |  | 0.7% | 1.0% |
 | 07:00 | GBP | Low | Index of Services |  | 0.6% | 0.5% |
-| 07:00 | GBP | Low | Industrial Production (YoY) (Mar) |  |  | -0.4% |
 | 07:00 | GBP | Moderate | Industrial Production (MoM) (Mar) |  | -0.2% | 0.5% |
-| 07:00 | GBP | Low | Manufacturing Production (YoY) (Mar) |  | 0.0% | -0.5% |
+| 07:00 | GBP | Low | Industrial Production (YoY) (Mar) |  |  | -0.4% |
 | 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Mar) |  | -0.1% | -0.1% |
+| 07:00 | GBP | Low | Manufacturing Production (YoY) (Mar) |  | 0.0% | -0.5% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Mar) |  | 0.6% | 0.5% |
 | 07:00 | GBP | Moderate | Trade Balance (Mar) |  | -19.80B | -18.79B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Mar) |  |  | -7.10B |
