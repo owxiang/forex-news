@@ -42,7 +42,7 @@
 | 15:30 | USD | Natural Gas Storage | 85B | 86B | 63B |
 | 16:30 | USD | 4-Week Bill Auction | 3.605% |  | 3.610% |
 | 16:30 | USD | 8-Week Bill Auction | 3.610% |  | 3.595% |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.051T |
+| 54 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.051T |
 | 22:00 | KRW | Export Price Index (YoY) (Apr) |  |  | 28.7% |
 | 22:00 | KRW | Import Price Index (YoY) (Apr) |  |  | 18.4% |
 | 23:45 | NZD | FPI (MoM) (Apr) |  |  | -0.6% |

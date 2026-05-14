@@ -68,9 +68,9 @@
 | 16:30 | USD | Low | 4-Week Bill Auction | 3.605% |  | 3.610% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 3.610% |  | 3.595% |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 4.0% | 3.7% | 3.7% |
-| 15 min | GBP | Moderate | NIESR Monthly GDP Tracker (Apr) |  |  | 0.6% |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,710B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.051T |
+| 54 min | GBP | Moderate | NIESR Monthly GDP Tracker (Apr) |  |  | 0.6% |
+| 54 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,710B |
+| 54 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.051T |
 | 22:00 | KRW | Low | Export Price Index (YoY) (Apr) |  |  | 28.7% |
 | 22:00 | KRW | Low | Import Price Index (YoY) (Apr) |  |  | 18.4% |
 | 22:45 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
