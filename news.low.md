@@ -43,6 +43,6 @@
 | 16:30 | USD | 4-Week Bill Auction | 3.605% |  | 3.610% |
 | 16:30 | USD | 8-Week Bill Auction | 3.610% |  | 3.595% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.117T |  | 3.051T |
-| 24 min | KRW | Export Price Index (YoY) (Apr) |  |  | 28.7% |
-| 24 min | KRW | Import Price Index (YoY) (Apr) |  |  | 18.4% |
+| 22:00 | KRW | Export Price Index (YoY) (Apr) | 40.8% |  | 29.5% |
+| 22:00 | KRW | Import Price Index (YoY) (Apr) | 20.2% |  | 20.4% |
 | 23:45 | NZD | FPI (MoM) (Apr) |  |  | -0.6% |

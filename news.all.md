@@ -70,8 +70,8 @@
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 4.0% | 3.7% | 3.7% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet | 6,729B |  | 6,710B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.117T |  | 3.051T |
-| 24 min | KRW | Low | Export Price Index (YoY) (Apr) |  |  | 28.7% |
-| 24 min | KRW | Low | Import Price Index (YoY) (Apr) |  |  | 18.4% |
-| 22:45 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 23:30 | NZD | Moderate | Business NZ PMI (Apr) |  |  | 53.2 |
+| 22:00 | KRW | Low | Export Price Index (YoY) (Apr) | 40.8% |  | 29.5% |
+| 22:00 | KRW | Low | Import Price Index (YoY) (Apr) | 20.2% |  | 20.4% |
+| 14 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 59 min | NZD | Moderate | Business NZ PMI (Apr) |  |  | 53.2 |
 | 23:45 | NZD | Low | FPI (MoM) (Apr) |  |  | -0.6% |

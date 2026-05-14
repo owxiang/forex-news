@@ -23,5 +23,5 @@
 | 16:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 16:30 | USD | Atlanta Fed GDPNow (Q2) | 4.0% | 3.7% | 3.7% |
 | 21:30 | USD | Fed's Balance Sheet | 6,729B |  | 6,710B |
-| 22:45 | USD | FOMC Member Williams Speaks |  |  |  |
-| 23:30 | NZD | Business NZ PMI (Apr) |  |  | 53.2 |
+| 14 min | USD | FOMC Member Williams Speaks |  |  |  |
+| 59 min | NZD | Business NZ PMI (Apr) |  |  | 53.2 |
