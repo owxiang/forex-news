@@ -64,11 +64,11 @@
 | 15:00 | USD | Moderate | Business Inventories (MoM) (Mar) | 0.9% | 0.8% | 0.4% |
 | 15:00 | USD | Moderate | Retail Inventories Ex Auto (Mar) | 0.4% | 0.5% | 0.5% |
 | 15:30 | USD | Low | Natural Gas Storage | 85B | 86B | 63B |
-| 3 min | GBP | Moderate | NIESR Monthly GDP Tracker (Apr) |  |  | 0.6% |
-| 18 min | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 33 min | USD | Low | 4-Week Bill Auction |  |  | 3.610% |
-| 33 min | USD | Low | 8-Week Bill Auction |  |  | 3.595% |
-| 33 min | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 3.7% | 3.7% |
+| 16:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 16:30 | USD | Low | 4-Week Bill Auction | 3.605% |  | 3.610% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 3.610% |  | 3.595% |
+| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 4.0% | 3.7% | 3.7% |
+| 6 min | GBP | Moderate | NIESR Monthly GDP Tracker (Apr) |  |  | 0.6% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,710B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.051T |
 | 22:00 | KRW | Low | Export Price Index (YoY) (Apr) |  |  | 28.7% |
