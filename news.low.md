@@ -10,19 +10,19 @@
 | 00:51 | JPY | Foreign Bonds Buying | 1,640.7B |  | 2,406.4B |
 | 00:51 | JPY | Foreign Investments in Japanese Stocks | 1,437.5B |  | 301.5B |
 | 04:35 | JPY | 30-Year JGB Auction | 3.842% |  | 3.697% |
-| 37 min | GBP | Business Investment (YoY) (Q1) |  |  | 2.0% |
-| 37 min | GBP | U.K. Construction Output (YoY) (Mar) |  | -2.5% | -1.0% |
-| 37 min | GBP | Construction Output (MoM) (Mar) |  | -0.5% | 1.0% |
-| 37 min | GBP | GDP (YoY) (Mar) |  | 0.7% | 1.0% |
-| 37 min | GBP | Index of Services |  | 0.6% | 0.5% |
-| 37 min | GBP | Industrial Production (YoY) (Mar) |  | 0.2% | -0.4% |
-| 37 min | GBP | Manufacturing Production (YoY) (Mar) |  | 0.0% | -0.5% |
-| 07:30 | INR | WPI Food (YoY) (Apr) |  |  | 1.90% |
-| 07:30 | INR | WPI Fuel (YoY) (Apr) |  |  | 1.05% |
-| 07:30 | INR | WPI Manufacturing Inflation (YoY) (Apr) |  |  | 3.39% |
-| 08:00 | EUR | Core CPI (YoY) (Apr) |  | 2.8% | 2.9% |
-| 08:00 | EUR | Spanish CPI (MoM) (Apr) |  | 0.4% | 1.2% |
-| 08:00 | EUR | Spanish HICP (MoM) (Apr) |  | 0.7% | 1.7% |
+| 07:00 | GBP | Business Investment (YoY) (Q1) | -1.8% |  | 1.8% |
+| 07:00 | GBP | U.K. Construction Output (YoY) (Mar) | -0.3% | -2.5% | -1.6% |
+| 07:00 | GBP | Construction Output (MoM) (Mar) | 1.5% | -0.5% | 0.5% |
+| 07:00 | GBP | GDP (YoY) (Mar) | 1.2% | 0.7% | 1.0% |
+| 07:00 | GBP | Index of Services | 0.8% | 0.6% | 0.5% |
+| 07:00 | GBP | Industrial Production (YoY) (Mar) | 0.0% | 0.2% | -0.5% |
+| 07:00 | GBP | Manufacturing Production (YoY) (Mar) | 1.2% | 0.0% | -0.8% |
+| 07:30 | INR | WPI Food (YoY) (Apr) | 1.98% |  | 1.90% |
+| 07:30 | INR | WPI Fuel (YoY) (Apr) | 24.71% |  | 1.05% |
+| 07:30 | INR | WPI Manufacturing Inflation (YoY) (Apr) | 4.62% |  | 3.39% |
+| 08:00 | EUR | Core CPI (YoY) (Apr) | 2.8% | 2.8% | 2.9% |
+| 08:00 | EUR | Spanish CPI (MoM) (Apr) | 0.4% | 0.4% | 1.2% |
+| 08:00 | EUR | Spanish HICP (MoM) (Apr) | 0.7% | 0.7% | 1.7% |
 | 10:00 | CNY | M2 Money Stock (YoY) (Apr) |  | 8.5% | 8.5% |
 | 10:00 | CNY | Outstanding Loan Growth (YoY) (Apr) |  | 5.8% | 5.8% |
 | 10:00 | CNY | Chinese Total Social Financing (Apr) |  | 1,500.0B | 5,230.0B |

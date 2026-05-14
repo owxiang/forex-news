@@ -10,31 +10,31 @@
 | 00:51 | JPY | Low | Foreign Bonds Buying | 1,640.7B |  | 2,406.4B |
 | 00:51 | JPY | Low | Foreign Investments in Japanese Stocks | 1,437.5B |  | 301.5B |
 | 04:35 | JPY | Low | 30-Year JGB Auction | 3.842% |  | 3.697% |
-| 37 min | GBP | Moderate | Business Investment (QoQ) (Q1) |  | 1.1% | -2.5% |
-| 37 min | GBP | Low | Business Investment (YoY) (Q1) |  |  | 2.0% |
-| 37 min | GBP | Low | U.K. Construction Output (YoY) (Mar) |  | -2.5% | -1.0% |
-| 37 min | GBP | Low | Construction Output (MoM) (Mar) |  | -0.5% | 1.0% |
-| 37 min | GBP | High | GDP (MoM) (Mar) |  | -0.1% | 0.5% |
-| 37 min | GBP | High | GDP (YoY) (Q1) |  | 0.8% | 1.0% |
-| 37 min | GBP | High | GDP (QoQ) (Q1) |  | 0.6% | 0.1% |
-| 37 min | GBP | Low | GDP (YoY) (Mar) |  | 0.7% | 1.0% |
-| 37 min | GBP | Low | Index of Services |  | 0.6% | 0.5% |
-| 37 min | GBP | Low | Industrial Production (YoY) (Mar) |  | 0.2% | -0.4% |
-| 37 min | GBP | Moderate | Industrial Production (MoM) (Mar) |  | -0.2% | 0.5% |
-| 37 min | GBP | Low | Manufacturing Production (YoY) (Mar) |  | 0.0% | -0.5% |
-| 37 min | GBP | Moderate | Manufacturing Production (MoM) (Mar) |  | -0.1% | -0.1% |
-| 37 min | GBP | Moderate | Monthly GDP 3M/3M Change (Mar) |  | 0.6% | 0.5% |
-| 37 min | GBP | Moderate | Trade Balance (Mar) |  | -19.80B | -18.79B |
-| 37 min | GBP | Moderate | Trade Balance Non-EU (Mar) |  |  | -7.10B |
-| 07:30 | INR | Low | WPI Food (YoY) (Apr) |  |  | 1.90% |
-| 07:30 | INR | Low | WPI Fuel (YoY) (Apr) |  |  | 1.05% |
-| 07:30 | INR | Moderate | WPI Inflation (YoY) (Apr) |  | 4.40% | 3.88% |
-| 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Apr) |  |  | 3.39% |
-| 08:00 | EUR | Low | Core CPI (YoY) (Apr) |  | 2.8% | 2.9% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Apr) |  | 0.4% | 1.2% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Apr) |  | 3.2% | 3.4% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Apr) |  | 0.7% | 1.7% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Apr) |  | 3.5% | 3.4% |
+| 07:00 | GBP | Moderate | Business Investment (QoQ) (Q1) | 0.7% | 1.1% | -2.9% |
+| 07:00 | GBP | Low | Business Investment (YoY) (Q1) | -1.8% |  | 1.8% |
+| 07:00 | GBP | Low | U.K. Construction Output (YoY) (Mar) | -0.3% | -2.5% | -1.6% |
+| 07:00 | GBP | Low | Construction Output (MoM) (Mar) | 1.5% | -0.5% | 0.5% |
+| 07:00 | GBP | High | GDP (MoM) (Mar) | 0.3% | -0.1% | 0.4% |
+| 07:00 | GBP | High | GDP (YoY) (Q1) | 1.1% | 0.8% | 1.0% |
+| 07:00 | GBP | High | GDP (QoQ) (Q1) | 0.6% | 0.6% | 0.2% |
+| 07:00 | GBP | Low | GDP (YoY) (Mar) | 1.2% | 0.7% | 1.0% |
+| 07:00 | GBP | Low | Index of Services | 0.8% | 0.6% | 0.5% |
+| 07:00 | GBP | Low | Industrial Production (YoY) (Mar) | 0.0% | 0.2% | -0.5% |
+| 07:00 | GBP | Moderate | Industrial Production (MoM) (Mar) | -0.2% | -0.2% | 0.3% |
+| 07:00 | GBP | Low | Manufacturing Production (YoY) (Mar) | 1.2% | 0.0% | -0.8% |
+| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Mar) | 1.2% | -0.1% | -0.2% |
+| 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Mar) | 0.6% | 0.6% | 0.5% |
+| 07:00 | GBP | Moderate | Trade Balance (Mar) | -27.22B | -19.80B | -22.80B |
+| 07:00 | GBP | Moderate | Trade Balance Non-EU (Mar) | -15.19B |  | -7.10B |
+| 07:30 | INR | Low | WPI Food (YoY) (Apr) | 1.98% |  | 1.90% |
+| 07:30 | INR | Low | WPI Fuel (YoY) (Apr) | 24.71% |  | 1.05% |
+| 07:30 | INR | Moderate | WPI Inflation (YoY) (Apr) | 8.30% | 4.40% | 3.88% |
+| 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Apr) | 4.62% |  | 3.39% |
+| 08:00 | EUR | Low | Core CPI (YoY) (Apr) | 2.8% | 2.8% | 2.9% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Apr) | 0.4% | 0.4% | 1.2% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Apr) | 3.2% | 3.2% | 3.4% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Apr) | 0.7% | 0.7% | 1.7% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Apr) | 3.5% | 3.5% | 3.4% |
 | 10:00 | CNY | Low | M2 Money Stock (YoY) (Apr) |  | 8.5% | 8.5% |
 | 10:00 | CNY | Moderate | New Loans (Apr) |  | 320.0B | 2,990.0B |
 | 10:00 | CNY | Low | Outstanding Loan Growth (YoY) (Apr) |  | 5.8% | 5.8% |
@@ -69,7 +69,7 @@
 | 16:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.610% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.595% |
-| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  |  |  |
+| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 3.7% | 3.7% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,710B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.051T |
 | 22:00 | KRW | Low | Export Price Index (YoY) (Apr) |  |  | 28.7% |
