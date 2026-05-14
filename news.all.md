@@ -39,16 +39,16 @@
 | 10:00 | CNY | Moderate | New Loans (Apr) | -10.0B | 320.0B | 2,990.0B |
 | 10:00 | CNY | Low | Outstanding Loan Growth (YoY) (Apr) | 5.6% | 5.8% | 5.8% |
 | 10:00 | CNY | Low | Chinese Total Social Financing (Apr) | 620.0B | 1,500.0B | 5,230.0B |
-| 10 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 25 min | ZAR | Low | Gold Production (YoY) (Mar) |  |  | 12.8% |
-| 25 min | ZAR | Low | Mining Production (Mar) |  |  | 9.7% |
-| 55 min | GBP | Low | Thomson Reuters IPSOS PCSI (May) |  |  | 43.3 |
-| 55 min | EUR | Low | Italy Thomson Reuters IPSOS PCSI (May) |  |  | 43.12 |
-| 55 min | EUR | Low | Germany Thomson Reuters IPSOS PCSI (May) |  |  | 41.80 |
-| 55 min | EUR | Low | France Thomson Reuters IPSOS PCSI (May) |  |  | 38.08 |
-| 55 min | EUR | Low | Thomson Reuters IPSOS PCSI (May) |  |  | 47.16 |
-| 55 min | ZAR | Low | Thomson Reuters IPSOS PCSI (May) |  |  | 48.49 |
-| 12:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Apr) |  |  | 0.6% |
+| 10:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 10:30 | ZAR | Low | Gold Production (YoY) (Mar) | 17.1% |  | 12.8% |
+| 10:30 | ZAR | Low | Mining Production (Mar) | 2.5% |  | 9.7% |
+| 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (May) | 44.9 |  | 43.3 |
+| 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (May) | 43.38 |  | 43.12 |
+| 11:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (May) | 40.67 |  | 41.80 |
+| 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (May) | 46.62 |  | 47.16 |
+| 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (May) | 48.71 |  | 48.49 |
+| 7 min | GBP | Moderate | NIESR Monthly GDP Tracker (Apr) |  |  | 0.6% |
+| 7 min | EUR | Low | France Thomson Reuters IPSOS PCSI (May) |  |  | 38.08 |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,790K | 1,766K |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Apr) |  | 0.7% | 1.9% |
 | 13:30 | USD | Low | Export Price Index (YoY) (Apr) |  |  | 5.6% |
