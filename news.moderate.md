@@ -11,8 +11,8 @@
 | 07:30 | INR | WPI Inflation (YoY) (Apr) | 8.30% | 4.40% | 3.88% |
 | 08:00 | EUR | Spanish CPI (YoY) (Apr) | 3.2% | 3.2% | 3.4% |
 | 08:00 | EUR | Spanish HICP (YoY) (Apr) | 3.5% | 3.5% | 3.4% |
-| 10:00 | CNY | New Loans (Apr) |  | 320.0B | 2,990.0B |
-| 10:15 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 10:00 | CNY | New Loans (Apr) | -10.0B | 320.0B | 2,990.0B |
+| 10 min | EUR | ECB President Lagarde Speaks |  |  |  |
 | 12:00 | GBP | NIESR Monthly GDP Tracker (Apr) |  |  | 0.6% |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,790K | 1,766K |
 | 13:30 | USD | Export Price Index (MoM) (Apr) |  | 1.1% | 1.6% |

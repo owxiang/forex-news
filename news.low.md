@@ -23,17 +23,17 @@
 | 08:00 | EUR | Core CPI (YoY) (Apr) | 2.8% | 2.8% | 2.9% |
 | 08:00 | EUR | Spanish CPI (MoM) (Apr) | 0.4% | 0.4% | 1.2% |
 | 08:00 | EUR | Spanish HICP (MoM) (Apr) | 0.7% | 0.7% | 1.7% |
-| 10:00 | CNY | M2 Money Stock (YoY) (Apr) |  | 8.5% | 8.5% |
-| 10:00 | CNY | Outstanding Loan Growth (YoY) (Apr) |  | 5.8% | 5.8% |
-| 10:00 | CNY | Chinese Total Social Financing (Apr) |  | 1,500.0B | 5,230.0B |
-| 10:30 | ZAR | Gold Production (YoY) (Mar) |  |  | 12.8% |
-| 10:30 | ZAR | Mining Production (Mar) |  |  | 9.7% |
-| 11:00 | GBP | Thomson Reuters IPSOS PCSI (May) |  |  | 43.3 |
-| 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (May) |  |  | 43.12 |
-| 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (May) |  |  | 41.80 |
-| 11:00 | EUR | France Thomson Reuters IPSOS PCSI (May) |  |  | 38.08 |
-| 11:00 | EUR | Thomson Reuters IPSOS PCSI (May) |  |  | 47.16 |
-| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (May) |  |  | 48.49 |
+| 10:00 | CNY | M2 Money Stock (YoY) (Apr) | 8.6% | 8.5% | 8.5% |
+| 10:00 | CNY | Outstanding Loan Growth (YoY) (Apr) | 5.6% | 5.8% | 5.8% |
+| 10:00 | CNY | Chinese Total Social Financing (Apr) | 620.0B | 1,500.0B | 5,230.0B |
+| 25 min | ZAR | Gold Production (YoY) (Mar) |  |  | 12.8% |
+| 25 min | ZAR | Mining Production (Mar) |  |  | 9.7% |
+| 55 min | GBP | Thomson Reuters IPSOS PCSI (May) |  |  | 43.3 |
+| 55 min | EUR | Italy Thomson Reuters IPSOS PCSI (May) |  |  | 43.12 |
+| 55 min | EUR | Germany Thomson Reuters IPSOS PCSI (May) |  |  | 41.80 |
+| 55 min | EUR | France Thomson Reuters IPSOS PCSI (May) |  |  | 38.08 |
+| 55 min | EUR | Thomson Reuters IPSOS PCSI (May) |  |  | 47.16 |
+| 55 min | ZAR | Thomson Reuters IPSOS PCSI (May) |  |  | 48.49 |
 | 13:30 | USD | Export Price Index (YoY) (Apr) |  |  | 5.6% |
 | 13:30 | USD | Import Price Index (YoY) (Apr) |  |  | 2.1% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 203.25K |
