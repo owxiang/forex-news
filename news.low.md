@@ -39,9 +39,9 @@
 | 13:30 | USD | Retail Sales (YoY) (Apr) | 4.87% |  | 4.15% |
 | 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Apr) | 0.5% |  | 0.7% |
 | 13:30 | CAD | New Motor Vehicle Sales (MoM) (Mar) | 176.5K |  | 124.0K |
-| 49 min | USD | Natural Gas Storage |  | 86B | 63B |
-| 16:30 | USD | 4-Week Bill Auction |  |  | 3.610% |
-| 16:30 | USD | 8-Week Bill Auction |  |  | 3.595% |
+| 15:30 | USD | Natural Gas Storage | 85B | 86B | 63B |
+| 33 min | USD | 4-Week Bill Auction |  |  | 3.610% |
+| 33 min | USD | 8-Week Bill Auction |  |  | 3.595% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.051T |
 | 22:00 | KRW | Export Price Index (YoY) (Apr) |  |  | 28.7% |
 | 22:00 | KRW | Import Price Index (YoY) (Apr) |  |  | 18.4% |
