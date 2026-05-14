@@ -61,10 +61,10 @@
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Apr) | 0.5% |  | 0.7% |
 | 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Mar) | 176.5K |  | 124.0K |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Mar) | 1.9% | 1.3% | 2.4% |
-| 15:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Apr) |  |  | 0.6% |
-| 15:00 | USD | Moderate | Business Inventories (MoM) (Mar) |  | 0.8% | 0.4% |
-| 15:00 | USD | Moderate | Retail Inventories Ex Auto (Mar) |  | 0.5% | 0.3% |
-| 15:30 | USD | Low | Natural Gas Storage |  | 86B | 63B |
+| 19 min | GBP | Moderate | NIESR Monthly GDP Tracker (Apr) |  |  | 0.6% |
+| 19 min | USD | Moderate | Business Inventories (MoM) (Mar) |  | 0.8% | 0.4% |
+| 19 min | USD | Moderate | Retail Inventories Ex Auto (Mar) |  | 0.5% | 0.5% |
+| 49 min | USD | Low | Natural Gas Storage |  | 86B | 63B |
 | 16:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.610% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.595% |

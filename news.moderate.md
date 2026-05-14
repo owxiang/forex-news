@@ -18,9 +18,9 @@
 | 13:30 | USD | Import Price Index (MoM) (Apr) | 1.9% | 1.0% | 0.9% |
 | 13:30 | USD | Retail Control (MoM) (Apr) | 0.5% | 0.4% | 0.8% |
 | 13:30 | CAD | Wholesale Sales (MoM) (Mar) | 1.9% | 1.3% | 2.4% |
-| 15:00 | GBP | NIESR Monthly GDP Tracker (Apr) |  |  | 0.6% |
-| 15:00 | USD | Business Inventories (MoM) (Mar) |  | 0.8% | 0.4% |
-| 15:00 | USD | Retail Inventories Ex Auto (Mar) |  | 0.5% | 0.3% |
+| 19 min | GBP | NIESR Monthly GDP Tracker (Apr) |  |  | 0.6% |
+| 19 min | USD | Business Inventories (MoM) (Mar) |  | 0.8% | 0.4% |
+| 19 min | USD | Retail Inventories Ex Auto (Mar) |  | 0.5% | 0.5% |
 | 16:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 16:30 | USD | Atlanta Fed GDPNow (Q2) |  | 3.7% | 3.7% |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,710B |
