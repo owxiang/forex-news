@@ -2,16 +2,16 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 27 min | JPY | PPI (YoY) (Apr) |  | 3.0% | 2.6% |
-| 27 min | JPY | PPI (MoM) (Apr) |  | 0.7% | 0.8% |
-| 37 min | KRW | Exports (YoY) (Apr) |  | 48.0% | 49.2% |
-| 37 min | KRW | Imports (YoY) (Apr) |  | 16.7% | 16.7% |
-| 37 min | KRW | Trade Balance (Apr) |  | 23.77B | 26.24B |
+| 00:50 | JPY | PPI (YoY) (Apr) | 4.9% | 3.0% | 2.9% |
+| 00:50 | JPY | PPI (MoM) (Apr) | 2.3% | 0.7% | 1.0% |
 | 03:00 | KRW | Thomson Reuters IPSOS PCSI (May) |  |  | 44.86 |
 | 03:00 | INR | Thomson Reuters IPSOS PCSI (May) |  |  | 66.17 |
 | 03:00 | AUD | Thomson Reuters IPSOS PCSI (May) |  |  | 46.04 |
 | 03:00 | JPY | Thomson Reuters IPSOS PCSI (May) |  |  | 37.70 |
 | 03:00 | CNY | China Thomson Reuters IPSOS PCSI (May) |  |  | 74.60 |
+| 06:00 | KRW | Exports (YoY) (Apr) |  | 48.0% | 49.2% |
+| 06:00 | KRW | Imports (YoY) (Apr) |  | 16.7% | 16.7% |
+| 06:00 | KRW | Trade Balance (Apr) |  | 23.77B | 26.24B |
 | 07:00 | EUR | German WPI (MoM) (Apr) |  |  | 2.7% |
 | 07:00 | EUR | German WPI (YoY) (Apr) |  |  | 4.1% |
 | 07:00 | JPY | Machine Tool Orders (YoY) (Apr) |  | 28.1% | 24.2% |

@@ -3,16 +3,16 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 27 min | JPY | Low | PPI (YoY) (Apr) |  | 3.0% | 2.6% |
-| 27 min | JPY | Low | PPI (MoM) (Apr) |  | 0.7% | 0.8% |
-| 37 min | KRW | Low | Exports (YoY) (Apr) |  | 48.0% | 49.2% |
-| 37 min | KRW | Low | Imports (YoY) (Apr) |  | 16.7% | 16.7% |
-| 37 min | KRW | Low | Trade Balance (Apr) |  | 23.77B | 26.24B |
+| 00:50 | JPY | Low | PPI (YoY) (Apr) | 4.9% | 3.0% | 2.9% |
+| 00:50 | JPY | Low | PPI (MoM) (Apr) | 2.3% | 0.7% | 1.0% |
 | 03:00 | KRW | Low | Thomson Reuters IPSOS PCSI (May) |  |  | 44.86 |
 | 03:00 | INR | Low | Thomson Reuters IPSOS PCSI (May) |  |  | 66.17 |
 | 03:00 | AUD | Low | Thomson Reuters IPSOS PCSI (May) |  |  | 46.04 |
 | 03:00 | JPY | Low | Thomson Reuters IPSOS PCSI (May) |  |  | 37.70 |
 | 03:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (May) |  |  | 74.60 |
+| 06:00 | KRW | Low | Exports (YoY) (Apr) |  | 48.0% | 49.2% |
+| 06:00 | KRW | Low | Imports (YoY) (Apr) |  | 16.7% | 16.7% |
+| 06:00 | KRW | Low | Trade Balance (Apr) |  | 23.77B | 26.24B |
 | 07:00 | EUR | Low | German WPI (MoM) (Apr) |  |  | 2.7% |
 | 07:00 | EUR | Low | German WPI (YoY) (Apr) |  |  | 4.1% |
 | 07:00 | JPY | Low | Machine Tool Orders (YoY) (Apr) |  | 28.1% | 24.2% |
