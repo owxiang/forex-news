@@ -25,17 +25,17 @@
 | 10:00 | INR | Low | Trade Balance (Apr) | -28.38B | -27.00B | -20.67B |
 | 11:00 | EUR | Low | Reserve Assets Total (Apr) | 1,888.23B |  | 1,908.12B |
 | 12:30 | INR | Low | FX Reserves, USD | 696.99B |  | 690.69B |
-| 18 min | BRL | Low | Brazilian Service Sector Growth (MoM) (Mar) |  |  | 0.1% |
-| 18 min | BRL | Low | Brazilian Service Sector Growth (YoY) (Mar) |  |  | 0.5% |
-| 33 min | CAD | Moderate | Housing Starts (Apr) |  | 244.0K | 235.9K |
-| 48 min | USD | Moderate | NY Empire State Manufacturing Index (May) |  | 7.30 | 11.00 |
-| 48 min | CAD | Moderate | Foreign Securities Purchases (Mar) |  | 11.40B | 6.17B |
-| 48 min | CAD | Low | Foreign Securities Purchases by Canadians (Mar) |  |  | 25.360B |
-| 48 min | CAD | Low | Manufacturing Sales (MoM) (Mar) |  | 3.5% | 3.6% |
-| 14:15 | USD | Low | Capacity Utilization Rate (Apr) |  | 75.8% | 75.7% |
-| 14:15 | USD | Moderate | Industrial Production (MoM) (Apr) |  | 0.3% | -0.5% |
-| 14:15 | USD | Moderate | Industrial Production (YoY) (Apr) |  |  | 0.74% |
-| 14:15 | USD | Low | Manufacturing Production (MoM) (Apr) |  | 0.2% | -0.1% |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Mar) | -1.2% |  | 0.0% |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Mar) | 3.0% |  | 0.4% |
+| 13:15 | CAD | Moderate | Housing Starts (Apr) | 279.3K | 244.0K | 239.7K |
+| 13:30 | USD | Moderate | NY Empire State Manufacturing Index (May) | 19.60 | 7.30 | 11.00 |
+| 13:30 | CAD | Moderate | Foreign Securities Purchases (Mar) | 4.62B | 11.40B | 5.84B |
+| 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Mar) | 3.900B |  | 25.270B |
+| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Mar) | 3.0% | 3.5% | 3.4% |
+| 29 min | USD | Low | Capacity Utilization Rate (Apr) |  | 75.8% | 75.7% |
+| 29 min | USD | Moderate | Industrial Production (MoM) (Apr) |  | 0.3% | -0.5% |
+| 29 min | USD | Moderate | Industrial Production (YoY) (Apr) |  |  | 0.74% |
+| 29 min | USD | Low | Manufacturing Production (MoM) (Apr) |  | 0.2% | -0.1% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 410 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 548 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -63.9K |
