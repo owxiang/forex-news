@@ -9,8 +9,8 @@
 | 13:30 | CAD | Foreign Securities Purchases (Mar) | 4.62B | 11.40B | 5.84B |
 | 14:15 | USD | Industrial Production (MoM) (Apr) | 0.7% | 0.3% | -0.3% |
 | 14:15 | USD | Industrial Production (YoY) (Apr) | 1.35% |  | 0.76% |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 410 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 548 |
+| 19 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 410 |
+| 19 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 548 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -63.9K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 178.8K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 163.3K |

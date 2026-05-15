@@ -36,8 +36,8 @@
 | 14:15 | USD | Moderate | Industrial Production (MoM) (Apr) | 0.7% | 0.3% | -0.3% |
 | 14:15 | USD | Moderate | Industrial Production (YoY) (Apr) | 1.35% |  | 0.76% |
 | 14:15 | USD | Low | Manufacturing Production (MoM) (Apr) | 0.6% | 0.2% | 0.1% |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 410 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 548 |
+| 19 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 410 |
+| 19 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 548 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -63.9K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 0.4K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 62.8K |
