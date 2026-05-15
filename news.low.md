@@ -21,9 +21,8 @@
 | 10:00 | INR | Exports (USD) (Apr) | 43.56B |  | 38.92B |
 | 10:00 | INR | Imports (USD) (Apr) | 71.94B |  | 59.59B |
 | 10:00 | INR | Trade Balance (Apr) | -28.38B | -27.00B | -20.67B |
-| 47 min | EUR | Spanish Consumer Confidence (Apr) |  |  | 66.9 |
-| 47 min | EUR | Reserve Assets Total (Apr) |  |  | 1,908.13B |
-| 12:30 | INR | FX Reserves, USD |  |  | 690.69B |
+| 11:00 | EUR | Reserve Assets Total (Apr) | 1,888.23B |  | 1,908.12B |
+| 38 min | INR | FX Reserves, USD |  |  | 690.69B |
 | 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Mar) |  |  | 0.1% |
 | 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Mar) |  |  | 0.5% |
 | 13:30 | CAD | Foreign Securities Purchases by Canadians (Mar) |  |  | 25.360B |
