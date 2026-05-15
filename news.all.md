@@ -10,19 +10,19 @@
 | 03:00 | AUD | Low | Thomson Reuters IPSOS PCSI (May) | 48.35 |  | 46.04 |
 | 03:00 | JPY | Low | Thomson Reuters IPSOS PCSI (May) | 37.82 |  | 37.70 |
 | 03:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (May) | 76.34 |  | 74.60 |
-| 07:00 | EUR | Low | German WPI (MoM) (Apr) |  |  | 2.7% |
-| 07:00 | EUR | Low | German WPI (YoY) (Apr) |  |  | 4.1% |
-| 07:00 | JPY | Low | Machine Tool Orders (YoY) (Apr) |  | 28.1% | 24.2% |
-| 07:00 | NOK | Low | Trade Balance (Apr) |  |  | 97.5B |
+| 35 min | EUR | Low | German WPI (MoM) (Apr) |  |  | 2.7% |
+| 35 min | EUR | Low | German WPI (YoY) (Apr) |  |  | 4.1% |
+| 35 min | JPY | Low | Machine Tool Orders (YoY) (Apr) |  | 28.1% | 24.2% |
+| 35 min | NOK | Low | Trade Balance (Apr) |  |  | 97.5B |
 | 07:30 | CHF | Low | Industrial Production (YoY) (Q1) |  |  | -0.70% |
 | 09:00 | EUR | Low | Italian CPI (MoM) (Apr) |  | 1.2% | 0.5% |
-| 09:00 | EUR | Low | Italian CPI (YoY) (Apr) |  | 2.8% | 2.8% |
+| 09:00 | EUR | Low | Italian CPI (YoY) (Apr) |  | 2.8% | 1.7% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Apr) |  |  | 1.5% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Apr) |  | 1.7% | 1.7% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (Apr) |  | 2.9% | 1.6% |
 | 09:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
 | 09:30 | HKD | Low | GDP (QoQ) (Q1) |  | 2.9% | 1.0% |
-| 09:30 | HKD | Low | GDP (YoY) (Q1) |  | 5.9% | 5.9% |
+| 09:30 | HKD | Low | GDP (YoY) (Q1) |  | 5.9% | 3.8% |
 | 10:00 | INR | Low | Exports (USD) (Apr) |  |  | 38.92B |
 | 10:00 | INR | Low | Imports (USD) (Apr) |  |  | 59.59B |
 | 10:00 | INR | Low | Trade Balance (Apr) |  | -27.00B | -20.67B |

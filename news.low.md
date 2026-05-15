@@ -9,18 +9,18 @@
 | 03:00 | AUD | Thomson Reuters IPSOS PCSI (May) | 48.35 |  | 46.04 |
 | 03:00 | JPY | Thomson Reuters IPSOS PCSI (May) | 37.82 |  | 37.70 |
 | 03:00 | CNY | China Thomson Reuters IPSOS PCSI (May) | 76.34 |  | 74.60 |
-| 07:00 | EUR | German WPI (MoM) (Apr) |  |  | 2.7% |
-| 07:00 | EUR | German WPI (YoY) (Apr) |  |  | 4.1% |
-| 07:00 | JPY | Machine Tool Orders (YoY) (Apr) |  | 28.1% | 24.2% |
-| 07:00 | NOK | Trade Balance (Apr) |  |  | 97.5B |
+| 35 min | EUR | German WPI (MoM) (Apr) |  |  | 2.7% |
+| 35 min | EUR | German WPI (YoY) (Apr) |  |  | 4.1% |
+| 35 min | JPY | Machine Tool Orders (YoY) (Apr) |  | 28.1% | 24.2% |
+| 35 min | NOK | Trade Balance (Apr) |  |  | 97.5B |
 | 07:30 | CHF | Industrial Production (YoY) (Q1) |  |  | -0.70% |
 | 09:00 | EUR | Italian CPI (MoM) (Apr) |  | 1.2% | 0.5% |
-| 09:00 | EUR | Italian CPI (YoY) (Apr) |  | 2.8% | 2.8% |
+| 09:00 | EUR | Italian CPI (YoY) (Apr) |  | 2.8% | 1.7% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Apr) |  |  | 1.5% |
 | 09:00 | EUR | Italian HICP (MoM) (Apr) |  | 1.7% | 1.7% |
 | 09:00 | EUR | Italian HICP (YoY) (Apr) |  | 2.9% | 1.6% |
 | 09:30 | HKD | GDP (QoQ) (Q1) |  | 2.9% | 1.0% |
-| 09:30 | HKD | GDP (YoY) (Q1) |  | 5.9% | 5.9% |
+| 09:30 | HKD | GDP (YoY) (Q1) |  | 5.9% | 3.8% |
 | 10:00 | INR | Exports (USD) (Apr) |  |  | 38.92B |
 | 10:00 | INR | Imports (USD) (Apr) |  |  | 59.59B |
 | 10:00 | INR | Trade Balance (Apr) |  | -27.00B | -20.67B |
