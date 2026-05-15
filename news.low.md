@@ -22,11 +22,11 @@
 | 10:00 | INR | Imports (USD) (Apr) | 71.94B |  | 59.59B |
 | 10:00 | INR | Trade Balance (Apr) | -28.38B | -27.00B | -20.67B |
 | 11:00 | EUR | Reserve Assets Total (Apr) | 1,888.23B |  | 1,908.12B |
-| 38 min | INR | FX Reserves, USD |  |  | 690.69B |
-| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Mar) |  |  | 0.1% |
-| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Mar) |  |  | 0.5% |
-| 13:30 | CAD | Foreign Securities Purchases by Canadians (Mar) |  |  | 25.360B |
-| 13:30 | CAD | Manufacturing Sales (MoM) (Mar) |  | 3.5% | 3.6% |
+| 12:30 | INR | FX Reserves, USD | 696.99B |  | 690.69B |
+| 18 min | BRL | Brazilian Service Sector Growth (MoM) (Mar) |  |  | 0.1% |
+| 18 min | BRL | Brazilian Service Sector Growth (YoY) (Mar) |  |  | 0.5% |
+| 48 min | CAD | Foreign Securities Purchases by Canadians (Mar) |  |  | 25.360B |
+| 48 min | CAD | Manufacturing Sales (MoM) (Mar) |  | 3.5% | 3.6% |
 | 14:15 | USD | Capacity Utilization Rate (Apr) |  | 75.8% | 75.7% |
 | 14:15 | USD | Manufacturing Production (MoM) (Apr) |  | 0.2% | -0.1% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.4K |

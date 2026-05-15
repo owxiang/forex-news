@@ -4,9 +4,9 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 09:00 | EUR | ECB Economic Bulletin |  |  |  |
-| 13:15 | CAD | Housing Starts (Apr) |  | 244.0K | 235.9K |
-| 13:30 | USD | NY Empire State Manufacturing Index (May) |  | 7.30 | 11.00 |
-| 13:30 | CAD | Foreign Securities Purchases (Mar) |  | 11.40B | 6.17B |
+| 33 min | CAD | Housing Starts (Apr) |  | 244.0K | 235.9K |
+| 48 min | USD | NY Empire State Manufacturing Index (May) |  | 7.30 | 11.00 |
+| 48 min | CAD | Foreign Securities Purchases (Mar) |  | 11.40B | 6.17B |
 | 14:15 | USD | Industrial Production (MoM) (Apr) |  | 0.3% | -0.5% |
 | 14:15 | USD | Industrial Production (YoY) (Apr) |  |  | 0.74% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 410 |
