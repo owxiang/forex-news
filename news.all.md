@@ -5,11 +5,11 @@
 | 00:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 00:50 | JPY | Low | PPI (YoY) (Apr) | 4.9% | 3.0% | 2.9% |
 | 00:50 | JPY | Low | PPI (MoM) (Apr) | 2.3% | 0.7% | 1.0% |
-| 03:00 | KRW | Low | Thomson Reuters IPSOS PCSI (May) |  |  | 44.86 |
-| 03:00 | INR | Low | Thomson Reuters IPSOS PCSI (May) |  |  | 66.17 |
-| 03:00 | AUD | Low | Thomson Reuters IPSOS PCSI (May) |  |  | 46.04 |
-| 03:00 | JPY | Low | Thomson Reuters IPSOS PCSI (May) |  |  | 37.70 |
-| 03:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (May) |  |  | 74.60 |
+| 15 min | KRW | Low | Thomson Reuters IPSOS PCSI (May) |  |  | 44.86 |
+| 15 min | INR | Low | Thomson Reuters IPSOS PCSI (May) |  |  | 66.17 |
+| 15 min | AUD | Low | Thomson Reuters IPSOS PCSI (May) |  |  | 46.04 |
+| 15 min | JPY | Low | Thomson Reuters IPSOS PCSI (May) |  |  | 37.70 |
+| 15 min | CNY | Low | China Thomson Reuters IPSOS PCSI (May) |  |  | 74.60 |
 | 06:00 | KRW | Low | Exports (YoY) (Apr) |  | 48.0% | 49.2% |
 | 06:00 | KRW | Low | Imports (YoY) (Apr) |  | 16.7% | 16.7% |
 | 06:00 | KRW | Low | Trade Balance (Apr) |  | 23.77B | 26.24B |

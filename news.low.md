@@ -4,11 +4,11 @@
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | PPI (YoY) (Apr) | 4.9% | 3.0% | 2.9% |
 | 00:50 | JPY | PPI (MoM) (Apr) | 2.3% | 0.7% | 1.0% |
-| 03:00 | KRW | Thomson Reuters IPSOS PCSI (May) |  |  | 44.86 |
-| 03:00 | INR | Thomson Reuters IPSOS PCSI (May) |  |  | 66.17 |
-| 03:00 | AUD | Thomson Reuters IPSOS PCSI (May) |  |  | 46.04 |
-| 03:00 | JPY | Thomson Reuters IPSOS PCSI (May) |  |  | 37.70 |
-| 03:00 | CNY | China Thomson Reuters IPSOS PCSI (May) |  |  | 74.60 |
+| 15 min | KRW | Thomson Reuters IPSOS PCSI (May) |  |  | 44.86 |
+| 15 min | INR | Thomson Reuters IPSOS PCSI (May) |  |  | 66.17 |
+| 15 min | AUD | Thomson Reuters IPSOS PCSI (May) |  |  | 46.04 |
+| 15 min | JPY | Thomson Reuters IPSOS PCSI (May) |  |  | 37.70 |
+| 15 min | CNY | China Thomson Reuters IPSOS PCSI (May) |  |  | 74.60 |
 | 06:00 | KRW | Exports (YoY) (Apr) |  | 48.0% | 49.2% |
 | 06:00 | KRW | Imports (YoY) (Apr) |  | 16.7% | 16.7% |
 | 06:00 | KRW | Trade Balance (Apr) |  | 23.77B | 26.24B |
