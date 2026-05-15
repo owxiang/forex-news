@@ -7,8 +7,8 @@
 | 13:15 | CAD | Housing Starts (Apr) | 279.3K | 244.0K | 239.7K |
 | 13:30 | USD | NY Empire State Manufacturing Index (May) | 19.60 | 7.30 | 11.00 |
 | 13:30 | CAD | Foreign Securities Purchases (Mar) | 4.62B | 11.40B | 5.84B |
-| 29 min | USD | Industrial Production (MoM) (Apr) |  | 0.3% | -0.5% |
-| 29 min | USD | Industrial Production (YoY) (Apr) |  |  | 0.74% |
+| 14:15 | USD | Industrial Production (MoM) (Apr) | 0.7% | 0.3% | -0.3% |
+| 14:15 | USD | Industrial Production (YoY) (Apr) | 1.35% |  | 0.76% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 410 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 548 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -63.9K |

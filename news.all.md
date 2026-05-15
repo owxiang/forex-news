@@ -21,10 +21,10 @@
 | 09:30 | HKD | Low | GDP (QoQ) (Q1) | 2.9% | 2.9% | 1.0% |
 | 09:30 | HKD | Low | GDP (YoY) (Q1) | 5.9% | 5.9% | 3.8% |
 | 10:00 | INR | Low | Exports (USD) (Apr) | 43.56B |  | 38.92B |
-| 10:00 | INR | Low | Imports (USD) (Apr) | 71.94B |  | 59.59B |
 | 10:00 | INR | Low | Trade Balance (Apr) | -28.38B | -27.00B | -20.67B |
 | 11:00 | EUR | Low | Reserve Assets Total (Apr) | 1,888.23B |  | 1,908.12B |
 | 12:30 | INR | Low | FX Reserves, USD | 696.99B |  | 690.69B |
+| 12:30 | INR | Low | Imports (USD) (Apr) | 71.94B |  | 59.59B |
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Mar) | -1.2% |  | 0.0% |
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Mar) | 3.0% |  | 0.4% |
 | 13:15 | CAD | Moderate | Housing Starts (Apr) | 279.3K | 244.0K | 239.7K |
@@ -32,10 +32,10 @@
 | 13:30 | CAD | Moderate | Foreign Securities Purchases (Mar) | 4.62B | 11.40B | 5.84B |
 | 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Mar) | 3.900B |  | 25.270B |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Mar) | 3.0% | 3.5% | 3.4% |
-| 29 min | USD | Low | Capacity Utilization Rate (Apr) |  | 75.8% | 75.7% |
-| 29 min | USD | Moderate | Industrial Production (MoM) (Apr) |  | 0.3% | -0.5% |
-| 29 min | USD | Moderate | Industrial Production (YoY) (Apr) |  |  | 0.74% |
-| 29 min | USD | Low | Manufacturing Production (MoM) (Apr) |  | 0.2% | -0.1% |
+| 14:15 | USD | Low | Capacity Utilization Rate (Apr) | 76.1% | 75.8% | 75.7% |
+| 14:15 | USD | Moderate | Industrial Production (MoM) (Apr) | 0.7% | 0.3% | -0.3% |
+| 14:15 | USD | Moderate | Industrial Production (YoY) (Apr) | 1.35% |  | 0.76% |
+| 14:15 | USD | Low | Manufacturing Production (MoM) (Apr) | 0.6% | 0.2% | 0.1% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 410 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 548 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -63.9K |

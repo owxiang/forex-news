@@ -19,16 +19,16 @@
 | 09:30 | HKD | GDP (QoQ) (Q1) | 2.9% | 2.9% | 1.0% |
 | 09:30 | HKD | GDP (YoY) (Q1) | 5.9% | 5.9% | 3.8% |
 | 10:00 | INR | Exports (USD) (Apr) | 43.56B |  | 38.92B |
-| 10:00 | INR | Imports (USD) (Apr) | 71.94B |  | 59.59B |
 | 10:00 | INR | Trade Balance (Apr) | -28.38B | -27.00B | -20.67B |
 | 11:00 | EUR | Reserve Assets Total (Apr) | 1,888.23B |  | 1,908.12B |
 | 12:30 | INR | FX Reserves, USD | 696.99B |  | 690.69B |
+| 12:30 | INR | Imports (USD) (Apr) | 71.94B |  | 59.59B |
 | 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Mar) | -1.2% |  | 0.0% |
 | 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Mar) | 3.0% |  | 0.4% |
 | 13:30 | CAD | Foreign Securities Purchases by Canadians (Mar) | 3.900B |  | 25.270B |
 | 13:30 | CAD | Manufacturing Sales (MoM) (Mar) | 3.0% | 3.5% | 3.4% |
-| 29 min | USD | Capacity Utilization Rate (Apr) |  | 75.8% | 75.7% |
-| 29 min | USD | Manufacturing Production (MoM) (Apr) |  | 0.2% | -0.1% |
+| 14:15 | USD | Capacity Utilization Rate (Apr) | 76.1% | 75.8% | 75.7% |
+| 14:15 | USD | Manufacturing Production (MoM) (Apr) | 0.6% | 0.2% | 0.1% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.4K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 62.8K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 433.4K |
