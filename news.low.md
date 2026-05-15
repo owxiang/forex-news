@@ -9,11 +9,8 @@
 | 03:00 | AUD | Thomson Reuters IPSOS PCSI (May) | 48.35 |  | 46.04 |
 | 03:00 | JPY | Thomson Reuters IPSOS PCSI (May) | 37.82 |  | 37.70 |
 | 03:00 | CNY | China Thomson Reuters IPSOS PCSI (May) | 76.34 |  | 74.60 |
-| 35 min | EUR | German WPI (MoM) (Apr) |  |  | 2.7% |
-| 35 min | EUR | German WPI (YoY) (Apr) |  |  | 4.1% |
-| 35 min | JPY | Machine Tool Orders (YoY) (Apr) |  | 28.1% | 24.2% |
-| 35 min | NOK | Trade Balance (Apr) |  |  | 97.5B |
-| 07:30 | CHF | Industrial Production (YoY) (Q1) |  |  | -0.70% |
+| 07:00 | JPY | Machine Tool Orders (YoY) (Apr) | 45.1% | 28.1% | 24.2% |
+| 07:00 | NOK | Trade Balance (Apr) | 84.2B |  | 96.4B |
 | 09:00 | EUR | Italian CPI (MoM) (Apr) |  | 1.2% | 0.5% |
 | 09:00 | EUR | Italian CPI (YoY) (Apr) |  | 2.8% | 1.7% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Apr) |  |  | 1.5% |
