@@ -11,18 +11,18 @@
 | 03:00 | CNY | China Thomson Reuters IPSOS PCSI (May) | 76.34 |  | 74.60 |
 | 07:00 | JPY | Machine Tool Orders (YoY) (Apr) | 45.1% | 28.1% | 24.2% |
 | 07:00 | NOK | Trade Balance (Apr) | 84.2B |  | 96.4B |
-| 09:00 | EUR | Italian CPI (MoM) (Apr) |  | 1.2% | 0.5% |
-| 09:00 | EUR | Italian CPI (YoY) (Apr) |  | 2.8% | 1.7% |
-| 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Apr) |  |  | 1.5% |
-| 09:00 | EUR | Italian HICP (MoM) (Apr) |  | 1.7% | 1.7% |
-| 09:00 | EUR | Italian HICP (YoY) (Apr) |  | 2.9% | 1.6% |
-| 09:30 | HKD | GDP (QoQ) (Q1) |  | 2.9% | 1.0% |
-| 09:30 | HKD | GDP (YoY) (Q1) |  | 5.9% | 3.8% |
-| 10:00 | INR | Exports (USD) (Apr) |  |  | 38.92B |
-| 10:00 | INR | Imports (USD) (Apr) |  |  | 59.59B |
-| 10:00 | INR | Trade Balance (Apr) |  | -27.00B | -20.67B |
-| 11:00 | EUR | Spanish Consumer Confidence (Apr) |  |  | 66.9 |
-| 11:00 | EUR | Reserve Assets Total (Apr) |  |  | 1,908.13B |
+| 09:00 | EUR | Italian CPI (MoM) (Apr) | 1.1% | 1.2% | 0.5% |
+| 09:00 | EUR | Italian CPI (YoY) (Apr) | 2.7% | 2.8% | 1.7% |
+| 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Apr) | 2.6% |  | 1.5% |
+| 09:00 | EUR | Italian HICP (YoY) (Apr) | 2.8% | 2.9% | 1.6% |
+| 09:00 | EUR | Italian HICP (MoM) (Apr) | 1.6% | 1.7% | 1.7% |
+| 09:30 | HKD | GDP (QoQ) (Q1) | 2.9% | 2.9% | 1.0% |
+| 09:30 | HKD | GDP (YoY) (Q1) | 5.9% | 5.9% | 3.8% |
+| 10:00 | INR | Exports (USD) (Apr) | 43.56B |  | 38.92B |
+| 10:00 | INR | Imports (USD) (Apr) | 71.94B |  | 59.59B |
+| 10:00 | INR | Trade Balance (Apr) | -28.38B | -27.00B | -20.67B |
+| 47 min | EUR | Spanish Consumer Confidence (Apr) |  |  | 66.9 |
+| 47 min | EUR | Reserve Assets Total (Apr) |  |  | 1,908.13B |
 | 12:30 | INR | FX Reserves, USD |  |  | 690.69B |
 | 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Mar) |  |  | 0.1% |
 | 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Mar) |  |  | 0.5% |

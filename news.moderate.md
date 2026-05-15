@@ -20,4 +20,3 @@
 | 20:30 | BRL | CFTC BRL speculative net positions |  |  | 66.8K |
 | 20:30 | JPY | CFTC JPY speculative net positions |  |  | -61.7K |
 | 20:30 | EUR | CFTC EUR speculative net positions |  |  | 32.2K |
-| 21:30 | GBP | NIESR Monthly GDP Tracker (Apr) |  |  | 0.6% |

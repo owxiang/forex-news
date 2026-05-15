@@ -12,19 +12,19 @@
 | 03:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (May) | 76.34 |  | 74.60 |
 | 07:00 | JPY | Low | Machine Tool Orders (YoY) (Apr) | 45.1% | 28.1% | 24.2% |
 | 07:00 | NOK | Low | Trade Balance (Apr) | 84.2B |  | 96.4B |
-| 09:00 | EUR | Low | Italian CPI (MoM) (Apr) |  | 1.2% | 0.5% |
-| 09:00 | EUR | Low | Italian CPI (YoY) (Apr) |  | 2.8% | 1.7% |
-| 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Apr) |  |  | 1.5% |
-| 09:00 | EUR | Low | Italian HICP (MoM) (Apr) |  | 1.7% | 1.7% |
-| 09:00 | EUR | Low | Italian HICP (YoY) (Apr) |  | 2.9% | 1.6% |
+| 09:00 | EUR | Low | Italian CPI (MoM) (Apr) | 1.1% | 1.2% | 0.5% |
+| 09:00 | EUR | Low | Italian CPI (YoY) (Apr) | 2.7% | 2.8% | 1.7% |
+| 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Apr) | 2.6% |  | 1.5% |
+| 09:00 | EUR | Low | Italian HICP (YoY) (Apr) | 2.8% | 2.9% | 1.6% |
+| 09:00 | EUR | Low | Italian HICP (MoM) (Apr) | 1.6% | 1.7% | 1.7% |
 | 09:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
-| 09:30 | HKD | Low | GDP (QoQ) (Q1) |  | 2.9% | 1.0% |
-| 09:30 | HKD | Low | GDP (YoY) (Q1) |  | 5.9% | 3.8% |
-| 10:00 | INR | Low | Exports (USD) (Apr) |  |  | 38.92B |
-| 10:00 | INR | Low | Imports (USD) (Apr) |  |  | 59.59B |
-| 10:00 | INR | Low | Trade Balance (Apr) |  | -27.00B | -20.67B |
-| 11:00 | EUR | Low | Spanish Consumer Confidence (Apr) |  |  | 66.9 |
-| 11:00 | EUR | Low | Reserve Assets Total (Apr) |  |  | 1,908.13B |
+| 09:30 | HKD | Low | GDP (QoQ) (Q1) | 2.9% | 2.9% | 1.0% |
+| 09:30 | HKD | Low | GDP (YoY) (Q1) | 5.9% | 5.9% | 3.8% |
+| 10:00 | INR | Low | Exports (USD) (Apr) | 43.56B |  | 38.92B |
+| 10:00 | INR | Low | Imports (USD) (Apr) | 71.94B |  | 59.59B |
+| 10:00 | INR | Low | Trade Balance (Apr) | -28.38B | -27.00B | -20.67B |
+| 47 min | EUR | Low | Spanish Consumer Confidence (Apr) |  |  | 66.9 |
+| 47 min | EUR | Low | Reserve Assets Total (Apr) |  |  | 1,908.13B |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 690.69B |
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Mar) |  |  | 0.1% |
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Mar) |  |  | 0.5% |
@@ -59,4 +59,3 @@
 | 20:30 | JPY | Moderate | CFTC JPY speculative net positions |  |  | -61.7K |
 | 20:30 | NZD | Low | CFTC NZD speculative net positions |  |  | -48.3K |
 | 20:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | 32.2K |
-| 21:30 | GBP | Moderate | NIESR Monthly GDP Tracker (Apr) |  |  | 0.6% |
