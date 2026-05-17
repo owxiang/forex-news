@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 23:30 | NZD | Performance of Services Index (Apr) |  |  | 46.0 |
+| 8 min | NZD | Performance of Services Index (Apr) |  |  | 46.0 |
