@@ -11,7 +11,7 @@
 | 03:00 | CNY | Retail Sales (YoY) (Apr) | 0.2% | 2.0% | 1.7% |
 | 03:00 | CNY | Chinese Retail Sales YTD (YoY) (Apr) | 1.91% |  | 2.43% |
 | 04:00 | NZD | RBNZ Offshore Holdings (Apr) | 57.10% |  | 56.70% |
-| 17 min | JPY | 5-Year JGB Auction |  |  | 1.826% |
+| 04:35 | JPY | 5-Year JGB Auction | 2.024% |  | 1.826% |
 | 09:00 | EUR | Italian Trade Balance (Mar) |  | 5.250B | 4.944B |
 | 09:00 | EUR | Italian Trade Balance EU (Mar) |  |  | -0.65B |
 | 10:00 | CNY | FDI (Apr) |  |  | -7.30% |

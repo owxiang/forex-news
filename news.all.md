@@ -16,7 +16,7 @@
 | 03:00 | CNY | Moderate | Chinese Unemployment Rate (Apr) | 5.2% | 5.3% | 5.4% |
 | 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
 | 04:00 | NZD | Low | RBNZ Offshore Holdings (Apr) | 57.10% |  | 56.70% |
-| 17 min | JPY | Low | 5-Year JGB Auction |  |  | 1.826% |
+| 04:35 | JPY | Low | 5-Year JGB Auction | 2.024% |  | 1.826% |
 | 08:00 | CHF | Moderate | GDP (QoQ) (Q1) |  |  | 0.1% |
 | 08:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 09:00 | EUR | Low | Italian Trade Balance (Mar) |  | 5.250B | 4.944B |
