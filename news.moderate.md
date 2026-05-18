@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:00 | CNY | Fixed Asset Investment (YoY) (Apr) |  | 1.7% | 1.7% |
-| 03:00 | CNY | Industrial Production (YoY) (Apr) |  | 6.0% | 5.7% |
-| 03:00 | CNY | Chinese Industrial Production YTD (YoY) (Apr) |  |  | 6.1% |
-| 03:00 | CNY | Chinese Unemployment Rate (Apr) |  | 5.3% | 5.4% |
-| 03:00 | CNY | NBS Press Conference |  |  |  |
+| 57 min | CNY | Fixed Asset Investment (YoY) (Apr) |  | 1.7% | 1.7% |
+| 57 min | CNY | Industrial Production (YoY) (Apr) |  | 6.0% | 5.7% |
+| 57 min | CNY | Chinese Industrial Production YTD (YoY) (Apr) |  |  | 6.1% |
+| 57 min | CNY | Chinese Unemployment Rate (Apr) |  | 5.3% | 5.4% |
+| 57 min | CNY | NBS Press Conference |  |  |  |
 | 08:00 | CHF | GDP (QoQ) (Q1) |  |  | 0.1% |
 | 08:30 | EUR | ECB's Elderson Speaks |  |  |  |
 | 09:30 | GBP | BoE MPC Member Mann Speaks |  |  |  |
