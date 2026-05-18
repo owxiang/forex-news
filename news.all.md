@@ -32,10 +32,10 @@
 | 15:00 | USD | Low | NAHB Housing Market Index (May) | 37 | 34 | 34 |
 | 16:30 | USD | Low | 3-Month Bill Auction | 3.600% |  | 3.610% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 3.615% |  | 3.615% |
-| 24 min | USD | Low | US Foreign Buying, T-bonds (Mar) |  |  | 2.00B |
-| 24 min | USD | Low | Overall Net Capital Flow (Mar) |  |  | 184.50B |
-| 24 min | USD | Moderate | TIC Net Long-Term Transactions (Mar) |  |  | 58.6B |
-| 24 min | USD | Low | TIC Net Long-Term Transactions including Swaps (Mar) |  | 82.40B | 58.60B |
+| 21:00 | USD | Low | US Foreign Buying, T-bonds (Mar) | 13.50B |  | 2.60B |
+| 21:00 | USD | Low | Overall Net Capital Flow (Mar) | 150.70B |  | 182.70B |
+| 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Mar) | 81.3B | 87.2B | 57.0B |
+| 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Mar) | 81.30B | 82.40B | 57.00B |
 | 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Apr) |  |  | 0.7% |
 | 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Apr) |  |  | 2.7% |
 | 23:45 | NZD | Moderate | PPI Input (QoQ) (Q1) |  | 0.8% | -0.5% |
