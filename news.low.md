@@ -7,11 +7,11 @@
 | 01:30 | SGD | Non-Oil Exports (MoM) (Apr) | 11.00% |  | 3.00% |
 | 01:30 | SGD | Non-Oil Exports (YoY) (Apr) | 24.50% |  | 15.30% |
 | 01:30 | SGD | Trade Balance (Apr) | 13.068B |  | 11.120B |
-| 27 min | CNY | House Prices (YoY) (Apr) |  |  | -3.4% |
-| 57 min | CNY | Retail Sales (YoY) (Apr) |  | 2.0% | 1.7% |
-| 57 min | CNY | Chinese Retail Sales YTD (YoY) (Apr) |  |  | 2.43% |
-| 04:00 | NZD | RBNZ Offshore Holdings (Apr) |  |  | 56.70% |
-| 04:35 | JPY | 5-Year JGB Auction |  |  | 1.826% |
+| 02:30 | CNY | House Prices (YoY) (Apr) | -3.5% |  | -3.4% |
+| 03:00 | CNY | Retail Sales (YoY) (Apr) | 0.2% | 2.0% | 1.7% |
+| 03:00 | CNY | Chinese Retail Sales YTD (YoY) (Apr) | 1.91% |  | 2.43% |
+| 04:00 | NZD | RBNZ Offshore Holdings (Apr) | 57.10% |  | 56.70% |
+| 17 min | JPY | 5-Year JGB Auction |  |  | 1.826% |
 | 09:00 | EUR | Italian Trade Balance (Mar) |  | 5.250B | 4.944B |
 | 09:00 | EUR | Italian Trade Balance EU (Mar) |  |  | -0.65B |
 | 10:00 | CNY | FDI (Apr) |  |  | -7.30% |

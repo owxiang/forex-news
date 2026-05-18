@@ -7,16 +7,16 @@
 | 01:30 | SGD | Low | Non-Oil Exports (MoM) (Apr) | 11.00% |  | 3.00% |
 | 01:30 | SGD | Low | Non-Oil Exports (YoY) (Apr) | 24.50% |  | 15.30% |
 | 01:30 | SGD | Low | Trade Balance (Apr) | 13.068B |  | 11.120B |
-| 27 min | CNY | Low | House Prices (YoY) (Apr) |  |  | -3.4% |
-| 57 min | CNY | Moderate | Fixed Asset Investment (YoY) (Apr) |  | 1.7% | 1.7% |
-| 57 min | CNY | Moderate | Industrial Production (YoY) (Apr) |  | 6.0% | 5.7% |
-| 57 min | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Apr) |  |  | 6.1% |
-| 57 min | CNY | Low | Retail Sales (YoY) (Apr) |  | 2.0% | 1.7% |
-| 57 min | CNY | Low | Chinese Retail Sales YTD (YoY) (Apr) |  |  | 2.43% |
-| 57 min | CNY | Moderate | Chinese Unemployment Rate (Apr) |  | 5.3% | 5.4% |
-| 57 min | CNY | Moderate | NBS Press Conference |  |  |  |
-| 04:00 | NZD | Low | RBNZ Offshore Holdings (Apr) |  |  | 56.70% |
-| 04:35 | JPY | Low | 5-Year JGB Auction |  |  | 1.826% |
+| 02:30 | CNY | Low | House Prices (YoY) (Apr) | -3.5% |  | -3.4% |
+| 03:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Apr) | -1.6% | 1.7% | 1.7% |
+| 03:00 | CNY | Moderate | Industrial Production (YoY) (Apr) | 4.1% | 6.0% | 5.7% |
+| 03:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Apr) | 5.6% |  | 6.1% |
+| 03:00 | CNY | Low | Retail Sales (YoY) (Apr) | 0.2% | 2.0% | 1.7% |
+| 03:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Apr) | 1.91% |  | 2.43% |
+| 03:00 | CNY | Moderate | Chinese Unemployment Rate (Apr) | 5.2% | 5.3% | 5.4% |
+| 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
+| 04:00 | NZD | Low | RBNZ Offshore Holdings (Apr) | 57.10% |  | 56.70% |
+| 17 min | JPY | Low | 5-Year JGB Auction |  |  | 1.826% |
 | 08:00 | CHF | Moderate | GDP (QoQ) (Q1) |  |  | 0.1% |
 | 08:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 09:00 | EUR | Low | Italian Trade Balance (Mar) |  | 5.250B | 4.944B |
