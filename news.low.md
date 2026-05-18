@@ -14,11 +14,10 @@
 | 04:35 | JPY | 5-Year JGB Auction | 2.024% |  | 1.826% |
 | 09:00 | EUR | Italian Trade Balance (Mar) | 4.709B | 5.250B | 4.983B |
 | 09:00 | EUR | Italian Trade Balance EU (Mar) | -1.08B |  | -0.61B |
-| 38 min | EUR | German Buba Monthly Report |  |  |  |
-| 12:00 | BRL | IGP-10 Inflation Index (MoM) (May) |  |  | 2.9% |
-| 12:00 | CNY | FDI (Apr) |  |  | -7.30% |
+| 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 12:00 | BRL | IGP-10 Inflation Index (MoM) (May) | 0.9% |  | 2.9% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | BRL | IBC-Br Economic Activity (Mar) |  |  | 0.60% |
+| 33 min | BRL | IBC-Br Economic Activity (Mar) |  | -0.20% | 0.60% |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.613% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.234% |
 | 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.421% |

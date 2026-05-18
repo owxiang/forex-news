@@ -22,11 +22,10 @@
 | 09:00 | EUR | Low | Italian Trade Balance (Mar) | 4.709B | 5.250B | 4.983B |
 | 09:00 | EUR | Low | Italian Trade Balance EU (Mar) | -1.08B |  | -0.61B |
 | 09:30 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
-| 38 min | EUR | Low | German Buba Monthly Report |  |  |  |
-| 12:00 | BRL | Low | IGP-10 Inflation Index (MoM) (May) |  |  | 2.9% |
-| 12:00 | CNY | Low | FDI (Apr) |  |  | -7.30% |
+| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 12:00 | BRL | Low | IGP-10 Inflation Index (MoM) (May) | 0.9% |  | 2.9% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | BRL | Low | IBC-Br Economic Activity (Mar) |  |  | 0.60% |
+| 33 min | BRL | Low | IBC-Br Economic Activity (Mar) |  | -0.20% | 0.60% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.613% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.234% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.421% |
