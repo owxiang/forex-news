@@ -17,11 +17,11 @@
 | 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
 | 04:00 | NZD | Low | RBNZ Offshore Holdings (Apr) | 57.10% |  | 56.70% |
 | 04:35 | JPY | Low | 5-Year JGB Auction | 2.024% |  | 1.826% |
-| 08:00 | CHF | Moderate | GDP (QoQ) (Q1) |  |  | 0.1% |
+| 08:00 | CHF | Moderate | GDP (QoQ) (Q1) | 0.5% |  | 0.1% |
 | 08:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 09:00 | EUR | Low | Italian Trade Balance (Mar) |  | 5.250B | 4.944B |
-| 09:00 | EUR | Low | Italian Trade Balance EU (Mar) |  |  | -0.65B |
-| 09:30 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
+| 23 min | EUR | Low | Italian Trade Balance (Mar) |  | 5.250B | 4.944B |
+| 23 min | EUR | Low | Italian Trade Balance EU (Mar) |  |  | -0.65B |
+| 53 min | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 10:00 | CNY | Low | FDI (Apr) |  |  | -7.30% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 12:00 | BRL | Low | IGP-10 Inflation Index (MoM) (May) |  |  | 2.9% |
