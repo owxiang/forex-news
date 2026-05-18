@@ -19,12 +19,12 @@
 | 04:35 | JPY | Low | 5-Year JGB Auction | 2.024% |  | 1.826% |
 | 08:00 | CHF | Moderate | GDP (QoQ) (Q1) | 0.5% |  | 0.1% |
 | 08:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 23 min | EUR | Low | Italian Trade Balance (Mar) |  | 5.250B | 4.944B |
-| 23 min | EUR | Low | Italian Trade Balance EU (Mar) |  |  | -0.65B |
-| 53 min | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
-| 10:00 | CNY | Low | FDI (Apr) |  |  | -7.30% |
-| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 09:00 | EUR | Low | Italian Trade Balance (Mar) | 4.709B | 5.250B | 4.983B |
+| 09:00 | EUR | Low | Italian Trade Balance EU (Mar) | -1.08B |  | -0.61B |
+| 09:30 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
+| 38 min | EUR | Low | German Buba Monthly Report |  |  |  |
 | 12:00 | BRL | Low | IGP-10 Inflation Index (MoM) (May) |  |  | 2.9% |
+| 12:00 | CNY | Low | FDI (Apr) |  |  | -7.30% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | BRL | Low | IBC-Br Economic Activity (Mar) |  |  | 0.60% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.613% |
