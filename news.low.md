@@ -21,9 +21,9 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 2.642% |  | 2.613% |
 | 14:00 | EUR | French 3-Month BTF Auction | 2.250% |  | 2.234% |
 | 14:00 | EUR | French 6-Month BTF Auction | 2.412% |  | 2.421% |
-| 34 min | USD | NAHB Housing Market Index (May) |  | 34 | 34 |
-| 16:30 | USD | 3-Month Bill Auction |  |  | 3.610% |
-| 16:30 | USD | 6-Month Bill Auction |  |  | 3.615% |
+| 15:00 | USD | NAHB Housing Market Index (May) | 37 | 34 | 34 |
+| 19 min | USD | 3-Month Bill Auction |  |  | 3.610% |
+| 19 min | USD | 6-Month Bill Auction |  |  | 3.615% |
 | 21:00 | USD | US Foreign Buying, T-bonds (Mar) |  |  | 2.00B |
 | 21:00 | USD | Overall Net Capital Flow (Mar) |  |  | 184.50B |
 | 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Mar) |  | 82.40B | 58.60B |
