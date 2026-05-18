@@ -17,11 +17,11 @@
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 12:00 | BRL | IGP-10 Inflation Index (MoM) (May) | 0.9% |  | 2.9% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 33 min | BRL | IBC-Br Economic Activity (Mar) |  | -0.20% | 0.60% |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.613% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.234% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.421% |
-| 15:00 | USD | NAHB Housing Market Index (May) |  | 34 | 34 |
+| 13:00 | BRL | IBC-Br Economic Activity (Mar) | -0.70% | -0.20% | 0.60% |
+| 14:00 | EUR | French 12-Month BTF Auction | 2.642% |  | 2.613% |
+| 14:00 | EUR | French 3-Month BTF Auction | 2.250% |  | 2.234% |
+| 14:00 | EUR | French 6-Month BTF Auction | 2.412% |  | 2.421% |
+| 34 min | USD | NAHB Housing Market Index (May) |  | 34 | 34 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 3.610% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 3.615% |
 | 21:00 | USD | US Foreign Buying, T-bonds (Mar) |  |  | 2.00B |
