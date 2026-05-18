@@ -1,31 +1,24 @@
-## 18 May 2026 - Low Impact Forex News
+## 19 May 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | Rightmove House Price Index (MoM) (May) | 1.2% |  | 0.8% |
-| 00:01 | GBP | Rightmove House Price Index (YoY) (May) | -0.3% |  | -0.9% |
-| 01:30 | SGD | Non-Oil Exports (MoM) (Apr) | 11.00% |  | 3.00% |
-| 01:30 | SGD | Non-Oil Exports (YoY) (Apr) | 24.50% |  | 15.30% |
-| 01:30 | SGD | Trade Balance (Apr) | 13.068B |  | 11.120B |
-| 02:30 | CNY | House Prices (YoY) (Apr) | -3.5% |  | -3.4% |
-| 03:00 | CNY | Retail Sales (YoY) (Apr) | 0.2% | 2.0% | 1.7% |
-| 03:00 | CNY | Chinese Retail Sales YTD (YoY) (Apr) | 1.91% |  | 2.43% |
-| 04:00 | NZD | RBNZ Offshore Holdings (Apr) | 57.10% |  | 56.70% |
-| 04:35 | JPY | 5-Year JGB Auction | 2.024% |  | 1.826% |
-| 09:00 | EUR | Italian Trade Balance (Mar) | 4.709B | 5.250B | 4.983B |
-| 09:00 | EUR | Italian Trade Balance EU (Mar) | -1.08B |  | -0.61B |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 12:00 | BRL | IGP-10 Inflation Index (MoM) (May) | 0.9% |  | 2.9% |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | BRL | IBC-Br Economic Activity (Mar) | -0.70% | -0.20% | 0.60% |
-| 14:00 | EUR | French 12-Month BTF Auction | 2.642% |  | 2.613% |
-| 14:00 | EUR | French 3-Month BTF Auction | 2.250% |  | 2.234% |
-| 14:00 | EUR | French 6-Month BTF Auction | 2.412% |  | 2.421% |
-| 15:00 | USD | NAHB Housing Market Index (May) | 37 | 34 | 34 |
-| 16:30 | USD | 3-Month Bill Auction | 3.600% |  | 3.610% |
-| 16:30 | USD | 6-Month Bill Auction | 3.615% |  | 3.615% |
-| 21:00 | USD | US Foreign Buying, T-bonds (Mar) | 13.50B |  | 2.60B |
-| 21:00 | USD | Overall Net Capital Flow (Mar) | 150.70B |  | 182.70B |
-| 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Mar) | 81.30B | 82.40B | 57.00B |
-| 18 min | NZD | Electronic Card Retail Sales (YoY) (Apr) |  |  | 2.7% |
-| 18 min | NZD | PPI Output (QoQ) (Q1) |  | 0.5% | 0.1% |
+| 22 min | JPY | GDP Capital Expenditure (QoQ) (Q1) |  | 0.2% | 1.3% |
+| 22 min | JPY | GDP External Demand (QoQ) (Q1) |  | 0.2% | 0.0% |
+| 22 min | JPY | GDP Private Consumption (QoQ) (Q1) |  | 0.2% | 0.3% |
+| 01:30 | AUD | Westpac Consumer Sentiment (May) |  |  | -12.5% |
+| 05:30 | JPY | Capacity Utilization (MoM) (Mar) |  |  | -0.1% |
+| 05:30 | JPY | Tertiary Industry Activity Index (Mar) |  | -0.30 | -0.70 |
+| 07:00 | GBP | Average Earnings ex Bonus (Mar) |  | 3.4% | 3.6% |
+| 09:00 | EUR | Spanish Trade Balance (Mar) |  |  | -3.30B |
+| 09:10 | GBP | BoE Breeden Speaks |  |  |  |
+| 09:30 | HKD | Unemployment Rate (Apr) |  |  | 3.7% |
+| 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.740% |
+| 12:00 | CNY | FDI (Apr) |  |  | -7.30% |
+| 13:00 | USD | Milk Auctions |  |  | 4,127.0 |
+| 13:30 | CAD | Common CPI (YoY) (Apr) |  | 2.6% | 2.6% |
+| 13:30 | CAD | CPI (YoY) (Apr) |  | 3.1% | 2.4% |
+| 13:30 | CAD | Median CPI (YoY) (Apr) |  | 2.2% | 2.3% |
+| 13:30 | CAD | Trimmed CPI (YoY) (Apr) |  | 2.2% | 2.2% |
+| 13:55 | USD | Redbook (YoY) |  |  | 9.6% |
+| 15:00 | USD | Pending Home Sales Index (Apr) |  |  | 73.7 |
+| 16:00 | NZD | GlobalDairyTrade Price Index |  |  | 1.5% |
