@@ -27,5 +27,5 @@
 | 21:00 | USD | US Foreign Buying, T-bonds (Mar) | 13.50B |  | 2.60B |
 | 21:00 | USD | Overall Net Capital Flow (Mar) | 150.70B |  | 182.70B |
 | 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Mar) | 81.30B | 82.40B | 57.00B |
-| 23:45 | NZD | Electronic Card Retail Sales (YoY) (Apr) |  |  | 2.7% |
-| 23:45 | NZD | PPI Output (QoQ) (Q1) |  | 0.5% | 0.1% |
+| 18 min | NZD | Electronic Card Retail Sales (YoY) (Apr) |  |  | 2.7% |
+| 18 min | NZD | PPI Output (QoQ) (Q1) |  | 0.5% | 0.1% |

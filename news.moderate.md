@@ -11,5 +11,5 @@
 | 08:30 | EUR | ECB's Elderson Speaks |  |  |  |
 | 09:30 | GBP | BoE MPC Member Mann Speaks |  |  |  |
 | 21:00 | USD | TIC Net Long-Term Transactions (Mar) | 81.3B | 87.2B | 57.0B |
-| 23:45 | NZD | Electronic Card Retail Sales (MoM) (Apr) |  |  | 0.7% |
-| 23:45 | NZD | PPI Input (QoQ) (Q1) |  | 0.8% | -0.5% |
+| 18 min | NZD | Electronic Card Retail Sales (MoM) (Apr) |  |  | 0.7% |
+| 18 min | NZD | PPI Input (QoQ) (Q1) |  | 0.8% | -0.5% |

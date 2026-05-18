@@ -36,7 +36,7 @@
 | 21:00 | USD | Low | Overall Net Capital Flow (Mar) | 150.70B |  | 182.70B |
 | 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Mar) | 81.3B | 87.2B | 57.0B |
 | 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Mar) | 81.30B | 82.40B | 57.00B |
-| 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Apr) |  |  | 0.7% |
-| 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Apr) |  |  | 2.7% |
-| 23:45 | NZD | Moderate | PPI Input (QoQ) (Q1) |  | 0.8% | -0.5% |
-| 23:45 | NZD | Low | PPI Output (QoQ) (Q1) |  | 0.5% | 0.1% |
+| 18 min | NZD | Moderate | Electronic Card Retail Sales (MoM) (Apr) |  |  | 0.7% |
+| 18 min | NZD | Low | Electronic Card Retail Sales (YoY) (Apr) |  |  | 2.7% |
+| 18 min | NZD | Moderate | PPI Input (QoQ) (Q1) |  | 0.8% | -0.5% |
+| 18 min | NZD | Low | PPI Output (QoQ) (Q1) |  | 0.5% | 0.1% |
