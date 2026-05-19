@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:50 | JPY | High | GDP (QoQ) (Q1) | 0.5% | 0.4% | 0.3% |
+| 00:50 | JPY | High | GDP (QoQ) (Q1) | 0.5% | 0.4% | 0.2% |
 | 00:50 | JPY | Moderate | GDP (YoY) (Q1) | 2.1% | 1.7% | 0.8% |
 | 00:50 | JPY | Low | GDP Capital Expenditure (QoQ) (Q1) | 0.3% | 0.2% | 1.4% |
 | 00:50 | JPY | Low | GDP External Demand (QoQ) (Q1) | 0.3% | 0.2% | 0.0% |
@@ -10,19 +10,19 @@
 | 00:50 | JPY | Low | GDP Private Consumption (QoQ) (Q1) | 0.3% | 0.2% | 0.0% |
 | 01:30 | AUD | Low | Westpac Consumer Sentiment (May) | 3.5% |  | -12.5% |
 | 02:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
-| 05:30 | JPY | Low | Capacity Utilization (MoM) (Mar) |  |  | -0.1% |
-| 05:30 | JPY | Moderate | Industrial Production (MoM) (Mar) |  | -0.5% | -0.5% |
-| 05:30 | JPY | Low | Tertiary Industry Activity Index (Mar) |  | -0.30 | -0.70 |
-| 07:00 | GBP | Low | Average Earnings ex Bonus (Mar) |  | 3.4% | 3.6% |
-| 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Mar) |  | 3.8% | 3.8% |
-| 07:00 | GBP | Moderate | Claimant Count Change (Apr) |  | 25.9K | 26.8K |
-| 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Mar) |  | 107K | 25K |
-| 07:00 | GBP | Moderate | Unemployment Rate (Mar) |  | 4.9% | 4.9% |
+| 05:30 | JPY | Low | Capacity Utilization (MoM) (Mar) | -1.2% |  | -0.1% |
+| 05:30 | JPY | Moderate | Industrial Production (MoM) (Mar) | -0.4% | -0.5% | -2.0% |
+| 05:30 | JPY | Low | Tertiary Industry Activity Index (Mar) | 16.50 | -0.40 | -1.10 |
+| 31 min | GBP | Low | Average Earnings ex Bonus (Mar) |  | 3.4% | 3.6% |
+| 31 min | GBP | Moderate | Average Earnings Index +Bonus (Mar) |  | 3.8% | 3.8% |
+| 31 min | GBP | Moderate | Claimant Count Change (Apr) |  | 23.1K | 26.8K |
+| 31 min | GBP | Moderate | Employment Change 3M/3M (MoM) (Mar) |  | 107K | 25K |
+| 31 min | GBP | Moderate | Unemployment Rate (Mar) |  | 4.9% | 4.9% |
 | 09:00 | EUR | Low | Spanish Trade Balance (Mar) |  |  | -3.30B |
 | 09:10 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 09:30 | GBP | Moderate | Labour Productivity (Q4) |  |  | 1.1% |
 | 09:30 | HKD | Low | Unemployment Rate (Apr) |  |  | 3.7% |
-| 10:00 | EUR | Moderate | Trade Balance (Mar) |  | 6.5B | 11.5B |
+| 10:00 | EUR | Moderate | Trade Balance (Mar) |  | 5.4B | 11.5B |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.740% |
 | 12:00 | CNY | Low | FDI (Apr) |  |  | -7.30% |
 | 13:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
@@ -35,12 +35,12 @@
 | 13:30 | CAD | Moderate | Core CPI (MoM) (Apr) |  |  | 0.2% |
 | 13:30 | CAD | Moderate | Core CPI (YoY) (Apr) |  |  | 2.5% |
 | 13:30 | CAD | Low | CPI (YoY) (Apr) |  | 3.1% | 2.4% |
-| 13:30 | CAD | Moderate | CPI (MoM) (Apr) |  | 0.6% | 0.9% |
-| 13:30 | CAD | Low | Median CPI (YoY) (Apr) |  | 2.2% | 2.3% |
+| 13:30 | CAD | Moderate | CPI (MoM) (Apr) |  | 0.7% | 0.9% |
+| 13:30 | CAD | Low | Median CPI (YoY) (Apr) |  | 2.3% | 2.3% |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Apr) |  | 0.0% | -0.2% |
 | 13:30 | CAD | Low | Trimmed CPI (YoY) (Apr) |  | 2.2% | 2.2% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 9.6% |
-| 15:00 | USD | Moderate | Pending Home Sales (MoM) (Apr) |  | 1.2% | 1.5% |
+| 15:00 | USD | Moderate | Pending Home Sales (MoM) (Apr) |  | 1.0% | 1.5% |
 | 15:00 | USD | Low | Pending Home Sales Index (Apr) |  |  | 73.7 |
 | 16:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 1.5% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -2.188M |
