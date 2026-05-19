@@ -2,14 +2,14 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 22 min | JPY | High | GDP (QoQ) (Q1) |  | 0.4% | 0.3% |
-| 22 min | JPY | Moderate | GDP (YoY) (Q1) |  | 1.7% | 1.3% |
-| 22 min | JPY | Low | GDP Capital Expenditure (QoQ) (Q1) |  | 0.2% | 1.3% |
-| 22 min | JPY | Low | GDP External Demand (QoQ) (Q1) |  | 0.2% | 0.0% |
-| 22 min | JPY | Moderate | GDP Price Index (YoY) (Q1) |  | 3.1% | 3.4% |
-| 22 min | JPY | Low | GDP Private Consumption (QoQ) (Q1) |  | 0.2% | 0.3% |
-| 01:30 | AUD | Low | Westpac Consumer Sentiment (May) |  |  | -12.5% |
-| 02:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
+| 00:50 | JPY | High | GDP (QoQ) (Q1) | 0.5% | 0.4% | 0.2% |
+| 00:50 | JPY | Moderate | GDP (YoY) (Q1) | 2.1% | 1.7% | 0.8% |
+| 00:50 | JPY | Low | GDP Capital Expenditure (QoQ) (Q1) | 0.3% | 0.2% | 1.4% |
+| 00:50 | JPY | Low | GDP External Demand (QoQ) (Q1) | 0.3% | 0.2% | 0.0% |
+| 00:50 | JPY | Moderate | GDP Price Index (YoY) (Q1) | 3.4% | 3.1% | 3.4% |
+| 00:50 | JPY | Low | GDP Private Consumption (QoQ) (Q1) | 0.3% | 0.2% | 0.0% |
+| 01:30 | AUD | Low | Westpac Consumer Sentiment (May) | 3.5% |  | -12.5% |
+| 26 min | AUD | Moderate | RBA Meeting Minutes |  |  |  |
 | 05:30 | JPY | Low | Capacity Utilization (MoM) (Mar) |  |  | -0.1% |
 | 05:30 | JPY | Moderate | Industrial Production (MoM) (Mar) |  | -0.5% | -0.5% |
 | 05:30 | JPY | Low | Tertiary Industry Activity Index (Mar) |  | -0.30 | -0.70 |

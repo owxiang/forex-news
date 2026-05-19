@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 22 min | JPY | GDP Capital Expenditure (QoQ) (Q1) |  | 0.2% | 1.3% |
-| 22 min | JPY | GDP External Demand (QoQ) (Q1) |  | 0.2% | 0.0% |
-| 22 min | JPY | GDP Private Consumption (QoQ) (Q1) |  | 0.2% | 0.3% |
-| 01:30 | AUD | Westpac Consumer Sentiment (May) |  |  | -12.5% |
+| 00:50 | JPY | GDP Capital Expenditure (QoQ) (Q1) | 0.3% | 0.2% | 1.4% |
+| 00:50 | JPY | GDP External Demand (QoQ) (Q1) | 0.3% | 0.2% | 0.0% |
+| 00:50 | JPY | GDP Private Consumption (QoQ) (Q1) | 0.3% | 0.2% | 0.0% |
+| 01:30 | AUD | Westpac Consumer Sentiment (May) | 3.5% |  | -12.5% |
 | 05:30 | JPY | Capacity Utilization (MoM) (Mar) |  |  | -0.1% |
 | 05:30 | JPY | Tertiary Industry Activity Index (Mar) |  | -0.30 | -0.70 |
 | 07:00 | GBP | Average Earnings ex Bonus (Mar) |  | 3.4% | 3.6% |
