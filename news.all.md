@@ -20,13 +20,12 @@
 | 07:00 | GBP | Moderate | Unemployment Rate (Mar) | 5.0% | 4.9% | 4.9% |
 | 09:00 | EUR | Low | Spanish Trade Balance (Mar) | -4.40B |  | -3.30B |
 | 09:10 | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 09:30 | GBP | Moderate | Labour Productivity (Q1) | 0.9% |  | -0.5% |
+| 09:30 | GBP | Moderate | Labour Productivity (Q4) | -0.5% |  | -0.5% |
 | 09:30 | HKD | Low | Unemployment Rate (Apr) | 3.7% |  | 3.7% |
 | 10:00 | EUR | Moderate | Trade Balance (Mar) | 7.8B | 5.4B | 11.1B |
-| 10 min | EUR | Low | German 5-Year Bobl Auction |  |  | 2.740% |
-| 12:00 | CNY | Low | FDI (Apr) |  |  | -7.30% |
-| 13:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 13:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 10:50 | EUR | Low | German 5-Year Bobl Auction | 2.850% |  | 2.740% |
+| 50 min | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 50 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 13:10 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 33.00K |
 | 13:30 | CAD | Moderate | Building Permits (MoM) (Mar) |  | 2.1% | -8.4% |
@@ -43,4 +42,4 @@
 | 15:00 | USD | Low | Pending Home Sales Index (Apr) |  |  | 73.7 |
 | 16:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 1.5% |
 | 16:00 | USD | Low | Milk Auctions |  |  | 4,127.0 |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -2.188M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -3.400M | -2.188M |

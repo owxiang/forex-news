@@ -12,8 +12,7 @@
 | 09:00 | EUR | Spanish Trade Balance (Mar) | -4.40B |  | -3.30B |
 | 09:10 | GBP | BoE Breeden Speaks |  |  |  |
 | 09:30 | HKD | Unemployment Rate (Apr) | 3.7% |  | 3.7% |
-| 10 min | EUR | German 5-Year Bobl Auction |  |  | 2.740% |
-| 12:00 | CNY | FDI (Apr) |  |  | -7.30% |
+| 10:50 | EUR | German 5-Year Bobl Auction | 2.850% |  | 2.740% |
 | 13:30 | CAD | Common CPI (YoY) (Apr) |  | 2.6% | 2.6% |
 | 13:30 | CAD | CPI (YoY) (Apr) |  | 3.1% | 2.4% |
 | 13:30 | CAD | Median CPI (YoY) (Apr) |  | 2.3% | 2.3% |
