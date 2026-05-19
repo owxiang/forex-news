@@ -10,8 +10,8 @@
 | 07:00 | GBP | Claimant Count Change (Apr) | 26.5K | 23.1K | 4.9K |
 | 07:00 | GBP | Employment Change 3M/3M (MoM) (Mar) | 148K | 107K | 25K |
 | 07:00 | GBP | Unemployment Rate (Mar) | 5.0% | 4.9% | 4.9% |
-| 09:30 | GBP | Labour Productivity (Q4) |  |  | 1.1% |
-| 10:00 | EUR | Trade Balance (Mar) |  | 5.4B | 11.5B |
+| 09:30 | GBP | Labour Productivity (Q1) | 0.9% |  | -0.5% |
+| 10:00 | EUR | Trade Balance (Mar) | 7.8B | 5.4B | 11.1B |
 | 13:00 | USD | Fed Waller Speaks |  |  |  |
 | 13:00 | EUR | ECB's Lane Speaks |  |  |  |
 | 13:10 | EUR | German Buba Vice President Buch Speaks |  |  |  |

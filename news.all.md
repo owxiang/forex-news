@@ -18,12 +18,12 @@
 | 07:00 | GBP | Moderate | Claimant Count Change (Apr) | 26.5K | 23.1K | 4.9K |
 | 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Mar) | 148K | 107K | 25K |
 | 07:00 | GBP | Moderate | Unemployment Rate (Mar) | 5.0% | 4.9% | 4.9% |
-| 09:00 | EUR | Low | Spanish Trade Balance (Mar) |  |  | -3.30B |
+| 09:00 | EUR | Low | Spanish Trade Balance (Mar) | -4.40B |  | -3.30B |
 | 09:10 | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 09:30 | GBP | Moderate | Labour Productivity (Q4) |  |  | 1.1% |
-| 09:30 | HKD | Low | Unemployment Rate (Apr) |  |  | 3.7% |
-| 10:00 | EUR | Moderate | Trade Balance (Mar) |  | 5.4B | 11.5B |
-| 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.740% |
+| 09:30 | GBP | Moderate | Labour Productivity (Q1) | 0.9% |  | -0.5% |
+| 09:30 | HKD | Low | Unemployment Rate (Apr) | 3.7% |  | 3.7% |
+| 10:00 | EUR | Moderate | Trade Balance (Mar) | 7.8B | 5.4B | 11.1B |
+| 10 min | EUR | Low | German 5-Year Bobl Auction |  |  | 2.740% |
 | 12:00 | CNY | Low | FDI (Apr) |  |  | -7.30% |
 | 13:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 13:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
