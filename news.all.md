@@ -24,22 +24,22 @@
 | 09:30 | HKD | Low | Unemployment Rate (Apr) | 3.7% |  | 3.7% |
 | 10:00 | EUR | Moderate | Trade Balance (Mar) | 7.8B | 5.4B | 11.1B |
 | 10:50 | EUR | Low | German 5-Year Bobl Auction | 2.850% |  | 2.740% |
-| 50 min | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 50 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 13:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 13:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 13:10 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 33.00K |
-| 13:30 | CAD | Moderate | Building Permits (MoM) (Mar) |  | 2.1% | -8.4% |
-| 13:30 | CAD | Low | Common CPI (YoY) (Apr) |  | 2.6% | 2.6% |
-| 13:30 | CAD | Moderate | Core CPI (YoY) (Apr) |  |  | 2.5% |
-| 13:30 | CAD | Moderate | Core CPI (MoM) (Apr) |  |  | 0.2% |
-| 13:30 | CAD | Low | CPI (YoY) (Apr) |  | 3.1% | 2.4% |
-| 13:30 | CAD | Moderate | CPI (MoM) (Apr) |  | 0.7% | 0.9% |
-| 13:30 | CAD | Low | Median CPI (YoY) (Apr) |  | 2.3% | 2.3% |
-| 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Apr) |  | 0.0% | -0.2% |
-| 13:30 | CAD | Low | Trimmed CPI (YoY) (Apr) |  | 2.2% | 2.2% |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 9.6% |
-| 15:00 | USD | Moderate | Pending Home Sales (MoM) (Apr) |  | 1.0% | 1.5% |
-| 15:00 | USD | Low | Pending Home Sales Index (Apr) |  |  | 73.7 |
+| 13:15 | USD | Moderate | ADP Employment Change Weekly | 42.25K |  | 33.00K |
+| 13:30 | CAD | Moderate | Building Permits (MoM) (Mar) | 10.3% | 2.1% | -7.8% |
+| 13:30 | CAD | Low | Common CPI (YoY) (Apr) | 2.5% | 2.6% | 2.6% |
+| 13:30 | CAD | Moderate | Core CPI (YoY) (Apr) | 2.1% |  | 2.5% |
+| 13:30 | CAD | Moderate | Core CPI (MoM) (Apr) | 0.2% |  | 0.2% |
+| 13:30 | CAD | Low | CPI (YoY) (Apr) | 2.8% | 3.1% | 2.4% |
+| 13:30 | CAD | Moderate | CPI (MoM) (Apr) | 0.4% | 0.7% | 0.9% |
+| 13:30 | CAD | Low | Median CPI (YoY) (Apr) | 2.1% | 2.3% | 2.3% |
+| 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Apr) | -0.4% | 0.0% | -0.2% |
+| 13:30 | CAD | Low | Trimmed CPI (YoY) (Apr) | 2.0% | 2.2% | 2.2% |
+| 13:55 | USD | Low | Redbook (YoY) | 8.1% |  | 9.6% |
+| 41 min | USD | Moderate | Pending Home Sales (MoM) (Apr) |  | 1.0% | 1.5% |
+| 41 min | USD | Low | Pending Home Sales Index (Apr) |  |  | 73.7 |
 | 16:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 1.5% |
 | 16:00 | USD | Low | Milk Auctions |  |  | 4,127.0 |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -3.400M | -2.188M |

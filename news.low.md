@@ -13,11 +13,11 @@
 | 09:10 | GBP | BoE Breeden Speaks |  |  |  |
 | 09:30 | HKD | Unemployment Rate (Apr) | 3.7% |  | 3.7% |
 | 10:50 | EUR | German 5-Year Bobl Auction | 2.850% |  | 2.740% |
-| 13:30 | CAD | Common CPI (YoY) (Apr) |  | 2.6% | 2.6% |
-| 13:30 | CAD | CPI (YoY) (Apr) |  | 3.1% | 2.4% |
-| 13:30 | CAD | Median CPI (YoY) (Apr) |  | 2.3% | 2.3% |
-| 13:30 | CAD | Trimmed CPI (YoY) (Apr) |  | 2.2% | 2.2% |
-| 13:55 | USD | Redbook (YoY) |  |  | 9.6% |
-| 15:00 | USD | Pending Home Sales Index (Apr) |  |  | 73.7 |
+| 13:30 | CAD | Common CPI (YoY) (Apr) | 2.5% | 2.6% | 2.6% |
+| 13:30 | CAD | CPI (YoY) (Apr) | 2.8% | 3.1% | 2.4% |
+| 13:30 | CAD | Median CPI (YoY) (Apr) | 2.1% | 2.3% | 2.3% |
+| 13:30 | CAD | Trimmed CPI (YoY) (Apr) | 2.0% | 2.2% | 2.2% |
+| 13:55 | USD | Redbook (YoY) | 8.1% |  | 9.6% |
+| 41 min | USD | Pending Home Sales Index (Apr) |  |  | 73.7 |
 | 16:00 | NZD | GlobalDairyTrade Price Index |  |  | 1.5% |
 | 16:00 | USD | Milk Auctions |  |  | 4,127.0 |
