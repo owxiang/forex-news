@@ -22,4 +22,4 @@
 | 13:30 | CAD | CPI (MoM) (Apr) | 0.4% | 0.7% | 0.9% |
 | 13:30 | CAD | New Housing Price Index (MoM) (Apr) | -0.4% | 0.0% | -0.2% |
 | 15:00 | USD | Pending Home Sales (MoM) (Apr) | 1.4% | 1.0% | 1.7% |
-| 21:30 | USD | API Weekly Crude Oil Stock |  | -3.400M | -2.188M |
+| 52 min | USD | API Weekly Crude Oil Stock |  | -3.400M | -2.188M |
