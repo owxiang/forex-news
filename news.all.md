@@ -13,11 +13,11 @@
 | 05:30 | JPY | Low | Capacity Utilization (MoM) (Mar) | -1.2% |  | -0.1% |
 | 05:30 | JPY | Moderate | Industrial Production (MoM) (Mar) | -0.4% | -0.5% | -2.0% |
 | 05:30 | JPY | Low | Tertiary Industry Activity Index (Mar) | 16.50 | -0.40 | -1.10 |
-| 31 min | GBP | Low | Average Earnings ex Bonus (Mar) |  | 3.4% | 3.6% |
-| 31 min | GBP | Moderate | Average Earnings Index +Bonus (Mar) |  | 3.8% | 3.8% |
-| 31 min | GBP | Moderate | Claimant Count Change (Apr) |  | 23.1K | 26.8K |
-| 31 min | GBP | Moderate | Employment Change 3M/3M (MoM) (Mar) |  | 107K | 25K |
-| 31 min | GBP | Moderate | Unemployment Rate (Mar) |  | 4.9% | 4.9% |
+| 07:00 | GBP | Low | Average Earnings ex Bonus (Mar) | 3.4% | 3.4% | 3.6% |
+| 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Mar) | 4.1% | 3.8% | 3.9% |
+| 07:00 | GBP | Moderate | Claimant Count Change (Apr) | 26.5K | 23.1K | 4.9K |
+| 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Mar) | 148K | 107K | 25K |
+| 07:00 | GBP | Moderate | Unemployment Rate (Mar) | 5.0% | 4.9% | 4.9% |
 | 09:00 | EUR | Low | Spanish Trade Balance (Mar) |  |  | -3.30B |
 | 09:10 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 09:30 | GBP | Moderate | Labour Productivity (Q4) |  |  | 1.1% |
@@ -26,14 +26,13 @@
 | 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.740% |
 | 12:00 | CNY | Low | FDI (Apr) |  |  | -7.30% |
 | 13:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 13:00 | USD | Low | Milk Auctions |  |  | 4,127.0 |
 | 13:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 13:10 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 33.00K |
 | 13:30 | CAD | Moderate | Building Permits (MoM) (Mar) |  | 2.1% | -8.4% |
 | 13:30 | CAD | Low | Common CPI (YoY) (Apr) |  | 2.6% | 2.6% |
-| 13:30 | CAD | Moderate | Core CPI (MoM) (Apr) |  |  | 0.2% |
 | 13:30 | CAD | Moderate | Core CPI (YoY) (Apr) |  |  | 2.5% |
+| 13:30 | CAD | Moderate | Core CPI (MoM) (Apr) |  |  | 0.2% |
 | 13:30 | CAD | Low | CPI (YoY) (Apr) |  | 3.1% | 2.4% |
 | 13:30 | CAD | Moderate | CPI (MoM) (Apr) |  | 0.7% | 0.9% |
 | 13:30 | CAD | Low | Median CPI (YoY) (Apr) |  | 2.3% | 2.3% |
@@ -43,4 +42,5 @@
 | 15:00 | USD | Moderate | Pending Home Sales (MoM) (Apr) |  | 1.0% | 1.5% |
 | 15:00 | USD | Low | Pending Home Sales Index (Apr) |  |  | 73.7 |
 | 16:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 1.5% |
+| 16:00 | USD | Low | Milk Auctions |  |  | 4,127.0 |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -2.188M |
