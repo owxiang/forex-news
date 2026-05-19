@@ -1,5 +1,8 @@
-## 19 May 2026 - High Impact Forex News
+## 20 May 2026 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | GDP (QoQ) (Q1) | 0.5% | 0.4% | 0.2% |
+| 07:00 | GBP | CPI (YoY) (Apr) |  | 3.0% | 3.3% |
+| 10:00 | EUR | CPI (YoY) (Apr) |  | 3.0% | 3.0% |
+| 15:30 | USD | Crude Oil Inventories |  |  | -4.306M |
+| 19:00 | USD | FOMC Meeting Minutes |  |  |  |

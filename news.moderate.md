@@ -1,25 +1,18 @@
-## 19 May 2026 - Moderate Impact Forex News
+## 20 May 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | GDP (YoY) (Q1) | 2.1% | 1.7% | 0.8% |
-| 00:50 | JPY | GDP Price Index (YoY) (Q1) | 3.4% | 3.1% | 3.4% |
-| 02:30 | AUD | RBA Meeting Minutes |  |  |  |
-| 05:30 | JPY | Industrial Production (MoM) (Mar) | -0.4% | -0.5% | -2.0% |
-| 07:00 | GBP | Average Earnings Index +Bonus (Mar) | 4.1% | 3.8% | 3.9% |
-| 07:00 | GBP | Claimant Count Change (Apr) | 26.5K | 23.1K | 4.9K |
-| 07:00 | GBP | Employment Change 3M/3M (MoM) (Mar) | 148K | 107K | 25K |
-| 07:00 | GBP | Unemployment Rate (Mar) | 5.0% | 4.9% | 4.9% |
-| 09:30 | GBP | Labour Productivity (Q4) | -0.5% |  | -0.5% |
-| 10:00 | EUR | Trade Balance (Mar) | 7.8B | 5.4B | 11.1B |
-| 13:00 | USD | Fed Waller Speaks |  |  |  |
-| 13:00 | EUR | ECB's Lane Speaks |  |  |  |
-| 13:10 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 13:15 | USD | ADP Employment Change Weekly | 42.25K |  | 33.00K |
-| 13:30 | CAD | Building Permits (MoM) (Mar) | 10.3% | 2.1% | -7.8% |
-| 13:30 | CAD | Core CPI (MoM) (Apr) | 0.2% |  | 0.2% |
-| 13:30 | CAD | Core CPI (YoY) (Apr) | 2.1% |  | 2.5% |
-| 13:30 | CAD | CPI (MoM) (Apr) | 0.4% | 0.7% | 0.9% |
-| 13:30 | CAD | New Housing Price Index (MoM) (Apr) | -0.4% | 0.0% | -0.2% |
-| 15:00 | USD | Pending Home Sales (MoM) (Apr) | 1.4% | 1.0% | 1.7% |
-| 21:30 | USD | API Weekly Crude Oil Stock | -9.100M | -3.400M | -2.188M |
+| 02:00 | CNY | China Loan Prime Rate 5Y (May) |  | 3.50% | 3.50% |
+| 02:15 | CNY | PBoC Loan Prime Rate |  | 3.00% | 3.00% |
+| 07:00 | GBP | CPI (MoM) (Apr) |  | 0.9% | 0.7% |
+| 07:00 | GBP | PPI Input (MoM) (Apr) |  | 1.1% | 4.4% |
+| 07:00 | EUR | German PPI (MoM) (Apr) |  | 2.0% | 2.5% |
+| 08:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
+| 08:30 | IDR | Interest Rate Decision |  | 5.00% | 4.75% |
+| 10:00 | EUR | Core CPI (YoY) (Apr) |  | 2.2% | 2.2% |
+| 10:00 | EUR | CPI (MoM) (Apr) |  | 1.0% | 1.3% |
+| 10:30 | EUR | German 10-Year Bund Auction |  |  | 3.080% |
+| 14:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 14:15 | GBP | BoE MPC Member Mann Speaks |  |  |  |
+| 14:15 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 15:30 | USD | Cushing Crude Oil Inventories |  |  | -1.702M |
