@@ -42,4 +42,4 @@
 | 13:55 | USD | Low | Redbook (YoY) | 8.1% |  | 9.6% |
 | 15:00 | USD | Moderate | Pending Home Sales (MoM) (Apr) | 1.4% | 1.0% | 1.7% |
 | 15:00 | USD | Low | Pending Home Sales Index (Apr) | 74.8 |  | 73.8 |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -3.400M | -2.188M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | -9.100M | -3.400M | -2.188M |
