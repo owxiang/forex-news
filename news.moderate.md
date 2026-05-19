@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | GDP (YoY) (Q1) | 2.1% | 1.7% | 0.8% |
 | 00:50 | JPY | GDP Price Index (YoY) (Q1) | 3.4% | 3.1% | 3.4% |
-| 26 min | AUD | RBA Meeting Minutes |  |  |  |
+| 02:30 | AUD | RBA Meeting Minutes |  |  |  |
 | 05:30 | JPY | Industrial Production (MoM) (Mar) |  | -0.5% | -0.5% |
 | 07:00 | GBP | Average Earnings Index +Bonus (Mar) |  | 3.8% | 3.8% |
 | 07:00 | GBP | Claimant Count Change (Apr) |  | 25.9K | 26.8K |
