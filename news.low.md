@@ -19,17 +19,17 @@
 | 08:30 | IDR | Deposit Facility Rate (May) | 4.25% | 4.00% | 3.75% |
 | 08:30 | IDR | Lending Facility Rate (May) | 6.00% | 5.75% | 5.50% |
 | 08:30 | IDR | Loans (YoY) (Apr) | 9.98% |  | 9.49% |
-| 09:00 | ZAR | Core CPI (MoM) (Apr) |  |  | 0.8% |
-| 09:00 | ZAR | Core CPI (YoY) (Apr) |  |  | 3.2% |
-| 09:00 | ZAR | CPI (MoM) (Apr) |  |  | 0.6% |
-| 09:00 | ZAR | CPI (YoY) (Apr) |  | 3.9% | 3.1% |
-| 09:30 | GBP | House Price Index (YoY) |  | -0.1% | 1.2% |
-| 10:00 | EUR | Core CPI (MoM) (Apr) |  | 0.9% | 0.9% |
-| 10:00 | EUR | CPI ex Tobacco (YoY) (Apr) |  |  | 2.5% |
-| 10:00 | EUR | CPI ex Tobacco (MoM) (Apr) |  |  | 1.3% |
-| 10:00 | EUR | CPI, n.s.a (Apr) |  | 103.05 | 101.99 |
-| 10:00 | EUR | HICP ex Energy & Food (YoY) (Apr) |  | 2.1% | 2.2% |
-| 10:00 | EUR | HICP ex Energy and Food (MoM) (Apr) |  | 0.8% | 0.7% |
+| 09:00 | ZAR | Core CPI (MoM) (Apr) | 0.5% |  | 0.8% |
+| 09:00 | ZAR | Core CPI (YoY) (Apr) | 3.6% |  | 3.2% |
+| 09:00 | ZAR | CPI (MoM) (Apr) | 1.1% |  | 0.6% |
+| 09:00 | ZAR | CPI (YoY) (Apr) | 4.0% | 3.9% | 3.1% |
+| 09:30 | GBP | House Price Index (YoY) | 0.0% | -0.1% | 1.7% |
+| 10:00 | EUR | Core CPI (MoM) (Apr) | 0.9% | 0.9% | 0.8% |
+| 10:00 | EUR | CPI ex Tobacco (YoY) (Apr) | 3.0% |  | 2.5% |
+| 10:00 | EUR | CPI ex Tobacco (MoM) (Apr) | 1.0% |  | 1.3% |
+| 10:00 | EUR | CPI, n.s.a (Apr) | 103.04 | 103.05 | 101.99 |
+| 10:00 | EUR | HICP ex Energy & Food (YoY) (Apr) | 2.1% | 2.1% | 2.2% |
+| 10:00 | EUR | HICP ex Energy and Food (MoM) (Apr) | 0.8% | 0.8% | 0.7% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.46% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 1.7% |
 | 12:00 | USD | MBA Purchase Index |  |  | 177.7 |
@@ -43,11 +43,11 @@
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.370M |
 | 15:30 | USD | Crude Oil Imports |  |  | -0.318M |
 | 15:30 | USD | Distillate Fuel Production |  |  | -0.124M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | 0.190M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  | -1.100M | 0.190M |
 | 15:30 | USD | Gasoline Production |  |  | 0.222M |
 | 15:30 | USD | Heating Oil Stockpiles |  |  | 0.153M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.6% |
-| 15:30 | USD | Gasoline Inventories |  |  | -4.084M |
+| 15:30 | USD | Gasoline Inventories |  | -2.100M | -4.084M |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | -1.438B |
 | 22:00 | KRW | PPI (MoM) (Apr) |  |  | 1.6% |
 | 22:00 | KRW | PPI (YoY) (Apr) |  |  | 4.1% |

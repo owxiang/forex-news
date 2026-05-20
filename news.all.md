@@ -23,24 +23,24 @@
 | 07:00 | EUR | Low | German PPI (YoY) (Apr) | 1.7% | 1.5% | -0.2% |
 | 07:00 | EUR | Moderate | German PPI (MoM) (Apr) | 1.2% | 2.0% | 2.5% |
 | 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
-| 08:30 | IDR | Moderate | Interest Rate Decision |  | 5.00% | 4.75% |
+| 08:30 | IDR | Moderate | Interest Rate Decision | 5.25% | 5.00% | 4.75% |
 | 08:30 | IDR | Low | Deposit Facility Rate (May) | 4.25% | 4.00% | 3.75% |
 | 08:30 | IDR | Low | Lending Facility Rate (May) | 6.00% | 5.75% | 5.50% |
 | 08:30 | IDR | Low | Loans (YoY) (Apr) | 9.98% |  | 9.49% |
-| 09:00 | ZAR | Low | Core CPI (MoM) (Apr) |  |  | 0.8% |
-| 09:00 | ZAR | Low | Core CPI (YoY) (Apr) |  |  | 3.2% |
-| 09:00 | ZAR | Low | CPI (MoM) (Apr) |  |  | 0.6% |
-| 09:00 | ZAR | Low | CPI (YoY) (Apr) |  | 3.9% | 3.1% |
-| 09:30 | GBP | Low | House Price Index (YoY) |  | -0.1% | 1.2% |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Apr) |  | 2.2% | 2.2% |
-| 10:00 | EUR | Low | Core CPI (MoM) (Apr) |  | 0.9% | 0.9% |
-| 10:00 | EUR | High | CPI (YoY) (Apr) |  | 3.0% | 3.0% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Apr) |  | 1.0% | 1.3% |
-| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Apr) |  |  | 2.5% |
-| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Apr) |  |  | 1.3% |
-| 10:00 | EUR | Low | CPI, n.s.a (Apr) |  | 103.05 | 101.99 |
-| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Apr) |  | 2.1% | 2.2% |
-| 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Apr) |  | 0.8% | 0.7% |
+| 09:00 | ZAR | Low | Core CPI (MoM) (Apr) | 0.5% |  | 0.8% |
+| 09:00 | ZAR | Low | Core CPI (YoY) (Apr) | 3.6% |  | 3.2% |
+| 09:00 | ZAR | Low | CPI (MoM) (Apr) | 1.1% |  | 0.6% |
+| 09:00 | ZAR | Low | CPI (YoY) (Apr) | 4.0% | 3.9% | 3.1% |
+| 09:30 | GBP | Low | House Price Index (YoY) | 0.0% | -0.1% | 1.7% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Apr) | 2.2% | 2.2% | 2.3% |
+| 10:00 | EUR | Low | Core CPI (MoM) (Apr) | 0.9% | 0.9% | 0.8% |
+| 10:00 | EUR | High | CPI (YoY) (Apr) | 3.0% | 3.0% | 2.6% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Apr) | 1.0% | 1.0% | 1.3% |
+| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Apr) | 3.0% |  | 2.5% |
+| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Apr) | 1.0% |  | 1.3% |
+| 10:00 | EUR | Low | CPI, n.s.a (Apr) | 103.04 | 103.05 | 101.99 |
+| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Apr) | 2.1% | 2.1% | 2.2% |
+| 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Apr) | 0.8% | 0.8% | 0.7% |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 3.080% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.46% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 1.7% |
@@ -60,11 +60,11 @@
 | 15:30 | USD | Low | Crude Oil Imports |  |  | -0.318M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -1.702M |
 | 15:30 | USD | Low | Distillate Fuel Production |  |  | -0.124M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  |  | 0.190M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | -1.100M | 0.190M |
 | 15:30 | USD | Low | Gasoline Production |  |  | 0.222M |
 | 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.153M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.6% |
-| 15:30 | USD | Low | Gasoline Inventories |  |  | -4.084M |
+| 15:30 | USD | Low | Gasoline Inventories |  | -2.100M | -4.084M |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -1.438B |
 | 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
 | 22:00 | KRW | Low | PPI (MoM) (Apr) |  |  | 1.6% |

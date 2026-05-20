@@ -8,9 +8,9 @@
 | 07:00 | GBP | PPI Input (MoM) (Apr) | 2.4% | 1.2% | 4.3% |
 | 07:00 | EUR | German PPI (MoM) (Apr) | 1.2% | 2.0% | 2.5% |
 | 08:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
-| 08:30 | IDR | Interest Rate Decision |  | 5.00% | 4.75% |
-| 10:00 | EUR | Core CPI (YoY) (Apr) |  | 2.2% | 2.2% |
-| 10:00 | EUR | CPI (MoM) (Apr) |  | 1.0% | 1.3% |
+| 08:30 | IDR | Interest Rate Decision | 5.25% | 5.00% | 4.75% |
+| 10:00 | EUR | Core CPI (YoY) (Apr) | 2.2% | 2.2% | 2.3% |
+| 10:00 | EUR | CPI (MoM) (Apr) | 1.0% | 1.0% | 1.3% |
 | 10:30 | EUR | German 10-Year Bund Auction |  |  | 3.080% |
 | 14:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 14:15 | GBP | BoE MPC Member Mann Speaks |  |  |  |
