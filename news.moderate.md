@@ -11,7 +11,7 @@
 | 08:30 | IDR | Interest Rate Decision | 5.25% | 5.00% | 4.75% |
 | 10:00 | EUR | Core CPI (YoY) (Apr) | 2.2% | 2.2% | 2.3% |
 | 10:00 | EUR | CPI (MoM) (Apr) | 1.0% | 1.0% | 1.3% |
-| 10:30 | EUR | German 10-Year Bund Auction |  |  | 3.080% |
+| 10:50 | EUR | German 10-Year Bund Auction | 3.160% |  | 3.080% |
 | 14:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 14:15 | GBP | BoE MPC Member Mann Speaks |  |  |  |
 | 14:15 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |

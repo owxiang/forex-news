@@ -30,13 +30,13 @@
 | 10:00 | EUR | CPI, n.s.a (Apr) | 103.04 | 103.05 | 101.99 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Apr) | 2.1% | 2.1% | 2.2% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Apr) | 0.8% | 0.8% | 0.7% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.46% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 1.7% |
-| 12:00 | USD | MBA Purchase Index |  |  | 177.7 |
-| 12:00 | USD | Mortgage Market Index |  |  | 290.1 |
-| 12:00 | USD | Mortgage Refinance Index |  |  | 921.1 |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.56% |  | 6.46% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | -2.3% |  | 1.7% |
+| 12:00 | USD | MBA Purchase Index | 170.4 |  | 177.7 |
+| 12:00 | USD | Mortgage Market Index | 283.5 |  | 290.1 |
+| 12:00 | USD | Mortgage Refinance Index | 920.2 |  | 921.1 |
 | 12:00 | CNY | FDI (Apr) |  |  | -7.30% |
-| 12:00 | ZAR | Retail Sales (YoY) (Mar) |  |  | 1.6% |
+| 12:00 | ZAR | Retail Sales (YoY) (Mar) | 2.6% | 2.5% | 1.6% |
 | 12:30 | INR | Infrastructure Output (YoY) (Apr) |  |  | -0.4% |
 | 12:30 | INR | M3 Money Supply |  |  | 12.0% |
 | 14:15 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
