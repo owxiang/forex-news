@@ -46,7 +46,7 @@
 | 15:30 | USD | Heating Oil Stockpiles | 0.021M |  | 0.153M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.1% |  | 1.6% |
 | 15:30 | USD | Gasoline Inventories | -1.548M | -2.100M | -4.084M |
-| 18:30 | BRL | Foreign Exchange Flows |  |  | -1.438B |
+| 18:30 | BRL | Foreign Exchange Flows | 3.026B |  | -1.438B |
 | 22:00 | KRW | PPI (MoM) (Apr) |  |  | 1.6% |
 | 22:00 | KRW | PPI (YoY) (Apr) |  |  | 4.1% |
 | 23:45 | NZD | Exports (Apr) |  |  | 7.94B |

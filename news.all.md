@@ -63,7 +63,7 @@
 | 15:30 | USD | Low | Heating Oil Stockpiles | 0.021M |  | 0.153M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -0.1% |  | 1.6% |
 | 15:30 | USD | Low | Gasoline Inventories | -1.548M | -2.100M | -4.084M |
-| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -1.438B |
+| 18:30 | BRL | Low | Foreign Exchange Flows | 3.026B |  | -1.438B |
 | 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
 | 22:00 | KRW | Low | PPI (MoM) (Apr) |  |  | 1.6% |
 | 22:00 | KRW | Low | PPI (YoY) (Apr) |  |  | 4.1% |
