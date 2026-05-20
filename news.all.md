@@ -36,8 +36,8 @@
 | 10:00 | EUR | Low | Core CPI (MoM) (Apr) | 0.9% | 0.9% | 0.8% |
 | 10:00 | EUR | High | CPI (YoY) (Apr) | 3.0% | 3.0% | 2.6% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Apr) | 1.0% | 1.0% | 1.3% |
-| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Apr) | 3.0% |  | 2.5% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Apr) | 1.0% |  | 1.3% |
+| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Apr) | 3.0% |  | 2.5% |
 | 10:00 | EUR | Low | CPI, n.s.a (Apr) | 103.04 | 103.05 | 101.99 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Apr) | 2.1% | 2.1% | 2.2% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Apr) | 0.8% | 0.8% | 0.7% |
@@ -53,17 +53,16 @@
 | 14:15 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 14:15 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
 | 14:15 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 14:30 | INR | Low | M3 Money Supply |  |  | 12.0% |
-| 15:30 | USD | High | Crude Oil Inventories |  | -2.500M | -4.306M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.370M |
-| 15:30 | USD | Low | Crude Oil Imports |  |  | -0.318M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -1.702M |
-| 15:30 | USD | Low | Distillate Fuel Production |  |  | -0.124M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | -1.100M | 0.190M |
-| 15:30 | USD | Low | Gasoline Production |  |  | 0.222M |
-| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.153M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.6% |
-| 15:30 | USD | Low | Gasoline Inventories |  | -2.100M | -4.084M |
+| 15:30 | USD | High | Crude Oil Inventories | -7.863M | -2.500M | -4.306M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | -0.080M |  | 0.370M |
+| 15:30 | USD | Low | Crude Oil Imports | 0.003M |  | -0.318M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | -1.604M |  | -1.702M |
+| 15:30 | USD | Low | Distillate Fuel Production | 0.214M |  | -0.124M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks | 0.372M | -1.100M | 0.190M |
+| 15:30 | USD | Low | Gasoline Production | -0.446M |  | 0.222M |
+| 15:30 | USD | Low | Heating Oil Stockpiles | 0.021M |  | 0.153M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -0.1% |  | 1.6% |
+| 15:30 | USD | Low | Gasoline Inventories | -1.548M | -2.100M | -4.084M |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -1.438B |
 | 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
 | 22:00 | KRW | Low | PPI (MoM) (Apr) |  |  | 1.6% |

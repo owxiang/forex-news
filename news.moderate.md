@@ -15,4 +15,4 @@
 | 14:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 14:15 | GBP | BoE MPC Member Mann Speaks |  |  |  |
 | 14:15 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 15:30 | USD | Cushing Crude Oil Inventories |  |  | -1.702M |
+| 15:30 | USD | Cushing Crude Oil Inventories | -1.604M |  | -1.702M |
