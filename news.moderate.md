@@ -4,9 +4,9 @@
 |------|----------|-------|--------|----------|----------|
 | 02:00 | CNY | China Loan Prime Rate 5Y (May) | 3.50% | 3.50% | 3.50% |
 | 02:00 | CNY | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
-| 07:00 | GBP | CPI (MoM) (Apr) |  | 0.9% | 0.7% |
-| 07:00 | GBP | PPI Input (MoM) (Apr) |  | 1.2% | 4.4% |
-| 07:00 | EUR | German PPI (MoM) (Apr) |  | 2.0% | 2.5% |
+| 07:00 | GBP | CPI (MoM) (Apr) | 0.7% | 0.9% | 0.7% |
+| 07:00 | GBP | PPI Input (MoM) (Apr) | 2.4% | 1.2% | 4.3% |
+| 07:00 | EUR | German PPI (MoM) (Apr) | 1.2% | 2.0% | 2.5% |
 | 08:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 08:30 | IDR | Interest Rate Decision |  | 5.00% | 4.75% |
 | 10:00 | EUR | Core CPI (YoY) (Apr) |  | 2.2% | 2.2% |
