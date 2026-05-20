@@ -3,7 +3,6 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | JPY | Low | Reuters Tankan Index (May) | 8 |  | 7 |
-| 02:00 | AUD | Low | MI Leading Index (MoM) (Apr) |  |  | -0.1% |
 | 02:00 | CNY | Moderate | China Loan Prime Rate 5Y (May) | 3.50% | 3.50% | 3.50% |
 | 02:00 | CNY | Moderate | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
 | 07:00 | GBP | Low | Core CPI (YoY) (Apr) |  | 2.6% | 3.1% |
@@ -15,14 +14,14 @@
 | 07:00 | GBP | High | CPI (YoY) (Apr) |  | 3.0% | 3.3% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Apr) |  | 0.9% | 0.7% |
 | 07:00 | GBP | Low | CPI, n.s.a (Apr) |  |  | 141.00 |
-| 07:00 | GBP | Low | PPI Input (YoY) (Apr) |  |  | 5.4% |
 | 07:00 | GBP | Moderate | PPI Input (MoM) (Apr) |  | 1.1% | 4.4% |
+| 07:00 | GBP | Low | PPI Input (YoY) (Apr) |  |  | 5.4% |
 | 07:00 | GBP | Low | PPI Output (YoY) (Apr) |  |  | 2.6% |
 | 07:00 | GBP | Low | PPI Output (MoM) (Apr) |  | 1.0% | 0.9% |
-| 07:00 | GBP | Low | RPI (MoM) (Apr) |  | 1.5% | 0.8% |
 | 07:00 | GBP | Low | RPI (YoY) (Apr) |  | 3.6% | 4.1% |
-| 07:00 | EUR | Moderate | German PPI (MoM) (Apr) |  | 2.0% | 2.5% |
+| 07:00 | GBP | Low | RPI (MoM) (Apr) |  | 1.5% | 0.8% |
 | 07:00 | EUR | Low | German PPI (YoY) (Apr) |  |  | -0.2% |
+| 07:00 | EUR | Moderate | German PPI (MoM) (Apr) |  | 2.0% | 2.5% |
 | 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 08:30 | IDR | Moderate | Interest Rate Decision |  | 5.00% | 4.75% |
 | 08:30 | IDR | Low | Deposit Facility Rate (May) |  | 4.00% | 3.75% |

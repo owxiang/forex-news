@@ -3,7 +3,6 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | JPY | Reuters Tankan Index (May) | 8 |  | 7 |
-| 02:00 | AUD | MI Leading Index (MoM) (Apr) |  |  | -0.1% |
 | 07:00 | GBP | Core CPI (YoY) (Apr) |  | 2.6% | 3.1% |
 | 07:00 | GBP | Core CPI (MoM) (Apr) |  |  | 0.4% |
 | 07:00 | GBP | Core PPI Output (YoY) (Apr) |  |  | 2.0% |
@@ -14,8 +13,8 @@
 | 07:00 | GBP | PPI Input (YoY) (Apr) |  |  | 5.4% |
 | 07:00 | GBP | PPI Output (YoY) (Apr) |  |  | 2.6% |
 | 07:00 | GBP | PPI Output (MoM) (Apr) |  | 1.0% | 0.9% |
-| 07:00 | GBP | RPI (MoM) (Apr) |  | 1.5% | 0.8% |
 | 07:00 | GBP | RPI (YoY) (Apr) |  | 3.6% | 4.1% |
+| 07:00 | GBP | RPI (MoM) (Apr) |  | 1.5% | 0.8% |
 | 07:00 | EUR | German PPI (YoY) (Apr) |  |  | -0.2% |
 | 08:30 | IDR | Deposit Facility Rate (May) |  | 4.00% | 3.75% |
 | 08:30 | IDR | Lending Facility Rate (May) |  | 5.75% | 5.50% |
