@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | CNY | China Loan Prime Rate 5Y (May) |  | 3.50% | 3.50% |
-| 02:15 | CNY | PBoC Loan Prime Rate |  | 3.00% | 3.00% |
+| 02:00 | CNY | China Loan Prime Rate 5Y (May) | 3.50% | 3.50% | 3.50% |
+| 02:00 | CNY | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
 | 07:00 | GBP | CPI (MoM) (Apr) |  | 0.9% | 0.7% |
 | 07:00 | GBP | PPI Input (MoM) (Apr) |  | 1.1% | 4.4% |
 | 07:00 | EUR | German PPI (MoM) (Apr) |  | 2.0% | 2.5% |

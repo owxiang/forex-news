@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | JPY | Low | Reuters Tankan Index (May) | 8 |  | 7 |
 | 02:00 | AUD | Low | MI Leading Index (MoM) (Apr) |  |  | -0.1% |
-| 02:00 | CNY | Moderate | China Loan Prime Rate 5Y (May) |  | 3.50% | 3.50% |
-| 02:15 | CNY | Moderate | PBoC Loan Prime Rate |  | 3.00% | 3.00% |
+| 02:00 | CNY | Moderate | China Loan Prime Rate 5Y (May) | 3.50% | 3.50% | 3.50% |
+| 02:00 | CNY | Moderate | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
 | 07:00 | GBP | Low | Core CPI (YoY) (Apr) |  | 2.6% | 3.1% |
 | 07:00 | GBP | Low | Core CPI (MoM) (Apr) |  |  | 0.4% |
 | 07:00 | GBP | Low | Core PPI Output (YoY) (Apr) |  |  | 2.0% |
