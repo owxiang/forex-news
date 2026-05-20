@@ -65,8 +65,8 @@
 | 15:30 | USD | Low | Gasoline Inventories | -1.548M | -2.100M | -4.084M |
 | 18:30 | BRL | Low | Foreign Exchange Flows | 3.026B |  | -1.438B |
 | 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
-| 11 min | KRW | Low | PPI (MoM) (Apr) |  |  | 1.6% |
-| 11 min | KRW | Low | PPI (YoY) (Apr) |  |  | 4.1% |
+| 22:00 | KRW | Low | PPI (MoM) (Apr) | 2.5% |  | 1.7% |
+| 22:00 | KRW | Low | PPI (YoY) (Apr) | 6.9% |  | 4.1% |
 | 23:45 | NZD | Low | Exports (Apr) |  |  | 7.94B |
 | 23:45 | NZD | Low | Imports (Apr) |  |  | 7.25B |
 | 23:45 | NZD | Low | Trade Balance (MoM) (Apr) |  | 980M | 698M |
