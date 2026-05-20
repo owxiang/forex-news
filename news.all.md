@@ -6,7 +6,7 @@
 | 02:00 | CNY | Moderate | China Loan Prime Rate 5Y (May) | 3.50% | 3.50% | 3.50% |
 | 02:00 | CNY | Moderate | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
 | 07:00 | GBP | Low | Core CPI (YoY) (Apr) |  | 2.6% | 3.1% |
-| 07:00 | GBP | Low | Core CPI (MoM) (Apr) |  |  | 0.4% |
+| 07:00 | GBP | Low | Core CPI (MoM) (Apr) |  | 0.8% | 0.4% |
 | 07:00 | GBP | Low | Core PPI Output (YoY) (Apr) |  |  | 2.0% |
 | 07:00 | GBP | Low | Core PPI Output (MoM) (Apr) |  |  | 0.2% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Apr) |  |  | 4.0% |
@@ -14,13 +14,13 @@
 | 07:00 | GBP | High | CPI (YoY) (Apr) |  | 3.0% | 3.3% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Apr) |  | 0.9% | 0.7% |
 | 07:00 | GBP | Low | CPI, n.s.a (Apr) |  |  | 141.00 |
-| 07:00 | GBP | Moderate | PPI Input (MoM) (Apr) |  | 1.1% | 4.4% |
-| 07:00 | GBP | Low | PPI Input (YoY) (Apr) |  |  | 5.4% |
-| 07:00 | GBP | Low | PPI Output (YoY) (Apr) |  |  | 2.6% |
+| 07:00 | GBP | Moderate | PPI Input (MoM) (Apr) |  | 1.2% | 4.4% |
+| 07:00 | GBP | Low | PPI Input (YoY) (Apr) |  | 5.9% | 5.4% |
+| 07:00 | GBP | Low | PPI Output (YoY) (Apr) |  | 2.8% | 2.6% |
 | 07:00 | GBP | Low | PPI Output (MoM) (Apr) |  | 1.0% | 0.9% |
 | 07:00 | GBP | Low | RPI (YoY) (Apr) |  | 3.6% | 4.1% |
-| 07:00 | GBP | Low | RPI (MoM) (Apr) |  | 1.5% | 0.8% |
-| 07:00 | EUR | Low | German PPI (YoY) (Apr) |  |  | -0.2% |
+| 07:00 | GBP | Low | RPI (MoM) (Apr) |  | 1.4% | 0.8% |
+| 07:00 | EUR | Low | German PPI (YoY) (Apr) |  | 1.5% | -0.2% |
 | 07:00 | EUR | Moderate | German PPI (MoM) (Apr) |  | 2.0% | 2.5% |
 | 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 08:30 | IDR | Moderate | Interest Rate Decision |  | 5.00% | 4.75% |
@@ -39,7 +39,7 @@
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Apr) |  |  | 2.5% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Apr) |  |  | 1.3% |
 | 10:00 | EUR | Low | CPI, n.s.a (Apr) |  | 103.05 | 101.99 |
-| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Apr) |  | 2.1% | 2.1% |
+| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Apr) |  | 2.1% | 2.2% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Apr) |  | 0.8% | 0.7% |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 3.080% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.46% |
@@ -55,7 +55,7 @@
 | 14:15 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 14:15 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
 | 14:15 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 15:30 | USD | High | Crude Oil Inventories |  |  | -4.306M |
+| 15:30 | USD | High | Crude Oil Inventories |  | -2.500M | -4.306M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.370M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | -0.318M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -1.702M |

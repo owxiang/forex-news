@@ -4,18 +4,18 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | JPY | Reuters Tankan Index (May) | 8 |  | 7 |
 | 07:00 | GBP | Core CPI (YoY) (Apr) |  | 2.6% | 3.1% |
-| 07:00 | GBP | Core CPI (MoM) (Apr) |  |  | 0.4% |
+| 07:00 | GBP | Core CPI (MoM) (Apr) |  | 0.8% | 0.4% |
 | 07:00 | GBP | Core PPI Output (YoY) (Apr) |  |  | 2.0% |
 | 07:00 | GBP | Core PPI Output (MoM) (Apr) |  |  | 0.2% |
 | 07:00 | GBP | Core RPI (YoY) (Apr) |  |  | 4.0% |
 | 07:00 | GBP | Core RPI (MoM) (Apr) |  |  | 0.8% |
 | 07:00 | GBP | CPI, n.s.a (Apr) |  |  | 141.00 |
-| 07:00 | GBP | PPI Input (YoY) (Apr) |  |  | 5.4% |
-| 07:00 | GBP | PPI Output (YoY) (Apr) |  |  | 2.6% |
+| 07:00 | GBP | PPI Input (YoY) (Apr) |  | 5.9% | 5.4% |
+| 07:00 | GBP | PPI Output (YoY) (Apr) |  | 2.8% | 2.6% |
 | 07:00 | GBP | PPI Output (MoM) (Apr) |  | 1.0% | 0.9% |
 | 07:00 | GBP | RPI (YoY) (Apr) |  | 3.6% | 4.1% |
-| 07:00 | GBP | RPI (MoM) (Apr) |  | 1.5% | 0.8% |
-| 07:00 | EUR | German PPI (YoY) (Apr) |  |  | -0.2% |
+| 07:00 | GBP | RPI (MoM) (Apr) |  | 1.4% | 0.8% |
+| 07:00 | EUR | German PPI (YoY) (Apr) |  | 1.5% | -0.2% |
 | 08:30 | IDR | Deposit Facility Rate (May) |  | 4.00% | 3.75% |
 | 08:30 | IDR | Lending Facility Rate (May) |  | 5.75% | 5.50% |
 | 08:30 | IDR | Loans (YoY) (Apr) |  |  | 9.49% |
@@ -28,7 +28,7 @@
 | 10:00 | EUR | CPI ex Tobacco (YoY) (Apr) |  |  | 2.5% |
 | 10:00 | EUR | CPI ex Tobacco (MoM) (Apr) |  |  | 1.3% |
 | 10:00 | EUR | CPI, n.s.a (Apr) |  | 103.05 | 101.99 |
-| 10:00 | EUR | HICP ex Energy & Food (YoY) (Apr) |  | 2.1% | 2.1% |
+| 10:00 | EUR | HICP ex Energy & Food (YoY) (Apr) |  | 2.1% | 2.2% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Apr) |  | 0.8% | 0.7% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.46% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 1.7% |
