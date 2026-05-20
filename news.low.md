@@ -1,55 +1,55 @@
-## 20 May 2026 - Low Impact Forex News
+## 21 May 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | JPY | Reuters Tankan Index (May) | 8 |  | 7 |
-| 07:00 | GBP | Core CPI (YoY) (Apr) | 2.5% | 2.6% | 3.1% |
-| 07:00 | GBP | Core CPI (MoM) (Apr) | 0.7% | 0.8% | 0.4% |
-| 07:00 | GBP | Core PPI Output (YoY) (Apr) | 2.4% |  | 2.0% |
-| 07:00 | GBP | Core PPI Output (MoM) (Apr) | 0.7% |  | 0.2% |
-| 07:00 | GBP | Core RPI (YoY) (Apr) | 3.0% |  | 4.0% |
-| 07:00 | GBP | Core RPI (MoM) (Apr) | 0.8% |  | 0.8% |
-| 07:00 | GBP | CPI, n.s.a (Apr) | 142.10 |  | 141.00 |
-| 07:00 | GBP | PPI Input (YoY) (Apr) | 7.7% | 5.9% | 5.3% |
-| 07:00 | GBP | PPI Output (YoY) (Apr) | 4.0% | 2.8% | 3.0% |
-| 07:00 | GBP | PPI Output (MoM) (Apr) | 1.4% | 1.0% | 1.4% |
-| 07:00 | GBP | RPI (YoY) (Apr) | 3.0% | 3.6% | 4.1% |
-| 07:00 | GBP | RPI (MoM) (Apr) | 0.7% | 1.4% | 0.8% |
-| 07:00 | EUR | German PPI (YoY) (Apr) | 1.7% | 1.5% | -0.2% |
-| 08:30 | IDR | Deposit Facility Rate (May) | 4.25% | 4.00% | 3.75% |
-| 08:30 | IDR | Lending Facility Rate (May) | 6.00% | 5.75% | 5.50% |
-| 08:30 | IDR | Loans (YoY) (Apr) | 9.98% |  | 9.49% |
-| 09:00 | ZAR | Core CPI (MoM) (Apr) | 0.5% |  | 0.8% |
-| 09:00 | ZAR | Core CPI (YoY) (Apr) | 3.6% |  | 3.2% |
-| 09:00 | ZAR | CPI (MoM) (Apr) | 1.1% |  | 0.6% |
-| 09:00 | ZAR | CPI (YoY) (Apr) | 4.0% | 3.9% | 3.1% |
-| 09:30 | GBP | House Price Index (YoY) | 0.0% | -0.1% | 1.7% |
-| 10:00 | EUR | Core CPI (MoM) (Apr) | 0.9% | 0.9% | 0.8% |
-| 10:00 | EUR | CPI ex Tobacco (MoM) (Apr) | 1.0% |  | 1.3% |
-| 10:00 | EUR | CPI ex Tobacco (YoY) (Apr) | 3.0% |  | 2.5% |
-| 10:00 | EUR | CPI, n.s.a (Apr) | 103.04 | 103.05 | 101.99 |
-| 10:00 | EUR | HICP ex Energy & Food (YoY) (Apr) | 2.1% | 2.1% | 2.2% |
-| 10:00 | EUR | HICP ex Energy and Food (MoM) (Apr) | 0.8% | 0.8% | 0.7% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.56% |  | 6.46% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) | -2.3% |  | 1.7% |
-| 12:00 | USD | MBA Purchase Index | 170.4 |  | 177.7 |
-| 12:00 | USD | Mortgage Market Index | 283.5 |  | 290.1 |
-| 12:00 | USD | Mortgage Refinance Index | 920.2 |  | 921.1 |
-| 12:00 | ZAR | Retail Sales (YoY) (Mar) | 2.6% | 2.5% | 1.6% |
-| 12:30 | INR | Infrastructure Output (YoY) (Apr) | 1.7% |  | 1.2% |
-| 14:15 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) | -0.080M |  | 0.370M |
-| 15:30 | USD | Crude Oil Imports | 0.003M |  | -0.318M |
-| 15:30 | USD | Distillate Fuel Production | 0.214M |  | -0.124M |
-| 15:30 | USD | EIA Weekly Distillates Stocks | 0.372M | -1.100M | 0.190M |
-| 15:30 | USD | Gasoline Production | -0.446M |  | 0.222M |
-| 15:30 | USD | Heating Oil Stockpiles | 0.021M |  | 0.153M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.1% |  | 1.6% |
-| 15:30 | USD | Gasoline Inventories | -1.548M | -2.100M | -4.084M |
-| 18:30 | BRL | Foreign Exchange Flows | 3.026B |  | -1.438B |
-| 22:00 | KRW | PPI (MoM) (Apr) | 2.5% |  | 1.7% |
-| 22:00 | KRW | PPI (YoY) (Apr) | 6.9% |  | 4.1% |
-| 23:45 | NZD | Exports (Apr) |  |  | 7.94B |
-| 23:45 | NZD | Imports (Apr) |  |  | 7.25B |
-| 23:45 | NZD | Trade Balance (MoM) (Apr) |  | 980M | 698M |
-| 23:45 | NZD | Trade Balance (YoY) (Apr) |  |  | -3,190M |
+| 00:00 | AUD | S&P Global Manufacturing & Services PMI (May) | 47.80 |  | 50.40 |
+| 00:00 | AUD | S&P Global Manufacturing PMI (May) | 50.2 |  | 51.3 |
+| 00:00 | AUD | S&P Global Services PMI (May) | 47.7 |  | 50.7 |
+| 00:50 | JPY | Core Machinery Orders (MoM) (Mar) |  | -7.7% | 13.6% |
+| 00:50 | JPY | Core Machinery Orders (YoY) (Mar) |  | 4.5% | 24.7% |
+| 00:50 | JPY | Foreign Bonds Buying |  |  | 1,640.7B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 1,437.5B |
+| 00:50 | JPY | Imports (YoY) (Apr) |  | 8.3% | 10.9% |
+| 01:30 | JPY | Manufacturing & Services PMI (May) |  |  | 52.20 |
+| 01:30 | JPY | S&P Global Manufacturing PMI (May) |  | 54.5 | 55.1 |
+| 02:00 | AUD | MI Inflation Expectations (May) |  |  | 5.9% |
+| 02:30 | AUD | Participation Rate (Apr) |  | 66.8% | 66.8% |
+| 02:30 | AUD | Reserve Assets Total (Apr) |  |  | 115,963.0B |
+| 03:00 | AUD | MI Leading Index (MoM) (Apr) |  |  | -0.1% |
+| 04:00 | NZD | Credit Card Spending (YoY) (Apr) |  |  | 2.1% |
+| 06:00 | INR | HSBC India Manufacturing PMI (May) |  |  | 54.7 |
+| 06:00 | INR | HSBC India Services PMI (May) |  |  | 58.8 |
+| 06:00 | INR | HSBC Manufacturing & Services PMI (May) |  |  | 58.20 |
+| 07:30 | CHF | Industrial Production (YoY) (Q1) |  | 0.50% | -0.70% |
+| 08:00 | CHF | M3 Money Supply (Apr) |  |  | 1,221,317.0B |
+| 08:15 | EUR | HCOB France Composite PMI (May) |  | 47.7 | 47.6 |
+| 08:30 | EUR | HCOB Germany Composite PMI (May) |  | 48.4 | 48.4 |
+| 09:00 | EUR | Current Account (Mar) |  | 26.3B | 24.9B |
+| 09:00 | EUR | Current Account n.s.a. (Mar) |  |  | 21.1B |
+| 09:30 | HKD | CPI (MoM) (Apr) |  |  | 0.00% |
+| 09:30 | HKD | CPI (YoY) (Apr) |  |  | 1.70% |
+| 09:40 | EUR | Spanish 7-Year Obligacion Auction |  |  | 3.107% |
+| 10:00 | EUR | Construction Output (MoM) (Mar) |  |  | -0.19% |
+| 10:00 | EUR | Labor Cost Index (YoY) (Q1) |  |  | 3.30% |
+| 11:00 | GBP | CBI Industrial Trends Orders (May) |  | -40 | -38 |
+| 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 12:00 | CNY | FDI (Apr) |  |  | -7.30% |
+| 13:00 | MXN | Retail Sales (YoY) (Mar) |  | 3.1% | 3.1% |
+| 13:00 | MXN | Retail Sales (MoM) (Mar) |  | 0.5% | -0.9% |
+| 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
+| 13:30 | USD | Building Permits (MoM) (Apr) |  |  | -11.4% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 203.75K |
+| 13:30 | USD | Philly Fed Business Conditions (May) |  |  | 40.8 |
+| 13:30 | USD | Philly Fed CAPEX Index (May) |  |  | 35.20 |
+| 13:30 | USD | Philly Fed New Orders (May) |  |  | 33.0 |
+| 13:30 | USD | Philly Fed Prices Paid (May) |  |  | 59.30 |
+| 15:00 | EUR | Consumer Confidence (May) |  | -21.0 | -20.6 |
+| 15:30 | USD | Natural Gas Storage |  | 96B | 85B |
+| 16:00 | USD | KC Fed Composite Index (May) |  |  | 10 |
+| 16:00 | USD | KC Fed Manufacturing Index (May) |  |  | 10 |
+| 16:30 | USD | 4-Week Bill Auction |  |  | 3.605% |
+| 16:30 | USD | 8-Week Bill Auction |  |  | 3.610% |
+| 17:20 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.117T |
+| 22:00 | KRW | Consumer Confidence (May) |  |  | 99.2 |
+| 23:45 | NZD | Retail Sales Quarterly Vs. Year Ago (Q1) |  |  | 4.4% |

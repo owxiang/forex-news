@@ -1,18 +1,36 @@
-## 20 May 2026 - Moderate Impact Forex News
+## 21 May 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | CNY | China Loan Prime Rate 5Y (May) | 3.50% | 3.50% | 3.50% |
-| 02:00 | CNY | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
-| 07:00 | GBP | CPI (MoM) (Apr) | 0.7% | 0.9% | 0.7% |
-| 07:00 | GBP | PPI Input (MoM) (Apr) | 2.4% | 1.2% | 4.3% |
-| 07:00 | EUR | German PPI (MoM) (Apr) | 1.2% | 2.0% | 2.5% |
-| 08:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
-| 08:30 | IDR | Interest Rate Decision | 5.25% | 5.00% | 4.75% |
-| 10:00 | EUR | Core CPI (YoY) (Apr) | 2.2% | 2.2% | 2.3% |
-| 10:00 | EUR | CPI (MoM) (Apr) | 1.0% | 1.0% | 1.3% |
-| 10:50 | EUR | German 10-Year Bund Auction | 3.160% |  | 3.080% |
-| 14:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 14:15 | GBP | BoE MPC Member Mann Speaks |  |  |  |
-| 14:15 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 15:30 | USD | Cushing Crude Oil Inventories | -1.604M |  | -1.702M |
+| 00:50 | JPY | Adjusted Trade Balance |  | -0.23T | 0.09T |
+| 00:50 | JPY | Exports (YoY) (Apr) |  | 9.3% | 11.5% |
+| 00:50 | JPY | Trade Balance (Apr) |  | -29.7B | 643.0B |
+| 01:30 | JPY | S&P Global Services PMI (May) |  |  | 51.0 |
+| 02:30 | AUD | Employment Change (Apr) |  | 16.7K | 17.9K |
+| 02:30 | AUD | Full Employment Change (Apr) |  |  | 52.5K |
+| 02:30 | AUD | Unemployment Rate (Apr) |  | 4.3% | 4.3% |
+| 08:15 | EUR | HCOB France Manufacturing PMI (May) |  | 52.1 | 52.8 |
+| 08:15 | EUR | HCOB France Services PMI (May) |  | 46.6 | 46.5 |
+| 08:30 | EUR | HCOB Germany Manufacturing PMI (May) |  | 51.0 | 51.4 |
+| 08:30 | EUR | HCOB Germany Services PMI (May) |  | 47.1 | 46.9 |
+| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (May) |  | 51.7 | 52.2 |
+| 09:00 | EUR | HCOB Eurozone Composite PMI (May) |  | 48.8 | 48.8 |
+| 09:00 | EUR | HCOB Eurozone Services PMI (May) |  | 47.8 | 47.6 |
+| 09:30 | GBP | S&P Global Composite PMI (May) |  | 51.6 | 52.6 |
+| 09:30 | GBP | S&P Global Manufacturing PMI (May) |  | 52.9 | 53.7 |
+| 09:30 | GBP | S&P Global Services PMI (May) |  | 51.7 | 52.7 |
+| 10:00 | EUR | EU Economic Forecasts |  |  |  |
+| 13:30 | USD | Building Permits (Apr) |  | 1.380M | 1.363M |
+| 13:30 | USD | Continuing Jobless Claims |  | 1,790K | 1,782K |
+| 13:30 | USD | Housing Starts (Apr) |  | 1.420M | 1.502M |
+| 13:30 | USD | Housing Starts (MoM) (Apr) |  |  | 10.8% |
+| 13:30 | USD | Philly Fed Employment (May) |  |  | -5.1 |
+| 14:45 | USD | S&P Global Composite PMI (May) |  |  | 51.7 |
+| 15:00 | USD | Atlanta Fed GDPNow (Q2) |  | 4.0% | 4.0% |
+| 16:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 16:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
+| 16:30 | EUR | ECB's Elderson Speaks |  |  |  |
+| 18:00 | USD | 10-Year TIPS Auction |  |  | 1.896% |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 6,729B |
+| 23:45 | NZD | Core Retail Sales (QoQ) |  | 0.8% | 1.5% |
+| 23:45 | NZD | Retail Sales (QoQ) (Q1) |  | 0.5% | 0.9% |

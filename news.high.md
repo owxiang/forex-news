@@ -1,8 +1,8 @@
-## 20 May 2026 - High Impact Forex News
+## 21 May 2026 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | GBP | CPI (YoY) (Apr) | 2.8% | 3.0% | 3.3% |
-| 10:00 | EUR | CPI (YoY) (Apr) | 3.0% | 3.0% | 2.6% |
-| 15:30 | USD | Crude Oil Inventories | -7.863M | -2.500M | -4.306M |
-| 19:00 | USD | FOMC Meeting Minutes |  |  |  |
+| 13:30 | USD | Initial Jobless Claims |  | 210K | 211K |
+| 13:30 | USD | Philadelphia Fed Manufacturing Index (May) |  | 17.6 | 26.7 |
+| 14:45 | USD | S&P Global Manufacturing PMI (May) |  | 53.8 | 54.5 |
+| 14:45 | USD | S&P Global Services PMI (May) |  | 51.1 | 51.0 |
