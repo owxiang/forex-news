@@ -35,11 +35,10 @@
 | 12:00 | USD | MBA Purchase Index | 170.4 |  | 177.7 |
 | 12:00 | USD | Mortgage Market Index | 283.5 |  | 290.1 |
 | 12:00 | USD | Mortgage Refinance Index | 920.2 |  | 921.1 |
-| 12:00 | CNY | FDI (Apr) |  |  | -7.30% |
 | 12:00 | ZAR | Retail Sales (YoY) (Mar) | 2.6% | 2.5% | 1.6% |
-| 12:30 | INR | Infrastructure Output (YoY) (Apr) |  |  | -0.4% |
-| 12:30 | INR | M3 Money Supply |  |  | 12.0% |
+| 12:30 | INR | Infrastructure Output (YoY) (Apr) | 1.7% |  | 1.2% |
 | 14:15 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
+| 14:30 | INR | M3 Money Supply |  |  | 12.0% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.370M |
 | 15:30 | USD | Crude Oil Imports |  |  | -0.318M |
 | 15:30 | USD | Distillate Fuel Production |  |  | -0.124M |

@@ -47,14 +47,13 @@
 | 12:00 | USD | Low | MBA Purchase Index | 170.4 |  | 177.7 |
 | 12:00 | USD | Low | Mortgage Market Index | 283.5 |  | 290.1 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 920.2 |  | 921.1 |
-| 12:00 | CNY | Low | FDI (Apr) |  |  | -7.30% |
 | 12:00 | ZAR | Low | Retail Sales (YoY) (Mar) | 2.6% | 2.5% | 1.6% |
-| 12:30 | INR | Low | Infrastructure Output (YoY) (Apr) |  |  | -0.4% |
-| 12:30 | INR | Low | M3 Money Supply |  |  | 12.0% |
+| 12:30 | INR | Low | Infrastructure Output (YoY) (Apr) | 1.7% |  | 1.2% |
 | 14:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 14:15 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 14:15 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
 | 14:15 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 14:30 | INR | Low | M3 Money Supply |  |  | 12.0% |
 | 15:30 | USD | High | Crude Oil Inventories |  | -2.500M | -4.306M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.370M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | -0.318M |
