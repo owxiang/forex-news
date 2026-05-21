@@ -5,13 +5,13 @@
 | 00:00 | AUD | S&P Global Manufacturing & Services PMI (May) | 47.80 |  | 50.40 |
 | 00:00 | AUD | S&P Global Manufacturing PMI (May) | 50.2 |  | 51.3 |
 | 00:00 | AUD | S&P Global Services PMI (May) | 47.7 |  | 50.7 |
-| 00:50 | JPY | Core Machinery Orders (MoM) (Mar) |  | -7.7% | 13.6% |
-| 00:50 | JPY | Core Machinery Orders (YoY) (Mar) |  | 4.5% | 24.7% |
-| 00:50 | JPY | Foreign Bonds Buying |  |  | 1,640.7B |
-| 00:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 1,437.5B |
-| 00:50 | JPY | Imports (YoY) (Apr) |  | 8.3% | 10.9% |
-| 01:30 | JPY | Manufacturing & Services PMI (May) |  |  | 52.20 |
-| 01:30 | JPY | S&P Global Manufacturing PMI (May) |  | 54.5 | 55.1 |
+| 00:50 | JPY | Core Machinery Orders (MoM) (Mar) | -9.4% | -7.7% | 13.6% |
+| 00:50 | JPY | Core Machinery Orders (YoY) (Mar) | 5.9% | 4.5% | 24.7% |
+| 00:50 | JPY | Foreign Bonds Buying | 758.7B |  | 1,644.3B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks | 949.6B |  | 1,393.5B |
+| 00:50 | JPY | Imports (YoY) (Apr) | 9.7% | 8.3% | 10.9% |
+| 01:30 | JPY | Manufacturing & Services PMI (May) | 51.10 |  | 52.20 |
+| 01:30 | JPY | S&P Global Manufacturing PMI (May) | 54.5 | 54.5 | 55.1 |
 | 02:00 | AUD | MI Inflation Expectations (May) |  |  | 5.9% |
 | 02:30 | AUD | Participation Rate (Apr) |  | 66.8% | 66.8% |
 | 02:30 | AUD | Reserve Assets Total (Apr) |  |  | 115,963.0B |

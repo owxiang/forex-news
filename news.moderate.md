@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Adjusted Trade Balance |  | -0.23T | 0.09T |
-| 00:50 | JPY | Exports (YoY) (Apr) |  | 9.3% | 11.5% |
-| 00:50 | JPY | Trade Balance (Apr) |  | -29.7B | 643.0B |
-| 01:30 | JPY | S&P Global Services PMI (May) |  |  | 51.0 |
+| 00:50 | JPY | Adjusted Trade Balance | 0.24T | -0.23T | 0.09T |
+| 00:50 | JPY | Exports (YoY) (Apr) | 14.8% | 9.3% | 11.5% |
+| 00:50 | JPY | Trade Balance (Apr) | 301.9B | -29.7B | 643.0B |
+| 01:30 | JPY | S&P Global Services PMI (May) | 50.0 |  | 51.0 |
 | 02:30 | AUD | Employment Change (Apr) |  | 16.7K | 17.9K |
 | 02:30 | AUD | Full Employment Change (Apr) |  |  | 52.5K |
 | 02:30 | AUD | Unemployment Rate (Apr) |  | 4.3% | 4.3% |

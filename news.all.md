@@ -5,17 +5,17 @@
 | 00:00 | AUD | Low | S&P Global Manufacturing & Services PMI (May) | 47.80 |  | 50.40 |
 | 00:00 | AUD | Low | S&P Global Manufacturing PMI (May) | 50.2 |  | 51.3 |
 | 00:00 | AUD | Low | S&P Global Services PMI (May) | 47.7 |  | 50.7 |
-| 00:50 | JPY | Moderate | Adjusted Trade Balance |  | -0.23T | 0.09T |
-| 00:50 | JPY | Low | Core Machinery Orders (MoM) (Mar) |  | -7.7% | 13.6% |
-| 00:50 | JPY | Low | Core Machinery Orders (YoY) (Mar) |  | 4.5% | 24.7% |
-| 00:50 | JPY | Moderate | Exports (YoY) (Apr) |  | 9.3% | 11.5% |
-| 00:50 | JPY | Low | Foreign Bonds Buying |  |  | 1,640.7B |
-| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 1,437.5B |
-| 00:50 | JPY | Low | Imports (YoY) (Apr) |  | 8.3% | 10.9% |
-| 00:50 | JPY | Moderate | Trade Balance (Apr) |  | -29.7B | 643.0B |
-| 01:30 | JPY | Low | Manufacturing & Services PMI (May) |  |  | 52.20 |
-| 01:30 | JPY | Low | S&P Global Manufacturing PMI (May) |  | 54.5 | 55.1 |
-| 01:30 | JPY | Moderate | S&P Global Services PMI (May) |  |  | 51.0 |
+| 00:50 | JPY | Moderate | Adjusted Trade Balance | 0.24T | -0.23T | 0.09T |
+| 00:50 | JPY | Low | Core Machinery Orders (MoM) (Mar) | -9.4% | -7.7% | 13.6% |
+| 00:50 | JPY | Low | Core Machinery Orders (YoY) (Mar) | 5.9% | 4.5% | 24.7% |
+| 00:50 | JPY | Moderate | Exports (YoY) (Apr) | 14.8% | 9.3% | 11.5% |
+| 00:50 | JPY | Low | Foreign Bonds Buying | 758.7B |  | 1,644.3B |
+| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 949.6B |  | 1,393.5B |
+| 00:50 | JPY | Low | Imports (YoY) (Apr) | 9.7% | 8.3% | 10.9% |
+| 00:50 | JPY | Moderate | Trade Balance (Apr) | 301.9B | -29.7B | 643.0B |
+| 01:30 | JPY | Low | Manufacturing & Services PMI (May) | 51.10 |  | 52.20 |
+| 01:30 | JPY | Low | S&P Global Manufacturing PMI (May) | 54.5 | 54.5 | 55.1 |
+| 01:30 | JPY | Moderate | S&P Global Services PMI (May) | 50.0 |  | 51.0 |
 | 02:00 | AUD | Low | MI Inflation Expectations (May) |  |  | 5.9% |
 | 02:30 | AUD | Moderate | Employment Change (Apr) |  | 16.7K | 17.9K |
 | 02:30 | AUD | Moderate | Full Employment Change (Apr) |  |  | 52.5K |
