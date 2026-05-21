@@ -6,8 +6,8 @@
 | 00:00 | AUD | Low | S&P Global Manufacturing PMI (May) | 50.2 |  | 51.3 |
 | 00:00 | AUD | Low | S&P Global Services PMI (May) | 47.7 |  | 50.7 |
 | 00:50 | JPY | Moderate | Adjusted Trade Balance | 0.24T | -0.23T | 0.09T |
-| 00:50 | JPY | Low | Core Machinery Orders (YoY) (Mar) | 5.9% | 4.5% | 24.7% |
 | 00:50 | JPY | Low | Core Machinery Orders (MoM) (Mar) | -9.4% | -7.7% | 13.6% |
+| 00:50 | JPY | Low | Core Machinery Orders (YoY) (Mar) | 5.9% | 4.5% | 24.7% |
 | 00:50 | JPY | Moderate | Exports (YoY) (Apr) | 14.8% | 9.3% | 11.5% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | 758.7B |  | 1,644.3B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 949.6B |  | 1,393.5B |
@@ -31,31 +31,31 @@
 | 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (May) | 48.9 | 52.1 | 52.8 |
 | 08:15 | EUR | Low | HCOB France Composite PMI (May) | 43.5 | 47.7 | 47.6 |
 | 08:15 | EUR | Moderate | HCOB France Services PMI (May) | 42.9 | 46.6 | 46.5 |
-| 08:30 | EUR | Low | HCOB Germany Composite PMI (May) |  | 48.4 | 48.4 |
-| 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (May) |  | 51.0 | 51.4 |
-| 08:30 | EUR | Moderate | HCOB Germany Services PMI (May) |  | 47.1 | 46.9 |
-| 09:00 | EUR | Low | Current Account (Mar) |  | 26.3B | 24.9B |
-| 09:00 | EUR | Low | Current Account n.s.a. (Mar) |  |  | 21.1B |
-| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (May) |  | 51.7 | 52.2 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (May) |  | 48.8 | 48.8 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (May) |  | 47.8 | 47.6 |
-| 09:30 | GBP | Moderate | S&P Global Composite PMI (May) |  | 51.6 | 52.6 |
-| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (May) |  | 52.9 | 53.7 |
-| 09:30 | GBP | Moderate | S&P Global Services PMI (May) |  | 51.7 | 52.7 |
-| 09:30 | HKD | Low | CPI (MoM) (Apr) |  |  | 0.00% |
-| 09:30 | HKD | Low | CPI (YoY) (Apr) |  |  | 1.70% |
-| 09:40 | EUR | Low | Spanish 7-Year Obligacion Auction |  |  | 3.107% |
-| 10:00 | EUR | Low | Construction Output (MoM) (Mar) |  |  | -0.19% |
+| 08:30 | EUR | Low | HCOB Germany Composite PMI (May) | 48.6 | 48.4 | 48.4 |
+| 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (May) | 49.9 | 51.0 | 51.4 |
+| 08:30 | EUR | Moderate | HCOB Germany Services PMI (May) | 47.8 | 47.1 | 46.9 |
+| 09:00 | EUR | Low | Current Account (Mar) | 14.9B | 26.3B | 25.6B |
+| 09:00 | EUR | Low | Current Account n.s.a. (Mar) | 24.1B |  | 21.1B |
+| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (May) | 51.4 | 51.7 | 52.2 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (May) | 47.5 | 48.8 | 48.8 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (May) | 46.4 | 47.8 | 47.6 |
+| 09:30 | GBP | Moderate | S&P Global Composite PMI (May) | 48.5 | 51.6 | 52.6 |
+| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (May) | 53.7 | 52.9 | 53.7 |
+| 09:30 | GBP | Moderate | S&P Global Services PMI (May) | 47.9 | 51.7 | 52.7 |
+| 09:30 | HKD | Low | CPI (MoM) (Apr) | -0.10% |  | 0.00% |
+| 09:30 | HKD | Low | CPI (YoY) (Apr) | 1.70% |  | 1.70% |
+| 10:00 | EUR | Low | Spanish 7-Year Obligacion Auction | 3.164% |  | 3.107% |
+| 10:00 | EUR | Low | Construction Output (MoM) (Mar) | 0.78% |  | -0.77% |
 | 10:00 | EUR | Moderate | EU Economic Forecasts |  |  |  |
-| 10:00 | EUR | Low | Labor Cost Index (YoY) (Q1) |  |  | 3.30% |
+| 10:00 | EUR | Low | Labor Cost Index (YoY) (Q1) | 3.30% |  | 3.30% |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (May) |  | -40 | -38 |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 12:00 | CNY | Low | FDI (Apr) |  |  | -7.30% |
 | 13:00 | MXN | Low | Retail Sales (YoY) (Mar) |  | 3.1% | 3.1% |
 | 13:00 | MXN | Low | Retail Sales (MoM) (Mar) |  | 0.5% | -0.9% |
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 13:30 | USD | Low | Building Permits (MoM) (Apr) |  |  | -11.4% |
 | 13:30 | USD | Moderate | Building Permits (Apr) |  | 1.380M | 1.363M |
+| 13:30 | USD | Low | Building Permits (MoM) (Apr) |  |  | -11.4% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,790K | 1,782K |
 | 13:30 | USD | Moderate | Housing Starts (Apr) |  | 1.420M | 1.502M |
 | 13:30 | USD | Moderate | Housing Starts (MoM) (Apr) |  |  | 10.8% |

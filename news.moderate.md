@@ -11,14 +11,14 @@
 | 02:30 | AUD | Unemployment Rate (Apr) | 4.5% | 4.3% | 4.3% |
 | 08:15 | EUR | HCOB France Manufacturing PMI (May) | 48.9 | 52.1 | 52.8 |
 | 08:15 | EUR | HCOB France Services PMI (May) | 42.9 | 46.6 | 46.5 |
-| 08:30 | EUR | HCOB Germany Manufacturing PMI (May) |  | 51.0 | 51.4 |
-| 08:30 | EUR | HCOB Germany Services PMI (May) |  | 47.1 | 46.9 |
-| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (May) |  | 51.7 | 52.2 |
-| 09:00 | EUR | HCOB Eurozone Composite PMI (May) |  | 48.8 | 48.8 |
-| 09:00 | EUR | HCOB Eurozone Services PMI (May) |  | 47.8 | 47.6 |
-| 09:30 | GBP | S&P Global Composite PMI (May) |  | 51.6 | 52.6 |
-| 09:30 | GBP | S&P Global Manufacturing PMI (May) |  | 52.9 | 53.7 |
-| 09:30 | GBP | S&P Global Services PMI (May) |  | 51.7 | 52.7 |
+| 08:30 | EUR | HCOB Germany Manufacturing PMI (May) | 49.9 | 51.0 | 51.4 |
+| 08:30 | EUR | HCOB Germany Services PMI (May) | 47.8 | 47.1 | 46.9 |
+| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (May) | 51.4 | 51.7 | 52.2 |
+| 09:00 | EUR | HCOB Eurozone Composite PMI (May) | 47.5 | 48.8 | 48.8 |
+| 09:00 | EUR | HCOB Eurozone Services PMI (May) | 46.4 | 47.8 | 47.6 |
+| 09:30 | GBP | S&P Global Composite PMI (May) | 48.5 | 51.6 | 52.6 |
+| 09:30 | GBP | S&P Global Manufacturing PMI (May) | 53.7 | 52.9 | 53.7 |
+| 09:30 | GBP | S&P Global Services PMI (May) | 47.9 | 51.7 | 52.7 |
 | 10:00 | EUR | EU Economic Forecasts |  |  |  |
 | 13:30 | USD | Building Permits (Apr) |  | 1.380M | 1.363M |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,790K | 1,782K |
