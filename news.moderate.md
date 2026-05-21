@@ -1,36 +1,41 @@
-## 21 May 2026 - Moderate Impact Forex News
+## 22 May 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Adjusted Trade Balance | 0.24T | -0.23T | 0.09T |
-| 00:50 | JPY | Exports (YoY) (Apr) | 14.8% | 9.3% | 11.5% |
-| 00:50 | JPY | Trade Balance (Apr) | 301.9B | -29.7B | 643.0B |
-| 01:30 | JPY | S&P Global Services PMI (May) | 50.0 |  | 51.0 |
-| 02:30 | AUD | Employment Change (Apr) | -18.6K | 16.7K | 23.3K |
-| 02:30 | AUD | Full Employment Change (Apr) | -10.7K |  | 63.4K |
-| 02:30 | AUD | Unemployment Rate (Apr) | 4.5% | 4.3% | 4.3% |
-| 08:15 | EUR | HCOB France Manufacturing PMI (May) | 48.9 | 52.1 | 52.8 |
-| 08:15 | EUR | HCOB France Services PMI (May) | 42.9 | 46.6 | 46.5 |
-| 08:30 | EUR | HCOB Germany Manufacturing PMI (May) | 49.9 | 51.0 | 51.4 |
-| 08:30 | EUR | HCOB Germany Services PMI (May) | 47.8 | 47.1 | 46.9 |
-| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (May) | 51.4 | 51.7 | 52.2 |
-| 09:00 | EUR | HCOB Eurozone Composite PMI (May) | 47.5 | 48.8 | 48.8 |
-| 09:00 | EUR | HCOB Eurozone Services PMI (May) | 46.4 | 47.8 | 47.6 |
-| 09:30 | GBP | S&P Global Composite PMI (May) | 48.5 | 51.6 | 52.6 |
-| 09:30 | GBP | S&P Global Manufacturing PMI (May) | 53.7 | 52.9 | 53.7 |
-| 09:30 | GBP | S&P Global Services PMI (May) | 47.9 | 51.7 | 52.7 |
-| 10:00 | EUR | EU Economic Forecasts |  |  |  |
-| 13:30 | USD | Building Permits (Apr) | 1.442M | 1.380M | 1.363M |
-| 13:30 | USD | Continuing Jobless Claims | 1,782K | 1,790K | 1,776K |
-| 13:30 | USD | Housing Starts (Apr) | 1.465M | 1.420M | 1.507M |
-| 13:30 | USD | Housing Starts (MoM) (Apr) | -2.8% |  | 12.0% |
-| 13:30 | USD | Philly Fed Employment (May) | -2.8 |  | -5.1 |
-| 14:45 | USD | S&P Global Composite PMI (May) | 51.7 |  | 51.7 |
-| 15:00 | USD | Atlanta Fed GDPNow (Q2) | 4.3% | 4.0% | 4.0% |
-| 16:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 16:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
-| 16:30 | EUR | ECB's Elderson Speaks |  |  |  |
-| 18:00 | USD | 10-Year TIPS Auction | 2.169% |  | 1.896% |
-| 21:30 | USD | Fed's Balance Sheet | 6,714B |  | 6,729B |
-| 23:45 | NZD | Core Retail Sales (QoQ) |  | 0.8% | 1.5% |
-| 23:45 | NZD | Retail Sales (QoQ) (Q1) |  | 0.5% | 0.9% |
+| 00:30 | JPY | National Core CPI (YoY) (Apr) |  | 1.7% | 1.8% |
+| 00:30 | JPY | National CPI (MoM) (Apr) |  |  | 0.4% |
+| 02:15 | EUR | ECB's Lane Speaks |  |  |  |
+| 07:00 | GBP | Core Retail Sales (YoY) (Apr) |  | 1.5% | 1.7% |
+| 07:00 | GBP | Core Retail Sales (MoM) (Apr) |  | -0.3% | 0.2% |
+| 07:00 | GBP | Retail Sales (MoM) (Apr) |  | -0.6% | 0.7% |
+| 07:00 | GBP | Retail Sales (YoY) (Apr) |  | 1.3% | 1.7% |
+| 07:00 | EUR | German GDP (YoY) (Q1) |  | 0.3% | 0.4% |
+| 07:00 | EUR | GfK German Consumer Climate (Jun) |  | -33.7 | -33.3 |
+| 09:00 | EUR | German Business Expectations (May) |  | 83.5 | 83.3 |
+| 09:00 | EUR | German Current Assessment (May) |  | 85.1 | 85.4 |
+| 09:00 | EUR | German Ifo Business Climate Index (May) |  | 84.2 | 84.4 |
+| 09:30 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 11:00 | EUR | Eurogroup Meetings |  |  |  |
+| 13:00 | MXN | GDP (YoY) (Q1) |  | 0.1% | 1.8% |
+| 13:00 | MXN | GDP (QoQ) (Q1) |  | -0.8% | 0.9% |
+| 13:30 | CAD | Core Retail Sales (MoM) (Mar) |  | 0.9% | 0.5% |
+| 13:30 | CAD | Retail Sales (MoM) (Mar) |  | 0.6% | 0.7% |
+| 13:30 | CAD | RMPI (MoM) (Apr) |  | 2.7% | 12.0% |
+| 13:31 | CAD | Retail Sales (MoM) (Apr) |  |  |  |
+| 15:00 | USD | Fed Waller Speaks |  |  |  |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (May) |  | 4.5% | 4.7% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (May) |  | 3.4% | 3.4% |
+| 15:00 | USD | Michigan Consumer Expectations (May) |  | 48.5 | 48.1 |
+| 15:00 | USD | Michigan Consumer Sentiment (May) |  | 48.2 | 48.2 |
+| 15:00 | USD | US Leading Index (MoM) (Apr) |  | -0.1% | -0.6% |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 415 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 551 |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | -43.1K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 169.9K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 171.6K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | -16.0K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -143.8K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | 85.0K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 68.6K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | -75.1K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 40.2K |
