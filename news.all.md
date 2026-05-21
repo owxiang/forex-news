@@ -44,13 +44,13 @@
 | 09:30 | GBP | Moderate | S&P Global Services PMI (May) | 47.9 | 51.7 | 52.7 |
 | 09:30 | HKD | Low | CPI (MoM) (Apr) | -0.10% |  | 0.00% |
 | 09:30 | HKD | Low | CPI (YoY) (Apr) | 1.70% |  | 1.70% |
+| 10:00 | GBP | Low | 10-Year Treasury Gilt Auction | 5.030% |  | 4.911% |
 | 10:00 | EUR | Low | Spanish 7-Year Obligacion Auction | 3.164% |  | 3.107% |
 | 10:00 | EUR | Low | Construction Output (MoM) (Mar) | 0.78% |  | -0.77% |
 | 10:00 | EUR | Moderate | EU Economic Forecasts |  |  |  |
 | 10:00 | EUR | Low | Labor Cost Index (YoY) (Q1) | 3.30% |  | 3.30% |
-| 11:00 | GBP | Low | CBI Industrial Trends Orders (May) |  | -40 | -38 |
+| 11:00 | GBP | Low | CBI Industrial Trends Orders (May) | -41 | -40 | -38 |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 12:00 | CNY | Low | FDI (Apr) |  |  | -7.30% |
 | 13:00 | MXN | Low | Retail Sales (YoY) (Mar) |  | 3.1% | 3.1% |
 | 13:00 | MXN | Low | Retail Sales (MoM) (Mar) |  | 0.5% | -0.9% |
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
