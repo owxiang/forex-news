@@ -77,9 +77,9 @@
 | 16:00 | USD | Low | KC Fed Composite Index (May) | 8 |  | 10 |
 | 16:00 | USD | Low | KC Fed Manufacturing Index (May) | 9 |  | 10 |
 | 16:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
-| 17 min | USD | Low | 4-Week Bill Auction |  |  | 3.605% |
-| 17 min | USD | Low | 8-Week Bill Auction |  |  | 3.610% |
-| 17 min | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 16:30 | USD | Low | 4-Week Bill Auction | 3.610% |  | 3.605% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 3.600% |  | 3.610% |
+| 16:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 17:20 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 18:00 | USD | Moderate | 10-Year TIPS Auction |  |  | 1.896% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,729B |

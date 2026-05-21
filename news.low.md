@@ -46,8 +46,8 @@
 | 15:30 | USD | Natural Gas Storage | 101B | 96B | 85B |
 | 16:00 | USD | KC Fed Composite Index (May) | 8 |  | 10 |
 | 16:00 | USD | KC Fed Manufacturing Index (May) | 9 |  | 10 |
-| 17 min | USD | 4-Week Bill Auction |  |  | 3.605% |
-| 17 min | USD | 8-Week Bill Auction |  |  | 3.610% |
+| 16:30 | USD | 4-Week Bill Auction | 3.610% |  | 3.605% |
+| 16:30 | USD | 8-Week Bill Auction | 3.600% |  | 3.610% |
 | 17:20 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.117T |
 | 22:00 | KRW | Consumer Confidence (May) |  |  | 99.2 |

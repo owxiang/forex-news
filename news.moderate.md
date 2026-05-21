@@ -29,7 +29,7 @@
 | 15:00 | USD | Atlanta Fed GDPNow (Q2) | 4.3% | 4.0% | 4.0% |
 | 16:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 16:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
-| 17 min | EUR | ECB's Elderson Speaks |  |  |  |
+| 16:30 | EUR | ECB's Elderson Speaks |  |  |  |
 | 18:00 | USD | 10-Year TIPS Auction |  |  | 1.896% |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,729B |
 | 23:45 | NZD | Core Retail Sales (QoQ) |  | 0.8% | 1.5% |
