@@ -5,21 +5,20 @@
 | 00:00 | AUD | S&P Global Manufacturing & Services PMI (May) | 47.80 |  | 50.40 |
 | 00:00 | AUD | S&P Global Manufacturing PMI (May) | 50.2 |  | 51.3 |
 | 00:00 | AUD | S&P Global Services PMI (May) | 47.7 |  | 50.7 |
-| 00:50 | JPY | Core Machinery Orders (MoM) (Mar) | -9.4% | -7.7% | 13.6% |
 | 00:50 | JPY | Core Machinery Orders (YoY) (Mar) | 5.9% | 4.5% | 24.7% |
+| 00:50 | JPY | Core Machinery Orders (MoM) (Mar) | -9.4% | -7.7% | 13.6% |
 | 00:50 | JPY | Foreign Bonds Buying | 758.7B |  | 1,644.3B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 949.6B |  | 1,393.5B |
 | 00:50 | JPY | Imports (YoY) (Apr) | 9.7% | 8.3% | 10.9% |
 | 01:30 | JPY | Manufacturing & Services PMI (May) | 51.10 |  | 52.20 |
 | 01:30 | JPY | S&P Global Manufacturing PMI (May) | 54.5 | 54.5 | 55.1 |
-| 02:00 | AUD | MI Inflation Expectations (May) |  |  | 5.9% |
-| 02:30 | AUD | Participation Rate (Apr) |  | 66.8% | 66.8% |
-| 02:30 | AUD | Reserve Assets Total (Apr) |  |  | 115,963.0B |
-| 03:00 | AUD | MI Leading Index (MoM) (Apr) |  |  | -0.1% |
-| 04:00 | NZD | Credit Card Spending (YoY) (Apr) |  |  | 2.1% |
-| 06:00 | INR | HSBC India Manufacturing PMI (May) |  |  | 54.7 |
-| 06:00 | INR | HSBC India Services PMI (May) |  |  | 58.8 |
-| 06:00 | INR | HSBC Manufacturing & Services PMI (May) |  |  | 58.20 |
+| 02:00 | AUD | MI Inflation Expectations (May) | 5.6% |  | 5.9% |
+| 02:30 | AUD | Participation Rate (Apr) | 66.7% | 66.8% | 66.8% |
+| 02:30 | AUD | Reserve Assets Total (Apr) | 115.6B |  | 116.0B |
+| 04:00 | NZD | Credit Card Spending (YoY) (Apr) | 2.9% |  | 2.1% |
+| 06:00 | INR | HSBC India Manufacturing PMI (May) | 54.3 |  | 54.7 |
+| 06:00 | INR | HSBC India Services PMI (May) | 58.9 |  | 58.8 |
+| 06:00 | INR | HSBC Manufacturing & Services PMI (May) | 58.10 |  | 58.20 |
 | 07:30 | CHF | Industrial Production (YoY) (Q1) |  | 0.50% | -0.70% |
 | 08:00 | CHF | M3 Money Supply (Apr) |  |  | 1,221,317.0B |
 | 08:15 | EUR | HCOB France Composite PMI (May) |  | 47.7 | 47.6 |

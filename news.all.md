@@ -6,8 +6,8 @@
 | 00:00 | AUD | Low | S&P Global Manufacturing PMI (May) | 50.2 |  | 51.3 |
 | 00:00 | AUD | Low | S&P Global Services PMI (May) | 47.7 |  | 50.7 |
 | 00:50 | JPY | Moderate | Adjusted Trade Balance | 0.24T | -0.23T | 0.09T |
-| 00:50 | JPY | Low | Core Machinery Orders (MoM) (Mar) | -9.4% | -7.7% | 13.6% |
 | 00:50 | JPY | Low | Core Machinery Orders (YoY) (Mar) | 5.9% | 4.5% | 24.7% |
+| 00:50 | JPY | Low | Core Machinery Orders (MoM) (Mar) | -9.4% | -7.7% | 13.6% |
 | 00:50 | JPY | Moderate | Exports (YoY) (Apr) | 14.8% | 9.3% | 11.5% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | 758.7B |  | 1,644.3B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 949.6B |  | 1,393.5B |
@@ -16,17 +16,16 @@
 | 01:30 | JPY | Low | Manufacturing & Services PMI (May) | 51.10 |  | 52.20 |
 | 01:30 | JPY | Low | S&P Global Manufacturing PMI (May) | 54.5 | 54.5 | 55.1 |
 | 01:30 | JPY | Moderate | S&P Global Services PMI (May) | 50.0 |  | 51.0 |
-| 02:00 | AUD | Low | MI Inflation Expectations (May) |  |  | 5.9% |
-| 02:30 | AUD | Moderate | Employment Change (Apr) |  | 16.7K | 17.9K |
-| 02:30 | AUD | Moderate | Full Employment Change (Apr) |  |  | 52.5K |
-| 02:30 | AUD | Low | Participation Rate (Apr) |  | 66.8% | 66.8% |
-| 02:30 | AUD | Low | Reserve Assets Total (Apr) |  |  | 115,963.0B |
-| 02:30 | AUD | Moderate | Unemployment Rate (Apr) |  | 4.3% | 4.3% |
-| 03:00 | AUD | Low | MI Leading Index (MoM) (Apr) |  |  | -0.1% |
-| 04:00 | NZD | Low | Credit Card Spending (YoY) (Apr) |  |  | 2.1% |
-| 06:00 | INR | Low | HSBC India Manufacturing PMI (May) |  |  | 54.7 |
-| 06:00 | INR | Low | HSBC India Services PMI (May) |  |  | 58.8 |
-| 06:00 | INR | Low | HSBC Manufacturing & Services PMI (May) |  |  | 58.20 |
+| 02:00 | AUD | Low | MI Inflation Expectations (May) | 5.6% |  | 5.9% |
+| 02:30 | AUD | Moderate | Employment Change (Apr) | -18.6K | 16.7K | 23.3K |
+| 02:30 | AUD | Moderate | Full Employment Change (Apr) | -10.7K |  | 63.4K |
+| 02:30 | AUD | Low | Participation Rate (Apr) | 66.7% | 66.8% | 66.8% |
+| 02:30 | AUD | Low | Reserve Assets Total (Apr) | 115.6B |  | 116.0B |
+| 02:30 | AUD | Moderate | Unemployment Rate (Apr) | 4.5% | 4.3% | 4.3% |
+| 04:00 | NZD | Low | Credit Card Spending (YoY) (Apr) | 2.9% |  | 2.1% |
+| 06:00 | INR | Low | HSBC India Manufacturing PMI (May) | 54.3 |  | 54.7 |
+| 06:00 | INR | Low | HSBC India Services PMI (May) | 58.9 |  | 58.8 |
+| 06:00 | INR | Low | HSBC Manufacturing & Services PMI (May) | 58.10 |  | 58.20 |
 | 07:30 | CHF | Low | Industrial Production (YoY) (Q1) |  | 0.50% | -0.70% |
 | 08:00 | CHF | Low | M3 Money Supply (Apr) |  |  | 1,221,317.0B |
 | 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (May) |  | 52.1 | 52.8 |
@@ -55,8 +54,8 @@
 | 13:00 | MXN | Low | Retail Sales (YoY) (Mar) |  | 3.1% | 3.1% |
 | 13:00 | MXN | Low | Retail Sales (MoM) (Mar) |  | 0.5% | -0.9% |
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 13:30 | USD | Moderate | Building Permits (Apr) |  | 1.380M | 1.363M |
 | 13:30 | USD | Low | Building Permits (MoM) (Apr) |  |  | -11.4% |
+| 13:30 | USD | Moderate | Building Permits (Apr) |  | 1.380M | 1.363M |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,790K | 1,782K |
 | 13:30 | USD | Moderate | Housing Starts (Apr) |  | 1.420M | 1.502M |
 | 13:30 | USD | Moderate | Housing Starts (MoM) (Apr) |  |  | 10.8% |
