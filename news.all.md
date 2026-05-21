@@ -51,22 +51,22 @@
 | 10:00 | EUR | Low | Labor Cost Index (YoY) (Q1) | 3.30% |  | 3.30% |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (May) | -41 | -40 | -38 |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 13:00 | MXN | Low | Retail Sales (YoY) (Mar) |  | 3.1% | 3.1% |
-| 13:00 | MXN | Low | Retail Sales (MoM) (Mar) |  | 0.5% | -0.9% |
+| 13:00 | MXN | Low | Retail Sales (YoY) (Mar) | 2.9% | 3.1% | 3.1% |
+| 13:00 | MXN | Low | Retail Sales (MoM) (Mar) | 0.1% | 0.5% | -0.9% |
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 13:30 | USD | Moderate | Building Permits (Apr) |  | 1.380M | 1.363M |
-| 13:30 | USD | Low | Building Permits (MoM) (Apr) |  |  | -11.4% |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,790K | 1,782K |
-| 13:30 | USD | Moderate | Housing Starts (Apr) |  | 1.420M | 1.502M |
-| 13:30 | USD | Moderate | Housing Starts (MoM) (Apr) |  |  | 10.8% |
-| 13:30 | USD | High | Initial Jobless Claims |  | 210K | 211K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 203.75K |
-| 13:30 | USD | High | Philadelphia Fed Manufacturing Index (May) |  | 17.6 | 26.7 |
-| 13:30 | USD | Low | Philly Fed Business Conditions (May) |  |  | 40.8 |
-| 13:30 | USD | Low | Philly Fed CAPEX Index (May) |  |  | 35.20 |
-| 13:30 | USD | Moderate | Philly Fed Employment (May) |  |  | -5.1 |
-| 13:30 | USD | Low | Philly Fed New Orders (May) |  |  | 33.0 |
-| 13:30 | USD | Low | Philly Fed Prices Paid (May) |  |  | 59.30 |
+| 13:30 | USD | Moderate | Building Permits (Apr) | 1.442M | 1.380M | 1.363M |
+| 13:30 | USD | Low | Building Permits (MoM) (Apr) | 5.8% |  | -11.5% |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,782K | 1,790K | 1,776K |
+| 13:30 | USD | Moderate | Housing Starts (Apr) | 1.465M | 1.420M | 1.507M |
+| 13:30 | USD | Moderate | Housing Starts (MoM) (Apr) | -2.8% |  | 12.0% |
+| 13:30 | USD | High | Initial Jobless Claims | 209K | 210K | 212K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 202.50K |  | 204.00K |
+| 13:30 | USD | High | Philadelphia Fed Manufacturing Index (May) | -0.4 | 17.6 | 26.7 |
+| 13:30 | USD | Low | Philly Fed Business Conditions (May) | 53.2 |  | 40.8 |
+| 13:30 | USD | Low | Philly Fed CAPEX Index (May) | 30.90 |  | 35.20 |
+| 13:30 | USD | Moderate | Philly Fed Employment (May) | -2.8 |  | -5.1 |
+| 13:30 | USD | Low | Philly Fed New Orders (May) | -1.7 |  | 33.0 |
+| 13:30 | USD | Low | Philly Fed Prices Paid (May) | 47.90 |  | 59.30 |
 | 14:45 | USD | High | S&P Global Manufacturing PMI (May) |  | 53.8 | 54.5 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (May) |  |  | 51.7 |
 | 14:45 | USD | High | S&P Global Services PMI (May) |  | 51.1 | 51.0 |

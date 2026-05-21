@@ -20,11 +20,11 @@
 | 09:30 | GBP | S&P Global Manufacturing PMI (May) | 53.7 | 52.9 | 53.7 |
 | 09:30 | GBP | S&P Global Services PMI (May) | 47.9 | 51.7 | 52.7 |
 | 10:00 | EUR | EU Economic Forecasts |  |  |  |
-| 13:30 | USD | Building Permits (Apr) |  | 1.380M | 1.363M |
-| 13:30 | USD | Continuing Jobless Claims |  | 1,790K | 1,782K |
-| 13:30 | USD | Housing Starts (Apr) |  | 1.420M | 1.502M |
-| 13:30 | USD | Housing Starts (MoM) (Apr) |  |  | 10.8% |
-| 13:30 | USD | Philly Fed Employment (May) |  |  | -5.1 |
+| 13:30 | USD | Building Permits (Apr) | 1.442M | 1.380M | 1.363M |
+| 13:30 | USD | Continuing Jobless Claims | 1,782K | 1,790K | 1,776K |
+| 13:30 | USD | Housing Starts (Apr) | 1.465M | 1.420M | 1.507M |
+| 13:30 | USD | Housing Starts (MoM) (Apr) | -2.8% |  | 12.0% |
+| 13:30 | USD | Philly Fed Employment (May) | -2.8 |  | -5.1 |
 | 14:45 | USD | S&P Global Composite PMI (May) |  |  | 51.7 |
 | 15:00 | USD | Atlanta Fed GDPNow (Q2) |  | 4.0% | 4.0% |
 | 16:00 | GBP | BoE Gov Bailey Speaks |  |  |  |

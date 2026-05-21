@@ -33,15 +33,15 @@
 | 10:00 | EUR | Labor Cost Index (YoY) (Q1) | 3.30% |  | 3.30% |
 | 11:00 | GBP | CBI Industrial Trends Orders (May) | -41 | -40 | -38 |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 13:00 | MXN | Retail Sales (YoY) (Mar) |  | 3.1% | 3.1% |
-| 13:00 | MXN | Retail Sales (MoM) (Mar) |  | 0.5% | -0.9% |
+| 13:00 | MXN | Retail Sales (YoY) (Mar) | 2.9% | 3.1% | 3.1% |
+| 13:00 | MXN | Retail Sales (MoM) (Mar) | 0.1% | 0.5% | -0.9% |
 | 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
-| 13:30 | USD | Building Permits (MoM) (Apr) |  |  | -11.4% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 203.75K |
-| 13:30 | USD | Philly Fed Business Conditions (May) |  |  | 40.8 |
-| 13:30 | USD | Philly Fed CAPEX Index (May) |  |  | 35.20 |
-| 13:30 | USD | Philly Fed New Orders (May) |  |  | 33.0 |
-| 13:30 | USD | Philly Fed Prices Paid (May) |  |  | 59.30 |
+| 13:30 | USD | Building Permits (MoM) (Apr) | 5.8% |  | -11.5% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 202.50K |  | 204.00K |
+| 13:30 | USD | Philly Fed Business Conditions (May) | 53.2 |  | 40.8 |
+| 13:30 | USD | Philly Fed CAPEX Index (May) | 30.90 |  | 35.20 |
+| 13:30 | USD | Philly Fed New Orders (May) | -1.7 |  | 33.0 |
+| 13:30 | USD | Philly Fed Prices Paid (May) | 47.90 |  | 59.30 |
 | 15:00 | EUR | Consumer Confidence (May) |  | -21.0 | -20.6 |
 | 15:30 | USD | Natural Gas Storage |  | 96B | 85B |
 | 16:00 | USD | KC Fed Composite Index (May) |  |  | 10 |
