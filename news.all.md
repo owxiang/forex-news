@@ -84,7 +84,7 @@
 | 18:00 | USD | Moderate | 10-Year TIPS Auction | 2.169% |  | 1.896% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet | 6,714B |  | 6,729B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.106T |  | 3.117T |
-| 22:00 | KRW | Low | Consumer Confidence (May) |  |  | 99.2 |
+| 22:00 | KRW | Low | Consumer Confidence (May) | 106.1 |  | 99.2 |
 | 23:45 | NZD | Moderate | Core Retail Sales (QoQ) |  | 0.8% | 1.5% |
 | 23:45 | NZD | Moderate | Retail Sales (QoQ) (Q1) |  | 0.5% | 0.9% |
 | 23:45 | NZD | Low | Retail Sales Quarterly Vs. Year Ago (Q1) |  |  | 4.4% |
