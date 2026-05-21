@@ -81,7 +81,7 @@
 | 16:30 | USD | Low | 8-Week Bill Auction | 3.600% |  | 3.610% |
 | 16:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 17:20 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 18:00 | USD | Moderate | 10-Year TIPS Auction |  |  | 1.896% |
+| 18:00 | USD | Moderate | 10-Year TIPS Auction | 2.169% |  | 1.896% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,729B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.117T |
 | 22:00 | KRW | Low | Consumer Confidence (May) |  |  | 99.2 |
