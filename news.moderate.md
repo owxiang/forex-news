@@ -9,8 +9,8 @@
 | 02:30 | AUD | Employment Change (Apr) | -18.6K | 16.7K | 23.3K |
 | 02:30 | AUD | Full Employment Change (Apr) | -10.7K |  | 63.4K |
 | 02:30 | AUD | Unemployment Rate (Apr) | 4.5% | 4.3% | 4.3% |
-| 08:15 | EUR | HCOB France Manufacturing PMI (May) |  | 52.1 | 52.8 |
-| 08:15 | EUR | HCOB France Services PMI (May) |  | 46.6 | 46.5 |
+| 08:15 | EUR | HCOB France Manufacturing PMI (May) | 48.9 | 52.1 | 52.8 |
+| 08:15 | EUR | HCOB France Services PMI (May) | 42.9 | 46.6 | 46.5 |
 | 08:30 | EUR | HCOB Germany Manufacturing PMI (May) |  | 51.0 | 51.4 |
 | 08:30 | EUR | HCOB Germany Services PMI (May) |  | 47.1 | 46.9 |
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (May) |  | 51.7 | 52.2 |

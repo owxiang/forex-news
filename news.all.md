@@ -26,11 +26,11 @@
 | 06:00 | INR | Low | HSBC India Manufacturing PMI (May) | 54.3 |  | 54.7 |
 | 06:00 | INR | Low | HSBC India Services PMI (May) | 58.9 |  | 58.8 |
 | 06:00 | INR | Low | HSBC Manufacturing & Services PMI (May) | 58.10 |  | 58.20 |
-| 07:30 | CHF | Low | Industrial Production (YoY) (Q1) |  | 0.50% | -0.70% |
-| 08:00 | CHF | Low | M3 Money Supply (Apr) |  |  | 1,221,317.0B |
-| 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (May) |  | 52.1 | 52.8 |
-| 08:15 | EUR | Low | HCOB France Composite PMI (May) |  | 47.7 | 47.6 |
-| 08:15 | EUR | Moderate | HCOB France Services PMI (May) |  | 46.6 | 46.5 |
+| 07:30 | CHF | Low | Industrial Production (YoY) (Q1) | -7.10% | 0.50% | -0.40% |
+| 08:00 | CHF | Low | M3 Money Supply (Apr) | 1,228.5B |  | 1,223.2B |
+| 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (May) | 48.9 | 52.1 | 52.8 |
+| 08:15 | EUR | Low | HCOB France Composite PMI (May) | 43.5 | 47.7 | 47.6 |
+| 08:15 | EUR | Moderate | HCOB France Services PMI (May) | 42.9 | 46.6 | 46.5 |
 | 08:30 | EUR | Low | HCOB Germany Composite PMI (May) |  | 48.4 | 48.4 |
 | 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (May) |  | 51.0 | 51.4 |
 | 08:30 | EUR | Moderate | HCOB Germany Services PMI (May) |  | 47.1 | 46.9 |

@@ -19,9 +19,9 @@
 | 06:00 | INR | HSBC India Manufacturing PMI (May) | 54.3 |  | 54.7 |
 | 06:00 | INR | HSBC India Services PMI (May) | 58.9 |  | 58.8 |
 | 06:00 | INR | HSBC Manufacturing & Services PMI (May) | 58.10 |  | 58.20 |
-| 07:30 | CHF | Industrial Production (YoY) (Q1) |  | 0.50% | -0.70% |
-| 08:00 | CHF | M3 Money Supply (Apr) |  |  | 1,221,317.0B |
-| 08:15 | EUR | HCOB France Composite PMI (May) |  | 47.7 | 47.6 |
+| 07:30 | CHF | Industrial Production (YoY) (Q1) | -7.10% | 0.50% | -0.40% |
+| 08:00 | CHF | M3 Money Supply (Apr) | 1,228.5B |  | 1,223.2B |
+| 08:15 | EUR | HCOB France Composite PMI (May) | 43.5 | 47.7 | 47.6 |
 | 08:30 | EUR | HCOB Germany Composite PMI (May) |  | 48.4 | 48.4 |
 | 09:00 | EUR | Current Account (Mar) |  | 26.3B | 24.9B |
 | 09:00 | EUR | Current Account n.s.a. (Mar) |  |  | 21.1B |
