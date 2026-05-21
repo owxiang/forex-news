@@ -25,11 +25,11 @@
 | 13:30 | USD | Housing Starts (Apr) | 1.465M | 1.420M | 1.507M |
 | 13:30 | USD | Housing Starts (MoM) (Apr) | -2.8% |  | 12.0% |
 | 13:30 | USD | Philly Fed Employment (May) | -2.8 |  | -5.1 |
-| 14:45 | USD | S&P Global Composite PMI (May) |  |  | 51.7 |
-| 15:00 | USD | Atlanta Fed GDPNow (Q2) |  | 4.0% | 4.0% |
+| 14:45 | USD | S&P Global Composite PMI (May) | 51.7 |  | 51.7 |
+| 15:00 | USD | Atlanta Fed GDPNow (Q2) | 4.3% | 4.0% | 4.0% |
 | 16:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 16:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
-| 16:30 | EUR | ECB's Elderson Speaks |  |  |  |
+| 17 min | EUR | ECB's Elderson Speaks |  |  |  |
 | 18:00 | USD | 10-Year TIPS Auction |  |  | 1.896% |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,729B |
 | 23:45 | NZD | Core Retail Sales (QoQ) |  | 0.8% | 1.5% |

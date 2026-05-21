@@ -42,12 +42,12 @@
 | 13:30 | USD | Philly Fed CAPEX Index (May) | 30.90 |  | 35.20 |
 | 13:30 | USD | Philly Fed New Orders (May) | -1.7 |  | 33.0 |
 | 13:30 | USD | Philly Fed Prices Paid (May) | 47.90 |  | 59.30 |
-| 15:00 | EUR | Consumer Confidence (May) |  | -21.0 | -20.6 |
-| 15:30 | USD | Natural Gas Storage |  | 96B | 85B |
-| 16:00 | USD | KC Fed Composite Index (May) |  |  | 10 |
-| 16:00 | USD | KC Fed Manufacturing Index (May) |  |  | 10 |
-| 16:30 | USD | 4-Week Bill Auction |  |  | 3.605% |
-| 16:30 | USD | 8-Week Bill Auction |  |  | 3.610% |
+| 15:00 | EUR | Consumer Confidence (May) | -19.0 | -21.0 | -20.6 |
+| 15:30 | USD | Natural Gas Storage | 101B | 96B | 85B |
+| 16:00 | USD | KC Fed Composite Index (May) | 8 |  | 10 |
+| 16:00 | USD | KC Fed Manufacturing Index (May) | 9 |  | 10 |
+| 17 min | USD | 4-Week Bill Auction |  |  | 3.605% |
+| 17 min | USD | 8-Week Bill Auction |  |  | 3.610% |
 | 17:20 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.117T |
 | 22:00 | KRW | Consumer Confidence (May) |  |  | 99.2 |

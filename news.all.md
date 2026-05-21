@@ -67,19 +67,19 @@
 | 13:30 | USD | Moderate | Philly Fed Employment (May) | -2.8 |  | -5.1 |
 | 13:30 | USD | Low | Philly Fed New Orders (May) | -1.7 |  | 33.0 |
 | 13:30 | USD | Low | Philly Fed Prices Paid (May) | 47.90 |  | 59.30 |
-| 14:45 | USD | High | S&P Global Manufacturing PMI (May) |  | 53.8 | 54.5 |
-| 14:45 | USD | Moderate | S&P Global Composite PMI (May) |  |  | 51.7 |
-| 14:45 | USD | High | S&P Global Services PMI (May) |  | 51.1 | 51.0 |
-| 15:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 4.0% | 4.0% |
-| 15:00 | EUR | Low | Consumer Confidence (May) |  | -21.0 | -20.6 |
-| 15:30 | USD | Low | Natural Gas Storage |  | 96B | 85B |
+| 14:45 | USD | High | S&P Global Manufacturing PMI (May) | 55.3 | 53.8 | 54.5 |
+| 14:45 | USD | Moderate | S&P Global Composite PMI (May) | 51.7 |  | 51.7 |
+| 14:45 | USD | High | S&P Global Services PMI (May) | 50.9 | 51.1 | 51.0 |
+| 15:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 4.3% | 4.0% | 4.0% |
+| 15:00 | EUR | Low | Consumer Confidence (May) | -19.0 | -21.0 | -20.6 |
+| 15:30 | USD | Low | Natural Gas Storage | 101B | 96B | 85B |
 | 16:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 16:00 | USD | Low | KC Fed Composite Index (May) |  |  | 10 |
-| 16:00 | USD | Low | KC Fed Manufacturing Index (May) |  |  | 10 |
+| 16:00 | USD | Low | KC Fed Composite Index (May) | 8 |  | 10 |
+| 16:00 | USD | Low | KC Fed Manufacturing Index (May) | 9 |  | 10 |
 | 16:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.605% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.610% |
-| 16:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 17 min | USD | Low | 4-Week Bill Auction |  |  | 3.605% |
+| 17 min | USD | Low | 8-Week Bill Auction |  |  | 3.610% |
+| 17 min | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 17:20 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 18:00 | USD | Moderate | 10-Year TIPS Auction |  |  | 1.896% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,729B |
