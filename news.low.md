@@ -49,6 +49,6 @@
 | 16:30 | USD | 4-Week Bill Auction | 3.610% |  | 3.605% |
 | 16:30 | USD | 8-Week Bill Auction | 3.600% |  | 3.610% |
 | 17:20 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.117T |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.106T |  | 3.117T |
 | 22:00 | KRW | Consumer Confidence (May) |  |  | 99.2 |
 | 23:45 | NZD | Retail Sales Quarterly Vs. Year Ago (Q1) |  |  | 4.4% |

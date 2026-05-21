@@ -31,6 +31,6 @@
 | 16:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
 | 16:30 | EUR | ECB's Elderson Speaks |  |  |  |
 | 18:00 | USD | 10-Year TIPS Auction | 2.169% |  | 1.896% |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 6,729B |
+| 21:30 | USD | Fed's Balance Sheet | 6,714B |  | 6,729B |
 | 23:45 | NZD | Core Retail Sales (QoQ) |  | 0.8% | 1.5% |
 | 23:45 | NZD | Retail Sales (QoQ) (Q1) |  | 0.5% | 0.9% |
