@@ -8,9 +8,9 @@
 | 04:00 | IDR | Balance of Payments (EUR) (Q1) | -9.1B |  | 6.1B |
 | 04:00 | IDR | Current Account % of GDP (Q1) | -1.09% |  | -0.70% |
 | 05:50 | IDR | M2 Money Supply (YoY) (Apr) | 9.20% |  | 9.70% |
-| 07:00 | GBP | Public Sector Net Borrowing (Apr) |  | 20.70B | 12.60B |
-| 07:00 | GBP | Public Sector Net Cash Requirement (Apr) |  |  | 28.519B |
-| 07:45 | EUR | French Business Survey (May) |  | 100 | 100 |
+| 07:00 | GBP | Public Sector Net Borrowing (Apr) | 24.30B | 20.70B | 11.50B |
+| 07:00 | GBP | Public Sector Net Cash Requirement (Apr) | 9.547B |  | 29.023B |
+| 07:45 | EUR | French Business Survey (May) | 102 | 100 | 100 |
 | 11:00 | EUR | ECOFIN Meetings |  |  |  |
 | 12:00 | CNY | FDI (Apr) |  |  | -7.30% |
 | 12:30 | INR | Bank Loan Growth |  |  | 16.0% |

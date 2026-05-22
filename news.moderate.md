@@ -5,12 +5,12 @@
 | 00:30 | JPY | National Core CPI (YoY) (Apr) | 1.4% | 1.7% | 1.8% |
 | 00:30 | JPY | National CPI (MoM) (Apr) | 0.1% |  | 0.4% |
 | 02:15 | EUR | ECB's Lane Speaks |  |  |  |
-| 07:00 | GBP | Core Retail Sales (YoY) (Apr) |  | 1.5% | 1.7% |
-| 07:00 | GBP | Core Retail Sales (MoM) (Apr) |  | -0.3% | 0.2% |
-| 07:00 | GBP | Retail Sales (MoM) (Apr) |  | -0.6% | 0.7% |
-| 07:00 | GBP | Retail Sales (YoY) (Apr) |  | 1.3% | 1.7% |
-| 07:00 | EUR | German GDP (YoY) (Q1) |  | 0.3% | 0.4% |
-| 07:00 | EUR | GfK German Consumer Climate (Jun) |  | -33.7 | -33.3 |
+| 07:00 | GBP | Core Retail Sales (YoY) (Apr) | 1.1% | 1.5% | 1.5% |
+| 07:00 | GBP | Core Retail Sales (MoM) (Apr) | -0.4% | -0.3% | 0.1% |
+| 07:00 | GBP | Retail Sales (MoM) (Apr) | -1.3% | -0.6% | 0.6% |
+| 07:00 | GBP | Retail Sales (YoY) (Apr) | 0.0% | 1.3% | 1.4% |
+| 07:00 | EUR | German GDP (YoY) (Q1) | 0.4% | 0.3% | 0.4% |
+| 07:00 | EUR | GfK German Consumer Climate (Jun) | -29.8 | -33.7 | -33.1 |
 | 09:00 | EUR | German Business Expectations (May) |  | 83.5 | 83.3 |
 | 09:00 | EUR | German Current Assessment (May) |  | 85.1 | 85.4 |
 | 09:00 | EUR | German Ifo Business Climate Index (May) |  | 84.2 | 84.4 |

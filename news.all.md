@@ -11,16 +11,16 @@
 | 04:00 | IDR | Low | Balance of Payments (EUR) (Q1) | -9.1B |  | 6.1B |
 | 04:00 | IDR | Low | Current Account % of GDP (Q1) | -1.09% |  | -0.70% |
 | 05:50 | IDR | Low | M2 Money Supply (YoY) (Apr) | 9.20% |  | 9.70% |
-| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Apr) |  | 1.5% | 1.7% |
-| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Apr) |  | -0.3% | 0.2% |
-| 07:00 | GBP | Low | Public Sector Net Borrowing (Apr) |  | 20.70B | 12.60B |
-| 07:00 | GBP | Low | Public Sector Net Cash Requirement (Apr) |  |  | 28.519B |
-| 07:00 | GBP | Moderate | Retail Sales (MoM) (Apr) |  | -0.6% | 0.7% |
-| 07:00 | GBP | Moderate | Retail Sales (YoY) (Apr) |  | 1.3% | 1.7% |
-| 07:00 | EUR | Moderate | German GDP (YoY) (Q1) |  | 0.3% | 0.4% |
-| 07:00 | EUR | High | German GDP (QoQ) (Q1) |  | 0.3% | 0.2% |
-| 07:00 | EUR | Moderate | GfK German Consumer Climate (Jun) |  | -33.7 | -33.3 |
-| 07:45 | EUR | Low | French Business Survey (May) |  | 100 | 100 |
+| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Apr) | 1.1% | 1.5% | 1.5% |
+| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Apr) | -0.4% | -0.3% | 0.1% |
+| 07:00 | GBP | Low | Public Sector Net Borrowing (Apr) | 24.30B | 20.70B | 11.50B |
+| 07:00 | GBP | Low | Public Sector Net Cash Requirement (Apr) | 9.547B |  | 29.023B |
+| 07:00 | GBP | Moderate | Retail Sales (MoM) (Apr) | -1.3% | -0.6% | 0.6% |
+| 07:00 | GBP | Moderate | Retail Sales (YoY) (Apr) | 0.0% | 1.3% | 1.4% |
+| 07:00 | EUR | Moderate | German GDP (YoY) (Q1) | 0.4% | 0.3% | 0.4% |
+| 07:00 | EUR | High | German GDP (QoQ) (Q1) | 0.3% | 0.3% | 0.2% |
+| 07:00 | EUR | Moderate | GfK German Consumer Climate (Jun) | -29.8 | -33.7 | -33.1 |
+| 07:45 | EUR | Low | French Business Survey (May) | 102 | 100 | 100 |
 | 09:00 | EUR | Moderate | German Business Expectations (May) |  | 83.5 | 83.3 |
 | 09:00 | EUR | Moderate | German Current Assessment (May) |  | 85.1 | 85.4 |
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (May) |  | 84.2 | 84.4 |
