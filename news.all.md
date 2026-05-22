@@ -8,9 +8,9 @@
 | 00:30 | JPY | Low | National CPI (YoY) (Apr) | 1.4% |  | 1.5% |
 | 00:30 | JPY | Moderate | National CPI (MoM) (Apr) | 0.1% |  | 0.4% |
 | 02:15 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 04:00 | IDR | Low | M2 Money Supply (YoY) (Apr) |  |  | 9.70% |
-| 04:00 | IDR | Low | Balance of Payments (EUR) (Q1) |  |  | 6.1B |
-| 04:00 | IDR | Low | Current Account % of GDP (Q1) |  |  | -0.70% |
+| 04:00 | IDR | Low | Balance of Payments (EUR) (Q1) | -9.1B |  | 6.1B |
+| 04:00 | IDR | Low | Current Account % of GDP (Q1) | -1.09% |  | -0.70% |
+| 05:50 | IDR | Low | M2 Money Supply (YoY) (Apr) | 9.20% |  | 9.70% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Apr) |  | 1.5% | 1.7% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Apr) |  | -0.3% | 0.2% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing (Apr) |  | 20.70B | 12.60B |
@@ -47,10 +47,10 @@
 | 14:30 | INR | Low | M3 Money Supply |  |  | 12.0% |
 | 15:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (May) |  | 4.5% | 4.7% |
-| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (May) |  | 3.4% | 3.4% |
+| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (May) |  | 3.4% | 3.5% |
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (May) |  | 48.5 | 48.1 |
-| 15:00 | USD | Moderate | Michigan Consumer Sentiment (May) |  | 48.2 | 48.2 |
-| 15:00 | USD | Low | Michigan Current Conditions (May) |  | 47.8 | 47.8 |
+| 15:00 | USD | Moderate | Michigan Consumer Sentiment (May) |  | 48.2 | 49.8 |
+| 15:00 | USD | Low | Michigan Current Conditions (May) |  | 47.8 | 52.5 |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (Apr) |  | -0.1% | -0.6% |
 | 15:30 | CAD | Low | BoC Senior Loan Officer Survey (Q1) |  |  | 2.8 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 415 |

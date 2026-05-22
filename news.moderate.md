@@ -24,9 +24,9 @@
 | 13:31 | CAD | Retail Sales (MoM) (Apr) |  |  |  |
 | 15:00 | USD | Fed Waller Speaks |  |  |  |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (May) |  | 4.5% | 4.7% |
-| 15:00 | USD | Michigan 5-Year Inflation Expectations (May) |  | 3.4% | 3.4% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (May) |  | 3.4% | 3.5% |
 | 15:00 | USD | Michigan Consumer Expectations (May) |  | 48.5 | 48.1 |
-| 15:00 | USD | Michigan Consumer Sentiment (May) |  | 48.2 | 48.2 |
+| 15:00 | USD | Michigan Consumer Sentiment (May) |  | 48.2 | 49.8 |
 | 15:00 | USD | US Leading Index (MoM) (Apr) |  | -0.1% | -0.6% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 415 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 551 |

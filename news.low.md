@@ -5,9 +5,9 @@
 | 00:01 | GBP | GfK Consumer Confidence (May) | -23 | -28 | -25 |
 | 00:30 | JPY | CPI, n.s.a (MoM) (Apr) | 0.3% |  | 0.4% |
 | 00:30 | JPY | National CPI (YoY) (Apr) | 1.4% |  | 1.5% |
-| 04:00 | IDR | M2 Money Supply (YoY) (Apr) |  |  | 9.70% |
-| 04:00 | IDR | Balance of Payments (EUR) (Q1) |  |  | 6.1B |
-| 04:00 | IDR | Current Account % of GDP (Q1) |  |  | -0.70% |
+| 04:00 | IDR | Balance of Payments (EUR) (Q1) | -9.1B |  | 6.1B |
+| 04:00 | IDR | Current Account % of GDP (Q1) | -1.09% |  | -0.70% |
+| 05:50 | IDR | M2 Money Supply (YoY) (Apr) | 9.20% |  | 9.70% |
 | 07:00 | GBP | Public Sector Net Borrowing (Apr) |  | 20.70B | 12.60B |
 | 07:00 | GBP | Public Sector Net Cash Requirement (Apr) |  |  | 28.519B |
 | 07:45 | EUR | French Business Survey (May) |  | 100 | 100 |
@@ -24,7 +24,7 @@
 | 13:30 | CAD | IPPI (YoY) (Apr) |  |  | 7.8% |
 | 13:30 | CAD | RMPI (YoY) (Apr) |  |  | 23.6% |
 | 14:30 | INR | M3 Money Supply |  |  | 12.0% |
-| 15:00 | USD | Michigan Current Conditions (May) |  | 47.8 | 47.8 |
+| 15:00 | USD | Michigan Current Conditions (May) |  | 47.8 | 52.5 |
 | 15:30 | CAD | BoC Senior Loan Officer Survey (Q1) |  |  | 2.8 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.3K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 76.3K |
