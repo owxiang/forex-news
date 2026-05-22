@@ -12,17 +12,15 @@
 | 07:00 | GBP | Public Sector Net Cash Requirement (Apr) | 9.547B |  | 29.023B |
 | 07:45 | EUR | French Business Survey (May) | 102 | 100 | 100 |
 | 11:00 | EUR | ECOFIN Meetings |  |  |  |
-| 12:30 | INR | Bank Loan Growth |  |  | 16.0% |
-| 12:30 | INR | Deposit Growth |  |  | 12.3% |
-| 12:30 | INR | FX Reserves, USD |  |  | 696.99B |
-| 13:00 | MXN | 1st Half-Month Core CPI (May) |  | 0.17% | 0.18% |
-| 13:00 | MXN | 1st Half-Month CPI (May) |  | -0.15% | 0.11% |
-| 13:00 | MXN | Economic Activity (YoY) (Mar) |  | 0.50% | -0.30% |
-| 13:00 | MXN | Economic Activity (MoM) (Mar) |  | 0.00% | 0.10% |
-| 13:30 | CAD | IPPI (MoM) (Apr) |  | 1.2% | 2.4% |
-| 13:30 | CAD | IPPI (YoY) (Apr) |  |  | 7.8% |
-| 13:30 | CAD | RMPI (YoY) (Apr) |  |  | 23.6% |
-| 14:30 | INR | M3 Money Supply |  |  | 12.0% |
+| 12:30 | INR | FX Reserves, USD | 688.89B |  | 696.99B |
+| 13:00 | MXN | 1st Half-Month Core CPI (May) | 0.13% | 0.17% | 0.18% |
+| 13:00 | MXN | 1st Half-Month CPI (May) | -0.16% | -0.15% | 0.11% |
+| 13:00 | MXN | Economic Activity (YoY) (Mar) | 1.40% | 0.50% | -0.40% |
+| 13:00 | MXN | Economic Activity (MoM) (Mar) | 0.40% | 0.00% | 0.10% |
+| 13:30 | CAD | IPPI (MoM) (Apr) | 2.0% | 1.2% | 2.8% |
+| 13:30 | CAD | IPPI (YoY) (Apr) | 11.4% |  | 8.4% |
+| 13:30 | CAD | RMPI (YoY) (Apr) | 31.6% |  | 23.4% |
+| 30 min | INR | M3 Money Supply |  |  | 12.0% |
 | 15:00 | USD | Michigan Current Conditions (May) |  | 47.8 | 52.5 |
 | 15:30 | CAD | BoC Senior Loan Officer Survey (Q1) |  |  | 2.8 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.3K |
