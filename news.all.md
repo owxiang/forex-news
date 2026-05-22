@@ -21,12 +21,12 @@
 | 07:00 | EUR | High | German GDP (QoQ) (Q1) | 0.3% | 0.3% | 0.2% |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Jun) | -29.8 | -33.7 | -33.1 |
 | 07:45 | EUR | Low | French Business Survey (May) | 102 | 100 | 100 |
-| 09:00 | EUR | Moderate | German Business Expectations (May) |  | 83.5 | 83.3 |
-| 09:00 | EUR | Moderate | German Current Assessment (May) |  | 85.1 | 85.4 |
-| 09:00 | EUR | Moderate | German Ifo Business Climate Index (May) |  | 84.2 | 84.4 |
+| 09:00 | EUR | Moderate | German Business Expectations (May) | 83.8 | 83.5 | 83.5 |
+| 09:00 | EUR | Moderate | German Current Assessment (May) | 86.1 | 85.1 | 85.4 |
+| 09:00 | EUR | Moderate | German Ifo Business Climate Index (May) | 84.9 | 84.2 | 84.5 |
 | 09:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
-| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 45 min | EUR | Low | ECOFIN Meetings |  |  |  |
+| 45 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:00 | CNY | Low | FDI (Apr) |  |  | -7.30% |
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 16.0% |
 | 12:30 | INR | Low | Deposit Growth |  |  | 12.3% |

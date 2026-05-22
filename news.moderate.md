@@ -11,11 +11,11 @@
 | 07:00 | GBP | Retail Sales (YoY) (Apr) | 0.0% | 1.3% | 1.4% |
 | 07:00 | EUR | German GDP (YoY) (Q1) | 0.4% | 0.3% | 0.4% |
 | 07:00 | EUR | GfK German Consumer Climate (Jun) | -29.8 | -33.7 | -33.1 |
-| 09:00 | EUR | German Business Expectations (May) |  | 83.5 | 83.3 |
-| 09:00 | EUR | German Current Assessment (May) |  | 85.1 | 85.4 |
-| 09:00 | EUR | German Ifo Business Climate Index (May) |  | 84.2 | 84.4 |
+| 09:00 | EUR | German Business Expectations (May) | 83.8 | 83.5 | 83.5 |
+| 09:00 | EUR | German Current Assessment (May) | 86.1 | 85.1 | 85.4 |
+| 09:00 | EUR | German Ifo Business Climate Index (May) | 84.9 | 84.2 | 84.5 |
 | 09:30 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 11:00 | EUR | Eurogroup Meetings |  |  |  |
+| 45 min | EUR | Eurogroup Meetings |  |  |  |
 | 13:00 | MXN | GDP (YoY) (Q1) |  | 0.1% | 1.8% |
 | 13:00 | MXN | GDP (QoQ) (Q1) |  | -0.8% | 0.9% |
 | 13:30 | CAD | Core Retail Sales (MoM) (Mar) |  | 0.9% | 0.5% |
