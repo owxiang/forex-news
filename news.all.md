@@ -49,8 +49,8 @@
 | 15:00 | USD | Low | Michigan Current Conditions (May) | 45.8 | 47.8 | 47.8 |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (Apr) | 0.1% | -0.1% | -0.6% |
 | 15:30 | CAD | Low | BoC Senior Loan Officer Survey (Q1) | 1.0 |  | 2.8 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  | 416 | 415 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 551 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 425 | 416 | 415 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 558 |  | 551 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -43.1K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 0.3K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 76.3K |
