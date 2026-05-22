@@ -23,11 +23,11 @@
 | 13:30 | CAD | RMPI (MoM) (Apr) | 2.6% | 2.7% | 11.9% |
 | 13:31 | CAD | Retail Sales (MoM) (Apr) | 0.6% |  | 0.9% |
 | 15:00 | USD | Fed Waller Speaks |  |  |  |
-| 15:00 | USD | Michigan 1-Year Inflation Expectations (May) |  | 4.5% | 4.7% |
-| 15:00 | USD | Michigan 5-Year Inflation Expectations (May) |  | 3.4% | 3.5% |
-| 15:00 | USD | Michigan Consumer Expectations (May) |  | 48.5 | 48.1 |
-| 15:00 | USD | Michigan Consumer Sentiment (May) |  | 48.2 | 49.8 |
-| 15:00 | USD | US Leading Index (MoM) (Apr) |  | -0.1% | -0.6% |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (May) | 4.8% | 4.5% | 4.7% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (May) | 3.9% | 3.4% | 3.4% |
+| 15:00 | USD | Michigan Consumer Expectations (May) | 44.1 | 48.5 | 48.1 |
+| 15:00 | USD | Michigan Consumer Sentiment (May) | 44.8 | 48.2 | 48.2 |
+| 15:00 | USD | US Leading Index (MoM) (Apr) | 0.1% | -0.1% | -0.6% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  | 416 | 415 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 551 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -43.1K |

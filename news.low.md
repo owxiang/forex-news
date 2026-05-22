@@ -20,9 +20,8 @@
 | 13:30 | CAD | IPPI (MoM) (Apr) | 2.0% | 1.2% | 2.8% |
 | 13:30 | CAD | IPPI (YoY) (Apr) | 11.4% |  | 8.4% |
 | 13:30 | CAD | RMPI (YoY) (Apr) | 31.6% |  | 23.4% |
-| 30 min | INR | M3 Money Supply |  |  | 12.0% |
-| 15:00 | USD | Michigan Current Conditions (May) |  | 47.8 | 52.5 |
-| 15:30 | CAD | BoC Senior Loan Officer Survey (Q1) |  |  | 2.8 |
+| 15:00 | USD | Michigan Current Conditions (May) | 45.8 | 47.8 | 47.8 |
+| 15:30 | CAD | BoC Senior Loan Officer Survey (Q1) | 1.0 |  | 2.8 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.3K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 76.3K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 383.5K |
