@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | JPY | National Core CPI (YoY) (Apr) |  | 1.7% | 1.8% |
-| 00:30 | JPY | National CPI (MoM) (Apr) |  |  | 0.4% |
+| 00:30 | JPY | National Core CPI (YoY) (Apr) | 1.4% | 1.7% | 1.8% |
+| 00:30 | JPY | National CPI (MoM) (Apr) | 0.1% |  | 0.4% |
 | 02:15 | EUR | ECB's Lane Speaks |  |  |  |
 | 07:00 | GBP | Core Retail Sales (YoY) (Apr) |  | 1.5% | 1.7% |
 | 07:00 | GBP | Core Retail Sales (MoM) (Apr) |  | -0.3% | 0.2% |

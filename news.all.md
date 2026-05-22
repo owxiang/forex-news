@@ -3,10 +3,10 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | GfK Consumer Confidence (May) | -23 | -28 | -25 |
-| 00:30 | JPY | Low | CPI, n.s.a (MoM) (Apr) |  |  | 0.4% |
-| 00:30 | JPY | Moderate | National Core CPI (YoY) (Apr) |  | 1.7% | 1.8% |
-| 00:30 | JPY | Low | National CPI (YoY) (Apr) |  |  | 1.5% |
-| 00:30 | JPY | Moderate | National CPI (MoM) (Apr) |  |  | 0.4% |
+| 00:30 | JPY | Low | CPI, n.s.a (MoM) (Apr) | 0.3% |  | 0.4% |
+| 00:30 | JPY | Moderate | National Core CPI (YoY) (Apr) | 1.4% | 1.7% | 1.8% |
+| 00:30 | JPY | Low | National CPI (YoY) (Apr) | 1.4% |  | 1.5% |
+| 00:30 | JPY | Moderate | National CPI (MoM) (Apr) | 0.1% |  | 0.4% |
 | 02:15 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 04:00 | IDR | Low | M2 Money Supply (YoY) (Apr) |  |  | 9.70% |
 | 04:00 | IDR | Low | Balance of Payments (EUR) (Q1) |  |  | 6.1B |
