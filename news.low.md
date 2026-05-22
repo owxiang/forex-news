@@ -11,8 +11,7 @@
 | 07:00 | GBP | Public Sector Net Borrowing (Apr) | 24.30B | 20.70B | 11.50B |
 | 07:00 | GBP | Public Sector Net Cash Requirement (Apr) | 9.547B |  | 29.023B |
 | 07:45 | EUR | French Business Survey (May) | 102 | 100 | 100 |
-| 45 min | EUR | ECOFIN Meetings |  |  |  |
-| 12:00 | CNY | FDI (Apr) |  |  | -7.30% |
+| 11:00 | EUR | ECOFIN Meetings |  |  |  |
 | 12:30 | INR | Bank Loan Growth |  |  | 16.0% |
 | 12:30 | INR | Deposit Growth |  |  | 12.3% |
 | 12:30 | INR | FX Reserves, USD |  |  | 696.99B |

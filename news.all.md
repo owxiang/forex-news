@@ -25,9 +25,8 @@
 | 09:00 | EUR | Moderate | German Current Assessment (May) | 86.1 | 85.1 | 85.4 |
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (May) | 84.9 | 84.2 | 84.5 |
 | 09:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 45 min | EUR | Low | ECOFIN Meetings |  |  |  |
-| 45 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 12:00 | CNY | Low | FDI (Apr) |  |  | -7.30% |
+| 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
+| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 16.0% |
 | 12:30 | INR | Low | Deposit Growth |  |  | 12.3% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 696.99B |
