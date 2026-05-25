@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 01:00 | SGD | Low | GDP (YoY) (Q1) | 6.0% | 4.6% | 5.7% |
-| 01:00 | SGD | Low | GDP (QoQ) | 1.0% | 0.1% | -1.3% |
+| 01:00 | SGD | Low | GDP (QoQ) (Q1) | 1.0% | -1.3% | 1.3% |
 | 06:00 | SGD | Moderate | Core CPI (YoY) (Apr) |  | 1.70% | 1.70% |
 | 06:00 | SGD | Low | CPI (MoM) (Apr) |  |  | 0.50% |
 | 06:00 | SGD | Moderate | CPI (YoY) (Apr) |  | 2.0% | 1.8% |
