@@ -6,6 +6,7 @@
 | 01:00 | SGD | GDP (YoY) (Q1) | 6.0% | 4.6% | 6.9% |
 | 02:40 | CNY | FDI (Apr) | -10.30% |  | -7.30% |
 | 06:00 | SGD | CPI (MoM) (Apr) | -0.30% |  | 0.50% |
+| 12:00 | BRL | FGV Consumer confidence (May) | 88.8 |  | 89.1 |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:30 | BRL | Current Account (USD) (Apr) |  | -0.20B | -6.04B |
 | 12:30 | BRL | Foreign direct investment (USD) (Apr) |  | 5.30B | 6.04B |

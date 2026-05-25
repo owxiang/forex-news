@@ -8,6 +8,7 @@
 | 06:00 | SGD | Moderate | Core CPI (YoY) (Apr) | 1.40% | 1.70% | 1.70% |
 | 06:00 | SGD | Low | CPI (MoM) (Apr) | -0.30% |  | 0.50% |
 | 06:00 | SGD | Moderate | CPI (YoY) (Apr) | 1.8% | 2.0% | 1.8% |
+| 12:00 | BRL | Low | FGV Consumer confidence (May) | 88.8 |  | 89.1 |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:30 | BRL | Low | Current Account (USD) (Apr) |  | -0.20B | -6.04B |
 | 12:30 | BRL | Low | Foreign direct investment (USD) (Apr) |  | 5.30B | 6.04B |
