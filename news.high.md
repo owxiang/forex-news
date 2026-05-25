@@ -1,3 +1,5 @@
-## 25 May 2026 - High Impact Forex News
+## 26 May 2026 - High Impact Forex News
 
-There is no high impact news today.
+| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 15:00 | USD | CB Consumer Confidence (May) |  | 91.9 | 92.8 |
