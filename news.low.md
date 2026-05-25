@@ -2,7 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:00 | SGD | GDP (YoY) (Q1) |  |  | 4.6% |
+| 01:00 | SGD | GDP (YoY) (Q1) | 6.0% | 4.6% | 5.7% |
+| 01:00 | SGD | GDP (QoQ) | 1.0% | 0.1% | -1.3% |
 | 06:00 | SGD | CPI (MoM) (Apr) |  |  | 0.50% |
 | 12:00 | BRL | FGV Consumer confidence (May) |  |  | 89.1 |
 | 12:00 | CNY | FDI (Apr) |  |  | -7.30% |
