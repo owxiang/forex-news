@@ -13,8 +13,8 @@
 | 07:00 | NOK | Unemployment Rate (Apr) | 4.8% |  | 4.9% |
 | 08:00 | EUR | Spanish PPI (YoY) (Apr) | 8.3% |  | 3.4% |
 | 08:00 | ZAR | Leading Indicators (Mar) | 123.00% |  | 120.13% |
-| 10:30 | EUR | Italian 2-Year CTZ Auction |  |  | 2.890% |
-| 11:00 | GBP | CBI Distributive Trades Survey (May) |  | -52 | -68 |
+| 8 min | EUR | Italian 2-Year CTZ Auction |  |  | 2.890% |
+| 38 min | GBP | CBI Distributive Trades Survey (May) |  | -52 | -68 |
 | 12:30 | BRL | Current Account (USD) (Apr) |  | -0.20B | -6.04B |
 | 12:30 | BRL | Foreign direct investment (USD) (Apr) |  | 5.30B | 6.04B |
 | 13:30 | USD | Chicago Fed National Activity (Apr) |  |  | -0.20 |

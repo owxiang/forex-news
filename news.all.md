@@ -15,8 +15,8 @@
 | 08:00 | EUR | Low | Spanish PPI (YoY) (Apr) | 8.3% |  | 3.4% |
 | 08:00 | ZAR | Low | Leading Indicators (Mar) | 123.00% |  | 120.13% |
 | 09:00 | EUR | Moderate | ECB Financial Stability Review |  |  |  |
-| 10:30 | EUR | Low | Italian 2-Year CTZ Auction |  |  | 2.890% |
-| 11:00 | GBP | Low | CBI Distributive Trades Survey (May) |  | -52 | -68 |
+| 8 min | EUR | Low | Italian 2-Year CTZ Auction |  |  | 2.890% |
+| 38 min | GBP | Low | CBI Distributive Trades Survey (May) |  | -52 | -68 |
 | 12:30 | BRL | Low | Current Account (USD) (Apr) |  | -0.20B | -6.04B |
 | 12:30 | BRL | Low | Foreign direct investment (USD) (Apr) |  | 5.30B | 6.04B |
 | 13:30 | USD | Low | Chicago Fed National Activity (Apr) |  |  | -0.20 |
