@@ -12,24 +12,24 @@
 | 07:00 | NOK | Low | M3 Money Supply (Apr) | 3,575.9B |  | 3,566.8B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Apr) | 4.4% |  | 4.5% |
 | 07:00 | NOK | Low | Unemployment Rate (Apr) | 4.8% |  | 4.9% |
-| 08:00 | EUR | Low | Spanish PPI (YoY) (Apr) | 8.3% |  | 3.4% |
+| 08:00 | EUR | Low | Spanish PPI (YoY) (Apr) | 8.3% |  | 3.1% |
 | 08:00 | ZAR | Low | Leading Indicators (Mar) | 123.00% |  | 120.13% |
 | 09:00 | EUR | Moderate | ECB Financial Stability Review |  |  |  |
-| 8 min | EUR | Low | Italian 2-Year CTZ Auction |  |  | 2.890% |
-| 38 min | GBP | Low | CBI Distributive Trades Survey (May) |  | -52 | -68 |
-| 12:30 | BRL | Low | Current Account (USD) (Apr) |  | -0.20B | -6.04B |
-| 12:30 | BRL | Low | Foreign direct investment (USD) (Apr) |  | 5.30B | 6.04B |
-| 13:30 | USD | Low | Chicago Fed National Activity (Apr) |  |  | -0.20 |
-| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Apr) |  |  | 3.0% |
-| 14:00 | USD | Low | House Price Index (MoM) (Mar) |  | 0.1% | 0.0% |
-| 14:00 | USD | Low | House Price Index (YoY) (Mar) |  |  | 1.7% |
-| 14:00 | USD | Low | House Price Index (Mar) |  |  | 441.4 |
-| 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Mar) |  |  | -0.1% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Mar) |  | 0.9% | 0.9% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Mar) |  |  | 0.4% |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.642% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.250% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.412% |
+| 10:30 | EUR | Low | Italian 2-Year CTZ Auction | 2.730% |  | 2.800% |
+| 11:00 | GBP | Low | CBI Distributive Trades Survey (May) | -46 | -52 | -68 |
+| 12:30 | BRL | Low | Current Account (USD) (Apr) | -1.77B | -0.20B | -6.04B |
+| 12:30 | BRL | Low | Foreign direct investment (USD) (Apr) | 8.91B | 5.30B | 6.04B |
+| 13:30 | USD | Low | Chicago Fed National Activity (Apr) | 0.14 |  | -0.15 |
+| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Apr) | 4.6% |  | 3.0% |
+| 14:00 | USD | Low | House Price Index (MoM) (Mar) | 0.1% | 0.1% | -0.1% |
+| 14:00 | USD | Low | House Price Index (YoY) (Mar) | 1.7% |  | 1.7% |
+| 14:00 | USD | Low | House Price Index (Mar) | 441.5 |  | 441.2 |
+| 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Mar) | -0.2% |  | -0.1% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Mar) | 0.8% | 0.9% | 0.9% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Mar) | 1.0% |  | 0.4% |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.577% |  | 2.642% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.277% |  | 2.250% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.385% |  | 2.412% |
 | 15:00 | USD | High | CB Consumer Confidence (May) |  | 91.9 | 92.8 |
 | 15:30 | USD | Low | Dallas Fed Mfg Business Index (May) |  |  | -2.3 |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.600% |
