@@ -8,11 +8,11 @@
 | 06:00 | JPY | Leading Index (MoM) (Mar) | 0.8% | 1.3% | 1.3% |
 | 06:00 | SGD | Industrial Production (YoY) (Apr) | 17.6% | 12.0% | 9.2% |
 | 06:00 | SGD | Industrial Production (MoM) (Apr) | 5.8% | 1.5% | 3.5% |
-| 07:00 | NOK | M3 Money Supply (Apr) |  |  | 3,566.8B |
-| 07:00 | NOK | Credit Indicator (YoY) (Apr) |  |  | 4.4% |
-| 07:00 | NOK | Unemployment Rate (Apr) |  |  | 4.9% |
-| 08:00 | EUR | Spanish PPI (YoY) (Apr) |  |  | 3.4% |
-| 08:00 | ZAR | Leading Indicators (Mar) |  |  | 120.20% |
+| 07:00 | NOK | M3 Money Supply (Apr) | 3,575.9B |  | 3,566.8B |
+| 07:00 | NOK | Credit Indicator (YoY) (Apr) | 4.4% |  | 4.5% |
+| 07:00 | NOK | Unemployment Rate (Apr) | 4.8% |  | 4.9% |
+| 08:00 | EUR | Spanish PPI (YoY) (Apr) | 8.3% |  | 3.4% |
+| 08:00 | ZAR | Leading Indicators (Mar) | 123.00% |  | 120.13% |
 | 10:30 | EUR | Italian 2-Year CTZ Auction |  |  | 2.890% |
 | 11:00 | GBP | CBI Distributive Trades Survey (May) |  | -52 | -68 |
 | 12:30 | BRL | Current Account (USD) (Apr) |  | -0.20B | -6.04B |

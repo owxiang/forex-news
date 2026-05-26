@@ -9,11 +9,11 @@
 | 06:00 | JPY | Low | Leading Index (MoM) (Mar) | 0.8% | 1.3% | 1.3% |
 | 06:00 | SGD | Low | Industrial Production (YoY) (Apr) | 17.6% | 12.0% | 9.2% |
 | 06:00 | SGD | Low | Industrial Production (MoM) (Apr) | 5.8% | 1.5% | 3.5% |
-| 07:00 | NOK | Low | M3 Money Supply (Apr) |  |  | 3,566.8B |
-| 07:00 | NOK | Low | Credit Indicator (YoY) (Apr) |  |  | 4.4% |
-| 07:00 | NOK | Low | Unemployment Rate (Apr) |  |  | 4.9% |
-| 08:00 | EUR | Low | Spanish PPI (YoY) (Apr) |  |  | 3.4% |
-| 08:00 | ZAR | Low | Leading Indicators (Mar) |  |  | 120.20% |
+| 07:00 | NOK | Low | M3 Money Supply (Apr) | 3,575.9B |  | 3,566.8B |
+| 07:00 | NOK | Low | Credit Indicator (YoY) (Apr) | 4.4% |  | 4.5% |
+| 07:00 | NOK | Low | Unemployment Rate (Apr) | 4.8% |  | 4.9% |
+| 08:00 | EUR | Low | Spanish PPI (YoY) (Apr) | 8.3% |  | 3.4% |
+| 08:00 | ZAR | Low | Leading Indicators (Mar) | 123.00% |  | 120.13% |
 | 09:00 | EUR | Moderate | ECB Financial Stability Review |  |  |  |
 | 10:30 | EUR | Low | Italian 2-Year CTZ Auction |  |  | 2.890% |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (May) |  | -52 | -68 |
