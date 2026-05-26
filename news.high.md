@@ -1,5 +1,6 @@
-## 26 May 2026 - High Impact Forex News
+## 27 May 2026 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 15:00 | USD | CB Consumer Confidence (May) | 93.1 | 91.9 | 93.8 |
+| 03:00 | NZD | RBNZ Interest Rate Decision |  | 2.25% | 2.25% |
+| 18:00 | EUR | ECB Press Conference |  |  |  |

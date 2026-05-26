@@ -1,9 +1,16 @@
-## 26 May 2026 - Moderate Impact Forex News
+## 27 May 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 06:00 | JPY | BoJ Core CPI (YoY) | 2.8% | 1.7% | 2.5% |
+| 02:30 | AUD | Construction Work Done (QoQ) (Q1) |  | 0.8% | -0.1% |
+| 02:30 | AUD | CPI (YoY) (Q2) |  |  | 4.1% |
+| 02:30 | AUD | Trimmed Mean CPI (QoQ) (Q2) |  |  | 0.8% |
+| 03:00 | NZD | RBNZ Monetary Policy Statement |  |  |  |
+| 03:00 | NZD | RBNZ Rate Statement |  |  |  |
+| 04:00 | NZD | RBNZ Press Conference |  |  |  |
 | 09:00 | EUR | ECB Financial Stability Review |  |  |  |
-| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Mar) | 0.8% | 0.9% | 0.9% |
-| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Mar) | 1.0% |  | 0.4% |
-| 18:00 | USD | 2-Year Note Auction | 4.071% |  | 3.812% |
+| 11:00 | EUR | France Jobseekers Total (Apr) |  |  | 3,109.1K |
+| 13:15 | USD | ADP Employment Change Weekly |  |  | 42.25K |
+| 13:30 | CAD | Wholesale Sales (MoM) (Apr) |  |  | 1.9% |
+| 18:00 | USD | 5-Year Note Auction |  |  | 3.955% |
+| 21:30 | USD | API Weekly Crude Oil Stock |  |  | -9.100M |
