@@ -3,12 +3,12 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | BRC Shop Price Index (YoY) | 1.2% | 1.1% | 1.0% |
-| 06:00 | JPY | Moderate | BoJ Core CPI (YoY) |  | 1.7% | 2.5% |
-| 06:00 | JPY | Low | Coincident Indicator (MoM) (Mar) |  | 0.3% | -1.8% |
-| 06:00 | JPY | Low | Leading Index (Mar) |  | 114.5 | 113.3 |
-| 06:00 | JPY | Low | Leading Index (MoM) (Mar) |  | 1.3% | 1.3% |
-| 06:00 | SGD | Low | Industrial Production (YoY) (Apr) |  | 12.0% | 10.1% |
-| 06:00 | SGD | Low | Industrial Production (MoM) (Apr) |  | 1.5% | 4.7% |
+| 06:00 | JPY | Moderate | BoJ Core CPI (YoY) | 2.8% | 1.7% | 2.5% |
+| 06:00 | JPY | Low | Coincident Indicator (MoM) (Mar) | 0.2% | 0.3% | -1.7% |
+| 06:00 | JPY | Low | Leading Index (Mar) | 114.0 | 114.5 | 113.2 |
+| 06:00 | JPY | Low | Leading Index (MoM) (Mar) | 0.8% | 1.3% | 1.3% |
+| 06:00 | SGD | Low | Industrial Production (YoY) (Apr) | 17.6% | 12.0% | 9.2% |
+| 06:00 | SGD | Low | Industrial Production (MoM) (Apr) | 5.8% | 1.5% | 3.5% |
 | 07:00 | NOK | Low | M3 Money Supply (Apr) |  |  | 3,566.8B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Apr) |  |  | 4.4% |
 | 07:00 | NOK | Low | Unemployment Rate (Apr) |  |  | 4.9% |
@@ -25,7 +25,7 @@
 | 14:00 | USD | Low | House Price Index (YoY) (Mar) |  |  | 1.7% |
 | 14:00 | USD | Low | House Price Index (Mar) |  |  | 441.4 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Mar) |  |  | -0.1% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Mar) |  | 1.0% | 0.9% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Mar) |  | 0.9% | 0.9% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Mar) |  |  | 0.4% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.642% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.250% |

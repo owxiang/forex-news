@@ -3,11 +3,11 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | BRC Shop Price Index (YoY) | 1.2% | 1.1% | 1.0% |
-| 06:00 | JPY | Coincident Indicator (MoM) (Mar) |  | 0.3% | -1.8% |
-| 06:00 | JPY | Leading Index (Mar) |  | 114.5 | 113.3 |
-| 06:00 | JPY | Leading Index (MoM) (Mar) |  | 1.3% | 1.3% |
-| 06:00 | SGD | Industrial Production (YoY) (Apr) |  | 12.0% | 10.1% |
-| 06:00 | SGD | Industrial Production (MoM) (Apr) |  | 1.5% | 4.7% |
+| 06:00 | JPY | Coincident Indicator (MoM) (Mar) | 0.2% | 0.3% | -1.7% |
+| 06:00 | JPY | Leading Index (Mar) | 114.0 | 114.5 | 113.2 |
+| 06:00 | JPY | Leading Index (MoM) (Mar) | 0.8% | 1.3% | 1.3% |
+| 06:00 | SGD | Industrial Production (YoY) (Apr) | 17.6% | 12.0% | 9.2% |
+| 06:00 | SGD | Industrial Production (MoM) (Apr) | 5.8% | 1.5% | 3.5% |
 | 07:00 | NOK | M3 Money Supply (Apr) |  |  | 3,566.8B |
 | 07:00 | NOK | Credit Indicator (YoY) (Apr) |  |  | 4.4% |
 | 07:00 | NOK | Unemployment Rate (Apr) |  |  | 4.9% |
