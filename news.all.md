@@ -30,9 +30,9 @@
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.577% |  | 2.642% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.277% |  | 2.250% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.385% |  | 2.412% |
-| 15:00 | USD | High | CB Consumer Confidence (May) |  | 91.9 | 92.8 |
-| 15:30 | USD | Low | Dallas Fed Mfg Business Index (May) |  |  | -2.3 |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.600% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.615% |
-| 18:00 | USD | Moderate | 2-Year Note Auction |  |  | 3.812% |
-| 18:00 | USD | Low | M2 Money Supply (MoM) (Apr) |  |  | 22.69T |
+| 15:00 | USD | High | CB Consumer Confidence (May) | 93.1 | 91.9 | 93.8 |
+| 15:30 | USD | Low | Dallas Fed Mfg Business Index (May) | 0.4 |  | -2.3 |
+| 16:30 | USD | Low | 3-Month Bill Auction | 3.595% |  | 3.600% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 3.650% |  | 3.615% |
+| 18:00 | USD | Moderate | 2-Year Note Auction | 4.071% |  | 3.812% |
+| 18:00 | USD | Low | M2 Money Supply (MoM) (Apr) | 22.80T |  | 22.69T |

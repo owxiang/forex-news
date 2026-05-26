@@ -26,7 +26,7 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 2.577% |  | 2.642% |
 | 14:00 | EUR | French 3-Month BTF Auction | 2.277% |  | 2.250% |
 | 14:00 | EUR | French 6-Month BTF Auction | 2.385% |  | 2.412% |
-| 15:30 | USD | Dallas Fed Mfg Business Index (May) |  |  | -2.3 |
-| 16:30 | USD | 3-Month Bill Auction |  |  | 3.600% |
-| 16:30 | USD | 6-Month Bill Auction |  |  | 3.615% |
-| 18:00 | USD | M2 Money Supply (MoM) (Apr) |  |  | 22.69T |
+| 15:30 | USD | Dallas Fed Mfg Business Index (May) | 0.4 |  | -2.3 |
+| 16:30 | USD | 3-Month Bill Auction | 3.595% |  | 3.600% |
+| 16:30 | USD | 6-Month Bill Auction | 3.650% |  | 3.615% |
+| 18:00 | USD | M2 Money Supply (MoM) (Apr) | 22.80T |  | 22.69T |

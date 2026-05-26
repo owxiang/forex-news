@@ -6,4 +6,4 @@
 | 09:00 | EUR | ECB Financial Stability Review |  |  |  |
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Mar) | 0.8% | 0.9% | 0.9% |
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Mar) | 1.0% |  | 0.4% |
-| 18:00 | USD | 2-Year Note Auction |  |  | 3.812% |
+| 18:00 | USD | 2-Year Note Auction | 4.071% |  | 3.812% |
