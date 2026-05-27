@@ -8,5 +8,5 @@
 | 04:00 | NZD | RBNZ Press Conference |  |  |  |
 | 09:00 | EUR | ECB Financial Stability Review |  |  |  |
 | 13:15 | USD | ADP Employment Change Weekly | 35.75K |  | 40.80K |
-| 18:00 | USD | 5-Year Note Auction |  |  | 3.955% |
+| 18:00 | USD | 5-Year Note Auction | 4.182% |  | 3.955% |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | -9.100M |

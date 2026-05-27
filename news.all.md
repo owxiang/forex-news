@@ -42,7 +42,7 @@
 | 15:00 | USD | Low | Richmond Services Index (May) | 14 |  | 9 |
 | 15:30 | USD | Low | Dallas Fed Services Revenues (May) | 5.0 |  | 4.3 |
 | 15:30 | USD | Low | Texas Services Sector Outlook (May) | -7.7 |  | -9.9 |
-| 18:00 | USD | Moderate | 5-Year Note Auction |  |  | 3.955% |
+| 18:00 | USD | Moderate | 5-Year Note Auction | 4.182% |  | 3.955% |
 | 18:00 | EUR | High | ECB Press Conference |  |  |  |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 3.026B |
 | 20:55 | USD | Low | Fed Governor Cook Speaks |  |  |  |
