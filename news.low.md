@@ -21,11 +21,12 @@
 | 09:00 | EUR | Italian Industrial Sales (YoY) (Mar) | 4.40% |  | 0.50% |
 | 09:00 | CHF | ZEW Expectations (May) | -11.1 |  | -30.3 |
 | 10:10 | EUR | Italian 6-Month BOT Auction | 2.411% |  | 2.161% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.56% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -2.3% |
-| 12:00 | USD | MBA Purchase Index |  |  | 170.4 |
-| 12:00 | USD | Mortgage Market Index |  |  | 283.5 |
-| 12:00 | USD | Mortgage Refinance Index |  |  | 920.2 |
+| 10:30 | EUR | German 30-Year Bund Auction | 3.500% |  | 3.620% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.65% |  | 6.56% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | -8.5% |  | -2.3% |
+| 12:00 | USD | MBA Purchase Index | 169.7 |  | 170.4 |
+| 12:00 | USD | Mortgage Market Index | 259.4 |  | 283.5 |
+| 12:00 | USD | Mortgage Refinance Index | 753.7 |  | 920.2 |
 | 13:00 | BRL | Mid-Month CPI (MoM) (May) |  | 0.53% | 0.89% |
 | 13:00 | BRL | Mid-Month CPI (YoY) (May) |  | 4.55% | 4.37% |
 | 13:55 | USD | Redbook (YoY) |  |  | 8.1% |

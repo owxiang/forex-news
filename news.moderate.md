@@ -8,7 +8,6 @@
 | 03:00 | NZD | RBNZ Rate Statement |  |  |  |
 | 04:00 | NZD | RBNZ Press Conference |  |  |  |
 | 09:00 | EUR | ECB Financial Stability Review |  |  |  |
-| 11:00 | EUR | France Jobseekers Total (Apr) |  |  | 3,109.1K |
 | 13:15 | USD | ADP Employment Change Weekly |  |  | 42.25K |
 | 13:30 | CAD | Wholesale Sales (MoM) (Apr) |  |  | 1.9% |
 | 18:00 | USD | 5-Year Note Auction |  |  | 3.955% |

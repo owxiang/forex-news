@@ -28,12 +28,12 @@
 | 09:00 | CHF | Low | ZEW Expectations (May) | -11.1 |  | -30.3 |
 | 09:00 | EUR | Moderate | ECB Financial Stability Review |  |  |  |
 | 10:10 | EUR | Low | Italian 6-Month BOT Auction | 2.411% |  | 2.161% |
-| 11:00 | EUR | Moderate | France Jobseekers Total (Apr) |  |  | 3,109.1K |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.56% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -2.3% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 170.4 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 283.5 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 920.2 |
+| 10:30 | EUR | Low | German 30-Year Bund Auction | 3.500% |  | 3.620% |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.65% |  | 6.56% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | -8.5% |  | -2.3% |
+| 12:00 | USD | Low | MBA Purchase Index | 169.7 |  | 170.4 |
+| 12:00 | USD | Low | Mortgage Market Index | 259.4 |  | 283.5 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 753.7 |  | 920.2 |
 | 13:00 | BRL | Low | Mid-Month CPI (MoM) (May) |  | 0.53% | 0.89% |
 | 13:00 | BRL | Low | Mid-Month CPI (YoY) (May) |  | 4.55% | 4.37% |
 | 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 42.25K |
