@@ -36,4 +36,4 @@
 | 15:30 | USD | Dallas Fed Services Revenues (May) | 5.0 |  | 4.3 |
 | 15:30 | USD | Texas Services Sector Outlook (May) | -7.7 |  | -9.9 |
 | 18:30 | BRL | Foreign Exchange Flows | -3.648B |  | 3.026B |
-| 10 min | USD | Fed Governor Cook Speaks |  |  |  |
+| 20:55 | USD | Fed Governor Cook Speaks |  |  |  |
