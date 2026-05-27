@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 3.2% | 3.1% |
+| 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) | 3.0% | 3.3% | 3.3% |
 | 01:00 | JPY | BOJ Gov Ueda Speaks |  |  |  |
-| 02:00 | AUD | MI Leading Index (MoM) (Apr) |  |  | -0.1% |
+| 02:00 | AUD | MI Leading Index (MoM) (Apr) | 0.0% |  | -0.1% |
 | 02:30 | AUD | CPI Index Number (Q2) |  |  | 101.70 |
 | 02:30 | AUD | Trimmed Mean CPI (YoY) (Q2) |  |  | 3.5% |
 | 02:30 | AUD | Monthly CPI Indicator (YoY) (Apr) |  | 4.40% | 4.60% |
