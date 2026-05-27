@@ -6,6 +6,7 @@
 | 01:00 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
 | 02:00 | AUD | Low | MI Leading Index (MoM) (Apr) | 0.0% |  | -0.1% |
 | 02:30 | AUD | Moderate | Construction Work Done (QoQ) (Q1) | 3.4% | 0.8% | 0.2% |
+| 02:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) |  |  | 0.8% |
 | 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (Apr) | 4.20% | 4.40% | 4.60% |
 | 02:30 | CNY | Low | Chinese Industrial profit YTD (Apr) | 18.2% |  | 15.5% |
 | 03:00 | NZD | High | RBNZ Interest Rate Decision | 2.25% | 2.25% | 2.25% |
@@ -22,11 +23,11 @@
 | 05:00 | EUR | Low | French Car Registration (MoM) (Apr) | -20.3% |  | 43.8% |
 | 07:45 | EUR | Low | French Consumer Confidence (May) | 82 | 83 | 84 |
 | 09:00 | USD | Low | Fed Logan Speaks |  |  |  |
-| 09:00 | EUR | Low | Italian Industrial Sales (YoY) (Mar) |  |  | 0.50% |
-| 09:00 | EUR | Low | Italian Industrial Sales (MoM) (Mar) |  |  | 0.60% |
-| 09:00 | CHF | Low | ZEW Expectations (May) |  |  | -30.3 |
+| 09:00 | EUR | Low | Italian Industrial Sales (MoM) (Mar) | 2.00% |  | 0.50% |
+| 09:00 | EUR | Low | Italian Industrial Sales (YoY) (Mar) | 4.40% |  | 0.50% |
+| 09:00 | CHF | Low | ZEW Expectations (May) | -11.1 |  | -30.3 |
 | 09:00 | EUR | Moderate | ECB Financial Stability Review |  |  |  |
-| 10:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 2.161% |
+| 10:10 | EUR | Low | Italian 6-Month BOT Auction | 2.411% |  | 2.161% |
 | 11:00 | EUR | Moderate | France Jobseekers Total (Apr) |  |  | 3,109.1K |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.56% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -2.3% |

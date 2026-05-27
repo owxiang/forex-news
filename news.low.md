@@ -17,10 +17,10 @@
 | 05:00 | EUR | French Car Registration (MoM) (Apr) | -20.3% |  | 43.8% |
 | 07:45 | EUR | French Consumer Confidence (May) | 82 | 83 | 84 |
 | 09:00 | USD | Fed Logan Speaks |  |  |  |
-| 09:00 | EUR | Italian Industrial Sales (YoY) (Mar) |  |  | 0.50% |
-| 09:00 | EUR | Italian Industrial Sales (MoM) (Mar) |  |  | 0.60% |
-| 09:00 | CHF | ZEW Expectations (May) |  |  | -30.3 |
-| 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 2.161% |
+| 09:00 | EUR | Italian Industrial Sales (MoM) (Mar) | 2.00% |  | 0.50% |
+| 09:00 | EUR | Italian Industrial Sales (YoY) (Mar) | 4.40% |  | 0.50% |
+| 09:00 | CHF | ZEW Expectations (May) | -11.1 |  | -30.3 |
+| 10:10 | EUR | Italian 6-Month BOT Auction | 2.411% |  | 2.161% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.56% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -2.3% |
 | 12:00 | USD | MBA Purchase Index |  |  | 170.4 |
