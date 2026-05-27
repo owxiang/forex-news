@@ -5,31 +5,25 @@
 | 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 3.0% | 3.3% | 3.3% |
 | 01:00 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
 | 02:00 | AUD | Low | MI Leading Index (MoM) (Apr) | 0.0% |  | -0.1% |
-| 02:30 | AUD | Moderate | Construction Work Done (QoQ) (Q1) |  | 0.8% | -0.1% |
-| 02:30 | AUD | Moderate | CPI (YoY) (Q2) |  |  | 4.1% |
-| 02:30 | AUD | Low | CPI Index Number (Q2) |  |  | 101.70 |
-| 02:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q2) |  |  | 0.8% |
-| 02:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q2) |  |  | 3.5% |
-| 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (Apr) |  | 4.40% | 4.60% |
-| 02:30 | AUD | Low | Weighted mean CPI (QoQ) (Q2) |  |  | 0.8% |
-| 02:30 | AUD | Low | Weighted mean CPI (YoY) (Q2) |  |  | 3.5% |
-| 02:30 | CNY | Low | Chinese Industrial profit YTD (Apr) |  |  | 15.5% |
-| 03:00 | NZD | High | RBNZ Interest Rate Decision |  | 2.25% | 2.25% |
+| 02:30 | AUD | Moderate | Construction Work Done (QoQ) (Q1) | 3.4% | 0.8% | 0.2% |
+| 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (Apr) | 4.20% | 4.40% | 4.60% |
+| 02:30 | CNY | Low | Chinese Industrial profit YTD (Apr) | 18.2% |  | 15.5% |
+| 03:00 | NZD | High | RBNZ Interest Rate Decision | 2.25% | 2.25% | 2.25% |
 | 03:00 | NZD | Moderate | RBNZ Monetary Policy Statement |  |  |  |
 | 03:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
 | 04:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
-| 05:00 | GBP | Low | Car Registration (MoM) (Apr) |  |  | 322.4% |
 | 05:00 | GBP | Low | Car Registration (YoY) (Apr) |  |  | 6.6% |
+| 05:00 | GBP | Low | Car Registration (MoM) (Apr) |  |  | 322.4% |
 | 05:00 | EUR | Low | Italian Car Registration (MoM) (Apr) |  |  | 17.8% |
 | 05:00 | EUR | Low | Italian Car Registration (YoY) (Apr) |  |  | 7.6% |
-| 05:00 | EUR | Low | German Car Registration (MoM) (Apr) |  |  | 39.2% |
 | 05:00 | EUR | Low | German Car Registration (YoY) (Apr) |  |  | 16.0% |
-| 05:00 | EUR | Low | French Car Registration (MoM) (Apr) |  |  | 43.8% |
+| 05:00 | EUR | Low | German Car Registration (MoM) (Apr) |  |  | 39.2% |
 | 05:00 | EUR | Low | French Car Registration (YoY) (Apr) |  |  | 12.9% |
+| 05:00 | EUR | Low | French Car Registration (MoM) (Apr) |  |  | 43.8% |
 | 07:45 | EUR | Low | French Consumer Confidence (May) |  | 85 | 84 |
 | 09:00 | USD | Low | Fed Logan Speaks |  |  |  |
-| 09:00 | EUR | Low | Italian Industrial Sales (MoM) (Mar) |  |  | 0.60% |
 | 09:00 | EUR | Low | Italian Industrial Sales (YoY) (Mar) |  |  | 0.50% |
+| 09:00 | EUR | Low | Italian Industrial Sales (MoM) (Mar) |  |  | 0.60% |
 | 09:00 | CHF | Low | ZEW Expectations (May) |  |  | -30.3 |
 | 09:00 | EUR | Moderate | ECB Financial Stability Review |  |  |  |
 | 10:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 2.161% |

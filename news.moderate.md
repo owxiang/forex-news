@@ -2,9 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Construction Work Done (QoQ) (Q1) |  | 0.8% | -0.1% |
-| 02:30 | AUD | CPI (YoY) (Q2) |  |  | 4.1% |
-| 02:30 | AUD | Trimmed Mean CPI (QoQ) (Q2) |  |  | 0.8% |
+| 02:30 | AUD | Construction Work Done (QoQ) (Q1) | 3.4% | 0.8% | 0.2% |
 | 03:00 | NZD | RBNZ Monetary Policy Statement |  |  |  |
 | 03:00 | NZD | RBNZ Rate Statement |  |  |  |
 | 04:00 | NZD | RBNZ Press Conference |  |  |  |

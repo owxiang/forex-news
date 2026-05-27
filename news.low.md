@@ -5,24 +5,20 @@
 | 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) | 3.0% | 3.3% | 3.3% |
 | 01:00 | JPY | BOJ Gov Ueda Speaks |  |  |  |
 | 02:00 | AUD | MI Leading Index (MoM) (Apr) | 0.0% |  | -0.1% |
-| 02:30 | AUD | CPI Index Number (Q2) |  |  | 101.70 |
-| 02:30 | AUD | Trimmed Mean CPI (YoY) (Q2) |  |  | 3.5% |
-| 02:30 | AUD | Monthly CPI Indicator (YoY) (Apr) |  | 4.40% | 4.60% |
-| 02:30 | AUD | Weighted mean CPI (QoQ) (Q2) |  |  | 0.8% |
-| 02:30 | AUD | Weighted mean CPI (YoY) (Q2) |  |  | 3.5% |
-| 02:30 | CNY | Chinese Industrial profit YTD (Apr) |  |  | 15.5% |
-| 05:00 | GBP | Car Registration (MoM) (Apr) |  |  | 322.4% |
+| 02:30 | AUD | Monthly CPI Indicator (YoY) (Apr) | 4.20% | 4.40% | 4.60% |
+| 02:30 | CNY | Chinese Industrial profit YTD (Apr) | 18.2% |  | 15.5% |
 | 05:00 | GBP | Car Registration (YoY) (Apr) |  |  | 6.6% |
+| 05:00 | GBP | Car Registration (MoM) (Apr) |  |  | 322.4% |
 | 05:00 | EUR | Italian Car Registration (MoM) (Apr) |  |  | 17.8% |
 | 05:00 | EUR | Italian Car Registration (YoY) (Apr) |  |  | 7.6% |
-| 05:00 | EUR | German Car Registration (MoM) (Apr) |  |  | 39.2% |
 | 05:00 | EUR | German Car Registration (YoY) (Apr) |  |  | 16.0% |
-| 05:00 | EUR | French Car Registration (MoM) (Apr) |  |  | 43.8% |
+| 05:00 | EUR | German Car Registration (MoM) (Apr) |  |  | 39.2% |
 | 05:00 | EUR | French Car Registration (YoY) (Apr) |  |  | 12.9% |
+| 05:00 | EUR | French Car Registration (MoM) (Apr) |  |  | 43.8% |
 | 07:45 | EUR | French Consumer Confidence (May) |  | 85 | 84 |
 | 09:00 | USD | Fed Logan Speaks |  |  |  |
-| 09:00 | EUR | Italian Industrial Sales (MoM) (Mar) |  |  | 0.60% |
 | 09:00 | EUR | Italian Industrial Sales (YoY) (Mar) |  |  | 0.50% |
+| 09:00 | EUR | Italian Industrial Sales (MoM) (Mar) |  |  | 0.60% |
 | 09:00 | CHF | ZEW Expectations (May) |  |  | -30.3 |
 | 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 2.161% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.56% |
