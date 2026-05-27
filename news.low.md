@@ -30,10 +30,10 @@
 | 13:00 | BRL | Mid-Month CPI (MoM) (May) | 0.62% | 0.53% | 0.89% |
 | 13:00 | BRL | Mid-Month CPI (YoY) (May) | 4.64% | 4.55% | 4.37% |
 | 13:55 | USD | Redbook (YoY) | 9.0% |  | 8.1% |
-| 15:00 | USD | Richmond Manufacturing Index (May) |  | 4 | 3 |
-| 15:00 | USD | Richmond Manufacturing Shipments (May) |  |  | -2 |
-| 15:00 | USD | Richmond Services Index (May) |  |  | 9 |
-| 15:30 | USD | Dallas Fed Services Revenues (May) |  |  | 4.3 |
-| 15:30 | USD | Texas Services Sector Outlook (May) |  |  | -9.9 |
+| 15:00 | USD | Richmond Manufacturing Index (May) | 13 | 4 | 3 |
+| 15:00 | USD | Richmond Manufacturing Shipments (May) | 16 |  | -2 |
+| 15:00 | USD | Richmond Services Index (May) | 14 |  | 9 |
+| 15:30 | USD | Dallas Fed Services Revenues (May) | 5.0 |  | 4.3 |
+| 15:30 | USD | Texas Services Sector Outlook (May) | -7.7 |  | -9.9 |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | 3.026B |
 | 20:55 | USD | Fed Governor Cook Speaks |  |  |  |

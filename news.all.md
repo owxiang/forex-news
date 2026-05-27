@@ -37,11 +37,11 @@
 | 13:00 | BRL | Low | Mid-Month CPI (YoY) (May) | 4.64% | 4.55% | 4.37% |
 | 13:15 | USD | Moderate | ADP Employment Change Weekly | 35.75K |  | 40.80K |
 | 13:55 | USD | Low | Redbook (YoY) | 9.0% |  | 8.1% |
-| 15:00 | USD | Low | Richmond Manufacturing Index (May) |  | 4 | 3 |
-| 15:00 | USD | Low | Richmond Manufacturing Shipments (May) |  |  | -2 |
-| 15:00 | USD | Low | Richmond Services Index (May) |  |  | 9 |
-| 15:30 | USD | Low | Dallas Fed Services Revenues (May) |  |  | 4.3 |
-| 15:30 | USD | Low | Texas Services Sector Outlook (May) |  |  | -9.9 |
+| 15:00 | USD | Low | Richmond Manufacturing Index (May) | 13 | 4 | 3 |
+| 15:00 | USD | Low | Richmond Manufacturing Shipments (May) | 16 |  | -2 |
+| 15:00 | USD | Low | Richmond Services Index (May) | 14 |  | 9 |
+| 15:30 | USD | Low | Dallas Fed Services Revenues (May) | 5.0 |  | 4.3 |
+| 15:30 | USD | Low | Texas Services Sector Outlook (May) | -7.7 |  | -9.9 |
 | 18:00 | USD | Moderate | 5-Year Note Auction |  |  | 3.955% |
 | 18:00 | EUR | High | ECB Press Conference |  |  |  |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 3.026B |
