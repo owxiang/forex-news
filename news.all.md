@@ -6,7 +6,6 @@
 | 01:00 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
 | 02:00 | AUD | Low | MI Leading Index (MoM) (Apr) | 0.0% |  | -0.1% |
 | 02:30 | AUD | Moderate | Construction Work Done (QoQ) (Q1) | 3.4% | 0.8% | 0.2% |
-| 02:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) |  |  | 0.8% |
 | 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (Apr) | 4.20% | 4.40% | 4.60% |
 | 02:30 | CNY | Low | Chinese Industrial profit YTD (Apr) | 18.2% |  | 15.5% |
 | 03:00 | NZD | High | RBNZ Interest Rate Decision | 2.25% | 2.25% | 2.25% |
@@ -19,8 +18,8 @@
 | 05:00 | EUR | Low | Italian Car Registration (YoY) (Apr) | 11.6% |  | 7.6% |
 | 05:00 | EUR | Low | German Car Registration (YoY) (Apr) | 2.7% |  | 16.0% |
 | 05:00 | EUR | Low | German Car Registration (MoM) (Apr) | -15.3% |  | 39.2% |
-| 05:00 | EUR | Low | French Car Registration (YoY) (Apr) | -0.3% |  | 12.9% |
 | 05:00 | EUR | Low | French Car Registration (MoM) (Apr) | -20.3% |  | 43.8% |
+| 05:00 | EUR | Low | French Car Registration (YoY) (Apr) | -0.3% |  | 12.9% |
 | 07:45 | EUR | Low | French Consumer Confidence (May) | 82 | 83 | 84 |
 | 09:00 | USD | Low | Fed Logan Speaks |  |  |  |
 | 09:00 | EUR | Low | Italian Industrial Sales (MoM) (Mar) | 2.00% |  | 0.50% |
@@ -34,11 +33,10 @@
 | 12:00 | USD | Low | MBA Purchase Index | 169.7 |  | 170.4 |
 | 12:00 | USD | Low | Mortgage Market Index | 259.4 |  | 283.5 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 753.7 |  | 920.2 |
-| 13:00 | BRL | Low | Mid-Month CPI (MoM) (May) |  | 0.53% | 0.89% |
-| 13:00 | BRL | Low | Mid-Month CPI (YoY) (May) |  | 4.55% | 4.37% |
-| 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 42.25K |
-| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Apr) |  |  | 1.9% |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 8.1% |
+| 13:00 | BRL | Low | Mid-Month CPI (MoM) (May) | 0.62% | 0.53% | 0.89% |
+| 13:00 | BRL | Low | Mid-Month CPI (YoY) (May) | 4.64% | 4.55% | 4.37% |
+| 13:15 | USD | Moderate | ADP Employment Change Weekly | 35.75K |  | 40.80K |
+| 13:55 | USD | Low | Redbook (YoY) | 9.0% |  | 8.1% |
 | 15:00 | USD | Low | Richmond Manufacturing Index (May) |  | 4 | 3 |
 | 15:00 | USD | Low | Richmond Manufacturing Shipments (May) |  |  | -2 |
 | 15:00 | USD | Low | Richmond Services Index (May) |  |  | 9 |

@@ -13,8 +13,8 @@
 | 05:00 | EUR | Italian Car Registration (YoY) (Apr) | 11.6% |  | 7.6% |
 | 05:00 | EUR | German Car Registration (YoY) (Apr) | 2.7% |  | 16.0% |
 | 05:00 | EUR | German Car Registration (MoM) (Apr) | -15.3% |  | 39.2% |
-| 05:00 | EUR | French Car Registration (YoY) (Apr) | -0.3% |  | 12.9% |
 | 05:00 | EUR | French Car Registration (MoM) (Apr) | -20.3% |  | 43.8% |
+| 05:00 | EUR | French Car Registration (YoY) (Apr) | -0.3% |  | 12.9% |
 | 07:45 | EUR | French Consumer Confidence (May) | 82 | 83 | 84 |
 | 09:00 | USD | Fed Logan Speaks |  |  |  |
 | 09:00 | EUR | Italian Industrial Sales (MoM) (Mar) | 2.00% |  | 0.50% |
@@ -27,9 +27,9 @@
 | 12:00 | USD | MBA Purchase Index | 169.7 |  | 170.4 |
 | 12:00 | USD | Mortgage Market Index | 259.4 |  | 283.5 |
 | 12:00 | USD | Mortgage Refinance Index | 753.7 |  | 920.2 |
-| 13:00 | BRL | Mid-Month CPI (MoM) (May) |  | 0.53% | 0.89% |
-| 13:00 | BRL | Mid-Month CPI (YoY) (May) |  | 4.55% | 4.37% |
-| 13:55 | USD | Redbook (YoY) |  |  | 8.1% |
+| 13:00 | BRL | Mid-Month CPI (MoM) (May) | 0.62% | 0.53% | 0.89% |
+| 13:00 | BRL | Mid-Month CPI (YoY) (May) | 4.64% | 4.55% | 4.37% |
+| 13:55 | USD | Redbook (YoY) | 9.0% |  | 8.1% |
 | 15:00 | USD | Richmond Manufacturing Index (May) |  | 4 | 3 |
 | 15:00 | USD | Richmond Manufacturing Shipments (May) |  |  | -2 |
 | 15:00 | USD | Richmond Services Index (May) |  |  | 9 |
