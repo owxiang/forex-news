@@ -7,15 +7,15 @@
 | 02:00 | AUD | MI Leading Index (MoM) (Apr) | 0.0% |  | -0.1% |
 | 02:30 | AUD | Monthly CPI Indicator (YoY) (Apr) | 4.20% | 4.40% | 4.60% |
 | 02:30 | CNY | Chinese Industrial profit YTD (Apr) | 18.2% |  | 15.5% |
-| 05:00 | GBP | Car Registration (YoY) (Apr) |  |  | 6.6% |
-| 05:00 | GBP | Car Registration (MoM) (Apr) |  |  | 322.4% |
-| 05:00 | EUR | Italian Car Registration (MoM) (Apr) |  |  | 17.8% |
-| 05:00 | EUR | Italian Car Registration (YoY) (Apr) |  |  | 7.6% |
-| 05:00 | EUR | German Car Registration (YoY) (Apr) |  |  | 16.0% |
-| 05:00 | EUR | German Car Registration (MoM) (Apr) |  |  | 39.2% |
-| 05:00 | EUR | French Car Registration (YoY) (Apr) |  |  | 12.9% |
-| 05:00 | EUR | French Car Registration (MoM) (Apr) |  |  | 43.8% |
-| 07:45 | EUR | French Consumer Confidence (May) |  | 85 | 84 |
+| 05:00 | GBP | Car Registration (YoY) (Apr) | 24.0% |  | 6.6% |
+| 05:00 | GBP | Car Registration (MoM) (Apr) | -60.8% |  | 322.4% |
+| 05:00 | EUR | Italian Car Registration (MoM) (Apr) | -16.3% |  | 17.8% |
+| 05:00 | EUR | Italian Car Registration (YoY) (Apr) | 11.6% |  | 7.6% |
+| 05:00 | EUR | German Car Registration (YoY) (Apr) | 2.7% |  | 16.0% |
+| 05:00 | EUR | German Car Registration (MoM) (Apr) | -15.3% |  | 39.2% |
+| 05:00 | EUR | French Car Registration (YoY) (Apr) | -0.3% |  | 12.9% |
+| 05:00 | EUR | French Car Registration (MoM) (Apr) | -20.3% |  | 43.8% |
+| 07:45 | EUR | French Consumer Confidence (May) |  | 83 | 84 |
 | 09:00 | USD | Fed Logan Speaks |  |  |  |
 | 09:00 | EUR | Italian Industrial Sales (YoY) (Mar) |  |  | 0.50% |
 | 09:00 | EUR | Italian Industrial Sales (MoM) (Mar) |  |  | 0.60% |

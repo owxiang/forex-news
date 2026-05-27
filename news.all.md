@@ -12,15 +12,15 @@
 | 03:00 | NZD | Moderate | RBNZ Monetary Policy Statement |  |  |  |
 | 03:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
 | 04:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
-| 05:00 | GBP | Low | Car Registration (YoY) (Apr) |  |  | 6.6% |
-| 05:00 | GBP | Low | Car Registration (MoM) (Apr) |  |  | 322.4% |
-| 05:00 | EUR | Low | Italian Car Registration (MoM) (Apr) |  |  | 17.8% |
-| 05:00 | EUR | Low | Italian Car Registration (YoY) (Apr) |  |  | 7.6% |
-| 05:00 | EUR | Low | German Car Registration (YoY) (Apr) |  |  | 16.0% |
-| 05:00 | EUR | Low | German Car Registration (MoM) (Apr) |  |  | 39.2% |
-| 05:00 | EUR | Low | French Car Registration (YoY) (Apr) |  |  | 12.9% |
-| 05:00 | EUR | Low | French Car Registration (MoM) (Apr) |  |  | 43.8% |
-| 07:45 | EUR | Low | French Consumer Confidence (May) |  | 85 | 84 |
+| 05:00 | GBP | Low | Car Registration (YoY) (Apr) | 24.0% |  | 6.6% |
+| 05:00 | GBP | Low | Car Registration (MoM) (Apr) | -60.8% |  | 322.4% |
+| 05:00 | EUR | Low | Italian Car Registration (MoM) (Apr) | -16.3% |  | 17.8% |
+| 05:00 | EUR | Low | Italian Car Registration (YoY) (Apr) | 11.6% |  | 7.6% |
+| 05:00 | EUR | Low | German Car Registration (YoY) (Apr) | 2.7% |  | 16.0% |
+| 05:00 | EUR | Low | German Car Registration (MoM) (Apr) | -15.3% |  | 39.2% |
+| 05:00 | EUR | Low | French Car Registration (YoY) (Apr) | -0.3% |  | 12.9% |
+| 05:00 | EUR | Low | French Car Registration (MoM) (Apr) | -20.3% |  | 43.8% |
+| 07:45 | EUR | Low | French Consumer Confidence (May) |  | 83 | 84 |
 | 09:00 | USD | Low | Fed Logan Speaks |  |  |  |
 | 09:00 | EUR | Low | Italian Industrial Sales (YoY) (Mar) |  |  | 0.50% |
 | 09:00 | EUR | Low | Italian Industrial Sales (MoM) (Mar) |  |  | 0.60% |
