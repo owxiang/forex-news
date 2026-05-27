@@ -46,3 +46,4 @@
 | 18:00 | EUR | High | ECB Press Conference |  |  |  |
 | 18:30 | BRL | Low | Foreign Exchange Flows | -3.648B |  | 3.026B |
 | 20:55 | USD | Low | Fed Governor Cook Speaks |  |  |  |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | -2.800M |  | -9.100M |
