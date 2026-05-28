@@ -33,18 +33,18 @@
 | 10:00 | EUR | Selling Price Expectations (May) | 27.4 |  | 30.2 |
 | 10:00 | EUR | Services Sentiment (May) | 2.2 | 0.2 | 1.4 |
 | 10:00 | EUR | Industrial Sentiment (May) | -8.0 | -8.0 | -7.7 |
-| 10:30 | GBP | 5-Year Treasury Gilt Auction |  |  | 4.651% |
-| 10:30 | EUR | Italian 5-Year BTP Auction |  |  | 3.32% |
-| 10:30 | ZAR | PPI (MoM) (Apr) |  |  | 1.1% |
-| 10:30 | ZAR | PPI (YoY) (Apr) |  |  | 2.3% |
-| 11:00 | EUR | Italian PPI (MoM) (Apr) |  |  | 4.4% |
-| 11:00 | EUR | Italian PPI (YoY) (Apr) |  |  | 4.2% |
-| 11:00 | EUR | Spanish Business Confidence (May) |  |  | -5.0 |
+| 10:30 | GBP | 5-Year Treasury Gilt Auction | 4.277% |  | 4.651% |
+| 10:30 | EUR | Italian 5-Year BTP Auction | 3.16% |  | 3.32% |
+| 10:30 | ZAR | PPI (MoM) (Apr) | 3.0% |  | 1.1% |
+| 10:30 | ZAR | PPI (YoY) (Apr) | 4.8% |  | 2.3% |
+| 11:00 | EUR | Italian PPI (MoM) (Apr) | 0.3% |  | 4.4% |
+| 11:00 | EUR | Italian PPI (YoY) (Apr) | 6.8% |  | 4.2% |
 | 12:00 | CHF | SNB Chairman Schlegel Speaks |  |  |  |
-| 12:00 | BRL | IGP-M Inflation Index (MoM) (May) |  |  | 2.73% |
+| 12:00 | BRL | IGP-M Inflation Index (MoM) (May) | 0.84% |  | 2.73% |
 | 12:30 | BRL | Bank lending (MoM) (Apr) |  |  | 0.9% |
 | 13:00 | MXN | Unemployment Rate (Apr) |  |  | 2.80% |
 | 13:00 | MXN | Unemployment Rate n.s.a. (Apr) |  | 2.70% | 2.40% |
+| 13:00 | EUR | Spanish Business Confidence (May) |  |  | -5.0 |
 | 13:00 | BRL | Brazilian PPI (MoM) (Apr) |  |  | 2.37% |
 | 13:10 | USD | Building Permits (MoM) (Apr) |  | 5.8% | -11.4% |
 | 13:30 | USD | Corporate Profits (QoQ) (Q1) |  | 5.7% | 4.7% |

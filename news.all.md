@@ -39,20 +39,20 @@
 | 10:00 | EUR | Low | Selling Price Expectations (May) | 27.4 |  | 30.2 |
 | 10:00 | EUR | Low | Services Sentiment (May) | 2.2 | 0.2 | 1.4 |
 | 10:00 | EUR | Low | Industrial Sentiment (May) | -8.0 | -8.0 | -7.7 |
-| 10:30 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.651% |
-| 10:30 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 4.09% |
-| 10:30 | EUR | Low | Italian 5-Year BTP Auction |  |  | 3.32% |
-| 10:30 | ZAR | Low | PPI (MoM) (Apr) |  |  | 1.1% |
-| 10:30 | ZAR | Low | PPI (YoY) (Apr) |  |  | 2.3% |
-| 11:00 | EUR | Low | Italian PPI (MoM) (Apr) |  |  | 4.4% |
-| 11:00 | EUR | Low | Italian PPI (YoY) (Apr) |  |  | 4.2% |
-| 11:00 | EUR | Low | Spanish Business Confidence (May) |  |  | -5.0 |
+| 10:30 | GBP | Low | 5-Year Treasury Gilt Auction | 4.277% |  | 4.651% |
+| 10:30 | EUR | Moderate | Italian 10-Year BTP Auction | 3.77% |  | 4.09% |
+| 10:30 | EUR | Low | Italian 5-Year BTP Auction | 3.16% |  | 3.32% |
+| 10:30 | ZAR | Low | PPI (MoM) (Apr) | 3.0% |  | 1.1% |
+| 10:30 | ZAR | Low | PPI (YoY) (Apr) | 4.8% |  | 2.3% |
+| 11:00 | EUR | Low | Italian PPI (MoM) (Apr) | 0.3% |  | 4.4% |
+| 11:00 | EUR | Low | Italian PPI (YoY) (Apr) | 6.8% |  | 4.2% |
 | 12:00 | CHF | Low | SNB Chairman Schlegel Speaks |  |  |  |
-| 12:00 | BRL | Low | IGP-M Inflation Index (MoM) (May) |  |  | 2.73% |
+| 12:00 | BRL | Low | IGP-M Inflation Index (MoM) (May) | 0.84% |  | 2.73% |
 | 12:30 | BRL | Low | Bank lending (MoM) (Apr) |  |  | 0.9% |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:00 | MXN | Low | Unemployment Rate (Apr) |  |  | 2.80% |
 | 13:00 | MXN | Low | Unemployment Rate n.s.a. (Apr) |  | 2.70% | 2.40% |
+| 13:00 | EUR | Low | Spanish Business Confidence (May) |  |  | -5.0 |
 | 13:00 | BRL | Low | Brazilian PPI (MoM) (Apr) |  |  | 2.37% |
 | 13:00 | BRL | Moderate | Unemployment Rate (Apr) |  | 5.9% | 6.1% |
 | 13:10 | USD | Moderate | Building Permits (Apr) |  | 1.442M | 1.363M |

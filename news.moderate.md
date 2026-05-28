@@ -8,7 +8,7 @@
 | 07:30 | CHF | Employment Level (Q1) | 5.537M |  | 5.544M |
 | 08:10 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 08:15 | EUR | ECB's Lane Speaks |  |  |  |
-| 10:30 | EUR | Italian 10-Year BTP Auction |  |  | 4.09% |
+| 10:30 | EUR | Italian 10-Year BTP Auction | 3.77% |  | 4.09% |
 | 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:00 | BRL | Unemployment Rate (Apr) |  | 5.9% | 6.1% |
 | 13:10 | USD | Building Permits (Apr) |  | 1.442M | 1.363M |
