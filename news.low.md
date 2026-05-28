@@ -14,18 +14,17 @@
 | 03:00 | NZD | Net Debt Forecast (Jan) | 42.40% |  | 43.30% |
 | 03:00 | NZD | Economic Forecast (Jan) | -15.060B |  | -16.934B |
 | 03:25 | USD | Fed Goolsbee Speaks |  |  |  |
-| 07:00 | JPY | Housing Starts (YoY) (Apr) |  | 15.5% | -29.3% |
-| 07:00 | NOK | GDP (QoQ) (Q1) |  |  | -0.3% |
-| 07:00 | NOK | GDP Mainland (QoQ) (Q1) |  | 0.3% | 0.4% |
-| 07:45 | EUR | French PPI (MoM) (Apr) |  |  | 2.0% |
-| 07:45 | EUR | PPI (YoY) (Apr) |  |  | 0.20% |
-| 08:00 | EUR | Spanish Retail Sales (YoY) (Apr) |  |  | 4.1% |
-| 09:00 | EUR | Italian Business Confidence (May) |  | 87.5 | 87.9 |
-| 09:00 | EUR | Italian Consumer Confidence (May) |  | 90.1 | 90.8 |
-| 09:05 | GBP | BoE Breeden Speaks |  |  |  |
-| 09:30 | HKD | Exports (MoM) (Apr) |  |  | 35.8% |
-| 09:30 | HKD | Imports (MoM) (Apr) |  |  | 41.2% |
-| 09:30 | HKD | Trade Balance (Apr) |  |  | -89.1B |
+| 07:00 | NOK | GDP (QoQ) (Q1) | 0.4% |  | -0.6% |
+| 07:00 | NOK | GDP Mainland (QoQ) (Q1) | 0.2% | 0.3% | 0.2% |
+| 07:45 | EUR | French PPI (MoM) (Apr) | -2.1% |  | 1.9% |
+| 07:45 | EUR | PPI (YoY) (Apr) | 2.10% |  | 0.00% |
+| 08:00 | EUR | Spanish Retail Sales (YoY) (Apr) | 0.8% |  | 4.1% |
+| 27 min | EUR | Italian Business Confidence (May) |  | 87.5 | 87.9 |
+| 27 min | EUR | Italian Consumer Confidence (May) |  | 90.1 | 90.8 |
+| 32 min | GBP | BoE Breeden Speaks |  |  |  |
+| 57 min | HKD | Exports (MoM) (Apr) |  |  | 35.8% |
+| 57 min | HKD | Imports (MoM) (Apr) |  |  | 41.2% |
+| 57 min | HKD | Trade Balance (Apr) |  |  | -89.1B |
 | 10:00 | EUR | Italian Trade Balance Non-EU (Apr) |  |  | 5.64B |
 | 10:00 | EUR | Business and Consumer Survey (May) |  | 92.8 | 93.0 |
 | 10:00 | EUR | Business Climate (May) |  |  | -0.28 |

@@ -17,21 +17,20 @@
 | 03:00 | NZD | Low | Net Debt Forecast (Jan) | 42.40% |  | 43.30% |
 | 03:00 | NZD | Low | Economic Forecast (Jan) | -15.060B |  | -16.934B |
 | 03:25 | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 07:00 | JPY | Low | Housing Starts (YoY) (Apr) |  | 15.5% | -29.3% |
-| 07:00 | NOK | Low | GDP (QoQ) (Q1) |  |  | -0.3% |
-| 07:00 | NOK | Low | GDP Mainland (QoQ) (Q1) |  | 0.3% | 0.4% |
-| 07:30 | CHF | Moderate | Employment Level (Q1) |  |  | 5.544M |
-| 07:45 | EUR | Low | French PPI (MoM) (Apr) |  |  | 2.0% |
-| 07:45 | EUR | Low | PPI (YoY) (Apr) |  |  | 0.20% |
-| 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Apr) |  |  | 4.1% |
+| 07:00 | NOK | Low | GDP (QoQ) (Q1) | 0.4% |  | -0.6% |
+| 07:00 | NOK | Low | GDP Mainland (QoQ) (Q1) | 0.2% | 0.3% | 0.2% |
+| 07:30 | CHF | Moderate | Employment Level (Q1) | 5.537M |  | 5.544M |
+| 07:45 | EUR | Low | French PPI (MoM) (Apr) | -2.1% |  | 1.9% |
+| 07:45 | EUR | Low | PPI (YoY) (Apr) | 2.10% |  | 0.00% |
+| 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Apr) | 0.8% |  | 4.1% |
 | 08:10 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 08:15 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 09:00 | EUR | Low | Italian Business Confidence (May) |  | 87.5 | 87.9 |
-| 09:00 | EUR | Low | Italian Consumer Confidence (May) |  | 90.1 | 90.8 |
-| 09:05 | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 09:30 | HKD | Low | Exports (MoM) (Apr) |  |  | 35.8% |
-| 09:30 | HKD | Low | Imports (MoM) (Apr) |  |  | 41.2% |
-| 09:30 | HKD | Low | Trade Balance (Apr) |  |  | -89.1B |
+| 27 min | EUR | Low | Italian Business Confidence (May) |  | 87.5 | 87.9 |
+| 27 min | EUR | Low | Italian Consumer Confidence (May) |  | 90.1 | 90.8 |
+| 32 min | GBP | Low | BoE Breeden Speaks |  |  |  |
+| 57 min | HKD | Low | Exports (MoM) (Apr) |  |  | 35.8% |
+| 57 min | HKD | Low | Imports (MoM) (Apr) |  |  | 41.2% |
+| 57 min | HKD | Low | Trade Balance (Apr) |  |  | -89.1B |
 | 10:00 | EUR | Low | Italian Trade Balance Non-EU (Apr) |  |  | 5.64B |
 | 10:00 | EUR | Low | Business and Consumer Survey (May) |  | 92.8 | 93.0 |
 | 10:00 | EUR | Low | Business Climate (May) |  |  | -0.28 |
@@ -67,7 +66,7 @@
 | 13:30 | USD | High | Durable Goods Orders (MoM) (Apr) |  | 4.0% | 0.8% |
 | 13:30 | USD | Low | Durables Excluding Defense (MoM) (Apr) |  |  | -0.3% |
 | 13:30 | USD | High | GDP (QoQ) (Q1) |  | 2.0% | 0.5% |
-| 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q1) |  | 3.6% | 3.7% |
+| 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q1) |  | 3.6% | 3.6% |
 | 13:30 | USD | Low | GDP Sales (Q1) |  | 1.6% | 0.3% |
 | 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Apr) |  | 0.4% | 3.3% |
 | 13:30 | USD | High | Initial Jobless Claims |  | 211K | 209K |

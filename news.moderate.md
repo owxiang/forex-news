@@ -5,7 +5,7 @@
 | 01:00 | EUR | ECB's Lane Speaks |  |  |  |
 | 02:30 | AUD | Private New Capital Expenditure (QoQ) (Q1) | 6.5% | 1.2% | 0.7% |
 | 03:00 | NZD | Annual Budget Release |  |  |  |
-| 07:30 | CHF | Employment Level (Q1) |  |  | 5.544M |
+| 07:30 | CHF | Employment Level (Q1) | 5.537M |  | 5.544M |
 | 08:10 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 08:15 | EUR | ECB's Lane Speaks |  |  |  |
 | 10:30 | EUR | Italian 10-Year BTP Auction |  |  | 4.09% |
@@ -15,7 +15,7 @@
 | 13:30 | USD | Continuing Jobless Claims |  | 1,780K | 1,782K |
 | 13:30 | USD | Core Durable Goods Orders (MoM) (Apr) |  | 0.5% | 0.9% |
 | 13:30 | USD | Core PCE Prices (Q1) |  | 4.30% | 2.70% |
-| 13:30 | USD | GDP Price Index (QoQ) (Q1) |  | 3.6% | 3.7% |
+| 13:30 | USD | GDP Price Index (QoQ) (Q1) |  | 3.6% | 3.6% |
 | 13:30 | USD | PCE price index (MoM) (Apr) |  | 0.5% | 0.7% |
 | 13:30 | USD | PCE Price index (YoY) (Apr) |  | 3.8% | 3.5% |
 | 13:30 | USD | Personal Spending (MoM) (Apr) |  | 0.5% | 0.9% |
