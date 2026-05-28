@@ -104,7 +104,7 @@
 | 17:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 2.9% |  | -0.1% |
 | 17:00 | USD | Low | Gasoline Inventories | -2.572M | -2.400M | -1.548M |
 | 18:00 | USD | Moderate | 7-Year Note Auction | 4.290% |  | 4.175% |
-| 18:30 | BRL | Low | CAGED Net Payroll Jobs (Apr) |  |  | 228.21K |
+| 18:30 | BRL | Low | CAGED Net Payroll Jobs (Apr) | 85.89K |  | 228.21K |
 | 20:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,714B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.106T |
