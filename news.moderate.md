@@ -28,4 +28,4 @@
 | 16:45 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 17:00 | USD | Cushing Crude Oil Inventories | -2.794M |  | -1.604M |
 | 18:00 | USD | 7-Year Note Auction | 4.290% |  | 4.175% |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 6,714B |
+| 21:30 | USD | Fed's Balance Sheet | 6,704B |  | 6,714B |

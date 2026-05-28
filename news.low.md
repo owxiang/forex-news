@@ -73,4 +73,4 @@
 | 17:00 | USD | Gasoline Inventories | -2.572M | -2.400M | -1.548M |
 | 18:30 | BRL | CAGED Net Payroll Jobs (Apr) | 85.89K |  | 228.21K |
 | 20:00 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.106T |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.067T |  | 3.106T |
