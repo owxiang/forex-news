@@ -10,19 +10,19 @@
 | 08:15 | EUR | ECB's Lane Speaks |  |  |  |
 | 10:30 | EUR | Italian 10-Year BTP Auction | 3.77% |  | 4.09% |
 | 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:00 | BRL | Unemployment Rate (Apr) |  | 5.9% | 6.1% |
-| 13:10 | USD | Building Permits (Apr) |  | 1.442M | 1.363M |
-| 13:30 | USD | Continuing Jobless Claims |  | 1,780K | 1,782K |
-| 13:30 | USD | Core Durable Goods Orders (MoM) (Apr) |  | 0.5% | 0.9% |
-| 13:30 | USD | Core PCE Prices (Q1) |  | 4.30% | 2.70% |
-| 13:30 | USD | GDP Price Index (QoQ) (Q1) |  | 3.6% | 3.6% |
-| 13:30 | USD | PCE price index (MoM) (Apr) |  | 0.5% | 0.7% |
-| 13:30 | USD | PCE Price index (YoY) (Apr) |  | 3.8% | 3.5% |
-| 13:30 | USD | Personal Spending (MoM) (Apr) |  | 0.5% | 0.9% |
-| 13:30 | CAD | Current Account (Q1) |  | -3.9B | -0.7B |
+| 13:00 | BRL | Unemployment Rate (Apr) | 5.8% | 5.9% | 6.1% |
+| 13:30 | USD | Building Permits (Apr) | 1.423M | 1.442M | 1.363M |
+| 13:30 | USD | Continuing Jobless Claims | 1,786K | 1,780K | 1,771K |
+| 13:30 | USD | Core Durable Goods Orders (MoM) (Apr) | 1.1% | 0.5% | 1.1% |
+| 13:30 | USD | Core PCE Prices (Q1) | 4.40% | 4.30% | 2.70% |
+| 13:30 | USD | GDP Price Index (QoQ) (Q1) | 3.5% | 3.6% | 3.6% |
+| 13:30 | USD | PCE price index (MoM) (Apr) | 0.4% | 0.5% | 0.7% |
+| 13:30 | USD | PCE Price index (YoY) (Apr) | 3.8% | 3.8% | 3.5% |
+| 13:30 | USD | Personal Spending (MoM) (Apr) | 0.5% | 0.5% | 1.0% |
+| 13:30 | CAD | Current Account (Q1) | -7.2B | -3.9B | -1.0B |
 | 13:55 | USD | FOMC Member Williams Speaks |  |  |  |
-| 14:00 | ZAR | Interest Rate Decision (May) |  | 7.00% | 6.75% |
-| 15:00 | USD | New Home Sales (MoM) (Apr) |  |  | 7.4% |
+| 14:00 | ZAR | Interest Rate Decision (May) | 7.00% | 7.00% | 6.75% |
+| 33 min | USD | New Home Sales (MoM) (Apr) |  |  | 7.4% |
 | 16:00 | CAD | BOC Press Conference |  |  |  |
 | 16:30 | USD | Atlanta Fed GDPNow (Q2) |  | 4.3% | 4.3% |
 | 16:45 | EUR | ECB's Schnabel Speaks |  |  |  |

@@ -41,25 +41,25 @@
 | 11:00 | EUR | Italian PPI (YoY) (Apr) | 6.8% |  | 4.2% |
 | 12:00 | CHF | SNB Chairman Schlegel Speaks |  |  |  |
 | 12:00 | BRL | IGP-M Inflation Index (MoM) (May) | 0.84% |  | 2.73% |
-| 12:30 | BRL | Bank lending (MoM) (Apr) |  |  | 0.9% |
-| 13:00 | MXN | Unemployment Rate (Apr) |  |  | 2.80% |
-| 13:00 | MXN | Unemployment Rate n.s.a. (Apr) |  | 2.70% | 2.40% |
-| 13:00 | EUR | Spanish Business Confidence (May) |  |  | -5.0 |
-| 13:00 | BRL | Brazilian PPI (MoM) (Apr) |  |  | 2.37% |
-| 13:10 | USD | Building Permits (MoM) (Apr) |  | 5.8% | -11.4% |
-| 13:30 | USD | Corporate Profits (QoQ) (Q1) |  | 5.7% | 4.7% |
-| 13:30 | USD | Durables Excluding Defense (MoM) (Apr) |  |  | -0.3% |
-| 13:30 | USD | GDP Sales (Q1) |  | 1.6% | 0.3% |
-| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Apr) |  | 0.4% | 3.3% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  | 211.00K | 202.50K |
-| 13:30 | USD | PCE Prices (Q1) |  | 4.5% | 2.9% |
-| 13:30 | USD | Personal Income (MoM) (Apr) |  | 0.4% | 0.6% |
-| 13:30 | USD | Real Consumer Spending (Q1) |  | 1.6% | 1.9% |
-| 13:30 | USD | Real Personal Consumption (MoM) (Apr) |  |  | 0.2% |
-| 13:30 | CAD | Average Weekly Earnings (YoY) (Mar) |  |  | 3.36% |
-| 14:00 | ZAR | Prime Rate (May) |  |  | 10.25% |
-| 15:00 | USD | Dallas Fed PCE (Apr) |  |  | 2.90% |
-| 15:00 | CAD | BoC Financial System Review |  |  |  |
+| 12:30 | BRL | Bank lending (MoM) (Apr) | 0.3% |  | 0.9% |
+| 13:00 | MXN | Unemployment Rate (Apr) | 2.60% |  | 2.80% |
+| 13:00 | MXN | Unemployment Rate n.s.a. (Apr) | 2.50% | 2.70% | 2.40% |
+| 13:00 | EUR | Spanish Business Confidence (May) | -3.7 |  | -5.0 |
+| 13:00 | BRL | Brazilian PPI (MoM) (Apr) | 2.63% |  | 2.28% |
+| 13:30 | USD | Building Permits (MoM) (Apr) | 4.4% | 5.8% | -11.4% |
+| 13:30 | USD | Corporate Profits (QoQ) (Q1) | -0.4% | 5.7% | 4.7% |
+| 13:30 | USD | Durables Excluding Defense (MoM) (Apr) | 8.1% |  | -0.3% |
+| 13:30 | USD | GDP Sales (Q1) | 1.5% | 1.6% | 0.3% |
+| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Apr) | -1.1% | 0.4% | 3.9% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 209.00K | 211.00K | 202.75K |
+| 13:30 | USD | PCE Prices (Q1) | 4.5% | 4.5% | 2.9% |
+| 13:30 | USD | Personal Income (MoM) (Apr) | 0.0% | 0.4% | 0.5% |
+| 13:30 | USD | Real Consumer Spending (Q1) | 1.4% | 1.6% | 1.9% |
+| 13:30 | USD | Real Personal Consumption (MoM) (Apr) | 0.1% |  | 0.3% |
+| 13:30 | CAD | Average Weekly Earnings (YoY) (Mar) | 3.50% |  | 2.85% |
+| 14:00 | ZAR | Prime Rate (May) | 10.50% |  | 10.25% |
+| 33 min | USD | Dallas Fed PCE (Apr) |  |  | 2.90% |
+| 33 min | CAD | BoC Financial System Review |  |  |  |
 | 15:30 | USD | Natural Gas Storage |  | 96B | 101B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.610% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 3.600% |

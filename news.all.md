@@ -48,45 +48,45 @@
 | 11:00 | EUR | Low | Italian PPI (YoY) (Apr) | 6.8% |  | 4.2% |
 | 12:00 | CHF | Low | SNB Chairman Schlegel Speaks |  |  |  |
 | 12:00 | BRL | Low | IGP-M Inflation Index (MoM) (May) | 0.84% |  | 2.73% |
-| 12:30 | BRL | Low | Bank lending (MoM) (Apr) |  |  | 0.9% |
+| 12:30 | BRL | Low | Bank lending (MoM) (Apr) | 0.3% |  | 0.9% |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:00 | MXN | Low | Unemployment Rate (Apr) |  |  | 2.80% |
-| 13:00 | MXN | Low | Unemployment Rate n.s.a. (Apr) |  | 2.70% | 2.40% |
-| 13:00 | EUR | Low | Spanish Business Confidence (May) |  |  | -5.0 |
-| 13:00 | BRL | Low | Brazilian PPI (MoM) (Apr) |  |  | 2.37% |
-| 13:00 | BRL | Moderate | Unemployment Rate (Apr) |  | 5.9% | 6.1% |
-| 13:10 | USD | Moderate | Building Permits (Apr) |  | 1.442M | 1.363M |
-| 13:10 | USD | Low | Building Permits (MoM) (Apr) |  | 5.8% | -11.4% |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,780K | 1,782K |
-| 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Apr) |  | 0.5% | 0.9% |
-| 13:30 | USD | High | Core PCE Price Index (MoM) (Apr) |  | 0.3% | 0.3% |
-| 13:30 | USD | High | Core PCE Price Index (YoY) (Apr) |  | 3.3% | 3.2% |
-| 13:30 | USD | Moderate | Core PCE Prices (Q1) |  | 4.30% | 2.70% |
-| 13:30 | USD | Low | Corporate Profits (QoQ) (Q1) |  | 5.7% | 4.7% |
-| 13:30 | USD | High | Durable Goods Orders (MoM) (Apr) |  | 4.0% | 0.8% |
-| 13:30 | USD | Low | Durables Excluding Defense (MoM) (Apr) |  |  | -0.3% |
-| 13:30 | USD | High | GDP (QoQ) (Q1) |  | 2.0% | 0.5% |
-| 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q1) |  | 3.6% | 3.6% |
-| 13:30 | USD | Low | GDP Sales (Q1) |  | 1.6% | 0.3% |
-| 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Apr) |  | 0.4% | 3.3% |
-| 13:30 | USD | High | Initial Jobless Claims |  | 211K | 209K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  | 211.00K | 202.50K |
-| 13:30 | USD | Moderate | PCE price index (MoM) (Apr) |  | 0.5% | 0.7% |
-| 13:30 | USD | Moderate | PCE Price index (YoY) (Apr) |  | 3.8% | 3.5% |
-| 13:30 | USD | Low | PCE Prices (Q1) |  | 4.5% | 2.9% |
-| 13:30 | USD | Low | Personal Income (MoM) (Apr) |  | 0.4% | 0.6% |
-| 13:30 | USD | Moderate | Personal Spending (MoM) (Apr) |  | 0.5% | 0.9% |
-| 13:30 | USD | Low | Real Consumer Spending (Q1) |  | 1.6% | 1.9% |
-| 13:30 | USD | Low | Real Personal Consumption (MoM) (Apr) |  |  | 0.2% |
-| 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Mar) |  |  | 3.36% |
-| 13:30 | CAD | Moderate | Current Account (Q1) |  | -3.9B | -0.7B |
+| 13:00 | MXN | Low | Unemployment Rate (Apr) | 2.60% |  | 2.80% |
+| 13:00 | MXN | Low | Unemployment Rate n.s.a. (Apr) | 2.50% | 2.70% | 2.40% |
+| 13:00 | EUR | Low | Spanish Business Confidence (May) | -3.7 |  | -5.0 |
+| 13:00 | BRL | Low | Brazilian PPI (MoM) (Apr) | 2.63% |  | 2.28% |
+| 13:00 | BRL | Moderate | Unemployment Rate (Apr) | 5.8% | 5.9% | 6.1% |
+| 13:30 | USD | Moderate | Building Permits (Apr) | 1.423M | 1.442M | 1.363M |
+| 13:30 | USD | Low | Building Permits (MoM) (Apr) | 4.4% | 5.8% | -11.4% |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,786K | 1,780K | 1,771K |
+| 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Apr) | 1.1% | 0.5% | 1.1% |
+| 13:30 | USD | High | Core PCE Price Index (MoM) (Apr) | 0.2% | 0.3% | 0.3% |
+| 13:30 | USD | High | Core PCE Price Index (YoY) (Apr) | 3.3% | 3.3% | 3.2% |
+| 13:30 | USD | Moderate | Core PCE Prices (Q1) | 4.40% | 4.30% | 2.70% |
+| 13:30 | USD | Low | Corporate Profits (QoQ) (Q1) | -0.4% | 5.7% | 4.7% |
+| 13:30 | USD | High | Durable Goods Orders (MoM) (Apr) | 7.9% | 4.0% | 1.3% |
+| 13:30 | USD | Low | Durables Excluding Defense (MoM) (Apr) | 8.1% |  | -0.3% |
+| 13:30 | USD | High | GDP (QoQ) (Q1) | 1.6% | 2.0% | 0.5% |
+| 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q1) | 3.5% | 3.6% | 3.6% |
+| 13:30 | USD | Low | GDP Sales (Q1) | 1.5% | 1.6% | 0.3% |
+| 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Apr) | -1.1% | 0.4% | 3.9% |
+| 13:30 | USD | High | Initial Jobless Claims | 215K | 211K | 210K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 209.00K | 211.00K | 202.75K |
+| 13:30 | USD | Moderate | PCE price index (MoM) (Apr) | 0.4% | 0.5% | 0.7% |
+| 13:30 | USD | Moderate | PCE Price index (YoY) (Apr) | 3.8% | 3.8% | 3.5% |
+| 13:30 | USD | Low | PCE Prices (Q1) | 4.5% | 4.5% | 2.9% |
+| 13:30 | USD | Low | Personal Income (MoM) (Apr) | 0.0% | 0.4% | 0.5% |
+| 13:30 | USD | Moderate | Personal Spending (MoM) (Apr) | 0.5% | 0.5% | 1.0% |
+| 13:30 | USD | Low | Real Consumer Spending (Q1) | 1.4% | 1.6% | 1.9% |
+| 13:30 | USD | Low | Real Personal Consumption (MoM) (Apr) | 0.1% |  | 0.3% |
+| 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Mar) | 3.50% |  | 2.85% |
+| 13:30 | CAD | Moderate | Current Account (Q1) | -7.2B | -3.9B | -1.0B |
 | 13:55 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 14:00 | ZAR | Moderate | Interest Rate Decision (May) |  | 7.00% | 6.75% |
-| 14:00 | ZAR | Low | Prime Rate (May) |  |  | 10.25% |
-| 15:00 | USD | Low | Dallas Fed PCE (Apr) |  |  | 2.90% |
-| 15:00 | USD | High | New Home Sales (Apr) |  | 661K | 682K |
-| 15:00 | USD | Moderate | New Home Sales (MoM) (Apr) |  |  | 7.4% |
-| 15:00 | CAD | Low | BoC Financial System Review |  |  |  |
+| 14:00 | ZAR | Moderate | Interest Rate Decision (May) | 7.00% | 7.00% | 6.75% |
+| 14:00 | ZAR | Low | Prime Rate (May) | 10.50% |  | 10.25% |
+| 33 min | USD | Low | Dallas Fed PCE (Apr) |  |  | 2.90% |
+| 33 min | USD | High | New Home Sales (Apr) |  | 661K | 682K |
+| 33 min | USD | Moderate | New Home Sales (MoM) (Apr) |  |  | 7.4% |
+| 33 min | CAD | Low | BoC Financial System Review |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage |  | 96B | 101B |
 | 16:00 | CAD | Moderate | BOC Press Conference |  |  |  |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.610% |
