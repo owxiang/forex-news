@@ -24,8 +24,8 @@
 | 14:00 | ZAR | Interest Rate Decision (May) | 7.00% | 7.00% | 6.75% |
 | 15:00 | USD | New Home Sales (MoM) (Apr) | -6.2% |  | 3.4% |
 | 16:00 | CAD | BOC Press Conference |  |  |  |
-| 13 min | USD | Atlanta Fed GDPNow (Q2) |  | 4.3% | 4.3% |
-| 28 min | EUR | ECB's Schnabel Speaks |  |  |  |
-| 43 min | USD | Cushing Crude Oil Inventories |  |  | -1.604M |
-| 18:00 | USD | 7-Year Note Auction |  |  | 4.175% |
+| 16:30 | USD | Atlanta Fed GDPNow (Q2) | 3.8% | 4.3% | 4.3% |
+| 16:45 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 17:00 | USD | Cushing Crude Oil Inventories | -2.794M |  | -1.604M |
+| 18:00 | USD | 7-Year Note Auction | 4.290% |  | 4.175% |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,714B |

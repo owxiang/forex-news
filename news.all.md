@@ -87,23 +87,23 @@
 | 15:00 | USD | Moderate | New Home Sales (MoM) (Apr) | -6.2% |  | 3.4% |
 | 15:00 | CAD | Low | BoC Financial System Review |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage | 92B | 96B | 101B |
-| 16:00 | USD | Low | Dallas Fed PCE (Apr) |  |  | 2.90% |
 | 16:00 | CAD | Moderate | BOC Press Conference |  |  |  |
-| 13 min | USD | Low | 4-Week Bill Auction |  |  | 3.610% |
-| 13 min | USD | Low | 8-Week Bill Auction |  |  | 3.600% |
-| 13 min | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 4.3% | 4.3% |
-| 28 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 43 min | USD | High | Crude Oil Inventories |  | -3.800M | -7.863M |
-| 43 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.080M |
-| 43 min | USD | Low | Crude Oil Imports |  |  | 0.003M |
-| 43 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -1.604M |
-| 43 min | USD | Low | Distillate Fuel Production |  |  | 0.214M |
-| 43 min | USD | Low | EIA Weekly Distillates Stocks |  | -2.000M | 0.372M |
-| 43 min | USD | Low | Gasoline Production |  |  | -0.446M |
-| 43 min | USD | Low | Heating Oil Stockpiles |  |  | 0.021M |
-| 43 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.1% |
-| 43 min | USD | Low | Gasoline Inventories |  | -3.000M | -1.548M |
-| 18:00 | USD | Moderate | 7-Year Note Auction |  |  | 4.175% |
+| 16:30 | USD | Low | 4-Week Bill Auction | 3.630% |  | 3.610% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 3.615% |  | 3.600% |
+| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 3.8% | 4.3% | 4.3% |
+| 16:30 | USD | Low | Dallas Fed PCE (Apr) | 2.50% |  | 2.90% |
+| 16:45 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 17:00 | USD | High | Crude Oil Inventories | -3.327M | -3.800M | -7.863M |
+| 17:00 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.652M |  | -0.080M |
+| 17:00 | USD | Low | Crude Oil Imports | 0.360M |  | 0.003M |
+| 17:00 | USD | Moderate | Cushing Crude Oil Inventories | -2.794M |  | -1.604M |
+| 17:00 | USD | Low | Distillate Fuel Production | 0.076M |  | 0.214M |
+| 17:00 | USD | Low | EIA Weekly Distillates Stocks | -2.107M | -1.000M | 0.372M |
+| 17:00 | USD | Low | Gasoline Production | 0.600M |  | -0.446M |
+| 17:00 | USD | Low | Heating Oil Stockpiles | 0.306M |  | 0.021M |
+| 17:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 2.9% |  | -0.1% |
+| 17:00 | USD | Low | Gasoline Inventories | -2.572M | -2.400M | -1.548M |
+| 18:00 | USD | Moderate | 7-Year Note Auction | 4.290% |  | 4.175% |
 | 18:30 | BRL | Low | CAGED Net Payroll Jobs (Apr) |  |  | 228.21K |
 | 20:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,714B |

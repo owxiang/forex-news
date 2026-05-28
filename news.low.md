@@ -60,17 +60,17 @@
 | 14:00 | ZAR | Prime Rate (May) | 10.50% |  | 10.25% |
 | 15:00 | CAD | BoC Financial System Review |  |  |  |
 | 15:30 | USD | Natural Gas Storage | 92B | 96B | 101B |
-| 16:00 | USD | Dallas Fed PCE (Apr) |  |  | 2.90% |
-| 13 min | USD | 4-Week Bill Auction |  |  | 3.610% |
-| 13 min | USD | 8-Week Bill Auction |  |  | 3.600% |
-| 43 min | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.080M |
-| 43 min | USD | Crude Oil Imports |  |  | 0.003M |
-| 43 min | USD | Distillate Fuel Production |  |  | 0.214M |
-| 43 min | USD | EIA Weekly Distillates Stocks |  | -2.000M | 0.372M |
-| 43 min | USD | Gasoline Production |  |  | -0.446M |
-| 43 min | USD | Heating Oil Stockpiles |  |  | 0.021M |
-| 43 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.1% |
-| 43 min | USD | Gasoline Inventories |  | -3.000M | -1.548M |
+| 16:30 | USD | 4-Week Bill Auction | 3.630% |  | 3.610% |
+| 16:30 | USD | 8-Week Bill Auction | 3.615% |  | 3.600% |
+| 16:30 | USD | Dallas Fed PCE (Apr) | 2.50% |  | 2.90% |
+| 17:00 | USD | EIA Refinery Crude Runs (WoW) | 0.652M |  | -0.080M |
+| 17:00 | USD | Crude Oil Imports | 0.360M |  | 0.003M |
+| 17:00 | USD | Distillate Fuel Production | 0.076M |  | 0.214M |
+| 17:00 | USD | EIA Weekly Distillates Stocks | -2.107M | -1.000M | 0.372M |
+| 17:00 | USD | Gasoline Production | 0.600M |  | -0.446M |
+| 17:00 | USD | Heating Oil Stockpiles | 0.306M |  | 0.021M |
+| 17:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 2.9% |  | -0.1% |
+| 17:00 | USD | Gasoline Inventories | -2.572M | -2.400M | -1.548M |
 | 18:30 | BRL | CAGED Net Payroll Jobs (Apr) |  |  | 228.21K |
 | 20:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.106T |

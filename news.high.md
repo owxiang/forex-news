@@ -8,4 +8,4 @@
 | 13:30 | USD | GDP (QoQ) (Q1) | 1.6% | 2.0% | 0.5% |
 | 13:30 | USD | Initial Jobless Claims | 215K | 211K | 210K |
 | 15:00 | USD | New Home Sales (Apr) | 622K | 661K | 663K |
-| 43 min | USD | Crude Oil Inventories |  | -3.800M | -7.863M |
+| 17:00 | USD | Crude Oil Inventories | -3.327M | -3.800M | -7.863M |
