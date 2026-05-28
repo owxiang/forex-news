@@ -14,10 +14,10 @@
 | 02:30 | AUD | Low | RBA Bulletin |  |  |  |
 | 03:00 | NZD | Moderate | Annual Budget Release |  |  |  |
 | 03:00 | NZD | Low | ANZ Business Confidence (May) |  |  | -10.6 |
-| 03:00 | NZD | Low | Budget Balance (Jan) |  |  | -14.800B |
+| 03:00 | NZD | Low | Budget Balance (Jan) | -9.310B |  | -14.800B |
 | 03:00 | NZD | Low | NBNZ Own Activity (May) |  |  | 19.6% |
-| 03:00 | NZD | Low | Net Debt Forecast (Jan) |  |  | 43.30% |
-| 03:00 | NZD | Low | Economic Forecast (Jan) |  |  | -16.930B |
+| 03:00 | NZD | Low | Net Debt Forecast (Jan) | 42.40% |  | 43.30% |
+| 03:00 | NZD | Low | Economic Forecast (Jan) | -15.060B |  | -16.930B |
 | 03:25 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 06:00 | JPY | Low | Housing Starts (YoY) |  | 15.5% | -29.3% |
 | 07:00 | NOK | Low | GDP (QoQ) (Q1) |  |  | -0.3% |

@@ -11,10 +11,10 @@
 | 02:30 | AUD | Plant/Machinery Capital Expenditure (QoQ) (Q1) | 18.1% |  | -1.3% |
 | 02:30 | AUD | RBA Bulletin |  |  |  |
 | 03:00 | NZD | ANZ Business Confidence (May) |  |  | -10.6 |
-| 03:00 | NZD | Budget Balance (Jan) |  |  | -14.800B |
+| 03:00 | NZD | Budget Balance (Jan) | -9.310B |  | -14.800B |
 | 03:00 | NZD | NBNZ Own Activity (May) |  |  | 19.6% |
-| 03:00 | NZD | Net Debt Forecast (Jan) |  |  | 43.30% |
-| 03:00 | NZD | Economic Forecast (Jan) |  |  | -16.930B |
+| 03:00 | NZD | Net Debt Forecast (Jan) | 42.40% |  | 43.30% |
+| 03:00 | NZD | Economic Forecast (Jan) | -15.060B |  | -16.930B |
 | 03:25 | USD | Fed Goolsbee Speaks |  |  |  |
 | 06:00 | JPY | Housing Starts (YoY) |  | 15.5% | -29.3% |
 | 07:00 | NOK | GDP (QoQ) (Q1) |  |  | -0.3% |
