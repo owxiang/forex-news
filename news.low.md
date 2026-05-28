@@ -7,12 +7,12 @@
 | 01:00 | USD | Fed Governor Jefferson Speaks |  |  |  |
 | 02:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates |  |  |  |
 | 02:00 | KRW | Interest Rate Decision (May) | 2.50% | 2.50% | 2.50% |
-| 02:00 | NZD | ANZ Business Confidence (May) |  |  | -10.6 |
-| 02:00 | NZD | NBNZ Own Activity (May) |  |  | 19.6% |
-| 02:30 | AUD | Building Capital Expenditure (MoM) (Q1) |  |  | 2.3% |
-| 02:30 | AUD | Plant/Machinery Capital Expenditure (QoQ) (Q1) |  |  | -1.7% |
+| 02:30 | AUD | Building Capital Expenditure (MoM) (Q1) | -3.8% |  | 2.5% |
+| 02:30 | AUD | Plant/Machinery Capital Expenditure (QoQ) (Q1) | 18.1% |  | -1.3% |
 | 02:30 | AUD | RBA Bulletin |  |  |  |
+| 03:00 | NZD | ANZ Business Confidence (May) |  |  | -10.6 |
 | 03:00 | NZD | Budget Balance (Jan) |  |  | -14.800B |
+| 03:00 | NZD | NBNZ Own Activity (May) |  |  | 19.6% |
 | 03:00 | NZD | Net Debt Forecast (Jan) |  |  | 43.30% |
 | 03:00 | NZD | Economic Forecast (Jan) |  |  | -16.930B |
 | 03:25 | USD | Fed Goolsbee Speaks |  |  |  |

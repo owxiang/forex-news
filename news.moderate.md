@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:00 | EUR | ECB's Lane Speaks |  |  |  |
-| 02:30 | AUD | Private New Capital Expenditure (QoQ) (Q1) |  | 1.2% | 0.4% |
+| 02:30 | AUD | Private New Capital Expenditure (QoQ) (Q1) | 6.5% | 1.2% | 0.7% |
 | 03:00 | NZD | Annual Budget Release |  |  |  |
 | 07:30 | CHF | Employment Level (Q1) |  |  | 5.544M |
 | 08:15 | EUR | ECB's Lane Speaks |  |  |  |

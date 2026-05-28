@@ -8,14 +8,14 @@
 | 01:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 02:00 | KRW | Low | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates |  |  |  |
 | 02:00 | KRW | Low | Interest Rate Decision (May) | 2.50% | 2.50% | 2.50% |
-| 02:00 | NZD | Low | ANZ Business Confidence (May) |  |  | -10.6 |
-| 02:00 | NZD | Low | NBNZ Own Activity (May) |  |  | 19.6% |
-| 02:30 | AUD | Low | Building Capital Expenditure (MoM) (Q1) |  |  | 2.3% |
-| 02:30 | AUD | Low | Plant/Machinery Capital Expenditure (QoQ) (Q1) |  |  | -1.7% |
-| 02:30 | AUD | Moderate | Private New Capital Expenditure (QoQ) (Q1) |  | 1.2% | 0.4% |
+| 02:30 | AUD | Low | Building Capital Expenditure (MoM) (Q1) | -3.8% |  | 2.5% |
+| 02:30 | AUD | Low | Plant/Machinery Capital Expenditure (QoQ) (Q1) | 18.1% |  | -1.3% |
+| 02:30 | AUD | Moderate | Private New Capital Expenditure (QoQ) (Q1) | 6.5% | 1.2% | 0.7% |
 | 02:30 | AUD | Low | RBA Bulletin |  |  |  |
 | 03:00 | NZD | Moderate | Annual Budget Release |  |  |  |
+| 03:00 | NZD | Low | ANZ Business Confidence (May) |  |  | -10.6 |
 | 03:00 | NZD | Low | Budget Balance (Jan) |  |  | -14.800B |
+| 03:00 | NZD | Low | NBNZ Own Activity (May) |  |  | 19.6% |
 | 03:00 | NZD | Low | Net Debt Forecast (Jan) |  |  | 43.30% |
 | 03:00 | NZD | Low | Economic Forecast (Jan) |  |  | -16.930B |
 | 03:25 | USD | Low | Fed Goolsbee Speaks |  |  |  |
