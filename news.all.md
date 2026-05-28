@@ -2,12 +2,12 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:50 | JPY | Low | Foreign Bonds Buying |  |  | 758.7B |
-| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 949.6B |
+| 00:50 | JPY | Low | Foreign Bonds Buying | 10.3B |  | 762.1B |
+| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 1,080.4B |  | 948.4B |
 | 01:00 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
 | 01:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 02:00 | KRW | Low | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates |  |  |  |
-| 02:00 | KRW | Low | Interest Rate Decision (May) |  | 2.50% | 2.50% |
+| 02:00 | KRW | Low | Interest Rate Decision (May) | 2.50% | 2.50% | 2.50% |
 | 02:00 | NZD | Low | ANZ Business Confidence (May) |  |  | -10.6 |
 | 02:00 | NZD | Low | NBNZ Own Activity (May) |  |  | 19.6% |
 | 02:30 | AUD | Low | Building Capital Expenditure (MoM) (Q1) |  |  | 2.3% |
