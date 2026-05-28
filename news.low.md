@@ -19,20 +19,20 @@
 | 07:45 | EUR | French PPI (MoM) (Apr) | -2.1% |  | 1.9% |
 | 07:45 | EUR | PPI (YoY) (Apr) | 2.10% |  | 0.00% |
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Apr) | 0.8% |  | 4.1% |
-| 27 min | EUR | Italian Business Confidence (May) |  | 87.5 | 87.9 |
-| 27 min | EUR | Italian Consumer Confidence (May) |  | 90.1 | 90.8 |
-| 32 min | GBP | BoE Breeden Speaks |  |  |  |
-| 57 min | HKD | Exports (MoM) (Apr) |  |  | 35.8% |
-| 57 min | HKD | Imports (MoM) (Apr) |  |  | 41.2% |
-| 57 min | HKD | Trade Balance (Apr) |  |  | -89.1B |
-| 10:00 | EUR | Italian Trade Balance Non-EU (Apr) |  |  | 5.64B |
-| 10:00 | EUR | Business and Consumer Survey (May) |  | 92.8 | 93.0 |
-| 10:00 | EUR | Business Climate (May) |  |  | -0.28 |
-| 10:00 | EUR | Consumer Confidence (May) |  | -19.0 | -20.6 |
-| 10:00 | EUR | Consumer Inflation Expectation (May) |  |  | 49.1 |
-| 10:00 | EUR | Selling Price Expectations (May) |  |  | 31.1 |
-| 10:00 | EUR | Services Sentiment (May) |  | 0.2 | 0.9 |
-| 10:00 | EUR | Industrial Sentiment (May) |  | -8.0 | -7.7 |
+| 09:00 | EUR | Italian Business Confidence (May) | 87.9 | 87.5 | 87.9 |
+| 09:00 | EUR | Italian Consumer Confidence (May) | 93.4 | 90.1 | 90.8 |
+| 09:05 | GBP | BoE Breeden Speaks |  |  |  |
+| 09:30 | HKD | Exports (MoM) (Apr) | 42.9% |  | 35.8% |
+| 09:30 | HKD | Imports (MoM) (Apr) | 44.4% |  | 41.2% |
+| 09:30 | HKD | Trade Balance (Apr) | -29.5B |  | -89.1B |
+| 10:00 | EUR | Italian Trade Balance Non-EU (Apr) | 3.85B |  | 5.79B |
+| 10:00 | EUR | Business and Consumer Survey (May) | 93.5 | 92.8 | 93.2 |
+| 10:00 | EUR | Business Climate (May) | -0.26 |  | -0.27 |
+| 10:00 | EUR | Consumer Confidence (May) | -19.0 | -19.0 | -20.6 |
+| 10:00 | EUR | Consumer Inflation Expectation (May) | 40.5 |  | 48.8 |
+| 10:00 | EUR | Selling Price Expectations (May) | 27.4 |  | 30.2 |
+| 10:00 | EUR | Services Sentiment (May) | 2.2 | 0.2 | 1.4 |
+| 10:00 | EUR | Industrial Sentiment (May) | -8.0 | -8.0 | -7.7 |
 | 10:30 | GBP | 5-Year Treasury Gilt Auction |  |  | 4.651% |
 | 10:30 | EUR | Italian 5-Year BTP Auction |  |  | 3.32% |
 | 10:30 | ZAR | PPI (MoM) (Apr) |  |  | 1.1% |

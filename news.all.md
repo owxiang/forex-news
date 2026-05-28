@@ -25,20 +25,20 @@
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Apr) | 0.8% |  | 4.1% |
 | 08:10 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 08:15 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 27 min | EUR | Low | Italian Business Confidence (May) |  | 87.5 | 87.9 |
-| 27 min | EUR | Low | Italian Consumer Confidence (May) |  | 90.1 | 90.8 |
-| 32 min | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 57 min | HKD | Low | Exports (MoM) (Apr) |  |  | 35.8% |
-| 57 min | HKD | Low | Imports (MoM) (Apr) |  |  | 41.2% |
-| 57 min | HKD | Low | Trade Balance (Apr) |  |  | -89.1B |
-| 10:00 | EUR | Low | Italian Trade Balance Non-EU (Apr) |  |  | 5.64B |
-| 10:00 | EUR | Low | Business and Consumer Survey (May) |  | 92.8 | 93.0 |
-| 10:00 | EUR | Low | Business Climate (May) |  |  | -0.28 |
-| 10:00 | EUR | Low | Consumer Confidence (May) |  | -19.0 | -20.6 |
-| 10:00 | EUR | Low | Consumer Inflation Expectation (May) |  |  | 49.1 |
-| 10:00 | EUR | Low | Selling Price Expectations (May) |  |  | 31.1 |
-| 10:00 | EUR | Low | Services Sentiment (May) |  | 0.2 | 0.9 |
-| 10:00 | EUR | Low | Industrial Sentiment (May) |  | -8.0 | -7.7 |
+| 09:00 | EUR | Low | Italian Business Confidence (May) | 87.9 | 87.5 | 87.9 |
+| 09:00 | EUR | Low | Italian Consumer Confidence (May) | 93.4 | 90.1 | 90.8 |
+| 09:05 | GBP | Low | BoE Breeden Speaks |  |  |  |
+| 09:30 | HKD | Low | Exports (MoM) (Apr) | 42.9% |  | 35.8% |
+| 09:30 | HKD | Low | Imports (MoM) (Apr) | 44.4% |  | 41.2% |
+| 09:30 | HKD | Low | Trade Balance (Apr) | -29.5B |  | -89.1B |
+| 10:00 | EUR | Low | Italian Trade Balance Non-EU (Apr) | 3.85B |  | 5.79B |
+| 10:00 | EUR | Low | Business and Consumer Survey (May) | 93.5 | 92.8 | 93.2 |
+| 10:00 | EUR | Low | Business Climate (May) | -0.26 |  | -0.27 |
+| 10:00 | EUR | Low | Consumer Confidence (May) | -19.0 | -19.0 | -20.6 |
+| 10:00 | EUR | Low | Consumer Inflation Expectation (May) | 40.5 |  | 48.8 |
+| 10:00 | EUR | Low | Selling Price Expectations (May) | 27.4 |  | 30.2 |
+| 10:00 | EUR | Low | Services Sentiment (May) | 2.2 | 0.2 | 1.4 |
+| 10:00 | EUR | Low | Industrial Sentiment (May) | -8.0 | -8.0 | -7.7 |
 | 10:30 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.651% |
 | 10:30 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 4.09% |
 | 10:30 | EUR | Low | Italian 5-Year BTP Auction |  |  | 3.32% |
