@@ -1,31 +1,44 @@
-## 28 May 2026 - Moderate Impact Forex News
+## 29 May 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:00 | EUR | ECB's Lane Speaks |  |  |  |
-| 02:30 | AUD | Private New Capital Expenditure (QoQ) (Q1) | 6.5% | 1.2% | 0.7% |
-| 03:00 | NZD | Annual Budget Release |  |  |  |
-| 07:30 | CHF | Employment Level (Q1) | 5.537M |  | 5.544M |
-| 08:10 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 08:15 | EUR | ECB's Lane Speaks |  |  |  |
-| 10:30 | EUR | Italian 10-Year BTP Auction | 3.77% |  | 4.09% |
-| 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:00 | BRL | Unemployment Rate (Apr) | 5.8% | 5.9% | 6.1% |
-| 13:30 | USD | Building Permits (Apr) | 1.423M | 1.442M | 1.363M |
-| 13:30 | USD | Continuing Jobless Claims | 1,786K | 1,780K | 1,771K |
-| 13:30 | USD | Core Durable Goods Orders (MoM) (Apr) | 1.1% | 0.5% | 1.1% |
-| 13:30 | USD | Core PCE Prices (Q1) | 4.40% | 4.30% | 2.70% |
-| 13:30 | USD | GDP Price Index (QoQ) (Q1) | 3.5% | 3.6% | 3.6% |
-| 13:30 | USD | PCE price index (MoM) (Apr) | 0.4% | 0.5% | 0.7% |
-| 13:30 | USD | PCE Price index (YoY) (Apr) | 3.8% | 3.8% | 3.5% |
-| 13:30 | USD | Personal Spending (MoM) (Apr) | 0.5% | 0.5% | 1.0% |
-| 13:30 | CAD | Current Account (Q1) | -7.2B | -3.9B | -1.0B |
-| 13:55 | USD | FOMC Member Williams Speaks |  |  |  |
-| 14:00 | ZAR | Interest Rate Decision (May) | 7.00% | 7.00% | 6.75% |
-| 15:00 | USD | New Home Sales (MoM) (Apr) | -6.2% |  | 3.4% |
-| 16:00 | CAD | BOC Press Conference |  |  |  |
-| 16:30 | USD | Atlanta Fed GDPNow (Q2) | 3.8% | 4.3% | 4.3% |
-| 16:45 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 17:00 | USD | Cushing Crude Oil Inventories | -2.794M |  | -1.604M |
-| 18:00 | USD | 7-Year Note Auction | 4.290% |  | 4.175% |
-| 21:30 | USD | Fed's Balance Sheet | 6,704B |  | 6,714B |
+| 00:30 | JPY | Tokyo Core CPI (YoY) (May) | 1.3% | 1.5% | 1.5% |
+| 15 min | JPY | Industrial Production (MoM) (Apr) |  | -0.4% | -0.4% |
+| 07:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
+| 07:45 | EUR | French Consumer Spending (MoM) (Apr) |  | -0.1% | 0.7% |
+| 07:45 | EUR | French CPI (MoM) (May) |  | 0.2% | 1.0% |
+| 07:45 | EUR | French GDP (QoQ) (Q1) |  | 0.0% | 0.0% |
+| 07:45 | EUR | French GDP (YoY) (Q1) |  | 1.1% | 1.3% |
+| 07:45 | EUR | French HICP (MoM) (May) |  |  | 1.2% |
+| 08:00 | CHF | KOF Leading Indicators (May) |  | 98.0 | 97.9 |
+| 08:00 | EUR | Spanish CPI (YoY) (May) |  | 3.3% | 3.2% |
+| 08:00 | EUR | Spanish HICP (YoY) (May) |  |  | 3.5% |
+| 08:55 | EUR | German Unemployment Change (May) |  | 11K | 20K |
+| 08:55 | EUR | German Unemployment Rate (May) |  | 6.4% | 6.4% |
+| 09:20 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 11:00 | EUR | France Jobseekers Total (Apr) |  |  | 3,109.1K |
+| 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Apr) |  |  | 80.1% |
+| 13:00 | EUR | German CPI (YoY) (May) |  | 2.9% | 2.9% |
+| 13:00 | BRL | GDP (YoY) (Q1) |  | 1.8% | 1.8% |
+| 13:00 | BRL | GDP (QoQ) (Q1) |  | 1.0% | 0.1% |
+| 13:00 | BRL | Unemployment Rate (Apr) |  |  | 6.1% |
+| 13:30 | USD | Goods Trade Balance (Apr) |  | -86.70B | -87.45B |
+| 13:30 | USD | Retail Inventories Ex Auto (Apr) |  |  | 0.4% |
+| 13:30 | CAD | GDP (MoM) (Mar) |  | 0.1% | 0.2% |
+| 13:30 | CAD | GDP (QoQ) (Q1) |  |  | -0.2% |
+| 13:30 | CAD | GDP (YoY) (Q1) |  |  | 0.72% |
+| 13:30 | CAD | GDP Annualized (QoQ) (Q1) |  | 1.5% | -0.6% |
+| 13:31 | CAD | GDP (MoM) (Apr) |  |  |  |
+| 14:10 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 17:40 | USD | FOMC Member Daly Speaks |  |  |  |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 425 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 558 |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | -64.3K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 172.6K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 159.8K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | -1.4K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -140.6K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | 85.6K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 71.0K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | -93.9K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 33.5K |

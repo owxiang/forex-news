@@ -1,110 +1,138 @@
-## 28 May 2026 - All Forex News
+## 29 May 2026 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:50 | JPY | Low | Foreign Bonds Buying | 10.3B |  | 762.1B |
-| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 1,080.4B |  | 948.4B |
-| 01:00 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
-| 01:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 02:00 | KRW | Low | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates |  |  |  |
-| 02:00 | KRW | Low | Interest Rate Decision (May) | 2.50% | 2.50% | 2.50% |
-| 02:30 | AUD | Low | Building Capital Expenditure (MoM) (Q1) | -3.8% |  | 2.5% |
-| 02:30 | AUD | Low | Plant/Machinery Capital Expenditure (QoQ) (Q1) | 18.1% |  | -1.3% |
-| 02:30 | AUD | Moderate | Private New Capital Expenditure (QoQ) (Q1) | 6.5% | 1.2% | 0.7% |
-| 02:30 | AUD | Low | RBA Bulletin |  |  |  |
-| 03:00 | NZD | Moderate | Annual Budget Release |  |  |  |
-| 03:00 | NZD | Low | Budget Balance (Jan) | -9.310B |  | -14.800B |
-| 03:00 | NZD | Low | Net Debt Forecast (Jan) | 42.40% |  | 43.30% |
-| 03:00 | NZD | Low | Economic Forecast (Jan) | -15.060B |  | -16.934B |
-| 03:25 | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 07:00 | NOK | Low | GDP (QoQ) (Q1) | 0.4% |  | -0.6% |
-| 07:00 | NOK | Low | GDP Mainland (QoQ) (Q1) | 0.2% | 0.3% | 0.2% |
-| 07:30 | CHF | Moderate | Employment Level (Q1) | 5.537M |  | 5.544M |
-| 07:45 | EUR | Low | French PPI (MoM) (Apr) | -2.1% |  | 1.9% |
-| 07:45 | EUR | Low | PPI (YoY) (Apr) | 2.10% |  | 0.00% |
-| 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Apr) | 0.8% |  | 4.1% |
-| 08:10 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 08:15 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 09:00 | EUR | Low | Italian Business Confidence (May) | 87.9 | 87.5 | 87.9 |
-| 09:00 | EUR | Low | Italian Consumer Confidence (May) | 93.4 | 90.1 | 90.8 |
-| 09:05 | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 09:30 | HKD | Low | Exports (MoM) (Apr) | 42.9% |  | 35.8% |
-| 09:30 | HKD | Low | Imports (MoM) (Apr) | 44.4% |  | 41.2% |
-| 09:30 | HKD | Low | Trade Balance (Apr) | -29.5B |  | -89.1B |
-| 10:00 | EUR | Low | Italian Trade Balance Non-EU (Apr) | 3.85B |  | 5.79B |
-| 10:00 | EUR | Low | Business and Consumer Survey (May) | 93.5 | 92.8 | 93.2 |
-| 10:00 | EUR | Low | Business Climate (May) | -0.26 |  | -0.27 |
-| 10:00 | EUR | Low | Consumer Confidence (May) | -19.0 | -19.0 | -20.6 |
-| 10:00 | EUR | Low | Consumer Inflation Expectation (May) | 40.5 |  | 48.8 |
-| 10:00 | EUR | Low | Selling Price Expectations (May) | 27.4 |  | 30.2 |
-| 10:00 | EUR | Low | Services Sentiment (May) | 2.2 | 0.2 | 1.4 |
-| 10:00 | EUR | Low | Industrial Sentiment (May) | -8.0 | -8.0 | -7.7 |
-| 10:30 | GBP | Low | 5-Year Treasury Gilt Auction | 4.277% |  | 4.651% |
-| 10:30 | EUR | Moderate | Italian 10-Year BTP Auction | 3.77% |  | 4.09% |
-| 10:30 | EUR | Low | Italian 5-Year BTP Auction | 3.16% |  | 3.32% |
-| 10:30 | ZAR | Low | PPI (MoM) (Apr) | 3.0% |  | 1.1% |
-| 10:30 | ZAR | Low | PPI (YoY) (Apr) | 4.8% |  | 2.3% |
-| 11:00 | EUR | Low | Italian PPI (MoM) (Apr) | 0.3% |  | 4.4% |
-| 11:00 | EUR | Low | Italian PPI (YoY) (Apr) | 6.8% |  | 4.2% |
-| 12:00 | CHF | Low | SNB Chairman Schlegel Speaks |  |  |  |
-| 12:00 | BRL | Low | IGP-M Inflation Index (MoM) (May) | 0.84% |  | 2.73% |
-| 12:30 | BRL | Low | Bank lending (MoM) (Apr) | 0.3% |  | 0.9% |
-| 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:00 | MXN | Low | Unemployment Rate (Apr) | 2.60% |  | 2.80% |
-| 13:00 | MXN | Low | Unemployment Rate n.s.a. (Apr) | 2.50% | 2.70% | 2.40% |
-| 13:00 | EUR | Low | Spanish Business Confidence (May) | -3.7 |  | -5.0 |
-| 13:00 | BRL | Low | Brazilian PPI (MoM) (Apr) | 2.63% |  | 2.28% |
-| 13:00 | BRL | Moderate | Unemployment Rate (Apr) | 5.8% | 5.9% | 6.1% |
-| 13:30 | USD | Moderate | Building Permits (Apr) | 1.423M | 1.442M | 1.363M |
-| 13:30 | USD | Low | Building Permits (MoM) (Apr) | 4.4% | 5.8% | -11.4% |
-| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,786K | 1,780K | 1,771K |
-| 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Apr) | 1.1% | 0.5% | 1.1% |
-| 13:30 | USD | High | Core PCE Price Index (MoM) (Apr) | 0.2% | 0.3% | 0.3% |
-| 13:30 | USD | High | Core PCE Price Index (YoY) (Apr) | 3.3% | 3.3% | 3.2% |
-| 13:30 | USD | Moderate | Core PCE Prices (Q1) | 4.40% | 4.30% | 2.70% |
-| 13:30 | USD | Low | Corporate Profits (QoQ) (Q1) | -0.4% | 5.7% | 4.7% |
-| 13:30 | USD | High | Durable Goods Orders (MoM) (Apr) | 7.9% | 4.0% | 1.3% |
-| 13:30 | USD | Low | Durables Excluding Defense (MoM) (Apr) | 8.1% |  | -0.3% |
-| 13:30 | USD | High | GDP (QoQ) (Q1) | 1.6% | 2.0% | 0.5% |
-| 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q1) | 3.5% | 3.6% | 3.6% |
-| 13:30 | USD | Low | GDP Sales (Q1) | 1.5% | 1.6% | 0.3% |
-| 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Apr) | -1.1% | 0.4% | 3.9% |
-| 13:30 | USD | High | Initial Jobless Claims | 215K | 211K | 210K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 209.00K | 211.00K | 202.75K |
-| 13:30 | USD | Moderate | PCE price index (MoM) (Apr) | 0.4% | 0.5% | 0.7% |
-| 13:30 | USD | Moderate | PCE Price index (YoY) (Apr) | 3.8% | 3.8% | 3.5% |
-| 13:30 | USD | Low | PCE Prices (Q1) | 4.5% | 4.5% | 2.9% |
-| 13:30 | USD | Low | Personal Income (MoM) (Apr) | 0.0% | 0.4% | 0.5% |
-| 13:30 | USD | Moderate | Personal Spending (MoM) (Apr) | 0.5% | 0.5% | 1.0% |
-| 13:30 | USD | Low | Real Consumer Spending (Q1) | 1.4% | 1.6% | 1.9% |
-| 13:30 | USD | Low | Real Personal Consumption (MoM) (Apr) | 0.1% |  | 0.3% |
-| 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Mar) | 3.50% |  | 2.85% |
-| 13:30 | CAD | Moderate | Current Account (Q1) | -7.2B | -3.9B | -1.0B |
-| 13:55 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 14:00 | ZAR | Moderate | Interest Rate Decision (May) | 7.00% | 7.00% | 6.75% |
-| 14:00 | ZAR | Low | Prime Rate (May) | 10.50% |  | 10.25% |
-| 15:00 | USD | High | New Home Sales (Apr) | 622K | 661K | 663K |
-| 15:00 | USD | Moderate | New Home Sales (MoM) (Apr) | -6.2% |  | 3.4% |
-| 15:00 | CAD | Low | BoC Financial System Review |  |  |  |
-| 15:30 | USD | Low | Natural Gas Storage | 92B | 96B | 101B |
-| 16:00 | CAD | Moderate | BOC Press Conference |  |  |  |
-| 16:30 | USD | Low | 4-Week Bill Auction | 3.630% |  | 3.610% |
-| 16:30 | USD | Low | 8-Week Bill Auction | 3.615% |  | 3.600% |
-| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 3.8% | 4.3% | 4.3% |
-| 16:30 | USD | Low | Dallas Fed PCE (Apr) | 2.50% |  | 2.90% |
-| 16:45 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 17:00 | USD | High | Crude Oil Inventories | -3.327M | -3.800M | -7.863M |
-| 17:00 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.652M |  | -0.080M |
-| 17:00 | USD | Low | Crude Oil Imports | 0.360M |  | 0.003M |
-| 17:00 | USD | Moderate | Cushing Crude Oil Inventories | -2.794M |  | -1.604M |
-| 17:00 | USD | Low | Distillate Fuel Production | 0.076M |  | 0.214M |
-| 17:00 | USD | Low | EIA Weekly Distillates Stocks | -2.107M | -1.000M | 0.372M |
-| 17:00 | USD | Low | Gasoline Production | 0.600M |  | -0.446M |
-| 17:00 | USD | Low | Heating Oil Stockpiles | 0.306M |  | 0.021M |
-| 17:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 2.9% |  | -0.1% |
-| 17:00 | USD | Low | Gasoline Inventories | -2.572M | -2.400M | -1.548M |
-| 18:00 | USD | Moderate | 7-Year Note Auction | 4.290% |  | 4.175% |
-| 18:30 | BRL | Low | CAGED Net Payroll Jobs (Apr) | 85.89K |  | 228.21K |
-| 20:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,704B |  | 6,714B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.067T |  | 3.106T |
+| 00:00 | KRW | Low | Industrial Production (YoY) (Apr) | 1.5% | 2.2% | 3.9% |
+| 00:00 | KRW | Low | Industrial Production (MoM) (Apr) | -0.7% | 0.3% | 0.6% |
+| 00:00 | KRW | Low | Retail Sales (MoM) (Apr) | -3.6% |  | 1.9% |
+| 00:00 | KRW | Low | Service Sector Output (MoM) (Apr) | -1.0% |  | 1.5% |
+| 00:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (May) |  |  | 0.9% |
+| 00:30 | JPY | Low | Jobs/applications ratio (Apr) | 1.18 | 1.18 | 1.18 |
+| 00:30 | JPY | Moderate | Tokyo Core CPI (YoY) (May) | 1.3% | 1.5% | 1.5% |
+| 00:30 | JPY | Low | Tokyo CPI (YoY) (May) | 1.4% |  | 1.5% |
+| 00:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (May) |  |  | 0.2% |
+| 00:30 | JPY | Low | Unemployment Rate (Apr) | 2.5% | 2.7% | 2.7% |
+| 15 min | JPY | Moderate | Industrial Production (MoM) (Apr) |  | -0.4% | -0.4% |
+| 15 min | JPY | Low | Industrial Production forecast 1m ahead (MoM) (May) |  |  | 2.1% |
+| 15 min | JPY | Low | Industrial Production forecast 2m ahead (MoM) (Jun) |  |  | 2.2% |
+| 15 min | JPY | Low | Large Scale Retail Sales YoY (YoY) (Apr) |  |  | 2.0% |
+| 15 min | JPY | Low | Retail Sales (YoY) (Apr) |  | 1.4% | 1.4% |
+| 02:00 | NZD | Low | ANZ Business Confidence (May) |  |  | -10.6 |
+| 02:00 | NZD | Low | NBNZ Own Activity (May) |  |  | 19.6% |
+| 02:30 | AUD | Low | Housing Credit (Apr) |  |  | 0.6% |
+| 02:30 | AUD | Low | Private Sector Credit (MoM) (Apr) |  | 0.6% | 0.7% |
+| 03:00 | SGD | Low | Bank Lending (Apr) |  |  | 902.3B |
+| 04:00 | NZD | Low | M3 Money Supply (Apr) |  |  | 455,643.0B |
+| 04:35 | JPY | Low | 2-Year JGB Auction |  |  | 1.407% |
+| 06:00 | JPY | Low | Construction Orders (YoY) (Apr) |  |  | -14.4% |
+| 06:00 | JPY | Low | Household Confidence (May) |  | 32.3 | 32.2 |
+| 06:00 | JPY | Low | Housing Starts (YoY) (Apr) |  | 14.7% | -29.3% |
+| 06:00 | JPY | Low | Housing Starts (YoY) (Apr) |  | 15.5% | -29.3% |
+| 07:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
+| 07:00 | EUR | Low | German Import Price Index (MoM) (Apr) |  |  | 3.6% |
+| 07:00 | EUR | Low | German Import Price Index (YoY) (Apr) |  |  | 2.3% |
+| 07:00 | NOK | Low | Unemployment Rate n.s.a. (May) |  | 2.10% | 2.10% |
+| 07:00 | NOK | Low | Core Retail Sales (MoM) (Apr) |  |  | -0.1% |
+| 07:00 | ZAR | Low | M3 Money Supply (YoY) (Apr) |  |  | 8.96% |
+| 07:00 | ZAR | Low | Private Sector Credit (Apr) |  |  | 8.50% |
+| 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Apr) |  | -0.1% | 0.7% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (May) |  | 0.2% | 1.0% |
+| 07:45 | EUR | Low | French CPI (YoY) (May) |  | 2.6% | 2.2% |
+| 07:45 | EUR | Moderate | French GDP (QoQ) (Q1) |  | 0.0% | 0.0% |
+| 07:45 | EUR | Moderate | French GDP (YoY) (Q1) |  | 1.1% | 1.3% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (May) |  |  | 1.2% |
+| 07:45 | EUR | Low | French HICP (YoY) (May) |  | 2.9% | 2.5% |
+| 07:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q1) |  | -0.1% | -0.1% |
+| 08:00 | CHF | Moderate | KOF Leading Indicators (May) |  | 98.0 | 97.9 |
+| 08:00 | CHF | Low | Official Reserves Assets (Apr) |  |  | 856.0B |
+| 08:00 | EUR | Low | Core CPI (YoY) (May) |  |  | 2.8% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (May) |  |  | 0.4% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (May) |  | 3.3% | 3.2% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (May) |  |  | 0.7% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (May) |  |  | 3.5% |
+| 08:55 | EUR | Moderate | German Unemployment Change (May) |  | 11K | 20K |
+| 08:55 | EUR | Moderate | German Unemployment Rate (May) |  | 6.4% | 6.4% |
+| 08:55 | EUR | Low | German Unemployment (May) |  |  | 3.006M |
+| 08:55 | EUR | Low | German Unemployment n.s.a. (May) |  |  | 3.008M |
+| 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Apr) |  | 5.3% | 5.2% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (May) |  |  | 0.6% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (May) |  |  | 2.6% |
+| 09:00 | EUR | Low | Bavaria CPI (YoY) (May) |  |  | 2.9% |
+| 09:00 | EUR | Low | Bavaria CPI (MoM) (May) |  |  | 0.5% |
+| 09:00 | EUR | Low | Brandenburg CPI (YoY) (May) |  |  | 2.9% |
+| 09:00 | EUR | Low | Brandenburg CPI (MoM) (May) |  |  | 0.6% |
+| 09:00 | EUR | Low | Hesse CPI (MoM) (May) |  |  | 0.4% |
+| 09:00 | EUR | Low | Hesse CPI (YoY) |  |  | 2.8% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (May) |  |  | 0.4% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (May) |  |  | 2.7% |
+| 09:00 | EUR | Low | Saxony CPI (YoY) (May) |  |  | 2.9% |
+| 09:00 | EUR | Low | Saxony CPI (MoM) (May) |  |  | 0.6% |
+| 09:00 | EUR | Low | Spanish Current account (Mar) |  |  | 4.04B |
+| 09:00 | NOK | Low | Central Bank Currency Purchase (Jun) |  |  | -100.0M |
+| 09:00 | EUR | Low | Private Sector Loans (YoY) (Apr) |  |  | 3.0% |
+| 09:20 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 09:30 | HKD | Low | M3 Money Supply (Apr) |  |  | 1.2% |
+| 10:00 | EUR | Low | Italian CPI (MoM) (May) |  | 0.2% | 1.1% |
+| 10:00 | EUR | Low | Italian CPI (YoY) (May) |  |  | 2.7% |
+| 10:00 | EUR | Low | Italian HICP (MoM) (May) |  |  | 1.6% |
+| 10:00 | EUR | Low | Italian HICP (YoY) (May) |  | 3.0% | 2.8% |
+| 11:00 | EUR | Low | Italian GDP (QoQ) (Q1) |  | 0.2% | 0.3% |
+| 11:00 | EUR | Low | Italian GDP (YoY) (Q1) |  | 0.7% | 0.8% |
+| 11:00 | INR | Low | Federal Fiscal Deficit (Mar) |  |  | 12,526.49B |
+| 11:00 | EUR | Moderate | France Jobseekers Total (Apr) |  |  | 3,109.1K |
+| 12:00 | BRL | Low | IGP-M Inflation Index (MoM) (May) |  | 0.80% | 2.73% |
+| 12:30 | INR | Low | FX Reserves, USD |  |  | 688.89B |
+| 12:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
+| 12:30 | BRL | Low | Net Debt-to-GDP ratio (Apr) |  |  | 66.8% |
+| 12:30 | BRL | Low | Budget Balance (Apr) |  | -49.800B | -199.539B |
+| 12:30 | BRL | Low | Budget Surplus (Apr) |  |  | -80.676B |
+| 12:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Apr) |  |  | 80.1% |
+| 13:00 | INR | Low | Bank Loan Growth |  |  | 16.0% |
+| 13:00 | INR | Low | Deposit Growth |  |  | 12.3% |
+| 13:00 | EUR | High | German CPI (MoM) (May) |  | 0.1% | 0.6% |
+| 13:00 | EUR | Moderate | German CPI (YoY) (May) |  | 2.9% | 2.9% |
+| 13:00 | EUR | Low | German HICP (MoM) (May) |  | 0.2% | 0.5% |
+| 13:00 | EUR | Low | German HICP (YoY) (May) |  | 2.9% | 2.9% |
+| 13:00 | BRL | Moderate | GDP (YoY) (Q1) |  | 1.8% | 1.8% |
+| 13:00 | BRL | Moderate | GDP (QoQ) (Q1) |  | 1.0% | 0.1% |
+| 13:00 | BRL | Moderate | Unemployment Rate (Apr) |  |  | 6.1% |
+| 13:00 | ZAR | Low | Trade Balance (Apr) |  |  | 31.87B |
+| 13:30 | USD | Moderate | Goods Trade Balance (Apr) |  | -86.70B | -87.45B |
+| 13:30 | USD | Moderate | Retail Inventories Ex Auto (Apr) |  |  | 0.4% |
+| 13:30 | USD | Low | Wholesale Inventories (MoM) (Apr) |  | 0.6% | 1.3% |
+| 13:30 | CAD | Low | GDP Implicit Price (QoQ) (Q1) |  |  | 0.70% |
+| 13:30 | CAD | Moderate | GDP (MoM) (Mar) |  | 0.1% | 0.2% |
+| 13:30 | CAD | Moderate | GDP (QoQ) (Q1) |  |  | -0.2% |
+| 13:30 | CAD | Moderate | GDP (YoY) (Q1) |  |  | 0.72% |
+| 13:30 | CAD | Moderate | GDP Annualized (QoQ) (Q1) |  | 1.5% | -0.6% |
+| 13:31 | CAD | Moderate | GDP (MoM) (Apr) |  |  |  |
+| 14:10 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 14:45 | USD | High | Chicago PMI (May) |  | 50.6 | 49.2 |
+| 16:00 | CAD | Low | Budget Balance (Mar) |  |  | 5.66B |
+| 16:00 | CAD | Low | Budget Balance (YoY) (Mar) |  |  | -25.55B |
+| 17:29 | ZAR | Low | Budget Balance (MoM) (Apr) |  |  | -45.61B |
+| 17:40 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 425 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 558 |
+| 18:30 | BRL | Low | CAGED Net Payroll Jobs (Apr) |  | 230.00K | 228.21K |
+| 20:00 | MXN | Low | Fiscal Balance (Apr) |  |  | -110.10B |
+| 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -64.3K |
+| 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 0.5K |
+| 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 75.9K |
+| 20:30 | USD | Low | CFTC Corn speculative net positions |  |  | 358.1K |
+| 20:30 | USD | Moderate | CFTC Crude Oil speculative net positions |  |  | 172.6K |
+| 20:30 | USD | Moderate | CFTC Gold speculative net positions |  |  | 159.8K |
+| 20:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions |  |  | -1.4K |
+| 20:30 | USD | Low | CFTC Natural Gas speculative net positions |  |  | -192.2K |
+| 20:30 | USD | Moderate | CFTC S&P 500 speculative net positions |  |  | -140.6K |
+| 20:30 | USD | Low | CFTC Silver speculative net positions |  |  | 24.7K |
+| 20:30 | USD | Low | CFTC Soybeans speculative net positions |  |  | 212.2K |
+| 20:30 | USD | Low | CFTC Wheat speculative net positions |  |  | 0.3K |
+| 20:30 | CAD | Low | CFTC CAD speculative net positions |  |  | -31.2K |
+| 20:30 | MXN | Low | CFTC MXN speculative net positions |  |  | 62.2K |
+| 20:30 | CHF | Low | CFTC CHF speculative net positions |  |  | -36.9K |
+| 20:30 | AUD | Moderate | CFTC AUD speculative net positions |  |  | 85.6K |
+| 20:30 | BRL | Moderate | CFTC BRL speculative net positions |  |  | 71.0K |
+| 20:30 | JPY | Moderate | CFTC JPY speculative net positions |  |  | -93.9K |
+| 20:30 | NZD | Low | CFTC NZD speculative net positions |  |  | -40.6K |
+| 20:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | 33.5K |
