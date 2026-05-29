@@ -30,8 +30,8 @@
 | 13:31 | CAD | GDP (MoM) (Apr) | 0.4% |  | -0.1% |
 | 14:10 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 17:40 | USD | FOMC Member Daly Speaks |  |  |  |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 425 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 558 |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 429 |  | 425 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count | 562 |  | 558 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -64.3K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 172.6K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 159.8K |

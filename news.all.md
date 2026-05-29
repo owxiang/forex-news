@@ -107,8 +107,8 @@
 | 16:00 | CAD | Low | Budget Balance (Mar) | -29.73B |  | 5.66B |
 | 16:00 | CAD | Low | Budget Balance (YoY) (Mar) | -55.28B |  | -25.55B |
 | 17:40 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 425 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 558 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 429 |  | 425 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 562 |  | 558 |
 | 20:00 | MXN | Low | Fiscal Balance (Apr) |  |  | -110.10B |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -64.3K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 0.5K |
