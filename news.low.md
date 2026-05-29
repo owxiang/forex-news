@@ -35,7 +35,7 @@
 | 08:00 | EUR | Core CPI (YoY) (May) | 2.9% |  | 2.8% |
 | 08:00 | EUR | Spanish CPI (MoM) (May) | 0.1% | 0.2% | 0.4% |
 | 08:00 | EUR | Spanish HICP (MoM) (May) | 0.1% | 0.2% | 0.7% |
-| 08:55 | EUR | German Unemployment (May) | 2.987M |  | 3.006M |
+| 08:55 | EUR | German Unemployment (May) | 2.987M |  | 2.998M |
 | 08:55 | EUR | German Unemployment n.s.a. (May) | 2.950M |  | 3.008M |
 | 09:00 | EUR | Italian Monthly Unemployment Rate (Apr) | 5.1% | 5.3% | 5.2% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (May) | -0.3% |  | 0.6% |
@@ -61,21 +61,21 @@
 | 10:00 | ZAR | Private Sector Credit (Apr) | 9.20% |  | 8.50% |
 | 11:00 | EUR | Italian GDP (QoQ) (Q1) | 0.3% | 0.2% | 0.3% |
 | 11:00 | EUR | Italian GDP (YoY) (Q1) | 0.8% | 0.7% | 0.8% |
-| 12:00 | BRL | IGP-M Inflation Index (MoM) (May) |  | 0.80% | 2.73% |
-| 16 min | INR | Federal Fiscal Deficit (Mar) |  |  | 12,526.49B |
-| 16 min | INR | FX Reserves, USD |  |  | 688.89B |
-| 16 min | INR | RBI Monetary and Credit Information Review |  |  |  |
-| 16 min | BRL | Net Debt-to-GDP ratio (Apr) |  |  | 66.8% |
-| 16 min | BRL | Budget Balance (Apr) |  | -50.700B | -199.539B |
-| 16 min | BRL | Budget Surplus (Apr) |  |  | -80.676B |
-| 46 min | INR | Bank Loan Growth |  |  | 16.0% |
-| 46 min | INR | Deposit Growth |  |  | 12.3% |
-| 46 min | EUR | German HICP (MoM) (May) |  | 0.2% | 0.5% |
-| 46 min | EUR | German HICP (YoY) (May) |  | 2.8% | 2.9% |
-| 46 min | ZAR | Budget Balance (MoM) (Apr) |  |  | -45.61B |
-| 46 min | ZAR | Trade Balance (Apr) |  |  | 31.87B |
-| 13:30 | USD | Wholesale Inventories (MoM) (Apr) |  | 0.6% | 1.3% |
-| 13:30 | CAD | GDP Implicit Price (QoQ) (Q1) |  |  | 0.70% |
+| 12:00 | INR | Bank Loan Growth | 16.2% |  | 16.0% |
+| 12:00 | INR | Deposit Growth | 12.2% |  | 12.3% |
+| 12:00 | INR | M3 Money Supply | 12.0% |  | 12.0% |
+| 12:30 | INR | FX Reserves, USD | 681.38B |  | 688.89B |
+| 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
+| 12:30 | BRL | Net Debt-to-GDP ratio (Apr) | 67.4% |  | 66.8% |
+| 12:30 | BRL | Budget Balance (Apr) | -60.139B | -50.700B | -199.539B |
+| 12:30 | BRL | Budget Surplus (Apr) | 24.624B |  | -80.676B |
+| 13:00 | EUR | German HICP (MoM) (May) | -0.1% | 0.2% | 0.5% |
+| 13:00 | EUR | German HICP (YoY) (May) | 2.7% | 2.8% | 2.9% |
+| 13:00 | ZAR | Trade Balance (Apr) | 15.16B |  | 30.21B |
+| 13:00 | ZAR | Budget Balance (MoM) (Apr) | -63.57B |  | -45.61B |
+| 13:30 | USD | Wholesale Inventories (MoM) (Apr) | 0.5% | 0.6% | 1.5% |
+| 13:30 | CAD | GDP Implicit Price (QoQ) (Q1) | 1.10% |  | 1.00% |
+| 14:30 | INR | Federal Fiscal Deficit (Mar) |  |  | 12,526.49B |
 | 16:00 | CAD | Budget Balance (Mar) |  |  | 5.66B |
 | 16:00 | CAD | Budget Balance (YoY) (Mar) |  |  | -25.55B |
 | 20:00 | MXN | Fiscal Balance (Apr) |  |  | -110.10B |

@@ -13,22 +13,21 @@
 | 08:00 | CHF | KOF Leading Indicators (May) | 98.0 | 98.0 | 97.8 |
 | 08:00 | EUR | Spanish CPI (YoY) (May) | 3.2% | 3.3% | 3.2% |
 | 08:00 | EUR | Spanish HICP (YoY) (May) | 3.6% | 3.6% | 3.5% |
-| 08:55 | EUR | German Unemployment Change (May) | -12K | 11K | 20K |
+| 08:55 | EUR | German Unemployment Change (May) | -12K | 11K | 19K |
 | 08:55 | EUR | German Unemployment Rate (May) | 6.3% | 6.4% | 6.4% |
 | 09:20 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 11:00 | EUR | France Jobseekers Total (Apr) | 3,100.1K |  | 3,109.1K |
-| 16 min | BRL | Gross Debt-to-GDP ratio (MoM) (Apr) |  | 80.3% | 80.1% |
-| 46 min | EUR | German CPI (YoY) (May) |  | 2.9% | 2.9% |
-| 46 min | BRL | GDP (YoY) (Q1) |  | 1.8% | 1.8% |
-| 46 min | BRL | GDP (QoQ) (Q1) |  | 1.0% | 0.1% |
-| 46 min | BRL | Unemployment Rate (Apr) |  |  | 6.1% |
-| 13:30 | USD | Goods Trade Balance (Apr) |  | -86.70B | -87.45B |
-| 13:30 | USD | Retail Inventories Ex Auto (Apr) |  |  | 0.4% |
-| 13:30 | CAD | GDP (MoM) (Mar) |  | 0.1% | 0.2% |
-| 13:30 | CAD | GDP (QoQ) (Q1) |  |  | -0.2% |
-| 13:30 | CAD | GDP (YoY) (Q1) |  |  | 0.72% |
-| 13:30 | CAD | GDP Annualized (QoQ) (Q1) |  | 1.5% | -0.6% |
-| 13:31 | CAD | GDP (MoM) (Apr) |  |  |  |
+| 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Apr) | 80.4% | 80.3% | 80.0% |
+| 13:00 | EUR | German CPI (YoY) (May) | 2.6% | 2.9% | 2.9% |
+| 13:00 | BRL | GDP (YoY) (Q1) | 1.8% | 1.8% | 1.8% |
+| 13:00 | BRL | GDP (QoQ) (Q1) | 1.1% | 1.0% | 0.3% |
+| 13:30 | USD | Goods Trade Balance (Apr) | -82.40B | -86.70B | -85.30B |
+| 13:30 | USD | Retail Inventories Ex Auto (Apr) | 0.6% |  | 0.6% |
+| 13:30 | CAD | GDP (MoM) (Mar) | -0.1% | 0.4% | 0.2% |
+| 13:30 | CAD | GDP (QoQ) (Q1) | 0.0% |  | -0.2% |
+| 13:30 | CAD | GDP (YoY) (Q1) | -0.05% |  | 0.70% |
+| 13:30 | CAD | GDP Annualized (QoQ) (Q1) | -0.1% | 1.5% | -1.0% |
+| 13:31 | CAD | GDP (MoM) (Apr) | 0.4% |  | -0.1% |
 | 14:10 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 17:40 | USD | FOMC Member Daly Speaks |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 425 |
