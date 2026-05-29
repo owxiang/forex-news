@@ -13,8 +13,8 @@
 | 08:00 | CHF | KOF Leading Indicators (May) | 98.0 | 98.0 | 97.8 |
 | 08:00 | EUR | Spanish CPI (YoY) (May) | 3.2% | 3.3% | 3.2% |
 | 08:00 | EUR | Spanish HICP (YoY) (May) | 3.6% | 3.6% | 3.5% |
-| 08:55 | EUR | German Unemployment Change (May) |  | 11K | 20K |
-| 08:55 | EUR | German Unemployment Rate (May) |  | 6.4% | 6.4% |
+| 08:55 | EUR | German Unemployment Change (May) | -12K | 11K | 20K |
+| 08:55 | EUR | German Unemployment Rate (May) | 6.3% | 6.4% | 6.4% |
 | 09:20 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 11:00 | EUR | France Jobseekers Total (Apr) |  |  | 3,109.1K |
 | 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Apr) |  | 80.3% | 80.1% |

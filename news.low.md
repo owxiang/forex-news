@@ -35,34 +35,34 @@
 | 08:00 | EUR | Core CPI (YoY) (May) | 2.9% |  | 2.8% |
 | 08:00 | EUR | Spanish CPI (MoM) (May) | 0.1% | 0.2% | 0.4% |
 | 08:00 | EUR | Spanish HICP (MoM) (May) | 0.1% | 0.2% | 0.7% |
-| 08:55 | EUR | German Unemployment (May) |  |  | 3.006M |
-| 08:55 | EUR | German Unemployment n.s.a. (May) |  |  | 3.008M |
-| 09:00 | EUR | Italian Monthly Unemployment Rate (Apr) |  | 5.3% | 5.2% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (May) |  |  | 0.6% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (May) |  |  | 2.6% |
-| 09:00 | EUR | Bavaria CPI (YoY) (May) |  |  | 2.9% |
-| 09:00 | EUR | Bavaria CPI (MoM) (May) |  |  | 0.5% |
-| 09:00 | EUR | Brandenburg CPI (YoY) (May) |  |  | 2.9% |
-| 09:00 | EUR | Brandenburg CPI (MoM) (May) |  |  | 0.6% |
-| 09:00 | EUR | Hesse CPI (MoM) (May) |  |  | 0.4% |
-| 09:00 | EUR | Hesse CPI (YoY) |  |  | 2.8% |
-| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (May) |  |  | 0.4% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (May) |  |  | 2.7% |
-| 09:00 | EUR | Saxony CPI (YoY) (May) |  |  | 2.9% |
-| 09:00 | EUR | Saxony CPI (MoM) (May) |  |  | 0.6% |
-| 09:00 | EUR | Spanish Current account (Mar) |  |  | 4.04B |
-| 09:00 | NOK | Central Bank Currency Purchase (Jun) |  |  | -100.0M |
-| 09:00 | EUR | Private Sector Loans (YoY) (Apr) |  |  | 3.0% |
-| 09:30 | HKD | M3 Money Supply (Apr) |  |  | 1.2% |
-| 10:00 | EUR | Italian CPI (MoM) (May) |  | 0.1% | 1.1% |
-| 10:00 | EUR | Italian CPI (YoY) (May) |  | 3.2% | 2.7% |
-| 10:00 | EUR | Italian HICP (MoM) (May) |  | 0.3% | 1.6% |
-| 10:00 | EUR | Italian HICP (YoY) (May) |  | 3.2% | 2.8% |
-| 10:00 | ZAR | M3 Money Supply (YoY) (Apr) |  |  | 8.96% |
-| 10:00 | ZAR | Private Sector Credit (Apr) |  |  | 8.50% |
+| 08:55 | EUR | German Unemployment (May) | 2.987M |  | 3.006M |
+| 08:55 | EUR | German Unemployment n.s.a. (May) | 2.950M |  | 3.008M |
+| 09:00 | EUR | Italian Monthly Unemployment Rate (Apr) | 5.1% | 5.3% | 5.2% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (May) | -0.3% |  | 0.6% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (May) | 2.4% |  | 2.6% |
+| 09:00 | EUR | Bavaria CPI (YoY) (May) | 2.6% |  | 2.9% |
+| 09:00 | EUR | Bavaria CPI (MoM) (May) | -0.2% |  | 0.5% |
+| 09:00 | EUR | Brandenburg CPI (YoY) (May) | 2.8% |  | 2.9% |
+| 09:00 | EUR | Brandenburg CPI (MoM) (May) | -0.1% |  | 0.6% |
+| 09:00 | EUR | Hesse CPI (MoM) (May) | -0.2% |  | 0.4% |
+| 09:00 | EUR | Hesse CPI (YoY) | 2.6% |  | 2.8% |
+| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (May) | -0.2% |  | 0.4% |
+| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (May) | 2.4% |  | 2.7% |
+| 09:00 | EUR | Saxony CPI (YoY) (May) | 2.8% |  | 2.9% |
+| 09:00 | EUR | Saxony CPI (MoM) (May) | -0.1% |  | 0.6% |
+| 09:00 | EUR | Spanish Current account (Mar) | 4.61B |  | 4.04B |
+| 09:00 | NOK | Central Bank Currency Purchase (Jun) | -100.0M |  | -100.0M |
+| 09:30 | HKD | M3 Money Supply (Apr) | 3.1% |  | 1.2% |
+| 10:00 | EUR | Italian CPI (MoM) (May) | 0.4% | 0.1% | 1.1% |
+| 10:00 | EUR | Italian CPI (YoY) (May) | 3.2% | 3.2% | 2.7% |
+| 10:00 | EUR | Italian HICP (MoM) (May) | 0.4% | 0.3% | 1.6% |
+| 10:00 | EUR | Italian HICP (YoY) (May) | 3.3% | 3.2% | 2.8% |
+| 10:00 | ZAR | M3 Money Supply (YoY) (Apr) | 9.82% |  | 8.96% |
+| 10:00 | ZAR | Private Sector Credit (Apr) | 9.20% |  | 8.50% |
 | 11:00 | EUR | Italian GDP (QoQ) (Q1) |  | 0.2% | 0.3% |
 | 11:00 | EUR | Italian GDP (YoY) (Q1) |  | 0.7% | 0.8% |
 | 11:00 | INR | Federal Fiscal Deficit (Mar) |  |  | 12,526.49B |
+| 11:00 | ZAR | Budget Balance (MoM) (Apr) |  |  | -45.61B |
 | 12:00 | BRL | IGP-M Inflation Index (MoM) (May) |  | 0.80% | 2.73% |
 | 12:30 | INR | FX Reserves, USD |  |  | 688.89B |
 | 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
@@ -78,7 +78,6 @@
 | 13:30 | CAD | GDP Implicit Price (QoQ) (Q1) |  |  | 0.70% |
 | 16:00 | CAD | Budget Balance (Mar) |  |  | 5.66B |
 | 16:00 | CAD | Budget Balance (YoY) (Mar) |  |  | -25.55B |
-| 17:29 | ZAR | Budget Balance (MoM) (Apr) |  |  | -45.61B |
 | 20:00 | MXN | Fiscal Balance (Apr) |  |  | -110.10B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.5K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 75.9K |
