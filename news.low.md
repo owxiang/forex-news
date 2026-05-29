@@ -13,30 +13,29 @@
 | 00:30 | JPY | Unemployment Rate (Apr) | 2.5% | 2.7% | 2.7% |
 | 00:50 | JPY | Industrial Production forecast 1m ahead (MoM) (May) | 5.1% |  | 2.1% |
 | 00:50 | JPY | Industrial Production forecast 2m ahead (MoM) (Jun) | -0.4% |  | 2.2% |
+| 00:50 | JPY | Large Retailers' Sales (MoM) (Apr) | 1.3% |  | 1.3% |
 | 00:50 | JPY | Large Scale Retail Sales YoY (YoY) (Apr) | 2.0% |  | 2.0% |
 | 00:50 | JPY | Retail Sales (YoY) (Apr) | 2.1% | 1.4% | 1.4% |
 | 02:00 | NZD | ANZ Business Confidence (May) | 10.0 |  | -10.6 |
 | 02:00 | NZD | NBNZ Own Activity (May) | 25.6% |  | 19.6% |
 | 03:00 | SGD | Bank Lending (Apr) | 908.4B |  | 902.3B |
-| 04:00 | NZD | M3 Money Supply (Apr) | 454,442.0B |  | 455.6B |
-| 04:35 | JPY | 2-Year JGB Auction |  |  | 1.407% |
-| 06:00 | JPY | Construction Orders (YoY) (Apr) |  |  | -14.4% |
-| 06:00 | JPY | Household Confidence (May) |  | 32.3 | 32.2 |
-| 06:00 | JPY | Housing Starts (YoY) (Apr) |  | 14.7% | -29.3% |
-| 06:00 | JPY | Housing Starts (YoY) (Apr) |  | 15.5% | -29.3% |
-| 07:00 | EUR | German Import Price Index (MoM) (Apr) |  |  | 3.6% |
-| 07:00 | EUR | German Import Price Index (YoY) (Apr) |  |  | 2.3% |
+| 04:00 | NZD | M3 Money Supply (Apr) | 454.4B |  | 455.6B |
+| 04:35 | JPY | 2-Year JGB Auction | 1.369% |  | 1.407% |
+| 06:00 | JPY | Household Confidence (May) | 33.6 | 32.3 | 32.2 |
+| 06:00 | JPY | Housing Starts (YoY) (Apr) | 11.4% | 14.7% | -29.3% |
+| 07:00 | EUR | German Import Price Index (MoM) (Apr) |  | 1.2% | 3.6% |
+| 07:00 | EUR | German Import Price Index (YoY) (Apr) |  | 5.3% | 2.3% |
 | 07:00 | NOK | Unemployment Rate n.s.a. (May) |  | 2.10% | 2.10% |
 | 07:00 | NOK | Core Retail Sales (MoM) (Apr) |  |  | -0.1% |
 | 07:00 | ZAR | M3 Money Supply (YoY) (Apr) |  |  | 8.96% |
 | 07:00 | ZAR | Private Sector Credit (Apr) |  |  | 8.50% |
-| 07:45 | EUR | French CPI (YoY) (May) |  | 2.6% | 2.2% |
+| 07:45 | EUR | French CPI (YoY) (May) |  | 2.5% | 2.2% |
 | 07:45 | EUR | French HICP (YoY) (May) |  | 2.9% | 2.5% |
 | 07:45 | EUR | French Non-Farm Payrolls (QoQ) (Q1) |  | -0.1% | -0.1% |
 | 08:00 | CHF | Official Reserves Assets (Apr) |  |  | 856.0B |
 | 08:00 | EUR | Core CPI (YoY) (May) |  |  | 2.8% |
-| 08:00 | EUR | Spanish CPI (MoM) (May) |  |  | 0.4% |
-| 08:00 | EUR | Spanish HICP (MoM) (May) |  |  | 0.7% |
+| 08:00 | EUR | Spanish CPI (MoM) (May) |  | 0.2% | 0.4% |
+| 08:00 | EUR | Spanish HICP (MoM) (May) |  | 0.2% | 0.7% |
 | 08:55 | EUR | German Unemployment (May) |  |  | 3.006M |
 | 08:55 | EUR | German Unemployment n.s.a. (May) |  |  | 3.008M |
 | 09:00 | EUR | Italian Monthly Unemployment Rate (Apr) |  | 5.3% | 5.2% |
@@ -56,23 +55,23 @@
 | 09:00 | NOK | Central Bank Currency Purchase (Jun) |  |  | -100.0M |
 | 09:00 | EUR | Private Sector Loans (YoY) (Apr) |  |  | 3.0% |
 | 09:30 | HKD | M3 Money Supply (Apr) |  |  | 1.2% |
-| 10:00 | EUR | Italian CPI (MoM) (May) |  | 0.2% | 1.1% |
-| 10:00 | EUR | Italian CPI (YoY) (May) |  |  | 2.7% |
-| 10:00 | EUR | Italian HICP (MoM) (May) |  |  | 1.6% |
-| 10:00 | EUR | Italian HICP (YoY) (May) |  | 3.0% | 2.8% |
-| 11:00 | EUR | Italian GDP (QoQ) (Q1) |  | 0.2% | 0.2% |
-| 11:00 | EUR | Italian GDP (YoY) (Q1) |  | 0.7% | 0.7% |
+| 10:00 | EUR | Italian CPI (MoM) (May) |  | 0.1% | 1.1% |
+| 10:00 | EUR | Italian CPI (YoY) (May) |  | 3.2% | 2.7% |
+| 10:00 | EUR | Italian HICP (MoM) (May) |  | 0.3% | 1.6% |
+| 10:00 | EUR | Italian HICP (YoY) (May) |  | 3.2% | 2.8% |
+| 11:00 | EUR | Italian GDP (QoQ) (Q1) |  | 0.2% | 0.3% |
+| 11:00 | EUR | Italian GDP (YoY) (Q1) |  | 0.7% | 0.8% |
 | 11:00 | INR | Federal Fiscal Deficit (Mar) |  |  | 12,526.49B |
 | 12:00 | BRL | IGP-M Inflation Index (MoM) (May) |  | 0.80% | 2.73% |
 | 12:30 | INR | FX Reserves, USD |  |  | 688.89B |
 | 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
 | 12:30 | BRL | Net Debt-to-GDP ratio (Apr) |  |  | 66.8% |
-| 12:30 | BRL | Budget Balance (Apr) |  | -49.800B | -199.539B |
+| 12:30 | BRL | Budget Balance (Apr) |  | -50.700B | -199.539B |
 | 12:30 | BRL | Budget Surplus (Apr) |  |  | -80.676B |
 | 13:00 | INR | Bank Loan Growth |  |  | 16.0% |
 | 13:00 | INR | Deposit Growth |  |  | 12.3% |
 | 13:00 | EUR | German HICP (MoM) (May) |  | 0.2% | 0.5% |
-| 13:00 | EUR | German HICP (YoY) (May) |  | 2.9% | 2.9% |
+| 13:00 | EUR | German HICP (YoY) (May) |  | 2.8% | 2.9% |
 | 13:00 | ZAR | Trade Balance (Apr) |  |  | 31.87B |
 | 13:30 | USD | Wholesale Inventories (MoM) (Apr) |  | 0.6% | 1.3% |
 | 13:30 | CAD | GDP Implicit Price (QoQ) (Q1) |  |  | 0.70% |
