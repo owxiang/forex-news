@@ -109,7 +109,7 @@
 | 17:40 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 429 |  | 425 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 562 |  | 558 |
-| 20:00 | MXN | Low | Fiscal Balance (Apr) |  |  | -110.10B |
+| 20:00 | MXN | Low | Fiscal Balance (Apr) | -37.15B |  | -110.10B |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions | -61.4K |  | -64.3K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions | 0.3K |  | 0.5K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions | 73.0K |  | 75.9K |

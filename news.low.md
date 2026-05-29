@@ -77,7 +77,7 @@
 | 13:30 | CAD | GDP Implicit Price (QoQ) (Q1) | 1.10% |  | 1.00% |
 | 16:00 | CAD | Budget Balance (Mar) | -29.73B |  | 5.66B |
 | 16:00 | CAD | Budget Balance (YoY) (Mar) | -55.28B |  | -25.55B |
-| 20:00 | MXN | Fiscal Balance (Apr) |  |  | -110.10B |
+| 20:00 | MXN | Fiscal Balance (Apr) | -37.15B |  | -110.10B |
 | 20:30 | USD | CFTC Aluminium speculative net positions | 0.3K |  | 0.5K |
 | 20:30 | USD | CFTC Copper speculative net positions | 73.0K |  | 75.9K |
 | 20:30 | USD | CFTC Corn speculative net positions | 302.0K |  | 358.1K |
