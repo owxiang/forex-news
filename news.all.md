@@ -73,28 +73,28 @@
 | 10:00 | EUR | Low | Italian HICP (YoY) (May) | 3.3% | 3.2% | 2.8% |
 | 10:00 | ZAR | Low | M3 Money Supply (YoY) (Apr) | 9.82% |  | 8.96% |
 | 10:00 | ZAR | Low | Private Sector Credit (Apr) | 9.20% |  | 8.50% |
-| 11:00 | EUR | Low | Italian GDP (QoQ) (Q1) |  | 0.2% | 0.3% |
-| 11:00 | EUR | Low | Italian GDP (YoY) (Q1) |  | 0.7% | 0.8% |
-| 11:00 | INR | Low | Federal Fiscal Deficit (Mar) |  |  | 12,526.49B |
-| 11:00 | EUR | Moderate | France Jobseekers Total (Apr) |  |  | 3,109.1K |
-| 11:00 | ZAR | Low | Budget Balance (MoM) (Apr) |  |  | -45.61B |
+| 11:00 | EUR | Low | Italian GDP (QoQ) (Q1) | 0.3% | 0.2% | 0.3% |
+| 11:00 | EUR | Low | Italian GDP (YoY) (Q1) | 0.8% | 0.7% | 0.8% |
+| 11:00 | EUR | Moderate | France Jobseekers Total (Apr) | 3,100.1K |  | 3,109.1K |
 | 12:00 | BRL | Low | IGP-M Inflation Index (MoM) (May) |  | 0.80% | 2.73% |
-| 12:30 | INR | Low | FX Reserves, USD |  |  | 688.89B |
-| 12:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
-| 12:30 | BRL | Low | Net Debt-to-GDP ratio (Apr) |  |  | 66.8% |
-| 12:30 | BRL | Low | Budget Balance (Apr) |  | -50.700B | -199.539B |
-| 12:30 | BRL | Low | Budget Surplus (Apr) |  |  | -80.676B |
-| 12:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Apr) |  | 80.3% | 80.1% |
-| 13:00 | INR | Low | Bank Loan Growth |  |  | 16.0% |
-| 13:00 | INR | Low | Deposit Growth |  |  | 12.3% |
-| 13:00 | EUR | High | German CPI (MoM) (May) |  | 0.1% | 0.6% |
-| 13:00 | EUR | Moderate | German CPI (YoY) (May) |  | 2.9% | 2.9% |
-| 13:00 | EUR | Low | German HICP (MoM) (May) |  | 0.2% | 0.5% |
-| 13:00 | EUR | Low | German HICP (YoY) (May) |  | 2.8% | 2.9% |
-| 13:00 | BRL | Moderate | GDP (YoY) (Q1) |  | 1.8% | 1.8% |
-| 13:00 | BRL | Moderate | GDP (QoQ) (Q1) |  | 1.0% | 0.1% |
-| 13:00 | BRL | Moderate | Unemployment Rate (Apr) |  |  | 6.1% |
-| 13:00 | ZAR | Low | Trade Balance (Apr) |  |  | 31.87B |
+| 16 min | INR | Low | Federal Fiscal Deficit (Mar) |  |  | 12,526.49B |
+| 16 min | INR | Low | FX Reserves, USD |  |  | 688.89B |
+| 16 min | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
+| 16 min | BRL | Low | Net Debt-to-GDP ratio (Apr) |  |  | 66.8% |
+| 16 min | BRL | Low | Budget Balance (Apr) |  | -50.700B | -199.539B |
+| 16 min | BRL | Low | Budget Surplus (Apr) |  |  | -80.676B |
+| 16 min | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Apr) |  | 80.3% | 80.1% |
+| 46 min | INR | Low | Bank Loan Growth |  |  | 16.0% |
+| 46 min | INR | Low | Deposit Growth |  |  | 12.3% |
+| 46 min | EUR | High | German CPI (MoM) (May) |  | 0.1% | 0.6% |
+| 46 min | EUR | Moderate | German CPI (YoY) (May) |  | 2.9% | 2.9% |
+| 46 min | EUR | Low | German HICP (MoM) (May) |  | 0.2% | 0.5% |
+| 46 min | EUR | Low | German HICP (YoY) (May) |  | 2.8% | 2.9% |
+| 46 min | BRL | Moderate | GDP (YoY) (Q1) |  | 1.8% | 1.8% |
+| 46 min | BRL | Moderate | GDP (QoQ) (Q1) |  | 1.0% | 0.1% |
+| 46 min | BRL | Moderate | Unemployment Rate (Apr) |  |  | 6.1% |
+| 46 min | ZAR | Low | Budget Balance (MoM) (Apr) |  |  | -45.61B |
+| 46 min | ZAR | Low | Trade Balance (Apr) |  |  | 31.87B |
 | 13:30 | USD | Moderate | Goods Trade Balance (Apr) |  | -86.70B | -87.45B |
 | 13:30 | USD | Moderate | Retail Inventories Ex Auto (Apr) |  |  | 0.4% |
 | 13:30 | USD | Low | Wholesale Inventories (MoM) (Apr) |  | 0.6% | 1.3% |

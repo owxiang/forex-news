@@ -59,21 +59,21 @@
 | 10:00 | EUR | Italian HICP (YoY) (May) | 3.3% | 3.2% | 2.8% |
 | 10:00 | ZAR | M3 Money Supply (YoY) (Apr) | 9.82% |  | 8.96% |
 | 10:00 | ZAR | Private Sector Credit (Apr) | 9.20% |  | 8.50% |
-| 11:00 | EUR | Italian GDP (QoQ) (Q1) |  | 0.2% | 0.3% |
-| 11:00 | EUR | Italian GDP (YoY) (Q1) |  | 0.7% | 0.8% |
-| 11:00 | INR | Federal Fiscal Deficit (Mar) |  |  | 12,526.49B |
-| 11:00 | ZAR | Budget Balance (MoM) (Apr) |  |  | -45.61B |
+| 11:00 | EUR | Italian GDP (QoQ) (Q1) | 0.3% | 0.2% | 0.3% |
+| 11:00 | EUR | Italian GDP (YoY) (Q1) | 0.8% | 0.7% | 0.8% |
 | 12:00 | BRL | IGP-M Inflation Index (MoM) (May) |  | 0.80% | 2.73% |
-| 12:30 | INR | FX Reserves, USD |  |  | 688.89B |
-| 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
-| 12:30 | BRL | Net Debt-to-GDP ratio (Apr) |  |  | 66.8% |
-| 12:30 | BRL | Budget Balance (Apr) |  | -50.700B | -199.539B |
-| 12:30 | BRL | Budget Surplus (Apr) |  |  | -80.676B |
-| 13:00 | INR | Bank Loan Growth |  |  | 16.0% |
-| 13:00 | INR | Deposit Growth |  |  | 12.3% |
-| 13:00 | EUR | German HICP (MoM) (May) |  | 0.2% | 0.5% |
-| 13:00 | EUR | German HICP (YoY) (May) |  | 2.8% | 2.9% |
-| 13:00 | ZAR | Trade Balance (Apr) |  |  | 31.87B |
+| 16 min | INR | Federal Fiscal Deficit (Mar) |  |  | 12,526.49B |
+| 16 min | INR | FX Reserves, USD |  |  | 688.89B |
+| 16 min | INR | RBI Monetary and Credit Information Review |  |  |  |
+| 16 min | BRL | Net Debt-to-GDP ratio (Apr) |  |  | 66.8% |
+| 16 min | BRL | Budget Balance (Apr) |  | -50.700B | -199.539B |
+| 16 min | BRL | Budget Surplus (Apr) |  |  | -80.676B |
+| 46 min | INR | Bank Loan Growth |  |  | 16.0% |
+| 46 min | INR | Deposit Growth |  |  | 12.3% |
+| 46 min | EUR | German HICP (MoM) (May) |  | 0.2% | 0.5% |
+| 46 min | EUR | German HICP (YoY) (May) |  | 2.8% | 2.9% |
+| 46 min | ZAR | Budget Balance (MoM) (Apr) |  |  | -45.61B |
+| 46 min | ZAR | Trade Balance (Apr) |  |  | 31.87B |
 | 13:30 | USD | Wholesale Inventories (MoM) (Apr) |  | 0.6% | 1.3% |
 | 13:30 | CAD | GDP Implicit Price (QoQ) (Q1) |  |  | 0.70% |
 | 16:00 | CAD | Budget Balance (Mar) |  |  | 5.66B |
