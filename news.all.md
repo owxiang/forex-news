@@ -19,10 +19,8 @@
 | 00:50 | JPY | Low | Retail Sales (YoY) (Apr) | 2.1% | 1.4% | 1.4% |
 | 02:00 | NZD | Low | ANZ Business Confidence (May) | 10.0 |  | -10.6 |
 | 02:00 | NZD | Low | NBNZ Own Activity (May) | 25.6% |  | 19.6% |
-| 22 min | AUD | Low | Housing Credit (Apr) |  |  | 0.6% |
-| 21 min | AUD | Low | Private Sector Credit (MoM) (Apr) |  | 0.6% | 0.7% |
-| 51 min | SGD | Low | Bank Lending (Apr) |  |  | 902.3B |
-| 04:00 | NZD | Low | M3 Money Supply (Apr) |  |  | 455,643.0B |
+| 03:00 | SGD | Low | Bank Lending (Apr) | 908.4B |  | 902.3B |
+| 04:00 | NZD | Low | M3 Money Supply (Apr) | 454,442.0B |  | 455.6B |
 | 04:35 | JPY | Low | 2-Year JGB Auction |  |  | 1.407% |
 | 06:00 | JPY | Low | Construction Orders (YoY) (Apr) |  |  | -14.4% |
 | 06:00 | JPY | Low | Household Confidence (May) |  | 32.3 | 32.2 |
@@ -76,8 +74,8 @@
 | 10:00 | EUR | Low | Italian CPI (YoY) (May) |  |  | 2.7% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (May) |  |  | 1.6% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (May) |  | 3.0% | 2.8% |
-| 11:00 | EUR | Low | Italian GDP (QoQ) (Q1) |  | 0.2% | 0.3% |
-| 11:00 | EUR | Low | Italian GDP (YoY) (Q1) |  | 0.7% | 0.8% |
+| 11:00 | EUR | Low | Italian GDP (QoQ) (Q1) |  | 0.2% | 0.2% |
+| 11:00 | EUR | Low | Italian GDP (YoY) (Q1) |  | 0.7% | 0.7% |
 | 11:00 | INR | Low | Federal Fiscal Deficit (Mar) |  |  | 12,526.49B |
 | 11:00 | EUR | Moderate | France Jobseekers Total (Apr) |  |  | 3,109.1K |
 | 12:00 | BRL | Low | IGP-M Inflation Index (MoM) (May) |  | 0.80% | 2.73% |
@@ -102,10 +100,10 @@
 | 13:30 | USD | Low | Wholesale Inventories (MoM) (Apr) |  | 0.6% | 1.3% |
 | 13:30 | CAD | Low | GDP Implicit Price (QoQ) (Q1) |  |  | 0.70% |
 | 13:30 | CAD | Moderate | GDP (MoM) (Mar) |  | 0.1% | 0.2% |
+| 13:30 | CAD | Moderate | GDP (MoM) (Mar) |  |  | 0.2% |
 | 13:30 | CAD | Moderate | GDP (QoQ) (Q1) |  |  | -0.2% |
 | 13:30 | CAD | Moderate | GDP (YoY) (Q1) |  |  | 0.72% |
 | 13:30 | CAD | Moderate | GDP Annualized (QoQ) (Q1) |  | 1.5% | -0.6% |
-| 13:31 | CAD | Moderate | GDP (MoM) (Apr) |  |  |  |
 | 14:10 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 14:45 | USD | High | Chicago PMI (May) |  | 50.6 | 49.2 |
 | 16:00 | CAD | Low | Budget Balance (Mar) |  |  | 5.66B |

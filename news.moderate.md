@@ -25,10 +25,10 @@
 | 13:30 | USD | Goods Trade Balance (Apr) |  | -86.70B | -87.45B |
 | 13:30 | USD | Retail Inventories Ex Auto (Apr) |  |  | 0.4% |
 | 13:30 | CAD | GDP (MoM) (Mar) |  | 0.1% | 0.2% |
+| 13:30 | CAD | GDP (MoM) (Mar) |  |  | 0.2% |
 | 13:30 | CAD | GDP (QoQ) (Q1) |  |  | -0.2% |
 | 13:30 | CAD | GDP (YoY) (Q1) |  |  | 0.72% |
 | 13:30 | CAD | GDP Annualized (QoQ) (Q1) |  | 1.5% | -0.6% |
-| 13:31 | CAD | GDP (MoM) (Apr) |  |  |  |
 | 14:10 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 17:40 | USD | FOMC Member Daly Speaks |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 425 |

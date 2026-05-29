@@ -17,10 +17,8 @@
 | 00:50 | JPY | Retail Sales (YoY) (Apr) | 2.1% | 1.4% | 1.4% |
 | 02:00 | NZD | ANZ Business Confidence (May) | 10.0 |  | -10.6 |
 | 02:00 | NZD | NBNZ Own Activity (May) | 25.6% |  | 19.6% |
-| 22 min | AUD | Housing Credit (Apr) |  |  | 0.6% |
-| 21 min | AUD | Private Sector Credit (MoM) (Apr) |  | 0.6% | 0.7% |
-| 51 min | SGD | Bank Lending (Apr) |  |  | 902.3B |
-| 04:00 | NZD | M3 Money Supply (Apr) |  |  | 455,643.0B |
+| 03:00 | SGD | Bank Lending (Apr) | 908.4B |  | 902.3B |
+| 04:00 | NZD | M3 Money Supply (Apr) | 454,442.0B |  | 455.6B |
 | 04:35 | JPY | 2-Year JGB Auction |  |  | 1.407% |
 | 06:00 | JPY | Construction Orders (YoY) (Apr) |  |  | -14.4% |
 | 06:00 | JPY | Household Confidence (May) |  | 32.3 | 32.2 |
@@ -62,8 +60,8 @@
 | 10:00 | EUR | Italian CPI (YoY) (May) |  |  | 2.7% |
 | 10:00 | EUR | Italian HICP (MoM) (May) |  |  | 1.6% |
 | 10:00 | EUR | Italian HICP (YoY) (May) |  | 3.0% | 2.8% |
-| 11:00 | EUR | Italian GDP (QoQ) (Q1) |  | 0.2% | 0.3% |
-| 11:00 | EUR | Italian GDP (YoY) (Q1) |  | 0.7% | 0.8% |
+| 11:00 | EUR | Italian GDP (QoQ) (Q1) |  | 0.2% | 0.2% |
+| 11:00 | EUR | Italian GDP (YoY) (Q1) |  | 0.7% | 0.7% |
 | 11:00 | INR | Federal Fiscal Deficit (Mar) |  |  | 12,526.49B |
 | 12:00 | BRL | IGP-M Inflation Index (MoM) (May) |  | 0.80% | 2.73% |
 | 12:30 | INR | FX Reserves, USD |  |  | 688.89B |
