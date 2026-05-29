@@ -103,10 +103,9 @@
 | 13:30 | CAD | Moderate | GDP Annualized (QoQ) (Q1) | -0.1% | 1.5% | -1.0% |
 | 13:31 | CAD | Moderate | GDP (MoM) (Apr) | 0.4% |  | -0.1% |
 | 14:10 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 14:30 | INR | Low | Federal Fiscal Deficit (Mar) |  |  | 12,526.49B |
-| 14:45 | USD | High | Chicago PMI (May) |  | 50.6 | 49.2 |
-| 16:00 | CAD | Low | Budget Balance (Mar) |  |  | 5.66B |
-| 16:00 | CAD | Low | Budget Balance (YoY) (Mar) |  |  | -25.55B |
+| 14:45 | USD | High | Chicago PMI (May) | 62.7 | 50.6 | 49.2 |
+| 16:00 | CAD | Low | Budget Balance (Mar) | -29.73B |  | 5.66B |
+| 16:00 | CAD | Low | Budget Balance (YoY) (Mar) | -55.28B |  | -25.55B |
 | 17:40 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 425 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 558 |

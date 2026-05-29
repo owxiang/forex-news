@@ -75,9 +75,8 @@
 | 13:00 | ZAR | Budget Balance (MoM) (Apr) | -63.57B |  | -45.61B |
 | 13:30 | USD | Wholesale Inventories (MoM) (Apr) | 0.5% | 0.6% | 1.5% |
 | 13:30 | CAD | GDP Implicit Price (QoQ) (Q1) | 1.10% |  | 1.00% |
-| 14:30 | INR | Federal Fiscal Deficit (Mar) |  |  | 12,526.49B |
-| 16:00 | CAD | Budget Balance (Mar) |  |  | 5.66B |
-| 16:00 | CAD | Budget Balance (YoY) (Mar) |  |  | -25.55B |
+| 16:00 | CAD | Budget Balance (Mar) | -29.73B |  | 5.66B |
+| 16:00 | CAD | Budget Balance (YoY) (Mar) | -55.28B |  | -25.55B |
 | 20:00 | MXN | Fiscal Balance (Apr) |  |  | -110.10B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.5K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 75.9K |
