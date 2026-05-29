@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | Tokyo Core CPI (YoY) (May) | 1.3% | 1.5% | 1.5% |
-| 15 min | JPY | Industrial Production (MoM) (Apr) |  | -0.4% | -0.4% |
+| 00:50 | JPY | Industrial Production (MoM) (Apr) | 0.8% | -0.4% | -0.4% |
 | 07:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
 | 07:45 | EUR | French Consumer Spending (MoM) (Apr) |  | -0.1% | 0.7% |
 | 07:45 | EUR | French CPI (MoM) (May) |  | 0.2% | 1.0% |

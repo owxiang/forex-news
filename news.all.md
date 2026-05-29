@@ -6,22 +6,22 @@
 | 00:00 | KRW | Low | Industrial Production (MoM) (Apr) | -0.7% | 0.3% | 0.6% |
 | 00:00 | KRW | Low | Retail Sales (MoM) (Apr) | -3.6% |  | 1.9% |
 | 00:00 | KRW | Low | Service Sector Output (MoM) (Apr) | -1.0% |  | 1.5% |
-| 00:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (May) |  |  | 0.9% |
+| 00:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (May) | 0.7% |  | 0.9% |
 | 00:30 | JPY | Low | Jobs/applications ratio (Apr) | 1.18 | 1.18 | 1.18 |
 | 00:30 | JPY | Moderate | Tokyo Core CPI (YoY) (May) | 1.3% | 1.5% | 1.5% |
 | 00:30 | JPY | Low | Tokyo CPI (YoY) (May) | 1.4% |  | 1.5% |
-| 00:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (May) |  |  | 0.2% |
+| 00:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (May) | 0.0% |  | 0.2% |
 | 00:30 | JPY | Low | Unemployment Rate (Apr) | 2.5% | 2.7% | 2.7% |
-| 15 min | JPY | Moderate | Industrial Production (MoM) (Apr) |  | -0.4% | -0.4% |
-| 15 min | JPY | Low | Industrial Production forecast 1m ahead (MoM) (May) |  |  | 2.1% |
-| 15 min | JPY | Low | Industrial Production forecast 2m ahead (MoM) (Jun) |  |  | 2.2% |
-| 15 min | JPY | Low | Large Scale Retail Sales YoY (YoY) (Apr) |  |  | 2.0% |
-| 15 min | JPY | Low | Retail Sales (YoY) (Apr) |  | 1.4% | 1.4% |
-| 02:00 | NZD | Low | ANZ Business Confidence (May) |  |  | -10.6 |
-| 02:00 | NZD | Low | NBNZ Own Activity (May) |  |  | 19.6% |
-| 02:30 | AUD | Low | Housing Credit (Apr) |  |  | 0.6% |
-| 02:30 | AUD | Low | Private Sector Credit (MoM) (Apr) |  | 0.6% | 0.7% |
-| 03:00 | SGD | Low | Bank Lending (Apr) |  |  | 902.3B |
+| 00:50 | JPY | Moderate | Industrial Production (MoM) (Apr) | 0.8% | -0.4% | -0.4% |
+| 00:50 | JPY | Low | Industrial Production forecast 1m ahead (MoM) (May) | 5.1% |  | 2.1% |
+| 00:50 | JPY | Low | Industrial Production forecast 2m ahead (MoM) (Jun) | -0.4% |  | 2.2% |
+| 00:50 | JPY | Low | Large Scale Retail Sales YoY (YoY) (Apr) | 2.0% |  | 2.0% |
+| 00:50 | JPY | Low | Retail Sales (YoY) (Apr) | 2.1% | 1.4% | 1.4% |
+| 02:00 | NZD | Low | ANZ Business Confidence (May) | 10.0 |  | -10.6 |
+| 02:00 | NZD | Low | NBNZ Own Activity (May) | 25.6% |  | 19.6% |
+| 22 min | AUD | Low | Housing Credit (Apr) |  |  | 0.6% |
+| 21 min | AUD | Low | Private Sector Credit (MoM) (Apr) |  | 0.6% | 0.7% |
+| 51 min | SGD | Low | Bank Lending (Apr) |  |  | 902.3B |
 | 04:00 | NZD | Low | M3 Money Supply (Apr) |  |  | 455,643.0B |
 | 04:35 | JPY | Low | 2-Year JGB Auction |  |  | 1.407% |
 | 06:00 | JPY | Low | Construction Orders (YoY) (Apr) |  |  | -14.4% |
