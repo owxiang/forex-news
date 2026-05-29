@@ -21,21 +21,20 @@
 | 03:00 | SGD | Bank Lending (Apr) | 908.4B |  | 902.3B |
 | 04:00 | NZD | M3 Money Supply (Apr) | 454.4B |  | 455.6B |
 | 04:35 | JPY | 2-Year JGB Auction | 1.369% |  | 1.407% |
+| 06:00 | JPY | Construction Orders (YoY) (Apr) | -32.3% |  | -14.4% |
 | 06:00 | JPY | Household Confidence (May) | 33.6 | 32.3 | 32.2 |
 | 06:00 | JPY | Housing Starts (YoY) (Apr) | 11.4% | 14.7% | -29.3% |
-| 07:00 | EUR | German Import Price Index (MoM) (Apr) |  | 1.2% | 3.6% |
-| 07:00 | EUR | German Import Price Index (YoY) (Apr) |  | 5.3% | 2.3% |
-| 07:00 | NOK | Unemployment Rate n.s.a. (May) |  | 2.10% | 2.10% |
-| 07:00 | NOK | Core Retail Sales (MoM) (Apr) |  |  | -0.1% |
-| 07:00 | ZAR | M3 Money Supply (YoY) (Apr) |  |  | 8.96% |
-| 07:00 | ZAR | Private Sector Credit (Apr) |  |  | 8.50% |
-| 07:45 | EUR | French CPI (YoY) (May) |  | 2.5% | 2.2% |
-| 07:45 | EUR | French HICP (YoY) (May) |  | 2.9% | 2.5% |
-| 07:45 | EUR | French Non-Farm Payrolls (QoQ) (Q1) |  | -0.1% | -0.1% |
-| 08:00 | CHF | Official Reserves Assets (Apr) |  |  | 856.0B |
-| 08:00 | EUR | Core CPI (YoY) (May) |  |  | 2.8% |
-| 08:00 | EUR | Spanish CPI (MoM) (May) |  | 0.2% | 0.4% |
-| 08:00 | EUR | Spanish HICP (MoM) (May) |  | 0.2% | 0.7% |
+| 07:00 | EUR | German Import Price Index (MoM) (Apr) | 1.2% | 1.2% | 3.6% |
+| 07:00 | EUR | German Import Price Index (YoY) (Apr) | 5.3% | 5.3% | 2.3% |
+| 07:00 | NOK | Unemployment Rate n.s.a. (May) | 1.90% | 2.10% | 2.10% |
+| 07:00 | NOK | Core Retail Sales (MoM) (Apr) | 0.3% |  | -0.1% |
+| 07:45 | EUR | French CPI (YoY) (May) | 2.4% | 2.5% | 2.2% |
+| 07:45 | EUR | French HICP (YoY) (May) | 2.8% | 2.9% | 2.5% |
+| 07:45 | EUR | French Non-Farm Payrolls (QoQ) (Q1) | 0.0% | -0.1% | -0.1% |
+| 08:00 | CHF | Official Reserves Assets (Apr) | 848.5B |  | 856.0B |
+| 08:00 | EUR | Core CPI (YoY) (May) | 2.9% |  | 2.8% |
+| 08:00 | EUR | Spanish CPI (MoM) (May) | 0.1% | 0.2% | 0.4% |
+| 08:00 | EUR | Spanish HICP (MoM) (May) | 0.1% | 0.2% | 0.7% |
 | 08:55 | EUR | German Unemployment (May) |  |  | 3.006M |
 | 08:55 | EUR | German Unemployment n.s.a. (May) |  |  | 3.008M |
 | 09:00 | EUR | Italian Monthly Unemployment Rate (Apr) |  | 5.3% | 5.2% |
@@ -59,6 +58,8 @@
 | 10:00 | EUR | Italian CPI (YoY) (May) |  | 3.2% | 2.7% |
 | 10:00 | EUR | Italian HICP (MoM) (May) |  | 0.3% | 1.6% |
 | 10:00 | EUR | Italian HICP (YoY) (May) |  | 3.2% | 2.8% |
+| 10:00 | ZAR | M3 Money Supply (YoY) (Apr) |  |  | 8.96% |
+| 10:00 | ZAR | Private Sector Credit (Apr) |  |  | 8.50% |
 | 11:00 | EUR | Italian GDP (QoQ) (Q1) |  | 0.2% | 0.3% |
 | 11:00 | EUR | Italian GDP (YoY) (Q1) |  | 0.7% | 0.8% |
 | 11:00 | INR | Federal Fiscal Deficit (Mar) |  |  | 12,526.49B |
@@ -78,7 +79,6 @@
 | 16:00 | CAD | Budget Balance (Mar) |  |  | 5.66B |
 | 16:00 | CAD | Budget Balance (YoY) (Mar) |  |  | -25.55B |
 | 17:29 | ZAR | Budget Balance (MoM) (Apr) |  |  | -45.61B |
-| 18:30 | BRL | CAGED Net Payroll Jobs (Apr) |  | 230.00K | 228.21K |
 | 20:00 | MXN | Fiscal Balance (Apr) |  |  | -110.10B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.5K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 75.9K |

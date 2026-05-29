@@ -23,30 +23,29 @@
 | 03:00 | SGD | Low | Bank Lending (Apr) | 908.4B |  | 902.3B |
 | 04:00 | NZD | Low | M3 Money Supply (Apr) | 454.4B |  | 455.6B |
 | 04:35 | JPY | Low | 2-Year JGB Auction | 1.369% |  | 1.407% |
+| 06:00 | JPY | Low | Construction Orders (YoY) (Apr) | -32.3% |  | -14.4% |
 | 06:00 | JPY | Low | Household Confidence (May) | 33.6 | 32.3 | 32.2 |
 | 06:00 | JPY | Low | Housing Starts (YoY) (Apr) | 11.4% | 14.7% | -29.3% |
 | 07:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
-| 07:00 | EUR | Low | German Import Price Index (MoM) (Apr) |  | 1.2% | 3.6% |
-| 07:00 | EUR | Low | German Import Price Index (YoY) (Apr) |  | 5.3% | 2.3% |
-| 07:00 | NOK | Low | Unemployment Rate n.s.a. (May) |  | 2.10% | 2.10% |
-| 07:00 | NOK | Low | Core Retail Sales (MoM) (Apr) |  |  | -0.1% |
-| 07:00 | ZAR | Low | M3 Money Supply (YoY) (Apr) |  |  | 8.96% |
-| 07:00 | ZAR | Low | Private Sector Credit (Apr) |  |  | 8.50% |
-| 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Apr) |  | -0.1% | 0.7% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (May) |  | 0.2% | 1.0% |
-| 07:45 | EUR | Low | French CPI (YoY) (May) |  | 2.5% | 2.2% |
-| 07:45 | EUR | Moderate | French GDP (QoQ) (Q1) |  | 0.0% | 0.2% |
-| 07:45 | EUR | Moderate | French GDP (YoY) (Q1) |  | 1.1% | 1.3% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (May) |  | 0.3% | 1.2% |
-| 07:45 | EUR | Low | French HICP (YoY) (May) |  | 2.9% | 2.5% |
-| 07:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q1) |  | -0.1% | -0.1% |
-| 08:00 | CHF | Moderate | KOF Leading Indicators (May) |  | 98.0 | 97.9 |
-| 08:00 | CHF | Low | Official Reserves Assets (Apr) |  |  | 856.0B |
-| 08:00 | EUR | Low | Core CPI (YoY) (May) |  |  | 2.8% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (May) |  | 0.2% | 0.4% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (May) |  | 3.3% | 3.2% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (May) |  | 0.2% | 0.7% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (May) |  | 3.6% | 3.5% |
+| 07:00 | EUR | Low | German Import Price Index (MoM) (Apr) | 1.2% | 1.2% | 3.6% |
+| 07:00 | EUR | Low | German Import Price Index (YoY) (Apr) | 5.3% | 5.3% | 2.3% |
+| 07:00 | NOK | Low | Unemployment Rate n.s.a. (May) | 1.90% | 2.10% | 2.10% |
+| 07:00 | NOK | Low | Core Retail Sales (MoM) (Apr) | 0.3% |  | -0.1% |
+| 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Apr) | -0.5% | -0.1% | 0.9% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (May) | 0.1% | 0.2% | 1.0% |
+| 07:45 | EUR | Low | French CPI (YoY) (May) | 2.4% | 2.5% | 2.2% |
+| 07:45 | EUR | Moderate | French GDP (QoQ) (Q1) | -0.1% | 0.0% | 0.2% |
+| 07:45 | EUR | Moderate | French GDP (YoY) (Q1) | 0.9% | 1.1% | 1.3% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (May) | 0.1% | 0.3% | 1.2% |
+| 07:45 | EUR | Low | French HICP (YoY) (May) | 2.8% | 2.9% | 2.5% |
+| 07:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q1) | 0.0% | -0.1% | -0.1% |
+| 08:00 | CHF | Moderate | KOF Leading Indicators (May) | 98.0 | 98.0 | 97.8 |
+| 08:00 | CHF | Low | Official Reserves Assets (Apr) | 848.5B |  | 856.0B |
+| 08:00 | EUR | Low | Core CPI (YoY) (May) | 2.9% |  | 2.8% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (May) | 0.1% | 0.2% | 0.4% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (May) | 3.2% | 3.3% | 3.2% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (May) | 0.1% | 0.2% | 0.7% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (May) | 3.6% | 3.6% | 3.5% |
 | 08:55 | EUR | Moderate | German Unemployment Change (May) |  | 11K | 20K |
 | 08:55 | EUR | Moderate | German Unemployment Rate (May) |  | 6.4% | 6.4% |
 | 08:55 | EUR | Low | German Unemployment (May) |  |  | 3.006M |
@@ -73,6 +72,8 @@
 | 10:00 | EUR | Low | Italian CPI (YoY) (May) |  | 3.2% | 2.7% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (May) |  | 0.3% | 1.6% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (May) |  | 3.2% | 2.8% |
+| 10:00 | ZAR | Low | M3 Money Supply (YoY) (Apr) |  |  | 8.96% |
+| 10:00 | ZAR | Low | Private Sector Credit (Apr) |  |  | 8.50% |
 | 11:00 | EUR | Low | Italian GDP (QoQ) (Q1) |  | 0.2% | 0.3% |
 | 11:00 | EUR | Low | Italian GDP (YoY) (Q1) |  | 0.7% | 0.8% |
 | 11:00 | INR | Low | Federal Fiscal Deficit (Mar) |  |  | 12,526.49B |
@@ -111,7 +112,6 @@
 | 17:40 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 425 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 558 |
-| 18:30 | BRL | Low | CAGED Net Payroll Jobs (Apr) |  | 230.00K | 228.21K |
 | 20:00 | MXN | Low | Fiscal Balance (Apr) |  |  | -110.10B |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -64.3K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 0.5K |

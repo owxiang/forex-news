@@ -5,14 +5,14 @@
 | 00:30 | JPY | Tokyo Core CPI (YoY) (May) | 1.3% | 1.5% | 1.5% |
 | 00:50 | JPY | Industrial Production (MoM) (Apr) | 0.8% | -0.4% | -0.4% |
 | 07:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
-| 07:45 | EUR | French Consumer Spending (MoM) (Apr) |  | -0.1% | 0.7% |
-| 07:45 | EUR | French CPI (MoM) (May) |  | 0.2% | 1.0% |
-| 07:45 | EUR | French GDP (QoQ) (Q1) |  | 0.0% | 0.2% |
-| 07:45 | EUR | French GDP (YoY) (Q1) |  | 1.1% | 1.3% |
-| 07:45 | EUR | French HICP (MoM) (May) |  | 0.3% | 1.2% |
-| 08:00 | CHF | KOF Leading Indicators (May) |  | 98.0 | 97.9 |
-| 08:00 | EUR | Spanish CPI (YoY) (May) |  | 3.3% | 3.2% |
-| 08:00 | EUR | Spanish HICP (YoY) (May) |  | 3.6% | 3.5% |
+| 07:45 | EUR | French Consumer Spending (MoM) (Apr) | -0.5% | -0.1% | 0.9% |
+| 07:45 | EUR | French CPI (MoM) (May) | 0.1% | 0.2% | 1.0% |
+| 07:45 | EUR | French GDP (QoQ) (Q1) | -0.1% | 0.0% | 0.2% |
+| 07:45 | EUR | French GDP (YoY) (Q1) | 0.9% | 1.1% | 1.3% |
+| 07:45 | EUR | French HICP (MoM) (May) | 0.1% | 0.3% | 1.2% |
+| 08:00 | CHF | KOF Leading Indicators (May) | 98.0 | 98.0 | 97.8 |
+| 08:00 | EUR | Spanish CPI (YoY) (May) | 3.2% | 3.3% | 3.2% |
+| 08:00 | EUR | Spanish HICP (YoY) (May) | 3.6% | 3.6% | 3.5% |
 | 08:55 | EUR | German Unemployment Change (May) |  | 11K | 20K |
 | 08:55 | EUR | German Unemployment Rate (May) |  | 6.4% | 6.4% |
 | 09:20 | GBP | BoE Gov Bailey Speaks |  |  |  |
