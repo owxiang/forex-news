@@ -1,3 +1,6 @@
-## 30 May 2026 - High Impact Forex News
+## 31 May 2026 - High Impact Forex News
 
-There is no high impact news today.
+| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 01:30 | USD | Fed Chair Powell Speaks |  |  |  |
+| 02:30 | CNY | Manufacturing PMI (May) |  | 50.2 | 50.3 |

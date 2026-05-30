@@ -1,5 +1,8 @@
-## 30 May 2026 - Moderate Impact Forex News
+## 31 May 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 10:40 | GBP | BoE MPC Member Mann Speaks |  |  |  |
+| 01:10 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 02:30 | CNY | Chinese Composite PMI (May) |  |  | 50.1 |
+| 02:30 | CNY | Non-Manufacturing PMI (May) |  | 49.5 | 49.4 |
+| 13:30 | USD | Fed Waller Speaks |  |  |  |
