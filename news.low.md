@@ -1,3 +1,3 @@
-## 31 May 2026 - Low Impact Forex News
+## None - Low Impact Forex News
 
 There is no low impact news today.
