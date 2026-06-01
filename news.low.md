@@ -5,11 +5,11 @@
 | 00:00 | AUD | S&P Global Manufacturing PMI (May) | 50.7 | 50.2 | 51.3 |
 | 01:00 | KRW | Exports (YoY) (May) | 53.2% | 48.4% | 48.0% |
 | 01:00 | KRW | Imports (YoY) (May) | 20.8% | 21.5% | 16.7% |
-| 01:00 | KRW | Trade Balance (May) | 26.95B | 24.30B | 23.75B |
+| 01:00 | KRW | Trade Balance (May) | 26.95B | 24.30B | 23.76B |
 | 01:30 | KRW | S&P Global South Korea Manufacturing PMI (May) | 54.8 |  | 53.6 |
 | 01:30 | JPY | S&P Global Manufacturing PMI (May) | 54.5 | 54.5 | 54.5 |
-| 02:00 | AUD | MI Inflation Gauge (MoM) (May) |  |  | 0.6% |
-| 02:30 | AUD | ANZ Job Advertisements (MoM) (May) |  |  | -0.8% |
+| 02:00 | AUD | MI Inflation Gauge (MoM) (May) | -0.3% |  | 0.6% |
+| 02:30 | AUD | ANZ Job Advertisements (MoM) (May) | 1.8% |  | -0.6% |
 | 06:00 | INR | HSBC India Manufacturing PMI (May) |  | 54.3 | 54.3 |
 | 06:00 | JPY | Construction Orders (YoY) (Apr) |  |  | -14.4% |
 | 07:00 | EUR | German Retail Sales (YoY) (Apr) |  |  | -2.0% |

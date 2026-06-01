@@ -6,12 +6,12 @@
 | 00:50 | JPY | Moderate | Capital Spending (YoY) (Q1) | 0.0% | 4.1% | 6.5% |
 | 01:00 | KRW | Low | Exports (YoY) (May) | 53.2% | 48.4% | 48.0% |
 | 01:00 | KRW | Low | Imports (YoY) (May) | 20.8% | 21.5% | 16.7% |
-| 01:00 | KRW | Low | Trade Balance (May) | 26.95B | 24.30B | 23.75B |
+| 01:00 | KRW | Low | Trade Balance (May) | 26.95B | 24.30B | 23.76B |
 | 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (May) | 54.8 |  | 53.6 |
 | 01:30 | JPY | Low | S&P Global Manufacturing PMI (May) | 54.5 | 54.5 | 54.5 |
-| 02:00 | AUD | Low | MI Inflation Gauge (MoM) (May) |  |  | 0.6% |
-| 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (May) |  |  | -0.8% |
-| 02:45 | CNY | Moderate | RatingDog Manufacturing PMI (MoM) (May) |  | 51.4 | 52.2 |
+| 02:00 | AUD | Low | MI Inflation Gauge (MoM) (May) | -0.3% |  | 0.6% |
+| 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (May) | 1.8% |  | -0.6% |
+| 02:45 | CNY | Moderate | RatingDog Manufacturing PMI (MoM) (May) | 51.8 | 51.4 | 52.2 |
 | 06:00 | INR | Low | HSBC India Manufacturing PMI (May) |  | 54.3 | 54.3 |
 | 06:00 | JPY | Low | Construction Orders (YoY) (Apr) |  |  | -14.4% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (May) |  |  | 3.0% |
