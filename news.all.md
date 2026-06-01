@@ -3,12 +3,12 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | AUD | Low | S&P Global Manufacturing PMI (May) | 50.7 | 50.2 | 51.3 |
-| 00:50 | JPY | Moderate | Capital Spending (YoY) (Q1) |  | 4.1% | 6.5% |
-| 01:00 | KRW | Low | Exports (YoY) (May) |  | 48.4% | 48.0% |
-| 01:00 | KRW | Low | Imports (YoY) (May) |  | 21.5% | 16.7% |
-| 01:00 | KRW | Low | Trade Balance (May) |  | 24.30B | 23.76B |
-| 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (May) |  |  | 53.6 |
-| 01:30 | JPY | Low | S&P Global Manufacturing PMI (May) |  | 54.5 | 54.5 |
+| 00:50 | JPY | Moderate | Capital Spending (YoY) (Q1) | 0.0% | 4.1% | 6.5% |
+| 01:00 | KRW | Low | Exports (YoY) (May) | 53.2% | 48.4% | 48.0% |
+| 01:00 | KRW | Low | Imports (YoY) (May) | 20.8% | 21.5% | 16.7% |
+| 01:00 | KRW | Low | Trade Balance (May) | 26.95B | 24.30B | 23.75B |
+| 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (May) | 54.8 |  | 53.6 |
+| 01:30 | JPY | Low | S&P Global Manufacturing PMI (May) | 54.5 | 54.5 | 54.5 |
 | 02:00 | AUD | Low | MI Inflation Gauge (MoM) (May) |  |  | 0.6% |
 | 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (May) |  |  | -0.8% |
 | 02:45 | CNY | Moderate | RatingDog Manufacturing PMI (MoM) (May) |  | 51.4 | 52.2 |

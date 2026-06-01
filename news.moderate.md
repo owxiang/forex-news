@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Capital Spending (YoY) (Q1) |  | 4.1% | 6.5% |
+| 00:50 | JPY | Capital Spending (YoY) (Q1) | 0.0% | 4.1% | 6.5% |
 | 02:45 | CNY | RatingDog Manufacturing PMI (MoM) (May) |  | 51.4 | 52.2 |
 | 07:00 | GBP | Nationwide HPI (YoY) (May) |  |  | 3.0% |
 | 07:00 | GBP | Nationwide HPI (MoM) (May) |  | -0.1% | 0.4% |
