@@ -7,30 +7,32 @@
 | 01:00 | KRW | Low | Exports (YoY) (May) | 53.2% | 48.4% | 48.0% |
 | 01:00 | KRW | Low | Imports (YoY) (May) | 20.8% | 21.5% | 16.7% |
 | 01:00 | KRW | Low | Trade Balance (May) | 26.95B | 24.30B | 23.76B |
+| 01:10 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 01:30 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (May) | 54.8 |  | 53.6 |
 | 01:30 | JPY | Low | S&P Global Manufacturing PMI (May) | 54.5 | 54.5 | 55.1 |
 | 02:00 | AUD | Low | MI Inflation Gauge (MoM) (May) | -0.3% |  | 0.6% |
 | 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (May) | 1.8% |  | -0.6% |
 | 02:45 | CNY | Moderate | RatingDog Manufacturing PMI (MoM) (May) | 51.8 | 51.4 | 52.2 |
 | 06:00 | INR | Low | HSBC India Manufacturing PMI (May) | 55.0 | 54.3 | 54.7 |
-| 15 min | GBP | Moderate | Nationwide HPI (MoM) (May) |  | -0.1% | 0.4% |
-| 15 min | GBP | Moderate | Nationwide HPI (YoY) (May) |  |  | 3.0% |
-| 15 min | EUR | Moderate | German Retail Sales (MoM) (Apr) |  | -0.4% | -2.0% |
-| 15 min | EUR | Low | German Retail Sales (YoY) (Apr) |  |  | -2.0% |
-| 45 min | CHF | Low | Retail Sales (YoY) (Apr) |  | 0.2% | 0.5% |
-| 45 min | AUD | Low | Commodity Prices (YoY) (May) |  |  | 15.7% |
-| 08:00 | CHF | Moderate | GDP (QoQ) (Q1) |  | 0.5% | 0.1% |
-| 08:00 | CHF | Moderate | GDP (YoY) (Q1) |  |  | 0.7% |
-| 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (May) |  | 53.7 | 51.7 |
-| 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (May) |  | 54.0 | 54.5 |
-| 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (May) |  | 52.0 | 52.1 |
-| 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (May) |  | 48.9 | 52.8 |
-| 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (May) |  | 49.9 | 51.4 |
-| 09:00 | EUR | Low | M3 Money Supply (YoY) (Apr) |  | 3.3% | 3.2% |
+| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (May) | -0.6% | -0.1% | 0.4% |
+| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (May) | 1.7% |  | 3.0% |
+| 07:00 | EUR | Low | German Retail Sales (YoY) (Apr) | -0.3% |  | 2.7% |
+| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Apr) | -0.3% | -0.4% | -0.3% |
+| 07:30 | CHF | Low | Retail Sales (YoY) (Apr) | 1.6% | 0.2% | 1.3% |
+| 07:30 | AUD | Low | Commodity Prices (YoY) (May) | 16.8% |  | 15.7% |
+| 08:00 | CHF | Moderate | GDP (QoQ) (Q1) | 0.7% | 0.5% | 0.2% |
+| 08:00 | CHF | Moderate | GDP (YoY) (Q1) | 0.5% |  | 1.0% |
+| 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (May) | 51.2 | 53.7 | 51.7 |
+| 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (May) | 57.3 | 54.0 | 54.5 |
+| 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (May) | 52.9 | 52.0 | 52.1 |
+| 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (May) | 49.7 | 48.9 | 52.8 |
+| 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (May) | 50.1 | 49.9 | 51.4 |
 | 09:00 | EUR | Low | M3 Money Supply (Apr) |  |  | 17,446.5B |
-| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (May) |  | 51.4 | 52.2 |
-| 09:00 | EUR | Low | Loans to Non Financial Corporations (Apr) |  | 3.1% | 3.2% |
-| 09:00 | EUR | Low | Private Sector Loans (YoY) |  | 3.0% | 3.0% |
+| 09:00 | EUR | Low | M3 Money Supply (YoY) (Apr) | 2.7% | 3.3% | 3.2% |
+| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (May) | 51.6 | 51.4 | 52.2 |
+| 09:00 | EUR | Low | Loans to Non Financial Corporations (Apr) | 3.4% | 3.1% | 3.2% |
+| 09:00 | EUR | Low | Private Sector Loans (YoY) | 3.0% | 3.0% | 3.0% |
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (May) |  | 53.7 | 53.7 |
 | 10:00 | EUR | Moderate | Unemployment Rate (Apr) |  | 6.2% | 6.2% |
 | 10:00 | ZAR | Low | Manufacturing PMI (May) |  |  | 52.6 |

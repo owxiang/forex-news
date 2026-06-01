@@ -11,13 +11,13 @@
 | 02:00 | AUD | MI Inflation Gauge (MoM) (May) | -0.3% |  | 0.6% |
 | 02:30 | AUD | ANZ Job Advertisements (MoM) (May) | 1.8% |  | -0.6% |
 | 06:00 | INR | HSBC India Manufacturing PMI (May) | 55.0 | 54.3 | 54.7 |
-| 15 min | EUR | German Retail Sales (YoY) (Apr) |  |  | -2.0% |
-| 45 min | CHF | Retail Sales (YoY) (Apr) |  | 0.2% | 0.5% |
-| 45 min | AUD | Commodity Prices (YoY) (May) |  |  | 15.7% |
-| 09:00 | EUR | M3 Money Supply (YoY) (Apr) |  | 3.3% | 3.2% |
+| 07:00 | EUR | German Retail Sales (YoY) (Apr) | -0.3% |  | 2.7% |
+| 07:30 | CHF | Retail Sales (YoY) (Apr) | 1.6% | 0.2% | 1.3% |
+| 07:30 | AUD | Commodity Prices (YoY) (May) | 16.8% |  | 15.7% |
 | 09:00 | EUR | M3 Money Supply (Apr) |  |  | 17,446.5B |
-| 09:00 | EUR | Loans to Non Financial Corporations (Apr) |  | 3.1% | 3.2% |
-| 09:00 | EUR | Private Sector Loans (YoY) |  | 3.0% | 3.0% |
+| 09:00 | EUR | M3 Money Supply (YoY) (Apr) | 2.7% | 3.3% | 3.2% |
+| 09:00 | EUR | Loans to Non Financial Corporations (Apr) | 3.4% | 3.1% | 3.2% |
+| 09:00 | EUR | Private Sector Loans (YoY) | 3.0% | 3.0% | 3.0% |
 | 10:00 | ZAR | Manufacturing PMI (May) |  |  | 52.6 |
 | 11:30 | INR | Cumulative Industrial Production (Apr) |  |  | 4.10% |
 | 11:30 | INR | Industrial Production (YoY) (Apr) |  | 3.8% | 4.1% |
