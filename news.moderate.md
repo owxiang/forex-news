@@ -1,4 +1,4 @@
-## None - Moderate Impact Forex News
+## 01 June 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
@@ -21,5 +21,5 @@
 | 13:30 | USD | Fed Waller Speaks |  |  |  |
 | 15:00 | USD | Construction Spending (MoM) (Apr) | 0.4% | 0.3% | 0.2% |
 | 15:00 | USD | ISM Manufacturing Employment (May) | 48.6 |  | 46.4 |
-| 16:30 | USD | Atlanta Fed GDPNow (Q2) |  | 3.8% | 3.8% |
+| 17:00 | USD | Atlanta Fed GDPNow (Q2) | 3.0% | 3.8% | 3.8% |
 | 17:00 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |

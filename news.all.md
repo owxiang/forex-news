@@ -1,4 +1,4 @@
-## None - All Forex News
+## 01 June 2026 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
@@ -58,7 +58,7 @@
 | 15:00 | USD | High | ISM Manufacturing PMI (May) | 54.0 | 53.3 | 52.7 |
 | 15:00 | USD | High | ISM Manufacturing Prices (May) | 82.1 | 85.3 | 84.6 |
 | 16:00 | MXN | Low | S&P Global Manufacturing PMI (May) | 49.60 |  | 47.70 |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.595% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.650% |
-| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 3.8% | 3.8% |
+| 16:30 | USD | Low | 3-Month Bill Auction | 3.630% |  | 3.595% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 3.665% |  | 3.650% |
+| 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 3.0% | 3.8% | 3.8% |
 | 17:00 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |

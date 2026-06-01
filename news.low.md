@@ -1,4 +1,4 @@
-## None - Low Impact Forex News
+## 01 June 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
@@ -35,5 +35,5 @@
 | 14:30 | CAD | S&P Global Manufacturing PMI (May) | 52.9 |  | 53.3 |
 | 15:00 | USD | ISM Manufacturing New Orders Index (May) | 56.8 |  | 54.1 |
 | 16:00 | MXN | S&P Global Manufacturing PMI (May) | 49.60 |  | 47.70 |
-| 16:30 | USD | 3-Month Bill Auction |  |  | 3.595% |
-| 16:30 | USD | 6-Month Bill Auction |  |  | 3.650% |
+| 16:30 | USD | 3-Month Bill Auction | 3.630% |  | 3.595% |
+| 16:30 | USD | 6-Month Bill Auction | 3.665% |  | 3.650% |
