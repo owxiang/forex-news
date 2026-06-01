@@ -20,7 +20,7 @@
 | 07:00 | EUR | Low | German Retail Sales (YoY) (Apr) | -0.3% |  | 2.7% |
 | 07:00 | EUR | Moderate | German Retail Sales (MoM) (Apr) | -0.3% | -0.4% | -0.3% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Apr) | 1.6% | 0.2% | 1.3% |
-| 07:30 | AUD | Low | Commodity Prices (YoY) (May) | 16.8% |  | 15.7% |
+| 07:30 | AUD | Low | Commodity Prices (YoY) (May) | 16.8% |  | 15.1% |
 | 08:00 | CHF | Moderate | GDP (QoQ) (Q1) | 0.7% | 0.5% | 0.2% |
 | 08:00 | CHF | Moderate | GDP (YoY) (Q1) | 0.5% |  | 1.0% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (May) | 51.2 | 53.7 | 51.7 |
@@ -28,21 +28,21 @@
 | 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (May) | 52.9 | 52.0 | 52.1 |
 | 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (May) | 49.7 | 48.9 | 52.8 |
 | 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (May) | 50.1 | 49.9 | 51.4 |
-| 09:00 | EUR | Low | M3 Money Supply (Apr) |  |  | 17,446.5B |
+| 09:00 | EUR | Low | M3 Money Supply (Apr) | 17,433.9B |  | 17,446.5B |
 | 09:00 | EUR | Low | M3 Money Supply (YoY) (Apr) | 2.7% | 3.3% | 3.2% |
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (May) | 51.6 | 51.4 | 52.2 |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Apr) | 3.4% | 3.1% | 3.2% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) | 3.0% | 3.0% | 3.0% |
-| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (May) |  | 53.7 | 53.7 |
-| 10:00 | EUR | Moderate | Unemployment Rate (Apr) |  | 6.2% | 6.2% |
-| 10:00 | ZAR | Low | Manufacturing PMI (May) |  |  | 52.6 |
-| 11:30 | INR | Low | Cumulative Industrial Production (Apr) |  |  | 4.10% |
-| 11:30 | INR | Low | Industrial Production (YoY) (Apr) |  | 3.8% | 4.1% |
-| 11:30 | INR | Low | Manufacturing Output (MoM) (Apr) |  |  | 4.3% |
+| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (May) | 53.9 | 53.7 | 53.7 |
+| 10:00 | EUR | Moderate | Unemployment Rate (Apr) | 6.3% | 6.2% | 6.3% |
+| 10:00 | ZAR | Low | Manufacturing PMI (May) | 50.8 |  | 52.6 |
 | 12:00 | EUR | Low | Car Registration (MoM) (May) |  |  | -18.00% |
 | 12:00 | EUR | Low | Car Registration (YoY) (May) |  |  | 8.40% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 12:30 | INR | Low | Cumulative Industrial Production (Apr) |  |  | 4.10% |
 | 12:30 | INR | Low | Federal Fiscal Deficit (Mar) |  |  | 12,526.49B |
+| 12:30 | INR | Low | Industrial Production (YoY) (Apr) |  | 3.8% | 4.1% |
+| 12:30 | INR | Low | Manufacturing Output (MoM) (Apr) |  |  | 4.3% |
 | 13:15 | ZAR | Low | Total Vehicle Sales (YoY) (May) |  |  | 13.00% |
 | 13:15 | ZAR | Low | Total Vehicle Sales (May) |  |  | 47.98K |
 | 13:30 | USD | Moderate | Fed Waller Speaks |  |  |  |

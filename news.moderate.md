@@ -16,8 +16,8 @@
 | 08:50 | EUR | HCOB France Manufacturing PMI (May) | 49.7 | 48.9 | 52.8 |
 | 08:55 | EUR | HCOB Germany Manufacturing PMI (May) | 50.1 | 49.9 | 51.4 |
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (May) | 51.6 | 51.4 | 52.2 |
-| 09:30 | GBP | S&P Global Manufacturing PMI (May) |  | 53.7 | 53.7 |
-| 10:00 | EUR | Unemployment Rate (Apr) |  | 6.2% | 6.2% |
+| 09:30 | GBP | S&P Global Manufacturing PMI (May) | 53.9 | 53.7 | 53.7 |
+| 10:00 | EUR | Unemployment Rate (Apr) | 6.3% | 6.2% | 6.3% |
 | 13:30 | USD | Fed Waller Speaks |  |  |  |
 | 15:00 | USD | Construction Spending (MoM) (Apr) |  | 0.3% | 0.6% |
 | 15:00 | USD | ISM Manufacturing Employment (May) |  |  | 46.4 |
