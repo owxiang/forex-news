@@ -1,39 +1,48 @@
-## 01 June 2026 - Low Impact Forex News
+## 02 June 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | AUD | S&P Global Manufacturing PMI (May) | 50.7 | 50.2 | 51.3 |
-| 01:00 | KRW | Exports (YoY) (May) | 53.2% | 48.4% | 48.0% |
-| 01:00 | KRW | Imports (YoY) (May) | 20.8% | 21.5% | 16.7% |
-| 01:00 | KRW | Trade Balance (May) | 26.95B | 24.30B | 23.76B |
-| 01:30 | KRW | S&P Global South Korea Manufacturing PMI (May) | 54.8 |  | 53.6 |
-| 01:30 | JPY | S&P Global Manufacturing PMI (May) | 54.5 | 54.5 | 55.1 |
-| 02:00 | AUD | MI Inflation Gauge (MoM) (May) | -0.3% |  | 0.6% |
-| 02:30 | AUD | ANZ Job Advertisements (MoM) (May) | 1.8% |  | -0.6% |
-| 06:00 | INR | HSBC India Manufacturing PMI (May) | 55.0 | 54.3 | 54.7 |
-| 07:00 | EUR | German Retail Sales (YoY) (Apr) | -0.3% |  | 2.7% |
-| 07:30 | CHF | Retail Sales (YoY) (Apr) | 1.6% | 0.2% | 1.3% |
-| 07:30 | AUD | Commodity Prices (YoY) (May) | 16.8% |  | 15.1% |
-| 09:00 | EUR | M3 Money Supply (Apr) | 17,433.9B |  | 17,446.5B |
-| 09:00 | EUR | M3 Money Supply (YoY) (Apr) | 2.7% | 3.3% | 3.2% |
-| 09:00 | EUR | Loans to Non Financial Corporations (Apr) | 3.4% | 3.1% | 3.2% |
-| 09:00 | EUR | Private Sector Loans (YoY) | 3.0% | 3.0% | 3.0% |
-| 10:00 | ZAR | Manufacturing PMI (May) | 50.8 |  | 52.6 |
-| 12:00 | EUR | Car Registration (MoM) (May) | 4.70% |  | -18.00% |
-| 12:00 | EUR | Car Registration (YoY) (May) | -0.80% |  | 8.40% |
-| 12:10 | INR | Industrial Production (YoY) (Apr) | 4.9% | 3.8% | 4.1% |
-| 12:10 | INR | Manufacturing Output (MoM) (Apr) | 6.2% |  | 4.3% |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:30 | INR | Federal Fiscal Deficit (Mar) | 15,191.70B |  | 12,526.49B |
-| 12:31 | INR | Federal Fiscal Deficit (Apr) | 3,623.03B |  | 15,191.70B |
-| 13:00 | ZAR | Total Vehicle Sales (YoY) (May) | 12.80% |  | 13.00% |
-| 13:00 | ZAR | Total Vehicle Sales (May) | 51.07K |  | 47.89K |
-| 14:00 | EUR | French 12-Month BTF Auction | 2.588% |  | 2.577% |
-| 14:00 | EUR | French 3-Month BTF Auction | 2.289% |  | 2.277% |
-| 14:00 | EUR | French 6-Month BTF Auction | 2.440% |  | 2.385% |
-| 14:00 | BRL | S&P Global Manufacturing PMI (May) | 49.1 |  | 52.6 |
-| 14:30 | CAD | S&P Global Manufacturing PMI (May) | 52.9 |  | 53.3 |
-| 15:00 | USD | ISM Manufacturing New Orders Index (May) | 56.8 |  | 54.1 |
-| 16:00 | MXN | S&P Global Manufacturing PMI (May) | 49.60 |  | 47.70 |
-| 16:30 | USD | 3-Month Bill Auction | 3.630% |  | 3.595% |
-| 16:30 | USD | 6-Month Bill Auction | 3.665% |  | 3.650% |
+| 00:00 | KRW | CPI (MoM) (May) | 0.5% | 0.3% | 0.5% |
+| 00:00 | KRW | CPI (YoY) (May) | 3.1% | 3.0% | 2.6% |
+| 00:50 | JPY | Monetary Base (YoY) (May) |  | -9.5% | -11.3% |
+| 01:30 | IDR | S&P Global Manufacturing PMI (May) |  |  | 49.1 |
+| 02:30 | AUD | Building Approvals (YoY) (Apr) |  |  | 19.70% |
+| 02:30 | AUD | Business inventories (MoM) (Q1) |  |  | -0.1% |
+| 02:30 | AUD | Company Profits Pre-Tax (QoQ) (Q1) |  |  | 1.6% |
+| 02:30 | AUD | Housing Credit (Apr) |  |  | 0.6% |
+| 02:30 | AUD | Net Exports Contribution (Q1) |  |  | -0.1% |
+| 02:30 | AUD | Private House Approvals (Apr) |  |  | 0.9% |
+| 02:30 | AUD | Private Sector Credit (MoM) (Apr) |  | 0.6% | 0.7% |
+| 05:00 | CHF | Trade Balance (Apr) |  |  | 3.177B |
+| 05:00 | IDR | Core Inflation (YoY) (May) |  |  | 2.44% |
+| 05:00 | IDR | Export Growth (YoY) (Apr) |  |  | -3.10% |
+| 05:00 | IDR | Import Growth (YoY) (Apr) |  |  | 1.51% |
+| 05:00 | IDR | Inflation (YoY) (May) |  |  | 2.42% |
+| 05:00 | IDR | Inflation (MoM) (May) |  |  | 0.13% |
+| 05:00 | IDR | Trade Balance (Apr) |  |  | 3.32B |
+| 07:45 | EUR | French Government Budget Balance (Apr) |  |  | -42.9B |
+| 09:30 | GBP | BoE Consumer Credit (Apr) |  |  | 1.895B |
+| 09:30 | GBP | M3 Money Supply (Apr) |  |  | 3,270.1B |
+| 09:30 | GBP | M4 Money Supply (MoM) (Apr) |  | 0.6% | 0.8% |
+| 09:30 | GBP | Mortgage Approvals (Apr) |  | 62.00K | 63.53K |
+| 09:30 | GBP | Mortgage Lending (Apr) |  |  | 6.15B |
+| 09:30 | GBP | Net Lending to Individuals |  | 7.100B | 8.000B |
+| 09:30 | HKD | Retail Sales (YoY) (Apr) |  |  | 12.8% |
+| 09:40 | EUR | Spanish 12-Month Letras Auction |  |  | 2.635% |
+| 09:40 | EUR | Spanish 6-Month Letras Auction |  |  | 2.357% |
+| 10:00 | EUR | Core CPI (MoM) (May) |  |  | 0.9% |
+| 10:00 | EUR | CPI, n.s.a (May) |  |  | 103.04 |
+| 10:00 | EUR | HICP ex Energy & Food (YoY) (May) |  |  | 2.1% |
+| 10:00 | EUR | HICP ex Energy and Food (MoM) (May) |  |  | 0.8% |
+| 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.700% |
+| 13:00 | NZD | GlobalDairyTrade Price Index |  |  | 0.6% |
+| 13:00 | USD | Milk Auctions |  |  | 4,198.0 |
+| 13:55 | USD | Redbook (YoY) |  |  | 9.0% |
+| 14:00 | SGD | S&P Global Manufacturing PMI (May) |  |  | 50.7 |
+| 15:10 | USD | IBD/TIPP Economic Optimism (Jun) |  |  | 42.6 |
+| 17:00 | EUR | French Car Registration (YoY) (May) |  |  | -0.3% |
+| 23:45 | NZD | Building Consents (MoM) (Apr) |  |  | -1.3% |
+| 23:45 | NZD | Terms of Trade - Exports Prices (Q1) |  |  | 5.3% |
+| 23:45 | NZD | Terms of Trade - Exports Volume (QoQ) (Q1) |  |  | -3.2% |
+| 23:45 | NZD | Terms of Trade - Imports Prices (Q1) |  |  | 1.5% |
+| 23:45 | NZD | Terms of Trade Index (QoQ) (Q1) |  | -1.2% | 3.7% |
