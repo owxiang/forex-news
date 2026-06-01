@@ -1,4 +1,4 @@
-## 01 June 2026 - All Forex News
+## None - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
@@ -36,28 +36,28 @@
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (May) | 53.9 | 53.7 | 53.7 |
 | 10:00 | EUR | Moderate | Unemployment Rate (Apr) | 6.3% | 6.2% | 6.3% |
 | 10:00 | ZAR | Low | Manufacturing PMI (May) | 50.8 |  | 52.6 |
-| 12:00 | EUR | Low | Car Registration (MoM) (May) |  |  | -18.00% |
-| 12:00 | EUR | Low | Car Registration (YoY) (May) |  |  | 8.40% |
+| 12:00 | EUR | Low | Car Registration (MoM) (May) | 4.70% |  | -18.00% |
+| 12:00 | EUR | Low | Car Registration (YoY) (May) | -0.80% |  | 8.40% |
+| 12:10 | INR | Low | Industrial Production (YoY) (Apr) | 4.9% | 3.8% | 4.1% |
+| 12:10 | INR | Low | Manufacturing Output (MoM) (Apr) | 6.2% |  | 4.3% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 12:30 | INR | Low | Cumulative Industrial Production (Apr) |  |  | 4.10% |
-| 12:30 | INR | Low | Federal Fiscal Deficit (Mar) |  |  | 12,526.49B |
-| 12:30 | INR | Low | Industrial Production (YoY) (Apr) |  | 3.8% | 4.1% |
-| 12:30 | INR | Low | Manufacturing Output (MoM) (Apr) |  |  | 4.3% |
-| 13:15 | ZAR | Low | Total Vehicle Sales (YoY) (May) |  |  | 13.00% |
-| 13:15 | ZAR | Low | Total Vehicle Sales (May) |  |  | 47.98K |
+| 12:30 | INR | Low | Federal Fiscal Deficit (Mar) | 15,191.70B |  | 12,526.49B |
+| 12:31 | INR | Low | Federal Fiscal Deficit (Apr) | 3,623.03B |  | 15,191.70B |
+| 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (May) | 12.80% |  | 13.00% |
+| 13:00 | ZAR | Low | Total Vehicle Sales (May) | 51.07K |  | 47.89K |
 | 13:30 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.577% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.277% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.385% |
-| 14:00 | BRL | Low | S&P Global Manufacturing PMI (May) |  |  | 52.6 |
-| 14:30 | CAD | Low | S&P Global Manufacturing PMI (May) |  |  | 53.3 |
-| 14:45 | USD | High | S&P Global Manufacturing PMI (May) |  | 55.3 | 54.5 |
-| 15:00 | USD | Moderate | Construction Spending (MoM) (Apr) |  | 0.3% | 0.6% |
-| 15:00 | USD | Moderate | ISM Manufacturing Employment (May) |  |  | 46.4 |
-| 15:00 | USD | Low | ISM Manufacturing New Orders Index (May) |  |  | 54.1 |
-| 15:00 | USD | High | ISM Manufacturing PMI (May) |  | 53.3 | 52.7 |
-| 15:00 | USD | High | ISM Manufacturing Prices (May) |  | 85.3 | 84.6 |
-| 16:00 | MXN | Low | S&P Global Manufacturing PMI (May) |  |  | 47.70 |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.588% |  | 2.577% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.289% |  | 2.277% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.440% |  | 2.385% |
+| 14:00 | BRL | Low | S&P Global Manufacturing PMI (May) | 49.1 |  | 52.6 |
+| 14:30 | CAD | Low | S&P Global Manufacturing PMI (May) | 52.9 |  | 53.3 |
+| 14:45 | USD | High | S&P Global Manufacturing PMI (May) | 55.1 | 55.3 | 54.5 |
+| 15:00 | USD | Moderate | Construction Spending (MoM) (Apr) | 0.4% | 0.3% | 0.2% |
+| 15:00 | USD | Moderate | ISM Manufacturing Employment (May) | 48.6 |  | 46.4 |
+| 15:00 | USD | Low | ISM Manufacturing New Orders Index (May) | 56.8 |  | 54.1 |
+| 15:00 | USD | High | ISM Manufacturing PMI (May) | 54.0 | 53.3 | 52.7 |
+| 15:00 | USD | High | ISM Manufacturing Prices (May) | 82.1 | 85.3 | 84.6 |
+| 16:00 | MXN | Low | S&P Global Manufacturing PMI (May) | 49.60 |  | 47.70 |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.595% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.650% |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 3.8% | 3.8% |
