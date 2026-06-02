@@ -22,18 +22,18 @@
 | 05:00 | IDR | Low | Inflation (MoM) (May) | 0.28% | 0.14% | 0.13% |
 | 05:00 | IDR | Low | Trade Balance (Apr) | 0.09B | 1.50B | 3.32B |
 | 06:50 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
-| 07:00 | CHF | Low | Trade Balance (Apr) |  |  | 3.177B |
-| 07:45 | EUR | Low | French Government Budget Balance (Apr) |  |  | -42.9B |
-| 08:00 | EUR | Moderate | Spanish Unemployment Change (May) |  | -56.8K | -62.7K |
-| 09:30 | GBP | Low | BoE Consumer Credit (Apr) |  | 1.700B | 1.895B |
-| 09:30 | GBP | Low | M3 Money Supply (Apr) |  |  | 3,270.1B |
-| 09:30 | GBP | Low | M4 Money Supply (MoM) (Apr) |  | 0.6% | 0.8% |
-| 09:30 | GBP | Low | Mortgage Approvals (Apr) |  | 62.00K | 63.53K |
-| 09:30 | GBP | Low | Mortgage Lending (Apr) |  |  | 6.15B |
-| 09:30 | GBP | Low | Net Lending to Individuals |  | 7.100B | 8.000B |
-| 09:30 | HKD | Low | Retail Sales (YoY) (Apr) |  |  | 12.8% |
-| 09:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.635% |
-| 09:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 2.357% |
+| 07:00 | CHF | Low | Trade Balance (Apr) | 3.098B |  | 3.092B |
+| 07:45 | EUR | Low | French Government Budget Balance (Apr) | -69.6B |  | -42.9B |
+| 08:00 | EUR | Moderate | Spanish Unemployment Change (May) | -36.3K | -56.8K | -62.7K |
+| 39 min | GBP | Low | BoE Consumer Credit (Apr) |  | 1.700B | 1.895B |
+| 39 min | GBP | Low | M3 Money Supply (Apr) |  |  | 3,270.1B |
+| 39 min | GBP | Low | M4 Money Supply (MoM) (Apr) |  | 0.6% | 0.8% |
+| 39 min | GBP | Low | Mortgage Approvals (Apr) |  | 62.00K | 63.53K |
+| 39 min | GBP | Low | Mortgage Lending (Apr) |  |  | 6.15B |
+| 39 min | GBP | Low | Net Lending to Individuals |  | 7.100B | 8.000B |
+| 39 min | HKD | Low | Retail Sales (YoY) (Apr) |  |  | 12.8% |
+| 49 min | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.635% |
+| 49 min | EUR | Low | Spanish 6-Month Letras Auction |  |  | 2.357% |
 | 10:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (May) |  |  | 0.40% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (May) |  | 2.4% | 2.2% |
 | 10:00 | EUR | Low | Core CPI (MoM) (May) |  |  | 0.9% |

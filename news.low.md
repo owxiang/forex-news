@@ -17,17 +17,17 @@
 | 05:00 | IDR | Inflation (YoY) (May) | 3.08% | 2.97% | 2.42% |
 | 05:00 | IDR | Inflation (MoM) (May) | 0.28% | 0.14% | 0.13% |
 | 05:00 | IDR | Trade Balance (Apr) | 0.09B | 1.50B | 3.32B |
-| 07:00 | CHF | Trade Balance (Apr) |  |  | 3.177B |
-| 07:45 | EUR | French Government Budget Balance (Apr) |  |  | -42.9B |
-| 09:30 | GBP | BoE Consumer Credit (Apr) |  | 1.700B | 1.895B |
-| 09:30 | GBP | M3 Money Supply (Apr) |  |  | 3,270.1B |
-| 09:30 | GBP | M4 Money Supply (MoM) (Apr) |  | 0.6% | 0.8% |
-| 09:30 | GBP | Mortgage Approvals (Apr) |  | 62.00K | 63.53K |
-| 09:30 | GBP | Mortgage Lending (Apr) |  |  | 6.15B |
-| 09:30 | GBP | Net Lending to Individuals |  | 7.100B | 8.000B |
-| 09:30 | HKD | Retail Sales (YoY) (Apr) |  |  | 12.8% |
-| 09:40 | EUR | Spanish 12-Month Letras Auction |  |  | 2.635% |
-| 09:40 | EUR | Spanish 6-Month Letras Auction |  |  | 2.357% |
+| 07:00 | CHF | Trade Balance (Apr) | 3.098B |  | 3.092B |
+| 07:45 | EUR | French Government Budget Balance (Apr) | -69.6B |  | -42.9B |
+| 39 min | GBP | BoE Consumer Credit (Apr) |  | 1.700B | 1.895B |
+| 39 min | GBP | M3 Money Supply (Apr) |  |  | 3,270.1B |
+| 39 min | GBP | M4 Money Supply (MoM) (Apr) |  | 0.6% | 0.8% |
+| 39 min | GBP | Mortgage Approvals (Apr) |  | 62.00K | 63.53K |
+| 39 min | GBP | Mortgage Lending (Apr) |  |  | 6.15B |
+| 39 min | GBP | Net Lending to Individuals |  | 7.100B | 8.000B |
+| 39 min | HKD | Retail Sales (YoY) (Apr) |  |  | 12.8% |
+| 49 min | EUR | Spanish 12-Month Letras Auction |  |  | 2.635% |
+| 49 min | EUR | Spanish 6-Month Letras Auction |  |  | 2.357% |
 | 10:00 | EUR | Core CPI (MoM) (May) |  |  | 0.9% |
 | 10:00 | EUR | CPI, n.s.a (May) |  |  | 103.04 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (May) |  |  | 2.1% |
