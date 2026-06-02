@@ -52,8 +52,8 @@
 | 16:30 | USD | Low | Milk Auctions | 4,021.0 |  | 4,198.0 |
 | 17:00 | EUR | Low | French Car Registration (YoY) (May) | 3.7% |  | -0.3% |
 | 22:00 | USD | Moderate | API Weekly Crude Oil Stock | -6.750M | -3.600M | -2.800M |
-| 23:45 | NZD | Low | Building Consents (MoM) (Apr) |  |  | -1.3% |
-| 23:45 | NZD | Low | Terms of Trade - Exports Prices (Q1) |  |  | 5.3% |
-| 23:45 | NZD | Low | Terms of Trade - Exports Volume (QoQ) (Q1) |  |  | -3.2% |
-| 23:45 | NZD | Low | Terms of Trade - Imports Prices (Q1) |  |  | 1.5% |
-| 23:45 | NZD | Low | Terms of Trade Index (QoQ) (Q1) |  | -1.2% | 3.7% |
+| 23:45 | NZD | Low | Building Consents (MoM) (Apr) | 10.9% |  | -0.8% |
+| 23:45 | NZD | Low | Terms of Trade - Exports Prices (Q1) | -2.7% |  | 5.3% |
+| 23:45 | NZD | Low | Terms of Trade - Exports Volume (QoQ) (Q1) | 2.7% |  | -3.2% |
+| 23:45 | NZD | Low | Terms of Trade - Imports Prices (Q1) | -0.7% |  | 1.5% |
+| 23:45 | NZD | Low | Terms of Trade Index (QoQ) (Q1) | -2.0% | -1.2% | 3.7% |
