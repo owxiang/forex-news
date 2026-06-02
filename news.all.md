@@ -51,7 +51,7 @@
 | 16:30 | NZD | Low | GlobalDairyTrade Price Index | -0.6% |  | 0.6% |
 | 16:30 | USD | Low | Milk Auctions | 4,021.0 |  | 4,198.0 |
 | 17:00 | EUR | Low | French Car Registration (YoY) (May) | 3.7% |  | -0.3% |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -3.600M | -2.800M |
+| 22:00 | USD | Moderate | API Weekly Crude Oil Stock | -6.750M | -3.600M | -2.800M |
 | 23:45 | NZD | Low | Building Consents (MoM) (Apr) |  |  | -1.3% |
 | 23:45 | NZD | Low | Terms of Trade - Exports Prices (Q1) |  |  | 5.3% |
 | 23:45 | NZD | Low | Terms of Trade - Exports Volume (QoQ) (Q1) |  |  | -3.2% |

@@ -12,4 +12,4 @@
 | 10:00 | EUR | Core CPI (YoY) (May) | 2.5% | 2.4% | 2.2% |
 | 10:00 | EUR | CPI (MoM) (May) | 0.1% |  | 1.0% |
 | 15:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock |  | -3.600M | -2.800M |
+| 22:00 | USD | API Weekly Crude Oil Stock | -6.750M | -3.600M | -2.800M |
