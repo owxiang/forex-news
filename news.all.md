@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | KRW | Low | CPI (MoM) (May) | 0.5% | 0.3% | 0.5% |
 | 00:00 | KRW | Low | CPI (YoY) (May) | 3.1% | 3.0% | 2.6% |
-| 00:50 | JPY | Low | Monetary Base (YoY) (May) |  | -9.5% | -11.3% |
-| 01:30 | IDR | Low | S&P Global Manufacturing PMI (May) |  |  | 49.1 |
+| 00:50 | JPY | Low | Monetary Base (YoY) (May) | -12.2% | -9.5% | -11.3% |
+| 01:30 | IDR | Low | S&P Global Manufacturing PMI (May) | 50.0 |  | 49.1 |
 | 02:30 | AUD | Low | Building Approvals (YoY) (Apr) |  |  | 19.70% |
 | 02:30 | AUD | Moderate | Building Approvals (MoM) (Apr) |  | -1.5% | -10.5% |
 | 02:30 | AUD | Low | Business inventories (MoM) (Q1) |  |  | -0.1% |
