@@ -11,15 +11,15 @@
 | 02:30 | AUD | Company Profits Pre-Tax (QoQ) (Q1) | -4.1% |  | 1.6% |
 | 02:30 | AUD | Net Exports Contribution (Q1) | -0.8% |  | -0.1% |
 | 02:30 | AUD | Private House Approvals (Apr) | -1.0% |  | 0.5% |
-| 05:00 | CHF | Trade Balance (Apr) |  |  | 3.177B |
-| 05:00 | IDR | Core Inflation (YoY) (May) |  |  | 2.44% |
-| 05:00 | IDR | Export Growth (YoY) (Apr) |  |  | -3.10% |
-| 05:00 | IDR | Import Growth (YoY) (Apr) |  |  | 1.51% |
-| 05:00 | IDR | Inflation (YoY) (May) |  |  | 2.42% |
-| 05:00 | IDR | Inflation (MoM) (May) |  |  | 0.13% |
-| 05:00 | IDR | Trade Balance (Apr) |  |  | 3.32B |
+| 05:00 | IDR | Core Inflation (YoY) (May) | 2.59% | 2.52% | 2.44% |
+| 05:00 | IDR | Export Growth (YoY) (Apr) | 21.98% | 8.80% | -3.10% |
+| 05:00 | IDR | Import Growth (YoY) (Apr) | 22.49% | 3.25% | 1.51% |
+| 05:00 | IDR | Inflation (YoY) (May) | 3.08% | 2.97% | 2.42% |
+| 05:00 | IDR | Inflation (MoM) (May) | 0.28% | 0.14% | 0.13% |
+| 05:00 | IDR | Trade Balance (Apr) | 0.09B | 1.50B | 3.32B |
+| 07:00 | CHF | Trade Balance (Apr) |  |  | 3.177B |
 | 07:45 | EUR | French Government Budget Balance (Apr) |  |  | -42.9B |
-| 09:30 | GBP | BoE Consumer Credit (Apr) |  |  | 1.895B |
+| 09:30 | GBP | BoE Consumer Credit (Apr) |  | 1.700B | 1.895B |
 | 09:30 | GBP | M3 Money Supply (Apr) |  |  | 3,270.1B |
 | 09:30 | GBP | M4 Money Supply (MoM) (Apr) |  | 0.6% | 0.8% |
 | 09:30 | GBP | Mortgage Approvals (Apr) |  | 62.00K | 63.53K |
@@ -33,11 +33,11 @@
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (May) |  |  | 2.1% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (May) |  |  | 0.8% |
 | 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.700% |
-| 13:00 | NZD | GlobalDairyTrade Price Index |  |  | 0.6% |
-| 13:00 | USD | Milk Auctions |  |  | 4,198.0 |
 | 13:55 | USD | Redbook (YoY) |  |  | 9.0% |
 | 14:00 | SGD | S&P Global Manufacturing PMI (May) |  |  | 50.7 |
-| 15:10 | USD | IBD/TIPP Economic Optimism (Jun) |  |  | 42.6 |
+| 15:10 | USD | IBD/TIPP Economic Optimism (Jun) |  | 44.5 | 42.6 |
+| 16:00 | NZD | GlobalDairyTrade Price Index |  |  | 0.6% |
+| 16:00 | USD | Milk Auctions |  |  | 4,198.0 |
 | 17:00 | EUR | French Car Registration (YoY) (May) |  |  | -0.3% |
 | 23:45 | NZD | Building Consents (MoM) (Apr) |  |  | -1.3% |
 | 23:45 | NZD | Terms of Trade - Exports Prices (Q1) |  |  | 5.3% |
