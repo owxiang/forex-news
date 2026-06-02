@@ -43,14 +43,15 @@
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (May) | 0.3% |  | 0.8% |
 | 10:10 | EUR | Low | Spanish 6-Month Letras Auction | 2.376% |  | 2.357% |
 | 10:30 | EUR | Low | German 2-Year Schatz Auction | 2.590% |  | 2.700% |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 9.0% |
-| 14:00 | SGD | Low | S&P Global Manufacturing PMI (May) |  |  | 50.7 |
+| 13:55 | USD | Low | Redbook (YoY) | 9.0% |  | 9.0% |
+| 14:00 | SGD | Low | S&P Global Manufacturing PMI (May) | 51.0 |  | 50.7 |
 | 15:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 15:00 | USD | High | JOLTS Job Openings (Apr) |  | 6.860M | 6.866M |
 | 15:10 | USD | Low | IBD/TIPP Economic Optimism (Jun) |  | 44.5 | 42.6 |
 | 16:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 0.6% |
 | 16:00 | USD | Low | Milk Auctions |  |  | 4,198.0 |
 | 17:00 | EUR | Low | French Car Registration (YoY) (May) |  |  | -0.3% |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -3.600M | -2.800M |
 | 23:45 | NZD | Low | Building Consents (MoM) (Apr) |  |  | -1.3% |
 | 23:45 | NZD | Low | Terms of Trade - Exports Prices (Q1) |  |  | 5.3% |
 | 23:45 | NZD | Low | Terms of Trade - Exports Volume (QoQ) (Q1) |  |  | -3.2% |

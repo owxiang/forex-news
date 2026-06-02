@@ -33,8 +33,8 @@
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (May) | 0.3% |  | 0.8% |
 | 10:10 | EUR | Spanish 6-Month Letras Auction | 2.376% |  | 2.357% |
 | 10:30 | EUR | German 2-Year Schatz Auction | 2.590% |  | 2.700% |
-| 13:55 | USD | Redbook (YoY) |  |  | 9.0% |
-| 14:00 | SGD | S&P Global Manufacturing PMI (May) |  |  | 50.7 |
+| 13:55 | USD | Redbook (YoY) | 9.0% |  | 9.0% |
+| 14:00 | SGD | S&P Global Manufacturing PMI (May) | 51.0 |  | 50.7 |
 | 15:10 | USD | IBD/TIPP Economic Optimism (Jun) |  | 44.5 | 42.6 |
 | 16:00 | NZD | GlobalDairyTrade Price Index |  |  | 0.6% |
 | 16:00 | USD | Milk Auctions |  |  | 4,198.0 |
