@@ -3,4 +3,4 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 10:00 | EUR | CPI (YoY) (May) | 3.2% | 3.2% | 3.0% |
-| 15:00 | USD | JOLTS Job Openings (Apr) |  | 6.860M | 6.866M |
+| 15:00 | USD | JOLTS Job Openings (Apr) | 7.618M | 6.860M | 6.887M |
