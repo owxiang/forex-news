@@ -48,9 +48,9 @@
 | 15:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 15:00 | USD | High | JOLTS Job Openings (Apr) | 7.618M | 6.860M | 6.887M |
 | 15:10 | USD | Low | IBD/TIPP Economic Optimism (Jun) | 42.5 | 44.5 | 42.6 |
-| 17:00 | EUR | Low | French Car Registration (YoY) (May) |  |  | -0.3% |
-| 17:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 0.6% |
-| 17:00 | USD | Low | Milk Auctions |  |  | 4,198.0 |
+| 16:30 | NZD | Low | GlobalDairyTrade Price Index | -0.6% |  | 0.6% |
+| 16:30 | USD | Low | Milk Auctions | 4,021.0 |  | 4,198.0 |
+| 17:00 | EUR | Low | French Car Registration (YoY) (May) | 3.7% |  | -0.3% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -3.600M | -2.800M |
 | 23:45 | NZD | Low | Building Consents (MoM) (Apr) |  |  | -1.3% |
 | 23:45 | NZD | Low | Terms of Trade - Exports Prices (Q1) |  |  | 5.3% |

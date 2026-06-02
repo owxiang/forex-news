@@ -36,9 +36,9 @@
 | 13:55 | USD | Redbook (YoY) | 9.0% |  | 9.0% |
 | 14:00 | SGD | S&P Global Manufacturing PMI (May) | 51.0 |  | 50.7 |
 | 15:10 | USD | IBD/TIPP Economic Optimism (Jun) | 42.5 | 44.5 | 42.6 |
-| 17:00 | EUR | French Car Registration (YoY) (May) |  |  | -0.3% |
-| 17:00 | NZD | GlobalDairyTrade Price Index |  |  | 0.6% |
-| 17:00 | USD | Milk Auctions |  |  | 4,198.0 |
+| 16:30 | NZD | GlobalDairyTrade Price Index | -0.6% |  | 0.6% |
+| 16:30 | USD | Milk Auctions | 4,021.0 |  | 4,198.0 |
+| 17:00 | EUR | French Car Registration (YoY) (May) | 3.7% |  | -0.3% |
 | 23:45 | NZD | Building Consents (MoM) (Apr) |  |  | -1.3% |
 | 23:45 | NZD | Terms of Trade - Exports Prices (Q1) |  |  | 5.3% |
 | 23:45 | NZD | Terms of Trade - Exports Volume (QoQ) (Q1) |  |  | -3.2% |
