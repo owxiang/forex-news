@@ -8,7 +8,7 @@
 | 04:35 | JPY | 10-Year JGB Auction | 2.649% |  | 2.540% |
 | 06:50 | USD | FOMC Member Kashkari Speaks |  |  |  |
 | 08:00 | EUR | Spanish Unemployment Change (May) | -36.3K | -56.8K | -62.7K |
-| 10:00 | BRL | IPC-Fipe Inflation Index (MoM) (May) |  |  | 0.40% |
-| 10:00 | EUR | Core CPI (YoY) (May) |  | 2.4% | 2.2% |
-| 10:00 | EUR | CPI (MoM) (May) |  |  | 1.0% |
+| 09:00 | BRL | IPC-Fipe Inflation Index (MoM) (May) | 0.45% |  | 0.40% |
+| 10:00 | EUR | Core CPI (YoY) (May) | 2.5% | 2.4% | 2.2% |
+| 10:00 | EUR | CPI (MoM) (May) | 0.1% |  | 1.0% |
 | 15:00 | GBP | BoE Gov Bailey Speaks |  |  |  |

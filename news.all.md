@@ -25,24 +25,24 @@
 | 07:00 | CHF | Low | Trade Balance (Apr) | 3.098B |  | 3.092B |
 | 07:45 | EUR | Low | French Government Budget Balance (Apr) | -69.6B |  | -42.9B |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change (May) | -36.3K | -56.8K | -62.7K |
-| 39 min | GBP | Low | BoE Consumer Credit (Apr) |  | 1.700B | 1.895B |
-| 39 min | GBP | Low | M3 Money Supply (Apr) |  |  | 3,270.1B |
-| 39 min | GBP | Low | M4 Money Supply (MoM) (Apr) |  | 0.6% | 0.8% |
-| 39 min | GBP | Low | Mortgage Approvals (Apr) |  | 62.00K | 63.53K |
-| 39 min | GBP | Low | Mortgage Lending (Apr) |  |  | 6.15B |
-| 39 min | GBP | Low | Net Lending to Individuals |  | 7.100B | 8.000B |
-| 39 min | HKD | Low | Retail Sales (YoY) (Apr) |  |  | 12.8% |
-| 49 min | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.635% |
-| 49 min | EUR | Low | Spanish 6-Month Letras Auction |  |  | 2.357% |
-| 10:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (May) |  |  | 0.40% |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (May) |  | 2.4% | 2.2% |
-| 10:00 | EUR | Low | Core CPI (MoM) (May) |  |  | 0.9% |
-| 10:00 | EUR | High | CPI (YoY) (May) |  | 3.2% | 3.0% |
-| 10:00 | EUR | Moderate | CPI (MoM) (May) |  |  | 1.0% |
-| 10:00 | EUR | Low | CPI, n.s.a (May) |  |  | 103.04 |
-| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (May) |  |  | 2.1% |
-| 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (May) |  |  | 0.8% |
-| 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 2.700% |
+| 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (May) | 0.45% |  | 0.40% |
+| 09:30 | GBP | Low | BoE Consumer Credit (Apr) | 1.859B | 1.700B | 1.904B |
+| 09:30 | GBP | Low | M3 Money Supply (Apr) | 3,272.0B |  | 3,270.6B |
+| 09:30 | GBP | Low | M4 Money Supply (MoM) (Apr) | 0.2% | 0.6% | 0.8% |
+| 09:30 | GBP | Low | Mortgage Approvals (Apr) | 65.94K | 62.00K | 63.98K |
+| 09:30 | GBP | Low | Mortgage Lending (Apr) | 4.37B |  | 6.83B |
+| 09:30 | GBP | Low | Net Lending to Individuals | 6.200B | 7.100B | 8.000B |
+| 09:30 | HKD | Low | Retail Sales (YoY) (Apr) | 8.6% |  | 12.8% |
+| 09:50 | EUR | Low | Spanish 12-Month Letras Auction | 2.543% |  | 2.635% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (May) | 2.5% | 2.4% | 2.2% |
+| 10:00 | EUR | Low | Core CPI (MoM) (May) | 0.3% |  | 0.9% |
+| 10:00 | EUR | High | CPI (YoY) (May) | 3.2% | 3.2% | 3.0% |
+| 10:00 | EUR | Moderate | CPI (MoM) (May) | 0.1% |  | 1.0% |
+| 10:00 | EUR | Low | CPI, n.s.a (May) | 103.15 |  | 103.04 |
+| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (May) | 2.3% |  | 2.1% |
+| 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (May) | 0.3% |  | 0.8% |
+| 10:10 | EUR | Low | Spanish 6-Month Letras Auction | 2.376% |  | 2.357% |
+| 10:30 | EUR | Low | German 2-Year Schatz Auction | 2.590% |  | 2.700% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 9.0% |
 | 14:00 | SGD | Low | S&P Global Manufacturing PMI (May) |  |  | 50.7 |
 | 15:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
