@@ -1,15 +1,26 @@
-## 02 June 2026 - Moderate Impact Forex News
+## 03 June 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Building Approvals (MoM) (Apr) | -3.4% | -1.5% | -10.5% |
-| 02:30 | AUD | Company Gross Operating Profits (QoQ) (Q1) | -1.3% | 0.5% | 5.9% |
-| 02:30 | AUD | Current Account (Q1) | -27.1B | -23.1B | -23.0B |
-| 04:35 | JPY | 10-Year JGB Auction | 2.649% |  | 2.540% |
-| 06:50 | USD | FOMC Member Kashkari Speaks |  |  |  |
-| 08:00 | EUR | Spanish Unemployment Change (May) | -36.3K | -56.8K | -62.7K |
-| 09:00 | BRL | IPC-Fipe Inflation Index (MoM) (May) | 0.45% |  | 0.40% |
-| 10:00 | EUR | Core CPI (YoY) (May) | 2.5% | 2.4% | 2.2% |
-| 10:00 | EUR | CPI (MoM) (May) | 0.1% |  | 1.0% |
-| 15:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 22:00 | USD | API Weekly Crude Oil Stock | -6.750M | -3.600M | -2.800M |
+| 01:30 | JPY | S&P Global Services PMI (May) |  | 50.0 | 51.0 |
+| 02:30 | AUD | GDP (QoQ) (Q1) |  | 0.5% | 0.8% |
+| 02:30 | AUD | GDP (YoY) (Q1) |  | 2.7% | 2.6% |
+| 02:45 | CNY | RatingDog Services PMI (May) |  | 52.3 | 52.6 |
+| 08:15 | EUR | HCOB Spain Services PMI (May) |  | 48.3 | 47.9 |
+| 08:45 | EUR | HCOB Italy Services PMI (May) |  | 49.3 | 49.8 |
+| 08:50 | EUR | HCOB France Services PMI (May) |  | 42.9 | 46.5 |
+| 08:55 | EUR | HCOB Germany Services PMI (May) |  | 47.8 | 46.9 |
+| 09:00 | EUR | HCOB Eurozone Composite PMI (May) |  | 47.5 | 48.8 |
+| 09:00 | EUR | HCOB Eurozone Services PMI (May) |  | 46.4 | 47.6 |
+| 09:30 | GBP | S&P Global Composite PMI (May) |  | 48.5 | 52.6 |
+| 09:30 | GBP | S&P Global Services PMI (May) |  | 47.9 | 52.7 |
+| 10:30 | ZAR | GDP Annualized (QoQ) (Q1) |  |  | 0.4% |
+| 10:50 | EUR | ECB's Elderson Speaks |  |  |  |
+| 13:00 | BRL | Industrial Production (YoY) (Apr) |  | 1.7% | 4.3% |
+| 13:30 | CAD | Labor Productivity (QoQ) (Q1) |  | 0.3% | -0.1% |
+| 14:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 14:45 | USD | S&P Global Composite PMI (May) |  | 51.7 | 51.7 |
+| 15:00 | USD | Factory Orders (MoM) (Apr) |  | 4.6% | 1.5% |
+| 15:00 | USD | ISM Non-Manufacturing Employment (May) |  |  | 48.0 |
+| 15:30 | USD | Cushing Crude Oil Inventories |  |  | -2.794M |
+| 19:00 | USD | Beige Book |  |  |  |

@@ -1,46 +1,57 @@
-## 02 June 2026 - Low Impact Forex News
+## 03 June 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | CPI (MoM) (May) | 0.5% | 0.3% | 0.5% |
-| 00:00 | KRW | CPI (YoY) (May) | 3.1% | 3.0% | 2.6% |
-| 00:50 | JPY | Monetary Base (YoY) (May) | -12.2% | -9.5% | -11.3% |
-| 01:30 | IDR | S&P Global Manufacturing PMI (May) | 50.0 |  | 49.1 |
-| 02:30 | AUD | Building Approvals (YoY) (Apr) | 10.20% |  | 9.00% |
-| 02:30 | AUD | Business inventories (MoM) (Q1) | 0.5% |  | -0.1% |
-| 02:30 | AUD | Company Profits Pre-Tax (QoQ) (Q1) | -4.1% |  | 1.6% |
-| 02:30 | AUD | Net Exports Contribution (Q1) | -0.8% |  | -0.1% |
-| 02:30 | AUD | Private House Approvals (Apr) | -1.0% |  | 0.5% |
-| 05:00 | IDR | Core Inflation (YoY) (May) | 2.59% | 2.52% | 2.44% |
-| 05:00 | IDR | Export Growth (YoY) (Apr) | 21.98% | 8.80% | -3.10% |
-| 05:00 | IDR | Import Growth (YoY) (Apr) | 22.49% | 3.25% | 1.51% |
-| 05:00 | IDR | Inflation (YoY) (May) | 3.08% | 2.97% | 2.42% |
-| 05:00 | IDR | Inflation (MoM) (May) | 0.28% | 0.14% | 0.13% |
-| 05:00 | IDR | Trade Balance (Apr) | 0.09B | 1.50B | 3.32B |
-| 07:00 | CHF | Trade Balance (Apr) | 3.098B |  | 3.092B |
-| 07:45 | EUR | French Government Budget Balance (Apr) | -69.6B |  | -42.9B |
-| 09:30 | GBP | BoE Consumer Credit (Apr) | 1.859B | 1.700B | 1.904B |
-| 09:30 | GBP | M3 Money Supply (Apr) | 3,272.0B |  | 3,270.6B |
-| 09:30 | GBP | M4 Money Supply (MoM) (Apr) | 0.2% | 0.6% | 0.8% |
-| 09:30 | GBP | Mortgage Approvals (Apr) | 65.94K | 62.00K | 63.98K |
-| 09:30 | GBP | Mortgage Lending (Apr) | 4.37B |  | 6.83B |
-| 09:30 | GBP | Net Lending to Individuals | 6.200B | 7.100B | 8.000B |
-| 09:30 | HKD | Retail Sales (YoY) (Apr) | 8.6% |  | 12.8% |
-| 09:50 | EUR | Spanish 12-Month Letras Auction | 2.543% |  | 2.635% |
-| 10:00 | EUR | Core CPI (MoM) (May) | 0.3% |  | 0.9% |
-| 10:00 | EUR | CPI, n.s.a (May) | 103.15 |  | 103.04 |
-| 10:00 | EUR | HICP ex Energy & Food (YoY) (May) | 2.3% |  | 2.1% |
-| 10:00 | EUR | HICP ex Energy and Food (MoM) (May) | 0.3% |  | 0.8% |
-| 10:10 | EUR | Spanish 6-Month Letras Auction | 2.376% |  | 2.357% |
-| 10:30 | EUR | German 2-Year Schatz Auction | 2.590% |  | 2.700% |
-| 13:55 | USD | Redbook (YoY) | 9.0% |  | 9.0% |
-| 14:00 | SGD | S&P Global Manufacturing PMI (May) | 51.0 |  | 50.7 |
-| 15:10 | USD | IBD/TIPP Economic Optimism (Jun) | 42.5 | 44.5 | 42.6 |
-| 16:30 | NZD | GlobalDairyTrade Price Index | -0.6% |  | 0.6% |
-| 16:30 | USD | Milk Auctions | 4,021.0 |  | 4,198.0 |
-| 17:00 | EUR | French Car Registration (YoY) (May) | 3.7% |  | -0.3% |
-| 23:45 | NZD | Building Consents (MoM) (Apr) | 10.9% |  | -0.8% |
-| 23:45 | NZD | Terms of Trade - Exports Prices (Q1) | -2.7% |  | 5.3% |
-| 23:45 | NZD | Terms of Trade - Exports Volume (QoQ) (Q1) | 2.7% |  | -3.2% |
-| 23:45 | NZD | Terms of Trade - Imports Prices (Q1) | -0.7% |  | 1.5% |
-| 23:45 | NZD | Terms of Trade Index (QoQ) (Q1) | -2.0% | -1.2% | 3.7% |
+| 00:00 | AUD | AIG Construction Index (May) | -9.9 |  | -19.3 |
+| 00:00 | AUD | AIG Manufacturing Index (May) | -22.4 |  | -27.9 |
+| 00:00 | AUD | S&P Global Manufacturing & Services PMI (May) | 48.70 | 47.80 | 50.40 |
+| 00:00 | AUD | S&P Global Services PMI (May) | 48.7 | 47.7 | 50.7 |
+| 01:30 | JPY | Manufacturing & Services PMI (May) |  | 51.10 | 52.20 |
+| 01:30 | HKD | S&P Global Manufacturing PMI (May) |  |  | 48.6 |
+| 02:30 | AUD | GDP Capital Expenditure (Q1) |  |  | 0.7% |
+| 02:30 | AUD | GDP Chain Price Index (Q1) |  |  | 1.4% |
+| 02:30 | AUD | GDP Final Consumption (Q1) |  |  | 0.5% |
+| 02:30 | AUD | Housing Credit (Apr) |  |  | 0.6% |
+| 02:30 | AUD | Private Sector Credit (MoM) (Apr) |  | 0.6% | 0.7% |
+| 04:00 | USD | Fed Goolsbee Speaks |  |  |  |
+| 06:00 | INR | HSBC India Services PMI (May) |  | 58.9 | 58.8 |
+| 06:00 | INR | HSBC Manufacturing & Services PMI (May) |  | 58.10 | 58.20 |
+| 08:00 | NOK | Current Account (Q1) |  |  | 153.1B |
+| 08:15 | ZAR | S&P Global Manufacturing PMI (May) |  |  | 51.6 |
+| 08:45 | EUR | HCOB Italy Composite PMI (May) |  |  | 50.5 |
+| 08:50 | EUR | HCOB France Composite PMI (May) |  | 43.5 | 47.6 |
+| 08:55 | EUR | HCOB Germany Composite PMI (May) |  | 48.6 | 48.4 |
+| 09:30 | JPY | BOJ Gov Ueda Speaks |  |  |  |
+| 10:00 | NOK | House Price Index (YoY) (May) |  |  | 3.80% |
+| 10:00 | EUR | PPI (MoM) (Apr) |  | 0.6% | 3.4% |
+| 10:00 | EUR | PPI (YoY) (Apr) |  | 4.8% | 2.1% |
+| 10:30 | ZAR | GDP (YoY) (Q1) |  |  | 0.8% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.65% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -8.5% |
+| 12:00 | USD | MBA Purchase Index |  |  | 169.7 |
+| 12:00 | USD | Mortgage Market Index |  |  | 259.4 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 753.7 |
+| 12:30 | INR | M3 Money Supply |  |  | 12.0% |
+| 13:00 | BRL | Industrial Production (MoM) (Apr) |  | 0.4% | 0.1% |
+| 14:00 | BRL | S&P Global Composite PMI (May) |  |  | 52.4 |
+| 14:00 | BRL | S&P Global Services PMI (May) |  |  | 52.3 |
+| 14:30 | CAD | S&P Global Services PMI (May) |  |  | 49.20 |
+| 15:00 | USD | Durables Excluding Defense (MoM) (Apr) |  |  | 8.1% |
+| 15:00 | USD | Durables Excluding Transport (MoM) (Apr) |  |  | 1.1% |
+| 15:00 | USD | Factory orders ex transportation (MoM) (Apr) |  |  | 1.6% |
+| 15:00 | USD | ISM Non-Manufacturing Business Activity (May) |  |  | 55.9 |
+| 15:00 | USD | ISM Non-Manufacturing New Orders (May) |  |  | 53.5 |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.652M |
+| 15:30 | USD | Crude Oil Imports |  |  | 0.360M |
+| 15:30 | USD | Distillate Fuel Production |  |  | 0.076M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | -2.107M |
+| 15:30 | USD | Gasoline Production |  |  | 0.600M |
+| 15:30 | USD | Heating Oil Stockpiles |  |  | 0.306M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 2.9% |
+| 15:30 | USD | Gasoline Inventories |  |  | -2.572M |
+| 17:20 | EUR | Italian Car Registration (YoY) (May) |  |  | 11.6% |
+| 18:30 | BRL | Foreign Exchange Flows |  |  | -3.648B |
+| 19:00 | USD | Total Vehicle Sales (May) |  | 16.00M | 15.90M |
+| 19:00 | BRL | Trade Balance (May) |  | 7.65B | 10.54B |
+| 21:00 | USD | Fed Logan Speaks |  |  |  |
+| 22:00 | KRW | FX Reserves - USD (May) |  |  | 427.88B |
