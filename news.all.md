@@ -6,16 +6,15 @@
 | 00:00 | KRW | Low | CPI (YoY) (May) | 3.1% | 3.0% | 2.6% |
 | 00:50 | JPY | Low | Monetary Base (YoY) (May) | -12.2% | -9.5% | -11.3% |
 | 01:30 | IDR | Low | S&P Global Manufacturing PMI (May) | 50.0 |  | 49.1 |
-| 02:30 | AUD | Low | Building Approvals (YoY) (Apr) |  |  | 19.70% |
-| 02:30 | AUD | Moderate | Building Approvals (MoM) (Apr) |  | -1.5% | -10.5% |
-| 02:30 | AUD | Low | Business inventories (MoM) (Q1) |  |  | -0.1% |
-| 02:30 | AUD | Moderate | Company Gross Operating Profits (QoQ) (Q1) |  | 0.5% | 5.8% |
-| 02:30 | AUD | Low | Company Profits Pre-Tax (QoQ) (Q1) |  |  | 1.6% |
-| 02:30 | AUD | Moderate | Current Account (Q1) |  | -22.8B | -21.1B |
-| 02:30 | AUD | Low | Housing Credit (Apr) |  |  | 0.6% |
-| 02:30 | AUD | Low | Net Exports Contribution (Q1) |  |  | -0.1% |
-| 02:30 | AUD | Low | Private House Approvals (Apr) |  |  | 0.9% |
-| 02:30 | AUD | Low | Private Sector Credit (MoM) (Apr) |  | 0.6% | 0.7% |
+| 02:30 | AUD | Low | Building Approvals (YoY) (Apr) | 10.20% |  | 9.00% |
+| 02:30 | AUD | Moderate | Building Approvals (MoM) (Apr) | -3.4% | -1.5% | -10.5% |
+| 02:30 | AUD | Low | Business inventories (MoM) (Q1) | 0.5% |  | -0.1% |
+| 02:30 | AUD | Moderate | Company Gross Operating Profits (QoQ) (Q1) | -1.3% | 0.5% | 5.9% |
+| 02:30 | AUD | Low | Company Profits Pre-Tax (QoQ) (Q1) | -4.1% |  | 1.6% |
+| 02:30 | AUD | Moderate | Current Account (Q1) | -27.1B | -23.1B | -23.0B |
+| 02:30 | AUD | Low | Net Exports Contribution (Q1) | -0.8% |  | -0.1% |
+| 02:30 | AUD | Low | Private House Approvals (Apr) | -1.0% |  | 0.5% |
+| 04:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 2.540% |
 | 05:00 | CHF | Low | Trade Balance (Apr) |  |  | 3.177B |
 | 05:00 | IDR | Low | Core Inflation (YoY) (May) |  |  | 2.44% |
 | 05:00 | IDR | Low | Export Growth (YoY) (Apr) |  |  | -3.10% |

@@ -2,9 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Building Approvals (MoM) (Apr) |  | -1.5% | -10.5% |
-| 02:30 | AUD | Company Gross Operating Profits (QoQ) (Q1) |  | 0.5% | 5.8% |
-| 02:30 | AUD | Current Account (Q1) |  | -22.8B | -21.1B |
+| 02:30 | AUD | Building Approvals (MoM) (Apr) | -3.4% | -1.5% | -10.5% |
+| 02:30 | AUD | Company Gross Operating Profits (QoQ) (Q1) | -1.3% | 0.5% | 5.9% |
+| 02:30 | AUD | Current Account (Q1) | -27.1B | -23.1B | -23.0B |
+| 04:35 | JPY | 10-Year JGB Auction |  |  | 2.540% |
 | 06:50 | USD | FOMC Member Kashkari Speaks |  |  |  |
 | 08:00 | EUR | Spanish Unemployment Change (May) |  |  | -62.7K |
 | 10:00 | BRL | IPC-Fipe Inflation Index (MoM) (May) |  |  | 0.40% |
