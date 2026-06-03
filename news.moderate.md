@@ -19,7 +19,7 @@
 | 13:30 | CAD | Labor Productivity (QoQ) (Q1) | -0.5% | 0.3% | -0.3% |
 | 14:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 14:45 | USD | S&P Global Composite PMI (May) | 51.5 | 51.7 | 51.7 |
-| 15:00 | USD | Factory Orders (MoM) (Apr) |  | 4.6% | 1.5% |
-| 15:00 | USD | ISM Non-Manufacturing Employment (May) |  |  | 48.0 |
-| 15:30 | USD | Cushing Crude Oil Inventories |  |  | -2.794M |
+| 15:00 | USD | Factory Orders (MoM) (Apr) | 4.8% | 4.6% | 1.8% |
+| 15:00 | USD | ISM Non-Manufacturing Employment (May) | 47.9 | 48.8 | 48.0 |
+| 15:30 | USD | Cushing Crude Oil Inventories | -0.583M |  | -2.794M |
 | 19:00 | USD | Beige Book |  |  |  |

@@ -33,19 +33,21 @@
 | 14:00 | BRL | S&P Global Composite PMI (May) | 49.5 |  | 52.4 |
 | 14:00 | BRL | S&P Global Services PMI (May) | 50.4 |  | 52.3 |
 | 14:30 | CAD | S&P Global Services PMI (May) | 50.60 |  | 49.20 |
-| 15:00 | USD | Durables Excluding Defense (MoM) (Apr) |  |  | 8.1% |
-| 15:00 | USD | Durables Excluding Transport (MoM) (Apr) |  |  | 1.1% |
-| 15:00 | USD | Factory orders ex transportation (MoM) (Apr) |  |  | 1.6% |
-| 15:00 | USD | ISM Non-Manufacturing Business Activity (May) |  |  | 55.9 |
-| 15:00 | USD | ISM Non-Manufacturing New Orders (May) |  |  | 53.5 |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.652M |
-| 15:30 | USD | Crude Oil Imports |  |  | 0.360M |
-| 15:30 | USD | Distillate Fuel Production |  |  | 0.076M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  | -0.300M | -2.107M |
-| 15:30 | USD | Gasoline Production |  |  | 0.600M |
-| 15:30 | USD | Heating Oil Stockpiles |  |  | 0.306M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 2.9% |
-| 15:30 | USD | Gasoline Inventories |  | -0.500M | -2.572M |
+| 15:00 | USD | All Car Sales (May) | 2.66M |  | 2.69M |
+| 15:00 | USD | All Truck Sales (May) | 13.43M |  | 13.32M |
+| 15:00 | USD | Durables Excluding Defense (MoM) (Apr) | 8.1% | 8.1% | -0.3% |
+| 15:00 | USD | Durables Excluding Transport (MoM) (Apr) | 1.1% |  | 0.9% |
+| 15:00 | USD | Factory orders ex transportation (MoM) (Apr) | 1.3% |  | 1.8% |
+| 15:00 | USD | ISM Non-Manufacturing Business Activity (May) | 57.7 |  | 55.9 |
+| 15:00 | USD | ISM Non-Manufacturing New Orders (May) | 57.3 | 53.4 | 53.5 |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) | -0.090M |  | 0.652M |
+| 15:30 | USD | Crude Oil Imports | -0.249M |  | 0.360M |
+| 15:30 | USD | Distillate Fuel Production | 0.098M |  | 0.076M |
+| 15:30 | USD | EIA Weekly Distillates Stocks | 1.502M | -0.300M | -2.107M |
+| 15:30 | USD | Gasoline Production | -0.515M |  | 0.600M |
+| 15:30 | USD | Heating Oil Stockpiles | 0.255M |  | 0.306M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.2% |  | 2.9% |
+| 15:30 | USD | Gasoline Inventories | 3.364M | -0.500M | -2.572M |
 | 17:20 | EUR | Italian Car Registration (YoY) (May) |  |  | 11.6% |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | -3.648B |
 | 19:00 | BRL | Trade Balance (May) |  | 7.65B | 10.54B |

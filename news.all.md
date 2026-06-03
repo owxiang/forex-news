@@ -41,8 +41,8 @@
 | 12:00 | USD | Low | MBA Purchase Index | 164.8 |  | 169.7 |
 | 12:00 | USD | Low | Mortgage Market Index | 252.8 |  | 259.4 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 736.2 |  | 753.7 |
-| 13:00 | BRL | Low | Industrial Production (MoM) (Apr) | 0.7% | 0.4% | 0.3% |
 | 13:00 | BRL | Moderate | Industrial Production (YoY) (Apr) | 2.7% | 1.7% | 4.4% |
+| 13:00 | BRL | Low | Industrial Production (MoM) (Apr) | 0.7% | 0.4% | 0.3% |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (May) | 122K | 118K | 105K |
 | 13:15 | CAD | Low | Reserve Assets Total (May) | 126.9B |  | 126.7B |
 | 13:30 | CAD | Moderate | Labor Productivity (QoQ) (Q1) | -0.5% | 0.3% | -0.3% |
@@ -52,25 +52,27 @@
 | 14:30 | CAD | Low | S&P Global Services PMI (May) | 50.60 |  | 49.20 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (May) | 51.5 | 51.7 | 51.7 |
 | 14:45 | USD | High | S&P Global Services PMI (May) | 50.7 | 50.9 | 50.9 |
-| 15:00 | USD | Low | Durables Excluding Defense (MoM) (Apr) |  |  | 8.1% |
-| 15:00 | USD | Low | Durables Excluding Transport (MoM) (Apr) |  |  | 1.1% |
-| 15:00 | USD | Moderate | Factory Orders (MoM) (Apr) |  | 4.6% | 1.5% |
-| 15:00 | USD | Low | Factory orders ex transportation (MoM) (Apr) |  |  | 1.6% |
-| 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (May) |  |  | 55.9 |
-| 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (May) |  |  | 48.0 |
-| 15:00 | USD | Low | ISM Non-Manufacturing New Orders (May) |  |  | 53.5 |
-| 15:00 | USD | High | ISM Non-Manufacturing PMI (May) |  | 53.7 | 53.6 |
-| 15:00 | USD | High | ISM Non-Manufacturing Prices (May) |  |  | 70.7 |
-| 15:30 | USD | High | Crude Oil Inventories |  | -2.900M | -3.327M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.652M |
-| 15:30 | USD | Low | Crude Oil Imports |  |  | 0.360M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -2.794M |
-| 15:30 | USD | Low | Distillate Fuel Production |  |  | 0.076M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | -0.300M | -2.107M |
-| 15:30 | USD | Low | Gasoline Production |  |  | 0.600M |
-| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.306M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 2.9% |
-| 15:30 | USD | Low | Gasoline Inventories |  | -0.500M | -2.572M |
+| 15:00 | USD | Low | All Car Sales (May) | 2.66M |  | 2.69M |
+| 15:00 | USD | Low | All Truck Sales (May) | 13.43M |  | 13.32M |
+| 15:00 | USD | Low | Durables Excluding Defense (MoM) (Apr) | 8.1% | 8.1% | -0.3% |
+| 15:00 | USD | Low | Durables Excluding Transport (MoM) (Apr) | 1.1% |  | 0.9% |
+| 15:00 | USD | Moderate | Factory Orders (MoM) (Apr) | 4.8% | 4.6% | 1.8% |
+| 15:00 | USD | Low | Factory orders ex transportation (MoM) (Apr) | 1.3% |  | 1.8% |
+| 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (May) | 57.7 |  | 55.9 |
+| 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (May) | 47.9 | 48.8 | 48.0 |
+| 15:00 | USD | Low | ISM Non-Manufacturing New Orders (May) | 57.3 | 53.4 | 53.5 |
+| 15:00 | USD | High | ISM Non-Manufacturing PMI (May) | 54.5 | 53.7 | 53.6 |
+| 15:00 | USD | High | ISM Non-Manufacturing Prices (May) | 71.3 | 72.3 | 70.7 |
+| 15:30 | USD | High | Crude Oil Inventories | -7.974M | -2.900M | -3.327M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | -0.090M |  | 0.652M |
+| 15:30 | USD | Low | Crude Oil Imports | -0.249M |  | 0.360M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | -0.583M |  | -2.794M |
+| 15:30 | USD | Low | Distillate Fuel Production | 0.098M |  | 0.076M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks | 1.502M | -0.300M | -2.107M |
+| 15:30 | USD | Low | Gasoline Production | -0.515M |  | 0.600M |
+| 15:30 | USD | Low | Heating Oil Stockpiles | 0.255M |  | 0.306M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 0.2% |  | 2.9% |
+| 15:30 | USD | Low | Gasoline Inventories | 3.364M | -0.500M | -2.572M |
 | 17:20 | EUR | Low | Italian Car Registration (YoY) (May) |  |  | 11.6% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -3.648B |
 | 19:00 | USD | Moderate | Beige Book |  |  |  |
