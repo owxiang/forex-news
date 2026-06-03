@@ -12,8 +12,8 @@
 | 02:30 | AUD | GDP Chain Price Index (Q1) | 0.8% |  | 1.4% |
 | 02:30 | AUD | GDP Final Consumption (Q1) | 0.3% |  | 0.6% |
 | 04:00 | USD | Fed Goolsbee Speaks |  |  |  |
-| 06:00 | INR | HSBC India Services PMI (May) |  | 58.9 | 58.8 |
-| 06:00 | INR | HSBC Manufacturing & Services PMI (May) |  | 58.10 | 58.20 |
+| 06:00 | INR | HSBC India Services PMI (May) | 59.8 | 58.9 | 58.8 |
+| 06:00 | INR | HSBC Manufacturing & Services PMI (May) | 59.30 | 58.10 | 58.20 |
 | 08:00 | NOK | Current Account (Q1) |  |  | 153.1B |
 | 08:15 | ZAR | S&P Global Manufacturing PMI (May) |  |  | 51.6 |
 | 08:45 | EUR | HCOB Italy Composite PMI (May) |  |  | 50.5 |
