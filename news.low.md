@@ -20,9 +20,9 @@
 | 08:50 | EUR | HCOB France Composite PMI (May) | 44.9 | 43.5 | 47.6 |
 | 08:55 | EUR | HCOB Germany Composite PMI (May) | 48.8 | 48.6 | 48.4 |
 | 09:30 | JPY | BOJ Gov Ueda Speaks |  |  |  |
-| 10:00 | NOK | House Price Index (YoY) (May) |  |  | 3.80% |
-| 10:00 | EUR | PPI (MoM) (Apr) |  | 0.6% | 3.4% |
-| 10:00 | EUR | PPI (YoY) (Apr) |  | 4.8% | 2.1% |
+| 10:00 | NOK | House Price Index (YoY) (May) | 3.80% |  | 3.80% |
+| 10:00 | EUR | PPI (MoM) (Apr) | 0.6% | 0.6% | 3.4% |
+| 10:00 | EUR | PPI (YoY) (Apr) | 4.9% | 4.8% | 2.0% |
 | 10:30 | ZAR | GDP (YoY) (Q1) |  |  | 0.8% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.65% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -8.5% |

@@ -10,10 +10,10 @@
 | 08:45 | EUR | HCOB Italy Services PMI (May) | 49.4 | 49.2 | 49.8 |
 | 08:50 | EUR | HCOB France Services PMI (May) | 44.3 | 42.9 | 46.5 |
 | 08:55 | EUR | HCOB Germany Services PMI (May) | 48.1 | 47.8 | 46.9 |
-| 09:00 | EUR | HCOB Eurozone Composite PMI (May) |  | 47.5 | 48.8 |
-| 09:00 | EUR | HCOB Eurozone Services PMI (May) |  | 46.4 | 47.6 |
-| 09:30 | GBP | S&P Global Composite PMI (May) |  | 48.5 | 52.6 |
-| 09:30 | GBP | S&P Global Services PMI (May) |  | 47.9 | 52.7 |
+| 09:00 | EUR | HCOB Eurozone Composite PMI (May) | 48.5 | 47.5 | 48.8 |
+| 09:00 | EUR | HCOB Eurozone Services PMI (May) | 47.7 | 46.4 | 47.6 |
+| 09:30 | GBP | S&P Global Composite PMI (May) | 49.7 | 48.5 | 52.6 |
+| 09:30 | GBP | S&P Global Services PMI (May) | 49.3 | 47.9 | 52.7 |
 | 10:30 | ZAR | GDP Annualized (QoQ) (Q1) |  |  | 0.4% |
 | 10:50 | EUR | ECB's Elderson Speaks |  |  |  |
 | 13:00 | BRL | Industrial Production (YoY) (Apr) |  | 1.7% | 4.3% |

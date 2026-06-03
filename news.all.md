@@ -27,14 +27,14 @@
 | 08:50 | EUR | Moderate | HCOB France Services PMI (May) | 44.3 | 42.9 | 46.5 |
 | 08:55 | EUR | Low | HCOB Germany Composite PMI (May) | 48.8 | 48.6 | 48.4 |
 | 08:55 | EUR | Moderate | HCOB Germany Services PMI (May) | 48.1 | 47.8 | 46.9 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (May) |  | 47.5 | 48.8 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (May) |  | 46.4 | 47.6 |
-| 09:30 | GBP | Moderate | S&P Global Composite PMI (May) |  | 48.5 | 52.6 |
-| 09:30 | GBP | Moderate | S&P Global Services PMI (May) |  | 47.9 | 52.7 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (May) | 48.5 | 47.5 | 48.8 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (May) | 47.7 | 46.4 | 47.6 |
+| 09:30 | GBP | Moderate | S&P Global Composite PMI (May) | 49.7 | 48.5 | 52.6 |
+| 09:30 | GBP | Moderate | S&P Global Services PMI (May) | 49.3 | 47.9 | 52.7 |
 | 09:30 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
-| 10:00 | NOK | Low | House Price Index (YoY) (May) |  |  | 3.80% |
-| 10:00 | EUR | Low | PPI (MoM) (Apr) |  | 0.6% | 3.4% |
-| 10:00 | EUR | Low | PPI (YoY) (Apr) |  | 4.8% | 2.1% |
+| 10:00 | NOK | Low | House Price Index (YoY) (May) | 3.80% |  | 3.80% |
+| 10:00 | EUR | Low | PPI (MoM) (Apr) | 0.6% | 0.6% | 3.4% |
+| 10:00 | EUR | Low | PPI (YoY) (Apr) | 4.9% | 4.8% | 2.0% |
 | 10:30 | ZAR | Moderate | GDP Annualized (QoQ) (Q1) |  |  | 0.4% |
 | 10:30 | ZAR | Low | GDP (YoY) (Q1) |  |  | 0.8% |
 | 10:50 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
