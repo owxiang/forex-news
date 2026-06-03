@@ -14,11 +14,11 @@
 | 04:00 | USD | Fed Goolsbee Speaks |  |  |  |
 | 06:00 | INR | HSBC India Services PMI (May) | 59.8 | 58.9 | 58.8 |
 | 06:00 | INR | HSBC Manufacturing & Services PMI (May) | 59.30 | 58.10 | 58.20 |
-| 08:00 | NOK | Current Account (Q1) |  |  | 153.1B |
-| 08:15 | ZAR | S&P Global Manufacturing PMI (May) |  |  | 51.6 |
-| 08:45 | EUR | HCOB Italy Composite PMI (May) |  |  | 50.5 |
-| 08:50 | EUR | HCOB France Composite PMI (May) |  | 43.5 | 47.6 |
-| 08:55 | EUR | HCOB Germany Composite PMI (May) |  | 48.6 | 48.4 |
+| 07:00 | NOK | Current Account (Q1) | 266.8B |  | 150.0B |
+| 08:15 | ZAR | S&P Global Manufacturing PMI (May) | 49.6 |  | 51.6 |
+| 08:45 | EUR | HCOB Italy Composite PMI (May) | 50.4 |  | 50.5 |
+| 08:50 | EUR | HCOB France Composite PMI (May) | 44.9 | 43.5 | 47.6 |
+| 08:55 | EUR | HCOB Germany Composite PMI (May) | 48.8 | 48.6 | 48.4 |
 | 09:30 | JPY | BOJ Gov Ueda Speaks |  |  |  |
 | 10:00 | NOK | House Price Index (YoY) (May) |  |  | 3.80% |
 | 10:00 | EUR | PPI (MoM) (Apr) |  | 0.6% | 3.4% |
@@ -49,7 +49,6 @@
 | 15:30 | USD | Gasoline Inventories |  |  | -2.572M |
 | 17:20 | EUR | Italian Car Registration (YoY) (May) |  |  | 11.6% |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | -3.648B |
-| 19:00 | USD | Total Vehicle Sales (May) |  | 16.00M | 15.90M |
 | 19:00 | BRL | Trade Balance (May) |  | 7.65B | 10.54B |
 | 21:00 | USD | Fed Logan Speaks |  |  |  |
 | 22:00 | KRW | FX Reserves - USD (May) |  |  | 427.88B |

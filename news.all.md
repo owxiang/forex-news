@@ -18,15 +18,15 @@
 | 04:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 06:00 | INR | Low | HSBC India Services PMI (May) | 59.8 | 58.9 | 58.8 |
 | 06:00 | INR | Low | HSBC Manufacturing & Services PMI (May) | 59.30 | 58.10 | 58.20 |
-| 08:00 | NOK | Low | Current Account (Q1) |  |  | 153.1B |
-| 08:15 | EUR | Moderate | HCOB Spain Services PMI (May) |  | 48.2 | 47.9 |
-| 08:15 | ZAR | Low | S&P Global Manufacturing PMI (May) |  |  | 51.6 |
-| 08:45 | EUR | Low | HCOB Italy Composite PMI (May) |  |  | 50.5 |
-| 08:45 | EUR | Moderate | HCOB Italy Services PMI (May) |  | 49.2 | 49.8 |
-| 08:50 | EUR | Low | HCOB France Composite PMI (May) |  | 43.5 | 47.6 |
-| 08:50 | EUR | Moderate | HCOB France Services PMI (May) |  | 42.9 | 46.5 |
-| 08:55 | EUR | Low | HCOB Germany Composite PMI (May) |  | 48.6 | 48.4 |
-| 08:55 | EUR | Moderate | HCOB Germany Services PMI (May) |  | 47.8 | 46.9 |
+| 07:00 | NOK | Low | Current Account (Q1) | 266.8B |  | 150.0B |
+| 08:15 | EUR | Moderate | HCOB Spain Services PMI (May) | 50.1 | 48.2 | 47.9 |
+| 08:15 | ZAR | Low | S&P Global Manufacturing PMI (May) | 49.6 |  | 51.6 |
+| 08:45 | EUR | Low | HCOB Italy Composite PMI (May) | 50.4 |  | 50.5 |
+| 08:45 | EUR | Moderate | HCOB Italy Services PMI (May) | 49.4 | 49.2 | 49.8 |
+| 08:50 | EUR | Low | HCOB France Composite PMI (May) | 44.9 | 43.5 | 47.6 |
+| 08:50 | EUR | Moderate | HCOB France Services PMI (May) | 44.3 | 42.9 | 46.5 |
+| 08:55 | EUR | Low | HCOB Germany Composite PMI (May) | 48.8 | 48.6 | 48.4 |
+| 08:55 | EUR | Moderate | HCOB Germany Services PMI (May) | 48.1 | 47.8 | 46.9 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (May) |  | 47.5 | 48.8 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (May) |  | 46.4 | 47.6 |
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (May) |  | 48.5 | 52.6 |
@@ -76,7 +76,6 @@
 | 17:20 | EUR | Low | Italian Car Registration (YoY) (May) |  |  | 11.6% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -3.648B |
 | 19:00 | USD | Moderate | Beige Book |  |  |  |
-| 19:00 | USD | Low | Total Vehicle Sales (May) |  | 16.00M | 15.90M |
 | 19:00 | BRL | Low | Trade Balance (May) |  | 7.65B | 10.54B |
 | 21:00 | USD | Low | Fed Logan Speaks |  |  |  |
 | 22:00 | KRW | Low | FX Reserves - USD (May) |  |  | 427.88B |
