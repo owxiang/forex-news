@@ -8,11 +8,9 @@
 | 00:00 | AUD | S&P Global Services PMI (May) | 48.7 | 47.7 | 50.7 |
 | 01:30 | JPY | Manufacturing & Services PMI (May) | 51.10 | 51.10 | 52.20 |
 | 01:30 | HKD | S&P Global Manufacturing PMI (May) | 50.4 |  | 48.6 |
-| 02:30 | AUD | GDP Capital Expenditure (Q1) |  |  | 0.7% |
-| 02:30 | AUD | GDP Chain Price Index (Q1) |  |  | 1.4% |
-| 02:30 | AUD | GDP Final Consumption (Q1) |  |  | 0.5% |
-| 02:30 | AUD | Housing Credit (Apr) |  |  | 0.6% |
-| 02:30 | AUD | Private Sector Credit (MoM) (Apr) |  | 0.6% | 0.7% |
+| 02:30 | AUD | GDP Capital Expenditure (Q1) | 3.0% |  | 0.8% |
+| 02:30 | AUD | GDP Chain Price Index (Q1) | 0.8% |  | 1.4% |
+| 02:30 | AUD | GDP Final Consumption (Q1) | 0.3% |  | 0.6% |
 | 04:00 | USD | Fed Goolsbee Speaks |  |  |  |
 | 06:00 | INR | HSBC India Services PMI (May) |  | 58.9 | 58.8 |
 | 06:00 | INR | HSBC Manufacturing & Services PMI (May) |  | 58.10 | 58.20 |

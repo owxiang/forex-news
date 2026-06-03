@@ -9,14 +9,12 @@
 | 01:30 | JPY | Low | Manufacturing & Services PMI (May) | 51.10 | 51.10 | 52.20 |
 | 01:30 | JPY | Moderate | S&P Global Services PMI (May) | 50.0 | 50.0 | 51.0 |
 | 01:30 | HKD | Low | S&P Global Manufacturing PMI (May) | 50.4 |  | 48.6 |
-| 02:30 | AUD | Moderate | GDP (QoQ) (Q1) |  | 0.5% | 0.8% |
-| 02:30 | AUD | Moderate | GDP (YoY) (Q1) |  | 2.7% | 2.6% |
-| 02:30 | AUD | Low | GDP Capital Expenditure (Q1) |  |  | 0.7% |
-| 02:30 | AUD | Low | GDP Chain Price Index (Q1) |  |  | 1.4% |
-| 02:30 | AUD | Low | GDP Final Consumption (Q1) |  |  | 0.5% |
-| 02:30 | AUD | Low | Housing Credit (Apr) |  |  | 0.6% |
-| 02:30 | AUD | Low | Private Sector Credit (MoM) (Apr) |  | 0.6% | 0.7% |
-| 02:45 | CNY | Moderate | RatingDog Services PMI (May) |  | 52.3 | 52.6 |
+| 02:30 | AUD | Moderate | GDP (QoQ) (Q1) | 0.3% | 0.5% | 0.9% |
+| 02:30 | AUD | Moderate | GDP (YoY) (Q1) | 2.5% | 2.7% | 2.5% |
+| 02:30 | AUD | Low | GDP Capital Expenditure (Q1) | 3.0% |  | 0.8% |
+| 02:30 | AUD | Low | GDP Chain Price Index (Q1) | 0.8% |  | 1.4% |
+| 02:30 | AUD | Low | GDP Final Consumption (Q1) | 0.3% |  | 0.6% |
+| 02:45 | CNY | Moderate | RatingDog Services PMI (May) | 54.4 | 52.3 | 52.6 |
 | 04:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 06:00 | INR | Low | HSBC India Services PMI (May) |  | 58.9 | 58.8 |
 | 06:00 | INR | Low | HSBC Manufacturing & Services PMI (May) |  | 58.10 | 58.20 |

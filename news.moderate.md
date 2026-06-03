@@ -3,9 +3,9 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:30 | JPY | S&P Global Services PMI (May) | 50.0 | 50.0 | 51.0 |
-| 02:30 | AUD | GDP (QoQ) (Q1) |  | 0.5% | 0.8% |
-| 02:30 | AUD | GDP (YoY) (Q1) |  | 2.7% | 2.6% |
-| 02:45 | CNY | RatingDog Services PMI (May) |  | 52.3 | 52.6 |
+| 02:30 | AUD | GDP (QoQ) (Q1) | 0.3% | 0.5% | 0.9% |
+| 02:30 | AUD | GDP (YoY) (Q1) | 2.5% | 2.7% | 2.5% |
+| 02:45 | CNY | RatingDog Services PMI (May) | 54.4 | 52.3 | 52.6 |
 | 08:15 | EUR | HCOB Spain Services PMI (May) |  | 48.3 | 47.9 |
 | 08:45 | EUR | HCOB Italy Services PMI (May) |  | 49.3 | 49.8 |
 | 08:50 | EUR | HCOB France Services PMI (May) |  | 42.9 | 46.5 |
