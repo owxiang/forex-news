@@ -14,7 +14,6 @@
 | 09:00 | EUR | HCOB Eurozone Services PMI (May) | 47.7 | 46.4 | 47.6 |
 | 09:30 | GBP | S&P Global Composite PMI (May) | 49.7 | 48.5 | 52.6 |
 | 09:30 | GBP | S&P Global Services PMI (May) | 49.3 | 47.9 | 52.7 |
-| 10:30 | ZAR | GDP Annualized (QoQ) (Q1) |  |  | 0.4% |
 | 10:50 | EUR | ECB's Elderson Speaks |  |  |  |
 | 13:00 | BRL | Industrial Production (YoY) (Apr) |  | 1.7% | 4.3% |
 | 13:30 | CAD | Labor Productivity (QoQ) (Q1) |  | 0.3% | -0.1% |

@@ -35,17 +35,14 @@
 | 10:00 | NOK | Low | House Price Index (YoY) (May) | 3.80% |  | 3.80% |
 | 10:00 | EUR | Low | PPI (MoM) (Apr) | 0.6% | 0.6% | 3.4% |
 | 10:00 | EUR | Low | PPI (YoY) (Apr) | 4.9% | 4.8% | 2.0% |
-| 10:30 | ZAR | Moderate | GDP Annualized (QoQ) (Q1) |  |  | 0.4% |
-| 10:30 | ZAR | Low | GDP (YoY) (Q1) |  |  | 0.8% |
 | 10:50 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.65% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -8.5% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 169.7 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 259.4 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 753.7 |
-| 12:30 | INR | Low | M3 Money Supply |  |  | 12.0% |
-| 13:00 | BRL | Moderate | Industrial Production (YoY) (Apr) |  | 1.7% | 4.3% |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.57% |  | 6.65% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | -2.5% |  | -8.5% |
+| 12:00 | USD | Low | MBA Purchase Index | 164.8 |  | 169.7 |
+| 12:00 | USD | Low | Mortgage Market Index | 252.8 |  | 259.4 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 736.2 |  | 753.7 |
 | 13:00 | BRL | Low | Industrial Production (MoM) (Apr) |  | 0.4% | 0.1% |
+| 13:00 | BRL | Moderate | Industrial Production (YoY) (Apr) |  | 1.7% | 4.3% |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (May) |  | 118K | 109K |
 | 13:30 | CAD | Moderate | Labor Productivity (QoQ) (Q1) |  | 0.3% | -0.1% |
 | 14:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |

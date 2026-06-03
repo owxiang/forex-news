@@ -23,13 +23,11 @@
 | 10:00 | NOK | House Price Index (YoY) (May) | 3.80% |  | 3.80% |
 | 10:00 | EUR | PPI (MoM) (Apr) | 0.6% | 0.6% | 3.4% |
 | 10:00 | EUR | PPI (YoY) (Apr) | 4.9% | 4.8% | 2.0% |
-| 10:30 | ZAR | GDP (YoY) (Q1) |  |  | 0.8% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.65% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -8.5% |
-| 12:00 | USD | MBA Purchase Index |  |  | 169.7 |
-| 12:00 | USD | Mortgage Market Index |  |  | 259.4 |
-| 12:00 | USD | Mortgage Refinance Index |  |  | 753.7 |
-| 12:30 | INR | M3 Money Supply |  |  | 12.0% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.57% |  | 6.65% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | -2.5% |  | -8.5% |
+| 12:00 | USD | MBA Purchase Index | 164.8 |  | 169.7 |
+| 12:00 | USD | Mortgage Market Index | 252.8 |  | 259.4 |
+| 12:00 | USD | Mortgage Refinance Index | 736.2 |  | 753.7 |
 | 13:00 | BRL | Industrial Production (MoM) (Apr) |  | 0.4% | 0.1% |
 | 14:00 | BRL | S&P Global Composite PMI (May) |  |  | 52.4 |
 | 14:00 | BRL | S&P Global Services PMI (May) |  |  | 52.3 |
