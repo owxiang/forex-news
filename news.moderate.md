@@ -15,10 +15,10 @@
 | 09:30 | GBP | S&P Global Composite PMI (May) | 49.7 | 48.5 | 52.6 |
 | 09:30 | GBP | S&P Global Services PMI (May) | 49.3 | 47.9 | 52.7 |
 | 10:50 | EUR | ECB's Elderson Speaks |  |  |  |
-| 13:00 | BRL | Industrial Production (YoY) (Apr) |  | 1.7% | 4.3% |
-| 13:30 | CAD | Labor Productivity (QoQ) (Q1) |  | 0.3% | -0.1% |
+| 13:00 | BRL | Industrial Production (YoY) (Apr) | 2.7% | 1.7% | 4.4% |
+| 13:30 | CAD | Labor Productivity (QoQ) (Q1) | -0.5% | 0.3% | -0.3% |
 | 14:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 14:45 | USD | S&P Global Composite PMI (May) |  | 51.7 | 51.7 |
+| 14:45 | USD | S&P Global Composite PMI (May) | 51.5 | 51.7 | 51.7 |
 | 15:00 | USD | Factory Orders (MoM) (Apr) |  | 4.6% | 1.5% |
 | 15:00 | USD | ISM Non-Manufacturing Employment (May) |  |  | 48.0 |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | -2.794M |

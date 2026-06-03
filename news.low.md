@@ -28,10 +28,11 @@
 | 12:00 | USD | MBA Purchase Index | 164.8 |  | 169.7 |
 | 12:00 | USD | Mortgage Market Index | 252.8 |  | 259.4 |
 | 12:00 | USD | Mortgage Refinance Index | 736.2 |  | 753.7 |
-| 13:00 | BRL | Industrial Production (MoM) (Apr) |  | 0.4% | 0.1% |
-| 14:00 | BRL | S&P Global Composite PMI (May) |  |  | 52.4 |
-| 14:00 | BRL | S&P Global Services PMI (May) |  |  | 52.3 |
-| 14:30 | CAD | S&P Global Services PMI (May) |  |  | 49.20 |
+| 13:00 | BRL | Industrial Production (MoM) (Apr) | 0.7% | 0.4% | 0.3% |
+| 13:15 | CAD | Reserve Assets Total (May) | 126.9B |  | 126.7B |
+| 14:00 | BRL | S&P Global Composite PMI (May) | 49.5 |  | 52.4 |
+| 14:00 | BRL | S&P Global Services PMI (May) | 50.4 |  | 52.3 |
+| 14:30 | CAD | S&P Global Services PMI (May) | 50.60 |  | 49.20 |
 | 15:00 | USD | Durables Excluding Defense (MoM) (Apr) |  |  | 8.1% |
 | 15:00 | USD | Durables Excluding Transport (MoM) (Apr) |  |  | 1.1% |
 | 15:00 | USD | Factory orders ex transportation (MoM) (Apr) |  |  | 1.6% |
@@ -40,11 +41,11 @@
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.652M |
 | 15:30 | USD | Crude Oil Imports |  |  | 0.360M |
 | 15:30 | USD | Distillate Fuel Production |  |  | 0.076M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | -2.107M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  | -0.300M | -2.107M |
 | 15:30 | USD | Gasoline Production |  |  | 0.600M |
 | 15:30 | USD | Heating Oil Stockpiles |  |  | 0.306M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 2.9% |
-| 15:30 | USD | Gasoline Inventories |  |  | -2.572M |
+| 15:30 | USD | Gasoline Inventories |  | -0.500M | -2.572M |
 | 17:20 | EUR | Italian Car Registration (YoY) (May) |  |  | 11.6% |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | -3.648B |
 | 19:00 | BRL | Trade Balance (May) |  | 7.65B | 10.54B |

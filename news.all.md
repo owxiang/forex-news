@@ -41,16 +41,17 @@
 | 12:00 | USD | Low | MBA Purchase Index | 164.8 |  | 169.7 |
 | 12:00 | USD | Low | Mortgage Market Index | 252.8 |  | 259.4 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 736.2 |  | 753.7 |
-| 13:00 | BRL | Low | Industrial Production (MoM) (Apr) |  | 0.4% | 0.1% |
-| 13:00 | BRL | Moderate | Industrial Production (YoY) (Apr) |  | 1.7% | 4.3% |
-| 13:15 | USD | High | ADP Nonfarm Employment Change (May) |  | 118K | 109K |
-| 13:30 | CAD | Moderate | Labor Productivity (QoQ) (Q1) |  | 0.3% | -0.1% |
+| 13:00 | BRL | Low | Industrial Production (MoM) (Apr) | 0.7% | 0.4% | 0.3% |
+| 13:00 | BRL | Moderate | Industrial Production (YoY) (Apr) | 2.7% | 1.7% | 4.4% |
+| 13:15 | USD | High | ADP Nonfarm Employment Change (May) | 122K | 118K | 105K |
+| 13:15 | CAD | Low | Reserve Assets Total (May) | 126.9B |  | 126.7B |
+| 13:30 | CAD | Moderate | Labor Productivity (QoQ) (Q1) | -0.5% | 0.3% | -0.3% |
 | 14:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 14:00 | BRL | Low | S&P Global Composite PMI (May) |  |  | 52.4 |
-| 14:00 | BRL | Low | S&P Global Services PMI (May) |  |  | 52.3 |
-| 14:30 | CAD | Low | S&P Global Services PMI (May) |  |  | 49.20 |
-| 14:45 | USD | Moderate | S&P Global Composite PMI (May) |  | 51.7 | 51.7 |
-| 14:45 | USD | High | S&P Global Services PMI (May) |  | 50.9 | 51.0 |
+| 14:00 | BRL | Low | S&P Global Composite PMI (May) | 49.5 |  | 52.4 |
+| 14:00 | BRL | Low | S&P Global Services PMI (May) | 50.4 |  | 52.3 |
+| 14:30 | CAD | Low | S&P Global Services PMI (May) | 50.60 |  | 49.20 |
+| 14:45 | USD | Moderate | S&P Global Composite PMI (May) | 51.5 | 51.7 | 51.7 |
+| 14:45 | USD | High | S&P Global Services PMI (May) | 50.7 | 50.9 | 50.9 |
 | 15:00 | USD | Low | Durables Excluding Defense (MoM) (Apr) |  |  | 8.1% |
 | 15:00 | USD | Low | Durables Excluding Transport (MoM) (Apr) |  |  | 1.1% |
 | 15:00 | USD | Moderate | Factory Orders (MoM) (Apr) |  | 4.6% | 1.5% |
@@ -65,11 +66,11 @@
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 0.360M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -2.794M |
 | 15:30 | USD | Low | Distillate Fuel Production |  |  | 0.076M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  |  | -2.107M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | -0.300M | -2.107M |
 | 15:30 | USD | Low | Gasoline Production |  |  | 0.600M |
 | 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.306M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 2.9% |
-| 15:30 | USD | Low | Gasoline Inventories |  |  | -2.572M |
+| 15:30 | USD | Low | Gasoline Inventories |  | -0.500M | -2.572M |
 | 17:20 | EUR | Low | Italian Car Registration (YoY) (May) |  |  | 11.6% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -3.648B |
 | 19:00 | USD | Moderate | Beige Book |  |  |  |
