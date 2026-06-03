@@ -76,6 +76,6 @@
 | 18:00 | EUR | Low | Italian Car Registration (YoY) (May) | 7.6% |  | 11.6% |
 | 18:30 | BRL | Low | Foreign Exchange Flows | 2.805B |  | -3.648B |
 | 19:00 | USD | Moderate | Beige Book |  |  |  |
-| 19:00 | BRL | Low | Trade Balance (May) |  | 7.65B | 10.54B |
-| 21:00 | USD | Low | Fed Logan Speaks |  |  |  |
+| 19:00 | BRL | Low | Trade Balance (May) | 7.82B | 7.65B | 10.54B |
+| 31 min | USD | Low | Fed Logan Speaks |  |  |  |
 | 22:00 | KRW | Low | FX Reserves - USD (May) |  |  | 427.88B |

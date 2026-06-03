@@ -50,6 +50,6 @@
 | 15:30 | USD | Gasoline Inventories | 3.364M | -0.500M | -2.572M |
 | 18:00 | EUR | Italian Car Registration (YoY) (May) | 7.6% |  | 11.6% |
 | 18:30 | BRL | Foreign Exchange Flows | 2.805B |  | -3.648B |
-| 19:00 | BRL | Trade Balance (May) |  | 7.65B | 10.54B |
-| 21:00 | USD | Fed Logan Speaks |  |  |  |
+| 19:00 | BRL | Trade Balance (May) | 7.82B | 7.65B | 10.54B |
+| 31 min | USD | Fed Logan Speaks |  |  |  |
 | 22:00 | KRW | FX Reserves - USD (May) |  |  | 427.88B |
