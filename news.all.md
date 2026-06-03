@@ -2,13 +2,13 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | AUD | Low | AIG Construction Index (May) | -9.9 |  | -19.3 |
-| 00:00 | AUD | Low | AIG Manufacturing Index (May) | -22.4 |  | -27.9 |
+| 00:00 | AUD | Low | AIG Construction Index (May) | -9.9 |  | -18.9 |
+| 00:00 | AUD | Low | AIG Manufacturing Index (May) | -22.4 |  | -27.5 |
 | 00:00 | AUD | Low | S&P Global Manufacturing & Services PMI (May) | 48.70 | 47.80 | 50.40 |
 | 00:00 | AUD | Low | S&P Global Services PMI (May) | 48.7 | 47.7 | 50.7 |
-| 01:30 | JPY | Low | Manufacturing & Services PMI (May) |  | 51.10 | 52.20 |
-| 01:30 | JPY | Moderate | S&P Global Services PMI (May) |  | 50.0 | 51.0 |
-| 01:30 | HKD | Low | S&P Global Manufacturing PMI (May) |  |  | 48.6 |
+| 01:30 | JPY | Low | Manufacturing & Services PMI (May) | 51.10 | 51.10 | 52.20 |
+| 01:30 | JPY | Moderate | S&P Global Services PMI (May) | 50.0 | 50.0 | 51.0 |
+| 01:30 | HKD | Low | S&P Global Manufacturing PMI (May) | 50.4 |  | 48.6 |
 | 02:30 | AUD | Moderate | GDP (QoQ) (Q1) |  | 0.5% | 0.8% |
 | 02:30 | AUD | Moderate | GDP (YoY) (Q1) |  | 2.7% | 2.6% |
 | 02:30 | AUD | Low | GDP Capital Expenditure (Q1) |  |  | 0.7% |

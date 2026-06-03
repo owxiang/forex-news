@@ -2,12 +2,12 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | AUD | AIG Construction Index (May) | -9.9 |  | -19.3 |
-| 00:00 | AUD | AIG Manufacturing Index (May) | -22.4 |  | -27.9 |
+| 00:00 | AUD | AIG Construction Index (May) | -9.9 |  | -18.9 |
+| 00:00 | AUD | AIG Manufacturing Index (May) | -22.4 |  | -27.5 |
 | 00:00 | AUD | S&P Global Manufacturing & Services PMI (May) | 48.70 | 47.80 | 50.40 |
 | 00:00 | AUD | S&P Global Services PMI (May) | 48.7 | 47.7 | 50.7 |
-| 01:30 | JPY | Manufacturing & Services PMI (May) |  | 51.10 | 52.20 |
-| 01:30 | HKD | S&P Global Manufacturing PMI (May) |  |  | 48.6 |
+| 01:30 | JPY | Manufacturing & Services PMI (May) | 51.10 | 51.10 | 52.20 |
+| 01:30 | HKD | S&P Global Manufacturing PMI (May) | 50.4 |  | 48.6 |
 | 02:30 | AUD | GDP Capital Expenditure (Q1) |  |  | 0.7% |
 | 02:30 | AUD | GDP Chain Price Index (Q1) |  |  | 1.4% |
 | 02:30 | AUD | GDP Final Consumption (Q1) |  |  | 0.5% |

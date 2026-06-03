@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | JPY | S&P Global Services PMI (May) |  | 50.0 | 51.0 |
+| 01:30 | JPY | S&P Global Services PMI (May) | 50.0 | 50.0 | 51.0 |
 | 02:30 | AUD | GDP (QoQ) (Q1) |  | 0.5% | 0.8% |
 | 02:30 | AUD | GDP (YoY) (Q1) |  | 2.7% | 2.6% |
 | 02:45 | CNY | RatingDog Services PMI (May) |  | 52.3 | 52.6 |
