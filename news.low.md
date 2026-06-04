@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Foreign Bonds Buying |  |  | 10.3B |
-| 00:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 1,080.4B |
-| 02:00 | NZD | ANZ Commodity Price Index (MoM) |  |  | -0.8% |
-| 02:30 | AUD | Exports (MoM) (Apr) |  |  | -2.7% |
-| 02:30 | AUD | Imports (MoM) (Apr) |  |  | 14.1% |
+| 00:50 | JPY | Foreign Bonds Buying | -184.8B |  | 12.9B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks | -491.2B |  | 1,079.7B |
+| 02:00 | NZD | ANZ Commodity Price Index (MoM) | 0.7% |  | -0.8% |
+| 12 min | AUD | Exports (MoM) (Apr) |  |  | -2.7% |
+| 12 min | AUD | Imports (MoM) (Apr) |  |  | 14.1% |
 | 06:00 | AUD | RBA Gov Bullock Speaks |  |  |  |
 | 07:30 | CHF | CPI (YoY) (May) |  | 0.8% | 0.6% |
 | 08:00 | CHF | Unemployment Rate n.s.a. (May) |  |  | 3.0% |
