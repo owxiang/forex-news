@@ -39,11 +39,12 @@
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 214.75K |  | 208.25K |
 | 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q1) | 0.3% | 0.8% | 1.8% |
 | 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q1) | 1.8% | 2.3% | 4.4% |
-| 15:30 | USD | Low | Natural Gas Storage |  | 99B | 92B |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.630% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.615% |
-| 16:40 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 16:40 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
+| 15:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 15:30 | USD | Low | Natural Gas Storage | 95B | 99B | 92B |
+| 21 min | USD | Low | 4-Week Bill Auction |  |  | 3.630% |
+| 21 min | USD | Low | 8-Week Bill Auction |  |  | 3.615% |
+| 31 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 31 min | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 18:10 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,704B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.067T |
