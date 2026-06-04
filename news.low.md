@@ -26,10 +26,10 @@
 | 10:00 | EUR | Retail Sales (MoM) (Apr) | -0.4% | -0.3% | 0.8% |
 | 10:30 | USD | Challenger Job Cuts (YoY) | 3.4% |  | -20.9% |
 | 10:30 | USD | Challenger Job Cuts (May) | 97.006K |  | 83.387K |
-| 50 min | MXN | Gross Fixed Investments (MoM) (Mar) |  | 0.10% | -0.80% |
-| 50 min | MXN | Gross Fixed Investments (YoY) (Mar) |  | -3.10% | -4.20% |
+| 13:00 | MXN | Gross Fixed Investments (MoM) (Mar) | 0.40% | 0.10% | -0.80% |
+| 13:00 | MXN | Gross Fixed Investments (YoY) (Mar) | -2.60% | -3.10% | -4.20% |
 | 13:30 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 209.00K |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 214.75K |  | 208.25K |
 | 15:30 | USD | Natural Gas Storage |  | 99B | 92B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.630% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 3.615% |

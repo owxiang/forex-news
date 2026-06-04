@@ -31,14 +31,14 @@
 | 10:00 | EUR | Low | Retail Sales (MoM) (Apr) | -0.4% | -0.3% | 0.8% |
 | 10:30 | USD | Low | Challenger Job Cuts (YoY) | 3.4% |  | -20.9% |
 | 10:30 | USD | Low | Challenger Job Cuts (May) | 97.006K |  | 83.387K |
-| 50 min | MXN | Low | Gross Fixed Investments (MoM) (Mar) |  | 0.10% | -0.80% |
-| 50 min | MXN | Low | Gross Fixed Investments (YoY) (Mar) |  | -3.10% | -4.20% |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,780K | 1,786K |
+| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Mar) | 0.40% | 0.10% | -0.80% |
+| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Mar) | -2.60% | -3.10% | -4.20% |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,777K | 1,780K | 1,785K |
 | 13:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 13:30 | USD | High | Initial Jobless Claims |  | 214K | 215K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 209.00K |
-| 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q1) |  | 0.8% | 1.8% |
-| 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q1) |  | 2.3% | 4.4% |
+| 13:30 | USD | High | Initial Jobless Claims | 225K | 214K | 212K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 214.75K |  | 208.25K |
+| 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q1) | 0.3% | 0.8% | 1.8% |
+| 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q1) | 1.8% | 2.3% | 4.4% |
 | 15:30 | USD | Low | Natural Gas Storage |  | 99B | 92B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.630% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.615% |
