@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 02:30 | AUD | Trade Balance (Apr) | 1.791B | 1.230B | -1.024B |
 | 06:00 | AUD | RBA Assist Gov Kent Speaks |  |  |  |
-| 07:30 | CHF | CPI (MoM) (May) |  | 0.3% | 0.3% |
+| 07:30 | CHF | CPI (MoM) (May) | 0.2% | 0.3% | 0.3% |
 | 09:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 09:30 | GBP | S&P Global Construction PMI (May) |  | 40.4 | 39.7 |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,780K | 1,786K |

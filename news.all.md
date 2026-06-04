@@ -10,15 +10,15 @@
 | 02:30 | AUD | Moderate | Trade Balance (Apr) | 1.791B | 1.230B | -1.024B |
 | 06:00 | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
 | 06:00 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
-| 07:30 | CHF | Moderate | CPI (MoM) (May) |  | 0.3% | 0.3% |
-| 07:30 | CHF | Low | CPI (YoY) (May) |  | 0.8% | 0.6% |
-| 08:00 | CHF | Low | Unemployment Rate n.s.a. (May) |  |  | 3.0% |
-| 08:00 | CHF | Low | Unemployment Rate s.a. (May) |  | 3.0% | 3.0% |
-| 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Apr) |  | 2.0% | 1.8% |
-| 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (May) |  |  | 44.8 |
-| 08:30 | EUR | Low | HCOB Germany Construction PMI (May) |  |  | 42.1 |
-| 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (May) |  |  | 38.1 |
-| 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (May) |  |  | 41.7 |
+| 07:30 | CHF | Moderate | CPI (MoM) (May) | 0.2% | 0.3% | 0.3% |
+| 07:30 | CHF | Low | CPI (YoY) (May) | 0.6% | 0.8% | 0.6% |
+| 08:00 | CHF | Low | Unemployment Rate n.s.a. (May) | 3.1% |  | 3.0% |
+| 08:00 | CHF | Low | Unemployment Rate s.a. (May) | 3.0% | 3.0% | 3.0% |
+| 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Apr) | 2.0% | 2.0% | 1.9% |
+| 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (May) | 49.4 |  | 44.8 |
+| 08:30 | EUR | Low | HCOB Germany Construction PMI (May) | 42.4 |  | 42.1 |
+| 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (May) | 39.6 |  | 38.1 |
+| 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (May) | 43.7 |  | 41.7 |
 | 09:00 | GBP | Low | Car Registration (YoY) (May) |  |  | 24.0% |
 | 09:00 | GBP | Low | United Kingdom New Passenger Cars Registration (May) |  |  | 149,247.0 |
 | 09:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |

@@ -8,14 +8,14 @@
 | 02:30 | AUD | Exports (MoM) (Apr) | 7.2% |  | -2.5% |
 | 02:30 | AUD | Imports (MoM) (Apr) | 0.8% |  | 12.2% |
 | 06:00 | AUD | RBA Gov Bullock Speaks |  |  |  |
-| 07:30 | CHF | CPI (YoY) (May) |  | 0.8% | 0.6% |
-| 08:00 | CHF | Unemployment Rate n.s.a. (May) |  |  | 3.0% |
-| 08:00 | CHF | Unemployment Rate s.a. (May) |  | 3.0% | 3.0% |
-| 08:00 | EUR | Spanish Industrial Production (YoY) (Apr) |  | 2.0% | 1.8% |
-| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (May) |  |  | 44.8 |
-| 08:30 | EUR | HCOB Germany Construction PMI (May) |  |  | 42.1 |
-| 08:30 | EUR | HCOB France Construction PMI (MoM) (May) |  |  | 38.1 |
-| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (May) |  |  | 41.7 |
+| 07:30 | CHF | CPI (YoY) (May) | 0.6% | 0.8% | 0.6% |
+| 08:00 | CHF | Unemployment Rate n.s.a. (May) | 3.1% |  | 3.0% |
+| 08:00 | CHF | Unemployment Rate s.a. (May) | 3.0% | 3.0% | 3.0% |
+| 08:00 | EUR | Spanish Industrial Production (YoY) (Apr) | 2.0% | 2.0% | 1.9% |
+| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (May) | 49.4 |  | 44.8 |
+| 08:30 | EUR | HCOB Germany Construction PMI (May) | 42.4 |  | 42.1 |
+| 08:30 | EUR | HCOB France Construction PMI (MoM) (May) | 39.6 |  | 38.1 |
+| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (May) | 43.7 |  | 41.7 |
 | 09:00 | GBP | Car Registration (YoY) (May) |  |  | 24.0% |
 | 09:00 | GBP | United Kingdom New Passenger Cars Registration (May) |  |  | 149,247.0 |
 | 09:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.392% |
