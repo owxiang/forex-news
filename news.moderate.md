@@ -1,17 +1,34 @@
-## 04 June 2026 - Moderate Impact Forex News
+## 05 June 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Trade Balance (Apr) | 1.791B | 1.230B | -1.024B |
-| 06:00 | AUD | RBA Assist Gov Kent Speaks |  |  |  |
-| 07:30 | CHF | CPI (MoM) (May) | 0.2% | 0.3% | 0.3% |
-| 09:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 09:30 | GBP | S&P Global Construction PMI (May) | 38.2 | 40.4 | 39.7 |
-| 13:30 | USD | Continuing Jobless Claims | 1,777K | 1,780K | 1,785K |
-| 13:30 | USD | Nonfarm Productivity (QoQ) (Q1) | 0.3% | 0.8% | 1.8% |
-| 13:30 | USD | Unit Labor Costs (QoQ) (Q1) | 1.8% | 2.3% | 4.4% |
-| 15:00 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 16:40 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 16:40 | USD | FOMC Member Daly Speaks |  |  |  |
-| 18:10 | USD | FOMC Member Daly Speaks |  |  |  |
-| 21:30 | USD | Fed's Balance Sheet | 6,711B |  | 6,704B |
+| 00:30 | JPY | Household Spending (YoY) (Apr) | -0.5% | -1.5% | -2.9% |
+| 00:30 | JPY | Household Spending (MoM) (Apr) | 1.6% | 0.8% | -1.3% |
+| 05:30 | INR | Interest Rate Decision |  | 5.25% | 5.25% |
+| 07:00 | GBP | Halifax House Price Index (MoM) (May) |  | 0.0% | -0.1% |
+| 07:00 | GBP | Halifax House Price Index (YoY) (May) |  | 1.0% | 0.4% |
+| 08:30 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
+| 10:00 | EUR | GDP (YoY) (Q1) |  | 0.8% | 1.2% |
+| 10:00 | EUR | GDP (QoQ) (Q1) |  | 0.1% | 0.1% |
+| 11:30 | GBP | Mortgage Rate (GBP) (May) |  |  | 6.60% |
+| 11:30 | INR | GDP Quarterly (YoY) (Q4) |  | 7.2% | 7.8% |
+| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (May) |  | 3.4% | 3.6% |
+| 13:30 | USD | Participation Rate (May) |  |  | 61.8% |
+| 13:30 | USD | Private Nonfarm Payrolls (May) |  | 85K | 123K |
+| 13:30 | USD | U6 Unemployment Rate (May) |  |  | 8.2% |
+| 13:30 | CAD | Employment Change (May) |  | 10.1K | -17.7K |
+| 13:30 | CAD | Unemployment Rate (May) |  | 6.9% | 6.9% |
+| 15:00 | CAD | Ivey PMI (May) |  | 54.5 | 57.7 |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 429 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 562 |
+| 19:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 20:00 | USD | Consumer Credit (Apr) |  | 17.80B | 24.86B |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | -61.4K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 161.0K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 154.3K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | -6.1K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -165.8K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | 60.2K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 71.7K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | -114.7K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 29.4K |

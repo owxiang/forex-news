@@ -1,36 +1,56 @@
-## 04 June 2026 - Low Impact Forex News
+## 05 June 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Foreign Bonds Buying | -184.8B |  | 12.9B |
-| 00:50 | JPY | Foreign Investments in Japanese Stocks | -491.2B |  | 1,079.7B |
-| 02:00 | NZD | ANZ Commodity Price Index (MoM) | 0.7% |  | -0.8% |
-| 02:30 | AUD | Exports (MoM) (Apr) | 7.2% |  | -2.5% |
-| 02:30 | AUD | Imports (MoM) (Apr) | 0.8% |  | 12.2% |
-| 06:00 | AUD | RBA Gov Bullock Speaks |  |  |  |
-| 07:30 | CHF | CPI (YoY) (May) | 0.6% | 0.8% | 0.6% |
-| 08:00 | CHF | Unemployment Rate n.s.a. (May) | 3.1% |  | 3.0% |
-| 08:00 | CHF | Unemployment Rate s.a. (May) | 3.0% | 3.0% | 3.0% |
-| 08:00 | EUR | Spanish Industrial Production (YoY) (Apr) | 2.0% | 2.0% | 1.9% |
-| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (May) | 49.4 |  | 44.8 |
-| 08:30 | EUR | HCOB Germany Construction PMI (May) | 42.4 |  | 42.1 |
-| 08:30 | EUR | HCOB France Construction PMI (MoM) (May) | 39.6 |  | 38.1 |
-| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (May) | 43.7 |  | 41.7 |
-| 09:00 | GBP | Car Registration (YoY) (May) | 7.1% |  | 24.0% |
-| 09:00 | GBP | United Kingdom New Passenger Cars Registration (May) | 160,662.0 |  | 149,247.0 |
-| 10:00 | EUR | French 10-Year OAT Auction | 3.80% |  | 3.61% |
-| 10:00 | EUR | Spanish 10-Year Obligacion Auction | 3.813% |  | 3.392% |
-| 10:00 | EUR | Spanish 3-Year Bonos Auction | 2.772% |  | 2.675% |
-| 10:00 | EUR | Spanish 5-Year Bonos Auction | 2.947% |  | 2.911% |
-| 10:00 | EUR | Retail Sales (YoY) (Apr) | 1.0% | 0.3% | 2.1% |
-| 10:00 | EUR | Retail Sales (MoM) (Apr) | -0.4% | -0.3% | 0.8% |
-| 10:30 | USD | Challenger Job Cuts (YoY) | 3.4% |  | -20.9% |
-| 10:30 | USD | Challenger Job Cuts (May) | 97.006K |  | 83.387K |
-| 13:00 | MXN | Gross Fixed Investments (MoM) (Mar) | 0.40% | 0.10% | -0.80% |
-| 13:00 | MXN | Gross Fixed Investments (YoY) (Mar) | -2.60% | -3.10% | -4.20% |
-| 13:30 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 13:30 | USD | Jobless Claims 4-Week Avg. | 214.75K |  | 208.25K |
-| 15:30 | USD | Natural Gas Storage | 95B | 99B | 92B |
-| 16:30 | USD | 4-Week Bill Auction | 3.615% |  | 3.630% |
-| 16:30 | USD | 8-Week Bill Auction | 3.610% |  | 3.615% |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.045T |  | 3.067T |
+| 00:00 | KRW | Current Account (Apr) | 28.29B |  | 37.33B |
+| 00:30 | JPY | Overall wage income of employees (Apr) | 3.5% | 3.1% | 3.1% |
+| 00:30 | JPY | Overtime Pay (YoY) (Apr) | 4.20% | 3.20% | 3.10% |
+| 00:50 | JPY | Foreign Reserves (USD) (May) |  |  | 1,383.0B |
+| 05:30 | INR | Cash Reserve Ratio |  | 3.00% | 3.00% |
+| 05:30 | INR | Reverse REPO Rate |  |  | 3.35% |
+| 06:00 | JPY | Coincident Indicator (MoM) (Apr) |  | -1.7% | 0.2% |
+| 06:00 | JPY | Leading Index (Apr) |  | 114.4 | 114.0 |
+| 06:00 | JPY | Leading Index (MoM) (Apr) |  |  | 0.8% |
+| 06:00 | SGD | Retail Sales (MoM) (Apr) |  |  | 3.7% |
+| 06:00 | SGD | Retail Sales (YoY) (Apr) |  |  | 4.8% |
+| 07:00 | NOK | Manufacturing Production (MoM) (Apr) |  |  | 2.0% |
+| 07:00 | ZAR | Foreign Reserves (USD) (May) |  |  | 77.09B |
+| 07:00 | ZAR | Net FX Reserves (USD) (May) |  |  | 73.757B |
+| 07:45 | EUR | French Current Account (Apr) |  |  | -8.20B |
+| 07:45 | EUR | French Exports (Apr) |  |  | 52.5B |
+| 07:45 | EUR | French Imports (Apr) |  |  | 59.3B |
+| 07:45 | EUR | French Industrial Production (MoM) (Apr) |  | -0.2% | 1.0% |
+| 07:45 | EUR | French Reserve Assets Total (May) |  |  | 386,898.0M |
+| 07:45 | EUR | French Trade Balance (Apr) |  | -6.2B | -6.9B |
+| 08:00 | CHF | Foreign Reserves (USD) (May) |  |  | 715,734.0B |
+| 09:30 | HKD | Foreign Reserves (USD) (May) |  |  | 442.10B |
+| 10:00 | EUR | Italian Retail Sales (MoM) (Apr) |  | 0.2% | 0.8% |
+| 10:00 | EUR | Italian Retail Sales (YoY) (Apr) |  |  | 3.7% |
+| 10:00 | EUR | Employment Change (QoQ) (Q1) |  | 0.1% | 0.2% |
+| 10:00 | EUR | Employment Change (YoY) (Q1) |  | 0.5% | 0.7% |
+| 10:00 | EUR | Employment Overall (Q1) |  | 176,412.0K | 172,571.6K |
+| 12:30 | INR | FX Reserves, USD |  |  | 681.38B |
+| 13:00 | MXN | Consumer Confidence (May) |  |  | 44.4 |
+| 13:00 | MXN | Consumer Confidence n.s.a. (May) |  |  | 44.3 |
+| 13:30 | USD | Average Weekly Hours (May) |  | 34.3 | 34.3 |
+| 13:30 | USD | Government Payrolls (May) |  |  | -8.0K |
+| 13:30 | USD | Manufacturing Payrolls (May) |  | 2K | -2K |
+| 13:30 | CAD | Avg hourly wages Permanent employee (May) |  |  | 4.8% |
+| 13:30 | CAD | Full Employment Change (May) |  |  | -46.7K |
+| 13:30 | CAD | Part Time Employment Change (May) |  |  | 29.0K |
+| 13:30 | CAD | Participation Rate (May) |  | 65.1% | 65.0% |
+| 14:40 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
+| 15:00 | CAD | Ivey PMI n.s.a (May) |  |  | 61.5 |
+| 15:00 | BRL | Auto Production (MoM) (May) |  |  | -9.5% |
+| 15:00 | BRL | Auto Sales (MoM) (May) |  |  | -7.8% |
+| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.3K |
+| 20:30 | USD | CFTC Copper speculative net positions |  |  | 73.0K |
+| 20:30 | USD | CFTC Corn speculative net positions |  |  | 302.0K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -203.2K |
+| 20:30 | USD | CFTC Silver speculative net positions |  |  | 22.2K |
+| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 204.7K |
+| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -9.5K |
+| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -68.9K |
+| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 58.2K |
+| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -35.1K |
+| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -34.2K |
