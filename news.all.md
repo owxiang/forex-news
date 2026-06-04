@@ -46,5 +46,5 @@
 | 16:40 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 16:40 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 18:10 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,704B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.067T |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,711B |  | 6,704B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.045T |  | 3.067T |

@@ -14,4 +14,4 @@
 | 16:40 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 16:40 | USD | FOMC Member Daly Speaks |  |  |  |
 | 18:10 | USD | FOMC Member Daly Speaks |  |  |  |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 6,704B |
+| 21:30 | USD | Fed's Balance Sheet | 6,711B |  | 6,704B |
