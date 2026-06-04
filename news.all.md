@@ -29,11 +29,10 @@
 | 10:00 | EUR | Low | Spanish 5-Year Bonos Auction | 2.947% |  | 2.911% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (Apr) | 1.0% | 0.3% | 2.1% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Apr) | -0.4% | -0.3% | 0.8% |
-| 2 min | USD | Low | Challenger Job Cuts (YoY) |  |  | -20.9% |
-| 2 min | USD | Low | Challenger Job Cuts (May) |  |  | 83.387K |
-| 32 min | EUR | Low | German Car Registration (YoY) (May) |  |  | 2.7% |
-| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Mar) |  | 0.10% | -0.80% |
-| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Mar) |  | -3.10% | -4.20% |
+| 10:30 | USD | Low | Challenger Job Cuts (YoY) | 3.4% |  | -20.9% |
+| 10:30 | USD | Low | Challenger Job Cuts (May) | 97.006K |  | 83.387K |
+| 50 min | MXN | Low | Gross Fixed Investments (MoM) (Mar) |  | 0.10% | -0.80% |
+| 50 min | MXN | Low | Gross Fixed Investments (YoY) (Mar) |  | -3.10% | -4.20% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,780K | 1,786K |
 | 13:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 13:30 | USD | High | Initial Jobless Claims |  | 214K | 215K |

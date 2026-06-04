@@ -24,11 +24,10 @@
 | 10:00 | EUR | Spanish 5-Year Bonos Auction | 2.947% |  | 2.911% |
 | 10:00 | EUR | Retail Sales (YoY) (Apr) | 1.0% | 0.3% | 2.1% |
 | 10:00 | EUR | Retail Sales (MoM) (Apr) | -0.4% | -0.3% | 0.8% |
-| 2 min | USD | Challenger Job Cuts (YoY) |  |  | -20.9% |
-| 2 min | USD | Challenger Job Cuts (May) |  |  | 83.387K |
-| 32 min | EUR | German Car Registration (YoY) (May) |  |  | 2.7% |
-| 13:00 | MXN | Gross Fixed Investments (MoM) (Mar) |  | 0.10% | -0.80% |
-| 13:00 | MXN | Gross Fixed Investments (YoY) (Mar) |  | -3.10% | -4.20% |
+| 10:30 | USD | Challenger Job Cuts (YoY) | 3.4% |  | -20.9% |
+| 10:30 | USD | Challenger Job Cuts (May) | 97.006K |  | 83.387K |
+| 50 min | MXN | Gross Fixed Investments (MoM) (Mar) |  | 0.10% | -0.80% |
+| 50 min | MXN | Gross Fixed Investments (YoY) (Mar) |  | -3.10% | -4.20% |
 | 13:30 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 209.00K |
 | 15:30 | USD | Natural Gas Storage |  | 99B | 92B |
