@@ -19,19 +19,19 @@
 | 08:30 | EUR | Low | HCOB Germany Construction PMI (May) | 42.4 |  | 42.1 |
 | 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (May) | 39.6 |  | 38.1 |
 | 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (May) | 43.7 |  | 41.7 |
-| 09:00 | GBP | Low | Car Registration (YoY) (May) |  |  | 24.0% |
-| 09:00 | GBP | Low | United Kingdom New Passenger Cars Registration (May) |  |  | 149,247.0 |
+| 09:00 | GBP | Low | Car Registration (YoY) (May) | 7.1% |  | 24.0% |
+| 09:00 | GBP | Low | United Kingdom New Passenger Cars Registration (May) | 160,662.0 |  | 149,247.0 |
 | 09:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 09:30 | GBP | Moderate | S&P Global Construction PMI (May) |  | 40.4 | 39.7 |
-| 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.392% |
-| 09:40 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.675% |
-| 09:40 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.911% |
-| 09:45 | EUR | Low | French 10-Year OAT Auction |  |  | 3.61% |
-| 10:00 | EUR | Low | Retail Sales (MoM) (Apr) |  | -0.3% | -0.1% |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Apr) |  | 0.3% | 1.2% |
-| 10:30 | USD | Low | Challenger Job Cuts (May) |  |  | 83.387K |
-| 11:00 | EUR | Low | German Car Registration (YoY) (May) |  |  | 2.7% |
-| 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | -20.9% |
+| 09:30 | GBP | Moderate | S&P Global Construction PMI (May) | 38.2 | 40.4 | 39.7 |
+| 10:00 | EUR | Low | French 10-Year OAT Auction | 3.80% |  | 3.61% |
+| 10:00 | EUR | Low | Spanish 10-Year Obligacion Auction | 3.813% |  | 3.392% |
+| 10:00 | EUR | Low | Spanish 3-Year Bonos Auction | 2.772% |  | 2.675% |
+| 10:00 | EUR | Low | Spanish 5-Year Bonos Auction | 2.947% |  | 2.911% |
+| 10:00 | EUR | Low | Retail Sales (YoY) (Apr) | 1.0% | 0.3% | 2.1% |
+| 10:00 | EUR | Low | Retail Sales (MoM) (Apr) | -0.4% | -0.3% | 0.8% |
+| 2 min | USD | Low | Challenger Job Cuts (YoY) |  |  | -20.9% |
+| 2 min | USD | Low | Challenger Job Cuts (May) |  |  | 83.387K |
+| 32 min | EUR | Low | German Car Registration (YoY) (May) |  |  | 2.7% |
 | 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Mar) |  | 0.10% | -0.80% |
 | 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Mar) |  | -3.10% | -4.20% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,780K | 1,786K |

@@ -6,7 +6,7 @@
 | 06:00 | AUD | RBA Assist Gov Kent Speaks |  |  |  |
 | 07:30 | CHF | CPI (MoM) (May) | 0.2% | 0.3% | 0.3% |
 | 09:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 09:30 | GBP | S&P Global Construction PMI (May) |  | 40.4 | 39.7 |
+| 09:30 | GBP | S&P Global Construction PMI (May) | 38.2 | 40.4 | 39.7 |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,780K | 1,786K |
 | 13:30 | USD | Nonfarm Productivity (QoQ) (Q1) |  | 0.8% | 1.8% |
 | 13:30 | USD | Unit Labor Costs (QoQ) (Q1) |  | 2.3% | 4.4% |
