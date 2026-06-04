@@ -31,6 +31,6 @@
 | 13:30 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 214.75K |  | 208.25K |
 | 15:30 | USD | Natural Gas Storage | 95B | 99B | 92B |
-| 21 min | USD | 4-Week Bill Auction |  |  | 3.630% |
-| 21 min | USD | 8-Week Bill Auction |  |  | 3.615% |
+| 16:30 | USD | 4-Week Bill Auction | 3.615% |  | 3.630% |
+| 16:30 | USD | 8-Week Bill Auction | 3.610% |  | 3.615% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.067T |

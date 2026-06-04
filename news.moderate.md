@@ -11,7 +11,7 @@
 | 13:30 | USD | Nonfarm Productivity (QoQ) (Q1) | 0.3% | 0.8% | 1.8% |
 | 13:30 | USD | Unit Labor Costs (QoQ) (Q1) | 1.8% | 2.3% | 4.4% |
 | 15:00 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 31 min | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 31 min | USD | FOMC Member Daly Speaks |  |  |  |
+| 16:40 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 16:40 | USD | FOMC Member Daly Speaks |  |  |  |
 | 18:10 | USD | FOMC Member Daly Speaks |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,704B |
