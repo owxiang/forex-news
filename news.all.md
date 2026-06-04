@@ -5,9 +5,9 @@
 | 00:50 | JPY | Low | Foreign Bonds Buying | -184.8B |  | 12.9B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -491.2B |  | 1,079.7B |
 | 02:00 | NZD | Low | ANZ Commodity Price Index (MoM) | 0.7% |  | -0.8% |
-| 12 min | AUD | Low | Exports (MoM) (Apr) |  |  | -2.7% |
-| 12 min | AUD | Low | Imports (MoM) (Apr) |  |  | 14.1% |
-| 12 min | AUD | Moderate | Trade Balance (Apr) |  | -1.610B | -1.841B |
+| 02:30 | AUD | Low | Exports (MoM) (Apr) | 7.2% |  | -2.7% |
+| 02:30 | AUD | Low | Imports (MoM) (Apr) | 0.8% |  | 14.1% |
+| 02:30 | AUD | Moderate | Trade Balance (Apr) | 1.790B | 1.230B | -1.020B |
 | 06:00 | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
 | 06:00 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
 | 07:30 | CHF | Moderate | CPI (MoM) (May) |  | 0.3% | 0.3% |

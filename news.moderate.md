@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 12 min | AUD | Trade Balance (Apr) |  | -1.610B | -1.841B |
+| 02:30 | AUD | Trade Balance (Apr) | 1.790B | 1.230B | -1.020B |
 | 06:00 | AUD | RBA Assist Gov Kent Speaks |  |  |  |
 | 07:30 | CHF | CPI (MoM) (May) |  | 0.3% | 0.3% |
 | 09:00 | EUR | ECB President Lagarde Speaks |  |  |  |
