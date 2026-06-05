@@ -29,15 +29,15 @@
 | 07:45 | EUR | Low | French Trade Balance (Apr) | -5.6B | -6.2B | -6.4B |
 | 08:00 | CHF | Low | Foreign Reserves (USD) (May) | 710.8B |  | 715.8B |
 | 08:30 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 09:30 | HKD | Low | Foreign Reserves (USD) (May) |  |  | 442.10B |
-| 10:00 | EUR | Low | Italian Retail Sales (MoM) (Apr) |  | 0.4% | 0.8% |
-| 10:00 | EUR | Low | Italian Retail Sales (YoY) (Apr) |  |  | 3.7% |
-| 10:00 | EUR | Low | Employment Change (QoQ) (Q1) |  | 0.1% | 0.2% |
-| 10:00 | EUR | Low | Employment Change (YoY) (Q1) |  | 0.5% | 0.7% |
-| 10:00 | EUR | Low | Employment Overall (Q1) |  | 176,412.0K | 172,571.6K |
-| 10:00 | EUR | Moderate | GDP (YoY) (Q1) |  | 0.8% | 1.2% |
-| 10:00 | EUR | Moderate | GDP (QoQ) (Q1) |  | 0.1% | 0.1% |
-| 11:30 | GBP | Moderate | Mortgage Rate (GBP) (May) |  |  | 6.60% |
+| 09:30 | GBP | Moderate | Mortgage Rate (GBP) (May) | 6.60% |  | 6.60% |
+| 09:30 | HKD | Low | Foreign Reserves (USD) (May) | 446.50B |  | 442.10B |
+| 10:00 | EUR | Low | Italian Retail Sales (YoY) (Apr) | 1.6% |  | 3.8% |
+| 10:00 | EUR | Low | Italian Retail Sales (MoM) (Apr) | 0.0% | 0.4% | 0.8% |
+| 10:00 | EUR | Low | Employment Change (YoY) (Q1) | 0.5% | 0.5% | 0.7% |
+| 10:00 | EUR | Low | Employment Change (QoQ) (Q1) | 0.1% | 0.1% | 0.2% |
+| 10:00 | EUR | Low | Employment Overall (Q1) | 176,308.0K | 176,412.0K | 172,571.6K |
+| 10:00 | EUR | Moderate | GDP (QoQ) (Q1) | -0.2% | 0.1% | 0.1% |
+| 10:00 | EUR | Moderate | GDP (YoY) (Q1) | 0.3% | 0.8% | 1.2% |
 | 11:30 | INR | Moderate | GDP Quarterly (YoY) (Q4) |  | 7.2% | 7.8% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 681.38B |
 | 13:00 | MXN | Low | Consumer Confidence (May) |  |  | 44.4 |

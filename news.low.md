@@ -23,12 +23,12 @@
 | 07:45 | EUR | French Reserve Assets Total (May) | 381,300.0M |  | 386,898.0M |
 | 07:45 | EUR | French Trade Balance (Apr) | -5.6B | -6.2B | -6.4B |
 | 08:00 | CHF | Foreign Reserves (USD) (May) | 710.8B |  | 715.8B |
-| 09:30 | HKD | Foreign Reserves (USD) (May) |  |  | 442.10B |
-| 10:00 | EUR | Italian Retail Sales (MoM) (Apr) |  | 0.4% | 0.8% |
-| 10:00 | EUR | Italian Retail Sales (YoY) (Apr) |  |  | 3.7% |
-| 10:00 | EUR | Employment Change (QoQ) (Q1) |  | 0.1% | 0.2% |
-| 10:00 | EUR | Employment Change (YoY) (Q1) |  | 0.5% | 0.7% |
-| 10:00 | EUR | Employment Overall (Q1) |  | 176,412.0K | 172,571.6K |
+| 09:30 | HKD | Foreign Reserves (USD) (May) | 446.50B |  | 442.10B |
+| 10:00 | EUR | Italian Retail Sales (YoY) (Apr) | 1.6% |  | 3.8% |
+| 10:00 | EUR | Italian Retail Sales (MoM) (Apr) | 0.0% | 0.4% | 0.8% |
+| 10:00 | EUR | Employment Change (YoY) (Q1) | 0.5% | 0.5% | 0.7% |
+| 10:00 | EUR | Employment Change (QoQ) (Q1) | 0.1% | 0.1% | 0.2% |
+| 10:00 | EUR | Employment Overall (Q1) | 176,308.0K | 176,412.0K | 172,571.6K |
 | 12:30 | INR | FX Reserves, USD |  |  | 681.38B |
 | 13:00 | MXN | Consumer Confidence (May) |  |  | 44.4 |
 | 13:00 | MXN | Consumer Confidence n.s.a. (May) |  |  | 44.3 |

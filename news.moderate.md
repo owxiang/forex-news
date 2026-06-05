@@ -8,9 +8,9 @@
 | 07:00 | GBP | Halifax House Price Index (MoM) (May) | -0.1% | 0.0% | -0.1% |
 | 07:00 | GBP | Halifax House Price Index (YoY) (May) | 0.5% | 1.0% | 0.4% |
 | 08:30 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 10:00 | EUR | GDP (YoY) (Q1) |  | 0.8% | 1.2% |
-| 10:00 | EUR | GDP (QoQ) (Q1) |  | 0.1% | 0.1% |
-| 11:30 | GBP | Mortgage Rate (GBP) (May) |  |  | 6.60% |
+| 09:30 | GBP | Mortgage Rate (GBP) (May) | 6.60% |  | 6.60% |
+| 10:00 | EUR | GDP (QoQ) (Q1) | -0.2% | 0.1% | 0.1% |
+| 10:00 | EUR | GDP (YoY) (Q1) | 0.3% | 0.8% | 1.2% |
 | 11:30 | INR | GDP Quarterly (YoY) (Q4) |  | 7.2% | 7.8% |
 | 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (May) |  | 3.4% | 3.6% |
 | 13:30 | USD | Participation Rate (May) |  |  | 61.8% |
