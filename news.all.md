@@ -7,7 +7,7 @@
 | 00:30 | JPY | Moderate | Household Spending (MoM) (Apr) | 1.6% | 0.8% | -1.3% |
 | 00:30 | JPY | Low | Overall wage income of employees (Apr) | 3.5% | 3.1% | 3.1% |
 | 00:30 | JPY | Low | Overtime Pay (YoY) (Apr) | 4.20% | 3.20% | 3.10% |
-| 00:50 | JPY | Low | Foreign Reserves (USD) (May) |  |  | 1,383.0B |
+| 00:50 | JPY | Low | Foreign Reserves (USD) (May) | 1,305.9B |  | 1,383.0B |
 | 05:30 | INR | Low | Cash Reserve Ratio |  | 3.00% | 3.00% |
 | 05:30 | INR | Moderate | Interest Rate Decision |  | 5.25% | 5.25% |
 | 05:30 | INR | Low | Reverse REPO Rate |  |  | 3.35% |

@@ -5,7 +5,7 @@
 | 00:00 | KRW | Current Account (Apr) | 28.29B |  | 37.33B |
 | 00:30 | JPY | Overall wage income of employees (Apr) | 3.5% | 3.1% | 3.1% |
 | 00:30 | JPY | Overtime Pay (YoY) (Apr) | 4.20% | 3.20% | 3.10% |
-| 00:50 | JPY | Foreign Reserves (USD) (May) |  |  | 1,383.0B |
+| 00:50 | JPY | Foreign Reserves (USD) (May) | 1,305.9B |  | 1,383.0B |
 | 05:30 | INR | Cash Reserve Ratio |  | 3.00% | 3.00% |
 | 05:30 | INR | Reverse REPO Rate |  |  | 3.35% |
 | 06:00 | JPY | Coincident Indicator (MoM) (Apr) |  | -1.7% | 0.2% |
