@@ -19,8 +19,8 @@
 | 13:30 | CAD | Employment Change (May) | 87.8K | 10.6K | -17.7K |
 | 13:30 | CAD | Unemployment Rate (May) | 6.6% | 6.9% | 6.9% |
 | 15:00 | CAD | Ivey PMI (May) | 58.2 | 54.5 | 57.7 |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 429 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 562 |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 431 |  | 429 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count | 563 |  | 562 |
 | 19:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 20:00 | USD | Consumer Credit (Apr) |  | 17.80B | 24.86B |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -61.4K |

@@ -62,8 +62,8 @@
 | 14:40 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
 | 15:00 | CAD | Low | Ivey PMI n.s.a (May) | 61.3 |  | 61.5 |
 | 15:00 | CAD | Moderate | Ivey PMI (May) | 58.2 | 54.5 | 57.7 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 429 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 562 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 431 |  | 429 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 563 |  | 562 |
 | 19:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 20:00 | USD | Moderate | Consumer Credit (Apr) |  | 17.80B | 24.86B |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -61.4K |
