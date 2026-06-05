@@ -2,20 +2,20 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | Current Account (Apr) | 28.29B |  | 37.33B |
+| 00:00 | KRW | Low | Current Account (Apr) | 28.29B |  | 37.93B |
 | 00:30 | JPY | Moderate | Household Spending (YoY) (Apr) | -0.5% | -1.5% | -2.9% |
 | 00:30 | JPY | Moderate | Household Spending (MoM) (Apr) | 1.6% | 0.8% | -1.3% |
 | 00:30 | JPY | Low | Overall wage income of employees (Apr) | 3.5% | 3.1% | 3.1% |
 | 00:30 | JPY | Low | Overtime Pay (YoY) (Apr) | 4.20% | 3.20% | 3.10% |
 | 00:50 | JPY | Low | Foreign Reserves (USD) (May) | 1,305.9B |  | 1,383.0B |
-| 05:30 | INR | Low | Cash Reserve Ratio |  | 3.00% | 3.00% |
-| 05:30 | INR | Moderate | Interest Rate Decision |  | 5.25% | 5.25% |
-| 05:30 | INR | Low | Reverse REPO Rate |  |  | 3.35% |
-| 06:00 | JPY | Low | Coincident Indicator (MoM) (Apr) |  | -1.7% | 0.2% |
-| 06:00 | JPY | Low | Leading Index (Apr) |  | 114.4 | 114.0 |
-| 06:00 | JPY | Low | Leading Index (MoM) (Apr) |  |  | 0.8% |
-| 06:00 | SGD | Low | Retail Sales (MoM) (Apr) |  |  | 3.7% |
-| 06:00 | SGD | Low | Retail Sales (YoY) (Apr) |  |  | 4.8% |
+| 05:30 | INR | Low | Cash Reserve Ratio | 3.00% | 3.00% | 3.00% |
+| 05:30 | INR | Moderate | Interest Rate Decision | 5.25% | 5.25% | 5.25% |
+| 05:30 | INR | Low | Reverse REPO Rate | 3.35% |  | 3.35% |
+| 06:00 | JPY | Low | Coincident Indicator (MoM) (Apr) | 1.1% | -1.7% | 0.3% |
+| 06:00 | JPY | Low | Leading Index (Apr) | 115.9 | 114.4 | 114.0 |
+| 06:00 | JPY | Low | Leading Index (MoM) (Apr) | 0.5% |  | 0.8% |
+| 06:00 | SGD | Low | Retail Sales (MoM) (Apr) | 0.3% |  | 3.4% |
+| 06:00 | SGD | Low | Retail Sales (YoY) (Apr) | 5.4% |  | 4.6% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (May) |  | 0.0% | -0.1% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (May) |  | 1.0% | 0.4% |
 | 07:00 | NOK | Low | Manufacturing Production (MoM) (Apr) |  |  | 2.0% |
@@ -30,7 +30,7 @@
 | 08:00 | CHF | Low | Foreign Reserves (USD) (May) |  |  | 715,734.0B |
 | 08:30 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 09:30 | HKD | Low | Foreign Reserves (USD) (May) |  |  | 442.10B |
-| 10:00 | EUR | Low | Italian Retail Sales (MoM) (Apr) |  | 0.2% | 0.8% |
+| 10:00 | EUR | Low | Italian Retail Sales (MoM) (Apr) |  | 0.4% | 0.8% |
 | 10:00 | EUR | Low | Italian Retail Sales (YoY) (Apr) |  |  | 3.7% |
 | 10:00 | EUR | Low | Employment Change (QoQ) (Q1) |  | 0.1% | 0.2% |
 | 10:00 | EUR | Low | Employment Change (YoY) (Q1) |  | 0.5% | 0.7% |
@@ -53,7 +53,7 @@
 | 13:30 | USD | Moderate | U6 Unemployment Rate (May) |  |  | 8.2% |
 | 13:30 | USD | High | Unemployment Rate (May) |  | 4.3% | 4.3% |
 | 13:30 | CAD | Low | Avg hourly wages Permanent employee (May) |  |  | 4.8% |
-| 13:30 | CAD | Moderate | Employment Change (May) |  | 10.1K | -17.7K |
+| 13:30 | CAD | Moderate | Employment Change (May) |  | 10.6K | -17.7K |
 | 13:30 | CAD | Low | Full Employment Change (May) |  |  | -46.7K |
 | 13:30 | CAD | Low | Part Time Employment Change (May) |  |  | 29.0K |
 | 13:30 | CAD | Low | Participation Rate (May) |  | 65.1% | 65.0% |

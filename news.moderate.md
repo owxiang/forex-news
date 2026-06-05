@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | Household Spending (YoY) (Apr) | -0.5% | -1.5% | -2.9% |
 | 00:30 | JPY | Household Spending (MoM) (Apr) | 1.6% | 0.8% | -1.3% |
-| 05:30 | INR | Interest Rate Decision |  | 5.25% | 5.25% |
+| 05:30 | INR | Interest Rate Decision | 5.25% | 5.25% | 5.25% |
 | 07:00 | GBP | Halifax House Price Index (MoM) (May) |  | 0.0% | -0.1% |
 | 07:00 | GBP | Halifax House Price Index (YoY) (May) |  | 1.0% | 0.4% |
 | 08:30 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
@@ -16,7 +16,7 @@
 | 13:30 | USD | Participation Rate (May) |  |  | 61.8% |
 | 13:30 | USD | Private Nonfarm Payrolls (May) |  | 85K | 123K |
 | 13:30 | USD | U6 Unemployment Rate (May) |  |  | 8.2% |
-| 13:30 | CAD | Employment Change (May) |  | 10.1K | -17.7K |
+| 13:30 | CAD | Employment Change (May) |  | 10.6K | -17.7K |
 | 13:30 | CAD | Unemployment Rate (May) |  | 6.9% | 6.9% |
 | 15:00 | CAD | Ivey PMI (May) |  | 54.5 | 57.7 |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 429 |

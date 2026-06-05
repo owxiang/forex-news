@@ -2,17 +2,17 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Current Account (Apr) | 28.29B |  | 37.33B |
+| 00:00 | KRW | Current Account (Apr) | 28.29B |  | 37.93B |
 | 00:30 | JPY | Overall wage income of employees (Apr) | 3.5% | 3.1% | 3.1% |
 | 00:30 | JPY | Overtime Pay (YoY) (Apr) | 4.20% | 3.20% | 3.10% |
 | 00:50 | JPY | Foreign Reserves (USD) (May) | 1,305.9B |  | 1,383.0B |
-| 05:30 | INR | Cash Reserve Ratio |  | 3.00% | 3.00% |
-| 05:30 | INR | Reverse REPO Rate |  |  | 3.35% |
-| 06:00 | JPY | Coincident Indicator (MoM) (Apr) |  | -1.7% | 0.2% |
-| 06:00 | JPY | Leading Index (Apr) |  | 114.4 | 114.0 |
-| 06:00 | JPY | Leading Index (MoM) (Apr) |  |  | 0.8% |
-| 06:00 | SGD | Retail Sales (MoM) (Apr) |  |  | 3.7% |
-| 06:00 | SGD | Retail Sales (YoY) (Apr) |  |  | 4.8% |
+| 05:30 | INR | Cash Reserve Ratio | 3.00% | 3.00% | 3.00% |
+| 05:30 | INR | Reverse REPO Rate | 3.35% |  | 3.35% |
+| 06:00 | JPY | Coincident Indicator (MoM) (Apr) | 1.1% | -1.7% | 0.3% |
+| 06:00 | JPY | Leading Index (Apr) | 115.9 | 114.4 | 114.0 |
+| 06:00 | JPY | Leading Index (MoM) (Apr) | 0.5% |  | 0.8% |
+| 06:00 | SGD | Retail Sales (MoM) (Apr) | 0.3% |  | 3.4% |
+| 06:00 | SGD | Retail Sales (YoY) (Apr) | 5.4% |  | 4.6% |
 | 07:00 | NOK | Manufacturing Production (MoM) (Apr) |  |  | 2.0% |
 | 07:00 | ZAR | Foreign Reserves (USD) (May) |  |  | 77.09B |
 | 07:00 | ZAR | Net FX Reserves (USD) (May) |  |  | 73.757B |
@@ -24,7 +24,7 @@
 | 07:45 | EUR | French Trade Balance (Apr) |  | -6.2B | -6.9B |
 | 08:00 | CHF | Foreign Reserves (USD) (May) |  |  | 715,734.0B |
 | 09:30 | HKD | Foreign Reserves (USD) (May) |  |  | 442.10B |
-| 10:00 | EUR | Italian Retail Sales (MoM) (Apr) |  | 0.2% | 0.8% |
+| 10:00 | EUR | Italian Retail Sales (MoM) (Apr) |  | 0.4% | 0.8% |
 | 10:00 | EUR | Italian Retail Sales (YoY) (Apr) |  |  | 3.7% |
 | 10:00 | EUR | Employment Change (QoQ) (Q1) |  | 0.1% | 0.2% |
 | 10:00 | EUR | Employment Change (YoY) (Q1) |  | 0.5% | 0.7% |
