@@ -29,6 +29,7 @@
 | 10:00 | EUR | Employment Change (YoY) (Q1) | 0.5% | 0.5% | 0.7% |
 | 10:00 | EUR | Employment Change (QoQ) (Q1) | 0.1% | 0.1% | 0.2% |
 | 10:00 | EUR | Employment Overall (Q1) | 176,308.0K | 176,412.0K | 172,571.6K |
+| 11:30 | INR | GDP Annual | 7.7% |  | 6.5% |
 | 12:30 | INR | FX Reserves, USD |  |  | 681.38B |
 | 13:00 | MXN | Consumer Confidence (May) |  |  | 44.4 |
 | 13:00 | MXN | Consumer Confidence n.s.a. (May) |  |  | 44.3 |

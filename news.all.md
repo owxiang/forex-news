@@ -38,7 +38,8 @@
 | 10:00 | EUR | Low | Employment Overall (Q1) | 176,308.0K | 176,412.0K | 172,571.6K |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q1) | -0.2% | 0.1% | 0.1% |
 | 10:00 | EUR | Moderate | GDP (YoY) (Q1) | 0.3% | 0.8% | 1.2% |
-| 11:30 | INR | Moderate | GDP Quarterly (YoY) (Q4) |  | 7.2% | 7.8% |
+| 11:30 | INR | Low | GDP Annual | 7.7% |  | 6.5% |
+| 11:30 | INR | Moderate | GDP Quarterly (YoY) (Q4) | 7.8% | 7.2% | 8.0% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 681.38B |
 | 13:00 | MXN | Low | Consumer Confidence (May) |  |  | 44.4 |
 | 13:00 | MXN | Low | Consumer Confidence n.s.a. (May) |  |  | 44.3 |

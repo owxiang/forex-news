@@ -11,7 +11,7 @@
 | 09:30 | GBP | Mortgage Rate (GBP) (May) | 6.60% |  | 6.60% |
 | 10:00 | EUR | GDP (QoQ) (Q1) | -0.2% | 0.1% | 0.1% |
 | 10:00 | EUR | GDP (YoY) (Q1) | 0.3% | 0.8% | 1.2% |
-| 11:30 | INR | GDP Quarterly (YoY) (Q4) |  | 7.2% | 7.8% |
+| 11:30 | INR | GDP Quarterly (YoY) (Q4) | 7.8% | 7.2% | 8.0% |
 | 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (May) |  | 3.4% | 3.6% |
 | 13:30 | USD | Participation Rate (May) |  |  | 61.8% |
 | 13:30 | USD | Private Nonfarm Payrolls (May) |  | 85K | 123K |
