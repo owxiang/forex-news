@@ -26,10 +26,9 @@
 | 09:30 | HKD | Foreign Reserves (USD) (May) | 446.50B |  | 442.10B |
 | 10:00 | EUR | Italian Retail Sales (MoM) (Apr) | 0.0% | 0.4% | 0.8% |
 | 10:00 | EUR | Italian Retail Sales (YoY) (Apr) | 1.6% |  | 3.8% |
-| 10:00 | EUR | Employment Change (YoY) (Q1) | 0.5% | 0.5% | 0.7% |
 | 10:00 | EUR | Employment Change (QoQ) (Q1) | 0.1% | 0.1% | 0.2% |
+| 10:00 | EUR | Employment Change (YoY) (Q1) | 0.5% | 0.5% | 0.7% |
 | 10:00 | EUR | Employment Overall (Q1) | 176,308.0K | 176,412.0K | 172,571.6K |
-| 12:30 | INR | Deposit Growth |  |  | 12.2% |
 | 12:30 | INR | FX Reserves, USD | 682.32B |  | 681.38B |
 | 13:00 | MXN | Consumer Confidence (May) | 43.5 |  | 44.2 |
 | 13:00 | MXN | Consumer Confidence n.s.a. (May) | 43.1 |  | 44.3 |
@@ -43,8 +42,6 @@
 | 13:30 | CAD | Participation Rate (May) | 65.0% | 65.1% | 65.0% |
 | 14:40 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
 | 15:00 | CAD | Ivey PMI n.s.a (May) | 61.3 |  | 61.5 |
-| 18:00 | BRL | Auto Production (MoM) (May) |  |  | -9.5% |
-| 18:00 | BRL | Auto Sales (MoM) (May) |  |  | -7.8% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.3K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 73.0K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 302.0K |
