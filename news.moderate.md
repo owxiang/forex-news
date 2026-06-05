@@ -1,4 +1,4 @@
-## None - Moderate Impact Forex News
+## 05 June 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
@@ -22,13 +22,13 @@
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 431 |  | 429 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count | 563 |  | 562 |
 | 19:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 20:00 | USD | Consumer Credit (Apr) |  | 17.80B | 24.86B |
-| 20:30 | GBP | CFTC GBP speculative net positions |  |  | -61.4K |
-| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 161.0K |
-| 20:30 | USD | CFTC Gold speculative net positions |  |  | 154.3K |
-| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | -6.1K |
-| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -165.8K |
-| 20:30 | AUD | CFTC AUD speculative net positions |  |  | 60.2K |
-| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 71.7K |
-| 20:30 | JPY | CFTC JPY speculative net positions |  |  | -114.7K |
-| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 29.4K |
+| 20:00 | USD | Consumer Credit (Apr) | 20.73B | 17.80B | 22.23B |
+| 20:30 | GBP | CFTC GBP speculative net positions | -52.2K |  | -61.4K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions | 155.9K |  | 161.0K |
+| 20:30 | USD | CFTC Gold speculative net positions | 176.0K |  | 154.3K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions | -14.9K |  | -6.1K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions | -220.8K |  | -165.8K |
+| 20:30 | AUD | CFTC AUD speculative net positions | 41.8K |  | 60.2K |
+| 20:30 | BRL | CFTC BRL speculative net positions | 47.0K |  | 71.7K |
+| 20:30 | JPY | CFTC JPY speculative net positions | -129.6K |  | -114.7K |
+| 20:30 | EUR | CFTC EUR speculative net positions | 48.9K |  | 29.4K |

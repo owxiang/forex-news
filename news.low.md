@@ -1,4 +1,4 @@
-## None - Low Impact Forex News
+## 05 June 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
@@ -42,14 +42,14 @@
 | 13:30 | CAD | Participation Rate (May) | 65.0% | 65.1% | 65.0% |
 | 14:40 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
 | 15:00 | CAD | Ivey PMI n.s.a (May) | 61.3 |  | 61.5 |
-| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.3K |
-| 20:30 | USD | CFTC Copper speculative net positions |  |  | 73.0K |
-| 20:30 | USD | CFTC Corn speculative net positions |  |  | 302.0K |
-| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -203.2K |
-| 20:30 | USD | CFTC Silver speculative net positions |  |  | 22.2K |
-| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 204.7K |
-| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -9.5K |
-| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -68.9K |
-| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 58.2K |
-| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -35.1K |
-| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -34.2K |
+| 20:30 | USD | CFTC Aluminium speculative net positions | 0.8K |  | 0.3K |
+| 20:30 | USD | CFTC Copper speculative net positions | 78.8K |  | 73.0K |
+| 20:30 | USD | CFTC Corn speculative net positions | 199.9K |  | 302.0K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions | -186.1K |  | -203.2K |
+| 20:30 | USD | CFTC Silver speculative net positions | 23.9K |  | 22.2K |
+| 20:30 | USD | CFTC Soybeans speculative net positions | 187.8K |  | 204.7K |
+| 20:30 | USD | CFTC Wheat speculative net positions | -40.8K |  | -9.5K |
+| 20:30 | CAD | CFTC CAD speculative net positions | -94.1K |  | -68.9K |
+| 20:30 | MXN | CFTC MXN speculative net positions | 54.7K |  | 58.2K |
+| 20:30 | CHF | CFTC CHF speculative net positions | -32.9K |  | -35.1K |
+| 20:30 | NZD | CFTC NZD speculative net positions | -28.2K |  | -34.2K |
