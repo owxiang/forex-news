@@ -16,18 +16,18 @@
 | 06:00 | JPY | Low | Leading Index (MoM) (Apr) | 0.5% |  | 0.8% |
 | 06:00 | SGD | Low | Retail Sales (MoM) (Apr) | 0.3% |  | 3.4% |
 | 06:00 | SGD | Low | Retail Sales (YoY) (Apr) | 5.4% |  | 4.6% |
-| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (May) |  | 0.0% | -0.1% |
-| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (May) |  | 1.0% | 0.4% |
-| 07:00 | NOK | Low | Manufacturing Production (MoM) (Apr) |  |  | 2.0% |
-| 07:00 | ZAR | Low | Foreign Reserves (USD) (May) |  |  | 77.09B |
-| 07:00 | ZAR | Low | Net FX Reserves (USD) (May) |  |  | 73.757B |
-| 07:45 | EUR | Low | French Current Account (Apr) |  |  | -8.20B |
-| 07:45 | EUR | Low | French Exports (Apr) |  |  | 52.5B |
-| 07:45 | EUR | Low | French Imports (Apr) |  |  | 59.3B |
-| 07:45 | EUR | Low | French Industrial Production (MoM) (Apr) |  | -0.2% | 1.0% |
-| 07:45 | EUR | Low | French Reserve Assets Total (May) |  |  | 386,898.0M |
-| 07:45 | EUR | Low | French Trade Balance (Apr) |  | -6.2B | -6.9B |
-| 08:00 | CHF | Low | Foreign Reserves (USD) (May) |  |  | 715,734.0B |
+| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (May) | -0.1% | 0.0% | -0.1% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (May) | 0.5% | 1.0% | 0.4% |
+| 07:00 | NOK | Low | Manufacturing Production (MoM) (Apr) | -0.9% |  | 2.0% |
+| 07:00 | ZAR | Low | Foreign Reserves (USD) (May) | 76.58B |  | 77.09B |
+| 07:00 | ZAR | Low | Net FX Reserves (USD) (May) | 73.467B |  | 73.757B |
+| 07:45 | EUR | Low | French Current Account (Apr) | -0.20B |  | -0.90B |
+| 07:45 | EUR | Low | French Exports (Apr) | 54.6B |  | 52.9B |
+| 07:45 | EUR | Low | French Imports (Apr) | 60.2B |  | 59.3B |
+| 07:45 | EUR | Low | French Industrial Production (MoM) (Apr) | 0.1% | -0.2% | 1.4% |
+| 07:45 | EUR | Low | French Reserve Assets Total (May) | 381,300.0M |  | 386,898.0M |
+| 07:45 | EUR | Low | French Trade Balance (Apr) | -5.6B | -6.2B | -6.4B |
+| 08:00 | CHF | Low | Foreign Reserves (USD) (May) | 710.8B |  | 715.8B |
 | 08:30 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 09:30 | HKD | Low | Foreign Reserves (USD) (May) |  |  | 442.10B |
 | 10:00 | EUR | Low | Italian Retail Sales (MoM) (Apr) |  | 0.4% | 0.8% |

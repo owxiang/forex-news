@@ -5,8 +5,8 @@
 | 00:30 | JPY | Household Spending (YoY) (Apr) | -0.5% | -1.5% | -2.9% |
 | 00:30 | JPY | Household Spending (MoM) (Apr) | 1.6% | 0.8% | -1.3% |
 | 05:30 | INR | Interest Rate Decision | 5.25% | 5.25% | 5.25% |
-| 07:00 | GBP | Halifax House Price Index (MoM) (May) |  | 0.0% | -0.1% |
-| 07:00 | GBP | Halifax House Price Index (YoY) (May) |  | 1.0% | 0.4% |
+| 07:00 | GBP | Halifax House Price Index (MoM) (May) | -0.1% | 0.0% | -0.1% |
+| 07:00 | GBP | Halifax House Price Index (YoY) (May) | 0.5% | 1.0% | 0.4% |
 | 08:30 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 10:00 | EUR | GDP (YoY) (Q1) |  | 0.8% | 1.2% |
 | 10:00 | EUR | GDP (QoQ) (Q1) |  | 0.1% | 0.1% |
