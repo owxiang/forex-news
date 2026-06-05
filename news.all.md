@@ -40,30 +40,30 @@
 | 10:00 | EUR | Moderate | GDP (YoY) (Q1) | 0.3% | 0.8% | 1.2% |
 | 11:30 | INR | Low | GDP Annual | 7.7% |  | 6.5% |
 | 11:30 | INR | Moderate | GDP Quarterly (YoY) (Q4) | 7.8% | 7.2% | 8.0% |
-| 12:30 | INR | Low | FX Reserves, USD |  |  | 681.38B |
-| 13:00 | MXN | Low | Consumer Confidence (May) |  |  | 44.4 |
-| 13:00 | MXN | Low | Consumer Confidence n.s.a. (May) |  |  | 44.3 |
-| 13:30 | USD | High | Average Hourly Earnings (MoM) (May) |  | 0.3% | 0.2% |
-| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (May) |  | 3.4% | 3.6% |
-| 13:30 | USD | Low | Average Weekly Hours (May) |  | 34.3 | 34.3 |
-| 13:30 | USD | Low | Government Payrolls (May) |  |  | -8.0K |
-| 13:30 | USD | Low | Manufacturing Payrolls (May) |  | 2K | -2K |
-| 13:30 | USD | High | Nonfarm Payrolls (May) |  | 85K | 115K |
-| 13:30 | USD | Moderate | Participation Rate (May) |  |  | 61.8% |
-| 13:30 | USD | Moderate | Private Nonfarm Payrolls (May) |  | 85K | 123K |
-| 13:30 | USD | Moderate | U6 Unemployment Rate (May) |  |  | 8.2% |
-| 13:30 | USD | High | Unemployment Rate (May) |  | 4.3% | 4.3% |
-| 13:30 | CAD | Low | Avg hourly wages Permanent employee (May) |  |  | 4.8% |
-| 13:30 | CAD | Moderate | Employment Change (May) |  | 10.6K | -17.7K |
-| 13:30 | CAD | Low | Full Employment Change (May) |  |  | -46.7K |
-| 13:30 | CAD | Low | Part Time Employment Change (May) |  |  | 29.0K |
-| 13:30 | CAD | Low | Participation Rate (May) |  | 65.1% | 65.0% |
-| 13:30 | CAD | Moderate | Unemployment Rate (May) |  | 6.9% | 6.9% |
-| 14:40 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
-| 15:00 | CAD | Low | Ivey PMI n.s.a (May) |  |  | 61.5 |
-| 15:00 | CAD | Moderate | Ivey PMI (May) |  | 54.5 | 57.7 |
-| 15:00 | BRL | Low | Auto Production (MoM) (May) |  |  | -9.5% |
-| 15:00 | BRL | Low | Auto Sales (MoM) (May) |  |  | -7.8% |
+| 12:30 | INR | Low | FX Reserves, USD | 682.32B |  | 681.38B |
+| 13:00 | MXN | Low | Consumer Confidence (May) | 43.5 |  | 44.2 |
+| 13:00 | MXN | Low | Consumer Confidence n.s.a. (May) | 43.1 |  | 44.3 |
+| 13:30 | USD | High | Average Hourly Earnings (MoM) (May) | 0.3% | 0.3% | 0.2% |
+| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (May) | 3.4% | 3.4% | 3.6% |
+| 13:30 | USD | Low | Average Weekly Hours (May) | 34.3 | 34.3 | 34.3 |
+| 13:30 | USD | Low | Government Payrolls (May) | 52.0K |  | 2.0K |
+| 13:30 | USD | Low | Manufacturing Payrolls (May) | 7K | 2K | 0K |
+| 13:30 | USD | High | Nonfarm Payrolls (May) | 172K | 85K | 179K |
+| 13:30 | USD | Moderate | Participation Rate (May) | 61.8% |  | 61.8% |
+| 13:30 | USD | Moderate | Private Nonfarm Payrolls (May) | 120K | 85K | 177K |
+| 13:30 | USD | Moderate | U6 Unemployment Rate (May) | 8.1% |  | 8.2% |
+| 13:30 | USD | High | Unemployment Rate (May) | 4.3% | 4.3% | 4.3% |
+| 13:30 | CAD | Low | Avg hourly wages Permanent employee (May) | 3.2% |  | 4.8% |
+| 13:30 | CAD | Moderate | Employment Change (May) | 87.8K | 10.6K | -17.7K |
+| 13:30 | CAD | Low | Full Employment Change (May) | 154.0K |  | -46.7K |
+| 13:30 | CAD | Low | Part Time Employment Change (May) | -66.2K |  | 29.0K |
+| 13:30 | CAD | Low | Participation Rate (May) | 65.0% | 65.1% | 65.0% |
+| 13:30 | CAD | Moderate | Unemployment Rate (May) | 6.6% | 6.9% | 6.9% |
+| 27 min | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
+| 47 min | CAD | Low | Ivey PMI n.s.a (May) |  |  | 61.5 |
+| 47 min | CAD | Moderate | Ivey PMI (May) |  | 54.5 | 57.7 |
+| 47 min | BRL | Low | Auto Production (MoM) (May) |  |  | -9.5% |
+| 47 min | BRL | Low | Auto Sales (MoM) (May) |  |  | -7.8% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 429 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 562 |
 | 19:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |

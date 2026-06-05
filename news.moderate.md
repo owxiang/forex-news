@@ -12,13 +12,13 @@
 | 10:00 | EUR | GDP (QoQ) (Q1) | -0.2% | 0.1% | 0.1% |
 | 10:00 | EUR | GDP (YoY) (Q1) | 0.3% | 0.8% | 1.2% |
 | 11:30 | INR | GDP Quarterly (YoY) (Q4) | 7.8% | 7.2% | 8.0% |
-| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (May) |  | 3.4% | 3.6% |
-| 13:30 | USD | Participation Rate (May) |  |  | 61.8% |
-| 13:30 | USD | Private Nonfarm Payrolls (May) |  | 85K | 123K |
-| 13:30 | USD | U6 Unemployment Rate (May) |  |  | 8.2% |
-| 13:30 | CAD | Employment Change (May) |  | 10.6K | -17.7K |
-| 13:30 | CAD | Unemployment Rate (May) |  | 6.9% | 6.9% |
-| 15:00 | CAD | Ivey PMI (May) |  | 54.5 | 57.7 |
+| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (May) | 3.4% | 3.4% | 3.6% |
+| 13:30 | USD | Participation Rate (May) | 61.8% |  | 61.8% |
+| 13:30 | USD | Private Nonfarm Payrolls (May) | 120K | 85K | 177K |
+| 13:30 | USD | U6 Unemployment Rate (May) | 8.1% |  | 8.2% |
+| 13:30 | CAD | Employment Change (May) | 87.8K | 10.6K | -17.7K |
+| 13:30 | CAD | Unemployment Rate (May) | 6.6% | 6.9% | 6.9% |
+| 47 min | CAD | Ivey PMI (May) |  | 54.5 | 57.7 |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 429 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 562 |
 | 19:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
