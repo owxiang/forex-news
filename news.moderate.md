@@ -18,7 +18,7 @@
 | 13:30 | USD | U6 Unemployment Rate (May) | 8.1% |  | 8.2% |
 | 13:30 | CAD | Employment Change (May) | 87.8K | 10.6K | -17.7K |
 | 13:30 | CAD | Unemployment Rate (May) | 6.6% | 6.9% | 6.9% |
-| 47 min | CAD | Ivey PMI (May) |  | 54.5 | 57.7 |
+| 15:00 | CAD | Ivey PMI (May) | 58.2 | 54.5 | 57.7 |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 429 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 562 |
 | 19:00 | GBP | BoE Gov Bailey Speaks |  |  |  |

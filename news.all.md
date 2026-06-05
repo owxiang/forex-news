@@ -14,8 +14,8 @@
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Apr) | 1.1% | -1.7% | 0.3% |
 | 06:00 | JPY | Low | Leading Index (Apr) | 115.9 | 114.4 | 114.0 |
 | 06:00 | JPY | Low | Leading Index (MoM) (Apr) | 0.5% |  | 0.8% |
-| 06:00 | SGD | Low | Retail Sales (MoM) (Apr) | 0.3% |  | 3.4% |
 | 06:00 | SGD | Low | Retail Sales (YoY) (Apr) | 5.4% |  | 4.6% |
+| 06:00 | SGD | Low | Retail Sales (MoM) (Apr) | 0.3% |  | 3.4% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (May) | -0.1% | 0.0% | -0.1% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (May) | 0.5% | 1.0% | 0.4% |
 | 07:00 | NOK | Low | Manufacturing Production (MoM) (Apr) | -0.9% |  | 2.0% |
@@ -31,18 +31,19 @@
 | 08:30 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 09:30 | GBP | Moderate | Mortgage Rate (GBP) (May) | 6.60% |  | 6.60% |
 | 09:30 | HKD | Low | Foreign Reserves (USD) (May) | 446.50B |  | 442.10B |
-| 10:00 | EUR | Low | Italian Retail Sales (YoY) (Apr) | 1.6% |  | 3.8% |
 | 10:00 | EUR | Low | Italian Retail Sales (MoM) (Apr) | 0.0% | 0.4% | 0.8% |
+| 10:00 | EUR | Low | Italian Retail Sales (YoY) (Apr) | 1.6% |  | 3.8% |
 | 10:00 | EUR | Low | Employment Change (YoY) (Q1) | 0.5% | 0.5% | 0.7% |
 | 10:00 | EUR | Low | Employment Change (QoQ) (Q1) | 0.1% | 0.1% | 0.2% |
 | 10:00 | EUR | Low | Employment Overall (Q1) | 176,308.0K | 176,412.0K | 172,571.6K |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q1) | -0.2% | 0.1% | 0.1% |
 | 10:00 | EUR | Moderate | GDP (YoY) (Q1) | 0.3% | 0.8% | 1.2% |
-| 11:30 | INR | Low | GDP Annual | 7.7% |  | 6.5% |
 | 11:30 | INR | Moderate | GDP Quarterly (YoY) (Q4) | 7.8% | 7.2% | 8.0% |
+| 12:30 | INR | Low | Deposit Growth |  |  | 12.2% |
 | 12:30 | INR | Low | FX Reserves, USD | 682.32B |  | 681.38B |
 | 13:00 | MXN | Low | Consumer Confidence (May) | 43.5 |  | 44.2 |
 | 13:00 | MXN | Low | Consumer Confidence n.s.a. (May) | 43.1 |  | 44.3 |
+| 13:00 | INR | Low | GDP Annual | 7.7% |  | 6.5% |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (May) | 0.3% | 0.3% | 0.2% |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (May) | 3.4% | 3.4% | 3.6% |
 | 13:30 | USD | Low | Average Weekly Hours (May) | 34.3 | 34.3 | 34.3 |
@@ -59,13 +60,13 @@
 | 13:30 | CAD | Low | Part Time Employment Change (May) | -66.2K |  | 29.0K |
 | 13:30 | CAD | Low | Participation Rate (May) | 65.0% | 65.1% | 65.0% |
 | 13:30 | CAD | Moderate | Unemployment Rate (May) | 6.6% | 6.9% | 6.9% |
-| 27 min | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
-| 47 min | CAD | Low | Ivey PMI n.s.a (May) |  |  | 61.5 |
-| 47 min | CAD | Moderate | Ivey PMI (May) |  | 54.5 | 57.7 |
-| 47 min | BRL | Low | Auto Production (MoM) (May) |  |  | -9.5% |
-| 47 min | BRL | Low | Auto Sales (MoM) (May) |  |  | -7.8% |
+| 14:40 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
+| 15:00 | CAD | Low | Ivey PMI n.s.a (May) | 61.3 |  | 61.5 |
+| 15:00 | CAD | Moderate | Ivey PMI (May) | 58.2 | 54.5 | 57.7 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 429 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 562 |
+| 18:00 | BRL | Low | Auto Production (MoM) (May) |  |  | -9.5% |
+| 18:00 | BRL | Low | Auto Sales (MoM) (May) |  |  | -7.8% |
 | 19:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 20:00 | USD | Moderate | Consumer Credit (Apr) |  | 17.80B | 24.86B |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -61.4K |
