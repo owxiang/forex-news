@@ -1,3 +1,5 @@
-## 06 June 2026 - Low Impact Forex News
+## 07 June 2026 - Low Impact Forex News
 
-There is no low impact news today.
+| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 09:00 | CNY | FX Reserves (USD) (May) |  |  | 3.411T |
