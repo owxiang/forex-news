@@ -23,4 +23,4 @@
 | 15:00 | USD | CB Employment Trends Index (May) | 107.01 |  | 107.88 |
 | 16:30 | USD | 3-Month Bill Auction | 3.640% |  | 3.630% |
 | 16:30 | USD | 6-Month Bill Auction | 3.690% |  | 3.665% |
-| 23:45 | NZD | Manufacturing Sales Volume (QoQ) (Q1) |  |  | -0.5% |
+| 8 min | NZD | Manufacturing Sales Volume (QoQ) (Q1) |  |  | -0.5% |
