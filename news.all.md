@@ -15,9 +15,9 @@
 | 06:00 | JPY | Low | Economy Watchers Current Index (May) | 43.6 | 41.9 | 40.8 |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Apr) | -3.8% | -2.2% | 4.5% |
 | 08:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 32 min | EUR | Low | Sentix Investor Confidence (Jun) |  | -13.8 | -16.4 |
-| 10:00 | SGD | Low | Foreign Reserves USD (MoM) (May) |  |  | 427.3B |
-| 11:00 | CAD | Low | Leading Index (MoM) (May) |  |  | 0.06% |
+| 09:30 | EUR | Low | Sentix Investor Confidence (Jun) | -13.4 | -13.8 | -16.4 |
+| 10:00 | SGD | Low | Foreign Reserves USD (MoM) (May) | 430.1B |  | 427.3B |
+| 10 min | CAD | Low | Leading Index (MoM) (May) |  |  | 0.06% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.588% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.289% |

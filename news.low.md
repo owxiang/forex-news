@@ -8,9 +8,9 @@
 | 00:50 | JPY | GDP Private Consumption (QoQ) (Q1) | 0.3% | 0.3% | 0.1% |
 | 04:00 | IDR | FX Reserves (USD) (May) | 144.90B |  | 146.20B |
 | 06:00 | JPY | Economy Watchers Current Index (May) | 43.6 | 41.9 | 40.8 |
-| 32 min | EUR | Sentix Investor Confidence (Jun) |  | -13.8 | -16.4 |
-| 10:00 | SGD | Foreign Reserves USD (MoM) (May) |  |  | 427.3B |
-| 11:00 | CAD | Leading Index (MoM) (May) |  |  | 0.06% |
+| 09:30 | EUR | Sentix Investor Confidence (Jun) | -13.4 | -13.8 | -16.4 |
+| 10:00 | SGD | Foreign Reserves USD (MoM) (May) | 430.1B |  | 427.3B |
+| 10 min | CAD | Leading Index (MoM) (May) |  |  | 0.06% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.588% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.289% |
