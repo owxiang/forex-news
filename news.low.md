@@ -6,11 +6,10 @@
 | 00:50 | JPY | GDP Capital Expenditure (QoQ) (Q1) | -0.7% | 0.3% | 1.2% |
 | 00:50 | JPY | GDP External Demand (QoQ) (Q1) | 0.3% | 0.3% | 0.0% |
 | 00:50 | JPY | GDP Private Consumption (QoQ) (Q1) | 0.3% | 0.3% | 0.1% |
-| 02:30 | AUD | Housing Credit (Apr) |  |  | 0.6% |
-| 02:30 | AUD | Private Sector Credit (MoM) (Apr) |  | 0.6% | 0.7% |
-| 04:00 | IDR | FX Reserves (USD) (May) |  |  | 146.20B |
+| 04:00 | IDR | FX Reserves (USD) (May) | 144.90B |  | 146.20B |
 | 06:00 | JPY | Economy Watchers Current Index (May) |  | 41.9 | 40.8 |
 | 09:30 | EUR | Sentix Investor Confidence (Jun) |  | -13.8 | -16.4 |
+| 10:00 | SGD | Foreign Reserves USD (MoM) (May) |  |  | 427.3B |
 | 11:00 | CAD | Leading Index (MoM) (May) |  |  | 0.06% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.588% |
