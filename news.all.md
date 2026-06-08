@@ -18,10 +18,15 @@
 | 09:30 | EUR | Low | Sentix Investor Confidence (Jun) | -13.4 | -13.8 | -16.4 |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) (May) | 430.1B |  | 427.3B |
 | 11:00 | CAD | Low | Leading Index (MoM) (May) | 0.11% |  | 0.12% |
+| 12:00 | INR | Low | Balance of Payments (USD) (Q1) | 7.200B |  | -24.400B |
+| 12:00 | INR | Low | Current Account % of GDP (QoQ) (Q1) | 0.70% |  | -1.30% |
+| 12:00 | INR | Low | Current Account % of GDP (YoY) | -0.60% |  | -0.70% |
+| 12:00 | INR | Low | Current Account (USD) (Q1) | 7.10B | -15.00B | -13.20B |
+| 12:00 | INR | Low | Trade Balance (USD) (Q1) | -83.400B |  | -93.600B |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.588% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.289% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.440% |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.667% |  | 2.588% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.363% |  | 2.289% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.507% |  | 2.440% |
 | 15:00 | USD | Low | CB Employment Trends Index (May) |  |  | 105.77 |
 | 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (May) |  |  | 3.6% |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.630% |
