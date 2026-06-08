@@ -8,4 +8,4 @@
 | 00:50 | JPY | GDP Price Index (YoY) (Q1) | 3.2% | 3.4% | 3.4% |
 | 07:00 | EUR | German Factory Orders (MoM) (Apr) | -3.8% | -2.2% | 4.5% |
 | 08:00 | EUR | German Buba Balz Speaks |  |  |  |
-| 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (May) |  |  | 3.6% |
+| 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (May) | 3.5% |  | 3.6% |

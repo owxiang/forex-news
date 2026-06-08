@@ -20,7 +20,7 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 2.667% |  | 2.588% |
 | 14:00 | EUR | French 3-Month BTF Auction | 2.363% |  | 2.289% |
 | 14:00 | EUR | French 6-Month BTF Auction | 2.507% |  | 2.440% |
-| 15:00 | USD | CB Employment Trends Index (May) |  |  | 105.77 |
+| 15:00 | USD | CB Employment Trends Index (May) | 107.01 |  | 107.88 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 3.630% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 3.665% |
 | 23:45 | NZD | Manufacturing Sales Volume (QoQ) (Q1) |  |  | -0.5% |
