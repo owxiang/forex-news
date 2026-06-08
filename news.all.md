@@ -29,6 +29,6 @@
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.507% |  | 2.440% |
 | 15:00 | USD | Low | CB Employment Trends Index (May) | 107.01 |  | 107.88 |
 | 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (May) | 3.5% |  | 3.6% |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.630% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.665% |
+| 16:30 | USD | Low | 3-Month Bill Auction | 3.640% |  | 3.630% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 3.690% |  | 3.665% |
 | 23:45 | NZD | Low | Manufacturing Sales Volume (QoQ) (Q1) |  |  | -0.5% |
