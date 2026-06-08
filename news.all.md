@@ -13,10 +13,9 @@
 | 00:50 | JPY | Low | GDP Private Consumption (QoQ) (Q1) | 0.3% | 0.3% | 0.1% |
 | 04:00 | IDR | Low | FX Reserves (USD) (May) | 144.90B |  | 146.20B |
 | 06:00 | JPY | Low | Economy Watchers Current Index (May) | 43.6 | 41.9 | 40.8 |
-| 17 min | EUR | Moderate | German Factory Orders (MoM) (Apr) |  | -2.2% | 5.0% |
-| 08:00 | CHF | Moderate | SECO Consumer Climate (May) |  | -38 | -40 |
+| 07:00 | EUR | Moderate | German Factory Orders (MoM) (Apr) | -3.8% | -2.2% | 4.5% |
 | 08:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 09:30 | EUR | Low | Sentix Investor Confidence (Jun) |  | -13.8 | -16.4 |
+| 32 min | EUR | Low | Sentix Investor Confidence (Jun) |  | -13.8 | -16.4 |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) (May) |  |  | 427.3B |
 | 11:00 | CAD | Low | Leading Index (MoM) (May) |  |  | 0.06% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
