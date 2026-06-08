@@ -7,7 +7,7 @@
 | 00:50 | JPY | GDP External Demand (QoQ) (Q1) | 0.3% | 0.3% | 0.0% |
 | 00:50 | JPY | GDP Private Consumption (QoQ) (Q1) | 0.3% | 0.3% | 0.1% |
 | 04:00 | IDR | FX Reserves (USD) (May) | 144.90B |  | 146.20B |
-| 06:00 | JPY | Economy Watchers Current Index (May) |  | 41.9 | 40.8 |
+| 06:00 | JPY | Economy Watchers Current Index (May) | 43.6 | 41.9 | 40.8 |
 | 09:30 | EUR | Sentix Investor Confidence (Jun) |  | -13.8 | -16.4 |
 | 10:00 | SGD | Foreign Reserves USD (MoM) (May) |  |  | 427.3B |
 | 11:00 | CAD | Leading Index (MoM) (May) |  |  | 0.06% |
