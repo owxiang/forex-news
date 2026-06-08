@@ -1,11 +1,25 @@
-## 08 June 2026 - Moderate Impact Forex News
+## 09 June 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Adjusted Current Account (Apr) | 4.21T | 3.26T | 3.90T |
-| 00:50 | JPY | Current Account n.s.a. (Apr) | 3.907T | 3.137T | 4.682T |
-| 00:50 | JPY | GDP Annualized (QoQ) (Q1) | 1.8% | 2.1% | 0.7% |
-| 00:50 | JPY | GDP Price Index (YoY) (Q1) | 3.2% | 3.4% | 3.4% |
-| 07:00 | EUR | German Factory Orders (MoM) (Apr) | -3.8% | -2.2% | 4.5% |
-| 08:00 | EUR | German Buba Balz Speaks |  |  |  |
-| 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (May) | 3.5% |  | 3.6% |
+| 00:01 | GBP | BRC Retail Sales Monitor (YoY) (May) | 3.4% | 0.6% | -3.4% |
+| 02:30 | AUD | NAB Business Confidence (May) |  |  | -24 |
+| 04:00 | CNY | Exports (YoY) (May) |  | 15.0% | 14.1% |
+| 04:00 | CNY | Imports (YoY) (May) |  | 25.0% | 25.3% |
+| 04:00 | CNY | Trade Balance (USD) (May) |  | 88.70B | 84.80B |
+| 07:00 | EUR | German Industrial Production (MoM) (Apr) |  | 0.1% | -0.7% |
+| 07:00 | EUR | German Trade Balance (Apr) |  | 14.2B | 14.3B |
+| 10:30 | ZAR | GDP Annualized (QoQ) |  |  | 0.4% |
+| 13:00 | MXN | CPI (MoM) (May) |  | -0.12% | 0.20% |
+| 13:00 | MXN | CPI (YoY) (May) |  | 4.03% | 4.45% |
+| 13:15 | USD | ADP Employment Change Weekly |  |  | 35.75K |
+| 13:30 | USD | Exports (Apr) |  |  | 320.90B |
+| 13:30 | USD | Imports (Apr) |  |  | 381.20B |
+| 13:30 | USD | Trade Balance (Apr) |  | -55.20B | -60.30B |
+| 13:30 | CAD | Trade Balance (Apr) |  | 1.90B | 1.78B |
+| 15:00 | USD | Existing Home Sales (MoM) (May) |  |  | 0.2% |
+| 16:30 | USD | Atlanta Fed GDPNow (Q2) |  | 3.0% | 3.0% |
+| 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
+| 17:30 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 18:00 | USD | 3-Year Note Auction |  |  | 3.965% |
+| 21:30 | USD | API Weekly Crude Oil Stock |  |  | -6.750M |

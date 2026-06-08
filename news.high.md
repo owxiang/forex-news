@@ -1,5 +1,5 @@
-## 08 June 2026 - High Impact Forex News
+## 09 June 2026 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | GDP (QoQ) (Q1) | 0.5% | 0.5% | 0.3% |
+| 15:00 | USD | Existing Home Sales (May) |  | 4.08M | 4.02M |
