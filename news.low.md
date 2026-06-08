@@ -10,7 +10,7 @@
 | 06:00 | JPY | Economy Watchers Current Index (May) | 43.6 | 41.9 | 40.8 |
 | 09:30 | EUR | Sentix Investor Confidence (Jun) | -13.4 | -13.8 | -16.4 |
 | 10:00 | SGD | Foreign Reserves USD (MoM) (May) | 430.1B |  | 427.3B |
-| 10 min | CAD | Leading Index (MoM) (May) |  |  | 0.06% |
+| 11:00 | CAD | Leading Index (MoM) (May) | 0.11% |  | 0.12% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.588% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.289% |

@@ -17,7 +17,7 @@
 | 08:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Jun) | -13.4 | -13.8 | -16.4 |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) (May) | 430.1B |  | 427.3B |
-| 10 min | CAD | Low | Leading Index (MoM) (May) |  |  | 0.06% |
+| 11:00 | CAD | Low | Leading Index (MoM) (May) | 0.11% |  | 0.12% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.588% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.289% |
