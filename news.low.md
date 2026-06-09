@@ -16,6 +16,8 @@
 | 07:00 | EUR | German Industrial Production (YoY) (Apr) |  |  | -3.00% |
 | 07:00 | JPY | Machine Tool Orders (YoY) |  |  | 45.1% |
 | 07:00 | NOK | PPI (YoY) (May) |  |  | 22.7% |
+| 08:30 | IDR | Deposit Facility Rate (Jun) | 4.50% |  | 4.25% |
+| 08:30 | IDR | Lending Facility Rate (Jun) | 6.25% |  | 6.00% |
 | 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 2.154% |
 | 10:00 | SGD | Foreign Reserves USD (MoM) (May) |  |  | 427.3B |
 | 10:00 | ZAR | GDP (YoY) (Q1) |  |  | 0.8% |
@@ -28,5 +30,5 @@
 | 13:30 | CAD | Exports (Apr) |  |  | 72.77B |
 | 13:30 | CAD | Imports (Apr) |  |  | 70.99B |
 | 13:55 | USD | Redbook (YoY) |  |  | 9.0% |
-| 15:00 | USD | Wholesale Inventories (MoM) (Apr) |  | 0.5% | 0.5% |
+| 15:00 | USD | Wholesale Inventories (MoM) (Apr) |  | 0.5% | 1.3% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Apr) |  |  | 2.8% |

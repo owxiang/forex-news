@@ -18,11 +18,13 @@
 | 03:30 | CNY | Moderate | Trade Balance (USD) (May) | 105.43B | 92.10B | 84.80B |
 | 07:00 | EUR | Low | German Exports (MoM) (Apr) |  | -0.3% | 0.5% |
 | 07:00 | EUR | Low | German Imports (MoM) (Apr) |  |  | 5.1% |
-| 07:00 | EUR | Moderate | German Industrial Production (MoM) (Apr) |  | 0.1% | -0.7% |
-| 07:00 | EUR | Moderate | German Trade Balance (Apr) |  | 14.2B | 14.3B |
+| 07:00 | EUR | Moderate | German Industrial Production (MoM) (Apr) |  | 0.4% | -0.7% |
+| 07:00 | EUR | Moderate | German Trade Balance (Apr) |  | 15.4B | 14.3B |
 | 07:00 | EUR | Low | German Industrial Production (YoY) (Apr) |  |  | -3.00% |
 | 07:00 | JPY | Low | Machine Tool Orders (YoY) |  |  | 45.1% |
 | 07:00 | NOK | Low | PPI (YoY) (May) |  |  | 22.7% |
+| 08:30 | IDR | Low | Deposit Facility Rate (Jun) | 4.50% |  | 4.25% |
+| 08:30 | IDR | Low | Lending Facility Rate (Jun) | 6.25% |  | 6.00% |
 | 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 2.154% |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) (May) |  |  | 427.3B |
 | 10:00 | ZAR | Low | GDP (YoY) (Q1) |  |  | 0.8% |
@@ -38,14 +40,14 @@
 | 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 35.75K |
 | 13:30 | USD | Moderate | Exports (Apr) |  |  | 320.90B |
 | 13:30 | USD | Moderate | Imports (Apr) |  |  | 381.20B |
-| 13:30 | USD | Moderate | Trade Balance (Apr) |  | -55.20B | -60.30B |
+| 13:30 | USD | Moderate | Trade Balance (Apr) |  | -56.20B | -60.30B |
 | 13:30 | CAD | Low | Exports (Apr) |  |  | 72.77B |
 | 13:30 | CAD | Low | Imports (Apr) |  |  | 70.99B |
-| 13:30 | CAD | Moderate | Trade Balance (Apr) |  | 1.90B | 1.78B |
+| 13:30 | CAD | Moderate | Trade Balance (Apr) |  | 2.50B | 1.78B |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 9.0% |
-| 15:00 | USD | High | Existing Home Sales (May) |  | 4.08M | 4.02M |
+| 15:00 | USD | High | Existing Home Sales (May) |  | 4.07M | 4.02M |
 | 15:00 | USD | Moderate | Existing Home Sales (MoM) (May) |  |  | 0.2% |
-| 15:00 | USD | Low | Wholesale Inventories (MoM) (Apr) |  | 0.5% | 0.5% |
+| 15:00 | USD | Low | Wholesale Inventories (MoM) (Apr) |  | 0.5% | 1.3% |
 | 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Apr) |  |  | 2.8% |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 3.0% | 3.0% |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
