@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | BRC Retail Sales Monitor (YoY) (May) | 3.4% | 0.6% | -3.4% |
-| 02:30 | AUD | NAB Business Confidence (May) |  |  | -24 |
+| 00:01 | GBP | BRC Retail Sales Monitor (YoY) (May) | 3.4% | 0.8% | -3.4% |
+| 25 min | AUD | NAB Business Confidence (May) |  |  | -24 |
 | 04:00 | CNY | Exports (YoY) (May) |  | 15.0% | 14.1% |
 | 04:00 | CNY | Imports (YoY) (May) |  | 25.0% | 25.3% |
 | 04:00 | CNY | Trade Balance (USD) (May) |  | 88.70B | 84.80B |

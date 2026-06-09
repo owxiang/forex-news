@@ -2,14 +2,14 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | GDP (YoY) (Q2) | 3.8% | 3.6% | 1.6% |
-| 00:00 | KRW | Low | GDP (QoQ) (Q2) | 1.8% | 1.7% | -0.2% |
-| 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (May) | 3.4% | 0.6% | -3.4% |
-| 18 min | JPY | Low | M2 Money Stock (YoY) |  | 2.4% | 2.3% |
-| 18 min | JPY | Low | M3 Money Supply (May) |  |  | 2,282.6B |
-| 58 min | AUD | Low | Westpac Consumer Sentiment (Jun) |  |  | 3.5% |
-| 02:30 | AUD | Moderate | NAB Business Confidence (May) |  |  | -24 |
-| 02:30 | AUD | Low | NAB Business Survey (May) |  |  | 3 |
+| 00:00 | KRW | Low | GDP (YoY) (Q1) | 3.6% | 3.6% | 1.6% |
+| 00:00 | KRW | Low | GDP (QoQ) (Q1) | 1.7% | 1.7% | -0.1% |
+| 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (May) | 3.4% | 0.8% | -3.4% |
+| 00:50 | JPY | Low | M2 Money Stock (YoY) | 2.5% | 2.4% | 2.3% |
+| 00:50 | JPY | Low | M3 Money Supply (May) | 2,328.6B |  | 2,305.0B |
+| 01:30 | AUD | Low | Westpac Consumer Sentiment (Jun) | -2.9% |  | 3.5% |
+| 25 min | AUD | Moderate | NAB Business Confidence (May) |  |  | -24 |
+| 25 min | AUD | Low | NAB Business Survey (May) |  |  | 3 |
 | 04:00 | CNY | Low | Exports (May) |  |  | 9.80M |
 | 04:00 | CNY | Low | Imports (May) |  |  | 20.60M |
 | 04:00 | CNY | Moderate | Exports (YoY) (May) |  | 15.0% | 14.1% |

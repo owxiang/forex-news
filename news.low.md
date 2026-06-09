@@ -2,12 +2,12 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | GDP (YoY) (Q2) | 3.8% | 3.6% | 1.6% |
-| 00:00 | KRW | GDP (QoQ) (Q2) | 1.8% | 1.7% | -0.2% |
-| 18 min | JPY | M2 Money Stock (YoY) |  | 2.4% | 2.3% |
-| 18 min | JPY | M3 Money Supply (May) |  |  | 2,282.6B |
-| 58 min | AUD | Westpac Consumer Sentiment (Jun) |  |  | 3.5% |
-| 02:30 | AUD | NAB Business Survey (May) |  |  | 3 |
+| 00:00 | KRW | GDP (YoY) (Q1) | 3.6% | 3.6% | 1.6% |
+| 00:00 | KRW | GDP (QoQ) (Q1) | 1.7% | 1.7% | -0.1% |
+| 00:50 | JPY | M2 Money Stock (YoY) | 2.5% | 2.4% | 2.3% |
+| 00:50 | JPY | M3 Money Supply (May) | 2,328.6B |  | 2,305.0B |
+| 01:30 | AUD | Westpac Consumer Sentiment (Jun) | -2.9% |  | 3.5% |
+| 25 min | AUD | NAB Business Survey (May) |  |  | 3 |
 | 04:00 | CNY | Exports (May) |  |  | 9.80M |
 | 04:00 | CNY | Imports (May) |  |  | 20.60M |
 | 07:00 | EUR | German Exports (MoM) (Apr) |  | -0.3% | 0.5% |
