@@ -23,4 +23,4 @@
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 17:30 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | 3-Year Note Auction | 4.192% |  | 3.965% |
-| 21:30 | USD | API Weekly Crude Oil Stock |  | -3.400M | -6.750M |
+| 44 min | USD | API Weekly Crude Oil Stock |  | -3.400M | -6.750M |
