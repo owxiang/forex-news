@@ -11,13 +11,13 @@
 | 03:30 | CNY | Exports (May) | 13.80M |  | 9.80M |
 | 03:30 | CNY | Imports (May) | 21.50M |  | 20.60M |
 | 03:30 | CNY | Trade Balance (May) | 723.98B | 625.00B | 585.60B |
-| 07:00 | EUR | German Exports (MoM) (Apr) |  | -0.3% | 0.5% |
-| 07:00 | EUR | German Imports (MoM) (Apr) |  |  | 5.1% |
-| 07:00 | EUR | German Industrial Production (YoY) (Apr) |  |  | -3.00% |
-| 07:00 | JPY | Machine Tool Orders (YoY) |  |  | 45.1% |
-| 07:00 | NOK | PPI (YoY) (May) |  |  | 22.7% |
-| 08:30 | IDR | Deposit Facility Rate (Jun) | 4.50% |  | 4.25% |
-| 08:30 | IDR | Lending Facility Rate (Jun) | 6.25% |  | 6.00% |
+| 07:00 | EUR | German Exports (MoM) (Apr) | 0.9% | -0.3% | 0.3% |
+| 07:00 | EUR | German Imports (MoM) (Apr) | 1.2% |  | 4.5% |
+| 07:00 | EUR | German Industrial Production (YoY) (Apr) | -0.54% |  | -3.50% |
+| 07:00 | JPY | Machine Tool Orders (YoY) | 37.4% |  | 45.1% |
+| 07:00 | IDR | Deposit Facility Rate (Jun) | 4.50% |  | 4.25% |
+| 07:00 | IDR | Lending Facility Rate (Jun) | 6.25% |  | 6.00% |
+| 07:00 | NOK | PPI (YoY) (May) | 24.0% |  | 22.7% |
 | 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 2.154% |
 | 10:00 | SGD | Foreign Reserves USD (MoM) (May) |  |  | 427.3B |
 | 10:00 | ZAR | GDP (YoY) (Q1) |  |  | 0.8% |

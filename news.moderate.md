@@ -7,8 +7,9 @@
 | 03:30 | CNY | Exports (YoY) (May) | 19.4% | 15.0% | 14.1% |
 | 03:30 | CNY | Imports (YoY) (May) | 27.4% | 25.0% | 25.3% |
 | 03:30 | CNY | Trade Balance (USD) (May) | 105.43B | 92.10B | 84.80B |
-| 07:00 | EUR | German Industrial Production (MoM) (Apr) |  | 0.4% | -0.7% |
-| 07:00 | EUR | German Trade Balance (Apr) |  | 15.4B | 14.3B |
+| 07:00 | EUR | German Industrial Production (MoM) (Apr) | 0.4% | 0.4% | -0.1% |
+| 07:00 | EUR | German Trade Balance (Apr) | 14.5B | 15.4B | 14.7B |
+| 07:00 | IDR | Interest Rate Decision | 5.50% |  | 5.25% |
 | 10:30 | ZAR | GDP Annualized (QoQ) |  |  | 0.4% |
 | 13:00 | MXN | CPI (YoY) (May) |  | 4.03% | 4.45% |
 | 13:00 | MXN | CPI (MoM) (May) |  | -0.12% | 0.20% |

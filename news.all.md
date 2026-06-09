@@ -16,15 +16,16 @@
 | 03:30 | CNY | Moderate | Exports (YoY) (May) | 19.4% | 15.0% | 14.1% |
 | 03:30 | CNY | Moderate | Imports (YoY) (May) | 27.4% | 25.0% | 25.3% |
 | 03:30 | CNY | Moderate | Trade Balance (USD) (May) | 105.43B | 92.10B | 84.80B |
-| 07:00 | EUR | Low | German Exports (MoM) (Apr) |  | -0.3% | 0.5% |
-| 07:00 | EUR | Low | German Imports (MoM) (Apr) |  |  | 5.1% |
-| 07:00 | EUR | Moderate | German Industrial Production (MoM) (Apr) |  | 0.4% | -0.7% |
-| 07:00 | EUR | Moderate | German Trade Balance (Apr) |  | 15.4B | 14.3B |
-| 07:00 | EUR | Low | German Industrial Production (YoY) (Apr) |  |  | -3.00% |
-| 07:00 | JPY | Low | Machine Tool Orders (YoY) |  |  | 45.1% |
-| 07:00 | NOK | Low | PPI (YoY) (May) |  |  | 22.7% |
-| 08:30 | IDR | Low | Deposit Facility Rate (Jun) | 4.50% |  | 4.25% |
-| 08:30 | IDR | Low | Lending Facility Rate (Jun) | 6.25% |  | 6.00% |
+| 07:00 | EUR | Low | German Exports (MoM) (Apr) | 0.9% | -0.3% | 0.3% |
+| 07:00 | EUR | Low | German Imports (MoM) (Apr) | 1.2% |  | 4.5% |
+| 07:00 | EUR | Moderate | German Industrial Production (MoM) (Apr) | 0.4% | 0.4% | -0.1% |
+| 07:00 | EUR | Moderate | German Trade Balance (Apr) | 14.5B | 15.4B | 14.7B |
+| 07:00 | EUR | Low | German Industrial Production (YoY) (Apr) | -0.54% |  | -3.50% |
+| 07:00 | JPY | Low | Machine Tool Orders (YoY) | 37.4% |  | 45.1% |
+| 07:00 | IDR | Moderate | Interest Rate Decision | 5.50% |  | 5.25% |
+| 07:00 | IDR | Low | Deposit Facility Rate (Jun) | 4.50% |  | 4.25% |
+| 07:00 | IDR | Low | Lending Facility Rate (Jun) | 6.25% |  | 6.00% |
+| 07:00 | NOK | Low | PPI (YoY) (May) | 24.0% |  | 22.7% |
 | 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 2.154% |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) (May) |  |  | 427.3B |
 | 10:00 | ZAR | Low | GDP (YoY) (Q1) |  |  | 0.8% |
