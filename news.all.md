@@ -8,13 +8,14 @@
 | 00:50 | JPY | Low | M2 Money Stock (YoY) | 2.5% | 2.4% | 2.3% |
 | 00:50 | JPY | Low | M3 Money Supply (May) | 2,328.6B |  | 2,305.0B |
 | 01:30 | AUD | Low | Westpac Consumer Sentiment (Jun) | -2.9% |  | 3.5% |
-| 25 min | AUD | Moderate | NAB Business Confidence (May) |  |  | -24 |
-| 25 min | AUD | Low | NAB Business Survey (May) |  |  | 3 |
-| 04:00 | CNY | Low | Exports (May) |  |  | 9.80M |
-| 04:00 | CNY | Low | Imports (May) |  |  | 20.60M |
-| 04:00 | CNY | Moderate | Exports (YoY) (May) |  | 15.0% | 14.1% |
-| 04:00 | CNY | Moderate | Imports (YoY) (May) |  | 25.0% | 25.3% |
-| 04:00 | CNY | Moderate | Trade Balance (USD) (May) |  | 88.70B | 84.80B |
+| 02:30 | AUD | Moderate | NAB Business Confidence (May) | -14 |  | -23 |
+| 02:30 | AUD | Low | NAB Business Survey (May) | 3 |  | 3 |
+| 03:30 | CNY | Low | Exports (May) | 13.80M |  | 9.80M |
+| 03:30 | CNY | Low | Imports (May) | 21.50M |  | 20.60M |
+| 03:30 | CNY | Low | Trade Balance (May) | 723.98B | 625.00B | 585.60B |
+| 03:30 | CNY | Moderate | Exports (YoY) (May) | 19.4% | 15.0% | 14.1% |
+| 03:30 | CNY | Moderate | Imports (YoY) (May) | 27.4% | 25.0% | 25.3% |
+| 03:30 | CNY | Moderate | Trade Balance (USD) (May) | 105.43B | 92.10B | 84.80B |
 | 07:00 | EUR | Low | German Exports (MoM) (Apr) |  | -0.3% | 0.5% |
 | 07:00 | EUR | Low | German Imports (MoM) (Apr) |  |  | 5.1% |
 | 07:00 | EUR | Moderate | German Industrial Production (MoM) (Apr) |  | 0.1% | -0.7% |
@@ -29,8 +30,8 @@
 | 11:00 | USD | Low | NFIB Small Business Optimism (May) |  | 96.0 | 95.9 |
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (May) |  |  | 2.41% |
 | 13:00 | MXN | Low | Core CPI (MoM) (May) |  | 0.24% | 0.31% |
-| 13:00 | MXN | Moderate | CPI (MoM) (May) |  | -0.12% | 0.20% |
 | 13:00 | MXN | Moderate | CPI (YoY) (May) |  | 4.03% | 4.45% |
+| 13:00 | MXN | Moderate | CPI (MoM) (May) |  | -0.12% | 0.20% |
 | 13:00 | MXN | Low | Month Core Inflation (YoY) (May) |  | 4.20% | 4.26% |
 | 13:00 | MXN | Low | PPI (MoM) (May) |  |  | 0.00% |
 | 13:00 | MXN | Low | PPI (YoY) (May) |  |  | 2.60% |
@@ -46,7 +47,6 @@
 | 15:00 | USD | Moderate | Existing Home Sales (MoM) (May) |  |  | 0.2% |
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (Apr) |  | 0.5% | 0.5% |
 | 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Apr) |  |  | 2.8% |
-| 15:16 | CNY | Low | Trade Balance (May) |  | 637.00B | 585.60B |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 3.0% | 3.0% |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 17:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |

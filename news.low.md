@@ -7,9 +7,10 @@
 | 00:50 | JPY | M2 Money Stock (YoY) | 2.5% | 2.4% | 2.3% |
 | 00:50 | JPY | M3 Money Supply (May) | 2,328.6B |  | 2,305.0B |
 | 01:30 | AUD | Westpac Consumer Sentiment (Jun) | -2.9% |  | 3.5% |
-| 25 min | AUD | NAB Business Survey (May) |  |  | 3 |
-| 04:00 | CNY | Exports (May) |  |  | 9.80M |
-| 04:00 | CNY | Imports (May) |  |  | 20.60M |
+| 02:30 | AUD | NAB Business Survey (May) | 3 |  | 3 |
+| 03:30 | CNY | Exports (May) | 13.80M |  | 9.80M |
+| 03:30 | CNY | Imports (May) | 21.50M |  | 20.60M |
+| 03:30 | CNY | Trade Balance (May) | 723.98B | 625.00B | 585.60B |
 | 07:00 | EUR | German Exports (MoM) (Apr) |  | -0.3% | 0.5% |
 | 07:00 | EUR | German Imports (MoM) (Apr) |  |  | 5.1% |
 | 07:00 | EUR | German Industrial Production (YoY) (Apr) |  |  | -3.00% |
@@ -29,4 +30,3 @@
 | 13:55 | USD | Redbook (YoY) |  |  | 9.0% |
 | 15:00 | USD | Wholesale Inventories (MoM) (Apr) |  | 0.5% | 0.5% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Apr) |  |  | 2.8% |
-| 15:16 | CNY | Trade Balance (May) |  | 637.00B | 585.60B |
