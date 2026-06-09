@@ -45,10 +45,10 @@
 | 13:30 | CAD | Low | Imports (Apr) | 72.44B |  | 72.23B |
 | 13:30 | CAD | Moderate | Trade Balance (Apr) | 2.72B | 2.50B | 1.75B |
 | 13:55 | USD | Low | Redbook (YoY) | 9.1% |  | 9.0% |
-| 15:00 | USD | High | Existing Home Sales (May) |  | 4.07M | 4.02M |
-| 15:00 | USD | Moderate | Existing Home Sales (MoM) (May) |  |  | 0.2% |
-| 15:00 | USD | Low | Wholesale Inventories (MoM) (Apr) |  | 0.5% | 1.3% |
-| 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Apr) |  |  | 2.8% |
+| 15:00 | USD | High | Existing Home Sales (May) | 4.17M | 4.07M | 4.04M |
+| 15:00 | USD | Moderate | Existing Home Sales (MoM) (May) | 3.2% |  | 0.7% |
+| 15:00 | USD | Low | Wholesale Inventories (MoM) (Apr) | 0.6% | 0.5% | 1.3% |
+| 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Apr) | 2.0% |  | 3.0% |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 3.0% | 3.0% |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 17:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |

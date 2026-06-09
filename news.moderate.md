@@ -18,7 +18,7 @@
 | 13:30 | USD | Imports (Apr) | 383.00B |  | 381.20B |
 | 13:30 | USD | Trade Balance (Apr) | -55.90B | -56.20B | -56.60B |
 | 13:30 | CAD | Trade Balance (Apr) | 2.72B | 2.50B | 1.75B |
-| 15:00 | USD | Existing Home Sales (MoM) (May) |  |  | 0.2% |
+| 15:00 | USD | Existing Home Sales (MoM) (May) | 3.2% |  | 0.7% |
 | 16:30 | USD | Atlanta Fed GDPNow (Q2) |  | 3.0% | 3.0% |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 17:30 | EUR | ECB President Lagarde Speaks |  |  |  |

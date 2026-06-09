@@ -29,5 +29,5 @@
 | 13:30 | CAD | Exports (Apr) | 75.16B |  | 73.98B |
 | 13:30 | CAD | Imports (Apr) | 72.44B |  | 72.23B |
 | 13:55 | USD | Redbook (YoY) | 9.1% |  | 9.0% |
-| 15:00 | USD | Wholesale Inventories (MoM) (Apr) |  | 0.5% | 1.3% |
-| 15:00 | USD | Wholesale Trade Sales (MoM) (Apr) |  |  | 2.8% |
+| 15:00 | USD | Wholesale Inventories (MoM) (Apr) | 0.6% | 0.5% | 1.3% |
+| 15:00 | USD | Wholesale Trade Sales (MoM) (Apr) | 2.0% |  | 3.0% |
