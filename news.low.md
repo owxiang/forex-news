@@ -22,12 +22,12 @@
 | 10:00 | ZAR | GDP (YoY) (Q1) | 1.9% | 1.8% | 0.8% |
 | 11:00 | USD | NFIB Small Business Optimism (May) | 95.3 | 96.0 | 95.9 |
 | 12:00 | BRL | IGP-DI Inflation Index (MoM) (May) | 0.87% |  | 2.41% |
-| 13:00 | MXN | Core CPI (MoM) (May) |  | 0.24% | 0.31% |
-| 13:00 | MXN | Month Core Inflation (YoY) (May) |  | 4.20% | 4.26% |
-| 13:00 | MXN | PPI (MoM) (May) |  |  | 0.00% |
-| 13:00 | MXN | PPI (YoY) (May) |  |  | 2.60% |
-| 13:30 | CAD | Exports (Apr) |  |  | 72.77B |
-| 13:30 | CAD | Imports (Apr) |  |  | 70.99B |
-| 13:55 | USD | Redbook (YoY) |  |  | 9.0% |
+| 13:00 | MXN | Core CPI (MoM) (May) | 0.22% | 0.24% | 0.31% |
+| 13:00 | MXN | Month Core Inflation (YoY) (May) | 4.19% | 4.20% | 4.26% |
+| 13:00 | MXN | PPI (MoM) (May) | 0.50% |  | 0.00% |
+| 13:00 | MXN | PPI (YoY) (May) | 3.00% |  | 2.50% |
+| 13:30 | CAD | Exports (Apr) | 75.16B |  | 73.98B |
+| 13:30 | CAD | Imports (Apr) | 72.44B |  | 72.23B |
+| 13:55 | USD | Redbook (YoY) | 9.1% |  | 9.0% |
 | 15:00 | USD | Wholesale Inventories (MoM) (Apr) |  | 0.5% | 1.3% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Apr) |  |  | 2.8% |

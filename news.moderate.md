@@ -11,13 +11,13 @@
 | 07:00 | EUR | German Trade Balance (Apr) | 14.5B | 15.4B | 14.7B |
 | 07:00 | IDR | Interest Rate Decision | 5.50% |  | 5.25% |
 | 10:00 | ZAR | GDP Annualized (QoQ) | 0.5% | 0.3% | 0.4% |
-| 13:00 | MXN | CPI (YoY) (May) |  | 4.03% | 4.45% |
-| 13:00 | MXN | CPI (MoM) (May) |  | -0.12% | 0.20% |
-| 13:15 | USD | ADP Employment Change Weekly |  |  | 35.75K |
-| 13:30 | USD | Exports (Apr) |  |  | 320.90B |
-| 13:30 | USD | Imports (Apr) |  |  | 381.20B |
-| 13:30 | USD | Trade Balance (Apr) |  | -56.20B | -60.30B |
-| 13:30 | CAD | Trade Balance (Apr) |  | 2.50B | 1.78B |
+| 13:00 | MXN | CPI (YoY) (May) | 3.94% | 4.03% | 4.45% |
+| 13:00 | MXN | CPI (MoM) (May) | -0.21% | -0.12% | 0.20% |
+| 13:15 | USD | ADP Employment Change Weekly | 29.00K |  | 35.75K |
+| 13:30 | USD | Exports (Apr) | 327.10B |  | 320.90B |
+| 13:30 | USD | Imports (Apr) | 383.00B |  | 381.20B |
+| 13:30 | USD | Trade Balance (Apr) | -55.90B | -56.20B | -56.60B |
+| 13:30 | CAD | Trade Balance (Apr) | 2.72B | 2.50B | 1.75B |
 | 15:00 | USD | Existing Home Sales (MoM) (May) |  |  | 0.2% |
 | 16:30 | USD | Atlanta Fed GDPNow (Q2) |  | 3.0% | 3.0% |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |

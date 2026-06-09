@@ -31,20 +31,20 @@
 | 10:00 | ZAR | Moderate | GDP Annualized (QoQ) | 0.5% | 0.3% | 0.4% |
 | 11:00 | USD | Low | NFIB Small Business Optimism (May) | 95.3 | 96.0 | 95.9 |
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (May) | 0.87% |  | 2.41% |
-| 13:00 | MXN | Low | Core CPI (MoM) (May) |  | 0.24% | 0.31% |
-| 13:00 | MXN | Moderate | CPI (YoY) (May) |  | 4.03% | 4.45% |
-| 13:00 | MXN | Moderate | CPI (MoM) (May) |  | -0.12% | 0.20% |
-| 13:00 | MXN | Low | Month Core Inflation (YoY) (May) |  | 4.20% | 4.26% |
-| 13:00 | MXN | Low | PPI (MoM) (May) |  |  | 0.00% |
-| 13:00 | MXN | Low | PPI (YoY) (May) |  |  | 2.60% |
-| 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 35.75K |
-| 13:30 | USD | Moderate | Exports (Apr) |  |  | 320.90B |
-| 13:30 | USD | Moderate | Imports (Apr) |  |  | 381.20B |
-| 13:30 | USD | Moderate | Trade Balance (Apr) |  | -56.20B | -60.30B |
-| 13:30 | CAD | Low | Exports (Apr) |  |  | 72.77B |
-| 13:30 | CAD | Low | Imports (Apr) |  |  | 70.99B |
-| 13:30 | CAD | Moderate | Trade Balance (Apr) |  | 2.50B | 1.78B |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 9.0% |
+| 13:00 | MXN | Low | Core CPI (MoM) (May) | 0.22% | 0.24% | 0.31% |
+| 13:00 | MXN | Moderate | CPI (YoY) (May) | 3.94% | 4.03% | 4.45% |
+| 13:00 | MXN | Moderate | CPI (MoM) (May) | -0.21% | -0.12% | 0.20% |
+| 13:00 | MXN | Low | Month Core Inflation (YoY) (May) | 4.19% | 4.20% | 4.26% |
+| 13:00 | MXN | Low | PPI (MoM) (May) | 0.50% |  | 0.00% |
+| 13:00 | MXN | Low | PPI (YoY) (May) | 3.00% |  | 2.50% |
+| 13:15 | USD | Moderate | ADP Employment Change Weekly | 29.00K |  | 35.75K |
+| 13:30 | USD | Moderate | Exports (Apr) | 327.10B |  | 320.90B |
+| 13:30 | USD | Moderate | Imports (Apr) | 383.00B |  | 381.20B |
+| 13:30 | USD | Moderate | Trade Balance (Apr) | -55.90B | -56.20B | -56.60B |
+| 13:30 | CAD | Low | Exports (Apr) | 75.16B |  | 73.98B |
+| 13:30 | CAD | Low | Imports (Apr) | 72.44B |  | 72.23B |
+| 13:30 | CAD | Moderate | Trade Balance (Apr) | 2.72B | 2.50B | 1.75B |
+| 13:55 | USD | Low | Redbook (YoY) | 9.1% |  | 9.0% |
 | 15:00 | USD | High | Existing Home Sales (May) |  | 4.07M | 4.02M |
 | 15:00 | USD | Moderate | Existing Home Sales (MoM) (May) |  |  | 0.2% |
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (Apr) |  | 0.5% | 1.3% |
