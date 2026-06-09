@@ -53,4 +53,4 @@
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 17:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | Moderate | 3-Year Note Auction | 4.192% |  | 3.965% |
-| 44 min | USD | Moderate | API Weekly Crude Oil Stock |  | -3.400M | -6.750M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | -9.119M | -3.400M | -6.750M |
