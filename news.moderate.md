@@ -19,8 +19,8 @@
 | 13:30 | USD | Trade Balance (Apr) | -55.90B | -56.20B | -56.60B |
 | 13:30 | CAD | Trade Balance (Apr) | 2.72B | 2.50B | 1.75B |
 | 15:00 | USD | Existing Home Sales (MoM) (May) | 3.2% |  | 0.7% |
-| 16:30 | USD | Atlanta Fed GDPNow (Q2) |  | 3.0% | 3.0% |
+| 16:30 | USD | Atlanta Fed GDPNow (Q2) | 3.3% | 3.0% | 3.0% |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 17:30 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 18:00 | USD | 3-Year Note Auction |  |  | 3.965% |
+| 18:00 | USD | 3-Year Note Auction | 4.192% |  | 3.965% |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | -3.400M | -6.750M |

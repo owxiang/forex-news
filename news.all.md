@@ -49,8 +49,8 @@
 | 15:00 | USD | Moderate | Existing Home Sales (MoM) (May) | 3.2% |  | 0.7% |
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (Apr) | 0.6% | 0.5% | 1.3% |
 | 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Apr) | 2.0% |  | 3.0% |
-| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 3.0% | 3.0% |
+| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 3.3% | 3.0% | 3.0% |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 17:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 3.965% |
+| 18:00 | USD | Moderate | 3-Year Note Auction | 4.192% |  | 3.965% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -3.400M | -6.750M |
