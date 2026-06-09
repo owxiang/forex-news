@@ -10,7 +10,7 @@
 | 07:00 | EUR | German Industrial Production (MoM) (Apr) | 0.4% | 0.4% | -0.1% |
 | 07:00 | EUR | German Trade Balance (Apr) | 14.5B | 15.4B | 14.7B |
 | 07:00 | IDR | Interest Rate Decision | 5.50% |  | 5.25% |
-| 10:30 | ZAR | GDP Annualized (QoQ) |  |  | 0.4% |
+| 10:00 | ZAR | GDP Annualized (QoQ) | 0.5% | 0.3% | 0.4% |
 | 13:00 | MXN | CPI (YoY) (May) |  | 4.03% | 4.45% |
 | 13:00 | MXN | CPI (MoM) (May) |  | -0.12% | 0.20% |
 | 13:15 | USD | ADP Employment Change Weekly |  |  | 35.75K |
@@ -23,4 +23,4 @@
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 17:30 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | 3-Year Note Auction |  |  | 3.965% |
-| 21:30 | USD | API Weekly Crude Oil Stock |  |  | -6.750M |
+| 21:30 | USD | API Weekly Crude Oil Stock |  | -3.400M | -6.750M |

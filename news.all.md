@@ -26,11 +26,10 @@
 | 07:00 | IDR | Low | Deposit Facility Rate (Jun) | 4.50% |  | 4.25% |
 | 07:00 | IDR | Low | Lending Facility Rate (Jun) | 6.25% |  | 6.00% |
 | 07:00 | NOK | Low | PPI (YoY) (May) | 24.0% |  | 22.7% |
-| 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 2.154% |
-| 10:00 | SGD | Low | Foreign Reserves USD (MoM) (May) |  |  | 427.3B |
-| 10:00 | ZAR | Low | GDP (YoY) (Q1) |  |  | 0.8% |
-| 10:30 | ZAR | Moderate | GDP Annualized (QoQ) |  |  | 0.4% |
-| 11:00 | USD | Low | NFIB Small Business Optimism (May) |  | 96.0 | 95.9 |
+| 09:50 | EUR | Low | Spanish 3-Month Letras Auction | 2.239% |  | 2.154% |
+| 10:00 | ZAR | Low | GDP (YoY) (Q1) | 1.9% | 1.8% | 0.8% |
+| 10:00 | ZAR | Moderate | GDP Annualized (QoQ) | 0.5% | 0.3% | 0.4% |
+| 42 min | USD | Low | NFIB Small Business Optimism (May) |  | 96.0 | 95.9 |
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (May) |  |  | 2.41% |
 | 13:00 | MXN | Low | Core CPI (MoM) (May) |  | 0.24% | 0.31% |
 | 13:00 | MXN | Moderate | CPI (YoY) (May) |  | 4.03% | 4.45% |
@@ -54,4 +53,4 @@
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 17:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 3.965% |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -6.750M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -3.400M | -6.750M |

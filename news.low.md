@@ -18,10 +18,9 @@
 | 07:00 | IDR | Deposit Facility Rate (Jun) | 4.50% |  | 4.25% |
 | 07:00 | IDR | Lending Facility Rate (Jun) | 6.25% |  | 6.00% |
 | 07:00 | NOK | PPI (YoY) (May) | 24.0% |  | 22.7% |
-| 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 2.154% |
-| 10:00 | SGD | Foreign Reserves USD (MoM) (May) |  |  | 427.3B |
-| 10:00 | ZAR | GDP (YoY) (Q1) |  |  | 0.8% |
-| 11:00 | USD | NFIB Small Business Optimism (May) |  | 96.0 | 95.9 |
+| 09:50 | EUR | Spanish 3-Month Letras Auction | 2.239% |  | 2.154% |
+| 10:00 | ZAR | GDP (YoY) (Q1) | 1.9% | 1.8% | 0.8% |
+| 42 min | USD | NFIB Small Business Optimism (May) |  | 96.0 | 95.9 |
 | 12:00 | BRL | IGP-DI Inflation Index (MoM) (May) |  |  | 2.41% |
 | 13:00 | MXN | Core CPI (MoM) (May) |  | 0.24% | 0.31% |
 | 13:00 | MXN | Month Core Inflation (YoY) (May) |  | 4.20% | 4.26% |
