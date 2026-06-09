@@ -20,8 +20,8 @@
 | 07:00 | NOK | PPI (YoY) (May) | 24.0% |  | 22.7% |
 | 09:50 | EUR | Spanish 3-Month Letras Auction | 2.239% |  | 2.154% |
 | 10:00 | ZAR | GDP (YoY) (Q1) | 1.9% | 1.8% | 0.8% |
-| 42 min | USD | NFIB Small Business Optimism (May) |  | 96.0 | 95.9 |
-| 12:00 | BRL | IGP-DI Inflation Index (MoM) (May) |  |  | 2.41% |
+| 11:00 | USD | NFIB Small Business Optimism (May) | 95.3 | 96.0 | 95.9 |
+| 12:00 | BRL | IGP-DI Inflation Index (MoM) (May) | 0.87% |  | 2.41% |
 | 13:00 | MXN | Core CPI (MoM) (May) |  | 0.24% | 0.31% |
 | 13:00 | MXN | Month Core Inflation (YoY) (May) |  | 4.20% | 4.26% |
 | 13:00 | MXN | PPI (MoM) (May) |  |  | 0.00% |

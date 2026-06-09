@@ -29,8 +29,8 @@
 | 09:50 | EUR | Low | Spanish 3-Month Letras Auction | 2.239% |  | 2.154% |
 | 10:00 | ZAR | Low | GDP (YoY) (Q1) | 1.9% | 1.8% | 0.8% |
 | 10:00 | ZAR | Moderate | GDP Annualized (QoQ) | 0.5% | 0.3% | 0.4% |
-| 42 min | USD | Low | NFIB Small Business Optimism (May) |  | 96.0 | 95.9 |
-| 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (May) |  |  | 2.41% |
+| 11:00 | USD | Low | NFIB Small Business Optimism (May) | 95.3 | 96.0 | 95.9 |
+| 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (May) | 0.87% |  | 2.41% |
 | 13:00 | MXN | Low | Core CPI (MoM) (May) |  | 0.24% | 0.31% |
 | 13:00 | MXN | Moderate | CPI (YoY) (May) |  | 4.03% | 4.45% |
 | 13:00 | MXN | Moderate | CPI (MoM) (May) |  | -0.12% | 0.20% |
