@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:50 | JPY | Low | PPI (MoM) (May) |  | 0.5% | 2.3% |
-| 00:50 | JPY | Low | PPI (YoY) (May) |  | 5.6% | 4.9% |
+| 00:50 | JPY | Low | PPI (MoM) (May) | 0.9% | 0.5% | 2.8% |
+| 00:50 | JPY | Low | PPI (YoY) (May) | 6.3% | 5.6% | 5.3% |
 | 02:30 | AUD | Low | Building Approvals (YoY) (Apr) |  | 10.20% | 9.00% |
 | 02:30 | AUD | Moderate | Building Approvals (MoM) (Apr) |  | -3.4% | -10.5% |
 | 02:30 | AUD | Low | Private House Approvals (Apr) |  | -1.0% | 0.9% |
