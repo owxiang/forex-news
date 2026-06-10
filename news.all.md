@@ -1,4 +1,4 @@
-## None - All Forex News
+## 10 June 2026 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
@@ -65,5 +65,5 @@
 | 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (Jun) | 51.67 |  | 50.97 |
 | 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Jun) | 53.00 |  | 52.35 |
 | 18:00 | USD | High | 10-Year Note Auction | 4.538% |  | 4.468% |
-| 15 min | BRL | Low | Foreign Exchange Flows |  |  | 2.805B |
-| 45 min | USD | Moderate | Federal Budget Balance (May) |  | -282.9B | 215.0B |
+| 18:30 | BRL | Low | Foreign Exchange Flows | 2.588B |  | 2.805B |
+| 19:00 | USD | Moderate | Federal Budget Balance (May) | -293.0B | -282.9B | 215.0B |

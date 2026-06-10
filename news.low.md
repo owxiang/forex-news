@@ -1,4 +1,4 @@
-## None - Low Impact Forex News
+## 10 June 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
@@ -50,4 +50,4 @@
 | 16:00 | CAD | Thomson Reuters IPSOS PCSI (Jun) | 48.95 |  | 47.58 |
 | 16:00 | MXN | Thomson Reuters IPSOS PCSI (Jun) | 51.67 |  | 50.97 |
 | 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Jun) | 53.00 |  | 52.35 |
-| 15 min | BRL | Foreign Exchange Flows |  |  | 2.805B |
+| 18:30 | BRL | Foreign Exchange Flows | 2.588B |  | 2.805B |
