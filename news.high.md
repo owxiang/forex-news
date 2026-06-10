@@ -6,5 +6,5 @@
 | 13:30 | USD | CPI (YoY) (May) |  | 4.2% | 3.8% |
 | 13:30 | USD | CPI (MoM) (May) |  | 0.5% | 0.6% |
 | 14:45 | CAD | BoC Interest Rate Decision |  | 2.25% | 2.25% |
-| 15:30 | USD | Crude Oil Inventories |  | -5.100M | -7.974M |
+| 15:30 | USD | Crude Oil Inventories |  | -3.000M | -7.974M |
 | 18:00 | USD | 10-Year Note Auction |  |  | 4.468% |

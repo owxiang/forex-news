@@ -4,18 +4,19 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:50 | JPY | Low | PPI (MoM) (May) | 0.9% | 0.5% | 2.8% |
 | 00:50 | JPY | Low | PPI (YoY) (May) | 6.3% | 5.6% | 5.3% |
+| 01:40 | IDR | Low | Car Sales (YoY) (May) | 14.00% |  | 55.00% |
 | 02:30 | AUD | Low | Building Approvals (YoY) (Apr) | 10.20% | 10.20% | 9.00% |
 | 02:30 | AUD | Moderate | Building Approvals (MoM) (Apr) | -3.4% | -3.4% | -10.5% |
 | 02:30 | AUD | Low | Private House Approvals (Apr) | -1.0% | -1.0% | 0.5% |
 | 02:30 | CNY | Moderate | CPI (YoY) (May) | 1.2% | 1.3% | 1.2% |
 | 02:30 | CNY | Moderate | CPI (MoM) (May) | -0.1% | -0.2% | 0.3% |
 | 02:30 | CNY | Moderate | PPI (YoY) (May) | 3.9% | 3.9% | 2.8% |
-| 04:30 | IDR | Low | Consumer Confidence (May) |  |  | 123.0 |
-| 04:35 | JPY | Low | 30-Year JGB Auction |  |  | 3.842% |
+| 04:00 | IDR | Low | Consumer Confidence (May) | 120.9 |  | 123.0 |
+| 04:35 | JPY | Low | 30-Year JGB Auction | 3.860% |  | 3.842% |
 | 07:00 | JPY | Low | Machine Tool Orders (YoY) (May) |  |  | 45.1% |
-| 07:00 | NOK | Low | Core CPI YTD (May) |  |  | 3.2% |
-| 07:00 | NOK | Low | Core Inflation (MoM) (May) |  |  | 0.7% |
-| 07:00 | NOK | Low | CPI (YoY) (May) |  |  | 3.4% |
+| 07:00 | NOK | Low | Core CPI YTD (May) |  | 3.2% | 3.2% |
+| 07:00 | NOK | Low | Core Inflation (MoM) (May) |  | 0.2% | 0.7% |
+| 07:00 | NOK | Low | CPI (YoY) (May) |  | 3.1% | 3.4% |
 | 07:00 | NOK | Low | CPI (MoM) (May) |  |  | 0.4% |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Apr) |  | 0.0% | 0.7% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Apr) |  |  | 1.5% |
@@ -32,13 +33,13 @@
 | 13:30 | USD | Low | Core CPI Index (May) |  |  | 335.42 |
 | 13:30 | USD | High | CPI (YoY) (May) |  | 4.2% | 3.8% |
 | 13:30 | USD | High | CPI (MoM) (May) |  | 0.5% | 0.6% |
-| 13:30 | USD | Low | CPI Index, n.s.a. (May) |  |  | 333.02 |
+| 13:30 | USD | Low | CPI Index, n.s.a. (May) |  | 335.11 | 333.02 |
 | 13:30 | USD | Low | CPI Index, s.a (May) |  |  | 332.41 |
 | 13:30 | USD | Low | CPI, n.s.a (MoM) (May) |  |  | 0.85% |
 | 13:30 | USD | Low | Real Earnings (MoM) (May) |  |  | -0.2% |
 | 14:45 | CAD | Moderate | BoC Rate Statement |  |  |  |
 | 14:45 | CAD | High | BoC Interest Rate Decision |  | 2.25% | 2.25% |
-| 15:30 | USD | High | Crude Oil Inventories |  | -5.100M | -7.974M |
+| 15:30 | USD | High | Crude Oil Inventories |  | -3.000M | -7.974M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.090M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | -0.249M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.583M |
@@ -56,4 +57,4 @@
 | 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Jun) |  |  | 52.35 |
 | 18:00 | USD | High | 10-Year Note Auction |  |  | 4.468% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 2.805B |
-| 19:00 | USD | Moderate | Federal Budget Balance (May) |  | -280.9B | 215.0B |
+| 19:00 | USD | Moderate | Federal Budget Balance (May) |  | -282.9B | 215.0B |

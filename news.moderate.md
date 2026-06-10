@@ -11,4 +11,4 @@
 | 14:45 | CAD | BoC Rate Statement |  |  |  |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.583M |
 | 15:30 | CAD | BOC Press Conference |  |  |  |
-| 19:00 | USD | Federal Budget Balance (May) |  | -280.9B | 215.0B |
+| 19:00 | USD | Federal Budget Balance (May) |  | -282.9B | 215.0B |
