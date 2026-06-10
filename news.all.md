@@ -4,13 +4,13 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:50 | JPY | Low | PPI (MoM) (May) | 0.9% | 0.5% | 2.8% |
 | 00:50 | JPY | Low | PPI (YoY) (May) | 6.3% | 5.6% | 5.3% |
-| 02:30 | AUD | Low | Building Approvals (YoY) (Apr) |  | 10.20% | 9.00% |
-| 02:30 | AUD | Moderate | Building Approvals (MoM) (Apr) |  | -3.4% | -10.5% |
-| 02:30 | AUD | Low | Private House Approvals (Apr) |  | -1.0% | 0.9% |
-| 02:30 | CNY | Moderate | CPI (YoY) (May) |  | 1.3% | 1.2% |
-| 02:30 | CNY | Moderate | CPI (MoM) (May) |  | -0.2% | 0.3% |
-| 02:30 | CNY | Moderate | PPI (YoY) (May) |  | 3.8% | 2.8% |
-| 04:00 | IDR | Low | Consumer Confidence (May) |  |  | 123.0 |
+| 02:30 | AUD | Low | Building Approvals (YoY) (Apr) | 10.20% | 10.20% | 9.00% |
+| 02:30 | AUD | Moderate | Building Approvals (MoM) (Apr) | -3.4% | -3.4% | -10.5% |
+| 02:30 | AUD | Low | Private House Approvals (Apr) | -1.0% | -1.0% | 0.5% |
+| 02:30 | CNY | Moderate | CPI (YoY) (May) | 1.2% | 1.3% | 1.2% |
+| 02:30 | CNY | Moderate | CPI (MoM) (May) | -0.1% | -0.2% | 0.3% |
+| 02:30 | CNY | Moderate | PPI (YoY) (May) | 3.9% | 3.9% | 2.8% |
+| 04:30 | IDR | Low | Consumer Confidence (May) |  |  | 123.0 |
 | 04:35 | JPY | Low | 30-Year JGB Auction |  |  | 3.842% |
 | 07:00 | JPY | Low | Machine Tool Orders (YoY) (May) |  |  | 45.1% |
 | 07:00 | NOK | Low | Core CPI YTD (May) |  |  | 3.2% |

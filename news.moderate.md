@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Building Approvals (MoM) (Apr) |  | -3.4% | -10.5% |
-| 02:30 | CNY | CPI (YoY) (May) |  | 1.3% | 1.2% |
-| 02:30 | CNY | CPI (MoM) (May) |  | -0.2% | 0.3% |
-| 02:30 | CNY | PPI (YoY) (May) |  | 3.8% | 2.8% |
+| 02:30 | AUD | Building Approvals (MoM) (Apr) | -3.4% | -3.4% | -10.5% |
+| 02:30 | CNY | CPI (YoY) (May) | 1.2% | 1.3% | 1.2% |
+| 02:30 | CNY | CPI (MoM) (May) | -0.1% | -0.2% | 0.3% |
+| 02:30 | CNY | PPI (YoY) (May) | 3.9% | 3.9% | 2.8% |
 | 10:30 | EUR | German 10-Year Bund Auction |  |  | 3.160% |
 | 13:30 | USD | Core CPI (YoY) (May) |  | 2.9% | 2.8% |
 | 14:45 | CAD | BoC Rate Statement |  |  |  |

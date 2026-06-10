@@ -4,9 +4,9 @@
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | PPI (MoM) (May) | 0.9% | 0.5% | 2.8% |
 | 00:50 | JPY | PPI (YoY) (May) | 6.3% | 5.6% | 5.3% |
-| 02:30 | AUD | Building Approvals (YoY) (Apr) |  | 10.20% | 9.00% |
-| 02:30 | AUD | Private House Approvals (Apr) |  | -1.0% | 0.9% |
-| 04:00 | IDR | Consumer Confidence (May) |  |  | 123.0 |
+| 02:30 | AUD | Building Approvals (YoY) (Apr) | 10.20% | 10.20% | 9.00% |
+| 02:30 | AUD | Private House Approvals (Apr) | -1.0% | -1.0% | 0.5% |
+| 04:30 | IDR | Consumer Confidence (May) |  |  | 123.0 |
 | 04:35 | JPY | 30-Year JGB Auction |  |  | 3.842% |
 | 07:00 | JPY | Machine Tool Orders (YoY) (May) |  |  | 45.1% |
 | 07:00 | NOK | Core CPI YTD (May) |  |  | 3.2% |
