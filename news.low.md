@@ -9,13 +9,12 @@
 | 02:30 | AUD | Private House Approvals (Apr) | -1.0% | -1.0% | 0.5% |
 | 04:00 | IDR | Consumer Confidence (May) | 120.9 |  | 123.0 |
 | 04:35 | JPY | 30-Year JGB Auction | 3.860% |  | 3.842% |
-| 07:00 | JPY | Machine Tool Orders (YoY) (May) |  |  | 45.1% |
-| 07:00 | NOK | Core CPI YTD (May) |  | 3.2% | 3.2% |
-| 07:00 | NOK | Core Inflation (MoM) (May) |  | 0.2% | 0.7% |
-| 07:00 | NOK | CPI (YoY) (May) |  | 3.1% | 3.4% |
-| 07:00 | NOK | CPI (MoM) (May) |  |  | 0.4% |
-| 09:00 | EUR | Italian Industrial Production (MoM) (Apr) |  | 0.0% | 0.7% |
-| 09:00 | EUR | Italian Industrial Production (YoY) (Apr) |  |  | 1.5% |
+| 07:00 | NOK | Core CPI YTD (May) | 3.4% | 3.2% | 3.2% |
+| 07:00 | NOK | Core Inflation (MoM) (May) | 0.4% | 0.2% | 0.7% |
+| 07:00 | NOK | CPI (YoY) (May) | 3.1% | 3.1% | 3.4% |
+| 07:00 | NOK | CPI (MoM) (May) | 0.2% |  | 0.4% |
+| 18 min | EUR | Italian Industrial Production (MoM) (Apr) |  | 0.0% | 0.7% |
+| 18 min | EUR | Italian Industrial Production (YoY) (Apr) |  |  | 1.5% |
 | 10:10 | EUR | Italian 12-Month BOT Auction |  |  | 2.699% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.57% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -2.5% |

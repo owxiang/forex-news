@@ -13,13 +13,12 @@
 | 02:30 | CNY | Moderate | PPI (YoY) (May) | 3.9% | 3.9% | 2.8% |
 | 04:00 | IDR | Low | Consumer Confidence (May) | 120.9 |  | 123.0 |
 | 04:35 | JPY | Low | 30-Year JGB Auction | 3.860% |  | 3.842% |
-| 07:00 | JPY | Low | Machine Tool Orders (YoY) (May) |  |  | 45.1% |
-| 07:00 | NOK | Low | Core CPI YTD (May) |  | 3.2% | 3.2% |
-| 07:00 | NOK | Low | Core Inflation (MoM) (May) |  | 0.2% | 0.7% |
-| 07:00 | NOK | Low | CPI (YoY) (May) |  | 3.1% | 3.4% |
-| 07:00 | NOK | Low | CPI (MoM) (May) |  |  | 0.4% |
-| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Apr) |  | 0.0% | 0.7% |
-| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Apr) |  |  | 1.5% |
+| 07:00 | NOK | Low | Core CPI YTD (May) | 3.4% | 3.2% | 3.2% |
+| 07:00 | NOK | Low | Core Inflation (MoM) (May) | 0.4% | 0.2% | 0.7% |
+| 07:00 | NOK | Low | CPI (YoY) (May) | 3.1% | 3.1% | 3.4% |
+| 07:00 | NOK | Low | CPI (MoM) (May) | 0.2% |  | 0.4% |
+| 18 min | EUR | Low | Italian Industrial Production (MoM) (Apr) |  | 0.0% | 0.7% |
+| 18 min | EUR | Low | Italian Industrial Production (YoY) (Apr) |  |  | 1.5% |
 | 10:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.699% |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 3.160% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.57% |
