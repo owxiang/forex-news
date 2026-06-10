@@ -1,4 +1,4 @@
-## 10 June 2026 - Moderate Impact Forex News
+## None - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
@@ -11,4 +11,4 @@
 | 14:45 | CAD | BoC Rate Statement |  |  |  |
 | 15:30 | USD | Cushing Crude Oil Inventories | -0.801M |  | -0.583M |
 | 15:30 | CAD | BOC Press Conference |  |  |  |
-| 19:00 | USD | Federal Budget Balance (May) |  | -282.9B | 215.0B |
+| 45 min | USD | Federal Budget Balance (May) |  | -282.9B | 215.0B |
