@@ -17,10 +17,10 @@
 | 07:00 | NOK | Low | Core Inflation (MoM) (May) | 0.4% | 0.2% | 0.7% |
 | 07:00 | NOK | Low | CPI (YoY) (May) | 3.1% | 3.1% | 3.4% |
 | 07:00 | NOK | Low | CPI (MoM) (May) | 0.2% |  | 0.4% |
-| 18 min | EUR | Low | Italian Industrial Production (MoM) (Apr) |  | 0.0% | 0.7% |
-| 18 min | EUR | Low | Italian Industrial Production (YoY) (Apr) |  |  | 1.5% |
-| 10:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.699% |
-| 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 3.160% |
+| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Apr) | 0.5% | 0.0% | 0.6% |
+| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Apr) | 1.3% |  | 1.4% |
+| 10:10 | EUR | Low | Italian 12-Month BOT Auction | 2.695% |  | 2.699% |
+| 5 min | EUR | Moderate | German 10-Year Bund Auction |  |  | 3.160% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.57% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -2.5% |
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 164.8 |
@@ -43,11 +43,11 @@
 | 15:30 | USD | Low | Crude Oil Imports |  |  | -0.249M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.583M |
 | 15:30 | USD | Low | Distillate Fuel Production |  |  | 0.098M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  |  | 1.502M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | -0.500M | 1.502M |
 | 15:30 | USD | Low | Gasoline Production |  |  | -0.515M |
 | 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.255M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.2% |
-| 15:30 | USD | Low | Gasoline Inventories |  |  | 3.364M |
+| 15:30 | USD | Low | Gasoline Inventories |  | -0.500M | 3.364M |
 | 15:30 | CAD | Moderate | BOC Press Conference |  |  |  |
 | 16:00 | USD | Low | Cleveland CPI (MoM) (May) |  |  | 0.4% |
 | 16:00 | USD | Low | Thomson Reuters IPSOS PCSI (Jun) |  |  | 49.65 |

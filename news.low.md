@@ -13,9 +13,9 @@
 | 07:00 | NOK | Core Inflation (MoM) (May) | 0.4% | 0.2% | 0.7% |
 | 07:00 | NOK | CPI (YoY) (May) | 3.1% | 3.1% | 3.4% |
 | 07:00 | NOK | CPI (MoM) (May) | 0.2% |  | 0.4% |
-| 18 min | EUR | Italian Industrial Production (MoM) (Apr) |  | 0.0% | 0.7% |
-| 18 min | EUR | Italian Industrial Production (YoY) (Apr) |  |  | 1.5% |
-| 10:10 | EUR | Italian 12-Month BOT Auction |  |  | 2.699% |
+| 09:00 | EUR | Italian Industrial Production (MoM) (Apr) | 0.5% | 0.0% | 0.6% |
+| 09:00 | EUR | Italian Industrial Production (YoY) (Apr) | 1.3% |  | 1.4% |
+| 10:10 | EUR | Italian 12-Month BOT Auction | 2.695% |  | 2.699% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.57% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -2.5% |
 | 12:00 | USD | MBA Purchase Index |  |  | 164.8 |
@@ -30,11 +30,11 @@
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.090M |
 | 15:30 | USD | Crude Oil Imports |  |  | -0.249M |
 | 15:30 | USD | Distillate Fuel Production |  |  | 0.098M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | 1.502M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  | -0.500M | 1.502M |
 | 15:30 | USD | Gasoline Production |  |  | -0.515M |
 | 15:30 | USD | Heating Oil Stockpiles |  |  | 0.255M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.2% |
-| 15:30 | USD | Gasoline Inventories |  |  | 3.364M |
+| 15:30 | USD | Gasoline Inventories |  | -0.500M | 3.364M |
 | 16:00 | USD | Cleveland CPI (MoM) (May) |  |  | 0.4% |
 | 16:00 | USD | Thomson Reuters IPSOS PCSI (Jun) |  |  | 49.65 |
 | 16:00 | CAD | Thomson Reuters IPSOS PCSI (Jun) |  |  | 47.58 |
