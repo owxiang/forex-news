@@ -16,11 +16,11 @@
 | 09:00 | EUR | Italian Industrial Production (MoM) (Apr) | 0.5% | 0.0% | 0.6% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Apr) | 1.3% |  | 1.4% |
 | 10:10 | EUR | Italian 12-Month BOT Auction | 2.695% |  | 2.699% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.57% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -2.5% |
-| 12:00 | USD | MBA Purchase Index |  |  | 164.8 |
-| 12:00 | USD | Mortgage Market Index |  |  | 252.8 |
-| 12:00 | USD | Mortgage Refinance Index |  |  | 736.2 |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.60% |  | 6.57% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | 10.8% |  | -2.5% |
+| 12:00 | USD | MBA Purchase Index | 176.9 |  | 164.8 |
+| 12:00 | USD | Mortgage Market Index | 280.1 |  | 252.8 |
+| 12:00 | USD | Mortgage Refinance Index | 848.7 |  | 736.2 |
 | 12:30 | INR | M3 Money Supply |  |  | 12.0% |
 | 13:30 | USD | Core CPI Index (May) |  |  | 335.42 |
 | 13:30 | USD | CPI Index, n.s.a. (May) |  | 335.11 | 333.02 |

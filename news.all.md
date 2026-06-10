@@ -20,12 +20,12 @@
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Apr) | 0.5% | 0.0% | 0.6% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Apr) | 1.3% |  | 1.4% |
 | 10:10 | EUR | Low | Italian 12-Month BOT Auction | 2.695% |  | 2.699% |
-| 5 min | EUR | Moderate | German 10-Year Bund Auction |  |  | 3.160% |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.57% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -2.5% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 164.8 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 252.8 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 736.2 |
+| 10:30 | EUR | Moderate | German 10-Year Bund Auction | 3.060% |  | 3.160% |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.60% |  | 6.57% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | 10.8% |  | -2.5% |
+| 12:00 | USD | Low | MBA Purchase Index | 176.9 |  | 164.8 |
+| 12:00 | USD | Low | Mortgage Market Index | 280.1 |  | 252.8 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 848.7 |  | 736.2 |
 | 12:30 | INR | Low | M3 Money Supply |  |  | 12.0% |
 | 13:30 | USD | High | Core CPI (MoM) (May) |  | 0.3% | 0.4% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (May) |  | 2.9% | 2.8% |
