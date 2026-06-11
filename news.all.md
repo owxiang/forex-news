@@ -8,13 +8,13 @@
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -701.0B |  | -491.5B |
 | 02:00 | AUD | Low | MI Inflation Expectations (Jun) | 5.5% |  | 5.6% |
 | 04:00 | IDR | Low | Retail Sales (YoY) (Apr) | -3.7% |  | 3.4% |
-| 10:00 | ZAR | Low | Current Account (Q1) |  |  | 50.2B |
-| 10:00 | ZAR | Low | Current Account % of GDP (Q1) |  |  | 0.60% |
-| 10:30 | EUR | Low | Italian 3-Year BTP Auction |  |  | 2.98% |
-| 10:30 | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.55% |
-| 10:30 | ZAR | Low | Business Confidence (Apr) |  |  | 131.3 |
-| 10:30 | ZAR | Low | Gold Production (YoY) (Apr) |  |  | 17.1% |
-| 10:30 | ZAR | Low | Mining Production (Apr) |  |  | 2.5% |
+| 10:00 | ZAR | Low | Current Account (Q1) | 190.7B |  | 50.2B |
+| 10:00 | ZAR | Low | Current Account % of GDP (Q1) | 2.40% |  | 0.60% |
+| 10:30 | EUR | Low | Italian 3-Year BTP Auction | 3.03% |  | 2.98% |
+| 10:30 | ZAR | Low | Business Confidence (Apr) | 123.6 |  | 131.3 |
+| 10:30 | ZAR | Low | Gold Production (YoY) (Apr) | -0.2% |  | 16.6% |
+| 10:30 | ZAR | Low | Mining Production (Apr) | 8.2% |  | 2.5% |
+| 10:31 | ZAR | Low | Business Confidence (May) | 124.1 |  | 123.6 |
 | 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Jun) |  |  | 44.9 |
 | 11:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Jun) |  |  | 43.38 |
