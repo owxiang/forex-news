@@ -11,20 +11,20 @@
 | 10:00 | ZAR | Low | Current Account (Q1) | 190.7B |  | 50.2B |
 | 10:00 | ZAR | Low | Current Account % of GDP (Q1) | 2.40% |  | 0.60% |
 | 10:30 | EUR | Low | Italian 3-Year BTP Auction | 3.03% |  | 2.98% |
-| 10:30 | ZAR | Low | Business Confidence (Apr) | 123.6 |  | 131.3 |
+| 10:30 | ZAR | Low | Business Confidence (May) | 124.1 |  | 131.3 |
+| 10:30 | ZAR | Low | Business Confidence (May) | 124.1 |  | 123.6 |
 | 10:30 | ZAR | Low | Gold Production (YoY) (Apr) | -0.2% |  | 16.6% |
 | 10:30 | ZAR | Low | Mining Production (Apr) | 8.2% |  | 2.5% |
-| 10:31 | ZAR | Low | Business Confidence (May) | 124.1 |  | 123.6 |
-| 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Jun) |  |  | 44.9 |
+| 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Jun) | 47.4 |  | 44.9 |
 | 11:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
-| 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Jun) |  |  | 43.38 |
-| 11:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Jun) |  |  | 40.67 |
-| 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Jun) |  |  | 39.27 |
-| 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (Jun) |  |  | 46.62 |
+| 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Jun) | 43.71 |  | 43.38 |
+| 11:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Jun) | 43.22 |  | 40.67 |
+| 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Jun) | 38.66 |  | 39.27 |
+| 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (Jun) | 49.70 |  | 46.62 |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (Jun) |  |  | 48.71 |
-| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Apr) |  |  | 0.8% |
-| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Apr) |  |  | 0.9% |
+| 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (Jun) | 46.23 |  | 48.71 |
+| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Apr) | -2.7% |  | 1.2% |
+| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Apr) | -2.9% |  | 1.5% |
 | 13:00 | MXN | Low | Industrial Production (YoY) (Apr) |  | -0.8% | -1.3% |
 | 13:00 | MXN | Low | Industrial Production (MoM) (Apr) |  | 0.4% | -0.6% |
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Apr) |  |  | -1.2% |
