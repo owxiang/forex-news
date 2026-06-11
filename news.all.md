@@ -46,7 +46,7 @@
 | 13:30 | CAD | Moderate | Building Permits (MoM) (Apr) | -7.6% | -3.7% | 10.5% |
 | 13:45 | EUR | High | ECB Press Conference |  |  |  |
 | 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 15:30 | USD | Low | Natural Gas Storage |  | 101B | 95B |
+| 15:30 | USD | Low | Natural Gas Storage | 108B | 101B | 95B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.615% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.610% |
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |
