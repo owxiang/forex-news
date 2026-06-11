@@ -47,8 +47,8 @@
 | 13:45 | EUR | High | ECB Press Conference |  |  |  |
 | 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage | 108B | 101B | 95B |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.615% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.610% |
+| 16:30 | USD | Low | 4-Week Bill Auction | 3.595% |  | 3.615% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 3.610% |  | 3.610% |
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |
 | 23:30 | NZD | Moderate | Business NZ PMI (May) |  |  | 50.5 |
 | 23:45 | NZD | Low | External Migration & Visitors (Apr) |  |  | 15.10% |

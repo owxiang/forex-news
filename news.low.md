@@ -33,8 +33,8 @@
 | 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (May) | 5.1% |  | 4.4% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (May) | 0.8% |  | 0.5% |
 | 15:30 | USD | Natural Gas Storage | 108B | 101B | 95B |
-| 16:30 | USD | 4-Week Bill Auction |  |  | 3.615% |
-| 16:30 | USD | 8-Week Bill Auction |  |  | 3.610% |
+| 16:30 | USD | 4-Week Bill Auction | 3.595% |  | 3.615% |
+| 16:30 | USD | 8-Week Bill Auction | 3.610% |  | 3.610% |
 | 23:45 | NZD | External Migration & Visitors (Apr) |  |  | 15.10% |
 | 23:45 | NZD | Permanent/Long-Term Migration (Apr) |  |  | 3,370 |
 | 23:45 | NZD | Visitor Arrivals (MoM) |  |  | -3.0% |
