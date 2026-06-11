@@ -6,7 +6,7 @@
 | 00:50 | JPY | Foreign Bonds Buying | 197.5B |  | -184.4B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | -701.0B |  | -491.5B |
 | 02:00 | AUD | MI Inflation Expectations (Jun) | 5.5% |  | 5.6% |
-| 04:00 | IDR | Retail Sales (YoY) (Apr) |  |  | 3.4% |
+| 04:00 | IDR | Retail Sales (YoY) (Apr) | -3.7% |  | 3.4% |
 | 10:00 | ZAR | Current Account (Q1) |  |  | 50.2B |
 | 10:00 | ZAR | Current Account % of GDP (Q1) |  |  | 0.60% |
 | 10:30 | EUR | Italian 3-Year BTP Auction |  |  | 2.98% |
@@ -24,7 +24,6 @@
 | 12:00 | ZAR | Manufacturing Production (YoY) (Apr) |  |  | 0.9% |
 | 13:00 | MXN | Industrial Production (YoY) (Apr) |  | -0.8% | -1.3% |
 | 13:00 | MXN | Industrial Production (MoM) (Apr) |  | 0.4% | -0.6% |
-| 13:00 | EUR | German Current Account Balance n.s.a (Apr) |  |  | 23.6B |
 | 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Apr) |  |  | -1.2% |
 | 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Apr) |  |  | 3.0% |
 | 13:30 | USD | Core PPI (YoY) (May) |  | 5.4% | 5.2% |
@@ -32,6 +31,7 @@
 | 13:30 | USD | PPI (YoY) (May) |  | 6.4% | 6.0% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (May) |  |  | 4.4% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (May) |  |  | 0.6% |
+| 13:30 | EUR | German Current Account Balance n.s.a (Apr) |  |  | 23.6B |
 | 15:30 | USD | Natural Gas Storage |  | 101B | 95B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.615% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 3.610% |

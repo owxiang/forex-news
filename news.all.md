@@ -7,7 +7,7 @@
 | 00:50 | JPY | Low | Foreign Bonds Buying | 197.5B |  | -184.4B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -701.0B |  | -491.5B |
 | 02:00 | AUD | Low | MI Inflation Expectations (Jun) | 5.5% |  | 5.6% |
-| 04:00 | IDR | Low | Retail Sales (YoY) (Apr) |  |  | 3.4% |
+| 04:00 | IDR | Low | Retail Sales (YoY) (Apr) | -3.7% |  | 3.4% |
 | 10:00 | ZAR | Low | Current Account (Q1) |  |  | 50.2B |
 | 10:00 | ZAR | Low | Current Account % of GDP (Q1) |  |  | 0.60% |
 | 10:30 | EUR | Low | Italian 3-Year BTP Auction |  |  | 2.98% |
@@ -27,7 +27,6 @@
 | 12:00 | ZAR | Low | Manufacturing Production (YoY) (Apr) |  |  | 0.9% |
 | 13:00 | MXN | Low | Industrial Production (YoY) (Apr) |  | -0.8% | -1.3% |
 | 13:00 | MXN | Low | Industrial Production (MoM) (Apr) |  | 0.4% | -0.6% |
-| 13:00 | EUR | Low | German Current Account Balance n.s.a (Apr) |  |  | 23.6B |
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Apr) |  |  | -1.2% |
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Apr) |  |  | 3.0% |
 | 13:15 | EUR | High | Deposit Facility Rate (Jun) |  | 2.25% | 2.00% |
@@ -43,6 +42,7 @@
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (May) |  |  | 4.4% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (May) |  |  | 0.6% |
 | 13:30 | CAD | Moderate | Building Permits (MoM) (Apr) |  | -3.7% | 10.3% |
+| 13:30 | EUR | Low | German Current Account Balance n.s.a (Apr) |  |  | 23.6B |
 | 13:45 | EUR | High | ECB Press Conference |  |  |  |
 | 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage |  | 101B | 95B |
