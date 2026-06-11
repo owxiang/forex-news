@@ -50,7 +50,7 @@
 | 16:30 | USD | Low | 4-Week Bill Auction | 3.595% |  | 3.615% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 3.610% |  | 3.610% |
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |
-| 23:30 | NZD | Moderate | Business NZ PMI (May) |  |  | 50.5 |
-| 23:45 | NZD | Low | External Migration & Visitors (Apr) |  |  | 15.10% |
-| 23:45 | NZD | Low | Permanent/Long-Term Migration (Apr) |  |  | 3,370 |
-| 23:45 | NZD | Low | Visitor Arrivals (MoM) |  |  | -3.0% |
+| 43 min | NZD | Moderate | Business NZ PMI (May) |  |  | 50.5 |
+| 58 min | NZD | Low | External Migration & Visitors (Apr) |  |  | 15.10% |
+| 58 min | NZD | Low | Permanent/Long-Term Migration (Apr) |  |  | 3,370 |
+| 58 min | NZD | Low | Visitor Arrivals (MoM) |  |  | -3.0% |
