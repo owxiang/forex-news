@@ -12,4 +12,4 @@
 | 13:30 | CAD | Building Permits (MoM) (Apr) | -7.6% | -3.7% | 10.5% |
 | 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 17:00 | USD | WASDE Report |  |  |  |
-| 43 min | NZD | Business NZ PMI (May) |  |  | 50.5 |
+| 23:30 | NZD | Business NZ PMI (May) | 49.9 |  | 50.5 |
