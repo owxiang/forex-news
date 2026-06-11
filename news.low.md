@@ -22,16 +22,16 @@
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (Jun) | 46.23 |  | 48.71 |
 | 12:00 | ZAR | Manufacturing Production (MoM) (Apr) | -2.7% |  | 1.2% |
 | 12:00 | ZAR | Manufacturing Production (YoY) (Apr) | -2.9% |  | 1.5% |
-| 13:00 | MXN | Industrial Production (YoY) (Apr) |  | -0.8% | -1.3% |
-| 13:00 | MXN | Industrial Production (MoM) (Apr) |  | 0.4% | -0.6% |
-| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Apr) |  |  | -1.2% |
-| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Apr) |  |  | 3.0% |
-| 13:30 | USD | Core PPI (YoY) (May) |  | 5.4% | 5.2% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 214.75K |
-| 13:30 | USD | PPI (YoY) (May) |  | 6.4% | 6.0% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (May) |  |  | 4.4% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (May) |  |  | 0.6% |
-| 13:30 | EUR | German Current Account Balance n.s.a (Apr) |  |  | 23.6B |
+| 13:00 | MXN | Industrial Production (YoY) (Apr) | 2.3% | -0.8% | -1.3% |
+| 13:00 | MXN | Industrial Production (MoM) (Apr) | 2.1% | 0.4% | -0.5% |
+| 13:00 | EUR | German Current Account Balance n.s.a (Apr) | 13.8B |  | 24.5B |
+| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Apr) | 1.9% |  | 3.3% |
+| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Apr) | 1.2% |  | -1.1% |
+| 13:30 | USD | Core PPI (YoY) (May) | 4.9% | 5.4% | 4.9% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 219.00K |  | 214.75K |
+| 13:30 | USD | PPI (YoY) (May) | 6.5% | 6.4% | 5.7% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (May) | 5.1% |  | 4.4% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (May) | 0.8% |  | 0.5% |
 | 15:30 | USD | Natural Gas Storage |  | 101B | 95B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.615% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 3.610% |

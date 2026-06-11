@@ -25,24 +25,25 @@
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (Jun) | 46.23 |  | 48.71 |
 | 12:00 | ZAR | Low | Manufacturing Production (MoM) (Apr) | -2.7% |  | 1.2% |
 | 12:00 | ZAR | Low | Manufacturing Production (YoY) (Apr) | -2.9% |  | 1.5% |
-| 13:00 | MXN | Low | Industrial Production (YoY) (Apr) |  | -0.8% | -1.3% |
-| 13:00 | MXN | Low | Industrial Production (MoM) (Apr) |  | 0.4% | -0.6% |
-| 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Apr) |  |  | -1.2% |
-| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Apr) |  |  | 3.0% |
-| 13:15 | EUR | High | Deposit Facility Rate (Jun) |  | 2.25% | 2.00% |
+| 13:00 | MXN | Low | Industrial Production (YoY) (Apr) | 2.3% | -0.8% | -1.3% |
+| 13:00 | MXN | Low | Industrial Production (MoM) (Apr) | 2.1% | 0.4% | -0.5% |
+| 13:00 | EUR | Low | German Current Account Balance n.s.a (Apr) | 13.8B |  | 24.5B |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Apr) | 1.9% |  | 3.3% |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Apr) | 1.2% |  | -1.1% |
+| 13:15 | EUR | High | Deposit Facility Rate (Jun) | 2.25% | 2.25% | 2.00% |
+| 13:15 | EUR | Moderate | ECB Marginal Lending Facility | 2.65% |  | 2.40% |
 | 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
-| 13:15 | EUR | High | ECB Interest Rate Decision (Jun) |  | 2.40% | 2.15% |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,780K | 1,777K |
-| 13:30 | USD | Moderate | Core PPI (MoM) (May) |  | 0.5% | 1.0% |
-| 13:30 | USD | Low | Core PPI (YoY) (May) |  | 5.4% | 5.2% |
-| 13:30 | USD | High | Initial Jobless Claims |  | 220K | 225K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 214.75K |
-| 13:30 | USD | High | PPI (MoM) (May) |  | 0.7% | 1.4% |
-| 13:30 | USD | Low | PPI (YoY) (May) |  | 6.4% | 6.0% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (May) |  |  | 4.4% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (May) |  |  | 0.6% |
-| 13:30 | CAD | Moderate | Building Permits (MoM) (Apr) |  | -3.7% | 10.3% |
-| 13:30 | EUR | Low | German Current Account Balance n.s.a (Apr) |  |  | 23.6B |
+| 13:15 | EUR | High | ECB Interest Rate Decision (Jun) | 2.40% | 2.40% | 2.15% |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,795K | 1,780K | 1,771K |
+| 13:30 | USD | Moderate | Core PPI (MoM) (May) | 0.4% | 0.5% | 0.7% |
+| 13:30 | USD | Low | Core PPI (YoY) (May) | 4.9% | 5.4% | 4.9% |
+| 13:30 | USD | High | Initial Jobless Claims | 229K | 220K | 225K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 219.00K |  | 214.75K |
+| 13:30 | USD | Low | PPI (YoY) (May) | 6.5% | 6.4% | 5.7% |
+| 13:30 | USD | High | PPI (MoM) (May) | 1.1% | 0.7% | 1.1% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (May) | 5.1% |  | 4.4% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (May) | 0.8% |  | 0.5% |
+| 13:30 | CAD | Moderate | Building Permits (MoM) (Apr) | -7.6% | -3.7% | 10.5% |
 | 13:45 | EUR | High | ECB Press Conference |  |  |  |
 | 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage |  | 101B | 95B |
