@@ -37,16 +37,16 @@
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (May) | 3.2% | 3.2% | 3.2% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (May) | 0.1% | 0.1% | 0.7% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (May) | 3.6% | 3.6% | 3.6% |
-| 09:30 | GBP | Low | Inflation Expectations |  |  | 3.2% |
-| 09:30 | HKD | Low | Industrial Production (YoY) (Q1) |  |  | 5.70% |
-| 09:30 | HKD | Low | PPI (YoY) (Q1) |  |  | 9.50% |
+| 09:30 | GBP | Low | Inflation Expectations | 4.0% |  | 3.2% |
+| 09:30 | HKD | Low | Industrial Production (YoY) (Q1) | 3.10% |  | 5.80% |
+| 09:30 | HKD | Low | PPI (YoY) (Q1) | 17.70% |  | 9.50% |
 | 10:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 10:00 | CNY | Low | M2 Money Stock (YoY) (May) |  | 8.6% | 8.6% |
-| 10:00 | CNY | Moderate | New Loans (May) |  | 450.0B | -10.0B |
-| 10:00 | CNY | Low | Outstanding Loan Growth (YoY) (May) |  | 5.5% | 5.6% |
-| 10:00 | CNY | Low | Chinese Total Social Financing (May) |  | 1,870.0B | 620.0B |
-| 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
-| 11:30 | INR | Moderate | CPI (YoY) (May) |  | 4.00% | 3.48% |
+| 10:04 | CNY | Low | M2 Money Stock (YoY) (May) | 8.6% | 8.6% | 8.6% |
+| 10:04 | CNY | Moderate | New Loans (May) | 520.0B | 450.0B | -10.0B |
+| 10:04 | CNY | Low | Outstanding Loan Growth (YoY) (May) | 5.5% | 5.5% | 5.6% |
+| 10:04 | CNY | Low | Chinese Total Social Financing (May) | 2,030.0B | 1,870.0B | 620.0B |
+| 26 min | EUR | Low | ECOFIN Meetings |  |  |  |
+| 56 min | INR | Moderate | CPI (YoY) (May) |  | 4.00% | 3.48% |
 | 12:00 | GBP | Moderate | NIESR Monthly GDP Tracker |  |  | 0.8% |
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 16.2% |
 | 12:30 | INR | Low | Deposit Growth |  |  | 12.2% |

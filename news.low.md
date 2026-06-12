@@ -24,14 +24,14 @@
 | 08:00 | EUR | Core CPI (YoY) (May) | 3.0% | 2.9% | 2.8% |
 | 08:00 | EUR | Spanish CPI (MoM) (May) | 0.1% | 0.1% | 0.4% |
 | 08:00 | EUR | Spanish HICP (MoM) (May) | 0.1% | 0.1% | 0.7% |
-| 09:30 | GBP | Inflation Expectations |  |  | 3.2% |
-| 09:30 | HKD | Industrial Production (YoY) (Q1) |  |  | 5.70% |
-| 09:30 | HKD | PPI (YoY) (Q1) |  |  | 9.50% |
+| 09:30 | GBP | Inflation Expectations | 4.0% |  | 3.2% |
+| 09:30 | HKD | Industrial Production (YoY) (Q1) | 3.10% |  | 5.80% |
+| 09:30 | HKD | PPI (YoY) (Q1) | 17.70% |  | 9.50% |
 | 10:00 | EUR | German Buba Monthly Report |  |  |  |
-| 10:00 | CNY | M2 Money Stock (YoY) (May) |  | 8.6% | 8.6% |
-| 10:00 | CNY | Outstanding Loan Growth (YoY) (May) |  | 5.5% | 5.6% |
-| 10:00 | CNY | Chinese Total Social Financing (May) |  | 1,870.0B | 620.0B |
-| 11:00 | EUR | ECOFIN Meetings |  |  |  |
+| 10:04 | CNY | M2 Money Stock (YoY) (May) | 8.6% | 8.6% | 8.6% |
+| 10:04 | CNY | Outstanding Loan Growth (YoY) (May) | 5.5% | 5.5% | 5.6% |
+| 10:04 | CNY | Chinese Total Social Financing (May) | 2,030.0B | 1,870.0B | 620.0B |
+| 26 min | EUR | ECOFIN Meetings |  |  |  |
 | 12:30 | INR | Bank Loan Growth |  |  | 16.2% |
 | 12:30 | INR | Deposit Growth |  |  | 12.2% |
 | 12:30 | INR | FX Reserves, USD |  |  | 682.32B |
