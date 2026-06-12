@@ -7,30 +7,30 @@
 | 03:00 | AUD | Low | Thomson Reuters IPSOS PCSI (Jun) | 46.95 |  | 48.35 |
 | 03:00 | JPY | Low | Thomson Reuters IPSOS PCSI (Jun) | 38.52 |  | 37.82 |
 | 03:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Jun) | 72.28 |  | 76.34 |
-| 05:30 | JPY | Low | Capacity Utilization (MoM) (Apr) |  |  | -1.2% |
-| 05:30 | JPY | Moderate | Industrial Production (MoM) (Apr) |  | 0.8% | -0.4% |
-| 07:00 | GBP | Low | U.K. Construction Output (YoY) (Apr) |  | -1.7% | -0.3% |
-| 07:00 | GBP | Low | Construction Output (MoM) (Apr) |  |  | 1.5% |
-| 07:00 | GBP | High | GDP (MoM) (Apr) |  | -0.1% | 0.3% |
-| 07:00 | GBP | Low | GDP (YoY) (Apr) |  | 1.3% | 1.2% |
-| 07:00 | GBP | Low | Index of Services |  |  | 0.8% |
-| 07:00 | GBP | Moderate | Industrial Production (MoM) (Apr) |  | 0.1% | -0.2% |
-| 07:00 | GBP | Low | Industrial Production (YoY) (Apr) |  | -0.1% | 0.0% |
-| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Apr) |  | -0.2% | 1.2% |
-| 07:00 | GBP | Low | Manufacturing Production (YoY) (Apr) |  | 0.4% | 1.2% |
-| 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Apr) |  | 0.7% | 0.6% |
-| 07:00 | GBP | Moderate | Trade Balance (Apr) |  | -22.50B | -27.22B |
-| 07:00 | GBP | Moderate | Trade Balance Non-EU (Apr) |  |  | -15.20B |
-| 07:00 | EUR | Moderate | German CPI (YoY) (May) |  | 2.6% | 2.9% |
-| 07:00 | EUR | High | German CPI (MoM) (May) |  | -0.2% | 0.6% |
-| 07:00 | EUR | Low | German HICP (MoM) (May) |  | -0.1% | 0.5% |
-| 07:00 | EUR | Low | German HICP (YoY) (May) |  | 2.7% | 2.9% |
+| 05:30 | JPY | Low | Capacity Utilization (MoM) (Apr) | -0.8% |  | -1.2% |
+| 05:30 | JPY | Moderate | Industrial Production (MoM) (Apr) | 0.5% | 0.8% | -0.4% |
+| 18 min | GBP | Low | U.K. Construction Output (YoY) (Apr) |  | -1.7% | -0.3% |
+| 18 min | GBP | Low | Construction Output (MoM) (Apr) |  | -0.7% | 1.5% |
+| 18 min | GBP | High | GDP (MoM) (Apr) |  | -0.1% | 0.3% |
+| 18 min | GBP | Low | GDP (YoY) (Apr) |  | 1.3% | 1.2% |
+| 18 min | GBP | Low | Index of Services |  | 0.8% | 0.8% |
+| 18 min | GBP | Moderate | Industrial Production (MoM) (Apr) |  | 0.1% | -0.2% |
+| 18 min | GBP | Low | Industrial Production (YoY) (Apr) |  | -0.1% | 0.0% |
+| 18 min | GBP | Moderate | Manufacturing Production (MoM) (Apr) |  | -0.2% | 1.2% |
+| 18 min | GBP | Low | Manufacturing Production (YoY) (Apr) |  | 0.4% | 1.2% |
+| 18 min | GBP | Moderate | Monthly GDP 3M/3M Change (Apr) |  | 0.7% | 0.6% |
+| 18 min | GBP | Moderate | Trade Balance (Apr) |  | -22.50B | -27.22B |
+| 18 min | GBP | Moderate | Trade Balance Non-EU (Apr) |  |  | -15.20B |
+| 18 min | EUR | Moderate | German CPI (YoY) (May) |  | 2.6% | 2.9% |
+| 18 min | EUR | High | German CPI (MoM) (May) |  | -0.2% | 0.6% |
+| 18 min | EUR | Low | German HICP (MoM) (May) |  | -0.1% | 0.5% |
+| 18 min | EUR | Low | German HICP (YoY) (May) |  | 2.7% | 2.9% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (May) |  |  | 2.40% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (May) |  |  | 0.10% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (May) |  | 0.1% | 1.0% |
 | 07:45 | EUR | Low | French CPI (YoY) (May) |  | 2.4% | 2.2% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (May) |  | 0.1% | 0.1% |
-| 07:45 | EUR | Low | French HICP (YoY) (May) |  | 2.8% | 2.8% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (May) |  | 0.1% | 1.2% |
+| 07:45 | EUR | Low | French HICP (YoY) (May) |  | 2.8% | 2.5% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (May) |  |  | 2.10% |
 | 08:00 | EUR | Low | Core CPI (YoY) (May) |  | 2.9% | 2.8% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (May) |  | 0.1% | 0.4% |
@@ -62,7 +62,7 @@
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Jun) |  |  | 4.8% |
 | 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Jun) |  |  | 3.9% |
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Jun) |  | 44.3 | 44.1 |
-| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Jun) |  | 46.6 | 44.8 |
+| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Jun) |  | 46.1 | 44.8 |
 | 15:00 | USD | Low | Michigan Current Conditions (Jun) |  | 46.2 | 45.8 |
 | 15:00 | BRL | Low | Auto Production (MoM) (May) |  |  | -9.5% |
 | 15:00 | BRL | Low | Auto Sales (MoM) (May) |  |  | -7.8% |

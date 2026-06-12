@@ -7,19 +7,19 @@
 | 03:00 | AUD | Thomson Reuters IPSOS PCSI (Jun) | 46.95 |  | 48.35 |
 | 03:00 | JPY | Thomson Reuters IPSOS PCSI (Jun) | 38.52 |  | 37.82 |
 | 03:00 | CNY | China Thomson Reuters IPSOS PCSI (Jun) | 72.28 |  | 76.34 |
-| 05:30 | JPY | Capacity Utilization (MoM) (Apr) |  |  | -1.2% |
-| 07:00 | GBP | U.K. Construction Output (YoY) (Apr) |  | -1.7% | -0.3% |
-| 07:00 | GBP | Construction Output (MoM) (Apr) |  |  | 1.5% |
-| 07:00 | GBP | GDP (YoY) (Apr) |  | 1.3% | 1.2% |
-| 07:00 | GBP | Index of Services |  |  | 0.8% |
-| 07:00 | GBP | Industrial Production (YoY) (Apr) |  | -0.1% | 0.0% |
-| 07:00 | GBP | Manufacturing Production (YoY) (Apr) |  | 0.4% | 1.2% |
-| 07:00 | EUR | German HICP (MoM) (May) |  | -0.1% | 0.5% |
-| 07:00 | EUR | German HICP (YoY) (May) |  | 2.7% | 2.9% |
+| 05:30 | JPY | Capacity Utilization (MoM) (Apr) | -0.8% |  | -1.2% |
+| 18 min | GBP | U.K. Construction Output (YoY) (Apr) |  | -1.7% | -0.3% |
+| 18 min | GBP | Construction Output (MoM) (Apr) |  | -0.7% | 1.5% |
+| 18 min | GBP | GDP (YoY) (Apr) |  | 1.3% | 1.2% |
+| 18 min | GBP | Index of Services |  | 0.8% | 0.8% |
+| 18 min | GBP | Industrial Production (YoY) (Apr) |  | -0.1% | 0.0% |
+| 18 min | GBP | Manufacturing Production (YoY) (Apr) |  | 0.4% | 1.2% |
+| 18 min | EUR | German HICP (MoM) (May) |  | -0.1% | 0.5% |
+| 18 min | EUR | German HICP (YoY) (May) |  | 2.7% | 2.9% |
 | 07:45 | EUR | French CPI NSA (YoY) (May) |  |  | 2.40% |
 | 07:45 | EUR | French CPI NSA (MoM) (May) |  |  | 0.10% |
 | 07:45 | EUR | French CPI (YoY) (May) |  | 2.4% | 2.2% |
-| 07:45 | EUR | French HICP (YoY) (May) |  | 2.8% | 2.8% |
+| 07:45 | EUR | French HICP (YoY) (May) |  | 2.8% | 2.5% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (May) |  |  | 2.10% |
 | 08:00 | EUR | Core CPI (YoY) (May) |  | 2.9% | 2.8% |
 | 08:00 | EUR | Spanish CPI (MoM) (May) |  | 0.1% | 0.4% |

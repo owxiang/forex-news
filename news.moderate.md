@@ -2,15 +2,15 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:30 | JPY | Industrial Production (MoM) (Apr) |  | 0.8% | -0.4% |
-| 07:00 | GBP | Industrial Production (MoM) (Apr) |  | 0.1% | -0.2% |
-| 07:00 | GBP | Manufacturing Production (MoM) (Apr) |  | -0.2% | 1.2% |
-| 07:00 | GBP | Monthly GDP 3M/3M Change (Apr) |  | 0.7% | 0.6% |
-| 07:00 | GBP | Trade Balance (Apr) |  | -22.50B | -27.22B |
-| 07:00 | GBP | Trade Balance Non-EU (Apr) |  |  | -15.20B |
-| 07:00 | EUR | German CPI (YoY) (May) |  | 2.6% | 2.9% |
+| 05:30 | JPY | Industrial Production (MoM) (Apr) | 0.5% | 0.8% | -0.4% |
+| 18 min | GBP | Industrial Production (MoM) (Apr) |  | 0.1% | -0.2% |
+| 18 min | GBP | Manufacturing Production (MoM) (Apr) |  | -0.2% | 1.2% |
+| 18 min | GBP | Monthly GDP 3M/3M Change (Apr) |  | 0.7% | 0.6% |
+| 18 min | GBP | Trade Balance (Apr) |  | -22.50B | -27.22B |
+| 18 min | GBP | Trade Balance Non-EU (Apr) |  |  | -15.20B |
+| 18 min | EUR | German CPI (YoY) (May) |  | 2.6% | 2.9% |
 | 07:45 | EUR | French CPI (MoM) (May) |  | 0.1% | 1.0% |
-| 07:45 | EUR | French HICP (MoM) (May) |  | 0.1% | 0.1% |
+| 07:45 | EUR | French HICP (MoM) (May) |  | 0.1% | 1.2% |
 | 08:00 | EUR | Spanish CPI (YoY) (May) |  | 3.2% | 3.2% |
 | 08:00 | EUR | Spanish HICP (YoY) (May) |  | 3.6% | 3.5% |
 | 10:00 | CNY | New Loans (May) |  | 450.0B | -10.0B |
@@ -21,7 +21,7 @@
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Jun) |  |  | 4.8% |
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Jun) |  |  | 3.9% |
 | 15:00 | USD | Michigan Consumer Expectations (Jun) |  | 44.3 | 44.1 |
-| 15:00 | USD | Michigan Consumer Sentiment (Jun) |  | 46.6 | 44.8 |
+| 15:00 | USD | Michigan Consumer Sentiment (Jun) |  | 46.1 | 44.8 |
 | 15:30 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 431 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 563 |
