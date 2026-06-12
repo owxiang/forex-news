@@ -14,10 +14,10 @@
 | 07:00 | GBP | High | GDP (MoM) (Apr) | -0.1% | -0.1% | 0.3% |
 | 07:00 | GBP | Low | GDP (YoY) (Apr) | 1.2% | 1.3% | 1.2% |
 | 07:00 | GBP | Low | Index of Services | 0.8% | 0.8% | 0.8% |
-| 07:00 | GBP | Moderate | Industrial Production (MoM) (Apr) | 0.0% | 0.1% | -0.2% |
 | 07:00 | GBP | Low | Industrial Production (YoY) (Apr) | -0.2% | -0.1% | 0.0% |
-| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Apr) | 0.4% | -0.2% | 1.2% |
+| 07:00 | GBP | Moderate | Industrial Production (MoM) (Apr) | 0.0% | 0.1% | -0.2% |
 | 07:00 | GBP | Low | Manufacturing Production (YoY) (Apr) | 1.0% | 0.4% | 1.2% |
+| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Apr) | 0.4% | -0.2% | 1.2% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Apr) | 0.7% | 0.7% | 0.6% |
 | 07:00 | GBP | Moderate | Trade Balance (Apr) | -26.05B | -22.50B | -27.22B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Apr) | -13.05B |  | -15.20B |
@@ -29,8 +29,8 @@
 | 07:45 | EUR | Low | French CPI NSA (MoM) (May) | 0.10% |  | 0.10% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (May) | 0.1% | 0.1% | 1.0% |
 | 07:45 | EUR | Low | French CPI (YoY) (May) | 2.4% | 2.4% | 2.2% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (May) | 0.1% | 0.1% | 1.2% |
 | 07:45 | EUR | Low | French HICP (YoY) (May) | 2.8% | 2.8% | 2.5% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (May) | 0.1% | 0.1% | 1.2% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (May) | 2.40% |  | 2.20% |
 | 08:00 | EUR | Low | Core CPI (YoY) (May) | 3.0% | 2.9% | 2.8% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (May) | 0.1% | 0.1% | 0.4% |
@@ -48,24 +48,20 @@
 | 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 11:30 | INR | Moderate | CPI (YoY) (May) | 3.93% | 4.00% | 3.48% |
 | 12:00 | GBP | Moderate | NIESR Monthly GDP Tracker | 0.5% |  | 0.7% |
-| 7 min | INR | Low | Bank Loan Growth |  |  | 16.2% |
-| 7 min | INR | Low | Deposit Growth |  |  | 12.2% |
-| 7 min | INR | Low | FX Reserves, USD |  |  | 682.32B |
-| 7 min | INR | Low | M3 Money Supply |  |  | 12.0% |
-| 37 min | BRL | Moderate | CPI (YoY) (May) |  | 4.66% | 4.39% |
-| 37 min | BRL | Low | CPI (MoM) (May) |  | 0.53% | 0.67% |
-| 37 min | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (May) |  |  | 0.63% |
-| 13:30 | CAD | Low | Capacity Utilization Rate (Q1) |  |  | 78.5% |
-| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Apr) |  | 4.6% | 3.0% |
-| 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Apr) |  |  | 176.5K |
-| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Apr) |  | 0.1% | 1.9% |
-| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Jun) |  |  | 4.8% |
-| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Jun) |  |  | 3.9% |
-| 15:00 | USD | Moderate | Michigan Consumer Expectations (Jun) |  | 44.3 | 44.1 |
-| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Jun) |  | 46.1 | 44.8 |
-| 15:00 | USD | Low | Michigan Current Conditions (Jun) |  | 46.2 | 45.8 |
-| 15:00 | BRL | Low | Auto Production (MoM) (May) |  |  | -9.5% |
-| 15:00 | BRL | Low | Auto Sales (MoM) (May) |  |  | -7.8% |
+| 12:30 | INR | Low | Bank Loan Growth | 17.7% |  | 16.2% |
+| 12:30 | INR | Low | Deposit Growth | 12.2% |  | 12.2% |
+| 12:30 | INR | Low | FX Reserves, USD | 681.61B |  | 682.32B |
+| 13:00 | BRL | Moderate | CPI (YoY) (May) | 4.72% | 4.66% | 4.39% |
+| 13:00 | BRL | Low | CPI (MoM) (May) | 0.58% | 0.53% | 0.67% |
+| 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (May) | 0.60% |  | 0.63% |
+| 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Apr) | 183.9K |  | 176.5K |
+| 38 min | USD | Moderate | Michigan 1-Year Inflation Expectations (Jun) |  |  | 4.8% |
+| 38 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Jun) |  |  | 3.9% |
+| 38 min | USD | Moderate | Michigan Consumer Expectations (Jun) |  | 44.3 | 44.1 |
+| 38 min | USD | Moderate | Michigan Consumer Sentiment (Jun) |  | 46.1 | 44.8 |
+| 38 min | USD | Low | Michigan Current Conditions (Jun) |  | 46.2 | 45.8 |
+| 38 min | BRL | Low | Auto Production (MoM) (May) |  |  | -9.5% |
+| 38 min | BRL | Low | Auto Sales (MoM) (May) |  |  | -7.8% |
 | 15:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 431 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 563 |
