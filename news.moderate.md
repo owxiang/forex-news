@@ -13,10 +13,10 @@
 | 07:45 | EUR | French HICP (MoM) (May) | 0.1% | 0.1% | 1.2% |
 | 08:00 | EUR | Spanish CPI (YoY) (May) | 3.2% | 3.2% | 3.2% |
 | 08:00 | EUR | Spanish HICP (YoY) (May) | 3.6% | 3.6% | 3.6% |
-| 10:04 | CNY | New Loans (May) | 520.0B | 450.0B | -10.0B |
-| 56 min | INR | CPI (YoY) (May) |  | 4.00% | 3.48% |
-| 12:00 | GBP | NIESR Monthly GDP Tracker |  |  | 0.8% |
-| 13:00 | BRL | CPI (YoY) (May) |  | 4.66% | 4.39% |
+| 10:00 | CNY | New Loans (May) | 520.0B | 450.0B | -10.0B |
+| 11:30 | INR | CPI (YoY) (May) | 3.93% | 4.00% | 3.48% |
+| 12:00 | GBP | NIESR Monthly GDP Tracker | 0.5% |  | 0.7% |
+| 37 min | BRL | CPI (YoY) (May) |  | 4.66% | 4.39% |
 | 13:30 | CAD | Wholesale Sales (MoM) (Apr) |  | 0.1% | 1.9% |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Jun) |  |  | 4.8% |
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Jun) |  |  | 3.9% |

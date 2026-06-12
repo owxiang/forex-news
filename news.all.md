@@ -41,20 +41,20 @@
 | 09:30 | HKD | Low | Industrial Production (YoY) (Q1) | 3.10% |  | 5.80% |
 | 09:30 | HKD | Low | PPI (YoY) (Q1) | 17.70% |  | 9.50% |
 | 10:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 10:04 | CNY | Low | M2 Money Stock (YoY) (May) | 8.6% | 8.6% | 8.6% |
-| 10:04 | CNY | Moderate | New Loans (May) | 520.0B | 450.0B | -10.0B |
-| 10:04 | CNY | Low | Outstanding Loan Growth (YoY) (May) | 5.5% | 5.5% | 5.6% |
-| 10:04 | CNY | Low | Chinese Total Social Financing (May) | 2,030.0B | 1,870.0B | 620.0B |
-| 26 min | EUR | Low | ECOFIN Meetings |  |  |  |
-| 56 min | INR | Moderate | CPI (YoY) (May) |  | 4.00% | 3.48% |
-| 12:00 | GBP | Moderate | NIESR Monthly GDP Tracker |  |  | 0.8% |
-| 12:30 | INR | Low | Bank Loan Growth |  |  | 16.2% |
-| 12:30 | INR | Low | Deposit Growth |  |  | 12.2% |
-| 12:30 | INR | Low | FX Reserves, USD |  |  | 682.32B |
-| 12:30 | INR | Low | M3 Money Supply |  |  | 12.0% |
-| 13:00 | BRL | Moderate | CPI (YoY) (May) |  | 4.66% | 4.39% |
-| 13:00 | BRL | Low | CPI (MoM) (May) |  | 0.53% | 0.67% |
-| 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (May) |  |  | 0.63% |
+| 10:00 | CNY | Low | M2 Money Stock (YoY) (May) | 8.6% | 8.6% | 8.6% |
+| 10:00 | CNY | Moderate | New Loans (May) | 520.0B | 450.0B | -10.0B |
+| 10:00 | CNY | Low | Outstanding Loan Growth (YoY) (May) | 5.5% | 5.5% | 5.6% |
+| 10:00 | CNY | Low | Chinese Total Social Financing (May) | 2,030.0B | 1,870.0B | 620.0B |
+| 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
+| 11:30 | INR | Moderate | CPI (YoY) (May) | 3.93% | 4.00% | 3.48% |
+| 12:00 | GBP | Moderate | NIESR Monthly GDP Tracker | 0.5% |  | 0.7% |
+| 7 min | INR | Low | Bank Loan Growth |  |  | 16.2% |
+| 7 min | INR | Low | Deposit Growth |  |  | 12.2% |
+| 7 min | INR | Low | FX Reserves, USD |  |  | 682.32B |
+| 7 min | INR | Low | M3 Money Supply |  |  | 12.0% |
+| 37 min | BRL | Moderate | CPI (YoY) (May) |  | 4.66% | 4.39% |
+| 37 min | BRL | Low | CPI (MoM) (May) |  | 0.53% | 0.67% |
+| 37 min | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (May) |  |  | 0.63% |
 | 13:30 | CAD | Low | Capacity Utilization Rate (Q1) |  |  | 78.5% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Apr) |  | 4.6% | 3.0% |
 | 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Apr) |  |  | 176.5K |
