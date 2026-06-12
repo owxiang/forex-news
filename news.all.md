@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 47 min | KRW | Low | Thomson Reuters IPSOS PCSI (Jun) |  |  | 46.57 |
-| 47 min | INR | Low | Thomson Reuters IPSOS PCSI (Jun) |  |  | 66.57 |
-| 47 min | AUD | Low | Thomson Reuters IPSOS PCSI (Jun) |  |  | 48.35 |
-| 47 min | JPY | Low | Thomson Reuters IPSOS PCSI (Jun) |  |  | 37.82 |
-| 47 min | CNY | Low | China Thomson Reuters IPSOS PCSI (Jun) |  |  | 76.34 |
+| 03:00 | KRW | Low | Thomson Reuters IPSOS PCSI (Jun) | 47.71 |  | 46.57 |
+| 03:00 | INR | Low | Thomson Reuters IPSOS PCSI (Jun) | 63.84 |  | 66.57 |
+| 03:00 | AUD | Low | Thomson Reuters IPSOS PCSI (Jun) | 46.95 |  | 48.35 |
+| 03:00 | JPY | Low | Thomson Reuters IPSOS PCSI (Jun) | 38.52 |  | 37.82 |
+| 03:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Jun) | 72.28 |  | 76.34 |
 | 05:30 | JPY | Low | Capacity Utilization (MoM) (Apr) |  |  | -1.2% |
 | 05:30 | JPY | Moderate | Industrial Production (MoM) (Apr) |  | 0.8% | -0.4% |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (Apr) |  | -1.7% | -0.3% |
