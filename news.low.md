@@ -30,7 +30,6 @@
 | 10:00 | EUR | German Buba Monthly Report |  |  |  |
 | 10:00 | CNY | M2 Money Stock (YoY) (May) | 8.6% | 8.6% | 8.6% |
 | 10:00 | CNY | Outstanding Loan Growth (YoY) (May) | 5.5% | 5.5% | 5.6% |
-| 10:00 | CNY | Chinese Total Social Financing (May) | 2,030.0B | 1,870.0B | 620.0B |
 | 11:00 | EUR | ECOFIN Meetings |  |  |  |
 | 12:30 | INR | Bank Loan Growth | 17.7% |  | 16.2% |
 | 12:30 | INR | Deposit Growth | 12.2% |  | 12.2% |
@@ -38,9 +37,10 @@
 | 13:00 | BRL | CPI (MoM) (May) | 0.58% | 0.53% | 0.67% |
 | 13:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (May) | 0.60% |  | 0.63% |
 | 13:30 | CAD | New Motor Vehicle Sales (MoM) (Apr) | 183.9K |  | 176.5K |
-| 38 min | USD | Michigan Current Conditions (Jun) |  | 46.2 | 45.8 |
-| 38 min | BRL | Auto Production (MoM) (May) |  |  | -9.5% |
-| 38 min | BRL | Auto Sales (MoM) (May) |  |  | -7.8% |
+| 15:00 | USD | Michigan Current Conditions (Jun) | 48.4 | 46.2 | 45.8 |
+| 15:00 | BRL | Auto Production (MoM) (May) | 6.3% |  | -9.5% |
+| 15:00 | BRL | Auto Sales (MoM) (May) | 10.6% |  | -7.8% |
+| 16:07 | CNY | Chinese Total Social Financing (May) | 2,030.0B | 1,870.0B | 620.0B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.8K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 78.8K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 199.9K |

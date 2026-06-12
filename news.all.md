@@ -44,7 +44,6 @@
 | 10:00 | CNY | Low | M2 Money Stock (YoY) (May) | 8.6% | 8.6% | 8.6% |
 | 10:00 | CNY | Moderate | New Loans (May) | 520.0B | 450.0B | -10.0B |
 | 10:00 | CNY | Low | Outstanding Loan Growth (YoY) (May) | 5.5% | 5.5% | 5.6% |
-| 10:00 | CNY | Low | Chinese Total Social Financing (May) | 2,030.0B | 1,870.0B | 620.0B |
 | 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 11:30 | INR | Moderate | CPI (YoY) (May) | 3.93% | 4.00% | 3.48% |
 | 12:00 | GBP | Moderate | NIESR Monthly GDP Tracker | 0.5% |  | 0.7% |
@@ -55,14 +54,15 @@
 | 13:00 | BRL | Low | CPI (MoM) (May) | 0.58% | 0.53% | 0.67% |
 | 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (May) | 0.60% |  | 0.63% |
 | 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Apr) | 183.9K |  | 176.5K |
-| 38 min | USD | Moderate | Michigan 1-Year Inflation Expectations (Jun) |  |  | 4.8% |
-| 38 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Jun) |  |  | 3.9% |
-| 38 min | USD | Moderate | Michigan Consumer Expectations (Jun) |  | 44.3 | 44.1 |
-| 38 min | USD | Moderate | Michigan Consumer Sentiment (Jun) |  | 46.1 | 44.8 |
-| 38 min | USD | Low | Michigan Current Conditions (Jun) |  | 46.2 | 45.8 |
-| 38 min | BRL | Low | Auto Production (MoM) (May) |  |  | -9.5% |
-| 38 min | BRL | Low | Auto Sales (MoM) (May) |  |  | -7.8% |
+| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Jun) | 4.6% | 4.9% | 4.8% |
+| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Jun) | 3.4% | 3.8% | 3.9% |
+| 15:00 | USD | Moderate | Michigan Consumer Expectations (Jun) | 49.3 | 44.3 | 44.1 |
+| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Jun) | 48.9 | 46.1 | 44.8 |
+| 15:00 | USD | Low | Michigan Current Conditions (Jun) | 48.4 | 46.2 | 45.8 |
+| 15:00 | BRL | Low | Auto Production (MoM) (May) | 6.3% |  | -9.5% |
+| 15:00 | BRL | Low | Auto Sales (MoM) (May) | 10.6% |  | -7.8% |
 | 15:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 16:07 | CNY | Low | Chinese Total Social Financing (May) | 2,030.0B | 1,870.0B | 620.0B |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 431 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 563 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -52.2K |

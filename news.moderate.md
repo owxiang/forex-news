@@ -17,10 +17,10 @@
 | 11:30 | INR | CPI (YoY) (May) | 3.93% | 4.00% | 3.48% |
 | 12:00 | GBP | NIESR Monthly GDP Tracker | 0.5% |  | 0.7% |
 | 13:00 | BRL | CPI (YoY) (May) | 4.72% | 4.66% | 4.39% |
-| 38 min | USD | Michigan 1-Year Inflation Expectations (Jun) |  |  | 4.8% |
-| 38 min | USD | Michigan 5-Year Inflation Expectations (Jun) |  |  | 3.9% |
-| 38 min | USD | Michigan Consumer Expectations (Jun) |  | 44.3 | 44.1 |
-| 38 min | USD | Michigan Consumer Sentiment (Jun) |  | 46.1 | 44.8 |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (Jun) | 4.6% | 4.9% | 4.8% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (Jun) | 3.4% | 3.8% | 3.9% |
+| 15:00 | USD | Michigan Consumer Expectations (Jun) | 49.3 | 44.3 | 44.1 |
+| 15:00 | USD | Michigan Consumer Sentiment (Jun) | 48.9 | 46.1 | 44.8 |
 | 15:30 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 431 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 563 |
