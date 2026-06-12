@@ -3,16 +3,16 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 05:30 | JPY | Industrial Production (MoM) (Apr) | 0.5% | 0.8% | -0.4% |
-| 18 min | GBP | Industrial Production (MoM) (Apr) |  | 0.1% | -0.2% |
-| 18 min | GBP | Manufacturing Production (MoM) (Apr) |  | -0.2% | 1.2% |
-| 18 min | GBP | Monthly GDP 3M/3M Change (Apr) |  | 0.7% | 0.6% |
-| 18 min | GBP | Trade Balance (Apr) |  | -22.50B | -27.22B |
-| 18 min | GBP | Trade Balance Non-EU (Apr) |  |  | -15.20B |
-| 18 min | EUR | German CPI (YoY) (May) |  | 2.6% | 2.9% |
-| 07:45 | EUR | French CPI (MoM) (May) |  | 0.1% | 1.0% |
-| 07:45 | EUR | French HICP (MoM) (May) |  | 0.1% | 1.2% |
-| 08:00 | EUR | Spanish CPI (YoY) (May) |  | 3.2% | 3.2% |
-| 08:00 | EUR | Spanish HICP (YoY) (May) |  | 3.6% | 3.5% |
+| 07:00 | GBP | Industrial Production (MoM) (Apr) | 0.0% | 0.1% | -0.2% |
+| 07:00 | GBP | Manufacturing Production (MoM) (Apr) | 0.4% | -0.2% | 1.2% |
+| 07:00 | GBP | Monthly GDP 3M/3M Change (Apr) | 0.7% | 0.7% | 0.6% |
+| 07:00 | GBP | Trade Balance (Apr) | -26.05B | -22.50B | -27.22B |
+| 07:00 | GBP | Trade Balance Non-EU (Apr) | -13.05B |  | -15.20B |
+| 07:00 | EUR | German CPI (YoY) (May) | 2.6% | 2.6% | 2.9% |
+| 07:45 | EUR | French CPI (MoM) (May) | 0.1% | 0.1% | 1.0% |
+| 07:45 | EUR | French HICP (MoM) (May) | 0.1% | 0.1% | 1.2% |
+| 08:00 | EUR | Spanish CPI (YoY) (May) | 3.2% | 3.2% | 3.2% |
+| 08:00 | EUR | Spanish HICP (YoY) (May) | 3.6% | 3.6% | 3.6% |
 | 10:00 | CNY | New Loans (May) |  | 450.0B | -10.0B |
 | 11:30 | INR | CPI (YoY) (May) |  | 4.00% | 3.48% |
 | 12:00 | GBP | NIESR Monthly GDP Tracker |  |  | 0.8% |
