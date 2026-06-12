@@ -22,8 +22,8 @@
 | 15:00 | USD | Michigan Consumer Expectations (Jun) | 49.3 | 44.3 | 44.1 |
 | 15:00 | USD | Michigan Consumer Sentiment (Jun) | 48.9 | 46.1 | 44.8 |
 | 15:30 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 431 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 563 |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 433 |  | 431 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count | 562 |  | 563 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -52.2K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 155.9K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 176.0K |

@@ -63,8 +63,8 @@
 | 15:00 | BRL | Low | Auto Sales (MoM) (May) | 10.6% |  | -7.8% |
 | 15:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 16:07 | CNY | Low | Chinese Total Social Financing (May) | 2,030.0B | 1,870.0B | 620.0B |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 431 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 563 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 433 |  | 431 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 562 |  | 563 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -52.2K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 0.8K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 78.8K |
