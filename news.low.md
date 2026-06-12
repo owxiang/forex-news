@@ -41,14 +41,14 @@
 | 15:00 | BRL | Auto Production (MoM) (May) | 6.3% |  | -9.5% |
 | 15:00 | BRL | Auto Sales (MoM) (May) | 10.6% |  | -7.8% |
 | 16:07 | CNY | Chinese Total Social Financing (May) | 2,030.0B | 1,870.0B | 620.0B |
-| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.8K |
-| 20:30 | USD | CFTC Copper speculative net positions |  |  | 78.8K |
-| 20:30 | USD | CFTC Corn speculative net positions |  |  | 199.9K |
-| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -186.1K |
-| 20:30 | USD | CFTC Silver speculative net positions |  |  | 23.9K |
-| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 187.8K |
-| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -40.8K |
-| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -94.1K |
-| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 54.7K |
-| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -32.9K |
-| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -28.2K |
+| 20:30 | USD | CFTC Aluminium speculative net positions | 0.4K |  | 0.8K |
+| 20:30 | USD | CFTC Copper speculative net positions | 74.5K |  | 78.8K |
+| 20:30 | USD | CFTC Corn speculative net positions | 103.6K |  | 199.9K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions | -194.0K |  | -186.1K |
+| 20:30 | USD | CFTC Silver speculative net positions | 22.2K |  | 23.9K |
+| 20:30 | USD | CFTC Soybeans speculative net positions | 150.5K |  | 187.8K |
+| 20:30 | USD | CFTC Wheat speculative net positions | -57.9K |  | -40.8K |
+| 20:30 | CAD | CFTC CAD speculative net positions | -120.0K |  | -94.1K |
+| 20:30 | MXN | CFTC MXN speculative net positions | 63.8K |  | 54.7K |
+| 20:30 | CHF | CFTC CHF speculative net positions | -36.7K |  | -32.9K |
+| 20:30 | NZD | CFTC NZD speculative net positions | -31.6K |  | -28.2K |
