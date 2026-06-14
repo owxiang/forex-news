@@ -2,5 +2,5 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 23:30 | NZD | Performance of Services Index |  |  | 48.9 |
+| 56 min | NZD | Performance of Services Index |  |  | 48.9 |
 | 23:45 | NZD | Electronic Card Retail Sales (YoY) (May) |  |  | 2.0% |
