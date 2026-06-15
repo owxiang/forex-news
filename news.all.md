@@ -23,29 +23,29 @@
 | 09:00 | EUR | Low | Italian Trade Balance (Apr) | 4.293B | 5.190B | 4.709B |
 | 09:00 | EUR | Low | Italian Trade Balance EU (Apr) | 0.32B |  | -0.98B |
 | 09:00 | SGD | Low | Unemployment Rate (Q1) | 2.0% | 2.1% | 2.0% |
-| 10:00 | INR | Low | Exports (USD) (May) | 45.20B |  | 43.56B |
 | 10:00 | INR | Low | Imports (USD) (May) | 73.41B |  | 71.94B |
-| 10:00 | INR | Low | Trade Balance (May) | -28.21B |  | -28.38B |
 | 10:00 | EUR | Low | Industrial Production (YoY) (Apr) | 0.3% |  | -2.8% |
 | 10:00 | EUR | Moderate | Industrial Production (MoM) (Apr) | 0.1% | 0.2% | 0.4% |
 | 10:00 | EUR | Moderate | Trade Balance (Apr) | -1.0B | 7.8B | 4.9B |
 | 10:30 | EUR | Low | German 12-Month Bubill Auction | 2.478% |  | 2.482% |
+| 10:30 | EUR | Low | German 6-Month Bubill Auction | 2.331% |  | 2.257% |
 | 11:00 | EUR | Low | Reserve Assets Total (May) | 1,872.82B |  | 1,887.98B |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:15 | CAD | Moderate | Housing Starts (May) |  | 255.0K | 279.3K |
-| 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Jun) |  | 13.20 | 19.60 |
-| 13:30 | CAD | Low | Capacity Utilization Rate (Q1) |  | 76.2% | 78.5% |
-| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Apr) |  | 4.6% | 3.0% |
-| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Apr) |  | 0.1% | 1.9% |
-| 13:30 | EUR | Low | German 6-Month Bubill Auction |  |  | 2.257% |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.667% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.363% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.507% |
-| 14:15 | USD | Low | Capacity Utilization Rate (May) |  | 76.2% | 76.1% |
-| 14:15 | USD | Moderate | Industrial Production (MoM) (May) |  | 0.3% | 0.7% |
-| 14:15 | USD | Moderate | Industrial Production (YoY) (May) |  |  | 1.35% |
-| 14:15 | USD | Low | Manufacturing Production (MoM) (May) |  |  | 0.6% |
-| 15:00 | USD | Low | NAHB Housing Market Index (Jun) |  | 36 | 37 |
+| 12:30 | INR | Low | Exports (USD) (May) | 45.20B |  | 43.56B |
+| 12:30 | INR | Low | Trade Balance (May) | -28.21B |  | -28.38B |
+| 13:15 | CAD | Moderate | Housing Starts (May) | 261.4K | 255.0K | 278.4K |
+| 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Jun) | 5.70 | 13.20 | 19.60 |
+| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Apr) | 4.2% | 4.6% | 3.4% |
+| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Apr) | 0.6% | 0.1% | 1.6% |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.602% |  | 2.667% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.352% |  | 2.363% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.465% |  | 2.507% |
+| 14:15 | USD | Low | Capacity Utilization Rate (May) | 76.2% | 76.2% | 76.1% |
+| 14:15 | USD | Moderate | Industrial Production (MoM) (May) | 0.1% | 0.3% | 0.9% |
+| 14:15 | USD | Moderate | Industrial Production (YoY) (May) | 1.67% |  | 1.37% |
+| 14:15 | USD | Low | Manufacturing Production (MoM) (May) | 0.0% |  | 0.7% |
+| 15:00 | USD | Low | NAHB Housing Market Index (Jun) | 35 | 36 | 37 |
+| 41 min | CAD | Low | Capacity Utilization Rate (Q1) |  | 76.2% | 78.5% |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.640% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.690% |
 | 22:00 | KRW | Low | Export Price Index (YoY) (May) |  |  | 40.8% |
