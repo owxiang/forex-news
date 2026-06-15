@@ -6,7 +6,6 @@
 | 01:00 | KRW | Low | Exports (YoY) (May) | 53.4% | 53.2% | 48.0% |
 | 01:00 | KRW | Low | Imports (YoY) (May) | 20.7% | 20.8% | 16.7% |
 | 01:00 | KRW | Low | Trade Balance (May) | 27.04B | 26.95B | 23.76B |
-| 03:30 | SGD | Low | Unemployment Rate (Q2) |  |  | 2.1% |
 | 05:30 | JPY | Low | Tertiary Industry Activity Index (Apr) |  |  | 16.50 |
 | 07:00 | EUR | Low | German WPI (MoM) (May) |  | 0.8% | 2.0% |
 | 07:00 | EUR | Low | German WPI (YoY) (May) |  |  | 6.3% |
@@ -22,8 +21,8 @@
 | 08:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 09:00 | EUR | Low | Italian Trade Balance (Apr) |  | 5.190B | 4.709B |
 | 09:00 | EUR | Low | Italian Trade Balance EU (Apr) |  |  | -1.08B |
-| 10:00 | EUR | Low | Industrial Production (YoY) (Apr) |  |  | -2.1% |
 | 10:00 | EUR | Moderate | Industrial Production (MoM) (Apr) |  | 0.2% | 0.2% |
+| 10:00 | EUR | Low | Industrial Production (YoY) (Apr) |  |  | -2.1% |
 | 10:00 | EUR | Moderate | Trade Balance (Apr) |  | 7.8B | 7.8B |
 | 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 2.482% |
 | 11:00 | EUR | Low | Reserve Assets Total (May) |  |  | 1,888.23B |
