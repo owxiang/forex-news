@@ -7,7 +7,6 @@
 | 01:00 | KRW | Exports (YoY) (May) | 53.4% | 53.2% | 48.0% |
 | 01:00 | KRW | Imports (YoY) (May) | 20.7% | 20.8% | 16.7% |
 | 01:00 | KRW | Trade Balance (May) | 27.04B | 26.95B | 23.76B |
-| 03:30 | SGD | Unemployment Rate (Q1) | 2.0% |  | 2.0% |
 | 05:30 | JPY | Tertiary Industry Activity Index (Apr) | -10.60 |  | 16.00 |
 | 07:00 | EUR | German WPI (MoM) (May) | -0.6% | 0.8% | 2.0% |
 | 07:00 | EUR | German WPI (YoY) (May) | 5.9% |  | 6.3% |
@@ -18,9 +17,13 @@
 | 07:30 | INR | WPI Manufacturing Inflation (YoY) (May) | 7.48% |  | 6.68% |
 | 09:00 | EUR | Italian Trade Balance (Apr) | 4.293B | 5.190B | 4.709B |
 | 09:00 | EUR | Italian Trade Balance EU (Apr) | 0.32B |  | -0.98B |
-| 10:00 | EUR | Industrial Production (YoY) (Apr) |  |  | -2.1% |
-| 10:30 | EUR | German 12-Month Bubill Auction |  |  | 2.482% |
-| 11:00 | EUR | Reserve Assets Total (May) |  |  | 1,888.23B |
+| 09:00 | SGD | Unemployment Rate (Q1) | 2.0% | 2.1% | 2.0% |
+| 10:00 | INR | Exports (USD) (May) | 45.20B |  | 43.56B |
+| 10:00 | INR | Imports (USD) (May) | 73.41B |  | 71.94B |
+| 10:00 | INR | Trade Balance (May) | -28.21B |  | -28.38B |
+| 10:00 | EUR | Industrial Production (YoY) (Apr) | 0.3% |  | -2.8% |
+| 10:30 | EUR | German 12-Month Bubill Auction | 2.478% |  | 2.482% |
+| 11:00 | EUR | Reserve Assets Total (May) | 1,872.82B |  | 1,887.98B |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:30 | CAD | Capacity Utilization Rate (Q1) |  | 76.2% | 78.5% |
 | 13:30 | CAD | Manufacturing Sales (MoM) (Apr) |  | 4.6% | 3.0% |

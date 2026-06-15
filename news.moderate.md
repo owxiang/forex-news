@@ -7,8 +7,8 @@
 | 08:00 | CHF | SECO Consumer Climate (May) | -38 | -38 | -40 |
 | 08:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 08:15 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 10:00 | EUR | Industrial Production (MoM) (Apr) |  | 0.2% | 0.2% |
-| 10:00 | EUR | Trade Balance (Apr) |  | 7.8B | 7.8B |
+| 10:00 | EUR | Industrial Production (MoM) (Apr) | 0.1% | 0.2% | 0.4% |
+| 10:00 | EUR | Trade Balance (Apr) | -1.0B | 7.8B | 4.9B |
 | 13:15 | CAD | Housing Starts (May) |  | 255.0K | 279.3K |
 | 13:30 | USD | NY Empire State Manufacturing Index (Jun) |  | 13.20 | 19.60 |
 | 13:30 | CAD | Wholesale Sales (MoM) (Apr) |  | 0.1% | 1.9% |
