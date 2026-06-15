@@ -1,4 +1,4 @@
-## None - Low Impact Forex News
+## 15 June 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
@@ -37,4 +37,4 @@
 | 16:30 | USD | 6-Month Bill Auction | 3.680% |  | 3.690% |
 | 22:00 | KRW | Export Price Index (YoY) (May) | 46.9% |  | 41.3% |
 | 22:00 | KRW | Import Price Index (YoY) (May) | 24.8% |  | 20.5% |
-| 49 min | NZD | FPI (MoM) (May) |  |  | 0.0% |
+| 23:45 | NZD | FPI (MoM) (May) | 1.0% |  | 0.0% |

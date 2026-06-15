@@ -1,4 +1,4 @@
-## None - All Forex News
+## 15 June 2026 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
@@ -49,4 +49,4 @@
 | 16:30 | USD | Low | 6-Month Bill Auction | 3.680% |  | 3.690% |
 | 22:00 | KRW | Low | Export Price Index (YoY) (May) | 46.9% |  | 41.3% |
 | 22:00 | KRW | Low | Import Price Index (YoY) (May) | 24.8% |  | 20.5% |
-| 49 min | NZD | Low | FPI (MoM) (May) |  |  | 0.0% |
+| 23:45 | NZD | Low | FPI (MoM) (May) | 1.0% |  | 0.0% |
