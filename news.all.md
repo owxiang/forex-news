@@ -47,6 +47,6 @@
 | 15:00 | USD | Low | NAHB Housing Market Index (Jun) | 35 | 36 | 37 |
 | 16:30 | USD | Low | 3-Month Bill Auction | 3.640% |  | 3.640% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 3.680% |  | 3.690% |
-| 22:00 | KRW | Low | Export Price Index (YoY) (May) |  |  | 40.8% |
-| 22:00 | KRW | Low | Import Price Index (YoY) (May) |  |  | 20.2% |
-| 23:45 | NZD | Low | FPI (MoM) (May) |  |  | 0.0% |
+| 22:00 | KRW | Low | Export Price Index (YoY) (May) | 46.9% |  | 41.3% |
+| 22:00 | KRW | Low | Import Price Index (YoY) (May) | 24.8% |  | 20.5% |
+| 49 min | NZD | Low | FPI (MoM) (May) |  |  | 0.0% |
