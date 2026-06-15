@@ -9,20 +9,20 @@
 | 01:00 | KRW | Low | Trade Balance (May) | 27.04B | 26.95B | 23.76B |
 | 03:30 | SGD | Low | Unemployment Rate (Q1) | 2.0% |  | 2.0% |
 | 05:30 | JPY | Low | Tertiary Industry Activity Index (Apr) | -10.60 |  | 16.00 |
-| 07:00 | EUR | Low | German WPI (MoM) (May) |  | 0.8% | 2.0% |
-| 07:00 | EUR | Low | German WPI (YoY) (May) |  |  | 6.3% |
-| 07:00 | NOK | Low | Trade Balance (May) |  |  | 84.2B |
-| 07:30 | CHF | Low | PPI (YoY) (May) |  |  | -2.0% |
-| 07:30 | CHF | Moderate | PPI (MoM) (May) |  | 0.4% | 0.8% |
-| 07:30 | INR | Low | WPI Food (YoY) (May) |  |  | 1.98% |
-| 07:30 | INR | Low | WPI Fuel (YoY) (May) |  |  | 24.71% |
-| 07:30 | INR | Moderate | WPI Inflation (YoY) (May) |  | 9.10% | 8.30% |
-| 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (May) |  |  | 4.62% |
-| 08:00 | CHF | Moderate | SECO Consumer Climate (May) |  | -38 | -40 |
+| 07:00 | EUR | Low | German WPI (MoM) (May) | -0.6% | 0.8% | 2.0% |
+| 07:00 | EUR | Low | German WPI (YoY) (May) | 5.9% |  | 6.3% |
+| 07:00 | NOK | Low | Trade Balance (May) | 62.6B |  | 83.6B |
+| 07:30 | CHF | Low | PPI (YoY) (May) | -1.8% |  | -2.0% |
+| 07:30 | CHF | Moderate | PPI (MoM) (May) | -0.4% | 0.4% | 0.8% |
+| 07:30 | INR | Low | WPI Food (YoY) (May) | 4.49% |  | 1.98% |
+| 07:30 | INR | Low | WPI Fuel (YoY) (May) | 30.33% |  | 24.71% |
+| 07:30 | INR | Moderate | WPI Inflation (YoY) (May) | 9.68% | 9.10% | 8.26% |
+| 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (May) | 7.48% |  | 6.68% |
+| 08:00 | CHF | Moderate | SECO Consumer Climate (May) | -38 | -38 | -40 |
 | 08:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 08:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 09:00 | EUR | Low | Italian Trade Balance (Apr) |  | 5.190B | 4.709B |
-| 09:00 | EUR | Low | Italian Trade Balance EU (Apr) |  |  | -1.08B |
+| 09:00 | EUR | Low | Italian Trade Balance (Apr) | 4.293B | 5.190B | 4.709B |
+| 09:00 | EUR | Low | Italian Trade Balance EU (Apr) | 0.32B |  | -0.98B |
 | 10:00 | EUR | Low | Industrial Production (YoY) (Apr) |  |  | -2.1% |
 | 10:00 | EUR | Moderate | Industrial Production (MoM) (Apr) |  | 0.2% | 0.2% |
 | 10:00 | EUR | Moderate | Trade Balance (Apr) |  | 7.8B | 7.8B |

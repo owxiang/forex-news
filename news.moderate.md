@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:30 | CHF | PPI (MoM) (May) |  | 0.4% | 0.8% |
-| 07:30 | INR | WPI Inflation (YoY) (May) |  | 9.10% | 8.30% |
-| 08:00 | CHF | SECO Consumer Climate (May) |  | -38 | -40 |
+| 07:30 | CHF | PPI (MoM) (May) | -0.4% | 0.4% | 0.8% |
+| 07:30 | INR | WPI Inflation (YoY) (May) | 9.68% | 9.10% | 8.26% |
+| 08:00 | CHF | SECO Consumer Climate (May) | -38 | -38 | -40 |
 | 08:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 08:15 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 10:00 | EUR | Industrial Production (MoM) (Apr) |  | 0.2% | 0.2% |

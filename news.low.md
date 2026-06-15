@@ -9,15 +9,15 @@
 | 01:00 | KRW | Trade Balance (May) | 27.04B | 26.95B | 23.76B |
 | 03:30 | SGD | Unemployment Rate (Q1) | 2.0% |  | 2.0% |
 | 05:30 | JPY | Tertiary Industry Activity Index (Apr) | -10.60 |  | 16.00 |
-| 07:00 | EUR | German WPI (MoM) (May) |  | 0.8% | 2.0% |
-| 07:00 | EUR | German WPI (YoY) (May) |  |  | 6.3% |
-| 07:00 | NOK | Trade Balance (May) |  |  | 84.2B |
-| 07:30 | CHF | PPI (YoY) (May) |  |  | -2.0% |
-| 07:30 | INR | WPI Food (YoY) (May) |  |  | 1.98% |
-| 07:30 | INR | WPI Fuel (YoY) (May) |  |  | 24.71% |
-| 07:30 | INR | WPI Manufacturing Inflation (YoY) (May) |  |  | 4.62% |
-| 09:00 | EUR | Italian Trade Balance (Apr) |  | 5.190B | 4.709B |
-| 09:00 | EUR | Italian Trade Balance EU (Apr) |  |  | -1.08B |
+| 07:00 | EUR | German WPI (MoM) (May) | -0.6% | 0.8% | 2.0% |
+| 07:00 | EUR | German WPI (YoY) (May) | 5.9% |  | 6.3% |
+| 07:00 | NOK | Trade Balance (May) | 62.6B |  | 83.6B |
+| 07:30 | CHF | PPI (YoY) (May) | -1.8% |  | -2.0% |
+| 07:30 | INR | WPI Food (YoY) (May) | 4.49% |  | 1.98% |
+| 07:30 | INR | WPI Fuel (YoY) (May) | 30.33% |  | 24.71% |
+| 07:30 | INR | WPI Manufacturing Inflation (YoY) (May) | 7.48% |  | 6.68% |
+| 09:00 | EUR | Italian Trade Balance (Apr) | 4.293B | 5.190B | 4.709B |
+| 09:00 | EUR | Italian Trade Balance EU (Apr) | 0.32B |  | -0.98B |
 | 10:00 | EUR | Industrial Production (YoY) (Apr) |  |  | -2.1% |
 | 10:30 | EUR | German 12-Month Bubill Auction |  |  | 2.482% |
 | 11:00 | EUR | Reserve Assets Total (May) |  |  | 1,888.23B |
