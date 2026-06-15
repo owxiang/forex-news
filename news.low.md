@@ -3,10 +3,12 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | Rightmove House Price Index (MoM) (Jun) | -0.6% |  | 1.2% |
+| 00:01 | GBP | Rightmove House Price Index (YoY) (Jun) | -0.5% |  | -0.3% |
 | 01:00 | KRW | Exports (YoY) (May) | 53.4% | 53.2% | 48.0% |
 | 01:00 | KRW | Imports (YoY) (May) | 20.7% | 20.8% | 16.7% |
 | 01:00 | KRW | Trade Balance (May) | 27.04B | 26.95B | 23.76B |
-| 05:30 | JPY | Tertiary Industry Activity Index (Apr) |  |  | 16.50 |
+| 03:30 | SGD | Unemployment Rate (Q1) | 2.0% |  | 2.0% |
+| 05:30 | JPY | Tertiary Industry Activity Index (Apr) | -10.60 |  | 16.00 |
 | 07:00 | EUR | German WPI (MoM) (May) |  | 0.8% | 2.0% |
 | 07:00 | EUR | German WPI (YoY) (May) |  |  | 6.3% |
 | 07:00 | NOK | Trade Balance (May) |  |  | 84.2B |
@@ -21,7 +23,7 @@
 | 11:00 | EUR | Reserve Assets Total (May) |  |  | 1,888.23B |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:30 | CAD | Capacity Utilization Rate (Q1) |  | 76.2% | 78.5% |
-| 13:30 | CAD | Manufacturing Sales (MoM) (Apr) |  | 4.4% | 3.0% |
+| 13:30 | CAD | Manufacturing Sales (MoM) (Apr) |  | 4.6% | 3.0% |
 | 13:30 | EUR | German 6-Month Bubill Auction |  |  | 2.257% |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.667% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.363% |
