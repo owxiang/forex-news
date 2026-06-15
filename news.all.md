@@ -45,9 +45,9 @@
 | 14:15 | USD | Moderate | Industrial Production (YoY) (May) | 1.67% |  | 1.37% |
 | 14:15 | USD | Low | Manufacturing Production (MoM) (May) | 0.0% |  | 0.7% |
 | 15:00 | USD | Low | NAHB Housing Market Index (Jun) | 35 | 36 | 37 |
-| 41 min | CAD | Low | Capacity Utilization Rate (Q1) |  | 76.2% | 78.5% |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.640% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.690% |
+| 16:30 | USD | Low | 3-Month Bill Auction | 3.640% |  | 3.640% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 3.680% |  | 3.690% |
+| 18:00 | CAD | Low | Capacity Utilization Rate (Q1) |  | 76.2% | 78.5% |
 | 22:00 | KRW | Low | Export Price Index (YoY) (May) |  |  | 40.8% |
 | 22:00 | KRW | Low | Import Price Index (YoY) (May) |  |  | 20.2% |
 | 23:45 | NZD | Low | FPI (MoM) (May) |  |  | 0.0% |

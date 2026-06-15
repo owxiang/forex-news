@@ -33,9 +33,9 @@
 | 14:15 | USD | Capacity Utilization Rate (May) | 76.2% | 76.2% | 76.1% |
 | 14:15 | USD | Manufacturing Production (MoM) (May) | 0.0% |  | 0.7% |
 | 15:00 | USD | NAHB Housing Market Index (Jun) | 35 | 36 | 37 |
-| 41 min | CAD | Capacity Utilization Rate (Q1) |  | 76.2% | 78.5% |
-| 16:30 | USD | 3-Month Bill Auction |  |  | 3.640% |
-| 16:30 | USD | 6-Month Bill Auction |  |  | 3.690% |
+| 16:30 | USD | 3-Month Bill Auction | 3.640% |  | 3.640% |
+| 16:30 | USD | 6-Month Bill Auction | 3.680% |  | 3.690% |
+| 18:00 | CAD | Capacity Utilization Rate (Q1) |  | 76.2% | 78.5% |
 | 22:00 | KRW | Export Price Index (YoY) (May) |  |  | 40.8% |
 | 22:00 | KRW | Import Price Index (YoY) (May) |  |  | 20.2% |
 | 23:45 | NZD | FPI (MoM) (May) |  |  | 0.0% |
