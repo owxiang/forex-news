@@ -3,9 +3,9 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | Rightmove House Price Index (MoM) (Jun) | -0.6% |  | 1.2% |
-| 01:00 | KRW | Exports (YoY) (May) |  | 48.0% | 53.2% |
-| 01:00 | KRW | Imports (YoY) (May) |  | 20.8% | 20.8% |
-| 01:00 | KRW | Trade Balance (May) |  | 26.95B | 26.95B |
+| 01:00 | KRW | Exports (YoY) (May) | 53.4% | 53.2% | 48.0% |
+| 01:00 | KRW | Imports (YoY) (May) | 20.7% | 20.8% | 16.7% |
+| 01:00 | KRW | Trade Balance (May) | 27.04B | 26.95B | 23.76B |
 | 03:30 | SGD | Unemployment Rate (Q2) |  |  | 2.1% |
 | 05:30 | JPY | Tertiary Industry Activity Index (Apr) |  |  | 16.50 |
 | 07:00 | EUR | German WPI (MoM) (May) |  | 0.8% | 2.0% |
