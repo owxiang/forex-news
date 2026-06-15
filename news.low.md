@@ -1,4 +1,4 @@
-## 15 June 2026 - Low Impact Forex News
+## None - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
@@ -35,7 +35,6 @@
 | 15:00 | USD | NAHB Housing Market Index (Jun) | 35 | 36 | 37 |
 | 16:30 | USD | 3-Month Bill Auction | 3.640% |  | 3.640% |
 | 16:30 | USD | 6-Month Bill Auction | 3.680% |  | 3.690% |
-| 18:00 | CAD | Capacity Utilization Rate (Q1) |  | 76.2% | 78.5% |
 | 22:00 | KRW | Export Price Index (YoY) (May) |  |  | 40.8% |
 | 22:00 | KRW | Import Price Index (YoY) (May) |  |  | 20.2% |
 | 23:45 | NZD | FPI (MoM) (May) |  |  | 0.0% |
