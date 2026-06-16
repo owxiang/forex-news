@@ -2,17 +2,17 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 02:30 | CNY | Low | House Prices (YoY) (May) |  |  | -3.5% |
-| 03:00 | CNY | Moderate | Fixed Asset Investment (YoY) (May) |  | -2.3% | -1.6% |
-| 03:00 | CNY | Moderate | Industrial Production (YoY) (May) |  | 4.3% | 4.1% |
-| 03:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (May) |  |  | 5.6% |
-| 03:00 | CNY | Low | Retail Sales (YoY) (May) |  | 0.0% | 0.2% |
-| 03:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (May) |  |  | 1.91% |
-| 03:00 | CNY | Moderate | Chinese Unemployment Rate (May) |  | 5.2% | 5.2% |
+| 02:30 | CNY | Low | House Prices (YoY) (May) | -3.5% |  | -3.5% |
+| 03:00 | CNY | Moderate | Fixed Asset Investment (YoY) (May) | -4.1% | -2.3% | -1.6% |
+| 03:00 | CNY | Moderate | Industrial Production (YoY) (May) | 4.5% | 4.4% | 4.1% |
+| 03:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (May) | 5.4% |  | 5.6% |
+| 03:00 | CNY | Low | Retail Sales (YoY) (May) | -0.6% | -0.3% | 0.2% |
+| 03:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (May) | 1.41% |  | 1.91% |
+| 03:00 | CNY | Moderate | Chinese Unemployment Rate (May) | 5.1% | 5.2% | 5.2% |
 | 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
 | 03:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
-| 04:00 | KRW | Low | M3 Money Supply (Apr) |  |  | 6,142.5B |
-| 04:00 | KRW | Low | M2 Money supply (Apr) |  |  | 7.20% |
+| 04:00 | KRW | Low | M3 Money Supply (Apr) | 6,259.2B |  | 6,140.4B |
+| 04:00 | KRW | Low | M2 Money supply (Apr) | 8.10% |  | 7.00% |
 | 04:00 | JPY | High | BoJ Interest Rate Decision |  | 1.00% | 0.75% |
 | 05:30 | AUD | High | RBA Interest Rate Decision (Jun) |  | 4.35% | 4.35% |
 | 05:30 | AUD | Moderate | RBA Rate Statement |  |  |  |

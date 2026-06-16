@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | CNY | House Prices (YoY) (May) |  |  | -3.5% |
-| 03:00 | CNY | Retail Sales (YoY) (May) |  | 0.0% | 0.2% |
-| 03:00 | CNY | Chinese Retail Sales YTD (YoY) (May) |  |  | 1.91% |
-| 04:00 | KRW | M3 Money Supply (Apr) |  |  | 6,142.5B |
-| 04:00 | KRW | M2 Money supply (Apr) |  |  | 7.20% |
+| 02:30 | CNY | House Prices (YoY) (May) | -3.5% |  | -3.5% |
+| 03:00 | CNY | Retail Sales (YoY) (May) | -0.6% | -0.3% | 0.2% |
+| 03:00 | CNY | Chinese Retail Sales YTD (YoY) (May) | 1.41% |  | 1.91% |
+| 04:00 | KRW | M3 Money Supply (Apr) | 6,259.2B |  | 6,140.4B |
+| 04:00 | KRW | M2 Money supply (Apr) | 8.10% |  | 7.00% |
 | 09:00 | EUR | Italian CPI (MoM) (May) |  | 0.4% | 1.1% |
 | 09:00 | EUR | Italian CPI (YoY) (May) |  | 3.2% | 3.2% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (May) |  |  | 2.6% |

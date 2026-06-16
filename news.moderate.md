@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:00 | CNY | Fixed Asset Investment (YoY) (May) |  | -2.3% | -1.6% |
-| 03:00 | CNY | Industrial Production (YoY) (May) |  | 4.3% | 4.1% |
-| 03:00 | CNY | Chinese Industrial Production YTD (YoY) (May) |  |  | 5.6% |
-| 03:00 | CNY | Chinese Unemployment Rate (May) |  | 5.2% | 5.2% |
+| 03:00 | CNY | Fixed Asset Investment (YoY) (May) | -4.1% | -2.3% | -1.6% |
+| 03:00 | CNY | Industrial Production (YoY) (May) | 4.5% | 4.4% | 4.1% |
+| 03:00 | CNY | Chinese Industrial Production YTD (YoY) (May) | 5.4% |  | 5.6% |
+| 03:00 | CNY | Chinese Unemployment Rate (May) | 5.1% | 5.2% | 5.2% |
 | 03:00 | CNY | NBS Press Conference |  |  |  |
 | 03:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
 | 05:30 | AUD | RBA Rate Statement |  |  |  |
