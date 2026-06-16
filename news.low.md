@@ -21,7 +21,7 @@
 | 13:30 | USD | Export Price Index (YoY) (May) | 11.2% |  | 8.8% |
 | 13:30 | USD | Import Price Index (YoY) (May) | 6.7% |  | 4.2% |
 | 13:30 | CAD | Foreign Securities Purchases by Canadians (Apr) | -11.360B |  | 3.860B |
-| 14 min | USD | Redbook (YoY) |  |  | 9.1% |
-| 16:00 | NZD | GlobalDairyTrade Price Index |  |  | -0.6% |
-| 16:00 | USD | Milk Auctions |  |  | 4,021.0 |
+| 13:55 | USD | Redbook (YoY) | 9.4% |  | 9.1% |
+| 18 min | NZD | GlobalDairyTrade Price Index |  |  | -0.6% |
+| 18 min | USD | Milk Auctions |  |  | 4,021.0 |
 | 23:45 | NZD | Current Account % of GDP (Q1) |  |  | -3.70% |

@@ -24,8 +24,8 @@
 | 13:30 | USD | Housing Starts (MoM) (May) | -15.4% |  | -8.5% |
 | 13:30 | USD | Import Price Index (MoM) (May) | 1.9% | 0.9% | 2.0% |
 | 13:30 | CAD | Foreign Securities Purchases (Apr) | 46.91B | 8.16B | 4.40B |
-| 29 min | EUR | ECB's Lane Speaks |  |  |  |
-| 15:00 | USD | Atlanta Fed GDPNow (Q2) |  | 3.3% | 3.3% |
+| 14:10 | EUR | ECB's Lane Speaks |  |  |  |
+| 18 min | USD | Atlanta Fed GDPNow (Q2) |  | 3.3% | 3.3% |
 | 18:00 | USD | 20-Year Bond Auction |  |  | 5.122% |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | -4.500M | -9.119M |
 | 22:00 | NZD | Westpac Consumer Sentiment (Q2) |  |  | 94.7 |

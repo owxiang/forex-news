@@ -45,11 +45,11 @@
 | 13:30 | USD | Low | Import Price Index (YoY) (May) | 6.7% |  | 4.2% |
 | 13:30 | CAD | Moderate | Foreign Securities Purchases (Apr) | 46.91B | 8.16B | 4.40B |
 | 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Apr) | -11.360B |  | 3.860B |
-| 14 min | USD | Low | Redbook (YoY) |  |  | 9.1% |
-| 29 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 15:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 3.3% | 3.3% |
-| 16:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -0.6% |
-| 16:00 | USD | Low | Milk Auctions |  |  | 4,021.0 |
+| 13:55 | USD | Low | Redbook (YoY) | 9.4% |  | 9.1% |
+| 14:10 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 18 min | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 3.3% | 3.3% |
+| 18 min | NZD | Low | GlobalDairyTrade Price Index |  |  | -0.6% |
+| 18 min | USD | Low | Milk Auctions |  |  | 4,021.0 |
 | 18:00 | USD | Moderate | 20-Year Bond Auction |  |  | 5.122% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -4.500M | -9.119M |
 | 22:00 | NZD | Moderate | Westpac Consumer Sentiment (Q2) |  |  | 94.7 |
