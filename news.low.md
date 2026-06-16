@@ -24,4 +24,4 @@
 | 13:55 | USD | Redbook (YoY) | 9.4% |  | 9.1% |
 | 16:15 | NZD | GlobalDairyTrade Price Index | -2.8% |  | -0.6% |
 | 16:15 | USD | Milk Auctions | 3,979.0 |  | 4,021.0 |
-| 50 min | NZD | Current Account % of GDP (Q1) |  |  | -3.70% |
+| 1 min | NZD | Current Account % of GDP (Q1) |  |  | -3.70% |

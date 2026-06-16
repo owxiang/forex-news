@@ -29,5 +29,5 @@
 | 18:00 | USD | 20-Year Bond Auction | 4.927% |  | 5.122% |
 | 21:30 | USD | API Weekly Crude Oil Stock | -8.330M | -4.500M | -9.119M |
 | 22:00 | NZD | Westpac Consumer Sentiment (Q2) | 80.4 |  | 94.7 |
-| 50 min | NZD | Current Account (QoQ) (Q1) |  | -1.03B | -5.98B |
-| 50 min | NZD | Current Account (YoY) (Q1) |  |  | -16.35B |
+| 1 min | NZD | Current Account (QoQ) (Q1) |  | -1.03B | -5.98B |
+| 1 min | NZD | Current Account (YoY) (Q1) |  |  | -16.35B |
