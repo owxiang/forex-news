@@ -12,17 +12,17 @@
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (May) | 3.0% |  | 2.6% |
 | 09:00 | EUR | Italian HICP (MoM) (May) | 0.3% | 0.4% | 0.4% |
 | 09:00 | EUR | Italian HICP (YoY) (May) | 3.2% | 3.3% | 2.8% |
-| 09:30 | HKD | Unemployment Rate (May) |  |  | 3.7% |
-| 10:00 | CNY | FDI (May) |  |  | -10.30% |
-| 10:00 | EUR | Labor Cost Index (YoY) (Q1) |  | 3.30% | 3.30% |
-| 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.850% |
-| 12:00 | BRL | IGP-10 Inflation Index (MoM) (Jun) |  | 0.3% | 0.9% |
+| 09:30 | HKD | Unemployment Rate (May) | 3.7% |  | 3.7% |
+| 10:00 | GBP | 10-Year Treasury Gilt Auction | 4.858% |  | 5.030% |
+| 10:00 | EUR | Labor Cost Index (YoY) (Q1) | 3.20% | 3.30% | 3.30% |
+| 10:50 | EUR | German 5-Year Bobl Auction | 2.640% |  | 2.850% |
+| 16 min | BRL | IGP-10 Inflation Index (MoM) (Jun) |  | 0.3% | 0.9% |
+| 13:00 | CNY | FDI (May) |  |  | -10.30% |
 | 13:30 | USD | Building Permits (MoM) (May) |  |  | 4.4% |
 | 13:30 | USD | Export Price Index (YoY) (May) |  |  | 8.8% |
 | 13:30 | USD | Import Price Index (YoY) (May) |  |  | 4.2% |
 | 13:30 | CAD | Foreign Securities Purchases by Canadians (Apr) |  |  | 3.900B |
 | 13:55 | USD | Redbook (YoY) |  |  | 9.1% |
-| 14:00 | CAD | Capacity Utilization Rate (Q1) |  | 76.2% | 78.5% |
 | 16:00 | NZD | GlobalDairyTrade Price Index |  |  | -0.6% |
 | 16:00 | USD | Milk Auctions |  |  | 4,021.0 |
 | 23:45 | NZD | Current Account % of GDP (Q1) |  |  | -3.70% |
