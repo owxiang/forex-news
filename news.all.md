@@ -51,8 +51,8 @@
 | 16:15 | USD | Low | Milk Auctions | 3,979.0 |  | 4,021.0 |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 2.8% | 3.3% | 3.3% |
 | 18:00 | USD | Moderate | 20-Year Bond Auction | 4.927% |  | 5.122% |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -4.500M | -9.119M |
-| 22:00 | NZD | Moderate | Westpac Consumer Sentiment (Q2) |  |  | 94.7 |
-| 23:45 | NZD | Moderate | Current Account (QoQ) (Q1) |  | -1.03B | -5.98B |
-| 23:45 | NZD | Moderate | Current Account (YoY) (Q1) |  |  | -16.35B |
-| 23:45 | NZD | Low | Current Account % of GDP (Q1) |  |  | -3.70% |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | -8.330M | -4.500M | -9.119M |
+| 22:00 | NZD | Moderate | Westpac Consumer Sentiment (Q2) | 80.4 |  | 94.7 |
+| 50 min | NZD | Moderate | Current Account (QoQ) (Q1) |  | -1.03B | -5.98B |
+| 50 min | NZD | Moderate | Current Account (YoY) (Q1) |  |  | -16.35B |
+| 50 min | NZD | Low | Current Account % of GDP (Q1) |  |  | -3.70% |
