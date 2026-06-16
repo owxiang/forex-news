@@ -31,23 +31,22 @@
 | 10:00 | EUR | Low | Labor Cost Index (YoY) (Q1) | 3.20% | 3.30% | 3.30% |
 | 10:00 | EUR | Moderate | ZEW Economic Sentiment (Jun) | 9.5 | -7.2 | -9.1 |
 | 10:50 | EUR | Low | German 5-Year Bobl Auction | 2.640% |  | 2.850% |
-| 16 min | BRL | Low | IGP-10 Inflation Index (MoM) (Jun) |  | 0.3% | 0.9% |
-| 13:00 | BRL | Moderate | Retail Sales (YoY) (Apr) |  | 2.0% | 4.0% |
-| 13:00 | BRL | Moderate | Retail Sales (MoM) (Apr) |  | -0.7% | 0.5% |
-| 13:00 | CNY | Low | FDI (May) |  |  | -10.30% |
-| 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 29.00K |
-| 13:30 | USD | Moderate | Building Permits (May) |  | 1.420M | 1.423M |
-| 13:30 | USD | Low | Building Permits (MoM) (May) |  |  | 4.4% |
-| 13:30 | USD | Low | Export Price Index (YoY) (May) |  |  | 8.8% |
-| 13:30 | USD | Moderate | Export Price Index (MoM) (May) |  | 1.2% | 3.3% |
-| 13:30 | USD | Moderate | Housing Starts (MoM) (May) |  |  | -2.8% |
-| 13:30 | USD | Moderate | Housing Starts (May) |  | 1.430M | 1.465M |
-| 13:30 | USD | Moderate | Import Price Index (MoM) (May) |  | 0.9% | 1.9% |
-| 13:30 | USD | Low | Import Price Index (YoY) (May) |  |  | 4.2% |
-| 13:30 | CAD | Moderate | Foreign Securities Purchases (Apr) |  | 8.16B | 4.62B |
-| 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Apr) |  |  | 3.900B |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 9.1% |
-| 14:10 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 12:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Jun) | -0.3% | 0.3% | 0.9% |
+| 13:00 | BRL | Moderate | Retail Sales (YoY) (Apr) | 1.0% | 2.0% | 4.0% |
+| 13:00 | BRL | Moderate | Retail Sales (MoM) (Apr) | -1.5% | -0.6% | 0.7% |
+| 13:15 | USD | Moderate | ADP Employment Change Weekly | 25.50K |  | 29.00K |
+| 13:30 | USD | Moderate | Building Permits (May) | 1.413M | 1.420M | 1.423M |
+| 13:30 | USD | Low | Building Permits (MoM) (May) | -0.7% |  | 4.4% |
+| 13:30 | USD | Low | Export Price Index (YoY) (May) | 11.2% |  | 8.8% |
+| 13:30 | USD | Moderate | Export Price Index (MoM) (May) | 1.3% | 1.2% | 3.5% |
+| 13:30 | USD | Moderate | Housing Starts (May) | 1.177M | 1.430M | 1.392M |
+| 13:30 | USD | Moderate | Housing Starts (MoM) (May) | -15.4% |  | -8.5% |
+| 13:30 | USD | Moderate | Import Price Index (MoM) (May) | 1.9% | 0.9% | 2.0% |
+| 13:30 | USD | Low | Import Price Index (YoY) (May) | 6.7% |  | 4.2% |
+| 13:30 | CAD | Moderate | Foreign Securities Purchases (Apr) | 46.91B | 8.16B | 4.40B |
+| 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Apr) | -11.360B |  | 3.860B |
+| 14 min | USD | Low | Redbook (YoY) |  |  | 9.1% |
+| 29 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 15:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 3.3% | 3.3% |
 | 16:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -0.6% |
 | 16:00 | USD | Low | Milk Auctions |  |  | 4,021.0 |

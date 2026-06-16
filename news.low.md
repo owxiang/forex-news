@@ -16,13 +16,12 @@
 | 10:00 | GBP | 10-Year Treasury Gilt Auction | 4.858% |  | 5.030% |
 | 10:00 | EUR | Labor Cost Index (YoY) (Q1) | 3.20% | 3.30% | 3.30% |
 | 10:50 | EUR | German 5-Year Bobl Auction | 2.640% |  | 2.850% |
-| 16 min | BRL | IGP-10 Inflation Index (MoM) (Jun) |  | 0.3% | 0.9% |
-| 13:00 | CNY | FDI (May) |  |  | -10.30% |
-| 13:30 | USD | Building Permits (MoM) (May) |  |  | 4.4% |
-| 13:30 | USD | Export Price Index (YoY) (May) |  |  | 8.8% |
-| 13:30 | USD | Import Price Index (YoY) (May) |  |  | 4.2% |
-| 13:30 | CAD | Foreign Securities Purchases by Canadians (Apr) |  |  | 3.900B |
-| 13:55 | USD | Redbook (YoY) |  |  | 9.1% |
+| 12:00 | BRL | IGP-10 Inflation Index (MoM) (Jun) | -0.3% | 0.3% | 0.9% |
+| 13:30 | USD | Building Permits (MoM) (May) | -0.7% |  | 4.4% |
+| 13:30 | USD | Export Price Index (YoY) (May) | 11.2% |  | 8.8% |
+| 13:30 | USD | Import Price Index (YoY) (May) | 6.7% |  | 4.2% |
+| 13:30 | CAD | Foreign Securities Purchases by Canadians (Apr) | -11.360B |  | 3.860B |
+| 14 min | USD | Redbook (YoY) |  |  | 9.1% |
 | 16:00 | NZD | GlobalDairyTrade Price Index |  |  | -0.6% |
 | 16:00 | USD | Milk Auctions |  |  | 4,021.0 |
 | 23:45 | NZD | Current Account % of GDP (Q1) |  |  | -3.70% |
