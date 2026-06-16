@@ -20,8 +20,8 @@
 | 13:15 | USD | ADP Employment Change Weekly |  |  | 29.00K |
 | 13:30 | USD | Building Permits (May) |  | 1.420M | 1.423M |
 | 13:30 | USD | Export Price Index (MoM) (May) |  | 1.2% | 3.3% |
-| 13:30 | USD | Housing Starts (MoM) (May) |  |  | -2.8% |
 | 13:30 | USD | Housing Starts (May) |  | 1.430M | 1.465M |
+| 13:30 | USD | Housing Starts (MoM) (May) |  |  | -2.8% |
 | 13:30 | USD | Import Price Index (MoM) (May) |  | 0.9% | 1.9% |
 | 13:30 | CAD | Foreign Securities Purchases (Apr) |  | 8.16B | 4.62B |
 | 14:10 | EUR | ECB's Lane Speaks |  |  |  |

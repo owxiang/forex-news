@@ -17,16 +17,13 @@
 | 05:30 | AUD | High | RBA Interest Rate Decision (Jun) | 4.35% | 4.35% | 4.35% |
 | 05:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
 | 07:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
-| 09:00 | EUR | Low | Italian CPI (MoM) (May) |  | 0.4% | 1.1% |
-| 09:00 | EUR | Low | Italian CPI (YoY) (May) |  | 3.2% | 3.2% |
-| 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (May) |  |  | 2.6% |
-| 09:00 | EUR | Low | Italian HICP (MoM) (May) |  | 0.4% | 0.4% |
-| 09:00 | EUR | Low | Italian HICP (YoY) (May) |  | 3.3% | 2.8% |
+| 09:00 | EUR | Low | Italian CPI (MoM) (May) | 0.4% | 0.4% | 1.1% |
+| 09:00 | EUR | Low | Italian CPI (YoY) (May) | 3.2% | 3.2% | 3.2% |
+| 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (May) | 3.0% |  | 2.6% |
+| 09:00 | EUR | Low | Italian HICP (MoM) (May) | 0.3% | 0.4% | 0.4% |
+| 09:00 | EUR | Low | Italian HICP (YoY) (May) | 3.2% | 3.3% | 2.8% |
 | 09:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 09:30 | HKD | Low | Unemployment Rate (May) |  |  | 3.7% |
-| 10:00 | INR | Low | Exports (USD) (May) |  |  | 43.56B |
-| 10:00 | INR | Low | Imports (USD) (May) |  |  | 71.94B |
-| 10:00 | INR | Low | Trade Balance (May) |  | -27.00B | -28.38B |
 | 10:00 | EUR | Moderate | German ZEW Current Conditions (Jun) |  | -77.5 | -77.8 |
 | 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Jun) |  | -5.8 | -10.2 |
 | 10:00 | CNY | Low | FDI (May) |  |  | -10.30% |
@@ -42,10 +39,10 @@
 | 13:30 | USD | Low | Building Permits (MoM) (May) |  |  | 4.4% |
 | 13:30 | USD | Low | Export Price Index (YoY) (May) |  |  | 8.8% |
 | 13:30 | USD | Moderate | Export Price Index (MoM) (May) |  | 1.2% | 3.3% |
-| 13:30 | USD | Moderate | Housing Starts (MoM) (May) |  |  | -2.8% |
 | 13:30 | USD | Moderate | Housing Starts (May) |  | 1.430M | 1.465M |
-| 13:30 | USD | Low | Import Price Index (YoY) (May) |  |  | 4.2% |
+| 13:30 | USD | Moderate | Housing Starts (MoM) (May) |  |  | -2.8% |
 | 13:30 | USD | Moderate | Import Price Index (MoM) (May) |  | 0.9% | 1.9% |
+| 13:30 | USD | Low | Import Price Index (YoY) (May) |  |  | 4.2% |
 | 13:30 | CAD | Moderate | Foreign Securities Purchases (Apr) |  | 8.16B | 4.62B |
 | 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Apr) |  |  | 3.900B |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 9.1% |

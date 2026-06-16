@@ -7,15 +7,12 @@
 | 03:00 | CNY | Chinese Retail Sales YTD (YoY) (May) | 1.41% |  | 1.91% |
 | 04:00 | KRW | M3 Money Supply (Apr) | 6,259.2B |  | 6,140.4B |
 | 04:00 | KRW | M2 Money supply (Apr) | 8.10% |  | 7.00% |
-| 09:00 | EUR | Italian CPI (MoM) (May) |  | 0.4% | 1.1% |
-| 09:00 | EUR | Italian CPI (YoY) (May) |  | 3.2% | 3.2% |
-| 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (May) |  |  | 2.6% |
-| 09:00 | EUR | Italian HICP (MoM) (May) |  | 0.4% | 0.4% |
-| 09:00 | EUR | Italian HICP (YoY) (May) |  | 3.3% | 2.8% |
+| 09:00 | EUR | Italian CPI (MoM) (May) | 0.4% | 0.4% | 1.1% |
+| 09:00 | EUR | Italian CPI (YoY) (May) | 3.2% | 3.2% | 3.2% |
+| 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (May) | 3.0% |  | 2.6% |
+| 09:00 | EUR | Italian HICP (MoM) (May) | 0.3% | 0.4% | 0.4% |
+| 09:00 | EUR | Italian HICP (YoY) (May) | 3.2% | 3.3% | 2.8% |
 | 09:30 | HKD | Unemployment Rate (May) |  |  | 3.7% |
-| 10:00 | INR | Exports (USD) (May) |  |  | 43.56B |
-| 10:00 | INR | Imports (USD) (May) |  |  | 71.94B |
-| 10:00 | INR | Trade Balance (May) |  | -27.00B | -28.38B |
 | 10:00 | CNY | FDI (May) |  |  | -10.30% |
 | 10:00 | EUR | Labor Cost Index (YoY) (Q1) |  | 3.30% | 3.30% |
 | 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.850% |
