@@ -25,8 +25,8 @@
 | 13:30 | USD | Import Price Index (MoM) (May) | 1.9% | 0.9% | 2.0% |
 | 13:30 | CAD | Foreign Securities Purchases (Apr) | 46.91B | 8.16B | 4.40B |
 | 14:10 | EUR | ECB's Lane Speaks |  |  |  |
-| 18 min | USD | Atlanta Fed GDPNow (Q2) |  | 3.3% | 3.3% |
-| 18:00 | USD | 20-Year Bond Auction |  |  | 5.122% |
+| 17:00 | USD | Atlanta Fed GDPNow (Q2) | 2.8% | 3.3% | 3.3% |
+| 18:00 | USD | 20-Year Bond Auction | 4.927% |  | 5.122% |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | -4.500M | -9.119M |
 | 22:00 | NZD | Westpac Consumer Sentiment (Q2) |  |  | 94.7 |
 | 23:45 | NZD | Current Account (QoQ) (Q1) |  | -1.03B | -5.98B |
