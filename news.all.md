@@ -20,8 +20,8 @@
 | 07:00 | GBP | Low | Core CPI (MoM) (May) | 0.3% | 0.4% | 0.7% |
 | 07:00 | GBP | Low | Core PPI Output (YoY) (May) | 2.3% |  | 2.6% |
 | 07:00 | GBP | Low | Core PPI Output (MoM) (May) | 0.8% | 0.4% | 0.9% |
-| 07:00 | GBP | Low | Core RPI (YoY) (May) | 3.0% |  | 3.0% |
 | 07:00 | GBP | Low | Core RPI (MoM) (May) | 0.2% |  | 0.8% |
+| 07:00 | GBP | Low | Core RPI (YoY) (May) | 3.0% |  | 3.0% |
 | 07:00 | GBP | Moderate | CPI (MoM) (May) | 0.2% | 0.4% | 0.7% |
 | 07:00 | GBP | High | CPI (YoY) (May) | 2.8% | 3.0% | 2.8% |
 | 07:00 | GBP | Low | CPI, n.s.a (May) | 142.40 |  | 142.10 |
@@ -34,8 +34,8 @@
 | 08:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
 | 08:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 09:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 09:00 | ZAR | Low | Core CPI (YoY) (May) | 3.8% |  | 3.6% |
 | 09:00 | ZAR | Low | Core CPI (MoM) (May) | 0.2% |  | 0.5% |
+| 09:00 | ZAR | Low | Core CPI (YoY) (May) | 3.8% |  | 3.6% |
 | 09:00 | ZAR | Low | CPI (YoY) (May) | 4.5% | 4.7% | 4.0% |
 | 09:00 | ZAR | Low | CPI (MoM) (May) | 0.7% |  | 1.1% |
 | 09:30 | GBP | Low | House Price Index (YoY) | 3.8% | 2.8% | 0.0% |
@@ -90,8 +90,7 @@
 | 19:00 | USD | High | FOMC Statement |  |  |  |
 | 19:00 | USD | High | Fed Interest Rate Decision | 3.75% | 3.75% | 3.75% |
 | 19:30 | USD | High | FOMC Press Conference |  |  |  |
-| 22:00 | NZD | Moderate | Westpac Consumer Sentiment (Q2) |  |  | 94.7 |
-| 22:30 | BRL | Moderate | Interest Rate Decision |  | 14.25% | 14.50% |
+| 23:30 | NZD | Moderate | Westpac Consumer Sentiment (Q2) |  |  | 94.7 |
 | 23:45 | NZD | Moderate | GDP (QoQ) (Q1) |  |  | 0.2% |
 | 23:45 | NZD | Low | GDP (YoY) (Q1) |  | 1.1% | 1.3% |
 | 23:45 | NZD | Low | GDP Annual Average (Q1) |  | 0.8% | 0.2% |

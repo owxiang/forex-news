@@ -17,8 +17,8 @@
 | 07:00 | GBP | Core CPI (MoM) (May) | 0.3% | 0.4% | 0.7% |
 | 07:00 | GBP | Core PPI Output (YoY) (May) | 2.3% |  | 2.6% |
 | 07:00 | GBP | Core PPI Output (MoM) (May) | 0.8% | 0.4% | 0.9% |
-| 07:00 | GBP | Core RPI (YoY) (May) | 3.0% |  | 3.0% |
 | 07:00 | GBP | Core RPI (MoM) (May) | 0.2% |  | 0.8% |
+| 07:00 | GBP | Core RPI (YoY) (May) | 3.0% |  | 3.0% |
 | 07:00 | GBP | CPI, n.s.a (May) | 142.40 |  | 142.10 |
 | 07:00 | GBP | PPI Input (YoY) (May) | 8.7% | 8.8% | 7.9% |
 | 07:00 | GBP | PPI Output (YoY) (May) | 4.0% | 4.0% | 4.1% |
@@ -26,8 +26,8 @@
 | 07:00 | GBP | RPI (YoY) (May) | 3.1% | 3.3% | 3.0% |
 | 07:00 | GBP | RPI (MoM) (May) | 0.2% | 0.5% | 0.7% |
 | 08:00 | CHF | SECO Economic Forecasts |  |  |  |
-| 09:00 | ZAR | Core CPI (YoY) (May) | 3.8% |  | 3.6% |
 | 09:00 | ZAR | Core CPI (MoM) (May) | 0.2% |  | 0.5% |
+| 09:00 | ZAR | Core CPI (YoY) (May) | 3.8% |  | 3.6% |
 | 09:00 | ZAR | CPI (YoY) (May) | 4.5% | 4.7% | 4.0% |
 | 09:00 | ZAR | CPI (MoM) (May) | 0.7% |  | 1.1% |
 | 09:30 | GBP | House Price Index (YoY) | 3.8% | 2.8% | 0.0% |
