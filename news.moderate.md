@@ -18,8 +18,8 @@
 | 15:00 | USD | Business Inventories (MoM) (Apr) | 0.5% | 0.5% | 1.0% |
 | 15:00 | USD | Pending Home Sales (MoM) (May) | 3.8% | 0.8% | 0.3% |
 | 15:00 | USD | Retail Inventories Ex Auto (Apr) | 0.6% | 0.6% | 0.6% |
-| 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.801M |
-| 16:30 | USD | Atlanta Fed GDPNow (Q2) |  |  |  |
+| 15:30 | USD | Cushing Crude Oil Inventories | -1.606M |  | -0.801M |
+| 16:00 | USD | Atlanta Fed GDPNow (Q2) | 3.0% | 2.8% | 2.8% |
 | 19:00 | USD | Interest Rate Projection - 1st Yr (Q2) |  |  | 3.1% |
 | 19:00 | USD | Interest Rate Projection - 2nd Yr (Q2) |  |  | 3.1% |
 | 19:00 | USD | Interest Rate Projection - Current (Q2) |  |  | 3.4% |

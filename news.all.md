@@ -70,18 +70,18 @@
 | 15:00 | USD | Moderate | Pending Home Sales (MoM) (May) | 3.8% | 0.8% | 0.3% |
 | 15:00 | USD | Low | Pending Home Sales Index (May) | 76.8 |  | 74.0 |
 | 15:00 | USD | Moderate | Retail Inventories Ex Auto (Apr) | 0.6% | 0.6% | 0.6% |
-| 15:30 | USD | High | Crude Oil Inventories |  | -3.600M | -7.227M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.081M |
-| 15:30 | USD | Low | Crude Oil Imports |  |  | 0.525M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.801M |
-| 15:30 | USD | Low | Distillate Fuel Production |  |  | 0.024M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | -0.200M | -0.200M |
-| 15:30 | USD | Low | Gasoline Production |  |  | 0.296M |
-| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | -0.246M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.6% |
-| 15:30 | USD | Low | Gasoline Inventories |  | -1.400M | 0.186M |
-| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  |  |  |
-| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 2.588B |
+| 15:30 | USD | High | Crude Oil Inventories | -8.263M | -3.600M | -7.227M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.230M |  | 0.081M |
+| 15:30 | USD | Low | Crude Oil Imports | -0.241M |  | 0.525M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | -1.606M |  | -0.801M |
+| 15:30 | USD | Low | Distillate Fuel Production | -0.029M |  | 0.024M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks | 0.951M | -0.200M | -0.200M |
+| 15:30 | USD | Low | Gasoline Production | 0.356M |  | 0.296M |
+| 15:30 | USD | Low | Heating Oil Stockpiles | -0.204M |  | -0.246M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 1.4% |  | 0.6% |
+| 15:30 | USD | Low | Gasoline Inventories | -0.906M | -1.400M | 0.186M |
+| 16:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 3.0% | 2.8% | 2.8% |
+| 18:30 | BRL | Low | Foreign Exchange Flows | 1.542B |  | 2.588B |
 | 19:00 | USD | Moderate | Interest Rate Projection - 1st Yr (Q2) |  |  | 3.1% |
 | 19:00 | USD | Moderate | Interest Rate Projection - 2nd Yr (Q2) |  |  | 3.1% |
 | 19:00 | USD | Moderate | Interest Rate Projection - Current (Q2) |  |  | 3.4% |
