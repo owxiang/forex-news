@@ -90,7 +90,7 @@
 | 19:00 | USD | High | FOMC Statement |  |  |  |
 | 19:00 | USD | High | Fed Interest Rate Decision | 3.75% | 3.75% | 3.75% |
 | 19:30 | USD | High | FOMC Press Conference |  |  |  |
-| 23:30 | NZD | Moderate | Westpac Consumer Sentiment (Q2) |  |  | 94.7 |
+| 22:30 | BRL | Moderate | Interest Rate Decision | 14.25% | 14.25% | 14.50% |
 | 23:45 | NZD | Moderate | GDP (QoQ) (Q1) |  |  | 0.2% |
 | 23:45 | NZD | Low | GDP (YoY) (Q1) |  | 1.1% | 1.3% |
 | 23:45 | NZD | Low | GDP Annual Average (Q1) |  | 0.8% | 0.2% |
