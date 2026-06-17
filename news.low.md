@@ -17,8 +17,8 @@
 | 07:00 | GBP | Core CPI (MoM) (May) | 0.3% | 0.4% | 0.7% |
 | 07:00 | GBP | Core PPI Output (YoY) (May) | 2.3% |  | 2.6% |
 | 07:00 | GBP | Core PPI Output (MoM) (May) | 0.8% | 0.4% | 0.9% |
-| 07:00 | GBP | Core RPI (YoY) (May) | 3.0% |  | 3.0% |
 | 07:00 | GBP | Core RPI (MoM) (May) | 0.2% |  | 0.8% |
+| 07:00 | GBP | Core RPI (YoY) (May) | 3.0% |  | 3.0% |
 | 07:00 | GBP | CPI, n.s.a (May) | 142.40 |  | 142.10 |
 | 07:00 | GBP | PPI Input (YoY) (May) | 8.7% | 8.8% | 7.9% |
 | 07:00 | GBP | PPI Output (YoY) (May) | 4.0% | 4.0% | 4.1% |
@@ -26,8 +26,8 @@
 | 07:00 | GBP | RPI (YoY) (May) | 3.1% | 3.3% | 3.0% |
 | 07:00 | GBP | RPI (MoM) (May) | 0.2% | 0.5% | 0.7% |
 | 08:00 | CHF | SECO Economic Forecasts |  |  |  |
-| 09:00 | ZAR | Core CPI (YoY) (May) | 3.8% |  | 3.6% |
 | 09:00 | ZAR | Core CPI (MoM) (May) | 0.2% |  | 0.5% |
+| 09:00 | ZAR | Core CPI (YoY) (May) | 3.8% |  | 3.6% |
 | 09:00 | ZAR | CPI (YoY) (May) | 4.5% | 4.7% | 4.0% |
 | 09:00 | ZAR | CPI (MoM) (May) | 0.7% |  | 1.1% |
 | 09:30 | GBP | House Price Index (YoY) | 3.8% | 2.8% | 0.0% |
@@ -38,17 +38,15 @@
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (May) | 2.3% | 2.3% | 2.1% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (May) | 0.3% | 0.3% | 0.8% |
 | 10:30 | EUR | German 30-Year Bund Auction | 3.490% |  | 3.500% |
-| 21 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.60% |
-| 21 min | USD | MBA Mortgage Applications (WoW) |  |  | 10.8% |
-| 21 min | USD | MBA Purchase Index |  |  | 176.9 |
-| 21 min | USD | Mortgage Market Index |  |  | 280.1 |
-| 21 min | USD | Mortgage Refinance Index |  |  | 848.7 |
-| 21 min | ZAR | Retail Sales (YoY) (Apr) |  |  | 2.6% |
-| 51 min | INR | M3 Money Supply |  |  | 12.0% |
-| 13:00 | BRL | IBC-Br Economic Activity (Apr) |  | 0.60% | -0.70% |
-| 13:00 | CNY | FDI (May) |  |  | -10.30% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.60% |  | 6.60% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | -3.8% |  | 10.8% |
+| 12:00 | USD | MBA Purchase Index | 170.8 |  | 176.9 |
+| 12:00 | USD | Mortgage Market Index | 269.5 |  | 280.1 |
+| 12:00 | USD | Mortgage Refinance Index | 810.2 |  | 848.7 |
+| 12:00 | ZAR | Retail Sales (YoY) (Apr) | 1.3% |  | 2.5% |
+| 13:00 | BRL | IBC-Br Economic Activity (Apr) | 0.50% | 0.60% | -0.70% |
 | 13:30 | USD | Retail Sales (YoY) (May) |  |  | 4.87% |
-| 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (May) |  |  | 0.5% |
+| 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (May) | 0.5% |  | 0.5% |
 | 15:00 | USD | Pending Home Sales Index (May) |  |  | 74.8 |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.081M |
 | 15:30 | USD | Crude Oil Imports |  |  | 0.525M |
