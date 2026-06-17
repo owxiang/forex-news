@@ -16,32 +16,33 @@
 | 02:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
 | 04:00 | NZD | Low | RBNZ Offshore Holdings (May) | 57.50% |  | 57.10% |
 | 07:00 | GBP | Low | Core CPI (YoY) (May) |  | 2.7% | 2.5% |
-| 07:00 | GBP | Low | Core CPI (MoM) (May) |  |  | 0.7% |
+| 07:00 | GBP | Low | Core CPI (MoM) (May) |  | 0.4% | 0.7% |
 | 07:00 | GBP | Low | Core PPI Output (YoY) (May) |  |  | 2.4% |
 | 07:00 | GBP | Low | Core PPI Output (MoM) (May) |  | 0.4% | 0.7% |
 | 07:00 | GBP | Low | Core RPI (YoY) (May) |  |  | 3.0% |
 | 07:00 | GBP | Low | Core RPI (MoM) (May) |  |  | 0.8% |
-| 07:00 | GBP | Moderate | CPI (MoM) (May) |  | 0.4% | 0.7% |
 | 07:00 | GBP | High | CPI (YoY) (May) |  | 3.0% | 2.8% |
+| 07:00 | GBP | Moderate | CPI (MoM) (May) |  | 0.4% | 0.7% |
 | 07:00 | GBP | Low | CPI, n.s.a (May) |  |  | 142.10 |
-| 07:00 | GBP | Moderate | PPI Input (MoM) (May) |  | 0.5% | 2.4% |
 | 07:00 | GBP | Low | PPI Input (YoY) (May) |  | 8.8% | 7.7% |
-| 07:00 | GBP | Low | PPI Output (YoY) (May) |  | 4.0% | 4.0% |
+| 07:00 | GBP | Moderate | PPI Input (MoM) (May) |  | 0.5% | 2.4% |
 | 07:00 | GBP | Low | PPI Output (MoM) (May) |  | 0.5% | 1.4% |
-| 07:00 | GBP | Low | RPI (YoY) (May) |  | 3.3% | 3.0% |
+| 07:00 | GBP | Low | PPI Output (YoY) (May) |  | 4.0% | 4.0% |
 | 07:00 | GBP | Low | RPI (MoM) (May) |  | 0.5% | 0.7% |
+| 07:00 | GBP | Low | RPI (YoY) (May) |  | 3.3% | 3.0% |
 | 08:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
+| 08:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 09:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 09:00 | ZAR | Low | Core CPI (MoM) (May) |  |  | 0.5% |
 | 09:00 | ZAR | Low | Core CPI (YoY) (May) |  |  | 3.6% |
 | 09:00 | ZAR | Low | CPI (MoM) (May) |  |  | 1.1% |
-| 09:00 | ZAR | Low | CPI (YoY) (May) |  |  | 4.0% |
+| 09:00 | ZAR | Low | CPI (YoY) (May) |  | 4.7% | 4.0% |
 | 09:30 | GBP | Low | House Price Index (YoY) |  | 2.8% | 0.0% |
 | 10:00 | USD | Moderate | IEA Monthly Report |  |  |  |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (May) |  | 2.5% | 2.2% |
 | 10:00 | EUR | Low | Core CPI (MoM) (May) |  | 0.3% | 0.9% |
-| 10:00 | EUR | Moderate | CPI (MoM) (May) |  | 0.1% | 1.0% |
 | 10:00 | EUR | High | CPI (YoY) (May) |  | 3.2% | 3.0% |
+| 10:00 | EUR | Moderate | CPI (MoM) (May) |  | 0.1% | 1.0% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (May) |  |  | 1.0% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (May) |  |  | 3.0% |
 | 10:00 | EUR | Low | CPI, n.s.a (May) |  | 103.15 | 103.04 |
@@ -68,8 +69,8 @@
 | 15:00 | USD | Moderate | Business Inventories (MoM) (Apr) |  | 0.5% | 0.9% |
 | 15:00 | USD | Moderate | Pending Home Sales (MoM) (May) |  | 0.8% | 1.4% |
 | 15:00 | USD | Low | Pending Home Sales Index (May) |  |  | 74.8 |
-| 15:00 | USD | Moderate | Retail Inventories Ex Auto (Apr) |  | 0.6% | 0.6% |
-| 15:30 | USD | High | Crude Oil Inventories |  | -4.500M | -7.227M |
+| 15:00 | USD | Moderate | Retail Inventories Ex Auto (Apr) |  | 0.6% | 0.4% |
+| 15:30 | USD | High | Crude Oil Inventories |  | -3.600M | -7.227M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.081M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 0.525M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.801M |

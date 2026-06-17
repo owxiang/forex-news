@@ -13,22 +13,22 @@
 | 02:30 | AUD | RBA Chart Pack Release |  |  |  |
 | 04:00 | NZD | RBNZ Offshore Holdings (May) | 57.50% |  | 57.10% |
 | 07:00 | GBP | Core CPI (YoY) (May) |  | 2.7% | 2.5% |
-| 07:00 | GBP | Core CPI (MoM) (May) |  |  | 0.7% |
+| 07:00 | GBP | Core CPI (MoM) (May) |  | 0.4% | 0.7% |
 | 07:00 | GBP | Core PPI Output (YoY) (May) |  |  | 2.4% |
 | 07:00 | GBP | Core PPI Output (MoM) (May) |  | 0.4% | 0.7% |
 | 07:00 | GBP | Core RPI (YoY) (May) |  |  | 3.0% |
 | 07:00 | GBP | Core RPI (MoM) (May) |  |  | 0.8% |
 | 07:00 | GBP | CPI, n.s.a (May) |  |  | 142.10 |
 | 07:00 | GBP | PPI Input (YoY) (May) |  | 8.8% | 7.7% |
-| 07:00 | GBP | PPI Output (YoY) (May) |  | 4.0% | 4.0% |
 | 07:00 | GBP | PPI Output (MoM) (May) |  | 0.5% | 1.4% |
-| 07:00 | GBP | RPI (YoY) (May) |  | 3.3% | 3.0% |
+| 07:00 | GBP | PPI Output (YoY) (May) |  | 4.0% | 4.0% |
 | 07:00 | GBP | RPI (MoM) (May) |  | 0.5% | 0.7% |
+| 07:00 | GBP | RPI (YoY) (May) |  | 3.3% | 3.0% |
 | 08:00 | CHF | SECO Economic Forecasts |  |  |  |
 | 09:00 | ZAR | Core CPI (MoM) (May) |  |  | 0.5% |
 | 09:00 | ZAR | Core CPI (YoY) (May) |  |  | 3.6% |
 | 09:00 | ZAR | CPI (MoM) (May) |  |  | 1.1% |
-| 09:00 | ZAR | CPI (YoY) (May) |  |  | 4.0% |
+| 09:00 | ZAR | CPI (YoY) (May) |  | 4.7% | 4.0% |
 | 09:30 | GBP | House Price Index (YoY) |  | 2.8% | 0.0% |
 | 10:00 | EUR | Core CPI (MoM) (May) |  | 0.3% | 0.9% |
 | 10:00 | EUR | CPI ex Tobacco (MoM) (May) |  |  | 1.0% |
