@@ -20,8 +20,8 @@
 | 07:00 | GBP | Low | Core CPI (MoM) (May) | 0.3% | 0.4% | 0.7% |
 | 07:00 | GBP | Low | Core PPI Output (YoY) (May) | 2.3% |  | 2.6% |
 | 07:00 | GBP | Low | Core PPI Output (MoM) (May) | 0.8% | 0.4% | 0.9% |
-| 07:00 | GBP | Low | Core RPI (MoM) (May) | 0.2% |  | 0.8% |
 | 07:00 | GBP | Low | Core RPI (YoY) (May) | 3.0% |  | 3.0% |
+| 07:00 | GBP | Low | Core RPI (MoM) (May) | 0.2% |  | 0.8% |
 | 07:00 | GBP | Moderate | CPI (MoM) (May) | 0.2% | 0.4% | 0.7% |
 | 07:00 | GBP | High | CPI (YoY) (May) | 2.8% | 3.0% | 2.8% |
 | 07:00 | GBP | Low | CPI, n.s.a (May) | 142.40 |  | 142.10 |
@@ -34,8 +34,8 @@
 | 08:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
 | 08:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 09:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 09:00 | ZAR | Low | Core CPI (MoM) (May) | 0.2% |  | 0.5% |
 | 09:00 | ZAR | Low | Core CPI (YoY) (May) | 3.8% |  | 3.6% |
+| 09:00 | ZAR | Low | Core CPI (MoM) (May) | 0.2% |  | 0.5% |
 | 09:00 | ZAR | Low | CPI (YoY) (May) | 4.5% | 4.7% | 4.0% |
 | 09:00 | ZAR | Low | CPI (MoM) (May) | 0.7% |  | 1.1% |
 | 09:30 | GBP | Low | House Price Index (YoY) | 3.8% | 2.8% | 0.0% |
@@ -57,18 +57,19 @@
 | 12:00 | USD | Low | Mortgage Market Index | 269.5 |  | 280.1 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 810.2 |  | 848.7 |
 | 12:00 | ZAR | Low | Retail Sales (YoY) (Apr) | 1.3% |  | 2.5% |
+| 12:30 | INR | Low | M3 Money Supply |  |  | 12.0% |
 | 13:00 | BRL | Low | IBC-Br Economic Activity (Apr) | 0.50% | 0.60% | -0.70% |
 | 13:30 | USD | High | Core Retail Sales (MoM) (May) | 0.8% | 0.6% | 0.7% |
 | 13:30 | USD | Moderate | Retail Control (MoM) (May) | 0.7% | 0.4% | 0.5% |
+| 13:30 | USD | Low | Retail Sales (YoY) (May) | 6.88% |  | 4.79% |
 | 13:30 | USD | High | Retail Sales (MoM) (May) | 0.9% | 0.5% | 0.4% |
-| 13:30 | USD | Low | Retail Sales (YoY) (May) |  |  | 4.87% |
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (May) | 0.5% |  | 0.5% |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (May) | -0.3% | -0.1% | -0.4% |
 | 14:30 | USD | High | U.S. President Trump Speaks |  |  |  |
-| 15:00 | USD | Moderate | Business Inventories (MoM) (Apr) |  | 0.5% | 0.9% |
-| 15:00 | USD | Moderate | Pending Home Sales (MoM) (May) |  | 0.8% | 1.4% |
-| 15:00 | USD | Low | Pending Home Sales Index (May) |  |  | 74.8 |
-| 15:00 | USD | Moderate | Retail Inventories Ex Auto (Apr) |  | 0.6% | 0.4% |
+| 15:00 | USD | Moderate | Business Inventories (MoM) (Apr) | 0.5% | 0.5% | 1.0% |
+| 15:00 | USD | Moderate | Pending Home Sales (MoM) (May) | 3.8% | 0.8% | 0.3% |
+| 15:00 | USD | Low | Pending Home Sales Index (May) | 76.8 |  | 74.0 |
+| 15:00 | USD | Moderate | Retail Inventories Ex Auto (Apr) | 0.6% | 0.6% | 0.6% |
 | 15:30 | USD | High | Crude Oil Inventories |  | -3.600M | -7.227M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.081M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 0.525M |

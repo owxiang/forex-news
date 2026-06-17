@@ -15,9 +15,9 @@
 | 11:50 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 13:30 | USD | Retail Control (MoM) (May) | 0.7% | 0.4% | 0.5% |
 | 13:30 | CAD | New Housing Price Index (MoM) (May) | -0.3% | -0.1% | -0.4% |
-| 15:00 | USD | Business Inventories (MoM) (Apr) |  | 0.5% | 0.9% |
-| 15:00 | USD | Pending Home Sales (MoM) (May) |  | 0.8% | 1.4% |
-| 15:00 | USD | Retail Inventories Ex Auto (Apr) |  | 0.6% | 0.4% |
+| 15:00 | USD | Business Inventories (MoM) (Apr) | 0.5% | 0.5% | 1.0% |
+| 15:00 | USD | Pending Home Sales (MoM) (May) | 3.8% | 0.8% | 0.3% |
+| 15:00 | USD | Retail Inventories Ex Auto (Apr) | 0.6% | 0.6% | 0.6% |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.801M |
 | 16:30 | USD | Atlanta Fed GDPNow (Q2) |  |  |  |
 | 19:00 | USD | Interest Rate Projection - 1st Yr (Q2) |  |  | 3.1% |
