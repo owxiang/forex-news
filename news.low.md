@@ -1,27 +1,63 @@
-## 16 June 2026 - Low Impact Forex News
+## 17 June 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | CNY | House Prices (YoY) (May) | -3.5% |  | -3.5% |
-| 03:00 | CNY | Retail Sales (YoY) (May) | -0.6% | -0.3% | 0.2% |
-| 03:00 | CNY | Chinese Retail Sales YTD (YoY) (May) | 1.41% |  | 1.91% |
-| 04:00 | KRW | M3 Money Supply (Apr) | 6,259.2B |  | 6,140.4B |
-| 04:00 | KRW | M2 Money supply (Apr) | 8.10% |  | 7.00% |
-| 09:00 | EUR | Italian CPI (MoM) (May) | 0.4% | 0.4% | 1.1% |
-| 09:00 | EUR | Italian CPI (YoY) (May) | 3.2% | 3.2% | 3.2% |
-| 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (May) | 3.0% |  | 2.6% |
-| 09:00 | EUR | Italian HICP (MoM) (May) | 0.3% | 0.4% | 0.4% |
-| 09:00 | EUR | Italian HICP (YoY) (May) | 3.2% | 3.3% | 2.8% |
-| 09:30 | HKD | Unemployment Rate (May) | 3.7% |  | 3.7% |
-| 10:00 | GBP | 10-Year Treasury Gilt Auction | 4.858% |  | 5.030% |
-| 10:00 | EUR | Labor Cost Index (YoY) (Q1) | 3.20% | 3.30% | 3.30% |
-| 10:50 | EUR | German 5-Year Bobl Auction | 2.640% |  | 2.850% |
-| 12:00 | BRL | IGP-10 Inflation Index (MoM) (Jun) | -0.3% | 0.3% | 0.9% |
-| 13:30 | USD | Building Permits (MoM) (May) | -0.7% |  | 4.4% |
-| 13:30 | USD | Export Price Index (YoY) (May) | 11.2% |  | 8.8% |
-| 13:30 | USD | Import Price Index (YoY) (May) | 6.7% |  | 4.2% |
-| 13:30 | CAD | Foreign Securities Purchases by Canadians (Apr) | -11.360B |  | 3.860B |
-| 13:55 | USD | Redbook (YoY) | 9.4% |  | 9.1% |
-| 16:15 | NZD | GlobalDairyTrade Price Index | -2.8% |  | -0.6% |
-| 16:15 | USD | Milk Auctions | 3,979.0 |  | 4,021.0 |
-| 1 min | NZD | Current Account % of GDP (Q1) |  |  | -3.70% |
+| 00:00 | JPY | Reuters Tankan Index (Jun) | 13 |  | 8 |
+| 00:50 | JPY | Core Machinery Orders (MoM) (Apr) | 8.7% | 1.2% | -9.4% |
+| 00:50 | JPY | Core Machinery Orders (YoY) (Apr) | 15.6% | 9.3% | 5.9% |
+| 00:50 | JPY | Imports (YoY) (May) | 12.5% | 12.8% | 9.8% |
+| 01:30 | SGD | Non-Oil Exports (MoM) (May) | 7.70% |  | 11.00% |
+| 01:30 | SGD | Non-Oil Exports (YoY) (May) | 38.40% | 30.00% | 24.40% |
+| 02:00 | AUD | MI Leading Index (MoM) (May) | -0.0% |  | 0.1% |
+| 02:30 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
+| 02:30 | AUD | RBA Chart Pack Release |  |  |  |
+| 04:00 | NZD | RBNZ Offshore Holdings (May) | 57.50% |  | 57.10% |
+| 07:00 | GBP | Core CPI (YoY) (May) |  | 2.7% | 2.5% |
+| 07:00 | GBP | Core CPI (MoM) (May) |  |  | 0.7% |
+| 07:00 | GBP | Core PPI Output (YoY) (May) |  |  | 2.4% |
+| 07:00 | GBP | Core PPI Output (MoM) (May) |  | 0.4% | 0.7% |
+| 07:00 | GBP | Core RPI (YoY) (May) |  |  | 3.0% |
+| 07:00 | GBP | Core RPI (MoM) (May) |  |  | 0.8% |
+| 07:00 | GBP | CPI, n.s.a (May) |  |  | 142.10 |
+| 07:00 | GBP | PPI Input (YoY) (May) |  | 8.8% | 7.7% |
+| 07:00 | GBP | PPI Output (YoY) (May) |  | 4.0% | 4.0% |
+| 07:00 | GBP | PPI Output (MoM) (May) |  | 0.5% | 1.4% |
+| 07:00 | GBP | RPI (YoY) (May) |  | 3.3% | 3.0% |
+| 07:00 | GBP | RPI (MoM) (May) |  | 0.5% | 0.7% |
+| 08:00 | CHF | SECO Economic Forecasts |  |  |  |
+| 09:00 | ZAR | Core CPI (MoM) (May) |  |  | 0.5% |
+| 09:00 | ZAR | Core CPI (YoY) (May) |  |  | 3.6% |
+| 09:00 | ZAR | CPI (MoM) (May) |  |  | 1.1% |
+| 09:00 | ZAR | CPI (YoY) (May) |  |  | 4.0% |
+| 09:30 | GBP | House Price Index (YoY) |  | 2.8% | 0.0% |
+| 10:00 | EUR | Core CPI (MoM) (May) |  | 0.3% | 0.9% |
+| 10:00 | EUR | CPI ex Tobacco (MoM) (May) |  |  | 1.0% |
+| 10:00 | EUR | CPI ex Tobacco (YoY) (May) |  |  | 3.0% |
+| 10:00 | EUR | CPI, n.s.a (May) |  | 103.15 | 103.04 |
+| 10:00 | EUR | HICP ex Energy & Food (YoY) (May) |  | 2.3% | 2.1% |
+| 10:00 | EUR | HICP ex Energy and Food (MoM) (May) |  | 0.3% | 0.8% |
+| 10:30 | EUR | German 30-Year Bund Auction |  |  | 3.500% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.60% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 10.8% |
+| 12:00 | USD | MBA Purchase Index |  |  | 176.9 |
+| 12:00 | USD | Mortgage Market Index |  |  | 280.1 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 848.7 |
+| 12:00 | ZAR | Retail Sales (YoY) (Apr) |  |  | 2.6% |
+| 12:30 | INR | M3 Money Supply |  |  | 12.0% |
+| 13:00 | BRL | IBC-Br Economic Activity (Apr) |  | 0.60% | -0.70% |
+| 13:00 | CNY | FDI (May) |  |  | -10.30% |
+| 13:30 | USD | Retail Sales (YoY) (May) |  |  | 4.87% |
+| 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (May) |  |  | 0.5% |
+| 15:00 | USD | Pending Home Sales Index (May) |  |  | 74.8 |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.081M |
+| 15:30 | USD | Crude Oil Imports |  |  | 0.525M |
+| 15:30 | USD | Distillate Fuel Production |  |  | 0.024M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  | -0.200M | -0.200M |
+| 15:30 | USD | Gasoline Production |  |  | 0.296M |
+| 15:30 | USD | Heating Oil Stockpiles |  |  | -0.246M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.6% |
+| 15:30 | USD | Gasoline Inventories |  | -1.400M | 0.186M |
+| 18:30 | BRL | Foreign Exchange Flows |  |  | 2.588B |
+| 23:45 | NZD | GDP (YoY) (Q1) |  | 1.1% | 1.3% |
+| 23:45 | NZD | GDP Annual Average (Q1) |  | 0.8% | 0.2% |
+| 23:45 | NZD | GDP Expenditure (QoQ) (Q1) |  |  | 0.1% |
