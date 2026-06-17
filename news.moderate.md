@@ -5,13 +5,13 @@
 | 00:50 | JPY | Adjusted Trade Balance | -0.09T | -0.21T | 0.20T |
 | 00:50 | JPY | Exports (YoY) (May) | 17.0% | 16.2% | 14.8% |
 | 00:50 | JPY | Trade Balance (May) | -378.7B | -564.6B | 299.3B |
-| 07:00 | GBP | CPI (MoM) (May) |  | 0.4% | 0.7% |
-| 07:00 | GBP | PPI Input (MoM) (May) |  | 0.5% | 2.4% |
+| 07:00 | GBP | CPI (MoM) (May) | 0.2% | 0.4% | 0.7% |
+| 07:00 | GBP | PPI Input (MoM) (May) | 0.2% | 0.5% | 2.6% |
 | 08:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 09:00 | EUR | German Buba Balz Speaks |  |  |  |
-| 10:00 | USD | IEA Monthly Report |  |  |  |
-| 10:00 | EUR | Core CPI (YoY) (May) |  | 2.5% | 2.2% |
-| 10:00 | EUR | CPI (MoM) (May) |  | 0.1% | 1.0% |
+| 56 min | USD | IEA Monthly Report |  |  |  |
+| 56 min | EUR | Core CPI (YoY) (May) |  | 2.5% | 2.2% |
+| 56 min | EUR | CPI (MoM) (May) |  | 0.1% | 1.0% |
 | 11:50 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 13:30 | USD | Retail Control (MoM) (May) |  | 0.4% | 0.5% |
 | 13:30 | CAD | New Housing Price Index (MoM) (May) |  | -0.1% | -0.4% |
