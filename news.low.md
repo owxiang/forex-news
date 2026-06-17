@@ -52,11 +52,11 @@
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) | 0.230M |  | 0.081M |
 | 15:30 | USD | Crude Oil Imports | -0.241M |  | 0.525M |
 | 15:30 | USD | Distillate Fuel Production | -0.029M |  | 0.024M |
-| 15:30 | USD | EIA Weekly Distillates Stocks | 0.951M | -0.200M | -0.200M |
+| 15:30 | USD | EIA Weekly Distillates Stocks | 0.951M | -0.500M | -0.200M |
 | 15:30 | USD | Gasoline Production | 0.356M |  | 0.296M |
 | 15:30 | USD | Heating Oil Stockpiles | -0.204M |  | -0.246M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 1.4% |  | 0.6% |
-| 15:30 | USD | Gasoline Inventories | -0.906M | -1.400M | 0.186M |
+| 15:30 | USD | Gasoline Inventories | -0.906M | -1.000M | 0.186M |
 | 18:30 | BRL | Foreign Exchange Flows | 1.542B |  | 2.588B |
 | 23:45 | NZD | GDP (YoY) (Q1) |  | 1.1% | 1.3% |
 | 23:45 | NZD | GDP Annual Average (Q1) |  | 0.8% | 0.2% |

@@ -20,10 +20,10 @@
 | 15:00 | USD | Retail Inventories Ex Auto (Apr) | 0.6% | 0.6% | 0.6% |
 | 15:30 | USD | Cushing Crude Oil Inventories | -1.606M |  | -0.801M |
 | 16:00 | USD | Atlanta Fed GDPNow (Q2) | 3.0% | 2.8% | 2.8% |
-| 19:00 | USD | Interest Rate Projection - 1st Yr (Q2) |  |  | 3.1% |
-| 19:00 | USD | Interest Rate Projection - 2nd Yr (Q2) |  |  | 3.1% |
-| 19:00 | USD | Interest Rate Projection - Current (Q2) |  |  | 3.4% |
-| 19:00 | USD | Interest Rate Projection - Longer (Q2) |  |  | 3.1% |
+| 19:00 | USD | Interest Rate Projection - 1st Yr (Q2) | 3.6% |  | 3.1% |
+| 19:00 | USD | Interest Rate Projection - 2nd Yr (Q2) | 3.4% |  | 3.1% |
+| 19:00 | USD | Interest Rate Projection - Current (Q2) | 3.8% |  | 3.4% |
+| 19:00 | USD | Interest Rate Projection - Longer (Q2) | 3.1% |  | 3.1% |
 | 22:00 | NZD | Westpac Consumer Sentiment (Q2) |  |  | 94.7 |
 | 22:30 | BRL | Interest Rate Decision |  | 14.25% | 14.50% |
 | 23:45 | NZD | GDP (QoQ) (Q1) |  |  | 0.2% |

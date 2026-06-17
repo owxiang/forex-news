@@ -61,11 +61,10 @@
 | 13:00 | BRL | Low | IBC-Br Economic Activity (Apr) | 0.50% | 0.60% | -0.70% |
 | 13:30 | USD | High | Core Retail Sales (MoM) (May) | 0.8% | 0.6% | 0.7% |
 | 13:30 | USD | Moderate | Retail Control (MoM) (May) | 0.7% | 0.4% | 0.5% |
-| 13:30 | USD | Low | Retail Sales (YoY) (May) | 6.88% |  | 4.79% |
 | 13:30 | USD | High | Retail Sales (MoM) (May) | 0.9% | 0.5% | 0.4% |
+| 13:30 | USD | Low | Retail Sales (YoY) (May) | 6.88% |  | 4.79% |
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (May) | 0.5% |  | 0.5% |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (May) | -0.3% | -0.1% | -0.4% |
-| 14:30 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 15:00 | USD | Moderate | Business Inventories (MoM) (Apr) | 0.5% | 0.5% | 1.0% |
 | 15:00 | USD | Moderate | Pending Home Sales (MoM) (May) | 3.8% | 0.8% | 0.3% |
 | 15:00 | USD | Low | Pending Home Sales Index (May) | 76.8 |  | 74.0 |
@@ -75,20 +74,21 @@
 | 15:30 | USD | Low | Crude Oil Imports | -0.241M |  | 0.525M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories | -1.606M |  | -0.801M |
 | 15:30 | USD | Low | Distillate Fuel Production | -0.029M |  | 0.024M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks | 0.951M | -0.200M | -0.200M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks | 0.951M | -0.500M | -0.200M |
 | 15:30 | USD | Low | Gasoline Production | 0.356M |  | 0.296M |
 | 15:30 | USD | Low | Heating Oil Stockpiles | -0.204M |  | -0.246M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 1.4% |  | 0.6% |
-| 15:30 | USD | Low | Gasoline Inventories | -0.906M | -1.400M | 0.186M |
+| 15:30 | USD | Low | Gasoline Inventories | -0.906M | -1.000M | 0.186M |
+| 15:45 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 16:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 3.0% | 2.8% | 2.8% |
 | 18:30 | BRL | Low | Foreign Exchange Flows | 1.542B |  | 2.588B |
-| 19:00 | USD | Moderate | Interest Rate Projection - 1st Yr (Q2) |  |  | 3.1% |
-| 19:00 | USD | Moderate | Interest Rate Projection - 2nd Yr (Q2) |  |  | 3.1% |
-| 19:00 | USD | Moderate | Interest Rate Projection - Current (Q2) |  |  | 3.4% |
-| 19:00 | USD | Moderate | Interest Rate Projection - Longer (Q2) |  |  | 3.1% |
+| 19:00 | USD | Moderate | Interest Rate Projection - 1st Yr (Q2) | 3.6% |  | 3.1% |
+| 19:00 | USD | Moderate | Interest Rate Projection - 2nd Yr (Q2) | 3.4% |  | 3.1% |
+| 19:00 | USD | Moderate | Interest Rate Projection - Current (Q2) | 3.8% |  | 3.4% |
+| 19:00 | USD | Moderate | Interest Rate Projection - Longer (Q2) | 3.1% |  | 3.1% |
 | 19:00 | USD | High | FOMC Economic Projections |  |  |  |
 | 19:00 | USD | High | FOMC Statement |  |  |  |
-| 19:00 | USD | High | Fed Interest Rate Decision |  | 3.75% | 3.75% |
+| 19:00 | USD | High | Fed Interest Rate Decision | 3.75% | 3.75% | 3.75% |
 | 19:30 | USD | High | FOMC Press Conference |  |  |  |
 | 22:00 | NZD | Moderate | Westpac Consumer Sentiment (Q2) |  |  | 94.7 |
 | 22:30 | BRL | Moderate | Interest Rate Decision |  | 14.25% | 14.50% |
