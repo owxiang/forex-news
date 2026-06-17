@@ -38,26 +38,26 @@
 | 09:00 | ZAR | Low | Core CPI (MoM) (May) | 0.2% |  | 0.5% |
 | 09:00 | ZAR | Low | CPI (YoY) (May) | 4.5% | 4.7% | 4.0% |
 | 09:00 | ZAR | Low | CPI (MoM) (May) | 0.7% |  | 1.1% |
-| 26 min | GBP | Low | House Price Index (YoY) |  | 2.8% | 0.0% |
-| 56 min | USD | Moderate | IEA Monthly Report |  |  |  |
-| 56 min | EUR | Moderate | Core CPI (YoY) (May) |  | 2.5% | 2.2% |
-| 56 min | EUR | Low | Core CPI (MoM) (May) |  | 0.3% | 0.9% |
-| 56 min | EUR | High | CPI (YoY) (May) |  | 3.2% | 3.0% |
-| 56 min | EUR | Moderate | CPI (MoM) (May) |  | 0.1% | 1.0% |
-| 56 min | EUR | Low | CPI ex Tobacco (MoM) (May) |  |  | 1.0% |
-| 56 min | EUR | Low | CPI ex Tobacco (YoY) (May) |  |  | 3.0% |
-| 56 min | EUR | Low | CPI, n.s.a (May) |  | 103.15 | 103.04 |
-| 56 min | EUR | Low | HICP ex Energy & Food (YoY) (May) |  | 2.3% | 2.1% |
-| 56 min | EUR | Low | HICP ex Energy and Food (MoM) (May) |  | 0.3% | 0.8% |
-| 10:30 | EUR | Low | German 30-Year Bund Auction |  |  | 3.500% |
-| 11:50 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.60% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 10.8% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 176.9 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 280.1 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 848.7 |
-| 12:00 | ZAR | Low | Retail Sales (YoY) (Apr) |  |  | 2.6% |
-| 12:30 | INR | Low | M3 Money Supply |  |  | 12.0% |
+| 09:30 | GBP | Low | House Price Index (YoY) | 3.8% | 2.8% | 0.0% |
+| 10:00 | USD | Moderate | IEA Monthly Report |  |  |  |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (May) | 2.6% | 2.5% | 2.2% |
+| 10:00 | EUR | Low | Core CPI (MoM) (May) | 0.3% | 0.3% | 0.9% |
+| 10:00 | EUR | High | CPI (YoY) (May) | 3.2% | 3.2% | 3.0% |
+| 10:00 | EUR | Moderate | CPI (MoM) (May) | 0.1% | 0.1% | 1.0% |
+| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (May) | 0.1% |  | 1.0% |
+| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (May) | 3.1% |  | 3.0% |
+| 10:00 | EUR | Low | CPI, n.s.a (May) | 103.13 | 103.15 | 103.04 |
+| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (May) | 2.3% | 2.3% | 2.1% |
+| 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (May) | 0.3% | 0.3% | 0.8% |
+| 10:30 | EUR | Low | German 30-Year Bund Auction | 3.490% |  | 3.500% |
+| 11 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 21 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.60% |
+| 21 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | 10.8% |
+| 21 min | USD | Low | MBA Purchase Index |  |  | 176.9 |
+| 21 min | USD | Low | Mortgage Market Index |  |  | 280.1 |
+| 21 min | USD | Low | Mortgage Refinance Index |  |  | 848.7 |
+| 21 min | ZAR | Low | Retail Sales (YoY) (Apr) |  |  | 2.6% |
+| 51 min | INR | Low | M3 Money Supply |  |  | 12.0% |
 | 13:00 | BRL | Low | IBC-Br Economic Activity (Apr) |  | 0.60% | -0.70% |
 | 13:00 | CNY | Low | FDI (May) |  |  | -10.30% |
 | 13:30 | USD | High | Core Retail Sales (MoM) (May) |  | 0.6% | 0.7% |

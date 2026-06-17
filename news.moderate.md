@@ -9,10 +9,10 @@
 | 07:00 | GBP | PPI Input (MoM) (May) | 0.2% | 0.5% | 2.6% |
 | 08:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 09:00 | EUR | German Buba Balz Speaks |  |  |  |
-| 56 min | USD | IEA Monthly Report |  |  |  |
-| 56 min | EUR | Core CPI (YoY) (May) |  | 2.5% | 2.2% |
-| 56 min | EUR | CPI (MoM) (May) |  | 0.1% | 1.0% |
-| 11:50 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 10:00 | USD | IEA Monthly Report |  |  |  |
+| 10:00 | EUR | Core CPI (YoY) (May) | 2.6% | 2.5% | 2.2% |
+| 10:00 | EUR | CPI (MoM) (May) | 0.1% | 0.1% | 1.0% |
+| 11 min | EUR | ECB President Lagarde Speaks |  |  |  |
 | 13:30 | USD | Retail Control (MoM) (May) |  | 0.4% | 0.5% |
 | 13:30 | CAD | New Housing Price Index (MoM) (May) |  | -0.1% | -0.4% |
 | 15:00 | USD | Business Inventories (MoM) (Apr) |  | 0.5% | 0.9% |

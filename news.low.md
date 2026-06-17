@@ -30,21 +30,21 @@
 | 09:00 | ZAR | Core CPI (MoM) (May) | 0.2% |  | 0.5% |
 | 09:00 | ZAR | CPI (YoY) (May) | 4.5% | 4.7% | 4.0% |
 | 09:00 | ZAR | CPI (MoM) (May) | 0.7% |  | 1.1% |
-| 26 min | GBP | House Price Index (YoY) |  | 2.8% | 0.0% |
-| 56 min | EUR | Core CPI (MoM) (May) |  | 0.3% | 0.9% |
-| 56 min | EUR | CPI ex Tobacco (MoM) (May) |  |  | 1.0% |
-| 56 min | EUR | CPI ex Tobacco (YoY) (May) |  |  | 3.0% |
-| 56 min | EUR | CPI, n.s.a (May) |  | 103.15 | 103.04 |
-| 56 min | EUR | HICP ex Energy & Food (YoY) (May) |  | 2.3% | 2.1% |
-| 56 min | EUR | HICP ex Energy and Food (MoM) (May) |  | 0.3% | 0.8% |
-| 10:30 | EUR | German 30-Year Bund Auction |  |  | 3.500% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.60% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 10.8% |
-| 12:00 | USD | MBA Purchase Index |  |  | 176.9 |
-| 12:00 | USD | Mortgage Market Index |  |  | 280.1 |
-| 12:00 | USD | Mortgage Refinance Index |  |  | 848.7 |
-| 12:00 | ZAR | Retail Sales (YoY) (Apr) |  |  | 2.6% |
-| 12:30 | INR | M3 Money Supply |  |  | 12.0% |
+| 09:30 | GBP | House Price Index (YoY) | 3.8% | 2.8% | 0.0% |
+| 10:00 | EUR | Core CPI (MoM) (May) | 0.3% | 0.3% | 0.9% |
+| 10:00 | EUR | CPI ex Tobacco (MoM) (May) | 0.1% |  | 1.0% |
+| 10:00 | EUR | CPI ex Tobacco (YoY) (May) | 3.1% |  | 3.0% |
+| 10:00 | EUR | CPI, n.s.a (May) | 103.13 | 103.15 | 103.04 |
+| 10:00 | EUR | HICP ex Energy & Food (YoY) (May) | 2.3% | 2.3% | 2.1% |
+| 10:00 | EUR | HICP ex Energy and Food (MoM) (May) | 0.3% | 0.3% | 0.8% |
+| 10:30 | EUR | German 30-Year Bund Auction | 3.490% |  | 3.500% |
+| 21 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.60% |
+| 21 min | USD | MBA Mortgage Applications (WoW) |  |  | 10.8% |
+| 21 min | USD | MBA Purchase Index |  |  | 176.9 |
+| 21 min | USD | Mortgage Market Index |  |  | 280.1 |
+| 21 min | USD | Mortgage Refinance Index |  |  | 848.7 |
+| 21 min | ZAR | Retail Sales (YoY) (Apr) |  |  | 2.6% |
+| 51 min | INR | M3 Money Supply |  |  | 12.0% |
 | 13:00 | BRL | IBC-Br Economic Activity (Apr) |  | 0.60% | -0.70% |
 | 13:00 | CNY | FDI (May) |  |  | -10.30% |
 | 13:30 | USD | Retail Sales (YoY) (May) |  |  | 4.87% |
