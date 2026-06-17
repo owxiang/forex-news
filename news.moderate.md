@@ -1,28 +1,27 @@
-## 17 June 2026 - Moderate Impact Forex News
+## 18 June 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Adjusted Trade Balance | -0.09T | -0.21T | 0.20T |
-| 00:50 | JPY | Exports (YoY) (May) | 17.0% | 16.2% | 14.8% |
-| 00:50 | JPY | Trade Balance (May) | -378.7B | -564.6B | 299.3B |
-| 07:00 | GBP | CPI (MoM) (May) | 0.2% | 0.4% | 0.7% |
-| 07:00 | GBP | PPI Input (MoM) (May) | 0.2% | 0.5% | 2.6% |
+| 07:00 | GBP | Average Earnings Index +Bonus (Apr) |  | 4.0% | 4.1% |
+| 07:00 | GBP | Claimant Count Change (May) |  | 25.8K | 26.5K |
+| 07:00 | GBP | Employment Change 3M/3M (MoM) (Apr) |  |  | 148K |
+| 07:00 | GBP | Unemployment Rate (Apr) |  | 5.0% | 5.0% |
 | 08:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 09:00 | EUR | German Buba Balz Speaks |  |  |  |
-| 10:00 | USD | IEA Monthly Report |  |  |  |
-| 10:00 | EUR | Core CPI (YoY) (May) | 2.6% | 2.5% | 2.2% |
-| 10:00 | EUR | CPI (MoM) (May) | 0.1% | 0.1% | 1.0% |
-| 11:50 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 13:30 | USD | Retail Control (MoM) (May) | 0.7% | 0.4% | 0.5% |
-| 13:30 | CAD | New Housing Price Index (MoM) (May) | -0.3% | -0.1% | -0.4% |
-| 15:00 | USD | Business Inventories (MoM) (Apr) | 0.5% | 0.5% | 1.0% |
-| 15:00 | USD | Pending Home Sales (MoM) (May) | 3.8% | 0.8% | 0.3% |
-| 15:00 | USD | Retail Inventories Ex Auto (Apr) | 0.6% | 0.6% | 0.6% |
-| 15:30 | USD | Cushing Crude Oil Inventories | -1.606M |  | -0.801M |
-| 16:00 | USD | Atlanta Fed GDPNow (Q2) | 3.0% | 2.8% | 2.8% |
-| 19:00 | USD | Interest Rate Projection - 1st Yr (Q2) | 3.6% |  | 3.1% |
-| 19:00 | USD | Interest Rate Projection - 2nd Yr (Q2) | 3.4% |  | 3.1% |
-| 19:00 | USD | Interest Rate Projection - Current (Q2) | 3.8% |  | 3.4% |
-| 19:00 | USD | Interest Rate Projection - Longer (Q2) | 3.1% |  | 3.1% |
-| 22:30 | BRL | Interest Rate Decision | 14.25% | 14.25% | 14.50% |
-| 23:45 | NZD | GDP (QoQ) (Q1) |  |  | 0.2% |
+| 08:30 | CHF | SNB Monetary Policy Assessment |  |  |  |
+| 08:30 | IDR | Interest Rate Decision |  | 5.75% | 5.50% |
+| 09:00 | NOK | Interest Rate Decision |  | 4.25% | 4.25% |
+| 09:30 | CHF | SNB Press Conference |  |  |  |
+| 11:10 | EUR | ECB's Elderson Speaks |  |  |  |
+| 12:00 | GBP | BoE MPC vote cut (Jun) |  | 0 | 0 |
+| 12:00 | GBP | BoE MPC vote hike (Jun) |  | 1 | 1 |
+| 12:00 | GBP | BoE MPC vote unchanged (Jun) |  | 8 | 8 |
+| 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
+| 13:15 | EUR | ECB's Lane Speaks |  |  |  |
+| 13:30 | USD | Continuing Jobless Claims |  | 1,800K | 1,795K |
+| 13:30 | USD | Philly Fed Employment (Jun) |  |  | -2.8 |
+| 13:30 | CAD | RMPI (MoM) (May) |  | 1.8% | 2.6% |
+| 15:00 | USD | US Leading Index (MoM) (May) |  | 0.1% | 0.1% |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 433 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 562 |
+| 21:00 | USD | TIC Net Long-Term Transactions (Apr) |  | 72.5B | 81.3B |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 6,725B |

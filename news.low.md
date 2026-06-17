@@ -1,63 +1,43 @@
-## 17 June 2026 - Low Impact Forex News
+## 18 June 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | JPY | Reuters Tankan Index (Jun) | 13 |  | 8 |
-| 00:50 | JPY | Core Machinery Orders (MoM) (Apr) | 8.7% | 1.2% | -9.4% |
-| 00:50 | JPY | Core Machinery Orders (YoY) (Apr) | 15.6% | 9.3% | 5.9% |
-| 00:50 | JPY | Imports (YoY) (May) | 12.5% | 12.8% | 9.8% |
-| 01:30 | SGD | Non-Oil Exports (MoM) (May) | 7.70% |  | 11.00% |
-| 01:30 | SGD | Non-Oil Exports (YoY) (May) | 38.40% | 30.00% | 24.40% |
-| 01:45 | SGD | Trade Balance (May) | 5.573B |  | 13.132B |
-| 02:00 | AUD | MI Leading Index (MoM) (May) | -0.0% |  | 0.1% |
-| 02:30 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
-| 02:30 | AUD | RBA Chart Pack Release |  |  |  |
-| 04:00 | NZD | RBNZ Offshore Holdings (May) | 57.50% |  | 57.10% |
-| 07:00 | GBP | Core CPI (YoY) (May) | 2.6% | 2.7% | 2.5% |
-| 07:00 | GBP | Core CPI (MoM) (May) | 0.3% | 0.4% | 0.7% |
-| 07:00 | GBP | Core PPI Output (YoY) (May) | 2.3% |  | 2.6% |
-| 07:00 | GBP | Core PPI Output (MoM) (May) | 0.8% | 0.4% | 0.9% |
-| 07:00 | GBP | Core RPI (MoM) (May) | 0.2% |  | 0.8% |
-| 07:00 | GBP | Core RPI (YoY) (May) | 3.0% |  | 3.0% |
-| 07:00 | GBP | CPI, n.s.a (May) | 142.40 |  | 142.10 |
-| 07:00 | GBP | PPI Input (YoY) (May) | 8.7% | 8.8% | 7.9% |
-| 07:00 | GBP | PPI Output (YoY) (May) | 4.0% | 4.0% | 4.1% |
-| 07:00 | GBP | PPI Output (MoM) (May) | 0.5% | 0.5% | 1.5% |
-| 07:00 | GBP | RPI (YoY) (May) | 3.1% | 3.3% | 3.0% |
-| 07:00 | GBP | RPI (MoM) (May) | 0.2% | 0.5% | 0.7% |
+| 00:50 | JPY | Foreign Bonds Buying |  |  | 197.5B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -701.0B |
+| 02:30 | AUD | Reserve Assets Total (May) |  |  | 115,595.0B |
+| 07:00 | GBP | Average Earnings ex Bonus (Apr) |  | 3.3% | 3.4% |
+| 07:00 | CHF | Trade Balance (May) |  |  | 3.098B |
 | 08:00 | CHF | SECO Economic Forecasts |  |  |  |
-| 09:00 | ZAR | Core CPI (MoM) (May) | 0.2% |  | 0.5% |
-| 09:00 | ZAR | Core CPI (YoY) (May) | 3.8% |  | 3.6% |
-| 09:00 | ZAR | CPI (YoY) (May) | 4.5% | 4.7% | 4.0% |
-| 09:00 | ZAR | CPI (MoM) (May) | 0.7% |  | 1.1% |
-| 09:30 | GBP | House Price Index (YoY) | 3.8% | 2.8% | 0.0% |
-| 10:00 | EUR | Core CPI (MoM) (May) | 0.3% | 0.3% | 0.9% |
-| 10:00 | EUR | CPI ex Tobacco (MoM) (May) | 0.1% |  | 1.0% |
-| 10:00 | EUR | CPI ex Tobacco (YoY) (May) | 3.1% |  | 3.0% |
-| 10:00 | EUR | CPI, n.s.a (May) | 103.13 | 103.15 | 103.04 |
-| 10:00 | EUR | HICP ex Energy & Food (YoY) (May) | 2.3% | 2.3% | 2.1% |
-| 10:00 | EUR | HICP ex Energy and Food (MoM) (May) | 0.3% | 0.3% | 0.8% |
-| 10:30 | EUR | German 30-Year Bund Auction | 3.490% |  | 3.500% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.60% |  | 6.60% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) | -3.8% |  | 10.8% |
-| 12:00 | USD | MBA Purchase Index | 170.8 |  | 176.9 |
-| 12:00 | USD | Mortgage Market Index | 269.5 |  | 280.1 |
-| 12:00 | USD | Mortgage Refinance Index | 810.2 |  | 848.7 |
-| 12:00 | ZAR | Retail Sales (YoY) (Apr) | 1.3% |  | 2.5% |
-| 12:30 | INR | M3 Money Supply |  |  | 12.0% |
-| 13:00 | BRL | IBC-Br Economic Activity (Apr) | 0.50% | 0.60% | -0.70% |
-| 13:30 | USD | Retail Sales (YoY) (May) | 6.88% |  | 4.79% |
-| 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (May) | 0.5% |  | 0.5% |
-| 15:00 | USD | Pending Home Sales Index (May) | 76.8 |  | 74.0 |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) | 0.230M |  | 0.081M |
-| 15:30 | USD | Crude Oil Imports | -0.241M |  | 0.525M |
-| 15:30 | USD | Distillate Fuel Production | -0.029M |  | 0.024M |
-| 15:30 | USD | EIA Weekly Distillates Stocks | 0.951M | -0.500M | -0.200M |
-| 15:30 | USD | Gasoline Production | 0.356M |  | 0.296M |
-| 15:30 | USD | Heating Oil Stockpiles | -0.204M |  | -0.246M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 1.4% |  | 0.6% |
-| 15:30 | USD | Gasoline Inventories | -0.906M | -1.000M | 0.186M |
-| 18:30 | BRL | Foreign Exchange Flows | 1.542B |  | 2.588B |
-| 23:45 | NZD | GDP (YoY) (Q1) |  | 1.1% | 1.3% |
-| 23:45 | NZD | GDP Annual Average (Q1) |  | 0.8% | 0.2% |
-| 23:45 | NZD | GDP Expenditure (QoQ) (Q1) |  |  | 0.1% |
+| 08:30 | IDR | Deposit Facility Rate (Jun) |  | 4.75% | 4.50% |
+| 08:30 | IDR | Lending Facility Rate (Jun) |  | 6.50% | 6.25% |
+| 08:30 | IDR | Loans (YoY) (May) |  |  | 9.98% |
+| 09:00 | EUR | Current Account (Apr) |  | 18.5B | 14.9B |
+| 09:00 | EUR | Current Account n.s.a. (Apr) |  |  | 24.1B |
+| 10:00 | EUR | Construction Output (MoM) (Apr) |  |  | 0.78% |
+| 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 13:00 | MXN | Aggregate Demand (YoY) (Q1) |  |  | 4.50% |
+| 13:00 | MXN | Aggregate Demand (QoQ) (Q1) |  |  | 2.40% |
+| 13:00 | MXN | Private Spending (QoQ) (Q1) |  |  | 1.00% |
+| 13:00 | MXN | Private Spending (YoY) (Q1) |  |  | 4.00% |
+| 13:00 | CNY | FDI (May) |  |  | -10.30% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 219.00K |
+| 13:30 | USD | Philly Fed Business Conditions (Jun) |  |  | 53.2 |
+| 13:30 | USD | Philly Fed CAPEX Index (Jun) |  |  | 30.90 |
+| 13:30 | USD | Philly Fed New Orders (Jun) |  |  | -1.7 |
+| 13:30 | USD | Philly Fed Prices Paid (Jun) |  |  | 47.90 |
+| 13:30 | CAD | IPPI (MoM) (May) |  | 1.4% | 2.0% |
+| 13:30 | CAD | IPPI (YoY) (May) |  |  | 11.4% |
+| 13:30 | CAD | RMPI (YoY) (May) |  |  | 31.6% |
+| 15:30 | USD | Natural Gas Storage |  |  | 108B |
+| 16:30 | USD | 4-Week Bill Auction |  |  | 3.595% |
+| 16:30 | USD | 8-Week Bill Auction |  |  | 3.610% |
+| 21:00 | USD | US Foreign Buying, T-bonds (Apr) |  |  | 13.50B |
+| 21:00 | USD | Overall Net Capital Flow (Apr) |  |  | 150.70B |
+| 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Apr) |  |  | 81.30B |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.111T |
+| 22:00 | KRW | PPI (MoM) (May) |  |  | 2.5% |
+| 22:00 | KRW | PPI (YoY) (May) |  |  | 6.9% |
+| 23:45 | NZD | Exports (May) |  |  | 8.62B |
+| 23:45 | NZD | Imports (May) |  |  | 6.70B |
+| 23:45 | NZD | Trade Balance (MoM) (May) |  | 875M | 1,920M |
+| 23:45 | NZD | Trade Balance (YoY) (May) |  |  | -2,760M |
