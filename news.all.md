@@ -1,4 +1,4 @@
-## None - All Forex News
+## 18 June 2026 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
@@ -51,8 +51,8 @@
 | 13:30 | CAD | Low | IPPI (YoY) (May) | 13.6% |  | 11.1% |
 | 13:30 | CAD | Moderate | RMPI (MoM) (May) | 0.7% | 1.1% | 2.6% |
 | 13:30 | CAD | Low | RMPI (YoY) (May) | 33.4% |  | 31.5% |
-| 15:00 | USD | Moderate | US Leading Index (MoM) (May) |  | 0.1% | 0.1% |
-| 15:30 | USD | Low | Natural Gas Storage |  | 82B | 108B |
+| 15:00 | USD | Moderate | US Leading Index (MoM) (May) | 0.1% | 0.1% | 0.2% |
+| 15:30 | USD | Low | Natural Gas Storage | 73B | 82B | 108B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.595% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.610% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 433 |

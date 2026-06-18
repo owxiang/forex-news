@@ -1,4 +1,4 @@
-## None - Low Impact Forex News
+## 18 June 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
@@ -29,7 +29,7 @@
 | 13:30 | CAD | IPPI (MoM) (May) | 1.2% | 1.3% | 1.6% |
 | 13:30 | CAD | IPPI (YoY) (May) | 13.6% |  | 11.1% |
 | 13:30 | CAD | RMPI (YoY) (May) | 33.4% |  | 31.5% |
-| 15:30 | USD | Natural Gas Storage |  | 82B | 108B |
+| 15:30 | USD | Natural Gas Storage | 73B | 82B | 108B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.595% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 3.610% |
 | 21:00 | USD | US Foreign Buying, T-bonds (Apr) |  |  | 13.50B |

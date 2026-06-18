@@ -1,4 +1,4 @@
-## None - Moderate Impact Forex News
+## 18 June 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
@@ -20,7 +20,7 @@
 | 13:30 | USD | Continuing Jobless Claims | 1,810K | 1,800K | 1,786K |
 | 13:30 | USD | Philly Fed Employment (Jun) | 7.9 |  | -2.8 |
 | 13:30 | CAD | RMPI (MoM) (May) | 0.7% | 1.1% | 2.6% |
-| 15:00 | USD | US Leading Index (MoM) (May) |  | 0.1% | 0.1% |
+| 15:00 | USD | US Leading Index (MoM) (May) | 0.1% | 0.1% | 0.2% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 433 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 562 |
 | 21:00 | USD | TIC Net Long-Term Transactions (Apr) |  | 72.5B | 81.3B |
