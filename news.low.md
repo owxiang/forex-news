@@ -11,11 +11,11 @@
 | 08:30 | IDR | Deposit Facility Rate (Jun) | 4.75% | 4.75% | 4.50% |
 | 08:30 | IDR | Lending Facility Rate (Jun) | 6.50% | 6.50% | 6.25% |
 | 08:30 | IDR | Loans (YoY) (May) | 11.51% |  | 9.98% |
-| 09:00 | EUR | Current Account (Apr) |  | 18.5B | 14.9B |
-| 09:00 | EUR | Current Account n.s.a. (Apr) |  |  | 24.1B |
-| 09:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.813% |
-| 09:40 | EUR | Spanish 7-Year Obligacion Auction |  |  | 3.164% |
-| 10:00 | EUR | Construction Output (MoM) (Apr) |  |  | 0.78% |
+| 09:00 | EUR | Current Account (Apr) | 15.7B | 18.5B | 14.9B |
+| 09:00 | EUR | Current Account n.s.a. (Apr) | 14.9B |  | 24.1B |
+| 09:40 | EUR | Spanish 10-Year Obligacion Auction | 3.383% |  | 3.813% |
+| 09:40 | EUR | Spanish 7-Year Obligacion Auction | 3.032% |  | 3.164% |
+| 10:00 | EUR | Construction Output (MoM) (Apr) | 0.57% |  | 1.75% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 13:00 | MXN | Aggregate Demand (YoY) (Q1) |  |  | 4.50% |
 | 13:00 | MXN | Aggregate Demand (QoQ) (Q1) |  |  | 2.40% |

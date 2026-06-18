@@ -19,19 +19,19 @@
 | 08:30 | IDR | Low | Deposit Facility Rate (Jun) | 4.75% | 4.75% | 4.50% |
 | 08:30 | IDR | Low | Lending Facility Rate (Jun) | 6.50% | 6.50% | 6.25% |
 | 08:30 | IDR | Low | Loans (YoY) (May) | 11.51% |  | 9.98% |
-| 09:00 | NOK | Moderate | Interest Rate Decision |  | 4.25% | 4.25% |
-| 09:00 | EUR | Low | Current Account (Apr) |  | 18.5B | 14.9B |
-| 09:00 | EUR | Low | Current Account n.s.a. (Apr) |  |  | 24.1B |
+| 09:00 | NOK | Moderate | Interest Rate Decision | 4.25% | 4.25% | 4.25% |
+| 09:00 | EUR | Low | Current Account (Apr) | 15.7B | 18.5B | 14.9B |
+| 09:00 | EUR | Low | Current Account n.s.a. (Apr) | 14.9B |  | 24.1B |
 | 09:30 | CHF | Moderate | SNB Press Conference |  |  |  |
-| 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.813% |
-| 09:40 | EUR | Low | Spanish 7-Year Obligacion Auction |  |  | 3.164% |
-| 10:00 | EUR | Low | Construction Output (MoM) (Apr) |  |  | 0.78% |
+| 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction | 3.383% |  | 3.813% |
+| 09:40 | EUR | Low | Spanish 7-Year Obligacion Auction | 3.032% |  | 3.164% |
+| 10:00 | EUR | Low | Construction Output (MoM) (Apr) | 0.57% |  | 1.75% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:10 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 12:00 | GBP | Moderate | BoE MPC vote cut (Jun) |  | 0 | 0 |
-| 12:00 | GBP | Moderate | BoE MPC vote hike (Jun) |  | 1 | 1 |
-| 12:00 | GBP | Moderate | BoE MPC vote unchanged (Jun) |  | 8 | 8 |
-| 12:00 | GBP | High | BoE Interest Rate Decision (Jun) |  | 3.75% | 3.75% |
+| 12:00 | GBP | Moderate | BoE MPC vote cut (Jun) | 0 | 0 | 0 |
+| 12:00 | GBP | Moderate | BoE MPC vote hike (Jun) | 2 | 1 | 1 |
+| 12:00 | GBP | Moderate | BoE MPC vote unchanged (Jun) | 7 | 8 | 8 |
+| 12:00 | GBP | High | BoE Interest Rate Decision (Jun) | 3.75% | 3.75% | 3.75% |
 | 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
 | 13:00 | MXN | Low | Aggregate Demand (YoY) (Q1) |  |  | 4.50% |
 | 13:00 | MXN | Low | Aggregate Demand (QoQ) (Q1) |  |  | 2.40% |

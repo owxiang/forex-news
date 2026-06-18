@@ -9,12 +9,12 @@
 | 08:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 08:30 | CHF | SNB Monetary Policy Assessment |  |  |  |
 | 08:30 | IDR | Interest Rate Decision | 5.75% | 5.75% | 5.50% |
-| 09:00 | NOK | Interest Rate Decision |  | 4.25% | 4.25% |
+| 09:00 | NOK | Interest Rate Decision | 4.25% | 4.25% | 4.25% |
 | 09:30 | CHF | SNB Press Conference |  |  |  |
 | 11:10 | EUR | ECB's Elderson Speaks |  |  |  |
-| 12:00 | GBP | BoE MPC vote cut (Jun) |  | 0 | 0 |
-| 12:00 | GBP | BoE MPC vote hike (Jun) |  | 1 | 1 |
-| 12:00 | GBP | BoE MPC vote unchanged (Jun) |  | 8 | 8 |
+| 12:00 | GBP | BoE MPC vote cut (Jun) | 0 | 0 | 0 |
+| 12:00 | GBP | BoE MPC vote hike (Jun) | 2 | 1 | 1 |
+| 12:00 | GBP | BoE MPC vote unchanged (Jun) | 7 | 8 | 8 |
 | 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
 | 13:15 | EUR | ECB's Lane Speaks |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,800K | 1,795K |
