@@ -53,10 +53,10 @@
 | 13:30 | CAD | Low | RMPI (YoY) (May) | 33.4% |  | 31.5% |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (May) | 0.1% | 0.1% | 0.2% |
 | 15:30 | USD | Low | Natural Gas Storage | 73B | 82B | 108B |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.595% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.610% |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 433 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 562 |
+| 16:30 | USD | Low | 4-Week Bill Auction | 3.580% |  | 3.595% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 3.640% |  | 3.610% |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 433 |  | 433 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 563 |  | 562 |
 | 21:00 | USD | Low | US Foreign Buying, T-bonds (Apr) |  |  | 13.50B |
 | 21:00 | USD | Low | Overall Net Capital Flow (Apr) |  |  | 150.70B |
 | 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Apr) |  | 72.5B | 81.3B |
