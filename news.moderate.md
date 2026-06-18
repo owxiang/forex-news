@@ -1,4 +1,4 @@
-## 18 June 2026 - Moderate Impact Forex News
+## None - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
@@ -17,9 +17,9 @@
 | 12:00 | GBP | BoE MPC vote unchanged (Jun) | 7 | 8 | 8 |
 | 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
 | 13:15 | EUR | ECB's Lane Speaks |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims |  | 1,800K | 1,795K |
-| 13:30 | USD | Philly Fed Employment (Jun) |  |  | -2.8 |
-| 13:30 | CAD | RMPI (MoM) (May) |  | 1.1% | 2.6% |
+| 13:30 | USD | Continuing Jobless Claims | 1,810K | 1,800K | 1,786K |
+| 13:30 | USD | Philly Fed Employment (Jun) | 7.9 |  | -2.8 |
+| 13:30 | CAD | RMPI (MoM) (May) | 0.7% | 1.1% | 2.6% |
 | 15:00 | USD | US Leading Index (MoM) (May) |  | 0.1% | 0.1% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 433 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 562 |

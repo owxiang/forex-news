@@ -1,4 +1,4 @@
-## 18 June 2026 - Low Impact Forex News
+## None - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
@@ -17,19 +17,18 @@
 | 09:40 | EUR | Spanish 7-Year Obligacion Auction | 3.032% |  | 3.164% |
 | 10:00 | EUR | Construction Output (MoM) (Apr) | 0.57% |  | 1.75% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 13:00 | MXN | Aggregate Demand (YoY) (Q1) |  |  | 4.50% |
-| 13:00 | MXN | Aggregate Demand (QoQ) (Q1) |  |  | 2.40% |
-| 13:00 | MXN | Private Spending (QoQ) (Q1) |  |  | 1.00% |
-| 13:00 | MXN | Private Spending (YoY) (Q1) |  |  | 4.00% |
-| 13:00 | CNY | FDI (May) |  |  | -10.30% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 219.00K |
-| 13:30 | USD | Philly Fed Business Conditions (Jun) |  |  | 53.2 |
-| 13:30 | USD | Philly Fed CAPEX Index (Jun) |  |  | 30.90 |
-| 13:30 | USD | Philly Fed New Orders (Jun) |  |  | -1.7 |
-| 13:30 | USD | Philly Fed Prices Paid (Jun) |  |  | 47.90 |
-| 13:30 | CAD | IPPI (MoM) (May) |  | 1.3% | 2.0% |
-| 13:30 | CAD | IPPI (YoY) (May) |  |  | 11.4% |
-| 13:30 | CAD | RMPI (YoY) (May) |  |  | 31.6% |
+| 13:00 | MXN | Aggregate Demand (YoY) (Q1) | 5.00% |  | 4.60% |
+| 13:00 | MXN | Aggregate Demand (QoQ) (Q1) | 0.30% |  | 2.40% |
+| 13:00 | MXN | Private Spending (QoQ) (Q1) | -0.80% |  | 1.00% |
+| 13:00 | MXN | Private Spending (YoY) (Q1) | 2.20% |  | 3.90% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 223.25K |  | 219.25K |
+| 13:30 | USD | Philly Fed Business Conditions (Jun) | 50.2 |  | 53.2 |
+| 13:30 | USD | Philly Fed CAPEX Index (Jun) | 41.20 |  | 30.90 |
+| 13:30 | USD | Philly Fed New Orders (Jun) | 27.3 |  | -1.7 |
+| 13:30 | USD | Philly Fed Prices Paid (Jun) | 53.20 |  | 47.90 |
+| 13:30 | CAD | IPPI (MoM) (May) | 1.2% | 1.3% | 1.6% |
+| 13:30 | CAD | IPPI (YoY) (May) | 13.6% |  | 11.1% |
+| 13:30 | CAD | RMPI (YoY) (May) | 33.4% |  | 31.5% |
 | 15:30 | USD | Natural Gas Storage |  | 82B | 108B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.595% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 3.610% |

@@ -1,4 +1,4 @@
-## 18 June 2026 - All Forex News
+## None - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
@@ -33,25 +33,24 @@
 | 12:00 | GBP | Moderate | BoE MPC vote unchanged (Jun) | 7 | 8 | 8 |
 | 12:00 | GBP | High | BoE Interest Rate Decision (Jun) | 3.75% | 3.75% | 3.75% |
 | 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
-| 13:00 | MXN | Low | Aggregate Demand (YoY) (Q1) |  |  | 4.50% |
-| 13:00 | MXN | Low | Aggregate Demand (QoQ) (Q1) |  |  | 2.40% |
-| 13:00 | MXN | Low | Private Spending (QoQ) (Q1) |  |  | 1.00% |
-| 13:00 | MXN | Low | Private Spending (YoY) (Q1) |  |  | 4.00% |
-| 13:00 | CNY | Low | FDI (May) |  |  | -10.30% |
+| 13:00 | MXN | Low | Aggregate Demand (YoY) (Q1) | 5.00% |  | 4.60% |
+| 13:00 | MXN | Low | Aggregate Demand (QoQ) (Q1) | 0.30% |  | 2.40% |
+| 13:00 | MXN | Low | Private Spending (QoQ) (Q1) | -0.80% |  | 1.00% |
+| 13:00 | MXN | Low | Private Spending (YoY) (Q1) | 2.20% |  | 3.90% |
 | 13:15 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,800K | 1,795K |
-| 13:30 | USD | High | Initial Jobless Claims |  | 225K | 229K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 219.00K |
-| 13:30 | USD | High | Philadelphia Fed Manufacturing Index (Jun) |  | 9.8 | -0.4 |
-| 13:30 | USD | Low | Philly Fed Business Conditions (Jun) |  |  | 53.2 |
-| 13:30 | USD | Low | Philly Fed CAPEX Index (Jun) |  |  | 30.90 |
-| 13:30 | USD | Moderate | Philly Fed Employment (Jun) |  |  | -2.8 |
-| 13:30 | USD | Low | Philly Fed New Orders (Jun) |  |  | -1.7 |
-| 13:30 | USD | Low | Philly Fed Prices Paid (Jun) |  |  | 47.90 |
-| 13:30 | CAD | Low | IPPI (MoM) (May) |  | 1.3% | 2.0% |
-| 13:30 | CAD | Low | IPPI (YoY) (May) |  |  | 11.4% |
-| 13:30 | CAD | Moderate | RMPI (MoM) (May) |  | 1.1% | 2.6% |
-| 13:30 | CAD | Low | RMPI (YoY) (May) |  |  | 31.6% |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,810K | 1,800K | 1,786K |
+| 13:30 | USD | High | Initial Jobless Claims | 226K | 225K | 230K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 223.25K |  | 219.25K |
+| 13:30 | USD | High | Philadelphia Fed Manufacturing Index (Jun) | 10.3 | 9.8 | -0.4 |
+| 13:30 | USD | Low | Philly Fed Business Conditions (Jun) | 50.2 |  | 53.2 |
+| 13:30 | USD | Low | Philly Fed CAPEX Index (Jun) | 41.20 |  | 30.90 |
+| 13:30 | USD | Moderate | Philly Fed Employment (Jun) | 7.9 |  | -2.8 |
+| 13:30 | USD | Low | Philly Fed New Orders (Jun) | 27.3 |  | -1.7 |
+| 13:30 | USD | Low | Philly Fed Prices Paid (Jun) | 53.20 |  | 47.90 |
+| 13:30 | CAD | Low | IPPI (MoM) (May) | 1.2% | 1.3% | 1.6% |
+| 13:30 | CAD | Low | IPPI (YoY) (May) | 13.6% |  | 11.1% |
+| 13:30 | CAD | Moderate | RMPI (MoM) (May) | 0.7% | 1.1% | 2.6% |
+| 13:30 | CAD | Low | RMPI (YoY) (May) | 33.4% |  | 31.5% |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (May) |  | 0.1% | 0.1% |
 | 15:30 | USD | Low | Natural Gas Storage |  | 82B | 108B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.595% |
