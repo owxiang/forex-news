@@ -2,13 +2,13 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | GBP | Average Earnings Index +Bonus (Apr) |  | 4.0% | 4.1% |
-| 07:00 | GBP | Claimant Count Change (May) |  | 25.8K | 26.5K |
-| 07:00 | GBP | Employment Change 3M/3M (MoM) (Apr) |  | 75K | 148K |
-| 07:00 | GBP | Unemployment Rate (Apr) |  | 5.0% | 5.0% |
+| 07:00 | GBP | Average Earnings Index +Bonus (Apr) | 4.4% | 4.0% | 4.4% |
+| 07:00 | GBP | Claimant Count Change (May) | 31.2K | 25.8K | 8.3K |
+| 07:00 | GBP | Employment Change 3M/3M (MoM) (Apr) | 100K | 75K | 148K |
+| 07:00 | GBP | Unemployment Rate (Apr) | 4.9% | 5.0% | 5.0% |
 | 08:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 08:30 | CHF | SNB Monetary Policy Assessment |  |  |  |
-| 08:30 | IDR | Interest Rate Decision |  | 5.75% | 5.50% |
+| 08:30 | IDR | Interest Rate Decision | 5.75% | 5.75% | 5.50% |
 | 09:00 | NOK | Interest Rate Decision |  | 4.25% | 4.25% |
 | 09:30 | CHF | SNB Press Conference |  |  |  |
 | 11:10 | EUR | ECB's Elderson Speaks |  |  |  |

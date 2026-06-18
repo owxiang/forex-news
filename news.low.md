@@ -5,12 +5,12 @@
 | 00:50 | JPY | Foreign Bonds Buying | 382.6B |  | 212.1B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | -785.1B |  | -700.6B |
 | 02:30 | AUD | Reserve Assets Total (May) | 115.8B |  | 115.6B |
-| 07:00 | GBP | Average Earnings ex Bonus (Apr) |  | 3.2% | 3.4% |
-| 07:00 | CHF | Trade Balance (May) |  |  | 3.098B |
+| 07:00 | GBP | Average Earnings ex Bonus (Apr) | 3.4% | 3.2% | 3.4% |
+| 07:00 | CHF | Trade Balance (May) | 6.110B |  | 3.050B |
 | 08:00 | CHF | SECO Economic Forecasts |  |  |  |
-| 08:30 | IDR | Deposit Facility Rate (Jun) |  | 4.75% | 4.50% |
-| 08:30 | IDR | Lending Facility Rate (Jun) |  | 6.50% | 6.25% |
-| 08:30 | IDR | Loans (YoY) (May) |  |  | 9.98% |
+| 08:30 | IDR | Deposit Facility Rate (Jun) | 4.75% | 4.75% | 4.50% |
+| 08:30 | IDR | Lending Facility Rate (Jun) | 6.50% | 6.50% | 6.25% |
+| 08:30 | IDR | Loans (YoY) (May) | 11.51% |  | 9.98% |
 | 09:00 | EUR | Current Account (Apr) |  | 18.5B | 14.9B |
 | 09:00 | EUR | Current Account n.s.a. (Apr) |  |  | 24.1B |
 | 09:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.813% |

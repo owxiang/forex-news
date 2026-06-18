@@ -5,20 +5,20 @@
 | 00:50 | JPY | Low | Foreign Bonds Buying | 382.6B |  | 212.1B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -785.1B |  | -700.6B |
 | 02:30 | AUD | Low | Reserve Assets Total (May) | 115.8B |  | 115.6B |
-| 07:00 | GBP | Low | Average Earnings ex Bonus (Apr) |  | 3.2% | 3.4% |
-| 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Apr) |  | 4.0% | 4.1% |
-| 07:00 | GBP | Moderate | Claimant Count Change (May) |  | 25.8K | 26.5K |
-| 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Apr) |  | 75K | 148K |
-| 07:00 | GBP | Moderate | Unemployment Rate (Apr) |  | 5.0% | 5.0% |
-| 07:00 | CHF | Low | Trade Balance (May) |  |  | 3.098B |
+| 07:00 | GBP | Low | Average Earnings ex Bonus (Apr) | 3.4% | 3.2% | 3.4% |
+| 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Apr) | 4.4% | 4.0% | 4.4% |
+| 07:00 | GBP | Moderate | Claimant Count Change (May) | 31.2K | 25.8K | 8.3K |
+| 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Apr) | 100K | 75K | 148K |
+| 07:00 | GBP | Moderate | Unemployment Rate (Apr) | 4.9% | 5.0% | 5.0% |
+| 07:00 | CHF | Low | Trade Balance (May) | 6.110B |  | 3.050B |
 | 08:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
 | 08:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 08:30 | CHF | High | SNB Interest Rate Decision (Q2) |  | 0.00% | 0.00% |
+| 08:30 | CHF | High | SNB Interest Rate Decision (Q2) | 0.00% | 0.00% | 0.00% |
 | 08:30 | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
-| 08:30 | IDR | Moderate | Interest Rate Decision |  | 5.75% | 5.50% |
-| 08:30 | IDR | Low | Deposit Facility Rate (Jun) |  | 4.75% | 4.50% |
-| 08:30 | IDR | Low | Lending Facility Rate (Jun) |  | 6.50% | 6.25% |
-| 08:30 | IDR | Low | Loans (YoY) (May) |  |  | 9.98% |
+| 08:30 | IDR | Moderate | Interest Rate Decision | 5.75% | 5.75% | 5.50% |
+| 08:30 | IDR | Low | Deposit Facility Rate (Jun) | 4.75% | 4.75% | 4.50% |
+| 08:30 | IDR | Low | Lending Facility Rate (Jun) | 6.50% | 6.50% | 6.25% |
+| 08:30 | IDR | Low | Loans (YoY) (May) | 11.51% |  | 9.98% |
 | 09:00 | NOK | Moderate | Interest Rate Decision |  | 4.25% | 4.25% |
 | 09:00 | EUR | Low | Current Account (Apr) |  | 18.5B | 14.9B |
 | 09:00 | EUR | Low | Current Account n.s.a. (Apr) |  |  | 24.1B |
