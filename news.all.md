@@ -4,7 +4,7 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:50 | JPY | Low | Foreign Bonds Buying | 382.6B |  | 212.1B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -785.1B |  | -700.6B |
-| 02:30 | AUD | Low | Reserve Assets Total (May) |  |  | 115.6B |
+| 02:30 | AUD | Low | Reserve Assets Total (May) | 115.8B |  | 115.6B |
 | 07:00 | GBP | Low | Average Earnings ex Bonus (Apr) |  | 3.3% | 3.4% |
 | 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Apr) |  | 4.0% | 4.1% |
 | 07:00 | GBP | Moderate | Claimant Count Change (May) |  | 25.8K | 26.5K |

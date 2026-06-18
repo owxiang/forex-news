@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Foreign Bonds Buying | 382.6B |  | 212.1B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | -785.1B |  | -700.6B |
-| 02:30 | AUD | Reserve Assets Total (May) |  |  | 115.6B |
+| 02:30 | AUD | Reserve Assets Total (May) | 115.8B |  | 115.6B |
 | 07:00 | GBP | Average Earnings ex Bonus (Apr) |  | 3.3% | 3.4% |
 | 07:00 | CHF | Trade Balance (May) |  |  | 3.098B |
 | 08:00 | CHF | SECO Economic Forecasts |  |  |  |
