@@ -5,7 +5,7 @@
 | 00:50 | JPY | Foreign Bonds Buying | 382.6B |  | 212.1B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | -785.1B |  | -700.6B |
 | 02:30 | AUD | Reserve Assets Total (May) | 115.8B |  | 115.6B |
-| 07:00 | GBP | Average Earnings ex Bonus (Apr) |  | 3.3% | 3.4% |
+| 07:00 | GBP | Average Earnings ex Bonus (Apr) |  | 3.2% | 3.4% |
 | 07:00 | CHF | Trade Balance (May) |  |  | 3.098B |
 | 08:00 | CHF | SECO Economic Forecasts |  |  |  |
 | 08:30 | IDR | Deposit Facility Rate (Jun) |  | 4.75% | 4.50% |
@@ -13,6 +13,8 @@
 | 08:30 | IDR | Loans (YoY) (May) |  |  | 9.98% |
 | 09:00 | EUR | Current Account (Apr) |  | 18.5B | 14.9B |
 | 09:00 | EUR | Current Account n.s.a. (Apr) |  |  | 24.1B |
+| 09:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.813% |
+| 09:40 | EUR | Spanish 7-Year Obligacion Auction |  |  | 3.164% |
 | 10:00 | EUR | Construction Output (MoM) (Apr) |  |  | 0.78% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 13:00 | MXN | Aggregate Demand (YoY) (Q1) |  |  | 4.50% |
@@ -25,10 +27,10 @@
 | 13:30 | USD | Philly Fed CAPEX Index (Jun) |  |  | 30.90 |
 | 13:30 | USD | Philly Fed New Orders (Jun) |  |  | -1.7 |
 | 13:30 | USD | Philly Fed Prices Paid (Jun) |  |  | 47.90 |
-| 13:30 | CAD | IPPI (MoM) (May) |  | 1.4% | 2.0% |
+| 13:30 | CAD | IPPI (MoM) (May) |  | 1.3% | 2.0% |
 | 13:30 | CAD | IPPI (YoY) (May) |  |  | 11.4% |
 | 13:30 | CAD | RMPI (YoY) (May) |  |  | 31.6% |
-| 15:30 | USD | Natural Gas Storage |  |  | 108B |
+| 15:30 | USD | Natural Gas Storage |  | 82B | 108B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.595% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 3.610% |
 | 21:00 | USD | US Foreign Buying, T-bonds (Apr) |  |  | 13.50B |

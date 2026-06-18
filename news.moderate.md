@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 07:00 | GBP | Average Earnings Index +Bonus (Apr) |  | 4.0% | 4.1% |
 | 07:00 | GBP | Claimant Count Change (May) |  | 25.8K | 26.5K |
-| 07:00 | GBP | Employment Change 3M/3M (MoM) (Apr) |  |  | 148K |
+| 07:00 | GBP | Employment Change 3M/3M (MoM) (Apr) |  | 75K | 148K |
 | 07:00 | GBP | Unemployment Rate (Apr) |  | 5.0% | 5.0% |
 | 08:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 08:30 | CHF | SNB Monetary Policy Assessment |  |  |  |
@@ -19,7 +19,7 @@
 | 13:15 | EUR | ECB's Lane Speaks |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,800K | 1,795K |
 | 13:30 | USD | Philly Fed Employment (Jun) |  |  | -2.8 |
-| 13:30 | CAD | RMPI (MoM) (May) |  | 1.8% | 2.6% |
+| 13:30 | CAD | RMPI (MoM) (May) |  | 1.1% | 2.6% |
 | 15:00 | USD | US Leading Index (MoM) (May) |  | 0.1% | 0.1% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 433 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 562 |

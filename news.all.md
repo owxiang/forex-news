@@ -5,10 +5,10 @@
 | 00:50 | JPY | Low | Foreign Bonds Buying | 382.6B |  | 212.1B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -785.1B |  | -700.6B |
 | 02:30 | AUD | Low | Reserve Assets Total (May) | 115.8B |  | 115.6B |
-| 07:00 | GBP | Low | Average Earnings ex Bonus (Apr) |  | 3.3% | 3.4% |
+| 07:00 | GBP | Low | Average Earnings ex Bonus (Apr) |  | 3.2% | 3.4% |
 | 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Apr) |  | 4.0% | 4.1% |
 | 07:00 | GBP | Moderate | Claimant Count Change (May) |  | 25.8K | 26.5K |
-| 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Apr) |  |  | 148K |
+| 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Apr) |  | 75K | 148K |
 | 07:00 | GBP | Moderate | Unemployment Rate (Apr) |  | 5.0% | 5.0% |
 | 07:00 | CHF | Low | Trade Balance (May) |  |  | 3.098B |
 | 08:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
@@ -23,6 +23,8 @@
 | 09:00 | EUR | Low | Current Account (Apr) |  | 18.5B | 14.9B |
 | 09:00 | EUR | Low | Current Account n.s.a. (Apr) |  |  | 24.1B |
 | 09:30 | CHF | Moderate | SNB Press Conference |  |  |  |
+| 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.813% |
+| 09:40 | EUR | Low | Spanish 7-Year Obligacion Auction |  |  | 3.164% |
 | 10:00 | EUR | Low | Construction Output (MoM) (Apr) |  |  | 0.78% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:10 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
@@ -40,18 +42,18 @@
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,800K | 1,795K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 225K | 229K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 219.00K |
-| 13:30 | USD | High | Philadelphia Fed Manufacturing Index (Jun) |  | 11.4 | -0.4 |
+| 13:30 | USD | High | Philadelphia Fed Manufacturing Index (Jun) |  | 9.8 | -0.4 |
 | 13:30 | USD | Low | Philly Fed Business Conditions (Jun) |  |  | 53.2 |
 | 13:30 | USD | Low | Philly Fed CAPEX Index (Jun) |  |  | 30.90 |
 | 13:30 | USD | Moderate | Philly Fed Employment (Jun) |  |  | -2.8 |
 | 13:30 | USD | Low | Philly Fed New Orders (Jun) |  |  | -1.7 |
 | 13:30 | USD | Low | Philly Fed Prices Paid (Jun) |  |  | 47.90 |
-| 13:30 | CAD | Low | IPPI (MoM) (May) |  | 1.4% | 2.0% |
+| 13:30 | CAD | Low | IPPI (MoM) (May) |  | 1.3% | 2.0% |
 | 13:30 | CAD | Low | IPPI (YoY) (May) |  |  | 11.4% |
-| 13:30 | CAD | Moderate | RMPI (MoM) (May) |  | 1.8% | 2.6% |
+| 13:30 | CAD | Moderate | RMPI (MoM) (May) |  | 1.1% | 2.6% |
 | 13:30 | CAD | Low | RMPI (YoY) (May) |  |  | 31.6% |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (May) |  | 0.1% | 0.1% |
-| 15:30 | USD | Low | Natural Gas Storage |  |  | 108B |
+| 15:30 | USD | Low | Natural Gas Storage |  | 82B | 108B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.595% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.610% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 433 |
