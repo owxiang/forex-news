@@ -1,4 +1,4 @@
-## 18 June 2026 - Moderate Impact Forex News
+## None - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
@@ -23,5 +23,5 @@
 | 15:00 | USD | US Leading Index (MoM) (May) | 0.1% | 0.1% | 0.2% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 433 |  | 433 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count | 563 |  | 562 |
-| 21:00 | USD | TIC Net Long-Term Transactions (Apr) |  | 72.5B | 81.3B |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 6,725B |
+| 21:00 | USD | TIC Net Long-Term Transactions (Apr) | 103.1B | 72.5B | 79.9B |
+| 21:30 | USD | Fed's Balance Sheet | 6,736B |  | 6,725B |

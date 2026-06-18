@@ -1,4 +1,4 @@
-## 18 June 2026 - All Forex News
+## None - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
@@ -57,14 +57,14 @@
 | 16:30 | USD | Low | 8-Week Bill Auction | 3.640% |  | 3.610% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 433 |  | 433 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 563 |  | 562 |
-| 21:00 | USD | Low | US Foreign Buying, T-bonds (Apr) |  |  | 13.50B |
-| 21:00 | USD | Low | Overall Net Capital Flow (Apr) |  |  | 150.70B |
-| 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Apr) |  | 72.5B | 81.3B |
-| 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Apr) |  |  | 81.30B |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,725B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.111T |
-| 22:00 | KRW | Low | PPI (MoM) (May) |  |  | 2.5% |
-| 22:00 | KRW | Low | PPI (YoY) (May) |  |  | 6.9% |
+| 21:00 | USD | Low | US Foreign Buying, T-bonds (Apr) | 50.50B |  | 13.50B |
+| 21:00 | USD | Low | Overall Net Capital Flow (Apr) | 26.10B |  | 149.30B |
+| 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Apr) | 103.1B | 72.5B | 79.9B |
+| 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Apr) | 103.10B |  | 79.90B |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,736B |  | 6,725B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 2.936T |  | 3.111T |
+| 22:00 | KRW | Low | PPI (MoM) (May) | 0.8% |  | 2.7% |
+| 22:00 | KRW | Low | PPI (YoY) (May) | 8.5% |  | 7.2% |
 | 23:45 | NZD | Low | Exports (May) |  |  | 8.62B |
 | 23:45 | NZD | Low | Imports (May) |  |  | 6.70B |
 | 23:45 | NZD | Low | Trade Balance (MoM) (May) |  | 875M | 1,920M |

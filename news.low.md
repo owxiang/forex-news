@@ -1,4 +1,4 @@
-## 18 June 2026 - Low Impact Forex News
+## None - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
@@ -32,12 +32,12 @@
 | 15:30 | USD | Natural Gas Storage | 73B | 82B | 108B |
 | 16:30 | USD | 4-Week Bill Auction | 3.580% |  | 3.595% |
 | 16:30 | USD | 8-Week Bill Auction | 3.640% |  | 3.610% |
-| 21:00 | USD | US Foreign Buying, T-bonds (Apr) |  |  | 13.50B |
-| 21:00 | USD | Overall Net Capital Flow (Apr) |  |  | 150.70B |
-| 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Apr) |  |  | 81.30B |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.111T |
-| 22:00 | KRW | PPI (MoM) (May) |  |  | 2.5% |
-| 22:00 | KRW | PPI (YoY) (May) |  |  | 6.9% |
+| 21:00 | USD | US Foreign Buying, T-bonds (Apr) | 50.50B |  | 13.50B |
+| 21:00 | USD | Overall Net Capital Flow (Apr) | 26.10B |  | 149.30B |
+| 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Apr) | 103.10B |  | 79.90B |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 2.936T |  | 3.111T |
+| 22:00 | KRW | PPI (MoM) (May) | 0.8% |  | 2.7% |
+| 22:00 | KRW | PPI (YoY) (May) | 8.5% |  | 7.2% |
 | 23:45 | NZD | Exports (May) |  |  | 8.62B |
 | 23:45 | NZD | Imports (May) |  |  | 6.70B |
 | 23:45 | NZD | Trade Balance (MoM) (May) |  | 875M | 1,920M |
