@@ -22,5 +22,5 @@
 | 12:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Apr) |  | 0.8% | 1.4% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Apr) |  | 0.6% | 0.9% |
-| 13:31 | CAD | Moderate | Retail Sales (MoM) (May) |  |  |  |
+| 13:30 | CAD | Moderate | Retail Sales (MoM) (Apr) |  |  | 0.9% |
 | 15:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
