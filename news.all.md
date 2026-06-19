@@ -6,8 +6,8 @@
 | 00:30 | JPY | Low | CPI, n.s.a (MoM) (May) | 0.5% |  | 0.3% |
 | 00:30 | JPY | Moderate | National Core CPI (YoY) (May) | 1.4% | 1.4% | 1.4% |
 | 00:30 | JPY | Low | National CPI (YoY) (May) | 1.5% |  | 1.4% |
+| 00:30 | JPY | Moderate | National CPI (MoM) (May) | 0.4% |  | 0.1% |
 | 00:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
-| 00:50 | JPY | Moderate | National CPI (MoM) (May) |  |  | 0.1% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (May) |  | 0.4% | -0.4% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (May) |  | 3.3% | 1.1% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing (May) |  | 19.00B | 24.30B |
