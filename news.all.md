@@ -18,7 +18,7 @@
 | 07:00 | EUR | Moderate | German PPI (MoM) (May) | 0.3% | 0.7% | 1.2% |
 | 08:10 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 11:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 12:30 | INR | Low | FX Reserves, USD |  |  | 681.61B |
+| 12:30 | INR | Low | FX Reserves, USD | 671.63B |  | 681.61B |
 | 12:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Apr) |  | 0.8% | 1.4% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Apr) |  | 0.6% | 0.9% |
