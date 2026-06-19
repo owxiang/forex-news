@@ -20,7 +20,7 @@
 | 11:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 12:30 | INR | Low | FX Reserves, USD | 671.63B |  | 681.61B |
 | 12:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
-| 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Apr) |  | 0.8% | 1.4% |
-| 13:30 | CAD | Moderate | Retail Sales (MoM) (Apr) |  | 0.6% | 0.9% |
-| 13:30 | CAD | Moderate | Retail Sales (MoM) (Apr) |  |  | 0.9% |
+| 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Apr) | 0.1% | 0.8% | 1.2% |
+| 13:30 | CAD | Moderate | Retail Sales (MoM) (Apr) | 0.5% | 0.6% | 0.9% |
+| 13:31 | CAD | Moderate | Retail Sales (MoM) (May) | 1.0% |  | 0.6% |
 | 15:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
