@@ -4,7 +4,7 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 02:00 | CNY | Moderate | China Loan Prime Rate 5Y (Jun) | 3.50% | 3.50% | 3.50% |
 | 02:00 | CNY | Moderate | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
-| 04:00 | NZD | Low | Credit Card Spending (YoY) |  |  | 2.9% |
+| 04:00 | NZD | Low | Credit Card Spending (YoY) | 5.1% |  | 3.1% |
 | 07:00 | NOK | Low | M3 Money Supply (May) |  |  | 3,575.9B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (May) |  |  | 4.4% |
 | 08:00 | CHF | Low | M3 Money Supply (May) |  |  | 1,228,523.0B |

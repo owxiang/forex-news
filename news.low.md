@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 04:00 | NZD | Credit Card Spending (YoY) |  |  | 2.9% |
+| 04:00 | NZD | Credit Card Spending (YoY) | 5.1% |  | 3.1% |
 | 07:00 | NOK | M3 Money Supply (May) |  |  | 3,575.9B |
 | 07:00 | NOK | Credit Indicator (YoY) (May) |  |  | 4.4% |
 | 08:00 | CHF | M3 Money Supply (May) |  |  | 1,228,523.0B |
