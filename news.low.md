@@ -5,7 +5,7 @@
 | 04:00 | NZD | Credit Card Spending (YoY) | 5.1% |  | 3.1% |
 | 07:00 | NOK | M3 Money Supply (May) |  |  | 3,575.9B |
 | 07:00 | NOK | Credit Indicator (YoY) (May) |  |  | 4.4% |
-| 08:00 | CHF | M3 Money Supply (May) |  |  | 1,228,523.0B |
+| 08:00 | CHF | M3 Money Supply (May) |  |  | 1,228.5B |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:30 | INR | Infrastructure Output (YoY) (May) |  |  | 1.7% |
 | 13:30 | CAD | Common CPI (YoY) (May) |  | 2.5% | 2.5% |
