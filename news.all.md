@@ -50,4 +50,4 @@
 | 20:30 | JPY | Moderate | CFTC JPY speculative net positions | -150.1K |  | -145.8K |
 | 20:30 | NZD | Low | CFTC NZD speculative net positions | -45.2K |  | -31.6K |
 | 20:30 | EUR | Moderate | CFTC EUR speculative net positions | 34.4K |  | 13.9K |
-| 22:00 | KRW | Low | Consumer Confidence (Jun) |  |  | 106.1 |
+| 22:00 | KRW | Low | Consumer Confidence (Jun) | 106.6 |  | 106.1 |
