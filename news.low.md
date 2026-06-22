@@ -19,15 +19,15 @@
 | 15:00 | EUR | Consumer Confidence (Jun) | -17.7 | -18.0 | -19.0 |
 | 16:30 | USD | 3-Month Bill Auction | 3.695% |  | 3.640% |
 | 16:30 | USD | 6-Month Bill Auction | 3.840% |  | 3.680% |
-| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.4K |
-| 20:30 | USD | CFTC Copper speculative net positions |  |  | 74.5K |
-| 20:30 | USD | CFTC Corn speculative net positions |  |  | 103.6K |
-| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -194.0K |
-| 20:30 | USD | CFTC Silver speculative net positions |  |  | 22.2K |
-| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 150.5K |
-| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -57.9K |
-| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -120.0K |
-| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 63.8K |
-| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -36.7K |
-| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -31.6K |
+| 20:30 | USD | CFTC Aluminium speculative net positions | 0.1K |  | 0.4K |
+| 20:30 | USD | CFTC Copper speculative net positions | 75.3K |  | 74.5K |
+| 20:30 | USD | CFTC Corn speculative net positions | 77.8K |  | 103.6K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions | -173.5K |  | -194.0K |
+| 20:30 | USD | CFTC Silver speculative net positions | 24.5K |  | 22.2K |
+| 20:30 | USD | CFTC Soybeans speculative net positions | 117.6K |  | 150.5K |
+| 20:30 | USD | CFTC Wheat speculative net positions | -50.8K |  | -57.9K |
+| 20:30 | CAD | CFTC CAD speculative net positions | -132.9K |  | -120.0K |
+| 20:30 | MXN | CFTC MXN speculative net positions | 71.8K |  | 63.8K |
+| 20:30 | CHF | CFTC CHF speculative net positions | -40.1K |  | -36.7K |
+| 20:30 | NZD | CFTC NZD speculative net positions | -45.2K |  | -31.6K |
 | 22:00 | KRW | Consumer Confidence (Jun) |  |  | 106.1 |

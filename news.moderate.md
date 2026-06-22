@@ -13,12 +13,12 @@
 | 14:00 | USD | Fed Waller Speaks |  |  |  |
 | 15:10 | EUR | ECB's Lane Speaks |  |  |  |
 | 16:15 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 20:30 | GBP | CFTC GBP speculative net positions |  |  | -64.2K |
-| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 130.3K |
-| 20:30 | USD | CFTC Gold speculative net positions |  |  | 173.8K |
-| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | -1.3K |
-| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -205.6K |
-| 20:30 | AUD | CFTC AUD speculative net positions |  |  | 18.2K |
-| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 43.8K |
-| 20:30 | JPY | CFTC JPY speculative net positions |  |  | -145.8K |
-| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 13.9K |
+| 20:30 | GBP | CFTC GBP speculative net positions | -71.6K |  | -64.2K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions | 124.5K |  | 130.3K |
+| 20:30 | USD | CFTC Gold speculative net positions | 180.2K |  | 173.8K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions | -8.9K |  | -1.3K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions | -194.0K |  | -205.6K |
+| 20:30 | AUD | CFTC AUD speculative net positions | -4.1K |  | 18.2K |
+| 20:30 | BRL | CFTC BRL speculative net positions | 41.0K |  | 43.8K |
+| 20:30 | JPY | CFTC JPY speculative net positions | -150.1K |  | -145.8K |
+| 20:30 | EUR | CFTC EUR speculative net positions | 34.4K |  | 13.9K |
