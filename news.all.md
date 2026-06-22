@@ -5,16 +5,17 @@
 | 02:00 | CNY | Moderate | China Loan Prime Rate 5Y (Jun) | 3.50% | 3.50% | 3.50% |
 | 02:00 | CNY | Moderate | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
 | 04:00 | NZD | Low | Credit Card Spending (YoY) | 5.1% |  | 3.1% |
-| 07:00 | NOK | Low | M3 Money Supply (May) |  |  | 3,575.9B |
-| 07:00 | NOK | Low | Credit Indicator (YoY) (May) |  |  | 4.4% |
-| 08:00 | CHF | Low | M3 Money Supply (May) |  |  | 1,228.5B |
+| 07:00 | NOK | Low | M3 Money Supply (May) | 3,611.7B |  | 3,575.9B |
+| 07:00 | NOK | Low | Credit Indicator (YoY) (May) | 4.5% |  | 4.4% |
+| 08:00 | CHF | Low | M3 Money Supply (May) | 1,228.3B |  | 1,230.4B |
+| 10:40 | CNY | Low | FDI (May) | -8.60% |  | -10.30% |
 | 11:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 12:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:30 | INR | Low | Infrastructure Output (YoY) (May) |  |  | 1.7% |
 | 13:30 | CAD | Low | Common CPI (YoY) (May) |  | 2.5% | 2.5% |
-| 13:30 | CAD | Moderate | Core CPI (YoY) (May) |  |  | 2.1% |
 | 13:30 | CAD | Moderate | Core CPI (MoM) (May) |  |  | 0.2% |
+| 13:30 | CAD | Moderate | Core CPI (YoY) (May) |  |  | 2.1% |
 | 13:30 | CAD | Low | CPI (YoY) (May) |  |  | 2.8% |
 | 13:30 | CAD | Moderate | CPI (MoM) (May) |  | 0.7% | 0.4% |
 | 13:30 | CAD | Low | Median CPI (YoY) (May) |  | 2.1% | 2.1% |
