@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | CNY | China Loan Prime Rate 5Y (Jun) |  | 3.50% | 3.50% |
-| 02:15 | CNY | PBoC Loan Prime Rate |  | 3.00% | 3.00% |
+| 02:00 | CNY | China Loan Prime Rate 5Y (Jun) | 3.50% | 3.50% | 3.50% |
+| 02:00 | CNY | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
 | 11:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 12:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 13:30 | CAD | Core CPI (YoY) (May) |  |  | 2.1% |
