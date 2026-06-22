@@ -6,12 +6,12 @@
 | 02:00 | CNY | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
 | 11:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 12:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 13:30 | CAD | Core CPI (MoM) (May) |  |  | 0.2% |
-| 13:30 | CAD | Core CPI (YoY) (May) |  |  | 2.1% |
-| 13:30 | CAD | CPI (MoM) (May) |  | 0.7% | 0.4% |
+| 13:30 | CAD | Core CPI (MoM) (May) | 0.6% |  | 0.2% |
+| 13:30 | CAD | Core CPI (YoY) (May) | 2.2% |  | 2.1% |
+| 13:30 | CAD | CPI (MoM) (May) | 1.0% | 0.7% | 0.4% |
 | 13:30 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 14:00 | USD | Fed Waller Speaks |  |  |  |
-| 15:10 | EUR | ECB's Lane Speaks |  |  |  |
+| 7 min | EUR | ECB's Lane Speaks |  |  |  |
 | 16:15 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -64.2K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 130.3K |

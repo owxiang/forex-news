@@ -10,23 +10,23 @@
 | 08:00 | CHF | Low | M3 Money Supply (May) | 1,228.3B |  | 1,230.4B |
 | 10:40 | CNY | Low | FDI (May) | -8.60% |  | -10.30% |
 | 11:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 12:00 | INR | Low | Infrastructure Output (YoY) (May) | 0.5% |  | 1.8% |
 | 12:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 12:30 | INR | Low | Infrastructure Output (YoY) (May) |  |  | 1.7% |
-| 13:30 | CAD | Low | Common CPI (YoY) (May) |  | 2.5% | 2.5% |
-| 13:30 | CAD | Moderate | Core CPI (MoM) (May) |  |  | 0.2% |
-| 13:30 | CAD | Moderate | Core CPI (YoY) (May) |  |  | 2.1% |
-| 13:30 | CAD | Low | CPI (YoY) (May) |  |  | 2.8% |
-| 13:30 | CAD | Moderate | CPI (MoM) (May) |  | 0.7% | 0.4% |
-| 13:30 | CAD | Low | Median CPI (YoY) (May) |  | 2.1% | 2.1% |
-| 13:30 | CAD | Low | Trimmed CPI (YoY) (May) |  | 2.0% | 2.0% |
+| 13:30 | CAD | Low | Common CPI (YoY) (May) | 2.7% | 2.5% | 2.5% |
+| 13:30 | CAD | Moderate | Core CPI (MoM) (May) | 0.6% |  | 0.2% |
+| 13:30 | CAD | Moderate | Core CPI (YoY) (May) | 2.2% |  | 2.1% |
+| 13:30 | CAD | Low | CPI (YoY) (May) | 3.2% |  | 2.8% |
+| 13:30 | CAD | Moderate | CPI (MoM) (May) | 1.0% | 0.7% | 0.4% |
+| 13:30 | CAD | Low | Median CPI (YoY) (May) | 2.1% | 2.1% | 2.1% |
+| 13:30 | CAD | Low | Trimmed CPI (YoY) (May) | 2.0% | 2.0% | 2.0% |
 | 13:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 14:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.602% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.352% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.465% |
-| 15:00 | EUR | Low | Consumer Confidence (Jun) |  | -18.0 | -19.0 |
-| 15:10 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.640% |  | 2.602% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.388% |  | 2.352% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.481% |  | 2.465% |
+| 15:00 | EUR | Low | Consumer Confidence (Jun) | -17.7 | -18.0 | -19.0 |
+| 7 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 16:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.640% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.680% |

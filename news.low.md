@@ -7,16 +7,16 @@
 | 07:00 | NOK | Credit Indicator (YoY) (May) | 4.5% |  | 4.4% |
 | 08:00 | CHF | M3 Money Supply (May) | 1,228.3B |  | 1,230.4B |
 | 10:40 | CNY | FDI (May) | -8.60% |  | -10.30% |
+| 12:00 | INR | Infrastructure Output (YoY) (May) | 0.5% |  | 1.8% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:30 | INR | Infrastructure Output (YoY) (May) |  |  | 1.7% |
-| 13:30 | CAD | Common CPI (YoY) (May) |  | 2.5% | 2.5% |
-| 13:30 | CAD | CPI (YoY) (May) |  |  | 2.8% |
-| 13:30 | CAD | Median CPI (YoY) (May) |  | 2.1% | 2.1% |
-| 13:30 | CAD | Trimmed CPI (YoY) (May) |  | 2.0% | 2.0% |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.602% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.352% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.465% |
-| 15:00 | EUR | Consumer Confidence (Jun) |  | -18.0 | -19.0 |
+| 13:30 | CAD | Common CPI (YoY) (May) | 2.7% | 2.5% | 2.5% |
+| 13:30 | CAD | CPI (YoY) (May) | 3.2% |  | 2.8% |
+| 13:30 | CAD | Median CPI (YoY) (May) | 2.1% | 2.1% | 2.1% |
+| 13:30 | CAD | Trimmed CPI (YoY) (May) | 2.0% | 2.0% | 2.0% |
+| 14:00 | EUR | French 12-Month BTF Auction | 2.640% |  | 2.602% |
+| 14:00 | EUR | French 3-Month BTF Auction | 2.388% |  | 2.352% |
+| 14:00 | EUR | French 6-Month BTF Auction | 2.481% |  | 2.465% |
+| 15:00 | EUR | Consumer Confidence (Jun) | -17.7 | -18.0 | -19.0 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 3.640% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 3.680% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.4K |
