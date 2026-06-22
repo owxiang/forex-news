@@ -11,7 +11,7 @@
 | 13:30 | CAD | CPI (MoM) (May) | 1.0% | 0.7% | 0.4% |
 | 13:30 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 14:00 | USD | Fed Waller Speaks |  |  |  |
-| 7 min | EUR | ECB's Lane Speaks |  |  |  |
+| 15:10 | EUR | ECB's Lane Speaks |  |  |  |
 | 16:15 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -64.2K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 130.3K |

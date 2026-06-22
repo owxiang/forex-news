@@ -26,10 +26,10 @@
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.388% |  | 2.352% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.481% |  | 2.465% |
 | 15:00 | EUR | Low | Consumer Confidence (Jun) | -17.7 | -18.0 | -19.0 |
-| 7 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 15:10 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 16:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.640% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.680% |
+| 16:30 | USD | Low | 3-Month Bill Auction | 3.695% |  | 3.640% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 3.840% |  | 3.680% |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -64.2K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 0.4K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 74.5K |

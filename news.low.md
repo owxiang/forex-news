@@ -17,8 +17,8 @@
 | 14:00 | EUR | French 3-Month BTF Auction | 2.388% |  | 2.352% |
 | 14:00 | EUR | French 6-Month BTF Auction | 2.481% |  | 2.465% |
 | 15:00 | EUR | Consumer Confidence (Jun) | -17.7 | -18.0 | -19.0 |
-| 16:30 | USD | 3-Month Bill Auction |  |  | 3.640% |
-| 16:30 | USD | 6-Month Bill Auction |  |  | 3.680% |
+| 16:30 | USD | 3-Month Bill Auction | 3.695% |  | 3.640% |
+| 16:30 | USD | 6-Month Bill Auction | 3.840% |  | 3.680% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.4K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 74.5K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 103.6K |
