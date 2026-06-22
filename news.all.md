@@ -1,53 +1,68 @@
-## 22 June 2026 - All Forex News
+## 23 June 2026 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 02:00 | CNY | Moderate | China Loan Prime Rate 5Y (Jun) | 3.50% | 3.50% | 3.50% |
-| 02:00 | CNY | Moderate | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
-| 04:00 | NZD | Low | Credit Card Spending (YoY) | 5.1% |  | 3.1% |
-| 07:00 | NOK | Low | M3 Money Supply (May) | 3,611.7B |  | 3,575.9B |
-| 07:00 | NOK | Low | Credit Indicator (YoY) (May) | 4.5% |  | 4.4% |
-| 08:00 | CHF | Low | M3 Money Supply (May) | 1,228.3B |  | 1,230.4B |
-| 10:40 | CNY | Low | FDI (May) | -8.60% |  | -10.30% |
-| 11:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 12:00 | INR | Low | Infrastructure Output (YoY) (May) | 0.5% |  | 1.8% |
-| 12:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:30 | CAD | Low | Common CPI (YoY) (May) | 2.7% | 2.5% | 2.5% |
-| 13:30 | CAD | Moderate | Core CPI (MoM) (May) | 0.6% |  | 0.2% |
-| 13:30 | CAD | Moderate | Core CPI (YoY) (May) | 2.2% |  | 2.1% |
-| 13:30 | CAD | Low | CPI (YoY) (May) | 3.2% |  | 2.8% |
-| 13:30 | CAD | Moderate | CPI (MoM) (May) | 1.0% | 0.7% | 0.4% |
-| 13:30 | CAD | Low | Median CPI (YoY) (May) | 2.1% | 2.1% | 2.1% |
-| 13:30 | CAD | Low | Trimmed CPI (YoY) (May) | 2.0% | 2.0% | 2.0% |
-| 13:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 14:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.640% |  | 2.602% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.388% |  | 2.352% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.481% |  | 2.465% |
-| 15:00 | EUR | Low | Consumer Confidence (Jun) | -17.7 | -18.0 | -19.0 |
-| 15:10 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 16:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 16:30 | USD | Low | 3-Month Bill Auction | 3.695% |  | 3.640% |
-| 16:30 | USD | Low | 6-Month Bill Auction | 3.840% |  | 3.680% |
-| 20:30 | GBP | Moderate | CFTC GBP speculative net positions | -71.6K |  | -64.2K |
-| 20:30 | USD | Low | CFTC Aluminium speculative net positions | 0.1K |  | 0.4K |
-| 20:30 | USD | Low | CFTC Copper speculative net positions | 75.3K |  | 74.5K |
-| 20:30 | USD | Low | CFTC Corn speculative net positions | 77.8K |  | 103.6K |
-| 20:30 | USD | Moderate | CFTC Crude Oil speculative net positions | 124.5K |  | 130.3K |
-| 20:30 | USD | Moderate | CFTC Gold speculative net positions | 180.2K |  | 173.8K |
-| 20:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions | -8.9K |  | -1.3K |
-| 20:30 | USD | Low | CFTC Natural Gas speculative net positions | -173.5K |  | -194.0K |
-| 20:30 | USD | Moderate | CFTC S&P 500 speculative net positions | -194.0K |  | -205.6K |
-| 20:30 | USD | Low | CFTC Silver speculative net positions | 24.5K |  | 22.2K |
-| 20:30 | USD | Low | CFTC Soybeans speculative net positions | 117.6K |  | 150.5K |
-| 20:30 | USD | Low | CFTC Wheat speculative net positions | -50.8K |  | -57.9K |
-| 20:30 | CAD | Low | CFTC CAD speculative net positions | -132.9K |  | -120.0K |
-| 20:30 | MXN | Low | CFTC MXN speculative net positions | 71.8K |  | 63.8K |
-| 20:30 | CHF | Low | CFTC CHF speculative net positions | -40.1K |  | -36.7K |
-| 20:30 | AUD | Moderate | CFTC AUD speculative net positions | -4.1K |  | 18.2K |
-| 20:30 | BRL | Moderate | CFTC BRL speculative net positions | 41.0K |  | 43.8K |
-| 20:30 | JPY | Moderate | CFTC JPY speculative net positions | -150.1K |  | -145.8K |
-| 20:30 | NZD | Low | CFTC NZD speculative net positions | -45.2K |  | -31.6K |
-| 20:30 | EUR | Moderate | CFTC EUR speculative net positions | 34.4K |  | 13.9K |
-| 22:00 | KRW | Low | Consumer Confidence (Jun) | 106.6 |  | 106.1 |
+| 00:00 | AUD | Low | S&P Global Manufacturing & Services PMI (Jun) | 49.80 |  | 48.70 |
+| 00:00 | AUD | Low | S&P Global Manufacturing PMI (Jun) | 51.2 |  | 50.7 |
+| 00:00 | AUD | Low | S&P Global Services PMI (Jun) | 49.9 |  | 48.7 |
+| 01:30 | JPY | Low | Manufacturing & Services PMI (Jun) |  |  | 51.10 |
+| 01:30 | JPY | Low | S&P Global Manufacturing PMI (Jun) |  | 54.5 | 54.5 |
+| 01:30 | JPY | Moderate | S&P Global Services PMI (Jun) |  |  | 50.0 |
+| 04:00 | IDR | Low | M2 Money Supply (YoY) (May) |  |  | 9.20% |
+| 05:00 | GBP | Low | Car Registration (YoY) (May) |  |  | 24.0% |
+| 05:00 | GBP | Low | Car Registration (MoM) (May) |  |  | -60.8% |
+| 05:00 | EUR | Low | Italian Car Registration (MoM) (May) |  |  | -16.3% |
+| 05:00 | EUR | Low | Italian Car Registration (YoY) (May) |  |  | 11.6% |
+| 05:00 | EUR | Low | German Car Registration (MoM) (May) |  |  | -15.3% |
+| 05:00 | EUR | Low | German Car Registration (YoY) (May) |  |  | 2.7% |
+| 05:00 | EUR | Low | French Car Registration (YoY) (May) |  |  | -0.3% |
+| 05:00 | EUR | Low | French Car Registration (MoM) (May) |  |  | -20.3% |
+| 06:00 | INR | Low | HSBC India Manufacturing PMI (Jun) |  |  | 55.0 |
+| 06:00 | INR | Low | HSBC India Services PMI (Jun) |  |  | 59.8 |
+| 06:00 | INR | Low | HSBC Manufacturing & Services PMI (Jun) |  |  | 59.30 |
+| 06:00 | JPY | Moderate | BoJ Core CPI (YoY) |  | 1.5% | 2.8% |
+| 06:00 | SGD | Moderate | Core CPI (YoY) (May) |  |  | 1.40% |
+| 06:00 | SGD | Low | CPI (MoM) (May) |  |  | -0.30% |
+| 06:00 | SGD | Moderate | CPI (YoY) (May) |  | 2.0% | 1.8% |
+| 07:45 | EUR | Low | French Business Survey (Jun) |  |  | 102 |
+| 08:00 | ZAR | Low | Leading Indicators (Apr) |  |  | 123.00% |
+| 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Jun) |  | 50.1 | 49.7 |
+| 08:15 | EUR | Low | HCOB France Composite PMI (Jun) |  | 46.0 | 44.9 |
+| 08:15 | EUR | Moderate | HCOB France Services PMI (Jun) |  | 45.7 | 44.3 |
+| 08:30 | EUR | Low | HCOB Germany Composite PMI (Jun) |  | 49.9 | 48.8 |
+| 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Jun) |  | 50.2 | 50.1 |
+| 08:30 | EUR | Moderate | HCOB Germany Services PMI (Jun) |  | 49.0 | 48.1 |
+| 09:00 | EUR | Low | Spanish Trade Balance (Apr) |  |  | -4.40B |
+| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Jun) |  | 51.6 | 51.6 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Jun) |  | 49.1 | 48.5 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Jun) |  | 48.6 | 47.7 |
+| 09:30 | GBP | Moderate | S&P Global Composite PMI (Jun) |  | 50.6 | 49.7 |
+| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Jun) |  | 53.5 | 53.9 |
+| 09:30 | GBP | Moderate | S&P Global Services PMI (Jun) |  | 50.0 | 49.3 |
+| 09:30 | HKD | Low | CPI (MoM) (May) |  |  | -0.10% |
+| 09:30 | HKD | Low | CPI (YoY) (May) |  |  | 1.70% |
+| 09:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 09:35 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 09:55 | GBP | Low | BoE Breeden Speaks |  |  |  |
+| 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 2.590% |
+| 11:00 | GBP | Low | CBI Industrial Trends Orders (Jun) |  | -33 | -41 |
+| 12:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
+| 13:00 | MXN | Low | Economic Activity (YoY) (Apr) |  | 1.90% | 1.40% |
+| 13:00 | MXN | Low | Economic Activity (MoM) (Apr) |  |  | 0.40% |
+| 13:00 | MXN | Low | Retail Sales (YoY) (Apr) |  |  | 2.9% |
+| 13:00 | MXN | Low | Retail Sales (MoM) (Apr) |  |  | 0.1% |
+| 13:00 | CNY | Low | FDI (May) |  |  | -10.30% |
+| 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 25.50K |
+| 13:55 | USD | Low | Redbook (YoY) |  |  | 9.4% |
+| 14:00 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
+| 14:15 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 14:45 | USD | High | S&P Global Manufacturing PMI (Jun) |  | 54.6 | 55.1 |
+| 14:45 | USD | Moderate | S&P Global Composite PMI (Jun) |  |  | 51.5 |
+| 14:45 | USD | High | S&P Global Services PMI (Jun) |  | 51.0 | 50.7 |
+| 15:00 | USD | Low | Richmond Manufacturing Index (Jun) |  | 8 | 13 |
+| 15:00 | USD | Low | Richmond Manufacturing Shipments (Jun) |  |  | 16 |
+| 15:00 | USD | Low | Richmond Services Index (Jun) |  |  | 14 |
+| 18:00 | USD | Moderate | 2-Year Note Auction |  |  | 4.071% |
+| 18:00 | USD | Low | M2 Money Supply (MoM) (May) |  |  | 22.80T |
+| 18:30 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -8.330M |

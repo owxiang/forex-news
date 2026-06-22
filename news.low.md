@@ -1,33 +1,44 @@
-## 22 June 2026 - Low Impact Forex News
+## 23 June 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 04:00 | NZD | Credit Card Spending (YoY) | 5.1% |  | 3.1% |
-| 07:00 | NOK | M3 Money Supply (May) | 3,611.7B |  | 3,575.9B |
-| 07:00 | NOK | Credit Indicator (YoY) (May) | 4.5% |  | 4.4% |
-| 08:00 | CHF | M3 Money Supply (May) | 1,228.3B |  | 1,230.4B |
-| 10:40 | CNY | FDI (May) | -8.60% |  | -10.30% |
-| 12:00 | INR | Infrastructure Output (YoY) (May) | 0.5% |  | 1.8% |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:30 | CAD | Common CPI (YoY) (May) | 2.7% | 2.5% | 2.5% |
-| 13:30 | CAD | CPI (YoY) (May) | 3.2% |  | 2.8% |
-| 13:30 | CAD | Median CPI (YoY) (May) | 2.1% | 2.1% | 2.1% |
-| 13:30 | CAD | Trimmed CPI (YoY) (May) | 2.0% | 2.0% | 2.0% |
-| 14:00 | EUR | French 12-Month BTF Auction | 2.640% |  | 2.602% |
-| 14:00 | EUR | French 3-Month BTF Auction | 2.388% |  | 2.352% |
-| 14:00 | EUR | French 6-Month BTF Auction | 2.481% |  | 2.465% |
-| 15:00 | EUR | Consumer Confidence (Jun) | -17.7 | -18.0 | -19.0 |
-| 16:30 | USD | 3-Month Bill Auction | 3.695% |  | 3.640% |
-| 16:30 | USD | 6-Month Bill Auction | 3.840% |  | 3.680% |
-| 20:30 | USD | CFTC Aluminium speculative net positions | 0.1K |  | 0.4K |
-| 20:30 | USD | CFTC Copper speculative net positions | 75.3K |  | 74.5K |
-| 20:30 | USD | CFTC Corn speculative net positions | 77.8K |  | 103.6K |
-| 20:30 | USD | CFTC Natural Gas speculative net positions | -173.5K |  | -194.0K |
-| 20:30 | USD | CFTC Silver speculative net positions | 24.5K |  | 22.2K |
-| 20:30 | USD | CFTC Soybeans speculative net positions | 117.6K |  | 150.5K |
-| 20:30 | USD | CFTC Wheat speculative net positions | -50.8K |  | -57.9K |
-| 20:30 | CAD | CFTC CAD speculative net positions | -132.9K |  | -120.0K |
-| 20:30 | MXN | CFTC MXN speculative net positions | 71.8K |  | 63.8K |
-| 20:30 | CHF | CFTC CHF speculative net positions | -40.1K |  | -36.7K |
-| 20:30 | NZD | CFTC NZD speculative net positions | -45.2K |  | -31.6K |
-| 22:00 | KRW | Consumer Confidence (Jun) | 106.6 |  | 106.1 |
+| 00:00 | AUD | S&P Global Manufacturing & Services PMI (Jun) | 49.80 |  | 48.70 |
+| 00:00 | AUD | S&P Global Manufacturing PMI (Jun) | 51.2 |  | 50.7 |
+| 00:00 | AUD | S&P Global Services PMI (Jun) | 49.9 |  | 48.7 |
+| 01:30 | JPY | Manufacturing & Services PMI (Jun) |  |  | 51.10 |
+| 01:30 | JPY | S&P Global Manufacturing PMI (Jun) |  | 54.5 | 54.5 |
+| 04:00 | IDR | M2 Money Supply (YoY) (May) |  |  | 9.20% |
+| 05:00 | GBP | Car Registration (YoY) (May) |  |  | 24.0% |
+| 05:00 | GBP | Car Registration (MoM) (May) |  |  | -60.8% |
+| 05:00 | EUR | Italian Car Registration (MoM) (May) |  |  | -16.3% |
+| 05:00 | EUR | Italian Car Registration (YoY) (May) |  |  | 11.6% |
+| 05:00 | EUR | German Car Registration (MoM) (May) |  |  | -15.3% |
+| 05:00 | EUR | German Car Registration (YoY) (May) |  |  | 2.7% |
+| 05:00 | EUR | French Car Registration (YoY) (May) |  |  | -0.3% |
+| 05:00 | EUR | French Car Registration (MoM) (May) |  |  | -20.3% |
+| 06:00 | INR | HSBC India Manufacturing PMI (Jun) |  |  | 55.0 |
+| 06:00 | INR | HSBC India Services PMI (Jun) |  |  | 59.8 |
+| 06:00 | INR | HSBC Manufacturing & Services PMI (Jun) |  |  | 59.30 |
+| 06:00 | SGD | CPI (MoM) (May) |  |  | -0.30% |
+| 07:45 | EUR | French Business Survey (Jun) |  |  | 102 |
+| 08:00 | ZAR | Leading Indicators (Apr) |  |  | 123.00% |
+| 08:15 | EUR | HCOB France Composite PMI (Jun) |  | 46.0 | 44.9 |
+| 08:30 | EUR | HCOB Germany Composite PMI (Jun) |  | 49.9 | 48.8 |
+| 09:00 | EUR | Spanish Trade Balance (Apr) |  |  | -4.40B |
+| 09:30 | HKD | CPI (MoM) (May) |  |  | -0.10% |
+| 09:30 | HKD | CPI (YoY) (May) |  |  | 1.70% |
+| 09:55 | GBP | BoE Breeden Speaks |  |  |  |
+| 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.590% |
+| 11:00 | GBP | CBI Industrial Trends Orders (Jun) |  | -33 | -41 |
+| 12:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
+| 13:00 | MXN | Economic Activity (YoY) (Apr) |  | 1.90% | 1.40% |
+| 13:00 | MXN | Economic Activity (MoM) (Apr) |  |  | 0.40% |
+| 13:00 | MXN | Retail Sales (YoY) (Apr) |  |  | 2.9% |
+| 13:00 | MXN | Retail Sales (MoM) (Apr) |  |  | 0.1% |
+| 13:00 | CNY | FDI (May) |  |  | -10.30% |
+| 13:55 | USD | Redbook (YoY) |  |  | 9.4% |
+| 15:00 | USD | Richmond Manufacturing Index (Jun) |  | 8 | 13 |
+| 15:00 | USD | Richmond Manufacturing Shipments (Jun) |  |  | 16 |
+| 15:00 | USD | Richmond Services Index (Jun) |  |  | 14 |
+| 18:00 | USD | M2 Money Supply (MoM) (May) |  |  | 22.80T |
+| 18:30 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |

@@ -1,24 +1,26 @@
-## 22 June 2026 - Moderate Impact Forex News
+## 23 June 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | CNY | China Loan Prime Rate 5Y (Jun) | 3.50% | 3.50% | 3.50% |
-| 02:00 | CNY | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
-| 11:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 12:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 13:30 | CAD | Core CPI (MoM) (May) | 0.6% |  | 0.2% |
-| 13:30 | CAD | Core CPI (YoY) (May) | 2.2% |  | 2.1% |
-| 13:30 | CAD | CPI (MoM) (May) | 1.0% | 0.7% | 0.4% |
-| 13:30 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 14:00 | USD | Fed Waller Speaks |  |  |  |
-| 15:10 | EUR | ECB's Lane Speaks |  |  |  |
-| 16:15 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 20:30 | GBP | CFTC GBP speculative net positions | -71.6K |  | -64.2K |
-| 20:30 | USD | CFTC Crude Oil speculative net positions | 124.5K |  | 130.3K |
-| 20:30 | USD | CFTC Gold speculative net positions | 180.2K |  | 173.8K |
-| 20:30 | USD | CFTC Nasdaq 100 speculative net positions | -8.9K |  | -1.3K |
-| 20:30 | USD | CFTC S&P 500 speculative net positions | -194.0K |  | -205.6K |
-| 20:30 | AUD | CFTC AUD speculative net positions | -4.1K |  | 18.2K |
-| 20:30 | BRL | CFTC BRL speculative net positions | 41.0K |  | 43.8K |
-| 20:30 | JPY | CFTC JPY speculative net positions | -150.1K |  | -145.8K |
-| 20:30 | EUR | CFTC EUR speculative net positions | 34.4K |  | 13.9K |
+| 01:30 | JPY | S&P Global Services PMI (Jun) |  |  | 50.0 |
+| 06:00 | JPY | BoJ Core CPI (YoY) |  | 1.5% | 2.8% |
+| 06:00 | SGD | Core CPI (YoY) (May) |  |  | 1.40% |
+| 06:00 | SGD | CPI (YoY) (May) |  | 2.0% | 1.8% |
+| 08:15 | EUR | HCOB France Manufacturing PMI (Jun) |  | 50.1 | 49.7 |
+| 08:15 | EUR | HCOB France Services PMI (Jun) |  | 45.7 | 44.3 |
+| 08:30 | EUR | HCOB Germany Manufacturing PMI (Jun) |  | 50.2 | 50.1 |
+| 08:30 | EUR | HCOB Germany Services PMI (Jun) |  | 49.0 | 48.1 |
+| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Jun) |  | 51.6 | 51.6 |
+| 09:00 | EUR | HCOB Eurozone Composite PMI (Jun) |  | 49.1 | 48.5 |
+| 09:00 | EUR | HCOB Eurozone Services PMI (Jun) |  | 48.6 | 47.7 |
+| 09:30 | GBP | S&P Global Composite PMI (Jun) |  | 50.6 | 49.7 |
+| 09:30 | GBP | S&P Global Manufacturing PMI (Jun) |  | 53.5 | 53.9 |
+| 09:30 | GBP | S&P Global Services PMI (Jun) |  | 50.0 | 49.3 |
+| 09:30 | EUR | ECB's Lane Speaks |  |  |  |
+| 09:35 | EUR | German Buba Mauderer Speaks |  |  |  |
+| 13:15 | USD | ADP Employment Change Weekly |  |  | 25.50K |
+| 14:00 | CAD | BoC Gov Macklem Speaks |  |  |  |
+| 14:15 | EUR | ECB's Elderson Speaks |  |  |  |
+| 14:45 | USD | S&P Global Composite PMI (Jun) |  |  | 51.5 |
+| 18:00 | USD | 2-Year Note Auction |  |  | 4.071% |
+| 21:30 | USD | API Weekly Crude Oil Stock |  |  | -8.330M |
