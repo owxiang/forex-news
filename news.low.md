@@ -40,5 +40,5 @@
 | 15:00 | USD | Richmond Manufacturing Index (Jun) | 4 | 8 | 13 |
 | 15:00 | USD | Richmond Manufacturing Shipments (Jun) | 3 |  | 16 |
 | 15:00 | USD | Richmond Services Index (Jun) | -1 |  | 14 |
-| 18:00 | USD | M2 Money Supply (MoM) (May) |  |  | 22.80T |
-| 18:30 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
+| 4 min | USD | M2 Money Supply (MoM) (May) |  |  | 22.80T |
+| 34 min | GBP | BoE MPC Member Dhingra Speaks |  |  |  |

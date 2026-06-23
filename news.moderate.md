@@ -18,9 +18,9 @@
 | 09:30 | GBP | S&P Global Services PMI (Jun) | 48.7 | 50.1 | 49.3 |
 | 09:30 | EUR | ECB's Lane Speaks |  |  |  |
 | 09:35 | EUR | German Buba Mauderer Speaks |  |  |  |
-| 13:15 | USD | ADP Employment Change Weekly | 30.75K |  | 25.50K |
+| 13:15 | USD | ADP Employment Change Weekly | 30.75K |  | 26.50K |
 | 14:00 | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 14:15 | EUR | ECB's Elderson Speaks |  |  |  |
 | 14:45 | USD | S&P Global Composite PMI (Jun) | 52.2 |  | 51.5 |
-| 18:00 | USD | 2-Year Note Auction |  |  | 4.071% |
+| 4 min | USD | 2-Year Note Auction |  |  | 4.071% |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | -8.330M |
