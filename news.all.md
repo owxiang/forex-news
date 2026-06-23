@@ -66,4 +66,4 @@
 | 18:00 | USD | Low | M2 Money Supply (MoM) (May) | 23.05T |  | 22.80T |
 | 18:30 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
 | 19:05 | USD | High | U.S. President Trump Speaks |  |  |  |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -8.330M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | -0.765M |  | -8.330M |
