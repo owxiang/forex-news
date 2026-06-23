@@ -1,44 +1,38 @@
-## 23 June 2026 - Low Impact Forex News
+## 24 June 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | AUD | S&P Global Manufacturing & Services PMI (Jun) | 49.80 |  | 48.70 |
-| 00:00 | AUD | S&P Global Manufacturing PMI (Jun) | 51.2 |  | 50.7 |
-| 00:00 | AUD | S&P Global Services PMI (Jun) | 49.9 |  | 48.7 |
-| 01:30 | JPY | Manufacturing & Services PMI (Jun) | 52.50 |  | 51.10 |
-| 01:30 | JPY | S&P Global Manufacturing PMI (Jun) | 54.9 | 54.5 | 54.5 |
-| 04:30 | IDR | M2 Money Supply (YoY) (May) | 10.80% |  | 9.20% |
-| 04:35 | JPY | 5-Year JGB Auction | 1.905% |  | 2.024% |
-| 05:00 | GBP | Car Registration (MoM) (May) | 7.6% |  | -60.8% |
-| 05:00 | GBP | Car Registration (YoY) (May) | 7.1% |  | 24.0% |
-| 05:00 | EUR | Italian Car Registration (MoM) (May) | -3.3% |  | -16.3% |
-| 05:00 | EUR | Italian Car Registration (YoY) (May) | 7.6% |  | 11.6% |
-| 05:00 | EUR | German Car Registration (MoM) (May) | -3.9% |  | -15.3% |
-| 05:00 | EUR | German Car Registration (YoY) (May) | 0.1% |  | 2.7% |
-| 05:00 | EUR | French Car Registration (MoM) (May) | -7.1% |  | -20.3% |
-| 05:00 | EUR | French Car Registration (YoY) (May) | 3.7% |  | -0.3% |
-| 06:00 | INR | HSBC India Manufacturing PMI (Jun) | 54.5 |  | 55.0 |
-| 06:00 | INR | HSBC India Services PMI (Jun) | 57.3 |  | 59.8 |
-| 06:00 | INR | HSBC Manufacturing & Services PMI (Jun) | 57.40 |  | 59.30 |
-| 06:00 | SGD | CPI (MoM) (May) | 0.70% |  | -0.30% |
-| 07:45 | EUR | French Business Survey (Jun) | 100 | 101 | 102 |
-| 08:00 | ZAR | Leading Indicators (Apr) | 118.90% |  | 121.07% |
-| 08:15 | EUR | HCOB France Composite PMI (Jun) | 47.6 | 46.0 | 44.9 |
-| 08:30 | EUR | HCOB Germany Composite PMI (Jun) | 48.0 | 49.9 | 48.8 |
-| 09:00 | EUR | Spanish Trade Balance (Apr) | -5.20B |  | -4.40B |
-| 09:30 | HKD | CPI (MoM) (May) | 0.00% |  | -0.10% |
-| 09:30 | HKD | CPI (YoY) (May) | 2.00% |  | 1.70% |
-| 09:55 | GBP | BoE Breeden Speaks |  |  |  |
-| 10:30 | EUR | German 2-Year Schatz Auction | 2.570% |  | 2.590% |
-| 11:00 | GBP | CBI Industrial Trends Orders (Jun) | -45 | -33 | -41 |
-| 12:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
-| 13:00 | MXN | Economic Activity (YoY) (Apr) | 2.30% | 1.90% | 1.40% |
-| 13:00 | MXN | Economic Activity (MoM) (Apr) | 1.20% |  | 0.60% |
-| 13:00 | MXN | Retail Sales (YoY) (Apr) | 4.4% |  | 2.9% |
-| 13:00 | MXN | Retail Sales (MoM) (Apr) | 0.8% |  | 0.1% |
-| 13:55 | USD | Redbook (YoY) | 10.0% |  | 9.4% |
-| 15:00 | USD | Richmond Manufacturing Index (Jun) | 4 | 8 | 13 |
-| 15:00 | USD | Richmond Manufacturing Shipments (Jun) | 3 |  | 16 |
-| 15:00 | USD | Richmond Services Index (Jun) | -1 |  | 14 |
-| 18:00 | USD | M2 Money Supply (MoM) (May) | 23.05T |  | 22.80T |
-| 18:30 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
+| 00:50 | JPY | BoJ Summary of Opinions |  |  |  |
+| 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 3.3% | 3.0% |
+| 02:30 | AUD | CPI Index Number |  |  | 101.70 |
+| 02:30 | AUD | Trimmed Mean CPI (YoY) |  |  | 3.5% |
+| 02:30 | AUD | Monthly CPI Indicator (YoY) (May) |  | 4.30% | 4.20% |
+| 02:30 | AUD | Weighted mean CPI (QoQ) |  |  | 0.8% |
+| 02:30 | AUD | Weighted mean CPI (YoY) |  |  | 3.5% |
+| 07:00 | NOK | Unemployment Rate (May) |  |  | 4.6% |
+| 09:00 | CHF | ZEW Expectations (Jun) |  |  | -11.1 |
+| 10:30 | GBP | 5-Year Treasury Gilt Auction |  |  | 4.277% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.60% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -3.8% |
+| 12:00 | USD | MBA Purchase Index |  |  | 170.8 |
+| 12:00 | USD | Mortgage Market Index |  |  | 269.5 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 810.2 |
+| 12:00 | BRL | FGV Consumer confidence (Jun) |  |  | 88.8 |
+| 12:15 | GBP | BoE Breeden Speaks |  |  |  |
+| 13:00 | MXN | 1st Half-Month Core CPI (Jun) |  | 0.20% | 0.13% |
+| 13:00 | MXN | 1st Half-Month CPI (Jun) |  | 0.10% | -0.16% |
+| 13:30 | USD | Building Permits (MoM) (May) |  | -0.7% | 4.4% |
+| 13:30 | CAD | Manufacturing Sales (MoM) (May) |  |  | 4.2% |
+| 14:00 | CHF | SNB Quarterly Bulletin |  |  |  |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.230M |
+| 15:30 | USD | Crude Oil Imports |  |  | -0.241M |
+| 15:30 | USD | Distillate Fuel Production |  |  | -0.029M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | 0.951M |
+| 15:30 | USD | Gasoline Production |  |  | 0.356M |
+| 15:30 | USD | Heating Oil Stockpiles |  |  | -0.204M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.4% |
+| 15:30 | USD | Gasoline Inventories |  |  | -0.906M |
+| 16:00 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
+| 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
+| 18:30 | BRL | Foreign Exchange Flows |  |  | 1.542B |
+| 21:00 | JPY | BOJ Gov Ueda Speaks |  |  |  |

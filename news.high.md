@@ -1,7 +1,6 @@
-## 23 June 2026 - High Impact Forex News
+## 24 June 2026 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 14:45 | USD | S&P Global Manufacturing PMI (Jun) | 55.7 | 54.6 | 55.1 |
-| 14:45 | USD | S&P Global Services PMI (Jun) | 51.3 | 51.1 | 50.7 |
-| 19:05 | USD | U.S. President Trump Speaks |  |  |  |
+| 15:00 | USD | New Home Sales (May) |  | 638K | 622K |
+| 15:30 | USD | Crude Oil Inventories |  | -5.100M | -8.263M |
