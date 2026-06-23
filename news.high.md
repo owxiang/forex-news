@@ -4,3 +4,4 @@
 |------|----------|-------|--------|----------|----------|
 | 14:45 | USD | S&P Global Manufacturing PMI (Jun) | 55.7 | 54.6 | 55.1 |
 | 14:45 | USD | S&P Global Services PMI (Jun) | 51.3 | 51.1 | 50.7 |
+| 19:05 | USD | U.S. President Trump Speaks |  |  |  |

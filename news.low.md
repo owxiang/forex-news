@@ -32,13 +32,13 @@
 | 10:30 | EUR | German 2-Year Schatz Auction | 2.570% |  | 2.590% |
 | 11:00 | GBP | CBI Industrial Trends Orders (Jun) | -45 | -33 | -41 |
 | 12:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
-| 13:00 | MXN | Economic Activity (MoM) (Apr) | 1.20% |  | 0.60% |
 | 13:00 | MXN | Economic Activity (YoY) (Apr) | 2.30% | 1.90% | 1.40% |
-| 13:00 | MXN | Retail Sales (MoM) (Apr) | 0.8% |  | 0.1% |
+| 13:00 | MXN | Economic Activity (MoM) (Apr) | 1.20% |  | 0.60% |
 | 13:00 | MXN | Retail Sales (YoY) (Apr) | 4.4% |  | 2.9% |
+| 13:00 | MXN | Retail Sales (MoM) (Apr) | 0.8% |  | 0.1% |
 | 13:55 | USD | Redbook (YoY) | 10.0% |  | 9.4% |
 | 15:00 | USD | Richmond Manufacturing Index (Jun) | 4 | 8 | 13 |
 | 15:00 | USD | Richmond Manufacturing Shipments (Jun) | 3 |  | 16 |
 | 15:00 | USD | Richmond Services Index (Jun) | -1 |  | 14 |
-| 4 min | USD | M2 Money Supply (MoM) (May) |  |  | 22.80T |
-| 34 min | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
+| 18:00 | USD | M2 Money Supply (MoM) (May) | 23.05T |  | 22.80T |
+| 18:30 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |

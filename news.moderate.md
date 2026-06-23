@@ -22,5 +22,5 @@
 | 14:00 | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 14:15 | EUR | ECB's Elderson Speaks |  |  |  |
 | 14:45 | USD | S&P Global Composite PMI (Jun) | 52.2 |  | 51.5 |
-| 4 min | USD | 2-Year Note Auction |  |  | 4.071% |
+| 18:00 | USD | 2-Year Note Auction | 4.189% |  | 4.071% |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | -8.330M |
