@@ -5,9 +5,9 @@
 | 00:00 | AUD | Low | S&P Global Manufacturing & Services PMI (Jun) | 49.80 |  | 48.70 |
 | 00:00 | AUD | Low | S&P Global Manufacturing PMI (Jun) | 51.2 |  | 50.7 |
 | 00:00 | AUD | Low | S&P Global Services PMI (Jun) | 49.9 |  | 48.7 |
-| 01:30 | JPY | Low | Manufacturing & Services PMI (Jun) |  |  | 51.10 |
-| 01:30 | JPY | Low | S&P Global Manufacturing PMI (Jun) |  | 54.5 | 54.5 |
-| 01:30 | JPY | Moderate | S&P Global Services PMI (Jun) |  |  | 50.0 |
+| 01:30 | JPY | Low | Manufacturing & Services PMI (Jun) | 52.50 |  | 51.10 |
+| 01:30 | JPY | Low | S&P Global Manufacturing PMI (Jun) | 54.9 | 54.5 | 54.5 |
+| 01:30 | JPY | Moderate | S&P Global Services PMI (Jun) | 51.8 |  | 50.0 |
 | 04:00 | IDR | Low | M2 Money Supply (YoY) (May) |  |  | 9.20% |
 | 05:00 | GBP | Low | Car Registration (YoY) (May) |  |  | 24.0% |
 | 05:00 | GBP | Low | Car Registration (MoM) (May) |  |  | -60.8% |

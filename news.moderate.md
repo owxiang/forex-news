@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | JPY | S&P Global Services PMI (Jun) |  |  | 50.0 |
+| 01:30 | JPY | S&P Global Services PMI (Jun) | 51.8 |  | 50.0 |
 | 06:00 | JPY | BoJ Core CPI (YoY) |  | 1.5% | 2.8% |
 | 06:00 | SGD | Core CPI (YoY) (May) |  |  | 1.40% |
 | 06:00 | SGD | CPI (YoY) (May) |  | 2.0% | 1.8% |
