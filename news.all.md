@@ -23,13 +23,13 @@
 | 06:00 | INR | Low | HSBC Manufacturing & Services PMI (Jun) | 57.40 |  | 59.30 |
 | 06:00 | JPY | Moderate | BoJ Core CPI (YoY) | 2.7% |  | 2.8% |
 | 06:00 | SGD | Moderate | Core CPI (YoY) (May) | 1.40% | 1.60% | 1.40% |
-| 06:00 | SGD | Low | CPI (MoM) (May) | 0.80% |  | -0.30% |
+| 06:00 | SGD | Low | CPI (MoM) (May) | 0.70% |  | -0.30% |
 | 06:00 | SGD | Moderate | CPI (YoY) (May) | 1.8% | 2.0% | 1.8% |
-| 07:45 | EUR | Low | French Business Survey (Jun) |  | 101 | 102 |
-| 08:00 | ZAR | Low | Leading Indicators (Apr) |  |  | 123.00% |
-| 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Jun) |  | 50.2 | 49.7 |
-| 08:15 | EUR | Low | HCOB France Composite PMI (Jun) |  | 46.0 | 44.9 |
-| 08:15 | EUR | Moderate | HCOB France Services PMI (Jun) |  | 45.9 | 44.3 |
+| 07:45 | EUR | Low | French Business Survey (Jun) | 100 | 101 | 102 |
+| 08:00 | ZAR | Low | Leading Indicators (Apr) | 118.90% |  | 121.10% |
+| 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Jun) | 50.7 | 50.2 | 49.7 |
+| 08:15 | EUR | Low | HCOB France Composite PMI (Jun) | 47.6 | 46.0 | 44.9 |
+| 08:15 | EUR | Moderate | HCOB France Services PMI (Jun) | 47.4 | 45.9 | 44.3 |
 | 08:30 | EUR | Low | HCOB Germany Composite PMI (Jun) |  | 49.9 | 48.8 |
 | 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Jun) |  | 50.3 | 50.1 |
 | 08:30 | EUR | Moderate | HCOB Germany Services PMI (Jun) |  | 49.0 | 48.1 |

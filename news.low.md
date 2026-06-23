@@ -20,10 +20,10 @@
 | 06:00 | INR | HSBC India Manufacturing PMI (Jun) | 54.5 |  | 55.0 |
 | 06:00 | INR | HSBC India Services PMI (Jun) | 57.3 |  | 59.8 |
 | 06:00 | INR | HSBC Manufacturing & Services PMI (Jun) | 57.40 |  | 59.30 |
-| 06:00 | SGD | CPI (MoM) (May) | 0.80% |  | -0.30% |
-| 07:45 | EUR | French Business Survey (Jun) |  | 101 | 102 |
-| 08:00 | ZAR | Leading Indicators (Apr) |  |  | 123.00% |
-| 08:15 | EUR | HCOB France Composite PMI (Jun) |  | 46.0 | 44.9 |
+| 06:00 | SGD | CPI (MoM) (May) | 0.70% |  | -0.30% |
+| 07:45 | EUR | French Business Survey (Jun) | 100 | 101 | 102 |
+| 08:00 | ZAR | Leading Indicators (Apr) | 118.90% |  | 121.10% |
+| 08:15 | EUR | HCOB France Composite PMI (Jun) | 47.6 | 46.0 | 44.9 |
 | 08:30 | EUR | HCOB Germany Composite PMI (Jun) |  | 49.9 | 48.8 |
 | 09:00 | EUR | Spanish Trade Balance (Apr) |  |  | -4.40B |
 | 09:30 | HKD | CPI (MoM) (May) |  |  | -0.10% |

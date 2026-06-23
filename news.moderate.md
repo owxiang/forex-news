@@ -6,8 +6,8 @@
 | 06:00 | JPY | BoJ Core CPI (YoY) | 2.7% |  | 2.8% |
 | 06:00 | SGD | Core CPI (YoY) (May) | 1.40% | 1.60% | 1.40% |
 | 06:00 | SGD | CPI (YoY) (May) | 1.8% | 2.0% | 1.8% |
-| 08:15 | EUR | HCOB France Manufacturing PMI (Jun) |  | 50.2 | 49.7 |
-| 08:15 | EUR | HCOB France Services PMI (Jun) |  | 45.9 | 44.3 |
+| 08:15 | EUR | HCOB France Manufacturing PMI (Jun) | 50.7 | 50.2 | 49.7 |
+| 08:15 | EUR | HCOB France Services PMI (Jun) | 47.4 | 45.9 | 44.3 |
 | 08:30 | EUR | HCOB Germany Manufacturing PMI (Jun) |  | 50.3 | 50.1 |
 | 08:30 | EUR | HCOB Germany Services PMI (Jun) |  | 49.0 | 48.1 |
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Jun) |  | 51.6 | 51.6 |
