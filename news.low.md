@@ -7,21 +7,21 @@
 | 00:00 | AUD | S&P Global Services PMI (Jun) | 49.9 |  | 48.7 |
 | 01:30 | JPY | Manufacturing & Services PMI (Jun) | 52.50 |  | 51.10 |
 | 01:30 | JPY | S&P Global Manufacturing PMI (Jun) | 54.9 | 54.5 | 54.5 |
-| 04:30 | IDR | M2 Money Supply (YoY) (May) |  |  | 9.20% |
-| 04:35 | JPY | 5-Year JGB Auction |  |  | 2.024% |
-| 05:00 | GBP | Car Registration (MoM) (May) |  |  | -60.8% |
-| 05:00 | GBP | Car Registration (YoY) (May) |  |  | 24.0% |
-| 05:00 | EUR | Italian Car Registration (MoM) (May) |  |  | -16.3% |
-| 05:00 | EUR | Italian Car Registration (YoY) (May) |  |  | 11.6% |
-| 05:00 | EUR | German Car Registration (MoM) (May) |  |  | -15.3% |
-| 05:00 | EUR | German Car Registration (YoY) (May) |  |  | 2.7% |
-| 05:00 | EUR | French Car Registration (MoM) (May) |  |  | -20.3% |
-| 05:00 | EUR | French Car Registration (YoY) (May) |  |  | -0.3% |
-| 06:00 | INR | HSBC India Manufacturing PMI (Jun) |  |  | 55.0 |
-| 06:00 | INR | HSBC India Services PMI (Jun) |  |  | 59.8 |
-| 06:00 | INR | HSBC Manufacturing & Services PMI (Jun) |  |  | 59.30 |
-| 06:00 | SGD | CPI (MoM) (May) |  |  | -0.30% |
-| 07:45 | EUR | French Business Survey (Jun) |  |  | 102 |
+| 04:30 | IDR | M2 Money Supply (YoY) (May) | 10.80% |  | 9.20% |
+| 04:35 | JPY | 5-Year JGB Auction | 1.905% |  | 2.024% |
+| 05:00 | GBP | Car Registration (MoM) (May) | 7.6% |  | -60.8% |
+| 05:00 | GBP | Car Registration (YoY) (May) | 7.1% |  | 24.0% |
+| 05:00 | EUR | Italian Car Registration (MoM) (May) | -3.3% |  | -16.3% |
+| 05:00 | EUR | Italian Car Registration (YoY) (May) | 7.6% |  | 11.6% |
+| 05:00 | EUR | German Car Registration (MoM) (May) | -3.9% |  | -15.3% |
+| 05:00 | EUR | German Car Registration (YoY) (May) | 0.1% |  | 2.7% |
+| 05:00 | EUR | French Car Registration (MoM) (May) | -7.1% |  | -20.3% |
+| 05:00 | EUR | French Car Registration (YoY) (May) | 3.7% |  | -0.3% |
+| 06:00 | INR | HSBC India Manufacturing PMI (Jun) | 54.5 |  | 55.0 |
+| 06:00 | INR | HSBC India Services PMI (Jun) | 57.3 |  | 59.8 |
+| 06:00 | INR | HSBC Manufacturing & Services PMI (Jun) | 57.40 |  | 59.30 |
+| 06:00 | SGD | CPI (MoM) (May) | 0.80% |  | -0.30% |
+| 07:45 | EUR | French Business Survey (Jun) |  | 101 | 102 |
 | 08:00 | ZAR | Leading Indicators (Apr) |  |  | 123.00% |
 | 08:15 | EUR | HCOB France Composite PMI (Jun) |  | 46.0 | 44.9 |
 | 08:30 | EUR | HCOB Germany Composite PMI (Jun) |  | 49.9 | 48.8 |
