@@ -29,14 +29,13 @@
 | 09:30 | HKD | CPI (MoM) (May) | 0.00% |  | -0.10% |
 | 09:30 | HKD | CPI (YoY) (May) | 2.00% |  | 1.70% |
 | 09:55 | GBP | BoE Breeden Speaks |  |  |  |
-| 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.590% |
-| 11:00 | GBP | CBI Industrial Trends Orders (Jun) |  | -33 | -41 |
+| 10:30 | EUR | German 2-Year Schatz Auction | 2.570% |  | 2.590% |
+| 11:00 | GBP | CBI Industrial Trends Orders (Jun) | -45 | -33 | -41 |
 | 12:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
-| 13:00 | MXN | Economic Activity (MoM) (Apr) |  |  | 0.40% |
-| 13:00 | MXN | Economic Activity (YoY) (Apr) |  | 1.90% | 1.40% |
-| 13:00 | MXN | Retail Sales (MoM) (Apr) |  |  | 0.1% |
-| 13:00 | MXN | Retail Sales (YoY) (Apr) |  |  | 2.9% |
-| 13:00 | CNY | FDI (May) |  |  | -10.30% |
+| 51 min | MXN | Economic Activity (MoM) (Apr) |  |  | 0.40% |
+| 51 min | MXN | Economic Activity (YoY) (Apr) |  | 1.90% | 1.40% |
+| 51 min | MXN | Retail Sales (MoM) (Apr) |  |  | 0.1% |
+| 51 min | MXN | Retail Sales (YoY) (Apr) |  |  | 2.9% |
 | 13:55 | USD | Redbook (YoY) |  |  | 9.4% |
 | 15:00 | USD | Richmond Manufacturing Index (Jun) |  | 8 | 13 |
 | 15:00 | USD | Richmond Manufacturing Shipments (Jun) |  |  | 16 |

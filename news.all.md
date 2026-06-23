@@ -45,14 +45,13 @@
 | 09:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 09:35 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 09:55 | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 2.590% |
-| 11:00 | GBP | Low | CBI Industrial Trends Orders (Jun) |  | -33 | -41 |
+| 10:30 | EUR | Low | German 2-Year Schatz Auction | 2.570% |  | 2.590% |
+| 11:00 | GBP | Low | CBI Industrial Trends Orders (Jun) | -45 | -33 | -41 |
 | 12:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
-| 13:00 | MXN | Low | Economic Activity (MoM) (Apr) |  |  | 0.40% |
-| 13:00 | MXN | Low | Economic Activity (YoY) (Apr) |  | 1.90% | 1.40% |
-| 13:00 | MXN | Low | Retail Sales (MoM) (Apr) |  |  | 0.1% |
-| 13:00 | MXN | Low | Retail Sales (YoY) (Apr) |  |  | 2.9% |
-| 13:00 | CNY | Low | FDI (May) |  |  | -10.30% |
+| 51 min | MXN | Low | Economic Activity (MoM) (Apr) |  |  | 0.40% |
+| 51 min | MXN | Low | Economic Activity (YoY) (Apr) |  | 1.90% | 1.40% |
+| 51 min | MXN | Low | Retail Sales (MoM) (Apr) |  |  | 0.1% |
+| 51 min | MXN | Low | Retail Sales (YoY) (Apr) |  |  | 2.9% |
 | 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 25.50K |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 9.4% |
 | 14:00 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
