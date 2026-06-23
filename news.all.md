@@ -56,12 +56,12 @@
 | 13:55 | USD | Low | Redbook (YoY) | 10.0% |  | 9.4% |
 | 14:00 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 14:15 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 14:45 | USD | High | S&P Global Manufacturing PMI (Jun) |  | 54.6 | 55.1 |
-| 14:45 | USD | Moderate | S&P Global Composite PMI (Jun) |  |  | 51.5 |
-| 14:45 | USD | High | S&P Global Services PMI (Jun) |  | 51.1 | 50.7 |
-| 15:00 | USD | Low | Richmond Manufacturing Index (Jun) |  | 8 | 13 |
-| 15:00 | USD | Low | Richmond Manufacturing Shipments (Jun) |  |  | 16 |
-| 15:00 | USD | Low | Richmond Services Index (Jun) |  |  | 14 |
+| 14:45 | USD | High | S&P Global Manufacturing PMI (Jun) | 55.7 | 54.6 | 55.1 |
+| 14:45 | USD | Moderate | S&P Global Composite PMI (Jun) | 52.2 |  | 51.5 |
+| 14:45 | USD | High | S&P Global Services PMI (Jun) | 51.3 | 51.1 | 50.7 |
+| 15:00 | USD | Low | Richmond Manufacturing Index (Jun) | 4 | 8 | 13 |
+| 15:00 | USD | Low | Richmond Manufacturing Shipments (Jun) | 3 |  | 16 |
+| 15:00 | USD | Low | Richmond Services Index (Jun) | -1 |  | 14 |
 | 18:00 | USD | Moderate | 2-Year Note Auction |  |  | 4.071% |
 | 18:00 | USD | Low | M2 Money Supply (MoM) (May) |  |  | 22.80T |
 | 18:30 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
