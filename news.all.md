@@ -48,12 +48,12 @@
 | 10:30 | EUR | Low | German 2-Year Schatz Auction | 2.570% |  | 2.590% |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Jun) | -45 | -33 | -41 |
 | 12:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
-| 51 min | MXN | Low | Economic Activity (MoM) (Apr) |  |  | 0.40% |
-| 51 min | MXN | Low | Economic Activity (YoY) (Apr) |  | 1.90% | 1.40% |
-| 51 min | MXN | Low | Retail Sales (MoM) (Apr) |  |  | 0.1% |
-| 51 min | MXN | Low | Retail Sales (YoY) (Apr) |  |  | 2.9% |
-| 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 25.50K |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 9.4% |
+| 13:00 | MXN | Low | Economic Activity (MoM) (Apr) | 1.20% |  | 0.60% |
+| 13:00 | MXN | Low | Economic Activity (YoY) (Apr) | 2.30% | 1.90% | 1.40% |
+| 13:00 | MXN | Low | Retail Sales (MoM) (Apr) | 0.8% |  | 0.1% |
+| 13:00 | MXN | Low | Retail Sales (YoY) (Apr) | 4.4% |  | 2.9% |
+| 13:15 | USD | Moderate | ADP Employment Change Weekly | 30.75K |  | 25.50K |
+| 13:55 | USD | Low | Redbook (YoY) | 10.0% |  | 9.4% |
 | 14:00 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 14:15 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 14:45 | USD | High | S&P Global Manufacturing PMI (Jun) |  | 54.6 | 55.1 |
