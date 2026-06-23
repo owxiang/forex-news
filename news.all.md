@@ -8,15 +8,16 @@
 | 01:30 | JPY | Low | Manufacturing & Services PMI (Jun) | 52.50 |  | 51.10 |
 | 01:30 | JPY | Low | S&P Global Manufacturing PMI (Jun) | 54.9 | 54.5 | 54.5 |
 | 01:30 | JPY | Moderate | S&P Global Services PMI (Jun) | 51.8 |  | 50.0 |
-| 04:00 | IDR | Low | M2 Money Supply (YoY) (May) |  |  | 9.20% |
-| 05:00 | GBP | Low | Car Registration (YoY) (May) |  |  | 24.0% |
+| 04:30 | IDR | Low | M2 Money Supply (YoY) (May) |  |  | 9.20% |
+| 04:35 | JPY | Low | 5-Year JGB Auction |  |  | 2.024% |
 | 05:00 | GBP | Low | Car Registration (MoM) (May) |  |  | -60.8% |
+| 05:00 | GBP | Low | Car Registration (YoY) (May) |  |  | 24.0% |
 | 05:00 | EUR | Low | Italian Car Registration (MoM) (May) |  |  | -16.3% |
 | 05:00 | EUR | Low | Italian Car Registration (YoY) (May) |  |  | 11.6% |
 | 05:00 | EUR | Low | German Car Registration (MoM) (May) |  |  | -15.3% |
 | 05:00 | EUR | Low | German Car Registration (YoY) (May) |  |  | 2.7% |
-| 05:00 | EUR | Low | French Car Registration (YoY) (May) |  |  | -0.3% |
 | 05:00 | EUR | Low | French Car Registration (MoM) (May) |  |  | -20.3% |
+| 05:00 | EUR | Low | French Car Registration (YoY) (May) |  |  | -0.3% |
 | 06:00 | INR | Low | HSBC India Manufacturing PMI (Jun) |  |  | 55.0 |
 | 06:00 | INR | Low | HSBC India Services PMI (Jun) |  |  | 59.8 |
 | 06:00 | INR | Low | HSBC Manufacturing & Services PMI (Jun) |  |  | 59.30 |
@@ -47,10 +48,10 @@
 | 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 2.590% |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Jun) |  | -33 | -41 |
 | 12:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
-| 13:00 | MXN | Low | Economic Activity (YoY) (Apr) |  | 1.90% | 1.40% |
 | 13:00 | MXN | Low | Economic Activity (MoM) (Apr) |  |  | 0.40% |
-| 13:00 | MXN | Low | Retail Sales (YoY) (Apr) |  |  | 2.9% |
+| 13:00 | MXN | Low | Economic Activity (YoY) (Apr) |  | 1.90% | 1.40% |
 | 13:00 | MXN | Low | Retail Sales (MoM) (Apr) |  |  | 0.1% |
+| 13:00 | MXN | Low | Retail Sales (YoY) (Apr) |  |  | 2.9% |
 | 13:00 | CNY | Low | FDI (May) |  |  | -10.30% |
 | 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 25.50K |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 9.4% |

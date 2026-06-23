@@ -7,15 +7,16 @@
 | 00:00 | AUD | S&P Global Services PMI (Jun) | 49.9 |  | 48.7 |
 | 01:30 | JPY | Manufacturing & Services PMI (Jun) | 52.50 |  | 51.10 |
 | 01:30 | JPY | S&P Global Manufacturing PMI (Jun) | 54.9 | 54.5 | 54.5 |
-| 04:00 | IDR | M2 Money Supply (YoY) (May) |  |  | 9.20% |
-| 05:00 | GBP | Car Registration (YoY) (May) |  |  | 24.0% |
+| 04:30 | IDR | M2 Money Supply (YoY) (May) |  |  | 9.20% |
+| 04:35 | JPY | 5-Year JGB Auction |  |  | 2.024% |
 | 05:00 | GBP | Car Registration (MoM) (May) |  |  | -60.8% |
+| 05:00 | GBP | Car Registration (YoY) (May) |  |  | 24.0% |
 | 05:00 | EUR | Italian Car Registration (MoM) (May) |  |  | -16.3% |
 | 05:00 | EUR | Italian Car Registration (YoY) (May) |  |  | 11.6% |
 | 05:00 | EUR | German Car Registration (MoM) (May) |  |  | -15.3% |
 | 05:00 | EUR | German Car Registration (YoY) (May) |  |  | 2.7% |
-| 05:00 | EUR | French Car Registration (YoY) (May) |  |  | -0.3% |
 | 05:00 | EUR | French Car Registration (MoM) (May) |  |  | -20.3% |
+| 05:00 | EUR | French Car Registration (YoY) (May) |  |  | -0.3% |
 | 06:00 | INR | HSBC India Manufacturing PMI (Jun) |  |  | 55.0 |
 | 06:00 | INR | HSBC India Services PMI (Jun) |  |  | 59.8 |
 | 06:00 | INR | HSBC Manufacturing & Services PMI (Jun) |  |  | 59.30 |
@@ -31,10 +32,10 @@
 | 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.590% |
 | 11:00 | GBP | CBI Industrial Trends Orders (Jun) |  | -33 | -41 |
 | 12:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
-| 13:00 | MXN | Economic Activity (YoY) (Apr) |  | 1.90% | 1.40% |
 | 13:00 | MXN | Economic Activity (MoM) (Apr) |  |  | 0.40% |
-| 13:00 | MXN | Retail Sales (YoY) (Apr) |  |  | 2.9% |
+| 13:00 | MXN | Economic Activity (YoY) (Apr) |  | 1.90% | 1.40% |
 | 13:00 | MXN | Retail Sales (MoM) (Apr) |  |  | 0.1% |
+| 13:00 | MXN | Retail Sales (YoY) (Apr) |  |  | 2.9% |
 | 13:00 | CNY | FDI (May) |  |  | -10.30% |
 | 13:55 | USD | Redbook (YoY) |  |  | 9.4% |
 | 15:00 | USD | Richmond Manufacturing Index (Jun) |  | 8 | 13 |
