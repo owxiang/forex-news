@@ -26,22 +26,22 @@
 | 06:00 | SGD | Low | CPI (MoM) (May) | 0.70% |  | -0.30% |
 | 06:00 | SGD | Moderate | CPI (YoY) (May) | 1.8% | 2.0% | 1.8% |
 | 07:45 | EUR | Low | French Business Survey (Jun) | 100 | 101 | 102 |
-| 08:00 | ZAR | Low | Leading Indicators (Apr) | 118.90% |  | 121.10% |
+| 08:00 | ZAR | Low | Leading Indicators (Apr) | 118.90% |  | 121.07% |
 | 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Jun) | 50.7 | 50.2 | 49.7 |
 | 08:15 | EUR | Low | HCOB France Composite PMI (Jun) | 47.6 | 46.0 | 44.9 |
 | 08:15 | EUR | Moderate | HCOB France Services PMI (Jun) | 47.4 | 45.9 | 44.3 |
-| 08:30 | EUR | Low | HCOB Germany Composite PMI (Jun) |  | 49.9 | 48.8 |
-| 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Jun) |  | 50.3 | 50.1 |
-| 08:30 | EUR | Moderate | HCOB Germany Services PMI (Jun) |  | 49.0 | 48.1 |
-| 09:00 | EUR | Low | Spanish Trade Balance (Apr) |  |  | -4.40B |
-| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Jun) |  | 51.6 | 51.6 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Jun) |  | 49.1 | 48.5 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Jun) |  | 48.6 | 47.7 |
-| 09:30 | GBP | Moderate | S&P Global Composite PMI (Jun) |  | 50.6 | 49.7 |
-| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Jun) |  | 53.5 | 53.9 |
-| 09:30 | GBP | Moderate | S&P Global Services PMI (Jun) |  | 50.1 | 49.3 |
-| 09:30 | HKD | Low | CPI (MoM) (May) |  |  | -0.10% |
-| 09:30 | HKD | Low | CPI (YoY) (May) |  |  | 1.70% |
+| 08:30 | EUR | Low | HCOB Germany Composite PMI (Jun) | 48.0 | 49.9 | 48.8 |
+| 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Jun) | 50.0 | 50.3 | 50.1 |
+| 08:30 | EUR | Moderate | HCOB Germany Services PMI (Jun) | 46.8 | 49.0 | 48.1 |
+| 09:00 | EUR | Low | Spanish Trade Balance (Apr) | -5.20B |  | -4.40B |
+| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Jun) | 51.3 | 51.6 | 51.6 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Jun) | 49.5 | 49.1 | 48.5 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Jun) | 48.9 | 48.6 | 47.7 |
+| 09:30 | GBP | Moderate | S&P Global Composite PMI (Jun) | 49.4 | 50.6 | 49.7 |
+| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Jun) | 53.1 | 53.5 | 53.9 |
+| 09:30 | GBP | Moderate | S&P Global Services PMI (Jun) | 48.7 | 50.1 | 49.3 |
+| 09:30 | HKD | Low | CPI (MoM) (May) | 0.00% |  | -0.10% |
+| 09:30 | HKD | Low | CPI (YoY) (May) | 2.00% |  | 1.70% |
 | 09:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 09:35 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 09:55 | GBP | Low | BoE Breeden Speaks |  |  |  |

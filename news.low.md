@@ -22,12 +22,12 @@
 | 06:00 | INR | HSBC Manufacturing & Services PMI (Jun) | 57.40 |  | 59.30 |
 | 06:00 | SGD | CPI (MoM) (May) | 0.70% |  | -0.30% |
 | 07:45 | EUR | French Business Survey (Jun) | 100 | 101 | 102 |
-| 08:00 | ZAR | Leading Indicators (Apr) | 118.90% |  | 121.10% |
+| 08:00 | ZAR | Leading Indicators (Apr) | 118.90% |  | 121.07% |
 | 08:15 | EUR | HCOB France Composite PMI (Jun) | 47.6 | 46.0 | 44.9 |
-| 08:30 | EUR | HCOB Germany Composite PMI (Jun) |  | 49.9 | 48.8 |
-| 09:00 | EUR | Spanish Trade Balance (Apr) |  |  | -4.40B |
-| 09:30 | HKD | CPI (MoM) (May) |  |  | -0.10% |
-| 09:30 | HKD | CPI (YoY) (May) |  |  | 1.70% |
+| 08:30 | EUR | HCOB Germany Composite PMI (Jun) | 48.0 | 49.9 | 48.8 |
+| 09:00 | EUR | Spanish Trade Balance (Apr) | -5.20B |  | -4.40B |
+| 09:30 | HKD | CPI (MoM) (May) | 0.00% |  | -0.10% |
+| 09:30 | HKD | CPI (YoY) (May) | 2.00% |  | 1.70% |
 | 09:55 | GBP | BoE Breeden Speaks |  |  |  |
 | 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.590% |
 | 11:00 | GBP | CBI Industrial Trends Orders (Jun) |  | -33 | -41 |
