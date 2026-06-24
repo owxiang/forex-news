@@ -2,5 +2,5 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 15:00 | USD | New Home Sales (May) |  | 638K | 622K |
-| 15:30 | USD | Crude Oil Inventories |  | -3.900M | -8.263M |
+| 15:00 | USD | New Home Sales (May) | 580K | 638K | 626K |
+| 15:30 | USD | Crude Oil Inventories | -6.088M | -3.900M | -8.263M |

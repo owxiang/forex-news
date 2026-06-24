@@ -31,18 +31,18 @@
 | 13:30 | USD | Moderate | Current Account (Q1) | -226.8B | -212.0B | -221.1B |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (May) | 1.1% |  | 4.2% |
 | 14:00 | CHF | Low | SNB Quarterly Bulletin |  |  |  |
-| 15:00 | USD | High | New Home Sales (May) |  | 638K | 622K |
-| 15:00 | USD | Moderate | New Home Sales (MoM) (May) |  |  | -6.2% |
-| 15:30 | USD | High | Crude Oil Inventories |  | -3.900M | -8.263M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.230M |
-| 15:30 | USD | Low | Crude Oil Imports |  |  | -0.241M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -1.606M |
-| 15:30 | USD | Low | Distillate Fuel Production |  |  | -0.029M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | -0.500M | 0.951M |
-| 15:30 | USD | Low | Gasoline Production |  |  | 0.356M |
-| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | -0.204M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.4% |
-| 15:30 | USD | Low | Gasoline Inventories |  | -0.600M | -0.906M |
+| 15:00 | USD | High | New Home Sales (May) | 580K | 638K | 626K |
+| 15:00 | USD | Moderate | New Home Sales (MoM) (May) | -7.3% |  | -5.7% |
+| 15:30 | USD | High | Crude Oil Inventories | -6.088M | -3.900M | -8.263M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | -0.081M |  | 0.230M |
+| 15:30 | USD | Low | Crude Oil Imports | 0.094M |  | -0.241M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | -1.077M |  | -1.606M |
+| 15:30 | USD | Low | Distillate Fuel Production | 0.055M |  | -0.029M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks | 3.064M | -0.500M | 0.951M |
+| 15:30 | USD | Low | Gasoline Production | -0.588M |  | 0.356M |
+| 15:30 | USD | Low | Heating Oil Stockpiles | 0.722M |  | -0.204M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -0.6% |  | 1.4% |
+| 15:30 | USD | Low | Gasoline Inventories | 2.064M | -0.600M | -0.906M |
 | 16:00 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
 | 17:30 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 18:00 | USD | Moderate | 5-Year Note Auction |  |  | 4.182% |

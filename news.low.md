@@ -22,14 +22,14 @@
 | 13:30 | USD | Building Permits (MoM) (May) | -0.9% | -0.7% | 4.4% |
 | 13:30 | CAD | Manufacturing Sales (MoM) (May) | 1.1% |  | 4.2% |
 | 14:00 | CHF | SNB Quarterly Bulletin |  |  |  |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.230M |
-| 15:30 | USD | Crude Oil Imports |  |  | -0.241M |
-| 15:30 | USD | Distillate Fuel Production |  |  | -0.029M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  | -0.500M | 0.951M |
-| 15:30 | USD | Gasoline Production |  |  | 0.356M |
-| 15:30 | USD | Heating Oil Stockpiles |  |  | -0.204M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.4% |
-| 15:30 | USD | Gasoline Inventories |  | -0.600M | -0.906M |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) | -0.081M |  | 0.230M |
+| 15:30 | USD | Crude Oil Imports | 0.094M |  | -0.241M |
+| 15:30 | USD | Distillate Fuel Production | 0.055M |  | -0.029M |
+| 15:30 | USD | EIA Weekly Distillates Stocks | 3.064M | -0.500M | 0.951M |
+| 15:30 | USD | Gasoline Production | -0.588M |  | 0.356M |
+| 15:30 | USD | Heating Oil Stockpiles | 0.722M |  | -0.204M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.6% |  | 1.4% |
+| 15:30 | USD | Gasoline Inventories | 2.064M | -0.600M | -0.906M |
 | 16:00 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
 | 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | 1.542B |
