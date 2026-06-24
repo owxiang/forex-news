@@ -1,4 +1,4 @@
-## 24 June 2026 - Moderate Impact Forex News
+## None - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
@@ -14,5 +14,5 @@
 | 15:00 | USD | New Home Sales (MoM) (May) | -7.3% |  | -5.7% |
 | 15:30 | USD | Cushing Crude Oil Inventories | -1.077M |  | -1.606M |
 | 17:30 | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 10 min | USD | 5-Year Note Auction |  |  | 4.182% |
+| 18:00 | USD | 5-Year Note Auction | 4.200% |  | 4.182% |
 | 21:00 | USD | Fed Bank Stress Test Results |  |  |  |

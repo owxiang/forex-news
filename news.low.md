@@ -1,4 +1,4 @@
-## 24 June 2026 - Low Impact Forex News
+## None - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
@@ -31,7 +31,7 @@
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.6% |  | 1.4% |
 | 15:30 | USD | Gasoline Inventories | 2.064M | -0.600M | -0.906M |
 | 16:00 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
-| 40 min | CAD | BOC Summary of Deliberations |  |  |  |
-| 40 min | BRL | Foreign Exchange Flows |  |  | 1.542B |
+| 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
+| 18:30 | BRL | Foreign Exchange Flows | 4.066B |  | 1.542B |
 | 19:00 | USD | Fed Governor Cook Speaks |  |  |  |
 | 21:00 | JPY | BOJ Gov Ueda Speaks |  |  |  |
