@@ -49,5 +49,5 @@
 | 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
 | 18:30 | BRL | Low | Foreign Exchange Flows | 4.066B |  | 1.542B |
 | 19:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 22 min | USD | Moderate | Fed Bank Stress Test Results |  |  |  |
-| 22 min | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
+| 21:00 | USD | Moderate | Fed Bank Stress Test Results |  |  |  |
+| 21:00 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
