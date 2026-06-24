@@ -1,4 +1,4 @@
-## None - All Forex News
+## 24 June 2026 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
@@ -11,23 +11,25 @@
 | 09:00 | EUR | Moderate | German Current Assessment (Jun) | 87.0 | 86.0 | 86.1 |
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (Jun) | 85.6 | 85.6 | 85.0 |
 | 10:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 10:30 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.277% |
-| 10:30 | EUR | Low | Italian 2-Year CTZ Auction |  |  | 2.730% |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.60% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -3.8% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 170.8 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 269.5 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 810.2 |
-| 12:00 | BRL | Low | FGV Consumer confidence (Jun) |  |  | 88.8 |
+| 10:30 | GBP | Low | 5-Year Treasury Gilt Auction | 4.284% |  | 4.277% |
+| 10:30 | EUR | Low | Italian 2-Year CTZ Auction | 2.740% |  | 2.730% |
+| 10:40 | EUR | Moderate | German 10-Year Bund Auction | 2.960% |  | 3.060% |
+| 10:40 | EUR | Low | German 30-Year Bund Auction | 2.960% |  | 3.490% |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.59% |  | 6.60% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | 1.0% |  | -3.8% |
+| 12:00 | USD | Low | MBA Purchase Index | 169.7 |  | 170.8 |
+| 12:00 | USD | Low | Mortgage Market Index | 272.1 |  | 269.5 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 834.2 |  | 810.2 |
+| 12:00 | BRL | Low | FGV Consumer confidence (Jun) | 88.7 |  | 88.8 |
 | 12:15 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 12:15 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 12:30 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 13:00 | MXN | Low | 1st Half-Month Core CPI (Jun) |  | 0.20% | 0.13% |
-| 13:00 | MXN | Low | 1st Half-Month CPI (Jun) |  | 0.10% | -0.16% |
-| 13:30 | USD | Moderate | Building Permits (May) |  | 1.413M | 1.423M |
-| 13:30 | USD | Low | Building Permits (MoM) (May) |  | -0.7% | 4.4% |
-| 13:30 | USD | Moderate | Current Account (Q1) |  | -212.0B | -190.7B |
-| 13:30 | CAD | Low | Manufacturing Sales (MoM) (May) |  |  | 4.2% |
+| 13:00 | MXN | Low | 1st Half-Month Core CPI (Jun) | 0.19% | 0.20% | 0.13% |
+| 13:00 | MXN | Low | 1st Half-Month CPI (Jun) | -0.11% | 0.10% | -0.16% |
+| 13:30 | USD | Moderate | Building Permits (May) | 1.410M | 1.413M | 1.423M |
+| 13:30 | USD | Low | Building Permits (MoM) (May) | -0.9% | -0.7% | 4.4% |
+| 13:30 | USD | Moderate | Current Account (Q1) | -226.8B | -212.0B | -221.1B |
+| 13:30 | CAD | Low | Manufacturing Sales (MoM) (May) | 1.1% |  | 4.2% |
 | 14:00 | CHF | Low | SNB Quarterly Bulletin |  |  |  |
 | 15:00 | USD | High | New Home Sales (May) |  | 638K | 622K |
 | 15:00 | USD | Moderate | New Home Sales (MoM) (May) |  |  | -6.2% |
@@ -36,11 +38,11 @@
 | 15:30 | USD | Low | Crude Oil Imports |  |  | -0.241M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -1.606M |
 | 15:30 | USD | Low | Distillate Fuel Production |  |  | -0.029M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  |  | 0.951M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | -0.500M | 0.951M |
 | 15:30 | USD | Low | Gasoline Production |  |  | 0.356M |
 | 15:30 | USD | Low | Heating Oil Stockpiles |  |  | -0.204M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.4% |
-| 15:30 | USD | Low | Gasoline Inventories |  |  | -0.906M |
+| 15:30 | USD | Low | Gasoline Inventories |  | -0.600M | -0.906M |
 | 16:00 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
 | 17:30 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 18:00 | USD | Moderate | 5-Year Note Auction |  |  | 4.182% |
