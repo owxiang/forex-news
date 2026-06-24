@@ -1,15 +1,15 @@
-## 24 June 2026 - All Forex News
+## None - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:50 | JPY | Low | BoJ Summary of Opinions |  |  |  |
 | 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 3.3% | 3.3% | 3.3% |
 | 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (May) | 4.00% | 4.30% | 4.20% |
-| 07:00 | NOK | Low | Unemployment Rate (May) |  |  | 4.6% |
-| 09:00 | CHF | Low | ZEW Expectations (Jun) |  |  | -11.1 |
-| 09:00 | EUR | Moderate | German Business Expectations (Jun) |  | 85.0 | 83.8 |
-| 09:00 | EUR | Moderate | German Current Assessment (Jun) |  | 86.0 | 86.1 |
-| 09:00 | EUR | Moderate | German Ifo Business Climate Index (Jun) |  | 85.6 | 84.9 |
+| 07:00 | NOK | Low | Unemployment Rate (May) | 4.4% |  | 4.6% |
+| 09:00 | CHF | Low | ZEW Expectations (Jun) | -25.0 |  | -11.1 |
+| 09:00 | EUR | Moderate | German Business Expectations (Jun) | 84.1 | 85.0 | 83.9 |
+| 09:00 | EUR | Moderate | German Current Assessment (Jun) | 87.0 | 86.0 | 86.1 |
+| 09:00 | EUR | Moderate | German Ifo Business Climate Index (Jun) | 85.6 | 85.6 | 85.0 |
 | 10:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 10:30 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.277% |
 | 10:30 | EUR | Low | Italian 2-Year CTZ Auction |  |  | 2.730% |
