@@ -4,12 +4,7 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:50 | JPY | Low | BoJ Summary of Opinions |  |  |  |
 | 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 3.3% | 3.3% | 3.3% |
-| 02:30 | AUD | Low | CPI Index Number |  |  | 101.70 |
-| 02:30 | AUD | Low | Trimmed Mean CPI (YoY) |  |  | 3.5% |
-| 02:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) |  |  | 0.8% |
-| 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (May) |  | 4.30% | 4.20% |
-| 02:30 | AUD | Low | Weighted mean CPI (QoQ) |  |  | 0.8% |
-| 02:30 | AUD | Low | Weighted mean CPI (YoY) |  |  | 3.5% |
+| 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (May) | 4.00% | 4.30% | 4.20% |
 | 07:00 | NOK | Low | Unemployment Rate (May) |  |  | 4.6% |
 | 09:00 | CHF | Low | ZEW Expectations (Jun) |  |  | -11.1 |
 | 09:00 | EUR | Moderate | German Business Expectations (Jun) |  | 85.0 | 83.8 |
@@ -28,8 +23,8 @@
 | 12:30 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 13:00 | MXN | Low | 1st Half-Month Core CPI (Jun) |  | 0.20% | 0.13% |
 | 13:00 | MXN | Low | 1st Half-Month CPI (Jun) |  | 0.10% | -0.16% |
-| 13:30 | USD | Low | Building Permits (MoM) (May) |  | -0.7% | 4.4% |
 | 13:30 | USD | Moderate | Building Permits (May) |  | 1.413M | 1.423M |
+| 13:30 | USD | Low | Building Permits (MoM) (May) |  | -0.7% | 4.4% |
 | 13:30 | USD | Moderate | Current Account (Q1) |  | -206.0B | -190.7B |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (May) |  |  | 4.2% |
 | 14:00 | CHF | Low | SNB Quarterly Bulletin |  |  |  |

@@ -4,11 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | BoJ Summary of Opinions |  |  |  |
 | 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) | 3.3% | 3.3% | 3.3% |
-| 02:30 | AUD | CPI Index Number |  |  | 101.70 |
-| 02:30 | AUD | Trimmed Mean CPI (YoY) |  |  | 3.5% |
-| 02:30 | AUD | Monthly CPI Indicator (YoY) (May) |  | 4.30% | 4.20% |
-| 02:30 | AUD | Weighted mean CPI (QoQ) |  |  | 0.8% |
-| 02:30 | AUD | Weighted mean CPI (YoY) |  |  | 3.5% |
+| 02:30 | AUD | Monthly CPI Indicator (YoY) (May) | 4.00% | 4.30% | 4.20% |
 | 07:00 | NOK | Unemployment Rate (May) |  |  | 4.6% |
 | 09:00 | CHF | ZEW Expectations (Jun) |  |  | -11.1 |
 | 10:30 | GBP | 5-Year Treasury Gilt Auction |  |  | 4.277% |

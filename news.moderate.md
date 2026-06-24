@@ -2,7 +2,6 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Trimmed Mean CPI (QoQ) |  |  | 0.8% |
 | 09:00 | EUR | German Business Expectations (Jun) |  | 85.0 | 83.8 |
 | 09:00 | EUR | German Current Assessment (Jun) |  | 86.0 | 86.1 |
 | 09:00 | EUR | German Ifo Business Climate Index (Jun) |  | 85.6 | 84.9 |
