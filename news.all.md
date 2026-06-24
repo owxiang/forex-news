@@ -12,6 +12,7 @@
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (Jun) |  | 85.6 | 84.9 |
 | 10:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 10:30 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.277% |
+| 10:30 | EUR | Low | Italian 2-Year CTZ Auction |  |  | 2.730% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.60% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -3.8% |
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 170.8 |
@@ -25,12 +26,12 @@
 | 13:00 | MXN | Low | 1st Half-Month CPI (Jun) |  | 0.10% | -0.16% |
 | 13:30 | USD | Moderate | Building Permits (May) |  | 1.413M | 1.423M |
 | 13:30 | USD | Low | Building Permits (MoM) (May) |  | -0.7% | 4.4% |
-| 13:30 | USD | Moderate | Current Account (Q1) |  | -206.0B | -190.7B |
+| 13:30 | USD | Moderate | Current Account (Q1) |  | -212.0B | -190.7B |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (May) |  |  | 4.2% |
 | 14:00 | CHF | Low | SNB Quarterly Bulletin |  |  |  |
 | 15:00 | USD | High | New Home Sales (May) |  | 638K | 622K |
 | 15:00 | USD | Moderate | New Home Sales (MoM) (May) |  |  | -6.2% |
-| 15:30 | USD | High | Crude Oil Inventories |  | -5.100M | -8.263M |
+| 15:30 | USD | High | Crude Oil Inventories |  | -3.900M | -8.263M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.230M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | -0.241M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -1.606M |
@@ -45,5 +46,6 @@
 | 18:00 | USD | Moderate | 5-Year Note Auction |  |  | 4.182% |
 | 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 1.542B |
+| 19:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 21:00 | USD | Moderate | Fed Bank Stress Test Results |  |  |  |
 | 21:00 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |

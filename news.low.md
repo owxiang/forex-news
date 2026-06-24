@@ -8,6 +8,7 @@
 | 07:00 | NOK | Unemployment Rate (May) |  |  | 4.6% |
 | 09:00 | CHF | ZEW Expectations (Jun) |  |  | -11.1 |
 | 10:30 | GBP | 5-Year Treasury Gilt Auction |  |  | 4.277% |
+| 10:30 | EUR | Italian 2-Year CTZ Auction |  |  | 2.730% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.60% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -3.8% |
 | 12:00 | USD | MBA Purchase Index |  |  | 170.8 |
@@ -31,4 +32,5 @@
 | 16:00 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
 | 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | 1.542B |
+| 19:00 | USD | Fed Governor Cook Speaks |  |  |  |
 | 21:00 | JPY | BOJ Gov Ueda Speaks |  |  |  |

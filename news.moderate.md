@@ -9,7 +9,7 @@
 | 12:15 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 12:30 | EUR | German Buba Balz Speaks |  |  |  |
 | 13:30 | USD | Building Permits (May) |  | 1.413M | 1.423M |
-| 13:30 | USD | Current Account (Q1) |  | -206.0B | -190.7B |
+| 13:30 | USD | Current Account (Q1) |  | -212.0B | -190.7B |
 | 15:00 | USD | New Home Sales (MoM) (May) |  |  | -6.2% |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | -1.606M |
 | 17:30 | GBP | BoE MPC Member Pill Speaks |  |  |  |
