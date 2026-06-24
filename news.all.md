@@ -45,9 +45,9 @@
 | 15:30 | USD | Low | Gasoline Inventories | 2.064M | -0.600M | -0.906M |
 | 16:00 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
 | 17:30 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 18:00 | USD | Moderate | 5-Year Note Auction |  |  | 4.182% |
-| 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
-| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 1.542B |
+| 10 min | USD | Moderate | 5-Year Note Auction |  |  | 4.182% |
+| 40 min | CAD | Low | BOC Summary of Deliberations |  |  |  |
+| 40 min | BRL | Low | Foreign Exchange Flows |  |  | 1.542B |
 | 19:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 21:00 | USD | Moderate | Fed Bank Stress Test Results |  |  |  |
 | 21:00 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
