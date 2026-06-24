@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | BoJ Summary of Opinions |  |  |  |
-| 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 3.3% | 3.0% |
+| 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) | 3.3% | 3.3% | 3.3% |
 | 02:30 | AUD | CPI Index Number |  |  | 101.70 |
 | 02:30 | AUD | Trimmed Mean CPI (YoY) |  |  | 3.5% |
 | 02:30 | AUD | Monthly CPI Indicator (YoY) (May) |  | 4.30% | 4.20% |

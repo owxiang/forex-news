@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:50 | JPY | Low | BoJ Summary of Opinions |  |  |  |
-| 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) |  | 3.3% | 3.0% |
+| 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 3.3% | 3.3% | 3.3% |
 | 02:30 | AUD | Low | CPI Index Number |  |  | 101.70 |
 | 02:30 | AUD | Low | Trimmed Mean CPI (YoY) |  |  | 3.5% |
 | 02:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) |  |  | 0.8% |
