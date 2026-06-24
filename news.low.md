@@ -34,4 +34,4 @@
 | 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
 | 18:30 | BRL | Foreign Exchange Flows | 4.066B |  | 1.542B |
 | 19:00 | USD | Fed Governor Cook Speaks |  |  |  |
-| 21:00 | JPY | BOJ Gov Ueda Speaks |  |  |  |
+| 22 min | JPY | BOJ Gov Ueda Speaks |  |  |  |
