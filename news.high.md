@@ -1,6 +1,10 @@
-## 24 June 2026 - High Impact Forex News
+## 25 June 2026 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 15:00 | USD | New Home Sales (May) | 580K | 638K | 626K |
-| 15:30 | USD | Crude Oil Inventories | -6.088M | -3.900M | -8.263M |
+| 01:30 | USD | U.S. President Trump Speaks |  |  |  |
+| 13:30 | USD | Core PCE Price Index (MoM) (May) |  | 0.3% | 0.2% |
+| 13:30 | USD | Core PCE Price Index (YoY) (May) |  | 3.4% | 3.3% |
+| 13:30 | USD | Durable Goods Orders (MoM) (May) |  | -5.0% | 8.0% |
+| 13:30 | USD | GDP (QoQ) (Q1) |  | 1.6% | 2.0% |
+| 13:30 | USD | Initial Jobless Claims |  | 225K | 226K |

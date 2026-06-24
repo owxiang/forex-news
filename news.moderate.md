@@ -1,18 +1,24 @@
-## 24 June 2026 - Moderate Impact Forex News
+## 25 June 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 09:00 | EUR | German Business Expectations (Jun) | 84.1 | 85.0 | 83.9 |
-| 09:00 | EUR | German Current Assessment (Jun) | 87.0 | 86.0 | 86.1 |
-| 09:00 | EUR | German Ifo Business Climate Index (Jun) | 85.6 | 85.6 | 85.0 |
-| 10:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 10:40 | EUR | German 10-Year Bund Auction | 2.960% |  | 3.060% |
-| 12:15 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
-| 12:30 | EUR | German Buba Balz Speaks |  |  |  |
-| 13:30 | USD | Building Permits (May) | 1.410M | 1.413M | 1.423M |
-| 13:30 | USD | Current Account (Q1) | -226.8B | -212.0B | -221.1B |
-| 15:00 | USD | New Home Sales (MoM) (May) | -7.3% |  | -5.7% |
-| 15:30 | USD | Cushing Crude Oil Inventories | -1.077M |  | -1.606M |
-| 17:30 | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 18:00 | USD | 5-Year Note Auction | 4.200% |  | 4.182% |
-| 21:00 | USD | Fed Bank Stress Test Results |  |  |  |
+| 02:30 | AUD | Employment Change (May) |  | 31.2K | -18.6K |
+| 02:30 | AUD | Full Employment Change (May) |  |  | -10.7K |
+| 02:30 | AUD | Unemployment Rate (May) |  | 4.4% | 4.5% |
+| 07:00 | EUR | GfK German Consumer Climate (Jul) |  | -27.8 | -29.8 |
+| 08:00 | EUR | Spanish GDP (QoQ) (Q1) |  | 0.6% | 0.8% |
+| 09:00 | EUR | ECB Economic Bulletin |  |  |  |
+| 11:00 | EUR | ECB's Lane Speaks |  |  |  |
+| 13:30 | USD | Continuing Jobless Claims |  | 1,800K | 1,810K |
+| 13:30 | USD | Core Durable Goods Orders (MoM) (May) |  | 0.5% | 1.1% |
+| 13:30 | USD | Core PCE Prices (Q1) |  | 4.40% | 2.70% |
+| 13:30 | USD | GDP Price Index (QoQ) (Q1) |  | 3.5% | 3.7% |
+| 13:30 | USD | PCE price index (MoM) (May) |  | 0.5% | 0.4% |
+| 13:30 | USD | PCE Price index (YoY) (May) |  | 4.0% | 3.8% |
+| 13:30 | USD | Personal Spending (MoM) (May) |  | 0.6% | 0.5% |
+| 13:45 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 15:00 | USD | Atlanta Fed GDPNow (Q2) |  | 3.0% | 3.0% |
+| 18:00 | USD | 7-Year Note Auction |  |  | 4.290% |
+| 20:00 | MXN | Interest Rate Decision (Jun) |  | 6.50% | 6.50% |
+| 20:40 | USD | FOMC Member Williams Speaks |  |  |  |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 6,736B |
