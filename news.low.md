@@ -1,4 +1,4 @@
-## None - Low Impact Forex News
+## 24 June 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
