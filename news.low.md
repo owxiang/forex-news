@@ -45,5 +45,5 @@
 | 16:25 | USD | Dallas Fed PCE (May) | 2.80% |  | 2.40% |
 | 16:30 | USD | 4-Week Bill Auction | 3.610% |  | 3.580% |
 | 16:30 | USD | 8-Week Bill Auction | 3.660% |  | 3.640% |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.936T |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 2.954T |  | 2.936T |
 | 23:30 | USD | Fed Goolsbee Speaks |  |  |  |

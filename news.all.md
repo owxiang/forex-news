@@ -70,6 +70,6 @@
 | 18:00 | USD | Moderate | 7-Year Note Auction | 4.260% |  | 4.290% |
 | 20:00 | MXN | Moderate | Interest Rate Decision (Jun) | 6.50% | 6.50% | 6.50% |
 | 20:40 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,736B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.936T |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,736B |  | 6,736B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 2.954T |  | 2.936T |
 | 23:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |

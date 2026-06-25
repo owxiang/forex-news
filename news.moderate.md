@@ -21,4 +21,4 @@
 | 18:00 | USD | 7-Year Note Auction | 4.260% |  | 4.290% |
 | 20:00 | MXN | Interest Rate Decision (Jun) | 6.50% | 6.50% | 6.50% |
 | 20:40 | USD | FOMC Member Williams Speaks |  |  |  |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 6,736B |
+| 21:30 | USD | Fed's Balance Sheet | 6,736B |  | 6,736B |
