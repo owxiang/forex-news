@@ -1,4 +1,4 @@
-## None - Low Impact Forex News
+## 25 June 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
@@ -21,22 +21,23 @@
 | 10:30 | ZAR | PPI (MoM) (May) | 2.6% |  | 3.0% |
 | 10:30 | ZAR | PPI (YoY) (May) | 7.8% |  | 4.8% |
 | 11:00 | GBP | CBI Distributive Trades Survey (Jun) | -54 | -41 | -46 |
-| 13:00 | MXN | Unemployment Rate (May) |  |  | 2.60% |
-| 13:00 | MXN | Unemployment Rate n.s.a. (May) |  | 2.60% | 2.50% |
+| 12:00 | INR | M3 Money Supply | 11.9% |  | 12.0% |
+| 13:00 | MXN | Unemployment Rate (May) | 2.70% |  | 2.60% |
+| 13:00 | MXN | Unemployment Rate n.s.a. (May) | 2.80% | 2.60% | 2.50% |
 | 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
-| 13:00 | BRL | Mid-Month CPI (YoY) (Jun) |  | 4.82% | 4.64% |
-| 13:00 | BRL | Mid-Month CPI (MoM) (Jun) |  | 0.44% | 0.62% |
-| 13:30 | USD | Chicago Fed National Activity (May) |  |  | 0.14 |
-| 13:30 | USD | Corporate Profits (QoQ) (Q1) |  | -0.4% | 4.7% |
-| 13:30 | USD | Durables Excluding Defense (MoM) (May) |  |  | 8.1% |
-| 13:30 | USD | GDP Sales (Q1) |  | 1.5% | 0.3% |
-| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (May) |  | 0.6% | -1.1% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 223.25K |
-| 13:30 | USD | PCE Prices (Q1) |  | 4.5% | 2.9% |
-| 13:30 | USD | Personal Income (MoM) (May) |  | 0.4% | 0.0% |
-| 13:30 | USD | Real Consumer Spending (Q1) |  | 1.4% | 1.9% |
-| 13:30 | USD | Real Personal Consumption (MoM) (May) |  |  | 0.1% |
-| 13:30 | CAD | Average Weekly Earnings (YoY) (Apr) |  |  | 3.50% |
+| 13:00 | BRL | Mid-Month CPI (MoM) (Jun) | 0.41% | 0.44% | 0.62% |
+| 13:00 | BRL | Mid-Month CPI (YoY) (Jun) | 4.80% | 4.82% | 4.64% |
+| 13:30 | USD | Chicago Fed National Activity (May) | -0.10 |  | 0.19 |
+| 13:30 | USD | Corporate Profits (QoQ) (Q1) | 0.5% | -0.4% | 4.7% |
+| 13:30 | USD | Durables Excluding Defense (MoM) (May) | -4.6% |  | 8.4% |
+| 13:30 | USD | GDP Sales (Q1) | 1.9% | 1.5% | 0.3% |
+| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (May) | 1.6% | 0.6% | -0.7% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 224.25K |  | 223.50K |
+| 13:30 | USD | PCE Prices (Q1) | 4.6% | 4.5% | 2.9% |
+| 13:30 | USD | Personal Income (MoM) (May) | 0.7% | 0.4% | 0.0% |
+| 13:30 | USD | Real Consumer Spending (Q1) | 0.5% | 1.4% | 1.9% |
+| 13:30 | USD | Real Personal Consumption (MoM) (May) | 0.3% |  | 0.0% |
+| 13:30 | CAD | Average Weekly Earnings (YoY) (Apr) | 3.85% |  | 3.47% |
 | 15:00 | USD | Dallas Fed PCE (May) |  |  | 2.50% |
 | 15:30 | USD | Natural Gas Storage |  | 67B | 73B |
 | 16:00 | USD | KC Fed Composite Index (Jun) |  |  | 8 |

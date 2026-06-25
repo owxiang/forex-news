@@ -1,4 +1,4 @@
-## None - Moderate Impact Forex News
+## 25 June 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
@@ -9,13 +9,13 @@
 | 08:00 | EUR | Spanish GDP (QoQ) (Q1) | 0.6% | 0.6% | 0.8% |
 | 09:00 | EUR | ECB Economic Bulletin |  |  |  |
 | 11:00 | EUR | ECB's Lane Speaks |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims |  | 1,800K | 1,810K |
-| 13:30 | USD | Core Durable Goods Orders (MoM) (May) |  | 0.5% | 1.1% |
-| 13:30 | USD | Core PCE Prices (Q1) |  | 4.40% | 2.70% |
-| 13:30 | USD | GDP Price Index (QoQ) (Q1) |  | 3.5% | 3.7% |
-| 13:30 | USD | PCE price index (MoM) (May) |  | 0.5% | 0.4% |
-| 13:30 | USD | PCE Price index (YoY) (May) |  | 4.1% | 3.8% |
-| 13:30 | USD | Personal Spending (MoM) (May) |  | 0.6% | 0.5% |
+| 13:30 | USD | Continuing Jobless Claims | 1,821K | 1,800K | 1,800K |
+| 13:30 | USD | Core Durable Goods Orders (MoM) (May) | 1.3% | 0.5% | 1.4% |
+| 13:30 | USD | Core PCE Prices (Q1) | 4.40% | 4.40% | 2.70% |
+| 13:30 | USD | GDP Price Index (QoQ) (Q1) | 3.6% | 3.5% | 3.7% |
+| 13:30 | USD | PCE price index (MoM) (May) | 0.4% | 0.5% | 0.4% |
+| 13:30 | USD | PCE Price index (YoY) (May) | 4.1% | 4.1% | 3.8% |
+| 13:30 | USD | Personal Spending (MoM) (May) | 0.7% | 0.6% | 0.4% |
 | 13:45 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 15:00 | USD | Atlanta Fed GDPNow (Q2) |  | 3.0% | 3.0% |
 | 18:00 | USD | 7-Year Note Auction |  |  | 4.290% |

@@ -1,4 +1,4 @@
-## None - All Forex News
+## 25 June 2026 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
@@ -29,34 +29,35 @@
 | 10:30 | ZAR | Low | PPI (YoY) (May) | 7.8% |  | 4.8% |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Jun) | -54 | -41 | -46 |
 | 11:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 13:00 | MXN | Low | Unemployment Rate (May) |  |  | 2.60% |
-| 13:00 | MXN | Low | Unemployment Rate n.s.a. (May) |  | 2.60% | 2.50% |
+| 12:00 | INR | Low | M3 Money Supply | 11.9% |  | 12.0% |
+| 13:00 | MXN | Low | Unemployment Rate (May) | 2.70% |  | 2.60% |
+| 13:00 | MXN | Low | Unemployment Rate n.s.a. (May) | 2.80% | 2.60% | 2.50% |
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 13:00 | BRL | Low | Mid-Month CPI (YoY) (Jun) |  | 4.82% | 4.64% |
-| 13:00 | BRL | Low | Mid-Month CPI (MoM) (Jun) |  | 0.44% | 0.62% |
-| 13:30 | USD | Low | Chicago Fed National Activity (May) |  |  | 0.14 |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,800K | 1,810K |
-| 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (May) |  | 0.5% | 1.1% |
-| 13:30 | USD | High | Core PCE Price Index (MoM) (May) |  | 0.3% | 0.2% |
-| 13:30 | USD | High | Core PCE Price Index (YoY) (May) |  | 3.4% | 3.3% |
-| 13:30 | USD | Moderate | Core PCE Prices (Q1) |  | 4.40% | 2.70% |
-| 13:30 | USD | Low | Corporate Profits (QoQ) (Q1) |  | -0.4% | 4.7% |
-| 13:30 | USD | High | Durable Goods Orders (MoM) (May) |  | -5.0% | 7.9% |
-| 13:30 | USD | Low | Durables Excluding Defense (MoM) (May) |  |  | 8.1% |
-| 13:30 | USD | High | GDP (QoQ) (Q1) |  | 1.6% | 0.5% |
-| 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q1) |  | 3.5% | 3.7% |
-| 13:30 | USD | Low | GDP Sales (Q1) |  | 1.5% | 0.3% |
-| 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (May) |  | 0.6% | -1.1% |
-| 13:30 | USD | High | Initial Jobless Claims |  | 225K | 226K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 223.25K |
-| 13:30 | USD | Moderate | PCE price index (MoM) (May) |  | 0.5% | 0.4% |
-| 13:30 | USD | Moderate | PCE Price index (YoY) (May) |  | 4.1% | 3.8% |
-| 13:30 | USD | Low | PCE Prices (Q1) |  | 4.5% | 2.9% |
-| 13:30 | USD | Low | Personal Income (MoM) (May) |  | 0.4% | 0.0% |
-| 13:30 | USD | Moderate | Personal Spending (MoM) (May) |  | 0.6% | 0.5% |
-| 13:30 | USD | Low | Real Consumer Spending (Q1) |  | 1.4% | 1.9% |
-| 13:30 | USD | Low | Real Personal Consumption (MoM) (May) |  |  | 0.1% |
-| 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Apr) |  |  | 3.50% |
+| 13:00 | BRL | Low | Mid-Month CPI (MoM) (Jun) | 0.41% | 0.44% | 0.62% |
+| 13:00 | BRL | Low | Mid-Month CPI (YoY) (Jun) | 4.80% | 4.82% | 4.64% |
+| 13:30 | USD | Low | Chicago Fed National Activity (May) | -0.10 |  | 0.19 |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,821K | 1,800K | 1,800K |
+| 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (May) | 1.3% | 0.5% | 1.4% |
+| 13:30 | USD | High | Core PCE Price Index (MoM) (May) | 0.3% | 0.3% | 0.3% |
+| 13:30 | USD | High | Core PCE Price Index (YoY) (May) | 3.4% | 3.4% | 3.3% |
+| 13:30 | USD | Moderate | Core PCE Prices (Q1) | 4.40% | 4.40% | 2.70% |
+| 13:30 | USD | Low | Corporate Profits (QoQ) (Q1) | 0.5% | -0.4% | 4.7% |
+| 13:30 | USD | High | Durable Goods Orders (MoM) (May) | -4.5% | -5.0% | 8.5% |
+| 13:30 | USD | Low | Durables Excluding Defense (MoM) (May) | -4.6% |  | 8.4% |
+| 13:30 | USD | High | GDP (QoQ) (Q1) | 2.1% | 1.6% | 0.5% |
+| 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q1) | 3.6% | 3.5% | 3.7% |
+| 13:30 | USD | Low | GDP Sales (Q1) | 1.9% | 1.5% | 0.3% |
+| 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (May) | 1.6% | 0.6% | -0.7% |
+| 13:30 | USD | High | Initial Jobless Claims | 215K | 225K | 227K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 224.25K |  | 223.50K |
+| 13:30 | USD | Moderate | PCE price index (MoM) (May) | 0.4% | 0.5% | 0.4% |
+| 13:30 | USD | Moderate | PCE Price index (YoY) (May) | 4.1% | 4.1% | 3.8% |
+| 13:30 | USD | Low | PCE Prices (Q1) | 4.6% | 4.5% | 2.9% |
+| 13:30 | USD | Low | Personal Income (MoM) (May) | 0.7% | 0.4% | 0.0% |
+| 13:30 | USD | Moderate | Personal Spending (MoM) (May) | 0.7% | 0.6% | 0.4% |
+| 13:30 | USD | Low | Real Consumer Spending (Q1) | 0.5% | 1.4% | 1.9% |
+| 13:30 | USD | Low | Real Personal Consumption (MoM) (May) | 0.3% |  | 0.0% |
+| 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Apr) | 3.85% |  | 3.47% |
 | 13:45 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 15:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 3.0% | 3.0% |
 | 15:00 | USD | Low | Dallas Fed PCE (May) |  |  | 2.50% |
