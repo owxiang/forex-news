@@ -12,11 +12,11 @@
 | 07:45 | EUR | French Consumer Confidence (Jun) | 84 | 83 | 82 |
 | 08:00 | EUR | Spanish GDP (YoY) (Q1) | 2.7% | 2.7% | 2.7% |
 | 08:00 | EUR | Spanish PPI (YoY) (May) | 10.5% |  | 8.3% |
-| 09:00 | EUR | Italian Industrial Sales (MoM) (Apr) |  |  | 2.00% |
-| 09:00 | EUR | Italian Industrial Sales (YoY) (Apr) |  |  | 4.40% |
-| 09:30 | HKD | Exports (MoM) (May) |  |  | 42.9% |
-| 09:30 | HKD | Imports (MoM) (May) |  |  | 44.4% |
-| 09:30 | HKD | Trade Balance (May) |  |  | -29.5B |
+| 09:00 | EUR | Italian Industrial Sales (MoM) (Apr) | 0.30% |  | 1.80% |
+| 09:00 | EUR | Italian Industrial Sales (YoY) (Apr) | 3.20% |  | 4.20% |
+| 09:30 | HKD | Exports (MoM) (May) | 40.8% |  | 42.9% |
+| 09:30 | HKD | Imports (MoM) (May) | 42.0% |  | 44.4% |
+| 09:30 | HKD | Trade Balance (May) | -44.2B |  | -29.5B |
 | 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 2.411% |
 | 10:30 | ZAR | PPI (MoM) (May) |  |  | 3.0% |
 | 10:30 | ZAR | PPI (YoY) (May) |  |  | 4.8% |

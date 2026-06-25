@@ -18,12 +18,12 @@
 | 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q1) | 0.6% | 0.6% | 0.8% |
 | 08:00 | EUR | Low | Spanish GDP (YoY) (Q1) | 2.7% | 2.7% | 2.7% |
 | 08:00 | EUR | Low | Spanish PPI (YoY) (May) | 10.5% |  | 8.3% |
-| 09:00 | EUR | Low | Italian Industrial Sales (MoM) (Apr) |  |  | 2.00% |
-| 09:00 | EUR | Low | Italian Industrial Sales (YoY) (Apr) |  |  | 4.40% |
+| 09:00 | EUR | Low | Italian Industrial Sales (MoM) (Apr) | 0.30% |  | 1.80% |
+| 09:00 | EUR | Low | Italian Industrial Sales (YoY) (Apr) | 3.20% |  | 4.20% |
 | 09:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
-| 09:30 | HKD | Low | Exports (MoM) (May) |  |  | 42.9% |
-| 09:30 | HKD | Low | Imports (MoM) (May) |  |  | 44.4% |
-| 09:30 | HKD | Low | Trade Balance (May) |  |  | -29.5B |
+| 09:30 | HKD | Low | Exports (MoM) (May) | 40.8% |  | 42.9% |
+| 09:30 | HKD | Low | Imports (MoM) (May) | 42.0% |  | 44.4% |
+| 09:30 | HKD | Low | Trade Balance (May) | -44.2B |  | -29.5B |
 | 10:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 2.411% |
 | 10:30 | ZAR | Low | PPI (MoM) (May) |  |  | 3.0% |
 | 10:30 | ZAR | Low | PPI (YoY) (May) |  |  | 4.8% |
