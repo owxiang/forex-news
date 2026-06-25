@@ -1,4 +1,4 @@
-## 25 June 2026 - All Forex News
+## None - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
@@ -24,10 +24,10 @@
 | 09:30 | HKD | Low | Exports (MoM) (May) | 40.8% |  | 42.9% |
 | 09:30 | HKD | Low | Imports (MoM) (May) | 42.0% |  | 44.4% |
 | 09:30 | HKD | Low | Trade Balance (May) | -44.2B |  | -29.5B |
-| 10:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 2.411% |
-| 10:30 | ZAR | Low | PPI (MoM) (May) |  |  | 3.0% |
-| 10:30 | ZAR | Low | PPI (YoY) (May) |  |  | 4.8% |
-| 11:00 | GBP | Low | CBI Distributive Trades Survey (Jun) |  | -41 | -46 |
+| 10:10 | EUR | Low | Italian 6-Month BOT Auction | 2.479% |  | 2.411% |
+| 10:30 | ZAR | Low | PPI (MoM) (May) | 2.6% |  | 3.0% |
+| 10:30 | ZAR | Low | PPI (YoY) (May) | 7.8% |  | 4.8% |
+| 11:00 | GBP | Low | CBI Distributive Trades Survey (Jun) | -54 | -41 | -46 |
 | 11:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 13:00 | MXN | Low | Unemployment Rate (May) |  |  | 2.60% |
 | 13:00 | MXN | Low | Unemployment Rate n.s.a. (May) |  | 2.60% | 2.50% |

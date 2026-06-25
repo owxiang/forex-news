@@ -1,4 +1,4 @@
-## 25 June 2026 - Low Impact Forex News
+## None - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
@@ -17,10 +17,10 @@
 | 09:30 | HKD | Exports (MoM) (May) | 40.8% |  | 42.9% |
 | 09:30 | HKD | Imports (MoM) (May) | 42.0% |  | 44.4% |
 | 09:30 | HKD | Trade Balance (May) | -44.2B |  | -29.5B |
-| 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 2.411% |
-| 10:30 | ZAR | PPI (MoM) (May) |  |  | 3.0% |
-| 10:30 | ZAR | PPI (YoY) (May) |  |  | 4.8% |
-| 11:00 | GBP | CBI Distributive Trades Survey (Jun) |  | -41 | -46 |
+| 10:10 | EUR | Italian 6-Month BOT Auction | 2.479% |  | 2.411% |
+| 10:30 | ZAR | PPI (MoM) (May) | 2.6% |  | 3.0% |
+| 10:30 | ZAR | PPI (YoY) (May) | 7.8% |  | 4.8% |
+| 11:00 | GBP | CBI Distributive Trades Survey (Jun) | -54 | -41 | -46 |
 | 13:00 | MXN | Unemployment Rate (May) |  |  | 2.60% |
 | 13:00 | MXN | Unemployment Rate n.s.a. (May) |  | 2.60% | 2.50% |
 | 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
