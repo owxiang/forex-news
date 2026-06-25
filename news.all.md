@@ -72,4 +72,4 @@
 | 20:40 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet | 6,736B |  | 6,736B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 2.954T |  | 2.936T |
-| 52 min | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 23:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
