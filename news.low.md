@@ -9,9 +9,9 @@
 | 06:00 | JPY | Coincident Indicator (MoM) (Apr) | 1.3% | 1.1% | 0.2% |
 | 06:00 | JPY | Leading Index (Apr) | 116.1 | 115.9 | 114.0 |
 | 06:00 | JPY | Leading Index (MoM) (Apr) | 0.7% | 0.5% | 0.8% |
-| 07:45 | EUR | French Consumer Confidence (Jun) |  | 83 | 82 |
-| 08:00 | EUR | Spanish GDP (YoY) (Q1) |  | 2.7% | 2.7% |
-| 08:00 | EUR | Spanish PPI (YoY) (May) |  |  | 8.3% |
+| 07:45 | EUR | French Consumer Confidence (Jun) | 84 | 83 | 82 |
+| 08:00 | EUR | Spanish GDP (YoY) (Q1) | 2.7% | 2.7% | 2.7% |
+| 08:00 | EUR | Spanish PPI (YoY) (May) | 10.5% |  | 8.3% |
 | 09:00 | EUR | Italian Industrial Sales (MoM) (Apr) |  |  | 2.00% |
 | 09:00 | EUR | Italian Industrial Sales (YoY) (Apr) |  |  | 4.40% |
 | 09:30 | HKD | Exports (MoM) (May) |  |  | 42.9% |

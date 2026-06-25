@@ -13,11 +13,11 @@
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Apr) | 1.3% | 1.1% | 0.2% |
 | 06:00 | JPY | Low | Leading Index (Apr) | 116.1 | 115.9 | 114.0 |
 | 06:00 | JPY | Low | Leading Index (MoM) (Apr) | 0.7% | 0.5% | 0.8% |
-| 07:00 | EUR | Moderate | GfK German Consumer Climate (Jul) |  | -27.8 | -29.8 |
-| 07:45 | EUR | Low | French Consumer Confidence (Jun) |  | 83 | 82 |
-| 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q1) |  | 0.6% | 0.8% |
-| 08:00 | EUR | Low | Spanish GDP (YoY) (Q1) |  | 2.7% | 2.7% |
-| 08:00 | EUR | Low | Spanish PPI (YoY) (May) |  |  | 8.3% |
+| 07:00 | EUR | Moderate | GfK German Consumer Climate (Jul) | -29.2 | -27.8 | -29.7 |
+| 07:45 | EUR | Low | French Consumer Confidence (Jun) | 84 | 83 | 82 |
+| 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q1) | 0.6% | 0.6% | 0.8% |
+| 08:00 | EUR | Low | Spanish GDP (YoY) (Q1) | 2.7% | 2.7% | 2.7% |
+| 08:00 | EUR | Low | Spanish PPI (YoY) (May) | 10.5% |  | 8.3% |
 | 09:00 | EUR | Low | Italian Industrial Sales (MoM) (Apr) |  |  | 2.00% |
 | 09:00 | EUR | Low | Italian Industrial Sales (YoY) (Apr) |  |  | 4.40% |
 | 09:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |

@@ -5,8 +5,8 @@
 | 02:30 | AUD | Employment Change (May) | 40.3K | 31.2K | -40.7K |
 | 02:30 | AUD | Full Employment Change (May) | 5.2K |  | -21.7K |
 | 02:30 | AUD | Unemployment Rate (May) | 4.4% | 4.4% | 4.5% |
-| 07:00 | EUR | GfK German Consumer Climate (Jul) |  | -27.8 | -29.8 |
-| 08:00 | EUR | Spanish GDP (QoQ) (Q1) |  | 0.6% | 0.8% |
+| 07:00 | EUR | GfK German Consumer Climate (Jul) | -29.2 | -27.8 | -29.7 |
+| 08:00 | EUR | Spanish GDP (QoQ) (Q1) | 0.6% | 0.6% | 0.8% |
 | 09:00 | EUR | ECB Economic Bulletin |  |  |  |
 | 11:00 | EUR | ECB's Lane Speaks |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,800K | 1,810K |
