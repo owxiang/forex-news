@@ -64,9 +64,9 @@
 | 15:30 | USD | Low | Natural Gas Storage | 76B | 67B | 73B |
 | 16:00 | USD | Low | KC Fed Composite Index (Jun) | 11 |  | 8 |
 | 16:00 | USD | Low | KC Fed Manufacturing Index (Jun) | 19 |  | 9 |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.580% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.640% |
-| 17:00 | USD | Low | Dallas Fed PCE (May) |  |  | 2.50% |
+| 16:25 | USD | Low | Dallas Fed PCE (May) | 2.80% |  | 2.40% |
+| 16:30 | USD | Low | 4-Week Bill Auction | 3.610% |  | 3.580% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 3.660% |  | 3.640% |
 | 18:00 | USD | Moderate | 7-Year Note Auction |  |  | 4.290% |
 | 20:00 | MXN | Moderate | Interest Rate Decision (Jun) |  | 6.50% | 6.50% |
 | 20:40 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |

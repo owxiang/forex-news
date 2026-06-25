@@ -42,8 +42,8 @@
 | 15:30 | USD | Natural Gas Storage | 76B | 67B | 73B |
 | 16:00 | USD | KC Fed Composite Index (Jun) | 11 |  | 8 |
 | 16:00 | USD | KC Fed Manufacturing Index (Jun) | 19 |  | 9 |
-| 16:30 | USD | 4-Week Bill Auction |  |  | 3.580% |
-| 16:30 | USD | 8-Week Bill Auction |  |  | 3.640% |
-| 17:00 | USD | Dallas Fed PCE (May) |  |  | 2.50% |
+| 16:25 | USD | Dallas Fed PCE (May) | 2.80% |  | 2.40% |
+| 16:30 | USD | 4-Week Bill Auction | 3.610% |  | 3.580% |
+| 16:30 | USD | 8-Week Bill Auction | 3.660% |  | 3.640% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.936T |
 | 23:30 | USD | Fed Goolsbee Speaks |  |  |  |
