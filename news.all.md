@@ -30,6 +30,7 @@
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Jun) | -54 | -41 | -46 |
 | 11:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 12:00 | INR | Low | M3 Money Supply | 11.9% |  | 12.0% |
+| 12:00 | BRL | Low | Federal Tax Revenue (May) | 266.79B |  | 278.80B |
 | 13:00 | MXN | Low | Unemployment Rate (May) | 2.70% |  | 2.60% |
 | 13:00 | MXN | Low | Unemployment Rate n.s.a. (May) | 2.80% | 2.60% | 2.50% |
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
@@ -59,13 +60,13 @@
 | 13:30 | USD | Low | Real Personal Consumption (MoM) (May) | 0.3% |  | 0.0% |
 | 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Apr) | 3.85% |  | 3.47% |
 | 13:45 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 15:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 3.0% | 3.0% |
-| 15:00 | USD | Low | Dallas Fed PCE (May) |  |  | 2.50% |
-| 15:30 | USD | Low | Natural Gas Storage |  | 67B | 73B |
-| 16:00 | USD | Low | KC Fed Composite Index (Jun) |  |  | 8 |
-| 16:00 | USD | Low | KC Fed Manufacturing Index (Jun) |  |  | 9 |
+| 15:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 2.5% | 3.0% | 3.0% |
+| 15:30 | USD | Low | Natural Gas Storage | 76B | 67B | 73B |
+| 16:00 | USD | Low | KC Fed Composite Index (Jun) | 11 |  | 8 |
+| 16:00 | USD | Low | KC Fed Manufacturing Index (Jun) | 19 |  | 9 |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.580% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.640% |
+| 17:00 | USD | Low | Dallas Fed PCE (May) |  |  | 2.50% |
 | 18:00 | USD | Moderate | 7-Year Note Auction |  |  | 4.290% |
 | 20:00 | MXN | Moderate | Interest Rate Decision (Jun) |  | 6.50% | 6.50% |
 | 20:40 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
