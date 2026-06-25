@@ -10,11 +10,11 @@
 | 02:30 | AUD | Moderate | Full Employment Change (May) | 5.2K |  | -21.7K |
 | 02:30 | AUD | Low | Participation Rate (May) | 66.7% | 66.7% | 66.6% |
 | 02:30 | AUD | Moderate | Unemployment Rate (May) | 4.4% | 4.4% | 4.5% |
-| 06:00 | JPY | Low | Coincident Indicator (MoM) (Apr) |  | 1.1% | 0.2% |
-| 06:00 | JPY | Low | Leading Index (Apr) |  | 115.9 | 114.0 |
-| 06:00 | JPY | Low | Leading Index (MoM) (Apr) |  | 0.5% | 0.8% |
+| 06:00 | JPY | Low | Coincident Indicator (MoM) (Apr) | 1.3% | 1.1% | 0.2% |
+| 06:00 | JPY | Low | Leading Index (Apr) | 116.1 | 115.9 | 114.0 |
+| 06:00 | JPY | Low | Leading Index (MoM) (Apr) | 0.7% | 0.5% | 0.8% |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Jul) |  | -27.8 | -29.8 |
-| 07:45 | EUR | Low | French Consumer Confidence (Jun) |  | 84 | 82 |
+| 07:45 | EUR | Low | French Consumer Confidence (Jun) |  | 83 | 82 |
 | 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q1) |  | 0.6% | 0.8% |
 | 08:00 | EUR | Low | Spanish GDP (YoY) (Q1) |  | 2.7% | 2.7% |
 | 08:00 | EUR | Low | Spanish PPI (YoY) (May) |  |  | 8.3% |
@@ -30,10 +30,10 @@
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Jun) |  | -41 | -46 |
 | 11:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 13:00 | MXN | Low | Unemployment Rate (May) |  |  | 2.60% |
-| 13:00 | MXN | Low | Unemployment Rate n.s.a. (May) |  |  | 2.50% |
+| 13:00 | MXN | Low | Unemployment Rate n.s.a. (May) |  | 2.60% | 2.50% |
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
 | 13:00 | BRL | Low | Mid-Month CPI (YoY) (Jun) |  | 4.82% | 4.64% |
-| 13:00 | BRL | Low | Mid-Month CPI (MoM) (Jun) |  | 0.43% | 0.62% |
+| 13:00 | BRL | Low | Mid-Month CPI (MoM) (Jun) |  | 0.44% | 0.62% |
 | 13:30 | USD | Low | Chicago Fed National Activity (May) |  |  | 0.14 |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,800K | 1,810K |
 | 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (May) |  | 0.5% | 1.1% |
@@ -41,16 +41,16 @@
 | 13:30 | USD | High | Core PCE Price Index (YoY) (May) |  | 3.4% | 3.3% |
 | 13:30 | USD | Moderate | Core PCE Prices (Q1) |  | 4.40% | 2.70% |
 | 13:30 | USD | Low | Corporate Profits (QoQ) (Q1) |  | -0.4% | 4.7% |
-| 13:30 | USD | High | Durable Goods Orders (MoM) (May) |  | -5.0% | 8.0% |
+| 13:30 | USD | High | Durable Goods Orders (MoM) (May) |  | -5.0% | 7.9% |
 | 13:30 | USD | Low | Durables Excluding Defense (MoM) (May) |  |  | 8.1% |
-| 13:30 | USD | High | GDP (QoQ) (Q1) |  | 1.6% | 2.0% |
+| 13:30 | USD | High | GDP (QoQ) (Q1) |  | 1.6% | 0.5% |
 | 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q1) |  | 3.5% | 3.7% |
 | 13:30 | USD | Low | GDP Sales (Q1) |  | 1.5% | 0.3% |
-| 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (May) |  | 0.6% | -1.0% |
+| 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (May) |  | 0.6% | -1.1% |
 | 13:30 | USD | High | Initial Jobless Claims |  | 225K | 226K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 223.25K |
 | 13:30 | USD | Moderate | PCE price index (MoM) (May) |  | 0.5% | 0.4% |
-| 13:30 | USD | Moderate | PCE Price index (YoY) (May) |  | 4.0% | 3.8% |
+| 13:30 | USD | Moderate | PCE Price index (YoY) (May) |  | 4.1% | 3.8% |
 | 13:30 | USD | Low | PCE Prices (Q1) |  | 4.5% | 2.9% |
 | 13:30 | USD | Low | Personal Income (MoM) (May) |  | 0.4% | 0.0% |
 | 13:30 | USD | Moderate | Personal Spending (MoM) (May) |  | 0.6% | 0.5% |

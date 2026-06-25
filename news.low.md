@@ -6,10 +6,10 @@
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 479.4B |  | -785.2B |
 | 02:00 | JPY | BoJ Tamura Speaks |  |  |  |
 | 02:30 | AUD | Participation Rate (May) | 66.7% | 66.7% | 66.6% |
-| 06:00 | JPY | Coincident Indicator (MoM) (Apr) |  | 1.1% | 0.2% |
-| 06:00 | JPY | Leading Index (Apr) |  | 115.9 | 114.0 |
-| 06:00 | JPY | Leading Index (MoM) (Apr) |  | 0.5% | 0.8% |
-| 07:45 | EUR | French Consumer Confidence (Jun) |  | 84 | 82 |
+| 06:00 | JPY | Coincident Indicator (MoM) (Apr) | 1.3% | 1.1% | 0.2% |
+| 06:00 | JPY | Leading Index (Apr) | 116.1 | 115.9 | 114.0 |
+| 06:00 | JPY | Leading Index (MoM) (Apr) | 0.7% | 0.5% | 0.8% |
+| 07:45 | EUR | French Consumer Confidence (Jun) |  | 83 | 82 |
 | 08:00 | EUR | Spanish GDP (YoY) (Q1) |  | 2.7% | 2.7% |
 | 08:00 | EUR | Spanish PPI (YoY) (May) |  |  | 8.3% |
 | 09:00 | EUR | Italian Industrial Sales (MoM) (Apr) |  |  | 2.00% |
@@ -22,15 +22,15 @@
 | 10:30 | ZAR | PPI (YoY) (May) |  |  | 4.8% |
 | 11:00 | GBP | CBI Distributive Trades Survey (Jun) |  | -41 | -46 |
 | 13:00 | MXN | Unemployment Rate (May) |  |  | 2.60% |
-| 13:00 | MXN | Unemployment Rate n.s.a. (May) |  |  | 2.50% |
+| 13:00 | MXN | Unemployment Rate n.s.a. (May) |  | 2.60% | 2.50% |
 | 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 13:00 | BRL | Mid-Month CPI (YoY) (Jun) |  | 4.82% | 4.64% |
-| 13:00 | BRL | Mid-Month CPI (MoM) (Jun) |  | 0.43% | 0.62% |
+| 13:00 | BRL | Mid-Month CPI (MoM) (Jun) |  | 0.44% | 0.62% |
 | 13:30 | USD | Chicago Fed National Activity (May) |  |  | 0.14 |
 | 13:30 | USD | Corporate Profits (QoQ) (Q1) |  | -0.4% | 4.7% |
 | 13:30 | USD | Durables Excluding Defense (MoM) (May) |  |  | 8.1% |
 | 13:30 | USD | GDP Sales (Q1) |  | 1.5% | 0.3% |
-| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (May) |  | 0.6% | -1.0% |
+| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (May) |  | 0.6% | -1.1% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 223.25K |
 | 13:30 | USD | PCE Prices (Q1) |  | 4.5% | 2.9% |
 | 13:30 | USD | Personal Income (MoM) (May) |  | 0.4% | 0.0% |

@@ -14,7 +14,7 @@
 | 13:30 | USD | Core PCE Prices (Q1) |  | 4.40% | 2.70% |
 | 13:30 | USD | GDP Price Index (QoQ) (Q1) |  | 3.5% | 3.7% |
 | 13:30 | USD | PCE price index (MoM) (May) |  | 0.5% | 0.4% |
-| 13:30 | USD | PCE Price index (YoY) (May) |  | 4.0% | 3.8% |
+| 13:30 | USD | PCE Price index (YoY) (May) |  | 4.1% | 3.8% |
 | 13:30 | USD | Personal Spending (MoM) (May) |  | 0.6% | 0.5% |
 | 13:45 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 15:00 | USD | Atlanta Fed GDPNow (Q2) |  | 3.0% | 3.0% |
