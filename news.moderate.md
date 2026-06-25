@@ -19,6 +19,6 @@
 | 13:45 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 15:00 | USD | Atlanta Fed GDPNow (Q2) | 2.5% | 3.0% | 3.0% |
 | 18:00 | USD | 7-Year Note Auction | 4.260% |  | 4.290% |
-| 20:00 | MXN | Interest Rate Decision (Jun) |  | 6.50% | 6.50% |
-| 20:40 | USD | FOMC Member Williams Speaks |  |  |  |
+| 7 min | MXN | Interest Rate Decision (Jun) |  | 6.50% | 6.50% |
+| 47 min | USD | FOMC Member Williams Speaks |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,736B |
