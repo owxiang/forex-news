@@ -1,24 +1,29 @@
-## 25 June 2026 - Moderate Impact Forex News
+## 26 June 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Employment Change (May) | 40.3K | 31.2K | -40.7K |
-| 02:30 | AUD | Full Employment Change (May) | 5.2K |  | -21.7K |
-| 02:30 | AUD | Unemployment Rate (May) | 4.4% | 4.4% | 4.5% |
-| 07:00 | EUR | GfK German Consumer Climate (Jul) | -29.2 | -27.8 | -29.7 |
-| 08:00 | EUR | Spanish GDP (QoQ) (Q1) | 0.6% | 0.6% | 0.8% |
-| 09:00 | EUR | ECB Economic Bulletin |  |  |  |
-| 11:00 | EUR | ECB's Lane Speaks |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims | 1,821K | 1,800K | 1,800K |
-| 13:30 | USD | Core Durable Goods Orders (MoM) (May) | 1.3% | 0.5% | 1.4% |
-| 13:30 | USD | Core PCE Prices (Q1) | 4.40% | 4.40% | 2.70% |
-| 13:30 | USD | GDP Price Index (QoQ) (Q1) | 3.6% | 3.5% | 3.7% |
-| 13:30 | USD | PCE price index (MoM) (May) | 0.4% | 0.5% | 0.4% |
-| 13:30 | USD | PCE Price index (YoY) (May) | 4.1% | 4.1% | 3.8% |
-| 13:30 | USD | Personal Spending (MoM) (May) | 0.7% | 0.6% | 0.4% |
-| 13:45 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 15:00 | USD | Atlanta Fed GDPNow (Q2) | 2.5% | 3.0% | 3.0% |
-| 18:00 | USD | 7-Year Note Auction | 4.260% |  | 4.290% |
-| 20:00 | MXN | Interest Rate Decision (Jun) | 6.50% | 6.50% | 6.50% |
-| 20:40 | USD | FOMC Member Williams Speaks |  |  |  |
-| 21:30 | USD | Fed's Balance Sheet | 6,736B |  | 6,736B |
+| 00:30 | JPY | Tokyo Core CPI (YoY) (Jun) | 1.6% | 1.6% | 1.3% |
+| 09:30 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 10:30 | EUR | Italian 10-Year BTP Auction |  |  | 3.77% |
+| 11:00 | EUR | France Jobseekers Total (May) |  |  | 3,100.1K |
+| 13:00 | BRL | Unemployment Rate (May) |  | 5.6% | 5.8% |
+| 13:30 | USD | Goods Trade Balance (May) |  | -85.00B | -83.01B |
+| 13:30 | USD | Retail Inventories Ex Auto (May) |  |  | 0.6% |
+| 13:30 | CAD | Wholesale Sales (MoM) (May) |  |  | 0.6% |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (Jun) |  | 4.6% | 4.8% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (Jun) |  | 3.4% | 3.4% |
+| 15:00 | USD | Michigan Consumer Expectations (Jun) |  | 49.3 | 44.1 |
+| 15:00 | USD | Michigan Consumer Sentiment (Jun) |  | 48.9 | 44.8 |
+| 15:30 | USD | FOMC Member Williams Speaks |  |  |  |
+| 16:30 | USD | FOMC Member Kashkari Speaks |  |  |  |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 433 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 563 |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | -71.6K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 124.5K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 180.2K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | -8.9K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -194.0K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -4.1K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 41.0K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | -150.1K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 34.4K |
