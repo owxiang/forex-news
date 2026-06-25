@@ -6,10 +6,10 @@
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 479.4B |  | -785.2B |
 | 01:30 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 02:00 | JPY | Low | BoJ Tamura Speaks |  |  |  |
-| 25 min | AUD | Moderate | Employment Change (May) |  | 31.2K | -18.6K |
-| 25 min | AUD | Moderate | Full Employment Change (May) |  |  | -10.7K |
-| 25 min | AUD | Low | Participation Rate (May) |  | 66.8% | 66.7% |
-| 25 min | AUD | Moderate | Unemployment Rate (May) |  | 4.4% | 4.5% |
+| 02:30 | AUD | Moderate | Employment Change (May) | 40.3K | 31.2K | -40.7K |
+| 02:30 | AUD | Moderate | Full Employment Change (May) | 5.2K |  | -21.7K |
+| 02:30 | AUD | Low | Participation Rate (May) | 66.7% | 66.7% | 66.6% |
+| 02:30 | AUD | Moderate | Unemployment Rate (May) | 4.4% | 4.4% | 4.5% |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Apr) |  | 1.1% | 0.2% |
 | 06:00 | JPY | Low | Leading Index (Apr) |  | 115.9 | 114.0 |
 | 06:00 | JPY | Low | Leading Index (MoM) (Apr) |  | 0.5% | 0.8% |

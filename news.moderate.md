@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 25 min | AUD | Employment Change (May) |  | 31.2K | -18.6K |
-| 25 min | AUD | Full Employment Change (May) |  |  | -10.7K |
-| 25 min | AUD | Unemployment Rate (May) |  | 4.4% | 4.5% |
+| 02:30 | AUD | Employment Change (May) | 40.3K | 31.2K | -40.7K |
+| 02:30 | AUD | Full Employment Change (May) | 5.2K |  | -21.7K |
+| 02:30 | AUD | Unemployment Rate (May) | 4.4% | 4.4% | 4.5% |
 | 07:00 | EUR | GfK German Consumer Climate (Jul) |  | -27.8 | -29.8 |
 | 08:00 | EUR | Spanish GDP (QoQ) (Q1) |  | 0.6% | 0.8% |
 | 09:00 | EUR | ECB Economic Bulletin |  |  |  |

@@ -5,7 +5,7 @@
 | 00:50 | JPY | Foreign Bonds Buying | 199.7B |  | 382.5B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 479.4B |  | -785.2B |
 | 02:00 | JPY | BoJ Tamura Speaks |  |  |  |
-| 25 min | AUD | Participation Rate (May) |  | 66.8% | 66.7% |
+| 02:30 | AUD | Participation Rate (May) | 66.7% | 66.7% | 66.6% |
 | 06:00 | JPY | Coincident Indicator (MoM) (Apr) |  | 1.1% | 0.2% |
 | 06:00 | JPY | Leading Index (Apr) |  | 115.9 | 114.0 |
 | 06:00 | JPY | Leading Index (MoM) (Apr) |  | 0.5% | 0.8% |
