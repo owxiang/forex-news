@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | Tokyo Core CPI (YoY) (Jun) | 1.6% | 1.6% | 1.3% |
 | 09:30 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 10:30 | EUR | Italian 10-Year BTP Auction |  |  | 3.77% |
-| 11:00 | EUR | France Jobseekers Total (May) |  |  | 3,100.1K |
+| 10:30 | EUR | Italian 10-Year BTP Auction | 3.63% |  | 3.77% |
+| 11:00 | EUR | France Jobseekers Total (May) | 3,115.6K |  | 3,100.1K |
 | 13:00 | BRL | Unemployment Rate (May) |  | 5.6% | 5.8% |
 | 13:30 | USD | Goods Trade Balance (May) |  | -85.00B | -83.01B |
 | 13:30 | USD | Retail Inventories Ex Auto (May) |  |  | 0.6% |

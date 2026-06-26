@@ -12,10 +12,10 @@
 | 09:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 10:00 | EUR | Low | Italian Business Confidence (Jun) | 88.4 | 88.4 | 87.9 |
 | 10:00 | EUR | Low | Italian Consumer Confidence (Jun) | 92.4 | 94.5 | 93.4 |
-| 10:30 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 3.77% |
-| 10:30 | EUR | Low | Italian 5-Year BTP Auction |  |  | 3.16% |
-| 11:00 | EUR | Low | Italian Trade Balance Non-EU (May) |  |  | 3.85B |
-| 11:00 | EUR | Moderate | France Jobseekers Total (May) |  |  | 3,100.1K |
+| 10:30 | EUR | Moderate | Italian 10-Year BTP Auction | 3.63% |  | 3.77% |
+| 10:30 | EUR | Low | Italian 5-Year BTP Auction | 3.03% |  | 3.16% |
+| 11:00 | EUR | Low | Italian Trade Balance Non-EU (May) | 3.84B |  | 3.85B |
+| 11:00 | EUR | Moderate | France Jobseekers Total (May) | 3,115.6K |  | 3,100.1K |
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 17.7% |
 | 12:30 | INR | Low | Deposit Growth |  |  | 12.2% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 671.63B |
