@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Jun) |  |  | 0.7% |
+| 00:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Jun) | 1.1% |  | 0.7% |
 | 00:30 | JPY | Moderate | Tokyo Core CPI (YoY) (Jun) | 1.6% | 1.6% | 1.3% |
 | 00:30 | JPY | Low | Tokyo CPI (YoY) (Jun) | 1.7% |  | 1.4% |
-| 00:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Jun) |  |  | 0.0% |
+| 00:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Jun) | 0.0% |  | 0.0% |
 | 06:00 | SGD | Low | Industrial Production (YoY) (May) |  | 17.0% | 17.6% |
 | 06:00 | SGD | Low | Industrial Production (MoM) (May) |  | 2.0% | 5.8% |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (May) |  |  | 0.3% |
