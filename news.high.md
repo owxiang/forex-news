@@ -1,3 +1,5 @@
 ## 26 June 2026 - High Impact Forex News
 
-There is no high impact news today.
+| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 18:30 | USD | U.S. President Trump Speaks |  |  |  |

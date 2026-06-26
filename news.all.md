@@ -37,6 +37,7 @@
 | 16:30 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 440 |  | 433 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 573 |  | 563 |
+| 18:30 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions | -105.7K |  | -71.6K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions | 0.8K |  | 0.1K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions | 71.6K |  | 75.3K |
