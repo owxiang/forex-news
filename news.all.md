@@ -8,7 +8,7 @@
 | 00:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Jun) | 0.0% |  | 0.0% |
 | 06:00 | SGD | Low | Industrial Production (YoY) (May) | 13.0% | 17.0% | 16.5% |
 | 06:00 | SGD | Low | Industrial Production (MoM) (May) | -0.7% | 2.0% | 6.2% |
-| 07:00 | NOK | Low | Core Retail Sales (MoM) (May) |  |  | 0.3% |
+| 07:00 | NOK | Low | Core Retail Sales (MoM) (May) | -2.1% |  | 0.3% |
 | 09:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 10:00 | EUR | Low | Italian Business Confidence (Jun) |  | 88.4 | 87.9 |
 | 10:00 | EUR | Low | Italian Consumer Confidence (Jun) |  | 94.5 | 93.4 |
