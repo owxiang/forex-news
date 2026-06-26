@@ -12,15 +12,14 @@
 | 10:00 | EUR | Italian Consumer Confidence (Jun) | 92.4 | 94.5 | 93.4 |
 | 10:30 | EUR | Italian 5-Year BTP Auction | 3.03% |  | 3.16% |
 | 11:00 | EUR | Italian Trade Balance Non-EU (May) | 3.84B |  | 3.85B |
-| 12:30 | INR | Bank Loan Growth |  |  | 17.7% |
-| 12:30 | INR | Deposit Growth |  |  | 12.2% |
-| 12:30 | INR | FX Reserves, USD |  |  | 671.63B |
-| 12:30 | INR | M3 Money Supply |  |  | 12.0% |
-| 12:30 | BRL | Current Account (USD) (May) |  | -4.16B | -1.77B |
-| 12:30 | BRL | Foreign direct investment (USD) (May) |  | 5.75B | 8.91B |
-| 13:00 | MXN | Trade Balance (May) |  |  | 4.520B |
-| 13:00 | MXN | Trade Balance (USD) (May) |  |  | 3.351B |
-| 13:30 | USD | Wholesale Inventories (MoM) (May) |  | 0.3% | 0.6% |
+| 12:30 | INR | Bank Loan Growth | 17.7% |  | 17.7% |
+| 12:30 | INR | Deposit Growth | 12.0% |  | 12.2% |
+| 12:30 | INR | FX Reserves, USD | 672.59B |  | 671.63B |
+| 12:30 | BRL | Current Account (USD) (May) | -3.19B | -4.16B | -1.77B |
+| 12:30 | BRL | Foreign direct investment (USD) (May) | 7.97B | 5.75B | 8.91B |
+| 13:00 | MXN | Trade Balance (May) | 2.259B |  | 4.520B |
+| 13:00 | MXN | Trade Balance (USD) (May) | 0.638B |  | 2.996B |
+| 13:30 | USD | Wholesale Inventories (MoM) (May) | 0.3% | 0.3% | 0.7% |
 | 15:00 | USD | Michigan Current Conditions (Jun) |  | 48.4 | 45.8 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.1K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 75.3K |

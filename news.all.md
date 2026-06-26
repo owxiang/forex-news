@@ -16,19 +16,18 @@
 | 10:30 | EUR | Low | Italian 5-Year BTP Auction | 3.03% |  | 3.16% |
 | 11:00 | EUR | Low | Italian Trade Balance Non-EU (May) | 3.84B |  | 3.85B |
 | 11:00 | EUR | Moderate | France Jobseekers Total (May) | 3,115.6K |  | 3,100.1K |
-| 12:30 | INR | Low | Bank Loan Growth |  |  | 17.7% |
-| 12:30 | INR | Low | Deposit Growth |  |  | 12.2% |
-| 12:30 | INR | Low | FX Reserves, USD |  |  | 671.63B |
-| 12:30 | INR | Low | M3 Money Supply |  |  | 12.0% |
-| 12:30 | BRL | Low | Current Account (USD) (May) |  | -4.16B | -1.77B |
-| 12:30 | BRL | Low | Foreign direct investment (USD) (May) |  | 5.75B | 8.91B |
-| 13:00 | MXN | Low | Trade Balance (May) |  |  | 4.520B |
-| 13:00 | MXN | Low | Trade Balance (USD) (May) |  |  | 3.351B |
-| 13:00 | BRL | Moderate | Unemployment Rate (May) |  | 5.6% | 5.8% |
-| 13:30 | USD | Moderate | Goods Trade Balance (May) |  | -85.00B | -83.01B |
-| 13:30 | USD | Moderate | Retail Inventories Ex Auto (May) |  |  | 0.6% |
-| 13:30 | USD | Low | Wholesale Inventories (MoM) (May) |  | 0.3% | 0.6% |
-| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (May) |  |  | 0.6% |
+| 12:30 | INR | Low | Bank Loan Growth | 17.7% |  | 17.7% |
+| 12:30 | INR | Low | Deposit Growth | 12.0% |  | 12.2% |
+| 12:30 | INR | Low | FX Reserves, USD | 672.59B |  | 671.63B |
+| 12:30 | BRL | Low | Current Account (USD) (May) | -3.19B | -4.16B | -1.77B |
+| 12:30 | BRL | Low | Foreign direct investment (USD) (May) | 7.97B | 5.75B | 8.91B |
+| 13:00 | MXN | Low | Trade Balance (May) | 2.259B |  | 4.520B |
+| 13:00 | MXN | Low | Trade Balance (USD) (May) | 0.638B |  | 2.996B |
+| 13:00 | BRL | Moderate | Unemployment Rate (May) | 5.6% | 5.6% | 5.8% |
+| 13:30 | USD | Moderate | Goods Trade Balance (May) | -105.80B | -85.00B | -83.01B |
+| 13:30 | USD | Moderate | Retail Inventories Ex Auto (May) | 0.4% |  | 0.7% |
+| 13:30 | USD | Low | Wholesale Inventories (MoM) (May) | 0.3% | 0.3% | 0.7% |
+| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (May) | -0.7% |  | 0.6% |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Jun) |  | 4.6% | 4.8% |
 | 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Jun) |  | 3.4% | 3.9% |
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Jun) |  | 49.3 | 44.1 |

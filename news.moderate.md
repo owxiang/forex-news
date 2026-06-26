@@ -6,10 +6,10 @@
 | 09:30 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 10:30 | EUR | Italian 10-Year BTP Auction | 3.63% |  | 3.77% |
 | 11:00 | EUR | France Jobseekers Total (May) | 3,115.6K |  | 3,100.1K |
-| 13:00 | BRL | Unemployment Rate (May) |  | 5.6% | 5.8% |
-| 13:30 | USD | Goods Trade Balance (May) |  | -85.00B | -83.01B |
-| 13:30 | USD | Retail Inventories Ex Auto (May) |  |  | 0.6% |
-| 13:30 | CAD | Wholesale Sales (MoM) (May) |  |  | 0.6% |
+| 13:00 | BRL | Unemployment Rate (May) | 5.6% | 5.6% | 5.8% |
+| 13:30 | USD | Goods Trade Balance (May) | -105.80B | -85.00B | -83.01B |
+| 13:30 | USD | Retail Inventories Ex Auto (May) | 0.4% |  | 0.7% |
+| 13:30 | CAD | Wholesale Sales (MoM) (May) | -0.7% |  | 0.6% |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Jun) |  | 4.6% | 4.8% |
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Jun) |  | 3.4% | 3.9% |
 | 15:00 | USD | Michigan Consumer Expectations (Jun) |  | 49.3 | 44.1 |
