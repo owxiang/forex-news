@@ -35,8 +35,8 @@
 | 15:00 | USD | Low | Michigan Current Conditions (Jun) | 47.7 | 48.4 | 45.8 |
 | 15:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 16:30 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 433 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 563 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 440 |  | 433 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 573 |  | 563 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -71.6K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 0.1K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 75.3K |

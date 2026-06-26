@@ -16,8 +16,8 @@
 | 15:00 | USD | Michigan Consumer Sentiment (Jun) | 49.5 | 48.9 | 44.8 |
 | 15:30 | USD | FOMC Member Williams Speaks |  |  |  |
 | 16:30 | USD | FOMC Member Kashkari Speaks |  |  |  |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 433 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 563 |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 440 |  | 433 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count | 573 |  | 563 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -71.6K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 124.5K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 180.2K |
