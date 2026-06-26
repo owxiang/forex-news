@@ -20,7 +20,7 @@
 | 13:00 | MXN | Trade Balance (May) | 2.259B |  | 4.520B |
 | 13:00 | MXN | Trade Balance (USD) (May) | 0.638B |  | 2.996B |
 | 13:30 | USD | Wholesale Inventories (MoM) (May) | 0.3% | 0.3% | 0.7% |
-| 15:00 | USD | Michigan Current Conditions (Jun) |  | 48.4 | 45.8 |
+| 15:00 | USD | Michigan Current Conditions (Jun) | 47.7 | 48.4 | 45.8 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.1K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 75.3K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 77.8K |

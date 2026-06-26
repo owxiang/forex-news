@@ -28,11 +28,11 @@
 | 13:30 | USD | Moderate | Retail Inventories Ex Auto (May) | 0.4% |  | 0.7% |
 | 13:30 | USD | Low | Wholesale Inventories (MoM) (May) | 0.3% | 0.3% | 0.7% |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (May) | -0.7% |  | 0.6% |
-| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Jun) |  | 4.6% | 4.8% |
-| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Jun) |  | 3.4% | 3.4% |
-| 15:00 | USD | Moderate | Michigan Consumer Expectations (Jun) |  | 49.3 | 44.1 |
-| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Jun) |  | 48.9 | 44.8 |
-| 15:00 | USD | Low | Michigan Current Conditions (Jun) |  | 48.4 | 45.8 |
+| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Jun) | 4.6% | 4.6% | 4.8% |
+| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Jun) | 3.3% | 3.4% | 3.4% |
+| 15:00 | USD | Moderate | Michigan Consumer Expectations (Jun) | 50.7 | 49.3 | 44.1 |
+| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Jun) | 49.5 | 48.9 | 44.8 |
+| 15:00 | USD | Low | Michigan Current Conditions (Jun) | 47.7 | 48.4 | 45.8 |
 | 15:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 16:30 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 433 |
