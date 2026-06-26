@@ -8,8 +8,8 @@
 | 06:00 | SGD | Industrial Production (YoY) (May) | 13.0% | 17.0% | 16.5% |
 | 06:00 | SGD | Industrial Production (MoM) (May) | -0.7% | 2.0% | 6.2% |
 | 07:00 | NOK | Core Retail Sales (MoM) (May) | -2.1% |  | 0.3% |
-| 10:00 | EUR | Italian Business Confidence (Jun) |  | 88.4 | 87.9 |
-| 10:00 | EUR | Italian Consumer Confidence (Jun) |  | 94.5 | 93.4 |
+| 10:00 | EUR | Italian Business Confidence (Jun) | 88.4 | 88.4 | 87.9 |
+| 10:00 | EUR | Italian Consumer Confidence (Jun) | 92.4 | 94.5 | 93.4 |
 | 10:30 | EUR | Italian 5-Year BTP Auction |  |  | 3.16% |
 | 11:00 | EUR | Italian Trade Balance Non-EU (May) |  |  | 3.85B |
 | 12:30 | INR | Bank Loan Growth |  |  | 17.7% |

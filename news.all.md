@@ -10,8 +10,8 @@
 | 06:00 | SGD | Low | Industrial Production (MoM) (May) | -0.7% | 2.0% | 6.2% |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (May) | -2.1% |  | 0.3% |
 | 09:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 10:00 | EUR | Low | Italian Business Confidence (Jun) |  | 88.4 | 87.9 |
-| 10:00 | EUR | Low | Italian Consumer Confidence (Jun) |  | 94.5 | 93.4 |
+| 10:00 | EUR | Low | Italian Business Confidence (Jun) | 88.4 | 88.4 | 87.9 |
+| 10:00 | EUR | Low | Italian Consumer Confidence (Jun) | 92.4 | 94.5 | 93.4 |
 | 10:30 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 3.77% |
 | 10:30 | EUR | Low | Italian 5-Year BTP Auction |  |  | 3.16% |
 | 11:00 | EUR | Low | Italian Trade Balance Non-EU (May) |  |  | 3.85B |
