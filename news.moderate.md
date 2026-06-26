@@ -11,7 +11,7 @@
 | 13:30 | USD | Retail Inventories Ex Auto (May) | 0.4% |  | 0.7% |
 | 13:30 | CAD | Wholesale Sales (MoM) (May) | -0.7% |  | 0.6% |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Jun) |  | 4.6% | 4.8% |
-| 15:00 | USD | Michigan 5-Year Inflation Expectations (Jun) |  | 3.4% | 3.9% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (Jun) |  | 3.4% | 3.4% |
 | 15:00 | USD | Michigan Consumer Expectations (Jun) |  | 49.3 | 44.1 |
 | 15:00 | USD | Michigan Consumer Sentiment (Jun) |  | 48.9 | 44.8 |
 | 15:30 | USD | FOMC Member Williams Speaks |  |  |  |

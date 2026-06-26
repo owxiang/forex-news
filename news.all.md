@@ -29,7 +29,7 @@
 | 13:30 | USD | Low | Wholesale Inventories (MoM) (May) | 0.3% | 0.3% | 0.7% |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (May) | -0.7% |  | 0.6% |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Jun) |  | 4.6% | 4.8% |
-| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Jun) |  | 3.4% | 3.9% |
+| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Jun) |  | 3.4% | 3.4% |
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Jun) |  | 49.3 | 44.1 |
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Jun) |  | 48.9 | 44.8 |
 | 15:00 | USD | Low | Michigan Current Conditions (Jun) |  | 48.4 | 45.8 |
