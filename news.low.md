@@ -5,8 +5,8 @@
 | 00:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Jun) | 1.1% |  | 0.7% |
 | 00:30 | JPY | Tokyo CPI (YoY) (Jun) | 1.7% |  | 1.4% |
 | 00:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Jun) | 0.0% |  | 0.0% |
-| 06:00 | SGD | Industrial Production (YoY) (May) |  | 17.0% | 17.6% |
-| 06:00 | SGD | Industrial Production (MoM) (May) |  | 2.0% | 5.8% |
+| 06:00 | SGD | Industrial Production (YoY) (May) | 13.0% | 17.0% | 16.5% |
+| 06:00 | SGD | Industrial Production (MoM) (May) | -0.7% | 2.0% | 6.2% |
 | 07:00 | NOK | Core Retail Sales (MoM) (May) |  |  | 0.3% |
 | 10:00 | EUR | Italian Business Confidence (Jun) |  | 88.4 | 87.9 |
 | 10:00 | EUR | Italian Consumer Confidence (Jun) |  | 94.5 | 93.4 |
@@ -21,7 +21,7 @@
 | 13:00 | MXN | Trade Balance (May) |  |  | 4.520B |
 | 13:00 | MXN | Trade Balance (USD) (May) |  |  | 3.351B |
 | 13:30 | USD | Wholesale Inventories (MoM) (May) |  | 0.3% | 0.6% |
-| 15:00 | USD | Michigan Current Conditions (Jun) |  | 48.4 | 48.4 |
+| 15:00 | USD | Michigan Current Conditions (Jun) |  | 48.4 | 45.8 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.1K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 75.3K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 77.8K |

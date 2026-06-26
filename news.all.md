@@ -6,8 +6,8 @@
 | 00:30 | JPY | Moderate | Tokyo Core CPI (YoY) (Jun) | 1.6% | 1.6% | 1.3% |
 | 00:30 | JPY | Low | Tokyo CPI (YoY) (Jun) | 1.7% |  | 1.4% |
 | 00:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Jun) | 0.0% |  | 0.0% |
-| 06:00 | SGD | Low | Industrial Production (YoY) (May) |  | 17.0% | 17.6% |
-| 06:00 | SGD | Low | Industrial Production (MoM) (May) |  | 2.0% | 5.8% |
+| 06:00 | SGD | Low | Industrial Production (YoY) (May) | 13.0% | 17.0% | 16.5% |
+| 06:00 | SGD | Low | Industrial Production (MoM) (May) | -0.7% | 2.0% | 6.2% |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (May) |  |  | 0.3% |
 | 09:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 10:00 | EUR | Low | Italian Business Confidence (Jun) |  | 88.4 | 87.9 |
@@ -30,10 +30,10 @@
 | 13:30 | USD | Low | Wholesale Inventories (MoM) (May) |  | 0.3% | 0.6% |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (May) |  |  | 0.6% |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Jun) |  | 4.6% | 4.8% |
-| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Jun) |  | 3.4% | 3.4% |
+| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Jun) |  | 3.4% | 3.9% |
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Jun) |  | 49.3 | 44.1 |
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Jun) |  | 48.9 | 44.8 |
-| 15:00 | USD | Low | Michigan Current Conditions (Jun) |  | 48.4 | 48.4 |
+| 15:00 | USD | Low | Michigan Current Conditions (Jun) |  | 48.4 | 45.8 |
 | 15:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 16:30 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 433 |
