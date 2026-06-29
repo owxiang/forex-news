@@ -7,22 +7,22 @@
 | 00:50 | JPY | Low | Large Scale Retail Sales YoY (YoY) (May) | 5.0% |  | 2.0% |
 | 00:50 | JPY | Low | Retail Sales (YoY) (May) | 5.3% | 3.1% | 2.8% |
 | 06:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 08:00 | EUR | Low | Core CPI (YoY) (Jun) |  |  | 3.0% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Jun) |  |  | 0.1% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jun) |  | 3.2% | 3.2% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Jun) |  |  | 0.1% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jun) |  |  | 3.6% |
-| 08:00 | EUR | Low | Spanish Retail Sales (YoY) (May) |  |  | 0.8% |
-| 09:00 | EUR | Low | M3 Money Supply (YoY) (May) |  | 2.7% | 2.7% |
-| 09:00 | EUR | Low | M3 Money Supply (May) |  |  | 17,433.9B |
-| 09:00 | EUR | Low | Loans to Non Financial Corporations (May) |  |  | 3.4% |
-| 09:00 | EUR | Low | Private Sector Loans (YoY) (May) |  | 2.9% | 3.0% |
-| 09:30 | GBP | Low | BoE Consumer Credit (May) |  |  | 1.859B |
-| 09:30 | GBP | Low | M3 Money Supply (May) |  |  | 3,272.0B |
-| 09:30 | GBP | Low | M4 Money Supply (MoM) (May) |  | 0.2% | 0.2% |
-| 09:30 | GBP | Low | Mortgage Approvals (May) |  | 63.00K | 65.94K |
-| 09:30 | GBP | Low | Mortgage Lending (May) |  |  | 4.37B |
-| 09:30 | GBP | Low | Net Lending to Individuals (May) |  | 6.000B | 6.200B |
+| 08:00 | EUR | Low | Core CPI (YoY) (Jun) | 2.9% |  | 2.9% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Jun) | 0.6% |  | 0.1% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jun) | 3.2% | 3.2% | 3.2% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Jun) | 0.6% |  | 0.1% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jun) | 3.6% |  | 3.6% |
+| 08:00 | EUR | Low | Spanish Retail Sales (YoY) (May) | 1.3% |  | 0.6% |
+| 1 min | EUR | Low | M3 Money Supply (YoY) (May) | 3.2% | 2.7% | 2.7% |
+| 1 min | EUR | Low | M3 Money Supply (May) |  |  | 17,433.9B |
+| 1 min | EUR | Low | Loans to Non Financial Corporations (May) | 4.0% |  | 3.4% |
+| 1 min | EUR | Low | Private Sector Loans (YoY) (May) |  | 2.9% | 3.0% |
+| 32 min | GBP | Low | BoE Consumer Credit (May) |  |  | 1.859B |
+| 32 min | GBP | Low | M3 Money Supply (May) |  |  | 3,272.0B |
+| 32 min | GBP | Low | M4 Money Supply (MoM) (May) |  | 0.2% | 0.2% |
+| 32 min | GBP | Low | Mortgage Approvals (May) |  | 63.00K | 65.94K |
+| 32 min | GBP | Low | Mortgage Lending (May) |  |  | 4.37B |
+| 32 min | GBP | Low | Net Lending to Individuals (May) |  | 6.000B | 6.200B |
 | 10:00 | EUR | Low | Business and Consumer Survey (Jun) |  | 94.3 | 93.5 |
 | 10:00 | EUR | Low | Business Climate (Jun) |  |  | -0.26 |
 | 10:00 | EUR | Low | Consumer Confidence (Jun) |  | -17.7 | -17.7 |
