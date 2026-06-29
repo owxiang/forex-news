@@ -7,4 +7,4 @@
 | 08:00 | EUR | Spanish CPI (YoY) (Jun) | 3.2% | 3.2% | 3.2% |
 | 08:00 | EUR | Spanish HICP (YoY) (Jun) | 3.6% |  | 3.6% |
 | 12:30 | AUD | RBA Assist Gov Kent Speaks |  |  |  |
-| 18:30 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 23 min | EUR | ECB President Lagarde Speaks |  |  |  |
