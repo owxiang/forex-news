@@ -41,7 +41,7 @@
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.579% |  | 2.640% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.377% |  | 2.388% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.483% |  | 2.481% |
-| 15:30 | USD | Low | Dallas Fed Mfg Business Index (Jun) |  |  | 0.4 |
+| 15:30 | USD | Low | Dallas Fed Mfg Business Index (Jun) | 0.0 |  | 0.4 |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.695% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.840% |
 | 18:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
