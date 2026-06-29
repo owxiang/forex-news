@@ -1,41 +1,81 @@
-## 29 June 2026 - Low Impact Forex News
+## 30 June 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Large Retailers' Sales (MoM) (May) | 1.9% |  | 2.1% |
-| 00:50 | JPY | Large Scale Retail Sales YoY (YoY) (May) | 5.0% |  | 2.0% |
-| 00:50 | JPY | Retail Sales (YoY) (May) | 5.3% | 3.1% | 2.8% |
-| 08:00 | EUR | Core CPI (YoY) (Jun) | 2.9% |  | 2.9% |
-| 08:00 | EUR | Spanish CPI (MoM) (Jun) | 0.6% |  | 0.1% |
-| 08:00 | EUR | Spanish HICP (MoM) (Jun) | 0.6% |  | 0.1% |
-| 08:00 | EUR | Spanish Retail Sales (YoY) (May) | 1.3% |  | 0.6% |
-| 09:00 | EUR | M3 Money Supply (YoY) (May) | 3.2% | 2.7% | 2.7% |
-| 09:00 | EUR | M3 Money Supply (May) | 17,552.2B |  | 17,433.9B |
-| 09:00 | EUR | Loans to Non Financial Corporations (May) | 4.0% |  | 3.4% |
-| 09:00 | EUR | Private Sector Loans (YoY) (May) | 3.1% | 2.9% | 3.0% |
-| 09:30 | GBP | BoE Consumer Credit (May) | 1.662B | 1.800B | 1.713B |
-| 09:30 | GBP | M3 Money Supply (May) | 3,278.5B |  | 3,271.6B |
-| 09:30 | GBP | M4 Money Supply (MoM) (May) | 0.1% | 0.2% | 0.2% |
-| 09:30 | GBP | Mortgage Approvals (May) | 56.21K | 63.00K | 66.03K |
-| 09:30 | GBP | Mortgage Lending (May) | 2.89B | 4.60B | 4.44B |
-| 09:30 | GBP | Net Lending to Individuals (May) | 4.600B | 6.000B | 6.200B |
-| 10:00 | EUR | Business and Consumer Survey (Jun) | 95.0 | 94.3 | 93.7 |
-| 10:00 | EUR | Business Climate (Jun) | -0.38 |  | -0.27 |
-| 10:00 | EUR | Consumer Confidence (Jun) | -17.7 | -17.7 | -17.7 |
-| 10:00 | EUR | Consumer Inflation Expectation (Jun) | 34.0 |  | 40.4 |
-| 10:00 | EUR | Selling Price Expectations (Jun) | 22.3 |  | 26.7 |
-| 10:00 | EUR | Services Sentiment (Jun) | 3.2 | 2.5 | 2.6 |
-| 10:00 | EUR | Industrial Sentiment (Jun) | -7.7 | -7.8 | -7.9 |
-| 11:30 | INR | Cumulative Industrial Production (May) | 5.10% |  | 4.10% |
-| 11:30 | INR | Industrial Production (YoY) (May) | 5.1% | 4.7% | 4.9% |
-| 11:30 | INR | Manufacturing Output (MoM) (May) | 5.5% |  | 6.1% |
-| 12:00 | BRL | IGP-M Inflation Index (MoM) (Jun) | -0.50% | -0.45% | 0.84% |
-| 12:15 | EUR | Spanish Business Confidence (Jun) | -2.4 |  | -3.7 |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | INR | Foreign Debt (USD) (Q1) | 762.8B |  | 765.5B |
-| 14:00 | EUR | French 12-Month BTF Auction | 2.579% |  | 2.640% |
-| 14:00 | EUR | French 3-Month BTF Auction | 2.377% |  | 2.388% |
-| 14:00 | EUR | French 6-Month BTF Auction | 2.483% |  | 2.481% |
-| 15:30 | USD | Dallas Fed Mfg Business Index (Jun) | 0.0 |  | 0.4 |
-| 16:30 | USD | 3-Month Bill Auction | 3.740% |  | 3.695% |
-| 16:30 | USD | 6-Month Bill Auction | 3.840% |  | 3.840% |
+| 00:00 | KRW | Industrial Production (YoY) (May) | -0.9% |  | 1.5% |
+| 00:00 | KRW | Industrial Production (MoM) (May) | -3.0% |  | -0.7% |
+| 00:00 | KRW | Retail Sales (MoM) (May) | 0.1% |  | -3.5% |
+| 00:00 | KRW | Service Sector Output (MoM) (May) | 1.3% |  | -0.9% |
+| 00:01 | GBP | BRC Shop Price Index (YoY) | 1.2% | 1.2% | 1.2% |
+| 3 min | JPY | Jobs/applications ratio (May) |  | 1.18 | 1.18 |
+| 3 min | JPY | Unemployment Rate (May) |  | 2.5% | 2.5% |
+| 23 min | JPY | Industrial Production forecast 1m ahead (MoM) (Jun) |  |  | 5.1% |
+| 23 min | JPY | Industrial Production forecast 2m ahead (MoM) (Jul) |  |  | -0.4% |
+| 02:00 | NZD | ANZ Business Confidence (Jun) |  |  | 10.0 |
+| 02:00 | NZD | NBNZ Own Activity (Jun) |  |  | 25.6% |
+| 02:30 | AUD | Housing Credit (May) |  |  | 0.6% |
+| 02:30 | AUD | Private Sector Credit (MoM) (May) |  | 0.6% | 0.7% |
+| 04:00 | NZD | M3 Money Supply (May) |  |  | 454,442.0B |
+| 04:35 | JPY | 2-Year JGB Auction |  |  | 1.369% |
+| 06:00 | JPY | Construction Orders (YoY) (May) |  |  | -32.3% |
+| 06:00 | JPY | Housing Starts (YoY) (May) |  | 32.1% | 11.4% |
+| 07:00 | GBP | Business Investment (YoY) (Q1) |  | -1.8% | 1.8% |
+| 07:00 | EUR | German Import Price Index (MoM) (May) |  | 0.6% | 1.2% |
+| 07:00 | EUR | German Import Price Index (YoY) (May) |  |  | 5.3% |
+| 07:00 | EUR | German Retail Sales (YoY) (May) |  | 0.0% | -0.3% |
+| 07:00 | ZAR | M3 Money Supply (YoY) (May) |  |  | 9.82% |
+| 07:00 | ZAR | Private Sector Credit (May) |  |  | 9.20% |
+| 07:45 | EUR | French CPI (YoY) (Jun) |  |  | 2.4% |
+| 07:45 | EUR | French HICP (YoY) (Jun) |  |  | 2.8% |
+| 07:45 | EUR | French PPI (MoM) (May) |  |  | -2.1% |
+| 07:45 | EUR | PPI (YoY) (May) |  |  | 2.10% |
+| 08:00 | CHF | Official Reserves Assets (May) |  |  | 848.5B |
+| 08:55 | EUR | German Unemployment (Jun) |  |  | 2.987M |
+| 08:55 | EUR | German Unemployment n.s.a. (Jun) |  |  | 2.950M |
+| 09:00 | EUR | Italian PPI (MoM) (May) |  |  | 0.3% |
+| 09:00 | EUR | Italian PPI (YoY) (May) |  |  | 6.8% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Jun) |  |  | -0.3% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jun) |  |  | 2.4% |
+| 09:00 | EUR | Bavaria CPI (YoY) (Jun) |  |  | 2.6% |
+| 09:00 | EUR | Bavaria CPI (MoM) (Jun) |  |  | -0.2% |
+| 09:00 | EUR | Brandenburg CPI (YoY) (Jun) |  |  | 2.8% |
+| 09:00 | EUR | Brandenburg CPI (MoM) (Jun) |  |  | -0.1% |
+| 09:00 | EUR | Hesse CPI (MoM) (Jun) |  |  | -0.2% |
+| 09:00 | EUR | Hesse CPI (YoY) (Jun) |  |  | 2.6% |
+| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Jun) |  |  | -0.2% |
+| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Jun) |  |  | 2.4% |
+| 09:00 | EUR | Saxony CPI (YoY) (Jun) |  |  | 2.8% |
+| 09:00 | EUR | Saxony CPI (MoM) (Jun) |  |  | -0.1% |
+| 09:00 | EUR | Spanish Current account (Apr) |  |  | 4.61B |
+| 09:00 | NOK | Central Bank Currency Purchase (Jul) |  |  | -100.0M |
+| 09:00 | ZAR | SARB Quarterly Bulletin |  |  |  |
+| 09:30 | HKD | M3 Money Supply (May) |  |  | 3.1% |
+| 10:00 | EUR | Italian CPI (MoM) (Jun) |  | 0.1% | 0.4% |
+| 10:00 | EUR | Italian CPI (YoY) (Jun) |  |  | 3.2% |
+| 10:00 | EUR | Italian HICP (MoM) (Jun) |  |  | 0.3% |
+| 10:00 | EUR | Italian HICP (YoY) (Jun) |  |  | 3.2% |
+| 11:00 | INR | Federal Fiscal Deficit (May) |  |  | 3,623.03B |
+| 11:40 | GBP | BoE Breeden Speaks |  |  |  |
+| 12:30 | INR | Trade Balance (USD) (Q3) |  |  | -87.400B |
+| 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
+| 12:30 | BRL | Net Debt-to-GDP ratio (May) |  |  | 67.4% |
+| 12:30 | BRL | Budget Balance (May) |  |  | -60.139B |
+| 12:30 | BRL | Budget Surplus (May) |  |  | 24.624B |
+| 13:00 | INR | Foreign Debt (USD) (Q1) |  |  | 765.5B |
+| 13:00 | EUR | German HICP (MoM) (Jun) |  |  | -0.1% |
+| 13:00 | EUR | German HICP (YoY) (Jun) |  | 2.7% | 2.7% |
+| 13:00 | BRL | Long Term Interest Rate TJLP (Q3) |  |  | 9.13% |
+| 13:00 | BRL | Brazilian PPI (MoM) (May) |  |  | 2.63% |
+| 13:00 | ZAR | Trade Balance (May) |  |  | 15.16B |
+| 13:55 | USD | Redbook (YoY) |  |  | 10.0% |
+| 14:00 | USD | House Price Index (MoM) (Apr) |  |  | 0.1% |
+| 14:00 | USD | House Price Index (YoY) (Apr) |  |  | 1.7% |
+| 14:00 | USD | House Price Index (Apr) |  |  | 441.5 |
+| 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Apr) |  |  | -0.2% |
+| 15:30 | USD | Dallas Fed Services Revenues (Jun) |  |  | 5.0 |
+| 15:30 | USD | Texas Services Sector Outlook (Jun) |  |  | -7.7 |
+| 16:00 | CAD | Budget Balance (Apr) |  |  | -29.73B |
+| 16:00 | CAD | Budget Balance (YoY) (Apr) |  |  | -55.28B |
+| 17:03 | ZAR | Budget Balance (MoM) (May) |  |  | -63.57B |
+| 18:30 | BRL | CAGED Net Payroll Jobs (May) |  |  | 85.89K |
+| 20:00 | MXN | Fiscal Balance (May) |  |  | -37.15B |
