@@ -44,4 +44,4 @@
 | 15:30 | USD | Low | Dallas Fed Mfg Business Index (Jun) | 0.0 |  | 0.4 |
 | 16:30 | USD | Low | 3-Month Bill Auction | 3.740% |  | 3.695% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 3.840% |  | 3.840% |
-| 23 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 18:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
