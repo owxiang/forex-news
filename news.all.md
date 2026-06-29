@@ -13,26 +13,26 @@
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Jun) | 0.6% |  | 0.1% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jun) | 3.6% |  | 3.6% |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (May) | 1.3% |  | 0.6% |
-| 1 min | EUR | Low | M3 Money Supply (YoY) (May) | 3.2% | 2.7% | 2.7% |
-| 1 min | EUR | Low | M3 Money Supply (May) |  |  | 17,433.9B |
-| 1 min | EUR | Low | Loans to Non Financial Corporations (May) | 4.0% |  | 3.4% |
-| 1 min | EUR | Low | Private Sector Loans (YoY) (May) |  | 2.9% | 3.0% |
-| 32 min | GBP | Low | BoE Consumer Credit (May) |  |  | 1.859B |
-| 32 min | GBP | Low | M3 Money Supply (May) |  |  | 3,272.0B |
-| 32 min | GBP | Low | M4 Money Supply (MoM) (May) |  | 0.2% | 0.2% |
-| 32 min | GBP | Low | Mortgage Approvals (May) |  | 63.00K | 65.94K |
-| 32 min | GBP | Low | Mortgage Lending (May) |  |  | 4.37B |
-| 32 min | GBP | Low | Net Lending to Individuals (May) |  | 6.000B | 6.200B |
-| 10:00 | EUR | Low | Business and Consumer Survey (Jun) |  | 94.3 | 93.5 |
-| 10:00 | EUR | Low | Business Climate (Jun) |  |  | -0.26 |
-| 10:00 | EUR | Low | Consumer Confidence (Jun) |  | -17.7 | -17.7 |
-| 10:00 | EUR | Low | Consumer Inflation Expectation (Jun) |  |  | 40.5 |
-| 10:00 | EUR | Low | Selling Price Expectations (Jun) |  |  | 27.4 |
-| 10:00 | EUR | Low | Services Sentiment (Jun) |  | 2.5 | 2.2 |
-| 10:00 | EUR | Low | Industrial Sentiment (Jun) |  | -7.8 | -8.0 |
-| 11:30 | INR | Low | Cumulative Industrial Production (Apr) |  |  | 4.10% |
-| 11:30 | INR | Low | Industrial Production (YoY) (May) |  |  | 4.9% |
-| 11:30 | INR | Low | Manufacturing Output (MoM) (May) |  |  | 6.2% |
+| 09:00 | EUR | Low | M3 Money Supply (YoY) (May) | 3.2% | 2.7% | 2.7% |
+| 09:00 | EUR | Low | M3 Money Supply (May) | 17,552.2B |  | 17,433.9B |
+| 09:00 | EUR | Low | Loans to Non Financial Corporations (May) | 4.0% |  | 3.4% |
+| 09:00 | EUR | Low | Private Sector Loans (YoY) (May) | 3.1% | 2.9% | 3.0% |
+| 09:30 | GBP | Low | BoE Consumer Credit (May) | 1.662B |  | 1.713B |
+| 09:30 | GBP | Low | M3 Money Supply (May) | 3,278.5B |  | 3,271.6B |
+| 09:30 | GBP | Low | M4 Money Supply (MoM) (May) | 0.1% | 0.2% | 0.2% |
+| 09:30 | GBP | Low | Mortgage Approvals (May) | 56.21K | 63.00K | 66.03K |
+| 09:30 | GBP | Low | Mortgage Lending (May) | 2.89B |  | 4.44B |
+| 09:30 | GBP | Low | Net Lending to Individuals (May) | 4.600B | 6.000B | 6.200B |
+| 10:00 | EUR | Low | Business and Consumer Survey (Jun) | 95.0 | 94.3 | 93.7 |
+| 10:00 | EUR | Low | Business Climate (Jun) | -0.38 |  | -0.27 |
+| 10:00 | EUR | Low | Consumer Confidence (Jun) | -17.7 | -17.7 | -17.7 |
+| 10:00 | EUR | Low | Consumer Inflation Expectation (Jun) | 34.0 |  | 40.4 |
+| 10:00 | EUR | Low | Selling Price Expectations (Jun) | 22.3 |  | 26.7 |
+| 10:00 | EUR | Low | Services Sentiment (Jun) | 3.2 | 2.5 | 2.6 |
+| 10:00 | EUR | Low | Industrial Sentiment (Jun) | -7.7 | -7.8 | -7.9 |
+| 43 min | INR | Low | Cumulative Industrial Production (Apr) |  |  | 4.10% |
+| 43 min | INR | Low | Industrial Production (YoY) (May) |  |  | 4.9% |
+| 43 min | INR | Low | Manufacturing Output (MoM) (May) |  |  | 6.2% |
 | 12:00 | BRL | Low | IGP-M Inflation Index (MoM) (Jun) |  |  | 0.84% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:30 | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
