@@ -34,11 +34,13 @@
 | 11:30 | INR | Low | Industrial Production (YoY) (May) | 5.1% | 4.7% | 4.9% |
 | 11:30 | INR | Low | Manufacturing Output (MoM) (May) | 5.5% |  | 6.1% |
 | 12:00 | BRL | Low | IGP-M Inflation Index (MoM) (Jun) | -0.50% | -0.45% | 0.84% |
+| 12:15 | EUR | Low | Spanish Business Confidence (Jun) | -2.4 |  | -3.7 |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:30 | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.640% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.388% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.481% |
+| 13:00 | INR | Low | Foreign Debt (USD) (Q1) | 762.8B |  | 765.5B |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.579% |  | 2.640% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.377% |  | 2.388% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.483% |  | 2.481% |
 | 15:30 | USD | Low | Dallas Fed Mfg Business Index (Jun) |  |  | 0.4 |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.695% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.840% |
