@@ -104,5 +104,5 @@
 | 15:30 | USD | Low | Dallas Fed Services Revenues (Jun) | 9.8 |  | 5.0 |
 | 15:30 | USD | Low | Texas Services Sector Outlook (Jun) | 2.9 |  | -7.7 |
 | 18:10 | BRL | Low | CAGED Net Payroll Jobs (May) | 72.96K | 115.00K | 85.89K |
-| 20:00 | MXN | Low | Fiscal Balance (May) |  |  | -37.15B |
+| 14 min | MXN | Low | Fiscal Balance (May) |  |  | -37.15B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -0.765M |
