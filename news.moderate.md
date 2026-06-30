@@ -13,10 +13,10 @@
 | 07:45 | EUR | French CPI (MoM) (Jun) | -0.2% | 0.0% | 0.1% |
 | 07:45 | EUR | French HICP (MoM) (Jun) | -0.3% | 0.0% | 0.1% |
 | 08:00 | CHF | KOF Leading Indicators (Jun) | 101.2 | 99.0 | 98.6 |
-| 26 min | EUR | German Unemployment Change (Jun) |  | 7K | -12K |
-| 26 min | EUR | German Unemployment Rate (Jun) |  | 6.3% | 6.3% |
+| 08:55 | EUR | German Unemployment Change (Jun) | -1K | 7K | -12K |
+| 08:55 | EUR | German Unemployment Rate (Jun) | 6.3% | 6.3% | 6.3% |
 | 09:40 | EUR | ECB's Elderson Speaks |  |  |  |
-| 10:40 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 24 min | EUR | ECB's Schnabel Speaks |  |  |  |
 | 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (May) |  |  | 80.4% |
 | 12:30 | EUR | ECB's Lane Speaks |  |  |  |
 | 13:00 | EUR | German CPI (YoY) (Jun) |  | 2.6% | 2.6% |

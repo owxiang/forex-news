@@ -44,35 +44,35 @@
 | 07:45 | EUR | Low | PPI (YoY) (May) | 3.00% |  | 2.30% |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Jun) | 101.2 | 99.0 | 98.6 |
 | 08:00 | CHF | Low | Official Reserves Assets (May) | 841.2B |  | 848.5B |
-| 26 min | EUR | Moderate | German Unemployment Change (Jun) |  | 7K | -12K |
-| 26 min | EUR | Moderate | German Unemployment Rate (Jun) |  | 6.3% | 6.3% |
-| 26 min | EUR | Low | German Unemployment (Jun) |  |  | 2.987M |
-| 26 min | EUR | Low | German Unemployment n.s.a. (Jun) |  |  | 2.950M |
-| 31 min | EUR | Low | Italian PPI (MoM) (May) |  |  | 0.3% |
-| 31 min | EUR | Low | Italian PPI (YoY) (May) |  |  | 6.8% |
-| 31 min | EUR | Low | Baden Wuerttemberg CPI (MoM) (Jun) |  |  | -0.3% |
-| 31 min | EUR | Low | Baden Wuerttemberg CPI (YoY) (Jun) |  |  | 2.4% |
-| 31 min | EUR | Low | Bavaria CPI (YoY) (Jun) |  |  | 2.6% |
-| 31 min | EUR | Low | Bavaria CPI (MoM) (Jun) |  |  | -0.2% |
-| 31 min | EUR | Low | Brandenburg CPI (YoY) (Jun) |  |  | 2.8% |
-| 31 min | EUR | Low | Brandenburg CPI (MoM) (Jun) |  |  | -0.1% |
-| 31 min | EUR | Low | Hesse CPI (MoM) (Jun) |  |  | -0.2% |
-| 31 min | EUR | Low | Hesse CPI (YoY) (Jun) |  |  | 2.6% |
-| 31 min | EUR | Low | North Rhine Westphalia CPI (MoM) (Jun) |  |  | -0.2% |
-| 31 min | EUR | Low | North Rhine Westphalia CPI (YoY) (Jun) |  |  | 2.4% |
-| 31 min | EUR | Low | Saxony CPI (YoY) (Jun) |  |  | 2.8% |
-| 31 min | EUR | Low | Saxony CPI (MoM) (Jun) |  |  | -0.1% |
-| 31 min | EUR | Low | Spanish Current account (Apr) |  |  | 4.61B |
-| 31 min | NOK | Low | Central Bank Currency Purchase (Jul) |  |  | -100.0M |
-| 31 min | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
-| 09:30 | HKD | Low | M3 Money Supply (May) |  |  | 3.1% |
+| 08:55 | EUR | Moderate | German Unemployment Change (Jun) | -1K | 7K | -12K |
+| 08:55 | EUR | Moderate | German Unemployment Rate (Jun) | 6.3% | 6.3% | 6.3% |
+| 08:55 | EUR | Low | German Unemployment (Jun) | 2.984M |  | 2.987M |
+| 08:55 | EUR | Low | German Unemployment n.s.a. (Jun) | 2.936M |  | 2.950M |
+| 09:00 | EUR | Low | Italian PPI (MoM) (May) | -0.2% |  | 0.3% |
+| 09:00 | EUR | Low | Italian PPI (YoY) (May) | 7.3% |  | 6.8% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Jun) | -0.2% |  | -0.3% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Jun) | 2.1% |  | 2.4% |
+| 09:00 | EUR | Low | Bavaria CPI (YoY) (Jun) | 2.5% |  | 2.6% |
+| 09:00 | EUR | Low | Bavaria CPI (MoM) (Jun) | -0.2% |  | -0.2% |
+| 09:00 | EUR | Low | Brandenburg CPI (YoY) (Jun) | 2.4% |  | 2.8% |
+| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Jun) | -0.2% |  | -0.1% |
+| 09:00 | EUR | Low | Hesse CPI (MoM) (Jun) | -0.2% |  | -0.2% |
+| 09:00 | EUR | Low | Hesse CPI (YoY) (Jun) | 2.3% |  | 2.6% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Jun) | -0.4% |  | -0.2% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Jun) | 2.1% |  | 2.4% |
+| 09:00 | EUR | Low | Saxony CPI (YoY) (Jun) | 2.3% |  | 2.8% |
+| 09:00 | EUR | Low | Saxony CPI (MoM) (Jun) | -0.3% |  | -0.1% |
+| 09:00 | EUR | Low | Spanish Current account (Apr) | 1.88B |  | 4.61B |
+| 09:00 | NOK | Low | Central Bank Currency Purchase (Jul) | -400.0M |  | -100.0M |
+| 09:00 | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
+| 09:30 | HKD | Low | M3 Money Supply (May) | 1.0% |  | 3.1% |
 | 09:40 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 10:00 | EUR | Low | Italian CPI (MoM) (Jun) |  | 0.2% | 0.4% |
-| 10:00 | EUR | Low | Italian CPI (YoY) (Jun) |  | 3.1% | 3.2% |
-| 10:00 | EUR | Low | Italian HICP (MoM) (Jun) |  |  | 0.3% |
-| 10:00 | EUR | Low | Italian HICP (YoY) (Jun) |  | 3.1% | 3.2% |
-| 10:40 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 11:00 | INR | Low | Federal Fiscal Deficit (May) |  |  | 3,623.03B |
+| 10:00 | EUR | Low | Italian CPI (MoM) (Jun) | 0.0% | 0.2% | 0.4% |
+| 10:00 | EUR | Low | Italian CPI (YoY) (Jun) | 3.0% | 3.1% | 3.2% |
+| 10:00 | EUR | Low | Italian HICP (MoM) (Jun) | 0.1% |  | 0.3% |
+| 10:00 | EUR | Low | Italian HICP (YoY) (Jun) | 3.1% | 3.1% | 3.2% |
+| 24 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 44 min | INR | Low | Federal Fiscal Deficit (May) |  |  | 3,623.03B |
 | 11:40 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 12:30 | INR | Low | Trade Balance (USD) (Q3) |  |  | -87.400B |
 | 12:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
@@ -107,6 +107,6 @@
 | 16:00 | CAD | Low | Budget Balance (Apr) |  |  | -29.73B |
 | 16:00 | CAD | Low | Budget Balance (YoY) (Apr) |  |  | -55.28B |
 | 17:03 | ZAR | Low | Budget Balance (MoM) (May) |  |  | -63.57B |
-| 18:30 | BRL | Low | CAGED Net Payroll Jobs (May) |  |  | 85.89K |
+| 18:30 | BRL | Low | CAGED Net Payroll Jobs (May) |  | 115.00K | 85.89K |
 | 20:00 | MXN | Low | Fiscal Balance (May) |  |  | -37.15B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -0.765M |
