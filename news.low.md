@@ -7,14 +7,14 @@
 | 00:00 | KRW | Retail Sales (MoM) (May) | 0.1% |  | -3.5% |
 | 00:00 | KRW | Service Sector Output (MoM) (May) | 1.3% |  | -0.9% |
 | 00:01 | GBP | BRC Shop Price Index (YoY) | 1.2% | 1.2% | 1.2% |
-| 3 min | JPY | Jobs/applications ratio (May) |  | 1.18 | 1.18 |
-| 3 min | JPY | Unemployment Rate (May) |  | 2.5% | 2.5% |
-| 23 min | JPY | Industrial Production forecast 1m ahead (MoM) (Jun) |  |  | 5.1% |
-| 23 min | JPY | Industrial Production forecast 2m ahead (MoM) (Jul) |  |  | -0.4% |
-| 02:00 | NZD | ANZ Business Confidence (Jun) |  |  | 10.0 |
-| 02:00 | NZD | NBNZ Own Activity (Jun) |  |  | 25.6% |
-| 02:30 | AUD | Housing Credit (May) |  |  | 0.6% |
-| 02:30 | AUD | Private Sector Credit (MoM) (May) |  | 0.6% | 0.7% |
+| 00:30 | JPY | Jobs/applications ratio (May) | 1.17 | 1.18 | 1.18 |
+| 00:30 | JPY | Unemployment Rate (May) | 2.5% | 2.5% | 2.5% |
+| 00:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Jun) | 3.7% |  | 5.1% |
+| 00:50 | JPY | Industrial Production forecast 2m ahead (MoM) (Jul) | 0.0% |  | -0.4% |
+| 02:00 | NZD | ANZ Business Confidence (Jun) | 36.6 |  | 10.0 |
+| 02:00 | NZD | NBNZ Own Activity (Jun) | 36.9% |  | 25.6% |
+| 25 min | AUD | Housing Credit (May) |  |  | 0.6% |
+| 25 min | AUD | Private Sector Credit (MoM) (May) |  | 0.6% | 0.7% |
 | 04:00 | NZD | M3 Money Supply (May) |  |  | 454,442.0B |
 | 04:35 | JPY | 2-Year JGB Auction |  |  | 1.369% |
 | 06:00 | JPY | Construction Orders (YoY) (May) |  |  | -32.3% |
