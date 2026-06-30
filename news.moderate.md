@@ -25,4 +25,4 @@
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Apr) | 1.1% | 0.9% | 0.9% |
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Apr) | 1.0% |  | 1.1% |
 | 14:30 | EUR | ECB's Lane Speaks |  |  |  |
-| 51 min | USD | API Weekly Crude Oil Stock |  |  | -0.765M |
+| 21:30 | USD | API Weekly Crude Oil Stock | 6.072M |  | -0.765M |
