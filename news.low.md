@@ -57,21 +57,19 @@
 | 11:00 | INR | Federal Fiscal Deficit (May) | 1,623.54B |  | 3,623.03B |
 | 11:25 | ZAR | Budget Balance (MoM) (May) | -14.62B |  | -63.57B |
 | 11:40 | GBP | BoE Breeden Speaks |  |  |  |
-| 22 min | INR | Trade Balance (USD) (Q3) |  |  | -87.400B |
-| 22 min | INR | RBI Monetary and Credit Information Review |  |  |  |
-| 22 min | BRL | Net Debt-to-GDP ratio (May) |  |  | 67.4% |
-| 22 min | BRL | Budget Balance (May) |  | -148.300B | -60.139B |
-| 22 min | BRL | Budget Surplus (May) |  |  | 24.624B |
-| 52 min | EUR | German HICP (MoM) (Jun) |  | 0.1% | -0.1% |
-| 52 min | EUR | German HICP (YoY) (Jun) |  | 2.6% | 2.7% |
-| 52 min | BRL | Long Term Interest Rate TJLP (Q3) |  |  | 9.13% |
-| 52 min | BRL | Brazilian PPI (MoM) (May) |  |  | 2.63% |
-| 52 min | ZAR | Trade Balance (May) |  |  | 15.16B |
-| 13:55 | USD | Redbook (YoY) |  |  | 10.0% |
-| 14:00 | USD | House Price Index (MoM) (Apr) |  | 0.2% | 0.1% |
-| 14:00 | USD | House Price Index (YoY) (Apr) |  |  | 1.7% |
-| 14:00 | USD | House Price Index (Apr) |  |  | 441.5 |
-| 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Apr) |  |  | -0.2% |
+| 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
+| 12:30 | BRL | Net Debt-to-GDP ratio (May) | 67.9% |  | 67.4% |
+| 12:30 | BRL | Budget Balance (May) | -163.679B | -148.300B | -60.139B |
+| 12:30 | BRL | Budget Surplus (May) | -56.131B |  | 24.624B |
+| 13:00 | EUR | German HICP (MoM) (Jun) | -0.2% | 0.1% | -0.1% |
+| 13:00 | EUR | German HICP (YoY) (Jun) | 2.4% | 2.6% | 2.7% |
+| 13:00 | BRL | Brazilian PPI (MoM) (May) | -0.30% |  | 2.62% |
+| 13:00 | ZAR | Trade Balance (May) | -1.79B |  | 14.43B |
+| 4 min | USD | Redbook (YoY) |  |  | 10.0% |
+| 9 min | USD | House Price Index (MoM) (Apr) |  | 0.2% | 0.1% |
+| 9 min | USD | House Price Index (YoY) (Apr) |  |  | 1.7% |
+| 9 min | USD | House Price Index (Apr) |  |  | 441.5 |
+| 9 min | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Apr) |  |  | -0.2% |
 | 15:30 | USD | Dallas Fed Services Revenues (Jun) |  |  | 5.0 |
 | 15:30 | USD | Texas Services Sector Outlook (Jun) |  |  | -7.7 |
 | 16:00 | CAD | Budget Balance (Apr) |  |  | -29.73B |
