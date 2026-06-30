@@ -85,23 +85,24 @@
 | 13:00 | EUR | Moderate | German CPI (YoY) (Jun) | 2.3% | 2.6% | 2.6% |
 | 13:00 | EUR | Low | German HICP (MoM) (Jun) | -0.2% | 0.1% | -0.1% |
 | 13:00 | EUR | Low | German HICP (YoY) (Jun) | 2.4% | 2.6% | 2.7% |
+| 13:00 | BRL | Low | Long Term Interest Rate TJLP (Q3) | 9.14% |  | 9.13% |
 | 13:00 | BRL | Low | Brazilian PPI (MoM) (May) | -0.30% |  | 2.62% |
 | 13:00 | ZAR | Low | Trade Balance (May) | -1.79B |  | 14.43B |
 | 13:30 | CAD | Moderate | GDP (MoM) (Apr) | 0.5% | 0.4% | -0.1% |
 | 13:31 | CAD | Moderate | GDP (MoM) (May) | 0.1% |  | 0.5% |
-| 4 min | USD | Low | Redbook (YoY) |  |  | 10.0% |
-| 9 min | USD | Low | House Price Index (MoM) (Apr) |  | 0.2% | 0.1% |
-| 9 min | USD | Low | House Price Index (YoY) (Apr) |  |  | 1.7% |
-| 9 min | USD | Low | House Price Index (Apr) |  |  | 441.5 |
-| 9 min | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Apr) |  |  | -0.2% |
-| 9 min | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Apr) |  | 0.9% | 0.8% |
-| 9 min | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Apr) |  |  | 1.0% |
-| 39 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 54 min | USD | High | Chicago PMI (Jun) |  | 55.7 | 62.7 |
-| 15:00 | USD | High | CB Consumer Confidence (Jun) |  | 94.4 | 93.1 |
-| 15:00 | USD | High | JOLTS Job Openings (May) |  | 7.280M | 7.618M |
-| 15:30 | USD | Low | Dallas Fed Services Revenues (Jun) |  |  | 5.0 |
-| 15:30 | USD | Low | Texas Services Sector Outlook (Jun) |  |  | -7.7 |
+| 13:55 | USD | Low | Redbook (YoY) | 10.5% |  | 10.0% |
+| 14:00 | USD | Low | House Price Index (MoM) (Apr) | -0.1% | 0.2% | 0.2% |
+| 14:00 | USD | Low | House Price Index (YoY) (Apr) | 2.0% |  | 1.8% |
+| 14:00 | USD | Low | House Price Index (Apr) | 441.4 |  | 441.8 |
+| 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Apr) | 0.0% |  | -0.2% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Apr) | 1.1% | 0.9% | 0.9% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Apr) | 1.0% |  | 1.1% |
+| 14:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 3 min | USD | High | Chicago PMI (Jun) |  | 55.7 | 62.7 |
+| 18 min | USD | High | CB Consumer Confidence (Jun) |  | 94.4 | 93.1 |
+| 18 min | USD | High | JOLTS Job Openings (May) |  | 7.280M | 7.618M |
+| 48 min | USD | Low | Dallas Fed Services Revenues (Jun) |  |  | 5.0 |
+| 48 min | USD | Low | Texas Services Sector Outlook (Jun) |  |  | -7.7 |
 | 16:00 | CAD | Low | Budget Balance (Apr) |  |  | -29.73B |
 | 16:00 | CAD | Low | Budget Balance (YoY) (Apr) |  |  | -55.28B |
 | 18:30 | BRL | Low | CAGED Net Payroll Jobs (May) |  | 115.00K | 85.89K |

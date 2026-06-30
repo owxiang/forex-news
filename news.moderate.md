@@ -22,7 +22,7 @@
 | 13:00 | EUR | German CPI (YoY) (Jun) | 2.3% | 2.6% | 2.6% |
 | 13:30 | CAD | GDP (MoM) (Apr) | 0.5% | 0.4% | -0.1% |
 | 13:31 | CAD | GDP (MoM) (May) | 0.1% |  | 0.5% |
-| 9 min | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Apr) |  | 0.9% | 0.8% |
-| 9 min | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Apr) |  |  | 1.0% |
-| 39 min | EUR | ECB's Lane Speaks |  |  |  |
+| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Apr) | 1.1% | 0.9% | 0.9% |
+| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Apr) | 1.0% |  | 1.1% |
+| 14:30 | EUR | ECB's Lane Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | -0.765M |
