@@ -103,8 +103,8 @@
 | 15:00 | USD | High | JOLTS Job Openings (May) | 7.594M | 7.280M | 7.585M |
 | 15:30 | USD | Low | Dallas Fed Services Revenues (Jun) | 9.8 |  | 5.0 |
 | 15:30 | USD | Low | Texas Services Sector Outlook (Jun) | 2.9 |  | -7.7 |
-| 1 min | CAD | Low | Budget Balance (Apr) |  |  | -29.73B |
-| 1 min | CAD | Low | Budget Balance (YoY) (Apr) |  |  | -55.28B |
+| 3 min | CAD | Low | Budget Balance (Apr) |  |  | -29.73B |
+| 3 min | CAD | Low | Budget Balance (YoY) (Apr) |  |  | -55.28B |
 | 18:30 | BRL | Low | CAGED Net Payroll Jobs (May) |  | 115.00K | 85.89K |
 | 20:00 | MXN | Low | Fiscal Balance (May) |  |  | -37.15B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -0.765M |
