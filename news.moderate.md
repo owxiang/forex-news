@@ -16,10 +16,10 @@
 | 08:55 | EUR | German Unemployment Change (Jun) | -1K | 7K | -12K |
 | 08:55 | EUR | German Unemployment Rate (Jun) | 6.3% | 6.3% | 6.3% |
 | 09:40 | EUR | ECB's Elderson Speaks |  |  |  |
-| 24 min | EUR | ECB's Schnabel Speaks |  |  |  |
-| 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (May) |  |  | 80.4% |
-| 12:30 | EUR | ECB's Lane Speaks |  |  |  |
-| 13:00 | EUR | German CPI (YoY) (Jun) |  | 2.6% | 2.6% |
+| 10:40 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 22 min | BRL | Gross Debt-to-GDP ratio (MoM) (May) |  |  | 80.4% |
+| 22 min | EUR | ECB's Lane Speaks |  |  |  |
+| 52 min | EUR | German CPI (YoY) (Jun) |  | 2.6% | 2.6% |
 | 13:30 | CAD | GDP (MoM) (Apr) |  | 0.4% | -0.1% |
 | 13:31 | CAD | GDP (MoM) (May) |  |  |  |
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Apr) |  | 0.9% | 0.8% |

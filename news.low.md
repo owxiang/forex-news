@@ -54,19 +54,19 @@
 | 10:00 | EUR | Italian CPI (YoY) (Jun) | 3.0% | 3.1% | 3.2% |
 | 10:00 | EUR | Italian HICP (MoM) (Jun) | 0.1% |  | 0.3% |
 | 10:00 | EUR | Italian HICP (YoY) (Jun) | 3.1% | 3.1% | 3.2% |
-| 44 min | INR | Federal Fiscal Deficit (May) |  |  | 3,623.03B |
+| 11:00 | INR | Federal Fiscal Deficit (May) | 1,623.54B |  | 3,623.03B |
+| 11:25 | ZAR | Budget Balance (MoM) (May) | -14.62B |  | -63.57B |
 | 11:40 | GBP | BoE Breeden Speaks |  |  |  |
-| 12:30 | INR | Trade Balance (USD) (Q3) |  |  | -87.400B |
-| 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
-| 12:30 | BRL | Net Debt-to-GDP ratio (May) |  |  | 67.4% |
-| 12:30 | BRL | Budget Balance (May) |  | -148.300B | -60.139B |
-| 12:30 | BRL | Budget Surplus (May) |  |  | 24.624B |
-| 13:00 | INR | Foreign Debt (USD) (Q1) |  |  | 765.5B |
-| 13:00 | EUR | German HICP (MoM) (Jun) |  | 0.1% | -0.1% |
-| 13:00 | EUR | German HICP (YoY) (Jun) |  | 2.6% | 2.7% |
-| 13:00 | BRL | Long Term Interest Rate TJLP (Q3) |  |  | 9.13% |
-| 13:00 | BRL | Brazilian PPI (MoM) (May) |  |  | 2.63% |
-| 13:00 | ZAR | Trade Balance (May) |  |  | 15.16B |
+| 22 min | INR | Trade Balance (USD) (Q3) |  |  | -87.400B |
+| 22 min | INR | RBI Monetary and Credit Information Review |  |  |  |
+| 22 min | BRL | Net Debt-to-GDP ratio (May) |  |  | 67.4% |
+| 22 min | BRL | Budget Balance (May) |  | -148.300B | -60.139B |
+| 22 min | BRL | Budget Surplus (May) |  |  | 24.624B |
+| 52 min | EUR | German HICP (MoM) (Jun) |  | 0.1% | -0.1% |
+| 52 min | EUR | German HICP (YoY) (Jun) |  | 2.6% | 2.7% |
+| 52 min | BRL | Long Term Interest Rate TJLP (Q3) |  |  | 9.13% |
+| 52 min | BRL | Brazilian PPI (MoM) (May) |  |  | 2.63% |
+| 52 min | ZAR | Trade Balance (May) |  |  | 15.16B |
 | 13:55 | USD | Redbook (YoY) |  |  | 10.0% |
 | 14:00 | USD | House Price Index (MoM) (Apr) |  | 0.2% | 0.1% |
 | 14:00 | USD | House Price Index (YoY) (Apr) |  |  | 1.7% |
@@ -76,6 +76,5 @@
 | 15:30 | USD | Texas Services Sector Outlook (Jun) |  |  | -7.7 |
 | 16:00 | CAD | Budget Balance (Apr) |  |  | -29.73B |
 | 16:00 | CAD | Budget Balance (YoY) (Apr) |  |  | -55.28B |
-| 17:03 | ZAR | Budget Balance (MoM) (May) |  |  | -63.57B |
 | 18:30 | BRL | CAGED Net Payroll Jobs (May) |  | 115.00K | 85.89K |
 | 20:00 | MXN | Fiscal Balance (May) |  |  | -37.15B |

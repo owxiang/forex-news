@@ -71,24 +71,24 @@
 | 10:00 | EUR | Low | Italian CPI (YoY) (Jun) | 3.0% | 3.1% | 3.2% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Jun) | 0.1% |  | 0.3% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Jun) | 3.1% | 3.1% | 3.2% |
-| 24 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 44 min | INR | Low | Federal Fiscal Deficit (May) |  |  | 3,623.03B |
+| 10:40 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 11:00 | INR | Low | Federal Fiscal Deficit (May) | 1,623.54B |  | 3,623.03B |
+| 11:25 | ZAR | Low | Budget Balance (MoM) (May) | -14.62B |  | -63.57B |
 | 11:40 | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 12:30 | INR | Low | Trade Balance (USD) (Q3) |  |  | -87.400B |
-| 12:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
-| 12:30 | BRL | Low | Net Debt-to-GDP ratio (May) |  |  | 67.4% |
-| 12:30 | BRL | Low | Budget Balance (May) |  | -148.300B | -60.139B |
-| 12:30 | BRL | Low | Budget Surplus (May) |  |  | 24.624B |
-| 12:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (May) |  |  | 80.4% |
-| 12:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 13:00 | INR | Low | Foreign Debt (USD) (Q1) |  |  | 765.5B |
-| 13:00 | EUR | High | German CPI (MoM) (Jun) |  | 0.0% | -0.2% |
-| 13:00 | EUR | Moderate | German CPI (YoY) (Jun) |  | 2.6% | 2.6% |
-| 13:00 | EUR | Low | German HICP (MoM) (Jun) |  | 0.1% | -0.1% |
-| 13:00 | EUR | Low | German HICP (YoY) (Jun) |  | 2.6% | 2.7% |
-| 13:00 | BRL | Low | Long Term Interest Rate TJLP (Q3) |  |  | 9.13% |
-| 13:00 | BRL | Low | Brazilian PPI (MoM) (May) |  |  | 2.63% |
-| 13:00 | ZAR | Low | Trade Balance (May) |  |  | 15.16B |
+| 22 min | INR | Low | Trade Balance (USD) (Q3) |  |  | -87.400B |
+| 22 min | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
+| 22 min | BRL | Low | Net Debt-to-GDP ratio (May) |  |  | 67.4% |
+| 22 min | BRL | Low | Budget Balance (May) |  | -148.300B | -60.139B |
+| 22 min | BRL | Low | Budget Surplus (May) |  |  | 24.624B |
+| 22 min | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (May) |  |  | 80.4% |
+| 22 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 52 min | EUR | High | German CPI (MoM) (Jun) |  | 0.0% | -0.2% |
+| 52 min | EUR | Moderate | German CPI (YoY) (Jun) |  | 2.6% | 2.6% |
+| 52 min | EUR | Low | German HICP (MoM) (Jun) |  | 0.1% | -0.1% |
+| 52 min | EUR | Low | German HICP (YoY) (Jun) |  | 2.6% | 2.7% |
+| 52 min | BRL | Low | Long Term Interest Rate TJLP (Q3) |  |  | 9.13% |
+| 52 min | BRL | Low | Brazilian PPI (MoM) (May) |  |  | 2.63% |
+| 52 min | ZAR | Low | Trade Balance (May) |  |  | 15.16B |
 | 13:30 | CAD | Moderate | GDP (MoM) (Apr) |  | 0.4% | -0.1% |
 | 13:31 | CAD | Moderate | GDP (MoM) (May) |  |  |  |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 10.0% |
@@ -106,7 +106,6 @@
 | 15:30 | USD | Low | Texas Services Sector Outlook (Jun) |  |  | -7.7 |
 | 16:00 | CAD | Low | Budget Balance (Apr) |  |  | -29.73B |
 | 16:00 | CAD | Low | Budget Balance (YoY) (Apr) |  |  | -55.28B |
-| 17:03 | ZAR | Low | Budget Balance (MoM) (May) |  |  | -63.57B |
 | 18:30 | BRL | Low | CAGED Net Payroll Jobs (May) |  | 115.00K | 85.89K |
 | 20:00 | MXN | Low | Fiscal Balance (May) |  |  | -37.15B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -0.765M |
