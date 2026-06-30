@@ -21,31 +21,31 @@
 | 02:30 | CNY | High | Manufacturing PMI (Jun) | 50.3 | 50.1 | 50.0 |
 | 02:30 | CNY | Moderate | Non-Manufacturing PMI (Jun) | 50.2 | 49.9 | 50.1 |
 | 04:00 | NZD | Low | M3 Money Supply (May) | 451.0B |  | 454.4B |
-| 18 min | JPY | Low | 2-Year JGB Auction |  |  | 1.369% |
-| 06:00 | JPY | Low | Construction Orders (YoY) (May) |  |  | -32.3% |
-| 06:00 | JPY | Low | Housing Starts (YoY) (May) |  | 32.1% | 11.4% |
-| 07:00 | GBP | Moderate | Business Investment (QoQ) (Q1) |  | 0.7% | -2.9% |
-| 07:00 | GBP | Low | Business Investment (YoY) (Q1) |  | -1.8% | 1.8% |
-| 07:00 | GBP | Moderate | Current Account (Q1) |  | -21.5B | -18.4B |
-| 07:00 | GBP | High | GDP (QoQ) (Q1) |  | 0.6% | 0.2% |
-| 07:00 | GBP | High | GDP (YoY) (Q1) |  | 1.1% | 1.0% |
-| 07:00 | EUR | Low | German Import Price Index (MoM) (May) |  | 0.6% | 1.2% |
-| 07:00 | EUR | Low | German Import Price Index (YoY) (May) |  |  | 5.3% |
-| 07:00 | EUR | Moderate | German Retail Sales (MoM) (May) |  | 0.0% | -0.3% |
-| 07:00 | EUR | Low | German Retail Sales (YoY) (May) |  | 0.0% | -0.3% |
-| 07:00 | ZAR | Low | M3 Money Supply (YoY) (May) |  |  | 9.82% |
-| 07:00 | ZAR | Low | Private Sector Credit (May) |  |  | 9.20% |
+| 04:35 | JPY | Low | 2-Year JGB Auction | 1.407% |  | 1.369% |
+| 06:00 | JPY | Low | Construction Orders (YoY) (May) | -6.7% |  | -32.3% |
+| 06:00 | JPY | Low | Housing Starts (YoY) (May) | 33.9% | 31.8% | 11.4% |
+| 30 min | GBP | Moderate | Business Investment (QoQ) (Q1) |  | 0.7% | -2.9% |
+| 30 min | GBP | Low | Business Investment (YoY) (Q1) |  | -1.8% | 1.8% |
+| 30 min | GBP | Moderate | Current Account (Q1) |  | -22.2B | -18.4B |
+| 30 min | GBP | High | GDP (QoQ) (Q1) |  | 0.6% | 0.2% |
+| 30 min | GBP | High | GDP (YoY) (Q1) |  | 1.1% | 1.0% |
+| 30 min | EUR | Low | German Import Price Index (MoM) (May) |  | 0.4% | 1.2% |
+| 30 min | EUR | Low | German Import Price Index (YoY) (May) |  |  | 5.3% |
+| 30 min | EUR | Moderate | German Retail Sales (MoM) (May) |  | 0.0% | -0.3% |
+| 30 min | EUR | Low | German Retail Sales (YoY) (May) |  | 0.0% | -0.3% |
+| 30 min | ZAR | Low | M3 Money Supply (YoY) (May) |  |  | 9.82% |
+| 30 min | ZAR | Low | Private Sector Credit (May) |  |  | 9.20% |
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (May) |  | 0.2% | -0.5% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Jun) |  | 0.0% | 0.1% |
-| 07:45 | EUR | Low | French CPI (YoY) (Jun) |  |  | 2.4% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Jun) |  |  | 0.1% |
-| 07:45 | EUR | Low | French HICP (YoY) (Jun) |  |  | 2.8% |
+| 07:45 | EUR | Low | French CPI (YoY) (Jun) |  | 2.1% | 2.4% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Jun) |  | 0.0% | 0.1% |
+| 07:45 | EUR | Low | French HICP (YoY) (Jun) |  | 2.4% | 2.8% |
 | 07:45 | EUR | Low | French PPI (MoM) (May) |  |  | -2.1% |
 | 07:45 | EUR | Low | PPI (YoY) (May) |  |  | 2.10% |
-| 08:00 | CHF | Moderate | KOF Leading Indicators (Jun) |  | 99.4 | 98.0 |
+| 08:00 | CHF | Moderate | KOF Leading Indicators (Jun) |  | 99.0 | 98.0 |
 | 08:00 | CHF | Low | Official Reserves Assets (May) |  |  | 848.5B |
-| 08:55 | EUR | Moderate | German Unemployment Change (Jun) |  | 8K | -12K |
-| 08:55 | EUR | Moderate | German Unemployment Rate (Jun) |  | 6.4% | 6.3% |
+| 08:55 | EUR | Moderate | German Unemployment Change (Jun) |  | 7K | -12K |
+| 08:55 | EUR | Moderate | German Unemployment Rate (Jun) |  | 6.3% | 6.3% |
 | 08:55 | EUR | Low | German Unemployment (Jun) |  |  | 2.987M |
 | 08:55 | EUR | Low | German Unemployment n.s.a. (Jun) |  |  | 2.950M |
 | 09:00 | EUR | Low | Italian PPI (MoM) (May) |  |  | 0.3% |
@@ -67,40 +67,40 @@
 | 09:00 | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
 | 09:30 | HKD | Low | M3 Money Supply (May) |  |  | 3.1% |
 | 09:40 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 10:00 | EUR | Low | Italian CPI (MoM) (Jun) |  | 0.1% | 0.4% |
-| 10:00 | EUR | Low | Italian CPI (YoY) (Jun) |  |  | 3.2% |
+| 10:00 | EUR | Low | Italian CPI (MoM) (Jun) |  | 0.2% | 0.4% |
+| 10:00 | EUR | Low | Italian CPI (YoY) (Jun) |  | 3.1% | 3.2% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Jun) |  |  | 0.3% |
-| 10:00 | EUR | Low | Italian HICP (YoY) (Jun) |  |  | 3.2% |
+| 10:00 | EUR | Low | Italian HICP (YoY) (Jun) |  | 3.1% | 3.2% |
 | 10:40 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 11:00 | INR | Low | Federal Fiscal Deficit (May) |  |  | 3,623.03B |
 | 11:40 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 12:30 | INR | Low | Trade Balance (USD) (Q3) |  |  | -87.400B |
 | 12:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
 | 12:30 | BRL | Low | Net Debt-to-GDP ratio (May) |  |  | 67.4% |
-| 12:30 | BRL | Low | Budget Balance (May) |  |  | -60.139B |
+| 12:30 | BRL | Low | Budget Balance (May) |  | -148.300B | -60.139B |
 | 12:30 | BRL | Low | Budget Surplus (May) |  |  | 24.624B |
 | 12:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (May) |  |  | 80.4% |
 | 12:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 13:00 | INR | Low | Foreign Debt (USD) (Q1) |  |  | 765.5B |
-| 13:00 | EUR | High | German CPI (MoM) (Jun) |  | 0.1% | -0.2% |
-| 13:00 | EUR | Moderate | German CPI (YoY) (Jun) |  | 2.5% | 2.6% |
-| 13:00 | EUR | Low | German HICP (MoM) (Jun) |  |  | -0.1% |
-| 13:00 | EUR | Low | German HICP (YoY) (Jun) |  | 2.7% | 2.7% |
+| 13:00 | EUR | High | German CPI (MoM) (Jun) |  | 0.0% | -0.2% |
+| 13:00 | EUR | Moderate | German CPI (YoY) (Jun) |  | 2.6% | 2.6% |
+| 13:00 | EUR | Low | German HICP (MoM) (Jun) |  | 0.1% | -0.1% |
+| 13:00 | EUR | Low | German HICP (YoY) (Jun) |  | 2.6% | 2.7% |
 | 13:00 | BRL | Low | Long Term Interest Rate TJLP (Q3) |  |  | 9.13% |
 | 13:00 | BRL | Low | Brazilian PPI (MoM) (May) |  |  | 2.63% |
 | 13:00 | ZAR | Low | Trade Balance (May) |  |  | 15.16B |
 | 13:30 | CAD | Moderate | GDP (MoM) (Apr) |  | 0.4% | -0.1% |
 | 13:31 | CAD | Moderate | GDP (MoM) (May) |  |  |  |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 10.0% |
-| 14:00 | USD | Low | House Price Index (MoM) (Apr) |  |  | 0.1% |
+| 14:00 | USD | Low | House Price Index (MoM) (Apr) |  | 0.2% | 0.1% |
 | 14:00 | USD | Low | House Price Index (YoY) (Apr) |  |  | 1.7% |
 | 14:00 | USD | Low | House Price Index (Apr) |  |  | 441.5 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Apr) |  |  | -0.2% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Apr) |  |  | 0.8% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Apr) |  | 0.9% | 0.8% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Apr) |  |  | 1.0% |
-| 14:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
-| 14:45 | USD | High | Chicago PMI (Jun) |  | 60.0 | 62.7 |
-| 15:00 | USD | High | CB Consumer Confidence (Jun) |  | 94.2 | 93.1 |
+| 14:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 14:45 | USD | High | Chicago PMI (Jun) |  | 55.7 | 62.7 |
+| 15:00 | USD | High | CB Consumer Confidence (Jun) |  | 94.4 | 93.1 |
 | 15:00 | USD | High | JOLTS Job Openings (May) |  | 7.280M | 7.618M |
 | 15:30 | USD | Low | Dallas Fed Services Revenues (Jun) |  |  | 5.0 |
 | 15:30 | USD | Low | Texas Services Sector Outlook (Jun) |  |  | -7.7 |
