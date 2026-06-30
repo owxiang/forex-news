@@ -3,9 +3,9 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Industrial Production (MoM) (May) | 0.5% | 0.6% | 0.5% |
-| 25 min | AUD | RBA Meeting Minutes |  |  |  |
-| 25 min | CNY | Chinese Composite PMI (Jun) |  |  | 50.5 |
-| 25 min | CNY | Non-Manufacturing PMI (Jun) |  | 49.9 | 50.1 |
+| 02:30 | AUD | RBA Meeting Minutes |  |  |  |
+| 02:30 | CNY | Chinese Composite PMI (Jun) | 50.6 |  | 50.5 |
+| 02:30 | CNY | Non-Manufacturing PMI (Jun) | 50.2 | 49.9 | 50.1 |
 | 07:00 | GBP | Business Investment (QoQ) (Q1) |  | 0.7% | -2.9% |
 | 07:00 | GBP | Current Account (Q1) |  | -21.5B | -18.4B |
 | 07:00 | EUR | German Retail Sales (MoM) (May) |  | 0.0% | -0.3% |

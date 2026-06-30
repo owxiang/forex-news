@@ -14,14 +14,14 @@
 | 00:50 | JPY | Low | Industrial Production forecast 2m ahead (MoM) (Jul) | 0.0% |  | -0.4% |
 | 02:00 | NZD | Low | ANZ Business Confidence (Jun) | 36.6 |  | 10.0 |
 | 02:00 | NZD | Low | NBNZ Own Activity (Jun) | 36.9% |  | 25.6% |
-| 25 min | AUD | Low | Housing Credit (May) |  |  | 0.6% |
-| 25 min | AUD | Moderate | RBA Meeting Minutes |  |  |  |
-| 25 min | AUD | Low | Private Sector Credit (MoM) (May) |  | 0.6% | 0.7% |
-| 25 min | CNY | Moderate | Chinese Composite PMI (Jun) |  |  | 50.5 |
-| 25 min | CNY | High | Manufacturing PMI (Jun) |  | 50.2 | 50.0 |
-| 25 min | CNY | Moderate | Non-Manufacturing PMI (Jun) |  | 49.9 | 50.1 |
-| 04:00 | NZD | Low | M3 Money Supply (May) |  |  | 454,442.0B |
-| 04:35 | JPY | Low | 2-Year JGB Auction |  |  | 1.369% |
+| 02:30 | AUD | Low | Housing Credit (May) | 0.5% |  | 0.6% |
+| 02:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
+| 02:30 | AUD | Low | Private Sector Credit (MoM) (May) | 0.7% | 0.6% | 0.7% |
+| 02:30 | CNY | Moderate | Chinese Composite PMI (Jun) | 50.6 |  | 50.5 |
+| 02:30 | CNY | High | Manufacturing PMI (Jun) | 50.3 | 50.1 | 50.0 |
+| 02:30 | CNY | Moderate | Non-Manufacturing PMI (Jun) | 50.2 | 49.9 | 50.1 |
+| 04:00 | NZD | Low | M3 Money Supply (May) | 451.0B |  | 454.4B |
+| 18 min | JPY | Low | 2-Year JGB Auction |  |  | 1.369% |
 | 06:00 | JPY | Low | Construction Orders (YoY) (May) |  |  | -32.3% |
 | 06:00 | JPY | Low | Housing Starts (YoY) (May) |  | 32.1% | 11.4% |
 | 07:00 | GBP | Moderate | Business Investment (QoQ) (Q1) |  | 0.7% | -2.9% |

@@ -13,10 +13,10 @@
 | 00:50 | JPY | Industrial Production forecast 2m ahead (MoM) (Jul) | 0.0% |  | -0.4% |
 | 02:00 | NZD | ANZ Business Confidence (Jun) | 36.6 |  | 10.0 |
 | 02:00 | NZD | NBNZ Own Activity (Jun) | 36.9% |  | 25.6% |
-| 25 min | AUD | Housing Credit (May) |  |  | 0.6% |
-| 25 min | AUD | Private Sector Credit (MoM) (May) |  | 0.6% | 0.7% |
-| 04:00 | NZD | M3 Money Supply (May) |  |  | 454,442.0B |
-| 04:35 | JPY | 2-Year JGB Auction |  |  | 1.369% |
+| 02:30 | AUD | Housing Credit (May) | 0.5% |  | 0.6% |
+| 02:30 | AUD | Private Sector Credit (MoM) (May) | 0.7% | 0.6% | 0.7% |
+| 04:00 | NZD | M3 Money Supply (May) | 451.0B |  | 454.4B |
+| 18 min | JPY | 2-Year JGB Auction |  |  | 1.369% |
 | 06:00 | JPY | Construction Orders (YoY) (May) |  |  | -32.3% |
 | 06:00 | JPY | Housing Starts (YoY) (May) |  | 32.1% | 11.4% |
 | 07:00 | GBP | Business Investment (YoY) (Q1) |  | -1.8% | 1.8% |
