@@ -1,77 +1,66 @@
-## 30 June 2026 - Low Impact Forex News
+## 01 July 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Industrial Production (YoY) (May) | -0.9% |  | 1.5% |
-| 00:00 | KRW | Industrial Production (MoM) (May) | -3.0% |  | -0.7% |
-| 00:00 | KRW | Retail Sales (MoM) (May) | 0.1% |  | -3.5% |
-| 00:00 | KRW | Service Sector Output (MoM) (May) | 1.3% |  | -0.9% |
-| 00:01 | GBP | BRC Shop Price Index (YoY) | 1.2% | 1.2% | 1.2% |
-| 00:30 | JPY | Jobs/applications ratio (May) | 1.17 | 1.18 | 1.18 |
-| 00:30 | JPY | Unemployment Rate (May) | 2.5% | 2.5% | 2.5% |
-| 00:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Jun) | 3.7% |  | 5.1% |
-| 00:50 | JPY | Industrial Production forecast 2m ahead (MoM) (Jul) | 0.0% |  | -0.4% |
-| 02:00 | NZD | ANZ Business Confidence (Jun) | 36.6 |  | 10.0 |
-| 02:00 | NZD | NBNZ Own Activity (Jun) | 36.9% |  | 25.6% |
-| 02:30 | AUD | Housing Credit (May) | 0.5% |  | 0.6% |
-| 02:30 | AUD | Private Sector Credit (MoM) (May) | 0.7% | 0.6% | 0.7% |
-| 04:00 | NZD | M3 Money Supply (May) | 451.0B |  | 454.4B |
-| 04:35 | JPY | 2-Year JGB Auction | 1.407% |  | 1.369% |
-| 06:00 | JPY | Construction Orders (YoY) (May) | -6.7% |  | -32.3% |
-| 06:00 | JPY | Housing Starts (YoY) (May) | 33.9% | 31.8% | 11.4% |
-| 07:00 | GBP | Business Investment (YoY) (Q1) | -1.3% | -1.8% | 1.8% |
-| 07:00 | EUR | German Import Price Index (MoM) (May) | 0.7% | 0.4% | 1.2% |
-| 07:00 | EUR | German Import Price Index (YoY) (May) | 6.8% |  | 5.3% |
-| 07:00 | EUR | German Retail Sales (YoY) (May) | 1.8% | 0.0% | -0.6% |
-| 07:00 | ZAR | M3 Money Supply (YoY) (May) | 9.59% |  | 9.82% |
-| 07:00 | ZAR | Private Sector Credit (May) | 8.57% |  | 9.20% |
-| 07:45 | EUR | French CPI (YoY) (Jun) | 1.8% | 2.1% | 2.4% |
-| 07:45 | EUR | French HICP (YoY) (Jun) | 2.0% | 2.4% | 2.8% |
-| 07:45 | EUR | French PPI (MoM) (May) | -0.3% |  | -2.0% |
-| 07:45 | EUR | PPI (YoY) (May) | 3.00% |  | 2.30% |
-| 08:00 | CHF | Official Reserves Assets (May) | 841.2B |  | 848.5B |
-| 08:55 | EUR | German Unemployment (Jun) | 2.984M |  | 2.987M |
-| 08:55 | EUR | German Unemployment n.s.a. (Jun) | 2.936M |  | 2.950M |
-| 09:00 | EUR | Italian PPI (MoM) (May) | -0.2% |  | 0.3% |
-| 09:00 | EUR | Italian PPI (YoY) (May) | 7.3% |  | 6.8% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Jun) | -0.2% |  | -0.3% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jun) | 2.1% |  | 2.4% |
-| 09:00 | EUR | Bavaria CPI (YoY) (Jun) | 2.5% |  | 2.6% |
-| 09:00 | EUR | Bavaria CPI (MoM) (Jun) | -0.2% |  | -0.2% |
-| 09:00 | EUR | Brandenburg CPI (YoY) (Jun) | 2.4% |  | 2.8% |
-| 09:00 | EUR | Brandenburg CPI (MoM) (Jun) | -0.2% |  | -0.1% |
-| 09:00 | EUR | Hesse CPI (MoM) (Jun) | -0.2% |  | -0.2% |
-| 09:00 | EUR | Hesse CPI (YoY) (Jun) | 2.3% |  | 2.6% |
-| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Jun) | -0.4% |  | -0.2% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Jun) | 2.1% |  | 2.4% |
-| 09:00 | EUR | Saxony CPI (YoY) (Jun) | 2.3% |  | 2.8% |
-| 09:00 | EUR | Saxony CPI (MoM) (Jun) | -0.3% |  | -0.1% |
-| 09:00 | EUR | Spanish Current account (Apr) | 1.88B |  | 4.61B |
-| 09:00 | NOK | Central Bank Currency Purchase (Jul) | -400.0M |  | -100.0M |
-| 09:00 | ZAR | SARB Quarterly Bulletin |  |  |  |
-| 09:30 | HKD | M3 Money Supply (May) | 1.0% |  | 3.1% |
-| 10:00 | EUR | Italian CPI (MoM) (Jun) | 0.0% | 0.2% | 0.4% |
-| 10:00 | EUR | Italian CPI (YoY) (Jun) | 3.0% | 3.1% | 3.2% |
-| 10:00 | EUR | Italian HICP (MoM) (Jun) | 0.1% |  | 0.3% |
-| 10:00 | EUR | Italian HICP (YoY) (Jun) | 3.1% | 3.1% | 3.2% |
-| 11:00 | INR | Federal Fiscal Deficit (May) | 1,623.54B |  | 3,623.03B |
-| 11:25 | ZAR | Budget Balance (MoM) (May) | -14.62B |  | -63.57B |
-| 11:40 | GBP | BoE Breeden Speaks |  |  |  |
-| 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
-| 12:30 | BRL | Net Debt-to-GDP ratio (May) | 67.9% |  | 67.4% |
-| 12:30 | BRL | Budget Balance (May) | -163.679B | -148.300B | -60.139B |
-| 12:30 | BRL | Budget Surplus (May) | -56.131B |  | 24.624B |
-| 13:00 | EUR | German HICP (MoM) (Jun) | -0.2% | 0.1% | -0.1% |
-| 13:00 | EUR | German HICP (YoY) (Jun) | 2.4% | 2.6% | 2.7% |
-| 13:00 | BRL | Long Term Interest Rate TJLP (Q3) | 9.14% |  | 9.13% |
-| 13:00 | BRL | Brazilian PPI (MoM) (May) | -0.30% |  | 2.62% |
-| 13:00 | ZAR | Trade Balance (May) | -1.79B |  | 14.43B |
-| 13:55 | USD | Redbook (YoY) | 10.5% |  | 10.0% |
-| 14:00 | USD | House Price Index (MoM) (Apr) | -0.1% | 0.2% | 0.2% |
-| 14:00 | USD | House Price Index (YoY) (Apr) | 2.0% |  | 1.8% |
-| 14:00 | USD | House Price Index (Apr) | 441.4 |  | 441.8 |
-| 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Apr) | 0.0% |  | -0.2% |
-| 15:30 | USD | Dallas Fed Services Revenues (Jun) | 9.8 |  | 5.0 |
-| 15:30 | USD | Texas Services Sector Outlook (Jun) | 2.9 |  | -7.7 |
-| 18:10 | BRL | CAGED Net Payroll Jobs (May) | 72.96K | 115.00K | 85.89K |
-| 21:50 | MXN | Fiscal Balance (May) | -176.15B |  | -37.15B |
+| 00:00 | AUD | AIG Construction Index (Jun) | -38.1 |  | -9.9 |
+| 00:00 | AUD | AIG Manufacturing Index (Jun) | -16.8 |  | -22.4 |
+| 00:00 | AUD | S&P Global Manufacturing PMI (Jun) | 51.5 | 51.2 | 50.7 |
+| 18 min | JPY | Tankan All Small Industry CAPEX (Q2) |  |  | -8.1% |
+| 18 min | JPY | Tankan Large Non-Manufacturers Diffusion Index (Q2) |  | 30 | 29 |
+| 18 min | JPY | Tankan Small Manufacturers Diffusion Index (Q2) |  |  | 4 |
+| 18 min | JPY | Tankan Small Manufacturing Index (Q2) |  | 4 | 7 |
+| 18 min | JPY | Tankan Small Non-Manufacturers Diffusion Index (Q2) |  |  | 8 |
+| 18 min | JPY | Tankan Small Non-Manufacturing Index (Q2) |  |  | 16 |
+| 28 min | KRW | Exports (YoY) (Jun) |  |  | 53.4% |
+| 28 min | KRW | Imports (YoY) (Jun) |  |  | 20.7% |
+| 28 min | KRW | Trade Balance (Jun) |  |  | 27.04B |
+| 58 min | KRW | S&P Global South Korea Manufacturing PMI (Jun) |  |  | 54.8 |
+| 58 min | JPY | S&P Global Manufacturing PMI (Jun) |  | 54.9 | 54.5 |
+| 58 min | SGD | URA Property Index (QoQ) (Q2) |  |  | 0.90% |
+| 58 min | IDR | S&P Global Manufacturing PMI (Jun) |  |  | 50.0 |
+| 02:30 | AUD | Building Approvals (YoY) (May) |  |  | 23.10% |
+| 02:30 | AUD | Private House Approvals (May) |  |  | -1.0% |
+| 03:00 | SGD | Bank Lending (May) |  |  | 908.4B |
+| 05:00 | IDR | Core Inflation (YoY) (Jun) |  | 2.60% | 2.59% |
+| 05:00 | IDR | Export Growth (YoY) (May) |  | 4.00% | 21.98% |
+| 05:00 | IDR | Import Growth (YoY) (May) |  | 18.00% | 22.49% |
+| 05:00 | IDR | Inflation (MoM) (Jun) |  | 0.29% | 0.28% |
+| 05:00 | IDR | Inflation (YoY) (Jun) |  | 3.20% | 3.08% |
+| 05:00 | IDR | Trade Balance (May) |  | 1.10B | 0.09B |
+| 06:00 | CAD | Budget Balance (Apr) |  |  | -29.73B |
+| 06:00 | CAD | Budget Balance (YoY) (Apr) |  |  | -55.28B |
+| 06:00 | INR | HSBC India Manufacturing PMI (Jun) |  | 54.5 | 55.0 |
+| 06:00 | JPY | Household Confidence (Jun) |  | 34.1 | 33.6 |
+| 07:30 | CHF | Retail Sales (YoY) (May) |  | 1.8% | 1.6% |
+| 07:30 | AUD | Commodity Prices (YoY) (Jun) |  |  | 16.8% |
+| 09:00 | EUR | Italian Public Deficit (Q1) |  |  | -1.4% |
+| 10:00 | EUR | Core CPI (MoM) (Jun) |  |  | 0.3% |
+| 10:00 | EUR | CPI, n.s.a (Jun) |  |  | 103.13 |
+| 10:00 | EUR | HICP ex Energy & Food (YoY) (Jun) |  |  | 2.3% |
+| 10:00 | EUR | HICP ex Energy and Food (MoM) (Jun) |  |  | 0.3% |
+| 10:00 | ZAR | Manufacturing PMI (Jun) |  |  | 50.8 |
+| 10:30 | USD | Challenger Job Cuts (Jun) |  |  | 97.006K |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.59% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 1.0% |
+| 12:00 | USD | MBA Purchase Index |  |  | 169.7 |
+| 12:00 | USD | Mortgage Market Index |  |  | 272.1 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 834.2 |
+| 12:00 | EUR | Car Registration (MoM) (Jun) |  |  | 4.70% |
+| 12:00 | EUR | Car Registration (YoY) (Jun) |  |  | -0.80% |
+| 12:30 | INR | M3 Money Supply |  |  | 11.9% |
+| 12:30 | BRL | Bank lending (MoM) (May) |  |  | 0.3% |
+| 13:15 | ZAR | Total Vehicle Sales (Jun) |  |  | 51.07K |
+| 14:00 | BRL | S&P Global Manufacturing PMI (Jun) |  |  | 49.1 |
+| 15:00 | USD | ISM Manufacturing New Orders Index (Jun) |  |  | 56.8 |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.081M |
+| 15:30 | USD | Crude Oil Imports |  |  | 0.094M |
+| 15:30 | USD | Distillate Fuel Production |  |  | 0.055M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | 3.064M |
+| 15:30 | USD | Gasoline Production |  |  | -0.588M |
+| 15:30 | USD | Heating Oil Stockpiles |  |  | 0.722M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.6% |
+| 15:30 | USD | Gasoline Inventories |  |  | 2.064M |
+| 16:00 | MXN | S&P Global Manufacturing PMI (Jun) |  |  | 49.60 |
+| 18:00 | EUR | Italian Car Registration (YoY) (Jun) |  |  | 7.6% |
+| 18:30 | BRL | Foreign Exchange Flows |  |  | 4.066B |
+| 23:45 | NZD | Building Consents (MoM) (May) |  |  | 10.9% |
