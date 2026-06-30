@@ -6,15 +6,15 @@
 | 02:30 | AUD | RBA Meeting Minutes |  |  |  |
 | 02:30 | CNY | Chinese Composite PMI (Jun) | 50.6 |  | 50.5 |
 | 02:30 | CNY | Non-Manufacturing PMI (Jun) | 50.2 | 49.9 | 50.1 |
-| 30 min | GBP | Business Investment (QoQ) (Q1) |  | 0.7% | -2.9% |
-| 30 min | GBP | Current Account (Q1) |  | -22.2B | -18.4B |
-| 30 min | EUR | German Retail Sales (MoM) (May) |  | 0.0% | -0.3% |
-| 07:45 | EUR | French Consumer Spending (MoM) (May) |  | 0.2% | -0.5% |
-| 07:45 | EUR | French CPI (MoM) (Jun) |  | 0.0% | 0.1% |
-| 07:45 | EUR | French HICP (MoM) (Jun) |  | 0.0% | 0.1% |
-| 08:00 | CHF | KOF Leading Indicators (Jun) |  | 99.0 | 98.0 |
-| 08:55 | EUR | German Unemployment Change (Jun) |  | 7K | -12K |
-| 08:55 | EUR | German Unemployment Rate (Jun) |  | 6.3% | 6.3% |
+| 07:00 | GBP | Business Investment (QoQ) (Q1) | 0.9% | 0.7% | -3.0% |
+| 07:00 | GBP | Current Account (Q1) | -22.1B | -22.2B | -27.2B |
+| 07:00 | EUR | German Retail Sales (MoM) (May) | 1.1% | 0.0% | -0.4% |
+| 07:45 | EUR | French Consumer Spending (MoM) (May) | 0.5% | 0.2% | -0.5% |
+| 07:45 | EUR | French CPI (MoM) (Jun) | -0.2% | 0.0% | 0.1% |
+| 07:45 | EUR | French HICP (MoM) (Jun) | -0.3% | 0.0% | 0.1% |
+| 08:00 | CHF | KOF Leading Indicators (Jun) | 101.2 | 99.0 | 98.6 |
+| 26 min | EUR | German Unemployment Change (Jun) |  | 7K | -12K |
+| 26 min | EUR | German Unemployment Rate (Jun) |  | 6.3% | 6.3% |
 | 09:40 | EUR | ECB's Elderson Speaks |  |  |  |
 | 10:40 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (May) |  |  | 80.4% |

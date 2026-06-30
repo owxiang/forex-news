@@ -19,36 +19,36 @@
 | 04:35 | JPY | 2-Year JGB Auction | 1.407% |  | 1.369% |
 | 06:00 | JPY | Construction Orders (YoY) (May) | -6.7% |  | -32.3% |
 | 06:00 | JPY | Housing Starts (YoY) (May) | 33.9% | 31.8% | 11.4% |
-| 30 min | GBP | Business Investment (YoY) (Q1) |  | -1.8% | 1.8% |
-| 30 min | EUR | German Import Price Index (MoM) (May) |  | 0.4% | 1.2% |
-| 30 min | EUR | German Import Price Index (YoY) (May) |  |  | 5.3% |
-| 30 min | EUR | German Retail Sales (YoY) (May) |  | 0.0% | -0.3% |
-| 30 min | ZAR | M3 Money Supply (YoY) (May) |  |  | 9.82% |
-| 30 min | ZAR | Private Sector Credit (May) |  |  | 9.20% |
-| 07:45 | EUR | French CPI (YoY) (Jun) |  | 2.1% | 2.4% |
-| 07:45 | EUR | French HICP (YoY) (Jun) |  | 2.4% | 2.8% |
-| 07:45 | EUR | French PPI (MoM) (May) |  |  | -2.1% |
-| 07:45 | EUR | PPI (YoY) (May) |  |  | 2.10% |
-| 08:00 | CHF | Official Reserves Assets (May) |  |  | 848.5B |
-| 08:55 | EUR | German Unemployment (Jun) |  |  | 2.987M |
-| 08:55 | EUR | German Unemployment n.s.a. (Jun) |  |  | 2.950M |
-| 09:00 | EUR | Italian PPI (MoM) (May) |  |  | 0.3% |
-| 09:00 | EUR | Italian PPI (YoY) (May) |  |  | 6.8% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Jun) |  |  | -0.3% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jun) |  |  | 2.4% |
-| 09:00 | EUR | Bavaria CPI (YoY) (Jun) |  |  | 2.6% |
-| 09:00 | EUR | Bavaria CPI (MoM) (Jun) |  |  | -0.2% |
-| 09:00 | EUR | Brandenburg CPI (YoY) (Jun) |  |  | 2.8% |
-| 09:00 | EUR | Brandenburg CPI (MoM) (Jun) |  |  | -0.1% |
-| 09:00 | EUR | Hesse CPI (MoM) (Jun) |  |  | -0.2% |
-| 09:00 | EUR | Hesse CPI (YoY) (Jun) |  |  | 2.6% |
-| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Jun) |  |  | -0.2% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Jun) |  |  | 2.4% |
-| 09:00 | EUR | Saxony CPI (YoY) (Jun) |  |  | 2.8% |
-| 09:00 | EUR | Saxony CPI (MoM) (Jun) |  |  | -0.1% |
-| 09:00 | EUR | Spanish Current account (Apr) |  |  | 4.61B |
-| 09:00 | NOK | Central Bank Currency Purchase (Jul) |  |  | -100.0M |
-| 09:00 | ZAR | SARB Quarterly Bulletin |  |  |  |
+| 07:00 | GBP | Business Investment (YoY) (Q1) | -1.3% | -1.8% | 1.8% |
+| 07:00 | EUR | German Import Price Index (MoM) (May) | 0.7% | 0.4% | 1.2% |
+| 07:00 | EUR | German Import Price Index (YoY) (May) | 6.8% |  | 5.3% |
+| 07:00 | EUR | German Retail Sales (YoY) (May) | 1.8% | 0.0% | -0.6% |
+| 07:00 | ZAR | M3 Money Supply (YoY) (May) | 9.59% |  | 9.82% |
+| 07:00 | ZAR | Private Sector Credit (May) | 8.57% |  | 9.20% |
+| 07:45 | EUR | French CPI (YoY) (Jun) | 1.8% | 2.1% | 2.4% |
+| 07:45 | EUR | French HICP (YoY) (Jun) | 2.0% | 2.4% | 2.8% |
+| 07:45 | EUR | French PPI (MoM) (May) | -0.3% |  | -2.0% |
+| 07:45 | EUR | PPI (YoY) (May) | 3.00% |  | 2.30% |
+| 08:00 | CHF | Official Reserves Assets (May) | 841.2B |  | 848.5B |
+| 26 min | EUR | German Unemployment (Jun) |  |  | 2.987M |
+| 26 min | EUR | German Unemployment n.s.a. (Jun) |  |  | 2.950M |
+| 31 min | EUR | Italian PPI (MoM) (May) |  |  | 0.3% |
+| 31 min | EUR | Italian PPI (YoY) (May) |  |  | 6.8% |
+| 31 min | EUR | Baden Wuerttemberg CPI (MoM) (Jun) |  |  | -0.3% |
+| 31 min | EUR | Baden Wuerttemberg CPI (YoY) (Jun) |  |  | 2.4% |
+| 31 min | EUR | Bavaria CPI (YoY) (Jun) |  |  | 2.6% |
+| 31 min | EUR | Bavaria CPI (MoM) (Jun) |  |  | -0.2% |
+| 31 min | EUR | Brandenburg CPI (YoY) (Jun) |  |  | 2.8% |
+| 31 min | EUR | Brandenburg CPI (MoM) (Jun) |  |  | -0.1% |
+| 31 min | EUR | Hesse CPI (MoM) (Jun) |  |  | -0.2% |
+| 31 min | EUR | Hesse CPI (YoY) (Jun) |  |  | 2.6% |
+| 31 min | EUR | North Rhine Westphalia CPI (MoM) (Jun) |  |  | -0.2% |
+| 31 min | EUR | North Rhine Westphalia CPI (YoY) (Jun) |  |  | 2.4% |
+| 31 min | EUR | Saxony CPI (YoY) (Jun) |  |  | 2.8% |
+| 31 min | EUR | Saxony CPI (MoM) (Jun) |  |  | -0.1% |
+| 31 min | EUR | Spanish Current account (Apr) |  |  | 4.61B |
+| 31 min | NOK | Central Bank Currency Purchase (Jul) |  |  | -100.0M |
+| 31 min | ZAR | SARB Quarterly Bulletin |  |  |  |
 | 09:30 | HKD | M3 Money Supply (May) |  |  | 3.1% |
 | 10:00 | EUR | Italian CPI (MoM) (Jun) |  | 0.2% | 0.4% |
 | 10:00 | EUR | Italian CPI (YoY) (Jun) |  | 3.1% | 3.2% |

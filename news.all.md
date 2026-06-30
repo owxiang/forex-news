@@ -24,47 +24,47 @@
 | 04:35 | JPY | Low | 2-Year JGB Auction | 1.407% |  | 1.369% |
 | 06:00 | JPY | Low | Construction Orders (YoY) (May) | -6.7% |  | -32.3% |
 | 06:00 | JPY | Low | Housing Starts (YoY) (May) | 33.9% | 31.8% | 11.4% |
-| 30 min | GBP | Moderate | Business Investment (QoQ) (Q1) |  | 0.7% | -2.9% |
-| 30 min | GBP | Low | Business Investment (YoY) (Q1) |  | -1.8% | 1.8% |
-| 30 min | GBP | Moderate | Current Account (Q1) |  | -22.2B | -18.4B |
-| 30 min | GBP | High | GDP (QoQ) (Q1) |  | 0.6% | 0.2% |
-| 30 min | GBP | High | GDP (YoY) (Q1) |  | 1.1% | 1.0% |
-| 30 min | EUR | Low | German Import Price Index (MoM) (May) |  | 0.4% | 1.2% |
-| 30 min | EUR | Low | German Import Price Index (YoY) (May) |  |  | 5.3% |
-| 30 min | EUR | Moderate | German Retail Sales (MoM) (May) |  | 0.0% | -0.3% |
-| 30 min | EUR | Low | German Retail Sales (YoY) (May) |  | 0.0% | -0.3% |
-| 30 min | ZAR | Low | M3 Money Supply (YoY) (May) |  |  | 9.82% |
-| 30 min | ZAR | Low | Private Sector Credit (May) |  |  | 9.20% |
-| 07:45 | EUR | Moderate | French Consumer Spending (MoM) (May) |  | 0.2% | -0.5% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Jun) |  | 0.0% | 0.1% |
-| 07:45 | EUR | Low | French CPI (YoY) (Jun) |  | 2.1% | 2.4% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Jun) |  | 0.0% | 0.1% |
-| 07:45 | EUR | Low | French HICP (YoY) (Jun) |  | 2.4% | 2.8% |
-| 07:45 | EUR | Low | French PPI (MoM) (May) |  |  | -2.1% |
-| 07:45 | EUR | Low | PPI (YoY) (May) |  |  | 2.10% |
-| 08:00 | CHF | Moderate | KOF Leading Indicators (Jun) |  | 99.0 | 98.0 |
-| 08:00 | CHF | Low | Official Reserves Assets (May) |  |  | 848.5B |
-| 08:55 | EUR | Moderate | German Unemployment Change (Jun) |  | 7K | -12K |
-| 08:55 | EUR | Moderate | German Unemployment Rate (Jun) |  | 6.3% | 6.3% |
-| 08:55 | EUR | Low | German Unemployment (Jun) |  |  | 2.987M |
-| 08:55 | EUR | Low | German Unemployment n.s.a. (Jun) |  |  | 2.950M |
-| 09:00 | EUR | Low | Italian PPI (MoM) (May) |  |  | 0.3% |
-| 09:00 | EUR | Low | Italian PPI (YoY) (May) |  |  | 6.8% |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Jun) |  |  | -0.3% |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Jun) |  |  | 2.4% |
-| 09:00 | EUR | Low | Bavaria CPI (YoY) (Jun) |  |  | 2.6% |
-| 09:00 | EUR | Low | Bavaria CPI (MoM) (Jun) |  |  | -0.2% |
-| 09:00 | EUR | Low | Brandenburg CPI (YoY) (Jun) |  |  | 2.8% |
-| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Jun) |  |  | -0.1% |
-| 09:00 | EUR | Low | Hesse CPI (MoM) (Jun) |  |  | -0.2% |
-| 09:00 | EUR | Low | Hesse CPI (YoY) (Jun) |  |  | 2.6% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Jun) |  |  | -0.2% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Jun) |  |  | 2.4% |
-| 09:00 | EUR | Low | Saxony CPI (YoY) (Jun) |  |  | 2.8% |
-| 09:00 | EUR | Low | Saxony CPI (MoM) (Jun) |  |  | -0.1% |
-| 09:00 | EUR | Low | Spanish Current account (Apr) |  |  | 4.61B |
-| 09:00 | NOK | Low | Central Bank Currency Purchase (Jul) |  |  | -100.0M |
-| 09:00 | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
+| 07:00 | GBP | Moderate | Business Investment (QoQ) (Q1) | 0.9% | 0.7% | -3.0% |
+| 07:00 | GBP | Low | Business Investment (YoY) (Q1) | -1.3% | -1.8% | 1.8% |
+| 07:00 | GBP | Moderate | Current Account (Q1) | -22.1B | -22.2B | -27.2B |
+| 07:00 | GBP | High | GDP (QoQ) (Q1) | 0.6% | 0.6% | 0.1% |
+| 07:00 | GBP | High | GDP (YoY) (Q1) | 0.9% | 1.1% | 0.9% |
+| 07:00 | EUR | Low | German Import Price Index (MoM) (May) | 0.7% | 0.4% | 1.2% |
+| 07:00 | EUR | Low | German Import Price Index (YoY) (May) | 6.8% |  | 5.3% |
+| 07:00 | EUR | Moderate | German Retail Sales (MoM) (May) | 1.1% | 0.0% | -0.4% |
+| 07:00 | EUR | Low | German Retail Sales (YoY) (May) | 1.8% | 0.0% | -0.6% |
+| 07:00 | ZAR | Low | M3 Money Supply (YoY) (May) | 9.59% |  | 9.82% |
+| 07:00 | ZAR | Low | Private Sector Credit (May) | 8.57% |  | 9.20% |
+| 07:45 | EUR | Moderate | French Consumer Spending (MoM) (May) | 0.5% | 0.2% | -0.5% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Jun) | -0.2% | 0.0% | 0.1% |
+| 07:45 | EUR | Low | French CPI (YoY) (Jun) | 1.8% | 2.1% | 2.4% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Jun) | -0.3% | 0.0% | 0.1% |
+| 07:45 | EUR | Low | French HICP (YoY) (Jun) | 2.0% | 2.4% | 2.8% |
+| 07:45 | EUR | Low | French PPI (MoM) (May) | -0.3% |  | -2.0% |
+| 07:45 | EUR | Low | PPI (YoY) (May) | 3.00% |  | 2.30% |
+| 08:00 | CHF | Moderate | KOF Leading Indicators (Jun) | 101.2 | 99.0 | 98.6 |
+| 08:00 | CHF | Low | Official Reserves Assets (May) | 841.2B |  | 848.5B |
+| 26 min | EUR | Moderate | German Unemployment Change (Jun) |  | 7K | -12K |
+| 26 min | EUR | Moderate | German Unemployment Rate (Jun) |  | 6.3% | 6.3% |
+| 26 min | EUR | Low | German Unemployment (Jun) |  |  | 2.987M |
+| 26 min | EUR | Low | German Unemployment n.s.a. (Jun) |  |  | 2.950M |
+| 31 min | EUR | Low | Italian PPI (MoM) (May) |  |  | 0.3% |
+| 31 min | EUR | Low | Italian PPI (YoY) (May) |  |  | 6.8% |
+| 31 min | EUR | Low | Baden Wuerttemberg CPI (MoM) (Jun) |  |  | -0.3% |
+| 31 min | EUR | Low | Baden Wuerttemberg CPI (YoY) (Jun) |  |  | 2.4% |
+| 31 min | EUR | Low | Bavaria CPI (YoY) (Jun) |  |  | 2.6% |
+| 31 min | EUR | Low | Bavaria CPI (MoM) (Jun) |  |  | -0.2% |
+| 31 min | EUR | Low | Brandenburg CPI (YoY) (Jun) |  |  | 2.8% |
+| 31 min | EUR | Low | Brandenburg CPI (MoM) (Jun) |  |  | -0.1% |
+| 31 min | EUR | Low | Hesse CPI (MoM) (Jun) |  |  | -0.2% |
+| 31 min | EUR | Low | Hesse CPI (YoY) (Jun) |  |  | 2.6% |
+| 31 min | EUR | Low | North Rhine Westphalia CPI (MoM) (Jun) |  |  | -0.2% |
+| 31 min | EUR | Low | North Rhine Westphalia CPI (YoY) (Jun) |  |  | 2.4% |
+| 31 min | EUR | Low | Saxony CPI (YoY) (Jun) |  |  | 2.8% |
+| 31 min | EUR | Low | Saxony CPI (MoM) (Jun) |  |  | -0.1% |
+| 31 min | EUR | Low | Spanish Current account (Apr) |  |  | 4.61B |
+| 31 min | NOK | Low | Central Bank Currency Purchase (Jul) |  |  | -100.0M |
+| 31 min | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
 | 09:30 | HKD | Low | M3 Money Supply (May) |  |  | 3.1% |
 | 09:40 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Jun) |  | 0.2% | 0.4% |
