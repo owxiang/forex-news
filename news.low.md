@@ -73,7 +73,5 @@
 | 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Apr) | 0.0% |  | -0.2% |
 | 15:30 | USD | Dallas Fed Services Revenues (Jun) | 9.8 |  | 5.0 |
 | 15:30 | USD | Texas Services Sector Outlook (Jun) | 2.9 |  | -7.7 |
-| 39 min | BRL | CAGED Net Payroll Jobs (May) |  | 115.00K | 85.89K |
-| 20:00 | CAD | Budget Balance (Apr) |  |  | -29.73B |
-| 20:00 | CAD | Budget Balance (YoY) (Apr) |  |  | -55.28B |
+| 18:10 | BRL | CAGED Net Payroll Jobs (May) | 72.96K | 115.00K | 85.89K |
 | 20:00 | MXN | Fiscal Balance (May) |  |  | -37.15B |
