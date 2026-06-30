@@ -98,13 +98,13 @@
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Apr) | 1.1% | 0.9% | 0.9% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Apr) | 1.0% |  | 1.1% |
 | 14:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 3 min | USD | High | Chicago PMI (Jun) |  | 55.7 | 62.7 |
-| 18 min | USD | High | CB Consumer Confidence (Jun) |  | 94.4 | 93.1 |
-| 18 min | USD | High | JOLTS Job Openings (May) |  | 7.280M | 7.618M |
-| 48 min | USD | Low | Dallas Fed Services Revenues (Jun) |  |  | 5.0 |
-| 48 min | USD | Low | Texas Services Sector Outlook (Jun) |  |  | -7.7 |
-| 16:00 | CAD | Low | Budget Balance (Apr) |  |  | -29.73B |
-| 16:00 | CAD | Low | Budget Balance (YoY) (Apr) |  |  | -55.28B |
+| 14:45 | USD | High | Chicago PMI (Jun) | 56.7 | 55.7 | 62.7 |
+| 15:00 | USD | High | CB Consumer Confidence (Jun) | 91.2 | 94.4 | 90.6 |
+| 15:00 | USD | High | JOLTS Job Openings (May) | 7.594M | 7.280M | 7.585M |
+| 15:30 | USD | Low | Dallas Fed Services Revenues (Jun) | 9.8 |  | 5.0 |
+| 15:30 | USD | Low | Texas Services Sector Outlook (Jun) | 2.9 |  | -7.7 |
+| 1 min | CAD | Low | Budget Balance (Apr) |  |  | -29.73B |
+| 1 min | CAD | Low | Budget Balance (YoY) (Apr) |  |  | -55.28B |
 | 18:30 | BRL | Low | CAGED Net Payroll Jobs (May) |  | 115.00K | 85.89K |
 | 20:00 | MXN | Low | Fiscal Balance (May) |  |  | -37.15B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -0.765M |

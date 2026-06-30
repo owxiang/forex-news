@@ -71,9 +71,9 @@
 | 14:00 | USD | House Price Index (YoY) (Apr) | 2.0% |  | 1.8% |
 | 14:00 | USD | House Price Index (Apr) | 441.4 |  | 441.8 |
 | 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Apr) | 0.0% |  | -0.2% |
-| 48 min | USD | Dallas Fed Services Revenues (Jun) |  |  | 5.0 |
-| 48 min | USD | Texas Services Sector Outlook (Jun) |  |  | -7.7 |
-| 16:00 | CAD | Budget Balance (Apr) |  |  | -29.73B |
-| 16:00 | CAD | Budget Balance (YoY) (Apr) |  |  | -55.28B |
+| 15:30 | USD | Dallas Fed Services Revenues (Jun) | 9.8 |  | 5.0 |
+| 15:30 | USD | Texas Services Sector Outlook (Jun) | 2.9 |  | -7.7 |
+| 1 min | CAD | Budget Balance (Apr) |  |  | -29.73B |
+| 1 min | CAD | Budget Balance (YoY) (Apr) |  |  | -55.28B |
 | 18:30 | BRL | CAGED Net Payroll Jobs (May) |  | 115.00K | 85.89K |
 | 20:00 | MXN | Fiscal Balance (May) |  |  | -37.15B |
