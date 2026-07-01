@@ -1,32 +1,23 @@
-## 01 July 2026 - Moderate Impact Forex News
+## 02 July 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Tankan All Big Industry CAPEX (Q2) | 11.5% |  | 3.3% |
-| 00:50 | JPY | Tankan Big Manufacturing Outlook Index (Q2) | 17 | 13 | 14 |
-| 00:50 | JPY | Tankan Large Manufacturers Index (Q2) | 22 | 16 | 17 |
-| 00:50 | JPY | Tankan Large Non-Manufacturers Index (Q2) | 37 | 36 | 36 |
-| 02:30 | AUD | Building Approvals (MoM) (May) | -1.1% | 0.5% | -0.2% |
-| 02:45 | CNY | RatingDog Manufacturing PMI (MoM) (Jun) | 51.7 | 51.9 | 51.8 |
-| 07:00 | GBP | Nationwide HPI (MoM) (Jun) | 0.0% | 0.1% | -0.6% |
-| 07:00 | GBP | Nationwide HPI (YoY) (Jun) | 2.2% | 2.4% | 1.7% |
-| 08:15 | EUR | HCOB Spain Manufacturing PMI (Jun) | 49.7 | 51.0 | 51.2 |
-| 08:30 | CHF | procure.ch Manufacturing PMI (Jun) | 54.3 | 56.4 | 57.3 |
-| 08:45 | EUR | HCOB Italy Manufacturing PMI (Jun) | 52.2 | 52.4 | 52.9 |
-| 08:50 | EUR | HCOB France Manufacturing PMI (Jun) | 51.2 | 50.7 | 49.7 |
-| 08:55 | EUR | HCOB Germany Manufacturing PMI (Jun) | 50.3 | 50.0 | 50.1 |
-| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Jun) | 51.4 | 51.3 | 51.6 |
-| 09:30 | GBP | S&P Global Manufacturing PMI (Jun) | 52.5 | 53.1 | 53.9 |
-| 10:00 | EUR | Core CPI (YoY) (Jun) | 2.4% | 2.5% | 2.6% |
-| 10:00 | EUR | CPI (MoM) (Jun) | -0.1% |  | 0.1% |
-| 11:15 | EUR | ECB's Lane Speaks |  |  |  |
-| 12:45 | USD | FOMC Member Daly Speaks |  |  |  |
-| 14:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 14:00 | USD | Fed Governor Warsh Speaks |  |  |  |
-| 14:00 | CAD | BoC Gov Macklem Speaks |  |  |  |
-| 14:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 15:00 | USD | Construction Spending (MoM) (May) | 0.1% | 0.1% | 0.3% |
-| 15:00 | USD | ISM Manufacturing Employment (Jun) | 49.7 |  | 48.6 |
-| 15:30 | USD | Cushing Crude Oil Inventories | 0.709M |  | -1.077M |
-| 15:30 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 17:30 | USD | Atlanta Fed GDPNow (Q2) | 1.2% | 2.5% | 2.5% |
+| 02:30 | AUD | Trade Balance (May) |  | 2.190B | 1.791B |
+| 04:35 | JPY | 10-Year JGB Auction |  |  | 2.649% |
+| 07:30 | CHF | CPI (MoM) (Jun) |  | 0.1% | 0.2% |
+| 08:00 | EUR | Spanish Unemployment Change (Jun) |  | -40.8K | -36.3K |
+| 08:30 | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 09:30 | GBP | BOE Credit Conditions Survey |  |  |  |
+| 10:00 | BRL | IPC-Fipe Inflation Index (MoM) (Jun) |  |  | 0.45% |
+| 10:00 | EUR | Unemployment Rate (May) |  | 6.3% | 6.3% |
+| 11:00 | EUR | ECB's Elderson Speaks |  |  |  |
+| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Jun) |  | 3.5% | 3.4% |
+| 13:30 | USD | Continuing Jobless Claims |  |  | 1,821K |
+| 13:30 | USD | Participation Rate (Jun) |  |  | 61.8% |
+| 13:30 | USD | Private Nonfarm Payrolls (Jun) |  | 115K | 120K |
+| 13:30 | USD | U6 Unemployment Rate (Jun) |  |  | 8.1% |
+| 15:00 | USD | Factory Orders (MoM) (May) |  | -1.7% | 4.8% |
+| 16:45 | GBP | BoE MPC Member Mann Speaks |  |  |  |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 440 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 573 |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 6,736B |
