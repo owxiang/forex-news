@@ -29,9 +29,9 @@
 | 05:00 | IDR | Trade Balance (May) | -1.61B | 1.10B | 0.09B |
 | 06:00 | INR | HSBC India Manufacturing PMI (Jun) | 54.2 | 54.5 | 55.0 |
 | 06:00 | JPY | Household Confidence (Jun) | 33.8 | 34.1 | 33.6 |
-| 50 min | CHF | Retail Sales (YoY) (May) |  | 1.8% | 1.6% |
-| 50 min | AUD | Commodity Prices (YoY) (Jun) |  |  | 16.8% |
-| 09:00 | EUR | Italian Public Deficit (Q1) |  |  | -1.4% |
+| 07:30 | CHF | Retail Sales (YoY) (May) | 3.5% | 1.8% | 1.7% |
+| 07:30 | AUD | Commodity Prices (YoY) (Jun) | 16.9% |  | 16.8% |
+| 18 min | EUR | Italian Public Deficit (Q1) |  |  | -1.4% |
 | 10:00 | EUR | Core CPI (MoM) (Jun) |  |  | 0.3% |
 | 10:00 | EUR | CPI, n.s.a (Jun) |  |  | 103.13 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Jun) |  |  | 2.3% |

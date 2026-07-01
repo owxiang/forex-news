@@ -35,18 +35,18 @@
 | 05:00 | IDR | Low | Trade Balance (May) | -1.61B | 1.10B | 0.09B |
 | 06:00 | INR | Low | HSBC India Manufacturing PMI (Jun) | 54.2 | 54.5 | 55.0 |
 | 06:00 | JPY | Low | Household Confidence (Jun) | 33.8 | 34.1 | 33.6 |
-| 20 min | GBP | Moderate | Nationwide HPI (MoM) (Jun) |  | 0.1% | -0.6% |
-| 20 min | GBP | Moderate | Nationwide HPI (YoY) (Jun) |  | 2.4% | 1.7% |
-| 50 min | CHF | Low | Retail Sales (YoY) (May) |  | 1.8% | 1.6% |
-| 50 min | AUD | Low | Commodity Prices (YoY) (Jun) |  |  | 16.8% |
-| 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Jun) |  | 51.0 | 51.2 |
-| 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (Jun) |  | 56.4 | 57.3 |
-| 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Jun) |  | 52.4 | 52.9 |
-| 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (Jun) |  | 50.7 | 49.7 |
-| 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Jun) |  | 50.0 | 50.1 |
-| 09:00 | EUR | Low | Italian Public Deficit (Q1) |  |  | -1.4% |
-| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Jun) |  | 51.3 | 51.6 |
-| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Jun) |  | 53.1 | 53.9 |
+| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Jun) | 0.0% | 0.1% | -0.6% |
+| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Jun) | 2.2% | 2.4% | 1.7% |
+| 07:30 | CHF | Low | Retail Sales (YoY) (May) | 3.5% | 1.8% | 1.7% |
+| 07:30 | AUD | Low | Commodity Prices (YoY) (Jun) | 16.9% |  | 16.8% |
+| 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Jun) | 49.7 | 51.0 | 51.2 |
+| 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (Jun) | 54.3 | 56.4 | 57.3 |
+| 3 min | EUR | Moderate | HCOB Italy Manufacturing PMI (Jun) |  | 52.4 | 52.9 |
+| 8 min | EUR | Moderate | HCOB France Manufacturing PMI (Jun) |  | 50.7 | 49.7 |
+| 13 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Jun) |  | 50.0 | 50.1 |
+| 18 min | EUR | Low | Italian Public Deficit (Q1) |  |  | -1.4% |
+| 18 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Jun) |  | 51.3 | 51.6 |
+| 48 min | GBP | Moderate | S&P Global Manufacturing PMI (Jun) |  | 53.1 | 53.9 |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Jun) |  | 2.5% | 2.6% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Jun) |  |  | 0.3% |
 | 10:00 | EUR | High | CPI (YoY) (Jun) |  | 3.0% | 3.2% |
