@@ -93,8 +93,8 @@
 | 15:30 | USD | Low | Gasoline Inventories | -2.333M | -0.950M | 2.064M |
 | 15:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 16:00 | MXN | Low | S&P Global Manufacturing PMI (Jun) | 51.30 |  | 49.60 |
+| 17:00 | EUR | Low | Italian Car Registration (YoY) (Jun) | 10.6% |  | 7.6% |
 | 17:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 1.2% | 2.5% | 2.5% |
-| 8 min | EUR | Low | Italian Car Registration (YoY) (Jun) |  |  | 7.6% |
-| 38 min | BRL | Low | Foreign Exchange Flows |  |  | 4.066B |
+| 18:30 | BRL | Low | Foreign Exchange Flows | -1.027B |  | 4.066B |
 | 20:15 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 23:45 | NZD | Low | Building Consents (MoM) (May) |  |  | 10.9% |

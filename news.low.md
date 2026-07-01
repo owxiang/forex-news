@@ -60,6 +60,6 @@
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.5% |  | -0.6% |
 | 15:30 | USD | Gasoline Inventories | -2.333M | -0.950M | 2.064M |
 | 16:00 | MXN | S&P Global Manufacturing PMI (Jun) | 51.30 |  | 49.60 |
-| 8 min | EUR | Italian Car Registration (YoY) (Jun) |  |  | 7.6% |
-| 38 min | BRL | Foreign Exchange Flows |  |  | 4.066B |
+| 17:00 | EUR | Italian Car Registration (YoY) (Jun) | 10.6% |  | 7.6% |
+| 18:30 | BRL | Foreign Exchange Flows | -1.027B |  | 4.066B |
 | 23:45 | NZD | Building Consents (MoM) (May) |  |  | 10.9% |
