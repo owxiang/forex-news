@@ -97,4 +97,4 @@
 | 17:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 1.2% | 2.5% | 2.5% |
 | 18:30 | BRL | Low | Foreign Exchange Flows | -1.027B |  | 4.066B |
 | 20:15 | USD | High | U.S. President Trump Speaks |  |  |  |
-| 23:45 | NZD | Low | Building Consents (MoM) (May) |  |  | 10.9% |
+| 11 min | NZD | Low | Building Consents (MoM) (May) |  |  | 10.9% |

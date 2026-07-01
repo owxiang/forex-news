@@ -62,4 +62,4 @@
 | 16:00 | MXN | S&P Global Manufacturing PMI (Jun) | 51.30 |  | 49.60 |
 | 17:00 | EUR | Italian Car Registration (YoY) (Jun) | 10.6% |  | 7.6% |
 | 18:30 | BRL | Foreign Exchange Flows | -1.027B |  | 4.066B |
-| 23:45 | NZD | Building Consents (MoM) (May) |  |  | 10.9% |
+| 11 min | NZD | Building Consents (MoM) (May) |  |  | 10.9% |
