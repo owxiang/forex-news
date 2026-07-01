@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | AUD | Low | AIG Construction Index (Jun) | -38.1 |  | -9.9 |
-| 00:00 | AUD | Low | AIG Manufacturing Index (Jun) | -16.8 |  | -22.4 |
+| 00:00 | AUD | Low | AIG Construction Index (Jun) | -38.1 |  | -11.2 |
+| 00:00 | AUD | Low | AIG Manufacturing Index (Jun) | -16.8 |  | -21.3 |
 | 00:00 | AUD | Low | S&P Global Manufacturing PMI (Jun) | 51.5 | 51.2 | 50.7 |
 | 00:50 | JPY | Moderate | Tankan All Big Industry CAPEX (Q2) | 11.5% |  | 3.3% |
 | 00:50 | JPY | Low | Tankan All Small Industry CAPEX (Q2) | -8.3% |  | -8.1% |
@@ -22,25 +22,23 @@
 | 01:30 | JPY | Low | S&P Global Manufacturing PMI (Jun) | 54.8 | 54.9 | 54.5 |
 | 01:30 | SGD | Low | URA Property Index (QoQ) (Q2) | 0.50% |  | 0.90% |
 | 01:30 | IDR | Low | S&P Global Manufacturing PMI (Jun) | 46.9 |  | 50.0 |
-| 02:30 | AUD | Low | Building Approvals (YoY) (May) | 10.30% |  | 24.40% |
+| 02:30 | AUD | Low | Building Approvals (YoY) (May) | 5.30% |  | 10.90% |
 | 02:30 | AUD | Moderate | Building Approvals (MoM) (May) | -1.1% | 0.5% | -0.2% |
 | 02:30 | AUD | Low | Private House Approvals (May) | 2.8% |  | -1.0% |
 | 02:45 | CNY | Moderate | RatingDog Manufacturing PMI (MoM) (Jun) | 51.7 | 51.9 | 51.8 |
 | 03:00 | SGD | Low | Bank Lending (May) | 917.7B |  | 908.4B |
-| 43 min | IDR | Low | Core Inflation (YoY) (Jun) |  | 2.60% | 2.59% |
-| 43 min | IDR | Low | Export Growth (YoY) (May) |  | 4.00% | 21.98% |
-| 43 min | IDR | Low | Import Growth (YoY) (May) |  | 18.00% | 22.49% |
-| 43 min | IDR | Low | Inflation (MoM) (Jun) |  | 0.29% | 0.28% |
-| 43 min | IDR | Low | Inflation (YoY) (Jun) |  | 3.20% | 3.08% |
-| 43 min | IDR | Low | Trade Balance (May) |  | 1.10B | 0.09B |
-| 06:00 | CAD | Low | Budget Balance (Apr) |  |  | -29.73B |
-| 06:00 | CAD | Low | Budget Balance (YoY) (Apr) |  |  | -55.28B |
-| 06:00 | INR | Low | HSBC India Manufacturing PMI (Jun) |  | 54.5 | 55.0 |
-| 06:00 | JPY | Low | Household Confidence (Jun) |  | 34.1 | 33.6 |
-| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Jun) |  | 0.1% | -0.6% |
-| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Jun) |  |  | 1.7% |
-| 07:30 | CHF | Low | Retail Sales (YoY) (May) |  | 1.8% | 1.6% |
-| 07:30 | AUD | Low | Commodity Prices (YoY) (Jun) |  |  | 16.8% |
+| 05:00 | IDR | Low | Core Inflation (YoY) (Jun) | 2.76% | 2.60% | 2.59% |
+| 05:00 | IDR | Low | Export Growth (YoY) (May) | -5.73% | 6.40% | 21.98% |
+| 05:00 | IDR | Low | Import Growth (YoY) (May) | 22.16% | 19.50% | 22.49% |
+| 05:00 | IDR | Low | Inflation (YoY) (Jun) | 3.34% | 3.20% | 3.08% |
+| 05:00 | IDR | Low | Inflation (MoM) (Jun) | 0.44% | 0.30% | 0.28% |
+| 05:00 | IDR | Low | Trade Balance (May) | -1.61B | 1.10B | 0.09B |
+| 06:00 | INR | Low | HSBC India Manufacturing PMI (Jun) | 54.2 | 54.5 | 55.0 |
+| 06:00 | JPY | Low | Household Confidence (Jun) | 33.8 | 34.1 | 33.6 |
+| 20 min | GBP | Moderate | Nationwide HPI (MoM) (Jun) |  | 0.1% | -0.6% |
+| 20 min | GBP | Moderate | Nationwide HPI (YoY) (Jun) |  | 2.4% | 1.7% |
+| 50 min | CHF | Low | Retail Sales (YoY) (May) |  | 1.8% | 1.6% |
+| 50 min | AUD | Low | Commodity Prices (YoY) (Jun) |  |  | 16.8% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Jun) |  | 51.0 | 51.2 |
 | 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (Jun) |  | 56.4 | 57.3 |
 | 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Jun) |  | 52.4 | 52.9 |
@@ -81,7 +79,7 @@
 | 15:00 | USD | Low | ISM Manufacturing New Orders Index (Jun) |  |  | 56.8 |
 | 15:00 | USD | High | ISM Manufacturing PMI (Jun) |  | 53.8 | 54.0 |
 | 15:00 | USD | High | ISM Manufacturing Prices (Jun) |  | 77.7 | 82.1 |
-| 15:30 | USD | High | Crude Oil Inventories |  | -4.800M | -6.088M |
+| 15:30 | USD | High | Crude Oil Inventories |  | -2.900M | -6.088M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.081M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 0.094M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -1.077M |
@@ -96,4 +94,5 @@
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 2.5% | 2.5% |
 | 18:00 | EUR | Low | Italian Car Registration (YoY) (Jun) |  |  | 7.6% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 4.066B |
+| 20:15 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 23:45 | NZD | Low | Building Consents (MoM) (May) |  |  | 10.9% |

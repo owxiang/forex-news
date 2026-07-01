@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | AUD | AIG Construction Index (Jun) | -38.1 |  | -9.9 |
-| 00:00 | AUD | AIG Manufacturing Index (Jun) | -16.8 |  | -22.4 |
+| 00:00 | AUD | AIG Construction Index (Jun) | -38.1 |  | -11.2 |
+| 00:00 | AUD | AIG Manufacturing Index (Jun) | -16.8 |  | -21.3 |
 | 00:00 | AUD | S&P Global Manufacturing PMI (Jun) | 51.5 | 51.2 | 50.7 |
 | 00:50 | JPY | Tankan All Small Industry CAPEX (Q2) | -8.3% |  | -8.1% |
 | 00:50 | JPY | Tankan Large Non-Manufacturers Diffusion Index (Q2) | 28 | 30 | 29 |
@@ -18,21 +18,19 @@
 | 01:30 | JPY | S&P Global Manufacturing PMI (Jun) | 54.8 | 54.9 | 54.5 |
 | 01:30 | SGD | URA Property Index (QoQ) (Q2) | 0.50% |  | 0.90% |
 | 01:30 | IDR | S&P Global Manufacturing PMI (Jun) | 46.9 |  | 50.0 |
-| 02:30 | AUD | Building Approvals (YoY) (May) | 10.30% |  | 24.40% |
+| 02:30 | AUD | Building Approvals (YoY) (May) | 5.30% |  | 10.90% |
 | 02:30 | AUD | Private House Approvals (May) | 2.8% |  | -1.0% |
 | 03:00 | SGD | Bank Lending (May) | 917.7B |  | 908.4B |
-| 43 min | IDR | Core Inflation (YoY) (Jun) |  | 2.60% | 2.59% |
-| 43 min | IDR | Export Growth (YoY) (May) |  | 4.00% | 21.98% |
-| 43 min | IDR | Import Growth (YoY) (May) |  | 18.00% | 22.49% |
-| 43 min | IDR | Inflation (MoM) (Jun) |  | 0.29% | 0.28% |
-| 43 min | IDR | Inflation (YoY) (Jun) |  | 3.20% | 3.08% |
-| 43 min | IDR | Trade Balance (May) |  | 1.10B | 0.09B |
-| 06:00 | CAD | Budget Balance (Apr) |  |  | -29.73B |
-| 06:00 | CAD | Budget Balance (YoY) (Apr) |  |  | -55.28B |
-| 06:00 | INR | HSBC India Manufacturing PMI (Jun) |  | 54.5 | 55.0 |
-| 06:00 | JPY | Household Confidence (Jun) |  | 34.1 | 33.6 |
-| 07:30 | CHF | Retail Sales (YoY) (May) |  | 1.8% | 1.6% |
-| 07:30 | AUD | Commodity Prices (YoY) (Jun) |  |  | 16.8% |
+| 05:00 | IDR | Core Inflation (YoY) (Jun) | 2.76% | 2.60% | 2.59% |
+| 05:00 | IDR | Export Growth (YoY) (May) | -5.73% | 6.40% | 21.98% |
+| 05:00 | IDR | Import Growth (YoY) (May) | 22.16% | 19.50% | 22.49% |
+| 05:00 | IDR | Inflation (YoY) (Jun) | 3.34% | 3.20% | 3.08% |
+| 05:00 | IDR | Inflation (MoM) (Jun) | 0.44% | 0.30% | 0.28% |
+| 05:00 | IDR | Trade Balance (May) | -1.61B | 1.10B | 0.09B |
+| 06:00 | INR | HSBC India Manufacturing PMI (Jun) | 54.2 | 54.5 | 55.0 |
+| 06:00 | JPY | Household Confidence (Jun) | 33.8 | 34.1 | 33.6 |
+| 50 min | CHF | Retail Sales (YoY) (May) |  | 1.8% | 1.6% |
+| 50 min | AUD | Commodity Prices (YoY) (Jun) |  |  | 16.8% |
 | 09:00 | EUR | Italian Public Deficit (Q1) |  |  | -1.4% |
 | 10:00 | EUR | Core CPI (MoM) (Jun) |  |  | 0.3% |
 | 10:00 | EUR | CPI, n.s.a (Jun) |  |  | 103.13 |
