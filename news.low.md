@@ -37,27 +37,28 @@
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Jun) | 2.2% |  | 2.3% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Jun) | 0.2% |  | 0.3% |
 | 10:00 | ZAR | Manufacturing PMI (Jun) | 47.3 |  | 50.8 |
-| 10:30 | USD | Challenger Job Cuts (Jun) |  |  | 97.006K |
-| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.59% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 1.0% |
-| 12:00 | USD | MBA Purchase Index |  |  | 169.7 |
-| 12:00 | USD | Mortgage Market Index |  |  | 272.1 |
-| 12:00 | USD | Mortgage Refinance Index |  |  | 834.2 |
-| 12:00 | EUR | Car Registration (MoM) (Jun) |  |  | 4.70% |
-| 12:00 | EUR | Car Registration (YoY) (Jun) |  |  | -0.80% |
-| 12:30 | INR | M3 Money Supply |  |  | 11.9% |
-| 12:30 | BRL | Bank lending (MoM) (May) |  |  | 0.3% |
+| 10:30 | USD | Challenger Job Cuts (YoY) | -4.5% |  | 3.4% |
+| 10:30 | USD | Challenger Job Cuts (Jun) | 45.849K |  | 97.006K |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.57% |  | 6.59% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | 0.0% |  | 1.0% |
+| 12:00 | USD | MBA Purchase Index | 170.6 |  | 169.7 |
+| 12:00 | USD | Mortgage Market Index | 272.2 |  | 272.1 |
+| 12:00 | USD | Mortgage Refinance Index | 828.7 |  | 834.2 |
+| 12:10 | EUR | Car Registration (MoM) (Jun) |  |  | 4.70% |
+| 12:10 | EUR | Car Registration (YoY) (Jun) |  |  | -0.80% |
+| 19 min | INR | M3 Money Supply |  |  | 11.9% |
+| 19 min | BRL | Bank lending (MoM) (May) |  |  | 0.3% |
 | 13:15 | ZAR | Total Vehicle Sales (Jun) |  |  | 51.07K |
 | 14:00 | BRL | S&P Global Manufacturing PMI (Jun) |  |  | 49.1 |
 | 15:00 | USD | ISM Manufacturing New Orders Index (Jun) |  |  | 56.8 |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.081M |
 | 15:30 | USD | Crude Oil Imports |  |  | 0.094M |
 | 15:30 | USD | Distillate Fuel Production |  |  | 0.055M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | 3.064M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  | -0.700M | 3.064M |
 | 15:30 | USD | Gasoline Production |  |  | -0.588M |
 | 15:30 | USD | Heating Oil Stockpiles |  |  | 0.722M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.6% |
-| 15:30 | USD | Gasoline Inventories |  |  | 2.064M |
+| 15:30 | USD | Gasoline Inventories |  | -0.950M | 2.064M |
 | 16:00 | MXN | S&P Global Manufacturing PMI (Jun) |  |  | 49.60 |
 | 18:00 | EUR | Italian Car Registration (YoY) (Jun) |  |  | 7.6% |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | 4.066B |

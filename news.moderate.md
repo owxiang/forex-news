@@ -20,6 +20,7 @@
 | 10:00 | EUR | Core CPI (YoY) (Jun) | 2.4% | 2.5% | 2.6% |
 | 10:00 | EUR | CPI (MoM) (Jun) | -0.1% |  | 0.1% |
 | 11:15 | EUR | ECB's Lane Speaks |  |  |  |
+| 34 min | USD | FOMC Member Daly Speaks |  |  |  |
 | 14:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 14:00 | USD | Fed Governor Warsh Speaks |  |  |  |
 | 14:00 | CAD | BoC Gov Macklem Speaks |  |  |  |
