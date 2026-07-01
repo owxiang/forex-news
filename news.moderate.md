@@ -6,8 +6,8 @@
 | 00:50 | JPY | Tankan Big Manufacturing Outlook Index (Q2) | 17 | 13 | 14 |
 | 00:50 | JPY | Tankan Large Manufacturers Index (Q2) | 22 | 16 | 17 |
 | 00:50 | JPY | Tankan Large Non-Manufacturers Index (Q2) | 37 | 36 | 36 |
-| 21 min | AUD | Building Approvals (MoM) (May) |  | 0.5% | -3.4% |
-| 36 min | CNY | RatingDog Manufacturing PMI (MoM) (Jun) |  | 51.9 | 51.8 |
+| 02:30 | AUD | Building Approvals (MoM) (May) | -1.1% | 0.5% | -0.2% |
+| 02:45 | CNY | RatingDog Manufacturing PMI (MoM) (Jun) | 51.7 | 51.9 | 51.8 |
 | 07:00 | GBP | Nationwide HPI (MoM) (Jun) |  | 0.1% | -0.6% |
 | 07:00 | GBP | Nationwide HPI (YoY) (Jun) |  |  | 1.7% |
 | 08:15 | EUR | HCOB Spain Manufacturing PMI (Jun) |  | 51.0 | 51.2 |

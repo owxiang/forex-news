@@ -16,17 +16,17 @@
 | 01:00 | KRW | Trade Balance (Jun) | 36.15B |  | 27.04B |
 | 01:30 | KRW | S&P Global South Korea Manufacturing PMI (Jun) | 52.1 |  | 54.8 |
 | 01:30 | JPY | S&P Global Manufacturing PMI (Jun) | 54.8 | 54.9 | 54.5 |
-| 01:30 | SGD | URA Property Index (QoQ) (Q2) |  |  | 0.90% |
+| 01:30 | SGD | URA Property Index (QoQ) (Q2) | 0.50% |  | 0.90% |
 | 01:30 | IDR | S&P Global Manufacturing PMI (Jun) | 46.9 |  | 50.0 |
-| 21 min | AUD | Building Approvals (YoY) (May) |  |  | 23.10% |
-| 21 min | AUD | Private House Approvals (May) |  |  | -1.0% |
-| 51 min | SGD | Bank Lending (May) |  |  | 908.4B |
-| 05:00 | IDR | Core Inflation (YoY) (Jun) |  | 2.60% | 2.59% |
-| 05:00 | IDR | Export Growth (YoY) (May) |  | 4.00% | 21.98% |
-| 05:00 | IDR | Import Growth (YoY) (May) |  | 18.00% | 22.49% |
-| 05:00 | IDR | Inflation (MoM) (Jun) |  | 0.29% | 0.28% |
-| 05:00 | IDR | Inflation (YoY) (Jun) |  | 3.20% | 3.08% |
-| 05:00 | IDR | Trade Balance (May) |  | 1.10B | 0.09B |
+| 02:30 | AUD | Building Approvals (YoY) (May) | 10.30% |  | 24.40% |
+| 02:30 | AUD | Private House Approvals (May) | 2.8% |  | -1.0% |
+| 03:00 | SGD | Bank Lending (May) | 917.7B |  | 908.4B |
+| 43 min | IDR | Core Inflation (YoY) (Jun) |  | 2.60% | 2.59% |
+| 43 min | IDR | Export Growth (YoY) (May) |  | 4.00% | 21.98% |
+| 43 min | IDR | Import Growth (YoY) (May) |  | 18.00% | 22.49% |
+| 43 min | IDR | Inflation (MoM) (Jun) |  | 0.29% | 0.28% |
+| 43 min | IDR | Inflation (YoY) (Jun) |  | 3.20% | 3.08% |
+| 43 min | IDR | Trade Balance (May) |  | 1.10B | 0.09B |
 | 06:00 | CAD | Budget Balance (Apr) |  |  | -29.73B |
 | 06:00 | CAD | Budget Balance (YoY) (Apr) |  |  | -55.28B |
 | 06:00 | INR | HSBC India Manufacturing PMI (Jun) |  | 54.5 | 55.0 |

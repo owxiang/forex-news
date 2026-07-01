@@ -20,19 +20,19 @@
 | 01:00 | KRW | Low | Trade Balance (Jun) | 36.15B |  | 27.04B |
 | 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Jun) | 52.1 |  | 54.8 |
 | 01:30 | JPY | Low | S&P Global Manufacturing PMI (Jun) | 54.8 | 54.9 | 54.5 |
-| 01:30 | SGD | Low | URA Property Index (QoQ) (Q2) |  |  | 0.90% |
+| 01:30 | SGD | Low | URA Property Index (QoQ) (Q2) | 0.50% |  | 0.90% |
 | 01:30 | IDR | Low | S&P Global Manufacturing PMI (Jun) | 46.9 |  | 50.0 |
-| 21 min | AUD | Low | Building Approvals (YoY) (May) |  |  | 23.10% |
-| 21 min | AUD | Moderate | Building Approvals (MoM) (May) |  | 0.5% | -3.4% |
-| 21 min | AUD | Low | Private House Approvals (May) |  |  | -1.0% |
-| 36 min | CNY | Moderate | RatingDog Manufacturing PMI (MoM) (Jun) |  | 51.9 | 51.8 |
-| 51 min | SGD | Low | Bank Lending (May) |  |  | 908.4B |
-| 05:00 | IDR | Low | Core Inflation (YoY) (Jun) |  | 2.60% | 2.59% |
-| 05:00 | IDR | Low | Export Growth (YoY) (May) |  | 4.00% | 21.98% |
-| 05:00 | IDR | Low | Import Growth (YoY) (May) |  | 18.00% | 22.49% |
-| 05:00 | IDR | Low | Inflation (MoM) (Jun) |  | 0.29% | 0.28% |
-| 05:00 | IDR | Low | Inflation (YoY) (Jun) |  | 3.20% | 3.08% |
-| 05:00 | IDR | Low | Trade Balance (May) |  | 1.10B | 0.09B |
+| 02:30 | AUD | Low | Building Approvals (YoY) (May) | 10.30% |  | 24.40% |
+| 02:30 | AUD | Moderate | Building Approvals (MoM) (May) | -1.1% | 0.5% | -0.2% |
+| 02:30 | AUD | Low | Private House Approvals (May) | 2.8% |  | -1.0% |
+| 02:45 | CNY | Moderate | RatingDog Manufacturing PMI (MoM) (Jun) | 51.7 | 51.9 | 51.8 |
+| 03:00 | SGD | Low | Bank Lending (May) | 917.7B |  | 908.4B |
+| 43 min | IDR | Low | Core Inflation (YoY) (Jun) |  | 2.60% | 2.59% |
+| 43 min | IDR | Low | Export Growth (YoY) (May) |  | 4.00% | 21.98% |
+| 43 min | IDR | Low | Import Growth (YoY) (May) |  | 18.00% | 22.49% |
+| 43 min | IDR | Low | Inflation (MoM) (Jun) |  | 0.29% | 0.28% |
+| 43 min | IDR | Low | Inflation (YoY) (Jun) |  | 3.20% | 3.08% |
+| 43 min | IDR | Low | Trade Balance (May) |  | 1.10B | 0.09B |
 | 06:00 | CAD | Low | Budget Balance (Apr) |  |  | -29.73B |
 | 06:00 | CAD | Low | Budget Balance (YoY) (Apr) |  |  | -55.28B |
 | 06:00 | INR | Low | HSBC India Manufacturing PMI (Jun) |  | 54.5 | 55.0 |
