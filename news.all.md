@@ -96,5 +96,5 @@
 | 17:00 | EUR | Low | Italian Car Registration (YoY) (Jun) | 10.6% |  | 7.6% |
 | 17:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 1.2% | 2.5% | 2.5% |
 | 18:30 | BRL | Low | Foreign Exchange Flows | -1.027B |  | 4.066B |
-| 28 min | USD | High | U.S. President Trump Speaks |  |  |  |
+| 20:15 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 23:45 | NZD | Low | Building Consents (MoM) (May) |  |  | 10.9% |

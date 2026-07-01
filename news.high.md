@@ -8,4 +8,4 @@
 | 15:00 | USD | ISM Manufacturing PMI (Jun) | 53.3 | 53.8 | 54.0 |
 | 15:00 | USD | ISM Manufacturing Prices (Jun) | 73.0 | 77.7 | 82.1 |
 | 15:30 | USD | Crude Oil Inventories | -3.775M | -2.900M | -6.088M |
-| 28 min | USD | U.S. President Trump Speaks |  |  |  |
+| 20:15 | USD | U.S. President Trump Speaks |  |  |  |
