@@ -25,8 +25,8 @@
 | 14:00 | USD | Fed Governor Warsh Speaks |  |  |  |
 | 14:00 | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 14:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 54 min | USD | Construction Spending (MoM) (May) |  | 0.1% | 0.4% |
-| 54 min | USD | ISM Manufacturing Employment (Jun) |  |  | 48.6 |
-| 15:30 | USD | Cushing Crude Oil Inventories |  |  | -1.077M |
+| 15:00 | USD | Construction Spending (MoM) (May) | 0.1% | 0.1% | 0.3% |
+| 15:00 | USD | ISM Manufacturing Employment (Jun) | 49.7 |  | 48.6 |
+| 15:30 | USD | Cushing Crude Oil Inventories | 0.709M |  | -1.077M |
 | 15:30 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 16:30 | USD | Atlanta Fed GDPNow (Q2) |  | 2.5% | 2.5% |
+| 25 min | USD | Atlanta Fed GDPNow (Q2) |  | 2.5% | 2.5% |

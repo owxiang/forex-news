@@ -47,16 +47,16 @@
 | 09:00 | EUR | Low | Italian Public Deficit (Q1) | 7.8% |  | -1.4% |
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Jun) | 51.4 | 51.3 | 51.6 |
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Jun) | 52.5 | 53.1 | 53.9 |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Jun) | 2.4% | 2.5% | 2.6% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Jun) | 0.2% |  | 0.3% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Jun) | 2.4% | 2.5% | 2.6% |
 | 10:00 | EUR | High | CPI (YoY) (Jun) | 2.8% | 3.0% | 3.2% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Jun) | -0.1% |  | 0.1% |
 | 10:00 | EUR | Low | CPI, n.s.a (Jun) | 103.07 |  | 103.13 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jun) | 2.2% |  | 2.3% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jun) | 0.2% |  | 0.3% |
 | 10:00 | ZAR | Low | Manufacturing PMI (Jun) | 47.3 |  | 50.8 |
-| 10:30 | USD | Low | Challenger Job Cuts (Jun) | 45.849K |  | 97.006K |
 | 10:30 | USD | Low | Challenger Job Cuts (YoY) | -4.5% |  | 3.4% |
+| 10:30 | USD | Low | Challenger Job Cuts (Jun) | 45.849K |  | 97.006K |
 | 11:15 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.57% |  | 6.59% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) | 0.0% |  | 1.0% |
@@ -67,32 +67,33 @@
 | 12:00 | EUR | Low | Car Registration (YoY) (Jun) | 7.80% |  | -0.80% |
 | 12:30 | BRL | Low | Bank lending (MoM) (May) | 0.6% |  | 0.3% |
 | 12:45 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
+| 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (Jun) | 15.30% |  | 12.80% |
+| 13:00 | ZAR | Low | Total Vehicle Sales (Jun) | 54.48K |  | 50.99K |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Jun) | 98K | 118K | 122K |
 | 14:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 14:00 | USD | Moderate | Fed Governor Warsh Speaks |  |  |  |
 | 14:00 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 14:00 | BRL | Low | S&P Global Manufacturing PMI (Jun) | 50.8 |  | 49.1 |
 | 14:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 14:00 | ZAR | Low | Total Vehicle Sales (Jun) |  |  | 51.07K |
-| 39 min | USD | High | S&P Global Manufacturing PMI (Jun) |  | 55.7 | 55.1 |
-| 54 min | USD | Moderate | Construction Spending (MoM) (May) |  | 0.1% | 0.4% |
-| 54 min | USD | Moderate | ISM Manufacturing Employment (Jun) |  |  | 48.6 |
-| 54 min | USD | Low | ISM Manufacturing New Orders Index (Jun) |  |  | 56.8 |
-| 54 min | USD | High | ISM Manufacturing PMI (Jun) |  | 53.8 | 54.0 |
-| 54 min | USD | High | ISM Manufacturing Prices (Jun) |  | 77.7 | 82.1 |
-| 15:30 | USD | High | Crude Oil Inventories |  | -2.900M | -6.088M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.081M |
-| 15:30 | USD | Low | Crude Oil Imports |  |  | 0.094M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -1.077M |
-| 15:30 | USD | Low | Distillate Fuel Production |  |  | 0.055M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | -0.700M | 3.064M |
-| 15:30 | USD | Low | Gasoline Production |  |  | -0.588M |
-| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.722M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.6% |
-| 15:30 | USD | Low | Gasoline Inventories |  | -0.950M | 2.064M |
+| 14:45 | USD | High | S&P Global Manufacturing PMI (Jun) | 53.9 | 55.7 | 55.1 |
+| 15:00 | USD | Moderate | Construction Spending (MoM) (May) | 0.1% | 0.1% | 0.3% |
+| 15:00 | USD | Moderate | ISM Manufacturing Employment (Jun) | 49.7 |  | 48.6 |
+| 15:00 | USD | Low | ISM Manufacturing New Orders Index (Jun) | 56.0 |  | 56.8 |
+| 15:00 | USD | High | ISM Manufacturing PMI (Jun) | 53.3 | 53.8 | 54.0 |
+| 15:00 | USD | High | ISM Manufacturing Prices (Jun) | 73.0 | 77.7 | 82.1 |
+| 15:30 | USD | High | Crude Oil Inventories | -3.775M | -2.900M | -6.088M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.085M |  | -0.081M |
+| 15:30 | USD | Low | Crude Oil Imports | 0.370M |  | 0.094M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | 0.709M |  | -1.077M |
+| 15:30 | USD | Low | Distillate Fuel Production | -0.042M |  | 0.055M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks | 2.483M | -0.700M | 3.064M |
+| 15:30 | USD | Low | Gasoline Production | 0.481M |  | -0.588M |
+| 15:30 | USD | Low | Heating Oil Stockpiles | -0.310M |  | 0.722M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 0.5% |  | -0.6% |
+| 15:30 | USD | Low | Gasoline Inventories | -2.333M | -0.950M | 2.064M |
 | 15:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 16:00 | MXN | Low | S&P Global Manufacturing PMI (Jun) |  |  | 49.60 |
-| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 2.5% | 2.5% |
+| 16:00 | MXN | Low | S&P Global Manufacturing PMI (Jun) | 51.30 |  | 49.60 |
+| 25 min | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 2.5% | 2.5% |
 | 18:00 | EUR | Low | Italian Car Registration (YoY) (Jun) |  |  | 7.6% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 4.066B |
 | 20:15 | USD | High | U.S. President Trump Speaks |  |  |  |
