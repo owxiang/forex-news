@@ -5,22 +5,22 @@
 | 00:00 | AUD | AIG Construction Index (Jun) | -38.1 |  | -9.9 |
 | 00:00 | AUD | AIG Manufacturing Index (Jun) | -16.8 |  | -22.4 |
 | 00:00 | AUD | S&P Global Manufacturing PMI (Jun) | 51.5 | 51.2 | 50.7 |
-| 18 min | JPY | Tankan All Small Industry CAPEX (Q2) |  |  | -8.1% |
-| 18 min | JPY | Tankan Large Non-Manufacturers Diffusion Index (Q2) |  | 30 | 29 |
-| 18 min | JPY | Tankan Small Manufacturers Diffusion Index (Q2) |  |  | 4 |
-| 18 min | JPY | Tankan Small Manufacturing Index (Q2) |  | 4 | 7 |
-| 18 min | JPY | Tankan Small Non-Manufacturers Diffusion Index (Q2) |  |  | 8 |
-| 18 min | JPY | Tankan Small Non-Manufacturing Index (Q2) |  |  | 16 |
-| 28 min | KRW | Exports (YoY) (Jun) |  |  | 53.4% |
-| 28 min | KRW | Imports (YoY) (Jun) |  |  | 20.7% |
-| 28 min | KRW | Trade Balance (Jun) |  |  | 27.04B |
-| 58 min | KRW | S&P Global South Korea Manufacturing PMI (Jun) |  |  | 54.8 |
-| 58 min | JPY | S&P Global Manufacturing PMI (Jun) |  | 54.9 | 54.5 |
-| 58 min | SGD | URA Property Index (QoQ) (Q2) |  |  | 0.90% |
-| 58 min | IDR | S&P Global Manufacturing PMI (Jun) |  |  | 50.0 |
-| 02:30 | AUD | Building Approvals (YoY) (May) |  |  | 23.10% |
-| 02:30 | AUD | Private House Approvals (May) |  |  | -1.0% |
-| 03:00 | SGD | Bank Lending (May) |  |  | 908.4B |
+| 00:50 | JPY | Tankan All Small Industry CAPEX (Q2) | -8.3% |  | -8.1% |
+| 00:50 | JPY | Tankan Large Non-Manufacturers Diffusion Index (Q2) | 28 | 30 | 29 |
+| 00:50 | JPY | Tankan Small Manufacturers Diffusion Index (Q2) | 2 |  | 4 |
+| 00:50 | JPY | Tankan Small Manufacturing Index (Q2) | 9 | 4 | 7 |
+| 00:50 | JPY | Tankan Small Non-Manufacturers Diffusion Index (Q2) | 8 |  | 8 |
+| 00:50 | JPY | Tankan Small Non-Manufacturing Index (Q2) | 15 |  | 16 |
+| 01:00 | KRW | Exports (YoY) (Jun) | 70.9% |  | 53.4% |
+| 01:00 | KRW | Imports (YoY) (Jun) | 30.1% |  | 20.7% |
+| 01:00 | KRW | Trade Balance (Jun) | 36.15B |  | 27.04B |
+| 01:30 | KRW | S&P Global South Korea Manufacturing PMI (Jun) | 52.1 |  | 54.8 |
+| 01:30 | JPY | S&P Global Manufacturing PMI (Jun) | 54.8 | 54.9 | 54.5 |
+| 01:30 | SGD | URA Property Index (QoQ) (Q2) |  |  | 0.90% |
+| 01:30 | IDR | S&P Global Manufacturing PMI (Jun) | 46.9 |  | 50.0 |
+| 21 min | AUD | Building Approvals (YoY) (May) |  |  | 23.10% |
+| 21 min | AUD | Private House Approvals (May) |  |  | -1.0% |
+| 51 min | SGD | Bank Lending (May) |  |  | 908.4B |
 | 05:00 | IDR | Core Inflation (YoY) (Jun) |  | 2.60% | 2.59% |
 | 05:00 | IDR | Export Growth (YoY) (May) |  | 4.00% | 21.98% |
 | 05:00 | IDR | Import Growth (YoY) (May) |  | 18.00% | 22.49% |
