@@ -41,20 +41,20 @@
 | 07:30 | AUD | Low | Commodity Prices (YoY) (Jun) | 16.9% |  | 16.8% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Jun) | 49.7 | 51.0 | 51.2 |
 | 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (Jun) | 54.3 | 56.4 | 57.3 |
-| 3 min | EUR | Moderate | HCOB Italy Manufacturing PMI (Jun) |  | 52.4 | 52.9 |
-| 8 min | EUR | Moderate | HCOB France Manufacturing PMI (Jun) |  | 50.7 | 49.7 |
-| 13 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Jun) |  | 50.0 | 50.1 |
-| 18 min | EUR | Low | Italian Public Deficit (Q1) |  |  | -1.4% |
-| 18 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Jun) |  | 51.3 | 51.6 |
-| 48 min | GBP | Moderate | S&P Global Manufacturing PMI (Jun) |  | 53.1 | 53.9 |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Jun) |  | 2.5% | 2.6% |
-| 10:00 | EUR | Low | Core CPI (MoM) (Jun) |  |  | 0.3% |
-| 10:00 | EUR | High | CPI (YoY) (Jun) |  | 3.0% | 3.2% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Jun) |  |  | 0.1% |
-| 10:00 | EUR | Low | CPI, n.s.a (Jun) |  |  | 103.13 |
-| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jun) |  |  | 2.3% |
-| 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jun) |  |  | 0.3% |
-| 10:00 | ZAR | Low | Manufacturing PMI (Jun) |  |  | 50.8 |
+| 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Jun) | 52.2 | 52.4 | 52.9 |
+| 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (Jun) | 51.2 | 50.7 | 49.7 |
+| 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Jun) | 50.3 | 50.0 | 50.1 |
+| 09:00 | EUR | Low | Italian Public Deficit (Q1) | 7.8% |  | -1.4% |
+| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Jun) | 51.4 | 51.3 | 51.6 |
+| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Jun) | 52.5 | 53.1 | 53.9 |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Jun) | 2.4% | 2.5% | 2.6% |
+| 10:00 | EUR | Low | Core CPI (MoM) (Jun) | 0.2% |  | 0.3% |
+| 10:00 | EUR | High | CPI (YoY) (Jun) | 2.8% | 3.0% | 3.2% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Jun) | -0.1% |  | 0.1% |
+| 10:00 | EUR | Low | CPI, n.s.a (Jun) | 103.07 |  | 103.13 |
+| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jun) | 2.2% |  | 2.3% |
+| 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jun) | 0.2% |  | 0.3% |
+| 10:00 | ZAR | Low | Manufacturing PMI (Jun) | 47.3 |  | 50.8 |
 | 10:30 | USD | Low | Challenger Job Cuts (Jun) |  |  | 97.006K |
 | 11:15 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.59% |

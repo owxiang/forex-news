@@ -12,13 +12,13 @@
 | 07:00 | GBP | Nationwide HPI (YoY) (Jun) | 2.2% | 2.4% | 1.7% |
 | 08:15 | EUR | HCOB Spain Manufacturing PMI (Jun) | 49.7 | 51.0 | 51.2 |
 | 08:30 | CHF | procure.ch Manufacturing PMI (Jun) | 54.3 | 56.4 | 57.3 |
-| 3 min | EUR | HCOB Italy Manufacturing PMI (Jun) |  | 52.4 | 52.9 |
-| 8 min | EUR | HCOB France Manufacturing PMI (Jun) |  | 50.7 | 49.7 |
-| 13 min | EUR | HCOB Germany Manufacturing PMI (Jun) |  | 50.0 | 50.1 |
-| 18 min | EUR | HCOB Eurozone Manufacturing PMI (Jun) |  | 51.3 | 51.6 |
-| 48 min | GBP | S&P Global Manufacturing PMI (Jun) |  | 53.1 | 53.9 |
-| 10:00 | EUR | Core CPI (YoY) (Jun) |  | 2.5% | 2.6% |
-| 10:00 | EUR | CPI (MoM) (Jun) |  |  | 0.1% |
+| 08:45 | EUR | HCOB Italy Manufacturing PMI (Jun) | 52.2 | 52.4 | 52.9 |
+| 08:50 | EUR | HCOB France Manufacturing PMI (Jun) | 51.2 | 50.7 | 49.7 |
+| 08:55 | EUR | HCOB Germany Manufacturing PMI (Jun) | 50.3 | 50.0 | 50.1 |
+| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Jun) | 51.4 | 51.3 | 51.6 |
+| 09:30 | GBP | S&P Global Manufacturing PMI (Jun) | 52.5 | 53.1 | 53.9 |
+| 10:00 | EUR | Core CPI (YoY) (Jun) | 2.4% | 2.5% | 2.6% |
+| 10:00 | EUR | CPI (MoM) (Jun) | -0.1% |  | 0.1% |
 | 11:15 | EUR | ECB's Lane Speaks |  |  |  |
 | 14:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 14:00 | USD | Fed Governor Warsh Speaks |  |  |  |

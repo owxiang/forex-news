@@ -31,12 +31,12 @@
 | 06:00 | JPY | Household Confidence (Jun) | 33.8 | 34.1 | 33.6 |
 | 07:30 | CHF | Retail Sales (YoY) (May) | 3.5% | 1.8% | 1.7% |
 | 07:30 | AUD | Commodity Prices (YoY) (Jun) | 16.9% |  | 16.8% |
-| 18 min | EUR | Italian Public Deficit (Q1) |  |  | -1.4% |
-| 10:00 | EUR | Core CPI (MoM) (Jun) |  |  | 0.3% |
-| 10:00 | EUR | CPI, n.s.a (Jun) |  |  | 103.13 |
-| 10:00 | EUR | HICP ex Energy & Food (YoY) (Jun) |  |  | 2.3% |
-| 10:00 | EUR | HICP ex Energy and Food (MoM) (Jun) |  |  | 0.3% |
-| 10:00 | ZAR | Manufacturing PMI (Jun) |  |  | 50.8 |
+| 09:00 | EUR | Italian Public Deficit (Q1) | 7.8% |  | -1.4% |
+| 10:00 | EUR | Core CPI (MoM) (Jun) | 0.2% |  | 0.3% |
+| 10:00 | EUR | CPI, n.s.a (Jun) | 103.07 |  | 103.13 |
+| 10:00 | EUR | HICP ex Energy & Food (YoY) (Jun) | 2.2% |  | 2.3% |
+| 10:00 | EUR | HICP ex Energy and Food (MoM) (Jun) | 0.2% |  | 0.3% |
+| 10:00 | ZAR | Manufacturing PMI (Jun) | 47.3 |  | 50.8 |
 | 10:30 | USD | Challenger Job Cuts (Jun) |  |  | 97.006K |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.59% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 1.0% |
