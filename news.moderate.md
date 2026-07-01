@@ -29,4 +29,4 @@
 | 15:00 | USD | ISM Manufacturing Employment (Jun) | 49.7 |  | 48.6 |
 | 15:30 | USD | Cushing Crude Oil Inventories | 0.709M |  | -1.077M |
 | 15:30 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 25 min | USD | Atlanta Fed GDPNow (Q2) |  | 2.5% | 2.5% |
+| 17:30 | USD | Atlanta Fed GDPNow (Q2) | 1.2% | 2.5% | 2.5% |
