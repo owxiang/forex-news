@@ -46,7 +46,7 @@
 | 15:00 | USD | Low | All Car Sales (Jun) | 2.70M |  | 2.66M |
 | 15:00 | USD | Low | All Truck Sales (Jun) | 13.82M |  | 13.42M |
 | 15:00 | USD | Low | Durables Excluding Defense (MoM) (May) | -4.6% |  | -4.6% |
-| 15:00 | USD | Low | Durables Excluding Transport (MoM) (May) | 1.4% |  | 1.3% |
+| 15:00 | USD | Low | Durables Excluding Transport (MoM) (May) | 1.4% |  | 1.1% |
 | 15:00 | USD | Moderate | Factory Orders (MoM) (May) | -1.3% | -1.7% | 5.3% |
 | 15:00 | USD | Low | Factory orders ex transportation (MoM) (May) | 1.9% |  | 1.7% |
 | 15:15 | EUR | Low | French Car Registration (YoY) (Jun) | 11.4% |  | 3.7% |
@@ -56,6 +56,6 @@
 | 16:45 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 445 |  | 440 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 580 |  | 573 |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,736B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.954T |
+| 51 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,736B |
+| 51 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.954T |
 | 22:00 | KRW | Low | FX Reserves - USD (Jun) |  |  | 426.99B |

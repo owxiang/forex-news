@@ -27,11 +27,11 @@
 | 15:00 | USD | All Car Sales (Jun) | 2.70M |  | 2.66M |
 | 15:00 | USD | All Truck Sales (Jun) | 13.82M |  | 13.42M |
 | 15:00 | USD | Durables Excluding Defense (MoM) (May) | -4.6% |  | -4.6% |
-| 15:00 | USD | Durables Excluding Transport (MoM) (May) | 1.4% |  | 1.3% |
+| 15:00 | USD | Durables Excluding Transport (MoM) (May) | 1.4% |  | 1.1% |
 | 15:00 | USD | Factory orders ex transportation (MoM) (May) | 1.9% |  | 1.7% |
 | 15:15 | EUR | French Car Registration (YoY) (Jun) | 11.4% |  | 3.7% |
 | 15:30 | USD | Natural Gas Storage | 87B | 81B | 76B |
 | 16:30 | USD | 4-Week Bill Auction | 3.605% |  | 3.610% |
 | 16:30 | USD | 8-Week Bill Auction | 3.650% |  | 3.660% |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.954T |
+| 51 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.954T |
 | 22:00 | KRW | FX Reserves - USD (Jun) |  |  | 426.99B |
