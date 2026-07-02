@@ -31,7 +31,7 @@
 | 15:00 | USD | Factory orders ex transportation (MoM) (May) | 1.9% |  | 1.7% |
 | 15:15 | EUR | French Car Registration (YoY) (Jun) | 11.4% |  | 3.7% |
 | 15:30 | USD | Natural Gas Storage | 87B | 81B | 76B |
-| 4 min | USD | 4-Week Bill Auction |  |  | 3.610% |
-| 4 min | USD | 8-Week Bill Auction |  |  | 3.660% |
+| 16:30 | USD | 4-Week Bill Auction | 3.605% |  | 3.610% |
+| 16:30 | USD | 8-Week Bill Auction | 3.650% |  | 3.660% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.954T |
 | 22:00 | KRW | FX Reserves - USD (Jun) |  |  | 426.99B |

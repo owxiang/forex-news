@@ -51,11 +51,11 @@
 | 15:00 | USD | Low | Factory orders ex transportation (MoM) (May) | 1.9% |  | 1.7% |
 | 15:15 | EUR | Low | French Car Registration (YoY) (Jun) | 11.4% |  | 3.7% |
 | 15:30 | USD | Low | Natural Gas Storage | 87B | 81B | 76B |
-| 4 min | USD | Low | 4-Week Bill Auction |  |  | 3.610% |
-| 4 min | USD | Low | 8-Week Bill Auction |  |  | 3.660% |
-| 19 min | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 440 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 573 |
+| 16:30 | USD | Low | 4-Week Bill Auction | 3.605% |  | 3.610% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 3.650% |  | 3.660% |
+| 16:45 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 445 |  | 440 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 580 |  | 573 |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,736B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.954T |
 | 22:00 | KRW | Low | FX Reserves - USD (Jun) |  |  | 426.99B |
