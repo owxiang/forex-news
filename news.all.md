@@ -56,6 +56,6 @@
 | 16:45 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 445 |  | 440 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 580 |  | 573 |
-| 51 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,736B |
-| 51 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.954T |
-| 22:00 | KRW | Low | FX Reserves - USD (Jun) |  |  | 426.99B |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,725B |  | 6,736B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.077T |  | 2.954T |
+| 22:00 | KRW | Low | FX Reserves - USD (Jun) | 427.36B |  | 426.99B |

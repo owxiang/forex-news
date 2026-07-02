@@ -21,4 +21,4 @@
 | 16:45 | GBP | BoE MPC Member Mann Speaks |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 445 |  | 440 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count | 580 |  | 573 |
-| 51 min | USD | Fed's Balance Sheet |  |  | 6,736B |
+| 21:30 | USD | Fed's Balance Sheet | 6,725B |  | 6,736B |
