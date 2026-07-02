@@ -7,18 +7,18 @@
 | 00:50 | JPY | Low | Foreign Bonds Buying | -280.1B |  | 202.1B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -1,816.5B |  | 451.3B |
 | 00:50 | JPY | Low | Monetary Base (YoY) (Jun) | -13.7% | -10.0% | -12.2% |
-| 25 min | AUD | Low | Exports (MoM) (May) |  |  | 7.2% |
-| 25 min | AUD | Low | Imports (MoM) (May) |  |  | 0.8% |
-| 25 min | AUD | Moderate | Trade Balance (May) |  | 2.190B | 1.791B |
-| 04:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 2.649% |
-| 07:30 | CHF | Moderate | CPI (MoM) (Jun) |  | 0.1% | 0.2% |
-| 07:30 | CHF | Low | CPI (YoY) (Jun) |  | 0.5% | 0.6% |
-| 07:45 | EUR | Low | French Government Budget Balance (May) |  |  | -69.6B |
-| 08:00 | EUR | Moderate | Spanish Unemployment Change (Jun) |  | -40.8K | -36.3K |
+| 02:30 | AUD | Low | Exports (MoM) (May) | -6.9% |  | 7.2% |
+| 02:30 | AUD | Low | Imports (MoM) (May) | 2.6% |  | 0.2% |
+| 02:30 | AUD | Moderate | Trade Balance (May) | -3.018B | 2.190B | 1.383B |
+| 04:35 | JPY | Moderate | 10-Year JGB Auction | 2.730% |  | 2.649% |
+| 07:30 | CHF | Moderate | CPI (MoM) (Jun) | 0.0% | 0.1% | 0.2% |
+| 07:30 | CHF | Low | CPI (YoY) (Jun) | 0.5% | 0.5% | 0.6% |
+| 07:45 | EUR | Low | French Government Budget Balance (May) | -93.3B |  | -69.6B |
+| 08:00 | EUR | Moderate | Spanish Unemployment Change (Jun) | -28.7K | -40.8K | -36.3K |
 | 08:30 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 09:00 | EUR | Low | Italian Monthly Unemployment Rate (May) |  | 5.1% | 5.1% |
-| 09:30 | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
-| 09:30 | HKD | Low | Retail Sales (YoY) (May) |  |  | 8.6% |
+| 24 min | EUR | Low | Italian Monthly Unemployment Rate (May) |  | 5.1% | 5.1% |
+| 54 min | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
+| 54 min | HKD | Low | Retail Sales (YoY) (May) |  |  | 8.6% |
 | 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.383% |
 | 09:40 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.772% |
 | 09:40 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.947% |
@@ -26,10 +26,11 @@
 | 10:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Jun) |  |  | 0.45% |
 | 10:00 | EUR | Moderate | Unemployment Rate (May) |  | 6.3% | 6.3% |
 | 11:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 12:45 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Jun) |  | 0.3% | 0.3% |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jun) |  | 3.5% | 3.4% |
 | 13:30 | USD | Low | Average Weekly Hours (Jun) |  | 34.3 | 34.3 |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,821K |
+| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,810K | 1,821K |
 | 13:30 | USD | Low | Government Payrolls (Jun) |  |  | 52.0K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 219K | 215K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 224.25K |
@@ -52,6 +53,7 @@
 | 17:00 | EUR | Low | French Car Registration (YoY) (Jun) |  |  | 3.7% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 440 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 573 |
-| 19:00 | USD | Low | Total Vehicle Sales (Jun) |  |  | 16.10M |
+| 19:00 | USD | Low | Total Vehicle Sales (Jun) |  | 16.00M | 16.10M |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,736B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.954T |
+| 22:00 | KRW | Low | FX Reserves - USD (Jun) |  |  | 426.99B |

@@ -7,12 +7,12 @@
 | 00:50 | JPY | Foreign Bonds Buying | -280.1B |  | 202.1B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | -1,816.5B |  | 451.3B |
 | 00:50 | JPY | Monetary Base (YoY) (Jun) | -13.7% | -10.0% | -12.2% |
-| 25 min | AUD | Exports (MoM) (May) |  |  | 7.2% |
-| 25 min | AUD | Imports (MoM) (May) |  |  | 0.8% |
-| 07:30 | CHF | CPI (YoY) (Jun) |  | 0.5% | 0.6% |
-| 07:45 | EUR | French Government Budget Balance (May) |  |  | -69.6B |
-| 09:00 | EUR | Italian Monthly Unemployment Rate (May) |  | 5.1% | 5.1% |
-| 09:30 | HKD | Retail Sales (YoY) (May) |  |  | 8.6% |
+| 02:30 | AUD | Exports (MoM) (May) | -6.9% |  | 7.2% |
+| 02:30 | AUD | Imports (MoM) (May) | 2.6% |  | 0.2% |
+| 07:30 | CHF | CPI (YoY) (Jun) | 0.5% | 0.5% | 0.6% |
+| 07:45 | EUR | French Government Budget Balance (May) | -93.3B |  | -69.6B |
+| 24 min | EUR | Italian Monthly Unemployment Rate (May) |  | 5.1% | 5.1% |
+| 54 min | HKD | Retail Sales (YoY) (May) |  |  | 8.6% |
 | 09:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.383% |
 | 09:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 2.772% |
 | 09:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.947% |
@@ -30,5 +30,6 @@
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.610% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 3.660% |
 | 17:00 | EUR | French Car Registration (YoY) (Jun) |  |  | 3.7% |
-| 19:00 | USD | Total Vehicle Sales (Jun) |  |  | 16.10M |
+| 19:00 | USD | Total Vehicle Sales (Jun) |  | 16.00M | 16.10M |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.954T |
+| 22:00 | KRW | FX Reserves - USD (Jun) |  |  | 426.99B |
