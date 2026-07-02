@@ -4,11 +4,11 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | KRW | CPI (MoM) (Jun) | 0.1% | 0.1% | 0.5% |
 | 00:00 | KRW | CPI (YoY) (Jun) | 3.2% | 3.2% | 3.1% |
-| 16 min | JPY | Foreign Bonds Buying |  |  | 199.7B |
-| 16 min | JPY | Foreign Investments in Japanese Stocks |  |  | 479.4B |
-| 16 min | JPY | Monetary Base (YoY) (Jun) |  | -10.0% | -12.3% |
-| 02:30 | AUD | Exports (MoM) (May) |  |  | 7.2% |
-| 02:30 | AUD | Imports (MoM) (May) |  |  | 0.8% |
+| 00:50 | JPY | Foreign Bonds Buying | -280.1B |  | 202.1B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks | -1,816.5B |  | 451.3B |
+| 00:50 | JPY | Monetary Base (YoY) (Jun) | -13.7% | -10.0% | -12.2% |
+| 25 min | AUD | Exports (MoM) (May) |  |  | 7.2% |
+| 25 min | AUD | Imports (MoM) (May) |  |  | 0.8% |
 | 07:30 | CHF | CPI (YoY) (Jun) |  | 0.5% | 0.6% |
 | 07:45 | EUR | French Government Budget Balance (May) |  |  | -69.6B |
 | 09:00 | EUR | Italian Monthly Unemployment Rate (May) |  | 5.1% | 5.1% |

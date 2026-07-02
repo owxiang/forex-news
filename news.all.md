@@ -4,12 +4,12 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | KRW | Low | CPI (MoM) (Jun) | 0.1% | 0.1% | 0.5% |
 | 00:00 | KRW | Low | CPI (YoY) (Jun) | 3.2% | 3.2% | 3.1% |
-| 16 min | JPY | Low | Foreign Bonds Buying |  |  | 199.7B |
-| 16 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 479.4B |
-| 16 min | JPY | Low | Monetary Base (YoY) (Jun) |  | -10.0% | -12.3% |
-| 02:30 | AUD | Low | Exports (MoM) (May) |  |  | 7.2% |
-| 02:30 | AUD | Low | Imports (MoM) (May) |  |  | 0.8% |
-| 02:30 | AUD | Moderate | Trade Balance (May) |  | 2.190B | 1.791B |
+| 00:50 | JPY | Low | Foreign Bonds Buying | -280.1B |  | 202.1B |
+| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -1,816.5B |  | 451.3B |
+| 00:50 | JPY | Low | Monetary Base (YoY) (Jun) | -13.7% | -10.0% | -12.2% |
+| 25 min | AUD | Low | Exports (MoM) (May) |  |  | 7.2% |
+| 25 min | AUD | Low | Imports (MoM) (May) |  |  | 0.8% |
+| 25 min | AUD | Moderate | Trade Balance (May) |  | 2.190B | 1.791B |
 | 04:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 2.649% |
 | 07:30 | CHF | Moderate | CPI (MoM) (Jun) |  | 0.1% | 0.2% |
 | 07:30 | CHF | Low | CPI (YoY) (Jun) |  | 0.5% | 0.6% |

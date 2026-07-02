@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Trade Balance (May) |  | 2.190B | 1.791B |
+| 25 min | AUD | Trade Balance (May) |  | 2.190B | 1.791B |
 | 04:35 | JPY | 10-Year JGB Auction |  |  | 2.649% |
 | 07:30 | CHF | CPI (MoM) (Jun) |  | 0.1% | 0.2% |
 | 08:00 | EUR | Spanish Unemployment Change (Jun) |  | -40.8K | -36.3K |
