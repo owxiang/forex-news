@@ -28,21 +28,21 @@
 | 10:00 | EUR | Moderate | Unemployment Rate (May) | 6.2% | 6.3% | 6.2% |
 | 11:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 12:45 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
-| 13:30 | USD | High | Average Hourly Earnings (MoM) (Jun) |  | 0.3% | 0.3% |
-| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jun) |  | 3.5% | 3.4% |
-| 13:30 | USD | Low | Average Weekly Hours (Jun) |  | 34.3 | 34.3 |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,810K | 1,821K |
-| 13:30 | USD | Low | Government Payrolls (Jun) |  |  | 52.0K |
-| 13:30 | USD | High | Initial Jobless Claims |  | 219K | 215K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 224.25K |
-| 13:30 | USD | Low | Manufacturing Payrolls (Jun) |  | 3K | 7K |
-| 13:30 | USD | High | Nonfarm Payrolls (Jun) |  | 114K | 172K |
-| 13:30 | USD | Moderate | Participation Rate (Jun) |  |  | 61.8% |
-| 13:30 | USD | Moderate | Private Nonfarm Payrolls (Jun) |  | 115K | 120K |
-| 13:30 | USD | Moderate | U6 Unemployment Rate (Jun) |  |  | 8.1% |
-| 13:30 | USD | High | Unemployment Rate (Jun) |  | 4.3% | 4.3% |
+| 13:30 | USD | High | Average Hourly Earnings (MoM) (Jun) | 0.3% | 0.3% | 0.3% |
+| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jun) | 3.5% | 3.5% | 3.4% |
+| 13:30 | USD | Low | Average Weekly Hours (Jun) | 34.3 | 34.3 | 34.3 |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,814K | 1,810K | 1,812K |
+| 13:30 | USD | Low | Government Payrolls (Jun) | 8.0K |  | 32.0K |
+| 13:30 | USD | High | Initial Jobless Claims | 215K | 219K | 216K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 222.00K |  | 224.50K |
+| 13:30 | USD | Low | Manufacturing Payrolls (Jun) | 3K | 3K | -2K |
+| 13:30 | USD | High | Nonfarm Payrolls (Jun) | 57K | 114K | 129K |
+| 13:30 | USD | Moderate | Participation Rate (Jun) | 61.5% |  | 61.8% |
+| 13:30 | USD | Moderate | Private Nonfarm Payrolls (Jun) | 49K | 110K | 97K |
+| 13:30 | USD | Moderate | U6 Unemployment Rate (Jun) | 7.9% |  | 8.1% |
+| 13:30 | USD | High | Unemployment Rate (Jun) | 4.2% | 4.3% | 4.3% |
 | 14:00 | SGD | Low | S&P Global Manufacturing PMI (Jun) |  |  | 51.0 |
-| 14:30 | CAD | Low | S&P Global Manufacturing PMI (Jun) |  |  | 52.9 |
+| 30 min | CAD | Low | S&P Global Manufacturing PMI (Jun) |  |  | 52.9 |
 | 15:00 | USD | Low | Durables Excluding Defense (MoM) (May) |  |  | -4.6% |
 | 15:00 | USD | Low | Durables Excluding Transport (MoM) (May) |  |  | 1.3% |
 | 15:00 | USD | Moderate | Factory Orders (MoM) (May) |  | -1.7% | 4.8% |

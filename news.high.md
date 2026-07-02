@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:30 | USD | Average Hourly Earnings (MoM) (Jun) |  | 0.3% | 0.3% |
-| 13:30 | USD | Initial Jobless Claims |  | 219K | 215K |
-| 13:30 | USD | Nonfarm Payrolls (Jun) |  | 114K | 172K |
-| 13:30 | USD | Unemployment Rate (Jun) |  | 4.3% | 4.3% |
+| 13:30 | USD | Average Hourly Earnings (MoM) (Jun) | 0.3% | 0.3% | 0.3% |
+| 13:30 | USD | Initial Jobless Claims | 215K | 219K | 216K |
+| 13:30 | USD | Nonfarm Payrolls (Jun) | 57K | 114K | 129K |
+| 13:30 | USD | Unemployment Rate (Jun) | 4.2% | 4.3% | 4.3% |

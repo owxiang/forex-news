@@ -18,12 +18,12 @@
 | 09:40 | EUR | Spanish 5-Year Bonos Auction | 2.835% |  | 2.947% |
 | 09:40 | EUR | Spanish 7-Year Obligacion Auction | 3.157% |  | 3.032% |
 | 09:50 | EUR | French 10-Year OAT Auction | 3.68% |  | 3.80% |
-| 13:30 | USD | Average Weekly Hours (Jun) |  | 34.3 | 34.3 |
-| 13:30 | USD | Government Payrolls (Jun) |  |  | 52.0K |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 224.25K |
-| 13:30 | USD | Manufacturing Payrolls (Jun) |  | 3K | 7K |
+| 13:30 | USD | Average Weekly Hours (Jun) | 34.3 | 34.3 | 34.3 |
+| 13:30 | USD | Government Payrolls (Jun) | 8.0K |  | 32.0K |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 222.00K |  | 224.50K |
+| 13:30 | USD | Manufacturing Payrolls (Jun) | 3K | 3K | -2K |
 | 14:00 | SGD | S&P Global Manufacturing PMI (Jun) |  |  | 51.0 |
-| 14:30 | CAD | S&P Global Manufacturing PMI (Jun) |  |  | 52.9 |
+| 30 min | CAD | S&P Global Manufacturing PMI (Jun) |  |  | 52.9 |
 | 15:00 | USD | Durables Excluding Defense (MoM) (May) |  |  | -4.6% |
 | 15:00 | USD | Durables Excluding Transport (MoM) (May) |  |  | 1.3% |
 | 15:00 | USD | Factory orders ex transportation (MoM) (May) |  |  | 1.3% |

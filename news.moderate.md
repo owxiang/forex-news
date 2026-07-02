@@ -12,11 +12,11 @@
 | 10:00 | EUR | Unemployment Rate (May) | 6.2% | 6.3% | 6.2% |
 | 11:00 | EUR | ECB's Elderson Speaks |  |  |  |
 | 12:45 | USD | FOMC Member Daly Speaks |  |  |  |
-| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Jun) |  | 3.5% | 3.4% |
-| 13:30 | USD | Continuing Jobless Claims |  | 1,810K | 1,821K |
-| 13:30 | USD | Participation Rate (Jun) |  |  | 61.8% |
-| 13:30 | USD | Private Nonfarm Payrolls (Jun) |  | 115K | 120K |
-| 13:30 | USD | U6 Unemployment Rate (Jun) |  |  | 8.1% |
+| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Jun) | 3.5% | 3.5% | 3.4% |
+| 13:30 | USD | Continuing Jobless Claims | 1,814K | 1,810K | 1,812K |
+| 13:30 | USD | Participation Rate (Jun) | 61.5% |  | 61.8% |
+| 13:30 | USD | Private Nonfarm Payrolls (Jun) | 49K | 110K | 97K |
+| 13:30 | USD | U6 Unemployment Rate (Jun) | 7.9% |  | 8.1% |
 | 15:00 | USD | Factory Orders (MoM) (May) |  | -1.7% | 4.8% |
 | 16:45 | GBP | BoE MPC Member Mann Speaks |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 440 |
