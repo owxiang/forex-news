@@ -16,15 +16,16 @@
 | 07:45 | EUR | Low | French Government Budget Balance (May) | -93.3B |  | -69.6B |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change (Jun) | -28.7K | -40.8K | -36.3K |
 | 08:30 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 24 min | EUR | Low | Italian Monthly Unemployment Rate (May) |  | 5.1% | 5.1% |
-| 54 min | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
-| 54 min | HKD | Low | Retail Sales (YoY) (May) |  |  | 8.6% |
-| 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.383% |
-| 09:40 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.772% |
-| 09:40 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.947% |
-| 09:50 | EUR | Low | French 10-Year OAT Auction |  |  | 3.80% |
-| 10:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Jun) |  |  | 0.45% |
-| 10:00 | EUR | Moderate | Unemployment Rate (May) |  | 6.3% | 6.3% |
+| 09:00 | USD | Low | Total Vehicle Sales (Jun) | 16.50M | 16.10M | 16.10M |
+| 09:00 | EUR | Low | Italian Monthly Unemployment Rate (May) | 5.0% | 5.1% | 5.1% |
+| 09:30 | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
+| 09:30 | HKD | Low | Retail Sales (YoY) (May) | 7.9% |  | 8.6% |
+| 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction | 3.395% |  | 3.383% |
+| 09:40 | EUR | Low | Spanish 5-Year Bonos Auction | 2.835% |  | 2.947% |
+| 09:40 | EUR | Low | Spanish 7-Year Obligacion Auction | 3.157% |  | 3.032% |
+| 09:50 | EUR | Low | French 10-Year OAT Auction | 3.68% |  | 3.80% |
+| 10:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Jun) | 0.18% |  | 0.45% |
+| 10:00 | EUR | Moderate | Unemployment Rate (May) | 6.2% | 6.3% | 6.2% |
 | 11:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 12:45 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Jun) |  | 0.3% | 0.3% |
@@ -53,7 +54,6 @@
 | 17:00 | EUR | Low | French Car Registration (YoY) (Jun) |  |  | 3.7% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 440 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 573 |
-| 19:00 | USD | Low | Total Vehicle Sales (Jun) |  | 16.00M | 16.10M |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,736B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.954T |
 | 22:00 | KRW | Low | FX Reserves - USD (Jun) |  |  | 426.99B |
