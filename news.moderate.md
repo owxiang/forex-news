@@ -1,24 +1,18 @@
-## 02 July 2026 - Moderate Impact Forex News
+## 03 July 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Trade Balance (May) | -3.018B | 2.190B | 1.383B |
-| 04:35 | JPY | 10-Year JGB Auction | 2.730% |  | 2.649% |
-| 07:30 | CHF | CPI (MoM) (Jun) | 0.0% | 0.1% | 0.2% |
-| 08:00 | EUR | Spanish Unemployment Change (Jun) | -28.7K | -40.8K | -36.3K |
-| 08:30 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 09:30 | GBP | BOE Credit Conditions Survey |  |  |  |
-| 10:00 | BRL | IPC-Fipe Inflation Index (MoM) (Jun) | 0.18% |  | 0.45% |
-| 10:00 | EUR | Unemployment Rate (May) | 6.2% | 6.3% | 6.2% |
-| 11:00 | EUR | ECB's Elderson Speaks |  |  |  |
-| 12:45 | USD | FOMC Member Daly Speaks |  |  |  |
-| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Jun) | 3.5% | 3.5% | 3.4% |
-| 13:30 | USD | Continuing Jobless Claims | 1,814K | 1,810K | 1,812K |
-| 13:30 | USD | Participation Rate (Jun) | 61.5% |  | 61.8% |
-| 13:30 | USD | Private Nonfarm Payrolls (Jun) | 49K | 110K | 97K |
-| 13:30 | USD | U6 Unemployment Rate (Jun) | 7.9% |  | 8.1% |
-| 15:00 | USD | Factory Orders (MoM) (May) | -1.3% | -1.7% | 5.3% |
-| 16:45 | GBP | BoE MPC Member Mann Speaks |  |  |  |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 445 |  | 440 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count | 580 |  | 573 |
-| 21:30 | USD | Fed's Balance Sheet | 6,725B |  | 6,736B |
+| 01:30 | JPY | S&P Global Services PMI (Jun) |  | 51.8 | 50.0 |
+| 02:45 | CNY | RatingDog Services PMI (Jun) |  | 53.0 | 54.4 |
+| 08:15 | EUR | HCOB Spain Services PMI (Jun) |  | 51.0 | 50.1 |
+| 08:45 | EUR | HCOB Italy Services PMI (Jun) |  | 50.3 | 49.4 |
+| 08:50 | EUR | HCOB France Services PMI (Jun) |  | 47.4 | 47.4 |
+| 08:55 | EUR | HCOB Germany Services PMI (Jun) |  | 46.8 | 48.1 |
+| 09:00 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 09:00 | EUR | HCOB Eurozone Composite PMI (Jun) |  | 49.5 | 49.5 |
+| 09:00 | EUR | HCOB Eurozone Services PMI (Jun) |  | 48.9 | 48.9 |
+| 09:30 | GBP | S&P Global Composite PMI (Jun) |  | 49.4 | 49.7 |
+| 09:30 | GBP | S&P Global Services PMI (Jun) |  | 48.7 | 49.3 |
+| 13:00 | BRL | Industrial Production (YoY) (May) |  | 1.3% | 2.7% |
+| 16:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 16:00 | EUR | German Buba President Nagel Speaks |  |  |  |
