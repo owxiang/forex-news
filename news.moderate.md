@@ -17,8 +17,8 @@
 | 13:30 | USD | Participation Rate (Jun) | 61.5% |  | 61.8% |
 | 13:30 | USD | Private Nonfarm Payrolls (Jun) | 49K | 110K | 97K |
 | 13:30 | USD | U6 Unemployment Rate (Jun) | 7.9% |  | 8.1% |
-| 15:00 | USD | Factory Orders (MoM) (May) |  | -1.7% | 4.8% |
-| 16:45 | GBP | BoE MPC Member Mann Speaks |  |  |  |
+| 15:00 | USD | Factory Orders (MoM) (May) | -1.3% | -1.7% | 5.3% |
+| 19 min | GBP | BoE MPC Member Mann Speaks |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 440 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 573 |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,736B |

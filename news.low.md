@@ -22,14 +22,16 @@
 | 13:30 | USD | Government Payrolls (Jun) | 8.0K |  | 32.0K |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 222.00K |  | 224.50K |
 | 13:30 | USD | Manufacturing Payrolls (Jun) | 3K | 3K | -2K |
-| 14:00 | SGD | S&P Global Manufacturing PMI (Jun) |  |  | 51.0 |
-| 30 min | CAD | S&P Global Manufacturing PMI (Jun) |  |  | 52.9 |
-| 15:00 | USD | Durables Excluding Defense (MoM) (May) |  |  | -4.6% |
-| 15:00 | USD | Durables Excluding Transport (MoM) (May) |  |  | 1.3% |
-| 15:00 | USD | Factory orders ex transportation (MoM) (May) |  |  | 1.3% |
-| 15:30 | USD | Natural Gas Storage |  | 81B | 76B |
-| 16:30 | USD | 4-Week Bill Auction |  |  | 3.610% |
-| 16:30 | USD | 8-Week Bill Auction |  |  | 3.660% |
-| 17:00 | EUR | French Car Registration (YoY) (Jun) |  |  | 3.7% |
+| 14:00 | SGD | S&P Global Manufacturing PMI (Jun) | 51.3 |  | 51.0 |
+| 14:30 | CAD | S&P Global Manufacturing PMI (Jun) | 53.0 |  | 52.9 |
+| 15:00 | USD | All Car Sales (Jun) | 2.70M |  | 2.66M |
+| 15:00 | USD | All Truck Sales (Jun) | 13.82M |  | 13.42M |
+| 15:00 | USD | Durables Excluding Defense (MoM) (May) | -4.6% |  | -4.6% |
+| 15:00 | USD | Durables Excluding Transport (MoM) (May) | 1.4% |  | 1.3% |
+| 15:00 | USD | Factory orders ex transportation (MoM) (May) | 1.9% |  | 1.7% |
+| 15:15 | EUR | French Car Registration (YoY) (Jun) | 11.4% |  | 3.7% |
+| 15:30 | USD | Natural Gas Storage | 87B | 81B | 76B |
+| 4 min | USD | 4-Week Bill Auction |  |  | 3.610% |
+| 4 min | USD | 8-Week Bill Auction |  |  | 3.660% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.954T |
 | 22:00 | KRW | FX Reserves - USD (Jun) |  |  | 426.99B |

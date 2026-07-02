@@ -41,17 +41,19 @@
 | 13:30 | USD | Moderate | Private Nonfarm Payrolls (Jun) | 49K | 110K | 97K |
 | 13:30 | USD | Moderate | U6 Unemployment Rate (Jun) | 7.9% |  | 8.1% |
 | 13:30 | USD | High | Unemployment Rate (Jun) | 4.2% | 4.3% | 4.3% |
-| 14:00 | SGD | Low | S&P Global Manufacturing PMI (Jun) |  |  | 51.0 |
-| 30 min | CAD | Low | S&P Global Manufacturing PMI (Jun) |  |  | 52.9 |
-| 15:00 | USD | Low | Durables Excluding Defense (MoM) (May) |  |  | -4.6% |
-| 15:00 | USD | Low | Durables Excluding Transport (MoM) (May) |  |  | 1.3% |
-| 15:00 | USD | Moderate | Factory Orders (MoM) (May) |  | -1.7% | 4.8% |
-| 15:00 | USD | Low | Factory orders ex transportation (MoM) (May) |  |  | 1.3% |
-| 15:30 | USD | Low | Natural Gas Storage |  | 81B | 76B |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.610% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.660% |
-| 16:45 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
-| 17:00 | EUR | Low | French Car Registration (YoY) (Jun) |  |  | 3.7% |
+| 14:00 | SGD | Low | S&P Global Manufacturing PMI (Jun) | 51.3 |  | 51.0 |
+| 14:30 | CAD | Low | S&P Global Manufacturing PMI (Jun) | 53.0 |  | 52.9 |
+| 15:00 | USD | Low | All Car Sales (Jun) | 2.70M |  | 2.66M |
+| 15:00 | USD | Low | All Truck Sales (Jun) | 13.82M |  | 13.42M |
+| 15:00 | USD | Low | Durables Excluding Defense (MoM) (May) | -4.6% |  | -4.6% |
+| 15:00 | USD | Low | Durables Excluding Transport (MoM) (May) | 1.4% |  | 1.3% |
+| 15:00 | USD | Moderate | Factory Orders (MoM) (May) | -1.3% | -1.7% | 5.3% |
+| 15:00 | USD | Low | Factory orders ex transportation (MoM) (May) | 1.9% |  | 1.7% |
+| 15:15 | EUR | Low | French Car Registration (YoY) (Jun) | 11.4% |  | 3.7% |
+| 15:30 | USD | Low | Natural Gas Storage | 87B | 81B | 76B |
+| 4 min | USD | Low | 4-Week Bill Auction |  |  | 3.610% |
+| 4 min | USD | Low | 8-Week Bill Auction |  |  | 3.660% |
+| 19 min | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 440 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 573 |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,736B |
