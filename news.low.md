@@ -25,3 +25,15 @@
 | 13:00 | BRL | Industrial Production (MoM) (May) | -0.2% | 0.3% | 0.7% |
 | 14:00 | BRL | S&P Global Composite PMI (Jun) | 50.7 |  | 49.5 |
 | 14:00 | BRL | S&P Global Services PMI (Jun) | 51.3 |  | 50.4 |
+| 19:00 | BRL | Trade Balance (Jun) | 9.76B |  | 7.82B |
+| 19:00 | USD | OPEC Crude Oil Production Algeria (Barrel) | 0.99M |  | 0.97M |
+| 19:00 | USD | OPEC Crude Oil Production Congo (Barrel) | 0.27M |  | 0.27M |
+| 19:00 | USD | OPEC Crude Oil Production Gabon (Barrel) | 0.22M |  | 0.22M |
+| 19:00 | USD | OPEC Crude Oil Production Guinea (Barrel) | 0.05M |  | 0.05M |
+| 19:00 | USD | OPEC Crude oil Production Iran (Barrel) | 3.00M |  | 2.00M |
+| 19:00 | USD | OPEC Crude oil Production Iraq (Barrel) | 2.00M |  | 1.56M |
+| 19:00 | USD | OPEC Crude Oil Production Kuwait (Barrel) | 1.65M |  | 0.56M |
+| 19:00 | USD | OPEC Crude Oil Production Libya (Barrel) | 1.30M |  | 1.25M |
+| 19:00 | USD | OPEC Crude Oil Production Nigeria (Barrel) | 1.65M |  | 1.55M |
+| 19:00 | USD | OPEC Crude oil Production Saudi Arabia (Barrel) | 7.20M |  | 6.50M |
+| 19:00 | USD | OPEC Crude oil Production Venezuela (Barrel) | 1.10M |  | 1.13M |
