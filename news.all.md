@@ -4,9 +4,9 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | AUD | Low | S&P Global Manufacturing & Services PMI (Jun) | 50.40 | 49.80 | 48.70 |
 | 00:00 | AUD | Low | S&P Global Services PMI (Jun) | 50.5 | 49.9 | 48.7 |
-| 01:30 | JPY | Low | Manufacturing & Services PMI (Jun) |  | 52.50 | 52.50 |
-| 01:30 | JPY | Moderate | S&P Global Services PMI (Jun) |  | 51.8 | 50.0 |
-| 02:45 | CNY | Moderate | RatingDog Services PMI (Jun) |  | 53.0 | 54.4 |
+| 01:30 | JPY | Low | Manufacturing & Services PMI (Jun) | 52.80 | 52.50 | 51.10 |
+| 01:30 | JPY | Moderate | S&P Global Services PMI (Jun) | 52.2 | 51.8 | 50.0 |
+| 02:45 | CNY | Moderate | RatingDog Services PMI (Jun) | 54.1 | 53.0 | 54.4 |
 | 06:00 | INR | Low | HSBC India Services PMI (Jun) |  | 57.3 | 57.3 |
 | 06:00 | INR | Low | HSBC Manufacturing & Services PMI (Jun) |  | 57.40 | 59.30 |
 | 07:00 | NOK | Low | Unemployment Rate n.s.a. (Jun) |  | 1.90% | 1.90% |

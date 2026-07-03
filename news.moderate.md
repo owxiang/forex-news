@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | JPY | S&P Global Services PMI (Jun) |  | 51.8 | 50.0 |
-| 02:45 | CNY | RatingDog Services PMI (Jun) |  | 53.0 | 54.4 |
+| 01:30 | JPY | S&P Global Services PMI (Jun) | 52.2 | 51.8 | 50.0 |
+| 02:45 | CNY | RatingDog Services PMI (Jun) | 54.1 | 53.0 | 54.4 |
 | 08:15 | EUR | HCOB Spain Services PMI (Jun) |  | 51.0 | 50.1 |
 | 08:45 | EUR | HCOB Italy Services PMI (Jun) |  | 50.3 | 49.4 |
 | 08:50 | EUR | HCOB France Services PMI (Jun) |  | 47.4 | 47.4 |

@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | AUD | S&P Global Manufacturing & Services PMI (Jun) | 50.40 | 49.80 | 48.70 |
 | 00:00 | AUD | S&P Global Services PMI (Jun) | 50.5 | 49.9 | 48.7 |
-| 01:30 | JPY | Manufacturing & Services PMI (Jun) |  | 52.50 | 52.50 |
+| 01:30 | JPY | Manufacturing & Services PMI (Jun) | 52.80 | 52.50 | 51.10 |
 | 06:00 | INR | HSBC India Services PMI (Jun) |  | 57.3 | 57.3 |
 | 06:00 | INR | HSBC Manufacturing & Services PMI (Jun) |  | 57.40 | 59.30 |
 | 07:00 | NOK | Unemployment Rate n.s.a. (Jun) |  | 1.90% | 1.90% |
