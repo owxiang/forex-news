@@ -23,6 +23,6 @@
 | 13:00 | MXN | Consumer Confidence (Jun) | 43.8 |  | 43.5 |
 | 13:00 | MXN | Consumer Confidence n.s.a. (Jun) | 43.8 |  | 43.1 |
 | 13:00 | BRL | Industrial Production (MoM) (May) | -0.2% | 0.3% | 0.7% |
-| 2 min | BRL | S&P Global Composite PMI (Jun) |  |  | 49.5 |
-| 2 min | BRL | S&P Global Services PMI (Jun) |  |  | 50.4 |
+| 14:00 | BRL | S&P Global Composite PMI (Jun) | 50.7 |  | 49.5 |
+| 14:00 | BRL | S&P Global Services PMI (Jun) | 51.3 |  | 50.4 |
 | 22:00 | KRW | FX Reserves - USD (Jun) |  |  | 426.99B |

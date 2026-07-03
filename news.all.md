@@ -35,8 +35,8 @@
 | 13:00 | MXN | Low | Consumer Confidence n.s.a. (Jun) | 43.8 |  | 43.1 |
 | 13:00 | BRL | Moderate | Industrial Production (YoY) (May) | 0.2% | 1.3% | 2.7% |
 | 13:00 | BRL | Low | Industrial Production (MoM) (May) | -0.2% | 0.3% | 0.7% |
-| 2 min | BRL | Low | S&P Global Composite PMI (Jun) |  |  | 49.5 |
-| 2 min | BRL | Low | S&P Global Services PMI (Jun) |  |  | 50.4 |
+| 14:00 | BRL | Low | S&P Global Composite PMI (Jun) | 50.7 |  | 49.5 |
+| 14:00 | BRL | Low | S&P Global Services PMI (Jun) | 51.3 |  | 50.4 |
 | 16:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 16:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 22:00 | KRW | Low | FX Reserves - USD (Jun) |  |  | 426.99B |
