@@ -14,25 +14,25 @@
 | 08:00 | EUR | Low | Spanish Industrial Production (YoY) (May) | 3.4% |  | 2.3% |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Jun) | 54.2 | 51.0 | 50.1 |
 | 08:15 | ZAR | Low | S&P Global Manufacturing PMI (Jun) | 50.5 |  | 49.6 |
-| 19 min | EUR | Low | HCOB Italy Composite PMI (Jun) |  |  | 50.4 |
-| 19 min | EUR | Moderate | HCOB Italy Services PMI (Jun) |  | 50.3 | 49.4 |
-| 24 min | EUR | Low | HCOB France Composite PMI (Jun) |  | 47.6 | 44.9 |
-| 24 min | EUR | Moderate | HCOB France Services PMI (Jun) |  | 47.4 | 44.3 |
-| 29 min | EUR | Low | HCOB Germany Composite PMI (Jun) |  | 48.0 | 48.8 |
-| 29 min | EUR | Moderate | HCOB Germany Services PMI (Jun) |  | 46.8 | 48.1 |
-| 34 min | EUR | Low | Italian Retail Sales (MoM) (May) |  | 0.2% | 0.0% |
-| 34 min | EUR | Low | Italian Retail Sales (YoY) (May) |  |  | 1.6% |
-| 34 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 34 min | EUR | Moderate | HCOB Eurozone Composite PMI (Jun) |  | 49.5 | 48.5 |
-| 34 min | EUR | Moderate | HCOB Eurozone Services PMI (Jun) |  | 48.9 | 47.7 |
-| 09:30 | GBP | Moderate | S&P Global Composite PMI (Jun) |  | 49.4 | 49.7 |
-| 09:30 | GBP | Moderate | S&P Global Services PMI (Jun) |  | 48.7 | 49.3 |
-| 10:00 | NOK | Low | House Price Index (YoY) (Jun) |  |  | 3.80% |
-| 11:00 | EUR | Low | German Car Registration (YoY) (Jun) |  |  | 0.1% |
-| 11:00 | EUR | Low | Spanish Consumer Confidence (May) |  |  | 77.7 |
+| 08:45 | EUR | Low | HCOB Italy Composite PMI (Jun) | 50.8 |  | 50.4 |
+| 08:45 | EUR | Moderate | HCOB Italy Services PMI (Jun) | 50.2 | 50.3 | 49.4 |
+| 08:50 | EUR | Low | HCOB France Composite PMI (Jun) | 47.2 | 47.6 | 44.9 |
+| 08:50 | EUR | Moderate | HCOB France Services PMI (Jun) | 46.8 | 47.4 | 44.3 |
+| 08:55 | EUR | Low | HCOB Germany Composite PMI (Jun) | 49.5 | 48.0 | 48.8 |
+| 08:55 | EUR | Moderate | HCOB Germany Services PMI (Jun) | 48.6 | 46.8 | 48.1 |
+| 09:00 | EUR | Low | Italian Retail Sales (MoM) (May) | 0.2% | 0.2% | 0.0% |
+| 09:00 | EUR | Low | Italian Retail Sales (YoY) (May) | 2.2% |  | 1.7% |
+| 09:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Jun) | 50.0 | 49.5 | 48.5 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Jun) | 49.4 | 48.9 | 47.7 |
+| 09:30 | GBP | Moderate | S&P Global Composite PMI (Jun) | 49.3 | 49.4 | 49.7 |
+| 09:30 | GBP | Moderate | S&P Global Services PMI (Jun) | 48.8 | 48.7 | 49.3 |
+| 10:00 | NOK | Low | House Price Index (YoY) (Jun) | 3.90% |  | 3.80% |
+| 11:00 | EUR | Low | German Car Registration (YoY) (Jun) | 15.7% |  | 0.1% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 672.59B |
 | 13:00 | MXN | Low | Consumer Confidence (Jun) |  |  | 43.5 |
 | 13:00 | MXN | Low | Consumer Confidence n.s.a. (Jun) |  |  | 43.1 |
+| 13:00 | EUR | Low | Spanish Consumer Confidence (May) |  |  | 77.7 |
 | 13:00 | BRL | Moderate | Industrial Production (YoY) (May) |  | 1.3% | 2.7% |
 | 13:00 | BRL | Low | Industrial Production (MoM) (May) |  | 0.3% | 0.7% |
 | 14:00 | BRL | Low | S&P Global Composite PMI (Jun) |  |  | 49.5 |

@@ -11,17 +11,17 @@
 | 07:45 | EUR | French Industrial Production (MoM) (May) | -0.1% | -0.3% | 0.3% |
 | 08:00 | EUR | Spanish Industrial Production (YoY) (May) | 3.4% |  | 2.3% |
 | 08:15 | ZAR | S&P Global Manufacturing PMI (Jun) | 50.5 |  | 49.6 |
-| 19 min | EUR | HCOB Italy Composite PMI (Jun) |  |  | 50.4 |
-| 24 min | EUR | HCOB France Composite PMI (Jun) |  | 47.6 | 44.9 |
-| 29 min | EUR | HCOB Germany Composite PMI (Jun) |  | 48.0 | 48.8 |
-| 34 min | EUR | Italian Retail Sales (MoM) (May) |  | 0.2% | 0.0% |
-| 34 min | EUR | Italian Retail Sales (YoY) (May) |  |  | 1.6% |
-| 10:00 | NOK | House Price Index (YoY) (Jun) |  |  | 3.80% |
-| 11:00 | EUR | German Car Registration (YoY) (Jun) |  |  | 0.1% |
-| 11:00 | EUR | Spanish Consumer Confidence (May) |  |  | 77.7 |
+| 08:45 | EUR | HCOB Italy Composite PMI (Jun) | 50.8 |  | 50.4 |
+| 08:50 | EUR | HCOB France Composite PMI (Jun) | 47.2 | 47.6 | 44.9 |
+| 08:55 | EUR | HCOB Germany Composite PMI (Jun) | 49.5 | 48.0 | 48.8 |
+| 09:00 | EUR | Italian Retail Sales (MoM) (May) | 0.2% | 0.2% | 0.0% |
+| 09:00 | EUR | Italian Retail Sales (YoY) (May) | 2.2% |  | 1.7% |
+| 10:00 | NOK | House Price Index (YoY) (Jun) | 3.90% |  | 3.80% |
+| 11:00 | EUR | German Car Registration (YoY) (Jun) | 15.7% |  | 0.1% |
 | 12:30 | INR | FX Reserves, USD |  |  | 672.59B |
 | 13:00 | MXN | Consumer Confidence (Jun) |  |  | 43.5 |
 | 13:00 | MXN | Consumer Confidence n.s.a. (Jun) |  |  | 43.1 |
+| 13:00 | EUR | Spanish Consumer Confidence (May) |  |  | 77.7 |
 | 13:00 | BRL | Industrial Production (MoM) (May) |  | 0.3% | 0.7% |
 | 14:00 | BRL | S&P Global Composite PMI (Jun) |  |  | 49.5 |
 | 14:00 | BRL | S&P Global Services PMI (Jun) |  |  | 50.4 |
