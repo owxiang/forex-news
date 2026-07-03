@@ -18,11 +18,11 @@
 | 09:00 | EUR | Italian Retail Sales (YoY) (May) | 2.2% |  | 1.7% |
 | 10:00 | NOK | House Price Index (YoY) (Jun) | 3.90% |  | 3.80% |
 | 11:00 | EUR | German Car Registration (YoY) (Jun) | 15.7% |  | 0.1% |
-| 12:30 | INR | FX Reserves, USD |  |  | 672.59B |
-| 13:00 | MXN | Consumer Confidence (Jun) |  |  | 43.5 |
-| 13:00 | MXN | Consumer Confidence n.s.a. (Jun) |  |  | 43.1 |
-| 13:00 | EUR | Spanish Consumer Confidence (May) |  |  | 77.7 |
-| 13:00 | BRL | Industrial Production (MoM) (May) |  | 0.3% | 0.7% |
-| 14:00 | BRL | S&P Global Composite PMI (Jun) |  |  | 49.5 |
-| 14:00 | BRL | S&P Global Services PMI (Jun) |  |  | 50.4 |
+| 12:00 | EUR | Spanish Consumer Confidence (May) | 77.7 |  | 77.7 |
+| 12:30 | INR | FX Reserves, USD | 666.93B |  | 672.59B |
+| 13:00 | MXN | Consumer Confidence (Jun) | 43.8 |  | 43.5 |
+| 13:00 | MXN | Consumer Confidence n.s.a. (Jun) | 43.8 |  | 43.1 |
+| 13:00 | BRL | Industrial Production (MoM) (May) | -0.2% | 0.3% | 0.7% |
+| 2 min | BRL | S&P Global Composite PMI (Jun) |  |  | 49.5 |
+| 2 min | BRL | S&P Global Services PMI (Jun) |  |  | 50.4 |
 | 22:00 | KRW | FX Reserves - USD (Jun) |  |  | 426.99B |

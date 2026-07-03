@@ -13,6 +13,6 @@
 | 09:00 | EUR | HCOB Eurozone Services PMI (Jun) | 49.4 | 48.9 | 47.7 |
 | 09:30 | GBP | S&P Global Composite PMI (Jun) | 49.3 | 49.4 | 49.7 |
 | 09:30 | GBP | S&P Global Services PMI (Jun) | 48.8 | 48.7 | 49.3 |
-| 13:00 | BRL | Industrial Production (YoY) (May) |  | 1.3% | 2.7% |
+| 13:00 | BRL | Industrial Production (YoY) (May) | 0.2% | 1.3% | 2.7% |
 | 16:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 16:00 | EUR | German Buba President Nagel Speaks |  |  |  |
