@@ -25,4 +25,3 @@
 | 13:00 | BRL | Industrial Production (MoM) (May) | -0.2% | 0.3% | 0.7% |
 | 14:00 | BRL | S&P Global Composite PMI (Jun) | 50.7 |  | 49.5 |
 | 14:00 | BRL | S&P Global Services PMI (Jun) | 51.3 |  | 50.4 |
-| 22:00 | KRW | FX Reserves - USD (Jun) |  |  | 426.99B |

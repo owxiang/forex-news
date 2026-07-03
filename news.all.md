@@ -39,4 +39,3 @@
 | 14:00 | BRL | Low | S&P Global Services PMI (Jun) | 51.3 |  | 50.4 |
 | 16:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 16:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 22:00 | KRW | Low | FX Reserves - USD (Jun) |  |  | 426.99B |
