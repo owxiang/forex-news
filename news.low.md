@@ -8,22 +8,22 @@
 | 02:30 | AUD | ANZ Job Advertisements (MoM) (Jun) | -0.2% |  | 2.0% |
 | 06:00 | SGD | Retail Sales (YoY) (May) | 3.0% |  | 5.4% |
 | 06:00 | SGD | Retail Sales (MoM) (May) | -2.3% |  | 0.4% |
-| 08:00 | CHF | Unemployment Rate n.s.a. (Jun) |  | 3.1% | 3.1% |
-| 08:00 | CHF | Unemployment Rate s.a. (Jun) |  | 3.0% | 3.0% |
-| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Jun) |  |  | 49.4 |
-| 08:30 | EUR | HCOB Germany Construction PMI (Jun) |  |  | 42.4 |
-| 08:30 | EUR | HCOB France Construction PMI (MoM) (Jun) |  |  | 39.6 |
-| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Jun) |  |  | 43.7 |
-| 09:00 | GBP | Car Registration (YoY) (Jun) |  |  | 7.1% |
-| 09:00 | GBP | United Kingdom New Passenger Cars Registration (Jun) |  |  | 160,662.0 |
-| 09:30 | EUR | Sentix Investor Confidence (Jul) |  | -14.5 | -13.4 |
-| 10:00 | EUR | PPI (MoM) (May) |  | 0.2% | 0.6% |
-| 10:00 | EUR | PPI (YoY) (May) |  | 5.7% | 4.9% |
-| 10:00 | EUR | Retail Sales (MoM) (May) |  | 0.2% | -0.4% |
-| 10:00 | EUR | Retail Sales (YoY) (May) |  | 1.5% | 1.0% |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | MXN | Gross Fixed Investments (MoM) (Apr) |  |  | 0.40% |
-| 13:00 | MXN | Gross Fixed Investments (YoY) (Apr) |  |  | -2.60% |
+| 08:00 | CHF | Unemployment Rate n.s.a. (Jun) | 2.9% | 3.1% | 3.1% |
+| 08:00 | CHF | Unemployment Rate s.a. (Jun) | 3.1% | 3.0% | 3.0% |
+| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Jun) | 45.4 |  | 49.4 |
+| 08:30 | EUR | HCOB Germany Construction PMI (Jun) | 44.8 |  | 42.4 |
+| 08:30 | EUR | HCOB France Construction PMI (MoM) (Jun) | 38.2 |  | 39.6 |
+| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Jun) | 42.8 |  | 43.7 |
+| 09:00 | GBP | United Kingdom New Passenger Cars Registration (Jun) | 213,166.0 |  | 160,662.0 |
+| 09:30 | EUR | Sentix Investor Confidence (Jul) | -3.1 | -14.5 | -13.4 |
+| 10:00 | GBP | Car Registration (YoY) (Jun) | 11.4% |  | 7.1% |
+| 10:00 | EUR | PPI (YoY) (May) | 5.9% | 5.7% | 5.0% |
+| 10:00 | EUR | PPI (MoM) (May) | 0.2% | 0.2% | 0.7% |
+| 10:00 | EUR | Retail Sales (MoM) (May) | 0.2% | 0.2% | -0.3% |
+| 10:00 | EUR | Retail Sales (YoY) (May) | 1.6% | 1.5% | 0.9% |
+| 39 min | BRL | BCB Focus Market Readout |  |  |  |
+| 13:00 | MXN | Gross Fixed Investments (MoM) (Apr) |  | 3.00% | 0.40% |
+| 13:00 | MXN | Gross Fixed Investments (YoY) (Apr) |  | 3.80% | -2.60% |
 | 13:15 | CAD | Reserve Assets Total (Jun) |  |  | 126.9B |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.579% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.377% |

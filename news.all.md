@@ -8,24 +8,24 @@
 | 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (Jun) | -0.2% |  | 2.0% |
 | 06:00 | SGD | Low | Retail Sales (YoY) (May) | 3.0% |  | 5.4% |
 | 06:00 | SGD | Low | Retail Sales (MoM) (May) | -2.3% |  | 0.4% |
-| 07:00 | EUR | Moderate | German Factory Orders (MoM) (May) |  | 1.1% | -3.8% |
-| 08:00 | CHF | Low | Unemployment Rate n.s.a. (Jun) |  | 3.1% | 3.1% |
-| 08:00 | CHF | Low | Unemployment Rate s.a. (Jun) |  | 3.0% | 3.0% |
-| 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Jun) |  |  | 49.4 |
-| 08:30 | EUR | Low | HCOB Germany Construction PMI (Jun) |  |  | 42.4 |
-| 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Jun) |  |  | 39.6 |
-| 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Jun) |  |  | 43.7 |
-| 09:00 | GBP | Low | Car Registration (YoY) (Jun) |  |  | 7.1% |
-| 09:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Jun) |  |  | 160,662.0 |
-| 09:30 | GBP | Moderate | S&P Global Construction PMI (Jun) |  | 40.1 | 38.2 |
-| 09:30 | EUR | Low | Sentix Investor Confidence (Jul) |  | -14.5 | -13.4 |
-| 10:00 | EUR | Low | PPI (MoM) (May) |  | 0.2% | 0.6% |
-| 10:00 | EUR | Low | PPI (YoY) (May) |  | 5.7% | 4.9% |
-| 10:00 | EUR | Low | Retail Sales (MoM) (May) |  | 0.2% | -0.4% |
-| 10:00 | EUR | Low | Retail Sales (YoY) (May) |  | 1.5% | 1.0% |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Apr) |  |  | 0.40% |
-| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Apr) |  |  | -2.60% |
+| 07:00 | EUR | Moderate | German Factory Orders (MoM) (May) | 1.9% | 1.1% | -3.2% |
+| 08:00 | CHF | Low | Unemployment Rate n.s.a. (Jun) | 2.9% | 3.1% | 3.1% |
+| 08:00 | CHF | Low | Unemployment Rate s.a. (Jun) | 3.1% | 3.0% | 3.0% |
+| 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Jun) | 45.4 |  | 49.4 |
+| 08:30 | EUR | Low | HCOB Germany Construction PMI (Jun) | 44.8 |  | 42.4 |
+| 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Jun) | 38.2 |  | 39.6 |
+| 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Jun) | 42.8 |  | 43.7 |
+| 09:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Jun) | 213,166.0 |  | 160,662.0 |
+| 09:30 | GBP | Moderate | S&P Global Construction PMI (Jun) | 38.4 | 40.1 | 38.2 |
+| 09:30 | EUR | Low | Sentix Investor Confidence (Jul) | -3.1 | -14.5 | -13.4 |
+| 10:00 | GBP | Low | Car Registration (YoY) (Jun) | 11.4% |  | 7.1% |
+| 10:00 | EUR | Low | PPI (YoY) (May) | 5.9% | 5.7% | 5.0% |
+| 10:00 | EUR | Low | PPI (MoM) (May) | 0.2% | 0.2% | 0.7% |
+| 10:00 | EUR | Low | Retail Sales (MoM) (May) | 0.2% | 0.2% | -0.3% |
+| 10:00 | EUR | Low | Retail Sales (YoY) (May) | 1.6% | 1.5% | 0.9% |
+| 39 min | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Apr) |  | 3.00% | 0.40% |
+| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Apr) |  | 3.80% | -2.60% |
 | 13:15 | CAD | Low | Reserve Assets Total (Jun) |  |  | 126.9B |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.579% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.377% |
