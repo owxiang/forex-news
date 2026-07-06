@@ -23,21 +23,21 @@
 | 10:00 | EUR | Low | PPI (MoM) (May) | 0.2% | 0.2% | 0.7% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (May) | 0.2% | 0.2% | -0.3% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (May) | 1.6% | 1.5% | 0.9% |
-| 39 min | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Apr) |  | 3.00% | 0.40% |
-| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Apr) |  | 3.80% | -2.60% |
-| 13:15 | CAD | Low | Reserve Assets Total (Jun) |  |  | 126.9B |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.579% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.377% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.483% |
-| 14:45 | USD | Moderate | S&P Global Composite PMI (Jun) |  | 52.2 | 51.5 |
-| 14:45 | USD | High | S&P Global Services PMI (Jun) |  | 51.3 | 50.7 |
-| 15:00 | USD | Low | CB Employment Trends Index (Jun) |  |  | 107.01 |
-| 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Jun) |  |  | 57.7 |
-| 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Jun) |  |  | 47.9 |
-| 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Jun) |  |  | 57.3 |
-| 15:00 | USD | High | ISM Non-Manufacturing PMI (Jun) |  | 54.2 | 54.5 |
-| 15:00 | USD | High | ISM Non-Manufacturing Prices (Jun) |  |  | 71.3 |
+| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Apr) | 4.00% | 3.00% | 0.40% |
+| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Apr) | 5.90% | 3.80% | -2.60% |
+| 13:15 | CAD | Low | Reserve Assets Total (Jun) | 126.4B |  | 126.9B |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.548% |  | 2.579% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.374% |  | 2.377% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.455% |  | 2.483% |
+| 14:45 | USD | Moderate | S&P Global Composite PMI (Jun) | 51.9 | 52.2 | 51.5 |
+| 14:45 | USD | High | S&P Global Services PMI (Jun) | 51.2 | 51.3 | 51.3 |
+| 15:00 | USD | Low | CB Employment Trends Index (Jun) | 106.69 |  | 106.90 |
+| 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Jun) | 55.4 |  | 57.7 |
+| 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Jun) | 51.2 | 48.2 | 47.9 |
+| 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Jun) | 55.1 | 56.8 | 57.3 |
+| 15:00 | USD | High | ISM Non-Manufacturing PMI (Jun) | 54.0 | 54.2 | 54.5 |
+| 15:00 | USD | High | ISM Non-Manufacturing Prices (Jun) | 67.7 | 67.5 | 71.3 |
 | 15:30 | CAD | Moderate | BoC Business Outlook Survey |  |  |  |
 | 16:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 16:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |

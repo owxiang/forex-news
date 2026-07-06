@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 07:00 | EUR | German Factory Orders (MoM) (May) | 1.9% | 1.1% | -3.2% |
 | 09:30 | GBP | S&P Global Construction PMI (Jun) | 38.4 | 40.1 | 38.2 |
-| 14:45 | USD | S&P Global Composite PMI (Jun) |  | 52.2 | 51.5 |
-| 15:00 | USD | ISM Non-Manufacturing Employment (Jun) |  |  | 47.9 |
+| 14:45 | USD | S&P Global Composite PMI (Jun) | 51.9 | 52.2 | 51.5 |
+| 15:00 | USD | ISM Non-Manufacturing Employment (Jun) | 51.2 | 48.2 | 47.9 |
 | 15:30 | CAD | BoC Business Outlook Survey |  |  |  |
 | 16:00 | USD | Fed Waller Speaks |  |  |  |
 | 16:00 | EUR | ECB's Schnabel Speaks |  |  |  |

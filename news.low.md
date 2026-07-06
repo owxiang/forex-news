@@ -21,16 +21,16 @@
 | 10:00 | EUR | PPI (MoM) (May) | 0.2% | 0.2% | 0.7% |
 | 10:00 | EUR | Retail Sales (MoM) (May) | 0.2% | 0.2% | -0.3% |
 | 10:00 | EUR | Retail Sales (YoY) (May) | 1.6% | 1.5% | 0.9% |
-| 39 min | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | MXN | Gross Fixed Investments (MoM) (Apr) |  | 3.00% | 0.40% |
-| 13:00 | MXN | Gross Fixed Investments (YoY) (Apr) |  | 3.80% | -2.60% |
-| 13:15 | CAD | Reserve Assets Total (Jun) |  |  | 126.9B |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.579% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.377% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.483% |
-| 15:00 | USD | CB Employment Trends Index (Jun) |  |  | 107.01 |
-| 15:00 | USD | ISM Non-Manufacturing Business Activity (Jun) |  |  | 57.7 |
-| 15:00 | USD | ISM Non-Manufacturing New Orders (Jun) |  |  | 57.3 |
+| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 13:00 | MXN | Gross Fixed Investments (MoM) (Apr) | 4.00% | 3.00% | 0.40% |
+| 13:00 | MXN | Gross Fixed Investments (YoY) (Apr) | 5.90% | 3.80% | -2.60% |
+| 13:15 | CAD | Reserve Assets Total (Jun) | 126.4B |  | 126.9B |
+| 14:00 | EUR | French 12-Month BTF Auction | 2.548% |  | 2.579% |
+| 14:00 | EUR | French 3-Month BTF Auction | 2.374% |  | 2.377% |
+| 14:00 | EUR | French 6-Month BTF Auction | 2.455% |  | 2.483% |
+| 15:00 | USD | CB Employment Trends Index (Jun) | 106.69 |  | 106.90 |
+| 15:00 | USD | ISM Non-Manufacturing Business Activity (Jun) | 55.4 |  | 57.7 |
+| 15:00 | USD | ISM Non-Manufacturing New Orders (Jun) | 55.1 | 56.8 | 57.3 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 3.740% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 3.840% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.8K |
