@@ -2,12 +2,12 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 01:30 | HKD | Low | S&P Global Manufacturing PMI (Jun) |  |  | 50.4 |
-| 02:00 | AUD | Low | MI Inflation Gauge (MoM) (Jun) |  |  | -0.3% |
-| 02:00 | NZD | Low | ANZ Commodity Price Index (MoM) |  |  | 0.7% |
-| 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (Jun) |  |  | 1.8% |
-| 06:00 | SGD | Low | Retail Sales (YoY) (May) |  |  | 5.4% |
-| 06:00 | SGD | Low | Retail Sales (MoM) (May) |  |  | 0.3% |
+| 01:30 | HKD | Low | S&P Global Manufacturing PMI (Jun) | 52.0 |  | 50.4 |
+| 02:00 | AUD | Low | MI Inflation Gauge (MoM) (Jun) | -0.4% |  | -0.3% |
+| 02:00 | NZD | Low | ANZ Commodity Price Index (MoM) | -1.0% |  | 0.7% |
+| 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (Jun) | -0.2% |  | 2.0% |
+| 06:00 | SGD | Low | Retail Sales (YoY) (May) | 3.0% |  | 5.4% |
+| 06:00 | SGD | Low | Retail Sales (MoM) (May) | -2.3% |  | 0.4% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (May) |  | 1.1% | -3.8% |
 | 08:00 | CHF | Low | Unemployment Rate n.s.a. (Jun) |  | 3.1% | 3.1% |
 | 08:00 | CHF | Low | Unemployment Rate s.a. (Jun) |  | 3.0% | 3.0% |
@@ -18,7 +18,7 @@
 | 09:00 | GBP | Low | Car Registration (YoY) (Jun) |  |  | 7.1% |
 | 09:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Jun) |  |  | 160,662.0 |
 | 09:30 | GBP | Moderate | S&P Global Construction PMI (Jun) |  | 40.1 | 38.2 |
-| 09:30 | EUR | Low | Sentix Investor Confidence (Jul) |  | -8.9 | -13.4 |
+| 09:30 | EUR | Low | Sentix Investor Confidence (Jul) |  | -14.5 | -13.4 |
 | 10:00 | EUR | Low | PPI (MoM) (May) |  | 0.2% | 0.6% |
 | 10:00 | EUR | Low | PPI (YoY) (May) |  | 5.7% | 4.9% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (May) |  | 0.2% | -0.4% |
@@ -30,8 +30,8 @@
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.579% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.377% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.483% |
-| 14:45 | USD | Moderate | S&P Global Composite PMI (Jun) |  | 52.2 | 52.2 |
-| 14:45 | USD | High | S&P Global Services PMI (Jun) |  | 51.3 | 51.3 |
+| 14:45 | USD | Moderate | S&P Global Composite PMI (Jun) |  | 52.2 | 51.5 |
+| 14:45 | USD | High | S&P Global Services PMI (Jun) |  | 51.3 | 50.7 |
 | 15:00 | USD | Low | CB Employment Trends Index (Jun) |  |  | 107.01 |
 | 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Jun) |  |  | 57.7 |
 | 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Jun) |  |  | 47.9 |

@@ -2,12 +2,12 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | HKD | S&P Global Manufacturing PMI (Jun) |  |  | 50.4 |
-| 02:00 | AUD | MI Inflation Gauge (MoM) (Jun) |  |  | -0.3% |
-| 02:00 | NZD | ANZ Commodity Price Index (MoM) |  |  | 0.7% |
-| 02:30 | AUD | ANZ Job Advertisements (MoM) (Jun) |  |  | 1.8% |
-| 06:00 | SGD | Retail Sales (YoY) (May) |  |  | 5.4% |
-| 06:00 | SGD | Retail Sales (MoM) (May) |  |  | 0.3% |
+| 01:30 | HKD | S&P Global Manufacturing PMI (Jun) | 52.0 |  | 50.4 |
+| 02:00 | AUD | MI Inflation Gauge (MoM) (Jun) | -0.4% |  | -0.3% |
+| 02:00 | NZD | ANZ Commodity Price Index (MoM) | -1.0% |  | 0.7% |
+| 02:30 | AUD | ANZ Job Advertisements (MoM) (Jun) | -0.2% |  | 2.0% |
+| 06:00 | SGD | Retail Sales (YoY) (May) | 3.0% |  | 5.4% |
+| 06:00 | SGD | Retail Sales (MoM) (May) | -2.3% |  | 0.4% |
 | 08:00 | CHF | Unemployment Rate n.s.a. (Jun) |  | 3.1% | 3.1% |
 | 08:00 | CHF | Unemployment Rate s.a. (Jun) |  | 3.0% | 3.0% |
 | 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Jun) |  |  | 49.4 |
@@ -16,7 +16,7 @@
 | 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Jun) |  |  | 43.7 |
 | 09:00 | GBP | Car Registration (YoY) (Jun) |  |  | 7.1% |
 | 09:00 | GBP | United Kingdom New Passenger Cars Registration (Jun) |  |  | 160,662.0 |
-| 09:30 | EUR | Sentix Investor Confidence (Jul) |  | -8.9 | -13.4 |
+| 09:30 | EUR | Sentix Investor Confidence (Jul) |  | -14.5 | -13.4 |
 | 10:00 | EUR | PPI (MoM) (May) |  | 0.2% | 0.6% |
 | 10:00 | EUR | PPI (YoY) (May) |  | 5.7% | 4.9% |
 | 10:00 | EUR | Retail Sales (MoM) (May) |  | 0.2% | -0.4% |
