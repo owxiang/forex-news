@@ -33,14 +33,14 @@
 | 15:00 | USD | ISM Non-Manufacturing New Orders (Jun) | 55.1 | 56.8 | 57.3 |
 | 16:30 | USD | 3-Month Bill Auction | 3.735% |  | 3.740% |
 | 16:30 | USD | 6-Month Bill Auction | 3.830% |  | 3.840% |
-| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.8K |
-| 20:30 | USD | CFTC Copper speculative net positions |  |  | 71.6K |
-| 20:30 | USD | CFTC Corn speculative net positions |  |  | 58.3K |
-| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -176.7K |
-| 20:30 | USD | CFTC Silver speculative net positions |  |  | 23.8K |
-| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 100.8K |
-| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -48.4K |
-| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -146.8K |
-| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 74.2K |
-| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -41.1K |
-| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -54.8K |
+| 20:30 | USD | CFTC Aluminium speculative net positions | 0.6K |  | 0.8K |
+| 20:30 | USD | CFTC Copper speculative net positions | 64.8K |  | 71.6K |
+| 20:30 | USD | CFTC Corn speculative net positions | 64.2K |  | 58.3K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions | -170.8K |  | -176.7K |
+| 20:30 | USD | CFTC Silver speculative net positions | 27.4K |  | 23.8K |
+| 20:30 | USD | CFTC Soybeans speculative net positions | 76.6K |  | 100.8K |
+| 20:30 | USD | CFTC Wheat speculative net positions | -55.0K |  | -48.4K |
+| 20:30 | CAD | CFTC CAD speculative net positions | -150.8K |  | -146.8K |
+| 20:30 | MXN | CFTC MXN speculative net positions | 70.9K |  | 74.2K |
+| 20:30 | CHF | CFTC CHF speculative net positions | -39.0K |  | -41.1K |
+| 20:30 | NZD | CFTC NZD speculative net positions | -63.3K |  | -54.8K |
