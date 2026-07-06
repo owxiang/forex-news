@@ -31,8 +31,8 @@
 | 15:00 | USD | CB Employment Trends Index (Jun) | 106.69 |  | 106.90 |
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Jun) | 55.4 |  | 57.7 |
 | 15:00 | USD | ISM Non-Manufacturing New Orders (Jun) | 55.1 | 56.8 | 57.3 |
-| 16:30 | USD | 3-Month Bill Auction |  |  | 3.740% |
-| 16:30 | USD | 6-Month Bill Auction |  |  | 3.840% |
+| 16:30 | USD | 3-Month Bill Auction | 3.735% |  | 3.740% |
+| 16:30 | USD | 6-Month Bill Auction | 3.830% |  | 3.840% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.8K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 71.6K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 58.3K |

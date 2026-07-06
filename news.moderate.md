@@ -11,7 +11,7 @@
 | 16:00 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 17:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 17:45 | GBP | BoE MPC Member Mann Speaks |  |  |  |
-| 19:30 | EUR | ECB's Lane Speaks |  |  |  |
+| 43 min | EUR | ECB's Lane Speaks |  |  |  |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -105.7K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 114.6K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 181.3K |

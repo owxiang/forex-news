@@ -41,11 +41,11 @@
 | 15:30 | CAD | Moderate | BoC Business Outlook Survey |  |  |  |
 | 16:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 16:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.740% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.840% |
+| 16:30 | USD | Low | 3-Month Bill Auction | 3.735% |  | 3.740% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 3.830% |  | 3.840% |
 | 17:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 17:45 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
-| 19:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 43 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -105.7K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 0.8K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 71.6K |
