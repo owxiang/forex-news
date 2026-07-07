@@ -18,15 +18,12 @@
 | 07:45 | EUR | French Trade Balance (May) | -6.9B | -5.9B | -5.4B |
 | 08:00 | CHF | Foreign Reserves (USD) (Jun) | 758.8B |  | 710.9B |
 | 09:00 | CNY | FX Reserves (USD) (Jun) | 3.416T | 3.440T | 3.442T |
-| 09:30 | HKD | Foreign Reserves (USD) (Jun) |  |  | 446.50B |
-| 09:40 | EUR | Spanish 12-Month Letras Auction |  |  | 2.543% |
-| 09:40 | EUR | Spanish 6-Month Letras Auction |  |  | 2.376% |
-| 10:00 | EUR | French Reserve Assets Total (Jun) |  |  | 381,300.0M |
-| 10:00 | SGD | Foreign Reserves USD (MoM) (Jun) |  |  | 430.1B |
-| 11:00 | CAD | Leading Index (MoM) (Jun) |  |  | 0.11% |
-| 12:00 | BRL | IGP-DI Inflation Index (MoM) (Jun) |  |  | 0.87% |
-| 13:00 | NZD | GlobalDairyTrade Price Index |  |  | -2.8% |
-| 13:00 | USD | Milk Auctions |  |  | 3,979.0 |
+| 09:30 | HKD | Foreign Reserves (USD) (Jun) | 445.90B |  | 445.90B |
+| 09:40 | EUR | Spanish 12-Month Letras Auction | 2.500% |  | 2.543% |
+| 09:40 | EUR | Spanish 6-Month Letras Auction | 2.385% |  | 2.376% |
+| 10:00 | SGD | Foreign Reserves USD (MoM) (Jun) | 426.2B |  | 430.1B |
+| 11:00 | CAD | Leading Index (MoM) (Jun) | 0.14% |  | 0.15% |
+| 12:00 | BRL | IGP-DI Inflation Index (MoM) (Jun) | -0.79% |  | 0.87% |
 | 13:30 | CAD | Exports (May) |  |  | 75.16B |
 | 13:30 | CAD | Imports (May) |  |  | 72.44B |
 | 13:55 | USD | Redbook (YoY) |  |  | 10.5% |
@@ -34,4 +31,7 @@
 | 15:00 | CAD | Ivey PMI n.s.a (Jun) |  |  | 61.3 |
 | 15:00 | BRL | Auto Production (MoM) (Jun) |  |  | 6.3% |
 | 15:00 | BRL | Auto Sales (MoM) (Jun) |  |  | 10.6% |
+| 16:00 | NZD | GlobalDairyTrade Price Index |  |  | -2.8% |
+| 16:00 | USD | Milk Auctions |  |  | 3,979.0 |
 | 16:30 | USD | 52-Week Bill Auction |  |  | 3.750% |
+| 16:30 | EUR | French Reserve Assets Total (Jun) |  |  | 381,300.0M |

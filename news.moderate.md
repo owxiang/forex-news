@@ -7,7 +7,7 @@
 | 07:00 | GBP | Halifax House Price Index (MoM) (Jun) | 0.2% | 0.1% | -0.2% |
 | 07:00 | GBP | Halifax House Price Index (YoY) (Jun) | 0.6% |  | 0.5% |
 | 07:00 | EUR | German Industrial Production (MoM) (May) | 0.9% | 0.1% | 0.2% |
-| 10:00 | GBP | Mortgage Rate (GBP) (Jun) |  |  | 6.60% |
+| 09:30 | GBP | Mortgage Rate (GBP) (Jun) | 6.60% |  | 6.60% |
 | 10:30 | GBP | BoE Financial Stability Report |  |  |  |
 | 10:30 | GBP | BoE MPC Meeting Minutes |  |  |  |
 | 11:30 | GBP | BoE Gov Bailey Speaks |  |  |  |

@@ -23,20 +23,17 @@
 | 07:45 | EUR | Low | French Trade Balance (May) | -6.9B | -5.9B | -5.4B |
 | 08:00 | CHF | Low | Foreign Reserves (USD) (Jun) | 758.8B |  | 710.9B |
 | 09:00 | CNY | Low | FX Reserves (USD) (Jun) | 3.416T | 3.440T | 3.442T |
-| 09:30 | HKD | Low | Foreign Reserves (USD) (Jun) |  |  | 446.50B |
-| 09:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.543% |
-| 09:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 2.376% |
-| 10:00 | GBP | Moderate | Mortgage Rate (GBP) (Jun) |  |  | 6.60% |
-| 10:00 | EUR | Low | French Reserve Assets Total (Jun) |  |  | 381,300.0M |
-| 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Jun) |  |  | 430.1B |
+| 09:30 | GBP | Moderate | Mortgage Rate (GBP) (Jun) | 6.60% |  | 6.60% |
+| 09:30 | HKD | Low | Foreign Reserves (USD) (Jun) | 445.90B |  | 445.90B |
+| 09:40 | EUR | Low | Spanish 12-Month Letras Auction | 2.500% |  | 2.543% |
+| 09:40 | EUR | Low | Spanish 6-Month Letras Auction | 2.385% |  | 2.376% |
+| 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Jun) | 426.2B |  | 430.1B |
 | 10:30 | GBP | Moderate | BoE Financial Stability Report |  |  |  |
 | 10:30 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
-| 11:00 | CAD | Low | Leading Index (MoM) (Jun) |  |  | 0.11% |
+| 11:00 | CAD | Low | Leading Index (MoM) (Jun) | 0.14% |  | 0.15% |
 | 11:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 12:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Jun) |  |  | 0.87% |
-| 13:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -2.8% |
-| 13:00 | USD | Low | Milk Auctions |  |  | 3,979.0 |
+| 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Jun) | -0.79% |  | 0.87% |
 | 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 30.75K |
 | 13:30 | USD | Moderate | Exports (May) |  |  | 327.10B |
 | 13:30 | USD | Moderate | Imports (May) |  |  | 383.00B |
@@ -51,8 +48,11 @@
 | 15:00 | BRL | Low | Auto Production (MoM) (Jun) |  |  | 6.3% |
 | 15:00 | BRL | Low | Auto Sales (MoM) (Jun) |  |  | 10.6% |
 | 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Jun) |  |  | 3.5% |
+| 16:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -2.8% |
+| 16:00 | USD | Low | Milk Auctions |  |  | 3,979.0 |
 | 16:30 | USD | Low | 52-Week Bill Auction |  |  | 3.750% |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  |  |  |
+| 16:30 | EUR | Low | French Reserve Assets Total (Jun) |  |  | 381,300.0M |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 17:15 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 4.192% |
