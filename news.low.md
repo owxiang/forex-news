@@ -24,14 +24,13 @@
 | 10:00 | SGD | Foreign Reserves USD (MoM) (Jun) | 426.2B |  | 430.1B |
 | 11:00 | CAD | Leading Index (MoM) (Jun) | 0.14% |  | 0.15% |
 | 12:00 | BRL | IGP-DI Inflation Index (MoM) (Jun) | -0.79% |  | 0.87% |
-| 13:30 | CAD | Exports (May) |  |  | 75.16B |
-| 13:30 | CAD | Imports (May) |  |  | 72.44B |
-| 13:55 | USD | Redbook (YoY) |  |  | 10.5% |
-| 15:00 | USD | IBD/TIPP Economic Optimism (Jul) |  | 45.0 | 42.5 |
-| 15:00 | CAD | Ivey PMI n.s.a (Jun) |  |  | 61.3 |
-| 15:00 | BRL | Auto Production (MoM) (Jun) |  |  | 6.3% |
-| 15:00 | BRL | Auto Sales (MoM) (Jun) |  |  | 10.6% |
-| 16:00 | NZD | GlobalDairyTrade Price Index |  |  | -2.8% |
-| 16:00 | USD | Milk Auctions |  |  | 3,979.0 |
-| 16:30 | USD | 52-Week Bill Auction |  |  | 3.750% |
-| 16:30 | EUR | French Reserve Assets Total (Jun) |  |  | 381,300.0M |
+| 13:30 | CAD | Exports (May) | 77.10B |  | 76.40B |
+| 13:30 | CAD | Imports (May) | 72.86B |  | 73.00B |
+| 13:55 | USD | Redbook (YoY) | 11.5% |  | 10.5% |
+| 15:00 | USD | IBD/TIPP Economic Optimism (Jul) | 45.5 | 45.0 | 42.5 |
+| 15:00 | CAD | Ivey PMI n.s.a (Jun) | 59.7 |  | 61.3 |
+| 15:00 | BRL | Auto Production (MoM) (Jun) | -3.0% |  | 6.3% |
+| 15:00 | BRL | Auto Sales (MoM) (Jun) | -0.8% |  | 10.6% |
+| 43 min | USD | 52-Week Bill Auction |  |  | 3.750% |
+| 17:00 | NZD | GlobalDairyTrade Price Index |  |  | -2.8% |
+| 17:00 | USD | Milk Auctions |  |  | 3,979.0 |

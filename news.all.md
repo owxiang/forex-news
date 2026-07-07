@@ -12,8 +12,8 @@
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (May) | 0.4% |  | 1.3% |
 | 06:00 | JPY | Low | Leading Index (May) | 116.8 | 116.9 | 116.1 |
 | 06:00 | JPY | Low | Leading Index (MoM) (May) | 0.7% |  | 0.7% |
-| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Jun) | 0.2% | 0.1% | -0.2% |
-| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Jun) | 0.6% |  | 0.5% |
+| 07:00 | GBP | Moderate | Lloyds House Price Index (MoM) (Jun) | 0.2% | 0.1% | -0.2% |
+| 07:00 | GBP | Moderate | Lloyds House Price Index (YoY) (Jun) | 0.6% |  | 0.5% |
 | 07:00 | EUR | Moderate | German Industrial Production (MoM) (May) | 0.9% | 0.1% | 0.2% |
 | 07:00 | EUR | Low | German Industrial Production (YoY) (May) | 0.11% |  | -0.76% |
 | 07:00 | ZAR | Low | Foreign Reserves (USD) (Jun) | 74.11B |  | 76.58B |
@@ -34,26 +34,26 @@
 | 11:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 12:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Jun) | -0.79% |  | 0.87% |
-| 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 30.75K |
-| 13:30 | USD | Moderate | Exports (May) |  |  | 327.10B |
-| 13:30 | USD | Moderate | Imports (May) |  |  | 383.00B |
-| 13:30 | USD | Moderate | Trade Balance (May) |  | -78.30B | -55.90B |
-| 13:30 | CAD | Low | Exports (May) |  |  | 75.16B |
-| 13:30 | CAD | Low | Imports (May) |  |  | 72.44B |
-| 13:30 | CAD | Moderate | Trade Balance (May) |  | 2.80B | 2.72B |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 10.5% |
-| 15:00 | USD | Low | IBD/TIPP Economic Optimism (Jul) |  | 45.0 | 42.5 |
-| 15:00 | CAD | Low | Ivey PMI n.s.a (Jun) |  |  | 61.3 |
-| 15:00 | CAD | Moderate | Ivey PMI (Jun) |  | 59.1 | 58.2 |
-| 15:00 | BRL | Low | Auto Production (MoM) (Jun) |  |  | 6.3% |
-| 15:00 | BRL | Low | Auto Sales (MoM) (Jun) |  |  | 10.6% |
-| 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Jun) |  |  | 3.5% |
-| 16:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -2.8% |
-| 16:00 | USD | Low | Milk Auctions |  |  | 3,979.0 |
-| 16:30 | USD | Low | 52-Week Bill Auction |  |  | 3.750% |
-| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  |  |  |
-| 16:30 | EUR | Low | French Reserve Assets Total (Jun) |  |  | 381,300.0M |
+| 13:14 | USD | Moderate | ADP Employment Change Weekly | 24.30K |  | 30.80K |
+| 13:15 | USD | Moderate | ADP Employment Change Weekly | 21.00K |  | 24.30K |
+| 13:30 | USD | Moderate | Exports (May) | 317.70B |  | 328.20B |
+| 13:30 | USD | Moderate | Imports (May) | 395.30B |  | 382.80B |
+| 13:30 | USD | Moderate | Trade Balance (May) | -77.60B | -78.30B | -54.60B |
+| 13:30 | CAD | Low | Exports (May) | 77.10B |  | 76.40B |
+| 13:30 | CAD | Low | Imports (May) | 72.86B |  | 73.00B |
+| 13:30 | CAD | Moderate | Trade Balance (May) | 4.24B | 2.80B | 3.41B |
+| 13:55 | USD | Low | Redbook (YoY) | 11.5% |  | 10.5% |
+| 15:00 | USD | Low | IBD/TIPP Economic Optimism (Jul) | 45.5 | 45.0 | 42.5 |
+| 15:00 | CAD | Low | Ivey PMI n.s.a (Jun) | 59.7 |  | 61.3 |
+| 15:00 | CAD | Moderate | Ivey PMI (Jun) | 56.2 | 59.1 | 58.2 |
+| 15:00 | BRL | Low | Auto Production (MoM) (Jun) | -3.0% |  | 6.3% |
+| 15:00 | BRL | Low | Auto Sales (MoM) (Jun) | -0.8% |  | 10.6% |
+| 13 min | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Jun) |  |  | 3.5% |
+| 43 min | USD | Low | 52-Week Bill Auction |  |  | 3.750% |
+| 43 min | USD | Moderate | Atlanta Fed GDPNow (Q2) |  |  |  |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
+| 17:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -2.8% |
+| 17:00 | USD | Low | Milk Auctions |  |  | 3,979.0 |
 | 17:15 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 4.192% |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -6.072M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.500M | -6.072M |
