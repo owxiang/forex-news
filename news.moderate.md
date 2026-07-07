@@ -19,9 +19,9 @@
 | 13:30 | USD | Trade Balance (May) | -77.60B | -78.30B | -54.60B |
 | 13:30 | CAD | Trade Balance (May) | 4.24B | 2.80B | 3.41B |
 | 15:00 | CAD | Ivey PMI (Jun) | 56.2 | 59.1 | 58.2 |
-| 13 min | USD | NY Fed 1-Year Consumer Inflation Expectations (Jun) |  |  | 3.5% |
-| 43 min | USD | Atlanta Fed GDPNow (Q2) |  |  |  |
+| 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Jun) | 3.7% |  | 3.5% |
+| 16:30 | USD | Atlanta Fed GDPNow (Q2) | 1.4% |  |  |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 17:15 | GBP | BoE MPC Member Mann Speaks |  |  |  |
-| 18:00 | USD | 3-Year Note Auction |  |  | 4.192% |
+| 18:00 | USD | 3-Year Note Auction | 4.179% |  | 4.192% |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | -1.500M | -6.072M |

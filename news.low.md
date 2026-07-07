@@ -31,6 +31,6 @@
 | 15:00 | CAD | Ivey PMI n.s.a (Jun) | 59.7 |  | 61.3 |
 | 15:00 | BRL | Auto Production (MoM) (Jun) | -3.0% |  | 6.3% |
 | 15:00 | BRL | Auto Sales (MoM) (Jun) | -0.8% |  | 10.6% |
-| 43 min | USD | 52-Week Bill Auction |  |  | 3.750% |
-| 17:00 | NZD | GlobalDairyTrade Price Index |  |  | -2.8% |
-| 17:00 | USD | Milk Auctions |  |  | 3,979.0 |
+| 16:20 | NZD | GlobalDairyTrade Price Index | -4.9% |  | -2.8% |
+| 16:20 | USD | Milk Auctions | 3,793.0 |  | 3,979.0 |
+| 16:30 | USD | 52-Week Bill Auction | 3.860% |  | 3.750% |

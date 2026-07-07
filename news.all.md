@@ -48,12 +48,12 @@
 | 15:00 | CAD | Moderate | Ivey PMI (Jun) | 56.2 | 59.1 | 58.2 |
 | 15:00 | BRL | Low | Auto Production (MoM) (Jun) | -3.0% |  | 6.3% |
 | 15:00 | BRL | Low | Auto Sales (MoM) (Jun) | -0.8% |  | 10.6% |
-| 13 min | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Jun) |  |  | 3.5% |
-| 43 min | USD | Low | 52-Week Bill Auction |  |  | 3.750% |
-| 43 min | USD | Moderate | Atlanta Fed GDPNow (Q2) |  |  |  |
+| 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Jun) | 3.7% |  | 3.5% |
+| 16:20 | NZD | Low | GlobalDairyTrade Price Index | -4.9% |  | -2.8% |
+| 16:20 | USD | Low | Milk Auctions | 3,793.0 |  | 3,979.0 |
+| 16:30 | USD | Low | 52-Week Bill Auction | 3.860% |  | 3.750% |
+| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 1.4% |  |  |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
-| 17:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -2.8% |
-| 17:00 | USD | Low | Milk Auctions |  |  | 3,979.0 |
 | 17:15 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
-| 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 4.192% |
+| 18:00 | USD | Moderate | 3-Year Note Auction | 4.179% |  | 4.192% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.500M | -6.072M |
