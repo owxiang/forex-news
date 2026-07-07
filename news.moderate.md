@@ -24,4 +24,4 @@
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 17:15 | GBP | BoE MPC Member Mann Speaks |  |  |  |
 | 18:00 | USD | 3-Year Note Auction | 4.179% |  | 4.192% |
-| 21:30 | USD | API Weekly Crude Oil Stock |  | -1.500M | -6.072M |
+| 21:30 | USD | API Weekly Crude Oil Stock | -0.399M | -1.500M | -6.072M |
