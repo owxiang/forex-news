@@ -1,23 +1,25 @@
-## 06 July 2026 - Moderate Impact Forex News
+## 07 July 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | EUR | German Factory Orders (MoM) (May) | 1.9% | 1.1% | -3.2% |
-| 09:30 | GBP | S&P Global Construction PMI (Jun) | 38.4 | 40.1 | 38.2 |
-| 14:45 | USD | S&P Global Composite PMI (Jun) | 51.9 | 52.2 | 51.5 |
-| 15:00 | USD | ISM Non-Manufacturing Employment (Jun) | 51.2 | 48.2 | 47.9 |
-| 15:30 | CAD | BoC Business Outlook Survey |  |  |  |
-| 16:00 | USD | Fed Waller Speaks |  |  |  |
-| 16:00 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 17:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 17:45 | GBP | BoE MPC Member Mann Speaks |  |  |  |
-| 19:30 | EUR | ECB's Lane Speaks |  |  |  |
-| 20:30 | GBP | CFTC GBP speculative net positions | -102.1K |  | -105.7K |
-| 20:30 | USD | CFTC Crude Oil speculative net positions | 110.5K |  | 114.6K |
-| 20:30 | USD | CFTC Gold speculative net positions | 194.0K |  | 181.3K |
-| 20:30 | USD | CFTC Nasdaq 100 speculative net positions | -7.6K |  | -9.1K |
-| 20:30 | USD | CFTC S&P 500 speculative net positions | -37.6K |  | -35.4K |
-| 20:30 | AUD | CFTC AUD speculative net positions | -17.7K |  | -13.0K |
-| 20:30 | BRL | CFTC BRL speculative net positions | 44.7K |  | 43.7K |
-| 20:30 | JPY | CFTC JPY speculative net positions | -155.1K |  | -146.1K |
-| 20:30 | EUR | CFTC EUR speculative net positions | 1.1K |  | 30.2K |
+| 00:30 | JPY | Household Spending (MoM) (May) | 3.7% | 1.4% | 1.6% |
+| 00:30 | JPY | Household Spending (YoY) (May) | -0.4% | -2.3% | -0.5% |
+| 07:00 | GBP | Halifax House Price Index (MoM) (Jun) |  | 0.2% | -0.1% |
+| 07:00 | GBP | Halifax House Price Index (YoY) (Jun) |  |  | 0.5% |
+| 07:00 | EUR | German Industrial Production (MoM) (May) |  | 0.4% | 0.4% |
+| 10:00 | GBP | Mortgage Rate (GBP) (Jun) |  |  | 6.60% |
+| 10:30 | GBP | BoE Financial Stability Report |  |  |  |
+| 10:30 | GBP | BoE MPC Meeting Minutes |  |  |  |
+| 11:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 13:15 | USD | ADP Employment Change Weekly |  |  | 30.75K |
+| 13:30 | USD | Exports (May) |  |  | 327.10B |
+| 13:30 | USD | Imports (May) |  |  | 383.00B |
+| 13:30 | USD | Trade Balance (May) |  | -78.50B | -55.90B |
+| 13:30 | CAD | Trade Balance (May) |  | 2.40B | 2.72B |
+| 15:00 | CAD | Ivey PMI (Jun) |  | 59.1 | 58.2 |
+| 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Jun) |  |  | 3.5% |
+| 16:30 | USD | Atlanta Fed GDPNow (Q2) |  |  |  |
+| 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
+| 17:15 | GBP | BoE MPC Member Mann Speaks |  |  |  |
+| 18:00 | USD | 3-Year Note Auction |  |  | 4.192% |
+| 21:30 | USD | API Weekly Crude Oil Stock |  |  | -6.072M |
