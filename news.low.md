@@ -7,16 +7,15 @@
 | 02:30 | AUD | Building Approvals (YoY) (May) | 5.30% | 5.30% | 10.90% |
 | 02:30 | AUD | Private House Approvals (May) | 2.8% | 2.8% | -1.0% |
 | 04:00 | IDR | Consumer Confidence (Jun) | 117.8 |  | 120.9 |
-| 43 min | JPY | Economy Watchers Current Index (Jun) |  | 44.3 | 43.6 |
-| 07:00 | NOK | Manufacturing Production (MoM) (May) |  |  | -0.9% |
-| 07:45 | EUR | French Current Account (May) |  |  | -0.20B |
-| 07:45 | EUR | French Reserve Assets Total (Jun) |  |  | 381,300.0M |
+| 06:00 | JPY | Economy Watchers Current Index (Jun) | 44.0 | 44.3 | 43.6 |
+| 07:45 | EUR | French Reserve Assets Total (Jun) | 355,389.0M |  | 381,300.0M |
+| 11:00 | EUR | French Current Account (May) |  |  | -0.20B |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.57% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 0.0% |
 | 12:00 | USD | MBA Purchase Index |  |  | 170.6 |
 | 12:00 | USD | Mortgage Market Index |  |  | 272.2 |
 | 12:00 | USD | Mortgage Refinance Index |  |  | 828.7 |
-| 15:00 | USD | Wholesale Inventories (MoM) (May) |  | 0.3% | 0.3% |
+| 15:00 | USD | Wholesale Inventories (MoM) (May) |  | 0.3% | 0.6% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (May) |  |  | 2.0% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.085M |
 | 15:30 | USD | Crude Oil Imports |  |  | 0.370M |

@@ -13,22 +13,21 @@
 | 03:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
 | 04:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
 | 04:00 | IDR | Low | Consumer Confidence (Jun) | 117.8 |  | 120.9 |
-| 43 min | JPY | Low | Economy Watchers Current Index (Jun) |  | 44.3 | 43.6 |
-| 07:00 | NOK | Low | Manufacturing Production (MoM) (May) |  |  | -0.9% |
-| 07:45 | EUR | Low | French Current Account (May) |  |  | -0.20B |
-| 07:45 | EUR | Low | French Reserve Assets Total (Jun) |  |  | 381,300.0M |
+| 06:00 | JPY | Low | Economy Watchers Current Index (Jun) | 44.0 | 44.3 | 43.6 |
+| 07:45 | EUR | Low | French Reserve Assets Total (Jun) | 355,389.0M |  | 381,300.0M |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.960% |
+| 11:00 | EUR | Low | French Current Account (May) |  |  | -0.20B |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.57% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 0.0% |
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 170.6 |
 | 12:00 | USD | Low | Mortgage Market Index |  |  | 272.2 |
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 828.7 |
 | 12:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 13:00 | BRL | Moderate | Retail Sales (MoM) (May) |  |  | -1.5% |
 | 13:00 | BRL | Moderate | Retail Sales (YoY) (May) |  |  | 1.0% |
-| 15:00 | USD | Low | Wholesale Inventories (MoM) (May) |  | 0.3% | 0.3% |
+| 13:00 | BRL | Moderate | Retail Sales (MoM) (May) |  |  | -1.5% |
+| 15:00 | USD | Low | Wholesale Inventories (MoM) (May) |  | 0.3% | 0.6% |
 | 15:00 | USD | Low | Wholesale Trade Sales (MoM) (May) |  |  | 2.0% |
-| 15:30 | USD | High | Crude Oil Inventories |  |  | -3.775M |
+| 15:30 | USD | High | Crude Oil Inventories |  | -1.900M | -3.775M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.085M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 0.370M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.709M |
@@ -42,7 +41,8 @@
 | 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (Jul) |  |  | 48.95 |
 | 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (Jul) |  |  | 51.67 |
 | 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Jul) |  |  | 53.00 |
-| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 1.2% | 1.2% |
+| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 1.4% | 1.4% |
+| 17:40 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 18:00 | USD | High | 10-Year Note Auction |  |  | 4.538% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -1.027B |
 | 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
