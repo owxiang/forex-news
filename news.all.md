@@ -17,14 +17,12 @@
 | 07:45 | EUR | Low | French Reserve Assets Total (Jun) | 355,389.0M |  | 381,300.0M |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction | 3.090% |  | 2.960% |
 | 11:00 | EUR | Low | French Current Account (May) | -0.10B |  | -0.60B |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.57% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 0.0% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 170.6 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 272.2 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 828.7 |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.58% |  | 6.57% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | -2.2% |  | 0.0% |
+| 12:00 | USD | Low | MBA Purchase Index | 169.5 |  | 170.6 |
+| 12:00 | USD | Low | Mortgage Market Index | 266.3 |  | 272.2 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 794.4 |  | 828.7 |
 | 12:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 13:00 | BRL | Moderate | Retail Sales (YoY) (May) |  |  | 1.0% |
-| 13:00 | BRL | Moderate | Retail Sales (MoM) (May) |  |  | -1.5% |
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (May) |  | 0.3% | 0.6% |
 | 15:00 | USD | Low | Wholesale Trade Sales (MoM) (May) |  |  | 2.0% |
 | 15:30 | USD | High | Crude Oil Inventories |  | -1.900M | -3.775M |

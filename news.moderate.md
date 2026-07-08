@@ -9,8 +9,6 @@
 | 04:00 | NZD | RBNZ Press Conference |  |  |  |
 | 10:30 | EUR | German 10-Year Bund Auction | 3.090% |  | 2.960% |
 | 12:30 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 13:00 | BRL | Retail Sales (YoY) (May) |  |  | 1.0% |
-| 13:00 | BRL | Retail Sales (MoM) (May) |  |  | -1.5% |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | 0.709M |
 | 16:30 | USD | Atlanta Fed GDPNow (Q2) |  | 1.4% | 1.4% |
 | 17:40 | EUR | ECB's Schnabel Speaks |  |  |  |

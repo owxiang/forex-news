@@ -10,11 +10,11 @@
 | 06:00 | JPY | Economy Watchers Current Index (Jun) | 44.0 | 44.3 | 43.6 |
 | 07:45 | EUR | French Reserve Assets Total (Jun) | 355,389.0M |  | 381,300.0M |
 | 11:00 | EUR | French Current Account (May) | -0.10B |  | -0.60B |
-| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.57% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 0.0% |
-| 12:00 | USD | MBA Purchase Index |  |  | 170.6 |
-| 12:00 | USD | Mortgage Market Index |  |  | 272.2 |
-| 12:00 | USD | Mortgage Refinance Index |  |  | 828.7 |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.58% |  | 6.57% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | -2.2% |  | 0.0% |
+| 12:00 | USD | MBA Purchase Index | 169.5 |  | 170.6 |
+| 12:00 | USD | Mortgage Market Index | 266.3 |  | 272.2 |
+| 12:00 | USD | Mortgage Refinance Index | 794.4 |  | 828.7 |
 | 15:00 | USD | Wholesale Inventories (MoM) (May) |  | 0.3% | 0.6% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (May) |  |  | 2.0% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.085M |
