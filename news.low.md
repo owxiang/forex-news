@@ -29,4 +29,4 @@
 | 16:00 | CAD | Thomson Reuters IPSOS PCSI (Jul) | 49.42 |  | 48.95 |
 | 16:00 | MXN | Thomson Reuters IPSOS PCSI (Jul) | 53.74 |  | 51.67 |
 | 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Jul) | 52.05 |  | 53.00 |
-| 18:30 | BRL | Foreign Exchange Flows |  |  | -1.027B |
+| 18:30 | BRL | Foreign Exchange Flows | -4.218B |  | -1.027B |

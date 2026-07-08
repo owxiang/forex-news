@@ -39,10 +39,10 @@
 | 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (Jul) | 49.42 |  | 48.95 |
 | 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (Jul) | 53.74 |  | 51.67 |
 | 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Jul) | 52.05 |  | 53.00 |
-| 6 min | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 1.4% | 1.4% |
+| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 1.3% | 1.4% | 1.4% |
 | 17:40 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 18:00 | USD | High | 10-Year Note Auction |  |  | 4.538% |
-| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -1.027B |
+| 18:00 | USD | High | 10-Year Note Auction | 4.580% |  | 4.538% |
+| 18:30 | BRL | Low | Foreign Exchange Flows | -4.218B |  | -1.027B |
 | 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
 | 20:00 | USD | Moderate | Consumer Credit (May) |  | 16.90B | 20.73B |
 | 23:30 | NZD | Moderate | Business NZ PMI (Jun) |  |  | 49.9 |
