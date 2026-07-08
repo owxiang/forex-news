@@ -1,36 +1,33 @@
-## 07 July 2026 - Low Impact Forex News
+## 08 July 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | JPY | Overall wage income of employees (May) | 3.2% | 3.4% | 3.6% |
-| 00:30 | JPY | Overtime Pay (YoY) (May) | 2.90% |  | 4.80% |
-| 00:50 | JPY | Foreign Reserves (USD) (Jun) | 1,287.5B |  | 1,305.9B |
-| 04:00 | IDR | FX Reserves (USD) (Jun) | 145.60B |  | 144.90B |
-| 04:35 | JPY | 30-Year JGB Auction | 3.993% |  | 3.860% |
-| 06:00 | JPY | Coincident Indicator (MoM) (May) | 0.4% |  | 1.3% |
-| 06:00 | JPY | Leading Index (May) | 116.8 | 116.9 | 116.1 |
-| 06:00 | JPY | Leading Index (MoM) (May) | 0.7% |  | 0.7% |
-| 07:00 | EUR | German Industrial Production (YoY) (May) | 0.11% |  | -0.76% |
-| 07:00 | ZAR | Foreign Reserves (USD) (Jun) | 74.11B |  | 76.58B |
-| 07:00 | ZAR | Net FX Reserves (USD) (Jun) | 71.338B |  | 73.467B |
-| 07:45 | EUR | French Exports (May) | 53.6B |  | 54.7B |
-| 07:45 | EUR | French Imports (May) | 60.5B |  | 60.1B |
-| 07:45 | EUR | French Trade Balance (May) | -6.9B | -5.9B | -5.4B |
-| 08:00 | CHF | Foreign Reserves (USD) (Jun) | 758.8B |  | 710.9B |
-| 09:00 | CNY | FX Reserves (USD) (Jun) | 3.416T | 3.440T | 3.442T |
-| 09:30 | HKD | Foreign Reserves (USD) (Jun) | 445.90B |  | 445.90B |
-| 09:40 | EUR | Spanish 12-Month Letras Auction | 2.500% |  | 2.543% |
-| 09:40 | EUR | Spanish 6-Month Letras Auction | 2.385% |  | 2.376% |
-| 10:00 | SGD | Foreign Reserves USD (MoM) (Jun) | 426.2B |  | 430.1B |
-| 11:00 | CAD | Leading Index (MoM) (Jun) | 0.14% |  | 0.15% |
-| 12:00 | BRL | IGP-DI Inflation Index (MoM) (Jun) | -0.79% |  | 0.87% |
-| 13:30 | CAD | Exports (May) | 77.10B |  | 76.40B |
-| 13:30 | CAD | Imports (May) | 72.86B |  | 73.00B |
-| 13:55 | USD | Redbook (YoY) | 11.5% |  | 10.5% |
-| 15:00 | USD | IBD/TIPP Economic Optimism (Jul) | 45.5 | 45.0 | 42.5 |
-| 15:00 | CAD | Ivey PMI n.s.a (Jun) | 59.7 |  | 61.3 |
-| 15:00 | BRL | Auto Production (MoM) (Jun) | -3.0% |  | 6.3% |
-| 15:00 | BRL | Auto Sales (MoM) (Jun) | -0.8% |  | 10.6% |
-| 16:20 | NZD | GlobalDairyTrade Price Index | -4.9% |  | -2.8% |
-| 16:20 | USD | Milk Auctions | 3,793.0 |  | 3,979.0 |
-| 16:30 | USD | 52-Week Bill Auction | 3.860% |  | 3.750% |
+| 00:00 | KRW | Current Account (May) | 38.61B |  | 28.29B |
+| 00:50 | JPY | Bank Lending (YoY) (Jun) | 5.7% | 5.8% | 5.7% |
+| 02:30 | AUD | Building Approvals (YoY) (May) |  | 5.30% | 10.20% |
+| 02:30 | AUD | Private House Approvals (May) |  | 2.8% | -1.0% |
+| 04:00 | IDR | Consumer Confidence (Jun) |  |  | 120.9 |
+| 06:00 | JPY | Economy Watchers Current Index (Jun) |  | 44.3 | 43.6 |
+| 07:00 | NOK | Manufacturing Production (MoM) (May) |  |  | -0.9% |
+| 07:45 | EUR | French Current Account (May) |  |  | -0.20B |
+| 07:45 | EUR | French Reserve Assets Total (Jun) |  |  | 381,300.0M |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.57% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 0.0% |
+| 12:00 | USD | MBA Purchase Index |  |  | 170.6 |
+| 12:00 | USD | Mortgage Market Index |  |  | 272.2 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 828.7 |
+| 15:00 | USD | Wholesale Inventories (MoM) (May) |  | 0.3% | 0.3% |
+| 15:00 | USD | Wholesale Trade Sales (MoM) (May) |  |  | 2.0% |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.085M |
+| 15:30 | USD | Crude Oil Imports |  |  | 0.370M |
+| 15:30 | USD | Distillate Fuel Production |  |  | -0.042M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | 2.483M |
+| 15:30 | USD | Gasoline Production |  |  | 0.481M |
+| 15:30 | USD | Heating Oil Stockpiles |  |  | -0.310M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.5% |
+| 15:30 | USD | Gasoline Inventories |  |  | -2.333M |
+| 16:00 | USD | Thomson Reuters IPSOS PCSI (Jul) |  |  | 49.14 |
+| 16:00 | CAD | Thomson Reuters IPSOS PCSI (Jul) |  |  | 48.95 |
+| 16:00 | MXN | Thomson Reuters IPSOS PCSI (Jul) |  |  | 51.67 |
+| 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Jul) |  |  | 53.00 |
+| 18:30 | BRL | Foreign Exchange Flows |  |  | -1.027B |
