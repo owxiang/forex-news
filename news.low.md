@@ -1,32 +1,32 @@
-## 08 July 2026 - Low Impact Forex News
+## 09 July 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Current Account (May) | 38.61B |  | 28.29B |
-| 00:50 | JPY | Bank Lending (YoY) (Jun) | 5.7% | 5.8% | 5.7% |
-| 02:30 | AUD | Building Approvals (YoY) (May) | 5.30% | 5.30% | 10.90% |
-| 02:30 | AUD | Private House Approvals (May) | 2.8% | 2.8% | -1.0% |
-| 04:00 | IDR | Consumer Confidence (Jun) | 117.8 |  | 120.9 |
-| 06:00 | JPY | Economy Watchers Current Index (Jun) | 44.0 | 44.3 | 43.6 |
-| 07:45 | EUR | French Reserve Assets Total (Jun) | 355,389.0M |  | 381,300.0M |
-| 11:00 | EUR | French Current Account (May) | -0.10B |  | -0.60B |
-| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.58% |  | 6.57% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) | -2.2% |  | 0.0% |
-| 12:00 | USD | MBA Purchase Index | 169.5 |  | 170.6 |
-| 12:00 | USD | Mortgage Market Index | 266.3 |  | 272.2 |
-| 12:00 | USD | Mortgage Refinance Index | 794.4 |  | 828.7 |
-| 15:00 | USD | Wholesale Inventories (MoM) (May) | 0.1% | 0.3% | 0.7% |
-| 15:00 | USD | Wholesale Trade Sales (MoM) (May) | 3.4% |  | 2.2% |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) | -0.172M |  | 0.085M |
-| 15:30 | USD | Crude Oil Imports | 1.096M |  | 0.370M |
-| 15:30 | USD | Distillate Fuel Production | -0.001M |  | -0.042M |
-| 15:30 | USD | EIA Weekly Distillates Stocks | -4.980M | 0.600M | 2.483M |
-| 15:30 | USD | Gasoline Production | -0.233M |  | 0.481M |
-| 15:30 | USD | Heating Oil Stockpiles | -0.427M |  | -0.310M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.8% |  | 0.5% |
-| 15:30 | USD | Gasoline Inventories | -1.904M | -1.600M | -2.333M |
-| 16:00 | USD | Thomson Reuters IPSOS PCSI (Jul) | 50.99 |  | 49.14 |
-| 16:00 | CAD | Thomson Reuters IPSOS PCSI (Jul) | 49.42 |  | 48.95 |
-| 16:00 | MXN | Thomson Reuters IPSOS PCSI (Jul) | 53.74 |  | 51.67 |
-| 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Jul) | 52.05 |  | 53.00 |
-| 18:30 | BRL | Foreign Exchange Flows | -4.218B |  | -1.027B |
+| 00:50 | JPY | Foreign Bonds Buying |  |  | -280.1B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -1,816.5B |
+| 00:50 | JPY | M2 Money Stock (YoY) |  | 2.4% | 2.5% |
+| 00:50 | JPY | M3 Money Supply (Jun) |  |  | 2,328.6B |
+| 04:00 | IDR | Retail Sales (YoY) (May) |  |  | -3.7% |
+| 04:35 | JPY | 5-Year JGB Auction |  |  | 1.905% |
+| 07:00 | EUR | German Exports (MoM) (May) |  | -0.3% | 0.9% |
+| 07:00 | EUR | German Imports (MoM) (May) |  | 0.1% | 1.2% |
+| 07:00 | JPY | Machine Tool Orders (YoY) (Jun) |  | 37.4% | 45.1% |
+| 07:00 | NOK | Manufacturing Production (MoM) (May) |  |  | -0.9% |
+| 10:10 | EUR | Italian 12-Month BOT Auction |  |  | 2.695% |
+| 11:00 | GBP | Thomson Reuters IPSOS PCSI (Jul) |  |  | 47.4 |
+| 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Jul) |  |  | 43.71 |
+| 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Jul) |  |  | 43.22 |
+| 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Jul) |  |  | 38.66 |
+| 11:00 | EUR | Thomson Reuters IPSOS PCSI (Jul) |  |  | 49.70 |
+| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (Jul) |  |  | 46.23 |
+| 12:00 | ZAR | Manufacturing Production (YoY) (May) |  |  | -2.9% |
+| 12:00 | ZAR | Manufacturing Production (MoM) (May) |  |  | -2.7% |
+| 13:00 | MXN | Core CPI (MoM) (Jun) |  | 0.31% | 0.22% |
+| 13:00 | MXN | Month Core Inflation (YoY) (Jun) |  | 4.10% | 4.19% |
+| 13:00 | MXN | PPI (MoM) (Jun) |  |  | 0.50% |
+| 13:00 | MXN | PPI (YoY) (Jun) |  |  | 3.00% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 222.00K |
+| 15:30 | USD | Natural Gas Storage |  | 60B | 87B |
+| 16:30 | USD | 4-Week Bill Auction |  |  | 3.605% |
+| 16:30 | USD | 8-Week Bill Auction |  |  | 3.650% |
+| 18:30 | USD | Fed Logan Speaks |  |  |  |
