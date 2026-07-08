@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Adjusted Current Account (May) | 3.06T | 3.19T | 4.21T |
 | 00:50 | JPY | Current Account n.s.a. (May) | 3.968T | 4.121T | 3.908T |
-| 02:30 | AUD | Building Approvals (MoM) (May) |  | -1.1% | -3.4% |
+| 02:30 | AUD | Building Approvals (MoM) (May) | -1.1% | -1.1% | -0.2% |
 | 03:00 | NZD | RBNZ Rate Statement |  |  |  |
 | 04:00 | NZD | RBNZ Press Conference |  |  |  |
 | 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.960% |

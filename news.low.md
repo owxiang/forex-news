@@ -4,10 +4,10 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | KRW | Current Account (May) | 38.61B |  | 28.29B |
 | 00:50 | JPY | Bank Lending (YoY) (Jun) | 5.7% | 5.8% | 5.7% |
-| 02:30 | AUD | Building Approvals (YoY) (May) |  | 5.30% | 10.20% |
-| 02:30 | AUD | Private House Approvals (May) |  | 2.8% | -1.0% |
-| 04:00 | IDR | Consumer Confidence (Jun) |  |  | 120.9 |
-| 06:00 | JPY | Economy Watchers Current Index (Jun) |  | 44.3 | 43.6 |
+| 02:30 | AUD | Building Approvals (YoY) (May) | 5.30% | 5.30% | 10.90% |
+| 02:30 | AUD | Private House Approvals (May) | 2.8% | 2.8% | -1.0% |
+| 04:00 | IDR | Consumer Confidence (Jun) | 117.8 |  | 120.9 |
+| 43 min | JPY | Economy Watchers Current Index (Jun) |  | 44.3 | 43.6 |
 | 07:00 | NOK | Manufacturing Production (MoM) (May) |  |  | -0.9% |
 | 07:45 | EUR | French Current Account (May) |  |  | -0.20B |
 | 07:45 | EUR | French Reserve Assets Total (Jun) |  |  | 381,300.0M |

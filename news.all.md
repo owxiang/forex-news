@@ -6,14 +6,14 @@
 | 00:50 | JPY | Moderate | Adjusted Current Account (May) | 3.06T | 3.19T | 4.21T |
 | 00:50 | JPY | Low | Bank Lending (YoY) (Jun) | 5.7% | 5.8% | 5.7% |
 | 00:50 | JPY | Moderate | Current Account n.s.a. (May) | 3.968T | 4.121T | 3.908T |
-| 02:30 | AUD | Low | Building Approvals (YoY) (May) |  | 5.30% | 10.20% |
-| 02:30 | AUD | Moderate | Building Approvals (MoM) (May) |  | -1.1% | -3.4% |
-| 02:30 | AUD | Low | Private House Approvals (May) |  | 2.8% | -1.0% |
-| 03:00 | NZD | High | RBNZ Interest Rate Decision |  | 2.50% | 2.25% |
+| 02:30 | AUD | Low | Building Approvals (YoY) (May) | 5.30% | 5.30% | 10.90% |
+| 02:30 | AUD | Moderate | Building Approvals (MoM) (May) | -1.1% | -1.1% | -0.2% |
+| 02:30 | AUD | Low | Private House Approvals (May) | 2.8% | 2.8% | -1.0% |
+| 03:00 | NZD | High | RBNZ Interest Rate Decision | 2.50% | 2.50% | 2.25% |
 | 03:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
 | 04:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
-| 04:00 | IDR | Low | Consumer Confidence (Jun) |  |  | 120.9 |
-| 06:00 | JPY | Low | Economy Watchers Current Index (Jun) |  | 44.3 | 43.6 |
+| 04:00 | IDR | Low | Consumer Confidence (Jun) | 117.8 |  | 120.9 |
+| 43 min | JPY | Low | Economy Watchers Current Index (Jun) |  | 44.3 | 43.6 |
 | 07:00 | NOK | Low | Manufacturing Production (MoM) (May) |  |  | -0.9% |
 | 07:45 | EUR | Low | French Current Account (May) |  |  | -0.20B |
 | 07:45 | EUR | Low | French Reserve Assets Total (Jun) |  |  | 381,300.0M |
