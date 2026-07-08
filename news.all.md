@@ -44,5 +44,5 @@
 | 18:00 | USD | High | 10-Year Note Auction | 4.580% |  | 4.538% |
 | 18:30 | BRL | Low | Foreign Exchange Flows | -4.218B |  | -1.027B |
 | 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
-| 20:00 | USD | Moderate | Consumer Credit (May) |  | 16.90B | 20.73B |
+| 20:00 | USD | Moderate | Consumer Credit (May) | -0.18B | 16.90B | 20.82B |
 | 23:30 | NZD | Moderate | Business NZ PMI (Jun) |  |  | 49.9 |
