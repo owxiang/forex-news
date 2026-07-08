@@ -15,8 +15,8 @@
 | 04:00 | IDR | Low | Consumer Confidence (Jun) | 117.8 |  | 120.9 |
 | 06:00 | JPY | Low | Economy Watchers Current Index (Jun) | 44.0 | 44.3 | 43.6 |
 | 07:45 | EUR | Low | French Reserve Assets Total (Jun) | 355,389.0M |  | 381,300.0M |
-| 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.960% |
-| 11:00 | EUR | Low | French Current Account (May) |  |  | -0.20B |
+| 10:30 | EUR | Moderate | German 10-Year Bund Auction | 3.090% |  | 2.960% |
+| 11:00 | EUR | Low | French Current Account (May) | -0.10B |  | -0.60B |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.57% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 0.0% |
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 170.6 |

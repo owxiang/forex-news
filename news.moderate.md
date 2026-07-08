@@ -7,7 +7,7 @@
 | 02:30 | AUD | Building Approvals (MoM) (May) | -1.1% | -1.1% | -0.2% |
 | 03:00 | NZD | RBNZ Rate Statement |  |  |  |
 | 04:00 | NZD | RBNZ Press Conference |  |  |  |
-| 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.960% |
+| 10:30 | EUR | German 10-Year Bund Auction | 3.090% |  | 2.960% |
 | 12:30 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 13:00 | BRL | Retail Sales (YoY) (May) |  |  | 1.0% |
 | 13:00 | BRL | Retail Sales (MoM) (May) |  |  | -1.5% |

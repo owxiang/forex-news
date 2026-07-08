@@ -9,7 +9,7 @@
 | 04:00 | IDR | Consumer Confidence (Jun) | 117.8 |  | 120.9 |
 | 06:00 | JPY | Economy Watchers Current Index (Jun) | 44.0 | 44.3 | 43.6 |
 | 07:45 | EUR | French Reserve Assets Total (Jun) | 355,389.0M |  | 381,300.0M |
-| 11:00 | EUR | French Current Account (May) |  |  | -0.20B |
+| 11:00 | EUR | French Current Account (May) | -0.10B |  | -0.60B |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.57% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 0.0% |
 | 12:00 | USD | MBA Purchase Index |  |  | 170.6 |
