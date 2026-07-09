@@ -14,4 +14,4 @@
 | 14:00 | USD | FOMC Member Williams Speaks |  |  |  |
 | 15:00 | USD | Existing Home Sales (MoM) (Jun) | -2.4% |  | 3.7% |
 | 16:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 6,725B |
+| 21:30 | USD | Fed's Balance Sheet | 6,736B |  | 6,725B |
