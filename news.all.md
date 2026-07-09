@@ -24,22 +24,23 @@
 | 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (Jul) | 50.64 |  | 49.70 |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (Jul) | 48.25 |  | 46.23 |
+| 12:00 | INR | Low | M3 Money Supply | 13.0% |  | 11.9% |
 | 12:00 | ZAR | Low | Manufacturing Production (MoM) (May) | 1.1% |  | -2.6% |
 | 12:00 | ZAR | Low | Manufacturing Production (YoY) (May) | -4.3% |  | -2.9% |
-| 21 min | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 51 min | MXN | Low | Core CPI (MoM) (Jun) |  | 0.31% | 0.22% |
-| 51 min | MXN | Moderate | CPI (YoY) (Jun) |  | 3.52% | 3.94% |
-| 51 min | MXN | Moderate | CPI (MoM) (Jun) |  | -0.13% | -0.21% |
-| 51 min | MXN | Low | Month Core Inflation (YoY) (Jun) |  | 4.10% | 4.19% |
-| 51 min | MXN | Low | PPI (MoM) (Jun) |  |  | 0.50% |
-| 51 min | MXN | Low | PPI (YoY) (Jun) |  |  | 3.00% |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,820K | 1,814K |
-| 13:30 | USD | High | Initial Jobless Claims |  | 218K | 215K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 222.00K |
+| 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 13:00 | MXN | Low | Core CPI (MoM) (Jun) | 0.24% | 0.31% | 0.22% |
+| 13:00 | MXN | Moderate | CPI (YoY) (Jun) | 3.37% | 3.52% | 3.94% |
+| 13:00 | MXN | Moderate | CPI (MoM) (Jun) | -0.27% | -0.13% | -0.21% |
+| 13:00 | MXN | Low | Month Core Inflation (YoY) (Jun) | 4.03% | 4.10% | 4.19% |
+| 13:00 | MXN | Low | PPI (MoM) (Jun) | -0.90% |  | 0.40% |
+| 13:00 | MXN | Low | PPI (YoY) (Jun) | 2.10% |  | 2.90% |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,814K | 1,820K | 1,806K |
+| 13:30 | USD | High | Initial Jobless Claims | 215K | 218K | 217K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 218.75K |  | 222.50K |
 | 14:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 15:00 | USD | High | Existing Home Sales (Jun) |  | 4.19M | 4.17M |
-| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Jun) |  |  | 3.2% |
-| 15:30 | USD | Low | Natural Gas Storage |  | 60B | 87B |
+| 15:00 | USD | High | Existing Home Sales (Jun) | 4.09M | 4.19M | 4.19M |
+| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Jun) | -2.4% |  | 3.7% |
+| 15:30 | USD | Low | Natural Gas Storage | 61B | 60B | 87B |
 | 16:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.605% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.650% |
