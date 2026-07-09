@@ -12,19 +12,19 @@
 | 07:00 | EUR | German Exports (MoM) (May) | 0.9% | -0.3% | 0.8% |
 | 07:00 | EUR | German Imports (MoM) (May) | -2.5% | 0.1% | 1.1% |
 | 07:00 | JPY | Machine Tool Orders (YoY) (Jun) | 52.8% | 37.4% | 45.1% |
-| 10:10 | EUR | Italian 12-Month BOT Auction |  |  | 2.695% |
-| 11:00 | GBP | Thomson Reuters IPSOS PCSI (Jul) |  |  | 47.4 |
-| 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Jul) |  |  | 43.71 |
-| 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Jul) |  |  | 43.22 |
-| 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Jul) |  |  | 38.66 |
-| 11:00 | EUR | Thomson Reuters IPSOS PCSI (Jul) |  |  | 49.70 |
-| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (Jul) |  |  | 46.23 |
-| 12:00 | ZAR | Manufacturing Production (MoM) (May) |  |  | -2.7% |
-| 12:00 | ZAR | Manufacturing Production (YoY) (May) |  |  | -2.9% |
-| 13:00 | MXN | Core CPI (MoM) (Jun) |  | 0.31% | 0.22% |
-| 13:00 | MXN | Month Core Inflation (YoY) (Jun) |  | 4.10% | 4.19% |
-| 13:00 | MXN | PPI (MoM) (Jun) |  |  | 0.50% |
-| 13:00 | MXN | PPI (YoY) (Jun) |  |  | 3.00% |
+| 10:10 | EUR | Italian 12-Month BOT Auction | 2.690% |  | 2.695% |
+| 11:00 | GBP | Thomson Reuters IPSOS PCSI (Jul) | 46.2 |  | 47.4 |
+| 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Jul) | 45.85 |  | 43.71 |
+| 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Jul) | 42.28 |  | 43.22 |
+| 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Jul) | 41.57 |  | 38.66 |
+| 11:00 | EUR | Thomson Reuters IPSOS PCSI (Jul) | 50.64 |  | 49.70 |
+| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (Jul) | 48.25 |  | 46.23 |
+| 12:00 | ZAR | Manufacturing Production (MoM) (May) | 1.1% |  | -2.6% |
+| 12:00 | ZAR | Manufacturing Production (YoY) (May) | -4.3% |  | -2.9% |
+| 51 min | MXN | Core CPI (MoM) (Jun) |  | 0.31% | 0.22% |
+| 51 min | MXN | Month Core Inflation (YoY) (Jun) |  | 4.10% | 4.19% |
+| 51 min | MXN | PPI (MoM) (Jun) |  |  | 0.50% |
+| 51 min | MXN | PPI (YoY) (Jun) |  |  | 3.00% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 222.00K |
 | 15:30 | USD | Natural Gas Storage |  | 60B | 87B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.605% |

@@ -16,23 +16,23 @@
 | 07:00 | EUR | Low | German Imports (MoM) (May) | -2.5% | 0.1% | 1.1% |
 | 07:00 | EUR | Moderate | German Trade Balance (May) | 19.1B | 14.9B | 14.7B |
 | 07:00 | JPY | Low | Machine Tool Orders (YoY) (Jun) | 52.8% | 37.4% | 45.1% |
-| 10:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.695% |
-| 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Jul) |  |  | 47.4 |
-| 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Jul) |  |  | 43.71 |
-| 11:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Jul) |  |  | 43.22 |
-| 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Jul) |  |  | 38.66 |
-| 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (Jul) |  |  | 49.70 |
+| 10:10 | EUR | Low | Italian 12-Month BOT Auction | 2.690% |  | 2.695% |
+| 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Jul) | 46.2 |  | 47.4 |
+| 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Jul) | 45.85 |  | 43.71 |
+| 11:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Jul) | 42.28 |  | 43.22 |
+| 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Jul) | 41.57 |  | 38.66 |
+| 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (Jul) | 50.64 |  | 49.70 |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (Jul) |  |  | 46.23 |
-| 12:00 | ZAR | Low | Manufacturing Production (MoM) (May) |  |  | -2.7% |
-| 12:00 | ZAR | Low | Manufacturing Production (YoY) (May) |  |  | -2.9% |
-| 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:00 | MXN | Low | Core CPI (MoM) (Jun) |  | 0.31% | 0.22% |
-| 13:00 | MXN | Moderate | CPI (YoY) (Jun) |  | 3.52% | 3.94% |
-| 13:00 | MXN | Moderate | CPI (MoM) (Jun) |  | -0.13% | -0.21% |
-| 13:00 | MXN | Low | Month Core Inflation (YoY) (Jun) |  | 4.10% | 4.19% |
-| 13:00 | MXN | Low | PPI (MoM) (Jun) |  |  | 0.50% |
-| 13:00 | MXN | Low | PPI (YoY) (Jun) |  |  | 3.00% |
+| 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (Jul) | 48.25 |  | 46.23 |
+| 12:00 | ZAR | Low | Manufacturing Production (MoM) (May) | 1.1% |  | -2.6% |
+| 12:00 | ZAR | Low | Manufacturing Production (YoY) (May) | -4.3% |  | -2.9% |
+| 21 min | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 51 min | MXN | Low | Core CPI (MoM) (Jun) |  | 0.31% | 0.22% |
+| 51 min | MXN | Moderate | CPI (YoY) (Jun) |  | 3.52% | 3.94% |
+| 51 min | MXN | Moderate | CPI (MoM) (Jun) |  | -0.13% | -0.21% |
+| 51 min | MXN | Low | Month Core Inflation (YoY) (Jun) |  | 4.10% | 4.19% |
+| 51 min | MXN | Low | PPI (MoM) (Jun) |  |  | 0.50% |
+| 51 min | MXN | Low | PPI (YoY) (Jun) |  |  | 3.00% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,820K | 1,814K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 218K | 215K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 222.00K |
