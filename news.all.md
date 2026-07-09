@@ -42,9 +42,9 @@
 | 15:00 | USD | Moderate | Existing Home Sales (MoM) (Jun) | -2.4% |  | 3.7% |
 | 15:30 | USD | Low | Natural Gas Storage | 61B | 60B | 87B |
 | 16:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.605% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.650% |
-| 18:01 | USD | High | 30-Year Bond Auction |  |  | 5.050% |
+| 16:30 | USD | Low | 4-Week Bill Auction | 3.630% |  | 3.605% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 3.635% |  | 3.650% |
+| 18:01 | USD | High | 30-Year Bond Auction | 5.058% |  | 5.050% |
 | 18:30 | USD | Low | Fed Logan Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,725B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.077T |
