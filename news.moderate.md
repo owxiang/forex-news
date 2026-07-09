@@ -2,10 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | RICS House Price Balance (Jun) | -33% | -31% | -34% |
-| 02:30 | CNY | CPI (YoY) (Jun) |  | 1.1% | 1.2% |
-| 02:30 | CNY | CPI (MoM) (Jun) |  | -0.2% | -0.1% |
-| 02:30 | CNY | PPI (YoY) (Jun) |  | 4.1% | 3.9% |
+| 02:30 | CNY | CPI (YoY) (Jun) | 1.0% | 1.1% | 1.2% |
+| 02:30 | CNY | CPI (MoM) (Jun) | -0.3% | -0.2% | -0.1% |
+| 02:30 | CNY | PPI (YoY) (Jun) | 4.1% | 4.1% | 3.9% |
 | 07:00 | EUR | German Trade Balance (May) |  | 14.9B | 14.5B |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |

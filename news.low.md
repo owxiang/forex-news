@@ -2,16 +2,16 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Foreign Bonds Buying |  |  | -280.1B |
-| 00:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -1,816.5B |
-| 00:50 | JPY | M2 Money Stock (YoY) |  | 2.4% | 2.5% |
-| 00:50 | JPY | M3 Money Supply (Jun) |  |  | 2,328.6B |
-| 04:00 | IDR | Retail Sales (YoY) (May) |  |  | -3.7% |
-| 04:35 | JPY | 5-Year JGB Auction |  |  | 1.905% |
+| 00:50 | JPY | Foreign Bonds Buying | -218.1B |  | -277.5B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks | -22.2B |  | -1,817.5B |
+| 00:50 | JPY | M2 Money Stock (YoY) | 2.2% | 2.4% | 2.4% |
+| 00:50 | JPY | M3 Money Supply (Jun) | 2,327.9B |  | 2,328.2B |
+| 01:45 | IDR | Motorbike Sales (YoY) | 1.10% |  | -5.10% |
+| 04:00 | IDR | Retail Sales (YoY) (May) | -3.9% |  | -3.7% |
+| 04:35 | JPY | 5-Year JGB Auction | 2.020% |  | 1.905% |
 | 07:00 | EUR | German Exports (MoM) (May) |  | -0.3% | 0.9% |
 | 07:00 | EUR | German Imports (MoM) (May) |  | 0.1% | 1.2% |
 | 07:00 | JPY | Machine Tool Orders (YoY) (Jun) |  | 37.4% | 45.1% |
-| 07:00 | NOK | Manufacturing Production (MoM) (May) |  |  | -0.9% |
 | 10:10 | EUR | Italian 12-Month BOT Auction |  |  | 2.695% |
 | 11:00 | GBP | Thomson Reuters IPSOS PCSI (Jul) |  |  | 47.4 |
 | 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Jul) |  |  | 43.71 |

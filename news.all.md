@@ -2,21 +2,20 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:01 | GBP | Moderate | RICS House Price Balance (Jun) | -33% | -31% | -34% |
-| 00:50 | JPY | Low | Foreign Bonds Buying |  |  | -280.1B |
-| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -1,816.5B |
-| 00:50 | JPY | Low | M2 Money Stock (YoY) |  | 2.4% | 2.5% |
-| 00:50 | JPY | Low | M3 Money Supply (Jun) |  |  | 2,328.6B |
-| 02:30 | CNY | Moderate | CPI (YoY) (Jun) |  | 1.1% | 1.2% |
-| 02:30 | CNY | Moderate | CPI (MoM) (Jun) |  | -0.2% | -0.1% |
-| 02:30 | CNY | Moderate | PPI (YoY) (Jun) |  | 4.1% | 3.9% |
-| 04:00 | IDR | Low | Retail Sales (YoY) (May) |  |  | -3.7% |
-| 04:35 | JPY | Low | 5-Year JGB Auction |  |  | 1.905% |
+| 00:50 | JPY | Low | Foreign Bonds Buying | -218.1B |  | -277.5B |
+| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -22.2B |  | -1,817.5B |
+| 00:50 | JPY | Low | M2 Money Stock (YoY) | 2.2% | 2.4% | 2.4% |
+| 00:50 | JPY | Low | M3 Money Supply (Jun) | 2,327.9B |  | 2,328.2B |
+| 01:45 | IDR | Low | Motorbike Sales (YoY) | 1.10% |  | -5.10% |
+| 02:30 | CNY | Moderate | CPI (YoY) (Jun) | 1.0% | 1.1% | 1.2% |
+| 02:30 | CNY | Moderate | CPI (MoM) (Jun) | -0.3% | -0.2% | -0.1% |
+| 02:30 | CNY | Moderate | PPI (YoY) (Jun) | 4.1% | 4.1% | 3.9% |
+| 04:00 | IDR | Low | Retail Sales (YoY) (May) | -3.9% |  | -3.7% |
+| 04:35 | JPY | Low | 5-Year JGB Auction | 2.020% |  | 1.905% |
 | 07:00 | EUR | Low | German Exports (MoM) (May) |  | -0.3% | 0.9% |
 | 07:00 | EUR | Low | German Imports (MoM) (May) |  | 0.1% | 1.2% |
 | 07:00 | EUR | Moderate | German Trade Balance (May) |  | 14.9B | 14.5B |
 | 07:00 | JPY | Low | Machine Tool Orders (YoY) (Jun) |  | 37.4% | 45.1% |
-| 07:00 | NOK | Low | Manufacturing Production (MoM) (May) |  |  | -0.9% |
 | 10:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.695% |
 | 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Jul) |  |  | 47.4 |
 | 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Jul) |  |  | 43.71 |
