@@ -1,17 +1,25 @@
-## 09 July 2026 - Moderate Impact Forex News
+## 10 July 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | CNY | CPI (YoY) (Jun) | 1.0% | 1.1% | 1.2% |
-| 02:30 | CNY | CPI (MoM) (Jun) | -0.3% | -0.2% | -0.1% |
-| 02:30 | CNY | PPI (YoY) (Jun) | 4.1% | 4.1% | 3.9% |
-| 07:00 | EUR | German Trade Balance (May) | 19.1B | 14.9B | 14.7B |
-| 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:00 | MXN | CPI (YoY) (Jun) | 3.37% | 3.52% | 3.94% |
-| 13:00 | MXN | CPI (MoM) (Jun) | -0.27% | -0.13% | -0.21% |
-| 13:30 | USD | Continuing Jobless Claims | 1,814K | 1,820K | 1,806K |
-| 14:00 | USD | FOMC Member Williams Speaks |  |  |  |
-| 15:00 | USD | Existing Home Sales (MoM) (Jun) | -2.4% |  | 3.7% |
-| 16:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
-| 21:30 | USD | Fed's Balance Sheet | 6,736B |  | 6,725B |
+| 07:00 | EUR | German CPI (YoY) (Jun) |  | 2.3% | 2.6% |
+| 07:45 | EUR | French CPI (MoM) (Jun) |  | -0.2% | 0.1% |
+| 07:45 | EUR | French HICP (MoM) (Jun) |  | -0.3% | 0.1% |
+| 08:00 | CHF | SECO Consumer Climate (Jun) |  | -35 | -38 |
+| 10:00 | USD | IEA Monthly Report |  |  |  |
+| 13:00 | BRL | CPI (YoY) (Jun) |  | 4.80% | 4.72% |
+| 13:30 | CAD | Building Permits (MoM) (May) |  | 1.0% | -7.6% |
+| 13:30 | CAD | Employment Change (Jun) |  | 11.2K | 87.8K |
+| 13:30 | CAD | Unemployment Rate (Jun) |  | 6.6% | 6.6% |
+| 17:00 | USD | WASDE Report |  |  |  |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 445 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 580 |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | -102.1K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 110.5K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 194.0K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | -7.6K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -37.6K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -17.7K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 44.7K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | -155.1K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 1.1K |

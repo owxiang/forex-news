@@ -1,34 +1,51 @@
-## 09 July 2026 - Low Impact Forex News
+## 10 July 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Foreign Bonds Buying | -218.1B |  | -277.5B |
-| 00:50 | JPY | Foreign Investments in Japanese Stocks | -22.2B |  | -1,817.5B |
-| 00:50 | JPY | M2 Money Stock (YoY) | 2.2% | 2.4% | 2.4% |
-| 00:50 | JPY | M3 Money Supply (Jun) | 2,327.9B |  | 2,328.2B |
-| 01:45 | IDR | Motorbike Sales (YoY) (Jun) | 1.10% |  | -5.10% |
-| 04:00 | IDR | Retail Sales (YoY) (May) | -3.9% |  | -3.7% |
-| 04:35 | JPY | 5-Year JGB Auction | 2.020% |  | 1.905% |
-| 07:00 | EUR | German Exports (MoM) (May) | 0.9% | -0.3% | 0.8% |
-| 07:00 | EUR | German Imports (MoM) (May) | -2.5% | 0.1% | 1.1% |
-| 07:00 | JPY | Machine Tool Orders (YoY) (Jun) | 52.8% | 37.4% | 45.1% |
-| 10:10 | EUR | Italian 12-Month BOT Auction | 2.690% |  | 2.695% |
-| 11:00 | GBP | Thomson Reuters IPSOS PCSI (Jul) | 46.2 |  | 47.4 |
-| 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Jul) | 45.85 |  | 43.71 |
-| 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Jul) | 42.28 |  | 43.22 |
-| 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Jul) | 41.57 |  | 38.66 |
-| 11:00 | EUR | Thomson Reuters IPSOS PCSI (Jul) | 50.64 |  | 49.70 |
-| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (Jul) | 48.25 |  | 46.23 |
-| 12:00 | INR | M3 Money Supply | 13.0% |  | 11.9% |
-| 12:00 | ZAR | Manufacturing Production (MoM) (May) | 1.1% |  | -2.6% |
-| 12:00 | ZAR | Manufacturing Production (YoY) (May) | -4.3% |  | -2.9% |
-| 13:00 | MXN | Core CPI (MoM) (Jun) | 0.24% | 0.31% | 0.22% |
-| 13:00 | MXN | Month Core Inflation (YoY) (Jun) | 4.03% | 4.10% | 4.19% |
-| 13:00 | MXN | PPI (MoM) (Jun) | -0.90% |  | 0.40% |
-| 13:00 | MXN | PPI (YoY) (Jun) | 2.10% |  | 2.90% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. | 218.75K |  | 222.50K |
-| 15:30 | USD | Natural Gas Storage | 61B | 60B | 87B |
-| 16:30 | USD | 4-Week Bill Auction | 3.630% |  | 3.605% |
-| 16:30 | USD | 8-Week Bill Auction | 3.635% |  | 3.650% |
-| 18:30 | USD | Fed Logan Speaks |  |  |  |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.137T |  | 3.077T |
+| 00:50 | JPY | PPI (MoM) (Jun) | 0.4% | 0.3% | 1.1% |
+| 00:50 | JPY | PPI (YoY) (Jun) | 7.1% | 6.8% | 6.6% |
+| 01:00 | IDR | Car Sales (YoY) (Jun) | 12.00% |  | 14.00% |
+| 03:00 | KRW | Thomson Reuters IPSOS PCSI (Jul) | 45.48 |  | 47.71 |
+| 03:00 | INR | Thomson Reuters IPSOS PCSI (Jul) | 67.08 |  | 63.84 |
+| 03:00 | AUD | Thomson Reuters IPSOS PCSI (Jul) | 48.18 |  | 46.95 |
+| 03:00 | JPY | Thomson Reuters IPSOS PCSI (Jul) | 39.75 |  | 38.52 |
+| 03:00 | CNY | China Thomson Reuters IPSOS PCSI (Jul) | 72.84 |  | 72.28 |
+| 07:00 | EUR | German HICP (YoY) (Jun) |  | 2.4% | 2.7% |
+| 07:00 | EUR | German HICP (MoM) (Jun) |  | -0.2% | -0.1% |
+| 07:00 | NOK | Manufacturing Production (MoM) (May) |  | 0.4% | -0.9% |
+| 07:00 | NOK | Core CPI YTD (Jun) |  | 3.3% | 3.4% |
+| 07:00 | NOK | Core Inflation (MoM) (Jun) |  | 0.5% | 0.4% |
+| 07:00 | NOK | CPI (YoY) (Jun) |  | 3.2% | 3.1% |
+| 07:00 | NOK | CPI (MoM) (Jun) |  | 0.3% | 0.2% |
+| 07:00 | NOK | PPI (YoY) (Jun) |  |  | 24.0% |
+| 07:00 | NOK | Trade Balance (Jun) |  |  | 62.6B |
+| 07:45 | EUR | French CPI NSA (MoM) (Jun) |  |  | -0.20% |
+| 07:45 | EUR | French CPI NSA (YoY) (Jun) |  |  | 1.80% |
+| 07:45 | EUR | French CPI (YoY) (Jun) |  | 1.8% | 2.4% |
+| 07:45 | EUR | French HICP (YoY) (Jun) |  | 2.0% | 2.8% |
+| 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Jun) |  |  | 2.40% |
+| 09:00 | EUR | Italian Industrial Production (MoM) (May) |  | -0.1% | 0.5% |
+| 09:00 | EUR | Italian Industrial Production (YoY) (May) |  | 1.3% | 1.3% |
+| 11:00 | EUR | ECOFIN Meetings |  |  |  |
+| 12:30 | INR | Bank Loan Growth |  |  | 17.7% |
+| 12:30 | INR | Deposit Growth |  |  | 12.0% |
+| 12:30 | INR | FX Reserves, USD |  |  | 666.93B |
+| 13:00 | MXN | Industrial Production (YoY) (May) |  | -0.1% | 2.3% |
+| 13:00 | MXN | Industrial Production (MoM) (May) |  | -0.6% | 2.1% |
+| 13:00 | BRL | CPI (MoM) (Jun) |  | 0.31% | 0.58% |
+| 13:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Jun) |  |  | 0.60% |
+| 13:30 | CAD | Avg hourly wages Permanent employee (Jun) |  |  | 3.2% |
+| 13:30 | CAD | Full Employment Change (Jun) |  |  | 154.0K |
+| 13:30 | CAD | Part Time Employment Change (Jun) |  |  | -66.2K |
+| 13:30 | CAD | Participation Rate (Jun) |  |  | 65.0% |
+| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.6K |
+| 20:30 | USD | CFTC Copper speculative net positions |  |  | 64.8K |
+| 20:30 | USD | CFTC Corn speculative net positions |  |  | 64.2K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -170.8K |
+| 20:30 | USD | CFTC Silver speculative net positions |  |  | 27.4K |
+| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 76.6K |
+| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -55.0K |
+| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -150.8K |
+| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 70.9K |
+| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -39.0K |
+| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -63.3K |
