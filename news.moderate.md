@@ -13,7 +13,7 @@
 | 13:30 | CAD | Unemployment Rate (Jun) | 6.5% | 6.6% | 6.6% |
 | 17:00 | USD | WASDE Report |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 445 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 580 |
+| 18:10 | USD | U.S. Baker Hughes Total Rig Count | 581 |  | 580 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -102.1K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 110.5K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 194.0K |

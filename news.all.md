@@ -48,7 +48,7 @@
 | 13:30 | CAD | Moderate | Unemployment Rate (Jun) | 6.5% | 6.6% | 6.6% |
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 445 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 580 |
+| 18:10 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 581 |  | 580 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -102.1K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 0.6K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 64.8K |
