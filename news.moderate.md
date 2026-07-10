@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | EUR | German CPI (YoY) (Jun) |  | 2.3% | 2.6% |
-| 07:45 | EUR | French CPI (MoM) (Jun) |  | -0.2% | 0.1% |
-| 07:45 | EUR | French HICP (MoM) (Jun) |  | -0.3% | 0.1% |
-| 08:00 | CHF | SECO Consumer Climate (Jun) |  | -35 | -38 |
+| 07:00 | EUR | German CPI (YoY) (Jun) | 2.3% | 2.3% | 2.6% |
+| 07:45 | EUR | French CPI (MoM) (Jun) | -0.3% | -0.2% | 0.1% |
+| 07:45 | EUR | French HICP (MoM) (Jun) | -0.3% | -0.3% | 0.1% |
+| 08:00 | CHF | SECO Consumer Climate (Jun) | -36 | -35 | -38 |
 | 10:00 | USD | IEA Monthly Report |  |  |  |
 | 13:00 | BRL | CPI (YoY) (Jun) |  | 4.80% | 4.72% |
 | 13:30 | CAD | Building Permits (MoM) (May) |  | 1.0% | -7.6% |

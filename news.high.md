@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | EUR | German CPI (MoM) (Jun) |  | -0.3% | -0.2% |
+| 07:00 | EUR | German CPI (MoM) (Jun) | -0.3% | -0.3% | -0.2% |

@@ -10,28 +10,28 @@
 | 03:00 | AUD | Low | Thomson Reuters IPSOS PCSI (Jul) | 48.18 |  | 46.95 |
 | 03:00 | JPY | Low | Thomson Reuters IPSOS PCSI (Jul) | 39.75 |  | 38.52 |
 | 03:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Jul) | 72.84 |  | 72.28 |
-| 07:00 | EUR | High | German CPI (MoM) (Jun) |  | -0.3% | -0.2% |
-| 07:00 | EUR | Moderate | German CPI (YoY) (Jun) |  | 2.3% | 2.6% |
-| 07:00 | EUR | Low | German HICP (YoY) (Jun) |  | 2.4% | 2.7% |
-| 07:00 | EUR | Low | German HICP (MoM) (Jun) |  | -0.2% | -0.1% |
-| 07:00 | NOK | Low | Manufacturing Production (MoM) (May) |  | 0.4% | -0.9% |
-| 07:00 | NOK | Low | Core CPI YTD (Jun) |  | 3.3% | 3.4% |
-| 07:00 | NOK | Low | Core Inflation (MoM) (Jun) |  | 0.5% | 0.4% |
-| 07:00 | NOK | Low | CPI (YoY) (Jun) |  | 3.2% | 3.1% |
-| 07:00 | NOK | Low | CPI (MoM) (Jun) |  | 0.3% | 0.2% |
-| 07:00 | NOK | Low | PPI (YoY) (Jun) |  |  | 24.0% |
-| 07:00 | NOK | Low | Trade Balance (Jun) |  |  | 62.6B |
-| 07:45 | EUR | Low | French CPI NSA (MoM) (Jun) |  |  | -0.20% |
-| 07:45 | EUR | Low | French CPI NSA (YoY) (Jun) |  |  | 1.80% |
-| 07:45 | EUR | Low | French CPI (YoY) (Jun) |  | 1.8% | 2.4% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Jun) |  | -0.2% | 0.1% |
-| 07:45 | EUR | Low | French HICP (YoY) (Jun) |  | 2.0% | 2.8% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Jun) |  | -0.3% | 0.1% |
-| 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Jun) |  |  | 2.40% |
-| 08:00 | CHF | Moderate | SECO Consumer Climate (Jun) |  | -35 | -38 |
-| 09:00 | EUR | Low | Italian Industrial Production (MoM) (May) |  | -0.1% | 0.5% |
-| 09:00 | EUR | Low | Italian Industrial Production (YoY) (May) |  | 1.3% | 1.3% |
+| 07:00 | EUR | High | German CPI (MoM) (Jun) | -0.3% | -0.3% | -0.2% |
+| 07:00 | EUR | Moderate | German CPI (YoY) (Jun) | 2.3% | 2.3% | 2.6% |
+| 07:00 | EUR | Low | German HICP (YoY) (Jun) | 2.4% | 2.4% | 2.7% |
+| 07:00 | EUR | Low | German HICP (MoM) (Jun) | -0.2% | -0.2% | -0.1% |
+| 07:00 | NOK | Low | Core CPI YTD (Jun) | 3.4% | 3.3% | 3.4% |
+| 07:00 | NOK | Low | Core Inflation (MoM) (Jun) | 0.4% | 0.5% | 0.4% |
+| 07:00 | NOK | Low | CPI (MoM) (Jun) | -0.2% | 0.3% | 0.2% |
+| 07:00 | NOK | Low | CPI (YoY) (Jun) | 2.7% | 3.2% | 3.1% |
+| 07:45 | EUR | Low | French CPI NSA (YoY) (Jun) | 1.80% |  | 1.80% |
+| 07:45 | EUR | Low | French CPI NSA (MoM) (Jun) | -0.30% |  | -0.20% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Jun) | -0.3% | -0.2% | 0.1% |
+| 07:45 | EUR | Low | French CPI (YoY) (Jun) | 1.8% | 1.8% | 2.4% |
+| 07:45 | EUR | Low | French HICP (YoY) (Jun) | 2.0% | 2.0% | 2.8% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Jun) | -0.3% | -0.3% | 0.1% |
+| 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Jun) | 1.70% |  | 2.40% |
+| 08:00 | CHF | Moderate | SECO Consumer Climate (Jun) | -36 | -35 | -38 |
+| 20 min | EUR | Low | Italian Industrial Production (MoM) (May) |  | -0.1% | 0.5% |
+| 20 min | EUR | Low | Italian Industrial Production (YoY) (May) |  | 1.3% | 1.3% |
 | 10:00 | USD | Moderate | IEA Monthly Report |  |  |  |
+| 10:10 | EUR | Low | Italian 15-Year BTP Auction |  |  | 3.77% |
+| 10:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 3.03% |
+| 10:10 | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.55% |
 | 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 17.7% |
 | 12:30 | INR | Low | Deposit Growth |  |  | 12.0% |
