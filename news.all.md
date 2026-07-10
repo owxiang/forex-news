@@ -31,21 +31,21 @@
 | 10:20 | EUR | Low | Italian 3-Year BTP Auction | 2.98% |  | 3.03% |
 | 10:20 | EUR | Low | Italian 7-Year BTP Auction | 3.50% |  | 3.55% |
 | 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
-| 12:30 | INR | Low | Bank Loan Growth |  |  | 17.7% |
-| 12:30 | INR | Low | Deposit Growth |  |  | 12.0% |
-| 12:30 | INR | Low | FX Reserves, USD |  |  | 666.93B |
-| 13:00 | MXN | Low | Industrial Production (MoM) (May) |  | -0.6% | 2.1% |
-| 13:00 | MXN | Low | Industrial Production (YoY) (May) |  | -0.1% | 2.3% |
-| 13:00 | BRL | Low | CPI (MoM) (Jun) |  | 0.31% | 0.58% |
-| 13:00 | BRL | Moderate | CPI (YoY) (Jun) |  | 4.80% | 4.72% |
-| 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Jun) |  |  | 0.60% |
-| 13:30 | CAD | Low | Avg hourly wages Permanent employee (Jun) |  |  | 3.2% |
-| 13:30 | CAD | Moderate | Building Permits (MoM) (May) |  | 1.0% | -7.6% |
-| 13:30 | CAD | Moderate | Employment Change (Jun) |  | 11.2K | 87.8K |
-| 13:30 | CAD | Low | Full Employment Change (Jun) |  |  | 154.0K |
-| 13:30 | CAD | Low | Part Time Employment Change (Jun) |  |  | -66.2K |
-| 13:30 | CAD | Low | Participation Rate (Jun) |  |  | 65.0% |
-| 13:30 | CAD | Moderate | Unemployment Rate (Jun) |  | 6.6% | 6.6% |
+| 12:30 | INR | Low | Bank Loan Growth | 18.6% |  | 17.7% |
+| 12:30 | INR | Low | Deposit Growth | 13.3% |  | 12.0% |
+| 12:30 | INR | Low | FX Reserves, USD | 674.19B |  | 666.93B |
+| 13:00 | MXN | Low | Industrial Production (MoM) (May) | -0.8% | -0.6% | 2.1% |
+| 13:00 | MXN | Low | Industrial Production (YoY) (May) | -0.7% | -0.1% | 2.4% |
+| 13:00 | BRL | Low | CPI (MoM) (Jun) | 0.16% | 0.31% | 0.58% |
+| 13:00 | BRL | Moderate | CPI (YoY) (Jun) | 4.64% | 4.80% | 4.72% |
+| 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Jun) | 0.23% |  | 0.60% |
+| 13:30 | CAD | Low | Avg hourly wages Permanent employee (Jun) | 3.7% |  | 3.2% |
+| 13:30 | CAD | Moderate | Building Permits (MoM) (May) | -1.7% | 1.0% | -6.6% |
+| 13:30 | CAD | Moderate | Employment Change (Jun) | 18.2K | 11.2K | 87.8K |
+| 13:30 | CAD | Low | Full Employment Change (Jun) | 0.6K |  | 154.0K |
+| 13:30 | CAD | Low | Part Time Employment Change (Jun) | 17.5K |  | -66.2K |
+| 13:30 | CAD | Low | Participation Rate (Jun) | 65.0% |  | 65.0% |
+| 13:30 | CAD | Moderate | Unemployment Rate (Jun) | 6.5% | 6.6% | 6.6% |
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 445 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 580 |
