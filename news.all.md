@@ -1,5 +1,31 @@
-## 12 July 2026 - All Forex News
+## 13 July 2026 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 23:30 | NZD | Low | Performance of Services Index (Jun) |  |  | 47.5 |
+| 07:00 | NOK | Low | Manufacturing Production (MoM) (May) |  | 0.4% | -0.9% |
+| 07:00 | NOK | Low | Core CPI YTD (Jun) |  | 3.3% | 3.4% |
+| 07:00 | NOK | Low | Core Inflation (MoM) (Jun) |  | 0.5% | 0.4% |
+| 07:00 | NOK | Low | PPI (YoY) (Jun) |  |  | 24.0% |
+| 07:00 | NOK | Low | Trade Balance (Jun) |  |  | 62.6B |
+| 10:25 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 2.478% |
+| 10:30 | EUR | Low | German 6-Month Bubill Auction |  |  | 2.331% |
+| 11:00 | USD | Moderate | OPEC Meeting |  |  |  |
+| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 11:30 | INR | Moderate | CPI (YoY) (Jun) |  | 4.30% | 3.93% |
+| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 13:00 | EUR | Low | German Current Account Balance n.s.a (May) |  |  | 13.8B |
+| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.548% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.374% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.455% |
+| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.735% |
+| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.830% |
+| 17:30 | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 17:45 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 19:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 19:00 | USD | Moderate | Federal Budget Balance (Jun) |  | -132.8B | -293.0B |
+| 22:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 23:00 | NZD | Moderate | NZIER Business Confidence (Q2) |  |  | -4% |
+| 23:00 | NZD | Low | NZIER QSBO Capacity Utilization (Q2) |  |  | 91.2% |
+| 23:45 | NZD | Low | External Migration & Visitors (May) |  |  | 8.00% |
+| 23:45 | NZD | Low | Permanent/Long-Term Migration (May) |  |  | 3,090 |
