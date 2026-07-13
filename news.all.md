@@ -3,17 +3,20 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 07:00 | NOK | Low | Manufacturing Production (MoM) (May) | 0.7% | 0.4% | -0.6% |
+| 10:15 | INR | Low | Exports (USD) (Jun) | 40.41B |  | 45.20B |
+| 10:15 | INR | Low | Imports (USD) (Jun) | 70.84B |  | 73.41B |
+| 10:15 | INR | Low | Trade Balance (Jun) | -30.43B |  | -28.21B |
 | 10:25 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 2.478% |
-| 10:30 | EUR | Low | German 6-Month Bubill Auction |  |  | 2.331% |
+| 10:50 | EUR | Low | German 12-Month Bubill Auction | 2.566% |  | 2.478% |
+| 10:50 | EUR | Low | German 6-Month Bubill Auction | 2.436% |  | 2.331% |
 | 11:00 | USD | Moderate | OPEC Meeting |  |  |  |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 11:30 | INR | Moderate | CPI (YoY) (Jun) |  | 4.30% | 3.93% |
+| 11:30 | INR | Moderate | CPI (YoY) (Jun) | 4.38% | 4.30% | 3.93% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | EUR | Low | German Current Account Balance n.s.a (May) |  |  | 13.8B |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.548% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.374% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.455% |
+| 50 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.548% |
+| 50 min | EUR | Low | French 3-Month BTF Auction |  |  | 2.374% |
+| 50 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.455% |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.735% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.830% |
 | 17:30 | USD | Moderate | Fed Waller Speaks |  |  |  |
