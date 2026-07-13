@@ -2,11 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | NOK | Manufacturing Production (MoM) (May) |  | 0.4% | -0.9% |
-| 07:00 | NOK | Core CPI YTD (Jun) |  | 3.3% | 3.4% |
-| 07:00 | NOK | Core Inflation (MoM) (Jun) |  | 0.5% | 0.4% |
-| 07:00 | NOK | PPI (YoY) (Jun) |  |  | 24.0% |
-| 07:00 | NOK | Trade Balance (Jun) |  |  | 62.6B |
+| 07:00 | NOK | Manufacturing Production (MoM) (May) | 0.7% | 0.4% | -0.6% |
 | 10:30 | EUR | German 12-Month Bubill Auction |  |  | 2.478% |
 | 10:30 | EUR | German 6-Month Bubill Auction |  |  | 2.331% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
@@ -20,3 +16,4 @@
 | 23:00 | NZD | NZIER QSBO Capacity Utilization (Q2) |  |  | 91.2% |
 | 23:45 | NZD | External Migration & Visitors (May) |  |  | 8.00% |
 | 23:45 | NZD | Permanent/Long-Term Migration (May) |  |  | 3,090 |
+| 23:45 | NZD | Visitor Arrivals (MoM) |  |  | 2.3% |

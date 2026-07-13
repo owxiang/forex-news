@@ -2,11 +2,7 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 07:00 | NOK | Low | Manufacturing Production (MoM) (May) |  | 0.4% | -0.9% |
-| 07:00 | NOK | Low | Core CPI YTD (Jun) |  | 3.3% | 3.4% |
-| 07:00 | NOK | Low | Core Inflation (MoM) (Jun) |  | 0.5% | 0.4% |
-| 07:00 | NOK | Low | PPI (YoY) (Jun) |  |  | 24.0% |
-| 07:00 | NOK | Low | Trade Balance (Jun) |  |  | 62.6B |
+| 07:00 | NOK | Low | Manufacturing Production (MoM) (May) | 0.7% | 0.4% | -0.6% |
 | 10:25 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 2.478% |
 | 10:30 | EUR | Low | German 6-Month Bubill Auction |  |  | 2.331% |
@@ -29,3 +25,4 @@
 | 23:00 | NZD | Low | NZIER QSBO Capacity Utilization (Q2) |  |  | 91.2% |
 | 23:45 | NZD | Low | External Migration & Visitors (May) |  |  | 8.00% |
 | 23:45 | NZD | Low | Permanent/Long-Term Migration (May) |  |  | 3,090 |
+| 23:45 | NZD | Low | Visitor Arrivals (MoM) |  |  | 2.3% |
