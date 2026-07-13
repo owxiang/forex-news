@@ -24,8 +24,8 @@
 | 19:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 19:00 | USD | Moderate | Federal Budget Balance (Jun) | -120.0B | -135.8B | -293.0B |
 | 22:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 23:00 | NZD | Moderate | NZIER Business Confidence (Q2) |  |  | -4% |
-| 23:00 | NZD | Low | NZIER QSBO Capacity Utilization (Q2) |  |  | 91.2% |
-| 23:45 | NZD | Low | External Migration & Visitors (May) |  |  | 8.00% |
-| 23:45 | NZD | Low | Permanent/Long-Term Migration (May) |  |  | 3,090 |
-| 23:45 | NZD | Low | Visitor Arrivals (MoM) |  |  | 2.3% |
+| 23:00 | NZD | Moderate | NZIER Business Confidence (Q2) | 8% |  | -4% |
+| 23:00 | NZD | Low | NZIER QSBO Capacity Utilization (Q2) | 90.8% |  | 91.2% |
+| 23:45 | NZD | Low | External Migration & Visitors (May) | 6.70% |  | 8.00% |
+| 23:45 | NZD | Low | Permanent/Long-Term Migration (May) | 1,860 |  | 2,500 |
+| 23:45 | NZD | Low | Visitor Arrivals (MoM) | -2.4% |  | 1.8% |

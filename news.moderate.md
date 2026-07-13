@@ -10,4 +10,4 @@
 | 19:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 19:00 | USD | Federal Budget Balance (Jun) | -120.0B | -135.8B | -293.0B |
 | 22:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 23:00 | NZD | NZIER Business Confidence (Q2) |  |  | -4% |
+| 23:00 | NZD | NZIER Business Confidence (Q2) | 8% |  | -4% |
