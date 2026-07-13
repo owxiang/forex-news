@@ -17,12 +17,12 @@
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.701% |  | 2.548% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.410% |  | 2.374% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.540% |  | 2.455% |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.735% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.830% |
-| 47 min | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 16:30 | USD | Low | 3-Month Bill Auction | 3.760% |  | 3.735% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 3.860% |  | 3.830% |
+| 17:30 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 17:45 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 19:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 19:00 | USD | Moderate | Federal Budget Balance (Jun) |  | -132.8B | -293.0B |
+| 2 min | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 2 min | USD | Moderate | Federal Budget Balance (Jun) |  | -132.8B | -293.0B |
 | 22:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 23:00 | NZD | Moderate | NZIER Business Confidence (Q2) |  |  | -4% |
 | 23:00 | NZD | Low | NZIER QSBO Capacity Utilization (Q2) |  |  | 91.2% |
