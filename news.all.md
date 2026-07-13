@@ -21,8 +21,8 @@
 | 16:30 | USD | Low | 6-Month Bill Auction | 3.860% |  | 3.830% |
 | 17:30 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 17:45 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 2 min | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 2 min | USD | Moderate | Federal Budget Balance (Jun) |  | -132.8B | -293.0B |
+| 19:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 19:00 | USD | Moderate | Federal Budget Balance (Jun) | -120.0B | -135.8B | -293.0B |
 | 22:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 23:00 | NZD | Moderate | NZIER Business Confidence (Q2) |  |  | -4% |
 | 23:00 | NZD | Low | NZIER QSBO Capacity Utilization (Q2) |  |  | 91.2% |
