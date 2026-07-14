@@ -6,14 +6,14 @@
 | 02:30 | AUD | NAB Business Confidence (Jun) | -5 |  | -14 |
 | 03:30 | CNY | Exports (YoY) (Jun) | 27.0% | 18.2% | 19.4% |
 | 03:30 | CNY | Imports (YoY) (Jun) | 36.0% | 24.0% | 27.4% |
-| 03:31 | CNY | Trade Balance (USD) (Jun) | 125.62B | 121.40B | 105.43B |
-| 05:30 | JPY | Industrial Production (MoM) (May) |  | 0.5% | 0.5% |
-| 07:30 | CHF | PPI (MoM) (Jun) |  |  | -0.4% |
-| 07:30 | INR | WPI Inflation (YoY) (Jun) |  | 9.15% | 9.68% |
-| 09:00 | CNY | New Loans (Jun) |  | 1,950.0B | 520.0B |
+| 03:30 | CNY | Trade Balance (USD) (Jun) | 125.62B | 119.50B | 105.43B |
+| 05:30 | JPY | Industrial Production (MoM) (May) | 0.1% | 0.5% | 0.5% |
+| 07:30 | CHF | PPI (MoM) (Jun) | -0.3% | -0.5% | -0.4% |
+| 07:30 | INR | WPI Inflation (YoY) (Jun) | 9.87% | 9.15% | 9.68% |
 | 09:45 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 10:30 | CNY | New Loans (Jun) |  | 1,950.0B | 520.0B |
 | 13:15 | USD | ADP Employment Change Weekly |  |  | 21.00K |
-| 13:30 | USD | Core CPI (YoY) (Jun) |  | 2.9% | 2.9% |
+| 13:30 | USD | Core CPI (YoY) (Jun) |  | 2.8% | 2.9% |
 | 14:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 17:40 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 19:55 | USD | FOMC Member Bowman Speaks |  |  |  |
