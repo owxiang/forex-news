@@ -16,8 +16,8 @@
 | 03:30 | CNY | Moderate | Trade Balance (USD) (Jun) | 125.62B | 119.50B | 105.43B |
 | 05:30 | JPY | Low | Capacity Utilization (MoM) (May) | 0.1% |  | -0.8% |
 | 05:30 | JPY | Moderate | Industrial Production (MoM) (May) | 0.1% | 0.5% | 0.5% |
-| 07:00 | EUR | Low | German WPI (YoY) (Jun) | 4.9% |  | 5.9% |
 | 07:00 | EUR | Low | German WPI (MoM) (Jun) | -0.7% | 0.5% | -0.6% |
+| 07:00 | EUR | Low | German WPI (YoY) (Jun) | 4.9% |  | 5.9% |
 | 07:00 | NOK | Low | PPI (YoY) (Jun) | 14.9% |  | 24.0% |
 | 07:30 | CHF | Moderate | PPI (MoM) (Jun) | -0.3% | -0.5% | -0.4% |
 | 07:30 | CHF | Low | PPI (YoY) (Jun) | -2.1% |  | -1.8% |
@@ -31,21 +31,17 @@
 | 10:30 | ZAR | Low | Gold Production (YoY) (May) | -4.3% |  | -0.4% |
 | 10:30 | ZAR | Low | Mining Production (May) | -5.4% |  | 8.0% |
 | 11:00 | USD | Low | NFIB Small Business Optimism (Jun) | 97.4 | 95.8 | 95.3 |
-| 33 min | CNY | Low | M2 Money Stock (YoY) (Jun) |  | 8.5% | 8.6% |
-| 33 min | CNY | Moderate | New Loans (Jun) |  | 1,950.0B | 520.0B |
-| 33 min | CNY | Low | Outstanding Loan Growth (YoY) (Jun) |  | 5.4% | 5.5% |
-| 33 min | CNY | Low | Chinese Total Social Financing (Jun) |  | 3,770.0B | 2,030.0B |
-| 48 min | USD | Moderate | ADP Employment Change Weekly |  |  | 21.00K |
-| 13:30 | USD | High | Core CPI (MoM) (Jun) |  | 0.2% | 0.2% |
-| 13:30 | USD | Moderate | Core CPI (YoY) (Jun) |  | 2.8% | 2.9% |
-| 13:30 | USD | Low | Core CPI Index (Jun) |  |  | 336.12 |
-| 13:30 | USD | High | CPI (MoM) (Jun) |  | -0.1% | 0.5% |
-| 13:30 | USD | High | CPI (YoY) (Jun) |  | 3.8% | 4.2% |
-| 13:30 | USD | Low | CPI Index, n.s.a. (Jun) |  | 334.71 | 335.12 |
-| 13:30 | USD | Low | CPI Index, s.a (Jun) |  |  | 333.98 |
-| 13:30 | USD | Low | CPI, n.s.a (MoM) (Jun) |  |  | 0.63% |
-| 13:30 | USD | Low | Real Earnings (MoM) (Jun) |  |  | -0.2% |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 11.5% |
+| 13:15 | USD | Moderate | ADP Employment Change Weekly | 19.80K |  | 21.00K |
+| 13:30 | USD | High | Core CPI (MoM) (Jun) | 0.0% | 0.2% | 0.2% |
+| 13:30 | USD | Moderate | Core CPI (YoY) (Jun) | 2.6% | 2.8% | 2.9% |
+| 13:30 | USD | Low | Core CPI Index (Jun) | 336.07 |  | 336.12 |
+| 13:30 | USD | High | CPI (MoM) (Jun) | -0.4% | -0.1% | 0.5% |
+| 13:30 | USD | High | CPI (YoY) (Jun) | 3.5% | 3.8% | 4.2% |
+| 13:30 | USD | Low | CPI Index, n.s.a. (Jun) | 333.95 | 334.70 | 335.12 |
+| 13:30 | USD | Low | CPI Index, s.a (Jun) | 332.57 |  | 333.98 |
+| 13:30 | USD | Low | CPI, n.s.a (MoM) (Jun) | -0.35% |  | 0.63% |
+| 13:30 | USD | Low | Real Earnings (MoM) (Jun) | 0.8% |  | -0.2% |
+| 13:55 | USD | Low | Redbook (YoY) | 8.2% |  | 11.5% |
 | 14:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 16:00 | USD | Low | Cleveland CPI (MoM) (Jun) |  |  | 0.3% |
 | 17:40 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |

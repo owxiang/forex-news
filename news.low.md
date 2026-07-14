@@ -10,8 +10,8 @@
 | 03:30 | CNY | Imports (Jun) | 29.40M |  | 21.50M |
 | 03:30 | CNY | Trade Balance (Jun) | 859.05B | 810.00B | 723.98B |
 | 05:30 | JPY | Capacity Utilization (MoM) (May) | 0.1% |  | -0.8% |
-| 07:00 | EUR | German WPI (YoY) (Jun) | 4.9% |  | 5.9% |
 | 07:00 | EUR | German WPI (MoM) (Jun) | -0.7% | 0.5% | -0.6% |
+| 07:00 | EUR | German WPI (YoY) (Jun) | 4.9% |  | 5.9% |
 | 07:00 | NOK | PPI (YoY) (Jun) | 14.9% |  | 24.0% |
 | 07:30 | CHF | PPI (YoY) (Jun) | -2.1% |  | -1.8% |
 | 07:30 | INR | WPI Food (YoY) (Jun) | 5.49% |  | 3.60% |
@@ -22,15 +22,12 @@
 | 10:30 | ZAR | Gold Production (YoY) (May) | -4.3% |  | -0.4% |
 | 10:30 | ZAR | Mining Production (May) | -5.4% |  | 8.0% |
 | 11:00 | USD | NFIB Small Business Optimism (Jun) | 97.4 | 95.8 | 95.3 |
-| 33 min | CNY | M2 Money Stock (YoY) (Jun) |  | 8.5% | 8.6% |
-| 33 min | CNY | Outstanding Loan Growth (YoY) (Jun) |  | 5.4% | 5.5% |
-| 33 min | CNY | Chinese Total Social Financing (Jun) |  | 3,770.0B | 2,030.0B |
-| 13:30 | USD | Core CPI Index (Jun) |  |  | 336.12 |
-| 13:30 | USD | CPI Index, n.s.a. (Jun) |  | 334.71 | 335.12 |
-| 13:30 | USD | CPI Index, s.a (Jun) |  |  | 333.98 |
-| 13:30 | USD | CPI, n.s.a (MoM) (Jun) |  |  | 0.63% |
-| 13:30 | USD | Real Earnings (MoM) (Jun) |  |  | -0.2% |
-| 13:55 | USD | Redbook (YoY) |  |  | 11.5% |
+| 13:30 | USD | Core CPI Index (Jun) | 336.07 |  | 336.12 |
+| 13:30 | USD | CPI Index, n.s.a. (Jun) | 333.95 | 334.70 | 335.12 |
+| 13:30 | USD | CPI Index, s.a (Jun) | 332.57 |  | 333.98 |
+| 13:30 | USD | CPI, n.s.a (MoM) (Jun) | -0.35% |  | 0.63% |
+| 13:30 | USD | Real Earnings (MoM) (Jun) | 0.8% |  | -0.2% |
+| 13:55 | USD | Redbook (YoY) | 8.2% |  | 11.5% |
 | 16:00 | USD | Cleveland CPI (MoM) (Jun) |  |  | 0.3% |
 | 18:00 | USD | Fed Goolsbee Speaks |  |  |  |
 | 18:30 | USD | Fed Governor Cook Speaks |  |  |  |
