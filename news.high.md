@@ -1,7 +1,8 @@
-## 14 July 2026 - High Impact Forex News
+## 15 July 2026 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:30 | USD | Core CPI (MoM) (Jun) | 0.0% | 0.2% | 0.2% |
-| 13:30 | USD | CPI (MoM) (Jun) | -0.4% | -0.1% | 0.5% |
-| 13:30 | USD | CPI (YoY) (Jun) | 3.5% | 3.8% | 4.2% |
+| 03:00 | CNY | GDP (YoY) (Q2) |  |  | 5.0% |
+| 13:30 | USD | PPI (MoM) (Jun) |  | 0.0% | 1.1% |
+| 14:45 | CAD | BoC Interest Rate Decision |  | 2.25% | 2.25% |
+| 15:30 | USD | Crude Oil Inventories |  |  | 2.998M |

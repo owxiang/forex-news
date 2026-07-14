@@ -1,39 +1,57 @@
-## 14 July 2026 - Low Impact Forex News
+## 15 July 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:00 | SGD | GDP (YoY) (Q2) | 5.7% | 5.5% | 6.3% |
-| 01:00 | SGD | GDP (QoQ) (Q2) | 1.1% | 1.1% | 1.3% |
-| 01:30 | AUD | Westpac Consumer Sentiment (Jul) | 4.1% |  | -2.9% |
-| 02:30 | AUD | NAB Business Survey (Jun) | 3 |  | 3 |
-| 03:30 | CNY | Exports (Jun) | 20.80M |  | 13.80M |
-| 03:30 | CNY | Imports (Jun) | 29.40M |  | 21.50M |
-| 03:30 | CNY | Trade Balance (Jun) | 859.05B | 810.00B | 723.98B |
-| 05:30 | JPY | Capacity Utilization (MoM) (May) | 0.1% |  | -0.8% |
-| 07:00 | EUR | German WPI (MoM) (Jun) | -0.7% | 0.5% | -0.6% |
-| 07:00 | EUR | German WPI (YoY) (Jun) | 4.9% |  | 5.9% |
-| 07:00 | NOK | PPI (YoY) (Jun) | 14.9% |  | 24.0% |
-| 07:30 | CHF | PPI (YoY) (Jun) | -2.1% |  | -1.8% |
-| 07:30 | INR | WPI Food (YoY) (Jun) | 5.49% |  | 3.60% |
-| 07:30 | INR | WPI Fuel (YoY) (Jun) | 27.41% |  | 30.33% |
-| 07:30 | INR | WPI Manufacturing Inflation (YoY) (Jun) | 7.48% |  | 7.48% |
-| 09:40 | EUR | Spanish 3-Month Letras Auction | 2.366% |  | 2.239% |
-| 10:30 | EUR | German 2-Year Schatz Auction | 2.770% |  | 2.570% |
-| 10:30 | ZAR | Gold Production (YoY) (May) | -4.3% |  | -0.4% |
-| 10:30 | ZAR | Mining Production (May) | -5.4% |  | 8.0% |
-| 11:00 | USD | NFIB Small Business Optimism (Jun) | 97.4 | 95.8 | 95.3 |
-| 13:30 | USD | Core CPI Index (Jun) | 336.07 |  | 336.12 |
-| 13:30 | USD | CPI Index, n.s.a. (Jun) | 333.95 | 334.70 | 335.12 |
-| 13:30 | USD | CPI Index, s.a (Jun) | 332.57 |  | 333.98 |
-| 13:30 | USD | CPI, n.s.a (MoM) (Jun) | -0.35% |  | 0.63% |
-| 13:30 | USD | Real Earnings (MoM) (Jun) | 0.8% |  | -0.2% |
-| 13:55 | USD | Redbook (YoY) | 8.2% |  | 11.5% |
-| 16:00 | USD | Cleveland CPI (MoM) (Jun) | 0.2% |  | 0.3% |
-| 18:00 | USD | Fed Goolsbee Speaks |  |  |  |
-| 18:30 | USD | Fed Governor Cook Speaks |  |  |  |
-| 21:00 | USD | US Foreign Buying, T-bonds (May) | 56.60B |  | 50.50B |
-| 21:00 | USD | Overall Net Capital Flow (May) | 132.20B |  | 76.60B |
-| 21:00 | USD | TIC Net Long-Term Transactions including Swaps (May) | 232.70B |  | 104.80B |
-| 22:00 | KRW | Export Price Index (YoY) (Jun) | 48.9% |  | 47.1% |
-| 22:00 | KRW | Import Price Index (YoY) (Jun) | 20.6% |  | 25.4% |
-| 23:45 | NZD | Electronic Card Retail Sales (YoY) (Jun) |  |  | 3.3% |
+| 00:00 | KRW | Unemployment Rate (Jun) | 2.7% |  | 2.8% |
+| 00:00 | JPY | Reuters Tankan Index (Jul) | 13 |  | 13 |
+| 50 min | JPY | Core Machinery Orders (YoY) (May) |  | 12.9% | 15.6% |
+| 50 min | JPY | Core Machinery Orders (MoM) (May) |  | -4.2% | 8.7% |
+| 01:00 | KRW | Exports (YoY) (Jun) |  | 70.9% | 70.9% |
+| 01:00 | KRW | Imports (YoY) (Jun) |  | 30.1% | 30.1% |
+| 01:00 | KRW | Trade Balance (Jun) |  | 36.15B | 36.15B |
+| 02:30 | CNY | House Prices (YoY) (Jun) |  |  | -3.5% |
+| 03:00 | CNY | Retail Sales (YoY) (Jun) |  | -0.1% | -0.6% |
+| 03:00 | CNY | Chinese Retail Sales YTD (YoY) (Jun) |  |  | 1.41% |
+| 04:00 | KRW | M3 Money Supply (May) |  |  | 6,259.2B |
+| 04:00 | KRW | M2 Money supply (May) |  |  | 8.10% |
+| 05:30 | JPY | Tertiary Industry Activity Index (May) |  |  | -10.60 |
+| 07:00 | NOK | Core CPI YTD (Jun) |  |  | 3.4% |
+| 07:00 | NOK | Core Inflation (MoM) (Jun) |  |  | 0.4% |
+| 08:00 | EUR | Core CPI (YoY) (Jun) |  | 2.9% | 3.0% |
+| 08:00 | EUR | Spanish CPI (MoM) (Jun) |  | 0.6% | 0.1% |
+| 08:00 | EUR | Spanish HICP (MoM) (Jun) |  | 0.6% | 0.1% |
+| 10:00 | INR | Exports (USD) (Jun) |  |  | 45.20B |
+| 10:00 | INR | Imports (USD) (Jun) |  |  | 73.41B |
+| 10:00 | INR | Trade Balance (Jun) |  |  | -28.21B |
+| 10:00 | CNY | FDI (Jun) |  |  | -8.60% |
+| 10:00 | EUR | Industrial Production (YoY) (May) |  | -0.5% | 0.3% |
+| 10:30 | EUR | German 30-Year Bund Auction |  |  | 2.960% |
+| 11:00 | CNY | M2 Money Stock (YoY) (Jun) |  | 8.5% | 8.6% |
+| 11:00 | CNY | Outstanding Loan Growth (YoY) (Jun) |  | 5.4% | 5.5% |
+| 11:00 | CNY | Chinese Total Social Financing (Jun) |  | 3,770.0B | 2,030.0B |
+| 11:00 | EUR | Reserve Assets Total (Jun) |  |  | 1,872.82B |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.58% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -2.2% |
+| 12:00 | USD | MBA Purchase Index |  |  | 169.5 |
+| 12:00 | USD | Mortgage Market Index |  |  | 266.3 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 794.4 |
+| 12:30 | INR | M3 Money Supply |  |  | 13.0% |
+| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (May) |  |  | 1.2% |
+| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (May) |  |  | 1.9% |
+| 13:30 | USD | Core PPI (YoY) (Jun) |  | 5.2% | 4.9% |
+| 13:30 | USD | PPI (YoY) (Jun) |  | 6.2% | 6.5% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Jun) |  |  | 0.8% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Jun) |  |  | 5.1% |
+| 13:30 | CAD | Capacity Utilization Rate (May) |  |  | 78.5% |
+| 13:30 | CAD | Manufacturing Sales (MoM) (May) |  | 1.1% | 4.2% |
+| 13:30 | CAD | New Motor Vehicle Sales (MoM) (May) |  |  | 183.9K |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.172M |
+| 15:30 | USD | Crude Oil Imports |  |  | 1.096M |
+| 15:30 | USD | Distillate Fuel Production |  |  | -0.001M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | -4.980M |
+| 15:30 | USD | Gasoline Production |  |  | -0.233M |
+| 15:30 | USD | Heating Oil Stockpiles |  |  | -0.427M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.8% |
+| 15:30 | USD | Gasoline Inventories |  |  | -1.904M |
+| 18:00 | USD | Fed Governor Cook Speaks |  |  |  |
+| 18:30 | BRL | Foreign Exchange Flows |  |  | -4.218B |
