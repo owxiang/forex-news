@@ -43,7 +43,7 @@
 | 13:30 | USD | Low | Real Earnings (MoM) (Jun) | 0.8% |  | -0.2% |
 | 13:55 | USD | Low | Redbook (YoY) | 8.2% |  | 11.5% |
 | 14:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 16:00 | USD | Low | Cleveland CPI (MoM) (Jun) |  |  | 0.3% |
+| 16:00 | USD | Low | Cleveland CPI (MoM) (Jun) | 0.2% |  | 0.3% |
 | 17:40 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 18:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 18:30 | USD | Low | Fed Governor Cook Speaks |  |  |  |

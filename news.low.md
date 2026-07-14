@@ -28,7 +28,7 @@
 | 13:30 | USD | CPI, n.s.a (MoM) (Jun) | -0.35% |  | 0.63% |
 | 13:30 | USD | Real Earnings (MoM) (Jun) | 0.8% |  | -0.2% |
 | 13:55 | USD | Redbook (YoY) | 8.2% |  | 11.5% |
-| 16:00 | USD | Cleveland CPI (MoM) (Jun) |  |  | 0.3% |
+| 16:00 | USD | Cleveland CPI (MoM) (Jun) | 0.2% |  | 0.3% |
 | 18:00 | USD | Fed Goolsbee Speaks |  |  |  |
 | 18:30 | USD | Fed Governor Cook Speaks |  |  |  |
 | 21:00 | USD | US Foreign Buying, T-bonds (May) |  |  | 50.50B |
