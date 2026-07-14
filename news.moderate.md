@@ -11,13 +11,13 @@
 | 07:30 | CHF | PPI (MoM) (Jun) | -0.3% | -0.5% | -0.4% |
 | 07:30 | INR | WPI Inflation (YoY) (Jun) | 9.87% | 9.15% | 9.68% |
 | 09:45 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 10:30 | CNY | New Loans (Jun) |  | 1,950.0B | 520.0B |
-| 13:15 | USD | ADP Employment Change Weekly |  |  | 21.00K |
+| 33 min | CNY | New Loans (Jun) |  | 1,950.0B | 520.0B |
+| 48 min | USD | ADP Employment Change Weekly |  |  | 21.00K |
 | 13:30 | USD | Core CPI (YoY) (Jun) |  | 2.8% | 2.9% |
 | 14:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 17:40 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 19:55 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 21:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 21:00 | USD | TIC Net Long-Term Transactions (May) |  | 128.5B | 103.1B |
-| 21:30 | USD | API Weekly Crude Oil Stock |  |  | -0.399M |
+| 21:30 | USD | API Weekly Crude Oil Stock |  | -2.700M | -0.399M |
 | 23:45 | NZD | Electronic Card Retail Sales (MoM) (Jun) |  |  | 1.7% |

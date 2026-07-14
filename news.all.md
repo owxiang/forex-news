@@ -27,15 +27,15 @@
 | 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Jun) | 7.48% |  | 7.48% |
 | 09:40 | EUR | Low | Spanish 3-Month Letras Auction | 2.366% |  | 2.239% |
 | 09:45 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 2.570% |
-| 10:30 | CNY | Low | M2 Money Stock (YoY) (Jun) |  | 8.5% | 8.6% |
-| 10:30 | CNY | Moderate | New Loans (Jun) |  | 1,950.0B | 520.0B |
-| 10:30 | CNY | Low | Outstanding Loan Growth (YoY) (Jun) |  | 5.4% | 5.5% |
-| 10:30 | CNY | Low | Chinese Total Social Financing (Jun) |  | 3,770.0B | 2,030.0B |
-| 10:30 | ZAR | Low | Gold Production (YoY) (May) |  |  | -0.2% |
-| 10:30 | ZAR | Low | Mining Production (May) |  |  | 8.2% |
-| 11:00 | USD | Low | NFIB Small Business Optimism (Jun) |  | 95.8 | 95.3 |
-| 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 21.00K |
+| 10:30 | EUR | Low | German 2-Year Schatz Auction | 2.770% |  | 2.570% |
+| 10:30 | ZAR | Low | Gold Production (YoY) (May) | -4.3% |  | -0.4% |
+| 10:30 | ZAR | Low | Mining Production (May) | -5.4% |  | 8.0% |
+| 11:00 | USD | Low | NFIB Small Business Optimism (Jun) | 97.4 | 95.8 | 95.3 |
+| 33 min | CNY | Low | M2 Money Stock (YoY) (Jun) |  | 8.5% | 8.6% |
+| 33 min | CNY | Moderate | New Loans (Jun) |  | 1,950.0B | 520.0B |
+| 33 min | CNY | Low | Outstanding Loan Growth (YoY) (Jun) |  | 5.4% | 5.5% |
+| 33 min | CNY | Low | Chinese Total Social Financing (Jun) |  | 3,770.0B | 2,030.0B |
+| 48 min | USD | Moderate | ADP Employment Change Weekly |  |  | 21.00K |
 | 13:30 | USD | High | Core CPI (MoM) (Jun) |  | 0.2% | 0.2% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Jun) |  | 2.8% | 2.9% |
 | 13:30 | USD | Low | Core CPI Index (Jun) |  |  | 336.12 |
@@ -57,7 +57,7 @@
 | 21:00 | USD | Low | Overall Net Capital Flow (May) |  |  | 26.10B |
 | 21:00 | USD | Moderate | TIC Net Long-Term Transactions (May) |  | 128.5B | 103.1B |
 | 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (May) |  |  | 103.10B |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -0.399M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.700M | -0.399M |
 | 22:00 | KRW | Low | Export Price Index (YoY) (Jun) |  |  | 46.9% |
 | 22:00 | KRW | Low | Import Price Index (YoY) (Jun) |  |  | 24.8% |
 | 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Jun) |  |  | 1.7% |

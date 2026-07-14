@@ -18,13 +18,13 @@
 | 07:30 | INR | WPI Fuel (YoY) (Jun) | 27.41% |  | 30.33% |
 | 07:30 | INR | WPI Manufacturing Inflation (YoY) (Jun) | 7.48% |  | 7.48% |
 | 09:40 | EUR | Spanish 3-Month Letras Auction | 2.366% |  | 2.239% |
-| 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.570% |
-| 10:30 | CNY | M2 Money Stock (YoY) (Jun) |  | 8.5% | 8.6% |
-| 10:30 | CNY | Outstanding Loan Growth (YoY) (Jun) |  | 5.4% | 5.5% |
-| 10:30 | CNY | Chinese Total Social Financing (Jun) |  | 3,770.0B | 2,030.0B |
-| 10:30 | ZAR | Gold Production (YoY) (May) |  |  | -0.2% |
-| 10:30 | ZAR | Mining Production (May) |  |  | 8.2% |
-| 11:00 | USD | NFIB Small Business Optimism (Jun) |  | 95.8 | 95.3 |
+| 10:30 | EUR | German 2-Year Schatz Auction | 2.770% |  | 2.570% |
+| 10:30 | ZAR | Gold Production (YoY) (May) | -4.3% |  | -0.4% |
+| 10:30 | ZAR | Mining Production (May) | -5.4% |  | 8.0% |
+| 11:00 | USD | NFIB Small Business Optimism (Jun) | 97.4 | 95.8 | 95.3 |
+| 33 min | CNY | M2 Money Stock (YoY) (Jun) |  | 8.5% | 8.6% |
+| 33 min | CNY | Outstanding Loan Growth (YoY) (Jun) |  | 5.4% | 5.5% |
+| 33 min | CNY | Chinese Total Social Financing (Jun) |  | 3,770.0B | 2,030.0B |
 | 13:30 | USD | Core CPI Index (Jun) |  |  | 336.12 |
 | 13:30 | USD | CPI Index, n.s.a. (Jun) |  | 334.71 | 335.12 |
 | 13:30 | USD | CPI Index, s.a (Jun) |  |  | 333.98 |
