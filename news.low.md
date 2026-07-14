@@ -1,22 +1,41 @@
-## 13 July 2026 - Low Impact Forex News
+## 14 July 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | NOK | Manufacturing Production (MoM) (May) | 0.7% | 0.4% | -0.6% |
-| 10:15 | INR | Exports (USD) (Jun) | 40.41B |  | 45.20B |
-| 10:15 | INR | Trade Balance (Jun) | -30.43B |  | -28.21B |
-| 10:50 | EUR | German 12-Month Bubill Auction | 2.566% |  | 2.478% |
-| 10:50 | EUR | German 6-Month Bubill Auction | 2.436% |  | 2.331% |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:30 | INR | Imports (USD) (Jun) | 70.84B |  | 73.41B |
-| 13:00 | EUR | German Current Account Balance n.s.a (May) | 10.4B |  | 16.6B |
-| 14:00 | EUR | French 12-Month BTF Auction | 2.701% |  | 2.548% |
-| 14:00 | EUR | French 3-Month BTF Auction | 2.410% |  | 2.374% |
-| 14:00 | EUR | French 6-Month BTF Auction | 2.540% |  | 2.455% |
-| 16:30 | USD | 3-Month Bill Auction | 3.760% |  | 3.735% |
-| 16:30 | USD | 6-Month Bill Auction | 3.860% |  | 3.830% |
-| 23:00 | NZD | NZIER QSBO Capacity Utilization (Q2) | 90.8% |  | 91.2% |
-| 23:45 | NZD | External Migration & Visitors (May) | 6.70% |  | 8.00% |
-| 23:45 | NZD | Permanent/Long-Term Migration (May) | 1,860 |  | 2,500 |
-| 23:45 | NZD | Visitor Arrivals (MoM) | -2.4% |  | 1.8% |
+| 01:00 | SGD | GDP (YoY) (Q2) | 5.7% | 5.5% | 6.3% |
+| 01:00 | SGD | GDP (QoQ) (Q2) |  | 1.1% | 3.9% |
+| 30 min | AUD | Westpac Consumer Sentiment (Jul) |  |  | -2.9% |
+| 02:30 | AUD | NAB Business Survey (Jun) |  |  | 3 |
+| 05:30 | JPY | Capacity Utilization (MoM) (May) |  |  | -0.8% |
+| 07:00 | EUR | German WPI (MoM) (Jun) |  | 0.2% | -0.6% |
+| 07:00 | EUR | German WPI (YoY) (Jun) |  |  | 5.9% |
+| 07:30 | CHF | PPI (YoY) (Jun) |  |  | -1.8% |
+| 07:30 | INR | WPI Food (YoY) (Jun) |  |  | 3.60% |
+| 07:30 | INR | WPI Fuel (YoY) (Jun) |  |  | 30.33% |
+| 07:30 | INR | WPI Manufacturing Inflation (YoY) (Jun) |  |  | 7.48% |
+| 08:29 | CNY | Exports (Jun) |  |  | 13.80M |
+| 08:29 | CNY | Imports (Jun) |  |  | 21.50M |
+| 08:29 | CNY | Trade Balance (Jun) |  | 820.00B | 723.98B |
+| 09:00 | CNY | M2 Money Stock (YoY) (Jun) |  | 8.5% | 8.6% |
+| 09:00 | CNY | Outstanding Loan Growth (YoY) (Jun) |  | 5.4% | 5.5% |
+| 09:00 | CNY | Chinese Total Social Financing (Jun) |  | 3,770.0B | 2,030.0B |
+| 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 2.239% |
+| 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.570% |
+| 10:30 | ZAR | Gold Production (YoY) (May) |  |  | -0.2% |
+| 10:30 | ZAR | Mining Production (May) |  |  | 8.2% |
+| 11:00 | USD | NFIB Small Business Optimism (Jun) |  | 95.6 | 95.3 |
+| 13:30 | USD | Core CPI Index (Jun) |  |  | 336.12 |
+| 13:30 | USD | CPI Index, n.s.a. (Jun) |  | 334.71 | 335.12 |
+| 13:30 | USD | CPI Index, s.a (Jun) |  |  | 333.98 |
+| 13:30 | USD | CPI, n.s.a (MoM) (Jun) |  |  | 0.63% |
+| 13:30 | USD | Real Earnings (MoM) (Jun) |  |  | -0.2% |
+| 13:55 | USD | Redbook (YoY) |  |  | 11.5% |
+| 16:00 | USD | Cleveland CPI (MoM) (Jun) |  |  | 0.3% |
+| 18:00 | USD | Fed Goolsbee Speaks |  |  |  |
+| 18:30 | USD | Fed Governor Cook Speaks |  |  |  |
+| 21:00 | USD | US Foreign Buying, T-bonds (May) |  |  | 50.50B |
+| 21:00 | USD | Overall Net Capital Flow (May) |  |  | 26.10B |
+| 21:00 | USD | TIC Net Long-Term Transactions including Swaps (May) |  |  | 103.10B |
+| 22:00 | KRW | Export Price Index (YoY) (Jun) |  |  | 46.9% |
+| 22:00 | KRW | Import Price Index (YoY) (Jun) |  |  | 24.8% |
+| 23:45 | NZD | Electronic Card Retail Sales (YoY) (Jun) |  |  | 3.3% |

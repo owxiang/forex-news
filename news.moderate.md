@@ -1,13 +1,23 @@
-## 13 July 2026 - Moderate Impact Forex News
+## 14 July 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 10:25 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 11:00 | USD | OPEC Meeting |  |  |  |
-| 11:30 | INR | CPI (YoY) (Jun) | 4.38% | 4.30% | 3.93% |
-| 17:30 | USD | Fed Waller Speaks |  |  |  |
-| 17:45 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 19:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 19:00 | USD | Federal Budget Balance (Jun) | -120.0B | -135.8B | -293.0B |
-| 22:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 23:00 | NZD | NZIER Business Confidence (Q2) | 8% |  | -4% |
+| 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Jun) | 1.7% | 2.6% | 3.4% |
+| 02:30 | AUD | NAB Business Confidence (Jun) |  |  | -14 |
+| 05:30 | JPY | Industrial Production (MoM) (May) |  | 0.5% | 0.5% |
+| 07:30 | CHF | PPI (MoM) (Jun) |  |  | -0.4% |
+| 07:30 | INR | WPI Inflation (YoY) (Jun) |  | 9.15% | 9.68% |
+| 08:28 | CNY | Exports (YoY) (Jun) |  | 18.2% | 19.4% |
+| 08:28 | CNY | Imports (YoY) (Jun) |  | 24.0% | 27.4% |
+| 08:29 | CNY | Trade Balance (USD) (Jun) |  | 121.40B | 105.43B |
+| 09:00 | CNY | New Loans (Jun) |  | 1,950.0B | 520.0B |
+| 09:45 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 13:15 | USD | ADP Employment Change Weekly |  |  | 21.00K |
+| 13:30 | USD | Core CPI (YoY) (Jun) |  | 2.9% | 2.9% |
+| 14:00 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 17:40 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 19:55 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 21:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 21:00 | USD | TIC Net Long-Term Transactions (May) |  | 128.5B | 103.1B |
+| 21:30 | USD | API Weekly Crude Oil Stock |  |  | -0.399M |
+| 23:45 | NZD | Electronic Card Retail Sales (MoM) (Jun) |  |  | 1.7% |
