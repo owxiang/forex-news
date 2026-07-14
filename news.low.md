@@ -30,7 +30,7 @@
 | 13:55 | USD | Redbook (YoY) | 8.2% |  | 11.5% |
 | 16:00 | USD | Cleveland CPI (MoM) (Jun) | 0.2% |  | 0.3% |
 | 18:00 | USD | Fed Goolsbee Speaks |  |  |  |
-| 18:30 | USD | Fed Governor Cook Speaks |  |  |  |
+| 11 min | USD | Fed Governor Cook Speaks |  |  |  |
 | 21:00 | USD | US Foreign Buying, T-bonds (May) |  |  | 50.50B |
 | 21:00 | USD | Overall Net Capital Flow (May) |  |  | 26.10B |
 | 21:00 | USD | TIC Net Long-Term Transactions including Swaps (May) |  |  | 103.10B |
