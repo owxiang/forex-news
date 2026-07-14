@@ -3,9 +3,12 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:00 | SGD | GDP (YoY) (Q2) | 5.7% | 5.5% | 6.3% |
-| 01:00 | SGD | GDP (QoQ) (Q2) |  | 1.1% | 3.9% |
-| 30 min | AUD | Westpac Consumer Sentiment (Jul) |  |  | -2.9% |
-| 02:30 | AUD | NAB Business Survey (Jun) |  |  | 3 |
+| 01:00 | SGD | GDP (QoQ) (Q2) | 4.6% | 1.1% | 3.9% |
+| 01:30 | AUD | Westpac Consumer Sentiment (Jul) | 4.1% |  | -2.9% |
+| 02:30 | AUD | NAB Business Survey (Jun) | 3 |  | 3 |
+| 03:30 | CNY | Exports (Jun) | 20.80M |  | 13.80M |
+| 03:30 | CNY | Imports (Jun) | 29.40M |  | 21.50M |
+| 03:31 | CNY | Trade Balance (Jun) | 859.05B | 820.00B | 723.98B |
 | 05:30 | JPY | Capacity Utilization (MoM) (May) |  |  | -0.8% |
 | 07:00 | EUR | German WPI (MoM) (Jun) |  | 0.2% | -0.6% |
 | 07:00 | EUR | German WPI (YoY) (Jun) |  |  | 5.9% |
@@ -13,9 +16,6 @@
 | 07:30 | INR | WPI Food (YoY) (Jun) |  |  | 3.60% |
 | 07:30 | INR | WPI Fuel (YoY) (Jun) |  |  | 30.33% |
 | 07:30 | INR | WPI Manufacturing Inflation (YoY) (Jun) |  |  | 7.48% |
-| 08:29 | CNY | Exports (Jun) |  |  | 13.80M |
-| 08:29 | CNY | Imports (Jun) |  |  | 21.50M |
-| 08:29 | CNY | Trade Balance (Jun) |  | 820.00B | 723.98B |
 | 09:00 | CNY | M2 Money Stock (YoY) (Jun) |  | 8.5% | 8.6% |
 | 09:00 | CNY | Outstanding Loan Growth (YoY) (Jun) |  | 5.4% | 5.5% |
 | 09:00 | CNY | Chinese Total Social Financing (Jun) |  | 3,770.0B | 2,030.0B |

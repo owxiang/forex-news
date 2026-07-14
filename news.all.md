@@ -4,10 +4,16 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Jun) | 1.7% | 2.6% | 3.4% |
 | 01:00 | SGD | Low | GDP (YoY) (Q2) | 5.7% | 5.5% | 6.3% |
-| 01:00 | SGD | Low | GDP (QoQ) (Q2) |  | 1.1% | 3.9% |
-| 30 min | AUD | Low | Westpac Consumer Sentiment (Jul) |  |  | -2.9% |
-| 02:30 | AUD | Moderate | NAB Business Confidence (Jun) |  |  | -14 |
-| 02:30 | AUD | Low | NAB Business Survey (Jun) |  |  | 3 |
+| 01:00 | SGD | Low | GDP (QoQ) (Q2) | 4.6% | 1.1% | 3.9% |
+| 01:30 | AUD | Low | Westpac Consumer Sentiment (Jul) | 4.1% |  | -2.9% |
+| 02:30 | AUD | Moderate | NAB Business Confidence (Jun) | -5 |  | -14 |
+| 02:30 | AUD | Low | NAB Business Survey (Jun) | 3 |  | 3 |
+| 03:30 | CNY | Low | Exports (Jun) | 20.80M |  | 13.80M |
+| 03:30 | CNY | Moderate | Exports (YoY) (Jun) | 27.0% | 18.2% | 19.4% |
+| 03:30 | CNY | Low | Imports (Jun) | 29.40M |  | 21.50M |
+| 03:30 | CNY | Moderate | Imports (YoY) (Jun) | 36.0% | 24.0% | 27.4% |
+| 03:31 | CNY | Low | Trade Balance (Jun) | 859.05B | 820.00B | 723.98B |
+| 03:31 | CNY | Moderate | Trade Balance (USD) (Jun) | 125.62B | 121.40B | 105.43B |
 | 05:30 | JPY | Low | Capacity Utilization (MoM) (May) |  |  | -0.8% |
 | 05:30 | JPY | Moderate | Industrial Production (MoM) (May) |  | 0.5% | 0.5% |
 | 07:00 | EUR | Low | German WPI (MoM) (Jun) |  | 0.2% | -0.6% |
@@ -18,12 +24,6 @@
 | 07:30 | INR | Low | WPI Fuel (YoY) (Jun) |  |  | 30.33% |
 | 07:30 | INR | Moderate | WPI Inflation (YoY) (Jun) |  | 9.15% | 9.68% |
 | 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Jun) |  |  | 7.48% |
-| 08:28 | CNY | Moderate | Exports (YoY) (Jun) |  | 18.2% | 19.4% |
-| 08:28 | CNY | Moderate | Imports (YoY) (Jun) |  | 24.0% | 27.4% |
-| 08:29 | CNY | Moderate | Trade Balance (USD) (Jun) |  | 121.40B | 105.43B |
-| 08:29 | CNY | Low | Exports (Jun) |  |  | 13.80M |
-| 08:29 | CNY | Low | Imports (Jun) |  |  | 21.50M |
-| 08:29 | CNY | Low | Trade Balance (Jun) |  | 820.00B | 723.98B |
 | 09:00 | CNY | Low | M2 Money Stock (YoY) (Jun) |  | 8.5% | 8.6% |
 | 09:00 | CNY | Moderate | New Loans (Jun) |  | 1,950.0B | 520.0B |
 | 09:00 | CNY | Low | Outstanding Loan Growth (YoY) (Jun) |  | 5.4% | 5.5% |
