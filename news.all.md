@@ -46,13 +46,13 @@
 | 16:00 | USD | Low | Cleveland CPI (MoM) (Jun) | 0.2% |  | 0.3% |
 | 17:40 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 18:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 11 min | USD | Low | Fed Governor Cook Speaks |  |  |  |
+| 18:30 | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 19:55 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 21:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 21:00 | USD | Low | US Foreign Buying, T-bonds (May) |  |  | 50.50B |
-| 21:00 | USD | Low | Overall Net Capital Flow (May) |  |  | 26.10B |
-| 21:00 | USD | Moderate | TIC Net Long-Term Transactions (May) |  | 128.5B | 103.1B |
-| 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (May) |  |  | 103.10B |
+| 34 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 34 min | USD | Low | US Foreign Buying, T-bonds (May) |  |  | 50.50B |
+| 34 min | USD | Low | Overall Net Capital Flow (May) |  |  | 26.10B |
+| 34 min | USD | Moderate | TIC Net Long-Term Transactions (May) |  | 128.5B | 103.1B |
+| 34 min | USD | Low | TIC Net Long-Term Transactions including Swaps (May) |  |  | 103.10B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.700M | -0.399M |
 | 22:00 | KRW | Low | Export Price Index (YoY) (Jun) |  |  | 46.9% |
 | 22:00 | KRW | Low | Import Price Index (YoY) (Jun) |  |  | 24.8% |

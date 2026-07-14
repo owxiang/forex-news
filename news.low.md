@@ -30,10 +30,10 @@
 | 13:55 | USD | Redbook (YoY) | 8.2% |  | 11.5% |
 | 16:00 | USD | Cleveland CPI (MoM) (Jun) | 0.2% |  | 0.3% |
 | 18:00 | USD | Fed Goolsbee Speaks |  |  |  |
-| 11 min | USD | Fed Governor Cook Speaks |  |  |  |
-| 21:00 | USD | US Foreign Buying, T-bonds (May) |  |  | 50.50B |
-| 21:00 | USD | Overall Net Capital Flow (May) |  |  | 26.10B |
-| 21:00 | USD | TIC Net Long-Term Transactions including Swaps (May) |  |  | 103.10B |
+| 18:30 | USD | Fed Governor Cook Speaks |  |  |  |
+| 34 min | USD | US Foreign Buying, T-bonds (May) |  |  | 50.50B |
+| 34 min | USD | Overall Net Capital Flow (May) |  |  | 26.10B |
+| 34 min | USD | TIC Net Long-Term Transactions including Swaps (May) |  |  | 103.10B |
 | 22:00 | KRW | Export Price Index (YoY) (Jun) |  |  | 46.9% |
 | 22:00 | KRW | Import Price Index (YoY) (Jun) |  |  | 24.8% |
 | 23:45 | NZD | Electronic Card Retail Sales (YoY) (Jun) |  |  | 3.3% |

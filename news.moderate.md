@@ -16,7 +16,7 @@
 | 14:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 17:40 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 19:55 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 21:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 21:00 | USD | TIC Net Long-Term Transactions (May) |  | 128.5B | 103.1B |
+| 34 min | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 34 min | USD | TIC Net Long-Term Transactions (May) |  | 128.5B | 103.1B |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | -2.700M | -0.399M |
 | 23:45 | NZD | Electronic Card Retail Sales (MoM) (Jun) |  |  | 1.7% |
