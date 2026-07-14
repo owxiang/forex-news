@@ -48,13 +48,13 @@
 | 18:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 18:30 | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 19:55 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 34 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 34 min | USD | Low | US Foreign Buying, T-bonds (May) |  |  | 50.50B |
-| 34 min | USD | Low | Overall Net Capital Flow (May) |  |  | 26.10B |
-| 34 min | USD | Moderate | TIC Net Long-Term Transactions (May) |  | 128.5B | 103.1B |
-| 34 min | USD | Low | TIC Net Long-Term Transactions including Swaps (May) |  |  | 103.10B |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.700M | -0.399M |
-| 22:00 | KRW | Low | Export Price Index (YoY) (Jun) |  |  | 46.9% |
-| 22:00 | KRW | Low | Import Price Index (YoY) (Jun) |  |  | 24.8% |
+| 21:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 21:00 | USD | Low | US Foreign Buying, T-bonds (May) | 56.60B |  | 50.50B |
+| 21:00 | USD | Low | Overall Net Capital Flow (May) | 132.20B |  | 76.60B |
+| 21:00 | USD | Moderate | TIC Net Long-Term Transactions (May) | 232.7B | 128.5B | 104.8B |
+| 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (May) | 232.70B |  | 104.80B |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | -0.056M | -2.700M | -0.399M |
+| 22:00 | KRW | Low | Export Price Index (YoY) (Jun) | 48.9% |  | 47.1% |
+| 22:00 | KRW | Low | Import Price Index (YoY) (Jun) | 20.6% |  | 25.4% |
 | 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Jun) |  |  | 1.7% |
 | 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Jun) |  |  | 3.3% |
