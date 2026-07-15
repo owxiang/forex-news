@@ -50,4 +50,4 @@
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.4% |  | -0.8% |
 | 15:30 | USD | Gasoline Inventories | -1.533M | -0.800M | -1.904M |
 | 18:00 | USD | Fed Governor Cook Speaks |  |  |  |
-| 18:30 | BRL | Foreign Exchange Flows |  |  | -4.218B |
+| 18:30 | BRL | Foreign Exchange Flows | 1.012B |  | -4.218B |

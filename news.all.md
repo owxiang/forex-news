@@ -75,5 +75,5 @@
 | 15:30 | CAD | Moderate | BOC Press Conference |  |  |  |
 | 17:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 18:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -4.218B |
+| 18:30 | BRL | Low | Foreign Exchange Flows | 1.012B |  | -4.218B |
 | 19:00 | USD | Moderate | Beige Book |  |  |  |
