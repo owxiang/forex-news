@@ -22,25 +22,26 @@
 | 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
 | 04:00 | KRW | Low | M3 Money Supply (May) | 6,314.5B |  | 6,260.5B |
 | 04:00 | KRW | Low | M2 Money supply (May) | 9.20% |  | 8.20% |
-| 05:30 | JPY | Low | Tertiary Industry Activity Index (May) |  |  | -10.60 |
-| 07:00 | NOK | Low | Core CPI YTD (Jun) |  |  | 3.4% |
-| 07:00 | NOK | Low | Core Inflation (MoM) (Jun) |  |  | 0.4% |
-| 08:00 | EUR | Low | Core CPI (YoY) (Jun) |  | 2.9% | 3.0% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Jun) |  | 0.6% | 0.1% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jun) |  | 3.2% | 3.2% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Jun) |  | 0.6% | 0.1% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jun) |  | 3.6% | 3.6% |
+| 05:30 | JPY | Low | Tertiary Industry Activity Index (May) | -1.40 |  | -11.10 |
+| 07:00 | NOK | Low | Core CPI YTD (Jun) | 2.7% |  | 3.4% |
+| 07:00 | NOK | Low | Core Inflation (MoM) (Jun) | -0.1% |  | 0.4% |
+| 07:00 | NOK | Low | Trade Balance (Jun) | 61.9B |  | 62.2B |
+| 08:00 | EUR | Low | Core CPI (YoY) (Jun) | 2.9% | 2.9% | 3.0% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Jun) | 0.6% | 0.6% | 0.1% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jun) | 3.2% | 3.2% | 3.2% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Jun) | 0.6% | 0.6% | 0.1% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jun) | 3.6% | 3.6% | 3.6% |
+| 08:00 | CNY | Low | M2 Money Stock (YoY) (Jun) | 8.0% | 8.5% | 8.6% |
+| 08:00 | CNY | Moderate | New Loans (Jun) | 1,610.0B | 1,950.0B | 520.0B |
+| 08:00 | CNY | Low | Outstanding Loan Growth (YoY) (Jun) | 5.3% | 5.4% | 5.5% |
+| 08:00 | CNY | Low | Chinese Total Social Financing (Jun) | 3,360.0B | 3,770.0B | 2,030.0B |
 | 10:00 | INR | Low | Exports (USD) (Jun) |  |  | 45.20B |
 | 10:00 | INR | Low | Imports (USD) (Jun) |  |  | 73.41B |
 | 10:00 | INR | Low | Trade Balance (Jun) |  |  | -28.21B |
 | 10:00 | CNY | Low | FDI (Jun) |  |  | -8.60% |
-| 10:00 | EUR | Low | Industrial Production (YoY) (May) |  | -0.5% | 0.3% |
 | 10:00 | EUR | Moderate | Industrial Production (MoM) (May) |  | 0.3% | 0.1% |
+| 10:00 | EUR | Low | Industrial Production (YoY) (May) |  | -0.5% | 0.3% |
 | 10:30 | EUR | Low | German 30-Year Bund Auction |  |  | 2.960% |
-| 11:00 | CNY | Low | M2 Money Stock (YoY) (Jun) |  | 8.5% | 8.6% |
-| 11:00 | CNY | Moderate | New Loans (Jun) |  | 1,950.0B | 520.0B |
-| 11:00 | CNY | Low | Outstanding Loan Growth (YoY) (Jun) |  | 5.4% | 5.5% |
-| 11:00 | CNY | Low | Chinese Total Social Financing (Jun) |  | 3,770.0B | 2,030.0B |
 | 11:00 | EUR | Low | Reserve Assets Total (Jun) |  |  | 1,872.82B |
 | 11:30 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.58% |
@@ -51,9 +52,9 @@
 | 12:30 | INR | Low | M3 Money Supply |  |  | 13.0% |
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (May) |  |  | 1.2% |
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (May) |  |  | 1.9% |
-| 13:30 | USD | Moderate | Core PPI (MoM) (Jun) |  | 0.4% | 0.4% |
+| 13:30 | USD | Moderate | Core PPI (MoM) (Jun) |  | 0.3% | 0.4% |
 | 13:30 | USD | Low | Core PPI (YoY) (Jun) |  | 5.2% | 4.9% |
-| 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Jul) |  | 9.40 | 5.70 |
+| 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Jul) |  | 9.30 | 5.70 |
 | 13:30 | USD | High | PPI (MoM) (Jun) |  | 0.0% | 1.1% |
 | 13:30 | USD | Low | PPI (YoY) (Jun) |  | 6.2% | 6.5% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Jun) |  |  | 0.8% |
@@ -66,7 +67,7 @@
 | 14:45 | CAD | Moderate | BoC Monetary Policy Report |  |  |  |
 | 14:45 | CAD | Moderate | BoC Rate Statement |  |  |  |
 | 14:45 | CAD | High | BoC Interest Rate Decision |  | 2.25% | 2.25% |
-| 15:30 | USD | High | Crude Oil Inventories |  |  | 2.998M |
+| 15:30 | USD | High | Crude Oil Inventories |  | -1.800M | 2.998M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.172M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 1.096M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.052M |
