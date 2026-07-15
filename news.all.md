@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | KRW | Low | Unemployment Rate (Jun) | 2.7% |  | 2.8% |
 | 00:00 | JPY | Low | Reuters Tankan Index (Jul) | 13 |  | 13 |
-| 50 min | JPY | Low | Core Machinery Orders (YoY) (May) |  | 12.9% | 15.6% |
-| 50 min | JPY | Low | Core Machinery Orders (MoM) (May) |  | -4.2% | 8.7% |
+| 00:50 | JPY | Low | Core Machinery Orders (YoY) (May) | -1.9% | 12.9% | 15.6% |
+| 00:50 | JPY | Low | Core Machinery Orders (MoM) (May) | -12.4% | -4.2% | 8.7% |
 | 01:00 | KRW | Low | Exports (YoY) (Jun) |  | 70.9% | 70.9% |
 | 01:00 | KRW | Low | Imports (YoY) (Jun) |  | 30.1% | 30.1% |
 | 01:00 | KRW | Low | Trade Balance (Jun) |  | 36.15B | 36.15B |
