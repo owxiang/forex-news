@@ -14,13 +14,13 @@
 | 09:00 | CNY | New Loans (Jun) | 1,610.0B | 1,950.0B | 520.0B |
 | 10:00 | EUR | Industrial Production (MoM) (May) | -0.2% | 0.3% | 0.3% |
 | 11:30 | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 13:30 | USD | Core PPI (MoM) (Jun) |  | 0.3% | 0.4% |
-| 13:30 | USD | NY Empire State Manufacturing Index (Jul) |  | 9.30 | 5.70 |
-| 13:30 | CAD | Wholesale Sales (MoM) (May) |  | -0.7% | 0.6% |
+| 13:30 | USD | Core PPI (MoM) (Jun) | 0.2% | 0.3% | 0.1% |
+| 13:30 | USD | NY Empire State Manufacturing Index (Jul) | 15.60 | 9.30 | 5.70 |
+| 13:30 | CAD | Wholesale Sales (MoM) (May) | 0.0% | -0.7% | 1.4% |
 | 13:45 | USD | FOMC Member Williams Speaks |  |  |  |
 | 14:45 | CAD | BoC Monetary Policy Report |  |  |  |
 | 14:45 | CAD | BoC Rate Statement |  |  |  |
-| 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.052M |
+| 15:30 | USD | Cushing Crude Oil Inventories | 0.430M |  | -0.052M |
 | 15:30 | CAD | BOC Press Conference |  |  |  |
 | 17:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 19:00 | USD | Beige Book |  |  |  |

@@ -47,31 +47,31 @@
 | 12:00 | USD | Low | Mortgage Refinance Index | 821.9 |  | 794.4 |
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (May) | -0.4% |  | 1.1% |
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (May) | 0.4% |  | 2.0% |
-| 13:30 | USD | Moderate | Core PPI (MoM) (Jun) |  | 0.3% | 0.4% |
-| 13:30 | USD | Low | Core PPI (YoY) (Jun) |  | 5.2% | 4.9% |
-| 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Jul) |  | 9.30 | 5.70 |
-| 13:30 | USD | High | PPI (MoM) (Jun) |  | 0.0% | 1.1% |
-| 13:30 | USD | Low | PPI (YoY) (Jun) |  | 6.2% | 6.5% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Jun) |  |  | 5.1% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Jun) |  |  | 0.8% |
-| 13:30 | CAD | Low | Capacity Utilization Rate (May) |  |  | 78.5% |
-| 13:30 | CAD | Low | Manufacturing Sales (MoM) (May) |  | 1.1% | 4.2% |
-| 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (May) |  |  | 183.9K |
-| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (May) |  | -0.7% | 0.6% |
+| 13:30 | USD | Moderate | Core PPI (MoM) (Jun) | 0.2% | 0.3% | 0.1% |
+| 13:30 | USD | Low | Core PPI (YoY) (Jun) | 4.7% | 5.2% | 4.6% |
+| 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Jul) | 15.60 | 9.30 | 5.70 |
+| 13:30 | USD | High | PPI (MoM) (Jun) | -0.3% | 0.0% | 0.6% |
+| 13:30 | USD | Low | PPI (YoY) (Jun) | 5.5% | 6.2% | 6.0% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Jun) | 5.1% |  | 5.1% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Jun) | 0.1% |  | 0.8% |
+| 13:30 | CAD | Low | Capacity Utilization Rate (May) | 82.5% |  | 80.4% |
+| 13:30 | CAD | Low | Manufacturing Sales (MoM) (May) | 1.3% | 1.1% | 3.9% |
+| 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (May) | 190.6K |  | 183.9K |
+| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (May) | 0.0% | -0.7% | 1.4% |
 | 13:45 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 14:45 | CAD | Moderate | BoC Monetary Policy Report |  |  |  |
 | 14:45 | CAD | Moderate | BoC Rate Statement |  |  |  |
-| 14:45 | CAD | High | BoC Interest Rate Decision |  | 2.25% | 2.25% |
-| 15:30 | USD | High | Crude Oil Inventories |  | -1.800M | 2.998M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.172M |
-| 15:30 | USD | Low | Crude Oil Imports |  |  | 1.096M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.052M |
-| 15:30 | USD | Low | Distillate Fuel Production |  |  | -0.001M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | 0.100M | -4.980M |
-| 15:30 | USD | Low | Gasoline Production |  |  | -0.233M |
-| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | -0.427M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.8% |
-| 15:30 | USD | Low | Gasoline Inventories |  | -0.800M | -1.904M |
+| 14:45 | CAD | High | BoC Interest Rate Decision | 2.25% | 2.25% | 2.25% |
+| 15:30 | USD | High | Crude Oil Inventories | -1.692M | -1.800M | 2.998M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.099M |  | -0.172M |
+| 15:30 | USD | Low | Crude Oil Imports | -0.399M |  | 1.096M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | 0.430M |  | -0.052M |
+| 15:30 | USD | Low | Distillate Fuel Production | 0.072M |  | -0.001M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks | 4.556M | 0.100M | -4.980M |
+| 15:30 | USD | Low | Gasoline Production | -0.096M |  | -0.233M |
+| 15:30 | USD | Low | Heating Oil Stockpiles | 0.030M |  | -0.427M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 0.4% |  | -0.8% |
+| 15:30 | USD | Low | Gasoline Inventories | -1.533M | -0.800M | -1.904M |
 | 15:30 | CAD | Moderate | BOC Press Conference |  |  |  |
 | 17:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 18:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |

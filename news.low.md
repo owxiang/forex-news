@@ -34,20 +34,20 @@
 | 12:00 | USD | Mortgage Refinance Index | 821.9 |  | 794.4 |
 | 13:00 | BRL | Brazilian Service Sector Growth (MoM) (May) | -0.4% |  | 1.1% |
 | 13:00 | BRL | Brazilian Service Sector Growth (YoY) (May) | 0.4% |  | 2.0% |
-| 13:30 | USD | Core PPI (YoY) (Jun) |  | 5.2% | 4.9% |
-| 13:30 | USD | PPI (YoY) (Jun) |  | 6.2% | 6.5% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Jun) |  |  | 5.1% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Jun) |  |  | 0.8% |
-| 13:30 | CAD | Capacity Utilization Rate (May) |  |  | 78.5% |
-| 13:30 | CAD | Manufacturing Sales (MoM) (May) |  | 1.1% | 4.2% |
-| 13:30 | CAD | New Motor Vehicle Sales (MoM) (May) |  |  | 183.9K |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.172M |
-| 15:30 | USD | Crude Oil Imports |  |  | 1.096M |
-| 15:30 | USD | Distillate Fuel Production |  |  | -0.001M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  | 0.100M | -4.980M |
-| 15:30 | USD | Gasoline Production |  |  | -0.233M |
-| 15:30 | USD | Heating Oil Stockpiles |  |  | -0.427M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.8% |
-| 15:30 | USD | Gasoline Inventories |  | -0.800M | -1.904M |
+| 13:30 | USD | Core PPI (YoY) (Jun) | 4.7% | 5.2% | 4.6% |
+| 13:30 | USD | PPI (YoY) (Jun) | 5.5% | 6.2% | 6.0% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Jun) | 5.1% |  | 5.1% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Jun) | 0.1% |  | 0.8% |
+| 13:30 | CAD | Capacity Utilization Rate (May) | 82.5% |  | 80.4% |
+| 13:30 | CAD | Manufacturing Sales (MoM) (May) | 1.3% | 1.1% | 3.9% |
+| 13:30 | CAD | New Motor Vehicle Sales (MoM) (May) | 190.6K |  | 183.9K |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) | 0.099M |  | -0.172M |
+| 15:30 | USD | Crude Oil Imports | -0.399M |  | 1.096M |
+| 15:30 | USD | Distillate Fuel Production | 0.072M |  | -0.001M |
+| 15:30 | USD | EIA Weekly Distillates Stocks | 4.556M | 0.100M | -4.980M |
+| 15:30 | USD | Gasoline Production | -0.096M |  | -0.233M |
+| 15:30 | USD | Heating Oil Stockpiles | 0.030M |  | -0.427M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.4% |  | -0.8% |
+| 15:30 | USD | Gasoline Inventories | -1.533M | -0.800M | -1.904M |
 | 18:00 | USD | Fed Governor Cook Speaks |  |  |  |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | -4.218B |
