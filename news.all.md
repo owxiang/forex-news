@@ -11,8 +11,8 @@
 | 01:00 | KRW | Low | Trade Balance (Jun) | 36.09B | 36.15B | 27.04B |
 | 02:30 | CNY | Low | House Prices (YoY) (Jun) | -3.3% |  | -3.5% |
 | 03:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Jun) | -5.7% | -5.0% | -4.1% |
-| 03:00 | CNY | High | GDP (YoY) (Q2) | 4.3% | 4.5% | 5.0% |
 | 03:00 | CNY | Moderate | GDP (QoQ) (Q2) | 0.9% | 0.9% | 1.3% |
+| 03:00 | CNY | High | GDP (YoY) (Q2) | 4.3% | 4.5% | 5.0% |
 | 03:00 | CNY | Moderate | Chinese GDP YTD (YoY) (Q2) | 4.7% | 4.5% | 5.0% |
 | 03:00 | CNY | Moderate | Industrial Production (YoY) (Jun) | 5.3% | 4.7% | 4.5% |
 | 03:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Jun) | 5.4% |  | 5.4% |
@@ -38,17 +38,15 @@
 | 10:00 | EUR | Moderate | Industrial Production (MoM) (May) | -0.2% | 0.3% | 0.3% |
 | 10:00 | EUR | Low | Industrial Production (YoY) (May) | -1.2% | -0.5% | 0.4% |
 | 10:30 | EUR | Low | German 30-Year Bund Auction | 3.640% |  | 2.960% |
-| 11:00 | EUR | Low | Reserve Assets Total (Jun) | 1,755.45B |  | 1,872.82B |
+| 11:00 | EUR | Low | Reserve Assets Total (Jun) | 1,755.45B |  | 1,872.75B |
 | 11:30 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.58% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -2.2% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 169.5 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 266.3 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 794.4 |
-| 12:30 | INR | Low | M3 Money Supply |  |  | 13.0% |
-| 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (May) |  |  | 1.2% |
-| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (May) |  |  | 1.9% |
-| 13:00 | CNY | Low | FDI (Jun) |  |  | -8.60% |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.65% |  | 6.58% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | -2.7% |  | -2.2% |
+| 12:00 | USD | Low | MBA Purchase Index | 157.2 |  | 169.5 |
+| 12:00 | USD | Low | Mortgage Market Index | 259.1 |  | 266.3 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 821.9 |  | 794.4 |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (May) | -0.4% |  | 1.1% |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (May) | 0.4% |  | 2.0% |
 | 13:30 | USD | Moderate | Core PPI (MoM) (Jun) |  | 0.3% | 0.4% |
 | 13:30 | USD | Low | Core PPI (YoY) (Jun) |  | 5.2% | 4.9% |
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Jul) |  | 9.30 | 5.70 |
@@ -69,11 +67,11 @@
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 1.096M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.052M |
 | 15:30 | USD | Low | Distillate Fuel Production |  |  | -0.001M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  |  | -4.980M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | 0.100M | -4.980M |
 | 15:30 | USD | Low | Gasoline Production |  |  | -0.233M |
 | 15:30 | USD | Low | Heating Oil Stockpiles |  |  | -0.427M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.8% |
-| 15:30 | USD | Low | Gasoline Inventories |  |  | -1.904M |
+| 15:30 | USD | Low | Gasoline Inventories |  | -0.800M | -1.904M |
 | 15:30 | CAD | Moderate | BOC Press Conference |  |  |  |
 | 17:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 18:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |

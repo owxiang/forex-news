@@ -26,16 +26,14 @@
 | 09:00 | CNY | Chinese Total Social Financing (Jun) | 3,360.0B | 3,770.0B | 2,030.0B |
 | 10:00 | EUR | Industrial Production (YoY) (May) | -1.2% | -0.5% | 0.4% |
 | 10:30 | EUR | German 30-Year Bund Auction | 3.640% |  | 2.960% |
-| 11:00 | EUR | Reserve Assets Total (Jun) | 1,755.45B |  | 1,872.82B |
-| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.58% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -2.2% |
-| 12:00 | USD | MBA Purchase Index |  |  | 169.5 |
-| 12:00 | USD | Mortgage Market Index |  |  | 266.3 |
-| 12:00 | USD | Mortgage Refinance Index |  |  | 794.4 |
-| 12:30 | INR | M3 Money Supply |  |  | 13.0% |
-| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (May) |  |  | 1.2% |
-| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (May) |  |  | 1.9% |
-| 13:00 | CNY | FDI (Jun) |  |  | -8.60% |
+| 11:00 | EUR | Reserve Assets Total (Jun) | 1,755.45B |  | 1,872.75B |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.65% |  | 6.58% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | -2.7% |  | -2.2% |
+| 12:00 | USD | MBA Purchase Index | 157.2 |  | 169.5 |
+| 12:00 | USD | Mortgage Market Index | 259.1 |  | 266.3 |
+| 12:00 | USD | Mortgage Refinance Index | 821.9 |  | 794.4 |
+| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (May) | -0.4% |  | 1.1% |
+| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (May) | 0.4% |  | 2.0% |
 | 13:30 | USD | Core PPI (YoY) (Jun) |  | 5.2% | 4.9% |
 | 13:30 | USD | PPI (YoY) (Jun) |  | 6.2% | 6.5% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Jun) |  |  | 5.1% |
@@ -46,10 +44,10 @@
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.172M |
 | 15:30 | USD | Crude Oil Imports |  |  | 1.096M |
 | 15:30 | USD | Distillate Fuel Production |  |  | -0.001M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | -4.980M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  | 0.100M | -4.980M |
 | 15:30 | USD | Gasoline Production |  |  | -0.233M |
 | 15:30 | USD | Heating Oil Stockpiles |  |  | -0.427M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.8% |
-| 15:30 | USD | Gasoline Inventories |  |  | -1.904M |
+| 15:30 | USD | Gasoline Inventories |  | -0.800M | -1.904M |
 | 18:00 | USD | Fed Governor Cook Speaks |  |  |  |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | -4.218B |
