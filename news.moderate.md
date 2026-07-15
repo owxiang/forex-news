@@ -2,12 +2,12 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:00 | CNY | Fixed Asset Investment (YoY) (Jun) |  | -5.0% | -4.1% |
-| 03:00 | CNY | GDP (QoQ) (Q2) |  | 0.9% | 1.3% |
-| 03:00 | CNY | Chinese GDP YTD (YoY) (Q2) |  | 4.5% | 5.0% |
-| 03:00 | CNY | Industrial Production (YoY) (Jun) |  | 4.7% | 4.5% |
-| 03:00 | CNY | Chinese Industrial Production YTD (YoY) (Jun) |  |  | 5.4% |
-| 03:00 | CNY | Chinese Unemployment Rate (Jun) |  | 5.1% | 5.1% |
+| 03:00 | CNY | Fixed Asset Investment (YoY) (Jun) | -5.7% | -5.0% | -4.1% |
+| 03:00 | CNY | GDP (QoQ) (Q2) | 0.9% | 0.9% | 1.3% |
+| 03:00 | CNY | Chinese GDP YTD (YoY) (Q2) | 4.7% | 4.5% | 5.0% |
+| 03:00 | CNY | Industrial Production (YoY) (Jun) | 5.3% | 4.7% | 4.5% |
+| 03:00 | CNY | Chinese Industrial Production YTD (YoY) (Jun) | 5.4% |  | 5.4% |
+| 03:00 | CNY | Chinese Unemployment Rate (Jun) | 5.0% | 5.1% | 5.1% |
 | 03:00 | CNY | NBS Press Conference |  |  |  |
 | 08:00 | EUR | Spanish CPI (YoY) (Jun) |  | 3.2% | 3.2% |
 | 08:00 | EUR | Spanish HICP (YoY) (Jun) |  | 3.6% | 3.6% |

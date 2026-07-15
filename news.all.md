@@ -6,22 +6,22 @@
 | 00:00 | JPY | Low | Reuters Tankan Index (Jul) | 13 |  | 13 |
 | 00:50 | JPY | Low | Core Machinery Orders (YoY) (May) | -1.9% | 12.9% | 15.6% |
 | 00:50 | JPY | Low | Core Machinery Orders (MoM) (May) | -12.4% | -4.2% | 8.7% |
-| 01:00 | KRW | Low | Exports (YoY) (Jun) |  | 70.9% | 70.9% |
-| 01:00 | KRW | Low | Imports (YoY) (Jun) |  | 30.1% | 30.1% |
-| 01:00 | KRW | Low | Trade Balance (Jun) |  | 36.15B | 36.15B |
-| 02:30 | CNY | Low | House Prices (YoY) (Jun) |  |  | -3.5% |
-| 03:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Jun) |  | -5.0% | -4.1% |
-| 03:00 | CNY | Moderate | GDP (QoQ) (Q2) |  | 0.9% | 1.3% |
-| 03:00 | CNY | High | GDP (YoY) (Q2) |  |  | 5.0% |
-| 03:00 | CNY | Moderate | Chinese GDP YTD (YoY) (Q2) |  | 4.5% | 5.0% |
-| 03:00 | CNY | Moderate | Industrial Production (YoY) (Jun) |  | 4.7% | 4.5% |
-| 03:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Jun) |  |  | 5.4% |
-| 03:00 | CNY | Low | Retail Sales (YoY) (Jun) |  | -0.1% | -0.6% |
-| 03:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Jun) |  |  | 1.41% |
-| 03:00 | CNY | Moderate | Chinese Unemployment Rate (Jun) |  | 5.1% | 5.1% |
+| 01:00 | KRW | Low | Exports (YoY) (Jun) | 70.7% | 70.9% | 53.4% |
+| 01:00 | KRW | Low | Imports (YoY) (Jun) | 30.0% | 30.1% | 20.7% |
+| 01:00 | KRW | Low | Trade Balance (Jun) | 36.09B | 36.15B | 27.04B |
+| 02:30 | CNY | Low | House Prices (YoY) (Jun) | -3.3% |  | -3.5% |
+| 03:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Jun) | -5.7% | -5.0% | -4.1% |
+| 03:00 | CNY | Moderate | GDP (QoQ) (Q2) | 0.9% | 0.9% | 1.3% |
+| 03:00 | CNY | High | GDP (YoY) (Q2) | 4.3% | 4.5% | 5.0% |
+| 03:00 | CNY | Moderate | Chinese GDP YTD (YoY) (Q2) | 4.7% | 4.5% | 5.0% |
+| 03:00 | CNY | Moderate | Industrial Production (YoY) (Jun) | 5.3% | 4.7% | 4.5% |
+| 03:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Jun) | 5.4% |  | 5.4% |
+| 03:00 | CNY | Low | Retail Sales (YoY) (Jun) | 1.0% | -0.1% | -0.6% |
+| 03:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Jun) | 1.33% |  | 1.41% |
+| 03:00 | CNY | Moderate | Chinese Unemployment Rate (Jun) | 5.0% | 5.1% | 5.1% |
 | 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
-| 04:00 | KRW | Low | M3 Money Supply (May) |  |  | 6,259.2B |
-| 04:00 | KRW | Low | M2 Money supply (May) |  |  | 8.10% |
+| 04:00 | KRW | Low | M3 Money Supply (May) | 6,314.5B |  | 6,260.5B |
+| 04:00 | KRW | Low | M2 Money supply (May) | 9.20% |  | 8.20% |
 | 05:30 | JPY | Low | Tertiary Industry Activity Index (May) |  |  | -10.60 |
 | 07:00 | NOK | Low | Core CPI YTD (Jun) |  |  | 3.4% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Jun) |  |  | 0.4% |

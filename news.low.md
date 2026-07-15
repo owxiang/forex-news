@@ -6,14 +6,14 @@
 | 00:00 | JPY | Reuters Tankan Index (Jul) | 13 |  | 13 |
 | 00:50 | JPY | Core Machinery Orders (YoY) (May) | -1.9% | 12.9% | 15.6% |
 | 00:50 | JPY | Core Machinery Orders (MoM) (May) | -12.4% | -4.2% | 8.7% |
-| 01:00 | KRW | Exports (YoY) (Jun) |  | 70.9% | 70.9% |
-| 01:00 | KRW | Imports (YoY) (Jun) |  | 30.1% | 30.1% |
-| 01:00 | KRW | Trade Balance (Jun) |  | 36.15B | 36.15B |
-| 02:30 | CNY | House Prices (YoY) (Jun) |  |  | -3.5% |
-| 03:00 | CNY | Retail Sales (YoY) (Jun) |  | -0.1% | -0.6% |
-| 03:00 | CNY | Chinese Retail Sales YTD (YoY) (Jun) |  |  | 1.41% |
-| 04:00 | KRW | M3 Money Supply (May) |  |  | 6,259.2B |
-| 04:00 | KRW | M2 Money supply (May) |  |  | 8.10% |
+| 01:00 | KRW | Exports (YoY) (Jun) | 70.7% | 70.9% | 53.4% |
+| 01:00 | KRW | Imports (YoY) (Jun) | 30.0% | 30.1% | 20.7% |
+| 01:00 | KRW | Trade Balance (Jun) | 36.09B | 36.15B | 27.04B |
+| 02:30 | CNY | House Prices (YoY) (Jun) | -3.3% |  | -3.5% |
+| 03:00 | CNY | Retail Sales (YoY) (Jun) | 1.0% | -0.1% | -0.6% |
+| 03:00 | CNY | Chinese Retail Sales YTD (YoY) (Jun) | 1.33% |  | 1.41% |
+| 04:00 | KRW | M3 Money Supply (May) | 6,314.5B |  | 6,260.5B |
+| 04:00 | KRW | M2 Money supply (May) | 9.20% |  | 8.20% |
 | 05:30 | JPY | Tertiary Industry Activity Index (May) |  |  | -10.60 |
 | 07:00 | NOK | Core CPI YTD (Jun) |  |  | 3.4% |
 | 07:00 | NOK | Core Inflation (MoM) (Jun) |  |  | 0.4% |
