@@ -11,8 +11,8 @@
 | 01:00 | KRW | Low | Trade Balance (Jun) | 36.09B | 36.15B | 27.04B |
 | 02:30 | CNY | Low | House Prices (YoY) (Jun) | -3.3% |  | -3.5% |
 | 03:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Jun) | -5.7% | -5.0% | -4.1% |
-| 03:00 | CNY | Moderate | GDP (QoQ) (Q2) | 0.9% | 0.9% | 1.3% |
 | 03:00 | CNY | High | GDP (YoY) (Q2) | 4.3% | 4.5% | 5.0% |
+| 03:00 | CNY | Moderate | GDP (QoQ) (Q2) | 0.9% | 0.9% | 1.3% |
 | 03:00 | CNY | Moderate | Chinese GDP YTD (YoY) (Q2) | 4.7% | 4.5% | 5.0% |
 | 03:00 | CNY | Moderate | Industrial Production (YoY) (Jun) | 5.3% | 4.7% | 4.5% |
 | 03:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Jun) | 5.4% |  | 5.4% |
@@ -31,18 +31,14 @@
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jun) | 3.2% | 3.2% | 3.2% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Jun) | 0.6% | 0.6% | 0.1% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jun) | 3.6% | 3.6% | 3.6% |
-| 08:00 | CNY | Low | M2 Money Stock (YoY) (Jun) | 8.0% | 8.5% | 8.6% |
-| 08:00 | CNY | Moderate | New Loans (Jun) | 1,610.0B | 1,950.0B | 520.0B |
-| 08:00 | CNY | Low | Outstanding Loan Growth (YoY) (Jun) | 5.3% | 5.4% | 5.5% |
-| 08:00 | CNY | Low | Chinese Total Social Financing (Jun) | 3,360.0B | 3,770.0B | 2,030.0B |
-| 10:00 | INR | Low | Exports (USD) (Jun) |  |  | 45.20B |
-| 10:00 | INR | Low | Imports (USD) (Jun) |  |  | 73.41B |
-| 10:00 | INR | Low | Trade Balance (Jun) |  |  | -28.21B |
-| 10:00 | CNY | Low | FDI (Jun) |  |  | -8.60% |
-| 10:00 | EUR | Moderate | Industrial Production (MoM) (May) |  | 0.3% | 0.1% |
-| 10:00 | EUR | Low | Industrial Production (YoY) (May) |  | -0.5% | 0.3% |
-| 10:30 | EUR | Low | German 30-Year Bund Auction |  |  | 2.960% |
-| 11:00 | EUR | Low | Reserve Assets Total (Jun) |  |  | 1,872.82B |
+| 09:00 | CNY | Low | M2 Money Stock (YoY) (Jun) | 8.0% | 8.5% | 8.6% |
+| 09:00 | CNY | Moderate | New Loans (Jun) | 1,610.0B | 1,950.0B | 520.0B |
+| 09:00 | CNY | Low | Outstanding Loan Growth (YoY) (Jun) | 5.3% | 5.4% | 5.5% |
+| 09:00 | CNY | Low | Chinese Total Social Financing (Jun) | 3,360.0B | 3,770.0B | 2,030.0B |
+| 10:00 | EUR | Moderate | Industrial Production (MoM) (May) | -0.2% | 0.3% | 0.3% |
+| 10:00 | EUR | Low | Industrial Production (YoY) (May) | -1.2% | -0.5% | 0.4% |
+| 10:30 | EUR | Low | German 30-Year Bund Auction | 3.640% |  | 2.960% |
+| 11:00 | EUR | Low | Reserve Assets Total (Jun) | 1,755.45B |  | 1,872.82B |
 | 11:30 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.58% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -2.2% |
@@ -52,13 +48,14 @@
 | 12:30 | INR | Low | M3 Money Supply |  |  | 13.0% |
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (May) |  |  | 1.2% |
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (May) |  |  | 1.9% |
+| 13:00 | CNY | Low | FDI (Jun) |  |  | -8.60% |
 | 13:30 | USD | Moderate | Core PPI (MoM) (Jun) |  | 0.3% | 0.4% |
 | 13:30 | USD | Low | Core PPI (YoY) (Jun) |  | 5.2% | 4.9% |
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Jul) |  | 9.30 | 5.70 |
 | 13:30 | USD | High | PPI (MoM) (Jun) |  | 0.0% | 1.1% |
 | 13:30 | USD | Low | PPI (YoY) (Jun) |  | 6.2% | 6.5% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Jun) |  |  | 0.8% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Jun) |  |  | 5.1% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Jun) |  |  | 0.8% |
 | 13:30 | CAD | Low | Capacity Utilization Rate (May) |  |  | 78.5% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (May) |  | 1.1% | 4.2% |
 | 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (May) |  |  | 183.9K |

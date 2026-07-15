@@ -11,8 +11,8 @@
 | 03:00 | CNY | NBS Press Conference |  |  |  |
 | 08:00 | EUR | Spanish CPI (YoY) (Jun) | 3.2% | 3.2% | 3.2% |
 | 08:00 | EUR | Spanish HICP (YoY) (Jun) | 3.6% | 3.6% | 3.6% |
-| 08:00 | CNY | New Loans (Jun) | 1,610.0B | 1,950.0B | 520.0B |
-| 10:00 | EUR | Industrial Production (MoM) (May) |  | 0.3% | 0.1% |
+| 09:00 | CNY | New Loans (Jun) | 1,610.0B | 1,950.0B | 520.0B |
+| 10:00 | EUR | Industrial Production (MoM) (May) | -0.2% | 0.3% | 0.3% |
 | 11:30 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 13:30 | USD | Core PPI (MoM) (Jun) |  | 0.3% | 0.4% |
 | 13:30 | USD | NY Empire State Manufacturing Index (Jul) |  | 9.30 | 5.70 |
