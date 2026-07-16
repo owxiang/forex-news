@@ -26,7 +26,6 @@
 | 10:00 | EUR | Spanish 3-Year Bonos Auction | 2.867% |  | 2.772% |
 | 10:00 | EUR | Spanish 7-Year Obligacion Auction | 3.297% |  | 3.157% |
 | 10:30 | GBP | 10-Year Treasury Gilt Auction | 5.040% |  | 4.858% |
-| 13:00 | CNY | FDI (Jun) |  |  | -8.60% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 218.75K |
 | 13:30 | USD | Philly Fed Business Conditions (Jul) |  |  | 50.2 |
 | 13:30 | USD | Philly Fed CAPEX Index (Jul) |  |  | 41.20 |

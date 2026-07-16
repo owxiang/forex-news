@@ -34,11 +34,10 @@
 | 10:00 | EUR | Low | Spanish 7-Year Obligacion Auction | 3.297% |  | 3.157% |
 | 10:00 | EUR | Moderate | Trade Balance (May) | -7.8B | 2.8B | -1.2B |
 | 10:30 | GBP | Low | 10-Year Treasury Gilt Auction | 5.040% |  | 4.858% |
-| 12:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Jun) |  |  | 0.5% |
-| 13:00 | BRL | Moderate | Retail Sales (MoM) (May) |  | 0.5% | -1.5% |
-| 13:00 | BRL | Moderate | Retail Sales (YoY) (May) |  | 1.2% | 1.0% |
-| 13:00 | CNY | Low | FDI (Jun) |  |  | -8.60% |
-| 13:15 | CAD | Moderate | Housing Starts (Jun) |  | 256.0K | 261.4K |
+| 13:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Jun) | 0.4% |  | 0.7% |
+| 13:00 | BRL | Moderate | Retail Sales (MoM) (May) | 0.1% | 0.5% | -1.6% |
+| 13:00 | BRL | Moderate | Retail Sales (YoY) (May) | 0.4% | 1.2% | 1.0% |
+| 13:15 | CAD | Moderate | Housing Starts (Jun) | 239.0K | 256.0K | 253.1K |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,820K | 1,814K |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Jun) |  | 0.0% | 0.8% |
 | 13:30 | USD | High | Initial Jobless Claims |  | 216K | 215K |
