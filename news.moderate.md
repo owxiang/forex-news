@@ -1,26 +1,21 @@
-## 15 July 2026 - Moderate Impact Forex News
+## 16 July 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:00 | CNY | Fixed Asset Investment (YoY) (Jun) | -5.7% | -5.0% | -4.1% |
-| 03:00 | CNY | GDP (QoQ) (Q2) | 0.9% | 0.9% | 1.3% |
-| 03:00 | CNY | Chinese GDP YTD (YoY) (Q2) | 4.7% | 4.5% | 5.0% |
-| 03:00 | CNY | Industrial Production (YoY) (Jun) | 5.3% | 4.7% | 4.5% |
-| 03:00 | CNY | Chinese Industrial Production YTD (YoY) (Jun) | 5.4% |  | 5.4% |
-| 03:00 | CNY | Chinese Unemployment Rate (Jun) | 5.0% | 5.1% | 5.1% |
-| 03:00 | CNY | NBS Press Conference |  |  |  |
-| 08:00 | EUR | Spanish CPI (YoY) (Jun) | 3.2% | 3.2% | 3.2% |
-| 08:00 | EUR | Spanish HICP (YoY) (Jun) | 3.6% | 3.6% | 3.6% |
-| 09:00 | CNY | New Loans (Jun) | 1,610.0B | 1,950.0B | 520.0B |
-| 10:00 | EUR | Industrial Production (MoM) (May) | -0.2% | 0.3% | 0.3% |
-| 11:30 | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 13:30 | USD | Core PPI (MoM) (Jun) | 0.2% | 0.3% | 0.1% |
-| 13:30 | USD | NY Empire State Manufacturing Index (Jul) | 15.60 | 9.30 | 5.70 |
-| 13:30 | CAD | Wholesale Sales (MoM) (May) | 0.0% | -0.7% | 1.4% |
-| 13:45 | USD | FOMC Member Williams Speaks |  |  |  |
-| 14:45 | CAD | BoC Monetary Policy Report |  |  |  |
-| 14:45 | CAD | BoC Rate Statement |  |  |  |
-| 15:30 | USD | Cushing Crude Oil Inventories | 0.430M |  | -0.052M |
-| 15:30 | CAD | BOC Press Conference |  |  |  |
-| 17:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 19:00 | USD | Beige Book |  |  |  |
+| 07:00 | GBP | Industrial Production (MoM) (May) |  | -0.1% | 0.0% |
+| 07:00 | GBP | Manufacturing Production (MoM) (May) |  | -0.2% | 0.4% |
+| 07:00 | GBP | Monthly GDP 3M/3M Change (May) |  | 0.5% | 0.7% |
+| 07:00 | GBP | Trade Balance (May) |  | -23.10B | -26.05B |
+| 07:00 | GBP | Trade Balance Non-EU (May) |  |  | -13.05B |
+| 10:00 | EUR | Trade Balance (May) |  | 2.8B | -1.0B |
+| 12:00 | GBP | NIESR Monthly GDP Tracker (Jun) |  |  | 0.5% |
+| 13:00 | BRL | Retail Sales (YoY) (May) |  | 1.2% | 1.0% |
+| 13:00 | BRL | Retail Sales (MoM) (May) |  | 0.5% | -1.5% |
+| 13:15 | CAD | Housing Starts (Jun) |  | 256.0K | 261.4K |
+| 13:30 | USD | Continuing Jobless Claims |  | 1,820K | 1,814K |
+| 13:30 | USD | Philly Fed Employment (Jul) |  |  | 7.9 |
+| 13:30 | USD | Retail Control (MoM) (Jun) |  | 0.5% | 0.7% |
+| 15:00 | USD | Business Inventories (MoM) (May) |  | 0.3% | 0.5% |
+| 15:00 | USD | Pending Home Sales (MoM) (Jun) |  | -0.5% | 3.8% |
+| 15:00 | USD | Retail Inventories Ex Auto (May) |  | 0.4% | 0.6% |
+| 16:30 | USD | Atlanta Fed GDPNow (Q2) |  | 1.3% | 1.3% |

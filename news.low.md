@@ -1,53 +1,43 @@
-## 15 July 2026 - Low Impact Forex News
+## 16 July 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Unemployment Rate (Jun) | 2.7% |  | 2.8% |
-| 00:00 | JPY | Reuters Tankan Index (Jul) | 13 |  | 13 |
-| 00:50 | JPY | Core Machinery Orders (YoY) (May) | -1.9% | 12.9% | 15.6% |
-| 00:50 | JPY | Core Machinery Orders (MoM) (May) | -12.4% | -4.2% | 8.7% |
-| 01:00 | KRW | Exports (YoY) (Jun) | 70.7% | 70.9% | 53.4% |
-| 01:00 | KRW | Imports (YoY) (Jun) | 30.0% | 30.1% | 20.7% |
-| 01:00 | KRW | Trade Balance (Jun) | 36.09B | 36.15B | 27.04B |
-| 02:30 | CNY | House Prices (YoY) (Jun) | -3.3% |  | -3.5% |
-| 03:00 | CNY | Retail Sales (YoY) (Jun) | 1.0% | -0.1% | -0.6% |
-| 03:00 | CNY | Chinese Retail Sales YTD (YoY) (Jun) | 1.33% |  | 1.41% |
-| 04:00 | KRW | M3 Money Supply (May) | 6,314.5B |  | 6,260.5B |
-| 04:00 | KRW | M2 Money supply (May) | 9.20% |  | 8.20% |
-| 05:30 | JPY | Tertiary Industry Activity Index (May) | -1.40 |  | -11.10 |
-| 07:00 | NOK | Core CPI YTD (Jun) | 2.7% |  | 3.4% |
-| 07:00 | NOK | Core Inflation (MoM) (Jun) | -0.1% |  | 0.4% |
-| 07:00 | NOK | Trade Balance (Jun) | 61.9B |  | 62.2B |
-| 08:00 | EUR | Core CPI (YoY) (Jun) | 2.9% | 2.9% | 3.0% |
-| 08:00 | EUR | Spanish CPI (MoM) (Jun) | 0.6% | 0.6% | 0.1% |
-| 08:00 | EUR | Spanish HICP (MoM) (Jun) | 0.6% | 0.6% | 0.1% |
-| 09:00 | CNY | M2 Money Stock (YoY) (Jun) | 8.0% | 8.5% | 8.6% |
-| 09:00 | CNY | Outstanding Loan Growth (YoY) (Jun) | 5.3% | 5.4% | 5.5% |
-| 09:00 | CNY | Chinese Total Social Financing (Jun) | 3,360.0B | 3,770.0B | 2,030.0B |
-| 10:00 | EUR | Industrial Production (YoY) (May) | -1.2% | -0.5% | 0.4% |
-| 10:30 | EUR | German 30-Year Bund Auction | 3.640% |  | 2.960% |
-| 11:00 | EUR | Reserve Assets Total (Jun) | 1,755.45B |  | 1,872.75B |
-| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.65% |  | 6.58% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) | -2.7% |  | -2.2% |
-| 12:00 | USD | MBA Purchase Index | 157.2 |  | 169.5 |
-| 12:00 | USD | Mortgage Market Index | 259.1 |  | 266.3 |
-| 12:00 | USD | Mortgage Refinance Index | 821.9 |  | 794.4 |
-| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (May) | -0.4% |  | 1.1% |
-| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (May) | 0.4% |  | 2.0% |
-| 13:30 | USD | Core PPI (YoY) (Jun) | 4.7% | 5.2% | 4.6% |
-| 13:30 | USD | PPI (YoY) (Jun) | 5.5% | 6.2% | 6.0% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Jun) | 5.1% |  | 5.1% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Jun) | 0.1% |  | 0.8% |
-| 13:30 | CAD | Capacity Utilization Rate (May) | 82.5% |  | 80.4% |
-| 13:30 | CAD | Manufacturing Sales (MoM) (May) | 1.3% | 1.1% | 3.9% |
-| 13:30 | CAD | New Motor Vehicle Sales (MoM) (May) | 190.6K |  | 183.9K |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) | 0.099M |  | -0.172M |
-| 15:30 | USD | Crude Oil Imports | -0.399M |  | 1.096M |
-| 15:30 | USD | Distillate Fuel Production | 0.072M |  | -0.001M |
-| 15:30 | USD | EIA Weekly Distillates Stocks | 4.556M | 0.100M | -4.980M |
-| 15:30 | USD | Gasoline Production | -0.096M |  | -0.233M |
-| 15:30 | USD | Heating Oil Stockpiles | 0.030M |  | -0.427M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.4% |  | -0.8% |
-| 15:30 | USD | Gasoline Inventories | -1.533M | -0.800M | -1.904M |
-| 18:00 | USD | Fed Governor Cook Speaks |  |  |  |
-| 18:30 | BRL | Foreign Exchange Flows | 1.012B |  | -4.218B |
+| 00:50 | JPY | Foreign Bonds Buying | 1,090.1B |  | -217.5B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks | 745.6B |  | -21.3B |
+| 02:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates |  |  |  |
+| 02:00 | KRW | Interest Rate Decision (Jun) |  | 2.75% | 2.50% |
+| 02:00 | AUD | MI Inflation Expectations (Jul) |  |  | 5.5% |
+| 02:30 | AUD | Reserve Assets Total (Jun) |  |  | 115,830.0B |
+| 07:00 | GBP | Construction Output (MoM) (May) |  | -0.3% | 0.1% |
+| 07:00 | GBP | U.K. Construction Output (YoY) (May) |  | -1.1% | -1.0% |
+| 07:00 | GBP | GDP (YoY) (May) |  | 1.4% | 1.2% |
+| 07:00 | GBP | Index of Services |  | 0.6% | 0.8% |
+| 07:00 | GBP | Industrial Production (YoY) (May) |  | 1.2% | -0.2% |
+| 07:00 | GBP | Manufacturing Production (YoY) (May) |  | 1.9% | 1.0% |
+| 09:00 | EUR | Italian CPI (MoM) (Jun) |  | 0.0% | 0.0% |
+| 09:00 | EUR | Italian CPI (YoY) (Jun) |  | 3.0% | 3.0% |
+| 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Jun) |  |  | 3.0% |
+| 09:00 | EUR | Italian HICP (MoM) (Jun) |  | 0.1% | 0.1% |
+| 09:00 | EUR | Italian HICP (YoY) (Jun) |  | 3.1% | 3.1% |
+| 09:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.395% |
+| 09:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 2.772% |
+| 09:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.835% |
+| 10:00 | EUR | Italian Trade Balance (May) |  | 4.830B | 4.293B |
+| 10:00 | EUR | Italian Trade Balance EU (May) |  |  | 0.32B |
+| 10:30 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.858% |
+| 13:00 | CNY | FDI (Jun) |  |  | -8.60% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 218.75K |
+| 13:30 | USD | Philly Fed Business Conditions (Jul) |  |  | 50.2 |
+| 13:30 | USD | Philly Fed CAPEX Index (Jul) |  |  | 41.20 |
+| 13:30 | USD | Philly Fed New Orders (Jul) |  |  | 27.3 |
+| 13:30 | USD | Philly Fed Prices Paid (Jul) |  |  | 53.20 |
+| 13:30 | USD | Retail Sales (YoY) (Jun) |  |  | 6.88% |
+| 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Jun) |  |  | 0.5% |
+| 15:00 | USD | NAHB Housing Market Index (Jul) |  | 35 | 35 |
+| 15:00 | USD | Pending Home Sales Index (Jun) |  |  | 76.8 |
+| 15:30 | USD | Natural Gas Storage |  | 45B | 61B |
+| 16:30 | USD | 4-Week Bill Auction |  |  | 3.630% |
+| 16:30 | USD | 8-Week Bill Auction |  |  | 3.635% |
+| 17:30 | USD | Fed Logan Speaks |  |  |  |
+| 18:25 | USD | Fed Schmid Speaks |  |  |  |
+| 23:45 | NZD | FPI (MoM) (Jun) |  |  | 1.0% |
