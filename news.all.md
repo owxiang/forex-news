@@ -58,11 +58,11 @@
 | 15:00 | USD | Low | Pending Home Sales Index (Jun) | 72.5 |  | 76.6 |
 | 15:00 | USD | Moderate | Retail Inventories Ex Auto (May) | 0.3% | 0.4% | 0.6% |
 | 15:30 | USD | Low | Natural Gas Storage | 41B | 45B | 61B |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.630% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.635% |
-| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 1.3% | 1.3% |
+| 16:30 | USD | Low | 4-Week Bill Auction | 3.660% |  | 3.630% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 3.650% |  | 3.635% |
+| 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 1.7% | 1.3% | 1.3% |
 | 17:30 | USD | Low | Fed Logan Speaks |  |  |  |
-| 18:25 | USD | Low | Fed Schmid Speaks |  |  |  |
+| 3 min | USD | Low | Fed Schmid Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,736B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.137T |
 | 23:45 | NZD | Low | FPI (MoM) (Jun) |  |  | 1.0% |
