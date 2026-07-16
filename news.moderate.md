@@ -20,4 +20,4 @@
 | 15:00 | USD | Pending Home Sales (MoM) (Jun) | -5.4% | -0.5% | 3.5% |
 | 15:00 | USD | Retail Inventories Ex Auto (May) | 0.3% | 0.4% | 0.6% |
 | 17:00 | USD | Atlanta Fed GDPNow (Q2) | 1.7% | 1.3% | 1.3% |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 6,736B |
+| 21:30 | USD | Fed's Balance Sheet | 6,743B |  | 6,736B |

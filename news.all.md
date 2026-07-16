@@ -63,6 +63,6 @@
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 1.7% | 1.3% | 1.3% |
 | 17:30 | USD | Low | Fed Logan Speaks |  |  |  |
 | 18:25 | USD | Low | Fed Schmid Speaks |  |  |  |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,736B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.137T |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,743B |  | 6,736B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.100T |  | 3.137T |
 | 23:45 | NZD | Low | FPI (MoM) (Jun) |  |  | 1.0% |
