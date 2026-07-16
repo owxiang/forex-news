@@ -10,13 +10,14 @@
 | 08:30 | CHF | SNB Monetary Policy Assessment |  |  |  |
 | 10:00 | EUR | Trade Balance (May) | -7.8B | 2.8B | -1.2B |
 | 13:00 | GBP | NIESR Monthly GDP Tracker (Jun) | 0.4% |  | 0.7% |
-| 13:00 | BRL | Retail Sales (MoM) (May) | 0.1% | 0.5% | -1.6% |
 | 13:00 | BRL | Retail Sales (YoY) (May) | 0.4% | 1.2% | 1.0% |
+| 13:00 | BRL | Retail Sales (MoM) (May) | 0.1% | 0.5% | -1.6% |
 | 13:15 | CAD | Housing Starts (Jun) | 239.0K | 256.0K | 253.1K |
-| 13:30 | USD | Continuing Jobless Claims |  | 1,820K | 1,814K |
-| 13:30 | USD | Philly Fed Employment (Jul) |  |  | 7.9 |
-| 13:30 | USD | Retail Control (MoM) (Jun) |  | 0.5% | 0.7% |
-| 15:00 | USD | Business Inventories (MoM) (May) |  | 0.3% | 0.5% |
-| 15:00 | USD | Pending Home Sales (MoM) (Jun) |  | -0.5% | 3.8% |
-| 15:00 | USD | Retail Inventories Ex Auto (May) |  | 0.4% | 0.6% |
+| 13:30 | USD | Continuing Jobless Claims | 1,805K | 1,820K | 1,821K |
+| 13:30 | USD | Philly Fed Employment (Jul) | 10.0 |  | 7.9 |
+| 13:30 | USD | Retail Control (MoM) (Jun) | 0.5% | 0.5% | 0.8% |
+| 15:00 | USD | Business Inventories (MoM) (May) | 0.3% | 0.3% | 0.6% |
+| 15:00 | USD | Pending Home Sales (MoM) (Jun) | -5.4% | -0.5% | 3.5% |
+| 15:00 | USD | Retail Inventories Ex Auto (May) | 0.3% | 0.4% | 0.6% |
 | 16:30 | USD | Atlanta Fed GDPNow (Q2) |  | 1.3% | 1.3% |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 6,736B |
