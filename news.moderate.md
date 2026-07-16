@@ -2,15 +2,16 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | GBP | Industrial Production (MoM) (May) |  | -0.1% | 0.0% |
-| 07:00 | GBP | Manufacturing Production (MoM) (May) |  | -0.2% | 0.4% |
-| 07:00 | GBP | Monthly GDP 3M/3M Change (May) |  | 0.5% | 0.7% |
-| 07:00 | GBP | Trade Balance (May) |  | -23.10B | -26.05B |
-| 07:00 | GBP | Trade Balance Non-EU (May) |  |  | -13.05B |
-| 10:00 | EUR | Trade Balance (May) |  | 2.8B | -1.0B |
+| 07:00 | GBP | Industrial Production (MoM) (May) | -0.5% | -0.1% | 0.2% |
+| 07:00 | GBP | Manufacturing Production (MoM) (May) | 0.1% | -0.2% | 0.5% |
+| 07:00 | GBP | Monthly GDP 3M/3M Change (May) | 0.7% | 0.5% | 0.8% |
+| 07:00 | GBP | Trade Balance (May) | -18.66B | -23.10B | -24.58B |
+| 07:00 | GBP | Trade Balance Non-EU (May) | -7.14B |  | -12.21B |
+| 08:30 | CHF | SNB Monetary Policy Assessment |  |  |  |
+| 10:00 | EUR | Trade Balance (May) | -7.8B | 2.8B | -1.2B |
 | 12:00 | GBP | NIESR Monthly GDP Tracker (Jun) |  |  | 0.5% |
-| 13:00 | BRL | Retail Sales (YoY) (May) |  | 1.2% | 1.0% |
 | 13:00 | BRL | Retail Sales (MoM) (May) |  | 0.5% | -1.5% |
+| 13:00 | BRL | Retail Sales (YoY) (May) |  | 1.2% | 1.0% |
 | 13:15 | CAD | Housing Starts (Jun) |  | 256.0K | 261.4K |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,820K | 1,814K |
 | 13:30 | USD | Philly Fed Employment (Jul) |  |  | 7.9 |

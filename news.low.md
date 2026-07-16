@@ -5,26 +5,27 @@
 | 00:50 | JPY | Foreign Bonds Buying | 1,090.1B |  | -217.5B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 745.6B |  | -21.3B |
 | 02:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates |  |  |  |
-| 02:00 | KRW | Interest Rate Decision (Jun) |  | 2.75% | 2.50% |
-| 02:00 | AUD | MI Inflation Expectations (Jul) |  |  | 5.5% |
-| 02:30 | AUD | Reserve Assets Total (Jun) |  |  | 115,830.0B |
-| 07:00 | GBP | Construction Output (MoM) (May) |  | -0.3% | 0.1% |
-| 07:00 | GBP | U.K. Construction Output (YoY) (May) |  | -1.1% | -1.0% |
-| 07:00 | GBP | GDP (YoY) (May) |  | 1.4% | 1.2% |
-| 07:00 | GBP | Index of Services |  | 0.6% | 0.8% |
-| 07:00 | GBP | Industrial Production (YoY) (May) |  | 1.2% | -0.2% |
-| 07:00 | GBP | Manufacturing Production (YoY) (May) |  | 1.9% | 1.0% |
-| 09:00 | EUR | Italian CPI (MoM) (Jun) |  | 0.0% | 0.0% |
-| 09:00 | EUR | Italian CPI (YoY) (Jun) |  | 3.0% | 3.0% |
-| 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Jun) |  |  | 3.0% |
-| 09:00 | EUR | Italian HICP (MoM) (Jun) |  | 0.1% | 0.1% |
-| 09:00 | EUR | Italian HICP (YoY) (Jun) |  | 3.1% | 3.1% |
-| 09:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.395% |
-| 09:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 2.772% |
-| 09:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.835% |
-| 10:00 | EUR | Italian Trade Balance (May) |  | 4.830B | 4.293B |
-| 10:00 | EUR | Italian Trade Balance EU (May) |  |  | 0.32B |
-| 10:30 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.858% |
+| 02:00 | KRW | Interest Rate Decision (Jul) | 2.75% | 2.75% | 2.50% |
+| 02:00 | AUD | MI Inflation Expectations (Jul) | 4.7% |  | 5.5% |
+| 02:30 | AUD | Reserve Assets Total (Jun) | 118.8B |  | 115.8B |
+| 05:00 | IDR | Foreign Direct Investment (YoY) (Q2) | 27.40% |  | 8.50% |
+| 07:00 | GBP | Construction Output (MoM) (May) | -0.8% | -0.3% | -0.1% |
+| 07:00 | GBP | U.K. Construction Output (YoY) (May) | -1.8% | -1.1% | -1.6% |
+| 07:00 | GBP | GDP (YoY) (May) | 1.3% | 1.4% | 1.1% |
+| 07:00 | GBP | Index of Services | 0.7% | 0.6% | 0.9% |
+| 07:00 | GBP | Industrial Production (YoY) (May) | 1.0% | 1.2% | 0.0% |
+| 07:00 | GBP | Manufacturing Production (YoY) (May) | 2.3% | 1.9% | 1.0% |
+| 09:00 | EUR | Italian CPI (MoM) (Jun) | 0.0% | 0.0% | 0.4% |
+| 09:00 | EUR | Italian CPI (YoY) (Jun) | 3.0% | 3.0% | 3.2% |
+| 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Jun) | 2.9% |  | 3.0% |
+| 09:00 | EUR | Italian HICP (MoM) (Jun) | 0.0% | 0.1% | 0.3% |
+| 09:00 | EUR | Italian HICP (YoY) (Jun) | 3.0% | 3.1% | 3.2% |
+| 09:40 | EUR | Spanish 30-Year Obligacion Auction | 4.286% |  | 4.038% |
+| 10:00 | EUR | Italian Trade Balance (May) | 4.793B | 4.830B | 4.421B |
+| 10:00 | EUR | Italian Trade Balance EU (May) | 0.85B |  | 0.44B |
+| 10:00 | EUR | Spanish 3-Year Bonos Auction | 2.867% |  | 2.772% |
+| 10:00 | EUR | Spanish 7-Year Obligacion Auction | 3.297% |  | 3.157% |
+| 10:30 | GBP | 10-Year Treasury Gilt Auction | 5.040% |  | 4.858% |
 | 13:00 | CNY | FDI (Jun) |  |  | -8.60% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 218.75K |
 | 13:30 | USD | Philly Fed Business Conditions (Jul) |  |  | 50.2 |

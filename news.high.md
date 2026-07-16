@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | GBP | GDP (MoM) (May) |  | 0.0% | -0.1% |
+| 07:00 | GBP | GDP (MoM) (May) | 0.1% | 0.0% | -0.1% |
 | 13:30 | USD | Core Retail Sales (MoM) (Jun) |  | 0.0% | 0.8% |
 | 13:30 | USD | Initial Jobless Claims |  | 216K | 215K |
 | 13:30 | USD | Philadelphia Fed Manufacturing Index (Jul) |  | 12.7 | 10.3 |
