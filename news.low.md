@@ -39,6 +39,6 @@
 | 16:30 | USD | 4-Week Bill Auction | 3.660% |  | 3.630% |
 | 16:30 | USD | 8-Week Bill Auction | 3.650% |  | 3.635% |
 | 17:30 | USD | Fed Logan Speaks |  |  |  |
-| 3 min | USD | Fed Schmid Speaks |  |  |  |
+| 18:25 | USD | Fed Schmid Speaks |  |  |  |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.137T |
 | 23:45 | NZD | FPI (MoM) (Jun) |  |  | 1.0% |
