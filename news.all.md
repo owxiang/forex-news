@@ -7,7 +7,7 @@
 | 01:30 | SGD | Low | Non-Oil Exports (YoY) (Jun) | 20.70% | 30.20% | 38.40% |
 | 01:30 | SGD | Low | Trade Balance (Jun) | 13.817B |  | 5.556B |
 | 02:00 | USD | High | U.S. President Trump Speaks |  |  |  |
-| 04:00 | NZD | Low | RBNZ Offshore Holdings (Jun) |  |  | 57.50% |
+| 04:00 | NZD | Low | RBNZ Offshore Holdings (Jun) | 55.80% |  | 57.50% |
 | 09:00 | EUR | Low | Current Account (May) |  | 18.1B | 15.7B |
 | 09:00 | EUR | Low | Current Account n.s.a. (May) |  |  | 14.9B |
 | 09:30 | HKD | Low | Unemployment Rate (Jun) |  |  | 3.7% |
@@ -23,7 +23,7 @@
 | 12:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Jul) |  | -1.0% | -0.3% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 674.19B |
 | 12:30 | INR | Low | M3 Money Supply |  |  | 11.9% |
-| 13:00 | BRL | Low | IBC-Br Economic Activity (May) |  |  | 0.50% |
+| 13:00 | BRL | Low | IBC-Br Economic Activity (May) |  | 0.00% | 0.50% |
 | 13:30 | USD | Moderate | Building Permits (Jun) |  | 1.400M | 1.410M |
 | 13:30 | USD | Low | Building Permits (MoM) (Jun) |  |  | -0.9% |
 | 13:30 | USD | Moderate | Export Price Index (MoM) (Jun) |  | -0.4% | 1.3% |
@@ -44,8 +44,8 @@
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Jul) |  | 51.0 | 49.5 |
 | 15:00 | USD | Low | Michigan Current Conditions (Jul) |  | 48.7 | 47.7 |
 | 15:45 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  |  |  |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  |  |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  |  |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 445 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 581 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -87.9K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 1.3K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 64.3K |
