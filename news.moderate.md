@@ -4,19 +4,19 @@
 |------|----------|-------|--------|----------|----------|
 | 10:00 | EUR | Core CPI (YoY) (Jun) | 2.4% | 2.4% | 2.6% |
 | 10:00 | EUR | CPI (MoM) (Jun) | -0.1% | -0.1% | 0.1% |
-| 13:30 | USD | Building Permits (Jun) |  | 1.400M | 1.410M |
-| 13:30 | USD | Export Price Index (MoM) (Jun) |  | -0.4% | 1.3% |
-| 13:30 | USD | Housing Starts (Jun) |  | 1.310M | 1.177M |
-| 13:30 | USD | Housing Starts (MoM) (Jun) |  |  | -15.4% |
-| 13:30 | USD | Import Price Index (MoM) (Jun) |  | -0.7% | 1.9% |
-| 13:30 | CAD | Foreign Securities Purchases (May) |  | 15.21B | 46.91B |
-| 14:15 | USD | Industrial Production (YoY) (Jun) |  |  | 1.67% |
-| 14:15 | USD | Industrial Production (MoM) (Jun) |  | 0.2% | 0.1% |
+| 13:30 | USD | Building Permits (Jun) | 1.367M | 1.400M | 1.410M |
+| 13:30 | USD | Export Price Index (MoM) (Jun) | -0.6% | -0.4% | 1.2% |
+| 13:30 | USD | Housing Starts (Jun) | 1.427M | 1.310M | 1.199M |
+| 13:30 | USD | Housing Starts (MoM) (Jun) | 19.0% |  | -15.2% |
+| 13:30 | USD | Import Price Index (MoM) (Jun) | 0.3% | -0.7% | 1.7% |
+| 13:30 | CAD | Foreign Securities Purchases (May) | 7.90B | 15.21B | 46.92B |
+| 14:15 | USD | Industrial Production (YoY) (Jun) | 1.14% |  | 1.58% |
+| 14:15 | USD | Industrial Production (MoM) (Jun) | 0.1% | 0.2% | 0.1% |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Jul) |  |  | 4.6% |
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Jul) |  |  | 3.3% |
 | 15:00 | USD | Michigan Consumer Expectations (Jul) |  | 51.7 | 50.7 |
 | 15:00 | USD | Michigan Consumer Sentiment (Jul) |  | 51.0 | 49.5 |
-| 15:45 | USD | Atlanta Fed GDPNow (Q2) |  |  |  |
+| 15:45 | USD | Atlanta Fed GDPNow (Q2) |  | 1.7% | 1.7% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 445 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 581 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -87.9K |

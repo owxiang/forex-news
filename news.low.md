@@ -17,15 +17,14 @@
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Jun) | 2.1% | 2.2% | 2.2% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Jun) | 0.2% | 0.2% | 0.3% |
 | 12:00 | BRL | IGP-10 Inflation Index (MoM) (Jul) | -1.1% | -1.0% | -0.3% |
-| 12:30 | INR | FX Reserves, USD |  |  | 674.19B |
-| 12:30 | INR | M3 Money Supply |  |  | 11.9% |
-| 13:00 | BRL | IBC-Br Economic Activity (May) |  | 0.00% | 0.50% |
-| 13:30 | USD | Building Permits (MoM) (Jun) |  |  | -0.9% |
-| 13:30 | USD | Export Price Index (YoY) (Jun) |  |  | 11.2% |
-| 13:30 | USD | Import Price Index (YoY) (Jun) |  |  | 6.7% |
-| 13:30 | CAD | Foreign Securities Purchases by Canadians (May) |  |  | -11.360B |
-| 14:15 | USD | Capacity Utilization Rate (Jun) |  | 76.2% | 76.2% |
-| 14:15 | USD | Manufacturing Production (MoM) (Jun) |  | 0.1% | 0.0% |
+| 12:30 | INR | FX Reserves, USD | 675.16B |  | 674.19B |
+| 13:00 | BRL | IBC-Br Economic Activity (May) | 0.10% | 0.00% | 0.50% |
+| 13:30 | USD | Building Permits (MoM) (Jun) | -3.0% |  | -0.9% |
+| 13:30 | USD | Export Price Index (YoY) (Jun) | 10.2% |  | 11.2% |
+| 13:30 | USD | Import Price Index (YoY) (Jun) | 7.1% |  | 6.7% |
+| 13:30 | CAD | Foreign Securities Purchases by Canadians (May) | 22.270B |  | -11.370B |
+| 14:15 | USD | Capacity Utilization Rate (Jun) | 76.1% | 76.2% | 76.1% |
+| 14:15 | USD | Manufacturing Production (MoM) (Jun) | 0.0% | 0.1% | 0.1% |
 | 15:00 | USD | Michigan Current Conditions (Jul) |  | 48.7 | 47.7 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.3K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 64.3K |

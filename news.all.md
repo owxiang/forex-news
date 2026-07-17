@@ -21,29 +21,28 @@
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jun) | 2.1% | 2.2% | 2.2% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jun) | 0.2% | 0.2% | 0.3% |
 | 12:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Jul) | -1.1% | -1.0% | -0.3% |
-| 12:30 | INR | Low | FX Reserves, USD |  |  | 674.19B |
-| 12:30 | INR | Low | M3 Money Supply |  |  | 11.9% |
-| 13:00 | BRL | Low | IBC-Br Economic Activity (May) |  | 0.00% | 0.50% |
-| 13:30 | USD | Moderate | Building Permits (Jun) |  | 1.400M | 1.410M |
-| 13:30 | USD | Low | Building Permits (MoM) (Jun) |  |  | -0.9% |
-| 13:30 | USD | Moderate | Export Price Index (MoM) (Jun) |  | -0.4% | 1.3% |
-| 13:30 | USD | Low | Export Price Index (YoY) (Jun) |  |  | 11.2% |
-| 13:30 | USD | Moderate | Housing Starts (Jun) |  | 1.310M | 1.177M |
-| 13:30 | USD | Moderate | Housing Starts (MoM) (Jun) |  |  | -15.4% |
-| 13:30 | USD | Moderate | Import Price Index (MoM) (Jun) |  | -0.7% | 1.9% |
-| 13:30 | USD | Low | Import Price Index (YoY) (Jun) |  |  | 6.7% |
-| 13:30 | CAD | Moderate | Foreign Securities Purchases (May) |  | 15.21B | 46.91B |
-| 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (May) |  |  | -11.360B |
-| 14:15 | USD | Low | Capacity Utilization Rate (Jun) |  | 76.2% | 76.2% |
-| 14:15 | USD | Moderate | Industrial Production (YoY) (Jun) |  |  | 1.67% |
-| 14:15 | USD | Moderate | Industrial Production (MoM) (Jun) |  | 0.2% | 0.1% |
-| 14:15 | USD | Low | Manufacturing Production (MoM) (Jun) |  | 0.1% | 0.0% |
+| 12:30 | INR | Low | FX Reserves, USD | 675.16B |  | 674.19B |
+| 13:00 | BRL | Low | IBC-Br Economic Activity (May) | 0.10% | 0.00% | 0.50% |
+| 13:30 | USD | Moderate | Building Permits (Jun) | 1.367M | 1.400M | 1.410M |
+| 13:30 | USD | Low | Building Permits (MoM) (Jun) | -3.0% |  | -0.9% |
+| 13:30 | USD | Moderate | Export Price Index (MoM) (Jun) | -0.6% | -0.4% | 1.2% |
+| 13:30 | USD | Low | Export Price Index (YoY) (Jun) | 10.2% |  | 11.2% |
+| 13:30 | USD | Moderate | Housing Starts (Jun) | 1.427M | 1.310M | 1.199M |
+| 13:30 | USD | Moderate | Housing Starts (MoM) (Jun) | 19.0% |  | -15.2% |
+| 13:30 | USD | Moderate | Import Price Index (MoM) (Jun) | 0.3% | -0.7% | 1.7% |
+| 13:30 | USD | Low | Import Price Index (YoY) (Jun) | 7.1% |  | 6.7% |
+| 13:30 | CAD | Moderate | Foreign Securities Purchases (May) | 7.90B | 15.21B | 46.92B |
+| 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (May) | 22.270B |  | -11.370B |
+| 14:15 | USD | Low | Capacity Utilization Rate (Jun) | 76.1% | 76.2% | 76.1% |
+| 14:15 | USD | Moderate | Industrial Production (YoY) (Jun) | 1.14% |  | 1.58% |
+| 14:15 | USD | Moderate | Industrial Production (MoM) (Jun) | 0.1% | 0.2% | 0.1% |
+| 14:15 | USD | Low | Manufacturing Production (MoM) (Jun) | 0.0% | 0.1% | 0.1% |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Jul) |  |  | 4.6% |
 | 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Jul) |  |  | 3.3% |
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Jul) |  | 51.7 | 50.7 |
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Jul) |  | 51.0 | 49.5 |
 | 15:00 | USD | Low | Michigan Current Conditions (Jul) |  | 48.7 | 47.7 |
-| 15:45 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  |  |  |
+| 15:45 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 1.7% | 1.7% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 445 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 581 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -87.9K |
