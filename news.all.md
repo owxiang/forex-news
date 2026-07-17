@@ -20,7 +20,7 @@
 | 10:00 | EUR | Low | CPI, n.s.a (Jun) | 103.02 | 103.07 | 103.13 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jun) | 2.1% | 2.2% | 2.2% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jun) | 0.2% | 0.2% | 0.3% |
-| 12:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Jul) |  | -1.0% | -0.3% |
+| 12:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Jul) | -1.1% | -1.0% | -0.3% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 674.19B |
 | 12:30 | INR | Low | M3 Money Supply |  |  | 11.9% |
 | 13:00 | BRL | Low | IBC-Br Economic Activity (May) |  | 0.00% | 0.50% |
