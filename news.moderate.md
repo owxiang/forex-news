@@ -1,23 +1,30 @@
-## 16 July 2026 - Moderate Impact Forex News
+## 17 July 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | GBP | Industrial Production (MoM) (May) | -0.5% | -0.1% | 0.2% |
-| 07:00 | GBP | Manufacturing Production (MoM) (May) | 0.1% | -0.2% | 0.5% |
-| 07:00 | GBP | Monthly GDP 3M/3M Change (May) | 0.7% | 0.5% | 0.8% |
-| 07:00 | GBP | Trade Balance (May) | -18.66B | -23.10B | -24.58B |
-| 07:00 | GBP | Trade Balance Non-EU (May) | -7.14B |  | -12.21B |
-| 08:30 | CHF | SNB Monetary Policy Assessment |  |  |  |
-| 10:00 | EUR | Trade Balance (May) | -7.8B | 2.8B | -1.2B |
-| 13:00 | GBP | NIESR Monthly GDP Tracker (Jun) | 0.4% |  | 0.7% |
-| 13:00 | BRL | Retail Sales (YoY) (May) | 0.4% | 1.2% | 1.0% |
-| 13:00 | BRL | Retail Sales (MoM) (May) | 0.1% | 0.5% | -1.6% |
-| 13:15 | CAD | Housing Starts (Jun) | 239.0K | 256.0K | 253.1K |
-| 13:30 | USD | Continuing Jobless Claims | 1,805K | 1,820K | 1,821K |
-| 13:30 | USD | Philly Fed Employment (Jul) | 10.0 |  | 7.9 |
-| 13:30 | USD | Retail Control (MoM) (Jun) | 0.5% | 0.5% | 0.8% |
-| 15:00 | USD | Business Inventories (MoM) (May) | 0.3% | 0.3% | 0.6% |
-| 15:00 | USD | Pending Home Sales (MoM) (Jun) | -5.4% | -0.5% | 3.5% |
-| 15:00 | USD | Retail Inventories Ex Auto (May) | 0.3% | 0.4% | 0.6% |
-| 17:00 | USD | Atlanta Fed GDPNow (Q2) | 1.7% | 1.3% | 1.3% |
-| 21:30 | USD | Fed's Balance Sheet | 6,743B |  | 6,736B |
+| 10:00 | EUR | Core CPI (YoY) (Jun) |  | 2.4% | 2.6% |
+| 10:00 | EUR | CPI (MoM) (Jun) |  | -0.1% | 0.1% |
+| 13:30 | USD | Building Permits (Jun) |  | 1.400M | 1.410M |
+| 13:30 | USD | Export Price Index (MoM) (Jun) |  | -0.4% | 1.3% |
+| 13:30 | USD | Housing Starts (Jun) |  | 1.310M | 1.177M |
+| 13:30 | USD | Housing Starts (MoM) (Jun) |  |  | -15.4% |
+| 13:30 | USD | Import Price Index (MoM) (Jun) |  | -0.7% | 1.9% |
+| 13:30 | CAD | Foreign Securities Purchases (May) |  | 15.21B | 46.91B |
+| 14:15 | USD | Industrial Production (YoY) (Jun) |  |  | 1.67% |
+| 14:15 | USD | Industrial Production (MoM) (Jun) |  | 0.2% | 0.1% |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (Jul) |  |  | 4.6% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (Jul) |  |  | 3.3% |
+| 15:00 | USD | Michigan Consumer Expectations (Jul) |  | 51.7 | 50.7 |
+| 15:00 | USD | Michigan Consumer Sentiment (Jul) |  | 51.0 | 49.5 |
+| 15:45 | USD | Atlanta Fed GDPNow (Q2) |  |  |  |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  |  |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  |  |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | -87.9K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 75.7K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 194.2K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 2.1K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -42.9K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -24.7K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 30.8K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | -123.8K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | -16.2K |
