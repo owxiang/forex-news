@@ -8,18 +8,18 @@
 | 01:30 | SGD | Low | Trade Balance (Jun) | 13.817B |  | 5.556B |
 | 02:00 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 04:00 | NZD | Low | RBNZ Offshore Holdings (Jun) | 55.80% |  | 57.50% |
-| 09:00 | EUR | Low | Current Account (May) |  | 18.1B | 15.7B |
-| 09:00 | EUR | Low | Current Account n.s.a. (May) |  |  | 14.9B |
-| 09:30 | HKD | Low | Unemployment Rate (Jun) |  |  | 3.7% |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Jun) |  | 2.4% | 2.6% |
-| 10:00 | EUR | Low | Core CPI (MoM) (Jun) |  | 0.2% | 0.2% |
-| 10:00 | EUR | High | CPI (YoY) (Jun) |  | 2.8% | 3.2% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Jun) |  | -0.1% | 0.1% |
-| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Jun) |  |  | 0.1% |
-| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Jun) |  |  | 3.1% |
-| 10:00 | EUR | Low | CPI, n.s.a (Jun) |  | 103.07 | 103.13 |
-| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jun) |  | 2.2% | 2.2% |
-| 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jun) |  | 0.2% | 0.3% |
+| 09:00 | EUR | Low | Current Account (May) | 25.1B | 18.1B | 15.7B |
+| 09:00 | EUR | Low | Current Account n.s.a. (May) | -6.2B |  | 14.9B |
+| 09:30 | HKD | Low | Unemployment Rate (Jun) | 3.7% |  | 3.7% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Jun) | 2.4% | 2.4% | 2.6% |
+| 10:00 | EUR | Low | Core CPI (MoM) (Jun) | 0.2% | 0.2% | 0.2% |
+| 10:00 | EUR | High | CPI (YoY) (Jun) | 2.8% | 2.8% | 3.2% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Jun) | -0.1% | -0.1% | 0.1% |
+| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Jun) | -0.1% |  | 0.1% |
+| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Jun) | 2.7% |  | 3.1% |
+| 10:00 | EUR | Low | CPI, n.s.a (Jun) | 103.02 | 103.07 | 103.13 |
+| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jun) | 2.1% | 2.2% | 2.2% |
+| 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jun) | 0.2% | 0.2% | 0.3% |
 | 12:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Jul) |  | -1.0% | -0.3% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 674.19B |
 | 12:30 | INR | Low | M3 Money Supply |  |  | 11.9% |

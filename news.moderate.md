@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 10:00 | EUR | Core CPI (YoY) (Jun) |  | 2.4% | 2.6% |
-| 10:00 | EUR | CPI (MoM) (Jun) |  | -0.1% | 0.1% |
+| 10:00 | EUR | Core CPI (YoY) (Jun) | 2.4% | 2.4% | 2.6% |
+| 10:00 | EUR | CPI (MoM) (Jun) | -0.1% | -0.1% | 0.1% |
 | 13:30 | USD | Building Permits (Jun) |  | 1.400M | 1.410M |
 | 13:30 | USD | Export Price Index (MoM) (Jun) |  | -0.4% | 1.3% |
 | 13:30 | USD | Housing Starts (Jun) |  | 1.310M | 1.177M |

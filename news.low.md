@@ -7,15 +7,15 @@
 | 01:30 | SGD | Non-Oil Exports (YoY) (Jun) | 20.70% | 30.20% | 38.40% |
 | 01:30 | SGD | Trade Balance (Jun) | 13.817B |  | 5.556B |
 | 04:00 | NZD | RBNZ Offshore Holdings (Jun) | 55.80% |  | 57.50% |
-| 09:00 | EUR | Current Account (May) |  | 18.1B | 15.7B |
-| 09:00 | EUR | Current Account n.s.a. (May) |  |  | 14.9B |
-| 09:30 | HKD | Unemployment Rate (Jun) |  |  | 3.7% |
-| 10:00 | EUR | Core CPI (MoM) (Jun) |  | 0.2% | 0.2% |
-| 10:00 | EUR | CPI ex Tobacco (MoM) (Jun) |  |  | 0.1% |
-| 10:00 | EUR | CPI ex Tobacco (YoY) (Jun) |  |  | 3.1% |
-| 10:00 | EUR | CPI, n.s.a (Jun) |  | 103.07 | 103.13 |
-| 10:00 | EUR | HICP ex Energy & Food (YoY) (Jun) |  | 2.2% | 2.2% |
-| 10:00 | EUR | HICP ex Energy and Food (MoM) (Jun) |  | 0.2% | 0.3% |
+| 09:00 | EUR | Current Account (May) | 25.1B | 18.1B | 15.7B |
+| 09:00 | EUR | Current Account n.s.a. (May) | -6.2B |  | 14.9B |
+| 09:30 | HKD | Unemployment Rate (Jun) | 3.7% |  | 3.7% |
+| 10:00 | EUR | Core CPI (MoM) (Jun) | 0.2% | 0.2% | 0.2% |
+| 10:00 | EUR | CPI ex Tobacco (MoM) (Jun) | -0.1% |  | 0.1% |
+| 10:00 | EUR | CPI ex Tobacco (YoY) (Jun) | 2.7% |  | 3.1% |
+| 10:00 | EUR | CPI, n.s.a (Jun) | 103.02 | 103.07 | 103.13 |
+| 10:00 | EUR | HICP ex Energy & Food (YoY) (Jun) | 2.1% | 2.2% | 2.2% |
+| 10:00 | EUR | HICP ex Energy and Food (MoM) (Jun) | 0.2% | 0.2% | 0.3% |
 | 12:00 | BRL | IGP-10 Inflation Index (MoM) (Jul) |  | -1.0% | -0.3% |
 | 12:30 | INR | FX Reserves, USD |  |  | 674.19B |
 | 12:30 | INR | M3 Money Supply |  |  | 11.9% |
