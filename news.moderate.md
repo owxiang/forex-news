@@ -12,11 +12,11 @@
 | 13:30 | CAD | Foreign Securities Purchases (May) | 7.90B | 15.21B | 46.92B |
 | 14:15 | USD | Industrial Production (YoY) (Jun) | 1.14% |  | 1.58% |
 | 14:15 | USD | Industrial Production (MoM) (Jun) | 0.1% | 0.2% | 0.1% |
-| 15:00 | USD | Michigan 1-Year Inflation Expectations (Jul) |  |  | 4.6% |
-| 15:00 | USD | Michigan 5-Year Inflation Expectations (Jul) |  |  | 3.3% |
-| 15:00 | USD | Michigan Consumer Expectations (Jul) |  | 51.7 | 50.7 |
-| 15:00 | USD | Michigan Consumer Sentiment (Jul) |  | 51.0 | 49.5 |
-| 15:45 | USD | Atlanta Fed GDPNow (Q2) |  | 1.7% | 1.7% |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (Jul) | 4.2% |  | 4.6% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (Jul) | 3.3% |  | 3.3% |
+| 15:00 | USD | Michigan Consumer Expectations (Jul) | 54.0 | 51.7 | 50.7 |
+| 15:00 | USD | Michigan Consumer Sentiment (Jul) | 54.4 | 51.0 | 49.5 |
+| 16:10 | USD | Atlanta Fed GDPNow (Q2) | 1.7% | 1.7% | 1.7% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 445 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 581 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -87.9K |

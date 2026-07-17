@@ -25,7 +25,7 @@
 | 13:30 | CAD | Foreign Securities Purchases by Canadians (May) | 22.270B |  | -11.370B |
 | 14:15 | USD | Capacity Utilization Rate (Jun) | 76.1% | 76.2% | 76.1% |
 | 14:15 | USD | Manufacturing Production (MoM) (Jun) | 0.0% | 0.1% | 0.1% |
-| 15:00 | USD | Michigan Current Conditions (Jul) |  | 48.7 | 47.7 |
+| 15:00 | USD | Michigan Current Conditions (Jul) | 54.9 | 48.7 | 47.7 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.3K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 64.3K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 101.0K |
