@@ -21,8 +21,8 @@
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.749% |  | 2.701% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.437% |  | 2.410% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.554% |  | 2.540% |
-| 15:00 | USD | Moderate | US Leading Index (MoM) (Jun) |  | -0.1% | 0.1% |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.760% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.860% |
+| 15:00 | USD | Moderate | US Leading Index (MoM) (Jun) | -0.2% | -0.1% | 0.1% |
+| 16:30 | USD | Low | 3-Month Bill Auction | 3.730% |  | 3.760% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 3.835% |  | 3.860% |
 | 23:45 | NZD | Moderate | CPI (QoQ) (Q2) |  | 1.5% | 0.9% |
 | 23:45 | NZD | Moderate | CPI (YoY) (Q2) |  | 4.0% | 3.1% |
