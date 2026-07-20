@@ -5,7 +5,7 @@
 | 00:01 | GBP | Rightmove House Price Index (MoM) | -1.0% |  | -0.6% |
 | 00:01 | GBP | Rightmove House Price Index (YoY) (Jul) | -0.4% |  | -0.5% |
 | 07:00 | EUR | German PPI (YoY) (Jun) | 1.8% |  | 2.2% |
-| 10:00 | EUR | Construction Output (MoM) (May) |  |  | 0.57% |
+| 10:00 | EUR | Construction Output (MoM) (May) | 0.38% |  | 0.10% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:30 | INR | Infrastructure Output (YoY) (Jun) |  |  | 0.5% |
 | 13:30 | CAD | Common CPI (YoY) (Jun) |  | 2.5% | 2.7% |

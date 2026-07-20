@@ -8,7 +8,7 @@
 | 02:00 | CNY | Moderate | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
 | 07:00 | EUR | Moderate | German PPI (MoM) (Jun) | -0.3% | -0.2% | 0.3% |
 | 07:00 | EUR | Low | German PPI (YoY) (Jun) | 1.8% |  | 2.2% |
-| 10:00 | EUR | Low | Construction Output (MoM) (May) |  |  | 0.57% |
+| 10:00 | EUR | Low | Construction Output (MoM) (May) | 0.38% |  | 0.10% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:30 | INR | Low | Infrastructure Output (YoY) (Jun) |  |  | 0.5% |
 | 13:30 | CAD | Low | Common CPI (YoY) (Jun) |  | 2.5% | 2.7% |
