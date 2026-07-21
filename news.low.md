@@ -1,21 +1,43 @@
-## 21 July 2026 - Low Impact Forex News
+## 22 July 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | GBP | Average Earnings ex Bonus (May) | 3.4% | 3.4% | 3.4% |
-| 07:00 | GBP | Public Sector Net Cash Requirement (Jun) | 15.227B |  | 23.729B |
-| 07:00 | CHF | Trade Balance (Jun) | 5.224B |  | 5.989B |
-| 07:00 | NOK | Unemployment Rate (Jun) | 4.5% |  | 4.4% |
-| 08:00 | CHF | M3 Money Supply (Jun) | 1,227.0B |  | 1,227.5B |
-| 09:00 | EUR | Spanish Trade Balance (May) | -8.24B |  | -5.20B |
-| 09:00 | EUR | ECB Bank Lending Survey |  |  |  |
-| 09:30 | HKD | CPI (MoM) (Jun) | 0.00% |  | 0.00% |
-| 09:30 | HKD | CPI (YoY) (Jun) | 2.00% |  | 2.00% |
-| 10:50 | EUR | German 5-Year Bobl Auction | 2.890% |  | 2.640% |
-| 13:00 | MXN | Retail Sales (YoY) (May) | 1.6% |  | 4.4% |
-| 13:00 | MXN | Retail Sales (MoM) (May) | -0.6% |  | 0.8% |
-| 13:55 | USD | Redbook (YoY) | 7.8% |  | 8.2% |
-| 16:10 | NZD | GlobalDairyTrade Price Index | 1.5% |  | -4.9% |
-| 16:10 | USD | Milk Auctions | 3,815.0 |  | 3,793.0 |
-| 22:00 | KRW | PPI (MoM) (Jun) | 0.0% |  | 0.8% |
-| 22:00 | KRW | PPI (YoY) (Jun) | 8.6% |  | 8.5% |
+| 00:50 | JPY | Imports (YoY) (Jun) | 25.4% | 21.0% | 12.5% |
+| 02:00 | AUD | MI Leading Index (MoM) (Jun) |  |  | -0.0% |
+| 04:00 | NZD | Credit Card Spending (YoY) (Jun) |  |  | 5.1% |
+| 07:00 | GBP | Core CPI (YoY) (Jun) |  | 2.5% | 2.6% |
+| 07:00 | GBP | Core CPI (MoM) (Jun) |  |  | 0.3% |
+| 07:00 | GBP | Core PPI Output (MoM) (Jun) |  |  | 0.8% |
+| 07:00 | GBP | Core PPI Output (YoY) (Jun) |  |  | 2.3% |
+| 07:00 | GBP | Core RPI (YoY) (Jun) |  |  | 3.0% |
+| 07:00 | GBP | Core RPI (MoM) (Jun) |  |  | 0.2% |
+| 07:00 | GBP | CPI, n.s.a (Jun) |  |  | 142.40 |
+| 07:00 | GBP | PPI Input (YoY) (Jun) |  |  | 8.7% |
+| 07:00 | GBP | PPI Output (YoY) (Jun) |  |  | 4.0% |
+| 07:00 | GBP | PPI Output (MoM) (Jun) |  | -0.1% | 0.5% |
+| 07:00 | GBP | RPI (MoM) (Jun) |  | 0.3% | 0.2% |
+| 07:00 | GBP | RPI (YoY) (Jun) |  | 3.0% | 3.1% |
+| 07:00 | NOK | Industrial Confidence (Q2) |  |  | 1.2 |
+| 08:30 | IDR | Deposit Facility Rate (Jul) |  | 5.00% | 4.75% |
+| 08:30 | IDR | Lending Facility Rate (Jul) |  | 6.75% | 6.50% |
+| 08:30 | IDR | Loans (YoY) (Jun) |  |  | 11.51% |
+| 09:00 | ZAR | Core CPI (MoM) (Jun) |  |  | 0.2% |
+| 09:00 | ZAR | Core CPI (YoY) (Jun) |  |  | 3.8% |
+| 09:00 | ZAR | CPI (MoM) (Jun) |  |  | 0.7% |
+| 09:00 | ZAR | CPI (YoY) (Jun) |  |  | 4.5% |
+| 09:30 | GBP | House Price Index (YoY) |  | 3.2% | 3.8% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.65% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -2.7% |
+| 12:00 | USD | MBA Purchase Index |  |  | 157.2 |
+| 12:00 | USD | Mortgage Market Index |  |  | 259.1 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 821.9 |
+| 12:00 | ZAR | Retail Sales (YoY) (May) |  |  | 1.3% |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.099M |
+| 15:30 | USD | Crude Oil Imports |  |  | -0.399M |
+| 15:30 | USD | Distillate Fuel Production |  |  | 0.072M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | 4.556M |
+| 15:30 | USD | Gasoline Production |  |  | -0.096M |
+| 15:30 | USD | Heating Oil Stockpiles |  |  | 0.030M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.4% |
+| 15:30 | USD | Gasoline Inventories |  |  | -1.533M |
+| 18:30 | BRL | Foreign Exchange Flows |  |  | 1.012B |

@@ -1,15 +1,12 @@
-## 21 July 2026 - Moderate Impact Forex News
+## 22 July 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | GBP | Average Earnings Index +Bonus (May) | 4.3% | 4.5% | 4.4% |
-| 07:00 | GBP | Claimant Count Change (Jun) | 6.7K | 29.4K | 1.3K |
-| 07:00 | GBP | Employment Change 3M/3M (MoM) (May) | 147K | 85K | 100K |
-| 07:00 | GBP | Unemployment Rate (May) | 4.9% | 4.9% | 4.9% |
-| 10:00 | EUR | German ZEW Current Conditions (Jul) | -77.6 | -77.8 | -81.0 |
-| 10:00 | EUR | German ZEW Economic Sentiment (Jul) | 26.3 | 15.1 | 10.5 |
-| 10:00 | EUR | ZEW Economic Sentiment (Jul) | 23.4 | 11.2 | 9.5 |
-| 12:30 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 13:15 | USD | ADP Employment Change Weekly | 16.50K |  | 19.25K |
-| 17:30 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock | 2.603M | -1.500M | -0.056M |
+| 00:50 | JPY | Adjusted Trade Balance | -0.88T | -0.56T | -0.09T |
+| 00:50 | JPY | Exports (YoY) (Jun) | 19.3% | 18.6% | 16.8% |
+| 00:50 | JPY | Trade Balance (Jun) | -406.9B | -120.0B | -391.8B |
+| 07:00 | GBP | CPI (MoM) (Jun) |  | 0.1% | 0.2% |
+| 07:00 | GBP | PPI Input (MoM) (Jun) |  | -0.7% | 0.2% |
+| 08:30 | IDR | Interest Rate Decision |  | 6.00% | 5.75% |
+| 15:30 | USD | Cushing Crude Oil Inventories |  |  | 0.430M |
+| 18:00 | USD | 20-Year Bond Auction |  |  | 4.927% |
