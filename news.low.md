@@ -1,19 +1,21 @@
-## 20 July 2026 - Low Impact Forex News
+## 21 July 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | Rightmove House Price Index (MoM) | -1.0% |  | -0.6% |
-| 00:01 | GBP | Rightmove House Price Index (YoY) (Jul) | -0.4% |  | -0.5% |
-| 07:00 | EUR | German PPI (YoY) (Jun) | 1.8% |  | 2.2% |
-| 10:00 | EUR | Construction Output (MoM) (May) | 0.38% |  | 0.10% |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:30 | INR | Infrastructure Output (YoY) (Jun) | 5.0% |  | 3.2% |
-| 13:30 | CAD | Common CPI (YoY) (Jun) | 2.6% | 2.5% | 2.7% |
-| 13:30 | CAD | CPI (YoY) (Jun) | 2.8% |  | 3.2% |
-| 13:30 | CAD | Median CPI (YoY) (Jun) | 1.9% | 2.1% | 2.1% |
-| 13:30 | CAD | Trimmed CPI (YoY) (Jun) | 1.8% | 2.0% | 2.0% |
-| 14:00 | EUR | French 12-Month BTF Auction | 2.749% |  | 2.701% |
-| 14:00 | EUR | French 3-Month BTF Auction | 2.437% |  | 2.410% |
-| 14:00 | EUR | French 6-Month BTF Auction | 2.554% |  | 2.540% |
-| 16:30 | USD | 3-Month Bill Auction | 3.730% |  | 3.760% |
-| 16:30 | USD | 6-Month Bill Auction | 3.835% |  | 3.860% |
+| 07:00 | GBP | Average Earnings ex Bonus (May) |  | 3.4% | 3.4% |
+| 07:00 | GBP | Public Sector Net Cash Requirement (Jun) |  |  | 24.069B |
+| 07:00 | CHF | Trade Balance (Jun) |  |  | 6.110B |
+| 07:00 | NOK | Unemployment Rate (Jun) |  |  | 4.4% |
+| 08:00 | CHF | M3 Money Supply (Jun) |  |  | 1,228,273.0B |
+| 09:00 | EUR | Spanish Trade Balance (May) |  |  | -5.20B |
+| 09:00 | EUR | ECB Bank Lending Survey |  |  |  |
+| 09:30 | HKD | CPI (MoM) (Jun) |  |  | 0.00% |
+| 09:30 | HKD | CPI (YoY) (Jun) |  |  | 2.00% |
+| 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.640% |
+| 13:00 | MXN | Retail Sales (YoY) (May) |  |  | 4.4% |
+| 13:00 | MXN | Retail Sales (MoM) (May) |  |  | 0.8% |
+| 13:00 | NZD | GlobalDairyTrade Price Index |  |  | -4.9% |
+| 13:00 | USD | Milk Auctions |  |  | 3,793.0 |
+| 13:55 | USD | Redbook (YoY) |  |  | 8.2% |
+| 22:00 | KRW | PPI (MoM) (Jun) |  |  | 0.8% |
+| 22:00 | KRW | PPI (YoY) (Jun) |  |  | 8.5% |
