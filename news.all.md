@@ -22,7 +22,7 @@
 | 12:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 13:00 | MXN | Low | Retail Sales (YoY) (May) | 1.6% |  | 4.4% |
 | 13:00 | MXN | Low | Retail Sales (MoM) (May) | -0.6% |  | 0.8% |
-| 13:15 | USD | Moderate | ADP Employment Change Weekly | 16.50K |  | 19.80K |
+| 13:15 | USD | Moderate | ADP Employment Change Weekly | 16.50K |  | 19.25K |
 | 13:55 | USD | Low | Redbook (YoY) | 7.8% |  | 8.2% |
 | 16:10 | NZD | Low | GlobalDairyTrade Price Index | 1.5% |  | -4.9% |
 | 16:10 | USD | Low | Milk Auctions | 3,815.0 |  | 3,793.0 |
