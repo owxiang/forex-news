@@ -2,22 +2,22 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 07:00 | GBP | Low | Average Earnings ex Bonus (May) |  | 3.4% | 3.4% |
-| 07:00 | GBP | Moderate | Average Earnings Index +Bonus (May) |  | 4.5% | 4.4% |
-| 07:00 | GBP | Moderate | Claimant Count Change (Jun) |  | 28.3K | 31.2K |
-| 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (May) |  |  | 100K |
-| 07:00 | GBP | Low | Public Sector Net Cash Requirement (Jun) |  |  | 24.069B |
-| 07:00 | GBP | Moderate | Unemployment Rate (May) |  | 4.9% | 4.9% |
-| 07:00 | CHF | Low | Trade Balance (Jun) |  |  | 6.110B |
-| 07:00 | NOK | Low | Unemployment Rate (Jun) |  |  | 4.4% |
-| 08:00 | CHF | Low | M3 Money Supply (Jun) |  |  | 1,228,273.0B |
+| 07:00 | GBP | Low | Average Earnings ex Bonus (May) | 3.4% | 3.4% | 3.4% |
+| 07:00 | GBP | Moderate | Average Earnings Index +Bonus (May) | 4.3% | 4.5% | 4.4% |
+| 07:00 | GBP | Moderate | Claimant Count Change (Jun) | 6.7K | 29.4K | 1.3K |
+| 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (May) | 147K | 85K | 100K |
+| 07:00 | GBP | Low | Public Sector Net Cash Requirement (Jun) | 15.227B |  | 23.729B |
+| 07:00 | GBP | Moderate | Unemployment Rate (May) | 4.9% | 4.9% | 4.9% |
+| 07:00 | CHF | Low | Trade Balance (Jun) | 5.224B |  | 5.989B |
+| 07:00 | NOK | Low | Unemployment Rate (Jun) | 4.5% |  | 4.4% |
+| 08:00 | CHF | Low | M3 Money Supply (Jun) |  |  | 1,228.3B |
 | 09:00 | EUR | Low | Spanish Trade Balance (May) |  |  | -5.20B |
 | 09:00 | EUR | Low | ECB Bank Lending Survey |  |  |  |
 | 09:30 | HKD | Low | CPI (MoM) (Jun) |  |  | 0.00% |
 | 09:30 | HKD | Low | CPI (YoY) (Jun) |  |  | 2.00% |
 | 10:00 | EUR | Moderate | German ZEW Current Conditions (Jul) |  | -77.8 | -81.0 |
-| 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Jul) |  | 15.7 | 10.5 |
-| 10:00 | EUR | Moderate | ZEW Economic Sentiment (Jul) |  | 11.5 | 9.5 |
+| 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Jul) |  | 15.1 | 10.5 |
+| 10:00 | EUR | Moderate | ZEW Economic Sentiment (Jul) |  | 11.2 | 9.5 |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.640% |
 | 12:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 13:00 | MXN | Low | Retail Sales (YoY) (May) |  |  | 4.4% |
@@ -26,6 +26,7 @@
 | 13:00 | USD | Low | Milk Auctions |  |  | 3,793.0 |
 | 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 19.80K |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 8.2% |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -0.056M |
+| 17:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.500M | -0.056M |
 | 22:00 | KRW | Low | PPI (MoM) (Jun) |  |  | 0.8% |
 | 22:00 | KRW | Low | PPI (YoY) (Jun) |  |  | 8.5% |
