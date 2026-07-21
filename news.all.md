@@ -27,6 +27,6 @@
 | 16:10 | NZD | Low | GlobalDairyTrade Price Index | 1.5% |  | -4.9% |
 | 16:10 | USD | Low | Milk Auctions | 3,815.0 |  | 3,793.0 |
 | 17:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.500M | -0.056M |
-| 22:00 | KRW | Low | PPI (MoM) (Jun) |  |  | 0.8% |
-| 22:00 | KRW | Low | PPI (YoY) (Jun) |  |  | 8.5% |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | 2.603M | -1.500M | -0.056M |
+| 22:00 | KRW | Low | PPI (MoM) (Jun) | 0.0% |  | 0.8% |
+| 22:00 | KRW | Low | PPI (YoY) (Jun) | 8.6% |  | 8.5% |

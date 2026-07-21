@@ -17,5 +17,5 @@
 | 13:55 | USD | Redbook (YoY) | 7.8% |  | 8.2% |
 | 16:10 | NZD | GlobalDairyTrade Price Index | 1.5% |  | -4.9% |
 | 16:10 | USD | Milk Auctions | 3,815.0 |  | 3,793.0 |
-| 22:00 | KRW | PPI (MoM) (Jun) |  |  | 0.8% |
-| 22:00 | KRW | PPI (YoY) (Jun) |  |  | 8.5% |
+| 22:00 | KRW | PPI (MoM) (Jun) | 0.0% |  | 0.8% |
+| 22:00 | KRW | PPI (YoY) (Jun) | 8.6% |  | 8.5% |

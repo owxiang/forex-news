@@ -12,4 +12,4 @@
 | 12:30 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 13:15 | USD | ADP Employment Change Weekly | 16.50K |  | 19.25K |
 | 17:30 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock |  | -1.500M | -0.056M |
+| 21:30 | USD | API Weekly Crude Oil Stock | 2.603M | -1.500M | -0.056M |
