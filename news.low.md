@@ -12,9 +12,9 @@
 | 09:30 | HKD | CPI (MoM) (Jun) | 0.00% |  | 0.00% |
 | 09:30 | HKD | CPI (YoY) (Jun) | 2.00% |  | 2.00% |
 | 10:50 | EUR | German 5-Year Bobl Auction | 2.890% |  | 2.640% |
-| 13:00 | MXN | Retail Sales (YoY) (May) |  |  | 4.4% |
-| 13:00 | MXN | Retail Sales (MoM) (May) |  |  | 0.8% |
-| 13:55 | USD | Redbook (YoY) |  |  | 8.2% |
+| 13:00 | MXN | Retail Sales (YoY) (May) | 1.6% |  | 4.4% |
+| 13:00 | MXN | Retail Sales (MoM) (May) | -0.6% |  | 0.8% |
+| 13:55 | USD | Redbook (YoY) | 7.8% |  | 8.2% |
 | 16:00 | NZD | GlobalDairyTrade Price Index |  |  | -4.9% |
 | 16:00 | USD | Milk Auctions |  |  | 3,793.0 |
 | 22:00 | KRW | PPI (MoM) (Jun) |  |  | 0.8% |

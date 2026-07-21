@@ -10,6 +10,6 @@
 | 10:00 | EUR | German ZEW Economic Sentiment (Jul) | 26.3 | 15.1 | 10.5 |
 | 10:00 | EUR | ZEW Economic Sentiment (Jul) | 23.4 | 11.2 | 9.5 |
 | 12:30 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 13:15 | USD | ADP Employment Change Weekly |  |  | 19.80K |
+| 13:15 | USD | ADP Employment Change Weekly | 16.50K |  | 19.80K |
 | 17:30 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | -1.500M | -0.056M |
