@@ -18,14 +18,14 @@
 | 10:00 | EUR | Moderate | German ZEW Current Conditions (Jul) | -77.6 | -77.8 | -81.0 |
 | 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Jul) | 26.3 | 15.1 | 10.5 |
 | 10:00 | EUR | Moderate | ZEW Economic Sentiment (Jul) | 23.4 | 11.2 | 9.5 |
-| 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.640% |
+| 10:50 | EUR | Low | German 5-Year Bobl Auction | 2.890% |  | 2.640% |
 | 12:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 13:00 | MXN | Low | Retail Sales (YoY) (May) |  |  | 4.4% |
 | 13:00 | MXN | Low | Retail Sales (MoM) (May) |  |  | 0.8% |
-| 13:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -4.9% |
-| 13:00 | USD | Low | Milk Auctions |  |  | 3,793.0 |
 | 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 19.80K |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 8.2% |
+| 16:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -4.9% |
+| 16:00 | USD | Low | Milk Auctions |  |  | 3,793.0 |
 | 17:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.500M | -0.056M |
 | 22:00 | KRW | Low | PPI (MoM) (Jun) |  |  | 0.8% |
