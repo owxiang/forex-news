@@ -24,8 +24,8 @@
 | 13:00 | MXN | Low | Retail Sales (MoM) (May) | -0.6% |  | 0.8% |
 | 13:15 | USD | Moderate | ADP Employment Change Weekly | 16.50K |  | 19.80K |
 | 13:55 | USD | Low | Redbook (YoY) | 7.8% |  | 8.2% |
-| 16:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -4.9% |
-| 16:00 | USD | Low | Milk Auctions |  |  | 3,793.0 |
+| 16:10 | NZD | Low | GlobalDairyTrade Price Index | 1.5% |  | -4.9% |
+| 16:10 | USD | Low | Milk Auctions | 3,815.0 |  | 3,793.0 |
 | 17:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.500M | -0.056M |
 | 22:00 | KRW | Low | PPI (MoM) (Jun) |  |  | 0.8% |
