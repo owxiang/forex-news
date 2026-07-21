@@ -10,14 +10,14 @@
 | 07:00 | GBP | Moderate | Unemployment Rate (May) | 4.9% | 4.9% | 4.9% |
 | 07:00 | CHF | Low | Trade Balance (Jun) | 5.224B |  | 5.989B |
 | 07:00 | NOK | Low | Unemployment Rate (Jun) | 4.5% |  | 4.4% |
-| 08:00 | CHF | Low | M3 Money Supply (Jun) |  |  | 1,228.3B |
-| 09:00 | EUR | Low | Spanish Trade Balance (May) |  |  | -5.20B |
+| 08:00 | CHF | Low | M3 Money Supply (Jun) | 1,227.0B |  | 1,227.5B |
+| 09:00 | EUR | Low | Spanish Trade Balance (May) | -8.24B |  | -5.20B |
 | 09:00 | EUR | Low | ECB Bank Lending Survey |  |  |  |
-| 09:30 | HKD | Low | CPI (MoM) (Jun) |  |  | 0.00% |
-| 09:30 | HKD | Low | CPI (YoY) (Jun) |  |  | 2.00% |
-| 10:00 | EUR | Moderate | German ZEW Current Conditions (Jul) |  | -77.8 | -81.0 |
-| 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Jul) |  | 15.1 | 10.5 |
-| 10:00 | EUR | Moderate | ZEW Economic Sentiment (Jul) |  | 11.2 | 9.5 |
+| 09:30 | HKD | Low | CPI (MoM) (Jun) | 0.00% |  | 0.00% |
+| 09:30 | HKD | Low | CPI (YoY) (Jun) | 2.00% |  | 2.00% |
+| 10:00 | EUR | Moderate | German ZEW Current Conditions (Jul) | -77.6 | -77.8 | -81.0 |
+| 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Jul) | 26.3 | 15.1 | 10.5 |
+| 10:00 | EUR | Moderate | ZEW Economic Sentiment (Jul) | 23.4 | 11.2 | 9.5 |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.640% |
 | 12:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 13:00 | MXN | Low | Retail Sales (YoY) (May) |  |  | 4.4% |

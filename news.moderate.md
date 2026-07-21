@@ -6,9 +6,9 @@
 | 07:00 | GBP | Claimant Count Change (Jun) | 6.7K | 29.4K | 1.3K |
 | 07:00 | GBP | Employment Change 3M/3M (MoM) (May) | 147K | 85K | 100K |
 | 07:00 | GBP | Unemployment Rate (May) | 4.9% | 4.9% | 4.9% |
-| 10:00 | EUR | German ZEW Current Conditions (Jul) |  | -77.8 | -81.0 |
-| 10:00 | EUR | German ZEW Economic Sentiment (Jul) |  | 15.1 | 10.5 |
-| 10:00 | EUR | ZEW Economic Sentiment (Jul) |  | 11.2 | 9.5 |
+| 10:00 | EUR | German ZEW Current Conditions (Jul) | -77.6 | -77.8 | -81.0 |
+| 10:00 | EUR | German ZEW Economic Sentiment (Jul) | 26.3 | 15.1 | 10.5 |
+| 10:00 | EUR | ZEW Economic Sentiment (Jul) | 23.4 | 11.2 | 9.5 |
 | 12:30 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 13:15 | USD | ADP Employment Change Weekly |  |  | 19.80K |
 | 17:30 | EUR | German Buba President Nagel Speaks |  |  |  |
