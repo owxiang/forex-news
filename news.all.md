@@ -2,12 +2,12 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:50 | JPY | Moderate | Adjusted Trade Balance | -0.88T | -0.56T | -0.09T |
+| 00:50 | JPY | Moderate | Adjusted Trade Balance | -0.88T | -0.56T | -0.22T |
 | 00:50 | JPY | Moderate | Exports (YoY) (Jun) | 19.3% | 18.6% | 16.8% |
 | 00:50 | JPY | Low | Imports (YoY) (Jun) | 25.4% | 21.0% | 12.5% |
 | 00:50 | JPY | Moderate | Trade Balance (Jun) | -406.9B | -120.0B | -391.8B |
-| 02:00 | AUD | Low | MI Leading Index (MoM) (Jun) |  |  | -0.0% |
-| 04:00 | NZD | Low | Credit Card Spending (YoY) (Jun) |  |  | 5.1% |
+| 02:00 | AUD | Low | MI Leading Index (MoM) (Jun) | 0.0% |  | -0.1% |
+| 04:00 | NZD | Low | Credit Card Spending (YoY) (Jun) | 3.1% |  | 4.2% |
 | 07:00 | GBP | Low | Core CPI (YoY) (Jun) |  | 2.5% | 2.6% |
 | 07:00 | GBP | Low | Core CPI (MoM) (Jun) |  |  | 0.3% |
 | 07:00 | GBP | Low | Core PPI Output (MoM) (Jun) |  |  | 0.8% |

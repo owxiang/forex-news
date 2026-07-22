@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Adjusted Trade Balance | -0.88T | -0.56T | -0.09T |
+| 00:50 | JPY | Adjusted Trade Balance | -0.88T | -0.56T | -0.22T |
 | 00:50 | JPY | Exports (YoY) (Jun) | 19.3% | 18.6% | 16.8% |
 | 00:50 | JPY | Trade Balance (Jun) | -406.9B | -120.0B | -391.8B |
 | 07:00 | GBP | CPI (MoM) (Jun) |  | 0.1% | 0.2% |

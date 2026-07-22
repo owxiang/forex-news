@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Imports (YoY) (Jun) | 25.4% | 21.0% | 12.5% |
-| 02:00 | AUD | MI Leading Index (MoM) (Jun) |  |  | -0.0% |
-| 04:00 | NZD | Credit Card Spending (YoY) (Jun) |  |  | 5.1% |
+| 02:00 | AUD | MI Leading Index (MoM) (Jun) | 0.0% |  | -0.1% |
+| 04:00 | NZD | Credit Card Spending (YoY) (Jun) | 3.1% |  | 4.2% |
 | 07:00 | GBP | Core CPI (YoY) (Jun) |  | 2.5% | 2.6% |
 | 07:00 | GBP | Core CPI (MoM) (Jun) |  |  | 0.3% |
 | 07:00 | GBP | Core PPI Output (MoM) (Jun) |  |  | 0.8% |
