@@ -10,4 +10,4 @@
 | 07:00 | GBP | PPI Input (MoM) (Jun) | -2.0% | -0.7% | 0.6% |
 | 08:30 | IDR | Interest Rate Decision | 5.75% | 6.00% | 5.75% |
 | 15:30 | USD | Cushing Crude Oil Inventories | -0.674M |  | 0.430M |
-| 18:00 | USD | 20-Year Bond Auction |  |  | 4.927% |
+| 18:00 | USD | 20-Year Bond Auction | 5.163% |  | 4.927% |
