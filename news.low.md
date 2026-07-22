@@ -18,14 +18,14 @@
 | 07:00 | GBP | RPI (YoY) (Jun) | 3.0% | 3.0% | 3.1% |
 | 07:00 | GBP | RPI (MoM) (Jun) | 0.3% | 0.3% | 0.2% |
 | 07:00 | NOK | Industrial Confidence (Q2) | 2.6 |  | 1.4 |
-| 08:30 | IDR | Deposit Facility Rate (Jul) |  | 5.00% | 4.75% |
-| 08:30 | IDR | Lending Facility Rate (Jul) |  | 6.75% | 6.50% |
-| 08:30 | IDR | Loans (YoY) (Jun) |  |  | 11.51% |
-| 09:00 | ZAR | Core CPI (MoM) (Jun) |  |  | 0.2% |
-| 09:00 | ZAR | Core CPI (YoY) (Jun) |  |  | 3.8% |
-| 09:00 | ZAR | CPI (MoM) (Jun) |  |  | 0.7% |
-| 09:00 | ZAR | CPI (YoY) (Jun) |  |  | 4.5% |
-| 09:30 | GBP | House Price Index (YoY) |  | 3.2% | 3.8% |
+| 08:30 | IDR | Deposit Facility Rate (Jul) | 4.75% | 5.00% | 4.75% |
+| 08:30 | IDR | Lending Facility Rate (Jul) | 6.50% | 6.75% | 6.50% |
+| 08:30 | IDR | Loans (YoY) (Jun) | 12.67% |  | 11.51% |
+| 09:00 | ZAR | Core CPI (MoM) (Jun) | 0.6% |  | 0.2% |
+| 09:00 | ZAR | Core CPI (YoY) (Jun) | 4.1% |  | 3.8% |
+| 09:00 | ZAR | CPI (MoM) (Jun) | 0.7% |  | 0.7% |
+| 09:00 | ZAR | CPI (YoY) (Jun) | 5.0% |  | 4.5% |
+| 09:30 | GBP | House Price Index (YoY) | 2.7% | 3.2% | 3.8% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.65% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -2.7% |
 | 12:00 | USD | MBA Purchase Index |  |  | 157.2 |

@@ -25,15 +25,15 @@
 | 07:00 | GBP | Low | RPI (YoY) (Jun) | 3.0% | 3.0% | 3.1% |
 | 07:00 | GBP | Low | RPI (MoM) (Jun) | 0.3% | 0.3% | 0.2% |
 | 07:00 | NOK | Low | Industrial Confidence (Q2) | 2.6 |  | 1.4 |
-| 08:30 | IDR | Moderate | Interest Rate Decision |  | 6.00% | 5.75% |
-| 08:30 | IDR | Low | Deposit Facility Rate (Jul) |  | 5.00% | 4.75% |
-| 08:30 | IDR | Low | Lending Facility Rate (Jul) |  | 6.75% | 6.50% |
-| 08:30 | IDR | Low | Loans (YoY) (Jun) |  |  | 11.51% |
-| 09:00 | ZAR | Low | Core CPI (MoM) (Jun) |  |  | 0.2% |
-| 09:00 | ZAR | Low | Core CPI (YoY) (Jun) |  |  | 3.8% |
-| 09:00 | ZAR | Low | CPI (MoM) (Jun) |  |  | 0.7% |
-| 09:00 | ZAR | Low | CPI (YoY) (Jun) |  |  | 4.5% |
-| 09:30 | GBP | Low | House Price Index (YoY) |  | 3.2% | 3.8% |
+| 08:30 | IDR | Moderate | Interest Rate Decision | 5.75% | 6.00% | 5.75% |
+| 08:30 | IDR | Low | Deposit Facility Rate (Jul) | 4.75% | 5.00% | 4.75% |
+| 08:30 | IDR | Low | Lending Facility Rate (Jul) | 6.50% | 6.75% | 6.50% |
+| 08:30 | IDR | Low | Loans (YoY) (Jun) | 12.67% |  | 11.51% |
+| 09:00 | ZAR | Low | Core CPI (MoM) (Jun) | 0.6% |  | 0.2% |
+| 09:00 | ZAR | Low | Core CPI (YoY) (Jun) | 4.1% |  | 3.8% |
+| 09:00 | ZAR | Low | CPI (MoM) (Jun) | 0.7% |  | 0.7% |
+| 09:00 | ZAR | Low | CPI (YoY) (Jun) | 5.0% |  | 4.5% |
+| 09:30 | GBP | Low | House Price Index (YoY) | 2.7% | 3.2% | 3.8% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.65% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -2.7% |
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 157.2 |
