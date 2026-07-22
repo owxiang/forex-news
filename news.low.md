@@ -5,19 +5,19 @@
 | 00:50 | JPY | Imports (YoY) (Jun) | 25.4% | 21.0% | 12.5% |
 | 02:00 | AUD | MI Leading Index (MoM) (Jun) | 0.0% |  | -0.1% |
 | 04:00 | NZD | Credit Card Spending (YoY) (Jun) | 3.1% |  | 4.2% |
-| 07:00 | GBP | Core CPI (YoY) (Jun) |  | 2.5% | 2.6% |
-| 07:00 | GBP | Core CPI (MoM) (Jun) |  |  | 0.3% |
-| 07:00 | GBP | Core PPI Output (MoM) (Jun) |  |  | 0.8% |
-| 07:00 | GBP | Core PPI Output (YoY) (Jun) |  |  | 2.3% |
-| 07:00 | GBP | Core RPI (YoY) (Jun) |  |  | 3.0% |
-| 07:00 | GBP | Core RPI (MoM) (Jun) |  |  | 0.2% |
-| 07:00 | GBP | CPI, n.s.a (Jun) |  |  | 142.40 |
-| 07:00 | GBP | PPI Input (YoY) (Jun) |  |  | 8.7% |
-| 07:00 | GBP | PPI Output (YoY) (Jun) |  |  | 4.0% |
-| 07:00 | GBP | PPI Output (MoM) (Jun) |  | -0.1% | 0.5% |
-| 07:00 | GBP | RPI (MoM) (Jun) |  | 0.3% | 0.2% |
-| 07:00 | GBP | RPI (YoY) (Jun) |  | 3.0% | 3.1% |
-| 07:00 | NOK | Industrial Confidence (Q2) |  |  | 1.2 |
+| 07:00 | GBP | Core CPI (YoY) (Jun) | 2.6% | 2.5% | 2.6% |
+| 07:00 | GBP | Core CPI (MoM) (Jun) | 0.3% |  | 0.3% |
+| 07:00 | GBP | Core PPI Output (MoM) (Jun) | 0.5% |  | 0.7% |
+| 07:00 | GBP | Core PPI Output (YoY) (Jun) | 2.6% |  | 2.3% |
+| 07:00 | GBP | Core RPI (MoM) (Jun) | 0.3% |  | 0.2% |
+| 07:00 | GBP | Core RPI (YoY) (Jun) | 2.9% |  | 3.0% |
+| 07:00 | GBP | CPI, n.s.a (Jun) | 142.50 |  | 142.40 |
+| 07:00 | GBP | PPI Input (YoY) (Jun) | 7.3% |  | 9.3% |
+| 07:00 | GBP | PPI Output (YoY) (Jun) | 3.5% |  | 3.7% |
+| 07:00 | GBP | PPI Output (MoM) (Jun) | 0.0% | -0.1% | 0.3% |
+| 07:00 | GBP | RPI (YoY) (Jun) | 3.0% | 3.0% | 3.1% |
+| 07:00 | GBP | RPI (MoM) (Jun) | 0.3% | 0.3% | 0.2% |
+| 07:00 | NOK | Industrial Confidence (Q2) | 2.6 |  | 1.4 |
 | 08:30 | IDR | Deposit Facility Rate (Jul) |  | 5.00% | 4.75% |
 | 08:30 | IDR | Lending Facility Rate (Jul) |  | 6.75% | 6.50% |
 | 08:30 | IDR | Loans (YoY) (Jun) |  |  | 11.51% |
