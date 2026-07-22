@@ -34,12 +34,12 @@
 | 09:00 | ZAR | Low | CPI (MoM) (Jun) | 0.7% |  | 0.7% |
 | 09:00 | ZAR | Low | CPI (YoY) (Jun) | 5.0% |  | 4.5% |
 | 09:30 | GBP | Low | House Price Index (YoY) | 2.7% | 3.2% | 3.8% |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.65% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -2.7% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 157.2 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 259.1 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 821.9 |
-| 12:00 | ZAR | Low | Retail Sales (YoY) (May) |  |  | 1.3% |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.69% |  | 6.65% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | 1.9% |  | -2.7% |
+| 12:00 | USD | Low | MBA Purchase Index | 165.8 |  | 157.2 |
+| 12:00 | USD | Low | Mortgage Market Index | 264.0 |  | 259.1 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 802.3 |  | 821.9 |
+| 12:00 | ZAR | Low | Retail Sales (YoY) (May) | 2.3% |  | 1.2% |
 | 15:30 | USD | High | Crude Oil Inventories |  | -2.000M | -1.692M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.099M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | -0.399M |
