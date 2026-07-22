@@ -40,16 +40,16 @@
 | 12:00 | USD | Low | Mortgage Market Index | 264.0 |  | 259.1 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 802.3 |  | 821.9 |
 | 12:00 | ZAR | Low | Retail Sales (YoY) (May) | 2.3% |  | 1.2% |
-| 15:30 | USD | High | Crude Oil Inventories |  | -2.000M | -1.692M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.099M |
-| 15:30 | USD | Low | Crude Oil Imports |  |  | -0.399M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.430M |
-| 15:30 | USD | Low | Distillate Fuel Production |  |  | 0.072M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  |  | 4.556M |
-| 15:30 | USD | Low | Gasoline Production |  |  | -0.096M |
-| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.030M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.4% |
-| 15:30 | USD | Low | Gasoline Inventories |  |  | -1.533M |
+| 15:30 | USD | High | Crude Oil Inventories | 2.010M | -2.000M | -1.692M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | -0.058M |  | 0.099M |
+| 15:30 | USD | Low | Crude Oil Imports | 0.485M |  | -0.399M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | -0.674M |  | 0.430M |
+| 15:30 | USD | Low | Distillate Fuel Production | 0.090M |  | 0.072M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks | 1.395M | 0.830M | 4.556M |
+| 15:30 | USD | Low | Gasoline Production | 0.060M |  | -0.096M |
+| 15:30 | USD | Low | Heating Oil Stockpiles | 0.231M |  | 0.030M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -0.1% |  | 0.4% |
+| 15:30 | USD | Low | Gasoline Inventories | 0.765M | -1.540M | -1.533M |
 | 18:00 | USD | Moderate | 20-Year Bond Auction |  |  | 4.927% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 1.012B |
 | 20:00 | USD | High | U.S. President Trump Speaks |  |  |  |

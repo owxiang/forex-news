@@ -32,12 +32,12 @@
 | 12:00 | USD | Mortgage Market Index | 264.0 |  | 259.1 |
 | 12:00 | USD | Mortgage Refinance Index | 802.3 |  | 821.9 |
 | 12:00 | ZAR | Retail Sales (YoY) (May) | 2.3% |  | 1.2% |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.099M |
-| 15:30 | USD | Crude Oil Imports |  |  | -0.399M |
-| 15:30 | USD | Distillate Fuel Production |  |  | 0.072M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | 4.556M |
-| 15:30 | USD | Gasoline Production |  |  | -0.096M |
-| 15:30 | USD | Heating Oil Stockpiles |  |  | 0.030M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.4% |
-| 15:30 | USD | Gasoline Inventories |  |  | -1.533M |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) | -0.058M |  | 0.099M |
+| 15:30 | USD | Crude Oil Imports | 0.485M |  | -0.399M |
+| 15:30 | USD | Distillate Fuel Production | 0.090M |  | 0.072M |
+| 15:30 | USD | EIA Weekly Distillates Stocks | 1.395M | 0.830M | 4.556M |
+| 15:30 | USD | Gasoline Production | 0.060M |  | -0.096M |
+| 15:30 | USD | Heating Oil Stockpiles | 0.231M |  | 0.030M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.1% |  | 0.4% |
+| 15:30 | USD | Gasoline Inventories | 0.765M | -1.540M | -1.533M |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | 1.012B |
