@@ -6,18 +6,18 @@
 | 00:00 | KRW | GDP (QoQ) (Q2) | 0.6% | 0.4% | 1.8% |
 | 02:30 | AUD | Participation Rate (Jun) | 67.0% | 66.7% | 66.7% |
 | 04:30 | IDR | M2 Money Supply (YoY) (Jun) | 8.70% |  | 10.80% |
-| 05:00 | GBP | Car Registration (YoY) (Jun) |  |  | 7.1% |
-| 05:00 | GBP | Car Registration (MoM) (Jun) |  |  | 7.6% |
-| 05:00 | EUR | Italian Car Registration (MoM) (Jun) |  |  | -3.3% |
-| 05:00 | EUR | Italian Car Registration (YoY) (Jun) |  |  | 7.6% |
-| 05:00 | EUR | German Car Registration (MoM) (Jun) |  |  | -3.9% |
-| 05:00 | EUR | German Car Registration (YoY) (Jun) |  |  | 0.1% |
-| 05:00 | EUR | French Car Registration (MoM) (Jun) |  |  | -7.1% |
-| 05:00 | EUR | French Car Registration (YoY) (Jun) |  |  | 3.7% |
-| 06:00 | SGD | CPI (MoM) (Jun) |  |  | 0.80% |
-| 07:45 | EUR | French Business Survey (Jul) |  | 100 | 100 |
+| 05:00 | GBP | Car Registration (YoY) (Jun) | 11.4% |  | 7.1% |
+| 05:00 | GBP | Car Registration (MoM) (Jun) | 32.7% |  | 7.6% |
+| 05:00 | EUR | Italian Car Registration (MoM) (Jun) | -2.5% |  | -3.3% |
+| 05:00 | EUR | Italian Car Registration (YoY) (Jun) | 10.6% |  | 7.6% |
+| 05:00 | EUR | German Car Registration (MoM) (Jun) | 23.8% |  | -3.9% |
+| 05:00 | EUR | German Car Registration (YoY) (Jun) | 15.7% |  | 0.1% |
+| 05:00 | EUR | French Car Registration (MoM) (Jun) | 46.9% |  | -7.1% |
+| 05:00 | EUR | French Car Registration (YoY) (Jun) | 11.4% |  | 3.7% |
+| 06:00 | SGD | CPI (MoM) (Jun) | 0.00% |  | 0.70% |
+| 07:45 | EUR | French Business Survey (Jul) | 101 | 101 | 100 |
 | 11:00 | GBP | CBI Industrial Trends Orders (Jul) |  | -40 | -45 |
-| 13:00 | MXN | 1st Half-Month Core CPI (Jul) |  | 0.17% | 0.19% |
+| 13:00 | MXN | 1st Half-Month Core CPI (Jul) |  | 0.16% | 0.19% |
 | 13:00 | MXN | 1st Half-Month CPI (Jul) |  | 0.10% | -0.11% |
 | 13:00 | MXN | Economic Activity (YoY) (May) |  | 1.10% | 2.30% |
 | 13:00 | MXN | Economic Activity (MoM) (May) |  | -0.40% | 1.20% |

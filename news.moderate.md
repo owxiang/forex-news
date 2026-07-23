@@ -5,8 +5,8 @@
 | 02:30 | AUD | Employment Change (Jun) | 76.3K | 16.4K | 44.0K |
 | 02:30 | AUD | Full Employment Change (Jun) | 29.3K |  | 7.2K |
 | 02:30 | AUD | Unemployment Rate (Jun) | 4.4% | 4.4% | 4.4% |
-| 06:00 | SGD | Core CPI (YoY) (Jun) |  | 1.70% | 1.40% |
-| 06:00 | SGD | CPI (YoY) (Jun) |  | 2.0% | 1.8% |
+| 06:00 | SGD | Core CPI (YoY) (Jun) | 1.60% | 1.60% | 1.40% |
+| 06:00 | SGD | CPI (YoY) (Jun) | 1.9% | 2.0% | 1.8% |
 | 08:20 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 13:15 | EUR | ECB Marginal Lending Facility |  |  | 2.65% |
 | 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
