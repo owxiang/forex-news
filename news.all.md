@@ -50,5 +50,5 @@
 | 16:30 | USD | Low | 4-Week Bill Auction | 3.730% |  | 3.660% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 3.795% |  | 3.650% |
 | 18:00 | USD | Moderate | 10-Year TIPS Auction | 2.438% |  | 2.169% |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,743B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.100T |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,747B |  | 6,743B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.064T |  | 3.100T |

@@ -32,4 +32,4 @@
 | 16:00 | USD | KC Fed Manufacturing Index (Jul) | 17 |  | 19 |
 | 16:30 | USD | 4-Week Bill Auction | 3.730% |  | 3.660% |
 | 16:30 | USD | 8-Week Bill Auction | 3.795% |  | 3.650% |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.100T |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.064T |  | 3.100T |

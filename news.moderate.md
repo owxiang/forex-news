@@ -16,4 +16,4 @@
 | 13:31 | CAD | Retail Sales (MoM) (Jun) | 0.4% |  | 1.0% |
 | 14:00 | ZAR | Interest Rate Decision (Jul) | 7.00% | 7.25% | 7.00% |
 | 18:00 | USD | 10-Year TIPS Auction | 2.438% |  | 2.169% |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 6,743B |
+| 21:30 | USD | Fed's Balance Sheet | 6,747B |  | 6,743B |
