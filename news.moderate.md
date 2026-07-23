@@ -1,13 +1,19 @@
-## 22 July 2026 - Moderate Impact Forex News
+## 23 July 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Adjusted Trade Balance | -0.88T | -0.56T | -0.22T |
-| 00:50 | JPY | Exports (YoY) (Jun) | 19.3% | 18.6% | 16.8% |
-| 00:50 | JPY | Trade Balance (Jun) | -406.9B | -120.0B | -391.8B |
-| 07:00 | GBP | CPI (MoM) (Jun) | 0.1% | 0.1% | 0.2% |
-| 07:00 | GBP | CPIH (YoY) | 2.8% |  | 3.0% |
-| 07:00 | GBP | PPI Input (MoM) (Jun) | -2.0% | -0.7% | 0.6% |
-| 08:30 | IDR | Interest Rate Decision | 5.75% | 6.00% | 5.75% |
-| 15:30 | USD | Cushing Crude Oil Inventories | -0.674M |  | 0.430M |
-| 18:00 | USD | 20-Year Bond Auction | 5.163% |  | 4.927% |
+| 02:30 | AUD | Employment Change (Jun) |  | 16.4K | 40.3K |
+| 02:30 | AUD | Full Employment Change (Jun) |  |  | 5.2K |
+| 02:30 | AUD | Unemployment Rate (Jun) |  | 4.4% | 4.4% |
+| 06:00 | SGD | Core CPI (YoY) (Jun) |  | 1.70% | 1.40% |
+| 06:00 | SGD | CPI (YoY) (Jun) |  | 2.0% | 1.8% |
+| 08:20 | EUR | German Buba Mauderer Speaks |  |  |  |
+| 13:15 | EUR | ECB Marginal Lending Facility |  |  | 2.65% |
+| 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
+| 13:30 | USD | Continuing Jobless Claims |  |  | 1,805K |
+| 13:30 | CAD | Core Retail Sales (MoM) (May) |  | 1.3% | 0.1% |
+| 13:30 | CAD | Retail Sales (MoM) (May) |  |  | 0.5% |
+| 13:30 | CAD | Retail Sales (MoM) (May) |  | 1.0% | 0.5% |
+| 14:00 | ZAR | Interest Rate Decision (Jul) |  | 7.25% | 7.00% |
+| 18:00 | USD | 10-Year TIPS Auction |  |  | 2.169% |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 6,743B |
