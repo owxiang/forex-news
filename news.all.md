@@ -4,11 +4,11 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | KRW | Low | GDP (YoY) (Q2) | 3.7% | 3.5% | 3.8% |
 | 00:00 | KRW | Low | GDP (QoQ) (Q2) | 0.6% | 0.4% | 1.8% |
-| 02:30 | AUD | Moderate | Employment Change (Jun) |  | 16.4K | 40.3K |
-| 02:30 | AUD | Moderate | Full Employment Change (Jun) |  |  | 5.2K |
-| 02:30 | AUD | Low | Participation Rate (Jun) |  | 66.7% | 66.7% |
-| 02:30 | AUD | Moderate | Unemployment Rate (Jun) |  | 4.4% | 4.4% |
-| 04:00 | IDR | Low | M2 Money Supply (YoY) (Jun) |  |  | 10.80% |
+| 02:30 | AUD | Moderate | Employment Change (Jun) | 76.3K | 16.4K | 44.0K |
+| 02:30 | AUD | Moderate | Full Employment Change (Jun) | 29.3K |  | 7.2K |
+| 02:30 | AUD | Low | Participation Rate (Jun) | 67.0% | 66.7% | 66.7% |
+| 02:30 | AUD | Moderate | Unemployment Rate (Jun) | 4.4% | 4.4% | 4.4% |
+| 04:30 | IDR | Low | M2 Money Supply (YoY) (Jun) | 8.70% |  | 10.80% |
 | 05:00 | GBP | Low | Car Registration (YoY) (Jun) |  |  | 7.1% |
 | 05:00 | GBP | Low | Car Registration (MoM) (Jun) |  |  | 7.6% |
 | 05:00 | EUR | Low | Italian Car Registration (MoM) (Jun) |  |  | -3.3% |

@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | KRW | GDP (YoY) (Q2) | 3.7% | 3.5% | 3.8% |
 | 00:00 | KRW | GDP (QoQ) (Q2) | 0.6% | 0.4% | 1.8% |
-| 02:30 | AUD | Participation Rate (Jun) |  | 66.7% | 66.7% |
-| 04:00 | IDR | M2 Money Supply (YoY) (Jun) |  |  | 10.80% |
+| 02:30 | AUD | Participation Rate (Jun) | 67.0% | 66.7% | 66.7% |
+| 04:30 | IDR | M2 Money Supply (YoY) (Jun) | 8.70% |  | 10.80% |
 | 05:00 | GBP | Car Registration (YoY) (Jun) |  |  | 7.1% |
 | 05:00 | GBP | Car Registration (MoM) (Jun) |  |  | 7.6% |
 | 05:00 | EUR | Italian Car Registration (MoM) (Jun) |  |  | -3.3% |
