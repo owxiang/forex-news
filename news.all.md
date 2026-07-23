@@ -15,14 +15,15 @@
 | 05:00 | EUR | Low | Italian Car Registration (YoY) (Jun) | 10.6% |  | 7.6% |
 | 05:00 | EUR | Low | German Car Registration (MoM) (Jun) | 23.8% |  | -3.9% |
 | 05:00 | EUR | Low | German Car Registration (YoY) (Jun) | 15.7% |  | 0.1% |
-| 05:00 | EUR | Low | French Car Registration (MoM) (Jun) | 46.9% |  | -7.1% |
 | 05:00 | EUR | Low | French Car Registration (YoY) (Jun) | 11.4% |  | 3.7% |
+| 05:00 | EUR | Low | French Car Registration (MoM) (Jun) | 46.9% |  | -7.1% |
 | 06:00 | SGD | Moderate | Core CPI (YoY) (Jun) | 1.60% | 1.60% | 1.40% |
 | 06:00 | SGD | Low | CPI (MoM) (Jun) | 0.00% |  | 0.70% |
 | 06:00 | SGD | Moderate | CPI (YoY) (Jun) | 1.9% | 2.0% | 1.8% |
 | 07:45 | EUR | Low | French Business Survey (Jul) | 101 | 101 | 100 |
 | 08:20 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 11:00 | GBP | Low | CBI Industrial Trends Orders (Jul) |  | -40 | -45 |
+| 08:59 | CNY | Low | FDI (Jun) | -5.00% |  | -8.60% |
+| 11:00 | GBP | Low | CBI Industrial Trends Orders (Jul) | -45 | -40 | -45 |
 | 13:00 | MXN | Low | 1st Half-Month Core CPI (Jul) |  | 0.16% | 0.19% |
 | 13:00 | MXN | Low | 1st Half-Month CPI (Jul) |  | 0.10% | -0.11% |
 | 13:00 | MXN | Low | Economic Activity (YoY) (May) |  | 1.10% | 2.30% |

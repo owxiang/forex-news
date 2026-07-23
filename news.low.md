@@ -12,11 +12,12 @@
 | 05:00 | EUR | Italian Car Registration (YoY) (Jun) | 10.6% |  | 7.6% |
 | 05:00 | EUR | German Car Registration (MoM) (Jun) | 23.8% |  | -3.9% |
 | 05:00 | EUR | German Car Registration (YoY) (Jun) | 15.7% |  | 0.1% |
-| 05:00 | EUR | French Car Registration (MoM) (Jun) | 46.9% |  | -7.1% |
 | 05:00 | EUR | French Car Registration (YoY) (Jun) | 11.4% |  | 3.7% |
+| 05:00 | EUR | French Car Registration (MoM) (Jun) | 46.9% |  | -7.1% |
 | 06:00 | SGD | CPI (MoM) (Jun) | 0.00% |  | 0.70% |
 | 07:45 | EUR | French Business Survey (Jul) | 101 | 101 | 100 |
-| 11:00 | GBP | CBI Industrial Trends Orders (Jul) |  | -40 | -45 |
+| 08:59 | CNY | FDI (Jun) | -5.00% |  | -8.60% |
+| 11:00 | GBP | CBI Industrial Trends Orders (Jul) | -45 | -40 | -45 |
 | 13:00 | MXN | 1st Half-Month Core CPI (Jul) |  | 0.16% | 0.19% |
 | 13:00 | MXN | 1st Half-Month CPI (Jul) |  | 0.10% | -0.11% |
 | 13:00 | MXN | Economic Activity (YoY) (May) |  | 1.10% | 2.30% |
