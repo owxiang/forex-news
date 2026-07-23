@@ -23,13 +23,13 @@
 | 13:00 | MXN | 1st Half-Month CPI (Jul) | 0.07% | 0.10% | -0.11% |
 | 13:00 | MXN | Economic Activity (YoY) (May) | 1.10% | 1.10% | 2.60% |
 | 13:00 | MXN | Economic Activity (MoM) (May) | -0.30% | -0.40% | 1.40% |
-| 13:30 | USD | Chicago Fed National Activity (Jun) |  |  | -0.10 |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 214.25K |
-| 14:00 | ZAR | Prime Rate (Jul) |  |  | 10.50% |
-| 15:00 | EUR | Consumer Confidence (Jul) |  | -17.0 | -17.7 |
-| 15:30 | USD | Natural Gas Storage |  | 29B | 41B |
-| 16:00 | USD | KC Fed Composite Index (Jul) |  |  | 11 |
-| 16:00 | USD | KC Fed Manufacturing Index (Jul) |  |  | 19 |
-| 16:30 | USD | 4-Week Bill Auction |  |  | 3.660% |
-| 16:30 | USD | 8-Week Bill Auction |  |  | 3.650% |
+| 13:30 | USD | Chicago Fed National Activity (Jun) | -0.02 |  | -0.19 |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 207.50K |  | 214.75K |
+| 14:00 | ZAR | Prime Rate (Jul) | 10.50% |  | 10.50% |
+| 15:00 | EUR | Consumer Confidence (Jul) | -15.9 | -17.0 | -17.6 |
+| 15:30 | USD | Natural Gas Storage | 32B | 29B | 41B |
+| 16:00 | USD | KC Fed Composite Index (Jul) | 9 |  | 11 |
+| 16:00 | USD | KC Fed Manufacturing Index (Jul) | 17 |  | 19 |
+| 18 min | USD | 4-Week Bill Auction |  |  | 3.660% |
+| 18 min | USD | 8-Week Bill Auction |  |  | 3.650% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.100T |

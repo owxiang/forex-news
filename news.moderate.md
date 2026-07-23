@@ -10,10 +10,10 @@
 | 08:20 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 13:15 | EUR | ECB Marginal Lending Facility | 2.65% |  | 2.65% |
 | 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims |  |  | 1,805K |
-| 13:30 | CAD | Core Retail Sales (MoM) (May) |  | 1.3% | 0.1% |
-| 13:30 | CAD | Retail Sales (MoM) (May) |  |  | 0.5% |
-| 13:30 | CAD | Retail Sales (MoM) (May) |  | 1.0% | 0.5% |
-| 14:00 | ZAR | Interest Rate Decision (Jul) |  | 7.25% | 7.00% |
+| 13:30 | USD | Continuing Jobless Claims | 1,796K |  | 1,798K |
+| 13:30 | CAD | Core Retail Sales (MoM) (May) | 1.2% | 1.3% | 0.0% |
+| 13:30 | CAD | Retail Sales (MoM) (May) | 1.0% | 1.0% | 0.4% |
+| 13:31 | CAD | Retail Sales (MoM) (Jun) | 0.4% |  | 1.0% |
+| 14:00 | ZAR | Interest Rate Decision (Jul) | 7.00% | 7.25% | 7.00% |
 | 18:00 | USD | 10-Year TIPS Auction |  |  | 2.169% |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,743B |

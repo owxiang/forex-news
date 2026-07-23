@@ -33,22 +33,22 @@
 | 13:15 | EUR | Moderate | ECB Marginal Lending Facility | 2.65% |  | 2.65% |
 | 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
 | 13:15 | EUR | High | ECB Interest Rate Decision (Jul) | 2.40% | 2.40% | 2.40% |
-| 13:30 | USD | Low | Chicago Fed National Activity (Jun) |  |  | -0.10 |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,805K |
-| 13:30 | USD | High | Initial Jobless Claims |  | 211K | 208K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 214.25K |
-| 13:30 | CAD | Moderate | Core Retail Sales (MoM) (May) |  | 1.3% | 0.1% |
-| 13:30 | CAD | Moderate | Retail Sales (MoM) (May) |  |  | 0.5% |
-| 13:30 | CAD | Moderate | Retail Sales (MoM) (May) |  | 1.0% | 0.5% |
+| 13:30 | USD | Low | Chicago Fed National Activity (Jun) | -0.02 |  | -0.19 |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,796K |  | 1,798K |
+| 13:30 | USD | High | Initial Jobless Claims | 187K | 211K | 209K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 207.50K |  | 214.75K |
+| 13:30 | CAD | Moderate | Core Retail Sales (MoM) (May) | 1.2% | 1.3% | 0.0% |
+| 13:30 | CAD | Moderate | Retail Sales (MoM) (May) | 1.0% | 1.0% | 0.4% |
+| 13:31 | CAD | Moderate | Retail Sales (MoM) (Jun) | 0.4% |  | 1.0% |
 | 13:45 | EUR | High | ECB Press Conference |  |  |  |
-| 14:00 | ZAR | Moderate | Interest Rate Decision (Jul) |  | 7.25% | 7.00% |
-| 14:00 | ZAR | Low | Prime Rate (Jul) |  |  | 10.50% |
-| 15:00 | EUR | Low | Consumer Confidence (Jul) |  | -17.0 | -17.7 |
-| 15:30 | USD | Low | Natural Gas Storage |  | 29B | 41B |
-| 16:00 | USD | Low | KC Fed Composite Index (Jul) |  |  | 11 |
-| 16:00 | USD | Low | KC Fed Manufacturing Index (Jul) |  |  | 19 |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.660% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.650% |
+| 14:00 | ZAR | Moderate | Interest Rate Decision (Jul) | 7.00% | 7.25% | 7.00% |
+| 14:00 | ZAR | Low | Prime Rate (Jul) | 10.50% |  | 10.50% |
+| 15:00 | EUR | Low | Consumer Confidence (Jul) | -15.9 | -17.0 | -17.6 |
+| 15:30 | USD | Low | Natural Gas Storage | 32B | 29B | 41B |
+| 16:00 | USD | Low | KC Fed Composite Index (Jul) | 9 |  | 11 |
+| 16:00 | USD | Low | KC Fed Manufacturing Index (Jul) | 17 |  | 19 |
+| 18 min | USD | Low | 4-Week Bill Auction |  |  | 3.660% |
+| 18 min | USD | Low | 8-Week Bill Auction |  |  | 3.650% |
 | 18:00 | USD | Moderate | 10-Year TIPS Auction |  |  | 2.169% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,743B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.100T |
