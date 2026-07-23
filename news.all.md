@@ -9,29 +9,30 @@
 | 02:30 | AUD | Low | Participation Rate (Jun) | 67.0% | 66.7% | 66.7% |
 | 02:30 | AUD | Moderate | Unemployment Rate (Jun) | 4.4% | 4.4% | 4.4% |
 | 04:30 | IDR | Low | M2 Money Supply (YoY) (Jun) | 8.70% |  | 10.80% |
-| 05:00 | GBP | Low | Car Registration (YoY) (Jun) | 11.4% |  | 7.1% |
 | 05:00 | GBP | Low | Car Registration (MoM) (Jun) | 32.7% |  | 7.6% |
+| 05:00 | GBP | Low | Car Registration (YoY) (Jun) | 11.4% |  | 7.1% |
 | 05:00 | EUR | Low | Italian Car Registration (MoM) (Jun) | -2.5% |  | -3.3% |
 | 05:00 | EUR | Low | Italian Car Registration (YoY) (Jun) | 10.6% |  | 7.6% |
-| 05:00 | EUR | Low | German Car Registration (MoM) (Jun) | 23.8% |  | -3.9% |
 | 05:00 | EUR | Low | German Car Registration (YoY) (Jun) | 15.7% |  | 0.1% |
-| 05:00 | EUR | Low | French Car Registration (YoY) (Jun) | 11.4% |  | 3.7% |
+| 05:00 | EUR | Low | German Car Registration (MoM) (Jun) | 23.8% |  | -3.9% |
 | 05:00 | EUR | Low | French Car Registration (MoM) (Jun) | 46.9% |  | -7.1% |
+| 05:00 | EUR | Low | French Car Registration (YoY) (Jun) | 11.4% |  | 3.7% |
 | 06:00 | SGD | Moderate | Core CPI (YoY) (Jun) | 1.60% | 1.60% | 1.40% |
 | 06:00 | SGD | Low | CPI (MoM) (Jun) | 0.00% |  | 0.70% |
 | 06:00 | SGD | Moderate | CPI (YoY) (Jun) | 1.9% | 2.0% | 1.8% |
 | 07:45 | EUR | Low | French Business Survey (Jul) | 101 | 101 | 100 |
 | 08:20 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 08:59 | CNY | Low | FDI (Jun) | -5.00% |  | -8.60% |
+| 09:00 | CNY | Low | FDI (Jun) | -5.00% |  | -8.60% |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Jul) | -45 | -40 | -45 |
-| 13:00 | MXN | Low | 1st Half-Month Core CPI (Jul) |  | 0.16% | 0.19% |
-| 13:00 | MXN | Low | 1st Half-Month CPI (Jul) |  | 0.10% | -0.11% |
-| 13:00 | MXN | Low | Economic Activity (YoY) (May) |  | 1.10% | 2.30% |
-| 13:00 | MXN | Low | Economic Activity (MoM) (May) |  | -0.40% | 1.20% |
-| 13:15 | EUR | High | Deposit Facility Rate (Jul) |  | 2.25% | 2.25% |
-| 13:15 | EUR | Moderate | ECB Marginal Lending Facility |  |  | 2.65% |
+| 12:00 | INR | Low | M3 Money Supply | 12.5% |  | 13.0% |
+| 13:00 | MXN | Low | 1st Half-Month Core CPI (Jul) | 0.16% | 0.16% | 0.19% |
+| 13:00 | MXN | Low | 1st Half-Month CPI (Jul) | 0.07% | 0.10% | -0.11% |
+| 13:00 | MXN | Low | Economic Activity (YoY) (May) | 1.10% | 1.10% | 2.60% |
+| 13:00 | MXN | Low | Economic Activity (MoM) (May) | -0.30% | -0.40% | 1.40% |
+| 13:15 | EUR | High | Deposit Facility Rate (Jul) | 2.25% | 2.25% | 2.25% |
+| 13:15 | EUR | Moderate | ECB Marginal Lending Facility | 2.65% |  | 2.65% |
 | 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
-| 13:15 | EUR | High | ECB Interest Rate Decision (Jul) |  | 2.40% | 2.40% |
+| 13:15 | EUR | High | ECB Interest Rate Decision (Jul) | 2.40% | 2.40% | 2.40% |
 | 13:30 | USD | Low | Chicago Fed National Activity (Jun) |  |  | -0.10 |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,805K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 211K | 208K |

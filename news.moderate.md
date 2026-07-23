@@ -8,7 +8,7 @@
 | 06:00 | SGD | Core CPI (YoY) (Jun) | 1.60% | 1.60% | 1.40% |
 | 06:00 | SGD | CPI (YoY) (Jun) | 1.9% | 2.0% | 1.8% |
 | 08:20 | EUR | German Buba Mauderer Speaks |  |  |  |
-| 13:15 | EUR | ECB Marginal Lending Facility |  |  | 2.65% |
+| 13:15 | EUR | ECB Marginal Lending Facility | 2.65% |  | 2.65% |
 | 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims |  |  | 1,805K |
 | 13:30 | CAD | Core Retail Sales (MoM) (May) |  | 1.3% | 0.1% |
