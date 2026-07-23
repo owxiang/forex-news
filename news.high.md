@@ -1,8 +1,7 @@
-## 23 July 2026 - High Impact Forex News
+## 24 July 2026 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:15 | EUR | Deposit Facility Rate (Jul) | 2.25% | 2.25% | 2.25% |
-| 13:15 | EUR | ECB Interest Rate Decision (Jul) | 2.40% | 2.40% | 2.40% |
-| 13:30 | USD | Initial Jobless Claims | 187K | 211K | 209K |
-| 13:45 | EUR | ECB Press Conference |  |  |  |
+| 14:45 | USD | S&P Global Manufacturing PMI (Jul) |  | 54.4 | 53.9 |
+| 14:45 | USD | S&P Global Services PMI (Jul) |  | 51.3 | 51.2 |
+| 15:00 | USD | New Home Sales (Jun) |  | 609K | 580K |
