@@ -20,9 +20,9 @@
 | 09:30 | GBP | S&P Global Composite PMI (Jul) | 52.1 | 49.7 | 49.3 |
 | 09:30 | GBP | S&P Global Manufacturing PMI (Jul) | 52.8 | 52.0 | 52.5 |
 | 09:30 | GBP | S&P Global Services PMI (Jul) | 51.8 | 49.4 | 48.8 |
-| 13:00 | USD | Building Permits (Jun) |  | 1.367M | 1.410M |
-| 13:30 | CAD | New Housing Price Index (MoM) (Jun) |  | -0.2% | -0.3% |
-| 13:30 | CAD | RMPI (MoM) (Jun) |  | -1.5% | 0.7% |
+| 13:00 | USD | Building Permits (Jun) | 1.374M | 1.367M | 1.410M |
+| 7 min | CAD | New Housing Price Index (MoM) (Jun) |  | -0.2% | -0.3% |
+| 7 min | CAD | RMPI (MoM) (Jun) |  | -1.5% | 0.7% |
 | 14:45 | USD | S&P Global Composite PMI (Jul) |  |  | 51.9 |
 | 15:00 | USD | New Home Sales (MoM) (Jun) |  |  | -7.3% |
 | 16:30 | EUR | ECB's Lane Speaks |  |  |  |

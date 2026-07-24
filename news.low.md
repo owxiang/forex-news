@@ -19,16 +19,16 @@
 | 08:00 | EUR | Spanish PPI (YoY) (Jun) | 7.0% |  | 10.5% |
 | 08:15 | EUR | HCOB France Composite PMI (Jul) | 49.6 |  | 47.2 |
 | 08:30 | EUR | HCOB Germany Composite PMI (Jul) | 51.2 | 49.8 | 49.5 |
-| 12:30 | INR | Bank Loan Growth |  |  | 18.6% |
-| 12:30 | INR | Deposit Growth |  |  | 13.3% |
-| 12:30 | INR | FX Reserves, USD |  |  | 675.16B |
-| 13:00 | USD | Building Permits (MoM) (Jun) |  | -3.0% | -0.9% |
-| 13:00 | MXN | Unemployment Rate (Jun) |  |  | 2.70% |
-| 13:00 | MXN | Unemployment Rate n.s.a. (Jun) |  | 2.80% | 2.80% |
-| 13:30 | CAD | IPPI (MoM) (Jun) |  | -0.4% | 1.2% |
-| 13:30 | CAD | IPPI (YoY) (Jun) |  |  | 13.6% |
-| 13:30 | CAD | Manufacturing Sales (MoM) |  |  | 1.1% |
-| 13:30 | CAD | RMPI (YoY) (Jun) |  |  | 33.4% |
+| 12:30 | INR | Bank Loan Growth | 17.7% |  | 18.6% |
+| 12:30 | INR | Deposit Growth | 12.7% |  | 13.3% |
+| 12:30 | INR | FX Reserves, USD | 676.24B |  | 675.16B |
+| 13:00 | USD | Building Permits (MoM) (Jun) | -2.6% | -3.0% | -0.9% |
+| 13:00 | MXN | Unemployment Rate (Jun) | 2.80% |  | 2.70% |
+| 13:00 | MXN | Unemployment Rate n.s.a. (Jun) | 2.90% | 2.80% | 2.80% |
+| 7 min | CAD | IPPI (MoM) (Jun) |  | -0.4% | 1.2% |
+| 7 min | CAD | IPPI (YoY) (Jun) |  |  | 13.6% |
+| 7 min | CAD | Manufacturing Sales (MoM) |  |  | 1.1% |
+| 7 min | CAD | RMPI (YoY) (Jun) |  |  | 33.4% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -0.7K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 64.4K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 131.5K |
