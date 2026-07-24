@@ -44,18 +44,19 @@
 | 13:00 | USD | Moderate | Building Permits (Jun) | 1.374M | 1.367M | 1.410M |
 | 13:00 | MXN | Low | Unemployment Rate (Jun) | 2.80% |  | 2.70% |
 | 13:00 | MXN | Low | Unemployment Rate n.s.a. (Jun) | 2.90% | 2.80% | 2.80% |
-| 7 min | CAD | Low | IPPI (MoM) (Jun) |  | -0.4% | 1.2% |
-| 7 min | CAD | Low | IPPI (YoY) (Jun) |  |  | 13.6% |
-| 7 min | CAD | Low | Manufacturing Sales (MoM) |  |  | 1.1% |
-| 7 min | CAD | Moderate | New Housing Price Index (MoM) (Jun) |  | -0.2% | -0.3% |
-| 7 min | CAD | Moderate | RMPI (MoM) (Jun) |  | -1.5% | 0.7% |
-| 7 min | CAD | Low | RMPI (YoY) (Jun) |  |  | 33.4% |
-| 14:45 | USD | High | S&P Global Manufacturing PMI (Jul) |  | 54.4 | 53.9 |
-| 14:45 | USD | Moderate | S&P Global Composite PMI (Jul) |  |  | 51.9 |
-| 14:45 | USD | High | S&P Global Services PMI (Jul) |  | 51.3 | 51.2 |
-| 15:00 | USD | High | New Home Sales (Jun) |  | 609K | 580K |
-| 15:00 | USD | Moderate | New Home Sales (MoM) (Jun) |  |  | -7.3% |
-| 16:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 13:30 | CAD | Low | IPPI (MoM) (Jun) | -1.4% | -0.4% | 1.4% |
+| 13:30 | CAD | Low | IPPI (YoY) (Jun) | 12.4% |  | 14.3% |
+| 13:30 | CAD | Low | Manufacturing Sales (MoM) | -0.1% |  | 1.3% |
+| 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Jun) | -0.1% | -0.2% | -0.3% |
+| 13:30 | CAD | Moderate | RMPI (MoM) (Jun) | -6.9% | -1.5% | 0.5% |
+| 13:30 | CAD | Low | RMPI (YoY) (Jun) | 20.7% |  | 33.4% |
+| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Jun) | 2.7% |  | 0.0% |
+| 14:45 | USD | High | S&P Global Manufacturing PMI (Jul) | 53.8 | 54.4 | 53.9 |
+| 14:45 | USD | Moderate | S&P Global Composite PMI (Jul) | 53.6 |  | 51.9 |
+| 14:45 | USD | High | S&P Global Services PMI (Jul) | 53.6 | 51.3 | 51.2 |
+| 15:00 | USD | High | New Home Sales (Jun) | 628K | 609K | 618K |
+| 15:00 | USD | Moderate | New Home Sales (MoM) (Jun) | 1.6% |  | -4.3% |
+| 31 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 452 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 588 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -71.3K |

@@ -25,10 +25,10 @@
 | 13:00 | USD | Building Permits (MoM) (Jun) | -2.6% | -3.0% | -0.9% |
 | 13:00 | MXN | Unemployment Rate (Jun) | 2.80% |  | 2.70% |
 | 13:00 | MXN | Unemployment Rate n.s.a. (Jun) | 2.90% | 2.80% | 2.80% |
-| 7 min | CAD | IPPI (MoM) (Jun) |  | -0.4% | 1.2% |
-| 7 min | CAD | IPPI (YoY) (Jun) |  |  | 13.6% |
-| 7 min | CAD | Manufacturing Sales (MoM) |  |  | 1.1% |
-| 7 min | CAD | RMPI (YoY) (Jun) |  |  | 33.4% |
+| 13:30 | CAD | IPPI (MoM) (Jun) | -1.4% | -0.4% | 1.4% |
+| 13:30 | CAD | IPPI (YoY) (Jun) | 12.4% |  | 14.3% |
+| 13:30 | CAD | Manufacturing Sales (MoM) | -0.1% |  | 1.3% |
+| 13:30 | CAD | RMPI (YoY) (Jun) | 20.7% |  | 33.4% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -0.7K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 64.4K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 131.5K |
