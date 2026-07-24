@@ -12,19 +12,17 @@
 | 00:30 | JPY | Moderate | National CPI (MoM) (Jun) | 0.3% |  | 0.4% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | -714.4B |  | 1,090.0B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -79.6B |  | 742.6B |
-| 23 min | JPY | Low | Manufacturing & Services PMI (Jul) |  |  | 52.80 |
-| 23 min | JPY | Low | S&P Global Manufacturing PMI (Jul) |  | 55.0 | 54.8 |
-| 23 min | JPY | Moderate | S&P Global Services PMI (Jul) |  |  | 52.2 |
-| 23 min | SGD | Low | URA Property Index (QoQ) (Q2) |  | 0.50% | 0.90% |
-| 06:00 | INR | Low | HSBC India Manufacturing PMI (Jul) |  |  | 54.2 |
-| 06:00 | INR | Low | HSBC India Services PMI (Jul) |  |  | 57.4 |
-| 06:00 | INR | Low | HSBC Manufacturing & Services PMI (Jul) |  |  | 57.10 |
-| 06:00 | SGD | Low | Industrial Production (YoY) (Jun) |  |  | 13.0% |
-| 06:00 | SGD | Low | Industrial Production (MoM) (Jun) |  |  | -0.7% |
+| 01:30 | JPY | Low | Manufacturing & Services PMI (Jul) | 53.10 |  | 52.80 |
+| 01:30 | JPY | Low | S&P Global Manufacturing PMI (Jul) | 54.7 | 55.0 | 54.8 |
+| 01:30 | JPY | Moderate | S&P Global Services PMI (Jul) | 51.9 |  | 52.2 |
+| 01:30 | SGD | Low | URA Property Index (QoQ) (Q1) | 0.50% | 0.50% | 0.90% |
+| 42 min | INR | Low | HSBC India Manufacturing PMI (Jul) |  |  | 54.2 |
+| 42 min | INR | Low | HSBC India Services PMI (Jul) |  |  | 57.4 |
+| 42 min | INR | Low | HSBC Manufacturing & Services PMI (Jul) |  |  | 57.10 |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Jun) |  | -0.4% | 1.2% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Jun) |  | 3.2% | 4.6% |
-| 07:00 | GBP | Moderate | Retail Sales (YoY) (Jun) |  | 2.3% | 3.2% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Jun) |  | -0.3% | 1.2% |
+| 07:00 | GBP | Moderate | Retail Sales (YoY) (Jun) |  | 2.3% | 3.2% |
 | 08:00 | EUR | Moderate | GfK German Consumer Climate (Aug) |  | -28.7 | -29.2 |
 | 08:00 | EUR | Low | Spanish PPI (YoY) (Jun) |  |  | 10.5% |
 | 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Jul) |  | 51.0 | 51.2 |

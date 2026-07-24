@@ -10,14 +10,12 @@
 | 00:30 | JPY | National CPI (YoY) (Jun) | 1.7% |  | 1.5% |
 | 00:50 | JPY | Foreign Bonds Buying | -714.4B |  | 1,090.0B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | -79.6B |  | 742.6B |
-| 23 min | JPY | Manufacturing & Services PMI (Jul) |  |  | 52.80 |
-| 23 min | JPY | S&P Global Manufacturing PMI (Jul) |  | 55.0 | 54.8 |
-| 23 min | SGD | URA Property Index (QoQ) (Q2) |  | 0.50% | 0.90% |
-| 06:00 | INR | HSBC India Manufacturing PMI (Jul) |  |  | 54.2 |
-| 06:00 | INR | HSBC India Services PMI (Jul) |  |  | 57.4 |
-| 06:00 | INR | HSBC Manufacturing & Services PMI (Jul) |  |  | 57.10 |
-| 06:00 | SGD | Industrial Production (YoY) (Jun) |  |  | 13.0% |
-| 06:00 | SGD | Industrial Production (MoM) (Jun) |  |  | -0.7% |
+| 01:30 | JPY | Manufacturing & Services PMI (Jul) | 53.10 |  | 52.80 |
+| 01:30 | JPY | S&P Global Manufacturing PMI (Jul) | 54.7 | 55.0 | 54.8 |
+| 01:30 | SGD | URA Property Index (QoQ) (Q1) | 0.50% | 0.50% | 0.90% |
+| 42 min | INR | HSBC India Manufacturing PMI (Jul) |  |  | 54.2 |
+| 42 min | INR | HSBC India Services PMI (Jul) |  |  | 57.4 |
+| 42 min | INR | HSBC Manufacturing & Services PMI (Jul) |  |  | 57.10 |
 | 08:00 | EUR | Spanish PPI (YoY) (Jun) |  |  | 10.5% |
 | 08:15 | EUR | HCOB France Composite PMI (Jul) |  |  | 47.2 |
 | 08:30 | EUR | HCOB Germany Composite PMI (Jul) |  | 49.8 | 49.5 |
