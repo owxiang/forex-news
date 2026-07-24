@@ -56,9 +56,9 @@
 | 14:45 | USD | High | S&P Global Services PMI (Jul) | 53.6 | 51.3 | 51.2 |
 | 15:00 | USD | High | New Home Sales (Jun) | 628K | 609K | 618K |
 | 15:00 | USD | Moderate | New Home Sales (MoM) (Jun) | 1.6% |  | -4.3% |
-| 31 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 452 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 588 |
+| 16:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 9 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 452 |
+| 9 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 588 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -71.3K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -0.7K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 64.4K |
