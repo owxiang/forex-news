@@ -5,14 +5,14 @@
 | 00:00 | AUD | S&P Global Manufacturing & Services PMI (Jul) | 52.60 |  | 50.40 |
 | 00:00 | AUD | S&P Global Manufacturing PMI (Jul) | 51.7 |  | 51.5 |
 | 00:00 | AUD | S&P Global Services PMI (Jul) | 53.0 |  | 50.5 |
-| 00:01 | GBP | GfK Consumer Confidence (Jul) |  | -22 | -23 |
-| 30 min | JPY | CPI, n.s.a (MoM) (Jun) |  |  | 0.5% |
-| 30 min | JPY | National CPI (YoY) (Jun) |  |  | 1.5% |
-| 50 min | JPY | Foreign Bonds Buying |  |  | 1,090.1B |
-| 50 min | JPY | Foreign Investments in Japanese Stocks |  |  | 745.6B |
-| 01:30 | JPY | Manufacturing & Services PMI (Jul) |  |  | 52.80 |
-| 01:30 | JPY | S&P Global Manufacturing PMI (Jul) |  | 55.0 | 54.8 |
-| 01:30 | SGD | URA Property Index (QoQ) (Q2) |  | 0.50% | 0.90% |
+| 00:01 | GBP | GfK Consumer Confidence (Jul) | -17 | -22 | -23 |
+| 00:30 | JPY | CPI, n.s.a (MoM) (Jun) | 0.0% |  | 0.5% |
+| 00:30 | JPY | National CPI (YoY) (Jun) | 1.7% |  | 1.5% |
+| 00:50 | JPY | Foreign Bonds Buying | -714.4B |  | 1,090.0B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks | -79.6B |  | 742.6B |
+| 23 min | JPY | Manufacturing & Services PMI (Jul) |  |  | 52.80 |
+| 23 min | JPY | S&P Global Manufacturing PMI (Jul) |  | 55.0 | 54.8 |
+| 23 min | SGD | URA Property Index (QoQ) (Q2) |  | 0.50% | 0.90% |
 | 06:00 | INR | HSBC India Manufacturing PMI (Jul) |  |  | 54.2 |
 | 06:00 | INR | HSBC India Services PMI (Jul) |  |  | 57.4 |
 | 06:00 | INR | HSBC Manufacturing & Services PMI (Jul) |  |  | 57.10 |
