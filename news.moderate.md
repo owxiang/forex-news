@@ -27,8 +27,8 @@
 | 14:45 | USD | S&P Global Composite PMI (Jul) | 53.6 |  | 51.9 |
 | 15:00 | USD | New Home Sales (MoM) (Jun) | 1.6% |  | -4.3% |
 | 16:30 | EUR | ECB's Lane Speaks |  |  |  |
-| 9 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 452 |
-| 9 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 588 |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 450 |  | 452 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count | 587 |  | 588 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -71.3K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 62.7K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 186.7K |
