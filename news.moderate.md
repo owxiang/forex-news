@@ -14,12 +14,12 @@
 | 08:15 | EUR | HCOB France Services PMI (Jul) | 49.8 | 47.5 | 46.8 |
 | 08:30 | EUR | HCOB Germany Manufacturing PMI (Jul) | 52.2 | 50.4 | 50.3 |
 | 08:30 | EUR | HCOB Germany Services PMI (Jul) | 49.6 | 49.0 | 48.6 |
-| 25 min | EUR | HCOB Eurozone Manufacturing PMI (Jul) |  | 51.5 | 51.4 |
-| 25 min | EUR | HCOB Eurozone Composite PMI (Jul) |  | 50.3 | 50.0 |
-| 25 min | EUR | HCOB Eurozone Services PMI (Jul) |  | 49.8 | 49.4 |
-| 55 min | GBP | S&P Global Composite PMI (Jul) |  | 49.7 | 49.3 |
-| 55 min | GBP | S&P Global Manufacturing PMI (Jul) |  | 52.0 | 52.5 |
-| 55 min | GBP | S&P Global Services PMI (Jul) |  | 49.4 | 48.8 |
+| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Jul) | 52.0 | 51.5 | 51.4 |
+| 09:00 | EUR | HCOB Eurozone Composite PMI (Jul) | 51.9 | 50.3 | 50.0 |
+| 09:00 | EUR | HCOB Eurozone Services PMI (Jul) | 51.6 | 49.8 | 49.4 |
+| 09:30 | GBP | S&P Global Composite PMI (Jul) | 52.1 | 49.7 | 49.3 |
+| 09:30 | GBP | S&P Global Manufacturing PMI (Jul) | 52.8 | 52.0 | 52.5 |
+| 09:30 | GBP | S&P Global Services PMI (Jul) | 51.8 | 49.4 | 48.8 |
 | 13:00 | USD | Building Permits (Jun) |  | 1.367M | 1.410M |
 | 13:30 | CAD | New Housing Price Index (MoM) (Jun) |  | -0.2% | -0.3% |
 | 13:30 | CAD | RMPI (MoM) (Jun) |  | -1.5% | 0.7% |
