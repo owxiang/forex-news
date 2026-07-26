@@ -1,5 +1,5 @@
-## 25 July 2026 - High Impact Forex News
+## 27 July 2026 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:55 | USD | U.S. President Trump Speaks |  |  |  |
+| 13:30 | USD | Durable Goods Orders (MoM) (Jun) |  | 1.6% | -4.5% |
