@@ -38,4 +38,4 @@
 | 18:00 | USD | Low | 3-Month Bill Auction | 3.815% |  | 3.730% |
 | 18:00 | USD | Moderate | 5-Year Note Auction | 4.408% |  | 4.200% |
 | 19:50 | USD | High | U.S. President Trump Speaks |  |  |  |
-| 22:00 | KRW | Low | Consumer Confidence (Jul) |  |  | 106.6 |
+| 22:00 | KRW | Low | Consumer Confidence (Jul) | 106.8 |  | 106.6 |

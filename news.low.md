@@ -29,4 +29,4 @@
 | 15:30 | USD | Dallas Fed Mfg Business Index (Jul) | 1.3 |  | 0.0 |
 | 16:30 | USD | 6-Month Bill Auction | 3.945% |  | 3.835% |
 | 18:00 | USD | 3-Month Bill Auction | 3.815% |  | 3.730% |
-| 22:00 | KRW | Consumer Confidence (Jul) |  |  | 106.6 |
+| 22:00 | KRW | Consumer Confidence (Jul) | 106.8 |  | 106.6 |
