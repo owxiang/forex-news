@@ -1,6 +1,5 @@
-## 27 July 2026 - High Impact Forex News
+## 28 July 2026 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:30 | USD | Durable Goods Orders (MoM) (Jun) | 0.3% | 1.6% | -4.0% |
-| 19:50 | USD | U.S. President Trump Speaks |  |  |  |
+| 15:00 | USD | CB Consumer Confidence (Jul) |  | 92.1 | 91.2 |

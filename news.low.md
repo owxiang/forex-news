@@ -1,32 +1,32 @@
-## 27 July 2026 - Low Impact Forex News
+## 28 July 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) | 3.2% |  | 3.4% |
-| 02:30 | CNY | Chinese Industrial profit YTD (Jun) | 18.7% |  | 18.8% |
-| 06:00 | JPY | Leading Index (May) | 116.5 | 116.8 | 116.1 |
-| 06:00 | SGD | Industrial Production (YoY) (Jun) | 7.2% |  | 17.8% |
-| 06:00 | SGD | Industrial Production (MoM) (Jun) | -7.2% |  | 6.9% |
-| 09:00 | EUR | M3 Money Supply (YoY) (Jun) | 3.3% | 3.2% | 3.2% |
-| 09:00 | EUR | M3 Money Supply (Jun) | 17,610.9B |  | 17,552.2B |
-| 09:00 | EUR | Loans to Non Financial Corporations (Jun) | 4.0% |  | 4.0% |
-| 09:00 | EUR | Private Sector Loans (YoY) (Jun) | 3.0% | 3.1% | 3.0% |
-| 09:30 | HKD | Exports (MoM) (Jun) | 53.4% |  | 40.8% |
-| 09:30 | HKD | Imports (MoM) (Jun) | 45.4% |  | 42.0% |
-| 09:30 | HKD | Trade Balance (Jun) | -52.0B |  | -44.2B |
-| 11:00 | GBP | CBI Distributive Trades Survey (Jul) | -26 | -45 | -54 |
+| 00:01 | GBP | BRC Shop Price Index (YoY) | 0.9% | 1.1% | 1.2% |
+| 04:05 | AUD | RBA Gov Bullock Speaks |  |  |  |
+| 07:45 | EUR | French Consumer Confidence (Jul) |  | 85 | 84 |
+| 08:00 | EUR | Spanish Retail Sales (YoY) (Jun) |  |  | 1.3% |
+| 08:00 | EUR | Spanish Unemployment Rate (Q2) |  | 10.70% | 10.83% |
+| 08:00 | ZAR | Leading Indicators (May) |  |  | 118.90% |
+| 09:00 | EUR | Italian Trade Balance Non-EU (Jun) |  |  | 3.84B |
+| 10:10 | EUR | Italian 7-Year BTP Auction |  |  | 3.50% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 11:00 | EUR | ECOFIN Meetings |  |  |  |
-| 12:00 | BRL | FGV Consumer confidence (Jul) | 88.3 |  | 88.7 |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | MXN | Trade Balance (Jun) | 4.090B | 2.280B | 2.259B |
-| 13:00 | MXN | Trade Balance (USD) (Jun) | 3.843B |  | 1.034B |
-| 13:30 | USD | Durables Excluding Defense (MoM) (Jun) | 0.3% |  | -4.3% |
-| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Jun) | 0.9% |  | 1.9% |
-| 14:00 | EUR | French 12-Month BTF Auction | 2.753% |  | 2.749% |
-| 14:00 | EUR | French 3-Month BTF Auction | 2.424% |  | 2.437% |
-| 14:00 | EUR | French 6-Month BTF Auction | 2.587% |  | 2.554% |
-| 15:30 | USD | Dallas Fed Mfg Business Index (Jul) | 1.3 |  | 0.0 |
-| 16:30 | USD | 6-Month Bill Auction | 3.945% |  | 3.835% |
-| 18:00 | USD | 3-Month Bill Auction | 3.815% |  | 3.730% |
-| 22:00 | KRW | Consumer Confidence (Jul) | 106.8 |  | 106.6 |
+| 11:30 | INR | Cumulative Industrial Production (Jun) |  |  | 5.10% |
+| 11:30 | INR | Industrial Production (YoY) (Jun) |  | 5.6% | 5.1% |
+| 11:30 | INR | Manufacturing Output (MoM) (Jun) |  |  | 5.5% |
+| 12:30 | BRL | Current Account (USD) (Jun) |  | -2.40B | -3.19B |
+| 12:30 | BRL | Foreign direct investment (USD) (Jun) |  | 5.50B | 7.97B |
+| 13:00 | BRL | Mid-Month CPI (MoM) (Jul) |  | 0.19% | 0.41% |
+| 13:00 | BRL | Mid-Month CPI (YoY) (Jul) |  | 4.67% | 4.80% |
+| 13:30 | USD | Wholesale Inventories (MoM) (Jun) |  | 0.2% | 0.1% |
+| 13:55 | USD | Redbook (YoY) |  |  | 7.8% |
+| 14:00 | USD | House Price Index (MoM) (May) |  | 0.2% | -0.1% |
+| 14:00 | USD | House Price Index (YoY) (May) |  |  | 2.0% |
+| 14:00 | USD | House Price Index (May) |  |  | 441.4 |
+| 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (May) |  |  | 0.0% |
+| 15:00 | USD | Richmond Manufacturing Index (Jul) |  | 10 | 4 |
+| 15:00 | USD | Richmond Manufacturing Shipments (Jul) |  |  | 3 |
+| 15:00 | USD | Richmond Services Index (Jul) |  |  | -1 |
+| 15:30 | USD | Dallas Fed Services Revenues (Jul) |  |  | 9.8 |
+| 15:30 | USD | Texas Services Sector Outlook (Jul) |  |  | 2.9 |
+| 18:00 | USD | M2 Money Supply (MoM) (Jun) |  |  | 23.05T |
