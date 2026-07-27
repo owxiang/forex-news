@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 2 min | USD | Durable Goods Orders (MoM) (Jun) |  | 1.6% | -4.5% |
+| 13:30 | USD | Durable Goods Orders (MoM) (Jun) | 0.3% | 1.6% | -4.0% |

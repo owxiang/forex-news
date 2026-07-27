@@ -21,12 +21,12 @@
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:00 | MXN | Trade Balance (Jun) | 4.090B | 2.280B | 2.259B |
 | 13:00 | MXN | Trade Balance (USD) (Jun) | 3.843B |  | 1.034B |
-| 2 min | USD | Durables Excluding Defense (MoM) (Jun) |  |  | -4.6% |
-| 2 min | USD | Goods Orders Non Defense Ex Air (MoM) (Jun) |  |  | 1.6% |
-| 32 min | EUR | French 12-Month BTF Auction |  |  | 2.749% |
-| 32 min | EUR | French 3-Month BTF Auction |  |  | 2.437% |
-| 32 min | EUR | French 6-Month BTF Auction |  |  | 2.554% |
-| 15:30 | USD | Dallas Fed Mfg Business Index (Jul) |  |  | 0.0 |
-| 16:30 | USD | 3-Month Bill Auction |  |  | 3.730% |
-| 16:30 | USD | 6-Month Bill Auction |  |  | 3.835% |
+| 13:30 | USD | Durables Excluding Defense (MoM) (Jun) | 0.3% |  | -4.3% |
+| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Jun) | 0.9% |  | 1.9% |
+| 14:00 | EUR | French 12-Month BTF Auction | 2.753% |  | 2.749% |
+| 14:00 | EUR | French 3-Month BTF Auction | 2.424% |  | 2.437% |
+| 14:00 | EUR | French 6-Month BTF Auction | 2.587% |  | 2.554% |
+| 15:30 | USD | Dallas Fed Mfg Business Index (Jul) | 1.3 |  | 0.0 |
+| 16:30 | USD | 6-Month Bill Auction | 3.945% |  | 3.835% |
+| 18:00 | USD | 3-Month Bill Auction | 3.815% |  | 3.730% |
 | 22:00 | KRW | Consumer Confidence (Jul) |  |  | 106.6 |
