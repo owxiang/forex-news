@@ -17,20 +17,20 @@
 | 09:30 | HKD | Low | Exports (MoM) (Jun) | 53.4% |  | 40.8% |
 | 09:30 | HKD | Low | Imports (MoM) (Jun) | 45.4% |  | 42.0% |
 | 09:30 | HKD | Low | Trade Balance (Jun) | -52.0B |  | -44.2B |
-| 11:00 | GBP | Low | CBI Distributive Trades Survey (Jul) |  | -45 | -54 |
+| 11:00 | GBP | Low | CBI Distributive Trades Survey (Jul) | -26 | -45 | -54 |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
-| 12:00 | BRL | Low | FGV Consumer confidence (Jul) |  |  | 88.7 |
+| 12:00 | BRL | Low | FGV Consumer confidence (Jul) | 88.3 |  | 88.7 |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | MXN | Low | Trade Balance (Jun) |  |  | 2.259B |
-| 13:00 | MXN | Low | Trade Balance (USD) (Jun) |  |  | 0.638B |
-| 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Jun) |  | 0.9% | 1.4% |
-| 13:30 | USD | High | Durable Goods Orders (MoM) (Jun) |  | 1.6% | -4.5% |
-| 13:30 | USD | Low | Durables Excluding Defense (MoM) (Jun) |  |  | -4.6% |
-| 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Jun) |  |  | 1.4% |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.749% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.437% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.554% |
+| 13:00 | MXN | Low | Trade Balance (Jun) | 4.090B | 2.280B | 2.259B |
+| 13:00 | MXN | Low | Trade Balance (USD) (Jun) | 3.843B |  | 1.034B |
+| 2 min | USD | Moderate | Core Durable Goods Orders (MoM) (Jun) |  | 0.9% | 1.3% |
+| 2 min | USD | High | Durable Goods Orders (MoM) (Jun) |  | 1.6% | -4.5% |
+| 2 min | USD | Low | Durables Excluding Defense (MoM) (Jun) |  |  | -4.6% |
+| 2 min | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Jun) |  |  | 1.6% |
+| 32 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.749% |
+| 32 min | EUR | Low | French 3-Month BTF Auction |  |  | 2.437% |
+| 32 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.554% |
 | 15:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 1.7% | 1.7% |
 | 15:30 | USD | Low | Dallas Fed Mfg Business Index (Jul) |  |  | 0.0 |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.730% |
