@@ -2,12 +2,13 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | CNY | Chinese Industrial profit YTD (Jun) |  |  | 18.8% |
+| 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) | 3.2% |  | 3.4% |
+| 02:30 | CNY | Chinese Industrial profit YTD (Jun) | 18.7% |  | 18.8% |
 | 06:00 | JPY | Coincident Indicator (MoM) (May) |  | 0.4% | 1.3% |
-| 06:00 | JPY | Leading Index (May) |  | 116.8 | 116.1 |
 | 06:00 | JPY | Leading Index (MoM) (May) |  | 0.7% | 0.7% |
-| 06:00 | SGD | Industrial Production (MoM) (Jun) |  |  | -0.7% |
+| 06:00 | JPY | Leading Index (May) |  | 116.8 | 116.1 |
 | 06:00 | SGD | Industrial Production (YoY) (Jun) |  |  | 13.0% |
+| 06:00 | SGD | Industrial Production (MoM) (Jun) |  |  | -0.7% |
 | 09:00 | EUR | M3 Money Supply (YoY) (Jun) |  | 3.2% | 3.2% |
 | 09:00 | EUR | M3 Money Supply (Jun) |  |  | 17,552.2B |
 | 09:00 | EUR | Loans to Non Financial Corporations (Jun) |  |  | 4.0% |

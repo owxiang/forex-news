@@ -2,12 +2,13 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 02:30 | CNY | Low | Chinese Industrial profit YTD (Jun) |  |  | 18.8% |
+| 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 3.2% |  | 3.4% |
+| 02:30 | CNY | Low | Chinese Industrial profit YTD (Jun) | 18.7% |  | 18.8% |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (May) |  | 0.4% | 1.3% |
-| 06:00 | JPY | Low | Leading Index (May) |  | 116.8 | 116.1 |
 | 06:00 | JPY | Low | Leading Index (MoM) (May) |  | 0.7% | 0.7% |
-| 06:00 | SGD | Low | Industrial Production (MoM) (Jun) |  |  | -0.7% |
+| 06:00 | JPY | Low | Leading Index (May) |  | 116.8 | 116.1 |
 | 06:00 | SGD | Low | Industrial Production (YoY) (Jun) |  |  | 13.0% |
+| 06:00 | SGD | Low | Industrial Production (MoM) (Jun) |  |  | -0.7% |
 | 09:00 | EUR | Moderate | German Business Expectations (Jul) |  |  | 84.1 |
 | 09:00 | EUR | Moderate | German Current Assessment (Jul) |  |  | 87.0 |
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (Jul) |  | 86.1 | 85.6 |
