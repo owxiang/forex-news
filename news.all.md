@@ -4,10 +4,10 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | BRC Shop Price Index (YoY) | 0.9% | 1.1% | 1.2% |
 | 04:05 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
-| 06:00 | JPY | Moderate | BoJ Core CPI (YoY) |  |  | 2.7% |
+| 06:00 | JPY | Moderate | BoJ Core CPI (YoY) | 2.7% |  | 2.7% |
 | 07:45 | EUR | Low | French Consumer Confidence (Jul) |  | 85 | 84 |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Jun) |  |  | 1.3% |
-| 08:00 | EUR | Low | Spanish Unemployment Rate (Q2) |  | 10.70% | 10.83% |
+| 08:00 | EUR | Low | Spanish Unemployment Rate (Q2) |  | 10.10% | 10.83% |
 | 08:00 | ZAR | Low | Leading Indicators (May) |  |  | 118.90% |
 | 09:00 | EUR | Low | Italian Trade Balance Non-EU (Jun) |  |  | 3.84B |
 | 10:10 | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.50% |
@@ -22,19 +22,19 @@
 | 13:00 | BRL | Low | Mid-Month CPI (MoM) (Jul) |  | 0.19% | 0.41% |
 | 13:00 | BRL | Low | Mid-Month CPI (YoY) (Jul) |  | 4.67% | 4.80% |
 | 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 16.50K |
-| 13:30 | USD | Moderate | Goods Trade Balance (Jun) |  | -98.00B | -105.89B |
+| 13:30 | USD | Moderate | Goods Trade Balance (Jun) |  | -100.30B | -105.89B |
 | 13:30 | USD | Moderate | Retail Inventories Ex Auto (Jun) |  |  | 0.3% |
-| 13:30 | USD | Low | Wholesale Inventories (MoM) (Jun) |  | 0.2% | 0.1% |
+| 13:30 | USD | Low | Wholesale Inventories (MoM) (Jun) |  | 0.4% | 0.1% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 7.8% |
-| 14:00 | USD | Low | House Price Index (MoM) (May) |  | 0.2% | -0.1% |
+| 14:00 | USD | Low | House Price Index (MoM) (May) |  | 0.1% | -0.1% |
 | 14:00 | USD | Low | House Price Index (YoY) (May) |  |  | 2.0% |
 | 14:00 | USD | Low | House Price Index (May) |  |  | 441.4 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (May) |  |  | 0.0% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (May) |  | 0.8% | 1.1% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (May) |  | 1.3% | 1.1% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (May) |  |  | 1.0% |
 | 15:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  |  |  |
-| 15:00 | USD | High | CB Consumer Confidence (Jul) |  | 92.1 | 91.2 |
-| 15:00 | USD | Low | Richmond Manufacturing Index (Jul) |  | 10 | 4 |
+| 15:00 | USD | High | CB Consumer Confidence (Jul) |  | 92.4 | 91.2 |
+| 15:00 | USD | Low | Richmond Manufacturing Index (Jul) |  | 7 | 4 |
 | 15:00 | USD | Low | Richmond Manufacturing Shipments (Jul) |  |  | 3 |
 | 15:00 | USD | Low | Richmond Services Index (Jul) |  |  | -1 |
 | 15:30 | USD | Low | Dallas Fed Services Revenues (Jul) |  |  | 9.8 |
