@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 06:00 | JPY | BoJ Core CPI (YoY) | 2.7% |  | 2.7% |
 | 11:00 | USD | OPEC Meeting |  |  |  |
-| 11:00 | EUR | France Jobseekers Total (Jun) |  |  | 3,115.6K |
-| 13:15 | USD | ADP Employment Change Weekly |  |  | 16.50K |
+| 11:00 | EUR | France Jobseekers Total (Jun) | 3,121.5K |  | 3,115.6K |
+| 53 min | USD | ADP Employment Change Weekly |  |  | 16.50K |
 | 13:30 | USD | Goods Trade Balance (Jun) |  | -100.30B | -105.89B |
 | 13:30 | USD | Retail Inventories Ex Auto (Jun) |  |  | 0.3% |
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (May) |  | 1.3% | 1.1% |

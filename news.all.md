@@ -10,18 +10,18 @@
 | 08:00 | EUR | Low | Spanish Unemployment Rate (Q2) | 9.87% | 10.10% | 10.83% |
 | 08:00 | ZAR | Low | Leading Indicators (May) | 118.20% |  | 118.63% |
 | 09:00 | EUR | Low | Italian Trade Balance Non-EU (Jun) | 2.55B |  | 3.84B |
-| 29 min | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.50% |
+| 10:10 | EUR | Low | Italian 7-Year BTP Auction | 2.89% |  | 3.50% |
 | 11:00 | USD | Moderate | OPEC Meeting |  |  |  |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 11:00 | EUR | Moderate | France Jobseekers Total (Jun) |  |  | 3,115.6K |
-| 11:30 | INR | Low | Cumulative Industrial Production (Jun) |  |  | 5.10% |
-| 11:30 | INR | Low | Industrial Production (YoY) (Jun) |  | 5.6% | 5.1% |
-| 11:30 | INR | Low | Manufacturing Output (MoM) (Jun) |  |  | 5.5% |
-| 12:30 | BRL | Low | Current Account (USD) (Jun) |  | -2.40B | -3.19B |
-| 12:30 | BRL | Low | Foreign direct investment (USD) (Jun) |  | 5.50B | 7.97B |
-| 13:00 | BRL | Low | Mid-Month CPI (MoM) (Jul) |  | 0.19% | 0.41% |
-| 13:00 | BRL | Low | Mid-Month CPI (YoY) (Jul) |  | 4.67% | 4.80% |
-| 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 16.50K |
+| 11:00 | EUR | Moderate | France Jobseekers Total (Jun) | 3,121.5K |  | 3,115.6K |
+| 11:30 | INR | Low | Cumulative Industrial Production (Jun) | 5.80% |  | 5.10% |
+| 11:30 | INR | Low | Industrial Production (YoY) (Jun) | 7.3% | 5.6% | 5.0% |
+| 11:30 | INR | Low | Manufacturing Output (MoM) (Jun) | 7.8% |  | 5.2% |
+| 8 min | BRL | Low | Current Account (USD) (Jun) |  | -2.40B | -3.19B |
+| 8 min | BRL | Low | Foreign direct investment (USD) (Jun) |  | 5.50B | 7.97B |
+| 38 min | BRL | Low | Mid-Month CPI (MoM) (Jul) |  | 0.19% | 0.41% |
+| 38 min | BRL | Low | Mid-Month CPI (YoY) (Jul) |  | 4.67% | 4.80% |
+| 53 min | USD | Moderate | ADP Employment Change Weekly |  |  | 16.50K |
 | 13:30 | USD | Moderate | Goods Trade Balance (Jun) |  | -100.30B | -105.89B |
 | 13:30 | USD | Moderate | Retail Inventories Ex Auto (Jun) |  |  | 0.3% |
 | 13:30 | USD | Low | Wholesale Inventories (MoM) (Jun) |  | 0.4% | 0.1% |

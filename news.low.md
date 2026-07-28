@@ -9,15 +9,15 @@
 | 08:00 | EUR | Spanish Unemployment Rate (Q2) | 9.87% | 10.10% | 10.83% |
 | 08:00 | ZAR | Leading Indicators (May) | 118.20% |  | 118.63% |
 | 09:00 | EUR | Italian Trade Balance Non-EU (Jun) | 2.55B |  | 3.84B |
-| 29 min | EUR | Italian 7-Year BTP Auction |  |  | 3.50% |
+| 10:10 | EUR | Italian 7-Year BTP Auction | 2.89% |  | 3.50% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 11:30 | INR | Cumulative Industrial Production (Jun) |  |  | 5.10% |
-| 11:30 | INR | Industrial Production (YoY) (Jun) |  | 5.6% | 5.1% |
-| 11:30 | INR | Manufacturing Output (MoM) (Jun) |  |  | 5.5% |
-| 12:30 | BRL | Current Account (USD) (Jun) |  | -2.40B | -3.19B |
-| 12:30 | BRL | Foreign direct investment (USD) (Jun) |  | 5.50B | 7.97B |
-| 13:00 | BRL | Mid-Month CPI (MoM) (Jul) |  | 0.19% | 0.41% |
-| 13:00 | BRL | Mid-Month CPI (YoY) (Jul) |  | 4.67% | 4.80% |
+| 11:30 | INR | Cumulative Industrial Production (Jun) | 5.80% |  | 5.10% |
+| 11:30 | INR | Industrial Production (YoY) (Jun) | 7.3% | 5.6% | 5.0% |
+| 11:30 | INR | Manufacturing Output (MoM) (Jun) | 7.8% |  | 5.2% |
+| 8 min | BRL | Current Account (USD) (Jun) |  | -2.40B | -3.19B |
+| 8 min | BRL | Foreign direct investment (USD) (Jun) |  | 5.50B | 7.97B |
+| 38 min | BRL | Mid-Month CPI (MoM) (Jul) |  | 0.19% | 0.41% |
+| 38 min | BRL | Mid-Month CPI (YoY) (Jul) |  | 4.67% | 4.80% |
 | 13:30 | USD | Wholesale Inventories (MoM) (Jun) |  | 0.4% | 0.1% |
 | 13:55 | USD | Redbook (YoY) |  |  | 7.8% |
 | 14:00 | USD | House Price Index (MoM) (May) |  | 0.1% | -0.1% |
