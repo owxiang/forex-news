@@ -41,4 +41,4 @@
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 1.5% | 1.6% | 1.6% |
 | 18:00 | USD | Moderate | 7-Year Note Auction | 4.473% |  | 4.260% |
 | 18:00 | USD | Low | M2 Money Supply (MoM) (Jun) | 23.15T |  | 23.05T |
-| 12 min | USD | Moderate | API Weekly Crude Oil Stock |  | -2.500M | 2.603M |
+| 21:50 | USD | Moderate | API Weekly Crude Oil Stock | 3.296M | -2.500M | 2.603M |

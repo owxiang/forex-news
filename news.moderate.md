@@ -12,4 +12,4 @@
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (May) | 0.9% |  | 1.0% |
 | 17:00 | USD | Atlanta Fed GDPNow (Q2) | 1.5% | 1.6% | 1.6% |
 | 18:00 | USD | 7-Year Note Auction | 4.473% |  | 4.260% |
-| 12 min | USD | API Weekly Crude Oil Stock |  | -2.500M | 2.603M |
+| 21:50 | USD | API Weekly Crude Oil Stock | 3.296M | -2.500M | 2.603M |
