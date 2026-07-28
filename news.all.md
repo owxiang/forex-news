@@ -36,9 +36,9 @@
 | 15:00 | USD | Low | Richmond Manufacturing Index (Jul) | 5 | 7 | 4 |
 | 15:00 | USD | Low | Richmond Manufacturing Shipments (Jul) | 8 |  | 4 |
 | 15:00 | USD | Low | Richmond Services Index (Jul) | -3 |  | 0 |
-| 10 min | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 1.6% | 1.6% |
-| 10 min | USD | Low | Dallas Fed Services Revenues (Jul) |  |  | 9.8 |
-| 10 min | USD | Low | Texas Services Sector Outlook (Jul) |  |  | 2.9 |
-| 18:00 | USD | Moderate | 7-Year Note Auction |  |  | 4.260% |
-| 18:00 | USD | Low | M2 Money Supply (MoM) (Jun) |  |  | 23.05T |
+| 15:30 | USD | Low | Dallas Fed Services Revenues (Jul) | 9.5 |  | 9.8 |
+| 15:30 | USD | Low | Texas Services Sector Outlook (Jul) | 6.6 |  | 2.9 |
+| 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 1.5% | 1.6% | 1.6% |
+| 17 min | USD | Moderate | 7-Year Note Auction |  |  | 4.260% |
+| 17 min | USD | Low | M2 Money Supply (MoM) (Jun) |  |  | 23.05T |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.500M | 2.603M |

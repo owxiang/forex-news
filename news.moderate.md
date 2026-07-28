@@ -10,6 +10,6 @@
 | 13:30 | USD | Retail Inventories Ex Auto (Jun) | -0.2% |  | 0.2% |
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (May) | 1.6% | 1.3% | 1.2% |
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (May) | 0.9% |  | 1.0% |
-| 10 min | USD | Atlanta Fed GDPNow (Q2) |  | 1.6% | 1.6% |
-| 18:00 | USD | 7-Year Note Auction |  |  | 4.260% |
+| 17:00 | USD | Atlanta Fed GDPNow (Q2) | 1.5% | 1.6% | 1.6% |
+| 17 min | USD | 7-Year Note Auction |  |  | 4.260% |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | -2.500M | 2.603M |
