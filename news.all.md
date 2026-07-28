@@ -5,12 +5,12 @@
 | 00:01 | GBP | Low | BRC Shop Price Index (YoY) | 0.9% | 1.1% | 1.2% |
 | 04:05 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
 | 06:00 | JPY | Moderate | BoJ Core CPI (YoY) | 2.7% |  | 2.7% |
-| 07:45 | EUR | Low | French Consumer Confidence (Jul) |  | 85 | 84 |
-| 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Jun) |  |  | 1.3% |
-| 08:00 | EUR | Low | Spanish Unemployment Rate (Q2) |  | 10.10% | 10.83% |
-| 08:00 | ZAR | Low | Leading Indicators (May) |  |  | 118.90% |
-| 09:00 | EUR | Low | Italian Trade Balance Non-EU (Jun) |  |  | 3.84B |
-| 10:10 | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.50% |
+| 07:45 | EUR | Low | French Consumer Confidence (Jul) | 86 | 85 | 84 |
+| 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Jun) | 0.5% |  | 1.3% |
+| 08:00 | EUR | Low | Spanish Unemployment Rate (Q2) | 9.87% | 10.10% | 10.83% |
+| 08:00 | ZAR | Low | Leading Indicators (May) | 118.20% |  | 118.63% |
+| 09:00 | EUR | Low | Italian Trade Balance Non-EU (Jun) | 2.55B |  | 3.84B |
+| 29 min | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.50% |
 | 11:00 | USD | Moderate | OPEC Meeting |  |  |  |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | EUR | Moderate | France Jobseekers Total (Jun) |  |  | 3,115.6K |

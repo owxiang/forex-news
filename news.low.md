@@ -4,12 +4,12 @@
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | BRC Shop Price Index (YoY) | 0.9% | 1.1% | 1.2% |
 | 04:05 | AUD | RBA Gov Bullock Speaks |  |  |  |
-| 07:45 | EUR | French Consumer Confidence (Jul) |  | 85 | 84 |
-| 08:00 | EUR | Spanish Retail Sales (YoY) (Jun) |  |  | 1.3% |
-| 08:00 | EUR | Spanish Unemployment Rate (Q2) |  | 10.10% | 10.83% |
-| 08:00 | ZAR | Leading Indicators (May) |  |  | 118.90% |
-| 09:00 | EUR | Italian Trade Balance Non-EU (Jun) |  |  | 3.84B |
-| 10:10 | EUR | Italian 7-Year BTP Auction |  |  | 3.50% |
+| 07:45 | EUR | French Consumer Confidence (Jul) | 86 | 85 | 84 |
+| 08:00 | EUR | Spanish Retail Sales (YoY) (Jun) | 0.5% |  | 1.3% |
+| 08:00 | EUR | Spanish Unemployment Rate (Q2) | 9.87% | 10.10% | 10.83% |
+| 08:00 | ZAR | Leading Indicators (May) | 118.20% |  | 118.63% |
+| 09:00 | EUR | Italian Trade Balance Non-EU (Jun) | 2.55B |  | 3.84B |
+| 29 min | EUR | Italian 7-Year BTP Auction |  |  | 3.50% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 11:30 | INR | Cumulative Industrial Production (Jun) |  |  | 5.10% |
 | 11:30 | INR | Industrial Production (YoY) (Jun) |  | 5.6% | 5.1% |
