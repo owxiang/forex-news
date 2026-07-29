@@ -1,5 +1,8 @@
-## 28 July 2026 - High Impact Forex News
+## 29 July 2026 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 15:00 | USD | CB Consumer Confidence (Jul) | 90.8 | 92.4 | 92.2 |
+| 15:30 | USD | Crude Oil Inventories |  | -1.700M | 2.010M |
+| 19:00 | USD | FOMC Statement |  |  |  |
+| 19:00 | USD | Fed Interest Rate Decision |  | 3.75% | 3.75% |
+| 19:30 | USD | FOMC Press Conference |  |  |  |
