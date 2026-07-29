@@ -22,11 +22,11 @@
 | 09:30 | GBP | Mortgage Lending (Jun) | 7.73B | 3.95B | 3.27B |
 | 09:30 | GBP | Net Lending to Individuals (Jun) | 9.500B | 5.500B | 4.600B |
 | 10:30 | EUR | Italian 6-Month BOT Auction | 2.567% |  | 2.479% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.69% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 1.9% |
-| 12:00 | USD | MBA Purchase Index |  |  | 165.8 |
-| 12:00 | USD | Mortgage Market Index |  |  | 264.0 |
-| 12:00 | USD | Mortgage Refinance Index |  |  | 802.3 |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.76% |  | 6.69% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | -6.4% |  | 1.9% |
+| 12:00 | USD | MBA Purchase Index | 159.8 |  | 165.8 |
+| 12:00 | USD | Mortgage Market Index | 247.2 |  | 264.0 |
+| 12:00 | USD | Mortgage Refinance Index | 723.1 |  | 802.3 |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.058M |
 | 15:30 | USD | Crude Oil Imports |  |  | 0.485M |
 | 15:30 | USD | Distillate Fuel Production |  |  | 0.090M |

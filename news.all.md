@@ -26,11 +26,11 @@
 | 09:30 | GBP | Low | Net Lending to Individuals (Jun) | 9.500B | 5.500B | 4.600B |
 | 10:30 | EUR | Low | Italian 6-Month BOT Auction | 2.567% |  | 2.479% |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction | 3.130% |  | 3.090% |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.69% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 1.9% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 165.8 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 264.0 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 802.3 |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.76% |  | 6.69% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | -6.4% |  | 1.9% |
+| 12:00 | USD | Low | MBA Purchase Index | 159.8 |  | 165.8 |
+| 12:00 | USD | Low | Mortgage Market Index | 247.2 |  | 264.0 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 723.1 |  | 802.3 |
 | 15:30 | USD | High | Crude Oil Inventories |  | 0.700M | 2.010M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.058M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 0.485M |
