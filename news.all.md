@@ -2,14 +2,14 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 02:30 | AUD | Moderate | CPI (QoQ) (Q2) |  | 0.7% | 1.4% |
-| 02:30 | AUD | Moderate | CPI (YoY) (Q2) |  | 4.1% | 4.1% |
-| 02:30 | AUD | Low | CPI Index Number (Q2) |  |  | 101.70 |
-| 02:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q2) |  | 0.9% | 0.8% |
-| 02:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q2) |  | 3.7% | 3.5% |
-| 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (Jun) |  | 4.00% | 4.00% |
-| 02:30 | AUD | Low | Weighted mean CPI (YoY) (Q2) |  |  | 3.5% |
-| 02:30 | AUD | Low | Weighted mean CPI (QoQ) (Q2) |  |  | 0.8% |
+| 02:30 | AUD | Moderate | CPI (QoQ) (Q2) | 0.6% | 0.7% | 1.4% |
+| 02:30 | AUD | Moderate | CPI (YoY) (Q2) | 3.9% | 4.1% | 4.1% |
+| 02:30 | AUD | Low | CPI Index Number (Q2) | 102.31 |  | 101.70 |
+| 02:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q2) | 0.8% | 0.9% | 0.8% |
+| 02:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q2) | 3.6% | 3.7% | 3.5% |
+| 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (Jun) | 3.80% | 4.00% | 4.00% |
+| 02:30 | AUD | Low | Weighted mean CPI (YoY) (Q2) | 3.6% |  | 3.5% |
+| 02:30 | AUD | Low | Weighted mean CPI (QoQ) (Q2) | 0.7% |  | 0.9% |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Jun) |  | -0.7% | 0.7% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Jun) |  | 6.0% | 6.8% |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Jun) |  |  | -2.1% |
