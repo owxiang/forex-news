@@ -1,40 +1,70 @@
-## 29 July 2026 - Low Impact Forex News
+## 30 July 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | CPI Index Number (Q2) | 102.31 |  | 101.70 |
-| 02:30 | AUD | Trimmed Mean CPI (YoY) (Q2) | 3.6% | 3.7% | 3.5% |
-| 02:30 | AUD | Monthly CPI Indicator (YoY) (Jun) | 3.80% | 4.00% | 4.00% |
-| 02:30 | AUD | Weighted mean CPI (QoQ) (Q2) | 0.7% |  | 0.9% |
-| 02:30 | AUD | Weighted mean CPI (YoY) (Q2) | 3.6% |  | 3.5% |
-| 07:00 | EUR | German Import Price Index (MoM) (Jun) | -0.7% | -0.7% | 0.7% |
-| 07:00 | EUR | German Import Price Index (YoY) (Jun) | 6.1% | 6.0% | 6.8% |
-| 07:00 | NOK | Core Retail Sales (MoM) (Jun) | 1.8% |  | -2.4% |
-| 07:00 | ZAR | M3 Money Supply (YoY) (Jun) | 9.31% |  | 9.59% |
-| 07:00 | ZAR | Private Sector Credit (Jun) | 7.80% |  | 8.57% |
-| 09:00 | EUR | Italian Industrial Sales (MoM) (May) | 0.60% |  | -0.20% |
-| 09:00 | EUR | Italian Industrial Sales (YoY) (May) | 5.30% |  | 2.70% |
-| 09:00 | CHF | ZEW Expectations (Jul) | 10.0 |  | -25.0 |
-| 09:30 | GBP | BoE Consumer Credit (Jun) | 1.807B | 1.700B | 1.723B |
-| 09:30 | GBP | M3 Money Supply (Jun) | 3,308.8B |  | 3,281.7B |
-| 09:30 | GBP | M4 Money Supply (MoM) (Jun) | 0.8% | 0.2% | 0.1% |
-| 09:30 | GBP | Mortgage Approvals (Jun) | 58.20K | 57.00K | 56.57K |
-| 09:30 | GBP | Mortgage Lending (Jun) | 7.73B | 3.95B | 3.27B |
-| 09:30 | GBP | Net Lending to Individuals (Jun) | 9.500B | 5.500B | 5.000B |
-| 10:30 | EUR | Italian 6-Month BOT Auction | 2.567% |  | 2.479% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.76% |  | 6.69% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) | -6.4% |  | 1.9% |
-| 12:00 | USD | MBA Purchase Index | 159.8 |  | 165.8 |
-| 12:00 | USD | Mortgage Market Index | 247.2 |  | 264.0 |
-| 12:00 | USD | Mortgage Refinance Index | 723.1 |  | 802.3 |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) | 0.271M |  | -0.058M |
-| 15:30 | USD | Crude Oil Imports | -0.237M |  | 0.485M |
-| 15:30 | USD | Distillate Fuel Production | 0.015M |  | 0.090M |
-| 15:30 | USD | EIA Weekly Distillates Stocks | 1.062M | 0.200M | 1.395M |
-| 15:30 | USD | Gasoline Production | 0.178M |  | 0.060M |
-| 15:30 | USD | Heating Oil Stockpiles | 0.308M |  | 0.231M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 1.1% |  | -0.1% |
-| 15:30 | USD | Gasoline Inventories | 0.007M | 0.700M | 0.765M |
-| 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
-| 18:30 | BRL | CAGED Net Payroll Jobs (Jun) | 145.16K | 115.00K | 72.96K |
-| 18:30 | BRL | Foreign Exchange Flows | -1.065B |  | 0.134B |
+| 00:50 | JPY | Foreign Bonds Buying |  |  | -714.4B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -79.6B |
+| 02:00 | NZD | ANZ Business Confidence (Jul) |  |  | 36.6 |
+| 02:00 | NZD | NBNZ Own Activity (Jul) |  |  | 36.9% |
+| 02:30 | AUD | Building Approvals (YoY) (Jun) |  |  | 10.30% |
+| 02:30 | AUD | Export Price Index (QoQ) (Q2) |  |  | 0.5% |
+| 02:30 | AUD | Import Price Index (QoQ) (Q2) |  | 0.0% | 0.1% |
+| 02:30 | AUD | Private House Approvals (Jun) |  |  | 2.8% |
+| 03:30 | SGD | Unemployment Rate (Q2) |  |  | 2.0% |
+| 04:35 | JPY | 2-Year JGB Auction |  |  | 1.407% |
+| 04:35 | JPY | 30-Year JGB Auction |  |  | 3.993% |
+| 06:00 | JPY | Household Confidence (Jul) |  | 34.2 | 33.8 |
+| 07:45 | EUR | French Non-Farm Payrolls (QoQ) (Q2) |  |  | 0.0% |
+| 08:00 | EUR | Core CPI (YoY) (Jul) |  |  | 2.9% |
+| 08:00 | EUR | Spanish CPI (MoM) (Jul) |  | 0.2% | 0.6% |
+| 08:00 | EUR | Spanish GDP (YoY) (Q2) |  | 2.5% | 2.7% |
+| 08:00 | EUR | Spanish HICP (MoM) (Jul) |  | -0.2% | 0.6% |
+| 09:00 | EUR | Italian GDP (QoQ) (Q2) |  | 0.1% | 0.3% |
+| 09:00 | EUR | Italian GDP (YoY) (Q2) |  | 0.7% | 0.8% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Jul) |  |  | -0.2% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jul) |  |  | 2.1% |
+| 09:00 | EUR | Bavaria CPI (YoY) (Jul) |  |  | 2.5% |
+| 09:00 | EUR | Bavaria CPI (MoM) (Jul) |  |  | -0.2% |
+| 09:00 | EUR | Brandenburg CPI (YoY) (Jul) |  |  | 2.4% |
+| 09:00 | EUR | Brandenburg CPI (MoM) (Jul) |  |  | -0.2% |
+| 09:00 | EUR | Hesse CPI (MoM) (Jul) |  |  | -0.2% |
+| 09:00 | EUR | Hesse CPI (YoY) (Jul) |  |  | 2.3% |
+| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Jul) |  |  | -0.4% |
+| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Jul) |  |  | 2.1% |
+| 09:00 | EUR | Saxony CPI (YoY) (Jul) |  |  | 2.3% |
+| 09:00 | EUR | Saxony CPI (MoM) (Jul) |  |  | -0.3% |
+| 10:00 | EUR | Italian Monthly Unemployment Rate (Jun) |  | 5.0% | 5.0% |
+| 10:00 | EUR | Business and Consumer Survey (Jul) |  | 96.0 | 95.0 |
+| 10:00 | EUR | Business Climate (Jul) |  |  | -0.38 |
+| 10:00 | EUR | Consumer Confidence (Jul) |  | -15.9 | -15.9 |
+| 10:00 | EUR | Consumer Inflation Expectation (Jul) |  |  | 34.0 |
+| 10:00 | EUR | Selling Price Expectations (Jul) |  |  | 22.3 |
+| 10:00 | EUR | Services Sentiment (Jul) |  | 3.8 | 3.2 |
+| 10:00 | EUR | Industrial Sentiment (Jul) |  | -7.0 | -7.7 |
+| 10:10 | EUR | Italian 15-Year BTP Auction |  |  | 4.23% |
+| 10:10 | EUR | Italian 5-Year BTP Auction |  |  | 3.03% |
+| 10:30 | ZAR | PPI (MoM) (Jun) |  |  | 2.6% |
+| 10:30 | ZAR | PPI (YoY) (Jun) |  |  | 7.8% |
+| 11:00 | EUR | Italian PPI (MoM) (Jun) |  |  | -0.2% |
+| 11:00 | EUR | Italian PPI (YoY) (Jun) |  |  | 7.3% |
+| 11:00 | EUR | Spanish Business Confidence (Jul) |  |  | -2.4 |
+| 12:00 | BRL | IGP-M Inflation Index (MoM) (Jul) |  | -1.07% | -0.50% |
+| 12:30 | BRL | Bank lending (MoM) (Jun) |  |  | 0.6% |
+| 13:00 | EUR | German HICP (MoM) (Jul) |  | 0.8% | -0.2% |
+| 13:00 | EUR | German HICP (YoY) (Jul) |  | 2.8% | 2.4% |
+| 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
+| 13:30 | USD | GDP Sales (Q2) |  |  | 1.9% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 207.50K |
+| 13:30 | USD | PCE Prices (Q2) |  |  | 4.6% |
+| 13:30 | USD | Personal Income (MoM) (Jun) |  | 0.3% | 0.7% |
+| 13:30 | USD | Real Consumer Spending (Q2) |  |  | 0.5% |
+| 13:30 | USD | Real Personal Consumption (MoM) (Jun) |  |  | 0.3% |
+| 13:30 | CAD | Average Weekly Earnings (YoY) (May) |  |  | 3.85% |
+| 15:00 | USD | Dallas Fed PCE (Jun) |  |  | 2.80% |
+| 15:30 | USD | Natural Gas Storage |  | 37B | 32B |
+| 16:30 | USD | 4-Week Bill Auction |  |  | 3.730% |
+| 16:30 | USD | 8-Week Bill Auction |  |  | 3.795% |
+| 18:04 | ZAR | Budget Balance (MoM) (Jun) |  |  | -14.62B |
+| 18:30 | BRL | CAGED Net Payroll Jobs (Jun) |  |  | 72.96K |
+| 20:00 | MXN | Fiscal Balance (Jun) |  |  | -176.15B |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.064T |
