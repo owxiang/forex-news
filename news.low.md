@@ -7,11 +7,11 @@
 | 02:30 | AUD | Monthly CPI Indicator (YoY) (Jun) | 3.80% | 4.00% | 4.00% |
 | 02:30 | AUD | Weighted mean CPI (YoY) (Q2) | 3.6% |  | 3.5% |
 | 02:30 | AUD | Weighted mean CPI (QoQ) (Q2) | 0.7% |  | 0.9% |
-| 07:00 | EUR | German Import Price Index (MoM) (Jun) |  | -0.7% | 0.7% |
-| 07:00 | EUR | German Import Price Index (YoY) (Jun) |  | 6.0% | 6.8% |
-| 07:00 | NOK | Core Retail Sales (MoM) (Jun) |  |  | -2.1% |
-| 07:00 | ZAR | M3 Money Supply (YoY) (Jun) |  |  | 9.59% |
-| 07:00 | ZAR | Private Sector Credit (Jun) |  |  | 8.57% |
+| 07:00 | EUR | German Import Price Index (MoM) (Jun) | -0.7% | -0.7% | 0.7% |
+| 07:00 | EUR | German Import Price Index (YoY) (Jun) | 6.1% | 6.0% | 6.8% |
+| 07:00 | NOK | Core Retail Sales (MoM) (Jun) | 1.8% |  | -2.1% |
+| 07:00 | ZAR | M3 Money Supply (YoY) (Jun) | 9.31% |  | 9.59% |
+| 07:00 | ZAR | Private Sector Credit (Jun) | 7.80% |  | 8.57% |
 | 09:00 | EUR | Italian Industrial Sales (MoM) (May) |  |  | 0.30% |
 | 09:00 | EUR | Italian Industrial Sales (YoY) (May) |  |  | 3.20% |
 | 09:00 | CHF | ZEW Expectations (Jul) |  |  | -25.0 |

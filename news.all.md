@@ -10,11 +10,11 @@
 | 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (Jun) | 3.80% | 4.00% | 4.00% |
 | 02:30 | AUD | Low | Weighted mean CPI (YoY) (Q2) | 3.6% |  | 3.5% |
 | 02:30 | AUD | Low | Weighted mean CPI (QoQ) (Q2) | 0.7% |  | 0.9% |
-| 07:00 | EUR | Low | German Import Price Index (MoM) (Jun) |  | -0.7% | 0.7% |
-| 07:00 | EUR | Low | German Import Price Index (YoY) (Jun) |  | 6.0% | 6.8% |
-| 07:00 | NOK | Low | Core Retail Sales (MoM) (Jun) |  |  | -2.1% |
-| 07:00 | ZAR | Low | M3 Money Supply (YoY) (Jun) |  |  | 9.59% |
-| 07:00 | ZAR | Low | Private Sector Credit (Jun) |  |  | 8.57% |
+| 07:00 | EUR | Low | German Import Price Index (MoM) (Jun) | -0.7% | -0.7% | 0.7% |
+| 07:00 | EUR | Low | German Import Price Index (YoY) (Jun) | 6.1% | 6.0% | 6.8% |
+| 07:00 | NOK | Low | Core Retail Sales (MoM) (Jun) | 1.8% |  | -2.1% |
+| 07:00 | ZAR | Low | M3 Money Supply (YoY) (Jun) | 9.31% |  | 9.59% |
+| 07:00 | ZAR | Low | Private Sector Credit (Jun) | 7.80% |  | 8.57% |
 | 09:00 | EUR | Low | Italian Industrial Sales (MoM) (May) |  |  | 0.30% |
 | 09:00 | EUR | Low | Italian Industrial Sales (YoY) (May) |  |  | 3.20% |
 | 09:00 | CHF | Low | ZEW Expectations (Jul) |  |  | -25.0 |
@@ -32,7 +32,7 @@
 | 12:00 | USD | Low | Mortgage Market Index |  |  | 264.0 |
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 802.3 |
 | 12:30 | INR | Low | M3 Money Supply |  |  | 12.5% |
-| 15:30 | USD | High | Crude Oil Inventories |  | -1.700M | 2.010M |
+| 15:30 | USD | High | Crude Oil Inventories |  | 0.700M | 2.010M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.058M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 0.485M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.674M |
