@@ -36,5 +36,5 @@
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 1.1% |  | -0.1% |
 | 15:30 | USD | Gasoline Inventories | 0.007M | 0.700M | 0.765M |
 | 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
-| 18:30 | BRL | CAGED Net Payroll Jobs (Jun) |  |  | 72.96K |
-| 18:30 | BRL | Foreign Exchange Flows |  |  | 0.134B |
+| 18:30 | BRL | CAGED Net Payroll Jobs (Jun) | 145.16K | 115.00K | 72.96K |
+| 18:30 | BRL | Foreign Exchange Flows | -1.065B |  | 0.134B |
