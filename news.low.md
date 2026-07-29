@@ -20,20 +20,21 @@
 | 09:30 | GBP | M4 Money Supply (MoM) (Jun) | 0.8% | 0.2% | 0.1% |
 | 09:30 | GBP | Mortgage Approvals (Jun) | 58.20K | 57.00K | 56.57K |
 | 09:30 | GBP | Mortgage Lending (Jun) | 7.73B | 3.95B | 3.27B |
-| 09:30 | GBP | Net Lending to Individuals (Jun) | 9.500B | 5.500B | 4.600B |
+| 09:30 | GBP | Net Lending to Individuals (Jun) | 9.500B | 5.500B | 5.000B |
 | 10:30 | EUR | Italian 6-Month BOT Auction | 2.567% |  | 2.479% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate | 6.76% |  | 6.69% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) | -6.4% |  | 1.9% |
 | 12:00 | USD | MBA Purchase Index | 159.8 |  | 165.8 |
 | 12:00 | USD | Mortgage Market Index | 247.2 |  | 264.0 |
 | 12:00 | USD | Mortgage Refinance Index | 723.1 |  | 802.3 |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.058M |
-| 15:30 | USD | Crude Oil Imports |  |  | 0.485M |
-| 15:30 | USD | Distillate Fuel Production |  |  | 0.090M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  | 0.500M | 1.395M |
-| 15:30 | USD | Gasoline Production |  |  | 0.060M |
-| 15:30 | USD | Heating Oil Stockpiles |  |  | 0.231M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.1% |
-| 15:30 | USD | Gasoline Inventories |  | -1.710M | 0.765M |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) | 0.271M |  | -0.058M |
+| 15:30 | USD | Crude Oil Imports | -0.237M |  | 0.485M |
+| 15:30 | USD | Distillate Fuel Production | 0.015M |  | 0.090M |
+| 15:30 | USD | EIA Weekly Distillates Stocks | 1.062M | 0.200M | 1.395M |
+| 15:30 | USD | Gasoline Production | 0.178M |  | 0.060M |
+| 15:30 | USD | Heating Oil Stockpiles | 0.308M |  | 0.231M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 1.1% |  | -0.1% |
+| 15:30 | USD | Gasoline Inventories | 0.007M | 0.700M | 0.765M |
 | 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
+| 18:30 | BRL | CAGED Net Payroll Jobs (Jun) |  |  | 72.96K |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | 0.134B |
