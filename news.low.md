@@ -47,22 +47,23 @@
 | 11:00 | EUR | Italian PPI (YoY) (Jun) | 5.8% |  | 7.3% |
 | 12:00 | EUR | Spanish Business Confidence (Jul) | -2.6 |  | -2.4 |
 | 12:00 | BRL | IGP-M Inflation Index (MoM) (Jul) | -1.16% | -1.09% | -0.50% |
-| 12:30 | BRL | Bank lending (MoM) (Jun) |  |  | 0.6% |
-| 13:00 | EUR | German HICP (MoM) (Jul) |  | 0.8% | -0.2% |
-| 13:00 | EUR | German HICP (YoY) (Jul) |  | 2.8% | 2.4% |
+| 12:30 | BRL | Bank lending (MoM) (Jun) | 0.7% |  | 0.6% |
+| 13:00 | EUR | German HICP (MoM) (Jul) | 0.9% | 0.8% | -0.2% |
+| 13:00 | EUR | German HICP (YoY) (Jul) | 2.8% | 2.8% | 2.4% |
 | 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
-| 13:30 | USD | GDP Sales (Q2) |  |  | 1.9% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 207.50K |
-| 13:30 | USD | PCE Prices (Q2) |  |  | 4.6% |
-| 13:30 | USD | Personal Income (MoM) (Jun) |  | 0.3% | 0.7% |
-| 13:30 | USD | Real Consumer Spending (Q2) |  |  | 0.5% |
-| 13:30 | USD | Real Personal Consumption (MoM) (Jun) |  |  | 0.3% |
-| 13:30 | CAD | Average Weekly Earnings (YoY) (May) |  |  | 3.85% |
-| 15:00 | USD | Dallas Fed PCE (Jun) |  |  | 2.80% |
+| 13:00 | BRL | Federal Tax Revenue (Jun) | 264.44B |  | 266.79B |
+| 13:00 | ZAR | Budget Balance (MoM) (Jun) | 80.13B |  | -14.62B |
+| 13:30 | USD | GDP Sales (Q2) | 2.2% |  | 1.9% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 202.75K |  | 207.75K |
+| 13:30 | USD | PCE Prices (Q2) | 5.1% |  | 4.6% |
+| 13:30 | USD | Personal Income (MoM) (Jun) | 0.2% | 0.3% | 0.7% |
+| 13:30 | USD | Real Consumer Spending (Q2) | 3.2% |  | 0.5% |
+| 13:30 | USD | Real Personal Consumption (MoM) (Jun) | 0.4% |  | 0.4% |
+| 13:30 | CAD | Average Weekly Earnings (YoY) (May) | 3.45% |  | 3.67% |
+| 15:30 | USD | Dallas Fed PCE (Jun) |  |  | 2.80% |
 | 15:30 | USD | Natural Gas Storage |  | 37B | 32B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.730% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 3.795% |
-| 18:04 | ZAR | Budget Balance (MoM) (Jun) |  |  | -14.62B |
 | 18:30 | BRL | CAGED Net Payroll Jobs (Jun) |  |  | 72.96K |
 | 20:00 | MXN | Fiscal Balance (Jun) |  |  | -176.15B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.064T |

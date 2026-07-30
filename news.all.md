@@ -67,39 +67,40 @@
 | 12:00 | EUR | Low | Spanish Business Confidence (Jul) | -2.6 |  | -2.4 |
 | 12:00 | BRL | Low | IGP-M Inflation Index (MoM) (Jul) | -1.16% | -1.09% | -0.50% |
 | 12:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 12:30 | BRL | Low | Bank lending (MoM) (Jun) |  |  | 0.6% |
-| 13:00 | MXN | Moderate | GDP (YoY) (Q2) |  | 1.5% | 0.2% |
-| 13:00 | MXN | Moderate | GDP (QoQ) (Q2) |  | 1.3% | -0.6% |
-| 13:00 | EUR | High | German CPI (MoM) (Jul) |  | 0.7% | -0.3% |
-| 13:00 | EUR | Moderate | German CPI (YoY) (Jul) |  | 2.7% | 2.3% |
-| 13:00 | EUR | Low | German HICP (MoM) (Jul) |  | 0.8% | -0.2% |
-| 13:00 | EUR | Low | German HICP (YoY) (Jul) |  | 2.8% | 2.4% |
+| 12:30 | BRL | Low | Bank lending (MoM) (Jun) | 0.7% |  | 0.6% |
+| 13:00 | MXN | Moderate | GDP (YoY) (Q2) | 2.2% | 1.5% | 0.2% |
+| 13:00 | MXN | Moderate | GDP (QoQ) (Q2) | 1.5% | 1.3% | -0.6% |
+| 13:00 | EUR | High | German CPI (MoM) (Jul) | 0.8% | 0.7% | -0.3% |
+| 13:00 | EUR | Moderate | German CPI (YoY) (Jul) | 2.8% | 2.7% | 2.3% |
+| 13:00 | EUR | Low | German HICP (MoM) (Jul) | 0.9% | 0.8% | -0.2% |
+| 13:00 | EUR | Low | German HICP (YoY) (Jul) | 2.8% | 2.8% | 2.4% |
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 13:00 | BRL | Moderate | Unemployment Rate (Jun) |  | 5.4% | 5.6% |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,800K | 1,796K |
-| 13:30 | USD | High | Core PCE Price Index (MoM) (Jun) |  | 0.2% | 0.3% |
-| 13:30 | USD | High | Core PCE Price Index (YoY) (Jun) |  | 3.3% | 3.4% |
-| 13:30 | USD | Moderate | Core PCE Prices (Q2) |  | 3.50% | 4.40% |
-| 13:30 | USD | High | GDP (QoQ) (Q2) |  | 2.1% | 2.1% |
-| 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q2) |  | 4.1% | 3.6% |
-| 13:30 | USD | Low | GDP Sales (Q2) |  |  | 1.9% |
-| 13:30 | USD | High | Initial Jobless Claims |  | 201K | 187K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 207.50K |
-| 13:30 | USD | Moderate | PCE price index (MoM) (Jun) |  | -0.1% | 0.4% |
-| 13:30 | USD | Moderate | PCE Price index (YoY) (Jun) |  | 3.7% | 4.1% |
-| 13:30 | USD | Low | PCE Prices (Q2) |  |  | 4.6% |
-| 13:30 | USD | Low | Personal Income (MoM) (Jun) |  | 0.3% | 0.7% |
-| 13:30 | USD | Moderate | Personal Spending (MoM) (Jun) |  | 0.4% | 0.7% |
-| 13:30 | USD | Low | Real Consumer Spending (Q2) |  |  | 0.5% |
-| 13:30 | USD | Low | Real Personal Consumption (MoM) (Jun) |  |  | 0.3% |
-| 13:30 | CAD | Low | Average Weekly Earnings (YoY) (May) |  |  | 3.85% |
+| 13:00 | BRL | Low | Federal Tax Revenue (Jun) | 264.44B |  | 266.79B |
+| 13:00 | BRL | Moderate | Unemployment Rate (Jun) | 5.4% | 5.4% | 5.6% |
+| 13:00 | ZAR | Low | Budget Balance (MoM) (Jun) | 80.13B |  | -14.62B |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,782K | 1,800K | 1,789K |
+| 13:30 | USD | High | Core PCE Price Index (MoM) (Jun) | 0.1% | 0.2% | 0.3% |
+| 13:30 | USD | High | Core PCE Price Index (YoY) (Jun) | 3.3% | 3.3% | 3.4% |
+| 13:30 | USD | Moderate | Core PCE Prices (Q2) | 3.40% | 3.50% | 4.40% |
+| 13:30 | USD | High | GDP (QoQ) (Q2) | 1.5% | 2.1% | 2.1% |
+| 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q2) | 6.3% | 4.1% | 3.6% |
+| 13:30 | USD | Low | GDP Sales (Q2) | 2.2% |  | 1.9% |
+| 13:30 | USD | High | Initial Jobless Claims | 197K | 201K | 188K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 202.75K |  | 207.75K |
+| 13:30 | USD | Moderate | PCE price index (MoM) (Jun) | -0.1% | -0.1% | 0.5% |
+| 13:30 | USD | Moderate | PCE Price index (YoY) (Jun) | 3.7% | 3.7% | 4.1% |
+| 13:30 | USD | Low | PCE Prices (Q2) | 5.1% |  | 4.6% |
+| 13:30 | USD | Low | Personal Income (MoM) (Jun) | 0.2% | 0.3% | 0.7% |
+| 13:30 | USD | Moderate | Personal Spending (MoM) (Jun) | 0.3% | 0.4% | 0.9% |
+| 13:30 | USD | Low | Real Consumer Spending (Q2) | 3.2% |  | 0.5% |
+| 13:30 | USD | Low | Real Personal Consumption (MoM) (Jun) | 0.4% |  | 0.4% |
+| 13:30 | CAD | Low | Average Weekly Earnings (YoY) (May) | 3.45% |  | 3.67% |
 | 14:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 15:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  |  |  |
-| 15:00 | USD | Low | Dallas Fed PCE (Jun) |  |  | 2.80% |
+| 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  |  |  |
+| 15:30 | USD | Low | Dallas Fed PCE (Jun) |  |  | 2.80% |
 | 15:30 | USD | Low | Natural Gas Storage |  | 37B | 32B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.730% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.795% |
-| 18:04 | ZAR | Low | Budget Balance (MoM) (Jun) |  |  | -14.62B |
 | 18:30 | BRL | Low | CAGED Net Payroll Jobs (Jun) |  |  | 72.96K |
 | 20:00 | MXN | Low | Fiscal Balance (Jun) |  |  | -176.15B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,747B |

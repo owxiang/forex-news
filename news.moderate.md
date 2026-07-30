@@ -20,16 +20,16 @@
 | 12:00 | GBP | BoE MPC vote unchanged (Jul) | 6 | 7 | 7 |
 | 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
 | 12:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 13:00 | MXN | GDP (YoY) (Q2) |  | 1.5% | 0.2% |
-| 13:00 | MXN | GDP (QoQ) (Q2) |  | 1.3% | -0.6% |
-| 13:00 | EUR | German CPI (YoY) (Jul) |  | 2.7% | 2.3% |
-| 13:00 | BRL | Unemployment Rate (Jun) |  | 5.4% | 5.6% |
-| 13:30 | USD | Continuing Jobless Claims |  | 1,800K | 1,796K |
-| 13:30 | USD | Core PCE Prices (Q2) |  | 3.50% | 4.40% |
-| 13:30 | USD | GDP Price Index (QoQ) (Q2) |  | 4.1% | 3.6% |
-| 13:30 | USD | PCE price index (MoM) (Jun) |  | -0.1% | 0.4% |
-| 13:30 | USD | PCE Price index (YoY) (Jun) |  | 3.7% | 4.1% |
-| 13:30 | USD | Personal Spending (MoM) (Jun) |  | 0.4% | 0.7% |
+| 13:00 | MXN | GDP (YoY) (Q2) | 2.2% | 1.5% | 0.2% |
+| 13:00 | MXN | GDP (QoQ) (Q2) | 1.5% | 1.3% | -0.6% |
+| 13:00 | EUR | German CPI (YoY) (Jul) | 2.8% | 2.7% | 2.3% |
+| 13:00 | BRL | Unemployment Rate (Jun) | 5.4% | 5.4% | 5.6% |
+| 13:30 | USD | Continuing Jobless Claims | 1,782K | 1,800K | 1,789K |
+| 13:30 | USD | Core PCE Prices (Q2) | 3.40% | 3.50% | 4.40% |
+| 13:30 | USD | GDP Price Index (QoQ) (Q2) | 6.3% | 4.1% | 3.6% |
+| 13:30 | USD | PCE price index (MoM) (Jun) | -0.1% | -0.1% | 0.5% |
+| 13:30 | USD | PCE Price index (YoY) (Jun) | 3.7% | 3.7% | 4.1% |
+| 13:30 | USD | Personal Spending (MoM) (Jun) | 0.3% | 0.4% | 0.9% |
 | 14:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 15:00 | USD | Atlanta Fed GDPNow (Q3) |  |  |  |
+| 15:30 | USD | Atlanta Fed GDPNow (Q3) |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,747B |
