@@ -101,6 +101,6 @@
 | 15:30 | USD | Low | Natural Gas Storage | 28B | 37B | 32B |
 | 16:30 | USD | Low | 4-Week Bill Auction | 3.630% |  | 3.730% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 3.675% |  | 3.795% |
-| 41 min | MXN | Low | Fiscal Balance (Jun) |  |  | -176.15B |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,747B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.064T |
+| 20:40 | MXN | Low | Fiscal Balance (Jun) | -168.14B |  | -176.15B |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,738B |  | 6,747B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 2.944T |  | 3.064T |
