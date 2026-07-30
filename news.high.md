@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 09:00 | EUR | German GDP (QoQ) (Q2) |  | 0.1% | 0.3% |
+| 09:00 | EUR | German GDP (QoQ) (Q2) | 0.2% | 0.1% | 0.3% |
 | 12:00 | GBP | BoE Interest Rate Decision (Jul) |  | 3.75% | 3.75% |
 | 13:00 | EUR | German CPI (MoM) (Jul) |  | 0.7% | -0.3% |
 | 13:30 | USD | Core PCE Price Index (MoM) (Jun) |  | 0.2% | 0.3% |

@@ -12,25 +12,25 @@
 | 02:30 | AUD | Private House Approvals (Jun) | 0.4% |  | 2.8% |
 | 04:35 | JPY | 2-Year JGB Auction | 1.483% |  | 1.407% |
 | 06:00 | JPY | Household Confidence (Jul) | 34.9 | 34.2 | 33.8 |
-| 07:45 | EUR | French Non-Farm Payrolls (QoQ) (Q2) |  | -0.1% | 0.0% |
-| 08:00 | EUR | Core CPI (YoY) (Jul) |  |  | 2.9% |
-| 08:00 | EUR | Spanish CPI (MoM) (Jul) |  | 0.2% | 0.6% |
-| 08:00 | EUR | Spanish GDP (YoY) (Q2) |  | 2.5% | 2.7% |
-| 08:00 | EUR | Spanish HICP (MoM) (Jul) |  | -0.2% | 0.6% |
-| 09:00 | EUR | Italian GDP (QoQ) (Q2) |  | 0.1% | 0.3% |
-| 09:00 | EUR | Italian GDP (YoY) (Q2) |  | 0.7% | 0.8% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Jul) |  |  | -0.2% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jul) |  |  | 2.1% |
-| 09:00 | EUR | Bavaria CPI (YoY) (Jul) |  |  | 2.5% |
-| 09:00 | EUR | Bavaria CPI (MoM) (Jul) |  |  | -0.2% |
-| 09:00 | EUR | Brandenburg CPI (YoY) (Jul) |  |  | 2.4% |
-| 09:00 | EUR | Brandenburg CPI (MoM) (Jul) |  |  | -0.2% |
-| 09:00 | EUR | Hesse CPI (MoM) (Jul) |  |  | -0.2% |
-| 09:00 | EUR | Hesse CPI (YoY) (Jul) |  |  | 2.3% |
-| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Jul) |  |  | -0.4% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Jul) |  |  | 2.1% |
-| 09:00 | EUR | Saxony CPI (YoY) (Jul) |  |  | 2.3% |
-| 09:00 | EUR | Saxony CPI (MoM) (Jul) |  |  | -0.3% |
+| 07:45 | EUR | French Non-Farm Payrolls (QoQ) (Q2) | -0.1% | -0.1% | 0.0% |
+| 08:00 | EUR | Core CPI (YoY) (Jul) | 3.0% |  | 2.9% |
+| 08:00 | EUR | Spanish CPI (MoM) (Jul) | 0.2% | 0.2% | 0.6% |
+| 08:00 | EUR | Spanish GDP (YoY) (Q2) | 2.7% | 2.5% | 2.7% |
+| 08:00 | EUR | Spanish HICP (MoM) (Jul) | -0.1% | -0.2% | 0.6% |
+| 09:00 | EUR | Italian GDP (QoQ) (Q2) | 0.2% | 0.1% | 0.3% |
+| 09:00 | EUR | Italian GDP (YoY) (Q2) | 1.0% | 0.7% | 0.8% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Jul) | 0.8% |  | -0.2% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jul) | 2.5% |  | 2.1% |
+| 09:00 | EUR | Bavaria CPI (YoY) (Jul) | 2.8% |  | 2.5% |
+| 09:00 | EUR | Bavaria CPI (MoM) (Jul) | 0.6% |  | -0.2% |
+| 09:00 | EUR | Brandenburg CPI (YoY) (Jul) | 2.7% |  | 2.4% |
+| 09:00 | EUR | Brandenburg CPI (MoM) (Jul) | 0.7% |  | -0.2% |
+| 09:00 | EUR | Hesse CPI (MoM) (Jul) | 0.7% |  | -0.2% |
+| 09:00 | EUR | Hesse CPI (YoY) (Jul) | 2.7% |  | 2.3% |
+| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Jul) | 0.9% |  | -0.4% |
+| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Jul) | 2.7% |  | 2.1% |
+| 09:00 | EUR | Saxony CPI (YoY) (Jul) | 2.8% |  | 2.3% |
+| 09:00 | EUR | Saxony CPI (MoM) (Jul) | 0.7% |  | -0.3% |
 | 10:00 | EUR | Italian Monthly Unemployment Rate (Jun) |  | 5.0% | 5.0% |
 | 10:00 | EUR | Business and Consumer Survey (Jul) |  | 96.0 | 95.0 |
 | 10:00 | EUR | Business Climate (Jul) |  |  | -0.38 |

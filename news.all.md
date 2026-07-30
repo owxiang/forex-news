@@ -16,31 +16,31 @@
 | 06:30 | EUR | Moderate | French Consumer Spending (MoM) (Jun) | 0.4% | -0.1% | 0.3% |
 | 06:30 | EUR | Moderate | French GDP (QoQ) (Q2) | 0.2% | 0.2% | -0.1% |
 | 06:30 | EUR | Moderate | French GDP (YoY) (Q2) | 0.7% | 0.8% | 0.8% |
-| 07:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q2) |  | -0.1% | 0.0% |
-| 08:00 | CHF | Moderate | KOF Leading Indicators (Jul) |  | 100.9 | 101.2 |
-| 08:00 | EUR | Low | Core CPI (YoY) (Jul) |  |  | 2.9% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Jul) |  | 0.2% | 0.6% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jul) |  | 3.2% | 3.2% |
-| 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q2) |  | 0.6% | 0.6% |
-| 08:00 | EUR | Low | Spanish GDP (YoY) (Q2) |  | 2.5% | 2.7% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Jul) |  | -0.2% | 0.6% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jul) |  | 3.7% | 3.6% |
-| 09:00 | EUR | Low | Italian GDP (QoQ) (Q2) |  | 0.1% | 0.3% |
-| 09:00 | EUR | Low | Italian GDP (YoY) (Q2) |  | 0.7% | 0.8% |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Jul) |  |  | -0.2% |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Jul) |  |  | 2.1% |
-| 09:00 | EUR | Low | Bavaria CPI (YoY) (Jul) |  |  | 2.5% |
-| 09:00 | EUR | Low | Bavaria CPI (MoM) (Jul) |  |  | -0.2% |
-| 09:00 | EUR | Low | Brandenburg CPI (YoY) (Jul) |  |  | 2.4% |
-| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Jul) |  |  | -0.2% |
-| 09:00 | EUR | High | German GDP (QoQ) (Q2) |  | 0.1% | 0.3% |
-| 09:00 | EUR | Moderate | German GDP (YoY) (Q2) |  | 0.6% | 0.4% |
-| 09:00 | EUR | Low | Hesse CPI (MoM) (Jul) |  |  | -0.2% |
-| 09:00 | EUR | Low | Hesse CPI (YoY) (Jul) |  |  | 2.3% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Jul) |  |  | -0.4% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Jul) |  |  | 2.1% |
-| 09:00 | EUR | Low | Saxony CPI (YoY) (Jul) |  |  | 2.3% |
-| 09:00 | EUR | Low | Saxony CPI (MoM) (Jul) |  |  | -0.3% |
+| 07:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q2) | -0.1% | -0.1% | 0.0% |
+| 08:00 | CHF | Moderate | KOF Leading Indicators (Jul) | 103.5 | 100.9 | 102.1 |
+| 08:00 | EUR | Low | Core CPI (YoY) (Jul) | 3.0% |  | 2.9% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Jul) | 0.2% | 0.2% | 0.6% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jul) | 3.5% | 3.2% | 3.2% |
+| 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q2) | 0.7% | 0.6% | 0.6% |
+| 08:00 | EUR | Low | Spanish GDP (YoY) (Q2) | 2.7% | 2.5% | 2.7% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Jul) | -0.1% | -0.2% | 0.6% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jul) | 3.8% | 3.7% | 3.6% |
+| 09:00 | EUR | Low | Italian GDP (QoQ) (Q2) | 0.2% | 0.1% | 0.3% |
+| 09:00 | EUR | Low | Italian GDP (YoY) (Q2) | 1.0% | 0.7% | 0.8% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Jul) | 0.8% |  | -0.2% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Jul) | 2.5% |  | 2.1% |
+| 09:00 | EUR | Low | Bavaria CPI (YoY) (Jul) | 2.8% |  | 2.5% |
+| 09:00 | EUR | Low | Bavaria CPI (MoM) (Jul) | 0.6% |  | -0.2% |
+| 09:00 | EUR | Low | Brandenburg CPI (YoY) (Jul) | 2.7% |  | 2.4% |
+| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Jul) | 0.7% |  | -0.2% |
+| 09:00 | EUR | High | German GDP (QoQ) (Q2) | 0.2% | 0.1% | 0.3% |
+| 09:00 | EUR | Moderate | German GDP (YoY) (Q2) | 0.9% | 0.6% | 0.4% |
+| 09:00 | EUR | Low | Hesse CPI (MoM) (Jul) | 0.7% |  | -0.2% |
+| 09:00 | EUR | Low | Hesse CPI (YoY) (Jul) | 2.7% |  | 2.3% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Jul) | 0.9% |  | -0.4% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Jul) | 2.7% |  | 2.1% |
+| 09:00 | EUR | Low | Saxony CPI (YoY) (Jul) | 2.8% |  | 2.3% |
+| 09:00 | EUR | Low | Saxony CPI (MoM) (Jul) | 0.7% |  | -0.3% |
 | 10:00 | EUR | Low | Italian Monthly Unemployment Rate (Jun) |  | 5.0% | 5.0% |
 | 10:00 | EUR | Low | Business and Consumer Survey (Jul) |  | 96.0 | 95.0 |
 | 10:00 | EUR | Low | Business Climate (Jul) |  |  | -0.38 |
