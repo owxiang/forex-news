@@ -2,23 +2,21 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:50 | JPY | Low | Foreign Bonds Buying |  |  | -714.4B |
-| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -79.6B |
-| 02:00 | NZD | Low | ANZ Business Confidence (Jul) |  |  | 36.6 |
-| 02:00 | NZD | Low | NBNZ Own Activity (Jul) |  |  | 36.9% |
-| 02:30 | AUD | Low | Building Approvals (YoY) (Jun) |  |  | 10.30% |
-| 02:30 | AUD | Moderate | Building Approvals (MoM) (Jun) |  | -0.7% | -1.1% |
-| 02:30 | AUD | Low | Export Price Index (QoQ) (Q2) |  |  | 0.5% |
-| 02:30 | AUD | Low | Import Price Index (QoQ) (Q2) |  | 0.0% | 0.1% |
-| 02:30 | AUD | Low | Private House Approvals (Jun) |  |  | 2.8% |
-| 03:30 | SGD | Low | Unemployment Rate (Q2) |  |  | 2.0% |
-| 04:35 | JPY | Low | 2-Year JGB Auction |  |  | 1.407% |
-| 04:35 | JPY | Low | 30-Year JGB Auction |  |  | 3.993% |
-| 06:00 | JPY | Low | Household Confidence (Jul) |  | 34.2 | 33.8 |
-| 06:30 | EUR | Moderate | French Consumer Spending (MoM) (Jun) |  | -0.1% | 0.5% |
-| 06:30 | EUR | Moderate | French GDP (QoQ) (Q2) |  | 0.2% | -0.1% |
-| 06:30 | EUR | Moderate | French GDP (YoY) (Q2) |  | 0.8% | 0.9% |
-| 07:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q2) |  |  | 0.0% |
+| 00:50 | JPY | Low | Foreign Bonds Buying | -811.4B |  | -723.7B |
+| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 912.1B |  | -81.9B |
+| 02:00 | NZD | Low | ANZ Business Confidence (Jul) | 56.1 |  | 36.6 |
+| 02:00 | NZD | Low | NBNZ Own Activity (Jul) | 49.3% |  | 36.9% |
+| 02:30 | AUD | Low | Building Approvals (YoY) (Jun) | 8.90% |  | 5.50% |
+| 02:30 | AUD | Moderate | Building Approvals (MoM) (Jun) | 7.2% | -0.7% | -1.6% |
+| 02:30 | AUD | Low | Export Price Index (QoQ) (Q2) | 1.1% |  | 0.5% |
+| 02:30 | AUD | Low | Import Price Index (QoQ) (Q2) | 5.7% | 0.0% | 0.1% |
+| 02:30 | AUD | Low | Private House Approvals (Jun) | 0.4% |  | 2.8% |
+| 04:35 | JPY | Low | 2-Year JGB Auction | 1.483% |  | 1.407% |
+| 06:00 | JPY | Low | Household Confidence (Jul) | 34.9 | 34.2 | 33.8 |
+| 06:30 | EUR | Moderate | French Consumer Spending (MoM) (Jun) | 0.4% | -0.1% | 0.3% |
+| 06:30 | EUR | Moderate | French GDP (QoQ) (Q2) | 0.2% | 0.2% | -0.1% |
+| 06:30 | EUR | Moderate | French GDP (YoY) (Q2) | 0.7% | 0.8% | 0.8% |
+| 07:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q2) |  | -0.1% | 0.0% |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Jul) |  | 100.9 | 101.2 |
 | 08:00 | EUR | Low | Core CPI (YoY) (Jul) |  |  | 2.9% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Jul) |  | 0.2% | 0.6% |
@@ -67,7 +65,7 @@
 | 12:00 | GBP | Moderate | BoE MPC vote unchanged (Jul) |  | 7 | 7 |
 | 12:00 | GBP | High | BoE Interest Rate Decision (Jul) |  | 3.75% | 3.75% |
 | 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
-| 12:00 | BRL | Low | IGP-M Inflation Index (MoM) (Jul) |  | -1.07% | -0.50% |
+| 12:00 | BRL | Low | IGP-M Inflation Index (MoM) (Jul) |  | -1.09% | -0.50% |
 | 12:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 12:30 | BRL | Low | Bank lending (MoM) (Jun) |  |  | 0.6% |
 | 13:00 | MXN | Moderate | GDP (YoY) (Q2) |  | 1.5% | 0.2% |
@@ -77,12 +75,12 @@
 | 13:00 | EUR | Low | German HICP (MoM) (Jul) |  | 0.8% | -0.2% |
 | 13:00 | EUR | Low | German HICP (YoY) (Jul) |  | 2.8% | 2.4% |
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 13:00 | BRL | Moderate | Unemployment Rate (Jun) |  | 5.5% | 5.6% |
+| 13:00 | BRL | Moderate | Unemployment Rate (Jun) |  | 5.4% | 5.6% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,800K | 1,796K |
 | 13:30 | USD | High | Core PCE Price Index (MoM) (Jun) |  | 0.2% | 0.3% |
 | 13:30 | USD | High | Core PCE Price Index (YoY) (Jun) |  | 3.3% | 3.4% |
 | 13:30 | USD | Moderate | Core PCE Prices (Q2) |  | 3.50% | 4.40% |
-| 13:30 | USD | High | GDP (QoQ) (Q2) |  | 2.3% | 2.1% |
+| 13:30 | USD | High | GDP (QoQ) (Q2) |  | 2.1% | 2.1% |
 | 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q2) |  | 4.1% | 3.6% |
 | 13:30 | USD | Low | GDP Sales (Q2) |  |  | 1.9% |
 | 13:30 | USD | High | Initial Jobless Claims |  | 201K | 187K |

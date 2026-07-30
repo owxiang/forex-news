@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Building Approvals (MoM) (Jun) |  | -0.7% | -1.1% |
-| 06:30 | EUR | French Consumer Spending (MoM) (Jun) |  | -0.1% | 0.5% |
-| 06:30 | EUR | French GDP (QoQ) (Q2) |  | 0.2% | -0.1% |
-| 06:30 | EUR | French GDP (YoY) (Q2) |  | 0.8% | 0.9% |
+| 02:30 | AUD | Building Approvals (MoM) (Jun) | 7.2% | -0.7% | -1.6% |
+| 06:30 | EUR | French Consumer Spending (MoM) (Jun) | 0.4% | -0.1% | 0.3% |
+| 06:30 | EUR | French GDP (QoQ) (Q2) | 0.2% | 0.2% | -0.1% |
+| 06:30 | EUR | French GDP (YoY) (Q2) | 0.7% | 0.8% | 0.8% |
 | 08:00 | CHF | KOF Leading Indicators (Jul) |  | 100.9 | 101.2 |
 | 08:00 | EUR | Spanish CPI (YoY) (Jul) |  | 3.2% | 3.2% |
 | 08:00 | EUR | Spanish GDP (QoQ) (Q2) |  | 0.6% | 0.6% |
@@ -23,7 +23,7 @@
 | 13:00 | MXN | GDP (YoY) (Q2) |  | 1.5% | 0.2% |
 | 13:00 | MXN | GDP (QoQ) (Q2) |  | 1.3% | -0.6% |
 | 13:00 | EUR | German CPI (YoY) (Jul) |  | 2.7% | 2.3% |
-| 13:00 | BRL | Unemployment Rate (Jun) |  | 5.5% | 5.6% |
+| 13:00 | BRL | Unemployment Rate (Jun) |  | 5.4% | 5.6% |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,800K | 1,796K |
 | 13:30 | USD | Core PCE Prices (Q2) |  | 3.50% | 4.40% |
 | 13:30 | USD | GDP Price Index (QoQ) (Q2) |  | 4.1% | 3.6% |

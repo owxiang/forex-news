@@ -2,19 +2,17 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Foreign Bonds Buying |  |  | -714.4B |
-| 00:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -79.6B |
-| 02:00 | NZD | ANZ Business Confidence (Jul) |  |  | 36.6 |
-| 02:00 | NZD | NBNZ Own Activity (Jul) |  |  | 36.9% |
-| 02:30 | AUD | Building Approvals (YoY) (Jun) |  |  | 10.30% |
-| 02:30 | AUD | Export Price Index (QoQ) (Q2) |  |  | 0.5% |
-| 02:30 | AUD | Import Price Index (QoQ) (Q2) |  | 0.0% | 0.1% |
-| 02:30 | AUD | Private House Approvals (Jun) |  |  | 2.8% |
-| 03:30 | SGD | Unemployment Rate (Q2) |  |  | 2.0% |
-| 04:35 | JPY | 2-Year JGB Auction |  |  | 1.407% |
-| 04:35 | JPY | 30-Year JGB Auction |  |  | 3.993% |
-| 06:00 | JPY | Household Confidence (Jul) |  | 34.2 | 33.8 |
-| 07:45 | EUR | French Non-Farm Payrolls (QoQ) (Q2) |  |  | 0.0% |
+| 00:50 | JPY | Foreign Bonds Buying | -811.4B |  | -723.7B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks | 912.1B |  | -81.9B |
+| 02:00 | NZD | ANZ Business Confidence (Jul) | 56.1 |  | 36.6 |
+| 02:00 | NZD | NBNZ Own Activity (Jul) | 49.3% |  | 36.9% |
+| 02:30 | AUD | Building Approvals (YoY) (Jun) | 8.90% |  | 5.50% |
+| 02:30 | AUD | Export Price Index (QoQ) (Q2) | 1.1% |  | 0.5% |
+| 02:30 | AUD | Import Price Index (QoQ) (Q2) | 5.7% | 0.0% | 0.1% |
+| 02:30 | AUD | Private House Approvals (Jun) | 0.4% |  | 2.8% |
+| 04:35 | JPY | 2-Year JGB Auction | 1.483% |  | 1.407% |
+| 06:00 | JPY | Household Confidence (Jul) | 34.9 | 34.2 | 33.8 |
+| 07:45 | EUR | French Non-Farm Payrolls (QoQ) (Q2) |  | -0.1% | 0.0% |
 | 08:00 | EUR | Core CPI (YoY) (Jul) |  |  | 2.9% |
 | 08:00 | EUR | Spanish CPI (MoM) (Jul) |  | 0.2% | 0.6% |
 | 08:00 | EUR | Spanish GDP (YoY) (Q2) |  | 2.5% | 2.7% |
@@ -48,7 +46,7 @@
 | 11:00 | EUR | Italian PPI (MoM) (Jun) |  |  | -0.2% |
 | 11:00 | EUR | Italian PPI (YoY) (Jun) |  |  | 7.3% |
 | 11:00 | EUR | Spanish Business Confidence (Jul) |  |  | -2.4 |
-| 12:00 | BRL | IGP-M Inflation Index (MoM) (Jul) |  | -1.07% | -0.50% |
+| 12:00 | BRL | IGP-M Inflation Index (MoM) (Jul) |  | -1.09% | -0.50% |
 | 12:30 | BRL | Bank lending (MoM) (Jun) |  |  | 0.6% |
 | 13:00 | EUR | German HICP (MoM) (Jul) |  | 0.8% | -0.2% |
 | 13:00 | EUR | German HICP (YoY) (Jul) |  | 2.8% | 2.4% |
