@@ -96,12 +96,11 @@
 | 13:30 | USD | Low | Real Personal Consumption (MoM) (Jun) | 0.4% |  | 0.4% |
 | 13:30 | CAD | Low | Average Weekly Earnings (YoY) (May) | 3.45% |  | 3.67% |
 | 14:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  |  |  |
-| 15:30 | USD | Low | Dallas Fed PCE (Jun) |  |  | 2.80% |
-| 15:30 | USD | Low | Natural Gas Storage |  | 37B | 32B |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.730% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.795% |
-| 18:30 | BRL | Low | CAGED Net Payroll Jobs (Jun) |  |  | 72.96K |
+| 15:00 | USD | Low | Dallas Fed PCE (Jun) | 1.40% |  | 2.80% |
+| 15:20 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 5.0% |  |  |
+| 15:30 | USD | Low | Natural Gas Storage | 28B | 37B | 32B |
+| 16:30 | USD | Low | 4-Week Bill Auction | 3.630% |  | 3.730% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 3.675% |  | 3.795% |
 | 20:00 | MXN | Low | Fiscal Balance (Jun) |  |  | -176.15B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,747B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.064T |

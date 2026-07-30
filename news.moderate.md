@@ -31,5 +31,5 @@
 | 13:30 | USD | PCE Price index (YoY) (Jun) | 3.7% | 3.7% | 4.1% |
 | 13:30 | USD | Personal Spending (MoM) (Jun) | 0.3% | 0.4% | 0.9% |
 | 14:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 15:30 | USD | Atlanta Fed GDPNow (Q3) |  |  |  |
+| 15:20 | USD | Atlanta Fed GDPNow (Q3) | 5.0% |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,747B |

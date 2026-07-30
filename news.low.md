@@ -60,10 +60,9 @@
 | 13:30 | USD | Real Consumer Spending (Q2) | 3.2% |  | 0.5% |
 | 13:30 | USD | Real Personal Consumption (MoM) (Jun) | 0.4% |  | 0.4% |
 | 13:30 | CAD | Average Weekly Earnings (YoY) (May) | 3.45% |  | 3.67% |
-| 15:30 | USD | Dallas Fed PCE (Jun) |  |  | 2.80% |
-| 15:30 | USD | Natural Gas Storage |  | 37B | 32B |
-| 16:30 | USD | 4-Week Bill Auction |  |  | 3.730% |
-| 16:30 | USD | 8-Week Bill Auction |  |  | 3.795% |
-| 18:30 | BRL | CAGED Net Payroll Jobs (Jun) |  |  | 72.96K |
+| 15:00 | USD | Dallas Fed PCE (Jun) | 1.40% |  | 2.80% |
+| 15:30 | USD | Natural Gas Storage | 28B | 37B | 32B |
+| 16:30 | USD | 4-Week Bill Auction | 3.630% |  | 3.730% |
+| 16:30 | USD | 8-Week Bill Auction | 3.675% |  | 3.795% |
 | 20:00 | MXN | Fiscal Balance (Jun) |  |  | -176.15B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.064T |
