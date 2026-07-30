@@ -64,5 +64,5 @@
 | 15:30 | USD | Natural Gas Storage | 28B | 37B | 32B |
 | 16:30 | USD | 4-Week Bill Auction | 3.630% |  | 3.730% |
 | 16:30 | USD | 8-Week Bill Auction | 3.675% |  | 3.795% |
-| 20:00 | MXN | Fiscal Balance (Jun) |  |  | -176.15B |
+| 41 min | MXN | Fiscal Balance (Jun) |  |  | -176.15B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.064T |
