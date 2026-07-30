@@ -41,31 +41,31 @@
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Jul) | 2.7% |  | 2.1% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Jul) | 2.8% |  | 2.3% |
 | 09:00 | EUR | Low | Saxony CPI (MoM) (Jul) | 0.7% |  | -0.3% |
-| 10:00 | EUR | Low | Italian Monthly Unemployment Rate (Jun) |  | 5.0% | 5.0% |
-| 10:00 | EUR | Low | Business and Consumer Survey (Jul) |  | 96.0 | 95.0 |
-| 10:00 | EUR | Low | Business Climate (Jul) |  |  | -0.38 |
-| 10:00 | EUR | Low | Consumer Confidence (Jul) |  | -15.9 | -15.9 |
-| 10:00 | EUR | Low | Consumer Inflation Expectation (Jul) |  |  | 34.0 |
-| 10:00 | EUR | Low | Selling Price Expectations (Jul) |  |  | 22.3 |
-| 10:00 | EUR | Low | Services Sentiment (Jul) |  | 3.8 | 3.2 |
-| 10:00 | EUR | Moderate | GDP (QoQ) (Q2) |  | 0.2% | -0.2% |
-| 10:00 | EUR | Moderate | GDP (YoY) (Q2) |  | 0.5% | 0.3% |
-| 10:00 | EUR | Low | Industrial Sentiment (Jul) |  | -7.0 | -7.7 |
-| 10:00 | EUR | Moderate | Unemployment Rate (Jun) |  | 6.2% | 6.2% |
-| 10:10 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 3.63% |
-| 10:10 | EUR | Low | Italian 15-Year BTP Auction |  |  | 4.23% |
-| 10:10 | EUR | Low | Italian 5-Year BTP Auction |  |  | 3.03% |
-| 10:30 | ZAR | Low | PPI (MoM) (Jun) |  |  | 2.6% |
-| 10:30 | ZAR | Low | PPI (YoY) (Jun) |  |  | 7.8% |
-| 11:00 | EUR | Low | Italian PPI (MoM) (Jun) |  |  | -0.2% |
-| 11:00 | EUR | Low | Italian PPI (YoY) (Jun) |  |  | 7.3% |
-| 11:00 | EUR | Low | Spanish Business Confidence (Jul) |  |  | -2.4 |
-| 12:00 | GBP | Moderate | BoE MPC vote cut (Jul) |  | 0 | 0 |
-| 12:00 | GBP | Moderate | BoE MPC vote hike (Jul) |  | 2 | 2 |
-| 12:00 | GBP | Moderate | BoE MPC vote unchanged (Jul) |  | 7 | 7 |
-| 12:00 | GBP | High | BoE Interest Rate Decision (Jul) |  | 3.75% | 3.75% |
+| 10:00 | EUR | Low | Italian Monthly Unemployment Rate (Jun) | 5.7% | 5.0% | 5.3% |
+| 10:00 | EUR | Low | Business and Consumer Survey (Jul) | 96.9 | 96.0 | 95.4 |
+| 10:00 | EUR | Low | Business Climate (Jul) | -0.19 |  | -0.36 |
+| 10:00 | EUR | Low | Consumer Confidence (Jul) | -15.9 | -15.9 | -15.9 |
+| 10:00 | EUR | Low | Consumer Inflation Expectation (Jul) | 30.3 |  | 34.0 |
+| 10:00 | EUR | Low | Selling Price Expectations (Jul) | 17.7 |  | 22.3 |
+| 10:00 | EUR | Low | Services Sentiment (Jul) | 4.7 | 3.8 | 4.2 |
+| 10:00 | EUR | Moderate | GDP (QoQ) (Q2) | 0.4% | 0.2% | -0.2% |
+| 10:00 | EUR | Moderate | GDP (YoY) (Q2) | 1.0% | 0.5% | 0.3% |
+| 10:00 | EUR | Low | Industrial Sentiment (Jul) | -6.1 | -7.0 | -7.5 |
+| 10:00 | EUR | Moderate | Unemployment Rate (Jun) | 6.3% | 6.2% | 6.3% |
+| 10:30 | ZAR | Low | PPI (MoM) (Jun) | -0.1% |  | 2.6% |
+| 10:30 | ZAR | Low | PPI (YoY) (Jun) | 7.5% |  | 7.8% |
+| 11:00 | EUR | Moderate | Italian 10-Year BTP Auction | 4.00% |  | 3.63% |
+| 11:00 | EUR | Low | Italian 15-Year BTP Auction | 3.95% |  | 4.23% |
+| 11:00 | EUR | Low | Italian 5-Year BTP Auction | 3.39% |  | 3.03% |
+| 11:00 | EUR | Low | Italian PPI (MoM) (Jun) | 0.0% |  | -0.2% |
+| 11:00 | EUR | Low | Italian PPI (YoY) (Jun) | 5.8% |  | 7.3% |
+| 12:00 | GBP | Moderate | BoE MPC vote cut (Jul) | 0 | 0 | 0 |
+| 12:00 | GBP | Moderate | BoE MPC vote hike (Jul) | 3 | 2 | 2 |
+| 12:00 | GBP | Moderate | BoE MPC vote unchanged (Jul) | 6 | 7 | 7 |
+| 12:00 | GBP | High | BoE Interest Rate Decision (Jul) | 3.75% | 3.75% | 3.75% |
 | 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
-| 12:00 | BRL | Low | IGP-M Inflation Index (MoM) (Jul) |  | -1.09% | -0.50% |
+| 12:00 | EUR | Low | Spanish Business Confidence (Jul) | -2.6 |  | -2.4 |
+| 12:00 | BRL | Low | IGP-M Inflation Index (MoM) (Jul) | -1.16% | -1.09% | -0.50% |
 | 12:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 12:30 | BRL | Low | Bank lending (MoM) (Jun) |  |  | 0.6% |
 | 13:00 | MXN | Moderate | GDP (YoY) (Q2) |  | 1.5% | 0.2% |

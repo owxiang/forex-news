@@ -11,13 +11,13 @@
 | 08:00 | EUR | Spanish GDP (QoQ) (Q2) | 0.7% | 0.6% | 0.6% |
 | 08:00 | EUR | Spanish HICP (YoY) (Jul) | 3.8% | 3.7% | 3.6% |
 | 09:00 | EUR | German GDP (YoY) (Q2) | 0.9% | 0.6% | 0.4% |
-| 10:00 | EUR | GDP (QoQ) (Q2) |  | 0.2% | -0.2% |
-| 10:00 | EUR | GDP (YoY) (Q2) |  | 0.5% | 0.3% |
-| 10:00 | EUR | Unemployment Rate (Jun) |  | 6.2% | 6.2% |
-| 10:10 | EUR | Italian 10-Year BTP Auction |  |  | 3.63% |
-| 12:00 | GBP | BoE MPC vote cut (Jul) |  | 0 | 0 |
-| 12:00 | GBP | BoE MPC vote hike (Jul) |  | 2 | 2 |
-| 12:00 | GBP | BoE MPC vote unchanged (Jul) |  | 7 | 7 |
+| 10:00 | EUR | GDP (QoQ) (Q2) | 0.4% | 0.2% | -0.2% |
+| 10:00 | EUR | GDP (YoY) (Q2) | 1.0% | 0.5% | 0.3% |
+| 10:00 | EUR | Unemployment Rate (Jun) | 6.3% | 6.2% | 6.3% |
+| 11:00 | EUR | Italian 10-Year BTP Auction | 4.00% |  | 3.63% |
+| 12:00 | GBP | BoE MPC vote cut (Jul) | 0 | 0 | 0 |
+| 12:00 | GBP | BoE MPC vote hike (Jul) | 3 | 2 | 2 |
+| 12:00 | GBP | BoE MPC vote unchanged (Jul) | 6 | 7 | 7 |
 | 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
 | 12:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 13:00 | MXN | GDP (YoY) (Q2) |  | 1.5% | 0.2% |

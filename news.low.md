@@ -31,22 +31,22 @@
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Jul) | 2.7% |  | 2.1% |
 | 09:00 | EUR | Saxony CPI (YoY) (Jul) | 2.8% |  | 2.3% |
 | 09:00 | EUR | Saxony CPI (MoM) (Jul) | 0.7% |  | -0.3% |
-| 10:00 | EUR | Italian Monthly Unemployment Rate (Jun) |  | 5.0% | 5.0% |
-| 10:00 | EUR | Business and Consumer Survey (Jul) |  | 96.0 | 95.0 |
-| 10:00 | EUR | Business Climate (Jul) |  |  | -0.38 |
-| 10:00 | EUR | Consumer Confidence (Jul) |  | -15.9 | -15.9 |
-| 10:00 | EUR | Consumer Inflation Expectation (Jul) |  |  | 34.0 |
-| 10:00 | EUR | Selling Price Expectations (Jul) |  |  | 22.3 |
-| 10:00 | EUR | Services Sentiment (Jul) |  | 3.8 | 3.2 |
-| 10:00 | EUR | Industrial Sentiment (Jul) |  | -7.0 | -7.7 |
-| 10:10 | EUR | Italian 15-Year BTP Auction |  |  | 4.23% |
-| 10:10 | EUR | Italian 5-Year BTP Auction |  |  | 3.03% |
-| 10:30 | ZAR | PPI (MoM) (Jun) |  |  | 2.6% |
-| 10:30 | ZAR | PPI (YoY) (Jun) |  |  | 7.8% |
-| 11:00 | EUR | Italian PPI (MoM) (Jun) |  |  | -0.2% |
-| 11:00 | EUR | Italian PPI (YoY) (Jun) |  |  | 7.3% |
-| 11:00 | EUR | Spanish Business Confidence (Jul) |  |  | -2.4 |
-| 12:00 | BRL | IGP-M Inflation Index (MoM) (Jul) |  | -1.09% | -0.50% |
+| 10:00 | EUR | Italian Monthly Unemployment Rate (Jun) | 5.7% | 5.0% | 5.3% |
+| 10:00 | EUR | Business and Consumer Survey (Jul) | 96.9 | 96.0 | 95.4 |
+| 10:00 | EUR | Business Climate (Jul) | -0.19 |  | -0.36 |
+| 10:00 | EUR | Consumer Confidence (Jul) | -15.9 | -15.9 | -15.9 |
+| 10:00 | EUR | Consumer Inflation Expectation (Jul) | 30.3 |  | 34.0 |
+| 10:00 | EUR | Selling Price Expectations (Jul) | 17.7 |  | 22.3 |
+| 10:00 | EUR | Services Sentiment (Jul) | 4.7 | 3.8 | 4.2 |
+| 10:00 | EUR | Industrial Sentiment (Jul) | -6.1 | -7.0 | -7.5 |
+| 10:30 | ZAR | PPI (MoM) (Jun) | -0.1% |  | 2.6% |
+| 10:30 | ZAR | PPI (YoY) (Jun) | 7.5% |  | 7.8% |
+| 11:00 | EUR | Italian 15-Year BTP Auction | 3.95% |  | 4.23% |
+| 11:00 | EUR | Italian 5-Year BTP Auction | 3.39% |  | 3.03% |
+| 11:00 | EUR | Italian PPI (MoM) (Jun) | 0.0% |  | -0.2% |
+| 11:00 | EUR | Italian PPI (YoY) (Jun) | 5.8% |  | 7.3% |
+| 12:00 | EUR | Spanish Business Confidence (Jul) | -2.6 |  | -2.4 |
+| 12:00 | BRL | IGP-M Inflation Index (MoM) (Jul) | -1.16% | -1.09% | -0.50% |
 | 12:30 | BRL | Bank lending (MoM) (Jun) |  |  | 0.6% |
 | 13:00 | EUR | German HICP (MoM) (Jul) |  | 0.8% | -0.2% |
 | 13:00 | EUR | German HICP (YoY) (Jul) |  | 2.8% | 2.4% |
