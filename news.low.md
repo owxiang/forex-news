@@ -33,24 +33,24 @@
 | 07:45 | EUR | French PPI (MoM) (Jun) | -0.6% |  | -0.2% |
 | 07:45 | EUR | PPI (YoY) (Jun) | 2.60% |  | 3.10% |
 | 08:00 | CHF | Official Reserves Assets (Jun) | 879.9B |  | 841.2B |
-| 3 min | EUR | German Unemployment (Jul) |  |  | 2.984M |
-| 3 min | EUR | German Unemployment n.s.a. (Jul) |  |  | 2.936M |
-| 8 min | EUR | Italian Business Confidence (Jul) |  | 88.9 | 88.4 |
-| 8 min | EUR | Italian Consumer Confidence (Jul) |  | 92.5 | 92.4 |
-| 8 min | EUR | Spanish Current account (May) |  |  | 1.88B |
-| 8 min | NOK | Central Bank Currency Purchase (Aug) |  |  | -400.0M |
-| 38 min | HKD | GDP (QoQ) (Q2) |  | -0.3% | 2.9% |
-| 38 min | HKD | GDP (YoY) (Q2) |  | 4.8% | 5.9% |
-| 38 min | HKD | M3 Money Supply (Jun) |  |  | 1.0% |
-| 10:00 | EUR | Italian CPI (MoM) (Jul) |  | 0.3% | 0.0% |
-| 10:00 | EUR | Italian CPI (YoY) (Jul) |  | 2.8% | 3.0% |
-| 10:00 | EUR | Italian HICP (MoM) (Jul) |  | -1.0% | 0.0% |
-| 10:00 | EUR | Italian HICP (YoY) (Jul) |  | 2.8% | 3.0% |
-| 10:00 | EUR | Core CPI (MoM) (Jul) |  |  | 0.2% |
-| 10:00 | EUR | CPI ex Tobacco (MoM) (Jul) |  |  | -0.1% |
-| 10:00 | EUR | CPI, n.s.a (Jul) |  |  | 103.02 |
-| 10:00 | EUR | HICP ex Energy & Food (YoY) (Jul) |  |  | 2.1% |
-| 11:00 | INR | Federal Fiscal Deficit (Jun) |  |  | 1,623.54B |
+| 08:55 | EUR | German Unemployment (Jul) | 2.993M |  | 2.984M |
+| 08:55 | EUR | German Unemployment n.s.a. (Jul) | 3.007M |  | 2.936M |
+| 09:00 | EUR | Italian Business Confidence (Jul) | 89.6 | 88.9 | 88.6 |
+| 09:00 | EUR | Italian Consumer Confidence (Jul) | 94.2 | 92.5 | 92.4 |
+| 09:00 | EUR | Spanish Current account (May) | 1.84B |  | 1.88B |
+| 09:00 | NOK | Central Bank Currency Purchase (Aug) | -350.0M |  | -400.0M |
+| 09:30 | HKD | GDP (QoQ) (Q2) | -0.6% | -0.3% | 2.9% |
+| 09:30 | HKD | GDP (YoY) (Q2) | 4.3% | 4.8% | 5.9% |
+| 09:30 | HKD | M3 Money Supply (Jun) | 2.6% |  | 1.0% |
+| 10:00 | EUR | Italian CPI (MoM) (Jul) | 0.2% | 0.3% | 0.0% |
+| 10:00 | EUR | Italian CPI (YoY) (Jul) | 2.8% | 2.8% | 3.0% |
+| 10:00 | EUR | Italian HICP (MoM) (Jul) | -1.0% | -1.0% | 0.0% |
+| 10:00 | EUR | Italian HICP (YoY) (Jul) | 2.9% | 2.8% | 3.0% |
+| 10:00 | EUR | Core CPI (MoM) (Jul) | 0.0% |  | 0.2% |
+| 10:00 | EUR | CPI, n.s.a (Jul) | 103.22 |  | 103.02 |
+| 10:00 | EUR | HICP ex Energy & Food (YoY) (Jul) | 2.2% |  | 2.1% |
+| 10:00 | EUR | HICP ex Energy and Food (MoM) (Jul) | 0.0% |  | 0.2% |
+| 11:00 | INR | Federal Fiscal Deficit (Jun) | 3,078.33B |  | 1,623.54B |
 | 12:30 | INR | FX Reserves, USD |  |  | 676.24B |
 | 12:30 | INR | M3 Money Supply |  |  | 13.0% |
 | 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |

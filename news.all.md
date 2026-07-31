@@ -48,29 +48,29 @@
 | 07:45 | EUR | Low | French PPI (MoM) (Jun) | -0.6% |  | -0.2% |
 | 07:45 | EUR | Low | PPI (YoY) (Jun) | 2.60% |  | 3.10% |
 | 08:00 | CHF | Low | Official Reserves Assets (Jun) | 879.9B |  | 841.2B |
-| 3 min | EUR | Moderate | German Unemployment Change (Jul) |  | 5K | -1K |
-| 3 min | EUR | Moderate | German Unemployment Rate (Jul) |  | 6.3% | 6.3% |
-| 3 min | EUR | Low | German Unemployment (Jul) |  |  | 2.984M |
-| 3 min | EUR | Low | German Unemployment n.s.a. (Jul) |  |  | 2.936M |
-| 8 min | EUR | Low | Italian Business Confidence (Jul) |  | 88.9 | 88.4 |
-| 8 min | EUR | Low | Italian Consumer Confidence (Jul) |  | 92.5 | 92.4 |
-| 8 min | EUR | Low | Spanish Current account (May) |  |  | 1.88B |
-| 8 min | NOK | Low | Central Bank Currency Purchase (Aug) |  |  | -400.0M |
-| 38 min | HKD | Low | GDP (QoQ) (Q2) |  | -0.3% | 2.9% |
-| 38 min | HKD | Low | GDP (YoY) (Q2) |  | 4.8% | 5.9% |
-| 38 min | HKD | Low | M3 Money Supply (Jun) |  |  | 1.0% |
-| 10:00 | EUR | Low | Italian CPI (MoM) (Jul) |  | 0.3% | 0.0% |
-| 10:00 | EUR | Low | Italian CPI (YoY) (Jul) |  | 2.8% | 3.0% |
-| 10:00 | EUR | Low | Italian HICP (MoM) (Jul) |  | -1.0% | 0.0% |
-| 10:00 | EUR | Low | Italian HICP (YoY) (Jul) |  | 2.8% | 3.0% |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Jul) |  | 2.4% | 2.4% |
-| 10:00 | EUR | Low | Core CPI (MoM) (Jul) |  |  | 0.2% |
-| 10:00 | EUR | High | CPI (YoY) (Jul) |  | 2.9% | 2.8% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Jul) |  |  | -0.1% |
-| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Jul) |  |  | -0.1% |
-| 10:00 | EUR | Low | CPI, n.s.a (Jul) |  |  | 103.02 |
-| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jul) |  |  | 2.1% |
-| 11:00 | INR | Low | Federal Fiscal Deficit (Jun) |  |  | 1,623.54B |
+| 08:55 | EUR | Moderate | German Unemployment Change (Jul) | 6K | 5K | -1K |
+| 08:55 | EUR | Moderate | German Unemployment Rate (Jul) | 6.4% | 6.3% | 6.3% |
+| 08:55 | EUR | Low | German Unemployment (Jul) | 2.993M |  | 2.984M |
+| 08:55 | EUR | Low | German Unemployment n.s.a. (Jul) | 3.007M |  | 2.936M |
+| 09:00 | EUR | Low | Italian Business Confidence (Jul) | 89.6 | 88.9 | 88.6 |
+| 09:00 | EUR | Low | Italian Consumer Confidence (Jul) | 94.2 | 92.5 | 92.4 |
+| 09:00 | EUR | Low | Spanish Current account (May) | 1.84B |  | 1.88B |
+| 09:00 | NOK | Low | Central Bank Currency Purchase (Aug) | -350.0M |  | -400.0M |
+| 09:30 | HKD | Low | GDP (QoQ) (Q2) | -0.6% | -0.3% | 2.9% |
+| 09:30 | HKD | Low | GDP (YoY) (Q2) | 4.3% | 4.8% | 5.9% |
+| 09:30 | HKD | Low | M3 Money Supply (Jun) | 2.6% |  | 1.0% |
+| 10:00 | EUR | Low | Italian CPI (MoM) (Jul) | 0.2% | 0.3% | 0.0% |
+| 10:00 | EUR | Low | Italian CPI (YoY) (Jul) | 2.8% | 2.8% | 3.0% |
+| 10:00 | EUR | Low | Italian HICP (MoM) (Jul) | -1.0% | -1.0% | 0.0% |
+| 10:00 | EUR | Low | Italian HICP (YoY) (Jul) | 2.9% | 2.8% | 3.0% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Jul) | 2.5% | 2.4% | 2.4% |
+| 10:00 | EUR | Low | Core CPI (MoM) (Jul) | 0.0% |  | 0.2% |
+| 10:00 | EUR | High | CPI (YoY) (Jul) | 2.9% | 2.9% | 2.8% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Jul) | 2.8% |  | -0.1% |
+| 10:00 | EUR | Low | CPI, n.s.a (Jul) | 103.22 |  | 103.02 |
+| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jul) | 2.2% |  | 2.1% |
+| 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jul) | 0.0% |  | 0.2% |
+| 11:00 | INR | Low | Federal Fiscal Deficit (Jun) | 3,078.33B |  | 1,623.54B |
 | 12:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 676.24B |
 | 12:30 | INR | Low | M3 Money Supply |  |  | 13.0% |

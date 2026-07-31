@@ -15,10 +15,10 @@
 | 07:30 | JPY | BoJ Press Conference |  |  |  |
 | 07:45 | EUR | French CPI (MoM) (Jul) | 0.6% | 0.3% | -0.3% |
 | 07:45 | EUR | French HICP (MoM) (Jul) | 0.6% | 0.3% | -0.3% |
-| 3 min | EUR | German Unemployment Change (Jul) |  | 5K | -1K |
-| 3 min | EUR | German Unemployment Rate (Jul) |  | 6.3% | 6.3% |
-| 10:00 | EUR | Core CPI (YoY) (Jul) |  | 2.4% | 2.4% |
-| 10:00 | EUR | CPI (MoM) (Jul) |  |  | -0.1% |
+| 08:55 | EUR | German Unemployment Change (Jul) | 6K | 5K | -1K |
+| 08:55 | EUR | German Unemployment Rate (Jul) | 6.4% | 6.3% | 6.3% |
+| 10:00 | EUR | Core CPI (YoY) (Jul) | 2.5% | 2.4% | 2.4% |
+| 10:00 | EUR | CPI (MoM) (Jul) | 2.8% |  | -0.1% |
 | 12:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Jun) |  | 81.5% | 81.1% |
 | 13:30 | USD | Employment Cost Index (QoQ) (Q2) |  | 0.8% | 0.9% |
