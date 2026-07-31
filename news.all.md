@@ -93,8 +93,8 @@
 | 15:00 | USD | Low | Michigan Current Conditions (Jul) | 54.8 | 54.9 | 47.7 |
 | 16:00 | CAD | Low | Budget Balance (May) | -0.31B |  | -29.73B |
 | 16:00 | CAD | Low | Budget Balance (YoY) (May) | -1.36B |  | -55.28B |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 450 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 587 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 451 |  | 450 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 588 |  | 587 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -55.6K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -0.6K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 74.0K |
