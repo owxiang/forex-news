@@ -21,32 +21,27 @@
 | 03:00 | SGD | Bank Lending (Jun) | 931.4B |  | 917.7B |
 | 03:30 | SGD | Unemployment Rate (Q2) | 2.0% |  | 2.0% |
 | 04:00 | NZD | M3 Money Supply (Jun) | 454.7B |  | 451.0B |
-| 06:00 | JPY | Construction Orders (YoY) (Jun) |  |  | -6.7% |
-| 06:00 | JPY | Housing Starts (YoY) (Jun) |  | 12.7% | 33.9% |
-| 06:00 | SGD | Business Expectations (Q2) |  |  | 17.00 |
-| 07:00 | EUR | German Import Price Index (MoM) (Jun) |  | -0.7% | 0.7% |
-| 07:00 | EUR | German Import Price Index (YoY) (Jun) |  | 6.0% | 6.8% |
-| 07:00 | NOK | M3 Money Supply (Jun) |  |  | 3,611.7B |
-| 07:00 | NOK | Credit Indicator (YoY) (Jun) |  |  | 4.5% |
-| 07:00 | NOK | Unemployment Rate n.s.a. (Jul) |  | 2.10% | 1.90% |
-| 07:30 | CHF | Retail Sales (YoY) (Jun) |  | 3.1% | 3.5% |
-| 07:45 | EUR | French CPI NSA (MoM) (Jul) |  | 0.30% | -0.30% |
-| 07:45 | EUR | French CPI NSA (YoY) (Jul) |  | 1.80% | 1.80% |
-| 07:45 | EUR | French CPI (YoY) (Jul) |  |  | 1.8% |
-| 07:45 | EUR | French HICP (YoY) (Jul) |  | 2.1% | 2.0% |
-| 07:45 | EUR | French PPI (MoM) (Jun) |  |  | -0.3% |
-| 07:45 | EUR | PPI (YoY) (Jun) |  |  | 3.00% |
-| 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Jul) |  |  | 1.70% |
-| 08:00 | CHF | Official Reserves Assets (Jun) |  |  | 841.2B |
-| 08:55 | EUR | German Unemployment (Jul) |  |  | 2.984M |
-| 08:55 | EUR | German Unemployment n.s.a. (Jul) |  |  | 2.936M |
-| 09:00 | EUR | Italian Business Confidence (Jul) |  | 88.9 | 88.4 |
-| 09:00 | EUR | Italian Consumer Confidence (Jul) |  | 92.5 | 92.4 |
-| 09:00 | EUR | Spanish Current account (May) |  |  | 1.88B |
-| 09:00 | NOK | Central Bank Currency Purchase (Aug) |  |  | -400.0M |
-| 09:30 | HKD | GDP (QoQ) (Q2) |  | -0.3% | 2.9% |
-| 09:30 | HKD | GDP (YoY) (Q2) |  | 4.8% | 5.9% |
-| 09:30 | HKD | M3 Money Supply (Jun) |  |  | 1.0% |
+| 06:00 | JPY | Construction Orders (YoY) (Jun) | 2.3% |  | -6.7% |
+| 06:00 | JPY | Housing Starts (YoY) (Jun) | 18.6% | 12.7% | 33.9% |
+| 06:00 | SGD | Business Expectations (Q2) | 12.00 |  | 17.00 |
+| 07:00 | NOK | M3 Money Supply (Jun) | 3,657.0B |  | 3,611.7B |
+| 07:00 | NOK | Credit Indicator (YoY) (Jun) | 4.4% |  | 4.5% |
+| 07:00 | NOK | Unemployment Rate n.s.a. (Jul) | 2.10% | 2.10% | 1.90% |
+| 07:30 | CHF | Retail Sales (YoY) (Jun) | 1.5% | 3.1% | 3.4% |
+| 07:45 | EUR | French CPI (YoY) (Jul) | 2.1% |  | 1.8% |
+| 07:45 | EUR | French HICP (YoY) (Jul) | 2.4% | 2.1% | 2.0% |
+| 07:45 | EUR | French PPI (MoM) (Jun) | -0.6% |  | -0.2% |
+| 07:45 | EUR | PPI (YoY) (Jun) | 2.60% |  | 3.10% |
+| 08:00 | CHF | Official Reserves Assets (Jun) | 879.9B |  | 841.2B |
+| 3 min | EUR | German Unemployment (Jul) |  |  | 2.984M |
+| 3 min | EUR | German Unemployment n.s.a. (Jul) |  |  | 2.936M |
+| 8 min | EUR | Italian Business Confidence (Jul) |  | 88.9 | 88.4 |
+| 8 min | EUR | Italian Consumer Confidence (Jul) |  | 92.5 | 92.4 |
+| 8 min | EUR | Spanish Current account (May) |  |  | 1.88B |
+| 8 min | NOK | Central Bank Currency Purchase (Aug) |  |  | -400.0M |
+| 38 min | HKD | GDP (QoQ) (Q2) |  | -0.3% | 2.9% |
+| 38 min | HKD | GDP (YoY) (Q2) |  | 4.8% | 5.9% |
+| 38 min | HKD | M3 Money Supply (Jun) |  |  | 1.0% |
 | 10:00 | EUR | Italian CPI (MoM) (Jul) |  | 0.3% | 0.0% |
 | 10:00 | EUR | Italian CPI (YoY) (Jul) |  | 2.8% | 3.0% |
 | 10:00 | EUR | Italian HICP (MoM) (Jul) |  | -1.0% | 0.0% |

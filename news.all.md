@@ -31,39 +31,34 @@
 | 04:00 | JPY | Moderate | BoJ Outlook Report (YoY) |  |  |  |
 | 04:00 | JPY | High | BoJ Interest Rate Decision | 1.00% | 1.00% | 1.00% |
 | 04:00 | NZD | Low | M3 Money Supply (Jun) | 454.7B |  | 451.0B |
-| 06:00 | JPY | Low | Construction Orders (YoY) (Jun) |  |  | -6.7% |
-| 06:00 | JPY | Low | Housing Starts (YoY) (Jun) |  | 12.7% | 33.9% |
-| 06:00 | SGD | Low | Business Expectations (Q2) |  |  | 17.00 |
-| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Jul) |  | 0.1% | 0.0% |
-| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Jul) |  | 1.9% | 2.2% |
-| 07:00 | EUR | Low | German Import Price Index (MoM) (Jun) |  | -0.7% | 0.7% |
-| 07:00 | EUR | Low | German Import Price Index (YoY) (Jun) |  | 6.0% | 6.8% |
-| 07:00 | NOK | Low | M3 Money Supply (Jun) |  |  | 3,611.7B |
-| 07:00 | NOK | Low | Credit Indicator (YoY) (Jun) |  |  | 4.5% |
-| 07:00 | NOK | Low | Unemployment Rate n.s.a. (Jul) |  | 2.10% | 1.90% |
-| 07:30 | CHF | Low | Retail Sales (YoY) (Jun) |  | 3.1% | 3.5% |
+| 06:00 | JPY | Low | Construction Orders (YoY) (Jun) | 2.3% |  | -6.7% |
+| 06:00 | JPY | Low | Housing Starts (YoY) (Jun) | 18.6% | 12.7% | 33.9% |
+| 06:00 | SGD | Low | Business Expectations (Q2) | 12.00 |  | 17.00 |
+| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Jul) | 0.1% | 0.1% | 0.0% |
+| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Jul) | 1.8% | 1.9% | 2.2% |
+| 07:00 | NOK | Low | M3 Money Supply (Jun) | 3,657.0B |  | 3,611.7B |
+| 07:00 | NOK | Low | Credit Indicator (YoY) (Jun) | 4.4% |  | 4.5% |
+| 07:00 | NOK | Low | Unemployment Rate n.s.a. (Jul) | 2.10% | 2.10% | 1.90% |
+| 07:30 | CHF | Low | Retail Sales (YoY) (Jun) | 1.5% | 3.1% | 3.4% |
 | 07:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
-| 07:45 | EUR | Low | French CPI NSA (MoM) (Jul) |  | 0.30% | -0.30% |
-| 07:45 | EUR | Low | French CPI NSA (YoY) (Jul) |  | 1.80% | 1.80% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Jul) |  | 0.3% | -0.3% |
-| 07:45 | EUR | Low | French CPI (YoY) (Jul) |  |  | 1.8% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Jul) |  | 0.3% | -0.3% |
-| 07:45 | EUR | Low | French HICP (YoY) (Jul) |  | 2.1% | 2.0% |
-| 07:45 | EUR | Low | French PPI (MoM) (Jun) |  |  | -0.3% |
-| 07:45 | EUR | Low | PPI (YoY) (Jun) |  |  | 3.00% |
-| 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Jul) |  |  | 1.70% |
-| 08:00 | CHF | Low | Official Reserves Assets (Jun) |  |  | 841.2B |
-| 08:55 | EUR | Moderate | German Unemployment Change (Jul) |  | 5K | -1K |
-| 08:55 | EUR | Moderate | German Unemployment Rate (Jul) |  | 6.3% | 6.3% |
-| 08:55 | EUR | Low | German Unemployment (Jul) |  |  | 2.984M |
-| 08:55 | EUR | Low | German Unemployment n.s.a. (Jul) |  |  | 2.936M |
-| 09:00 | EUR | Low | Italian Business Confidence (Jul) |  | 88.9 | 88.4 |
-| 09:00 | EUR | Low | Italian Consumer Confidence (Jul) |  | 92.5 | 92.4 |
-| 09:00 | EUR | Low | Spanish Current account (May) |  |  | 1.88B |
-| 09:00 | NOK | Low | Central Bank Currency Purchase (Aug) |  |  | -400.0M |
-| 09:30 | HKD | Low | GDP (QoQ) (Q2) |  | -0.3% | 2.9% |
-| 09:30 | HKD | Low | GDP (YoY) (Q2) |  | 4.8% | 5.9% |
-| 09:30 | HKD | Low | M3 Money Supply (Jun) |  |  | 1.0% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Jul) | 0.6% | 0.3% | -0.3% |
+| 07:45 | EUR | Low | French CPI (YoY) (Jul) | 2.1% |  | 1.8% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Jul) | 0.6% | 0.3% | -0.3% |
+| 07:45 | EUR | Low | French HICP (YoY) (Jul) | 2.4% | 2.1% | 2.0% |
+| 07:45 | EUR | Low | French PPI (MoM) (Jun) | -0.6% |  | -0.2% |
+| 07:45 | EUR | Low | PPI (YoY) (Jun) | 2.60% |  | 3.10% |
+| 08:00 | CHF | Low | Official Reserves Assets (Jun) | 879.9B |  | 841.2B |
+| 3 min | EUR | Moderate | German Unemployment Change (Jul) |  | 5K | -1K |
+| 3 min | EUR | Moderate | German Unemployment Rate (Jul) |  | 6.3% | 6.3% |
+| 3 min | EUR | Low | German Unemployment (Jul) |  |  | 2.984M |
+| 3 min | EUR | Low | German Unemployment n.s.a. (Jul) |  |  | 2.936M |
+| 8 min | EUR | Low | Italian Business Confidence (Jul) |  | 88.9 | 88.4 |
+| 8 min | EUR | Low | Italian Consumer Confidence (Jul) |  | 92.5 | 92.4 |
+| 8 min | EUR | Low | Spanish Current account (May) |  |  | 1.88B |
+| 8 min | NOK | Low | Central Bank Currency Purchase (Aug) |  |  | -400.0M |
+| 38 min | HKD | Low | GDP (QoQ) (Q2) |  | -0.3% | 2.9% |
+| 38 min | HKD | Low | GDP (YoY) (Q2) |  | 4.8% | 5.9% |
+| 38 min | HKD | Low | M3 Money Supply (Jun) |  |  | 1.0% |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Jul) |  | 0.3% | 0.0% |
 | 10:00 | EUR | Low | Italian CPI (YoY) (Jul) |  | 2.8% | 3.0% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Jul) |  | -1.0% | 0.0% |
@@ -91,7 +86,7 @@
 | 13:30 | USD | Low | Employment Wages (QoQ) (Q2) |  |  | 0.80% |
 | 13:30 | CAD | Moderate | GDP (MoM) (May) |  | 0.2% | 0.5% |
 | 13:31 | CAD | Moderate | GDP (MoM) (Jun) |  |  |  |
-| 14:45 | USD | High | Chicago PMI (Jul) |  |  | 56.7 |
+| 14:45 | USD | High | Chicago PMI (Jul) |  | 56.0 | 56.7 |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Jul) |  | 4.2% | 4.6% |
 | 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Jul) |  | 3.3% | 3.3% |
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Jul) |  | 54.0 | 50.7 |

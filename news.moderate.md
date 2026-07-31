@@ -10,13 +10,13 @@
 | 02:30 | CNY | Non-Manufacturing PMI (Jul) | 49.0 | 50.0 | 50.2 |
 | 03:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
 | 04:00 | JPY | BoJ Outlook Report (YoY) |  |  |  |
-| 07:00 | GBP | Nationwide HPI (MoM) (Jul) |  | 0.1% | 0.0% |
-| 07:00 | GBP | Nationwide HPI (YoY) (Jul) |  | 1.9% | 2.2% |
+| 07:00 | GBP | Nationwide HPI (MoM) (Jul) | 0.1% | 0.1% | 0.0% |
+| 07:00 | GBP | Nationwide HPI (YoY) (Jul) | 1.8% | 1.9% | 2.2% |
 | 07:30 | JPY | BoJ Press Conference |  |  |  |
-| 07:45 | EUR | French CPI (MoM) (Jul) |  | 0.3% | -0.3% |
-| 07:45 | EUR | French HICP (MoM) (Jul) |  | 0.3% | -0.3% |
-| 08:55 | EUR | German Unemployment Change (Jul) |  | 5K | -1K |
-| 08:55 | EUR | German Unemployment Rate (Jul) |  | 6.3% | 6.3% |
+| 07:45 | EUR | French CPI (MoM) (Jul) | 0.6% | 0.3% | -0.3% |
+| 07:45 | EUR | French HICP (MoM) (Jul) | 0.6% | 0.3% | -0.3% |
+| 3 min | EUR | German Unemployment Change (Jul) |  | 5K | -1K |
+| 3 min | EUR | German Unemployment Rate (Jul) |  | 6.3% | 6.3% |
 | 10:00 | EUR | Core CPI (YoY) (Jul) |  | 2.4% | 2.4% |
 | 10:00 | EUR | CPI (MoM) (Jul) |  |  | -0.1% |
 | 12:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
