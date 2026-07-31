@@ -1,35 +1,41 @@
-## 30 July 2026 - Moderate Impact Forex News
+## 31 July 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Building Approvals (MoM) (Jun) | 7.2% | -0.7% | -1.6% |
-| 06:30 | EUR | French Consumer Spending (MoM) (Jun) | 0.4% | -0.1% | 0.3% |
-| 06:30 | EUR | French GDP (QoQ) (Q2) | 0.2% | 0.2% | -0.1% |
-| 06:30 | EUR | French GDP (YoY) (Q2) | 0.7% | 0.8% | 0.8% |
-| 08:00 | CHF | KOF Leading Indicators (Jul) | 103.5 | 100.9 | 102.1 |
-| 08:00 | EUR | Spanish CPI (YoY) (Jul) | 3.5% | 3.2% | 3.2% |
-| 08:00 | EUR | Spanish GDP (QoQ) (Q2) | 0.7% | 0.6% | 0.6% |
-| 08:00 | EUR | Spanish HICP (YoY) (Jul) | 3.8% | 3.7% | 3.6% |
-| 09:00 | EUR | German GDP (YoY) (Q2) | 0.9% | 0.6% | 0.4% |
-| 10:00 | EUR | GDP (QoQ) (Q2) | 0.4% | 0.2% | -0.2% |
-| 10:00 | EUR | GDP (YoY) (Q2) | 1.0% | 0.5% | 0.3% |
-| 10:00 | EUR | Unemployment Rate (Jun) | 6.3% | 6.2% | 6.3% |
-| 11:00 | EUR | Italian 10-Year BTP Auction | 4.00% |  | 3.63% |
-| 12:00 | GBP | BoE MPC vote cut (Jul) | 0 | 0 | 0 |
-| 12:00 | GBP | BoE MPC vote hike (Jul) | 3 | 2 | 2 |
-| 12:00 | GBP | BoE MPC vote unchanged (Jul) | 6 | 7 | 7 |
-| 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
-| 12:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 13:00 | MXN | GDP (YoY) (Q2) | 2.2% | 1.5% | 0.2% |
-| 13:00 | MXN | GDP (QoQ) (Q2) | 1.5% | 1.3% | -0.6% |
-| 13:00 | EUR | German CPI (YoY) (Jul) | 2.8% | 2.7% | 2.3% |
-| 13:00 | BRL | Unemployment Rate (Jun) | 5.4% | 5.4% | 5.6% |
-| 13:30 | USD | Continuing Jobless Claims | 1,782K | 1,800K | 1,789K |
-| 13:30 | USD | Core PCE Prices (Q2) | 3.40% | 3.50% | 4.40% |
-| 13:30 | USD | GDP Price Index (QoQ) (Q2) | 6.3% | 4.1% | 3.6% |
-| 13:30 | USD | PCE price index (MoM) (Jun) | -0.1% | -0.1% | 0.5% |
-| 13:30 | USD | PCE Price index (YoY) (Jun) | 3.7% | 3.7% | 4.1% |
-| 13:30 | USD | Personal Spending (MoM) (Jun) | 0.3% | 0.4% | 0.9% |
-| 14:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 15:20 | USD | Atlanta Fed GDPNow (Q3) | 5.0% |  |  |
-| 21:30 | USD | Fed's Balance Sheet | 6,738B |  | 6,747B |
+| 00:30 | JPY | Tokyo Core CPI (YoY) (Jul) | 1.9% | 1.8% | 1.6% |
+| 00:50 | JPY | Industrial Production (MoM) (Jun) | 1.3% | 1.0% | 0.1% |
+| 02:30 | AUD | PPI (QoQ) (Q2) |  | 0.5% | 0.4% |
+| 02:30 | AUD | PPI (YoY) (Q2) |  |  | 3.0% |
+| 02:30 | CNY | Chinese Composite PMI (Jul) |  |  | 50.6 |
+| 02:30 | CNY | Non-Manufacturing PMI (Jul) |  | 50.0 | 50.2 |
+| 03:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
+| 04:00 | JPY | BoJ Outlook Report (YoY) |  |  |  |
+| 07:00 | GBP | Nationwide HPI (MoM) (Jul) |  | 0.1% | 0.0% |
+| 07:00 | GBP | Nationwide HPI (YoY) (Jul) |  | 1.9% | 2.2% |
+| 07:30 | JPY | BoJ Press Conference |  |  |  |
+| 07:45 | EUR | French CPI (MoM) (Jul) |  | 0.3% | -0.3% |
+| 07:45 | EUR | French HICP (MoM) (Jul) |  | 0.3% | -0.3% |
+| 08:55 | EUR | German Unemployment Change (Jul) |  | 5K | -1K |
+| 08:55 | EUR | German Unemployment Rate (Jul) |  | 6.3% | 6.3% |
+| 10:00 | EUR | Core CPI (YoY) (Jul) |  | 2.4% | 2.4% |
+| 10:00 | EUR | CPI (MoM) (Jul) |  |  | -0.1% |
+| 12:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Jun) |  | 81.5% | 81.1% |
+| 13:30 | USD | Employment Cost Index (QoQ) (Q2) |  | 0.8% | 0.9% |
+| 13:30 | CAD | GDP (MoM) (May) |  | 0.2% | 0.5% |
+| 13:31 | CAD | GDP (MoM) (Jun) |  |  |  |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (Jul) |  | 4.2% | 4.6% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (Jul) |  | 3.3% | 3.3% |
+| 15:00 | USD | Michigan Consumer Expectations (Jul) |  | 54.0 | 50.7 |
+| 15:00 | USD | Michigan Consumer Sentiment (Jul) |  | 54.4 | 49.5 |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  |  |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  |  |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | -55.6K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 81.7K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 183.9K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 4.5K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -16.8K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -37.7K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 35.5K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | -152.1K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | -41.3K |

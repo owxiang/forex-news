@@ -1,11 +1,8 @@
-## 30 July 2026 - High Impact Forex News
+## 31 July 2026 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 09:00 | EUR | German GDP (QoQ) (Q2) | 0.2% | 0.1% | 0.3% |
-| 12:00 | GBP | BoE Interest Rate Decision (Jul) | 3.75% | 3.75% | 3.75% |
-| 13:00 | EUR | German CPI (MoM) (Jul) | 0.8% | 0.7% | -0.3% |
-| 13:30 | USD | Core PCE Price Index (MoM) (Jun) | 0.1% | 0.2% | 0.3% |
-| 13:30 | USD | Core PCE Price Index (YoY) (Jun) | 3.3% | 3.3% | 3.4% |
-| 13:30 | USD | GDP (QoQ) (Q2) | 1.5% | 2.1% | 2.1% |
-| 13:30 | USD | Initial Jobless Claims | 197K | 201K | 188K |
+| 02:30 | CNY | Manufacturing PMI (Jul) |  | 50.1 | 50.3 |
+| 04:00 | JPY | BoJ Interest Rate Decision |  | 1.00% | 1.00% |
+| 10:00 | EUR | CPI (YoY) (Jul) |  | 2.9% | 2.8% |
+| 14:45 | USD | Chicago PMI (Jul) |  |  | 56.7 |
