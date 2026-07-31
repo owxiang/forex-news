@@ -60,9 +60,9 @@
 | 13:00 | ZAR | Trade Balance (Jun) | 17.75B |  | 4.44B |
 | 13:30 | USD | Employment Benefits (QoQ) (Q2) | 1.00% |  | 1.20% |
 | 13:30 | USD | Employment Wages (QoQ) (Q2) | 0.90% |  | 0.80% |
-| 15:00 | USD | Michigan Current Conditions (Jul) |  | 54.9 | 47.7 |
-| 16:00 | CAD | Budget Balance (May) |  |  | -29.73B |
-| 16:00 | CAD | Budget Balance (YoY) (May) |  |  | -55.28B |
+| 15:00 | USD | Michigan Current Conditions (Jul) | 54.8 | 54.9 | 47.7 |
+| 16:00 | CAD | Budget Balance (May) | -0.31B |  | -29.73B |
+| 16:00 | CAD | Budget Balance (YoY) (May) | -1.36B |  | -55.28B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -0.6K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 74.0K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 186.7K |

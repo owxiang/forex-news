@@ -85,14 +85,14 @@
 | 13:30 | USD | Low | Employment Wages (QoQ) (Q2) | 0.90% |  | 0.80% |
 | 13:30 | CAD | Moderate | GDP (MoM) (May) | 0.3% | 0.1% | 0.5% |
 | 13:31 | CAD | Moderate | GDP (MoM) (Jun) | 0.2% |  | 0.3% |
-| 14:45 | USD | High | Chicago PMI (Jul) |  | 56.0 | 56.7 |
-| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Jul) |  | 4.2% | 4.6% |
-| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Jul) |  | 3.3% | 3.3% |
-| 15:00 | USD | Moderate | Michigan Consumer Expectations (Jul) |  | 54.0 | 50.7 |
-| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Jul) |  | 54.4 | 49.5 |
-| 15:00 | USD | Low | Michigan Current Conditions (Jul) |  | 54.9 | 47.7 |
-| 16:00 | CAD | Low | Budget Balance (May) |  |  | -29.73B |
-| 16:00 | CAD | Low | Budget Balance (YoY) (May) |  |  | -55.28B |
+| 14:45 | USD | High | Chicago PMI (Jul) | 57.6 | 56.0 | 56.7 |
+| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Jul) | 4.2% | 4.2% | 4.6% |
+| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Jul) | 3.3% | 3.3% | 3.3% |
+| 15:00 | USD | Moderate | Michigan Consumer Expectations (Jul) | 55.4 | 54.0 | 50.7 |
+| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Jul) | 55.2 | 54.4 | 49.5 |
+| 15:00 | USD | Low | Michigan Current Conditions (Jul) | 54.8 | 54.9 | 47.7 |
+| 16:00 | CAD | Low | Budget Balance (May) | -0.31B |  | -29.73B |
+| 16:00 | CAD | Low | Budget Balance (YoY) (May) | -1.36B |  | -55.28B |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 450 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 587 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -55.6K |

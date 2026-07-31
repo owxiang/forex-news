@@ -24,10 +24,10 @@
 | 13:30 | USD | Employment Cost Index (QoQ) (Q2) | 0.9% | 0.8% | 0.9% |
 | 13:30 | CAD | GDP (MoM) (May) | 0.3% | 0.1% | 0.5% |
 | 13:31 | CAD | GDP (MoM) (Jun) | 0.2% |  | 0.3% |
-| 15:00 | USD | Michigan 1-Year Inflation Expectations (Jul) |  | 4.2% | 4.6% |
-| 15:00 | USD | Michigan 5-Year Inflation Expectations (Jul) |  | 3.3% | 3.3% |
-| 15:00 | USD | Michigan Consumer Expectations (Jul) |  | 54.0 | 50.7 |
-| 15:00 | USD | Michigan Consumer Sentiment (Jul) |  | 54.4 | 49.5 |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (Jul) | 4.2% | 4.2% | 4.6% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (Jul) | 3.3% | 3.3% | 3.3% |
+| 15:00 | USD | Michigan Consumer Expectations (Jul) | 55.4 | 54.0 | 50.7 |
+| 15:00 | USD | Michigan Consumer Sentiment (Jul) | 55.2 | 54.4 | 49.5 |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 450 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 587 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -55.6K |
