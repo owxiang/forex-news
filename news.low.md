@@ -51,16 +51,15 @@
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Jul) | 2.2% |  | 2.1% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Jul) | 0.0% |  | 0.2% |
 | 11:00 | INR | Federal Fiscal Deficit (Jun) | 3,078.33B |  | 1,623.54B |
-| 12:30 | INR | FX Reserves, USD |  |  | 676.24B |
-| 12:30 | INR | M3 Money Supply |  |  | 13.0% |
+| 12:30 | INR | FX Reserves, USD | 682.35B |  | 676.24B |
 | 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
-| 12:30 | BRL | Net Debt-to-GDP ratio (Jun) |  |  | 67.9% |
-| 12:30 | BRL | Budget Balance (Jun) |  | -133.200B | -163.679B |
-| 12:30 | BRL | Budget Surplus (Jun) |  |  | -56.131B |
-| 13:00 | BRL | Brazilian PPI (MoM) (Jun) |  |  | -0.30% |
-| 13:00 | ZAR | Trade Balance (Jun) |  |  | -1.79B |
-| 13:30 | USD | Employment Benefits (QoQ) (Q2) |  |  | 1.20% |
-| 13:30 | USD | Employment Wages (QoQ) (Q2) |  |  | 0.80% |
+| 12:30 | BRL | Net Debt-to-GDP ratio (Jun) | 68.5% |  | 67.9% |
+| 12:30 | BRL | Budget Balance (Jun) | -166.000B | -133.200B | -163.679B |
+| 12:30 | BRL | Budget Surplus (Jun) | -55.300B |  | -56.131B |
+| 13:00 | BRL | Brazilian PPI (MoM) (Jun) | -0.77% |  | -0.30% |
+| 13:00 | ZAR | Trade Balance (Jun) | 17.75B |  | 4.44B |
+| 13:30 | USD | Employment Benefits (QoQ) (Q2) | 1.00% |  | 1.20% |
+| 13:30 | USD | Employment Wages (QoQ) (Q2) | 0.90% |  | 0.80% |
 | 15:00 | USD | Michigan Current Conditions (Jul) |  | 54.9 | 47.7 |
 | 16:00 | CAD | Budget Balance (May) |  |  | -29.73B |
 | 16:00 | CAD | Budget Balance (YoY) (May) |  |  | -55.28B |

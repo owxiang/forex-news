@@ -72,20 +72,19 @@
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jul) | 0.0% |  | 0.2% |
 | 11:00 | INR | Low | Federal Fiscal Deficit (Jun) | 3,078.33B |  | 1,623.54B |
 | 12:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 12:30 | INR | Low | FX Reserves, USD |  |  | 676.24B |
-| 12:30 | INR | Low | M3 Money Supply |  |  | 13.0% |
+| 12:30 | INR | Low | FX Reserves, USD | 682.35B |  | 676.24B |
 | 12:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
-| 12:30 | BRL | Low | Net Debt-to-GDP ratio (Jun) |  |  | 67.9% |
-| 12:30 | BRL | Low | Budget Balance (Jun) |  | -133.200B | -163.679B |
-| 12:30 | BRL | Low | Budget Surplus (Jun) |  |  | -56.131B |
-| 12:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Jun) |  | 81.5% | 81.1% |
-| 13:00 | BRL | Low | Brazilian PPI (MoM) (Jun) |  |  | -0.30% |
-| 13:00 | ZAR | Low | Trade Balance (Jun) |  |  | -1.79B |
-| 13:30 | USD | Low | Employment Benefits (QoQ) (Q2) |  |  | 1.20% |
-| 13:30 | USD | Moderate | Employment Cost Index (QoQ) (Q2) |  | 0.8% | 0.9% |
-| 13:30 | USD | Low | Employment Wages (QoQ) (Q2) |  |  | 0.80% |
-| 13:30 | CAD | Moderate | GDP (MoM) (May) |  | 0.2% | 0.5% |
-| 13:31 | CAD | Moderate | GDP (MoM) (Jun) |  |  |  |
+| 12:30 | BRL | Low | Net Debt-to-GDP ratio (Jun) | 68.5% |  | 67.9% |
+| 12:30 | BRL | Low | Budget Balance (Jun) | -166.000B | -133.200B | -163.679B |
+| 12:30 | BRL | Low | Budget Surplus (Jun) | -55.300B |  | -56.131B |
+| 12:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Jun) | 81.9% | 81.5% | 81.1% |
+| 13:00 | BRL | Low | Brazilian PPI (MoM) (Jun) | -0.77% |  | -0.30% |
+| 13:00 | ZAR | Low | Trade Balance (Jun) | 17.75B |  | 4.44B |
+| 13:30 | USD | Low | Employment Benefits (QoQ) (Q2) | 1.00% |  | 1.20% |
+| 13:30 | USD | Moderate | Employment Cost Index (QoQ) (Q2) | 0.9% | 0.8% | 0.9% |
+| 13:30 | USD | Low | Employment Wages (QoQ) (Q2) | 0.90% |  | 0.80% |
+| 13:30 | CAD | Moderate | GDP (MoM) (May) | 0.3% | 0.1% | 0.5% |
+| 13:31 | CAD | Moderate | GDP (MoM) (Jun) | 0.2% |  | 0.3% |
 | 14:45 | USD | High | Chicago PMI (Jul) |  | 56.0 | 56.7 |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Jul) |  | 4.2% | 4.6% |
 | 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Jul) |  | 3.3% | 3.3% |
@@ -94,8 +93,8 @@
 | 15:00 | USD | Low | Michigan Current Conditions (Jul) |  | 54.9 | 47.7 |
 | 16:00 | CAD | Low | Budget Balance (May) |  |  | -29.73B |
 | 16:00 | CAD | Low | Budget Balance (YoY) (May) |  |  | -55.28B |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  |  |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  |  |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 450 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 587 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -55.6K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -0.6K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 74.0K |
