@@ -16,12 +16,11 @@
 | 00:50 | JPY | Large Retailers' Sales (MoM) (Jun) | -4.1% |  | 1.7% |
 | 00:50 | JPY | Large Scale Retail Sales YoY (YoY) (Jun) | -1.0% |  | 5.0% |
 | 00:50 | JPY | Retail Sales (YoY) (Jun) | 0.5% | 3.1% | 5.0% |
-| 02:30 | AUD | Housing Credit (Jun) |  |  | 0.5% |
-| 02:30 | AUD | Private Sector Credit (MoM) (Jun) |  | 0.6% | 0.7% |
-| 03:00 | SGD | Bank Lending (Jun) |  |  | 917.7B |
-| 03:30 | SGD | Unemployment Rate (Q2) |  |  | 2.0% |
-| 03:30 | SGD | Unemployment Rate |  |  | 2.0% |
-| 04:00 | NZD | M3 Money Supply (Jun) |  |  | 451,046.0B |
+| 02:30 | AUD | Housing Credit (Jun) | 0.6% |  | 0.6% |
+| 02:30 | AUD | Private Sector Credit (MoM) (Jun) | 0.8% | 0.6% | 0.7% |
+| 03:00 | SGD | Bank Lending (Jun) | 931.4B |  | 917.7B |
+| 03:30 | SGD | Unemployment Rate (Q2) | 2.0% |  | 2.0% |
+| 04:00 | NZD | M3 Money Supply (Jun) | 454.7B |  | 451.0B |
 | 06:00 | JPY | Construction Orders (YoY) (Jun) |  |  | -6.7% |
 | 06:00 | JPY | Housing Starts (YoY) (Jun) |  | 12.7% | 33.9% |
 | 06:00 | SGD | Business Expectations (Q2) |  |  | 17.00 |

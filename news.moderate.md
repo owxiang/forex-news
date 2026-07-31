@@ -4,10 +4,10 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | Tokyo Core CPI (YoY) (Jul) | 1.9% | 1.8% | 1.6% |
 | 00:50 | JPY | Industrial Production (MoM) (Jun) | 1.3% | 1.0% | 0.1% |
-| 02:30 | AUD | PPI (QoQ) (Q2) |  | 0.5% | 0.4% |
-| 02:30 | AUD | PPI (YoY) (Q2) |  |  | 3.0% |
-| 02:30 | CNY | Chinese Composite PMI (Jul) |  |  | 50.6 |
-| 02:30 | CNY | Non-Manufacturing PMI (Jul) |  | 50.0 | 50.2 |
+| 02:30 | AUD | PPI (QoQ) (Q2) | 1.3% | 0.5% | 0.4% |
+| 02:30 | AUD | PPI (YoY) (Q2) | 3.6% |  | 3.0% |
+| 02:30 | CNY | Chinese Composite PMI (Jul) | 49.3 |  | 50.6 |
+| 02:30 | CNY | Non-Manufacturing PMI (Jul) | 49.0 | 50.0 | 50.2 |
 | 03:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
 | 04:00 | JPY | BoJ Outlook Report (YoY) |  |  |  |
 | 07:00 | GBP | Nationwide HPI (MoM) (Jul) |  | 0.1% | 0.0% |

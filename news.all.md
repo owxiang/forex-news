@@ -18,20 +18,19 @@
 | 00:50 | JPY | Low | Large Retailers' Sales (MoM) (Jun) | -4.1% |  | 1.7% |
 | 00:50 | JPY | Low | Large Scale Retail Sales YoY (YoY) (Jun) | -1.0% |  | 5.0% |
 | 00:50 | JPY | Low | Retail Sales (YoY) (Jun) | 0.5% | 3.1% | 5.0% |
-| 02:30 | AUD | Low | Housing Credit (Jun) |  |  | 0.5% |
-| 02:30 | AUD | Moderate | PPI (QoQ) (Q2) |  | 0.5% | 0.4% |
-| 02:30 | AUD | Moderate | PPI (YoY) (Q2) |  |  | 3.0% |
-| 02:30 | AUD | Low | Private Sector Credit (MoM) (Jun) |  | 0.6% | 0.7% |
-| 02:30 | CNY | Moderate | Chinese Composite PMI (Jul) |  |  | 50.6 |
-| 02:30 | CNY | High | Manufacturing PMI (Jul) |  | 50.1 | 50.3 |
-| 02:30 | CNY | Moderate | Non-Manufacturing PMI (Jul) |  | 50.0 | 50.2 |
-| 03:00 | SGD | Low | Bank Lending (Jun) |  |  | 917.7B |
+| 02:30 | AUD | Low | Housing Credit (Jun) | 0.6% |  | 0.6% |
+| 02:30 | AUD | Moderate | PPI (QoQ) (Q2) | 1.3% | 0.5% | 0.4% |
+| 02:30 | AUD | Moderate | PPI (YoY) (Q2) | 3.6% |  | 3.0% |
+| 02:30 | AUD | Low | Private Sector Credit (MoM) (Jun) | 0.8% | 0.6% | 0.7% |
+| 02:30 | CNY | Moderate | Chinese Composite PMI (Jul) | 49.3 |  | 50.6 |
+| 02:30 | CNY | High | Manufacturing PMI (Jul) | 49.2 | 50.1 | 50.3 |
+| 02:30 | CNY | Moderate | Non-Manufacturing PMI (Jul) | 49.0 | 50.0 | 50.2 |
+| 03:00 | SGD | Low | Bank Lending (Jun) | 931.4B |  | 917.7B |
 | 03:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
-| 03:30 | SGD | Low | Unemployment Rate (Q2) |  |  | 2.0% |
-| 03:30 | SGD | Low | Unemployment Rate |  |  | 2.0% |
+| 03:30 | SGD | Low | Unemployment Rate (Q2) | 2.0% |  | 2.0% |
 | 04:00 | JPY | Moderate | BoJ Outlook Report (YoY) |  |  |  |
-| 04:00 | JPY | High | BoJ Interest Rate Decision |  | 1.00% | 1.00% |
-| 04:00 | NZD | Low | M3 Money Supply (Jun) |  |  | 451,046.0B |
+| 04:00 | JPY | High | BoJ Interest Rate Decision | 1.00% | 1.00% | 1.00% |
+| 04:00 | NZD | Low | M3 Money Supply (Jun) | 454.7B |  | 451.0B |
 | 06:00 | JPY | Low | Construction Orders (YoY) (Jun) |  |  | -6.7% |
 | 06:00 | JPY | Low | Housing Starts (YoY) (Jun) |  | 12.7% | 33.9% |
 | 06:00 | SGD | Low | Business Expectations (Q2) |  |  | 17.00 |
