@@ -1,7 +1,6 @@
-## 01 August 2026 - All Forex News
+## 02 August 2026 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 01:00 | KRW | Low | Exports (YoY) (Jul) | 62.8% | 59.0% | 70.7% |
-| 01:00 | KRW | Low | Imports (YoY) (Jul) | 26.5% | 26.6% | 30.0% |
-| 01:00 | KRW | Low | Trade Balance (Jul) | 30.32B | 29.59B | 36.09B |
+| 11:00 | USD | Moderate | OPEC Meeting |  |  |  |
+| 23:45 | NZD | Low | Building Consents (MoM) (Jun) |  |  | -4.0% |
