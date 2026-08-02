@@ -2,5 +2,5 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 48 min | USD | Moderate | OPEC Meeting |  |  |  |
+| 11:00 | USD | Moderate | OPEC Meeting |  |  |  |
 | 23:45 | NZD | Low | Building Consents (MoM) (Jun) |  |  | -4.0% |
