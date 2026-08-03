@@ -34,4 +34,4 @@
 | 16:30 | USD | 6-Month Bill Auction | 3.855% |  | 3.945% |
 | 17:30 | EUR | Italian Car Registration (YoY) (Jul) | 3.9% |  | 10.6% |
 | 19:00 | USD | Loan Officer Survey |  |  |  |
-| 23:30 | USD | Total Vehicle Sales (Jul) |  | 16.30M | 16.50M |
+| 21:40 | USD | Total Vehicle Sales (Jul) | 24.10M | 16.30M | 16.50M |

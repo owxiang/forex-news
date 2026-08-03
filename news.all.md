@@ -50,4 +50,4 @@
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 6.2% | 5.0% | 5.0% |
 | 17:30 | EUR | Low | Italian Car Registration (YoY) (Jul) | 3.9% |  | 10.6% |
 | 19:00 | USD | Low | Loan Officer Survey |  |  |  |
-| 23:30 | USD | Low | Total Vehicle Sales (Jul) |  | 16.30M | 16.50M |
+| 21:40 | USD | Low | Total Vehicle Sales (Jul) | 24.10M | 16.30M | 16.50M |
