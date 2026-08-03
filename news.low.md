@@ -32,6 +32,6 @@
 | 16:00 | MXN | S&P Global Manufacturing PMI (Jul) | 51.30 |  | 51.30 |
 | 16:30 | USD | 3-Month Bill Auction | 3.750% |  | 3.815% |
 | 16:30 | USD | 6-Month Bill Auction | 3.855% |  | 3.945% |
-| 17:30 | EUR | Italian Car Registration (YoY) (Jul) |  |  | 10.6% |
-| 19:00 | USD | Loan Officer Survey |  |  |  |
-| 19:00 | USD | Total Vehicle Sales (Jul) |  | 16.30M | 16.50M |
+| 17:30 | EUR | Italian Car Registration (YoY) (Jul) | 3.9% |  | 10.6% |
+| 3 min | USD | Loan Officer Survey |  |  |  |
+| 3 min | USD | Total Vehicle Sales (Jul) |  | 16.30M | 16.50M |

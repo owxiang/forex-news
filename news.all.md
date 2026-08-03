@@ -48,6 +48,6 @@
 | 16:30 | USD | Low | 3-Month Bill Auction | 3.750% |  | 3.815% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 3.855% |  | 3.945% |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 6.2% | 5.0% | 5.0% |
-| 17:30 | EUR | Low | Italian Car Registration (YoY) (Jul) |  |  | 10.6% |
-| 19:00 | USD | Low | Loan Officer Survey |  |  |  |
-| 19:00 | USD | Low | Total Vehicle Sales (Jul) |  | 16.30M | 16.50M |
+| 17:30 | EUR | Low | Italian Car Registration (YoY) (Jul) | 3.9% |  | 10.6% |
+| 3 min | USD | Low | Loan Officer Survey |  |  |  |
+| 3 min | USD | Low | Total Vehicle Sales (Jul) |  | 16.30M | 16.50M |
