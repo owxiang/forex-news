@@ -4,19 +4,19 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | AUD | S&P Global Manufacturing PMI (Jul) | 52.0 | 51.7 | 51.5 |
 | 01:30 | KRW | S&P Global South Korea Manufacturing PMI (Jul) | 53.1 |  | 52.1 |
-| 01:30 | JPY | S&P Global Manufacturing PMI (Jul) | 54.5 | 54.7 | 54.7 |
+| 01:30 | JPY | S&P Global Manufacturing PMI (Jul) | 54.5 | 54.7 | 54.8 |
 | 01:30 | IDR | S&P Global Manufacturing PMI (Jul) | 50.2 |  | 46.9 |
 | 02:00 | AUD | MI Inflation Gauge (MoM) (Jul) | 1.0% |  | -0.4% |
 | 03:00 | AUD | ANZ Job Advertisements (MoM) (Jul) | 2.0% |  | -0.2% |
 | 05:00 | IDR | Core Inflation (YoY) (Jul) | 2.76% | 2.80% | 2.76% |
 | 05:00 | IDR | Export Growth (YoY) (Jun) | 8.84% | 0.25% | -5.73% |
+| 05:00 | IDR | Import Growth (YoY) (Jun) | 34.27% | 25.30% | 22.16% |
 | 05:00 | IDR | Inflation (YoY) (Jul) | 2.88% | 3.20% | 3.34% |
 | 05:00 | IDR | Inflation (MoM) (Jul) | -0.14% | 0.10% | 0.44% |
-| 06:00 | INR | HSBC India Manufacturing PMI (Jul) |  | 53.9 | 53.9 |
-| 06:00 | IDR | Import Growth (YoY) (Jun) |  | 25.30% | 22.16% |
-| 06:00 | IDR | Trade Balance (Jun) |  | -0.79B | -1.61B |
-| 07:00 | EUR | German Retail Sales (YoY) (Jun) |  |  | 1.8% |
-| 07:30 | CHF | CPI (YoY) (Jul) |  |  | 0.5% |
+| 05:00 | IDR | Trade Balance (Jun) | -0.45B | -0.79B | -1.61B |
+| 06:00 | INR | HSBC India Manufacturing PMI (Jul) | 53.5 | 53.9 | 54.2 |
+| 07:00 | EUR | German Retail Sales (YoY) (Jun) | -0.2% |  | -2.8% |
+| 07:30 | CHF | CPI (YoY) (Jul) | 0.4% |  | 0.5% |
 | 10:00 | ZAR | Manufacturing PMI (Jul) |  |  | 47.3 |
 | 12:00 | EUR | Car Registration (MoM) (Jul) |  |  | 14.80% |
 | 12:00 | EUR | Car Registration (YoY) (Jul) |  |  | 7.80% |
