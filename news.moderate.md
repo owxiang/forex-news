@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:45 | CNY | RatingDog Manufacturing PMI (MoM) (Jul) |  | 51.9 | 51.7 |
+| 02:45 | CNY | RatingDog Manufacturing PMI (MoM) (Jul) | 50.9 | 51.9 | 51.7 |
 | 07:00 | EUR | German Retail Sales (MoM) (Jun) |  | -0.4% | 1.1% |
 | 07:30 | CHF | CPI (MoM) (Jul) |  | -0.1% | 0.0% |
 | 08:15 | EUR | HCOB Spain Manufacturing PMI (Jul) |  | 50.5 | 49.7 |
