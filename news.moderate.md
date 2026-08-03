@@ -1,17 +1,15 @@
-## 03 August 2026 - Moderate Impact Forex News
+## 04 August 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:45 | CNY | RatingDog Manufacturing PMI (MoM) (Jul) | 50.9 | 51.9 | 51.7 |
-| 07:00 | EUR | German Retail Sales (MoM) (Jun) | -1.1% | -0.4% | 1.2% |
-| 07:30 | CHF | CPI (MoM) (Jul) | -0.1% | -0.1% | 0.0% |
-| 08:15 | EUR | HCOB Spain Manufacturing PMI (Jul) | 50.2 | 50.5 | 49.7 |
-| 08:30 | CHF | procure.ch Manufacturing PMI (Jul) | 53.2 | 54.5 | 54.3 |
-| 08:45 | EUR | HCOB Italy Manufacturing PMI (Jul) | 51.3 | 52.5 | 52.2 |
-| 08:50 | EUR | HCOB France Manufacturing PMI (Jul) | 49.8 | 50.0 | 50.0 |
-| 08:55 | EUR | HCOB Germany Manufacturing PMI (Jul) | 52.2 | 52.2 | 52.2 |
-| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Jul) | 51.9 | 52.0 | 52.0 |
-| 09:30 | GBP | S&P Global Manufacturing PMI (Jul) | 51.9 | 52.8 | 52.8 |
-| 15:00 | USD | Construction Spending (MoM) (Jun) | -0.1% | 0.2% | 0.0% |
-| 15:00 | USD | ISM Manufacturing Employment (Jul) | 52.8 | 50.0 | 49.7 |
-| 16:30 | USD | Atlanta Fed GDPNow (Q3) | 6.2% | 5.0% | 5.0% |
+| 04:35 | JPY | 10-Year JGB Auction |  |  | 2.730% |
+| 08:00 | EUR | Spanish Unemployment Change (Jul) |  | -20.3K | -28.7K |
+| 10:00 | BRL | IPC-Fipe Inflation Index (MoM) (Jul) |  |  | 0.18% |
+| 13:00 | BRL | Industrial Production (YoY) (Jun) |  | 3.0% | 0.2% |
+| 13:30 | USD | Exports (Jun) |  |  | 317.70B |
+| 13:30 | USD | Imports (Jun) |  |  | 395.30B |
+| 13:30 | USD | Trade Balance (Jun) |  | -73.00B | -77.60B |
+| 13:30 | CAD | Trade Balance (Jun) |  | 3.00B | 4.24B |
+| 15:00 | USD | Factory Orders (MoM) (Jun) |  | 0.0% | -1.3% |
+| 16:30 | USD | Atlanta Fed GDPNow (Q3) |  |  |  |
+| 21:30 | USD | API Weekly Crude Oil Stock |  |  | 3.296M |

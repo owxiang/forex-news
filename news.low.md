@@ -1,37 +1,37 @@
-## 03 August 2026 - Low Impact Forex News
+## 04 August 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | AUD | S&P Global Manufacturing PMI (Jul) | 52.0 | 51.7 | 51.5 |
-| 01:30 | KRW | S&P Global South Korea Manufacturing PMI (Jul) | 53.1 |  | 52.1 |
-| 01:30 | JPY | S&P Global Manufacturing PMI (Jul) | 54.5 | 54.7 | 54.8 |
-| 01:30 | IDR | S&P Global Manufacturing PMI (Jul) | 50.2 |  | 46.9 |
-| 02:00 | AUD | MI Inflation Gauge (MoM) (Jul) | 1.0% |  | -0.4% |
-| 03:00 | AUD | ANZ Job Advertisements (MoM) (Jul) | 2.0% |  | -0.2% |
-| 05:00 | IDR | Core Inflation (YoY) (Jul) | 2.76% | 2.80% | 2.76% |
-| 05:00 | IDR | Export Growth (YoY) (Jun) | 8.84% | 0.25% | -5.73% |
-| 05:00 | IDR | Import Growth (YoY) (Jun) | 34.27% | 25.30% | 22.16% |
-| 05:00 | IDR | Inflation (YoY) (Jul) | 2.88% | 3.20% | 3.34% |
-| 05:00 | IDR | Inflation (MoM) (Jul) | -0.14% | 0.10% | 0.44% |
-| 05:00 | IDR | Trade Balance (Jun) | -0.45B | -0.79B | -1.61B |
-| 06:00 | INR | HSBC India Manufacturing PMI (Jul) | 53.5 | 53.9 | 54.2 |
-| 07:00 | EUR | German Retail Sales (YoY) (Jun) | -0.2% |  | -2.8% |
-| 07:30 | CHF | CPI (YoY) (Jul) | 0.4% |  | 0.5% |
-| 10:00 | ZAR | Manufacturing PMI (Jul) | 46.8 |  | 47.3 |
-| 12:00 | EUR | Car Registration (MoM) (Jul) | -20.60% |  | 14.80% |
-| 12:00 | EUR | Car Registration (YoY) (Jul) | 3.70% |  | 7.80% |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | ZAR | Total Vehicle Sales (YoY) (Jul) | 11.90% |  | 15.30% |
-| 13:00 | ZAR | Total Vehicle Sales (Jul) | 57.71K |  | 54.41K |
-| 14:00 | EUR | French 12-Month BTF Auction | 2.738% |  | 2.753% |
-| 14:00 | EUR | French 3-Month BTF Auction | 2.448% |  | 2.424% |
-| 14:00 | EUR | French 6-Month BTF Auction | 2.585% |  | 2.587% |
-| 14:00 | BRL | S&P Global Manufacturing PMI (Jul) | 47.5 |  | 50.8 |
-| 14:00 | SGD | S&P Global Manufacturing PMI (Jul) | 51.4 |  | 51.3 |
-| 15:00 | USD | ISM Manufacturing New Orders Index (Jul) | 56.7 | 56.7 | 56.0 |
-| 16:00 | MXN | S&P Global Manufacturing PMI (Jul) | 51.30 |  | 51.30 |
-| 16:30 | USD | 3-Month Bill Auction | 3.750% |  | 3.815% |
-| 16:30 | USD | 6-Month Bill Auction | 3.855% |  | 3.945% |
-| 17:30 | EUR | Italian Car Registration (YoY) (Jul) | 3.9% |  | 10.6% |
-| 19:00 | USD | Loan Officer Survey |  |  |  |
-| 21:40 | USD | Total Vehicle Sales (Jul) | 24.10M | 16.30M | 16.50M |
+| 00:00 | KRW | CPI (MoM) (Jul) | -0.2% | 0.1% | 0.1% |
+| 00:00 | KRW | CPI (YoY) (Jul) | 2.8% | 3.0% | 3.2% |
+| 44 min | JPY | Monetary Base (YoY) (Jul) |  | -13.0% | -13.7% |
+| 02:30 | AUD | ANZ Job Advertisements (MoM) (Jul) |  |  | -0.2% |
+| 07:30 | AUD | Commodity Prices (YoY) (Jul) |  |  | 16.9% |
+| 07:45 | EUR | French Government Budget Balance (Jun) |  |  | -93.3B |
+| 09:00 | EUR | Italian Retail Sales (MoM) (Jun) |  | 0.1% | 0.2% |
+| 09:00 | EUR | Italian Retail Sales (YoY) (Jun) |  |  | 2.2% |
+| 09:30 | HKD | Retail Sales (YoY) (Jun) |  |  | 7.9% |
+| 09:40 | EUR | Spanish 12-Month Letras Auction |  |  | 2.500% |
+| 09:40 | EUR | Spanish 6-Month Letras Auction |  |  | 2.385% |
+| 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.770% |
+| 13:00 | MXN | Consumer Confidence (Jul) |  |  | 43.8 |
+| 13:00 | MXN | Consumer Confidence n.s.a. (Jul) |  |  | 43.8 |
+| 13:00 | BRL | Industrial Production (MoM) (Jun) |  | -0.7% | -0.2% |
+| 13:30 | CAD | Exports (Jun) |  |  | 77.10B |
+| 13:30 | CAD | Imports (Jun) |  |  | 72.86B |
+| 13:55 | USD | Redbook (YoY) |  |  | 8.3% |
+| 14:30 | CAD | S&P Global Manufacturing PMI (Jul) |  | 50.2 | 53.0 |
+| 15:00 | USD | Durables Excluding Defense (MoM) (Jun) |  | 0.3% | 0.3% |
+| 15:00 | USD | Durables Excluding Transport (MoM) (Jun) |  |  | 0.6% |
+| 15:00 | USD | Factory orders ex transportation (MoM) (Jun) |  |  | 1.9% |
+| 15:00 | USD | IBD/TIPP Economic Optimism (Aug) |  | 47.5 | 45.5 |
+| 16:00 | NZD | GlobalDairyTrade Price Index |  |  | 1.5% |
+| 16:00 | USD | Milk Auctions |  |  | 3,815.0 |
+| 16:30 | USD | 52-Week Bill Auction |  |  | 3.860% |
+| 17:00 | EUR | French Car Registration (YoY) (Jul) |  |  | 11.4% |
+| 22:00 | KRW | FX Reserves - USD (Jul) |  |  | 427.36B |
+| 23:45 | NZD | Employment Change (QoQ) (Q2) |  | 0.1% | 0.2% |
+| 23:45 | NZD | Labor Cost Index (QoQ) (Q2) |  | 0.6% | 0.5% |
+| 23:45 | NZD | Labor Cost Index (YoY) (Q2) |  |  | 2.0% |
+| 23:45 | NZD | Participation Rate (Q2) |  |  | 70.40% |
+| 23:45 | NZD | Unemployment Rate (Q2) |  | 5.4% | 5.3% |
