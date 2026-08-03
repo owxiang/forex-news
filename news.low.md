@@ -21,17 +21,17 @@
 | 12:00 | EUR | Car Registration (MoM) (Jul) | -20.60% |  | 14.80% |
 | 12:00 | EUR | Car Registration (YoY) (Jul) | 3.70% |  | 7.80% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:30 | ZAR | Total Vehicle Sales (YoY) (Jul) |  |  | 15.30% |
-| 13:30 | ZAR | Total Vehicle Sales (Jul) |  |  | 54.48K |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.753% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.424% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.587% |
-| 14:00 | BRL | S&P Global Manufacturing PMI (Jul) |  |  | 50.8 |
-| 14:00 | SGD | S&P Global Manufacturing PMI (Jul) |  |  | 51.3 |
-| 15:00 | USD | ISM Manufacturing New Orders Index (Jul) |  |  | 56.0 |
-| 16:00 | MXN | S&P Global Manufacturing PMI (Jul) |  |  | 51.30 |
-| 16:30 | USD | 3-Month Bill Auction |  |  | 3.815% |
-| 16:30 | USD | 6-Month Bill Auction |  |  | 3.945% |
+| 13:00 | ZAR | Total Vehicle Sales (YoY) (Jul) | 11.90% |  | 15.30% |
+| 13:00 | ZAR | Total Vehicle Sales (Jul) | 57.71K |  | 54.41K |
+| 14:00 | EUR | French 12-Month BTF Auction | 2.738% |  | 2.753% |
+| 14:00 | EUR | French 3-Month BTF Auction | 2.448% |  | 2.424% |
+| 14:00 | EUR | French 6-Month BTF Auction | 2.585% |  | 2.587% |
+| 14:00 | BRL | S&P Global Manufacturing PMI (Jul) | 47.5 |  | 50.8 |
+| 14:00 | SGD | S&P Global Manufacturing PMI (Jul) | 51.4 |  | 51.3 |
+| 15:00 | USD | ISM Manufacturing New Orders Index (Jul) | 56.7 | 56.7 | 56.0 |
+| 16:00 | MXN | S&P Global Manufacturing PMI (Jul) | 51.30 |  | 51.30 |
+| 16:30 | USD | 3-Month Bill Auction | 3.750% |  | 3.815% |
+| 16:30 | USD | 6-Month Bill Auction | 3.855% |  | 3.945% |
 | 17:30 | EUR | Italian Car Registration (YoY) (Jul) |  |  | 10.6% |
 | 19:00 | USD | Loan Officer Survey |  |  |  |
 | 19:00 | USD | Total Vehicle Sales (Jul) |  | 16.30M | 16.50M |

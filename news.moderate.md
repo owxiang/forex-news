@@ -12,6 +12,6 @@
 | 08:55 | EUR | HCOB Germany Manufacturing PMI (Jul) | 52.2 | 52.2 | 52.2 |
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Jul) | 51.9 | 52.0 | 52.0 |
 | 09:30 | GBP | S&P Global Manufacturing PMI (Jul) | 51.9 | 52.8 | 52.8 |
-| 15:00 | USD | Construction Spending (MoM) (Jun) |  | 0.2% | 0.1% |
-| 15:00 | USD | ISM Manufacturing Employment (Jul) |  |  | 49.7 |
-| 16:30 | USD | Atlanta Fed GDPNow (Q3) |  |  |  |
+| 15:00 | USD | Construction Spending (MoM) (Jun) | -0.1% | 0.2% | 0.0% |
+| 15:00 | USD | ISM Manufacturing Employment (Jul) | 52.8 | 50.0 | 49.7 |
+| 16:30 | USD | Atlanta Fed GDPNow (Q3) | 6.2% | 5.0% | 5.0% |

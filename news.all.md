@@ -31,23 +31,23 @@
 | 12:00 | EUR | Low | Car Registration (MoM) (Jul) | -20.60% |  | 14.80% |
 | 12:00 | EUR | Low | Car Registration (YoY) (Jul) | 3.70% |  | 7.80% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:30 | ZAR | Low | Total Vehicle Sales (YoY) (Jul) |  |  | 15.30% |
-| 13:30 | ZAR | Low | Total Vehicle Sales (Jul) |  |  | 54.48K |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.753% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.424% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.587% |
-| 14:00 | BRL | Low | S&P Global Manufacturing PMI (Jul) |  |  | 50.8 |
-| 14:00 | SGD | Low | S&P Global Manufacturing PMI (Jul) |  |  | 51.3 |
-| 14:45 | USD | High | S&P Global Manufacturing PMI (Jul) |  | 53.8 | 53.8 |
-| 15:00 | USD | Moderate | Construction Spending (MoM) (Jun) |  | 0.2% | 0.1% |
-| 15:00 | USD | Moderate | ISM Manufacturing Employment (Jul) |  |  | 49.7 |
-| 15:00 | USD | Low | ISM Manufacturing New Orders Index (Jul) |  |  | 56.0 |
-| 15:00 | USD | High | ISM Manufacturing PMI (Jul) |  | 54.0 | 53.3 |
-| 15:00 | USD | High | ISM Manufacturing Prices (Jul) |  | 70.0 | 73.0 |
-| 16:00 | MXN | Low | S&P Global Manufacturing PMI (Jul) |  |  | 51.30 |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.815% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.945% |
-| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  |  |  |
+| 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (Jul) | 11.90% |  | 15.30% |
+| 13:00 | ZAR | Low | Total Vehicle Sales (Jul) | 57.71K |  | 54.41K |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.738% |  | 2.753% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.448% |  | 2.424% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.585% |  | 2.587% |
+| 14:00 | BRL | Low | S&P Global Manufacturing PMI (Jul) | 47.5 |  | 50.8 |
+| 14:00 | SGD | Low | S&P Global Manufacturing PMI (Jul) | 51.4 |  | 51.3 |
+| 14:45 | USD | High | S&P Global Manufacturing PMI (Jul) | 53.9 | 53.8 | 53.9 |
+| 15:00 | USD | Moderate | Construction Spending (MoM) (Jun) | -0.1% | 0.2% | 0.0% |
+| 15:00 | USD | Moderate | ISM Manufacturing Employment (Jul) | 52.8 | 50.0 | 49.7 |
+| 15:00 | USD | Low | ISM Manufacturing New Orders Index (Jul) | 56.7 | 56.7 | 56.0 |
+| 15:00 | USD | High | ISM Manufacturing PMI (Jul) | 55.6 | 54.0 | 53.3 |
+| 15:00 | USD | High | ISM Manufacturing Prices (Jul) | 71.1 | 70.0 | 73.0 |
+| 16:00 | MXN | Low | S&P Global Manufacturing PMI (Jul) | 51.30 |  | 51.30 |
+| 16:30 | USD | Low | 3-Month Bill Auction | 3.750% |  | 3.815% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 3.855% |  | 3.945% |
+| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 6.2% | 5.0% | 5.0% |
 | 17:30 | EUR | Low | Italian Car Registration (YoY) (Jul) |  |  | 10.6% |
 | 19:00 | USD | Low | Loan Officer Survey |  |  |  |
 | 19:00 | USD | Low | Total Vehicle Sales (Jul) |  | 16.30M | 16.50M |
