@@ -27,12 +27,12 @@
 | 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Jul) | 52.2 | 52.2 | 52.2 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Jul) | 51.9 | 52.0 | 52.0 |
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Jul) | 51.9 | 52.8 | 52.8 |
-| 10:00 | ZAR | Low | Manufacturing PMI (Jul) |  |  | 47.3 |
-| 12:00 | EUR | Low | Car Registration (MoM) (Jul) |  |  | 14.80% |
-| 12:00 | EUR | Low | Car Registration (YoY) (Jul) |  |  | 7.80% |
+| 10:00 | ZAR | Low | Manufacturing PMI (Jul) | 46.8 |  | 47.3 |
+| 12:00 | EUR | Low | Car Registration (MoM) (Jul) | -20.60% |  | 14.80% |
+| 12:00 | EUR | Low | Car Registration (YoY) (Jul) | 3.70% |  | 7.80% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:15 | ZAR | Low | Total Vehicle Sales (YoY) (Jul) |  |  | 15.30% |
-| 13:15 | ZAR | Low | Total Vehicle Sales (Jul) |  |  | 54.48K |
+| 13:30 | ZAR | Low | Total Vehicle Sales (YoY) (Jul) |  |  | 15.30% |
+| 13:30 | ZAR | Low | Total Vehicle Sales (Jul) |  |  | 54.48K |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.753% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.424% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.587% |
@@ -50,3 +50,4 @@
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  |  |  |
 | 17:30 | EUR | Low | Italian Car Registration (YoY) (Jul) |  |  | 10.6% |
 | 19:00 | USD | Low | Loan Officer Survey |  |  |  |
+| 19:00 | USD | Low | Total Vehicle Sales (Jul) |  | 16.30M | 16.50M |

@@ -17,12 +17,12 @@
 | 06:00 | INR | HSBC India Manufacturing PMI (Jul) | 53.5 | 53.9 | 54.2 |
 | 07:00 | EUR | German Retail Sales (YoY) (Jun) | -0.2% |  | -2.8% |
 | 07:30 | CHF | CPI (YoY) (Jul) | 0.4% |  | 0.5% |
-| 10:00 | ZAR | Manufacturing PMI (Jul) |  |  | 47.3 |
-| 12:00 | EUR | Car Registration (MoM) (Jul) |  |  | 14.80% |
-| 12:00 | EUR | Car Registration (YoY) (Jul) |  |  | 7.80% |
+| 10:00 | ZAR | Manufacturing PMI (Jul) | 46.8 |  | 47.3 |
+| 12:00 | EUR | Car Registration (MoM) (Jul) | -20.60% |  | 14.80% |
+| 12:00 | EUR | Car Registration (YoY) (Jul) | 3.70% |  | 7.80% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:15 | ZAR | Total Vehicle Sales (YoY) (Jul) |  |  | 15.30% |
-| 13:15 | ZAR | Total Vehicle Sales (Jul) |  |  | 54.48K |
+| 13:30 | ZAR | Total Vehicle Sales (YoY) (Jul) |  |  | 15.30% |
+| 13:30 | ZAR | Total Vehicle Sales (Jul) |  |  | 54.48K |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.753% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.424% |
 | 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.587% |
@@ -34,3 +34,4 @@
 | 16:30 | USD | 6-Month Bill Auction |  |  | 3.945% |
 | 17:30 | EUR | Italian Car Registration (YoY) (Jul) |  |  | 10.6% |
 | 19:00 | USD | Loan Officer Survey |  |  |  |
+| 19:00 | USD | Total Vehicle Sales (Jul) |  | 16.30M | 16.50M |
