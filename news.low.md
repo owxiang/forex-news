@@ -33,9 +33,9 @@
 | 16:15 | NZD | GlobalDairyTrade Price Index | 0.1% |  | 1.5% |
 | 16:15 | USD | Milk Auctions | 3,778.0 |  | 3,815.0 |
 | 16:30 | USD | 52-Week Bill Auction | 3.880% |  | 3.860% |
-| 22:00 | KRW | FX Reserves - USD (Jul) |  |  | 427.36B |
-| 23:45 | NZD | Employment Change (QoQ) (Q2) |  | 0.1% | 0.2% |
-| 23:45 | NZD | Labor Cost Index (QoQ) (Q2) |  | 0.6% | 0.5% |
-| 23:45 | NZD | Labor Cost Index (YoY) (Q2) |  |  | 2.0% |
-| 23:45 | NZD | Participation Rate (Q2) |  |  | 70.40% |
-| 23:45 | NZD | Unemployment Rate (Q2) |  | 5.4% | 5.3% |
+| 22:00 | KRW | FX Reserves - USD (Jul) | 427.95B |  | 427.36B |
+| 29 min | NZD | Employment Change (QoQ) (Q2) |  | 0.1% | 0.2% |
+| 29 min | NZD | Labor Cost Index (QoQ) (Q2) |  | 0.6% | 0.5% |
+| 29 min | NZD | Labor Cost Index (YoY) (Q2) |  |  | 2.0% |
+| 29 min | NZD | Participation Rate (Q2) |  |  | 70.40% |
+| 29 min | NZD | Unemployment Rate (Q2) |  | 5.4% | 5.3% |
