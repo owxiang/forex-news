@@ -41,7 +41,6 @@
 | 16:15 | NZD | Low | GlobalDairyTrade Price Index | 0.1% |  | 1.5% |
 | 16:15 | USD | Low | Milk Auctions | 3,778.0 |  | 3,815.0 |
 | 16:30 | USD | Low | 52-Week Bill Auction | 3.880% |  | 3.860% |
-| 19:30 | EUR | Low | French Car Registration (YoY) (Jul) |  |  | 11.4% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.000M | 3.296M |
 | 22:00 | KRW | Low | FX Reserves - USD (Jul) |  |  | 427.36B |
 | 23:45 | NZD | Low | Employment Change (QoQ) (Q2) |  | 0.1% | 0.2% |
