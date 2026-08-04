@@ -30,10 +30,10 @@
 | 15:00 | USD | Durables Excluding Transport (MoM) (Jun) | 0.7% |  | 0.6% |
 | 15:00 | USD | Factory orders ex transportation (MoM) (Jun) | -0.4% |  | 2.0% |
 | 15:00 | USD | IBD/TIPP Economic Optimism (Aug) | 45.1 | 47.5 | 45.5 |
-| 16:00 | NZD | GlobalDairyTrade Price Index |  |  | 1.5% |
-| 16:00 | USD | Milk Auctions |  |  | 3,815.0 |
-| 16:30 | USD | 52-Week Bill Auction |  |  | 3.860% |
-| 17:00 | EUR | French Car Registration (YoY) (Jul) |  |  | 11.4% |
+| 16:15 | NZD | GlobalDairyTrade Price Index | 0.1% |  | 1.5% |
+| 16:15 | USD | Milk Auctions | 3,778.0 |  | 3,815.0 |
+| 16:30 | USD | 52-Week Bill Auction | 3.880% |  | 3.860% |
+| 19:30 | EUR | French Car Registration (YoY) (Jul) |  |  | 11.4% |
 | 22:00 | KRW | FX Reserves - USD (Jul) |  |  | 427.36B |
 | 23:45 | NZD | Employment Change (QoQ) (Q2) |  | 0.1% | 0.2% |
 | 23:45 | NZD | Labor Cost Index (QoQ) (Q2) |  | 0.6% | 0.5% |
