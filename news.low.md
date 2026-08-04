@@ -4,11 +4,10 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | KRW | CPI (MoM) (Jul) | -0.2% | 0.1% | 0.1% |
 | 00:00 | KRW | CPI (YoY) (Jul) | 2.8% | 3.0% | 3.2% |
-| 44 min | JPY | Monetary Base (YoY) (Jul) |  | -13.0% | -13.7% |
-| 02:30 | AUD | ANZ Job Advertisements (MoM) (Jul) |  |  | -0.2% |
-| 07:30 | AUD | Commodity Prices (YoY) (Jul) |  |  | 16.9% |
-| 07:45 | EUR | French Government Budget Balance (Jun) |  |  | -93.3B |
-| 09:00 | EUR | Italian Retail Sales (MoM) (Jun) |  | 0.1% | 0.2% |
+| 00:50 | JPY | Monetary Base (YoY) (Jul) | -13.8% | -13.0% | -13.7% |
+| 37 min | AUD | Commodity Prices (YoY) (Jul) |  |  | 16.9% |
+| 52 min | EUR | French Government Budget Balance (Jun) |  |  | -93.3B |
+| 09:00 | EUR | Italian Retail Sales (MoM) (Jun) |  | 0.3% | 0.2% |
 | 09:00 | EUR | Italian Retail Sales (YoY) (Jun) |  |  | 2.2% |
 | 09:30 | HKD | Retail Sales (YoY) (Jun) |  |  | 7.9% |
 | 09:40 | EUR | Spanish 12-Month Letras Auction |  |  | 2.500% |
@@ -20,7 +19,7 @@
 | 13:30 | CAD | Exports (Jun) |  |  | 77.10B |
 | 13:30 | CAD | Imports (Jun) |  |  | 72.86B |
 | 13:55 | USD | Redbook (YoY) |  |  | 8.3% |
-| 14:30 | CAD | S&P Global Manufacturing PMI (Jul) |  | 50.2 | 53.0 |
+| 14:30 | CAD | S&P Global Manufacturing PMI (Jul) |  | 52.2 | 53.0 |
 | 15:00 | USD | Durables Excluding Defense (MoM) (Jun) |  | 0.3% | 0.3% |
 | 15:00 | USD | Durables Excluding Transport (MoM) (Jun) |  |  | 0.6% |
 | 15:00 | USD | Factory orders ex transportation (MoM) (Jun) |  |  | 1.9% |

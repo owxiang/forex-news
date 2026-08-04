@@ -4,13 +4,12 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | KRW | Low | CPI (MoM) (Jul) | -0.2% | 0.1% | 0.1% |
 | 00:00 | KRW | Low | CPI (YoY) (Jul) | 2.8% | 3.0% | 3.2% |
-| 44 min | JPY | Low | Monetary Base (YoY) (Jul) |  | -13.0% | -13.7% |
-| 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (Jul) |  |  | -0.2% |
-| 04:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 2.730% |
-| 07:30 | AUD | Low | Commodity Prices (YoY) (Jul) |  |  | 16.9% |
-| 07:45 | EUR | Low | French Government Budget Balance (Jun) |  |  | -93.3B |
-| 08:00 | EUR | Moderate | Spanish Unemployment Change (Jul) |  | -20.3K | -28.7K |
-| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Jun) |  | 0.1% | 0.2% |
+| 00:50 | JPY | Low | Monetary Base (YoY) (Jul) | -13.8% | -13.0% | -13.7% |
+| 04:35 | JPY | Moderate | 10-Year JGB Auction | 2.840% |  | 2.730% |
+| 37 min | AUD | Low | Commodity Prices (YoY) (Jul) |  |  | 16.9% |
+| 52 min | EUR | Low | French Government Budget Balance (Jun) |  |  | -93.3B |
+| 08:00 | EUR | Moderate | Spanish Unemployment Change (Jul) |  | -18.4K | -28.7K |
+| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Jun) |  | 0.3% | 0.2% |
 | 09:00 | EUR | Low | Italian Retail Sales (YoY) (Jun) |  |  | 2.2% |
 | 09:30 | HKD | Low | Retail Sales (YoY) (Jun) |  |  | 7.9% |
 | 09:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.500% |
@@ -28,17 +27,17 @@
 | 13:30 | CAD | Low | Imports (Jun) |  |  | 72.86B |
 | 13:30 | CAD | Moderate | Trade Balance (Jun) |  | 3.00B | 4.24B |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 8.3% |
-| 14:30 | CAD | Low | S&P Global Manufacturing PMI (Jul) |  | 50.2 | 53.0 |
+| 14:30 | CAD | Low | S&P Global Manufacturing PMI (Jul) |  | 52.2 | 53.0 |
 | 15:00 | USD | Low | Durables Excluding Defense (MoM) (Jun) |  | 0.3% | 0.3% |
 | 15:00 | USD | Low | Durables Excluding Transport (MoM) (Jun) |  |  | 0.6% |
-| 15:00 | USD | Moderate | Factory Orders (MoM) (Jun) |  | 0.0% | -1.3% |
+| 15:00 | USD | Moderate | Factory Orders (MoM) (Jun) |  | 0.2% | -1.3% |
 | 15:00 | USD | Low | Factory orders ex transportation (MoM) (Jun) |  |  | 1.9% |
 | 15:00 | USD | Low | IBD/TIPP Economic Optimism (Aug) |  | 47.5 | 45.5 |
-| 15:00 | USD | High | JOLTS Job Openings (Jun) |  | 7.420M | 7.594M |
+| 15:00 | USD | High | JOLTS Job Openings (Jun) |  | 7.440M | 7.594M |
 | 16:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 1.5% |
 | 16:00 | USD | Low | Milk Auctions |  |  | 3,815.0 |
 | 16:30 | USD | Low | 52-Week Bill Auction |  |  | 3.860% |
-| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  |  |  |
+| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 6.2% | 6.2% |
 | 17:00 | EUR | Low | French Car Registration (YoY) (Jul) |  |  | 11.4% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 3.296M |
 | 22:00 | KRW | Low | FX Reserves - USD (Jul) |  |  | 427.36B |
