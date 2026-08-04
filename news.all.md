@@ -6,15 +6,15 @@
 | 00:00 | KRW | Low | CPI (YoY) (Jul) | 2.8% | 3.0% | 3.2% |
 | 00:50 | JPY | Low | Monetary Base (YoY) (Jul) | -13.8% | -13.0% | -13.7% |
 | 04:35 | JPY | Moderate | 10-Year JGB Auction | 2.840% |  | 2.730% |
-| 37 min | AUD | Low | Commodity Prices (YoY) (Jul) |  |  | 16.9% |
-| 52 min | EUR | Low | French Government Budget Balance (Jun) |  |  | -93.3B |
-| 08:00 | EUR | Moderate | Spanish Unemployment Change (Jul) |  | -18.4K | -28.7K |
-| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Jun) |  | 0.3% | 0.2% |
-| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Jun) |  |  | 2.2% |
-| 09:30 | HKD | Low | Retail Sales (YoY) (Jun) |  |  | 7.9% |
+| 07:30 | AUD | Low | Commodity Prices (YoY) (Jul) | 15.4% |  | 14.6% |
+| 07:45 | EUR | Low | French Government Budget Balance (Jun) | -106.8B |  | -93.3B |
+| 08:00 | EUR | Moderate | Spanish Unemployment Change (Jul) | 19.5K | -18.4K | -28.7K |
+| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Jun) | -0.1% | 0.3% | 0.2% |
+| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Jun) | 3.1% |  | 2.2% |
+| 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Jul) | -0.03% |  | 0.18% |
+| 09:30 | HKD | Low | Retail Sales (YoY) (Jun) | 4.6% |  | 7.9% |
 | 09:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.500% |
 | 09:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 2.385% |
-| 10:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Jul) |  |  | 0.18% |
 | 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 2.770% |
 | 13:00 | MXN | Low | Consumer Confidence (Jul) |  |  | 43.8 |
 | 13:00 | MXN | Low | Consumer Confidence n.s.a. (Jul) |  |  | 43.8 |
@@ -39,7 +39,7 @@
 | 16:30 | USD | Low | 52-Week Bill Auction |  |  | 3.860% |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 6.2% | 6.2% |
 | 17:00 | EUR | Low | French Car Registration (YoY) (Jul) |  |  | 11.4% |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 3.296M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.000M | 3.296M |
 | 22:00 | KRW | Low | FX Reserves - USD (Jul) |  |  | 427.36B |
 | 23:45 | NZD | Low | Employment Change (QoQ) (Q2) |  | 0.1% | 0.2% |
 | 23:45 | NZD | Low | Labor Cost Index (QoQ) (Q2) |  | 0.6% | 0.5% |

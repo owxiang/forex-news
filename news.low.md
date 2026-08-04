@@ -5,11 +5,11 @@
 | 00:00 | KRW | CPI (MoM) (Jul) | -0.2% | 0.1% | 0.1% |
 | 00:00 | KRW | CPI (YoY) (Jul) | 2.8% | 3.0% | 3.2% |
 | 00:50 | JPY | Monetary Base (YoY) (Jul) | -13.8% | -13.0% | -13.7% |
-| 37 min | AUD | Commodity Prices (YoY) (Jul) |  |  | 16.9% |
-| 52 min | EUR | French Government Budget Balance (Jun) |  |  | -93.3B |
-| 09:00 | EUR | Italian Retail Sales (MoM) (Jun) |  | 0.3% | 0.2% |
-| 09:00 | EUR | Italian Retail Sales (YoY) (Jun) |  |  | 2.2% |
-| 09:30 | HKD | Retail Sales (YoY) (Jun) |  |  | 7.9% |
+| 07:30 | AUD | Commodity Prices (YoY) (Jul) | 15.4% |  | 14.6% |
+| 07:45 | EUR | French Government Budget Balance (Jun) | -106.8B |  | -93.3B |
+| 09:00 | EUR | Italian Retail Sales (MoM) (Jun) | -0.1% | 0.3% | 0.2% |
+| 09:00 | EUR | Italian Retail Sales (YoY) (Jun) | 3.1% |  | 2.2% |
+| 09:30 | HKD | Retail Sales (YoY) (Jun) | 4.6% |  | 7.9% |
 | 09:40 | EUR | Spanish 12-Month Letras Auction |  |  | 2.500% |
 | 09:40 | EUR | Spanish 6-Month Letras Auction |  |  | 2.385% |
 | 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.770% |
