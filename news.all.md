@@ -13,9 +13,10 @@
 | 09:00 | EUR | Low | Italian Retail Sales (YoY) (Jun) | 3.1% |  | 2.2% |
 | 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Jul) | -0.03% |  | 0.18% |
 | 09:30 | HKD | Low | Retail Sales (YoY) (Jun) | 4.6% |  | 7.9% |
-| 09:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.500% |
-| 09:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 2.385% |
-| 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 2.770% |
+| 09:40 | EUR | Low | Spanish 12-Month Letras Auction | 2.663% |  | 2.500% |
+| 09:40 | EUR | Low | Spanish 6-Month Letras Auction | 2.496% |  | 2.385% |
+| 10:00 | GBP | Low | 5-Year Treasury Gilt Auction | 4.613% |  | 4.284% |
+| 10:40 | EUR | Low | German 2-Year Schatz Auction | 2.780% |  | 2.770% |
 | 13:00 | MXN | Low | Consumer Confidence (Jul) |  |  | 43.8 |
 | 13:00 | MXN | Low | Consumer Confidence n.s.a. (Jul) |  |  | 43.8 |
 | 13:00 | BRL | Moderate | Industrial Production (YoY) (Jun) |  | 3.0% | 0.2% |

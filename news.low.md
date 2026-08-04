@@ -10,9 +10,10 @@
 | 09:00 | EUR | Italian Retail Sales (MoM) (Jun) | -0.1% | 0.3% | 0.2% |
 | 09:00 | EUR | Italian Retail Sales (YoY) (Jun) | 3.1% |  | 2.2% |
 | 09:30 | HKD | Retail Sales (YoY) (Jun) | 4.6% |  | 7.9% |
-| 09:40 | EUR | Spanish 12-Month Letras Auction |  |  | 2.500% |
-| 09:40 | EUR | Spanish 6-Month Letras Auction |  |  | 2.385% |
-| 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.770% |
+| 09:40 | EUR | Spanish 12-Month Letras Auction | 2.663% |  | 2.500% |
+| 09:40 | EUR | Spanish 6-Month Letras Auction | 2.496% |  | 2.385% |
+| 10:00 | GBP | 5-Year Treasury Gilt Auction | 4.613% |  | 4.284% |
+| 10:40 | EUR | German 2-Year Schatz Auction | 2.780% |  | 2.770% |
 | 13:00 | MXN | Consumer Confidence (Jul) |  |  | 43.8 |
 | 13:00 | MXN | Consumer Confidence n.s.a. (Jul) |  |  | 43.8 |
 | 13:00 | BRL | Industrial Production (MoM) (Jun) |  | -0.7% | -0.2% |
