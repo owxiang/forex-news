@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 15:00 | USD | JOLTS Job Openings (Jun) |  | 7.440M | 7.594M |
+| 15:00 | USD | JOLTS Job Openings (Jun) | 7.359M | 7.440M | 7.537M |
