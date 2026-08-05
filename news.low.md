@@ -8,22 +8,23 @@
 | 00:00 | AUD | S&P Global Services PMI (Jul) | 53.6 | 53.0 | 50.5 |
 | 00:30 | JPY | Overall wage income of employees (Jun) | 3.4% | 3.4% | 3.3% |
 | 00:30 | JPY | Overtime Pay (YoY) (Jun) | 2.80% |  | 2.80% |
+| 01:15 | USD | Fed Schmid Speaks |  |  |  |
 | 01:30 | JPY | Manufacturing & Services PMI (Jul) | 52.70 | 53.10 | 52.80 |
 | 01:30 | HKD | S&P Global Manufacturing PMI (Jul) | 51.0 |  | 52.0 |
 | 02:00 | NZD | ANZ Commodity Price Index (MoM) | -3.9% |  | -1.1% |
-| 05:00 | IDR | GDP (YoY) (Q2) |  | 5.10% | 5.61% |
-| 05:00 | IDR | GDP (QoQ) (Q2) |  | 3.50% | -0.77% |
-| 05:30 | INR | Cash Reserve Ratio |  | 3.00% | 3.00% |
-| 05:30 | INR | Reverse REPO Rate |  |  | 3.35% |
-| 06:00 | INR | HSBC India Services PMI (Jul) |  | 53.1 | 57.4 |
-| 06:00 | INR | HSBC Manufacturing & Services PMI (Jul) |  | 54.30 | 57.10 |
-| 06:00 | SGD | Retail Sales (MoM) (Jun) |  |  | -2.3% |
-| 06:00 | SGD | Retail Sales (YoY) (Jun) |  |  | 3.0% |
-| 07:45 | EUR | French Industrial Production (MoM) (Jun) |  | 0.3% | -0.1% |
-| 08:15 | ZAR | S&P Global Manufacturing PMI (Jul) |  |  | 50.5 |
+| 05:00 | IDR | GDP (YoY) (Q2) | 5.29% | 5.10% | 5.61% |
+| 05:00 | IDR | GDP (QoQ) (Q2) | 3.73% | 3.50% | -0.77% |
+| 05:30 | INR | Cash Reserve Ratio | 3.00% | 3.00% | 3.00% |
+| 05:30 | INR | Reverse REPO Rate | 3.35% |  | 3.35% |
+| 06:00 | INR | HSBC India Services PMI (Jul) | 53.3 | 53.1 | 57.4 |
+| 06:00 | INR | HSBC Manufacturing & Services PMI (Jul) | 54.30 | 54.30 | 57.10 |
+| 06:00 | SGD | Retail Sales (MoM) (Jun) | 1.0% |  | -2.2% |
+| 06:00 | SGD | Retail Sales (YoY) (Jun) | 4.0% |  | 2.9% |
+| 07:45 | EUR | French Industrial Production (MoM) (Jun) | 0.1% | 0.3% | -0.1% |
+| 08:15 | ZAR | S&P Global Manufacturing PMI (Jul) | 50.3 |  | 50.5 |
 | 08:45 | EUR | HCOB Italy Composite PMI (Jul) |  |  | 50.8 |
-| 08:50 | EUR | HCOB France Composite PMI (Jul) |  | 49.6 | 49.6 |
-| 08:55 | EUR | HCOB Germany Composite PMI (Jul) |  | 51.2 | 51.2 |
+| 08:50 | EUR | HCOB France Composite PMI (Jul) |  | 49.6 | 47.2 |
+| 08:55 | EUR | HCOB Germany Composite PMI (Jul) |  | 51.2 | 49.5 |
 | 09:00 | GBP | United Kingdom New Passenger Cars Registration (Jul) |  |  | 213,166.0 |
 | 09:00 | EUR | French Car Registration (YoY) (Jul) |  |  | 11.4% |
 | 10:00 | NOK | House Price Index (YoY) (Jul) |  |  | 3.90% |
