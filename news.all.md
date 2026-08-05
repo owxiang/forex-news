@@ -46,8 +46,8 @@
 | 12:00 | USD | Low | MBA Purchase Index | 154.0 |  | 159.8 |
 | 12:00 | USD | Low | Mortgage Market Index | 240.0 |  | 247.2 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 709.1 |  | 723.1 |
-| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (May) | 1.10% | 0.30% | 5.90% |
 | 13:00 | MXN | Low | Gross Fixed Investments (MoM) (May) | -0.40% | -1.80% | 4.00% |
+| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (May) | 1.10% | 0.30% | 5.90% |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Jul) | 44K | 68K | 95K |
 | 14:00 | BRL | Low | S&P Global Composite PMI (Jul) | 48.8 |  | 50.7 |
 | 14:00 | BRL | Low | S&P Global Services PMI (Jul) | 49.7 |  | 51.3 |
@@ -69,7 +69,6 @@
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -0.7% |  | 1.1% |
 | 15:30 | USD | Low | Gasoline Inventories | -1.643M | -1.300M | 0.007M |
 | 18:30 | BRL | Low | Foreign Exchange Flows | 2.814B |  | -1.065B |
-| 20:00 | EUR | Low | German Car Registration (YoY) (Jul) |  |  | 15.7% |
 | 21:05 | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 21:30 | USD | High | U.S. President Trump Speaks |  |  |  |
-| 22:30 | BRL | Moderate | Interest Rate Decision |  | 14.00% | 14.25% |
+| 14 min | BRL | Moderate | Interest Rate Decision |  | 14.00% | 14.25% |

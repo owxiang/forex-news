@@ -34,8 +34,8 @@
 | 12:00 | USD | MBA Purchase Index | 154.0 |  | 159.8 |
 | 12:00 | USD | Mortgage Market Index | 240.0 |  | 247.2 |
 | 12:00 | USD | Mortgage Refinance Index | 709.1 |  | 723.1 |
-| 13:00 | MXN | Gross Fixed Investments (YoY) (May) | 1.10% | 0.30% | 5.90% |
 | 13:00 | MXN | Gross Fixed Investments (MoM) (May) | -0.40% | -1.80% | 4.00% |
+| 13:00 | MXN | Gross Fixed Investments (YoY) (May) | 1.10% | 0.30% | 5.90% |
 | 14:00 | BRL | S&P Global Composite PMI (Jul) | 48.8 |  | 50.7 |
 | 14:00 | BRL | S&P Global Services PMI (Jul) | 49.7 |  | 51.3 |
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Jul) | 59.1 |  | 55.4 |
@@ -49,5 +49,4 @@
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.7% |  | 1.1% |
 | 15:30 | USD | Gasoline Inventories | -1.643M | -1.300M | 0.007M |
 | 18:30 | BRL | Foreign Exchange Flows | 2.814B |  | -1.065B |
-| 20:00 | EUR | German Car Registration (YoY) (Jul) |  |  | 15.7% |
 | 21:05 | USD | Fed Governor Cook Speaks |  |  |  |

@@ -17,4 +17,4 @@
 | 14:45 | USD | S&P Global Composite PMI (Jul) | 54.5 | 53.6 | 51.9 |
 | 15:00 | USD | ISM Non-Manufacturing Employment (Jul) | 47.4 | 51.2 | 51.2 |
 | 15:30 | USD | Cushing Crude Oil Inventories | 2.356M |  | -0.771M |
-| 22:30 | BRL | Interest Rate Decision |  | 14.00% | 14.25% |
+| 14 min | BRL | Interest Rate Decision |  | 14.00% | 14.25% |
