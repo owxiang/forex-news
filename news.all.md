@@ -69,7 +69,7 @@
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -0.7% |  | 1.1% |
 | 15:30 | USD | Low | Gasoline Inventories | -1.643M | -1.300M | 0.007M |
 | 18:30 | BRL | Low | Foreign Exchange Flows | 2.814B |  | -1.065B |
-| 19:00 | EUR | Low | German Car Registration (YoY) (Jul) |  |  | 15.7% |
+| 20:00 | EUR | Low | German Car Registration (YoY) (Jul) |  |  | 15.7% |
 | 21:05 | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 21:30 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 22:30 | BRL | Moderate | Interest Rate Decision |  | 14.00% | 14.25% |

@@ -49,5 +49,5 @@
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.7% |  | 1.1% |
 | 15:30 | USD | Gasoline Inventories | -1.643M | -1.300M | 0.007M |
 | 18:30 | BRL | Foreign Exchange Flows | 2.814B |  | -1.065B |
-| 19:00 | EUR | German Car Registration (YoY) (Jul) |  |  | 15.7% |
+| 20:00 | EUR | German Car Registration (YoY) (Jul) |  |  | 15.7% |
 | 21:05 | USD | Fed Governor Cook Speaks |  |  |  |
