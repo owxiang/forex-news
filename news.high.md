@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:15 | USD | ADP Nonfarm Employment Change (Jul) |  | 68K | 98K |
+| 13:15 | USD | ADP Nonfarm Employment Change (Jul) | 44K | 68K | 95K |
 | 14:45 | USD | S&P Global Services PMI (Jul) |  | 53.6 | 51.2 |
 | 15:00 | USD | ISM Non-Manufacturing PMI (Jul) |  | 54.5 | 54.0 |
 | 15:00 | USD | ISM Non-Manufacturing Prices (Jul) |  |  | 67.7 |

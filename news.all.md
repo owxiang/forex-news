@@ -41,15 +41,15 @@
 | 10:00 | NOK | Low | House Price Index (YoY) (Jul) | 2.20% |  | 3.90% |
 | 10:00 | EUR | Low | PPI (MoM) (Jun) | -0.3% | -0.2% | 0.2% |
 | 10:00 | EUR | Low | PPI (YoY) (Jun) | 4.6% | 4.6% | 5.9% |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.76% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -6.4% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 159.8 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 247.2 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 723.1 |
-| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (May) |  | -1.80% | 4.00% |
-| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (May) |  | 0.30% | 5.90% |
-| 13:00 | EUR | Low | German Car Registration (YoY) (Jul) |  |  | 15.7% |
-| 13:15 | USD | High | ADP Nonfarm Employment Change (Jul) |  | 68K | 98K |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.81% |  | 6.76% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | -2.9% |  | -6.4% |
+| 12:00 | USD | Low | MBA Purchase Index | 154.0 |  | 159.8 |
+| 12:00 | USD | Low | Mortgage Market Index | 240.0 |  | 247.2 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 709.1 |  | 723.1 |
+| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (May) | -0.40% | -1.80% | 4.00% |
+| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (May) | 1.10% | 0.30% | 5.90% |
+| 13:15 | USD | High | ADP Nonfarm Employment Change (Jul) | 44K | 68K | 95K |
+| 14:00 | EUR | Low | German Car Registration (YoY) (Jul) |  |  | 15.7% |
 | 14:00 | BRL | Low | S&P Global Composite PMI (Jul) |  |  | 50.7 |
 | 14:00 | BRL | Low | S&P Global Services PMI (Jul) |  |  | 51.3 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Jul) |  | 53.6 | 51.9 |

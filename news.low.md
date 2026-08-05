@@ -29,14 +29,14 @@
 | 10:00 | NOK | House Price Index (YoY) (Jul) | 2.20% |  | 3.90% |
 | 10:00 | EUR | PPI (MoM) (Jun) | -0.3% | -0.2% | 0.2% |
 | 10:00 | EUR | PPI (YoY) (Jun) | 4.6% | 4.6% | 5.9% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.76% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -6.4% |
-| 12:00 | USD | MBA Purchase Index |  |  | 159.8 |
-| 12:00 | USD | Mortgage Market Index |  |  | 247.2 |
-| 12:00 | USD | Mortgage Refinance Index |  |  | 723.1 |
-| 13:00 | MXN | Gross Fixed Investments (MoM) (May) |  | -1.80% | 4.00% |
-| 13:00 | MXN | Gross Fixed Investments (YoY) (May) |  | 0.30% | 5.90% |
-| 13:00 | EUR | German Car Registration (YoY) (Jul) |  |  | 15.7% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.81% |  | 6.76% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | -2.9% |  | -6.4% |
+| 12:00 | USD | MBA Purchase Index | 154.0 |  | 159.8 |
+| 12:00 | USD | Mortgage Market Index | 240.0 |  | 247.2 |
+| 12:00 | USD | Mortgage Refinance Index | 709.1 |  | 723.1 |
+| 13:00 | MXN | Gross Fixed Investments (MoM) (May) | -0.40% | -1.80% | 4.00% |
+| 13:00 | MXN | Gross Fixed Investments (YoY) (May) | 1.10% | 0.30% | 5.90% |
+| 14:00 | EUR | German Car Registration (YoY) (Jul) |  |  | 15.7% |
 | 14:00 | BRL | S&P Global Composite PMI (Jul) |  |  | 50.7 |
 | 14:00 | BRL | S&P Global Services PMI (Jul) |  |  | 51.3 |
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Jul) |  |  | 55.4 |
