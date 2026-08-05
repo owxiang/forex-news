@@ -18,8 +18,8 @@
 | 05:30 | INR | Reverse REPO Rate | 3.35% |  | 3.35% |
 | 06:00 | INR | HSBC India Services PMI (Jul) | 53.3 | 53.1 | 57.4 |
 | 06:00 | INR | HSBC Manufacturing & Services PMI (Jul) | 54.30 | 54.30 | 57.10 |
-| 06:00 | SGD | Retail Sales (MoM) (Jun) | 1.0% |  | -2.2% |
 | 06:00 | SGD | Retail Sales (YoY) (Jun) | 4.0% |  | 2.9% |
+| 06:00 | SGD | Retail Sales (MoM) (Jun) | 1.0% |  | -2.2% |
 | 07:45 | EUR | French Industrial Production (MoM) (Jun) | 0.1% | 0.3% | -0.1% |
 | 08:15 | ZAR | S&P Global Manufacturing PMI (Jul) | 50.3 |  | 50.5 |
 | 08:45 | EUR | HCOB Italy Composite PMI (Jul) | 52.5 |  | 50.8 |
@@ -34,8 +34,8 @@
 | 12:00 | USD | MBA Purchase Index | 154.0 |  | 159.8 |
 | 12:00 | USD | Mortgage Market Index | 240.0 |  | 247.2 |
 | 12:00 | USD | Mortgage Refinance Index | 709.1 |  | 723.1 |
-| 13:00 | MXN | Gross Fixed Investments (MoM) (May) | -0.40% | -1.80% | 4.00% |
 | 13:00 | MXN | Gross Fixed Investments (YoY) (May) | 1.10% | 0.30% | 5.90% |
+| 13:00 | MXN | Gross Fixed Investments (MoM) (May) | -0.40% | -1.80% | 4.00% |
 | 14:00 | BRL | S&P Global Composite PMI (Jul) | 48.8 |  | 50.7 |
 | 14:00 | BRL | S&P Global Services PMI (Jul) | 49.7 |  | 51.3 |
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Jul) | 59.1 |  | 55.4 |
@@ -48,7 +48,6 @@
 | 15:30 | USD | Heating Oil Stockpiles | -0.144M |  | 0.308M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.7% |  | 1.1% |
 | 15:30 | USD | Gasoline Inventories | -1.643M | -1.300M | 0.007M |
-| 18:30 | BRL | Foreign Exchange Flows |  |  | -1.065B |
+| 18:30 | BRL | Foreign Exchange Flows | 2.814B |  | -1.065B |
 | 19:00 | EUR | German Car Registration (YoY) (Jul) |  |  | 15.7% |
-| 19:00 | EUR | French Car Registration (YoY) (Jul) |  |  | 11.4% |
 | 21:05 | USD | Fed Governor Cook Speaks |  |  |  |
