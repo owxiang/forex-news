@@ -36,19 +36,19 @@
 | 12:00 | USD | Mortgage Refinance Index | 709.1 |  | 723.1 |
 | 13:00 | MXN | Gross Fixed Investments (MoM) (May) | -0.40% | -1.80% | 4.00% |
 | 13:00 | MXN | Gross Fixed Investments (YoY) (May) | 1.10% | 0.30% | 5.90% |
-| 14:00 | EUR | German Car Registration (YoY) (Jul) |  |  | 15.7% |
-| 14:00 | BRL | S&P Global Composite PMI (Jul) |  |  | 50.7 |
-| 14:00 | BRL | S&P Global Services PMI (Jul) |  |  | 51.3 |
-| 15:00 | USD | ISM Non-Manufacturing Business Activity (Jul) |  |  | 55.4 |
-| 15:00 | USD | ISM Non-Manufacturing New Orders (Jul) |  |  | 55.1 |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.271M |
-| 15:30 | USD | Crude Oil Imports |  |  | -0.237M |
-| 15:30 | USD | Distillate Fuel Production |  |  | 0.015M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | 1.062M |
-| 15:30 | USD | Gasoline Production |  |  | 0.178M |
-| 15:30 | USD | Heating Oil Stockpiles |  |  | 0.308M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.1% |
-| 15:30 | USD | Gasoline Inventories |  |  | 0.007M |
-| 17:00 | EUR | French Car Registration (YoY) (Jul) |  |  | 11.4% |
+| 14:00 | BRL | S&P Global Composite PMI (Jul) | 48.8 |  | 50.7 |
+| 14:00 | BRL | S&P Global Services PMI (Jul) | 49.7 |  | 51.3 |
+| 15:00 | USD | ISM Non-Manufacturing Business Activity (Jul) | 59.1 |  | 55.4 |
+| 15:00 | USD | ISM Non-Manufacturing New Orders (Jul) | 57.2 | 55.9 | 55.1 |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) | -0.183M |  | 0.271M |
+| 15:30 | USD | Crude Oil Imports | 0.297M |  | -0.237M |
+| 15:30 | USD | Distillate Fuel Production | -0.134M |  | 0.015M |
+| 15:30 | USD | EIA Weekly Distillates Stocks | -3.473M | 0.200M | 1.062M |
+| 15:30 | USD | Gasoline Production | -0.309M |  | 0.178M |
+| 15:30 | USD | Heating Oil Stockpiles | -0.144M |  | 0.308M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.7% |  | 1.1% |
+| 15:30 | USD | Gasoline Inventories | -1.643M | -1.300M | 0.007M |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | -1.065B |
+| 19:00 | EUR | German Car Registration (YoY) (Jul) |  |  | 15.7% |
+| 19:00 | EUR | French Car Registration (YoY) (Jul) |  |  | 11.4% |
 | 21:05 | USD | Fed Governor Cook Speaks |  |  |  |

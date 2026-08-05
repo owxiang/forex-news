@@ -49,28 +49,28 @@
 | 13:00 | MXN | Low | Gross Fixed Investments (MoM) (May) | -0.40% | -1.80% | 4.00% |
 | 13:00 | MXN | Low | Gross Fixed Investments (YoY) (May) | 1.10% | 0.30% | 5.90% |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Jul) | 44K | 68K | 95K |
-| 14:00 | EUR | Low | German Car Registration (YoY) (Jul) |  |  | 15.7% |
-| 14:00 | BRL | Low | S&P Global Composite PMI (Jul) |  |  | 50.7 |
-| 14:00 | BRL | Low | S&P Global Services PMI (Jul) |  |  | 51.3 |
-| 14:45 | USD | Moderate | S&P Global Composite PMI (Jul) |  | 53.6 | 51.9 |
-| 14:45 | USD | High | S&P Global Services PMI (Jul) |  | 53.6 | 51.2 |
-| 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Jul) |  |  | 55.4 |
-| 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Jul) |  |  | 51.2 |
-| 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Jul) |  |  | 55.1 |
-| 15:00 | USD | High | ISM Non-Manufacturing PMI (Jul) |  | 54.5 | 54.0 |
-| 15:00 | USD | High | ISM Non-Manufacturing Prices (Jul) |  |  | 67.7 |
-| 15:30 | USD | High | Crude Oil Inventories |  | -1.500M | -7.167M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.271M |
-| 15:30 | USD | Low | Crude Oil Imports |  |  | -0.237M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.771M |
-| 15:30 | USD | Low | Distillate Fuel Production |  |  | 0.015M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  |  | 1.062M |
-| 15:30 | USD | Low | Gasoline Production |  |  | 0.178M |
-| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.308M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.1% |
-| 15:30 | USD | Low | Gasoline Inventories |  |  | 0.007M |
-| 17:00 | EUR | Low | French Car Registration (YoY) (Jul) |  |  | 11.4% |
+| 14:00 | BRL | Low | S&P Global Composite PMI (Jul) | 48.8 |  | 50.7 |
+| 14:00 | BRL | Low | S&P Global Services PMI (Jul) | 49.7 |  | 51.3 |
+| 14:45 | USD | Moderate | S&P Global Composite PMI (Jul) | 54.5 | 53.6 | 51.9 |
+| 14:45 | USD | High | S&P Global Services PMI (Jul) | 54.6 | 53.6 | 51.2 |
+| 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Jul) | 59.1 |  | 55.4 |
+| 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Jul) | 47.4 | 51.2 | 51.2 |
+| 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Jul) | 57.2 | 55.9 | 55.1 |
+| 15:00 | USD | High | ISM Non-Manufacturing PMI (Jul) | 54.1 | 54.5 | 54.0 |
+| 15:00 | USD | High | ISM Non-Manufacturing Prices (Jul) | 70.3 | 65.0 | 67.7 |
+| 15:30 | USD | High | Crude Oil Inventories | 2.479M | -1.500M | -7.167M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | -0.183M |  | 0.271M |
+| 15:30 | USD | Low | Crude Oil Imports | 0.297M |  | -0.237M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | 2.356M |  | -0.771M |
+| 15:30 | USD | Low | Distillate Fuel Production | -0.134M |  | 0.015M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks | -3.473M | 0.200M | 1.062M |
+| 15:30 | USD | Low | Gasoline Production | -0.309M |  | 0.178M |
+| 15:30 | USD | Low | Heating Oil Stockpiles | -0.144M |  | 0.308M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -0.7% |  | 1.1% |
+| 15:30 | USD | Low | Gasoline Inventories | -1.643M | -1.300M | 0.007M |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -1.065B |
+| 19:00 | EUR | Low | German Car Registration (YoY) (Jul) |  |  | 15.7% |
+| 19:00 | EUR | Low | French Car Registration (YoY) (Jul) |  |  | 11.4% |
 | 21:05 | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 21:30 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 22:30 | BRL | Moderate | Interest Rate Decision |  | 14.00% | 14.25% |

@@ -14,7 +14,7 @@
 | 09:00 | EUR | HCOB Eurozone Services PMI (Jul) | 51.7 | 51.6 | 49.4 |
 | 09:30 | GBP | S&P Global Composite PMI (Jul) | 52.2 | 52.1 | 49.3 |
 | 09:30 | GBP | S&P Global Services PMI (Jul) | 52.1 | 51.8 | 48.8 |
-| 14:45 | USD | S&P Global Composite PMI (Jul) |  | 53.6 | 51.9 |
-| 15:00 | USD | ISM Non-Manufacturing Employment (Jul) |  |  | 51.2 |
-| 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.771M |
+| 14:45 | USD | S&P Global Composite PMI (Jul) | 54.5 | 53.6 | 51.9 |
+| 15:00 | USD | ISM Non-Manufacturing Employment (Jul) | 47.4 | 51.2 | 51.2 |
+| 15:30 | USD | Cushing Crude Oil Inventories | 2.356M |  | -0.771M |
 | 22:30 | BRL | Interest Rate Decision |  | 14.00% | 14.25% |
