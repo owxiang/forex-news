@@ -27,22 +27,20 @@
 | 07:45 | EUR | Low | French Industrial Production (MoM) (Jun) | 0.1% | 0.3% | -0.1% |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Jul) | 58.3 | 54.9 | 54.2 |
 | 08:15 | ZAR | Low | S&P Global Manufacturing PMI (Jul) | 50.3 |  | 50.5 |
-| 08:45 | EUR | Low | HCOB Italy Composite PMI (Jul) |  |  | 50.8 |
-| 08:45 | EUR | Moderate | HCOB Italy Services PMI (Jul) |  | 51.0 | 50.2 |
-| 08:50 | EUR | Low | HCOB France Composite PMI (Jul) |  | 49.6 | 47.2 |
-| 08:50 | EUR | Moderate | HCOB France Services PMI (Jul) |  | 49.8 | 46.8 |
-| 08:55 | EUR | Low | HCOB Germany Composite PMI (Jul) |  | 51.2 | 49.5 |
-| 08:55 | EUR | Moderate | HCOB Germany Services PMI (Jul) |  | 49.6 | 48.6 |
-| 09:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Jul) |  |  | 213,166.0 |
-| 09:00 | EUR | Low | French Car Registration (YoY) (Jul) |  |  | 11.4% |
-| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Jul) |  | 51.9 | 50.0 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Jul) |  | 51.6 | 49.4 |
-| 09:30 | GBP | Moderate | S&P Global Composite PMI (Jul) |  | 52.1 | 49.3 |
-| 09:30 | GBP | Moderate | S&P Global Services PMI (Jul) |  | 51.8 | 48.8 |
-| 10:00 | NOK | Low | House Price Index (YoY) (Jul) |  |  | 3.90% |
-| 10:00 | EUR | Low | PPI (MoM) (Jun) |  | -0.2% | 0.2% |
-| 10:00 | EUR | Low | PPI (YoY) (Jun) |  | 4.6% | 5.9% |
-| 11:00 | EUR | Low | German Car Registration (YoY) (Jul) |  |  | 15.7% |
+| 08:45 | EUR | Low | HCOB Italy Composite PMI (Jul) | 52.5 |  | 50.8 |
+| 08:45 | EUR | Moderate | HCOB Italy Services PMI (Jul) | 52.5 | 51.0 | 50.2 |
+| 08:50 | EUR | Low | HCOB France Composite PMI (Jul) | 49.4 | 49.6 | 47.2 |
+| 08:50 | EUR | Moderate | HCOB France Services PMI (Jul) | 49.6 | 49.8 | 46.8 |
+| 08:55 | EUR | Low | HCOB Germany Composite PMI (Jul) | 51.3 | 51.2 | 49.5 |
+| 08:55 | EUR | Moderate | HCOB Germany Services PMI (Jul) | 49.8 | 49.6 | 48.6 |
+| 09:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Jul) | 156,571.0 |  | 213,166.0 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Jul) | 52.0 | 51.9 | 50.0 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Jul) | 51.7 | 51.6 | 49.4 |
+| 09:30 | GBP | Moderate | S&P Global Composite PMI (Jul) | 52.2 | 52.1 | 49.3 |
+| 09:30 | GBP | Moderate | S&P Global Services PMI (Jul) | 52.1 | 51.8 | 48.8 |
+| 10:00 | NOK | Low | House Price Index (YoY) (Jul) | 2.20% |  | 3.90% |
+| 10:00 | EUR | Low | PPI (MoM) (Jun) | -0.3% | -0.2% | 0.2% |
+| 10:00 | EUR | Low | PPI (YoY) (Jun) | 4.6% | 4.6% | 5.9% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.76% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -6.4% |
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 159.8 |
@@ -50,6 +48,7 @@
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 723.1 |
 | 13:00 | MXN | Low | Gross Fixed Investments (MoM) (May) |  | -1.80% | 4.00% |
 | 13:00 | MXN | Low | Gross Fixed Investments (YoY) (May) |  | 0.30% | 5.90% |
+| 13:00 | EUR | Low | German Car Registration (YoY) (Jul) |  |  | 15.7% |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Jul) |  | 68K | 98K |
 | 14:00 | BRL | Low | S&P Global Composite PMI (Jul) |  |  | 50.7 |
 | 14:00 | BRL | Low | S&P Global Services PMI (Jul) |  |  | 51.3 |
@@ -70,6 +69,7 @@
 | 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.308M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.1% |
 | 15:30 | USD | Low | Gasoline Inventories |  |  | 0.007M |
+| 17:00 | EUR | Low | French Car Registration (YoY) (Jul) |  |  | 11.4% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -1.065B |
 | 21:05 | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 21:30 | USD | High | U.S. President Trump Speaks |  |  |  |

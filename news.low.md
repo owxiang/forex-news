@@ -22,15 +22,13 @@
 | 06:00 | SGD | Retail Sales (YoY) (Jun) | 4.0% |  | 2.9% |
 | 07:45 | EUR | French Industrial Production (MoM) (Jun) | 0.1% | 0.3% | -0.1% |
 | 08:15 | ZAR | S&P Global Manufacturing PMI (Jul) | 50.3 |  | 50.5 |
-| 08:45 | EUR | HCOB Italy Composite PMI (Jul) |  |  | 50.8 |
-| 08:50 | EUR | HCOB France Composite PMI (Jul) |  | 49.6 | 47.2 |
-| 08:55 | EUR | HCOB Germany Composite PMI (Jul) |  | 51.2 | 49.5 |
-| 09:00 | GBP | United Kingdom New Passenger Cars Registration (Jul) |  |  | 213,166.0 |
-| 09:00 | EUR | French Car Registration (YoY) (Jul) |  |  | 11.4% |
-| 10:00 | NOK | House Price Index (YoY) (Jul) |  |  | 3.90% |
-| 10:00 | EUR | PPI (MoM) (Jun) |  | -0.2% | 0.2% |
-| 10:00 | EUR | PPI (YoY) (Jun) |  | 4.6% | 5.9% |
-| 11:00 | EUR | German Car Registration (YoY) (Jul) |  |  | 15.7% |
+| 08:45 | EUR | HCOB Italy Composite PMI (Jul) | 52.5 |  | 50.8 |
+| 08:50 | EUR | HCOB France Composite PMI (Jul) | 49.4 | 49.6 | 47.2 |
+| 08:55 | EUR | HCOB Germany Composite PMI (Jul) | 51.3 | 51.2 | 49.5 |
+| 09:00 | GBP | United Kingdom New Passenger Cars Registration (Jul) | 156,571.0 |  | 213,166.0 |
+| 10:00 | NOK | House Price Index (YoY) (Jul) | 2.20% |  | 3.90% |
+| 10:00 | EUR | PPI (MoM) (Jun) | -0.3% | -0.2% | 0.2% |
+| 10:00 | EUR | PPI (YoY) (Jun) | 4.6% | 4.6% | 5.9% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.76% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -6.4% |
 | 12:00 | USD | MBA Purchase Index |  |  | 159.8 |
@@ -38,6 +36,7 @@
 | 12:00 | USD | Mortgage Refinance Index |  |  | 723.1 |
 | 13:00 | MXN | Gross Fixed Investments (MoM) (May) |  | -1.80% | 4.00% |
 | 13:00 | MXN | Gross Fixed Investments (YoY) (May) |  | 0.30% | 5.90% |
+| 13:00 | EUR | German Car Registration (YoY) (Jul) |  |  | 15.7% |
 | 14:00 | BRL | S&P Global Composite PMI (Jul) |  |  | 50.7 |
 | 14:00 | BRL | S&P Global Services PMI (Jul) |  |  | 51.3 |
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Jul) |  |  | 55.4 |
@@ -50,5 +49,6 @@
 | 15:30 | USD | Heating Oil Stockpiles |  |  | 0.308M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.1% |
 | 15:30 | USD | Gasoline Inventories |  |  | 0.007M |
+| 17:00 | EUR | French Car Registration (YoY) (Jul) |  |  | 11.4% |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | -1.065B |
 | 21:05 | USD | Fed Governor Cook Speaks |  |  |  |
