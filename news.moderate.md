@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Monetary Policy Meeting Minutes |  |  |  |
-| 01:30 | JPY | S&P Global Services PMI (Jul) |  | 51.9 | 52.2 |
-| 02:45 | CNY | RatingDog Services PMI (Jul) |  | 53.7 | 54.1 |
+| 01:30 | JPY | S&P Global Services PMI (Jul) | 51.2 | 51.9 | 52.2 |
+| 02:45 | CNY | RatingDog Services PMI (Jul) | 50.4 | 53.7 | 54.1 |
 | 05:30 | INR | Interest Rate Decision |  | 5.25% | 5.25% |
 | 08:15 | EUR | HCOB Spain Services PMI (Jul) |  | 54.9 | 54.2 |
 | 08:45 | EUR | HCOB Italy Services PMI (Jul) |  | 51.0 | 50.2 |

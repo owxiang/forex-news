@@ -8,9 +8,9 @@
 | 00:00 | AUD | S&P Global Services PMI (Jul) | 53.6 | 53.0 | 50.5 |
 | 00:30 | JPY | Overall wage income of employees (Jun) | 3.4% | 3.4% | 3.3% |
 | 00:30 | JPY | Overtime Pay (YoY) (Jun) | 2.80% |  | 2.80% |
-| 01:30 | JPY | Manufacturing & Services PMI (Jul) |  | 53.10 | 52.80 |
-| 01:30 | HKD | S&P Global Manufacturing PMI (Jul) |  |  | 52.0 |
-| 02:00 | NZD | ANZ Commodity Price Index (MoM) |  |  | -1.0% |
+| 01:30 | JPY | Manufacturing & Services PMI (Jul) | 52.70 | 53.10 | 52.80 |
+| 01:30 | HKD | S&P Global Manufacturing PMI (Jul) | 51.0 |  | 52.0 |
+| 02:00 | NZD | ANZ Commodity Price Index (MoM) | -3.9% |  | -1.1% |
 | 05:00 | IDR | GDP (YoY) (Q2) |  | 5.10% | 5.61% |
 | 05:00 | IDR | GDP (QoQ) (Q2) |  | 3.50% | -0.77% |
 | 05:30 | INR | Cash Reserve Ratio |  | 3.00% | 3.00% |

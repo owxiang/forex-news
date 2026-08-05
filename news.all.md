@@ -9,11 +9,11 @@
 | 00:30 | JPY | Low | Overall wage income of employees (Jun) | 3.4% | 3.4% | 3.3% |
 | 00:30 | JPY | Low | Overtime Pay (YoY) (Jun) | 2.80% |  | 2.80% |
 | 00:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
-| 01:30 | JPY | Low | Manufacturing & Services PMI (Jul) |  | 53.10 | 52.80 |
-| 01:30 | JPY | Moderate | S&P Global Services PMI (Jul) |  | 51.9 | 52.2 |
-| 01:30 | HKD | Low | S&P Global Manufacturing PMI (Jul) |  |  | 52.0 |
-| 02:00 | NZD | Low | ANZ Commodity Price Index (MoM) |  |  | -1.0% |
-| 02:45 | CNY | Moderate | RatingDog Services PMI (Jul) |  | 53.7 | 54.1 |
+| 01:30 | JPY | Low | Manufacturing & Services PMI (Jul) | 52.70 | 53.10 | 52.80 |
+| 01:30 | JPY | Moderate | S&P Global Services PMI (Jul) | 51.2 | 51.9 | 52.2 |
+| 01:30 | HKD | Low | S&P Global Manufacturing PMI (Jul) | 51.0 |  | 52.0 |
+| 02:00 | NZD | Low | ANZ Commodity Price Index (MoM) | -3.9% |  | -1.1% |
+| 02:45 | CNY | Moderate | RatingDog Services PMI (Jul) | 50.4 | 53.7 | 54.1 |
 | 05:00 | IDR | Low | GDP (YoY) (Q2) |  | 5.10% | 5.61% |
 | 05:00 | IDR | Low | GDP (QoQ) (Q2) |  | 3.50% | -0.77% |
 | 05:30 | INR | Low | Cash Reserve Ratio |  | 3.00% | 3.00% |
