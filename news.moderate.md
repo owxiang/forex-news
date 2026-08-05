@@ -1,12 +1,20 @@
-## 04 August 2026 - Moderate Impact Forex News
+## 05 August 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 04:35 | JPY | 10-Year JGB Auction | 2.840% |  | 2.730% |
-| 13:30 | USD | Exports (Jun) | 314.70B |  | 317.70B |
-| 13:30 | USD | Imports (Jun) | 388.00B |  | 395.30B |
-| 13:30 | USD | Trade Balance (Jun) | -73.30B | -73.00B | -77.60B |
-| 13:30 | CAD | Trade Balance (Jun) | 3.86B | 3.00B | 3.70B |
-| 15:00 | USD | Factory Orders (MoM) (Jun) | -0.3% | 0.2% | -1.1% |
-| 16:10 | USD | Atlanta Fed GDPNow (Q3) | 5.9% | 6.2% | 6.2% |
-| 21:30 | USD | API Weekly Crude Oil Stock | 2.690M | -2.000M | 3.296M |
+| 00:50 | JPY | Monetary Policy Meeting Minutes |  |  |  |
+| 01:30 | JPY | S&P Global Services PMI (Jul) |  | 51.9 | 52.2 |
+| 02:45 | CNY | RatingDog Services PMI (Jul) |  | 53.7 | 54.1 |
+| 05:30 | INR | Interest Rate Decision |  | 5.25% | 5.25% |
+| 08:15 | EUR | HCOB Spain Services PMI (Jul) |  | 54.9 | 54.2 |
+| 08:45 | EUR | HCOB Italy Services PMI (Jul) |  | 51.0 | 50.2 |
+| 08:50 | EUR | HCOB France Services PMI (Jul) |  | 49.8 | 49.8 |
+| 08:55 | EUR | HCOB Germany Services PMI (Jul) |  | 49.6 | 49.6 |
+| 09:00 | EUR | HCOB Eurozone Composite PMI (Jul) |  | 51.9 | 51.9 |
+| 09:00 | EUR | HCOB Eurozone Services PMI (Jul) |  | 51.6 | 51.6 |
+| 09:30 | GBP | S&P Global Composite PMI (Jul) |  | 52.1 | 49.3 |
+| 09:30 | GBP | S&P Global Services PMI (Jul) |  | 51.8 | 48.8 |
+| 14:45 | USD | S&P Global Composite PMI (Jul) |  | 53.6 | 51.9 |
+| 15:00 | USD | ISM Non-Manufacturing Employment (Jul) |  |  | 51.2 |
+| 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.771M |
+| 22:30 | BRL | Interest Rate Decision |  | 14.00% | 14.25% |
