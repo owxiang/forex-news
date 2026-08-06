@@ -12,8 +12,7 @@
 | 02:30 | AUD | Low | Imports (MoM) (Jun) | -0.2% |  | 0.9% |
 | 02:30 | AUD | Low | Private House Approvals (Jun) | 0.4% | 0.4% | 2.4% |
 | 02:30 | AUD | Moderate | Trade Balance (Jun) | 1.929B | -1.060B | -2.367B |
-| 04:00 | EUR | Low | German Car Registration (YoY) (Jul) |  |  | 15.7% |
-| 04:35 | JPY | Low | 30-Year JGB Auction |  |  | 3.993% |
+| 04:35 | JPY | Low | 30-Year JGB Auction | 3.937% |  | 3.993% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Jun) |  | 0.5% | 1.9% |
 | 07:45 | EUR | Low | French Non-Farm Payrolls (QoQ) |  | -0.1% | -0.1% |
 | 08:00 | CHF | Low | Unemployment Rate n.s.a. (Jul) |  |  | 2.9% |
@@ -25,6 +24,7 @@
 | 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Jul) |  |  | 42.8 |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Jun) |  | 0.3% | -0.3% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Jun) |  | 1.0% | 1.1% |
+| 09:00 | EUR | Low | German Car Registration (YoY) (Jul) |  |  | 15.7% |
 | 09:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
 | 09:30 | GBP | Moderate | S&P Global Construction PMI (Jul) |  | 40.0 | 38.4 |
 | 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.395% |

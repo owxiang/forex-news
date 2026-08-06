@@ -9,8 +9,7 @@
 | 02:30 | AUD | Exports (MoM) (Jun) | 9.6% |  | -7.6% |
 | 02:30 | AUD | Imports (MoM) (Jun) | -0.2% |  | 0.9% |
 | 02:30 | AUD | Private House Approvals (Jun) | 0.4% | 0.4% | 2.4% |
-| 04:00 | EUR | German Car Registration (YoY) (Jul) |  |  | 15.7% |
-| 04:35 | JPY | 30-Year JGB Auction |  |  | 3.993% |
+| 04:35 | JPY | 30-Year JGB Auction | 3.937% |  | 3.993% |
 | 07:45 | EUR | French Non-Farm Payrolls (QoQ) |  | -0.1% | -0.1% |
 | 08:00 | CHF | Unemployment Rate n.s.a. (Jul) |  |  | 2.9% |
 | 08:00 | CHF | Unemployment Rate s.a. (Jul) |  | 3.1% | 3.1% |
@@ -21,6 +20,7 @@
 | 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Jul) |  |  | 42.8 |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Jun) |  | 0.3% | -0.3% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Jun) |  | 1.0% | 1.1% |
+| 09:00 | EUR | German Car Registration (YoY) (Jul) |  |  | 15.7% |
 | 09:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.395% |
 | 09:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.835% |
 | 09:40 | EUR | Spanish 7-Year Obligacion Auction |  |  | 3.297% |
