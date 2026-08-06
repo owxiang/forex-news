@@ -3,16 +3,16 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | KRW | Low | Current Account (Jun) | 49.73B |  | 38.61B |
-| 00:00 | EUR | Low | German Car Registration (YoY) (Jul) |  |  | 15.7% |
-| 00:50 | JPY | Low | Foreign Bonds Buying |  |  | -811.4B |
-| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 912.1B |
+| 00:50 | JPY | Low | Foreign Bonds Buying | 477.9B |  | -810.1B |
+| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -392.5B |  | 912.4B |
 | 01:35 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
-| 02:30 | AUD | Low | Building Approvals (YoY) (Jun) |  | 8.90% | 5.30% |
-| 02:30 | AUD | Moderate | Building Approvals (MoM) (Jun) |  | 7.2% | -1.1% |
-| 02:30 | AUD | Low | Exports (MoM) (Jun) |  |  | -6.9% |
-| 02:30 | AUD | Low | Imports (MoM) (Jun) |  |  | 2.6% |
-| 02:30 | AUD | Low | Private House Approvals (Jun) |  | 0.4% | 2.8% |
-| 02:30 | AUD | Moderate | Trade Balance (Jun) |  | -1.060B | -3.018B |
+| 02:30 | AUD | Low | Building Approvals (YoY) (Jun) | 8.90% | 8.90% | 5.50% |
+| 02:30 | AUD | Moderate | Building Approvals (MoM) (Jun) | 7.2% | 7.2% | -1.6% |
+| 02:30 | AUD | Low | Exports (MoM) (Jun) | 9.6% |  | -7.6% |
+| 02:30 | AUD | Low | Imports (MoM) (Jun) | -0.2% |  | 0.9% |
+| 02:30 | AUD | Low | Private House Approvals (Jun) | 0.4% | 0.4% | 2.4% |
+| 02:30 | AUD | Moderate | Trade Balance (Jun) | 1.929B | -1.060B | -2.367B |
+| 04:00 | EUR | Low | German Car Registration (YoY) (Jul) |  |  | 15.7% |
 | 04:35 | JPY | Low | 30-Year JGB Auction |  |  | 3.993% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Jun) |  | 0.5% | 1.9% |
 | 07:45 | EUR | Low | French Non-Farm Payrolls (QoQ) |  | -0.1% | -0.1% |

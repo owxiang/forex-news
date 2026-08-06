@@ -3,13 +3,13 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | KRW | Current Account (Jun) | 49.73B |  | 38.61B |
-| 00:00 | EUR | German Car Registration (YoY) (Jul) |  |  | 15.7% |
-| 00:50 | JPY | Foreign Bonds Buying |  |  | -811.4B |
-| 00:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 912.1B |
-| 02:30 | AUD | Building Approvals (YoY) (Jun) |  | 8.90% | 5.30% |
-| 02:30 | AUD | Exports (MoM) (Jun) |  |  | -6.9% |
-| 02:30 | AUD | Imports (MoM) (Jun) |  |  | 2.6% |
-| 02:30 | AUD | Private House Approvals (Jun) |  | 0.4% | 2.8% |
+| 00:50 | JPY | Foreign Bonds Buying | 477.9B |  | -810.1B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks | -392.5B |  | 912.4B |
+| 02:30 | AUD | Building Approvals (YoY) (Jun) | 8.90% | 8.90% | 5.50% |
+| 02:30 | AUD | Exports (MoM) (Jun) | 9.6% |  | -7.6% |
+| 02:30 | AUD | Imports (MoM) (Jun) | -0.2% |  | 0.9% |
+| 02:30 | AUD | Private House Approvals (Jun) | 0.4% | 0.4% | 2.4% |
+| 04:00 | EUR | German Car Registration (YoY) (Jul) |  |  | 15.7% |
 | 04:35 | JPY | 30-Year JGB Auction |  |  | 3.993% |
 | 07:45 | EUR | French Non-Farm Payrolls (QoQ) |  | -0.1% | -0.1% |
 | 08:00 | CHF | Unemployment Rate n.s.a. (Jul) |  |  | 2.9% |

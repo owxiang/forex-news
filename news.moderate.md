@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:35 | USD | FOMC Member Daly Speaks |  |  |  |
-| 02:30 | AUD | Building Approvals (MoM) (Jun) |  | 7.2% | -1.1% |
-| 02:30 | AUD | Trade Balance (Jun) |  | -1.060B | -3.018B |
+| 02:30 | AUD | Building Approvals (MoM) (Jun) | 7.2% | 7.2% | -1.6% |
+| 02:30 | AUD | Trade Balance (Jun) | 1.929B | -1.060B | -2.367B |
 | 07:00 | EUR | German Factory Orders (MoM) (Jun) |  | 0.5% | 1.9% |
 | 09:00 | EUR | ECB Economic Bulletin |  |  |  |
 | 09:30 | GBP | S&P Global Construction PMI (Jul) |  | 40.0 | 38.4 |
