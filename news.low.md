@@ -10,24 +10,24 @@
 | 02:30 | AUD | Imports (MoM) (Jun) | -0.2% |  | 0.9% |
 | 02:30 | AUD | Private House Approvals (Jun) | 0.4% | 0.4% | 2.4% |
 | 04:35 | JPY | 30-Year JGB Auction | 3.937% |  | 3.993% |
-| 07:45 | EUR | French Non-Farm Payrolls (QoQ) |  | -0.1% | -0.1% |
-| 08:00 | CHF | Unemployment Rate n.s.a. (Jul) |  |  | 2.9% |
-| 08:00 | CHF | Unemployment Rate s.a. (Jul) |  | 3.1% | 3.1% |
-| 08:00 | EUR | Spanish Industrial Production (YoY) (Jun) |  |  | 3.4% |
-| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Jul) |  |  | 45.4 |
-| 08:30 | EUR | HCOB Germany Construction PMI (Jul) |  |  | 44.8 |
-| 08:30 | EUR | HCOB France Construction PMI (MoM) (Jul) |  |  | 38.2 |
-| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Jul) |  |  | 42.8 |
-| 09:00 | EUR | Italian Industrial Production (MoM) (Jun) |  | 0.3% | -0.3% |
-| 09:00 | EUR | Italian Industrial Production (YoY) (Jun) |  | 1.0% | 1.1% |
-| 09:00 | EUR | German Car Registration (YoY) (Jul) |  |  | 15.7% |
+| 07:45 | EUR | French Non-Farm Payrolls (QoQ) | -0.1% | -0.1% | -0.1% |
+| 08:00 | CHF | Unemployment Rate n.s.a. (Jul) | 3.0% |  | 2.9% |
+| 08:00 | CHF | Unemployment Rate s.a. (Jul) | 3.1% | 3.1% | 3.1% |
+| 08:00 | EUR | Spanish Industrial Production (YoY) (Jun) | 1.1% |  | 3.1% |
+| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Jul) | 49.1 |  | 45.4 |
+| 08:30 | EUR | HCOB Germany Construction PMI (Jul) | 42.1 |  | 44.8 |
+| 08:30 | EUR | HCOB France Construction PMI (MoM) (Jul) | 41.5 |  | 38.2 |
+| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Jul) | 44.3 |  | 42.8 |
+| 09:00 | EUR | Italian Industrial Production (MoM) (Jun) | -1.0% | 0.3% | -0.3% |
+| 09:00 | EUR | Italian Industrial Production (YoY) (Jun) | -0.6% | 1.0% | 1.2% |
 | 09:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.395% |
 | 09:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.835% |
 | 09:40 | EUR | Spanish 7-Year Obligacion Auction |  |  | 3.297% |
-| 10:00 | EUR | Retail Sales (MoM) (Jun) |  | 0.1% | 0.2% |
-| 10:00 | EUR | Retail Sales (YoY) (Jun) |  | 1.0% | 1.6% |
-| 10:30 | USD | Challenger Job Cuts (YoY) |  |  | -4.5% |
-| 10:30 | USD | Challenger Job Cuts (Jul) |  |  | 45.849K |
+| 16 min | EUR | Retail Sales (MoM) (Jun) |  | 0.1% | 0.2% |
+| 16 min | EUR | Retail Sales (YoY) (Jun) |  | 1.0% | 1.6% |
+| 46 min | USD | Challenger Job Cuts (YoY) |  |  | -4.5% |
+| 46 min | USD | Challenger Job Cuts (Jul) |  |  | 45.849K |
+| 13:00 | EUR | German Car Registration (YoY) (Jul) |  |  | 15.7% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 202.75K |
 | 14:30 | CAD | S&P Global Services PMI (Jul) |  |  | 47.10 |
 | 15:00 | USD | Wholesale Inventories (MoM) (Jun) |  | 0.3% | 0.3% |
