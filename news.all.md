@@ -26,13 +26,13 @@
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Jun) | -0.6% | 1.0% | 1.2% |
 | 09:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
 | 09:30 | GBP | Moderate | S&P Global Construction PMI (Jul) | 44.7 | 40.0 | 38.4 |
-| 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.395% |
-| 09:40 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.835% |
-| 09:40 | EUR | Low | Spanish 7-Year Obligacion Auction |  |  | 3.297% |
-| 16 min | EUR | Low | Retail Sales (MoM) (Jun) |  | 0.1% | 0.2% |
-| 16 min | EUR | Low | Retail Sales (YoY) (Jun) |  | 1.0% | 1.6% |
-| 46 min | USD | Low | Challenger Job Cuts (YoY) |  |  | -4.5% |
-| 46 min | USD | Low | Challenger Job Cuts (Jul) |  |  | 45.849K |
+| 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction | 3.542% |  | 3.395% |
+| 09:40 | EUR | Low | Spanish 7-Year Obligacion Auction | 3.188% |  | 3.297% |
+| 10:00 | EUR | Low | Spanish 5-Year Bonos Auction | 3.005% |  | 2.835% |
+| 10:00 | EUR | Low | Retail Sales (MoM) (Jun) | -0.3% | 0.1% | 0.4% |
+| 10:00 | EUR | Low | Retail Sales (YoY) (Jun) | 0.7% | 1.0% | 1.9% |
+| 10:30 | USD | Low | Challenger Job Cuts (YoY) | -46.1% |  | -4.5% |
+| 10:30 | USD | Low | Challenger Job Cuts (Jul) | 33.429K |  | 45.849K |
 | 13:00 | EUR | Low | German Car Registration (YoY) (Jul) |  |  | 15.7% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,790K | 1,782K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 203K | 197K |

@@ -20,13 +20,13 @@
 | 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Jul) | 44.3 |  | 42.8 |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Jun) | -1.0% | 0.3% | -0.3% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Jun) | -0.6% | 1.0% | 1.2% |
-| 09:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.395% |
-| 09:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.835% |
-| 09:40 | EUR | Spanish 7-Year Obligacion Auction |  |  | 3.297% |
-| 16 min | EUR | Retail Sales (MoM) (Jun) |  | 0.1% | 0.2% |
-| 16 min | EUR | Retail Sales (YoY) (Jun) |  | 1.0% | 1.6% |
-| 46 min | USD | Challenger Job Cuts (YoY) |  |  | -4.5% |
-| 46 min | USD | Challenger Job Cuts (Jul) |  |  | 45.849K |
+| 09:40 | EUR | Spanish 10-Year Obligacion Auction | 3.542% |  | 3.395% |
+| 09:40 | EUR | Spanish 7-Year Obligacion Auction | 3.188% |  | 3.297% |
+| 10:00 | EUR | Spanish 5-Year Bonos Auction | 3.005% |  | 2.835% |
+| 10:00 | EUR | Retail Sales (MoM) (Jun) | -0.3% | 0.1% | 0.4% |
+| 10:00 | EUR | Retail Sales (YoY) (Jun) | 0.7% | 1.0% | 1.9% |
+| 10:30 | USD | Challenger Job Cuts (YoY) | -46.1% |  | -4.5% |
+| 10:30 | USD | Challenger Job Cuts (Jul) | 33.429K |  | 45.849K |
 | 13:00 | EUR | German Car Registration (YoY) (Jul) |  |  | 15.7% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 202.75K |
 | 14:30 | CAD | S&P Global Services PMI (Jul) |  |  | 47.10 |
