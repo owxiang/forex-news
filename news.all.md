@@ -33,15 +33,15 @@
 | 10:00 | EUR | Low | Retail Sales (YoY) (Jun) | 0.7% | 1.0% | 1.9% |
 | 10:30 | USD | Low | Challenger Job Cuts (YoY) | -46.1% |  | -4.5% |
 | 10:30 | USD | Low | Challenger Job Cuts (Jul) | 33.429K |  | 45.849K |
-| 13:00 | EUR | Low | German Car Registration (YoY) (Jul) |  |  | 15.7% |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,790K | 1,782K |
-| 13:30 | USD | High | Initial Jobless Claims |  | 203K | 197K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 202.75K |
-| 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q2) |  | 0.6% | 0.3% |
-| 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q2) |  | 2.2% | 1.8% |
-| 14:30 | CAD | Low | S&P Global Services PMI (Jul) |  |  | 47.10 |
-| 15:00 | USD | Low | Wholesale Inventories (MoM) (Jun) |  | 0.3% | 0.3% |
-| 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Jun) |  |  | 3.4% |
+| 13:15 | CAD | Low | Reserve Assets Total (Jul) | 127.0B |  | 126.4B |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,801K | 1,790K | 1,777K |
+| 13:30 | USD | High | Initial Jobless Claims | 199K | 203K | 198K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 198.75K |  | 203.25K |
+| 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q2) | 1.4% | 0.6% | 0.8% |
+| 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q2) | 1.3% | 2.2% | 1.3% |
+| 14:30 | CAD | Low | S&P Global Services PMI (Jul) | 49.10 |  | 47.10 |
+| 15:00 | USD | Low | Wholesale Inventories (MoM) (Jun) | 0.2% | 0.3% | 0.3% |
+| 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Jun) | -3.0% |  | 3.5% |
 | 15:30 | USD | Low | Natural Gas Storage |  | 30B | 28B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.630% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.675% |

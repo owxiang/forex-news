@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:30 | USD | Initial Jobless Claims |  | 203K | 197K |
+| 13:30 | USD | Initial Jobless Claims | 199K | 203K | 198K |
