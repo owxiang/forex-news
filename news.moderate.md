@@ -7,11 +7,11 @@
 | 04:00 | CNY | Exports (YoY) (Jul) | 23.9% | 22.2% | 27.0% |
 | 04:00 | CNY | Imports (YoY) (Jul) | 27.5% | 27.9% | 36.0% |
 | 04:00 | CNY | Trade Balance (USD) (Jul) | 112.50B | 108.60B | 125.62B |
-| 07:00 | GBP | Lloyds House Price Index (MoM) (Jul) |  | 0.2% | 0.2% |
-| 07:00 | GBP | Lloyds House Price Index (YoY) (Jul) |  | 0.4% | 0.6% |
-| 07:00 | EUR | German Industrial Production (MoM) (Jun) |  | 0.2% | 0.9% |
-| 07:00 | EUR | German Trade Balance (Jun) |  | 17.2B | 19.1B |
-| 08:00 | CHF | SECO Consumer Climate (Q3) |  | -34 | -40 |
+| 07:00 | GBP | Lloyds House Price Index (MoM) (Jul) | 0.0% | 0.2% | 0.2% |
+| 07:00 | GBP | Lloyds House Price Index (YoY) (Jul) | 0.1% | 0.4% | 0.7% |
+| 07:00 | EUR | German Industrial Production (MoM) (Jun) | 0.2% | 0.2% | 0.7% |
+| 07:00 | EUR | German Trade Balance (Jun) | 15.4B | 17.2B | 19.4B |
+| 08:00 | CHF | SECO Consumer Climate (Q3) | -33 | -34 | -40 |
 | 10:00 | GBP | Mortgage Rate (GBP) (Jul) |  |  | 6.60% |
 | 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Jul) |  | 3.5% | 3.5% |
 | 13:30 | USD | Participation Rate (Jul) |  |  | 61.5% |

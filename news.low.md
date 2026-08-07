@@ -11,19 +11,20 @@
 | 06:00 | JPY | Leading Index (Jun) | 116.4 | 116.5 | 116.4 |
 | 06:00 | JPY | Leading Index (MoM) (Jun) | 0.0% |  | 0.4% |
 | 06:30 | EUR | French Unemployment Rate (Q2) | 8.3% | 8.2% | 8.1% |
-| 07:00 | EUR | German Exports (MoM) (Jun) |  | 0.2% | 0.9% |
-| 07:00 | EUR | German Imports (MoM) (Jun) |  | 1.0% | -2.5% |
-| 07:00 | EUR | German Industrial Production (YoY) (Jun) |  |  | 0.11% |
-| 07:00 | NOK | Manufacturing Production (MoM) (Jun) |  |  | 0.7% |
-| 07:00 | ZAR | Foreign Reserves (USD) (Jul) |  |  | 74.11B |
-| 07:00 | ZAR | Net FX Reserves (USD) (Jul) |  |  | 71.338B |
-| 07:45 | EUR | French Current Account (Jun) |  |  | -0.10B |
-| 07:45 | EUR | French Exports (Jun) |  |  | 53.6B |
-| 07:45 | EUR | French Imports (Jun) |  |  | 60.5B |
-| 07:45 | EUR | French Trade Balance (Jun) |  | -6.5B | -6.9B |
-| 08:00 | CHF | Foreign Reserves (USD) (Jul) |  |  | 758,794.0B |
+| 07:00 | EUR | German Exports (MoM) (Jun) | 0.9% | 0.2% | 1.1% |
+| 07:00 | EUR | German Imports (MoM) (Jun) | 4.4% | 1.0% | -2.6% |
+| 07:00 | EUR | German Industrial Production (YoY) (Jun) | 0.00% |  | -0.11% |
+| 07:00 | NOK | Manufacturing Production (MoM) (Jun) | -1.0% |  | 0.8% |
+| 07:00 | ZAR | Foreign Reserves (USD) (Jul) | 73.45B |  | 74.11B |
+| 07:00 | ZAR | Net FX Reserves (USD) (Jul) | 71.761B |  | 71.338B |
+| 07:45 | EUR | French Current Account (Jun) | -1.40B |  | -1.20B |
+| 07:45 | EUR | French Exports (Jun) | 54.5B |  | 53.2B |
+| 07:45 | EUR | French Imports (Jun) | 60.4B |  | 60.9B |
+| 07:45 | EUR | French Trade Balance (Jun) | -5.8B | -6.5B | -7.7B |
+| 08:00 | CHF | Foreign Reserves (USD) (Jul) | 768.3B |  | 758.9B |
 | 09:00 | CNY | FX Reserves (USD) (Jul) |  |  | 3.416T |
 | 09:30 | HKD | Foreign Reserves (USD) (Jul) |  |  | 445.90B |
+| 10:00 | SGD | Foreign Reserves USD (MoM) (Jul) |  |  | 426.2B |
 | 12:00 | BRL | IGP-DI Inflation Index (MoM) (Jul) |  |  | -0.79% |
 | 12:30 | INR | Bank Loan Growth |  |  | 17.7% |
 | 12:30 | INR | Deposit Growth |  |  | 12.7% |
@@ -32,8 +33,8 @@
 | 13:00 | MXN | CPI (YoY) (Jul) |  | 3.12% | 3.37% |
 | 13:00 | MXN | CPI (MoM) (Jul) |  | 0.03% | -0.27% |
 | 13:00 | MXN | Month Core Inflation (YoY) (Jul) |  | 3.94% | 4.03% |
-| 13:00 | MXN | PPI (YoY) (Jul) |  |  | 2.10% |
 | 13:00 | MXN | PPI (MoM) (Jul) |  |  | -0.90% |
+| 13:00 | MXN | PPI (YoY) (Jul) |  |  | 2.10% |
 | 13:00 | EUR | German Car Registration (YoY) (Jul) |  |  | 15.7% |
 | 13:30 | USD | Average Weekly Hours (Jul) |  | 34.3 | 34.3 |
 | 13:30 | USD | Government Payrolls (Jul) |  |  | 8.0K |
