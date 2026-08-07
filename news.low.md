@@ -3,10 +3,13 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Foreign Reserves (USD) (Jul) | 1,287.1B |  | 1,287.5B |
-| 04:00 | IDR | FX Reserves (USD) (Jul) |  |  | 145.60B |
+| 03:41 | CNY | Exports (Jul) | 17.80M |  | 20.80M |
+| 03:41 | CNY | Imports (Jul) | 21.20M |  | 29.40M |
+| 03:41 | CNY | Trade Balance (Jul) | 767.07B | 740.00B | 859.05B |
+| 04:00 | IDR | FX Reserves (USD) (Jul) | 145.30B |  | 145.60B |
 | 06:00 | JPY | Coincident Indicator (MoM) (Jun) |  | 0.4% | -0.2% |
-| 06:00 | JPY | Leading Index (Jun) |  | 116.5 | 116.5 |
 | 06:00 | JPY | Leading Index (MoM) (Jun) |  |  | 0.4% |
+| 06:00 | JPY | Leading Index (Jun) |  | 116.5 | 116.5 |
 | 06:30 | EUR | French Unemployment Rate (Q2) |  |  | 8.1% |
 | 07:00 | EUR | German Exports (MoM) (Jun) |  |  | 0.9% |
 | 07:00 | EUR | German Imports (MoM) (Jun) |  |  | -2.5% |
@@ -31,8 +34,8 @@
 | 13:00 | MXN | CPI (YoY) (Jul) |  |  | 3.37% |
 | 13:00 | MXN | CPI (MoM) (Jul) |  |  | -0.27% |
 | 13:00 | MXN | Month Core Inflation (YoY) (Jul) |  |  | 4.03% |
-| 13:00 | MXN | PPI (MoM) (Jul) |  |  | -0.90% |
 | 13:00 | MXN | PPI (YoY) (Jul) |  |  | 2.10% |
+| 13:00 | MXN | PPI (MoM) (Jul) |  |  | -0.90% |
 | 13:00 | EUR | German Car Registration (YoY) (Jul) |  |  | 15.7% |
 | 13:30 | USD | Average Weekly Hours (Jul) |  |  | 34.3 |
 | 13:30 | USD | Government Payrolls (Jul) |  |  | 8.0K |
@@ -44,9 +47,6 @@
 | 15:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 15:00 | CAD | Ivey PMI n.s.a (Jul) |  |  | 59.7 |
 | 17:00 | EUR | French Car Registration (YoY) (Jul) |  |  | 11.4% |
-| 19:52 | CNY | Exports (Jul) |  |  | 20.80M |
-| 19:52 | CNY | Imports (Jul) |  |  | 29.40M |
-| 19:52 | CNY | Trade Balance (Jul) |  | 740.00B | 859.05B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -0.7K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 67.3K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 254.3K |

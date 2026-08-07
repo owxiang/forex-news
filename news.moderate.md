@@ -4,6 +4,9 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | Household Spending (MoM) (Jun) | -6.4% | -3.1% | 3.7% |
 | 00:30 | JPY | Household Spending (YoY) (Jun) | -3.3% | 0.8% | -0.4% |
+| 03:33 | CNY | Imports (YoY) (Jul) | 27.5% |  | 36.0% |
+| 03:33 | CNY | Trade Balance (USD) (Jul) | 112.50B | 109.40B | 125.62B |
+| 03:42 | CNY | Exports (YoY) (Jul) | 23.9% |  | 27.0% |
 | 07:00 | GBP | Lloyds House Price Index (MoM) (Jul) |  | 0.2% | 0.2% |
 | 07:00 | GBP | Lloyds House Price Index (YoY) (Jul) |  |  | 0.6% |
 | 07:00 | EUR | German Industrial Production (MoM) (Jun) |  | 0.0% | 0.9% |
@@ -20,9 +23,6 @@
 | 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Jul) |  |  | 3.7% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 451 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 588 |
-| 19:52 | CNY | Trade Balance (USD) (Jul) |  | 109.40B | 125.62B |
-| 19:52 | CNY | Exports (YoY) (Jul) |  |  | 27.0% |
-| 19:52 | CNY | Imports (YoY) (Jul) |  |  | 36.0% |
 | 20:00 | USD | Consumer Credit (Jun) |  | 12.10B | -0.18B |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -64.8K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 120.1K |

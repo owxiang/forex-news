@@ -5,10 +5,16 @@
 | 00:30 | JPY | Moderate | Household Spending (MoM) (Jun) | -6.4% | -3.1% | 3.7% |
 | 00:30 | JPY | Moderate | Household Spending (YoY) (Jun) | -3.3% | 0.8% | -0.4% |
 | 00:50 | JPY | Low | Foreign Reserves (USD) (Jul) | 1,287.1B |  | 1,287.5B |
-| 04:00 | IDR | Low | FX Reserves (USD) (Jul) |  |  | 145.60B |
+| 03:33 | CNY | Moderate | Imports (YoY) (Jul) | 27.5% |  | 36.0% |
+| 03:33 | CNY | Moderate | Trade Balance (USD) (Jul) | 112.50B | 109.40B | 125.62B |
+| 03:41 | CNY | Low | Exports (Jul) | 17.80M |  | 20.80M |
+| 03:41 | CNY | Low | Imports (Jul) | 21.20M |  | 29.40M |
+| 03:41 | CNY | Low | Trade Balance (Jul) | 767.07B | 740.00B | 859.05B |
+| 03:42 | CNY | Moderate | Exports (YoY) (Jul) | 23.9% |  | 27.0% |
+| 04:00 | IDR | Low | FX Reserves (USD) (Jul) | 145.30B |  | 145.60B |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Jun) |  | 0.4% | -0.2% |
-| 06:00 | JPY | Low | Leading Index (Jun) |  | 116.5 | 116.5 |
 | 06:00 | JPY | Low | Leading Index (MoM) (Jun) |  |  | 0.4% |
+| 06:00 | JPY | Low | Leading Index (Jun) |  | 116.5 | 116.5 |
 | 06:30 | EUR | Low | French Unemployment Rate (Q2) |  |  | 8.1% |
 | 07:00 | GBP | Moderate | Lloyds House Price Index (MoM) (Jul) |  | 0.2% | 0.2% |
 | 07:00 | GBP | Moderate | Lloyds House Price Index (YoY) (Jul) |  |  | 0.6% |
@@ -39,8 +45,8 @@
 | 13:00 | MXN | Low | CPI (YoY) (Jul) |  |  | 3.37% |
 | 13:00 | MXN | Low | CPI (MoM) (Jul) |  |  | -0.27% |
 | 13:00 | MXN | Low | Month Core Inflation (YoY) (Jul) |  |  | 4.03% |
-| 13:00 | MXN | Low | PPI (MoM) (Jul) |  |  | -0.90% |
 | 13:00 | MXN | Low | PPI (YoY) (Jul) |  |  | 2.10% |
+| 13:00 | MXN | Low | PPI (MoM) (Jul) |  |  | -0.90% |
 | 13:00 | EUR | Low | German Car Registration (YoY) (Jul) |  |  | 15.7% |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Jul) |  | 0.3% | 0.3% |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jul) |  |  | 3.5% |
@@ -65,12 +71,6 @@
 | 17:00 | EUR | Low | French Car Registration (YoY) (Jul) |  |  | 11.4% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 451 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 588 |
-| 19:52 | CNY | Low | Exports (Jul) |  |  | 20.80M |
-| 19:52 | CNY | Low | Imports (Jul) |  |  | 29.40M |
-| 19:52 | CNY | Low | Trade Balance (Jul) |  | 740.00B | 859.05B |
-| 19:52 | CNY | Moderate | Trade Balance (USD) (Jul) |  | 109.40B | 125.62B |
-| 19:52 | CNY | Moderate | Exports (YoY) (Jul) |  |  | 27.0% |
-| 19:52 | CNY | Moderate | Imports (YoY) (Jul) |  |  | 36.0% |
 | 20:00 | USD | Moderate | Consumer Credit (Jun) |  | 12.10B | -0.18B |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -64.8K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -0.7K |
