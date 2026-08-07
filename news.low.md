@@ -44,7 +44,7 @@
 | 15:00 | CAD | Ivey PMI n.s.a (Jul) | 54.1 |  | 59.7 |
 | 15:00 | BRL | Auto Production (MoM) (Jul) | 3.1% |  | -3.0% |
 | 15:00 | BRL | Auto Sales (MoM) (Jul) | 2.6% |  | -0.8% |
-| 17:00 | EUR | French Car Registration (YoY) (Jul) |  |  | 11.4% |
+| 9 min | EUR | French Car Registration (YoY) (Jul) |  |  | 11.4% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -0.7K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 67.3K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 254.3K |
