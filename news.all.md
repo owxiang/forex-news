@@ -36,10 +36,11 @@
 | 09:30 | GBP | Moderate | Mortgage Rate (GBP) (Jul) | 6.60% |  | 6.60% |
 | 09:30 | HKD | Low | Foreign Reserves (USD) (Jul) | 447.80B |  | 445.90B |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Jul) | 427.9B |  | 426.2B |
+| 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Jul) | -0.86% |  | -0.79% |
 | 12:30 | INR | Low | FX Reserves, USD | 692.87B |  | 682.35B |
 | 13:00 | MXN | Low | Core CPI (MoM) (Jul) | 0.23% | 0.22% | 0.24% |
-| 13:00 | MXN | Low | CPI (YoY) (Jul) | 3.12% | 3.12% | 3.37% |
 | 13:00 | MXN | Low | CPI (MoM) (Jul) | 0.03% | 0.03% | -0.27% |
+| 13:00 | MXN | Low | CPI (YoY) (Jul) | 3.12% | 3.12% | 3.37% |
 | 13:00 | MXN | Low | Month Core Inflation (YoY) (Jul) | 3.95% | 3.94% | 4.03% |
 | 13:00 | MXN | Low | PPI (MoM) (Jul) | 0.00% |  | -0.90% |
 | 13:00 | MXN | Low | PPI (YoY) (Jul) | 2.60% |  | 2.10% |
@@ -59,12 +60,12 @@
 | 13:30 | CAD | Low | Part Time Employment Change (Jul) | 36.6K |  | 17.5K |
 | 13:30 | CAD | Low | Participation Rate (Jul) | 65.1% |  | 65.0% |
 | 13:30 | CAD | Moderate | Unemployment Rate (Jul) | 6.4% | 6.5% | 6.5% |
-| 47 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 47 min | CAD | Low | Ivey PMI n.s.a (Jul) |  |  | 59.7 |
-| 47 min | CAD | Moderate | Ivey PMI (Jul) |  | 55.4 | 56.2 |
-| 47 min | BRL | Low | Auto Production (MoM) (Jul) |  |  | -3.0% |
-| 47 min | BRL | Low | Auto Sales (MoM) (Jul) |  |  | -0.8% |
-| 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Jul) |  |  | 3.7% |
+| 15:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 15:00 | CAD | Low | Ivey PMI n.s.a (Jul) | 54.1 |  | 59.7 |
+| 15:00 | CAD | Moderate | Ivey PMI (Jul) | 55.1 | 55.4 | 56.2 |
+| 15:00 | BRL | Low | Auto Production (MoM) (Jul) | 3.1% |  | -3.0% |
+| 15:00 | BRL | Low | Auto Sales (MoM) (Jul) | 2.6% |  | -0.8% |
+| 4 min | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Jul) |  |  | 3.7% |
 | 17:00 | EUR | Low | French Car Registration (YoY) (Jul) |  |  | 11.4% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  | 452 | 451 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 588 |

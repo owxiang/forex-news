@@ -19,8 +19,8 @@
 | 13:30 | USD | U6 Unemployment Rate (Jul) | 7.9% |  | 7.9% |
 | 13:30 | CAD | Employment Change (Jul) | 75.1K | 17.8K | 18.2K |
 | 13:30 | CAD | Unemployment Rate (Jul) | 6.4% | 6.5% | 6.5% |
-| 47 min | CAD | Ivey PMI (Jul) |  | 55.4 | 56.2 |
-| 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Jul) |  |  | 3.7% |
+| 15:00 | CAD | Ivey PMI (Jul) | 55.1 | 55.4 | 56.2 |
+| 4 min | USD | NY Fed 1-Year Consumer Inflation Expectations (Jul) |  |  | 3.7% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  | 452 | 451 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 588 |
 | 20:00 | USD | Consumer Credit (Jun) |  | 11.40B | -0.18B |

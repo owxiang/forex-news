@@ -25,10 +25,11 @@
 | 09:00 | CNY | FX Reserves (USD) (Jul) | 3.419T | 3.420T | 3.416T |
 | 09:30 | HKD | Foreign Reserves (USD) (Jul) | 447.80B |  | 445.90B |
 | 10:00 | SGD | Foreign Reserves USD (MoM) (Jul) | 427.9B |  | 426.2B |
+| 12:00 | BRL | IGP-DI Inflation Index (MoM) (Jul) | -0.86% |  | -0.79% |
 | 12:30 | INR | FX Reserves, USD | 692.87B |  | 682.35B |
 | 13:00 | MXN | Core CPI (MoM) (Jul) | 0.23% | 0.22% | 0.24% |
-| 13:00 | MXN | CPI (YoY) (Jul) | 3.12% | 3.12% | 3.37% |
 | 13:00 | MXN | CPI (MoM) (Jul) | 0.03% | 0.03% | -0.27% |
+| 13:00 | MXN | CPI (YoY) (Jul) | 3.12% | 3.12% | 3.37% |
 | 13:00 | MXN | Month Core Inflation (YoY) (Jul) | 3.95% | 3.94% | 4.03% |
 | 13:00 | MXN | PPI (MoM) (Jul) | 0.00% |  | -0.90% |
 | 13:00 | MXN | PPI (YoY) (Jul) | 2.60% |  | 2.10% |
@@ -39,10 +40,10 @@
 | 13:30 | CAD | Full Employment Change (Jul) | 38.6K |  | 0.6K |
 | 13:30 | CAD | Part Time Employment Change (Jul) | 36.6K |  | 17.5K |
 | 13:30 | CAD | Participation Rate (Jul) | 65.1% |  | 65.0% |
-| 47 min | USD | FOMC Member Barkin Speaks |  |  |  |
-| 47 min | CAD | Ivey PMI n.s.a (Jul) |  |  | 59.7 |
-| 47 min | BRL | Auto Production (MoM) (Jul) |  |  | -3.0% |
-| 47 min | BRL | Auto Sales (MoM) (Jul) |  |  | -0.8% |
+| 15:00 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 15:00 | CAD | Ivey PMI n.s.a (Jul) | 54.1 |  | 59.7 |
+| 15:00 | BRL | Auto Production (MoM) (Jul) | 3.1% |  | -3.0% |
+| 15:00 | BRL | Auto Sales (MoM) (Jul) | 2.6% |  | -0.8% |
 | 17:00 | EUR | French Car Registration (YoY) (Jul) |  |  | 11.4% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -0.7K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 67.3K |
