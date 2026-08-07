@@ -13,12 +13,12 @@
 | 07:00 | EUR | German Trade Balance (Jun) | 15.4B | 17.2B | 19.4B |
 | 08:00 | CHF | SECO Consumer Climate (Q3) | -33 | -34 | -40 |
 | 09:30 | GBP | Mortgage Rate (GBP) (Jul) | 6.60% |  | 6.60% |
-| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Jul) |  | 3.5% | 3.5% |
-| 13:30 | USD | Participation Rate (Jul) |  |  | 61.5% |
-| 13:30 | USD | Private Nonfarm Payrolls (Jul) |  | 78K | 49K |
-| 13:30 | USD | U6 Unemployment Rate (Jul) |  |  | 7.9% |
-| 13:30 | CAD | Employment Change (Jul) |  | 17.8K | 18.2K |
-| 13:30 | CAD | Unemployment Rate (Jul) |  | 6.5% | 6.5% |
+| 40 min | USD | Average Hourly Earnings (YoY) (YoY) (Jul) |  | 3.5% | 3.5% |
+| 40 min | USD | Participation Rate (Jul) |  |  | 61.5% |
+| 40 min | USD | Private Nonfarm Payrolls (Jul) |  | 78K | 49K |
+| 40 min | USD | U6 Unemployment Rate (Jul) |  |  | 7.9% |
+| 40 min | CAD | Employment Change (Jul) |  | 17.8K | 18.2K |
+| 40 min | CAD | Unemployment Rate (Jul) |  | 6.5% | 6.5% |
 | 15:00 | CAD | Ivey PMI (Jul) |  | 55.4 | 56.2 |
 | 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Jul) |  |  | 3.7% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  | 452 | 451 |

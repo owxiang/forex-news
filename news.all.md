@@ -36,33 +36,30 @@
 | 09:30 | GBP | Moderate | Mortgage Rate (GBP) (Jul) | 6.60% |  | 6.60% |
 | 09:30 | HKD | Low | Foreign Reserves (USD) (Jul) | 447.80B |  | 445.90B |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Jul) | 427.9B |  | 426.2B |
-| 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Jul) |  |  | -0.79% |
-| 12:30 | INR | Low | Bank Loan Growth |  |  | 17.7% |
-| 12:30 | INR | Low | Deposit Growth |  |  | 12.7% |
-| 12:30 | INR | Low | FX Reserves, USD |  |  | 682.35B |
-| 13:00 | MXN | Low | Core CPI (MoM) (Jul) |  | 0.22% | 0.24% |
-| 13:00 | MXN | Low | CPI (YoY) (Jul) |  | 3.12% | 3.37% |
-| 13:00 | MXN | Low | CPI (MoM) (Jul) |  | 0.03% | -0.27% |
-| 13:00 | MXN | Low | Month Core Inflation (YoY) (Jul) |  | 3.94% | 4.03% |
-| 13:00 | MXN | Low | PPI (MoM) (Jul) |  |  | -0.90% |
-| 13:00 | MXN | Low | PPI (YoY) (Jul) |  |  | 2.10% |
-| 13:00 | EUR | Low | German Car Registration (YoY) (Jul) |  |  | 15.7% |
-| 13:30 | USD | High | Average Hourly Earnings (MoM) (Jul) |  | 0.3% | 0.3% |
-| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jul) |  | 3.5% | 3.5% |
-| 13:30 | USD | Low | Average Weekly Hours (Jul) |  | 34.3 | 34.3 |
-| 13:30 | USD | Low | Government Payrolls (Jul) |  |  | 8.0K |
-| 13:30 | USD | Low | Manufacturing Payrolls (Jul) |  | 4K | 3K |
-| 13:30 | USD | High | Nonfarm Payrolls (Jul) |  | 85K | 57K |
-| 13:30 | USD | Moderate | Participation Rate (Jul) |  |  | 61.5% |
-| 13:30 | USD | Moderate | Private Nonfarm Payrolls (Jul) |  | 78K | 49K |
-| 13:30 | USD | Moderate | U6 Unemployment Rate (Jul) |  |  | 7.9% |
-| 13:30 | USD | High | Unemployment Rate (Jul) |  | 4.2% | 4.2% |
-| 13:30 | CAD | Low | Avg hourly wages Permanent employee (Jul) |  |  | 3.7% |
-| 13:30 | CAD | Moderate | Employment Change (Jul) |  | 17.8K | 18.2K |
-| 13:30 | CAD | Low | Full Employment Change (Jul) |  |  | 0.6K |
-| 13:30 | CAD | Low | Part Time Employment Change (Jul) |  |  | 17.5K |
-| 13:30 | CAD | Low | Participation Rate (Jul) |  |  | 65.0% |
-| 13:30 | CAD | Moderate | Unemployment Rate (Jul) |  | 6.5% | 6.5% |
+| 12:30 | INR | Low | FX Reserves, USD | 692.87B |  | 682.35B |
+| 10 min | MXN | Low | Core CPI (MoM) (Jul) |  | 0.22% | 0.24% |
+| 10 min | MXN | Low | CPI (YoY) (Jul) |  | 3.12% | 3.37% |
+| 10 min | MXN | Low | CPI (MoM) (Jul) |  | 0.03% | -0.27% |
+| 10 min | MXN | Low | Month Core Inflation (YoY) (Jul) |  | 3.94% | 4.03% |
+| 10 min | MXN | Low | PPI (MoM) (Jul) |  |  | -0.90% |
+| 10 min | MXN | Low | PPI (YoY) (Jul) |  |  | 2.10% |
+| 40 min | USD | High | Average Hourly Earnings (MoM) (Jul) |  | 0.3% | 0.3% |
+| 40 min | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jul) |  | 3.5% | 3.5% |
+| 40 min | USD | Low | Average Weekly Hours (Jul) |  | 34.3 | 34.3 |
+| 40 min | USD | Low | Government Payrolls (Jul) |  |  | 8.0K |
+| 40 min | USD | Low | Manufacturing Payrolls (Jul) |  | 4K | 3K |
+| 40 min | USD | High | Nonfarm Payrolls (Jul) |  | 85K | 57K |
+| 40 min | USD | Moderate | Participation Rate (Jul) |  |  | 61.5% |
+| 40 min | USD | Moderate | Private Nonfarm Payrolls (Jul) |  | 78K | 49K |
+| 40 min | USD | Moderate | U6 Unemployment Rate (Jul) |  |  | 7.9% |
+| 40 min | USD | High | Unemployment Rate (Jul) |  | 4.2% | 4.2% |
+| 40 min | CAD | Low | Avg hourly wages Permanent employee (Jul) |  |  | 3.7% |
+| 40 min | CAD | Moderate | Employment Change (Jul) |  | 17.8K | 18.2K |
+| 40 min | CAD | Low | Full Employment Change (Jul) |  |  | 0.6K |
+| 40 min | CAD | Low | Part Time Employment Change (Jul) |  |  | 17.5K |
+| 40 min | CAD | Low | Participation Rate (Jul) |  |  | 65.0% |
+| 40 min | CAD | Moderate | Unemployment Rate (Jul) |  | 6.5% | 6.5% |
+| 40 min | BRL | Low | IGP-DI Inflation Index (MoM) (Jul) |  |  | -0.79% |
 | 15:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 15:00 | CAD | Low | Ivey PMI n.s.a (Jul) |  |  | 59.7 |
 | 15:00 | CAD | Moderate | Ivey PMI (Jul) |  | 55.4 | 56.2 |
