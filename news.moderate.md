@@ -23,13 +23,13 @@
 | 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Jul) | 3.6% |  | 3.7% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 454 | 452 | 451 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count | 588 |  | 588 |
-| 20:00 | USD | Consumer Credit (Jun) |  | 11.40B | -0.18B |
-| 20:30 | GBP | CFTC GBP speculative net positions |  |  | -64.8K |
-| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 120.1K |
-| 20:30 | USD | CFTC Gold speculative net positions |  |  | 182.1K |
-| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 4.9K |
-| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -17.2K |
-| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -40.0K |
-| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 39.5K |
-| 20:30 | JPY | CFTC JPY speculative net positions |  |  | -163.4K |
-| 20:30 | EUR | CFTC EUR speculative net positions |  |  | -72.4K |
+| 20:00 | USD | Consumer Credit (Jun) | 14.17B | 11.40B | -1.08B |
+| 28 min | GBP | CFTC GBP speculative net positions |  |  | -64.8K |
+| 28 min | USD | CFTC Crude Oil speculative net positions |  |  | 120.1K |
+| 28 min | USD | CFTC Gold speculative net positions |  |  | 182.1K |
+| 28 min | USD | CFTC Nasdaq 100 speculative net positions |  |  | 4.9K |
+| 28 min | USD | CFTC S&P 500 speculative net positions |  |  | -17.2K |
+| 28 min | AUD | CFTC AUD speculative net positions |  |  | -40.0K |
+| 28 min | BRL | CFTC BRL speculative net positions |  |  | 39.5K |
+| 28 min | JPY | CFTC JPY speculative net positions |  |  | -163.4K |
+| 28 min | EUR | CFTC EUR speculative net positions |  |  | -72.4K |
