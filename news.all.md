@@ -32,10 +32,10 @@
 | 07:45 | EUR | Low | French Trade Balance (Jun) | -5.8B | -6.5B | -7.7B |
 | 08:00 | CHF | Low | Foreign Reserves (USD) (Jul) | 768.3B |  | 758.9B |
 | 08:00 | CHF | Moderate | SECO Consumer Climate (Q3) | -33 | -34 | -40 |
-| 09:00 | CNY | Low | FX Reserves (USD) (Jul) |  |  | 3.416T |
-| 09:30 | HKD | Low | Foreign Reserves (USD) (Jul) |  |  | 445.90B |
-| 10:00 | GBP | Moderate | Mortgage Rate (GBP) (Jul) |  |  | 6.60% |
-| 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Jul) |  |  | 426.2B |
+| 09:00 | CNY | Low | FX Reserves (USD) (Jul) | 3.419T | 3.420T | 3.416T |
+| 09:30 | GBP | Moderate | Mortgage Rate (GBP) (Jul) | 6.60% |  | 6.60% |
+| 09:30 | HKD | Low | Foreign Reserves (USD) (Jul) | 447.80B |  | 445.90B |
+| 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Jul) | 427.9B |  | 426.2B |
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Jul) |  |  | -0.79% |
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 17.7% |
 | 12:30 | INR | Low | Deposit Growth |  |  | 12.7% |

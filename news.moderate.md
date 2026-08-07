@@ -12,7 +12,7 @@
 | 07:00 | EUR | German Industrial Production (MoM) (Jun) | 0.2% | 0.2% | 0.7% |
 | 07:00 | EUR | German Trade Balance (Jun) | 15.4B | 17.2B | 19.4B |
 | 08:00 | CHF | SECO Consumer Climate (Q3) | -33 | -34 | -40 |
-| 10:00 | GBP | Mortgage Rate (GBP) (Jul) |  |  | 6.60% |
+| 09:30 | GBP | Mortgage Rate (GBP) (Jul) | 6.60% |  | 6.60% |
 | 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Jul) |  | 3.5% | 3.5% |
 | 13:30 | USD | Participation Rate (Jul) |  |  | 61.5% |
 | 13:30 | USD | Private Nonfarm Payrolls (Jul) |  | 78K | 49K |
