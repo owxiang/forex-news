@@ -26,24 +26,23 @@
 | 09:30 | HKD | Foreign Reserves (USD) (Jul) | 447.80B |  | 445.90B |
 | 10:00 | SGD | Foreign Reserves USD (MoM) (Jul) | 427.9B |  | 426.2B |
 | 12:30 | INR | FX Reserves, USD | 692.87B |  | 682.35B |
-| 10 min | MXN | Core CPI (MoM) (Jul) |  | 0.22% | 0.24% |
-| 10 min | MXN | CPI (YoY) (Jul) |  | 3.12% | 3.37% |
-| 10 min | MXN | CPI (MoM) (Jul) |  | 0.03% | -0.27% |
-| 10 min | MXN | Month Core Inflation (YoY) (Jul) |  | 3.94% | 4.03% |
-| 10 min | MXN | PPI (MoM) (Jul) |  |  | -0.90% |
-| 10 min | MXN | PPI (YoY) (Jul) |  |  | 2.10% |
-| 40 min | USD | Average Weekly Hours (Jul) |  | 34.3 | 34.3 |
-| 40 min | USD | Government Payrolls (Jul) |  |  | 8.0K |
-| 40 min | USD | Manufacturing Payrolls (Jul) |  | 4K | 3K |
-| 40 min | CAD | Avg hourly wages Permanent employee (Jul) |  |  | 3.7% |
-| 40 min | CAD | Full Employment Change (Jul) |  |  | 0.6K |
-| 40 min | CAD | Part Time Employment Change (Jul) |  |  | 17.5K |
-| 40 min | CAD | Participation Rate (Jul) |  |  | 65.0% |
-| 40 min | BRL | IGP-DI Inflation Index (MoM) (Jul) |  |  | -0.79% |
-| 15:00 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 15:00 | CAD | Ivey PMI n.s.a (Jul) |  |  | 59.7 |
-| 15:00 | BRL | Auto Production (MoM) (Jul) |  |  | -3.0% |
-| 15:00 | BRL | Auto Sales (MoM) (Jul) |  |  | -0.8% |
+| 13:00 | MXN | Core CPI (MoM) (Jul) | 0.23% | 0.22% | 0.24% |
+| 13:00 | MXN | CPI (YoY) (Jul) | 3.12% | 3.12% | 3.37% |
+| 13:00 | MXN | CPI (MoM) (Jul) | 0.03% | 0.03% | -0.27% |
+| 13:00 | MXN | Month Core Inflation (YoY) (Jul) | 3.95% | 3.94% | 4.03% |
+| 13:00 | MXN | PPI (MoM) (Jul) | 0.00% |  | -0.90% |
+| 13:00 | MXN | PPI (YoY) (Jul) | 2.60% |  | 2.10% |
+| 13:30 | USD | Average Weekly Hours (Jul) | 34.3 | 34.3 | 34.3 |
+| 13:30 | USD | Government Payrolls (Jul) | -53.0K |  | -10.0K |
+| 13:30 | USD | Manufacturing Payrolls (Jul) | 5K | 4K | 11K |
+| 13:30 | CAD | Avg hourly wages Permanent employee (Jul) | 3.0% |  | 3.7% |
+| 13:30 | CAD | Full Employment Change (Jul) | 38.6K |  | 0.6K |
+| 13:30 | CAD | Part Time Employment Change (Jul) | 36.6K |  | 17.5K |
+| 13:30 | CAD | Participation Rate (Jul) | 65.1% |  | 65.0% |
+| 47 min | USD | FOMC Member Barkin Speaks |  |  |  |
+| 47 min | CAD | Ivey PMI n.s.a (Jul) |  |  | 59.7 |
+| 47 min | BRL | Auto Production (MoM) (Jul) |  |  | -3.0% |
+| 47 min | BRL | Auto Sales (MoM) (Jul) |  |  | -0.8% |
 | 17:00 | EUR | French Car Registration (YoY) (Jul) |  |  | 11.4% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -0.7K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 67.3K |
