@@ -20,9 +20,9 @@
 | 13:30 | CAD | Employment Change (Jul) | 75.1K | 17.8K | 18.2K |
 | 13:30 | CAD | Unemployment Rate (Jul) | 6.4% | 6.5% | 6.5% |
 | 15:00 | CAD | Ivey PMI (Jul) | 55.1 | 55.4 | 56.2 |
-| 4 min | USD | NY Fed 1-Year Consumer Inflation Expectations (Jul) |  |  | 3.7% |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  | 452 | 451 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 588 |
+| 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Jul) | 3.6% |  | 3.7% |
+| 59 min | USD | U.S. Baker Hughes Oil Rig Count |  | 452 | 451 |
+| 59 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 588 |
 | 20:00 | USD | Consumer Credit (Jun) |  | 11.40B | -0.18B |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -64.8K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 120.1K |

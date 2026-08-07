@@ -65,10 +65,10 @@
 | 15:00 | CAD | Moderate | Ivey PMI (Jul) | 55.1 | 55.4 | 56.2 |
 | 15:00 | BRL | Low | Auto Production (MoM) (Jul) | 3.1% |  | -3.0% |
 | 15:00 | BRL | Low | Auto Sales (MoM) (Jul) | 2.6% |  | -0.8% |
-| 4 min | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Jul) |  |  | 3.7% |
+| 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Jul) | 3.6% |  | 3.7% |
 | 17:00 | EUR | Low | French Car Registration (YoY) (Jul) |  |  | 11.4% |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  | 452 | 451 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 588 |
+| 59 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  | 452 | 451 |
+| 59 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 588 |
 | 20:00 | USD | Moderate | Consumer Credit (Jun) |  | 11.40B | -0.18B |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -64.8K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -0.7K |
