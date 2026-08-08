@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:45 | EUR | French Reserve Assets Total (Jul) |  |  | 355,389.0M |
+| 07:45 | EUR | French Reserve Assets Total (Jul) | 357,050.0M |  | 355,389.0M |
