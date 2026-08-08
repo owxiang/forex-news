@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 17:45 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 7 min | USD | FOMC Member Bowman Speaks |  |  |  |
