@@ -1,6 +1,7 @@
-## 08 August 2026 - All Forex News
+## 09 August 2026 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 07:45 | EUR | Low | French Reserve Assets Total (Jul) | 357,050.0M |  | 355,389.0M |
-| 17:45 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 02:30 | CNY | Moderate | CPI (YoY) (Jul) |  | 0.8% | 1.0% |
+| 02:30 | CNY | Moderate | CPI (MoM) (Jul) |  | 0.2% | -0.3% |
+| 02:30 | CNY | Moderate | PPI (YoY) (Jul) |  | 3.9% | 4.1% |
