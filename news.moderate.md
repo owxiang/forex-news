@@ -1,7 +1,6 @@
-## 09 August 2026 - Moderate Impact Forex News
+## 10 August 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | CNY | CPI (YoY) (Jul) | 0.5% | 0.8% | 1.0% |
-| 02:30 | CNY | CPI (MoM) (Jul) | -0.1% | 0.2% | -0.3% |
-| 02:30 | CNY | PPI (YoY) (Jul) | 3.5% | 3.8% | 4.1% |
+| 00:50 | JPY | Adjusted Current Account (Jun) |  | 2.50T | 306.45T |
+| 00:50 | JPY | Current Account n.s.a. (Jun) |  | 1.512T | 3.968T |
