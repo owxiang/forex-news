@@ -22,6 +22,16 @@
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.448% |  | 2.448% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.579% |  | 2.585% |
 | 15:00 | USD | Low | CB Employment Trends Index (Jul) | 107.71 |  | 106.74 |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.750% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.855% |
-| 17:00 | EUR | Low | French Car Registration (YoY) (Jul) |  |  | 11.4% |
+| 15:45 | USD | Low | OPEC Crude Oil Production Algeria (Barrel) | 0.99M |  | 0.99M |
+| 15:45 | USD | Low | OPEC Crude Oil Production Congo (Barrel) | 0.27M |  | 0.27M |
+| 15:45 | USD | Low | OPEC Crude Oil Production Guinea (Barrel) | 0.05M |  | 0.05M |
+| 15:45 | USD | Low | OPEC Crude Oil Production Gabon (Barrel) | 0.22M |  | 0.22M |
+| 15:45 | USD | Low | OPEC Crude oil Production Iran (Barrel) | 2.55M |  | 3.00M |
+| 15:45 | USD | Low | OPEC Crude oil Production Iraq (Barrel) | 2.85M |  | 2.00M |
+| 15:45 | USD | Low | OPEC Crude Oil Production Kuwait (Barrel) | 1.95M |  | 1.65M |
+| 15:45 | USD | Low | OPEC Crude Oil Production Libya (Barrel) | 1.35M |  | 1.30M |
+| 15:45 | USD | Low | OPEC Crude Oil Production Nigeria (Barrel) | 1.60M |  | 1.65M |
+| 15:45 | USD | Low | OPEC Crude oil Production Saudi Arabia (Barrel) | 6.90M |  | 7.20M |
+| 15:45 | USD | Low | OPEC Crude oil Production Venezuela (Barrel) | 1.12M |  | 1.10M |
+| 16:30 | USD | Low | 3-Month Bill Auction | 3.735% |  | 3.750% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 3.830% |  | 3.855% |
