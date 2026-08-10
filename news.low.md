@@ -13,6 +13,7 @@
 | 07:00 | NOK | PPI (YoY) (Jul) | 23.4% |  | 14.9% |
 | 09:30 | EUR | Sentix Investor Confidence (Aug) | 0.9 | -0.7 | -3.1 |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 12:00 | INR | M3 Money Supply | 14.7% |  | 12.5% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.738% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.448% |
