@@ -1,6 +1,14 @@
-## 10 August 2026 - Moderate Impact Forex News
+## 11 August 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Adjusted Current Account (Jun) | 1.40T | 2.50T | 3.06T |
-| 00:50 | JPY | Current Account n.s.a. (Jun) | -0.092T | 1.512T | 3.968T |
+| 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Jul) | 1.0% | 1.6% | 1.7% |
+| 02:30 | AUD | NAB Business Confidence (Jul) |  |  | -5 |
+| 05:30 | AUD | RBA Monetary Policy Statement |  |  |  |
+| 05:40 | AUD | RBA Rate Statement |  |  |  |
+| 13:00 | BRL | CPI (YoY) (Jul) |  | 4.40% | 4.64% |
+| 13:15 | USD | ADP Employment Change Weekly |  |  | 15.00K |
+| 15:00 | USD | Existing Home Sales (MoM) (Jul) |  |  | -2.4% |
+| 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
+| 18:00 | USD | 3-Year Note Auction |  |  | 4.179% |
+| 21:30 | USD | API Weekly Crude Oil Stock |  |  | 2.690M |
