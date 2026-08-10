@@ -6,7 +6,7 @@
 | 00:50 | JPY | Low | Bank Lending (YoY) (Jul) | 5.4% | 5.7% | 5.7% |
 | 00:50 | JPY | Low | BoJ Summary of Opinions |  |  |  |
 | 00:50 | JPY | Moderate | Current Account n.s.a. (Jun) | -0.092T | 1.512T | 3.968T |
-| 04:00 | IDR | Low | Consumer Confidence (Jul) |  |  | 117.8 |
+| 04:00 | IDR | Low | Consumer Confidence (Jul) | 116.8 |  | 117.8 |
 | 06:00 | JPY | Low | Economy Watchers Current Index (Jul) |  | 44.6 | 44.0 |
 | 07:00 | NOK | Low | Core CPI YTD (Jul) |  |  | 2.7% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Jul) |  |  | -0.1% |

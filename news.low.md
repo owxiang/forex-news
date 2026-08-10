@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Bank Lending (YoY) (Jul) | 5.4% | 5.7% | 5.7% |
 | 00:50 | JPY | BoJ Summary of Opinions |  |  |  |
-| 04:00 | IDR | Consumer Confidence (Jul) |  |  | 117.8 |
+| 04:00 | IDR | Consumer Confidence (Jul) | 116.8 |  | 117.8 |
 | 06:00 | JPY | Economy Watchers Current Index (Jul) |  | 44.6 | 44.0 |
 | 07:00 | NOK | Core CPI YTD (Jul) |  |  | 2.7% |
 | 07:00 | NOK | Core Inflation (MoM) (Jul) |  |  | -0.1% |
