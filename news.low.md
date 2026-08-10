@@ -19,7 +19,7 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 2.752% |  | 2.738% |
 | 14:00 | EUR | French 3-Month BTF Auction | 2.448% |  | 2.448% |
 | 14:00 | EUR | French 6-Month BTF Auction | 2.579% |  | 2.585% |
-| 15:00 | USD | CB Employment Trends Index (Jul) |  |  | 106.69 |
+| 15:00 | USD | CB Employment Trends Index (Jul) | 107.71 |  | 106.74 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 3.750% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 3.855% |
 | 17:00 | EUR | French Car Registration (YoY) (Jul) |  |  | 11.4% |
