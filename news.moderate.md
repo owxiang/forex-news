@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Jul) | 1.0% | 1.6% | 1.7% |
-| 02:30 | AUD | NAB Business Confidence (Jul) |  |  | -5 |
+| 02:30 | AUD | NAB Business Confidence (Jul) | -6 |  | -6 |
 | 05:30 | AUD | RBA Monetary Policy Statement |  |  |  |
 | 05:40 | AUD | RBA Rate Statement |  |  |  |
 | 13:00 | BRL | CPI (YoY) (Jul) |  | 4.40% | 4.64% |

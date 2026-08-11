@@ -2,10 +2,11 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:00 | SGD | GDP (YoY) (Q2) |  | 5.7% | 5.7% |
-| 01:00 | SGD | GDP (QoQ) (Q2) |  | 1.1% | 1.3% |
-| 02:30 | AUD | NAB Business Survey (Jul) |  |  | 3 |
+| 01:00 | SGD | GDP (YoY) (Q2) | 5.9% | 5.7% | 6.3% |
+| 01:00 | SGD | GDP (QoQ) (Q2) | 1.4% | 1.1% | 1.3% |
+| 02:30 | AUD | NAB Business Survey (Jul) | 4 |  | 3 |
 | 04:00 | IDR | Retail Sales (YoY) (Jun) |  |  | -3.9% |
+| 05:00 | IDR | Car Sales (YoY) (Jul) | 33.30% |  | 32.90% |
 | 09:00 | EUR | Italian Trade Balance (Jun) |  | 4.740B | 4.793B |
 | 09:00 | EUR | Italian Trade Balance EU (Jun) |  |  | 0.85B |
 | 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 2.366% |
