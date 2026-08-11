@@ -31,8 +31,8 @@
 | 13:15 | USD | Moderate | ADP Employment Change Weekly | 11.00K |  | 14.50K |
 | 13:16 | USD | Moderate | ADP Employment Change Weekly | 8.30K |  | 11.00K |
 | 13:55 | USD | Low | Redbook (YoY) | 8.3% |  | 8.7% |
-| 15:00 | USD | High | Existing Home Sales (Jul) |  | 4.05M | 4.09M |
-| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Jul) |  |  | -2.4% |
+| 15:00 | USD | High | Existing Home Sales (Jul) | 4.06M | 4.05M | 4.13M |
+| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Jul) | -1.7% |  | -1.4% |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 17:00 | EUR | Low | French Car Registration (YoY) (Jul) |  |  | 11.4% |
 | 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 4.179% |

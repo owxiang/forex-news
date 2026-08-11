@@ -9,7 +9,7 @@
 | 13:00 | BRL | CPI (YoY) (Jul) | 4.44% | 4.40% | 4.64% |
 | 13:15 | USD | ADP Employment Change Weekly | 11.00K |  | 14.50K |
 | 13:16 | USD | ADP Employment Change Weekly | 8.30K |  | 11.00K |
-| 15:00 | USD | Existing Home Sales (MoM) (Jul) |  |  | -2.4% |
+| 15:00 | USD | Existing Home Sales (MoM) (Jul) | -1.7% |  | -1.4% |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 18:00 | USD | 3-Year Note Auction |  |  | 4.179% |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | -0.500M | 2.690M |

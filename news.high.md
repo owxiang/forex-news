@@ -3,4 +3,4 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 05:30 | AUD | RBA Interest Rate Decision (Aug) | 4.35% | 4.35% | 4.35% |
-| 15:00 | USD | Existing Home Sales (Jul) |  | 4.05M | 4.09M |
+| 15:00 | USD | Existing Home Sales (Jul) | 4.06M | 4.05M | 4.13M |
