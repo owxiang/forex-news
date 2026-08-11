@@ -34,5 +34,5 @@
 | 15:00 | USD | High | Existing Home Sales (Jul) | 4.06M | 4.05M | 4.13M |
 | 15:00 | USD | Moderate | Existing Home Sales (MoM) (Jul) | -1.7% |  | -1.4% |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
-| 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 4.179% |
+| 18:00 | USD | Moderate | 3-Year Note Auction | 4.291% |  | 4.179% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -0.500M | 2.690M |
