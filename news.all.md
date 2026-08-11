@@ -21,8 +21,8 @@
 | 10:30 | ZAR | Low | Unemployment (Q2) | 8.481M |  | 8.137M |
 | 11:00 | USD | Low | NFIB Small Business Optimism (Jul) | 99.8 | 97.5 | 97.4 |
 | 12:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
-| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Jun) |  |  | 1.1% |
-| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Jun) |  |  | -4.3% |
+| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Jun) | 0.9% |  | 1.0% |
+| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Jun) | -1.7% |  | -4.4% |
 | 13:00 | MXN | Low | Industrial Production (YoY) (Jun) |  | 1.1% | -0.7% |
 | 13:00 | MXN | Low | Industrial Production (MoM) (Jun) |  | 0.3% | -0.8% |
 | 13:00 | BRL | Moderate | CPI (YoY) (Jul) |  | 4.40% | 4.64% |
