@@ -4,11 +4,11 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Jul) | 1.0% | 1.6% | 1.7% |
 | 01:00 | SGD | Low | GDP (YoY) (Q2) | 5.9% | 5.7% | 6.3% |
-| 01:00 | SGD | Low | GDP (QoQ) (Q2) | 1.4% | 1.1% | 1.3% |
+| 01:00 | SGD | Low | GDP (QoQ) (Q2) | 1.4% | 1.1% | 1.2% |
 | 02:30 | AUD | Moderate | NAB Business Confidence (Jul) | -6 |  | -6 |
 | 02:30 | AUD | Low | NAB Business Survey (Jul) | 4 |  | 3 |
-| 04:00 | IDR | Low | Retail Sales (YoY) (Jun) |  |  | -3.9% |
-| 05:00 | IDR | Low | Car Sales (YoY) (Jul) | 33.30% |  | 32.90% |
+| 04:00 | IDR | Low | Car Sales (YoY) (Jul) | 33.30% |  | 32.90% |
+| 04:00 | IDR | Low | Retail Sales (YoY) (Jun) | -3.0% |  | -3.9% |
 | 05:30 | AUD | High | RBA Interest Rate Decision (Aug) |  | 4.35% | 4.35% |
 | 05:30 | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
 | 05:40 | AUD | Moderate | RBA Rate Statement |  |  |  |
