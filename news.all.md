@@ -21,8 +21,8 @@
 | 10:30 | ZAR | Low | Unemployment (Q2) | 8.481M |  | 8.137M |
 | 11:00 | USD | Low | NFIB Small Business Optimism (Jul) | 99.8 | 97.5 | 97.4 |
 | 12:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
-| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Jun) | -1.7% |  | -4.4% |
 | 12:00 | ZAR | Low | Manufacturing Production (MoM) (Jun) | 0.9% |  | 1.0% |
+| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Jun) | -1.7% |  | -4.4% |
 | 13:00 | MXN | Low | Industrial Production (YoY) (Jun) | 1.7% | 1.1% | -0.6% |
 | 13:00 | MXN | Low | Industrial Production (MoM) (Jun) | 0.2% | 0.3% | -0.7% |
 | 13:00 | BRL | Moderate | CPI (YoY) (Jul) | 4.44% | 4.40% | 4.64% |
@@ -34,6 +34,5 @@
 | 15:00 | USD | High | Existing Home Sales (Jul) | 4.06M | 4.05M | 4.13M |
 | 15:00 | USD | Moderate | Existing Home Sales (MoM) (Jul) | -1.7% |  | -1.4% |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
-| 17:00 | EUR | Low | French Car Registration (YoY) (Jul) |  |  | 11.4% |
 | 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 4.179% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -0.500M | 2.690M |
