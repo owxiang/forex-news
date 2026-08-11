@@ -1,25 +1,50 @@
-## 11 August 2026 - Low Impact Forex News
+## 12 August 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:00 | SGD | GDP (YoY) (Q2) | 5.9% | 5.7% | 6.3% |
-| 01:00 | SGD | GDP (QoQ) (Q2) | 1.4% | 1.1% | 1.2% |
-| 02:30 | AUD | NAB Business Survey (Jul) | 4 |  | 3 |
-| 04:00 | IDR | Car Sales (YoY) (Jul) | 33.30% |  | 32.90% |
-| 04:00 | IDR | Motorbike Sales (YoY) (Jul) | 8.30% |  | 1.10% |
-| 04:00 | IDR | Retail Sales (YoY) (Jun) | -3.0% |  | -3.9% |
-| 09:00 | EUR | Italian Trade Balance (Jun) | 4.232B | 4.740B | 4.946B |
-| 09:00 | EUR | Italian Trade Balance EU (Jun) | 1.58B |  | 1.00B |
-| 09:40 | EUR | Spanish 3-Month Letras Auction | 2.387% |  | 2.366% |
-| 10:30 | EUR | German 5-Year Bobl Auction | 2.930% |  | 2.890% |
-| 10:30 | ZAR | Unemployment Rate (Q2) | 33.60% |  | 32.70% |
-| 10:30 | ZAR | Unemployment (Q2) | 8.481M |  | 8.137M |
-| 11:00 | USD | NFIB Small Business Optimism (Jul) | 99.8 | 97.5 | 97.4 |
-| 12:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
-| 12:00 | ZAR | Manufacturing Production (MoM) (Jun) | 0.9% |  | 1.0% |
-| 12:00 | ZAR | Manufacturing Production (YoY) (Jun) | -1.7% |  | -4.4% |
-| 13:00 | MXN | Industrial Production (YoY) (Jun) | 1.7% | 1.1% | -0.6% |
-| 13:00 | MXN | Industrial Production (MoM) (Jun) | 0.2% | 0.3% | -0.7% |
-| 13:00 | BRL | CPI (MoM) (Jul) | 0.07% | 0.03% | 0.16% |
-| 13:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Jul) | 0.17% |  | 0.23% |
-| 13:55 | USD | Redbook (YoY) | 8.3% |  | 8.7% |
+| 00:00 | KRW | Unemployment Rate (Jul) | 2.8% |  | 2.7% |
+| 00:00 | JPY | Reuters Tankan Index (Aug) | 18 |  | 13 |
+| 00:50 | JPY | M2 Money Stock (YoY) |  | 2.1% | 2.2% |
+| 00:50 | JPY | M3 Money Supply (Jul) |  |  | 2,327.9B |
+| 02:30 | AUD | RBA Chart Pack Release |  |  |  |
+| 02:30 | AUD | Wage Price Index (YoY) (Q2) |  |  | 3.3% |
+| 07:00 | EUR | German HICP (MoM) (Jul) |  | 0.9% | -0.2% |
+| 07:00 | EUR | German HICP (YoY) (Jul) |  | 2.8% | 2.4% |
+| 07:30 | NOK | Consumer Confidence (Q3) |  |  | -20.00 |
+| 09:00 | EUR | Italian CPI (MoM) (Jul) |  | 0.2% | 0.0% |
+| 09:00 | EUR | Italian CPI (YoY) (Jul) |  | 2.8% | 3.0% |
+| 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Jul) |  |  | 2.9% |
+| 09:00 | EUR | Italian HICP (MoM) (Jul) |  | -1.0% | 0.0% |
+| 09:00 | EUR | Italian HICP (YoY) (Jul) |  | 2.9% | 3.0% |
+| 10:10 | EUR | Italian 12-Month BOT Auction |  |  | 2.690% |
+| 10:30 | EUR | German 30-Year Bund Auction |  |  | 3.640% |
+| 11:00 | ZAR | Business Confidence (Jun) |  |  | 124.1 |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.81% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -2.9% |
+| 12:00 | USD | MBA Purchase Index |  |  | 154.0 |
+| 12:00 | USD | Mortgage Market Index |  |  | 240.0 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 709.1 |
+| 12:30 | INR | M3 Money Supply |  |  | 14.7% |
+| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Jun) |  |  | -0.4% |
+| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Jun) |  |  | 0.4% |
+| 13:30 | USD | Core CPI Index (Jul) |  |  | 336.07 |
+| 13:30 | USD | CPI Index, n.s.a. (Jul) |  |  | 333.95 |
+| 13:30 | USD | CPI Index, s.a (Jul) |  |  | 332.57 |
+| 13:30 | USD | CPI, n.s.a (MoM) (Jul) |  |  | -0.35% |
+| 13:30 | USD | Real Earnings (MoM) (Jul) |  |  | 0.8% |
+| 13:30 | EUR | German Current Account Balance n.s.a (Jun) |  |  | 10.4B |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.183M |
+| 15:30 | USD | Crude Oil Imports |  |  | 0.297M |
+| 15:30 | USD | Distillate Fuel Production |  |  | -0.134M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | -3.473M |
+| 15:30 | USD | Gasoline Production |  |  | -0.309M |
+| 15:30 | USD | Heating Oil Stockpiles |  |  | -0.144M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.7% |
+| 15:30 | USD | Gasoline Inventories |  |  | -1.643M |
+| 16:00 | USD | Cleveland CPI (MoM) (Jul) |  |  | 0.2% |
+| 16:00 | USD | Thomson Reuters IPSOS PCSI (Aug) |  |  | 50.99 |
+| 16:00 | CAD | Thomson Reuters IPSOS PCSI (Aug) |  |  | 49.42 |
+| 16:00 | MXN | Thomson Reuters IPSOS PCSI (Aug) |  |  | 53.74 |
+| 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Aug) |  |  | 52.05 |
+| 17:00 | EUR | French Car Registration (YoY) (Jul) |  |  | 11.4% |
+| 18:30 | BRL | Foreign Exchange Flows |  |  | 2.814B |

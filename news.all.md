@@ -1,38 +1,66 @@
-## 11 August 2026 - All Forex News
+## 12 August 2026 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Jul) | 1.0% | 1.6% | 1.7% |
-| 01:00 | SGD | Low | GDP (YoY) (Q2) | 5.9% | 5.7% | 6.3% |
-| 01:00 | SGD | Low | GDP (QoQ) (Q2) | 1.4% | 1.1% | 1.2% |
-| 02:30 | AUD | Moderate | NAB Business Confidence (Jul) | -6 |  | -6 |
-| 02:30 | AUD | Low | NAB Business Survey (Jul) | 4 |  | 3 |
-| 04:00 | IDR | Low | Car Sales (YoY) (Jul) | 33.30% |  | 32.90% |
-| 04:00 | IDR | Low | Motorbike Sales (YoY) (Jul) | 8.30% |  | 1.10% |
-| 04:00 | IDR | Low | Retail Sales (YoY) (Jun) | -3.0% |  | -3.9% |
-| 05:30 | AUD | High | RBA Interest Rate Decision (Aug) | 4.35% | 4.35% | 4.35% |
-| 05:30 | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
-| 05:40 | AUD | Moderate | RBA Rate Statement |  |  |  |
-| 09:00 | EUR | Low | Italian Trade Balance (Jun) | 4.232B | 4.740B | 4.946B |
-| 09:00 | EUR | Low | Italian Trade Balance EU (Jun) | 1.58B |  | 1.00B |
-| 09:40 | EUR | Low | Spanish 3-Month Letras Auction | 2.387% |  | 2.366% |
-| 10:30 | EUR | Low | German 5-Year Bobl Auction | 2.930% |  | 2.890% |
-| 10:30 | ZAR | Low | Unemployment Rate (Q2) | 33.60% |  | 32.70% |
-| 10:30 | ZAR | Low | Unemployment (Q2) | 8.481M |  | 8.137M |
-| 11:00 | USD | Low | NFIB Small Business Optimism (Jul) | 99.8 | 97.5 | 97.4 |
-| 12:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
-| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Jun) | 0.9% |  | 1.0% |
-| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Jun) | -1.7% |  | -4.4% |
-| 13:00 | MXN | Low | Industrial Production (YoY) (Jun) | 1.7% | 1.1% | -0.6% |
-| 13:00 | MXN | Low | Industrial Production (MoM) (Jun) | 0.2% | 0.3% | -0.7% |
-| 13:00 | BRL | Moderate | CPI (YoY) (Jul) | 4.44% | 4.40% | 4.64% |
-| 13:00 | BRL | Low | CPI (MoM) (Jul) | 0.07% | 0.03% | 0.16% |
-| 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Jul) | 0.17% |  | 0.23% |
-| 13:15 | USD | Moderate | ADP Employment Change Weekly | 11.00K |  | 14.50K |
-| 13:16 | USD | Moderate | ADP Employment Change Weekly | 8.30K |  | 11.00K |
-| 13:55 | USD | Low | Redbook (YoY) | 8.3% |  | 8.7% |
-| 15:00 | USD | High | Existing Home Sales (Jul) | 4.06M | 4.05M | 4.13M |
-| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Jul) | -1.7% |  | -1.4% |
-| 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
-| 18:00 | USD | Moderate | 3-Year Note Auction | 4.291% |  | 4.179% |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | 9.072M | -0.500M | 2.690M |
+| 00:00 | KRW | Low | Unemployment Rate (Jul) | 2.8% |  | 2.7% |
+| 00:00 | JPY | Low | Reuters Tankan Index (Aug) | 18 |  | 13 |
+| 00:50 | JPY | Low | M2 Money Stock (YoY) |  | 2.1% | 2.2% |
+| 00:50 | JPY | Low | M3 Money Supply (Jul) |  |  | 2,327.9B |
+| 02:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
+| 02:30 | AUD | Moderate | Wage Price Index (QoQ) (Q2) |  |  | 0.8% |
+| 02:30 | AUD | Low | Wage Price Index (YoY) (Q2) |  |  | 3.3% |
+| 07:00 | EUR | High | German CPI (MoM) (Jul) |  | 0.8% | -0.3% |
+| 07:00 | EUR | Moderate | German CPI (YoY) (Jul) |  | 2.8% | 2.3% |
+| 07:00 | EUR | Low | German HICP (MoM) (Jul) |  | 0.9% | -0.2% |
+| 07:00 | EUR | Low | German HICP (YoY) (Jul) |  | 2.8% | 2.4% |
+| 07:30 | NOK | Low | Consumer Confidence (Q3) |  |  | -20.00 |
+| 09:00 | EUR | Low | Italian CPI (MoM) (Jul) |  | 0.2% | 0.0% |
+| 09:00 | EUR | Low | Italian CPI (YoY) (Jul) |  | 2.8% | 3.0% |
+| 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Jul) |  |  | 2.9% |
+| 09:00 | EUR | Low | Italian HICP (MoM) (Jul) |  | -1.0% | 0.0% |
+| 09:00 | EUR | Low | Italian HICP (YoY) (Jul) |  | 2.9% | 3.0% |
+| 10:00 | USD | Moderate | IEA Monthly Report |  |  |  |
+| 10:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.690% |
+| 10:30 | EUR | Low | German 30-Year Bund Auction |  |  | 3.640% |
+| 11:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
+| 11:00 | ZAR | Low | Business Confidence (Jun) |  |  | 124.1 |
+| 11:30 | INR | Moderate | CPI (YoY) (Jul) |  | 4.50% | 4.38% |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.81% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -2.9% |
+| 12:00 | USD | Low | MBA Purchase Index |  |  | 154.0 |
+| 12:00 | USD | Low | Mortgage Market Index |  |  | 240.0 |
+| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 709.1 |
+| 12:30 | INR | Low | M3 Money Supply |  |  | 14.7% |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Jun) |  |  | -0.4% |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Jun) |  |  | 0.4% |
+| 13:30 | USD | High | Core CPI (MoM) (Jul) |  | 0.2% | 0.0% |
+| 13:30 | USD | Moderate | Core CPI (YoY) (Jul) |  | 2.5% | 2.6% |
+| 13:30 | USD | Low | Core CPI Index (Jul) |  |  | 336.07 |
+| 13:30 | USD | High | CPI (MoM) (Jul) |  | 0.1% | -0.4% |
+| 13:30 | USD | High | CPI (YoY) (Jul) |  | 3.4% | 3.5% |
+| 13:30 | USD | Low | CPI Index, n.s.a. (Jul) |  |  | 333.95 |
+| 13:30 | USD | Low | CPI Index, s.a (Jul) |  |  | 332.57 |
+| 13:30 | USD | Low | CPI, n.s.a (MoM) (Jul) |  |  | -0.35% |
+| 13:30 | USD | Low | Real Earnings (MoM) (Jul) |  |  | 0.8% |
+| 13:30 | CAD | Moderate | Building Permits (MoM) (Jun) |  | 0.8% | -1.7% |
+| 13:30 | EUR | Low | German Current Account Balance n.s.a (Jun) |  |  | 10.4B |
+| 15:30 | USD | High | Crude Oil Inventories |  | -1.300M | 2.479M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.183M |
+| 15:30 | USD | Low | Crude Oil Imports |  |  | 0.297M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 2.356M |
+| 15:30 | USD | Low | Distillate Fuel Production |  |  | -0.134M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  |  | -3.473M |
+| 15:30 | USD | Low | Gasoline Production |  |  | -0.309M |
+| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | -0.144M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.7% |
+| 15:30 | USD | Low | Gasoline Inventories |  |  | -1.643M |
+| 16:00 | USD | Low | Cleveland CPI (MoM) (Jul) |  |  | 0.2% |
+| 16:00 | USD | Low | Thomson Reuters IPSOS PCSI (Aug) |  |  | 50.99 |
+| 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (Aug) |  |  | 49.42 |
+| 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (Aug) |  |  | 53.74 |
+| 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Aug) |  |  | 52.05 |
+| 17:00 | USD | Moderate | WASDE Report |  |  |  |
+| 17:00 | EUR | Low | French Car Registration (YoY) (Jul) |  |  | 11.4% |
+| 18:00 | USD | High | 10-Year Note Auction |  |  | 4.580% |
+| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 2.814B |
+| 19:00 | USD | Moderate | Federal Budget Balance (Jul) |  | -361.2B | -120.0B |

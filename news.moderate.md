@@ -1,15 +1,14 @@
-## 11 August 2026 - Moderate Impact Forex News
+## 12 August 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Jul) | 1.0% | 1.6% | 1.7% |
-| 02:30 | AUD | NAB Business Confidence (Jul) | -6 |  | -6 |
-| 05:30 | AUD | RBA Monetary Policy Statement |  |  |  |
-| 05:40 | AUD | RBA Rate Statement |  |  |  |
-| 13:00 | BRL | CPI (YoY) (Jul) | 4.44% | 4.40% | 4.64% |
-| 13:15 | USD | ADP Employment Change Weekly | 11.00K |  | 14.50K |
-| 13:16 | USD | ADP Employment Change Weekly | 8.30K |  | 11.00K |
-| 15:00 | USD | Existing Home Sales (MoM) (Jul) | -1.7% |  | -1.4% |
-| 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
-| 18:00 | USD | 3-Year Note Auction | 4.291% |  | 4.179% |
-| 21:30 | USD | API Weekly Crude Oil Stock | 9.072M | -0.500M | 2.690M |
+| 02:30 | AUD | Wage Price Index (QoQ) (Q2) |  |  | 0.8% |
+| 07:00 | EUR | German CPI (YoY) (Jul) |  | 2.8% | 2.3% |
+| 10:00 | USD | IEA Monthly Report |  |  |  |
+| 11:00 | USD | OPEC Monthly Report |  |  |  |
+| 11:30 | INR | CPI (YoY) (Jul) |  | 4.50% | 4.38% |
+| 13:30 | USD | Core CPI (YoY) (Jul) |  | 2.5% | 2.6% |
+| 13:30 | CAD | Building Permits (MoM) (Jun) |  | 0.8% | -1.7% |
+| 15:30 | USD | Cushing Crude Oil Inventories |  |  | 2.356M |
+| 17:00 | USD | WASDE Report |  |  |  |
+| 19:00 | USD | Federal Budget Balance (Jul) |  | -361.2B | -120.0B |

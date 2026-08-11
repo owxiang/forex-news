@@ -1,6 +1,10 @@
-## 11 August 2026 - High Impact Forex News
+## 12 August 2026 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:30 | AUD | RBA Interest Rate Decision (Aug) | 4.35% | 4.35% | 4.35% |
-| 15:00 | USD | Existing Home Sales (Jul) | 4.06M | 4.05M | 4.13M |
+| 07:00 | EUR | German CPI (MoM) (Jul) |  | 0.8% | -0.3% |
+| 13:30 | USD | Core CPI (MoM) (Jul) |  | 0.2% | 0.0% |
+| 13:30 | USD | CPI (MoM) (Jul) |  | 0.1% | -0.4% |
+| 13:30 | USD | CPI (YoY) (Jul) |  | 3.4% | 3.5% |
+| 15:30 | USD | Crude Oil Inventories |  | -1.300M | 2.479M |
+| 18:00 | USD | 10-Year Note Auction |  |  | 4.580% |
