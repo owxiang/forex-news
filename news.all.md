@@ -8,8 +8,9 @@
 | 02:30 | AUD | Moderate | NAB Business Confidence (Jul) | -6 |  | -6 |
 | 02:30 | AUD | Low | NAB Business Survey (Jul) | 4 |  | 3 |
 | 04:00 | IDR | Low | Car Sales (YoY) (Jul) | 33.30% |  | 32.90% |
+| 04:00 | IDR | Low | Motorbike Sales (YoY) (Jul) | 8.30% |  | 1.10% |
 | 04:00 | IDR | Low | Retail Sales (YoY) (Jun) | -3.0% |  | -3.9% |
-| 05:30 | AUD | High | RBA Interest Rate Decision (Aug) |  | 4.35% | 4.35% |
+| 05:30 | AUD | High | RBA Interest Rate Decision (Aug) | 4.35% | 4.35% | 4.35% |
 | 05:30 | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
 | 05:40 | AUD | Moderate | RBA Rate Statement |  |  |  |
 | 09:00 | EUR | Low | Italian Trade Balance (Jun) |  | 4.740B | 4.793B |
@@ -19,7 +20,7 @@
 | 10:30 | ZAR | Low | Business Confidence (Jun) |  |  | 124.1 |
 | 10:30 | ZAR | Low | Unemployment Rate (Q2) |  |  | 32.70% |
 | 10:30 | ZAR | Low | Unemployment (Q2) |  |  | 8.137M |
-| 11:00 | USD | Low | NFIB Small Business Optimism (Jul) |  | 97.8 | 97.4 |
+| 11:00 | USD | Low | NFIB Small Business Optimism (Jul) |  | 97.5 | 97.4 |
 | 12:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
 | 12:00 | ZAR | Low | Manufacturing Production (MoM) (Jun) |  |  | 1.1% |
 | 12:00 | ZAR | Low | Manufacturing Production (YoY) (Jun) |  |  | -4.3% |

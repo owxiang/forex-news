@@ -6,6 +6,7 @@
 | 01:00 | SGD | GDP (QoQ) (Q2) | 1.4% | 1.1% | 1.2% |
 | 02:30 | AUD | NAB Business Survey (Jul) | 4 |  | 3 |
 | 04:00 | IDR | Car Sales (YoY) (Jul) | 33.30% |  | 32.90% |
+| 04:00 | IDR | Motorbike Sales (YoY) (Jul) | 8.30% |  | 1.10% |
 | 04:00 | IDR | Retail Sales (YoY) (Jun) | -3.0% |  | -3.9% |
 | 09:00 | EUR | Italian Trade Balance (Jun) |  | 4.740B | 4.793B |
 | 09:00 | EUR | Italian Trade Balance EU (Jun) |  |  | 0.85B |
@@ -14,7 +15,7 @@
 | 10:30 | ZAR | Business Confidence (Jun) |  |  | 124.1 |
 | 10:30 | ZAR | Unemployment Rate (Q2) |  |  | 32.70% |
 | 10:30 | ZAR | Unemployment (Q2) |  |  | 8.137M |
-| 11:00 | USD | NFIB Small Business Optimism (Jul) |  | 97.8 | 97.4 |
+| 11:00 | USD | NFIB Small Business Optimism (Jul) |  | 97.5 | 97.4 |
 | 12:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
 | 12:00 | ZAR | Manufacturing Production (MoM) (Jun) |  |  | 1.1% |
 | 12:00 | ZAR | Manufacturing Production (YoY) (Jun) |  |  | -4.3% |
