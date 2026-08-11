@@ -13,14 +13,14 @@
 | 05:30 | AUD | High | RBA Interest Rate Decision (Aug) | 4.35% | 4.35% | 4.35% |
 | 05:30 | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
 | 05:40 | AUD | Moderate | RBA Rate Statement |  |  |  |
-| 09:00 | EUR | Low | Italian Trade Balance (Jun) |  | 4.740B | 4.793B |
-| 09:00 | EUR | Low | Italian Trade Balance EU (Jun) |  |  | 0.85B |
-| 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 2.366% |
-| 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.890% |
-| 10:30 | ZAR | Low | Business Confidence (Jun) |  |  | 124.1 |
-| 10:30 | ZAR | Low | Unemployment Rate (Q2) |  |  | 32.70% |
-| 10:30 | ZAR | Low | Unemployment (Q2) |  |  | 8.137M |
-| 11:00 | USD | Low | NFIB Small Business Optimism (Jul) |  | 97.5 | 97.4 |
+| 09:00 | EUR | Low | Italian Trade Balance (Jun) | 4.232B | 4.740B | 4.946B |
+| 09:00 | EUR | Low | Italian Trade Balance EU (Jun) | 1.58B |  | 1.00B |
+| 09:40 | EUR | Low | Spanish 3-Month Letras Auction | 2.387% |  | 2.366% |
+| 28 min | EUR | Low | German 5-Year Bobl Auction |  |  | 2.890% |
+| 28 min | ZAR | Low | Business Confidence (Jun) |  |  | 124.1 |
+| 28 min | ZAR | Low | Unemployment Rate (Q2) | 33.60% |  | 32.70% |
+| 28 min | ZAR | Low | Unemployment (Q2) | 8.481M |  | 8.137M |
+| 58 min | USD | Low | NFIB Small Business Optimism (Jul) |  | 97.5 | 97.4 |
 | 12:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
 | 12:00 | ZAR | Low | Manufacturing Production (MoM) (Jun) |  |  | 1.1% |
 | 12:00 | ZAR | Low | Manufacturing Production (YoY) (Jun) |  |  | -4.3% |

@@ -8,14 +8,14 @@
 | 04:00 | IDR | Car Sales (YoY) (Jul) | 33.30% |  | 32.90% |
 | 04:00 | IDR | Motorbike Sales (YoY) (Jul) | 8.30% |  | 1.10% |
 | 04:00 | IDR | Retail Sales (YoY) (Jun) | -3.0% |  | -3.9% |
-| 09:00 | EUR | Italian Trade Balance (Jun) |  | 4.740B | 4.793B |
-| 09:00 | EUR | Italian Trade Balance EU (Jun) |  |  | 0.85B |
-| 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 2.366% |
-| 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.890% |
-| 10:30 | ZAR | Business Confidence (Jun) |  |  | 124.1 |
-| 10:30 | ZAR | Unemployment Rate (Q2) |  |  | 32.70% |
-| 10:30 | ZAR | Unemployment (Q2) |  |  | 8.137M |
-| 11:00 | USD | NFIB Small Business Optimism (Jul) |  | 97.5 | 97.4 |
+| 09:00 | EUR | Italian Trade Balance (Jun) | 4.232B | 4.740B | 4.946B |
+| 09:00 | EUR | Italian Trade Balance EU (Jun) | 1.58B |  | 1.00B |
+| 09:40 | EUR | Spanish 3-Month Letras Auction | 2.387% |  | 2.366% |
+| 28 min | EUR | German 5-Year Bobl Auction |  |  | 2.890% |
+| 28 min | ZAR | Business Confidence (Jun) |  |  | 124.1 |
+| 28 min | ZAR | Unemployment Rate (Q2) | 33.60% |  | 32.70% |
+| 28 min | ZAR | Unemployment (Q2) | 8.481M |  | 8.137M |
+| 58 min | USD | NFIB Small Business Optimism (Jul) |  | 97.5 | 97.4 |
 | 12:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
 | 12:00 | ZAR | Manufacturing Production (MoM) (Jun) |  |  | 1.1% |
 | 12:00 | ZAR | Manufacturing Production (YoY) (Jun) |  |  | -4.3% |
