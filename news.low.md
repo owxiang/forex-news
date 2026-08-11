@@ -16,11 +16,11 @@
 | 10:30 | ZAR | Unemployment (Q2) | 8.481M |  | 8.137M |
 | 11:00 | USD | NFIB Small Business Optimism (Jul) | 99.8 | 97.5 | 97.4 |
 | 12:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
-| 12:00 | ZAR | Manufacturing Production (MoM) (Jun) | 0.9% |  | 1.0% |
 | 12:00 | ZAR | Manufacturing Production (YoY) (Jun) | -1.7% |  | -4.4% |
-| 13:00 | MXN | Industrial Production (YoY) (Jun) |  | 1.1% | -0.7% |
-| 13:00 | MXN | Industrial Production (MoM) (Jun) |  | 0.3% | -0.8% |
-| 13:00 | BRL | CPI (MoM) (Jul) |  | 0.03% | 0.16% |
-| 13:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Jul) |  |  | 0.23% |
-| 13:55 | USD | Redbook (YoY) |  |  | 8.7% |
+| 12:00 | ZAR | Manufacturing Production (MoM) (Jun) | 0.9% |  | 1.0% |
+| 13:00 | MXN | Industrial Production (YoY) (Jun) | 1.7% | 1.1% | -0.6% |
+| 13:00 | MXN | Industrial Production (MoM) (Jun) | 0.2% | 0.3% | -0.7% |
+| 13:00 | BRL | CPI (MoM) (Jul) | 0.07% | 0.03% | 0.16% |
+| 13:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Jul) | 0.17% |  | 0.23% |
+| 13:55 | USD | Redbook (YoY) | 8.3% |  | 8.7% |
 | 17:00 | EUR | French Car Registration (YoY) (Jul) |  |  | 11.4% |
