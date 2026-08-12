@@ -23,13 +23,13 @@
 | 12:00 | USD | MBA Purchase Index | 157.9 |  | 154.0 |
 | 12:00 | USD | Mortgage Market Index | 248.6 |  | 240.0 |
 | 12:00 | USD | Mortgage Refinance Index | 744.4 |  | 709.1 |
-| 10 min | BRL | Brazilian Service Sector Growth (MoM) (Jun) |  |  | -0.4% |
-| 10 min | BRL | Brazilian Service Sector Growth (YoY) (Jun) |  |  | 0.4% |
-| 40 min | USD | Core CPI Index (Jul) |  |  | 336.07 |
-| 40 min | USD | CPI Index, n.s.a. (Jul) |  |  | 333.95 |
-| 40 min | USD | CPI Index, s.a (Jul) |  |  | 332.57 |
-| 40 min | USD | CPI, n.s.a (MoM) (Jul) |  |  | -0.35% |
-| 40 min | USD | Real Earnings (MoM) (Jul) |  |  | 0.8% |
+| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Jun) | 0.0% |  | -0.2% |
+| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Jun) | 2.0% |  | 0.7% |
+| 13:30 | USD | Core CPI Index (Jul) | 336.79 |  | 336.07 |
+| 13:30 | USD | CPI Index, n.s.a. (Jul) | 333.92 | 333.99 | 333.95 |
+| 13:30 | USD | CPI Index, s.a (Jul) | 332.81 |  | 332.57 |
+| 13:30 | USD | CPI, n.s.a (MoM) (Jul) | -0.01% |  | -0.35% |
+| 13:30 | USD | Real Earnings (MoM) (Jul) | 0.0% |  | 0.7% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.183M |
 | 15:30 | USD | Crude Oil Imports |  |  | 0.297M |
 | 15:30 | USD | Distillate Fuel Production |  |  | -0.134M |

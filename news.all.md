@@ -28,18 +28,18 @@
 | 12:00 | USD | Low | MBA Purchase Index | 157.9 |  | 154.0 |
 | 12:00 | USD | Low | Mortgage Market Index | 248.6 |  | 240.0 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 744.4 |  | 709.1 |
-| 10 min | BRL | Low | Brazilian Service Sector Growth (MoM) (Jun) |  |  | -0.4% |
-| 10 min | BRL | Low | Brazilian Service Sector Growth (YoY) (Jun) |  |  | 0.4% |
-| 40 min | USD | Moderate | Core CPI (YoY) (Jul) |  | 2.5% | 2.6% |
-| 40 min | USD | High | Core CPI (MoM) (Jul) |  | 0.2% | 0.0% |
-| 40 min | USD | Low | Core CPI Index (Jul) |  |  | 336.07 |
-| 40 min | USD | High | CPI (YoY) (Jul) |  | 3.4% | 3.5% |
-| 40 min | USD | High | CPI (MoM) (Jul) |  | 0.1% | -0.4% |
-| 40 min | USD | Low | CPI Index, n.s.a. (Jul) |  |  | 333.95 |
-| 40 min | USD | Low | CPI Index, s.a (Jul) |  |  | 332.57 |
-| 40 min | USD | Low | CPI, n.s.a (MoM) (Jul) |  |  | -0.35% |
-| 40 min | USD | Low | Real Earnings (MoM) (Jul) |  |  | 0.8% |
-| 40 min | CAD | Moderate | Building Permits (MoM) (Jun) |  | 0.8% | -1.7% |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Jun) | 0.0% |  | -0.2% |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Jun) | 2.0% |  | 0.7% |
+| 13:30 | USD | Moderate | Core CPI (YoY) (Jul) | 2.5% | 2.5% | 2.6% |
+| 13:30 | USD | High | Core CPI (MoM) (Jul) | 0.2% | 0.2% | 0.0% |
+| 13:30 | USD | Low | Core CPI Index (Jul) | 336.79 |  | 336.07 |
+| 13:30 | USD | High | CPI (YoY) (Jul) | 3.4% | 3.4% | 3.5% |
+| 13:30 | USD | High | CPI (MoM) (Jul) | 0.1% | 0.1% | -0.4% |
+| 13:30 | USD | Low | CPI Index, n.s.a. (Jul) | 333.92 | 333.99 | 333.95 |
+| 13:30 | USD | Low | CPI Index, s.a (Jul) | 332.81 |  | 332.57 |
+| 13:30 | USD | Low | CPI, n.s.a (MoM) (Jul) | -0.01% |  | -0.35% |
+| 13:30 | USD | Low | Real Earnings (MoM) (Jul) | 0.0% |  | 0.7% |
+| 13:30 | CAD | Moderate | Building Permits (MoM) (Jun) | 18.5% | 0.8% | -3.0% |
 | 15:30 | USD | High | Crude Oil Inventories |  | -1.700M | 2.479M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.183M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 0.297M |
