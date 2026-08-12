@@ -12,8 +12,8 @@
 | 07:00 | EUR | Low | German HICP (MoM) (Jul) | 0.9% | 0.9% | -0.2% |
 | 07:00 | EUR | Low | German HICP (YoY) (Jul) | 2.8% | 2.8% | 2.4% |
 | 07:30 | NOK | Low | Consumer Confidence (Q3) | -16.60 |  | -18.10 |
-| 09:00 | EUR | Low | Italian CPI (MoM) (Jul) | 0.3% | 0.2% | 0.0% |
 | 09:00 | EUR | Low | Italian CPI (YoY) (Jul) | 2.9% | 2.8% | 3.0% |
+| 09:00 | EUR | Low | Italian CPI (MoM) (Jul) | 0.3% | 0.2% | 0.0% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Jul) | 2.8% |  | 2.9% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Jul) | -1.0% | -1.0% | 0.0% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (Jul) | 2.9% | 2.9% | 3.0% |
@@ -30,11 +30,11 @@
 | 12:00 | USD | Low | Mortgage Refinance Index | 744.4 |  | 709.1 |
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Jun) | 0.0% |  | -0.2% |
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Jun) | 2.0% |  | 0.7% |
-| 13:30 | USD | Moderate | Core CPI (YoY) (Jul) | 2.5% | 2.5% | 2.6% |
 | 13:30 | USD | High | Core CPI (MoM) (Jul) | 0.2% | 0.2% | 0.0% |
+| 13:30 | USD | Moderate | Core CPI (YoY) (Jul) | 2.5% | 2.5% | 2.6% |
 | 13:30 | USD | Low | Core CPI Index (Jul) | 336.79 |  | 336.07 |
-| 13:30 | USD | High | CPI (YoY) (Jul) | 3.4% | 3.4% | 3.5% |
 | 13:30 | USD | High | CPI (MoM) (Jul) | 0.1% | 0.1% | -0.4% |
+| 13:30 | USD | High | CPI (YoY) (Jul) | 3.4% | 3.4% | 3.5% |
 | 13:30 | USD | Low | CPI Index, n.s.a. (Jul) | 333.92 | 333.99 | 333.95 |
 | 13:30 | USD | Low | CPI Index, s.a (Jul) | 332.81 |  | 332.57 |
 | 13:30 | USD | Low | CPI, n.s.a (MoM) (Jul) | -0.01% |  | -0.35% |
@@ -59,4 +59,3 @@
 | 18:00 | USD | High | 10-Year Note Auction | 4.683% |  | 4.580% |
 | 18:30 | BRL | Low | Foreign Exchange Flows | 0.652B |  | 2.814B |
 | 19:00 | USD | Moderate | Federal Budget Balance (Jul) | -432.0B | -348.3B | -120.0B |
-| 19:00 | EUR | Low | French Car Registration (YoY) (Jul) |  |  | 11.4% |

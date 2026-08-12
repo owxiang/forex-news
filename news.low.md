@@ -10,8 +10,8 @@
 | 07:00 | EUR | German HICP (MoM) (Jul) | 0.9% | 0.9% | -0.2% |
 | 07:00 | EUR | German HICP (YoY) (Jul) | 2.8% | 2.8% | 2.4% |
 | 07:30 | NOK | Consumer Confidence (Q3) | -16.60 |  | -18.10 |
-| 09:00 | EUR | Italian CPI (MoM) (Jul) | 0.3% | 0.2% | 0.0% |
 | 09:00 | EUR | Italian CPI (YoY) (Jul) | 2.9% | 2.8% | 3.0% |
+| 09:00 | EUR | Italian CPI (MoM) (Jul) | 0.3% | 0.2% | 0.0% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Jul) | 2.8% |  | 2.9% |
 | 09:00 | EUR | Italian HICP (MoM) (Jul) | -1.0% | -1.0% | 0.0% |
 | 09:00 | EUR | Italian HICP (YoY) (Jul) | 2.9% | 2.9% | 3.0% |
@@ -44,4 +44,3 @@
 | 16:00 | MXN | Thomson Reuters IPSOS PCSI (Aug) | 52.77 |  | 53.74 |
 | 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Aug) | 53.38 |  | 52.05 |
 | 18:30 | BRL | Foreign Exchange Flows | 0.652B |  | 2.814B |
-| 19:00 | EUR | French Car Registration (YoY) (Jul) |  |  | 11.4% |
