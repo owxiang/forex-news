@@ -2,7 +2,6 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Wage Price Index (QoQ) (Q2) |  |  | 0.8% |
 | 07:00 | EUR | German CPI (YoY) (Jul) |  | 2.8% | 2.3% |
 | 10:00 | USD | IEA Monthly Report |  |  |  |
 | 11:00 | USD | OPEC Monthly Report |  |  |  |

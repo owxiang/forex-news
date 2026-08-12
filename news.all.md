@@ -4,11 +4,9 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | KRW | Low | Unemployment Rate (Jul) | 2.8% |  | 2.7% |
 | 00:00 | JPY | Low | Reuters Tankan Index (Aug) | 18 |  | 13 |
-| 00:50 | JPY | Low | M2 Money Stock (YoY) |  | 2.1% | 2.2% |
-| 00:50 | JPY | Low | M3 Money Supply (Jul) |  |  | 2,327.9B |
+| 00:50 | JPY | Low | M2 Money Stock (YoY) | 2.2% | 2.1% | 2.2% |
+| 00:50 | JPY | Low | M3 Money Supply (Jul) | 2,330.6B |  | 2,328.2B |
 | 02:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
-| 02:30 | AUD | Moderate | Wage Price Index (QoQ) (Q2) |  |  | 0.8% |
-| 02:30 | AUD | Low | Wage Price Index (YoY) (Q2) |  |  | 3.3% |
 | 07:00 | EUR | High | German CPI (MoM) (Jul) |  | 0.8% | -0.3% |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Jul) |  | 2.8% | 2.3% |
 | 07:00 | EUR | Low | German HICP (MoM) (Jul) |  | 0.9% | -0.2% |
@@ -33,11 +31,11 @@
 | 12:30 | INR | Low | M3 Money Supply |  |  | 14.7% |
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Jun) |  |  | -0.4% |
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Jun) |  |  | 0.4% |
-| 13:30 | USD | High | Core CPI (MoM) (Jul) |  | 0.2% | 0.0% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Jul) |  | 2.5% | 2.6% |
+| 13:30 | USD | High | Core CPI (MoM) (Jul) |  | 0.2% | 0.0% |
 | 13:30 | USD | Low | Core CPI Index (Jul) |  |  | 336.07 |
-| 13:30 | USD | High | CPI (MoM) (Jul) |  | 0.1% | -0.4% |
 | 13:30 | USD | High | CPI (YoY) (Jul) |  | 3.4% | 3.5% |
+| 13:30 | USD | High | CPI (MoM) (Jul) |  | 0.1% | -0.4% |
 | 13:30 | USD | Low | CPI Index, n.s.a. (Jul) |  |  | 333.95 |
 | 13:30 | USD | Low | CPI Index, s.a (Jul) |  |  | 332.57 |
 | 13:30 | USD | Low | CPI, n.s.a (MoM) (Jul) |  |  | -0.35% |

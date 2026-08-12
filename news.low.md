@@ -4,10 +4,9 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | KRW | Unemployment Rate (Jul) | 2.8% |  | 2.7% |
 | 00:00 | JPY | Reuters Tankan Index (Aug) | 18 |  | 13 |
-| 00:50 | JPY | M2 Money Stock (YoY) |  | 2.1% | 2.2% |
-| 00:50 | JPY | M3 Money Supply (Jul) |  |  | 2,327.9B |
+| 00:50 | JPY | M2 Money Stock (YoY) | 2.2% | 2.1% | 2.2% |
+| 00:50 | JPY | M3 Money Supply (Jul) | 2,330.6B |  | 2,328.2B |
 | 02:30 | AUD | RBA Chart Pack Release |  |  |  |
-| 02:30 | AUD | Wage Price Index (YoY) (Q2) |  |  | 3.3% |
 | 07:00 | EUR | German HICP (MoM) (Jul) |  | 0.9% | -0.2% |
 | 07:00 | EUR | German HICP (YoY) (Jul) |  | 2.8% | 2.4% |
 | 07:30 | NOK | Consumer Confidence (Q3) |  |  | -20.00 |
