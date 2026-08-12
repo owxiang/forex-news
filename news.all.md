@@ -56,7 +56,7 @@
 | 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (Aug) | 52.77 |  | 53.74 |
 | 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Aug) | 53.38 |  | 52.05 |
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |
-| 18:00 | USD | High | 10-Year Note Auction |  |  | 4.580% |
-| 30 min | BRL | Low | Foreign Exchange Flows |  |  | 2.814B |
-| 19:00 | USD | Moderate | Federal Budget Balance (Jul) |  | -348.3B | -120.0B |
+| 18:00 | USD | High | 10-Year Note Auction | 4.683% |  | 4.580% |
+| 18:30 | BRL | Low | Foreign Exchange Flows | 0.652B |  | 2.814B |
+| 19:00 | USD | Moderate | Federal Budget Balance (Jul) | -432.0B | -348.3B | -120.0B |
 | 19:00 | EUR | Low | French Car Registration (YoY) (Jul) |  |  | 11.4% |
