@@ -15,14 +15,14 @@
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Jul) | 2.8% |  | 2.9% |
 | 09:00 | EUR | Italian HICP (MoM) (Jul) | -1.0% | -1.0% | 0.0% |
 | 09:00 | EUR | Italian HICP (YoY) (Jul) | 2.9% | 2.9% | 3.0% |
-| 49 min | EUR | Italian 12-Month BOT Auction |  |  | 2.690% |
-| 10:30 | EUR | German 30-Year Bund Auction |  |  | 3.640% |
-| 11:00 | ZAR | Business Confidence (Jun) |  |  | 124.1 |
+| 10:10 | EUR | Italian 12-Month BOT Auction | 2.768% |  | 2.690% |
+| 10:30 | EUR | German 30-Year Bund Auction | 3.650% |  | 3.640% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.81% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -2.9% |
 | 12:00 | USD | MBA Purchase Index |  |  | 154.0 |
 | 12:00 | USD | Mortgage Market Index |  |  | 240.0 |
 | 12:00 | USD | Mortgage Refinance Index |  |  | 709.1 |
+| 12:00 | ZAR | Business Confidence (Jun) |  |  | 124.1 |
 | 12:30 | INR | M3 Money Supply |  |  | 14.7% |
 | 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Jun) |  |  | -0.4% |
 | 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Jun) |  |  | 0.4% |

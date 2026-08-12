@@ -17,17 +17,17 @@
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Jul) | 2.8% |  | 2.9% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Jul) | -1.0% | -1.0% | 0.0% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (Jul) | 2.9% | 2.9% | 3.0% |
-| 39 min | USD | Moderate | IEA Monthly Report |  |  |  |
-| 49 min | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.690% |
-| 10:30 | EUR | Low | German 30-Year Bund Auction |  |  | 3.640% |
+| 10:00 | USD | Moderate | IEA Monthly Report |  |  |  |
+| 10:10 | EUR | Low | Italian 12-Month BOT Auction | 2.768% |  | 2.690% |
+| 10:30 | EUR | Low | German 30-Year Bund Auction | 3.650% |  | 3.640% |
 | 11:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
-| 11:00 | ZAR | Low | Business Confidence (Jun) |  |  | 124.1 |
 | 11:30 | INR | Moderate | CPI (YoY) (Jul) |  | 4.50% | 4.38% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.81% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -2.9% |
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 154.0 |
 | 12:00 | USD | Low | Mortgage Market Index |  |  | 240.0 |
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 709.1 |
+| 12:00 | ZAR | Low | Business Confidence (Jun) |  |  | 124.1 |
 | 12:30 | INR | Low | M3 Money Supply |  |  | 14.7% |
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Jun) |  |  | -0.4% |
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Jun) |  |  | 0.4% |
