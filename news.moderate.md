@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 07:00 | EUR | German CPI (YoY) (Jul) | 2.8% | 2.8% | 2.3% |
-| 10:00 | USD | IEA Monthly Report |  |  |  |
+| 39 min | USD | IEA Monthly Report |  |  |  |
 | 11:00 | USD | OPEC Monthly Report |  |  |  |
 | 11:30 | INR | CPI (YoY) (Jul) |  | 4.50% | 4.38% |
 | 13:30 | USD | Core CPI (YoY) (Jul) |  | 2.5% | 2.6% |

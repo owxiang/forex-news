@@ -9,13 +9,13 @@
 | 02:30 | AUD | RBA Chart Pack Release |  |  |  |
 | 07:00 | EUR | German HICP (MoM) (Jul) | 0.9% | 0.9% | -0.2% |
 | 07:00 | EUR | German HICP (YoY) (Jul) | 2.8% | 2.8% | 2.4% |
-| 07:30 | NOK | Consumer Confidence (Q3) |  |  | -20.00 |
-| 09:00 | EUR | Italian CPI (MoM) (Jul) |  | 0.2% | 0.0% |
-| 09:00 | EUR | Italian CPI (YoY) (Jul) |  | 2.8% | 3.0% |
-| 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Jul) |  |  | 2.9% |
-| 09:00 | EUR | Italian HICP (MoM) (Jul) |  | -1.0% | 0.0% |
-| 09:00 | EUR | Italian HICP (YoY) (Jul) |  | 2.9% | 3.0% |
-| 10:10 | EUR | Italian 12-Month BOT Auction |  |  | 2.690% |
+| 07:30 | NOK | Consumer Confidence (Q3) | -16.60 |  | -18.10 |
+| 09:00 | EUR | Italian CPI (MoM) (Jul) | 0.3% | 0.2% | 0.0% |
+| 09:00 | EUR | Italian CPI (YoY) (Jul) | 2.9% | 2.8% | 3.0% |
+| 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Jul) | 2.8% |  | 2.9% |
+| 09:00 | EUR | Italian HICP (MoM) (Jul) | -1.0% | -1.0% | 0.0% |
+| 09:00 | EUR | Italian HICP (YoY) (Jul) | 2.9% | 2.9% | 3.0% |
+| 49 min | EUR | Italian 12-Month BOT Auction |  |  | 2.690% |
 | 10:30 | EUR | German 30-Year Bund Auction |  |  | 3.640% |
 | 11:00 | ZAR | Business Confidence (Jun) |  |  | 124.1 |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.81% |
