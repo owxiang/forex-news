@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | EUR | German CPI (YoY) (Jul) |  | 2.8% | 2.3% |
+| 07:00 | EUR | German CPI (YoY) (Jul) | 2.8% | 2.8% | 2.3% |
 | 10:00 | USD | IEA Monthly Report |  |  |  |
 | 11:00 | USD | OPEC Monthly Report |  |  |  |
 | 11:30 | INR | CPI (YoY) (Jul) |  | 4.50% | 4.38% |
@@ -10,4 +10,4 @@
 | 13:30 | CAD | Building Permits (MoM) (Jun) |  | 0.8% | -1.7% |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | 2.356M |
 | 17:00 | USD | WASDE Report |  |  |  |
-| 19:00 | USD | Federal Budget Balance (Jul) |  | -361.2B | -120.0B |
+| 19:00 | USD | Federal Budget Balance (Jul) |  | -348.3B | -120.0B |
