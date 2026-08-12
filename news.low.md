@@ -17,21 +17,19 @@
 | 09:00 | EUR | Italian HICP (YoY) (Jul) | 2.9% | 2.9% | 3.0% |
 | 10:10 | EUR | Italian 12-Month BOT Auction | 2.768% |  | 2.690% |
 | 10:30 | EUR | German 30-Year Bund Auction | 3.650% |  | 3.640% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.81% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -2.9% |
-| 12:00 | USD | MBA Purchase Index |  |  | 154.0 |
-| 12:00 | USD | Mortgage Market Index |  |  | 240.0 |
-| 12:00 | USD | Mortgage Refinance Index |  |  | 709.1 |
-| 12:00 | ZAR | Business Confidence (Jun) |  |  | 124.1 |
-| 12:30 | INR | M3 Money Supply |  |  | 14.7% |
-| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Jun) |  |  | -0.4% |
-| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Jun) |  |  | 0.4% |
-| 13:30 | USD | Core CPI Index (Jul) |  |  | 336.07 |
-| 13:30 | USD | CPI Index, n.s.a. (Jul) |  |  | 333.95 |
-| 13:30 | USD | CPI Index, s.a (Jul) |  |  | 332.57 |
-| 13:30 | USD | CPI, n.s.a (MoM) (Jul) |  |  | -0.35% |
-| 13:30 | USD | Real Earnings (MoM) (Jul) |  |  | 0.8% |
-| 13:30 | EUR | German Current Account Balance n.s.a (Jun) |  |  | 10.4B |
+| 11:30 | EUR | German Current Account Balance n.s.a (Jun) | 19.0B |  | 9.0B |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.77% |  | 6.81% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | 3.6% |  | -2.9% |
+| 12:00 | USD | MBA Purchase Index | 157.9 |  | 154.0 |
+| 12:00 | USD | Mortgage Market Index | 248.6 |  | 240.0 |
+| 12:00 | USD | Mortgage Refinance Index | 744.4 |  | 709.1 |
+| 10 min | BRL | Brazilian Service Sector Growth (MoM) (Jun) |  |  | -0.4% |
+| 10 min | BRL | Brazilian Service Sector Growth (YoY) (Jun) |  |  | 0.4% |
+| 40 min | USD | Core CPI Index (Jul) |  |  | 336.07 |
+| 40 min | USD | CPI Index, n.s.a. (Jul) |  |  | 333.95 |
+| 40 min | USD | CPI Index, s.a (Jul) |  |  | 332.57 |
+| 40 min | USD | CPI, n.s.a (MoM) (Jul) |  |  | -0.35% |
+| 40 min | USD | Real Earnings (MoM) (Jul) |  |  | 0.8% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.183M |
 | 15:30 | USD | Crude Oil Imports |  |  | 0.297M |
 | 15:30 | USD | Distillate Fuel Production |  |  | -0.134M |

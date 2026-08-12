@@ -21,27 +21,25 @@
 | 10:10 | EUR | Low | Italian 12-Month BOT Auction | 2.768% |  | 2.690% |
 | 10:30 | EUR | Low | German 30-Year Bund Auction | 3.650% |  | 3.640% |
 | 11:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
-| 11:30 | INR | Moderate | CPI (YoY) (Jul) |  | 4.50% | 4.38% |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.81% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -2.9% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 154.0 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 240.0 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 709.1 |
-| 12:00 | ZAR | Low | Business Confidence (Jun) |  |  | 124.1 |
-| 12:30 | INR | Low | M3 Money Supply |  |  | 14.7% |
-| 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Jun) |  |  | -0.4% |
-| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Jun) |  |  | 0.4% |
-| 13:30 | USD | Moderate | Core CPI (YoY) (Jul) |  | 2.5% | 2.6% |
-| 13:30 | USD | High | Core CPI (MoM) (Jul) |  | 0.2% | 0.0% |
-| 13:30 | USD | Low | Core CPI Index (Jul) |  |  | 336.07 |
-| 13:30 | USD | High | CPI (YoY) (Jul) |  | 3.4% | 3.5% |
-| 13:30 | USD | High | CPI (MoM) (Jul) |  | 0.1% | -0.4% |
-| 13:30 | USD | Low | CPI Index, n.s.a. (Jul) |  |  | 333.95 |
-| 13:30 | USD | Low | CPI Index, s.a (Jul) |  |  | 332.57 |
-| 13:30 | USD | Low | CPI, n.s.a (MoM) (Jul) |  |  | -0.35% |
-| 13:30 | USD | Low | Real Earnings (MoM) (Jul) |  |  | 0.8% |
-| 13:30 | CAD | Moderate | Building Permits (MoM) (Jun) |  | 0.8% | -1.7% |
-| 13:30 | EUR | Low | German Current Account Balance n.s.a (Jun) |  |  | 10.4B |
+| 11:30 | INR | Moderate | CPI (YoY) (Jul) | 4.45% | 4.50% | 4.38% |
+| 11:30 | EUR | Low | German Current Account Balance n.s.a (Jun) | 19.0B |  | 9.0B |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.77% |  | 6.81% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | 3.6% |  | -2.9% |
+| 12:00 | USD | Low | MBA Purchase Index | 157.9 |  | 154.0 |
+| 12:00 | USD | Low | Mortgage Market Index | 248.6 |  | 240.0 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 744.4 |  | 709.1 |
+| 10 min | BRL | Low | Brazilian Service Sector Growth (MoM) (Jun) |  |  | -0.4% |
+| 10 min | BRL | Low | Brazilian Service Sector Growth (YoY) (Jun) |  |  | 0.4% |
+| 40 min | USD | Moderate | Core CPI (YoY) (Jul) |  | 2.5% | 2.6% |
+| 40 min | USD | High | Core CPI (MoM) (Jul) |  | 0.2% | 0.0% |
+| 40 min | USD | Low | Core CPI Index (Jul) |  |  | 336.07 |
+| 40 min | USD | High | CPI (YoY) (Jul) |  | 3.4% | 3.5% |
+| 40 min | USD | High | CPI (MoM) (Jul) |  | 0.1% | -0.4% |
+| 40 min | USD | Low | CPI Index, n.s.a. (Jul) |  |  | 333.95 |
+| 40 min | USD | Low | CPI Index, s.a (Jul) |  |  | 332.57 |
+| 40 min | USD | Low | CPI, n.s.a (MoM) (Jul) |  |  | -0.35% |
+| 40 min | USD | Low | Real Earnings (MoM) (Jul) |  |  | 0.8% |
+| 40 min | CAD | Moderate | Building Permits (MoM) (Jun) |  | 0.8% | -1.7% |
 | 15:30 | USD | High | Crude Oil Inventories |  | -1.700M | 2.479M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.183M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 0.297M |
