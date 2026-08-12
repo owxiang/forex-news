@@ -43,5 +43,5 @@
 | 16:00 | CAD | Thomson Reuters IPSOS PCSI (Aug) | 48.19 |  | 49.42 |
 | 16:00 | MXN | Thomson Reuters IPSOS PCSI (Aug) | 52.77 |  | 53.74 |
 | 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Aug) | 53.38 |  | 52.05 |
-| 17:00 | EUR | French Car Registration (YoY) (Jul) |  |  | 11.4% |
-| 18:30 | BRL | Foreign Exchange Flows |  |  | 2.814B |
+| 30 min | BRL | Foreign Exchange Flows |  |  | 2.814B |
+| 19:00 | EUR | French Car Registration (YoY) (Jul) |  |  | 11.4% |
