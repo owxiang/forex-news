@@ -1,46 +1,46 @@
-## 12 August 2026 - Low Impact Forex News
+## 13 August 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Unemployment Rate (Jul) | 2.8% |  | 2.7% |
-| 00:00 | JPY | Reuters Tankan Index (Aug) | 18 |  | 13 |
-| 00:50 | JPY | M2 Money Stock (YoY) | 2.2% | 2.1% | 2.2% |
-| 00:50 | JPY | M3 Money Supply (Jul) | 2,330.6B |  | 2,328.2B |
-| 02:30 | AUD | RBA Chart Pack Release |  |  |  |
-| 07:00 | EUR | German HICP (MoM) (Jul) | 0.9% | 0.9% | -0.2% |
-| 07:00 | EUR | German HICP (YoY) (Jul) | 2.8% | 2.8% | 2.4% |
-| 07:30 | NOK | Consumer Confidence (Q3) | -16.60 |  | -18.10 |
-| 09:00 | EUR | Italian CPI (YoY) (Jul) | 2.9% | 2.8% | 3.0% |
-| 09:00 | EUR | Italian CPI (MoM) (Jul) | 0.3% | 0.2% | 0.0% |
-| 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Jul) | 2.8% |  | 2.9% |
-| 09:00 | EUR | Italian HICP (MoM) (Jul) | -1.0% | -1.0% | 0.0% |
-| 09:00 | EUR | Italian HICP (YoY) (Jul) | 2.9% | 2.9% | 3.0% |
-| 10:10 | EUR | Italian 12-Month BOT Auction | 2.768% |  | 2.690% |
-| 10:30 | EUR | German 30-Year Bund Auction | 3.650% |  | 3.640% |
-| 11:30 | EUR | German Current Account Balance n.s.a (Jun) | 19.0B |  | 9.0B |
-| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.77% |  | 6.81% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) | 3.6% |  | -2.9% |
-| 12:00 | USD | MBA Purchase Index | 157.9 |  | 154.0 |
-| 12:00 | USD | Mortgage Market Index | 248.6 |  | 240.0 |
-| 12:00 | USD | Mortgage Refinance Index | 744.4 |  | 709.1 |
-| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Jun) | 0.0% |  | -0.2% |
-| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Jun) | 2.0% |  | 0.7% |
-| 13:30 | USD | Core CPI Index (Jul) | 336.79 |  | 336.07 |
-| 13:30 | USD | CPI Index, n.s.a. (Jul) | 333.92 | 333.99 | 333.95 |
-| 13:30 | USD | CPI Index, s.a (Jul) | 332.81 |  | 332.57 |
-| 13:30 | USD | CPI, n.s.a (MoM) (Jul) | -0.01% |  | -0.35% |
-| 13:30 | USD | Real Earnings (MoM) (Jul) | 0.0% |  | 0.7% |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) | 0.026M |  | -0.183M |
-| 15:30 | USD | Crude Oil Imports | 1.768M |  | 0.297M |
-| 15:30 | USD | Distillate Fuel Production | 0.050M |  | -0.134M |
-| 15:30 | USD | EIA Weekly Distillates Stocks | -0.010M | -1.300M | -3.473M |
-| 15:30 | USD | Gasoline Production | -0.001M |  | -0.309M |
-| 15:30 | USD | Heating Oil Stockpiles | 0.192M |  | -0.144M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.3% |  | -0.7% |
-| 15:30 | USD | Gasoline Inventories | -0.968M | -1.200M | -1.643M |
-| 16:00 | USD | Cleveland CPI (MoM) (Jul) | 0.3% |  | 0.2% |
-| 16:00 | USD | Thomson Reuters IPSOS PCSI (Aug) | 49.38 |  | 50.99 |
-| 16:00 | CAD | Thomson Reuters IPSOS PCSI (Aug) | 48.19 |  | 49.42 |
-| 16:00 | MXN | Thomson Reuters IPSOS PCSI (Aug) | 52.77 |  | 53.74 |
-| 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Aug) | 53.38 |  | 52.05 |
-| 18:30 | BRL | Foreign Exchange Flows | 0.652B |  | 2.814B |
+| 00:50 | JPY | PPI (YoY) (Jul) |  | 7.4% | 7.1% |
+| 00:50 | JPY | PPI (MoM) (Jul) |  | 0.6% | 0.4% |
+| 07:00 | GBP | Business Investment (YoY) (Q2) |  |  | -1.3% |
+| 07:00 | GBP | Construction Output (MoM) (Jun) |  | -0.3% | -0.8% |
+| 07:00 | GBP | U.K. Construction Output (YoY) (Jun) |  | -2.4% | -1.8% |
+| 07:00 | GBP | GDP (YoY) (Jun) |  | 0.8% | 1.3% |
+| 07:00 | GBP | Index of Services |  | 0.5% | 0.7% |
+| 07:00 | GBP | Industrial Production (YoY) (Jun) |  | 0.2% | 1.0% |
+| 07:00 | GBP | Manufacturing Production (YoY) (Jun) |  | 1.2% | 2.3% |
+| 07:00 | JPY | Machine Tool Orders (YoY) (Jul) |  |  | 52.8% |
+| 07:30 | CHF | PPI (YoY) (Jul) |  |  | -2.1% |
+| 08:00 | EUR | Core CPI (YoY) (Jul) |  | 3.0% | 2.9% |
+| 08:00 | EUR | Spanish CPI (MoM) (Jul) |  | 0.2% | 0.6% |
+| 08:00 | EUR | Spanish HICP (MoM) (Jul) |  | -0.1% | 0.6% |
+| 10:00 | CNY | M2 Money Stock (YoY) (Jul) |  | 7.9% | 8.0% |
+| 10:00 | CNY | Outstanding Loan Growth (YoY) (Jul) |  | 5.3% | 5.3% |
+| 10:00 | CNY | Chinese Total Social Financing (Jul) |  | 1,220.0B | 3,360.0B |
+| 10:00 | EUR | Industrial Production (YoY) (Jun) |  | -0.8% | -1.2% |
+| 10:30 | ZAR | Gold Production (YoY) (Jun) |  |  | -4.3% |
+| 10:30 | ZAR | Mining Production (Jun) |  |  | -5.4% |
+| 11:00 | GBP | Thomson Reuters IPSOS PCSI (Aug) |  |  | 46.2 |
+| 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Aug) |  |  | 45.85 |
+| 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Aug) |  |  | 42.28 |
+| 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Aug) |  |  | 41.57 |
+| 11:00 | EUR | Thomson Reuters IPSOS PCSI (Aug) |  |  | 50.64 |
+| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (Aug) |  |  | 48.25 |
+| 13:30 | USD | Core PPI (YoY) (Jul) |  | 4.2% | 4.7% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 198.75K |
+| 13:30 | USD | PPI (YoY) (Jul) |  | 4.9% | 5.5% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Jul) |  |  | 5.1% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Jul) |  |  | 0.1% |
+| 13:40 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 15:30 | USD | Natural Gas Storage |  | 31B | 33B |
+| 16:30 | USD | 4-Week Bill Auction |  |  | 3.640% |
+| 16:30 | USD | 8-Week Bill Auction |  |  | 3.710% |
+| 17:00 | EUR | French Car Registration (YoY) (Jul) |  |  | 11.4% |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.002T |
+| 22:00 | KRW | Export Price Index (YoY) (Jul) |  |  | 48.9% |
+| 22:00 | KRW | Import Price Index (YoY) (Jul) |  |  | 20.6% |
+| 23:45 | NZD | External Migration & Visitors (Jun) |  |  | 6.70% |
+| 23:45 | NZD | Permanent/Long-Term Migration (Jun) |  |  | 1,860 |
+| 23:45 | NZD | Visitor Arrivals (MoM) |  |  | -2.4% |
