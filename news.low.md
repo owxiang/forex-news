@@ -30,18 +30,18 @@
 | 13:30 | USD | CPI Index, s.a (Jul) | 332.81 |  | 332.57 |
 | 13:30 | USD | CPI, n.s.a (MoM) (Jul) | -0.01% |  | -0.35% |
 | 13:30 | USD | Real Earnings (MoM) (Jul) | 0.0% |  | 0.7% |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.183M |
-| 15:30 | USD | Crude Oil Imports |  |  | 0.297M |
-| 15:30 | USD | Distillate Fuel Production |  |  | -0.134M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  | -1.600M | -3.473M |
-| 15:30 | USD | Gasoline Production |  |  | -0.309M |
-| 15:30 | USD | Heating Oil Stockpiles |  |  | -0.144M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.7% |
-| 15:30 | USD | Gasoline Inventories |  | -1.580M | -1.643M |
-| 16:00 | USD | Cleveland CPI (MoM) (Jul) |  |  | 0.2% |
-| 16:00 | USD | Thomson Reuters IPSOS PCSI (Aug) |  |  | 50.99 |
-| 16:00 | CAD | Thomson Reuters IPSOS PCSI (Aug) |  |  | 49.42 |
-| 16:00 | MXN | Thomson Reuters IPSOS PCSI (Aug) |  |  | 53.74 |
-| 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Aug) |  |  | 52.05 |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) | 0.026M |  | -0.183M |
+| 15:30 | USD | Crude Oil Imports | 1.768M |  | 0.297M |
+| 15:30 | USD | Distillate Fuel Production | 0.050M |  | -0.134M |
+| 15:30 | USD | EIA Weekly Distillates Stocks | -0.010M | -1.300M | -3.473M |
+| 15:30 | USD | Gasoline Production | -0.001M |  | -0.309M |
+| 15:30 | USD | Heating Oil Stockpiles | 0.192M |  | -0.144M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.3% |  | -0.7% |
+| 15:30 | USD | Gasoline Inventories | -0.968M | -1.200M | -1.643M |
+| 16:00 | USD | Cleveland CPI (MoM) (Jul) | 0.3% |  | 0.2% |
+| 16:00 | USD | Thomson Reuters IPSOS PCSI (Aug) | 49.38 |  | 50.99 |
+| 16:00 | CAD | Thomson Reuters IPSOS PCSI (Aug) | 48.19 |  | 49.42 |
+| 16:00 | MXN | Thomson Reuters IPSOS PCSI (Aug) | 52.77 |  | 53.74 |
+| 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Aug) | 53.38 |  | 52.05 |
 | 17:00 | EUR | French Car Registration (YoY) (Jul) |  |  | 11.4% |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | 2.814B |
