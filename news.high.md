@@ -7,4 +7,4 @@
 | 07:00 | GBP | GDP (MoM) (Jun) | 0.3% | 0.0% | 0.0% |
 | 13:30 | USD | Initial Jobless Claims | 209K | 202K | 200K |
 | 13:30 | USD | PPI (MoM) (Jul) | 0.0% | 0.2% | -0.1% |
-| 18:00 | USD | 30-Year Bond Auction |  |  | 5.058% |
+| 18:00 | USD | 30-Year Bond Auction | 5.216% |  | 5.058% |

@@ -58,8 +58,8 @@
 | 15:30 | USD | Low | Natural Gas Storage | 36B | 31B | 33B |
 | 16:30 | USD | Low | 4-Week Bill Auction | 3.625% |  | 3.640% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 3.665% |  | 3.710% |
-| 18:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Jul) |  |  | 0.4% |
-| 18:00 | USD | High | 30-Year Bond Auction |  |  | 5.058% |
+| 18:00 | USD | High | 30-Year Bond Auction | 5.216% |  | 5.058% |
+| 21:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Jul) |  |  | 0.4% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,749B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.002T |
 | 22:00 | KRW | Low | Export Price Index (YoY) (Jul) |  |  | 48.9% |
