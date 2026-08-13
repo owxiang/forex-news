@@ -40,6 +40,6 @@
 | 22:00 | KRW | Export Price Index (YoY) (Jul) | 49.1% |  | 48.7% |
 | 22:00 | KRW | Import Price Index (YoY) (Jul) | 18.7% |  | 20.9% |
 | 23:00 | USD | Fed Goolsbee Speaks |  |  |  |
-| 23:45 | NZD | External Migration & Visitors (Jun) |  |  | 6.70% |
-| 23:45 | NZD | Permanent/Long-Term Migration (Jun) |  |  | 1,860 |
+| 23:45 | NZD | External Migration & Visitors (Jun) | 8.10% |  | 6.70% |
+| 23:45 | NZD | Permanent/Long-Term Migration (Jun) | 1,610 |  | 2,050 |
 | 23:45 | NZD | Visitor Arrivals (MoM) |  |  | -2.4% |

@@ -64,7 +64,7 @@
 | 22:00 | KRW | Low | Export Price Index (YoY) (Jul) | 49.1% |  | 48.7% |
 | 22:00 | KRW | Low | Import Price Index (YoY) (Jul) | 18.7% |  | 20.9% |
 | 23:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 23:30 | NZD | Moderate | Business NZ PMI (Jul) |  |  | 59.7 |
-| 23:45 | NZD | Low | External Migration & Visitors (Jun) |  |  | 6.70% |
-| 23:45 | NZD | Low | Permanent/Long-Term Migration (Jun) |  |  | 1,860 |
+| 23:30 | NZD | Moderate | Business NZ PMI (Jul) | 54.3 |  | 60.1 |
+| 23:45 | NZD | Low | External Migration & Visitors (Jun) | 8.10% |  | 6.70% |
+| 23:45 | NZD | Low | Permanent/Long-Term Migration (Jun) | 1,610 |  | 2,050 |
 | 23:45 | NZD | Low | Visitor Arrivals (MoM) |  |  | -2.4% |
