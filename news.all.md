@@ -22,14 +22,14 @@
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Jun) | 0.4% | 0.4% | 0.6% |
 | 07:00 | GBP | Moderate | Trade Balance (Jun) | -23.01B | -20.60B | -21.08B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Jun) | -10.45B |  | -9.58B |
-| 11 min | CHF | Moderate | PPI (MoM) (Jul) |  | -0.2% | -0.3% |
-| 11 min | CHF | Low | PPI (YoY) (Jul) |  |  | -2.1% |
-| 41 min | EUR | Low | Core CPI (YoY) (Jul) |  | 3.0% | 2.9% |
-| 41 min | EUR | Moderate | Spanish CPI (YoY) (Jul) |  | 3.5% | 3.2% |
-| 41 min | EUR | Low | Spanish CPI (MoM) (Jul) |  | 0.2% | 0.6% |
-| 41 min | EUR | Low | Spanish HICP (MoM) (Jul) |  | -0.1% | 0.6% |
-| 41 min | EUR | Moderate | Spanish HICP (YoY) (Jul) |  | 3.8% | 3.6% |
-| 09:00 | NOK | Moderate | Interest Rate Decision |  | 4.25% | 4.25% |
+| 07:30 | CHF | Moderate | PPI (MoM) (Jul) | -0.1% | -0.2% | -0.3% |
+| 07:30 | CHF | Low | PPI (YoY) (Jul) | -2.1% |  | -2.1% |
+| 08:00 | EUR | Low | Core CPI (YoY) (Jul) | 3.0% | 3.0% | 2.9% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jul) | 3.6% | 3.5% | 3.2% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Jul) | 0.3% | 0.2% | 0.6% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Jul) | 0.0% | -0.1% | 0.6% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jul) | 3.9% | 3.8% | 3.6% |
+| 09:00 | NOK | Moderate | Interest Rate Decision | 4.25% | 4.25% | 4.25% |
 | 10:00 | CNY | Low | M2 Money Stock (YoY) (Jul) |  | 7.9% | 8.0% |
 | 10:00 | CNY | Moderate | New Loans (Jul) |  | -50.0B | 1,610.0B |
 | 10:00 | CNY | Low | Outstanding Loan Growth (YoY) (Jul) |  | 5.3% | 5.3% |

@@ -10,10 +10,10 @@
 | 07:00 | GBP | Monthly GDP 3M/3M Change (Jun) | 0.4% | 0.4% | 0.6% |
 | 07:00 | GBP | Trade Balance (Jun) | -23.01B | -20.60B | -21.08B |
 | 07:00 | GBP | Trade Balance Non-EU (Jun) | -10.45B |  | -9.58B |
-| 11 min | CHF | PPI (MoM) (Jul) |  | -0.2% | -0.3% |
-| 41 min | EUR | Spanish CPI (YoY) (Jul) |  | 3.5% | 3.2% |
-| 41 min | EUR | Spanish HICP (YoY) (Jul) |  | 3.8% | 3.6% |
-| 09:00 | NOK | Interest Rate Decision |  | 4.25% | 4.25% |
+| 07:30 | CHF | PPI (MoM) (Jul) | -0.1% | -0.2% | -0.3% |
+| 08:00 | EUR | Spanish CPI (YoY) (Jul) | 3.6% | 3.5% | 3.2% |
+| 08:00 | EUR | Spanish HICP (YoY) (Jul) | 3.9% | 3.8% | 3.6% |
+| 09:00 | NOK | Interest Rate Decision | 4.25% | 4.25% | 4.25% |
 | 10:00 | CNY | New Loans (Jul) |  | -50.0B | 1,610.0B |
 | 10:00 | EUR | Industrial Production (MoM) (Jun) |  | -0.1% | -0.2% |
 | 12:00 | GBP | NIESR Monthly GDP Tracker (Jul) |  |  | 0.4% |
