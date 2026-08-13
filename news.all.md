@@ -6,30 +6,29 @@
 | 00:50 | JPY | Low | PPI (YoY) (Jul) | 7.2% | 7.4% | 7.3% |
 | 01:15 | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
 | 04:00 | NZD | Moderate | Inflation Expectations (QoQ) (Q3) | 2.3% |  | 2.5% |
-| 07:00 | GBP | Moderate | Business Investment (QoQ) (Q2) |  | -0.3% | 0.9% |
-| 07:00 | GBP | Low | Business Investment (YoY) (Q2) |  |  | -1.3% |
-| 07:00 | GBP | Low | Construction Output (MoM) (Jun) |  | -0.3% | -0.8% |
-| 07:00 | GBP | Low | U.K. Construction Output (YoY) (Jun) |  | -2.4% | -1.8% |
-| 07:00 | GBP | High | GDP (QoQ) (Q2) |  | 0.4% | 0.6% |
-| 07:00 | GBP | High | GDP (YoY) (Q2) |  | 1.1% | 0.9% |
-| 07:00 | GBP | High | GDP (MoM) (Jun) |  | 0.0% | 0.1% |
-| 07:00 | GBP | Low | GDP (YoY) (Jun) |  | 0.8% | 1.3% |
-| 07:00 | GBP | Low | Index of Services |  | 0.5% | 0.7% |
-| 07:00 | GBP | Low | Industrial Production (YoY) (Jun) |  | 0.2% | 1.0% |
-| 07:00 | GBP | Moderate | Industrial Production (MoM) (Jun) |  | 0.1% | -0.5% |
-| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Jun) |  | -0.1% | 0.1% |
-| 07:00 | GBP | Low | Manufacturing Production (YoY) (Jun) |  | 1.2% | 2.3% |
-| 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Jun) |  | 0.4% | 0.7% |
-| 07:00 | GBP | Moderate | Trade Balance (Jun) |  | -20.60B | -18.66B |
-| 07:00 | GBP | Moderate | Trade Balance Non-EU (Jun) |  |  | -7.14B |
-| 07:00 | JPY | Low | Machine Tool Orders (YoY) (Jul) |  |  | 52.8% |
-| 07:30 | CHF | Moderate | PPI (MoM) (Jul) |  | -0.2% | -0.3% |
-| 07:30 | CHF | Low | PPI (YoY) (Jul) |  |  | -2.1% |
-| 08:00 | EUR | Low | Core CPI (YoY) (Jul) |  | 3.0% | 2.9% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jul) |  | 3.5% | 3.2% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Jul) |  | 0.2% | 0.6% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Jul) |  | -0.1% | 0.6% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jul) |  | 3.8% | 3.6% |
+| 07:00 | GBP | Moderate | Business Investment (QoQ) (Q2) | 1.7% | -0.3% | 0.9% |
+| 07:00 | GBP | Low | Business Investment (YoY) (Q2) | 0.8% |  | -1.3% |
+| 07:00 | GBP | Low | Construction Output (MoM) (Jun) | -0.1% | -0.3% | -0.8% |
+| 07:00 | GBP | Low | U.K. Construction Output (YoY) (Jun) | -2.3% | -2.4% | -2.0% |
+| 07:00 | GBP | High | GDP (QoQ) (Q2) | 0.4% | 0.4% | 0.6% |
+| 07:00 | GBP | High | GDP (YoY) (Q2) | 1.2% | 1.1% | 0.9% |
+| 07:00 | GBP | High | GDP (MoM) (Jun) | 0.3% | 0.0% | 0.0% |
+| 07:00 | GBP | Low | GDP (YoY) (Jun) | 1.1% | 0.8% | 1.2% |
+| 07:00 | GBP | Low | Index of Services | 0.5% | 0.5% | 0.7% |
+| 07:00 | GBP | Moderate | Industrial Production (MoM) (Jun) | -0.2% | 0.1% | -0.7% |
+| 07:00 | GBP | Low | Industrial Production (YoY) (Jun) | -0.2% | 0.2% | 1.0% |
+| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Jun) | -0.5% | -0.1% | -0.2% |
+| 07:00 | GBP | Low | Manufacturing Production (YoY) (Jun) | 0.5% | 1.2% | 2.0% |
+| 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Jun) | 0.4% | 0.4% | 0.6% |
+| 07:00 | GBP | Moderate | Trade Balance (Jun) | -23.01B | -20.60B | -21.08B |
+| 07:00 | GBP | Moderate | Trade Balance Non-EU (Jun) | -10.45B |  | -9.58B |
+| 11 min | CHF | Moderate | PPI (MoM) (Jul) |  | -0.2% | -0.3% |
+| 11 min | CHF | Low | PPI (YoY) (Jul) |  |  | -2.1% |
+| 41 min | EUR | Low | Core CPI (YoY) (Jul) |  | 3.0% | 2.9% |
+| 41 min | EUR | Moderate | Spanish CPI (YoY) (Jul) |  | 3.5% | 3.2% |
+| 41 min | EUR | Low | Spanish CPI (MoM) (Jul) |  | 0.2% | 0.6% |
+| 41 min | EUR | Low | Spanish HICP (MoM) (Jul) |  | -0.1% | 0.6% |
+| 41 min | EUR | Moderate | Spanish HICP (YoY) (Jul) |  | 3.8% | 3.6% |
 | 09:00 | NOK | Moderate | Interest Rate Decision |  | 4.25% | 4.25% |
 | 10:00 | CNY | Low | M2 Money Stock (YoY) (Jul) |  | 7.9% | 8.0% |
 | 10:00 | CNY | Moderate | New Loans (Jul) |  | -50.0B | 1,610.0B |
@@ -49,8 +48,8 @@
 | 13:00 | BRL | Moderate | Retail Sales (YoY) (Jun) |  | 2.4% | 0.4% |
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (Jun) |  | 0.3% | 0.1% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,800K | 1,801K |
-| 13:30 | USD | Low | Core PPI (YoY) (Jul) |  | 4.2% | 4.7% |
 | 13:30 | USD | Moderate | Core PPI (MoM) (Jul) |  | 0.3% | 0.2% |
+| 13:30 | USD | Low | Core PPI (YoY) (Jul) |  | 4.2% | 4.7% |
 | 13:30 | USD | High | Initial Jobless Claims |  | 202K | 199K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 198.75K |
 | 13:30 | USD | High | PPI (MoM) (Jul) |  | 0.2% | -0.3% |
