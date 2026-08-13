@@ -61,8 +61,8 @@
 | 18:00 | USD | High | 30-Year Bond Auction | 5.216% |  | 5.058% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet | 6,760B |  | 6,749B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 2.947T |  | 3.002T |
-| 22:00 | KRW | Low | Export Price Index (YoY) (Jul) |  |  | 48.9% |
-| 22:00 | KRW | Low | Import Price Index (YoY) (Jul) |  |  | 20.6% |
+| 22:00 | KRW | Low | Export Price Index (YoY) (Jul) | 49.1% |  | 48.7% |
+| 22:00 | KRW | Low | Import Price Index (YoY) (Jul) | 18.7% |  | 20.9% |
 | 23:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 23:30 | NZD | Moderate | Business NZ PMI (Jul) |  |  | 59.7 |
 | 23:45 | NZD | Low | External Migration & Visitors (Jun) |  |  | 6.70% |

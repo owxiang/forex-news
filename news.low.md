@@ -37,8 +37,8 @@
 | 16:30 | USD | 4-Week Bill Auction | 3.625% |  | 3.640% |
 | 16:30 | USD | 8-Week Bill Auction | 3.665% |  | 3.710% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks | 2.947T |  | 3.002T |
-| 22:00 | KRW | Export Price Index (YoY) (Jul) |  |  | 48.9% |
-| 22:00 | KRW | Import Price Index (YoY) (Jul) |  |  | 20.6% |
+| 22:00 | KRW | Export Price Index (YoY) (Jul) | 49.1% |  | 48.7% |
+| 22:00 | KRW | Import Price Index (YoY) (Jul) | 18.7% |  | 20.9% |
 | 23:00 | USD | Fed Goolsbee Speaks |  |  |  |
 | 23:45 | NZD | External Migration & Visitors (Jun) |  |  | 6.70% |
 | 23:45 | NZD | Permanent/Long-Term Migration (Jun) |  |  | 1,860 |
