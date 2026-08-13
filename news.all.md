@@ -5,7 +5,7 @@
 | 00:50 | JPY | Low | PPI (MoM) (Jul) | 0.1% | 0.6% | 0.5% |
 | 00:50 | JPY | Low | PPI (YoY) (Jul) | 7.2% | 7.4% | 7.3% |
 | 01:15 | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
-| 04:00 | NZD | Moderate | Inflation Expectations (QoQ) (Q3) |  |  | 2.5% |
+| 04:00 | NZD | Moderate | Inflation Expectations (QoQ) (Q3) | 2.3% |  | 2.5% |
 | 07:00 | GBP | Moderate | Business Investment (QoQ) (Q2) |  | -0.3% | 0.9% |
 | 07:00 | GBP | Low | Business Investment (YoY) (Q2) |  |  | -1.3% |
 | 07:00 | GBP | Low | Construction Output (MoM) (Jun) |  | -0.3% | -0.8% |
@@ -19,7 +19,7 @@
 | 07:00 | GBP | Moderate | Industrial Production (MoM) (Jun) |  | 0.1% | -0.5% |
 | 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Jun) |  | -0.1% | 0.1% |
 | 07:00 | GBP | Low | Manufacturing Production (YoY) (Jun) |  | 1.2% | 2.3% |
-| 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Jun) |  | 0.5% | 0.7% |
+| 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Jun) |  | 0.4% | 0.7% |
 | 07:00 | GBP | Moderate | Trade Balance (Jun) |  | -20.60B | -18.66B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Jun) |  |  | -7.14B |
 | 07:00 | JPY | Low | Machine Tool Orders (YoY) (Jul) |  |  | 52.8% |

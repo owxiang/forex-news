@@ -3,11 +3,11 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:15 | AUD | RBA Assist Gov Kent Speaks |  |  |  |
-| 04:00 | NZD | Inflation Expectations (QoQ) (Q3) |  |  | 2.5% |
+| 04:00 | NZD | Inflation Expectations (QoQ) (Q3) | 2.3% |  | 2.5% |
 | 07:00 | GBP | Business Investment (QoQ) (Q2) |  | -0.3% | 0.9% |
 | 07:00 | GBP | Industrial Production (MoM) (Jun) |  | 0.1% | -0.5% |
 | 07:00 | GBP | Manufacturing Production (MoM) (Jun) |  | -0.1% | 0.1% |
-| 07:00 | GBP | Monthly GDP 3M/3M Change (Jun) |  | 0.5% | 0.7% |
+| 07:00 | GBP | Monthly GDP 3M/3M Change (Jun) |  | 0.4% | 0.7% |
 | 07:00 | GBP | Trade Balance (Jun) |  | -20.60B | -18.66B |
 | 07:00 | GBP | Trade Balance Non-EU (Jun) |  |  | -7.14B |
 | 07:30 | CHF | PPI (MoM) (Jul) |  | -0.2% | -0.3% |
