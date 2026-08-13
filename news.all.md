@@ -55,8 +55,8 @@
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Jul) | 4.7% |  | 5.0% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Jul) | 0.4% |  | 0.1% |
 | 13:40 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 39 min | GBP | Moderate | NIESR Monthly GDP Tracker (Jul) |  |  | 0.4% |
-| 15:30 | USD | Low | Natural Gas Storage |  | 31B | 33B |
+| 15:30 | USD | Low | Natural Gas Storage | 36B | 31B | 33B |
+| 16:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Jul) |  |  | 0.4% |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.640% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.710% |
 | 17:00 | EUR | Low | French Car Registration (YoY) (Jul) |  |  | 11.4% |
