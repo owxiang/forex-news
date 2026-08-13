@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:01 | GBP | Moderate | RICS House Price Balance (Jul) | -30% |  | -33% |
-| 00:50 | JPY | Low | PPI (YoY) (Jul) |  | 7.4% | 7.1% |
-| 00:50 | JPY | Low | PPI (MoM) (Jul) |  | 0.6% | 0.4% |
+| 00:50 | JPY | Low | PPI (MoM) (Jul) | 0.1% | 0.6% | 0.5% |
+| 00:50 | JPY | Low | PPI (YoY) (Jul) | 7.2% | 7.4% | 7.3% |
 | 01:15 | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
+| 04:00 | NZD | Moderate | Inflation Expectations (QoQ) (Q3) |  |  | 2.5% |
 | 07:00 | GBP | Moderate | Business Investment (QoQ) (Q2) |  | -0.3% | 0.9% |
 | 07:00 | GBP | Low | Business Investment (YoY) (Q2) |  |  | -1.3% |
 | 07:00 | GBP | Low | Construction Output (MoM) (Jun) |  | -0.3% | -0.8% |

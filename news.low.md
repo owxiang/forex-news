@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | PPI (YoY) (Jul) |  | 7.4% | 7.1% |
-| 00:50 | JPY | PPI (MoM) (Jul) |  | 0.6% | 0.4% |
+| 00:50 | JPY | PPI (MoM) (Jul) | 0.1% | 0.6% | 0.5% |
+| 00:50 | JPY | PPI (YoY) (Jul) | 7.2% | 7.4% | 7.3% |
 | 07:00 | GBP | Business Investment (YoY) (Q2) |  |  | -1.3% |
 | 07:00 | GBP | Construction Output (MoM) (Jun) |  | -0.3% | -0.8% |
 | 07:00 | GBP | U.K. Construction Output (YoY) (Jun) |  | -2.4% | -1.8% |

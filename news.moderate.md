@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | RICS House Price Balance (Jul) | -30% |  | -33% |
 | 01:15 | AUD | RBA Assist Gov Kent Speaks |  |  |  |
+| 04:00 | NZD | Inflation Expectations (QoQ) (Q3) |  |  | 2.5% |
 | 07:00 | GBP | Business Investment (QoQ) (Q2) |  | -0.3% | 0.9% |
 | 07:00 | GBP | Industrial Production (MoM) (Jun) |  | 0.1% | -0.5% |
 | 07:00 | GBP | Manufacturing Production (MoM) (Jun) |  | -0.1% | 0.1% |
