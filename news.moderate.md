@@ -15,7 +15,7 @@
 | 08:00 | EUR | Spanish HICP (YoY) (Jul) | 3.9% | 3.8% | 3.6% |
 | 09:00 | NOK | Interest Rate Decision | 4.25% | 4.25% | 4.25% |
 | 10:00 | EUR | Industrial Production (MoM) (Jun) | 0.0% | -0.1% | 0.3% |
-| 12:00 | GBP | NIESR Monthly GDP Tracker (Jul) |  |  | 0.4% |
+| 13:00 | GBP | NIESR Monthly GDP Tracker (Jul) |  |  | 0.4% |
 | 13:00 | BRL | Retail Sales (YoY) (Jun) |  | 2.4% | 0.4% |
 | 13:00 | BRL | Retail Sales (MoM) (Jun) |  | 0.3% | 0.1% |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,800K | 1,801K |

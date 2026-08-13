@@ -43,7 +43,7 @@
 | 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Aug) | 41.08 |  | 41.57 |
 | 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (Aug) | 48.47 |  | 50.64 |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (Aug) | 50.14 |  | 48.25 |
-| 12:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Jul) |  |  | 0.4% |
+| 13:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Jul) |  |  | 0.4% |
 | 13:00 | BRL | Moderate | Retail Sales (YoY) (Jun) |  | 2.4% | 0.4% |
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (Jun) |  | 0.3% | 0.1% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,800K | 1,801K |
