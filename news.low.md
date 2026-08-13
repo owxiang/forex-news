@@ -27,11 +27,11 @@
 | 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Aug) | 41.08 |  | 41.57 |
 | 11:00 | EUR | Thomson Reuters IPSOS PCSI (Aug) | 48.47 |  | 50.64 |
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (Aug) | 50.14 |  | 48.25 |
-| 13:30 | USD | Core PPI (YoY) (Jul) |  | 4.2% | 4.7% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 198.75K |
-| 13:30 | USD | PPI (YoY) (Jul) |  | 4.9% | 5.5% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Jul) |  |  | 5.1% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Jul) |  |  | 0.1% |
+| 13:30 | USD | Core PPI (YoY) (Jul) | 4.2% | 4.2% | 4.7% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 199.00K |  | 199.00K |
+| 13:30 | USD | PPI (YoY) (Jul) | 4.7% | 4.9% | 5.5% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Jul) | 4.7% |  | 5.0% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Jul) | 0.4% |  | 0.1% |
 | 13:40 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 15:30 | USD | Natural Gas Storage |  | 31B | 33B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.640% |

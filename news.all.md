@@ -43,19 +43,19 @@
 | 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Aug) | 41.08 |  | 41.57 |
 | 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (Aug) | 48.47 |  | 50.64 |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (Aug) | 50.14 |  | 48.25 |
-| 13:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Jul) |  |  | 0.4% |
-| 13:00 | BRL | Moderate | Retail Sales (YoY) (Jun) |  | 2.4% | 0.4% |
-| 13:00 | BRL | Moderate | Retail Sales (MoM) (Jun) |  | 0.3% | 0.1% |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,800K | 1,801K |
-| 13:30 | USD | Moderate | Core PPI (MoM) (Jul) |  | 0.3% | 0.2% |
-| 13:30 | USD | Low | Core PPI (YoY) (Jul) |  | 4.2% | 4.7% |
-| 13:30 | USD | High | Initial Jobless Claims |  | 202K | 199K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 198.75K |
-| 13:30 | USD | High | PPI (MoM) (Jul) |  | 0.2% | -0.3% |
-| 13:30 | USD | Low | PPI (YoY) (Jul) |  | 4.9% | 5.5% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Jul) |  |  | 5.1% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Jul) |  |  | 0.1% |
+| 13:00 | BRL | Moderate | Retail Sales (YoY) (Jun) | 2.9% | 2.4% | 0.4% |
+| 13:00 | BRL | Moderate | Retail Sales (MoM) (Jun) | 0.5% | 0.3% | 0.3% |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,777K | 1,800K | 1,799K |
+| 13:30 | USD | Moderate | Core PPI (MoM) (Jul) | 0.2% | 0.3% | 0.4% |
+| 13:30 | USD | Low | Core PPI (YoY) (Jul) | 4.2% | 4.2% | 4.7% |
+| 13:30 | USD | High | Initial Jobless Claims | 209K | 202K | 200K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 199.00K |  | 199.00K |
+| 13:30 | USD | High | PPI (MoM) (Jul) | 0.0% | 0.2% | -0.1% |
+| 13:30 | USD | Low | PPI (YoY) (Jul) | 4.7% | 4.9% | 5.5% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Jul) | 4.7% |  | 5.0% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Jul) | 0.4% |  | 0.1% |
 | 13:40 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 39 min | GBP | Moderate | NIESR Monthly GDP Tracker (Jul) |  |  | 0.4% |
 | 15:30 | USD | Low | Natural Gas Storage |  | 31B | 33B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.640% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.710% |
