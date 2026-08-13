@@ -10,13 +10,13 @@
 | 07:00 | GBP | Low | Business Investment (YoY) (Q2) | 0.8% |  | -1.3% |
 | 07:00 | GBP | Low | Construction Output (MoM) (Jun) | -0.1% | -0.3% | -0.8% |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (Jun) | -2.3% | -2.4% | -2.0% |
-| 07:00 | GBP | High | GDP (QoQ) (Q2) | 0.4% | 0.4% | 0.6% |
 | 07:00 | GBP | High | GDP (YoY) (Q2) | 1.2% | 1.1% | 0.9% |
+| 07:00 | GBP | High | GDP (QoQ) (Q2) | 0.4% | 0.4% | 0.6% |
 | 07:00 | GBP | High | GDP (MoM) (Jun) | 0.3% | 0.0% | 0.0% |
 | 07:00 | GBP | Low | GDP (YoY) (Jun) | 1.1% | 0.8% | 1.2% |
 | 07:00 | GBP | Low | Index of Services | 0.5% | 0.5% | 0.7% |
-| 07:00 | GBP | Moderate | Industrial Production (MoM) (Jun) | -0.2% | 0.1% | -0.7% |
 | 07:00 | GBP | Low | Industrial Production (YoY) (Jun) | -0.2% | 0.2% | 1.0% |
+| 07:00 | GBP | Moderate | Industrial Production (MoM) (Jun) | -0.2% | 0.1% | -0.7% |
 | 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Jun) | -0.5% | -0.1% | -0.2% |
 | 07:00 | GBP | Low | Manufacturing Production (YoY) (Jun) | 0.5% | 1.2% | 2.0% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Jun) | 0.4% | 0.4% | 0.6% |
@@ -50,8 +50,8 @@
 | 13:30 | USD | Low | Core PPI (YoY) (Jul) | 4.2% | 4.2% | 4.7% |
 | 13:30 | USD | High | Initial Jobless Claims | 209K | 202K | 200K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 199.00K |  | 199.00K |
-| 13:30 | USD | High | PPI (MoM) (Jul) | 0.0% | 0.2% | -0.1% |
 | 13:30 | USD | Low | PPI (YoY) (Jul) | 4.7% | 4.9% | 5.5% |
+| 13:30 | USD | High | PPI (MoM) (Jul) | 0.0% | 0.2% | -0.1% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Jul) | 4.7% |  | 5.0% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Jul) | 0.4% |  | 0.1% |
 | 13:40 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
@@ -59,7 +59,6 @@
 | 16:30 | USD | Low | 4-Week Bill Auction | 3.625% |  | 3.640% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 3.665% |  | 3.710% |
 | 18:00 | USD | High | 30-Year Bond Auction | 5.216% |  | 5.058% |
-| 21:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Jul) |  |  | 0.4% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,749B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.002T |
 | 22:00 | KRW | Low | Export Price Index (YoY) (Jul) |  |  | 48.9% |
