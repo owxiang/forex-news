@@ -19,6 +19,6 @@
 | 13:00 | BRL | Retail Sales (MoM) (Jun) | 0.5% | 0.3% | 0.3% |
 | 13:30 | USD | Continuing Jobless Claims | 1,777K | 1,800K | 1,799K |
 | 13:30 | USD | Core PPI (MoM) (Jul) | 0.2% | 0.3% | 0.4% |
-| 16:00 | GBP | NIESR Monthly GDP Tracker (Jul) |  |  | 0.4% |
+| 18:00 | GBP | NIESR Monthly GDP Tracker (Jul) |  |  | 0.4% |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,749B |
 | 23:30 | NZD | Business NZ PMI (Jul) |  |  | 59.7 |

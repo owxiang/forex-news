@@ -34,9 +34,8 @@
 | 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Jul) | 0.4% |  | 0.1% |
 | 13:40 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 15:30 | USD | Natural Gas Storage | 36B | 31B | 33B |
-| 16:30 | USD | 4-Week Bill Auction |  |  | 3.640% |
-| 16:30 | USD | 8-Week Bill Auction |  |  | 3.710% |
-| 17:00 | EUR | French Car Registration (YoY) (Jul) |  |  | 11.4% |
+| 16:30 | USD | 4-Week Bill Auction | 3.625% |  | 3.640% |
+| 16:30 | USD | 8-Week Bill Auction | 3.665% |  | 3.710% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.002T |
 | 22:00 | KRW | Export Price Index (YoY) (Jul) |  |  | 48.9% |
 | 22:00 | KRW | Import Price Index (YoY) (Jul) |  |  | 20.6% |

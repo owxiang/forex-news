@@ -56,10 +56,9 @@
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Jul) | 0.4% |  | 0.1% |
 | 13:40 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage | 36B | 31B | 33B |
-| 16:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Jul) |  |  | 0.4% |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.640% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.710% |
-| 17:00 | EUR | Low | French Car Registration (YoY) (Jul) |  |  | 11.4% |
+| 16:30 | USD | Low | 4-Week Bill Auction | 3.625% |  | 3.640% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 3.665% |  | 3.710% |
+| 18:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Jul) |  |  | 0.4% |
 | 18:00 | USD | High | 30-Year Bond Auction |  |  | 5.058% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,749B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.002T |
