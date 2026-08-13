@@ -25,25 +25,24 @@
 | 07:30 | CHF | Moderate | PPI (MoM) (Jul) | -0.1% | -0.2% | -0.3% |
 | 07:30 | CHF | Low | PPI (YoY) (Jul) | -2.1% |  | -2.1% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Jul) | 3.0% | 3.0% | 2.9% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jul) | 3.6% | 3.5% | 3.2% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Jul) | 0.3% | 0.2% | 0.6% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jul) | 3.6% | 3.5% | 3.2% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Jul) | 0.0% | -0.1% | 0.6% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jul) | 3.9% | 3.8% | 3.6% |
 | 09:00 | NOK | Moderate | Interest Rate Decision | 4.25% | 4.25% | 4.25% |
-| 10:00 | CNY | Low | M2 Money Stock (YoY) (Jul) |  | 7.9% | 8.0% |
-| 10:00 | CNY | Moderate | New Loans (Jul) |  | -50.0B | 1,610.0B |
-| 10:00 | CNY | Low | Outstanding Loan Growth (YoY) (Jul) |  | 5.3% | 5.3% |
-| 10:00 | CNY | Low | Chinese Total Social Financing (Jul) |  | 1,220.0B | 3,360.0B |
-| 10:00 | EUR | Moderate | Industrial Production (MoM) (Jun) |  | -0.1% | -0.2% |
-| 10:00 | EUR | Low | Industrial Production (YoY) (Jun) |  | -0.8% | -1.2% |
-| 10:30 | ZAR | Low | Gold Production (YoY) (Jun) |  |  | -4.3% |
-| 10:30 | ZAR | Low | Mining Production (Jun) |  |  | -5.4% |
-| 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Aug) |  |  | 46.2 |
-| 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Aug) |  |  | 45.85 |
-| 11:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Aug) |  |  | 42.28 |
-| 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Aug) |  |  | 41.57 |
-| 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (Aug) |  |  | 50.64 |
-| 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (Aug) |  |  | 48.25 |
+| 10:00 | INR | Low | Exports (USD) (Jul) | 44.24B |  | 40.41B |
+| 10:00 | INR | Low | Imports (USD) (Jul) | 76.22B |  | 70.84B |
+| 10:00 | INR | Low | Trade Balance (Jul) | -31.98B | -30.20B | -30.43B |
+| 10:00 | EUR | Moderate | Industrial Production (MoM) (Jun) | 0.0% | -0.1% | 0.3% |
+| 10:00 | EUR | Low | Industrial Production (YoY) (Jun) | 0.1% | -0.8% | -0.1% |
+| 10:30 | ZAR | Low | Gold Production (YoY) (Jun) | 6.2% |  | -4.4% |
+| 10:30 | ZAR | Low | Mining Production (Jun) | -4.0% |  | -5.1% |
+| 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Aug) | 47.1 |  | 46.2 |
+| 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Aug) | 44.33 |  | 45.85 |
+| 11:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Aug) | 42.13 |  | 42.28 |
+| 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Aug) | 41.08 |  | 41.57 |
+| 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (Aug) | 48.47 |  | 50.64 |
+| 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (Aug) | 50.14 |  | 48.25 |
 | 12:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Jul) |  |  | 0.4% |
 | 13:00 | BRL | Moderate | Retail Sales (YoY) (Jun) |  | 2.4% | 0.4% |
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (Jun) |  | 0.3% | 0.1% |

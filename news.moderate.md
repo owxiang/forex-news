@@ -14,8 +14,7 @@
 | 08:00 | EUR | Spanish CPI (YoY) (Jul) | 3.6% | 3.5% | 3.2% |
 | 08:00 | EUR | Spanish HICP (YoY) (Jul) | 3.9% | 3.8% | 3.6% |
 | 09:00 | NOK | Interest Rate Decision | 4.25% | 4.25% | 4.25% |
-| 10:00 | CNY | New Loans (Jul) |  | -50.0B | 1,610.0B |
-| 10:00 | EUR | Industrial Production (MoM) (Jun) |  | -0.1% | -0.2% |
+| 10:00 | EUR | Industrial Production (MoM) (Jun) | 0.0% | -0.1% | 0.3% |
 | 12:00 | GBP | NIESR Monthly GDP Tracker (Jul) |  |  | 0.4% |
 | 13:00 | BRL | Retail Sales (YoY) (Jun) |  | 2.4% | 0.4% |
 | 13:00 | BRL | Retail Sales (MoM) (Jun) |  | 0.3% | 0.1% |

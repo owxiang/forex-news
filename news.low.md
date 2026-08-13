@@ -15,18 +15,18 @@
 | 08:00 | EUR | Core CPI (YoY) (Jul) | 3.0% | 3.0% | 2.9% |
 | 08:00 | EUR | Spanish CPI (MoM) (Jul) | 0.3% | 0.2% | 0.6% |
 | 08:00 | EUR | Spanish HICP (MoM) (Jul) | 0.0% | -0.1% | 0.6% |
-| 10:00 | CNY | M2 Money Stock (YoY) (Jul) |  | 7.9% | 8.0% |
-| 10:00 | CNY | Outstanding Loan Growth (YoY) (Jul) |  | 5.3% | 5.3% |
-| 10:00 | CNY | Chinese Total Social Financing (Jul) |  | 1,220.0B | 3,360.0B |
-| 10:00 | EUR | Industrial Production (YoY) (Jun) |  | -0.8% | -1.2% |
-| 10:30 | ZAR | Gold Production (YoY) (Jun) |  |  | -4.3% |
-| 10:30 | ZAR | Mining Production (Jun) |  |  | -5.4% |
-| 11:00 | GBP | Thomson Reuters IPSOS PCSI (Aug) |  |  | 46.2 |
-| 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Aug) |  |  | 45.85 |
-| 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Aug) |  |  | 42.28 |
-| 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Aug) |  |  | 41.57 |
-| 11:00 | EUR | Thomson Reuters IPSOS PCSI (Aug) |  |  | 50.64 |
-| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (Aug) |  |  | 48.25 |
+| 10:00 | INR | Exports (USD) (Jul) | 44.24B |  | 40.41B |
+| 10:00 | INR | Imports (USD) (Jul) | 76.22B |  | 70.84B |
+| 10:00 | INR | Trade Balance (Jul) | -31.98B | -30.20B | -30.43B |
+| 10:00 | EUR | Industrial Production (YoY) (Jun) | 0.1% | -0.8% | -0.1% |
+| 10:30 | ZAR | Gold Production (YoY) (Jun) | 6.2% |  | -4.4% |
+| 10:30 | ZAR | Mining Production (Jun) | -4.0% |  | -5.1% |
+| 11:00 | GBP | Thomson Reuters IPSOS PCSI (Aug) | 47.1 |  | 46.2 |
+| 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Aug) | 44.33 |  | 45.85 |
+| 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Aug) | 42.13 |  | 42.28 |
+| 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Aug) | 41.08 |  | 41.57 |
+| 11:00 | EUR | Thomson Reuters IPSOS PCSI (Aug) | 48.47 |  | 50.64 |
+| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (Aug) | 50.14 |  | 48.25 |
 | 13:30 | USD | Core PPI (YoY) (Jul) |  | 4.2% | 4.7% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 198.75K |
 | 13:30 | USD | PPI (YoY) (Jul) |  | 4.9% | 5.5% |
