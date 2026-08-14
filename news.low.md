@@ -12,8 +12,8 @@
 | 03:00 | CNY | China Thomson Reuters IPSOS PCSI (Aug) | 74.79 |  | 72.84 |
 | 04:00 | KRW | M3 Money Supply (Jun) | 6,362.4B |  | 6,314.4B |
 | 04:00 | KRW | M2 Money supply (Jun) | 9.40% |  | 9.20% |
-| 07:00 | EUR | German WPI (MoM) (Jul) |  | -0.2% | -0.7% |
-| 07:00 | EUR | German WPI (YoY) (Jul) |  |  | 4.9% |
+| 07:00 | EUR | German WPI (MoM) (Jul) | 0.2% | -0.2% | -0.7% |
+| 07:00 | EUR | German WPI (YoY) (Jul) | 5.3% |  | 4.9% |
 | 07:30 | INR | WPI Food (YoY) (Jul) |  |  | 5.49% |
 | 07:30 | INR | WPI Fuel (YoY) (Jul) |  |  | 27.41% |
 | 07:30 | INR | WPI Manufacturing Inflation (YoY) (Jul) |  |  | 7.48% |
