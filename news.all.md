@@ -59,10 +59,10 @@
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Aug) | 50.6 | 55.2 | 55.4 |
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Aug) | 51.0 | 54.7 | 55.2 |
 | 15:00 | USD | Low | Michigan Current Conditions (Aug) | 51.8 | 55.0 | 54.8 |
-| 15:00 | USD | Moderate | Retail Inventories Ex Auto (Jun) | -0.4% |  | -0.2% |
+| 15:00 | USD | Moderate | Retail Inventories Ex Auto (Jun) | -0.4% |  | 0.7% |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 4.3% | 5.8% | 5.8% |
-| 2 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 454 |
-| 2 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 588 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 455 |  | 454 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 593 |  | 588 |
 | 20:00 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -57.8K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -0.9K |
