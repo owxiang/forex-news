@@ -35,15 +35,14 @@
 | 09:30 | HKD | Low | GDP (QoQ) (Q2) | -0.6% | -0.6% | -0.6% |
 | 10:00 | EUR | Low | Employment Change (QoQ) (Q2) | 0.1% | 0.1% | 0.1% |
 | 10:00 | EUR | Low | Employment Change (YoY) (Q2) | 0.5% | 0.6% | 0.5% |
-| 10:00 | EUR | Low | Employment Overall (Q2) | 176,577.0K |  | 176,308.0K |
+| 10:00 | EUR | Low | Employment Overall (Q2) | 176,577.2K |  | 176,382.2K |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q2) | 0.4% | 0.4% | 0.0% |
 | 10:00 | EUR | Moderate | GDP (YoY) (Q2) | 1.0% | 1.0% | 0.5% |
 | 10:00 | EUR | Moderate | Trade Balance (Jun) | 8.6B | -2.2B | -9.0B |
-| 11:00 | EUR | Low | Reserve Assets Total (Jul) | 1,752.50B |  | 1,755.45B |
-| 12:00 | ZAR | Low | Business Confidence (Jun) |  |  | 124.1 |
-| 12:30 | INR | Low | Bank Loan Growth |  |  | 17.7% |
-| 12:30 | INR | Low | Deposit Growth |  |  | 12.7% |
-| 12:30 | INR | Low | FX Reserves, USD |  |  | 692.87B |
+| 11:00 | EUR | Low | Reserve Assets Total (Jul) | 1,752.50B |  | 1,755.42B |
+| 12:30 | INR | Low | Bank Loan Growth | 19.3% |  | 17.7% |
+| 12:30 | INR | Low | Deposit Growth | 15.4% |  | 12.7% |
+| 12:30 | INR | Low | FX Reserves, USD | 707.00B |  | 692.87B |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Jul) |  | 0.2% | -0.2% |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Jul) |  | 0.3% | 0.5% |
 | 13:30 | USD | High | Retail Sales (MoM) (Jul) |  | 0.1% | 0.2% |
