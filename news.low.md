@@ -41,14 +41,14 @@
 | 13:30 | CAD | Capacity Utilization Rate (Jun) | 82.3% |  | 82.5% |
 | 13:30 | CAD | Manufacturing Sales (MoM) (Jun) | 0.1% | -0.1% | 1.6% |
 | 15:00 | USD | Michigan Current Conditions (Aug) | 51.8 | 55.0 | 54.8 |
-| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -0.9K |
-| 20:30 | USD | CFTC Copper speculative net positions |  |  | 77.1K |
-| 20:30 | USD | CFTC Corn speculative net positions |  |  | 255.1K |
-| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -197.5K |
-| 20:30 | USD | CFTC Silver speculative net positions |  |  | 22.3K |
-| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 175.5K |
-| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -14.8K |
-| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -179.1K |
-| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 76.5K |
-| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -32.8K |
-| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -41.2K |
+| 20:30 | USD | CFTC Aluminium speculative net positions | -0.8K |  | -0.9K |
+| 20:30 | USD | CFTC Copper speculative net positions | 80.4K |  | 77.1K |
+| 20:30 | USD | CFTC Corn speculative net positions | 244.9K |  | 255.1K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions | -197.1K |  | -197.5K |
+| 20:30 | USD | CFTC Silver speculative net positions | 23.6K |  | 22.3K |
+| 20:30 | USD | CFTC Soybeans speculative net positions | 159.9K |  | 175.5K |
+| 20:30 | USD | CFTC Wheat speculative net positions | -24.9K |  | -14.8K |
+| 20:30 | CAD | CFTC CAD speculative net positions | -173.4K |  | -179.1K |
+| 20:30 | MXN | CFTC MXN speculative net positions | 83.7K |  | 76.5K |
+| 20:30 | CHF | CFTC CHF speculative net positions | -32.5K |  | -32.8K |
+| 20:30 | NZD | CFTC NZD speculative net positions | -39.6K |  | -41.2K |
