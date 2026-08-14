@@ -1,54 +1,8 @@
-## 14 August 2026 - Low Impact Forex News
+## 15 August 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | RBA Gov Bullock Speaks |  |  |  |
-| 00:50 | JPY | Foreign Bonds Buying | 1,629.4B |  | 477.9B |
-| 00:50 | JPY | Foreign Investments in Japanese Stocks | -368.5B |  | -392.5B |
-| 03:00 | KRW | Thomson Reuters IPSOS PCSI (Aug) | 44.52 |  | 45.48 |
-| 03:00 | INR | Thomson Reuters IPSOS PCSI (Aug) | 65.26 |  | 67.08 |
-| 03:00 | AUD | Thomson Reuters IPSOS PCSI (Aug) | 48.79 |  | 48.18 |
-| 03:00 | JPY | Thomson Reuters IPSOS PCSI (Aug) | 39.94 |  | 39.75 |
-| 03:00 | CNY | China Thomson Reuters IPSOS PCSI (Aug) | 74.79 |  | 72.84 |
-| 04:00 | KRW | M3 Money Supply (Jun) | 6,362.4B |  | 6,314.4B |
-| 04:00 | KRW | M2 Money supply (Jun) | 9.40% |  | 9.20% |
-| 07:00 | EUR | German WPI (MoM) (Jul) | 0.2% | -0.2% | -0.7% |
-| 07:00 | EUR | German WPI (YoY) (Jul) | 5.3% |  | 4.9% |
-| 07:30 | INR | WPI Food (YoY) (Jul) | 5.44% |  | 5.49% |
-| 07:30 | INR | WPI Fuel (YoY) (Jul) | 20.05% |  | 27.41% |
-| 07:30 | INR | WPI Manufacturing Inflation (YoY) (Jul) | 8.29% |  | 7.48% |
-| 07:45 | EUR | French CPI NSA (YoY) (Jul) | 2.10% |  | 2.10% |
-| 07:45 | EUR | French CPI NSA (MoM) (Jul) | 0.60% |  | 0.60% |
-| 07:45 | EUR | French CPI (YoY) (Jul) | 2.1% | 2.1% | 1.8% |
-| 07:45 | EUR | French HICP (YoY) (Jul) | 2.4% | 2.4% | 2.0% |
-| 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Jul) | 2.10% |  | 1.70% |
-| 09:00 | CNY | M2 Money Stock (YoY) (Jul) | 7.7% | 7.9% | 8.0% |
-| 09:00 | CNY | Outstanding Loan Growth (YoY) (Jul) | 5.1% | 5.3% | 5.3% |
-| 09:00 | CNY | Chinese Total Social Financing (Jul) | 1,410.0B | 1,200.0B | 3,360.0B |
-| 09:30 | HKD | GDP (QoQ) (Q2) | -0.6% | -0.6% | -0.6% |
-| 09:30 | HKD | GDP (YoY) (Q2) | 4.3% | 4.3% | 4.3% |
-| 10:00 | EUR | Employment Change (QoQ) (Q2) | 0.1% | 0.1% | 0.1% |
-| 10:00 | EUR | Employment Change (YoY) (Q2) | 0.5% | 0.6% | 0.5% |
-| 10:00 | EUR | Employment Overall (Q2) | 176,577.2K |  | 176,382.2K |
-| 11:00 | EUR | Reserve Assets Total (Jul) | 1,752.50B |  | 1,755.42B |
-| 12:30 | INR | Balance of Payments (USD) (Q2) | -8.100B |  | 7.200B |
-| 12:30 | INR | Bank Loan Growth | 19.3% |  | 17.7% |
-| 12:30 | INR | Current Account (USD) (Q2) | -3.10B |  | 7.10B |
-| 12:30 | INR | Deposit Growth | 15.4% |  | 12.7% |
-| 12:30 | INR | FX Reserves, USD | 707.00B |  | 692.87B |
-| 13:30 | USD | Retail Sales (YoY) (Jul) | 5.01% |  | 6.75% |
-| 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Jul) | -0.2% |  | 0.4% |
-| 13:30 | CAD | Capacity Utilization Rate (Jun) | 82.3% |  | 82.5% |
-| 13:30 | CAD | Manufacturing Sales (MoM) (Jun) | 0.1% | -0.1% | 1.6% |
-| 15:00 | USD | Michigan Current Conditions (Aug) | 51.8 | 55.0 | 54.8 |
-| 20:30 | USD | CFTC Aluminium speculative net positions | -0.8K |  | -0.9K |
-| 20:30 | USD | CFTC Copper speculative net positions | 80.4K |  | 77.1K |
-| 20:30 | USD | CFTC Corn speculative net positions | 244.9K |  | 255.1K |
-| 20:30 | USD | CFTC Natural Gas speculative net positions | -197.1K |  | -197.5K |
-| 20:30 | USD | CFTC Silver speculative net positions | 23.6K |  | 22.3K |
-| 20:30 | USD | CFTC Soybeans speculative net positions | 159.9K |  | 175.5K |
-| 20:30 | USD | CFTC Wheat speculative net positions | -24.9K |  | -14.8K |
-| 20:30 | CAD | CFTC CAD speculative net positions | -173.4K |  | -179.1K |
-| 20:30 | MXN | CFTC MXN speculative net positions | 83.7K |  | 76.5K |
-| 20:30 | CHF | CFTC CHF speculative net positions | -32.5K |  | -32.8K |
-| 20:30 | NZD | CFTC NZD speculative net positions | -39.6K |  | -41.2K |
+| 01:00 | KRW | Exports (YoY) (Jul) |  | 62.8% | 62.8% |
+| 01:00 | KRW | Imports (YoY) (Jul) |  | 26.5% | 26.5% |
+| 01:00 | KRW | Trade Balance (Jul) |  | 30.32B | 30.32B |
+| 17:00 | EUR | French Car Registration (YoY) (Jul) |  |  | 11.4% |
