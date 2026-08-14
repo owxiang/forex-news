@@ -19,29 +19,30 @@
 | 07:30 | INR | Low | WPI Fuel (YoY) (Jul) | 20.05% |  | 27.41% |
 | 07:30 | INR | Moderate | WPI Inflation (YoY) (Jul) | 9.78% | 9.95% | 9.87% |
 | 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Jul) | 8.29% |  | 7.48% |
-| 07:45 | EUR | Low | French CPI NSA (MoM) (Jul) | 0.60% |  | 0.60% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Jul) | 2.10% |  | 2.10% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Jul) | 0.6% | 0.6% | -0.3% |
+| 07:45 | EUR | Low | French CPI NSA (MoM) (Jul) | 0.60% |  | 0.60% |
 | 07:45 | EUR | Low | French CPI (YoY) (Jul) | 2.1% | 2.1% | 1.8% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Jul) | 0.6% | 0.6% | -0.3% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Jul) | 0.6% | 0.6% | -0.3% |
 | 07:45 | EUR | Low | French HICP (YoY) (Jul) | 2.4% | 2.4% | 2.0% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Jul) | 0.6% | 0.6% | -0.3% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Jul) | 2.10% |  | 1.70% |
 | 08:00 | CHF | Moderate | GDP (QoQ) (Q2) | 1.5% |  | 0.7% |
-| 11 min | HKD | Low | GDP (QoQ) (Q2) |  | -0.6% | -0.6% |
-| 11 min | HKD | Low | GDP (YoY) (Q2) |  | 4.3% | 4.3% |
-| 41 min | EUR | Low | Employment Change (QoQ) (Q2) |  | 0.1% | 0.1% |
-| 41 min | EUR | Low | Employment Change (YoY) (Q2) |  |  | 0.5% |
-| 41 min | EUR | Low | Employment Overall (Q2) |  |  | 176,308.0K |
-| 41 min | EUR | Moderate | GDP (YoY) (Q2) |  | 1.0% | 0.3% |
-| 41 min | EUR | Moderate | GDP (QoQ) (Q2) |  | 0.4% | -0.2% |
-| 41 min | EUR | Moderate | Trade Balance (Jun) |  | -2.2B | -7.8B |
-| 11:00 | CNY | Low | M2 Money Stock (YoY) (Jul) |  | 7.9% | 8.0% |
-| 11:00 | CNY | Moderate | New Loans (Jul) |  | -50.0B | 1,610.0B |
-| 11:00 | CNY | Low | Outstanding Loan Growth (YoY) (Jul) |  | 5.3% | 5.3% |
-| 11:00 | CNY | Low | Chinese Total Social Financing (Jul) |  | 1,200.0B | 3,360.0B |
-| 11:00 | EUR | Low | Reserve Assets Total (Jul) |  |  | 1,755.45B |
-| 12:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Jul) |  |  | 0.4% |
+| 09:00 | CNY | Low | M2 Money Stock (YoY) (Jul) | 7.7% | 7.9% | 8.0% |
+| 09:00 | CNY | Moderate | New Loans (Jul) | -340.0B | -50.0B | 1,610.0B |
+| 09:00 | CNY | Low | Outstanding Loan Growth (YoY) (Jul) | 5.1% | 5.3% | 5.3% |
+| 09:00 | CNY | Low | Chinese Total Social Financing (Jul) | 1,410.0B | 1,200.0B | 3,360.0B |
+| 09:30 | HKD | Low | GDP (YoY) (Q2) | 4.3% | 4.3% | 4.3% |
+| 09:30 | HKD | Low | GDP (QoQ) (Q2) | -0.6% | -0.6% | -0.6% |
+| 10:00 | EUR | Low | Employment Change (QoQ) (Q2) | 0.1% | 0.1% | 0.1% |
+| 10:00 | EUR | Low | Employment Change (YoY) (Q2) | 0.5% | 0.6% | 0.5% |
+| 10:00 | EUR | Low | Employment Overall (Q2) | 176,577.0K |  | 176,308.0K |
+| 10:00 | EUR | Moderate | GDP (QoQ) (Q2) | 0.4% | 0.4% | 0.0% |
+| 10:00 | EUR | Moderate | GDP (YoY) (Q2) | 1.0% | 1.0% | 0.5% |
+| 10:00 | EUR | Moderate | Trade Balance (Jun) | 8.6B | -2.2B | -9.0B |
+| 11:00 | EUR | Low | Reserve Assets Total (Jul) | 1,752.50B |  | 1,755.45B |
 | 12:00 | ZAR | Low | Business Confidence (Jun) |  |  | 124.1 |
+| 12:30 | INR | Low | Bank Loan Growth |  |  | 17.7% |
+| 12:30 | INR | Low | Deposit Growth |  |  | 12.7% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 692.87B |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Jul) |  | 0.2% | -0.2% |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Jul) |  | 0.3% | 0.5% |

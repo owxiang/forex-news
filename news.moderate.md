@@ -7,11 +7,10 @@
 | 07:45 | EUR | French CPI (MoM) (Jul) | 0.6% | 0.6% | -0.3% |
 | 07:45 | EUR | French HICP (MoM) (Jul) | 0.6% | 0.6% | -0.3% |
 | 08:00 | CHF | GDP (QoQ) (Q2) | 1.5% |  | 0.7% |
-| 41 min | EUR | GDP (YoY) (Q2) |  | 1.0% | 0.3% |
-| 41 min | EUR | GDP (QoQ) (Q2) |  | 0.4% | -0.2% |
-| 41 min | EUR | Trade Balance (Jun) |  | -2.2B | -7.8B |
-| 11:00 | CNY | New Loans (Jul) |  | -50.0B | 1,610.0B |
-| 12:00 | GBP | NIESR Monthly GDP Tracker (Jul) |  |  | 0.4% |
+| 09:00 | CNY | New Loans (Jul) | -340.0B | -50.0B | 1,610.0B |
+| 10:00 | EUR | GDP (QoQ) (Q2) | 0.4% | 0.4% | 0.0% |
+| 10:00 | EUR | GDP (YoY) (Q2) | 1.0% | 1.0% | 0.5% |
+| 10:00 | EUR | Trade Balance (Jun) | 8.6B | -2.2B | -9.0B |
 | 13:30 | USD | Retail Control (MoM) (Jul) |  | 0.3% | 0.5% |
 | 13:30 | CAD | Wholesale Sales (MoM) (Jun) |  | 2.7% | 0.0% |
 | 15:00 | USD | Business Inventories (MoM) (Jun) |  | 0.2% | 0.3% |
