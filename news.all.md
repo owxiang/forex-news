@@ -11,40 +11,40 @@
 | 03:00 | AUD | Low | Thomson Reuters IPSOS PCSI (Aug) | 48.79 |  | 48.18 |
 | 03:00 | JPY | Low | Thomson Reuters IPSOS PCSI (Aug) | 39.94 |  | 39.75 |
 | 03:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Aug) | 74.79 |  | 72.84 |
-| 04:00 | KRW | Low | M3 Money Supply (Jun) |  |  | 6,314.5B |
-| 04:00 | KRW | Low | M2 Money supply (Jun) |  |  | 9.20% |
-| 04:30 | GBP | Moderate | NIESR Monthly GDP Tracker (Jul) |  |  | 0.4% |
+| 04:00 | KRW | Low | M3 Money Supply (Jun) | 6,362.4B |  | 6,314.4B |
+| 04:00 | KRW | Low | M2 Money supply (Jun) | 9.40% |  | 9.20% |
 | 07:00 | EUR | Low | German WPI (MoM) (Jul) |  | -0.2% | -0.7% |
 | 07:00 | EUR | Low | German WPI (YoY) (Jul) |  |  | 4.9% |
 | 07:30 | INR | Low | WPI Food (YoY) (Jul) |  |  | 5.49% |
 | 07:30 | INR | Low | WPI Fuel (YoY) (Jul) |  |  | 27.41% |
-| 07:30 | INR | Moderate | WPI Inflation (YoY) (Jul) |  | 10.25% | 9.87% |
+| 07:30 | INR | Moderate | WPI Inflation (YoY) (Jul) |  | 9.95% | 9.87% |
 | 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Jul) |  |  | 7.48% |
-| 07:45 | EUR | Low | French CPI NSA (YoY) (Jul) |  |  | 2.10% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Jul) |  |  | 0.60% |
-| 07:45 | EUR | Low | French CPI (YoY) (Jul) |  | 2.1% | 1.8% |
+| 07:45 | EUR | Low | French CPI NSA (YoY) (Jul) |  |  | 2.10% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Jul) |  | 0.6% | -0.3% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Jul) |  | 0.6% | 0.6% |
-| 07:45 | EUR | Low | French HICP (YoY) (Jul) |  | 2.4% | 2.4% |
+| 07:45 | EUR | Low | French CPI (YoY) (Jul) |  | 2.1% | 1.8% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Jul) |  | 0.6% | -0.3% |
+| 07:45 | EUR | Low | French HICP (YoY) (Jul) |  | 2.4% | 2.0% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Jul) |  |  | 1.70% |
 | 08:00 | CHF | Moderate | GDP (QoQ) (Q2) |  |  | 0.7% |
 | 09:30 | HKD | Low | GDP (QoQ) (Q2) |  | -0.6% | -0.6% |
 | 09:30 | HKD | Low | GDP (YoY) (Q2) |  | 4.3% | 4.3% |
-| 10:00 | EUR | Low | Employment Change (YoY) (Q2) |  |  | 0.5% |
 | 10:00 | EUR | Low | Employment Change (QoQ) (Q2) |  | 0.1% | 0.1% |
+| 10:00 | EUR | Low | Employment Change (YoY) (Q2) |  |  | 0.5% |
 | 10:00 | EUR | Low | Employment Overall (Q2) |  |  | 176,308.0K |
-| 10:00 | EUR | Moderate | GDP (QoQ) (Q2) |  | 0.4% | 0.4% |
-| 10:00 | EUR | Moderate | GDP (YoY) (Q2) |  | 1.0% | 1.0% |
+| 10:00 | EUR | Moderate | GDP (YoY) (Q2) |  | 1.0% | 0.3% |
+| 10:00 | EUR | Moderate | GDP (QoQ) (Q2) |  | 0.4% | -0.2% |
 | 10:00 | EUR | Moderate | Trade Balance (Jun) |  | -2.2B | -7.8B |
 | 11:00 | CNY | Low | M2 Money Stock (YoY) (Jul) |  | 7.9% | 8.0% |
 | 11:00 | CNY | Moderate | New Loans (Jul) |  | -50.0B | 1,610.0B |
 | 11:00 | CNY | Low | Outstanding Loan Growth (YoY) (Jul) |  | 5.3% | 5.3% |
-| 11:00 | CNY | Low | Chinese Total Social Financing (Jul) |  | 1,220.0B | 3,360.0B |
+| 11:00 | CNY | Low | Chinese Total Social Financing (Jul) |  | 1,200.0B | 3,360.0B |
 | 11:00 | EUR | Low | Reserve Assets Total (Jul) |  |  | 1,755.45B |
+| 12:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Jul) |  |  | 0.4% |
 | 12:00 | ZAR | Low | Business Confidence (Jun) |  |  | 124.1 |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 692.87B |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Jul) |  | 0.2% | -0.2% |
-| 13:30 | USD | Moderate | Retail Control (MoM) (Jul) |  |  | 0.5% |
+| 13:30 | USD | Moderate | Retail Control (MoM) (Jul) |  | 0.3% | 0.5% |
 | 13:30 | USD | High | Retail Sales (MoM) (Jul) |  | 0.1% | 0.2% |
 | 13:30 | USD | Low | Retail Sales (YoY) (Jul) |  |  | 6.72% |
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Jul) |  |  | 0.4% |
@@ -55,9 +55,9 @@
 | 15:00 | USD | Moderate | Business Inventories (MoM) (Jun) |  | 0.2% | 0.3% |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Aug) |  |  | 4.2% |
 | 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Aug) |  |  | 3.3% |
-| 15:00 | USD | Moderate | Michigan Consumer Expectations (Aug) |  |  | 55.4 |
+| 15:00 | USD | Moderate | Michigan Consumer Expectations (Aug) |  | 55.2 | 55.4 |
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Aug) |  | 54.4 | 55.2 |
-| 15:00 | USD | Low | Michigan Current Conditions (Aug) |  |  | 54.8 |
+| 15:00 | USD | Low | Michigan Current Conditions (Aug) |  | 55.0 | 54.8 |
 | 15:00 | USD | Moderate | Retail Inventories Ex Auto (Jun) |  |  | -0.2% |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 5.8% | 5.8% |
 | 17:00 | EUR | Low | French Car Registration (YoY) (Jul) |  |  | 11.4% |

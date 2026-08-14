@@ -3,21 +3,21 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:30 | AUD | Home Loans (MoM) (Q2) | -1.9% |  | -3.5% |
-| 04:30 | GBP | NIESR Monthly GDP Tracker (Jul) |  |  | 0.4% |
-| 07:30 | INR | WPI Inflation (YoY) (Jul) |  | 10.25% | 9.87% |
+| 07:30 | INR | WPI Inflation (YoY) (Jul) |  | 9.95% | 9.87% |
 | 07:45 | EUR | French CPI (MoM) (Jul) |  | 0.6% | -0.3% |
-| 07:45 | EUR | French HICP (MoM) (Jul) |  | 0.6% | 0.6% |
+| 07:45 | EUR | French HICP (MoM) (Jul) |  | 0.6% | -0.3% |
 | 08:00 | CHF | GDP (QoQ) (Q2) |  |  | 0.7% |
-| 10:00 | EUR | GDP (QoQ) (Q2) |  | 0.4% | 0.4% |
-| 10:00 | EUR | GDP (YoY) (Q2) |  | 1.0% | 1.0% |
+| 10:00 | EUR | GDP (YoY) (Q2) |  | 1.0% | 0.3% |
+| 10:00 | EUR | GDP (QoQ) (Q2) |  | 0.4% | -0.2% |
 | 10:00 | EUR | Trade Balance (Jun) |  | -2.2B | -7.8B |
 | 11:00 | CNY | New Loans (Jul) |  | -50.0B | 1,610.0B |
-| 13:30 | USD | Retail Control (MoM) (Jul) |  |  | 0.5% |
+| 12:00 | GBP | NIESR Monthly GDP Tracker (Jul) |  |  | 0.4% |
+| 13:30 | USD | Retail Control (MoM) (Jul) |  | 0.3% | 0.5% |
 | 13:30 | CAD | Wholesale Sales (MoM) (Jun) |  | 2.7% | 0.0% |
 | 15:00 | USD | Business Inventories (MoM) (Jun) |  | 0.2% | 0.3% |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Aug) |  |  | 4.2% |
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Aug) |  |  | 3.3% |
-| 15:00 | USD | Michigan Consumer Expectations (Aug) |  |  | 55.4 |
+| 15:00 | USD | Michigan Consumer Expectations (Aug) |  | 55.2 | 55.4 |
 | 15:00 | USD | Michigan Consumer Sentiment (Aug) |  | 54.4 | 55.2 |
 | 15:00 | USD | Retail Inventories Ex Auto (Jun) |  |  | -0.2% |
 | 16:30 | USD | Atlanta Fed GDPNow (Q3) |  | 5.8% | 5.8% |
