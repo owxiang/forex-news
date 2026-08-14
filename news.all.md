@@ -19,10 +19,10 @@
 | 07:30 | INR | Low | WPI Fuel (YoY) (Jul) | 20.05% |  | 27.41% |
 | 07:30 | INR | Moderate | WPI Inflation (YoY) (Jul) | 9.78% | 9.95% | 9.87% |
 | 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Jul) | 8.29% |  | 7.48% |
-| 07:45 | EUR | Low | French CPI NSA (MoM) (Jul) | 0.60% |  | 0.60% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Jul) | 2.10% |  | 2.10% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Jul) | 0.6% | 0.6% | -0.3% |
+| 07:45 | EUR | Low | French CPI NSA (MoM) (Jul) | 0.60% |  | 0.60% |
 | 07:45 | EUR | Low | French CPI (YoY) (Jul) | 2.1% | 2.1% | 1.8% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Jul) | 0.6% | 0.6% | -0.3% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Jul) | 0.6% | 0.6% | -0.3% |
 | 07:45 | EUR | Low | French HICP (YoY) (Jul) | 2.4% | 2.4% | 2.0% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Jul) | 2.10% |  | 1.70% |
@@ -60,9 +60,10 @@
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Aug) | 51.0 | 54.7 | 55.2 |
 | 15:00 | USD | Low | Michigan Current Conditions (Aug) | 51.8 | 55.0 | 54.8 |
 | 15:00 | USD | Moderate | Retail Inventories Ex Auto (Jun) | -0.4% |  | -0.2% |
-| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 5.8% | 5.8% |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 454 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 588 |
+| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 4.3% | 5.8% | 5.8% |
+| 2 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 454 |
+| 2 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 588 |
+| 20:00 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -57.8K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -0.9K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 77.1K |
