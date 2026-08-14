@@ -13,12 +13,12 @@
 | 10:00 | EUR | Trade Balance (Jun) | 8.6B | -2.2B | -9.0B |
 | 13:30 | USD | Retail Control (MoM) (Jul) | -0.4% | 0.3% | 0.4% |
 | 13:30 | CAD | Wholesale Sales (MoM) (Jun) | 2.8% | 2.7% | -0.3% |
-| 15:00 | USD | Business Inventories (MoM) (Jun) |  | 0.2% | 0.3% |
-| 15:00 | USD | Michigan 1-Year Inflation Expectations (Aug) |  |  | 4.2% |
-| 15:00 | USD | Michigan 5-Year Inflation Expectations (Aug) |  |  | 3.3% |
-| 15:00 | USD | Michigan Consumer Expectations (Aug) |  | 55.2 | 55.4 |
-| 15:00 | USD | Michigan Consumer Sentiment (Aug) |  | 54.4 | 55.2 |
-| 15:00 | USD | Retail Inventories Ex Auto (Jun) |  |  | -0.2% |
+| 15:00 | USD | Business Inventories (MoM) (Jun) | 0.0% | 0.2% | 0.4% |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (Aug) | 4.3% |  | 4.2% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (Aug) | 3.3% |  | 3.3% |
+| 15:00 | USD | Michigan Consumer Expectations (Aug) | 50.6 | 55.2 | 55.4 |
+| 15:00 | USD | Michigan Consumer Sentiment (Aug) | 51.0 | 54.7 | 55.2 |
+| 15:00 | USD | Retail Inventories Ex Auto (Jun) | -0.4% |  | -0.2% |
 | 16:30 | USD | Atlanta Fed GDPNow (Q3) |  | 5.8% | 5.8% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 454 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 588 |

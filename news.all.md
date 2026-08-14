@@ -19,10 +19,10 @@
 | 07:30 | INR | Low | WPI Fuel (YoY) (Jul) | 20.05% |  | 27.41% |
 | 07:30 | INR | Moderate | WPI Inflation (YoY) (Jul) | 9.78% | 9.95% | 9.87% |
 | 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Jul) | 8.29% |  | 7.48% |
-| 07:45 | EUR | Low | French CPI NSA (YoY) (Jul) | 2.10% |  | 2.10% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Jul) | 0.60% |  | 0.60% |
-| 07:45 | EUR | Low | French CPI (YoY) (Jul) | 2.1% | 2.1% | 1.8% |
+| 07:45 | EUR | Low | French CPI NSA (YoY) (Jul) | 2.10% |  | 2.10% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Jul) | 0.6% | 0.6% | -0.3% |
+| 07:45 | EUR | Low | French CPI (YoY) (Jul) | 2.1% | 2.1% | 1.8% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Jul) | 0.6% | 0.6% | -0.3% |
 | 07:45 | EUR | Low | French HICP (YoY) (Jul) | 2.4% | 2.4% | 2.0% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Jul) | 2.10% |  | 1.70% |
@@ -53,15 +53,14 @@
 | 13:30 | CAD | Low | Capacity Utilization Rate (Jun) | 82.3% |  | 82.5% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Jun) | 0.1% | -0.1% | 1.6% |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Jun) | 2.8% | 2.7% | -0.3% |
-| 15:00 | USD | Moderate | Business Inventories (MoM) (Jun) |  | 0.2% | 0.3% |
-| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Aug) |  |  | 4.2% |
-| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Aug) |  |  | 3.3% |
-| 15:00 | USD | Moderate | Michigan Consumer Expectations (Aug) |  | 55.2 | 55.4 |
-| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Aug) |  | 54.4 | 55.2 |
-| 15:00 | USD | Low | Michigan Current Conditions (Aug) |  | 55.0 | 54.8 |
-| 15:00 | USD | Moderate | Retail Inventories Ex Auto (Jun) |  |  | -0.2% |
+| 15:00 | USD | Moderate | Business Inventories (MoM) (Jun) | 0.0% | 0.2% | 0.4% |
+| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Aug) | 4.3% |  | 4.2% |
+| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Aug) | 3.3% |  | 3.3% |
+| 15:00 | USD | Moderate | Michigan Consumer Expectations (Aug) | 50.6 | 55.2 | 55.4 |
+| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Aug) | 51.0 | 54.7 | 55.2 |
+| 15:00 | USD | Low | Michigan Current Conditions (Aug) | 51.8 | 55.0 | 54.8 |
+| 15:00 | USD | Moderate | Retail Inventories Ex Auto (Jun) | -0.4% |  | -0.2% |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 5.8% | 5.8% |
-| 17:00 | EUR | Low | French Car Registration (YoY) (Jul) |  |  | 11.4% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 454 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 588 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -57.8K |

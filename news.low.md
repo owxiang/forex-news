@@ -17,8 +17,8 @@
 | 07:30 | INR | WPI Food (YoY) (Jul) | 5.44% |  | 5.49% |
 | 07:30 | INR | WPI Fuel (YoY) (Jul) | 20.05% |  | 27.41% |
 | 07:30 | INR | WPI Manufacturing Inflation (YoY) (Jul) | 8.29% |  | 7.48% |
-| 07:45 | EUR | French CPI NSA (YoY) (Jul) | 2.10% |  | 2.10% |
 | 07:45 | EUR | French CPI NSA (MoM) (Jul) | 0.60% |  | 0.60% |
+| 07:45 | EUR | French CPI NSA (YoY) (Jul) | 2.10% |  | 2.10% |
 | 07:45 | EUR | French CPI (YoY) (Jul) | 2.1% | 2.1% | 1.8% |
 | 07:45 | EUR | French HICP (YoY) (Jul) | 2.4% | 2.4% | 2.0% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Jul) | 2.10% |  | 1.70% |
@@ -40,8 +40,7 @@
 | 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Jul) | -0.2% |  | 0.4% |
 | 13:30 | CAD | Capacity Utilization Rate (Jun) | 82.3% |  | 82.5% |
 | 13:30 | CAD | Manufacturing Sales (MoM) (Jun) | 0.1% | -0.1% | 1.6% |
-| 15:00 | USD | Michigan Current Conditions (Aug) |  | 55.0 | 54.8 |
-| 17:00 | EUR | French Car Registration (YoY) (Jul) |  |  | 11.4% |
+| 15:00 | USD | Michigan Current Conditions (Aug) | 51.8 | 55.0 | 54.8 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -0.9K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 77.1K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 255.1K |
