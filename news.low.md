@@ -14,19 +14,19 @@
 | 04:00 | KRW | M2 Money supply (Jun) | 9.40% |  | 9.20% |
 | 07:00 | EUR | German WPI (MoM) (Jul) | 0.2% | -0.2% | -0.7% |
 | 07:00 | EUR | German WPI (YoY) (Jul) | 5.3% |  | 4.9% |
-| 07:30 | INR | WPI Food (YoY) (Jul) |  |  | 5.49% |
-| 07:30 | INR | WPI Fuel (YoY) (Jul) |  |  | 27.41% |
-| 07:30 | INR | WPI Manufacturing Inflation (YoY) (Jul) |  |  | 7.48% |
-| 07:45 | EUR | French CPI NSA (MoM) (Jul) |  |  | 0.60% |
-| 07:45 | EUR | French CPI NSA (YoY) (Jul) |  |  | 2.10% |
-| 07:45 | EUR | French CPI (YoY) (Jul) |  | 2.1% | 1.8% |
-| 07:45 | EUR | French HICP (YoY) (Jul) |  | 2.4% | 2.0% |
-| 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Jul) |  |  | 1.70% |
-| 09:30 | HKD | GDP (QoQ) (Q2) |  | -0.6% | -0.6% |
-| 09:30 | HKD | GDP (YoY) (Q2) |  | 4.3% | 4.3% |
-| 10:00 | EUR | Employment Change (QoQ) (Q2) |  | 0.1% | 0.1% |
-| 10:00 | EUR | Employment Change (YoY) (Q2) |  |  | 0.5% |
-| 10:00 | EUR | Employment Overall (Q2) |  |  | 176,308.0K |
+| 07:30 | INR | WPI Food (YoY) (Jul) | 5.44% |  | 5.49% |
+| 07:30 | INR | WPI Fuel (YoY) (Jul) | 20.05% |  | 27.41% |
+| 07:30 | INR | WPI Manufacturing Inflation (YoY) (Jul) | 8.29% |  | 7.48% |
+| 07:45 | EUR | French CPI NSA (MoM) (Jul) | 0.60% |  | 0.60% |
+| 07:45 | EUR | French CPI NSA (YoY) (Jul) | 2.10% |  | 2.10% |
+| 07:45 | EUR | French CPI (YoY) (Jul) | 2.1% | 2.1% | 1.8% |
+| 07:45 | EUR | French HICP (YoY) (Jul) | 2.4% | 2.4% | 2.0% |
+| 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Jul) | 2.10% |  | 1.70% |
+| 11 min | HKD | GDP (QoQ) (Q2) |  | -0.6% | -0.6% |
+| 11 min | HKD | GDP (YoY) (Q2) |  | 4.3% | 4.3% |
+| 41 min | EUR | Employment Change (QoQ) (Q2) |  | 0.1% | 0.1% |
+| 41 min | EUR | Employment Change (YoY) (Q2) |  |  | 0.5% |
+| 41 min | EUR | Employment Overall (Q2) |  |  | 176,308.0K |
 | 11:00 | CNY | M2 Money Stock (YoY) (Jul) |  | 7.9% | 8.0% |
 | 11:00 | CNY | Outstanding Loan Growth (YoY) (Jul) |  | 5.3% | 5.3% |
 | 11:00 | CNY | Chinese Total Social Financing (Jul) |  | 1,200.0B | 3,360.0B |

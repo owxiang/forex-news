@@ -3,13 +3,13 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:30 | AUD | Home Loans (MoM) (Q2) | -1.9% |  | -3.5% |
-| 07:30 | INR | WPI Inflation (YoY) (Jul) |  | 9.95% | 9.87% |
-| 07:45 | EUR | French CPI (MoM) (Jul) |  | 0.6% | -0.3% |
-| 07:45 | EUR | French HICP (MoM) (Jul) |  | 0.6% | -0.3% |
-| 08:00 | CHF | GDP (QoQ) (Q2) |  |  | 0.7% |
-| 10:00 | EUR | GDP (YoY) (Q2) |  | 1.0% | 0.3% |
-| 10:00 | EUR | GDP (QoQ) (Q2) |  | 0.4% | -0.2% |
-| 10:00 | EUR | Trade Balance (Jun) |  | -2.2B | -7.8B |
+| 07:30 | INR | WPI Inflation (YoY) (Jul) | 9.78% | 9.95% | 9.87% |
+| 07:45 | EUR | French CPI (MoM) (Jul) | 0.6% | 0.6% | -0.3% |
+| 07:45 | EUR | French HICP (MoM) (Jul) | 0.6% | 0.6% | -0.3% |
+| 08:00 | CHF | GDP (QoQ) (Q2) | 1.5% |  | 0.7% |
+| 41 min | EUR | GDP (YoY) (Q2) |  | 1.0% | 0.3% |
+| 41 min | EUR | GDP (QoQ) (Q2) |  | 0.4% | -0.2% |
+| 41 min | EUR | Trade Balance (Jun) |  | -2.2B | -7.8B |
 | 11:00 | CNY | New Loans (Jul) |  | -50.0B | 1,610.0B |
 | 12:00 | GBP | NIESR Monthly GDP Tracker (Jul) |  |  | 0.4% |
 | 13:30 | USD | Retail Control (MoM) (Jul) |  | 0.3% | 0.5% |
