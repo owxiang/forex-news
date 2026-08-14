@@ -3,13 +3,13 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | RBA Gov Bullock Speaks |  |  |  |
-| 00:50 | JPY | Foreign Bonds Buying |  |  | 477.9B |
-| 00:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -392.5B |
-| 03:00 | KRW | Thomson Reuters IPSOS PCSI (Aug) |  |  | 45.48 |
-| 03:00 | INR | Thomson Reuters IPSOS PCSI (Aug) |  |  | 67.08 |
-| 03:00 | AUD | Thomson Reuters IPSOS PCSI (Aug) |  |  | 48.18 |
-| 03:00 | JPY | Thomson Reuters IPSOS PCSI (Aug) |  |  | 39.75 |
-| 03:00 | CNY | China Thomson Reuters IPSOS PCSI (Aug) |  |  | 72.84 |
+| 00:50 | JPY | Foreign Bonds Buying | 1,629.4B |  | 477.9B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks | -368.5B |  | -392.5B |
+| 03:00 | KRW | Thomson Reuters IPSOS PCSI (Aug) | 44.52 |  | 45.48 |
+| 03:00 | INR | Thomson Reuters IPSOS PCSI (Aug) | 65.26 |  | 67.08 |
+| 03:00 | AUD | Thomson Reuters IPSOS PCSI (Aug) | 48.79 |  | 48.18 |
+| 03:00 | JPY | Thomson Reuters IPSOS PCSI (Aug) | 39.94 |  | 39.75 |
+| 03:00 | CNY | China Thomson Reuters IPSOS PCSI (Aug) | 74.79 |  | 72.84 |
 | 04:00 | KRW | M3 Money Supply (Jun) |  |  | 6,314.5B |
 | 04:00 | KRW | M2 Money supply (Jun) |  |  | 9.20% |
 | 07:00 | EUR | German WPI (MoM) (Jul) |  | -0.2% | -0.7% |

@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Home Loans (MoM) (Q2) |  |  | -4.3% |
+| 02:30 | AUD | Home Loans (MoM) (Q2) | -1.9% |  | -3.5% |
 | 04:30 | GBP | NIESR Monthly GDP Tracker (Jul) |  |  | 0.4% |
 | 07:30 | INR | WPI Inflation (YoY) (Jul) |  | 10.25% | 9.87% |
 | 07:45 | EUR | French CPI (MoM) (Jul) |  | 0.6% | -0.3% |
