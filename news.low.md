@@ -25,20 +25,21 @@
 | 09:00 | CNY | M2 Money Stock (YoY) (Jul) | 7.7% | 7.9% | 8.0% |
 | 09:00 | CNY | Outstanding Loan Growth (YoY) (Jul) | 5.1% | 5.3% | 5.3% |
 | 09:00 | CNY | Chinese Total Social Financing (Jul) | 1,410.0B | 1,200.0B | 3,360.0B |
-| 09:30 | HKD | GDP (YoY) (Q2) | 4.3% | 4.3% | 4.3% |
 | 09:30 | HKD | GDP (QoQ) (Q2) | -0.6% | -0.6% | -0.6% |
+| 09:30 | HKD | GDP (YoY) (Q2) | 4.3% | 4.3% | 4.3% |
 | 10:00 | EUR | Employment Change (QoQ) (Q2) | 0.1% | 0.1% | 0.1% |
 | 10:00 | EUR | Employment Change (YoY) (Q2) | 0.5% | 0.6% | 0.5% |
 | 10:00 | EUR | Employment Overall (Q2) | 176,577.2K |  | 176,382.2K |
 | 11:00 | EUR | Reserve Assets Total (Jul) | 1,752.50B |  | 1,755.42B |
+| 12:30 | INR | Balance of Payments (USD) (Q2) | -8.100B |  | 7.200B |
 | 12:30 | INR | Bank Loan Growth | 19.3% |  | 17.7% |
+| 12:30 | INR | Current Account (USD) (Q2) | -3.10B |  | 7.10B |
 | 12:30 | INR | Deposit Growth | 15.4% |  | 12.7% |
 | 12:30 | INR | FX Reserves, USD | 707.00B |  | 692.87B |
-| 13:30 | USD | Retail Sales (YoY) (Jul) |  |  | 6.72% |
-| 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Jul) |  |  | 0.4% |
-| 13:30 | CAD | Capacity Utilization Rate (Jun) |  |  | 82.5% |
-| 13:30 | CAD | Manufacturing Sales (MoM) (Jun) |  | -0.1% | 1.3% |
-| 13:30 | CAD | New Motor Vehicle Sales (MoM) (Jun) |  |  | 190.6K |
+| 13:30 | USD | Retail Sales (YoY) (Jul) | 5.01% |  | 6.75% |
+| 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Jul) | -0.2% |  | 0.4% |
+| 13:30 | CAD | Capacity Utilization Rate (Jun) | 82.3% |  | 82.5% |
+| 13:30 | CAD | Manufacturing Sales (MoM) (Jun) | 0.1% | -0.1% | 1.6% |
 | 15:00 | USD | Michigan Current Conditions (Aug) |  | 55.0 | 54.8 |
 | 17:00 | EUR | French Car Registration (YoY) (Jul) |  |  | 11.4% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -0.9K |

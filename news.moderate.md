@@ -11,8 +11,8 @@
 | 10:00 | EUR | GDP (QoQ) (Q2) | 0.4% | 0.4% | 0.0% |
 | 10:00 | EUR | GDP (YoY) (Q2) | 1.0% | 1.0% | 0.5% |
 | 10:00 | EUR | Trade Balance (Jun) | 8.6B | -2.2B | -9.0B |
-| 13:30 | USD | Retail Control (MoM) (Jul) |  | 0.3% | 0.5% |
-| 13:30 | CAD | Wholesale Sales (MoM) (Jun) |  | 2.7% | 0.0% |
+| 13:30 | USD | Retail Control (MoM) (Jul) | -0.4% | 0.3% | 0.4% |
+| 13:30 | CAD | Wholesale Sales (MoM) (Jun) | 2.8% | 2.7% | -0.3% |
 | 15:00 | USD | Business Inventories (MoM) (Jun) |  | 0.2% | 0.3% |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Aug) |  |  | 4.2% |
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Aug) |  |  | 3.3% |
