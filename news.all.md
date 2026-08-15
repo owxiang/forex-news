@@ -5,4 +5,3 @@
 | 01:00 | KRW | Low | Exports (YoY) (Jul) | 63.0% | 62.8% | 70.7% |
 | 01:00 | KRW | Low | Imports (YoY) (Jul) | 26.5% | 26.5% | 30.0% |
 | 01:00 | KRW | Low | Trade Balance (Jul) | 30.39B | 30.32B | 36.09B |
-| 17:00 | EUR | Low | French Car Registration (YoY) (Jul) |  |  | 11.4% |
