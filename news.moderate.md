@@ -1,3 +1,5 @@
-## 15 August 2026 - Moderate Impact Forex News
+## 16 August 2026 - Moderate Impact Forex News
 
-There is no moderate impact news today.
+| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 23:45 | NZD | Electronic Card Retail Sales (MoM) (Jul) |  |  | -1.4% |

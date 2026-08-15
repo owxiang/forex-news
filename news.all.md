@@ -1,7 +1,7 @@
-## 15 August 2026 - All Forex News
+## 16 August 2026 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 01:00 | KRW | Low | Exports (YoY) (Jul) | 63.0% | 62.8% | 70.7% |
-| 01:00 | KRW | Low | Imports (YoY) (Jul) | 26.5% | 26.5% | 30.0% |
-| 01:00 | KRW | Low | Trade Balance (Jul) | 30.39B | 30.32B | 36.09B |
+| 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Jul) |  |  | -1.4% |
+| 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Jul) |  |  | 1.3% |
+| 23:45 | NZD | Low | FPI (MoM) (Jul) |  |  | 0.6% |
