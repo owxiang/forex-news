@@ -1,5 +1,20 @@
-## 16 August 2026 - Moderate Impact Forex News
+## 17 August 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 23:45 | NZD | Electronic Card Retail Sales (MoM) (Jul) |  |  | -1.4% |
+| 00:50 | JPY | GDP (YoY) (Q2) |  | 2.0% | 1.8% |
+| 00:50 | JPY | GDP Annualized (QoQ) (Q2) |  | 2.1% | 1.8% |
+| 00:50 | JPY | GDP Price Index (YoY) (Q2) |  | 2.3% | 3.2% |
+| 03:00 | CNY | Fixed Asset Investment (YoY) (Jul) |  | -6.2% | -5.7% |
+| 03:00 | CNY | Industrial Production (YoY) (Jul) |  | 5.0% | 5.3% |
+| 03:00 | CNY | Chinese Industrial Production YTD (YoY) (Jul) |  |  | 5.4% |
+| 03:00 | CNY | Chinese Unemployment Rate (Jul) |  | 5.1% | 5.0% |
+| 03:00 | CNY | NBS Press Conference |  |  |  |
+| 05:30 | JPY | Industrial Production (MoM) (Jun) |  | 1.3% | 1.3% |
+| 10:30 | EUR | ECB's Lane Speaks |  |  |  |
+| 13:30 | USD | NY Empire State Manufacturing Index (Aug) |  | 10.60 | 15.60 |
+| 13:30 | CAD | Core CPI (YoY) (Jul) |  |  | 2.1% |
+| 13:30 | CAD | Core CPI (MoM) (Jul) |  |  | 0.1% |
+| 13:30 | CAD | CPI (MoM) (Jul) |  | 0.4% | -0.4% |
+| 13:30 | CAD | Foreign Securities Purchases (Jun) |  | 15.00B | 7.90B |
+| 21:00 | USD | TIC Net Long-Term Transactions (Jun) |  |  | 232.7B |
