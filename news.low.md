@@ -10,8 +10,8 @@
 | 01:30 | SGD | Non-Oil Exports (MoM) (Jul) | -0.30% |  | -8.80% |
 | 01:30 | SGD | Non-Oil Exports (YoY) (Jul) | 24.20% |  | 24.40% |
 | 01:45 | SGD | Trade Balance (Jul) | 10.724B |  | 13.870B |
-| 05:30 | JPY | Capacity Utilization (MoM) (Jun) |  |  | 0.1% |
-| 05:30 | JPY | Tertiary Industry Activity Index (Jun) |  |  | -1.40 |
+| 05:30 | JPY | Capacity Utilization (MoM) (Jun) | 4.1% |  | 0.1% |
+| 05:30 | JPY | Tertiary Industry Activity Index (Jun) | 5.30 |  | -1.60 |
 | 07:00 | NOK | Trade Balance (Jul) |  |  | 61.9B |
 | 08:00 | CNY | House Prices (YoY) (Jul) |  |  | -3.3% |
 | 08:00 | CNY | Retail Sales (YoY) (Jul) |  | 1.5% | 1.0% |

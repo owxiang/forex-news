@@ -14,9 +14,9 @@
 | 01:30 | SGD | Low | Non-Oil Exports (MoM) (Jul) | -0.30% |  | -8.80% |
 | 01:30 | SGD | Low | Non-Oil Exports (YoY) (Jul) | 24.20% |  | 24.40% |
 | 01:45 | SGD | Low | Trade Balance (Jul) | 10.724B |  | 13.870B |
-| 05:30 | JPY | Low | Capacity Utilization (MoM) (Jun) |  |  | 0.1% |
-| 05:30 | JPY | Moderate | Industrial Production (MoM) (Jun) |  | 1.3% | 1.3% |
-| 05:30 | JPY | Low | Tertiary Industry Activity Index (Jun) |  |  | -1.40 |
+| 05:30 | JPY | Low | Capacity Utilization (MoM) (Jun) | 4.1% |  | 0.1% |
+| 05:30 | JPY | Moderate | Industrial Production (MoM) (Jun) | 1.9% | 1.3% | 0.1% |
+| 05:30 | JPY | Low | Tertiary Industry Activity Index (Jun) | 5.30 |  | -1.60 |
 | 07:00 | NOK | Low | Trade Balance (Jul) |  |  | 61.9B |
 | 08:00 | CNY | Low | House Prices (YoY) (Jul) |  |  | -3.3% |
 | 08:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Jul) |  | -6.2% | -5.7% |
