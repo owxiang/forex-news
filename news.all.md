@@ -18,7 +18,7 @@
 | 05:30 | JPY | Moderate | Industrial Production (MoM) (Jun) | 1.9% | 1.3% | 0.1% |
 | 05:30 | JPY | Low | Tertiary Industry Activity Index (Jun) | 5.30 |  | -1.60 |
 | 07:00 | NOK | Low | Trade Balance (Jul) | 84.3B |  | 63.3B |
-| 08:00 | CNY | Low | House Prices (YoY) (Jul) |  |  | -3.3% |
+| 08:00 | CNY | Low | House Prices (YoY) (Jul) | -3.2% |  | -3.3% |
 | 08:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Jul) | -6.7% | -6.2% | -5.7% |
 | 08:00 | CNY | Moderate | Industrial Production (YoY) (Jul) | 4.5% | 5.0% | 5.3% |
 | 08:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Jul) | 5.3% |  | 5.4% |
