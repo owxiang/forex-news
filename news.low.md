@@ -26,9 +26,9 @@
 | 13:30 | CAD | Foreign Securities Purchases by Canadians (Jun) | 35.430B |  | 21.890B |
 | 13:30 | CAD | Median CPI (YoY) (Jul) | 2.0% | 2.0% | 1.9% |
 | 13:30 | CAD | Trimmed CPI (YoY) (Jul) | 1.9% | 1.8% | 1.9% |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.752% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.448% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.579% |
+| 14:00 | EUR | French 12-Month BTF Auction | 2.781% |  | 2.752% |
+| 14:00 | EUR | French 3-Month BTF Auction | 2.484% |  | 2.448% |
+| 14:00 | EUR | French 6-Month BTF Auction | 2.608% |  | 2.579% |
 | 15:00 | USD | NAHB Housing Market Index (Aug) |  | 33 | 34 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 3.735% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 3.830% |
