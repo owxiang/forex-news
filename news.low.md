@@ -12,10 +12,10 @@
 | 01:45 | SGD | Trade Balance (Jul) | 10.724B |  | 13.870B |
 | 05:30 | JPY | Capacity Utilization (MoM) (Jun) | 4.1% |  | 0.1% |
 | 05:30 | JPY | Tertiary Industry Activity Index (Jun) | 5.30 |  | -1.60 |
-| 07:00 | NOK | Trade Balance (Jul) |  |  | 61.9B |
+| 07:00 | NOK | Trade Balance (Jul) | 84.3B |  | 63.3B |
 | 08:00 | CNY | House Prices (YoY) (Jul) |  |  | -3.3% |
-| 08:00 | CNY | Retail Sales (YoY) (Jul) |  | 1.5% | 1.0% |
-| 08:00 | CNY | Chinese Retail Sales YTD (YoY) (Jul) |  |  | 1.33% |
+| 08:00 | CNY | Retail Sales (YoY) (Jul) | 0.6% | 1.5% | 1.0% |
+| 08:00 | CNY | Chinese Retail Sales YTD (YoY) (Jul) | 1.23% |  | 1.33% |
 | 10:00 | CNY | FDI (Jul) |  |  | -5.00% |
 | 10:30 | EUR | German 12-Month Bubill Auction |  |  | 2.566% |
 | 10:30 | EUR | German 6-Month Bubill Auction |  |  | 2.436% |

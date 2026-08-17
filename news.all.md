@@ -17,14 +17,14 @@
 | 05:30 | JPY | Low | Capacity Utilization (MoM) (Jun) | 4.1% |  | 0.1% |
 | 05:30 | JPY | Moderate | Industrial Production (MoM) (Jun) | 1.9% | 1.3% | 0.1% |
 | 05:30 | JPY | Low | Tertiary Industry Activity Index (Jun) | 5.30 |  | -1.60 |
-| 07:00 | NOK | Low | Trade Balance (Jul) |  |  | 61.9B |
+| 07:00 | NOK | Low | Trade Balance (Jul) | 84.3B |  | 63.3B |
 | 08:00 | CNY | Low | House Prices (YoY) (Jul) |  |  | -3.3% |
-| 08:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Jul) |  | -6.2% | -5.7% |
-| 08:00 | CNY | Moderate | Industrial Production (YoY) (Jul) |  | 5.0% | 5.3% |
-| 08:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Jul) |  |  | 5.4% |
-| 08:00 | CNY | Low | Retail Sales (YoY) (Jul) |  | 1.5% | 1.0% |
-| 08:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Jul) |  |  | 1.33% |
-| 08:00 | CNY | Moderate | Chinese Unemployment Rate (Jul) |  | 5.1% | 5.0% |
+| 08:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Jul) | -6.7% | -6.2% | -5.7% |
+| 08:00 | CNY | Moderate | Industrial Production (YoY) (Jul) | 4.5% | 5.0% | 5.3% |
+| 08:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Jul) | 5.3% |  | 5.4% |
+| 08:00 | CNY | Low | Retail Sales (YoY) (Jul) | 0.6% | 1.5% | 1.0% |
+| 08:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Jul) | 1.23% |  | 1.33% |
+| 08:00 | CNY | Moderate | Chinese Unemployment Rate (Jul) | 5.2% | 5.1% | 5.0% |
 | 08:00 | CNY | Moderate | NBS Press Conference |  |  |  |
 | 10:00 | CNY | Low | FDI (Jul) |  |  | -5.00% |
 | 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 2.566% |
