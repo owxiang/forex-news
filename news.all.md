@@ -45,7 +45,7 @@
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.781% |  | 2.752% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.484% |  | 2.448% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.608% |  | 2.579% |
-| 15:00 | USD | Low | NAHB Housing Market Index (Aug) |  | 33 | 34 |
+| 15:00 | USD | Low | NAHB Housing Market Index (Aug) | 35 | 33 | 34 |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.735% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.830% |
 | 21:00 | USD | Low | US Foreign Buying, T-bonds (Jun) |  |  | 56.60B |
