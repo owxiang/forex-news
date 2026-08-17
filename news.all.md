@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | Rightmove House Price Index (MoM) | -2.0% |  | -1.0% |
 | 00:01 | GBP | Low | Rightmove House Price Index (YoY) (Aug) | -1.0% |  | -0.4% |
-| 00:50 | JPY | Moderate | GDP (YoY) (Q2) | 1.1% | 2.0% | 1.9% |
 | 00:50 | JPY | High | GDP (QoQ) (Q2) | 0.3% | 0.5% | 0.5% |
+| 00:50 | JPY | Moderate | GDP (YoY) (Q2) | 1.1% | 2.0% | 1.9% |
 | 00:50 | JPY | Moderate | GDP Annualized (QoQ) (Q2) | 1.1% | 2.0% | 1.9% |
 | 00:50 | JPY | Low | GDP Capital Expenditure (QoQ) (Q2) | -1.2% | 0.4% | -1.0% |
 | 00:50 | JPY | Low | GDP External Demand (QoQ) (Q2) | 0.5% | 0.3% | 0.3% |
@@ -29,15 +29,14 @@
 | 10:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 10:50 | EUR | Low | German 12-Month Bubill Auction | 2.656% |  | 2.566% |
 | 10:50 | EUR | Low | German 6-Month Bubill Auction | 2.502% |  | 2.436% |
-| 12:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Aug) |  | 0.1% | -1.1% |
-| 12:00 | ZAR | Low | Business Confidence (Jun) |  |  | 124.1 |
+| 12:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Aug) | -0.5% | 0.1% | -1.1% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | BRL | Low | IBC-Br Economic Activity (Jun) |  | -0.50% | 0.10% |
 | 13:00 | CNY | Low | FDI (Jul) |  |  | -5.00% |
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Aug) |  | 10.60 | 15.60 |
 | 13:30 | CAD | Low | Common CPI (YoY) (Jul) |  | 2.5% | 2.6% |
-| 13:30 | CAD | Moderate | Core CPI (YoY) (Jul) |  |  | 2.1% |
 | 13:30 | CAD | Moderate | Core CPI (MoM) (Jul) |  |  | 0.1% |
+| 13:30 | CAD | Moderate | Core CPI (YoY) (Jul) |  |  | 2.1% |
 | 13:30 | CAD | Moderate | CPI (MoM) (Jul) |  | 0.4% | -0.4% |
 | 13:30 | CAD | Low | CPI (YoY) (Jul) |  |  | 2.8% |
 | 13:30 | CAD | Moderate | Foreign Securities Purchases (Jun) |  | 15.00B | 7.90B |
@@ -50,7 +49,6 @@
 | 15:00 | USD | Low | NAHB Housing Market Index (Aug) |  | 33 | 34 |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.735% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.830% |
-| 17:00 | EUR | Low | French Car Registration (YoY) (Jul) |  |  | 11.4% |
 | 21:00 | USD | Low | US Foreign Buying, T-bonds (Jun) |  |  | 56.60B |
 | 21:00 | USD | Low | Overall Net Capital Flow (Jun) |  |  | 132.20B |
 | 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Jun) |  |  | 232.7B |
