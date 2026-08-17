@@ -2,14 +2,14 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | GDP (YoY) (Q2) |  | 2.0% | 1.8% |
-| 00:50 | JPY | GDP Annualized (QoQ) (Q2) |  | 2.1% | 1.8% |
-| 00:50 | JPY | GDP Price Index (YoY) (Q2) |  | 2.3% | 3.2% |
-| 03:00 | CNY | Fixed Asset Investment (YoY) (Jul) |  | -6.2% | -5.7% |
-| 03:00 | CNY | Industrial Production (YoY) (Jul) |  | 5.0% | 5.3% |
-| 03:00 | CNY | Chinese Industrial Production YTD (YoY) (Jul) |  |  | 5.4% |
-| 03:00 | CNY | Chinese Unemployment Rate (Jul) |  | 5.1% | 5.0% |
-| 03:00 | CNY | NBS Press Conference |  |  |  |
+| 00:50 | JPY | GDP (YoY) (Q2) | 1.1% | 2.0% | 1.9% |
+| 00:50 | JPY | GDP Annualized (QoQ) (Q2) | 1.1% | 2.0% | 1.9% |
+| 00:50 | JPY | GDP Price Index (YoY) (Q2) | 2.6% | 2.4% | 3.2% |
+| 24 min | CNY | Fixed Asset Investment (YoY) (Jul) |  | -6.2% | -5.7% |
+| 24 min | CNY | Industrial Production (YoY) (Jul) |  | 5.0% | 5.3% |
+| 24 min | CNY | Chinese Industrial Production YTD (YoY) (Jul) |  |  | 5.4% |
+| 24 min | CNY | Chinese Unemployment Rate (Jul) |  | 5.1% | 5.0% |
+| 24 min | CNY | NBS Press Conference |  |  |  |
 | 05:30 | JPY | Industrial Production (MoM) (Jun) |  | 1.3% | 1.3% |
 | 10:30 | EUR | ECB's Lane Speaks |  |  |  |
 | 13:30 | USD | NY Empire State Manufacturing Index (Aug) |  | 10.60 | 15.60 |

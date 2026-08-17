@@ -4,25 +4,24 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | Rightmove House Price Index (MoM) | -2.0% |  | -1.0% |
 | 00:01 | GBP | Low | Rightmove House Price Index (YoY) (Aug) | -1.0% |  | -0.4% |
-| 00:30 | NZD | Low | Performance of Services Index (Jul) |  |  | 50.6 |
-| 00:50 | JPY | High | GDP (QoQ) (Q2) |  | 0.5% | 0.5% |
-| 00:50 | JPY | Moderate | GDP (YoY) (Q2) |  | 2.0% | 1.8% |
-| 00:50 | JPY | Moderate | GDP Annualized (QoQ) (Q2) |  | 2.1% | 1.8% |
-| 00:50 | JPY | Low | GDP Capital Expenditure (QoQ) (Q2) |  | 0.4% | -0.7% |
-| 00:50 | JPY | Low | GDP External Demand (QoQ) (Q2) |  | 0.3% | 0.3% |
-| 00:50 | JPY | Moderate | GDP Price Index (YoY) (Q2) |  | 2.3% | 3.2% |
-| 00:50 | JPY | Low | GDP Private Consumption (QoQ) (Q2) |  | 0.5% | 0.3% |
-| 01:30 | SGD | Low | Non-Oil Exports (MoM) (Jul) |  |  | -8.90% |
-| 01:30 | SGD | Low | Non-Oil Exports (YoY) (Jul) |  |  | 20.70% |
-| 01:30 | SGD | Low | Trade Balance (Jul) |  |  | 13.817B |
+| 00:50 | JPY | Moderate | GDP (YoY) (Q2) | 1.1% | 2.0% | 1.9% |
+| 00:50 | JPY | High | GDP (QoQ) (Q2) | 0.3% | 0.5% | 0.5% |
+| 00:50 | JPY | Moderate | GDP Annualized (QoQ) (Q2) | 1.1% | 2.0% | 1.9% |
+| 00:50 | JPY | Low | GDP Capital Expenditure (QoQ) (Q2) | -1.2% | 0.4% | -1.0% |
+| 00:50 | JPY | Low | GDP External Demand (QoQ) (Q2) | 0.5% | 0.3% | 0.3% |
+| 00:50 | JPY | Moderate | GDP Price Index (YoY) (Q2) | 2.6% | 2.4% | 3.2% |
+| 00:50 | JPY | Low | GDP Private Consumption (QoQ) (Q2) | 0.0% | 0.5% | 0.5% |
+| 01:30 | SGD | Low | Non-Oil Exports (MoM) (Jul) | -0.30% |  | -8.80% |
+| 01:30 | SGD | Low | Non-Oil Exports (YoY) (Jul) | 24.20% |  | 20.80% |
+| 01:45 | SGD | Low | Trade Balance (Jul) | 10.724B |  | 13.870B |
 | 02:30 | CNY | Low | House Prices (YoY) (Jul) |  |  | -3.3% |
-| 03:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Jul) |  | -6.2% | -5.7% |
-| 03:00 | CNY | Moderate | Industrial Production (YoY) (Jul) |  | 5.0% | 5.3% |
-| 03:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Jul) |  |  | 5.4% |
-| 03:00 | CNY | Low | Retail Sales (YoY) (Jul) |  | 1.5% | 1.0% |
-| 03:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Jul) |  |  | 1.33% |
-| 03:00 | CNY | Moderate | Chinese Unemployment Rate (Jul) |  | 5.1% | 5.0% |
-| 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
+| 24 min | CNY | Moderate | Fixed Asset Investment (YoY) (Jul) |  | -6.2% | -5.7% |
+| 24 min | CNY | Moderate | Industrial Production (YoY) (Jul) |  | 5.0% | 5.3% |
+| 24 min | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Jul) |  |  | 5.4% |
+| 24 min | CNY | Low | Retail Sales (YoY) (Jul) |  | 1.5% | 1.0% |
+| 24 min | CNY | Low | Chinese Retail Sales YTD (YoY) (Jul) |  |  | 1.33% |
+| 24 min | CNY | Moderate | Chinese Unemployment Rate (Jul) |  | 5.1% | 5.0% |
+| 24 min | CNY | Moderate | NBS Press Conference |  |  |  |
 | 05:30 | JPY | Low | Capacity Utilization (MoM) (Jun) |  |  | 0.1% |
 | 05:30 | JPY | Moderate | Industrial Production (MoM) (Jun) |  | 1.3% | 1.3% |
 | 05:30 | JPY | Low | Tertiary Industry Activity Index (Jun) |  |  | -1.40 |

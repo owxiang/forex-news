@@ -4,16 +4,15 @@
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | Rightmove House Price Index (MoM) | -2.0% |  | -1.0% |
 | 00:01 | GBP | Rightmove House Price Index (YoY) (Aug) | -1.0% |  | -0.4% |
-| 00:30 | NZD | Performance of Services Index (Jul) |  |  | 50.6 |
-| 00:50 | JPY | GDP Capital Expenditure (QoQ) (Q2) |  | 0.4% | -0.7% |
-| 00:50 | JPY | GDP External Demand (QoQ) (Q2) |  | 0.3% | 0.3% |
-| 00:50 | JPY | GDP Private Consumption (QoQ) (Q2) |  | 0.5% | 0.3% |
-| 01:30 | SGD | Non-Oil Exports (MoM) (Jul) |  |  | -8.90% |
-| 01:30 | SGD | Non-Oil Exports (YoY) (Jul) |  |  | 20.70% |
-| 01:30 | SGD | Trade Balance (Jul) |  |  | 13.817B |
+| 00:50 | JPY | GDP Capital Expenditure (QoQ) (Q2) | -1.2% | 0.4% | -1.0% |
+| 00:50 | JPY | GDP External Demand (QoQ) (Q2) | 0.5% | 0.3% | 0.3% |
+| 00:50 | JPY | GDP Private Consumption (QoQ) (Q2) | 0.0% | 0.5% | 0.5% |
+| 01:30 | SGD | Non-Oil Exports (MoM) (Jul) | -0.30% |  | -8.80% |
+| 01:30 | SGD | Non-Oil Exports (YoY) (Jul) | 24.20% |  | 20.80% |
+| 01:45 | SGD | Trade Balance (Jul) | 10.724B |  | 13.870B |
 | 02:30 | CNY | House Prices (YoY) (Jul) |  |  | -3.3% |
-| 03:00 | CNY | Retail Sales (YoY) (Jul) |  | 1.5% | 1.0% |
-| 03:00 | CNY | Chinese Retail Sales YTD (YoY) (Jul) |  |  | 1.33% |
+| 24 min | CNY | Retail Sales (YoY) (Jul) |  | 1.5% | 1.0% |
+| 24 min | CNY | Chinese Retail Sales YTD (YoY) (Jul) |  |  | 1.33% |
 | 05:30 | JPY | Capacity Utilization (MoM) (Jun) |  |  | 0.1% |
 | 05:30 | JPY | Tertiary Industry Activity Index (Jun) |  |  | -1.40 |
 | 07:00 | NOK | Trade Balance (Jul) |  |  | 61.9B |
