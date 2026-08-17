@@ -16,13 +16,13 @@
 | 08:00 | CNY | House Prices (YoY) (Jul) | -3.2% |  | -3.3% |
 | 08:00 | CNY | Retail Sales (YoY) (Jul) | 0.6% | 1.5% | 1.0% |
 | 08:00 | CNY | Chinese Retail Sales YTD (YoY) (Jul) | 1.23% |  | 1.33% |
-| 10:00 | CNY | FDI (Jul) |  |  | -5.00% |
-| 10:30 | EUR | German 12-Month Bubill Auction |  |  | 2.566% |
-| 10:30 | EUR | German 6-Month Bubill Auction |  |  | 2.436% |
-| 12:00 | BRL | IGP-10 Inflation Index (MoM) (Aug) |  |  | -1.1% |
+| 10:50 | EUR | German 12-Month Bubill Auction |  |  | 2.566% |
+| 10:50 | EUR | German 6-Month Bubill Auction |  |  | 2.436% |
+| 12:00 | BRL | IGP-10 Inflation Index (MoM) (Aug) |  | 0.1% | -1.1% |
 | 12:00 | ZAR | Business Confidence (Jun) |  |  | 124.1 |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | BRL | IBC-Br Economic Activity (Jun) |  |  | 0.10% |
+| 13:00 | BRL | IBC-Br Economic Activity (Jun) |  | -0.50% | 0.10% |
+| 13:00 | CNY | FDI (Jul) |  |  | -5.00% |
 | 13:30 | CAD | Common CPI (YoY) (Jul) |  | 2.5% | 2.6% |
 | 13:30 | CAD | CPI (YoY) (Jul) |  |  | 2.8% |
 | 13:30 | CAD | Foreign Securities Purchases by Canadians (Jun) |  |  | 22.270B |
