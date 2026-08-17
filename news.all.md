@@ -27,8 +27,8 @@
 | 08:00 | CNY | Moderate | Chinese Unemployment Rate (Jul) | 5.2% | 5.1% | 5.0% |
 | 08:00 | CNY | Moderate | NBS Press Conference |  |  |  |
 | 10:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 10:50 | EUR | Low | German 12-Month Bubill Auction |  |  | 2.566% |
-| 10:50 | EUR | Low | German 6-Month Bubill Auction |  |  | 2.436% |
+| 10:50 | EUR | Low | German 12-Month Bubill Auction | 2.656% |  | 2.566% |
+| 10:50 | EUR | Low | German 6-Month Bubill Auction | 2.502% |  | 2.436% |
 | 12:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Aug) |  | 0.1% | -1.1% |
 | 12:00 | ZAR | Low | Business Confidence (Jun) |  |  | 124.1 |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |

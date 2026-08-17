@@ -16,8 +16,8 @@
 | 08:00 | CNY | House Prices (YoY) (Jul) | -3.2% |  | -3.3% |
 | 08:00 | CNY | Retail Sales (YoY) (Jul) | 0.6% | 1.5% | 1.0% |
 | 08:00 | CNY | Chinese Retail Sales YTD (YoY) (Jul) | 1.23% |  | 1.33% |
-| 10:50 | EUR | German 12-Month Bubill Auction |  |  | 2.566% |
-| 10:50 | EUR | German 6-Month Bubill Auction |  |  | 2.436% |
+| 10:50 | EUR | German 12-Month Bubill Auction | 2.656% |  | 2.566% |
+| 10:50 | EUR | German 6-Month Bubill Auction | 2.502% |  | 2.436% |
 | 12:00 | BRL | IGP-10 Inflation Index (MoM) (Aug) |  | 0.1% | -1.1% |
 | 12:00 | ZAR | Business Confidence (Jun) |  |  | 124.1 |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
