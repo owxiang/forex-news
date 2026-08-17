@@ -48,7 +48,7 @@
 | 15:00 | USD | Low | NAHB Housing Market Index (Aug) | 35 | 33 | 34 |
 | 16:30 | USD | Low | 3-Month Bill Auction | 3.715% |  | 3.735% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 3.780% |  | 3.830% |
-| 21:00 | USD | Low | US Foreign Buying, T-bonds (Jun) |  |  | 56.60B |
-| 21:00 | USD | Low | Overall Net Capital Flow (Jun) |  |  | 132.20B |
-| 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Jun) |  |  | 232.7B |
-| 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Jun) |  | 151.40B | 232.70B |
+| 21:00 | USD | Low | US Foreign Buying, T-bonds (Jun) | 6.80B |  | 56.60B |
+| 21:00 | USD | Low | Overall Net Capital Flow (Jun) | 133.50B |  | 131.50B |
+| 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Jun) | 172.7B |  | 231.2B |
+| 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Jun) | 172.70B | 151.40B | 231.20B |

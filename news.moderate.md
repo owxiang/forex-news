@@ -17,4 +17,4 @@
 | 13:30 | CAD | Core CPI (YoY) (Jul) | 2.3% |  | 2.1% |
 | 13:30 | CAD | CPI (MoM) (Jul) | 0.5% | 0.4% | -0.4% |
 | 13:30 | CAD | Foreign Securities Purchases (Jun) | 40.83B | 15.00B | 8.80B |
-| 21:00 | USD | TIC Net Long-Term Transactions (Jun) |  |  | 232.7B |
+| 21:00 | USD | TIC Net Long-Term Transactions (Jun) | 172.7B |  | 231.2B |
