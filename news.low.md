@@ -8,14 +8,14 @@
 | 00:50 | JPY | GDP External Demand (QoQ) (Q2) | 0.5% | 0.3% | 0.3% |
 | 00:50 | JPY | GDP Private Consumption (QoQ) (Q2) | 0.0% | 0.5% | 0.5% |
 | 01:30 | SGD | Non-Oil Exports (MoM) (Jul) | -0.30% |  | -8.80% |
-| 01:30 | SGD | Non-Oil Exports (YoY) (Jul) | 24.20% |  | 20.80% |
+| 01:30 | SGD | Non-Oil Exports (YoY) (Jul) | 24.20% |  | 24.40% |
 | 01:45 | SGD | Trade Balance (Jul) | 10.724B |  | 13.870B |
-| 02:30 | CNY | House Prices (YoY) (Jul) |  |  | -3.3% |
-| 24 min | CNY | Retail Sales (YoY) (Jul) |  | 1.5% | 1.0% |
-| 24 min | CNY | Chinese Retail Sales YTD (YoY) (Jul) |  |  | 1.33% |
 | 05:30 | JPY | Capacity Utilization (MoM) (Jun) |  |  | 0.1% |
 | 05:30 | JPY | Tertiary Industry Activity Index (Jun) |  |  | -1.40 |
 | 07:00 | NOK | Trade Balance (Jul) |  |  | 61.9B |
+| 08:00 | CNY | House Prices (YoY) (Jul) |  |  | -3.3% |
+| 08:00 | CNY | Retail Sales (YoY) (Jul) |  | 1.5% | 1.0% |
+| 08:00 | CNY | Chinese Retail Sales YTD (YoY) (Jul) |  |  | 1.33% |
 | 10:00 | CNY | FDI (Jul) |  |  | -5.00% |
 | 10:30 | EUR | German 12-Month Bubill Auction |  |  | 2.566% |
 | 10:30 | EUR | German 6-Month Bubill Auction |  |  | 2.436% |

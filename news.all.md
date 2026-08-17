@@ -12,20 +12,20 @@
 | 00:50 | JPY | Moderate | GDP Price Index (YoY) (Q2) | 2.6% | 2.4% | 3.2% |
 | 00:50 | JPY | Low | GDP Private Consumption (QoQ) (Q2) | 0.0% | 0.5% | 0.5% |
 | 01:30 | SGD | Low | Non-Oil Exports (MoM) (Jul) | -0.30% |  | -8.80% |
-| 01:30 | SGD | Low | Non-Oil Exports (YoY) (Jul) | 24.20% |  | 20.80% |
+| 01:30 | SGD | Low | Non-Oil Exports (YoY) (Jul) | 24.20% |  | 24.40% |
 | 01:45 | SGD | Low | Trade Balance (Jul) | 10.724B |  | 13.870B |
-| 02:30 | CNY | Low | House Prices (YoY) (Jul) |  |  | -3.3% |
-| 24 min | CNY | Moderate | Fixed Asset Investment (YoY) (Jul) |  | -6.2% | -5.7% |
-| 24 min | CNY | Moderate | Industrial Production (YoY) (Jul) |  | 5.0% | 5.3% |
-| 24 min | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Jul) |  |  | 5.4% |
-| 24 min | CNY | Low | Retail Sales (YoY) (Jul) |  | 1.5% | 1.0% |
-| 24 min | CNY | Low | Chinese Retail Sales YTD (YoY) (Jul) |  |  | 1.33% |
-| 24 min | CNY | Moderate | Chinese Unemployment Rate (Jul) |  | 5.1% | 5.0% |
-| 24 min | CNY | Moderate | NBS Press Conference |  |  |  |
 | 05:30 | JPY | Low | Capacity Utilization (MoM) (Jun) |  |  | 0.1% |
 | 05:30 | JPY | Moderate | Industrial Production (MoM) (Jun) |  | 1.3% | 1.3% |
 | 05:30 | JPY | Low | Tertiary Industry Activity Index (Jun) |  |  | -1.40 |
 | 07:00 | NOK | Low | Trade Balance (Jul) |  |  | 61.9B |
+| 08:00 | CNY | Low | House Prices (YoY) (Jul) |  |  | -3.3% |
+| 08:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Jul) |  | -6.2% | -5.7% |
+| 08:00 | CNY | Moderate | Industrial Production (YoY) (Jul) |  | 5.0% | 5.3% |
+| 08:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Jul) |  |  | 5.4% |
+| 08:00 | CNY | Low | Retail Sales (YoY) (Jul) |  | 1.5% | 1.0% |
+| 08:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Jul) |  |  | 1.33% |
+| 08:00 | CNY | Moderate | Chinese Unemployment Rate (Jul) |  | 5.1% | 5.0% |
+| 08:00 | CNY | Moderate | NBS Press Conference |  |  |  |
 | 10:00 | CNY | Low | FDI (Jul) |  |  | -5.00% |
 | 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 2.566% |
 | 10:30 | EUR | Low | German 6-Month Bubill Auction |  |  | 2.436% |
