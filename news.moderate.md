@@ -12,9 +12,9 @@
 | 08:00 | CNY | Chinese Unemployment Rate (Jul) | 5.2% | 5.1% | 5.0% |
 | 08:00 | CNY | NBS Press Conference |  |  |  |
 | 10:30 | EUR | ECB's Lane Speaks |  |  |  |
-| 13:30 | USD | NY Empire State Manufacturing Index (Aug) |  | 10.60 | 15.60 |
-| 13:30 | CAD | Core CPI (MoM) (Jul) |  |  | 0.1% |
-| 13:30 | CAD | Core CPI (YoY) (Jul) |  |  | 2.1% |
-| 13:30 | CAD | CPI (MoM) (Jul) |  | 0.4% | -0.4% |
-| 13:30 | CAD | Foreign Securities Purchases (Jun) |  | 15.00B | 7.90B |
+| 13:30 | USD | NY Empire State Manufacturing Index (Aug) | 20.60 | 10.60 | 15.60 |
+| 13:30 | CAD | Core CPI (MoM) (Jul) | 0.2% |  | 0.1% |
+| 13:30 | CAD | Core CPI (YoY) (Jul) | 2.3% |  | 2.1% |
+| 13:30 | CAD | CPI (MoM) (Jul) | 0.5% | 0.4% | -0.4% |
+| 13:30 | CAD | Foreign Securities Purchases (Jun) | 40.83B | 15.00B | 8.80B |
 | 21:00 | USD | TIC Net Long-Term Transactions (Jun) |  |  | 232.7B |

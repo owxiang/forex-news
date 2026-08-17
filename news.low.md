@@ -20,13 +20,12 @@
 | 10:50 | EUR | German 6-Month Bubill Auction | 2.502% |  | 2.436% |
 | 12:00 | BRL | IGP-10 Inflation Index (MoM) (Aug) | -0.5% | 0.1% | -1.1% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | BRL | IBC-Br Economic Activity (Jun) |  | -0.50% | 0.10% |
-| 13:00 | CNY | FDI (Jul) |  |  | -5.00% |
-| 13:30 | CAD | Common CPI (YoY) (Jul) |  | 2.5% | 2.6% |
-| 13:30 | CAD | CPI (YoY) (Jul) |  |  | 2.8% |
-| 13:30 | CAD | Foreign Securities Purchases by Canadians (Jun) |  |  | 22.270B |
-| 13:30 | CAD | Median CPI (YoY) (Jul) |  | 2.0% | 1.9% |
-| 13:30 | CAD | Trimmed CPI (YoY) (Jul) |  | 1.8% | 1.8% |
+| 13:00 | BRL | IBC-Br Economic Activity (Jun) | -0.60% | -0.50% | 0.10% |
+| 13:30 | CAD | Common CPI (YoY) (Jul) | 2.7% | 2.5% | 2.6% |
+| 13:30 | CAD | CPI (YoY) (Jul) | 3.0% |  | 2.8% |
+| 13:30 | CAD | Foreign Securities Purchases by Canadians (Jun) | 35.430B |  | 21.890B |
+| 13:30 | CAD | Median CPI (YoY) (Jul) | 2.0% | 2.0% | 1.9% |
+| 13:30 | CAD | Trimmed CPI (YoY) (Jul) | 1.9% | 1.8% | 1.9% |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.752% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.448% |
 | 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.579% |

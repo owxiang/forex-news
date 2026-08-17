@@ -31,18 +31,17 @@
 | 10:50 | EUR | Low | German 6-Month Bubill Auction | 2.502% |  | 2.436% |
 | 12:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Aug) | -0.5% | 0.1% | -1.1% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | BRL | Low | IBC-Br Economic Activity (Jun) |  | -0.50% | 0.10% |
-| 13:00 | CNY | Low | FDI (Jul) |  |  | -5.00% |
-| 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Aug) |  | 10.60 | 15.60 |
-| 13:30 | CAD | Low | Common CPI (YoY) (Jul) |  | 2.5% | 2.6% |
-| 13:30 | CAD | Moderate | Core CPI (MoM) (Jul) |  |  | 0.1% |
-| 13:30 | CAD | Moderate | Core CPI (YoY) (Jul) |  |  | 2.1% |
-| 13:30 | CAD | Moderate | CPI (MoM) (Jul) |  | 0.4% | -0.4% |
-| 13:30 | CAD | Low | CPI (YoY) (Jul) |  |  | 2.8% |
-| 13:30 | CAD | Moderate | Foreign Securities Purchases (Jun) |  | 15.00B | 7.90B |
-| 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Jun) |  |  | 22.270B |
-| 13:30 | CAD | Low | Median CPI (YoY) (Jul) |  | 2.0% | 1.9% |
-| 13:30 | CAD | Low | Trimmed CPI (YoY) (Jul) |  | 1.8% | 1.8% |
+| 13:00 | BRL | Low | IBC-Br Economic Activity (Jun) | -0.60% | -0.50% | 0.10% |
+| 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Aug) | 20.60 | 10.60 | 15.60 |
+| 13:30 | CAD | Low | Common CPI (YoY) (Jul) | 2.7% | 2.5% | 2.6% |
+| 13:30 | CAD | Moderate | Core CPI (MoM) (Jul) | 0.2% |  | 0.1% |
+| 13:30 | CAD | Moderate | Core CPI (YoY) (Jul) | 2.3% |  | 2.1% |
+| 13:30 | CAD | Moderate | CPI (MoM) (Jul) | 0.5% | 0.4% | -0.4% |
+| 13:30 | CAD | Low | CPI (YoY) (Jul) | 3.0% |  | 2.8% |
+| 13:30 | CAD | Moderate | Foreign Securities Purchases (Jun) | 40.83B | 15.00B | 8.80B |
+| 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Jun) | 35.430B |  | 21.890B |
+| 13:30 | CAD | Low | Median CPI (YoY) (Jul) | 2.0% | 2.0% | 1.9% |
+| 13:30 | CAD | Low | Trimmed CPI (YoY) (Jul) | 1.9% | 1.8% | 1.9% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.752% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.448% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.579% |
