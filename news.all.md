@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 01:00 | KRW | Low | Exports (YoY) (Jul) | 63.0% | 62.8% | 70.7% |
 | 01:30 | AUD | Low | Westpac Consumer Sentiment (Aug) | 6.0% |  | 4.1% |
-| 04:00 | NZD | Low | RBNZ Offshore Holdings (Jul) |  |  | 55.80% |
-| 04:35 | JPY | Low | 5-Year JGB Auction |  |  | 2.020% |
+| 04:00 | NZD | Low | RBNZ Offshore Holdings (Jul) | 56.90% |  | 55.80% |
+| 04:35 | JPY | Low | 5-Year JGB Auction | 2.163% |  | 2.020% |
 | 07:00 | GBP | Low | Average Earnings ex Bonus (Jun) |  | 3.4% | 3.4% |
 | 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Jun) |  | 4.0% | 4.3% |
 | 07:00 | GBP | Moderate | Claimant Count Change (Jul) |  | 11.2K | 6.7K |
