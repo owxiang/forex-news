@@ -6,7 +6,7 @@
 | 01:30 | AUD | Westpac Consumer Sentiment (Aug) | 6.0% |  | 4.1% |
 | 04:00 | NZD | RBNZ Offshore Holdings (Jul) | 56.90% |  | 55.80% |
 | 04:35 | JPY | 5-Year JGB Auction | 2.163% |  | 2.020% |
-| 07:00 | GBP | Average Earnings ex Bonus (Jun) |  | 3.4% | 3.4% |
+| 07:00 | GBP | Average Earnings ex Bonus (Jun) | 3.5% | 3.4% | 3.4% |
 | 09:00 | EUR | Spanish Trade Balance (Jun) |  |  | -8.24B |
 | 10:30 | ZAR | Business Confidence (Jul) |  |  | 124.1 |
 | 13:00 | NZD | GlobalDairyTrade Price Index |  |  | 0.1% |

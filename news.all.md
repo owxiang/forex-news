@@ -6,11 +6,11 @@
 | 01:30 | AUD | Low | Westpac Consumer Sentiment (Aug) | 6.0% |  | 4.1% |
 | 04:00 | NZD | Low | RBNZ Offshore Holdings (Jul) | 56.90% |  | 55.80% |
 | 04:35 | JPY | Low | 5-Year JGB Auction | 2.163% |  | 2.020% |
-| 07:00 | GBP | Low | Average Earnings ex Bonus (Jun) |  | 3.4% | 3.4% |
-| 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Jun) |  | 4.0% | 4.3% |
-| 07:00 | GBP | Moderate | Claimant Count Change (Jul) |  | 16.5K | 6.7K |
-| 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Jun) |  |  | 147K |
-| 07:00 | GBP | Moderate | Unemployment Rate (Jun) |  | 4.8% | 4.9% |
+| 07:00 | GBP | Low | Average Earnings ex Bonus (Jun) | 3.5% | 3.4% | 3.4% |
+| 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Jun) | 4.1% | 4.0% | 4.4% |
+| 07:00 | GBP | Moderate | Claimant Count Change (Jul) | -11.0K | 16.5K | -6.4K |
+| 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Jun) | 83K |  | 147K |
+| 07:00 | GBP | Moderate | Unemployment Rate (Jun) | 4.9% | 4.8% | 4.9% |
 | 09:00 | EUR | Low | Spanish Trade Balance (Jun) |  |  | -8.24B |
 | 09:30 | GBP | Moderate | Labour Productivity (Q1) |  | -0.5% | 0.9% |
 | 10:00 | EUR | Moderate | German ZEW Current Conditions (Aug) |  | -68.8 | -77.6 |
