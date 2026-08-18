@@ -18,6 +18,6 @@
 | 14:15 | USD | Capacity Utilization Rate (Jul) | 76.3% | 76.3% | 76.2% |
 | 14:15 | USD | Manufacturing Production (MoM) (Jul) | 0.2% | 0.2% | 0.3% |
 | 15:00 | USD | Pending Home Sales Index (Jul) | 71.2 |  | 72.9 |
-| 17:00 | NZD | GlobalDairyTrade Price Index |  |  | 0.1% |
-| 17:00 | USD | Milk Auctions |  |  | 3,778.0 |
+| 16:40 | NZD | GlobalDairyTrade Price Index | 2.3% |  | 0.1% |
+| 16:40 | USD | Milk Auctions | 3,873.0 |  | 3,778.0 |
 | 23:45 | NZD | PPI Output (QoQ) (Q2) |  | 0.8% | 0.8% |
