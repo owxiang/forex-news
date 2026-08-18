@@ -11,8 +11,8 @@
 | 07:00 | GBP | Moderate | Claimant Count Change (Jul) | -11.0K | 16.5K | -6.4K |
 | 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Jun) | 83K |  | 147K |
 | 07:00 | GBP | Moderate | Unemployment Rate (Jun) | 4.9% | 4.8% | 4.9% |
-| 09:00 | EUR | Low | Spanish Trade Balance (Jun) |  |  | -8.24B |
-| 09:30 | GBP | Moderate | Labour Productivity (Q1) |  | -0.5% | 0.9% |
+| 09:00 | EUR | Low | Spanish Trade Balance (Jun) | -7.69B |  | -8.24B |
+| 09:30 | GBP | Moderate | Labour Productivity (Q1) | 0.5% | -0.5% | -0.7% |
 | 10:00 | EUR | Moderate | German ZEW Current Conditions (Aug) |  | -68.8 | -77.6 |
 | 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Aug) |  | 30.1 | 26.3 |
 | 10:00 | EUR | Moderate | ZEW Economic Sentiment (Aug) |  | 25.9 | 23.4 |

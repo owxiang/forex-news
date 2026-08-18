@@ -6,7 +6,7 @@
 | 07:00 | GBP | Claimant Count Change (Jul) | -11.0K | 16.5K | -6.4K |
 | 07:00 | GBP | Employment Change 3M/3M (MoM) (Jun) | 83K |  | 147K |
 | 07:00 | GBP | Unemployment Rate (Jun) | 4.9% | 4.8% | 4.9% |
-| 09:30 | GBP | Labour Productivity (Q1) |  | -0.5% | 0.9% |
+| 09:30 | GBP | Labour Productivity (Q1) | 0.5% | -0.5% | -0.7% |
 | 10:00 | EUR | German ZEW Current Conditions (Aug) |  | -68.8 | -77.6 |
 | 10:00 | EUR | German ZEW Economic Sentiment (Aug) |  | 30.1 | 26.3 |
 | 10:00 | EUR | ZEW Economic Sentiment (Aug) |  | 25.9 | 23.4 |
