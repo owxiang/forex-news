@@ -13,10 +13,10 @@
 | 07:00 | GBP | Moderate | Unemployment Rate (Jun) | 4.9% | 4.8% | 4.9% |
 | 09:00 | EUR | Low | Spanish Trade Balance (Jun) | -7.69B |  | -8.24B |
 | 09:30 | GBP | Moderate | Labour Productivity (Q1) | 0.5% | -0.5% | -0.7% |
-| 10:00 | EUR | Moderate | German ZEW Current Conditions (Aug) |  | -68.8 | -77.6 |
-| 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Aug) |  | 30.1 | 26.3 |
-| 10:00 | EUR | Moderate | ZEW Economic Sentiment (Aug) |  | 25.9 | 23.4 |
-| 10:30 | ZAR | Low | Business Confidence (Jul) |  |  | 124.1 |
+| 10:00 | EUR | Moderate | German ZEW Current Conditions (Aug) | -61.1 | -68.8 | -77.6 |
+| 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Aug) | 34.2 | 30.1 | 26.3 |
+| 10:00 | EUR | Moderate | ZEW Economic Sentiment (Aug) | 31.4 | 25.9 | 23.4 |
+| 10:30 | ZAR | Low | Business Confidence (Jul) | 125.4 |  | 124.1 |
 | 12:45 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 13:15 | CAD | Moderate | Housing Starts (Jul) |  | 249.0K | 239.0K |
 | 13:30 | USD | Moderate | Building Permits (Jul) |  | 1.370M | 1.374M |
