@@ -1,23 +1,53 @@
-## 18 August 2026 - Low Impact Forex News
+## 19 August 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:00 | KRW | Exports (YoY) (Jul) | 63.0% | 62.8% | 70.7% |
-| 01:30 | AUD | Westpac Consumer Sentiment (Aug) | 6.0% |  | 4.1% |
-| 04:00 | NZD | RBNZ Offshore Holdings (Jul) | 56.90% |  | 55.80% |
-| 04:35 | JPY | 5-Year JGB Auction | 2.163% |  | 2.020% |
-| 07:00 | GBP | Average Earnings ex Bonus (Jun) | 3.5% | 3.4% | 3.4% |
-| 09:00 | EUR | Spanish Trade Balance (Jun) | -7.69B |  | -8.24B |
-| 10:30 | GBP | 10-Year Treasury Gilt Auction | 5.155% |  | 5.040% |
-| 10:30 | ZAR | Business Confidence (Jun) | 123.5 |  | 124.1 |
-| 10:31 | ZAR | Business Confidence (Jul) | 125.4 |  | 123.5 |
-| 13:30 | USD | Building Permits (MoM) (Jul) | 5.0% |  | -2.6% |
-| 13:30 | USD | Export Price Index (YoY) (Jul) | 8.2% |  | 10.2% |
-| 13:30 | USD | Import Price Index (YoY) (Jul) | 5.9% |  | 7.1% |
-| 13:55 | USD | Redbook (YoY) | 7.6% |  | 8.3% |
-| 14:15 | USD | Capacity Utilization Rate (Jul) | 76.3% | 76.3% | 76.2% |
-| 14:15 | USD | Manufacturing Production (MoM) (Jul) | 0.2% | 0.2% | 0.3% |
-| 15:00 | USD | Pending Home Sales Index (Jul) | 71.2 |  | 72.9 |
-| 16:40 | NZD | GlobalDairyTrade Price Index | 2.3% |  | 0.1% |
-| 16:40 | USD | Milk Auctions | 3,873.0 |  | 3,778.0 |
-| 23:45 | NZD | PPI Output (QoQ) (Q2) |  | 0.8% | 0.8% |
+| 00:50 | JPY | Core Machinery Orders (YoY) (Jun) |  | 10.8% | -1.9% |
+| 00:50 | JPY | Core Machinery Orders (MoM) (Jun) |  | 7.2% | -12.4% |
+| 02:30 | AUD | Wage Price Index (YoY) (Q2) |  | 3.2% | 3.3% |
+| 07:00 | GBP | Core CPI (YoY) (Jul) |  | 2.5% | 2.6% |
+| 07:00 | GBP | Core CPI (MoM) (Jul) |  | 0.1% | 0.3% |
+| 07:00 | GBP | Core PPI Output (YoY) (Jul) |  |  | 2.6% |
+| 07:00 | GBP | Core PPI Output (MoM) (Jul) |  |  | 0.5% |
+| 07:00 | GBP | Core RPI (YoY) (Jul) |  |  | 2.9% |
+| 07:00 | GBP | Core RPI (MoM) (Jul) |  |  | 0.3% |
+| 07:00 | GBP | CPI, n.s.a (Jul) |  |  | 142.50 |
+| 07:00 | GBP | PPI Input (YoY) (Jul) |  | 6.6% | 7.3% |
+| 07:00 | GBP | PPI Output (MoM) (Jul) |  | 0.2% | 0.0% |
+| 07:00 | GBP | PPI Output (YoY) (Jul) |  | 3.2% | 3.5% |
+| 07:00 | GBP | RPI (MoM) (Jul) |  | 0.8% | 0.3% |
+| 07:00 | GBP | RPI (YoY) (Jul) |  | 3.3% | 3.0% |
+| 07:30 | CHF | Industrial Production (YoY) (Q2) |  | -4.70% | -7.10% |
+| 08:30 | IDR | Deposit Facility Rate (Aug) |  | 4.75% | 4.75% |
+| 08:30 | IDR | Lending Facility Rate (Aug) |  | 6.50% | 6.50% |
+| 08:30 | IDR | Loans (YoY) (Jul) |  |  | 12.67% |
+| 09:00 | EUR | Current Account (Jun) |  | 26.8B | 25.1B |
+| 09:00 | EUR | Current Account n.s.a. (Jun) |  |  | -6.2B |
+| 09:00 | ZAR | Core CPI (MoM) (Jul) |  |  | 0.6% |
+| 09:00 | ZAR | Core CPI (YoY) (Jul) |  |  | 4.1% |
+| 09:00 | ZAR | CPI (MoM) (Jul) |  |  | 0.7% |
+| 09:00 | ZAR | CPI (YoY) (Jul) |  | 4.5% | 5.0% |
+| 09:30 | GBP | House Price Index (YoY) |  | 1.9% | 2.7% |
+| 10:00 | EUR | Core CPI (MoM) (Jul) |  | 0.0% | 0.2% |
+| 10:00 | EUR | CPI ex Tobacco (MoM) (Jul) |  |  | -0.1% |
+| 10:00 | EUR | CPI ex Tobacco (YoY) (Jul) |  |  | 2.7% |
+| 10:00 | EUR | CPI, n.s.a (Jul) |  | 103.22 | 103.02 |
+| 10:00 | EUR | HICP ex Energy & Food (YoY) (Jul) |  | 2.2% | 2.1% |
+| 10:00 | EUR | HICP ex Energy and Food (MoM) (Jul) |  | 0.0% | 0.2% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.77% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 3.6% |
+| 12:00 | USD | MBA Purchase Index |  |  | 157.9 |
+| 12:00 | USD | Mortgage Market Index |  |  | 248.6 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 744.4 |
+| 12:00 | ZAR | Business Confidence (Jun) |  |  | 124.1 |
+| 12:00 | ZAR | Retail Sales (YoY) (Jun) |  |  | 2.3% |
+| 13:00 | CNY | FDI (Jul) |  |  | -5.00% |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.026M |
+| 15:30 | USD | Crude Oil Imports |  |  | 1.768M |
+| 15:30 | USD | Distillate Fuel Production |  |  | 0.050M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | -0.010M |
+| 15:30 | USD | Gasoline Production |  |  | -0.001M |
+| 15:30 | USD | Heating Oil Stockpiles |  |  | 0.192M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.3% |
+| 15:30 | USD | Gasoline Inventories |  |  | -0.968M |
+| 18:30 | BRL | Foreign Exchange Flows |  |  | 0.652B |
