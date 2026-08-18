@@ -8,14 +8,14 @@
 | 04:35 | JPY | Low | 5-Year JGB Auction | 2.163% |  | 2.020% |
 | 07:00 | GBP | Low | Average Earnings ex Bonus (Jun) |  | 3.4% | 3.4% |
 | 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Jun) |  | 4.0% | 4.3% |
-| 07:00 | GBP | Moderate | Claimant Count Change (Jul) |  | 11.2K | 6.7K |
+| 07:00 | GBP | Moderate | Claimant Count Change (Jul) |  | 16.5K | 6.7K |
 | 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Jun) |  |  | 147K |
 | 07:00 | GBP | Moderate | Unemployment Rate (Jun) |  | 4.8% | 4.9% |
 | 09:00 | EUR | Low | Spanish Trade Balance (Jun) |  |  | -8.24B |
-| 09:30 | GBP | Moderate | Labour Productivity (Q1) |  | -0.5% | -0.5% |
+| 09:30 | GBP | Moderate | Labour Productivity (Q1) |  | -0.5% | 0.9% |
 | 10:00 | EUR | Moderate | German ZEW Current Conditions (Aug) |  | -68.8 | -77.6 |
-| 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Aug) |  | 30.0 | 26.3 |
-| 10:00 | EUR | Moderate | ZEW Economic Sentiment (Aug) |  | 25.4 | 23.4 |
+| 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Aug) |  | 30.1 | 26.3 |
+| 10:00 | EUR | Moderate | ZEW Economic Sentiment (Aug) |  | 25.9 | 23.4 |
 | 10:30 | ZAR | Low | Business Confidence (Jul) |  |  | 124.1 |
 | 12:45 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 13:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 0.1% |
@@ -25,7 +25,7 @@
 | 13:30 | USD | Low | Building Permits (MoM) (Jul) |  |  | -2.6% |
 | 13:30 | USD | Moderate | Export Price Index (MoM) (Jul) |  | 0.2% | -0.6% |
 | 13:30 | USD | Low | Export Price Index (YoY) (Jul) |  |  | 10.2% |
-| 13:30 | USD | Moderate | Housing Starts (Jul) |  | 1.350M | 1.427M |
+| 13:30 | USD | Moderate | Housing Starts (Jul) |  | 1.340M | 1.427M |
 | 13:30 | USD | Moderate | Housing Starts (MoM) (Jul) |  |  | 19.0% |
 | 13:30 | USD | Low | Import Price Index (YoY) (Jul) |  |  | 7.1% |
 | 13:30 | USD | Moderate | Import Price Index (MoM) (Jul) |  | 0.1% | 0.3% |
@@ -38,5 +38,5 @@
 | 15:00 | USD | Low | Pending Home Sales Index (Jul) |  |  | 72.5 |
 | 15:45 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 4.3% | 4.3% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 9.072M |
-| 23:45 | NZD | Moderate | PPI Input (QoQ) (Q2) |  | 0.5% | 1.4% |
-| 23:45 | NZD | Low | PPI Output (QoQ) (Q2) |  | 0.4% | 0.8% |
+| 23:45 | NZD | Moderate | PPI Input (QoQ) (Q2) |  | 1.3% | 1.4% |
+| 23:45 | NZD | Low | PPI Output (QoQ) (Q2) |  | 0.8% | 0.8% |

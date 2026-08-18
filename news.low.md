@@ -18,4 +18,4 @@
 | 14:15 | USD | Capacity Utilization Rate (Jul) |  | 76.3% | 76.1% |
 | 14:15 | USD | Manufacturing Production (MoM) (Jul) |  | 0.2% | 0.0% |
 | 15:00 | USD | Pending Home Sales Index (Jul) |  |  | 72.5 |
-| 23:45 | NZD | PPI Output (QoQ) (Q2) |  | 0.4% | 0.8% |
+| 23:45 | NZD | PPI Output (QoQ) (Q2) |  | 0.8% | 0.8% |
