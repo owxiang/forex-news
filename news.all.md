@@ -20,16 +20,16 @@
 | 10:30 | ZAR | Low | Business Confidence (Jun) | 123.5 |  | 124.1 |
 | 10:31 | ZAR | Low | Business Confidence (Jul) | 125.4 |  | 123.5 |
 | 12:45 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 8.30K |
-| 13:15 | CAD | Moderate | Housing Starts (Jul) |  | 249.0K | 239.0K |
-| 13:30 | USD | Moderate | Building Permits (Jul) |  | 1.370M | 1.374M |
-| 13:30 | USD | Low | Building Permits (MoM) (Jul) |  |  | -2.6% |
-| 13:30 | USD | Moderate | Export Price Index (MoM) (Jul) |  | 0.2% | -0.6% |
-| 13:30 | USD | Low | Export Price Index (YoY) (Jul) |  |  | 10.2% |
-| 13:30 | USD | Moderate | Housing Starts (Jul) |  | 1.340M | 1.427M |
-| 13:30 | USD | Moderate | Housing Starts (MoM) (Jul) |  |  | 19.0% |
-| 13:30 | USD | Low | Import Price Index (YoY) (Jul) |  |  | 7.1% |
-| 13:30 | USD | Moderate | Import Price Index (MoM) (Jul) |  | 0.1% | 0.3% |
+| 13:15 | USD | Moderate | ADP Employment Change Weekly | 9.50K |  | 8.30K |
+| 13:15 | CAD | Moderate | Housing Starts (Jul) | 229.1K | 249.0K | 240.8K |
+| 13:30 | USD | Moderate | Building Permits (Jul) | 1.443M | 1.370M | 1.374M |
+| 13:30 | USD | Low | Building Permits (MoM) (Jul) | 5.0% |  | -2.6% |
+| 13:30 | USD | Moderate | Export Price Index (MoM) (Jul) | -1.3% | 0.2% | -0.7% |
+| 13:30 | USD | Low | Export Price Index (YoY) (Jul) | 8.2% |  | 10.2% |
+| 13:30 | USD | Moderate | Housing Starts (Jul) | 1.239M | 1.340M | 1.415M |
+| 13:30 | USD | Moderate | Housing Starts (MoM) (Jul) | -12.4% |  | 19.7% |
+| 13:30 | USD | Low | Import Price Index (YoY) (Jul) | 5.9% |  | 7.1% |
+| 13:30 | USD | Moderate | Import Price Index (MoM) (Jul) | -0.4% | 0.1% | -0.3% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 8.3% |
 | 14:15 | USD | Low | Capacity Utilization Rate (Jul) |  | 76.3% | 76.1% |
 | 14:15 | USD | Moderate | Industrial Production (MoM) (Jul) |  | 0.3% | 0.1% |

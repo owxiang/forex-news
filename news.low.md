@@ -11,9 +11,9 @@
 | 10:30 | GBP | 10-Year Treasury Gilt Auction | 5.155% |  | 5.040% |
 | 10:30 | ZAR | Business Confidence (Jun) | 123.5 |  | 124.1 |
 | 10:31 | ZAR | Business Confidence (Jul) | 125.4 |  | 123.5 |
-| 13:30 | USD | Building Permits (MoM) (Jul) |  |  | -2.6% |
-| 13:30 | USD | Export Price Index (YoY) (Jul) |  |  | 10.2% |
-| 13:30 | USD | Import Price Index (YoY) (Jul) |  |  | 7.1% |
+| 13:30 | USD | Building Permits (MoM) (Jul) | 5.0% |  | -2.6% |
+| 13:30 | USD | Export Price Index (YoY) (Jul) | 8.2% |  | 10.2% |
+| 13:30 | USD | Import Price Index (YoY) (Jul) | 5.9% |  | 7.1% |
 | 13:55 | USD | Redbook (YoY) |  |  | 8.3% |
 | 14:15 | USD | Capacity Utilization Rate (Jul) |  | 76.3% | 76.1% |
 | 14:15 | USD | Manufacturing Production (MoM) (Jul) |  | 0.2% | 0.0% |
