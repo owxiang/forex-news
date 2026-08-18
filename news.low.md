@@ -14,10 +14,10 @@
 | 13:30 | USD | Building Permits (MoM) (Jul) | 5.0% |  | -2.6% |
 | 13:30 | USD | Export Price Index (YoY) (Jul) | 8.2% |  | 10.2% |
 | 13:30 | USD | Import Price Index (YoY) (Jul) | 5.9% |  | 7.1% |
-| 13:55 | USD | Redbook (YoY) |  |  | 8.3% |
-| 14:15 | USD | Capacity Utilization Rate (Jul) |  | 76.3% | 76.1% |
-| 14:15 | USD | Manufacturing Production (MoM) (Jul) |  | 0.2% | 0.0% |
-| 15:00 | USD | Pending Home Sales Index (Jul) |  |  | 72.5 |
+| 13:55 | USD | Redbook (YoY) | 7.6% |  | 8.3% |
+| 14:15 | USD | Capacity Utilization Rate (Jul) | 76.3% | 76.3% | 76.2% |
+| 14:15 | USD | Manufacturing Production (MoM) (Jul) | 0.2% | 0.2% | 0.3% |
+| 14 min | USD | Pending Home Sales Index (Jul) |  |  | 72.5 |
 | 16:00 | NZD | GlobalDairyTrade Price Index |  |  | 0.1% |
 | 16:00 | USD | Milk Auctions |  |  | 3,778.0 |
 | 23:45 | NZD | PPI Output (QoQ) (Q2) |  | 0.8% | 0.8% |

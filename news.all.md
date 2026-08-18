@@ -30,14 +30,14 @@
 | 13:30 | USD | Moderate | Housing Starts (MoM) (Jul) | -12.4% |  | 19.7% |
 | 13:30 | USD | Low | Import Price Index (YoY) (Jul) | 5.9% |  | 7.1% |
 | 13:30 | USD | Moderate | Import Price Index (MoM) (Jul) | -0.4% | 0.1% | -0.3% |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 8.3% |
-| 14:15 | USD | Low | Capacity Utilization Rate (Jul) |  | 76.3% | 76.1% |
-| 14:15 | USD | Moderate | Industrial Production (MoM) (Jul) |  | 0.3% | 0.1% |
-| 14:15 | USD | Moderate | Industrial Production (YoY) (Jul) |  |  | 1.14% |
-| 14:15 | USD | Low | Manufacturing Production (MoM) (Jul) |  | 0.2% | 0.0% |
-| 15:00 | USD | Moderate | Pending Home Sales (MoM) (Jul) |  | 0.1% | -5.4% |
-| 15:00 | USD | Low | Pending Home Sales Index (Jul) |  |  | 72.5 |
-| 15:45 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 4.3% | 4.3% |
+| 13:55 | USD | Low | Redbook (YoY) | 7.6% |  | 8.3% |
+| 14:15 | USD | Low | Capacity Utilization Rate (Jul) | 76.3% | 76.3% | 76.2% |
+| 14:15 | USD | Moderate | Industrial Production (MoM) (Jul) | 0.2% | 0.3% | 0.3% |
+| 14:15 | USD | Moderate | Industrial Production (YoY) (Jul) | 1.08% |  | 1.29% |
+| 14:15 | USD | Low | Manufacturing Production (MoM) (Jul) | 0.2% | 0.2% | 0.3% |
+| 14 min | USD | Moderate | Pending Home Sales (MoM) (Jul) |  | 0.1% | -5.4% |
+| 14 min | USD | Low | Pending Home Sales Index (Jul) |  |  | 72.5 |
+| 59 min | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 4.3% | 4.3% |
 | 16:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 0.1% |
 | 16:00 | USD | Low | Milk Auctions |  |  | 3,778.0 |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 9.072M |

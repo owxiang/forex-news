@@ -18,9 +18,9 @@
 | 13:30 | USD | Housing Starts (Jul) | 1.239M | 1.340M | 1.415M |
 | 13:30 | USD | Housing Starts (MoM) (Jul) | -12.4% |  | 19.7% |
 | 13:30 | USD | Import Price Index (MoM) (Jul) | -0.4% | 0.1% | -0.3% |
-| 14:15 | USD | Industrial Production (MoM) (Jul) |  | 0.3% | 0.1% |
-| 14:15 | USD | Industrial Production (YoY) (Jul) |  |  | 1.14% |
-| 15:00 | USD | Pending Home Sales (MoM) (Jul) |  | 0.1% | -5.4% |
-| 15:45 | USD | Atlanta Fed GDPNow (Q3) |  | 4.3% | 4.3% |
+| 14:15 | USD | Industrial Production (MoM) (Jul) | 0.2% | 0.3% | 0.3% |
+| 14:15 | USD | Industrial Production (YoY) (Jul) | 1.08% |  | 1.29% |
+| 14 min | USD | Pending Home Sales (MoM) (Jul) |  | 0.1% | -5.4% |
+| 59 min | USD | Atlanta Fed GDPNow (Q3) |  | 4.3% | 4.3% |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | 9.072M |
 | 23:45 | NZD | PPI Input (QoQ) (Q2) |  | 1.3% | 1.4% |
