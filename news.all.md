@@ -1,54 +1,42 @@
-## 17 August 2026 - All Forex News
+## 18 August 2026 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:01 | GBP | Low | Rightmove House Price Index (MoM) | -2.0% |  | -1.0% |
-| 00:01 | GBP | Low | Rightmove House Price Index (YoY) (Aug) | -1.0% |  | -0.4% |
-| 00:50 | JPY | High | GDP (QoQ) (Q2) | 0.3% | 0.5% | 0.5% |
-| 00:50 | JPY | Moderate | GDP (YoY) (Q2) | 1.1% | 2.0% | 1.9% |
-| 00:50 | JPY | Moderate | GDP Annualized (QoQ) (Q2) | 1.1% | 2.0% | 1.9% |
-| 00:50 | JPY | Low | GDP Capital Expenditure (QoQ) (Q2) | -1.2% | 0.4% | -1.0% |
-| 00:50 | JPY | Low | GDP External Demand (QoQ) (Q2) | 0.5% | 0.3% | 0.3% |
-| 00:50 | JPY | Moderate | GDP Price Index (YoY) (Q2) | 2.6% | 2.4% | 3.2% |
-| 00:50 | JPY | Low | GDP Private Consumption (QoQ) (Q2) | 0.0% | 0.5% | 0.5% |
-| 01:30 | SGD | Low | Non-Oil Exports (MoM) (Jul) | -0.30% |  | -8.80% |
-| 01:30 | SGD | Low | Non-Oil Exports (YoY) (Jul) | 24.20% |  | 24.40% |
-| 01:45 | SGD | Low | Trade Balance (Jul) | 10.724B |  | 13.870B |
-| 05:30 | JPY | Low | Capacity Utilization (MoM) (Jun) | 4.1% |  | 0.1% |
-| 05:30 | JPY | Moderate | Industrial Production (MoM) (Jun) | 1.9% | 1.3% | 0.1% |
-| 05:30 | JPY | Low | Tertiary Industry Activity Index (Jun) | 5.30 |  | -1.60 |
-| 07:00 | NOK | Low | Trade Balance (Jul) | 84.3B |  | 63.3B |
-| 08:00 | CNY | Low | House Prices (YoY) (Jul) | -3.2% |  | -3.3% |
-| 08:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Jul) | -6.7% | -6.2% | -5.7% |
-| 08:00 | CNY | Moderate | Industrial Production (YoY) (Jul) | 4.5% | 5.0% | 5.3% |
-| 08:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Jul) | 5.3% |  | 5.4% |
-| 08:00 | CNY | Low | Retail Sales (YoY) (Jul) | 0.6% | 1.5% | 1.0% |
-| 08:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Jul) | 1.23% |  | 1.33% |
-| 08:00 | CNY | Moderate | Chinese Unemployment Rate (Jul) | 5.2% | 5.1% | 5.0% |
-| 08:00 | CNY | Moderate | NBS Press Conference |  |  |  |
-| 10:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 10:50 | EUR | Low | German 12-Month Bubill Auction | 2.656% |  | 2.566% |
-| 10:50 | EUR | Low | German 6-Month Bubill Auction | 2.502% |  | 2.436% |
-| 12:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Aug) | -0.5% | 0.1% | -1.1% |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | BRL | Low | IBC-Br Economic Activity (Jun) | -0.60% | -0.50% | 0.10% |
-| 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Aug) | 20.60 | 10.60 | 15.60 |
-| 13:30 | CAD | Low | Common CPI (YoY) (Jul) | 2.7% | 2.5% | 2.6% |
-| 13:30 | CAD | Moderate | Core CPI (MoM) (Jul) | 0.2% |  | 0.1% |
-| 13:30 | CAD | Moderate | Core CPI (YoY) (Jul) | 2.3% |  | 2.1% |
-| 13:30 | CAD | Moderate | CPI (MoM) (Jul) | 0.5% | 0.4% | -0.4% |
-| 13:30 | CAD | Low | CPI (YoY) (Jul) | 3.0% |  | 2.8% |
-| 13:30 | CAD | Moderate | Foreign Securities Purchases (Jun) | 40.83B | 15.00B | 8.80B |
-| 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Jun) | 35.430B |  | 21.890B |
-| 13:30 | CAD | Low | Median CPI (YoY) (Jul) | 2.0% | 2.0% | 1.9% |
-| 13:30 | CAD | Low | Trimmed CPI (YoY) (Jul) | 1.9% | 1.8% | 1.9% |
-| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.781% |  | 2.752% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.484% |  | 2.448% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.608% |  | 2.579% |
-| 15:00 | USD | Low | NAHB Housing Market Index (Aug) | 35 | 33 | 34 |
-| 16:30 | USD | Low | 3-Month Bill Auction | 3.715% |  | 3.735% |
-| 16:30 | USD | Low | 6-Month Bill Auction | 3.780% |  | 3.830% |
-| 21:00 | USD | Low | US Foreign Buying, T-bonds (Jun) | 6.80B |  | 56.60B |
-| 21:00 | USD | Low | Overall Net Capital Flow (Jun) | 133.50B |  | 131.50B |
-| 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Jun) | 172.7B |  | 231.2B |
-| 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Jun) | 172.70B | 151.40B | 231.20B |
+| 01:00 | KRW | Low | Exports (YoY) (Jul) | 63.0% | 62.8% | 70.7% |
+| 01:30 | AUD | Low | Westpac Consumer Sentiment (Aug) | 6.0% |  | 4.1% |
+| 04:00 | NZD | Low | RBNZ Offshore Holdings (Jul) |  |  | 55.80% |
+| 04:35 | JPY | Low | 5-Year JGB Auction |  |  | 2.020% |
+| 07:00 | GBP | Low | Average Earnings ex Bonus (Jun) |  | 3.4% | 3.4% |
+| 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Jun) |  | 4.0% | 4.3% |
+| 07:00 | GBP | Moderate | Claimant Count Change (Jul) |  | 11.2K | 6.7K |
+| 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Jun) |  |  | 147K |
+| 07:00 | GBP | Moderate | Unemployment Rate (Jun) |  | 4.8% | 4.9% |
+| 09:00 | EUR | Low | Spanish Trade Balance (Jun) |  |  | -8.24B |
+| 09:30 | GBP | Moderate | Labour Productivity (Q1) |  | -0.5% | -0.5% |
+| 10:00 | EUR | Moderate | German ZEW Current Conditions (Aug) |  | -68.8 | -77.6 |
+| 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Aug) |  | 30.0 | 26.3 |
+| 10:00 | EUR | Moderate | ZEW Economic Sentiment (Aug) |  | 25.4 | 23.4 |
+| 10:30 | ZAR | Low | Business Confidence (Jul) |  |  | 124.1 |
+| 12:45 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 13:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 0.1% |
+| 13:00 | USD | Low | Milk Auctions |  |  | 3,778.0 |
+| 13:15 | CAD | Moderate | Housing Starts (Jul) |  | 249.0K | 239.0K |
+| 13:30 | USD | Moderate | Building Permits (Jul) |  | 1.370M | 1.374M |
+| 13:30 | USD | Low | Building Permits (MoM) (Jul) |  |  | -2.6% |
+| 13:30 | USD | Moderate | Export Price Index (MoM) (Jul) |  | 0.2% | -0.6% |
+| 13:30 | USD | Low | Export Price Index (YoY) (Jul) |  |  | 10.2% |
+| 13:30 | USD | Moderate | Housing Starts (Jul) |  | 1.350M | 1.427M |
+| 13:30 | USD | Moderate | Housing Starts (MoM) (Jul) |  |  | 19.0% |
+| 13:30 | USD | Low | Import Price Index (YoY) (Jul) |  |  | 7.1% |
+| 13:30 | USD | Moderate | Import Price Index (MoM) (Jul) |  | 0.1% | 0.3% |
+| 13:55 | USD | Low | Redbook (YoY) |  |  | 8.3% |
+| 14:15 | USD | Low | Capacity Utilization Rate (Jul) |  | 76.3% | 76.1% |
+| 14:15 | USD | Moderate | Industrial Production (MoM) (Jul) |  | 0.3% | 0.1% |
+| 14:15 | USD | Moderate | Industrial Production (YoY) (Jul) |  |  | 1.14% |
+| 14:15 | USD | Low | Manufacturing Production (MoM) (Jul) |  | 0.2% | 0.0% |
+| 15:00 | USD | Moderate | Pending Home Sales (MoM) (Jul) |  | 0.1% | -5.4% |
+| 15:00 | USD | Low | Pending Home Sales Index (Jul) |  |  | 72.5 |
+| 15:45 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 4.3% | 4.3% |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 9.072M |
+| 23:45 | NZD | Moderate | PPI Input (QoQ) (Q2) |  | 0.5% | 1.4% |
+| 23:45 | NZD | Low | PPI Output (QoQ) (Q2) |  | 0.4% | 0.8% |
