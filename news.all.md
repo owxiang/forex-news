@@ -18,8 +18,6 @@
 | 10:00 | EUR | Moderate | ZEW Economic Sentiment (Aug) |  | 25.9 | 23.4 |
 | 10:30 | ZAR | Low | Business Confidence (Jul) |  |  | 124.1 |
 | 12:45 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 13:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 0.1% |
-| 13:00 | USD | Low | Milk Auctions |  |  | 3,778.0 |
 | 13:15 | CAD | Moderate | Housing Starts (Jul) |  | 249.0K | 239.0K |
 | 13:30 | USD | Moderate | Building Permits (Jul) |  | 1.370M | 1.374M |
 | 13:30 | USD | Low | Building Permits (MoM) (Jul) |  |  | -2.6% |
@@ -27,8 +25,8 @@
 | 13:30 | USD | Low | Export Price Index (YoY) (Jul) |  |  | 10.2% |
 | 13:30 | USD | Moderate | Housing Starts (Jul) |  | 1.340M | 1.427M |
 | 13:30 | USD | Moderate | Housing Starts (MoM) (Jul) |  |  | 19.0% |
-| 13:30 | USD | Low | Import Price Index (YoY) (Jul) |  |  | 7.1% |
 | 13:30 | USD | Moderate | Import Price Index (MoM) (Jul) |  | 0.1% | 0.3% |
+| 13:30 | USD | Low | Import Price Index (YoY) (Jul) |  |  | 7.1% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 8.3% |
 | 14:15 | USD | Low | Capacity Utilization Rate (Jul) |  | 76.3% | 76.1% |
 | 14:15 | USD | Moderate | Industrial Production (MoM) (Jul) |  | 0.3% | 0.1% |
@@ -37,6 +35,8 @@
 | 15:00 | USD | Moderate | Pending Home Sales (MoM) (Jul) |  | 0.1% | -5.4% |
 | 15:00 | USD | Low | Pending Home Sales Index (Jul) |  |  | 72.5 |
 | 15:45 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 4.3% | 4.3% |
+| 16:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 0.1% |
+| 16:00 | USD | Low | Milk Auctions |  |  | 3,778.0 |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 9.072M |
 | 23:45 | NZD | Moderate | PPI Input (QoQ) (Q2) |  | 1.3% | 1.4% |
 | 23:45 | NZD | Low | PPI Output (QoQ) (Q2) |  | 0.8% | 0.8% |
