@@ -16,8 +16,11 @@
 | 10:00 | EUR | Moderate | German ZEW Current Conditions (Aug) | -61.1 | -68.8 | -77.6 |
 | 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Aug) | 34.2 | 30.1 | 26.3 |
 | 10:00 | EUR | Moderate | ZEW Economic Sentiment (Aug) | 31.4 | 25.9 | 23.4 |
-| 10:30 | ZAR | Low | Business Confidence (Jul) | 125.4 |  | 124.1 |
+| 10:30 | GBP | Low | 10-Year Treasury Gilt Auction | 5.155% |  | 5.040% |
+| 10:30 | ZAR | Low | Business Confidence (Jun) | 123.5 |  | 124.1 |
+| 10:31 | ZAR | Low | Business Confidence (Jul) | 125.4 |  | 123.5 |
 | 12:45 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 8.30K |
 | 13:15 | CAD | Moderate | Housing Starts (Jul) |  | 249.0K | 239.0K |
 | 13:30 | USD | Moderate | Building Permits (Jul) |  | 1.370M | 1.374M |
 | 13:30 | USD | Low | Building Permits (MoM) (Jul) |  |  | -2.6% |
@@ -25,8 +28,8 @@
 | 13:30 | USD | Low | Export Price Index (YoY) (Jul) |  |  | 10.2% |
 | 13:30 | USD | Moderate | Housing Starts (Jul) |  | 1.340M | 1.427M |
 | 13:30 | USD | Moderate | Housing Starts (MoM) (Jul) |  |  | 19.0% |
-| 13:30 | USD | Moderate | Import Price Index (MoM) (Jul) |  | 0.1% | 0.3% |
 | 13:30 | USD | Low | Import Price Index (YoY) (Jul) |  |  | 7.1% |
+| 13:30 | USD | Moderate | Import Price Index (MoM) (Jul) |  | 0.1% | 0.3% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 8.3% |
 | 14:15 | USD | Low | Capacity Utilization Rate (Jul) |  | 76.3% | 76.1% |
 | 14:15 | USD | Moderate | Industrial Production (MoM) (Jul) |  | 0.3% | 0.1% |

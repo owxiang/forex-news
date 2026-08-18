@@ -11,6 +11,7 @@
 | 10:00 | EUR | German ZEW Economic Sentiment (Aug) | 34.2 | 30.1 | 26.3 |
 | 10:00 | EUR | ZEW Economic Sentiment (Aug) | 31.4 | 25.9 | 23.4 |
 | 12:45 | EUR | ECB's Lane Speaks |  |  |  |
+| 13:15 | USD | ADP Employment Change Weekly |  |  | 8.30K |
 | 13:15 | CAD | Housing Starts (Jul) |  | 249.0K | 239.0K |
 | 13:30 | USD | Building Permits (Jul) |  | 1.370M | 1.374M |
 | 13:30 | USD | Export Price Index (MoM) (Jul) |  | 0.2% | -0.6% |

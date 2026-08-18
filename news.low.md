@@ -8,7 +8,9 @@
 | 04:35 | JPY | 5-Year JGB Auction | 2.163% |  | 2.020% |
 | 07:00 | GBP | Average Earnings ex Bonus (Jun) | 3.5% | 3.4% | 3.4% |
 | 09:00 | EUR | Spanish Trade Balance (Jun) | -7.69B |  | -8.24B |
-| 10:30 | ZAR | Business Confidence (Jul) | 125.4 |  | 124.1 |
+| 10:30 | GBP | 10-Year Treasury Gilt Auction | 5.155% |  | 5.040% |
+| 10:30 | ZAR | Business Confidence (Jun) | 123.5 |  | 124.1 |
+| 10:31 | ZAR | Business Confidence (Jul) | 125.4 |  | 123.5 |
 | 13:30 | USD | Building Permits (MoM) (Jul) |  |  | -2.6% |
 | 13:30 | USD | Export Price Index (YoY) (Jul) |  |  | 10.2% |
 | 13:30 | USD | Import Price Index (YoY) (Jul) |  |  | 7.1% |
