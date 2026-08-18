@@ -40,6 +40,6 @@
 | 15:20 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 4.0% | 4.3% | 4.3% |
 | 16:40 | NZD | Low | GlobalDairyTrade Price Index | 2.3% |  | 0.1% |
 | 16:40 | USD | Low | Milk Auctions | 3,873.0 |  | 3,778.0 |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 9.072M |
+| 21:50 | USD | Moderate | API Weekly Crude Oil Stock | -0.328M |  | 9.072M |
 | 23:45 | NZD | Moderate | PPI Input (QoQ) (Q2) |  | 1.3% | 1.4% |
 | 23:45 | NZD | Low | PPI Output (QoQ) (Q2) |  | 0.8% | 0.8% |

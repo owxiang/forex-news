@@ -22,5 +22,5 @@
 | 14:15 | USD | Industrial Production (YoY) (Jul) | 1.08% |  | 1.29% |
 | 15:00 | USD | Pending Home Sales (MoM) (Jul) | -2.3% | 0.1% | -4.8% |
 | 15:20 | USD | Atlanta Fed GDPNow (Q3) | 4.0% | 4.3% | 4.3% |
-| 21:30 | USD | API Weekly Crude Oil Stock |  |  | 9.072M |
+| 21:50 | USD | API Weekly Crude Oil Stock | -0.328M |  | 9.072M |
 | 23:45 | NZD | PPI Input (QoQ) (Q2) |  | 1.3% | 1.4% |
