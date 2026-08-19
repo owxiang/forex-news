@@ -27,13 +27,13 @@
 | 08:30 | IDR | Low | Deposit Facility Rate (Aug) | 4.75% | 4.75% | 4.75% |
 | 08:30 | IDR | Low | Lending Facility Rate (Aug) | 6.50% | 6.50% | 6.50% |
 | 08:30 | IDR | Low | Loans (YoY) (Jul) | 13.58% |  | 12.67% |
-| 09:00 | EUR | Low | Current Account (Jun) |  | 26.8B | 25.1B |
-| 09:00 | EUR | Low | Current Account n.s.a. (Jun) |  |  | -6.2B |
-| 09:00 | ZAR | Low | Core CPI (MoM) (Jul) |  |  | 0.6% |
-| 09:00 | ZAR | Low | Core CPI (YoY) (Jul) |  |  | 4.1% |
-| 09:00 | ZAR | Low | CPI (MoM) (Jul) |  |  | 0.7% |
-| 09:00 | ZAR | Low | CPI (YoY) (Jul) |  | 4.5% | 5.0% |
-| 09:30 | GBP | Low | House Price Index (YoY) |  | 1.9% | 2.7% |
+| 09:00 | EUR | Low | Current Account (Jun) | 35.1B | 26.8B | 25.1B |
+| 09:00 | EUR | Low | Current Account n.s.a. (Jun) | 46.9B |  | -6.2B |
+| 09:00 | ZAR | Low | Core CPI (MoM) (Jul) | 0.5% |  | 0.6% |
+| 09:00 | ZAR | Low | Core CPI (YoY) (Jul) | 4.2% |  | 4.1% |
+| 09:00 | ZAR | Low | CPI (MoM) (Jul) | 0.2% |  | 0.7% |
+| 09:00 | ZAR | Low | CPI (YoY) (Jul) | 4.3% | 4.5% | 5.0% |
+| 09:30 | GBP | Low | House Price Index (YoY) | 2.0% | 1.9% | 2.7% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Jul) |  | 2.5% | 2.4% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Jul) |  | 0.0% | 0.2% |
 | 10:00 | EUR | High | CPI (YoY) (Jul) |  | 2.9% | 2.8% |
