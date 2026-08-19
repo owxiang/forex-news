@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Core Machinery Orders (YoY) (Jun) | 16.9% | 10.8% | -1.9% |
 | 00:50 | JPY | Core Machinery Orders (MoM) (Jun) | 9.7% | 7.2% | -12.4% |
-| 02:30 | AUD | Wage Price Index (YoY) (Q2) | 3.2% | 3.2% | 3.3% |
+| 02:30 | AUD | Wage Price Index (YoY) (Q2) | 3.2% | 3.2% | 3.2% |
 | 07:00 | GBP | Core CPI (YoY) (Jul) |  | 2.5% | 2.6% |
 | 07:00 | GBP | Core CPI (MoM) (Jul) |  | 0.1% | 0.3% |
 | 07:00 | GBP | Core PPI Output (YoY) (Jul) |  |  | 2.6% |
