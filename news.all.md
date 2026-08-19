@@ -44,12 +44,12 @@
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jul) | 2.2% | 2.2% | 2.1% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jul) | 0.0% | 0.0% | 0.2% |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction | 3.260% |  | 3.130% |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.77% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 3.6% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 157.9 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 248.6 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 744.4 |
-| 12:00 | ZAR | Low | Retail Sales (YoY) (Jun) |  |  | 2.3% |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.77% |  | 6.77% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | -0.4% |  | 3.6% |
+| 12:00 | USD | Low | MBA Purchase Index | 154.8 |  | 157.9 |
+| 12:00 | USD | Low | Mortgage Market Index | 247.7 |  | 248.6 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 755.9 |  | 744.4 |
+| 12:00 | ZAR | Low | Retail Sales (YoY) (Jun) | 1.6% |  | 2.2% |
 | 12:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
 | 14:00 | CNY | Low | FDI (Jul) |  |  | -5.00% |
 | 15:30 | USD | High | Crude Oil Inventories |  | 0.200M | 17.423M |

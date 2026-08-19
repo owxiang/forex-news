@@ -34,12 +34,12 @@
 | 10:00 | EUR | CPI, n.s.a (Jul) | 103.24 | 103.22 | 103.02 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Jul) | 2.2% | 2.2% | 2.1% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Jul) | 0.0% | 0.0% | 0.2% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.77% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 3.6% |
-| 12:00 | USD | MBA Purchase Index |  |  | 157.9 |
-| 12:00 | USD | Mortgage Market Index |  |  | 248.6 |
-| 12:00 | USD | Mortgage Refinance Index |  |  | 744.4 |
-| 12:00 | ZAR | Retail Sales (YoY) (Jun) |  |  | 2.3% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.77% |  | 6.77% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | -0.4% |  | 3.6% |
+| 12:00 | USD | MBA Purchase Index | 154.8 |  | 157.9 |
+| 12:00 | USD | Mortgage Market Index | 247.7 |  | 248.6 |
+| 12:00 | USD | Mortgage Refinance Index | 755.9 |  | 744.4 |
+| 12:00 | ZAR | Retail Sales (YoY) (Jun) | 1.6% |  | 2.2% |
 | 14:00 | CNY | FDI (Jul) |  |  | -5.00% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.026M |
 | 15:30 | USD | Crude Oil Imports |  |  | 1.768M |
