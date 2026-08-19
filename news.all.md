@@ -51,16 +51,16 @@
 | 12:00 | USD | Low | Mortgage Refinance Index | 755.9 |  | 744.4 |
 | 12:00 | ZAR | Low | Retail Sales (YoY) (Jun) | 1.6% |  | 2.2% |
 | 12:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
-| 15:30 | USD | High | Crude Oil Inventories |  | 0.200M | 17.423M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.026M |
-| 15:30 | USD | Low | Crude Oil Imports |  |  | 1.768M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 1.611M |
-| 15:30 | USD | Low | Distillate Fuel Production |  |  | 0.050M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | -0.900M | -0.010M |
-| 15:30 | USD | Low | Gasoline Production |  |  | -0.001M |
-| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.192M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.3% |
-| 15:30 | USD | Low | Gasoline Inventories |  | -1.200M | -0.968M |
+| 15:30 | USD | High | Crude Oil Inventories | 4.405M | 0.200M | 17.423M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.216M |  | 0.026M |
+| 15:30 | USD | Low | Crude Oil Imports | -1.754M |  | 1.768M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | -1.314M |  | 1.611M |
+| 15:30 | USD | Low | Distillate Fuel Production | -0.054M |  | 0.050M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks | -1.530M | -0.900M | -0.010M |
+| 15:30 | USD | Low | Gasoline Production | 0.143M |  | -0.001M |
+| 15:30 | USD | Low | Heating Oil Stockpiles | -0.537M |  | 0.192M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 1.0% |  | -0.3% |
+| 15:30 | USD | Low | Gasoline Inventories | 0.688M | -1.200M | -0.968M |
 | 18:00 | USD | Moderate | 20-Year Bond Auction |  |  | 5.163% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 0.652B |
 | 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
