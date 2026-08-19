@@ -23,10 +23,10 @@
 | 07:00 | GBP | Low | RPI (YoY) (Jul) | 3.2% | 3.3% | 3.0% |
 | 07:30 | CHF | Low | Industrial Production (YoY) (Q2) | 5.50% | -4.70% | -7.60% |
 | 08:10 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 08:30 | IDR | Moderate | Interest Rate Decision (Aug) |  | 5.75% | 5.75% |
-| 08:30 | IDR | Low | Deposit Facility Rate (Aug) |  | 4.75% | 4.75% |
-| 08:30 | IDR | Low | Lending Facility Rate (Aug) |  | 6.50% | 6.50% |
-| 08:30 | IDR | Low | Loans (YoY) (Jul) |  |  | 12.67% |
+| 08:30 | IDR | Moderate | Interest Rate Decision (Aug) | 5.75% | 5.75% | 5.75% |
+| 08:30 | IDR | Low | Deposit Facility Rate (Aug) | 4.75% | 4.75% | 4.75% |
+| 08:30 | IDR | Low | Lending Facility Rate (Aug) | 6.50% | 6.50% | 6.50% |
+| 08:30 | IDR | Low | Loans (YoY) (Jul) | 13.58% |  | 12.67% |
 | 09:00 | EUR | Low | Current Account (Jun) |  | 26.8B | 25.1B |
 | 09:00 | EUR | Low | Current Account n.s.a. (Jun) |  |  | -6.2B |
 | 09:00 | ZAR | Low | Core CPI (MoM) (Jul) |  |  | 0.6% |

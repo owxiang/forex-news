@@ -6,7 +6,7 @@
 | 07:00 | GBP | CPI (MoM) (Jul) | 0.3% | 0.3% | 0.1% |
 | 07:00 | GBP | PPI Input (MoM) (Jul) | -1.7% | 0.0% | -1.9% |
 | 08:10 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 08:30 | IDR | Interest Rate Decision (Aug) |  | 5.75% | 5.75% |
+| 08:30 | IDR | Interest Rate Decision (Aug) | 5.75% | 5.75% | 5.75% |
 | 10:00 | EUR | Core CPI (YoY) (Jul) |  | 2.5% | 2.4% |
 | 10:00 | EUR | CPI (MoM) (Jul) |  | 2.8% | -0.1% |
 | 10:30 | EUR | German 10-Year Bund Auction |  |  | 3.130% |

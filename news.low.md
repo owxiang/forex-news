@@ -18,9 +18,9 @@
 | 07:00 | GBP | RPI (MoM) (Jul) | 0.6% | 0.8% | 0.3% |
 | 07:00 | GBP | RPI (YoY) (Jul) | 3.2% | 3.3% | 3.0% |
 | 07:30 | CHF | Industrial Production (YoY) (Q2) | 5.50% | -4.70% | -7.60% |
-| 08:30 | IDR | Deposit Facility Rate (Aug) |  | 4.75% | 4.75% |
-| 08:30 | IDR | Lending Facility Rate (Aug) |  | 6.50% | 6.50% |
-| 08:30 | IDR | Loans (YoY) (Jul) |  |  | 12.67% |
+| 08:30 | IDR | Deposit Facility Rate (Aug) | 4.75% | 4.75% | 4.75% |
+| 08:30 | IDR | Lending Facility Rate (Aug) | 6.50% | 6.50% | 6.50% |
+| 08:30 | IDR | Loans (YoY) (Jul) | 13.58% |  | 12.67% |
 | 09:00 | EUR | Current Account (Jun) |  | 26.8B | 25.1B |
 | 09:00 | EUR | Current Account n.s.a. (Jun) |  |  | -6.2B |
 | 09:00 | ZAR | Core CPI (MoM) (Jul) |  |  | 0.6% |
