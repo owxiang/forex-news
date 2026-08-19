@@ -1,51 +1,39 @@
-## 19 August 2026 - Low Impact Forex News
+## 20 August 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Core Machinery Orders (YoY) (Jun) | 16.9% | 10.8% | -1.9% |
-| 00:50 | JPY | Core Machinery Orders (MoM) (Jun) | 9.7% | 7.2% | -12.4% |
-| 02:30 | AUD | Wage Price Index (YoY) (Q2) | 3.2% | 3.2% | 3.2% |
-| 07:00 | GBP | Core CPI (YoY) (Jul) | 2.6% | 2.5% | 2.6% |
-| 07:00 | GBP | Core CPI (MoM) (Jul) | 0.2% | 0.1% | 0.3% |
-| 07:00 | GBP | Core PPI Output (YoY) (Jul) | 2.8% |  | 2.6% |
-| 07:00 | GBP | Core PPI Output (MoM) (Jul) | 0.6% |  | 0.5% |
-| 07:00 | GBP | Core RPI (YoY) (Jul) | 3.1% |  | 2.9% |
-| 07:00 | GBP | Core RPI (MoM) (Jul) | 0.6% |  | 0.3% |
-| 07:00 | GBP | CPI, n.s.a (Jul) | 142.90 |  | 142.50 |
-| 07:00 | GBP | PPI Input (YoY) (Jul) | 4.9% | 6.6% | 7.4% |
-| 07:00 | GBP | PPI Output (MoM) (Jul) | 0.2% | 0.2% | -0.1% |
-| 07:00 | GBP | PPI Output (YoY) (Jul) | 3.1% | 3.2% | 3.5% |
-| 07:00 | GBP | RPI (MoM) (Jul) | 0.6% | 0.8% | 0.3% |
-| 07:00 | GBP | RPI (YoY) (Jul) | 3.2% | 3.3% | 3.0% |
-| 07:30 | CHF | Industrial Production (YoY) (Q2) | 5.50% | -4.70% | -7.60% |
-| 08:30 | IDR | Deposit Facility Rate (Aug) | 4.75% | 4.75% | 4.75% |
-| 08:30 | IDR | Lending Facility Rate (Aug) | 6.50% | 6.50% | 6.50% |
-| 08:30 | IDR | Loans (YoY) (Jul) | 13.58% |  | 12.67% |
-| 09:00 | EUR | Current Account (Jun) | 35.1B | 26.8B | 25.1B |
-| 09:00 | EUR | Current Account n.s.a. (Jun) | 46.9B |  | -6.2B |
-| 09:00 | ZAR | Core CPI (MoM) (Jul) | 0.5% |  | 0.6% |
-| 09:00 | ZAR | Core CPI (YoY) (Jul) | 4.2% |  | 4.1% |
-| 09:00 | ZAR | CPI (MoM) (Jul) | 0.2% |  | 0.7% |
-| 09:00 | ZAR | CPI (YoY) (Jul) | 4.3% | 4.5% | 5.0% |
-| 09:30 | GBP | House Price Index (YoY) | 2.0% | 1.9% | 2.7% |
-| 10:00 | EUR | Core CPI (MoM) (Jul) | 0.0% | 0.0% | 0.2% |
-| 10:00 | EUR | CPI ex Tobacco (MoM) (Jul) | 0.2% |  | -0.1% |
-| 10:00 | EUR | CPI ex Tobacco (YoY) (Jul) | 2.9% |  | 2.7% |
-| 10:00 | EUR | CPI, n.s.a (Jul) | 103.24 | 103.22 | 103.02 |
-| 10:00 | EUR | HICP ex Energy & Food (YoY) (Jul) | 2.2% | 2.2% | 2.1% |
-| 10:00 | EUR | HICP ex Energy and Food (MoM) (Jul) | 0.0% | 0.0% | 0.2% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.77% |  | 6.77% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) | -0.4% |  | 3.6% |
-| 12:00 | USD | MBA Purchase Index | 154.8 |  | 157.9 |
-| 12:00 | USD | Mortgage Market Index | 247.7 |  | 248.6 |
-| 12:00 | USD | Mortgage Refinance Index | 755.9 |  | 744.4 |
-| 12:00 | ZAR | Retail Sales (YoY) (Jun) | 1.6% |  | 2.2% |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) | 0.216M |  | 0.026M |
-| 15:30 | USD | Crude Oil Imports | -1.754M |  | 1.768M |
-| 15:30 | USD | Distillate Fuel Production | -0.054M |  | 0.050M |
-| 15:30 | USD | EIA Weekly Distillates Stocks | -1.530M | -0.900M | -0.010M |
-| 15:30 | USD | Gasoline Production | 0.143M |  | -0.001M |
-| 15:30 | USD | Heating Oil Stockpiles | -0.537M |  | 0.192M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 1.0% |  | -0.3% |
-| 15:30 | USD | Gasoline Inventories | 0.688M | -1.200M | -0.968M |
-| 18:30 | BRL | Foreign Exchange Flows | 0.851B |  | 0.652B |
+| 00:50 | JPY | Foreign Bonds Buying |  |  | 1,629.4B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -368.5B |
+| 00:50 | JPY | Imports (YoY) (Jul) |  | 26.5% | 25.4% |
+| 02:00 | AUD | MI Inflation Expectations (Aug) |  |  | 4.7% |
+| 02:30 | AUD | Participation Rate (Jul) |  | 66.9% | 67.0% |
+| 02:30 | AUD | Reserve Assets Total (Jul) |  |  | 118,842.0B |
+| 07:00 | CHF | Trade Balance (Jul) |  |  | 5.224B |
+| 07:00 | EUR | German PPI (YoY) (Jul) |  | 2.7% | 1.8% |
+| 09:30 | HKD | CPI (MoM) (Jul) |  |  | 0.00% |
+| 09:30 | HKD | CPI (YoY) (Jul) |  | 1.70% | 2.00% |
+| 09:30 | HKD | Unemployment Rate (Jul) |  |  | 3.7% |
+| 10:00 | EUR | Construction Output (MoM) (Jun) |  |  | 0.38% |
+| 11:00 | GBP | CBI Industrial Trends Orders (Aug) |  | -40 | -45 |
+| 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 12:30 | INR | Infrastructure Output (YoY) (Jul) |  |  | 5.0% |
+| 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
+| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 199.00K |
+| 13:30 | USD | Philly Fed Business Conditions (Aug) |  |  | 34.4 |
+| 13:30 | USD | Philly Fed CAPEX Index (Aug) |  |  | 30.10 |
+| 13:30 | USD | Philly Fed New Orders (Aug) |  |  | 37.0 |
+| 13:30 | USD | Philly Fed Prices Paid (Aug) |  |  | 53.90 |
+| 13:30 | CAD | IPPI (YoY) (Jul) |  |  | 12.4% |
+| 13:30 | CAD | IPPI (MoM) (Jul) |  | -0.4% | -1.4% |
+| 13:30 | CAD | RMPI (YoY) (Jul) |  |  | 20.7% |
+| 14:00 | CNY | FDI (Jul) |  |  | -5.00% |
+| 15:30 | USD | Natural Gas Storage |  | 15B | 36B |
+| 16:30 | USD | 4-Week Bill Auction |  |  | 3.625% |
+| 16:30 | USD | 8-Week Bill Auction |  |  | 3.665% |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.947T |
+| 22:00 | KRW | PPI (MoM) (Jul) |  |  | 0.0% |
+| 22:00 | KRW | PPI (YoY) (Jul) |  |  | 8.6% |
+| 23:45 | NZD | Exports (Jul) |  |  | 8.09B |
+| 23:45 | NZD | Imports (Jul) |  |  | 8.07B |
+| 23:45 | NZD | Trade Balance (MoM) (Jul) |  | -175M | 23M |
+| 23:45 | NZD | Trade Balance (YoY) (Jul) |  |  | -3,750M |
