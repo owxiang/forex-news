@@ -5,19 +5,19 @@
 | 00:50 | JPY | Core Machinery Orders (YoY) (Jun) | 16.9% | 10.8% | -1.9% |
 | 00:50 | JPY | Core Machinery Orders (MoM) (Jun) | 9.7% | 7.2% | -12.4% |
 | 02:30 | AUD | Wage Price Index (YoY) (Q2) | 3.2% | 3.2% | 3.2% |
-| 07:00 | GBP | Core CPI (YoY) (Jul) |  | 2.5% | 2.6% |
-| 07:00 | GBP | Core CPI (MoM) (Jul) |  | 0.1% | 0.3% |
-| 07:00 | GBP | Core PPI Output (YoY) (Jul) |  |  | 2.6% |
-| 07:00 | GBP | Core PPI Output (MoM) (Jul) |  |  | 0.5% |
-| 07:00 | GBP | Core RPI (YoY) (Jul) |  |  | 2.9% |
-| 07:00 | GBP | Core RPI (MoM) (Jul) |  |  | 0.3% |
-| 07:00 | GBP | CPI, n.s.a (Jul) |  |  | 142.50 |
-| 07:00 | GBP | PPI Input (YoY) (Jul) |  | 6.6% | 7.3% |
-| 07:00 | GBP | PPI Output (MoM) (Jul) |  | 0.2% | 0.0% |
-| 07:00 | GBP | PPI Output (YoY) (Jul) |  | 3.2% | 3.5% |
-| 07:00 | GBP | RPI (MoM) (Jul) |  | 0.8% | 0.3% |
-| 07:00 | GBP | RPI (YoY) (Jul) |  | 3.3% | 3.0% |
-| 07:30 | CHF | Industrial Production (YoY) (Q2) |  | -4.70% | -7.10% |
+| 07:00 | GBP | Core CPI (YoY) (Jul) | 2.6% | 2.5% | 2.6% |
+| 07:00 | GBP | Core CPI (MoM) (Jul) | 0.2% | 0.1% | 0.3% |
+| 07:00 | GBP | Core PPI Output (YoY) (Jul) | 2.8% |  | 2.6% |
+| 07:00 | GBP | Core PPI Output (MoM) (Jul) | 0.6% |  | 0.5% |
+| 07:00 | GBP | Core RPI (YoY) (Jul) | 3.1% |  | 2.9% |
+| 07:00 | GBP | Core RPI (MoM) (Jul) | 0.6% |  | 0.3% |
+| 07:00 | GBP | CPI, n.s.a (Jul) | 142.90 |  | 142.50 |
+| 07:00 | GBP | PPI Input (YoY) (Jul) | 4.9% | 6.6% | 7.4% |
+| 07:00 | GBP | PPI Output (MoM) (Jul) | 0.2% | 0.2% | -0.1% |
+| 07:00 | GBP | PPI Output (YoY) (Jul) | 3.1% | 3.2% | 3.5% |
+| 07:00 | GBP | RPI (MoM) (Jul) | 0.6% | 0.8% | 0.3% |
+| 07:00 | GBP | RPI (YoY) (Jul) | 3.2% | 3.3% | 3.0% |
+| 07:30 | CHF | Industrial Production (YoY) (Q2) | 5.50% | -4.70% | -7.60% |
 | 08:30 | IDR | Deposit Facility Rate (Aug) |  | 4.75% | 4.75% |
 | 08:30 | IDR | Lending Facility Rate (Aug) |  | 6.50% | 6.50% |
 | 08:30 | IDR | Loans (YoY) (Jul) |  |  | 12.67% |
@@ -39,7 +39,6 @@
 | 12:00 | USD | MBA Purchase Index |  |  | 157.9 |
 | 12:00 | USD | Mortgage Market Index |  |  | 248.6 |
 | 12:00 | USD | Mortgage Refinance Index |  |  | 744.4 |
-| 12:00 | ZAR | Business Confidence (Jun) |  |  | 124.1 |
 | 12:00 | ZAR | Retail Sales (YoY) (Jun) |  |  | 2.3% |
 | 13:00 | CNY | FDI (Jul) |  |  | -5.00% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.026M |

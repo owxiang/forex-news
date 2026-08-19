@@ -6,22 +6,22 @@
 | 00:50 | JPY | Low | Core Machinery Orders (MoM) (Jun) | 9.7% | 7.2% | -12.4% |
 | 02:30 | AUD | Moderate | Wage Price Index (QoQ) (Q2) | 0.8% | 0.8% | 0.8% |
 | 02:30 | AUD | Low | Wage Price Index (YoY) (Q2) | 3.2% | 3.2% | 3.2% |
-| 07:00 | GBP | Low | Core CPI (YoY) (Jul) |  | 2.5% | 2.6% |
-| 07:00 | GBP | Low | Core CPI (MoM) (Jul) |  | 0.1% | 0.3% |
-| 07:00 | GBP | Low | Core PPI Output (YoY) (Jul) |  |  | 2.6% |
-| 07:00 | GBP | Low | Core PPI Output (MoM) (Jul) |  |  | 0.5% |
-| 07:00 | GBP | Low | Core RPI (YoY) (Jul) |  |  | 2.9% |
-| 07:00 | GBP | Low | Core RPI (MoM) (Jul) |  |  | 0.3% |
-| 07:00 | GBP | High | CPI (YoY) (Jul) |  | 2.9% | 2.6% |
-| 07:00 | GBP | Moderate | CPI (MoM) (Jul) |  | 0.3% | 0.1% |
-| 07:00 | GBP | Low | CPI, n.s.a (Jul) |  |  | 142.50 |
-| 07:00 | GBP | Low | PPI Input (YoY) (Jul) |  | 6.6% | 7.3% |
-| 07:00 | GBP | Moderate | PPI Input (MoM) (Jul) |  | 0.0% | -2.0% |
-| 07:00 | GBP | Low | PPI Output (MoM) (Jul) |  | 0.2% | 0.0% |
-| 07:00 | GBP | Low | PPI Output (YoY) (Jul) |  | 3.2% | 3.5% |
-| 07:00 | GBP | Low | RPI (MoM) (Jul) |  | 0.8% | 0.3% |
-| 07:00 | GBP | Low | RPI (YoY) (Jul) |  | 3.3% | 3.0% |
-| 07:30 | CHF | Low | Industrial Production (YoY) (Q2) |  | -4.70% | -7.10% |
+| 07:00 | GBP | Low | Core CPI (YoY) (Jul) | 2.6% | 2.5% | 2.6% |
+| 07:00 | GBP | Low | Core CPI (MoM) (Jul) | 0.2% | 0.1% | 0.3% |
+| 07:00 | GBP | Low | Core PPI Output (YoY) (Jul) | 2.8% |  | 2.6% |
+| 07:00 | GBP | Low | Core PPI Output (MoM) (Jul) | 0.6% |  | 0.5% |
+| 07:00 | GBP | Low | Core RPI (YoY) (Jul) | 3.1% |  | 2.9% |
+| 07:00 | GBP | Low | Core RPI (MoM) (Jul) | 0.6% |  | 0.3% |
+| 07:00 | GBP | High | CPI (YoY) (Jul) | 2.9% | 2.9% | 2.6% |
+| 07:00 | GBP | Moderate | CPI (MoM) (Jul) | 0.3% | 0.3% | 0.1% |
+| 07:00 | GBP | Low | CPI, n.s.a (Jul) | 142.90 |  | 142.50 |
+| 07:00 | GBP | Low | PPI Input (YoY) (Jul) | 4.9% | 6.6% | 7.4% |
+| 07:00 | GBP | Moderate | PPI Input (MoM) (Jul) | -1.7% | 0.0% | -1.9% |
+| 07:00 | GBP | Low | PPI Output (MoM) (Jul) | 0.2% | 0.2% | -0.1% |
+| 07:00 | GBP | Low | PPI Output (YoY) (Jul) | 3.1% | 3.2% | 3.5% |
+| 07:00 | GBP | Low | RPI (MoM) (Jul) | 0.6% | 0.8% | 0.3% |
+| 07:00 | GBP | Low | RPI (YoY) (Jul) | 3.2% | 3.3% | 3.0% |
+| 07:30 | CHF | Low | Industrial Production (YoY) (Q2) | 5.50% | -4.70% | -7.60% |
 | 08:10 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 08:30 | IDR | Moderate | Interest Rate Decision (Aug) |  | 5.75% | 5.75% |
 | 08:30 | IDR | Low | Deposit Facility Rate (Aug) |  | 4.75% | 4.75% |
@@ -49,11 +49,10 @@
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 157.9 |
 | 12:00 | USD | Low | Mortgage Market Index |  |  | 248.6 |
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 744.4 |
-| 12:00 | ZAR | Low | Business Confidence (Jun) |  |  | 124.1 |
 | 12:00 | ZAR | Low | Retail Sales (YoY) (Jun) |  |  | 2.3% |
 | 12:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
 | 13:00 | CNY | Low | FDI (Jul) |  |  | -5.00% |
-| 15:30 | USD | High | Crude Oil Inventories |  |  | 17.423M |
+| 15:30 | USD | High | Crude Oil Inventories |  | 0.200M | 17.423M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.026M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 1.768M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 1.611M |
@@ -66,3 +65,4 @@
 | 18:00 | USD | Moderate | 20-Year Bond Auction |  |  | 5.163% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 0.652B |
 | 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
+| 19:30 | USD | High | U.S. President Trump Speaks |  |  |  |
