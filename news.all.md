@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:50 | JPY | Low | Core Machinery Orders (YoY) (Jun) | 16.9% | 10.8% | -1.9% |
 | 00:50 | JPY | Low | Core Machinery Orders (MoM) (Jun) | 9.7% | 7.2% | -12.4% |
-| 02:30 | AUD | Moderate | Wage Price Index (QoQ) (Q2) | 0.8% | 0.8% | 0.8% |
 | 02:30 | AUD | Low | Wage Price Index (YoY) (Q2) | 3.2% | 3.2% | 3.2% |
+| 02:30 | AUD | Moderate | Wage Price Index (QoQ) (Q2) | 0.8% | 0.8% | 0.8% |
 | 07:00 | GBP | Low | Core CPI (YoY) (Jul) | 2.6% | 2.5% | 2.6% |
 | 07:00 | GBP | Low | Core CPI (MoM) (Jul) | 0.2% | 0.1% | 0.3% |
 | 07:00 | GBP | Low | Core PPI Output (YoY) (Jul) | 2.8% |  | 2.6% |
@@ -36,8 +36,8 @@
 | 09:30 | GBP | Low | House Price Index (YoY) | 2.0% | 1.9% | 2.7% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Jul) | 2.5% | 2.5% | 2.4% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Jul) | 0.0% | 0.0% | 0.2% |
-| 10:00 | EUR | High | CPI (YoY) (Jul) | 2.9% | 2.9% | 2.8% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Jul) | 0.2% | 2.8% | -0.1% |
+| 10:00 | EUR | High | CPI (YoY) (Jul) | 2.9% | 2.9% | 2.8% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Jul) | 0.2% |  | -0.1% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Jul) | 2.9% |  | 2.7% |
 | 10:00 | EUR | Low | CPI, n.s.a (Jul) | 103.24 | 103.22 | 103.02 |
@@ -51,17 +51,16 @@
 | 12:00 | USD | Low | Mortgage Refinance Index | 755.9 |  | 744.4 |
 | 12:00 | ZAR | Low | Retail Sales (YoY) (Jun) | 1.6% |  | 2.2% |
 | 12:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
-| 14:00 | CNY | Low | FDI (Jul) |  |  | -5.00% |
 | 15:30 | USD | High | Crude Oil Inventories |  | 0.200M | 17.423M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.026M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 1.768M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 1.611M |
 | 15:30 | USD | Low | Distillate Fuel Production |  |  | 0.050M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  |  | -0.010M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | -0.900M | -0.010M |
 | 15:30 | USD | Low | Gasoline Production |  |  | -0.001M |
 | 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.192M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.3% |
-| 15:30 | USD | Low | Gasoline Inventories |  |  | -0.968M |
+| 15:30 | USD | Low | Gasoline Inventories |  | -1.200M | -0.968M |
 | 18:00 | USD | Moderate | 20-Year Bond Auction |  |  | 5.163% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 0.652B |
 | 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
