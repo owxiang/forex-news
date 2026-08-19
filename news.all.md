@@ -34,15 +34,15 @@
 | 09:00 | ZAR | Low | CPI (MoM) (Jul) | 0.2% |  | 0.7% |
 | 09:00 | ZAR | Low | CPI (YoY) (Jul) | 4.3% | 4.5% | 5.0% |
 | 09:30 | GBP | Low | House Price Index (YoY) | 2.0% | 1.9% | 2.7% |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Jul) |  | 2.5% | 2.4% |
-| 10:00 | EUR | Low | Core CPI (MoM) (Jul) |  | 0.0% | 0.2% |
-| 10:00 | EUR | High | CPI (YoY) (Jul) |  | 2.9% | 2.8% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Jul) |  | 2.8% | -0.1% |
-| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Jul) |  |  | -0.1% |
-| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Jul) |  |  | 2.7% |
-| 10:00 | EUR | Low | CPI, n.s.a (Jul) |  | 103.22 | 103.02 |
-| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jul) |  | 2.2% | 2.1% |
-| 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jul) |  | 0.0% | 0.2% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Jul) | 2.5% | 2.5% | 2.4% |
+| 10:00 | EUR | Low | Core CPI (MoM) (Jul) | 0.0% | 0.0% | 0.2% |
+| 10:00 | EUR | High | CPI (YoY) (Jul) | 2.9% | 2.9% | 2.8% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Jul) | 0.2% | 2.8% | -0.1% |
+| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Jul) | 0.2% |  | -0.1% |
+| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Jul) | 2.9% |  | 2.7% |
+| 10:00 | EUR | Low | CPI, n.s.a (Jul) | 103.24 | 103.22 | 103.02 |
+| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jul) | 2.2% | 2.2% | 2.1% |
+| 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jul) | 0.0% | 0.0% | 0.2% |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 3.130% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.77% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 3.6% |

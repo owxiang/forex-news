@@ -28,12 +28,12 @@
 | 09:00 | ZAR | CPI (MoM) (Jul) | 0.2% |  | 0.7% |
 | 09:00 | ZAR | CPI (YoY) (Jul) | 4.3% | 4.5% | 5.0% |
 | 09:30 | GBP | House Price Index (YoY) | 2.0% | 1.9% | 2.7% |
-| 10:00 | EUR | Core CPI (MoM) (Jul) |  | 0.0% | 0.2% |
-| 10:00 | EUR | CPI ex Tobacco (MoM) (Jul) |  |  | -0.1% |
-| 10:00 | EUR | CPI ex Tobacco (YoY) (Jul) |  |  | 2.7% |
-| 10:00 | EUR | CPI, n.s.a (Jul) |  | 103.22 | 103.02 |
-| 10:00 | EUR | HICP ex Energy & Food (YoY) (Jul) |  | 2.2% | 2.1% |
-| 10:00 | EUR | HICP ex Energy and Food (MoM) (Jul) |  | 0.0% | 0.2% |
+| 10:00 | EUR | Core CPI (MoM) (Jul) | 0.0% | 0.0% | 0.2% |
+| 10:00 | EUR | CPI ex Tobacco (MoM) (Jul) | 0.2% |  | -0.1% |
+| 10:00 | EUR | CPI ex Tobacco (YoY) (Jul) | 2.9% |  | 2.7% |
+| 10:00 | EUR | CPI, n.s.a (Jul) | 103.24 | 103.22 | 103.02 |
+| 10:00 | EUR | HICP ex Energy & Food (YoY) (Jul) | 2.2% | 2.2% | 2.1% |
+| 10:00 | EUR | HICP ex Energy and Food (MoM) (Jul) | 0.0% | 0.0% | 0.2% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.77% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 3.6% |
 | 12:00 | USD | MBA Purchase Index |  |  | 157.9 |
