@@ -12,4 +12,4 @@
 | 10:30 | EUR | German 10-Year Bund Auction | 3.260% |  | 3.130% |
 | 12:30 | INR | RBI MPC Meeting Minutes |  |  |  |
 | 15:30 | USD | Cushing Crude Oil Inventories | -1.314M |  | 1.611M |
-| 25 min | USD | 20-Year Bond Auction |  |  | 5.163% |
+| 18:00 | USD | 20-Year Bond Auction | 5.204% |  | 5.163% |
