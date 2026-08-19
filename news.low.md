@@ -40,7 +40,7 @@
 | 12:00 | USD | Mortgage Market Index |  |  | 248.6 |
 | 12:00 | USD | Mortgage Refinance Index |  |  | 744.4 |
 | 12:00 | ZAR | Retail Sales (YoY) (Jun) |  |  | 2.3% |
-| 13:00 | CNY | FDI (Jul) |  |  | -5.00% |
+| 14:00 | CNY | FDI (Jul) |  |  | -5.00% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.026M |
 | 15:30 | USD | Crude Oil Imports |  |  | 1.768M |
 | 15:30 | USD | Distillate Fuel Production |  |  | 0.050M |
