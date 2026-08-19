@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:50 | JPY | Low | Core Machinery Orders (YoY) (Jun) | 16.9% | 10.8% | -1.9% |
 | 00:50 | JPY | Low | Core Machinery Orders (MoM) (Jun) | 9.7% | 7.2% | -12.4% |
-| 02:30 | AUD | Low | Wage Price Index (YoY) (Q2) | 3.2% | 3.2% | 3.2% |
 | 02:30 | AUD | Moderate | Wage Price Index (QoQ) (Q2) | 0.8% | 0.8% | 0.8% |
+| 02:30 | AUD | Low | Wage Price Index (YoY) (Q2) | 3.2% | 3.2% | 3.2% |
 | 07:00 | GBP | Low | Core CPI (YoY) (Jul) | 2.6% | 2.5% | 2.6% |
 | 07:00 | GBP | Low | Core CPI (MoM) (Jul) | 0.2% | 0.1% | 0.3% |
 | 07:00 | GBP | Low | Core PPI Output (YoY) (Jul) | 2.8% |  | 2.6% |
@@ -36,14 +36,15 @@
 | 09:30 | GBP | Low | House Price Index (YoY) | 2.0% | 1.9% | 2.7% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Jul) | 2.5% | 2.5% | 2.4% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Jul) | 0.0% | 0.0% | 0.2% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Jul) | 0.2% | 2.8% | -0.1% |
 | 10:00 | EUR | High | CPI (YoY) (Jul) | 2.9% | 2.9% | 2.8% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Jul) | 0.2% | 2.8% | -0.1% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Jul) | 0.2% |  | -0.1% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Jul) | 2.9% |  | 2.7% |
 | 10:00 | EUR | Low | CPI, n.s.a (Jul) | 103.24 | 103.22 | 103.02 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jul) | 2.2% | 2.2% | 2.1% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jul) | 0.0% | 0.0% | 0.2% |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction | 3.260% |  | 3.130% |
+| 11:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.77% |  | 6.77% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) | -0.4% |  | 3.6% |
 | 12:00 | USD | Low | MBA Purchase Index | 154.8 |  | 157.9 |
@@ -62,6 +63,6 @@
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 1.0% |  | -0.3% |
 | 15:30 | USD | Low | Gasoline Inventories | 0.688M | -1.200M | -0.968M |
 | 18:00 | USD | Moderate | 20-Year Bond Auction | 5.204% |  | 5.163% |
-| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 0.652B |
-| 31 min | USD | High | FOMC Meeting Minutes |  |  |  |
+| 18:30 | BRL | Low | Foreign Exchange Flows | 0.851B |  | 0.652B |
+| 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
 | 19:30 | USD | High | U.S. President Trump Speaks |  |  |  |
