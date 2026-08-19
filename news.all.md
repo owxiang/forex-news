@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:50 | JPY | Low | Core Machinery Orders (YoY) (Jun) |  | 10.8% | -1.9% |
-| 00:50 | JPY | Low | Core Machinery Orders (MoM) (Jun) |  | 7.2% | -12.4% |
-| 02:30 | AUD | Moderate | Wage Price Index (QoQ) (Q2) |  | 0.8% | 0.8% |
-| 02:30 | AUD | Low | Wage Price Index (YoY) (Q2) |  | 3.2% | 3.3% |
+| 00:50 | JPY | Low | Core Machinery Orders (YoY) (Jun) | 16.9% | 10.8% | -1.9% |
+| 00:50 | JPY | Low | Core Machinery Orders (MoM) (Jun) | 9.7% | 7.2% | -12.4% |
+| 02:30 | AUD | Moderate | Wage Price Index (QoQ) (Q2) | 0.8% | 0.8% | 0.8% |
+| 02:30 | AUD | Low | Wage Price Index (YoY) (Q2) | 3.2% | 3.2% | 3.3% |
 | 07:00 | GBP | Low | Core CPI (YoY) (Jul) |  | 2.5% | 2.6% |
 | 07:00 | GBP | Low | Core CPI (MoM) (Jul) |  | 0.1% | 0.3% |
 | 07:00 | GBP | Low | Core PPI Output (YoY) (Jul) |  |  | 2.6% |

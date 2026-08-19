@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Wage Price Index (QoQ) (Q2) |  | 0.8% | 0.8% |
+| 02:30 | AUD | Wage Price Index (QoQ) (Q2) | 0.8% | 0.8% | 0.8% |
 | 07:00 | GBP | CPI (MoM) (Jul) |  | 0.3% | 0.1% |
 | 07:00 | GBP | PPI Input (MoM) (Jul) |  | 0.0% | -2.0% |
 | 08:10 | EUR | ECB President Lagarde Speaks |  |  |  |
