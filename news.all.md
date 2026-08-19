@@ -61,7 +61,7 @@
 | 15:30 | USD | Low | Heating Oil Stockpiles | -0.537M |  | 0.192M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 1.0% |  | -0.3% |
 | 15:30 | USD | Low | Gasoline Inventories | 0.688M | -1.200M | -0.968M |
-| 18:00 | USD | Moderate | 20-Year Bond Auction |  |  | 5.163% |
-| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 0.652B |
+| 25 min | USD | Moderate | 20-Year Bond Auction |  |  | 5.163% |
+| 55 min | BRL | Low | Foreign Exchange Flows |  |  | 0.652B |
 | 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
 | 19:30 | USD | High | U.S. President Trump Speaks |  |  |  |
