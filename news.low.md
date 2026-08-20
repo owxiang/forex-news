@@ -26,9 +26,9 @@
 | 13:30 | CAD | IPPI (YoY) (Jul) | 12.4% |  | 12.4% |
 | 13:30 | CAD | IPPI (MoM) (Jul) | 0.6% | -0.4% | -1.4% |
 | 13:30 | CAD | RMPI (YoY) (Jul) | 18.1% |  | 21.0% |
-| 15:30 | USD | Natural Gas Storage |  | 15B | 36B |
-| 16:30 | USD | 4-Week Bill Auction |  |  | 3.625% |
-| 16:30 | USD | 8-Week Bill Auction |  |  | 3.665% |
+| 15:30 | USD | Natural Gas Storage | 16B | 15B | 36B |
+| 51 min | USD | 4-Week Bill Auction |  |  | 3.625% |
+| 51 min | USD | 8-Week Bill Auction |  |  | 3.665% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.947T |
 | 22:00 | KRW | PPI (MoM) (Jul) |  |  | 0.0% |
 | 22:00 | KRW | PPI (YoY) (Jul) |  |  | 8.6% |
