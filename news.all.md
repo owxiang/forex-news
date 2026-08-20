@@ -11,10 +11,10 @@
 | 02:00 | AUD | Low | MI Inflation Expectations (Aug) |  |  | 4.7% |
 | 02:00 | CNY | Moderate | China Loan Prime Rate 5Y (Aug) | 3.50% | 3.50% | 3.50% |
 | 02:15 | CNY | Moderate | PBoC Loan Prime Rate |  | 3.00% | 3.00% |
-| 02:30 | AUD | Moderate | Employment Change (Jul) | -15.8K | 11.7K | 76.3K |
-| 02:30 | AUD | Moderate | Full Employment Change (Jul) | 16.3K |  | 29.3K |
+| 02:30 | AUD | Moderate | Employment Change (Jul) | -15.8K | 11.7K | 80.2K |
+| 02:30 | AUD | Moderate | Full Employment Change (Jul) | 16.3K |  | 48.9K |
 | 02:30 | AUD | Low | Participation Rate (Jul) | 66.9% | 66.9% | 67.0% |
-| 02:30 | AUD | Low | Reserve Assets Total (Jul) |  |  | 118,842.0B |
+| 02:30 | AUD | Low | Reserve Assets Total (Jul) | 117,358.0B |  | 118,842.0B |
 | 02:30 | AUD | Moderate | Unemployment Rate (Jul) | 4.5% | 4.4% | 4.4% |
 | 07:00 | CHF | Low | Trade Balance (Jul) |  |  | 5.224B |
 | 07:00 | EUR | Moderate | German PPI (MoM) (Jul) |  | 0.5% | -0.3% |
