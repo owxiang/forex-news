@@ -7,9 +7,9 @@
 | 00:50 | JPY | Imports (YoY) (Jul) | 27.8% | 26.5% | 25.4% |
 | 02:00 | AUD | MI Inflation Expectations (Aug) | 4.9% |  | 4.7% |
 | 02:30 | AUD | Participation Rate (Jul) | 66.9% | 66.9% | 67.0% |
-| 02:30 | AUD | Reserve Assets Total (Jul) | 117,358.0B |  | 118,842.0B |
-| 07:00 | CHF | Trade Balance (Jul) |  |  | 5.224B |
-| 07:00 | EUR | German PPI (YoY) (Jul) |  | 2.7% | 1.8% |
+| 02:30 | AUD | Reserve Assets Total (Jul) | 117.4B |  | 118.8B |
+| 07:00 | CHF | Trade Balance (Jul) | 8.730B |  | 5.049B |
+| 07:00 | EUR | German PPI (YoY) (Jul) | 3.0% | 2.7% | 1.8% |
 | 09:30 | HKD | CPI (MoM) (Jul) |  |  | 0.00% |
 | 09:30 | HKD | CPI (YoY) (Jul) |  | 1.70% | 2.00% |
 | 09:30 | HKD | Unemployment Rate (Jul) |  |  | 3.7% |

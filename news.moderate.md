@@ -10,7 +10,7 @@
 | 02:30 | AUD | Employment Change (Jul) | -15.8K | 11.7K | 80.2K |
 | 02:30 | AUD | Full Employment Change (Jul) | 16.3K |  | 48.9K |
 | 02:30 | AUD | Unemployment Rate (Jul) | 4.5% | 4.4% | 4.4% |
-| 07:00 | EUR | German PPI (MoM) (Jul) |  | 0.5% | -0.3% |
+| 07:00 | EUR | German PPI (MoM) (Jul) | 1.1% | 0.5% | -0.3% |
 | 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,790K | 1,777K |
 | 13:30 | USD | Philly Fed Employment (Aug) |  |  | 10.0 |

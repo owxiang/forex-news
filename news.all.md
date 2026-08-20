@@ -14,11 +14,11 @@
 | 02:30 | AUD | Moderate | Employment Change (Jul) | -15.8K | 11.7K | 80.2K |
 | 02:30 | AUD | Moderate | Full Employment Change (Jul) | 16.3K |  | 48.9K |
 | 02:30 | AUD | Low | Participation Rate (Jul) | 66.9% | 66.9% | 67.0% |
-| 02:30 | AUD | Low | Reserve Assets Total (Jul) | 117,358.0B |  | 118,842.0B |
+| 02:30 | AUD | Low | Reserve Assets Total (Jul) | 117.4B |  | 118.8B |
 | 02:30 | AUD | Moderate | Unemployment Rate (Jul) | 4.5% | 4.4% | 4.4% |
-| 07:00 | CHF | Low | Trade Balance (Jul) |  |  | 5.224B |
-| 07:00 | EUR | Moderate | German PPI (MoM) (Jul) |  | 0.5% | -0.3% |
-| 07:00 | EUR | Low | German PPI (YoY) (Jul) |  | 2.7% | 1.8% |
+| 07:00 | CHF | Low | Trade Balance (Jul) | 8.730B |  | 5.049B |
+| 07:00 | EUR | Moderate | German PPI (MoM) (Jul) | 1.1% | 0.5% | -0.3% |
+| 07:00 | EUR | Low | German PPI (YoY) (Jul) | 3.0% | 2.7% | 1.8% |
 | 09:30 | HKD | Low | CPI (MoM) (Jul) |  |  | 0.00% |
 | 09:30 | HKD | Low | CPI (YoY) (Jul) |  | 1.70% | 2.00% |
 | 09:30 | HKD | Low | Unemployment Rate (Jul) |  |  | 3.7% |
