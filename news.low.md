@@ -10,9 +10,9 @@
 | 02:30 | AUD | Reserve Assets Total (Jul) | 117.4B |  | 118.8B |
 | 07:00 | CHF | Trade Balance (Jul) | 8.730B |  | 5.049B |
 | 07:00 | EUR | German PPI (YoY) (Jul) | 3.0% | 2.7% | 1.8% |
-| 09:30 | HKD | CPI (MoM) (Jul) |  |  | 0.00% |
-| 09:30 | HKD | CPI (YoY) (Jul) |  | 1.70% | 2.00% |
-| 09:30 | HKD | Unemployment Rate (Jul) |  |  | 3.7% |
+| 09:30 | HKD | CPI (MoM) (Jul) | 0.20% |  | 0.00% |
+| 09:30 | HKD | CPI (YoY) (Jul) | 1.70% | 1.70% | 2.00% |
+| 09:30 | HKD | Unemployment Rate (Jul) | 3.7% |  | 3.7% |
 | 10:00 | EUR | Construction Output (MoM) (Jun) |  |  | 0.38% |
 | 11:00 | GBP | CBI Industrial Trends Orders (Aug) |  | -40 | -45 |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |

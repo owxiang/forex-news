@@ -19,9 +19,9 @@
 | 07:00 | CHF | Low | Trade Balance (Jul) | 8.730B |  | 5.049B |
 | 07:00 | EUR | Moderate | German PPI (MoM) (Jul) | 1.1% | 0.5% | -0.3% |
 | 07:00 | EUR | Low | German PPI (YoY) (Jul) | 3.0% | 2.7% | 1.8% |
-| 09:30 | HKD | Low | CPI (MoM) (Jul) |  |  | 0.00% |
-| 09:30 | HKD | Low | CPI (YoY) (Jul) |  | 1.70% | 2.00% |
-| 09:30 | HKD | Low | Unemployment Rate (Jul) |  |  | 3.7% |
+| 09:30 | HKD | Low | CPI (MoM) (Jul) | 0.20% |  | 0.00% |
+| 09:30 | HKD | Low | CPI (YoY) (Jul) | 1.70% | 1.70% | 2.00% |
+| 09:30 | HKD | Low | Unemployment Rate (Jul) | 3.7% |  | 3.7% |
 | 10:00 | EUR | Low | Construction Output (MoM) (Jun) |  |  | 0.38% |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Aug) |  | -40 | -45 |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
