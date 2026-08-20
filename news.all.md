@@ -1,58 +1,59 @@
-## 20 August 2026 - All Forex News
+## 21 August 2026 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:50 | JPY | Moderate | Adjusted Trade Balance | -0.69T | -0.44T | -0.93T |
-| 00:50 | JPY | Moderate | Exports (YoY) (Jul) | 23.2% | 19.9% | 19.3% |
-| 00:50 | JPY | Low | Foreign Bonds Buying | 1,135.1B |  | 1,636.7B |
-| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 621.2B |  | -368.6B |
-| 00:50 | JPY | Low | Imports (YoY) (Jul) | 27.8% | 26.5% | 25.4% |
-| 00:50 | JPY | Moderate | Trade Balance (Jul) | -634.5B | -680.0B | -409.9B |
-| 02:00 | AUD | Low | MI Inflation Expectations (Aug) | 4.9% |  | 4.7% |
-| 02:00 | CNY | Moderate | China Loan Prime Rate 5Y (Aug) | 3.50% | 3.50% | 3.50% |
-| 02:15 | CNY | Moderate | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
-| 02:30 | AUD | Moderate | Employment Change (Jul) | -15.8K | 11.7K | 80.2K |
-| 02:30 | AUD | Moderate | Full Employment Change (Jul) | 16.3K |  | 48.9K |
-| 02:30 | AUD | Low | Participation Rate (Jul) | 66.9% | 66.9% | 67.0% |
-| 02:30 | AUD | Low | Reserve Assets Total (Jul) | 117.4B |  | 118.8B |
-| 02:30 | AUD | Moderate | Unemployment Rate (Jul) | 4.5% | 4.4% | 4.4% |
-| 07:00 | CHF | Low | Trade Balance (Jul) | 8.730B |  | 5.049B |
-| 07:00 | EUR | Moderate | German PPI (MoM) (Jul) | 1.1% | 0.5% | -0.3% |
-| 07:00 | EUR | Low | German PPI (YoY) (Jul) | 3.0% | 2.7% | 1.8% |
-| 09:30 | HKD | Low | CPI (MoM) (Jul) | 0.20% |  | 0.00% |
-| 09:30 | HKD | Low | CPI (YoY) (Jul) | 1.70% | 1.70% | 2.00% |
-| 09:30 | HKD | Low | Unemployment Rate (Jul) | 3.7% |  | 3.7% |
-| 10:00 | EUR | Low | Construction Output (MoM) (Jun) | -1.34% |  | 0.19% |
-| 11:00 | GBP | Low | CBI Industrial Trends Orders (Aug) | -25 | -40 | -45 |
-| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 12:30 | INR | Low | Infrastructure Output (YoY) (Jul) | 5.4% |  | 6.0% |
-| 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,799K | 1,790K | 1,781K |
-| 13:30 | USD | High | Initial Jobless Claims | 206K | 210K | 212K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 204.00K |  | 199.75K |
-| 13:30 | USD | High | Philadelphia Fed Manufacturing Index (Aug) | 47.4 | 24.1 | 41.4 |
-| 13:30 | USD | Low | Philly Fed Business Conditions (Aug) | 73.6 |  | 34.4 |
-| 13:30 | USD | Low | Philly Fed CAPEX Index (Aug) | 48.20 |  | 30.10 |
-| 13:30 | USD | Moderate | Philly Fed Employment (Aug) | 27.9 |  | 10.0 |
-| 13:30 | USD | Low | Philly Fed New Orders (Aug) | 30.1 |  | 37.0 |
-| 13:30 | USD | Low | Philly Fed Prices Paid (Aug) | 40.90 |  | 53.90 |
-| 13:30 | CAD | Low | IPPI (YoY) (Jul) | 12.4% |  | 12.4% |
-| 13:30 | CAD | Low | IPPI (MoM) (Jul) | 0.6% | -0.4% | -1.4% |
-| 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Jul) | -0.1% | 0.0% | -0.1% |
-| 13:30 | CAD | Low | RMPI (YoY) (Jul) | 18.1% |  | 21.0% |
-| 13:30 | CAD | Moderate | RMPI (MoM) (Jul) | -2.2% | -1.8% | -6.7% |
-| 15:00 | USD | Moderate | US Leading Index (MoM) (Jul) | 0.2% | 0.1% | -0.1% |
-| 15:30 | USD | Low | Natural Gas Storage | 16B | 15B | 36B |
-| 16:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
-| 16:30 | USD | Low | 4-Week Bill Auction | 3.640% |  | 3.625% |
-| 16:30 | USD | Low | 8-Week Bill Auction | 3.655% |  | 3.665% |
-| 18:00 | USD | Moderate | 30-Year TIPS Auction | 2.973% |  | 2.473% |
-| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,746B |  | 6,760B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 2.930T |  | 2.947T |
-| 22:00 | KRW | Low | PPI (MoM) (Jul) | -0.4% |  | 0.0% |
-| 22:00 | KRW | Low | PPI (YoY) (Jul) | 7.7% |  | 8.5% |
-| 23:45 | NZD | Low | Exports (Jul) |  |  | 8.09B |
-| 23:45 | NZD | Low | Imports (Jul) |  |  | 8.07B |
-| 23:45 | NZD | Low | Trade Balance (MoM) (Jul) |  | -175M | 23M |
-| 23:45 | NZD | Low | Trade Balance (YoY) (Jul) |  |  | -3,750M |
+| 00:00 | AUD | Low | S&P Global Manufacturing & Services PMI (Aug) | 52.50 |  | 53.20 |
+| 00:00 | AUD | Low | S&P Global Manufacturing PMI (Aug) | 52.0 |  | 52.0 |
+| 00:00 | AUD | Low | S&P Global Services PMI (Aug) | 52.9 |  | 53.6 |
+| 00:01 | GBP | Low | GfK Consumer Confidence (Aug) | -14 | -18 | -17 |
+| 00:30 | JPY | Low | CPI, n.s.a (MoM) (Jul) |  |  | 0.0% |
+| 00:30 | JPY | Moderate | National Core CPI (YoY) (Jul) |  | 1.8% | 1.6% |
+| 00:30 | JPY | Low | National CPI (YoY) (Jul) |  |  | 1.7% |
+| 00:30 | JPY | Moderate | National CPI (MoM) (Jul) |  |  | 0.3% |
+| 01:30 | JPY | Low | Manufacturing & Services PMI (Aug) |  |  | 52.70 |
+| 01:30 | JPY | Low | S&P Global Manufacturing PMI (Aug) |  | 55.1 | 54.5 |
+| 01:30 | JPY | Moderate | S&P Global Services PMI (Aug) |  |  | 51.2 |
+| 04:00 | NZD | Low | Credit Card Spending (YoY) (Jul) |  |  | 3.1% |
+| 04:00 | IDR | Low | M2 Money Supply (YoY) (Jul) |  |  | 8.70% |
+| 04:00 | IDR | Low | Balance of Payments (EUR) (Q2) |  |  | -9.1B |
+| 04:00 | IDR | Low | Current Account % of GDP (Q2) |  |  | -1.09% |
+| 06:00 | INR | Low | HSBC India Manufacturing PMI (Aug) |  | 54.0 | 53.5 |
+| 06:00 | INR | Low | HSBC India Services PMI (Aug) |  | 53.8 | 53.3 |
+| 06:00 | INR | Low | HSBC Manufacturing & Services PMI (Aug) |  | 54.40 | 54.30 |
+| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Jul) |  | -0.5% | 1.1% |
+| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Jul) |  | 3.3% | 5.4% |
+| 07:00 | GBP | Low | Public Sector Net Cash Requirement (Jul) |  | 0.000B | 15.227B |
+| 07:00 | GBP | Moderate | Retail Sales (MoM) (Jul) |  | -0.4% | 1.0% |
+| 07:00 | GBP | Moderate | Retail Sales (YoY) (Jul) |  | 2.2% | 4.2% |
+| 07:00 | NOK | Low | GDP (QoQ) (Q2) |  |  | 0.4% |
+| 07:00 | NOK | Low | GDP Mainland (QoQ) (Q2) |  |  | 0.2% |
+| 07:45 | EUR | Low | French Business Survey (Aug) |  | 101 | 101 |
+| 08:00 | CHF | Low | M3 Money Supply (Jul) |  |  | 1,227.0B |
+| 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Aug) |  | 50.1 | 49.8 |
+| 08:15 | EUR | Low | HCOB France Composite PMI (Aug) |  | 49.5 | 49.4 |
+| 08:15 | EUR | Moderate | HCOB France Services PMI (Aug) |  | 49.4 | 49.6 |
+| 08:30 | EUR | Low | HCOB Germany Composite PMI (Aug) |  | 51.3 | 51.3 |
+| 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Aug) |  | 52.1 | 52.2 |
+| 08:30 | EUR | Moderate | HCOB Germany Services PMI (Aug) |  | 50.1 | 49.8 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Aug) |  | 51.8 | 51.9 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Aug) |  | 51.7 | 52.0 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Aug) |  | 51.5 | 51.7 |
+| 09:30 | GBP | Moderate | S&P Global Composite PMI (Aug) |  | 51.6 | 52.2 |
+| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Aug) |  | 51.6 | 51.9 |
+| 09:30 | GBP | Moderate | S&P Global Services PMI (Aug) |  | 51.8 | 52.1 |
+| 12:30 | INR | Low | Bank Loan Growth |  |  | 19.3% |
+| 12:30 | INR | Low | Deposit Growth |  |  | 15.4% |
+| 12:30 | INR | Low | FX Reserves, USD |  |  | 707.00B |
+| 13:00 | MXN | Low | Retail Sales (YoY) (Jun) |  | 3.1% | 1.6% |
+| 13:00 | MXN | Low | Retail Sales (MoM) (Jun) |  | 0.1% | -0.6% |
+| 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Jun) |  | 0.2% | 1.2% |
+| 13:30 | CAD | Moderate | Retail Sales (MoM) (Jun) |  | 0.4% | 1.0% |
+| 13:30 | CAD | Moderate | Retail Sales (MoM) (Jun) |  |  | 1.0% |
+| 14:00 | CNY | Low | FDI (Jul) |  |  | -5.00% |
+| 14:45 | USD | High | S&P Global Manufacturing PMI (Aug) |  | 54.0 | 53.9 |
+| 14:45 | USD | Moderate | S&P Global Composite PMI (Aug) |  |  | 54.5 |
+| 14:45 | USD | High | S&P Global Services PMI (Aug) |  | 53.9 | 54.6 |
+| 15:00 | EUR | Low | Consumer Confidence (Aug) |  | -16.0 | -15.9 |
+| 15:30 | CAD | Low | BoC Senior Loan Officer Survey (Q2) |  |  | 1.0 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 455 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 593 |

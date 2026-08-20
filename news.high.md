@@ -1,6 +1,6 @@
-## 20 August 2026 - High Impact Forex News
+## 21 August 2026 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:30 | USD | Initial Jobless Claims | 206K | 210K | 212K |
-| 13:30 | USD | Philadelphia Fed Manufacturing Index (Aug) | 47.4 | 24.1 | 41.4 |
+| 14:45 | USD | S&P Global Manufacturing PMI (Aug) |  | 54.0 | 53.9 |
+| 14:45 | USD | S&P Global Services PMI (Aug) |  | 53.9 | 54.6 |

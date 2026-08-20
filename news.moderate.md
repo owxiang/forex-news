@@ -1,22 +1,27 @@
-## 20 August 2026 - Moderate Impact Forex News
+## 21 August 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Adjusted Trade Balance | -0.69T | -0.44T | -0.93T |
-| 00:50 | JPY | Exports (YoY) (Jul) | 23.2% | 19.9% | 19.3% |
-| 00:50 | JPY | Trade Balance (Jul) | -634.5B | -680.0B | -409.9B |
-| 02:00 | CNY | China Loan Prime Rate 5Y (Aug) | 3.50% | 3.50% | 3.50% |
-| 02:15 | CNY | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
-| 02:30 | AUD | Employment Change (Jul) | -15.8K | 11.7K | 80.2K |
-| 02:30 | AUD | Full Employment Change (Jul) | 16.3K |  | 48.9K |
-| 02:30 | AUD | Unemployment Rate (Jul) | 4.5% | 4.4% | 4.4% |
-| 07:00 | EUR | German PPI (MoM) (Jul) | 1.1% | 0.5% | -0.3% |
-| 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims | 1,799K | 1,790K | 1,781K |
-| 13:30 | USD | Philly Fed Employment (Aug) | 27.9 |  | 10.0 |
-| 13:30 | CAD | New Housing Price Index (MoM) (Jul) | -0.1% | 0.0% | -0.1% |
-| 13:30 | CAD | RMPI (MoM) (Jul) | -2.2% | -1.8% | -6.7% |
-| 15:00 | USD | US Leading Index (MoM) (Jul) | 0.2% | 0.1% | -0.1% |
-| 16:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
-| 18:00 | USD | 30-Year TIPS Auction | 2.973% |  | 2.473% |
-| 21:30 | USD | Fed's Balance Sheet | 6,746B |  | 6,760B |
+| 00:30 | JPY | National Core CPI (YoY) (Jul) |  | 1.8% | 1.6% |
+| 00:30 | JPY | National CPI (MoM) (Jul) |  |  | 0.3% |
+| 01:30 | JPY | S&P Global Services PMI (Aug) |  |  | 51.2 |
+| 07:00 | GBP | Core Retail Sales (MoM) (Jul) |  | -0.5% | 1.1% |
+| 07:00 | GBP | Core Retail Sales (YoY) (Jul) |  | 3.3% | 5.4% |
+| 07:00 | GBP | Retail Sales (MoM) (Jul) |  | -0.4% | 1.0% |
+| 07:00 | GBP | Retail Sales (YoY) (Jul) |  | 2.2% | 4.2% |
+| 08:15 | EUR | HCOB France Manufacturing PMI (Aug) |  | 50.1 | 49.8 |
+| 08:15 | EUR | HCOB France Services PMI (Aug) |  | 49.4 | 49.6 |
+| 08:30 | EUR | HCOB Germany Manufacturing PMI (Aug) |  | 52.1 | 52.2 |
+| 08:30 | EUR | HCOB Germany Services PMI (Aug) |  | 50.1 | 49.8 |
+| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Aug) |  | 51.8 | 51.9 |
+| 09:00 | EUR | HCOB Eurozone Composite PMI (Aug) |  | 51.7 | 52.0 |
+| 09:00 | EUR | HCOB Eurozone Services PMI (Aug) |  | 51.5 | 51.7 |
+| 09:30 | GBP | S&P Global Composite PMI (Aug) |  | 51.6 | 52.2 |
+| 09:30 | GBP | S&P Global Manufacturing PMI (Aug) |  | 51.6 | 51.9 |
+| 09:30 | GBP | S&P Global Services PMI (Aug) |  | 51.8 | 52.1 |
+| 13:30 | CAD | Core Retail Sales (MoM) (Jun) |  | 0.2% | 1.2% |
+| 13:30 | CAD | Retail Sales (MoM) (Jun) |  | 0.4% | 1.0% |
+| 13:30 | CAD | Retail Sales (MoM) (Jun) |  |  | 1.0% |
+| 14:45 | USD | S&P Global Composite PMI (Aug) |  |  | 54.5 |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 455 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 593 |
