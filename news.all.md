@@ -2,20 +2,20 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:50 | JPY | Moderate | Adjusted Trade Balance |  | -0.44T | -0.88T |
-| 00:50 | JPY | Moderate | Exports (YoY) (Jul) |  | 19.9% | 19.3% |
-| 00:50 | JPY | Low | Foreign Bonds Buying |  |  | 1,629.4B |
-| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -368.5B |
-| 00:50 | JPY | Low | Imports (YoY) (Jul) |  | 26.5% | 25.4% |
-| 00:50 | JPY | Moderate | Trade Balance (Jul) |  | -680.0B | -409.9B |
+| 00:50 | JPY | Moderate | Adjusted Trade Balance | -0.69T | -0.44T | -0.93T |
+| 00:50 | JPY | Moderate | Exports (YoY) (Jul) | 23.2% | 19.9% | 19.3% |
+| 00:50 | JPY | Low | Foreign Bonds Buying | 1,135.1B |  | 1,636.7B |
+| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 621.2B |  | -368.6B |
+| 00:50 | JPY | Low | Imports (YoY) (Jul) | 27.8% | 26.5% | 25.4% |
+| 00:50 | JPY | Moderate | Trade Balance (Jul) | -634.5B | -680.0B | -409.9B |
 | 02:00 | AUD | Low | MI Inflation Expectations (Aug) |  |  | 4.7% |
-| 02:00 | CNY | Moderate | China Loan Prime Rate 5Y (Aug) |  | 3.50% | 3.50% |
+| 02:00 | CNY | Moderate | China Loan Prime Rate 5Y (Aug) | 3.50% | 3.50% | 3.50% |
 | 02:15 | CNY | Moderate | PBoC Loan Prime Rate |  | 3.00% | 3.00% |
-| 02:30 | AUD | Moderate | Employment Change (Jul) |  | 11.7K | 76.3K |
-| 02:30 | AUD | Moderate | Full Employment Change (Jul) |  |  | 29.3K |
-| 02:30 | AUD | Low | Participation Rate (Jul) |  | 66.9% | 67.0% |
+| 02:30 | AUD | Moderate | Employment Change (Jul) | -15.8K | 11.7K | 76.3K |
+| 02:30 | AUD | Moderate | Full Employment Change (Jul) | 16.3K |  | 29.3K |
+| 02:30 | AUD | Low | Participation Rate (Jul) | 66.9% | 66.9% | 67.0% |
 | 02:30 | AUD | Low | Reserve Assets Total (Jul) |  |  | 118,842.0B |
-| 02:30 | AUD | Moderate | Unemployment Rate (Jul) |  | 4.4% | 4.4% |
+| 02:30 | AUD | Moderate | Unemployment Rate (Jul) | 4.5% | 4.4% | 4.4% |
 | 07:00 | CHF | Low | Trade Balance (Jul) |  |  | 5.224B |
 | 07:00 | EUR | Moderate | German PPI (MoM) (Jul) |  | 0.5% | -0.3% |
 | 07:00 | EUR | Low | German PPI (YoY) (Jul) |  | 2.7% | 1.8% |

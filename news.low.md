@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Foreign Bonds Buying |  |  | 1,629.4B |
-| 00:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -368.5B |
-| 00:50 | JPY | Imports (YoY) (Jul) |  | 26.5% | 25.4% |
+| 00:50 | JPY | Foreign Bonds Buying | 1,135.1B |  | 1,636.7B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks | 621.2B |  | -368.6B |
+| 00:50 | JPY | Imports (YoY) (Jul) | 27.8% | 26.5% | 25.4% |
 | 02:00 | AUD | MI Inflation Expectations (Aug) |  |  | 4.7% |
-| 02:30 | AUD | Participation Rate (Jul) |  | 66.9% | 67.0% |
+| 02:30 | AUD | Participation Rate (Jul) | 66.9% | 66.9% | 67.0% |
 | 02:30 | AUD | Reserve Assets Total (Jul) |  |  | 118,842.0B |
 | 07:00 | CHF | Trade Balance (Jul) |  |  | 5.224B |
 | 07:00 | EUR | German PPI (YoY) (Jul) |  | 2.7% | 1.8% |

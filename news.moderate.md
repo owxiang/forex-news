@@ -2,14 +2,14 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Adjusted Trade Balance |  | -0.44T | -0.88T |
-| 00:50 | JPY | Exports (YoY) (Jul) |  | 19.9% | 19.3% |
-| 00:50 | JPY | Trade Balance (Jul) |  | -680.0B | -409.9B |
-| 02:00 | CNY | China Loan Prime Rate 5Y (Aug) |  | 3.50% | 3.50% |
+| 00:50 | JPY | Adjusted Trade Balance | -0.69T | -0.44T | -0.93T |
+| 00:50 | JPY | Exports (YoY) (Jul) | 23.2% | 19.9% | 19.3% |
+| 00:50 | JPY | Trade Balance (Jul) | -634.5B | -680.0B | -409.9B |
+| 02:00 | CNY | China Loan Prime Rate 5Y (Aug) | 3.50% | 3.50% | 3.50% |
 | 02:15 | CNY | PBoC Loan Prime Rate |  | 3.00% | 3.00% |
-| 02:30 | AUD | Employment Change (Jul) |  | 11.7K | 76.3K |
-| 02:30 | AUD | Full Employment Change (Jul) |  |  | 29.3K |
-| 02:30 | AUD | Unemployment Rate (Jul) |  | 4.4% | 4.4% |
+| 02:30 | AUD | Employment Change (Jul) | -15.8K | 11.7K | 76.3K |
+| 02:30 | AUD | Full Employment Change (Jul) | 16.3K |  | 29.3K |
+| 02:30 | AUD | Unemployment Rate (Jul) | 4.5% | 4.4% | 4.4% |
 | 07:00 | EUR | German PPI (MoM) (Jul) |  | 0.5% | -0.3% |
 | 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,790K | 1,777K |
