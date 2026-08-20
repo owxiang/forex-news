@@ -8,9 +8,9 @@
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 621.2B |  | -368.6B |
 | 00:50 | JPY | Low | Imports (YoY) (Jul) | 27.8% | 26.5% | 25.4% |
 | 00:50 | JPY | Moderate | Trade Balance (Jul) | -634.5B | -680.0B | -409.9B |
-| 02:00 | AUD | Low | MI Inflation Expectations (Aug) |  |  | 4.7% |
+| 02:00 | AUD | Low | MI Inflation Expectations (Aug) | 4.9% |  | 4.7% |
 | 02:00 | CNY | Moderate | China Loan Prime Rate 5Y (Aug) | 3.50% | 3.50% | 3.50% |
-| 02:15 | CNY | Moderate | PBoC Loan Prime Rate |  | 3.00% | 3.00% |
+| 02:15 | CNY | Moderate | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
 | 02:30 | AUD | Moderate | Employment Change (Jul) | -15.8K | 11.7K | 80.2K |
 | 02:30 | AUD | Moderate | Full Employment Change (Jul) | 16.3K |  | 48.9K |
 | 02:30 | AUD | Low | Participation Rate (Jul) | 66.9% | 66.9% | 67.0% |

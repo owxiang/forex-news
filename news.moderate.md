@@ -6,7 +6,7 @@
 | 00:50 | JPY | Exports (YoY) (Jul) | 23.2% | 19.9% | 19.3% |
 | 00:50 | JPY | Trade Balance (Jul) | -634.5B | -680.0B | -409.9B |
 | 02:00 | CNY | China Loan Prime Rate 5Y (Aug) | 3.50% | 3.50% | 3.50% |
-| 02:15 | CNY | PBoC Loan Prime Rate |  | 3.00% | 3.00% |
+| 02:15 | CNY | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
 | 02:30 | AUD | Employment Change (Jul) | -15.8K | 11.7K | 80.2K |
 | 02:30 | AUD | Full Employment Change (Jul) | 16.3K |  | 48.9K |
 | 02:30 | AUD | Unemployment Rate (Jul) | 4.5% | 4.4% | 4.4% |
