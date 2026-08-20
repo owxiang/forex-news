@@ -26,7 +26,6 @@
 | 13:30 | CAD | IPPI (YoY) (Jul) |  |  | 12.4% |
 | 13:30 | CAD | IPPI (MoM) (Jul) |  | -0.4% | -1.4% |
 | 13:30 | CAD | RMPI (YoY) (Jul) |  |  | 20.7% |
-| 14:00 | CNY | FDI (Jul) |  |  | -5.00% |
 | 15:30 | USD | Natural Gas Storage |  | 15B | 36B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.625% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 3.665% |

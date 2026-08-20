@@ -40,9 +40,8 @@
 | 13:30 | CAD | Low | IPPI (YoY) (Jul) |  |  | 12.4% |
 | 13:30 | CAD | Low | IPPI (MoM) (Jul) |  | -0.4% | -1.4% |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Jul) |  | 0.0% | -0.1% |
-| 13:30 | CAD | Moderate | RMPI (MoM) (Jul) |  | -1.8% | -6.9% |
 | 13:30 | CAD | Low | RMPI (YoY) (Jul) |  |  | 20.7% |
-| 14:00 | CNY | Low | FDI (Jul) |  |  | -5.00% |
+| 13:30 | CAD | Moderate | RMPI (MoM) (Jul) |  | -1.8% | -6.9% |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (Jul) |  | 0.1% | -0.2% |
 | 15:30 | USD | Low | Natural Gas Storage |  | 15B | 36B |
 | 16:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
