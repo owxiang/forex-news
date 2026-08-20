@@ -19,4 +19,4 @@
 | 15:00 | USD | US Leading Index (MoM) (Jul) | 0.2% | 0.1% | -0.1% |
 | 16:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
 | 18:00 | USD | 30-Year TIPS Auction | 2.973% |  | 2.473% |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 6,760B |
+| 21:30 | USD | Fed's Balance Sheet | 6,746B |  | 6,760B |
