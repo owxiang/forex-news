@@ -44,9 +44,9 @@
 | 13:30 | CAD | Moderate | RMPI (MoM) (Jul) | -2.2% | -1.8% | -6.7% |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (Jul) | 0.2% | 0.1% | -0.1% |
 | 15:30 | USD | Low | Natural Gas Storage | 16B | 15B | 36B |
-| 21 min | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
-| 51 min | USD | Low | 4-Week Bill Auction |  |  | 3.625% |
-| 51 min | USD | Low | 8-Week Bill Auction |  |  | 3.665% |
+| 16:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
+| 16:30 | USD | Low | 4-Week Bill Auction | 3.640% |  | 3.625% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 3.655% |  | 3.665% |
 | 18:00 | USD | Moderate | 30-Year TIPS Auction |  |  | 2.473% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,760B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.947T |

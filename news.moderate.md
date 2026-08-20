@@ -17,6 +17,6 @@
 | 13:30 | CAD | New Housing Price Index (MoM) (Jul) | -0.1% | 0.0% | -0.1% |
 | 13:30 | CAD | RMPI (MoM) (Jul) | -2.2% | -1.8% | -6.7% |
 | 15:00 | USD | US Leading Index (MoM) (Jul) | 0.2% | 0.1% | -0.1% |
-| 21 min | MXN | Monetary Policy Meeting Minutes |  |  |  |
+| 16:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
 | 18:00 | USD | 30-Year TIPS Auction |  |  | 2.473% |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,760B |
