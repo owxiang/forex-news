@@ -22,7 +22,7 @@
 | 09:30 | HKD | Low | CPI (MoM) (Jul) | 0.20% |  | 0.00% |
 | 09:30 | HKD | Low | CPI (YoY) (Jul) | 1.70% | 1.70% | 2.00% |
 | 09:30 | HKD | Low | Unemployment Rate (Jul) | 3.7% |  | 3.7% |
-| 10:00 | EUR | Low | Construction Output (MoM) (Jun) |  |  | 0.38% |
+| 10:00 | EUR | Low | Construction Output (MoM) (Jun) | -1.34% |  | 0.19% |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Aug) |  | -40 | -45 |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 12:30 | INR | Low | Infrastructure Output (YoY) (Jul) |  |  | 5.0% |
