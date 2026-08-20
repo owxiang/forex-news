@@ -12,10 +12,10 @@
 | 02:30 | AUD | Unemployment Rate (Jul) | 4.5% | 4.4% | 4.4% |
 | 07:00 | EUR | German PPI (MoM) (Jul) | 1.1% | 0.5% | -0.3% |
 | 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims |  | 1,790K | 1,777K |
-| 13:30 | USD | Philly Fed Employment (Aug) |  |  | 10.0 |
-| 13:30 | CAD | New Housing Price Index (MoM) (Jul) |  | 0.0% | -0.1% |
-| 13:30 | CAD | RMPI (MoM) (Jul) |  | -1.8% | -6.9% |
+| 13:30 | USD | Continuing Jobless Claims | 1,799K | 1,790K | 1,781K |
+| 13:30 | USD | Philly Fed Employment (Aug) | 27.9 |  | 10.0 |
+| 13:30 | CAD | New Housing Price Index (MoM) (Jul) | -0.1% | 0.0% | -0.1% |
+| 13:30 | CAD | RMPI (MoM) (Jul) | -2.2% | -1.8% | -6.7% |
 | 15:00 | USD | US Leading Index (MoM) (Jul) |  | 0.1% | -0.2% |
 | 16:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
 | 18:00 | USD | 30-Year TIPS Auction |  |  | 2.473% |

@@ -25,23 +25,23 @@
 | 10:00 | EUR | Low | Construction Output (MoM) (Jun) | -1.34% |  | 0.19% |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Aug) | -25 | -40 | -45 |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 12:30 | INR | Low | Infrastructure Output (YoY) (Jul) |  |  | 5.0% |
+| 12:30 | INR | Low | Infrastructure Output (YoY) (Jul) | 5.4% |  | 6.0% |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,790K | 1,777K |
-| 13:30 | USD | High | Initial Jobless Claims |  | 210K | 209K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 199.00K |
-| 13:30 | USD | High | Philadelphia Fed Manufacturing Index (Aug) |  | 24.1 | 41.4 |
-| 13:30 | USD | Low | Philly Fed Business Conditions (Aug) |  |  | 34.4 |
-| 13:30 | USD | Low | Philly Fed CAPEX Index (Aug) |  |  | 30.10 |
-| 13:30 | USD | Moderate | Philly Fed Employment (Aug) |  |  | 10.0 |
-| 13:30 | USD | Low | Philly Fed New Orders (Aug) |  |  | 37.0 |
-| 13:30 | USD | Low | Philly Fed Prices Paid (Aug) |  |  | 53.90 |
-| 13:30 | CAD | Low | IPPI (YoY) (Jul) |  |  | 12.4% |
-| 13:30 | CAD | Low | IPPI (MoM) (Jul) |  | -0.4% | -1.4% |
-| 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Jul) |  | 0.0% | -0.1% |
-| 13:30 | CAD | Low | RMPI (YoY) (Jul) |  |  | 20.7% |
-| 13:30 | CAD | Moderate | RMPI (MoM) (Jul) |  | -1.8% | -6.9% |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,799K | 1,790K | 1,781K |
+| 13:30 | USD | High | Initial Jobless Claims | 206K | 210K | 212K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 204.00K |  | 199.75K |
+| 13:30 | USD | High | Philadelphia Fed Manufacturing Index (Aug) | 47.4 | 24.1 | 41.4 |
+| 13:30 | USD | Low | Philly Fed Business Conditions (Aug) | 73.6 |  | 34.4 |
+| 13:30 | USD | Low | Philly Fed CAPEX Index (Aug) | 48.20 |  | 30.10 |
+| 13:30 | USD | Moderate | Philly Fed Employment (Aug) | 27.9 |  | 10.0 |
+| 13:30 | USD | Low | Philly Fed New Orders (Aug) | 30.1 |  | 37.0 |
+| 13:30 | USD | Low | Philly Fed Prices Paid (Aug) | 40.90 |  | 53.90 |
+| 13:30 | CAD | Low | IPPI (YoY) (Jul) | 12.4% |  | 12.4% |
+| 13:30 | CAD | Low | IPPI (MoM) (Jul) | 0.6% | -0.4% | -1.4% |
+| 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Jul) | -0.1% | 0.0% | -0.1% |
+| 13:30 | CAD | Low | RMPI (YoY) (Jul) | 18.1% |  | 21.0% |
+| 13:30 | CAD | Moderate | RMPI (MoM) (Jul) | -2.2% | -1.8% | -6.7% |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (Jul) |  | 0.1% | -0.2% |
 | 15:30 | USD | Low | Natural Gas Storage |  | 15B | 36B |
 | 16:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |

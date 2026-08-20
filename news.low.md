@@ -16,16 +16,16 @@
 | 10:00 | EUR | Construction Output (MoM) (Jun) | -1.34% |  | 0.19% |
 | 11:00 | GBP | CBI Industrial Trends Orders (Aug) | -25 | -40 | -45 |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 12:30 | INR | Infrastructure Output (YoY) (Jul) |  |  | 5.0% |
+| 12:30 | INR | Infrastructure Output (YoY) (Jul) | 5.4% |  | 6.0% |
 | 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 199.00K |
-| 13:30 | USD | Philly Fed Business Conditions (Aug) |  |  | 34.4 |
-| 13:30 | USD | Philly Fed CAPEX Index (Aug) |  |  | 30.10 |
-| 13:30 | USD | Philly Fed New Orders (Aug) |  |  | 37.0 |
-| 13:30 | USD | Philly Fed Prices Paid (Aug) |  |  | 53.90 |
-| 13:30 | CAD | IPPI (YoY) (Jul) |  |  | 12.4% |
-| 13:30 | CAD | IPPI (MoM) (Jul) |  | -0.4% | -1.4% |
-| 13:30 | CAD | RMPI (YoY) (Jul) |  |  | 20.7% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 204.00K |  | 199.75K |
+| 13:30 | USD | Philly Fed Business Conditions (Aug) | 73.6 |  | 34.4 |
+| 13:30 | USD | Philly Fed CAPEX Index (Aug) | 48.20 |  | 30.10 |
+| 13:30 | USD | Philly Fed New Orders (Aug) | 30.1 |  | 37.0 |
+| 13:30 | USD | Philly Fed Prices Paid (Aug) | 40.90 |  | 53.90 |
+| 13:30 | CAD | IPPI (YoY) (Jul) | 12.4% |  | 12.4% |
+| 13:30 | CAD | IPPI (MoM) (Jul) | 0.6% | -0.4% | -1.4% |
+| 13:30 | CAD | RMPI (YoY) (Jul) | 18.1% |  | 21.0% |
 | 15:30 | USD | Natural Gas Storage |  | 15B | 36B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.625% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 3.665% |
