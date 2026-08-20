@@ -14,7 +14,7 @@
 | 09:30 | HKD | CPI (YoY) (Jul) | 1.70% | 1.70% | 2.00% |
 | 09:30 | HKD | Unemployment Rate (Jul) | 3.7% |  | 3.7% |
 | 10:00 | EUR | Construction Output (MoM) (Jun) | -1.34% |  | 0.19% |
-| 11:00 | GBP | CBI Industrial Trends Orders (Aug) |  | -40 | -45 |
+| 11:00 | GBP | CBI Industrial Trends Orders (Aug) | -25 | -40 | -45 |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 12:30 | INR | Infrastructure Output (YoY) (Jul) |  |  | 5.0% |
 | 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
