@@ -50,8 +50,8 @@
 | 18:00 | USD | Moderate | 30-Year TIPS Auction | 2.973% |  | 2.473% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet | 6,746B |  | 6,760B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 2.930T |  | 2.947T |
-| 22:00 | KRW | Low | PPI (MoM) (Jul) |  |  | 0.0% |
-| 22:00 | KRW | Low | PPI (YoY) (Jul) |  |  | 8.6% |
+| 22:00 | KRW | Low | PPI (MoM) (Jul) | -0.4% |  | 0.0% |
+| 22:00 | KRW | Low | PPI (YoY) (Jul) | 7.7% |  | 8.5% |
 | 23:45 | NZD | Low | Exports (Jul) |  |  | 8.09B |
 | 23:45 | NZD | Low | Imports (Jul) |  |  | 8.07B |
 | 23:45 | NZD | Low | Trade Balance (MoM) (Jul) |  | -175M | 23M |

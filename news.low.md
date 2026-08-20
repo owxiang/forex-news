@@ -30,8 +30,8 @@
 | 16:30 | USD | 4-Week Bill Auction | 3.640% |  | 3.625% |
 | 16:30 | USD | 8-Week Bill Auction | 3.655% |  | 3.665% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks | 2.930T |  | 2.947T |
-| 22:00 | KRW | PPI (MoM) (Jul) |  |  | 0.0% |
-| 22:00 | KRW | PPI (YoY) (Jul) |  |  | 8.6% |
+| 22:00 | KRW | PPI (MoM) (Jul) | -0.4% |  | 0.0% |
+| 22:00 | KRW | PPI (YoY) (Jul) | 7.7% |  | 8.5% |
 | 23:45 | NZD | Exports (Jul) |  |  | 8.09B |
 | 23:45 | NZD | Imports (Jul) |  |  | 8.07B |
 | 23:45 | NZD | Trade Balance (MoM) (Jul) |  | -175M | 23M |
