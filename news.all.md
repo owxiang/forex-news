@@ -25,13 +25,13 @@
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Jul) | -0.5% | -0.4% | 0.7% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Jul) | 1.6% | 2.2% | 3.8% |
 | 07:45 | EUR | Low | French Business Survey (Aug) | 103 | 101 | 101 |
-| 6 min | CHF | Low | M3 Money Supply (Jul) |  |  | 1,227,049.0B |
-| 21 min | EUR | Moderate | HCOB France Manufacturing PMI (Aug) |  | 50.1 | 49.8 |
-| 21 min | EUR | Low | HCOB France Composite PMI (Aug) |  | 49.5 | 49.4 |
-| 21 min | EUR | Moderate | HCOB France Services PMI (Aug) |  | 49.4 | 49.6 |
-| 36 min | EUR | Low | HCOB Germany Composite PMI (Aug) |  | 51.3 | 51.3 |
-| 36 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Aug) |  | 52.1 | 52.2 |
-| 36 min | EUR | Moderate | HCOB Germany Services PMI (Aug) |  | 50.1 | 49.8 |
+| 08:00 | CHF | Low | M3 Money Supply (Jul) | 1,231.1B |  | 1,226.4B |
+| 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Aug) | 51.5 | 50.1 | 49.8 |
+| 08:15 | EUR | Low | HCOB France Composite PMI (Aug) | 48.8 | 49.5 | 49.4 |
+| 08:15 | EUR | Moderate | HCOB France Services PMI (Aug) | 48.4 | 49.4 | 49.6 |
+| 08:30 | EUR | Low | HCOB Germany Composite PMI (Aug) | 51.0 | 51.3 | 51.3 |
+| 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Aug) | 54.1 | 52.1 | 52.2 |
+| 08:30 | EUR | Moderate | HCOB Germany Services PMI (Aug) | 48.5 | 50.1 | 49.8 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Aug) |  | 51.8 | 51.9 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Aug) |  | 51.7 | 52.0 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Aug) |  | 51.5 | 51.7 |
@@ -45,7 +45,7 @@
 | 13:00 | MXN | Low | Retail Sales (MoM) (Jun) |  | 0.1% | -0.6% |
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Jun) |  | 0.2% | 1.2% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Jun) |  | 0.4% | 1.0% |
-| 13:30 | CAD | Moderate | Retail Sales (MoM) (Jun) |  |  | 1.0% |
+| 13:31 | CAD | Moderate | Retail Sales (MoM) (Jul) |  |  |  |
 | 14:00 | CNY | Low | FDI (Jul) |  |  | -5.00% |
 | 14:45 | USD | High | S&P Global Manufacturing PMI (Aug) |  | 54.0 | 53.9 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Aug) |  |  | 54.5 |
