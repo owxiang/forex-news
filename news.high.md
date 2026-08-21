@@ -1,6 +1,5 @@
-## 21 August 2026 - High Impact Forex News
+## 22 August 2026 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 14:45 | USD | S&P Global Manufacturing PMI (Aug) | 53.2 | 54.0 | 53.9 |
-| 14:45 | USD | S&P Global Services PMI (Aug) | 56.8 | 53.9 | 54.6 |
+| 00:00 | USD | U.S. President Trump Speaks |  |  |  |
