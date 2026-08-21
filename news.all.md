@@ -19,21 +19,19 @@
 | 06:00 | INR | Low | HSBC India Manufacturing PMI (Aug) | 52.9 | 54.0 | 53.5 |
 | 06:00 | INR | Low | HSBC India Services PMI (Aug) | 54.5 | 53.8 | 53.3 |
 | 06:00 | INR | Low | HSBC Manufacturing & Services PMI (Aug) | 54.60 | 54.40 | 54.30 |
-| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Jul) |  | -0.5% | 1.1% |
-| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Jul) |  | 3.3% | 5.4% |
-| 07:00 | GBP | Low | Public Sector Net Cash Requirement (Jul) |  | 0.000B | 15.227B |
-| 07:00 | GBP | Moderate | Retail Sales (MoM) (Jul) |  | -0.4% | 1.0% |
-| 07:00 | GBP | Moderate | Retail Sales (YoY) (Jul) |  | 2.2% | 4.2% |
-| 07:00 | NOK | Low | GDP (QoQ) (Q2) |  |  | 0.4% |
-| 07:00 | NOK | Low | GDP Mainland (QoQ) (Q2) |  |  | 0.2% |
-| 07:45 | EUR | Low | French Business Survey (Aug) |  | 101 | 101 |
-| 08:00 | CHF | Low | M3 Money Supply (Jul) |  |  | 1,227,049.0B |
-| 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Aug) |  | 50.1 | 49.8 |
-| 08:15 | EUR | Low | HCOB France Composite PMI (Aug) |  | 49.5 | 49.4 |
-| 08:15 | EUR | Moderate | HCOB France Services PMI (Aug) |  | 49.4 | 49.6 |
-| 08:30 | EUR | Low | HCOB Germany Composite PMI (Aug) |  | 51.3 | 51.3 |
-| 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Aug) |  | 52.1 | 52.2 |
-| 08:30 | EUR | Moderate | HCOB Germany Services PMI (Aug) |  | 50.1 | 49.8 |
+| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Jul) | -0.9% | -0.5% | 0.9% |
+| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Jul) | 2.3% | 3.3% | 5.0% |
+| 07:00 | GBP | Low | Public Sector Net Cash Requirement (Jul) | -29.006B | 0.000B | 15.635B |
+| 07:00 | GBP | Moderate | Retail Sales (MoM) (Jul) | -0.5% | -0.4% | 0.7% |
+| 07:00 | GBP | Moderate | Retail Sales (YoY) (Jul) | 1.6% | 2.2% | 3.8% |
+| 07:45 | EUR | Low | French Business Survey (Aug) | 103 | 101 | 101 |
+| 6 min | CHF | Low | M3 Money Supply (Jul) |  |  | 1,227,049.0B |
+| 21 min | EUR | Moderate | HCOB France Manufacturing PMI (Aug) |  | 50.1 | 49.8 |
+| 21 min | EUR | Low | HCOB France Composite PMI (Aug) |  | 49.5 | 49.4 |
+| 21 min | EUR | Moderate | HCOB France Services PMI (Aug) |  | 49.4 | 49.6 |
+| 36 min | EUR | Low | HCOB Germany Composite PMI (Aug) |  | 51.3 | 51.3 |
+| 36 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Aug) |  | 52.1 | 52.2 |
+| 36 min | EUR | Moderate | HCOB Germany Services PMI (Aug) |  | 50.1 | 49.8 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Aug) |  | 51.8 | 51.9 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Aug) |  | 51.7 | 52.0 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Aug) |  | 51.5 | 51.7 |

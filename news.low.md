@@ -16,13 +16,11 @@
 | 06:00 | INR | HSBC India Manufacturing PMI (Aug) | 52.9 | 54.0 | 53.5 |
 | 06:00 | INR | HSBC India Services PMI (Aug) | 54.5 | 53.8 | 53.3 |
 | 06:00 | INR | HSBC Manufacturing & Services PMI (Aug) | 54.60 | 54.40 | 54.30 |
-| 07:00 | GBP | Public Sector Net Cash Requirement (Jul) |  | 0.000B | 15.227B |
-| 07:00 | NOK | GDP (QoQ) (Q2) |  |  | 0.4% |
-| 07:00 | NOK | GDP Mainland (QoQ) (Q2) |  |  | 0.2% |
-| 07:45 | EUR | French Business Survey (Aug) |  | 101 | 101 |
-| 08:00 | CHF | M3 Money Supply (Jul) |  |  | 1,227,049.0B |
-| 08:15 | EUR | HCOB France Composite PMI (Aug) |  | 49.5 | 49.4 |
-| 08:30 | EUR | HCOB Germany Composite PMI (Aug) |  | 51.3 | 51.3 |
+| 07:00 | GBP | Public Sector Net Cash Requirement (Jul) | -29.006B | 0.000B | 15.635B |
+| 07:45 | EUR | French Business Survey (Aug) | 103 | 101 | 101 |
+| 6 min | CHF | M3 Money Supply (Jul) |  |  | 1,227,049.0B |
+| 21 min | EUR | HCOB France Composite PMI (Aug) |  | 49.5 | 49.4 |
+| 36 min | EUR | HCOB Germany Composite PMI (Aug) |  | 51.3 | 51.3 |
 | 12:30 | INR | Bank Loan Growth |  |  | 19.3% |
 | 12:30 | INR | Deposit Growth |  |  | 15.4% |
 | 12:30 | INR | FX Reserves, USD |  |  | 707.00B |
