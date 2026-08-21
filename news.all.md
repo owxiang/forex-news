@@ -13,13 +13,13 @@
 | 01:30 | JPY | Low | Manufacturing & Services PMI (Aug) | 53.40 |  | 52.70 |
 | 01:30 | JPY | Low | S&P Global Manufacturing PMI (Aug) | 55.1 | 55.1 | 54.5 |
 | 01:30 | JPY | Moderate | S&P Global Services PMI (Aug) | 52.3 |  | 51.2 |
-| 04:00 | NZD | Low | Credit Card Spending (YoY) (Jul) |  |  | 3.1% |
-| 04:00 | IDR | Low | M2 Money Supply (YoY) (Jul) |  |  | 8.70% |
-| 04:00 | IDR | Low | Balance of Payments (EUR) (Q2) |  |  | -9.1B |
-| 04:00 | IDR | Low | Current Account % of GDP (Q2) |  |  | -1.09% |
+| 04:00 | NZD | Low | Credit Card Spending (YoY) (Jul) | 5.3% |  | 3.2% |
+| 04:00 | IDR | Low | Balance of Payments (EUR) (Q2) | -0.9B |  | -9.1B |
+| 04:00 | IDR | Low | Current Account % of GDP (Q2) | -3.30% |  | -1.09% |
 | 06:00 | INR | Low | HSBC India Manufacturing PMI (Aug) |  | 54.0 | 53.5 |
 | 06:00 | INR | Low | HSBC India Services PMI (Aug) |  | 53.8 | 53.3 |
 | 06:00 | INR | Low | HSBC Manufacturing & Services PMI (Aug) |  | 54.40 | 54.30 |
+| 06:00 | IDR | Low | M2 Money Supply (YoY) (Jul) |  |  | 8.70% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Jul) |  | -0.5% | 1.1% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Jul) |  | 3.3% | 5.4% |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Jul) |  | 0.000B | 15.227B |
@@ -28,7 +28,7 @@
 | 07:00 | NOK | Low | GDP (QoQ) (Q2) |  |  | 0.4% |
 | 07:00 | NOK | Low | GDP Mainland (QoQ) (Q2) |  |  | 0.2% |
 | 07:45 | EUR | Low | French Business Survey (Aug) |  | 101 | 101 |
-| 08:00 | CHF | Low | M3 Money Supply (Jul) |  |  | 1,227.0B |
+| 08:00 | CHF | Low | M3 Money Supply (Jul) |  |  | 1,227,049.0B |
 | 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Aug) |  | 50.1 | 49.8 |
 | 08:15 | EUR | Low | HCOB France Composite PMI (Aug) |  | 49.5 | 49.4 |
 | 08:15 | EUR | Moderate | HCOB France Services PMI (Aug) |  | 49.4 | 49.6 |
