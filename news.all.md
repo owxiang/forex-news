@@ -38,6 +38,7 @@
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (Aug) | 52.5 | 51.6 | 52.2 |
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Aug) | 51.5 | 51.6 | 51.9 |
 | 09:30 | GBP | Moderate | S&P Global Services PMI (Aug) | 52.8 | 51.8 | 52.1 |
+| 10:05 | CNY | Low | FDI (Jul) | -6.20% |  | -5.00% |
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 19.3% |
 | 12:30 | INR | Low | Deposit Growth |  |  | 15.4% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 707.00B |
@@ -46,7 +47,6 @@
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Jun) |  | 0.2% | 1.2% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Jun) |  | 0.4% | 1.0% |
 | 13:31 | CAD | Moderate | Retail Sales (MoM) (Jul) |  |  |  |
-| 14:00 | CNY | Low | FDI (Jul) |  |  | -5.00% |
 | 14:45 | USD | High | S&P Global Manufacturing PMI (Aug) |  | 54.0 | 53.9 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Aug) |  |  | 54.5 |
 | 14:45 | USD | High | S&P Global Services PMI (Aug) |  | 53.9 | 54.6 |
