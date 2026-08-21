@@ -13,12 +13,12 @@
 | 08:15 | EUR | HCOB France Services PMI (Aug) | 48.4 | 49.4 | 49.6 |
 | 08:30 | EUR | HCOB Germany Manufacturing PMI (Aug) | 54.1 | 52.1 | 52.2 |
 | 08:30 | EUR | HCOB Germany Services PMI (Aug) | 48.5 | 50.1 | 49.8 |
-| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Aug) |  | 51.8 | 51.9 |
-| 09:00 | EUR | HCOB Eurozone Composite PMI (Aug) |  | 51.7 | 52.0 |
-| 09:00 | EUR | HCOB Eurozone Services PMI (Aug) |  | 51.5 | 51.7 |
-| 09:30 | GBP | S&P Global Composite PMI (Aug) |  | 51.6 | 52.2 |
-| 09:30 | GBP | S&P Global Manufacturing PMI (Aug) |  | 51.6 | 51.9 |
-| 09:30 | GBP | S&P Global Services PMI (Aug) |  | 51.8 | 52.1 |
+| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Aug) | 52.8 | 51.8 | 51.9 |
+| 09:00 | EUR | HCOB Eurozone Composite PMI (Aug) | 52.1 | 51.7 | 52.0 |
+| 09:00 | EUR | HCOB Eurozone Services PMI (Aug) | 51.7 | 51.5 | 51.7 |
+| 09:30 | GBP | S&P Global Composite PMI (Aug) | 52.5 | 51.6 | 52.2 |
+| 09:30 | GBP | S&P Global Manufacturing PMI (Aug) | 51.5 | 51.6 | 51.9 |
+| 09:30 | GBP | S&P Global Services PMI (Aug) | 52.8 | 51.8 | 52.1 |
 | 13:30 | CAD | Core Retail Sales (MoM) (Jun) |  | 0.2% | 1.2% |
 | 13:30 | CAD | Retail Sales (MoM) (Jun) |  | 0.4% | 1.0% |
 | 13:31 | CAD | Retail Sales (MoM) (Jul) |  |  |  |

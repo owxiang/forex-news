@@ -32,12 +32,12 @@
 | 08:30 | EUR | Low | HCOB Germany Composite PMI (Aug) | 51.0 | 51.3 | 51.3 |
 | 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Aug) | 54.1 | 52.1 | 52.2 |
 | 08:30 | EUR | Moderate | HCOB Germany Services PMI (Aug) | 48.5 | 50.1 | 49.8 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Aug) |  | 51.8 | 51.9 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Aug) |  | 51.7 | 52.0 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Aug) |  | 51.5 | 51.7 |
-| 09:30 | GBP | Moderate | S&P Global Composite PMI (Aug) |  | 51.6 | 52.2 |
-| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Aug) |  | 51.6 | 51.9 |
-| 09:30 | GBP | Moderate | S&P Global Services PMI (Aug) |  | 51.8 | 52.1 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Aug) | 52.8 | 51.8 | 51.9 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Aug) | 52.1 | 51.7 | 52.0 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Aug) | 51.7 | 51.5 | 51.7 |
+| 09:30 | GBP | Moderate | S&P Global Composite PMI (Aug) | 52.5 | 51.6 | 52.2 |
+| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Aug) | 51.5 | 51.6 | 51.9 |
+| 09:30 | GBP | Moderate | S&P Global Services PMI (Aug) | 52.8 | 51.8 | 52.1 |
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 19.3% |
 | 12:30 | INR | Low | Deposit Growth |  |  | 15.4% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 707.00B |
