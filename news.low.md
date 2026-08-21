@@ -25,5 +25,5 @@
 | 12:30 | INR | FX Reserves, USD | 716.91B |  | 707.00B |
 | 13:00 | MXN | Retail Sales (YoY) (Jun) | 2.7% | 3.1% | 1.6% |
 | 13:00 | MXN | Retail Sales (MoM) (Jun) | -0.2% | 0.1% | -0.6% |
-| 15:00 | EUR | Consumer Confidence (Aug) |  | -16.0 | -15.9 |
-| 15:30 | CAD | BoC Senior Loan Officer Survey (Q2) |  |  | 1.0 |
+| 15:00 | EUR | Consumer Confidence (Aug) | -15.5 | -16.0 | -15.9 |
+| 15:30 | CAD | BoC Senior Loan Officer Survey (Q2) | -1.0 |  | 1.0 |
