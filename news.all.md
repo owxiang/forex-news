@@ -39,14 +39,12 @@
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Aug) | 51.5 | 51.6 | 51.9 |
 | 09:30 | GBP | Moderate | S&P Global Services PMI (Aug) | 52.8 | 51.8 | 52.1 |
 | 10:00 | CNY | Low | FDI (Jul) | -6.20% |  | -5.00% |
-| 12:30 | INR | Low | Bank Loan Growth |  |  | 19.3% |
-| 12:30 | INR | Low | Deposit Growth |  |  | 15.4% |
 | 12:30 | INR | Low | FX Reserves, USD | 716.91B |  | 707.00B |
-| 13:00 | MXN | Low | Retail Sales (YoY) (Jun) |  | 3.1% | 1.6% |
-| 13:00 | MXN | Low | Retail Sales (MoM) (Jun) |  | 0.1% | -0.6% |
-| 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Jun) |  | 0.2% | 1.2% |
-| 13:30 | CAD | Moderate | Retail Sales (MoM) (Jun) |  | 0.4% | 1.0% |
-| 13:31 | CAD | Moderate | Retail Sales (MoM) (Jul) |  |  |  |
+| 13:00 | MXN | Low | Retail Sales (YoY) (Jun) | 2.7% | 3.1% | 1.6% |
+| 13:00 | MXN | Low | Retail Sales (MoM) (Jun) | -0.2% | 0.1% | -0.6% |
+| 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Jun) | 0.5% | 0.2% | 1.2% |
+| 13:30 | CAD | Moderate | Retail Sales (MoM) (Jun) | 0.6% | 0.4% | 1.0% |
+| 13:31 | CAD | Moderate | Retail Sales (MoM) (Jul) | -0.8% |  | 0.6% |
 | 14:45 | USD | High | S&P Global Manufacturing PMI (Aug) |  | 54.0 | 53.9 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Aug) |  |  | 54.5 |
 | 14:45 | USD | High | S&P Global Services PMI (Aug) |  | 53.9 | 54.6 |
