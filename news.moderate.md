@@ -23,5 +23,5 @@
 | 13:30 | CAD | Retail Sales (MoM) (Jun) | 0.6% | 0.4% | 1.0% |
 | 13:31 | CAD | Retail Sales (MoM) (Jul) | -0.8% |  | 0.6% |
 | 14:45 | USD | S&P Global Composite PMI (Aug) | 56.0 | 54.0 | 54.5 |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 455 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 593 |
+| 18:20 | USD | U.S. Baker Hughes Oil Rig Count | 452 | 456 | 455 |
+| 18:20 | USD | U.S. Baker Hughes Total Rig Count | 588 |  | 593 |

@@ -50,5 +50,5 @@
 | 14:45 | USD | High | S&P Global Services PMI (Aug) | 56.8 | 53.9 | 54.6 |
 | 15:00 | EUR | Low | Consumer Confidence (Aug) | -15.5 | -16.0 | -15.9 |
 | 15:30 | CAD | Low | BoC Senior Loan Officer Survey (Q2) | -1.0 |  | 1.0 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 455 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 593 |
+| 18:20 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 452 | 456 | 455 |
+| 18:20 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 588 |  | 593 |
