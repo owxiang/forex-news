@@ -16,10 +16,9 @@
 | 04:00 | NZD | Low | Credit Card Spending (YoY) (Jul) | 5.3% |  | 3.2% |
 | 04:00 | IDR | Low | Balance of Payments (EUR) (Q2) | -0.9B |  | -9.1B |
 | 04:00 | IDR | Low | Current Account % of GDP (Q2) | -3.30% |  | -1.09% |
-| 06:00 | INR | Low | HSBC India Manufacturing PMI (Aug) |  | 54.0 | 53.5 |
-| 06:00 | INR | Low | HSBC India Services PMI (Aug) |  | 53.8 | 53.3 |
-| 06:00 | INR | Low | HSBC Manufacturing & Services PMI (Aug) |  | 54.40 | 54.30 |
-| 06:00 | IDR | Low | M2 Money Supply (YoY) (Jul) |  |  | 8.70% |
+| 06:00 | INR | Low | HSBC India Manufacturing PMI (Aug) | 52.9 | 54.0 | 53.5 |
+| 06:00 | INR | Low | HSBC India Services PMI (Aug) | 54.5 | 53.8 | 53.3 |
+| 06:00 | INR | Low | HSBC Manufacturing & Services PMI (Aug) | 54.60 | 54.40 | 54.30 |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Jul) |  | -0.5% | 1.1% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Jul) |  | 3.3% | 5.4% |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Jul) |  | 0.000B | 15.227B |
