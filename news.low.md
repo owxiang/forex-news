@@ -6,10 +6,10 @@
 | 00:00 | AUD | S&P Global Manufacturing PMI (Aug) | 52.0 |  | 52.0 |
 | 00:00 | AUD | S&P Global Services PMI (Aug) | 52.9 |  | 53.6 |
 | 00:01 | GBP | GfK Consumer Confidence (Aug) | -14 | -18 | -17 |
-| 00:30 | JPY | CPI, n.s.a (MoM) (Jul) |  |  | 0.0% |
-| 00:30 | JPY | National CPI (YoY) (Jul) |  |  | 1.7% |
-| 01:30 | JPY | Manufacturing & Services PMI (Aug) |  |  | 52.70 |
-| 01:30 | JPY | S&P Global Manufacturing PMI (Aug) |  | 55.1 | 54.5 |
+| 00:30 | JPY | CPI, n.s.a (MoM) (Jul) | 0.5% |  | 0.1% |
+| 00:30 | JPY | National CPI (YoY) (Jul) | 1.9% |  | 1.6% |
+| 01:30 | JPY | Manufacturing & Services PMI (Aug) | 53.40 |  | 52.70 |
+| 01:30 | JPY | S&P Global Manufacturing PMI (Aug) | 55.1 | 55.1 | 54.5 |
 | 04:00 | NZD | Credit Card Spending (YoY) (Jul) |  |  | 3.1% |
 | 04:00 | IDR | M2 Money Supply (YoY) (Jul) |  |  | 8.70% |
 | 04:00 | IDR | Balance of Payments (EUR) (Q2) |  |  | -9.1B |

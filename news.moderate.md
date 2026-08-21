@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | JPY | National Core CPI (YoY) (Jul) |  | 1.8% | 1.6% |
-| 00:30 | JPY | National CPI (MoM) (Jul) |  |  | 0.3% |
-| 01:30 | JPY | S&P Global Services PMI (Aug) |  |  | 51.2 |
+| 00:30 | JPY | National Core CPI (YoY) (Jul) | 1.8% | 1.8% | 1.6% |
+| 00:30 | JPY | National CPI (MoM) (Jul) | 0.4% |  | 0.3% |
+| 01:30 | JPY | S&P Global Services PMI (Aug) | 52.3 |  | 51.2 |
 | 07:00 | GBP | Core Retail Sales (MoM) (Jul) |  | -0.5% | 1.1% |
 | 07:00 | GBP | Core Retail Sales (YoY) (Jul) |  | 3.3% | 5.4% |
 | 07:00 | GBP | Retail Sales (MoM) (Jul) |  | -0.4% | 1.0% |

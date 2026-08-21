@@ -6,13 +6,13 @@
 | 00:00 | AUD | Low | S&P Global Manufacturing PMI (Aug) | 52.0 |  | 52.0 |
 | 00:00 | AUD | Low | S&P Global Services PMI (Aug) | 52.9 |  | 53.6 |
 | 00:01 | GBP | Low | GfK Consumer Confidence (Aug) | -14 | -18 | -17 |
-| 00:30 | JPY | Low | CPI, n.s.a (MoM) (Jul) |  |  | 0.0% |
-| 00:30 | JPY | Moderate | National Core CPI (YoY) (Jul) |  | 1.8% | 1.6% |
-| 00:30 | JPY | Low | National CPI (YoY) (Jul) |  |  | 1.7% |
-| 00:30 | JPY | Moderate | National CPI (MoM) (Jul) |  |  | 0.3% |
-| 01:30 | JPY | Low | Manufacturing & Services PMI (Aug) |  |  | 52.70 |
-| 01:30 | JPY | Low | S&P Global Manufacturing PMI (Aug) |  | 55.1 | 54.5 |
-| 01:30 | JPY | Moderate | S&P Global Services PMI (Aug) |  |  | 51.2 |
+| 00:30 | JPY | Low | CPI, n.s.a (MoM) (Jul) | 0.5% |  | 0.1% |
+| 00:30 | JPY | Moderate | National Core CPI (YoY) (Jul) | 1.8% | 1.8% | 1.6% |
+| 00:30 | JPY | Low | National CPI (YoY) (Jul) | 1.9% |  | 1.6% |
+| 00:30 | JPY | Moderate | National CPI (MoM) (Jul) | 0.4% |  | 0.3% |
+| 01:30 | JPY | Low | Manufacturing & Services PMI (Aug) | 53.40 |  | 52.70 |
+| 01:30 | JPY | Low | S&P Global Manufacturing PMI (Aug) | 55.1 | 55.1 | 54.5 |
+| 01:30 | JPY | Moderate | S&P Global Services PMI (Aug) | 52.3 |  | 51.2 |
 | 04:00 | NZD | Low | Credit Card Spending (YoY) (Jul) |  |  | 3.1% |
 | 04:00 | IDR | Low | M2 Money Supply (YoY) (Jul) |  |  | 8.70% |
 | 04:00 | IDR | Low | Balance of Payments (EUR) (Q2) |  |  | -9.1B |
