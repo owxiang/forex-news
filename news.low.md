@@ -21,7 +21,7 @@
 | 08:00 | CHF | M3 Money Supply (Jul) | 1,231.1B |  | 1,226.4B |
 | 08:15 | EUR | HCOB France Composite PMI (Aug) | 48.8 | 49.5 | 49.4 |
 | 08:30 | EUR | HCOB Germany Composite PMI (Aug) | 51.0 | 51.3 | 51.3 |
-| 10:05 | CNY | FDI (Jul) | -6.20% |  | -5.00% |
+| 10:00 | CNY | FDI (Jul) | -6.20% |  | -5.00% |
 | 12:30 | INR | Bank Loan Growth |  |  | 19.3% |
 | 12:30 | INR | Deposit Growth |  |  | 15.4% |
 | 12:30 | INR | FX Reserves, USD |  |  | 707.00B |
