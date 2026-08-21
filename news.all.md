@@ -45,9 +45,9 @@
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Jun) | 0.5% | 0.2% | 1.2% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Jun) | 0.6% | 0.4% | 1.0% |
 | 13:31 | CAD | Moderate | Retail Sales (MoM) (Jul) | -0.8% |  | 0.6% |
-| 14:45 | USD | High | S&P Global Manufacturing PMI (Aug) |  | 54.0 | 53.9 |
-| 14:45 | USD | Moderate | S&P Global Composite PMI (Aug) |  |  | 54.5 |
-| 14:45 | USD | High | S&P Global Services PMI (Aug) |  | 53.9 | 54.6 |
+| 14:45 | USD | High | S&P Global Manufacturing PMI (Aug) | 53.2 | 54.0 | 53.9 |
+| 14:45 | USD | Moderate | S&P Global Composite PMI (Aug) | 56.0 | 54.0 | 54.5 |
+| 14:45 | USD | High | S&P Global Services PMI (Aug) | 56.8 | 53.9 | 54.6 |
 | 15:00 | EUR | Low | Consumer Confidence (Aug) |  | -16.0 | -15.9 |
 | 15:30 | CAD | Low | BoC Senior Loan Officer Survey (Q2) |  |  | 1.0 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 455 |
