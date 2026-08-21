@@ -24,7 +24,7 @@
 | 10:00 | CNY | FDI (Jul) | -6.20% |  | -5.00% |
 | 12:30 | INR | Bank Loan Growth |  |  | 19.3% |
 | 12:30 | INR | Deposit Growth |  |  | 15.4% |
-| 12:30 | INR | FX Reserves, USD |  |  | 707.00B |
+| 12:30 | INR | FX Reserves, USD | 716.91B |  | 707.00B |
 | 13:00 | MXN | Retail Sales (YoY) (Jun) |  | 3.1% | 1.6% |
 | 13:00 | MXN | Retail Sales (MoM) (Jun) |  | 0.1% | -0.6% |
 | 15:00 | EUR | Consumer Confidence (Aug) |  | -16.0 | -15.9 |

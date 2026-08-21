@@ -41,7 +41,7 @@
 | 10:00 | CNY | Low | FDI (Jul) | -6.20% |  | -5.00% |
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 19.3% |
 | 12:30 | INR | Low | Deposit Growth |  |  | 15.4% |
-| 12:30 | INR | Low | FX Reserves, USD |  |  | 707.00B |
+| 12:30 | INR | Low | FX Reserves, USD | 716.91B |  | 707.00B |
 | 13:00 | MXN | Low | Retail Sales (YoY) (Jun) |  | 3.1% | 1.6% |
 | 13:00 | MXN | Low | Retail Sales (MoM) (Jun) |  | 0.1% | -0.6% |
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Jun) |  | 0.2% | 1.2% |
