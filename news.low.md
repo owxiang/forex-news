@@ -1,3 +1,5 @@
-## 22 August 2026 - Low Impact Forex News
+## 23 August 2026 - Low Impact Forex News
 
-There is no low impact news today.
+| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 23:45 | NZD | Retail Sales Quarterly Vs. Year Ago (Q2) |  |  | 4.5% |
