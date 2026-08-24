@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 06:00 | SGD | CPI (MoM) (Jul) | -0.20% |  | 0.00% |
 | 06:00 | IDR | M2 Money Supply (YoY) (Jul) | 8.30% |  | 8.70% |
-| 19 min | NOK | M3 Money Supply (Jul) |  |  | 3,657.0B |
-| 19 min | NOK | Credit Indicator (YoY) (Jul) |  |  | 4.4% |
+| 07:00 | NOK | M3 Money Supply (Jul) | 3,645.5B |  | 3,657.0B |
+| 07:00 | NOK | Credit Indicator (YoY) (Jul) | 4.3% |  | 4.4% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:00 | MXN | 1st Half-Month Core CPI (Aug) |  |  | 0.16% |
 | 13:00 | MXN | 1st Half-Month CPI (Aug) |  |  | 0.07% |
