@@ -9,14 +9,15 @@
 | 07:00 | NOK | Low | M3 Money Supply (Jul) | 3,645.5B |  | 3,657.0B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Jul) | 4.3% |  | 4.4% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | MXN | Low | 1st Half-Month Core CPI (Aug) |  |  | 0.16% |
-| 13:00 | MXN | Low | 1st Half-Month CPI (Aug) |  |  | 0.07% |
-| 13:00 | MXN | Low | Economic Activity (MoM) (Jun) |  |  | -0.30% |
-| 13:00 | MXN | Low | Economic Activity (YoY) (Jun) |  |  | 1.10% |
-| 13:00 | MXN | Moderate | GDP (QoQ) (Q2) |  | 1.5% | 1.5% |
-| 13:00 | MXN | Moderate | GDP (YoY) (Q2) |  | 2.2% | 2.2% |
-| 13:30 | USD | Low | Chicago Fed National Activity (Jul) |  |  | -0.02 |
-| 13:30 | CAD | Low | Corporate Profits (QoQ) |  |  | -2.0% |
+| 13:00 | MXN | Low | 1st Half-Month Core CPI (Aug) | 0.08% |  | 0.16% |
+| 13:00 | MXN | Low | 1st Half-Month CPI (Aug) | 0.10% |  | 0.07% |
+| 13:00 | MXN | Low | Economic Activity (YoY) (Jun) | 2.80% |  | 1.10% |
+| 13:00 | MXN | Low | Economic Activity (MoM) (Jun) | -0.10% |  | -0.40% |
+| 13:00 | MXN | Moderate | GDP (QoQ) (Q2) | 1.4% | 1.5% | 1.5% |
+| 13:00 | MXN | Moderate | GDP (YoY) (Q2) | 2.1% | 2.2% | 2.2% |
+| 13:30 | USD | Low | Chicago Fed National Activity (Jul) | -0.08 |  | 0.06 |
+| 13:30 | CAD | Low | Corporate Profits (QoQ) | 9.7% |  | 1.1% |
+| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Jul) | -0.2% |  | 0.1% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.781% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.484% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.608% |
