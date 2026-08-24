@@ -17,6 +17,7 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 2.832% |  | 2.781% |
 | 14:00 | EUR | French 3-Month BTF Auction | 2.495% |  | 2.484% |
 | 14:00 | EUR | French 6-Month BTF Auction | 2.675% |  | 2.608% |
+| 15:50 | EUR | French Car Registration (YoY) | 9.0% |  | 11.4% |
 | 16:30 | USD | 3-Month Bill Auction | 3.715% |  | 3.715% |
 | 16:30 | USD | 6-Month Bill Auction | 3.790% |  | 3.780% |
 | 22:00 | KRW | Consumer Confidence (Aug) |  |  | 106.8 |
