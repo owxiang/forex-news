@@ -24,4 +24,4 @@
 | 15:50 | EUR | Low | French Car Registration (YoY) | 9.0% |  | 11.4% |
 | 16:30 | USD | Low | 3-Month Bill Auction | 3.715% |  | 3.715% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 3.790% |  | 3.780% |
-| 22:00 | KRW | Low | Consumer Confidence (Aug) |  |  | 106.8 |
+| 22:00 | KRW | Low | Consumer Confidence (Aug) | 104.5 |  | 106.8 |
