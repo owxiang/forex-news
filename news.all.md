@@ -18,9 +18,9 @@
 | 13:30 | USD | Low | Chicago Fed National Activity (Jul) | -0.08 |  | 0.06 |
 | 13:30 | CAD | Low | Corporate Profits (QoQ) | 9.7% |  | 1.1% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Jul) | -0.2% |  | 0.1% |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.781% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.484% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.608% |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.832% |  | 2.781% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.495% |  | 2.484% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.675% |  | 2.608% |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.715% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.780% |
 | 22:00 | KRW | Low | Consumer Confidence (Aug) |  |  | 106.8 |
