@@ -17,6 +17,6 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 2.832% |  | 2.781% |
 | 14:00 | EUR | French 3-Month BTF Auction | 2.495% |  | 2.484% |
 | 14:00 | EUR | French 6-Month BTF Auction | 2.675% |  | 2.608% |
-| 41 min | USD | 3-Month Bill Auction |  |  | 3.715% |
-| 41 min | USD | 6-Month Bill Auction |  |  | 3.780% |
+| 16:30 | USD | 3-Month Bill Auction | 3.715% |  | 3.715% |
+| 16:30 | USD | 6-Month Bill Auction | 3.790% |  | 3.780% |
 | 22:00 | KRW | Consumer Confidence (Aug) |  |  | 106.8 |
