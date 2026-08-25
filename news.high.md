@@ -1,7 +1,9 @@
-## 25 August 2026 - High Impact Forex News
+## 26 August 2026 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | EUR | German GDP (QoQ) (Q2) | 0.3% | 0.2% | 0.4% |
-| 15:00 | USD | CB Consumer Confidence (Aug) | 89.4 | 90.3 | 90.2 |
-| 15:00 | USD | New Home Sales (Jul) | 607K | 620K | 678K |
+| 13:30 | USD | Core PCE Price Index (MoM) (Jul) |  | 0.2% | 0.1% |
+| 13:30 | USD | Core PCE Price Index (YoY) (Jul) |  | 3.3% | 3.3% |
+| 13:30 | USD | Durable Goods Orders (MoM) (Jul) |  | 0.4% | 0.3% |
+| 13:30 | USD | GDP (QoQ) (Q2) |  | 1.5% | 2.1% |
+| 15:30 | USD | Crude Oil Inventories |  | 1.900M | 4.405M |

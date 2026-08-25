@@ -1,47 +1,56 @@
-## 25 August 2026 - All Forex News
+## 26 August 2026 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 02:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
-| 06:00 | JPY | Moderate | BoJ Core CPI (YoY) | 2.3% |  | 2.6% |
-| 06:00 | JPY | Low | Coincident Indicator (MoM) (Jun) | 0.6% | 0.3% | -0.2% |
-| 06:00 | JPY | Low | Leading Index (Jun) | 116.5 | 116.4 | 116.5 |
-| 06:00 | JPY | Low | Leading Index (MoM) (Jun) | 0.0% | 0.0% | 0.4% |
-| 07:00 | EUR | High | German GDP (QoQ) (Q2) | 0.3% | 0.2% | 0.4% |
-| 07:00 | EUR | Moderate | German GDP (YoY) (Q2) | 1.0% | 0.9% | 0.7% |
-| 07:00 | NOK | Low | Unemployment Rate (Jul) | 4.2% |  | 4.6% |
-| 07:45 | EUR | Low | French Consumer Confidence (Aug) | 86 | 87 | 86 |
-| 08:00 | EUR | Low | Spanish PPI (YoY) (Jul) | 9.2% |  | 7.0% |
-| 08:00 | ZAR | Low | Leading Indicators (Jun) | 116.60% |  | 118.22% |
-| 09:00 | EUR | Moderate | German Business Expectations (Aug) | 89.1 | 87.5 | 86.8 |
-| 09:00 | EUR | Moderate | German Current Assessment (Aug) | 88.5 | 87.0 | 86.5 |
-| 09:00 | EUR | Moderate | German Ifo Business Climate Index (Aug) | 88.8 | 87.2 | 86.7 |
-| 09:30 | HKD | Low | Exports (MoM) (Jul) | 50.7% |  | 53.4% |
-| 09:30 | HKD | Low | Imports (MoM) (Jul) | 41.0% |  | 45.4% |
-| 09:30 | HKD | Low | Trade Balance (Jul) | -4.9B |  | -52.0B |
-| 10:45 | EUR | Low | German 2-Year Schatz Auction | 2.850% |  | 2.780% |
-| 12:00 | BRL | Low | FGV Consumer confidence (Aug) | 84.7 |  | 88.3 |
-| 13:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 13:15 | USD | Moderate | ADP Employment Change Weekly | 11.80K |  | 9.50K |
-| 13:30 | USD | Moderate | Building Permits (Jul) | 1.433M | 1.443M | 1.374M |
-| 13:30 | USD | Low | Building Permits (MoM) (Jul) | 4.3% | 5.0% | -2.6% |
-| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Jul) | -0.6% |  | 2.8% |
-| 13:55 | USD | Low | Redbook (YoY) | 9.1% |  | 7.6% |
-| 14:00 | USD | Low | House Price Index (MoM) (Jun) | 0.0% | 0.2% | 0.3% |
-| 14:00 | USD | Low | House Price Index (YoY) (Jun) | 2.3% |  | 2.4% |
-| 14:00 | USD | Low | House Price Index (Jun) | 442.5 |  | 442.4 |
-| 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Jun) | 0.2% |  | 0.2% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jun) | 2.1% | 1.8% | 1.6% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jun) | 0.4% |  | 0.9% |
-| 15:00 | USD | High | CB Consumer Confidence (Aug) | 89.4 | 90.3 | 90.2 |
-| 15:00 | USD | High | New Home Sales (Jul) | 607K | 620K | 678K |
-| 15:00 | USD | Moderate | New Home Sales (MoM) (Jul) | -10.5% |  | 7.6% |
-| 15:00 | USD | Low | Richmond Manufacturing Index (Aug) | 4 | 6 | 5 |
-| 15:00 | USD | Low | Richmond Manufacturing Shipments (Aug) | 11 |  | 8 |
-| 15:00 | USD | Low | Richmond Services Index (Aug) | -8 |  | -3 |
-| 16:00 | MXN | Low | Current Account (USD) (Q2) | 8,927M |  | -18,231M |
-| 16:00 | MXN | Low | Current Account % of GDP (Q2) | 1.60% |  | -3.60% |
-| 18:00 | USD | Low | M2 Money Supply (MoM) (Jul) | 23.22T |  | 23.15T |
-| 21:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 22:00 | USD | Moderate | API Weekly Crude Oil Stock | 4.200M | 1.900M | -0.328M |
-| 23:30 | USD | Moderate | 2-Year Note Auction |  |  | 4.315% |
+| 22 min | JPY | Low | Corporate Services Price Index (CSPI) (YoY) |  | 3.2% | 3.2% |
+| 02:00 | AUD | Low | MI Leading Index (MoM) (Jul) |  |  | 0.0% |
+| 02:30 | AUD | Moderate | Construction Work Done (QoQ) (Q2) |  | 0.5% | 3.4% |
+| 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (Jul) |  | 3.30% | 3.80% |
+| 06:00 | SGD | Low | Industrial Production (YoY) (Jul) |  | 6.6% | 7.2% |
+| 06:00 | SGD | Low | Industrial Production (MoM) (Jul) |  |  | -7.2% |
+| 09:00 | CHF | Low | ZEW Expectations (Aug) |  |  | 10.0 |
+| 11:00 | GBP | Low | CBI Distributive Trades Survey (Aug) |  | -35 | -26 |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.77% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -0.4% |
+| 12:00 | USD | Low | MBA Purchase Index |  |  | 154.8 |
+| 12:00 | USD | Low | Mortgage Market Index |  |  | 247.7 |
+| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 755.9 |
+| 12:30 | INR | Low | M3 Money Supply |  |  | 14.7% |
+| 13:00 | BRL | Low | Mid-Month CPI (MoM) (Aug) |  |  | 0.06% |
+| 13:00 | BRL | Low | Mid-Month CPI (YoY) (Aug) |  |  | 4.52% |
+| 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Jul) |  | 0.5% | 0.6% |
+| 13:30 | USD | High | Core PCE Price Index (MoM) (Jul) |  | 0.2% | 0.1% |
+| 13:30 | USD | High | Core PCE Price Index (YoY) (Jul) |  | 3.3% | 3.3% |
+| 13:30 | USD | Moderate | Core PCE Prices (Q2) |  | 3.40% | 4.40% |
+| 13:30 | USD | Low | Corporate Profits (QoQ) (Q2) |  |  | 0.5% |
+| 13:30 | USD | High | Durable Goods Orders (MoM) (Jul) |  | 0.4% | 0.3% |
+| 13:30 | USD | Low | Durables Excluding Defense (MoM) (Jul) |  |  | 0.5% |
+| 13:30 | USD | High | GDP (QoQ) (Q2) |  | 1.5% | 2.1% |
+| 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q2) |  | 6.3% | 3.6% |
+| 13:30 | USD | Low | GDP Sales (Q2) |  | 2.2% | 1.9% |
+| 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Jul) |  |  | 0.9% |
+| 13:30 | USD | Moderate | PCE price index (MoM) (Jul) |  | 0.1% | -0.1% |
+| 13:30 | USD | Moderate | PCE Price index (YoY) (Jul) |  |  | 3.7% |
+| 13:30 | USD | Low | PCE Prices (Q2) |  | 5.1% | 4.6% |
+| 13:30 | USD | Low | Personal Income (MoM) (Jul) |  | 0.2% | 0.2% |
+| 13:30 | USD | Moderate | Personal Spending (MoM) (Jul) |  | 0.1% | 0.3% |
+| 13:30 | USD | Low | Real Consumer Spending (Q2) |  | 3.2% | 0.5% |
+| 13:30 | USD | Low | Real Personal Consumption (MoM) (Jul) |  |  | 0.4% |
+| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Jul) |  |  | 0.1% |
+| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Jul) |  |  | 2.8% |
+| 15:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 4.0% | 4.0% |
+| 15:00 | USD | Low | Dallas Fed PCE (Jul) |  |  | 1.40% |
+| 15:30 | USD | High | Crude Oil Inventories |  | 1.900M | 4.405M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.216M |
+| 15:30 | USD | Low | Crude Oil Imports |  |  | -1.754M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -1.314M |
+| 15:30 | USD | Low | Distillate Fuel Production |  |  | -0.054M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | -1.700M | -1.530M |
+| 15:30 | USD | Low | Gasoline Production |  |  | 0.143M |
+| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | -0.537M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.0% |
+| 15:30 | USD | Low | Gasoline Inventories |  | -1.000M | 0.688M |
+| 15:30 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 16:45 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 18:00 | USD | Moderate | 5-Year Note Auction |  |  | 4.408% |
+| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 0.851B |

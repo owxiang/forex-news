@@ -1,18 +1,16 @@
-## 25 August 2026 - Moderate Impact Forex News
+## 26 August 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | RBA Meeting Minutes |  |  |  |
-| 06:00 | JPY | BoJ Core CPI (YoY) | 2.3% |  | 2.6% |
-| 07:00 | EUR | German GDP (YoY) (Q2) | 1.0% | 0.9% | 0.7% |
-| 09:00 | EUR | German Business Expectations (Aug) | 89.1 | 87.5 | 86.8 |
-| 09:00 | EUR | German Current Assessment (Aug) | 88.5 | 87.0 | 86.5 |
-| 09:00 | EUR | German Ifo Business Climate Index (Aug) | 88.8 | 87.2 | 86.7 |
-| 13:15 | USD | ADP Employment Change Weekly | 11.80K |  | 9.50K |
-| 13:30 | USD | Building Permits (Jul) | 1.433M | 1.443M | 1.374M |
-| 13:30 | CAD | Wholesale Sales (MoM) (Jul) | -0.6% |  | 2.8% |
-| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jun) | 2.1% | 1.8% | 1.6% |
-| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jun) | 0.4% |  | 0.9% |
-| 15:00 | USD | New Home Sales (MoM) (Jul) | -10.5% |  | 7.6% |
-| 22:00 | USD | API Weekly Crude Oil Stock | 4.200M | 1.900M | -0.328M |
-| 23:30 | USD | 2-Year Note Auction |  |  | 4.315% |
+| 02:30 | AUD | Construction Work Done (QoQ) (Q2) |  | 0.5% | 3.4% |
+| 13:30 | USD | Core Durable Goods Orders (MoM) (Jul) |  | 0.5% | 0.6% |
+| 13:30 | USD | Core PCE Prices (Q2) |  | 3.40% | 4.40% |
+| 13:30 | USD | GDP Price Index (QoQ) (Q2) |  | 6.3% | 3.6% |
+| 13:30 | USD | PCE price index (MoM) (Jul) |  | 0.1% | -0.1% |
+| 13:30 | USD | PCE Price index (YoY) (Jul) |  |  | 3.7% |
+| 13:30 | USD | Personal Spending (MoM) (Jul) |  | 0.1% | 0.3% |
+| 13:30 | CAD | Wholesale Sales (MoM) (Jul) |  |  | 2.8% |
+| 15:00 | USD | Atlanta Fed GDPNow (Q3) |  | 4.0% | 4.0% |
+| 15:30 | USD | Cushing Crude Oil Inventories |  |  | -1.314M |
+| 15:30 | EUR | German Buba Balz Speaks |  |  |  |
+| 18:00 | USD | 5-Year Note Auction |  |  | 4.408% |

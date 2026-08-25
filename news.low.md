@@ -1,30 +1,39 @@
-## 25 August 2026 - Low Impact Forex News
+## 26 August 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 06:00 | JPY | Coincident Indicator (MoM) (Jun) | 0.6% | 0.3% | -0.2% |
-| 06:00 | JPY | Leading Index (Jun) | 116.5 | 116.4 | 116.5 |
-| 06:00 | JPY | Leading Index (MoM) (Jun) | 0.0% | 0.0% | 0.4% |
-| 07:00 | NOK | Unemployment Rate (Jul) | 4.2% |  | 4.6% |
-| 07:45 | EUR | French Consumer Confidence (Aug) | 86 | 87 | 86 |
-| 08:00 | EUR | Spanish PPI (YoY) (Jul) | 9.2% |  | 7.0% |
-| 08:00 | ZAR | Leading Indicators (Jun) | 116.60% |  | 118.22% |
-| 09:30 | HKD | Exports (MoM) (Jul) | 50.7% |  | 53.4% |
-| 09:30 | HKD | Imports (MoM) (Jul) | 41.0% |  | 45.4% |
-| 09:30 | HKD | Trade Balance (Jul) | -4.9B |  | -52.0B |
-| 10:45 | EUR | German 2-Year Schatz Auction | 2.850% |  | 2.780% |
-| 12:00 | BRL | FGV Consumer confidence (Aug) | 84.7 |  | 88.3 |
-| 13:00 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 13:30 | USD | Building Permits (MoM) (Jul) | 4.3% | 5.0% | -2.6% |
-| 13:55 | USD | Redbook (YoY) | 9.1% |  | 7.6% |
-| 14:00 | USD | House Price Index (MoM) (Jun) | 0.0% | 0.2% | 0.3% |
-| 14:00 | USD | House Price Index (YoY) (Jun) | 2.3% |  | 2.4% |
-| 14:00 | USD | House Price Index (Jun) | 442.5 |  | 442.4 |
-| 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Jun) | 0.2% |  | 0.2% |
-| 15:00 | USD | Richmond Manufacturing Index (Aug) | 4 | 6 | 5 |
-| 15:00 | USD | Richmond Manufacturing Shipments (Aug) | 11 |  | 8 |
-| 15:00 | USD | Richmond Services Index (Aug) | -8 |  | -3 |
-| 16:00 | MXN | Current Account (USD) (Q2) | 8,927M |  | -18,231M |
-| 16:00 | MXN | Current Account % of GDP (Q2) | 1.60% |  | -3.60% |
-| 18:00 | USD | M2 Money Supply (MoM) (Jul) | 23.22T |  | 23.15T |
-| 21:00 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 22 min | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 3.2% | 3.2% |
+| 02:00 | AUD | MI Leading Index (MoM) (Jul) |  |  | 0.0% |
+| 02:30 | AUD | Monthly CPI Indicator (YoY) (Jul) |  | 3.30% | 3.80% |
+| 06:00 | SGD | Industrial Production (YoY) (Jul) |  | 6.6% | 7.2% |
+| 06:00 | SGD | Industrial Production (MoM) (Jul) |  |  | -7.2% |
+| 09:00 | CHF | ZEW Expectations (Aug) |  |  | 10.0 |
+| 11:00 | GBP | CBI Distributive Trades Survey (Aug) |  | -35 | -26 |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.77% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -0.4% |
+| 12:00 | USD | MBA Purchase Index |  |  | 154.8 |
+| 12:00 | USD | Mortgage Market Index |  |  | 247.7 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 755.9 |
+| 12:30 | INR | M3 Money Supply |  |  | 14.7% |
+| 13:00 | BRL | Mid-Month CPI (MoM) (Aug) |  |  | 0.06% |
+| 13:00 | BRL | Mid-Month CPI (YoY) (Aug) |  |  | 4.52% |
+| 13:30 | USD | Corporate Profits (QoQ) (Q2) |  |  | 0.5% |
+| 13:30 | USD | Durables Excluding Defense (MoM) (Jul) |  |  | 0.5% |
+| 13:30 | USD | GDP Sales (Q2) |  | 2.2% | 1.9% |
+| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Jul) |  |  | 0.9% |
+| 13:30 | USD | PCE Prices (Q2) |  | 5.1% | 4.6% |
+| 13:30 | USD | Personal Income (MoM) (Jul) |  | 0.2% | 0.2% |
+| 13:30 | USD | Real Consumer Spending (Q2) |  | 3.2% | 0.5% |
+| 13:30 | USD | Real Personal Consumption (MoM) (Jul) |  |  | 0.4% |
+| 13:30 | CAD | Manufacturing Sales (MoM) (Jul) |  |  | 0.1% |
+| 15:00 | USD | Dallas Fed PCE (Jul) |  |  | 1.40% |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.216M |
+| 15:30 | USD | Crude Oil Imports |  |  | -1.754M |
+| 15:30 | USD | Distillate Fuel Production |  |  | -0.054M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  | -1.700M | -1.530M |
+| 15:30 | USD | Gasoline Production |  |  | 0.143M |
+| 15:30 | USD | Heating Oil Stockpiles |  |  | -0.537M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.0% |
+| 15:30 | USD | Gasoline Inventories |  | -1.000M | 0.688M |
+| 16:45 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 18:30 | BRL | Foreign Exchange Flows |  |  | 0.851B |
