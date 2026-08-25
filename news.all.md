@@ -11,8 +11,8 @@
 | 07:00 | EUR | Moderate | German GDP (YoY) (Q2) | 1.0% | 0.9% | 0.7% |
 | 07:00 | NOK | Low | Unemployment Rate (Jul) | 4.2% |  | 4.6% |
 | 07:45 | EUR | Low | French Consumer Confidence (Aug) | 86 | 87 | 86 |
-| 08:00 | EUR | Low | Spanish PPI (YoY) (Jul) |  |  | 7.0% |
-| 08:00 | ZAR | Low | Leading Indicators (Jun) |  |  | 118.20% |
+| 08:00 | EUR | Low | Spanish PPI (YoY) (Jul) | 9.2% |  | 7.0% |
+| 08:00 | ZAR | Low | Leading Indicators (Jun) | 116.60% |  | 118.22% |
 | 09:00 | EUR | Moderate | German Business Expectations (Aug) |  | 87.5 | 86.7 |
 | 09:00 | EUR | Moderate | German Current Assessment (Aug) |  | 87.0 | 86.5 |
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (Aug) |  | 87.2 | 86.6 |

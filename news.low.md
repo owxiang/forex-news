@@ -7,8 +7,8 @@
 | 06:00 | JPY | Leading Index (MoM) (Jun) | 0.0% | 0.0% | 0.4% |
 | 07:00 | NOK | Unemployment Rate (Jul) | 4.2% |  | 4.6% |
 | 07:45 | EUR | French Consumer Confidence (Aug) | 86 | 87 | 86 |
-| 08:00 | EUR | Spanish PPI (YoY) (Jul) |  |  | 7.0% |
-| 08:00 | ZAR | Leading Indicators (Jun) |  |  | 118.20% |
+| 08:00 | EUR | Spanish PPI (YoY) (Jul) | 9.2% |  | 7.0% |
+| 08:00 | ZAR | Leading Indicators (Jun) | 116.60% |  | 118.22% |
 | 09:30 | HKD | Exports (MoM) (Jul) |  |  | 53.4% |
 | 09:30 | HKD | Imports (MoM) (Jul) |  |  | 45.4% |
 | 09:30 | HKD | Trade Balance (Jul) |  |  | -52.0B |
