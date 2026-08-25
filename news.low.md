@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:00 | SGD | GDP (YoY) (Q2) |  |  | 5.9% |
 | 06:00 | JPY | Coincident Indicator (MoM) (Jun) |  | 0.3% | -0.2% |
-| 06:00 | JPY | Leading Index (MoM) (Jun) |  | 0.0% | 0.4% |
 | 06:00 | JPY | Leading Index (Jun) |  | 116.4 | 116.5 |
+| 06:00 | JPY | Leading Index (MoM) (Jun) |  | 0.0% | 0.4% |
+| 06:00 | SGD | GDP (YoY) (Q2) |  |  | 5.9% |
 | 07:00 | NOK | Unemployment Rate (Jul) |  |  | 4.5% |
 | 07:45 | EUR | French Consumer Confidence (Aug) |  | 87 | 86 |
 | 08:00 | EUR | Spanish PPI (YoY) (Jul) |  |  | 7.0% |

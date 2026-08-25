@@ -2,12 +2,12 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 01:00 | SGD | Low | GDP (YoY) (Q2) |  |  | 5.9% |
 | 02:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
 | 06:00 | JPY | Moderate | BoJ Core CPI (YoY) |  |  | 2.7% |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Jun) |  | 0.3% | -0.2% |
-| 06:00 | JPY | Low | Leading Index (MoM) (Jun) |  | 0.0% | 0.4% |
 | 06:00 | JPY | Low | Leading Index (Jun) |  | 116.4 | 116.5 |
+| 06:00 | JPY | Low | Leading Index (MoM) (Jun) |  | 0.0% | 0.4% |
+| 06:00 | SGD | Low | GDP (YoY) (Q2) |  |  | 5.9% |
 | 07:00 | EUR | High | German GDP (QoQ) (Q2) |  | 0.2% | 0.4% |
 | 07:00 | EUR | Moderate | German GDP (YoY) (Q2) |  | 0.9% | 0.7% |
 | 07:00 | NOK | Low | Unemployment Rate (Jul) |  |  | 4.5% |
