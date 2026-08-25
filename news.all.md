@@ -21,10 +21,10 @@
 | 09:30 | HKD | Low | Trade Balance (Jul) | -4.9B |  | -52.0B |
 | 10:45 | EUR | Low | German 2-Year Schatz Auction | 2.850% |  | 2.780% |
 | 12:00 | BRL | Low | FGV Consumer confidence (Aug) | 84.7 |  | 88.3 |
-| 13:00 | USD | Moderate | Building Permits (Jul) |  | 1.443M | 1.374M |
-| 13:00 | USD | Low | Building Permits (MoM) (Jul) |  | 5.0% | -2.6% |
 | 13:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 9.50K |
+| 13:15 | USD | Moderate | ADP Employment Change Weekly | 11.80K |  | 9.50K |
+| 13:30 | USD | Moderate | Building Permits (Jul) | 1.433M | 1.443M | 1.374M |
+| 13:30 | USD | Low | Building Permits (MoM) (Jul) | 4.3% | 5.0% | -2.6% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 7.6% |
 | 14:00 | USD | Low | House Price Index (MoM) (Jun) |  | 0.2% | 0.3% |
 | 14:00 | USD | Low | House Price Index (YoY) (Jun) |  |  | 2.2% |

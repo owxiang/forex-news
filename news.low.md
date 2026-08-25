@@ -14,8 +14,8 @@
 | 09:30 | HKD | Trade Balance (Jul) | -4.9B |  | -52.0B |
 | 10:45 | EUR | German 2-Year Schatz Auction | 2.850% |  | 2.780% |
 | 12:00 | BRL | FGV Consumer confidence (Aug) | 84.7 |  | 88.3 |
-| 13:00 | USD | Building Permits (MoM) (Jul) |  | 5.0% | -2.6% |
 | 13:00 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 13:30 | USD | Building Permits (MoM) (Jul) | 4.3% | 5.0% | -2.6% |
 | 13:55 | USD | Redbook (YoY) |  |  | 7.6% |
 | 14:00 | USD | House Price Index (MoM) (Jun) |  | 0.2% | 0.3% |
 | 14:00 | USD | House Price Index (YoY) (Jun) |  |  | 2.2% |
