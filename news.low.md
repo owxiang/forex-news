@@ -24,7 +24,7 @@
 | 15:00 | USD | Richmond Manufacturing Index (Aug) | 4 | 6 | 5 |
 | 15:00 | USD | Richmond Manufacturing Shipments (Aug) | 11 |  | 8 |
 | 15:00 | USD | Richmond Services Index (Aug) | -8 |  | -3 |
-| 15:30 | MXN | Current Account % of GDP (Q2) | 1.60% |  | -3.10% |
 | 16:00 | MXN | Current Account (USD) (Q2) | 8,927M |  | -18,231M |
+| 16:00 | MXN | Current Account % of GDP (Q2) | 1.60% |  | -3.60% |
 | 18:00 | USD | M2 Money Supply (MoM) (Jul) |  |  | 23.15T |
 | 21:00 | USD | FOMC Member Barkin Speaks |  |  |  |
