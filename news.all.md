@@ -33,14 +33,14 @@
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Jun) | 0.2% |  | 0.2% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jun) | 2.1% | 1.8% | 1.6% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jun) | 0.4% |  | 0.9% |
-| 15:00 | USD | High | CB Consumer Confidence (Aug) |  | 90.3 | 90.8 |
-| 15:00 | USD | High | New Home Sales (Jul) |  | 620K | 628K |
-| 15:00 | USD | Moderate | New Home Sales (MoM) (Jul) |  |  | 1.6% |
-| 15:00 | USD | Low | Richmond Manufacturing Index (Aug) |  | 6 | 5 |
-| 15:00 | USD | Low | Richmond Manufacturing Shipments (Aug) |  |  | 8 |
-| 15:00 | USD | Low | Richmond Services Index (Aug) |  |  | -3 |
-| 16:00 | MXN | Low | Current Account (USD) (Q2) |  |  | -15,878M |
-| 16:00 | MXN | Low | Current Account % of GDP (Q2) |  |  | -3.10% |
+| 15:00 | USD | High | CB Consumer Confidence (Aug) | 89.4 | 90.3 | 90.2 |
+| 15:00 | USD | High | New Home Sales (Jul) | 607K | 620K | 678K |
+| 15:00 | USD | Moderate | New Home Sales (MoM) (Jul) | -10.5% |  | 7.6% |
+| 15:00 | USD | Low | Richmond Manufacturing Index (Aug) | 4 | 6 | 5 |
+| 15:00 | USD | Low | Richmond Manufacturing Shipments (Aug) | 11 |  | 8 |
+| 15:00 | USD | Low | Richmond Services Index (Aug) | -8 |  | -3 |
+| 15:30 | MXN | Low | Current Account (USD) (Q2) | 8,927M |  | -15,878M |
+| 15:30 | MXN | Low | Current Account % of GDP (Q2) | 1.60% |  | -3.10% |
 | 18:00 | USD | Moderate | 2-Year Note Auction |  |  | 4.315% |
 | 18:00 | USD | Low | M2 Money Supply (MoM) (Jul) |  |  | 23.15T |
 | 21:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |

@@ -13,6 +13,6 @@
 | 13:30 | CAD | Wholesale Sales (MoM) (Jul) | -0.6% |  | 2.8% |
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jun) | 2.1% | 1.8% | 1.6% |
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jun) | 0.4% |  | 0.9% |
-| 15:00 | USD | New Home Sales (MoM) (Jul) |  |  | 1.6% |
+| 15:00 | USD | New Home Sales (MoM) (Jul) | -10.5% |  | 7.6% |
 | 18:00 | USD | 2-Year Note Auction |  |  | 4.315% |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | 1.900M | -0.328M |

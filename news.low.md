@@ -21,10 +21,10 @@
 | 14:00 | USD | House Price Index (YoY) (Jun) | 2.3% |  | 2.4% |
 | 14:00 | USD | House Price Index (Jun) | 442.5 |  | 442.4 |
 | 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Jun) | 0.2% |  | 0.2% |
-| 15:00 | USD | Richmond Manufacturing Index (Aug) |  | 6 | 5 |
-| 15:00 | USD | Richmond Manufacturing Shipments (Aug) |  |  | 8 |
-| 15:00 | USD | Richmond Services Index (Aug) |  |  | -3 |
-| 16:00 | MXN | Current Account (USD) (Q2) |  |  | -15,878M |
-| 16:00 | MXN | Current Account % of GDP (Q2) |  |  | -3.10% |
+| 15:00 | USD | Richmond Manufacturing Index (Aug) | 4 | 6 | 5 |
+| 15:00 | USD | Richmond Manufacturing Shipments (Aug) | 11 |  | 8 |
+| 15:00 | USD | Richmond Services Index (Aug) | -8 |  | -3 |
+| 15:30 | MXN | Current Account (USD) (Q2) | 8,927M |  | -15,878M |
+| 15:30 | MXN | Current Account % of GDP (Q2) | 1.60% |  | -3.10% |
 | 18:00 | USD | M2 Money Supply (MoM) (Jul) |  |  | 23.15T |
 | 21:00 | USD | FOMC Member Barkin Speaks |  |  |  |
