@@ -10,8 +10,9 @@
 | 09:00 | EUR | German Ifo Business Climate Index (Aug) | 88.8 | 87.2 | 86.7 |
 | 13:15 | USD | ADP Employment Change Weekly | 11.80K |  | 9.50K |
 | 13:30 | USD | Building Permits (Jul) | 1.433M | 1.443M | 1.374M |
-| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jun) |  | 1.8% | 1.6% |
-| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jun) |  |  | 0.9% |
+| 13:30 | CAD | Wholesale Sales (MoM) (Jul) | -0.6% |  | 2.8% |
+| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jun) | 2.1% | 1.8% | 1.6% |
+| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jun) | 0.4% |  | 0.9% |
 | 15:00 | USD | New Home Sales (MoM) (Jul) |  |  | 1.6% |
 | 18:00 | USD | 2-Year Note Auction |  |  | 4.315% |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | 1.900M | -0.328M |

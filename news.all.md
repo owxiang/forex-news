@@ -25,13 +25,14 @@
 | 13:15 | USD | Moderate | ADP Employment Change Weekly | 11.80K |  | 9.50K |
 | 13:30 | USD | Moderate | Building Permits (Jul) | 1.433M | 1.443M | 1.374M |
 | 13:30 | USD | Low | Building Permits (MoM) (Jul) | 4.3% | 5.0% | -2.6% |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 7.6% |
-| 14:00 | USD | Low | House Price Index (MoM) (Jun) |  | 0.2% | 0.3% |
-| 14:00 | USD | Low | House Price Index (YoY) (Jun) |  |  | 2.2% |
-| 14:00 | USD | Low | House Price Index (Jun) |  |  | 442.4 |
-| 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Jun) |  |  | 0.2% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jun) |  | 1.8% | 1.6% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jun) |  |  | 0.9% |
+| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Jul) | -0.6% |  | 2.8% |
+| 13:55 | USD | Low | Redbook (YoY) | 9.1% |  | 7.6% |
+| 14:00 | USD | Low | House Price Index (MoM) (Jun) | 0.0% | 0.2% | 0.3% |
+| 14:00 | USD | Low | House Price Index (YoY) (Jun) | 2.3% |  | 2.4% |
+| 14:00 | USD | Low | House Price Index (Jun) | 442.5 |  | 442.4 |
+| 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Jun) | 0.2% |  | 0.2% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jun) | 2.1% | 1.8% | 1.6% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jun) | 0.4% |  | 0.9% |
 | 15:00 | USD | High | CB Consumer Confidence (Aug) |  | 90.3 | 90.8 |
 | 15:00 | USD | High | New Home Sales (Jul) |  | 620K | 628K |
 | 15:00 | USD | Moderate | New Home Sales (MoM) (Jul) |  |  | 1.6% |
