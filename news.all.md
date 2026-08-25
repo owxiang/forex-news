@@ -41,7 +41,7 @@
 | 15:00 | USD | Low | Richmond Services Index (Aug) | -8 |  | -3 |
 | 16:00 | MXN | Low | Current Account (USD) (Q2) | 8,927M |  | -18,231M |
 | 16:00 | MXN | Low | Current Account % of GDP (Q2) | 1.60% |  | -3.60% |
-| 18:00 | USD | Moderate | 2-Year Note Auction |  |  | 4.315% |
-| 18:00 | USD | Low | M2 Money Supply (MoM) (Jul) |  |  | 23.15T |
+| 18:00 | USD | Low | M2 Money Supply (MoM) (Jul) | 23.22T |  | 23.15T |
+| 18:30 | USD | Moderate | 2-Year Note Auction |  |  | 4.315% |
 | 21:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 1.900M | -0.328M |
