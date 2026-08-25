@@ -19,7 +19,7 @@
 | 09:30 | HKD | Low | Exports (MoM) (Jul) | 50.7% |  | 53.4% |
 | 09:30 | HKD | Low | Imports (MoM) (Jul) | 41.0% |  | 45.4% |
 | 09:30 | HKD | Low | Trade Balance (Jul) | -4.9B |  | -52.0B |
-| 11:00 | EUR | Low | German 2-Year Schatz Auction |  |  | 2.780% |
+| 10:45 | EUR | Low | German 2-Year Schatz Auction | 2.850% |  | 2.780% |
 | 12:00 | BRL | Low | FGV Consumer confidence (Aug) |  |  | 88.3 |
 | 13:00 | USD | Moderate | Building Permits (Jul) |  | 1.443M | 1.374M |
 | 13:00 | USD | Low | Building Permits (MoM) (Jul) |  | 5.0% | -2.6% |

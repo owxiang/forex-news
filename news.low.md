@@ -12,7 +12,7 @@
 | 09:30 | HKD | Exports (MoM) (Jul) | 50.7% |  | 53.4% |
 | 09:30 | HKD | Imports (MoM) (Jul) | 41.0% |  | 45.4% |
 | 09:30 | HKD | Trade Balance (Jul) | -4.9B |  | -52.0B |
-| 11:00 | EUR | German 2-Year Schatz Auction |  |  | 2.780% |
+| 10:45 | EUR | German 2-Year Schatz Auction | 2.850% |  | 2.780% |
 | 12:00 | BRL | FGV Consumer confidence (Aug) |  |  | 88.3 |
 | 13:00 | USD | Building Permits (MoM) (Jul) |  | 5.0% | -2.6% |
 | 13:00 | USD | FOMC Member Barkin Speaks |  |  |  |
