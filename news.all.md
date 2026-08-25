@@ -13,12 +13,12 @@
 | 07:45 | EUR | Low | French Consumer Confidence (Aug) | 86 | 87 | 86 |
 | 08:00 | EUR | Low | Spanish PPI (YoY) (Jul) | 9.2% |  | 7.0% |
 | 08:00 | ZAR | Low | Leading Indicators (Jun) | 116.60% |  | 118.22% |
-| 09:00 | EUR | Moderate | German Business Expectations (Aug) |  | 87.5 | 86.7 |
-| 09:00 | EUR | Moderate | German Current Assessment (Aug) |  | 87.0 | 86.5 |
-| 09:00 | EUR | Moderate | German Ifo Business Climate Index (Aug) |  | 87.2 | 86.6 |
-| 09:30 | HKD | Low | Exports (MoM) (Jul) |  |  | 53.4% |
-| 09:30 | HKD | Low | Imports (MoM) (Jul) |  |  | 45.4% |
-| 09:30 | HKD | Low | Trade Balance (Jul) |  |  | -52.0B |
+| 09:00 | EUR | Moderate | German Business Expectations (Aug) | 89.1 | 87.5 | 86.8 |
+| 09:00 | EUR | Moderate | German Current Assessment (Aug) | 88.5 | 87.0 | 86.5 |
+| 09:00 | EUR | Moderate | German Ifo Business Climate Index (Aug) | 88.8 | 87.2 | 86.7 |
+| 09:30 | HKD | Low | Exports (MoM) (Jul) | 50.7% |  | 53.4% |
+| 09:30 | HKD | Low | Imports (MoM) (Jul) | 41.0% |  | 45.4% |
+| 09:30 | HKD | Low | Trade Balance (Jul) | -4.9B |  | -52.0B |
 | 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 2.780% |
 | 12:00 | BRL | Low | FGV Consumer confidence (Aug) |  |  | 88.3 |
 | 13:00 | USD | Moderate | Building Permits (Jul) |  | 1.443M | 1.374M |

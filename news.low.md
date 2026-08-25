@@ -9,9 +9,9 @@
 | 07:45 | EUR | French Consumer Confidence (Aug) | 86 | 87 | 86 |
 | 08:00 | EUR | Spanish PPI (YoY) (Jul) | 9.2% |  | 7.0% |
 | 08:00 | ZAR | Leading Indicators (Jun) | 116.60% |  | 118.22% |
-| 09:30 | HKD | Exports (MoM) (Jul) |  |  | 53.4% |
-| 09:30 | HKD | Imports (MoM) (Jul) |  |  | 45.4% |
-| 09:30 | HKD | Trade Balance (Jul) |  |  | -52.0B |
+| 09:30 | HKD | Exports (MoM) (Jul) | 50.7% |  | 53.4% |
+| 09:30 | HKD | Imports (MoM) (Jul) | 41.0% |  | 45.4% |
+| 09:30 | HKD | Trade Balance (Jul) | -4.9B |  | -52.0B |
 | 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.780% |
 | 12:00 | BRL | FGV Consumer confidence (Aug) |  |  | 88.3 |
 | 13:00 | USD | Building Permits (MoM) (Jul) |  | 5.0% | -2.6% |

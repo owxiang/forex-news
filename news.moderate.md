@@ -5,9 +5,9 @@
 | 02:30 | AUD | RBA Meeting Minutes |  |  |  |
 | 06:00 | JPY | BoJ Core CPI (YoY) | 2.3% |  | 2.6% |
 | 07:00 | EUR | German GDP (YoY) (Q2) | 1.0% | 0.9% | 0.7% |
-| 09:00 | EUR | German Business Expectations (Aug) |  | 87.5 | 86.7 |
-| 09:00 | EUR | German Current Assessment (Aug) |  | 87.0 | 86.5 |
-| 09:00 | EUR | German Ifo Business Climate Index (Aug) |  | 87.2 | 86.6 |
+| 09:00 | EUR | German Business Expectations (Aug) | 89.1 | 87.5 | 86.8 |
+| 09:00 | EUR | German Current Assessment (Aug) | 88.5 | 87.0 | 86.5 |
+| 09:00 | EUR | German Ifo Business Climate Index (Aug) | 88.8 | 87.2 | 86.7 |
 | 13:00 | USD | Building Permits (Jul) |  | 1.443M | 1.374M |
 | 13:15 | USD | ADP Employment Change Weekly |  |  | 9.50K |
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jun) |  | 1.8% | 1.6% |
