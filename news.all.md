@@ -39,8 +39,8 @@
 | 15:00 | USD | Low | Richmond Manufacturing Index (Aug) | 4 | 6 | 5 |
 | 15:00 | USD | Low | Richmond Manufacturing Shipments (Aug) | 11 |  | 8 |
 | 15:00 | USD | Low | Richmond Services Index (Aug) | -8 |  | -3 |
-| 15:30 | MXN | Low | Current Account (USD) (Q2) | 8,927M |  | -15,878M |
 | 15:30 | MXN | Low | Current Account % of GDP (Q2) | 1.60% |  | -3.10% |
+| 16:00 | MXN | Low | Current Account (USD) (Q2) | 8,927M |  | -18,231M |
 | 18:00 | USD | Moderate | 2-Year Note Auction |  |  | 4.315% |
 | 18:00 | USD | Low | M2 Money Supply (MoM) (Jul) |  |  | 23.15T |
 | 21:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
