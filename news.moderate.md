@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 02:30 | AUD | RBA Meeting Minutes |  |  |  |
 | 06:00 | JPY | BoJ Core CPI (YoY) | 2.3% |  | 2.6% |
-| 07:00 | EUR | German GDP (YoY) (Q2) |  | 0.9% | 0.7% |
+| 07:00 | EUR | German GDP (YoY) (Q2) | 1.0% | 0.9% | 0.7% |
 | 09:00 | EUR | German Business Expectations (Aug) |  | 87.5 | 86.7 |
 | 09:00 | EUR | German Current Assessment (Aug) |  | 87.0 | 86.5 |
 | 09:00 | EUR | German Ifo Business Climate Index (Aug) |  | 87.2 | 86.6 |

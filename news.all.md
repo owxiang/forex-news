@@ -7,10 +7,10 @@
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Jun) | 0.6% | 0.3% | -0.2% |
 | 06:00 | JPY | Low | Leading Index (Jun) | 116.5 | 116.4 | 116.5 |
 | 06:00 | JPY | Low | Leading Index (MoM) (Jun) | 0.0% | 0.0% | 0.4% |
-| 07:00 | EUR | High | German GDP (QoQ) (Q2) |  | 0.2% | 0.4% |
-| 07:00 | EUR | Moderate | German GDP (YoY) (Q2) |  | 0.9% | 0.7% |
-| 07:00 | NOK | Low | Unemployment Rate (Jul) |  |  | 4.5% |
-| 07:45 | EUR | Low | French Consumer Confidence (Aug) |  | 87 | 86 |
+| 07:00 | EUR | High | German GDP (QoQ) (Q2) | 0.3% | 0.2% | 0.4% |
+| 07:00 | EUR | Moderate | German GDP (YoY) (Q2) | 1.0% | 0.9% | 0.7% |
+| 07:00 | NOK | Low | Unemployment Rate (Jul) | 4.2% |  | 4.6% |
+| 07:45 | EUR | Low | French Consumer Confidence (Aug) | 86 | 87 | 86 |
 | 08:00 | EUR | Low | Spanish PPI (YoY) (Jul) |  |  | 7.0% |
 | 08:00 | ZAR | Low | Leading Indicators (Jun) |  |  | 118.20% |
 | 09:00 | EUR | Moderate | German Business Expectations (Aug) |  | 87.5 | 86.7 |
