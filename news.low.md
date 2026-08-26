@@ -15,17 +15,16 @@
 | 12:00 | USD | MBA Purchase Index | 154.4 |  | 154.8 |
 | 12:00 | USD | Mortgage Market Index | 245.3 |  | 247.7 |
 | 12:00 | USD | Mortgage Refinance Index | 740.8 |  | 755.9 |
-| 12:30 | INR | M3 Money Supply |  |  | 14.7% |
-| 13:00 | BRL | Mid-Month CPI (MoM) (Aug) |  | -0.30% | 0.06% |
-| 13:00 | BRL | Mid-Month CPI (YoY) (Aug) |  | 4.34% | 4.52% |
-| 13:30 | USD | Corporate Profits (QoQ) (Q2) |  |  | 0.5% |
-| 13:30 | USD | Durables Excluding Defense (MoM) (Jul) |  |  | 0.5% |
-| 13:30 | USD | GDP Sales (Q2) |  | 2.2% | 1.9% |
-| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Jul) |  | 0.9% | 0.9% |
-| 13:30 | USD | PCE Prices (Q2) |  | 5.1% | 4.6% |
-| 13:30 | USD | Personal Income (MoM) (Jul) |  | 0.2% | 0.2% |
-| 13:30 | USD | Real Consumer Spending (Q2) |  | 3.2% | 0.5% |
-| 13:30 | USD | Real Personal Consumption (MoM) (Jul) |  |  | 0.4% |
+| 13:00 | BRL | Mid-Month CPI (MoM) (Aug) | -0.40% | -0.30% | 0.06% |
+| 13:00 | BRL | Mid-Month CPI (YoY) (Aug) | 4.24% | 4.34% | 4.52% |
+| 13:30 | USD | Corporate Profits (QoQ) (Q2) | 8.2% |  | 0.5% |
+| 13:30 | USD | Durables Excluding Defense (MoM) (Jul) | 1.3% |  | 0.3% |
+| 13:30 | USD | GDP Sales (Q2) | 2.2% | 2.2% | 1.9% |
+| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Jul) | 0.2% | 0.9% | 1.7% |
+| 13:30 | USD | PCE Prices (Q2) | 5.3% | 5.1% | 4.6% |
+| 13:30 | USD | Personal Income (MoM) (Jul) | 0.4% | 0.2% | 0.2% |
+| 13:30 | USD | Real Consumer Spending (Q2) | 3.4% | 3.2% | 0.5% |
+| 13:30 | USD | Real Personal Consumption (MoM) (Jul) | 0.0% |  | 0.4% |
 | 15:00 | USD | Dallas Fed PCE (Jul) |  |  | 1.40% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.216M |
 | 15:30 | USD | Crude Oil Imports |  |  | -1.754M |
