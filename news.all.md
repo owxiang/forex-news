@@ -48,8 +48,8 @@
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 0.2% |  | 1.0% |
 | 15:30 | USD | Low | Gasoline Inventories | -2.536M | -0.700M | 0.688M |
 | 15:30 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 16:30 | USD | Low | Dallas Fed PCE (Jul) |  |  | 1.40% |
 | 16:45 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 17:00 | USD | Low | Dallas Fed PCE (Jul) | 2.20% |  | 1.50% |
 | 18:00 | USD | Moderate | 2-Year Note Auction |  |  | 4.315% |
 | 18:00 | USD | Moderate | 5-Year Note Auction |  |  | 4.408% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 0.851B |

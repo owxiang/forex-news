@@ -33,6 +33,6 @@
 | 15:30 | USD | Heating Oil Stockpiles | 0.027M |  | -0.537M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.2% |  | 1.0% |
 | 15:30 | USD | Gasoline Inventories | -2.536M | -0.700M | 0.688M |
-| 16:30 | USD | Dallas Fed PCE (Jul) |  |  | 1.40% |
 | 16:45 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 17:00 | USD | Dallas Fed PCE (Jul) | 2.20% |  | 1.50% |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | 0.851B |
