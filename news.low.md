@@ -3,7 +3,6 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) | 3.6% | 3.2% | 3.4% |
-| 01:30 | AUD | Trimmed Mean CPI (YoY) |  |  | 3.6% |
 | 02:00 | AUD | MI Leading Index (MoM) (Jul) | 0.0% |  | 0.1% |
 | 02:30 | AUD | Monthly CPI Indicator (YoY) (Jul) | 3.50% | 3.30% | 3.80% |
 | 06:00 | SGD | Industrial Production (YoY) (Jul) |  | 6.6% | 7.2% |
