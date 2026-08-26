@@ -35,4 +35,4 @@
 | 15:30 | USD | Gasoline Inventories | -2.536M | -0.700M | 0.688M |
 | 16:45 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 17:00 | USD | Dallas Fed PCE (Jul) | 2.20% |  | 1.50% |
-| 18:30 | BRL | Foreign Exchange Flows |  |  | 0.851B |
+| 18:30 | BRL | Foreign Exchange Flows | -4.055B |  | 0.851B |

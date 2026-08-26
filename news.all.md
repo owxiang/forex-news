@@ -50,6 +50,5 @@
 | 15:30 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 16:45 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 17:00 | USD | Low | Dallas Fed PCE (Jul) | 2.20% |  | 1.50% |
-| 18:00 | USD | Moderate | 2-Year Note Auction |  |  | 4.315% |
-| 18:00 | USD | Moderate | 5-Year Note Auction |  |  | 4.408% |
-| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 0.851B |
+| 18:00 | USD | Moderate | 5-Year Note Auction | 4.393% |  | 4.408% |
+| 18:30 | BRL | Low | Foreign Exchange Flows | -4.055B |  | 0.851B |

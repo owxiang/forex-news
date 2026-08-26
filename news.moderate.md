@@ -12,5 +12,4 @@
 | 15:10 | USD | Atlanta Fed GDPNow (Q3) | 4.6% | 4.0% | 4.0% |
 | 15:30 | USD | Cushing Crude Oil Inventories | 1.176M |  | -1.314M |
 | 15:30 | EUR | German Buba Balz Speaks |  |  |  |
-| 18:00 | USD | 2-Year Note Auction |  |  | 4.315% |
-| 18:00 | USD | 5-Year Note Auction |  |  | 4.408% |
+| 18:00 | USD | 5-Year Note Auction | 4.393% |  | 4.408% |
