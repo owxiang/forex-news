@@ -25,14 +25,14 @@
 | 13:30 | USD | Personal Income (MoM) (Jul) | 0.4% | 0.2% | 0.2% |
 | 13:30 | USD | Real Consumer Spending (Q2) | 3.4% | 3.2% | 0.5% |
 | 13:30 | USD | Real Personal Consumption (MoM) (Jul) | 0.0% |  | 0.4% |
-| 15:00 | USD | Dallas Fed PCE (Jul) |  |  | 1.40% |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.216M |
-| 15:30 | USD | Crude Oil Imports |  |  | -1.754M |
-| 15:30 | USD | Distillate Fuel Production |  |  | -0.054M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  | -1.700M | -1.530M |
-| 15:30 | USD | Gasoline Production |  |  | 0.143M |
-| 15:30 | USD | Heating Oil Stockpiles |  |  | -0.537M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.0% |
-| 15:30 | USD | Gasoline Inventories |  | -1.000M | 0.688M |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) | -0.002M |  | 0.216M |
+| 15:30 | USD | Crude Oil Imports | -0.161M |  | -1.754M |
+| 15:30 | USD | Distillate Fuel Production | -0.091M |  | -0.054M |
+| 15:30 | USD | EIA Weekly Distillates Stocks | -2.228M | -1.600M | -1.530M |
+| 15:30 | USD | Gasoline Production | 0.061M |  | 0.143M |
+| 15:30 | USD | Heating Oil Stockpiles | 0.027M |  | -0.537M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.2% |  | 1.0% |
+| 15:30 | USD | Gasoline Inventories | -2.536M | -0.700M | 0.688M |
+| 16:30 | USD | Dallas Fed PCE (Jul) |  |  | 1.40% |
 | 16:45 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | 0.851B |
