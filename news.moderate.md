@@ -9,7 +9,6 @@
 | 13:30 | USD | PCE price index (MoM) (Jul) |  | 0.1% | -0.1% |
 | 13:30 | USD | PCE Price index (YoY) (Jul) |  | 3.6% | 3.7% |
 | 13:30 | USD | Personal Spending (MoM) (Jul) |  | 0.1% | 0.3% |
-| 13:30 | CAD | Wholesale Sales (MoM) (Jul) |  |  | 2.8% |
 | 15:00 | USD | Atlanta Fed GDPNow (Q3) |  | 4.0% | 4.0% |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | -1.314M |
 | 15:30 | EUR | German Buba Balz Speaks |  |  |  |

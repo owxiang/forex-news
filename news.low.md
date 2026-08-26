@@ -26,7 +26,6 @@
 | 13:30 | USD | Personal Income (MoM) (Jul) |  | 0.2% | 0.2% |
 | 13:30 | USD | Real Consumer Spending (Q2) |  | 3.2% | 0.5% |
 | 13:30 | USD | Real Personal Consumption (MoM) (Jul) |  |  | 0.4% |
-| 13:30 | CAD | Manufacturing Sales (MoM) (Jul) |  |  | 0.1% |
 | 15:00 | USD | Dallas Fed PCE (Jul) |  |  | 1.40% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.216M |
 | 15:30 | USD | Crude Oil Imports |  |  | -1.754M |

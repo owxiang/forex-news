@@ -20,8 +20,8 @@
 | 13:00 | BRL | Low | Mid-Month CPI (MoM) (Aug) |  | -0.30% | 0.06% |
 | 13:00 | BRL | Low | Mid-Month CPI (YoY) (Aug) |  | 4.34% | 4.52% |
 | 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Jul) |  | 0.6% | 0.6% |
-| 13:30 | USD | High | Core PCE Price Index (MoM) (Jul) |  | 0.2% | 0.1% |
 | 13:30 | USD | High | Core PCE Price Index (YoY) (Jul) |  | 3.3% | 3.3% |
+| 13:30 | USD | High | Core PCE Price Index (MoM) (Jul) |  | 0.2% | 0.1% |
 | 13:30 | USD | Moderate | Core PCE Prices (Q2) |  | 3.40% | 4.40% |
 | 13:30 | USD | Low | Corporate Profits (QoQ) (Q2) |  |  | 0.5% |
 | 13:30 | USD | High | Durable Goods Orders (MoM) (Jul) |  | 0.4% | 0.3% |
@@ -37,8 +37,6 @@
 | 13:30 | USD | Moderate | Personal Spending (MoM) (Jul) |  | 0.1% | 0.3% |
 | 13:30 | USD | Low | Real Consumer Spending (Q2) |  | 3.2% | 0.5% |
 | 13:30 | USD | Low | Real Personal Consumption (MoM) (Jul) |  |  | 0.4% |
-| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Jul) |  |  | 0.1% |
-| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Jul) |  |  | 2.8% |
 | 15:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 4.0% | 4.0% |
 | 15:00 | USD | Low | Dallas Fed PCE (Jul) |  |  | 1.40% |
 | 15:30 | USD | High | Crude Oil Inventories |  | 1.600M | 4.405M |
