@@ -8,7 +8,7 @@
 | 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (Jul) | 3.50% | 3.30% | 3.80% |
 | 06:00 | SGD | Low | Industrial Production (YoY) (Jul) | 6.8% | 6.7% | 7.5% |
 | 06:00 | SGD | Low | Industrial Production (MoM) (Jul) | 2.3% | 3.0% | -7.0% |
-| 09:00 | CHF | Low | ZEW Expectations (Aug) |  |  | 10.0 |
+| 09:00 | CHF | Low | ZEW Expectations (Aug) | 12.1 |  | 10.0 |
 | 10:30 | EUR | Low | Italian 2-Year CTZ Auction |  |  | 2.740% |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Aug) |  | -35 | -26 |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.77% |
