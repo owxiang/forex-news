@@ -5,9 +5,10 @@
 | 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) | 3.6% | 3.2% | 3.4% |
 | 02:00 | AUD | MI Leading Index (MoM) (Jul) | 0.0% |  | 0.1% |
 | 02:30 | AUD | Monthly CPI Indicator (YoY) (Jul) | 3.50% | 3.30% | 3.80% |
-| 06:00 | SGD | Industrial Production (YoY) (Jul) |  | 6.6% | 7.2% |
-| 06:00 | SGD | Industrial Production (MoM) (Jul) |  |  | -7.2% |
+| 06:00 | SGD | Industrial Production (YoY) (Jul) | 6.8% | 6.7% | 7.5% |
+| 06:00 | SGD | Industrial Production (MoM) (Jul) | 2.3% | 3.0% | -7.0% |
 | 09:00 | CHF | ZEW Expectations (Aug) |  |  | 10.0 |
+| 10:30 | EUR | Italian 2-Year CTZ Auction |  |  | 2.740% |
 | 11:00 | GBP | CBI Distributive Trades Survey (Aug) |  | -35 | -26 |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.77% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -0.4% |
@@ -15,12 +16,12 @@
 | 12:00 | USD | Mortgage Market Index |  |  | 247.7 |
 | 12:00 | USD | Mortgage Refinance Index |  |  | 755.9 |
 | 12:30 | INR | M3 Money Supply |  |  | 14.7% |
-| 13:00 | BRL | Mid-Month CPI (MoM) (Aug) |  |  | 0.06% |
-| 13:00 | BRL | Mid-Month CPI (YoY) (Aug) |  |  | 4.52% |
+| 13:00 | BRL | Mid-Month CPI (MoM) (Aug) |  | -0.30% | 0.06% |
+| 13:00 | BRL | Mid-Month CPI (YoY) (Aug) |  | 4.34% | 4.52% |
 | 13:30 | USD | Corporate Profits (QoQ) (Q2) |  |  | 0.5% |
 | 13:30 | USD | Durables Excluding Defense (MoM) (Jul) |  |  | 0.5% |
 | 13:30 | USD | GDP Sales (Q2) |  | 2.2% | 1.9% |
-| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Jul) |  |  | 0.9% |
+| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Jul) |  | 0.9% | 0.9% |
 | 13:30 | USD | PCE Prices (Q2) |  | 5.1% | 4.6% |
 | 13:30 | USD | Personal Income (MoM) (Jul) |  | 0.2% | 0.2% |
 | 13:30 | USD | Real Consumer Spending (Q2) |  | 3.2% | 0.5% |
