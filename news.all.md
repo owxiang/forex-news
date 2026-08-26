@@ -11,11 +11,11 @@
 | 09:00 | CHF | Low | ZEW Expectations (Aug) | 12.1 |  | 10.0 |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Aug) | -48 | -35 | -26 |
 | 11:00 | EUR | Low | Italian 2-Year CTZ Auction | 3.020% |  | 2.740% |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.77% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -0.4% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 154.8 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 247.7 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 755.9 |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.78% |  | 6.77% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | -1.0% |  | -0.4% |
+| 12:00 | USD | Low | MBA Purchase Index | 154.4 |  | 154.8 |
+| 12:00 | USD | Low | Mortgage Market Index | 245.3 |  | 247.7 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 740.8 |  | 755.9 |
 | 12:30 | INR | Low | M3 Money Supply |  |  | 14.7% |
 | 13:00 | BRL | Low | Mid-Month CPI (MoM) (Aug) |  | -0.30% | 0.06% |
 | 13:00 | BRL | Low | Mid-Month CPI (YoY) (Aug) |  | 4.34% | 4.52% |
