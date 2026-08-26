@@ -9,8 +9,8 @@
 | 06:00 | SGD | Low | Industrial Production (YoY) (Jul) | 6.8% | 6.7% | 7.5% |
 | 06:00 | SGD | Low | Industrial Production (MoM) (Jul) | 2.3% | 3.0% | -7.0% |
 | 09:00 | CHF | Low | ZEW Expectations (Aug) | 12.1 |  | 10.0 |
-| 10:30 | EUR | Low | Italian 2-Year CTZ Auction |  |  | 2.740% |
-| 11:00 | GBP | Low | CBI Distributive Trades Survey (Aug) |  | -35 | -26 |
+| 11:00 | GBP | Low | CBI Distributive Trades Survey (Aug) | -48 | -35 | -26 |
+| 11:00 | EUR | Low | Italian 2-Year CTZ Auction | 3.020% |  | 2.740% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.77% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -0.4% |
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 154.8 |
