@@ -2,10 +2,12 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) |  | 3.2% | 3.2% |
+| 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 3.6% | 3.2% | 3.4% |
+| 01:30 | AUD | Low | Trimmed Mean CPI (YoY) |  |  | 3.6% |
 | 02:00 | AUD | Low | MI Leading Index (MoM) (Jul) | 0.0% |  | 0.1% |
-| 02:30 | AUD | Moderate | Construction Work Done (QoQ) (Q2) | -2.1% | 0.5% | 3.4% |
-| 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (Jul) |  | 3.30% | 3.80% |
+| 02:30 | AUD | Moderate | Construction Work Done (QoQ) (Q2) | -2.1% | 0.5% | 4.3% |
+| 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (Jul) | 3.50% | 3.30% | 3.80% |
+| 06:00 | USD | Moderate | 2-Year Note Auction |  |  | 4.315% |
 | 06:00 | SGD | Low | Industrial Production (YoY) (Jul) |  | 6.6% | 7.2% |
 | 06:00 | SGD | Low | Industrial Production (MoM) (Jul) |  |  | -7.2% |
 | 09:00 | CHF | Low | ZEW Expectations (Aug) |  |  | 10.0 |

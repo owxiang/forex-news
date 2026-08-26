@@ -2,7 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Construction Work Done (QoQ) (Q2) | -2.1% | 0.5% | 3.4% |
+| 02:30 | AUD | Construction Work Done (QoQ) (Q2) | -2.1% | 0.5% | 4.3% |
+| 06:00 | USD | 2-Year Note Auction |  |  | 4.315% |
 | 13:30 | USD | Core Durable Goods Orders (MoM) (Jul) |  | 0.5% | 0.6% |
 | 13:30 | USD | Core PCE Prices (Q2) |  | 3.40% | 4.40% |
 | 13:30 | USD | GDP Price Index (QoQ) (Q2) |  | 6.3% | 3.6% |
