@@ -1,5 +1,11 @@
-## 29 August 2026 - Moderate Impact Forex News
+## 31 August 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:00 | USD | Jackson Hole Symposium |  |  |  |
+| 00:50 | JPY | Industrial Production (MoM) (Jul) |  | -0.7% | 1.9% |
+| 02:30 | AUD | Company Gross Operating Profits (QoQ) (Q2) |  | 2.0% | -1.3% |
+| 02:30 | CNY | Chinese Composite PMI (Aug) |  |  | 49.3 |
+| 02:30 | CNY | Non-Manufacturing PMI (Aug) |  | 49.5 | 49.0 |
+| 11:30 | INR | GDP Quarterly (YoY) (Q1) |  | 7.1% | 7.8% |
+| 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Jul) |  |  | 81.9% |
+| 13:00 | EUR | German CPI (YoY) (Aug) |  | 2.9% | 2.8% |
