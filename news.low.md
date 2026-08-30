@@ -8,8 +8,9 @@
 | 00:00 | KRW | Service Sector Output (MoM) (Jul) |  |  | 0.7% |
 | 00:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Aug) |  |  | 1.2% |
 | 00:50 | JPY | Industrial Production forecast 2m ahead (MoM) (Sep) |  |  | 4.5% |
+| 00:50 | JPY | Large Retailers' Sales (MoM) (Jul) |  |  | -4.1% |
 | 00:50 | JPY | Large Scale Retail Sales YoY (YoY) (Jul) |  |  | -1.0% |
-| 00:50 | JPY | Retail Sales (YoY) (Jul) |  | 0.3% | 0.6% |
+| 00:50 | JPY | Retail Sales (YoY) (Jul) |  | 3.2% | 0.5% |
 | 02:00 | AUD | MI Inflation Gauge (MoM) (Aug) |  |  | 1.0% |
 | 02:00 | NZD | ANZ Business Confidence (Aug) |  |  | 56.1 |
 | 02:00 | NZD | NBNZ Own Activity (Aug) |  |  | 49.3% |
@@ -26,10 +27,10 @@
 | 08:00 | CHF | Official Reserves Assets (Jul) |  |  | 879.9B |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Aug) |  |  | 2.5% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Aug) |  |  | 0.8% |
-| 09:00 | EUR | Bavaria CPI (YoY) (Aug) |  |  | 2.8% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Aug) |  |  | 0.6% |
-| 09:00 | EUR | Brandenburg CPI (YoY) (Aug) |  |  | 2.7% |
+| 09:00 | EUR | Bavaria CPI (YoY) (Aug) |  |  | 2.8% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Aug) |  |  | 0.7% |
+| 09:00 | EUR | Brandenburg CPI (YoY) (Aug) |  |  | 2.7% |
 | 09:00 | EUR | Hesse CPI (MoM) (Aug) |  |  | 0.7% |
 | 09:00 | EUR | Hesse CPI (YoY) (Aug) |  |  | 2.7% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Aug) |  |  | 2.7% |
