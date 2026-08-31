@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Industrial Production (MoM) (Jul) |  | -0.7% | 1.9% |
+| 00:50 | JPY | Industrial Production (MoM) (Jul) | 0.1% | -0.7% | 1.9% |
 | 02:30 | AUD | Company Gross Operating Profits (QoQ) (Q2) |  | 2.0% | -1.3% |
 | 02:30 | CNY | Chinese Composite PMI (Aug) |  |  | 49.3 |
 | 02:30 | CNY | Non-Manufacturing PMI (Aug) |  | 49.5 | 49.0 |

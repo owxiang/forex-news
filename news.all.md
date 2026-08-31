@@ -2,19 +2,19 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | Industrial Production (MoM) (Jul) |  |  | 6.4% |
-| 00:00 | KRW | Low | Industrial Production (YoY) (Jul) |  |  | 5.8% |
-| 00:00 | KRW | Low | Retail Sales (MoM) (Jul) |  |  | 2.7% |
-| 00:00 | KRW | Low | Service Sector Output (MoM) (Jul) |  |  | 0.7% |
-| 00:50 | JPY | Moderate | Industrial Production (MoM) (Jul) |  | -0.7% | 1.9% |
-| 00:50 | JPY | Low | Industrial Production forecast 1m ahead (MoM) (Aug) |  |  | 1.2% |
-| 00:50 | JPY | Low | Industrial Production forecast 2m ahead (MoM) (Sep) |  |  | 4.5% |
+| 00:00 | KRW | Low | Industrial Production (MoM) (Jul) | 0.2% |  | 6.4% |
+| 00:00 | KRW | Low | Industrial Production (YoY) (Jul) | 3.6% |  | 5.8% |
+| 00:00 | KRW | Low | Retail Sales (MoM) (Jul) | -2.4% |  | 2.7% |
+| 00:00 | KRW | Low | Service Sector Output (MoM) (Jul) | -1.3% |  | 0.7% |
+| 00:50 | JPY | Moderate | Industrial Production (MoM) (Jul) | 0.1% | -0.7% | 1.9% |
+| 00:50 | JPY | Low | Industrial Production forecast 1m ahead (MoM) (Aug) | 6.4% |  | 1.2% |
+| 00:50 | JPY | Low | Industrial Production forecast 2m ahead (MoM) (Sep) | -4.2% |  | 4.5% |
 | 00:50 | JPY | Low | Large Retailers' Sales (MoM) (Jul) |  |  | -4.1% |
-| 00:50 | JPY | Low | Large Scale Retail Sales YoY (YoY) (Jul) |  |  | -1.0% |
-| 00:50 | JPY | Low | Retail Sales (YoY) (Jul) |  | 3.2% | 0.5% |
+| 00:50 | JPY | Low | Large Scale Retail Sales YoY (YoY) (Jul) | 2.0% |  | -1.0% |
+| 00:50 | JPY | Low | Retail Sales (YoY) (Jul) | 4.0% | 3.2% | 0.6% |
 | 02:00 | AUD | Low | MI Inflation Gauge (MoM) (Aug) |  |  | 1.0% |
-| 02:00 | NZD | Low | ANZ Business Confidence (Aug) |  |  | 56.1 |
-| 02:00 | NZD | Low | NBNZ Own Activity (Aug) |  |  | 49.3% |
+| 02:00 | NZD | Low | ANZ Business Confidence (Aug) | 53.7 |  | 56.1 |
+| 02:00 | NZD | Low | NBNZ Own Activity (Aug) | 48.2% |  | 49.3% |
 | 02:30 | AUD | Low | Business inventories (MoM) (Q2) |  |  | 0.5% |
 | 02:30 | AUD | Moderate | Company Gross Operating Profits (QoQ) (Q2) |  | 2.0% | -1.3% |
 | 02:30 | AUD | Low | Company Profits Pre-Tax (QoQ) (Q2) |  |  | -4.1% |
