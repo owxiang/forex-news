@@ -43,25 +43,25 @@
 | 09:00 | EUR | Low | Saxony CPI (MoM) (Aug) | 0.1% |  | 0.7% |
 | 09:00 | EUR | Low | Spanish Current account (Jun) | 2.41B |  | 1.84B |
 | 09:00 | NOK | Low | Central Bank Currency Purchase (Sep) | 300.0M |  | -350.0M |
-| 09:30 | HKD | Low | M3 Money Supply (Jul) |  |  | 2.6% |
-| 09:30 | HKD | Low | Retail Sales (YoY) (Jul) |  |  | 4.6% |
-| 11:00 | INR | Low | Federal Fiscal Deficit (Jul) |  |  | 3,078.33B |
-| 11:30 | INR | Moderate | GDP Quarterly (YoY) (Q1) |  | 7.1% | 7.8% |
+| 09:30 | HKD | Low | M3 Money Supply (Jul) | 5.5% |  | 2.6% |
+| 09:30 | HKD | Low | Retail Sales (YoY) (Jul) | 4.5% |  | 4.6% |
+| 11:00 | INR | Low | Federal Fiscal Deficit (Jul) | 4,551.44B |  | 3,078.33B |
+| 11:30 | INR | Moderate | GDP Quarterly (YoY) (Q1) | 7.8% | 7.1% | 7.8% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
-| 12:30 | BRL | Low | Net Debt-to-GDP ratio (Jul) |  |  | 68.5% |
-| 12:30 | BRL | Low | Budget Balance (Jul) |  | -84.000B | -166.000B |
-| 12:30 | BRL | Low | Budget Surplus (Jul) |  |  | -55.300B |
-| 12:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Jul) |  | 82.2% | 81.9% |
-| 13:00 | EUR | High | German CPI (MoM) (Aug) |  | 0.3% | 0.8% |
-| 13:00 | EUR | Moderate | German CPI (YoY) (Aug) |  | 3.0% | 2.8% |
-| 13:00 | EUR | Low | German HICP (MoM) (Aug) |  | 0.3% | 0.9% |
-| 13:00 | EUR | Low | German HICP (YoY) (Aug) |  | 3.1% | 2.8% |
-| 13:00 | ZAR | Low | Trade Balance (Jul) |  |  | 17.75B |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.832% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.495% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.675% |
-| 14:45 | USD | High | Chicago PMI (Aug) |  | 57.8 | 57.6 |
-| 15:30 | USD | Low | Dallas Fed Mfg Business Index (Aug) |  |  | 1.3 |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.715% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.790% |
+| 12:30 | BRL | Low | Net Debt-to-GDP ratio (Jul) | 69.1% |  | 68.5% |
+| 12:30 | BRL | Low | Budget Balance (Jul) | -97.600B | -84.000B | -166.000B |
+| 12:30 | BRL | Low | Budget Surplus (Jul) | 1.400B |  | -55.300B |
+| 12:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Jul) | 82.5% | 82.2% | 81.9% |
+| 13:00 | EUR | High | German CPI (MoM) (Aug) | 0.2% | 0.3% | 0.8% |
+| 13:00 | EUR | Moderate | German CPI (YoY) (Aug) | 2.9% | 3.0% | 2.8% |
+| 13:00 | EUR | Low | German HICP (MoM) (Aug) | 0.2% | 0.3% | 0.9% |
+| 13:00 | EUR | Low | German HICP (YoY) (Aug) | 2.9% | 3.1% | 2.8% |
+| 13:00 | ZAR | Low | Trade Balance (Jul) | 20.14B |  | 17.23B |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.860% |  | 2.832% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.533% |  | 2.495% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.655% |  | 2.675% |
+| 14:30 | USD | High | Chicago PMI (Aug) | 47.1 | 57.8 | 57.6 |
+| 15:30 | USD | Low | Dallas Fed Mfg Business Index (Aug) | 11.6 |  | 1.3 |
+| 16:30 | USD | Low | 3-Month Bill Auction | 3.770% |  | 3.715% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 3.885% |  | 3.790% |

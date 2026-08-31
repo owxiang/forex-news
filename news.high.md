@@ -3,5 +3,5 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:30 | CNY | Manufacturing PMI (Aug) | 49.8 | 49.5 | 49.2 |
-| 13:00 | EUR | German CPI (MoM) (Aug) |  | 0.3% | 0.8% |
-| 14:45 | USD | Chicago PMI (Aug) |  | 57.8 | 57.6 |
+| 13:00 | EUR | German CPI (MoM) (Aug) | 0.2% | 0.3% | 0.8% |
+| 14:30 | USD | Chicago PMI (Aug) | 47.1 | 57.8 | 57.6 |
