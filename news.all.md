@@ -70,7 +70,7 @@
 | 12:30 | INR | Low | Current Account % of GDP (QoQ) (Q2) | -0.50% |  | 0.70% |
 | 12:30 | INR | Low | Trade Balance (USD) (Q2) | -86.100B |  | -83.400B |
 | 13:00 | INR | Low | Balance of Payments (USD) (Q2) | -8.100B |  | 7.200B |
-| 13:00 | INR | Low | Current Account (USD) (Q2) | -4.20B |  | 7.10B |
+| 13:00 | INR | Low | Current Account (USD) (Q2) | -4.20B |  | 6.50B |
 | 13:00 | BRL | Moderate | GDP (YoY) (Q2) | 2.0% | 1.8% | 1.8% |
 | 13:00 | BRL | Moderate | GDP (QoQ) (Q2) | 0.5% | 0.4% | 1.1% |
 | 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (Aug) | 11.40% |  | 11.90% |
@@ -78,22 +78,22 @@
 | 13:55 | USD | Low | Redbook (YoY) | 9.6% |  | 9.1% |
 | 14:00 | BRL | Low | S&P Global Manufacturing PMI (Aug) | 46.3 |  | 47.5 |
 | 14:05 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 11 min | CAD | Low | S&P Global Manufacturing PMI (Aug) |  |  | 53.5 |
-| 26 min | USD | High | S&P Global Manufacturing PMI (Aug) |  | 53.2 | 53.9 |
-| 41 min | USD | Moderate | Construction Spending (MoM) (Jul) |  | 0.0% | -0.1% |
-| 41 min | USD | Low | IBD/TIPP Economic Optimism (Sep) |  | 46.2 | 45.1 |
-| 41 min | USD | Moderate | ISM Manufacturing Employment (Aug) |  |  | 52.8 |
-| 41 min | USD | Low | ISM Manufacturing New Orders Index (Aug) |  |  | 56.7 |
-| 41 min | USD | High | ISM Manufacturing PMI (Aug) |  | 55.2 | 55.6 |
-| 41 min | USD | High | ISM Manufacturing Prices (Aug) |  | 70.5 | 71.1 |
-| 41 min | USD | High | JOLTS Job Openings (Jul) |  | 7.330M | 7.359M |
-| 15:30 | USD | Low | Dallas Fed Services Revenues (Aug) |  |  | 9.5 |
-| 15:30 | USD | Low | Texas Services Sector Outlook (Aug) |  |  | 6.6 |
-| 16:00 | MXN | Low | S&P Global Manufacturing PMI (Aug) |  |  | 51.30 |
-| 16:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 2.3% |
-| 16:00 | USD | Low | Milk Auctions |  |  | 3,873.0 |
-| 16:30 | USD | Low | 52-Week Bill Auction |  |  | 3.880% |
-| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 4.6% | 4.6% |
-| 17:00 | EUR | Low | Italian Car Registration (YoY) |  |  | 3.9% |
+| 14:30 | CAD | Low | S&P Global Manufacturing PMI (Aug) | 53.0 |  | 53.5 |
+| 14:45 | USD | High | S&P Global Manufacturing PMI (Aug) | 53.9 | 53.2 | 53.9 |
+| 15:00 | USD | Moderate | Construction Spending (MoM) (Jul) | -0.5% | 0.0% | 0.0% |
+| 15:00 | USD | Low | IBD/TIPP Economic Optimism (Sep) | 45.6 | 46.2 | 45.1 |
+| 15:00 | USD | Moderate | ISM Manufacturing Employment (Aug) | 51.2 | 52.5 | 52.8 |
+| 15:00 | USD | Low | ISM Manufacturing New Orders Index (Aug) | 53.7 | 56.8 | 56.7 |
+| 15:00 | USD | High | ISM Manufacturing PMI (Aug) | 54.6 | 55.2 | 55.6 |
+| 15:00 | USD | High | ISM Manufacturing Prices (Aug) | 71.1 | 70.5 | 71.1 |
+| 15:00 | USD | High | JOLTS Job Openings (Jul) | 7.271M | 7.330M | 7.182M |
+| 15:30 | USD | Low | Dallas Fed Services Revenues (Aug) | 6.6 |  | 9.5 |
+| 15:30 | USD | Low | Texas Services Sector Outlook (Aug) | 4.2 |  | 6.6 |
+| 16:00 | MXN | Low | S&P Global Manufacturing PMI (Aug) | 49.80 |  | 51.30 |
+| 16:30 | USD | Low | 52-Week Bill Auction | 3.980% |  | 3.880% |
+| 16:30 | NZD | Low | GlobalDairyTrade Price Index | 0.9% |  | 2.3% |
+| 16:30 | USD | Low | Milk Auctions | 3,910.0 |  | 3,873.0 |
+| 16:50 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 4.8% | 4.6% | 4.6% |
+| 17:00 | EUR | Low | Italian Car Registration (YoY) | 3.2% |  | 3.9% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 4.200M |
 | 23:45 | NZD | Low | Building Consents (MoM) (Jul) |  |  | -3.6% |

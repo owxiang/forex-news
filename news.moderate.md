@@ -24,7 +24,7 @@
 | 13:00 | BRL | GDP (YoY) (Q2) | 2.0% | 1.8% | 1.8% |
 | 13:00 | BRL | GDP (QoQ) (Q2) | 0.5% | 0.4% | 1.1% |
 | 14:05 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 41 min | USD | Construction Spending (MoM) (Jul) |  | 0.0% | -0.1% |
-| 41 min | USD | ISM Manufacturing Employment (Aug) |  |  | 52.8 |
-| 16:30 | USD | Atlanta Fed GDPNow (Q3) |  | 4.6% | 4.6% |
+| 15:00 | USD | Construction Spending (MoM) (Jul) | -0.5% | 0.0% | 0.0% |
+| 15:00 | USD | ISM Manufacturing Employment (Aug) | 51.2 | 52.5 | 52.8 |
+| 16:50 | USD | Atlanta Fed GDPNow (Q3) | 4.8% | 4.6% | 4.6% |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | 4.200M |

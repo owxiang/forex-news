@@ -50,19 +50,19 @@
 | 12:30 | INR | Current Account % of GDP (QoQ) (Q2) | -0.50% |  | 0.70% |
 | 12:30 | INR | Trade Balance (USD) (Q2) | -86.100B |  | -83.400B |
 | 13:00 | INR | Balance of Payments (USD) (Q2) | -8.100B |  | 7.200B |
-| 13:00 | INR | Current Account (USD) (Q2) | -4.20B |  | 7.10B |
+| 13:00 | INR | Current Account (USD) (Q2) | -4.20B |  | 6.50B |
 | 13:00 | ZAR | Total Vehicle Sales (YoY) (Aug) | 11.40% |  | 11.90% |
 | 13:00 | ZAR | Total Vehicle Sales (Aug) | 57.90K |  | 57.73K |
 | 13:55 | USD | Redbook (YoY) | 9.6% |  | 9.1% |
 | 14:00 | BRL | S&P Global Manufacturing PMI (Aug) | 46.3 |  | 47.5 |
-| 11 min | CAD | S&P Global Manufacturing PMI (Aug) |  |  | 53.5 |
-| 41 min | USD | IBD/TIPP Economic Optimism (Sep) |  | 46.2 | 45.1 |
-| 41 min | USD | ISM Manufacturing New Orders Index (Aug) |  |  | 56.7 |
-| 15:30 | USD | Dallas Fed Services Revenues (Aug) |  |  | 9.5 |
-| 15:30 | USD | Texas Services Sector Outlook (Aug) |  |  | 6.6 |
-| 16:00 | MXN | S&P Global Manufacturing PMI (Aug) |  |  | 51.30 |
-| 16:00 | NZD | GlobalDairyTrade Price Index |  |  | 2.3% |
-| 16:00 | USD | Milk Auctions |  |  | 3,873.0 |
-| 16:30 | USD | 52-Week Bill Auction |  |  | 3.880% |
-| 17:00 | EUR | Italian Car Registration (YoY) |  |  | 3.9% |
+| 14:30 | CAD | S&P Global Manufacturing PMI (Aug) | 53.0 |  | 53.5 |
+| 15:00 | USD | IBD/TIPP Economic Optimism (Sep) | 45.6 | 46.2 | 45.1 |
+| 15:00 | USD | ISM Manufacturing New Orders Index (Aug) | 53.7 | 56.8 | 56.7 |
+| 15:30 | USD | Dallas Fed Services Revenues (Aug) | 6.6 |  | 9.5 |
+| 15:30 | USD | Texas Services Sector Outlook (Aug) | 4.2 |  | 6.6 |
+| 16:00 | MXN | S&P Global Manufacturing PMI (Aug) | 49.80 |  | 51.30 |
+| 16:30 | USD | 52-Week Bill Auction | 3.980% |  | 3.880% |
+| 16:30 | NZD | GlobalDairyTrade Price Index | 0.9% |  | 2.3% |
+| 16:30 | USD | Milk Auctions | 3,910.0 |  | 3,873.0 |
+| 17:00 | EUR | Italian Car Registration (YoY) | 3.2% |  | 3.9% |
 | 23:45 | NZD | Building Consents (MoM) (Jul) |  |  | -3.6% |
