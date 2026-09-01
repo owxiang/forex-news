@@ -1,7 +1,9 @@
-## 31 August 2026 - High Impact Forex News
+## 01 September 2026 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | CNY | Manufacturing PMI (Aug) | 49.8 | 49.5 | 49.2 |
-| 13:00 | EUR | German CPI (MoM) (Aug) | 0.2% | 0.3% | 0.8% |
-| 14:30 | USD | Chicago PMI (Aug) | 47.1 | 57.8 | 57.6 |
+| 10:00 | EUR | CPI (YoY) (Aug) |  | 3.3% | 2.9% |
+| 14:45 | USD | S&P Global Manufacturing PMI (Aug) |  | 53.2 | 53.2 |
+| 15:00 | USD | ISM Manufacturing PMI (Aug) |  | 55.2 | 55.6 |
+| 15:00 | USD | ISM Manufacturing Prices (Aug) |  | 71.2 | 71.1 |
+| 15:00 | USD | JOLTS Job Openings (Jul) |  | 7.330M | 7.359M |

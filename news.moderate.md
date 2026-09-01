@@ -1,11 +1,30 @@
-## 31 August 2026 - Moderate Impact Forex News
+## 01 September 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Industrial Production (MoM) (Jul) | 0.1% | -0.7% | 1.9% |
-| 02:30 | AUD | Company Gross Operating Profits (QoQ) (Q2) | 1.8% | 2.0% | -1.5% |
-| 02:30 | CNY | Chinese Composite PMI (Aug) | 49.5 |  | 49.3 |
-| 02:30 | CNY | Non-Manufacturing PMI (Aug) | 49.0 | 49.5 | 49.0 |
-| 11:30 | INR | GDP Quarterly (YoY) (Q1) | 7.8% | 7.1% | 7.8% |
-| 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Jul) | 82.5% | 82.2% | 81.9% |
-| 13:00 | EUR | German CPI (YoY) (Aug) | 2.9% | 3.0% | 2.8% |
+| 00:50 | JPY | Capital Spending (YoY) (Q2) | 1.6% | -0.2% | 0.0% |
+| 02:30 | AUD | Building Approvals (MoM) (Jul) |  | -4.8% | 7.2% |
+| 02:30 | AUD | Current Account (Q2) |  | -29.7B | -27.1B |
+| 02:45 | CNY | RatingDog Manufacturing PMI (MoM) (Aug) |  | 51.5 | 50.9 |
+| 04:35 | JPY | 10-Year JGB Auction |  |  | 2.840% |
+| 07:00 | GBP | Nationwide HPI (MoM) (Aug) |  | 0.1% | 0.1% |
+| 07:00 | GBP | Nationwide HPI (YoY) (Aug) |  | 2.0% | 1.8% |
+| 07:00 | EUR | German Retail Sales (MoM) (Jul) |  | 0.4% | -1.1% |
+| 07:30 | EUR | German Buba Mauderer Speaks |  |  |  |
+| 08:15 | EUR | HCOB Spain Manufacturing PMI (Aug) |  | 50.4 | 50.2 |
+| 08:30 | CHF | procure.ch Manufacturing PMI (Aug) |  | 54.1 | 53.2 |
+| 08:45 | EUR | HCOB Italy Manufacturing PMI (Aug) |  | 51.6 | 51.3 |
+| 08:50 | EUR | HCOB France Manufacturing PMI (Aug) |  | 51.5 | 49.8 |
+| 08:55 | EUR | HCOB Germany Manufacturing PMI (Aug) |  | 54.1 | 52.2 |
+| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Aug) |  | 52.8 | 51.9 |
+| 09:30 | GBP | S&P Global Manufacturing PMI (Aug) |  | 51.5 | 51.9 |
+| 10:00 | EUR | Core CPI (YoY) (Aug) |  | 2.5% | 2.5% |
+| 10:00 | EUR | CPI (MoM) (Aug) |  |  | 0.2% |
+| 10:00 | EUR | Unemployment Rate (Jul) |  | 6.3% | 6.3% |
+| 13:00 | BRL | GDP (YoY) (Q2) |  | 1.8% | 1.8% |
+| 13:00 | BRL | GDP (QoQ) (Q2) |  | 0.4% | 1.1% |
+| 14:05 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 15:00 | USD | Construction Spending (MoM) (Jul) |  | 0.0% | -0.1% |
+| 15:00 | USD | ISM Manufacturing Employment (Aug) |  |  | 52.8 |
+| 16:30 | USD | Atlanta Fed GDPNow (Q3) |  | 4.6% | 4.6% |
+| 21:30 | USD | API Weekly Crude Oil Stock |  |  | 4.200M |
