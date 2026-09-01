@@ -8,34 +8,34 @@
 | 01:00 | KRW | Imports (YoY) (Aug) | 22.5% | 24.7% | 26.5% |
 | 01:00 | KRW | Trade Balance (Aug) | 34.75B | 30.70B | 30.39B |
 | 01:30 | KRW | S&P Global South Korea Manufacturing PMI (Aug) | 52.3 |  | 53.1 |
-| 01:30 | JPY | S&P Global Manufacturing PMI (Aug) | 54.9 | 55.1 | 55.1 |
+| 01:30 | JPY | S&P Global Manufacturing PMI (Aug) | 54.9 | 55.1 | 54.5 |
 | 01:30 | IDR | S&P Global Manufacturing PMI (Aug) | 49.8 |  | 50.2 |
-| 02:30 | AUD | Building Approvals (YoY) (Jul) |  |  | 28.80% |
-| 02:30 | AUD | Net Exports Contribution (Q2) |  |  | -0.8% |
-| 02:30 | AUD | Private House Approvals (Jul) |  |  | 0.4% |
-| 05:00 | IDR | Core Inflation (YoY) (Aug) |  | 2.80% | 2.76% |
-| 05:00 | IDR | Export Growth (YoY) (Jul) |  | 3.40% | 8.84% |
-| 05:00 | IDR | Import Growth (YoY) (Jul) |  | 24.10% | 34.27% |
-| 05:00 | IDR | Inflation (YoY) (Aug) |  | 3.13% | 2.88% |
-| 05:00 | IDR | Inflation (MoM) (Aug) |  | 0.20% | -0.14% |
-| 05:00 | IDR | Trade Balance (Jul) |  | -0.30B | -0.45B |
-| 06:00 | INR | HSBC India Manufacturing PMI (Aug) |  | 52.9 | 53.5 |
-| 06:00 | JPY | Household Confidence (Aug) |  | 35.3 | 34.9 |
-| 07:00 | EUR | German Retail Sales (YoY) (Jul) |  |  | -0.2% |
-| 07:30 | CHF | Retail Sales (YoY) (Jul) |  | 1.3% | 1.5% |
-| 07:30 | AUD | Commodity Prices (YoY) (Aug) |  |  | 15.4% |
-| 09:00 | EUR | Italian GDP (QoQ) (Q2) |  | 0.2% | 0.2% |
+| 02:30 | AUD | Building Approvals (YoY) (Jul) | 9.00% |  | 9.50% |
+| 02:30 | AUD | Net Exports Contribution (Q2) | 0.1% |  | -0.8% |
+| 02:30 | AUD | Private House Approvals (Jul) | -4.2% |  | 0.4% |
+| 05:00 | IDR | Core Inflation (YoY) (Aug) | 2.92% | 2.80% | 2.76% |
+| 05:00 | IDR | Export Growth (YoY) (Jul) | 6.05% | 3.40% | 8.84% |
+| 05:00 | IDR | Import Growth (YoY) (Jul) | 27.02% | 24.10% | 34.27% |
+| 05:00 | IDR | Inflation (YoY) (Aug) | 3.19% | 3.13% | 2.88% |
+| 05:00 | IDR | Inflation (MoM) (Aug) | 0.21% | 0.20% | -0.14% |
+| 05:00 | IDR | Trade Balance (Jul) | 0.13B | -0.30B | -0.45B |
+| 06:00 | INR | HSBC India Manufacturing PMI (Aug) | 52.8 | 52.9 | 53.5 |
+| 06:00 | JPY | Household Confidence (Aug) | 35.5 | 35.3 | 34.9 |
+| 07:00 | EUR | German Retail Sales (YoY) (Jul) | -2.5% |  | 5.3% |
+| 07:30 | CHF | Retail Sales (YoY) (Jul) | 2.3% | 1.6% | 1.9% |
+| 07:30 | AUD | Commodity Prices (YoY) (Aug) | 15.5% |  | 17.2% |
+| 09:00 | EUR | Italian GDP (QoQ) (Q2) |  | 0.2% | 0.3% |
 | 09:00 | EUR | Italian GDP (YoY) (Q2) |  | 1.0% | 0.8% |
 | 09:30 | GBP | BoE Consumer Credit (Jul) |  | 1.800B | 1.807B |
 | 09:30 | GBP | M3 Money Supply (Jul) |  |  | 3,308.8B |
 | 09:30 | GBP | M4 Money Supply (MoM) (Jul) |  | 0.9% | 0.8% |
 | 09:30 | GBP | Mortgage Approvals (Jul) |  | 59.00K | 58.20K |
 | 09:30 | GBP | Mortgage Lending (Jul) |  |  | 7.73B |
-| 09:30 | GBP | Net Lending to Individuals (Jul) |  | 9.200B | 9.500B |
+| 09:30 | GBP | Net Lending to Individuals (Jul) |  | 7.200B | 9.500B |
 | 09:30 | EUR | Italian Monthly Unemployment Rate (Jul) |  | 5.6% | 5.7% |
 | 09:40 | EUR | Spanish 12-Month Letras Auction |  |  | 2.663% |
 | 09:40 | EUR | Spanish 6-Month Letras Auction |  |  | 2.496% |
-| 10:00 | EUR | Italian CPI (MoM) (Aug) |  | 0.4% | 0.3% |
+| 10:00 | EUR | Italian CPI (MoM) (Aug) |  | 0.5% | 0.3% |
 | 10:00 | EUR | Italian CPI (YoY) (Aug) |  |  | 2.9% |
 | 10:00 | EUR | Italian HICP (YoY) (Aug) |  | 3.2% | 2.9% |
 | 10:00 | EUR | Italian HICP (MoM) (Aug) |  |  | -1.0% |

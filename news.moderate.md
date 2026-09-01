@@ -3,17 +3,17 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Capital Spending (YoY) (Q2) | 1.6% | -0.2% | 0.0% |
-| 02:30 | AUD | Building Approvals (MoM) (Jul) |  | -4.8% | 7.2% |
-| 02:30 | AUD | Current Account (Q2) |  | -29.7B | -27.1B |
-| 02:45 | CNY | RatingDog Manufacturing PMI (MoM) (Aug) |  | 51.5 | 50.9 |
-| 04:35 | JPY | 10-Year JGB Auction |  |  | 2.840% |
-| 07:00 | GBP | Nationwide HPI (MoM) (Aug) |  | 0.1% | 0.1% |
-| 07:00 | GBP | Nationwide HPI (YoY) (Aug) |  | 2.0% | 1.8% |
-| 07:00 | EUR | German Retail Sales (MoM) (Jul) |  | 0.4% | -1.1% |
+| 02:30 | AUD | Building Approvals (MoM) (Jul) | -3.6% | -4.7% | 6.9% |
+| 02:30 | AUD | Current Account (Q2) | -27.2B | -29.7B | -25.4B |
+| 02:45 | CNY | RatingDog Manufacturing PMI (MoM) (Aug) | 51.5 | 51.0 | 50.9 |
+| 04:35 | JPY | 10-Year JGB Auction | 2.995% |  | 2.840% |
+| 07:00 | GBP | Nationwide HPI (MoM) (Aug) | 0.2% | 0.1% | -0.1% |
+| 07:00 | GBP | Nationwide HPI (YoY) (Aug) | 1.6% | 2.1% | 1.4% |
+| 07:00 | EUR | German Retail Sales (MoM) (Jul) | -3.4% | 0.4% | 0.0% |
 | 07:30 | EUR | German Buba Mauderer Speaks |  |  |  |
-| 08:15 | EUR | HCOB Spain Manufacturing PMI (Aug) |  | 50.4 | 50.2 |
-| 08:30 | CHF | procure.ch Manufacturing PMI (Aug) |  | 54.1 | 53.2 |
-| 08:45 | EUR | HCOB Italy Manufacturing PMI (Aug) |  | 51.6 | 51.3 |
+| 08:15 | EUR | HCOB Spain Manufacturing PMI (Aug) | 49.5 | 50.3 | 50.2 |
+| 08:30 | CHF | procure.ch Manufacturing PMI (Aug) | 57.1 | 54.1 | 53.2 |
+| 08:45 | EUR | HCOB Italy Manufacturing PMI (Aug) |  | 51.4 | 51.3 |
 | 08:50 | EUR | HCOB France Manufacturing PMI (Aug) |  | 51.5 | 49.8 |
 | 08:55 | EUR | HCOB Germany Manufacturing PMI (Aug) |  | 54.1 | 52.2 |
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Aug) |  | 52.8 | 51.9 |
