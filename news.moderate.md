@@ -13,18 +13,18 @@
 | 07:30 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 08:15 | EUR | HCOB Spain Manufacturing PMI (Aug) | 49.5 | 50.3 | 50.2 |
 | 08:30 | CHF | procure.ch Manufacturing PMI (Aug) | 57.1 | 54.1 | 53.2 |
-| 08:45 | EUR | HCOB Italy Manufacturing PMI (Aug) |  | 51.4 | 51.3 |
-| 08:50 | EUR | HCOB France Manufacturing PMI (Aug) |  | 51.5 | 49.8 |
-| 08:55 | EUR | HCOB Germany Manufacturing PMI (Aug) |  | 54.1 | 52.2 |
-| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Aug) |  | 52.8 | 51.9 |
-| 09:30 | GBP | S&P Global Manufacturing PMI (Aug) |  | 51.5 | 51.9 |
-| 10:00 | EUR | Core CPI (YoY) (Aug) |  | 2.5% | 2.5% |
-| 10:00 | EUR | CPI (MoM) (Aug) |  |  | 0.2% |
-| 10:00 | EUR | Unemployment Rate (Jul) |  | 6.3% | 6.3% |
-| 13:00 | BRL | GDP (YoY) (Q2) |  | 1.8% | 1.8% |
-| 13:00 | BRL | GDP (QoQ) (Q2) |  | 0.4% | 1.1% |
+| 08:45 | EUR | HCOB Italy Manufacturing PMI (Aug) | 49.6 | 51.4 | 51.3 |
+| 08:50 | EUR | HCOB France Manufacturing PMI (Aug) | 51.1 | 51.5 | 49.8 |
+| 08:55 | EUR | HCOB Germany Manufacturing PMI (Aug) | 54.3 | 54.1 | 52.2 |
+| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Aug) | 52.7 | 52.8 | 51.9 |
+| 09:30 | GBP | S&P Global Manufacturing PMI (Aug) | 51.7 | 51.5 | 51.9 |
+| 10:00 | EUR | Core CPI (YoY) (Aug) | 2.4% | 2.5% | 2.5% |
+| 10:00 | EUR | CPI (MoM) (Aug) | 2.9% |  | 0.2% |
+| 10:00 | EUR | Unemployment Rate (Jul) | 6.4% | 6.3% | 6.4% |
+| 13:00 | BRL | GDP (YoY) (Q2) | 2.0% | 1.8% | 1.8% |
+| 13:00 | BRL | GDP (QoQ) (Q2) | 0.5% | 0.4% | 1.1% |
 | 14:05 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 15:00 | USD | Construction Spending (MoM) (Jul) |  | 0.0% | -0.1% |
-| 15:00 | USD | ISM Manufacturing Employment (Aug) |  |  | 52.8 |
+| 41 min | USD | Construction Spending (MoM) (Jul) |  | 0.0% | -0.1% |
+| 41 min | USD | ISM Manufacturing Employment (Aug) |  |  | 52.8 |
 | 16:30 | USD | Atlanta Fed GDPNow (Q3) |  | 4.6% | 4.6% |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | 4.200M |
