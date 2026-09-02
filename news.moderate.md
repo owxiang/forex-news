@@ -8,6 +8,7 @@
 | 03:00 | AUD | RBA Rate Statement |  |  |  |
 | 03:00 | NZD | RBNZ Monetary Policy Statement |  |  |  |
 | 04:00 | NZD | RBNZ Press Conference |  |  |  |
+| 14:30 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 14:45 | CAD | BoC Rate Statement |  |  |  |
 | 15:00 | USD | Factory Orders (MoM) (Jul) |  | 0.7% | -0.3% |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | 1.176M |
