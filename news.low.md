@@ -21,22 +21,24 @@
 | 12:00 | USD | MBA Purchase Index | 157.8 |  | 154.4 |
 | 12:00 | USD | Mortgage Market Index | 247.3 |  | 245.3 |
 | 12:00 | USD | Mortgage Refinance Index | 732.6 |  | 740.8 |
-| 13:00 | BRL | Industrial Production (MoM) (Jul) | 0.2% |  | -1.6% |
 | 13:00 | BRL | Industrial Production (YoY) (Jul) | -0.5% |  | 1.7% |
+| 13:00 | BRL | Industrial Production (MoM) (Jul) | 0.2% |  | -1.6% |
 | 14:00 | SGD | S&P Global Manufacturing PMI (Aug) | 51.5 |  | 51.4 |
-| 15:00 | USD | Durables Excluding Defense (MoM) (Jul) |  |  | 1.3% |
-| 15:00 | USD | Durables Excluding Transport (MoM) (Jul) |  |  | 0.4% |
-| 15:00 | USD | Factory orders ex transportation (MoM) (Jul) |  |  | -0.4% |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.002M |
-| 15:30 | USD | Crude Oil Imports |  |  | -0.161M |
-| 15:30 | USD | Distillate Fuel Production |  |  | -0.091M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | -2.228M |
-| 15:30 | USD | Gasoline Production |  |  | 0.061M |
-| 15:30 | USD | Heating Oil Stockpiles |  |  | 0.027M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.2% |
-| 15:30 | USD | Gasoline Inventories |  |  | -2.536M |
-| 17:00 | EUR | French Car Registration (YoY) (Aug) |  |  | 9.0% |
-| 18:30 | BRL | Foreign Exchange Flows |  |  | -4.055B |
+| 15:00 | USD | All Car Sales (Aug) | 2.74M |  | 2.70M |
+| 15:00 | USD | All Truck Sales (Aug) | 14.03M |  | 13.62M |
+| 15:00 | USD | Durables Excluding Defense (MoM) (Jul) | 1.3% |  | 1.3% |
+| 15:00 | USD | Durables Excluding Transport (MoM) (Jul) | 0.4% |  | 0.4% |
+| 15:00 | USD | Factory orders ex transportation (MoM) (Jul) | 0.6% |  | -0.1% |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) | 0.103M |  | -0.002M |
+| 15:30 | USD | Crude Oil Imports | -0.079M |  | -0.161M |
+| 15:30 | USD | Distillate Fuel Production | -0.009M |  | -0.091M |
+| 15:30 | USD | EIA Weekly Distillates Stocks | 0.796M | -1.300M | -2.228M |
+| 15:30 | USD | Gasoline Production | 0.073M |  | 0.061M |
+| 15:30 | USD | Heating Oil Stockpiles | -0.033M |  | 0.027M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.6% |  | 0.2% |
+| 15:30 | USD | Gasoline Inventories | -1.173M | -1.900M | -2.536M |
+| 16:00 | EUR | French Car Registration (YoY) (Aug) | 7.4% |  | 9.0% |
+| 18:30 | BRL | Foreign Exchange Flows | -0.542B |  | -4.055B |
 | 23:45 | NZD | Terms of Trade - Exports Prices (Q2) |  |  | -2.7% |
 | 23:45 | NZD | Terms of Trade - Exports Volume (QoQ) (Q2) |  |  | 2.7% |
 | 23:45 | NZD | Terms of Trade - Imports Prices (Q2) |  |  | -0.7% |

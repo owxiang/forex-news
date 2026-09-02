@@ -28,29 +28,32 @@
 | 12:00 | USD | Low | MBA Purchase Index | 157.8 |  | 154.4 |
 | 12:00 | USD | Low | Mortgage Market Index | 247.3 |  | 245.3 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 732.6 |  | 740.8 |
-| 13:00 | BRL | Low | Industrial Production (MoM) (Jul) | 0.2% |  | -1.6% |
 | 13:00 | BRL | Low | Industrial Production (YoY) (Jul) | -0.5% |  | 1.7% |
+| 13:00 | BRL | Low | Industrial Production (MoM) (Jul) | 0.2% |  | -1.6% |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Aug) | 38K | 47K | 46K |
 | 14:00 | SGD | Low | S&P Global Manufacturing PMI (Aug) | 51.5 |  | 51.4 |
 | 14:30 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 14:45 | CAD | Moderate | BoC Rate Statement |  |  |  |
-| 15:00 | USD | Low | Durables Excluding Defense (MoM) (Jul) |  |  | 1.3% |
-| 15:00 | USD | Low | Durables Excluding Transport (MoM) (Jul) |  |  | 0.4% |
-| 15:00 | USD | Moderate | Factory Orders (MoM) (Jul) |  | 0.7% | -0.3% |
-| 15:00 | USD | Low | Factory orders ex transportation (MoM) (Jul) |  |  | -0.4% |
-| 15:30 | USD | High | Crude Oil Inventories |  | -0.400M | 0.095M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.002M |
-| 15:30 | USD | Low | Crude Oil Imports |  |  | -0.161M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 1.176M |
-| 15:30 | USD | Low | Distillate Fuel Production |  |  | -0.091M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  |  | -2.228M |
-| 15:30 | USD | Low | Gasoline Production |  |  | 0.061M |
-| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.027M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.2% |
-| 15:30 | USD | Low | Gasoline Inventories |  |  | -2.536M |
+| 14:45 | CAD | High | BoC Interest Rate Decision | 2.25% | 2.25% | 2.25% |
+| 15:00 | USD | Low | All Car Sales (Aug) | 2.74M |  | 2.70M |
+| 15:00 | USD | Low | All Truck Sales (Aug) | 14.03M |  | 13.62M |
+| 15:00 | USD | Low | Durables Excluding Defense (MoM) (Jul) | 1.3% |  | 1.3% |
+| 15:00 | USD | Low | Durables Excluding Transport (MoM) (Jul) | 0.4% |  | 0.4% |
+| 15:00 | USD | Moderate | Factory Orders (MoM) (Jul) | 0.9% | 0.7% | -0.2% |
+| 15:00 | USD | Low | Factory orders ex transportation (MoM) (Jul) | 0.6% |  | -0.1% |
+| 15:30 | USD | High | Crude Oil Inventories | -4.450M | -0.400M | 0.095M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.103M |  | -0.002M |
+| 15:30 | USD | Low | Crude Oil Imports | -0.079M |  | -0.161M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | 0.080M |  | 1.176M |
+| 15:30 | USD | Low | Distillate Fuel Production | -0.009M |  | -0.091M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks | 0.796M | -1.300M | -2.228M |
+| 15:30 | USD | Low | Gasoline Production | 0.073M |  | 0.061M |
+| 15:30 | USD | Low | Heating Oil Stockpiles | -0.033M |  | 0.027M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 0.6% |  | 0.2% |
+| 15:30 | USD | Low | Gasoline Inventories | -1.173M | -1.900M | -2.536M |
 | 15:30 | CAD | Moderate | BOC Press Conference |  |  |  |
-| 17:00 | EUR | Low | French Car Registration (YoY) (Aug) |  |  | 9.0% |
-| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -4.055B |
+| 16:00 | EUR | Low | French Car Registration (YoY) (Aug) | 7.4% |  | 9.0% |
+| 18:30 | BRL | Low | Foreign Exchange Flows | -0.542B |  | -4.055B |
 | 19:00 | USD | Moderate | Beige Book |  |  |  |
 | 23:45 | NZD | Low | Terms of Trade - Exports Prices (Q2) |  |  | -2.7% |
 | 23:45 | NZD | Low | Terms of Trade - Exports Volume (QoQ) (Q2) |  |  | 2.7% |
