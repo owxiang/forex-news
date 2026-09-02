@@ -1,16 +1,31 @@
-## 02 September 2026 - Moderate Impact Forex News
+## 03 September 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 02:30 | AUD | GDP (QoQ) (Q2) | 0.4% | 0.3% | 0.3% |
-| 02:30 | AUD | GDP (YoY) (Q2) | 2.1% | 1.8% | 2.5% |
-| 03:00 | AUD | RBA Rate Statement |  |  |  |
-| 03:00 | NZD | RBNZ Monetary Policy Statement |  |  |  |
-| 04:00 | NZD | RBNZ Press Conference |  |  |  |
-| 14:30 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 14:45 | CAD | BoC Rate Statement |  |  |  |
-| 15:00 | USD | Factory Orders (MoM) (Jul) | 0.9% | 0.7% | -0.2% |
-| 15:30 | USD | Cushing Crude Oil Inventories | 0.080M |  | 1.176M |
-| 15:30 | CAD | BOC Press Conference |  |  |  |
-| 19:00 | USD | Beige Book |  |  |  |
+| 01:30 | JPY | S&P Global Services PMI (Aug) |  | 52.3 | 51.2 |
+| 02:30 | AUD | Trade Balance (Jul) |  | 1.500B | 1.929B |
+| 02:45 | CNY | RatingDog Services PMI (Aug) |  | 50.6 | 50.4 |
+| 07:30 | CHF | CPI (MoM) (Aug) |  | 0.0% | -0.1% |
+| 08:00 | CHF | GDP (YoY) (Q2) |  |  | 0.5% |
+| 08:00 | CHF | GDP (QoQ) (Q2) |  | 1.5% | 0.7% |
+| 08:15 | EUR | HCOB Spain Services PMI (Aug) |  | 59.0 | 58.3 |
+| 08:45 | EUR | HCOB Italy Services PMI (Aug) |  | 53.6 | 52.5 |
+| 08:50 | EUR | HCOB France Services PMI (Aug) |  | 48.4 | 49.6 |
+| 08:55 | EUR | HCOB Germany Services PMI (Aug) |  | 48.5 | 49.8 |
+| 09:00 | EUR | HCOB Eurozone Composite PMI (Aug) |  | 52.1 | 52.0 |
+| 09:00 | EUR | HCOB Eurozone Services PMI (Aug) |  | 51.7 | 51.7 |
+| 09:30 | GBP | S&P Global Composite PMI (Aug) |  | 52.5 | 52.2 |
+| 09:30 | GBP | S&P Global Services PMI (Aug) |  | 52.8 | 52.1 |
+| 13:30 | USD | Continuing Jobless Claims |  |  | 1,778K |
+| 13:30 | USD | Exports (Jul) |  |  | 314.70B |
+| 13:30 | USD | Fed Waller Speaks |  |  |  |
+| 13:30 | USD | Imports (Jul) |  |  | 388.00B |
+| 13:30 | USD | Nonfarm Productivity (QoQ) (Q2) |  | 1.4% | 0.8% |
+| 13:30 | USD | Trade Balance (Jul) |  | -86.40B | -73.30B |
+| 13:30 | USD | Unit Labor Costs (QoQ) (Q2) |  | 1.3% | 1.3% |
+| 13:30 | CAD | Labor Productivity (QoQ) (Q2) |  | 0.7% | -0.5% |
+| 13:30 | CAD | Trade Balance (Jul) |  | 3.20B | 3.86B |
+| 14:45 | USD | S&P Global Composite PMI (Aug) |  | 56.0 | 54.5 |
+| 15:00 | USD | ISM Non-Manufacturing Employment (Aug) |  |  | 47.4 |
+| 16:30 | USD | Atlanta Fed GDPNow (Q3) |  |  |  |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 6,731B |

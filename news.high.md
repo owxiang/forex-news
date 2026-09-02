@@ -1,8 +1,9 @@
-## 02 September 2026 - High Impact Forex News
+## 03 September 2026 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:00 | NZD | RBNZ Interest Rate Decision | 2.75% | 2.75% | 2.50% |
-| 13:15 | USD | ADP Nonfarm Employment Change (Aug) | 38K | 47K | 46K |
-| 14:45 | CAD | BoC Interest Rate Decision | 2.25% | 2.25% | 2.25% |
-| 15:30 | USD | Crude Oil Inventories | -4.450M | -0.400M | 0.095M |
+| 13:30 | USD | Initial Jobless Claims |  | 205K | 203K |
+| 14:45 | USD | S&P Global Services PMI (Aug) |  | 56.8 | 54.6 |
+| 14:45 | CAD | BoC Interest Rate Decision |  | 2.25% | 2.25% |
+| 15:00 | USD | ISM Non-Manufacturing PMI (Aug) |  | 54.2 | 54.1 |
+| 15:00 | USD | ISM Non-Manufacturing Prices (Aug) |  |  | 70.3 |
