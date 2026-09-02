@@ -6,15 +6,15 @@
 | 00:00 | KRW | Low | CPI (MoM) (Aug) | 0.2% | 0.3% | -0.2% |
 | 00:00 | AUD | Low | AIG Construction Index (Aug) | -6.9 |  | -40.6 |
 | 00:00 | AUD | Low | AIG Manufacturing Index (Aug) | -16.6 |  | -19.6 |
-| 00:50 | JPY | Low | Monetary Base (YoY) (Aug) |  | -13.5% | -13.9% |
+| 00:50 | JPY | Low | Monetary Base (YoY) (Aug) | -15.7% | -13.5% | -13.8% |
 | 01:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 02:30 | AUD | Moderate | GDP (QoQ) (Q2) |  | 0.3% | 0.3% |
-| 02:30 | AUD | Moderate | GDP (YoY) (Q2) |  | 1.8% | 2.5% |
-| 02:30 | AUD | Low | GDP Capital Expenditure (Q2) |  |  | 3.0% |
-| 02:30 | AUD | Low | GDP Chain Price Index (Q2) |  |  | 0.8% |
-| 02:30 | AUD | Low | GDP Final Consumption (Q2) |  |  | 0.3% |
+| 02:30 | AUD | Moderate | GDP (QoQ) (Q2) | 0.4% | 0.3% | 0.3% |
+| 02:30 | AUD | Moderate | GDP (YoY) (Q2) | 2.1% | 1.8% | 2.5% |
+| 02:30 | AUD | Low | GDP Capital Expenditure (Q2) | -0.3% |  | 3.1% |
+| 02:30 | AUD | Low | GDP Chain Price Index (Q2) | -0.6% |  | 0.9% |
+| 02:30 | AUD | Low | GDP Final Consumption (Q2) | 0.5% |  | 0.1% |
 | 03:00 | AUD | Moderate | RBA Rate Statement |  |  |  |
-| 03:00 | NZD | High | RBNZ Interest Rate Decision |  | 2.75% | 2.50% |
+| 03:00 | NZD | High | RBNZ Interest Rate Decision | 2.75% | 2.75% | 2.50% |
 | 03:00 | NZD | Moderate | RBNZ Monetary Policy Statement |  |  |  |
 | 04:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
 | 07:00 | NOK | Low | Current Account (Q2) |  |  | 266.8B |

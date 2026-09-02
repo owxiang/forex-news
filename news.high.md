@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:00 | NZD | RBNZ Interest Rate Decision |  | 2.75% | 2.50% |
+| 03:00 | NZD | RBNZ Interest Rate Decision | 2.75% | 2.75% | 2.50% |
 | 13:15 | USD | ADP Nonfarm Employment Change (Aug) |  | 48K | 44K |
 | 14:45 | CAD | BoC Interest Rate Decision |  | 2.25% | 2.25% |
 | 15:30 | USD | Crude Oil Inventories |  |  | 0.095M |

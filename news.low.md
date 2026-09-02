@@ -6,10 +6,10 @@
 | 00:00 | KRW | CPI (MoM) (Aug) | 0.2% | 0.3% | -0.2% |
 | 00:00 | AUD | AIG Construction Index (Aug) | -6.9 |  | -40.6 |
 | 00:00 | AUD | AIG Manufacturing Index (Aug) | -16.6 |  | -19.6 |
-| 00:50 | JPY | Monetary Base (YoY) (Aug) |  | -13.5% | -13.9% |
-| 02:30 | AUD | GDP Capital Expenditure (Q2) |  |  | 3.0% |
-| 02:30 | AUD | GDP Chain Price Index (Q2) |  |  | 0.8% |
-| 02:30 | AUD | GDP Final Consumption (Q2) |  |  | 0.3% |
+| 00:50 | JPY | Monetary Base (YoY) (Aug) | -15.7% | -13.5% | -13.8% |
+| 02:30 | AUD | GDP Capital Expenditure (Q2) | -0.3% |  | 3.1% |
+| 02:30 | AUD | GDP Chain Price Index (Q2) | -0.6% |  | 0.9% |
+| 02:30 | AUD | GDP Final Consumption (Q2) | 0.5% |  | 0.1% |
 | 07:00 | NOK | Current Account (Q2) |  |  | 266.8B |
 | 07:45 | EUR | French Government Budget Balance (Jul) |  |  | -106.8B |
 | 08:00 | EUR | Spanish Unemployment Change (Aug) |  | 15.4K | 19.5K |
