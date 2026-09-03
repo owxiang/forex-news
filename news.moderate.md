@@ -25,8 +25,8 @@
 | 13:30 | USD | Unit Labor Costs (QoQ) (Q2) | 1.2% | 1.3% | 1.3% |
 | 13:30 | CAD | Labor Productivity (QoQ) (Q2) | 1.0% | 0.7% | -0.4% |
 | 13:30 | CAD | Trade Balance (Jul) | 0.77B | 3.20B | 4.20B |
-| 14:45 | USD | S&P Global Composite PMI (Aug) |  | 56.0 | 54.5 |
-| 15:00 | USD | ISM Non-Manufacturing Employment (Aug) |  |  | 47.4 |
-| 16:30 | USD | Atlanta Fed GDPNow (Q3) |  | 4.8% | 4.8% |
+| 14:45 | USD | S&P Global Composite PMI (Aug) | 56.0 | 56.0 | 54.5 |
+| 15:00 | USD | ISM Non-Manufacturing Employment (Aug) | 47.8 | 48.3 | 47.4 |
+| 17:20 | USD | Atlanta Fed GDPNow (Q3) | 4.7% | 4.8% | 4.8% |
 | 18:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,731B |

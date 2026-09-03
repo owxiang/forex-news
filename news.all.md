@@ -62,18 +62,17 @@
 | 13:30 | CAD | Moderate | Trade Balance (Jul) | 0.77B | 3.20B | 4.20B |
 | 14:00 | BRL | Low | S&P Global Composite PMI (Aug) | 49.1 |  | 48.8 |
 | 14:00 | BRL | Low | S&P Global Services PMI (Aug) | 50.5 |  | 49.7 |
-| 14:45 | USD | Moderate | S&P Global Composite PMI (Aug) |  | 56.0 | 54.5 |
-| 14:45 | USD | High | S&P Global Services PMI (Aug) |  | 56.8 | 54.6 |
-| 14:45 | CAD | High | BoC Interest Rate Decision |  | 2.25% | 2.25% |
-| 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Aug) |  |  | 59.1 |
-| 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Aug) |  |  | 47.4 |
-| 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Aug) |  |  | 57.2 |
-| 15:00 | USD | High | ISM Non-Manufacturing PMI (Aug) |  | 54.2 | 54.1 |
-| 15:00 | USD | High | ISM Non-Manufacturing Prices (Aug) |  |  | 70.3 |
-| 15:30 | USD | Low | Natural Gas Storage |  | 30B | 15B |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.650% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.670% |
-| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 4.8% | 4.8% |
+| 14:45 | USD | Moderate | S&P Global Composite PMI (Aug) | 56.0 | 56.0 | 54.5 |
+| 14:45 | USD | High | S&P Global Services PMI (Aug) | 56.5 | 56.8 | 54.6 |
+| 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Aug) | 61.7 |  | 59.1 |
+| 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Aug) | 47.8 | 48.3 | 47.4 |
+| 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Aug) | 60.9 | 56.0 | 57.2 |
+| 15:00 | USD | High | ISM Non-Manufacturing PMI (Aug) | 55.4 | 54.1 | 54.1 |
+| 15:00 | USD | High | ISM Non-Manufacturing Prices (Aug) | 72.6 | 70.0 | 70.3 |
+| 15:30 | USD | Low | Natural Gas Storage | 30B | 30B | 15B |
+| 16:30 | USD | Low | 4-Week Bill Auction | 3.700% |  | 3.650% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 3.750% |  | 3.670% |
+| 17:20 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 4.7% | 4.8% | 4.8% |
 | 18:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 20:55 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,731B |
