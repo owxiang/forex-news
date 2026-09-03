@@ -4,18 +4,18 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | AUD | Low | S&P Global Manufacturing & Services PMI (Aug) | 52.70 | 52.50 | 53.20 |
 | 00:00 | AUD | Low | S&P Global Services PMI (Aug) | 53.2 | 52.9 | 53.6 |
-| 40 min | JPY | Low | Foreign Bonds Buying |  |  | -1,978.4B |
-| 40 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -764.1B |
-| 01:30 | JPY | Low | Manufacturing & Services PMI (Aug) |  | 53.40 | 52.70 |
-| 01:30 | JPY | Moderate | S&P Global Services PMI (Aug) |  | 52.3 | 51.2 |
-| 01:30 | HKD | Low | S&P Global Manufacturing PMI (Aug) |  |  | 51.0 |
-| 02:00 | NZD | Low | ANZ Commodity Price Index (MoM) |  |  | -3.9% |
+| 00:50 | JPY | Low | Foreign Bonds Buying | -824.0B |  | -1,976.8B |
+| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 35.8B |  | -763.4B |
+| 01:30 | JPY | Low | Manufacturing & Services PMI (Aug) | 53.50 | 53.40 | 52.70 |
+| 01:30 | JPY | Moderate | S&P Global Services PMI (Aug) | 52.5 | 52.3 | 51.2 |
+| 01:30 | HKD | Low | S&P Global Manufacturing PMI (Aug) | 49.5 |  | 51.0 |
+| 02:00 | NZD | Low | ANZ Commodity Price Index (MoM) | -0.4% |  | -4.0% |
 | 02:15 | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
-| 02:30 | AUD | Low | Exports (MoM) (Jul) |  |  | 9.6% |
-| 02:30 | AUD | Low | Imports (MoM) (Jul) |  |  | -0.2% |
-| 02:30 | AUD | Moderate | Trade Balance (Jul) |  | 1.500B | 1.929B |
-| 02:45 | CNY | Moderate | RatingDog Services PMI (Aug) |  | 50.6 | 50.4 |
-| 04:35 | JPY | Low | 30-Year JGB Auction |  |  | 3.937% |
+| 02:30 | AUD | Low | Exports (MoM) (Jul) | -3.3% |  | 9.1% |
+| 02:30 | AUD | Low | Imports (MoM) (Jul) | -2.5% |  | -0.7% |
+| 02:30 | AUD | Moderate | Trade Balance (Jul) | 1.923B | 1.400B | 2.341B |
+| 02:45 | CNY | Moderate | RatingDog Services PMI (Aug) | 51.4 | 50.6 | 50.4 |
+| 04:35 | JPY | Low | 30-Year JGB Auction | 4.100% |  | 3.937% |
 | 06:00 | INR | Low | HSBC India Services PMI (Aug) |  | 54.5 | 53.3 |
 | 06:00 | INR | Low | HSBC Manufacturing & Services PMI (Aug) |  | 54.60 | 54.30 |
 | 07:30 | CHF | Moderate | CPI (MoM) (Aug) |  | 0.0% | -0.1% |

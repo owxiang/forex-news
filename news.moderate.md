@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | JPY | S&P Global Services PMI (Aug) |  | 52.3 | 51.2 |
-| 02:30 | AUD | Trade Balance (Jul) |  | 1.500B | 1.929B |
-| 02:45 | CNY | RatingDog Services PMI (Aug) |  | 50.6 | 50.4 |
+| 01:30 | JPY | S&P Global Services PMI (Aug) | 52.5 | 52.3 | 51.2 |
+| 02:30 | AUD | Trade Balance (Jul) | 1.923B | 1.400B | 2.341B |
+| 02:45 | CNY | RatingDog Services PMI (Aug) | 51.4 | 50.6 | 50.4 |
 | 07:30 | CHF | CPI (MoM) (Aug) |  | 0.0% | -0.1% |
 | 08:00 | CHF | GDP (YoY) (Q2) |  |  | 0.5% |
 | 08:00 | CHF | GDP (QoQ) (Q2) |  | 1.5% | 0.7% |

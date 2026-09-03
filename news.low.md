@@ -4,15 +4,15 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | AUD | S&P Global Manufacturing & Services PMI (Aug) | 52.70 | 52.50 | 53.20 |
 | 00:00 | AUD | S&P Global Services PMI (Aug) | 53.2 | 52.9 | 53.6 |
-| 40 min | JPY | Foreign Bonds Buying |  |  | -1,978.4B |
-| 40 min | JPY | Foreign Investments in Japanese Stocks |  |  | -764.1B |
-| 01:30 | JPY | Manufacturing & Services PMI (Aug) |  | 53.40 | 52.70 |
-| 01:30 | HKD | S&P Global Manufacturing PMI (Aug) |  |  | 51.0 |
-| 02:00 | NZD | ANZ Commodity Price Index (MoM) |  |  | -3.9% |
+| 00:50 | JPY | Foreign Bonds Buying | -824.0B |  | -1,976.8B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks | 35.8B |  | -763.4B |
+| 01:30 | JPY | Manufacturing & Services PMI (Aug) | 53.50 | 53.40 | 52.70 |
+| 01:30 | HKD | S&P Global Manufacturing PMI (Aug) | 49.5 |  | 51.0 |
+| 02:00 | NZD | ANZ Commodity Price Index (MoM) | -0.4% |  | -4.0% |
 | 02:15 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
-| 02:30 | AUD | Exports (MoM) (Jul) |  |  | 9.6% |
-| 02:30 | AUD | Imports (MoM) (Jul) |  |  | -0.2% |
-| 04:35 | JPY | 30-Year JGB Auction |  |  | 3.937% |
+| 02:30 | AUD | Exports (MoM) (Jul) | -3.3% |  | 9.1% |
+| 02:30 | AUD | Imports (MoM) (Jul) | -2.5% |  | -0.7% |
+| 04:35 | JPY | 30-Year JGB Auction | 4.100% |  | 3.937% |
 | 06:00 | INR | HSBC India Services PMI (Aug) |  | 54.5 | 53.3 |
 | 06:00 | INR | HSBC Manufacturing & Services PMI (Aug) |  | 54.60 | 54.30 |
 | 07:30 | CHF | CPI (YoY) (Aug) |  | 0.5% | 0.4% |
