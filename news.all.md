@@ -75,6 +75,6 @@
 | 17:20 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 4.7% | 4.8% | 4.8% |
 | 18:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 20:55 | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,731B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.916T |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,737B |  | 6,731B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 2.929T |  | 2.916T |
 | 22:00 | KRW | Low | FX Reserves - USD (Aug) |  |  | 427.95B |

@@ -29,4 +29,4 @@
 | 15:00 | USD | ISM Non-Manufacturing Employment (Aug) | 47.8 | 48.3 | 47.4 |
 | 17:20 | USD | Atlanta Fed GDPNow (Q3) | 4.7% | 4.8% | 4.8% |
 | 18:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 6,731B |
+| 21:30 | USD | Fed's Balance Sheet | 6,737B |  | 6,731B |

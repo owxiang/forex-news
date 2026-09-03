@@ -44,5 +44,5 @@
 | 16:30 | USD | 4-Week Bill Auction | 3.700% |  | 3.650% |
 | 16:30 | USD | 8-Week Bill Auction | 3.750% |  | 3.670% |
 | 20:55 | USD | Fed Goolsbee Speaks |  |  |  |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.916T |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 2.929T |  | 2.916T |
 | 22:00 | KRW | FX Reserves - USD (Aug) |  |  | 427.95B |
