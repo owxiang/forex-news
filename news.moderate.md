@@ -16,15 +16,15 @@
 | 09:00 | EUR | HCOB Eurozone Services PMI (Aug) | 51.6 | 51.7 | 51.7 |
 | 09:30 | GBP | S&P Global Composite PMI (Aug) | 52.5 | 52.5 | 52.2 |
 | 09:30 | GBP | S&P Global Services PMI (Aug) | 52.5 | 52.8 | 52.1 |
-| 13:30 | USD | Continuing Jobless Claims |  |  | 1,778K |
-| 13:30 | USD | Exports (Jul) |  |  | 314.70B |
+| 13:30 | USD | Continuing Jobless Claims | 1,779K |  | 1,771K |
+| 13:30 | USD | Exports (Jul) | 310.70B |  | 314.70B |
 | 13:30 | USD | Fed Waller Speaks |  |  |  |
-| 13:30 | USD | Imports (Jul) |  |  | 388.00B |
-| 13:30 | USD | Nonfarm Productivity (QoQ) (Q2) |  | 1.4% | 0.8% |
-| 13:30 | USD | Trade Balance (Jul) |  | -89.40B | -73.30B |
-| 13:30 | USD | Unit Labor Costs (QoQ) (Q2) |  | 1.3% | 1.3% |
-| 13:30 | CAD | Labor Productivity (QoQ) (Q2) |  | 0.7% | -0.5% |
-| 13:30 | CAD | Trade Balance (Jul) |  | 3.20B | 3.86B |
+| 13:30 | USD | Imports (Jul) | 399.30B |  | 388.00B |
+| 13:30 | USD | Nonfarm Productivity (QoQ) (Q2) | 1.4% | 1.4% | 0.8% |
+| 13:30 | USD | Trade Balance (Jul) | -88.60B | -89.40B | -71.20B |
+| 13:30 | USD | Unit Labor Costs (QoQ) (Q2) | 1.2% | 1.3% | 1.3% |
+| 13:30 | CAD | Labor Productivity (QoQ) (Q2) | 1.0% | 0.7% | -0.4% |
+| 13:30 | CAD | Trade Balance (Jul) | 0.77B | 3.20B | 4.20B |
 | 14:45 | USD | S&P Global Composite PMI (Aug) |  | 56.0 | 54.5 |
 | 15:00 | USD | ISM Non-Manufacturing Employment (Aug) |  |  | 47.4 |
 | 16:30 | USD | Atlanta Fed GDPNow (Q3) |  | 4.8% | 4.8% |

@@ -34,33 +34,34 @@
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Aug) | 51.6 | 51.7 | 51.7 |
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (Aug) | 52.5 | 52.5 | 52.2 |
 | 09:30 | GBP | Moderate | S&P Global Services PMI (Aug) | 52.5 | 52.8 | 52.1 |
-| 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.542% |
-| 09:40 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.867% |
-| 09:40 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 3.005% |
-| 10:00 | EUR | Low | French 10-Year OAT Auction |  |  | 3.86% |
-| 10:00 | NOK | Low | House Price Index (YoY) (Aug) |  |  | 2.20% |
-| 10:00 | EUR | Low | PPI (MoM) (Jul) |  | 1.2% | -0.3% |
-| 10:00 | EUR | Low | PPI (YoY) (Jul) |  |  | 4.6% |
-| 10:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | -46.1% |
-| 10:30 | USD | Low | Challenger Job Cuts (Aug) |  |  | 33.429K |
-| 11:00 | EUR | Low | German Car Registration (YoY) (Aug) |  |  | 1.2% |
-| 13:00 | MXN | Low | Consumer Confidence (Aug) |  |  | 45.0 |
-| 13:00 | MXN | Low | Consumer Confidence n.s.a. (Aug) |  |  | 45.1 |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,778K |
-| 13:30 | USD | Moderate | Exports (Jul) |  |  | 314.70B |
+| 09:30 | EUR | Low | German Car Registration (YoY) (Aug) | 2.6% |  | 1.2% |
+| 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction | 3.736% |  | 3.542% |
+| 10:00 | EUR | Low | French 10-Year OAT Auction | 4.23% |  | 3.86% |
+| 10:00 | EUR | Low | Spanish 3-Year Bonos Auction | 3.079% |  | 2.867% |
+| 10:00 | EUR | Low | Spanish 5-Year Bonos Auction | 3.255% |  | 3.005% |
+| 10:00 | NOK | Low | House Price Index (YoY) (Aug) | 2.60% |  | 2.20% |
+| 10:00 | EUR | Low | PPI (YoY) (Jul) | 5.8% |  | 4.6% |
+| 10:00 | EUR | Low | PPI (MoM) (Jul) | 1.6% | 1.2% | -0.3% |
+| 10:30 | USD | Low | Challenger Job Cuts (YoY) | -38.5% |  | -46.1% |
+| 10:30 | USD | Low | Challenger Job Cuts (Aug) | 52.881K |  | 33.429K |
+| 13:00 | MXN | Low | Consumer Confidence (Aug) | 46.1 |  | 45.0 |
+| 13:00 | MXN | Low | Consumer Confidence n.s.a. (Aug) | 46.6 |  | 45.1 |
+| 13:15 | CAD | Low | Reserve Assets Total (Aug) | 127.4B |  | 127.0B |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,779K |  | 1,771K |
+| 13:30 | USD | Moderate | Exports (Jul) | 310.70B |  | 314.70B |
 | 13:30 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 13:30 | USD | Moderate | Imports (Jul) |  |  | 388.00B |
-| 13:30 | USD | High | Initial Jobless Claims |  | 205K | 203K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 205.50K |
-| 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q2) |  | 1.4% | 0.8% |
-| 13:30 | USD | Moderate | Trade Balance (Jul) |  | -89.40B | -73.30B |
-| 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q2) |  | 1.3% | 1.3% |
-| 13:30 | CAD | Low | Exports (Jul) |  |  | 77.49B |
-| 13:30 | CAD | Low | Imports (Jul) |  |  | 73.63B |
-| 13:30 | CAD | Moderate | Labor Productivity (QoQ) (Q2) |  | 0.7% | -0.5% |
-| 13:30 | CAD | Moderate | Trade Balance (Jul) |  | 3.20B | 3.86B |
-| 14:00 | BRL | Low | S&P Global Composite PMI (Aug) |  |  | 48.8 |
-| 14:00 | BRL | Low | S&P Global Services PMI (Aug) |  |  | 49.7 |
+| 13:30 | USD | Moderate | Imports (Jul) | 399.30B |  | 388.00B |
+| 13:30 | USD | High | Initial Jobless Claims | 206K | 205K | 204K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 207.25K |  | 205.75K |
+| 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q2) | 1.4% | 1.4% | 0.8% |
+| 13:30 | USD | Moderate | Trade Balance (Jul) | -88.60B | -89.40B | -71.20B |
+| 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q2) | 1.2% | 1.3% | 1.3% |
+| 13:30 | CAD | Low | Exports (Jul) | 76.14B |  | 77.96B |
+| 13:30 | CAD | Low | Imports (Jul) | 75.37B |  | 73.76B |
+| 13:30 | CAD | Moderate | Labor Productivity (QoQ) (Q2) | 1.0% | 0.7% | -0.4% |
+| 13:30 | CAD | Moderate | Trade Balance (Jul) | 0.77B | 3.20B | 4.20B |
+| 14:00 | BRL | Low | S&P Global Composite PMI (Aug) | 49.1 |  | 48.8 |
+| 14:00 | BRL | Low | S&P Global Services PMI (Aug) | 50.5 |  | 49.7 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Aug) |  | 56.0 | 54.5 |
 | 14:45 | USD | High | S&P Global Services PMI (Aug) |  | 56.8 | 54.6 |
 | 14:45 | CAD | High | BoC Interest Rate Decision |  | 2.25% | 2.25% |

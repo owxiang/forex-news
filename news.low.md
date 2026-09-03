@@ -20,23 +20,24 @@
 | 08:45 | EUR | HCOB Italy Composite PMI (Aug) | 53.6 |  | 52.5 |
 | 08:50 | EUR | HCOB France Composite PMI (Aug) | 48.5 | 48.8 | 49.4 |
 | 08:55 | EUR | HCOB Germany Composite PMI (Aug) | 51.8 | 51.0 | 51.3 |
-| 09:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.542% |
-| 09:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 2.867% |
-| 09:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 3.005% |
-| 10:00 | EUR | French 10-Year OAT Auction |  |  | 3.86% |
-| 10:00 | NOK | House Price Index (YoY) (Aug) |  |  | 2.20% |
-| 10:00 | EUR | PPI (MoM) (Jul) |  | 1.2% | -0.3% |
-| 10:00 | EUR | PPI (YoY) (Jul) |  |  | 4.6% |
-| 10:30 | USD | Challenger Job Cuts (YoY) |  |  | -46.1% |
-| 10:30 | USD | Challenger Job Cuts (Aug) |  |  | 33.429K |
-| 11:00 | EUR | German Car Registration (YoY) (Aug) |  |  | 1.2% |
-| 13:00 | MXN | Consumer Confidence (Aug) |  |  | 45.0 |
-| 13:00 | MXN | Consumer Confidence n.s.a. (Aug) |  |  | 45.1 |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 205.50K |
-| 13:30 | CAD | Exports (Jul) |  |  | 77.49B |
-| 13:30 | CAD | Imports (Jul) |  |  | 73.63B |
-| 14:00 | BRL | S&P Global Composite PMI (Aug) |  |  | 48.8 |
-| 14:00 | BRL | S&P Global Services PMI (Aug) |  |  | 49.7 |
+| 09:30 | EUR | German Car Registration (YoY) (Aug) | 2.6% |  | 1.2% |
+| 09:40 | EUR | Spanish 10-Year Obligacion Auction | 3.736% |  | 3.542% |
+| 10:00 | EUR | French 10-Year OAT Auction | 4.23% |  | 3.86% |
+| 10:00 | EUR | Spanish 3-Year Bonos Auction | 3.079% |  | 2.867% |
+| 10:00 | EUR | Spanish 5-Year Bonos Auction | 3.255% |  | 3.005% |
+| 10:00 | NOK | House Price Index (YoY) (Aug) | 2.60% |  | 2.20% |
+| 10:00 | EUR | PPI (YoY) (Jul) | 5.8% |  | 4.6% |
+| 10:00 | EUR | PPI (MoM) (Jul) | 1.6% | 1.2% | -0.3% |
+| 10:30 | USD | Challenger Job Cuts (YoY) | -38.5% |  | -46.1% |
+| 10:30 | USD | Challenger Job Cuts (Aug) | 52.881K |  | 33.429K |
+| 13:00 | MXN | Consumer Confidence (Aug) | 46.1 |  | 45.0 |
+| 13:00 | MXN | Consumer Confidence n.s.a. (Aug) | 46.6 |  | 45.1 |
+| 13:15 | CAD | Reserve Assets Total (Aug) | 127.4B |  | 127.0B |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 207.25K |  | 205.75K |
+| 13:30 | CAD | Exports (Jul) | 76.14B |  | 77.96B |
+| 13:30 | CAD | Imports (Jul) | 75.37B |  | 73.76B |
+| 14:00 | BRL | S&P Global Composite PMI (Aug) | 49.1 |  | 48.8 |
+| 14:00 | BRL | S&P Global Services PMI (Aug) | 50.5 |  | 49.7 |
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Aug) |  |  | 59.1 |
 | 15:00 | USD | ISM Non-Manufacturing New Orders (Aug) |  |  | 57.2 |
 | 15:30 | USD | Natural Gas Storage |  | 30B | 15B |
