@@ -13,13 +13,17 @@
 | 02:30 | AUD | Exports (MoM) (Jul) | -3.3% |  | 9.1% |
 | 02:30 | AUD | Imports (MoM) (Jul) | -2.5% |  | -0.7% |
 | 04:35 | JPY | 30-Year JGB Auction | 4.100% |  | 3.937% |
-| 06:00 | INR | HSBC India Services PMI (Aug) |  | 54.5 | 53.3 |
-| 06:00 | INR | HSBC Manufacturing & Services PMI (Aug) |  | 54.60 | 54.30 |
-| 07:30 | CHF | CPI (YoY) (Aug) |  | 0.5% | 0.4% |
-| 08:15 | ZAR | S&P Global Manufacturing PMI (Aug) |  |  | 50.3 |
-| 08:45 | EUR | HCOB Italy Composite PMI (Aug) |  |  | 52.5 |
-| 08:50 | EUR | HCOB France Composite PMI (Aug) |  | 48.8 | 49.4 |
-| 08:55 | EUR | HCOB Germany Composite PMI (Aug) |  | 51.0 | 51.3 |
+| 06:00 | INR | HSBC India Services PMI (Aug) | 54.1 | 54.5 | 53.3 |
+| 06:00 | INR | HSBC Manufacturing & Services PMI (Aug) | 54.30 | 54.60 | 54.30 |
+| 07:30 | CHF | CPI (YoY) (Aug) | 0.8% | 0.5% | 0.4% |
+| 08:15 | ZAR | S&P Global Manufacturing PMI (Aug) | 50.5 |  | 50.3 |
+| 08:45 | EUR | HCOB Italy Composite PMI (Aug) | 53.6 |  | 52.5 |
+| 08:50 | EUR | HCOB France Composite PMI (Aug) | 48.5 | 48.8 | 49.4 |
+| 08:55 | EUR | HCOB Germany Composite PMI (Aug) | 51.8 | 51.0 | 51.3 |
+| 09:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.542% |
+| 09:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 2.867% |
+| 09:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 3.005% |
+| 10:00 | EUR | French 10-Year OAT Auction |  |  | 3.86% |
 | 10:00 | NOK | House Price Index (YoY) (Aug) |  |  | 2.20% |
 | 10:00 | EUR | PPI (MoM) (Jul) |  | 1.2% | -0.3% |
 | 10:00 | EUR | PPI (YoY) (Jul) |  |  | 4.6% |
@@ -38,5 +42,6 @@
 | 15:30 | USD | Natural Gas Storage |  | 30B | 15B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.650% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 3.670% |
+| 20:55 | USD | Fed Goolsbee Speaks |  |  |  |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.916T |
 | 22:00 | KRW | FX Reserves - USD (Aug) |  |  | 427.95B |

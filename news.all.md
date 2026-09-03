@@ -16,24 +16,28 @@
 | 02:30 | AUD | Moderate | Trade Balance (Jul) | 1.923B | 1.400B | 2.341B |
 | 02:45 | CNY | Moderate | RatingDog Services PMI (Aug) | 51.4 | 50.6 | 50.4 |
 | 04:35 | JPY | Low | 30-Year JGB Auction | 4.100% |  | 3.937% |
-| 06:00 | INR | Low | HSBC India Services PMI (Aug) |  | 54.5 | 53.3 |
-| 06:00 | INR | Low | HSBC Manufacturing & Services PMI (Aug) |  | 54.60 | 54.30 |
-| 07:30 | CHF | Moderate | CPI (MoM) (Aug) |  | 0.0% | -0.1% |
-| 07:30 | CHF | Low | CPI (YoY) (Aug) |  | 0.5% | 0.4% |
-| 08:00 | CHF | Moderate | GDP (YoY) (Q2) |  |  | 0.5% |
-| 08:00 | CHF | Moderate | GDP (QoQ) (Q2) |  | 1.5% | 0.7% |
-| 08:15 | EUR | Moderate | HCOB Spain Services PMI (Aug) |  | 59.0 | 58.3 |
-| 08:15 | ZAR | Low | S&P Global Manufacturing PMI (Aug) |  |  | 50.3 |
-| 08:45 | EUR | Low | HCOB Italy Composite PMI (Aug) |  |  | 52.5 |
-| 08:45 | EUR | Moderate | HCOB Italy Services PMI (Aug) |  | 53.6 | 52.5 |
-| 08:50 | EUR | Low | HCOB France Composite PMI (Aug) |  | 48.8 | 49.4 |
-| 08:50 | EUR | Moderate | HCOB France Services PMI (Aug) |  | 48.4 | 49.6 |
-| 08:55 | EUR | Low | HCOB Germany Composite PMI (Aug) |  | 51.0 | 51.3 |
-| 08:55 | EUR | Moderate | HCOB Germany Services PMI (Aug) |  | 48.5 | 49.8 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Aug) |  | 52.1 | 52.0 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Aug) |  | 51.7 | 51.7 |
-| 09:30 | GBP | Moderate | S&P Global Composite PMI (Aug) |  | 52.5 | 52.2 |
-| 09:30 | GBP | Moderate | S&P Global Services PMI (Aug) |  | 52.8 | 52.1 |
+| 06:00 | INR | Low | HSBC India Services PMI (Aug) | 54.1 | 54.5 | 53.3 |
+| 06:00 | INR | Low | HSBC Manufacturing & Services PMI (Aug) | 54.30 | 54.60 | 54.30 |
+| 07:30 | CHF | Moderate | CPI (MoM) (Aug) | 0.4% | 0.0% | -0.1% |
+| 07:30 | CHF | Low | CPI (YoY) (Aug) | 0.8% | 0.5% | 0.4% |
+| 08:00 | CHF | Moderate | GDP (QoQ) (Q2) | 1.9% | 1.5% | 0.6% |
+| 08:00 | CHF | Moderate | GDP (YoY) (Q2) | 2.8% |  | 0.5% |
+| 08:15 | EUR | Moderate | HCOB Spain Services PMI (Aug) | 57.8 | 59.0 | 58.3 |
+| 08:15 | ZAR | Low | S&P Global Manufacturing PMI (Aug) | 50.5 |  | 50.3 |
+| 08:45 | EUR | Low | HCOB Italy Composite PMI (Aug) | 53.6 |  | 52.5 |
+| 08:45 | EUR | Moderate | HCOB Italy Services PMI (Aug) | 55.2 | 53.6 | 52.5 |
+| 08:50 | EUR | Low | HCOB France Composite PMI (Aug) | 48.5 | 48.8 | 49.4 |
+| 08:50 | EUR | Moderate | HCOB France Services PMI (Aug) | 48.0 | 48.4 | 49.6 |
+| 08:55 | EUR | Low | HCOB Germany Composite PMI (Aug) | 51.8 | 51.0 | 51.3 |
+| 08:55 | EUR | Moderate | HCOB Germany Services PMI (Aug) | 49.7 | 48.5 | 49.8 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Aug) | 52.0 | 52.1 | 52.0 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Aug) | 51.6 | 51.7 | 51.7 |
+| 09:30 | GBP | Moderate | S&P Global Composite PMI (Aug) | 52.5 | 52.5 | 52.2 |
+| 09:30 | GBP | Moderate | S&P Global Services PMI (Aug) | 52.5 | 52.8 | 52.1 |
+| 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.542% |
+| 09:40 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.867% |
+| 09:40 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 3.005% |
+| 10:00 | EUR | Low | French 10-Year OAT Auction |  |  | 3.86% |
 | 10:00 | NOK | Low | House Price Index (YoY) (Aug) |  |  | 2.20% |
 | 10:00 | EUR | Low | PPI (MoM) (Jul) |  | 1.2% | -0.3% |
 | 10:00 | EUR | Low | PPI (YoY) (Jul) |  |  | 4.6% |
@@ -49,7 +53,7 @@
 | 13:30 | USD | High | Initial Jobless Claims |  | 205K | 203K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 205.50K |
 | 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q2) |  | 1.4% | 0.8% |
-| 13:30 | USD | Moderate | Trade Balance (Jul) |  | -86.40B | -73.30B |
+| 13:30 | USD | Moderate | Trade Balance (Jul) |  | -89.40B | -73.30B |
 | 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q2) |  | 1.3% | 1.3% |
 | 13:30 | CAD | Low | Exports (Jul) |  |  | 77.49B |
 | 13:30 | CAD | Low | Imports (Jul) |  |  | 73.63B |
@@ -68,7 +72,9 @@
 | 15:30 | USD | Low | Natural Gas Storage |  | 30B | 15B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.650% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.670% |
-| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  |  |  |
+| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 4.8% | 4.8% |
+| 18:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 20:55 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,731B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.916T |
 | 22:00 | KRW | Low | FX Reserves - USD (Aug) |  |  | 427.95B |
