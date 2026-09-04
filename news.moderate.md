@@ -14,9 +14,9 @@
 | 13:30 | USD | U6 Unemployment Rate (Aug) | 7.7% |  | 7.9% |
 | 13:30 | CAD | Employment Change (Aug) | -41.7K | 15.1K | 75.1K |
 | 13:30 | CAD | Unemployment Rate (Aug) | 6.4% | 6.4% | 6.4% |
-| 40 min | CAD | Ivey PMI (Aug) |  | 56.2 | 55.1 |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 447 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 588 |
+| 15:00 | CAD | Ivey PMI (Aug) | 64.3 | 56.2 | 55.1 |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 449 |  | 447 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count | 588 |  | 588 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -44.5K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 123.4K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 243.3K |

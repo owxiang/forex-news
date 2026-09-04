@@ -38,10 +38,10 @@
 | 13:30 | CAD | Low | Part Time Employment Change (Aug) | -5.8K |  | 36.6K |
 | 13:30 | CAD | Low | Participation Rate (Aug) | 65.0% |  | 65.1% |
 | 13:30 | CAD | Moderate | Unemployment Rate (Aug) | 6.4% | 6.4% | 6.4% |
-| 40 min | CAD | Low | Ivey PMI n.s.a (Aug) |  |  | 54.1 |
-| 40 min | CAD | Moderate | Ivey PMI (Aug) |  | 56.2 | 55.1 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 447 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 588 |
+| 15:00 | CAD | Low | Ivey PMI n.s.a (Aug) | 62.7 |  | 54.1 |
+| 15:00 | CAD | Moderate | Ivey PMI (Aug) | 64.3 | 56.2 | 55.1 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 449 |  | 447 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 588 |  | 588 |
 | 19:00 | BRL | Low | Trade Balance (Aug) |  | 7.14B | 7.07B |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -44.5K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 0.0K |

@@ -23,7 +23,7 @@
 | 13:30 | CAD | Full Employment Change (Aug) | -35.9K |  | 38.6K |
 | 13:30 | CAD | Part Time Employment Change (Aug) | -5.8K |  | 36.6K |
 | 13:30 | CAD | Participation Rate (Aug) | 65.0% |  | 65.1% |
-| 40 min | CAD | Ivey PMI n.s.a (Aug) |  |  | 54.1 |
+| 15:00 | CAD | Ivey PMI n.s.a (Aug) | 62.7 |  | 54.1 |
 | 19:00 | BRL | Trade Balance (Aug) |  | 7.14B | 7.07B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.0K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 85.3K |
