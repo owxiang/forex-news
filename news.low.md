@@ -11,21 +11,19 @@
 | 09:00 | GBP | United Kingdom New Passenger Cars Registration (Aug) | 94,236.0 |  | 156,571.0 |
 | 09:00 | EUR | Italian Retail Sales (MoM) (Jul) | -0.4% | 0.2% | -0.2% |
 | 09:00 | EUR | Italian Retail Sales (YoY) (Jul) | 0.8% |  | 3.1% |
-| 10:00 | EUR | Retail Sales (MoM) (Jul) |  | 0.3% | -0.3% |
-| 10:00 | EUR | Retail Sales (YoY) (Jul) |  | 1.1% | 0.7% |
-| 12:30 | INR | Bank Loan Growth |  |  | 18.3% |
-| 12:30 | INR | Deposit Growth |  |  | 14.7% |
-| 12:30 | INR | FX Reserves, USD |  |  | 729.33B |
-| 13:00 | MXN | Gross Fixed Investments (MoM) (Jun) |  | 0.40% | -0.40% |
-| 13:00 | MXN | Gross Fixed Investments (YoY) (Jun) |  | 4.80% | 1.10% |
-| 13:30 | USD | Average Weekly Hours (Aug) |  | 34.3 | 34.3 |
-| 13:30 | USD | Government Payrolls (Aug) |  |  | -53.0K |
-| 13:30 | USD | Manufacturing Payrolls (Aug) |  | 5K | 5K |
-| 13:30 | CAD | Avg hourly wages Permanent employee (Aug) |  |  | 3.0% |
-| 13:30 | CAD | Full Employment Change (Aug) |  |  | 38.6K |
-| 13:30 | CAD | Part Time Employment Change (Aug) |  |  | 36.6K |
-| 13:30 | CAD | Participation Rate (Aug) |  |  | 65.1% |
-| 15:00 | CAD | Ivey PMI n.s.a (Aug) |  |  | 54.1 |
+| 10:00 | EUR | Retail Sales (MoM) (Jul) | -0.6% | 0.3% | 0.2% |
+| 10:00 | EUR | Retail Sales (YoY) (Jul) | 0.6% | 1.1% | 1.4% |
+| 12:30 | INR | FX Reserves, USD | 740.80B |  | 729.33B |
+| 13:00 | MXN | Gross Fixed Investments (MoM) (Jun) | 1.30% | 0.40% | -0.40% |
+| 13:00 | MXN | Gross Fixed Investments (YoY) (Jun) | 7.70% | 4.80% | 1.10% |
+| 13:30 | USD | Average Weekly Hours (Aug) | 34.4 | 34.3 | 34.3 |
+| 13:30 | USD | Government Payrolls (Aug) | 35.0K |  | -50.0K |
+| 13:30 | USD | Manufacturing Payrolls (Aug) | 16K | 5K | 14K |
+| 13:30 | CAD | Avg hourly wages Permanent employee (Aug) | 2.0% |  | 3.0% |
+| 13:30 | CAD | Full Employment Change (Aug) | -35.9K |  | 38.6K |
+| 13:30 | CAD | Part Time Employment Change (Aug) | -5.8K |  | 36.6K |
+| 13:30 | CAD | Participation Rate (Aug) | 65.0% |  | 65.1% |
+| 40 min | CAD | Ivey PMI n.s.a (Aug) |  |  | 54.1 |
 | 19:00 | BRL | Trade Balance (Aug) |  | 7.14B | 7.07B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.0K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 85.3K |

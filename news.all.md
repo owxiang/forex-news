@@ -17,31 +17,29 @@
 | 09:30 | GBP | Moderate | S&P Global Construction PMI (Aug) | 44.3 | 45.8 | 44.7 |
 | 09:50 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 10:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 10:00 | EUR | Low | Retail Sales (MoM) (Jul) |  | 0.3% | -0.3% |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Jul) |  | 1.1% | 0.7% |
-| 12:30 | INR | Low | Bank Loan Growth |  |  | 18.3% |
-| 12:30 | INR | Low | Deposit Growth |  |  | 14.7% |
-| 12:30 | INR | Low | FX Reserves, USD |  |  | 729.33B |
-| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Jun) |  | 0.40% | -0.40% |
-| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jun) |  | 4.80% | 1.10% |
-| 13:30 | USD | High | Average Hourly Earnings (MoM) (Aug) |  | 0.3% | 0.1% |
-| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Aug) |  | 3.0% | 3.2% |
-| 13:30 | USD | Low | Average Weekly Hours (Aug) |  | 34.3 | 34.3 |
-| 13:30 | USD | Low | Government Payrolls (Aug) |  |  | -53.0K |
-| 13:30 | USD | Low | Manufacturing Payrolls (Aug) |  | 5K | 5K |
-| 13:30 | USD | High | Nonfarm Payrolls (Aug) |  | 55K | -23K |
-| 13:30 | USD | Moderate | Participation Rate (Aug) |  |  | 61.4% |
-| 13:30 | USD | Moderate | Private Nonfarm Payrolls (Aug) |  | 45K | 30K |
-| 13:30 | USD | Moderate | U6 Unemployment Rate (Aug) |  |  | 7.9% |
-| 13:30 | USD | High | Unemployment Rate (Aug) |  | 4.1% | 4.1% |
-| 13:30 | CAD | Low | Avg hourly wages Permanent employee (Aug) |  |  | 3.0% |
-| 13:30 | CAD | Moderate | Employment Change (Aug) |  | 15.1K | 75.1K |
-| 13:30 | CAD | Low | Full Employment Change (Aug) |  |  | 38.6K |
-| 13:30 | CAD | Low | Part Time Employment Change (Aug) |  |  | 36.6K |
-| 13:30 | CAD | Low | Participation Rate (Aug) |  |  | 65.1% |
-| 13:30 | CAD | Moderate | Unemployment Rate (Aug) |  | 6.4% | 6.4% |
-| 15:00 | CAD | Low | Ivey PMI n.s.a (Aug) |  |  | 54.1 |
-| 15:00 | CAD | Moderate | Ivey PMI (Aug) |  | 56.2 | 55.1 |
+| 10:00 | EUR | Low | Retail Sales (MoM) (Jul) | -0.6% | 0.3% | 0.2% |
+| 10:00 | EUR | Low | Retail Sales (YoY) (Jul) | 0.6% | 1.1% | 1.4% |
+| 12:30 | INR | Low | FX Reserves, USD | 740.80B |  | 729.33B |
+| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Jun) | 1.30% | 0.40% | -0.40% |
+| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jun) | 7.70% | 4.80% | 1.10% |
+| 13:30 | USD | High | Average Hourly Earnings (MoM) (Aug) | 0.3% | 0.3% | 0.2% |
+| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Aug) | 3.1% | 3.0% | 3.2% |
+| 13:30 | USD | Low | Average Weekly Hours (Aug) | 34.4 | 34.3 | 34.3 |
+| 13:30 | USD | Low | Government Payrolls (Aug) | 35.0K |  | -50.0K |
+| 13:30 | USD | Low | Manufacturing Payrolls (Aug) | 16K | 5K | 14K |
+| 13:30 | USD | High | Nonfarm Payrolls (Aug) | 162K | 55K | 21K |
+| 13:30 | USD | Moderate | Participation Rate (Aug) | 61.6% |  | 61.4% |
+| 13:30 | USD | Moderate | Private Nonfarm Payrolls (Aug) | 127K | 45K | 71K |
+| 13:30 | USD | Moderate | U6 Unemployment Rate (Aug) | 7.7% |  | 7.9% |
+| 13:30 | USD | High | Unemployment Rate (Aug) | 4.1% | 4.1% | 4.1% |
+| 13:30 | CAD | Low | Avg hourly wages Permanent employee (Aug) | 2.0% |  | 3.0% |
+| 13:30 | CAD | Moderate | Employment Change (Aug) | -41.7K | 15.1K | 75.1K |
+| 13:30 | CAD | Low | Full Employment Change (Aug) | -35.9K |  | 38.6K |
+| 13:30 | CAD | Low | Part Time Employment Change (Aug) | -5.8K |  | 36.6K |
+| 13:30 | CAD | Low | Participation Rate (Aug) | 65.0% |  | 65.1% |
+| 13:30 | CAD | Moderate | Unemployment Rate (Aug) | 6.4% | 6.4% | 6.4% |
+| 40 min | CAD | Low | Ivey PMI n.s.a (Aug) |  |  | 54.1 |
+| 40 min | CAD | Moderate | Ivey PMI (Aug) |  | 56.2 | 55.1 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 447 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 588 |
 | 19:00 | BRL | Low | Trade Balance (Aug) |  | 7.14B | 7.07B |
