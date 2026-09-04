@@ -3,27 +3,22 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | KRW | Current Account (Jul) | 42.08B |  | 49.73B |
-| 06:00 | JPY | Coincident Indicator (MoM) (Jul) |  |  | 0.6% |
-| 06:00 | JPY | Leading Index (Jul) |  |  | 116.5 |
-| 06:00 | JPY | Leading Index (MoM) (Jul) |  |  | 0.0% |
-| 06:00 | SGD | Retail Sales (YoY) (Jul) |  |  | 4.0% |
-| 06:00 | SGD | Retail Sales (MoM) (Jul) |  |  | 1.0% |
-| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Aug) |  |  | 49.1 |
-| 08:30 | EUR | HCOB Germany Construction PMI (Aug) |  |  | 42.1 |
-| 08:30 | EUR | HCOB France Construction PMI (MoM) (Aug) |  |  | 41.5 |
-| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Aug) |  |  | 44.3 |
-| 09:00 | GBP | Car Registration (YoY) (Aug) |  |  | 11.7% |
-| 09:00 | GBP | United Kingdom New Passenger Cars Registration (Aug) |  |  | 156,571.0 |
-| 09:00 | EUR | Italian Retail Sales (MoM) (Jul) |  | 0.2% | -0.1% |
-| 09:00 | EUR | Italian Retail Sales (YoY) (Jul) |  |  | 3.1% |
+| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Aug) | 41.7 |  | 49.1 |
+| 08:30 | EUR | HCOB Germany Construction PMI (Aug) | 48.7 |  | 42.1 |
+| 08:30 | EUR | HCOB France Construction PMI (MoM) (Aug) | 37.3 |  | 41.5 |
+| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Aug) | 43.0 |  | 44.3 |
+| 09:00 | GBP | Car Registration (YoY) (Aug) | 13.7% |  | 11.7% |
+| 09:00 | GBP | United Kingdom New Passenger Cars Registration (Aug) | 94,236.0 |  | 156,571.0 |
+| 09:00 | EUR | Italian Retail Sales (MoM) (Jul) | -0.4% | 0.2% | -0.2% |
+| 09:00 | EUR | Italian Retail Sales (YoY) (Jul) | 0.8% |  | 3.1% |
 | 10:00 | EUR | Retail Sales (MoM) (Jul) |  | 0.3% | -0.3% |
-| 10:00 | EUR | Retail Sales (YoY) (Jul) |  |  | 0.7% |
+| 10:00 | EUR | Retail Sales (YoY) (Jul) |  | 1.1% | 0.7% |
 | 12:30 | INR | Bank Loan Growth |  |  | 18.3% |
 | 12:30 | INR | Deposit Growth |  |  | 14.7% |
 | 12:30 | INR | FX Reserves, USD |  |  | 729.33B |
-| 13:00 | MXN | Gross Fixed Investments (MoM) (Jun) |  | 1.70% | -0.40% |
+| 13:00 | MXN | Gross Fixed Investments (MoM) (Jun) |  | 0.40% | -0.40% |
 | 13:00 | MXN | Gross Fixed Investments (YoY) (Jun) |  | 4.80% | 1.10% |
-| 13:30 | USD | Average Weekly Hours (Aug) |  | 34.4 | 34.3 |
+| 13:30 | USD | Average Weekly Hours (Aug) |  | 34.3 | 34.3 |
 | 13:30 | USD | Government Payrolls (Aug) |  |  | -53.0K |
 | 13:30 | USD | Manufacturing Payrolls (Aug) |  | 5K | 5K |
 | 13:30 | CAD | Avg hourly wages Permanent employee (Aug) |  |  | 3.0% |

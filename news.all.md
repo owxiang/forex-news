@@ -3,40 +3,35 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | KRW | Low | Current Account (Jul) | 42.08B |  | 49.73B |
-| 23 min | JPY | Moderate | Household Spending (YoY) (Jul) |  | -1.6% | -3.3% |
-| 23 min | JPY | Moderate | Household Spending (MoM) (Jul) |  | 2.6% | -6.4% |
-| 06:00 | JPY | Low | Coincident Indicator (MoM) (Jul) |  |  | 0.6% |
-| 06:00 | JPY | Low | Leading Index (Jul) |  |  | 116.5 |
-| 06:00 | JPY | Low | Leading Index (MoM) (Jul) |  |  | 0.0% |
-| 06:00 | SGD | Low | Retail Sales (YoY) (Jul) |  |  | 4.0% |
-| 06:00 | SGD | Low | Retail Sales (MoM) (Jul) |  |  | 1.0% |
-| 07:00 | EUR | Moderate | German Factory Orders (MoM) (Jul) |  | 0.3% | 3.1% |
-| 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Aug) |  |  | 49.1 |
-| 08:30 | EUR | Low | HCOB Germany Construction PMI (Aug) |  |  | 42.1 |
-| 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Aug) |  |  | 41.5 |
-| 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Aug) |  |  | 44.3 |
-| 09:00 | GBP | Low | Car Registration (YoY) (Aug) |  |  | 11.7% |
-| 09:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Aug) |  |  | 156,571.0 |
-| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Jul) |  | 0.2% | -0.1% |
-| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Jul) |  |  | 3.1% |
-| 09:30 | GBP | Moderate | S&P Global Construction PMI (Aug) |  | 45.8 | 44.7 |
+| 00:30 | JPY | Moderate | Household Spending (YoY) (Jul) | -3.6% | -1.6% | -3.3% |
+| 00:30 | JPY | Moderate | Household Spending (MoM) (Jul) | 0.5% | 2.6% | -6.4% |
+| 07:00 | EUR | Moderate | German Factory Orders (MoM) (Jul) | 2.5% | 0.3% | 3.7% |
+| 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Aug) | 41.7 |  | 49.1 |
+| 08:30 | EUR | Low | HCOB Germany Construction PMI (Aug) | 48.7 |  | 42.1 |
+| 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Aug) | 37.3 |  | 41.5 |
+| 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Aug) | 43.0 |  | 44.3 |
+| 09:00 | GBP | Low | Car Registration (YoY) (Aug) | 13.7% |  | 11.7% |
+| 09:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Aug) | 94,236.0 |  | 156,571.0 |
+| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Jul) | -0.4% | 0.2% | -0.2% |
+| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Jul) | 0.8% |  | 3.1% |
+| 09:30 | GBP | Moderate | S&P Global Construction PMI (Aug) | 44.3 | 45.8 | 44.7 |
 | 09:50 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 10:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Jul) |  | 0.3% | -0.3% |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Jul) |  |  | 0.7% |
+| 10:00 | EUR | Low | Retail Sales (YoY) (Jul) |  | 1.1% | 0.7% |
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 18.3% |
 | 12:30 | INR | Low | Deposit Growth |  |  | 14.7% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 729.33B |
-| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Jun) |  | 1.70% | -0.40% |
+| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Jun) |  | 0.40% | -0.40% |
 | 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jun) |  | 4.80% | 1.10% |
-| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Aug) |  | 3.0% | 3.2% |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Aug) |  | 0.3% | 0.1% |
-| 13:30 | USD | Low | Average Weekly Hours (Aug) |  | 34.4 | 34.3 |
+| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Aug) |  | 3.0% | 3.2% |
+| 13:30 | USD | Low | Average Weekly Hours (Aug) |  | 34.3 | 34.3 |
 | 13:30 | USD | Low | Government Payrolls (Aug) |  |  | -53.0K |
 | 13:30 | USD | Low | Manufacturing Payrolls (Aug) |  | 5K | 5K |
 | 13:30 | USD | High | Nonfarm Payrolls (Aug) |  | 55K | -23K |
 | 13:30 | USD | Moderate | Participation Rate (Aug) |  |  | 61.4% |
-| 13:30 | USD | Moderate | Private Nonfarm Payrolls (Aug) |  | 50K | 30K |
+| 13:30 | USD | Moderate | Private Nonfarm Payrolls (Aug) |  | 45K | 30K |
 | 13:30 | USD | Moderate | U6 Unemployment Rate (Aug) |  |  | 7.9% |
 | 13:30 | USD | High | Unemployment Rate (Aug) |  | 4.1% | 4.1% |
 | 13:30 | CAD | Low | Avg hourly wages Permanent employee (Aug) |  |  | 3.0% |

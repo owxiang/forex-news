@@ -2,15 +2,15 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 23 min | JPY | Household Spending (YoY) (Jul) |  | -1.6% | -3.3% |
-| 23 min | JPY | Household Spending (MoM) (Jul) |  | 2.6% | -6.4% |
-| 07:00 | EUR | German Factory Orders (MoM) (Jul) |  | 0.3% | 3.1% |
-| 09:30 | GBP | S&P Global Construction PMI (Aug) |  | 45.8 | 44.7 |
+| 00:30 | JPY | Household Spending (YoY) (Jul) | -3.6% | -1.6% | -3.3% |
+| 00:30 | JPY | Household Spending (MoM) (Jul) | 0.5% | 2.6% | -6.4% |
+| 07:00 | EUR | German Factory Orders (MoM) (Jul) | 2.5% | 0.3% | 3.7% |
+| 09:30 | GBP | S&P Global Construction PMI (Aug) | 44.3 | 45.8 | 44.7 |
 | 09:50 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 10:00 | EUR | ECB's Lane Speaks |  |  |  |
 | 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Aug) |  | 3.0% | 3.2% |
 | 13:30 | USD | Participation Rate (Aug) |  |  | 61.4% |
-| 13:30 | USD | Private Nonfarm Payrolls (Aug) |  | 50K | 30K |
+| 13:30 | USD | Private Nonfarm Payrolls (Aug) |  | 45K | 30K |
 | 13:30 | USD | U6 Unemployment Rate (Aug) |  |  | 7.9% |
 | 13:30 | CAD | Employment Change (Aug) |  | 15.1K | 75.1K |
 | 13:30 | CAD | Unemployment Rate (Aug) |  | 6.4% | 6.4% |
