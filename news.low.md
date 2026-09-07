@@ -25,8 +25,8 @@
 | 10:00 | EUR | Employment Change (QoQ) (Q2) | 0.1% | 0.1% | 0.1% |
 | 10:00 | EUR | Employment Change (YoY) (Q2) | 0.5% | 0.5% | 0.5% |
 | 10:00 | EUR | Employment Overall (Q2) | 176,448.2K | 176,577.2K | 176,308.0K |
-| 11:00 | CAD | Leading Index (MoM) (Aug) |  |  | 0.14% |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.860% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.533% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.655% |
+| 11:00 | CAD | Leading Index (MoM) (Aug) | 0.13% |  | 0.17% |
+| 14:00 | EUR | French 12-Month BTF Auction | 2.940% |  | 2.860% |
+| 14:00 | EUR | French 3-Month BTF Auction | 2.540% |  | 2.533% |
+| 14:00 | EUR | French 6-Month BTF Auction | 2.720% |  | 2.655% |
 | 23:45 | NZD | Manufacturing Sales Volume (QoQ) (Q2) |  |  | 3.6% |

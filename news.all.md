@@ -31,8 +31,8 @@
 | 10:00 | EUR | Low | Employment Overall (Q2) | 176,448.2K | 176,577.2K | 176,308.0K |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q2) | 0.6% | 0.4% | -0.2% |
 | 10:00 | EUR | Moderate | GDP (YoY) (Q2) | 0.5% | 1.0% | 0.3% |
-| 11:00 | CAD | Low | Leading Index (MoM) (Aug) |  |  | 0.14% |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.860% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.533% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.655% |
+| 11:00 | CAD | Low | Leading Index (MoM) (Aug) | 0.13% |  | 0.17% |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.940% |  | 2.860% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.540% |  | 2.533% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.720% |  | 2.655% |
 | 23:45 | NZD | Low | Manufacturing Sales Volume (QoQ) (Q2) |  |  | 3.6% |
