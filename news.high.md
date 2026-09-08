@@ -1,5 +1,5 @@
-## 08 September 2026 - High Impact Forex News
+## 09 September 2026 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | GDP (QoQ) (Q2) | 0.4% | 0.3% | 0.5% |
+| 18:00 | USD | 10-Year Note Auction |  |  | 4.683% |
