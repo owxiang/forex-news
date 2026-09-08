@@ -1,38 +1,57 @@
-## 07 September 2026 - All Forex News
+## 08 September 2026 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:50 | JPY | Low | Foreign Reserves (USD) (Aug) | 1,207.5B |  | 1,287.1B |
-| 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (Aug) | 2.5% |  | 1.9% |
-| 04:00 | IDR | Low | FX Reserves (USD) (Aug) | 146.50B |  | 145.30B |
-| 06:00 | JPY | Low | Coincident Indicator (MoM) (Jul) | 1.7% |  | 0.6% |
-| 06:00 | JPY | Low | Leading Index (Jul) | 118.1 | 117.9 | 116.2 |
-| 06:00 | JPY | Low | Leading Index (MoM) (Jul) | 1.7% |  | 0.0% |
-| 06:00 | SGD | Low | Retail Sales (YoY) (Jul) | 1.5% |  | 4.0% |
-| 06:00 | SGD | Low | Retail Sales (MoM) (Jul) | 0.9% |  | 0.9% |
-| 07:00 | GBP | Moderate | Lloyds House Price Index (MoM) (Aug) | -0.2% | 0.2% | -0.1% |
-| 07:00 | GBP | Moderate | Lloyds House Price Index (YoY) (Aug) | -0.4% |  | 0.1% |
-| 07:00 | EUR | Moderate | German Industrial Production (MoM) (Jul) | -1.1% | 0.1% | 0.0% |
-| 07:00 | EUR | Low | German Industrial Production (YoY) (Jul) | -1.63% |  | -0.43% |
-| 07:00 | NOK | Low | Manufacturing Production (MoM) (Jul) | 0.7% |  | -1.0% |
-| 07:00 | ZAR | Low | Foreign Reserves (USD) (Aug) | 75.95B |  | 73.45B |
-| 07:00 | ZAR | Low | Net FX Reserves (USD) (Aug) | 73.686B |  | 71.761B |
-| 07:45 | EUR | Low | French Reserve Assets Total (Aug) | 380,694.0M |  | 357,050.0M |
-| 08:00 | CHF | Low | Foreign Reserves (USD) (Aug) | 770.1B |  | 768.1B |
-| 08:00 | CHF | Low | Unemployment Rate n.s.a. (Aug) | 3.0% |  | 3.0% |
-| 08:00 | CHF | Low | Unemployment Rate s.a. (Aug) | 3.1% | 3.1% | 3.1% |
-| 09:00 | CNY | Low | FX Reserves (USD) (Aug) | 3.438T | 3.430T | 3.419T |
-| 09:30 | GBP | Moderate | Mortgage Rate (GBP) (Aug) | 6.58% |  | 6.58% |
-| 09:30 | SGD | Low | Foreign Reserves USD (MoM) (Aug) | 433.0B |  | 427.9B |
-| 09:30 | HKD | Low | Foreign Reserves (USD) (Aug) | 442.90B |  | 447.90B |
-| 09:30 | EUR | Low | Sentix Investor Confidence (Sep) | 5.1 | 2.1 | 0.9 |
-| 10:00 | EUR | Low | Employment Change (QoQ) (Q2) | 0.1% | 0.1% | 0.1% |
-| 10:00 | EUR | Low | Employment Change (YoY) (Q2) | 0.5% | 0.5% | 0.5% |
-| 10:00 | EUR | Low | Employment Overall (Q2) | 176,448.2K | 176,577.2K | 176,308.0K |
-| 10:00 | EUR | Moderate | GDP (QoQ) (Q2) | 0.6% | 0.4% | -0.2% |
-| 10:00 | EUR | Moderate | GDP (YoY) (Q2) | 0.5% | 1.0% | 0.3% |
-| 11:00 | CAD | Low | Leading Index (MoM) (Aug) | 0.13% |  | 0.17% |
-| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.940% |  | 2.860% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.540% |  | 2.533% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.720% |  | 2.655% |
+| 00:00 | KRW | Low | GDP (YoY) (Q2) | 3.7% | 3.7% | 3.6% |
+| 00:00 | KRW | Low | GDP (QoQ) (Q2) | 0.6% | 0.6% | 1.7% |
+| 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Aug) | 0.5% | 1.2% | 1.0% |
+| 00:30 | JPY | Low | Overall wage income of employees (Jul) | 4.7% | 3.9% | 4.0% |
+| 00:30 | JPY | Low | Overtime Pay (YoY) (Jul) | 3.10% | 3.90% | 3.40% |
+| 00:50 | JPY | Moderate | Adjusted Current Account (Jul) | 2.52T | 2.46T | 1.40T |
+| 00:50 | JPY | Low | Bank Lending (YoY) (Aug) | 5.4% | 5.5% | 5.4% |
+| 00:50 | JPY | Moderate | Current Account n.s.a. (Jul) | 2.989T |  | -0.092T |
+| 00:50 | JPY | High | GDP (QoQ) (Q2) | 0.4% | 0.3% | 0.5% |
+| 00:50 | JPY | Moderate | GDP Annualized (QoQ) (Q2) | 1.4% | 1.1% | 1.8% |
+| 00:50 | JPY | Low | GDP Capital Expenditure (QoQ) (Q2) | -0.9% | -1.2% | -0.7% |
+| 00:50 | JPY | Low | GDP External Demand (QoQ) (Q2) | 0.5% | 0.5% | 0.3% |
+| 00:50 | JPY | Moderate | GDP Price Index (YoY) (Q2) | 2.6% | 2.6% | 3.2% |
+| 00:50 | JPY | Low | GDP Private Consumption (QoQ) (Q2) | 0.0% | 0.0% | 0.3% |
+| 01:30 | AUD | Low | Westpac Consumer Sentiment (Sep) | -5.2% |  | 6.0% |
+| 02:30 | AUD | Low | Building Approvals (YoY) (Jul) |  | 9.00% | 8.90% |
+| 02:30 | AUD | Moderate | Building Approvals (MoM) (Jul) |  | -3.6% | 7.2% |
+| 02:30 | AUD | Moderate | NAB Business Confidence (Aug) |  |  | -6 |
+| 02:30 | AUD | Low | NAB Business Survey (Aug) |  |  | 4 |
+| 02:30 | AUD | Low | Private House Approvals |  | -4.2% | 0.8% |
+| 04:00 | CNY | Low | Exports (Aug) |  |  | 17.80M |
+| 04:00 | CNY | Low | Imports (Aug) |  |  | 21.30M |
+| 04:00 | CNY | Low | Trade Balance (Aug) |  | 805.00B | 767.07B |
+| 04:00 | CNY | Moderate | Exports (YoY) (Aug) |  | 25.0% | 23.9% |
+| 04:00 | CNY | Moderate | Imports (YoY) (Aug) |  | 30.0% | 27.5% |
+| 04:00 | CNY | Moderate | Trade Balance (USD) (Aug) |  | 118.60B | 112.50B |
+| 04:35 | JPY | Low | 5-Year JGB Auction |  |  | 2.163% |
+| 06:00 | JPY | Low | Economy Watchers Current Index (Aug) |  | 46.3 | 45.7 |
+| 07:00 | EUR | Low | German Exports (MoM) (Jul) |  | 0.0% | 0.9% |
+| 07:00 | EUR | Low | German Imports (MoM) (Jul) |  |  | 4.4% |
+| 07:00 | EUR | Moderate | German Trade Balance (Jul) |  | 16.0B | 15.4B |
+| 07:45 | EUR | Low | French Current Account (Jul) |  |  | -1.40B |
+| 07:45 | EUR | Low | French Exports (Jul) |  |  | 54.5B |
+| 07:45 | EUR | Low | French Imports (Jul) |  |  | 60.4B |
+| 07:45 | EUR | Low | French Trade Balance (Jul) |  | -6.0B | -5.8B |
+| 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 2.387% |
+| 10:30 | ZAR | Moderate | GDP Annualized (QoQ) (Q2) |  |  | 0.5% |
+| 10:30 | ZAR | Low | GDP (YoY) (Q2) |  |  | 1.9% |
+| 11:00 | USD | Low | NFIB Small Business Optimism (Aug) |  | 99.2 | 99.8 |
+| 11:00 | EUR | Low | Spanish Consumer Confidence (Jul) |  |  | 81.2 |
+| 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Aug) |  |  | -0.86% |
+| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 11.80K |
+| 14:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 14:15 | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
+| 15:00 | USD | Low | CB Employment Trends Index (Aug) |  |  | 107.71 |
+| 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Aug) |  |  | 3.6% |
+| 16:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.770% |
+| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.885% |
+| 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 4.291% |
+| 20:00 | USD | Moderate | Consumer Credit (Jul) |  | 13.20B | 14.17B |
 | 23:45 | NZD | Low | Manufacturing Sales Volume (QoQ) (Q2) |  |  | 3.6% |
