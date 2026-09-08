@@ -28,11 +28,11 @@
 | 09:40 | EUR | Spanish 3-Month Letras Auction | 2.456% |  | 2.387% |
 | 10:00 | ZAR | GDP (YoY) (Q2) | 0.9% |  | 1.9% |
 | 11:00 | USD | NFIB Small Business Optimism (Aug) | 98.7 | 99.4 | 99.8 |
+| 12:00 | BRL | Auto Production (MoM) (Aug) | 6.8% |  | 3.1% |
+| 12:00 | BRL | Auto Sales (MoM) (Aug) | -1.6% |  | 2.6% |
 | 12:00 | BRL | IGP-DI Inflation Index (MoM) (Aug) | 0.06% |  | -0.86% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 14:00 | BRL | Auto Production (MoM) (Aug) |  |  | 3.1% |
-| 14:00 | BRL | Auto Sales (MoM) (Aug) |  |  | 2.6% |
-| 15:00 | USD | CB Employment Trends Index (Aug) |  |  | 107.71 |
-| 16:30 | USD | 3-Month Bill Auction |  |  | 3.770% |
-| 16:30 | USD | 6-Month Bill Auction |  |  | 3.885% |
+| 15:00 | USD | CB Employment Trends Index (Aug) | 108.53 |  | 107.76 |
+| 16:30 | USD | 3-Month Bill Auction | 3.800% |  | 3.770% |
+| 16:30 | USD | 6-Month Bill Auction | 3.890% |  | 3.885% |
 | 23:45 | NZD | Manufacturing Sales Volume (QoQ) (Q2) |  |  | 3.6% |

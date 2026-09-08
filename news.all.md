@@ -41,17 +41,17 @@
 | 10:00 | ZAR | Moderate | GDP Annualized (QoQ) (Q2) | -0.2% |  | 0.5% |
 | 10:00 | ZAR | Low | GDP (YoY) (Q2) | 0.9% |  | 1.9% |
 | 11:00 | USD | Low | NFIB Small Business Optimism (Aug) | 98.7 | 99.4 | 99.8 |
+| 12:00 | BRL | Low | Auto Production (MoM) (Aug) | 6.8% |  | 3.1% |
+| 12:00 | BRL | Low | Auto Sales (MoM) (Aug) | -1.6% |  | 2.6% |
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Aug) | 0.06% |  | -0.86% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 14:00 | BRL | Low | Auto Production (MoM) (Aug) |  |  | 3.1% |
-| 14:00 | BRL | Low | Auto Sales (MoM) (Aug) |  |  | 2.6% |
 | 14:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 14:15 | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
-| 15:00 | USD | Low | CB Employment Trends Index (Aug) |  |  | 107.71 |
-| 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Aug) |  |  | 3.6% |
+| 15:00 | USD | Low | CB Employment Trends Index (Aug) | 108.53 |  | 107.76 |
+| 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Aug) | 3.6% |  | 3.6% |
 | 16:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.770% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.885% |
-| 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 4.291% |
-| 20:00 | USD | Moderate | Consumer Credit (Jul) |  | 11.90B | 14.17B |
+| 16:30 | USD | Low | 3-Month Bill Auction | 3.800% |  | 3.770% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 3.890% |  | 3.885% |
+| 18:00 | USD | Moderate | 3-Year Note Auction | 4.474% |  | 4.291% |
+| 20:00 | USD | Moderate | Consumer Credit (Jul) | 18.06B | 11.90B | 14.56B |
 | 23:45 | NZD | Low | Manufacturing Sales Volume (QoQ) (Q2) |  |  | 3.6% |

@@ -16,7 +16,7 @@
 | 10:00 | ZAR | GDP Annualized (QoQ) (Q2) | -0.2% |  | 0.5% |
 | 14:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 14:15 | GBP | MPC Member Ramsden Speaks |  |  |  |
-| 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Aug) |  |  | 3.6% |
+| 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Aug) | 3.6% |  | 3.6% |
 | 16:00 | EUR | ECB's Elderson Speaks |  |  |  |
-| 18:00 | USD | 3-Year Note Auction |  |  | 4.291% |
-| 20:00 | USD | Consumer Credit (Jul) |  | 11.90B | 14.17B |
+| 18:00 | USD | 3-Year Note Auction | 4.474% |  | 4.291% |
+| 20:00 | USD | Consumer Credit (Jul) | 18.06B | 11.90B | 14.56B |
