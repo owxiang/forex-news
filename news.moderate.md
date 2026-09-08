@@ -13,8 +13,7 @@
 | 03:30 | CNY | Imports (YoY) (Aug) | 28.2% | 30.0% | 27.5% |
 | 03:30 | CNY | Trade Balance (USD) (Aug) | 119.09B | 118.60B | 112.50B |
 | 07:00 | EUR | German Trade Balance (Jul) | 21.3B | 16.0B | 15.4B |
-| 10:30 | ZAR | GDP Annualized (QoQ) (Q2) |  |  | 0.5% |
-| 13:15 | USD | ADP Employment Change Weekly |  |  | 11.80K |
+| 10:00 | ZAR | GDP Annualized (QoQ) (Q2) | -0.2% |  | 0.5% |
 | 14:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 14:15 | GBP | MPC Member Ramsden Speaks |  |  |  |
 | 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Aug) |  |  | 3.6% |

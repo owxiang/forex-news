@@ -31,20 +31,18 @@
 | 04:35 | JPY | Low | 5-Year JGB Auction | 2.239% |  | 2.163% |
 | 06:00 | JPY | Low | Economy Watchers Current Index (Aug) | 46.4 | 46.3 | 45.7 |
 | 07:00 | EUR | Low | German Exports (MoM) (Jul) | -0.8% | 0.0% | 0.9% |
-| 07:00 | EUR | Low | German Imports (MoM) (Jul) | -5.7% |  | 4.4% |
+| 07:00 | EUR | Low | German Imports (MoM) (Jul) | -5.7% |  | 4.5% |
 | 07:00 | EUR | Moderate | German Trade Balance (Jul) | 21.3B | 16.0B | 15.4B |
 | 07:45 | EUR | Low | French Current Account (Jul) | -4.70B |  | -1.60B |
 | 07:45 | EUR | Low | French Exports (Jul) | 54.7B |  | 54.5B |
 | 07:45 | EUR | Low | French Imports (Jul) | 61.3B |  | 60.2B |
 | 07:45 | EUR | Low | French Trade Balance (Jul) | -6.7B | -6.0B | -5.8B |
-| 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 2.387% |
-| 10:30 | ZAR | Moderate | GDP Annualized (QoQ) (Q2) |  |  | 0.5% |
-| 10:30 | ZAR | Low | GDP (YoY) (Q2) |  |  | 1.9% |
-| 11:00 | USD | Low | NFIB Small Business Optimism (Aug) |  | 99.4 | 99.8 |
-| 11:00 | EUR | Low | Spanish Consumer Confidence (Jul) |  |  | 81.2 |
-| 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Aug) |  |  | -0.86% |
+| 09:40 | EUR | Low | Spanish 3-Month Letras Auction | 2.456% |  | 2.387% |
+| 10:00 | ZAR | Moderate | GDP Annualized (QoQ) (Q2) | -0.2% |  | 0.5% |
+| 10:00 | ZAR | Low | GDP (YoY) (Q2) | 0.9% |  | 1.9% |
+| 11:00 | USD | Low | NFIB Small Business Optimism (Aug) | 98.7 | 99.4 | 99.8 |
+| 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Aug) | 0.06% |  | -0.86% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 11.80K |
 | 14:00 | BRL | Low | Auto Production (MoM) (Aug) |  |  | 3.1% |
 | 14:00 | BRL | Low | Auto Sales (MoM) (Aug) |  |  | 2.6% |
 | 14:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
