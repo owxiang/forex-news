@@ -1,32 +1,51 @@
-## 09 September 2026 - Low Impact Forex News
+## 10 September 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Unemployment Rate (Aug) | 2.7% |  | 2.8% |
-| 00:00 | JPY | Reuters Tankan Index (Sep) | 21 |  | 18 |
-| 00:50 | JPY | M2 Money Stock (YoY) | 2.0% | 2.2% | 2.1% |
-| 00:50 | JPY | M3 Money Supply (Aug) | 2,337.3B |  | 2,333.7B |
-| 01:20 | IDR | Car Sales (YoY) (Aug) | 32.40% |  | 33.30% |
-| 01:20 | IDR | Motorbike Sales (YoY) (Aug) | 3.18% |  | 8.30% |
-| 04:00 | IDR | Consumer Confidence (Jul) | 118.5 |  | 116.8 |
-| 07:00 | JPY | Machine Tool Orders (YoY) | 64.7% |  | 50.4% |
-| 07:00 | NOK | PPI (YoY) (Aug) | 30.1% |  | 23.4% |
-| 07:45 | EUR | French Industrial Production (MoM) (Jul) | -0.4% | 0.2% | -0.1% |
-| 10:10 | EUR | Italian 12-Month BOT Auction | 2.967% |  | 2.768% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.85% |  | 6.79% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) | -2.7% |  | 0.8% |
-| 12:00 | USD | MBA Purchase Index | 157.5 |  | 157.8 |
-| 12:00 | USD | Mortgage Market Index | 240.6 |  | 247.3 |
-| 12:00 | USD | Mortgage Refinance Index | 687.3 |  | 732.6 |
-| 13:00 | MXN | Core CPI (MoM) (Aug) | 0.16% | 0.20% | 0.23% |
-| 13:00 | MXN | CPI (YoY) (Aug) | 3.26% | 3.30% | 3.12% |
-| 13:00 | MXN | CPI (MoM) (Aug) | 0.20% | 0.25% | 0.03% |
-| 13:00 | MXN | Month Core Inflation (YoY) (Aug) | 3.88% | 3.93% | 3.95% |
-| 13:00 | MXN | PPI (MoM) (Aug) | 0.10% |  | -0.10% |
-| 13:00 | MXN | PPI (YoY) (Aug) | 3.00% |  | 2.60% |
-| 13:55 | USD | Redbook (YoY) | 8.3% |  | 9.6% |
-| 16:00 | USD | Thomson Reuters IPSOS PCSI (Sep) | 50.45 |  | 49.38 |
-| 16:00 | CAD | Thomson Reuters IPSOS PCSI (Sep) | 47.35 |  | 48.19 |
-| 16:00 | MXN | Thomson Reuters IPSOS PCSI (Sep) | 50.84 |  | 52.77 |
-| 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Sep) | 52.17 |  | 53.38 |
-| 18:30 | BRL | Foreign Exchange Flows | -7.511B |  | -0.542B |
+| 00:50 | JPY | Foreign Bonds Buying |  |  | -824.0B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 35.8B |
+| 02:00 | AUD | MI Inflation Expectations (Sep) |  |  | 4.9% |
+| 04:00 | IDR | Retail Sales (YoY) (Jul) |  |  | -3.0% |
+| 07:00 | EUR | German HICP (MoM) (Aug) |  | 0.2% | 0.9% |
+| 07:00 | EUR | German HICP (YoY) (Aug) |  | 2.9% | 2.8% |
+| 07:00 | NOK | Core CPI YTD (Aug) |  | 3.0% | 2.7% |
+| 07:00 | NOK | Core Inflation (MoM) (Aug) |  | -0.4% | 0.8% |
+| 07:00 | NOK | CPI (MoM) (Aug) |  |  | 1.0% |
+| 07:00 | NOK | CPI (YoY) (Aug) |  | 3.2% | 3.0% |
+| 08:00 | EUR | Spanish Industrial Production (YoY) (Jul) |  |  | 1.1% |
+| 09:00 | EUR | Italian Industrial Production (MoM) (Jul) |  | 0.3% | -1.0% |
+| 09:00 | EUR | Italian Industrial Production (YoY) (Jul) |  | -0.6% | -0.6% |
+| 10:00 | ZAR | Current Account (Q2) |  |  | 190.7B |
+| 10:00 | ZAR | Current Account % of GDP (Q2) |  |  | 2.40% |
+| 10:30 | EUR | Italian 3-Year BTP Auction |  |  | 2.98% |
+| 10:30 | ZAR | Gold Production (YoY) (Jul) |  |  | 6.2% |
+| 10:30 | ZAR | Mining Production (Jul) |  |  | -4.0% |
+| 11:00 | GBP | Thomson Reuters IPSOS PCSI (Sep) |  |  | 47.1 |
+| 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Sep) |  |  | 44.33 |
+| 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Sep) |  |  | 42.13 |
+| 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Sep) |  |  | 41.08 |
+| 11:00 | EUR | Thomson Reuters IPSOS PCSI (Sep) |  |  | 48.47 |
+| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (Sep) |  |  | 50.14 |
+| 12:00 | ZAR | Manufacturing Production (MoM) (Jul) |  |  | 0.9% |
+| 12:00 | ZAR | Manufacturing Production (YoY) (Jul) |  |  | -1.7% |
+| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Jul) |  |  | 0.0% |
+| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Jul) |  |  | 2.0% |
+| 13:30 | USD | Core PPI (YoY) (Aug) |  | 4.6% | 4.2% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 207.25K |
+| 13:30 | USD | PPI (YoY) (Aug) |  |  | 4.7% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Aug) |  |  | 4.7% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Aug) |  |  | 0.4% |
+| 15:00 | USD | Wholesale Inventories (MoM) (Jul) |  | 1.3% | 0.2% |
+| 15:00 | USD | Wholesale Trade Sales (MoM) (Jul) |  |  | -3.0% |
+| 15:30 | USD | Natural Gas Storage |  |  | 30B |
+| 16:30 | USD | 4-Week Bill Auction |  |  | 3.700% |
+| 16:30 | USD | 8-Week Bill Auction |  |  | 3.750% |
+| 17:00 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.103M |
+| 17:00 | USD | Crude Oil Imports |  |  | -0.079M |
+| 17:00 | USD | Distillate Fuel Production |  |  | -0.009M |
+| 17:00 | USD | EIA Weekly Distillates Stocks |  |  | 0.796M |
+| 17:00 | USD | Gasoline Production |  |  | 0.073M |
+| 17:00 | USD | Heating Oil Stockpiles |  |  | -0.033M |
+| 17:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.6% |
+| 17:00 | USD | Gasoline Inventories |  |  | -1.173M |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.929T |
