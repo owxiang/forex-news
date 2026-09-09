@@ -4,9 +4,11 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | KRW | Unemployment Rate (Aug) | 2.7% |  | 2.8% |
 | 00:00 | JPY | Reuters Tankan Index (Sep) | 21 |  | 18 |
-| 00:50 | JPY | M2 Money Stock (YoY) |  | 2.2% | 2.2% |
-| 00:50 | JPY | M3 Money Supply (Aug) |  |  | 2,330.6B |
-| 04:00 | IDR | Consumer Confidence (Aug) |  |  | 116.8 |
+| 00:50 | JPY | M2 Money Stock (YoY) | 2.0% | 2.2% | 2.1% |
+| 00:50 | JPY | M3 Money Supply (Aug) | 2,337.3B |  | 2,333.7B |
+| 04:00 | IDR | Consumer Confidence (Jul) | 118.5 |  | 116.8 |
+| 04:00 | IDR | Motorbike Sales (YoY) (Aug) | 3.18% |  | 8.30% |
+| 05:00 | IDR | Car Sales (YoY) (Aug) | 32.40% |  | 33.30% |
 | 07:00 | JPY | Machine Tool Orders (YoY) |  |  | 50.4% |
 | 07:00 | NOK | PPI (YoY) (Aug) |  |  | 23.4% |
 | 07:45 | EUR | French Industrial Production (MoM) (Jul) |  | 0.2% | 0.1% |
@@ -18,8 +20,8 @@
 | 12:00 | USD | Mortgage Refinance Index |  |  | 732.6 |
 | 12:30 | INR | M3 Money Supply |  |  | 14.2% |
 | 13:00 | MXN | Core CPI (MoM) (Aug) |  | 0.20% | 0.23% |
-| 13:00 | MXN | CPI (YoY) (Aug) |  | 3.30% | 3.12% |
 | 13:00 | MXN | CPI (MoM) (Aug) |  | 0.25% | 0.03% |
+| 13:00 | MXN | CPI (YoY) (Aug) |  | 3.30% | 3.12% |
 | 13:00 | MXN | Month Core Inflation (YoY) (Aug) |  | 3.93% | 3.95% |
 | 13:00 | MXN | PPI (MoM) (Aug) |  |  | 0.00% |
 | 13:00 | MXN | PPI (YoY) (Aug) |  |  | 2.60% |
