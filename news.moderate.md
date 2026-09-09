@@ -5,9 +5,9 @@
 | 02:30 | CNY | CPI (YoY) (Aug) | 0.8% | 0.8% | 0.5% |
 | 02:30 | CNY | CPI (MoM) (Aug) | 0.4% | 0.3% | -0.1% |
 | 02:30 | CNY | PPI (YoY) (Aug) | 3.8% | 3.6% | 3.5% |
-| 10:30 | EUR | German 10-Year Bund Auction |  |  | 3.260% |
-| 13:15 | USD | ADP Employment Change Weekly |  |  | 11.80K |
-| 13:15 | USD | ADP Employment Change Weekly |  |  | 11.80K |
+| 10:30 | EUR | German 10-Year Bund Auction | 3.390% |  | 3.260% |
+| 13:14 | USD | ADP Employment Change Weekly | 10.00K |  | 11.80K |
+| 13:15 | USD | ADP Employment Change Weekly | 12.00K |  | 10.00K |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 18:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 18:00 | EUR | ECB President Lagarde Speaks |  |  |  |

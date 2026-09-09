@@ -15,22 +15,22 @@
 | 07:00 | JPY | Low | Machine Tool Orders (YoY) | 64.7% |  | 50.4% |
 | 07:00 | NOK | Low | PPI (YoY) (Aug) | 30.1% |  | 23.4% |
 | 07:45 | EUR | Low | French Industrial Production (MoM) (Jul) | -0.4% | 0.2% | -0.1% |
-| 10:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.768% |
-| 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 3.260% |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.79% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 0.8% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 157.8 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 247.3 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 732.6 |
-| 13:00 | MXN | Low | Core CPI (MoM) (Aug) |  | 0.20% | 0.23% |
-| 13:00 | MXN | Low | CPI (YoY) (Aug) |  | 3.30% | 3.12% |
-| 13:00 | MXN | Low | CPI (MoM) (Aug) |  | 0.25% | 0.03% |
-| 13:00 | MXN | Low | Month Core Inflation (YoY) (Aug) |  | 3.93% | 3.95% |
-| 13:00 | MXN | Low | PPI (MoM) (Aug) |  |  | 0.00% |
-| 13:00 | MXN | Low | PPI (YoY) (Aug) |  |  | 2.60% |
-| 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 11.80K |
-| 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 11.80K |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 9.6% |
+| 10:10 | EUR | Low | Italian 12-Month BOT Auction | 2.967% |  | 2.768% |
+| 10:30 | EUR | Moderate | German 10-Year Bund Auction | 3.390% |  | 3.260% |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.85% |  | 6.79% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | -2.7% |  | 0.8% |
+| 12:00 | USD | Low | MBA Purchase Index | 157.5 |  | 157.8 |
+| 12:00 | USD | Low | Mortgage Market Index | 240.6 |  | 247.3 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 687.3 |  | 732.6 |
+| 13:00 | MXN | Low | Core CPI (MoM) (Aug) | 0.16% | 0.20% | 0.23% |
+| 13:00 | MXN | Low | CPI (YoY) (Aug) | 3.26% | 3.30% | 3.12% |
+| 13:00 | MXN | Low | CPI (MoM) (Aug) | 0.20% | 0.25% | 0.03% |
+| 13:00 | MXN | Low | Month Core Inflation (YoY) (Aug) | 3.88% | 3.93% | 3.95% |
+| 13:00 | MXN | Low | PPI (MoM) (Aug) | 0.10% |  | -0.10% |
+| 13:00 | MXN | Low | PPI (YoY) (Aug) | 3.00% |  | 2.60% |
+| 13:14 | USD | Moderate | ADP Employment Change Weekly | 10.00K |  | 11.80K |
+| 13:15 | USD | Moderate | ADP Employment Change Weekly | 12.00K |  | 10.00K |
+| 13:55 | USD | Low | Redbook (YoY) | 8.3% |  | 9.6% |
 | 16:00 | USD | Low | Thomson Reuters IPSOS PCSI (Sep) |  |  | 49.38 |
 | 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (Sep) |  |  | 48.19 |
 | 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (Sep) |  |  | 52.77 |
