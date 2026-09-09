@@ -25,8 +25,8 @@
 | 13:00 | MXN | PPI (MoM) (Aug) | 0.10% |  | -0.10% |
 | 13:00 | MXN | PPI (YoY) (Aug) | 3.00% |  | 2.60% |
 | 13:55 | USD | Redbook (YoY) | 8.3% |  | 9.6% |
-| 16:00 | USD | Thomson Reuters IPSOS PCSI (Sep) |  |  | 49.38 |
-| 16:00 | CAD | Thomson Reuters IPSOS PCSI (Sep) |  |  | 48.19 |
-| 16:00 | MXN | Thomson Reuters IPSOS PCSI (Sep) |  |  | 52.77 |
-| 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Sep) |  |  | 53.38 |
-| 18:30 | BRL | Foreign Exchange Flows |  |  | -0.542B |
+| 16:00 | USD | Thomson Reuters IPSOS PCSI (Sep) | 50.45 |  | 49.38 |
+| 16:00 | CAD | Thomson Reuters IPSOS PCSI (Sep) | 47.35 |  | 48.19 |
+| 16:00 | MXN | Thomson Reuters IPSOS PCSI (Sep) | 50.84 |  | 52.77 |
+| 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Sep) | 52.17 |  | 53.38 |
+| 18:30 | BRL | Foreign Exchange Flows | -7.511B |  | -0.542B |
