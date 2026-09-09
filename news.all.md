@@ -6,15 +6,15 @@
 | 00:00 | JPY | Low | Reuters Tankan Index (Sep) | 21 |  | 18 |
 | 00:50 | JPY | Low | M2 Money Stock (YoY) | 2.0% | 2.2% | 2.1% |
 | 00:50 | JPY | Low | M3 Money Supply (Aug) | 2,337.3B |  | 2,333.7B |
+| 01:20 | IDR | Low | Car Sales (YoY) (Aug) | 32.40% |  | 33.30% |
+| 01:20 | IDR | Low | Motorbike Sales (YoY) (Aug) | 3.18% |  | 8.30% |
 | 02:30 | CNY | Moderate | CPI (YoY) (Aug) | 0.8% | 0.8% | 0.5% |
 | 02:30 | CNY | Moderate | CPI (MoM) (Aug) | 0.4% | 0.3% | -0.1% |
 | 02:30 | CNY | Moderate | PPI (YoY) (Aug) | 3.8% | 3.6% | 3.5% |
 | 04:00 | IDR | Low | Consumer Confidence (Jul) | 118.5 |  | 116.8 |
-| 04:00 | IDR | Low | Motorbike Sales (YoY) (Aug) | 3.18% |  | 8.30% |
-| 05:00 | IDR | Low | Car Sales (YoY) (Aug) | 32.40% |  | 33.30% |
-| 07:00 | JPY | Low | Machine Tool Orders (YoY) |  |  | 50.4% |
-| 07:00 | NOK | Low | PPI (YoY) (Aug) |  |  | 23.4% |
-| 07:45 | EUR | Low | French Industrial Production (MoM) (Jul) |  | 0.2% | 0.1% |
+| 07:00 | JPY | Low | Machine Tool Orders (YoY) | 64.7% |  | 50.4% |
+| 07:00 | NOK | Low | PPI (YoY) (Aug) | 30.1% |  | 23.4% |
+| 07:45 | EUR | Low | French Industrial Production (MoM) (Jul) | -0.4% | 0.2% | -0.1% |
 | 10:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.768% |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 3.260% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.79% |
@@ -22,10 +22,9 @@
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 157.8 |
 | 12:00 | USD | Low | Mortgage Market Index |  |  | 247.3 |
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 732.6 |
-| 12:30 | INR | Low | M3 Money Supply |  |  | 14.2% |
 | 13:00 | MXN | Low | Core CPI (MoM) (Aug) |  | 0.20% | 0.23% |
-| 13:00 | MXN | Low | CPI (MoM) (Aug) |  | 0.25% | 0.03% |
 | 13:00 | MXN | Low | CPI (YoY) (Aug) |  | 3.30% | 3.12% |
+| 13:00 | MXN | Low | CPI (MoM) (Aug) |  | 0.25% | 0.03% |
 | 13:00 | MXN | Low | Month Core Inflation (YoY) (Aug) |  | 3.93% | 3.95% |
 | 13:00 | MXN | Low | PPI (MoM) (Aug) |  |  | 0.00% |
 | 13:00 | MXN | Low | PPI (YoY) (Aug) |  |  | 2.60% |
