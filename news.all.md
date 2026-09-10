@@ -50,26 +50,26 @@
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Aug) | 4.7% |  | 4.7% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Aug) | 0.3% |  | 0.4% |
 | 13:45 | EUR | High | ECB Press Conference |  |  |  |
-| 15:00 | USD | High | Existing Home Sales (Aug) |  | 3.98M | 4.06M |
-| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Aug) |  |  | -1.7% |
-| 15:00 | USD | Low | Wholesale Inventories (MoM) (Jul) |  | 1.3% | 0.2% |
-| 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Jul) |  |  | -3.0% |
+| 14:20 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 4.4% | 4.7% | 4.7% |
+| 15:00 | USD | High | Existing Home Sales (Aug) | 3.98M | 3.98M | 4.06M |
+| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Aug) | -2.0% |  | -1.7% |
+| 15:00 | USD | Low | Wholesale Inventories (MoM) (Jul) | 1.3% | 1.2% | 0.4% |
+| 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Jul) | 0.8% |  | -2.9% |
 | 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 15:30 | USD | Low | Natural Gas Storage |  | 35B | 30B |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.700% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.750% |
-| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 4.7% | 4.7% |
-| 17:00 | USD | High | Crude Oil Inventories |  | -1.400M | -4.450M |
-| 17:00 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.103M |
-| 17:00 | USD | Low | Crude Oil Imports |  |  | -0.079M |
-| 17:00 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.080M |
-| 17:00 | USD | Low | Distillate Fuel Production |  |  | -0.009M |
-| 17:00 | USD | Low | EIA Weekly Distillates Stocks |  |  | 0.796M |
-| 17:00 | USD | Low | Gasoline Production |  |  | 0.073M |
-| 17:00 | USD | Low | Heating Oil Stockpiles |  |  | -0.033M |
-| 17:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.6% |
-| 17:00 | USD | Low | Gasoline Inventories |  |  | -1.173M |
-| 18:01 | USD | High | 30-Year Bond Auction |  |  | 5.216% |
+| 15:30 | USD | Low | Natural Gas Storage | 40B | 35B | 30B |
+| 16:30 | USD | Low | 4-Week Bill Auction | 3.775% |  | 3.700% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 3.845% |  | 3.750% |
+| 17:00 | USD | High | Crude Oil Inventories | -0.391M | -1.400M | -4.450M |
+| 17:00 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.090M |  | 0.103M |
+| 17:00 | USD | Low | Crude Oil Imports | 1.120M |  | -0.079M |
+| 17:00 | USD | Moderate | Cushing Crude Oil Inventories | -0.684M |  | 0.080M |
+| 17:00 | USD | Low | Distillate Fuel Production | 0.222M |  | -0.009M |
+| 17:00 | USD | Low | EIA Weekly Distillates Stocks | 2.087M | -0.700M | 0.796M |
+| 17:00 | USD | Low | Gasoline Production | -0.537M |  | 0.073M |
+| 17:00 | USD | Low | Heating Oil Stockpiles | 0.010M |  | -0.033M |
+| 17:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -0.2% |  | 0.6% |
+| 17:00 | USD | Low | Gasoline Inventories | 1.269M | -1.400M | -1.173M |
+| 18:01 | USD | High | 30-Year Bond Auction | 5.308% |  | 5.216% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,737B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.929T |
 | 23:30 | NZD | Moderate | Business NZ PMI (Aug) |  |  | 54.3 |

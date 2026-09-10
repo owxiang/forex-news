@@ -37,17 +37,17 @@
 | 13:30 | USD | PPI (YoY) (Aug) | 5.4% | 5.3% | 4.8% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Aug) | 4.7% |  | 4.7% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Aug) | 0.3% |  | 0.4% |
-| 15:00 | USD | Wholesale Inventories (MoM) (Jul) |  | 1.3% | 0.2% |
-| 15:00 | USD | Wholesale Trade Sales (MoM) (Jul) |  |  | -3.0% |
-| 15:30 | USD | Natural Gas Storage |  | 35B | 30B |
-| 16:30 | USD | 4-Week Bill Auction |  |  | 3.700% |
-| 16:30 | USD | 8-Week Bill Auction |  |  | 3.750% |
-| 17:00 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.103M |
-| 17:00 | USD | Crude Oil Imports |  |  | -0.079M |
-| 17:00 | USD | Distillate Fuel Production |  |  | -0.009M |
-| 17:00 | USD | EIA Weekly Distillates Stocks |  |  | 0.796M |
-| 17:00 | USD | Gasoline Production |  |  | 0.073M |
-| 17:00 | USD | Heating Oil Stockpiles |  |  | -0.033M |
-| 17:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.6% |
-| 17:00 | USD | Gasoline Inventories |  |  | -1.173M |
+| 15:00 | USD | Wholesale Inventories (MoM) (Jul) | 1.3% | 1.2% | 0.4% |
+| 15:00 | USD | Wholesale Trade Sales (MoM) (Jul) | 0.8% |  | -2.9% |
+| 15:30 | USD | Natural Gas Storage | 40B | 35B | 30B |
+| 16:30 | USD | 4-Week Bill Auction | 3.775% |  | 3.700% |
+| 16:30 | USD | 8-Week Bill Auction | 3.845% |  | 3.750% |
+| 17:00 | USD | EIA Refinery Crude Runs (WoW) | 0.090M |  | 0.103M |
+| 17:00 | USD | Crude Oil Imports | 1.120M |  | -0.079M |
+| 17:00 | USD | Distillate Fuel Production | 0.222M |  | -0.009M |
+| 17:00 | USD | EIA Weekly Distillates Stocks | 2.087M | -0.700M | 0.796M |
+| 17:00 | USD | Gasoline Production | -0.537M |  | 0.073M |
+| 17:00 | USD | Heating Oil Stockpiles | 0.010M |  | -0.033M |
+| 17:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.2% |  | 0.6% |
+| 17:00 | USD | Gasoline Inventories | 1.269M | -1.400M | -1.173M |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.929T |
