@@ -50,4 +50,4 @@
 | 17:00 | USD | Heating Oil Stockpiles | 0.010M |  | -0.033M |
 | 17:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.2% |  | 0.6% |
 | 17:00 | USD | Gasoline Inventories | 1.269M | -1.400M | -1.173M |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.929T |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.036T |  | 2.929T |

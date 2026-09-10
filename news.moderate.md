@@ -12,5 +12,5 @@
 | 15:00 | USD | Existing Home Sales (MoM) (Aug) | -2.0% |  | -1.7% |
 | 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 17:00 | USD | Cushing Crude Oil Inventories | -0.684M |  | 0.080M |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 6,737B |
+| 21:30 | USD | Fed's Balance Sheet | 6,741B |  | 6,737B |
 | 23:30 | NZD | Business NZ PMI (Aug) |  |  | 54.3 |

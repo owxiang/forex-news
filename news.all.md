@@ -70,6 +70,6 @@
 | 17:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -0.2% |  | 0.6% |
 | 17:00 | USD | Low | Gasoline Inventories | 1.269M | -1.400M | -1.173M |
 | 18:01 | USD | High | 30-Year Bond Auction | 5.308% |  | 5.216% |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,737B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.929T |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,741B |  | 6,737B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.036T |  | 2.929T |
 | 23:30 | NZD | Moderate | Business NZ PMI (Aug) |  |  | 54.3 |
