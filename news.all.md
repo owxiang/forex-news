@@ -2,22 +2,22 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:01 | GBP | Moderate | RICS House Price Balance (Aug) | -28% |  | -30% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | 111.9B |  | -824.0B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 690.0B |  | 35.9B |
 | 02:00 | AUD | Low | MI Inflation Expectations (Sep) | 4.9% |  | 4.9% |
+| 02:15 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 04:00 | IDR | Low | Retail Sales (YoY) (Jul) | 1.1% |  | -3.0% |
-| 07:00 | EUR | High | German CPI (MoM) (Aug) |  | 0.2% | 0.8% |
-| 07:00 | EUR | Moderate | German CPI (YoY) (Aug) |  | 2.9% | 2.8% |
-| 07:00 | EUR | Low | German HICP (MoM) (Aug) |  | 0.2% | 0.9% |
-| 07:00 | EUR | Low | German HICP (YoY) (Aug) |  | 2.9% | 2.8% |
-| 07:00 | NOK | Low | Core CPI YTD (Aug) |  | 3.0% | 2.7% |
-| 07:00 | NOK | Low | Core Inflation (MoM) (Aug) |  | -0.4% | 0.8% |
-| 07:00 | NOK | Low | CPI (MoM) (Aug) |  |  | 1.0% |
-| 07:00 | NOK | Low | CPI (YoY) (Aug) |  | 3.2% | 3.0% |
-| 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Jul) |  |  | 1.1% |
-| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Jul) |  | 0.3% | -1.0% |
-| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Jul) |  | -0.6% | -0.6% |
+| 07:00 | EUR | High | German CPI (MoM) (Aug) | 0.2% | 0.2% | 0.8% |
+| 07:00 | EUR | Moderate | German CPI (YoY) (Aug) | 2.9% | 2.9% | 2.8% |
+| 07:00 | EUR | Low | German HICP (MoM) (Aug) | 0.2% | 0.2% | 0.9% |
+| 07:00 | EUR | Low | German HICP (YoY) (Aug) | 2.9% | 2.9% | 2.8% |
+| 07:00 | NOK | Low | Core CPI YTD (Aug) | 3.0% | 3.0% | 2.7% |
+| 07:00 | NOK | Low | Core Inflation (MoM) (Aug) | -0.5% | -0.4% | 0.8% |
+| 07:00 | NOK | Low | CPI (MoM) (Aug) | -0.3% |  | 1.0% |
+| 07:00 | NOK | Low | CPI (YoY) (Aug) | 3.3% | 3.2% | 3.0% |
+| 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Jul) | 2.3% |  | 1.1% |
+| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Jul) | 0.7% | 0.3% | -1.1% |
+| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Jul) | 0.0% | -0.6% | -0.6% |
 | 10:00 | ZAR | Low | Current Account (Q2) |  |  | 190.7B |
 | 10:00 | ZAR | Low | Current Account % of GDP (Q2) |  |  | 2.40% |
 | 10:30 | EUR | Low | Italian 3-Year BTP Auction |  |  | 2.98% |
@@ -44,7 +44,7 @@
 | 13:30 | USD | High | Initial Jobless Claims |  | 205K | 206K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 207.25K |
 | 13:30 | USD | High | PPI (MoM) (Aug) |  | 0.4% | 0.0% |
-| 13:30 | USD | Low | PPI (YoY) (Aug) |  |  | 4.7% |
+| 13:30 | USD | Low | PPI (YoY) (Aug) |  | 5.3% | 4.7% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Aug) |  |  | 4.7% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Aug) |  |  | 0.4% |
 | 13:45 | EUR | High | ECB Press Conference |  |  |  |
@@ -52,11 +52,12 @@
 | 15:00 | USD | Moderate | Existing Home Sales (MoM) (Aug) |  |  | -1.7% |
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (Jul) |  | 1.3% | 0.2% |
 | 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Jul) |  |  | -3.0% |
-| 15:30 | USD | Low | Natural Gas Storage |  |  | 30B |
+| 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 15:30 | USD | Low | Natural Gas Storage |  | 35B | 30B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.700% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.750% |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 4.7% | 4.7% |
-| 17:00 | USD | High | Crude Oil Inventories |  |  | -4.450M |
+| 17:00 | USD | High | Crude Oil Inventories |  | -1.400M | -4.450M |
 | 17:00 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.103M |
 | 17:00 | USD | Low | Crude Oil Imports |  |  | -0.079M |
 | 17:00 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.080M |
