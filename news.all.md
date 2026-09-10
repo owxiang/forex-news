@@ -3,10 +3,10 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Moderate | RICS House Price Balance (Aug) | -28% |  | -30% |
-| 00:50 | JPY | Low | Foreign Bonds Buying |  |  | -824.0B |
-| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 35.8B |
-| 02:00 | AUD | Low | MI Inflation Expectations (Sep) |  |  | 4.9% |
-| 04:00 | IDR | Low | Retail Sales (YoY) (Jul) |  |  | -3.0% |
+| 00:50 | JPY | Low | Foreign Bonds Buying | 111.9B |  | -824.0B |
+| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 690.0B |  | 35.9B |
+| 02:00 | AUD | Low | MI Inflation Expectations (Sep) | 4.9% |  | 4.9% |
+| 04:00 | IDR | Low | Retail Sales (YoY) (Jul) | 1.1% |  | -3.0% |
 | 07:00 | EUR | High | German CPI (MoM) (Aug) |  | 0.2% | 0.8% |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Aug) |  | 2.9% | 2.8% |
 | 07:00 | EUR | Low | German HICP (MoM) (Aug) |  | 0.2% | 0.9% |

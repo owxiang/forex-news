@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Foreign Bonds Buying |  |  | -824.0B |
-| 00:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 35.8B |
-| 02:00 | AUD | MI Inflation Expectations (Sep) |  |  | 4.9% |
-| 04:00 | IDR | Retail Sales (YoY) (Jul) |  |  | -3.0% |
+| 00:50 | JPY | Foreign Bonds Buying | 111.9B |  | -824.0B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks | 690.0B |  | 35.9B |
+| 02:00 | AUD | MI Inflation Expectations (Sep) | 4.9% |  | 4.9% |
+| 04:00 | IDR | Retail Sales (YoY) (Jul) | 1.1% |  | -3.0% |
 | 07:00 | EUR | German HICP (MoM) (Aug) |  | 0.2% | 0.9% |
 | 07:00 | EUR | German HICP (YoY) (Aug) |  | 2.9% | 2.8% |
 | 07:00 | NOK | Core CPI YTD (Aug) |  | 3.0% | 2.7% |
