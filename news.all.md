@@ -13,40 +13,42 @@
 | 07:00 | EUR | Low | German HICP (YoY) (Aug) | 2.9% | 2.9% | 2.8% |
 | 07:00 | NOK | Low | Core CPI YTD (Aug) | 3.0% | 3.0% | 2.7% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Aug) | -0.5% | -0.4% | 0.8% |
-| 07:00 | NOK | Low | CPI (MoM) (Aug) | -0.3% |  | 1.0% |
 | 07:00 | NOK | Low | CPI (YoY) (Aug) | 3.3% | 3.2% | 3.0% |
+| 07:00 | NOK | Low | CPI (MoM) (Aug) | -0.3% |  | 1.0% |
 | 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Jul) | 2.3% |  | 1.1% |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Jul) | 0.7% | 0.3% | -1.1% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Jul) | 0.0% | -0.6% | -0.6% |
-| 10:00 | ZAR | Low | Current Account (Q2) |  |  | 190.7B |
-| 10:00 | ZAR | Low | Current Account % of GDP (Q2) |  |  | 2.40% |
-| 10:30 | EUR | Low | Italian 3-Year BTP Auction |  |  | 2.98% |
-| 10:30 | ZAR | Low | Gold Production (YoY) (Jul) |  |  | 6.2% |
-| 10:30 | ZAR | Low | Mining Production (Jul) |  |  | -4.0% |
-| 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Sep) |  |  | 47.1 |
+| 10:00 | ZAR | Low | Current Account (Q2) | -205.5B |  | 181.6B |
+| 10:00 | ZAR | Low | Current Account % of GDP (Q2) | -2.60% |  | 2.30% |
+| 10:30 | GBP | Low | 5-Year Treasury Gilt Auction | 4.786% |  | 4.613% |
+| 10:30 | EUR | Low | Italian 3-Year BTP Auction | 3.43% |  | 2.98% |
+| 10:30 | EUR | Low | Italian 7-Year BTP Auction | 3.98% |  | 2.89% |
+| 10:30 | ZAR | Low | Gold Production (YoY) (Jul) | -7.4% |  | 6.2% |
+| 10:30 | ZAR | Low | Mining Production (Jul) | -7.5% |  | -4.3% |
+| 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Sep) | 48.3 |  | 47.1 |
 | 11:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
-| 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Sep) |  |  | 44.33 |
-| 11:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Sep) |  |  | 42.13 |
-| 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Sep) |  |  | 41.08 |
-| 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (Sep) |  |  | 48.47 |
-| 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (Sep) |  |  | 50.14 |
-| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Jul) |  |  | 0.9% |
-| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Jul) |  |  | -1.7% |
-| 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Jul) |  |  | 0.0% |
-| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Jul) |  |  | 2.0% |
-| 13:15 | EUR | High | Deposit Facility Rate (Sep) |  | 2.50% | 2.25% |
-| 13:15 | EUR | Moderate | ECB Marginal Lending Facility |  |  | 2.65% |
+| 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Sep) | 42.97 |  | 44.33 |
+| 11:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Sep) | 41.42 |  | 42.13 |
+| 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Sep) | 40.55 |  | 41.08 |
+| 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (Sep) | 46.82 |  | 48.47 |
+| 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (Sep) | 50.34 |  | 50.14 |
+| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Jul) | 2.2% |  | 0.8% |
+| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Jul) | 1.1% |  | -1.8% |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Jul) | 0.0% |  | 0.1% |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Jul) | 0.9% |  | 2.2% |
+| 13:15 | EUR | High | Deposit Facility Rate (Sep) | 2.50% | 2.50% | 2.25% |
+| 13:15 | EUR | Moderate | ECB Marginal Lending Facility | 2.90% |  | 2.65% |
 | 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
-| 13:15 | EUR | High | ECB Interest Rate Decision (Sep) |  | 2.65% | 2.40% |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,780K | 1,779K |
-| 13:30 | USD | Moderate | Core PPI (MoM) (Aug) |  | 0.3% | 0.2% |
-| 13:30 | USD | Low | Core PPI (YoY) (Aug) |  | 4.6% | 4.2% |
-| 13:30 | USD | High | Initial Jobless Claims |  | 205K | 206K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 207.25K |
-| 13:30 | USD | High | PPI (MoM) (Aug) |  | 0.4% | 0.0% |
-| 13:30 | USD | Low | PPI (YoY) (Aug) |  | 5.3% | 4.7% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Aug) |  |  | 4.7% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Aug) |  |  | 0.4% |
+| 13:15 | EUR | High | ECB Interest Rate Decision (Sep) | 2.65% | 2.65% | 2.40% |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,774K | 1,780K | 1,775K |
+| 13:30 | USD | Moderate | Core PPI (MoM) (Aug) | 0.2% | 0.3% | 0.3% |
+| 13:30 | USD | Low | Core PPI (YoY) (Aug) | 4.6% | 4.6% | 4.3% |
+| 13:30 | USD | High | Initial Jobless Claims | 206K | 205K | 207K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 206.00K |  | 207.50K |
+| 13:30 | USD | High | PPI (MoM) (Aug) | 0.4% | 0.4% | 0.1% |
+| 13:30 | USD | Low | PPI (YoY) (Aug) | 5.4% | 5.3% | 4.8% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Aug) | 4.7% |  | 4.7% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Aug) | 0.3% |  | 0.4% |
 | 13:45 | EUR | High | ECB Press Conference |  |  |  |
 | 15:00 | USD | High | Existing Home Sales (Aug) |  | 3.98M | 4.06M |
 | 15:00 | USD | Moderate | Existing Home Sales (MoM) (Aug) |  |  | -1.7% |

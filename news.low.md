@@ -10,31 +10,33 @@
 | 07:00 | EUR | German HICP (YoY) (Aug) | 2.9% | 2.9% | 2.8% |
 | 07:00 | NOK | Core CPI YTD (Aug) | 3.0% | 3.0% | 2.7% |
 | 07:00 | NOK | Core Inflation (MoM) (Aug) | -0.5% | -0.4% | 0.8% |
-| 07:00 | NOK | CPI (MoM) (Aug) | -0.3% |  | 1.0% |
 | 07:00 | NOK | CPI (YoY) (Aug) | 3.3% | 3.2% | 3.0% |
+| 07:00 | NOK | CPI (MoM) (Aug) | -0.3% |  | 1.0% |
 | 08:00 | EUR | Spanish Industrial Production (YoY) (Jul) | 2.3% |  | 1.1% |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Jul) | 0.7% | 0.3% | -1.1% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Jul) | 0.0% | -0.6% | -0.6% |
-| 10:00 | ZAR | Current Account (Q2) |  |  | 190.7B |
-| 10:00 | ZAR | Current Account % of GDP (Q2) |  |  | 2.40% |
-| 10:30 | EUR | Italian 3-Year BTP Auction |  |  | 2.98% |
-| 10:30 | ZAR | Gold Production (YoY) (Jul) |  |  | 6.2% |
-| 10:30 | ZAR | Mining Production (Jul) |  |  | -4.0% |
-| 11:00 | GBP | Thomson Reuters IPSOS PCSI (Sep) |  |  | 47.1 |
-| 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Sep) |  |  | 44.33 |
-| 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Sep) |  |  | 42.13 |
-| 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Sep) |  |  | 41.08 |
-| 11:00 | EUR | Thomson Reuters IPSOS PCSI (Sep) |  |  | 48.47 |
-| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (Sep) |  |  | 50.14 |
-| 12:00 | ZAR | Manufacturing Production (MoM) (Jul) |  |  | 0.9% |
-| 12:00 | ZAR | Manufacturing Production (YoY) (Jul) |  |  | -1.7% |
-| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Jul) |  |  | 0.0% |
-| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Jul) |  |  | 2.0% |
-| 13:30 | USD | Core PPI (YoY) (Aug) |  | 4.6% | 4.2% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 207.25K |
-| 13:30 | USD | PPI (YoY) (Aug) |  | 5.3% | 4.7% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Aug) |  |  | 4.7% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Aug) |  |  | 0.4% |
+| 10:00 | ZAR | Current Account (Q2) | -205.5B |  | 181.6B |
+| 10:00 | ZAR | Current Account % of GDP (Q2) | -2.60% |  | 2.30% |
+| 10:30 | GBP | 5-Year Treasury Gilt Auction | 4.786% |  | 4.613% |
+| 10:30 | EUR | Italian 3-Year BTP Auction | 3.43% |  | 2.98% |
+| 10:30 | EUR | Italian 7-Year BTP Auction | 3.98% |  | 2.89% |
+| 10:30 | ZAR | Gold Production (YoY) (Jul) | -7.4% |  | 6.2% |
+| 10:30 | ZAR | Mining Production (Jul) | -7.5% |  | -4.3% |
+| 11:00 | GBP | Thomson Reuters IPSOS PCSI (Sep) | 48.3 |  | 47.1 |
+| 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Sep) | 42.97 |  | 44.33 |
+| 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Sep) | 41.42 |  | 42.13 |
+| 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Sep) | 40.55 |  | 41.08 |
+| 11:00 | EUR | Thomson Reuters IPSOS PCSI (Sep) | 46.82 |  | 48.47 |
+| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (Sep) | 50.34 |  | 50.14 |
+| 12:00 | ZAR | Manufacturing Production (MoM) (Jul) | 2.2% |  | 0.8% |
+| 12:00 | ZAR | Manufacturing Production (YoY) (Jul) | 1.1% |  | -1.8% |
+| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Jul) | 0.0% |  | 0.1% |
+| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Jul) | 0.9% |  | 2.2% |
+| 13:30 | USD | Core PPI (YoY) (Aug) | 4.6% | 4.6% | 4.3% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 206.00K |  | 207.50K |
+| 13:30 | USD | PPI (YoY) (Aug) | 5.4% | 5.3% | 4.8% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Aug) | 4.7% |  | 4.7% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Aug) | 0.3% |  | 0.4% |
 | 15:00 | USD | Wholesale Inventories (MoM) (Jul) |  | 1.3% | 0.2% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Jul) |  |  | -3.0% |
 | 15:30 | USD | Natural Gas Storage |  | 35B | 30B |
