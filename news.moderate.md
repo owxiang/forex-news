@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | BSI Large Manufacturing Conditions (Q3) |  | 2.5 | -1.8 |
+| 00:50 | JPY | BSI Large Manufacturing Conditions (Q3) | 7.6 | 2.5 | -1.8 |
 | 07:00 | GBP | Industrial Production (MoM) (Jul) |  | -0.2% | -0.2% |
 | 07:00 | GBP | Manufacturing Production (MoM) (Jul) |  | 0.2% | -0.5% |
 | 07:00 | GBP | Monthly GDP 3M/3M Change (Jul) |  | 0.3% | 0.4% |

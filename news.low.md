@@ -2,13 +2,13 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | PPI (YoY) (Aug) |  | 7.4% | 7.2% |
-| 00:50 | JPY | PPI (MoM) (Aug) |  | 0.0% | 0.1% |
-| 03:00 | KRW | Thomson Reuters IPSOS PCSI (Sep) |  |  | 44.52 |
-| 03:00 | INR | Thomson Reuters IPSOS PCSI (Sep) |  |  | 65.26 |
-| 03:00 | AUD | Thomson Reuters IPSOS PCSI (Sep) |  |  | 48.79 |
-| 03:00 | JPY | Thomson Reuters IPSOS PCSI (Sep) |  |  | 39.94 |
-| 03:00 | CNY | China Thomson Reuters IPSOS PCSI (Sep) |  |  | 74.79 |
+| 00:50 | JPY | PPI (YoY) (Aug) | 7.6% | 7.4% | 7.7% |
+| 00:50 | JPY | PPI (MoM) (Aug) | -0.2% | 0.0% | 0.4% |
+| 03:00 | KRW | Thomson Reuters IPSOS PCSI (Sep) | 44.27 |  | 44.52 |
+| 03:00 | INR | Thomson Reuters IPSOS PCSI (Sep) | 66.92 |  | 65.26 |
+| 03:00 | AUD | Thomson Reuters IPSOS PCSI (Sep) | 48.50 |  | 48.79 |
+| 03:00 | JPY | Thomson Reuters IPSOS PCSI (Sep) | 39.42 |  | 39.94 |
+| 03:00 | CNY | China Thomson Reuters IPSOS PCSI (Sep) | 74.67 |  | 74.79 |
 | 07:00 | GBP | U.K. Construction Output (YoY) (Jul) |  | -2.3% | -2.3% |
 | 07:00 | GBP | Construction Output (MoM) (Jul) |  | 0.1% | -0.1% |
 | 07:00 | GBP | GDP (YoY) (Jul) |  | 1.2% | 1.1% |
