@@ -18,17 +18,20 @@
 | 09:00 | EUR | Italian Quarterly Unemployment Rate | 5.6% | 5.4% | 5.3% |
 | 09:30 | GBP | Inflation Expectations | 3.2% |  | 4.0% |
 | 10:15 | CHF | SNB Chairman Schlegel Speaks |  |  |  |
-| 12:30 | INR | FX Reserves, USD |  |  | 740.80B |
-| 13:00 | MXN | Industrial Production (YoY) (Jul) |  | 1.8% | 1.7% |
-| 13:00 | MXN | Industrial Production (MoM) (Jul) |  | 0.0% | 0.2% |
-| 13:00 | BRL | CPI (MoM) (Aug) |  | -0.29% | 0.07% |
-| 13:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Aug) |  |  | 0.17% |
-| 13:30 | USD | Core CPI Index (Aug) |  |  | 336.79 |
-| 13:30 | USD | CPI Index, n.s.a. (Aug) |  | 334.85 | 333.92 |
-| 13:30 | USD | CPI Index, s.a (Aug) |  |  | 332.81 |
-| 13:30 | USD | CPI, n.s.a (MoM) (Aug) |  |  | -0.01% |
-| 13:30 | USD | Real Earnings (MoM) (Aug) |  |  | 0.0% |
-| 13:30 | EUR | German Current Account Balance n.s.a (Jul) |  |  | 19.0B |
+| 12:30 | INR | FX Reserves, USD | 785.71B |  | 740.80B |
+| 13:00 | MXN | Industrial Production (MoM) (Jul) | 0.5% | 0.0% | 0.2% |
+| 13:00 | MXN | Industrial Production (YoY) (Jul) | 2.7% | 1.8% | 1.6% |
+| 13:00 | INR | Bank Loan Growth | 19.1% |  | 18.3% |
+| 13:00 | INR | Deposit Growth | 17.8% |  | 14.7% |
+| 13:00 | INR | M3 Money Supply | 16.7% |  | 14.2% |
+| 13:00 | EUR | German Current Account Balance n.s.a (Jul) | 21.2B |  | 18.9B |
+| 13:00 | BRL | CPI (MoM) (Aug) | -0.32% | -0.29% | 0.07% |
+| 13:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Aug) | -0.24% |  | 0.17% |
+| 13:30 | USD | Core CPI Index (Aug) | 337.77 |  | 336.79 |
+| 13:30 | USD | CPI Index, n.s.a. (Aug) | 334.98 | 334.85 | 333.92 |
+| 13:30 | USD | CPI Index, s.a (Aug) | 334.13 |  | 332.81 |
+| 13:30 | USD | CPI, n.s.a (MoM) (Aug) | 0.32% |  | -0.01% |
+| 13:30 | USD | Real Earnings (MoM) (Aug) | 0.2% |  | 0.1% |
 | 15:00 | USD | Michigan Current Conditions (Sep) |  | 51.3 | 51.9 |
 | 16:00 | USD | Cleveland CPI (MoM) (Aug) |  |  | 0.3% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -0.2K |

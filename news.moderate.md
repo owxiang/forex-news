@@ -10,9 +10,9 @@
 | 07:00 | GBP | Trade Balance Non-EU (Jul) | -9.66B |  | -10.45B |
 | 08:00 | CHF | SECO Consumer Climate | -33 | -33 | -33 |
 | 10:00 | USD | IEA Monthly Report |  |  |  |
-| 12:00 | GBP | NIESR Monthly GDP Tracker (Aug) |  |  | 0.4% |
-| 13:00 | BRL | CPI (YoY) (Aug) |  | 4.27% | 4.44% |
-| 13:30 | USD | Core CPI (YoY) (Aug) |  | 2.4% | 2.5% |
+| 13:00 | GBP | NIESR Monthly GDP Tracker (Aug) | 0.5% |  | 0.4% |
+| 13:00 | BRL | CPI (YoY) (Aug) | 4.22% | 4.27% | 4.44% |
+| 13:30 | USD | Core CPI (YoY) (Aug) | 2.4% | 2.4% | 2.5% |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Sep) |  |  | 4.0% |
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Sep) |  |  | 3.3% |
 | 15:00 | USD | Michigan Consumer Expectations (Sep) |  | 50.5 | 51.5 |

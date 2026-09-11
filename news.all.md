@@ -15,10 +15,10 @@
 | 07:00 | GBP | High | GDP (MoM) (Jul) | 0.4% | 0.0% | 0.3% |
 | 07:00 | GBP | Low | GDP (YoY) (Jul) | 1.6% | 1.2% | 1.1% |
 | 07:00 | GBP | Low | Index of Services | 0.6% | 0.5% | 0.5% |
-| 07:00 | GBP | Low | Industrial Production (YoY) (Jul) | 0.6% | 0.2% | -0.2% |
 | 07:00 | GBP | Moderate | Industrial Production (MoM) (Jul) | 0.2% | -0.2% | -0.2% |
-| 07:00 | GBP | Low | Manufacturing Production (YoY) (Jul) | 2.6% | 2.0% | 0.5% |
+| 07:00 | GBP | Low | Industrial Production (YoY) (Jul) | 0.6% | 0.2% | -0.2% |
 | 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Jul) | 0.9% | 0.2% | -0.5% |
+| 07:00 | GBP | Low | Manufacturing Production (YoY) (Jul) | 2.6% | 2.0% | 0.5% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Jul) | 0.4% | 0.3% | 0.4% |
 | 07:00 | GBP | Moderate | Trade Balance (Jul) | -20.97B | -22.60B | -23.01B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Jul) | -9.66B |  | -10.45B |
@@ -27,23 +27,26 @@
 | 09:30 | GBP | Low | Inflation Expectations | 3.2% |  | 4.0% |
 | 10:00 | USD | Moderate | IEA Monthly Report |  |  |  |
 | 10:15 | CHF | Low | SNB Chairman Schlegel Speaks |  |  |  |
-| 12:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Aug) |  |  | 0.4% |
-| 12:30 | INR | Low | FX Reserves, USD |  |  | 740.80B |
-| 13:00 | MXN | Low | Industrial Production (YoY) (Jul) |  | 1.8% | 1.7% |
-| 13:00 | MXN | Low | Industrial Production (MoM) (Jul) |  | 0.0% | 0.2% |
-| 13:00 | BRL | Moderate | CPI (YoY) (Aug) |  | 4.27% | 4.44% |
-| 13:00 | BRL | Low | CPI (MoM) (Aug) |  | -0.29% | 0.07% |
-| 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Aug) |  |  | 0.17% |
-| 13:30 | USD | High | Core CPI (MoM) (Aug) |  | 0.2% | 0.2% |
-| 13:30 | USD | Moderate | Core CPI (YoY) (Aug) |  | 2.4% | 2.5% |
-| 13:30 | USD | Low | Core CPI Index (Aug) |  |  | 336.79 |
-| 13:30 | USD | High | CPI (MoM) (Aug) |  | 0.4% | 0.1% |
-| 13:30 | USD | High | CPI (YoY) (Aug) |  | 3.4% | 3.4% |
-| 13:30 | USD | Low | CPI Index, n.s.a. (Aug) |  | 334.85 | 333.92 |
-| 13:30 | USD | Low | CPI Index, s.a (Aug) |  |  | 332.81 |
-| 13:30 | USD | Low | CPI, n.s.a (MoM) (Aug) |  |  | -0.01% |
-| 13:30 | USD | Low | Real Earnings (MoM) (Aug) |  |  | 0.0% |
-| 13:30 | EUR | Low | German Current Account Balance n.s.a (Jul) |  |  | 19.0B |
+| 12:30 | INR | Low | FX Reserves, USD | 785.71B |  | 740.80B |
+| 13:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Aug) | 0.5% |  | 0.4% |
+| 13:00 | MXN | Low | Industrial Production (MoM) (Jul) | 0.5% | 0.0% | 0.2% |
+| 13:00 | MXN | Low | Industrial Production (YoY) (Jul) | 2.7% | 1.8% | 1.6% |
+| 13:00 | INR | Low | Bank Loan Growth | 19.1% |  | 18.3% |
+| 13:00 | INR | Low | Deposit Growth | 17.8% |  | 14.7% |
+| 13:00 | INR | Low | M3 Money Supply | 16.7% |  | 14.2% |
+| 13:00 | EUR | Low | German Current Account Balance n.s.a (Jul) | 21.2B |  | 18.9B |
+| 13:00 | BRL | Low | CPI (MoM) (Aug) | -0.32% | -0.29% | 0.07% |
+| 13:00 | BRL | Moderate | CPI (YoY) (Aug) | 4.22% | 4.27% | 4.44% |
+| 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Aug) | -0.24% |  | 0.17% |
+| 13:30 | USD | High | Core CPI (MoM) (Aug) | 0.3% | 0.2% | 0.2% |
+| 13:30 | USD | Moderate | Core CPI (YoY) (Aug) | 2.4% | 2.4% | 2.5% |
+| 13:30 | USD | Low | Core CPI Index (Aug) | 337.77 |  | 336.79 |
+| 13:30 | USD | High | CPI (YoY) (Aug) | 3.4% | 3.4% | 3.4% |
+| 13:30 | USD | High | CPI (MoM) (Aug) | 0.4% | 0.4% | 0.1% |
+| 13:30 | USD | Low | CPI Index, n.s.a. (Aug) | 334.98 | 334.85 | 333.92 |
+| 13:30 | USD | Low | CPI Index, s.a (Aug) | 334.13 |  | 332.81 |
+| 13:30 | USD | Low | CPI, n.s.a (MoM) (Aug) | 0.32% |  | -0.01% |
+| 13:30 | USD | Low | Real Earnings (MoM) (Aug) | 0.2% |  | 0.1% |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Sep) |  |  | 4.0% |
 | 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Sep) |  |  | 3.3% |
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Sep) |  | 50.5 | 51.5 |
