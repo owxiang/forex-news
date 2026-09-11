@@ -22,13 +22,13 @@
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 450 |  | 449 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count | 591 |  | 588 |
 | 18:00 | EUR | ECB's Lane Speaks |  |  |  |
-| 21 min | USD | Federal Budget Balance (Aug) |  | -221.1B | -432.0B |
-| 20:30 | GBP | CFTC GBP speculative net positions |  |  | -49.6K |
-| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 129.9K |
-| 20:30 | USD | CFTC Gold speculative net positions |  |  | 228.1K |
-| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 25.9K |
-| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -75.9K |
-| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -39.4K |
-| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 72.8K |
-| 20:30 | JPY | CFTC JPY speculative net positions |  |  | -92.2K |
-| 20:30 | EUR | CFTC EUR speculative net positions |  |  | -24.9K |
+| 19:00 | USD | Federal Budget Balance (Aug) | -167.0B | -221.1B | -432.0B |
+| 20:30 | GBP | CFTC GBP speculative net positions | -58.8K |  | -49.6K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions | 136.6K |  | 129.9K |
+| 20:30 | USD | CFTC Gold speculative net positions | 232.0K |  | 228.1K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions | 20.9K |  | 25.9K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions | -76.0K |  | -75.9K |
+| 20:30 | AUD | CFTC AUD speculative net positions | -34.9K |  | -39.4K |
+| 20:30 | BRL | CFTC BRL speculative net positions | 66.1K |  | 72.8K |
+| 20:30 | JPY | CFTC JPY speculative net positions | 10.8K |  | -92.2K |
+| 20:30 | EUR | CFTC EUR speculative net positions | -42.6K |  | -24.9K |
