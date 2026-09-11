@@ -47,18 +47,18 @@
 | 13:30 | USD | Low | CPI Index, s.a (Aug) | 334.13 |  | 332.81 |
 | 13:30 | USD | Low | CPI, n.s.a (MoM) (Aug) | 0.32% |  | -0.01% |
 | 13:30 | USD | Low | Real Earnings (MoM) (Aug) | 0.2% |  | 0.1% |
-| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Sep) |  |  | 4.0% |
-| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Sep) |  |  | 3.3% |
-| 15:00 | USD | Moderate | Michigan Consumer Expectations (Sep) |  | 50.5 | 51.5 |
-| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Sep) |  | 51.0 | 51.7 |
-| 15:00 | USD | Low | Michigan Current Conditions (Sep) |  | 51.3 | 51.9 |
+| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Sep) | 4.6% | 4.2% | 4.0% |
+| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Sep) | 3.4% | 3.3% | 3.3% |
+| 15:00 | USD | Moderate | Michigan Consumer Expectations (Sep) | 45.8 | 50.5 | 51.5 |
+| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Sep) | 47.8 | 51.0 | 51.7 |
+| 15:00 | USD | Low | Michigan Current Conditions (Sep) | 50.9 | 51.3 | 51.9 |
 | 15:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 16:00 | USD | Low | Cleveland CPI (MoM) (Aug) |  |  | 0.3% |
+| 16:00 | USD | Low | Cleveland CPI (MoM) (Aug) | 0.2% |  | 0.3% |
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 449 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 588 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 450 |  | 449 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 591 |  | 588 |
 | 18:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 19:00 | USD | Moderate | Federal Budget Balance (Aug) |  | -221.1B | -432.0B |
+| 21 min | USD | Moderate | Federal Budget Balance (Aug) |  | -221.1B | -432.0B |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -49.6K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -0.2K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 80.9K |

@@ -13,16 +13,16 @@
 | 13:00 | GBP | NIESR Monthly GDP Tracker (Aug) | 0.5% |  | 0.4% |
 | 13:00 | BRL | CPI (YoY) (Aug) | 4.22% | 4.27% | 4.44% |
 | 13:30 | USD | Core CPI (YoY) (Aug) | 2.4% | 2.4% | 2.5% |
-| 15:00 | USD | Michigan 1-Year Inflation Expectations (Sep) |  |  | 4.0% |
-| 15:00 | USD | Michigan 5-Year Inflation Expectations (Sep) |  |  | 3.3% |
-| 15:00 | USD | Michigan Consumer Expectations (Sep) |  | 50.5 | 51.5 |
-| 15:00 | USD | Michigan Consumer Sentiment (Sep) |  | 51.0 | 51.7 |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (Sep) | 4.6% | 4.2% | 4.0% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (Sep) | 3.4% | 3.3% | 3.3% |
+| 15:00 | USD | Michigan Consumer Expectations (Sep) | 45.8 | 50.5 | 51.5 |
+| 15:00 | USD | Michigan Consumer Sentiment (Sep) | 47.8 | 51.0 | 51.7 |
 | 15:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 17:00 | USD | WASDE Report |  |  |  |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 449 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 588 |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 450 |  | 449 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count | 591 |  | 588 |
 | 18:00 | EUR | ECB's Lane Speaks |  |  |  |
-| 19:00 | USD | Federal Budget Balance (Aug) |  | -221.1B | -432.0B |
+| 21 min | USD | Federal Budget Balance (Aug) |  | -221.1B | -432.0B |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -49.6K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 129.9K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 228.1K |

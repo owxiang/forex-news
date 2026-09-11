@@ -32,8 +32,8 @@
 | 13:30 | USD | CPI Index, s.a (Aug) | 334.13 |  | 332.81 |
 | 13:30 | USD | CPI, n.s.a (MoM) (Aug) | 0.32% |  | -0.01% |
 | 13:30 | USD | Real Earnings (MoM) (Aug) | 0.2% |  | 0.1% |
-| 15:00 | USD | Michigan Current Conditions (Sep) |  | 51.3 | 51.9 |
-| 16:00 | USD | Cleveland CPI (MoM) (Aug) |  |  | 0.3% |
+| 15:00 | USD | Michigan Current Conditions (Sep) | 50.9 | 51.3 | 51.9 |
+| 16:00 | USD | Cleveland CPI (MoM) (Aug) | 0.2% |  | 0.3% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -0.2K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 80.9K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 536.7K |
