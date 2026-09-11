@@ -9,17 +9,15 @@
 | 03:00 | AUD | Thomson Reuters IPSOS PCSI (Sep) | 48.50 |  | 48.79 |
 | 03:00 | JPY | Thomson Reuters IPSOS PCSI (Sep) | 39.42 |  | 39.94 |
 | 03:00 | CNY | China Thomson Reuters IPSOS PCSI (Sep) | 74.67 |  | 74.79 |
-| 07:00 | GBP | U.K. Construction Output (YoY) (Jul) |  | -2.3% | -2.3% |
-| 07:00 | GBP | Construction Output (MoM) (Jul) |  | 0.1% | -0.1% |
-| 07:00 | GBP | GDP (YoY) (Jul) |  | 1.2% | 1.1% |
-| 07:00 | GBP | Index of Services |  | 0.5% | 0.5% |
-| 07:00 | GBP | Industrial Production (YoY) (Jul) |  | 0.2% | -0.2% |
-| 07:00 | GBP | Manufacturing Production (YoY) (Jul) |  |  | 0.5% |
-| 07:00 | IDR | Car Sales (YoY) (Aug) |  |  | 33.30% |
-| 09:00 | EUR | Italian Quarterly Unemployment Rate |  | 5.4% | 5.3% |
-| 09:30 | GBP | Inflation Expectations |  |  | 4.0% |
+| 07:00 | GBP | U.K. Construction Output (YoY) (Jul) | -2.5% | -2.3% | -2.3% |
+| 07:00 | GBP | Construction Output (MoM) (Jul) | 0.1% | 0.1% | -0.1% |
+| 07:00 | GBP | GDP (YoY) (Jul) | 1.6% | 1.2% | 1.1% |
+| 07:00 | GBP | Index of Services | 0.6% | 0.5% | 0.5% |
+| 07:00 | GBP | Industrial Production (YoY) (Jul) | 0.6% | 0.2% | -0.2% |
+| 07:00 | GBP | Manufacturing Production (YoY) (Jul) | 2.6% | 2.0% | 0.5% |
+| 09:00 | EUR | Italian Quarterly Unemployment Rate | 5.6% | 5.4% | 5.3% |
+| 09:30 | GBP | Inflation Expectations | 3.2% |  | 4.0% |
 | 10:15 | CHF | SNB Chairman Schlegel Speaks |  |  |  |
-| 12:00 | EUR | Spanish Consumer Confidence (Jul) |  |  | 81.2 |
 | 12:30 | INR | FX Reserves, USD |  |  | 740.80B |
 | 13:00 | MXN | Industrial Production (YoY) (Jul) |  | 1.8% | 1.7% |
 | 13:00 | MXN | Industrial Production (MoM) (Jul) |  | 0.0% | 0.2% |
