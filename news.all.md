@@ -2,23 +2,23 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 05:30 | JPY | Low | Capacity Utilization (MoM) (Jul) |  |  | 4.1% |
-| 05:30 | JPY | Moderate | Industrial Production (MoM) (Jul) |  | 0.1% | 1.9% |
-| 07:30 | CHF | Low | PPI (YoY) (Aug) |  |  | -2.1% |
-| 07:30 | CHF | Moderate | PPI (MoM) (Aug) |  | 0.1% | -0.1% |
-| 07:30 | INR | Low | WPI Food (YoY) (Aug) |  |  | 5.44% |
-| 07:30 | INR | Low | WPI Fuel (YoY) (Aug) |  |  | 20.05% |
-| 07:30 | INR | Moderate | WPI Inflation (YoY) (Aug) |  | 9.89% | 9.78% |
-| 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Aug) |  |  | 8.29% |
-| 09:30 | HKD | Low | Industrial Production (YoY) (Q2) |  |  | 3.10% |
-| 09:30 | HKD | Low | PPI (YoY) (Q2) |  |  | 17.70% |
-| 10:00 | CNY | Low | M2 Money Stock (YoY) (Aug) |  | 7.6% | 7.7% |
-| 10:00 | CNY | Moderate | New Loans (Aug) |  | 480.0B | -340.0B |
-| 10:00 | CNY | Low | Outstanding Loan Growth (YoY) (Aug) |  | 5.1% | 5.1% |
-| 10:00 | CNY | Low | Chinese Total Social Financing (Aug) |  | 2,040.0B | 1,410.0B |
+| 05:30 | JPY | Low | Capacity Utilization (MoM) (Jul) | 0.5% |  | 4.1% |
+| 05:30 | JPY | Moderate | Industrial Production (MoM) (Jul) | -0.2% | 0.1% | 1.9% |
+| 07:30 | CHF | Low | PPI (YoY) (Aug) | -0.7% |  | -2.1% |
+| 07:30 | CHF | Moderate | PPI (MoM) (Aug) | 0.7% | 0.1% | -0.1% |
+| 07:30 | INR | Low | WPI Food (YoY) (Aug) | 5.67% |  | 5.44% |
+| 07:30 | INR | Low | WPI Fuel (YoY) (Aug) | 22.93% |  | 20.05% |
+| 07:30 | INR | Moderate | WPI Inflation (YoY) (Aug) | 9.92% | 9.89% | 9.78% |
+| 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Aug) | 8.37% |  | 8.29% |
+| 09:00 | CNY | Low | M2 Money Stock (YoY) (Aug) | 7.5% | 7.6% | 7.7% |
+| 09:00 | CNY | Moderate | New Loans (Aug) | 60.0B | 480.0B | -340.0B |
+| 09:00 | CNY | Low | Outstanding Loan Growth (YoY) (Aug) | 5.0% | 5.1% | 5.1% |
+| 09:00 | CNY | Low | Chinese Total Social Financing (Aug) | 1,660.0B | 2,040.0B | 660.0B |
+| 09:30 | HKD | Low | Industrial Production (YoY) (Q2) | 2.30% |  | 3.20% |
+| 09:30 | HKD | Low | PPI (YoY) (Q2) | 13.10% |  | 17.70% |
 | 10:15 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 2.656% |
-| 10:30 | EUR | Low | German 6-Month Bubill Auction |  |  | 2.502% |
+| 10:30 | EUR | Low | German 12-Month Bubill Auction | 3.065% |  | 2.656% |
+| 10:30 | EUR | Low | German 6-Month Bubill Auction | 2.768% |  | 2.502% |
 | 11:30 | INR | Moderate | CPI (YoY) (Aug) |  | 4.80% | 4.45% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:30 | CAD | Low | Common CPI (YoY) (Aug) |  | 2.7% | 2.7% |
