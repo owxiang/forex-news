@@ -24,7 +24,7 @@
 | 14:00 | EUR | French 3-Month BTF Auction | 2.654% |  | 2.540% |
 | 14:00 | EUR | French 6-Month BTF Auction | 2.868% |  | 2.720% |
 | 16:30 | USD | 3-Month Bill Auction | 3.970% |  | 3.800% |
-| 16:30 | USD | 6-Month Bill Auction | 3.060% |  | 3.890% |
+| 16:30 | USD | 6-Month Bill Auction | 4.060% |  | 3.890% |
 | 22:00 | KRW | Export Price Index (YoY) (Aug) |  |  | 49.1% |
 | 22:00 | KRW | Import Price Index (YoY) (Aug) |  |  | 18.7% |
 | 23:45 | NZD | Electronic Card Retail Sales (YoY) (Aug) |  |  | 3.4% |

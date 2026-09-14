@@ -34,7 +34,7 @@
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.868% |  | 2.720% |
 | 16:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 16:30 | USD | Low | 3-Month Bill Auction | 3.970% |  | 3.800% |
-| 16:30 | USD | Low | 6-Month Bill Auction | 3.060% |  | 3.890% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 4.060% |  | 3.890% |
 | 22:00 | KRW | Low | Export Price Index (YoY) (Aug) |  |  | 49.1% |
 | 22:00 | KRW | Low | Import Price Index (YoY) (Aug) |  |  | 18.7% |
 | 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Aug) |  |  | 1.3% |
