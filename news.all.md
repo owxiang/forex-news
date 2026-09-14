@@ -12,29 +12,29 @@
 | 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Aug) | 8.37% |  | 8.29% |
 | 09:00 | CNY | Low | M2 Money Stock (YoY) (Aug) | 7.5% | 7.6% | 7.7% |
 | 09:00 | CNY | Moderate | New Loans (Aug) | 60.0B | 480.0B | -340.0B |
-| 09:00 | CNY | Low | Outstanding Loan Growth (YoY) (Aug) | 5.0% | 5.1% | 5.1% |
+| 09:00 | CNY | Low | Outstanding Loan Growth (YoY) (Aug) | 4.9% | 5.1% | 5.1% |
 | 09:00 | CNY | Low | Chinese Total Social Financing (Aug) | 1,660.0B | 2,040.0B | 660.0B |
 | 09:30 | HKD | Low | Industrial Production (YoY) (Q2) | 2.30% |  | 3.20% |
 | 09:30 | HKD | Low | PPI (YoY) (Q2) | 13.10% |  | 17.70% |
 | 10:15 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 10:30 | EUR | Low | German 12-Month Bubill Auction | 3.065% |  | 2.656% |
 | 10:30 | EUR | Low | German 6-Month Bubill Auction | 2.768% |  | 2.502% |
-| 11:30 | INR | Moderate | CPI (YoY) (Aug) |  | 4.80% | 4.45% |
+| 11:30 | INR | Moderate | CPI (YoY) (Aug) | 4.82% | 4.80% | 4.45% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:30 | CAD | Low | Common CPI (YoY) (Aug) |  | 2.7% | 2.7% |
-| 13:30 | CAD | Moderate | Core CPI (YoY) (Aug) |  |  | 2.3% |
-| 13:30 | CAD | Moderate | Core CPI (MoM) (Aug) |  | 0.2% | 0.2% |
-| 13:30 | CAD | Moderate | CPI (MoM) (Aug) |  | -0.1% | 0.5% |
-| 13:30 | CAD | Low | CPI (YoY) (Aug) |  |  | 3.0% |
-| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Jul) |  | -0.2% | 0.1% |
-| 13:30 | CAD | Low | Median CPI (YoY) (Aug) |  | 2.0% | 2.0% |
-| 13:30 | CAD | Low | Trimmed CPI (YoY) (Aug) |  | 1.9% | 1.9% |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.940% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.540% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.720% |
+| 13:30 | CAD | Low | Common CPI (YoY) (Aug) | 2.6% | 2.7% | 2.7% |
+| 13:30 | CAD | Moderate | Core CPI (YoY) (Aug) | 2.4% |  | 2.3% |
+| 13:30 | CAD | Moderate | Core CPI (MoM) (Aug) | 0.1% | 0.2% | 0.2% |
+| 13:30 | CAD | Moderate | CPI (MoM) (Aug) | -0.1% | -0.1% | 0.5% |
+| 13:30 | CAD | Low | CPI (YoY) (Aug) | 3.0% | 3.0% | 3.0% |
+| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Jul) | -0.4% | -0.2% | 0.3% |
+| 13:30 | CAD | Low | Median CPI (YoY) (Aug) | 2.0% | 2.0% | 2.0% |
+| 13:30 | CAD | Low | Trimmed CPI (YoY) (Aug) | 1.9% | 1.9% | 1.9% |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 3.208% |  | 2.940% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.654% |  | 2.540% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.868% |  | 2.720% |
 | 16:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 3.800% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 3.890% |
+| 16:30 | USD | Low | 3-Month Bill Auction | 3.970% |  | 3.800% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 3.060% |  | 3.890% |
 | 22:00 | KRW | Low | Export Price Index (YoY) (Aug) |  |  | 49.1% |
 | 22:00 | KRW | Low | Import Price Index (YoY) (Aug) |  |  | 18.7% |
 | 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Aug) |  |  | 1.3% |
