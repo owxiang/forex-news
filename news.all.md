@@ -60,8 +60,8 @@
 | 16:40 | USD | Low | Milk Auctions | 3,868.0 |  | 3,910.0 |
 | 18:00 | USD | Moderate | 20-Year Bond Auction | 5.420% |  | 5.204% |
 | 18:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -0.300M |
-| 22:00 | NZD | Moderate | Westpac Consumer Sentiment |  |  | 80.4 |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | 7.140M | -1.800M | -0.300M |
+| 22:00 | NZD | Moderate | Westpac Consumer Sentiment (Q3) | 89.5 |  | 80.4 |
 | 23:45 | NZD | Moderate | Current Account (QoQ) (Q2) |  | -2.57B | -1.01B |
 | 23:45 | NZD | Moderate | Current Account (YoY) (Q2) |  |  | -16.30B |
 | 23:45 | NZD | Low | Current Account % of GDP (Q2) |  |  | -3.60% |

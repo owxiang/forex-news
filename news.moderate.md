@@ -27,7 +27,7 @@
 | 13:30 | CAD | Wholesale Sales (MoM) (Jul) | 0.3% | -0.5% | 2.8% |
 | 18:00 | USD | 20-Year Bond Auction | 5.420% |  | 5.204% |
 | 18:00 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock |  |  | -0.300M |
-| 22:00 | NZD | Westpac Consumer Sentiment |  |  | 80.4 |
+| 21:30 | USD | API Weekly Crude Oil Stock | 7.140M | -1.800M | -0.300M |
+| 22:00 | NZD | Westpac Consumer Sentiment (Q3) | 89.5 |  | 80.4 |
 | 23:45 | NZD | Current Account (QoQ) (Q2) |  | -2.57B | -1.01B |
 | 23:45 | NZD | Current Account (YoY) (Q2) |  |  | -16.30B |
