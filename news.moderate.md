@@ -20,12 +20,12 @@
 | 10:00 | EUR | German ZEW Economic Sentiment (Sep) | 34.7 | 39.8 | 34.2 |
 | 10:00 | EUR | Trade Balance (Jul) | 14.2B | 3.7B | 7.2B |
 | 10:00 | EUR | ZEW Economic Sentiment (Sep) | 25.8 | 39.2 | 31.4 |
-| 13:00 | BRL | Retail Sales (MoM) (Jul) |  | -0.2% | 0.5% |
-| 13:00 | BRL | Retail Sales (YoY) (Jul) |  | 2.2% | 2.9% |
-| 13:15 | USD | ADP Employment Change Weekly |  |  | 12.00K |
-| 13:30 | USD | NY Empire State Manufacturing Index (Sep) |  | 14.80 | 20.60 |
-| 13:30 | CAD | Wholesale Sales (MoM) (Jul) |  | -0.5% | 2.8% |
-| 18:00 | USD | 20-Year Bond Auction |  |  | 5.204% |
+| 13:00 | BRL | Retail Sales (MoM) (Jul) | -0.8% | -0.2% | 0.3% |
+| 13:00 | BRL | Retail Sales (YoY) (Jul) | 1.2% | 2.2% | 2.8% |
+| 13:15 | USD | ADP Employment Change Weekly | 16.30K |  | 12.00K |
+| 13:30 | USD | NY Empire State Manufacturing Index (Sep) | 7.60 | 14.80 | 20.60 |
+| 13:30 | CAD | Wholesale Sales (MoM) (Jul) | 0.3% | -0.5% | 2.8% |
+| 18:00 | USD | 20-Year Bond Auction | 5.420% |  | 5.204% |
 | 18:00 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | -0.300M |
 | 22:00 | NZD | Westpac Consumer Sentiment |  |  | 80.4 |

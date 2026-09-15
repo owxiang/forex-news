@@ -28,11 +28,11 @@
 | 10:00 | INR | Exports (USD) (Aug) | 43.81B |  | 44.24B |
 | 10:00 | INR | Imports (USD) (Aug) | 70.67B |  | 76.22B |
 | 10:00 | INR | Trade Balance (Aug) | -26.86B |  | -31.98B |
-| 10:50 | EUR | German 2-Year Schatz Auction |  |  | 2.850% |
+| 10:50 | EUR | German 2-Year Schatz Auction | 3.270% |  | 2.850% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 11:00 | EUR | Reserve Assets Total (Aug) |  |  | 1,752.50B |
-| 13:30 | CAD | New Motor Vehicle Sales (MoM) (Jul) |  |  | 190.2K |
-| 13:55 | USD | Redbook (YoY) |  |  | 8.3% |
-| 16:00 | NZD | GlobalDairyTrade Price Index |  |  | 0.9% |
-| 16:00 | USD | Milk Auctions |  |  | 3,910.0 |
+| 11:00 | EUR | Reserve Assets Total (Aug) | 1,858.85B |  | 1,752.49B |
+| 13:30 | CAD | New Motor Vehicle Sales (MoM) (Jul) | 176.2K |  | 190.2K |
+| 13:55 | USD | Redbook (YoY) | 8.5% |  | 8.3% |
+| 16:40 | NZD | GlobalDairyTrade Price Index | -1.1% |  | 0.9% |
+| 16:40 | USD | Milk Auctions | 3,868.0 |  | 3,910.0 |
 | 23:45 | NZD | Current Account % of GDP (Q2) |  |  | -3.60% |

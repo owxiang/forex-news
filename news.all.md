@@ -46,19 +46,19 @@
 | 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Sep) | 34.7 | 39.8 | 34.2 |
 | 10:00 | EUR | Moderate | Trade Balance (Jul) | 14.2B | 3.7B | 7.2B |
 | 10:00 | EUR | Moderate | ZEW Economic Sentiment (Sep) | 25.8 | 39.2 | 31.4 |
-| 10:50 | EUR | Low | German 2-Year Schatz Auction |  |  | 2.850% |
+| 10:50 | EUR | Low | German 2-Year Schatz Auction | 3.270% |  | 2.850% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 11:00 | EUR | Low | Reserve Assets Total (Aug) |  |  | 1,752.50B |
-| 13:00 | BRL | Moderate | Retail Sales (MoM) (Jul) |  | -0.2% | 0.5% |
-| 13:00 | BRL | Moderate | Retail Sales (YoY) (Jul) |  | 2.2% | 2.9% |
-| 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 12.00K |
-| 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Sep) |  | 14.80 | 20.60 |
-| 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Jul) |  |  | 190.2K |
-| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Jul) |  | -0.5% | 2.8% |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 8.3% |
-| 16:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 0.9% |
-| 16:00 | USD | Low | Milk Auctions |  |  | 3,910.0 |
-| 18:00 | USD | Moderate | 20-Year Bond Auction |  |  | 5.204% |
+| 11:00 | EUR | Low | Reserve Assets Total (Aug) | 1,858.85B |  | 1,752.49B |
+| 13:00 | BRL | Moderate | Retail Sales (MoM) (Jul) | -0.8% | -0.2% | 0.3% |
+| 13:00 | BRL | Moderate | Retail Sales (YoY) (Jul) | 1.2% | 2.2% | 2.8% |
+| 13:15 | USD | Moderate | ADP Employment Change Weekly | 16.30K |  | 12.00K |
+| 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Sep) | 7.60 | 14.80 | 20.60 |
+| 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Jul) | 176.2K |  | 190.2K |
+| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Jul) | 0.3% | -0.5% | 2.8% |
+| 13:55 | USD | Low | Redbook (YoY) | 8.5% |  | 8.3% |
+| 16:40 | NZD | Low | GlobalDairyTrade Price Index | -1.1% |  | 0.9% |
+| 16:40 | USD | Low | Milk Auctions | 3,868.0 |  | 3,910.0 |
+| 18:00 | USD | Moderate | 20-Year Bond Auction | 5.420% |  | 5.204% |
 | 18:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -0.300M |
 | 22:00 | NZD | Moderate | Westpac Consumer Sentiment |  |  | 80.4 |
