@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:00 | CNY | Fixed Asset Investment (YoY) (Aug) |  | -7.0% | -6.7% |
-| 03:00 | CNY | Industrial Production (YoY) (Aug) |  | 4.8% | 4.5% |
-| 03:00 | CNY | Chinese Industrial Production YTD (YoY) (Aug) |  |  | 5.3% |
-| 03:00 | CNY | Chinese Unemployment Rate (Aug) |  | 5.2% | 5.2% |
+| 03:00 | CNY | Fixed Asset Investment (YoY) (Aug) | -7.2% | -7.1% | -6.7% |
+| 03:00 | CNY | Industrial Production (YoY) (Aug) | 5.2% | 4.8% | 4.5% |
+| 03:00 | CNY | Chinese Industrial Production YTD (YoY) (Aug) | 5.3% |  | 5.3% |
+| 03:00 | CNY | Chinese Unemployment Rate (Aug) | 5.3% | 5.2% | 5.2% |
 | 03:00 | CNY | NBS Press Conference |  |  |  |
 | 07:00 | GBP | Average Earnings Index +Bonus (Jul) |  | 3.9% | 4.1% |
 | 07:00 | GBP | Claimant Count Change (Aug) |  | 8.3K | -11.0K |

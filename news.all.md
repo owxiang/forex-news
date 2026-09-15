@@ -2,19 +2,19 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 01:00 | KRW | Low | Exports (YoY) (Aug) |  | 68.7% | 68.7% |
-| 01:00 | KRW | Low | Imports (YoY) (Aug) |  | 22.5% | 22.5% |
-| 01:00 | KRW | Low | Trade Balance (Aug) |  | 34.75B | 34.75B |
-| 02:30 | CNY | Low | House Prices (YoY) (Aug) |  |  | -3.2% |
-| 03:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Aug) |  | -7.0% | -6.7% |
-| 03:00 | CNY | Moderate | Industrial Production (YoY) (Aug) |  | 4.8% | 4.5% |
-| 03:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Aug) |  |  | 5.3% |
-| 03:00 | CNY | Low | Retail Sales (YoY) (Aug) |  | 0.8% | 0.6% |
-| 03:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Aug) |  |  | 1.23% |
-| 03:00 | CNY | Moderate | Chinese Unemployment Rate (Aug) |  | 5.2% | 5.2% |
+| 01:00 | KRW | Low | Exports (YoY) (Aug) | 68.7% | 68.7% | 68.7% |
+| 01:00 | KRW | Low | Imports (YoY) (Aug) | 22.4% | 22.5% | 22.5% |
+| 01:00 | KRW | Low | Trade Balance (Aug) | 34.79B | 34.75B | 34.75B |
+| 02:30 | CNY | Low | House Prices (YoY) (Aug) | -3.0% |  | -3.2% |
+| 03:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Aug) | -7.2% | -7.1% | -6.7% |
+| 03:00 | CNY | Moderate | Industrial Production (YoY) (Aug) | 5.2% | 4.8% | 4.5% |
+| 03:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Aug) | 5.3% |  | 5.3% |
+| 03:00 | CNY | Low | Retail Sales (YoY) (Aug) | 0.4% | 0.7% | 0.6% |
+| 03:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Aug) | 1.13% |  | 1.23% |
+| 03:00 | CNY | Moderate | Chinese Unemployment Rate (Aug) | 5.3% | 5.2% | 5.2% |
 | 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
-| 04:00 | KRW | Low | M3 Money Supply (Jul) |  |  | 6,362.4B |
-| 04:00 | KRW | Low | M2 Money supply (Jul) |  |  | 9.40% |
+| 04:00 | KRW | Low | M3 Money Supply (Jul) | 6,351.9B |  | 6,362.4B |
+| 04:00 | KRW | Low | M2 Money supply (Jul) | 8.00% |  | 9.40% |
 | 05:30 | JPY | Low | Tertiary Industry Activity Index (Jul) |  |  | 5.30 |
 | 07:00 | GBP | Low | Average Earnings ex Bonus (Jul) |  | 3.5% | 3.5% |
 | 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Jul) |  | 3.9% | 4.1% |

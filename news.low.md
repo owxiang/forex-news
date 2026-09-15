@@ -2,14 +2,14 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:00 | KRW | Exports (YoY) (Aug) |  | 68.7% | 68.7% |
-| 01:00 | KRW | Imports (YoY) (Aug) |  | 22.5% | 22.5% |
-| 01:00 | KRW | Trade Balance (Aug) |  | 34.75B | 34.75B |
-| 02:30 | CNY | House Prices (YoY) (Aug) |  |  | -3.2% |
-| 03:00 | CNY | Retail Sales (YoY) (Aug) |  | 0.8% | 0.6% |
-| 03:00 | CNY | Chinese Retail Sales YTD (YoY) (Aug) |  |  | 1.23% |
-| 04:00 | KRW | M3 Money Supply (Jul) |  |  | 6,362.4B |
-| 04:00 | KRW | M2 Money supply (Jul) |  |  | 9.40% |
+| 01:00 | KRW | Exports (YoY) (Aug) | 68.7% | 68.7% | 68.7% |
+| 01:00 | KRW | Imports (YoY) (Aug) | 22.4% | 22.5% | 22.5% |
+| 01:00 | KRW | Trade Balance (Aug) | 34.79B | 34.75B | 34.75B |
+| 02:30 | CNY | House Prices (YoY) (Aug) | -3.0% |  | -3.2% |
+| 03:00 | CNY | Retail Sales (YoY) (Aug) | 0.4% | 0.7% | 0.6% |
+| 03:00 | CNY | Chinese Retail Sales YTD (YoY) (Aug) | 1.13% |  | 1.23% |
+| 04:00 | KRW | M3 Money Supply (Jul) | 6,351.9B |  | 6,362.4B |
+| 04:00 | KRW | M2 Money supply (Jul) | 8.00% |  | 9.40% |
 | 05:30 | JPY | Tertiary Industry Activity Index (Jul) |  |  | 5.30 |
 | 07:00 | GBP | Average Earnings ex Bonus (Jul) |  | 3.5% | 3.5% |
 | 07:00 | EUR | German WPI (MoM) (Aug) |  | 0.1% | 0.2% |
