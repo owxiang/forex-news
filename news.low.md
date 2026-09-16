@@ -51,7 +51,7 @@
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -1.0% |  | -0.2% |
 | 15:30 | USD | Gasoline Inventories | 0.794M | -1.000M | 1.269M |
 | 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
-| 18:30 | BRL | Foreign Exchange Flows |  |  | -7.511B |
+| 18:30 | BRL | Foreign Exchange Flows | 0.706B |  | -7.511B |
 | 21:00 | USD | US Foreign Buying, T-bonds (Jul) |  |  | 6.80B |
 | 21:00 | USD | Overall Net Capital Flow (Jul) |  |  | 133.50B |
 | 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Jul) |  |  | 172.70B |

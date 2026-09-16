@@ -22,11 +22,11 @@
 | 17:00 | USD | Atlanta Fed GDPNow (Q3) | 5.1% | 4.4% | 4.4% |
 | 17:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 18:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 19:00 | USD | Interest Rate Projection - 1st Yr (Q3) |  |  | 3.6% |
-| 19:00 | USD | Interest Rate Projection - 2nd Yr (Q3) |  |  | 3.4% |
-| 19:00 | USD | Interest Rate Projection - 3rd Yr (Q1) |  |  | 3.1% |
-| 19:00 | USD | Interest Rate Projection - Current (Q3) |  |  | 3.8% |
-| 19:00 | USD | Interest Rate Projection - Longer (Q3) |  |  | 3.1% |
+| 19:00 | USD | Interest Rate Projection - 1st Yr (Q3) | 4.1% |  | 3.6% |
+| 19:00 | USD | Interest Rate Projection - 2nd Yr (Q3) | 3.9% |  | 3.4% |
+| 19:00 | USD | Interest Rate Projection - 3rd Yr (Q1) | 3.6% |  | 3.1% |
+| 19:00 | USD | Interest Rate Projection - Current (Q3) | 4.1% |  | 3.8% |
+| 19:00 | USD | Interest Rate Projection - Longer (Q3) | 3.2% |  | 3.1% |
 | 21:00 | USD | TIC Net Long-Term Transactions (Jul) |  | 146.3B | 172.7B |
 | 22:30 | BRL | Interest Rate Decision |  | 13.75% | 14.00% |
 | 23:45 | NZD | GDP (QoQ) (Q2) |  |  | 0.8% |

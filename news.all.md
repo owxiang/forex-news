@@ -75,15 +75,15 @@
 | 17:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 18:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
-| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -7.511B |
-| 19:00 | USD | Moderate | Interest Rate Projection - 1st Yr (Q3) |  |  | 3.6% |
-| 19:00 | USD | Moderate | Interest Rate Projection - 2nd Yr (Q3) |  |  | 3.4% |
-| 19:00 | USD | Moderate | Interest Rate Projection - 3rd Yr (Q1) |  |  | 3.1% |
-| 19:00 | USD | Moderate | Interest Rate Projection - Current (Q3) |  |  | 3.8% |
-| 19:00 | USD | Moderate | Interest Rate Projection - Longer (Q3) |  |  | 3.1% |
+| 18:30 | BRL | Low | Foreign Exchange Flows | 0.706B |  | -7.511B |
+| 19:00 | USD | Moderate | Interest Rate Projection - 1st Yr (Q3) | 4.1% |  | 3.6% |
+| 19:00 | USD | Moderate | Interest Rate Projection - 2nd Yr (Q3) | 3.9% |  | 3.4% |
+| 19:00 | USD | Moderate | Interest Rate Projection - 3rd Yr (Q1) | 3.6% |  | 3.1% |
+| 19:00 | USD | Moderate | Interest Rate Projection - Current (Q3) | 4.1% |  | 3.8% |
+| 19:00 | USD | Moderate | Interest Rate Projection - Longer (Q3) | 3.2% |  | 3.1% |
 | 19:00 | USD | High | FOMC Economic Projections |  |  |  |
 | 19:00 | USD | High | FOMC Statement |  |  |  |
-| 19:00 | USD | High | Fed Interest Rate Decision |  | 4.00% | 3.75% |
+| 19:00 | USD | High | Fed Interest Rate Decision | 4.00% | 4.00% | 3.75% |
 | 19:30 | USD | High | FOMC Press Conference |  |  |  |
 | 21:00 | USD | Low | US Foreign Buying, T-bonds (Jul) |  |  | 6.80B |
 | 21:00 | USD | Low | Overall Net Capital Flow (Jul) |  |  | 133.50B |
