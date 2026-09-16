@@ -1,33 +1,32 @@
-## 15 September 2026 - Moderate Impact Forex News
+## 16 September 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:00 | CNY | Fixed Asset Investment (YoY) (Aug) | -7.2% | -7.1% | -6.7% |
-| 03:00 | CNY | Industrial Production (YoY) (Aug) | 5.2% | 4.8% | 4.5% |
-| 03:00 | CNY | Chinese Industrial Production YTD (YoY) (Aug) | 5.3% |  | 5.3% |
-| 03:00 | CNY | Chinese Unemployment Rate (Aug) | 5.3% | 5.2% | 5.2% |
-| 03:00 | CNY | NBS Press Conference |  |  |  |
-| 07:00 | GBP | Average Earnings Index +Bonus (Jul) | 3.9% | 3.9% | 4.2% |
-| 07:00 | GBP | Claimant Count Change (Aug) | 27.8K | 8.3K | -11.8K |
-| 07:00 | GBP | Employment Change 3M/3M (MoM) (Jul) | 67K |  | 83K |
-| 07:00 | GBP | Unemployment Rate (Jul) | 4.9% | 5.0% | 4.9% |
-| 07:45 | EUR | French CPI (MoM) (Aug) | 0.7% | 0.7% | 0.6% |
-| 07:45 | EUR | French HICP (MoM) (Aug) | 0.7% | 0.8% | 0.6% |
-| 08:00 | EUR | Spanish CPI (YoY) (Aug) | 4.3% | 4.3% | 3.6% |
-| 08:00 | EUR | Spanish HICP (YoY) (Aug) | 4.6% | 4.5% | 3.9% |
-| 09:15 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 10:00 | EUR | German ZEW Current Conditions (Sep) | -47.1 | -53.0 | -61.1 |
-| 10:00 | EUR | German ZEW Economic Sentiment (Sep) | 34.7 | 39.8 | 34.2 |
-| 10:00 | EUR | Trade Balance (Jul) | 14.2B | 3.7B | 7.2B |
-| 10:00 | EUR | ZEW Economic Sentiment (Sep) | 25.8 | 39.2 | 31.4 |
-| 13:00 | BRL | Retail Sales (MoM) (Jul) | -0.8% | -0.2% | 0.3% |
-| 13:00 | BRL | Retail Sales (YoY) (Jul) | 1.2% | 2.2% | 2.8% |
-| 13:15 | USD | ADP Employment Change Weekly | 16.30K |  | 12.00K |
-| 13:30 | USD | NY Empire State Manufacturing Index (Sep) | 7.60 | 14.80 | 20.60 |
-| 13:30 | CAD | Wholesale Sales (MoM) (Jul) | 0.3% | -0.5% | 2.8% |
-| 18:00 | USD | 20-Year Bond Auction | 5.420% |  | 5.204% |
-| 18:00 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock | 7.140M | -1.800M | -0.300M |
-| 22:00 | NZD | Westpac Consumer Sentiment (Q3) | 89.5 |  | 80.4 |
-| 23:45 | NZD | Current Account (QoQ) (Q2) |  | -2.57B | -1.01B |
-| 23:45 | NZD | Current Account (YoY) (Q2) |  |  | -16.30B |
+| 00:50 | JPY | Adjusted Trade Balance | -0.84T | -1.00T | -0.68T |
+| 00:50 | JPY | Exports (YoY) (Aug) | 19.3% | 18.2% | 23.2% |
+| 00:50 | JPY | Trade Balance (Aug) | -1,105.6B | -1,052.6B | -638.3B |
+| 07:00 | GBP | CPI (MoM) (Aug) |  | 0.5% | 0.3% |
+| 07:00 | GBP | CPIH (YoY) |  |  | 2.8% |
+| 07:00 | GBP | PPI Input (MoM) (Aug) |  | -0.6% | -1.7% |
+| 10:00 | EUR | Wages in euro zone (YoY) (Q2) |  |  | 3.40% |
+| 10:00 | EUR | Industrial Production (MoM) (Jul) |  | -0.2% | 0.0% |
+| 13:15 | CAD | Housing Starts (Aug) |  | 243.0K | 229.1K |
+| 13:30 | USD | Export Price Index (MoM) (Aug) |  | 0.5% | -1.3% |
+| 13:30 | USD | Import Price Index (MoM) (Aug) |  | 0.4% | -0.4% |
+| 13:30 | USD | Retail Control (MoM) (Aug) |  | 0.4% | -0.4% |
+| 13:30 | CAD | Building Permits (MoM) (Jul) |  | -4.5% | 18.5% |
+| 14:00 | EUR | ECB's Elderson Speaks |  |  |  |
+| 15:00 | USD | Business Inventories (MoM) (Jul) |  | 0.6% | 0.0% |
+| 15:00 | USD | Retail Inventories Ex Auto (Jul) |  | 0.7% | 0.7% |
+| 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.684M |
+| 16:30 | USD | Atlanta Fed GDPNow (Q3) |  | 4.4% | 4.4% |
+| 17:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 18:00 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 19:00 | USD | Interest Rate Projection - 1st Yr (Q3) |  |  | 3.6% |
+| 19:00 | USD | Interest Rate Projection - 2nd Yr (Q3) |  |  | 3.4% |
+| 19:00 | USD | Interest Rate Projection - 3rd Yr (Q1) |  |  | 3.1% |
+| 19:00 | USD | Interest Rate Projection - Current (Q3) |  |  | 3.8% |
+| 19:00 | USD | Interest Rate Projection - Longer (Q3) |  |  | 3.1% |
+| 21:00 | USD | TIC Net Long-Term Transactions (Jul) |  | 146.3B | 172.7B |
+| 22:30 | BRL | Interest Rate Decision |  | 13.75% | 14.00% |
+| 23:45 | NZD | GDP (QoQ) (Q2) |  |  | 0.8% |

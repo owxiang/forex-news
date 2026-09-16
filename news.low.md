@@ -1,38 +1,62 @@
-## 15 September 2026 - Low Impact Forex News
+## 16 September 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:00 | KRW | Exports (YoY) (Aug) | 68.7% | 68.7% | 63.0% |
-| 01:00 | KRW | Imports (YoY) (Aug) | 22.4% | 22.5% | 26.5% |
-| 01:00 | KRW | Trade Balance (Aug) | 34.79B | 34.75B | 30.39B |
-| 02:30 | CNY | House Prices (YoY) (Aug) | -3.0% |  | -3.2% |
-| 03:00 | CNY | Retail Sales (YoY) (Aug) | 0.4% | 0.7% | 0.6% |
-| 03:00 | CNY | Chinese Retail Sales YTD (YoY) (Aug) | 1.13% |  | 1.23% |
-| 04:00 | KRW | M3 Money Supply (Jul) | 6,351.9B |  | 6,362.4B |
-| 04:00 | KRW | M2 Money supply (Jul) | 8.00% |  | 9.40% |
-| 05:30 | JPY | Tertiary Industry Activity Index (Jul) | 0.90 |  | 5.40 |
-| 07:00 | GBP | Average Earnings ex Bonus (Jul) | 3.5% | 3.5% | 3.5% |
-| 07:00 | EUR | German WPI (MoM) (Aug) | 0.9% | 0.1% | 0.2% |
-| 07:00 | EUR | German WPI (YoY) (Aug) | 6.8% |  | 5.3% |
-| 07:00 | NOK | Trade Balance (Aug) | 100.4B |  | 88.8B |
-| 07:45 | EUR | French CPI NSA (MoM) (Aug) | 0.70% |  | 0.70% |
-| 07:45 | EUR | French CPI NSA (YoY) (Aug) | 2.40% |  | 2.40% |
-| 07:45 | EUR | French CPI (YoY) (Aug) | 2.4% | 2.4% | 2.1% |
-| 07:45 | EUR | French HICP (YoY) (Aug) | 2.6% | 2.7% | 2.4% |
-| 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Aug) | 2.30% |  | 2.10% |
-| 08:00 | EUR | Core CPI (YoY) (Aug) | 2.9% | 2.9% | 3.0% |
-| 08:00 | EUR | Spanish CPI (MoM) (Aug) | 0.7% | 0.7% | 0.3% |
-| 08:00 | EUR | Spanish HICP (MoM) (Aug) | 0.7% | 0.6% | 0.0% |
-| 09:00 | EUR | Italian Trade Balance (Jul) | 8.240B | 4.770B | 4.343B |
-| 09:00 | EUR | Italian Trade Balance EU (Jul) | 1.25B |  | 1.69B |
-| 10:00 | INR | Exports (USD) (Aug) | 43.81B |  | 44.24B |
-| 10:00 | INR | Imports (USD) (Aug) | 70.67B |  | 76.22B |
-| 10:00 | INR | Trade Balance (Aug) | -26.86B |  | -31.98B |
-| 10:50 | EUR | German 2-Year Schatz Auction | 3.270% |  | 2.850% |
+| 00:50 | JPY | Core Machinery Orders (MoM) (Jul) | -3.7% | -1.2% | 9.7% |
+| 00:50 | JPY | Core Machinery Orders (YoY) (Jul) | 11.2% | 15.3% | 16.9% |
+| 00:50 | JPY | Imports (YoY) (Aug) | 28.0% | 26.3% | 27.9% |
+| 02:00 | AUD | MI Leading Index (MoM) (Aug) |  |  | 0.0% |
+| 04:00 | NZD | RBNZ Offshore Holdings (Aug) |  |  | 56.90% |
+| 07:00 | GBP | Core CPI (YoY) (Aug) |  | 2.6% | 2.6% |
+| 07:00 | GBP | Core CPI (MoM) (Aug) |  | 0.1% | 0.2% |
+| 07:00 | GBP | Core PPI Output (YoY) (Aug) |  |  | 2.8% |
+| 07:00 | GBP | Core PPI Output (MoM) (Aug) |  |  | 0.6% |
+| 07:00 | GBP | Core RPI (YoY) (Aug) |  |  | 3.1% |
+| 07:00 | GBP | Core RPI (MoM) (Aug) |  | 0.7% | 0.6% |
+| 07:00 | GBP | CPI, n.s.a (Aug) |  |  | 142.90 |
+| 07:00 | GBP | PPI Input (YoY) (Aug) |  |  | 4.9% |
+| 07:00 | GBP | PPI Output (YoY) (Aug) |  |  | 3.1% |
+| 07:00 | GBP | PPI Output (MoM) (Aug) |  | 0.5% | 0.2% |
+| 07:00 | GBP | RPI (MoM) (Aug) |  |  | 0.6% |
+| 07:00 | GBP | RPI (YoY) (Aug) |  | 3.5% | 3.2% |
+| 09:00 | EUR | Italian CPI (MoM) (Aug) |  | 0.5% | 0.3% |
+| 09:00 | EUR | Italian CPI (YoY) (Aug) |  | 3.3% | 2.9% |
+| 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Aug) |  |  | 2.8% |
+| 09:00 | EUR | Italian HICP (YoY) (Aug) |  | 3.2% | 2.9% |
+| 09:00 | EUR | Italian HICP (MoM) (Aug) |  | 0.1% | -1.0% |
+| 09:30 | GBP | House Price Index (YoY) |  | 2.1% | 2.0% |
+| 10:00 | CNY | FDI (Aug) |  |  | -6.20% |
+| 10:00 | EUR | Industrial Production (YoY) (Jul) |  | -0.3% | 0.1% |
+| 10:00 | EUR | Labor Cost Index (YoY) (Q2) |  | 3.00% | 3.20% |
+| 10:30 | EUR | German 30-Year Bund Auction |  |  | 3.650% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 11:00 | EUR | Reserve Assets Total (Aug) | 1,858.85B |  | 1,752.49B |
-| 13:30 | CAD | New Motor Vehicle Sales (MoM) (Jul) | 176.2K |  | 190.2K |
-| 13:55 | USD | Redbook (YoY) | 8.5% |  | 8.3% |
-| 16:40 | NZD | GlobalDairyTrade Price Index | -1.1% |  | 0.9% |
-| 16:40 | USD | Milk Auctions | 3,868.0 |  | 3,910.0 |
-| 23:45 | NZD | Current Account % of GDP (Q2) |  |  | -3.60% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.85% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -2.7% |
+| 12:00 | USD | MBA Purchase Index |  |  | 157.5 |
+| 12:00 | USD | Mortgage Market Index |  |  | 240.6 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 687.3 |
+| 12:00 | BRL | IGP-10 Inflation Index (MoM) (Sep) |  | 1.3% | -0.5% |
+| 12:00 | ZAR | Retail Sales (YoY) (Jul) |  |  | 1.6% |
+| 12:30 | INR | M3 Money Supply |  |  | 14.2% |
+| 13:00 | BRL | IBC-Br Economic Activity (Jul) |  | -0.10% | -0.60% |
+| 13:30 | USD | Export Price Index (YoY) (Aug) |  |  | 8.2% |
+| 13:30 | USD | Import Price Index (YoY) (Aug) |  |  | 5.9% |
+| 13:30 | USD | Retail Sales (YoY) (Aug) |  |  | 5.01% |
+| 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Aug) |  |  | -0.2% |
+| 15:00 | USD | NAHB Housing Market Index (Sep) |  | 34 | 35 |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.090M |
+| 15:30 | USD | Crude Oil Imports |  |  | 1.120M |
+| 15:30 | USD | Distillate Fuel Production |  |  | 0.222M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | 2.087M |
+| 15:30 | USD | Gasoline Production |  |  | -0.537M |
+| 15:30 | USD | Heating Oil Stockpiles |  |  | 0.010M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.2% |
+| 15:30 | USD | Gasoline Inventories |  |  | 1.269M |
+| 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
+| 18:30 | BRL | Foreign Exchange Flows |  |  | -7.511B |
+| 21:00 | USD | US Foreign Buying, T-bonds (Jul) |  |  | 6.80B |
+| 21:00 | USD | Overall Net Capital Flow (Jul) |  |  | 133.50B |
+| 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Jul) |  |  | 172.70B |
+| 23:45 | NZD | GDP (YoY) (Q2) |  | 2.3% | 1.5% |
+| 23:45 | NZD | GDP Annual Average (Q2) |  | 0.1% | 0.8% |
+| 23:45 | NZD | GDP Expenditure (QoQ) (Q2) |  |  | 1.0% |
