@@ -5,11 +5,11 @@
 | 00:50 | JPY | Adjusted Trade Balance | -0.84T | -1.00T | -0.68T |
 | 00:50 | JPY | Exports (YoY) (Aug) | 19.3% | 18.2% | 23.2% |
 | 00:50 | JPY | Trade Balance (Aug) | -1,105.6B | -1,052.6B | -638.3B |
-| 07:00 | GBP | CPI (MoM) (Aug) |  | 0.5% | 0.3% |
-| 07:00 | GBP | CPIH (YoY) |  |  | 2.8% |
-| 07:00 | GBP | PPI Input (MoM) (Aug) |  | 0.6% | -1.7% |
-| 10:00 | EUR | Wages in euro zone (YoY) (Q2) |  |  | 3.40% |
-| 10:00 | EUR | Industrial Production (MoM) (Jul) |  | -0.2% | 0.0% |
+| 07:00 | GBP | CPI (MoM) (Aug) | 0.5% | 0.5% | 0.3% |
+| 07:00 | GBP | CPIH (YoY) | 3.3% |  | 3.1% |
+| 07:00 | GBP | PPI Input (MoM) (Aug) | 0.3% | 0.6% | -0.8% |
+| 10:00 | EUR | Wages in euro zone (YoY) (Q2) | 3.00% |  | 3.40% |
+| 10:00 | EUR | Industrial Production (MoM) (Jul) | -0.1% | -0.2% | -0.1% |
 | 13:15 | CAD | Housing Starts (Aug) |  | 243.0K | 229.1K |
 | 13:30 | USD | Export Price Index (MoM) (Aug) |  | 0.5% | -1.3% |
 | 13:30 | USD | Import Price Index (MoM) (Aug) |  | 0.4% | -0.4% |
