@@ -10,16 +10,16 @@
 | 07:00 | GBP | PPI Input (MoM) (Aug) | 0.3% | 0.6% | -0.8% |
 | 10:00 | EUR | Wages in euro zone (YoY) (Q2) | 3.00% |  | 3.40% |
 | 10:00 | EUR | Industrial Production (MoM) (Jul) | -0.1% | -0.2% | -0.1% |
-| 13:15 | CAD | Housing Starts (Aug) |  | 243.0K | 229.1K |
-| 13:30 | USD | Export Price Index (MoM) (Aug) |  | 0.5% | -1.3% |
-| 13:30 | USD | Import Price Index (MoM) (Aug) |  | 0.4% | -0.4% |
-| 13:30 | USD | Retail Control (MoM) (Aug) |  | 0.4% | -0.4% |
-| 13:30 | CAD | Building Permits (MoM) (Jul) |  | -4.7% | 18.5% |
+| 13:15 | CAD | Housing Starts (Aug) | 229.0K | 243.0K | 229.4K |
+| 13:30 | USD | Export Price Index (MoM) (Aug) | 0.6% | 0.5% | -1.4% |
+| 13:30 | USD | Import Price Index (MoM) (Aug) | 0.7% | 0.4% | -0.3% |
+| 13:30 | USD | Retail Control (MoM) (Aug) | 1.4% | 0.4% | -0.4% |
+| 13:30 | CAD | Building Permits (MoM) (Jul) | -17.3% | -4.7% | 18.3% |
 | 14:00 | EUR | ECB's Elderson Speaks |  |  |  |
-| 15:00 | USD | Business Inventories (MoM) (Jul) |  | 0.6% | 0.0% |
-| 15:00 | USD | Retail Inventories Ex Auto (Jul) |  | 0.7% | -0.4% |
-| 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.684M |
-| 16:30 | USD | Atlanta Fed GDPNow (Q3) |  | 4.4% | 4.4% |
+| 15:00 | USD | Business Inventories (MoM) (Jul) | 0.8% | 0.6% | 0.1% |
+| 15:00 | USD | Retail Inventories Ex Auto (Jul) | 0.8% | 0.7% | -0.4% |
+| 15:30 | USD | Cushing Crude Oil Inventories | -0.342M |  | -0.684M |
+| 17:00 | USD | Atlanta Fed GDPNow (Q3) | 5.1% | 4.4% | 4.4% |
 | 17:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 18:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 19:00 | USD | Interest Rate Projection - 1st Yr (Q3) |  |  | 3.6% |

@@ -12,16 +12,16 @@
 | 04:00 | NZD | Low | RBNZ Offshore Holdings (Aug) | 57.00% |  | 56.90% |
 | 07:00 | GBP | Low | Core CPI (YoY) (Aug) | 2.6% | 2.6% | 2.6% |
 | 07:00 | GBP | Low | Core CPI (MoM) (Aug) | 0.3% | 0.3% | 0.2% |
-| 07:00 | GBP | Low | Core PPI Output (YoY) (Aug) | 2.7% |  | 2.7% |
 | 07:00 | GBP | Low | Core PPI Output (MoM) (Aug) | 0.3% |  | 0.5% |
-| 07:00 | GBP | Low | Core RPI (YoY) (Aug) | 3.3% |  | 3.1% |
+| 07:00 | GBP | Low | Core PPI Output (YoY) (Aug) | 2.7% |  | 2.7% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Aug) | 0.6% | 0.7% | 0.6% |
-| 07:00 | GBP | Moderate | CPI (MoM) (Aug) | 0.5% | 0.5% | 0.3% |
+| 07:00 | GBP | Low | Core RPI (YoY) (Aug) | 3.3% |  | 3.1% |
 | 07:00 | GBP | High | CPI (YoY) (Aug) | 3.1% | 3.1% | 2.9% |
+| 07:00 | GBP | Moderate | CPI (MoM) (Aug) | 0.5% | 0.5% | 0.3% |
 | 07:00 | GBP | Low | CPI, n.s.a (Aug) | 143.60 |  | 142.90 |
 | 07:00 | GBP | Moderate | CPIH (YoY) | 3.3% |  | 3.1% |
-| 07:00 | GBP | Low | PPI Input (YoY) (Aug) | 6.1% | 5.4% | 5.8% |
 | 07:00 | GBP | Moderate | PPI Input (MoM) (Aug) | 0.3% | 0.6% | -0.8% |
+| 07:00 | GBP | Low | PPI Input (YoY) (Aug) | 6.1% | 5.4% | 5.8% |
 | 07:00 | GBP | Low | PPI Output (YoY) (Aug) | 3.7% | 3.3% | 3.3% |
 | 07:00 | GBP | Low | PPI Output (MoM) (Aug) | 0.7% | 0.5% | 0.4% |
 | 07:00 | GBP | Low | RPI (MoM) (Aug) | 0.6% |  | 0.6% |
@@ -29,8 +29,8 @@
 | 09:00 | EUR | Low | Italian CPI (MoM) (Aug) | 0.5% | 0.5% | 0.3% |
 | 09:00 | EUR | Low | Italian CPI (YoY) (Aug) | 3.3% | 3.3% | 2.9% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Aug) | 3.4% |  | 2.8% |
-| 09:00 | EUR | Low | Italian HICP (YoY) (Aug) | 3.2% | 3.2% | 2.9% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Aug) | 0.1% | 0.1% | -1.0% |
+| 09:00 | EUR | Low | Italian HICP (YoY) (Aug) | 3.2% | 3.2% | 2.9% |
 | 09:30 | GBP | Low | House Price Index (YoY) | 1.4% | 2.1% | 2.0% |
 | 10:00 | EUR | Moderate | Wages in euro zone (YoY) (Q2) | 3.00% |  | 3.40% |
 | 10:00 | EUR | Moderate | Industrial Production (MoM) (Jul) | -0.1% | -0.2% | -0.1% |
@@ -45,34 +45,33 @@
 | 12:00 | USD | Low | Mortgage Refinance Index | 627.1 |  | 687.3 |
 | 12:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Sep) | 1.5% | 1.3% | -0.5% |
 | 12:00 | ZAR | Low | Retail Sales (YoY) (Jul) | 3.4% |  | 1.1% |
-| 12:30 | INR | Low | M3 Money Supply |  |  | 16.7% |
-| 13:00 | BRL | Low | IBC-Br Economic Activity (Jul) |  | -0.10% | -0.60% |
-| 13:15 | CAD | Moderate | Housing Starts (Aug) |  | 243.0K | 229.1K |
-| 13:30 | USD | High | Core Retail Sales (MoM) (Aug) |  | 0.6% | -0.3% |
-| 13:30 | USD | Low | Export Price Index (YoY) (Aug) |  |  | 8.2% |
-| 13:30 | USD | Moderate | Export Price Index (MoM) (Aug) |  | 0.5% | -1.3% |
-| 13:30 | USD | Moderate | Import Price Index (MoM) (Aug) |  | 0.4% | -0.4% |
-| 13:30 | USD | Low | Import Price Index (YoY) (Aug) |  |  | 5.9% |
-| 13:30 | USD | Moderate | Retail Control (MoM) (Aug) |  | 0.4% | -0.4% |
-| 13:30 | USD | Low | Retail Sales (YoY) (Aug) |  |  | 5.01% |
-| 13:30 | USD | High | Retail Sales (MoM) (Aug) |  | 0.8% | -0.6% |
-| 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Aug) |  |  | -0.2% |
-| 13:30 | CAD | Moderate | Building Permits (MoM) (Jul) |  | -4.7% | 18.5% |
+| 13:00 | BRL | Low | IBC-Br Economic Activity (Jul) | -0.20% | -0.10% | -0.60% |
+| 13:15 | CAD | Moderate | Housing Starts (Aug) | 229.0K | 243.0K | 229.4K |
+| 13:30 | USD | High | Core Retail Sales (MoM) (Aug) | 1.4% | 0.6% | -0.2% |
+| 13:30 | USD | Moderate | Export Price Index (MoM) (Aug) | 0.6% | 0.5% | -1.4% |
+| 13:30 | USD | Low | Export Price Index (YoY) (Aug) | 8.6% |  | 8.1% |
+| 13:30 | USD | Moderate | Import Price Index (MoM) (Aug) | 0.7% | 0.4% | -0.3% |
+| 13:30 | USD | Low | Import Price Index (YoY) (Aug) | 7.0% |  | 5.9% |
+| 13:30 | USD | Moderate | Retail Control (MoM) (Aug) | 1.4% | 0.4% | -0.4% |
+| 13:30 | USD | High | Retail Sales (MoM) (Aug) | 1.2% | 0.8% | -0.5% |
+| 13:30 | USD | Low | Retail Sales (YoY) (Aug) | 6.01% |  | 5.03% |
+| 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Aug) | 1.2% |  | -0.3% |
+| 13:30 | CAD | Moderate | Building Permits (MoM) (Jul) | -17.3% | -4.7% | 18.3% |
 | 14:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 15:00 | USD | Moderate | Business Inventories (MoM) (Jul) |  | 0.6% | 0.0% |
-| 15:00 | USD | Low | NAHB Housing Market Index (Sep) |  | 34 | 35 |
-| 15:00 | USD | Moderate | Retail Inventories Ex Auto (Jul) |  | 0.7% | -0.4% |
-| 15:30 | USD | High | Crude Oil Inventories |  | -1.600M | -0.391M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.090M |
-| 15:30 | USD | Low | Crude Oil Imports |  |  | 1.120M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.684M |
-| 15:30 | USD | Low | Distillate Fuel Production |  |  | 0.222M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | 0.100M | 2.087M |
-| 15:30 | USD | Low | Gasoline Production |  |  | -0.537M |
-| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.010M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.2% |
-| 15:30 | USD | Low | Gasoline Inventories |  | -1.000M | 1.269M |
-| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 4.4% | 4.4% |
+| 15:00 | USD | Moderate | Business Inventories (MoM) (Jul) | 0.8% | 0.6% | 0.1% |
+| 15:00 | USD | Low | NAHB Housing Market Index (Sep) | 32 | 34 | 35 |
+| 15:00 | USD | Moderate | Retail Inventories Ex Auto (Jul) | 0.8% | 0.7% | -0.4% |
+| 15:30 | USD | High | Crude Oil Inventories | -0.640M | -1.600M | -0.391M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | -0.256M |  | 0.090M |
+| 15:30 | USD | Low | Crude Oil Imports | -1.180M |  | 1.120M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | -0.342M |  | -0.684M |
+| 15:30 | USD | Low | Distillate Fuel Production | -0.121M |  | 0.222M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks | 1.585M | 0.100M | 2.087M |
+| 15:30 | USD | Low | Gasoline Production | 0.336M |  | -0.537M |
+| 15:30 | USD | Low | Heating Oil Stockpiles | 0.684M |  | 0.010M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -1.0% |  | -0.2% |
+| 15:30 | USD | Low | Gasoline Inventories | 0.794M | -1.000M | 1.269M |
+| 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 5.1% | 4.4% | 4.4% |
 | 17:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 18:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
