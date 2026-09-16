@@ -8,10 +8,10 @@
 | 00:50 | JPY | Moderate | Exports (YoY) (Aug) | 19.3% | 18.2% | 23.2% |
 | 00:50 | JPY | Low | Imports (YoY) (Aug) | 28.0% | 26.3% | 27.9% |
 | 00:50 | JPY | Moderate | Trade Balance (Aug) | -1,105.6B | -1,052.6B | -638.3B |
-| 02:00 | AUD | Low | MI Leading Index (MoM) (Aug) |  |  | 0.0% |
-| 04:00 | NZD | Low | RBNZ Offshore Holdings (Aug) |  |  | 56.90% |
+| 02:00 | AUD | Low | MI Leading Index (MoM) (Aug) | -0.0% |  | 0.0% |
+| 04:00 | NZD | Low | RBNZ Offshore Holdings (Aug) | 57.00% |  | 56.90% |
 | 07:00 | GBP | Low | Core CPI (YoY) (Aug) |  | 2.6% | 2.6% |
-| 07:00 | GBP | Low | Core CPI (MoM) (Aug) |  | 0.1% | 0.2% |
+| 07:00 | GBP | Low | Core CPI (MoM) (Aug) |  | 0.3% | 0.2% |
 | 07:00 | GBP | Low | Core PPI Output (YoY) (Aug) |  |  | 2.8% |
 | 07:00 | GBP | Low | Core PPI Output (MoM) (Aug) |  |  | 0.6% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Aug) |  |  | 3.1% |
@@ -20,9 +20,9 @@
 | 07:00 | GBP | High | CPI (YoY) (Aug) |  | 3.1% | 2.9% |
 | 07:00 | GBP | Low | CPI, n.s.a (Aug) |  |  | 142.90 |
 | 07:00 | GBP | Moderate | CPIH (YoY) |  |  | 2.8% |
-| 07:00 | GBP | Low | PPI Input (YoY) (Aug) |  |  | 4.9% |
-| 07:00 | GBP | Moderate | PPI Input (MoM) (Aug) |  | -0.6% | -1.7% |
-| 07:00 | GBP | Low | PPI Output (YoY) (Aug) |  |  | 3.1% |
+| 07:00 | GBP | Low | PPI Input (YoY) (Aug) |  | 5.4% | 4.9% |
+| 07:00 | GBP | Moderate | PPI Input (MoM) (Aug) |  | 0.6% | -1.7% |
+| 07:00 | GBP | Low | PPI Output (YoY) (Aug) |  | 3.3% | 3.1% |
 | 07:00 | GBP | Low | PPI Output (MoM) (Aug) |  | 0.5% | 0.2% |
 | 07:00 | GBP | Low | RPI (MoM) (Aug) |  |  | 0.6% |
 | 07:00 | GBP | Low | RPI (YoY) (Aug) |  | 3.5% | 3.2% |
@@ -49,7 +49,7 @@
 | 12:30 | INR | Low | M3 Money Supply |  |  | 14.2% |
 | 13:00 | BRL | Low | IBC-Br Economic Activity (Jul) |  | -0.10% | -0.60% |
 | 13:15 | CAD | Moderate | Housing Starts (Aug) |  | 243.0K | 229.1K |
-| 13:30 | USD | High | Core Retail Sales (MoM) (Aug) |  | 0.5% | -0.3% |
+| 13:30 | USD | High | Core Retail Sales (MoM) (Aug) |  | 0.6% | -0.3% |
 | 13:30 | USD | Low | Export Price Index (YoY) (Aug) |  |  | 8.2% |
 | 13:30 | USD | Moderate | Export Price Index (MoM) (Aug) |  | 0.5% | -1.3% |
 | 13:30 | USD | Moderate | Import Price Index (MoM) (Aug) |  | 0.4% | -0.4% |
@@ -58,12 +58,12 @@
 | 13:30 | USD | Low | Retail Sales (YoY) (Aug) |  |  | 5.01% |
 | 13:30 | USD | High | Retail Sales (MoM) (Aug) |  | 0.8% | -0.6% |
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Aug) |  |  | -0.2% |
-| 13:30 | CAD | Moderate | Building Permits (MoM) (Jul) |  | -4.5% | 18.5% |
+| 13:30 | CAD | Moderate | Building Permits (MoM) (Jul) |  | -4.7% | 18.5% |
 | 14:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 15:00 | USD | Moderate | Business Inventories (MoM) (Jul) |  | 0.6% | 0.0% |
 | 15:00 | USD | Low | NAHB Housing Market Index (Sep) |  | 34 | 35 |
-| 15:00 | USD | Moderate | Retail Inventories Ex Auto (Jul) |  | 0.7% | 0.7% |
-| 15:30 | USD | High | Crude Oil Inventories |  |  | -0.391M |
+| 15:00 | USD | Moderate | Retail Inventories Ex Auto (Jul) |  | 0.7% | -0.4% |
+| 15:30 | USD | High | Crude Oil Inventories |  | -1.600M | -0.391M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.090M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 1.120M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.684M |

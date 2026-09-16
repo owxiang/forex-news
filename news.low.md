@@ -5,17 +5,17 @@
 | 00:50 | JPY | Core Machinery Orders (MoM) (Jul) | -3.7% | -1.2% | 9.7% |
 | 00:50 | JPY | Core Machinery Orders (YoY) (Jul) | 11.2% | 15.3% | 16.9% |
 | 00:50 | JPY | Imports (YoY) (Aug) | 28.0% | 26.3% | 27.9% |
-| 02:00 | AUD | MI Leading Index (MoM) (Aug) |  |  | 0.0% |
-| 04:00 | NZD | RBNZ Offshore Holdings (Aug) |  |  | 56.90% |
+| 02:00 | AUD | MI Leading Index (MoM) (Aug) | -0.0% |  | 0.0% |
+| 04:00 | NZD | RBNZ Offshore Holdings (Aug) | 57.00% |  | 56.90% |
 | 07:00 | GBP | Core CPI (YoY) (Aug) |  | 2.6% | 2.6% |
-| 07:00 | GBP | Core CPI (MoM) (Aug) |  | 0.1% | 0.2% |
+| 07:00 | GBP | Core CPI (MoM) (Aug) |  | 0.3% | 0.2% |
 | 07:00 | GBP | Core PPI Output (YoY) (Aug) |  |  | 2.8% |
 | 07:00 | GBP | Core PPI Output (MoM) (Aug) |  |  | 0.6% |
 | 07:00 | GBP | Core RPI (YoY) (Aug) |  |  | 3.1% |
 | 07:00 | GBP | Core RPI (MoM) (Aug) |  | 0.7% | 0.6% |
 | 07:00 | GBP | CPI, n.s.a (Aug) |  |  | 142.90 |
-| 07:00 | GBP | PPI Input (YoY) (Aug) |  |  | 4.9% |
-| 07:00 | GBP | PPI Output (YoY) (Aug) |  |  | 3.1% |
+| 07:00 | GBP | PPI Input (YoY) (Aug) |  | 5.4% | 4.9% |
+| 07:00 | GBP | PPI Output (YoY) (Aug) |  | 3.3% | 3.1% |
 | 07:00 | GBP | PPI Output (MoM) (Aug) |  | 0.5% | 0.2% |
 | 07:00 | GBP | RPI (MoM) (Aug) |  |  | 0.6% |
 | 07:00 | GBP | RPI (YoY) (Aug) |  | 3.5% | 3.2% |
