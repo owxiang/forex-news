@@ -20,4 +20,4 @@
 | 14:50 | USD | Atlanta Fed GDPNow (Q3) | 5.1% | 5.1% | 5.1% |
 | 15:00 | USD | Pending Home Sales (MoM) (Aug) | 0.3% | -0.2% | -2.6% |
 | 18:00 | USD | 10-Year TIPS Auction | 2.653% |  | 2.438% |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 6,741B |
+| 21:30 | USD | Fed's Balance Sheet | 6,747B |  | 6,741B |

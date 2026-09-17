@@ -34,9 +34,9 @@
 | 15:30 | USD | Natural Gas Storage | 44B | 49B | 40B |
 | 16:30 | USD | 4-Week Bill Auction | 3.820% |  | 3.775% |
 | 16:30 | USD | 8-Week Bill Auction | 3.920% |  | 3.845% |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.036T |
-| 22:00 | KRW | PPI (MoM) (Aug) |  |  | -0.4% |
-| 22:00 | KRW | PPI (YoY) (Aug) |  |  | 7.7% |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 2.921T |  | 3.036T |
+| 22:00 | KRW | PPI (MoM) (Aug) | 0.2% |  | -0.4% |
+| 22:00 | KRW | PPI (YoY) (Aug) | 7.9% |  | 7.7% |
 | 23:45 | NZD | Exports (Aug) |  |  | 7.39B |
 | 23:45 | NZD | FPI (MoM) (Aug) |  |  | 0.1% |
 | 23:45 | NZD | Imports (Aug) |  |  | 9.34B |
