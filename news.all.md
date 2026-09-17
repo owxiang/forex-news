@@ -49,13 +49,13 @@
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Aug) | -0.1% |  | -0.1% |
 | 13:30 | CAD | Moderate | RMPI (MoM) (Aug) | 3.1% | 0.7% | -2.1% |
 | 13:30 | CAD | Low | RMPI (YoY) (Aug) | 22.8% |  | 18.2% |
-| 15:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 5.1% | 5.1% |
-| 15:00 | USD | Moderate | Pending Home Sales (MoM) (Aug) |  | -0.2% | -2.3% |
-| 15:00 | USD | Low | Pending Home Sales Index (Aug) |  |  | 71.2 |
-| 15:30 | USD | Low | Natural Gas Storage |  | 49B | 40B |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.775% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.845% |
-| 18:00 | USD | Moderate | 10-Year TIPS Auction |  |  | 2.438% |
+| 14:50 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 5.1% | 5.1% | 5.1% |
+| 15:00 | USD | Moderate | Pending Home Sales (MoM) (Aug) | 0.3% | -0.2% | -2.6% |
+| 15:00 | USD | Low | Pending Home Sales Index (Aug) | 71.2 |  | 71.0 |
+| 15:30 | USD | Low | Natural Gas Storage | 44B | 49B | 40B |
+| 16:30 | USD | Low | 4-Week Bill Auction | 3.820% |  | 3.775% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 3.920% |  | 3.845% |
+| 18:00 | USD | Moderate | 10-Year TIPS Auction | 2.653% |  | 2.438% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,741B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.036T |
 | 22:00 | KRW | Low | PPI (MoM) (Aug) |  |  | -0.4% |

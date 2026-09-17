@@ -17,7 +17,7 @@
 | 13:30 | CAD | Foreign Securities Purchases (Jul) | 20.65B | 28.64B | 41.25B |
 | 13:30 | CAD | New Housing Price Index (MoM) (Aug) | -0.1% |  | -0.1% |
 | 13:30 | CAD | RMPI (MoM) (Aug) | 3.1% | 0.7% | -2.1% |
-| 15:00 | USD | Atlanta Fed GDPNow (Q3) |  | 5.1% | 5.1% |
-| 15:00 | USD | Pending Home Sales (MoM) (Aug) |  | -0.2% | -2.3% |
-| 18:00 | USD | 10-Year TIPS Auction |  |  | 2.438% |
+| 14:50 | USD | Atlanta Fed GDPNow (Q3) | 5.1% | 5.1% | 5.1% |
+| 15:00 | USD | Pending Home Sales (MoM) (Aug) | 0.3% | -0.2% | -2.6% |
+| 18:00 | USD | 10-Year TIPS Auction | 2.653% |  | 2.438% |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,741B |

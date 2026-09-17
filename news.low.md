@@ -30,10 +30,10 @@
 | 13:30 | CAD | IPPI (MoM) (Aug) | 1.3% | 0.0% | 0.3% |
 | 13:30 | CAD | IPPI (YoY) (Aug) | 13.5% |  | 12.3% |
 | 13:30 | CAD | RMPI (YoY) (Aug) | 22.8% |  | 18.2% |
-| 15:00 | USD | Pending Home Sales Index (Aug) |  |  | 71.2 |
-| 15:30 | USD | Natural Gas Storage |  | 49B | 40B |
-| 16:30 | USD | 4-Week Bill Auction |  |  | 3.775% |
-| 16:30 | USD | 8-Week Bill Auction |  |  | 3.845% |
+| 15:00 | USD | Pending Home Sales Index (Aug) | 71.2 |  | 71.0 |
+| 15:30 | USD | Natural Gas Storage | 44B | 49B | 40B |
+| 16:30 | USD | 4-Week Bill Auction | 3.820% |  | 3.775% |
+| 16:30 | USD | 8-Week Bill Auction | 3.920% |  | 3.845% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.036T |
 | 22:00 | KRW | PPI (MoM) (Aug) |  |  | -0.4% |
 | 22:00 | KRW | PPI (YoY) (Aug) |  |  | 7.7% |
