@@ -7,19 +7,18 @@
 | 01:30 | SGD | Non-Oil Exports (MoM) (Aug) | 10.90% |  | -0.30% |
 | 01:30 | SGD | Non-Oil Exports (YoY) (Aug) | 46.20% | 35.00% | 24.10% |
 | 01:30 | SGD | Trade Balance (Aug) | 13.780B |  | 10.898B |
-| 02:30 | AUD | Reserve Assets Total (Aug) |  |  | 117,358.0B |
-| 07:00 | CHF | Trade Balance (Aug) |  |  | 8.730B |
+| 02:30 | AUD | Reserve Assets Total (Aug) | 118.2B |  | 117.4B |
+| 07:00 | CHF | Trade Balance (Aug) | 3.786B |  | 5.742B |
 | 08:00 | CHF | SECO Economic Forecasts |  |  |  |
 | 09:30 | HKD | Unemployment Rate (Aug) |  |  | 3.7% |
 | 09:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.736% |
-| 09:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 3.079% |
 | 09:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 3.255% |
 | 10:00 | CNY | FDI (Aug) |  |  | -6.20% |
 | 10:00 | EUR | Core CPI (MoM) (Aug) |  | 0.2% | 0.0% |
 | 10:00 | EUR | CPI ex Tobacco (MoM) (Aug) |  |  | 0.2% |
 | 10:00 | EUR | CPI ex Tobacco (YoY) (Aug) |  |  | 2.9% |
 | 10:00 | EUR | CPI, n.s.a (Aug) |  | 103.70 | 103.24 |
-| 10:00 | EUR | HICP ex Energy & Food (YoY) (Aug) |  | 2.1% | 2.2% |
+| 10:00 | EUR | HICP ex Energy & Food (YoY) (Aug) |  | 2.1% | 2.1% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Aug) |  | 0.2% | 0.0% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 13:30 | USD | Building Permits (MoM) (Aug) |  |  | 4.3% |
