@@ -5,11 +5,11 @@
 | 00:30 | JPY | National Core CPI (YoY) (Aug) | 1.7% | 1.8% | 1.8% |
 | 00:30 | JPY | National CPI (MoM) | 0.1% |  | 0.5% |
 | 03:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
-| 07:00 | GBP | Core Retail Sales (MoM) (Aug) |  | -0.2% | -0.9% |
-| 07:00 | GBP | Core Retail Sales (YoY) (Aug) |  | 1.9% | 2.3% |
-| 07:00 | GBP | Retail Sales (MoM) (Aug) |  | -0.2% | -0.5% |
-| 07:00 | GBP | Retail Sales (YoY) (Aug) |  | 1.9% | 1.6% |
-| 07:00 | EUR | German PPI (MoM) (Aug) |  | 0.6% | 1.1% |
+| 07:00 | GBP | Core Retail Sales (MoM) (Aug) | 0.6% | -0.2% | -0.9% |
+| 07:00 | GBP | Core Retail Sales (YoY) (Aug) | 2.7% | 1.9% | 1.8% |
+| 07:00 | GBP | Retail Sales (MoM) (Aug) | 0.5% | -0.2% | -0.5% |
+| 07:00 | GBP | Retail Sales (YoY) (Aug) | 2.4% | 1.9% | 1.2% |
+| 07:00 | EUR | German PPI (MoM) (Aug) | 1.1% | 0.6% | 1.1% |
 | 07:30 | JPY | BoJ Press Conference |  |  |  |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 11:30 | EUR | ECB President Lagarde Speaks |  |  |  |

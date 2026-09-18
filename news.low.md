@@ -5,10 +5,11 @@
 | 00:30 | AUD | RBA Gov Bullock Speaks |  |  |  |
 | 00:30 | JPY | CPI, n.s.a (MoM) (Aug) | 0.1% |  | 0.5% |
 | 00:30 | JPY | National CPI (YoY) (Aug) | 1.9% |  | 1.9% |
-| 07:00 | EUR | German PPI (YoY) (Aug) |  | 4.1% | 3.0% |
-| 09:00 | EUR | Current Account (Jul) |  | 30.7B | 35.1B |
-| 09:00 | EUR | Current Account n.s.a. (Jul) |  |  | 46.9B |
-| 10:00 | EUR | Construction Output (MoM) (Jul) |  |  | -1.34% |
+| 07:00 | EUR | German PPI (YoY) (Aug) | 4.6% | 4.1% | 3.0% |
+| 09:00 | EUR | Current Account (Jul) | 27.6B | 30.7B | 35.1B |
+| 09:00 | EUR | Current Account n.s.a. (Jul) | 36.5B |  | 46.9B |
+| 10:00 | EUR | Construction Output (MoM) (Jul) | 0.00% |  | -1.53% |
+| 10:02 | CNY | FDI (Aug) | -5.30% |  | -6.20% |
 | 11:00 | EUR | ECOFIN Meetings |  |  |  |
 | 12:30 | INR | Bank Loan Growth |  |  | 19.1% |
 | 12:30 | INR | Deposit Growth |  |  | 17.8% |

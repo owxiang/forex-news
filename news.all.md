@@ -9,16 +9,17 @@
 | 00:30 | JPY | Moderate | National CPI (MoM) | 0.1% |  | 0.5% |
 | 03:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
 | 04:00 | JPY | High | BoJ Interest Rate Decision | 1.25% | 1.25% | 1.00% |
-| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Aug) |  | -0.2% | -0.9% |
-| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Aug) |  | 1.9% | 2.3% |
-| 07:00 | GBP | Moderate | Retail Sales (MoM) (Aug) |  | -0.2% | -0.5% |
-| 07:00 | GBP | Moderate | Retail Sales (YoY) (Aug) |  | 1.9% | 1.6% |
-| 07:00 | EUR | Moderate | German PPI (MoM) (Aug) |  | 0.6% | 1.1% |
-| 07:00 | EUR | Low | German PPI (YoY) (Aug) |  | 4.1% | 3.0% |
+| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Aug) | 0.6% | -0.2% | -0.9% |
+| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Aug) | 2.7% | 1.9% | 1.8% |
+| 07:00 | GBP | Moderate | Retail Sales (MoM) (Aug) | 0.5% | -0.2% | -0.5% |
+| 07:00 | GBP | Moderate | Retail Sales (YoY) (Aug) | 2.4% | 1.9% | 1.2% |
+| 07:00 | EUR | Moderate | German PPI (MoM) (Aug) | 1.1% | 0.6% | 1.1% |
+| 07:00 | EUR | Low | German PPI (YoY) (Aug) | 4.6% | 4.1% | 3.0% |
 | 07:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
-| 09:00 | EUR | Low | Current Account (Jul) |  | 30.7B | 35.1B |
-| 09:00 | EUR | Low | Current Account n.s.a. (Jul) |  |  | 46.9B |
-| 10:00 | EUR | Low | Construction Output (MoM) (Jul) |  |  | -1.34% |
+| 09:00 | EUR | Low | Current Account (Jul) | 27.6B | 30.7B | 35.1B |
+| 09:00 | EUR | Low | Current Account n.s.a. (Jul) | 36.5B |  | 46.9B |
+| 10:00 | EUR | Low | Construction Output (MoM) (Jul) | 0.00% |  | -1.53% |
+| 10:02 | CNY | Low | FDI (Aug) | -5.30% |  | -6.20% |
 | 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 11:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
