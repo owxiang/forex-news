@@ -23,20 +23,20 @@
 | 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 11:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 12:30 | INR | Low | Bank Loan Growth |  |  | 19.1% |
-| 12:30 | INR | Low | Deposit Growth |  |  | 17.8% |
-| 12:30 | INR | Low | FX Reserves, USD |  |  | 785.71B |
-| 12:30 | INR | Low | M3 Money Supply |  |  | 16.7% |
-| 13:00 | MXN | Low | Aggregate Demand (QoQ) (Q2) |  |  | 0.30% |
-| 13:00 | MXN | Low | Aggregate Demand (YoY) (Q2) |  |  | 5.00% |
-| 13:00 | MXN | Low | Private Spending (QoQ) (Q2) |  |  | -0.80% |
-| 13:00 | MXN | Low | Private Spending (YoY) (Q2) |  |  | 2.20% |
-| 14:15 | USD | Low | Capacity Utilization Rate (Aug) |  | 76.4% | 76.3% |
-| 14:15 | USD | Moderate | Industrial Production (YoY) (Aug) |  |  | 1.08% |
-| 14:15 | USD | Moderate | Industrial Production (MoM) (Aug) |  | 0.3% | 0.2% |
-| 14:15 | USD | Low | Manufacturing Production (MoM) (Aug) |  | 0.3% | 0.2% |
+| 12:30 | INR | Low | Bank Loan Growth | 19.1% |  | 18.3% |
+| 12:30 | INR | Low | Deposit Growth | 17.8% |  | 14.7% |
+| 12:30 | INR | Low | FX Reserves, USD | 780.78B |  | 785.71B |
+| 13:00 | CAD | Moderate | New Housing Price Index (MoM) | -0.1% |  | -0.1% |
+| 13:00 | MXN | Low | Aggregate Demand (QoQ) (Q2) | 1.70% |  | 0.30% |
+| 13:00 | MXN | Low | Aggregate Demand (YoY) (Q2) | 5.80% |  | 5.00% |
+| 13:00 | MXN | Low | Private Spending (QoQ) (Q2) | 0.90% |  | -0.80% |
+| 13:00 | MXN | Low | Private Spending (YoY) (Q2) | 2.10% |  | 2.20% |
+| 14:15 | USD | Low | Capacity Utilization Rate (Aug) | 76.3% | 76.4% | 76.3% |
+| 14:15 | USD | Moderate | Industrial Production (YoY) (Aug) | 1.42% |  | 1.13% |
+| 14:15 | USD | Moderate | Industrial Production (MoM) (Aug) | 0.0% | 0.3% | 0.2% |
+| 14:15 | USD | Low | Manufacturing Production (MoM) (Aug) | -0.3% | 0.3% | 0.2% |
 | 14:30 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 15:00 | USD | Moderate | US Leading Index (MoM) (Aug) |  | 0.1% | 0.2% |
+| 15:00 | USD | Moderate | US Leading Index (MoM) (Aug) | -0.1% | 0.1% | 0.2% |
 | 16:45 | USD | Low | Fed Schmid Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 450 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 591 |

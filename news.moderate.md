@@ -13,10 +13,11 @@
 | 07:30 | JPY | BoJ Press Conference |  |  |  |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 11:30 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 14:15 | USD | Industrial Production (YoY) (Aug) |  |  | 1.08% |
-| 14:15 | USD | Industrial Production (MoM) (Aug) |  | 0.3% | 0.2% |
+| 13:00 | CAD | New Housing Price Index (MoM) | -0.1% |  | -0.1% |
+| 14:15 | USD | Industrial Production (YoY) (Aug) | 1.42% |  | 1.13% |
+| 14:15 | USD | Industrial Production (MoM) (Aug) | 0.0% | 0.3% | 0.2% |
 | 14:30 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 15:00 | USD | US Leading Index (MoM) (Aug) |  | 0.1% | 0.2% |
+| 15:00 | USD | US Leading Index (MoM) (Aug) | -0.1% | 0.1% | 0.2% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 450 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 591 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -58.8K |
