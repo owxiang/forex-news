@@ -38,8 +38,8 @@
 | 14:30 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (Aug) | -0.1% | 0.1% | 0.2% |
 | 16:45 | USD | Low | Fed Schmid Speaks |  |  |  |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 450 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 591 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 452 |  | 450 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 595 |  | 591 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -58.8K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -0.3K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 92.5K |

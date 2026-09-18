@@ -18,8 +18,8 @@
 | 14:15 | USD | Industrial Production (MoM) (Aug) | 0.0% | 0.3% | 0.2% |
 | 14:30 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 15:00 | USD | US Leading Index (MoM) (Aug) | -0.1% | 0.1% | 0.2% |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 450 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 591 |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 452 |  | 450 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count | 595 |  | 591 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -58.8K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 136.6K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 232.0K |
