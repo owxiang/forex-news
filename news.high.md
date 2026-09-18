@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 04:00 | JPY | BoJ Interest Rate Decision |  | 1.25% | 1.00% |
+| 04:00 | JPY | BoJ Interest Rate Decision | 1.25% | 1.25% | 1.00% |

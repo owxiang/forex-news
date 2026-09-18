@@ -6,9 +6,9 @@
 | 00:30 | JPY | Low | CPI, n.s.a (MoM) (Aug) | 0.1% |  | 0.5% |
 | 00:30 | JPY | Moderate | National Core CPI (YoY) (Aug) | 1.7% | 1.8% | 1.8% |
 | 00:30 | JPY | Low | National CPI (YoY) (Aug) | 1.9% |  | 1.9% |
-| 00:30 | JPY | Moderate | National CPI (MoM) | 0.1% |  | 0.4% |
+| 00:30 | JPY | Moderate | National CPI (MoM) | 0.1% |  | 0.5% |
 | 03:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
-| 04:00 | JPY | High | BoJ Interest Rate Decision |  | 1.25% | 1.00% |
+| 04:00 | JPY | High | BoJ Interest Rate Decision | 1.25% | 1.25% | 1.00% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Aug) |  | -0.2% | -0.9% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Aug) |  | 1.9% | 2.3% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Aug) |  | -0.2% | -0.5% |
