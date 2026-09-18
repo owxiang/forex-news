@@ -1,23 +1,30 @@
-## 17 September 2026 - Moderate Impact Forex News
+## 18 September 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 08:00 | EUR | ECB's Lane Speaks |  |  |  |
-| 10:00 | EUR | Core CPI (YoY) (Aug) | 2.4% | 2.4% | 2.5% |
-| 10:00 | EUR | CPI (MoM) (Aug) | 0.4% | 2.9% | 0.2% |
-| 12:00 | GBP | BoE MPC vote cut (Sep) | 0 | 0 | 0 |
-| 12:00 | GBP | BoE MPC vote hike (Sep) | 3 | 3 | 3 |
-| 12:00 | GBP | BoE MPC vote unchanged (Sep) | 6 | 6 | 6 |
-| 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
-| 13:30 | USD | Building Permits (Aug) | 1.394M | 1.400M | 1.433M |
-| 13:30 | USD | Continuing Jobless Claims | 1,730K | 1,780K | 1,769K |
-| 13:30 | USD | Housing Starts (Aug) | 1.275M | 1.320M | 1.309M |
-| 13:30 | USD | Housing Starts (MoM) (Aug) | -2.6% |  | -9.0% |
-| 13:30 | USD | Philly Fed Employment (Sep) | 11.8 |  | 27.9 |
-| 13:30 | CAD | Foreign Securities Purchases (Jul) | 20.65B | 28.64B | 41.25B |
-| 13:30 | CAD | New Housing Price Index (MoM) (Aug) | -0.1% |  | -0.1% |
-| 13:30 | CAD | RMPI (MoM) (Aug) | 3.1% | 0.7% | -2.1% |
-| 14:50 | USD | Atlanta Fed GDPNow (Q3) | 5.1% | 5.1% | 5.1% |
-| 15:00 | USD | Pending Home Sales (MoM) (Aug) | 0.3% | -0.2% | -2.6% |
-| 18:00 | USD | 10-Year TIPS Auction | 2.653% |  | 2.438% |
-| 21:30 | USD | Fed's Balance Sheet | 6,747B |  | 6,741B |
+| 00:30 | JPY | National Core CPI (YoY) (Aug) | 1.7% | 1.8% | 1.8% |
+| 00:30 | JPY | National CPI (MoM) | 0.1% |  | 0.4% |
+| 03:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
+| 07:00 | GBP | Core Retail Sales (MoM) (Aug) |  | -0.2% | -0.9% |
+| 07:00 | GBP | Core Retail Sales (YoY) (Aug) |  | 1.9% | 2.3% |
+| 07:00 | GBP | Retail Sales (MoM) (Aug) |  | -0.2% | -0.5% |
+| 07:00 | GBP | Retail Sales (YoY) (Aug) |  | 1.9% | 1.6% |
+| 07:00 | EUR | German PPI (MoM) (Aug) |  | 0.6% | 1.1% |
+| 07:30 | JPY | BoJ Press Conference |  |  |  |
+| 11:00 | EUR | Eurogroup Meetings |  |  |  |
+| 11:30 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 14:15 | USD | Industrial Production (YoY) (Aug) |  |  | 1.08% |
+| 14:15 | USD | Industrial Production (MoM) (Aug) |  | 0.3% | 0.2% |
+| 14:30 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 15:00 | USD | US Leading Index (MoM) (Aug) |  | 0.1% | 0.2% |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 450 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 591 |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | -58.8K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 136.6K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 232.0K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 20.9K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -76.0K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -34.9K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 66.1K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | 10.8K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | -42.6K |
