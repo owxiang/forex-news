@@ -2,5 +2,6 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | CNY | China Loan Prime Rate 5Y (Sep) | 3.50% |  | 3.50% |
+| 02:00 | CNY | China Loan Prime Rate 5Y (Sep) | 3.50% | 3.50% | 3.50% |
+| 02:00 | CNY | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
 | 09:30 | EUR | German Buba President Nagel Speaks |  |  |  |
