@@ -1,5 +1,5 @@
-## 19 September 2026 - Low Impact Forex News
+## 20 September 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 11:00 | EUR | ECOFIN Meetings |  |  |  |
+| 16:15 | GBP | Rightmove House Price Index (YoY) (Sep) |  |  | -1.0% |

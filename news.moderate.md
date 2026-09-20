@@ -1,3 +1,6 @@
-## 19 September 2026 - Moderate Impact Forex News
+## 20 September 2026 - Moderate Impact Forex News
 
-There is no moderate impact news today.
+| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 02:00 | CNY | China Loan Prime Rate 5Y (Sep) |  |  | 3.50% |
+| 09:30 | EUR | German Buba President Nagel Speaks |  |  |  |
