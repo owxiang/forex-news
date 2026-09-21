@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | Rightmove House Price Index (MoM) (Sep) |  |  | -2.0% |
-| 00:01 | GBP | Rightmove House Price Index (YoY) (Sep) |  |  | -1.0% |
-| 03:30 | SGD | Unemployment Rate (Q2) |  | 2.0% | 2.0% |
-| 04:00 | NZD | Credit Card Spending (YoY) (Aug) |  |  | 5.3% |
+| 00:01 | GBP | Rightmove House Price Index (MoM) (Sep) | 0.7% |  | -2.0% |
+| 00:01 | GBP | Rightmove House Price Index (YoY) (Sep) | -0.8% |  | -1.0% |
+| 03:30 | SGD | Unemployment Rate (Q2) | 1.9% | 2.0% | 2.0% |
+| 04:00 | NZD | Credit Card Spending (YoY) (Aug) | 3.5% |  | 5.3% |
 | 08:00 | CHF | M3 Money Supply (Aug) |  |  | 1,231,109.0B |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 11:30 | USD | Fed Goolsbee Speaks |  |  |  |
