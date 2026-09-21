@@ -1,21 +1,32 @@
-## 21 September 2026 - All Forex News
+## 22 September 2026 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:01 | GBP | Low | Rightmove House Price Index (MoM) (Sep) | 0.7% |  | -2.0% |
-| 00:01 | GBP | Low | Rightmove House Price Index (YoY) (Sep) | -0.8% |  | -1.0% |
-| 04:00 | NZD | Low | Credit Card Spending (YoY) (Aug) | 3.5% |  | 5.3% |
-| 05:30 | SGD | Low | Unemployment Rate (Q2) | 1.9% | 2.0% | 2.0% |
-| 08:00 | CHF | Low | M3 Money Supply (Aug) | 1,238.2B |  | 1,232.2B |
-| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 11:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 12:30 | INR | Low | Infrastructure Output (YoY) (Aug) | 4.8% |  | 5.0% |
-| 13:30 | USD | Low | Chicago Fed National Activity (Aug) | -0.04 |  | 0.08 |
-| 14:00 | EUR | Low | French 12-Month BTF Auction | 3.161% |  | 3.208% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.639% |  | 2.654% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.898% |  | 2.868% |
-| 16:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 16:05 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
-| 16:30 | USD | Low | 3-Month Bill Auction | 4.015% |  | 3.970% |
-| 16:30 | USD | Low | 6-Month Bill Auction | 4.155% |  | 4.060% |
+| 04:10 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
+| 07:00 | GBP | Low | Public Sector Net Borrowing |  |  | 23.30B |
+| 07:00 | GBP | Low | Public Sector Net Cash Requirement (Aug) |  |  | -29.006B |
+| 08:00 | ZAR | Low | Leading Indicators (Jul) |  |  | 116.60% |
+| 09:00 | EUR | Low | Spanish Trade Balance |  |  | -7.69B |
+| 09:30 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 09:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 3.090% |
+| 11:00 | GBP | Low | CBI Industrial Trends Orders (Sep) |  | -34 | -25 |
+| 12:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
+| 12:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 13:00 | MXN | Low | Retail Sales (YoY) (Jul) |  | 2.1% | 2.7% |
+| 13:00 | MXN | Low | Retail Sales (MoM) (Jul) |  | 0.2% | -0.2% |
+| 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 16.30K |
+| 13:55 | USD | Low | Redbook (YoY) |  |  | 8.5% |
+| 15:00 | USD | Low | Richmond Manufacturing Index (Sep) |  | 5 | 4 |
+| 15:00 | USD | Low | Richmond Manufacturing Shipments (Sep) |  |  | 11 |
+| 15:00 | USD | Low | Richmond Services Index (Sep) |  |  | -8 |
+| 15:00 | EUR | Low | Consumer Confidence (Sep) |  | -16.0 | -15.5 |
+| 15:05 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 15:10 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
+| 15:20 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
+| 18:00 | USD | Moderate | 2-Year Note Auction |  |  | 4.315% |
+| 18:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 18:00 | USD | Low | M2 Money Supply (MoM) (Aug) |  |  | 23.22T |
+| 20:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 7.140M |
+| 22:00 | KRW | Low | Consumer Confidence (Sep) |  |  | 104.5 |
