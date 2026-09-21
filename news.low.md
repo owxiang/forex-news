@@ -10,10 +10,10 @@
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 11:30 | USD | Fed Goolsbee Speaks |  |  |  |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:30 | INR | Infrastructure Output (YoY) (Aug) |  |  | 5.4% |
-| 13:30 | USD | Chicago Fed National Activity (Aug) |  |  | -0.08 |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 3.208% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.654% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.868% |
-| 16:30 | USD | 3-Month Bill Auction |  |  | 3.970% |
-| 16:30 | USD | 6-Month Bill Auction |  |  | 4.060% |
+| 12:30 | INR | Infrastructure Output (YoY) (Aug) | 4.8% |  | 5.0% |
+| 13:30 | USD | Chicago Fed National Activity (Aug) | -0.04 |  | 0.08 |
+| 14:00 | EUR | French 12-Month BTF Auction | 3.161% |  | 3.208% |
+| 14:00 | EUR | French 3-Month BTF Auction | 2.639% |  | 2.654% |
+| 14:00 | EUR | French 6-Month BTF Auction | 2.898% |  | 2.868% |
+| 16:30 | USD | 3-Month Bill Auction | 4.015% |  | 3.970% |
+| 16:30 | USD | 6-Month Bill Auction | 4.155% |  | 4.060% |
