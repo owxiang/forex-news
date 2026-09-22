@@ -28,9 +28,9 @@
 | 15:05 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 15:10 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 15:20 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
-| 18:00 | USD | Moderate | 2-Year Note Auction |  |  | 4.315% |
+| 18:00 | USD | Moderate | 2-Year Note Auction | 4.787% |  | 4.315% |
 | 18:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 18:00 | USD | Low | M2 Money Supply (MoM) (Aug) |  |  | 23.22T |
+| 18:00 | USD | Low | M2 Money Supply (MoM) (Aug) | 23.34T |  | 23.22T |
 | 20:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -0.500M | 7.140M |
 | 22:00 | KRW | Low | Consumer Confidence (Sep) |  |  | 104.5 |
