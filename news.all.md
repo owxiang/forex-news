@@ -32,5 +32,5 @@
 | 18:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 18:00 | USD | Low | M2 Money Supply (MoM) (Aug) | 23.34T |  | 23.22T |
 | 20:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -0.500M | 7.140M |
-| 22:00 | KRW | Low | Consumer Confidence (Sep) |  |  | 104.5 |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | 1.786M | -0.500M | 7.140M |
+| 22:00 | KRW | Low | Consumer Confidence (Sep) | 106.6 |  | 104.5 |

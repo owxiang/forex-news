@@ -10,4 +10,4 @@
 | 15:10 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 18:00 | USD | 2-Year Note Auction | 4.787% |  | 4.315% |
 | 20:30 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock |  | -0.500M | 7.140M |
+| 21:30 | USD | API Weekly Crude Oil Stock | 1.786M | -0.500M | 7.140M |

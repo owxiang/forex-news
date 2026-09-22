@@ -22,4 +22,4 @@
 | 15:20 | USD | Fed Governor Jefferson Speaks |  |  |  |
 | 18:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 18:00 | USD | M2 Money Supply (MoM) (Aug) | 23.34T |  | 23.22T |
-| 22:00 | KRW | Consumer Confidence (Sep) |  |  | 104.5 |
+| 22:00 | KRW | Consumer Confidence (Sep) | 106.6 |  | 104.5 |
