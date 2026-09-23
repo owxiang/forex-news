@@ -22,4 +22,4 @@
 | 15:30 | USD | Cushing Crude Oil Inventories | 2.266M |  | -0.342M |
 | 16:45 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 17:30 | EUR | ECB's Lane Speaks |  |  |  |
-| 18:00 | USD | 5-Year Note Auction |  |  | 4.393% |
+| 18:00 | USD | 5-Year Note Auction | 5.033% |  | 4.393% |

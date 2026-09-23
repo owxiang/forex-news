@@ -36,4 +36,4 @@
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -2.8% |  | -1.0% |
 | 15:30 | USD | Gasoline Inventories | -1.686M | 0.100M | 0.794M |
 | 17:00 | USD | Fed Goolsbee Speaks |  |  |  |
-| 18:30 | BRL | Foreign Exchange Flows |  |  | 0.706B |
+| 18:30 | BRL | Foreign Exchange Flows | -1.091B |  | 0.706B |

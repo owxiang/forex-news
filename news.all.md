@@ -59,5 +59,5 @@
 | 16:45 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 17:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 17:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 18:00 | USD | Moderate | 5-Year Note Auction |  |  | 4.393% |
-| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 0.706B |
+| 18:00 | USD | Moderate | 5-Year Note Auction | 5.033% |  | 4.393% |
+| 18:30 | BRL | Low | Foreign Exchange Flows | -1.091B |  | 0.706B |
