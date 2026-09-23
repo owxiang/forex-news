@@ -1,36 +1,64 @@
-## 22 September 2026 - All Forex News
+## 23 September 2026 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 04:10 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
-| 07:00 | GBP | Low | Public Sector Net Borrowing | 1.80B | 0.00B | 12.80B |
-| 07:00 | GBP | Low | Public Sector Net Cash Requirement (Aug) | 10.005B |  | -26.808B |
-| 08:00 | ZAR | Low | Leading Indicators (Jul) | 118.20% |  | 119.26% |
-| 08:30 | CHF | High | SNB Interest Rate Decision (Q3) | 0.00% |  | 0.00% |
-| 09:00 | EUR | Low | Spanish Trade Balance | -5.22B |  | -7.69B |
-| 09:30 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 09:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 10:30 | GBP | Low | 5-Year Treasury Gilt Auction | 4.843% |  | 4.786% |
-| 10:50 | EUR | Low | German 5-Year Bobl Auction | 3.280% |  | 3.090% |
-| 11:00 | GBP | Low | CBI Industrial Trends Orders (Sep) | -9 | -33 | -25 |
-| 12:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
-| 12:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 13:00 | MXN | Low | Retail Sales (YoY) (Jul) | 1.8% | 2.1% | 2.9% |
-| 13:00 | MXN | Low | Retail Sales (MoM) (Jul) | -0.1% | 0.2% | -0.2% |
-| 13:00 | BRL | Low | Federal Tax Revenue (Aug) | 235.57B |  | 289.35B |
-| 13:15 | USD | Moderate | ADP Employment Change Weekly | 20.00K |  | 16.30K |
-| 13:55 | USD | Low | Redbook (YoY) | 7.6% |  | 8.5% |
-| 14:55 | USD | High | U.S. President Trump Speaks |  |  |  |
-| 15:00 | USD | Low | Richmond Manufacturing Index (Sep) | -2 | 2 | 4 |
-| 15:00 | USD | Low | Richmond Manufacturing Shipments (Sep) | -5 |  | 11 |
-| 15:00 | USD | Low | Richmond Services Index (Sep) | 0 |  | -8 |
-| 15:00 | EUR | Low | Consumer Confidence (Sep) | -16.5 | -16.0 | -15.5 |
-| 15:05 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 15:10 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 15:20 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
-| 18:00 | USD | Moderate | 2-Year Note Auction | 4.787% |  | 4.315% |
-| 18:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 18:00 | USD | Low | M2 Money Supply (MoM) (Aug) | 23.34T |  | 23.22T |
-| 20:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | 1.786M | -0.500M | 7.140M |
-| 22:00 | KRW | Low | Consumer Confidence (Sep) | 106.6 |  | 104.5 |
+| 00:00 | AUD | Low | S&P Global Manufacturing & Services PMI (Sep) | 50.80 |  | 52.70 |
+| 00:00 | AUD | Low | S&P Global Manufacturing PMI (Sep) | 49.3 |  | 52.0 |
+| 00:00 | AUD | Low | S&P Global Services PMI (Sep) | 51.4 |  | 53.2 |
+| 06:00 | INR | Low | HSBC India Manufacturing PMI (Sep) |  |  | 52.8 |
+| 06:00 | INR | Low | HSBC India Services PMI (Sep) |  |  | 54.1 |
+| 06:00 | INR | Low | HSBC Manufacturing & Services PMI (Sep) |  |  | 54.30 |
+| 06:00 | SGD | Moderate | Core CPI (YoY) (Aug) |  | 2.20% | 2.00% |
+| 06:00 | SGD | Low | CPI (MoM) (Aug) |  |  | -0.20% |
+| 06:00 | SGD | Moderate | CPI (YoY) (Aug) |  | 2.3% | 2.2% |
+| 07:00 | NOK | Low | Unemployment Rate (Aug) |  |  | 4.2% |
+| 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Sep) |  | 50.9 | 51.1 |
+| 08:15 | EUR | Low | HCOB France Composite PMI (Sep) |  |  | 48.5 |
+| 08:15 | EUR | Moderate | HCOB France Services PMI (Sep) |  | 48.3 | 48.0 |
+| 08:30 | EUR | Low | HCOB Germany Composite PMI (Sep) |  | 51.8 | 51.8 |
+| 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Sep) |  | 54.1 | 54.3 |
+| 08:30 | EUR | Moderate | HCOB Germany Services PMI (Sep) |  | 49.9 | 49.7 |
+| 08:30 | IDR | Moderate | Interest Rate Decision |  | 5.75% | 5.75% |
+| 08:30 | IDR | Low | Deposit Facility Rate (Sep) |  | 4.75% | 4.75% |
+| 08:30 | IDR | Low | Lending Facility Rate (Sep) |  | 6.50% | 6.50% |
+| 08:30 | IDR | Low | Loans (YoY) (Aug) |  |  | 13.58% |
+| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Sep) |  | 52.6 | 52.7 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Sep) |  | 51.7 | 52.0 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Sep) |  | 51.4 | 51.6 |
+| 09:00 | ZAR | Low | Core CPI (MoM) (Aug) |  |  | 0.5% |
+| 09:00 | ZAR | Low | Core CPI (YoY) (Aug) |  |  | 4.2% |
+| 09:00 | ZAR | Low | CPI (MoM) (Aug) |  |  | 0.2% |
+| 09:00 | ZAR | Low | CPI (YoY) (Aug) |  | 4.5% | 4.3% |
+| 09:30 | GBP | Moderate | S&P Global Composite PMI (Sep) |  | 52.0 | 52.5 |
+| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Sep) |  | 51.5 | 51.7 |
+| 09:30 | GBP | Moderate | S&P Global Services PMI (Sep) |  | 52.0 | 52.5 |
+| 09:30 | HKD | Low | CPI (MoM) (Aug) |  |  | 0.20% |
+| 09:30 | HKD | Low | CPI (YoY) (Aug) |  |  | 1.70% |
+| 10:20 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.97% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -4.1% |
+| 12:00 | USD | Low | MBA Purchase Index |  |  | 156.2 |
+| 12:00 | USD | Low | Mortgage Market Index |  |  | 230.8 |
+| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 627.1 |
+| 12:30 | INR | Low | M3 Money Supply |  |  | 16.7% |
+| 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Aug) |  |  | -0.1% |
+| 14:00 | ZAR | Moderate | Interest Rate Decision (Sep) |  | 7.25% | 7.00% |
+| 14:00 | ZAR | Low | Prime Rate (Sep) |  |  | 10.50% |
+| 14:45 | USD | High | S&P Global Manufacturing PMI (Sep) |  | 53.6 | 53.9 |
+| 14:45 | USD | Moderate | S&P Global Composite PMI (Sep) |  |  | 56.0 |
+| 14:45 | USD | High | S&P Global Services PMI (Sep) |  | 55.8 | 56.5 |
+| 15:05 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 15:30 | USD | High | Crude Oil Inventories |  | -0.600M | -0.640M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.256M |
+| 15:30 | USD | Low | Crude Oil Imports |  |  | -1.180M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.342M |
+| 15:30 | USD | Low | Distillate Fuel Production |  |  | -0.121M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  |  | 1.585M |
+| 15:30 | USD | Low | Gasoline Production |  |  | 0.336M |
+| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.684M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.0% |
+| 15:30 | USD | Low | Gasoline Inventories |  |  | 0.794M |
+| 16:45 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 17:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 18:00 | USD | Moderate | 5-Year Note Auction |  |  | 4.393% |
+| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 0.706B |

@@ -1,25 +1,39 @@
-## 22 September 2026 - Low Impact Forex News
+## 23 September 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 04:10 | AUD | RBA Gov Bullock Speaks |  |  |  |
-| 07:00 | GBP | Public Sector Net Borrowing | 1.80B | 0.00B | 12.80B |
-| 07:00 | GBP | Public Sector Net Cash Requirement (Aug) | 10.005B |  | -26.808B |
-| 08:00 | ZAR | Leading Indicators (Jul) | 118.20% |  | 119.26% |
-| 09:00 | EUR | Spanish Trade Balance | -5.22B |  | -7.69B |
-| 10:30 | GBP | 5-Year Treasury Gilt Auction | 4.843% |  | 4.786% |
-| 10:50 | EUR | German 5-Year Bobl Auction | 3.280% |  | 3.090% |
-| 11:00 | GBP | CBI Industrial Trends Orders (Sep) | -9 | -33 | -25 |
-| 12:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
-| 13:00 | MXN | Retail Sales (YoY) (Jul) | 1.8% | 2.1% | 2.9% |
-| 13:00 | MXN | Retail Sales (MoM) (Jul) | -0.1% | 0.2% | -0.2% |
-| 13:00 | BRL | Federal Tax Revenue (Aug) | 235.57B |  | 289.35B |
-| 13:55 | USD | Redbook (YoY) | 7.6% |  | 8.5% |
-| 15:00 | USD | Richmond Manufacturing Index (Sep) | -2 | 2 | 4 |
-| 15:00 | USD | Richmond Manufacturing Shipments (Sep) | -5 |  | 11 |
-| 15:00 | USD | Richmond Services Index (Sep) | 0 |  | -8 |
-| 15:00 | EUR | Consumer Confidence (Sep) | -16.5 | -16.0 | -15.5 |
-| 15:20 | USD | Fed Governor Jefferson Speaks |  |  |  |
-| 18:00 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 18:00 | USD | M2 Money Supply (MoM) (Aug) | 23.34T |  | 23.22T |
-| 22:00 | KRW | Consumer Confidence (Sep) | 106.6 |  | 104.5 |
+| 00:00 | AUD | S&P Global Manufacturing & Services PMI (Sep) | 50.80 |  | 52.70 |
+| 00:00 | AUD | S&P Global Manufacturing PMI (Sep) | 49.3 |  | 52.0 |
+| 00:00 | AUD | S&P Global Services PMI (Sep) | 51.4 |  | 53.2 |
+| 06:00 | INR | HSBC India Manufacturing PMI (Sep) |  |  | 52.8 |
+| 06:00 | INR | HSBC India Services PMI (Sep) |  |  | 54.1 |
+| 06:00 | INR | HSBC Manufacturing & Services PMI (Sep) |  |  | 54.30 |
+| 06:00 | SGD | CPI (MoM) (Aug) |  |  | -0.20% |
+| 07:00 | NOK | Unemployment Rate (Aug) |  |  | 4.2% |
+| 08:15 | EUR | HCOB France Composite PMI (Sep) |  |  | 48.5 |
+| 08:30 | EUR | HCOB Germany Composite PMI (Sep) |  | 51.8 | 51.8 |
+| 08:30 | IDR | Deposit Facility Rate (Sep) |  | 4.75% | 4.75% |
+| 08:30 | IDR | Lending Facility Rate (Sep) |  | 6.50% | 6.50% |
+| 08:30 | IDR | Loans (YoY) (Aug) |  |  | 13.58% |
+| 09:00 | ZAR | Core CPI (MoM) (Aug) |  |  | 0.5% |
+| 09:00 | ZAR | Core CPI (YoY) (Aug) |  |  | 4.2% |
+| 09:00 | ZAR | CPI (MoM) (Aug) |  |  | 0.2% |
+| 09:00 | ZAR | CPI (YoY) (Aug) |  | 4.5% | 4.3% |
+| 09:30 | HKD | CPI (MoM) (Aug) |  |  | 0.20% |
+| 09:30 | HKD | CPI (YoY) (Aug) |  |  | 1.70% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.97% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -4.1% |
+| 12:00 | USD | MBA Purchase Index |  |  | 156.2 |
+| 12:00 | USD | Mortgage Market Index |  |  | 230.8 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 627.1 |
+| 12:30 | INR | M3 Money Supply |  |  | 16.7% |
+| 14:00 | ZAR | Prime Rate (Sep) |  |  | 10.50% |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.256M |
+| 15:30 | USD | Crude Oil Imports |  |  | -1.180M |
+| 15:30 | USD | Distillate Fuel Production |  |  | -0.121M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | 1.585M |
+| 15:30 | USD | Gasoline Production |  |  | 0.336M |
+| 15:30 | USD | Heating Oil Stockpiles |  |  | 0.684M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.0% |
+| 15:30 | USD | Gasoline Inventories |  |  | 0.794M |
+| 18:30 | BRL | Foreign Exchange Flows |  |  | 0.706B |
