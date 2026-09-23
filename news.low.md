@@ -1,39 +1,45 @@
-## 23 September 2026 - Low Impact Forex News
+## 24 September 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | AUD | S&P Global Manufacturing & Services PMI (Sep) | 50.80 |  | 52.70 |
-| 00:00 | AUD | S&P Global Manufacturing PMI (Sep) | 49.3 |  | 52.0 |
-| 00:00 | AUD | S&P Global Services PMI (Sep) | 51.4 |  | 53.2 |
-| 06:00 | INR | HSBC India Manufacturing PMI (Sep) | 55.7 |  | 52.8 |
-| 06:00 | INR | HSBC India Services PMI (Sep) | 55.8 |  | 54.1 |
-| 06:00 | INR | HSBC Manufacturing & Services PMI (Sep) | 56.50 |  | 54.30 |
-| 06:00 | SGD | CPI (MoM) (Aug) | 0.60% |  | -0.20% |
-| 07:00 | NOK | Unemployment Rate (Aug) | 4.5% |  | 4.2% |
-| 08:15 | EUR | HCOB France Composite PMI (Sep) | 51.2 |  | 48.5 |
-| 08:30 | EUR | HCOB Germany Composite PMI (Sep) | 53.8 | 51.8 | 51.8 |
-| 08:30 | IDR | Deposit Facility Rate (Sep) | 4.75% | 4.75% | 4.75% |
-| 08:30 | IDR | Lending Facility Rate (Sep) | 6.50% | 6.50% | 6.50% |
-| 08:30 | IDR | Loans (YoY) (Aug) | 13.65% |  | 13.58% |
-| 09:00 | ZAR | Core CPI (MoM) (Aug) | 0.0% |  | 0.5% |
-| 09:00 | ZAR | Core CPI (YoY) (Aug) | 4.1% |  | 4.2% |
-| 09:00 | ZAR | CPI (MoM) (Aug) | 0.0% |  | 0.2% |
-| 09:00 | ZAR | CPI (YoY) (Aug) | 4.4% | 4.5% | 4.3% |
-| 09:30 | HKD | CPI (MoM) (Aug) | 0.10% |  | 0.20% |
-| 09:30 | HKD | CPI (YoY) (Aug) | 1.70% |  | 1.70% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate | 7.12% |  | 6.97% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) | -1.5% |  | -4.1% |
-| 12:00 | USD | MBA Purchase Index | 154.9 |  | 156.2 |
-| 12:00 | USD | Mortgage Market Index | 227.3 |  | 230.8 |
-| 12:00 | USD | Mortgage Refinance Index | 611.0 |  | 627.1 |
-| 14:00 | ZAR | Prime Rate (Sep) | 10.75% |  | 10.50% |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) | -0.519M |  | -0.256M |
-| 15:30 | USD | Crude Oil Imports | 0.369M |  | -1.180M |
-| 15:30 | USD | Distillate Fuel Production | -0.068M |  | -0.121M |
-| 15:30 | USD | EIA Weekly Distillates Stocks | -0.428M | -0.600M | 1.585M |
-| 15:30 | USD | Gasoline Production | -0.054M |  | 0.336M |
-| 15:30 | USD | Heating Oil Stockpiles | 0.346M |  | 0.684M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -2.8% |  | -1.0% |
-| 15:30 | USD | Gasoline Inventories | -1.686M | 0.100M | 0.794M |
-| 17:00 | USD | Fed Goolsbee Speaks |  |  |  |
-| 18:30 | BRL | Foreign Exchange Flows | -1.091B |  | 0.706B |
+| 01:30 | JPY | Manufacturing & Services PMI (Sep) |  |  | 53.50 |
+| 01:30 | JPY | S&P Global Manufacturing PMI (Sep) |  | 55.0 | 54.9 |
+| 02:30 | AUD | Participation Rate (Aug) |  | 66.9% | 66.9% |
+| 04:00 | IDR | M2 Money Supply (YoY) (Aug) |  |  | 8.30% |
+| 05:00 | GBP | Car Registration (MoM) (Aug) |  |  | 32.7% |
+| 05:00 | GBP | Car Registration (YoY) (Aug) |  |  | 11.4% |
+| 05:00 | EUR | Italian Car Registration (MoM) (Aug) |  |  | -2.5% |
+| 05:00 | EUR | Italian Car Registration (YoY) (Aug) |  |  | 10.6% |
+| 05:00 | EUR | German Car Registration (MoM) (Aug) |  |  | 23.8% |
+| 05:00 | EUR | German Car Registration (YoY) (Aug) |  |  | 15.7% |
+| 05:00 | EUR | French Car Registration (MoM) (Aug) |  |  | 46.9% |
+| 05:00 | EUR | French Car Registration (YoY) (Aug) |  |  | 11.4% |
+| 07:00 | NOK | M3 Money Supply (Aug) |  |  | 3,645.5B |
+| 07:00 | NOK | Credit Indicator (YoY) (Aug) |  |  | 4.3% |
+| 07:45 | EUR | French Business Survey (Sep) |  | 102 | 103 |
+| 07:45 | EUR | French Consumer Confidence (Sep) |  | 85 | 86 |
+| 08:00 | EUR | Spanish PPI (YoY) (Aug) |  |  | 9.2% |
+| 09:30 | HKD | Exports (MoM) (Aug) |  |  | 50.7% |
+| 09:30 | HKD | Imports (MoM) (Aug) |  |  | 41.0% |
+| 09:30 | HKD | Trade Balance (Aug) |  |  | -4.9B |
+| 10:30 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
+| 11:00 | GBP | CBI Distributive Trades Survey (Sep) |  | -42 | -48 |
+| 12:00 | BRL | BCB Inflation Report |  |  |  |
+| 12:00 | BRL | FGV Consumer confidence (Sep) |  |  | 84.7 |
+| 13:00 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 13:00 | MXN | 1st Half-Month Core CPI (Sep) |  | 0.20% | 0.08% |
+| 13:00 | MXN | 1st Half-Month CPI (Sep) |  | 0.26% | 0.10% |
+| 13:00 | MXN | Economic Activity (MoM) (Jul) |  | 0.20% | -0.10% |
+| 13:00 | MXN | Economic Activity (YoY) (Jul) |  | 2.50% | 2.80% |
+| 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
+| 13:30 | USD | Building Permits (MoM) (Aug) |  | -2.7% | 4.3% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 203.25K |
+| 13:30 | CAD | Average Weekly Earnings (YoY) (Jul) |  |  | 3.40% |
+| 13:30 | CAD | Manufacturing Sales (MoM) (Aug) |  |  | -0.4% |
+| 14:30 | GBP | BoE Breeden Speaks |  |  |  |
+| 15:30 | USD | Natural Gas Storage |  | 50B | 44B |
+| 16:00 | USD | KC Fed Composite Index (Sep) |  |  | 10 |
+| 16:00 | USD | KC Fed Manufacturing Index (Sep) |  |  | 17 |
+| 16:30 | USD | 4-Week Bill Auction |  |  | 3.820% |
+| 16:30 | USD | 8-Week Bill Auction |  |  | 3.920% |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.921T |
