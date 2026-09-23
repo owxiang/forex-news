@@ -9,23 +9,23 @@
 | 06:00 | INR | HSBC India Services PMI (Sep) | 55.8 |  | 54.1 |
 | 06:00 | INR | HSBC Manufacturing & Services PMI (Sep) | 56.50 |  | 54.30 |
 | 06:00 | SGD | CPI (MoM) (Aug) | 0.60% |  | -0.20% |
-| 07:00 | NOK | Unemployment Rate (Aug) |  |  | 4.2% |
-| 08:15 | EUR | HCOB France Composite PMI (Sep) |  |  | 48.5 |
-| 08:30 | EUR | HCOB Germany Composite PMI (Sep) |  | 51.8 | 51.8 |
-| 08:30 | IDR | Deposit Facility Rate (Sep) |  | 4.75% | 4.75% |
-| 08:30 | IDR | Lending Facility Rate (Sep) |  | 6.50% | 6.50% |
-| 08:30 | IDR | Loans (YoY) (Aug) |  |  | 13.58% |
-| 09:00 | ZAR | Core CPI (MoM) (Aug) |  |  | 0.5% |
-| 09:00 | ZAR | Core CPI (YoY) (Aug) |  |  | 4.2% |
-| 09:00 | ZAR | CPI (MoM) (Aug) |  |  | 0.2% |
-| 09:00 | ZAR | CPI (YoY) (Aug) |  | 4.5% | 4.3% |
-| 09:30 | HKD | CPI (MoM) (Aug) |  |  | 0.20% |
-| 09:30 | HKD | CPI (YoY) (Aug) |  |  | 1.70% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.97% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -4.1% |
-| 12:00 | USD | MBA Purchase Index |  |  | 156.2 |
-| 12:00 | USD | Mortgage Market Index |  |  | 230.8 |
-| 12:00 | USD | Mortgage Refinance Index |  |  | 627.1 |
+| 07:00 | NOK | Unemployment Rate (Aug) | 4.5% |  | 4.2% |
+| 08:15 | EUR | HCOB France Composite PMI (Sep) | 51.2 |  | 48.5 |
+| 08:30 | EUR | HCOB Germany Composite PMI (Sep) | 53.8 | 51.8 | 51.8 |
+| 08:30 | IDR | Deposit Facility Rate (Sep) | 4.75% | 4.75% | 4.75% |
+| 08:30 | IDR | Lending Facility Rate (Sep) | 6.50% | 6.50% | 6.50% |
+| 08:30 | IDR | Loans (YoY) (Aug) | 13.65% |  | 13.58% |
+| 09:00 | ZAR | Core CPI (MoM) (Aug) | 0.0% |  | 0.5% |
+| 09:00 | ZAR | Core CPI (YoY) (Aug) | 4.1% |  | 4.2% |
+| 09:00 | ZAR | CPI (MoM) (Aug) | 0.0% |  | 0.2% |
+| 09:00 | ZAR | CPI (YoY) (Aug) | 4.4% | 4.5% | 4.3% |
+| 09:30 | HKD | CPI (MoM) (Aug) | 0.10% |  | 0.20% |
+| 09:30 | HKD | CPI (YoY) (Aug) | 1.70% |  | 1.70% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 7.12% |  | 6.97% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | -1.5% |  | -4.1% |
+| 12:00 | USD | MBA Purchase Index | 154.9 |  | 156.2 |
+| 12:00 | USD | Mortgage Market Index | 227.3 |  | 230.8 |
+| 12:00 | USD | Mortgage Refinance Index | 611.0 |  | 627.1 |
 | 12:30 | INR | M3 Money Supply |  |  | 16.7% |
 | 14:00 | ZAR | Prime Rate (Sep) |  |  | 10.50% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.256M |

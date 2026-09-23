@@ -11,35 +11,35 @@
 | 06:00 | SGD | Moderate | Core CPI (YoY) (Aug) | 2.20% | 2.20% | 2.00% |
 | 06:00 | SGD | Low | CPI (MoM) (Aug) | 0.60% |  | -0.20% |
 | 06:00 | SGD | Moderate | CPI (YoY) (Aug) | 2.3% | 2.3% | 2.2% |
-| 07:00 | NOK | Low | Unemployment Rate (Aug) |  |  | 4.2% |
-| 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Sep) |  | 50.9 | 51.1 |
-| 08:15 | EUR | Low | HCOB France Composite PMI (Sep) |  |  | 48.5 |
-| 08:15 | EUR | Moderate | HCOB France Services PMI (Sep) |  | 48.3 | 48.0 |
-| 08:30 | EUR | Low | HCOB Germany Composite PMI (Sep) |  | 51.8 | 51.8 |
-| 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Sep) |  | 54.1 | 54.3 |
-| 08:30 | EUR | Moderate | HCOB Germany Services PMI (Sep) |  | 49.9 | 49.7 |
-| 08:30 | IDR | Moderate | Interest Rate Decision |  | 5.75% | 5.75% |
-| 08:30 | IDR | Low | Deposit Facility Rate (Sep) |  | 4.75% | 4.75% |
-| 08:30 | IDR | Low | Lending Facility Rate (Sep) |  | 6.50% | 6.50% |
-| 08:30 | IDR | Low | Loans (YoY) (Aug) |  |  | 13.58% |
-| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Sep) |  | 52.6 | 52.7 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Sep) |  | 51.7 | 52.0 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Sep) |  | 51.4 | 51.6 |
-| 09:00 | ZAR | Low | Core CPI (MoM) (Aug) |  |  | 0.5% |
-| 09:00 | ZAR | Low | Core CPI (YoY) (Aug) |  |  | 4.2% |
-| 09:00 | ZAR | Low | CPI (MoM) (Aug) |  |  | 0.2% |
-| 09:00 | ZAR | Low | CPI (YoY) (Aug) |  | 4.5% | 4.3% |
-| 09:30 | GBP | Moderate | S&P Global Composite PMI (Sep) |  | 52.0 | 52.5 |
-| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Sep) |  | 51.5 | 51.7 |
-| 09:30 | GBP | Moderate | S&P Global Services PMI (Sep) |  | 52.0 | 52.5 |
-| 09:30 | HKD | Low | CPI (MoM) (Aug) |  |  | 0.20% |
-| 09:30 | HKD | Low | CPI (YoY) (Aug) |  |  | 1.70% |
+| 07:00 | NOK | Low | Unemployment Rate (Aug) | 4.5% |  | 4.2% |
+| 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Sep) | 50.3 | 50.9 | 51.1 |
+| 08:15 | EUR | Low | HCOB France Composite PMI (Sep) | 51.2 |  | 48.5 |
+| 08:15 | EUR | Moderate | HCOB France Services PMI (Sep) | 51.4 | 48.3 | 48.0 |
+| 08:30 | EUR | Low | HCOB Germany Composite PMI (Sep) | 53.8 | 51.8 | 51.8 |
+| 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Sep) | 53.8 | 54.1 | 54.3 |
+| 08:30 | EUR | Moderate | HCOB Germany Services PMI (Sep) | 52.9 | 49.9 | 49.7 |
+| 08:30 | IDR | Moderate | Interest Rate Decision | 5.75% | 5.75% | 5.75% |
+| 08:30 | IDR | Low | Deposit Facility Rate (Sep) | 4.75% | 4.75% | 4.75% |
+| 08:30 | IDR | Low | Lending Facility Rate (Sep) | 6.50% | 6.50% | 6.50% |
+| 08:30 | IDR | Low | Loans (YoY) (Aug) | 13.65% |  | 13.58% |
+| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Sep) | 52.7 | 52.6 | 52.7 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Sep) | 53.1 | 51.7 | 52.0 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Sep) | 53.0 | 51.4 | 51.6 |
+| 09:00 | ZAR | Low | Core CPI (MoM) (Aug) | 0.0% |  | 0.5% |
+| 09:00 | ZAR | Low | Core CPI (YoY) (Aug) | 4.1% |  | 4.2% |
+| 09:00 | ZAR | Low | CPI (MoM) (Aug) | 0.0% |  | 0.2% |
+| 09:00 | ZAR | Low | CPI (YoY) (Aug) | 4.4% | 4.5% | 4.3% |
+| 09:30 | GBP | Moderate | S&P Global Composite PMI (Sep) | 51.7 | 52.0 | 52.5 |
+| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Sep) | 52.0 | 51.5 | 51.7 |
+| 09:30 | GBP | Moderate | S&P Global Services PMI (Sep) | 51.7 | 52.0 | 52.5 |
+| 09:30 | HKD | Low | CPI (MoM) (Aug) | 0.10% |  | 0.20% |
+| 09:30 | HKD | Low | CPI (YoY) (Aug) | 1.70% |  | 1.70% |
 | 10:20 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.97% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -4.1% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 156.2 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 230.8 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 627.1 |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 7.12% |  | 6.97% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | -1.5% |  | -4.1% |
+| 12:00 | USD | Low | MBA Purchase Index | 154.9 |  | 156.2 |
+| 12:00 | USD | Low | Mortgage Market Index | 227.3 |  | 230.8 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 611.0 |  | 627.1 |
 | 12:30 | INR | Low | M3 Money Supply |  |  | 16.7% |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Aug) |  |  | -0.1% |
 | 14:00 | ZAR | Moderate | Interest Rate Decision (Sep) |  | 7.25% | 7.00% |
