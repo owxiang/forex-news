@@ -16,11 +16,10 @@
 | 09:30 | GBP | S&P Global Manufacturing PMI (Sep) | 52.0 | 51.5 | 51.7 |
 | 09:30 | GBP | S&P Global Services PMI (Sep) | 51.7 | 52.0 | 52.5 |
 | 10:20 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 13:30 | CAD | New Housing Price Index (MoM) (Aug) |  |  | -0.1% |
-| 14:00 | ZAR | Interest Rate Decision (Sep) |  | 7.25% | 7.00% |
-| 14:45 | USD | S&P Global Composite PMI (Sep) |  |  | 56.0 |
+| 14:00 | ZAR | Interest Rate Decision (Sep) | 7.25% | 7.25% | 7.00% |
+| 14:45 | USD | S&P Global Composite PMI (Sep) | 58.4 |  | 56.0 |
 | 15:05 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.342M |
+| 15:30 | USD | Cushing Crude Oil Inventories | 2.266M |  | -0.342M |
 | 16:45 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 17:30 | EUR | ECB's Lane Speaks |  |  |  |
 | 18:00 | USD | 5-Year Note Auction |  |  | 4.393% |

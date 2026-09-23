@@ -40,24 +40,22 @@
 | 12:00 | USD | Low | MBA Purchase Index | 154.9 |  | 156.2 |
 | 12:00 | USD | Low | Mortgage Market Index | 227.3 |  | 230.8 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 611.0 |  | 627.1 |
-| 12:30 | INR | Low | M3 Money Supply |  |  | 16.7% |
-| 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Aug) |  |  | -0.1% |
-| 14:00 | ZAR | Moderate | Interest Rate Decision (Sep) |  | 7.25% | 7.00% |
-| 14:00 | ZAR | Low | Prime Rate (Sep) |  |  | 10.50% |
-| 14:45 | USD | High | S&P Global Manufacturing PMI (Sep) |  | 53.6 | 53.9 |
-| 14:45 | USD | Moderate | S&P Global Composite PMI (Sep) |  |  | 56.0 |
-| 14:45 | USD | High | S&P Global Services PMI (Sep) |  | 55.8 | 56.5 |
+| 14:00 | ZAR | Moderate | Interest Rate Decision (Sep) | 7.25% | 7.25% | 7.00% |
+| 14:00 | ZAR | Low | Prime Rate (Sep) | 10.75% |  | 10.50% |
+| 14:45 | USD | High | S&P Global Manufacturing PMI (Sep) | 57.0 | 53.6 | 53.9 |
+| 14:45 | USD | Moderate | S&P Global Composite PMI (Sep) | 58.4 |  | 56.0 |
+| 14:45 | USD | High | S&P Global Services PMI (Sep) | 58.7 | 55.8 | 56.5 |
 | 15:05 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 15:30 | USD | High | Crude Oil Inventories |  | -0.700M | -0.640M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.256M |
-| 15:30 | USD | Low | Crude Oil Imports |  |  | -1.180M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.342M |
-| 15:30 | USD | Low | Distillate Fuel Production |  |  | -0.121M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  |  | 1.585M |
-| 15:30 | USD | Low | Gasoline Production |  |  | 0.336M |
-| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.684M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.0% |
-| 15:30 | USD | Low | Gasoline Inventories |  |  | 0.794M |
+| 15:30 | USD | High | Crude Oil Inventories | 2.969M | -0.700M | -0.640M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | -0.519M |  | -0.256M |
+| 15:30 | USD | Low | Crude Oil Imports | 0.369M |  | -1.180M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | 2.266M |  | -0.342M |
+| 15:30 | USD | Low | Distillate Fuel Production | -0.068M |  | -0.121M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks | -0.428M | -0.600M | 1.585M |
+| 15:30 | USD | Low | Gasoline Production | -0.054M |  | 0.336M |
+| 15:30 | USD | Low | Heating Oil Stockpiles | 0.346M |  | 0.684M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -2.8% |  | -1.0% |
+| 15:30 | USD | Low | Gasoline Inventories | -1.686M | 0.100M | 0.794M |
 | 16:45 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 17:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 17:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |

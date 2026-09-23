@@ -26,15 +26,14 @@
 | 12:00 | USD | MBA Purchase Index | 154.9 |  | 156.2 |
 | 12:00 | USD | Mortgage Market Index | 227.3 |  | 230.8 |
 | 12:00 | USD | Mortgage Refinance Index | 611.0 |  | 627.1 |
-| 12:30 | INR | M3 Money Supply |  |  | 16.7% |
-| 14:00 | ZAR | Prime Rate (Sep) |  |  | 10.50% |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.256M |
-| 15:30 | USD | Crude Oil Imports |  |  | -1.180M |
-| 15:30 | USD | Distillate Fuel Production |  |  | -0.121M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | 1.585M |
-| 15:30 | USD | Gasoline Production |  |  | 0.336M |
-| 15:30 | USD | Heating Oil Stockpiles |  |  | 0.684M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.0% |
-| 15:30 | USD | Gasoline Inventories |  |  | 0.794M |
+| 14:00 | ZAR | Prime Rate (Sep) | 10.75% |  | 10.50% |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) | -0.519M |  | -0.256M |
+| 15:30 | USD | Crude Oil Imports | 0.369M |  | -1.180M |
+| 15:30 | USD | Distillate Fuel Production | -0.068M |  | -0.121M |
+| 15:30 | USD | EIA Weekly Distillates Stocks | -0.428M | -0.600M | 1.585M |
+| 15:30 | USD | Gasoline Production | -0.054M |  | 0.336M |
+| 15:30 | USD | Heating Oil Stockpiles | 0.346M |  | 0.684M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -2.8% |  | -1.0% |
+| 15:30 | USD | Gasoline Inventories | -1.686M | 0.100M | 0.794M |
 | 17:00 | USD | Fed Goolsbee Speaks |  |  |  |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | 0.706B |
