@@ -5,12 +5,12 @@
 | 00:00 | AUD | Low | S&P Global Manufacturing & Services PMI (Sep) | 50.80 |  | 52.70 |
 | 00:00 | AUD | Low | S&P Global Manufacturing PMI (Sep) | 49.3 |  | 52.0 |
 | 00:00 | AUD | Low | S&P Global Services PMI (Sep) | 51.4 |  | 53.2 |
-| 06:00 | INR | Low | HSBC India Manufacturing PMI (Sep) |  |  | 52.8 |
-| 06:00 | INR | Low | HSBC India Services PMI (Sep) |  |  | 54.1 |
-| 06:00 | INR | Low | HSBC Manufacturing & Services PMI (Sep) |  |  | 54.30 |
-| 06:00 | SGD | Moderate | Core CPI (YoY) (Aug) |  | 2.20% | 2.00% |
-| 06:00 | SGD | Low | CPI (MoM) (Aug) |  |  | -0.20% |
-| 06:00 | SGD | Moderate | CPI (YoY) (Aug) |  | 2.3% | 2.2% |
+| 06:00 | INR | Low | HSBC India Manufacturing PMI (Sep) | 55.7 |  | 52.8 |
+| 06:00 | INR | Low | HSBC India Services PMI (Sep) | 55.8 |  | 54.1 |
+| 06:00 | INR | Low | HSBC Manufacturing & Services PMI (Sep) | 56.50 |  | 54.30 |
+| 06:00 | SGD | Moderate | Core CPI (YoY) (Aug) | 2.20% | 2.20% | 2.00% |
+| 06:00 | SGD | Low | CPI (MoM) (Aug) | 0.60% |  | -0.20% |
+| 06:00 | SGD | Moderate | CPI (YoY) (Aug) | 2.3% | 2.3% | 2.2% |
 | 07:00 | NOK | Low | Unemployment Rate (Aug) |  |  | 4.2% |
 | 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Sep) |  | 50.9 | 51.1 |
 | 08:15 | EUR | Low | HCOB France Composite PMI (Sep) |  |  | 48.5 |
@@ -48,7 +48,7 @@
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Sep) |  |  | 56.0 |
 | 14:45 | USD | High | S&P Global Services PMI (Sep) |  | 55.8 | 56.5 |
 | 15:05 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 15:30 | USD | High | Crude Oil Inventories |  | -0.600M | -0.640M |
+| 15:30 | USD | High | Crude Oil Inventories |  | -0.700M | -0.640M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.256M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | -1.180M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.342M |
@@ -59,6 +59,7 @@
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.0% |
 | 15:30 | USD | Low | Gasoline Inventories |  |  | 0.794M |
 | 16:45 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 17:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 17:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 18:00 | USD | Moderate | 5-Year Note Auction |  |  | 4.393% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 0.706B |

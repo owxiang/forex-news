@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 06:00 | SGD | Core CPI (YoY) (Aug) |  | 2.20% | 2.00% |
-| 06:00 | SGD | CPI (YoY) (Aug) |  | 2.3% | 2.2% |
+| 06:00 | SGD | Core CPI (YoY) (Aug) | 2.20% | 2.20% | 2.00% |
+| 06:00 | SGD | CPI (YoY) (Aug) | 2.3% | 2.3% | 2.2% |
 | 08:15 | EUR | HCOB France Manufacturing PMI (Sep) |  | 50.9 | 51.1 |
 | 08:15 | EUR | HCOB France Services PMI (Sep) |  | 48.3 | 48.0 |
 | 08:30 | EUR | HCOB Germany Manufacturing PMI (Sep) |  | 54.1 | 54.3 |
