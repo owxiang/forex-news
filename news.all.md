@@ -65,11 +65,11 @@
 | 15:00 | USD | Moderate | New Home Sales (MoM) (Aug) | 6.4% |  | -4.3% |
 | 15:15 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage | 53B | 50B | 44B |
-| 16:00 | USD | Low | KC Fed Composite Index (Sep) |  |  | 10 |
-| 16:00 | USD | Low | KC Fed Manufacturing Index (Sep) |  |  | 17 |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.820% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.920% |
-| 18:00 | USD | Moderate | 7-Year Note Auction |  |  | 4.512% |
+| 16:00 | USD | Low | KC Fed Composite Index (Sep) | 14 |  | 10 |
+| 16:00 | USD | Low | KC Fed Manufacturing Index (Sep) | 20 |  | 17 |
+| 16:30 | USD | Low | 4-Week Bill Auction | 3.850% |  | 3.820% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 3.990% |  | 3.920% |
+| 18:00 | USD | Moderate | 7-Year Note Auction | 5.085% |  | 4.512% |
 | 20:00 | MXN | Moderate | Interest Rate Decision (Sep) |  | 6.50% | 6.50% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,747B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.921T |

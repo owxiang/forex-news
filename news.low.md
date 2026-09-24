@@ -39,8 +39,8 @@
 | 13:30 | CAD | Manufacturing Sales (MoM) (Aug) | 1.1% |  | -0.4% |
 | 14:30 | GBP | BoE Breeden Speaks |  |  |  |
 | 15:30 | USD | Natural Gas Storage | 53B | 50B | 44B |
-| 16:00 | USD | KC Fed Composite Index (Sep) |  |  | 10 |
-| 16:00 | USD | KC Fed Manufacturing Index (Sep) |  |  | 17 |
-| 16:30 | USD | 4-Week Bill Auction |  |  | 3.820% |
-| 16:30 | USD | 8-Week Bill Auction |  |  | 3.920% |
+| 16:00 | USD | KC Fed Composite Index (Sep) | 14 |  | 10 |
+| 16:00 | USD | KC Fed Manufacturing Index (Sep) | 20 |  | 17 |
+| 16:30 | USD | 4-Week Bill Auction | 3.850% |  | 3.820% |
+| 16:30 | USD | 8-Week Bill Auction | 3.990% |  | 3.920% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.921T |
