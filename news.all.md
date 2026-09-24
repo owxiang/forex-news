@@ -40,30 +40,31 @@
 | 10:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 10:30 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
 | 10:30 | EUR | Low | Italian 2-Year CTZ Auction | 3.640% |  | 3.020% |
-| 11:00 | GBP | Low | CBI Distributive Trades Survey (Sep) |  | -42 | -48 |
+| 11:00 | GBP | Low | CBI Distributive Trades Survey (Sep) | -55 | -42 | -48 |
 | 12:00 | BRL | Low | BCB Inflation Report |  |  |  |
-| 12:00 | BRL | Low | FGV Consumer confidence (Sep) |  |  | 84.7 |
+| 12:00 | BRL | Low | FGV Consumer confidence (Sep) | 84.2 |  | 84.7 |
+| 13:00 | USD | Moderate | Building Permits (Aug) | 1.403M | 1.394M | 1.433M |
+| 13:00 | USD | Low | Building Permits (MoM) (Aug) | -2.1% | -2.7% | 4.3% |
 | 13:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 13:00 | MXN | Low | 1st Half-Month Core CPI (Sep) |  | 0.20% | 0.08% |
-| 13:00 | MXN | Low | 1st Half-Month CPI (Sep) |  | 0.26% | 0.10% |
-| 13:00 | MXN | Low | Economic Activity (YoY) (Jul) |  | 2.50% | 2.80% |
-| 13:00 | MXN | Low | Economic Activity (MoM) (Jul) |  | 0.20% | -0.10% |
+| 13:00 | MXN | Low | 1st Half-Month Core CPI (Sep) | 0.17% | 0.20% | 0.08% |
+| 13:00 | MXN | Low | 1st Half-Month CPI (Sep) | 0.33% | 0.26% | 0.10% |
+| 13:00 | MXN | Low | Economic Activity (YoY) (Jul) | 3.40% | 2.50% | 2.80% |
+| 13:00 | MXN | Low | Economic Activity (MoM) (Jul) | 0.80% | 0.20% | 0.00% |
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 13:30 | USD | Moderate | Building Permits (Aug) |  | 1.394M | 1.433M |
-| 13:30 | USD | Low | Building Permits (MoM) (Aug) |  | -2.7% | 4.3% |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,750K | 1,730K |
-| 13:30 | USD | Moderate | Current Account (Q2) |  | -258.0B | -226.8B |
-| 13:30 | USD | High | Initial Jobless Claims |  | 201K | 196K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 203.25K |
-| 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Jul) |  |  | 3.40% |
-| 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Jul) |  | -0.5% | 0.5% |
-| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Aug) |  |  | -0.4% |
-| 13:30 | CAD | Moderate | Retail Sales (MoM) (Jul) |  | -0.8% | 0.6% |
-| 13:30 | CAD | Moderate | Retail Sales (MoM) (Jul) |  |  | 0.6% |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,719K | 1,750K | 1,717K |
+| 13:30 | USD | Moderate | Current Account (Q2) | -246.0B | -258.0B | -212.6B |
+| 13:30 | USD | High | Initial Jobless Claims | 197K | 201K | 198K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 202.25K |  | 204.00K |
+| 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Jul) | 3.18% |  | 3.39% |
+| 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Jul) | -0.7% | -0.5% | 0.5% |
+| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Aug) | 1.1% |  | -0.4% |
+| 13:30 | CAD | Moderate | Retail Sales (MoM) (Jul) | -0.7% | -0.8% | 0.6% |
+| 13:31 | CAD | Moderate | Retail Sales (MoM) (Aug) | 1.3% |  | -0.7% |
 | 14:30 | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 15:00 | USD | High | New Home Sales (Aug) |  | 615K | 607K |
-| 15:00 | USD | Moderate | New Home Sales (MoM) (Aug) |  |  | -10.5% |
-| 15:30 | USD | Low | Natural Gas Storage |  | 50B | 44B |
+| 15:00 | USD | High | New Home Sales (Aug) | 684K | 615K | 643K |
+| 15:00 | USD | Moderate | New Home Sales (MoM) (Aug) | 6.4% |  | -4.3% |
+| 15:15 | USD | High | U.S. President Trump Speaks |  |  |  |
+| 15:30 | USD | Low | Natural Gas Storage | 53B | 50B | 44B |
 | 16:00 | USD | Low | KC Fed Composite Index (Sep) |  |  | 10 |
 | 16:00 | USD | Low | KC Fed Manufacturing Index (Sep) |  |  | 17 |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.820% |

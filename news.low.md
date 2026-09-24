@@ -24,21 +24,21 @@
 | 09:30 | HKD | Trade Balance (Aug) | -71.2B |  | -4.9B |
 | 10:30 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
 | 10:30 | EUR | Italian 2-Year CTZ Auction | 3.640% |  | 3.020% |
-| 11:00 | GBP | CBI Distributive Trades Survey (Sep) |  | -42 | -48 |
+| 11:00 | GBP | CBI Distributive Trades Survey (Sep) | -55 | -42 | -48 |
 | 12:00 | BRL | BCB Inflation Report |  |  |  |
-| 12:00 | BRL | FGV Consumer confidence (Sep) |  |  | 84.7 |
+| 12:00 | BRL | FGV Consumer confidence (Sep) | 84.2 |  | 84.7 |
+| 13:00 | USD | Building Permits (MoM) (Aug) | -2.1% | -2.7% | 4.3% |
 | 13:00 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 13:00 | MXN | 1st Half-Month Core CPI (Sep) |  | 0.20% | 0.08% |
-| 13:00 | MXN | 1st Half-Month CPI (Sep) |  | 0.26% | 0.10% |
-| 13:00 | MXN | Economic Activity (YoY) (Jul) |  | 2.50% | 2.80% |
-| 13:00 | MXN | Economic Activity (MoM) (Jul) |  | 0.20% | -0.10% |
+| 13:00 | MXN | 1st Half-Month Core CPI (Sep) | 0.17% | 0.20% | 0.08% |
+| 13:00 | MXN | 1st Half-Month CPI (Sep) | 0.33% | 0.26% | 0.10% |
+| 13:00 | MXN | Economic Activity (YoY) (Jul) | 3.40% | 2.50% | 2.80% |
+| 13:00 | MXN | Economic Activity (MoM) (Jul) | 0.80% | 0.20% | 0.00% |
 | 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
-| 13:30 | USD | Building Permits (MoM) (Aug) |  | -2.7% | 4.3% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 203.25K |
-| 13:30 | CAD | Average Weekly Earnings (YoY) (Jul) |  |  | 3.40% |
-| 13:30 | CAD | Manufacturing Sales (MoM) (Aug) |  |  | -0.4% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 202.25K |  | 204.00K |
+| 13:30 | CAD | Average Weekly Earnings (YoY) (Jul) | 3.18% |  | 3.39% |
+| 13:30 | CAD | Manufacturing Sales (MoM) (Aug) | 1.1% |  | -0.4% |
 | 14:30 | GBP | BoE Breeden Speaks |  |  |  |
-| 15:30 | USD | Natural Gas Storage |  | 50B | 44B |
+| 15:30 | USD | Natural Gas Storage | 53B | 50B | 44B |
 | 16:00 | USD | KC Fed Composite Index (Sep) |  |  | 10 |
 | 16:00 | USD | KC Fed Manufacturing Index (Sep) |  |  | 17 |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.820% |
