@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | JPY | S&P Global Services PMI (Sep) |  |  | 52.5 |
-| 02:30 | AUD | Employment Change (Aug) |  | 22.5K | -15.8K |
-| 02:30 | AUD | Full Employment Change (Aug) |  |  | 16.3K |
-| 02:30 | AUD | Unemployment Rate (Aug) |  | 4.5% | 4.5% |
+| 01:30 | JPY | S&P Global Services PMI (Sep) | 51.6 |  | 52.5 |
+| 02:30 | AUD | Employment Change (Aug) | 39.5K | 21.5K | -15.9K |
+| 02:30 | AUD | Full Employment Change (Aug) | -6.3K |  | 14.9K |
+| 02:30 | AUD | Unemployment Rate (Aug) | 4.6% | 4.5% | 4.5% |
 | 08:15 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 08:30 | CHF | SNB Monetary Policy Assessment |  |  |  |
 | 09:00 | EUR | German Business Expectations (Sep) |  | 89.3 | 89.1 |

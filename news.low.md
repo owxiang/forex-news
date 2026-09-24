@@ -2,10 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | JPY | Manufacturing & Services PMI (Sep) |  |  | 53.50 |
-| 01:30 | JPY | S&P Global Manufacturing PMI (Sep) |  | 55.0 | 54.9 |
-| 02:30 | AUD | Participation Rate (Aug) |  | 66.9% | 66.9% |
-| 04:00 | IDR | M2 Money Supply (YoY) (Aug) |  |  | 8.30% |
+| 01:30 | JPY | Manufacturing & Services PMI (Sep) | 52.50 |  | 53.50 |
+| 01:30 | JPY | S&P Global Manufacturing PMI (Sep) | 54.1 | 55.0 | 54.9 |
+| 02:30 | AUD | Participation Rate (Aug) | 67.1% | 66.9% | 66.9% |
 | 05:00 | GBP | Car Registration (MoM) (Aug) |  |  | 32.7% |
 | 05:00 | GBP | Car Registration (YoY) (Aug) |  |  | 11.4% |
 | 05:00 | EUR | Italian Car Registration (MoM) (Aug) |  |  | -2.5% |
@@ -14,6 +13,7 @@
 | 05:00 | EUR | German Car Registration (YoY) (Aug) |  |  | 15.7% |
 | 05:00 | EUR | French Car Registration (MoM) (Aug) |  |  | 46.9% |
 | 05:00 | EUR | French Car Registration (YoY) (Aug) |  |  | 11.4% |
+| 05:30 | IDR | M2 Money Supply (YoY) (Aug) |  |  | 8.30% |
 | 07:00 | NOK | M3 Money Supply (Aug) |  |  | 3,645.5B |
 | 07:00 | NOK | Credit Indicator (YoY) (Aug) |  |  | 4.3% |
 | 07:45 | EUR | French Business Survey (Sep) |  | 102 | 103 |

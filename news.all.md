@@ -2,14 +2,13 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 01:30 | JPY | Low | Manufacturing & Services PMI (Sep) |  |  | 53.50 |
-| 01:30 | JPY | Low | S&P Global Manufacturing PMI (Sep) |  | 55.0 | 54.9 |
-| 01:30 | JPY | Moderate | S&P Global Services PMI (Sep) |  |  | 52.5 |
-| 02:30 | AUD | Moderate | Employment Change (Aug) |  | 22.5K | -15.8K |
-| 02:30 | AUD | Moderate | Full Employment Change (Aug) |  |  | 16.3K |
-| 02:30 | AUD | Low | Participation Rate (Aug) |  | 66.9% | 66.9% |
-| 02:30 | AUD | Moderate | Unemployment Rate (Aug) |  | 4.5% | 4.5% |
-| 04:00 | IDR | Low | M2 Money Supply (YoY) (Aug) |  |  | 8.30% |
+| 01:30 | JPY | Low | Manufacturing & Services PMI (Sep) | 52.50 |  | 53.50 |
+| 01:30 | JPY | Low | S&P Global Manufacturing PMI (Sep) | 54.1 | 55.0 | 54.9 |
+| 01:30 | JPY | Moderate | S&P Global Services PMI (Sep) | 51.6 |  | 52.5 |
+| 02:30 | AUD | Moderate | Employment Change (Aug) | 39.5K | 21.5K | -15.9K |
+| 02:30 | AUD | Moderate | Full Employment Change (Aug) | -6.3K |  | 14.9K |
+| 02:30 | AUD | Low | Participation Rate (Aug) | 67.1% | 66.9% | 66.9% |
+| 02:30 | AUD | Moderate | Unemployment Rate (Aug) | 4.6% | 4.5% | 4.5% |
 | 05:00 | GBP | Low | Car Registration (MoM) (Aug) |  |  | 32.7% |
 | 05:00 | GBP | Low | Car Registration (YoY) (Aug) |  |  | 11.4% |
 | 05:00 | EUR | Low | Italian Car Registration (MoM) (Aug) |  |  | -2.5% |
@@ -18,6 +17,7 @@
 | 05:00 | EUR | Low | German Car Registration (YoY) (Aug) |  |  | 15.7% |
 | 05:00 | EUR | Low | French Car Registration (MoM) (Aug) |  |  | 46.9% |
 | 05:00 | EUR | Low | French Car Registration (YoY) (Aug) |  |  | 11.4% |
+| 05:30 | IDR | Low | M2 Money Supply (YoY) (Aug) |  |  | 8.30% |
 | 07:00 | NOK | Low | M3 Money Supply (Aug) |  |  | 3,645.5B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Aug) |  |  | 4.3% |
 | 07:45 | EUR | Low | French Business Survey (Sep) |  | 102 | 103 |
