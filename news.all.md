@@ -70,6 +70,6 @@
 | 16:30 | USD | Low | 4-Week Bill Auction | 3.850% |  | 3.820% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 3.990% |  | 3.920% |
 | 18:00 | USD | Moderate | 7-Year Note Auction | 5.085% |  | 4.512% |
-| 20:00 | MXN | Moderate | Interest Rate Decision (Sep) |  | 6.50% | 6.50% |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,747B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.921T |
+| 20:00 | MXN | Moderate | Interest Rate Decision (Sep) | 6.50% | 6.50% | 6.50% |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,748B |  | 6,747B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 2.969T |  | 2.921T |

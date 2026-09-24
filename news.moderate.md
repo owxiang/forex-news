@@ -25,5 +25,5 @@
 | 13:31 | CAD | Retail Sales (MoM) (Aug) | 1.3% |  | -0.7% |
 | 15:00 | USD | New Home Sales (MoM) (Aug) | 6.4% |  | -4.3% |
 | 18:00 | USD | 7-Year Note Auction | 5.085% |  | 4.512% |
-| 20:00 | MXN | Interest Rate Decision (Sep) |  | 6.50% | 6.50% |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 6,747B |
+| 20:00 | MXN | Interest Rate Decision (Sep) | 6.50% | 6.50% | 6.50% |
+| 21:30 | USD | Fed's Balance Sheet | 6,748B |  | 6,747B |
