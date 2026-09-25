@@ -6,8 +6,8 @@
 | 08:00 | EUR | Spanish GDP (QoQ) (Q2) | 0.7% | 0.7% | 0.6% |
 | 10:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 10:15 | USD | FOMC Member Williams Speaks |  |  |  |
-| 13:30 | USD | Core Durable Goods Orders (MoM) (Aug) |  | 0.6% | 0.4% |
-| 13:30 | CAD | Wholesale Sales (MoM) (Aug) |  |  | 0.3% |
+| 13:30 | USD | Core Durable Goods Orders (MoM) (Aug) | 0.3% | 0.6% | 0.7% |
+| 13:30 | CAD | Wholesale Sales (MoM) (Aug) | -1.5% |  | 0.3% |
 | 15:00 | USD | Atlanta Fed GDPNow (Q3) |  | 5.1% | 5.1% |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Sep) |  | 4.6% | 4.0% |
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Sep) |  | 3.4% | 3.3% |

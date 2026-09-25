@@ -7,23 +7,26 @@
 | 07:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q2) | -0.1% | -0.1% | -0.1% |
 | 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q2) | 0.7% | 0.7% | 0.6% |
 | 08:00 | EUR | Low | Spanish GDP (YoY) (Q2) | 2.6% | 2.7% | 2.7% |
-| 09:00 | EUR | Low | M3 Money Supply (YoY) (Aug) |  | 3.5% | 3.4% |
-| 09:00 | EUR | Low | M3 Money Supply (Aug) |  |  | 17,614.0B |
-| 09:00 | EUR | Low | Loans to Non Financial Corporations (Aug) |  |  | 4.4% |
-| 09:00 | EUR | Low | Private Sector Loans (YoY) (Aug) |  | 3.2% | 3.1% |
-| 10:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 2.472% |
+| 09:00 | EUR | Low | M3 Money Supply (YoY) (Aug) | 3.5% | 3.5% | 3.4% |
+| 09:00 | EUR | Low | M3 Money Supply (Aug) | 17,646.5B |  | 17,614.0B |
+| 09:00 | EUR | Low | Loans to Non Financial Corporations (Aug) | 4.2% |  | 4.4% |
+| 09:00 | EUR | Low | Private Sector Loans (YoY) (Aug) | 3.1% | 3.2% | 3.1% |
+| 10:10 | EUR | Low | Italian 6-Month BOT Auction | 2.873% |  | 2.472% |
 | 10:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 10:15 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 12:30 | INR | Low | FX Reserves, USD |  |  | 780.78B |
-| 13:00 | MXN | Low | Unemployment Rate (Aug) |  |  | 2.70% |
-| 13:00 | MXN | Low | Unemployment Rate n.s.a. (Aug) |  | 3.00% | 2.90% |
-| 13:00 | BRL | Low | Mid-Month CPI (MoM) (Sep) |  | 0.53% | -0.40% |
-| 13:00 | BRL | Low | Mid-Month CPI (YoY) (Sep) |  | 4.30% | 4.24% |
-| 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Aug) |  | 0.6% | 0.4% |
-| 13:30 | USD | High | Durable Goods Orders (MoM) (Aug) |  | -0.3% | 1.1% |
-| 13:30 | USD | Low | Durables Excluding Defense (MoM) (Aug) |  |  | 1.3% |
-| 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Aug) |  |  | 0.0% |
-| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Aug) |  |  | 0.3% |
+| 12:30 | INR | Low | Bank Loan Growth | 18.1% |  | 19.1% |
+| 12:30 | INR | Low | Deposit Growth | 17.3% |  | 17.8% |
+| 12:30 | INR | Low | FX Reserves, USD | 765.90B |  | 780.78B |
+| 12:30 | INR | Low | M3 Money Supply | 16.6% |  | 16.7% |
+| 13:00 | MXN | Low | Unemployment Rate (Aug) | 2.70% |  | 2.70% |
+| 13:00 | MXN | Low | Unemployment Rate n.s.a. (Aug) | 3.00% | 3.00% | 2.90% |
+| 13:00 | BRL | Low | Mid-Month CPI (MoM) (Sep) | 0.70% | 0.53% | -0.40% |
+| 13:00 | BRL | Low | Mid-Month CPI (YoY) (Sep) | 4.47% | 4.30% | 4.24% |
+| 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Aug) | 0.3% | 0.6% | 0.7% |
+| 13:30 | USD | High | Durable Goods Orders (MoM) (Aug) | 0.0% | -0.3% | 0.9% |
+| 13:30 | USD | Low | Durables Excluding Defense (MoM) (Aug) | 0.1% |  | 1.4% |
+| 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Aug) | 1.6% |  | 0.6% |
+| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Aug) | -1.5% |  | 0.3% |
 | 14:20 | USD | Low | Fed Schmid Speaks |  |  |  |
 | 15:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 5.1% | 5.1% |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Sep) |  | 4.6% | 4.0% |
@@ -31,8 +34,8 @@
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Sep) |  | 45.8 | 51.5 |
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Sep) |  | 47.8 | 51.7 |
 | 15:00 | USD | Low | Michigan Current Conditions (Sep) |  | 50.9 | 51.9 |
-| 16:00 | CAD | Low | Budget Balance (YoY) (Jul) |  |  | -0.37B |
 | 16:00 | CAD | Low | Budget Balance (Jul) |  |  | 0.99B |
+| 16:00 | CAD | Low | Budget Balance (YoY) (Jul) |  |  | -0.37B |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  | 453 | 452 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 595 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -58.7K |
