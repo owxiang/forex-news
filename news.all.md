@@ -28,16 +28,16 @@
 | 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Aug) | 1.6% |  | 0.6% |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Aug) | -1.5% |  | 0.3% |
 | 14:20 | USD | Low | Fed Schmid Speaks |  |  |  |
-| 15:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 5.1% | 5.1% |
-| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Sep) |  | 4.6% | 4.0% |
-| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Sep) |  | 3.4% | 3.3% |
-| 15:00 | USD | Moderate | Michigan Consumer Expectations (Sep) |  | 45.8 | 51.5 |
-| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Sep) |  | 47.8 | 51.7 |
-| 15:00 | USD | Low | Michigan Current Conditions (Sep) |  | 50.9 | 51.9 |
-| 16:00 | CAD | Low | Budget Balance (Jul) |  |  | 0.99B |
-| 16:00 | CAD | Low | Budget Balance (YoY) (Jul) |  |  | -0.37B |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  | 453 | 452 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 595 |
+| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Sep) | 4.6% | 4.6% | 4.0% |
+| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Sep) | 3.4% | 3.4% | 3.3% |
+| 15:00 | USD | Moderate | Michigan Consumer Expectations (Sep) | 46.3 | 45.8 | 51.5 |
+| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Sep) | 48.1 | 47.8 | 51.7 |
+| 15:00 | USD | Low | Michigan Current Conditions (Sep) | 50.9 | 50.9 | 51.9 |
+| 15:20 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 5.0% | 5.1% | 5.1% |
+| 16:00 | CAD | Low | Budget Balance (Jul) | -4.77B |  | 0.99B |
+| 16:00 | CAD | Low | Budget Balance (YoY) (Jul) | -5.14B |  | -0.37B |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 455 | 453 | 452 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 599 |  | 595 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -58.7K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -0.4K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 75.1K |

@@ -8,13 +8,13 @@
 | 10:15 | USD | FOMC Member Williams Speaks |  |  |  |
 | 13:30 | USD | Core Durable Goods Orders (MoM) (Aug) | 0.3% | 0.6% | 0.7% |
 | 13:30 | CAD | Wholesale Sales (MoM) (Aug) | -1.5% |  | 0.3% |
-| 15:00 | USD | Atlanta Fed GDPNow (Q3) |  | 5.1% | 5.1% |
-| 15:00 | USD | Michigan 1-Year Inflation Expectations (Sep) |  | 4.6% | 4.0% |
-| 15:00 | USD | Michigan 5-Year Inflation Expectations (Sep) |  | 3.4% | 3.3% |
-| 15:00 | USD | Michigan Consumer Expectations (Sep) |  | 45.8 | 51.5 |
-| 15:00 | USD | Michigan Consumer Sentiment (Sep) |  | 47.8 | 51.7 |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  | 453 | 452 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 595 |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (Sep) | 4.6% | 4.6% | 4.0% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (Sep) | 3.4% | 3.4% | 3.3% |
+| 15:00 | USD | Michigan Consumer Expectations (Sep) | 46.3 | 45.8 | 51.5 |
+| 15:00 | USD | Michigan Consumer Sentiment (Sep) | 48.1 | 47.8 | 51.7 |
+| 15:20 | USD | Atlanta Fed GDPNow (Q3) | 5.0% | 5.1% | 5.1% |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 455 | 453 | 452 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count | 599 |  | 595 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -58.7K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 135.9K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 230.3K |

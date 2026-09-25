@@ -21,9 +21,9 @@
 | 13:30 | USD | Durables Excluding Defense (MoM) (Aug) | 0.1% |  | 1.4% |
 | 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Aug) | 1.6% |  | 0.6% |
 | 14:20 | USD | Fed Schmid Speaks |  |  |  |
-| 15:00 | USD | Michigan Current Conditions (Sep) |  | 50.9 | 51.9 |
-| 16:00 | CAD | Budget Balance (Jul) |  |  | 0.99B |
-| 16:00 | CAD | Budget Balance (YoY) (Jul) |  |  | -0.37B |
+| 15:00 | USD | Michigan Current Conditions (Sep) | 50.9 | 50.9 | 51.9 |
+| 16:00 | CAD | Budget Balance (Jul) | -4.77B |  | 0.99B |
+| 16:00 | CAD | Budget Balance (YoY) (Jul) | -5.14B |  | -0.37B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -0.4K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 75.1K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 542.4K |
