@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | GfK Consumer Confidence (Sep) | -13 | -16 | -14 |
-| 07:45 | EUR | French Non-Farm Payrolls (QoQ) (Q2) |  | -0.1% | -0.1% |
-| 08:00 | EUR | Spanish GDP (YoY) (Q2) |  | 2.7% | 2.7% |
+| 07:45 | EUR | French Non-Farm Payrolls (QoQ) (Q2) | -0.1% | -0.1% | -0.1% |
+| 08:00 | EUR | Spanish GDP (YoY) (Q2) | 2.6% | 2.7% | 2.7% |
 | 09:00 | EUR | M3 Money Supply (YoY) (Aug) |  | 3.5% | 3.4% |
 | 09:00 | EUR | M3 Money Supply (Aug) |  |  | 17,614.0B |
 | 09:00 | EUR | Loans to Non Financial Corporations (Aug) |  |  | 4.4% |

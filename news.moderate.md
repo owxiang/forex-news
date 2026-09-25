@@ -2,9 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 06:00 | JPY | BoJ Core CPI (YoY) |  |  | 2.3% |
-| 07:00 | EUR | GfK German Consumer Climate (Oct) |  | -27.1 | -26.6 |
-| 08:00 | EUR | Spanish GDP (QoQ) (Q2) |  | 0.7% | 0.7% |
+| 07:00 | EUR | GfK German Consumer Climate (Oct) | -30.6 | -27.1 | -26.8 |
+| 08:00 | EUR | Spanish GDP (QoQ) (Q2) | 0.7% | 0.7% | 0.6% |
 | 10:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 10:15 | USD | FOMC Member Williams Speaks |  |  |  |
 | 13:30 | USD | Core Durable Goods Orders (MoM) (Aug) |  | 0.6% | 0.4% |

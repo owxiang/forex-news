@@ -3,11 +3,10 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | GfK Consumer Confidence (Sep) | -13 | -16 | -14 |
-| 06:00 | JPY | Moderate | BoJ Core CPI (YoY) |  |  | 2.3% |
-| 07:00 | EUR | Moderate | GfK German Consumer Climate (Oct) |  | -27.1 | -26.6 |
-| 07:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q2) |  | -0.1% | -0.1% |
-| 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q2) |  | 0.7% | 0.7% |
-| 08:00 | EUR | Low | Spanish GDP (YoY) (Q2) |  | 2.7% | 2.7% |
+| 07:00 | EUR | Moderate | GfK German Consumer Climate (Oct) | -30.6 | -27.1 | -26.8 |
+| 07:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q2) | -0.1% | -0.1% | -0.1% |
+| 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q2) | 0.7% | 0.7% | 0.6% |
+| 08:00 | EUR | Low | Spanish GDP (YoY) (Q2) | 2.6% | 2.7% | 2.7% |
 | 09:00 | EUR | Low | M3 Money Supply (YoY) (Aug) |  | 3.5% | 3.4% |
 | 09:00 | EUR | Low | M3 Money Supply (Aug) |  |  | 17,614.0B |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Aug) |  |  | 4.4% |
