@@ -3,10 +3,10 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) | 3.7% | 3.6% | 3.6% |
-| 02:30 | CNY | Chinese Industrial profit YTD (Aug) |  |  | 17.6% |
-| 06:00 | SGD | Industrial Production (YoY) (Aug) |  |  | 6.8% |
-| 06:00 | SGD | Industrial Production (MoM) (Aug) |  |  | 2.3% |
-| 07:00 | NOK | Core Retail Sales (MoM) (Aug) |  |  | -0.7% |
+| 02:30 | CNY | Chinese Industrial profit YTD (Aug) | 15.7% |  | 17.6% |
+| 06:00 | SGD | Industrial Production (YoY) (Aug) | 15.4% |  | 6.9% |
+| 06:00 | SGD | Industrial Production (MoM) (Aug) | -0.5% |  | 2.3% |
+| 07:00 | NOK | Core Retail Sales (MoM) (Aug) | 0.6% |  | -0.6% |
 | 09:00 | EUR | Italian Trade Balance Non-EU (Aug) |  |  | 2.55B |
 | 11:30 | INR | Cumulative Industrial Production (Aug) |  |  | 6.30% |
 | 11:30 | INR | Industrial Production (YoY) (Aug) |  | 6.0% | 6.7% |
