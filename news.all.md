@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) |  | 3.6% | 3.6% |
+| 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 3.7% | 3.6% | 3.6% |
 | 00:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 02:30 | CNY | Low | Chinese Industrial profit YTD (Aug) |  |  | 17.6% |
 | 06:00 | SGD | Low | Industrial Production (YoY) (Aug) |  |  | 6.8% |

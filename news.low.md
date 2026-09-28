@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 3.6% | 3.6% |
+| 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) | 3.7% | 3.6% | 3.6% |
 | 02:30 | CNY | Chinese Industrial profit YTD (Aug) |  |  | 17.6% |
 | 06:00 | SGD | Industrial Production (YoY) (Aug) |  |  | 6.8% |
 | 06:00 | SGD | Industrial Production (MoM) (Aug) |  |  | 2.3% |
