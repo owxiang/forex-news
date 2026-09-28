@@ -25,7 +25,7 @@
 | 14:30 | EUR | Low | French 6-Month BTF Auction | 2.920% |  | 2.898% |
 | 14:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 15:30 | USD | Low | Dallas Fed Mfg Business Index (Sep) | 9.8 |  | 11.6 |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.015% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.155% |
+| 16:30 | USD | Low | 3-Month Bill Auction | 4.110% |  | 4.015% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 4.285% |  | 4.155% |
 | 18:25 | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 18:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |

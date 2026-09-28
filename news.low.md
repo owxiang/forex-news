@@ -20,7 +20,7 @@
 | 14:30 | EUR | French 3-Month BTF Auction | 2.700% |  | 2.639% |
 | 14:30 | EUR | French 6-Month BTF Auction | 2.920% |  | 2.898% |
 | 15:30 | USD | Dallas Fed Mfg Business Index (Sep) | 9.8 |  | 11.6 |
-| 16:30 | USD | 3-Month Bill Auction |  |  | 4.015% |
-| 16:30 | USD | 6-Month Bill Auction |  |  | 4.155% |
+| 16:30 | USD | 3-Month Bill Auction | 4.110% |  | 4.015% |
+| 16:30 | USD | 6-Month Bill Auction | 4.285% |  | 4.155% |
 | 18:25 | USD | Fed Governor Cook Speaks |  |  |  |
 | 18:30 | USD | FOMC Member Barkin Speaks |  |  |  |
