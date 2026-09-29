@@ -3,20 +3,20 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | BRC Shop Price Index (YoY) (Sep) | 1.4% | 1.5% | 1.5% |
-| 06:00 | JPY | Coincident Indicator (MoM) (Jul) |  | 1.7% | 0.6% |
-| 06:00 | JPY | Leading Index (Jul) |  | 118.1 | 116.5 |
-| 06:00 | JPY | Leading Index (MoM) (Jul) |  | 1.7% | 0.0% |
-| 08:00 | EUR | Core CPI (YoY) (Sep) |  |  | 2.9% |
-| 08:00 | EUR | Spanish CPI (MoM) (Sep) |  |  | 0.7% |
-| 08:00 | EUR | Spanish HICP (MoM) (Sep) |  |  | 0.7% |
-| 08:00 | EUR | Spanish Retail Sales (YoY) (Aug) |  |  | -0.3% |
-| 09:00 | EUR | Italian Industrial Sales (MoM) (Jul) |  |  | -1.00% |
-| 09:00 | EUR | Italian Industrial Sales (YoY) (Jul) |  |  | 3.10% |
+| 06:00 | JPY | Coincident Indicator (MoM) (Jul) | 1.7% | 1.7% | 0.6% |
+| 06:00 | JPY | Leading Index (Jul) | 117.7 | 118.1 | 116.5 |
+| 06:00 | JPY | Leading Index (MoM) (Jul) | 1.5% | 1.7% | 0.0% |
+| 08:00 | EUR | Core CPI (YoY) (Sep) | 3.1% |  | 2.9% |
+| 08:00 | EUR | Spanish CPI (MoM) (Sep) | 0.3% |  | 0.7% |
+| 08:00 | EUR | Spanish HICP (MoM) (Sep) | 0.6% |  | 0.7% |
+| 08:00 | EUR | Spanish Retail Sales (YoY) (Aug) | -0.4% |  | -0.4% |
+| 09:00 | EUR | Italian Industrial Sales (MoM) (Jul) | 1.70% |  | -0.90% |
+| 09:00 | EUR | Italian Industrial Sales (YoY) (Jul) | 4.80% |  | 4.10% |
 | 09:00 | ZAR | SARB Quarterly Bulletin |  |  |  |
 | 09:30 | GBP | BoE Consumer Credit (Aug) |  | 1.900B | 2.006B |
 | 09:30 | GBP | M3 Money Supply (Aug) |  |  | 3,299.0B |
 | 09:30 | GBP | M4 Money Supply (MoM) (Aug) |  | 0.1% | -0.3% |
-| 09:30 | GBP | Mortgage Approvals (Aug) |  | 57.00K | 56.05K |
+| 09:30 | GBP | Mortgage Approvals (Aug) |  | 56.00K | 56.05K |
 | 09:30 | GBP | Mortgage Lending (Aug) |  |  | 4.29B |
 | 09:30 | GBP | Net Lending to Individuals (Aug) |  | 6.200B | 6.300B |
 | 10:00 | EUR | Italian PPI (MoM) (Aug) |  |  | 2.4% |
