@@ -42,4 +42,4 @@
 | 15:30 | USD | Texas Services Sector Outlook (Sep) | -1.8 |  | 4.2 |
 | 18:00 | USD | Fed Goolsbee Speaks |  |  |  |
 | 18:20 | CAD | BoC Deputy Governor Gravelle Speaks |  |  |  |
-| 18:30 | BRL | CAGED Net Payroll Jobs (Aug) |  | 95.70K | 58.57K |
+| 18:30 | BRL | CAGED Net Payroll Jobs (Aug) | 165.83K | 95.70K | 58.57K |

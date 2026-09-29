@@ -62,7 +62,7 @@
 | 17:40 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 18:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 18:20 | CAD | Low | BoC Deputy Governor Gravelle Speaks |  |  |  |
-| 18:30 | BRL | Low | CAGED Net Payroll Jobs (Aug) |  | 95.70K | 58.57K |
+| 18:30 | BRL | Low | CAGED Net Payroll Jobs (Aug) | 165.83K | 95.70K | 58.57K |
 | 19:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 19:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 20:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
