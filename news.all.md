@@ -1,31 +1,67 @@
-## 28 September 2026 - All Forex News
+## 29 September 2026 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 3.7% | 3.6% | 3.6% |
-| 00:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
-| 02:30 | CNY | Low | Chinese Industrial profit YTD (Aug) | 15.7% |  | 17.6% |
-| 06:00 | SGD | Low | Industrial Production (YoY) (Aug) | 15.4% |  | 6.9% |
-| 06:00 | SGD | Low | Industrial Production (MoM) (Aug) | -0.5% |  | 2.3% |
-| 07:00 | NOK | Low | Core Retail Sales (MoM) (Aug) | 0.6% |  | -0.6% |
-| 09:00 | EUR | Low | Italian Trade Balance Non-EU (Aug) | 2.00B |  | 6.99B |
-| 10:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 11:00 | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
-| 11:30 | INR | Low | Cumulative Industrial Production (Aug) | 6.70% |  | 6.30% |
-| 11:30 | INR | Low | Industrial Production (YoY) (Aug) | 8.0% | 6.5% | 7.4% |
-| 11:30 | INR | Low | Manufacturing Output (MoM) (Aug) | 9.0% |  | 8.2% |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 12:30 | BRL | Low | Current Account (USD) (Aug) | -5.06B | -4.90B | -8.11B |
-| 12:30 | BRL | Low | Foreign direct investment (USD) (Aug) | 7.40B | 6.90B | 7.46B |
-| 13:00 | MXN | Low | Trade Balance (Aug) | 0.605B | 1.400B | -0.848B |
-| 13:00 | MXN | Low | Trade Balance (USD) (Aug) | 3.489B |  | -0.116B |
-| 13:15 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 14:30 | EUR | Low | French 12-Month BTF Auction | 3.240% |  | 3.161% |
-| 14:30 | EUR | Low | French 3-Month BTF Auction | 2.700% |  | 2.639% |
-| 14:30 | EUR | Low | French 6-Month BTF Auction | 2.920% |  | 2.898% |
-| 14:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 15:30 | USD | Low | Dallas Fed Mfg Business Index (Sep) | 9.8 |  | 11.6 |
-| 16:30 | USD | Low | 3-Month Bill Auction | 4.110% |  | 4.015% |
-| 16:30 | USD | Low | 6-Month Bill Auction | 4.285% |  | 4.155% |
-| 18:25 | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 18:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 00:01 | GBP | Low | BRC Shop Price Index (YoY) (Sep) | 1.4% | 1.5% | 1.5% |
+| 02:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
+| 05:30 | AUD | High | RBA Interest Rate Decision (Sep) |  | 4.60% | 4.35% |
+| 06:00 | JPY | Low | Coincident Indicator (MoM) (Jul) |  | 1.7% | 0.6% |
+| 06:00 | JPY | Low | Leading Index (Jul) |  | 118.1 | 116.5 |
+| 06:00 | JPY | Low | Leading Index (MoM) (Jul) |  | 1.7% | 0.0% |
+| 08:00 | CHF | Moderate | KOF Leading Indicators (Sep) |  | 106.0 | 106.7 |
+| 08:00 | EUR | Low | Core CPI (YoY) (Sep) |  |  | 2.9% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Sep) |  |  | 0.7% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Sep) |  | 4.7% | 4.3% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Sep) |  |  | 4.6% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Sep) |  |  | 0.7% |
+| 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Aug) |  |  | -0.3% |
+| 09:00 | EUR | Low | Italian Industrial Sales (MoM) (Jul) |  |  | -1.00% |
+| 09:00 | EUR | Low | Italian Industrial Sales (YoY) (Jul) |  |  | 3.10% |
+| 09:00 | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
+| 09:30 | GBP | Low | BoE Consumer Credit (Aug) |  | 1.900B | 2.006B |
+| 09:30 | GBP | Low | M3 Money Supply (Aug) |  |  | 3,299.0B |
+| 09:30 | GBP | Low | M4 Money Supply (MoM) (Aug) |  | 0.1% | -0.3% |
+| 09:30 | GBP | Low | Mortgage Approvals (Aug) |  | 57.00K | 56.05K |
+| 09:30 | GBP | Low | Mortgage Lending (Aug) |  |  | 4.29B |
+| 09:30 | GBP | Low | Net Lending to Individuals (Aug) |  | 6.200B | 6.300B |
+| 10:00 | EUR | Low | Italian PPI (MoM) (Aug) |  |  | 2.4% |
+| 10:00 | EUR | Low | Italian PPI (YoY) (Aug) |  |  | 7.8% |
+| 10:00 | EUR | Low | Business and Consumer Survey (Sep) |  | 99.0 | 98.4 |
+| 10:00 | EUR | Low | Business Climate (Sep) |  |  | -0.22 |
+| 10:00 | EUR | Low | Consumer Confidence (Sep) |  | -16.5 | -16.5 |
+| 10:00 | EUR | Low | Consumer Inflation Expectation (Sep) |  |  | 33.0 |
+| 10:00 | EUR | Low | Selling Price Expectations (Sep) |  |  | 16.4 |
+| 10:00 | EUR | Low | Services Sentiment (Sep) |  | 6.5 | 5.8 |
+| 10:00 | EUR | Low | Industrial Sentiment (Sep) |  | -4.8 | -5.3 |
+| 10:30 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 4.10% |
+| 10:30 | EUR | Low | Italian 5-Year BTP Auction |  |  | 3.44% |
+| 11:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 11:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 11:00 | EUR | Moderate | France Jobseekers Total (Aug) |  |  | 3,143.0K |
+| 11:00 | EUR | Low | Spanish Business Confidence (Sep) |  |  | -3.9 |
+| 12:00 | BRL | Low | IGP-M Inflation Index (MoM) (Sep) |  | 1.60% | -0.22% |
+| 12:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 12:30 | BRL | Low | Bank lending (MoM) (Aug) |  |  | 0.3% |
+| 13:00 | BRL | Moderate | Unemployment Rate (Aug) |  | 5.3% | 5.3% |
+| 13:30 | CAD | Moderate | GDP (MoM) (Jul) |  | 0.0% | 0.3% |
+| 13:31 | CAD | Moderate | GDP (MoM) (Aug) |  |  |  |
+| 13:55 | USD | Low | Redbook (YoY) |  |  | 7.6% |
+| 14:00 | USD | Low | House Price Index (MoM) (Jul) |  | 0.1% | 0.0% |
+| 14:00 | USD | Low | House Price Index (YoY) (Jul) |  |  | 2.3% |
+| 14:00 | USD | Low | House Price Index (Jul) |  |  | 442.5 |
+| 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Jul) |  |  | 0.2% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jul) |  |  | 0.4% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jul) |  | 2.2% | 2.1% |
+| 15:00 | USD | High | CB Consumer Confidence (Sep) |  | 90.1 | 89.4 |
+| 15:00 | USD | High | JOLTS Job Openings (Aug) |  | 7.230M | 7.271M |
+| 15:30 | USD | Low | Dallas Fed Services Revenues (Sep) |  |  | 6.6 |
+| 15:30 | USD | Low | Texas Services Sector Outlook (Sep) |  |  | 4.2 |
+| 16:00 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
+| 16:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 17:40 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 18:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 18:20 | CAD | Low | BoC Deputy Governor Gravelle Speaks |  |  |  |
+| 19:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 19:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 20:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 1.786M |
