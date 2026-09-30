@@ -10,6 +10,6 @@
 | 13:30 | USD | Core PCE Price Index (MoM) (Aug) | 0.2% | 0.3% | 0.1% |
 | 13:30 | USD | Core PCE Price Index (YoY) (Aug) | 3.0% | 3.3% | 3.0% |
 | 13:30 | USD | GDP (QoQ) (Q2) | 2.2% | 1.5% | 2.1% |
-| 14:45 | USD | Chicago PMI (Sep) |  | 51.2 | 47.1 |
-| 15:30 | USD | Crude Oil Inventories |  | -0.700M | 2.969M |
+| 14:45 | USD | Chicago PMI (Sep) | 58.8 | 51.2 | 47.1 |
+| 15:30 | USD | Crude Oil Inventories | 0.922M | -0.700M | 2.969M |
 | 20:30 | USD | U.S. President Trump Speaks |  |  |  |

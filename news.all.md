@@ -123,22 +123,22 @@
 | 13:30 | USD | Moderate | Retail Inventories Ex Auto (Aug) | 0.1% |  | 0.8% |
 | 13:30 | USD | Low | Wholesale Inventories (MoM) | 0.7% | 0.5% | 1.3% |
 | 14:00 | CHF | Low | SNB Quarterly Bulletin |  |  |  |
-| 14:45 | USD | High | Chicago PMI (Sep) |  | 51.2 | 47.1 |
-| 15:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 5.0% | 5.0% |
-| 15:00 | USD | Low | Dallas Fed PCE (Aug) |  |  | 2.20% |
-| 15:30 | USD | High | Crude Oil Inventories |  | -0.700M | 2.969M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.519M |
-| 15:30 | USD | Low | Crude Oil Imports |  |  | 0.369M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 2.266M |
-| 15:30 | USD | Low | Distillate Fuel Production |  |  | -0.068M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | -0.200M | -0.428M |
-| 15:30 | USD | Low | Gasoline Production |  |  | -0.054M |
-| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.346M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -2.8% |
-| 15:30 | USD | Low | Gasoline Inventories |  | -0.500M | -1.686M |
+| 14:45 | USD | High | Chicago PMI (Sep) | 58.8 | 51.2 | 47.1 |
+| 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 3.7% | 5.0% | 5.0% |
+| 15:30 | USD | High | Crude Oil Inventories | 0.922M | -0.700M | 2.969M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | -0.554M |  | -0.519M |
+| 15:30 | USD | Low | Crude Oil Imports | -0.468M |  | 0.369M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | 0.553M |  | 2.266M |
+| 15:30 | USD | Low | Distillate Fuel Production | -0.156M |  | -0.068M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks | -2.251M | -0.200M | -0.428M |
+| 15:30 | USD | Low | Gasoline Production | -0.124M |  | -0.054M |
+| 15:30 | USD | Low | Heating Oil Stockpiles | -0.620M |  | 0.346M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -1.5% |  | -2.8% |
+| 15:30 | USD | Low | Gasoline Inventories | -1.684M | -0.500M | -1.686M |
+| 16:20 | USD | Low | Dallas Fed PCE (Aug) | 1.90% |  | 1.90% |
 | 16:45 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 18:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -1.091B |
+| 18:30 | BRL | Low | Foreign Exchange Flows | 3.054B |  | -1.091B |
 | 20:00 | MXN | Low | Fiscal Balance (Aug) |  |  | -171.53B |
 | 20:25 | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 20:30 | USD | High | U.S. President Trump Speaks |  |  |  |

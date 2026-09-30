@@ -89,17 +89,17 @@
 | 13:30 | USD | Real Personal Consumption (MoM) (Aug) | 0.6% |  | 0.1% |
 | 13:30 | USD | Wholesale Inventories (MoM) | 0.7% | 0.5% | 1.3% |
 | 14:00 | CHF | SNB Quarterly Bulletin |  |  |  |
-| 15:00 | USD | Dallas Fed PCE (Aug) |  |  | 2.20% |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.519M |
-| 15:30 | USD | Crude Oil Imports |  |  | 0.369M |
-| 15:30 | USD | Distillate Fuel Production |  |  | -0.068M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  | -0.200M | -0.428M |
-| 15:30 | USD | Gasoline Production |  |  | -0.054M |
-| 15:30 | USD | Heating Oil Stockpiles |  |  | 0.346M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -2.8% |
-| 15:30 | USD | Gasoline Inventories |  | -0.500M | -1.686M |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) | -0.554M |  | -0.519M |
+| 15:30 | USD | Crude Oil Imports | -0.468M |  | 0.369M |
+| 15:30 | USD | Distillate Fuel Production | -0.156M |  | -0.068M |
+| 15:30 | USD | EIA Weekly Distillates Stocks | -2.251M | -0.200M | -0.428M |
+| 15:30 | USD | Gasoline Production | -0.124M |  | -0.054M |
+| 15:30 | USD | Heating Oil Stockpiles | -0.620M |  | 0.346M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -1.5% |  | -2.8% |
+| 15:30 | USD | Gasoline Inventories | -1.684M | -0.500M | -1.686M |
+| 16:20 | USD | Dallas Fed PCE (Aug) | 1.90% |  | 1.90% |
 | 18:30 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 18:30 | BRL | Foreign Exchange Flows |  |  | -1.091B |
+| 18:30 | BRL | Foreign Exchange Flows | 3.054B |  | -1.091B |
 | 20:00 | MXN | Fiscal Balance (Aug) |  |  | -171.53B |
 | 20:25 | USD | Fed Governor Cook Speaks |  |  |  |
 | 22:10 | USD | Fed Goolsbee Speaks |  |  |  |

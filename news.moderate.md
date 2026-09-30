@@ -28,7 +28,7 @@
 | 13:30 | USD | PCE Price index (YoY) (Aug) | 3.4% | 3.7% | 3.4% |
 | 13:30 | USD | Personal Spending (MoM) (Aug) | 0.9% | 0.8% | 0.1% |
 | 13:30 | USD | Retail Inventories Ex Auto (Aug) | 0.1% |  | 0.8% |
-| 15:00 | USD | Atlanta Fed GDPNow (Q3) |  | 5.0% | 5.0% |
-| 15:30 | USD | Cushing Crude Oil Inventories |  |  | 2.266M |
+| 15:30 | USD | Atlanta Fed GDPNow (Q3) | 3.7% | 5.0% | 5.0% |
+| 15:30 | USD | Cushing Crude Oil Inventories | 0.553M |  | 2.266M |
 | 16:45 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 23:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
