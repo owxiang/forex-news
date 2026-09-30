@@ -139,9 +139,9 @@
 | 16:45 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 18:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 18:30 | BRL | Low | Foreign Exchange Flows | 3.054B |  | -1.091B |
-| 20:00 | MXN | Low | Fiscal Balance (Aug) |  |  | -171.53B |
 | 20:25 | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 20:30 | USD | High | U.S. President Trump Speaks |  |  |  |
+| 21:30 | MXN | Low | Fiscal Balance (Aug) | -5.57B |  | -171.53B |
 | 22:10 | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 22:45 | NZD | Low | Building Consents (MoM) (Aug) |  |  | -4.3% |
+| 22:45 | NZD | Low | Building Consents (MoM) (Aug) | 5.6% |  | -4.5% |
 | 23:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |

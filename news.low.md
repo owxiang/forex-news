@@ -100,7 +100,7 @@
 | 16:20 | USD | Dallas Fed PCE (Aug) | 1.90% |  | 1.90% |
 | 18:30 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 18:30 | BRL | Foreign Exchange Flows | 3.054B |  | -1.091B |
-| 20:00 | MXN | Fiscal Balance (Aug) |  |  | -171.53B |
 | 20:25 | USD | Fed Governor Cook Speaks |  |  |  |
+| 21:30 | MXN | Fiscal Balance (Aug) | -5.57B |  | -171.53B |
 | 22:10 | USD | Fed Goolsbee Speaks |  |  |  |
-| 22:45 | NZD | Building Consents (MoM) (Aug) |  |  | -4.3% |
+| 22:45 | NZD | Building Consents (MoM) (Aug) | 5.6% |  | -4.5% |
