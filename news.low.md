@@ -13,34 +13,34 @@
 | 00:50 | JPY | Retail Sales (YoY) (Aug) | 2.7% | 3.3% | 3.7% |
 | 01:00 | NZD | ANZ Business Confidence (Sep) | 51.9 |  | 53.7 |
 | 01:00 | NZD | NBNZ Own Activity (Sep) | 47.9% |  | 48.2% |
-| 02:30 | AUD | Building Approvals (YoY) (Aug) |  |  | 9.00% |
-| 02:30 | AUD | Housing Credit (Aug) |  |  | 0.5% |
-| 02:30 | AUD | Private House Approvals (Aug) |  |  | -4.2% |
-| 02:30 | AUD | Private Sector Credit (MoM) (Aug) |  | 0.5% | 0.6% |
+| 02:30 | AUD | Building Approvals (YoY) (Aug) | 10.30% |  | 10.90% |
+| 02:30 | AUD | Housing Credit (Aug) | 0.4% |  | 0.5% |
+| 02:30 | AUD | Private House Approvals (Aug) | 3.7% |  | -1.9% |
+| 02:30 | AUD | Private Sector Credit (MoM) (Aug) | 0.6% | 0.5% | 0.6% |
 | 02:30 | AUD | RBA Chart Pack Release |  |  |  |
-| 02:30 | AUD | Trimmed Mean CPI (YoY) (Aug) |  |  | 3.6% |
-| 02:30 | AUD | Monthly CPI Indicator (YoY) (Aug) |  | 4.10% | 3.50% |
-| 02:30 | AUD | Weighted mean CPI (YoY) (Aug) |  |  | 3.6% |
-| 03:00 | SGD | Bank Lending (Aug) |  |  | 939.1B |
-| 03:00 | NZD | M3 Money Supply (Aug) |  |  | 458,490.0B |
-| 04:35 | JPY | 2-Year JGB Auction |  |  | 1.708% |
-| 06:00 | JPY | Construction Orders (YoY) (Aug) |  |  | -13.4% |
-| 06:00 | JPY | Housing Starts (YoY) (Aug) |  | 6.9% | 8.2% |
-| 07:00 | GBP | Business Investment (YoY) (Q2) |  | 0.8% | -1.3% |
-| 07:00 | EUR | German Import Price Index (MoM) (Aug) |  | 0.6% | 0.2% |
-| 07:00 | EUR | German Import Price Index (YoY) (Aug) |  |  | 6.8% |
-| 07:00 | EUR | German Retail Sales (YoY) (Aug) |  |  | -2.5% |
-| 07:00 | ZAR | M3 Money Supply (YoY) (Aug) |  |  | 8.57% |
-| 07:00 | ZAR | Private Sector Credit (Aug) |  |  | 7.41% |
+| 02:30 | AUD | Trimmed Mean CPI (YoY) (Aug) | 3.6% | 3.6% | 3.6% |
+| 02:30 | AUD | Monthly CPI Indicator (YoY) (Aug) | 4.00% | 4.10% | 3.50% |
+| 02:30 | AUD | Weighted mean CPI (YoY) (Aug) | 3.6% |  | 3.6% |
+| 03:00 | SGD | Bank Lending (Aug) | 966.4B |  | 939.1B |
+| 03:00 | NZD | M3 Money Supply (Aug) | 454.7B |  | 458.5B |
+| 04:35 | JPY | 2-Year JGB Auction | 1.964% |  | 1.708% |
+| 06:00 | JPY | Construction Orders (YoY) (Aug) | -3.6% |  | -13.4% |
+| 06:00 | JPY | Housing Starts (YoY) (Aug) | 6.1% | 6.9% | 8.2% |
+| 07:00 | GBP | Business Investment (YoY) (Q2) | 5.2% | 0.8% | 1.8% |
+| 07:00 | EUR | German Import Price Index (MoM) (Aug) | 1.0% | 0.6% | 0.2% |
+| 07:00 | EUR | German Import Price Index (YoY) (Aug) | 8.3% | 8.0% | 6.8% |
+| 07:00 | EUR | German Retail Sales (YoY) (Aug) | -0.4% | 0.1% | -2.2% |
+| 07:00 | ZAR | M3 Money Supply (YoY) (Aug) | 8.89% |  | 8.57% |
+| 07:00 | ZAR | Private Sector Credit (Aug) | 7.47% |  | 7.41% |
 | 07:45 | EUR | French CPI (YoY) (Sep) |  | 2.8% | 2.4% |
-| 07:45 | EUR | French HICP (YoY) (Sep) |  | 3.0% | 2.6% |
+| 07:45 | EUR | French HICP (YoY) (Sep) |  | 3.1% | 2.6% |
 | 07:45 | EUR | French PPI (MoM) (Aug) |  |  | 1.1% |
 | 07:45 | EUR | PPI (YoY) (Aug) |  |  | 3.40% |
 | 08:00 | CHF | Official Reserves Assets (Aug) |  |  | 889.6B |
 | 08:55 | EUR | German Unemployment (Sep) |  |  | 2.996M |
 | 08:55 | EUR | German Unemployment n.s.a. (Sep) |  |  | 3.061M |
-| 09:00 | EUR | Italian Business Confidence (Sep) |  |  | 89.9 |
-| 09:00 | EUR | Italian Consumer Confidence (Sep) |  |  | 94.5 |
+| 09:00 | EUR | Italian Business Confidence (Sep) |  | 90.5 | 89.9 |
+| 09:00 | EUR | Italian Consumer Confidence (Sep) |  | 94.0 | 94.5 |
 | 09:00 | CHF | ZEW Expectations (Sep) |  |  | 12.1 |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Sep) |  |  | 0.1% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Sep) |  |  | 2.6% |
@@ -57,10 +57,10 @@
 | 09:00 | EUR | Spanish Current account (Jul) |  |  | 2.41B |
 | 09:00 | NOK | Central Bank Currency Purchase (Oct) |  |  | 300.0M |
 | 09:30 | HKD | M3 Money Supply (Aug) |  |  | 5.5% |
-| 10:00 | EUR | Italian CPI (MoM) (Sep) |  | 0.0% | 0.5% |
-| 10:00 | EUR | Italian CPI (YoY) (Sep) |  |  | 3.3% |
-| 10:00 | EUR | Italian HICP (MoM) (Sep) |  |  | 0.1% |
-| 10:00 | EUR | Italian HICP (YoY) (Sep) |  | 3.4% | 3.2% |
+| 10:00 | EUR | Italian CPI (MoM) (Sep) |  | 0.2% | 0.5% |
+| 10:00 | EUR | Italian CPI (YoY) (Sep) |  | 3.8% | 3.3% |
+| 10:00 | EUR | Italian HICP (MoM) (Sep) |  | 1.8% | 0.1% |
+| 10:00 | EUR | Italian HICP (YoY) (Sep) |  | 3.8% | 3.2% |
 | 10:30 | GBP | BoE FPC Meeting Minutes |  |  |  |
 | 10:30 | ZAR | PPI (MoM) (Aug) |  |  | -1.0% |
 | 10:30 | ZAR | PPI (YoY) (Aug) |  |  | 5.7% |
