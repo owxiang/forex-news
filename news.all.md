@@ -51,39 +51,39 @@
 | 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Aug) | 6.2% | 5.8% | 6.0% |
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Sep) | 52.9 | 52.7 | 52.7 |
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Sep) | 51.9 | 52.0 | 51.7 |
-| 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.960% |
-| 10:00 | EUR | Moderate | Unemployment Rate (Aug) |  | 6.4% | 6.4% |
-| 10:00 | ZAR | Low | Manufacturing PMI (Sep) |  |  | 45.8 |
-| 10:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | -38.5% |
-| 10:30 | USD | Low | Challenger Job Cuts (Sep) |  |  | 52.881K |
+| 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction | 4.176% |  | 3.960% |
+| 10:00 | EUR | Moderate | Unemployment Rate (Aug) | 6.4% | 6.4% | 6.4% |
+| 10:00 | ZAR | Low | Manufacturing PMI (Sep) | 50.7 |  | 45.8 |
+| 10:30 | USD | Low | Challenger Job Cuts (YoY) | -19.9% |  | -38.5% |
+| 10:30 | USD | Low | Challenger Job Cuts (Sep) | 43.281K |  | 52.881K |
 | 11:35 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 12:00 | EUR | Low | Car Registration (MoM) (Sep) |  |  | -32.80% |
-| 12:00 | EUR | Low | Car Registration (YoY) (Sep) |  |  | 11.80% |
+| 12:00 | EUR | Low | Car Registration (MoM) (Sep) | 36.90% |  | -32.80% |
+| 12:00 | EUR | Low | Car Registration (YoY) (Sep) | 10.20% |  | 11.80% |
 | 13:00 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
-| 13:15 | ZAR | Low | Total Vehicle Sales (YoY) (Sep) |  |  | 11.40% |
-| 13:15 | ZAR | Low | Total Vehicle Sales (Sep) |  |  | 57.90K |
+| 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (Sep) | 12.70% |  | 11.40% |
+| 13:00 | ZAR | Low | Total Vehicle Sales (Sep) | 61.65K |  | 57.76K |
 | 13:30 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,730K | 1,719K |
-| 13:30 | USD | High | Initial Jobless Claims |  | 201K | 197K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 202.25K |
-| 14:00 | BRL | Low | S&P Global Manufacturing PMI (Sep) |  |  | 46.3 |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,701K | 1,730K | 1,712K |
+| 13:30 | USD | High | Initial Jobless Claims | 197K | 201K | 198K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 200.00K |  | 202.50K |
+| 14:00 | BRL | Low | S&P Global Manufacturing PMI (Sep) | 44.8 |  | 46.3 |
 | 14:05 | USD | Low | Fed Collins Speaks |  |  |  |
 | 14:05 | USD | Low | Fed Schmid Speaks |  |  |  |
 | 14:05 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 14:30 | CAD | Low | S&P Global Manufacturing PMI (Sep) |  |  | 53.0 |
+| 14:30 | CAD | Low | S&P Global Manufacturing PMI (Sep) | 51.5 |  | 53.0 |
 | 14:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 14:45 | USD | High | S&P Global Manufacturing PMI (Sep) |  | 57.0 | 53.9 |
-| 15:00 | USD | Moderate | Construction Spending (MoM) (Aug) |  | 0.0% | -0.5% |
+| 14:45 | USD | High | S&P Global Manufacturing PMI (Sep) | 55.9 | 57.0 | 53.9 |
+| 15:00 | USD | Moderate | Construction Spending (MoM) (Aug) | 0.9% | 0.0% | -0.1% |
 | 15:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 15:00 | USD | Moderate | ISM Manufacturing Employment (Sep) |  |  | 51.2 |
-| 15:00 | USD | Low | ISM Manufacturing New Orders Index (Sep) |  |  | 53.7 |
-| 15:00 | USD | High | ISM Manufacturing PMI (Sep) |  | 54.8 | 54.6 |
-| 15:00 | USD | High | ISM Manufacturing Prices (Sep) |  | 72.9 | 71.1 |
-| 15:30 | USD | Low | Natural Gas Storage |  | 63B | 53B |
-| 16:00 | MXN | Low | S&P Global Manufacturing PMI (Sep) |  |  | 49.80 |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.850% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.990% |
-| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 3.7% | 3.7% |
+| 15:00 | USD | Moderate | ISM Manufacturing Employment (Sep) | 52.7 | 52.0 | 51.2 |
+| 15:00 | USD | Low | ISM Manufacturing New Orders Index (Sep) | 55.3 | 54.7 | 53.7 |
+| 15:00 | USD | High | ISM Manufacturing PMI (Sep) | 54.5 | 54.8 | 54.6 |
+| 15:00 | USD | High | ISM Manufacturing Prices (Sep) | 77.9 | 72.9 | 71.1 |
+| 15:30 | USD | Low | Natural Gas Storage | 64B | 63B | 53B |
+| 16:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 3.7% | 3.7% | 3.7% |
+| 16:00 | MXN | Low | S&P Global Manufacturing PMI (Sep) | 50.30 |  | 49.80 |
+| 16:30 | USD | Low | 4-Week Bill Auction | 3.890% |  | 3.850% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 3.990% |  | 3.990% |
 | 16:30 | CHF | Low | SNB Chairman Schlegel Speaks |  |  |  |
 | 16:30 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 17:30 | EUR | Low | Italian Car Registration (YoY) (Sep) |  |  | 3.2% |

@@ -19,16 +19,16 @@
 | 09:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Sep) | 52.9 | 52.7 | 52.7 |
 | 09:30 | GBP | S&P Global Manufacturing PMI (Sep) | 51.9 | 52.0 | 51.7 |
-| 10:00 | EUR | Unemployment Rate (Aug) |  | 6.4% | 6.4% |
+| 10:00 | EUR | Unemployment Rate (Aug) | 6.4% | 6.4% | 6.4% |
 | 11:35 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 13:00 | GBP | BoE MPC Member Mann Speaks |  |  |  |
 | 13:30 | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims |  | 1,730K | 1,719K |
+| 13:30 | USD | Continuing Jobless Claims | 1,701K | 1,730K | 1,712K |
 | 14:30 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 15:00 | USD | Construction Spending (MoM) (Aug) |  | 0.0% | -0.5% |
+| 15:00 | USD | Construction Spending (MoM) (Aug) | 0.9% | 0.0% | -0.1% |
 | 15:00 | USD | Fed Waller Speaks |  |  |  |
-| 15:00 | USD | ISM Manufacturing Employment (Sep) |  |  | 51.2 |
-| 16:30 | USD | Atlanta Fed GDPNow (Q3) |  | 3.7% | 3.7% |
+| 15:00 | USD | ISM Manufacturing Employment (Sep) | 52.7 | 52.0 | 51.2 |
+| 16:00 | USD | Atlanta Fed GDPNow (Q3) | 3.7% | 3.7% | 3.7% |
 | 16:30 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 20:00 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 20:05 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |

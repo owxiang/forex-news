@@ -34,25 +34,25 @@
 | 07:30 | CHF | CPI (YoY) (Sep) | 1.0% | 1.0% | 0.8% |
 | 07:30 | AUD | Commodity Prices (YoY) (Sep) | 15.5% |  | 15.5% |
 | 09:00 | EUR | Italian Monthly Unemployment Rate (Aug) | 6.2% | 5.8% | 6.0% |
-| 09:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.960% |
-| 10:00 | ZAR | Manufacturing PMI (Sep) |  |  | 45.8 |
-| 10:30 | USD | Challenger Job Cuts (YoY) |  |  | -38.5% |
-| 10:30 | USD | Challenger Job Cuts (Sep) |  |  | 52.881K |
-| 12:00 | EUR | Car Registration (MoM) (Sep) |  |  | -32.80% |
-| 12:00 | EUR | Car Registration (YoY) (Sep) |  |  | 11.80% |
-| 13:15 | ZAR | Total Vehicle Sales (YoY) (Sep) |  |  | 11.40% |
-| 13:15 | ZAR | Total Vehicle Sales (Sep) |  |  | 57.90K |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 202.25K |
-| 14:00 | BRL | S&P Global Manufacturing PMI (Sep) |  |  | 46.3 |
+| 09:40 | EUR | Spanish 10-Year Obligacion Auction | 4.176% |  | 3.960% |
+| 10:00 | ZAR | Manufacturing PMI (Sep) | 50.7 |  | 45.8 |
+| 10:30 | USD | Challenger Job Cuts (YoY) | -19.9% |  | -38.5% |
+| 10:30 | USD | Challenger Job Cuts (Sep) | 43.281K |  | 52.881K |
+| 12:00 | EUR | Car Registration (MoM) (Sep) | 36.90% |  | -32.80% |
+| 12:00 | EUR | Car Registration (YoY) (Sep) | 10.20% |  | 11.80% |
+| 13:00 | ZAR | Total Vehicle Sales (YoY) (Sep) | 12.70% |  | 11.40% |
+| 13:00 | ZAR | Total Vehicle Sales (Sep) | 61.65K |  | 57.76K |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 200.00K |  | 202.50K |
+| 14:00 | BRL | S&P Global Manufacturing PMI (Sep) | 44.8 |  | 46.3 |
 | 14:05 | USD | Fed Collins Speaks |  |  |  |
 | 14:05 | USD | Fed Schmid Speaks |  |  |  |
 | 14:05 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 14:30 | CAD | S&P Global Manufacturing PMI (Sep) |  |  | 53.0 |
-| 15:00 | USD | ISM Manufacturing New Orders Index (Sep) |  |  | 53.7 |
-| 15:30 | USD | Natural Gas Storage |  | 63B | 53B |
-| 16:00 | MXN | S&P Global Manufacturing PMI (Sep) |  |  | 49.80 |
-| 16:30 | USD | 4-Week Bill Auction |  |  | 3.850% |
-| 16:30 | USD | 8-Week Bill Auction |  |  | 3.990% |
+| 14:30 | CAD | S&P Global Manufacturing PMI (Sep) | 51.5 |  | 53.0 |
+| 15:00 | USD | ISM Manufacturing New Orders Index (Sep) | 55.3 | 54.7 | 53.7 |
+| 15:30 | USD | Natural Gas Storage | 64B | 63B | 53B |
+| 16:00 | MXN | S&P Global Manufacturing PMI (Sep) | 50.30 |  | 49.80 |
+| 16:30 | USD | 4-Week Bill Auction | 3.890% |  | 3.850% |
+| 16:30 | USD | 8-Week Bill Auction | 3.990% |  | 3.990% |
 | 16:30 | CHF | SNB Chairman Schlegel Speaks |  |  |  |
 | 17:30 | EUR | Italian Car Registration (YoY) (Sep) |  |  | 3.2% |
 | 18:30 | USD | Fed Governor Jefferson Speaks |  |  |  |
