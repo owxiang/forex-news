@@ -3,9 +3,11 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | AUD | S&P Global Manufacturing PMI (Sep) | 49.6 | 49.3 | 52.0 |
+| 00:49 | JPY | Foreign Bonds Buying | -1,904.9B |  | 1,091.0B |
+| 00:49 | JPY | Foreign Investments in Japanese Stocks | -4,942.5B |  | -1,520.4B |
 | 00:50 | JPY | BoJ Summary of Opinions |  |  |  |
-| 00:50 | JPY | Foreign Bonds Buying | -684.5B |  | 1,091.0B |
-| 00:50 | JPY | Foreign Investments in Japanese Stocks | -362.0B |  | -1,520.4B |
+| 00:50 | JPY | Foreign Bonds Buying | -684.5B |  | -1,904.9B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks | -362.0B |  | -4,942.5B |
 | 00:50 | JPY | Tankan All Small Industry CAPEX (Q3) | -4.7% |  | -8.3% |
 | 00:50 | JPY | Tankan Large Non-Manufacturers Diffusion Index (Q3) | 30 | 30 | 28 |
 | 00:50 | JPY | Tankan Small Manufacturers Diffusion Index (Q3) | 12 |  | 2 |
@@ -19,27 +21,27 @@
 | 01:30 | JPY | S&P Global Manufacturing PMI (Sep) | 54.1 | 54.1 | 54.9 |
 | 01:30 | SGD | URA Property Index (QoQ) (Q3) | 1.40% |  | 0.50% |
 | 01:30 | IDR | S&P Global Manufacturing PMI (Sep) | 52.4 |  | 49.8 |
-| 02:30 | AUD | Exports (MoM) (Aug) | 3.7% |  | -3.3% |
-| 02:30 | AUD | Imports (MoM) (Aug) | 5.8% |  | -2.5% |
-| 05:00 | IDR | Core Inflation (YoY) (Sep) |  | 3.00% | 2.92% |
-| 05:00 | IDR | Export Growth (YoY) (Aug) |  | 4.20% | 6.05% |
-| 05:00 | IDR | Import Growth (YoY) (Aug) |  | 31.70% | 27.02% |
-| 05:00 | IDR | Inflation (YoY) (Sep) |  | 3.30% | 3.19% |
-| 05:00 | IDR | Inflation (MoM) (Sep) |  | 0.31% | 0.21% |
-| 05:00 | IDR | Trade Balance (Aug) |  | 0.60B | 0.13B |
-| 06:00 | INR | HSBC India Manufacturing PMI (Sep) |  | 55.7 | 52.8 |
-| 07:30 | CHF | Retail Sales (YoY) (Aug) |  | 2.1% | 2.3% |
-| 07:30 | CHF | CPI (YoY) (Sep) |  | 1.0% | 0.8% |
-| 07:30 | AUD | Commodity Prices (YoY) (Sep) |  |  | 15.5% |
-| 09:00 | EUR | Italian Monthly Unemployment Rate (Aug) |  | 5.8% | 5.8% |
+| 02:30 | AUD | Exports (MoM) (Aug) | 3.7% |  | -3.6% |
+| 02:30 | AUD | Imports (MoM) (Aug) | 5.8% |  | -2.4% |
+| 05:00 | IDR | Core Inflation (YoY) (Sep) | 2.84% | 3.00% | 2.92% |
+| 05:00 | IDR | Export Growth (YoY) (Aug) | 6.72% | 4.20% | 6.05% |
+| 05:00 | IDR | Import Growth (YoY) (Aug) | 19.09% | 31.70% | 27.02% |
+| 05:00 | IDR | Inflation (YoY) (Sep) | 3.28% | 3.30% | 3.19% |
+| 05:00 | IDR | Inflation (MoM) (Sep) | 0.30% | 0.31% | 0.21% |
+| 05:00 | IDR | Trade Balance (Aug) | 3.55B | 0.60B | 0.13B |
+| 06:00 | INR | HSBC India Manufacturing PMI (Sep) | 55.1 | 55.7 | 52.8 |
+| 07:30 | CHF | Retail Sales (YoY) (Aug) | 3.2% | 2.1% | 2.6% |
+| 07:30 | CHF | CPI (YoY) (Sep) | 1.0% | 1.0% | 0.8% |
+| 07:30 | AUD | Commodity Prices (YoY) (Sep) | 15.5% |  | 15.5% |
+| 09:00 | EUR | Italian Monthly Unemployment Rate (Aug) | 6.2% | 5.8% | 6.0% |
 | 09:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.960% |
 | 10:00 | ZAR | Manufacturing PMI (Sep) |  |  | 45.8 |
 | 10:30 | USD | Challenger Job Cuts (YoY) |  |  | -38.5% |
 | 10:30 | USD | Challenger Job Cuts (Sep) |  |  | 52.881K |
 | 12:00 | EUR | Car Registration (MoM) (Sep) |  |  | -32.80% |
 | 12:00 | EUR | Car Registration (YoY) (Sep) |  |  | 11.80% |
-| 13:15 | ZAR | Total Vehicle Sales (Sep) |  |  | 57.90K |
 | 13:15 | ZAR | Total Vehicle Sales (YoY) (Sep) |  |  | 11.40% |
+| 13:15 | ZAR | Total Vehicle Sales (Sep) |  |  | 57.90K |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 202.25K |
 | 14:00 | BRL | S&P Global Manufacturing PMI (Sep) |  |  | 46.3 |
 | 14:05 | USD | Fed Collins Speaks |  |  |  |
