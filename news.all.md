@@ -86,12 +86,12 @@
 | 16:30 | USD | Low | 8-Week Bill Auction | 3.990% |  | 3.990% |
 | 16:30 | CHF | Low | SNB Chairman Schlegel Speaks |  |  |  |
 | 16:30 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 17:30 | EUR | Low | Italian Car Registration (YoY) (Sep) |  |  | 3.2% |
 | 18:30 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
+| 19:30 | EUR | Low | Italian Car Registration (YoY) (Sep) | 9.9% |  | 3.2% |
 | 20:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 20:05 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 20:30 | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 20:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,748B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.969T |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,743B |  | 6,748B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 2.881T |  | 2.969T |
 | 23:45 | USD | Low | Fed Logan Speaks |  |  |  |

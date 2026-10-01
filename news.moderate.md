@@ -33,4 +33,4 @@
 | 20:00 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 20:05 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 20:30 | USD | FOMC Member Williams Speaks |  |  |  |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 6,748B |
+| 21:30 | USD | Fed's Balance Sheet | 6,743B |  | 6,748B |

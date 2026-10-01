@@ -54,8 +54,8 @@
 | 16:30 | USD | 4-Week Bill Auction | 3.890% |  | 3.850% |
 | 16:30 | USD | 8-Week Bill Auction | 3.990% |  | 3.990% |
 | 16:30 | CHF | SNB Chairman Schlegel Speaks |  |  |  |
-| 17:30 | EUR | Italian Car Registration (YoY) (Sep) |  |  | 3.2% |
 | 18:30 | USD | Fed Governor Jefferson Speaks |  |  |  |
+| 19:30 | EUR | Italian Car Registration (YoY) (Sep) | 9.9% |  | 3.2% |
 | 20:30 | USD | Fed Governor Cook Speaks |  |  |  |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.969T |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 2.881T |  | 2.969T |
 | 23:45 | USD | Fed Logan Speaks |  |  |  |
