@@ -14,26 +14,24 @@
 | 08:00 | EUR | Spanish Unemployment Change (Sep) | 23.6K | 17.6K | 44.4K |
 | 09:00 | EUR | Italian Retail Sales (MoM) (Aug) | 0.3% | -0.1% | -0.4% |
 | 09:00 | EUR | Italian Retail Sales (YoY) (Aug) | 0.5% |  | 1.0% |
-| 09:30 | HKD | Retail Sales (YoY) (Aug) |  |  | 4.5% |
-| 10:00 | BRL | IPC-Fipe Inflation Index (MoM) (Sep) |  |  | 0.01% |
-| 10:00 | EUR | Core CPI (MoM) (Sep) |  |  | 0.2% |
-| 10:00 | EUR | CPI, n.s.a (Sep) |  |  | 103.69 |
-| 10:00 | EUR | HICP ex Energy & Food (YoY) (Sep) |  |  | 2.1% |
-| 10:00 | EUR | HICP ex Energy and Food (MoM) (Sep) |  |  | 0.2% |
-| 12:30 | INR | Bank Loan Growth |  |  | 18.1% |
-| 12:30 | INR | Deposit Growth |  |  | 17.3% |
-| 12:30 | INR | FX Reserves, USD |  |  | 765.90B |
-| 13:00 | BRL | Industrial Production (YoY) (Aug) |  | 0.3% | -0.5% |
-| 13:00 | BRL | Industrial Production (MoM) (Aug) |  | 0.1% | 0.2% |
-| 13:30 | USD | Average Weekly Hours (Sep) |  | 34.3 | 34.4 |
-| 13:30 | USD | Government Payrolls (Sep) |  |  | 35.0K |
-| 13:30 | USD | Manufacturing Payrolls (Sep) |  | 10K | 16K |
-| 14:00 | SGD | S&P Global Manufacturing PMI (Sep) |  |  | 51.5 |
-| 15:00 | USD | Durables Excluding Defense (MoM) (Aug) |  |  | 0.1% |
-| 15:00 | USD | Durables Excluding Transport (MoM) (Aug) |  |  | 0.3% |
-| 15:00 | USD | Factory orders ex transportation (MoM) (Aug) |  |  | 0.6% |
+| 09:30 | HKD | Retail Sales (YoY) (Aug) | 5.6% |  | 4.5% |
+| 09:45 | EUR | French Car Registration (YoY) (Sep) | 11.6% |  | 7.4% |
+| 10:00 | BRL | IPC-Fipe Inflation Index (MoM) (Sep) | 0.51% |  | 0.01% |
+| 10:00 | EUR | Core CPI (MoM) (Sep) | 0.2% |  | 0.2% |
+| 10:00 | EUR | CPI, n.s.a (Sep) | 104.30 |  | 103.69 |
+| 10:00 | EUR | HICP ex Energy & Food (YoY) (Sep) | 2.2% |  | 2.1% |
+| 10:00 | EUR | HICP ex Energy and Food (MoM) (Sep) | 0.2% |  | 0.2% |
+| 12:30 | INR | FX Reserves, USD | 747.56B |  | 765.90B |
+| 13:00 | BRL | Industrial Production (YoY) (Aug) | -1.2% | 0.3% | -0.5% |
+| 13:00 | BRL | Industrial Production (MoM) (Aug) | -0.6% | 0.1% | 0.1% |
+| 13:30 | USD | Average Weekly Hours (Sep) | 34.4 | 34.3 | 34.4 |
+| 13:30 | USD | Government Payrolls (Sep) | -17.0K |  | 44.0K |
+| 13:30 | USD | Manufacturing Payrolls (Sep) | 9K | 10K | 15K |
+| 14:00 | SGD | S&P Global Manufacturing PMI (Sep) | 51.7 |  | 51.5 |
+| 15:00 | USD | Durables Excluding Defense (MoM) (Aug) | 0.0% |  | 0.1% |
+| 15:00 | USD | Durables Excluding Transport (MoM) (Aug) | 0.2% |  | 0.3% |
+| 15:00 | USD | Factory orders ex transportation (MoM) (Aug) | 0.3% |  | 0.7% |
 | 15:00 | USD | Fed Logan Speaks |  |  |  |
-| 17:00 | EUR | French Car Registration (YoY) (Sep) |  |  | 7.4% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -0.8K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 90.5K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 535.8K |
