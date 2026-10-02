@@ -10,10 +10,10 @@
 | 00:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Sep) | 0.4% |  | 0.7% |
 | 00:30 | JPY | Unemployment Rate (Aug) | 2.5% | 2.4% | 2.4% |
 | 00:50 | JPY | Monetary Base (YoY) (Sep) | -15.2% | -16.3% | -15.7% |
-| 07:00 | NOK | Unemployment Rate n.s.a. (Sep) |  | 2.10% | 2.10% |
-| 08:00 | EUR | Spanish Unemployment Change (Sep) |  | 17.6K | 44.4K |
-| 09:00 | EUR | Italian Retail Sales (MoM) (Aug) |  | -0.1% | -0.4% |
-| 09:00 | EUR | Italian Retail Sales (YoY) (Aug) |  |  | 0.8% |
+| 07:00 | NOK | Unemployment Rate n.s.a. (Sep) | 2.00% | 2.10% | 2.10% |
+| 08:00 | EUR | Spanish Unemployment Change (Sep) | 23.6K | 17.6K | 44.4K |
+| 09:00 | EUR | Italian Retail Sales (MoM) (Aug) | 0.3% | -0.1% | -0.4% |
+| 09:00 | EUR | Italian Retail Sales (YoY) (Aug) | 0.5% |  | 1.0% |
 | 09:30 | HKD | Retail Sales (YoY) (Aug) |  |  | 4.5% |
 | 10:00 | BRL | IPC-Fipe Inflation Index (MoM) (Sep) |  |  | 0.01% |
 | 10:00 | EUR | Core CPI (MoM) (Sep) |  |  | 0.2% |
@@ -34,7 +34,6 @@
 | 15:00 | USD | Factory orders ex transportation (MoM) (Aug) |  |  | 0.6% |
 | 15:00 | USD | Fed Logan Speaks |  |  |  |
 | 17:00 | EUR | French Car Registration (YoY) (Sep) |  |  | 7.4% |
-| 19:00 | USD | Total Vehicle Sales (Sep) |  | 16.30M | 16.80M |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -0.8K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 90.5K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 535.8K |

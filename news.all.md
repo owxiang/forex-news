@@ -11,14 +11,14 @@
 | 00:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Sep) | 0.4% |  | 0.7% |
 | 00:30 | JPY | Low | Unemployment Rate (Aug) | 2.5% | 2.4% | 2.4% |
 | 00:50 | JPY | Low | Monetary Base (YoY) (Sep) | -15.2% | -16.3% | -15.7% |
-| 07:00 | NOK | Low | Unemployment Rate n.s.a. (Sep) |  | 2.10% | 2.10% |
-| 08:00 | EUR | Low | Spanish Unemployment Change (Sep) |  | 17.6K | 44.4K |
-| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Aug) |  | -0.1% | -0.4% |
-| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Aug) |  |  | 0.8% |
+| 07:00 | NOK | Low | Unemployment Rate n.s.a. (Sep) | 2.00% | 2.10% | 2.10% |
+| 08:00 | EUR | Low | Spanish Unemployment Change (Sep) | 23.6K | 17.6K | 44.4K |
+| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Aug) | 0.3% | -0.1% | -0.4% |
+| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Aug) | 0.5% |  | 1.0% |
 | 09:30 | HKD | Low | Retail Sales (YoY) (Aug) |  |  | 4.5% |
 | 10:00 | BRL | Low | IPC-Fipe Inflation Index (MoM) (Sep) |  |  | 0.01% |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Sep) |  | 2.5% | 2.4% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Sep) |  |  | 0.2% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Sep) |  | 2.5% | 2.4% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Sep) |  |  | 0.4% |
 | 10:00 | EUR | High | CPI (YoY) (Sep) |  | 3.7% | 3.2% |
 | 10:00 | EUR | Low | CPI, n.s.a (Sep) |  |  | 103.69 |
@@ -29,14 +29,15 @@
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 765.90B |
 | 13:00 | BRL | Low | Industrial Production (YoY) (Aug) |  | 0.3% | -0.5% |
 | 13:00 | BRL | Low | Industrial Production (MoM) (Aug) |  | 0.1% | 0.2% |
+| 13:15 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Sep) |  | 0.3% | 0.3% |
-| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Sep) |  |  | 3.1% |
+| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Sep) |  | 3.2% | 3.1% |
 | 13:30 | USD | Low | Average Weekly Hours (Sep) |  | 34.3 | 34.4 |
 | 13:30 | USD | Low | Government Payrolls (Sep) |  |  | 35.0K |
 | 13:30 | USD | Low | Manufacturing Payrolls (Sep) |  | 10K | 16K |
 | 13:30 | USD | High | Nonfarm Payrolls (Sep) |  | 89K | 162K |
 | 13:30 | USD | Moderate | Participation Rate (Sep) |  |  | 61.6% |
-| 13:30 | USD | Moderate | Private Nonfarm Payrolls (Sep) |  | 82K | 127K |
+| 13:30 | USD | Moderate | Private Nonfarm Payrolls (Sep) |  | 85K | 127K |
 | 13:30 | USD | Moderate | U6 Unemployment Rate (Sep) |  |  | 7.7% |
 | 13:30 | USD | High | Unemployment Rate (Sep) |  | 4.1% | 4.1% |
 | 14:00 | SGD | Low | S&P Global Manufacturing PMI (Sep) |  |  | 51.5 |
@@ -48,7 +49,6 @@
 | 17:00 | EUR | Low | French Car Registration (YoY) (Sep) |  |  | 7.4% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 455 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 599 |
-| 19:00 | USD | Low | Total Vehicle Sales (Sep) |  | 16.30M | 16.80M |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -82.6K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -0.8K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 90.5K |

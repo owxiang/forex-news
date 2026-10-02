@@ -5,9 +5,10 @@
 | 00:30 | JPY | Tokyo Core CPI (YoY) (Sep) | 2.7% | 2.4% | 1.8% |
 | 10:00 | EUR | Core CPI (YoY) (Sep) |  | 2.5% | 2.4% |
 | 10:00 | EUR | CPI (MoM) (Sep) |  |  | 0.4% |
-| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Sep) |  |  | 3.1% |
+| 13:15 | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Sep) |  | 3.2% | 3.1% |
 | 13:30 | USD | Participation Rate (Sep) |  |  | 61.6% |
-| 13:30 | USD | Private Nonfarm Payrolls (Sep) |  | 82K | 127K |
+| 13:30 | USD | Private Nonfarm Payrolls (Sep) |  | 85K | 127K |
 | 13:30 | USD | U6 Unemployment Rate (Sep) |  |  | 7.7% |
 | 15:00 | USD | Factory Orders (MoM) (Aug) |  | 0.1% | 0.9% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 455 |
