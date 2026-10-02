@@ -1,8 +1,8 @@
-## 01 October 2026 - High Impact Forex News
+## 02 October 2026 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:30 | USD | Initial Jobless Claims | 197K | 201K | 198K |
-| 14:45 | USD | S&P Global Manufacturing PMI (Sep) | 55.9 | 57.0 | 53.9 |
-| 15:00 | USD | ISM Manufacturing PMI (Sep) | 54.5 | 54.8 | 54.6 |
-| 15:00 | USD | ISM Manufacturing Prices (Sep) | 77.9 | 72.9 | 71.1 |
+| 10:00 | EUR | CPI (YoY) (Sep) |  | 3.7% | 3.2% |
+| 13:30 | USD | Average Hourly Earnings (MoM) (Sep) |  | 0.3% | 0.3% |
+| 13:30 | USD | Nonfarm Payrolls (Sep) |  | 89K | 162K |
+| 13:30 | USD | Unemployment Rate (Sep) |  | 4.1% | 4.1% |
