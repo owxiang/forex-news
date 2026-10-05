@@ -16,4 +16,4 @@
 | 10:00 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 14:45 | USD | S&P Global Composite PMI (Sep) | 58.4 | 58.4 | 58.4 |
 | 15:00 | USD | ISM Non-Manufacturing Employment (Sep) | 50.1 | 48.8 | 47.8 |
-| 22:00 | NZD | NZIER Business Confidence (Q3) |  |  | 8% |
+| 22:00 | NZD | NZIER Business Confidence (Q3) | 43% |  | 8% |

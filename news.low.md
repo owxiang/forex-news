@@ -35,5 +35,5 @@
 | 15:00 | USD | ISM Non-Manufacturing New Orders (Sep) | 59.8 | 60.3 | 60.9 |
 | 16:30 | USD | 3-Month Bill Auction | 4.050% |  | 4.110% |
 | 16:30 | USD | 6-Month Bill Auction | 4.165% |  | 4.285% |
-| 22:00 | KRW | FX Reserves - USD (Sep) |  |  | 442.28B |
-| 22:00 | NZD | NZIER QSBO Capacity Utilization (Q3) |  |  | 90.8% |
+| 22:00 | KRW | FX Reserves - USD (Sep) | 440.56B |  | 442.28B |
+| 22:00 | NZD | NZIER QSBO Capacity Utilization (Q3) | 91.0% |  | 90.8% |

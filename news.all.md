@@ -52,6 +52,6 @@
 | 15:00 | USD | High | ISM Non-Manufacturing Prices (Sep) | 74.0 | 73.3 | 72.6 |
 | 16:30 | USD | Low | 3-Month Bill Auction | 4.050% |  | 4.110% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 4.165% |  | 4.285% |
-| 22:00 | KRW | Low | FX Reserves - USD (Sep) |  |  | 442.28B |
-| 22:00 | NZD | Moderate | NZIER Business Confidence (Q3) |  |  | 8% |
-| 22:00 | NZD | Low | NZIER QSBO Capacity Utilization (Q3) |  |  | 90.8% |
+| 22:00 | KRW | Low | FX Reserves - USD (Sep) | 440.56B |  | 442.28B |
+| 22:00 | NZD | Moderate | NZIER Business Confidence (Q3) | 43% |  | 8% |
+| 22:00 | NZD | Low | NZIER QSBO Capacity Utilization (Q3) | 91.0% |  | 90.8% |
