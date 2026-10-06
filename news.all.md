@@ -27,25 +27,26 @@
 | 10:00 | EUR | Low | Retail Sales (YoY) (Aug) | 0.8% | 1.0% | 0.4% |
 | 10:30 | EUR | Low | German 2-Year Schatz Auction | 3.100% |  | 3.270% |
 | 12:40 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 13:00 | MXN | Low | Consumer Confidence (Sep) |  |  | 46.1 |
-| 13:00 | MXN | Low | Consumer Confidence n.s.a. (Sep) |  |  | 46.6 |
-| 13:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -1.1% |
-| 13:00 | USD | Low | Milk Auctions |  |  | 3,868.0 |
-| 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 20.00K |
-| 13:30 | USD | Moderate | Exports (Aug) |  |  | 310.70B |
-| 13:30 | USD | Moderate | Imports (Aug) |  |  | 399.30B |
-| 13:30 | USD | Moderate | Trade Balance (Aug) |  | -100.80B | -88.60B |
-| 13:30 | CAD | Low | Exports (Aug) |  |  | 76.14B |
-| 13:30 | CAD | Low | Imports (Aug) |  |  | 75.37B |
-| 13:30 | CAD | Moderate | Trade Balance (Aug) |  | 1.50B | 0.77B |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 8.2% |
+| 13:00 | MXN | Low | Consumer Confidence (Sep) | 45.1 |  | 46.3 |
+| 13:00 | MXN | Low | Consumer Confidence n.s.a. (Sep) | 45.2 |  | 46.6 |
+| 13:14 | USD | Moderate | ADP Employment Change Weekly | 22.50K |  | 20.00K |
+| 13:15 | USD | Moderate | ADP Employment Change Weekly | 23.80K |  | 22.50K |
+| 13:30 | USD | Moderate | Exports (Aug) | 315.20B |  | 310.70B |
+| 13:30 | USD | Moderate | Imports (Aug) | 420.80B |  | 399.30B |
+| 13:30 | USD | Moderate | Trade Balance (Aug) | -105.60B | -100.80B | -92.80B |
+| 13:30 | CAD | Low | Exports (Aug) | 77.91B |  | 76.03B |
+| 13:30 | CAD | Low | Imports (Aug) | 73.71B |  | 75.24B |
+| 13:30 | CAD | Moderate | Trade Balance (Aug) | 4.20B | 1.50B | 0.79B |
+| 13:55 | USD | Low | Redbook (YoY) | 8.6% |  | 8.2% |
 | 14:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 14:05 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 15:00 | USD | Low | IBD/TIPP Economic Optimism (Oct) |  | 44.5 | 45.6 |
-| 15:00 | CAD | Low | Ivey PMI n.s.a (Sep) |  |  | 62.7 |
-| 15:00 | CAD | Moderate | Ivey PMI (Sep) |  | 65.2 | 64.3 |
+| 15:00 | USD | Low | IBD/TIPP Economic Optimism (Oct) | 46.8 | 44.5 | 45.6 |
+| 15:00 | CAD | Low | Ivey PMI n.s.a (Sep) | 61.9 |  | 62.7 |
+| 15:00 | CAD | Moderate | Ivey PMI (Sep) | 58.2 | 65.2 | 64.3 |
 | 15:45 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 3.7% | 3.7% |
+| 16:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 3.7% | 3.7% | 3.7% |
+| 16:30 | NZD | Low | GlobalDairyTrade Price Index | 1.2% |  | -1.1% |
+| 16:30 | USD | Low | Milk Auctions | 3,928.0 |  | 3,868.0 |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 17:00 | ZAR | Low | SARB Monetary Policy Review |  |  |  |
 | 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 4.474% |

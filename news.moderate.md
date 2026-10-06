@@ -7,16 +7,17 @@
 | 09:30 | GBP | BoE MPC Member Mann Speaks |  |  |  |
 | 09:30 | GBP | S&P Global Construction PMI (Sep) | 46.1 | 45.0 | 44.3 |
 | 12:40 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 13:15 | USD | ADP Employment Change Weekly |  |  | 20.00K |
-| 13:30 | USD | Exports (Aug) |  |  | 310.70B |
-| 13:30 | USD | Imports (Aug) |  |  | 399.30B |
-| 13:30 | USD | Trade Balance (Aug) |  | -100.80B | -88.60B |
-| 13:30 | CAD | Trade Balance (Aug) |  | 1.50B | 0.77B |
+| 13:14 | USD | ADP Employment Change Weekly | 22.50K |  | 20.00K |
+| 13:15 | USD | ADP Employment Change Weekly | 23.80K |  | 22.50K |
+| 13:30 | USD | Exports (Aug) | 315.20B |  | 310.70B |
+| 13:30 | USD | Imports (Aug) | 420.80B |  | 399.30B |
+| 13:30 | USD | Trade Balance (Aug) | -105.60B | -100.80B | -92.80B |
+| 13:30 | CAD | Trade Balance (Aug) | 4.20B | 1.50B | 0.79B |
 | 14:00 | EUR | ECB's Elderson Speaks |  |  |  |
 | 14:05 | USD | FOMC Member Williams Speaks |  |  |  |
-| 15:00 | CAD | Ivey PMI (Sep) |  | 65.2 | 64.3 |
+| 15:00 | CAD | Ivey PMI (Sep) | 58.2 | 65.2 | 64.3 |
 | 15:45 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 16:30 | USD | Atlanta Fed GDPNow (Q3) |  | 3.7% | 3.7% |
+| 16:00 | USD | Atlanta Fed GDPNow (Q3) | 3.7% | 3.7% | 3.7% |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 18:00 | USD | 3-Year Note Auction |  |  | 4.474% |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | 1.019M |

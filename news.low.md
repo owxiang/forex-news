@@ -22,15 +22,15 @@
 | 10:00 | EUR | Retail Sales (MoM) (Aug) | 0.1% | 0.2% | -0.6% |
 | 10:00 | EUR | Retail Sales (YoY) (Aug) | 0.8% | 1.0% | 0.4% |
 | 10:30 | EUR | German 2-Year Schatz Auction | 3.100% |  | 3.270% |
-| 13:00 | MXN | Consumer Confidence (Sep) |  |  | 46.1 |
-| 13:00 | MXN | Consumer Confidence n.s.a. (Sep) |  |  | 46.6 |
-| 13:00 | NZD | GlobalDairyTrade Price Index |  |  | -1.1% |
-| 13:00 | USD | Milk Auctions |  |  | 3,868.0 |
-| 13:30 | CAD | Exports (Aug) |  |  | 76.14B |
-| 13:30 | CAD | Imports (Aug) |  |  | 75.37B |
-| 13:55 | USD | Redbook (YoY) |  |  | 8.2% |
-| 15:00 | USD | IBD/TIPP Economic Optimism (Oct) |  | 44.5 | 45.6 |
-| 15:00 | CAD | Ivey PMI n.s.a (Sep) |  |  | 62.7 |
+| 13:00 | MXN | Consumer Confidence (Sep) | 45.1 |  | 46.3 |
+| 13:00 | MXN | Consumer Confidence n.s.a. (Sep) | 45.2 |  | 46.6 |
+| 13:30 | CAD | Exports (Aug) | 77.91B |  | 76.03B |
+| 13:30 | CAD | Imports (Aug) | 73.71B |  | 75.24B |
+| 13:55 | USD | Redbook (YoY) | 8.6% |  | 8.2% |
+| 15:00 | USD | IBD/TIPP Economic Optimism (Oct) | 46.8 | 44.5 | 45.6 |
+| 15:00 | CAD | Ivey PMI n.s.a (Sep) | 61.9 |  | 62.7 |
+| 16:30 | NZD | GlobalDairyTrade Price Index | 1.2% |  | -1.1% |
+| 16:30 | USD | Milk Auctions | 3,928.0 |  | 3,868.0 |
 | 17:00 | ZAR | SARB Monetary Policy Review |  |  |  |
 | 18:15 | USD | Fed Schmid Speaks |  |  |  |
 | 19:00 | BRL | Trade Balance (Sep) |  | 7.19B | 7.39B |
