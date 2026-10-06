@@ -1,19 +1,21 @@
-## 05 October 2026 - Moderate Impact Forex News
+## 06 October 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | JPY | S&P Global Services PMI (Sep) | 51.3 | 51.6 | 52.5 |
-| 08:15 | EUR | HCOB Spain Services PMI (Sep) | 58.3 | 57.1 | 57.8 |
-| 08:45 | EUR | HCOB Italy Services PMI (Sep) | 51.7 | 54.6 | 55.2 |
-| 08:45 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 08:50 | EUR | HCOB France Services PMI (Sep) | 51.2 | 51.4 | 48.0 |
-| 08:55 | EUR | HCOB Germany Services PMI (Sep) | 52.9 | 52.9 | 49.7 |
-| 09:00 | EUR | ECB's Lane Speaks |  |  |  |
-| 09:00 | EUR | HCOB Eurozone Composite PMI (Sep) | 53.1 | 53.1 | 52.0 |
-| 09:00 | EUR | HCOB Eurozone Services PMI (Sep) | 53.0 | 53.0 | 51.6 |
-| 09:30 | GBP | S&P Global Composite PMI (Sep) | 52.0 | 51.7 | 52.5 |
-| 09:30 | GBP | S&P Global Services PMI (Sep) | 52.1 | 51.7 | 52.5 |
-| 10:00 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 14:45 | USD | S&P Global Composite PMI (Sep) | 58.4 | 58.4 | 58.4 |
-| 15:00 | USD | ISM Non-Manufacturing Employment (Sep) | 50.1 | 48.8 | 47.8 |
-| 22:00 | NZD | NZIER Business Confidence (Q3) | 43% |  | 8% |
+| 04:35 | JPY | 10-Year JGB Auction |  |  | 2.995% |
+| 07:00 | EUR | German Factory Orders (MoM) (Aug) |  | -1.0% | 2.5% |
+| 09:30 | GBP | BoE MPC Member Mann Speaks |  |  |  |
+| 09:30 | GBP | S&P Global Construction PMI (Sep) |  | 45.0 | 44.3 |
+| 12:40 | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 13:15 | USD | ADP Employment Change Weekly |  |  | 20.00K |
+| 13:30 | USD | Exports (Aug) |  |  | 310.70B |
+| 13:30 | USD | Imports (Aug) |  |  | 399.30B |
+| 13:30 | USD | Trade Balance (Aug) |  | -95.20B | -88.60B |
+| 13:30 | CAD | Trade Balance (Aug) |  | 1.30B | 0.77B |
+| 14:00 | EUR | ECB's Elderson Speaks |  |  |  |
+| 15:00 | CAD | Ivey PMI (Sep) |  | 65.2 | 64.3 |
+| 15:45 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 16:30 | USD | Atlanta Fed GDPNow (Q3) |  | 3.7% | 3.7% |
+| 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
+| 18:00 | USD | 3-Year Note Auction |  |  | 4.474% |
+| 21:30 | USD | API Weekly Crude Oil Stock |  |  | 1.019M |

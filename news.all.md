@@ -1,57 +1,54 @@
-## 05 October 2026 - All Forex News
+## 06 October 2026 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 01:00 | AUD | Low | MI Inflation Gauge (MoM) (Sep) | 0.3% |  | 0.5% |
-| 01:00 | NZD | Low | ANZ Commodity Price Index (MoM) | 0.6% |  | -0.4% |
-| 01:30 | JPY | Low | Manufacturing & Services PMI (Sep) | 52.30 | 52.50 | 53.50 |
-| 01:30 | JPY | Moderate | S&P Global Services PMI (Sep) | 51.3 | 51.6 | 52.5 |
-| 06:00 | JPY | Low | Household Confidence (Sep) | 35.4 | 35.3 | 35.5 |
-| 06:00 | SGD | Low | Retail Sales (YoY) (Aug) | 0.7% |  | 1.3% |
-| 06:00 | SGD | Low | Retail Sales (MoM) (Aug) | -1.0% |  | 0.6% |
-| 08:15 | EUR | Moderate | HCOB Spain Services PMI (Sep) | 58.3 | 57.1 | 57.8 |
-| 08:15 | ZAR | Low | S&P Global Manufacturing PMI (Sep) | 49.0 |  | 50.5 |
-| 08:45 | EUR | Low | HCOB Italy Composite PMI (Sep) | 51.0 |  | 53.6 |
-| 08:45 | EUR | Moderate | HCOB Italy Services PMI (Sep) | 51.7 | 54.6 | 55.2 |
-| 08:45 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 08:50 | EUR | Low | HCOB France Composite PMI (Sep) | 51.1 | 51.2 | 48.5 |
-| 08:50 | EUR | Moderate | HCOB France Services PMI (Sep) | 51.2 | 51.4 | 48.0 |
-| 08:55 | EUR | Low | HCOB Germany Composite PMI (Sep) | 53.8 | 53.8 | 51.8 |
-| 08:55 | EUR | Moderate | HCOB Germany Services PMI (Sep) | 52.9 | 52.9 | 49.7 |
-| 09:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Sep) | 350,536.0 |  | 94,236.0 |
-| 09:00 | EUR | Low | Italian Public Deficit (Q2) | 2.0% |  | 8.9% |
-| 09:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Sep) | 53.1 | 53.1 | 52.0 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Sep) | 53.0 | 53.0 | 51.6 |
-| 09:30 | GBP | Moderate | S&P Global Composite PMI (Sep) | 52.0 | 51.7 | 52.5 |
-| 09:30 | GBP | Moderate | S&P Global Services PMI (Sep) | 52.1 | 51.7 | 52.5 |
-| 09:30 | EUR | Low | Sentix Investor Confidence (Oct) | 2.7 | 4.5 | 5.1 |
-| 10:00 | NOK | Low | House Price Index (YoY) (Sep) | 2.40% |  | 2.60% |
-| 10:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 10:00 | EUR | Low | PPI (MoM) (Aug) | 1.9% | 1.9% | 1.6% |
-| 10:00 | EUR | Low | PPI (YoY) (Aug) | 8.2% | 8.1% | 5.8% |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | USD | Low | All Car Sales (Sep) | 2.52M |  | 2.74M |
-| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Jul) | 1.40% | 1.40% | 1.30% |
-| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jul) | 6.60% | 5.60% | 7.70% |
-| 13:15 | CAD | Low | Reserve Assets Total (Sep) | 125.3B |  | 127.4B |
-| 14:00 | EUR | Low | French 12-Month BTF Auction | 3.262% |  | 3.240% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.786% |  | 2.700% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.997% |  | 2.920% |
-| 14:00 | BRL | Low | S&P Global Composite PMI (Sep) | 47.4 |  | 49.1 |
-| 14:00 | BRL | Low | S&P Global Services PMI (Sep) | 49.2 |  | 50.5 |
-| 14:30 | USD | Low | All Truck Sales (Sep) | 13.46M |  | 13.85M |
-| 14:30 | CAD | Low | S&P Global Services PMI (Sep) | 48.30 |  | 49.10 |
-| 14:45 | USD | Moderate | S&P Global Composite PMI (Sep) | 58.4 | 58.4 | 58.4 |
-| 14:45 | USD | High | S&P Global Services PMI (Sep) | 58.8 | 58.7 | 58.7 |
-| 15:00 | USD | Low | CB Employment Trends Index (Sep) | 107.56 |  | 108.08 |
-| 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Sep) | 56.5 |  | 61.7 |
-| 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Sep) | 50.1 | 48.8 | 47.8 |
-| 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Sep) | 59.8 | 60.3 | 60.9 |
-| 15:00 | USD | High | ISM Non-Manufacturing PMI (Sep) | 54.9 | 55.1 | 55.4 |
-| 15:00 | USD | High | ISM Non-Manufacturing Prices (Sep) | 74.0 | 73.3 | 72.6 |
-| 16:30 | USD | Low | 3-Month Bill Auction | 4.050% |  | 4.110% |
-| 16:30 | USD | Low | 6-Month Bill Auction | 4.165% |  | 4.285% |
-| 22:00 | KRW | Low | FX Reserves - USD (Sep) | 440.56B |  | 442.28B |
-| 22:00 | NZD | Moderate | NZIER Business Confidence (Q3) | 43% |  | 8% |
-| 22:00 | NZD | Low | NZIER QSBO Capacity Utilization (Q3) | 91.0% |  | 90.8% |
+| 00:30 | AUD | Low | Westpac Consumer Sentiment (Oct) | -4.7% |  | -5.2% |
+| 01:30 | AUD | Low | ANZ Job Advertisements (MoM) (Sep) | 2.2% |  | 2.6% |
+| 01:30 | HKD | Low | S&P Global Manufacturing PMI (Sep) | 49.2 |  | 49.5 |
+| 04:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 2.995% |
+| 06:00 | INR | Low | HSBC India Services PMI (Sep) |  | 55.8 | 55.8 |
+| 06:00 | INR | Low | HSBC Manufacturing & Services PMI (Sep) |  | 56.50 | 56.50 |
+| 07:00 | EUR | Moderate | German Factory Orders (MoM) (Aug) |  | -1.0% | 2.5% |
+| 07:35 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
+| 07:45 | EUR | Low | French Government Budget Balance (Aug) |  |  | -145.9B |
+| 07:45 | EUR | Low | French Industrial Production (MoM) (Aug) |  | 0.2% | -0.4% |
+| 08:00 | CHF | Low | Unemployment Rate n.s.a. (Sep) |  |  | 3.0% |
+| 08:00 | CHF | Low | Unemployment Rate s.a. (Sep) |  | 3.1% | 3.1% |
+| 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Aug) |  |  | 2.3% |
+| 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Sep) |  |  | 41.7 |
+| 08:30 | EUR | Low | HCOB Germany Construction PMI (Sep) |  |  | 48.7 |
+| 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Sep) |  |  | 37.3 |
+| 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Sep) |  |  | 43.0 |
+| 09:30 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
+| 09:30 | GBP | Moderate | S&P Global Construction PMI (Sep) |  | 45.0 | 44.3 |
+| 09:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.832% |
+| 09:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 2.623% |
+| 10:00 | EUR | Low | Retail Sales (MoM) (Aug) |  | 0.3% | -0.6% |
+| 10:00 | EUR | Low | Retail Sales (YoY) (Aug) |  | 1.0% | 0.6% |
+| 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 3.270% |
+| 12:40 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
+| 13:00 | MXN | Low | Consumer Confidence (Sep) |  |  | 46.1 |
+| 13:00 | MXN | Low | Consumer Confidence n.s.a. (Sep) |  |  | 46.6 |
+| 13:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -1.1% |
+| 13:00 | USD | Low | Milk Auctions |  |  | 3,868.0 |
+| 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 20.00K |
+| 13:30 | USD | Moderate | Exports (Aug) |  |  | 310.70B |
+| 13:30 | USD | Moderate | Imports (Aug) |  |  | 399.30B |
+| 13:30 | USD | Moderate | Trade Balance (Aug) |  | -95.20B | -88.60B |
+| 13:30 | CAD | Low | Exports (Aug) |  |  | 76.14B |
+| 13:30 | CAD | Low | Imports (Aug) |  |  | 75.37B |
+| 13:30 | CAD | Moderate | Trade Balance (Aug) |  | 1.30B | 0.77B |
+| 13:55 | USD | Low | Redbook (YoY) |  |  | 8.2% |
+| 14:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 15:00 | USD | Low | IBD/TIPP Economic Optimism (Oct) |  | 44.5 | 45.6 |
+| 15:00 | CAD | Low | Ivey PMI n.s.a (Sep) |  |  | 62.7 |
+| 15:00 | CAD | Moderate | Ivey PMI (Sep) |  | 65.2 | 64.3 |
+| 15:45 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 3.7% | 3.7% |
+| 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
+| 17:00 | ZAR | Low | SARB Monetary Policy Review |  |  |  |
+| 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 4.474% |
+| 19:00 | BRL | Low | Trade Balance (Sep) |  | 7.19B | 7.39B |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 1.019M |
+| 23:00 | AUD | Low | AIG Construction Index (Sep) |  |  | -6.9 |
+| 23:00 | AUD | Low | AIG Manufacturing Index (Sep) |  |  | -16.6 |

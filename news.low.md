@@ -1,39 +1,37 @@
-## 05 October 2026 - Low Impact Forex News
+## 06 October 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:00 | AUD | MI Inflation Gauge (MoM) (Sep) | 0.3% |  | 0.5% |
-| 01:00 | NZD | ANZ Commodity Price Index (MoM) | 0.6% |  | -0.4% |
-| 01:30 | JPY | Manufacturing & Services PMI (Sep) | 52.30 | 52.50 | 53.50 |
-| 06:00 | JPY | Household Confidence (Sep) | 35.4 | 35.3 | 35.5 |
-| 06:00 | SGD | Retail Sales (YoY) (Aug) | 0.7% |  | 1.3% |
-| 06:00 | SGD | Retail Sales (MoM) (Aug) | -1.0% |  | 0.6% |
-| 08:15 | ZAR | S&P Global Manufacturing PMI (Sep) | 49.0 |  | 50.5 |
-| 08:45 | EUR | HCOB Italy Composite PMI (Sep) | 51.0 |  | 53.6 |
-| 08:50 | EUR | HCOB France Composite PMI (Sep) | 51.1 | 51.2 | 48.5 |
-| 08:55 | EUR | HCOB Germany Composite PMI (Sep) | 53.8 | 53.8 | 51.8 |
-| 09:00 | GBP | United Kingdom New Passenger Cars Registration (Sep) | 350,536.0 |  | 94,236.0 |
-| 09:00 | EUR | Italian Public Deficit (Q2) | 2.0% |  | 8.9% |
-| 09:30 | EUR | Sentix Investor Confidence (Oct) | 2.7 | 4.5 | 5.1 |
-| 10:00 | NOK | House Price Index (YoY) (Sep) | 2.40% |  | 2.60% |
-| 10:00 | EUR | PPI (MoM) (Aug) | 1.9% | 1.9% | 1.6% |
-| 10:00 | EUR | PPI (YoY) (Aug) | 8.2% | 8.1% | 5.8% |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | USD | All Car Sales (Sep) | 2.52M |  | 2.74M |
-| 13:00 | MXN | Gross Fixed Investments (MoM) (Jul) | 1.40% | 1.40% | 1.30% |
-| 13:00 | MXN | Gross Fixed Investments (YoY) (Jul) | 6.60% | 5.60% | 7.70% |
-| 13:15 | CAD | Reserve Assets Total (Sep) | 125.3B |  | 127.4B |
-| 14:00 | EUR | French 12-Month BTF Auction | 3.262% |  | 3.240% |
-| 14:00 | EUR | French 3-Month BTF Auction | 2.786% |  | 2.700% |
-| 14:00 | EUR | French 6-Month BTF Auction | 2.997% |  | 2.920% |
-| 14:00 | BRL | S&P Global Composite PMI (Sep) | 47.4 |  | 49.1 |
-| 14:00 | BRL | S&P Global Services PMI (Sep) | 49.2 |  | 50.5 |
-| 14:30 | USD | All Truck Sales (Sep) | 13.46M |  | 13.85M |
-| 14:30 | CAD | S&P Global Services PMI (Sep) | 48.30 |  | 49.10 |
-| 15:00 | USD | CB Employment Trends Index (Sep) | 107.56 |  | 108.08 |
-| 15:00 | USD | ISM Non-Manufacturing Business Activity (Sep) | 56.5 |  | 61.7 |
-| 15:00 | USD | ISM Non-Manufacturing New Orders (Sep) | 59.8 | 60.3 | 60.9 |
-| 16:30 | USD | 3-Month Bill Auction | 4.050% |  | 4.110% |
-| 16:30 | USD | 6-Month Bill Auction | 4.165% |  | 4.285% |
-| 22:00 | KRW | FX Reserves - USD (Sep) | 440.56B |  | 442.28B |
-| 22:00 | NZD | NZIER QSBO Capacity Utilization (Q3) | 91.0% |  | 90.8% |
+| 00:30 | AUD | Westpac Consumer Sentiment (Oct) | -4.7% |  | -5.2% |
+| 01:30 | AUD | ANZ Job Advertisements (MoM) (Sep) | 2.2% |  | 2.6% |
+| 01:30 | HKD | S&P Global Manufacturing PMI (Sep) | 49.2 |  | 49.5 |
+| 06:00 | INR | HSBC India Services PMI (Sep) |  | 55.8 | 55.8 |
+| 06:00 | INR | HSBC Manufacturing & Services PMI (Sep) |  | 56.50 | 56.50 |
+| 07:35 | JPY | BOJ Gov Ueda Speaks |  |  |  |
+| 07:45 | EUR | French Government Budget Balance (Aug) |  |  | -145.9B |
+| 07:45 | EUR | French Industrial Production (MoM) (Aug) |  | 0.2% | -0.4% |
+| 08:00 | CHF | Unemployment Rate n.s.a. (Sep) |  |  | 3.0% |
+| 08:00 | CHF | Unemployment Rate s.a. (Sep) |  | 3.1% | 3.1% |
+| 08:00 | EUR | Spanish Industrial Production (YoY) (Aug) |  |  | 2.3% |
+| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Sep) |  |  | 41.7 |
+| 08:30 | EUR | HCOB Germany Construction PMI (Sep) |  |  | 48.7 |
+| 08:30 | EUR | HCOB France Construction PMI (MoM) (Sep) |  |  | 37.3 |
+| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Sep) |  |  | 43.0 |
+| 09:40 | EUR | Spanish 12-Month Letras Auction |  |  | 2.832% |
+| 09:40 | EUR | Spanish 6-Month Letras Auction |  |  | 2.623% |
+| 10:00 | EUR | Retail Sales (MoM) (Aug) |  | 0.3% | -0.6% |
+| 10:00 | EUR | Retail Sales (YoY) (Aug) |  | 1.0% | 0.6% |
+| 10:30 | EUR | German 2-Year Schatz Auction |  |  | 3.270% |
+| 13:00 | MXN | Consumer Confidence (Sep) |  |  | 46.1 |
+| 13:00 | MXN | Consumer Confidence n.s.a. (Sep) |  |  | 46.6 |
+| 13:00 | NZD | GlobalDairyTrade Price Index |  |  | -1.1% |
+| 13:00 | USD | Milk Auctions |  |  | 3,868.0 |
+| 13:30 | CAD | Exports (Aug) |  |  | 76.14B |
+| 13:30 | CAD | Imports (Aug) |  |  | 75.37B |
+| 13:55 | USD | Redbook (YoY) |  |  | 8.2% |
+| 15:00 | USD | IBD/TIPP Economic Optimism (Oct) |  | 44.5 | 45.6 |
+| 15:00 | CAD | Ivey PMI n.s.a (Sep) |  |  | 62.7 |
+| 17:00 | ZAR | SARB Monetary Policy Review |  |  |  |
+| 19:00 | BRL | Trade Balance (Sep) |  | 7.19B | 7.39B |
+| 23:00 | AUD | AIG Construction Index (Sep) |  |  | -6.9 |
+| 23:00 | AUD | AIG Manufacturing Index (Sep) |  |  | -16.6 |
