@@ -33,6 +33,6 @@
 | 16:30 | USD | Milk Auctions | 3,928.0 |  | 3,868.0 |
 | 17:00 | ZAR | SARB Monetary Policy Review |  |  |  |
 | 18:15 | USD | Fed Schmid Speaks |  |  |  |
-| 19:00 | BRL | Trade Balance (Sep) |  | 7.19B | 7.39B |
+| 19:00 | BRL | Trade Balance (Sep) | 7.74B | 7.19B | 6.91B |
 | 23:00 | AUD | AIG Construction Index (Sep) |  |  | -6.9 |
 | 23:00 | AUD | AIG Manufacturing Index (Sep) |  |  | -16.6 |

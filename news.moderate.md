@@ -19,5 +19,5 @@
 | 15:45 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 16:00 | USD | Atlanta Fed GDPNow (Q3) | 3.7% | 3.7% | 3.7% |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
-| 18:00 | USD | 3-Year Note Auction |  |  | 4.474% |
-| 21:30 | USD | API Weekly Crude Oil Stock |  |  | 1.019M |
+| 18:00 | USD | 3-Year Note Auction | 4.932% |  | 4.474% |
+| 21:30 | USD | API Weekly Crude Oil Stock | -2.090M |  | 1.019M |

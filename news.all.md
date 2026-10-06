@@ -49,9 +49,9 @@
 | 16:30 | USD | Low | Milk Auctions | 3,928.0 |  | 3,868.0 |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 17:00 | ZAR | Low | SARB Monetary Policy Review |  |  |  |
-| 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 4.474% |
+| 18:00 | USD | Moderate | 3-Year Note Auction | 4.932% |  | 4.474% |
 | 18:15 | USD | Low | Fed Schmid Speaks |  |  |  |
-| 19:00 | BRL | Low | Trade Balance (Sep) |  | 7.19B | 7.39B |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 1.019M |
+| 19:00 | BRL | Low | Trade Balance (Sep) | 7.74B | 7.19B | 6.91B |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | -2.090M |  | 1.019M |
 | 23:00 | AUD | Low | AIG Construction Index (Sep) |  |  | -6.9 |
 | 23:00 | AUD | Low | AIG Manufacturing Index (Sep) |  |  | -16.6 |
