@@ -10,23 +10,23 @@
 | 00:50 | JPY | Foreign Reserves (USD) (Sep) | 1,178.4B |  | 1,207.5B |
 | 01:30 | AUD | Building Approvals (YoY) (Aug) | 10.30% | 10.30% | 10.90% |
 | 01:30 | AUD | Private House Approvals (Aug) | 3.7% | 3.7% | -1.9% |
-| 04:00 | IDR | FX Reserves (USD) (Sep) |  |  | 146.50B |
-| 05:30 | INR | Cash Reserve Ratio |  | 3.00% | 3.00% |
-| 05:30 | INR | Reverse REPO Rate |  |  | 3.35% |
-| 06:00 | JPY | Coincident Indicator (MoM) (Aug) |  |  | 1.7% |
-| 06:00 | JPY | Leading Index (MoM) (Aug) |  |  | 1.5% |
-| 06:00 | JPY | Leading Index (Aug) |  | 118.3 | 117.7 |
-| 07:00 | EUR | German Industrial Production (YoY) (Aug) |  |  | -1.63% |
-| 07:00 | NOK | Manufacturing Production (MoM) (Aug) |  |  | 0.7% |
-| 07:00 | ZAR | Foreign Reserves (USD) (Sep) |  |  | 75.95B |
-| 07:00 | ZAR | Net FX Reserves (USD) (Sep) |  |  | 73.686B |
-| 07:45 | EUR | French Current Account (Aug) |  |  | -4.70B |
-| 07:45 | EUR | French Exports (Aug) |  |  | 54.7B |
-| 07:45 | EUR | French Imports (Aug) |  |  | 61.3B |
-| 07:45 | EUR | French Reserve Assets Total (Sep) |  |  | 380,694.0M |
-| 07:45 | EUR | French Trade Balance (Aug) |  | -6.5B | -6.7B |
-| 08:00 | CHF | Foreign Reserves (USD) (Sep) |  |  | 770,073.0B |
-| 09:00 | CNY | FX Reserves (USD) (Sep) |  |  | 3.438T |
+| 04:00 | CNY | FX Reserves (USD) (Sep) | 3.400T |  | 3.438T |
+| 04:00 | IDR | FX Reserves (USD) (Sep) | 146.30B |  | 146.50B |
+| 05:30 | INR | Cash Reserve Ratio | 3.00% | 3.00% | 3.00% |
+| 05:30 | INR | Reverse REPO Rate | 3.35% |  | 3.35% |
+| 06:00 | JPY | Coincident Indicator (MoM) (Aug) | -1.9% |  | 1.7% |
+| 06:00 | JPY | Leading Index (MoM) (Aug) | 0.4% |  | 1.5% |
+| 06:00 | JPY | Leading Index (Aug) | 118.0 | 118.1 | 117.7 |
+| 07:00 | EUR | German Industrial Production (YoY) (Aug) | 2.33% |  | -1.74% |
+| 07:00 | NOK | Manufacturing Production (MoM) (Aug) | -0.4% |  | 0.7% |
+| 07:00 | ZAR | Foreign Reserves (USD) (Sep) | 75.43B |  | 75.95B |
+| 07:00 | ZAR | Net FX Reserves (USD) (Sep) | 72.258B |  | 73.686B |
+| 07:45 | EUR | French Current Account (Aug) | -1.50B |  | -3.90B |
+| 07:45 | EUR | French Exports (Aug) | 54.2B |  | 54.6B |
+| 07:45 | EUR | French Imports (Aug) | 60.3B |  | 61.2B |
+| 07:45 | EUR | French Reserve Assets Total (Sep) | 370,203.0M |  | 380,694.0M |
+| 07:45 | EUR | French Trade Balance (Aug) | -6.1B | -6.5B | -6.6B |
+| 08:00 | CHF | Foreign Reserves (USD) (Sep) | 770.5B |  | 770.1B |
 | 09:30 | HKD | Foreign Reserves (USD) (Sep) |  |  | 442.90B |
 | 10:00 | SGD | Foreign Reserves USD (MoM) (Sep) |  |  | 433.0B |
 | 11:00 | CAD | Leading Index (MoM) (Sep) |  |  | 0.13% |
