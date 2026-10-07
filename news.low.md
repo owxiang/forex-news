@@ -15,9 +15,9 @@
 | 05:30 | INR | Cash Reserve Ratio | 3.00% | 3.00% | 3.00% |
 | 05:30 | INR | Reverse REPO Rate | 3.35% |  | 3.35% |
 | 06:00 | JPY | Coincident Indicator (MoM) (Aug) | -1.9% |  | 1.7% |
-| 06:00 | JPY | Leading Index (MoM) (Aug) | 0.4% |  | 1.5% |
 | 06:00 | JPY | Leading Index (Aug) | 118.0 | 118.1 | 117.7 |
-| 07:00 | EUR | German Industrial Production (YoY) (Aug) | 2.33% |  | -1.74% |
+| 06:00 | JPY | Leading Index (MoM) (Aug) | 0.4% |  | 1.5% |
+| 07:00 | EUR | German Industrial Production (YoY) (Aug) | 2.33% | 0.70% | -1.74% |
 | 07:00 | NOK | Manufacturing Production (MoM) (Aug) | -0.4% |  | 0.7% |
 | 07:00 | ZAR | Foreign Reserves (USD) (Sep) | 75.43B |  | 75.95B |
 | 07:00 | ZAR | Net FX Reserves (USD) (Sep) | 72.258B |  | 73.686B |
@@ -27,24 +27,21 @@
 | 07:45 | EUR | French Reserve Assets Total (Sep) | 370,203.0M |  | 380,694.0M |
 | 07:45 | EUR | French Trade Balance (Aug) | -6.1B | -6.5B | -6.6B |
 | 08:00 | CHF | Foreign Reserves (USD) (Sep) | 770.5B |  | 770.1B |
-| 09:30 | HKD | Foreign Reserves (USD) (Sep) |  |  | 442.90B |
-| 10:00 | SGD | Foreign Reserves USD (MoM) (Sep) |  |  | 433.0B |
-| 11:00 | CAD | Leading Index (MoM) (Sep) |  |  | 0.13% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.30% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -6.0% |
-| 12:00 | USD | MBA Purchase Index |  |  | 148.2 |
-| 12:00 | USD | Mortgage Market Index |  |  | 213.6 |
-| 12:00 | USD | Mortgage Refinance Index |  |  | 557.8 |
-| 12:00 | BRL | Auto Production (MoM) (Sep) |  |  | 6.8% |
-| 12:00 | BRL | Auto Sales (MoM) (Sep) |  |  | -1.6% |
-| 12:00 | BRL | IGP-DI Inflation Index (MoM) (Sep) |  |  | 0.06% |
-| 12:30 | INR | M3 Money Supply |  |  | 16.6% |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.554M |
-| 15:30 | USD | Crude Oil Imports |  |  | -0.468M |
-| 15:30 | USD | Distillate Fuel Production |  |  | -0.156M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | -2.251M |
-| 15:30 | USD | Gasoline Production |  |  | -0.124M |
-| 15:30 | USD | Heating Oil Stockpiles |  |  | -0.620M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.5% |
-| 15:30 | USD | Gasoline Inventories |  |  | -1.684M |
+| 09:30 | HKD | Foreign Reserves (USD) (Sep) | 443.00B |  | 442.80B |
+| 09:50 | SGD | Foreign Reserves USD (MoM) (Sep) | 433.4B |  | 433.0B |
+| 11:00 | CAD | Leading Index (MoM) (Sep) | 0.08% |  | 0.12% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 7.49% |  | 7.30% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | -4.2% |  | -6.0% |
+| 12:00 | USD | MBA Purchase Index | 145.1 |  | 148.2 |
+| 12:00 | USD | Mortgage Market Index | 204.7 |  | 213.6 |
+| 12:00 | USD | Mortgage Refinance Index | 515.8 |  | 557.8 |
+| 12:00 | BRL | IGP-DI Inflation Index (MoM) (Sep) | 1.50% |  | 0.06% |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) | 0.223M |  | -0.554M |
+| 15:30 | USD | Crude Oil Imports | -0.053M |  | -0.468M |
+| 15:30 | USD | Distillate Fuel Production | 0.287M |  | -0.156M |
+| 15:30 | USD | EIA Weekly Distillates Stocks | -0.042M | -2.100M | -2.251M |
+| 15:30 | USD | Gasoline Production | -0.117M |  | -0.124M |
+| 15:30 | USD | Heating Oil Stockpiles | 0.668M |  | -0.620M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.2% |  | -1.5% |
+| 15:30 | USD | Gasoline Inventories | 0.382M | -1.700M | -1.684M |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | 3.054B |
