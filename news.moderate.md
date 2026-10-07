@@ -1,23 +1,14 @@
-## 06 October 2026 - Moderate Impact Forex News
+## 07 October 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 04:35 | JPY | 10-Year JGB Auction | 3.101% |  | 2.995% |
-| 07:00 | EUR | German Factory Orders (MoM) (Aug) | -10.6% | -0.9% | 3.2% |
-| 09:30 | GBP | BoE MPC Member Mann Speaks |  |  |  |
-| 09:30 | GBP | S&P Global Construction PMI (Sep) | 46.1 | 45.0 | 44.3 |
-| 12:40 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 13:14 | USD | ADP Employment Change Weekly | 22.50K |  | 20.00K |
-| 13:15 | USD | ADP Employment Change Weekly | 23.80K |  | 22.50K |
-| 13:30 | USD | Exports (Aug) | 315.20B |  | 310.70B |
-| 13:30 | USD | Imports (Aug) | 420.80B |  | 399.30B |
-| 13:30 | USD | Trade Balance (Aug) | -105.60B | -100.80B | -92.80B |
-| 13:30 | CAD | Trade Balance (Aug) | 4.20B | 1.50B | 0.79B |
-| 14:00 | EUR | ECB's Elderson Speaks |  |  |  |
-| 14:05 | USD | FOMC Member Williams Speaks |  |  |  |
-| 15:00 | CAD | Ivey PMI (Sep) | 58.2 | 65.2 | 64.3 |
-| 15:45 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 16:00 | USD | Atlanta Fed GDPNow (Q3) | 3.7% | 3.7% | 3.7% |
-| 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
-| 18:00 | USD | 3-Year Note Auction | 4.932% |  | 4.474% |
-| 21:30 | USD | API Weekly Crude Oil Stock | -2.090M |  | 1.019M |
+| 01:30 | AUD | Building Approvals (MoM) (Aug) | -6.1% | -6.1% | -1.9% |
+| 02:05 | USD | FOMC Member Williams Speaks |  |  |  |
+| 05:30 | INR | Interest Rate Decision |  | 5.50% | 5.25% |
+| 07:00 | GBP | Lloyds House Price Index (MoM) (Sep) |  | 0.2% | -0.2% |
+| 07:00 | GBP | Lloyds House Price Index (YoY) (Sep) |  |  | -0.4% |
+| 07:00 | EUR | German Industrial Production (MoM) (Aug) |  | 0.5% | -1.1% |
+| 10:00 | GBP | Mortgage Rate (GBP) (Sep) |  |  | 6.58% |
+| 15:30 | USD | Cushing Crude Oil Inventories |  |  | 0.553M |
+| 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Sep) |  |  | 3.6% |
+| 20:00 | USD | Consumer Credit (Aug) |  | 14.40B | 18.06B |
