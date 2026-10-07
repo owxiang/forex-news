@@ -53,8 +53,8 @@
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 0.2% |  | -1.5% |
 | 15:30 | USD | Low | Gasoline Inventories | 0.382M | -1.700M | -1.684M |
 | 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Sep) | 3.9% | 3.6% | 3.6% |
-| 18:00 | USD | High | 10-Year Note Auction |  |  | 4.834% |
+| 18:00 | USD | High | 10-Year Note Auction | 5.300% |  | 4.834% |
 | 18:00 | USD | High | U.S. President Trump Speaks |  |  |  |
-| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 3.054B |
+| 18:30 | BRL | Low | Foreign Exchange Flows | -0.267B |  | 3.054B |
 | 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
-| 20:00 | USD | Moderate | Consumer Credit (Aug) |  | 14.50B | 18.06B |
+| 20:00 | USD | Moderate | Consumer Credit (Aug) | 8.28B | 14.50B | 17.74B |

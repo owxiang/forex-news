@@ -10,4 +10,4 @@
 | 09:30 | GBP | Mortgage Rate (GBP) (Sep) | 6.58% |  | 6.58% |
 | 15:30 | USD | Cushing Crude Oil Inventories | 0.444M |  | 0.553M |
 | 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Sep) | 3.9% | 3.6% | 3.6% |
-| 20:00 | USD | Consumer Credit (Aug) |  | 14.50B | 18.06B |
+| 20:00 | USD | Consumer Credit (Aug) | 8.28B | 14.50B | 17.74B |
