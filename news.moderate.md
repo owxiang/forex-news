@@ -12,7 +12,7 @@
 | 11:30 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims |  | 1,710K | 1,701K |
+| 13:30 | USD | Continuing Jobless Claims | 1,716K | 1,710K | 1,699K |
 | 16:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
-| 16:30 | USD | Atlanta Fed GDPNow (Q3) |  | 3.7% | 3.7% |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 6,743B |
+| 16:10 | USD | Atlanta Fed GDPNow (Q3) | 3.6% | 3.7% | 3.7% |
+| 21:30 | USD | Fed's Balance Sheet | 6,748B |  | 6,743B |

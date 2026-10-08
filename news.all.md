@@ -18,30 +18,30 @@
 | 08:15 | IDR | Low | Motorbike Sales (YoY) (Sep) | 15.37% |  | 3.18% |
 | 09:30 | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
 | 09:30 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 11:00 | EUR | Low | German Car Registration (YoY) (Sep) |  |  | 2.6% |
+| 11:00 | EUR | Low | German Car Registration (YoY) (Sep) | 9.0% |  | 2.6% |
 | 11:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 11:30 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Aug) |  |  | 1.1% |
-| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Aug) |  |  | 2.2% |
+| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Aug) | -4.3% |  | 1.1% |
+| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Aug) | -3.1% |  | 2.2% |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:00 | MXN | Low | Core CPI (MoM) (Sep) |  | 0.24% | 0.16% |
-| 13:00 | MXN | Low | CPI (YoY) (Sep) |  | 3.47% | 3.26% |
-| 13:00 | MXN | Low | CPI (MoM) (Sep) |  | 0.43% | 0.20% |
-| 13:00 | MXN | Low | Month Core Inflation (YoY) (Sep) |  | 3.79% | 3.88% |
-| 13:00 | MXN | Low | PPI (MoM) (Sep) |  |  | 0.10% |
-| 13:00 | MXN | Low | PPI (YoY) (Sep) |  |  | 3.00% |
+| 13:00 | MXN | Low | Core CPI (MoM) (Sep) | 0.20% | 0.24% | 0.16% |
+| 13:00 | MXN | Low | CPI (YoY) (Sep) | 3.45% | 3.47% | 3.26% |
+| 13:00 | MXN | Low | CPI (MoM) (Sep) | 0.42% | 0.43% | 0.20% |
+| 13:00 | MXN | Low | Month Core Inflation (YoY) (Sep) | 3.75% | 3.79% | 3.88% |
+| 13:00 | MXN | Low | PPI (MoM) (Sep) | 1.40% |  | -0.10% |
+| 13:00 | MXN | Low | PPI (YoY) (Sep) | 4.10% |  | 2.90% |
 | 13:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,710K | 1,701K |
-| 13:30 | USD | High | Initial Jobless Claims |  | 200K | 197K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 200.00K |
-| 15:00 | USD | Low | Wholesale Inventories (MoM) (Aug) |  | 0.7% | 1.3% |
-| 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Aug) |  |  | 0.8% |
-| 15:30 | USD | Low | Natural Gas Storage |  | 79B | 64B |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,716K | 1,710K | 1,699K |
+| 13:30 | USD | High | Initial Jobless Claims | 197K | 200K | 199K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 198.00K |  | 200.50K |
+| 15:00 | USD | Low | Wholesale Inventories (MoM) (Aug) | 0.5% | 0.7% | 1.4% |
+| 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Aug) | 1.8% |  | 1.0% |
+| 15:30 | USD | Low | Natural Gas Storage | 85B | 79B | 64B |
 | 16:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.890% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.990% |
-| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 3.7% | 3.7% |
-| 18:00 | USD | High | 30-Year Bond Auction |  |  | 5.308% |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,743B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.881T |
+| 16:10 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 3.6% | 3.7% | 3.7% |
+| 16:30 | USD | Low | 4-Week Bill Auction | 3.980% |  | 3.890% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 3.980% |  | 3.990% |
+| 18:00 | USD | High | 30-Year Bond Auction | 5.618% |  | 5.308% |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,748B |  | 6,743B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.022T |  | 2.881T |
