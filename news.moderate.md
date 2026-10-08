@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Adjusted Current Account (Aug) | 2.98T | 2.14T | 2.52T |
 | 00:50 | JPY | Current Account n.s.a. (Aug) | 4.062T | 3.194T | 2.989T |
-| 07:00 | EUR | German Trade Balance (Aug) |  | 19.0B | 21.3B |
+| 07:00 | EUR | German Trade Balance (Aug) | 19.5B | 19.0B | 21.6B |
 | 09:30 | GBP | BOE Credit Conditions Survey |  |  |  |
 | 09:30 | USD | Fed Waller Speaks |  |  |  |
 | 11:00 | EUR | ECB's Lane Speaks |  |  |  |
