@@ -35,26 +35,26 @@
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Oct) | 46.3 | 47.5 | 48.1 |
 | 15:00 | USD | Low | Michigan Current Conditions (Oct) | 44.7 | 50.5 | 50.9 |
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 456 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 598 |
-| 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -91.1K |
-| 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -0.9K |
-| 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 85.4K |
-| 20:30 | USD | Low | CFTC Corn speculative net positions |  |  | 509.5K |
-| 20:30 | USD | Moderate | CFTC Crude Oil speculative net positions |  |  | 109.5K |
-| 20:30 | USD | Moderate | CFTC Gold speculative net positions |  |  | 218.6K |
-| 20:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions |  |  | 51.2K |
-| 20:30 | USD | Low | CFTC Natural Gas speculative net positions |  |  | -231.0K |
-| 20:30 | USD | Moderate | CFTC S&P 500 speculative net positions |  |  | -142.5K |
-| 20:30 | USD | Low | CFTC Silver speculative net positions |  |  | 22.1K |
-| 20:30 | USD | Low | CFTC Soybeans speculative net positions |  |  | 256.9K |
-| 20:30 | USD | Low | CFTC Wheat speculative net positions |  |  | -16.5K |
-| 20:30 | CAD | Low | CFTC CAD speculative net positions |  |  | -78.7K |
-| 20:30 | MXN | Low | CFTC MXN speculative net positions |  |  | 52.4K |
-| 20:30 | CHF | Low | CFTC CHF speculative net positions |  |  | -24.6K |
-| 20:30 | AUD | Moderate | CFTC AUD speculative net positions |  |  | -63.2K |
-| 20:30 | BRL | Moderate | CFTC BRL speculative net positions |  |  | 60.5K |
-| 20:30 | JPY | Moderate | CFTC JPY speculative net positions |  |  | 55.4K |
-| 20:30 | NZD | Low | CFTC NZD speculative net positions |  |  | -17.3K |
-| 20:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | -63.3K |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 462 |  | 456 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 603 |  | 598 |
+| 20:30 | GBP | Moderate | CFTC GBP speculative net positions | -97.6K |  | -91.1K |
+| 20:30 | USD | Low | CFTC Aluminium speculative net positions | -0.9K |  | -0.9K |
+| 20:30 | USD | Low | CFTC Copper speculative net positions | 69.4K |  | 85.4K |
+| 20:30 | USD | Low | CFTC Corn speculative net positions | 452.5K |  | 509.5K |
+| 20:30 | USD | Moderate | CFTC Crude Oil speculative net positions | 99.1K |  | 109.5K |
+| 20:30 | USD | Moderate | CFTC Gold speculative net positions | 210.3K |  | 218.6K |
+| 20:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions | 58.1K |  | 51.2K |
+| 20:30 | USD | Low | CFTC Natural Gas speculative net positions | -236.4K |  | -231.0K |
+| 20:30 | USD | Moderate | CFTC S&P 500 speculative net positions | -154.1K |  | -142.5K |
+| 20:30 | USD | Low | CFTC Silver speculative net positions | 23.2K |  | 22.1K |
+| 20:30 | USD | Low | CFTC Soybeans speculative net positions | 273.9K |  | 256.9K |
+| 20:30 | USD | Low | CFTC Wheat speculative net positions | -16.0K |  | -16.5K |
+| 20:30 | CAD | Low | CFTC CAD speculative net positions | -90.2K |  | -78.7K |
+| 20:30 | MXN | Low | CFTC MXN speculative net positions | 10.7K |  | 52.4K |
+| 20:30 | CHF | Low | CFTC CHF speculative net positions | -23.7K |  | -24.6K |
+| 20:30 | AUD | Moderate | CFTC AUD speculative net positions | -98.6K |  | -63.2K |
+| 20:30 | BRL | Moderate | CFTC BRL speculative net positions | 52.3K |  | 60.5K |
+| 20:30 | JPY | Moderate | CFTC JPY speculative net positions | 62.3K |  | 55.4K |
+| 20:30 | NZD | Low | CFTC NZD speculative net positions | -29.3K |  | -17.3K |
+| 20:30 | EUR | Moderate | CFTC EUR speculative net positions | -99.3K |  | -63.3K |
 | 21:00 | USD | Low | Fed Collins Speaks |  |  |  |
