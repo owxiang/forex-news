@@ -1,31 +1,36 @@
-## 08 October 2026 - Low Impact Forex News
+## 09 October 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Current Account (Aug) | 46.11B |  | 42.08B |
-| 00:50 | JPY | Foreign Bonds Buying | -347.6B |  | -682.3B |
-| 00:50 | JPY | Foreign Investments in Japanese Stocks | 2,191.9B |  | -354.2B |
-| 01:00 | AUD | MI Inflation Expectations (Oct) | 5.3% |  | 4.9% |
-| 02:45 | IDR | Car Sales (YoY) (Sep) | 28.10% |  | 32.40% |
-| 04:35 | JPY | 30-Year JGB Auction | 4.109% |  | 4.100% |
-| 06:00 | JPY | Economy Watchers Current Index (Sep) | 47.0 | 46.7 | 46.4 |
-| 06:00 | IDR | Consumer Confidence (Sep) | 118.1 |  | 118.5 |
-| 07:00 | EUR | German Exports (MoM) (Aug) | -0.8% | 0.8% | -0.5% |
-| 07:00 | EUR | German Imports (MoM) (Aug) | 0.9% | 2.8% | -5.5% |
-| 08:15 | IDR | Motorbike Sales (YoY) (Sep) | 15.37% |  | 3.18% |
-| 11:00 | EUR | German Car Registration (YoY) (Sep) | 9.0% |  | 2.6% |
-| 12:00 | ZAR | Manufacturing Production (YoY) (Aug) | -4.3% |  | 1.1% |
-| 12:00 | ZAR | Manufacturing Production (MoM) (Aug) | -3.1% |  | 2.2% |
-| 13:00 | MXN | Core CPI (MoM) (Sep) | 0.20% | 0.24% | 0.16% |
-| 13:00 | MXN | CPI (YoY) (Sep) | 3.45% | 3.47% | 3.26% |
-| 13:00 | MXN | CPI (MoM) (Sep) | 0.42% | 0.43% | 0.20% |
-| 13:00 | MXN | Month Core Inflation (YoY) (Sep) | 3.75% | 3.79% | 3.88% |
-| 13:00 | MXN | PPI (MoM) (Sep) | 1.40% |  | -0.10% |
-| 13:00 | MXN | PPI (YoY) (Sep) | 4.10% |  | 2.90% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. | 198.00K |  | 200.50K |
-| 15:00 | USD | Wholesale Inventories (MoM) (Aug) | 0.5% | 0.7% | 1.4% |
-| 15:00 | USD | Wholesale Trade Sales (MoM) (Aug) | 1.8% |  | 1.0% |
-| 15:30 | USD | Natural Gas Storage | 85B | 79B | 64B |
-| 16:30 | USD | 4-Week Bill Auction | 3.980% |  | 3.890% |
-| 16:30 | USD | 8-Week Bill Auction | 3.980% |  | 3.990% |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.022T |  | 2.881T |
+| 04:00 | IDR | Retail Sales (YoY) (Aug) |  |  | 1.1% |
+| 07:00 | JPY | Machine Tool Orders (YoY) (Sep) |  |  | 64.7% |
+| 07:00 | IDR | Car Sales (YoY) (Sep) |  |  | 32.40% |
+| 07:00 | NOK | Core CPI YTD (Sep) |  | 3.1% | 3.0% |
+| 07:00 | NOK | Core Inflation (MoM) (Sep) |  |  | -0.5% |
+| 07:00 | NOK | CPI (MoM) (Sep) |  |  | -0.3% |
+| 07:00 | NOK | CPI (YoY) (Sep) |  | 3.6% | 3.3% |
+| 07:00 | NOK | PPI (YoY) (Sep) |  |  | 30.1% |
+| 09:00 | EUR | Italian Industrial Production (MoM) (Aug) |  | 0.0% | 0.7% |
+| 09:00 | EUR | Italian Industrial Production (YoY) (Aug) |  |  | 0.0% |
+| 10:10 | EUR | Italian 12-Month BOT Auction |  |  | 2.967% |
+| 11:00 | EUR | ECOFIN Meetings |  |  |  |
+| 12:30 | INR | FX Reserves, USD |  |  | 747.56B |
+| 13:00 | BRL | CPI (MoM) (Sep) |  | 0.73% | -0.32% |
+| 13:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Sep) |  |  | -0.24% |
+| 13:30 | CAD | Avg hourly wages Permanent employee (Sep) |  |  | 2.0% |
+| 13:30 | CAD | Full Employment Change (Sep) |  |  | -35.9K |
+| 13:30 | CAD | Part Time Employment Change (Sep) |  |  | -5.8K |
+| 13:30 | CAD | Participation Rate (Sep) |  |  | 65.0% |
+| 15:00 | USD | Michigan Current Conditions (Oct) |  | 50.5 | 50.9 |
+| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -0.9K |
+| 20:30 | USD | CFTC Copper speculative net positions |  |  | 85.4K |
+| 20:30 | USD | CFTC Corn speculative net positions |  |  | 509.5K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -231.0K |
+| 20:30 | USD | CFTC Silver speculative net positions |  |  | 22.1K |
+| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 256.9K |
+| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -16.5K |
+| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -78.7K |
+| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 52.4K |
+| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -24.6K |
+| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -17.3K |
+| 21:00 | USD | Fed Collins Speaks |  |  |  |

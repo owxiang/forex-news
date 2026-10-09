@@ -1,18 +1,27 @@
-## 08 October 2026 - Moderate Impact Forex News
+## 09 October 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Adjusted Current Account (Aug) | 2.98T | 2.14T | 2.52T |
-| 00:50 | JPY | Current Account n.s.a. (Aug) | 4.062T | 3.194T | 2.989T |
-| 07:00 | EUR | German Trade Balance (Aug) | 19.5B | 19.0B | 21.6B |
-| 09:30 | GBP | BOE Credit Conditions Survey |  |  |  |
-| 09:30 | USD | Fed Waller Speaks |  |  |  |
-| 11:00 | EUR | ECB's Lane Speaks |  |  |  |
-| 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 11:30 | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims | 1,716K | 1,710K | 1,699K |
-| 16:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
-| 16:10 | USD | Atlanta Fed GDPNow (Q3) | 3.6% | 3.7% | 3.7% |
-| 21:30 | USD | Fed's Balance Sheet | 6,748B |  | 6,743B |
+| 00:30 | JPY | Household Spending (MoM) (Aug) | 0.1% | 0.5% | 0.5% |
+| 00:30 | JPY | Household Spending (YoY) (Aug) | -3.1% | -3.5% | -3.6% |
+| 08:00 | CHF | SECO Consumer Climate (Sep) |  | -32 | -33 |
+| 13:00 | BRL | CPI (YoY) (Sep) |  | 4.50% | 4.22% |
+| 13:30 | CAD | Employment Change (Sep) |  | 6.3K | -41.7K |
+| 13:30 | CAD | Unemployment Rate (Sep) |  | 6.5% | 6.4% |
+| 14:30 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (Oct) |  |  | 4.6% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (Oct) |  |  | 3.4% |
+| 15:00 | USD | Michigan Consumer Expectations (Oct) |  | 45.9 | 46.3 |
+| 15:00 | USD | Michigan Consumer Sentiment (Oct) |  | 47.5 | 48.1 |
+| 17:00 | USD | WASDE Report |  |  |  |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 456 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 598 |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | -91.1K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 109.5K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 218.6K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 51.2K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -142.5K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -63.2K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 60.5K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | 55.4K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | -63.3K |
