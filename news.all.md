@@ -14,24 +14,26 @@
 | 08:00 | CHF | Moderate | SECO Consumer Climate (Sep) | -36 | -32 | -33 |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Aug) | -1.3% | 0.0% | 0.6% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Aug) | 0.0% |  | -0.1% |
-| 10:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.967% |
+| 10:10 | EUR | Low | Italian 12-Month BOT Auction | 3.175% |  | 2.967% |
 | 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
-| 12:30 | INR | Low | FX Reserves, USD |  |  | 747.56B |
-| 13:00 | BRL | Moderate | CPI (YoY) (Sep) |  | 4.50% | 4.22% |
-| 13:00 | BRL | Low | CPI (MoM) (Sep) |  | 0.73% | -0.32% |
-| 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Sep) |  |  | -0.24% |
-| 13:30 | CAD | Low | Avg hourly wages Permanent employee (Sep) |  |  | 2.0% |
-| 13:30 | CAD | Moderate | Employment Change (Sep) |  | 6.1K | -41.7K |
-| 13:30 | CAD | Low | Full Employment Change (Sep) |  |  | -35.9K |
-| 13:30 | CAD | Low | Part Time Employment Change (Sep) |  |  | -5.8K |
-| 13:30 | CAD | Low | Participation Rate (Sep) |  |  | 65.0% |
-| 13:30 | CAD | Moderate | Unemployment Rate (Sep) |  | 6.5% | 6.4% |
+| 12:30 | INR | Low | Bank Loan Growth | 19.4% |  | 18.1% |
+| 12:30 | INR | Low | Deposit Growth | 17.8% |  | 17.3% |
+| 12:30 | INR | Low | FX Reserves, USD | 734.61B |  | 747.56B |
+| 13:00 | BRL | Moderate | CPI (YoY) (Sep) | 4.58% | 4.50% | 4.22% |
+| 13:00 | BRL | Low | CPI (MoM) (Sep) | 0.82% | 0.73% | -0.32% |
+| 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Sep) | 0.88% |  | -0.24% |
+| 13:30 | CAD | Low | Avg hourly wages Permanent employee (Sep) | 2.3% | 2.3% | 2.0% |
+| 13:30 | CAD | Moderate | Employment Change (Sep) | -68.3K | 6.1K | -41.7K |
+| 13:30 | CAD | Low | Full Employment Change (Sep) | -35.4K |  | -35.9K |
+| 13:30 | CAD | Low | Part Time Employment Change (Sep) | -32.9K |  | -5.8K |
+| 13:30 | CAD | Low | Participation Rate (Sep) | 64.8% | 65.0% | 65.0% |
+| 13:30 | CAD | Moderate | Unemployment Rate (Sep) | 6.5% | 6.5% | 6.4% |
 | 14:30 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Oct) |  |  | 4.6% |
-| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Oct) |  |  | 3.4% |
-| 15:00 | USD | Moderate | Michigan Consumer Expectations (Oct) |  | 45.9 | 46.3 |
-| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Oct) |  | 47.5 | 48.1 |
-| 15:00 | USD | Low | Michigan Current Conditions (Oct) |  | 50.5 | 50.9 |
+| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Oct) | 4.7% | 4.8% | 4.6% |
+| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Oct) | 3.5% | 3.5% | 3.4% |
+| 15:00 | USD | Moderate | Michigan Consumer Expectations (Oct) | 47.3 | 45.9 | 46.3 |
+| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Oct) | 46.3 | 47.5 | 48.1 |
+| 15:00 | USD | Low | Michigan Current Conditions (Oct) | 44.7 | 50.5 | 50.9 |
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 456 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 598 |
