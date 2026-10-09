@@ -2,16 +2,15 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 04:00 | IDR | Retail Sales (YoY) (Aug) |  |  | 1.1% |
-| 07:00 | JPY | Machine Tool Orders (YoY) (Sep) |  |  | 64.7% |
-| 07:00 | IDR | Car Sales (YoY) (Sep) |  |  | 32.40% |
-| 07:00 | NOK | Core CPI YTD (Sep) |  | 3.1% | 3.0% |
-| 07:00 | NOK | Core Inflation (MoM) (Sep) |  |  | -0.5% |
-| 07:00 | NOK | CPI (MoM) (Sep) |  |  | -0.3% |
-| 07:00 | NOK | CPI (YoY) (Sep) |  | 3.6% | 3.3% |
-| 07:00 | NOK | PPI (YoY) (Sep) |  |  | 30.1% |
-| 09:00 | EUR | Italian Industrial Production (MoM) (Aug) |  | 0.0% | 0.7% |
-| 09:00 | EUR | Italian Industrial Production (YoY) (Aug) |  |  | 0.0% |
+| 04:00 | IDR | Retail Sales (YoY) (Aug) | 1.3% |  | 1.1% |
+| 07:00 | JPY | Machine Tool Orders (YoY) (Sep) | 60.4% |  | 64.7% |
+| 07:00 | NOK | Core CPI YTD (Sep) | 3.0% | 3.1% | 3.0% |
+| 07:00 | NOK | Core Inflation (MoM) (Sep) | 0.2% |  | -0.5% |
+| 07:00 | NOK | CPI (MoM) (Sep) | 0.5% |  | -0.3% |
+| 07:00 | NOK | CPI (YoY) (Sep) | 3.4% | 3.6% | 3.3% |
+| 07:00 | NOK | PPI (YoY) (Sep) | 48.8% |  | 30.1% |
+| 09:00 | EUR | Italian Industrial Production (MoM) (Aug) | -1.3% | 0.0% | 0.6% |
+| 09:00 | EUR | Italian Industrial Production (YoY) (Aug) | 0.0% |  | -0.1% |
 | 10:10 | EUR | Italian 12-Month BOT Auction |  |  | 2.967% |
 | 11:00 | EUR | ECOFIN Meetings |  |  |  |
 | 12:30 | INR | FX Reserves, USD |  |  | 747.56B |
