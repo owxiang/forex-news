@@ -2,5 +2,5 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 11:30 | INR | CPI (YoY) (Sep) |  |  | 4.82% |
+| 11:30 | INR | CPI (YoY) (Sep) |  | 5.40% | 4.82% |
 | 13:50 | GBP | BoE MPC Member Mann Speaks |  |  |  |

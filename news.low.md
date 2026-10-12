@@ -6,9 +6,8 @@
 | 10:30 | EUR | German 12-Month Bubill Auction |  |  | 3.065% |
 | 10:30 | EUR | German 6-Month Bubill Auction |  |  | 2.768% |
 | 11:00 | USD | IMF Meetings |  |  |  |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | MXN | Industrial Production (YoY) (Aug) |  |  | 2.7% |
-| 13:00 | MXN | Industrial Production (MoM) (Aug) |  |  | 0.5% |
+| 13:00 | MXN | Industrial Production (YoY) (Aug) |  | 2.6% | 2.7% |
+| 13:00 | MXN | Industrial Production (MoM) (Aug) |  | 0.0% | 0.5% |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 3.262% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.786% |
 | 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.997% |
