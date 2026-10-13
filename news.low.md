@@ -5,9 +5,9 @@
 | 00:50 | JPY | Bank Lending (YoY) (Sep) | 5.3% | 5.5% | 5.3% |
 | 00:50 | JPY | PPI (YoY) (Sep) | 6.8% | 7.6% | 7.6% |
 | 00:50 | JPY | PPI (MoM) (Sep) | -0.3% | 0.5% | -0.3% |
-| 01:30 | AUD | NAB Business Survey (Sep) |  |  | -1 |
-| 07:00 | EUR | German HICP (MoM) (Sep) |  | 0.6% | 0.2% |
-| 07:00 | EUR | German HICP (YoY) (Sep) |  | 3.3% | 2.9% |
+| 01:30 | AUD | NAB Business Survey (Sep) | -1 |  | -1 |
+| 07:00 | EUR | German HICP (MoM) (Sep) | 0.6% | 0.6% | 0.2% |
+| 07:00 | EUR | German HICP (YoY) (Sep) | 3.3% | 3.3% | 2.9% |
 | 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 2.456% |
 | 10:10 | EUR | Italian 15-Year BTP Auction |  |  | 3.95% |
 | 10:10 | EUR | Italian 3-Year BTP Auction |  |  | 3.43% |
@@ -16,7 +16,7 @@
 | 10:30 | ZAR | Gold Production (YoY) (Aug) |  |  | -7.4% |
 | 10:30 | ZAR | Mining Production (Aug) |  |  | -7.5% |
 | 11:00 | USD | IMF Meetings |  |  |  |
-| 11:00 | USD | NFIB Small Business Optimism (Sep) |  | 98.0 | 98.7 |
+| 11:00 | USD | NFIB Small Business Optimism (Sep) |  | 98.1 | 98.7 |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:00 | EUR | German Current Account Balance n.s.a (Aug) |  |  | 21.2B |
 | 13:55 | USD | Redbook (YoY) |  |  | 8.6% |

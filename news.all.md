@@ -7,12 +7,12 @@
 | 00:50 | JPY | Low | PPI (YoY) (Sep) | 6.8% | 7.6% | 7.6% |
 | 00:50 | JPY | Low | PPI (MoM) (Sep) | -0.3% | 0.5% | -0.3% |
 | 01:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
-| 01:30 | AUD | Moderate | NAB Business Confidence (Sep) |  |  | -8 |
-| 01:30 | AUD | Low | NAB Business Survey (Sep) |  |  | -1 |
-| 07:00 | EUR | High | German CPI (MoM) (Sep) |  | 0.6% | 0.2% |
-| 07:00 | EUR | Moderate | German CPI (YoY) (Sep) |  | 3.3% | 2.9% |
-| 07:00 | EUR | Low | German HICP (MoM) (Sep) |  | 0.6% | 0.2% |
-| 07:00 | EUR | Low | German HICP (YoY) (Sep) |  | 3.3% | 2.9% |
+| 01:30 | AUD | Moderate | NAB Business Confidence (Sep) | -13 |  | -9 |
+| 01:30 | AUD | Low | NAB Business Survey (Sep) | -1 |  | -1 |
+| 07:00 | EUR | High | German CPI (MoM) (Sep) | 0.6% | 0.6% | 0.2% |
+| 07:00 | EUR | Moderate | German CPI (YoY) (Sep) | 3.3% | 3.3% | 2.9% |
+| 07:00 | EUR | Low | German HICP (MoM) (Sep) | 0.6% | 0.6% | 0.2% |
+| 07:00 | EUR | Low | German HICP (YoY) (Sep) | 3.3% | 3.3% | 2.9% |
 | 08:15 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 08:45 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 2.456% |
@@ -23,13 +23,13 @@
 | 10:30 | ZAR | Low | Gold Production (YoY) (Aug) |  |  | -7.4% |
 | 10:30 | ZAR | Low | Mining Production (Aug) |  |  | -7.5% |
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
-| 11:00 | USD | Low | NFIB Small Business Optimism (Sep) |  | 98.0 | 98.7 |
+| 11:00 | USD | Low | NFIB Small Business Optimism (Sep) |  | 98.1 | 98.7 |
 | 11:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | EUR | Low | German Current Account Balance n.s.a (Aug) |  |  | 21.2B |
 | 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 23.80K |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 8.6% |
-| 15:00 | USD | High | Existing Home Sales (Sep) |  | 3.96M | 3.98M |
+| 15:00 | USD | High | Existing Home Sales (Sep) |  | 3.95M | 3.98M |
 | 15:00 | USD | Moderate | Existing Home Sales (MoM) (Sep) |  |  | -2.0% |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.050% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.165% |

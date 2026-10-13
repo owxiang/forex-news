@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Sep) | 1.0% | 0.8% | 0.5% |
 | 01:30 | AUD | RBA Meeting Minutes |  |  |  |
-| 01:30 | AUD | NAB Business Confidence (Sep) |  |  | -8 |
-| 07:00 | EUR | German CPI (YoY) (Sep) |  | 3.3% | 2.9% |
+| 01:30 | AUD | NAB Business Confidence (Sep) | -13 |  | -9 |
+| 07:00 | EUR | German CPI (YoY) (Sep) | 3.3% | 3.3% | 2.9% |
 | 08:15 | EUR | ECB's Elderson Speaks |  |  |  |
 | 08:45 | USD | Fed Waller Speaks |  |  |  |
 | 11:00 | USD | OPEC Monthly Report |  |  |  |
