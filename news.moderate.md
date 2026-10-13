@@ -12,4 +12,3 @@
 | 13:15 | USD | ADP Employment Change Weekly | 24.80K |  | 23.80K |
 | 15:00 | USD | Existing Home Sales (MoM) (Sep) | 1.5% | -0.8% | -3.2% |
 | 18:30 | EUR | ECB's Lane Speaks |  |  |  |
-| 19:00 | USD | Federal Budget Balance (Sep) |  | -28.0B | -167.0B |

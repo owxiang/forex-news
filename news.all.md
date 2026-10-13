@@ -36,7 +36,6 @@
 | 17:00 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
 | 18:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 18:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 19:00 | USD | Moderate | Federal Budget Balance (Sep) |  | -28.0B | -167.0B |
 | 21:00 | USD | Low | Fed Collins Speaks |  |  |  |
 | 22:45 | NZD | Low | External Migration & Visitors (Aug) |  |  | 8.50% |
 | 22:45 | NZD | Low | Permanent/Long-Term Migration (Aug) |  |  | 3,010 |
