@@ -1,6 +1,15 @@
-## 12 October 2026 - Moderate Impact Forex News
+## 13 October 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 11:30 | INR | CPI (YoY) (Sep) | 5.54% | 5.40% | 4.83% |
-| 13:50 | GBP | BoE MPC Member Mann Speaks |  |  |  |
+| 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Sep) | 1.0% | 0.8% | 0.5% |
+| 01:30 | AUD | RBA Meeting Minutes |  |  |  |
+| 01:30 | AUD | NAB Business Confidence (Sep) |  |  | -8 |
+| 07:00 | EUR | German CPI (YoY) (Sep) |  | 3.3% | 2.9% |
+| 08:15 | EUR | ECB's Elderson Speaks |  |  |  |
+| 08:45 | USD | Fed Waller Speaks |  |  |  |
+| 11:00 | USD | OPEC Monthly Report |  |  |  |
+| 13:15 | USD | ADP Employment Change Weekly |  |  | 23.80K |
+| 15:00 | USD | Existing Home Sales (MoM) (Sep) |  |  | -2.0% |
+| 18:30 | EUR | ECB's Lane Speaks |  |  |  |
+| 19:00 | USD | Federal Budget Balance (Sep) |  | -28.0B | -167.0B |

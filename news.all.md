@@ -1,16 +1,43 @@
-## 12 October 2026 - All Forex News
+## 13 October 2026 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 10:30 | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 10:30 | EUR | Low | German 12-Month Bubill Auction | 2.949% |  | 3.065% |
-| 10:30 | EUR | Low | German 6-Month Bubill Auction | 2.717% |  | 2.768% |
+| 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Sep) | 1.0% | 0.8% | 0.5% |
+| 00:50 | JPY | Low | Bank Lending (YoY) (Sep) | 5.3% | 5.5% | 5.3% |
+| 00:50 | JPY | Low | PPI (YoY) (Sep) | 6.8% | 7.6% | 7.6% |
+| 00:50 | JPY | Low | PPI (MoM) (Sep) | -0.3% | 0.5% | -0.3% |
+| 01:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
+| 01:30 | AUD | Moderate | NAB Business Confidence (Sep) |  |  | -8 |
+| 01:30 | AUD | Low | NAB Business Survey (Sep) |  |  | -1 |
+| 07:00 | EUR | High | German CPI (MoM) (Sep) |  | 0.6% | 0.2% |
+| 07:00 | EUR | Moderate | German CPI (YoY) (Sep) |  | 3.3% | 2.9% |
+| 07:00 | EUR | Low | German HICP (MoM) (Sep) |  | 0.6% | 0.2% |
+| 07:00 | EUR | Low | German HICP (YoY) (Sep) |  | 3.3% | 2.9% |
+| 08:15 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 08:45 | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 2.456% |
+| 10:10 | EUR | Low | Italian 15-Year BTP Auction |  |  | 3.95% |
+| 10:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 3.43% |
+| 10:10 | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.98% |
+| 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 3.280% |
+| 10:30 | ZAR | Low | Gold Production (YoY) (Aug) |  |  | -7.4% |
+| 10:30 | ZAR | Low | Mining Production (Aug) |  |  | -7.5% |
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
-| 11:30 | INR | Moderate | CPI (YoY) (Sep) | 5.54% | 5.40% | 4.83% |
-| 12:30 | INR | Low | M3 Money Supply | 16.9% |  | 16.6% |
-| 13:00 | MXN | Low | Industrial Production (YoY) (Aug) | 3.5% | 2.6% | 2.7% |
-| 13:00 | MXN | Low | Industrial Production (MoM) (Aug) | 0.6% | 0.0% | 0.5% |
-| 13:50 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
-| 14:00 | EUR | Low | French 12-Month BTF Auction | 3.255% |  | 3.262% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.761% |  | 2.786% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.964% |  | 2.997% |
+| 11:00 | USD | Low | NFIB Small Business Optimism (Sep) |  | 98.0 | 98.7 |
+| 11:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
+| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 13:00 | EUR | Low | German Current Account Balance n.s.a (Aug) |  |  | 21.2B |
+| 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 23.80K |
+| 13:55 | USD | Low | Redbook (YoY) |  |  | 8.6% |
+| 15:00 | USD | High | Existing Home Sales (Sep) |  | 3.96M | 3.98M |
+| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Sep) |  |  | -2.0% |
+| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.050% |
+| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.165% |
+| 17:00 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
+| 18:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 18:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 19:00 | USD | Moderate | Federal Budget Balance (Sep) |  | -28.0B | -167.0B |
+| 21:00 | USD | Low | Fed Collins Speaks |  |  |  |
+| 22:45 | NZD | Low | External Migration & Visitors (Aug) |  |  | 8.50% |
+| 22:45 | NZD | Low | Permanent/Long-Term Migration (Aug) |  |  | 3,010 |
+| 22:45 | NZD | Low | Visitor Arrivals (MoM) |  |  | 0.5% |
