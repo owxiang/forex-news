@@ -26,4 +26,4 @@
 | 13:30 | CAD | Building Permits (MoM) (Aug) | 8.8% | 2.9% | -15.8% |
 | 17:15 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 19:00 | USD | Beige Book |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock |  | 1.900M | -2.090M |
+| 21:30 | USD | API Weekly Crude Oil Stock | -11.120M | 1.900M | -2.090M |

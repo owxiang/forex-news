@@ -73,4 +73,4 @@
 | 18:30 | BRL | Low | Foreign Exchange Flows | 2.415B |  | -0.267B |
 | 19:00 | USD | Moderate | Beige Book |  |  |  |
 | 20:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 1.900M | -2.090M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | -11.120M | 1.900M | -2.090M |
