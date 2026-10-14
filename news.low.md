@@ -12,8 +12,8 @@
 | 03:30 | CNY | Trade Balance (Sep) | 905.97B | 790.00B | 809.30B |
 | 04:30 | GBP | BoE Breeden Speaks |  |  |  |
 | 04:35 | JPY | 5-Year JGB Auction | 2.379% |  | 2.239% |
-| 07:00 | EUR | German WPI (MoM) (Sep) | 1.9% | 0.6% | 0.9% |
 | 07:00 | EUR | German WPI (YoY) (Sep) | 8.7% |  | 6.8% |
+| 07:00 | EUR | German WPI (MoM) (Sep) | 1.9% | 0.6% | 0.9% |
 | 07:30 | INR | WPI Food (YoY) (Sep) | 8.14% |  | 5.67% |
 | 07:30 | INR | WPI Fuel (YoY) (Sep) | 25.85% |  | 22.93% |
 | 07:30 | INR | WPI Manufacturing Inflation (YoY) (Sep) | 9.76% |  | 8.37% |
@@ -38,12 +38,11 @@
 | 13:30 | USD | CPI Index, s.a (Sep) | 336.30 |  | 334.13 |
 | 13:30 | USD | CPI, n.s.a (MoM) (Sep) | 0.59% |  | 0.32% |
 | 13:30 | USD | Real Earnings (MoM) (Sep) | -0.5% |  | 0.2% |
-| 13:55 | USD | Redbook (YoY) |  |  | 8.6% |
-| 16:00 | USD | Cleveland CPI (MoM) (Sep) |  |  | 0.2% |
-| 16:00 | USD | Thomson Reuters IPSOS PCSI (Oct) |  |  | 50.45 |
-| 16:00 | CAD | Thomson Reuters IPSOS PCSI (Oct) |  |  | 47.35 |
-| 16:00 | MXN | Thomson Reuters IPSOS PCSI (Oct) |  |  | 50.84 |
-| 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Oct) |  |  | 52.17 |
+| 16:00 | USD | Cleveland CPI (MoM) (Sep) | 0.2% |  | 0.2% |
+| 16:00 | USD | Thomson Reuters IPSOS PCSI (Oct) | 45.18 |  | 50.45 |
+| 16:00 | CAD | Thomson Reuters IPSOS PCSI (Oct) | 46.61 |  | 47.35 |
+| 16:00 | MXN | Thomson Reuters IPSOS PCSI (Oct) | 52.75 |  | 50.84 |
+| 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Oct) | 54.07 |  | 52.17 |
 | 18:30 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 18:30 | BRL | Foreign Exchange Flows |  |  | -0.267B |
+| 18:30 | BRL | Foreign Exchange Flows | 2.415B |  | -0.267B |
 | 20:00 | USD | Fed Goolsbee Speaks |  |  |  |

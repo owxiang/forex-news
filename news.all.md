@@ -21,8 +21,8 @@
 | 04:35 | JPY | Low | 5-Year JGB Auction | 2.379% |  | 2.239% |
 | 06:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 07:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 07:00 | EUR | Low | German WPI (MoM) (Sep) | 1.9% | 0.6% | 0.9% |
 | 07:00 | EUR | Low | German WPI (YoY) (Sep) | 8.7% |  | 6.8% |
+| 07:00 | EUR | Low | German WPI (MoM) (Sep) | 1.9% | 0.6% | 0.9% |
 | 07:05 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 07:30 | INR | Low | WPI Food (YoY) (Sep) | 8.14% |  | 5.67% |
 | 07:30 | INR | Low | WPI Fuel (YoY) (Sep) | 25.85% |  | 22.93% |
@@ -56,23 +56,21 @@
 | 13:30 | USD | High | Core CPI (MoM) (Sep) | 0.3% | 0.2% | 0.3% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Sep) | 2.6% | 2.5% | 2.4% |
 | 13:30 | USD | Low | Core CPI Index (Sep) | 338.90 |  | 337.77 |
-| 13:30 | USD | High | CPI (MoM) (Sep) | 0.6% | 0.6% | 0.4% |
 | 13:30 | USD | High | CPI (YoY) (Sep) | 3.7% | 3.6% | 3.4% |
+| 13:30 | USD | High | CPI (MoM) (Sep) | 0.6% | 0.6% | 0.4% |
 | 13:30 | USD | Low | CPI Index, n.s.a. (Sep) | 336.94 | 336.65 | 334.98 |
 | 13:30 | USD | Low | CPI Index, s.a (Sep) | 336.30 |  | 334.13 |
 | 13:30 | USD | Low | CPI, n.s.a (MoM) (Sep) | 0.59% |  | 0.32% |
 | 13:30 | USD | Low | Real Earnings (MoM) (Sep) | -0.5% |  | 0.2% |
 | 13:30 | CAD | Moderate | Building Permits (MoM) (Aug) | 8.8% | 2.9% | -15.8% |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 8.6% |
-| 14:30 | USD | Moderate | US Leading Index (MoM) |  |  | -0.1% |
-| 16:00 | USD | Low | Cleveland CPI (MoM) (Sep) |  |  | 0.2% |
-| 16:00 | USD | Low | Thomson Reuters IPSOS PCSI (Oct) |  |  | 50.45 |
-| 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (Oct) |  |  | 47.35 |
-| 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (Oct) |  |  | 50.84 |
-| 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Oct) |  |  | 52.17 |
+| 16:00 | USD | Low | Cleveland CPI (MoM) (Sep) | 0.2% |  | 0.2% |
+| 16:00 | USD | Low | Thomson Reuters IPSOS PCSI (Oct) | 45.18 |  | 50.45 |
+| 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (Oct) | 46.61 |  | 47.35 |
+| 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (Oct) | 52.75 |  | 50.84 |
+| 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Oct) | 54.07 |  | 52.17 |
 | 17:15 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 18:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.267B |
+| 18:30 | BRL | Low | Foreign Exchange Flows | 2.415B |  | -0.267B |
 | 19:00 | USD | Moderate | Beige Book |  |  |  |
 | 20:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 1.900M | -2.090M |
