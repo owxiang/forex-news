@@ -1,30 +1,47 @@
-## 13 October 2026 - Low Impact Forex News
+## 14 October 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Bank Lending (YoY) (Sep) | 5.3% | 5.5% | 5.3% |
-| 00:50 | JPY | PPI (YoY) (Sep) | 6.8% | 7.6% | 7.6% |
-| 00:50 | JPY | PPI (MoM) (Sep) | -0.3% | 0.5% | -0.3% |
-| 01:30 | AUD | NAB Business Survey (Sep) | -1 |  | -1 |
-| 07:00 | EUR | German HICP (MoM) (Sep) | 0.6% | 0.6% | 0.2% |
-| 07:00 | EUR | German HICP (YoY) (Sep) | 3.3% | 3.3% | 2.9% |
-| 09:40 | EUR | Spanish 3-Month Letras Auction | 2.635% |  | 2.456% |
-| 10:10 | EUR | Italian 15-Year BTP Auction | 4.84% |  | 3.95% |
-| 10:10 | EUR | Italian 3-Year BTP Auction | 3.69% |  | 3.43% |
-| 10:10 | EUR | Italian 7-Year BTP Auction | 4.24% |  | 3.98% |
-| 10:30 | EUR | German 5-Year Bobl Auction | 3.220% |  | 3.280% |
-| 10:30 | ZAR | Gold Production (YoY) (Aug) | -5.7% |  | -7.3% |
-| 10:30 | ZAR | Mining Production (Aug) | -12.7% |  | -7.0% |
+| 00:50 | JPY | M2 Money Stock (YoY) | 2.0% | 2.1% | 2.0% |
+| 00:50 | JPY | M3 Money Supply (Sep) | 2,343.4B |  | 2,337.8B |
+| 01:00 | AUD | MI Leading Index (MoM) (Sep) | -0.1% |  | -0.0% |
+| 01:00 | SGD | GDP (YoY) (Q3) | 5.4% | 5.0% | 6.2% |
+| 01:00 | SGD | GDP (QoQ) (Q3) | 1.1% | 1.2% | 1.5% |
+| 04:00 | CNY | Exports (Sep) |  |  | 18.60M |
+| 04:00 | CNY | Imports (Sep) |  |  | 21.70M |
+| 04:00 | CNY | Trade Balance (Sep) |  | 790.00B | 809.30B |
+| 04:30 | GBP | BoE Breeden Speaks |  |  |  |
+| 04:35 | JPY | 5-Year JGB Auction |  |  | 2.239% |
+| 07:00 | EUR | German WPI (MoM) (Sep) |  | 0.6% | 0.9% |
+| 07:00 | EUR | German WPI (YoY) (Sep) |  |  | 6.8% |
+| 07:30 | INR | WPI Food (YoY) (Sep) |  |  | 5.67% |
+| 07:30 | INR | WPI Fuel (YoY) (Sep) |  |  | 22.93% |
+| 07:30 | INR | WPI Manufacturing Inflation (YoY) (Sep) |  |  | 8.37% |
+| 08:00 | EUR | Core CPI (YoY) (Sep) |  | 3.1% | 2.9% |
+| 08:00 | EUR | Spanish CPI (MoM) (Sep) |  | 0.3% | 0.7% |
+| 08:00 | EUR | Spanish HICP (MoM) (Sep) |  | 0.6% | 0.7% |
+| 10:30 | GBP | 5-Year Treasury Gilt Auction |  |  | 4.843% |
+| 10:30 | EUR | German 30-Year Bund Auction |  |  | 3.900% |
+| 10:30 | ZAR | Business Confidence (Aug) |  |  | 125.4 |
 | 11:00 | USD | IMF Meetings |  |  |  |
-| 11:00 | USD | NFIB Small Business Optimism (Sep) | 97.9 | 98.1 | 98.7 |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | EUR | German Current Account Balance n.s.a (Aug) | 10.3B |  | 21.8B |
-| 13:55 | USD | Redbook (YoY) | 10.4% |  | 8.6% |
-| 16:30 | USD | 3-Month Bill Auction | 4.085% |  | 4.050% |
-| 16:30 | USD | 6-Month Bill Auction | 4.200% |  | 4.165% |
-| 17:00 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
-| 18:00 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 21:00 | USD | Fed Collins Speaks |  |  |  |
-| 22:45 | NZD | External Migration & Visitors (Aug) |  |  | 8.50% |
-| 22:45 | NZD | Permanent/Long-Term Migration (Aug) |  |  | 3,010 |
-| 22:45 | NZD | Visitor Arrivals (MoM) |  |  | 0.5% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.49% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -4.2% |
+| 12:00 | USD | MBA Purchase Index |  |  | 145.1 |
+| 12:00 | USD | Mortgage Market Index |  |  | 204.7 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 515.8 |
+| 12:30 | INR | M3 Money Supply |  |  | 16.6% |
+| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Aug) |  |  | 0.0% |
+| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Aug) |  |  | 0.9% |
+| 13:30 | USD | Core CPI Index (Sep) |  |  | 337.77 |
+| 13:30 | USD | CPI Index, n.s.a. (Sep) |  | 336.65 | 334.98 |
+| 13:30 | USD | CPI Index, s.a (Sep) |  |  | 334.13 |
+| 13:30 | USD | CPI, n.s.a (MoM) (Sep) |  |  | 0.32% |
+| 13:30 | USD | Real Earnings (MoM) (Sep) |  |  | 0.2% |
+| 13:55 | USD | Redbook (YoY) |  |  | 8.6% |
+| 16:00 | USD | Cleveland CPI (MoM) (Sep) |  |  | 0.2% |
+| 16:00 | USD | Thomson Reuters IPSOS PCSI (Oct) |  |  | 50.45 |
+| 16:00 | CAD | Thomson Reuters IPSOS PCSI (Oct) |  |  | 47.35 |
+| 16:00 | MXN | Thomson Reuters IPSOS PCSI (Oct) |  |  | 50.84 |
+| 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Oct) |  |  | 52.17 |
+| 18:30 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 18:30 | BRL | Foreign Exchange Flows |  |  | -0.267B |
