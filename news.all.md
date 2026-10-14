@@ -7,26 +7,26 @@
 | 01:00 | AUD | Low | MI Leading Index (MoM) (Sep) | -0.1% |  | -0.0% |
 | 01:00 | SGD | Low | GDP (YoY) (Q3) | 5.4% | 5.0% | 6.2% |
 | 01:00 | SGD | Low | GDP (QoQ) (Q3) | 1.1% | 1.2% | 1.5% |
-| 30 min | CNY | Moderate | CPI (YoY) (Sep) |  | 1.0% | 0.8% |
-| 30 min | CNY | Moderate | CPI (MoM) (Sep) |  | 0.3% | 0.4% |
-| 30 min | CNY | Moderate | PPI (YoY) (Sep) |  | 4.4% | 3.8% |
+| 02:30 | CNY | Moderate | CPI (YoY) (Sep) | 0.9% | 1.0% | 0.8% |
+| 02:30 | CNY | Moderate | CPI (MoM) (Sep) | 0.2% | 0.3% | 0.4% |
+| 02:30 | CNY | Moderate | PPI (YoY) (Sep) | 5.0% | 4.4% | 3.8% |
 | 03:10 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 04:00 | CNY | Low | Exports (Sep) |  |  | 18.60M |
-| 04:00 | CNY | Low | Imports (Sep) |  |  | 21.70M |
-| 04:00 | CNY | Low | Trade Balance (Sep) |  | 790.00B | 809.30B |
-| 04:00 | CNY | Moderate | Exports (YoY) (Sep) |  | 25.5% | 25.0% |
-| 04:00 | CNY | Moderate | Imports (YoY) (Sep) |  | 24.5% | 28.2% |
-| 04:00 | CNY | Moderate | Trade Balance (USD) (Sep) |  | 116.80B | 119.09B |
+| 03:30 | CNY | Low | Exports (Sep) | 29.60M |  | 18.60M |
+| 03:30 | CNY | Low | Imports (Sep) | 24.60M |  | 21.70M |
+| 03:30 | CNY | Low | Trade Balance (Sep) | 905.97B | 790.00B | 809.30B |
+| 03:30 | CNY | Moderate | Exports (YoY) (Sep) | 36.3% | 25.5% | 25.0% |
+| 03:30 | CNY | Moderate | Imports (YoY) (Sep) | 31.0% | 24.5% | 28.2% |
+| 03:30 | CNY | Moderate | Trade Balance (USD) (Sep) | 133.53B | 116.80B | 119.09B |
 | 04:30 | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 04:35 | JPY | Low | 5-Year JGB Auction |  |  | 2.239% |
+| 04:35 | JPY | Low | 5-Year JGB Auction | 2.379% |  | 2.239% |
 | 06:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 07:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 07:00 | EUR | Low | German WPI (MoM) (Sep) |  | 0.6% | 0.9% |
-| 07:00 | EUR | Low | German WPI (YoY) (Sep) |  |  | 6.8% |
+| 07:00 | EUR | Low | German WPI (YoY) (Sep) | 8.7% |  | 6.8% |
+| 07:00 | EUR | Low | German WPI (MoM) (Sep) | 1.9% | 0.6% | 0.9% |
 | 07:05 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 07:30 | INR | Low | WPI Food (YoY) (Sep) |  |  | 5.67% |
 | 07:30 | INR | Low | WPI Fuel (YoY) (Sep) |  |  | 22.93% |
-| 07:30 | INR | Moderate | WPI Inflation (YoY) (Sep) |  |  | 9.92% |
+| 07:30 | INR | Moderate | WPI Inflation (YoY) (Sep) |  | 10.18% | 9.92% |
 | 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Sep) |  |  | 8.37% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Sep) |  | 3.1% | 2.9% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Sep) |  | 0.3% | 0.7% |
@@ -72,4 +72,5 @@
 | 18:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.267B |
 | 19:00 | USD | Moderate | Beige Book |  |  |  |
+| 20:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -2.090M |

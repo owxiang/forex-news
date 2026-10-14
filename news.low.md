@@ -7,13 +7,13 @@
 | 01:00 | AUD | MI Leading Index (MoM) (Sep) | -0.1% |  | -0.0% |
 | 01:00 | SGD | GDP (YoY) (Q3) | 5.4% | 5.0% | 6.2% |
 | 01:00 | SGD | GDP (QoQ) (Q3) | 1.1% | 1.2% | 1.5% |
-| 04:00 | CNY | Exports (Sep) |  |  | 18.60M |
-| 04:00 | CNY | Imports (Sep) |  |  | 21.70M |
-| 04:00 | CNY | Trade Balance (Sep) |  | 790.00B | 809.30B |
+| 03:30 | CNY | Exports (Sep) | 29.60M |  | 18.60M |
+| 03:30 | CNY | Imports (Sep) | 24.60M |  | 21.70M |
+| 03:30 | CNY | Trade Balance (Sep) | 905.97B | 790.00B | 809.30B |
 | 04:30 | GBP | BoE Breeden Speaks |  |  |  |
-| 04:35 | JPY | 5-Year JGB Auction |  |  | 2.239% |
-| 07:00 | EUR | German WPI (MoM) (Sep) |  | 0.6% | 0.9% |
-| 07:00 | EUR | German WPI (YoY) (Sep) |  |  | 6.8% |
+| 04:35 | JPY | 5-Year JGB Auction | 2.379% |  | 2.239% |
+| 07:00 | EUR | German WPI (YoY) (Sep) | 8.7% |  | 6.8% |
+| 07:00 | EUR | German WPI (MoM) (Sep) | 1.9% | 0.6% | 0.9% |
 | 07:30 | INR | WPI Food (YoY) (Sep) |  |  | 5.67% |
 | 07:30 | INR | WPI Fuel (YoY) (Sep) |  |  | 22.93% |
 | 07:30 | INR | WPI Manufacturing Inflation (YoY) (Sep) |  |  | 8.37% |
@@ -45,3 +45,4 @@
 | 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Oct) |  |  | 52.17 |
 | 18:30 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | -0.267B |
+| 20:00 | USD | Fed Goolsbee Speaks |  |  |  |

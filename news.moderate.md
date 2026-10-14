@@ -2,17 +2,17 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 30 min | CNY | CPI (YoY) (Sep) |  | 1.0% | 0.8% |
-| 30 min | CNY | CPI (MoM) (Sep) |  | 0.3% | 0.4% |
-| 30 min | CNY | PPI (YoY) (Sep) |  | 4.4% | 3.8% |
+| 02:30 | CNY | CPI (YoY) (Sep) | 0.9% | 1.0% | 0.8% |
+| 02:30 | CNY | CPI (MoM) (Sep) | 0.2% | 0.3% | 0.4% |
+| 02:30 | CNY | PPI (YoY) (Sep) | 5.0% | 4.4% | 3.8% |
 | 03:10 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 04:00 | CNY | Exports (YoY) (Sep) |  | 25.5% | 25.0% |
-| 04:00 | CNY | Imports (YoY) (Sep) |  | 24.5% | 28.2% |
-| 04:00 | CNY | Trade Balance (USD) (Sep) |  | 116.80B | 119.09B |
+| 03:30 | CNY | Exports (YoY) (Sep) | 36.3% | 25.5% | 25.0% |
+| 03:30 | CNY | Imports (YoY) (Sep) | 31.0% | 24.5% | 28.2% |
+| 03:30 | CNY | Trade Balance (USD) (Sep) | 133.53B | 116.80B | 119.09B |
 | 06:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 07:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 07:05 | CAD | BoC Gov Macklem Speaks |  |  |  |
-| 07:30 | INR | WPI Inflation (YoY) (Sep) |  |  | 9.92% |
+| 07:30 | INR | WPI Inflation (YoY) (Sep) |  | 10.18% | 9.92% |
 | 08:00 | EUR | Spanish CPI (YoY) (Sep) |  | 4.9% | 4.3% |
 | 08:00 | EUR | Spanish HICP (YoY) (Sep) |  | 5.0% | 4.6% |
 | 09:00 | EUR | ECB's Elderson Speaks |  |  |  |
