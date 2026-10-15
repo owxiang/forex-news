@@ -49,8 +49,6 @@
 | 09:40 | EUR | Low | Spanish 7-Year Obligacion Auction | 3.713% |  | 3.188% |
 | 09:45 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 10:00 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
-| 10:00 | INR | Low | Exports (USD) (Sep) | 44.40B |  | 43.81B |
-| 10:00 | INR | Low | Imports (USD) (Sep) | 74.61B |  | 70.67B |
 | 10:00 | INR | Low | Trade Balance (Sep) | -30.21B |  | -26.86B |
 | 10:00 | EUR | Moderate | Industrial Production (MoM) (Aug) | -0.5% | 0.0% | -0.3% |
 | 10:00 | EUR | Low | Industrial Production (YoY) (Aug) | -1.1% | -0.1% | -0.3% |
@@ -63,50 +61,52 @@
 | 11:00 | EUR | Moderate | Euro Summit |  |  |  |
 | 11:00 | EUR | Low | Reserve Assets Total (Sep) | 1,808.90B |  | 1,858.83B |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (Oct) | 45.85 |  | 50.34 |
-| 12:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Sep) |  |  | 0.5% |
-| 13:00 | BRL | Moderate | Retail Sales (YoY) (Aug) |  | 1.5% | 1.2% |
-| 13:00 | BRL | Moderate | Retail Sales (MoM) (Aug) |  | 0.7% | -0.8% |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,710K | 1,716K |
-| 13:30 | USD | Moderate | Core PPI (MoM) (Sep) |  | 0.3% | 0.2% |
-| 13:30 | USD | Low | Core PPI (YoY) (Sep) |  | 4.4% | 4.6% |
-| 13:30 | USD | High | Core Retail Sales (MoM) (Sep) |  | 0.6% | 1.4% |
-| 13:30 | USD | High | Initial Jobless Claims |  | 199K | 197K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 198.00K |
-| 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Oct) |  | 12.10 | 7.60 |
-| 13:30 | USD | High | Philadelphia Fed Manufacturing Index (Oct) |  | 28.2 | 37.8 |
-| 13:30 | USD | Low | Philly Fed Business Conditions (Oct) |  |  | 52.9 |
-| 13:30 | USD | Low | Philly Fed CAPEX Index (Oct) |  |  | 37.10 |
-| 13:30 | USD | Moderate | Philly Fed Employment (Oct) |  |  | 11.8 |
-| 13:30 | USD | Low | Philly Fed New Orders (Oct) |  |  | 29.2 |
-| 13:30 | USD | Low | Philly Fed Prices Paid (Oct) |  |  | 48.60 |
-| 13:30 | USD | High | PPI (MoM) (Sep) |  | 0.6% | 0.4% |
-| 13:30 | USD | Low | PPI (YoY) (Sep) |  | 5.3% | 5.4% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Sep) |  |  | 4.7% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Sep) |  |  | 0.3% |
-| 13:30 | USD | Moderate | Retail Control (MoM) (Sep) |  | 0.3% | 1.4% |
-| 13:30 | USD | High | Retail Sales (MoM) (Sep) |  | 0.3% | 1.2% |
-| 13:30 | USD | Low | Retail Sales (YoY) (Sep) |  |  | 6.01% |
-| 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Sep) |  |  | 1.2% |
-| 13:30 | CAD | Low | Capacity Utilization Rate (Aug) |  |  | 80.7% |
-| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Aug) |  | 1.1% | -0.4% |
-| 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Aug) |  |  | 176.2K |
-| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Aug) |  | -1.5% | 0.3% |
-| 15:00 | USD | Moderate | Business Inventories (MoM) (Aug) |  | 0.4% | 0.8% |
-| 15:00 | USD | Moderate | Retail Inventories Ex Auto (Aug) |  | 0.1% | 0.8% |
-| 15:30 | USD | Low | Natural Gas Storage |  | 76B | 85B |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.980% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.980% |
-| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 3.6% | 3.6% |
-| 17:00 | USD | High | Crude Oil Inventories |  | 0.200M | -3.186M |
-| 17:00 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.223M |
-| 17:00 | USD | Low | Crude Oil Imports |  |  | -0.053M |
-| 17:00 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.444M |
-| 17:00 | USD | Low | Distillate Fuel Production |  |  | 0.287M |
-| 17:00 | USD | Low | EIA Weekly Distillates Stocks |  |  | -0.042M |
-| 17:00 | USD | Low | Gasoline Production |  |  | -0.117M |
-| 17:00 | USD | Low | Heating Oil Stockpiles |  |  | 0.668M |
-| 17:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.2% |
-| 17:00 | USD | Low | Gasoline Inventories |  |  | 0.382M |
+| 12:30 | INR | Low | Exports (USD) (Sep) | 44.40B |  | 43.81B |
+| 12:30 | INR | Low | Imports (USD) (Sep) | 74.61B |  | 70.67B |
+| 13:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Sep) | 0.7% |  | 0.5% |
+| 13:00 | BRL | Moderate | Retail Sales (YoY) (Aug) | 0.4% | 1.5% | 1.3% |
+| 13:00 | BRL | Moderate | Retail Sales (MoM) (Aug) | 0.1% | 0.7% | -0.8% |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,710K | 1,710K | 1,714K |
+| 13:30 | USD | Moderate | Core PPI (MoM) (Sep) | 0.7% | 0.3% | 0.2% |
+| 13:30 | USD | Low | Core PPI (YoY) (Sep) | 5.0% | 4.4% | 4.8% |
+| 13:30 | USD | High | Core Retail Sales (MoM) (Sep) | 0.9% | 0.6% | 1.4% |
+| 13:30 | USD | High | Initial Jobless Claims | 199K | 199K | 198K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 198.50K |  | 198.25K |
+| 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Oct) | 25.50 | 12.10 | 7.60 |
+| 13:30 | USD | High | Philadelphia Fed Manufacturing Index (Oct) | 20.9 | 28.2 | 37.8 |
+| 13:30 | USD | Low | Philly Fed Business Conditions (Oct) | 33.0 |  | 52.9 |
+| 13:30 | USD | Low | Philly Fed CAPEX Index (Oct) | 34.90 |  | 37.10 |
+| 13:30 | USD | Moderate | Philly Fed Employment (Oct) | 9.1 |  | 11.8 |
+| 13:30 | USD | Low | Philly Fed New Orders (Oct) | 4.3 |  | 29.2 |
+| 13:30 | USD | Low | Philly Fed Prices Paid (Oct) | 43.20 |  | 48.60 |
+| 13:30 | USD | High | PPI (MoM) (Sep) | 1.3% | 0.6% | 0.5% |
+| 13:30 | USD | Low | PPI (YoY) (Sep) | 6.3% | 5.3% | 5.6% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Sep) | 5.0% |  | 4.8% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Sep) | 0.5% |  | 0.3% |
+| 13:30 | USD | Moderate | Retail Control (MoM) (Sep) | 0.1% | 0.3% | 1.2% |
+| 13:30 | USD | High | Retail Sales (MoM) (Sep) | 0.8% | 0.3% | 1.3% |
+| 13:30 | USD | Low | Retail Sales (YoY) (Sep) | 6.29% |  | 5.56% |
+| 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Sep) | 0.2% |  | 1.1% |
+| 13:30 | CAD | Low | Capacity Utilization Rate (Aug) | 81.9% |  | 80.7% |
+| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Aug) | 1.5% | 1.1% | -0.3% |
+| 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Aug) | 174.6K |  | 176.2K |
+| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Aug) | -1.6% | -1.5% | 0.4% |
+| 15:00 | USD | Moderate | Business Inventories (MoM) (Aug) | 0.4% | 0.4% | 0.9% |
+| 15:00 | USD | Moderate | Retail Inventories Ex Auto (Aug) | 0.0% | 0.1% | 0.1% |
+| 15:30 | USD | Low | Natural Gas Storage | 67B | 76B | 85B |
+| 16:20 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 3.6% | 3.6% | 3.6% |
+| 16:30 | USD | Low | 4-Week Bill Auction | 4.000% |  | 3.980% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 4.050% |  | 3.980% |
+| 17:00 | USD | High | Crude Oil Inventories | -8.557M | 0.200M | -3.186M |
+| 17:00 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.135M |  | 0.223M |
+| 17:00 | USD | Low | Crude Oil Imports | -0.596M |  | -0.053M |
+| 17:00 | USD | Moderate | Cushing Crude Oil Inventories | 1.862M |  | 0.444M |
+| 17:00 | USD | Low | Distillate Fuel Production | -0.101M |  | 0.287M |
+| 17:00 | USD | Low | EIA Weekly Distillates Stocks | -2.527M | -1.600M | -0.042M |
+| 17:00 | USD | Low | Gasoline Production | -0.117M |  | -0.117M |
+| 17:00 | USD | Low | Heating Oil Stockpiles | -0.448M |  | 0.668M |
+| 17:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 0.8% |  | 0.2% |
+| 17:00 | USD | Low | Gasoline Inventories | 3.518M | -0.500M | 0.382M |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,748B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.022T |
 | 22:00 | KRW | Low | Export Price Index (YoY) (Sep) |  |  | 42.4% |
