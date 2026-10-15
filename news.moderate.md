@@ -1,29 +1,41 @@
-## 14 October 2026 - Moderate Impact Forex News
+## 15 October 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | CNY | CPI (YoY) (Sep) | 0.9% | 1.0% | 0.8% |
-| 02:30 | CNY | CPI (MoM) (Sep) | 0.2% | 0.3% | 0.4% |
-| 02:30 | CNY | PPI (YoY) (Sep) | 5.0% | 4.4% | 3.8% |
-| 03:10 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 03:30 | CNY | Exports (YoY) (Sep) | 36.3% | 25.5% | 25.0% |
-| 03:30 | CNY | Imports (YoY) (Sep) | 31.0% | 24.5% | 28.2% |
-| 03:30 | CNY | Trade Balance (USD) (Sep) | 133.53B | 116.80B | 119.09B |
-| 06:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 07:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 07:05 | CAD | BoC Gov Macklem Speaks |  |  |  |
-| 07:30 | INR | WPI Inflation (YoY) (Sep) | 11.39% | 10.18% | 9.92% |
-| 08:00 | EUR | Spanish CPI (YoY) (Sep) | 4.9% | 4.9% | 4.3% |
-| 08:00 | EUR | Spanish HICP (YoY) (Sep) | 5.0% | 5.0% | 4.6% |
-| 09:00 | CNY | New Loans (Sep) | 1,080.0B | 1,025.0B | 60.0B |
-| 09:00 | EUR | ECB's Elderson Speaks |  |  |  |
-| 09:15 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 09:30 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 10:00 | USD | IEA Monthly Report |  |  |  |
-| 10:40 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 01:30 | AUD | Employment Change (Sep) |  | 19.6K | 39.5K |
+| 01:30 | AUD | Full Employment Change (Sep) |  |  | -6.3K |
+| 01:30 | AUD | Unemployment Rate (Sep) |  | 4.6% | 4.6% |
+| 03:45 | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 03:55 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 04:00 | USD | Federal Budget Balance (Sep) |  | -29.0B | -167.0B |
+| 04:40 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
+| 04:40 | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 05:30 | JPY | Industrial Production (MoM) (Aug) |  | -1.7% | -0.2% |
+| 07:00 | GBP | Industrial Production (MoM) (Aug) |  | -0.1% | 0.2% |
+| 07:00 | GBP | Manufacturing Production (MoM) (Aug) |  | -0.1% | 0.9% |
+| 07:00 | GBP | Monthly GDP 3M/3M Change (Aug) |  | 0.5% | 0.4% |
+| 07:00 | GBP | Trade Balance (Aug) |  | -21.90B | -20.97B |
+| 07:00 | GBP | Trade Balance Non-EU (Aug) |  |  | -9.66B |
+| 07:30 | CHF | PPI (MoM) (Sep) |  | 0.6% | 0.7% |
+| 07:45 | EUR | French CPI (MoM) (Sep) |  | -0.3% | 0.7% |
+| 07:45 | EUR | French HICP (MoM) (Sep) |  | -0.4% | 0.4% |
+| 08:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 10:00 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
+| 10:00 | EUR | Industrial Production (MoM) (Aug) |  | 0.0% | -0.1% |
 | 11:00 | EUR | Euro Summit |  |  |  |
-| 13:30 | USD | Core CPI (YoY) (Sep) | 2.6% | 2.5% | 2.4% |
-| 13:30 | CAD | Building Permits (MoM) (Aug) | 8.8% | 2.9% | -15.8% |
-| 17:15 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 19:00 | USD | Beige Book |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock | -11.120M | 1.900M | -2.090M |
+| 12:00 | GBP | NIESR Monthly GDP Tracker (Sep) |  |  | 0.5% |
+| 13:00 | BRL | Retail Sales (YoY) (Aug) |  | 1.5% | 1.2% |
+| 13:00 | BRL | Retail Sales (MoM) (Aug) |  | 0.7% | -0.8% |
+| 13:30 | USD | Continuing Jobless Claims |  | 1,710K | 1,716K |
+| 13:30 | USD | Core PPI (MoM) (Sep) |  | 0.3% | 0.2% |
+| 13:30 | USD | NY Empire State Manufacturing Index (Oct) |  | 12.10 | 7.60 |
+| 13:30 | USD | Philly Fed Employment (Oct) |  |  | 11.8 |
+| 13:30 | USD | Retail Control (MoM) (Sep) |  | 0.3% | 1.2% |
+| 13:30 | CAD | Wholesale Sales (MoM) (Aug) |  | -1.5% | 0.3% |
+| 15:00 | USD | Business Inventories (MoM) (Aug) |  | 0.4% | 0.8% |
+| 15:00 | USD | Retail Inventories Ex Auto (Aug) |  | 0.1% | 0.1% |
+| 16:30 | USD | Atlanta Fed GDPNow (Q3) |  | 3.6% | 3.6% |
+| 17:00 | USD | Cushing Crude Oil Inventories |  |  | 0.444M |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 6,748B |
+| 22:30 | NZD | Business NZ PMI (Sep) |  |  | 53.1 |
+| 22:45 | NZD | Electronic Card Retail Sales (MoM) (Sep) |  |  | -0.9% |
