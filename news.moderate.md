@@ -1,40 +1,29 @@
-## 15 October 2026 - Moderate Impact Forex News
+## 16 October 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | AUD | Employment Change (Sep) | -39.3K | 19.6K | 29.3K |
-| 01:30 | AUD | Full Employment Change (Sep) | 34.4K |  | -4.0K |
-| 01:30 | AUD | Unemployment Rate (Sep) | 4.7% | 4.6% | 4.7% |
-| 03:45 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 03:55 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 04:35 | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 04:40 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
-| 05:30 | JPY | Industrial Production (MoM) (Aug) | -2.4% | -1.7% | -0.2% |
-| 07:00 | GBP | Industrial Production (MoM) (Aug) | 0.8% | -0.1% | 0.3% |
-| 07:00 | GBP | Manufacturing Production (MoM) (Aug) | 1.2% | -0.1% | 1.0% |
-| 07:00 | GBP | Monthly GDP 3M/3M Change (Aug) | 0.7% | 0.5% | 0.5% |
-| 07:00 | GBP | Trade Balance (Aug) | -18.01B | -21.90B | -19.30B |
-| 07:00 | GBP | Trade Balance Non-EU (Aug) | -5.29B |  | -8.19B |
-| 07:30 | CHF | PPI (MoM) (Sep) | 0.3% | 0.6% | 0.7% |
-| 07:45 | EUR | French CPI (MoM) (Sep) | -0.3% | -0.3% | 0.7% |
-| 07:45 | EUR | French HICP (MoM) (Sep) | -0.3% | -0.4% | 0.4% |
-| 08:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 10:00 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
-| 10:00 | EUR | Industrial Production (MoM) (Aug) | -0.5% | 0.0% | -0.3% |
-| 11:00 | EUR | Euro Summit |  |  |  |
-| 13:00 | GBP | NIESR Monthly GDP Tracker (Sep) | 0.7% |  | 0.5% |
-| 13:00 | BRL | Retail Sales (YoY) (Aug) | 0.4% | 1.5% | 1.3% |
-| 13:00 | BRL | Retail Sales (MoM) (Aug) | 0.1% | 0.7% | -0.8% |
-| 13:30 | USD | Continuing Jobless Claims | 1,710K | 1,710K | 1,714K |
-| 13:30 | USD | Core PPI (MoM) (Sep) | 0.7% | 0.3% | 0.2% |
-| 13:30 | USD | NY Empire State Manufacturing Index (Oct) | 25.50 | 12.10 | 7.60 |
-| 13:30 | USD | Philly Fed Employment (Oct) | 9.1 |  | 11.8 |
-| 13:30 | USD | Retail Control (MoM) (Sep) | 0.1% | 0.3% | 1.2% |
-| 13:30 | CAD | Wholesale Sales (MoM) (Aug) | -1.6% | -1.5% | 0.4% |
-| 15:00 | USD | Business Inventories (MoM) (Aug) | 0.4% | 0.4% | 0.9% |
-| 15:00 | USD | Retail Inventories Ex Auto (Aug) | 0.0% | 0.1% | 0.1% |
-| 16:20 | USD | Atlanta Fed GDPNow (Q3) | 3.6% | 3.6% | 3.6% |
-| 17:00 | USD | Cushing Crude Oil Inventories | 1.862M |  | 0.444M |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 6,748B |
-| 22:30 | NZD | Business NZ PMI (Sep) |  |  | 53.1 |
-| 22:45 | NZD | Electronic Card Retail Sales (MoM) (Sep) |  |  | -0.9% |
+| 03:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 03:30 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 05:15 | CAD | BoC Gov Macklem Speaks |  |  |  |
+| 10:00 | EUR | Core CPI (YoY) (Sep) |  | 2.5% | 2.4% |
+| 10:00 | EUR | CPI (MoM) (Sep) |  | 0.6% | 0.4% |
+| 10:00 | EUR | Trade Balance (Aug) |  |  | 14.2B |
+| 13:15 | CAD | Housing Starts (Sep) |  | 234.0K | 229.0K |
+| 13:30 | USD | Export Price Index (MoM) (Sep) |  | 1.0% | 0.6% |
+| 13:30 | USD | Import Price Index (MoM) (Sep) |  | 0.9% | 0.7% |
+| 13:30 | CAD | Foreign Securities Purchases (Aug) |  | 23.59B | 20.65B |
+| 14:15 | USD | Industrial Production (MoM) (Sep) |  | 0.4% | 0.0% |
+| 14:15 | USD | Industrial Production (YoY) (Sep) |  |  | 1.42% |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 462 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 603 |
+| 19:00 | USD | Federal Budget Balance (Sep) |  | -34.7B | -167.0B |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | -97.6K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 99.1K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 210.3K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 58.1K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -154.1K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -98.6K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 52.3K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | 62.3K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | -99.3K |
+| 21:00 | USD | TIC Net Long-Term Transactions (Aug) |  | 75.2B | -27.9B |
