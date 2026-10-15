@@ -4,15 +4,15 @@
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Core Machinery Orders (MoM) (Aug) | 5.2% | 2.2% | -3.7% |
 | 00:50 | JPY | Core Machinery Orders (YoY) (Aug) | 18.6% | 15.7% | 11.2% |
-| 01:00 | KRW | Exports (YoY) (Sep) |  | 83.5% | 68.7% |
+| 01:00 | KRW | Exports (YoY) (Sep) | 83.7% | 83.5% | 68.7% |
 | 01:00 | KRW | Imports (YoY) (Sep) | 26.0% | 26.0% | 22.4% |
 | 01:00 | KRW | Trade Balance (Sep) | 49.97B | 49.85B | 34.79B |
-| 01:30 | AUD | Participation Rate (Sep) |  | 67.0% | 67.1% |
-| 01:30 | AUD | Reserve Assets Total (Sep) |  |  | 118,181.0B |
-| 04:00 | KRW | M3 Money Supply (Aug) |  |  | 6,351.9B |
-| 04:00 | KRW | M2 Money supply (Aug) |  |  | 8.00% |
+| 01:30 | AUD | Participation Rate (Sep) | 66.8% | 67.0% | 67.0% |
+| 01:30 | AUD | Reserve Assets Total (Sep) | 118.8B |  | 118.2B |
+| 04:00 | KRW | M3 Money Supply (Aug) | 6,368.6B |  | 6,354.1B |
+| 04:00 | KRW | M2 Money supply (Aug) | 7.20% |  | 8.10% |
 | 05:30 | CHF | SNB Chairman Schlegel Speaks |  |  |  |
-| 05:30 | JPY | Capacity Utilization (MoM) (Aug) |  |  | 0.5% |
+| 05:30 | JPY | Capacity Utilization (MoM) (Aug) | -4.2% |  | 0.5% |
 | 07:00 | GBP | Construction Output (MoM) (Aug) |  | 0.0% | 0.1% |
 | 07:00 | GBP | U.K. Construction Output (YoY) (Aug) |  | -1.6% | -2.5% |
 | 07:00 | GBP | GDP (YoY) (Aug) |  | 1.7% | 1.6% |
@@ -51,12 +51,12 @@
 | 13:30 | USD | PPI (YoY) (Sep) |  | 5.3% | 5.4% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Sep) |  |  | 4.7% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Sep) |  |  | 0.3% |
-| 13:30 | USD | Retail Sales (YoY) (Sep) |  |  | 5.36% |
-| 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Sep) |  |  | 1.1% |
+| 13:30 | USD | Retail Sales (YoY) (Sep) |  |  | 6.01% |
+| 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Sep) |  |  | 1.2% |
 | 13:30 | CAD | Capacity Utilization Rate (Aug) |  |  | 80.7% |
 | 13:30 | CAD | Manufacturing Sales (MoM) (Aug) |  | 1.1% | -0.4% |
 | 13:30 | CAD | New Motor Vehicle Sales (MoM) (Aug) |  |  | 176.2K |
-| 15:30 | USD | Natural Gas Storage |  |  | 85B |
+| 15:30 | USD | Natural Gas Storage |  | 76B | 85B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 3.980% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 3.980% |
 | 17:00 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.223M |

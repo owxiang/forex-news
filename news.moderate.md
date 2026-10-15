@@ -2,15 +2,14 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | AUD | Employment Change (Sep) |  | 19.6K | 39.5K |
-| 01:30 | AUD | Full Employment Change (Sep) |  |  | -6.3K |
-| 01:30 | AUD | Unemployment Rate (Sep) |  | 4.6% | 4.6% |
+| 01:30 | AUD | Employment Change (Sep) | -39.3K | 19.6K | 29.3K |
+| 01:30 | AUD | Full Employment Change (Sep) | 34.4K |  | -4.0K |
+| 01:30 | AUD | Unemployment Rate (Sep) | 4.7% | 4.6% | 4.7% |
 | 03:45 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 03:55 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 04:00 | USD | Federal Budget Balance (Sep) |  | -29.0B | -167.0B |
+| 04:35 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 04:40 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
-| 04:40 | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 05:30 | JPY | Industrial Production (MoM) (Aug) |  | -1.7% | -0.2% |
+| 05:30 | JPY | Industrial Production (MoM) (Aug) | -2.4% | -1.7% | -0.2% |
 | 07:00 | GBP | Industrial Production (MoM) (Aug) |  | -0.1% | 0.2% |
 | 07:00 | GBP | Manufacturing Production (MoM) (Aug) |  | -0.1% | 0.9% |
 | 07:00 | GBP | Monthly GDP 3M/3M Change (Aug) |  | 0.5% | 0.4% |
@@ -30,10 +29,10 @@
 | 13:30 | USD | Core PPI (MoM) (Sep) |  | 0.3% | 0.2% |
 | 13:30 | USD | NY Empire State Manufacturing Index (Oct) |  | 12.10 | 7.60 |
 | 13:30 | USD | Philly Fed Employment (Oct) |  |  | 11.8 |
-| 13:30 | USD | Retail Control (MoM) (Sep) |  | 0.3% | 1.2% |
+| 13:30 | USD | Retail Control (MoM) (Sep) |  | 0.3% | 1.4% |
 | 13:30 | CAD | Wholesale Sales (MoM) (Aug) |  | -1.5% | 0.3% |
 | 15:00 | USD | Business Inventories (MoM) (Aug) |  | 0.4% | 0.8% |
-| 15:00 | USD | Retail Inventories Ex Auto (Aug) |  | 0.1% | 0.1% |
+| 15:00 | USD | Retail Inventories Ex Auto (Aug) |  | 0.1% | 0.8% |
 | 16:30 | USD | Atlanta Fed GDPNow (Q3) |  | 3.6% | 3.6% |
 | 17:00 | USD | Cushing Crude Oil Inventories |  |  | 0.444M |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,748B |

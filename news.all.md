@@ -4,24 +4,23 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:50 | JPY | Low | Core Machinery Orders (MoM) (Aug) | 5.2% | 2.2% | -3.7% |
 | 00:50 | JPY | Low | Core Machinery Orders (YoY) (Aug) | 18.6% | 15.7% | 11.2% |
-| 01:00 | KRW | Low | Exports (YoY) (Sep) |  | 83.5% | 68.7% |
+| 01:00 | KRW | Low | Exports (YoY) (Sep) | 83.7% | 83.5% | 68.7% |
 | 01:00 | KRW | Low | Imports (YoY) (Sep) | 26.0% | 26.0% | 22.4% |
 | 01:00 | KRW | Low | Trade Balance (Sep) | 49.97B | 49.85B | 34.79B |
-| 01:30 | AUD | Moderate | Employment Change (Sep) |  | 19.6K | 39.5K |
-| 01:30 | AUD | Moderate | Full Employment Change (Sep) |  |  | -6.3K |
-| 01:30 | AUD | Low | Participation Rate (Sep) |  | 67.0% | 67.1% |
-| 01:30 | AUD | Low | Reserve Assets Total (Sep) |  |  | 118,181.0B |
-| 01:30 | AUD | Moderate | Unemployment Rate (Sep) |  | 4.6% | 4.6% |
+| 01:30 | AUD | Moderate | Employment Change (Sep) | -39.3K | 19.6K | 29.3K |
+| 01:30 | AUD | Moderate | Full Employment Change (Sep) | 34.4K |  | -4.0K |
+| 01:30 | AUD | Low | Participation Rate (Sep) | 66.8% | 67.0% | 67.0% |
+| 01:30 | AUD | Low | Reserve Assets Total (Sep) | 118.8B |  | 118.2B |
+| 01:30 | AUD | Moderate | Unemployment Rate (Sep) | 4.7% | 4.6% | 4.7% |
 | 03:45 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 03:55 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 04:00 | USD | Moderate | Federal Budget Balance (Sep) |  | -29.0B | -167.0B |
-| 04:00 | KRW | Low | M3 Money Supply (Aug) |  |  | 6,351.9B |
-| 04:00 | KRW | Low | M2 Money supply (Aug) |  |  | 8.00% |
+| 04:00 | KRW | Low | M3 Money Supply (Aug) | 6,368.6B |  | 6,354.1B |
+| 04:00 | KRW | Low | M2 Money supply (Aug) | 7.20% |  | 8.10% |
+| 04:35 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 04:40 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
-| 04:40 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 05:30 | CHF | Low | SNB Chairman Schlegel Speaks |  |  |  |
-| 05:30 | JPY | Low | Capacity Utilization (MoM) (Aug) |  |  | 0.5% |
-| 05:30 | JPY | Moderate | Industrial Production (MoM) (Aug) |  | -1.7% | -0.2% |
+| 05:30 | JPY | Low | Capacity Utilization (MoM) (Aug) | -4.2% |  | 0.5% |
+| 05:30 | JPY | Moderate | Industrial Production (MoM) (Aug) | -2.4% | -1.7% | -0.2% |
 | 07:00 | GBP | Low | Construction Output (MoM) (Aug) |  | 0.0% | 0.1% |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (Aug) |  | -1.6% | -2.5% |
 | 07:00 | GBP | High | GDP (MoM) (Aug) |  | -0.1% | 0.4% |
@@ -70,7 +69,7 @@
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,710K | 1,716K |
 | 13:30 | USD | Moderate | Core PPI (MoM) (Sep) |  | 0.3% | 0.2% |
 | 13:30 | USD | Low | Core PPI (YoY) (Sep) |  | 4.4% | 4.6% |
-| 13:30 | USD | High | Core Retail Sales (MoM) (Sep) |  | 0.6% | 1.3% |
+| 13:30 | USD | High | Core Retail Sales (MoM) (Sep) |  | 0.6% | 1.4% |
 | 13:30 | USD | High | Initial Jobless Claims |  | 199K | 197K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 198.00K |
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Oct) |  | 12.10 | 7.60 |
@@ -84,21 +83,21 @@
 | 13:30 | USD | Low | PPI (YoY) (Sep) |  | 5.3% | 5.4% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Sep) |  |  | 4.7% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Sep) |  |  | 0.3% |
-| 13:30 | USD | Moderate | Retail Control (MoM) (Sep) |  | 0.3% | 1.2% |
-| 13:30 | USD | High | Retail Sales (MoM) (Sep) |  | 0.3% | 1.1% |
-| 13:30 | USD | Low | Retail Sales (YoY) (Sep) |  |  | 5.36% |
-| 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Sep) |  |  | 1.1% |
+| 13:30 | USD | Moderate | Retail Control (MoM) (Sep) |  | 0.3% | 1.4% |
+| 13:30 | USD | High | Retail Sales (MoM) (Sep) |  | 0.3% | 1.2% |
+| 13:30 | USD | Low | Retail Sales (YoY) (Sep) |  |  | 6.01% |
+| 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Sep) |  |  | 1.2% |
 | 13:30 | CAD | Low | Capacity Utilization Rate (Aug) |  |  | 80.7% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Aug) |  | 1.1% | -0.4% |
 | 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Aug) |  |  | 176.2K |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Aug) |  | -1.5% | 0.3% |
 | 15:00 | USD | Moderate | Business Inventories (MoM) (Aug) |  | 0.4% | 0.8% |
-| 15:00 | USD | Moderate | Retail Inventories Ex Auto (Aug) |  | 0.1% | 0.1% |
-| 15:30 | USD | Low | Natural Gas Storage |  |  | 85B |
+| 15:00 | USD | Moderate | Retail Inventories Ex Auto (Aug) |  | 0.1% | 0.8% |
+| 15:30 | USD | Low | Natural Gas Storage |  | 76B | 85B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.980% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 3.980% |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 3.6% | 3.6% |
-| 17:00 | USD | High | Crude Oil Inventories |  |  | -3.186M |
+| 17:00 | USD | High | Crude Oil Inventories |  | 0.200M | -3.186M |
 | 17:00 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.223M |
 | 17:00 | USD | Low | Crude Oil Imports |  |  | -0.053M |
 | 17:00 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.444M |
