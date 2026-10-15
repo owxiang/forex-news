@@ -10,17 +10,17 @@
 | 04:35 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 04:40 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
 | 05:30 | JPY | Industrial Production (MoM) (Aug) | -2.4% | -1.7% | -0.2% |
-| 07:00 | GBP | Industrial Production (MoM) (Aug) |  | -0.1% | 0.2% |
-| 07:00 | GBP | Manufacturing Production (MoM) (Aug) |  | -0.1% | 0.9% |
-| 07:00 | GBP | Monthly GDP 3M/3M Change (Aug) |  | 0.5% | 0.4% |
-| 07:00 | GBP | Trade Balance (Aug) |  | -21.90B | -20.97B |
-| 07:00 | GBP | Trade Balance Non-EU (Aug) |  |  | -9.66B |
-| 07:30 | CHF | PPI (MoM) (Sep) |  | 0.6% | 0.7% |
-| 07:45 | EUR | French CPI (MoM) (Sep) |  | -0.3% | 0.7% |
-| 07:45 | EUR | French HICP (MoM) (Sep) |  | -0.4% | 0.4% |
+| 07:00 | GBP | Industrial Production (MoM) (Aug) | 0.8% | -0.1% | 0.3% |
+| 07:00 | GBP | Manufacturing Production (MoM) (Aug) | 1.2% | -0.1% | 1.0% |
+| 07:00 | GBP | Monthly GDP 3M/3M Change (Aug) | 0.7% | 0.5% | 0.5% |
+| 07:00 | GBP | Trade Balance (Aug) | -18.01B | -21.90B | -19.30B |
+| 07:00 | GBP | Trade Balance Non-EU (Aug) | -5.29B |  | -8.19B |
+| 07:30 | CHF | PPI (MoM) (Sep) | 0.3% | 0.6% | 0.7% |
+| 07:45 | EUR | French CPI (MoM) (Sep) | -0.3% | -0.3% | 0.7% |
+| 07:45 | EUR | French HICP (MoM) (Sep) | -0.3% | -0.4% | 0.4% |
 | 08:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 10:00 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
-| 10:00 | EUR | Industrial Production (MoM) (Aug) |  | 0.0% | -0.1% |
+| 10:00 | EUR | Industrial Production (MoM) (Aug) | -0.5% | 0.0% | -0.3% |
 | 11:00 | EUR | Euro Summit |  |  |  |
 | 12:00 | GBP | NIESR Monthly GDP Tracker (Sep) |  |  | 0.5% |
 | 13:00 | BRL | Retail Sales (YoY) (Aug) |  | 1.5% | 1.2% |
