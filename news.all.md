@@ -3,18 +3,18 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | KRW | Low | Unemployment Rate (Sep) | 2.6% |  | 2.7% |
-| 00:50 | JPY | Low | Foreign Bonds Buying |  |  | -347.6B |
-| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 2,191.9B |
-| 01:30 | SGD | Low | Non-Oil Exports (MoM) (Sep) |  |  | 10.90% |
-| 01:30 | SGD | Low | Non-Oil Exports (YoY) (Sep) |  | 33.80% | 46.20% |
-| 01:30 | SGD | Low | Trade Balance (Sep) |  |  | 13.780B |
+| 00:50 | JPY | Low | Foreign Bonds Buying | -339.7B |  | -345.7B |
+| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 3,521.5B |  | 2,199.7B |
+| 01:30 | SGD | Low | Non-Oil Exports (MoM) (Sep) | 25.50% |  | 10.80% |
+| 01:30 | SGD | Low | Non-Oil Exports (YoY) (Sep) | 68.40% | 33.80% | 46.10% |
+| 01:30 | SGD | Low | Trade Balance (Sep) | 9.038B |  | 13.764B |
 | 03:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 03:00 | KRW | Low | Thomson Reuters IPSOS PCSI (Oct) |  |  | 44.27 |
-| 03:00 | INR | Low | Thomson Reuters IPSOS PCSI (Oct) |  |  | 66.92 |
-| 03:00 | AUD | Low | Thomson Reuters IPSOS PCSI (Oct) |  |  | 48.50 |
-| 03:00 | JPY | Low | Thomson Reuters IPSOS PCSI (Oct) |  |  | 39.42 |
-| 03:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Oct) |  |  | 74.67 |
-| 03:00 | NZD | Low | RBNZ Offshore Holdings (Sep) |  |  | 57.00% |
+| 03:00 | KRW | Low | Thomson Reuters IPSOS PCSI (Oct) | 44.06 |  | 44.27 |
+| 03:00 | INR | Low | Thomson Reuters IPSOS PCSI (Oct) | 64.32 |  | 66.92 |
+| 03:00 | AUD | Low | Thomson Reuters IPSOS PCSI (Oct) | 45.62 |  | 48.50 |
+| 03:00 | JPY | Low | Thomson Reuters IPSOS PCSI (Oct) | 38.96 |  | 39.42 |
+| 03:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Oct) | 69.29 |  | 74.67 |
+| 03:00 | NZD | Low | RBNZ Offshore Holdings (Sep) | 57.30% |  | 57.00% |
 | 03:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 04:30 | USD | High | Fed Chair Warsh Speaks |  |  |  |
 | 05:15 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |

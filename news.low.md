@@ -3,17 +3,17 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | KRW | Unemployment Rate (Sep) | 2.6% |  | 2.7% |
-| 00:50 | JPY | Foreign Bonds Buying |  |  | -347.6B |
-| 00:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 2,191.9B |
-| 01:30 | SGD | Non-Oil Exports (MoM) (Sep) |  |  | 10.90% |
-| 01:30 | SGD | Non-Oil Exports (YoY) (Sep) |  | 33.80% | 46.20% |
-| 01:30 | SGD | Trade Balance (Sep) |  |  | 13.780B |
-| 03:00 | KRW | Thomson Reuters IPSOS PCSI (Oct) |  |  | 44.27 |
-| 03:00 | INR | Thomson Reuters IPSOS PCSI (Oct) |  |  | 66.92 |
-| 03:00 | AUD | Thomson Reuters IPSOS PCSI (Oct) |  |  | 48.50 |
-| 03:00 | JPY | Thomson Reuters IPSOS PCSI (Oct) |  |  | 39.42 |
-| 03:00 | CNY | China Thomson Reuters IPSOS PCSI (Oct) |  |  | 74.67 |
-| 03:00 | NZD | RBNZ Offshore Holdings (Sep) |  |  | 57.00% |
+| 00:50 | JPY | Foreign Bonds Buying | -339.7B |  | -345.7B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks | 3,521.5B |  | 2,199.7B |
+| 01:30 | SGD | Non-Oil Exports (MoM) (Sep) | 25.50% |  | 10.80% |
+| 01:30 | SGD | Non-Oil Exports (YoY) (Sep) | 68.40% | 33.80% | 46.10% |
+| 01:30 | SGD | Trade Balance (Sep) | 9.038B |  | 13.764B |
+| 03:00 | KRW | Thomson Reuters IPSOS PCSI (Oct) | 44.06 |  | 44.27 |
+| 03:00 | INR | Thomson Reuters IPSOS PCSI (Oct) | 64.32 |  | 66.92 |
+| 03:00 | AUD | Thomson Reuters IPSOS PCSI (Oct) | 45.62 |  | 48.50 |
+| 03:00 | JPY | Thomson Reuters IPSOS PCSI (Oct) | 38.96 |  | 39.42 |
+| 03:00 | CNY | China Thomson Reuters IPSOS PCSI (Oct) | 69.29 |  | 74.67 |
+| 03:00 | NZD | RBNZ Offshore Holdings (Sep) | 57.30% |  | 57.00% |
 | 10:00 | EUR | Italian CPI (YoY) (Sep) |  | 4.2% | 3.3% |
 | 10:00 | EUR | Italian CPI (MoM) (Sep) |  | 0.7% | 0.5% |
 | 10:00 | EUR | Italian CPI Ex Tobacco (YoY) (Sep) |  |  | 3.4% |
