@@ -62,8 +62,8 @@
 | 14:15 | USD | Moderate | Industrial Production (MoM) (Sep) | 0.7% | 0.4% | 0.1% |
 | 14:15 | USD | Moderate | Industrial Production (YoY) (Sep) | 2.25% |  | 1.62% |
 | 14:15 | USD | Low | Manufacturing Production (MoM) (Sep) | 0.3% | 0.3% | -0.2% |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 462 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 603 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 459 |  | 462 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 603 |  | 603 |
 | 19:00 | USD | Moderate | Federal Budget Balance (Sep) |  | -34.7B | -167.0B |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -97.6K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -0.9K |
