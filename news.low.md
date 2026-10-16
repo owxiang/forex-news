@@ -48,17 +48,17 @@
 | 13:45 | USD | OPEC Crude oil Production Venezuela (Barrel) | 1.17M |  | 1.15M |
 | 14:15 | USD | Capacity Utilization Rate (Sep) | 76.9% | 76.5% | 76.4% |
 | 14:15 | USD | Manufacturing Production (MoM) (Sep) | 0.3% | 0.3% | -0.2% |
-| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -0.9K |
-| 20:30 | USD | CFTC Copper speculative net positions |  |  | 69.4K |
-| 20:30 | USD | CFTC Corn speculative net positions |  |  | 452.5K |
-| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -236.4K |
-| 20:30 | USD | CFTC Silver speculative net positions |  |  | 23.2K |
-| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 273.9K |
-| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -16.0K |
-| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -90.2K |
-| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 10.7K |
-| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -23.7K |
-| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -29.3K |
-| 21:00 | USD | US Foreign Buying, T-bonds (Aug) |  |  | -3.60B |
-| 21:00 | USD | Overall Net Capital Flow (Aug) |  |  | 83.70B |
-| 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Aug) |  |  | -27.90B |
+| 20:30 | USD | CFTC Aluminium speculative net positions | -1.1K |  | -0.9K |
+| 20:30 | USD | CFTC Copper speculative net positions | 68.5K |  | 69.4K |
+| 20:30 | USD | CFTC Corn speculative net positions | 358.4K |  | 452.5K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions | -233.6K |  | -236.4K |
+| 20:30 | USD | CFTC Silver speculative net positions | 22.6K |  | 23.2K |
+| 20:30 | USD | CFTC Soybeans speculative net positions | 271.1K |  | 273.9K |
+| 20:30 | USD | CFTC Wheat speculative net positions | -17.6K |  | -16.0K |
+| 20:30 | CAD | CFTC CAD speculative net positions | -94.8K |  | -90.2K |
+| 20:30 | MXN | CFTC MXN speculative net positions | 15.2K |  | 10.7K |
+| 20:30 | CHF | CFTC CHF speculative net positions | -22.1K |  | -23.7K |
+| 20:30 | NZD | CFTC NZD speculative net positions | -47.0K |  | -29.3K |
+| 21:00 | USD | US Foreign Buying, T-bonds (Aug) | 108.90B |  | -3.60B |
+| 21:00 | USD | Overall Net Capital Flow (Aug) | 199.80B |  | 87.40B |
+| 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Aug) | 279.20B |  | -27.90B |

@@ -64,28 +64,28 @@
 | 14:15 | USD | Low | Manufacturing Production (MoM) (Sep) | 0.3% | 0.3% | -0.2% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 459 |  | 462 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 603 |  | 603 |
-| 19:00 | USD | Moderate | Federal Budget Balance (Sep) |  | -34.7B | -167.0B |
-| 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -97.6K |
-| 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -0.9K |
-| 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 69.4K |
-| 20:30 | USD | Low | CFTC Corn speculative net positions |  |  | 452.5K |
-| 20:30 | USD | Moderate | CFTC Crude Oil speculative net positions |  |  | 99.1K |
-| 20:30 | USD | Moderate | CFTC Gold speculative net positions |  |  | 210.3K |
-| 20:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions |  |  | 58.1K |
-| 20:30 | USD | Low | CFTC Natural Gas speculative net positions |  |  | -236.4K |
-| 20:30 | USD | Moderate | CFTC S&P 500 speculative net positions |  |  | -154.1K |
-| 20:30 | USD | Low | CFTC Silver speculative net positions |  |  | 23.2K |
-| 20:30 | USD | Low | CFTC Soybeans speculative net positions |  |  | 273.9K |
-| 20:30 | USD | Low | CFTC Wheat speculative net positions |  |  | -16.0K |
-| 20:30 | CAD | Low | CFTC CAD speculative net positions |  |  | -90.2K |
-| 20:30 | MXN | Low | CFTC MXN speculative net positions |  |  | 10.7K |
-| 20:30 | CHF | Low | CFTC CHF speculative net positions |  |  | -23.7K |
-| 20:30 | AUD | Moderate | CFTC AUD speculative net positions |  |  | -98.6K |
-| 20:30 | BRL | Moderate | CFTC BRL speculative net positions |  |  | 52.3K |
-| 20:30 | JPY | Moderate | CFTC JPY speculative net positions |  |  | 62.3K |
-| 20:30 | NZD | Low | CFTC NZD speculative net positions |  |  | -29.3K |
-| 20:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | -99.3K |
-| 21:00 | USD | Low | US Foreign Buying, T-bonds (Aug) |  |  | -3.60B |
-| 21:00 | USD | Low | Overall Net Capital Flow (Aug) |  |  | 83.70B |
-| 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Aug) |  | 75.2B | -27.9B |
-| 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Aug) |  |  | -27.90B |
+| 20:00 | USD | Moderate | Federal Budget Balance (Sep) | -27.0B | -34.7B | -167.0B |
+| 20:30 | GBP | Moderate | CFTC GBP speculative net positions | -107.0K |  | -97.6K |
+| 20:30 | USD | Low | CFTC Aluminium speculative net positions | -1.1K |  | -0.9K |
+| 20:30 | USD | Low | CFTC Copper speculative net positions | 68.5K |  | 69.4K |
+| 20:30 | USD | Low | CFTC Corn speculative net positions | 358.4K |  | 452.5K |
+| 20:30 | USD | Moderate | CFTC Crude Oil speculative net positions | 100.3K |  | 99.1K |
+| 20:30 | USD | Moderate | CFTC Gold speculative net positions | 207.9K |  | 210.3K |
+| 20:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions | 48.5K |  | 58.1K |
+| 20:30 | USD | Low | CFTC Natural Gas speculative net positions | -233.6K |  | -236.4K |
+| 20:30 | USD | Moderate | CFTC S&P 500 speculative net positions | -141.0K |  | -154.1K |
+| 20:30 | USD | Low | CFTC Silver speculative net positions | 22.6K |  | 23.2K |
+| 20:30 | USD | Low | CFTC Soybeans speculative net positions | 271.1K |  | 273.9K |
+| 20:30 | USD | Low | CFTC Wheat speculative net positions | -17.6K |  | -16.0K |
+| 20:30 | CAD | Low | CFTC CAD speculative net positions | -94.8K |  | -90.2K |
+| 20:30 | MXN | Low | CFTC MXN speculative net positions | 15.2K |  | 10.7K |
+| 20:30 | CHF | Low | CFTC CHF speculative net positions | -22.1K |  | -23.7K |
+| 20:30 | AUD | Moderate | CFTC AUD speculative net positions | -117.3K |  | -98.6K |
+| 20:30 | BRL | Moderate | CFTC BRL speculative net positions | 46.7K |  | 52.3K |
+| 20:30 | JPY | Moderate | CFTC JPY speculative net positions | 50.2K |  | 62.3K |
+| 20:30 | NZD | Low | CFTC NZD speculative net positions | -47.0K |  | -29.3K |
+| 20:30 | EUR | Moderate | CFTC EUR speculative net positions | -137.6K |  | -99.3K |
+| 21:00 | USD | Low | US Foreign Buying, T-bonds (Aug) | 108.90B |  | -3.60B |
+| 21:00 | USD | Low | Overall Net Capital Flow (Aug) | 199.80B |  | 87.40B |
+| 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Aug) | 279.2B | 75.2B | -27.9B |
+| 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Aug) | 279.20B |  | -27.90B |
