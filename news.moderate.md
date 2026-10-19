@@ -12,7 +12,7 @@
 | 03:00 | CNY | Chinese Unemployment Rate (Sep) | 5.2% | 5.3% | 5.3% |
 | 03:00 | CNY | NBS Press Conference |  |  |  |
 | 07:00 | EUR | ECB's Elderson Speaks |  |  |  |
-| 13:30 | CAD | Core CPI (MoM) (Sep) |  |  | 0.1% |
-| 13:30 | CAD | Core CPI (YoY) (Sep) |  |  | 2.4% |
-| 13:30 | CAD | CPI (MoM) (Sep) |  | 0.2% | -0.1% |
+| 13:30 | CAD | Core CPI (MoM) (Sep) | 0.0% |  | 0.1% |
+| 13:30 | CAD | Core CPI (YoY) (Sep) | 2.2% |  | 2.4% |
+| 13:30 | CAD | CPI (MoM) (Sep) | 0.1% | 0.2% | -0.1% |
 | 16:30 | CAD | BoC Business Outlook Survey |  |  |  |

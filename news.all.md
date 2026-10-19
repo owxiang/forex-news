@@ -19,18 +19,18 @@
 | 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
 | 05:30 | JPY | Low | Tertiary Industry Activity Index (Aug) | -4.10 |  | 0.70 |
 | 07:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 10:30 | ZAR | Low | Business Confidence (Aug) | 135.1 |  | 125.4 |
+| 10:31 | ZAR | Low | Business Confidence (Sep) | 134.3 |  | 135.1 |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 11:00 | CNY | Low | FDI (Sep) |  |  | -5.30% |
-| 12:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Oct) |  |  | 1.5% |
-| 12:00 | ZAR | Low | Business Confidence (Aug) |  |  | 125.4 |
+| 12:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Oct) | 1.8% | 1.4% | 1.5% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:30 | CAD | Low | Common CPI (YoY) (Sep) |  | 2.6% | 2.6% |
-| 13:30 | CAD | Moderate | Core CPI (MoM) (Sep) |  |  | 0.1% |
-| 13:30 | CAD | Moderate | Core CPI (YoY) (Sep) |  |  | 2.4% |
-| 13:30 | CAD | Moderate | CPI (MoM) (Sep) |  | 0.2% | -0.1% |
-| 13:30 | CAD | Low | CPI (YoY) (Sep) |  |  | 3.0% |
-| 13:30 | CAD | Low | Median CPI (YoY) (Sep) |  | 2.0% | 2.0% |
-| 13:30 | CAD | Low | Trimmed CPI (YoY) (Sep) |  | 1.9% | 1.9% |
+| 13:30 | CAD | Low | Common CPI (YoY) (Sep) | 2.4% | 2.6% | 2.6% |
+| 13:30 | CAD | Moderate | Core CPI (MoM) (Sep) | 0.0% |  | 0.1% |
+| 13:30 | CAD | Moderate | Core CPI (YoY) (Sep) | 2.2% |  | 2.4% |
+| 13:30 | CAD | Moderate | CPI (MoM) (Sep) | 0.1% | 0.2% | -0.1% |
+| 13:30 | CAD | Low | CPI (YoY) (Sep) | 3.1% | 3.2% | 3.0% |
+| 13:30 | CAD | Low | Median CPI (YoY) (Sep) | 1.9% | 2.0% | 2.0% |
+| 13:30 | CAD | Low | Trimmed CPI (YoY) (Sep) | 1.8% | 1.9% | 1.9% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 3.255% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.761% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.964% |
