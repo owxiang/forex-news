@@ -1,18 +1,21 @@
-## 19 October 2026 - Moderate Impact Forex News
+## 20 October 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:05 | AUD | RBA Assist Gov Kent Speaks |  |  |  |
-| 02:30 | EUR | ECB's Lane Speaks |  |  |  |
-| 03:00 | CNY | Fixed Asset Investment (YoY) (Sep) | -7.2% | -7.3% | -7.2% |
-| 03:00 | CNY | GDP (QoQ) (Q3) | 1.2% | 1.1% | 0.9% |
-| 03:00 | CNY | Chinese GDP YTD (YoY) (Q3) | 4.6% |  | 4.7% |
-| 03:00 | CNY | Industrial Production (YoY) (Sep) | 5.5% | 5.4% | 5.2% |
-| 03:00 | CNY | Chinese Industrial Production YTD (YoY) (Sep) | 5.3% |  | 5.3% |
-| 03:00 | CNY | Chinese Unemployment Rate (Sep) | 5.2% | 5.3% | 5.3% |
-| 03:00 | CNY | NBS Press Conference |  |  |  |
-| 07:00 | EUR | ECB's Elderson Speaks |  |  |  |
-| 13:30 | CAD | Core CPI (MoM) (Sep) | 0.0% |  | 0.1% |
-| 13:30 | CAD | Core CPI (YoY) (Sep) | 2.2% |  | 2.4% |
-| 13:30 | CAD | CPI (MoM) (Sep) | 0.1% | 0.2% | -0.1% |
-| 16:30 | CAD | BoC Business Outlook Survey |  |  |  |
+| 02:00 | CNY | China Loan Prime Rate 5Y (Oct) |  | 3.50% | 3.50% |
+| 02:15 | CNY | PBoC Loan Prime Rate |  | 3.00% | 3.00% |
+| 07:00 | GBP | Average Earnings Index +Bonus (Aug) |  | 3.8% | 3.9% |
+| 07:00 | GBP | Claimant Count Change (Sep) |  | 19.4K | 27.8K |
+| 07:00 | GBP | Employment Change 3M/3M (MoM) (Aug) |  | 20K | 67K |
+| 07:00 | GBP | Unemployment Rate (Aug) |  | 4.9% | 4.9% |
+| 07:00 | EUR | German PPI (MoM) (Sep) |  | 1.5% | 1.1% |
+| 10:00 | EUR | German ZEW Current Conditions (Oct) |  | -45.0 | -47.1 |
+| 10:00 | EUR | German ZEW Economic Sentiment (Oct) |  | 30.2 | 34.7 |
+| 10:00 | EUR | ZEW Economic Sentiment (Oct) |  | 23.6 | 25.8 |
+| 13:15 | USD | ADP Employment Change Weekly |  |  | 24.80K |
+| 13:30 | USD | Building Permits (Sep) |  | 1.390M | 1.403M |
+| 13:30 | USD | Housing Starts (Sep) |  | 1.300M | 1.275M |
+| 13:30 | USD | Housing Starts (MoM) (Sep) |  |  | -2.6% |
+| 15:00 | USD | Atlanta Fed GDPNow (Q3) |  | 3.6% | 3.6% |
+| 15:00 | USD | Pending Home Sales (MoM) (Sep) |  | -0.4% | 0.3% |
+| 21:30 | USD | API Weekly Crude Oil Stock |  |  | -11.120M |
