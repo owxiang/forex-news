@@ -17,9 +17,9 @@
 | 13:30 | CAD | CPI (YoY) (Sep) | 3.1% | 3.2% | 3.0% |
 | 13:30 | CAD | Median CPI (YoY) (Sep) | 1.9% | 2.0% | 2.0% |
 | 13:30 | CAD | Trimmed CPI (YoY) (Sep) | 1.8% | 1.9% | 1.9% |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 3.255% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.761% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.964% |
-| 15:00 | USD | NAHB Housing Market Index (Oct) |  | 31 | 32 |
-| 16:30 | USD | 3-Month Bill Auction |  |  | 4.085% |
-| 16:30 | USD | 6-Month Bill Auction |  |  | 4.200% |
+| 14:00 | EUR | French 12-Month BTF Auction | 3.292% |  | 3.255% |
+| 14:00 | EUR | French 3-Month BTF Auction | 2.750% |  | 2.761% |
+| 14:00 | EUR | French 6-Month BTF Auction | 3.045% |  | 2.964% |
+| 15:00 | USD | NAHB Housing Market Index (Oct) | 29 | 31 | 32 |
+| 16:30 | USD | 3-Month Bill Auction | 4.095% |  | 4.085% |
+| 16:30 | USD | 6-Month Bill Auction | 4.220% |  | 4.200% |

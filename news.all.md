@@ -31,10 +31,10 @@
 | 13:30 | CAD | Low | CPI (YoY) (Sep) | 3.1% | 3.2% | 3.0% |
 | 13:30 | CAD | Low | Median CPI (YoY) (Sep) | 1.9% | 2.0% | 2.0% |
 | 13:30 | CAD | Low | Trimmed CPI (YoY) (Sep) | 1.8% | 1.9% | 1.9% |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 3.255% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.761% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.964% |
-| 15:00 | USD | Low | NAHB Housing Market Index (Oct) |  | 31 | 32 |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.085% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.200% |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 3.292% |  | 3.255% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.750% |  | 2.761% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 3.045% |  | 2.964% |
+| 15:00 | USD | Low | NAHB Housing Market Index (Oct) | 29 | 31 | 32 |
+| 16:30 | USD | Low | 3-Month Bill Auction | 4.095% |  | 4.085% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 4.220% |  | 4.200% |
 | 16:30 | CAD | Moderate | BoC Business Outlook Survey |  |  |  |
