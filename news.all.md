@@ -3,23 +3,24 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | Rightmove House Price Index (MoM) (Oct) | 1.0% |  | 0.7% |
-| 00:01 | GBP | Low | Rightmove House Price Index (YoY) (Oct) | -0.1% |  | -1.0% |
+| 00:01 | GBP | Low | Rightmove House Price Index (YoY) (Oct) | -0.1% |  | -0.8% |
 | 00:05 | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
-| 02:30 | CNY | Low | House Prices (YoY) (Sep) |  |  | -3.0% |
-| 03:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Sep) |  | -7.3% | -7.2% |
-| 03:00 | CNY | High | GDP (YoY) (Q3) |  | 4.4% | 4.3% |
-| 03:00 | CNY | Moderate | GDP (QoQ) (Q3) |  | 1.1% | 0.9% |
-| 03:00 | CNY | Moderate | Chinese GDP YTD (YoY) (Q3) |  |  | 4.7% |
-| 03:00 | CNY | Moderate | Industrial Production (YoY) (Sep) |  | 5.4% | 5.2% |
-| 03:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Sep) |  |  | 5.3% |
-| 03:00 | CNY | Low | Retail Sales (YoY) (Sep) |  | 0.5% | 0.4% |
-| 03:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Sep) |  |  | 1.13% |
-| 03:00 | CNY | Moderate | Chinese Unemployment Rate (Sep) |  | 5.3% | 5.3% |
+| 02:30 | CNY | Low | House Prices (YoY) (Sep) | -2.8% |  | -3.0% |
+| 02:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 03:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Sep) | -7.2% | -7.3% | -7.2% |
+| 03:00 | CNY | High | GDP (YoY) (Q3) | 4.5% | 4.4% | 4.3% |
+| 03:00 | CNY | Moderate | GDP (QoQ) (Q3) | 1.2% | 1.1% | 0.9% |
+| 03:00 | CNY | Moderate | Chinese GDP YTD (YoY) (Q3) | 4.6% |  | 4.7% |
+| 03:00 | CNY | Moderate | Industrial Production (YoY) (Sep) | 5.5% | 5.4% | 5.2% |
+| 03:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Sep) | 5.3% |  | 5.3% |
+| 03:00 | CNY | Low | Retail Sales (YoY) (Sep) | 1.1% | 0.5% | 0.4% |
+| 03:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Sep) | 1.13% |  | 1.13% |
+| 03:00 | CNY | Moderate | Chinese Unemployment Rate (Sep) | 5.2% | 5.3% | 5.3% |
 | 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
-| 05:30 | JPY | Low | Tertiary Industry Activity Index (Aug) |  |  | 0.90 |
+| 05:30 | JPY | Low | Tertiary Industry Activity Index (Aug) | -4.10 |  | 0.70 |
 | 07:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 10:00 | CNY | Low | FDI (Sep) |  |  | -5.30% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 11:00 | CNY | Low | FDI (Sep) |  |  | -5.30% |
 | 12:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Oct) |  |  | 1.5% |
 | 12:00 | ZAR | Low | Business Confidence (Aug) |  |  | 125.4 |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |

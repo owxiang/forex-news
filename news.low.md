@@ -3,13 +3,13 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | Rightmove House Price Index (MoM) (Oct) | 1.0% |  | 0.7% |
-| 00:01 | GBP | Rightmove House Price Index (YoY) (Oct) | -0.1% |  | -1.0% |
-| 02:30 | CNY | House Prices (YoY) (Sep) |  |  | -3.0% |
-| 03:00 | CNY | Retail Sales (YoY) (Sep) |  | 0.5% | 0.4% |
-| 03:00 | CNY | Chinese Retail Sales YTD (YoY) (Sep) |  |  | 1.13% |
-| 05:30 | JPY | Tertiary Industry Activity Index (Aug) |  |  | 0.90 |
-| 10:00 | CNY | FDI (Sep) |  |  | -5.30% |
+| 00:01 | GBP | Rightmove House Price Index (YoY) (Oct) | -0.1% |  | -0.8% |
+| 02:30 | CNY | House Prices (YoY) (Sep) | -2.8% |  | -3.0% |
+| 03:00 | CNY | Retail Sales (YoY) (Sep) | 1.1% | 0.5% | 0.4% |
+| 03:00 | CNY | Chinese Retail Sales YTD (YoY) (Sep) | 1.13% |  | 1.13% |
+| 05:30 | JPY | Tertiary Industry Activity Index (Aug) | -4.10 |  | 0.70 |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 11:00 | CNY | FDI (Sep) |  |  | -5.30% |
 | 12:00 | BRL | IGP-10 Inflation Index (MoM) (Oct) |  |  | 1.5% |
 | 12:00 | ZAR | Business Confidence (Aug) |  |  | 125.4 |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
