@@ -1,3 +1,5 @@
-## 18 October 2026 - High Impact Forex News
+## 19 October 2026 - High Impact Forex News
 
-There is no high impact news today.
+| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 03:00 | CNY | GDP (YoY) (Q3) |  | 4.4% | 4.3% |
