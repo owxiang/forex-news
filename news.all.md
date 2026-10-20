@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 02:00 | CNY | Moderate | China Loan Prime Rate 5Y (Oct) |  | 3.50% | 3.50% |
-| 02:15 | CNY | Moderate | PBoC Loan Prime Rate |  | 3.00% | 3.00% |
+| 02:00 | CNY | Moderate | China Loan Prime Rate 5Y (Oct) | 3.50% | 3.50% | 3.50% |
+| 02:00 | CNY | Moderate | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
 | 05:00 | IDR | Low | Foreign Direct Investment (YoY) (Q3) |  |  | 27.40% |
 | 07:00 | GBP | Low | Average Earnings ex Bonus (Aug) |  | 3.6% | 3.5% |
 | 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Aug) |  | 3.8% | 3.9% |
