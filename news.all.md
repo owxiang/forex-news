@@ -30,8 +30,8 @@
 | 15:00 | USD | Moderate | Pending Home Sales (MoM) (Sep) | -7.3% | -0.7% | 0.3% |
 | 15:00 | USD | Low | Pending Home Sales Index (Sep) | 66.0 |  | 71.2 |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 3.5% | 3.6% | 3.6% |
-| 16:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 1.2% |
-| 16:00 | USD | Low | Milk Auctions |  |  | 3,928.0 |
+| 16:00 | NZD | Low | GlobalDairyTrade Price Index | 2.5% |  | 1.2% |
+| 16:00 | USD | Low | Milk Auctions | 4,021.0 |  | 3,928.0 |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.300M | -11.120M |
 | 22:00 | KRW | Low | Manufacturing BSI Index (Jul) |  |  | 72 |
 | 22:00 | KRW | Low | PPI (MoM) (Sep) |  |  | 0.2% |
