@@ -4,23 +4,22 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 02:00 | CNY | Moderate | China Loan Prime Rate 5Y (Oct) | 3.50% | 3.50% | 3.50% |
 | 02:00 | CNY | Moderate | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
-| 05:00 | IDR | Low | Foreign Direct Investment (YoY) (Q3) |  |  | 27.40% |
-| 07:00 | GBP | Low | Average Earnings ex Bonus (Aug) |  | 3.6% | 3.5% |
-| 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Aug) |  | 3.8% | 3.9% |
-| 07:00 | GBP | Moderate | Claimant Count Change (Sep) |  | 19.4K | 27.8K |
-| 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Aug) |  | 20K | 67K |
-| 07:00 | GBP | Moderate | Unemployment Rate (Aug) |  | 4.9% | 4.9% |
-| 07:00 | CHF | Low | Trade Balance (Sep) |  |  | 3.786B |
-| 07:00 | EUR | Low | German PPI (YoY) (Sep) |  |  | 4.6% |
-| 07:00 | EUR | Moderate | German PPI (MoM) (Sep) |  | 1.5% | 1.1% |
-| 09:00 | EUR | Low | Current Account (Aug) |  | 29.2B | 27.6B |
-| 09:00 | EUR | Low | Current Account n.s.a. (Aug) |  |  | 36.5B |
-| 10:00 | EUR | Moderate | German ZEW Current Conditions (Oct) |  | -45.0 | -47.1 |
-| 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Oct) |  | 30.2 | 34.7 |
-| 10:00 | EUR | Low | Spanish Trade Balance (Aug) |  |  | -5.22B |
-| 10:00 | EUR | Low | Construction Output (MoM) (Aug) |  |  | 0.00% |
-| 10:00 | EUR | Moderate | ZEW Economic Sentiment (Oct) |  | 23.6 | 25.8 |
-| 10:30 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 5.383% |
+| 07:00 | GBP | Low | Average Earnings ex Bonus (Aug) | 3.7% | 3.6% | 3.6% |
+| 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Aug) | 3.7% | 3.8% | 3.9% |
+| 07:00 | GBP | Moderate | Claimant Count Change (Sep) | 30.3K | 19.4K | 7.0K |
+| 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Aug) | 102K | 20K | 67K |
+| 07:00 | GBP | Moderate | Unemployment Rate (Aug) | 4.7% | 4.9% | 4.9% |
+| 07:00 | CHF | Low | Trade Balance (Sep) | 1.309B |  | 4.185B |
+| 07:00 | EUR | Moderate | German PPI (MoM) (Sep) | 1.9% | 1.5% | 1.1% |
+| 07:00 | EUR | Low | German PPI (YoY) (Sep) | 6.7% | 6.3% | 4.6% |
+| 09:00 | EUR | Low | Spanish Trade Balance (Aug) | -5.98B |  | -5.22B |
+| 09:00 | EUR | Low | Current Account (Aug) | 8.7B | 29.2B | 27.2B |
+| 09:00 | EUR | Low | Current Account n.s.a. (Aug) | 7.7B |  | 35.9B |
+| 10:00 | GBP | Low | 10-Year Treasury Gilt Auction | 5.418% |  | 5.383% |
+| 10:00 | EUR | Moderate | German ZEW Current Conditions (Oct) | -35.9 | -45.0 | -47.1 |
+| 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Oct) | 28.1 | 30.2 | 34.7 |
+| 10:00 | EUR | Low | Construction Output (MoM) (Aug) | 1.85% |  | 0.19% |
+| 10:00 | EUR | Moderate | ZEW Economic Sentiment (Oct) | 18.5 | 23.6 | 25.8 |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 12:00 | CNY | Low | FDI (Sep) |  |  | -5.30% |
 | 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 24.80K |
@@ -30,7 +29,7 @@
 | 13:30 | USD | Moderate | Housing Starts (MoM) (Sep) |  |  | -2.6% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 10.4% |
 | 15:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 3.6% | 3.6% |
-| 15:00 | USD | Moderate | Pending Home Sales (MoM) (Sep) |  | -0.4% | 0.3% |
+| 15:00 | USD | Moderate | Pending Home Sales (MoM) (Sep) |  | -0.7% | 0.3% |
 | 15:00 | USD | Low | Pending Home Sales Index (Sep) |  |  | 71.2 |
 | 16:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 1.2% |
 | 16:00 | USD | Low | Milk Auctions |  |  | 3,928.0 |

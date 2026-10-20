@@ -2,15 +2,14 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | IDR | Foreign Direct Investment (YoY) (Q3) |  |  | 27.40% |
-| 07:00 | GBP | Average Earnings ex Bonus (Aug) |  | 3.6% | 3.5% |
-| 07:00 | CHF | Trade Balance (Sep) |  |  | 3.786B |
-| 07:00 | EUR | German PPI (YoY) (Sep) |  |  | 4.6% |
-| 09:00 | EUR | Current Account (Aug) |  | 29.2B | 27.6B |
-| 09:00 | EUR | Current Account n.s.a. (Aug) |  |  | 36.5B |
-| 10:00 | EUR | Spanish Trade Balance (Aug) |  |  | -5.22B |
-| 10:00 | EUR | Construction Output (MoM) (Aug) |  |  | 0.00% |
-| 10:30 | GBP | 10-Year Treasury Gilt Auction |  |  | 5.383% |
+| 07:00 | GBP | Average Earnings ex Bonus (Aug) | 3.7% | 3.6% | 3.6% |
+| 07:00 | CHF | Trade Balance (Sep) | 1.309B |  | 4.185B |
+| 07:00 | EUR | German PPI (YoY) (Sep) | 6.7% | 6.3% | 4.6% |
+| 09:00 | EUR | Spanish Trade Balance (Aug) | -5.98B |  | -5.22B |
+| 09:00 | EUR | Current Account (Aug) | 8.7B | 29.2B | 27.2B |
+| 09:00 | EUR | Current Account n.s.a. (Aug) | 7.7B |  | 35.9B |
+| 10:00 | GBP | 10-Year Treasury Gilt Auction | 5.418% |  | 5.383% |
+| 10:00 | EUR | Construction Output (MoM) (Aug) | 1.85% |  | 0.19% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 12:00 | CNY | FDI (Sep) |  |  | -5.30% |
 | 13:30 | USD | Building Permits (MoM) (Sep) |  |  | -2.1% |
