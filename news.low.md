@@ -11,10 +11,9 @@
 | 10:00 | GBP | 10-Year Treasury Gilt Auction | 5.418% |  | 5.383% |
 | 10:00 | EUR | Construction Output (MoM) (Aug) | 1.85% |  | 0.19% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 12:00 | CNY | FDI (Sep) |  |  | -5.30% |
-| 13:30 | USD | Building Permits (MoM) (Sep) |  |  | -2.1% |
-| 13:55 | USD | Redbook (YoY) |  |  | 10.4% |
-| 15:00 | USD | Pending Home Sales Index (Sep) |  |  | 71.2 |
+| 13:30 | USD | Building Permits (MoM) (Sep) | -0.2% | -1.3% | -2.1% |
+| 13:55 | USD | Redbook (YoY) | 9.0% |  | 10.4% |
+| 15:00 | USD | Pending Home Sales Index (Sep) | 66.0 |  | 71.2 |
 | 16:00 | NZD | GlobalDairyTrade Price Index |  |  | 1.2% |
 | 16:00 | USD | Milk Auctions |  |  | 3,928.0 |
 | 22:00 | KRW | Manufacturing BSI Index (Jul) |  |  | 72 |

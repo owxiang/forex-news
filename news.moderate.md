@@ -12,10 +12,10 @@
 | 10:00 | EUR | German ZEW Current Conditions (Oct) | -35.9 | -45.0 | -47.1 |
 | 10:00 | EUR | German ZEW Economic Sentiment (Oct) | 28.1 | 30.2 | 34.7 |
 | 10:00 | EUR | ZEW Economic Sentiment (Oct) | 18.5 | 23.6 | 25.8 |
-| 13:15 | USD | ADP Employment Change Weekly |  |  | 24.80K |
-| 13:30 | USD | Building Permits (Sep) |  | 1.390M | 1.403M |
-| 13:30 | USD | Housing Starts (Sep) |  | 1.300M | 1.275M |
-| 13:30 | USD | Housing Starts (MoM) (Sep) |  |  | -2.6% |
-| 15:00 | USD | Atlanta Fed GDPNow (Q3) |  | 3.6% | 3.6% |
-| 15:00 | USD | Pending Home Sales (MoM) (Sep) |  | -0.7% | 0.3% |
-| 21:30 | USD | API Weekly Crude Oil Stock |  |  | -11.120M |
+| 13:15 | USD | ADP Employment Change Weekly | 18.50K |  | 24.80K |
+| 13:30 | USD | Building Permits (Sep) | 1.400M | 1.390M | 1.403M |
+| 13:30 | USD | Housing Starts (Sep) | 1.221M | 1.300M | 1.288M |
+| 13:30 | USD | Housing Starts (MoM) (Sep) | -5.2% | 1.9% | -5.9% |
+| 15:00 | USD | Pending Home Sales (MoM) (Sep) | -7.3% | -0.7% | 0.3% |
+| 15:30 | USD | Atlanta Fed GDPNow (Q3) | 3.5% | 3.6% | 3.6% |
+| 21:30 | USD | API Weekly Crude Oil Stock |  | -1.300M | -11.120M |

@@ -21,19 +21,18 @@
 | 10:00 | EUR | Low | Construction Output (MoM) (Aug) | 1.85% |  | 0.19% |
 | 10:00 | EUR | Moderate | ZEW Economic Sentiment (Oct) | 18.5 | 23.6 | 25.8 |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 12:00 | CNY | Low | FDI (Sep) |  |  | -5.30% |
-| 13:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 24.80K |
-| 13:30 | USD | Moderate | Building Permits (Sep) |  | 1.390M | 1.403M |
-| 13:30 | USD | Low | Building Permits (MoM) (Sep) |  |  | -2.1% |
-| 13:30 | USD | Moderate | Housing Starts (Sep) |  | 1.300M | 1.275M |
-| 13:30 | USD | Moderate | Housing Starts (MoM) (Sep) |  |  | -2.6% |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 10.4% |
-| 15:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 3.6% | 3.6% |
-| 15:00 | USD | Moderate | Pending Home Sales (MoM) (Sep) |  | -0.7% | 0.3% |
-| 15:00 | USD | Low | Pending Home Sales Index (Sep) |  |  | 71.2 |
+| 13:15 | USD | Moderate | ADP Employment Change Weekly | 18.50K |  | 24.80K |
+| 13:30 | USD | Moderate | Building Permits (Sep) | 1.400M | 1.390M | 1.403M |
+| 13:30 | USD | Low | Building Permits (MoM) (Sep) | -0.2% | -1.3% | -2.1% |
+| 13:30 | USD | Moderate | Housing Starts (Sep) | 1.221M | 1.300M | 1.288M |
+| 13:30 | USD | Moderate | Housing Starts (MoM) (Sep) | -5.2% | 1.9% | -5.9% |
+| 13:55 | USD | Low | Redbook (YoY) | 9.0% |  | 10.4% |
+| 15:00 | USD | Moderate | Pending Home Sales (MoM) (Sep) | -7.3% | -0.7% | 0.3% |
+| 15:00 | USD | Low | Pending Home Sales Index (Sep) | 66.0 |  | 71.2 |
+| 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 3.5% | 3.6% | 3.6% |
 | 16:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 1.2% |
 | 16:00 | USD | Low | Milk Auctions |  |  | 3,928.0 |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -11.120M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.300M | -11.120M |
 | 22:00 | KRW | Low | Manufacturing BSI Index (Jul) |  |  | 72 |
 | 22:00 | KRW | Low | PPI (MoM) (Sep) |  |  | 0.2% |
 | 22:00 | KRW | Low | PPI (YoY) (Sep) |  |  | 7.9% |
