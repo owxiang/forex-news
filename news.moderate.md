@@ -1,21 +1,20 @@
-## 20 October 2026 - Moderate Impact Forex News
+## 21 October 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | CNY | China Loan Prime Rate 5Y (Oct) | 3.50% | 3.50% | 3.50% |
-| 02:00 | CNY | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
-| 07:00 | GBP | Average Earnings Index +Bonus (Aug) | 3.7% | 3.8% | 3.9% |
-| 07:00 | GBP | Claimant Count Change (Sep) | 30.3K | 19.4K | 7.0K |
-| 07:00 | GBP | Employment Change 3M/3M (MoM) (Aug) | 102K | 20K | 67K |
-| 07:00 | GBP | Unemployment Rate (Aug) | 4.7% | 4.9% | 4.9% |
-| 07:00 | EUR | German PPI (MoM) (Sep) | 1.9% | 1.5% | 1.1% |
-| 10:00 | EUR | German ZEW Current Conditions (Oct) | -35.9 | -45.0 | -47.1 |
-| 10:00 | EUR | German ZEW Economic Sentiment (Oct) | 28.1 | 30.2 | 34.7 |
-| 10:00 | EUR | ZEW Economic Sentiment (Oct) | 18.5 | 23.6 | 25.8 |
-| 13:15 | USD | ADP Employment Change Weekly | 18.50K |  | 24.80K |
-| 13:30 | USD | Building Permits (Sep) | 1.400M | 1.390M | 1.403M |
-| 13:30 | USD | Housing Starts (Sep) | 1.221M | 1.300M | 1.288M |
-| 13:30 | USD | Housing Starts (MoM) (Sep) | -5.2% | 1.9% | -5.9% |
-| 15:00 | USD | Pending Home Sales (MoM) (Sep) | -7.3% | -0.7% | 0.3% |
-| 15:30 | USD | Atlanta Fed GDPNow (Q3) | 3.5% | 3.6% | 3.6% |
-| 21:30 | USD | API Weekly Crude Oil Stock |  | -1.300M | -11.120M |
+| 00:50 | JPY | Adjusted Trade Balance |  | -0.26T | -0.84T |
+| 00:50 | JPY | Exports (YoY) (Sep) |  | 20.1% | 19.3% |
+| 00:50 | JPY | Trade Balance (Sep) |  | -181.0B | -1,111.9B |
+| 05:15 | EUR | ECB's Lane Speaks |  |  |  |
+| 07:00 | GBP | CPI (MoM) (Sep) |  | 0.3% | 0.5% |
+| 07:00 | GBP | PPI Input (MoM) (Sep) |  | 1.4% | 0.3% |
+| 08:15 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 08:30 | IDR | Interest Rate Decision |  | 6.00% | 5.75% |
+| 12:30 | INR | RBI MPC Meeting Minutes |  |  |  |
+| 14:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 14:15 | EUR | German Buba Mauderer Speaks |  |  |  |
+| 15:30 | USD | Cushing Crude Oil Inventories |  |  | 1.862M |
+| 17:00 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 18:00 | USD | 20-Year Bond Auction |  |  | 5.420% |
+| 22:45 | NZD | CPI (QoQ) (Q3) |  | 0.8% | 1.5% |
+| 22:45 | NZD | CPI (YoY) (Q3) |  |  | 4.1% |
