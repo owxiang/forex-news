@@ -61,8 +61,8 @@
 | 15:30 | USD | Low | Heating Oil Stockpiles | 0.652M |  | -0.448M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -0.1% |  | 0.8% |
 | 15:30 | USD | Low | Gasoline Inventories | -2.952M | -0.400M | 3.518M |
+| 16:30 | BRL | Low | Foreign Exchange Flows | 1.933B |  | 2.415B |
 | 17:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 18:00 | USD | Moderate | 20-Year Bond Auction |  |  | 5.420% |
-| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 2.415B |
+| 20:00 | USD | Moderate | 20-Year Bond Auction | 5.469% |  | 5.420% |
 | 22:45 | NZD | Moderate | CPI (QoQ) (Q3) |  | 0.8% | 1.5% |
 | 22:45 | NZD | Moderate | CPI (YoY) (Q3) |  | 3.8% | 4.1% |

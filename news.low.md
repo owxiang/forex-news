@@ -47,4 +47,4 @@
 | 15:30 | USD | Heating Oil Stockpiles | 0.652M |  | -0.448M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.1% |  | 0.8% |
 | 15:30 | USD | Gasoline Inventories | -2.952M | -0.400M | 3.518M |
-| 18:30 | BRL | Foreign Exchange Flows |  |  | 2.415B |
+| 16:30 | BRL | Foreign Exchange Flows | 1.933B |  | 2.415B |

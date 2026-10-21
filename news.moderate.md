@@ -15,6 +15,6 @@
 | 14:15 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 15:30 | USD | Cushing Crude Oil Inventories | 0.987M |  | 1.862M |
 | 17:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 18:00 | USD | 20-Year Bond Auction |  |  | 5.420% |
+| 20:00 | USD | 20-Year Bond Auction | 5.469% |  | 5.420% |
 | 22:45 | NZD | CPI (QoQ) (Q3) |  | 0.8% | 1.5% |
 | 22:45 | NZD | CPI (YoY) (Q3) |  | 3.8% | 4.1% |
