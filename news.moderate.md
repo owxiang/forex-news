@@ -13,7 +13,7 @@
 | 12:30 | INR | RBI MPC Meeting Minutes |  |  |  |
 | 14:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 14:15 | EUR | German Buba Mauderer Speaks |  |  |  |
-| 15:30 | USD | Cushing Crude Oil Inventories |  |  | 1.862M |
+| 15:30 | USD | Cushing Crude Oil Inventories | 0.987M |  | 1.862M |
 | 17:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | 20-Year Bond Auction |  |  | 5.420% |
 | 22:45 | NZD | CPI (QoQ) (Q3) |  | 0.8% | 1.5% |
