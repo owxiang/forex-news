@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:50 | JPY | Moderate | Adjusted Trade Balance |  | -0.26T | -0.84T |
-| 00:50 | JPY | Moderate | Exports (YoY) (Sep) |  | 20.1% | 19.3% |
-| 00:50 | JPY | Low | Imports (YoY) (Sep) |  | 19.6% | 28.0% |
-| 00:50 | JPY | Moderate | Trade Balance (Sep) |  | -181.0B | -1,111.9B |
-| 03:00 | NZD | Low | Credit Card Spending (YoY) (Sep) |  |  | 3.5% |
+| 00:50 | JPY | Moderate | Adjusted Trade Balance | -0.70T | -0.26T | -0.80T |
+| 00:50 | JPY | Moderate | Exports (YoY) (Sep) | 16.7% | 20.1% | 19.3% |
+| 00:50 | JPY | Low | Imports (YoY) (Sep) | 18.9% | 19.6% | 28.0% |
+| 00:50 | JPY | Moderate | Trade Balance (Sep) | -536.6B | -181.0B | -1,111.9B |
+| 03:00 | NZD | Low | Credit Card Spending (YoY) (Sep) | 6.9% |  | 3.6% |
 | 04:00 | KRW | Low | Manufacturing BSI Index (Jul) |  |  | 72 |
 | 05:15 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 07:00 | GBP | Low | Core CPI (YoY) (Sep) |  | 2.8% | 2.6% |

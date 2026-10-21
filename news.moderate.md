@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Adjusted Trade Balance |  | -0.26T | -0.84T |
-| 00:50 | JPY | Exports (YoY) (Sep) |  | 20.1% | 19.3% |
-| 00:50 | JPY | Trade Balance (Sep) |  | -181.0B | -1,111.9B |
+| 00:50 | JPY | Adjusted Trade Balance | -0.70T | -0.26T | -0.80T |
+| 00:50 | JPY | Exports (YoY) (Sep) | 16.7% | 20.1% | 19.3% |
+| 00:50 | JPY | Trade Balance (Sep) | -536.6B | -181.0B | -1,111.9B |
 | 05:15 | EUR | ECB's Lane Speaks |  |  |  |
 | 07:00 | GBP | CPI (MoM) (Sep) |  | 0.3% | 0.5% |
 | 07:00 | GBP | PPI Input (MoM) (Sep) |  | 1.4% | 0.3% |

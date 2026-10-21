@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Imports (YoY) (Sep) |  | 19.6% | 28.0% |
-| 03:00 | NZD | Credit Card Spending (YoY) (Sep) |  |  | 3.5% |
+| 00:50 | JPY | Imports (YoY) (Sep) | 18.9% | 19.6% | 28.0% |
+| 03:00 | NZD | Credit Card Spending (YoY) (Sep) | 6.9% |  | 3.6% |
 | 04:00 | KRW | Manufacturing BSI Index (Jul) |  |  | 72 |
 | 07:00 | GBP | Core CPI (YoY) (Sep) |  | 2.8% | 2.6% |
 | 07:00 | GBP | Core CPI (MoM) (Sep) |  |  | 0.3% |
