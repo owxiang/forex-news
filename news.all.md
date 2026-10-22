@@ -41,10 +41,10 @@
 | 15:00 | USD | Moderate | US Leading Index (MoM) (Sep) | 0.0% | -0.1% | -0.1% |
 | 15:00 | EUR | Low | Consumer Confidence (Oct) | -17.9 | -17.0 | -16.8 |
 | 15:30 | USD | Low | Natural Gas Storage | 77B | 80B | 67B |
-| 16:00 | USD | Low | KC Fed Composite Index (Oct) |  |  | 14 |
-| 16:00 | USD | Low | KC Fed Manufacturing Index (Oct) |  |  | 20 |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.000% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.050% |
+| 16:00 | USD | Low | KC Fed Composite Index (Oct) | 11 | 12 | 14 |
+| 16:00 | USD | Low | KC Fed Manufacturing Index (Oct) | 16 |  | 20 |
+| 16:30 | USD | Low | 4-Week Bill Auction | 3.945% |  | 4.000% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 4.015% |  | 4.050% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,756B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.030T |
 | 23:00 | AUD | Low | S&P Global Manufacturing & Services PMI (Oct) |  |  | 51.30 |
