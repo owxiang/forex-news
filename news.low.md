@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Foreign Bonds Buying |  |  | -339.7B |
-| 00:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 3,521.5B |
+| 00:50 | JPY | Foreign Bonds Buying | -161.6B |  | -339.9B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks | -66.5B |  | 3,545.5B |
 | 02:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates |  |  |  |
-| 02:00 | KRW | Interest Rate Decision (Oct) |  | 3.00% | 3.00% |
+| 02:00 | KRW | Interest Rate Decision (Oct) | 3.00% | 3.00% | 3.00% |
 | 05:00 | GBP | Car Registration (MoM) (Sep) |  |  | -39.8% |
 | 05:00 | GBP | Car Registration (YoY) (Sep) |  |  | 13.7% |
 | 05:00 | EUR | Italian Car Registration (MoM) (Sep) |  |  | -43.6% |
