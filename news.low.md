@@ -21,18 +21,19 @@
 | 09:30 | HKD | CPI (MoM) (Sep) | 0.30% |  | 0.10% |
 | 09:30 | HKD | CPI (YoY) (Sep) | 1.90% | 1.80% | 1.90% |
 | 09:30 | HKD | Unemployment Rate (Sep) | 3.9% |  | 3.8% |
-| 5 min | GBP | CBI Industrial Trends Orders (Oct) |  | -20 | -9 |
-| 13:00 | MXN | 1st Half-Month Core CPI (Oct) |  | 0.18% | 0.17% |
-| 13:00 | MXN | 1st Half-Month CPI (Oct) |  | 0.37% | 0.33% |
-| 13:00 | MXN | Unemployment Rate (Sep) |  |  | 2.70% |
-| 13:00 | MXN | Unemployment Rate n.s.a. (Sep) |  | 3.00% | 3.00% |
+| 11:00 | GBP | CBI Industrial Trends Orders (Oct) | -32 | -20 | -9 |
+| 13:00 | MXN | 1st Half-Month Core CPI (Oct) | 0.25% | 0.18% | 0.17% |
+| 13:00 | MXN | 1st Half-Month CPI (Oct) | 0.41% | 0.37% | 0.33% |
+| 13:00 | MXN | Unemployment Rate (Sep) | 2.60% |  | 2.70% |
+| 13:00 | MXN | Unemployment Rate n.s.a. (Sep) | 2.80% | 3.00% | 3.00% |
 | 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  | 200.00K | 198.50K |
-| 13:30 | CAD | IPPI (MoM) (Sep) |  | 0.9% | 1.3% |
-| 13:30 | CAD | IPPI (YoY) (Sep) |  |  | 13.5% |
-| 13:30 | CAD | RMPI (YoY) (Sep) |  |  | 22.8% |
-| 15:00 | EUR | Consumer Confidence (Oct) |  | -17.0 | -16.5 |
-| 15:30 | USD | Natural Gas Storage |  | 80B | 67B |
+| 13:00 | BRL | Federal Tax Revenue (Sep) | 239.38B |  | 235.57B |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 197.75K | 200.00K | 198.75K |
+| 13:30 | CAD | IPPI (YoY) (Sep) | 14.5% |  | 13.2% |
+| 13:30 | CAD | IPPI (MoM) (Sep) | 2.0% | 0.9% | 1.2% |
+| 13:30 | CAD | RMPI (YoY) (Sep) | 27.0% |  | 22.9% |
+| 15:00 | EUR | Consumer Confidence (Oct) | -17.9 | -17.0 | -16.8 |
+| 15:30 | USD | Natural Gas Storage | 77B | 80B | 67B |
 | 16:00 | USD | KC Fed Composite Index (Oct) |  |  | 14 |
 | 16:00 | USD | KC Fed Manufacturing Index (Oct) |  |  | 20 |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.000% |
