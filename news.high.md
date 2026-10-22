@@ -1,5 +1,6 @@
-## 22 October 2026 - High Impact Forex News
+## 23 October 2026 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:30 | USD | Initial Jobless Claims | 194K | 200K | 200K |
+| 14:45 | USD | S&P Global Manufacturing PMI (Oct) |  | 55.4 | 55.9 |
+| 14:45 | USD | S&P Global Services PMI (Oct) |  | 57.9 | 58.8 |
