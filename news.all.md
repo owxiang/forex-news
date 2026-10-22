@@ -6,24 +6,24 @@
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -66.5B |  | 3,545.5B |
 | 02:00 | KRW | Low | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates |  |  |  |
 | 02:00 | KRW | Low | Interest Rate Decision (Oct) | 3.00% | 3.00% | 3.00% |
-| 05:00 | GBP | Low | Car Registration (MoM) (Sep) |  |  | -39.8% |
-| 05:00 | GBP | Low | Car Registration (YoY) (Sep) |  |  | 13.7% |
-| 05:00 | EUR | Low | Italian Car Registration (MoM) (Sep) |  |  | -43.6% |
-| 05:00 | EUR | Low | Italian Car Registration (YoY) (Sep) |  |  | 3.2% |
-| 05:00 | EUR | Low | German Car Registration (MoM) (Sep) |  |  | -20.7% |
-| 05:00 | EUR | Low | German Car Registration (YoY) (Sep) |  |  | 2.6% |
-| 05:00 | EUR | Low | French Car Registration (MoM) (Sep) |  |  | -25.6% |
-| 05:00 | EUR | Low | French Car Registration (YoY) (Sep) |  |  | 7.4% |
-| 07:00 | NOK | Low | Industrial Confidence (Q3) |  |  | 2.6 |
-| 07:00 | NOK | Low | Unemployment Rate (Sep) |  |  | 4.5% |
-| 07:45 | EUR | Low | French Business Survey (Oct) |  | 101 | 101 |
+| 05:00 | GBP | Low | Car Registration (MoM) (Sep) | 272.0% |  | -39.8% |
+| 05:00 | GBP | Low | Car Registration (YoY) (Sep) | 12.0% |  | 13.7% |
+| 05:00 | EUR | Low | Italian Car Registration (MoM) (Sep) | 100.5% |  | -43.6% |
+| 05:00 | EUR | Low | Italian Car Registration (YoY) (Sep) | 9.8% |  | 3.2% |
+| 05:00 | EUR | Low | German Car Registration (MoM) (Sep) | 20.8% |  | -20.7% |
+| 05:00 | EUR | Low | German Car Registration (YoY) (Sep) | 9.0% |  | 2.6% |
+| 05:00 | EUR | Low | French Car Registration (MoM) (Sep) | 66.0% |  | -25.6% |
+| 05:00 | EUR | Low | French Car Registration (YoY) (Sep) | 11.6% |  | 7.4% |
+| 07:00 | NOK | Low | Industrial Confidence (Q3) | 3.4 |  | 2.5 |
+| 07:00 | NOK | Low | Unemployment Rate (Sep) | 5.0% |  | 4.6% |
+| 07:45 | EUR | Low | French Business Survey (Oct) | 105 | 101 | 101 |
 | 08:30 | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
-| 09:30 | HKD | Low | CPI (MoM) (Sep) |  |  | 0.10% |
-| 09:30 | HKD | Low | CPI (YoY) (Sep) |  | 1.80% | 1.70% |
-| 09:30 | HKD | Low | Unemployment Rate (Sep) |  |  | 3.8% |
-| 11:00 | GBP | Low | CBI Industrial Trends Orders (Oct) |  | -20 | -9 |
-| 11:50 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 12:00 | CNY | Low | FDI (Sep) |  |  | -5.30% |
+| 09:30 | CNY | Low | FDI (Sep) | -4.30% |  | -5.30% |
+| 09:30 | HKD | Low | CPI (MoM) (Sep) | 0.30% |  | 0.10% |
+| 09:30 | HKD | Low | CPI (YoY) (Sep) | 1.90% | 1.80% | 1.90% |
+| 09:30 | HKD | Low | Unemployment Rate (Sep) | 3.9% |  | 3.8% |
+| 5 min | GBP | Low | CBI Industrial Trends Orders (Oct) |  | -20 | -9 |
+| 55 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 13:00 | MXN | Low | 1st Half-Month Core CPI (Oct) |  | 0.18% | 0.17% |
 | 13:00 | MXN | Low | 1st Half-Month CPI (Oct) |  | 0.37% | 0.33% |
 | 13:00 | MXN | Low | Unemployment Rate (Sep) |  |  | 2.70% |
@@ -37,9 +37,9 @@
 | 13:30 | CAD | Moderate | RMPI (MoM) (Sep) |  | 3.1% | 3.1% |
 | 13:30 | CAD | Low | RMPI (YoY) (Sep) |  |  | 22.8% |
 | 14:30 | CAD | Moderate | New Housing Price Index (MoM) (Sep) |  | -0.1% | -0.1% |
-| 15:00 | USD | Moderate | US Leading Index (MoM) (Sep) |  | -0.2% | -0.1% |
+| 15:00 | USD | Moderate | US Leading Index (MoM) (Sep) |  | -0.1% | -0.1% |
 | 15:00 | EUR | Low | Consumer Confidence (Oct) |  | -17.0 | -16.5 |
-| 15:30 | USD | Low | Natural Gas Storage |  | 83B | 67B |
+| 15:30 | USD | Low | Natural Gas Storage |  | 80B | 67B |
 | 16:00 | USD | Low | KC Fed Composite Index (Oct) |  |  | 14 |
 | 16:00 | USD | Low | KC Fed Manufacturing Index (Oct) |  |  | 20 |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.000% |
