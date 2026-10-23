@@ -29,8 +29,8 @@
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Oct) | 3.5% | 3.5% | 3.4% |
 | 15:00 | USD | Michigan Consumer Expectations (Oct) | 48.8 | 47.3 | 46.3 |
 | 15:00 | USD | Michigan Consumer Sentiment (Oct) | 48.0 | 46.3 | 48.1 |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 459 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 603 |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 460 |  | 459 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count | 603 |  | 603 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -107.0K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 100.3K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 207.9K |

@@ -54,8 +54,8 @@
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Oct) | 48.8 | 47.3 | 46.3 |
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Oct) | 48.0 | 46.3 | 48.1 |
 | 15:00 | USD | Low | Michigan Current Conditions (Oct) | 46.7 | 44.7 | 50.9 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 459 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 603 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 460 |  | 459 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 603 |  | 603 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -107.0K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -1.1K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 68.5K |
