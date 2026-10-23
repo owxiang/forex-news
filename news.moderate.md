@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | JPY | National Core CPI (YoY) (Sep) |  | 2.1% | 1.7% |
-| 00:30 | JPY | National CPI (MoM) (Sep) |  |  | 0.1% |
-| 01:30 | JPY | S&P Global Services PMI (Oct) |  |  | 51.3 |
+| 00:30 | JPY | National Core CPI (YoY) (Sep) | 2.1% | 2.1% | 1.7% |
+| 00:30 | JPY | National CPI (MoM) (Sep) | 0.0% |  | 0.1% |
+| 01:30 | JPY | S&P Global Services PMI (Oct) | 52.0 |  | 51.3 |
 | 06:00 | SGD | Core CPI (YoY) (Sep) |  | 2.30% | 2.20% |
 | 06:00 | SGD | CPI (YoY) (Sep) |  | 2.3% | 2.3% |
 | 07:00 | GBP | Core Retail Sales (YoY) (Sep) |  | 1.5% | 2.7% |

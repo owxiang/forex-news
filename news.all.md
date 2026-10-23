@@ -3,15 +3,15 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | GfK Consumer Confidence (Oct) | -24 | -14 | -13 |
-| 00:30 | JPY | Low | CPI, n.s.a (MoM) (Sep) |  |  | 0.1% |
-| 00:30 | JPY | Moderate | National Core CPI (YoY) (Sep) |  | 2.1% | 1.7% |
-| 00:30 | JPY | Low | National CPI (YoY) (Sep) |  |  | 1.9% |
-| 00:30 | JPY | Moderate | National CPI (MoM) (Sep) |  |  | 0.1% |
-| 01:30 | JPY | Low | Manufacturing & Services PMI (Oct) |  |  | 52.30 |
-| 01:30 | JPY | Low | S&P Global Manufacturing PMI (Oct) |  | 54.5 | 54.1 |
-| 01:30 | JPY | Moderate | S&P Global Services PMI (Oct) |  |  | 51.3 |
-| 01:30 | SGD | Low | URA Property Index (QoQ) (Q3) |  | 1.40% | 0.50% |
-| 04:00 | IDR | Low | M2 Money Supply (YoY) (Sep) |  |  | 8.20% |
+| 00:30 | JPY | Low | CPI, n.s.a (MoM) (Sep) | 0.0% |  | 0.1% |
+| 00:30 | JPY | Moderate | National Core CPI (YoY) (Sep) | 2.1% | 2.1% | 1.7% |
+| 00:30 | JPY | Low | National CPI (YoY) (Sep) | 2.1% |  | 1.9% |
+| 00:30 | JPY | Moderate | National CPI (MoM) (Sep) | 0.0% |  | 0.1% |
+| 01:30 | JPY | Low | Manufacturing & Services PMI (Oct) | 52.30 |  | 52.30 |
+| 01:30 | JPY | Low | S&P Global Manufacturing PMI (Oct) | 53.3 | 54.5 | 54.1 |
+| 01:30 | JPY | Moderate | S&P Global Services PMI (Oct) | 52.0 |  | 51.3 |
+| 01:30 | SGD | Low | URA Property Index (QoQ) (Q3) | 1.40% | 1.40% | 0.50% |
+| 04:00 | IDR | Low | M2 Money Supply (YoY) (Sep) | 8.30% |  | 8.20% |
 | 06:00 | INR | Low | HSBC India Manufacturing PMI (Oct) |  |  | 55.1 |
 | 06:00 | INR | Low | HSBC India Services PMI (Oct) |  |  | 55.2 |
 | 06:00 | INR | Low | HSBC Manufacturing & Services PMI (Oct) |  |  | 55.90 |

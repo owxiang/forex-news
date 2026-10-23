@@ -3,12 +3,12 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | GfK Consumer Confidence (Oct) | -24 | -14 | -13 |
-| 00:30 | JPY | CPI, n.s.a (MoM) (Sep) |  |  | 0.1% |
-| 00:30 | JPY | National CPI (YoY) (Sep) |  |  | 1.9% |
-| 01:30 | JPY | Manufacturing & Services PMI (Oct) |  |  | 52.30 |
-| 01:30 | JPY | S&P Global Manufacturing PMI (Oct) |  | 54.5 | 54.1 |
-| 01:30 | SGD | URA Property Index (QoQ) (Q3) |  | 1.40% | 0.50% |
-| 04:00 | IDR | M2 Money Supply (YoY) (Sep) |  |  | 8.20% |
+| 00:30 | JPY | CPI, n.s.a (MoM) (Sep) | 0.0% |  | 0.1% |
+| 00:30 | JPY | National CPI (YoY) (Sep) | 2.1% |  | 1.9% |
+| 01:30 | JPY | Manufacturing & Services PMI (Oct) | 52.30 |  | 52.30 |
+| 01:30 | JPY | S&P Global Manufacturing PMI (Oct) | 53.3 | 54.5 | 54.1 |
+| 01:30 | SGD | URA Property Index (QoQ) (Q3) | 1.40% | 1.40% | 0.50% |
+| 04:00 | IDR | M2 Money Supply (YoY) (Sep) | 8.30% |  | 8.20% |
 | 06:00 | INR | HSBC India Manufacturing PMI (Oct) |  |  | 55.1 |
 | 06:00 | INR | HSBC India Services PMI (Oct) |  |  | 55.2 |
 | 06:00 | INR | HSBC Manufacturing & Services PMI (Oct) |  |  | 55.90 |
