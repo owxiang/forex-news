@@ -9,17 +9,17 @@
 | 01:30 | JPY | S&P Global Manufacturing PMI (Oct) | 53.3 | 54.5 | 54.1 |
 | 01:30 | SGD | URA Property Index (QoQ) (Q3) | 1.40% | 1.40% | 0.50% |
 | 04:00 | IDR | M2 Money Supply (YoY) (Sep) | 8.30% |  | 8.20% |
-| 06:00 | INR | HSBC India Manufacturing PMI (Oct) |  |  | 55.1 |
-| 06:00 | INR | HSBC India Services PMI (Oct) |  |  | 55.2 |
-| 06:00 | INR | HSBC Manufacturing & Services PMI (Oct) |  |  | 55.90 |
-| 06:00 | SGD | CPI (MoM) (Sep) |  |  | 0.60% |
-| 08:15 | EUR | HCOB France Composite PMI (Oct) |  | 50.5 | 51.1 |
-| 08:30 | EUR | HCOB Germany Composite PMI (Oct) |  | 53.5 | 53.8 |
+| 06:00 | INR | HSBC India Manufacturing PMI (Oct) | 54.9 |  | 55.1 |
+| 06:00 | INR | HSBC India Services PMI (Oct) | 56.2 |  | 55.2 |
+| 06:00 | INR | HSBC Manufacturing & Services PMI (Oct) | 56.70 |  | 55.90 |
+| 06:00 | SGD | CPI (MoM) (Sep) | 0.20% |  | 0.60% |
+| 08:15 | EUR | HCOB France Composite PMI (Oct) | 48.4 | 50.5 | 51.1 |
+| 08:30 | EUR | HCOB Germany Composite PMI (Oct) | 52.8 | 53.3 | 53.8 |
 | 12:30 | INR | FX Reserves, USD |  |  | 726.03B |
 | 13:00 | MXN | Economic Activity (YoY) (Aug) |  | 3.10% | 3.40% |
 | 13:00 | MXN | Economic Activity (MoM) (Aug) |  | 0.30% | 0.80% |
-| 13:00 | BRL | Mid-Month CPI (YoY) (Oct) |  | 4.73% | 4.47% |
 | 13:00 | BRL | Mid-Month CPI (MoM) (Oct) |  | 0.43% | 0.70% |
+| 13:00 | BRL | Mid-Month CPI (YoY) (Oct) |  | 4.73% | 4.47% |
 | 13:30 | CAD | Manufacturing Sales (MoM) (Sep) |  |  | 1.1% |
 | 15:00 | USD | Michigan Current Conditions (Oct) |  | 44.7 | 50.9 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -1.1K |
