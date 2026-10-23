@@ -2,5 +2,5 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 14:45 | USD | S&P Global Manufacturing PMI (Oct) |  | 55.4 | 55.9 |
-| 14:45 | USD | S&P Global Services PMI (Oct) |  | 57.9 | 58.8 |
+| 14:45 | USD | S&P Global Manufacturing PMI (Oct) | 56.0 | 55.4 | 55.9 |
+| 14:45 | USD | S&P Global Services PMI (Oct) | 57.9 | 57.9 | 58.8 |

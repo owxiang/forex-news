@@ -18,8 +18,8 @@
 | 06:00 | SGD | Moderate | Core CPI (YoY) (Sep) | 2.00% | 2.30% | 2.20% |
 | 06:00 | SGD | Low | CPI (MoM) (Sep) | 0.20% |  | 0.60% |
 | 06:00 | SGD | Moderate | CPI (YoY) (Sep) | 2.2% | 2.3% | 2.3% |
-| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Sep) | 0.8% | 1.5% | 2.9% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Sep) | -0.7% | -0.1% | 0.9% |
+| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Sep) | 0.8% | 1.5% | 2.9% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Sep) | -0.4% | -0.1% | 0.7% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Sep) | 0.8% | 1.0% | 2.7% |
 | 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Oct) | 49.3 | 50.5 | 50.6 |
@@ -34,23 +34,26 @@
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (Oct) | 53.1 | 51.8 | 52.0 |
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Oct) | 52.8 | 51.8 | 51.9 |
 | 09:30 | GBP | Moderate | S&P Global Services PMI (Oct) | 53.1 | 51.8 | 52.1 |
-| 12:30 | INR | Low | FX Reserves, USD |  |  | 726.03B |
-| 13:00 | MXN | Low | Economic Activity (YoY) (Aug) |  | 3.10% | 3.40% |
-| 13:00 | MXN | Low | Economic Activity (MoM) (Aug) |  | 0.30% | 0.80% |
-| 13:00 | BRL | Low | Mid-Month CPI (MoM) (Oct) |  | 0.43% | 0.70% |
-| 13:00 | BRL | Low | Mid-Month CPI (YoY) (Oct) |  | 4.73% | 4.47% |
-| 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Aug) |  | 1.1% | -0.7% |
-| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Sep) |  |  | 1.1% |
-| 13:30 | CAD | Moderate | Retail Sales (MoM) (Aug) |  | 1.3% | -0.7% |
-| 13:31 | CAD | Moderate | Retail Sales (MoM) (Sep) |  |  |  |
-| 14:45 | USD | High | S&P Global Manufacturing PMI (Oct) |  | 55.4 | 55.9 |
-| 14:45 | USD | Moderate | S&P Global Composite PMI (Oct) |  |  | 58.4 |
-| 14:45 | USD | High | S&P Global Services PMI (Oct) |  | 57.9 | 58.8 |
-| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Oct) |  | 4.7% | 4.6% |
-| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Oct) |  | 3.5% | 3.4% |
-| 15:00 | USD | Moderate | Michigan Consumer Expectations (Oct) |  | 47.3 | 46.3 |
-| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Oct) |  | 46.3 | 48.1 |
-| 15:00 | USD | Low | Michigan Current Conditions (Oct) |  | 44.7 | 50.9 |
+| 12:30 | INR | Low | Bank Loan Growth | 18.2% |  | 18.1% |
+| 12:30 | INR | Low | Deposit Growth | 16.7% |  | 17.3% |
+| 12:30 | INR | Low | FX Reserves, USD | 721.02B |  | 726.03B |
+| 12:30 | INR | Low | M3 Money Supply | 16.0% |  | 16.9% |
+| 13:00 | MXN | Low | Economic Activity (MoM) (Aug) | 0.60% | 0.30% | 0.50% |
+| 13:00 | MXN | Low | Economic Activity (YoY) (Aug) | 3.30% | 3.10% | 3.40% |
+| 13:00 | BRL | Low | Mid-Month CPI (MoM) (Oct) | 0.32% | 0.43% | 0.70% |
+| 13:00 | BRL | Low | Mid-Month CPI (YoY) (Oct) | 4.62% | 4.73% | 4.47% |
+| 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Aug) | 1.2% | 1.1% | -0.7% |
+| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Sep) | 0.1% |  | 1.1% |
+| 13:30 | CAD | Moderate | Retail Sales (MoM) (Aug) | 1.2% | 1.3% | -0.7% |
+| 13:31 | CAD | Moderate | Retail Sales (MoM) (Sep) | 0.7% |  | 1.2% |
+| 14:45 | USD | High | S&P Global Manufacturing PMI (Oct) | 56.0 | 55.4 | 55.9 |
+| 14:45 | USD | Moderate | S&P Global Composite PMI (Oct) | 57.6 | 57.6 | 58.4 |
+| 14:45 | USD | High | S&P Global Services PMI (Oct) | 57.9 | 57.9 | 58.8 |
+| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Oct) | 4.7% | 4.7% | 4.6% |
+| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Oct) | 3.5% | 3.5% | 3.4% |
+| 15:00 | USD | Moderate | Michigan Consumer Expectations (Oct) | 48.8 | 47.3 | 46.3 |
+| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Oct) | 48.0 | 46.3 | 48.1 |
+| 15:00 | USD | Low | Michigan Current Conditions (Oct) | 46.7 | 44.7 | 50.9 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 459 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 603 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -107.0K |

@@ -15,13 +15,16 @@
 | 06:00 | SGD | CPI (MoM) (Sep) | 0.20% |  | 0.60% |
 | 08:15 | EUR | HCOB France Composite PMI (Oct) | 48.4 | 50.5 | 51.1 |
 | 08:30 | EUR | HCOB Germany Composite PMI (Oct) | 52.8 | 53.3 | 53.8 |
-| 12:30 | INR | FX Reserves, USD |  |  | 726.03B |
-| 13:00 | MXN | Economic Activity (YoY) (Aug) |  | 3.10% | 3.40% |
-| 13:00 | MXN | Economic Activity (MoM) (Aug) |  | 0.30% | 0.80% |
-| 13:00 | BRL | Mid-Month CPI (MoM) (Oct) |  | 0.43% | 0.70% |
-| 13:00 | BRL | Mid-Month CPI (YoY) (Oct) |  | 4.73% | 4.47% |
-| 13:30 | CAD | Manufacturing Sales (MoM) (Sep) |  |  | 1.1% |
-| 15:00 | USD | Michigan Current Conditions (Oct) |  | 44.7 | 50.9 |
+| 12:30 | INR | Bank Loan Growth | 18.2% |  | 18.1% |
+| 12:30 | INR | Deposit Growth | 16.7% |  | 17.3% |
+| 12:30 | INR | FX Reserves, USD | 721.02B |  | 726.03B |
+| 12:30 | INR | M3 Money Supply | 16.0% |  | 16.9% |
+| 13:00 | MXN | Economic Activity (MoM) (Aug) | 0.60% | 0.30% | 0.50% |
+| 13:00 | MXN | Economic Activity (YoY) (Aug) | 3.30% | 3.10% | 3.40% |
+| 13:00 | BRL | Mid-Month CPI (MoM) (Oct) | 0.32% | 0.43% | 0.70% |
+| 13:00 | BRL | Mid-Month CPI (YoY) (Oct) | 4.62% | 4.73% | 4.47% |
+| 13:30 | CAD | Manufacturing Sales (MoM) (Sep) | 0.1% |  | 1.1% |
+| 15:00 | USD | Michigan Current Conditions (Oct) | 46.7 | 44.7 | 50.9 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -1.1K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 68.5K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 358.4K |
