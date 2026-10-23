@@ -25,14 +25,14 @@
 | 13:00 | BRL | Mid-Month CPI (YoY) (Oct) | 4.62% | 4.73% | 4.47% |
 | 13:30 | CAD | Manufacturing Sales (MoM) (Sep) | 0.1% |  | 1.1% |
 | 15:00 | USD | Michigan Current Conditions (Oct) | 46.7 | 44.7 | 50.9 |
-| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -1.1K |
-| 20:30 | USD | CFTC Copper speculative net positions |  |  | 68.5K |
-| 20:30 | USD | CFTC Corn speculative net positions |  |  | 358.4K |
-| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -233.6K |
-| 20:30 | USD | CFTC Silver speculative net positions |  |  | 22.6K |
-| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 271.1K |
-| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -17.6K |
-| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -94.8K |
-| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 15.2K |
-| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -22.1K |
-| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -47.0K |
+| 20:30 | USD | CFTC Aluminium speculative net positions | -1.0K |  | -1.1K |
+| 20:30 | USD | CFTC Copper speculative net positions | 57.4K |  | 68.5K |
+| 20:30 | USD | CFTC Corn speculative net positions | 286.7K |  | 358.4K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions | -241.3K |  | -233.6K |
+| 20:30 | USD | CFTC Silver speculative net positions | 19.8K |  | 22.6K |
+| 20:30 | USD | CFTC Soybeans speculative net positions | 246.6K |  | 271.1K |
+| 20:30 | USD | CFTC Wheat speculative net positions | -29.3K |  | -17.6K |
+| 20:30 | CAD | CFTC CAD speculative net positions | -74.7K |  | -94.8K |
+| 20:30 | MXN | CFTC MXN speculative net positions | 17.0K |  | 15.2K |
+| 20:30 | CHF | CFTC CHF speculative net positions | -18.1K |  | -22.1K |
+| 20:30 | NZD | CFTC NZD speculative net positions | -58.1K |  | -47.0K |
