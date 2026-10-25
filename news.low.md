@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 22:10 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
+| 21:10 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
