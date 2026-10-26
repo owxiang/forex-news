@@ -20,7 +20,7 @@
 | 14:30 | USD | Dallas Fed Mfg Business Index (Oct) | 13.4 | 8.8 | 9.8 |
 | 16:20 | USD | 3-Month Bill Auction | 4.050% |  | 4.095% |
 | 16:20 | USD | 6-Month Bill Auction | 4.210% |  | 4.220% |
-| 21:00 | KRW | Consumer Confidence (Oct) |  |  | 106.6 |
+| 21:00 | KRW | Consumer Confidence (Oct) | 105.4 |  | 106.6 |
 | 23:00 | KRW | GDP (QoQ) (Q3) |  | 0.7% | 0.6% |
 | 23:00 | KRW | GDP (YoY) (Q3) |  | 3.0% | 3.7% |
 | 23:50 | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 3.7% | 3.7% |
