@@ -2,21 +2,21 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 05:00 | JPY | Low | Coincident Indicator (MoM) (Aug) |  | -1.9% | 1.7% |
-| 05:00 | JPY | Low | Leading Index (MoM) (Aug) |  | 0.4% | 1.5% |
-| 05:00 | JPY | Low | Leading Index (Aug) |  | 118.0 | 117.7 |
-| 05:00 | SGD | Low | Industrial Production (YoY) (Sep) |  |  | 15.4% |
-| 05:00 | SGD | Low | Industrial Production (MoM) (Sep) |  |  | -0.5% |
+| 05:00 | JPY | Low | Coincident Indicator (MoM) (Aug) | -1.8% | -1.9% | 1.7% |
+| 05:00 | JPY | Low | Leading Index (MoM) (Aug) | 0.4% | 0.4% | 1.5% |
+| 05:00 | JPY | Low | Leading Index (Aug) | 118.0 | 118.0 | 117.7 |
+| 05:00 | SGD | Low | Industrial Production (YoY) (Sep) | 3.4% |  | 15.4% |
+| 05:00 | SGD | Low | Industrial Production (MoM) (Sep) | -3.9% |  | -1.0% |
 | 06:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 07:00 | EUR | Low | Spanish PPI (YoY) (Sep) |  |  | 13.2% |
-| 09:00 | EUR | Moderate | German Business Expectations (Oct) |  |  | 90.4 |
-| 09:00 | EUR | Moderate | German Current Assessment (Oct) |  |  | 89.5 |
-| 09:00 | EUR | Moderate | German Ifo Business Climate Index (Oct) |  | 90.0 | 89.9 |
+| 08:00 | EUR | Low | Spanish PPI (YoY) (Sep) | 18.3% |  | 13.2% |
+| 09:00 | EUR | Moderate | German Business Expectations (Oct) | 91.6 | 90.0 | 90.4 |
+| 09:00 | EUR | Moderate | German Current Assessment (Oct) | 88.8 | 89.9 | 89.5 |
+| 09:00 | EUR | Moderate | German Ifo Business Climate Index (Oct) | 90.2 | 90.0 | 89.9 |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Oct) |  | -47 | -55 |
 | 11:00 | BRL | Low | FGV Consumer confidence (Oct) |  |  | 84.2 |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 11:30 | BRL | Low | Current Account (USD) (Sep) |  |  | -5.06B |
-| 11:30 | BRL | Low | Foreign direct investment (USD) (Sep) |  |  | 7.40B |
+| 11:30 | BRL | Low | Current Account (USD) (Sep) |  | -5.00B | -5.06B |
+| 11:30 | BRL | Low | Foreign direct investment (USD) (Sep) |  | 6.50B | 7.40B |
 | 12:30 | USD | Low | Chicago Fed National Activity (Sep) |  |  | -0.04 |
 | 13:00 | EUR | Low | French 12-Month BTF Auction |  |  | 3.292% |
 | 13:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.750% |
