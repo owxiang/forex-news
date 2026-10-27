@@ -9,7 +9,7 @@
 | 13:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Aug) | 2.7% | 2.6% | 2.5% |
 | 13:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Aug) | -0.4% |  | 0.0% |
 | 14:00 | USD | New Home Sales (MoM) (Sep) | -0.6% | -4.5% | 5.1% |
-| 15:30 | USD | Atlanta Fed GDPNow (Q3) |  | 3.5% | 3.5% |
-| 17:00 | USD | 5-Year Note Auction |  |  | 5.033% |
+| 15:40 | USD | Atlanta Fed GDPNow (Q3) | 3.4% | 3.5% | 3.5% |
+| 17:00 | USD | 5-Year Note Auction | 4.708% |  | 5.033% |
 | 17:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 20:30 | USD | API Weekly Crude Oil Stock |  | 0.800M | -4.930M |

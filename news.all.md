@@ -37,10 +37,10 @@
 | 14:00 | USD | Low | Richmond Manufacturing Index (Oct) | -2 | 0 | -2 |
 | 14:00 | USD | Low | Richmond Manufacturing Shipments (Oct) | 0 |  | -5 |
 | 14:00 | USD | Low | Richmond Services Index (Oct) | 2 |  | 0 |
-| 14:30 | USD | Low | Dallas Fed Services Revenues (Oct) |  |  | -0.9 |
-| 14:30 | USD | Low | Texas Services Sector Outlook (Oct) |  |  | -1.8 |
-| 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 3.5% | 3.5% |
-| 17:00 | USD | Moderate | 5-Year Note Auction |  |  | 5.033% |
-| 17:00 | USD | Low | M2 Money Supply (MoM) (Sep) |  |  | 23.34T |
+| 14:30 | USD | Low | Dallas Fed Services Revenues (Oct) | 4.4 |  | -0.9 |
+| 14:30 | USD | Low | Texas Services Sector Outlook (Oct) | 4.0 |  | -1.8 |
+| 15:40 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 3.4% | 3.5% | 3.5% |
+| 17:00 | USD | Moderate | 5-Year Note Auction | 4.708% |  | 5.033% |
+| 17:00 | USD | Low | M2 Money Supply (MoM) (Sep) | 23.41T |  | 23.34T |
 | 17:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 20:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 0.800M | -4.930M |

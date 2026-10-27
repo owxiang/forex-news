@@ -27,6 +27,6 @@
 | 14:00 | USD | Richmond Manufacturing Index (Oct) | -2 | 0 | -2 |
 | 14:00 | USD | Richmond Manufacturing Shipments (Oct) | 0 |  | -5 |
 | 14:00 | USD | Richmond Services Index (Oct) | 2 |  | 0 |
-| 14:30 | USD | Dallas Fed Services Revenues (Oct) |  |  | -0.9 |
-| 14:30 | USD | Texas Services Sector Outlook (Oct) |  |  | -1.8 |
-| 17:00 | USD | M2 Money Supply (MoM) (Sep) |  |  | 23.34T |
+| 14:30 | USD | Dallas Fed Services Revenues (Oct) | 4.4 |  | -0.9 |
+| 14:30 | USD | Texas Services Sector Outlook (Oct) | 4.0 |  | -1.8 |
+| 17:00 | USD | M2 Money Supply (MoM) (Sep) | 23.41T |  | 23.34T |
