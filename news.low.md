@@ -1,26 +1,33 @@
-## 26 October 2026 - Low Impact Forex News
+## 27 October 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | JPY | Coincident Indicator (MoM) (Aug) | -1.8% | -1.9% | 1.7% |
-| 05:00 | JPY | Leading Index (MoM) (Aug) | 0.4% | 0.4% | 1.5% |
-| 05:00 | JPY | Leading Index (Aug) | 118.0 | 118.0 | 117.7 |
-| 05:00 | SGD | Industrial Production (YoY) (Sep) | 3.4% |  | 15.4% |
-| 05:00 | SGD | Industrial Production (MoM) (Sep) | -3.9% |  | -1.0% |
-| 08:00 | EUR | Spanish PPI (YoY) (Sep) | 18.3% |  | 13.2% |
-| 11:00 | GBP | CBI Distributive Trades Survey (Oct) | -10 | -47 | -55 |
-| 11:00 | BRL | FGV Consumer confidence (Oct) | 84.7 |  | 84.2 |
-| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 11:30 | BRL | Current Account (USD) (Sep) | -5.10B | -5.00B | -5.06B |
-| 11:30 | BRL | Foreign direct investment (USD) (Sep) | 11.29B | 6.50B | 7.40B |
-| 12:30 | USD | Chicago Fed National Activity (Sep) | 0.07 | -0.10 | -0.08 |
-| 14:20 | EUR | French 12-Month BTF Auction | 3.365% |  | 3.292% |
-| 14:20 | EUR | French 3-Month BTF Auction | 2.787% |  | 2.750% |
-| 14:20 | EUR | French 6-Month BTF Auction | 3.025% |  | 3.045% |
-| 14:30 | USD | Dallas Fed Mfg Business Index (Oct) | 13.4 | 8.8 | 9.8 |
-| 16:20 | USD | 3-Month Bill Auction | 4.050% |  | 4.095% |
-| 16:20 | USD | 6-Month Bill Auction | 4.210% |  | 4.220% |
-| 21:00 | KRW | Consumer Confidence (Oct) | 105.4 |  | 106.6 |
-| 23:00 | KRW | GDP (QoQ) (Q3) |  | 0.7% | 0.6% |
-| 23:00 | KRW | GDP (YoY) (Q3) |  | 3.0% | 3.7% |
-| 23:50 | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 3.7% | 3.7% |
+| 00:01 | GBP | BRC Shop Price Index (YoY) | 2.1% | 1.6% | 1.4% |
+| 01:30 | CNY | Chinese Industrial profit YTD (Sep) | 15.5% |  | 15.7% |
+| 07:00 | EUR | Spanish Unemployment Rate (Q3) |  |  | 9.87% |
+| 07:00 | ZAR | Leading Indicators (Aug) |  |  | 118.20% |
+| 07:45 | EUR | French Consumer Confidence (Oct) |  | 85 | 86 |
+| 09:00 | EUR | M3 Money Supply (YoY) (Sep) |  | 3.6% | 3.5% |
+| 09:00 | EUR | M3 Money Supply (Sep) |  |  | 17,646.5B |
+| 09:00 | EUR | Loans to Non Financial Corporations (Sep) |  |  | 4.2% |
+| 09:00 | EUR | Private Sector Loans (YoY) (Sep) |  | 3.1% | 3.1% |
+| 10:30 | EUR | German 2-Year Schatz Auction |  |  | 3.100% |
+| 11:30 | BRL | Current Account (USD) (Sep) |  |  | -5.06B |
+| 11:30 | BRL | Foreign direct investment (USD) (Sep) |  |  | 7.40B |
+| 12:00 | USD | Building Permits (MoM) (Sep) |  | -0.2% | -2.1% |
+| 12:00 | MXN | Trade Balance (Sep) |  |  | 0.605B |
+| 12:00 | MXN | Trade Balance (USD) (Sep) |  |  | 3.489B |
+| 12:00 | BRL | Brazilian PPI (MoM) (Sep) |  |  | 0.36% |
+| 12:30 | USD | Durables Excluding Defense (MoM) (Sep) |  |  | 0.0% |
+| 12:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Sep) |  | 0.7% | 1.6% |
+| 12:55 | USD | Redbook (YoY) |  |  | 9.0% |
+| 13:00 | USD | House Price Index (MoM) (Aug) |  | 0.1% | 0.3% |
+| 13:00 | USD | House Price Index (YoY) (Aug) |  |  | 2.6% |
+| 13:00 | USD | House Price Index (Aug) |  |  | 443.5 |
+| 13:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Aug) |  |  | 0.3% |
+| 14:00 | USD | Richmond Manufacturing Index (Oct) |  | 1 | -2 |
+| 14:00 | USD | Richmond Manufacturing Shipments (Oct) |  |  | -5 |
+| 14:00 | USD | Richmond Services Index (Oct) |  |  | 0 |
+| 14:30 | USD | Dallas Fed Services Revenues (Oct) |  |  | -0.9 |
+| 14:30 | USD | Texas Services Sector Outlook (Oct) |  |  | -1.8 |
+| 17:00 | USD | M2 Money Supply (MoM) (Sep) |  |  | 23.34T |

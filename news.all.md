@@ -1,31 +1,48 @@
-## 26 October 2026 - All Forex News
+## 27 October 2026 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 05:00 | JPY | Low | Coincident Indicator (MoM) (Aug) | -1.8% | -1.9% | 1.7% |
-| 05:00 | JPY | Low | Leading Index (MoM) (Aug) | 0.4% | 0.4% | 1.5% |
-| 05:00 | JPY | Low | Leading Index (Aug) | 118.0 | 118.0 | 117.7 |
-| 05:00 | SGD | Low | Industrial Production (YoY) (Sep) | 3.4% |  | 15.4% |
-| 05:00 | SGD | Low | Industrial Production (MoM) (Sep) | -3.9% |  | -1.0% |
-| 06:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 08:00 | EUR | Low | Spanish PPI (YoY) (Sep) | 18.3% |  | 13.2% |
-| 09:00 | EUR | Moderate | German Business Expectations (Oct) | 91.6 | 90.0 | 90.4 |
-| 09:00 | EUR | Moderate | German Current Assessment (Oct) | 88.8 | 89.9 | 89.5 |
-| 09:00 | EUR | Moderate | German Ifo Business Climate Index (Oct) | 90.2 | 90.0 | 89.9 |
-| 11:00 | GBP | Low | CBI Distributive Trades Survey (Oct) | -10 | -47 | -55 |
-| 11:00 | BRL | Low | FGV Consumer confidence (Oct) | 84.7 |  | 84.2 |
-| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 11:30 | BRL | Low | Current Account (USD) (Sep) | -5.10B | -5.00B | -5.06B |
-| 11:30 | BRL | Low | Foreign direct investment (USD) (Sep) | 11.29B | 6.50B | 7.40B |
-| 12:30 | USD | Low | Chicago Fed National Activity (Sep) | 0.07 | -0.10 | -0.08 |
-| 14:20 | EUR | Low | French 12-Month BTF Auction | 3.365% |  | 3.292% |
-| 14:20 | EUR | Low | French 3-Month BTF Auction | 2.787% |  | 2.750% |
-| 14:20 | EUR | Low | French 6-Month BTF Auction | 3.025% |  | 3.045% |
-| 14:30 | USD | Low | Dallas Fed Mfg Business Index (Oct) | 13.4 | 8.8 | 9.8 |
-| 16:20 | USD | Low | 3-Month Bill Auction | 4.050% |  | 4.095% |
-| 16:20 | USD | Low | 6-Month Bill Auction | 4.210% |  | 4.220% |
-| 17:00 | USD | Moderate | 2-Year Note Auction | 4.708% |  | 4.787% |
-| 21:00 | KRW | Low | Consumer Confidence (Oct) | 105.4 |  | 106.6 |
-| 23:00 | KRW | Low | GDP (QoQ) (Q3) |  | 0.7% | 0.6% |
-| 23:00 | KRW | Low | GDP (YoY) (Q3) |  | 3.0% | 3.7% |
-| 23:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) |  | 3.7% | 3.7% |
+| 00:01 | GBP | Low | BRC Shop Price Index (YoY) | 2.1% | 1.6% | 1.4% |
+| 01:30 | CNY | Low | Chinese Industrial profit YTD (Sep) | 15.5% |  | 15.7% |
+| 05:00 | JPY | Moderate | BoJ Core CPI (YoY) |  |  | 2.3% |
+| 07:00 | EUR | Low | Spanish Unemployment Rate (Q3) |  |  | 9.87% |
+| 07:00 | ZAR | Low | Leading Indicators (Aug) |  |  | 118.20% |
+| 07:45 | EUR | Low | French Consumer Confidence (Oct) |  | 85 | 86 |
+| 09:00 | EUR | Low | M3 Money Supply (YoY) (Sep) |  | 3.6% | 3.5% |
+| 09:00 | EUR | Low | M3 Money Supply (Sep) |  |  | 17,646.5B |
+| 09:00 | EUR | Low | Loans to Non Financial Corporations (Sep) |  |  | 4.2% |
+| 09:00 | EUR | Low | Private Sector Loans (YoY) (Sep) |  | 3.1% | 3.1% |
+| 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 3.100% |
+| 11:30 | BRL | Low | Current Account (USD) (Sep) |  |  | -5.06B |
+| 11:30 | BRL | Low | Foreign direct investment (USD) (Sep) |  |  | 7.40B |
+| 12:00 | USD | Moderate | Building Permits (Sep) |  | 1.400M | 1.403M |
+| 12:00 | USD | Low | Building Permits (MoM) (Sep) |  | -0.2% | -2.1% |
+| 12:00 | MXN | Low | Trade Balance (Sep) |  |  | 0.605B |
+| 12:00 | MXN | Low | Trade Balance (USD) (Sep) |  |  | 3.489B |
+| 12:00 | BRL | Low | Brazilian PPI (MoM) (Sep) |  |  | 0.36% |
+| 12:15 | USD | Moderate | ADP Employment Change Weekly |  |  | 18.50K |
+| 12:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Sep) |  | 0.6% | 0.3% |
+| 12:30 | USD | High | Durable Goods Orders (MoM) (Sep) |  | 1.8% | 0.0% |
+| 12:30 | USD | Low | Durables Excluding Defense (MoM) (Sep) |  |  | 0.0% |
+| 12:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Sep) |  | 0.7% | 1.6% |
+| 12:30 | CAD | Moderate | Wholesale Sales (MoM) (Sep) |  |  | -1.6% |
+| 12:55 | USD | Low | Redbook (YoY) |  |  | 9.0% |
+| 13:00 | USD | Low | House Price Index (MoM) (Aug) |  | 0.1% | 0.3% |
+| 13:00 | USD | Low | House Price Index (YoY) (Aug) |  |  | 2.6% |
+| 13:00 | USD | Low | House Price Index (Aug) |  |  | 443.5 |
+| 13:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Aug) |  |  | 0.3% |
+| 13:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Aug) |  | 2.7% | 2.5% |
+| 13:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Aug) |  |  | 0.0% |
+| 14:00 | USD | High | CB Consumer Confidence (Oct) |  | 80.5 | 81.9 |
+| 14:00 | USD | High | New Home Sales (Sep) |  | 649K | 684K |
+| 14:00 | USD | Moderate | New Home Sales (MoM) (Sep) |  |  | 6.4% |
+| 14:00 | USD | Low | Richmond Manufacturing Index (Oct) |  | 1 | -2 |
+| 14:00 | USD | Low | Richmond Manufacturing Shipments (Oct) |  |  | -5 |
+| 14:00 | USD | Low | Richmond Services Index (Oct) |  |  | 0 |
+| 14:30 | USD | Low | Dallas Fed Services Revenues (Oct) |  |  | -0.9 |
+| 14:30 | USD | Low | Texas Services Sector Outlook (Oct) |  |  | -1.8 |
+| 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 3.5% | 3.5% |
+| 17:00 | USD | Moderate | 5-Year Note Auction |  |  | 5.033% |
+| 17:00 | USD | Low | M2 Money Supply (MoM) (Sep) |  |  | 23.34T |
+| 17:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 20:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -4.930M |
