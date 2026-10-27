@@ -43,4 +43,4 @@
 | 17:00 | USD | Moderate | 5-Year Note Auction | 4.708% |  | 5.033% |
 | 17:00 | USD | Low | M2 Money Supply (MoM) (Sep) | 23.41T |  | 23.34T |
 | 17:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 20:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 0.800M | -4.930M |
+| 20:30 | USD | Moderate | API Weekly Crude Oil Stock | -2.031M | 0.800M | -4.930M |
