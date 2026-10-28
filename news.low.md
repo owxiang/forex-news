@@ -1,32 +1,45 @@
-## 27 October 2026 - Low Impact Forex News
+## 28 October 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | BRC Shop Price Index (YoY) | 2.1% | 1.6% | 1.4% |
-| 01:30 | CNY | Chinese Industrial profit YTD (Sep) | 15.5% |  | 15.7% |
-| 07:00 | ZAR | Leading Indicators (Aug) | 119.60% |  | 118.26% |
-| 07:45 | EUR | French Consumer Confidence (Oct) | 80 | 85 | 85 |
-| 08:00 | EUR | Spanish Unemployment Rate (Q3) | 10.18% | 9.90% | 9.87% |
-| 09:00 | EUR | M3 Money Supply (YoY) (Sep) | 3.5% | 3.5% | 3.5% |
-| 09:00 | EUR | M3 Money Supply (Sep) | 17,717.3B |  | 17,646.5B |
-| 09:00 | EUR | Loans to Non Financial Corporations (Sep) | 4.2% |  | 4.2% |
-| 09:00 | EUR | Private Sector Loans (YoY) (Sep) | 3.1% | 3.1% | 3.1% |
-| 10:30 | GBP | 5-Year Treasury Gilt Auction | 5.036% |  | 4.945% |
-| 10:30 | EUR | German 2-Year Schatz Auction | 3.080% |  | 3.100% |
-| 12:00 | USD | Building Permits (MoM) (Sep) | -0.4% | -0.2% | -2.1% |
-| 12:00 | MXN | Trade Balance (Sep) | -0.606B |  | 0.605B |
-| 12:00 | MXN | Trade Balance (USD) (Sep) | 1.069B |  | 3.751B |
-| 12:00 | BRL | Brazilian PPI (MoM) (Sep) | 1.54% |  | 0.34% |
-| 12:30 | USD | Durables Excluding Defense (MoM) (Sep) | 2.2% |  | 0.3% |
-| 12:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Sep) | 0.5% | 0.7% | 1.6% |
-| 12:55 | USD | Redbook (YoY) | 9.3% |  | 9.0% |
-| 13:00 | USD | House Price Index (MoM) (Aug) | 0.3% | 0.2% | 0.2% |
-| 13:00 | USD | House Price Index (YoY) (Aug) | 2.4% |  | 2.5% |
-| 13:00 | USD | House Price Index (Aug) | 444.6 |  | 443.2 |
-| 13:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Aug) | 0.3% |  | 0.3% |
-| 14:00 | USD | Richmond Manufacturing Index (Oct) | -2 | 0 | -2 |
-| 14:00 | USD | Richmond Manufacturing Shipments (Oct) | 0 |  | -5 |
-| 14:00 | USD | Richmond Services Index (Oct) | 2 |  | 0 |
-| 14:30 | USD | Dallas Fed Services Revenues (Oct) | 4.4 |  | -0.9 |
-| 14:30 | USD | Texas Services Sector Outlook (Oct) | 4.0 |  | -1.8 |
-| 17:00 | USD | M2 Money Supply (MoM) (Sep) | 23.41T |  | 23.34T |
+| 00:29 | AUD | Trimmed Mean CPI (YoY) (Sep) | 3.6% | 3.6% | 3.5% |
+| 00:29 | AUD | Weighted mean CPI (YoY) (Sep) | 3.4% |  | 3.6% |
+| 00:30 | AUD | CPI Index Number (Q3) | 103.64 |  | 102.31 |
+| 00:30 | AUD | Trimmed Mean CPI (YoY) (Q3) | 3.7% | 3.6% | 3.6% |
+| 00:30 | AUD | Monthly CPI Indicator (YoY) (Sep) | 4.30% | 4.20% | 4.00% |
+| 00:30 | AUD | Weighted mean CPI (QoQ) (Q3) | 1.0% |  | 0.7% |
+| 00:30 | AUD | Weighted mean CPI (YoY) (Q3) | 3.6% |  | 3.6% |
+| 06:00 | NOK | Core Retail Sales (MoM) (Sep) |  |  | 0.6% |
+| 07:00 | NOK | M3 Money Supply (Sep) |  |  | 3,617.4B |
+| 07:00 | NOK | Credit Indicator (YoY) (Sep) |  |  | 4.5% |
+| 08:30 | HKD | Exports (MoM) (Sep) |  |  | 53.0% |
+| 08:30 | HKD | Imports (MoM) (Sep) |  |  | 60.0% |
+| 08:30 | HKD | Trade Balance (Sep) |  |  | -71.2B |
+| 09:00 | EUR | Italian Industrial Sales (MoM) (Aug) |  |  | 1.70% |
+| 09:00 | EUR | Italian Industrial Sales (YoY) (Aug) |  |  | 4.80% |
+| 09:00 | CHF | ZEW Expectations (Oct) |  |  | 2.6 |
+| 10:00 | EUR | Italian PPI (MoM) (Sep) |  |  | 2.4% |
+| 10:00 | EUR | Italian PPI (YoY) (Sep) |  |  | 10.9% |
+| 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 2.873% |
+| 10:30 | INR | Cumulative Industrial Production (Sep) |  |  | 6.70% |
+| 10:30 | INR | Industrial Production (YoY) (Sep) |  |  | 8.0% |
+| 10:30 | INR | Manufacturing Output (MoM) (Sep) |  |  | 9.0% |
+| 11:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.41% |
+| 11:00 | USD | MBA Mortgage Applications (WoW) |  |  | -5.3% |
+| 11:00 | USD | MBA Purchase Index |  |  | 129.2 |
+| 11:00 | USD | Mortgage Market Index |  |  | 188.6 |
+| 11:00 | USD | Mortgage Refinance Index |  |  | 503.1 |
+| 11:30 | INR | M3 Money Supply |  |  | 16.0% |
+| 12:30 | USD | Wholesale Inventories (MoM) (Sep) |  | 0.5% | 0.5% |
+| 14:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.034M |
+| 14:30 | USD | Crude Oil Imports |  |  | 0.837M |
+| 14:30 | USD | Distillate Fuel Production |  |  | 0.043M |
+| 14:30 | USD | EIA Weekly Distillates Stocks |  |  | 1.675M |
+| 14:30 | USD | Gasoline Production |  |  | 0.518M |
+| 14:30 | USD | Heating Oil Stockpiles |  |  | 0.652M |
+| 14:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.1% |
+| 14:30 | USD | Gasoline Inventories |  |  | -2.952M |
+| 17:30 | BRL | Foreign Exchange Flows |  |  | 1.933B |
+| 21:00 | KRW | Manufacturing BSI Index (Nov) |  |  | 79 |
+| 23:50 | JPY | Foreign Bonds Buying |  |  | -161.6B |
+| 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -66.5B |

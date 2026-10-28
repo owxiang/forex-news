@@ -1,7 +1,11 @@
-## 27 October 2026 - High Impact Forex News
+## 28 October 2026 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 12:30 | USD | Durable Goods Orders (MoM) (Sep) | 1.8% | 2.0% | 0.1% |
-| 14:00 | USD | CB Consumer Confidence (Oct) | 91.7 | 81.2 | 84.2 |
-| 14:00 | USD | New Home Sales (Sep) | 676K | 651K | 680K |
+| 01:00 | NZD | RBNZ Interest Rate Decision | 2.75% | 3.00% | 2.75% |
+| 12:30 | GBP | Autumn Forecast Statement |  |  |  |
+| 13:45 | CAD | BoC Interest Rate Decision |  | 2.50% | 2.25% |
+| 14:30 | USD | Crude Oil Inventories |  | -0.300M | -3.060M |
+| 18:00 | USD | FOMC Statement |  |  |  |
+| 18:00 | USD | Fed Interest Rate Decision |  | 4.00% | 4.00% |
+| 18:30 | USD | FOMC Press Conference |  |  |  |
