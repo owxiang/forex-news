@@ -8,8 +8,8 @@
 | 00:30 | AUD | Trimmed Mean CPI (QoQ) (Q3) | 1.0% | 1.0% | 0.8% |
 | 01:00 | NZD | RBNZ Rate Statement |  |  |  |
 | 02:00 | NZD | RBNZ Press Conference |  |  |  |
-| 07:00 | EUR | GfK German Consumer Climate (Nov) |  | -30.1 | -30.6 |
-| 10:30 | EUR | German 10-Year Bund Auction |  |  | 3.580% |
+| 07:00 | EUR | GfK German Consumer Climate (Nov) | -30.8 | -30.1 | -30.6 |
+| 10:30 | EUR | German 10-Year Bund Auction | 3.370% |  | 3.580% |
 | 11:00 | EUR | France Jobseekers Total (Sep) |  |  | 3,081.7K |
 | 12:30 | USD | Goods Trade Balance (Sep) |  | -130.40B | -132.07B |
 | 12:30 | USD | Retail Inventories Ex Auto (Sep) |  |  | 0.0% |
