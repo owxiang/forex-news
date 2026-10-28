@@ -10,11 +10,11 @@
 | 02:00 | NZD | RBNZ Press Conference |  |  |  |
 | 07:00 | EUR | GfK German Consumer Climate (Nov) | -30.8 | -30.1 | -30.6 |
 | 10:30 | EUR | German 10-Year Bund Auction | 3.370% |  | 3.580% |
-| 11:00 | EUR | France Jobseekers Total (Sep) |  |  | 3,081.7K |
-| 12:30 | USD | Goods Trade Balance (Sep) |  | -130.40B | -132.07B |
-| 12:30 | USD | Retail Inventories Ex Auto (Sep) |  |  | 0.0% |
+| 11:00 | EUR | France Jobseekers Total (Sep) | 3,192.5K |  | 3,081.7K |
+| 12:30 | USD | Goods Trade Balance (Sep) | -134.90B | -130.40B | -132.07B |
+| 12:30 | USD | Retail Inventories Ex Auto (Sep) | 0.4% |  | 0.1% |
 | 13:45 | CAD | BoC Monetary Policy Report |  |  |  |
 | 13:45 | CAD | BoC Rate Statement |  |  |  |
-| 14:00 | USD | Atlanta Fed GDPNow (Q3) |  |  |  |
-| 14:30 | USD | Cushing Crude Oil Inventories |  |  | 0.987M |
+| 14:30 | USD | Cushing Crude Oil Inventories | -0.624M |  | 0.987M |
 | 14:30 | CAD | BOC Press Conference |  |  |  |
+| 14:50 | USD | Atlanta Fed GDPNow (Q3) | 3.3% | 3.4% | 3.4% |
