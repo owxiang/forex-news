@@ -39,6 +39,6 @@
 | 14:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.6% |  | -0.1% |
 | 14:30 | USD | Gasoline Inventories | 3.870M | -1.400M | -2.952M |
 | 17:30 | BRL | Foreign Exchange Flows | 3.506B |  | 1.933B |
-| 21:00 | KRW | Manufacturing BSI Index (Nov) |  |  | 79 |
+| 21:00 | KRW | Manufacturing BSI Index (Oct) | 78 |  | 79 |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | -161.6B |
 | 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -66.5B |

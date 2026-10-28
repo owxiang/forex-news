@@ -62,6 +62,6 @@
 | 18:00 | USD | High | FOMC Statement |  |  |  |
 | 18:00 | USD | High | Fed Interest Rate Decision | 4.00% | 4.00% | 4.00% |
 | 18:30 | USD | High | FOMC Press Conference |  |  |  |
-| 21:00 | KRW | Low | Manufacturing BSI Index (Nov) |  |  | 79 |
+| 21:00 | KRW | Low | Manufacturing BSI Index (Oct) | 78 |  | 79 |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -161.6B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -66.5B |
