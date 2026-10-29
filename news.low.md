@@ -49,13 +49,11 @@
 | 17:00 | BRL | Net Debt-to-GDP ratio (Sep) | 70.0% |  | 69.3% |
 | 17:00 | BRL | Budget Balance (Sep) | -113.000B |  | -116.000B |
 | 17:00 | BRL | Budget Surplus (Sep) | -5.500B |  | -10.000B |
-| 19:30 | BRL | CAGED Net Payroll Jobs (Sep) |  | 180.00K | 165.83K |
-| 20:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.969T |
-| 22:30 | USD | Dallas Fed PCE (Sep) |  |  | 1.90% |
-| 23:00 | KRW | Industrial Production (YoY) (Sep) |  |  | -2.2% |
-| 23:00 | KRW | Industrial Production (MoM) (Sep) |  |  | -4.8% |
-| 23:00 | KRW | Retail Sales (MoM) (Sep) |  |  | -1.8% |
-| 23:00 | KRW | Service Sector Output (MoM) (Sep) |  |  | 0.5% |
+| 20:30 | USD | Reserve Balances with Federal Reserve Banks | 2.895T |  | 2.969T |
+| 23:00 | KRW | Industrial Production (YoY) (Sep) | 1.2% |  | -1.7% |
+| 23:00 | KRW | Industrial Production (MoM) (Sep) | 9.0% |  | -4.6% |
+| 23:00 | KRW | Retail Sales (MoM) (Sep) | 3.6% |  | -1.8% |
+| 23:00 | KRW | Service Sector Output (MoM) (Sep) | 0.5% |  | 0.7% |
 | 23:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Oct) |  | 2.7% | 2.7% |
 | 23:30 | JPY | Jobs/applications ratio (Sep) |  | 1.18 | 1.18 |
 | 23:30 | JPY | Tokyo CPI (YoY) (Oct) |  | 3.3% | 2.7% |

@@ -37,16 +37,16 @@
 | 11:00 | BRL | Low | IGP-M Inflation Index (MoM) (Oct) | 1.47% | 1.60% | 1.57% |
 | 11:30 | BRL | Low | Bank lending (MoM) (Sep) | 0.4% |  | 0.5% |
 | 12:30 | USD | Moderate | Continuing Jobless Claims | 1,701K | 1,720K | 1,722K |
-| 12:30 | USD | High | Core PCE Price Index (MoM) (Sep) | 0.3% | 0.3% | 0.3% |
 | 12:30 | USD | High | Core PCE Price Index (YoY) (Sep) | 3.1% | 3.1% | 3.0% |
+| 12:30 | USD | High | Core PCE Price Index (MoM) (Sep) | 0.3% | 0.3% | 0.3% |
 | 12:30 | USD | Moderate | Core PCE Prices (Q3) | 2.50% | 2.40% | 3.30% |
 | 12:30 | USD | High | GDP (QoQ) (Q3) | 3.4% | 3.2% | 2.2% |
 | 12:30 | USD | Moderate | GDP Price Index (QoQ) (Q3) | 2.2% | 3.2% | 6.1% |
 | 12:30 | USD | Low | GDP Sales (Q3) | 1.7% |  | 2.8% |
 | 12:30 | USD | High | Initial Jobless Claims | 194K | 198K | 195K |
 | 12:30 | USD | Low | Jobless Claims 4-Week Avg. | 196.75K |  | 198.00K |
-| 12:30 | USD | Moderate | PCE Price index (YoY) (Sep) | 3.6% | 3.6% | 3.4% |
 | 12:30 | USD | Moderate | PCE price index (MoM) (Sep) | 0.5% | 0.5% | 0.3% |
+| 12:30 | USD | Moderate | PCE Price index (YoY) (Sep) | 3.6% | 3.6% | 3.4% |
 | 12:30 | USD | Low | PCE Prices (Q3) | 2.1% | 3.4% | 5.0% |
 | 12:30 | USD | Low | Personal Income (MoM) (Sep) | 0.2% | 0.3% | 0.3% |
 | 12:30 | USD | Moderate | Personal Spending (MoM) (Sep) | 0.5% | 0.6% | 0.9% |
@@ -70,14 +70,12 @@
 | 17:00 | BRL | Low | Budget Balance (Sep) | -113.000B |  | -116.000B |
 | 17:00 | BRL | Low | Budget Surplus (Sep) | -5.500B |  | -10.000B |
 | 17:00 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Sep) | 82.9% |  | 82.9% |
-| 19:30 | BRL | Low | CAGED Net Payroll Jobs (Sep) |  | 180.00K | 165.83K |
-| 20:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,754B |
-| 20:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.969T |
-| 22:30 | USD | Low | Dallas Fed PCE (Sep) |  |  | 1.90% |
-| 23:00 | KRW | Low | Industrial Production (YoY) (Sep) |  |  | -2.2% |
-| 23:00 | KRW | Low | Industrial Production (MoM) (Sep) |  |  | -4.8% |
-| 23:00 | KRW | Low | Retail Sales (MoM) (Sep) |  |  | -1.8% |
-| 23:00 | KRW | Low | Service Sector Output (MoM) (Sep) |  |  | 0.5% |
+| 20:30 | USD | Moderate | Fed's Balance Sheet | 6,746B |  | 6,754B |
+| 20:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 2.895T |  | 2.969T |
+| 23:00 | KRW | Low | Industrial Production (YoY) (Sep) | 1.2% |  | -1.7% |
+| 23:00 | KRW | Low | Industrial Production (MoM) (Sep) | 9.0% |  | -4.6% |
+| 23:00 | KRW | Low | Retail Sales (MoM) (Sep) | 3.6% |  | -1.8% |
+| 23:00 | KRW | Low | Service Sector Output (MoM) (Sep) | 0.5% |  | 0.7% |
 | 23:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Oct) |  | 2.7% | 2.7% |
 | 23:30 | JPY | Low | Jobs/applications ratio (Sep) |  | 1.18 | 1.18 |
 | 23:30 | JPY | Moderate | Tokyo Core CPI (YoY) (Oct) |  | 2.6% | 2.7% |
