@@ -52,28 +52,28 @@
 | 12:30 | USD | Moderate | Personal Spending (MoM) (Sep) | 0.5% | 0.6% | 0.9% |
 | 12:30 | USD | Low | Real Consumer Spending (Q3) | 3.8% |  | 3.8% |
 | 12:30 | USD | Low | Real Personal Consumption (MoM) (Sep) | 0.0% |  | 0.5% |
-| 12:30 | CAD | Low | Average Weekly Earnings (YoY) (Aug) | 3.70% |  | 3.18% |
+| 12:30 | CAD | Low | Average Weekly Earnings (YoY) (Aug) | 3.68% |  | 3.20% |
 | 12:50 | CAD | Low | BoC Deputy Governor Gravelle Speaks |  |  |  |
-| 13:15 | EUR | High | Deposit Facility Rate (Oct) |  | 2.50% | 2.50% |
-| 13:15 | EUR | Moderate | ECB Marginal Lending Facility |  |  | 2.90% |
+| 13:15 | EUR | High | Deposit Facility Rate (Oct) | 2.50% | 2.50% | 2.50% |
+| 13:15 | EUR | Moderate | ECB Marginal Lending Facility | 2.90% |  | 2.90% |
 | 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
-| 13:15 | EUR | High | ECB Interest Rate Decision (Oct) |  | 2.65% | 2.65% |
+| 13:15 | EUR | High | ECB Interest Rate Decision (Oct) | 2.65% | 2.65% | 2.65% |
 | 13:45 | EUR | High | ECB Press Conference |  |  |  |
-| 14:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  |  |  |
-| 14:00 | USD | Low | Dallas Fed PCE (Sep) |  |  | 1.90% |
-| 14:30 | USD | Low | Natural Gas Storage |  | 75B | 77B |
+| 14:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 3.2% |  |  |
+| 14:30 | USD | Low | Natural Gas Storage | 80B | 75B | 77B |
 | 14:30 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 15:30 | USD | Low | 4-Week Bill Auction |  |  | 3.945% |
-| 15:30 | USD | Low | 8-Week Bill Auction |  |  | 4.015% |
-| 17:00 | USD | Moderate | 7-Year Note Auction |  |  | 5.085% |
-| 17:00 | BRL | Low | Net Debt-to-GDP ratio (Sep) |  |  | 69.3% |
-| 17:00 | BRL | Low | Budget Balance (Sep) |  |  | -116.000B |
-| 17:00 | BRL | Low | Budget Surplus (Sep) |  |  | -10.000B |
-| 17:00 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Sep) |  |  | 82.9% |
-| 17:30 | BRL | Low | CAGED Net Payroll Jobs (Sep) |  | 180.00K | 165.83K |
+| 15:30 | USD | Low | 4-Week Bill Auction | 3.910% |  | 3.945% |
+| 15:30 | USD | Low | 8-Week Bill Auction | 4.020% |  | 4.015% |
+| 17:00 | USD | Moderate | 7-Year Note Auction | 4.894% |  | 5.085% |
+| 17:00 | BRL | Low | Net Debt-to-GDP ratio (Sep) | 70.0% |  | 69.3% |
+| 17:00 | BRL | Low | Budget Balance (Sep) | -113.000B |  | -116.000B |
+| 17:00 | BRL | Low | Budget Surplus (Sep) | -5.500B |  | -10.000B |
+| 17:00 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Sep) | 82.9% |  | 82.9% |
+| 19:30 | BRL | Low | CAGED Net Payroll Jobs (Sep) |  | 180.00K | 165.83K |
 | 20:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,754B |
 | 20:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.969T |
+| 22:30 | USD | Low | Dallas Fed PCE (Sep) |  |  | 1.90% |
 | 23:00 | KRW | Low | Industrial Production (YoY) (Sep) |  |  | -2.2% |
 | 23:00 | KRW | Low | Industrial Production (MoM) (Sep) |  |  | -4.8% |
 | 23:00 | KRW | Low | Retail Sales (MoM) (Sep) |  |  | -1.8% |

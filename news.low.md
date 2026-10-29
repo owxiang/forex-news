@@ -41,17 +41,17 @@
 | 12:30 | USD | Personal Income (MoM) (Sep) | 0.2% | 0.3% | 0.3% |
 | 12:30 | USD | Real Consumer Spending (Q3) | 3.8% |  | 3.8% |
 | 12:30 | USD | Real Personal Consumption (MoM) (Sep) | 0.0% |  | 0.5% |
-| 12:30 | CAD | Average Weekly Earnings (YoY) (Aug) | 3.70% |  | 3.18% |
+| 12:30 | CAD | Average Weekly Earnings (YoY) (Aug) | 3.68% |  | 3.20% |
 | 12:50 | CAD | BoC Deputy Governor Gravelle Speaks |  |  |  |
-| 14:00 | USD | Dallas Fed PCE (Sep) |  |  | 1.90% |
-| 14:30 | USD | Natural Gas Storage |  | 75B | 77B |
-| 15:30 | USD | 4-Week Bill Auction |  |  | 3.945% |
-| 15:30 | USD | 8-Week Bill Auction |  |  | 4.015% |
-| 17:00 | BRL | Net Debt-to-GDP ratio (Sep) |  |  | 69.3% |
-| 17:00 | BRL | Budget Balance (Sep) |  |  | -116.000B |
-| 17:00 | BRL | Budget Surplus (Sep) |  |  | -10.000B |
-| 17:30 | BRL | CAGED Net Payroll Jobs (Sep) |  | 180.00K | 165.83K |
+| 14:30 | USD | Natural Gas Storage | 80B | 75B | 77B |
+| 15:30 | USD | 4-Week Bill Auction | 3.910% |  | 3.945% |
+| 15:30 | USD | 8-Week Bill Auction | 4.020% |  | 4.015% |
+| 17:00 | BRL | Net Debt-to-GDP ratio (Sep) | 70.0% |  | 69.3% |
+| 17:00 | BRL | Budget Balance (Sep) | -113.000B |  | -116.000B |
+| 17:00 | BRL | Budget Surplus (Sep) | -5.500B |  | -10.000B |
+| 19:30 | BRL | CAGED Net Payroll Jobs (Sep) |  | 180.00K | 165.83K |
 | 20:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.969T |
+| 22:30 | USD | Dallas Fed PCE (Sep) |  |  | 1.90% |
 | 23:00 | KRW | Industrial Production (YoY) (Sep) |  |  | -2.2% |
 | 23:00 | KRW | Industrial Production (MoM) (Sep) |  |  | -4.8% |
 | 23:00 | KRW | Retail Sales (MoM) (Sep) |  |  | -1.8% |
