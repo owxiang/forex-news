@@ -1,20 +1,21 @@
-## 28 October 2026 - Moderate Impact Forex News
+## 29 October 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:15 | AUD | RBA Assist Gov Bullock Speaks |  |  |  |
-| 00:30 | AUD | CPI (QoQ) (Q3) | 1.3% | 1.3% | 0.6% |
-| 00:30 | AUD | CPI (YoY) (Q3) | 3.9% | 3.9% | 3.9% |
-| 00:30 | AUD | Trimmed Mean CPI (QoQ) (Q3) | 1.0% | 1.0% | 0.8% |
-| 01:00 | NZD | RBNZ Rate Statement |  |  |  |
-| 02:00 | NZD | RBNZ Press Conference |  |  |  |
-| 07:00 | EUR | GfK German Consumer Climate (Nov) | -30.8 | -30.1 | -30.6 |
-| 10:30 | EUR | German 10-Year Bund Auction | 3.370% |  | 3.580% |
-| 11:00 | EUR | France Jobseekers Total (Sep) | 3,192.5K |  | 3,081.7K |
-| 12:30 | USD | Goods Trade Balance (Sep) | -134.90B | -130.40B | -132.07B |
-| 12:30 | USD | Retail Inventories Ex Auto (Sep) | 0.4% |  | 0.1% |
-| 13:45 | CAD | BoC Monetary Policy Report |  |  |  |
-| 13:45 | CAD | BoC Rate Statement |  |  |  |
-| 14:30 | USD | Cushing Crude Oil Inventories | -0.624M |  | 0.987M |
-| 14:30 | CAD | BOC Press Conference |  |  |  |
-| 14:50 | USD | Atlanta Fed GDPNow (Q3) | 3.3% | 3.4% | 3.4% |
+| 10:10 | EUR | Italian 10-Year BTP Auction |  |  | 4.58% |
+| 12:30 | USD | Continuing Jobless Claims |  | 1,720K | 1,728K |
+| 12:30 | USD | Core PCE Prices (Q3) |  | 2.40% | 3.30% |
+| 12:30 | USD | GDP Price Index (QoQ) (Q3) |  | 3.2% | 6.1% |
+| 12:30 | USD | PCE Price index (YoY) (Sep) |  | 3.6% | 3.4% |
+| 12:30 | USD | PCE price index (MoM) (Sep) |  | 0.5% | 0.3% |
+| 12:30 | USD | Personal Spending (MoM) (Sep) |  | 0.6% | 0.9% |
+| 13:15 | EUR | ECB Marginal Lending Facility |  |  | 2.90% |
+| 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
+| 14:00 | USD | Atlanta Fed GDPNow (Q4) |  |  |  |
+| 14:30 | EUR | German Buba Mauderer Speaks |  |  |  |
+| 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 17:00 | USD | 7-Year Note Auction |  |  | 5.085% |
+| 17:00 | BRL | Gross Debt-to-GDP ratio (MoM) (Sep) |  |  | 82.9% |
+| 20:30 | USD | Fed's Balance Sheet |  |  | 6,754B |
+| 23:30 | JPY | Tokyo Core CPI (YoY) (Oct) |  | 2.6% | 2.7% |
+| 23:50 | JPY | Industrial Production (MoM) (Sep) |  | 1.2% | -2.4% |

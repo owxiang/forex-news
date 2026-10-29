@@ -1,11 +1,12 @@
-## 28 October 2026 - High Impact Forex News
+## 29 October 2026 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:00 | NZD | RBNZ Interest Rate Decision | 2.75% | 3.00% | 2.75% |
-| 12:30 | GBP | Autumn Forecast Statement |  |  |  |
-| 13:45 | CAD | BoC Interest Rate Decision | 2.50% | 2.50% | 2.25% |
-| 14:30 | USD | Crude Oil Inventories | -1.892M | 0.100M | -3.060M |
-| 18:00 | USD | FOMC Statement |  |  |  |
-| 18:00 | USD | Fed Interest Rate Decision | 4.00% | 4.00% | 4.00% |
-| 18:30 | USD | FOMC Press Conference |  |  |  |
+| 12:30 | USD | Core PCE Price Index (MoM) (Sep) |  | 0.3% | 0.2% |
+| 12:30 | USD | Core PCE Price Index (YoY) (Sep) |  | 3.1% | 3.0% |
+| 12:30 | USD | GDP (QoQ) (Q3) |  | 3.2% | 2.2% |
+| 12:30 | USD | Initial Jobless Claims |  | 198K | 194K |
+| 13:15 | EUR | Deposit Facility Rate (Oct) |  | 2.50% | 2.50% |
+| 13:15 | EUR | ECB Interest Rate Decision (Oct) |  | 2.65% | 2.65% |
+| 13:45 | CAD | BoC Interest Rate Decision |  | 2.50% | 2.25% |
+| 13:45 | EUR | ECB Press Conference |  |  |  |

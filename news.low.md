@@ -1,44 +1,68 @@
-## 28 October 2026 - Low Impact Forex News
+## 29 October 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:29 | AUD | Trimmed Mean CPI (YoY) (Sep) | 3.6% | 3.6% | 3.5% |
-| 00:29 | AUD | Weighted mean CPI (YoY) (Sep) | 3.4% |  | 3.6% |
-| 00:30 | AUD | CPI Index Number (Q3) | 103.64 |  | 102.31 |
-| 00:30 | AUD | Trimmed Mean CPI (YoY) (Q3) | 3.7% | 3.6% | 3.6% |
-| 00:30 | AUD | Monthly CPI Indicator (YoY) (Sep) | 4.30% | 4.20% | 4.00% |
-| 00:30 | AUD | Weighted mean CPI (QoQ) (Q3) | 1.0% |  | 0.7% |
-| 00:30 | AUD | Weighted mean CPI (YoY) (Q3) | 3.6% |  | 3.6% |
-| 07:00 | NOK | M3 Money Supply (Sep) | 3,635.6B |  | 3,617.4B |
-| 07:00 | NOK | Credit Indicator (YoY) (Sep) | 4.9% |  | 4.5% |
-| 07:00 | NOK | Core Retail Sales (MoM) (Sep) | -0.4% |  | 0.6% |
-| 08:30 | HKD | Exports (MoM) (Sep) | 64.9% |  | 53.0% |
-| 08:30 | HKD | Imports (MoM) (Sep) | 57.8% |  | 60.0% |
-| 08:30 | HKD | Trade Balance (Sep) | -46.3B |  | -71.2B |
-| 09:00 | EUR | Italian Industrial Sales (MoM) (Aug) | -0.90% |  | 1.70% |
-| 09:00 | EUR | Italian Industrial Sales (YoY) (Aug) | 4.20% |  | 4.90% |
-| 09:00 | CHF | ZEW Expectations (Oct) | -15.3 |  | 2.6 |
-| 10:00 | EUR | Italian PPI (MoM) (Sep) | 2.9% |  | 2.4% |
-| 10:00 | EUR | Italian PPI (YoY) (Sep) | 13.8% |  | 10.9% |
-| 10:10 | EUR | Italian 6-Month BOT Auction | 2.853% |  | 2.873% |
-| 10:30 | INR | Cumulative Industrial Production (Sep) | 6.80% |  | 6.70% |
-| 10:30 | INR | Industrial Production (YoY) (Sep) | 6.7% | 7.2% | 7.8% |
-| 10:30 | INR | Manufacturing Output (MoM) (Sep) | 7.6% |  | 8.6% |
-| 11:00 | USD | MBA 30-Year Mortgage Rate | 7.37% |  | 7.41% |
-| 11:00 | USD | MBA Mortgage Applications (WoW) | 3.4% |  | -5.3% |
-| 11:00 | USD | MBA Purchase Index | 134.1 |  | 129.2 |
-| 11:00 | USD | Mortgage Market Index | 195.0 |  | 188.6 |
-| 11:00 | USD | Mortgage Refinance Index | 516.8 |  | 503.1 |
-| 12:30 | USD | Wholesale Inventories (MoM) (Sep) | 0.6% | 0.5% | 0.5% |
-| 14:30 | USD | EIA Refinery Crude Runs (WoW) | -0.123M |  | 0.034M |
-| 14:30 | USD | Crude Oil Imports | -0.796M |  | 0.837M |
-| 14:30 | USD | Distillate Fuel Production | -0.071M |  | 0.043M |
-| 14:30 | USD | EIA Weekly Distillates Stocks | -1.462M | -0.600M | 1.675M |
-| 14:30 | USD | Gasoline Production | -0.509M |  | 0.518M |
-| 14:30 | USD | Heating Oil Stockpiles | 0.164M |  | 0.652M |
-| 14:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.6% |  | -0.1% |
-| 14:30 | USD | Gasoline Inventories | 3.870M | -1.400M | -2.952M |
-| 17:30 | BRL | Foreign Exchange Flows | 3.506B |  | 1.933B |
-| 21:00 | KRW | Manufacturing BSI Index (Oct) | 78 |  | 79 |
-| 23:50 | JPY | Foreign Bonds Buying |  |  | -161.6B |
-| 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -66.5B |
+| 00:00 | NZD | ANZ Business Confidence (Oct) | 52.5 |  | 51.9 |
+| 00:00 | NZD | NBNZ Own Activity (Oct) | 46.2% |  | 47.9% |
+| 00:30 | AUD | Export Price Index (QoQ) (Q3) | 1.4% |  | 1.1% |
+| 00:30 | AUD | Import Price Index (QoQ) (Q3) | -1.1% | 1.3% | 5.7% |
+| 03:35 | JPY | 2-Year JGB Auction | 1.905% |  | 1.964% |
+| 05:00 | JPY | Household Confidence (Oct) | 35.0 | 35.1 | 35.4 |
+| 06:00 | ZAR | M3 Money Supply (YoY) (Sep) |  |  | 8.89% |
+| 06:00 | ZAR | Private Sector Credit (Sep) |  |  | 7.47% |
+| 08:00 | EUR | Spanish Retail Sales (YoY) (Sep) |  |  | -0.4% |
+| 09:00 | EUR | Italian Monthly Unemployment Rate (Sep) |  | 6.2% | 6.2% |
+| 09:30 | GBP | BoE Consumer Credit (Sep) |  | 2.200B | 2.464B |
+| 09:30 | GBP | M3 Money Supply (Sep) |  |  | 3,306.5B |
+| 09:30 | GBP | M4 Money Supply (MoM) (Sep) |  | 0.3% | 0.4% |
+| 09:30 | GBP | Mortgage Approvals (Sep) |  | 54.00K | 54.92K |
+| 09:30 | GBP | Mortgage Lending (Sep) |  | 4.20B | 4.41B |
+| 09:30 | GBP | Net Lending to Individuals (Sep) |  | 6.200B | 6.874B |
+| 09:30 | ZAR | PPI (MoM) (Sep) |  |  | -0.4% |
+| 09:30 | ZAR | PPI (YoY) (Sep) |  |  | 5.0% |
+| 10:00 | EUR | Italian Trade Balance Non-EU (Sep) |  |  | 2.00B |
+| 10:00 | EUR | Business and Consumer Survey (Oct) |  | 97.5 | 97.9 |
+| 10:00 | EUR | Business Climate (Oct) |  |  | -0.06 |
+| 10:00 | EUR | Consumer Confidence (Oct) |  | -17.9 | -16.5 |
+| 10:00 | EUR | Consumer Inflation Expectation (Oct) |  |  | 35.2 |
+| 10:00 | EUR | Selling Price Expectations (Oct) |  |  | 20.3 |
+| 10:00 | EUR | Services Sentiment (Oct) |  | 5.9 | 6.1 |
+| 10:00 | EUR | Industrial Sentiment (Oct) |  | -3.8 | -3.8 |
+| 10:10 | EUR | Italian 5-Year BTP Auction |  |  | 4.08% |
+| 10:10 | EUR | Italian 7-Year BTP Auction |  |  | 4.24% |
+| 11:00 | EUR | Italian Business Confidence (Oct) |  | 92.0 | 91.9 |
+| 11:00 | EUR | Italian Consumer Confidence (Oct) |  | 90.9 | 91.2 |
+| 11:00 | EUR | Spanish Business Confidence (Oct) |  |  | -1.6 |
+| 11:00 | BRL | IGP-M Inflation Index (MoM) (Oct) |  | 1.60% | 1.57% |
+| 11:30 | BRL | Bank lending (MoM) (Sep) |  |  | 0.5% |
+| 12:30 | USD | GDP Sales (Q3) |  |  | 2.8% |
+| 12:30 | USD | Jobless Claims 4-Week Avg. |  |  | 197.75K |
+| 12:30 | USD | PCE Prices (Q3) |  | 3.4% | 5.0% |
+| 12:30 | USD | Personal Income (MoM) (Sep) |  | 0.3% | 0.2% |
+| 12:30 | USD | Real Consumer Spending (Q3) |  |  | 3.8% |
+| 12:30 | USD | Real Personal Consumption (MoM) (Sep) |  |  | 0.6% |
+| 12:30 | CAD | Average Weekly Earnings (YoY) (Aug) |  |  | 3.18% |
+| 12:50 | CAD | BoC Deputy Governor Gravelle Speaks |  |  |  |
+| 14:00 | USD | Dallas Fed PCE (Sep) |  |  | 1.90% |
+| 14:30 | USD | Natural Gas Storage |  | 75B | 77B |
+| 15:30 | USD | 4-Week Bill Auction |  |  | 3.945% |
+| 15:30 | USD | 8-Week Bill Auction |  |  | 4.015% |
+| 17:00 | BRL | Net Debt-to-GDP ratio (Sep) |  |  | 69.3% |
+| 17:00 | BRL | Budget Balance (Sep) |  |  | -116.000B |
+| 17:00 | BRL | Budget Surplus (Sep) |  |  | -10.000B |
+| 17:30 | BRL | CAGED Net Payroll Jobs (Sep) |  | 180.00K | 165.83K |
+| 20:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.969T |
+| 23:00 | KRW | Industrial Production (YoY) (Sep) |  |  | -2.2% |
+| 23:00 | KRW | Industrial Production (MoM) (Sep) |  |  | -4.8% |
+| 23:00 | KRW | Retail Sales (MoM) (Sep) |  |  | -1.8% |
+| 23:00 | KRW | Service Sector Output (MoM) (Sep) |  |  | 0.5% |
+| 23:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Oct) |  | 2.7% | 2.7% |
+| 23:30 | JPY | Jobs/applications ratio (Sep) |  | 1.18 | 1.18 |
+| 23:30 | JPY | Tokyo CPI (YoY) (Oct) |  | 3.3% | 2.7% |
+| 23:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Oct) |  |  | 0.4% |
+| 23:30 | JPY | Unemployment Rate (Sep) |  | 2.5% | 2.5% |
+| 23:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Oct) |  |  | 3.2% |
+| 23:50 | JPY | Industrial Production forecast 2m ahead (MoM) (Nov) |  |  | 3.1% |
+| 23:50 | JPY | Large Retailers' Sales (MoM) (Sep) |  |  | -1.2% |
+| 23:50 | JPY | Large Scale Retail Sales YoY (YoY) (Sep) |  |  | 1.0% |
+| 23:50 | JPY | Retail Sales (YoY) (Sep) |  | 3.3% | 2.7% |
