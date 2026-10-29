@@ -2,13 +2,13 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 10:10 | EUR | Italian 10-Year BTP Auction |  |  | 4.58% |
-| 12:30 | USD | Continuing Jobless Claims |  | 1,720K | 1,728K |
-| 12:30 | USD | Core PCE Prices (Q3) |  | 2.40% | 3.30% |
-| 12:30 | USD | GDP Price Index (QoQ) (Q3) |  | 3.2% | 6.1% |
-| 12:30 | USD | PCE Price index (YoY) (Sep) |  | 3.6% | 3.4% |
-| 12:30 | USD | PCE price index (MoM) (Sep) |  | 0.5% | 0.3% |
-| 12:30 | USD | Personal Spending (MoM) (Sep) |  | 0.6% | 0.9% |
+| 10:10 | EUR | Italian 10-Year BTP Auction | 4.49% |  | 4.58% |
+| 12:30 | USD | Continuing Jobless Claims | 1,701K | 1,720K | 1,722K |
+| 12:30 | USD | Core PCE Prices (Q3) | 2.50% | 2.40% | 3.30% |
+| 12:30 | USD | GDP Price Index (QoQ) (Q3) | 2.2% | 3.2% | 6.1% |
+| 12:30 | USD | PCE Price index (YoY) (Sep) | 3.6% | 3.6% | 3.4% |
+| 12:30 | USD | PCE price index (MoM) (Sep) | 0.5% | 0.5% | 0.3% |
+| 12:30 | USD | Personal Spending (MoM) (Sep) | 0.5% | 0.6% | 0.9% |
 | 13:15 | EUR | ECB Marginal Lending Facility |  |  | 2.90% |
 | 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
 | 14:00 | USD | Atlanta Fed GDPNow (Q4) |  |  |  |
