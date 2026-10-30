@@ -45,7 +45,6 @@
 | 10:00 | EUR | Italian HICP (MoM) (Oct) | 1.2% | 0.5% | 2.1% |
 | 10:00 | EUR | Italian HICP (YoY) (Oct) | 5.6% | 4.6% | 4.2% |
 | 10:00 | INR | Federal Fiscal Deficit (Sep) | 7,144.13B |  | 7,102.49B |
-| 11:30 | INR | Bank Loan Growth |  |  | 18.2% |
 | 11:30 | INR | FX Reserves, USD | 719.75B |  | 721.02B |
 | 11:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
 | 12:00 | ZAR | Budget Balance (MoM) (Sep) | -22.10B |  | -29.14B |
@@ -57,15 +56,14 @@
 | 15:00 | CAD | Budget Balance (Aug) | -0.22B |  | -4.77B |
 | 15:00 | CAD | Budget Balance (YoY) (Aug) | -5.36B |  | -5.14B |
 | 18:00 | MXN | Fiscal Balance (Sep) | -222.34B |  | -5.57B |
-| 19:30 | USD | CFTC Aluminium speculative net positions |  |  | -1.0K |
-| 19:30 | USD | CFTC Copper speculative net positions |  |  | 57.4K |
-| 19:30 | USD | CFTC Corn speculative net positions |  |  | 286.7K |
-| 19:30 | USD | CFTC Natural Gas speculative net positions |  |  | -241.3K |
-| 19:30 | USD | CFTC Silver speculative net positions |  |  | 19.8K |
-| 19:30 | USD | CFTC Soybeans speculative net positions |  |  | 246.6K |
-| 19:30 | USD | CFTC Wheat speculative net positions |  |  | -29.3K |
-| 19:30 | CAD | CFTC CAD speculative net positions |  |  | -74.7K |
-| 19:30 | MXN | CFTC MXN speculative net positions |  |  | 17.0K |
-| 19:30 | CHF | CFTC CHF speculative net positions |  |  | -18.1K |
-| 19:30 | NZD | CFTC NZD speculative net positions |  |  | -58.1K |
-| 22:30 | USD | Dallas Fed PCE (Sep) |  |  | 1.90% |
+| 19:30 | USD | CFTC Aluminium speculative net positions | -1.0K |  | -1.0K |
+| 19:30 | USD | CFTC Copper speculative net positions | 48.3K |  | 57.4K |
+| 19:30 | USD | CFTC Corn speculative net positions | 201.3K |  | 286.7K |
+| 19:30 | USD | CFTC Natural Gas speculative net positions | -255.2K |  | -241.3K |
+| 19:30 | USD | CFTC Silver speculative net positions | 19.7K |  | 19.8K |
+| 19:30 | USD | CFTC Soybeans speculative net positions | 204.1K |  | 246.6K |
+| 19:30 | USD | CFTC Wheat speculative net positions | -50.8K |  | -29.3K |
+| 19:30 | CAD | CFTC CAD speculative net positions | -66.4K |  | -74.7K |
+| 19:30 | MXN | CFTC MXN speculative net positions | 20.8K |  | 17.0K |
+| 19:30 | CHF | CFTC CHF speculative net positions | -20.0K |  | -18.1K |
+| 19:30 | NZD | CFTC NZD speculative net positions | -57.7K |  | -58.1K |
