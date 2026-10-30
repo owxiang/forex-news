@@ -1,11 +1,8 @@
-## 29 October 2026 - High Impact Forex News
+## 30 October 2026 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 12:30 | USD | Core PCE Price Index (YoY) (Sep) | 3.1% | 3.1% | 3.0% |
-| 12:30 | USD | Core PCE Price Index (MoM) (Sep) | 0.3% | 0.3% | 0.3% |
-| 12:30 | USD | GDP (QoQ) (Q3) | 3.4% | 3.2% | 2.2% |
-| 12:30 | USD | Initial Jobless Claims | 194K | 198K | 195K |
-| 13:15 | EUR | Deposit Facility Rate (Oct) | 2.50% | 2.50% | 2.50% |
-| 13:15 | EUR | ECB Interest Rate Decision (Oct) | 2.65% | 2.65% | 2.65% |
-| 13:45 | EUR | ECB Press Conference |  |  |  |
+| 03:00 | JPY | BoJ Interest Rate Decision | 1.25% | 1.25% | 1.25% |
+| 09:00 | EUR | German GDP (QoQ) (Q3) |  | 0.1% | 0.3% |
+| 13:00 | EUR | German CPI (MoM) (Oct) |  | 0.1% | 0.6% |
+| 13:45 | USD | Chicago PMI (Oct) |  | 55.8 | 58.8 |

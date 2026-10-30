@@ -1,66 +1,76 @@
-## 29 October 2026 - Low Impact Forex News
+## 30 October 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | NZD | ANZ Business Confidence (Oct) | 52.5 |  | 51.9 |
-| 00:00 | NZD | NBNZ Own Activity (Oct) | 46.2% |  | 47.9% |
-| 00:30 | AUD | Export Price Index (QoQ) (Q3) | 1.4% |  | 1.1% |
-| 00:30 | AUD | Import Price Index (QoQ) (Q3) | -1.1% | 1.3% | 5.7% |
-| 03:35 | JPY | 2-Year JGB Auction | 1.905% |  | 1.964% |
-| 05:00 | JPY | Household Confidence (Oct) | 35.0 | 35.1 | 35.4 |
-| 06:00 | ZAR | M3 Money Supply (YoY) (Sep) | 7.93% |  | 8.89% |
-| 06:00 | ZAR | Private Sector Credit (Sep) | 6.23% |  | 7.47% |
-| 08:00 | EUR | Spanish Retail Sales (YoY) (Sep) | -1.4% |  | -0.5% |
-| 09:00 | EUR | Italian Monthly Unemployment Rate (Sep) | 6.3% | 6.2% | 6.2% |
-| 09:30 | GBP | BoE Consumer Credit (Sep) | 1.914B | 2.200B | 2.683B |
-| 09:30 | GBP | M3 Money Supply (Sep) | 3,310.6B |  | 3,308.5B |
-| 09:30 | GBP | M4 Money Supply (MoM) (Sep) | 0.1% | 0.3% | 0.4% |
-| 09:30 | GBP | Mortgage Approvals (Sep) | 53.44K | 54.00K | 54.81K |
-| 09:30 | GBP | Mortgage Lending (Sep) | 3.87B | 4.20B | 4.17B |
-| 09:30 | GBP | Net Lending to Individuals (Sep) | 5.800B | 6.200B | 6.874B |
-| 09:30 | ZAR | PPI (MoM) (Sep) | 1.0% |  | -0.4% |
-| 09:30 | ZAR | PPI (YoY) (Sep) | 6.2% |  | 5.0% |
-| 10:00 | EUR | Italian Trade Balance Non-EU (Sep) | 2.83B |  | 2.00B |
-| 10:00 | EUR | Business and Consumer Survey (Oct) | 96.9 | 97.5 | 97.5 |
-| 10:00 | EUR | Business Climate (Oct) | 0.09 |  | -0.05 |
-| 10:00 | EUR | Consumer Confidence (Oct) | -17.9 | -17.9 | -16.5 |
-| 10:00 | EUR | Consumer Inflation Expectation (Oct) | 33.9 |  | 34.7 |
-| 10:00 | EUR | Selling Price Expectations (Oct) | 24.8 |  | 20.8 |
-| 10:00 | EUR | Services Sentiment (Oct) | 5.3 | 5.9 | 5.9 |
-| 10:00 | EUR | Industrial Sentiment (Oct) | -3.4 | -3.8 | -3.9 |
-| 10:10 | EUR | Italian 5-Year BTP Auction | 4.02% |  | 4.08% |
-| 10:10 | EUR | Italian 7-Year BTP Auction | 3.90% |  | 4.24% |
-| 11:00 | EUR | Italian Business Confidence (Oct) | 91.9 | 92.0 | 91.9 |
-| 11:00 | EUR | Italian Consumer Confidence (Oct) | 90.3 | 90.9 | 91.2 |
-| 11:00 | EUR | Spanish Business Confidence (Oct) | -0.7 |  | -1.6 |
-| 11:00 | BRL | IGP-M Inflation Index (MoM) (Oct) | 1.47% | 1.60% | 1.57% |
-| 11:30 | BRL | Bank lending (MoM) (Sep) | 0.4% |  | 0.5% |
-| 12:30 | USD | GDP Sales (Q3) | 1.7% |  | 2.8% |
-| 12:30 | USD | Jobless Claims 4-Week Avg. | 196.75K |  | 198.00K |
-| 12:30 | USD | PCE Prices (Q3) | 2.1% | 3.4% | 5.0% |
-| 12:30 | USD | Personal Income (MoM) (Sep) | 0.2% | 0.3% | 0.3% |
-| 12:30 | USD | Real Consumer Spending (Q3) | 3.8% |  | 3.8% |
-| 12:30 | USD | Real Personal Consumption (MoM) (Sep) | 0.0% |  | 0.5% |
-| 12:30 | CAD | Average Weekly Earnings (YoY) (Aug) | 3.68% |  | 3.20% |
-| 12:50 | CAD | BoC Deputy Governor Gravelle Speaks |  |  |  |
-| 14:30 | USD | Natural Gas Storage | 80B | 75B | 77B |
-| 15:30 | USD | 4-Week Bill Auction | 3.910% |  | 3.945% |
-| 15:30 | USD | 8-Week Bill Auction | 4.020% |  | 4.015% |
-| 17:00 | BRL | Net Debt-to-GDP ratio (Sep) | 70.0% |  | 69.3% |
-| 17:00 | BRL | Budget Balance (Sep) | -113.000B |  | -116.000B |
-| 17:00 | BRL | Budget Surplus (Sep) | -5.500B |  | -10.000B |
-| 20:30 | USD | Reserve Balances with Federal Reserve Banks | 2.895T |  | 2.969T |
-| 23:00 | KRW | Industrial Production (YoY) (Sep) | 1.2% |  | -1.7% |
-| 23:00 | KRW | Industrial Production (MoM) (Sep) | 9.0% |  | -4.6% |
-| 23:00 | KRW | Retail Sales (MoM) (Sep) | 3.6% |  | -1.8% |
-| 23:00 | KRW | Service Sector Output (MoM) (Sep) | 0.5% |  | 0.7% |
-| 23:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Oct) |  | 2.7% | 2.7% |
-| 23:30 | JPY | Jobs/applications ratio (Sep) |  | 1.18 | 1.18 |
-| 23:30 | JPY | Tokyo CPI (YoY) (Oct) |  | 3.3% | 2.7% |
-| 23:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Oct) |  |  | 0.4% |
-| 23:30 | JPY | Unemployment Rate (Sep) |  | 2.5% | 2.5% |
-| 23:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Oct) |  |  | 3.2% |
-| 23:50 | JPY | Industrial Production forecast 2m ahead (MoM) (Nov) |  |  | 3.1% |
-| 23:50 | JPY | Large Retailers' Sales (MoM) (Sep) |  |  | -1.2% |
-| 23:50 | JPY | Large Scale Retail Sales YoY (YoY) (Sep) |  |  | 1.0% |
-| 23:50 | JPY | Retail Sales (YoY) (Sep) |  | 3.3% | 2.7% |
+| 00:30 | AUD | Housing Credit (Sep) | 0.4% |  | 0.4% |
+| 00:30 | AUD | Private Sector Credit (MoM) (Sep) | 0.6% | 0.5% | 0.6% |
+| 02:00 | SGD | Bank Lending (Sep) | 978.8B |  | 966.4B |
+| 02:30 | SGD | Unemployment Rate (Q3) | 2.0% |  | 1.9% |
+| 05:00 | JPY | Construction Orders (YoY) (Sep) | -11.1% |  | -3.6% |
+| 05:00 | JPY | Housing Starts (YoY) (Sep) | -2.7% | 2.7% | 6.1% |
+| 05:00 | NZD | M3 Money Supply (Sep) |  |  | 454.7B |
+| 06:00 | NOK | Unemployment Rate n.s.a. (Oct) |  |  | 2.00% |
+| 07:00 | EUR | German Import Price Index (MoM) (Sep) |  | 1.9% | 1.0% |
+| 07:00 | EUR | German Import Price Index (YoY) (Sep) |  | 10.3% | 8.3% |
+| 07:45 | EUR | French CPI (YoY) (Oct) |  | 3.2% | 3.1% |
+| 07:45 | EUR | French HICP (YoY) (Oct) |  | 3.6% | 3.4% |
+| 07:45 | EUR | French Non-Farm Payrolls (QoQ) (Q3) |  | -0.1% | -0.1% |
+| 07:45 | EUR | French PPI (MoM) (Sep) |  |  | 1.0% |
+| 07:45 | EUR | PPI (YoY) (Sep) |  |  | 4.80% |
+| 08:00 | CHF | Official Reserves Assets (Sep) |  |  | 901.6B |
+| 08:00 | EUR | Core CPI (YoY) (Oct) |  |  | 3.1% |
+| 08:00 | EUR | Spanish CPI (MoM) (Oct) |  | 0.6% | 0.3% |
+| 08:00 | EUR | Spanish GDP (YoY) (Q3) |  | 2.7% | 2.6% |
+| 08:00 | EUR | Spanish HICP (MoM) (Oct) |  | 0.5% | 0.6% |
+| 08:30 | HKD | M3 Money Supply (Sep) |  |  | 9.9% |
+| 08:55 | EUR | German Unemployment (Oct) |  |  | 3.012M |
+| 08:55 | EUR | German Unemployment n.s.a. (Oct) |  |  | 2.994M |
+| 09:00 | EUR | Italian GDP (QoQ) (Q3) |  | 0.1% | 0.2% |
+| 09:00 | EUR | Italian GDP (YoY) (Q3) |  | 0.9% | 1.0% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Oct) |  |  | 0.6% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Oct) |  |  | 2.9% |
+| 09:00 | EUR | Bavaria CPI (YoY) (Oct) |  |  | 3.2% |
+| 09:00 | EUR | Bavaria CPI (MoM) (Oct) |  |  | 0.6% |
+| 09:00 | EUR | Brandenburg CPI (YoY) (Oct) |  |  | 3.6% |
+| 09:00 | EUR | Brandenburg CPI (MoM) (Oct) |  |  | 0.5% |
+| 09:00 | EUR | Hesse CPI (MoM) (Oct) |  |  | 0.5% |
+| 09:00 | EUR | Hesse CPI (YoY) (Oct) |  |  | 3.4% |
+| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Oct) |  |  | 0.6% |
+| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Oct) |  |  | 3.3% |
+| 09:00 | EUR | Saxony CPI (YoY) (Oct) |  |  | 3.4% |
+| 09:00 | EUR | Saxony CPI (MoM) (Oct) |  |  | 0.6% |
+| 09:00 | EUR | Spanish Current account (Aug) |  |  | 5.91B |
+| 09:00 | NOK | Central Bank Currency Purchase (Nov) |  |  | 300.0M |
+| 10:00 | EUR | Italian CPI (MoM) (Oct) |  | 0.1% | 0.7% |
+| 10:00 | EUR | Italian CPI (YoY) (Oct) |  | 4.6% | 4.2% |
+| 10:00 | EUR | Italian HICP (MoM) (Oct) |  | 0.5% | 2.1% |
+| 10:00 | EUR | Italian HICP (YoY) (Oct) |  | 4.6% | 4.2% |
+| 10:00 | INR | Federal Fiscal Deficit (Sep) |  |  | 7,102.49B |
+| 11:30 | INR | Bank Loan Growth |  |  | 18.2% |
+| 11:30 | INR | Deposit Growth |  |  | 16.7% |
+| 11:30 | INR | FX Reserves, USD |  |  | 721.02B |
+| 11:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
+| 11:30 | BRL | Net Debt-to-GDP ratio (Sep) |  |  | 69.3% |
+| 11:30 | BRL | Budget Balance (Sep) |  |  | -116.000B |
+| 11:30 | BRL | Budget Surplus (Sep) |  |  | -10.000B |
+| 12:00 | ZAR | Budget Balance (MoM) (Sep) |  |  | -29.14B |
+| 12:00 | ZAR | Trade Balance (Sep) |  |  | 20.47B |
+| 12:30 | USD | Employment Benefits (QoQ) (Q3) |  |  | 1.00% |
+| 12:30 | USD | Employment Wages (QoQ) (Q3) |  |  | 0.90% |
+| 13:00 | EUR | German HICP (MoM) (Oct) |  | 0.1% | 0.6% |
+| 13:00 | EUR | German HICP (YoY) (Oct) |  | 3.1% | 3.3% |
+| 15:00 | CAD | Budget Balance (Aug) |  |  | -4.77B |
+| 15:00 | CAD | Budget Balance (YoY) (Aug) |  |  | -5.14B |
+| 19:00 | MXN | Fiscal Balance (Sep) |  |  | -5.57B |
+| 19:30 | USD | CFTC Aluminium speculative net positions |  |  | -1.0K |
+| 19:30 | USD | CFTC Copper speculative net positions |  |  | 57.4K |
+| 19:30 | USD | CFTC Corn speculative net positions |  |  | 286.7K |
+| 19:30 | USD | CFTC Natural Gas speculative net positions |  |  | -241.3K |
+| 19:30 | USD | CFTC Silver speculative net positions |  |  | 19.8K |
+| 19:30 | USD | CFTC Soybeans speculative net positions |  |  | 246.6K |
+| 19:30 | USD | CFTC Wheat speculative net positions |  |  | -29.3K |
+| 19:30 | CAD | CFTC CAD speculative net positions |  |  | -74.7K |
+| 19:30 | MXN | CFTC MXN speculative net positions |  |  | 17.0K |
+| 19:30 | CHF | CFTC CHF speculative net positions |  |  | -18.1K |
+| 19:30 | NZD | CFTC NZD speculative net positions |  |  | -58.1K |
+| 22:30 | USD | Dallas Fed PCE (Sep) |  |  | 1.90% |
