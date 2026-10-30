@@ -69,6 +69,7 @@
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q3) | 0.4% | 0.2% | 0.6% |
 | 10:00 | EUR | Moderate | GDP (YoY) (Q3) | 1.3% | 1.1% | 1.2% |
 | 10:00 | EUR | Moderate | Unemployment Rate (Sep) | 6.5% | 6.4% | 6.5% |
+| 11:30 | INR | Low | Bank Loan Growth |  |  | 18.2% |
 | 11:30 | INR | Low | FX Reserves, USD | 719.75B |  | 721.02B |
 | 11:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
 | 12:00 | MXN | Moderate | GDP (YoY) (Q3) | 3.2% | 2.5% | 2.1% |
@@ -76,23 +77,23 @@
 | 12:00 | BRL | Moderate | Unemployment Rate (Sep) | 5.2% | 5.2% | 5.3% |
 | 12:00 | ZAR | Low | Budget Balance (MoM) (Sep) | -22.10B |  | -29.14B |
 | 12:00 | ZAR | Low | Trade Balance (Sep) | 19.80B |  | 18.97B |
-| 12:30 | USD | Low | Employment Benefits (QoQ) (Q3) |  |  | 1.00% |
-| 12:30 | USD | Moderate | Employment Cost Index (QoQ) (Q3) |  | 0.8% | 0.9% |
-| 12:30 | USD | Low | Employment Wages (QoQ) (Q3) |  |  | 0.90% |
-| 12:30 | CAD | Moderate | GDP (MoM) (Aug) |  | 0.0% | 0.0% |
-| 12:31 | CAD | Moderate | GDP (MoM) (Sep) |  |  |  |
-| 13:00 | EUR | High | German CPI (MoM) (Oct) |  | 0.1% | 0.6% |
-| 13:00 | EUR | Moderate | German CPI (YoY) (Oct) |  | 3.0% | 3.3% |
-| 13:00 | EUR | Low | German HICP (MoM) (Oct) |  | 0.1% | 0.6% |
-| 13:00 | EUR | Low | German HICP (YoY) (Oct) |  | 3.1% | 3.3% |
-| 13:45 | USD | High | Chicago PMI (Oct) |  | 55.8 | 58.8 |
-| 15:00 | CAD | Low | Budget Balance (Aug) |  |  | -4.77B |
-| 15:00 | CAD | Low | Budget Balance (YoY) (Aug) |  |  | -5.14B |
+| 12:30 | USD | Low | Employment Benefits (QoQ) (Q3) | 0.90% |  | 1.00% |
+| 12:30 | USD | Moderate | Employment Cost Index (QoQ) (Q3) | 0.8% | 0.8% | 0.9% |
+| 12:30 | USD | Low | Employment Wages (QoQ) (Q3) | 0.70% |  | 0.90% |
+| 12:30 | CAD | Moderate | GDP (MoM) (Aug) | 0.0% | 0.2% | 0.0% |
+| 12:31 | CAD | Moderate | GDP (MoM) (Sep) | -0.1% |  | 0.0% |
+| 13:00 | EUR | High | German CPI (MoM) (Oct) | -0.2% | 0.1% | 0.6% |
+| 13:00 | EUR | Moderate | German CPI (YoY) (Oct) | 2.8% | 3.0% | 3.3% |
+| 13:00 | EUR | Low | German HICP (MoM) (Oct) | -0.1% | 0.1% | 0.6% |
+| 13:00 | EUR | Low | German HICP (YoY) (Oct) | 2.8% | 3.1% | 3.3% |
+| 13:45 | USD | High | Chicago PMI (Oct) | 55.3 | 55.8 | 58.8 |
+| 15:00 | CAD | Low | Budget Balance (Aug) | -0.22B |  | -4.77B |
+| 15:00 | CAD | Low | Budget Balance (YoY) (Aug) | -5.36B |  | -5.14B |
 | 16:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 16:10 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 17:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 460 |
-| 17:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 603 |
-| 19:00 | MXN | Low | Fiscal Balance (Sep) |  |  | -5.57B |
+| 17:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 462 |  | 460 |
+| 17:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 603 |  | 603 |
+| 18:00 | MXN | Low | Fiscal Balance (Sep) | -222.34B |  | -5.57B |
 | 19:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -80.4K |
 | 19:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -1.0K |
 | 19:30 | USD | Low | CFTC Copper speculative net positions |  |  | 57.4K |

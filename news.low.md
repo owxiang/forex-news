@@ -45,17 +45,18 @@
 | 10:00 | EUR | Italian HICP (MoM) (Oct) | 1.2% | 0.5% | 2.1% |
 | 10:00 | EUR | Italian HICP (YoY) (Oct) | 5.6% | 4.6% | 4.2% |
 | 10:00 | INR | Federal Fiscal Deficit (Sep) | 7,144.13B |  | 7,102.49B |
+| 11:30 | INR | Bank Loan Growth |  |  | 18.2% |
 | 11:30 | INR | FX Reserves, USD | 719.75B |  | 721.02B |
 | 11:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
 | 12:00 | ZAR | Budget Balance (MoM) (Sep) | -22.10B |  | -29.14B |
 | 12:00 | ZAR | Trade Balance (Sep) | 19.80B |  | 18.97B |
-| 12:30 | USD | Employment Benefits (QoQ) (Q3) |  |  | 1.00% |
-| 12:30 | USD | Employment Wages (QoQ) (Q3) |  |  | 0.90% |
-| 13:00 | EUR | German HICP (MoM) (Oct) |  | 0.1% | 0.6% |
-| 13:00 | EUR | German HICP (YoY) (Oct) |  | 3.1% | 3.3% |
-| 15:00 | CAD | Budget Balance (Aug) |  |  | -4.77B |
-| 15:00 | CAD | Budget Balance (YoY) (Aug) |  |  | -5.14B |
-| 19:00 | MXN | Fiscal Balance (Sep) |  |  | -5.57B |
+| 12:30 | USD | Employment Benefits (QoQ) (Q3) | 0.90% |  | 1.00% |
+| 12:30 | USD | Employment Wages (QoQ) (Q3) | 0.70% |  | 0.90% |
+| 13:00 | EUR | German HICP (MoM) (Oct) | -0.1% | 0.1% | 0.6% |
+| 13:00 | EUR | German HICP (YoY) (Oct) | 2.8% | 3.1% | 3.3% |
+| 15:00 | CAD | Budget Balance (Aug) | -0.22B |  | -4.77B |
+| 15:00 | CAD | Budget Balance (YoY) (Aug) | -5.36B |  | -5.14B |
+| 18:00 | MXN | Fiscal Balance (Sep) | -222.34B |  | -5.57B |
 | 19:30 | USD | CFTC Aluminium speculative net positions |  |  | -1.0K |
 | 19:30 | USD | CFTC Copper speculative net positions |  |  | 57.4K |
 | 19:30 | USD | CFTC Corn speculative net positions |  |  | 286.7K |

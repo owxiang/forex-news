@@ -27,14 +27,14 @@
 | 12:00 | MXN | GDP (YoY) (Q3) | 3.2% | 2.5% | 2.1% |
 | 12:00 | MXN | GDP (QoQ) (Q3) | 0.9% | 0.7% | 1.4% |
 | 12:00 | BRL | Unemployment Rate (Sep) | 5.2% | 5.2% | 5.3% |
-| 12:30 | USD | Employment Cost Index (QoQ) (Q3) |  | 0.8% | 0.9% |
-| 12:30 | CAD | GDP (MoM) (Aug) |  | 0.0% | 0.0% |
-| 12:31 | CAD | GDP (MoM) (Sep) |  |  |  |
-| 13:00 | EUR | German CPI (YoY) (Oct) |  | 3.0% | 3.3% |
+| 12:30 | USD | Employment Cost Index (QoQ) (Q3) | 0.8% | 0.8% | 0.9% |
+| 12:30 | CAD | GDP (MoM) (Aug) | 0.0% | 0.2% | 0.0% |
+| 12:31 | CAD | GDP (MoM) (Sep) | -0.1% |  | 0.0% |
+| 13:00 | EUR | German CPI (YoY) (Oct) | 2.8% | 3.0% | 3.3% |
 | 16:00 | USD | FOMC Member Daly Speaks |  |  |  |
 | 16:10 | EUR | ECB's Lane Speaks |  |  |  |
-| 17:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 460 |
-| 17:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 603 |
+| 17:00 | USD | U.S. Baker Hughes Oil Rig Count | 462 |  | 460 |
+| 17:00 | USD | U.S. Baker Hughes Total Rig Count | 603 |  | 603 |
 | 19:30 | GBP | CFTC GBP speculative net positions |  |  | -80.4K |
 | 19:30 | USD | CFTC Crude Oil speculative net positions |  |  | 89.3K |
 | 19:30 | USD | CFTC Gold speculative net positions |  |  | 199.9K |
