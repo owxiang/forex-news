@@ -7,4 +7,4 @@
 | 00:00 | KRW | Low | Imports (YoY) (Oct) | 36.0% | 39.9% | 26.0% |
 | 00:00 | KRW | Low | Trade Balance (Oct) | 42.50B | 37.24B | 49.97B |
 | 10:00 | USD | Moderate | OPEC Meeting |  |  |  |
-| 22:00 | AUD | Low | S&P Global Manufacturing PMI (Oct) |  | 49.7 | 49.7 |
+| 22:00 | AUD | Low | S&P Global Manufacturing PMI (Oct) | 49.6 | 49.7 | 49.6 |
