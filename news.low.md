@@ -20,19 +20,21 @@
 | 07:00 | EUR | German Retail Sales (YoY) (Sep) | -2.3% |  | -0.3% |
 | 07:30 | CHF | Retail Sales (YoY) (Sep) | 1.6% | 3.0% | 3.9% |
 | 09:00 | ZAR | Manufacturing PMI (Oct) | 49.6 |  | 48.7 |
-| 11:00 | EUR | Car Registration (MoM) (Oct) |  |  | 36.90% |
-| 11:00 | EUR | Car Registration (YoY) (Oct) |  |  | 10.20% |
-| 12:15 | ZAR | Total Vehicle Sales (YoY) (Oct) |  |  | 12.70% |
-| 12:15 | ZAR | Total Vehicle Sales (Oct) |  |  | 61.65K |
-| 13:00 | SGD | S&P Global Manufacturing PMI (Oct) |  |  | 51.7 |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 3.365% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.787% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 3.025% |
-| 14:30 | CAD | S&P Global Manufacturing PMI (Oct) |  |  | 51.5 |
-| 15:00 | USD | ISM Manufacturing New Orders Index (Oct) |  |  | 55.3 |
-| 15:30 | USD | 3-Month Bill Auction |  |  | 4.050% |
-| 15:30 | USD | 6-Month Bill Auction |  |  | 4.210% |
+| 11:00 | EUR | Car Registration (YoY) (Oct) | 1.80% |  | 10.20% |
+| 11:00 | EUR | Car Registration (MoM) (Oct) | 4.90% |  | 36.90% |
+| 12:00 | ZAR | Total Vehicle Sales (YoY) (Oct) | 10.40% |  | 12.70% |
+| 12:00 | ZAR | Total Vehicle Sales (Oct) | 61.89K |  | 61.66K |
+| 13:00 | SGD | S&P Global Manufacturing PMI (Oct) | 51.4 |  | 51.7 |
+| 14:00 | EUR | French 12-Month BTF Auction | 3.352% |  | 3.365% |
+| 14:00 | EUR | French 3-Month BTF Auction | 2.788% |  | 2.787% |
+| 14:00 | EUR | French 6-Month BTF Auction | 3.068% |  | 3.025% |
+| 14:30 | CAD | S&P Global Manufacturing PMI (Oct) | 49.6 |  | 51.5 |
+| 15:00 | USD | ISM Manufacturing New Orders Index (Oct) | 55.5 | 54.5 | 55.3 |
 | 16:15 | USD | Fed Goolsbee Speaks |  |  |  |
+| 16:30 | USD | 3-Month Bill Auction | 4.040% |  | 4.050% |
+| 16:30 | USD | 6-Month Bill Auction | 4.150% |  | 4.210% |
+| 17:00 | EUR | Italian Car Registration (YoY) (Oct) | 4.8% |  | 9.8% |
+| 17:00 | EUR | French Car Registration (YoY) (Oct) | 7.0% |  | 11.6% |
 | 19:00 | USD | Loan Officer Survey |  |  |  |
 | 21:45 | NZD | Building Consents (MoM) (Sep) |  |  | 5.6% |
 | 22:30 | USD | Dallas Fed PCE (Sep) |  |  | 1.90% |

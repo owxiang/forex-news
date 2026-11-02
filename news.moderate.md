@@ -13,6 +13,6 @@
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Oct) | 52.7 | 52.4 | 52.9 |
 | 09:30 | GBP | S&P Global Manufacturing PMI (Oct) | 52.8 | 52.8 | 51.9 |
 | 12:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 15:00 | USD | Construction Spending (MoM) (Sep) |  | 0.4% | 0.9% |
-| 15:00 | USD | ISM Manufacturing Employment (Oct) |  |  | 52.7 |
-| 15:30 | USD | Atlanta Fed GDPNow (Q4) |  | 3.2% | 3.2% |
+| 15:00 | USD | Construction Spending (MoM) (Sep) | -1.9% | 0.4% | 2.0% |
+| 15:00 | USD | ISM Manufacturing Employment (Oct) | 52.4 | 52.0 | 52.7 |
+| 17:00 | USD | Atlanta Fed GDPNow (Q4) | 3.7% | 3.2% | 3.2% |

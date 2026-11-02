@@ -30,26 +30,28 @@
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Oct) | 52.7 | 52.4 | 52.9 |
 | 09:00 | ZAR | Low | Manufacturing PMI (Oct) | 49.6 |  | 48.7 |
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Oct) | 52.8 | 52.8 | 51.9 |
-| 11:00 | EUR | Low | Car Registration (MoM) (Oct) |  |  | 36.90% |
-| 11:00 | EUR | Low | Car Registration (YoY) (Oct) |  |  | 10.20% |
+| 11:00 | EUR | Low | Car Registration (YoY) (Oct) | 1.80% |  | 10.20% |
+| 11:00 | EUR | Low | Car Registration (MoM) (Oct) | 4.90% |  | 36.90% |
 | 12:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 12:15 | ZAR | Low | Total Vehicle Sales (YoY) (Oct) |  |  | 12.70% |
-| 12:15 | ZAR | Low | Total Vehicle Sales (Oct) |  |  | 61.65K |
-| 13:00 | SGD | Low | S&P Global Manufacturing PMI (Oct) |  |  | 51.7 |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 3.365% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.787% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 3.025% |
-| 14:30 | CAD | Low | S&P Global Manufacturing PMI (Oct) |  |  | 51.5 |
-| 14:45 | USD | High | S&P Global Manufacturing PMI (Oct) |  | 56.0 | 55.9 |
-| 15:00 | USD | Moderate | Construction Spending (MoM) (Sep) |  | 0.4% | 0.9% |
-| 15:00 | USD | Moderate | ISM Manufacturing Employment (Oct) |  |  | 52.7 |
-| 15:00 | USD | Low | ISM Manufacturing New Orders Index (Oct) |  |  | 55.3 |
-| 15:00 | USD | High | ISM Manufacturing PMI (Oct) |  | 54.5 | 54.5 |
-| 15:00 | USD | High | ISM Manufacturing Prices (Oct) |  | 77.2 | 77.9 |
-| 15:30 | USD | Low | 3-Month Bill Auction |  |  | 4.050% |
-| 15:30 | USD | Low | 6-Month Bill Auction |  |  | 4.210% |
-| 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 3.2% | 3.2% |
+| 12:00 | ZAR | Low | Total Vehicle Sales (YoY) (Oct) | 10.40% |  | 12.70% |
+| 12:00 | ZAR | Low | Total Vehicle Sales (Oct) | 61.89K |  | 61.66K |
+| 13:00 | SGD | Low | S&P Global Manufacturing PMI (Oct) | 51.4 |  | 51.7 |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 3.352% |  | 3.365% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.788% |  | 2.787% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 3.068% |  | 3.025% |
+| 14:30 | CAD | Low | S&P Global Manufacturing PMI (Oct) | 49.6 |  | 51.5 |
+| 14:45 | USD | High | S&P Global Manufacturing PMI (Oct) | 54.9 | 56.0 | 56.0 |
+| 15:00 | USD | Moderate | Construction Spending (MoM) (Sep) | -1.9% | 0.4% | 2.0% |
+| 15:00 | USD | Moderate | ISM Manufacturing Employment (Oct) | 52.4 | 52.0 | 52.7 |
+| 15:00 | USD | Low | ISM Manufacturing New Orders Index (Oct) | 55.5 | 54.5 | 55.3 |
+| 15:00 | USD | High | ISM Manufacturing PMI (Oct) | 55.5 | 54.5 | 54.5 |
+| 15:00 | USD | High | ISM Manufacturing Prices (Oct) | 75.2 | 77.2 | 77.9 |
 | 16:15 | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 16:30 | USD | Low | 3-Month Bill Auction | 4.040% |  | 4.050% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 4.150% |  | 4.210% |
+| 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 3.7% | 3.2% | 3.2% |
+| 17:00 | EUR | Low | Italian Car Registration (YoY) (Oct) | 4.8% |  | 9.8% |
+| 17:00 | EUR | Low | French Car Registration (YoY) (Oct) | 7.0% |  | 11.6% |
 | 19:00 | USD | Low | Loan Officer Survey |  |  |  |
 | 21:45 | NZD | Low | Building Consents (MoM) (Sep) |  |  | 5.6% |
 | 22:30 | USD | Low | Dallas Fed PCE (Sep) |  |  | 1.90% |
