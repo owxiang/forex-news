@@ -1,3 +1,7 @@
-## 01 November 2026 - High Impact Forex News
+## 02 November 2026 - High Impact Forex News
 
-There is no high impact news today.
+| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 14:45 | USD | S&P Global Manufacturing PMI (Oct) |  | 56.0 | 56.0 |
+| 15:00 | USD | ISM Manufacturing PMI (Oct) |  | 54.7 | 54.5 |
+| 15:00 | USD | ISM Manufacturing Prices (Oct) |  | 77.2 | 77.9 |
