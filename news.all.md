@@ -2,36 +2,33 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 03:30 | AUD | High | RBA Interest Rate Decision (Nov) |  | 4.85% | 4.60% |
-| 04:30 | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
-| 04:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
-| 05:00 | USD | Low | Dallas Fed PCE (Sep) |  |  | 1.90% |
-| 05:00 | AUD | Low | ANZ Job Advertisements (MoM) |  |  | 2.2% |
-| 07:30 | CHF | Moderate | CPI (MoM) (Oct) |  | 0.0% | 0.0% |
-| 07:30 | CHF | Low | CPI (YoY) (Oct) |  | 1.3% | 1.0% |
-| 07:45 | EUR | Low | French Government Budget Balance (Sep) |  |  | -159.6B |
-| 08:30 | HKD | Low | GDP (QoQ) (Q3) |  |  | -0.6% |
-| 08:30 | HKD | Low | GDP (YoY) (Q3) |  |  | 4.3% |
-| 08:30 | HKD | Low | Retail Sales (YoY) (Sep) |  |  | 5.6% |
-| 09:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.999% |
-| 09:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 2.769% |
-| 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 3.220% |
+| 03:30 | AUD | High | RBA Interest Rate Decision (Nov) | 4.85% | 4.85% | 4.60% |
+| 03:30 | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
+| 03:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
+| 07:30 | CHF | Moderate | CPI (MoM) (Oct) | 0.2% | 0.0% | 0.0% |
+| 07:30 | CHF | Low | CPI (YoY) (Oct) | 1.5% | 1.3% | 1.0% |
+| 07:45 | EUR | Low | French Government Budget Balance (Sep) | -159.2B |  | -159.6B |
+| 08:30 | HKD | Low | GDP (QoQ) (Q3) | 1.9% |  | -0.6% |
+| 08:30 | HKD | Low | GDP (YoY) (Q3) | 5.2% |  | 4.3% |
+| 08:30 | HKD | Low | Retail Sales (YoY) (Sep) | 6.4% |  | 5.6% |
+| 09:40 | EUR | Low | Spanish 12-Month Letras Auction | 3.045% |  | 2.999% |
+| 09:40 | EUR | Low | Spanish 6-Month Letras Auction | 2.822% |  | 2.769% |
+| 10:30 | EUR | Low | German 5-Year Bobl Auction | 3.140% |  | 3.220% |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 12:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 2.5% |
-| 12:00 | USD | Low | Milk Auctions |  |  | 4,021.0 |
 | 13:00 | BRL | Low | S&P Global Manufacturing PMI (Oct) |  |  | 44.8 |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 9.3% |
-| 14:45 | USD | High | S&P Global Manufacturing PMI (Oct) |  | 56.0 | 55.9 |
 | 15:00 | USD | Low | Durables Excluding Defense (MoM) (Sep) |  | 2.2% | 2.2% |
 | 15:00 | USD | Low | Durables Excluding Transport (MoM) (Sep) |  |  | 0.5% |
 | 15:00 | USD | Moderate | Factory Orders (MoM) (Sep) |  | 1.2% | 0.1% |
-| 15:00 | USD | Low | Factory orders ex transportation (MoM) (Sep) |  |  | 0.3% |
+| 15:00 | USD | Low | Factory orders ex transportation (MoM) (Sep) |  | 0.5% | 0.3% |
 | 15:00 | USD | Low | IBD/TIPP Economic Optimism (Nov) |  | 46.2 | 46.8 |
-| 15:00 | USD | High | JOLTS Job Openings (Sep) |  | 7.110M | 7.079M |
+| 15:00 | USD | High | JOLTS Job Openings (Sep) |  | 7.150M | 7.079M |
 | 15:00 | MXN | Low | S&P Global Manufacturing PMI (Oct) |  |  | 50.30 |
+| 15:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 2.5% |
+| 15:00 | USD | Low | Milk Auctions |  |  | 4,021.0 |
 | 16:00 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 17:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 19:00 | USD | Low | Total Vehicle Sales (Oct) |  | 15.90M | 16.00M |
+| 19:00 | USD | Low | Total Vehicle Sales (Oct) |  | 15.80M | 16.00M |
 | 21:00 | KRW | Low | FX Reserves - USD (Oct) |  |  | 440.56B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -2.031M |
 | 21:45 | NZD | Low | Employment Change (QoQ) (Q3) |  | 0.4% | 0.5% |
