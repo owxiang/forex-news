@@ -20,15 +20,14 @@
 | 15:00 | MXN | S&P Global Manufacturing PMI (Oct) | 49.50 |  | 50.30 |
 | 15:30 | NZD | GlobalDairyTrade Price Index | 3.0% |  | 2.5% |
 | 15:30 | USD | Milk Auctions | 4,166.0 |  | 4,021.0 |
-| 42 min | USD | Total Vehicle Sales (Oct) |  | 15.80M | 16.00M |
-| 21:00 | KRW | FX Reserves - USD (Oct) |  |  | 440.56B |
-| 21:45 | NZD | Employment Change (QoQ) (Q3) |  | 0.4% | 0.5% |
-| 21:45 | NZD | Labor Cost Index (QoQ) (Q3) |  | 0.5% | 0.7% |
-| 21:45 | NZD | Labor Cost Index (YoY) (Q3) |  |  | 2.1% |
-| 21:45 | NZD | Participation Rate (Q3) |  |  | 70.70% |
-| 21:45 | NZD | Unemployment Rate (Q3) |  | 5.5% | 5.6% |
-| 22:00 | AUD | AIG Construction Index (Oct) |  |  | -6.9 |
-| 22:00 | AUD | AIG Manufacturing Index (Oct) |  |  | -16.6 |
-| 22:00 | AUD | S&P Global Manufacturing & Services PMI (Oct) |  | 47.70 | 47.70 |
-| 22:00 | AUD | S&P Global Services PMI (Oct) |  | 47.8 | 47.8 |
-| 23:50 | JPY | Monetary Base (YoY) (Oct) |  | -14.0% | -15.2% |
+| 21:00 | KRW | FX Reserves - USD (Oct) | 443.16B |  | 440.56B |
+| 21:45 | NZD | Employment Change (QoQ) (Q3) | -0.1% | 0.4% | 0.3% |
+| 21:45 | NZD | Labor Cost Index (QoQ) (Q3) | 0.4% | 0.5% | 0.7% |
+| 21:45 | NZD | Labor Cost Index (YoY) (Q3) | 2.0% | 2.1% | 2.1% |
+| 21:45 | NZD | Participation Rate (Q3) | 70.40% | 70.70% | 70.60% |
+| 21:45 | NZD | Unemployment Rate (Q3) | 5.7% | 5.5% | 5.6% |
+| 22:00 | AUD | AIG Construction Index (Oct) | -26.9 |  | -6.9 |
+| 22:00 | AUD | AIG Manufacturing Index (Oct) | -20.1 |  | -16.6 |
+| 22:00 | AUD | S&P Global Manufacturing & Services PMI (Oct) | 48.20 | 47.70 | 51.30 |
+| 22:00 | AUD | S&P Global Services PMI (Oct) | 48.5 | 47.8 | 51.9 |
+| 23:50 | JPY | Monetary Base (YoY) (Oct) | -13.7% | -14.0% | -15.2% |
