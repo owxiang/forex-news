@@ -14,23 +14,23 @@
 | 09:40 | EUR | Low | Spanish 12-Month Letras Auction | 3.045% |  | 2.999% |
 | 09:40 | EUR | Low | Spanish 6-Month Letras Auction | 2.822% |  | 2.769% |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction | 3.140% |  | 3.220% |
+| 11:00 | USD | Low | IBD/TIPP Economic Optimism (Nov) | 48.5 | 46.2 | 46.8 |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | BRL | Low | S&P Global Manufacturing PMI (Oct) |  |  | 44.8 |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 9.3% |
-| 15:00 | USD | Low | Durables Excluding Defense (MoM) (Sep) |  | 2.2% | 2.2% |
-| 15:00 | USD | Low | Durables Excluding Transport (MoM) (Sep) |  |  | 0.5% |
-| 15:00 | USD | Moderate | Factory Orders (MoM) (Sep) |  | 1.2% | 0.1% |
-| 15:00 | USD | Low | Factory orders ex transportation (MoM) (Sep) |  | 0.5% | 0.3% |
-| 15:00 | USD | Low | IBD/TIPP Economic Optimism (Nov) |  | 46.2 | 46.8 |
-| 15:00 | USD | High | JOLTS Job Openings (Sep) |  | 7.150M | 7.079M |
-| 15:00 | MXN | Low | S&P Global Manufacturing PMI (Oct) |  |  | 50.30 |
-| 15:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 2.5% |
-| 15:00 | USD | Low | Milk Auctions |  |  | 4,021.0 |
+| 13:00 | BRL | Low | S&P Global Manufacturing PMI (Oct) | 46.1 |  | 44.8 |
+| 13:55 | USD | Low | Redbook (YoY) | 10.4% |  | 9.3% |
+| 15:00 | USD | Low | Durables Excluding Defense (MoM) (Sep) | 2.3% | 2.2% | 0.0% |
+| 15:00 | USD | Low | Durables Excluding Transport (MoM) (Sep) | 0.5% | 0.5% | 0.2% |
+| 15:00 | USD | Moderate | Factory Orders (MoM) (Sep) | 1.8% | 1.2% | 0.3% |
+| 15:00 | USD | Low | Factory orders ex transportation (MoM) (Sep) | 1.3% | 0.5% | 0.4% |
+| 15:00 | USD | High | JOLTS Job Openings (Sep) | 7.523M | 7.150M | 7.190M |
+| 15:00 | MXN | Low | S&P Global Manufacturing PMI (Oct) | 49.50 |  | 50.30 |
+| 15:30 | NZD | Low | GlobalDairyTrade Price Index | 3.0% |  | 2.5% |
+| 15:30 | USD | Low | Milk Auctions | 4,166.0 |  | 4,021.0 |
 | 16:00 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 17:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 19:00 | USD | Low | Total Vehicle Sales (Oct) |  | 15.80M | 16.00M |
+| 42 min | USD | Low | Total Vehicle Sales (Oct) |  | 15.80M | 16.00M |
 | 21:00 | KRW | Low | FX Reserves - USD (Oct) |  |  | 440.56B |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -2.031M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 2.100M | -2.031M |
 | 21:45 | NZD | Low | Employment Change (QoQ) (Q3) |  | 0.4% | 0.5% |
 | 21:45 | NZD | Low | Labor Cost Index (QoQ) (Q3) |  | 0.5% | 0.7% |
 | 21:45 | NZD | Low | Labor Cost Index (YoY) (Q3) |  |  | 2.1% |
