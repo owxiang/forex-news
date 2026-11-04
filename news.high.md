@@ -1,6 +1,10 @@
-## 03 November 2026 - High Impact Forex News
+## 04 November 2026 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:30 | AUD | RBA Interest Rate Decision (Nov) | 4.85% | 4.85% | 4.60% |
-| 15:00 | USD | JOLTS Job Openings (Sep) | 7.523M | 7.150M | 7.190M |
+| 10:00 | EUR | CPI (YoY) (Oct) |  | 4.0% | 3.8% |
+| 13:15 | USD | ADP Nonfarm Employment Change (Oct) |  | 67K | 90K |
+| 14:45 | USD | S&P Global Services PMI (Oct) |  | 57.9 | 58.8 |
+| 15:00 | USD | ISM Non-Manufacturing PMI (Oct) |  | 54.8 | 54.9 |
+| 15:00 | USD | ISM Non-Manufacturing Prices (Oct) |  |  | 74.0 |
+| 15:30 | USD | Crude Oil Inventories |  | -1.700M | -1.892M |

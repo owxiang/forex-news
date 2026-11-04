@@ -1,33 +1,44 @@
-## 03 November 2026 - Low Impact Forex News
+## 04 November 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:30 | CHF | CPI (YoY) (Oct) | 1.5% | 1.3% | 1.0% |
-| 07:45 | EUR | French Government Budget Balance (Sep) | -159.2B |  | -159.6B |
-| 08:30 | HKD | GDP (QoQ) (Q3) | 1.9% |  | -0.6% |
-| 08:30 | HKD | GDP (YoY) (Q3) | 5.2% |  | 4.3% |
-| 08:30 | HKD | Retail Sales (YoY) (Sep) | 6.4% |  | 5.6% |
-| 09:40 | EUR | Spanish 12-Month Letras Auction | 3.045% |  | 2.999% |
-| 09:40 | EUR | Spanish 6-Month Letras Auction | 2.822% |  | 2.769% |
-| 10:30 | EUR | German 5-Year Bobl Auction | 3.140% |  | 3.220% |
-| 11:00 | USD | IBD/TIPP Economic Optimism (Nov) | 48.5 | 46.2 | 46.8 |
-| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | BRL | S&P Global Manufacturing PMI (Oct) | 46.1 |  | 44.8 |
-| 13:55 | USD | Redbook (YoY) | 10.4% |  | 9.3% |
-| 15:00 | USD | Durables Excluding Defense (MoM) (Sep) | 2.3% | 2.2% | 0.0% |
-| 15:00 | USD | Durables Excluding Transport (MoM) (Sep) | 0.5% | 0.5% | 0.2% |
-| 15:00 | USD | Factory orders ex transportation (MoM) (Sep) | 1.3% | 0.5% | 0.4% |
-| 15:00 | MXN | S&P Global Manufacturing PMI (Oct) | 49.50 |  | 50.30 |
-| 15:30 | NZD | GlobalDairyTrade Price Index | 3.0% |  | 2.5% |
-| 15:30 | USD | Milk Auctions | 4,166.0 |  | 4,021.0 |
-| 21:00 | KRW | FX Reserves - USD (Oct) | 443.16B |  | 440.56B |
-| 21:45 | NZD | Employment Change (QoQ) (Q3) | -0.1% | 0.4% | 0.3% |
-| 21:45 | NZD | Labor Cost Index (QoQ) (Q3) | 0.4% | 0.5% | 0.7% |
-| 21:45 | NZD | Labor Cost Index (YoY) (Q3) | 2.0% | 2.1% | 2.1% |
-| 21:45 | NZD | Participation Rate (Q3) | 70.40% | 70.70% | 70.60% |
-| 21:45 | NZD | Unemployment Rate (Q3) | 5.7% | 5.5% | 5.6% |
-| 22:00 | AUD | AIG Construction Index (Oct) | -26.9 |  | -6.9 |
-| 22:00 | AUD | AIG Manufacturing Index (Oct) | -20.1 |  | -16.6 |
-| 22:00 | AUD | S&P Global Manufacturing & Services PMI (Oct) | 48.20 | 47.70 | 51.30 |
-| 22:00 | AUD | S&P Global Services PMI (Oct) | 48.5 | 47.8 | 51.9 |
-| 23:50 | JPY | Monetary Base (YoY) (Oct) | -13.7% | -14.0% | -15.2% |
+| 00:00 | NZD | ANZ Commodity Price Index (MoM) | 0.6% |  | 0.6% |
+| 00:30 | HKD | S&P Global Manufacturing PMI (Oct) | 50.2 |  | 49.2 |
+| 01:30 | AUD | RBA Chart Pack Release |  |  |  |
+| 05:00 | INR | HSBC India Services PMI (Oct) | 55.8 | 56.2 | 55.2 |
+| 05:00 | INR | HSBC Manufacturing & Services PMI (Oct) | 56.20 | 56.70 | 55.90 |
+| 08:00 | EUR | Spanish Unemployment Change (Oct) |  | 18.7K | 23.6K |
+| 08:45 | EUR | HCOB Italy Composite PMI (Oct) |  |  | 51.0 |
+| 08:50 | EUR | HCOB France Composite PMI (Oct) |  | 48.4 | 51.1 |
+| 08:55 | EUR | HCOB Germany Composite PMI (Oct) |  | 52.8 | 53.8 |
+| 10:00 | BRL | IPC-Fipe Inflation Index (MoM) (Oct) |  |  | 0.51% |
+| 10:00 | NOK | House Price Index (YoY) (Oct) |  |  | 2.40% |
+| 10:00 | EUR | Core CPI (MoM) (Oct) |  |  | 0.2% |
+| 10:00 | EUR | CPI, n.s.a (Oct) |  |  | 104.31 |
+| 10:00 | EUR | HICP ex Energy & Food (YoY) (Oct) |  |  | 2.2% |
+| 10:00 | EUR | HICP ex Energy and Food (MoM) (Oct) |  |  | 0.2% |
+| 10:30 | EUR | German 30-Year Bund Auction |  |  | 3.800% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.37% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 3.4% |
+| 12:00 | USD | MBA Purchase Index |  |  | 134.1 |
+| 12:00 | USD | Mortgage Market Index |  |  | 195.0 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 516.8 |
+| 12:00 | MXN | Consumer Confidence (Oct) |  |  | 45.1 |
+| 12:00 | MXN | Consumer Confidence n.s.a. (Oct) |  |  | 45.2 |
+| 13:15 | CAD | Reserve Assets Total (Oct) |  |  | 125.3B |
+| 13:30 | CAD | Exports (Sep) |  |  | 77.91B |
+| 13:30 | CAD | Imports (Sep) |  |  | 73.71B |
+| 14:30 | CAD | S&P Global Services PMI (Oct) |  |  | 48.30 |
+| 15:00 | USD | ISM Non-Manufacturing Business Activity (Oct) |  |  | 56.5 |
+| 15:00 | USD | ISM Non-Manufacturing New Orders (Oct) |  |  | 59.8 |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.123M |
+| 15:30 | USD | Crude Oil Imports |  |  | -0.796M |
+| 15:30 | USD | Distillate Fuel Production |  |  | -0.071M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | -1.462M |
+| 15:30 | USD | Gasoline Production |  |  | -0.509M |
+| 15:30 | USD | Heating Oil Stockpiles |  |  | 0.164M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.6% |
+| 15:30 | USD | Gasoline Inventories |  |  | 3.870M |
+| 17:30 | BRL | CAGED Net Payroll Jobs (Sep) |  | 171.00K | 165.83K |
+| 17:30 | BRL | Foreign Exchange Flows |  |  | 3.506B |
+| 23:00 | KRW | Current Account (Sep) |  |  | 46.11B |
