@@ -26,19 +26,19 @@
 | 13:15 | CAD | Reserve Assets Total (Oct) | 126.2B |  | 125.3B |
 | 13:30 | CAD | Exports (Sep) | 78.55B |  | 78.41B |
 | 13:30 | CAD | Imports (Sep) | 73.20B |  | 73.46B |
-| 14:30 | CAD | S&P Global Services PMI (Oct) |  |  | 48.30 |
-| 15:00 | USD | All Car Sales (Oct) | 2.45M |  | 2.52M |
-| 15:00 | USD | All Truck Sales (Oct) | 13.09M |  | 13.46M |
-| 15:00 | USD | ISM Non-Manufacturing Business Activity (Oct) |  |  | 56.5 |
-| 15:00 | USD | ISM Non-Manufacturing New Orders (Oct) |  |  | 59.8 |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.123M |
-| 15:30 | USD | Crude Oil Imports |  |  | -0.796M |
-| 15:30 | USD | Distillate Fuel Production |  |  | -0.071M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  | -0.100M | -1.462M |
-| 15:30 | USD | Gasoline Production |  |  | -0.509M |
-| 15:30 | USD | Heating Oil Stockpiles |  |  | 0.164M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.6% |
-| 15:30 | USD | Gasoline Inventories |  | 0.200M | 3.870M |
-| 17:30 | BRL | CAGED Net Payroll Jobs (Sep) |  | 171.00K | 165.83K |
-| 17:30 | BRL | Foreign Exchange Flows |  |  | 3.506B |
+| 14:30 | USD | All Car Sales (Oct) | 2.45M |  | 2.52M |
+| 14:30 | USD | All Truck Sales (Oct) | 13.09M |  | 13.46M |
+| 14:30 | CAD | S&P Global Services PMI (Oct) | 48.10 |  | 48.30 |
+| 15:00 | USD | ISM Non-Manufacturing Business Activity (Oct) | 53.8 |  | 56.5 |
+| 15:00 | USD | ISM Non-Manufacturing New Orders (Oct) | 55.9 | 58.5 | 59.8 |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) | 0.199M |  | -0.123M |
+| 15:30 | USD | Crude Oil Imports | 1.179M |  | -0.796M |
+| 15:30 | USD | Distillate Fuel Production | -0.007M |  | -0.071M |
+| 15:30 | USD | EIA Weekly Distillates Stocks | -3.565M | -0.100M | -1.462M |
+| 15:30 | USD | Gasoline Production | 0.463M |  | -0.509M |
+| 15:30 | USD | Heating Oil Stockpiles | -0.203M |  | 0.164M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 1.7% |  | -0.6% |
+| 15:30 | USD | Gasoline Inventories | -0.222M | 0.200M | 3.870M |
+| 17:30 | BRL | CAGED Net Payroll Jobs (Sep) | 121.31K | 171.00K | 165.83K |
+| 17:30 | BRL | Foreign Exchange Flows | 9.498B |  | 3.506B |
 | 23:00 | KRW | Current Account (Sep) |  |  | 46.11B |

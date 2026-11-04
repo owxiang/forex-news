@@ -18,9 +18,9 @@
 | 13:30 | USD | Imports (Sep) | 426.60B |  | 421.40B |
 | 13:30 | USD | Trade Balance (Sep) | -105.00B | -107.90B | -105.70B |
 | 13:30 | CAD | Trade Balance (Sep) | 5.35B | 4.80B | 4.95B |
-| 14:45 | USD | S&P Global Composite PMI (Oct) |  | 57.6 | 58.4 |
-| 15:00 | USD | ISM Non-Manufacturing Employment (Oct) |  |  | 50.1 |
-| 15:30 | USD | Atlanta Fed GDPNow (Q4) |  | 3.7% | 3.7% |
-| 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.624M |
-| 21:30 | BRL | Interest Rate Decision |  | 13.75% | 13.75% |
+| 14:45 | USD | S&P Global Composite PMI (Oct) | 55.9 | 57.6 | 58.4 |
+| 15:00 | USD | ISM Non-Manufacturing Employment (Oct) | 51.4 | 50.0 | 50.1 |
+| 15:30 | USD | Cushing Crude Oil Inventories | 0.280M |  | -0.624M |
+| 16:30 | USD | Atlanta Fed GDPNow (Q4) | 3.4% | 3.7% | 3.7% |
+| 22 min | BRL | Interest Rate Decision |  | 13.75% | 13.75% |
 | 23:50 | JPY | Monetary Policy Meeting Minutes |  |  |  |

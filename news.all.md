@@ -44,29 +44,29 @@
 | 13:30 | CAD | Low | Exports (Sep) | 78.55B |  | 78.41B |
 | 13:30 | CAD | Low | Imports (Sep) | 73.20B |  | 73.46B |
 | 13:30 | CAD | Moderate | Trade Balance (Sep) | 5.35B | 4.80B | 4.95B |
-| 14:30 | CAD | Low | S&P Global Services PMI (Oct) |  |  | 48.30 |
-| 14:45 | USD | Moderate | S&P Global Composite PMI (Oct) |  | 57.6 | 58.4 |
-| 14:45 | USD | High | S&P Global Services PMI (Oct) |  | 57.9 | 58.8 |
-| 15:00 | USD | Low | All Car Sales (Oct) | 2.45M |  | 2.52M |
-| 15:00 | USD | Low | All Truck Sales (Oct) | 13.09M |  | 13.46M |
-| 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Oct) |  |  | 56.5 |
-| 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Oct) |  |  | 50.1 |
-| 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Oct) |  |  | 59.8 |
-| 15:00 | USD | High | ISM Non-Manufacturing PMI (Oct) |  | 54.8 | 54.9 |
-| 15:00 | USD | High | ISM Non-Manufacturing Prices (Oct) |  |  | 74.0 |
-| 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 3.7% | 3.7% |
-| 15:30 | USD | High | Crude Oil Inventories |  | -1.700M | -1.892M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.123M |
-| 15:30 | USD | Low | Crude Oil Imports |  |  | -0.796M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.624M |
-| 15:30 | USD | Low | Distillate Fuel Production |  |  | -0.071M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | -0.100M | -1.462M |
-| 15:30 | USD | Low | Gasoline Production |  |  | -0.509M |
-| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.164M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.6% |
-| 15:30 | USD | Low | Gasoline Inventories |  | 0.200M | 3.870M |
-| 17:30 | BRL | Low | CAGED Net Payroll Jobs (Sep) |  | 171.00K | 165.83K |
-| 17:30 | BRL | Low | Foreign Exchange Flows |  |  | 3.506B |
-| 21:30 | BRL | Moderate | Interest Rate Decision |  | 13.75% | 13.75% |
+| 14:30 | USD | Low | All Car Sales (Oct) | 2.45M |  | 2.52M |
+| 14:30 | USD | Low | All Truck Sales (Oct) | 13.09M |  | 13.46M |
+| 14:30 | CAD | Low | S&P Global Services PMI (Oct) | 48.10 |  | 48.30 |
+| 14:45 | USD | Moderate | S&P Global Composite PMI (Oct) | 55.9 | 57.6 | 58.4 |
+| 14:45 | USD | High | S&P Global Services PMI (Oct) | 56.1 | 57.9 | 58.8 |
+| 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Oct) | 53.8 |  | 56.5 |
+| 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Oct) | 51.4 | 50.0 | 50.1 |
+| 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Oct) | 55.9 | 58.5 | 59.8 |
+| 15:00 | USD | High | ISM Non-Manufacturing PMI (Oct) | 54.5 | 54.8 | 54.9 |
+| 15:00 | USD | High | ISM Non-Manufacturing Prices (Oct) | 73.0 | 74.6 | 74.0 |
+| 15:30 | USD | High | Crude Oil Inventories | -0.865M | -1.700M | -1.892M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.199M |  | -0.123M |
+| 15:30 | USD | Low | Crude Oil Imports | 1.179M |  | -0.796M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | 0.280M |  | -0.624M |
+| 15:30 | USD | Low | Distillate Fuel Production | -0.007M |  | -0.071M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks | -3.565M | -0.100M | -1.462M |
+| 15:30 | USD | Low | Gasoline Production | 0.463M |  | -0.509M |
+| 15:30 | USD | Low | Heating Oil Stockpiles | -0.203M |  | 0.164M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 1.7% |  | -0.6% |
+| 15:30 | USD | Low | Gasoline Inventories | -0.222M | 0.200M | 3.870M |
+| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 3.4% | 3.7% | 3.7% |
+| 17:30 | BRL | Low | CAGED Net Payroll Jobs (Sep) | 121.31K | 171.00K | 165.83K |
+| 17:30 | BRL | Low | Foreign Exchange Flows | 9.498B |  | 3.506B |
+| 22 min | BRL | Moderate | Interest Rate Decision |  | 13.75% | 13.75% |
 | 23:00 | KRW | Low | Current Account (Sep) |  |  | 46.11B |
 | 23:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
