@@ -2,5 +2,5 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 12:00 | GBP | BoE Interest Rate Decision (Nov) |  | 4.00% | 3.75% |
-| 13:30 | USD | Initial Jobless Claims |  | 197K | 194K |
+| 12:00 | GBP | BoE Interest Rate Decision (Nov) | 4.00% | 4.00% | 3.75% |
+| 13:30 | USD | Initial Jobless Claims | 189K | 197K | 195K |

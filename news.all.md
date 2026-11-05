@@ -36,35 +36,35 @@
 | 10:00 | EUR | Low | French 10-Year OAT Auction | 4.74% |  | 4.23% |
 | 10:00 | EUR | Low | PPI (MoM) (Sep) | 2.5% | 2.5% | 2.0% |
 | 10:00 | EUR | Low | PPI (YoY) (Sep) | 11.1% | 10.9% | 8.3% |
+| 10:20 | EUR | Low | German Car Registration (YoY) (Oct) | 1.7% |  | 9.0% |
 | 10:30 | USD | Low | Challenger Job Cuts (YoY) | -71.3% |  | -19.9% |
-| 11:00 | EUR | Low | German Car Registration (YoY) (Oct) |  |  | 9.0% |
-| 12:00 | GBP | Moderate | BoE MPC vote cut (Nov) |  | 0 | 0 |
-| 12:00 | GBP | Moderate | BoE MPC vote hike (Nov) |  | 7 | 3 |
-| 12:00 | GBP | Moderate | BoE MPC vote unchanged (Nov) |  | 2 | 6 |
-| 12:00 | GBP | High | BoE Interest Rate Decision (Nov) |  | 4.00% | 3.75% |
+| 12:00 | GBP | Moderate | BoE MPC vote cut (Nov) | 0 | 0 | 0 |
+| 12:00 | GBP | Moderate | BoE MPC vote hike (Nov) | 9 | 7 | 3 |
+| 12:00 | GBP | Moderate | BoE MPC vote unchanged (Nov) | 0 | 2 | 6 |
+| 12:00 | GBP | High | BoE Interest Rate Decision (Nov) | 4.00% | 4.00% | 3.75% |
 | 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
-| 12:00 | MXN | Low | Consumer Confidence (Oct) |  |  | 45.1 |
-| 12:00 | MXN | Low | Consumer Confidence n.s.a. (Oct) |  |  | 45.2 |
-| 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Aug) |  | 6.50% | 6.60% |
-| 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Aug) |  | -0.60% | 1.40% |
-| 12:00 | BRL | Low | Industrial Production (YoY) (Sep) |  | -1.7% | -1.2% |
-| 12:00 | BRL | Low | Industrial Production (MoM) (Sep) |  | -0.2% | -0.6% |
+| 12:00 | MXN | Low | Consumer Confidence (Oct) | 45.0 |  | 45.1 |
+| 12:00 | MXN | Low | Consumer Confidence n.s.a. (Oct) | 45.2 |  | 45.2 |
+| 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Aug) | 5.70% | 6.50% | 6.60% |
+| 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Aug) | -1.80% | -0.60% | 1.40% |
+| 12:00 | BRL | Low | Industrial Production (YoY) (Sep) | -2.5% | -1.7% | -1.2% |
+| 12:00 | BRL | Low | Industrial Production (MoM) (Sep) | -0.8% | -0.2% | -0.7% |
 | 12:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 12:40 | CHF | Low | SNB Chairman Schlegel Speaks |  |  |  |
-| 13:00 | BRL | Low | S&P Global Composite PMI (Oct) |  |  | 47.4 |
-| 13:00 | BRL | Low | S&P Global Services PMI (Oct) |  |  | 49.2 |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,710K | 1,701K |
-| 13:30 | USD | High | Initial Jobless Claims |  | 197K | 194K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 196.75K |
-| 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q3) |  | 2.8% | 1.4% |
-| 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q3) |  | 0.3% | 1.2% |
+| 13:00 | BRL | Low | S&P Global Composite PMI (Oct) | 44.4 |  | 47.4 |
+| 13:00 | BRL | Low | S&P Global Services PMI (Oct) | 44.5 |  | 49.2 |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,718K | 1,710K | 1,695K |
+| 13:30 | USD | High | Initial Jobless Claims | 189K | 197K | 195K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 194.75K |  | 197.00K |
+| 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q3) | 3.6% | 2.8% | 2.1% |
+| 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q3) | -0.7% | 0.3% | 1.9% |
 | 14:10 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 15:30 | USD | Low | Natural Gas Storage |  | 81B | 80B |
+| 15:30 | USD | Low | Natural Gas Storage | 77B | 81B | 80B |
 | 15:30 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 15:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 15:40 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.910% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.020% |
+| 16:30 | USD | Low | 4-Week Bill Auction | 3.890% |  | 3.910% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 3.975% |  | 4.020% |
 | 17:45 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 18:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 19:00 | MXN | Moderate | Interest Rate Decision (Nov) |  | 6.50% | 6.50% |
