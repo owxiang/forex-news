@@ -24,5 +24,5 @@
 | 15:40 | EUR | ECB's Lane Speaks |  |  |  |
 | 17:45 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 18:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 19:00 | MXN | Interest Rate Decision (Nov) |  | 6.50% | 6.50% |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 6,746B |
+| 19:00 | MXN | Interest Rate Decision (Nov) | 6.25% | 6.50% | 6.50% |
+| 21:30 | USD | Fed's Balance Sheet | 6,748B |  | 6,746B |

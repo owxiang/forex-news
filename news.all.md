@@ -67,11 +67,11 @@
 | 16:30 | USD | Low | 8-Week Bill Auction | 3.975% |  | 4.020% |
 | 17:45 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 18:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 19:00 | MXN | Moderate | Interest Rate Decision (Nov) |  | 6.50% | 6.50% |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,746B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.895T |
-| 23:30 | JPY | Low | Average Cash Earnings (YoY) |  | 3.8% | 3.8% |
-| 23:30 | JPY | Low | Overall wage income of employees (Sep) |  | 3.8% | 3.8% |
-| 23:30 | JPY | Low | Overtime Pay (YoY) (Sep) |  |  | 5.20% |
-| 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -92.6B |
-| 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 1,180.9B |
+| 19:00 | MXN | Moderate | Interest Rate Decision (Nov) | 6.25% | 6.50% | 6.50% |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,748B |  | 6,746B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 2.962T |  | 2.895T |
+| 23:30 | JPY | Low | Average Cash Earnings (YoY) | 4.6% | 3.8% | 3.9% |
+| 23:30 | JPY | Low | Overall wage income of employees (Sep) | 4.6% | 3.8% | 3.9% |
+| 23:30 | JPY | Low | Overtime Pay (YoY) (Sep) | 3.60% |  | 4.90% |
+| 23:50 | JPY | Low | Foreign Bonds Buying | 1,312.0B |  | -81.8B |
+| 23:50 | JPY | Low | Foreign Investments in Japanese Stocks | 1,129.3B |  | 1,182.2B |
