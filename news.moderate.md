@@ -1,26 +1,26 @@
-## 04 November 2026 - Moderate Impact Forex News
+## 05 November 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:45 | CNY | RatingDog Services PMI (Oct) | 50.8 | 51.7 | 51.6 |
-| 08:15 | EUR | HCOB Spain Services PMI (Oct) | 57.2 | 57.6 | 58.3 |
-| 08:45 | EUR | HCOB Italy Services PMI (Oct) | 52.0 | 51.4 | 51.7 |
-| 08:50 | EUR | HCOB France Services PMI (Oct) | 46.2 | 48.4 | 51.2 |
-| 08:55 | EUR | HCOB Germany Services PMI (Oct) | 52.5 | 51.7 | 52.9 |
-| 09:00 | EUR | HCOB Eurozone Composite PMI (Oct) | 51.7 | 51.9 | 53.1 |
-| 09:00 | EUR | HCOB Eurozone Services PMI (Oct) | 51.4 | 51.7 | 53.0 |
-| 09:30 | GBP | S&P Global Composite PMI (Oct) | 52.9 | 53.1 | 52.0 |
-| 09:30 | GBP | S&P Global Services PMI (Oct) | 52.8 | 53.1 | 52.1 |
-| 10:00 | EUR | Core CPI (YoY) (Oct) | 2.5% | 2.5% | 2.5% |
-| 10:00 | EUR | CPI (MoM) (Oct) | 0.4% | 0.4% | 0.6% |
-| 13:20 | EUR | ECB's Lane Speaks |  |  |  |
-| 13:30 | USD | Exports (Sep) | 321.50B |  | 315.70B |
-| 13:30 | USD | Imports (Sep) | 426.60B |  | 421.40B |
-| 13:30 | USD | Trade Balance (Sep) | -105.00B | -107.90B | -105.70B |
-| 13:30 | CAD | Trade Balance (Sep) | 5.35B | 4.80B | 4.95B |
-| 14:45 | USD | S&P Global Composite PMI (Oct) | 55.9 | 57.6 | 58.4 |
-| 15:00 | USD | ISM Non-Manufacturing Employment (Oct) | 51.4 | 50.0 | 50.1 |
-| 15:30 | USD | Cushing Crude Oil Inventories | 0.280M |  | -0.624M |
-| 16:30 | USD | Atlanta Fed GDPNow (Q4) | 3.4% | 3.7% | 3.7% |
-| 22 min | BRL | Interest Rate Decision |  | 13.75% | 13.75% |
-| 23:50 | JPY | Monetary Policy Meeting Minutes |  |  |  |
+| 00:30 | AUD | Trade Balance (Sep) | 2.826B | 0.940B | 0.184B |
+| 00:30 | JPY | S&P Global Services PMI (Oct) | 51.7 | 52.0 | 51.3 |
+| 03:35 | JPY | 10-Year JGB Auction |  |  | 3.101% |
+| 07:00 | EUR | German Factory Orders (MoM) (Sep) |  | 4.6% | -10.6% |
+| 08:05 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 08:25 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
+| 09:00 | NOK | Interest Rate Decision |  | 4.50% | 4.50% |
+| 09:30 | GBP | S&P Global Construction PMI (Oct) |  | 46.4 | 46.1 |
+| 12:00 | GBP | BoE MPC vote cut (Nov) |  | 0 | 0 |
+| 12:00 | GBP | BoE MPC vote hike (Nov) |  | 7 | 3 |
+| 12:00 | GBP | BoE MPC vote unchanged (Nov) |  | 2 | 6 |
+| 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
+| 12:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 13:30 | USD | Continuing Jobless Claims |  | 1,710K | 1,701K |
+| 13:30 | USD | Nonfarm Productivity (QoQ) (Q3) |  | 2.8% | 1.4% |
+| 13:30 | USD | Unit Labor Costs (QoQ) (Q3) |  | 0.3% | 1.2% |
+| 15:30 | CAD | BoC Gov Macklem Speaks |  |  |  |
+| 15:40 | EUR | ECB's Lane Speaks |  |  |  |
+| 17:45 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 18:00 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 19:00 | MXN | Interest Rate Decision (Nov) |  | 6.50% | 6.50% |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 6,746B |

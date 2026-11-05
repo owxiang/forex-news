@@ -1,44 +1,54 @@
-## 04 November 2026 - Low Impact Forex News
+## 05 November 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | NZD | ANZ Commodity Price Index (MoM) | 0.6% |  | 0.6% |
-| 00:30 | HKD | S&P Global Manufacturing PMI (Oct) | 50.2 |  | 49.2 |
-| 01:30 | AUD | RBA Chart Pack Release |  |  |  |
-| 05:00 | INR | HSBC India Services PMI (Oct) | 55.8 | 56.2 | 55.2 |
-| 05:00 | INR | HSBC Manufacturing & Services PMI (Oct) | 56.20 | 56.70 | 55.90 |
-| 08:00 | EUR | Spanish Unemployment Change (Oct) | 43.1K | 18.7K | 23.6K |
-| 08:00 | BRL | IPC-Fipe Inflation Index (MoM) (Oct) | 0.44% |  | 0.51% |
-| 08:45 | EUR | HCOB Italy Composite PMI (Oct) | 50.8 |  | 51.0 |
-| 08:50 | EUR | HCOB France Composite PMI (Oct) | 46.6 | 48.4 | 51.1 |
-| 08:55 | EUR | HCOB Germany Composite PMI (Oct) | 53.4 | 52.8 | 53.8 |
-| 10:00 | NOK | House Price Index (YoY) (Oct) | 1.90% |  | 2.40% |
-| 10:00 | EUR | Core CPI (MoM) (Oct) | 0.3% |  | 0.2% |
-| 10:00 | EUR | CPI, n.s.a (Oct) | 104.77 |  | 104.31 |
-| 10:00 | EUR | HICP ex Energy & Food (YoY) (Oct) | 2.2% |  | 2.2% |
-| 10:00 | EUR | HICP ex Energy and Food (MoM) (Oct) | 0.3% |  | 0.2% |
-| 10:30 | EUR | German 30-Year Bund Auction | 3.670% |  | 3.800% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate | 7.30% |  | 7.37% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) | -1.2% |  | 3.4% |
-| 12:00 | USD | MBA Purchase Index | 131.4 |  | 134.1 |
-| 12:00 | USD | Mortgage Market Index | 192.6 |  | 195.0 |
-| 12:00 | USD | Mortgage Refinance Index | 517.5 |  | 516.8 |
-| 13:15 | CAD | Reserve Assets Total (Oct) | 126.2B |  | 125.3B |
-| 13:30 | CAD | Exports (Sep) | 78.55B |  | 78.41B |
-| 13:30 | CAD | Imports (Sep) | 73.20B |  | 73.46B |
-| 14:30 | USD | All Car Sales (Oct) | 2.45M |  | 2.52M |
-| 14:30 | USD | All Truck Sales (Oct) | 13.09M |  | 13.46M |
-| 14:30 | CAD | S&P Global Services PMI (Oct) | 48.10 |  | 48.30 |
-| 15:00 | USD | ISM Non-Manufacturing Business Activity (Oct) | 53.8 |  | 56.5 |
-| 15:00 | USD | ISM Non-Manufacturing New Orders (Oct) | 55.9 | 58.5 | 59.8 |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) | 0.199M |  | -0.123M |
-| 15:30 | USD | Crude Oil Imports | 1.179M |  | -0.796M |
-| 15:30 | USD | Distillate Fuel Production | -0.007M |  | -0.071M |
-| 15:30 | USD | EIA Weekly Distillates Stocks | -3.565M | -0.100M | -1.462M |
-| 15:30 | USD | Gasoline Production | 0.463M |  | -0.509M |
-| 15:30 | USD | Heating Oil Stockpiles | -0.203M |  | 0.164M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 1.7% |  | -0.6% |
-| 15:30 | USD | Gasoline Inventories | -0.222M | 0.200M | 3.870M |
-| 17:30 | BRL | CAGED Net Payroll Jobs (Sep) | 121.31K | 171.00K | 165.83K |
-| 17:30 | BRL | Foreign Exchange Flows | 9.498B |  | 3.506B |
-| 23:00 | KRW | Current Account (Sep) |  |  | 46.11B |
+| 00:30 | AUD | Exports (MoM) (Sep) | 2.3% |  | 3.7% |
+| 00:30 | AUD | Imports (MoM) (Sep) | -3.3% |  | 6.2% |
+| 00:30 | JPY | Manufacturing & Services PMI (Oct) | 52.10 | 52.30 | 52.30 |
+| 04:00 | IDR | GDP (YoY) (Q3) |  | 5.20% | 5.29% |
+| 04:00 | IDR | GDP (QoQ) (Q3) |  | 1.30% | 3.73% |
+| 04:30 | USD | Total Vehicle Sales (Oct) |  | 15.80M | 16.00M |
+| 05:00 | SGD | Retail Sales (YoY) (Sep) |  |  | 0.7% |
+| 05:00 | SGD | Retail Sales (MoM) (Sep) |  |  | -1.0% |
+| 07:15 | ZAR | S&P Global Manufacturing PMI (Oct) |  |  | 49.0 |
+| 07:45 | EUR | French Industrial Production (MoM) (Sep) |  | 0.3% | -0.3% |
+| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Oct) |  |  | 46.5 |
+| 08:30 | CHF | Unemployment Rate n.s.a. (Oct) |  |  | 3.0% |
+| 08:30 | CHF | Unemployment Rate s.a. (Oct) |  | 3.1% | 3.1% |
+| 08:30 | EUR | HCOB Germany Construction PMI (Oct) |  |  | 43.5 |
+| 08:30 | EUR | HCOB France Construction PMI (MoM) (Oct) |  |  | 39.8 |
+| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Oct) |  |  | 43.4 |
+| 09:00 | GBP | Car Registration (YoY) (Oct) |  |  | 12.0% |
+| 09:00 | GBP | United Kingdom New Passenger Cars Registration (Oct) |  |  | 350,536.0 |
+| 09:00 | EUR | Italian Retail Sales (MoM) (Sep) |  | 0.0% | 0.3% |
+| 09:00 | EUR | Italian Retail Sales (YoY) (Sep) |  |  | 0.5% |
+| 09:30 | USD | Challenger Job Cuts (Oct) |  |  | 43.281K |
+| 09:30 | USD | Challenger Job Cuts (Oct) |  |  | 43.281K |
+| 09:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 4.176% |
+| 09:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 3.313% |
+| 09:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 3.482% |
+| 10:00 | EUR | French 10-Year OAT Auction |  |  | 4.23% |
+| 10:00 | EUR | PPI (MoM) (Sep) |  | 2.5% | 1.9% |
+| 10:00 | EUR | PPI (YoY) (Sep) |  | 10.9% | 8.2% |
+| 10:30 | USD | Challenger Job Cuts (YoY) |  |  | -19.9% |
+| 11:00 | EUR | German Car Registration (YoY) (Oct) |  |  | 9.0% |
+| 12:00 | MXN | Consumer Confidence (Oct) |  |  | 45.1 |
+| 12:00 | MXN | Consumer Confidence n.s.a. (Oct) |  |  | 45.2 |
+| 12:00 | MXN | Gross Fixed Investments (MoM) (Aug) |  | -0.60% | 1.40% |
+| 12:00 | MXN | Gross Fixed Investments (YoY) (Aug) |  | 6.50% | 6.60% |
+| 12:00 | BRL | Industrial Production (YoY) (Sep) |  | -1.7% | -1.2% |
+| 12:00 | BRL | Industrial Production (MoM) (Sep) |  | -0.2% | -0.6% |
+| 12:40 | CHF | SNB Chairman Schlegel Speaks |  |  |  |
+| 13:00 | BRL | S&P Global Composite PMI (Oct) |  |  | 47.4 |
+| 13:00 | BRL | S&P Global Services PMI (Oct) |  |  | 49.2 |
+| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 196.75K |
+| 14:10 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 15:30 | USD | Natural Gas Storage |  |  | 80B |
+| 16:30 | USD | 4-Week Bill Auction |  |  | 3.910% |
+| 16:30 | USD | 8-Week Bill Auction |  |  | 4.020% |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.895T |
+| 23:30 | JPY | Average Cash Earnings (YoY) |  | 3.8% | 3.8% |
+| 23:30 | JPY | Overall wage income of employees (Sep) |  | 3.8% | 3.8% |
+| 23:30 | JPY | Overtime Pay (YoY) (Sep) |  |  | 5.20% |
+| 23:50 | JPY | Foreign Bonds Buying |  |  | -92.6B |
+| 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 1,180.9B |
