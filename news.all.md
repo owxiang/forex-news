@@ -7,38 +7,36 @@
 | 00:30 | AUD | Moderate | Trade Balance (Sep) | 2.826B | 0.940B | 0.184B |
 | 00:30 | JPY | Low | Manufacturing & Services PMI (Oct) | 52.10 | 52.30 | 52.30 |
 | 00:30 | JPY | Moderate | S&P Global Services PMI (Oct) | 51.7 | 52.0 | 51.3 |
-| 03:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 3.101% |
-| 04:00 | IDR | Low | GDP (YoY) (Q3) |  | 5.20% | 5.29% |
-| 04:00 | IDR | Low | GDP (QoQ) (Q3) |  | 1.30% | 3.73% |
-| 04:30 | USD | Low | Total Vehicle Sales (Oct) |  | 15.80M | 16.00M |
-| 05:00 | SGD | Low | Retail Sales (YoY) (Sep) |  |  | 0.7% |
-| 05:00 | SGD | Low | Retail Sales (MoM) (Sep) |  |  | -1.0% |
-| 07:00 | EUR | Moderate | German Factory Orders (MoM) (Sep) |  | 4.6% | -10.6% |
-| 07:15 | ZAR | Low | S&P Global Manufacturing PMI (Oct) |  |  | 49.0 |
-| 07:45 | EUR | Low | French Industrial Production (MoM) (Sep) |  | 0.3% | -0.3% |
+| 03:35 | JPY | Moderate | 10-Year JGB Auction | 2.768% |  | 3.101% |
+| 04:00 | IDR | Low | GDP (YoY) (Q3) | 5.47% | 5.20% | 5.29% |
+| 04:00 | IDR | Low | GDP (QoQ) (Q3) | 1.59% | 1.30% | 3.73% |
+| 05:00 | SGD | Low | Retail Sales (YoY) (Sep) | 1.7% |  | 0.8% |
+| 05:00 | SGD | Low | Retail Sales (MoM) (Sep) | -1.0% |  | -0.9% |
+| 07:00 | EUR | Moderate | German Factory Orders (MoM) (Sep) | 4.4% | 4.6% | -10.1% |
+| 07:15 | ZAR | Low | S&P Global Manufacturing PMI (Oct) | 49.0 |  | 49.0 |
+| 07:45 | EUR | Low | French Industrial Production (MoM) (Sep) | -0.5% | 0.3% | -0.4% |
+| 08:00 | CHF | Low | Unemployment Rate n.s.a. (Oct) | 3.0% |  | 3.0% |
+| 08:00 | CHF | Low | Unemployment Rate s.a. (Oct) | 3.1% | 3.1% | 3.1% |
 | 08:05 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 08:25 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Oct) |  |  | 46.5 |
-| 08:30 | CHF | Low | Unemployment Rate n.s.a. (Oct) |  |  | 3.0% |
-| 08:30 | CHF | Low | Unemployment Rate s.a. (Oct) |  | 3.1% | 3.1% |
-| 08:30 | EUR | Low | HCOB Germany Construction PMI (Oct) |  |  | 43.5 |
-| 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Oct) |  |  | 39.8 |
-| 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Oct) |  |  | 43.4 |
-| 09:00 | GBP | Low | Car Registration (YoY) (Oct) |  |  | 12.0% |
-| 09:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Oct) |  |  | 350,536.0 |
-| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Sep) |  | 0.0% | 0.3% |
-| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Sep) |  |  | 0.5% |
-| 09:00 | NOK | Moderate | Interest Rate Decision |  | 4.50% | 4.50% |
-| 09:30 | GBP | Moderate | S&P Global Construction PMI (Oct) |  | 46.4 | 46.1 |
-| 09:30 | USD | Low | Challenger Job Cuts (Oct) |  |  | 43.281K |
-| 09:30 | USD | Low | Challenger Job Cuts (Oct) |  |  | 43.281K |
-| 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 4.176% |
-| 09:40 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 3.313% |
-| 09:40 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 3.482% |
-| 10:00 | EUR | Low | French 10-Year OAT Auction |  |  | 4.23% |
-| 10:00 | EUR | Low | PPI (MoM) (Sep) |  | 2.5% | 1.9% |
-| 10:00 | EUR | Low | PPI (YoY) (Sep) |  | 10.9% | 8.2% |
-| 10:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | -19.9% |
+| 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Oct) | 47.3 |  | 46.5 |
+| 08:30 | EUR | Low | HCOB Germany Construction PMI (Oct) | 41.6 |  | 43.5 |
+| 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Oct) | 38.8 |  | 39.8 |
+| 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Oct) | 42.5 |  | 43.4 |
+| 09:00 | GBP | Low | Car Registration (YoY) (Oct) | 5.4% |  | 12.0% |
+| 09:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Oct) | 152,730.0 |  | 350,536.0 |
+| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Sep) | 0.1% | 0.0% | 0.3% |
+| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Sep) | 1.6% |  | 0.5% |
+| 09:00 | NOK | Moderate | Interest Rate Decision | 4.50% | 4.50% | 4.50% |
+| 09:30 | GBP | Moderate | S&P Global Construction PMI (Oct) | 43.6 | 46.4 | 46.1 |
+| 09:30 | USD | Low | Challenger Job Cuts (Oct) | 43.994K |  | 43.281K |
+| 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction | 3.802% |  | 4.176% |
+| 09:40 | EUR | Moderate | Spanish 15-Year Obligacion Auction | 4.092% |  | 3.845% |
+| 09:40 | EUR | Low | Spanish 5-Year Bonos Auction | 3.338% |  | 3.482% |
+| 10:00 | EUR | Low | French 10-Year OAT Auction | 4.74% |  | 4.23% |
+| 10:00 | EUR | Low | PPI (MoM) (Sep) | 2.5% | 2.5% | 2.0% |
+| 10:00 | EUR | Low | PPI (YoY) (Sep) | 11.1% | 10.9% | 8.3% |
+| 10:30 | USD | Low | Challenger Job Cuts (YoY) | -71.3% |  | -19.9% |
 | 11:00 | EUR | Low | German Car Registration (YoY) (Oct) |  |  | 9.0% |
 | 12:00 | GBP | Moderate | BoE MPC vote cut (Nov) |  | 0 | 0 |
 | 12:00 | GBP | Moderate | BoE MPC vote hike (Nov) |  | 7 | 3 |
@@ -47,8 +45,8 @@
 | 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
 | 12:00 | MXN | Low | Consumer Confidence (Oct) |  |  | 45.1 |
 | 12:00 | MXN | Low | Consumer Confidence n.s.a. (Oct) |  |  | 45.2 |
-| 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Aug) |  | -0.60% | 1.40% |
 | 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Aug) |  | 6.50% | 6.60% |
+| 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Aug) |  | -0.60% | 1.40% |
 | 12:00 | BRL | Low | Industrial Production (YoY) (Sep) |  | -1.7% | -1.2% |
 | 12:00 | BRL | Low | Industrial Production (MoM) (Sep) |  | -0.2% | -0.6% |
 | 12:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
@@ -61,7 +59,8 @@
 | 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q3) |  | 2.8% | 1.4% |
 | 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q3) |  | 0.3% | 1.2% |
 | 14:10 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 15:30 | USD | Low | Natural Gas Storage |  |  | 80B |
+| 15:30 | USD | Low | Natural Gas Storage |  | 81B | 80B |
+| 15:30 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 15:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 15:40 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.910% |
