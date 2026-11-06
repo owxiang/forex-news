@@ -1,28 +1,36 @@
-## 05 November 2026 - Moderate Impact Forex News
+## 06 November 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Trade Balance (Sep) | 2.826B | 0.940B | 0.184B |
-| 00:30 | JPY | S&P Global Services PMI (Oct) | 51.7 | 52.0 | 51.3 |
-| 03:35 | JPY | 10-Year JGB Auction | 2.768% |  | 3.101% |
-| 07:00 | EUR | German Factory Orders (MoM) (Sep) | 4.4% | 4.6% | -10.1% |
-| 08:05 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 08:25 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 09:00 | NOK | Interest Rate Decision | 4.50% | 4.50% | 4.50% |
-| 09:30 | GBP | S&P Global Construction PMI (Oct) | 43.6 | 46.4 | 46.1 |
-| 09:40 | EUR | Spanish 15-Year Obligacion Auction | 4.092% |  | 3.845% |
-| 12:00 | GBP | BoE MPC vote cut (Nov) | 0 | 0 | 0 |
-| 12:00 | GBP | BoE MPC vote hike (Nov) | 9 | 7 | 3 |
-| 12:00 | GBP | BoE MPC vote unchanged (Nov) | 0 | 2 | 6 |
-| 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
-| 12:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims | 1,718K | 1,710K | 1,695K |
-| 13:30 | USD | Nonfarm Productivity (QoQ) (Q3) | 3.6% | 2.8% | 2.1% |
-| 13:30 | USD | Unit Labor Costs (QoQ) (Q3) | -0.7% | 0.3% | 1.9% |
-| 15:30 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
-| 15:30 | CAD | BoC Gov Macklem Speaks |  |  |  |
-| 15:40 | EUR | ECB's Lane Speaks |  |  |  |
-| 17:45 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 18:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 19:00 | MXN | Interest Rate Decision (Nov) | 6.25% | 6.50% | 6.50% |
-| 21:30 | USD | Fed's Balance Sheet | 6,748B |  | 6,746B |
+| 37 min | GBP | Lloyds House Price Index (MoM) (Oct) |  | 0.0% | 0.0% |
+| 37 min | GBP | Lloyds House Price Index (YoY) (Oct) |  | -0.3% | 0.0% |
+| 37 min | EUR | German Industrial Production (MoM) (Sep) |  | 0.0% | 2.0% |
+| 08:00 | CHF | SECO Consumer Climate (Q4) |  | -35 | -33 |
+| 09:30 | USD | FOMC Member Williams Speaks |  |  |  |
+| 09:30 | EUR | ECB's Lane Speaks |  |  |  |
+| 10:00 | GBP | Mortgage Rate (GBP) (Oct) |  |  | 6.58% |
+| 12:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Oct) |  | 2.9% | 3.0% |
+| 13:30 | USD | Participation Rate (Oct) |  |  | 61.8% |
+| 13:30 | USD | Private Nonfarm Payrolls (Oct) |  | 64K | 46K |
+| 13:30 | USD | U6 Unemployment Rate (Oct) |  |  | 7.6% |
+| 13:30 | CAD | Employment Change (Oct) |  | 14.6K | -68.3K |
+| 13:30 | CAD | Unemployment Rate (Oct) |  | 6.5% | 6.5% |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (Nov) |  |  | 4.7% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (Nov) |  |  | 3.5% |
+| 15:00 | USD | Michigan Consumer Expectations (Nov) |  | 49.5 | 48.8 |
+| 15:00 | USD | Michigan Consumer Sentiment (Nov) |  | 48.1 | 48.0 |
+| 15:00 | CAD | Ivey PMI (Oct) |  | 57.7 | 58.2 |
+| 17:15 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 462 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 603 |
+| 19:30 | GBP | CFTC GBP speculative net positions |  |  | -79.4K |
+| 19:30 | USD | CFTC Crude Oil speculative net positions |  |  | 74.3K |
+| 19:30 | USD | CFTC Gold speculative net positions |  |  | 186.5K |
+| 19:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 48.8K |
+| 19:30 | USD | CFTC S&P 500 speculative net positions |  |  | -134.4K |
+| 19:30 | AUD | CFTC AUD speculative net positions |  |  | -128.3K |
+| 19:30 | BRL | CFTC BRL speculative net positions |  |  | 32.9K |
+| 19:30 | JPY | CFTC JPY speculative net positions |  |  | 101.6K |
+| 19:30 | EUR | CFTC EUR speculative net positions |  |  | -143.9K |
+| 20:00 | USD | Consumer Credit (Sep) |  | 13.40B | 8.28B |

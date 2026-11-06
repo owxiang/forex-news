@@ -1,51 +1,44 @@
-## 05 November 2026 - Low Impact Forex News
+## 06 November 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Exports (MoM) (Sep) | 2.3% |  | 3.7% |
-| 00:30 | AUD | Imports (MoM) (Sep) | -3.3% |  | 6.2% |
-| 00:30 | JPY | Manufacturing & Services PMI (Oct) | 52.10 | 52.30 | 52.30 |
-| 04:00 | IDR | GDP (YoY) (Q3) | 5.47% | 5.20% | 5.29% |
-| 04:00 | IDR | GDP (QoQ) (Q3) | 1.59% | 1.30% | 3.73% |
-| 05:00 | SGD | Retail Sales (YoY) (Sep) | 1.7% |  | 0.8% |
-| 05:00 | SGD | Retail Sales (MoM) (Sep) | -1.0% |  | -0.9% |
-| 07:15 | ZAR | S&P Global Manufacturing PMI (Oct) | 49.0 |  | 49.0 |
-| 07:45 | EUR | French Industrial Production (MoM) (Sep) | -0.5% | 0.3% | -0.4% |
-| 08:00 | CHF | Unemployment Rate n.s.a. (Oct) | 3.0% |  | 3.0% |
-| 08:00 | CHF | Unemployment Rate s.a. (Oct) | 3.1% | 3.1% | 3.1% |
-| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Oct) | 47.3 |  | 46.5 |
-| 08:30 | EUR | HCOB Germany Construction PMI (Oct) | 41.6 |  | 43.5 |
-| 08:30 | EUR | HCOB France Construction PMI (MoM) (Oct) | 38.8 |  | 39.8 |
-| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Oct) | 42.5 |  | 43.4 |
-| 09:00 | GBP | Car Registration (YoY) (Oct) | 5.4% |  | 12.0% |
-| 09:00 | GBP | United Kingdom New Passenger Cars Registration (Oct) | 152,730.0 |  | 350,536.0 |
-| 09:00 | EUR | Italian Retail Sales (MoM) (Sep) | 0.1% | 0.0% | 0.3% |
-| 09:00 | EUR | Italian Retail Sales (YoY) (Sep) | 1.6% |  | 0.5% |
-| 09:30 | USD | Challenger Job Cuts (Oct) | 43.994K |  | 43.281K |
-| 09:40 | EUR | Spanish 10-Year Obligacion Auction | 3.802% |  | 4.176% |
-| 09:40 | EUR | Spanish 5-Year Bonos Auction | 3.338% |  | 3.482% |
-| 10:00 | EUR | French 10-Year OAT Auction | 4.74% |  | 4.23% |
-| 10:00 | EUR | PPI (MoM) (Sep) | 2.5% | 2.5% | 2.0% |
-| 10:00 | EUR | PPI (YoY) (Sep) | 11.1% | 10.9% | 8.3% |
-| 10:20 | EUR | German Car Registration (YoY) (Oct) | 1.7% |  | 9.0% |
-| 10:30 | USD | Challenger Job Cuts (YoY) | -71.3% |  | -19.9% |
-| 12:00 | MXN | Consumer Confidence (Oct) | 45.0 |  | 45.1 |
-| 12:00 | MXN | Consumer Confidence n.s.a. (Oct) | 45.2 |  | 45.2 |
-| 12:00 | MXN | Gross Fixed Investments (YoY) (Aug) | 5.70% | 6.50% | 6.60% |
-| 12:00 | MXN | Gross Fixed Investments (MoM) (Aug) | -1.80% | -0.60% | 1.40% |
-| 12:00 | BRL | Industrial Production (YoY) (Sep) | -2.5% | -1.7% | -1.2% |
-| 12:00 | BRL | Industrial Production (MoM) (Sep) | -0.8% | -0.2% | -0.7% |
-| 12:40 | CHF | SNB Chairman Schlegel Speaks |  |  |  |
-| 13:00 | BRL | S&P Global Composite PMI (Oct) | 44.4 |  | 47.4 |
-| 13:00 | BRL | S&P Global Services PMI (Oct) | 44.5 |  | 49.2 |
-| 13:30 | USD | Jobless Claims 4-Week Avg. | 194.75K |  | 197.00K |
-| 14:10 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 15:30 | USD | Natural Gas Storage | 77B | 81B | 80B |
-| 16:30 | USD | 4-Week Bill Auction | 3.890% |  | 3.910% |
-| 16:30 | USD | 8-Week Bill Auction | 3.975% |  | 4.020% |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 2.962T |  | 2.895T |
-| 23:30 | JPY | Average Cash Earnings (YoY) | 4.6% | 3.8% | 3.9% |
-| 23:30 | JPY | Overall wage income of employees (Sep) | 4.6% | 3.8% | 3.9% |
-| 23:30 | JPY | Overtime Pay (YoY) (Sep) | 3.60% |  | 4.90% |
-| 23:50 | JPY | Foreign Bonds Buying | 1,312.0B |  | -81.8B |
-| 23:50 | JPY | Foreign Investments in Japanese Stocks | 1,129.3B |  | 1,182.2B |
+| 00:00 | USD | Fed Logan Speaks |  |  |  |
+| 03:00 | IDR | FX Reserves (USD) (Oct) | 146.80B |  | 146.30B |
+| 37 min | EUR | German Industrial Production (YoY) (Sep) |  |  | 2.33% |
+| 37 min | NOK | Manufacturing Production (MoM) (Sep) |  |  | -0.4% |
+| 07:45 | EUR | French Current Account (Sep) |  |  | -1.50B |
+| 07:45 | EUR | French Exports (Sep) |  |  | 54.2B |
+| 07:45 | EUR | French Imports (Sep) |  |  | 60.3B |
+| 07:45 | EUR | French Reserve Assets Total (Oct) |  |  | 370,203.0M |
+| 07:45 | EUR | French Trade Balance (Sep) |  | -5.8B | -6.1B |
+| 08:00 | CHF | Foreign Reserves (USD) (Oct) |  |  | 770,476.0B |
+| 08:00 | EUR | Spanish Industrial Production (YoY) (Sep) |  |  | 1.5% |
+| 08:30 | HKD | Foreign Reserves (USD) (Oct) |  |  | 443.00B |
+| 09:00 | SGD | Foreign Reserves USD (MoM) (Oct) |  |  | 433.4B |
+| 10:00 | EUR | Retail Sales (MoM) (Sep) |  | -0.1% | 0.1% |
+| 10:00 | EUR | Retail Sales (YoY) (Sep) |  | 0.6% | 0.8% |
+| 11:30 | INR | Bank Loan Growth |  |  | 18.2% |
+| 11:30 | INR | Deposit Growth |  |  | 16.7% |
+| 11:30 | INR | FX Reserves, USD |  |  | 719.75B |
+| 13:30 | USD | Average Weekly Hours (Oct) |  | 34.4 | 34.4 |
+| 13:30 | USD | Government Payrolls (Oct) |  |  | -17.0K |
+| 13:30 | USD | Manufacturing Payrolls (Oct) |  | 5K | 9K |
+| 13:30 | CAD | Avg hourly wages Permanent employee (Oct) |  |  | 2.3% |
+| 13:30 | CAD | Full Employment Change (Oct) |  |  | -35.4K |
+| 13:30 | CAD | Part Time Employment Change (Oct) |  |  | -32.9K |
+| 13:30 | CAD | Participation Rate (Oct) |  |  | 64.8% |
+| 15:00 | USD | Michigan Current Conditions (Nov) |  | 48.0 | 46.7 |
+| 15:00 | CAD | Ivey PMI n.s.a (Oct) |  |  | 61.9 |
+| 16:00 | JPY | BOJ Gov Ueda Speaks |  |  |  |
+| 18:00 | BRL | Trade Balance (Oct) |  | 9.00B | 7.74B |
+| 19:30 | USD | CFTC Aluminium speculative net positions |  |  | -1.0K |
+| 19:30 | USD | CFTC Copper speculative net positions |  |  | 48.3K |
+| 19:30 | USD | CFTC Corn speculative net positions |  |  | 201.3K |
+| 19:30 | USD | CFTC Natural Gas speculative net positions |  |  | -255.2K |
+| 19:30 | USD | CFTC Silver speculative net positions |  |  | 19.7K |
+| 19:30 | USD | CFTC Soybeans speculative net positions |  |  | 204.1K |
+| 19:30 | USD | CFTC Wheat speculative net positions |  |  | -50.8K |
+| 19:30 | CAD | CFTC CAD speculative net positions |  |  | -66.4K |
+| 19:30 | MXN | CFTC MXN speculative net positions |  |  | 20.8K |
+| 19:30 | CHF | CFTC CHF speculative net positions |  |  | -20.0K |
+| 19:30 | NZD | CFTC NZD speculative net positions |  |  | -57.7K |
