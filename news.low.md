@@ -25,18 +25,18 @@
 | 13:30 | CAD | Full Employment Change (Oct) | -18.1K |  | -35.4K |
 | 13:30 | CAD | Part Time Employment Change (Oct) | 13.4K |  | -32.9K |
 | 13:30 | CAD | Participation Rate (Oct) | 64.8% |  | 64.8% |
-| 15:00 | USD | Michigan Current Conditions (Nov) |  | 48.0 | 46.7 |
-| 15:00 | CAD | Ivey PMI n.s.a (Oct) |  |  | 61.9 |
+| 15:00 | USD | Michigan Current Conditions (Nov) | 51.0 | 48.0 | 46.7 |
+| 15:00 | CAD | Ivey PMI n.s.a (Oct) | 56.4 |  | 61.9 |
 | 16:00 | JPY | BOJ Gov Ueda Speaks |  |  |  |
-| 18:00 | BRL | Trade Balance (Oct) |  | 9.00B | 7.74B |
-| 19:30 | USD | CFTC Aluminium speculative net positions |  |  | -1.0K |
-| 19:30 | USD | CFTC Copper speculative net positions |  |  | 48.3K |
-| 19:30 | USD | CFTC Corn speculative net positions |  |  | 201.3K |
-| 19:30 | USD | CFTC Natural Gas speculative net positions |  |  | -255.2K |
-| 19:30 | USD | CFTC Silver speculative net positions |  |  | 19.7K |
-| 19:30 | USD | CFTC Soybeans speculative net positions |  |  | 204.1K |
-| 19:30 | USD | CFTC Wheat speculative net positions |  |  | -50.8K |
-| 19:30 | CAD | CFTC CAD speculative net positions |  |  | -66.4K |
-| 19:30 | MXN | CFTC MXN speculative net positions |  |  | 20.8K |
-| 19:30 | CHF | CFTC CHF speculative net positions |  |  | -20.0K |
-| 19:30 | NZD | CFTC NZD speculative net positions |  |  | -57.7K |
+| 18:00 | BRL | Trade Balance (Oct) | 9.32B | 9.00B | 7.27B |
+| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -1.0K |
+| 20:30 | USD | CFTC Copper speculative net positions |  |  | 48.3K |
+| 20:30 | USD | CFTC Corn speculative net positions |  |  | 201.3K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -255.2K |
+| 20:30 | USD | CFTC Silver speculative net positions |  |  | 19.7K |
+| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 204.1K |
+| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -50.8K |
+| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -66.4K |
+| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 20.8K |
+| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -20.0K |
+| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -57.7K |
