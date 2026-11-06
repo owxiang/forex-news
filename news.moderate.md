@@ -2,20 +2,20 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 37 min | GBP | Lloyds House Price Index (MoM) (Oct) |  | 0.0% | 0.0% |
-| 37 min | GBP | Lloyds House Price Index (YoY) (Oct) |  | -0.3% | 0.0% |
-| 37 min | EUR | German Industrial Production (MoM) (Sep) |  | 0.0% | 2.0% |
-| 08:00 | CHF | SECO Consumer Climate (Q4) |  | -35 | -33 |
+| 07:00 | GBP | Lloyds House Price Index (MoM) (Oct) | -0.6% | 0.0% | -0.1% |
+| 07:00 | GBP | Lloyds House Price Index (YoY) (Oct) | -1.2% | -0.3% | -0.1% |
+| 07:00 | EUR | German Industrial Production (MoM) (Sep) | 0.7% | 0.0% | 1.0% |
+| 08:00 | CHF | SECO Consumer Climate (Q4) | -43 | -35 | -33 |
+| 09:30 | GBP | Mortgage Rate (GBP) (Oct) | 6.58% |  | 6.58% |
 | 09:30 | USD | FOMC Member Williams Speaks |  |  |  |
 | 09:30 | EUR | ECB's Lane Speaks |  |  |  |
-| 10:00 | GBP | Mortgage Rate (GBP) (Oct) |  |  | 6.58% |
 | 12:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Oct) |  | 2.9% | 3.0% |
-| 13:30 | USD | Participation Rate (Oct) |  |  | 61.8% |
-| 13:30 | USD | Private Nonfarm Payrolls (Oct) |  | 64K | 46K |
-| 13:30 | USD | U6 Unemployment Rate (Oct) |  |  | 7.6% |
-| 13:30 | CAD | Employment Change (Oct) |  | 14.6K | -68.3K |
-| 13:30 | CAD | Unemployment Rate (Oct) |  | 6.5% | 6.5% |
+| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Oct) | 3.1% | 2.9% | 3.2% |
+| 13:30 | USD | Participation Rate (Oct) | 61.9% | 61.8% | 61.8% |
+| 13:30 | USD | Private Nonfarm Payrolls (Oct) | 159K | 64K | 78K |
+| 13:30 | USD | U6 Unemployment Rate (Oct) | 7.9% |  | 7.6% |
+| 13:30 | CAD | Employment Change (Oct) | -4.7K | 14.6K | -68.3K |
+| 13:30 | CAD | Unemployment Rate (Oct) | 6.7% | 6.5% | 6.5% |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Nov) |  |  | 4.7% |
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Nov) |  |  | 3.5% |
 | 15:00 | USD | Michigan Consumer Expectations (Nov) |  | 49.5 | 48.8 |
