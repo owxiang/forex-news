@@ -11,13 +11,13 @@
 | 09:00 | EUR | ECB Economic Bulletin |  |  |  |
 | 10:00 | EUR | EU Economic Forecasts |  |  |  |
 | 10:30 | INR | CPI (YoY) (Oct) | 6.09% | 5.93% | 5.54% |
-| 12:00 | GBP | NIESR Monthly GDP Tracker (Oct) |  |  | 0.7% |
-| 12:00 | BRL | CPI (YoY) (Oct) |  | 4.74% | 4.58% |
-| 12:30 | CAD | Building Permits (MoM) (Sep) |  | -4.0% | 8.8% |
-| 13:30 | USD | Continuing Jobless Claims |  | 1,710K | 1,718K |
-| 15:00 | USD | Existing Home Sales (MoM) (Oct) |  |  | 1.5% |
+| 12:00 | GBP | NIESR Monthly GDP Tracker (Oct) | 0.6% |  | 0.7% |
+| 12:00 | BRL | CPI (YoY) (Oct) | 4.63% | 4.74% | 4.58% |
+| 13:30 | USD | Continuing Jobless Claims | 1,697K | 1,710K | 1,717K |
+| 13:30 | CAD | Building Permits (MoM) (Sep) | -4.1% | -4.0% | 7.6% |
+| 15:00 | USD | Existing Home Sales (MoM) (Oct) | -5.5% | -3.5% | 1.0% |
 | 15:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 17:00 | USD | Cushing Crude Oil Inventories |  |  | 0.280M |
+| 17:00 | USD | Cushing Crude Oil Inventories | 0.106M |  | 0.280M |
 | 17:30 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 18:10 | USD | FOMC Member Daly Speaks |  |  |  |
 | 19:00 | USD | Federal Budget Balance (Oct) |  | -298.6B | -27.0B |

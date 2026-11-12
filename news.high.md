@@ -5,7 +5,7 @@
 | 07:00 | GBP | GDP (QoQ) (Q3) | 0.7% | 0.7% | 0.5% |
 | 07:00 | GBP | GDP (MoM) (Sep) | 0.2% | 0.0% | 0.0% |
 | 07:00 | GBP | GDP (YoY) (Q3) | 1.9% | 1.9% | 1.4% |
-| 13:30 | USD | Initial Jobless Claims |  | 194K | 189K |
-| 15:00 | USD | Existing Home Sales (Oct) |  | 3.89M | 3.99M |
-| 17:00 | USD | Crude Oil Inventories |  | -0.600M | -0.865M |
-| 18:00 | USD | 30-Year Bond Auction |  |  | 5.618% |
+| 13:30 | USD | Initial Jobless Claims | 200K | 194K | 191K |
+| 15:00 | USD | Existing Home Sales (Oct) | 3.75M | 3.89M | 3.97M |
+| 17:00 | USD | Crude Oil Inventories | 4.657M | -0.600M | -0.865M |
+| 18:00 | USD | 30-Year Bond Auction | 5.441% |  | 5.618% |
