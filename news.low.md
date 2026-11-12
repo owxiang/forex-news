@@ -11,10 +11,10 @@
 | 07:00 | GBP | Index of Services | 0.9% | 0.9% | 0.9% |
 | 07:00 | GBP | Industrial Production (YoY) (Sep) | 3.1% | 2.9% | 1.1% |
 | 07:00 | GBP | Manufacturing Production (YoY) (Sep) | 4.4% | 3.8% | 2.5% |
-| 09:30 | ZAR | Gold Production (YoY) (Sep) |  |  | -5.7% |
-| 09:30 | ZAR | Mining Production (Sep) |  |  | -12.7% |
-| 10:10 | EUR | Italian 3-Year BTP Auction |  |  | 3.69% |
-| 10:10 | EUR | Italian 7-Year BTP Auction |  |  | 3.90% |
+| 09:30 | ZAR | Gold Production (YoY) (Sep) | -7.5% |  | -6.4% |
+| 09:30 | ZAR | Mining Production (Sep) | -10.7% |  | -11.7% |
+| 10:10 | EUR | Italian 3-Year BTP Auction | 3.58% |  | 3.69% |
+| 10:10 | EUR | Italian 7-Year BTP Auction | 4.04% |  | 3.90% |
 | 11:00 | GBP | Thomson Reuters IPSOS PCSI (Nov) |  |  | 45.3 |
 | 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Nov) |  |  | 42.99 |
 | 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Nov) |  |  | 42.37 |

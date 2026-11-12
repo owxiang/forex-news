@@ -10,7 +10,7 @@
 | 07:00 | GBP | Trade Balance Non-EU (Sep) | -8.99B |  | -6.82B |
 | 09:00 | EUR | ECB Economic Bulletin |  |  |  |
 | 10:00 | EUR | EU Economic Forecasts |  |  |  |
-| 10:30 | INR | CPI (YoY) (Oct) |  | 5.93% | 5.54% |
+| 10:30 | INR | CPI (YoY) (Oct) | 6.09% | 5.93% | 5.54% |
 | 12:00 | GBP | NIESR Monthly GDP Tracker (Oct) |  |  | 0.7% |
 | 12:00 | BRL | CPI (YoY) (Oct) |  | 4.74% | 4.58% |
 | 12:30 | CAD | Building Permits (MoM) (Sep) |  | -4.0% | 8.8% |

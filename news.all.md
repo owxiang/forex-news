@@ -21,12 +21,12 @@
 | 07:00 | GBP | Moderate | Trade Balance (Sep) | -22.29B | -19.20B | -19.61B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Sep) | -8.99B |  | -6.82B |
 | 09:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
-| 09:30 | ZAR | Low | Gold Production (YoY) (Sep) |  |  | -5.7% |
-| 09:30 | ZAR | Low | Mining Production (Sep) |  |  | -12.7% |
+| 09:30 | ZAR | Low | Gold Production (YoY) (Sep) | -7.5% |  | -6.4% |
+| 09:30 | ZAR | Low | Mining Production (Sep) | -10.7% |  | -11.7% |
 | 10:00 | EUR | Moderate | EU Economic Forecasts |  |  |  |
-| 10:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 3.69% |
-| 10:10 | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.90% |
-| 10:30 | INR | Moderate | CPI (YoY) (Oct) |  | 5.93% | 5.54% |
+| 10:10 | EUR | Low | Italian 3-Year BTP Auction | 3.58% |  | 3.69% |
+| 10:10 | EUR | Low | Italian 7-Year BTP Auction | 4.04% |  | 3.90% |
+| 10:30 | INR | Moderate | CPI (YoY) (Oct) | 6.09% | 5.93% | 5.54% |
 | 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Nov) |  |  | 45.3 |
 | 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Nov) |  |  | 42.99 |
 | 11:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Nov) |  |  | 42.37 |
