@@ -62,9 +62,9 @@
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Sep) | 0.7% | 0.5% | -1.4% |
 | 14:10 | USD | Low | Fed Collins Speaks |  |  |  |
 | 14:40 | USD | Low | Fed Logan Speaks |  |  |  |
-| 15:30 | USD | Low | Natural Gas Storage |  | 65B | 77B |
+| 15:30 | USD | Low | Natural Gas Storage | 61B | 65B | 77B |
 | 15:50 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 16:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 17:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 463 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 604 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 463 |  | 463 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 601 |  | 604 |

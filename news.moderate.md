@@ -22,5 +22,5 @@
 | 15:50 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 16:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 17:00 | USD | FOMC Member Daly Speaks |  |  |  |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 463 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 604 |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 463 |  | 463 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count | 601 |  | 604 |

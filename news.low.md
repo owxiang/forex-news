@@ -44,4 +44,4 @@
 | 13:30 | CAD | Manufacturing Sales (MoM) (Sep) | 0.0% | 0.1% | 1.8% |
 | 14:10 | USD | Fed Collins Speaks |  |  |  |
 | 14:40 | USD | Fed Logan Speaks |  |  |  |
-| 15:30 | USD | Natural Gas Storage |  | 65B | 77B |
+| 15:30 | USD | Natural Gas Storage | 61B | 65B | 77B |
