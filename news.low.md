@@ -2,13 +2,13 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | KRW | Thomson Reuters IPSOS PCSI (Nov) |  |  | 44.06 |
-| 02:00 | INR | Thomson Reuters IPSOS PCSI (Nov) |  |  | 64.32 |
-| 02:00 | AUD | Thomson Reuters IPSOS PCSI (Nov) |  |  | 45.62 |
-| 02:00 | JPY | Thomson Reuters IPSOS PCSI (Nov) |  |  | 38.96 |
-| 02:00 | CNY | China Thomson Reuters IPSOS PCSI (Nov) |  |  | 69.29 |
-| 03:00 | KRW | M3 Money Supply (Sep) |  |  | 6,368.6B |
-| 03:00 | KRW | M2 Money supply (Sep) |  |  | 7.20% |
+| 02:00 | KRW | Thomson Reuters IPSOS PCSI (Nov) | 43.00 |  | 44.06 |
+| 02:00 | INR | Thomson Reuters IPSOS PCSI (Nov) | 64.54 |  | 64.32 |
+| 02:00 | AUD | Thomson Reuters IPSOS PCSI (Nov) | 44.06 |  | 45.62 |
+| 02:00 | JPY | Thomson Reuters IPSOS PCSI (Nov) | 37.67 |  | 38.96 |
+| 02:00 | CNY | China Thomson Reuters IPSOS PCSI (Nov) | 70.44 |  | 69.29 |
+| 03:00 | KRW | M3 Money Supply (Sep) | 6,393.8B |  | 6,368.9B |
+| 03:00 | KRW | M2 Money supply (Sep) | 7.00% |  | 7.20% |
 | 07:00 | EUR | German WPI (MoM) (Oct) |  | 0.4% | 1.9% |
 | 07:00 | EUR | German WPI (YoY) (Oct) |  |  | 8.7% |
 | 07:30 | CHF | PPI (YoY) (Oct) |  |  | -0.2% |
@@ -28,7 +28,7 @@
 | 09:00 | CNY | Outstanding Loan Growth (YoY) (Oct) |  | 4.8% | 4.8% |
 | 09:00 | CNY | Chinese Total Social Financing (Oct) |  | 1,420.0B | 3,550.0B |
 | 10:00 | EUR | Employment Change (QoQ) (Q3) |  | 0.2% | 0.1% |
-| 10:00 | EUR | Employment Change (YoY) (Q3) |  |  | 0.5% |
+| 10:00 | EUR | Employment Change (YoY) (Q3) |  | 0.4% | 0.5% |
 | 10:00 | EUR | Employment Overall (Q3) |  |  | 176,448.2K |
 | 11:30 | INR | Bank Loan Growth |  |  | 18.2% |
 | 11:30 | INR | Deposit Growth |  |  | 16.7% |

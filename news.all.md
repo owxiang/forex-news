@@ -2,13 +2,13 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 02:00 | KRW | Low | Thomson Reuters IPSOS PCSI (Nov) |  |  | 44.06 |
-| 02:00 | INR | Low | Thomson Reuters IPSOS PCSI (Nov) |  |  | 64.32 |
-| 02:00 | AUD | Low | Thomson Reuters IPSOS PCSI (Nov) |  |  | 45.62 |
-| 02:00 | JPY | Low | Thomson Reuters IPSOS PCSI (Nov) |  |  | 38.96 |
-| 02:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Nov) |  |  | 69.29 |
-| 03:00 | KRW | Low | M3 Money Supply (Sep) |  |  | 6,368.6B |
-| 03:00 | KRW | Low | M2 Money supply (Sep) |  |  | 7.20% |
+| 02:00 | KRW | Low | Thomson Reuters IPSOS PCSI (Nov) | 43.00 |  | 44.06 |
+| 02:00 | INR | Low | Thomson Reuters IPSOS PCSI (Nov) | 64.54 |  | 64.32 |
+| 02:00 | AUD | Low | Thomson Reuters IPSOS PCSI (Nov) | 44.06 |  | 45.62 |
+| 02:00 | JPY | Low | Thomson Reuters IPSOS PCSI (Nov) | 37.67 |  | 38.96 |
+| 02:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Nov) | 70.44 |  | 69.29 |
+| 03:00 | KRW | Low | M3 Money Supply (Sep) | 6,393.8B |  | 6,368.9B |
+| 03:00 | KRW | Low | M2 Money supply (Sep) | 7.00% |  | 7.20% |
 | 06:50 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 07:00 | EUR | Low | German WPI (MoM) (Oct) |  | 0.4% | 1.9% |
 | 07:00 | EUR | Low | German WPI (YoY) (Oct) |  |  | 8.7% |
@@ -37,7 +37,7 @@
 | 09:00 | CNY | Low | Outstanding Loan Growth (YoY) (Oct) |  | 4.8% | 4.8% |
 | 09:00 | CNY | Low | Chinese Total Social Financing (Oct) |  | 1,420.0B | 3,550.0B |
 | 10:00 | EUR | Low | Employment Change (QoQ) (Q3) |  | 0.2% | 0.1% |
-| 10:00 | EUR | Low | Employment Change (YoY) (Q3) |  |  | 0.5% |
+| 10:00 | EUR | Low | Employment Change (YoY) (Q3) |  | 0.4% | 0.5% |
 | 10:00 | EUR | Low | Employment Overall (Q3) |  |  | 176,448.2K |
 | 10:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q3) |  | 0.4% | 0.6% |
