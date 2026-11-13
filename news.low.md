@@ -1,42 +1,44 @@
-## 12 November 2026 - Low Impact Forex News
+## 13 November 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | AUD | MI Inflation Expectations (Nov) | 5.3% |  | 5.3% |
-| 03:35 | JPY | 5-Year JGB Auction | 2.186% |  | 2.379% |
-| 07:00 | GBP | Business Investment (YoY) (Q3) | 3.0% |  | 5.2% |
-| 07:00 | GBP | U.K. Construction Output (YoY) (Sep) | -1.5% | -2.1% | -1.9% |
-| 07:00 | GBP | Construction Output (MoM) (Sep) | 0.8% | 0.0% | -0.5% |
-| 07:00 | GBP | GDP (YoY) (Sep) | 2.1% | 1.9% | 2.0% |
-| 07:00 | GBP | Index of Services | 0.9% | 0.9% | 0.9% |
-| 07:00 | GBP | Industrial Production (YoY) (Sep) | 3.1% | 2.9% | 1.1% |
-| 07:00 | GBP | Manufacturing Production (YoY) (Sep) | 4.4% | 3.8% | 2.5% |
-| 09:30 | ZAR | Gold Production (YoY) (Sep) | -7.5% |  | -6.4% |
-| 09:30 | ZAR | Mining Production (Sep) | -10.7% |  | -11.7% |
-| 10:10 | EUR | Italian 3-Year BTP Auction | 3.58% |  | 3.69% |
-| 10:10 | EUR | Italian 7-Year BTP Auction | 4.04% |  | 3.90% |
-| 11:00 | GBP | Thomson Reuters IPSOS PCSI (Nov) | 44.0 |  | 45.3 |
-| 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Nov) | 41.40 |  | 42.99 |
-| 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Nov) | 41.95 |  | 42.37 |
-| 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Nov) | 37.90 |  | 37.63 |
-| 11:00 | EUR | Thomson Reuters IPSOS PCSI (Nov) | 47.55 |  | 45.22 |
-| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (Nov) | 51.73 |  | 45.85 |
-| 12:00 | EUR | German Current Account Balance n.s.a (Sep) | 18.7B |  | 11.2B |
-| 12:00 | BRL | CPI (MoM) (Oct) | 0.14% | 0.26% | 0.82% |
-| 12:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Oct) | 0.12% |  | 0.88% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. | 195.25K |  | 195.25K |
-| 16:30 | USD | 4-Week Bill Auction | 3.955% |  | 3.890% |
-| 16:30 | USD | 8-Week Bill Auction | 4.080% |  | 3.975% |
-| 16:30 | USD | Fed Goolsbee Speaks |  |  |  |
-| 17:00 | USD | EIA Refinery Crude Runs (WoW) | 0.322M |  | 0.199M |
-| 17:00 | USD | Crude Oil Imports | 0.544M |  | 1.179M |
-| 17:00 | USD | Distillate Fuel Production | -0.063M |  | -0.007M |
-| 17:00 | USD | EIA Weekly Distillates Stocks | 4.071M | -1.000M | -3.565M |
-| 17:00 | USD | Gasoline Production | -0.078M |  | 0.463M |
-| 17:00 | USD | Heating Oil Stockpiles | 0.335M |  | -0.203M |
-| 17:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.7% |  | 1.7% |
-| 17:00 | USD | Gasoline Inventories | 1.799M | -0.100M | -0.222M |
-| 18:30 | USD | Fed Schmid Speaks |  |  |  |
-| 21:00 | KRW | Export Price Index (YoY) (Oct) |  |  | 40.9% |
-| 21:00 | KRW | Import Price Index (YoY) (Oct) |  |  | 17.6% |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.962T |
+| 02:00 | KRW | Thomson Reuters IPSOS PCSI (Nov) |  |  | 44.06 |
+| 02:00 | INR | Thomson Reuters IPSOS PCSI (Nov) |  |  | 64.32 |
+| 02:00 | AUD | Thomson Reuters IPSOS PCSI (Nov) |  |  | 45.62 |
+| 02:00 | JPY | Thomson Reuters IPSOS PCSI (Nov) |  |  | 38.96 |
+| 02:00 | CNY | China Thomson Reuters IPSOS PCSI (Nov) |  |  | 69.29 |
+| 03:00 | KRW | M3 Money Supply (Sep) |  |  | 6,368.6B |
+| 03:00 | KRW | M2 Money supply (Sep) |  |  | 7.20% |
+| 07:00 | EUR | German WPI (MoM) (Oct) |  | 0.4% | 1.9% |
+| 07:00 | EUR | German WPI (YoY) (Oct) |  |  | 8.7% |
+| 07:30 | CHF | PPI (YoY) (Oct) |  |  | -0.2% |
+| 07:45 | EUR | French CPI NSA (YoY) (Oct) |  |  | 3.40% |
+| 07:45 | EUR | French CPI NSA (MoM) (Oct) |  |  | 0.40% |
+| 07:45 | EUR | French CPI (YoY) (Oct) |  | 3.4% | 3.1% |
+| 07:45 | EUR | French HICP (YoY) (Oct) |  | 3.8% | 3.4% |
+| 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Oct) |  |  | 3.10% |
+| 08:00 | EUR | Core CPI (YoY) (Oct) |  | 3.1% | 3.1% |
+| 08:00 | EUR | Spanish CPI (MoM) (Oct) |  | 0.6% | 0.3% |
+| 08:00 | EUR | Spanish HICP (MoM) (Oct) |  | 0.5% | 0.6% |
+| 08:30 | HKD | GDP (QoQ) (Q3) |  | 1.9% | -0.7% |
+| 08:30 | HKD | GDP (YoY) (Q3) |  | 5.2% | 4.2% |
+| 09:00 | EUR | Italian Trade Balance (Sep) |  | 2.840B | 1.773B |
+| 09:00 | EUR | Italian Trade Balance EU (Sep) |  |  | -0.33B |
+| 09:00 | CNY | M2 Money Stock (YoY) (Oct) |  | 7.2% | 7.2% |
+| 09:00 | CNY | Outstanding Loan Growth (YoY) (Oct) |  | 4.8% | 4.8% |
+| 09:00 | CNY | Chinese Total Social Financing (Oct) |  | 1,420.0B | 3,550.0B |
+| 10:00 | EUR | Employment Change (QoQ) (Q3) |  | 0.2% | 0.1% |
+| 10:00 | EUR | Employment Change (YoY) (Q3) |  |  | 0.5% |
+| 10:00 | EUR | Employment Overall (Q3) |  |  | 176,448.2K |
+| 11:30 | INR | Bank Loan Growth |  |  | 18.2% |
+| 11:30 | INR | Deposit Growth |  |  | 16.7% |
+| 11:30 | INR | FX Reserves, USD |  |  | 717.06B |
+| 13:30 | USD | Core PPI (YoY) (Oct) |  | 5.0% | 5.0% |
+| 13:30 | USD | PPI (YoY) (Oct) |  | 6.6% | 6.3% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Oct) |  |  | 5.0% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Oct) |  |  | 0.5% |
+| 13:30 | CAD | Capacity Utilization Rate (Sep) |  |  | 81.9% |
+| 13:30 | CAD | Manufacturing Sales (MoM) (Sep) |  | 0.1% | 1.5% |
+| 14:10 | USD | Fed Collins Speaks |  |  |  |
+| 14:40 | USD | Fed Logan Speaks |  |  |  |
+| 15:30 | USD | Natural Gas Storage |  | 65B | 77B |
