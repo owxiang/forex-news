@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:30 | USD | PPI (MoM) (Oct) |  | 0.4% | 1.3% |
+| 13:30 | USD | PPI (MoM) (Oct) | 0.3% | 0.4% | 1.4% |
