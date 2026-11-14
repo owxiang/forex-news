@@ -1,5 +1,3 @@
-## 13 November 2026 - High Impact Forex News
+## 14 November 2026 - High Impact Forex News
 
-| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
-|------|----------|-------|--------|----------|----------|
-| 13:30 | USD | PPI (MoM) (Oct) | 0.3% | 0.4% | 1.4% |
+There is no high impact news today.
