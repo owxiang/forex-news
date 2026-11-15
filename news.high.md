@@ -1,3 +1,5 @@
-## 14 November 2026 - High Impact Forex News
+## 15 November 2026 - High Impact Forex News
 
-There is no high impact news today.
+| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 23:50 | JPY | GDP (QoQ) (Q3) |  | 0.1% | 0.4% |
