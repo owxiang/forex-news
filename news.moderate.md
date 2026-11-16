@@ -11,11 +11,11 @@
 | 06:30 | INR | WPI Inflation (YoY) (Oct) | 12.29% | 12.10% | 11.39% |
 | 09:15 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 10:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 10:00 | EUR | Industrial Production (MoM) (Sep) |  | 0.3% | -0.5% |
-| 13:30 | USD | NY Empire State Manufacturing Index (Nov) |  | 17.60 | 25.50 |
-| 13:30 | CAD | Core CPI (MoM) (Oct) |  | 0.2% | 0.0% |
-| 13:30 | CAD | Core CPI (YoY) (Oct) |  |  | 2.2% |
-| 13:30 | CAD | CPI (MoM) (Oct) |  | 0.3% | 0.1% |
+| 10:00 | EUR | Industrial Production (MoM) (Sep) | 0.2% | 0.3% | -0.5% |
+| 13:30 | USD | NY Empire State Manufacturing Index (Nov) | 7.80 | 17.60 | 25.50 |
+| 13:30 | CAD | Core CPI (MoM) (Oct) | 0.4% | 0.2% | 0.0% |
+| 13:30 | CAD | Core CPI (YoY) (Oct) | 2.0% |  | 2.2% |
+| 13:30 | CAD | CPI (MoM) (Oct) | 0.2% | 0.3% | 0.1% |
 | 14:05 | USD | FOMC Member Williams Speaks |  |  |  |
 | 20:00 | NZD | RBNZ Financial Stability Report |  |  |  |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -59.8K |

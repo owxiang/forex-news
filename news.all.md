@@ -22,28 +22,27 @@
 | 07:00 | NOK | Low | Trade Balance (Oct) | 121.4B |  | 103.4B |
 | 09:15 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 10:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 10:00 | EUR | Moderate | Industrial Production (MoM) (Sep) |  | 0.3% | -0.5% |
-| 10:00 | EUR | Low | Industrial Production (YoY) (Sep) |  |  | -1.1% |
-| 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 2.949% |
-| 10:30 | EUR | Low | German 6-Month Bubill Auction |  |  | 2.717% |
-| 11:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Nov) |  |  | 1.8% |
-| 11:00 | EUR | Low | Reserve Assets Total (Oct) |  |  | 1,808.90B |
+| 10:00 | EUR | Moderate | Industrial Production (MoM) (Sep) | 0.2% | 0.3% | -0.5% |
+| 10:00 | EUR | Low | Industrial Production (YoY) (Sep) | -1.5% | -0.2% | -1.1% |
+| 10:30 | EUR | Low | German 12-Month Bubill Auction | 2.868% |  | 2.949% |
+| 11:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Nov) | 0.8% | 0.8% | 1.8% |
+| 11:00 | EUR | Low | Reserve Assets Total (Oct) | 1,762.49B |  | 1,808.92B |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 12:00 | BRL | Low | IBC-Br Economic Activity (Sep) |  | -0.30% | 0.30% |
-| 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Nov) |  | 17.60 | 25.50 |
-| 13:30 | CAD | Low | Common CPI (YoY) (Oct) |  | 2.5% | 2.4% |
-| 13:30 | CAD | Moderate | Core CPI (MoM) (Oct) |  | 0.2% | 0.0% |
-| 13:30 | CAD | Moderate | Core CPI (YoY) (Oct) |  |  | 2.2% |
-| 13:30 | CAD | Moderate | CPI (MoM) (Oct) |  | 0.3% | 0.1% |
-| 13:30 | CAD | Low | CPI (YoY) (Oct) |  |  | 3.1% |
-| 13:30 | CAD | Low | Median CPI (YoY) (Oct) |  | 2.0% | 1.9% |
-| 13:30 | CAD | Low | Trimmed CPI (YoY) (Oct) |  | 1.9% | 1.8% |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 3.215% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.823% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.994% |
+| 12:00 | BRL | Low | IBC-Br Economic Activity (Sep) | -0.20% | -0.30% | 0.10% |
+| 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Nov) | 7.80 | 17.60 | 25.50 |
+| 13:30 | CAD | Low | Common CPI (YoY) (Oct) | 2.5% | 2.5% | 2.4% |
+| 13:30 | CAD | Moderate | Core CPI (MoM) (Oct) | 0.4% | 0.2% | 0.0% |
+| 13:30 | CAD | Moderate | Core CPI (YoY) (Oct) | 2.0% |  | 2.2% |
+| 13:30 | CAD | Moderate | CPI (MoM) (Oct) | 0.2% | 0.3% | 0.1% |
+| 13:30 | CAD | Low | CPI (YoY) (Oct) | 3.1% | 3.2% | 3.1% |
+| 13:30 | CAD | Low | Median CPI (YoY) (Oct) | 2.0% | 2.0% | 2.0% |
+| 13:30 | CAD | Low | Trimmed CPI (YoY) (Oct) | 1.8% | 1.9% | 1.9% |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 3.389% |  | 3.215% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.708% |  | 2.823% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 3.158% |  | 2.994% |
 | 14:05 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 16:30 | USD | Low | 3-Month Bill Auction |  | 4.099% | 4.060% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.145% |
+| 16:30 | USD | Low | 3-Month Bill Auction | 4.155% | 4.099% | 4.060% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 4.310% |  | 4.145% |
 | 17:00 | USD | High | Fed Chair Warsh Speaks |  |  |  |
 | 20:00 | NZD | Moderate | RBNZ Financial Stability Report |  |  |  |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -59.8K |

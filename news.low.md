@@ -13,22 +13,21 @@
 | 06:30 | INR | WPI Fuel (YoY) (Oct) | 32.84% |  | 25.85% |
 | 06:30 | INR | WPI Manufacturing Inflation (YoY) (Oct) | 9.54% |  | 9.76% |
 | 07:00 | NOK | Trade Balance (Oct) | 121.4B |  | 103.4B |
-| 10:00 | EUR | Industrial Production (YoY) (Sep) |  |  | -1.1% |
-| 10:30 | EUR | German 12-Month Bubill Auction |  |  | 2.949% |
-| 10:30 | EUR | German 6-Month Bubill Auction |  |  | 2.717% |
-| 11:00 | BRL | IGP-10 Inflation Index (MoM) (Nov) |  |  | 1.8% |
-| 11:00 | EUR | Reserve Assets Total (Oct) |  |  | 1,808.90B |
+| 10:00 | EUR | Industrial Production (YoY) (Sep) | -1.5% | -0.2% | -1.1% |
+| 10:30 | EUR | German 12-Month Bubill Auction | 2.868% |  | 2.949% |
+| 11:00 | BRL | IGP-10 Inflation Index (MoM) (Nov) | 0.8% | 0.8% | 1.8% |
+| 11:00 | EUR | Reserve Assets Total (Oct) | 1,762.49B |  | 1,808.92B |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:00 | BRL | IBC-Br Economic Activity (Sep) |  | -0.30% | 0.30% |
-| 13:30 | CAD | Common CPI (YoY) (Oct) |  | 2.5% | 2.4% |
-| 13:30 | CAD | CPI (YoY) (Oct) |  |  | 3.1% |
-| 13:30 | CAD | Median CPI (YoY) (Oct) |  | 2.0% | 1.9% |
-| 13:30 | CAD | Trimmed CPI (YoY) (Oct) |  | 1.9% | 1.8% |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 3.215% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.823% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.994% |
-| 16:30 | USD | 3-Month Bill Auction |  | 4.099% | 4.060% |
-| 16:30 | USD | 6-Month Bill Auction |  |  | 4.145% |
+| 12:00 | BRL | IBC-Br Economic Activity (Sep) | -0.20% | -0.30% | 0.10% |
+| 13:30 | CAD | Common CPI (YoY) (Oct) | 2.5% | 2.5% | 2.4% |
+| 13:30 | CAD | CPI (YoY) (Oct) | 3.1% | 3.2% | 3.1% |
+| 13:30 | CAD | Median CPI (YoY) (Oct) | 2.0% | 2.0% | 2.0% |
+| 13:30 | CAD | Trimmed CPI (YoY) (Oct) | 1.8% | 1.9% | 1.9% |
+| 14:00 | EUR | French 12-Month BTF Auction | 3.389% |  | 3.215% |
+| 14:00 | EUR | French 3-Month BTF Auction | 2.708% |  | 2.823% |
+| 14:00 | EUR | French 6-Month BTF Auction | 3.158% |  | 2.994% |
+| 16:30 | USD | 3-Month Bill Auction | 4.155% | 4.099% | 4.060% |
+| 16:30 | USD | 6-Month Bill Auction | 4.310% |  | 4.145% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -1.4K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 37.7K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 137.6K |
