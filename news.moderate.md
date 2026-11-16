@@ -2,19 +2,19 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | CNY | Fixed Asset Investment (YoY) (Oct) |  | -7.0% | -7.2% |
-| 02:00 | CNY | Industrial Production (YoY) (Oct) |  | 5.3% | 5.5% |
-| 02:00 | CNY | Chinese Industrial Production YTD (YoY) (Oct) |  |  | 5.3% |
-| 02:00 | CNY | Chinese Unemployment Rate (Oct) |  | 5.2% | 5.2% |
+| 02:00 | CNY | Fixed Asset Investment (YoY) (Oct) | -8.1% | -7.0% | -7.2% |
+| 02:00 | CNY | Industrial Production (YoY) (Oct) | 4.8% | 5.3% | 5.5% |
+| 02:00 | CNY | Chinese Industrial Production YTD (YoY) (Oct) | 5.3% |  | 5.3% |
+| 02:00 | CNY | Chinese Unemployment Rate (Oct) | 5.1% | 5.2% | 5.2% |
 | 02:00 | CNY | NBS Press Conference |  |  |  |
-| 04:30 | JPY | Industrial Production (MoM) (Sep) |  | 2.2% | 2.2% |
-| 06:30 | INR | WPI Inflation (YoY) (Oct) |  | 12.10% | 11.39% |
+| 04:30 | JPY | Industrial Production (MoM) (Sep) | 2.0% | 2.2% | 2.2% |
+| 06:30 | INR | WPI Inflation (YoY) (Oct) | 12.29% | 12.10% | 11.39% |
 | 09:15 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 10:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 10:00 | EUR | Industrial Production (MoM) (Sep) |  | 0.3% | -0.5% |
 | 13:30 | USD | NY Empire State Manufacturing Index (Nov) |  | 17.60 | 25.50 |
-| 13:30 | CAD | Core CPI (YoY) (Oct) |  |  | 2.2% |
 | 13:30 | CAD | Core CPI (MoM) (Oct) |  | 0.2% | 0.0% |
+| 13:30 | CAD | Core CPI (YoY) (Oct) |  |  | 2.2% |
 | 13:30 | CAD | CPI (MoM) (Oct) |  | 0.3% | 0.1% |
 | 14:05 | USD | FOMC Member Williams Speaks |  |  |  |
 | 20:00 | NZD | RBNZ Financial Stability Report |  |  |  |

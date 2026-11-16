@@ -2,27 +2,24 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | Imports (YoY) (Oct) | 36.0% | 36.0% | 36.0% |
 | 00:01 | GBP | Low | Rightmove House Price Index (MoM) (Nov) | -1.8% |  | 1.0% |
+| 00:01 | GBP | Low | Rightmove House Price Index (YoY) (Nov) | -0.2% |  | -0.1% |
 | 01:00 | JPY | Low | BoJ Tamura Speaks |  |  |  |
 | 01:30 | CNY | Low | House Prices (YoY) (Oct) | -2.4% |  | -2.8% |
-| 02:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Oct) |  | -7.0% | -7.2% |
-| 02:00 | CNY | Moderate | Industrial Production (YoY) (Oct) |  | 5.3% | 5.5% |
-| 02:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Oct) |  |  | 5.3% |
-| 02:00 | CNY | Low | Retail Sales (YoY) (Oct) |  | 0.8% | 1.1% |
-| 02:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Oct) |  |  | 1.13% |
-| 02:00 | CNY | Moderate | Chinese Unemployment Rate (Oct) |  | 5.2% | 5.2% |
+| 02:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Oct) | -8.1% | -7.0% | -7.2% |
+| 02:00 | CNY | Moderate | Industrial Production (YoY) (Oct) | 4.8% | 5.3% | 5.5% |
+| 02:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Oct) | 5.3% |  | 5.3% |
+| 02:00 | CNY | Low | Retail Sales (YoY) (Oct) | 0.4% | 0.8% | 1.1% |
+| 02:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Oct) | 1.04% |  | 1.13% |
+| 02:00 | CNY | Moderate | Chinese Unemployment Rate (Oct) | 5.1% | 5.2% | 5.2% |
 | 02:00 | CNY | Moderate | NBS Press Conference |  |  |  |
-| 04:30 | JPY | Low | Capacity Utilization (MoM) (Sep) |  |  | -4.2% |
-| 04:30 | JPY | Moderate | Industrial Production (MoM) (Sep) |  | 2.2% | 2.2% |
-| 06:30 | INR | Low | WPI Food (YoY) (Oct) |  |  | 8.14% |
-| 06:30 | INR | Low | WPI Fuel (YoY) (Oct) |  |  | 25.85% |
-| 06:30 | INR | Moderate | WPI Inflation (YoY) (Oct) |  | 12.10% | 11.39% |
-| 06:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Oct) |  |  | 9.76% |
-| 07:00 | NOK | Low | Trade Balance (Oct) |  |  | 105.0B |
-| 09:00 | INR | Low | Exports (USD) (Oct) |  |  | 44.40B |
-| 09:00 | INR | Low | Imports (USD) (Oct) |  |  | 74.61B |
-| 09:00 | INR | Low | Trade Balance (Oct) |  | -32.00B | -30.21B |
+| 04:30 | JPY | Low | Capacity Utilization (MoM) (Sep) | 1.6% |  | -4.2% |
+| 04:30 | JPY | Moderate | Industrial Production (MoM) (Sep) | 2.0% | 2.2% | 2.2% |
+| 06:30 | INR | Low | WPI Food (YoY) (Oct) | 8.26% |  | 8.14% |
+| 06:30 | INR | Low | WPI Fuel (YoY) (Oct) | 32.84% |  | 25.85% |
+| 06:30 | INR | Moderate | WPI Inflation (YoY) (Oct) | 12.29% | 12.10% | 11.39% |
+| 06:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Oct) | 9.54% |  | 9.76% |
+| 07:00 | NOK | Low | Trade Balance (Oct) | 121.4B |  | 103.4B |
 | 09:15 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 10:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 10:00 | EUR | Moderate | Industrial Production (MoM) (Sep) |  | 0.3% | -0.5% |
@@ -32,20 +29,19 @@
 | 11:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Nov) |  |  | 1.8% |
 | 11:00 | EUR | Low | Reserve Assets Total (Oct) |  |  | 1,808.90B |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 12:00 | BRL | Low | IBC-Br Economic Activity (Sep) |  |  | 0.30% |
+| 12:00 | BRL | Low | IBC-Br Economic Activity (Sep) |  | -0.30% | 0.30% |
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Nov) |  | 17.60 | 25.50 |
 | 13:30 | CAD | Low | Common CPI (YoY) (Oct) |  | 2.5% | 2.4% |
-| 13:30 | CAD | Moderate | Core CPI (YoY) (Oct) |  |  | 2.2% |
 | 13:30 | CAD | Moderate | Core CPI (MoM) (Oct) |  | 0.2% | 0.0% |
-| 13:30 | CAD | Low | CPI (YoY) (Oct) |  |  | 3.1% |
+| 13:30 | CAD | Moderate | Core CPI (YoY) (Oct) |  |  | 2.2% |
 | 13:30 | CAD | Moderate | CPI (MoM) (Oct) |  | 0.3% | 0.1% |
+| 13:30 | CAD | Low | CPI (YoY) (Oct) |  |  | 3.1% |
 | 13:30 | CAD | Low | Median CPI (YoY) (Oct) |  | 2.0% | 1.9% |
 | 13:30 | CAD | Low | Trimmed CPI (YoY) (Oct) |  | 1.9% | 1.8% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 3.215% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.823% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.994% |
 | 14:05 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 15:17 | GBP | Low | Rightmove House Price Index (YoY) (Nov) |  |  | -0.1% |
 | 16:30 | USD | Low | 3-Month Bill Auction |  | 4.099% | 4.060% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.145% |
 | 17:00 | USD | High | Fed Chair Warsh Speaks |  |  |  |
