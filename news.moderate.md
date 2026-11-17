@@ -14,18 +14,18 @@
 | 10:00 | EUR | German ZEW Economic Sentiment (Nov) | 35.6 | 28.8 | 28.1 |
 | 10:00 | EUR | EU Economic Forecasts |  |  |  |
 | 10:00 | EUR | ZEW Economic Sentiment (Nov) | 26.5 | 19.1 | 18.5 |
-| 13:15 | USD | ADP Employment Change Weekly |  |  | 19.80K |
-| 13:15 | CAD | Housing Starts (Oct) |  | 241.0K | 248.9K |
-| 13:30 | USD | Export Price Index (MoM) (Oct) |  | 0.3% | 2.2% |
-| 13:30 | USD | Import Price Index (MoM) (Oct) |  | 0.7% | 1.1% |
-| 13:30 | USD | Retail Control (MoM) (Oct) |  | 0.4% | 0.1% |
-| 13:30 | CAD | Foreign Securities Purchases (Sep) |  | 14.85B | -17.31B |
+| 13:15 | USD | ADP Employment Change Weekly | 23.80K |  | 19.80K |
+| 13:15 | CAD | Housing Starts (Oct) | 244.6K | 241.0K | 250.1K |
+| 13:30 | USD | Export Price Index (MoM) (Oct) | 1.1% | 0.3% | 2.4% |
+| 13:30 | USD | Import Price Index (MoM) (Oct) | 1.1% | 0.7% | 1.1% |
+| 13:30 | USD | Retail Control (MoM) (Oct) | 0.6% | 0.4% | 0.5% |
+| 13:30 | CAD | Foreign Securities Purchases (Sep) | 19.46B | 14.85B | -16.53B |
 | 14:10 | USD | Fed Waller Speaks |  |  |  |
-| 14:15 | USD | Industrial Production (MoM) (Oct) |  | 0.0% | 0.7% |
-| 14:15 | USD | Industrial Production (YoY) (Oct) |  |  | 2.25% |
-| 15:00 | USD | Business Inventories (MoM) (Sep) |  | 0.5% | 0.4% |
-| 15:00 | USD | Retail Inventories Ex Auto (Sep) |  | 0.4% | 0.1% |
-| 16:30 | USD | Atlanta Fed GDPNow (Q4) |  | 3.5% | 3.5% |
+| 14:15 | USD | Industrial Production (MoM) (Oct) | -0.4% | 0.0% | 0.7% |
+| 14:15 | USD | Industrial Production (YoY) (Oct) | 2.15% |  | 2.14% |
+| 15:00 | USD | Business Inventories (MoM) (Sep) | 0.5% | 0.5% | 0.4% |
+| 15:00 | USD | Retail Inventories Ex Auto (Sep) | 0.5% | 0.4% | 0.1% |
+| 16:50 | USD | Atlanta Fed GDPNow (Q4) | 3.4% | 3.5% | 3.5% |
 | 18:30 | EUR | ECB's Lane Speaks |  |  |  |
 | 19:25 | USD | FOMC Member Williams Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | 9.000M |
