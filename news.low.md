@@ -1,44 +1,32 @@
-## 16 November 2026 - Low Impact Forex News
+## 17 November 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | Rightmove House Price Index (MoM) (Nov) | -1.8% |  | 1.0% |
-| 00:01 | GBP | Rightmove House Price Index (YoY) (Nov) | -0.2% |  | -0.1% |
-| 01:00 | JPY | BoJ Tamura Speaks |  |  |  |
-| 01:30 | CNY | House Prices (YoY) (Oct) | -2.4% |  | -2.8% |
-| 02:00 | CNY | Retail Sales (YoY) (Oct) | 0.4% | 0.8% | 1.1% |
-| 02:00 | CNY | Chinese Retail Sales YTD (YoY) (Oct) | 1.04% |  | 1.13% |
-| 04:30 | JPY | Capacity Utilization (MoM) (Sep) | 1.6% |  | -4.2% |
-| 06:30 | INR | WPI Food (YoY) (Oct) | 8.26% |  | 8.14% |
-| 06:30 | INR | WPI Fuel (YoY) (Oct) | 32.84% |  | 25.85% |
-| 06:30 | INR | WPI Manufacturing Inflation (YoY) (Oct) | 9.54% |  | 9.76% |
-| 07:00 | NOK | Trade Balance (Oct) | 121.4B |  | 103.4B |
-| 10:00 | EUR | Industrial Production (YoY) (Sep) | -1.5% | -0.2% | -1.1% |
-| 10:30 | EUR | German 12-Month Bubill Auction | 2.868% |  | 2.949% |
-| 11:00 | BRL | IGP-10 Inflation Index (MoM) (Nov) | 0.8% | 0.8% | 1.8% |
-| 11:00 | EUR | Reserve Assets Total (Oct) | 1,762.49B |  | 1,808.92B |
-| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:00 | BRL | IBC-Br Economic Activity (Sep) | -0.20% | -0.30% | 0.10% |
-| 13:30 | CAD | Common CPI (YoY) (Oct) | 2.5% | 2.5% | 2.4% |
-| 13:30 | CAD | CPI (YoY) (Oct) | 3.1% | 3.2% | 3.1% |
-| 13:30 | CAD | Median CPI (YoY) (Oct) | 2.0% | 2.0% | 2.0% |
-| 13:30 | CAD | Trimmed CPI (YoY) (Oct) | 1.8% | 1.9% | 1.9% |
-| 14:00 | EUR | French 12-Month BTF Auction | 3.389% |  | 3.215% |
-| 14:00 | EUR | French 3-Month BTF Auction | 2.708% |  | 2.823% |
-| 14:00 | EUR | French 6-Month BTF Auction | 3.158% |  | 2.994% |
-| 16:30 | USD | 3-Month Bill Auction | 4.155% | 4.099% | 4.060% |
-| 16:30 | USD | 6-Month Bill Auction | 4.310% |  | 4.145% |
-| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -1.4K |
-| 20:30 | USD | CFTC Copper speculative net positions |  |  | 37.7K |
-| 20:30 | USD | CFTC Corn speculative net positions |  |  | 137.6K |
-| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -258.9K |
-| 20:30 | USD | CFTC Silver speculative net positions |  |  | 21.3K |
-| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 163.6K |
-| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -62.5K |
-| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -41.8K |
-| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 18.0K |
-| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -16.6K |
-| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -60.0K |
-| 21:45 | NZD | FPI (MoM) (Oct) |  |  | 0.0% |
+| 00:30 | SGD | Non-Oil Exports (YoY) (Oct) | 79.80% |  | 68.30% |
+| 00:30 | SGD | Non-Oil Exports (MoM) (Oct) | 14.20% |  | 25.50% |
+| 01:00 | SGD | Trade Balance (Oct) | 19.325B |  | 9.025B |
+| 02:00 | NZD | RBNZ Offshore Holdings (Oct) | 55.30% |  | 57.30% |
+| 04:30 | JPY | Tertiary Industry Activity Index (Sep) |  |  | -4.10 |
+| 07:00 | GBP | Average Earnings ex Bonus (Sep) |  | 3.5% | 3.7% |
+| 08:30 | HKD | Unemployment Rate (Oct) |  |  | 3.9% |
+| 09:00 | EUR | Italian CPI (YoY) (Oct) |  | 5.4% | 4.2% |
+| 09:00 | EUR | Italian CPI (MoM) (Oct) |  | 0.9% | 0.7% |
+| 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Oct) |  |  | 4.1% |
+| 09:00 | EUR | Italian HICP (MoM) (Oct) |  | 1.2% | 2.1% |
+| 09:00 | EUR | Italian HICP (YoY) (Oct) |  | 5.6% | 4.2% |
+| 09:00 | EUR | Spanish Trade Balance (Oct) |  |  | -5.98B |
+| 10:30 | EUR | German 2-Year Schatz Auction |  |  | 3.080% |
+| 12:00 | NZD | GlobalDairyTrade Price Index |  |  | 3.0% |
+| 12:00 | USD | Milk Auctions |  |  | 4,166.0 |
+| 13:30 | USD | Export Price Index (YoY) (Oct) |  |  | 11.6% |
+| 13:30 | USD | Import Price Index (YoY) (Oct) |  |  | 8.1% |
+| 13:30 | USD | Retail Sales (YoY) (Oct) |  |  | 6.29% |
+| 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Oct) |  |  | 0.2% |
+| 13:30 | CAD | Foreign Securities Purchases by Canadians (Sep) |  |  | 23.900B |
+| 13:30 | CAD | New Motor Vehicle Sales (MoM) (Sep) |  |  | 174.6K |
+| 13:55 | USD | Redbook (YoY) |  |  | 10.1% |
+| 14:15 | USD | Capacity Utilization Rate (Oct) |  | 76.8% | 76.9% |
+| 14:15 | USD | Manufacturing Production (MoM) (Oct) |  | 0.2% | 0.3% |
+| 15:00 | USD | NAHB Housing Market Index (Nov) |  | 29 | 29 |
 | 23:00 | AUD | RBA Gov Bullock Speaks |  |  |  |
-| 23:10 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 23:50 | JPY | Imports (YoY) (Oct) |  | 25.8% | 18.9% |
