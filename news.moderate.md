@@ -1,35 +1,29 @@
-## 17 November 2026 - Moderate Impact Forex News
+## 18 November 2026 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | NZD | RBNZ Press Conference |  |  |  |
-| 00:30 | AUD | RBA Meeting Minutes |  |  |  |
-| 02:00 | NZD | Inflation Expectations (QoQ) | 2.4% |  | 2.3% |
-| 07:00 | GBP | Average Earnings Index +Bonus (Sep) | 3.6% |  | 3.8% |
-| 07:00 | GBP | Claimant Count Change (Oct) | 33.2K | 25.4K | 9.8K |
-| 07:00 | GBP | Employment Change 3M/3M (MoM) (Sep) | 156K |  | 102K |
-| 07:00 | GBP | Unemployment Rate (Sep) | 4.6% | 4.7% | 4.7% |
-| 09:30 | GBP | Labour Productivity (Q3) | 2.5% |  | 1.5% |
-| 10:00 | EUR | German ZEW Current Conditions (Nov) | -33.2 | -35.0 | -35.9 |
-| 10:00 | EUR | German ZEW Economic Sentiment (Nov) | 35.6 | 28.8 | 28.1 |
-| 10:00 | EUR | EU Economic Forecasts |  |  |  |
-| 10:00 | EUR | ZEW Economic Sentiment (Nov) | 26.5 | 19.1 | 18.5 |
-| 13:15 | USD | ADP Employment Change Weekly | 23.80K |  | 19.80K |
-| 13:15 | CAD | Housing Starts (Oct) | 244.6K | 241.0K | 250.1K |
-| 13:30 | USD | Export Price Index (MoM) (Oct) | 1.1% | 0.3% | 2.4% |
-| 13:30 | USD | Import Price Index (MoM) (Oct) | 1.1% | 0.7% | 1.1% |
-| 13:30 | USD | Retail Control (MoM) (Oct) | 0.6% | 0.4% | 0.5% |
-| 13:30 | CAD | Foreign Securities Purchases (Sep) | 19.46B | 14.85B | -16.53B |
-| 14:10 | USD | Fed Waller Speaks |  |  |  |
-| 14:15 | USD | Industrial Production (MoM) (Oct) | -0.4% | 0.0% | 0.7% |
-| 14:15 | USD | Industrial Production (YoY) (Oct) | 2.15% |  | 2.14% |
-| 15:00 | USD | Business Inventories (MoM) (Sep) | 0.5% | 0.5% | 0.4% |
-| 15:00 | USD | Retail Inventories Ex Auto (Sep) | 0.5% | 0.4% | 0.1% |
-| 16:50 | USD | Atlanta Fed GDPNow (Q4) | 3.4% | 3.5% | 3.5% |
-| 18:30 | EUR | ECB's Lane Speaks |  |  |  |
-| 19:25 | USD | FOMC Member Williams Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock |  |  | 9.000M |
-| 21:45 | NZD | PPI Input (QoQ) (Q3) |  | 1.5% | 2.9% |
-| 23:50 | JPY | Adjusted Trade Balance |  | -0.90T | -0.70T |
-| 23:50 | JPY | Exports (YoY) (Oct) |  | 20.0% | 16.7% |
-| 23:50 | JPY | Trade Balance (Oct) |  | -956.0B | -536.6B |
+| 00:30 | AUD | Wage Price Index (QoQ) (Q3) | 1.1% | 1.0% | 0.7% |
+| 02:45 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 07:00 | GBP | CPI (MoM) (Oct) |  | 0.5% | 0.4% |
+| 07:00 | GBP | PPI Input (MoM) (Oct) |  | 0.8% | 1.5% |
+| 07:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 07:30 | IDR | Interest Rate Decision |  | 5.75% | 5.75% |
+| 08:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
+| 09:00 | EUR | ECB Financial Stability Review |  |  |  |
+| 10:00 | EUR | Core CPI (YoY) (Oct) |  | 2.5% | 2.5% |
+| 10:00 | EUR | CPI (MoM) (Oct) |  | 0.4% | 0.6% |
+| 13:30 | USD | Building Permits (Oct) |  | 1.380M | 1.398M |
+| 13:30 | USD | Housing Starts (Oct) |  | 1.250M | 1.221M |
+| 13:30 | USD | Housing Starts (MoM) (Oct) |  |  | -5.2% |
+| 13:30 | CAD | New Housing Price Index (MoM) (Oct) |  | 0.1% | -0.2% |
+| 14:25 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 15:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 15:00 | USD | Atlanta Fed GDPNow (Q4) |  |  |  |
+| 15:00 | USD | Pending Home Sales (MoM) (Oct) |  | -2.1% | -7.3% |
+| 15:30 | USD | Cushing Crude Oil Inventories |  |  | 0.106M |
+| 17:15 | USD | FOMC Member Daly Speaks |  |  |  |
+| 18:00 | USD | 20-Year Bond Auction |  |  | 5.469% |
+| 18:35 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 19:30 | USD | FOMC Member Williams Speaks |  |  |  |
+| 21:00 | USD | TIC Net Long-Term Transactions (Sep) |  | 160.7B | 279.2B |
+| 21:15 | USD | FOMC Member Kashkari Speaks |  |  |  |
