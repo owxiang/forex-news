@@ -48,37 +48,37 @@
 | 12:00 | USD | Low | MBA Purchase Index | 137.6 |  | 141.2 |
 | 12:00 | USD | Low | Mortgage Market Index | 199.8 |  | 204.6 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 532.8 |  | 540.7 |
-| 13:30 | USD | Moderate | Building Permits (Oct) |  | 1.380M | 1.398M |
-| 13:30 | USD | Low | Building Permits (MoM) (Oct) |  |  | -0.4% |
-| 13:30 | USD | Moderate | Housing Starts (Oct) |  | 1.250M | 1.221M |
-| 13:30 | USD | Moderate | Housing Starts (MoM) (Oct) |  |  | -5.2% |
-| 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Oct) |  | 0.1% | -0.2% |
+| 13:30 | USD | Moderate | Building Permits (Oct) | 1.295M | 1.380M | 1.398M |
+| 13:30 | USD | Low | Building Permits (MoM) (Oct) | -7.4% | -1.7% | -0.4% |
+| 13:30 | USD | Moderate | Housing Starts (Oct) | 1.309M | 1.250M | 1.191M |
+| 13:30 | USD | Moderate | Housing Starts (MoM) (Oct) | 9.9% | 2.4% | -7.0% |
+| 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Oct) | -0.2% | 0.1% | -0.2% |
 | 14:25 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 15:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 15:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 3.4% | 3.4% |
-| 15:00 | USD | Moderate | Pending Home Sales (MoM) (Oct) |  | -2.0% | -7.3% |
-| 15:00 | USD | Low | Pending Home Sales Index (Oct) |  |  | 66.0 |
-| 15:30 | USD | High | Crude Oil Inventories |  | 0.400M | 4.657M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.322M |
-| 15:30 | USD | Low | Crude Oil Imports |  |  | 0.544M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.106M |
-| 15:30 | USD | Low | Distillate Fuel Production |  |  | -0.063M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  |  | 4.071M |
-| 15:30 | USD | Low | Gasoline Production |  |  | -0.078M |
-| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.335M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.7% |
-| 15:30 | USD | Low | Gasoline Inventories |  |  | 1.799M |
+| 15:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 3.2% | 3.4% | 3.4% |
+| 15:00 | USD | Moderate | Pending Home Sales (MoM) (Oct) | -4.7% | -2.0% | -7.2% |
+| 15:00 | USD | Low | Pending Home Sales Index (Oct) | 63.0 |  | 66.1 |
+| 15:30 | USD | High | Crude Oil Inventories | 3.380M | 0.400M | 4.657M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | -0.129M |  | 0.322M |
+| 15:30 | USD | Low | Crude Oil Imports | -2.155M |  | 0.544M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | -1.209M |  | 0.106M |
+| 15:30 | USD | Low | Distillate Fuel Production | 0.140M |  | -0.063M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks | 1.571M | 1.100M | 4.071M |
+| 15:30 | USD | Low | Gasoline Production | -0.202M |  | -0.078M |
+| 15:30 | USD | Low | Heating Oil Stockpiles | -0.775M |  | 0.335M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 0.5% |  | 0.7% |
+| 15:30 | USD | Low | Gasoline Inventories | 5.192M | 1.700M | 1.799M |
 | 17:15 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 17:30 | CAD | Low | BoC Deputy Governor Gravelle Speaks |  |  |  |
-| 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -2.059B |
-| 18:00 | USD | Moderate | 20-Year Bond Auction |  |  | 5.469% |
+| 17:30 | BRL | Low | Foreign Exchange Flows | 1.293B |  | -2.059B |
+| 18:00 | USD | Moderate | 20-Year Bond Auction | 5.459% |  | 5.469% |
 | 18:35 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
 | 19:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 21:00 | USD | Low | US Foreign Buying, T-bonds (Sep) |  |  | 108.90B |
-| 21:00 | USD | Low | Overall Net Capital Flow (Sep) |  |  | 199.80B |
-| 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Sep) |  | 160.7B | 279.2B |
-| 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Sep) |  |  | 279.20B |
+| 21:00 | USD | Low | US Foreign Buying, T-bonds (Sep) | 80.80B |  | 108.60B |
+| 21:00 | USD | Low | Overall Net Capital Flow (Sep) | 261.00B |  | 203.00B |
+| 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Sep) | 155.3B | 160.7B | 285.0B |
+| 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Sep) | 155.30B |  | 285.00B |
 | 21:15 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 21:45 | NZD | Low | Exports (Oct) |  |  | 6.47B |
 | 21:45 | NZD | Low | Imports (Oct) |  |  | 8.44B |

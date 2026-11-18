@@ -36,21 +36,21 @@
 | 12:00 | USD | MBA Purchase Index | 137.6 |  | 141.2 |
 | 12:00 | USD | Mortgage Market Index | 199.8 |  | 204.6 |
 | 12:00 | USD | Mortgage Refinance Index | 532.8 |  | 540.7 |
-| 13:30 | USD | Building Permits (MoM) (Oct) |  |  | -0.4% |
-| 15:00 | USD | Pending Home Sales Index (Oct) |  |  | 66.0 |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.322M |
-| 15:30 | USD | Crude Oil Imports |  |  | 0.544M |
-| 15:30 | USD | Distillate Fuel Production |  |  | -0.063M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | 4.071M |
-| 15:30 | USD | Gasoline Production |  |  | -0.078M |
-| 15:30 | USD | Heating Oil Stockpiles |  |  | 0.335M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.7% |
-| 15:30 | USD | Gasoline Inventories |  |  | 1.799M |
+| 13:30 | USD | Building Permits (MoM) (Oct) | -7.4% | -1.7% | -0.4% |
+| 15:00 | USD | Pending Home Sales Index (Oct) | 63.0 |  | 66.1 |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) | -0.129M |  | 0.322M |
+| 15:30 | USD | Crude Oil Imports | -2.155M |  | 0.544M |
+| 15:30 | USD | Distillate Fuel Production | 0.140M |  | -0.063M |
+| 15:30 | USD | EIA Weekly Distillates Stocks | 1.571M | 1.100M | 4.071M |
+| 15:30 | USD | Gasoline Production | -0.202M |  | -0.078M |
+| 15:30 | USD | Heating Oil Stockpiles | -0.775M |  | 0.335M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.5% |  | 0.7% |
+| 15:30 | USD | Gasoline Inventories | 5.192M | 1.700M | 1.799M |
 | 17:30 | CAD | BoC Deputy Governor Gravelle Speaks |  |  |  |
-| 17:30 | BRL | Foreign Exchange Flows |  |  | -2.059B |
-| 21:00 | USD | US Foreign Buying, T-bonds (Sep) |  |  | 108.90B |
-| 21:00 | USD | Overall Net Capital Flow (Sep) |  |  | 199.80B |
-| 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Sep) |  |  | 279.20B |
+| 17:30 | BRL | Foreign Exchange Flows | 1.293B |  | -2.059B |
+| 21:00 | USD | US Foreign Buying, T-bonds (Sep) | 80.80B |  | 108.60B |
+| 21:00 | USD | Overall Net Capital Flow (Sep) | 261.00B |  | 203.00B |
+| 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Sep) | 155.30B |  | 285.00B |
 | 21:45 | NZD | Exports (Oct) |  |  | 6.47B |
 | 21:45 | NZD | Imports (Oct) |  |  | 8.44B |
 | 21:45 | NZD | Trade Balance (MoM) (Oct) |  | -1,650M | -1,971M |
