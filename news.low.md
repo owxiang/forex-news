@@ -4,39 +4,38 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | AUD | MI Leading Index (MoM) (Oct) | 0.0% |  | 0.0% |
 | 00:30 | AUD | Wage Price Index (YoY) (Q3) | 3.5% |  | 3.2% |
-| 07:00 | GBP | Core CPI (YoY) (Oct) |  | 2.8% | 2.8% |
-| 07:00 | GBP | Core CPI (MoM) (Oct) |  |  | 0.2% |
-| 07:00 | GBP | Core PPI Output (YoY) (Oct) |  |  | 2.9% |
-| 07:00 | GBP | Core PPI Output (MoM) (Oct) |  |  | 0.2% |
-| 07:00 | GBP | Core RPI (MoM) (Oct) |  |  | 0.1% |
-| 07:00 | GBP | Core RPI (YoY) (Oct) |  |  | 3.9% |
-| 07:00 | GBP | CPI, n.s.a (Oct) |  |  | 144.10 |
-| 07:00 | GBP | PPI Input (YoY) (Oct) |  |  | 8.3% |
-| 07:00 | GBP | PPI Output (YoY) (Oct) |  |  | 4.6% |
-| 07:00 | GBP | PPI Output (MoM) (Oct) |  | 0.6% | 0.8% |
-| 07:00 | GBP | RPI (YoY) (Oct) |  | 4.1% | 3.9% |
-| 07:00 | GBP | RPI (MoM) (Oct) |  |  | 0.1% |
-| 07:30 | IDR | Deposit Facility Rate (Nov) |  | 5.00% | 5.00% |
-| 07:30 | IDR | Lending Facility Rate (Nov) |  | 6.50% | 6.50% |
-| 07:30 | IDR | Loans (YoY) (Oct) |  |  | 13.26% |
-| 08:00 | ZAR | Core CPI (MoM) (Oct) |  |  | 0.2% |
-| 08:00 | ZAR | Core CPI (YoY) (Oct) |  |  | 4.0% |
-| 08:00 | ZAR | CPI (YoY) (Oct) |  | 5.2% | 4.5% |
-| 08:00 | ZAR | CPI (MoM) (Oct) |  |  | 0.4% |
-| 09:30 | GBP | House Price Index (YoY) |  | 0.7% | 0.9% |
-| 10:00 | EUR | Core CPI (MoM) (Oct) |  | 0.3% | 0.2% |
-| 10:00 | EUR | CPI ex Tobacco (MoM) (Oct) |  |  | 0.6% |
-| 10:00 | EUR | CPI ex Tobacco (YoY) (Oct) |  |  | 3.8% |
-| 10:00 | EUR | CPI, n.s.a (Oct) |  | 104.77 | 104.31 |
-| 10:00 | EUR | HICP ex Energy & Food (YoY) (Oct) |  | 2.2% | 2.2% |
-| 10:00 | EUR | HICP ex Energy and Food (MoM) (Oct) |  | 0.3% | 0.2% |
-| 11:00 | ZAR | Retail Sales (YoY) (Sep) |  |  | 3.3% |
-| 11:30 | INR | M3 Money Supply |  |  | 16.0% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.21% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 6.2% |
-| 12:00 | USD | MBA Purchase Index |  |  | 141.2 |
-| 12:00 | USD | Mortgage Market Index |  |  | 204.6 |
-| 12:00 | USD | Mortgage Refinance Index |  |  | 540.7 |
+| 07:00 | GBP | Core CPI (YoY) (Oct) | 2.8% | 2.8% | 2.8% |
+| 07:00 | GBP | Core CPI (MoM) (Oct) | 0.3% |  | 0.2% |
+| 07:00 | GBP | Core PPI Output (MoM) (Oct) | 0.1% |  | 0.2% |
+| 07:00 | GBP | Core PPI Output (YoY) (Oct) | 2.9% |  | 2.9% |
+| 07:00 | GBP | Core RPI (MoM) (Oct) | 0.5% |  | 0.1% |
+| 07:00 | GBP | Core RPI (YoY) (Oct) | 4.1% |  | 3.9% |
+| 07:00 | GBP | CPI, n.s.a (Oct) | 144.90 |  | 144.10 |
+| 07:00 | GBP | PPI Input (YoY) (Oct) | 10.8% | 9.2% | 8.3% |
+| 07:00 | GBP | PPI Output (YoY) (Oct) | 5.1% | 5.1% | 4.7% |
+| 07:00 | GBP | PPI Output (MoM) (Oct) | 0.4% | 0.6% | 0.8% |
+| 07:00 | GBP | RPI (YoY) (Oct) | 4.2% | 4.1% | 3.9% |
+| 07:00 | GBP | RPI (MoM) (Oct) | 0.6% | 0.5% | 0.1% |
+| 07:30 | IDR | Deposit Facility Rate (Nov) | 5.25% | 5.00% | 5.00% |
+| 07:30 | IDR | Lending Facility Rate (Nov) | 6.75% | 6.50% | 6.50% |
+| 07:30 | IDR | Loans (YoY) (Oct) | 13.21% |  | 13.26% |
+| 08:00 | ZAR | Core CPI (MoM) (Oct) | 0.3% |  | 0.2% |
+| 08:00 | ZAR | Core CPI (YoY) (Oct) | 4.2% |  | 4.0% |
+| 08:00 | ZAR | CPI (YoY) (Oct) | 5.2% | 5.2% | 4.5% |
+| 08:00 | ZAR | CPI (MoM) (Oct) | 0.7% |  | 0.4% |
+| 09:30 | GBP | House Price Index (YoY) | 1.2% | 0.7% | 0.9% |
+| 10:00 | EUR | Core CPI (MoM) (Oct) | 0.3% | 0.3% | 0.2% |
+| 10:00 | EUR | CPI ex Tobacco (MoM) (Oct) | 0.5% |  | 0.6% |
+| 10:00 | EUR | CPI ex Tobacco (YoY) (Oct) | 4.0% |  | 3.8% |
+| 10:00 | EUR | CPI, n.s.a (Oct) | 104.80 | 104.77 | 104.31 |
+| 10:00 | EUR | HICP ex Energy & Food (YoY) (Oct) | 2.2% | 2.2% | 2.2% |
+| 10:00 | EUR | HICP ex Energy and Food (MoM) (Oct) | 0.3% | 0.3% | 0.2% |
+| 11:00 | ZAR | Retail Sales (YoY) (Sep) | 2.4% |  | 3.2% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 7.35% |  | 7.21% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | -2.3% |  | 6.2% |
+| 12:00 | USD | MBA Purchase Index | 137.6 |  | 141.2 |
+| 12:00 | USD | Mortgage Market Index | 199.8 |  | 204.6 |
+| 12:00 | USD | Mortgage Refinance Index | 532.8 |  | 540.7 |
 | 13:30 | USD | Building Permits (MoM) (Oct) |  |  | -0.4% |
 | 15:00 | USD | Pending Home Sales Index (Oct) |  |  | 66.0 |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.322M |
