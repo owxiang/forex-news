@@ -8,7 +8,7 @@
 | 10:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 10:00 | EUR | ECB's Elderson Speaks |  |  |  |
 | 13:00 | ZAR | Interest Rate Decision (Nov) |  | 7.25% | 7.25% |
-| 13:30 | USD | Continuing Jobless Claims |  |  | 1,697K |
+| 13:30 | USD | Continuing Jobless Claims |  | 1,710K | 1,697K |
 | 13:30 | USD | Philly Fed Employment (Nov) |  |  | 9.1 |
 | 13:30 | CAD | RMPI (MoM) (Oct) |  | 0.9% | 4.8% |
 | 13:30 | EUR | ECB President Lagarde Speaks |  |  |  |

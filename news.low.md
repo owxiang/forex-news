@@ -3,14 +3,15 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Participation Rate (Oct) | 66.6% | 66.8% | 66.8% |
-| 00:30 | AUD | Reserve Assets Total (Oct) | 117,418.0B |  | 118.8B |
-| 07:00 | CHF | Trade Balance (Oct) |  |  | 1.309B |
-| 07:30 | CHF | Industrial Production (YoY) (Q3) |  |  | 5.50% |
-| 09:00 | EUR | Current Account (Sep) |  | 16.6B | 8.7B |
-| 09:00 | EUR | Current Account n.s.a. (Sep) |  |  | 7.7B |
-| 10:00 | EUR | Spanish Consumer Confidence (Oct) |  |  | 84.1 |
-| 10:00 | EUR | Construction Output (MoM) (Sep) |  |  | 1.85% |
-| 11:00 | GBP | CBI Industrial Trends Orders (Nov) |  | -29 | -32 |
+| 00:30 | AUD | Reserve Assets Total (Oct) | 117.4B |  | 118.8B |
+| 07:00 | CHF | Trade Balance (Oct) | 4.089B |  | 1.253B |
+| 07:30 | CHF | Industrial Production (YoY) (Q3) | 0.80% |  | 5.50% |
+| 09:00 | EUR | Current Account (Sep) | 12.5B | 16.6B | 11.6B |
+| 09:00 | EUR | Current Account n.s.a. (Sep) | 27.5B |  | 10.4B |
+| 10:00 | EUR | Construction Output (MoM) (Sep) | 0.10% |  | -0.49% |
+| 10:10 | EUR | Spanish 5-Year Bonos Auction | 3.475% |  | 3.338% |
+| 10:10 | EUR | Spanish 7-Year Obligacion Auction | 3.765% |  | 3.713% |
+| 11:00 | GBP | CBI Industrial Trends Orders (Nov) | -12 | -29 | -32 |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 12:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 12:15 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
