@@ -1,61 +1,38 @@
-## 18 November 2026 - Low Impact Forex News
+## 19 November 2026 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | AUD | MI Leading Index (MoM) (Oct) | 0.0% |  | 0.0% |
-| 00:30 | AUD | Wage Price Index (YoY) (Q3) | 3.5% |  | 3.2% |
-| 07:00 | GBP | Core CPI (YoY) (Oct) | 2.8% | 2.8% | 2.8% |
-| 07:00 | GBP | Core CPI (MoM) (Oct) | 0.3% |  | 0.2% |
-| 07:00 | GBP | Core PPI Output (MoM) (Oct) | 0.1% |  | 0.2% |
-| 07:00 | GBP | Core PPI Output (YoY) (Oct) | 2.9% |  | 2.9% |
-| 07:00 | GBP | Core RPI (MoM) (Oct) | 0.5% |  | 0.1% |
-| 07:00 | GBP | Core RPI (YoY) (Oct) | 4.1% |  | 3.9% |
-| 07:00 | GBP | CPI, n.s.a (Oct) | 144.90 |  | 144.10 |
-| 07:00 | GBP | PPI Input (YoY) (Oct) | 10.8% | 9.2% | 8.3% |
-| 07:00 | GBP | PPI Output (YoY) (Oct) | 5.1% | 5.1% | 4.7% |
-| 07:00 | GBP | PPI Output (MoM) (Oct) | 0.4% | 0.6% | 0.8% |
-| 07:00 | GBP | RPI (YoY) (Oct) | 4.2% | 4.1% | 3.9% |
-| 07:00 | GBP | RPI (MoM) (Oct) | 0.6% | 0.5% | 0.1% |
-| 07:30 | IDR | Deposit Facility Rate (Nov) | 5.25% | 5.00% | 5.00% |
-| 07:30 | IDR | Lending Facility Rate (Nov) | 6.75% | 6.50% | 6.50% |
-| 07:30 | IDR | Loans (YoY) (Oct) | 13.21% |  | 13.26% |
-| 08:00 | ZAR | Core CPI (MoM) (Oct) | 0.3% |  | 0.2% |
-| 08:00 | ZAR | Core CPI (YoY) (Oct) | 4.2% |  | 4.0% |
-| 08:00 | ZAR | CPI (YoY) (Oct) | 5.2% | 5.2% | 4.5% |
-| 08:00 | ZAR | CPI (MoM) (Oct) | 0.7% |  | 0.4% |
-| 09:30 | GBP | House Price Index (YoY) | 1.2% | 0.7% | 0.9% |
-| 10:00 | EUR | Core CPI (MoM) (Oct) | 0.3% | 0.3% | 0.2% |
-| 10:00 | EUR | CPI ex Tobacco (MoM) (Oct) | 0.5% |  | 0.6% |
-| 10:00 | EUR | CPI ex Tobacco (YoY) (Oct) | 4.0% |  | 3.8% |
-| 10:00 | EUR | CPI, n.s.a (Oct) | 104.80 | 104.77 | 104.31 |
-| 10:00 | EUR | HICP ex Energy & Food (YoY) (Oct) | 2.2% | 2.2% | 2.2% |
-| 10:00 | EUR | HICP ex Energy and Food (MoM) (Oct) | 0.3% | 0.3% | 0.2% |
-| 11:00 | ZAR | Retail Sales (YoY) (Sep) | 2.4% |  | 3.2% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate | 7.35% |  | 7.21% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) | -2.3% |  | 6.2% |
-| 12:00 | USD | MBA Purchase Index | 137.6 |  | 141.2 |
-| 12:00 | USD | Mortgage Market Index | 199.8 |  | 204.6 |
-| 12:00 | USD | Mortgage Refinance Index | 532.8 |  | 540.7 |
-| 13:30 | USD | Building Permits (MoM) (Oct) | -7.4% | -1.7% | -0.4% |
-| 15:00 | USD | Pending Home Sales Index (Oct) | 63.0 |  | 66.1 |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) | -0.129M |  | 0.322M |
-| 15:30 | USD | Crude Oil Imports | -2.155M |  | 0.544M |
-| 15:30 | USD | Distillate Fuel Production | 0.140M |  | -0.063M |
-| 15:30 | USD | EIA Weekly Distillates Stocks | 1.571M | 1.100M | 4.071M |
-| 15:30 | USD | Gasoline Production | -0.202M |  | -0.078M |
-| 15:30 | USD | Heating Oil Stockpiles | -0.775M |  | 0.335M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.5% |  | 0.7% |
-| 15:30 | USD | Gasoline Inventories | 5.192M | 1.700M | 1.799M |
-| 17:30 | CAD | BoC Deputy Governor Gravelle Speaks |  |  |  |
-| 17:30 | BRL | Foreign Exchange Flows | 1.293B |  | -2.059B |
-| 21:00 | USD | US Foreign Buying, T-bonds (Sep) | 80.80B |  | 108.60B |
-| 21:00 | USD | Overall Net Capital Flow (Sep) | 261.00B |  | 203.00B |
-| 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Sep) | 155.30B |  | 285.00B |
-| 21:45 | NZD | Exports (Oct) |  |  | 6.47B |
-| 21:45 | NZD | Imports (Oct) |  |  | 8.44B |
-| 21:45 | NZD | Trade Balance (MoM) (Oct) |  | -1,650M | -1,971M |
-| 21:45 | NZD | Trade Balance (YoY) (Oct) |  |  | -6,180M |
-| 23:50 | JPY | Core Machinery Orders (MoM) (Sep) |  | 1.3% | 5.2% |
-| 23:50 | JPY | Core Machinery Orders (YoY) (Sep) |  | 13.7% | 18.6% |
-| 23:50 | JPY | Foreign Bonds Buying |  |  | -537.6B |
-| 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -105.2B |
+| 00:30 | AUD | Participation Rate (Oct) | 66.6% | 66.8% | 66.8% |
+| 00:30 | AUD | Reserve Assets Total (Oct) | 117,418.0B |  | 118.8B |
+| 07:00 | CHF | Trade Balance (Oct) |  |  | 1.309B |
+| 07:30 | CHF | Industrial Production (YoY) (Q3) |  |  | 5.50% |
+| 09:00 | EUR | Current Account (Sep) |  | 16.6B | 8.7B |
+| 09:00 | EUR | Current Account n.s.a. (Sep) |  |  | 7.7B |
+| 10:00 | EUR | Spanish Consumer Confidence (Oct) |  |  | 84.1 |
+| 10:00 | EUR | Construction Output (MoM) (Sep) |  |  | 1.85% |
+| 11:00 | GBP | CBI Industrial Trends Orders (Nov) |  | -29 | -32 |
+| 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 12:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
+| 12:15 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
+| 13:00 | ZAR | Prime Rate (Nov) |  |  | 10.75% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 195.25K |
+| 13:30 | USD | Philly Fed Business Conditions (Nov) |  |  | 33.0 |
+| 13:30 | USD | Philly Fed CAPEX Index (Nov) |  |  | 34.90 |
+| 13:30 | USD | Philly Fed New Orders (Nov) |  |  | 4.3 |
+| 13:30 | USD | Philly Fed Prices Paid (Nov) |  |  | 43.20 |
+| 13:30 | CAD | IPPI (MoM) (Oct) |  | 0.4% | 2.0% |
+| 13:30 | CAD | IPPI (YoY) (Oct) |  |  | 14.5% |
+| 13:30 | CAD | RMPI (YoY) (Oct) |  |  | 27.0% |
+| 14:25 | USD | Fed Governor Jefferson Speaks |  |  |  |
+| 15:30 | USD | Natural Gas Storage |  | 25B | 61B |
+| 16:00 | USD | KC Fed Composite Index (Nov) |  |  | 11 |
+| 16:00 | USD | KC Fed Manufacturing Index (Nov) |  |  | 16 |
+| 16:30 | USD | 4-Week Bill Auction |  |  | 3.955% |
+| 16:30 | USD | 8-Week Bill Auction |  |  | 4.080% |
+| 17:30 | USD | Fed Goolsbee Speaks |  |  |  |
+| 19:00 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 21:00 | KRW | PPI (MoM) (Oct) |  |  | 0.2% |
+| 21:00 | KRW | PPI (YoY) (Oct) |  |  | 7.7% |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.969T |
+| 23:30 | JPY | CPI, n.s.a (MoM) (Oct) |  |  | 0.0% |
+| 23:30 | JPY | National CPI (YoY) (Oct) |  |  | 2.1% |
