@@ -20,32 +20,32 @@
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 12:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
 | 12:15 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
-| 13:00 | ZAR | Moderate | Interest Rate Decision (Nov) |  | 7.25% | 7.25% |
-| 13:00 | ZAR | Low | Prime Rate (Nov) |  |  | 10.75% |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,710K | 1,697K |
-| 13:30 | USD | High | Initial Jobless Claims |  | 198K | 200K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 195.25K |
-| 13:30 | USD | High | Philadelphia Fed Manufacturing Index (Nov) |  | 20.6 | 20.9 |
-| 13:30 | USD | Low | Philly Fed Business Conditions (Nov) |  |  | 33.0 |
-| 13:30 | USD | Low | Philly Fed CAPEX Index (Nov) |  |  | 34.90 |
-| 13:30 | USD | Moderate | Philly Fed Employment (Nov) |  |  | 9.1 |
-| 13:30 | USD | Low | Philly Fed New Orders (Nov) |  |  | 4.3 |
-| 13:30 | USD | Low | Philly Fed Prices Paid (Nov) |  |  | 43.20 |
-| 13:30 | CAD | Low | IPPI (MoM) (Oct) |  | 0.4% | 2.0% |
-| 13:30 | CAD | Low | IPPI (YoY) (Oct) |  |  | 14.5% |
-| 13:30 | CAD | Moderate | RMPI (MoM) (Oct) |  | 0.9% | 4.8% |
-| 13:30 | CAD | Low | RMPI (YoY) (Oct) |  |  | 27.0% |
+| 13:00 | ZAR | Moderate | Interest Rate Decision (Nov) | 7.25% | 7.25% | 7.25% |
+| 13:00 | ZAR | Low | Prime Rate (Nov) | 10.75% |  | 10.75% |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,763K | 1,710K | 1,693K |
+| 13:30 | USD | High | Initial Jobless Claims | 203K | 198K | 202K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 197.75K |  | 195.75K |
+| 13:30 | USD | High | Philadelphia Fed Manufacturing Index (Nov) | 6.3 | 20.6 | 20.9 |
+| 13:30 | USD | Low | Philly Fed Business Conditions (Nov) | 33.6 |  | 33.0 |
+| 13:30 | USD | Low | Philly Fed CAPEX Index (Nov) | 18.90 |  | 34.90 |
+| 13:30 | USD | Moderate | Philly Fed Employment (Nov) | 11.6 |  | 9.1 |
+| 13:30 | USD | Low | Philly Fed New Orders (Nov) | -0.4 |  | 4.3 |
+| 13:30 | USD | Low | Philly Fed Prices Paid (Nov) | 58.20 |  | 43.20 |
+| 13:30 | CAD | Low | IPPI (MoM) (Oct) | 0.3% | 0.4% | 1.5% |
+| 13:30 | CAD | Low | IPPI (YoY) (Oct) | 12.6% |  | 13.9% |
+| 13:30 | CAD | Moderate | RMPI (MoM) (Oct) | -1.0% | 0.9% | 4.5% |
+| 13:30 | CAD | Low | RMPI (YoY) (Oct) | 23.5% |  | 26.6% |
 | 13:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 14:25 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
-| 15:00 | USD | Moderate | US Leading Index (MoM) (Oct) |  | 0.0% | 0.0% |
+| 15:00 | USD | Moderate | US Leading Index (MoM) (Oct) | -0.3% | 0.0% | 0.0% |
 | 15:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
-| 15:30 | USD | Low | Natural Gas Storage |  | 25B | 61B |
-| 16:00 | USD | Low | KC Fed Composite Index (Nov) |  |  | 11 |
-| 16:00 | USD | Low | KC Fed Manufacturing Index (Nov) |  |  | 16 |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 3.955% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.080% |
+| 15:30 | USD | Low | Natural Gas Storage | 20B | 25B | 61B |
+| 16:00 | USD | Low | KC Fed Composite Index (Nov) | 18 | 11 | 11 |
+| 16:00 | USD | Low | KC Fed Manufacturing Index (Nov) | 23 |  | 16 |
+| 16:30 | USD | Low | 4-Week Bill Auction | 4.050% |  | 3.955% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 4.110% |  | 4.080% |
 | 17:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 18:00 | USD | Moderate | 10-Year TIPS Auction |  |  | 2.653% |
+| 18:00 | USD | Moderate | 10-Year TIPS Auction | 2.903% |  | 2.653% |
 | 19:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 19:15 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 21:00 | KRW | Low | PPI (MoM) (Oct) |  |  | 0.2% |

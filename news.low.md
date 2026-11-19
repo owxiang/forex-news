@@ -15,21 +15,21 @@
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 12:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 12:15 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
-| 13:00 | ZAR | Prime Rate (Nov) |  |  | 10.75% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 195.25K |
-| 13:30 | USD | Philly Fed Business Conditions (Nov) |  |  | 33.0 |
-| 13:30 | USD | Philly Fed CAPEX Index (Nov) |  |  | 34.90 |
-| 13:30 | USD | Philly Fed New Orders (Nov) |  |  | 4.3 |
-| 13:30 | USD | Philly Fed Prices Paid (Nov) |  |  | 43.20 |
-| 13:30 | CAD | IPPI (MoM) (Oct) |  | 0.4% | 2.0% |
-| 13:30 | CAD | IPPI (YoY) (Oct) |  |  | 14.5% |
-| 13:30 | CAD | RMPI (YoY) (Oct) |  |  | 27.0% |
+| 13:00 | ZAR | Prime Rate (Nov) | 10.75% |  | 10.75% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 197.75K |  | 195.75K |
+| 13:30 | USD | Philly Fed Business Conditions (Nov) | 33.6 |  | 33.0 |
+| 13:30 | USD | Philly Fed CAPEX Index (Nov) | 18.90 |  | 34.90 |
+| 13:30 | USD | Philly Fed New Orders (Nov) | -0.4 |  | 4.3 |
+| 13:30 | USD | Philly Fed Prices Paid (Nov) | 58.20 |  | 43.20 |
+| 13:30 | CAD | IPPI (MoM) (Oct) | 0.3% | 0.4% | 1.5% |
+| 13:30 | CAD | IPPI (YoY) (Oct) | 12.6% |  | 13.9% |
+| 13:30 | CAD | RMPI (YoY) (Oct) | 23.5% |  | 26.6% |
 | 14:25 | USD | Fed Governor Jefferson Speaks |  |  |  |
-| 15:30 | USD | Natural Gas Storage |  | 25B | 61B |
-| 16:00 | USD | KC Fed Composite Index (Nov) |  |  | 11 |
-| 16:00 | USD | KC Fed Manufacturing Index (Nov) |  |  | 16 |
-| 16:30 | USD | 4-Week Bill Auction |  |  | 3.955% |
-| 16:30 | USD | 8-Week Bill Auction |  |  | 4.080% |
+| 15:30 | USD | Natural Gas Storage | 20B | 25B | 61B |
+| 16:00 | USD | KC Fed Composite Index (Nov) | 18 | 11 | 11 |
+| 16:00 | USD | KC Fed Manufacturing Index (Nov) | 23 |  | 16 |
+| 16:30 | USD | 4-Week Bill Auction | 4.050% |  | 3.955% |
+| 16:30 | USD | 8-Week Bill Auction | 4.110% |  | 4.080% |
 | 17:30 | USD | Fed Goolsbee Speaks |  |  |  |
 | 19:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 21:00 | KRW | PPI (MoM) (Oct) |  |  | 0.2% |

@@ -2,5 +2,5 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:30 | USD | Initial Jobless Claims |  | 198K | 200K |
-| 13:30 | USD | Philadelphia Fed Manufacturing Index (Nov) |  | 20.6 | 20.9 |
+| 13:30 | USD | Initial Jobless Claims | 203K | 198K | 202K |
+| 13:30 | USD | Philadelphia Fed Manufacturing Index (Nov) | 6.3 | 20.6 | 20.9 |
